@@ -24,7 +24,7 @@ After completion of the study, the Secretary shall make findings on—
 
 &emsp;(3) the national need for development of the oil and gas resources of all or any portion of these lands;
 
-&emsp;(4) the national interests in preservation of the wilderness characteristics of these lands; and
+&emsp;(4) the national interest in preservation of the wilderness characteristics of these lands; and
 
 &emsp;(5) the national interest in protection of the wildlife resources of these lands.
 
@@ -44,9 +44,9 @@ Nothing in this subchapter shall be construed as impeding, delaying, or otherwis
 
 #### References in Text
 
-This Act, referred to in subsecs. (a) and (f), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsecs. (a) and (f), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (f), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (f), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Alaska Statehood Act, referred to in subsec. (f), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+The Alaska Statehood Act, referred to in subsec. (f), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 

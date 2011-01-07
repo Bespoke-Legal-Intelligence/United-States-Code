@@ -12,7 +12,7 @@ The purposes of this subchapter and subchapter II of this chapter are—
 
 #### Amendments
 
-2002—Pub. L. 107–273 amended heading and text generally. Prior to text, section read as follows:
+<b>2002</b>—Pub. L. 107–273 amended heading and text generally. Prior to text, section read as follows:
 
 “(a) It is the purpose of this chapter—
 
@@ -40,7 +40,7 @@ The purposes of this subchapter and subchapter II of this chapter are—
 
 “(b) It is therefore the further declared policy of Congress to provide the necessary resources, leadership, and coordination (1) to develop and implement effective methods of preventing and reducing juvenile delinquency, including methods with a special focus on preserving and strengthening families so that juveniles may be retained in their homes; (2) to develop and conduct effective programs to prevent delinquency, to divert juveniles from the traditional juvenile justice system and to provide critically needed alternatives to institutionalization; (3) to improve the quality of juvenile justice in the United States; (4) to increase the capacity of State and local governments and public and private agencies to conduct effective juvenile justice and delinquency prevention and rehabilitation programs and to provide research, evaluation, and training services in the field of juvenile delinquency prevention; (5) to encourage parental involvement in treatment and alternative disposition programs; and (6) to provide for coordination of services between State, local, and community-based agencies and to promote interagency cooperation in providing such services.”
 
-1992—Subsec. (a)(1). Pub. L. 102–586, §1(b)(1)(A), substituted “justice and delinquency prevention” for “delinquency”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–586, §1(b)(1)(A), substituted “justice and delinquency prevention” for “delinquency”.
 
 Subsec. (a)(2). Pub. L. 102–586, §1(b)(1)(B), substituted “nonprofit juvenile justice and delinquency prevention programs” for “agencies, institutions, and individuals in developing and implementing juvenile delinquency programs”.
 
@@ -52,13 +52,13 @@ Subsec. (b)(1). Pub. L. 102–586, §1(b)(2)(A), substituted “preserving and s
 
 Subsec. (b)(5), (6). Pub. L. 102–586, §1(b)(2)(B), (C), added cls. (5) and (6).
 
-1984—Subsec. (a)(1). Pub. L. 98–473, §612(1), substituted “ongoing” for “prompt”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–473, §612(1), substituted “ongoing” for “prompt”.
 
 Subsec. (a)(4). Pub. L. 98–473, §612(2), substituted “the dissemination of” for “an information clearinghouse to disseminate”.
 
 Subsec. (a)(7). Pub. L. 98–473, §612(3), inserted “and homeless”.
 
-1980—Subsec. (a)(8). Pub. L. 96–509, §4(a), added par. (8).
+<b>1980</b>—Subsec. (a)(8). Pub. L. 96–509, §4(a), added par. (8).
 
 Subsec. (b)(1). Pub. L. 96–509, §4(b), inserted reference to methods with a special focus on maintaining and strengthening the family unit so that juveniles may be retained in their homes.
 

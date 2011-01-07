@@ -6,7 +6,7 @@ Amounts in the Fund shall be available, without further appropriations and witho
 
 #### (b) Use of interest only
 
-The amount of funding to be made available annually to carry out section 2731 of this title shall be the interest produced by the Fund's investment of the $22,500,000 remaining funding authorized for the Prince William Sound Oil Spill Recovery Institute and currently deposited in the Fund and invested by the Secretary of the Treasury in income producing securities along with other funds comprising the Fund. The National Pollution Funds Center shall transfer all such accrued interest, including the interest earned from the date funds in the Trans-Alaska Liability Pipeline Fund were transferred intothe Oil Spill Liability Trust Fund pursuant to section 8102(a)(2)(B)(ii), to the Prince William Sound Oil Spill Recovery Institute annually, beginning 60 days after October 19, 1996.
+The amount of funding to be made available annually to carry out section 2731 of this title shall be the interest produced by the Fund's investment of the $22,500,000 remaining funding authorized for the Prince William Sound Oil Spill Recovery Institute and currently deposited in the Fund and invested by the Secretary of the Treasury in income producing securities along with other funds comprising the Fund. The National Pollution Funds Center shall transfer all such accrued interest, including the interest earned from the date funds in the Trans-Alaska Liability Pipeline Fund were transferred into the Oil Spill Liability Trust Fund pursuant to section 8102(a)(2)(B)(ii), to the Prince William Sound Oil Spill Recovery Institute annually, beginning 60 days after October 19, 1996.
 
 #### (c) Use for section 2712
 
@@ -26,19 +26,19 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–241, which directed the insertion of a comma after “October 1, 2012”, could not be executed because “October 1, 2012” did not appear subsequent to amendment by Pub. L. 109–58. See 2005 Amendment note below.
+<b>2006</b>—Subsec. (c). Pub. L. 109–241, which directed the insertion of a comma after “October 1, 2012”, could not be executed because “October 1, 2012” did not appear subsequent to amendment by Pub. L. 109–58. See 2005 Amendment note below.
 
-2005—Subsec. (c). Pub. L. 109–58 substituted “1 year after the date on which the Secretary, in consultation with the Secretary of the Interior, determines that oil and gas exploration, development, and production in the State of Alaska have ceased,” for “October 1, 2012”.
+<b>2005</b>—Subsec. (c). Pub. L. 109–58 substituted “1 year after the date on which the Secretary, in consultation with the Secretary of the Interior, determines that oil and gas exploration, development, and production in the State of Alaska have ceased,” for “October 1, 2012”.
 
 Subsec. (d). Pub. L. 109–59, which directed insertion of “annual” before “amount”, was executed by making the insertion before “amount not to exceed”, to reflect the probable intent of Congress.
 
-2004—Subsecs. (c), (d). Pub. L. 108–293 in subsec. (c) relating to section 2712, substituted “October 1, 2012” for “with the eleventh year following October 19, 1996,” and redesignated subsec. (c) relating to section 2738 as (d).
+<b>2004</b>—Subsecs. (c), (d). Pub. L. 108–293 in subsec. (c) relating to section 2712, substituted “October 1, 2012” for “with the eleventh year following October 19, 1996,” and redesignated subsec. (c) relating to section 2738 as (d).
 
-2000—Subsec. (c). Pub. L. 106–554 inserted “of which up to $3,000,000 may be used for the lease payment to the Alaska SeaLife Center under section 2738(b)(2) of this title” after “$5,000,000” in subsec. (c) relating to section 2738.
+<b>2000</b>—Subsec. (c). Pub. L. 106–554 inserted “of which up to $3,000,000 may be used for the lease payment to the Alaska SeaLife Center under section 2738(b)(2) of this title” after “$5,000,000” in subsec. (c) relating to section 2738.
 
 Pub. L. 106–246 added subsec. (c) relating to section 2738.
 
-1996—Subsec. (a). Pub. L. 104–324, §1102(b)(1)–(3), redesignated subsec. (b) as (a), substituted “2731, 2733,” for “2733” in heading, inserted “to carry out section 2731 of this title in the amount as determined in subsection (b) of this section, and” after “limitation,”, and struck out heading and text of former subsec. (a). Text read as follows: “Amounts in the Fund shall be available, subject to appropriations, and shall remain available until expended, to carry out section 2731 of this title as follows:
+<b>1996</b>—Subsec. (a). Pub. L. 104–324, §1102(b)(1)–(3), redesignated subsec. (b) as (a), substituted “2731, 2733,” for “2733” in heading, inserted “to carry out section 2731 of this title in the amount as determined in subsection (b) of this section, and” after “limitation,”, and struck out heading and text of former subsec. (a). Text read as follows: “Amounts in the Fund shall be available, subject to appropriations, and shall remain available until expended, to carry out section 2731 of this title as follows:
 
 &emsp;“(1) $5,000,000 shall be available for the first fiscal year beginning after August 18, 1990.
 

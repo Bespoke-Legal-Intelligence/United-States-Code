@@ -42,7 +42,7 @@ In General.—Except as provided in subsection (b), the provisions of this title
 
 Exceptions.—(1) Sections 3202, 3204, 3251, 3295, and 3297 \[enacting sections 2451 and 2483 of this title and sections 7144a to 7144c of Title 42, amending section 7132 of Title 42, and enacting provisions set out as a note below\] shall take effect on the date of the enactment of this Act \[Oct. 5, 1999\].
 
-“(2) Sections 3234 and 3235 \[enacting sections 2424 and 2425 of this title\] shall take effect on the date of the enactment of this Act. During the period beginning on the date of the enactment of this Act and ending on the effective date of this title, the Secretary of Energy shall carry out those sections and any reference in those sections to the Administrator and the Administration shall be treated as references to the Secretary and the Department of Energy, respectively.”
+“(2) Sections 3234 and 3235 \[enacting sections 2424 and 2425 of this title\] shall take effect on the date of the enactment of this Act. During the period beginning on the date of the enactment of this Act and ending on theeffective date of this title, the Secretary of Energy shall carry out those sections and any reference in those sections to the Administrator and the Administration shall be treated as references to the Secretary and the Department of Energy, respectively.”
 
 #### Short Title
 
@@ -98,7 +98,7 @@ Study and Report Required.—The Secretary of Energy shall direct the Secretary 
 
 &emsp;&emsp;“(A) the indemnification requirements for patents or other intellectual property licensed from a national security laboratory or nuclear weapons production facility;
 
-&emsp;&emsp;“(B) the royalty and fee schedules and types of compensation that may be used for patents or otherintellectual property licensed to a small business concern from a national security laboratory or nuclear weapons production facility;
+&emsp;&emsp;“(B) the royalty and fee schedules and types of compensation that may be used for patents or other intellectual property licensed to a small business concern from a national security laboratory or nuclear weapons production facility;
 
 &emsp;&emsp;“(C) the licensing procedures and requirements for patents and other intellectual property;
 
@@ -120,7 +120,7 @@ Submission to Congress.—Not later than one month after receiving the report un
 
 #### Definitions for Purposes of Pub. L. 106–398
 
-Pub. L. 106–398, §1 \[div. C, title XXXI, §3165\], Oct. 30, 2000, 114 Stat. 1654, 1654A–475, provided that: “For purposes of this subtitle \[subtitle E (§§3161–3165) of title XXXI of div. C of H.R. 5408, as enacted by section 1 of Pub. L. 106–398, enacting provisions set out as notes under this section and section 2402 of this title\], the terms ‘national security laboratory’ and ‘nuclear weapons production facility’ have the meanings given such terms in section 3281 of the National Nuclear Security Administration Act (title XXXII of Public Law 106–65; 113 Stat. 968; 50 U.S.C. 2471).”
+Pub. L. 106–398, §1 \[div. C, title XXXI, §3165\], Oct. 30, 2000, 114 Stat. 1654, 1654A–475, provided that: “For purposes of this subtitle \[subtitle E (§§3161–3165) of title XXXI of div. C of H.R. 5408, as enacted by section 1 of Pub. L. 106–398, enacting provisions set out as notes under this section and section 2402 of this title\], the terms ‘national security laboratory’ and ‘nuclear weapons production facility’ have the meanings given such terms in section 3281 of the National Nuclear SecurityAdministration Act (title XXXII of Public Law 106–65; 113 Stat. 968; 50 U.S.C. 2471).”
 
 #### Report Containing Implementation Plan of Secretary of Energy
 

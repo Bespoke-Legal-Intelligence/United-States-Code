@@ -514,11 +514,11 @@ The National Telecommunications and Information Administration Organization Act,
 
 #### Amendments
 
-2009—Subsec. (j)(11). Pub. L. 111–4, §5, substituted “2012” for “2011”.
+<b>2009</b>—Subsec. (j)(11). Pub. L. 111–4, §5, substituted “2012” for “2011”.
 
 Subsec. (j)(14)(A). Pub. L. 111–4, §2(b)(2), substituted “June 12, 2009” for “February 17, 2009”.
 
-2006—Subsec. (j)(8)(A). Pub. L. 109–171, §3004(1), substituted “subparagraphs (B), (D), and (E)” for “subparagraph (B) or subparagraph (D)”.
+<b>2006</b>—Subsec. (j)(8)(A). Pub. L. 109–171, §3004(1), substituted “subparagraphs (B), (D), and (E)” for “subparagraph (B) or subparagraph (D)”.
 
 Subsec. (j)(8)(C)(i). Pub. L. 109–171, §3004(2), inserted “, except as otherwise provided in subparagraph (E)(ii)” before semicolon at end.
 
@@ -544,7 +544,7 @@ Pub. L. 109–171, §3003(a)(1), redesignated par. (15) relating to special auct
 
 Subsec. (j)(16). Pub. L. 109–171, §3003(a)(1), redesignated par. (15) relating to special auction provisions for eligible frequencies as (16).
 
-2004—Subsec. (j)(3)(F). Pub. L. 108–494, §203(a), added subpar. (F).
+<b>2004</b>—Subsec. (j)(3)(F). Pub. L. 108–494, §203(a), added subpar. (F).
 
 Subsec. (j)(8)(A). Pub. L. 108–494, §203(c)(1), inserted “or subparagraph (D)” after “subparagraph (B)”.
 
@@ -552,11 +552,11 @@ Subsec. (j)(8)(D). Pub. L. 108–494, §203(c)(2), added subpar. (D).
 
 Subsec. (j)(15). Pub. L. 108–494, §203(b), added par. (15) relating to special auction provisions for eligible frequencies.
 
-2002—Subsec. (j)(14)(C)(ii). Pub. L. 107–195, §3(b)(1), struck out at end “The Commission shall complete the assignment of such licenses, and report to the Congress the total revenues from such competitive bidding, by September 30, 2002.”
+<b>2002</b>—Subsec. (j)(14)(C)(ii). Pub. L. 107–195, §3(b)(1), struck out at end “The Commission shall complete the assignment of such licenses, and report to the Congress the total revenues from such competitive bidding, by September 30, 2002.”
 
 Subsec. (j)(15). Pub. L. 107–195, §3(a), added par. (15).
 
-1997—Subsec. (i)(1). Pub. L. 105–33, §3002(a)(2)(A), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “If—
+<b>1997</b>—Subsec. (i)(1). Pub. L. 105–33, §3002(a)(2)(A), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “If—
 
 &emsp;“(A) there is more than one application for any initial license or construction permit which will involve a use of the electromagnetic spectrum; and
 
@@ -600,7 +600,7 @@ Subsec. (j)(14). Pub. L. 105–33, §3003, added par. (14).
 
 Subsec. (<i>l</i>). Pub. L. 105–33, §3002(a)(3), added subsec. (<i>l</i>).
 
-1996—Subsec. (b)(2)(A) to (G). Pub. L. 104–104, §403(j), redesignated subpars. (B) to (G) as (A) to (F), respectively, and struck out former subpar. (A) which read as follows: “fixed point-to-point microwave stations (exclusive of control and relay stations used as integral parts of mobile radio systems),”.
+<b>1996</b>—Subsec. (b)(2)(A) to (G). Pub. L. 104–104, §403(j), redesignated subpars. (B) to (G) as (A) to (F), respectively, and struck out former subpar. (A) which read as follows: “fixed point-to-point microwave stations (exclusive of control and relay stations used as integral parts of mobile radio systems),”.
 
 Subsec. (d). Pub. L. 104–104, §204(a)(2), inserted “(or subsection (k) of this section in the case of renewal of any broadcast station license)” after “with subsection (a) of this section” wherever appearing.
 
@@ -610,7 +610,7 @@ Subsec. (j)(8)(C). Pub. L. 104–104, §707(a), added subpar. (C).
 
 Subsec. (k). Pub. L. 104–104, §204(a)(1), added subsec. (k).
 
-1994—Subsec. (c)(2)(F). Pub. L. 103–414, §303(a)(16), substituted “section 325(c)” for “section 325(b)”.
+<b>1994</b>—Subsec. (c)(2)(F). Pub. L. 103–414, §303(a)(16), substituted “section 325(c)” for “section 325(b)”.
 
 Subsec. (i)(4)(A). Pub. L. 103–414, §304(a)(9), which directed substitution of “The Commission shall” for “The commission, not later than 180 days after the date of the enactment of the Communications Technical Amendments Act of 1982, shall”, was executed by making the substitution for “The Commission, not later than 180 days after the date of the enactment of the Communications Amendments Act of 1982, shall”, which for purposes of codification had been translated as “The Commission, not later than 180 days after September 13, 1982, shall”, to reflect the probable intent of Congress and the amendment by Pub. L. 103–414, §303(a)(17). See below.
 
@@ -618,13 +618,13 @@ Pub. L. 103–414, §303(a)(17), substituted “date of the enactment of the Com
 
 Subsec. (j)(13). Pub. L. 103–465 added par. (13).
 
-1993—Subsec. (i). Pub. L. 103–66, §6002(b)(1), inserted subsec. heading, added par. (1), struck out former par. (1), and in par. (4), added subpar. (C). Prior to amendment, par. (1) read as follows: “If there is more than one application for any initial license or construction permit which will involve any use of the electromagnetic spectrum, then the Commission, after determining that each such application is acceptable for filing, shall have authority to grant such license or permit to a qualified applicant through the use of a system of random selection.”
+<b>1993</b>—Subsec. (i). Pub. L. 103–66, §6002(b)(1), inserted subsec. heading, added par. (1), struck out former par. (1), and in par. (4), added subpar. (C). Prior to amendment, par. (1) read as follows: “If there is more than one application for any initial license or construction permit which will involve any use of the electromagnetic spectrum, then the Commission, after determining that each such application is acceptable for filing, shall have authority to grant such license or permit to a qualified applicant through the use of a system of random selection.”
 
 Subsec. (j). Pub. L. 103–66, §6002(a), added subsec. (j).
 
-1984—Subsec. (h). Pub. L. 98–549 substituted “section 706” for “section 606” in the original to accommodate renumbering of sections in subchapter VI (section 601 et seq.) of this chapter by section 6(a) of Pub. L. 98–549. Because both sections translate as “section 606 of this title”, the amendment by section 6(b)(1) of Pub. L. 98–549 resulted in no change in text.
+<b>1984</b>—Subsec. (h). Pub. L. 98–549 substituted “section 706” for “section 606” in the original to accommodate renumbering of sections in subchapter VI (section 601 et seq.) of this chapter by section 6(a) of Pub. L. 98–549. Because both sections translate as “section 606 of this title”, the amendment by section 6(b)(1) of Pub. L. 98–549 resulted in no change in text.
 
-1982—Subsec. (f). Pub. L. 97–259, §114, substituted “temporary” for “emergency” wherever appearing, “additional periods” for “one additional period”, and “180 days” for “ninety days” wherever appearing.
+<b>1982</b>—Subsec. (f). Pub. L. 97–259, §114, substituted “temporary” for “emergency” wherever appearing, “additional periods” for “one additional period”, and “180 days” for “ninety days” wherever appearing.
 
 Subsec. (i)(1). Pub. L. 97–259, §115(a), substituted “application” for “applicant” after “more than one”, and “that each such application is acceptable for filing” for “the qualifications of each such applicant under section 308(b) of this title”.
 
@@ -636,19 +636,19 @@ Subsec. (i)(3)(C). Pub. L. 97–259, §115(c)(2), added subpar. (C).
 
 Subsec. (i)(4)(A). Pub. L. 97–259, §115(d), substituted “September 13, 1982,” for “August 13, 1981,”.
 
-1981—Subsec. (i). Pub. L. 97–35 added subsec. (i).
+<b>1981</b>—Subsec. (i). Pub. L. 97–35 added subsec. (i).
 
-1964—Subsec. (c)(2)(G). Pub. L. 88–307 inserted “not to exceed sixty days”.
+<b>1964</b>—Subsec. (c)(2)(G). Pub. L. 88–307 inserted “not to exceed sixty days”.
 
 Subsec. (e). Pub. L. 88–306 substituted “not more than thirty days after publication of the hearing issues or any substantial amendment thereto in the Federal Register” for “at any time not less than ten days prior to the date of hearing”.
 
-1960—Pub. L. 86–752 amended section generally to revise pre-grant procedure, and, among other changes, a public notice was substituted for a mandatory notice to applicants and interested parties before hearings upon applications; the Commission was required to hold applications for 30 days before acting upon them without hearings; interested parties were permitted to file petitions to deny applications before the Commission acted upon them without hearings, in lieu of 30 days after applications were granted; interested parties were required to support their petitions with “specific” allegations of fact; the Commission was permitted to dispense with formal hearings when there are “no substantial or material questions of fact,” subject to a requirement that it issue a “concise statement of the reasons” for its action.
+<b>1960</b>—Pub. L. 86–752 amended section generally to revise pre-grant procedure, and, among other changes, a public notice was substituted for a mandatory notice to applicants and interested parties before hearings upon applications; the Commission was required to hold applications for 30 days before acting upon them without hearings; interested parties were permitted to file petitions to deny applications before the Commission acted upon them without hearings, in lieu of 30 days after applications were granted; interested parties were required to support their petitions with “specific” allegations of fact; the Commission was permitted to dispense with formal hearings when there are “no substantial or material questions of fact,” subject to a requirement that it issue a “concise statement of the reasons” for its action.
 
-1956—Subsec. (c). Act Jan. 20, 1956, struck out hearings with respect to facts which, even if true, would not be grounds for setting aside the Commission's grant; gave the Commission discretion to keep in effect the protested authorization but required the Commission to affirmatively find and set forth that the public interest requires grant to remain in effect; and authorized Commission to redraft issues urged by protestant in accordance with the facts alleged in the protest.
+<b>1956</b>—Subsec. (c). Act Jan. 20, 1956, struck out hearings with respect to facts which, even if true, would not be grounds for setting aside the Commission's grant; gave the Commission discretion to keep in effect the protested authorization but required the Commission to affirmatively find and set forth that the public interest requires grant to remain in effect; and authorized Commission to redraft issues urged by protestant in accordance with the facts alleged in the protest.
 
-1954—Subsec. (c). Act Mar. 26, 1954, substituted “thirty days” for “fifteen days” in fourth sentence.
+<b>1954</b>—Subsec. (c). Act Mar. 26, 1954, substituted “thirty days” for “fifteen days” in fourth sentence.
 
-1952—Act July 16, 1952, amended section generally to set forth procedure to be followed in cases of denial of applications.
+<b>1952</b>—Act July 16, 1952, amended section generally to set forth procedure to be followed in cases of denial of applications.
 
 #### Effective Date of 1997 Amendment
 

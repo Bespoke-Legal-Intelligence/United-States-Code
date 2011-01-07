@@ -96,9 +96,9 @@ A prior section 8033 was renumbered section 10305 of this title.
 
 #### Amendments
 
-1988—Subsec. (a)(2)(B). Pub. L. 100–456 substituted “full tour of duty in a joint duty assignment (as defined in section 664(f) of this title)” for “joint duty assignment”.
+<b>1988</b>—Subsec. (a)(2)(B). Pub. L. 100–456 substituted “full tour of duty in a joint duty assignment (as defined in section 664(f) of this title)” for “joint duty assignment”.
 
-1986—Pub. L. 99–433 renumbered section 8034 of this title as this section, substituted “Chief of Staff” for “Chief of Staff: appointment; duties” in section catchline, and amended text generally. Prior to amendment, text read as follows:
+<b>1986</b>—Pub. L. 99–433 renumbered section 8034 of this title as this section, substituted “Chief of Staff” for “Chief of Staff: appointment; duties” in section catchline, and amended text generally. Prior to amendment, text read as follows:
 
 “(a) The Chief of Staff shall be appointed for a period of four years by the President, by and with the advice and consent of the Senate, from the general officers of the Air Force. He serves during the pleasure of the President. In time of war or national emergency declared by the Congress after December 31, 1968, he may be reappointed for a term of not more than four years.
 
@@ -120,15 +120,15 @@ A prior section 8033 was renumbered section 10305 of this title.
 
 &emsp;“(6) perform such other military duties, not otherwise assigned by law, as are assigned to him by the President.”
 
-1981—Subsec. (b). Pub. L. 97–22 struck out the comma after “his regular or reserve grade”.
+<b>1981</b>—Subsec. (b). Pub. L. 97–22 struck out the comma after “his regular or reserve grade”.
 
-1980—Subsec. (b). Pub. L. 96–513 struck out “and is counted as one of the officers authorized to serve in a grade above lieutenant general under section 8066 of this title” after “without vacating his regular or reserve grade”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–513 struck out “and is counted as one of the officers authorized to serve in a grade above lieutenant general under section 8066 of this title” after “without vacating his regular or reserve grade”.
 
-1967—Subsec. (a). Pub. L. 90–22 changed the requirement that the Chief of Staff be reappointed only with the advice and consent of the Senate by providing for his reappointment for a term of not more than four years by the President without such advice and consent in a time of war or national emergency as declared by the Congress.
+<b>1967</b>—Subsec. (a). Pub. L. 90–22 changed the requirement that the Chief of Staff be reappointed only with the advice and consent of the Senate by providing for his reappointment for a term of not more than four years by the President without such advice and consent in a time of war or national emergency as declared by the Congress.
 
-1962—Subsec. (d)(4). Pub. L. 87–651 substituted “under section 124 of this title” for “pursuant to section 202(j) of the National Security Act of 1947, as amended”.
+<b>1962</b>—Subsec. (d)(4). Pub. L. 87–651 substituted “under section 124 of this title” for “pursuant to section 202(j) of the National Security Act of 1947, as amended”.
 
-1958—Subsec. (d)(4) to (7). Pub. L. 85–599 redesignated pars. (5) to (7) as (4) to (6), respectively, and in par. (4), as redesignated, required the Chief of Staff to exercise supervision only as the Secretary of the Air Force determines and in a manner consistent with the full operational command vested in unified or specified combatant commanders. Former par. (4), which related to command over the air defense, strategic, tactical, and other major commands, was struck out.
+<b>1958</b>—Subsec. (d)(4) to (7). Pub. L. 85–599 redesignated pars. (5) to (7) as (4) to (6), respectively, and in par. (4), as redesignated, required the Chief of Staff to exercise supervision only as the Secretary of the Air Force determines and in a manner consistent with the full operational command vested in unified or specified combatant commanders. Former par. (4), which related to command over the air defense, strategic, tactical, and other major commands, was struck out.
 
 #### Effective Date of 1981 Amendment
 

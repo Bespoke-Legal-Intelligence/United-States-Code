@@ -1,7 +1,5 @@
 ### SUBCHAPTER LIX–D—CHANNEL ISLANDS NATIONAL PARK
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
-
 
 ---
 

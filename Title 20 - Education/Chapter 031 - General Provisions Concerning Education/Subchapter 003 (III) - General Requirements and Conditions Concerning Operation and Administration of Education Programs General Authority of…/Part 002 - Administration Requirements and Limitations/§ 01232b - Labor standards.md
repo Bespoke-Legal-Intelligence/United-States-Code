@@ -18,5 +18,5 @@ A prior section 439 of Pub. L. 90–247 was renumbered section 445, and is class
 
 #### Amendments
 
-1994—Pub. L. 103–382, §261(d), substituted “All laborers” for “Except for emergency relief under section 241–1 of this title, all laborers”.
+<b>1994</b>—Pub. L. 103–382, §261(d), substituted “All laborers” for “Except for emergency relief under section 241–1 of this title, all laborers”.
 

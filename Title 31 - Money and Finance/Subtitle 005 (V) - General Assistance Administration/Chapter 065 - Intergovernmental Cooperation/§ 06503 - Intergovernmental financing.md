@@ -18,7 +18,7 @@
 
 &emsp;(D) specify those types of costs directly incurred by the State for interest calculations required under this section, and require the Secretary to consider those costs in computing payments under this section.
 
-(3) The Secretary shall issue regulations establishing procedures and requirements for implementing this section with respect to a State with which no agreement is entered into by the Secretary under paragraph (1). Such regulations shall apply to a State until such time as the Secretary enters into an agreement with the State under paragraph (1).
+(3) The Secretary shall issue regulations establishing procedures and requirements for implementing this section with respect to a State with which no agreement is entered into by the Secretary under paragraph (1). Such regulations shall apply to a State until such time as theSecretary enters into an agreement with the State under paragraph (1).
 
 (c)(1) The Secretary shall issue regulations that shall require a State, when not inconsistent with program purposes, to pay interest to the United States on funds from the time funds are deposited by the United States to the State's account until the time that funds are paid out by the State in order to redeem checks or warrants or make payments by other means for program purposes. Except as provided under paragraph (3)(B) (relating to the Unemployment Trust Fund), the interest payable under this subsection shall be calculated at a rate equal to the average of the bond equivalent rates of 13-week Treasury bills auctioned during the period for which interest is calculated, as determined by the Secretary.
 
@@ -72,7 +72,7 @@ In subsection (b), the words “apart from other funds administered by the state
 
 #### Amendments
 
-1990—Pub. L. 101–453 amended section generally, substituting provisions relating to intergovernmental financing for provisions relating to transfer and deposit requirements.
+<b>1990</b>—Pub. L. 101–453 amended section generally, substituting provisions relating to intergovernmental financing for provisions relating to transfer and deposit requirements.
 
 #### Effective Date of 1990 Amendment
 

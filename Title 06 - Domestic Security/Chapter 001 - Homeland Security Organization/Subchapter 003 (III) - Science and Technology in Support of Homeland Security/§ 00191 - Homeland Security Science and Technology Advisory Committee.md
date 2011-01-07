@@ -20,7 +20,7 @@ There is established within the Department a Homeland Security Science and Techn
 
 #### (2) National Research Council
 
-&emsp;The Under Secretary for Science and Technology may enter into an arrangement for the National Research Council to select members of the Advisory Committee, but only if thepanel used by the National Research Council reflects the representation described in paragraph (1).
+&emsp;The Under Secretary for Science and Technology may enter into an arrangement for the National Research Council to select members of the Advisory Committee, but only if the panel used by the National Research Council reflects the representation described in paragraph (1).
 
 #### (c) Terms of office
 

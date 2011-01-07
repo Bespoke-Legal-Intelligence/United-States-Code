@@ -42,7 +42,7 @@ Records and Making Reports.—The Secretary of Transportation reasonably may req
 
 (f)
 
-Providing Copies of Communications About Defects and Noncompliance.—A manufacturer shall give the Secretary of Transportation a true or representative copy of eachcommunication to the manufacturer's dealers or to owners or purchasers of a motor vehicle or replacement equipment produced by the manufacturer about a defect or noncompliance with a motor vehicle safety standard prescribed under this chapter in a vehicle or equipment that is sold or serviced.
+Providing Copies of Communications About Defects and Noncompliance.—A manufacturer shall give the Secretary of Transportation a true or representative copy of each communication to the manufacturer's dealers or to owners or purchasers of a motor vehicle or replacement equipment produced by the manufacturer about a defect or noncompliance with a motor vehicle safety standard prescribed under this chapter in a vehicle or equipment that is sold or serviced.
 
 (g)
 
@@ -134,7 +134,7 @@ Secretary's specifications.—In requiring the reporting of any information requ
 
 &emsp;&emsp;(B)
 
-Information in possession of manufacturer.—The regulations promulgated by the Secretary under paragraph (1) may not require a manufacturer of a motor vehicle or motor vehicle equipment to maintain or submit records respecting information not in the possession of the manufacturer.
+Information in possession of manufacturer.—The regulations promulgated by the Secretary under paragraph (1) may not require a manufacturer of a motor vehicle ormotor vehicle equipment to maintain or submit records respecting information not in the possession of the manufacturer.
 
 &emsp;&emsp;(C)
 
@@ -308,13 +308,13 @@ The date of the enactment of the Transportation Recall Enhancement, Accountabili
 
 #### Amendments
 
-2000—Subsecs. (<i>l</i>) to (n). Pub. L. 106–414 added subsecs. (<i>l</i>) to (n).
+<b>2000</b>—Subsecs. (<i>l</i>) to (n). Pub. L. 106–414 added subsecs. (<i>l</i>) to (n).
 
-1996—Subsec. (d). Pub. L. 104–287 made technical amendment to directory language of Pub. L. 104–88, §308(j). See 1995 Amendment note below.
+<b>1996</b>—Subsec. (d). Pub. L. 104–287 made technical amendment to directory language of Pub. L. 104–88, §308(j). See 1995 Amendment note below.
 
-1995—Subsec. (d). Pub. L. 104–88, §308(j), as amended by Pub. L. 104–287, substituted “subchapter I of chapter 135” for “subchapter II of chapter 105”.
+<b>1995</b>—Subsec. (d). Pub. L. 104–88, §308(j), as amended by Pub. L. 104–287, substituted “subchapter I of chapter 135” for “subchapter II of chapter 105”.
 
-1994—Subsec. (h). Pub. L. 103–429 substituted “any judicial district” for “the judicial district”.
+<b>1994</b>—Subsec. (h). Pub. L. 103–429 substituted “any judicial district” for “the judicial district”.
 
 #### Effective Date of 1996 Amendment
 

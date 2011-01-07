@@ -14,6 +14,10 @@ The President shall review the management cost rates established under subsectio
 
 (Pub. L. 93–288, title III, §324, as added Pub. L. 106–390, title II, §202(a), Oct. 30, 2000, 114 Stat. 1560.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+
 #### Effective Date
 
 Pub. L. 106–390, title II, §202(b), Oct. 30, 2000, 114 Stat. 1560, provided that:

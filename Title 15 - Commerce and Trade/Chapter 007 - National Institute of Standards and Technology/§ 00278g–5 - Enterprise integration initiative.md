@@ -40,7 +40,7 @@ Section was enacted as part of the Enterprise Integration Act of 2002, and not a
 
 #### Change of Name
 
-The Manufacturing Extension Partnership Program, referred to in subsec. (a), redesignated the Hollings Manufacturing Partnership Program by title II of div. B of Pub. L. 108–447, set out as a note under section 278k of this title.
+The Manufacturing Extension Partnership Program, referred to in subsec. (a), redesignated the Hollings Manufacturing Partnership Program by provision of title II of div. B of Pub. L. 108–447, formerly set out as a note under section 278k of this title.
 
 Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

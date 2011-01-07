@@ -6,7 +6,7 @@ The Secretary shall ensure that rural residents engaged in subsistence uses shal
 
 #### (b) Use of snowmobiles, motorboats, or other means of surface transportation
 
-Notwithstanding any other provision of this Act or other law, the Secretary shall permit onthe public lands appropriate use for subsistence purposes of snowmobiles, motorboats, and other means of surface transportation traditionally employed for such purposes by local residents, subject to reasonable regulation.
+Notwithstanding any other provision of this Act or other law, the Secretary shall permit on the public lands appropriate use for subsistence purposes of snowmobiles, motorboats, and other means of surface transportation traditionally employed for such purposes by local residents, subject to reasonable regulation.
 
 (Pub. L. 96–487, title VIII, §811, Dec. 2, 1980, 94 Stat. 2428.)
 

@@ -26,7 +26,7 @@ Section 1213, Pub. L. 102–166, title III, §313, Nov. 21, 1991, 105 Stat. 1095
 
 Section 1214, Pub. L. 102–166, title III, §314, Nov. 21, 1991, 105 Stat. 1095, provided that this chapter was enacted as an exercise of rulemaking power of Senate.
 
-Section 1215, Pub. L. 102–166, title III, §316, Nov. 21, 1991, 105 Stat. 1095, related to consideration of politicalaffiliation and place of residence in Senate employment decisions.
+Section 1215, Pub. L. 102–166, title III, §316, Nov. 21, 1991, 105 Stat. 1095, related to consideration of political affiliation and place of residence in Senate employment decisions.
 
 Section 1216, Pub. L. 102–166, title III, §317, Nov. 21, 1991, 105 Stat. 1096, related to exclusiveness of this chapter as remedy for discriminatory practices relative to Senate employment.
 

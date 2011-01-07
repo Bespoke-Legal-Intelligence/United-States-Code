@@ -60,7 +60,7 @@ The Federal Managers’ Financial Integrity Act of 1982, referred to in subsec. 
 
 #### Amendments
 
-1990—Pub. L. 101–576 substituted “Management” for “Audit” in section catchline and amended text of section generally. Prior to amendment, section read as follows:
+<b>1990</b>—Pub. L. 101–576 substituted “Management” for “Audit” in section catchline and amended text of section generally. Prior to amendment, section read as follows:
 
 “(a) The Comptroller General shall submit to Congress a report on each audit of a Government corporation under section 9105 of this title not later than 6.5 months after the end of the last year covered by the audit. The report shall state the scope of the audit and include—
 

@@ -6,9 +6,9 @@ If necessary to obtain such assets the Secretary, through the Secretary's author
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 5225 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5225 of this title as this section.
 
 Pub. L. 102–83 substituted “Secretary” for “Administrator”, “Secretary's” for “Administrator's”, and “Department” for “Veterans’ Administration”.
 
-1986—Pub. L. 99–576 substituted “the Administrator's” for “his”.
+<b>1986</b>—Pub. L. 99–576 substituted “the Administrator's” for “his”.
 

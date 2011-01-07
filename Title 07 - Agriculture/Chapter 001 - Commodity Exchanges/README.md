@@ -4,12 +4,14 @@
 | :--- | ---: |
 | [1\.](%C2%A7%2000001%20-%20Short%20title.md) | Short title. |
 | [1a.](%C2%A7%2000001a%20-%20Definitions.md) | Definitions. |
+| [1b.](%C2%A7%2000001b%20-%20Requirements%20of%20Secretary%20of%20the%20Treasury%20regarding%20exemption%20of%20foreign%20exchange%20swaps%20and%20foreign%20exchange%20forwards%20from%20definition%20of%E2%80%A6.md) | Requirements of Secretary of the Treasury regarding exemption of foreign exchange swaps and foreign exchange forwards from definition of the term “swap”. |
 | [2\.](%C2%A7%2000002%20-%20Jurisdiction%20of%20Commission%3B%20liability%20of%20principal%20for%20act%20of%20agent%3B%20Commodity%20Futures%20Trading%20Commission%3B%20transaction%20in%20interstate%E2%80%A6.md) | Jurisdiction of Commission; liability of principal for act of agent; Commodity Futures Trading Commission; transaction in interstate commerce. |
 | 2a to 4a. | Transferred. |
 | [5\.](%C2%A7%2000005%20-%20Findings%20and%20purpose.md) | Findings and purpose. |
 | [6\.](%C2%A7%2000006%20-%20Regulation%20of%20futures%20trading%20and%20foreign%20transactions.md) | Regulation of futures trading and foreign transactions. |
 | [6a.](%C2%A7%2000006a%20-%20Excessive%20speculation.md) | Excessive speculation. |
 | [6b.](%C2%A7%2000006b%20-%20Contracts%20designed%20to%20defraud%20or%20mislead.md) | Contracts designed to defraud or mislead. |
+| 6b–1. | Enforcement authority. |
 | [6c.](%C2%A7%2000006c%20-%20Prohibited%20transactions.md) | Prohibited transactions. |
 | [6d.](%C2%A7%2000006d%20-%20Dealing%20by%20unregistered%20futures%20commission%20merchants%20or%20introducing%20brokers%20prohibited%3B%20duties%20in%20handling%20customer%20receipts%3B%20rules%20to%E2%80%A6.md) | Dealing by unregistered futures commission merchants or introducing brokers prohibited; duties in handling customer receipts; rules to avoid duplicative regulations. |
 | [6e.](%C2%A7%2000006e%20-%20Dealings%20by%20unregistered%20floor%20trader%20or%20broker%20prohibited.md) | Dealings by unregistered floor trader or broker prohibited. |
@@ -26,6 +28,9 @@
 | 6<i>o</i>–1. | Transferred. |
 | [6p.](%C2%A7%2000006p%20-%20Standards%20and%20examinations.md) | Standards and examinations. |
 | [6q.](%C2%A7%2000006q%20-%20Special%20procedures%20to%20encourage%20and%20facilitate%20bona%20fide%20hedging%20by%20agricultural%20producers.md) | Special procedures to encourage and facilitate bona fide hedging by agricultural producers. |
+| [6r.](%C2%A7%2000006r%20-%20Reporting%20and%20recordkeeping%20for%20uncleared%20swaps.md) | Reporting and recordkeeping for uncleared swaps. |
+| [6s.](%C2%A7%2000006s%20-%20Registration%20and%20regulation%20of%20swap%20dealers%20and%20major%20swap%20participants.md) | Registration and regulation of swap dealers and major swap participants. |
+| [6t.](%C2%A7%2000006t%20-%20Large%20swap%20trader%20reporting.md) | Large swap trader reporting. |
 | [7\.](%C2%A7%2000007%20-%20Designation%20of%20boards%20of%20trade%20as%20contract%20markets.md) | Designation of boards of trade as contract markets. |
 | [7a.](%C2%A7%2000007a%20-%20Derivatives%20transaction%20execution%20facilities.md) | Derivatives transaction execution facilities. |
 | 7a–1. | Derivatives clearing organizations. |
@@ -34,6 +39,7 @@
 | [7b.](%C2%A7%2000007b%20-%20Suspension%20or%20revocation%20of%20designation%20as%20registered%20entity.md) | Suspension or revocation of designation as registered entity. |
 | 7b–1. | Designation of securities exchanges and associations as contract markets. |
 | 7b–2. | Privacy. |
+| 7b–3. | Swap execution facilities. |
 | [8\.](%C2%A7%2000008%20-%20Application%20for%20designation%20as%20contract%20market%20or%20derivatives%20transaction%20execution%20facility%3B%20time%3B%20suspension%20or%20revocation%20of%E2%80%A6.md) | Application for designation as contract market or derivatives transaction execution facility; time; suspension or revocation of designation; hearing; review by court of appeals. |
 | [9\.](%C2%A7%2000009%20-%20Exclusion%20of%20persons%20from%20privilege%20of%20%E2%80%9Cregistered%20entities%E2%80%9D%3B%20procedure%20for%20exclusion%3B%20review%20by%20court%20of%20appeals.md) | Exclusion of persons from privilege of “registered entities”; procedure for exclusion; review by court of appeals. |
 | [9a.](%C2%A7%2000009a%20-%20Assessment%20of%20money%20penalties.md) | Assessment of money penalties. |
@@ -72,8 +78,9 @@
 | [22\.](%C2%A7%2000022%20-%20Research%20and%20information%20programs%3B%20reports%20to%20Congress.md) | Research and information programs; reports to Congress. |
 | [23\.](%C2%A7%2000023%20-%20Standardized%20contracts%20for%20certain%20commodities.md) | Standardized contracts for certain commodities. |
 | [24\.](%C2%A7%2000024%20-%20Regulations%20respecting%20commodity%20broker%20debtors%3B%20definitions.md) | Regulations respecting commodity broker debtors; definitions. |
+| [24a.](%C2%A7%2000024a%20-%20Swap%20data%20repositories.md) | Swap data repositories. |
 | [25\.](%C2%A7%2000025%20-%20Private%20rights%20of%20action.md) | Private rights of action. |
-| [26\.](%C2%A7%2000026%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93546%2C%20title%20IV%2C%20%C2%A7402%2815%29%2C%20Oct.%2028%2C%201992%2C%20106%20Stat.%203625.md) | Repealed. |
+| [26\.](%C2%A7%2000026%20-%20Commodity%20whistleblower%20incentives%20and%20protection.md) | Commodity whistleblower incentives and protection. |
 | [27\.](%C2%A7%2000027%20-%20Definitions.md) | Definitions. |
 | [27a.](%C2%A7%2000027a%20-%20Exclusion%20of%20identified%20banking%20products%20commonly%20offered%20on%20or%20before%20December%205%2C%202000.md) | Exclusion of identified banking products commonly offered on or before December 5, 2000. |
 | [27b.](%C2%A7%2000027b%20-%20Exclusion%20of%20certain%20identified%20banking%20products%20offered%20by%20banks%20after%20December%205%2C%202000.md) | Exclusion of certain identified banking products offered by banks after December 5, 2000. |
@@ -91,12 +98,14 @@
 
 - [&sect; 00001 - Short title](%C2%A7%2000001%20-%20Short%20title.md)
 - [&sect; 00001a - Definitions](%C2%A7%2000001a%20-%20Definitions.md)
+- [&sect; 00001b - Requirements of Secretary of the Treasury regarding exemption of foreign exchange swaps and foreign exchange forwards from definition of&#8230;](%C2%A7%2000001b%20-%20Requirements%20of%20Secretary%20of%20the%20Treasury%20regarding%20exemption%20of%20foreign%20exchange%20swaps%20and%20foreign%20exchange%20forwards%20from%20definition%20of%E2%80%A6.md)
 - [&sect; 00002 - Jurisdiction of Commission; liability of principal for act of agent; Commodity Futures Trading Commission; transaction in interstate&#8230;](%C2%A7%2000002%20-%20Jurisdiction%20of%20Commission%3B%20liability%20of%20principal%20for%20act%20of%20agent%3B%20Commodity%20Futures%20Trading%20Commission%3B%20transaction%20in%20interstate%E2%80%A6.md)
 - [&sect; 00002a to 4a - Transferred](%C2%A7%2000002a%20to%204a%20-%20Transferred.md)
 - [&sect; 00005 - Findings and purpose](%C2%A7%2000005%20-%20Findings%20and%20purpose.md)
 - [&sect; 00006 - Regulation of futures trading and foreign transactions](%C2%A7%2000006%20-%20Regulation%20of%20futures%20trading%20and%20foreign%20transactions.md)
 - [&sect; 00006a - Excessive speculation](%C2%A7%2000006a%20-%20Excessive%20speculation.md)
 - [&sect; 00006b - Contracts designed to defraud or mislead](%C2%A7%2000006b%20-%20Contracts%20designed%20to%20defraud%20or%20mislead.md)
+- [&sect; 00006b&#8211;1 - Enforcement authority](%C2%A7%2000006b%E2%80%931%20-%20Enforcement%20authority.md)
 - [&sect; 00006c - Prohibited transactions](%C2%A7%2000006c%20-%20Prohibited%20transactions.md)
 - [&sect; 00006d - Dealing by unregistered futures commission merchants or introducing brokers prohibited; duties in handling customer receipts; rules to&#8230;](%C2%A7%2000006d%20-%20Dealing%20by%20unregistered%20futures%20commission%20merchants%20or%20introducing%20brokers%20prohibited%3B%20duties%20in%20handling%20customer%20receipts%3B%20rules%20to%E2%80%A6.md)
 - [&sect; 00006e - Dealings by unregistered floor trader or broker prohibited](%C2%A7%2000006e%20-%20Dealings%20by%20unregistered%20floor%20trader%20or%20broker%20prohibited.md)
@@ -113,6 +122,9 @@
 - [&sect; 00006o&#8211;1 - Transferred](%C2%A7%2000006o%E2%80%931%20-%20Transferred.md)
 - [&sect; 00006p - Standards and examinations](%C2%A7%2000006p%20-%20Standards%20and%20examinations.md)
 - [&sect; 00006q - Special procedures to encourage and facilitate bona fide hedging by agricultural producers](%C2%A7%2000006q%20-%20Special%20procedures%20to%20encourage%20and%20facilitate%20bona%20fide%20hedging%20by%20agricultural%20producers.md)
+- [&sect; 00006r - Reporting and recordkeeping for uncleared swaps](%C2%A7%2000006r%20-%20Reporting%20and%20recordkeeping%20for%20uncleared%20swaps.md)
+- [&sect; 00006s - Registration and regulation of swap dealers and major swap participants](%C2%A7%2000006s%20-%20Registration%20and%20regulation%20of%20swap%20dealers%20and%20major%20swap%20participants.md)
+- [&sect; 00006t - Large swap trader reporting](%C2%A7%2000006t%20-%20Large%20swap%20trader%20reporting.md)
 - [&sect; 00007 - Designation of boards of trade as contract markets](%C2%A7%2000007%20-%20Designation%20of%20boards%20of%20trade%20as%20contract%20markets.md)
 - [&sect; 00007a - Derivatives transaction execution facilities](%C2%A7%2000007a%20-%20Derivatives%20transaction%20execution%20facilities.md)
 - [&sect; 00007a&#8211;1 - Derivatives clearing organizations](%C2%A7%2000007a%E2%80%931%20-%20Derivatives%20clearing%20organizations.md)
@@ -121,6 +133,7 @@
 - [&sect; 00007b - Suspension or revocation of designation as registered entity](%C2%A7%2000007b%20-%20Suspension%20or%20revocation%20of%20designation%20as%20registered%20entity.md)
 - [&sect; 00007b&#8211;1 - Designation of securities exchanges and associations as contract markets](%C2%A7%2000007b%E2%80%931%20-%20Designation%20of%20securities%20exchanges%20and%20associations%20as%20contract%20markets.md)
 - [&sect; 00007b&#8211;2 - Privacy](%C2%A7%2000007b%E2%80%932%20-%20Privacy.md)
+- [&sect; 00007b&#8211;3 - Swap execution facilities](%C2%A7%2000007b%E2%80%933%20-%20Swap%20execution%20facilities.md)
 - [&sect; 00008 - Application for designation as contract market or derivatives transaction execution facility; time; suspension or revocation of&#8230;](%C2%A7%2000008%20-%20Application%20for%20designation%20as%20contract%20market%20or%20derivatives%20transaction%20execution%20facility%3B%20time%3B%20suspension%20or%20revocation%20of%E2%80%A6.md)
 - [&sect; 00009 - Exclusion of persons from privilege of &#8220;registered entities&#8221;; procedure for exclusion; review by court of appeals](%C2%A7%2000009%20-%20Exclusion%20of%20persons%20from%20privilege%20of%20%E2%80%9Cregistered%20entities%E2%80%9D%3B%20procedure%20for%20exclusion%3B%20review%20by%20court%20of%20appeals.md)
 - [&sect; 00009a - Assessment of money penalties](%C2%A7%2000009a%20-%20Assessment%20of%20money%20penalties.md)
@@ -159,8 +172,9 @@
 - [&sect; 00022 - Research and information programs; reports to Congress](%C2%A7%2000022%20-%20Research%20and%20information%20programs%3B%20reports%20to%20Congress.md)
 - [&sect; 00023 - Standardized contracts for certain commodities](%C2%A7%2000023%20-%20Standardized%20contracts%20for%20certain%20commodities.md)
 - [&sect; 00024 - Regulations respecting commodity broker debtors; definitions](%C2%A7%2000024%20-%20Regulations%20respecting%20commodity%20broker%20debtors%3B%20definitions.md)
+- [&sect; 00024a - Swap data repositories](%C2%A7%2000024a%20-%20Swap%20data%20repositories.md)
 - [&sect; 00025 - Private rights of action](%C2%A7%2000025%20-%20Private%20rights%20of%20action.md)
-- [&sect; 00026 - Repealed. Pub. L. 102&#8211;546, title IV, &sect;402(15), Oct. 28, 1992, 106 Stat. 3625](%C2%A7%2000026%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93546%2C%20title%20IV%2C%20%C2%A7402%2815%29%2C%20Oct.%2028%2C%201992%2C%20106%20Stat.%203625.md)
+- [&sect; 00026 - Commodity whistleblower incentives and protection](%C2%A7%2000026%20-%20Commodity%20whistleblower%20incentives%20and%20protection.md)
 - [&sect; 00027 - Definitions](%C2%A7%2000027%20-%20Definitions.md)
 - [&sect; 00027a - Exclusion of identified banking products commonly offered on or before December 5, 2000](%C2%A7%2000027a%20-%20Exclusion%20of%20identified%20banking%20products%20commonly%20offered%20on%20or%20before%20December%205%2C%202000.md)
 - [&sect; 00027b - Exclusion of certain identified banking products offered by banks after December 5, 2000](%C2%A7%2000027b%20-%20Exclusion%20of%20certain%20identified%20banking%20products%20offered%20by%20banks%20after%20December%205%2C%202000.md)

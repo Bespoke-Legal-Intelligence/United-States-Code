@@ -112,7 +112,7 @@ Section 412, referred to in subsec. (b)(2), was amended generally by Pub. L. 109
 
 #### Amendments
 
-1989—Subsec. (b)(2)(A). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1989</b>—Subsec. (b)(2)(A). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 #### Effective Date of 1989 Amendment
 

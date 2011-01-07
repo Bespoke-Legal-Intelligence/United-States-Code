@@ -94,7 +94,7 @@ For purposes of this section—
 
 #### (C) No parent claiming qualifying child
 
-&emsp;&emsp;If the parents of an individual may claim such individual as a qualifying child but no parent so claims the individual, such individual may be claimed as the qualifyingchild of another taxpayer but only if the adjusted gross income of such taxpayer is higher than the highest adjusted gross income of any parent of the individual.
+&emsp;&emsp;If the parents of an individual may claim such individual as a qualifying child but no parent so claims the individual, such individual may be claimed as the qualifying child of another taxpayer but only if the adjusted gross income of such taxpayer is higher than the highest adjusted gross income of any parent of the individual.
 
 #### (d) Qualifying relative
 
@@ -290,7 +290,7 @@ For purposes of this section—
 
 &emsp;&emsp;Solely for the purposes referred to in subparagraph (B), a child of the taxpayer—
 
-&emsp;&emsp;&emsp;(i) who is presumed by law enforcement authorities to have been kidnapped bysomeone who is not a member of the family of such child or the taxpayer, and
+&emsp;&emsp;&emsp;(i) who is presumed by law enforcement authorities to have been kidnapped by someone who is not a member of the family of such child or the taxpayer, and
 
 &emsp;&emsp;&emsp;(ii) who had, for the taxable year in which the kidnapping occurred, the same principal place of abode as the taxpayer for more than one-half of the portion of such year before the date of the kidnapping,
 
@@ -330,7 +330,7 @@ For purposes of this section—
 
 #### Amendments
 
-2008—Subsec. (c)(1)(E). Pub. L. 110–351, §501(b), added subpar. (E).
+<b>2008</b>—Subsec. (c)(1)(E). Pub. L. 110–351, §501(b), added subpar. (E).
 
 Subsec. (c)(3)(A). Pub. L. 110–351, §501(a), inserted “is younger than the taxpayer claiming such individual as a qualifying child and” after “such individual” in introductory provisions.
 
@@ -340,21 +340,21 @@ Subsec. (c)(4)(A). Pub. L. 110–351, §501(c)(2)(B)(i), substituted “Except a
 
 Subsec. (c)(4)(C). Pub. L. 110–351, §501(c)(2)(A), added subpar. (C).
 
-2005—Subsec. (e). Pub. L. 109–135 amended heading and text of subsec. (e) generally. Prior to amendment, text consisted of pars. (1) to (4) relating to special rule for divorced parents, requirements for divorced parents, definitions of custodial and noncustodial parent, and exception for multiple-support agreements.
+<b>2005</b>—Subsec. (e). Pub. L. 109–135 amended heading and text of subsec. (e) generally. Prior to amendment, text consisted of pars. (1) to (4) relating to special rule for divorced parents, requirements for divorced parents, definitions of custodial and noncustodial parent, and exception for multiple-support agreements.
 
-2004—Pub. L. 108–311 reenacted section catchline without change and amended text generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to general definition of dependent, rules relating to general definition, multiple support agreements, special support test in case of students, and support test in case of child of divorced parents, etc., respectively.
+<b>2004</b>—Pub. L. 108–311 reenacted section catchline without change and amended text generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to general definition of dependent, rules relating to general definition, multiple support agreements, special support test in case of students, and support test in case of child of divorced parents, etc., respectively.
 
-1986—Subsec. (a)(9). Pub. L. 99–514, §1301(j)(8), substituted “section 7703” for “section 143”.
+<b>1986</b>—Subsec. (a)(9). Pub. L. 99–514, §1301(j)(8), substituted “section 7703” for “section 143”.
 
 Subsec. (d)(2). Pub. L. 99–514, §104(b)(3), substituted “section 151(c)(4)” for “section 151(e)(4)”.
 
 Subsec. (e)(1)(A). Pub. L. 99–514, §104(b)(1)(B), substituted “section 151(c)(3)” for “section 151(e)(3)”.
 
-1984—Subsec. (e). Pub. L. 98–369, §423(a), amended subsec. (e) generally, and in substantially revising support test provisions, enacted par. (1) custodial parent exemption, former par. (1) declaring the general rule that where a child received over one-half of his calendar year support from parents who were divorced or legally separated under a decree of divorce or separate maintenance, or were separated under a written separation agreement and the child was in the custody of one or both parents for more than one-half of the calendar year, the child would be treated as receiving over half of his support from the parent having custody for a greater portion of the calendar year unless treated under special rule provision as having received over half of his support from the parent not having custody; enacted par. (2) release of custodial parent exemption for the year, former par. (2) declaring the special rule that parent without custody would be deemed as furnishing over half of the support where the decree of divorce or separate maintenance, or written agreement, covering the taxable year, provided that parent without custody should be entitled to the section 151 deduction for the child and such parent provided at least $600 calendar year support, or alternatively, such parent without custody provided $1,200 or more calendar year support and the parent with custody did not establish more support of the child than the parent without custody; redesignated as par. (3) former par. (4) provision respecting exception for multiple-support agreement, deleting former par. (3) respecting requirement of an itemized statement of expenditures to resolve more support claims; added par. (4) respecting exception for certain pre-1985 instruments; added par. (5) enunciating special rule for support received from new spouse of parent, deleting former par. (5) regulations prescription provision; and added par. (6) cross reference provision.
+<b>1984</b>—Subsec. (e). Pub. L. 98–369, §423(a), amended subsec. (e) generally, and in substantially revising support test provisions, enacted par. (1) custodial parent exemption, former par. (1) declaring the general rule that where a child received over one-half of his calendar year support from parents who were divorced or legally separated under a decree of divorce or separate maintenance, or were separated under a written separation agreement and the child was in the custody of one or both parents for more than one-half of the calendar year, the child would be treated as receiving over half of his support from the parent having custody for a greater portion of the calendar year unless treated under special rule provision as having received over half of his support from the parent not having custody; enacted par. (2) release of custodial parent exemption for the year, former par. (2) declaring the special rule that parent without custody would be deemed as furnishing over half of the support where the decree of divorce or separate maintenance, or written agreement, covering the taxable year, provided that parent without custody should be entitled to the section 151 deduction for the child and such parent provided at least $600 calendar year support, or alternatively, such parent without custody provided $1,200 or more calendar year support and the parent with custody did not establish more support of the child than the parent without custody; redesignated as par. (3) former par. (4) provision respecting exception for multiple-support agreement, deleting former par. (3) respecting requirement of an itemized statement of expenditures to resolve moresupport claims; added par. (4) respecting exception for certain pre-1985 instruments; added par. (5) enunciating special rule for support received from new spouse of parent, deleting former par. (5) regulations prescription provision; and added par. (6) cross reference provision.
 
 Subsec. (e)(6). Pub. L. 98–369, §482(b)(2), substituted “section 213(d)(5)” for “section 213(d)(4)”.
 
-1976—Subsec. (a)(9). Pub. L. 94–455, §1901(b)(7)(B), substituted “section 143” for “section 153”.
+<b>1976</b>—Subsec. (a)(9). Pub. L. 94–455, §1901(b)(7)(B), substituted “section 143” for “section 153”.
 
 Subsec. (a)(10). Pub. L. 94–455, §1901(a)(24)(A), struck out par. (10) relating to descendents of a taxpayer, who were members of taxpayer's household, before receiving institutional care.
 
@@ -368,23 +368,23 @@ Subsec. (e)(2)(B)(i). Pub. L. 94–455, §2139(a), substituted “each” for �
 
 Subsec. (e)(3), (5). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1972—Subsec. (b)(3). Pub. L. 92–580 substituted “citizen or national of the United States” for “citizen of the United States” in two places.
+<b>1972</b>—Subsec. (b)(3). Pub. L. 92–580 substituted “citizen or national of the United States” for “citizen of the United States” in two places.
 
-1969—Subsec. (b)(2). Pub. L. 91–172 inserted reference to foster children who satisfy requirements of subsec. (a)(9) of this section.
+<b>1969</b>—Subsec. (b)(2). Pub. L. 91–172 inserted reference to foster children who satisfy requirements of subsec. (a)(9) of this section.
 
-1967—Subsec. (a). Pub. L. 90–78, §1(b), inserted “or (e)” after “subsection (c)”.
+<b>1967</b>—Subsec. (a). Pub. L. 90–78, §1(b), inserted “or (e)” after “subsection (c)”.
 
 Subsec. (e). Pub. L. 90–78, §1(a), added subsec. (e).
 
-1959—Subsec. (b)(2). Pub. L. 86–376 provided that a child who is a member of an individual's household if placed with such individual by an authorized placement agency for legal adoption by such individual shall be treated as a child by blood.
+<b>1959</b>—Subsec. (b)(2). Pub. L. 86–376 provided that a child who is a member of an individual's household if placed with such individual by an authorized placement agency for legal adoption by such individual shall be treated as a child by blood.
 
-1958—Subsec. (a)(9). Pub. L. 85–866, §4(a), inserted “(other than an individual who at any time during the taxable year was the spouse, determined without regard to section 153, of the taxpayer)”.
+<b>1958</b>—Subsec. (a)(9). Pub. L. 85–866, §4(a), inserted “(other than an individual who at any time during the taxable year was the spouse, determined without regard to section 153, of the taxpayer)”.
 
 Subsec. (b)(3). Pub. L. 85–866, §4(b), among other changes, struck out provision that “dependent” does not include any individual who is not a United States citizen unless such individual is a resident of United States or of a contiguous country, or of Canal Zone or Panama, and inserted provision barring exclusion from definition of “dependent” any child of taxpayer, legally adopted by him, if, for taxable year of taxpayer, child's principal place of abode is taxpayer's home and child is member of taxpayer's household, if taxpayer is United States citizen.
 
 Subsec. (b)(5). Pub. L. 85–866, §4(c), added par. (5).
 
-1955—Subsec. (b)(3). Act Aug. 9, 1955, substituted “January 1, 1956” for “July 5, 1946”.
+<b>1955</b>—Subsec. (b)(3). Act Aug. 9, 1955, substituted “January 1, 1956” for “July 5, 1946”.
 
 #### Effective Date of 2008 Amendment
 

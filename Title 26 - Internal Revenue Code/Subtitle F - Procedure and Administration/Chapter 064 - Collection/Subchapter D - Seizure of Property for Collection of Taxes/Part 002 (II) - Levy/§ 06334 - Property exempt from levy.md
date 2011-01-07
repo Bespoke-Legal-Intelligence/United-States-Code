@@ -158,7 +158,7 @@ Any payment described in subparagraph (B) or (C) of section 6331(h)(2) shall not
 
 #### References in Text
 
-The Railroad Retirement Act, referred to in subsec. (a)(6), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, known as the Railroad Retirement Act of 1974, which isclassified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+The Railroad Retirement Act, referred to in subsec. (a)(6), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, known as the Railroad Retirement Act of 1974, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 The Railroad Unemployment Insurance Act, referred to in subsec. (a)(6), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
 
@@ -168,7 +168,7 @@ The Job Training Partnership Act, referred to in subsec. (a)(12), is Pub. L. 97�
 
 #### Amendments
 
-1998—Subsec. (a)(2). Pub. L. 105–206, §3431(a), substituted “$6,250” for “$2,500”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–206, §3431(a), substituted “$6,250” for “$2,500”.
 
 Subsec. (a)(3). Pub. L. 105–206, §3431(b), substituted “$3,125” for “$1,250”.
 
@@ -184,13 +184,13 @@ Subsec. (g)(1). Pub. L. 105–206, §3431(c)(1), substituted “1999” for “1
 
 Subsec. (g)(1)(B). Pub. L. 105–206, §3431(c)(2), substituted “1998” for “1996”.
 
-1997—Subsec. (a)(11)(A). Pub. L. 105–33, §5514(a)(3), made technical amendment to directory language of Pub. L. 104–193, §110(<i>l</i>)(3). See 1996 Amendment note below.
+<b>1997</b>—Subsec. (a)(11)(A). Pub. L. 105–33, §5514(a)(3), made technical amendment to directory language of Pub. L. 104–193, §110(<i>l</i>)(3). See 1996 Amendment note below.
 
 Subsec. (a)(13). Pub. L. 105–34, §312(d)(1), substituted “section 121” for “section 1034”.
 
 Subsecs. (f), (g). Pub. L. 105–34 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1996—Subsec. (a)(2). Pub. L. 104–168, §502(a), substituted “So” for “If the taxpayer is the head of a family, so”, “the taxpayer's household” for “his household”, and “$2,500” for “$1,650 ($1,550 in the case of levies issued during 1989)”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–168, §502(a), substituted “So” for “If the taxpayer is the head of a family, so”, “the taxpayer's household” for “his household”, and “$2,500” for “$1,650 ($1,550 in the case of levies issued during 1989)”.
 
 Subsec. (a)(3). Pub. L. 104–168, §502(b), substituted “$1,250” for “$1,100 ($1,050 in the case of levies issued during 1989)”.
 
@@ -198,9 +198,9 @@ Subsec. (a)(11)(A). Pub. L. 104–193, §110(<i>l</i>)(3), formerly §110(<i>l</
 
 Subsec. (f). Pub. L. 104–168, §502(c), added subsec. (f).
 
-1991—Subsec. (a)(6). Pub. L. 102–83 substituted “1562” for “562”.
+<b>1991</b>—Subsec. (a)(6). Pub. L. 102–83 substituted “1562” for “562”.
 
-1988—Subsec. (a)(2). Pub. L. 100–647, §6236(c)(1), substituted “$1,650 ($1,550 in the case of levies issued during 1989)” for “$1,500”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–647, §6236(c)(1), substituted “$1,650 ($1,550 in the case of levies issued during 1989)” for “$1,500”.
 
 Subsec. (a)(3). Pub. L. 100–647, §6236(c)(2), substituted “$1,100 ($1,050 in the case of levies issued during 1989)” for “$1,000”.
 
@@ -228,11 +228,11 @@ Subsec. (d)(2), (3). Pub. L. 100–647, §6236(c)(3)(B), added par. (2) and rede
 
 Subsec. (e). Pub. L. 100–647, §6236(c)(4)(B), added subsec. (e).
 
-1986—Subsec. (a)(10). Pub. L. 99–514 added par. (10).
+<b>1986</b>—Subsec. (a)(10). Pub. L. 99–514 added par. (10).
 
-1984—Subsec. (c). Pub. L. 98–369 inserted “(including section 207 of the Social Security Act)”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–369 inserted “(including section 207 of the Social Security Act)”.
 
-1982—Subsec. (a)(2). Pub. L. 97–248, §347(a)(1), substituted “$1,500” for “$500”.
+<b>1982</b>—Subsec. (a)(2). Pub. L. 97–248, §347(a)(1), substituted “$1,500” for “$500”.
 
 Subsec. (a)(3). Pub. L. 97–248, §347(a)(2), substituted “$1,000” for “$250”.
 
@@ -240,7 +240,7 @@ Subsec. (d)(1)(A). Pub. L. 97–248, §347(a)(3)(A), substituted “$75” for �
 
 Subsec. (d)(1)(B). Pub. L. 97–248, §347(a)(3)(B), substituted “$25” for “$15”.
 
-1976—Subsec. (a)(8). Pub. L. 94–455, §1209(c), substituted “Judgments for support of minor children” for “Salary, wages, or other income” in heading.
+<b>1976</b>—Subsec. (a)(8). Pub. L. 94–455, §1209(c), substituted “Judgments for support of minor children” for “Salary, wages, or other income” in heading.
 
 Subsec. (a)(9). Pub. L. 94–455, §1209(a), added par. (9).
 
@@ -248,15 +248,15 @@ Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate�
 
 Subsec. (d). Pub. L. 94–455, §1209(b), added subsec. (d).
 
-1969—Subsec. (a)(8). Pub. L. 91–172 added par. (8).
+<b>1969</b>—Subsec. (a)(8). Pub. L. 91–172 added par. (8).
 
-1966—Subsec. (a)(4). Pub. L. 89–719, §104(c)(1), struck out “or Territory” after “of any State”.
+<b>1966</b>—Subsec. (a)(4). Pub. L. 89–719, §104(c)(1), struck out “or Territory” after “of any State”.
 
 Subsec. (a)(6), (7). Pub. L. 89–719, §104(c)(2), added pars. (6) and (7).
 
-1965—Subsec. (a)(5). Pub. L. 89–44 added par. (5).
+<b>1965</b>—Subsec. (a)(5). Pub. L. 89–44 added par. (5).
 
-1958—Subsec. (a)(4). Pub. L. 85–840 added par. (4).
+<b>1958</b>—Subsec. (a)(4). Pub. L. 85–840 added par. (4).
 
 #### Change of Name
 
@@ -264,7 +264,7 @@ Reference to United States magistrate or to magistrate deemed to refer to United
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3431(d), July 22, 1998, 112 Stat. 758, provided that: “The amendments made bythis section \[amending this section\] shall take effect with respect to levies issued after the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title III, §3431(d), July 22, 1998, 112 Stat. 758, provided that: “The amendments made by this section \[amending this section\] shall take effect with respect to levies issued after the date of the enactment of this Act \[July 22, 1998\].”
 
 Pub. L. 105–206, title III, §3445(d), July 22, 1998, 112 Stat. 763, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
 

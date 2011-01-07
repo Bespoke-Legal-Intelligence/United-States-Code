@@ -6,7 +6,7 @@ Every proprietor of a distilled spirits plant shall furnish the Secretary such k
 
 #### (b) Right of entry and examination
 
-It shall be lawful for any internal revenue officer at all times, as well by night as by day, to enter any distilled spirits plant, or any other premises where distilled spirits operations are carried on, or structure or place used in connection therewith for storage or other purposes; to make examination of the materials, equipment, and facilities thereon; and make such gauges and inventories as he deems necessary. Whenever any officer, having demanded admittance, and having declared his name and office, is not admitted into such premises by the proprietor or other person having charge thereof, it shall be lawful for such officer, at all times, as well by night as by day, to use such force as is necessary for him to gain entry to such premises.
+It shall be lawful for any internal revenue officer at all times, as well by night as by day, to enter any distilled spirits plant, or any other premises where distilled spirits operations arecarried on, or structure or place used in connection therewith for storage or other purposes; to make examination of the materials, equipment, and facilities thereon; and make such gauges and inventories as he deems necessary. Whenever any officer, having demanded admittance, and having declared his name and office, is not admitted into such premises by the proprietor or other person having charge thereof, it shall be lawful for such officer, at all times, as well by night as by day, to use such force as is necessary for him to gain entry to such premises.
 
 #### (c) Furnishing facilities and assistance
 
@@ -40,13 +40,13 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 636, 65
 
 #### Amendments
 
-1979—Subsec. (b). Pub. L. 96–39, §807(a)(22)(A), substituted “where distilled spirits operations are carried on” for “where distilled spirits are produced or rectified”.
+<b>1979</b>—Subsec. (b). Pub. L. 96–39, §807(a)(22)(A), substituted “where distilled spirits operations are carried on” for “where distilled spirits are produced or rectified”.
 
 Subsec. (c). Pub. L. 96–39, §807(a)(22)(B), substituted “on such premises” for “not under the control of the internal revenue officer in charge”.
 
 Subsec. (d). Pub. L. 96–39, §807(a)(22)(C), substituted “where distilled spirits operations are carried on” for “where distilled spirits are produced or rectified”.
 
-1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 1979 Amendment
 

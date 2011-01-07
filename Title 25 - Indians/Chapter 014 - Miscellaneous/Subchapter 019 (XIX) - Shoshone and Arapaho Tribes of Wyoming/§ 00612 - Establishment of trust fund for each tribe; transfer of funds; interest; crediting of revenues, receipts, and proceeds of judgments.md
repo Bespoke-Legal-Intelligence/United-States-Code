@@ -6,7 +6,7 @@ The Secretary of the Treasury, upon request of the Secretary of the Interior, is
 
 #### Amendments
 
-1958—Pub. L. 85–610 substituted “Secretary of the Treasury” for “Comptroller of the United States”, required division of future receipts from Reservation and proceeds from judgments paid jointly to Tribes, and provided for manner of crediting proceeds from judgments paid to either of Tribes.
+<b>1958</b>—Pub. L. 85–610 substituted “Secretary of the Treasury” for “Comptroller of the United States”, required division of future receipts from Reservation and proceeds from judgments paid jointly to Tribes, and provided for manner of crediting proceeds from judgments paid to either of Tribes.
 
-1951—Act Aug. 30, 1951, substituted “any” for “existing” before “law” in second proviso.
+<b>1951</b>—Act Aug. 30, 1951, substituted “any” for “existing” before “law” in second proviso.
 

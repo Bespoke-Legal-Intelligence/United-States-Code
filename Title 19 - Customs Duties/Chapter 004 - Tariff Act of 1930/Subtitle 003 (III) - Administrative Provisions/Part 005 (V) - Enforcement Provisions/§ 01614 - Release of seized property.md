@@ -4,12 +4,6 @@ If any person claiming an interest in any vessel, vehicle, aircraft, merchandise
 
 (June 17, 1930, ch. 497, title IV, §614, 46 Stat. 757; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 98–473, title II, §321, Oct. 12, 1984, 98 Stat. 2056; Pub. L. 98–573, title II, §213(a)(12), Oct. 30, 1984, 98 Stat. 2987.)
 
-#### References in Text
-
-The customs laws, referred to in text, are classified generally to this title.
-
-The navigation laws, referred to in text, are classified generally to Title 33, Navigation and Navigable Waters.
-
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §614, 42 Stat. 987. That section was superseded by section 614 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
@@ -18,9 +12,9 @@ A prior provision authorizing collectors, subject to the approval of the Secreta
 
 #### Amendments
 
-1984—Pub. L. 98–573 and Pub. L. 98–473 inserted reference to aircraft in three places.
+<b>1984</b>—Pub. L. 98–573 and Pub. L. 98–473 inserted reference to aircraft in three places.
 
-1970—Pub. L. 91–271 substituted reference to the appropriate customs officer for reference to the collector.
+<b>1970</b>—Pub. L. 91–271 substituted reference to the appropriate customs officer for reference to the collector.
 
 #### Effective Date of 1984 Amendment
 
@@ -32,9 +26,9 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
 
 Substitution in text of reference to Commandant of the Coast Guard or Commissioner of Customs for “the Secretary of Commerce” under the authority of Reorg. Plan No. 3 of 1946, see Transfer of Functions note set out under section 1613 of this title.
 

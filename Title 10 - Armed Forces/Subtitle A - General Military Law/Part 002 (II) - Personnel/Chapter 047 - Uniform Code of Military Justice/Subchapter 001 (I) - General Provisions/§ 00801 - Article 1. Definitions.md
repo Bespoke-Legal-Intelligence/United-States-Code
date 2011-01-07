@@ -66,7 +66,7 @@ In the introductory clause and throughout the revised chapter the word “chapte
 
 Clauses (1), (2), and (5) of 50:551 are omitted as respectively covered by the definitions in clauses (4), (6), and (14) of section 101 of this title. The words “commissioned officer” are substituted for the word “officer” for clarity throughout this chapter, since the latter term was defined in the limited sense of commissioned officer in clause (5) of 50:551, and is now covered by section 101(14) of this title.
 
-In clauses (1), (4)–(7), and (9)–(12) of the revised section, the word “means” is substituted for the words “shall be construed to refer to” and “shall be construed to refer to”.
+In clauses (1), (4)–(7), and (9)–(12) of the revised section, the word “means” is substituted for the words “shall be construed to refer to” and “shall be construed to refer \* \* \* to”.
 
 In clause (1), the words “service in” are substituted for the words “part of” to conform to section 1 of title 14. The words “Department of the Treasury” are substituted for the words “Treasury Department”.
 
@@ -80,29 +80,29 @@ In clause (12), the words “Marine Corps” are inserted to make explicit that 
 
 #### Amendments
 
-2006—Cl. (11). Pub. L. 109–241, §218(a)(1), struck out cl. (11) which read as follows: “The term ‘law specialist’ means a commissioned officer of the Coast Guard designated for special duty (law).”
+<b>2006</b>—Cl. (11). Pub. L. 109–241, §218(a)(1), struck out cl. (11) which read as follows: “The term ‘law specialist’ means a commissioned officer of the Coast Guard designated for special duty (law).”
 
 Cl. (13)(C). Pub. L. 109–241, §218(a)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “an officer of the Coast Guard who is designated as a law specialist.”
 
-2002—Cl. (1). Pub. L. 107–296 substituted “an official designated to serve as Judge Advocate General of the Coast Guard by the Secretary of Homeland Security” for “the General Counsel of the Department of Transportation”.
+<b>2002</b>—Cl. (1). Pub. L. 107–296 substituted “an official designated to serve as Judge Advocate General of the Coast Guard by the Secretary of Homeland Security” for “the General Counsel of the Department of Transportation”.
 
-1996—Cls. (15), (16). Pub. L. 104–106 added cls. (15) and (16).
+<b>1996</b>—Cls. (15), (16). Pub. L. 104–106 added cls. (15) and (16).
 
-1988—Cl. (1). Pub. L. 100–456 substituted “term ‘Judge” for “term ‘judge”.
+<b>1988</b>—Cl. (1). Pub. L. 100–456 substituted “term ‘Judge” for “term ‘judge”.
 
-1987—Cls. (1), (3) to (14). Pub. L. 100–180 inserted “The term” after each clause designation and revised first word in quotes in each clause to make initial letter of such word lowercase.
+<b>1987</b>—Cls. (1), (3) to (14). Pub. L. 100–180 inserted “The term” after each clause designation and revised first word in quotes in each clause to make initial letter of such word lowercase.
 
-1983—Cl. (13). Pub. L. 98–209, §2(a), added officers of the Coast Guard who are designated as law specialists to definition of “Judge Advocate”.
+<b>1983</b>—Cl. (13). Pub. L. 98–209, §2(a), added officers of the Coast Guard who are designated as law specialists to definition of “Judge Advocate”.
 
 Cl. (14). Pub. L. 98–209, §6(a), added cl. (14).
 
-1968—Cl. (10). Pub. L. 90–632 substituted “military judge” for “law officer” as term being defined and inserted reference to special court-martial in the definition thereof.
+<b>1968</b>—Cl. (10). Pub. L. 90–632 substituted “military judge” for “law officer” as term being defined and inserted reference to special court-martial in the definition thereof.
 
-1967—Cl. (11). Pub. L. 90–179, §1(1), struck out “Navy or” before “Coast Guard”.
+<b>1967</b>—Cl. (11). Pub. L. 90–179, §1(1), struck out “Navy or” before “Coast Guard”.
 
 Cl. (13). Pub. L. 90–179, §1(2), added cl. (13).
 
-1966—Pub. L. 89–670 substituted the General Counsel of the Department of Transportation for the General Counsel of the Department of the Treasury in definition of “Judge Advocate General” applicable to the Coast Guard when operating as a service in the Navy.
+<b>1966</b>—Pub. L. 89–670 substituted the General Counsel of the Department of Transportation for the General Counsel of the Department of the Treasury in definition of “Judge Advocate General” applicable to the Coast Guard when operating as a service in the Navy.
 
 #### Effective Date of 2002 Amendment
 
@@ -114,7 +114,7 @@ Section 12(a) of Pub. L. 98–209 provided that:
 
 “(1) The amendments made by this Act \[see Short Title of 1983 Amendment note below\] shall take effect on the first day of the eighth calendar month that begins after the date of enactment of this Act \[Dec. 6, 1983\], except that the amendments made by sections 9, 11 and 13 \[amending sections 802, 815, 825, 867, 1552, and 1553 of this title and enacting provisions set out as a note under section 867 of this title\] shall be effective on the date of the enactment of this Act. The amendments made by section 11 \[amending sections 1552 and 1553 of this title\] shall only apply with respect to cases filed after the date of enactment of this Act with the boards established under sections 1552 and 1553 of title 10, United States Code.
 
-“(2) The amendments made by section 3(c) and 3(e) \[amending sections 826, 827, and 838 of this title\] do not affect the designation or detail of a military judge ormilitary counsel to a court-martial before the effective date of such amendments.
+“(2) The amendments made by section 3(c) and 3(e) \[amending sections 826, 827, and 838 of this title\] do not affect the designation or detail of a military judge or military counsel to a court-martial before the effective date of such amendments.
 
 “(3) The amendments made by section 4 \[amending section 834 of this title\] shall not apply to any case in which charges were referred to trial before the effective date of such amendments, and proceedings in any such case shall be held in the same manner and with the same effect as if such amendments had not been enacted.
 
@@ -246,7 +246,7 @@ Definitions.—In this subsection:
 
 “(b)
 
-Report Required on Notification of Detainees of Rights Under g303<i>Miranda</i> v. g303<i>Arizona</i>.—Not later than 90 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on how the reading of rights under <i>Miranda</i> v. <i>Arizona</i> (384 U.S. 436 (1966)) to individuals detained by the United States in Afghanistan may affect—
+Report Required on Notification of Detainees of Rights Under <i>Miranda</i> v. <i>Arizona</i>.—Not later than 90 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on how the reading of rights under <i>Miranda</i> v. <i>Arizona</i> (384 U.S. 436 (1966)) to individuals detained by the United States in Afghanistan may affect—
 
 &emsp;“(1) the tactical questioning of detainees at the point of capture by United States Armed Forces deployed in support of Operation Enduring Freedom;
 
@@ -260,7 +260,7 @@ Report Required on Notification of Detainees of Rights Under g303<i>Miranda</i> 
 
 #### Requirement for Videotaping or Otherwise Electronically Recording Strategic Intelligence Interrogations of Persons in the Custody of or Under the Effective Control of the Department of Defense
 
-Pub. L. 111–84, div. A, title X, §1080, Oct. 28, 2009, 123 Stat. 2479, provided that:
+Pub. L. 111–84, div. A, title X, §1080, Oct. 28, 2009, 123 Stat. 2479, as amended by Pub. L. 111–383, div. A, title X, §1075(d)(15), Jan. 7, 2011, 124 Stat. 4373, provided that:
 
 “(a)
 
@@ -268,7 +268,7 @@ Videotaping or Other Electronic Recording Required.—In accordance with the Arm
 
 “(b)
 
-Classification of Information.—To protect United States national security, the safety of the individuals conducting or assisting in the conduct of a strategic intelligence interrogation, and the privacy of persons described in subsection (a), the Secretary of Defense shall provide for the appropriate classification of videotapes or other electronic recordings made pursuant to subsection (a). The use of such classified videotapes or other electronic recordings in proceedings conducted under the Detainee Treatment Act of 2005 (title 14 \[XIV\] of Public Law 109–163 and title 10 \[X\] of Public Law 109–148), the Military Commissions Act of 2006 (10 U.S.C. 948 \[948a\] et seq.; Public Law 109–366), as amended by section 1802 of this Act, or at any other judicial or administrative forum under any other provision of law shall be governed by applicable rules, regulations, and laws that protect classified information.
+Classification of Information.—To protect United States national security, the safety of the individuals conducting or assisting in the conduct of a strategic intelligence interrogation, and the privacy of persons described in subsection (a), the Secretary of Defense shall provide for the appropriate classification of videotapes or other electronic recordings made pursuant to subsection (a). The use of such classified videotapes or other electronic recordings in proceedings conducted under the Detainee Treatment Act of 2005 (title XIV of Public Law 109–163 and title X of Public Law 109–148), chapter 47A of title 10, United States Code, as amended by section 1802 of this Act, or at any other judicial or administrative forum under any other provision of law shall be governed by applicable rules, regulations, and laws that protect classified information.
 
 “(c)
 
@@ -288,7 +288,7 @@ Waiver.—
 
 &emsp;“(1)
 
-Waivers authorized.—The Secretary of Defense may, as an exceptional measure, as part of aspecific interrogation plan for a specific person described in subsection (a), waive the requirement in that subsection on a case-by-case basis for a period not to exceed 30 days, if the Secretary—
+Waivers authorized.—The Secretary of Defense may, as an exceptional measure, as part of a specific interrogation plan for a specific person described in subsection (a), waive the requirement in that subsection on a case-by-case basis for a period not to exceed 30 days, if the Secretary—
 
 &emsp;&emsp;“(A) makes a determination in writing that such a waiver is necessary to the national security interests of the United States; and
 
@@ -412,7 +412,7 @@ Report.—Not later than March 1, 2006, the Secretary shall submit to the congre
 
 #### Detainee Interrogation, Status Review, and Treatment
 
-Pub. L. 109–163, div. A, title XIV, §§1402, 1405, 1406, Jan. 6, 2006, 119 Stat. 3475, 3476, 3479, provided that:
+Pub. L. 109–163, div. A, title XIV, §§1402, 1405, 1406, Jan. 6, 2006, 119 Stat. 3475, 3476, 3479, as amended by Pub. L. 111–84, div. A, title XVIII, §1803(b)(2), as added Pub. L. 111–383, div. A, title X, §1075(d)(21), Jan. 7, 2011, 124 Stat. 4374, provided that:
 
 #### “SEC. 1402. UNIFORM STANDARDS FOR THE INTERROGATION OF PERSONS UNDER THE DETENTION OF THE DEPARTMENT OF DEFENSE.
 
@@ -438,7 +438,7 @@ Submittal of Procedures for Status Review of Detainees at Guantanamo Bay, Cuba, 
 
 In general.—Not later than 180 days after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary of Defense shall submit to the Committee on Armed Services and the Committee on the Judiciary of the Senate and the Committee on Armed Services and the Committee on the Judiciary of the House of Representatives a report setting forth—
 
-&emsp;&emsp;“(A) the procedures of the Combatant Status Review Tribunals and the Administrative Review Boards established by direction of the Secretary of Defense that are in operation at Guantanamo Bay, Cuba, for determining the status of the detainees held at Guantanamo Bay or to provide an annual review to determine the need to continue to detain an alien who is a detainee; and
+&emsp;&emsp;“(A) the procedures of the Combatant Status Review Tribunals and the Administrative Review Boards established by direction of the Secretary ofDefense that are in operation at Guantanamo Bay, Cuba, for determining the status of the detainees held at Guantanamo Bay or to provide an annual review to determine the need to continue to detain an alien who is a detainee; and
 
 &emsp;&emsp;“(B) the procedures in operation in Afghanistan and Iraq for a determination of the status of aliens detained in the custody or under the physical control of the Department of Defense in those countries.
 
@@ -522,37 +522,7 @@ Scope of review.—The jurisdiction of the United States Court of Appeals for th
 
 Termination on release from custody.—The jurisdiction of the United States Court of Appeals for the District of Columbia Circuit with respect to the claims of an alien under this paragraph shall cease upon the release of such alien from the custody of the Department of Defense.
 
-&emsp;“(3)
-
-Review of final decisions of military commissions.—
-
-&emsp;&emsp;“(A)
-
-In general.—Subject to subparagraphs (B), (C), and (D), the United States Court of Appeals for the District of Columbia Circuit shall have exclusive jurisdiction to determine the validity of any final decision rendered pursuant to Military Commission Order No. 1, dated August 31, 2005 (or any successor military order).
-
-&emsp;&emsp;“(B)
-
-Grant of review.—Review under this paragraph—
-
-&emsp;&emsp;&emsp;“(i) with respect to a capital case or a case in which the alien was sentenced to a term of imprisonment of 10 years or more, shall be as of right; or
-
-&emsp;&emsp;&emsp;“(ii) with respect to any other case, shall be at the discretion of the United States Court of Appeals for the District of Columbia Circuit.
-
-&emsp;&emsp;“(C)
-
-Limitation on appeals.—The jurisdiction of the United States Court of Appeals for the District of Columbia Circuit under this paragraph shall be limited to an appeal brought by or on behalf of an alien—
-
-&emsp;&emsp;&emsp;“(i) who was, at the time of the proceedings pursuant to the military order referred to in subparagraph (A), detained by the Department of Defense at Guantanamo Bay, Cuba; and
-
-&emsp;&emsp;&emsp;“(ii) for whom a final decision has been rendered pursuant to such military order.
-
-&emsp;&emsp;“(D)
-
-Scope of review.—The jurisdiction of the United States Court of Appeals for the District of Columbia Circuit on an appeal of a final decision with respect to an alien under this paragraph shall be limited to the consideration of—
-
-&emsp;&emsp;&emsp;“(i) whether the final decision was consistent with the standards and procedures specified in the military order referred to in subparagraph (A); and
-
-&emsp;&emsp;&emsp;“(ii) to the extent the Constitution and laws of the United States are applicable, whether the use of such standards and procedures to reach the final decision is consistent with the Constitution and laws of the United States.
+&emsp;“\[(3) Repealed. Pub. L. 111–84, div. A, title XVIII, §1803(b)(2), as added Pub. L. 111–383, div. A, title X, §1075(d)(21), Jan. 7, 2011, 124 Stat. 4374.\]
 
 &emsp;“(4)
 
@@ -616,7 +586,7 @@ Transmittal to Congressional Committees.—Not less than 30 days after the date 
 
 Annual Report.—Not less than one year after the date of the enactment of this Act \[Jan. 6, 2006\], and annually thereafter, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the implementation of this section.”
 
-Pub. L. 109–148, div. A, title X, §§1002, 1005, 1006, Dec. 30, 2005, 119 Stat. 2739, 2740, 2744, as amended by Pub. L. 109–366, §§9, 10, Oct. 17, 2006, 120 Stat. 2636, 2637; Pub. L. 110–181, div. A, title X, §1063(d)(2), Jan. 28, 2008, 122 Stat. 323; Pub. L. 111–84, div. A, title XVIII, §1803(b), Oct. 28, 2009, 123 Stat. 2612, provided that:
+Pub. L. 109–148, div. A, title X, §§1002, 1005, 1006, Dec. 30, 2005, 119 Stat. 2739, 2740, 2744, as amended by Pub. L. 109–366, §§9, 10, Oct. 17, 2006, 120 Stat. 2636, 2637; Pub. L. 110–181, div. A, title X, §1063(d)(2), Jan. 28, 2008, 122 Stat. 323; Pub. L. 111–84, div. A, title XVIII, §1803(b)(1), formerly §1803(b), Oct. 28, 2009, 123 Stat. 2612, as renumbered §1803(b)(1) by Pub. L. 111–383, div. A, title X, §1075(d)(21), Jan. 7, 2011, 124 Stat. 4374, provided that:
 
 #### “SEC. 1002. UNIFORM STANDARDS FOR THE INTERROGATION OF PERSONS UNDER THE DETENTION OF THE DEPARTMENT OF DEFENSE.
 
@@ -726,7 +696,7 @@ Scope of review.—The jurisdiction of the United States Court of Appeals for th
 
 Termination on release from custody.—The jurisdiction of the United States Court of Appeals for the District of Columbia Circuit with respect to the claims of an alien under this paragraph shall cease upon the release of such alien from the custody of the Department of Defense.
 
-&emsp;“\[(3) Repealed. Pub. L. 111–84, div. A, title XVIII, §1803(b), Oct. 28, 2009, 123 Stat. 2612\]
+&emsp;“\[(3) Repealed. Pub. L. 111–84, div. A, title XVIII, §1803(b)(1), formerly §1803(b), Oct. 28, 2009, 123 Stat. 2612, as renumbered §1803(b)(1) by Pub. L. 111–383, div. A, title X, §1075(d)(21), Jan. 7, 2011, 124 Stat. 4374.\]
 
 &emsp;“(4)
 
@@ -790,8 +760,6 @@ Transmittal of Regulations.—Not less than 30 days after the date on which regu
 
 Annual Report.—Not less than one year after the date of the enactment of this Act \[Dec. 30, 2005\], and annually thereafter, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the implementation of this section.”
 
-\[Pub. L. 111–84, div. A, title XVIII, §1803(b), Oct. 28, 2009, 123 Stat. 2612, which directed amendment of “section 1005(e) of the Detainee Treatment Act of 2005 (title X of Public Law 109–359; 10 U.S.C. 801 note)”, was executed by amending section 1005(e) of title X of Pub. L. 109–148, set out above, to reflect the probable intent of Congress.\]
-
 #### Sense of Congress Concerning Detainees; Actions To Prevent Abuse
 
 Pub. L. 108–375, div. A, title X, §§1091, 1092, Oct. 28, 2004, 118 Stat. 2068, 2069, provided that:
@@ -814,7 +782,7 @@ Sense of Congress.—It is the sense of Congress that—
 
 &emsp;“(6) the Constitution, laws, and treaties of the United States and the applicable guidance and regulations of the United States Government prohibit the torture or cruel, inhuman, or degrading treatment of foreign prisoners held in custody by the United States;
 
-&emsp;“(7) the alleged crimes of a handful of individuals should not detract from the commendable sacrifices of over 300,000 members of the Armed Forces who have served, or who are serving, in Operation Iraqi Freedom; and
+&emsp;“(7) the alleged crimes of a handful of individuals should not detract from the commendable sacrifices of over 300,000 members of the Armed Forces whohave served, or who are serving, in Operation Iraqi Freedom; and
 
 &emsp;“(8) no detainee shall be subject to torture or cruel, inhuman, or degrading treatment or punishment that is prohibited by the Constitution, laws, or treaties of United States.
 
@@ -840,7 +808,7 @@ Detainees.—For purposes of this section, the term ‘detainee’ means a perso
 
 “(a)
 
-Policies Required.—The Secretary of Defense shall ensure that policies are prescribed not later than150 days after the date of the enactment of this Act \[Oct. 28, 2004\] regarding procedures for Department of Defense personnel and contractor personnel of the Department of Defense intended to ensure that members of the Armed Forces, and all persons acting on behalf of the Armed Forces or within facilities of the Armed Forces, treat persons detained by the United States Government in a humane manner consistent with the international obligations and laws of the United States and the policies set forth in section 1091(b).
+Policies Required.—The Secretary of Defense shall ensure that policies are prescribed not later than 150 days after the date of the enactment of this Act \[Oct. 28, 2004\] regarding procedures for Department of Defense personnel and contractor personnel of the Department of Defense intended to ensure that members of the Armed Forces, and all persons acting on behalf of the Armed Forces or within facilities of the Armed Forces, treat persons detained by the United States Government in a humane manner consistent with the international obligations and laws of the United States and the policies set forth in section 1091(b).
 
 “(b)
 
@@ -982,7 +950,7 @@ Section 1. <i>Definitions</i>. As used in this order:
 
 Sec. 2. <i>Findings</i>.
 
-(a) Over the past 7 years, approximately 800 individuals whom the Department of Defense has ever determined to be, or treated as, enemy combatants have been detained at Guantanamo. The Federal Government has moved more than 500 such detainees from Guantanamo, either by returning them to their home country or by releasing or transferring them to a third country. The Department of Defense has determined that a number of the individuals currently detained at Guantanamo are eligible for such transfer or release.
+(a) Over the past 7 years, approximately 800 individuals whom the Department of Defense has ever determined to be, or treated as, enemy combatants have been detained at Guantanamo. The Federal Government has moved more than 500 such detainees from Guantanamo, either by returning them to their homecountry or by releasing or transferring them to a third country. The Department of Defense has determined that a number of the individuals currently detained at Guantanamo are eligible for such transfer or release.
 
 (b) Some individuals currently detained at Guantanamo have been there for more than 6 years, and most have been detained for at least 4 years. In view of the significant concerns raised by these detentions, both within the United States and internationally, prompt and appropriate disposition of the individuals currently detained at Guantanamo and closure of the facilities in which they are detained would further the national security and foreign policy interests of the United States and the interests of justice. Merely closing the facilities without promptly determining the appropriate disposition of the individuals detained would not adequately serve those interests. To the extent practicable, the prompt and appropriate disposition of the individuals detained at Guantanamo should precede the closure of the detention facilities at Guantanamo.
 
@@ -1034,7 +1002,7 @@ Sec. 5. <i>Diplomatic Efforts</i>. The Secretary of State shall expeditiously pu
 
 Sec. 6. <i>Humane Standards of Confinement</i>. No individual currently detained at Guantanamo shall be held in the custody or under the effective control of any officer, employee, or other agent of the United States Government, or at a facility owned, operated, or controlled by a department or agency of the United States, except in conformity with all applicable laws governing the conditions of such confinement, including Common Article 3 of the Geneva Conventions. The Secretary of Defense shall immediately undertake a review of the conditions of detention at Guantanamo to ensure full compliance with this directive. Such review shall be completed within 30 days and any necessary corrections shall be implemented immediately thereafter.
 
-Sec. 7. <i>Military Commissions</i>. The Secretary of Defense shall immediately take steps sufficient to ensure that during the pendency of the Review described in section 4 of this order, no charges are sworn, or referred to a military commission under the Military Commissions Act of 2006 and the Rules for Military Commissions, and that all proceedings of such military commissions to which charges have been referred but in which no judgment has been rendered, and all proceedings pending in the United States Court of Military Commission Review, are halted.
+Sec. 7. <i>Military Commissions</i>. The Secretary of Defense shall immediately take steps sufficient to ensure that during the pendency of the Review described in section 4 of this order, no charges are sworn, or referred to amilitary commission under the Military Commissions Act of 2006 and the Rules for Military Commissions, and that all proceedings of such military commissions to which charges have been referred but in which no judgment has been rendered, and all proceedings pending in the United States Court of Military Commission Review, are halted.
 
 Sec. 8. <i>General Provisions</i>.
 

@@ -62,7 +62,7 @@ In each quadrennial homeland security review, the Secretary shall—
 
 &emsp;&emsp;(F) a discussion of the status of cooperation among Federal agencies in the effort to promote national homeland security;
 
-&emsp;&emsp;(G) a discussion of the status of cooperation between the Federal Government and State, local, and tribal governments in preventing terrorist attacks and preparing for emergency response to threats to national homeland security;
+&emsp;&emsp;(G) a discussion of the status of cooperation between the Federal Government andState, local, and tribal governments in preventing terrorist attacks and preparing for emergency response to threats to national homeland security;
 
 &emsp;&emsp;(H) an explanation of any underlying assumptions used in conducting the review; and
 

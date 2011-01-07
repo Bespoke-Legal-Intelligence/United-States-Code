@@ -18,7 +18,7 @@
 
 #### Amendments
 
-1994—Subsec. (b)(5). Pub. L. 103–236, as amended by Pub. L. 103–415, added par. (5).
+<b>1994</b>—Subsec. (b)(5). Pub. L. 103–236, as amended by Pub. L. 103–415, added par. (5).
 
-1987—Pub. L. 100–204 designated existing provisions as subsec. (a), substituted “subsection (b) of this section” for “section 3951(a) of this title”, and added subsec. (b).
+<b>1987</b>—Pub. L. 100–204 designated existing provisions as subsec. (a), substituted “subsection (b) of this section” for “section 3951(a) of this title”, and added subsec. (b).
 

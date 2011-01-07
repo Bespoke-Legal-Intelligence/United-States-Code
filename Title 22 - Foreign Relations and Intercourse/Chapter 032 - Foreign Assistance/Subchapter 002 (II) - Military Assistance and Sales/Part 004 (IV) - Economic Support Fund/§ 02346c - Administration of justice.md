@@ -52,15 +52,15 @@ Another prior section 2346c, Pub. L. 87–195, pt. II, §534, as added Pub. L. 9
 
 #### Amendments
 
-1990—Subsec. (e). Pub. L. 101–623, §2(b)(6)(A), which directed the substitution of “$10,000,000 may be made available in fiscal year 1991” for “$7,000,000 may be made available in fiscal year 1990”, was executed by making the substitution for “$7,000,000 may be made available in fiscal year 1991” to reflect the probable intent of Congress and the intervening substitution of “fiscal year 1991” for “fiscal year 1990” by Pub. L. 101–513. See below.
+<b>1990</b>—Subsec. (e). Pub. L. 101–623, §2(b)(6)(A), which directed the substitution of “$10,000,000 may be made available in fiscal year 1991” for “$7,000,000 may be made available in fiscal year 1990”, was executed by making the substitution for “$7,000,000 may be made available in fiscal year 1991” to reflect the probable intent of Congress and the intervening substitution of “fiscal year 1991” for “fiscal year 1990” by Pub. L. 101–513. See below.
 
 Pub. L. 101–623, §2(b)(6)(B), and Pub. L. 101–513, amended subsec. (e) identically, substituting “September 30, 1991” for “September 30, 1990”.
 
 Pub. L. 101–513 substituted “fiscal year 1991” for “fiscal year 1990”.
 
-1989—Subsec. (e). Pub. L. 101–167 substituted “fiscal year 1990” for “each of fiscal years 1988 and 1989” and “September 30, 1990” for “September 30, 1989”.
+<b>1989</b>—Subsec. (e). Pub. L. 101–167 substituted “fiscal year 1990” for “each of fiscal years 1988 and 1989” and “September 30, 1990” for “September 30, 1989”.
 
-1987—Subsec. (b)(3). Pub. L. 100–202, §101(e) \[title V, §579(a)\], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “notwithstanding section 2420 of this title, programs to enhance investigative capabilities, conducted under judicial or prosecutorial control;”.
+<b>1987</b>—Subsec. (b)(3). Pub. L. 100–202, §101(e) \[title V, §579(a)\], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “notwithstanding section 2420 of this title, programs to enhance investigative capabilities, conducted under judicial or prosecutorial control;”.
 
 Subsec. (e). Pub. L. 100–202, §101(e) \[title V, §579(b)\], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The authority of this section shall expire on September 30, 1987.”
 
@@ -70,7 +70,7 @@ Section effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as 
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Administration of Justice Activities
 

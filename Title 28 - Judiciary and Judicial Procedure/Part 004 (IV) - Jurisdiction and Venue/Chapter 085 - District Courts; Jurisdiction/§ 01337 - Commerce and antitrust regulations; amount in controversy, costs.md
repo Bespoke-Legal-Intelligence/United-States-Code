@@ -2,7 +2,7 @@
 
 (a) The district courts shall have original jurisdiction of any civil action or proceeding arising under any Act of Congress regulating commerce or protecting trade and commerce against restraints and monopolies: <i>Provided, however</i>, That the district courts shall have original jurisdiction of an action brought under section 11706 or 14706 of title 49, only if the matter in controversy for each receipt or bill of lading exceeds $10,000, exclusive of interest and costs.
 
-(b) Except when express provision therefor is otherwise made in a statute of the United States, where a plaintiff who files the case under section 11706 or 14706 of title 49, originally in the Federal courts is finally adjudged to be entitledto recover less than the sum or value of $10,000, computed without regard to any setoff or counterclaim to which the defendant may be adjudged to be entitled, and exclusive of any interest and costs, the district court may deny costs to the plaintiff and, in addition, may impose costs on the plaintiff.
+(b) Except when express provision therefor is otherwise made in a statute of the United States, where a plaintiff who files the case under section 11706 or 14706 of title 49, originally in the Federal courts is finally adjudged to be entitled to recover less than the sum or value of $10,000, computed without regard to any setoff or counterclaim to which the defendant may be adjudged to be entitled, and exclusive of any interest and costs, the district court may deny costs to the plaintiff and, in addition, may impose costs on the plaintiff.
 
 (c) The district courts shall not have jurisdiction under this section of any matter within the exclusive jurisdiction of the Court of International Trade under chapter 95 of this title.
 
@@ -18,13 +18,13 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1995—Subsecs. (a), (b). Pub. L. 104–88 substituted “11706 or 14706” for “11707”.
+<b>1995</b>—Subsecs. (a), (b). Pub. L. 104–88 substituted “11706 or 14706” for “11707”.
 
-1983—Pub. L. 97–449 substituted “section 11707 of title 49” for “section 20(11) of part I of the Interstate Commerce Act (49 U.S.C. 20(11)) or section 219 of part II of such Act (49 U.S.C. 319)” wherever appearing.
+<b>1983</b>—Pub. L. 97–449 substituted “section 11707 of title 49” for “section 20(11) of part I of the Interstate Commerce Act (49 U.S.C. 20(11)) or section 219 of part II of such Act (49 U.S.C. 319)” wherever appearing.
 
-1980—Subsec. (c). Pub. L. 96–417 added subsec. (c).
+<b>1980</b>—Subsec. (c). Pub. L. 96–417 added subsec. (c).
 
-1978—Pub. L. 95–486 designated existing provisions as subsec. (a), inserted proviso giving the district courts original jurisdiction of actions brought under sections 20(11) and 219 of the Interstate Commerce Act when the amounts in controversy for each receipt exceed $10,000, exclusive of interests and costs, and added subsec. (b).
+<b>1978</b>—Pub. L. 95–486 designated existing provisions as subsec. (a), inserted proviso giving the district courts original jurisdiction of actions brought under sections 20(11) and 219 of the Interstate Commerce Act when the amounts in controversy for each receipt exceed $10,000, exclusive of interests and costs, and added subsec. (b).
 
 #### Effective Date of 1995 Amendment
 

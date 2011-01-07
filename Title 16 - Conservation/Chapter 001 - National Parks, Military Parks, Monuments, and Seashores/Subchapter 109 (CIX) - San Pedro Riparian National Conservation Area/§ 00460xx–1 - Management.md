@@ -24,11 +24,5 @@ Any person who violates any provision of this subchapter or any regulation promu
 
 #### References in Text
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
-
-The public land laws, referred to in subsec. (c), are classified generally to Title 43.
-
-The United States mining laws and the mineral leasing laws, referred to in subsec. (c), are classified generally to Title 30, Mineral Lands and Mining.
-
-Geothermal leasing laws, referred to in subsec. (c), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 

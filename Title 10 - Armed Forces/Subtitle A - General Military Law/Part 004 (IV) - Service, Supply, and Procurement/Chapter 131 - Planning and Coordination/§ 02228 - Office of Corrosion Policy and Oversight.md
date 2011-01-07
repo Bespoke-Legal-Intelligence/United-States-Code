@@ -74,15 +74,19 @@ Report.—(1) For each budget for a fiscal year, beginning with the budget for f
 
 &emsp;(B) The return on investment that would be achieved by implementing the strategy.
 
-&emsp;(C) The funds requested in the budget compared to the funding requirements.
+&emsp;(C) For the fiscal year covered by the report and the preceding fiscal year, the funds requested in the budget compared to the funding requirements.
 
 &emsp;(D) An explanation if the funding requirements are not fully funded in the budget.
+
+&emsp;(E) For the fiscal year covered by the report and the preceding fiscal year, the amount of funds requested in the budget for each project or activity described in subsection (d) compared to the funding requirements for the project or activity.
 
 (2) Within 60 days after submission of the budget for a fiscal year, the Comptroller General shall provide to the congressional defense committees—
 
 &emsp;(A) an analysis of the budget submission for corrosion control and prevention by the Department of Defense; and
 
-&emsp;(B) an analysis of the report required under paragraph (1).
+&emsp;(B) an analysis of the report required under paragraph (1), including the annex to the report described in paragraph (3).
+
+(3) Each report under this section shall include, in an annex to the report, a copy of the annual corrosion report most recently submitted by the corrosion control and prevention executive of each military department under section 903(b)(5) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 122 Stat. 4567; 10 U.S.C. 2228 note).
 
 (f)
 
@@ -92,17 +96,25 @@ Definitions.—In this section:
 
 &emsp;(2) The term “military equipment” includes all weapon systems, weapon platforms, vehicles, and munitions of the Department of Defense, and the components of such items.
 
-&emsp;(3) The term “infrastructure” includes all buildings, structures, airfields, port facilities, surface and subterranean utility systems,heating and cooling systems, fuel tanks, pavements, and bridges.
+&emsp;(3) The term “infrastructure” includes all buildings, structures, airfields, port facilities, surface and subterranean utility systems, heating and cooling systems, fuel tanks, pavements, and bridges.
 
 &emsp;(4) The term “budget”, with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31.
 
 &emsp;(5) The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
 
-(Added Pub. L. 107–314, div. A, title X, §1067(a)(1), Dec. 2, 2002, 116 Stat. 2657; amended Pub. L. 110–181, div. A, title III, §371(a)–(e), Jan. 28, 2008, 122 Stat. 79–81; Pub. L. 110–417, \[div. A\], title X, §1061(b)(1), Oct. 14, 2008, 122 Stat. 4612.)
+(Added Pub. L. 107–314, div. A, title X, §1067(a)(1), Dec. 2, 2002, 116 Stat. 2657; amended Pub. L. 110–181, div. A, title III, §371(a)–(e), Jan. 28, 2008, 122 Stat. 79–81; Pub. L. 110–417, \[div. A\], title X, §1061(b)(1), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–383, div. A, title III, §331, Jan. 7, 2011, 124 Stat. 4185.)
 
 #### Amendments
 
-2008—Pub. L. 110–181, §371(a)(1), substituted “Office of Corrosion Policy and Oversight” for “Military equipment and infrastructure: prevention and mitigation of corrosion” in section catchline.
+<b>2011</b>—Subsec. (e)(1)(C). Pub. L. 111–383, §331(1)(A), substituted “For the fiscal year covered by the report and the preceding fiscal year, the” for “The”.
+
+Subsec. (e)(1)(E). Pub. L. 111–383, §331(1)(B), added subpar. (E).
+
+Subsec. (e)(2)(B). Pub. L. 111–383, §331(2), inserted before period at end “, including the annex to the report described in paragraph (3)”.
+
+Subsec. (e)(3). Pub. L. 111–383, §331(3), added par. (3).
+
+<b>2008</b>—Pub. L. 110–181, §371(a)(1), substituted “Office of Corrosion Policy and Oversight” for “Military equipment and infrastructure: prevention and mitigation of corrosion” in section catchline.
 
 Subsec. (a). Pub. L. 110–181, §371(a)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Former text read as follows: “The Secretary of Defense shall designate an officer or employee of the Department of Defense, or a standing board or committee of the Department of Defense, as the senior official or organization responsible in the Department to the Secretary of Defense (after the Under Secretary of Defense for Acquisition, Technology, and Logistics) for the prevention and mitigation of corrosion of the military equipment and infrastructure of the Department.”
 
@@ -134,7 +146,7 @@ Requirement to Designate Corrosion Control and Prevention Executive.—Not later
 
 “(b)
 
-Duties.—(1) The corrosion control and prevention executive of a military department shall ensure that corrosion control and prevention is maintained in the department's policy and guidance for management of each of the following:
+Duties.—(1) The corrosion control and prevention executive of a military department shall ensurethat corrosion control and prevention is maintained in the department's policy and guidance for management of each of the following:
 
 &emsp;“(A) System acquisition and production, including design and maintenance.
 

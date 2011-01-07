@@ -1,6 +1,6 @@
 ### §1012. Department of Housing and Urban Development transactions
 
-Whoever, with intent to defraud, makes any false entry in any book of the Department ofHousing and Urban Development or makes any false report or statement to or for such Department; or
+Whoever, with intent to defraud, makes any false entry in any book of the Department of Housing and Urban Development or makes any false report or statement to or for such Department; or
 
 Whoever receives any compensation, rebate, or reward, with intent to defraud such Department or with intent unlawfully to defeat its purposes; or
 
@@ -22,9 +22,9 @@ The provisions of section 1424 of title 42, U.S.C., 1940 ed., The Public Health 
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in last par.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in last par.
 
-1967—Pub. L. 90–19 substituted “Department of Housing and Urban Development” for “Public Housing Administration” in section catchline and text, and “Department” for “Administration” wherever appearing in text.
+<b>1967</b>—Pub. L. 90–19 substituted “Department of Housing and Urban Development” for “Public Housing Administration” in section catchline and text, and “Department” for “Administration” wherever appearing in text.
 
-1951—Act Oct. 31, 1951, substituted “Public Housing Administration” for “United States Housing Authority” in section catchline and text, and “Administration” for “Authority”, wherever appearing in text.
+<b>1951</b>—Act Oct. 31, 1951, substituted “Public Housing Administration” for “United States Housing Authority” in section catchline and text, and “Administration” for “Authority”, wherever appearing in text.
 

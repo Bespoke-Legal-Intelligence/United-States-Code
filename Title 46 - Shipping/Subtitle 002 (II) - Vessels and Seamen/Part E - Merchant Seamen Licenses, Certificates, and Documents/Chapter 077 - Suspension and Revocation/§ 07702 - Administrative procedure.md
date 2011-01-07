@@ -46,7 +46,7 @@ Sections 205(a)(3)(A) or (B) and 206(b)(4) of the National Driver Register Act o
 
 #### Amendments
 
-2004—Subsec. (d)(1). Pub. L. 108–293, §407(1), substituted “if—” for “if, when acting under the authority of that license, certificate, or document—” in introductory provisions.
+<b>2004</b>—Subsec. (d)(1). Pub. L. 108–293, §407(1), substituted “if—” for “if, when acting under the authority of that license, certificate, or document—” in introductory provisions.
 
 Subsec.(d)(1)(B)(i). Pub. L. 108–293, §407(2), inserted “, while acting under the authority of that license, certificate, or document,” after “has”.
 
@@ -54,11 +54,11 @@ Subsec. (d)(1)(B)(iii). Pub. L. 108–293, §609(2), substituted “section 3030
 
 Subsec. (d)(1)(B)(iv). Pub. L. 108–293, §407(3)–(5), added cl. (iv).
 
-1998—Subsec. (c)(2). Pub. L. 105–383 inserted second sentence and struck out former second sentence which read as follows: “The testing may include preemployment (with respect to dangerous drugs only), periodic, random, reasonable cause, and post accident testing.”
+<b>1998</b>—Subsec. (c)(2). Pub. L. 105–383 inserted second sentence and struck out former second sentence which read as follows: “The testing may include preemployment (with respect to dangerous drugs only), periodic, random, reasonable cause, and post accident testing.”
 
-1990—Subsecs. (c), (d). Pub. L. 101–380 added subsecs. (c) and (d).
+<b>1990</b>—Subsecs. (c), (d). Pub. L. 101–380 added subsecs. (c) and (d).
 
-1985—Subsec. (a). Pub. L. 99–36 substituted “mariner's” for “mariners’ ”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–36 substituted “mariner's” for “mariners’ ”.
 
 #### Effective Date of 1990 Amendment
 

@@ -34,7 +34,7 @@ Any person who violates subsection (a) of this section shall be subject to decla
 
 #### Amendments
 
-2003—Pub. L. 108–21, §608(b)(2), substituted “Maintaining drug-involved premises” for “Establishment of manufacturing operations” in section catchline.
+<b>2003</b>—Pub. L. 108–21, §608(b)(2), substituted “Maintaining drug-involved premises” for “Establishment of manufacturing operations” in section catchline.
 
 Subsec. (a)(1). Pub. L. 108–21, §608(b)(1)(A), substituted “open, lease, rent, use, or maintain any place, whether permanently or temporarily,” for “open or maintain any place”.
 
@@ -42,5 +42,5 @@ Subsec. (a)(2). Pub. L. 108–21, §608(b)(1)(B), added par. (2) and struck out 
 
 Subsecs. (d), (e). Pub. L. 108–21, §608(c), added subsecs. (d) and (e).
 
-2000—Subsec. (c). Pub. L. 106–310 added subsec. (c).
+<b>2000</b>—Subsec. (c). Pub. L. 106–310 added subsec. (c).
 

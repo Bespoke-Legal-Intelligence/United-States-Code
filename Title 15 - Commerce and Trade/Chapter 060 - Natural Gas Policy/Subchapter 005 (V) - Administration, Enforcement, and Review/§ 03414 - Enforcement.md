@@ -94,13 +94,13 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 #### Amendments
 
-2005—Subsec. (b)(6)(A). Pub. L. 109–58, §314(b)(2), substituted “$1,000,000” for “$5,000” in cl. (i) and “$1,000,000” for “$25,000” in cl. (ii).
+<b>2005</b>—Subsec. (b)(6)(A). Pub. L. 109–58, §314(b)(2), substituted “$1,000,000” for “$5,000” in cl. (i) and “$1,000,000” for “$25,000” in cl. (ii).
 
 Subsec. (c)(1). Pub. L. 109–58, §314(a)(2)(A), substituted “$1,000,000” for “$5,000” in subpar. (A) and “5 years” for “two years” in subpar. (B).
 
 Subsec. (c)(2). Pub. L. 109–58, §314(a)(2)(B), substituted “$50,000 for each day on which the offense occurs” for “$500 for each violation”.
 
-1989—Subsec. (a). Pub. L. 101–60, §3(b)(6), struck out par. (2) designation and par. (1) making it unlawful to sell natural gas at a first sale price in excess of any applicable maximum lawful price under this chapter.
+<b>1989</b>—Subsec. (a). Pub. L. 101–60, §3(b)(6), struck out par. (2) designation and par. (1) making it unlawful to sell natural gas at a first sale price in excess of any applicable maximum lawful price under this chapter.
 
 Subsec. (b). Pub. L. 101–60, §3(a)(4), substituted “paragraph (2)” for “paragraphs (2) and (3)” in par. (1), struck out par. (3) which related to enforcement of incremental pricing, and substituted “paragraph (1) or (2)” for “paragraph (1), (2), or (3)” in par. (4).
 

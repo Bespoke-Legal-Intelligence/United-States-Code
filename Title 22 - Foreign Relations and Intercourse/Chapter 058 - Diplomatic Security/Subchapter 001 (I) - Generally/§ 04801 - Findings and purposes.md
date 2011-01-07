@@ -32,9 +32,9 @@ This chapter, referred to in subsec. (b), was in the original “titles I throug
 
 #### Amendments
 
-1994—Subsec. (b)(2) to (6). Pub. L. 103–236 struck out par. (2) and redesignated pars. (3) to (6) as (2) to (5), respectively. Prior to amendment, par. (2) read as follows: “to provide for an Assistant Secretary of State to head the Bureau of Diplomatic Security of the Department of State, and to set forth certain provisions relating to the Diplomatic Security Service of the Department of State;”.
+<b>1994</b>—Subsec. (b)(2) to (6). Pub. L. 103–236 struck out par. (2) and redesignated pars. (3) to (6) as (2) to (5), respectively. Prior to amendment, par. (2) read as follows: “to provide for an Assistant Secretary of State to head the Bureau of Diplomatic Security of the Department of State, and to set forth certain provisions relating to the Diplomatic Security Service of the Department of State;”.
 
-1990—Subsec. (b)(5), (6). Pub. L. 101–246 added par. (5) and redesignated former par. (5) as (6).
+<b>1990</b>—Subsec. (b)(5), (6). Pub. L. 101–246 added par. (5) and redesignated former par. (5) as (6).
 
 #### Effective Date of 1994 Amendment
 

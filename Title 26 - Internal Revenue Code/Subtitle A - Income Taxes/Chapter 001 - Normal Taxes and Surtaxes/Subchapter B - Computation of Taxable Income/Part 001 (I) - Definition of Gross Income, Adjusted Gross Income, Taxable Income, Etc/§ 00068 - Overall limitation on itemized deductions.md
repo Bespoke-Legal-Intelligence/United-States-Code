@@ -30,7 +30,7 @@ For purposes of this section, the term “itemized deductions” does not includ
 
 &emsp;(2) any deduction for investment interest (as defined in section 163(d)), and
 
-&emsp;(3) the deduction under section 165(a) for casualty or theft losses described in paragraph (2) or (3) of section 165(c) or for losses described in section 165(d).
+&emsp;(3) the deduction under section 165(a) for casualty or theft losses described in paragraph (2)or (3) of section 165(c) or for losses described in section 165(d).
 
 #### (d) Coordination with other limitations
 
@@ -73,11 +73,11 @@ This section shall not apply to any taxable year beginning after December 31, 20
 
 #### Amendments
 
-2001—Subsecs. (f), (g). Pub. L. 107—16, §§103(a), 901, temporarily added subsecs. (f) and (g). See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsecs. (f), (g). Pub. L. 107—16, §§103(a), 901, temporarily added subsecs. (f) and (g). See Effective and Termination Dates of 2001 Amendment note below.
 
-1998—Subsec. (c)(3). Pub. L. 105–277 substituted “for casualty or theft losses described in paragraph (2) or (3) of section 165(c) or for losses described in section 165(d)” for “for losses described in subsection (c)(3) or (d) of section 165”.
+<b>1998</b>—Subsec. (c)(3). Pub. L. 105–277 substituted “for casualty or theft losses described in paragraph (2) or (3) of section 165(c) or for losses described in section 165(d)” for “for losses described in subsection (c)(3) or (d) of section 165”.
 
-1993—Subsec. (b)(2)(B). Pub. L. 103–66, §13201(b)(3)(E), substituted “1992” for “1989”.
+<b>1993</b>—Subsec. (b)(2)(B). Pub. L. 103–66, §13201(b)(3)(E), substituted “1992” for “1989”.
 
 Subsec. (f). Pub. L. 103–66, §13204, struck out heading and text of subsec. (f). Text read as follows: “This section shall not apply to any taxable year beginning after December 31, 1995.”
 
@@ -85,7 +85,7 @@ Subsec. (f). Pub. L. 103–66, §13204, struck out heading and text of subsec. (
 
 Pub. L. 107–16, title I, §103(b), June 7, 2001, 115 Stat. 45, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2005.”
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 

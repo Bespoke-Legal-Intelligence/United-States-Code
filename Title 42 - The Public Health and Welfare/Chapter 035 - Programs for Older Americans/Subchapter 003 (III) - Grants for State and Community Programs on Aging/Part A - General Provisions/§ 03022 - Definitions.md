@@ -32,11 +32,11 @@ Another prior section 3022, Pub. L. 89–73, title III, §302, July 14, 1965, 79
 
 #### Amendments
 
-2006—Pars. (2) to (4). Pub. L. 109–365 added par. (4), redesignated pars. (2), (3), and (4) as pars. (4), (2), and (3), respectively, and moved par. (4) to end of section.
+<b>2006</b>—Pars. (2) to (4). Pub. L. 109–365 added par. (4), redesignated pars. (2), (3), and (4) as pars. (4), (2), and (3), respectively, and moved par. (4) to end of section.
 
-1993—Par. (10). Pub. L. 103–171 struck out par. (10) which defined “multipurpose senior center”.
+<b>1993</b>—Par. (10). Pub. L. 103–171 struck out par. (10) which defined “multipurpose senior center”.
 
-1992—Par. (1)(D). Pub. L. 102–375, §302, added subpar. (D).
+<b>1992</b>—Par. (1)(D). Pub. L. 102–375, §302, added subpar. (D).
 
 Pars. (2), (3). Pub. L. 102–375, §102(b)(3)(A), (B), redesignated pars. (7) and (8) as (2) and (3), respectively, and struck out former pars. (2) and (3) which defined “information and referral source” and “long-term care facility”, respectively.
 
@@ -50,7 +50,7 @@ Par. (11). Pub. L. 102–375, §102(b)(3)(A), struck out par. (11) which defined
 
 Pars. (14) to (21). Pub. L. 102–375, §102(b)(3)(A), struck out pars. (14) to (21) which defined “abuse”, “elder abuse”, “caretaker”, “exploitation”, “neglect”, “physical harm”, “greatest economic need”, and “greatest social need”, respectively.
 
-1987—Par. (6). Pub. L. 100–175, §182(b)(2), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “The term ‘State’ means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.”
+<b>1987</b>—Par. (6). Pub. L. 100–175, §182(b)(2), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “The term ‘State’ means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.”
 
 Pars. (7) to (9). Pub. L. 100–175, §182(b)(2)(B), redesignated pars. (8) to (10) as (7) to (9), respectively. Former par. (7) redesignated (6).
 
@@ -68,7 +68,7 @@ Pub. L. 100–175, §144(a), added par. (20).
 
 Par. (21). Pub. L. 100–175, §182(e)(1), added par. (21).
 
-1984—Par. (2)(B). Pub. L. 98–459, §302(1), substituted “employs, where feasible,” for “employs”, and inserted “to assess the needs and capacities of older individuals,”.
+<b>1984</b>—Par. (2)(B). Pub. L. 98–459, §302(1), substituted “employs, where feasible,” for “employs”, and inserted “to assess the needs and capacities of older individuals,”.
 
 Par. (4). Pub. L. 98–459, §302(2), substituted “legal assistance” for “legal services”.
 
@@ -76,7 +76,7 @@ Par. (6). Pub. L. 98–459, §302(3), substituted “, and the Commonwealth of 
 
 Pars. (10) to (12). Pub. L. 98–459, §302(4), added pars. (10) to (12).
 
-1981—Par. (1). Pub. L. 97–115, §3(d), substituted “supportive services” for “social services” in provisions preceding subpar. (A) and in subpars. (A) and (B).
+<b>1981</b>—Par. (1). Pub. L. 97–115, §3(d), substituted “supportive services” for “social services” in provisions preceding subpar. (A) and in subpars. (A) and (B).
 
 Par. (3). Pub. L. 97–115, §3(b)(1), inserted provision relating to any category of institutions regulated by a State pursuant to provisions of section 1382e(e) of this title (for purposes of section 3027(a)(12) of this title).
 

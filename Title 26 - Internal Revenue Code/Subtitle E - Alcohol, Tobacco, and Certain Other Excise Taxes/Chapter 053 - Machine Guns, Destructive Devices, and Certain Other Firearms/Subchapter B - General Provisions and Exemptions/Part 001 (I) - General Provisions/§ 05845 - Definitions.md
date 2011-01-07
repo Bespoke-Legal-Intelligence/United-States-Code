@@ -4,7 +4,7 @@ For the purpose of this chapter—
 
 #### (a) Firearm
 
-The term “firearm” means (1) a shotgun having a barrel or barrels of less than 18 inches inlength; (2) a weapon made from a shotgun if such weapon as modified has an overall length of less than 26 inches or a barrel or barrels of less than 18 inches in length; (3) a rifle having a barrel or barrels of less than 16 inches in length; (4) a weapon made from a rifle if such weapon as modified has an overall length of less than 26 inches or a barrel or barrels of less than 16 inches in length; (5) any other weapon, as defined in subsection (e); (6) a machinegun; (7) any silencer (as defined in section 921 of title 18, United States Code); and (8) a destructive device. The term “firearm” shall not include an antique firearm or any device (other than a machinegun or destructive device) which, although designed as a weapon, the Secretary finds by reason of the date of its manufacture, value, design, and other characteristics is primarily a collector's item and is not likely to be used as a weapon.
+The term “firearm” means (1) a shotgun having a barrel or barrels of less than 18 inches in length; (2) a weapon made from a shotgun if such weapon as modified has an overall length of less than 26 inches or a barrel or barrels of less than 18 inches in length; (3) a rifle having a barrel or barrels of less than 16 inches in length; (4) a weapon made from a rifle if such weapon as modified has an overall length of less than 26 inches or a barrel or barrels of less than 16 inches in length; (5) any other weapon, as defined in subsection (e); (6) a machinegun; (7) any silencer (as defined in section 921 of title 18, United States Code); and (8) a destructive device. The term “firearm” shall not include an antique firearm or any device (other than a machinegun or destructive device) which, although designed as a weapon, the Secretary finds by reason of the date of its manufacture, value, design, and other characteristics is primarily a collector's item and is not likely to be used as a weapon.
 
 #### (b) Machinegun
 
@@ -54,7 +54,7 @@ The term “importer” means any person who is engaged in the business of impor
 
 The term “manufacturer” means any person who is engaged in the business of manufacturing firearms.
 
-(Added Pub. L. 90–618, title II, §201, Oct. 22, 1968, 82 Stat. 1230; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), (J), Oct. 4, 1976, 90 Stat. 1834, 1835; Pub. L. 99–308, §109, May 19, 1986, 100 Stat. 460.)
+(Added Pub. L. 90–618, title II, §201, Oct. 22, 1968, 82 Stat. 1230; amended Pub. L. 94–455, title XIX,§1906(b)(13)(A), (J), Oct. 4, 1976, 90 Stat. 1834, 1835; Pub. L. 99–308, §109, May 19, 1986, 100 Stat. 460.)
 
 #### Prior Provisions
 
@@ -64,11 +64,11 @@ Provisions similar to those comprising this section were contained in prior sect
 
 #### Amendments
 
-1986—Subsec. (a)(7). Pub. L. 99–308, §109(b), substituted “any silencer (as defined in section 921 of title 18, United States Code)” for “a muffler or a silencer for any firearm whether or not such firearm is included within this definition”.
+<b>1986</b>—Subsec. (a)(7). Pub. L. 99–308, §109(b), substituted “any silencer (as defined in section 921 of title 18, United States Code)” for “a muffler or a silencer for any firearm whether or not such firearm is included within this definition”.
 
 Subsec. (b). Pub. L. 99–308, §109(a), substituted “any part designed and intended solely and exclusively, or combination of parts designed and intended, for use in converting a weapon into a machinegun,” for “any combination of parts designed and intended for use in converting a weapon into a machinegun,”.
 
-1976—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (f). Pub. L. 94–455, §1906(b)(13)(A), (J), struck out “or his delegate” after “shotgun or shotgun shell which the Secretary” and “of the Treasury or his delegate” after “or any other device which the Secretary”.
 

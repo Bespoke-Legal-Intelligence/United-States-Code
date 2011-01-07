@@ -142,9 +142,9 @@ In subsec. (d)(4), “section 40102(a) of title 49” substituted for “section
 
 #### Amendments
 
-1999—Subsec. (b)(1)(A). Pub. L. 106–36 substituted “section 2291h of title 22” for “section 2291(e) of title 22” in introductory provisions.
+<b>1999</b>—Subsec. (b)(1)(A). Pub. L. 106–36 substituted “section 2291h of title 22” for “section 2291(e) of title 22” in introductory provisions.
 
-1989—Subsec. (b)(1)(A)(i)(IV). Pub. L. 101–231, §17(h)(1), substituted “illicit production” for “production”.
+<b>1989</b>—Subsec. (b)(1)(A)(i)(IV). Pub. L. 101–231, §17(h)(1), substituted “illicit production” for “production”.
 
 Subsec. (b)(1)(B)(iii). Pub. L. 101–231, §17(h)(2), substituted “education and treatment programs” for “treatment”.
 
@@ -152,7 +152,7 @@ Subsec. (b)(1)(B)(v). Pub. L. 101–231, §17(h)(3), substituted “essential pr
 
 Subsec. (b)(2)(D). Pub. L. 101–231, §17(h)(4), substituted “illicit production” for “production”.
 
-1988—Subsec. (b)(1). Pub. L. 100–690, §4408(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subsection (a) of this section shall not apply with respect to a country if the President determines and so certifies to the Congress, at the time of the submission of the report required by section 2291(e) of title 22, that during the previous year that country has cooperated fully with the United States, or has taken adequate steps on its own, in preventing narcotic and psychotropic drugs and other controlled substances produced or processed, in whole or in part, in such country or transported through such country, from being sold illegally within the jurisdiction of such country to United States Government personnel or their dependents or from being transported, directly or indirectly, into the United States and in preventing and punishing corruption by government officials and the laundering in that country of drug-related profits or drug-related monies.”
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–690, §4408(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subsection (a) of this section shall not apply with respect to a country if the President determines and so certifies to the Congress, at the time of the submission of the report required by section 2291(e) of title 22, that during the previous year that country has cooperated fully with the United States, or has taken adequate steps on its own, in preventing narcotic and psychotropic drugs and other controlled substances produced or processed, in whole or in part, in such country or transported through such country, from being sold illegally within the jurisdiction of such country to United States Government personnel or their dependents or from being transported, directly or indirectly, into the United States and in preventing and punishing corruption by government officials and the laundering in that country of drug-related profits or drug-related monies.”
 
 Subsec. (b)(2). Pub. L. 100–690, §4408(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In making the certification required by paragraph (1), the President shall give foremost consideration to whether the actions of the government of the country have resulted in the maximum reductions in illicit drug production which were determined to be achievable pursuant to section 2291(e)(4) of title 22. The President shall also consider whether such government—
 
@@ -172,7 +172,7 @@ Subsec. (b)(3), (4). Pub. L. 100–690, §4408(b), substituted “45 days” for
 
 Subsec. (e). Pub. L. 100–690, §4408(c), added subsec. (e).
 
-1987—Subsec. (a)(4) to (6). Pub. L. 100–204, §806(a)(1), added pars. (4) and (5) and redesignated former par. (4) as (6) and amended it generally. Prior to amendment, par. (6) read as follows: “take any combination of the actions described in paragraphs (1), (2), and (3).”
+<b>1987</b>—Subsec. (a)(4) to (6). Pub. L. 100–204, §806(a)(1), added pars. (4) and (5) and redesignated former par. (4) as (6) and amended it generally. Prior to amendment, par. (6) read as follows: “take any combination of the actions described in paragraphs (1), (2), and (3).”
 
 Subsec. (b). Pub. L. 100–204, §806(a)(2), inserted “corruption by government officials and” after “preventing and punishing” in par. (1) and added par. (2)(C).
 

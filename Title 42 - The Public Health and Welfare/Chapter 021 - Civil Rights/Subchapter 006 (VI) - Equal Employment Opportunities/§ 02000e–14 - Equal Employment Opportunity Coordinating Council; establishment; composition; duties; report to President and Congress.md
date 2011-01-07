@@ -10,9 +10,9 @@ The first sentence of this section, which read “There shall be established an 
 
 #### Amendments
 
-1976—Pub. L. 94–273 substituted “October” for “July”.
+<b>1976</b>—Pub. L. 94–273 substituted “October” for “July”.
 
-1972—Pub. L. 92–261 substituted provisions which established the Equal Employment Opportunity Coordinating Council and set forth the composition, powers, and duties of the Council for provisions which directed the Secretary of Labor to make a report to the Congress not later than June 30, 1965 concerning discrimination in employment because of age.
+<b>1972</b>—Pub. L. 92–261 substituted provisions which established the Equal Employment Opportunity Coordinating Council and set forth the composition, powers, and duties of the Council for provisions which directed the Secretary of Labor to make a report to the Congress not later than June 30, 1965 concerning discrimination in employment because of age.
 
 #### Termination of Reporting Requirements
 

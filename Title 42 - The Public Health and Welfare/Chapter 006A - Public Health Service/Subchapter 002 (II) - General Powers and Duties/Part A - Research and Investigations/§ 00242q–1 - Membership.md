@@ -66,11 +66,11 @@ Section was enacted as part of the Home Health Care and Alzheimer's Disease Amen
 
 #### Amendments
 
-2003—Subsec. (a)(9). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
+<b>2003</b>—Subsec. (a)(9). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
 
-1999—Subsec. (a)(11). Pub. L. 106–129 substituted “Director of the Agency for Healthcare Research and Quality” for “Administrator for Health Care Policy and Research”.
+<b>1999</b>—Subsec. (a)(11). Pub. L. 106–129 substituted “Director of the Agency for Healthcare Research and Quality” for “Administrator for Health Care Policy and Research”.
 
-1992—Subsec. (a)(7). Pub. L. 102–405 substituted “Under Secretary for Health of the Department of Veterans Affairs” for “Chief Medical Director of the Department of Veterans Affairs”.
+<b>1992</b>—Subsec. (a)(7). Pub. L. 102–405 substituted “Under Secretary for Health of the Department of Veterans Affairs” for “Chief Medical Director of the Department of Veterans Affairs”.
 
 Subsec. (a)(8). Pub. L. 102–321 substituted “Substance Abuse and Mental Health Services Administration” for “Alcohol, Drug Abuse and Mental Health Administration”.
 

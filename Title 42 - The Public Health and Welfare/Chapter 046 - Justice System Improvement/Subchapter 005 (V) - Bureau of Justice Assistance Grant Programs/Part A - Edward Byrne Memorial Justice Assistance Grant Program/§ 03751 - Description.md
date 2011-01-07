@@ -72,7 +72,7 @@ Subparagraph (d)(1) shall not be construed to prohibit the use, directly or indi
 
 #### References in Text
 
-This Act, referred to in subsec. (d), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, as amended, known as theOmnibus Crime Control and Safe Streets Act of 1968. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of this title and Tables.
+This Act, referred to in subsec. (d), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, as amended, known as the Omnibus Crime Control and Safe Streets Act of 1968. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of this title and Tables.
 
 #### Prior Provisions
 
@@ -80,7 +80,7 @@ For prior sections 501 of Pub. L. 90–351 and prior sections 3751 of this title
 
 #### Amendments
 
-2006—Subsec. (b)(3). Pub. L. 109–271 struck out par. (3) which read as follows: “tribal governments.”
+<b>2006</b>—Subsec. (b)(3). Pub. L. 109–271 struck out par. (3) which read as follows: “tribal governments.”
 
 #### Effective Date
 

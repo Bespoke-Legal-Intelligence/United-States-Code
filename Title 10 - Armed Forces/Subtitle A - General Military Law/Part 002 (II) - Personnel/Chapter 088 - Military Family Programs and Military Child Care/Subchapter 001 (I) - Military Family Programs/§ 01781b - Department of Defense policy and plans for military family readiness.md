@@ -30,11 +30,15 @@ Elements of Policy.—The policy required under subsection (a) shall include the
 
 &emsp;(4) Metrics to measure the performance and effectiveness of the military family readiness programs and activities of the Department of Defense.
 
-&emsp;(5) A summary, by fiscal year, of the allocation of funds (including appropriated funds and nonappropriated funds) for major categories of military family readiness programs and activities of the Department of Defense, set forth for each of the military departments and for the Office of the Secretary of Defense.
+&emsp;(5) A summary, by fiscal year, of the allocation of funds (including appropriated fundsand nonappropriated funds) for major categories of military family readiness programs and activities of the Department of Defense, set forth for each of the military departments and for the Office of the Secretary of Defense.
 
 (d)
 
-Annual Report.—Not later than March 1, 2008, and each year thereafter, the Secretary of Defense shall submit to the congressional defense committees a report on the plans required under subsection (a) for the five-fiscal year period beginning with the fiscal year in which the report is submitted. Each report shall include the plans covered by the report and an assessment of the discharge by the Department of Defense of the previous plans submitted under this section.
+Annual Report.—Not later than March 1 each year, the Secretary of Defense shall submit to the congressional defense committees a report on the plans required under subsection (a) for the five-fiscal year period beginning with the fiscal year in which the report is submitted. Each report shall include the plans covered by the report and an assessment of the discharge by the Department of Defense of the previous plans submitted under this section.
 
-(Added Pub. L. 110–181, div. A, title V, §581(a), Jan. 28, 2008, 122 Stat. 121.)
+(Added Pub. L. 110–181, div. A, title V, §581(a), Jan. 28, 2008, 122 Stat. 121; amended Pub. L. 111–383, div. A, title X, §1075(b)(23), Jan. 7, 2011, 124 Stat. 4370.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (d). Pub. L. 111–383 substituted “March 1 each year” for “March 1, 2008, and each year thereafter”.
 

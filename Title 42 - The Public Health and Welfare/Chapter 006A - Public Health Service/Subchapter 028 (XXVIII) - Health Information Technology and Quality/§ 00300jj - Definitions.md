@@ -76,3 +76,7 @@ In this subchapter:
 
 The Indian Self-Determination and Education Assistance Act, referred to in par. (3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
+<i><sup>1</sup></i><i> So in original. The words “ambulatory surgical center described in section 1395l(i) of this title” appear in two places.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
+

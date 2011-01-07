@@ -6,9 +6,9 @@ The tax imposed by this chapter shall be paid by the executor.
 
 #### Amendments
 
-1989—Pub. L. 101–239 substituted “The” for “Except as provided in section 2210, the”.
+<b>1989</b>—Pub. L. 101–239 substituted “The” for “Except as provided in section 2210, the”.
 
-1984—Pub. L. 98–369 inserted exception phrase.
+<b>1984</b>—Pub. L. 98–369 inserted exception phrase.
 
 #### Effective Date of 1989 Amendment
 

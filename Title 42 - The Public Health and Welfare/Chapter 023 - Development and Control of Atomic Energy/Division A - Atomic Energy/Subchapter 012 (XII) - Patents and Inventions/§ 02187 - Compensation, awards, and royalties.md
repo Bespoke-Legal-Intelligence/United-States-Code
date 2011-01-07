@@ -2,7 +2,7 @@
 
 #### (a) Patent Compensation Board
 
-The Commission shall designate a Patent Compensation Board to consider applicationsunder this section. The members of the Board shall receive a per diem compensation for each day spent in meetings or conferences, and all members shall receive their necessary traveling or other expenses while engaged in the work of the Board. The members of the Board may serve as such without regard to the provisions of sections 281, 283, or 284 <sup>1</sup> of title 18, except in so far as such sections may prohibit any such member from receiving compensation in respect of any particular matter which directly involves the Commission or in which the Commission is directly interested.
+The Commission shall designate a Patent Compensation Board to consider applications under this section. The members of the Board shall receive a per diem compensation for each day spent in meetings or conferences, and all members shall receive their necessary traveling or other expenses while engaged in the work of the Board. The members of the Board may serve as such without regard to the provisions of sections 281, 283, or 284 <sup>1</sup> of title 18, except in so far as such sections may prohibit any such member from receiving compensation in respect of any particular matter which directly involves theCommission or in which the Commission is directly interested.
 
 #### (b) Eligibility
 
@@ -34,9 +34,9 @@ Provisions similar to this section were contained in section 1811(e)(1) to (3) o
 
 #### Amendments
 
-1974—Subsec. (b)(3). Pub. L. 93–276 substituted “after consultation with the General Advisory Committee” for “upon the recommendation of the General Advisory Committee”.
+<b>1974</b>—Subsec. (b)(3). Pub. L. 93–276 substituted “after consultation with the General Advisory Committee” for “upon the recommendation of the General Advisory Committee”.
 
-1961—Subsec. (d). Pub. L. 87–206 added subsec. (d).
+<b>1961</b>—Subsec. (d). Pub. L. 87–206 added subsec. (d).
 
 #### Transfer of Functions
 

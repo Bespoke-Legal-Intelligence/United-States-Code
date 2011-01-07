@@ -10,9 +10,9 @@
 
 #### Amendments
 
-2004—Subsec. (a)(2). Pub. L. 108–422 substituted “Department of Veterans Affairs Capital Asset Fund established under section 8118 of this title” for “nursing home revolving fund”.
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–422 substituted “Department of Veterans Affairs Capital Asset Fund established under section 8118 of this title” for “nursing home revolving fund”.
 
-2003—Subsec. (a)(1). Pub. L. 108–7 substituted “Department of Veterans Affairs Medical Care Collections Fund established under section 1729A of this title” for “Department of Veterans Affairs Health Services Improvement Fund established under section 1729B of this title”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–7 substituted “Department of Veterans Affairs Medical Care Collections Fund established under section 1729A of this title” for “Department of Veterans Affairs Health Services Improvement Fund established under section 1729B of this title”.
 
 Subsec. (a)(2). Pub. L. 108–170, §202(c)(1), struck out “and remaining after any deduction from such funds under the laws referred to in subsection (c)” after “title”.
 
@@ -22,9 +22,9 @@ Subsec. (c). Pub. L. 108–178 struck out comma after “of title 40”.
 
 Pub. L. 108–170, §202(c)(3), struck out subsec. (c) which read as follows: “Subsection (a) does not affect the applicability of subchapter IV of chapter 5 of title 40 with respect to reimbursement of the Administrator of General Services for expenses arising from any disposal of property under section 8164 of this title.”
 
-2002—Subsec. (c). Pub. L. 107–217 substituted “subchapter IV of chapter 5 of title 40” for “section 204 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 485) or the Act of June 8, 1896 (40 U.S.C. 485a)”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–217 substituted “subchapter IV of chapter 5 of title 40” for “section 204 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 485) or the Act of June 8, 1896 (40 U.S.C. 485a)”.
 
-1999—Subsec. (a)(1). Pub. L. 106–117 added par. (1) and struck out former par. (1) which read as follows: “Of the funds received by the Department under an enhanced-use lease and remaining after any deduction from such funds under subsection (b), 75 percent shall be deposited in the nursing home revolving fund established under section 8116 of this title and 25 percent shall be credited to the Medical Care Account of the Department for the use of the Department facility at which the property is located.”
+<b>1999</b>—Subsec. (a)(1). Pub. L. 106–117 added par. (1) and struck out former par. (1) which read as follows: “Of the funds received by the Department under an enhanced-use lease and remaining after any deduction from such funds under subsection (b), 75 percent shall be deposited in the nursing home revolving fund established under section 8116 of this title and 25 percent shall be credited to the Medical Care Account of the Department for the use of the Department facility at which the property is located.”
 
 #### Effective Date of 2003 Amendment
 

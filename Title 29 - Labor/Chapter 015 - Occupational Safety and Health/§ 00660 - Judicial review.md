@@ -20,7 +20,7 @@ The Secretary may also obtain review or enforcement of any final order of the Co
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–620 struck out provision requiring expeditious hearing of petitions filed under this subsection.
+<b>1984</b>—Subsec. (a). Pub. L. 98–620 struck out provision requiring expeditious hearing of petitions filed under this subsection.
 
 #### Effective Date of 1984 Amendment
 

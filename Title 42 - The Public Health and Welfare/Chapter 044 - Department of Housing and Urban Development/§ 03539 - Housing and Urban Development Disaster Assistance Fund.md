@@ -16,7 +16,7 @@ Section was formerly classified to section 4413a of this title.
 
 #### Amendments
 
-1988—Pub. L. 100–707 substituted “Disaster Relief and Emergency Assistance Act” for “Disaster Relief Act of 1970 (84 Stat. 1744)”.
+<b>1988</b>—Pub. L. 100–707 substituted “Disaster Relief and Emergency Assistance Act” for “Disaster Relief Act of 1970 (84 Stat. 1744)”.
 
 #### Transfer of Functions
 
@@ -28,9 +28,9 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 Previously, functions of Director of Office of Emergency Preparedness under Disaster Relief Act of 1970, transferred to President by Reorg. Plan No. 1 of 1973, had been transferred to Secretary of Housing and Urban Development by Ex. Ord. No. 11749, Dec. 10, 1973, 38 F.R. 34177, which superseded Ex. Ord. No. 11725, June 27, 1973, 38 F.R. 17175, which had provided for a similar transfer to Secretary of Housing and Urban Development. Both of these Executive Orders were subsequently revoked, see Delegation of Functions note below.
 
-Office of Emergency Preparedness \[formerly Office of Emergency Planning\], including offices of Director, Deputy Director, Assistant Directors, and Regional Directors, abolished and functions vested by law in Office of Emergency Preparedness or Director of Office of Emergency Preparedness transferred to President of United States by sections 1 and 3(a)(1) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, set out in the Appendix to Title 5, Government Organization and Employees.
+Office of Emergency Preparedness \[formerly Office of Emergency Planning\], including offices of Director, Deputy Director, Assistant Directors, and Regional Directors, abolished and functions vested by law in Office of Emergency Preparedness or Director of Office of Emergency Preparedness transferred to President ofUnited States by sections 1 and 3(a)(1) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Delegation of Functions
 
-Functions of President under Disaster Relief Act of 1970 delegated to Secretary of Homeland Security by section 4–201 of Ex. Ord. No. 12148, July 20, 1979, 44 F.R.43239, as amended, set out as a note under section 5195 of this title. Sections 5–112 and 5–113 of Ex. Ord. No. 12148, revoked Ex. Ord. Nos. 11725 and 11749, respectively, which had previously transferred President's functions under Disaster Relief Act of 1970 to Secretary of Housing and Urban Development. See Transfer of Functions note above.
+Functions of President under Disaster Relief Act of 1970 delegated to Secretary of Homeland Security by section 4–201 of Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, as amended, set out as a note under section 5195 of this title. Sections 5–112 and 5–113 of Ex. Ord. No. 12148, revoked Ex. Ord. Nos. 11725 and 11749, respectively, which had previously transferred President's functions under Disaster Relief Act of 1970 to Secretary of Housing and Urban Development. See Transfer of Functions note above.
 

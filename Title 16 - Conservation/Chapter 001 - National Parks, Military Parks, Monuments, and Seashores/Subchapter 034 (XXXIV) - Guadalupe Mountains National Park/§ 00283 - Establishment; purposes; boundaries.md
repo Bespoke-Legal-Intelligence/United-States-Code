@@ -10,5 +10,5 @@ Notwithstanding the foregoing, however, the Secretary shall omit from the park s
 
 #### Amendments
 
-1988—Pub. L. 100–541 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1988</b>—Pub. L. 100–541 designated existing provisions as subsec. (a) and added subsec. (b).
 

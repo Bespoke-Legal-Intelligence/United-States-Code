@@ -42,25 +42,25 @@
 
 #### References in Text
 
-This Act, referred to in subsec. (d), probably means Pub. L. 96–517, Dec. 12, 1980, 94 Stat. 3015, which enacted sections 200 to 211 and 301 to 307 of this title, amended sections 41, 42, and 154 of this title, section 1113 of Title 15, Commerce and Trade, sections 101 and 117 of Title 17, Copyrights, and sections 2186, 2457, and 5908 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under sections 13 and 41 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (d), probably means Pub. L. 96–517, Dec. 12, 1980, 94 Stat. 3015, which enacted sections 200 to 211 and 301 to 307 of this title, amended sections 41, 42, and 154 of this title, section 1113 of Title 15, Commerce and Trade, sections 101 and 117 of Title 17, Copyrights, and sections 2186 and 5908 and former section 2457 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under sections 13 and 41 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-2009—Subsec. (b)(3), (4). Pub. L. 111–8 redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “At least once every 5 years, the Comptroller General shall transmit a report to the Committees on the Judiciary of the Senate and House of Representatives on the manner in which this chapter is being implemented by the agencies and on such other aspects of Government patent policies and practices with respect to federally funded inventions as the Comptroller General believes appropriate.”
+<b>2009</b>—Subsec. (b)(3), (4). Pub. L. 111–8 redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “At least once every 5 years, the Comptroller General shall transmit a report to the Committees on the Judiciary of the Senate and House of Representatives on the manner in which this chapter is being implemented by the agencies and on such other aspects of Government patent policies and practices with respect to federally funded inventions as the Comptroller General believes appropriate.”
 
-2002—Subsec. (b)(4). Pub. L. 107–273, §13206(a)(13)(A), substituted “section 203(b)” for “last paragraph of section 203(2)”.
+<b>2002</b>—Subsec. (b)(4). Pub. L. 107–273, §13206(a)(13)(A), substituted “section 203(b)” for “last paragraph of section 203(2)”.
 
 Subsec. (c)(4). Pub. L. 107–273, §13206(a)(13)(B)(i), substituted “additional rights,” for “additional rights;”.
 
 Subsec. (c)(5). Pub. L. 107–273, §13206(a)(13)(B)(ii), struck out “of the United States Code” after “section 552 of title 5”.
 
-2000—Subsec. (e). Pub. L. 106–404 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “In any case when a Federal employee is a coinventor of any invention made under a funding agreement with a nonprofit organization or small business firm, the Federal agency employing such coinventor is authorized to transfer or assign whatever rights it may acquire in the subject invention from its employee to the contractor subject to the conditions set forth in this chapter.”
+<b>2000</b>—Subsec. (e). Pub. L. 106–404 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “In any case when a Federal employee is a coinventor of any invention made under a funding agreement with a nonprofit organization or small business firm, the Federal agency employing such coinventor is authorized to transfer or assign whatever rights it may acquire in the subject invention from its employee to the contractor subject to the conditions set forth in this chapter.”
 
-1999—Subsec. (a). Pub. L. 106–113, in first sentence, substituted “(iv)” for “iv)” and struck out a second period at end.
+<b>1999</b>—Subsec. (a). Pub. L. 106–113, in first sentence, substituted “(iv)” for “iv)” and struck out a second period at end.
 
-1991—Subsec. (b)(3). Pub. L. 102–204 substituted “every 5 years” for “each year”.
+<b>1991</b>—Subsec. (b)(3). Pub. L. 102–204 substituted “every 5 years” for “each year”.
 
-1984—Subsec. (a). Pub. L. 98–620, §501(3), substituted “when the contractor is not located in the United States or does not have a place of business located in the United States or is subject to the control of a foreign government” for “when the funding agreement is for the operation of a Government-owned research or production facility”, struck out “or” before “(ii)”, which was executed by striking out “or” before “(iii)” as the probable intent of Congress, and added cl. (iv).
+<b>1984</b>—Subsec. (a). Pub. L. 98–620, §501(3), substituted “when the contractor is not located in the United States or does not have a place of business located in the United States or is subject to the control of a foreign government” for “when the funding agreement is for the operation of a Government-owned research or production facility”, struck out “or” before “(ii)”, which was executed by striking out “or” before “(iii)” as the probable intent of Congress, and added cl. (iv).
 
 Subsec. (b)(1). Pub. L. 98–620, §501(4), gave to the Department of Commerce oversight of agency use of the exceptions to small business or nonprofit organization invention ownership.
 

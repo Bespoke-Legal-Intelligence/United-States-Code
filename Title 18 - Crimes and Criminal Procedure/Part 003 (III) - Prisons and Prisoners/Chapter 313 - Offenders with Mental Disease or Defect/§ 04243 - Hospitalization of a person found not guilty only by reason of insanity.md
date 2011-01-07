@@ -102,11 +102,11 @@ Changes were made in translations and phraseology, and unnecessary words omitted
 
 #### Amendments
 
-1996—Subsec. (i). Pub. L. 104–294 added subsec. (i).
+<b>1996</b>—Subsec. (i). Pub. L. 104–294 added subsec. (i).
 
-1988—Subsec. (h). Pub. L. 100–690 added subsec. (h).
+<b>1988</b>—Subsec. (h). Pub. L. 100–690 added subsec. (h).
 
-1984—Pub. L. 98–473 amended section generally, substituting “Hospitalization of a person found not guilty only by reason of insanity” for “Delivery to state authorities on expiration of sentence” in section catchline, and substituting provisions relating to determination of present mental condition of acquitted person, examination and report, hearing, etc., for provisions relating to duties of the superintendent of the United States hospital for defective delinquents regarding delivery to state authorities on expiration of sentence of any insane person.
+<b>1984</b>—Pub. L. 98–473 amended section generally, substituting “Hospitalization of a person found not guilty only by reason of insanity” for “Delivery to state authorities on expiration of sentence” in section catchline, and substituting provisions relating to determination of present mental condition of acquitted person, examination and report, hearing, etc., for provisions relating to duties of the superintendent of the United States hospital for defective delinquents regarding delivery to state authorities on expiration of sentence of any insane person.
 
 #### Severability
 

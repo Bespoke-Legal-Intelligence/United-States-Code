@@ -42,7 +42,7 @@ Upon receipt of voluntary voting system guidelines described in subsection (b) o
 
 #### (e) Special rule for initial set of guidelines
 
-Notwithstanding any other provision of this subpart, the most recent set of voting system standards adopted by the Federal Election Commission prior to October 29, 2002, shall be deemed to have been adopted by the Commissionas of October 29, 2002, as the first set of voluntary voting system guidelines adopted under this subpart.
+Notwithstanding any other provision of this subpart, the most recent set of voting system standards adopted by the Federal Election Commission prior to October 29, 2002, shall be deemed to have been adopted by the Commission as of October 29, 2002, as the first set of voluntary voting system guidelines adopted under this subpart.
 
 (Pub. L. 107–252, title II, §222, Oct. 29, 2002, 116 Stat. 1683.)
 

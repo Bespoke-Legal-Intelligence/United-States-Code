@@ -8,7 +8,7 @@
 
 #### (2) Urban or rural poverty areas
 
-&emsp;In the case of projects whose activities or products target individuals with developmental disabilities who live in urban or rural poverty areas, as determined by the Secretary, the Federal share of the cost of all such projects may not be more than 90 percent of the aggregate necessary cost of such projects, as determined by the Secretary.
+&emsp;In the case of projects whose activities or products target individuals with developmental disabilities who live in urban or rural poverty areas, as determined by the Secretary, the Federal share of the cost of all such projects may not be more than 90 percent ofthe aggregate necessary cost of such projects, as determined by the Secretary.
 
 #### (3) State plan activities
 

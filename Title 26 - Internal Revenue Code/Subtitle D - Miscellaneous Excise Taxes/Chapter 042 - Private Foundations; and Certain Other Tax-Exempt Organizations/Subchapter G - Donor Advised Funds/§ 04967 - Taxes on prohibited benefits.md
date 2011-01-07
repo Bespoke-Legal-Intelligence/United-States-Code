@@ -20,7 +20,7 @@ For purposes of subsection (a)—
 
 #### (1) Joint and several liability
 
-&emsp;If more than one person is liable under paragraph (1) or (2) of subsection (a) with respect to a distribution described in subsection (a), all such persons shall be jointly and severally liable under such paragraph with respect to such distribution.
+&emsp;If more than one person is liable under paragraph (1) or (2) of subsection (a) with respectto a distribution described in subsection (a), all such persons shall be jointly and severally liable under such paragraph with respect to such distribution.
 
 #### (2) Limit for management
 

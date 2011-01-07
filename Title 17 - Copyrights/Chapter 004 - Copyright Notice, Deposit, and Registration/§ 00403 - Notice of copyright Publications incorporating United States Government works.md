@@ -6,7 +6,7 @@ Sections 401(d) and 402(d) shall not apply to a work published in copies or phon
 
 #### Historical and Revision Notes
 
-I74house report no. 94–1476
+#### house report no. 94–1476
 
 Section 403 is aimed at a publishing practice that, while technically justified under the present law, has been the object of considerable criticism. In cases where a Government work is published or republished commercially, it has frequently been the practice to add some “new matter” in the form of an introduction, editing, illustrations, etc., and to include a general copyright notice in the name of the commercial publisher. This in no way suggests to the public that the bulk of the work is uncopyrightable and therefore free for use.
 
@@ -14,9 +14,9 @@ To make the notice meaningful rather than misleading, section 403 requires that,
 
 #### Amendments
 
-1988—Pub. L. 100–568 amended section generally. Prior to amendment, section read as follows: “Whenever a work is published in copies or phonorecords consisting preponderantly of one or more works of the United States Government, the notice of copyright provided by sections 401 or 402 shall also include a statement identifying, either affirmatively or negatively, those portions of the copies or phonorecords embodying any work or works protected under this title.”
+<b>1988</b>—Pub. L. 100–568 amended section generally. Prior to amendment, section read as follows: “Whenever a work is published in copies or phonorecords consisting preponderantly of one or more works of the United States Government, the notice of copyright provided by sections 401 or 402 shall also include a statement identifying, either affirmatively or negatively, those portions of the copies or phonorecords embodying any work or works protected under this title.”
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action arising under this title beforesuch date being governed by provisions in effect when cause of action arose, see section 13 of Pub. L. 100–568, set out as a note under section 101 of this title.
+Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action arising under this title before such date being governed by provisions in effect when cause of action arose, see section 13 of Pub. L. 100–568, set out as a note under section 101 of this title.
 

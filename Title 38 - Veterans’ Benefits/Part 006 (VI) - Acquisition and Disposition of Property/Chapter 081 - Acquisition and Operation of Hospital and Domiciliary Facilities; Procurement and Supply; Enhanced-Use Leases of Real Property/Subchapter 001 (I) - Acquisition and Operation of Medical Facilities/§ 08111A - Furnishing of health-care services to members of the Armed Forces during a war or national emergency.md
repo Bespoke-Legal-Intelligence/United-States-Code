@@ -8,13 +8,13 @@
 
 &emsp;(i) A major disaster or emergency declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
 
-&emsp;(ii) A disaster or emergency in which the National Disaster Medical System established pursuant to section 2811(b) of the Public Health Service Act (42 U.S.C. 300hh–11(b)) <sup>1</sup> is activated by the Secretary of Health and Human Services under paragraph (3)(A) of that section or as otherwise authorized by law.
+&emsp;(ii) A disaster or emergency in which the National Disaster Medical System established pursuant to section 2812 of the Public Health Service Act (42 U.S.C. 300hh) <sup>1</sup> is activated by the Secretary of Health and Human Services under that section or as otherwise authorized by law.
 
 (3) The Secretary may give a higher priority to the furnishing of care and services under this section than to the furnishing of care and services to any other group of persons eligible for care and services in medical facilities of the Department with the exception of veterans with service-connected disabilities.
 
 (4) For the purposes of this section, the terms “hospital care”, “nursing home care”, and “medical services” have the meanings given such terms by sections 1701(5), 101(28), and 1701(6) of this title, respectively, and the term “medical services” includes services under sections 1782 and 1783 of this title.
 
-(b)(1) During a period in which the Secretary is authorized to furnish care and services to members of the Armed Forces under subsection (a) of this section, the Secretary, to the extent authorized by the President and subject to the availability of appropriations or reimbursements under subsection (c) of this section, may enter into contracts with private facilities for the provision during such period by such facilities of hospital care and medical services described in paragraph (2) of this subsection.
+(b)(1) During a period in which the Secretary is authorized to furnish care and services to members of the Armed Forces under subsection (a) of this section, the Secretary, to the extent authorized by the President and subject to theavailability of appropriations or reimbursements under subsection (c) of this section, may enter into contracts with private facilities for the provision during such period by such facilities of hospital care and medical services described in paragraph (2) of this subsection.
 
 (2) Hospital care and medical services referred to in paragraph (1) of this subsection are—
 
@@ -36,35 +36,37 @@
 
 (2) Whenever a modification to such plans is agreed to, the Secretaries shall jointly submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on such modification. Any such report shall be submitted within 30 days after the modification is agreed to.
 
-(e) The Secretary shall prescribe regulations to govern any exercise of the authority of theSecretary under subsections (a) and (b) of this section and of the Under Secretary for Health under subsection (b)(2)(A) of this section.
+(e) The Secretary shall prescribe regulations to govern any exercise of the authority of the Secretary under subsections (a) and (b) of this section and of the Under Secretary for Health under subsection (b)(2)(A) of this section.
 
-(Added Pub. L. 97–174, §4(a), May 4, 1982, 96 Stat. 74, §5011A; renumbered §8111A, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–54, §14(f)(4), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(e)(5), Oct. 9, 1996, 110 Stat. 3181; Pub. L. 106–419, title IV, §403(b), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–135, title II, §208(e)(7), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–287, §4(b), Nov. 7, 2002, 116 Stat. 2029; Pub. L. 109–444, §8(a)(8), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(8), 1006(b), Dec. 22, 2006, 120 Stat. 3466, 3468.)
+(Added Pub. L. 97–174, §4(a), May 4, 1982, 96 Stat. 74, §5011A; renumbered §8111A, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–54, §14(f)(4), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(e)(5), Oct. 9, 1996, 110 Stat. 3181; Pub. L. 106–419, title IV, §403(b), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–135, title II, §208(e)(7), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–287, §4(b), Nov. 7, 2002, 116 Stat. 2029; Pub. L. 109–444, §8(a)(8), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(8), 1006(b), Dec. 22, 2006, 120 Stat. 3466, 3468; Pub. L. 111–275, title X, §1001(p)(1), Oct. 13, 2010, 124 Stat. 2897.)
 
 #### References in Text
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(2)(B)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
-Section 2811(b) of the Public Health Service Act, referred to in subsec. (a)(2)(B)(ii), was redesignated section 2812(a) of the Public Health Service Act by Pub. L. 109–417, title I, §102(a)(2), title III, §301(a)(3), Dec. 19, 2006, 120 Stat. 2832, 2853, and is classified to section 300hh–11(a) of Title 42, The Public Health and Welfare.
+Section 2812 of the Public Health Service Act, referred to in subsec. (a)(2)(B)(ii), is classified to section 300hh–11 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
-2006—Subsec. (a)(2)(B)(i). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+<b>2010</b>—Subsec. (a)(2)(B)(ii). Pub. L. 111–275 substituted “section 2812 of the Public Health Service Act (42 U.S.C. 300hh)” for “section 2811(b) of the Public Health Service Act (42 U.S.C. 300hh–11(b))” and struck out “paragraph (3)(A) of” before “that section”.
+
+<b>2006</b>—Subsec. (a)(2)(B)(i). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Pub. L. 109–461, §1004(a)(8), substituted “Robert T.” for “Robert B.”.
 
 Pub. L. 109–444, which substituted “Robert T.” for “Robert B.”, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
-2002—Subsec. (a). Pub. L. 107–287 redesignated second sentence of par. (1) as par. (3), added par. (2), and redesignated former par. (2) as (4).
+<b>2002</b>—Subsec. (a). Pub. L. 107–287 redesignated second sentence of par. (1) as par. (3), added par. (2), and redesignated former par. (2) as (4).
 
 Subsec. (a)(2). Pub. L. 107–135 inserted “, and the term ‘medical services’ includes services under sections 1782 and 1783 of this title” before period at end.
 
-2000—Subsec. (f). Pub. L. 106–419 struck out subsec. (f) which read as follows: “Within thirty days after a declaration of a period of war or national emergency described in subsection (a) of this section (or as soon after the end of such thirty-day period as is reasonably practicable), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Secretary's allocation of facilities and personnel in order to provide priority hospital care, nursing home care, and medical services under this section to members of the Armed Forces. Thereafter, with respect to any fiscal year in which the authority in subsection (b) of this section to enter into contracts with private facilities has been used, the Secretary shall report within ninety days after the end of such fiscal year to those committees regarding the extent of, and the circumstances under which, such authority was used.”
+<b>2000</b>—Subsec. (f). Pub. L. 106–419 struck out subsec. (f) which read as follows: “Within thirty days after a declaration of a period of war or national emergency described in subsection (a) of this section (or as soon after the end of such thirty-day period as is reasonably practicable), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Secretary's allocation of facilities and personnel in order to provide priority hospital care, nursing home care, and medical services under this section to members of the Armed Forces. Thereafter, with respect to any fiscal year in which the authority in subsection (b) of this section to enter into contracts with private facilities has been used, the Secretary shall report within ninety days after the end of such fiscal year to those committees regarding the extent of, and the circumstances under which, such authority was used.”
 
-1996—Subsec. (b)(2)(A). Pub. L. 104–262 substituted “subsection (a) of section 1710” for “subsection (f) of section 1712”.
+<b>1996</b>—Subsec. (b)(2)(A). Pub. L. 104–262 substituted “subsection (a) of section 1710” for “subsection (f) of section 1712”.
 
-1992—Subsecs. (b)(2)(A), (e). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
+<b>1992</b>—Subsecs. (b)(2)(A), (e). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-1991—Pub. L. 102–40 renumbered section 5011A of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5011A of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “1701(5)” for “601(5)” and “1701(6)” for “601(6)” in par. (2).
 
@@ -102,7 +104,7 @@ For transfer of functions, personnel, assets, and liabilities of the National Di
 
 Section 2(b) of Pub. L. 97–174 provided that: “The Congress makes the following further findings:
 
-&emsp;“(1) During and immediately after a period of war or national emergency involving the use of the Armed Forces of the United States in armed conflict, the Department of Defense might not have adequatehealth-care resources to care for military personnel wounded in combat and other active-duty military personnel.
+&emsp;“(1) During and immediately after a period of war or national emergency involving the use of the Armed Forces of the United States in armed conflict, the Department of Defense might not have adequate health-care resources to care for military personnel wounded in combat and other active-duty military personnel.
 
 &emsp;“(2) The Veterans’ Administration has an extensive, comprehensive health-care system that could be used to assist the Department of Defense in caring for such personnel in such a situation.”
 

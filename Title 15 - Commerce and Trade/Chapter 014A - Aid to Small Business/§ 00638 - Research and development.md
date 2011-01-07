@@ -76,7 +76,7 @@ For the purpose of this section—
 
 &emsp;&emsp;&emsp;(i) in which commercial applications of SBIR-funded research or research and development are funded by non-Federal sources of capital or, for products or services intended for use by the Federal Government, by follow-on non-SBIR Federal funding awards; or
 
-&emsp;&emsp;&emsp;(ii) for which awards from non-SBIR Federal funding sources are used for the continuation of research or research anddevelopment that has been competitively selected using peer review or scientific review criteria;
+&emsp;&emsp;&emsp;(ii) for which awards from non-SBIR Federal funding sources are used for the continuation of research or research and development that has been competitively selected using peer review or scientific review criteria;
 
 &emsp;(5) the term “research” or “research and development” means any activity which is (A) a systematic, intensive study directed toward greater knowledge or understanding of the subject studied; (B) a systematic study directed specifically toward applying new knowledge to meet a recognized need; or (C) a systematic application of knowledge toward the production of useful materials, devices, and systems or methods, including design, development, and improvement of prototypes and new processes to meet specific requirements;
 
@@ -94,7 +94,7 @@ For the purpose of this section—
 
 &emsp;(7) the term “cooperative research and development” means research or research and development conducted jointly by a small business concern and a research institution in which not less than 40 percent of the work is performed by the small business concern, and not less than 30 percent of the work is performed by the research institution;
 
-&emsp;(8) the term “research institution” means a nonprofit institution, as defined in section 3703(5) <sup>2</sup> of this title, and includes federally funded research and development centers, as identified by the National Scientific Foundation in accordance with the governmentwide Federal Acquisition Regulation issued in accordance with section 421(c)(1) <sup>2</sup> of title 41 (or any successor regulation thereto); and
+&emsp;(8) the term “research institution” means a nonprofit institution, as defined in section 3703(5) <sup>2</sup> of this title, and includes federally funded research and development centers, as identified by the National Scientific Foundation in accordance with the governmentwide Federal Acquisition Regulation issued in accordance with section 1303(a)(1) of title 41 (or any successor regulation thereto); and
 
 &emsp;(9) the term “commercial applications” shall not be construed to exclude testing and evaluation of products, services, or technologies for use in technical or weapons systems, and further, awards for testing and evaluation of products, services, or technologies for use in technical or weapons systems may be made in either the second or the third phase of the Small Business Innovation Research Program and of the Small Business Technology Transfer Program, as defined in this subsection.
 
@@ -134,7 +134,7 @@ Each Federal agency required by subsection (f) of this section to establish a sm
 
 &emsp;(3) unilaterally determine research topics within the agency's SBIR solicitations, giving special consideration to broad research topics and to topics that further 1 or more critical technologies, as identified by—
 
-&emsp;&emsp;(A) the National Critical Technologies Panel (or its successor) in the 1991 report required under section 6683 <sup>2</sup> of title 42, and insubsequent reports issued under that authority; or
+&emsp;&emsp;(A) the National Critical Technologies Panel (or its successor) in the 1991 report required under section 6683 <sup>2</sup> of title 42, and in subsequent reports issued under that authority; or
 
 &emsp;&emsp;(B) the Secretary of Defense, in the 1992 report issued in accordance with section 2522 <sup>2</sup> of title 10, and in subsequent reports issued under that authority;
 
@@ -338,7 +338,7 @@ In addition to the requirements of subsection (f) of this section, each Federal 
 
 #### (2) Exception for Department of Defense
 
-&emsp;The Secretary of Defense and the Secretary of each military department is authorized to carry out the Small Business Innovation Research Program of the Department of Defense until September 30, 2010 <sup>4</sup>
+&emsp;The Secretary of Defense and the Secretary of each military department are authorized to carry out the Small Business Innovation Research Program of the Department of Defense until September 30, 2010 <sup>4</sup>
 
 #### (n) Required expenditures for STTR by Federal agencies
 
@@ -366,7 +366,7 @@ In addition to the requirements of subsection (f) of this section, each Federal 
 
 &emsp;A Federal agency shall not—
 
-&emsp;&emsp;(A) use any of its STTR budget established pursuant to paragraph (1) for the purpose of funding administrative costs of the program, including costs associated with salaries and expenses, or, in the case of a small business concern or a research institution, costs associated with salaries, expenses, and administrative overhead (other than those direct or indirect costs allowable under guidelines of the Office of Management and Budget and the governmentwide Federal Acquisition Regulation issued in accordance with section 421(c)(1) of title 41); or
+&emsp;&emsp;(A) use any of its STTR budget established pursuant to paragraph (1) for the purpose of funding administrative costs of the program, including costs associated with salaries and expenses, or, in the case of a small business concern or a research institution, costs associated with salaries, expenses, and administrative overhead (other than those direct or indirect costs allowable under guidelines of the Office of Management and Budget and the governmentwide Federal Acquisition Regulation issued in accordance with section 1303(a)(1) of title 41); or
 
 &emsp;&emsp;(B) make available for the purpose of meeting the requirements of paragraph (1) an amount of its extramural budget for basic research which exceeds the percentage specified in paragraph (1).
 
@@ -402,7 +402,7 @@ Each Federal agency required to establish an STTR program in accordance with sub
 
 &emsp;(10) submit an annual report on the STTR program to the Administration and the Office of Science and Technology Policy;
 
-&emsp;(11) adopt the agreement developed by the Administrator under subsection (w) of this section as the agency's model agreement for allocating between small business concerns and research institutions intellectual property rights and rights, if any, to carry out follow-on research, development, or commercialization;
+&emsp;(11) adopt the agreement developed by the Administrator under subsection (w) of this section as the agency's model agreement forallocating between small business concerns and research institutions intellectual property rights and rights, if any, to carry out follow-on research, development, or commercialization;
 
 &emsp;(12) develop, in consultation with the Office of Federal Procurement Policy and the Office of Government Ethics, procedures to ensure that federally funded research and development centers (as defined in subsection (e)(8) of this section) that participate in STTR agreements—
 
@@ -480,7 +480,7 @@ Each Federal agency required to establish an STTR program in accordance with sub
 
 #### (3) Modifications
 
-&emsp;Not later than 120 days after October 15, 2001, the Administrator shall modify the policy directive issued pursuant to this subsection to clarify that the rights provided for under paragraph (2)(B)(v) apply to all Federal funding awards under this section, including the first phase (as described in subsection (e)(6)(A) of this section), the second phase (as described in subsection (e)(6)(B) of this section), and the third phase (as described in subsection (e)(6)(C) of this section).
+&emsp;Not later than 120 days after October 15, 2001, the Administrator shall modify the policy directive issued pursuant to this subsection to clarify that the rights provided for under paragraph (2)(B)(v) apply to all Federal funding awards under this section, including the firstphase (as described in subsection (e)(6)(A) of this section), the second phase (as described in subsection (e)(6)(B) of this section), and the third phase (as described in subsection (e)(6)(C) of this section).
 
 #### (q) Discretionary technical assistance
 
@@ -696,7 +696,7 @@ The Administrator shall work with the Federal agencies required by this section 
 
 &emsp;&emsp;&emsp;(ii) hydrogen derived from biomass or water using an energy source described in clause (i).
 
-(Pub. L. 85–536, §2\[9\], July 18, 1958, 72 Stat. 391; Pub. L. 97–219, §§3–5, July 22, 1982, 96 Stat. 217, 218, 221; Pub. L. 99–443, §§1, 2, Oct. 6, 1986, 100 Stat. 1120; Pub. L. 100–590, title I, §108, Nov. 3, 1988, 102 Stat. 2994; Pub. L. 102–484, div. D, title XLII, §4237(d), Oct. 23, 1992, 106 Stat. 2692; Pub. L. 102–564, title I, §§103, 104, title II, §202(a)–(c), title III, §§301(a), 305, Oct. 28, 1992, 106 Stat. 4250, 4254, 4256, 4257, 4261, 4262; Pub. L. 103–403, title VI, §607, Oct. 22, 1994, 108 Stat. 4204; Pub. L. 104–208, div. D, title I, §110, Sept. 30, 1996, 110 Stat. 3009–733; Pub. L. 105–135, title V, §501, Dec. 2, 1997, 111 Stat. 2620; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(5)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 106–554, §1(a)(9) \[title I, §§103–107, 109, 110, 111(c), 113, 114(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–669, 2763A–673, 2763A–679, 2763A–681; Pub. L. 107–50, §§2, 3(a), 4–7, Oct. 15, 2001, 115 Stat. 263–265; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–163, div. A, title II, §252, Jan. 6, 2006, 119 Stat. 3177; Pub. L. 110–140, title XII, §1203(e), Dec. 19, 2007, 121 Stat. 1771; Pub. L. 111–84, div. A, title VIII, §§847(a), (b), 848, Oct. 28, 2009, 123 Stat. 2420, 2421.)
+(Pub. L. 85–536, §2\[9\], July 18, 1958, 72 Stat. 391; Pub. L. 97–219, §§3–5, July 22, 1982, 96 Stat. 217, 218, 221; Pub. L. 99–443, §§1, 2, Oct. 6, 1986, 100 Stat. 1120; Pub. L. 100–590, title I, §108, Nov. 3, 1988, 102 Stat. 2994; Pub. L. 102–484, div. D, title XLII, §4237(d), Oct. 23, 1992, 106 Stat. 2692; Pub. L. 102–564, title I, §§103, 104, title II, §202(a)–(c), title III, §§301(a), 305, Oct. 28, 1992, 106 Stat. 4250, 4254, 4256, 4257, 4261, 4262; Pub. L. 103–403, title VI, §607, Oct. 22, 1994, 108 Stat. 4204; Pub. L. 104–208, div. D, title I, §110, Sept. 30, 1996, 110 Stat. 3009–733; Pub. L. 105–135, title V, §501, Dec. 2, 1997, 111 Stat. 2620; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(5)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 106–554, §1(a)(9) \[title I, §§103–107, 109, 110, 111(c), 113, 114(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–669, 2763A–673, 2763A–679, 2763A–681; Pub. L. 107–50, §§2, 3(a), 4–7, Oct. 15, 2001, 115 Stat. 263–265; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–163, div. A, title II, §252, Jan. 6, 2006, 119 Stat. 3177; Pub. L. 110–140, title XII, §1203(e), Dec. 19, 2007, 121 Stat. 1771; Pub. L. 111–84, div. A, title VIII, §§847(a), (b), 848, Oct. 28, 2009, 123 Stat. 2420, 2421; Pub. L. 111–383, div. A, title X, §1075(<i>l</i>), Jan. 7, 2011, 124 Stat. 4378.)
 
 #### References in Text
 
@@ -708,8 +708,6 @@ Executive Order 12333, referred to in subsec. (e)(2), is set out as a note under
 
 Section 3703(5) of this title, referred to in subsec. (e)(8), was redesignated section 3703(3) by Pub. L. 110–69, title III, §3002(c)(3), Aug. 9, 2007, 121 Stat. 586.
 
-Section 421(c)(1) of title 41, referred to in subsec. (e)(8), was in the original “section 35(c)(1) of the Office of Federal Procurement Policy Act” which has been translated as meaning section 25(c)(1) of that Act to reflect the probable intent of Congress because that Act does not contain a section 35 and section 25(c) of that Act relates to issuance of the Federal Acquisition Regulation.
-
 Section 6683 of title 42, referred to in subsecs. (g)(3)(A), (j)(2)(E)(i), and (<i>o</i>)(3)(A), was omitted from the Code.
 
 Section 2522 of title 10, referred to in subsecs. (g)(3)(B), (j)(2)(E)(ii), and (<i>o</i>)(3)(B), which related to annual defense critical technology plan, was repealed, and section 2518 (relating to Defense Advanced Manufacturing Technology Partnerships) was redesignated as section 2522, by Pub. L. 102–484, div. D, title XLII, §§4202(a), 4232(a), Oct. 23, 1992, 106 Stat. 2659, 2687, and subsequently repealed.
@@ -718,19 +716,25 @@ Section 105 of the Small Business Research and Development Enhancement Act of 19
 
 #### Codification
 
+In subsec. (e)(8), “section 1303(a)(1) of title 41” substituted for “section 35(c)(1) of the Office of Federal Procurement Policy Act”, which probably should have been a reference to “section 25(c)(1) of the Office of Federal Procurement Policy Act” because that Actdoes not contain a section 35 and section 25(c) of that Act relates to issuance of the Federal Acquisition Regulation, on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (n)(2)(A), “section 1303(a)(1) of title 41” substituted for “section 25(c)(1) of the Office of Federal Procurement Policy Act” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 Section 209 of act July 30, 1953, ch. 282, title II, 67 Stat. 237, was previously classified to this section. See section 645 of this title and Codification note set out under section 631 of this title.
 
 #### Amendments
 
-2009—Subsec. (m). Pub. L. 111–84, §847(a), designated existing provisions as par. (1), inserted par. (1) heading, substituted “Except as provided in paragraph (2), the authorization” for “The authorization”, and added par. (2).
+<b>2011</b>—Subsec. (m)(2). Pub. L. 111–383 substituted “are authorized” for “is authorized”.
+
+<b>2009</b>—Subsec. (m). Pub. L. 111–84, §847(a), designated existing provisions as par. (1), inserted par. (1) heading, substituted “Except as provided in paragraph (2), the authorization” for “The authorization”, and added par. (2).
 
 Subsec. (n)(1)(A). Pub. L. 111–84, §847(b), designated existing provisions as cl. (i), inserted cl. (i) heading, substituted “Except as provided in clause (ii), with respect” for “With respect”, and added cl. (ii).
 
 Subsec. (y)(6). Pub. L. 111–84, §848, substituted “2010” for “2009”.
 
-2007—Subsec. (z). Pub. L. 110–140 added subsec. (z).
+<b>2007</b>—Subsec. (z). Pub. L. 110–140 added subsec. (z).
 
-2006—Subsec. (b)(8). Pub. L. 109–163, §252(b)(1), added par. (8).
+<b>2006</b>—Subsec. (b)(8). Pub. L. 109–163, §252(b)(1), added par. (8).
 
 Subsec. (e)(9). Pub. L. 109–163, §252(c), added par. (9).
 
@@ -740,9 +744,9 @@ Subsec. (<i>o</i>)(16). Pub. L. 109–163, §252(b)(3), added par. (16).
 
 Subsecs. (x), (y). Pub. L. 109–163, §252(a), added subsecs. (x) and (y).
 
-2004—Subsec. (j)(2)(I). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (j)(2)(I). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-2001—Subsec. (b)(4). Pub. L. 107–50, §2(b), struck out “pilot” before “programs;”.
+<b>2001</b>—Subsec. (b)(4). Pub. L. 107–50, §2(b), struck out “pilot” before “programs;”.
 
 Subsec. (b)(7). Pub. L. 107–50, §6(d), substituted “, (<i>o</i>)(9), and (<i>o</i>)(15) of this section, the number of proposals received from, and the number and total amount of awards to, HUBZone small business concerns under each of the SBIR and STTR programs,” for “and (<i>o</i>)(9) of this section,”.
 
@@ -772,7 +776,7 @@ Subsec. (v). Pub. L. 107–50, §6(c), inserted “or STTR” after “SBIR” i
 
 Subsec. (w). Pub. L. 107–50, §7(a), added subsec. (w).
 
-2000—Subsec. (b)(7). Pub. L. 106–554, §1(a)(9) \[title I, §107(b)\], inserted before period at end “, including the data on output and outcomes collected pursuant to subsections (g)(10) and (<i>o</i>)(9) of this section, and a description of the extent to which Federal agencies are providing in a timely manner information needed to maintain the database described in subsection (k) of this section”.
+<b>2000</b>—Subsec. (b)(7). Pub. L. 106–554, §1(a)(9) \[title I, §107(b)\], inserted before period at end “, including the data on output and outcomes collected pursuant to subsections (g)(10) and (<i>o</i>)(9) of this section, and a description of the extent to which Federal agencies are providing in a timely manner information needed to maintain the database described in subsection (k) of this section”.
 
 Pub. L. 106–554, §1(a)(9) \[title I, §104\], substituted “, and to the Committee on Science and the Committee on Small Business of the House of Representatives,” for “and the Committee on Small Business of the House of Representatives”.
 
@@ -796,9 +800,9 @@ Subsec. (u). Pub. L. 106–554, §1(a)(9) \[title I, §111(c)\], added subsec. (
 
 Subsec. (v). Pub. L. 106–554, §1(a)(9) \[title I, §113\], added subsec. (v).
 
-1999—Subsec. (p)(1)(B). Pub. L. 106–113 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the Commissioner of Patents and Trademarks; and”.
+<b>1999</b>—Subsec. (p)(1)(B). Pub. L. 106–113 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the Commissioner of Patents and Trademarks; and”.
 
-1997—Subsec. (e)(4)(A). Pub. L. 105–135, §501(b)(1)(B), substituted “subparagraph (B)” for “subparagraph (B)(ii)”.
+<b>1997</b>—Subsec. (e)(4)(A). Pub. L. 105–135, §501(b)(1)(B), substituted “subparagraph (B)” for “subparagraph (B)(ii)”.
 
 Subsec. (n)(1). Pub. L. 105–135, §501(a), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Each Federal agency which has an extramural budget for research or research and development in excess of $1,000,000,000 in fiscal year 1994, 1995, or 1996, is authorized to expend with small business concerns—
 
@@ -818,11 +822,11 @@ Pub. L. 105–135, §501(b)(1)(C), added subsec. (s).
 
 Subsec. (t). Pub. L. 105–135, §501(b)(1)(C), added subsec. (t).
 
-1996—Subsec. (n)(1)(C). Pub. L. 104–208 substituted “fiscal years 1996 and 1997” for “fiscal year 1996”.
+<b>1996</b>—Subsec. (n)(1)(C). Pub. L. 104–208 substituted “fiscal years 1996 and 1997” for “fiscal year 1996”.
 
-1994—Subsec. (q)(2). Pub. L. 103–403 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Annually, each agency may select a vendor for purposes of this subsection using competitive, merit-based criteria, to assist small business concerns to meet the goals listed in paragraph (1).”
+<b>1994</b>—Subsec. (q)(2). Pub. L. 103–403 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Annually, each agency may select a vendor for purposes of this subsection using competitive, merit-based criteria, to assist small business concerns to meet the goals listed in paragraph (1).”
 
-1992—Subsec. (b)(4). Pub. L. 102–564, §202(a)(1), inserted before semicolon at end “and small business technology transfer pilot programs”.
+<b>1992</b>—Subsec. (b)(4). Pub. L. 102–564, §202(a)(1), inserted before semicolon at end “and small business technology transfer pilot programs”.
 
 Subsec. (b)(5) to (7). Pub. L. 102–564, §202(a)(2), inserted “and STTR” after “SBIR” wherever appearing.
 
@@ -870,11 +874,11 @@ Subsec. (q). Pub. L. 102–564, §301(a), added subsec. (q).
 
 Subsec. (r). Pub. L. 102–564, §305, added subsec. (r).
 
-1988—Subsec. (j)(6), (7). Pub. L. 100–590 added pars. (6) and (7).
+<b>1988</b>—Subsec. (j)(6), (7). Pub. L. 100–590 added pars. (6) and (7).
 
-1986—Subsec. (e)(1). Pub. L. 99–443, §1, inserted provision that for the Department of Defense, the extramural budget shall not include amounts obligated solely for operational systems development.
+<b>1986</b>—Subsec. (e)(1). Pub. L. 99–443, §1, inserted provision that for the Department of Defense, the extramural budget shall not include amounts obligated solely for operational systems development.
 
-1982—Subsec. (b)(4) to (7). Pub. L. 97–219, §3, added pars. (4) to (7).
+<b>1982</b>—Subsec. (b)(4) to (7). Pub. L. 97–219, §3, added pars. (4) to (7).
 
 Subsecs. (e) to (k). Pub. L. 97–219, §4, added subsecs. (e) to (k).
 
@@ -886,7 +890,7 @@ Committee on Science of House of Representatives changed to Committee on Science
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–84, div. A, title VIII, §847(c), Oct. 28, 2009, 123 Stat. 2421, provided that: “The amendments made by this section \[amending this section\] shall take effect as of July 30, 2009.”
+Pub. L. 111–84, div. A, title VIII, §847(c), Oct. 28, 2009, 123 Stat. 2421, provided that: “The amendments madeby this section \[amending this section\] shall take effect as of July 30, 2009.”
 
 #### Effective Date of 2007 Amendment
 
@@ -960,9 +964,9 @@ Study and Recommendations.—The head of each agency with a budget of more than 
 
 &emsp;&emsp;“(A) measures of outcomes for strategic plans submitted under section 306 of title 5, United States Code, and performance plans submitted under section 1115 of title 31, United States Code, of each Federal agency participating in the SBIR program;
 
-&emsp;&emsp;“(B) whether companies who can demonstrate project feasibility, but who have not received a first phase award, should be eligible for second phaseawards, and the potential impact of such awards on the competitive selection process of the program;
+&emsp;&emsp;“(B) whether companies who can demonstrate project feasibility, but who have not received a first phase award, should be eligible for second phase awards, and the potential impact of such awards on the competitive selection process of the program;
 
-&emsp;&emsp;“(C) whether the Federal Government should be permitted to recoup some or all of its expenses if a controlling interest in a company receiving an SBIR award is sold to a foreign company or to a company that is not a small business concern;
+&emsp;&emsp;“(C) whether the Federal Government should be permitted to recoup some or all of its expenses if a controlling interest in a company receiving anSBIR award is sold to a foreign company or to a company that is not a small business concern;
 
 &emsp;&emsp;“(D) how to increase the use by the Federal Government in its programs and procurements of technology-oriented small businesses; and
 
@@ -1052,11 +1056,11 @@ Section 306 of Pub. L. 102–564 provided that:
 
 “(a)
 
-Purchase of American-Made Equipment and Products.—It is the sense of the Congress that an entity that is awarded a funding agreement under the SBIR program of a Federal agency under section 9 of the Small Business Act \[15 U.S.C. 638\] should, when purchasing any equipment or a product with funds provided through the funding agreement, purchase onlyAmerican-made equipment and products, to the extent possible in keeping with the overall purposes of that program.
+Purchase of American-Made Equipment and Products.—It is the sense of the Congress that an entity that is awarded a funding agreement under the SBIR program of a Federal agency under section 9 of the Small Business Act \[15 U.S.C. 638\] should, when purchasing any equipment or a product with funds provided through the funding agreement, purchase only American-made equipment and products, to the extent possible in keeping with the overall purposes of that program.
 
 “(b)
 
-Notice to SBIR Awardees.—Each Federal agency that awards funding agreements under the SBIR program shall provide to each recipient of such an award a notice describing the sense of the Congress, as set forth in subsection (a).”
+Notice to SBIR Awardees.—Each Federal agency that awards funding agreements under the SBIRprogram shall provide to each recipient of such an award a notice describing the sense of the Congress, as set forth in subsection (a).”
 
 #### Small Business Innovation Research Program in Department of Defense
 

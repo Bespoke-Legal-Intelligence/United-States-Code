@@ -88,7 +88,7 @@ A prior section 206 of act July 14, 1955, related to testing of motor vehicles a
 
 #### Amendments
 
-1990—Subsec. (a)(1). Pub. L. 101–549, §208(b), inserted new third sentence and struck out former third sentence which read as follows: “In the case of any manufacturer of vehicles or vehicle engines whose projected sales in the United States for any model year (as determined by the Administrator) will not exceed three hundred, the regulations prescribed by the Administrator concerning testing by the manufacturer for purposes of determining compliance with regulations under section 7521 of this title for the useful life of the vehicle or engine shall not require operation of any vehicle or engine manufactured during such model year for more than five thousand miles or one hundred and sixty hours, respectively, but the Administrator shall apply such adjustment factors as he deems appropriate to assure that each such vehicle or engine will comply during its useful life (as determined under section 7521(d) of this title) with the regulations prescribed under section 7521 of this title.”
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–549, §208(b), inserted new third sentence and struck out former third sentence which read as follows: “In the case of any manufacturer of vehicles or vehicle engines whose projected sales in the United States for any model year (as determined by the Administrator) will not exceed three hundred, the regulations prescribed by the Administrator concerning testing by the manufacturer for purposes of determining compliance with regulations under section 7521 of this title for the useful life of the vehicle or engine shall not require operation of any vehicle or engine manufactured during such model year for more than five thousand miles or one hundred and sixty hours, respectively, but the Administrator shall apply such adjustment factors as he deems appropriate to assure that each such vehicle or engine will comply during its useful life (as determined under section 7521(d) of this title) with the regulations prescribed under section 7521 of this title.”
 
 Subsec. (a)(4). Pub. L. 101–549, §208(a), added par. (4).
 
@@ -98,7 +98,7 @@ Subsec. (f). Pub. L. 101–549, §230(8), struck out par. (1) designation before
 
 Subsec. (h). Pub. L. 101–549, §208(c), added subsec. (h).
 
-1977—Subsec. (a)(1). Pub. L. 95–95, §220, inserted provisions covering testing by small manufacturers.
+<b>1977</b>—Subsec. (a)(1). Pub. L. 95–95, §220, inserted provisions covering testing by small manufacturers.
 
 Subsec. (a)(3). Pub. L. 95–95, §214(b), added par. (3).
 

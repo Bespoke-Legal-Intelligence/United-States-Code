@@ -24,7 +24,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-220301D36:1201.DOct. 20, 1978, Pub. L. 95–493, §§1, 2, 92 Stat. 1643.
+220301
+
+36:1201.
+
+Oct. 20, 1978, Pub. L. 95–493, §§1, 2, 92 Stat. 1643.
 
 &nbsp;
 

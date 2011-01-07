@@ -30,11 +30,11 @@ The Administrator shall establish in the Environmental Protection Agency an iden
 
 #### (e) Financial disclosures
 
-(1) Except as provided under paragraph (3), each officer or employee of the Environmental Protection Agency and the Department of Health and Human Services who—
+(1) Except as provided under paragraph (3), each officer or employee of the EnvironmentalProtection Agency and the Department of Health and Human Services who—
 
 &emsp;(A) performs any function or duty under this chapter, and
 
-&emsp;(B) has any known financial interest (i) in any person subject to this chapter or any rule or order in effect under this chapter, or (ii) inany person who applies for or receives any grant or contract under this chapter,
+&emsp;(B) has any known financial interest (i) in any person subject to this chapter or any rule or order in effect under this chapter, or (ii) in any person who applies for or receives any grant or contract under this chapter,
 
 > shall, on February 1, 1978, and on February 1 of each year thereafter, file with the Administrator or the Secretary of Health and Human Services (hereinafter in this subsection referred to as the “Secretary”), as appropriate, a written statement concerning all such interests held by such officer or employee during the preceding calendar year. Such statement shall be made available to the public.
 
@@ -72,7 +72,7 @@ Reorganization Plan No. 3 of 1970, referred to in text, is set out in the Append
 
 #### Amendments
 
-1983—Subsec. (g)(2). Pub. L. 98–80 struck out “(A)” before “be in addition” and “, and (B) be compensated at the rate of pay authorized for such Assistant Administrators” after “No. 3 of 1970”.
+<b>1983</b>—Subsec. (g)(2). Pub. L. 98–80 struck out “(A)” before “be in addition” and “, and (B) be compensated at the rate of pay authorized for such Assistant Administrators” after “No. 3 of 1970”.
 
 #### Change of Name
 

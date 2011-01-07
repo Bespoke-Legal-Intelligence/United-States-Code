@@ -10,9 +10,7 @@
 
 #### Amendments
 
-1968—Pub. L. 90–284, title X, §1002(a), Apr. 11, 1968, 82 Stat. 90, added chapter 12 and items 231 to 233.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<b>1968</b>—Pub. L. 90–284, title X, §1002(a), Apr. 11, 1968, 82 Stat. 90, added chapter 12 and items 231 to 233.
 
 
 ---

@@ -40,7 +40,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (a) Except as otherwise provided in subsection (b) of this section, there are hereby transferred to the Secretary of Commerce all functions of all other officers of the Department of Commerce and all functions of all agencies and employees of such Department.
 
-(b) This section shall not apply to the functions vested by the Administrative Procedure Act (60 Stat. 237)\[see 5 U.S.C. 551 et seq. and 701 et seq.\] in hearing examiners employed by the Department of Commerce, nor to the functions of the Civil Aeronautics Board, of the Inland Waterways Corporation, or of the Advisory Board of the Inland Waterways Corporation.
+(b) This section shall not apply to the functions vested by the Administrative Procedure Act (60 Stat. 237) \[see 5 U.S.C. 551 et seq. and 701 et seq.\] in hearing examiners employed by the Department of Commerce, nor to the functions of the Civil Aeronautics Board, of the Inland Waterways Corporation, or of the Advisory Board of the Inland Waterways Corporation.
 
 #### Sec. 2. Performance of Functions of Secretary
 
@@ -64,7 +64,7 @@ After investigation I have found and hereby declare that each reorganization inc
 
 I have found and hereby declare that it is necessary to include in the accompanying reorganization plan, by reason of reorganizations made thereby, provisions for the appointment and compensation of an Administrative Assistant Secretary of Commerce. The rate of compensation fixed for this officer is that which I have found to prevail in respect to comparable officers in the executive branch of the Government.
 
-The taking effect of the reorganizations included in this plan may not in itself result in substantial immediate savings. However, many benefits in improved operations are probable during the next years which will result in a reduction in expenditures as compared with those that would be otherwise necessary. An itemization of these reductions in advance of actual experience under this plan is not practicable.
+The taking effect of the reorganizations included in this plan may not in itself result in substantial immediate savings. However, many benefits in improved operations are probable during the next years which willresult in a reduction in expenditures as compared with those that would be otherwise necessary. An itemization of these reductions in advance of actual experience under this plan is not practicable.
 
 Harry S. Truman.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -104,7 +104,7 @@ Sec. 3. <i>White House Initiative on Asian Americans and Pacific Islanders</i>. 
 
 (a) <i>Mission and Function of the Initiative</i>. The Initiative shall work to improve the quality of life of AAPIs through increased participation in Federal programs in which AAPIs may be underserved. The Initiative shall advise the Co-Chairs on the implementation and coordination of Federal programs as they relate to AAPIs across executive departments and agencies.
 
-(b) <i>Membership of the Initiative</i>. In addition to the Co-Chairs, the Initiative shall consist of senior officials from the following executive branch departments, agencies, and offices:
+(b) <i>Membership of the Initiative</i>. In addition to the Co-Chairs, the Initiative shall consist of senior officialsfrom the following executive branch departments, agencies, and offices:
 
 (i) the Department of State;
 

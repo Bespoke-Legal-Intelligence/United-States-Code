@@ -6,7 +6,7 @@ The Commodity Credit Corporation shall establish and carry out a program to enco
 
 #### (b) Type of assistance
 
-Assistance under this section may be provided in the form of funds of, or commodities owned by, the Commodity Credit Corporation, as determined appropriate by the Secretary.
+Assistance under this section may be provided in the form of funds of, or commodities ownedby, the Commodity Credit Corporation, as determined appropriate by the Secretary.
 
 #### (c) Requirements for participation
 
@@ -106,7 +106,7 @@ An eligible trade organization shall be—
 
 #### (2) Limitation
 
-&emsp;Assistance provided under this section for activities described in subsection (e)(4) of this section shall not exceed 50 percent of the cost of implementing the marketing plan, exceptthat the Secretary may determine not to apply such limitation in the case of agricultural commodities with respect to which there has been a favorable decision by the United States Trade Representative under section 2411 of title 19. Criteria for determining that the limitation shall not apply shall be consistent and documented.
+&emsp;Assistance provided under this section for activities described in subsection (e)(4) of this section shall not exceed 50 percent of the cost of implementing the marketing plan, except that the Secretary may determine not to apply such limitation in the case of agricultural commodities with respect to which there has been a favorable decision by the United States Trade Representative under section 2411 of title 19. Criteria for determining that the limitation shall not apply shall be consistent and documented.
 
 #### (3) Staged reduction in assistance
 
@@ -198,7 +198,7 @@ Independent audits.—If as a result of an evaluation or audit of activities of 
 
 &emsp;“(3)
 
-Tobacco.—No funds made available under the market access program may be used for activities to develop, maintain, or expand foreign markets for tobacco.
+Tobacco.—No funds made available under the market access program may be used for activities todevelop, maintain, or expand foreign markets for tobacco.
 
 “(c)
 

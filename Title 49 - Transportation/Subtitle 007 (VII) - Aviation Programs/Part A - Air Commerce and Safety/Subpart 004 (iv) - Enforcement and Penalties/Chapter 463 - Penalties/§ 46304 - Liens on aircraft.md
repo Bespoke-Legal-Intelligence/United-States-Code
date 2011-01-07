@@ -78,7 +78,7 @@ In subsection (c)(3), the words “under a civil action in rem” are substitute
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–176 struck out “, (2), or (3)” after “section 46301(a)(1)(A)–(C)”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–176 struck out “, (2), or (3)” after “section 46301(a)(1)(A)–(C)”.
 
 #### Effective Date of 2003 Amendment
 

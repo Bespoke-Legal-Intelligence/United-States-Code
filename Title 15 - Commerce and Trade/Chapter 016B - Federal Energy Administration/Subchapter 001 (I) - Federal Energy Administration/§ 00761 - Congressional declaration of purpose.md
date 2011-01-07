@@ -28,7 +28,7 @@ Pub. L. 94–385, title I, §101, Aug. 14, 1976, 90 Stat. 1127, provided that: �
 
 #### Short Title
 
-Section 1 of Pub. L. 93–275 provided that: “This Act \[enacting this chapter and provisions set out as notes under this section\] may be cited as the ‘Federal Energy Administration Act of 1974’.”
+Section 1 of Pub. L. 93–275 provided that: “This Act \[enacting this chapter and provisions set out as notesunder this section\] may be cited as the ‘Federal Energy Administration Act of 1974’.”
 
 #### Separability
 
@@ -110,7 +110,7 @@ Ex. Ord. No. 11726, June 29, 1973, 38 F.R. 17711, formerly set out as a note und
 
 Ex. Ord. No. 11775, Mar. 26, 1974, 39 F.R. 11415, as amended by Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, provided:
 
-Executive Order No. 11726 of June 29, 1973, established in the Executive Office of the President an Energy Policy Office. Executive Order No. 11748 of December 4, 1973 \[set out as a note under section 754 of this title\], established in the Executive Office of the President a Federal Energy Office. In order to permit an orderly transition, the Energy Policy Office was continued in being on an interim basis. That transition has been successfully completed and the Energy Policy Office should now be abolished.
+Executive Order No. 11726 of June 29, 1973, established in the Executive Office of the President an Energy Policy Office. Executive Order No. 11748 of December 4, 1973 \[set out as a note under section 754 of this title\], established in the Executive Office of the President a Federal Energy Office. In order to permit an orderly transition, the Energy Policy Office was continued in beingon an interim basis. That transition has been successfully completed and the Energy Policy Office should now be abolished.
 
 NOW, THEREFORE, by virtue of the authority vested in me as the President of the United States of America it is hereby ordered as follows:
 

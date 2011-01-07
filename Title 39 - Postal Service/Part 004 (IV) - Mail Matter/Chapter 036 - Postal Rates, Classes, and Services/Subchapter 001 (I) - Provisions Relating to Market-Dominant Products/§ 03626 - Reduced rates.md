@@ -126,13 +126,13 @@ The phrase “shall take effect immediately and shall stay in effect hereafter�
 
 #### Amendments
 
-2006—Subsec. (a)(1) to (3). Pub. L. 109–435, §1003(1), added pars. (1) to (3) and struck out former pars. (1) to (3). Prior to amendment, par. (1) required rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title to be established in accordance with the applicable provisions of this chapter, par. (2) defined “costs attributable”, “regular-rate category”, and “institutional-costs contribution”, and par. (3) required rates of postage for a class of mail or kind of mailer under former section 4358 of this title to be established in a manner such that the estimated revenues to be received by the Postal Service from such class of mail or kind of mailer were equal to certain calculated amounts.
+<b>2006</b>—Subsec. (a)(1) to (3). Pub. L. 109–435, §1003(1), added pars. (1) to (3) and struck out former pars. (1) to (3). Prior to amendment, par. (1) required rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title to be established in accordance with the applicable provisions of this chapter, par. (2) defined “costs attributable”, “regular-rate category”, and “institutional-costs contribution”, and par. (3) required rates of postage for a class of mail or kind of mailer under former section 4358 of this title to be established in a manner such that the estimated revenues to be received by the Postal Service from such class of mail or kind of mailer were equal to certain calculated amounts.
 
 Subsec. (g)(3), (4). Pub. L. 109–435, §1003(2), added pars. (3) and (4).
 
 Subsec. (n). Pub. L. 109–435, §1003(3), added subsec. (n).
 
-2000—Subsec. (a)(1). Pub. L. 106–384, §2(b), substituted “4554(b), or 4554(c)” for “4454(b), or 4454(c)”.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–384, §2(b), substituted “4554(b), or 4554(c)” for “4454(b), or 4454(c)”.
 
 Subsec. (a)(3)(A). Pub. L. 106–384, §1(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Except as provided in paragraph (4) or (5), rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title shall be established in a manner such that the estimated revenues to be received by the Postal Service from such class of mail or kind of mailer shall be equal to the sum of—
 
@@ -146,13 +146,13 @@ Subsec. (a)(6). Pub. L. 106–384, §1(d), added par. (6).
 
 Subsec. (a)(7). Pub. L. 106–384, §1(e), added par. (7).
 
-1998—Subsec. (b)(3). Pub. L. 105–244 substituted “section 101” for “section 1201(a)” and struck out “(20 U.S.C. 1141(a))” after “Act of 1965”.
+<b>1998</b>—Subsec. (b)(3). Pub. L. 105–244 substituted “section 101” for “section 1201(a)” and struck out “(20 U.S.C. 1141(a))” after “Act of 1965”.
 
-1996—Subsec. (b)(3). Pub. L. 104–255 inserted before period “, and includes a nonprofit organization that coordinates a network of college-level courses that is sponsored primarily by nonprofit educational institutions for an older adult constituency”.
+<b>1996</b>—Subsec. (b)(3). Pub. L. 104–255 inserted before period “, and includes a nonprofit organization that coordinates a network of college-level courses that is sponsored primarily by nonprofit educational institutions for an older adult constituency”.
 
-1994—Subsec. (j)(1)(D)(III). Pub. L. 103–329 added cl. (III).
+<b>1994</b>—Subsec. (j)(1)(D)(III). Pub. L. 103–329 added cl. (III).
 
-1993—Subsec. (a). Pub. L. 103–123, §704(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
+<b>1993</b>—Subsec. (a). Pub. L. 103–123, §704(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
 “(1) Except as provided in paragraph (2) of this subsection, rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title shall be established in accordance with applicable provisions of this chapter.
 
@@ -168,17 +168,17 @@ Subsec. (k), (<i>l</i>). Pub. L. 103–123, §708(e), redesignated subsec. (k), 
 
 Subsec. (m). Pub. L. 103–123, §705(b), added subsec. (m).
 
-1991—Subsec. (a)(2). Pub. L. 102–141 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Rates of postage for a class of mail or kind of mailer referred to in paragraph (1) of this subsection shall be established in accordance with the requirement that the direct and indirect postal costs attributable to such class of mail or kind of mailer (excluding any other costs of the Postal Service) shall be borne by such class of mail or kind of mailer, as the case may be.”
+<b>1991</b>—Subsec. (a)(2). Pub. L. 102–141 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Rates of postage for a class of mail or kind of mailer referred to in paragraph (1) of this subsection shall be established in accordance with the requirement that the direct and indirect postal costs attributable to such class of mail or kind of mailer (excluding any other costs of the Postal Service) shall be borne by such class of mail or kind of mailer, as the case may be.”
 
 Subsec. (i)(2). Pub. L. 102–141 inserted “Subject to the requirements of section 2401(c) of this title and paragraph (a)(2) of this section with respect to mail under former sections 4452(b) and 4452(c) of this title,” before “This subsection”.
 
-1990—Subsec. (j). Pub. L. 101–509, §1(a), added subsec. (j).
+<b>1990</b>—Subsec. (j). Pub. L. 101–509, §1(a), added subsec. (j).
 
 Subsec. (k). Pub. L. 101–509, §3, added subsec. (k) defining “advertising”.
 
 Pub. L. 101–509, §1(a), added subsec. (k) relating to mailing of matter at inapplicable rates.
 
-1986—Subsec. (a). Pub. L. 99–272, §15102(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “If the rates of postage for any class of mail or kind of mailer under former sections 4358, 4359, 4421, 4422, 4452, or 4554 of this title, as such rates existed on the effective date of this subchapter, are, on the effective date of the first rate decision under this subchapter affecting that class or kind, less than the rates established by such decision, a separate rate schedule shall be adopted for that class or kind effective each time rates are established or changed under this subchapter, with annual increases as nearly equal as practicable, so that—
+<b>1986</b>—Subsec. (a). Pub. L. 99–272, §15102(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “If the rates of postage for any class of mail or kind of mailer under former sections 4358, 4359, 4421, 4422, 4452, or 4554 of this title, as such rates existed on the effective date of this subchapter, are, on the effective date of the first rate decision under this subchapter affecting that class or kind, less than the rates established by such decision, a separate rate schedule shall be adopted for that class or kind effective each time rates are established or changed under this subchapter, with annual increases as nearly equal as practicable, so that—
 
 &emsp;“(1) the revenues received from rates for mail under former sections 4358, 4452(b) and (c), 4554(b) and (c) shall not, on and after the first day of the sixteenth year following the effective date of the first rate decision applicable to that class or kind, exceed the direct and indirect postal costs attributable to mail of such class or kind (excluding all other costs of the Postal Service);
 
@@ -196,11 +196,11 @@ Subsec. (h). Pub. L. 99–272, §15105, added subsec. (h).
 
 Subsec. (i). Pub. L. 99–509 added subsec. (i).
 
-1978—Subsec. (e). Pub. L. 95–593 added subsec. (e).
+<b>1978</b>—Subsec. (e). Pub. L. 95–593 added subsec. (e).
 
-1976—Pub. L. 94–421 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
+<b>1976</b>—Pub. L. 94–421 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
 
-1974—Pub. L. 93–328 substituted “sixteenth” for “tenth” year in subpar. (1), substituted “under former sections” for “under sections”, “eighth” for “fifth” year, and “subparagraph” for “subsection” and struck out reference to section “4452(a)” after “4422,” in subpar. (2), and added subpar. (3).
+<b>1974</b>—Pub. L. 93–328 substituted “sixteenth” for “tenth” year in subpar. (1), substituted “under former sections” for “under sections”, “eighth” for “fifth” year, and “subparagraph” for “subsection” and struck out reference to section “4452(a)” after “4422,” in subpar. (2), and added subpar. (3).
 
 #### Effective Date of 1998 Amendment
 

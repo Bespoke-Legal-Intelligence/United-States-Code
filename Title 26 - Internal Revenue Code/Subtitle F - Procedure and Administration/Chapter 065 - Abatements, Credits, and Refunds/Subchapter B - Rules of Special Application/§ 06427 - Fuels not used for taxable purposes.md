@@ -102,11 +102,11 @@ Except as provided in subsection (k)—
 
 &emsp;This subsection shall not apply with respect to—
 
-&emsp;&emsp;(A) any alcohol fuel mixture (as defined in section 6426(b)(3)) sold or used after December 31, 2010,
+&emsp;&emsp;(A) any alcohol fuel mixture (as defined in section 6426(b)(3)) sold or used after December 31, 2011,
 
-&emsp;&emsp;(B) any biodiesel mixture (as defined in section 6426(c)(3)) sold or used after December 31, 2009,
+&emsp;&emsp;(B) any biodiesel mixture (as defined in section 6426(c)(3)) sold or used after December 31, 2011,
 
-&emsp;&emsp;(C) except as provided in subparagraph (D), any alternative fuel or alternative fuel mixture (as defined in subsection (d)(2) or (e)(3) of section 6426) sold or used after December 31, 2009, and
+&emsp;&emsp;(C) except as provided in subparagraph (D), any alternative fuel or alternative fuel mixture (as defined in subsection (d)(2) or (e)(3) of section 6426) sold or used after December 31, 2011, and
 
 &emsp;&emsp;(D) any alternative fuel or alternative fuel mixture (as so defined) involving liquefied hydrogen sold or used after September 30, 2014.
 
@@ -238,7 +238,7 @@ Except as provided in subsection (k)—
 
 #### (A) Kerosene used in commercial aviation
 
-&emsp;&emsp;In the case of kerosene used in commercial aviation (as defined in section 4083(b)) (otherthan supplies for vessels or aircraft within the meaning of section 4221(d)(3)), paragraph (1) shall not apply to so much of the tax imposed by section 4041 or 4081, as the case may be, as is attributable to—
+&emsp;&emsp;In the case of kerosene used in commercial aviation (as defined in section 4083(b)) (other than supplies for vessels or aircraft within the meaning of section 4221(d)(3)), paragraph (1) shall not apply to so much of the tax imposed by section 4041 or 4081, as the case may be, as is attributable to—
 
 &emsp;&emsp;&emsp;(i) the Leaking Underground Storage Tank Trust Fund financing rate imposed by such section, and
 
@@ -334,7 +334,7 @@ For purposes of subsections (a), (b), and (c), the taxes imposed by section 4041
 
 &emsp;&emsp;<b>(3) For treatment of an Indian tribal government as a State (and a subdivision of an Indian tribal government as a political subdivision of a State), see section 7871.</b>
 
-(Added Pub. L. 91–258, title II, §207(a), May 21, 1970, 84 Stat. 246; amended Pub. L. 94–455, title XIX, §1906(a)(31)(A), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1829, 1834; Pub. L. 94–530, §1(b), (c)(2)–(5), Oct. 17, 1976, 90 Stat. 2487, 2488; Pub. L. 95–458, §3(b), Oct. 14, 1978, 92 Stat. 1257; Pub. L. 95–599, title V, §505(a), (b), (c)(2)–(4), Nov. 6, 1978, 92 Stat. 2758–2760; Pub. L. 95–600, title VII, §703(<i>l</i>)(3), Nov. 6, 1978, 92 Stat. 2942; Pub. L. 95–618, title II, §233(a)(2), Nov. 9, 1978, 92 Stat. 3190; Pub. L. 96–223, title II, §232(d)(1), (2), (4)(B)–(D), Apr. 2, 1980, 94 Stat. 277, 278; Pub. L. 96–541, §4, Dec. 17, 1980, 94 Stat. 3205; Pub. L. 97–248, title II, §279(b)(2), Sept. 3, 1982, 96 Stat. 563; Pub. L. 97–424, title V, §§511(d)(4), (e)(1)–(3), (g)(2)(B)–(D), 516(b)(5), Jan. 6, 1983, 96 Stat. 2171, 2172, 2173, 2183; Pub. L. 97–473, title II, §202(b)(13), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title IV, §474(r)(38), title VII, §§732(a)(3), 734(c)(2), title IX, §§911(b), (d)(2)(B)–(F), 912(d), 914, 915(a), July 18, 1984, 98 Stat. 846, 977, 979, 1005–1008; Pub. L. 99–499, title V, §521(c)(3)(A), (B)(i), (C), Oct. 17, 1986, 100 Stat. 1779; Pub. L. 99–514, title IV, §422(b), title XVII, §1703(d), (e)(1), (2)(A)–(E), title XVIII, §§1877(b), 1899A(55), (56), Oct. 22, 1986, 100 Stat. 2230, 2777, 2778, 2902, 2961, as amended by Pub. L. 99–499, title V, §521(c)(3)(B)(ii), Oct. 17, 1986, 100 Stat. 1779; Pub. L. 100–17, title V, §502(b)(8), (9), Apr. 2, 1987, 101 Stat. 257; Pub. L. 100–203, title X, §10502(c), Dec. 22, 1987, 101 Stat. 1330–442; Pub. L. 100–223, title IV, §405(b)(1), (2), Dec. 30, 1987, 101 Stat. 1534, 1535; Pub. L. 100–647, title I, §1017(c)(3), (10), title II, §§2001(d)(7)(B)–(D), 2004(s)(2), (3), title III, §3002(a)–(c), Nov. 10, 1988, 102 Stat. 3576, 3596, 3609, 3615, 3616; Pub. L. 101–239, title VII, §§7501(b)(3), 7812(a), 7822(b)(1)–(4), 7841(d)(20), Dec. 19, 1989, 103 Stat. 2361, 2412, 2424, 2425, 2429; Pub. L. 101–508, title XI, §§11211(b)(4)(B), (5), (6)(E)(ii), (d)(7), (8), 11213(b)(3), 11801(a)(46), (c)(23), Nov. 5, 1990, 104 Stat. 1388–425 to 1388–427, 1388–433, 1388–522, 1388–528; Pub. L. 102–240, title VIII, §8002(b)(7), (8), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §§13241(f)(8)–(10), 13242(c), (d)(21), (25)–(31), Aug. 10, 1993, 107 Stat. 512, 521, 524, 525; Pub. L. 104–188, title I, §§1606(a), (b)(2), 1702(b)(2)(B), 1703(k), Aug. 20, 1996, 110 Stat. 1839, 1868, 1877; Pub. L. 105–34, title X, §1032(c)(3), (e)(7)–(10), Aug. 5, 1997, 111 Stat. 934, 935; Pub. L. 105–178, title IX, §§9003(a)(2), 9006(b)(2), 9009(a)–(b)(2), June 9, 1998, 112 Stat. 502, 506, 507; Pub. L. 105–206, title VI, §§6016(b), 6017(a), 6023(16), (25), (26), July 22, 1998, 112 Stat. 822, 825, 826; Pub. L. 108–357, title II, §241(a)(2)(D), title III, §301(c)(9), (10), title VIII, §§851(d)(3), 853(c), (d)(2)(J), (K), 857(b), (c), 870(b), Oct. 22, 2004, 118 Stat. 1438, 1462, 1609, 1611, 1613, 1617, 1624; Pub. L. 109–58, title XIII, §§1343(b)(1), (3), 1344(a), Aug. 8, 2005, 119 Stat. 1051, 1052; Pub. L. 109–59, title XI, §§11113(b)(3)(C), 11151(a), 11161(b)(2), (3)(B), (D)–(F), 11162(a), (b), 11163(c), Aug. 10, 2005, 119 Stat. 1948, 1968, 1970–1974; Pub. L. 109–432, div. A, title IV, §420(a), (b)(1), (3), (4), Dec. 20, 2006, 120 Stat. 2968, 2969; Pub. L. 110–172, §§5(a)(1), 11(a)(37)–(39)(A), (e)(1), Dec. 29, 2007, 121 Stat. 2478, 2487–2489; Pub. L. 110–343, div. B, title II, §§202(a), 203(c)(2), 204(a)(3), Oct. 3, 2008, 122 Stat. 3832, 3834.)
+(Added Pub. L. 91–258, title II, §207(a), May 21, 1970, 84 Stat. 246; amended Pub. L. 94–455, title XIX, §1906(a)(31)(A), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1829, 1834; Pub. L. 94–530, §1(b), (c)(2)–(5), Oct. 17, 1976, 90 Stat. 2487, 2488; Pub. L. 95–458, §3(b), Oct. 14, 1978, 92 Stat. 1257; Pub. L. 95–599, title V, §505(a), (b), (c)(2)–(4), Nov. 6, 1978, 92 Stat. 2758–2760; Pub. L. 95–600, title VII, §703(<i>l</i>)(3), Nov. 6, 1978, 92 Stat. 2942; Pub. L. 95–618, title II, §233(a)(2), Nov. 9, 1978, 92 Stat. 3190; Pub. L. 96–223, title II, §232(d)(1), (2), (4)(B)–(D), Apr. 2, 1980, 94 Stat. 277, 278; Pub. L. 96–541, §4, Dec. 17, 1980, 94 Stat. 3205; Pub. L. 97–248, title II, §279(b)(2), Sept. 3, 1982, 96 Stat. 563; Pub. L. 97–424, title V, §§511(d)(4), (e)(1)–(3), (g)(2)(B)–(D), 516(b)(5), Jan. 6, 1983, 96 Stat. 2171, 2172, 2173, 2183; Pub. L. 97–473, title II, §202(b)(13), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title IV, §474(r)(38), title VII, §§732(a)(3), 734(c)(2), title IX, §§911(b), (d)(2)(B)–(F), 912(d), 914, 915(a), July 18, 1984, 98 Stat. 846, 977, 979, 1005–1008; Pub. L. 99–499, title V, §521(c)(3)(A), (B)(i), (C), Oct. 17, 1986, 100 Stat. 1779; Pub. L. 99–514, title IV, §422(b), title XVII, §1703(d), (e)(1), (2)(A)–(E), title XVIII, §§1877(b), 1899A(55), (56), Oct. 22, 1986, 100 Stat. 2230, 2777, 2778, 2902, 2961, as amended by Pub. L. 99–499, title V,§521(c)(3)(B)(ii), Oct. 17, 1986, 100 Stat. 1779; Pub. L. 100–17, title V, §502(b)(8), (9), Apr. 2, 1987, 101 Stat. 257; Pub. L. 100–203, title X, §10502(c), Dec. 22, 1987, 101 Stat. 1330–442; Pub. L. 100–223, title IV, §405(b)(1), (2), Dec. 30, 1987, 101 Stat. 1534, 1535; Pub. L. 100–647, title I, §1017(c)(3), (10), title II, §§2001(d)(7)(B)–(D), 2004(s)(2), (3), title III, §3002(a)–(c), Nov. 10, 1988, 102 Stat. 3576, 3596, 3609, 3615, 3616; Pub. L. 101–239, title VII, §§7501(b)(3), 7812(a), 7822(b)(1)–(4), 7841(d)(20), Dec. 19, 1989, 103 Stat. 2361, 2412, 2424, 2425, 2429; Pub. L. 101–508, title XI, §§11211(b)(4)(B), (5), (6)(E)(ii), (d)(7), (8), 11213(b)(3), 11801(a)(46), (c)(23), Nov. 5, 1990, 104 Stat. 1388–425 to 1388–427, 1388–433, 1388–522, 1388–528; Pub. L. 102–240, title VIII, §8002(b)(7), (8), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §§13241(f)(8)–(10), 13242(c), (d)(21), (25)–(31), Aug. 10, 1993, 107 Stat. 512, 521, 524, 525; Pub. L. 104–188, title I, §§1606(a), (b)(2), 1702(b)(2)(B), 1703(k), Aug. 20, 1996, 110 Stat. 1839, 1868, 1877; Pub. L. 105–34, title X, §1032(c)(3), (e)(7)–(10), Aug. 5, 1997, 111 Stat. 934, 935; Pub. L. 105–178, title IX, §§9003(a)(2), 9006(b)(2), 9009(a)–(b)(2), June 9, 1998, 112 Stat. 502, 506, 507; Pub. L. 105–206, title VI, §§6016(b), 6017(a), 6023(16), (25), (26), July 22, 1998, 112 Stat. 822, 825, 826; Pub. L. 108–357, title II, §241(a)(2)(D), title III, §301(c)(9), (10), title VIII, §§851(d)(3), 853(c), (d)(2)(J), (K), 857(b), (c), 870(b), Oct. 22, 2004, 118 Stat. 1438, 1462, 1609, 1611, 1613, 1617, 1624; Pub. L. 109–58, title XIII, §§1343(b)(1), (3), 1344(a), Aug. 8, 2005, 119 Stat. 1051, 1052; Pub. L. 109–59, title XI, §§11113(b)(3)(C), 11151(a), 11161(b)(2), (3)(B), (D)–(F), 11162(a), (b), 11163(c), Aug. 10, 2005, 119 Stat. 1948, 1968, 1970–1974; Pub. L. 109–432, div. A, title IV, §420(a), (b)(1), (3), (4), Dec. 20, 2006, 120 Stat. 2968, 2969; Pub. L. 110–172, §§5(a)(1), 11(a)(37)–(39)(A), (e)(1), Dec. 29, 2007, 121 Stat. 2478, 2487–2489; Pub. L. 110–343, div. B, title II, §§202(a), 203(c)(2), 204(a)(3), Oct. 3, 2008, 122 Stat. 3832, 3834; Pub. L. 111–312, title VII, §§701(b)(2), 704(a), 708(c)(1), Dec. 17, 2010, 124 Stat. 3310–3312.)
 
 #### References in Text
 
@@ -344,7 +344,13 @@ Section 4091, referred to in subsec. (f)(1), (2)(A)(ii), (B)(ii), was repealed b
 
 #### Amendments
 
-2008—Subsec. (e)(5). Pub. L. 110–343, §203(c)(2), added par. (5). Former par. (5) redesignated (6).
+<b>2010</b>—Subsec. (e)(6)(A). Pub. L. 111–312, §708(c)(1), substituted “December 31, 2011” for “December 31, 2010”.
+
+Subsec. (e)(6)(B). Pub. L. 111–312, §701(b)(2), substituted “December 31, 2011” for “December 31, 2009”.
+
+Subsec. (e)(6)(C). Pub. L. 111–312, §704(a), substituted “December 31, 2011” for “December 31, 2009”.
+
+<b>2008</b>—Subsec. (e)(5). Pub. L. 110–343, §203(c)(2), added par. (5). Former par. (5) redesignated (6).
 
 Subsec. (e)(5)(B). Pub. L. 110–343, §202(a), substituted “December 31, 2009” for “December 31, 2008”.
 
@@ -352,7 +358,7 @@ Subsec. (e)(6). Pub. L. 110–343, §203(c)(2), redesignated par. (5) as (6).
 
 Subsec. (e)(6)(C). Pub. L. 110–343, §204(a)(3), which directed amendment of subsec. (e)(5)(C) by substituting “December 31, 2009” for “September 30, 2009”, was executed by making the substitution in par. (6)(C), to reflect the probable intent of Congress and the redesignation of par. (5) as (6) by Pub. L. 110–343, §203(c)(2). See above.
 
-2007—Subsec. (e)(3). Pub. L. 110–172, §11(a)(37), redesignated par. (3), relating to termination, as (5).
+<b>2007</b>—Subsec. (e)(3). Pub. L. 110–172, §11(a)(37), redesignated par. (3), relating to termination, as (5).
 
 Subsec. (e)(5). Pub. L. 110–172, §11(a)(37), redesignated par. (3), relating to termination, as (5).
 
@@ -374,7 +380,7 @@ Subsecs. (p), (q). Pub. L. 110–172, §11(a)(39)(A), redesignated subsec. (q) a
 
 > the Secretary shall pay (without interest) to the ultimate purchaser of such gasohol an amount equal to 1.4 cents (2 cents in the case of a mixture none of the alcohol in which consists of ethanol) multiplied by the number of gallons of gasohol so used.”
 
-2006—Subsec. (i)(4)(A). Pub. L. 109–432, §420(b)(3), substituted “paragraph (4)(C) or (5)” for “paragraph (4)(B), (5), or (6)” in introductory provisions and cl. (i) and “(<i>l</i>)(4)(C)(ii), and (<i>l</i>)(5)” for “(<i>l</i>)(5), and (<i>l</i>)(6)” in concluding provisions.
+<b>2006</b>—Subsec. (i)(4)(A). Pub. L. 109–432, §420(b)(3), substituted “paragraph (4)(C) or (5)” for “paragraph (4)(B), (5), or (6)” in introductory provisions and cl. (i) and “(<i>l</i>)(4)(C)(ii), and (<i>l</i>)(5)” for “(<i>l</i>)(5), and (<i>l</i>)(6)” in concluding provisions.
 
 Subsec. (<i>l</i>)(1). Pub. L. 109–432, §420(b)(4), substituted “paragraph (4)(C)(i)” for “paragraph (4)(B)”.
 
@@ -382,7 +388,7 @@ Subsec. (<i>l</i>)(4). Pub. L. 109–432, §420(a), amended heading and text of 
 
 Subsec. (<i>l</i>)(5), (6). Pub. L. 109–432, §420(b)(1), redesignated par. (6) as (5) and struck out former par. (5), which related to refunds for kerosene used in noncommercial aviation.
 
-2005—Subsec. (e). Pub. L. 109–59, §11113(b)(3)(C)(ix), substituted “, biodiesel, or alternative fuel” for “or biodiesel used to produce alcohol fuel and biodiesel mixtures” in heading.
+<b>2005</b>—Subsec. (e). Pub. L. 109–59, §11113(b)(3)(C)(ix), substituted “, biodiesel, or alternative fuel” for “or biodiesel used to produce alcohol fuel and biodiesel mixtures” in heading.
 
 Subsec. (e)(1). Pub. L. 109–59, §11113(b)(3)(C)(i), inserted “or the alternative fuel mixture credit” after “biodiesel mixture credit”.
 
@@ -458,7 +464,7 @@ Pub. L. 109–59, §11151(a)(2), which directed the redesignation of subsec. (p)
 
 Subsec. (q). Pub. L. 109–58, §1343(b)(1), redesignated subsec. (p) as (q).
 
-2004—Subsec. (b)(4). Pub. L. 108–357, §857(b), added par. (4).
+<b>2004</b>—Subsec. (b)(4). Pub. L. 108–357, §857(b), added par. (4).
 
 Subsec. (e). Pub. L. 108–357, §301(c)(9), added subsec. (e).
 
@@ -504,7 +510,7 @@ Subsec. (<i>l</i>)(4). Pub. L. 108–357, §853(c)(1), amended heading and text 
 
 Subsec. (<i>l</i>)(5)(B). Pub. L. 108–357, §853(d)(2)(K)(ii), substituted “Paragraph (1) shall not apply to kerosene (other than aviation-grade kerosene)” for “Paragraph (1)(A) shall not apply to kerosene” in introductory provisions.
 
-1998—Subsec. (d). Pub. L. 105–206, §6016(b), in heading, substituted “other aircraft uses” for “helicopters” and, in concluding provisions, inserted “or a fixed-wing aircraft” after “helicopter”.
+<b>1998</b>—Subsec. (d). Pub. L. 105–206, §6016(b), in heading, substituted “other aircraft uses” for “helicopters” and, in concluding provisions, inserted “or a fixed-wing aircraft” after “helicopter”.
 
 Subsec. (f)(3). Pub. L. 105–206, §6023(25), struck out “, (e),” after “subsection (d)”.
 
@@ -546,7 +552,7 @@ Subsec. (q)(2). Pub. L. 105–206, §6023(16), substituted “section 4041(c)(2)
 
 Subsec. (r). Pub. L. 105–206, §6023(26)(A), redesignated subsec. (r) as (p).
 
-1997—Subsec. (f). Pub. L. 105–34, §1032(e)(7), inserted “kerosene,” after “diesel fuel,” in subsec. heading and in text of par. (1).
+<b>1997</b>—Subsec. (f). Pub. L. 105–34, §1032(e)(7), inserted “kerosene,” after “diesel fuel,” in subsec. heading and in text of par. (1).
 
 Subsec. (f)(2)(A)(i), (B)(i). Pub. L. 105–34, §1032(e)(8), substituted “, diesel fuel, or kerosene” for “or diesel fuel”.
 
@@ -570,7 +576,7 @@ Subsec. (<i>l</i>)(5)(B). Pub. L. 105–34, §1032(c)(3)(B), added subpar. (B) a
 
 Subsec. (<i>l</i>)(5)(C). Pub. L. 105–34, §1032(c)(3)(B), (C), redesignated subpar. (B) as (C) and substituted “subparagraph (A) or (B)” for “subparagraph (A)” in introductory provisions.
 
-1996—Subsec. (f)(4). Pub. L. 104–188, §1703(k), substituted “1999” for “1995”.
+<b>1996</b>—Subsec. (f)(4). Pub. L. 104–188, §1703(k), substituted “1999” for “1995”.
 
 Subsec. (g). Pub. L. 104–188, §1606(a), struck out subsec. (g) which related to advance repayment of increased diesel fuel tax to original purchasers of diesel-powered automobiles and light trucks.
 
@@ -578,7 +584,7 @@ Subsec. (i)(1), (2)(A). Pub. L. 104–188, §1606(b)(2), struck out “(g),” a
 
 Subsec. (<i>l</i>)(4). Pub. L. 104–188, §1702(b)(2)(B), amended par. (4), as in effect before the amendments made by the Revenue Reconciliation Act of 1993 \[ch. I, §§13001–13444, of title XIII of Pub. L. 103–66\], by inserting before the period “unless such fuel was used by a State or any political subdivision thereof”. See 1993 Amendment note below for subsec. (<i>l</i>).
 
-1993—Subsec. (a). Pub. L. 103–66, §13242(d)(21), substituted “paragraph (2) or (3) of section 4041(a) or section 4041(c)” for “section 4041(a) or (c)” in introductory provisions.
+<b>1993</b>—Subsec. (a). Pub. L. 103–66, §13242(d)(21), substituted “paragraph (2) or (3) of section 4041(a) or section 4041(c)” for “section 4041(a) or (c)” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 103–66, §13242(d)(25), substituted “if any fuel other than gasoline (as defined in section 4083(a))” for “if any fuel” in introductory provisions and “4081” for “4091” in introductory and concluding provisions.
 
@@ -678,9 +684,9 @@ Subsec. (m). Pub. L. 103–66, §13241(f)(10), struck out heading and text of su
 
 Subsec. (<i>o</i>). Pub. L. 103–66, §13241(f)(10), struck out heading and text of subsec. (<i>o</i>). Text read as follows: “Except with respect to taxes imposed by section 4041(d) and sections 4081 and 4091 at the Leaking Underground Storage Tank Trust Fund financing rate, subsections (a), (b), (c), (d), (g), (h), and (<i>l</i>) shall only apply with respect to fuels purchased before October 1, 1999.”
 
-1991—Subsecs. (g)(5), (<i>o</i>). Pub. L. 102–240 substituted “1999” for “1995”.
+<b>1991</b>—Subsecs. (g)(5), (<i>o</i>). Pub. L. 102–240 substituted “1999” for “1995”.
 
-1990—Subsec. (b)(2)(A). Pub. L. 101–508, §11211(b)(5), substituted “shall be 3.1 cents per gallon less than the aggregate rate at which tax was imposed on such fuel by section 4041(a) or 4091, as the case may be” for “shall not exceed 12 cents”.
+<b>1990</b>—Subsec. (b)(2)(A). Pub. L. 101–508, §11211(b)(5), substituted “shall be 3.1 cents per gallon less than the aggregate rate at which tax was imposed on such fuel by section 4041(a) or 4091, as the case may be” for “shall not exceed 12 cents”.
 
 Subsec. (e). Pub. L. 101–508, §11801(a)(46), struck out subsec. (e) which required payment of refunds of gasoline or fuel tax to ultimate purchasers where such gasoline or fuel was used in a qualified taxicab engaged exclusively in furnishing qualified taxicab services.
 
@@ -698,7 +704,7 @@ Subsec. (i)(2)(A). Pub. L. 101–508, §11801(c)(23)(B), amended subpar. (A) gen
 
 > to any person with respect to fuel used (or a qualified diesel powered highway vehicle purchased) during any of the first three quarters of his taxable year, a claim may be filed under this section by the purchaser with respect to fuel used (or a qualified diesel powered highway vehicle purchased) during such quarter.”
 
-Subsec. (i)(2)(B), (C). Pub. L. 101–508, §11801(c)(23)(C), redesignated subpar. (C) as (B) and struck out former subpar. (B) “Special rule” which read as follows: “If the requirements of subparagraph (A)(ii) are met by any person for any quarter but the requirements of subparagraph (A)(i) are not met by such person for such quarter, such person may file a claim under subparagraph (A) for such quarter only with respect to amounts referred to in subparagraph (A)(ii).”
+Subsec. (i)(2)(B), (C). Pub. L. 101–508, §11801(c)(23)(C), redesignated subpar. (C) as (B) and struck out formersubpar. (B) “Special rule” which read as follows: “If the requirements of subparagraph (A)(ii) are met by any person for any quarter but the requirements of subparagraph (A)(i) are not met by such person for such quarter, such person may file a claim under subparagraph (A) for such quarter only with respect to amounts referred to in subparagraph (A)(ii).”
 
 Subsec. (<i>l</i>)(1). Pub. L. 101–508, §11211(b)(4)(B)(ii), inserted reference to par. (4).
 
@@ -716,7 +722,7 @@ Subsec. (q). Pub. L. 101–508, §11211(b)(6)(E)(ii), substituted heading for on
 
 > the Secretary shall pay (without interest) to the ultimate purchaser of such gasoline an amount equal to the excess of the aggregate amount of tax paid under section 4081 on the gasoline so used over an amount equal to 6 cents multiplied by the number of gallons of gasoline so used.”
 
-1989—Subsec. (f)(1)(B). Pub. L. 101–239, §7812(a), made technical correction to directory language of Pub. L. 100–647, §2001(d)(7)(C), see 1988 Amendment note below.
+<b>1989</b>—Subsec. (f)(1)(B). Pub. L. 101–239, §7812(a), made technical correction to directory language of Pub. L. 100–647, §2001(d)(7)(C), see 1988 Amendment note below.
 
 Subsec. (i)(1). Pub. L. 101–239, §7822(b)(1), substituted “subsection (a), (b), (c), (d), (e), (g), (h), (<i>l</i>), or (q) by any person” for “subsection (a), (b), (c), (d), (e),, (g), (h), or (<i>l</i>) by any person”.
 
@@ -732,7 +738,7 @@ Subsec. (q). Pub. L. 101–239, §7501(b)(3), substituted “1991” for “1990
 
 Pub. L. 101–239, §7822(b)(4), redesignated subsec. (q), relating to payments for taxes imposed by section 4041(d), as (p).
 
-1988—Subsec. (f)(1)(A). Pub. L. 100–647, §2001(d)(7)(B), substituted “regular tax rate” for “regular Highway Trust Fund financing rate” in two places and “incentive tax rate” for “incentive Highway Trust Fund Financing rate”, notwithstanding directory language that “incentive tax rate” was to be substituted for “Highway Trust Fund financing rate”.
+<b>1988</b>—Subsec. (f)(1)(A). Pub. L. 100–647, §2001(d)(7)(B), substituted “regular tax rate” for “regular Highway Trust Fund financing rate” in two places and “incentive tax rate” for “incentive Highway Trust Fund Financing rate”, notwithstanding directory language that “incentive tax rate” was to be substituted for “Highway Trust Fund financing rate”.
 
 Subsec. (f)(1)(B). Pub. L. 100–647, §2001(d)(7)(C), as amended by Pub. L. 101–239, §7812(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) defined “regular Highway Trust Fund financing rate” and “incentive Highway Trust Fund Financing rate”.
 
@@ -756,7 +762,7 @@ Subsecs. (p), (q). Pub. L. 100–647, §2004(s)(3), redesignated subsec. (p), re
 
 Subsec. (r). Pub. L. 100–647, §2004(s)(3), redesignated subsec. (q), relating to cross references, as (r).
 
-1987—Subsec. (b)(1). Pub. L. 100–203, §10502(c)(2), substituted “section 4041(a) or 4091” for first reference to “subsection (a) of section 4041”, “section 4041(a) or 4091, as the case may be” for second reference to “subsection (a) of section 4041”.
+<b>1987</b>—Subsec. (b)(1). Pub. L. 100–203, §10502(c)(2), substituted “section 4041(a) or 4091” for first reference to “subsection (a) of section 4041”, “section 4041(a) or 4091, as the case may be” for second reference to “subsection (a) of section 4041”.
 
 Subsec. (e)(1)(B). Pub. L. 100–203, §10502(c)(3), inserted “or 4091” after “section 4041”.
 
@@ -786,7 +792,7 @@ Subsec. (q). Pub. L. 100–223, §405(b)(1), redesignated subsec. (p), relating 
 
 Pub. L. 100–203, §10502(c)(1), redesignated subsec. (p), relating to cross references, as (q).
 
-1986—Subsec. (a). Pub. L. 99–514, §1703(e)(2)(A), substituted “subsection (k)” for “subsection (j)”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1703(e)(2)(A), substituted “subsection (k)” for “subsection (j)”.
 
 Subsec. (b)(1). Pub. L. 99–514, §1899A(55), substituted “otherwise provided in this subsection” for “provided in paragraph (2)”.
 
@@ -852,7 +858,7 @@ Pub. L. 99–499, §521(c)(3)(B)(i), redesignated subsec. (n) as (<i>o</i>).
 
 Subsec. (p). Pub. L. 99–514, §1703(e)(1)(A), as amended by Pub. L. 99–499, §521(c)(3)(B)(ii), redesignated subsec. (<i>o</i>) as (p).
 
-1984—Subsecs. (a), (b)(1). Pub. L. 98–369, §911(d)(2)(B), substituted “subsection (j)” for “subsection (i)”.
+<b>1984</b>—Subsecs. (a), (b)(1). Pub. L. 98–369, §911(d)(2)(B), substituted “subsection (j)” for “subsection (i)”.
 
 Subsec. (b)(2), (3). Pub. L. 98–369, §915(a), added par. (2) and redesignated former par. (2) as (3).
 
@@ -870,7 +876,7 @@ Subsec. (g). Pub. L. 98–369, §911(b), added subsec. (g). Former subsec. (g) r
 
 Subsec. (h). Pub. L. 98–369, §911(b), redesignated former subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
-Subsec. (h)(1). Pub. L. 98–369, §911(d)(2)(C), substituted “(f), or (g)” for “or (f)”, and inserted “(or a qualifieddiesel powered highway vehicle purchased)” after “fuel used” in two places.
+Subsec. (h)(1). Pub. L. 98–369, §911(d)(2)(C), substituted “(f), or (g)” for “or (f)”, and inserted “(or a qualified diesel powered highway vehicle purchased)” after “fuel used” in two places.
 
 Subsec. (h)(2)(A). Pub. L. 98–369, §911(d)(2)(D), substituted “(e), and (g)” for “and (e)”, and inserted “(or a qualified diesel powered highway vehicle purchased)” after “fuel used” in two places.
 
@@ -898,7 +904,7 @@ Pub. L. 98–369, §734(c)(2), redesignated former subsec. (<i>l</i>), relating 
 
 Subsec. (n). Pub. L. 98–369, §911(b), redesignated former subsec. (m), relating to cross references, as (n).
 
-1983—Subsec. (a). Pub. L. 97–424, §511(g)(2)(B), substituted “section 4041(a) or (c)” for “section 4041(a), (b), or (c)”.
+<b>1983</b>—Subsec. (a). Pub. L. 97–424, §511(g)(2)(B), substituted “section 4041(a) or (c)” for “section 4041(a), (b), or (c)”.
 
 Subsec. (b)(1). Pub. L. 97–424, §511(g)(2)(C), substituted “subsection (a) of section 4041” for “subsection (a) or (b) of section 4041” wherever appearing.
 
@@ -922,9 +928,9 @@ Subsec. (<i>l</i>). Pub. L. 97–424, §516(b)(5), redesignated former subsec. (
 
 Subsec. (<i>l</i>)(3). Pub. L. 97–473 added par. (3). Notwithstanding the directory language that par. (3) be added to subsec. (k), it was added to subsec. (<i>l</i>) to reflect the probable intent of Congress and the intervening redesignation of subsec. (k) as (<i>l</i>) by Pub. L. 97–424.
 
-1982—Subsec. (d). Pub. L. 97–248 inserted “or in certain helicopters” after “museums” in heading and “or is used in a helicopter for a purpose described in section 4041(<i>l</i>),” after “section 4041(h)(2)(C),” in text.
+<b>1982</b>—Subsec. (d). Pub. L. 97–248 inserted “or in certain helicopters” after “museums” in heading and “or is used in a helicopter for a purpose described in section 4041(<i>l</i>),” after “section 4041(h)(2)(C),” in text.
 
-1980—Subsecs. (a), (b)(1), (c), (d), (e)(1). Pub. L. 96–223, §232(d)(4)(B), substituted “subsection (i)” for “subsection (h)”.
+<b>1980</b>—Subsecs. (a), (b)(1), (c), (d), (e)(1). Pub. L. 96–223, §232(d)(4)(B), substituted “subsection (i)” for “subsection (h)”.
 
 Subsec. (e)(3). Pub. L. 96–541 extended subsec. (e) termination date to Dec. 31, 1982, from Dec. 31, 1980.
 
@@ -936,7 +942,7 @@ Subsec. (i). Pub. L. 96–223, §232(d)(1)(A), (4)(D), redesignated former subse
 
 Subsecs. (j), (k). Pub. L. 96–223, §232(d)(1)(A), redesignated former subsecs. (i) and (j) as (j) and (k), respectively.
 
-1978—Subsec. (a). Pub. L. 95–599, §505(c)(2), substituted “subsection (h)” for “subsection (g)”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–599, §505(c)(2), substituted “subsection (h)” for “subsection (g)”.
 
 Subsec. (b). Pub. L. 95–618, among other changes, provided for the refund or credit of the taxes paid on fuel pursuant to section 4041(a) or (b) but only to the extent such fuel is used in a bus engaged in furnishing (for compensation) passenger land transportation available to the general public or in school bus transportation operations.
 
@@ -952,7 +958,7 @@ Pub. L. 95–599, §505(c)(2), substituted “subsection (h)” for “subsectio
 
 Subsec. (e). Pub. L. 95–599, §505(a)(2), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-Subsec. (f). Pub. L. 95–599, §505(a)(1), (b), (c)(3), redesignated former subsec. (e) as (f) and, in par. (1), substituted “(d), or (e)” for “or (d)” and amended par. (2) generally, designating existing provisions as subpars.\(A)(i) and (c) and adding subpars. (A)(ii) and (B). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 95–599, §505(a)(1), (b), (c)(3), redesignated former subsec. (e) as (f) and, in par. (1), substituted “(d), or (e)” for “or (d)” and amended par. (2) generally, designating existing provisions as subpars. (A)(i) and (c) and adding subpars. (A)(ii) and (B). Former subsec. (f) redesignated (g).
 
 Subsec. (g). Pub. L. 95–599, §505(a)(1), redesignated former subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
@@ -960,7 +966,7 @@ Subsec. (h). Pub. L. 95–599, §505(a)(1), (c)(4), redesignated former subsec. 
 
 Subsecs. (i), (j). Pub. L. 95–599, §505(a)(1), redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 
-1976—Subsec. (a). Pub. L. 94–530, §1(c)(2), substituted “subsection (g)” for “subsection (f)”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–530, §1(c)(2), substituted “subsection (g)” for “subsection (f)”.
 
 Pub. L. 94–455, §1906(a)(31)(A), (b)(13)(A), struck out “, after June 30, 1970,” after “sale of any fuel and” and “or his delegate” after “Secretary”.
 
@@ -987,6 +993,14 @@ Subsec. (g). Pub. L. 94–530, §1(b), (c)(5), redesignated former subsec. (f) a
 Subsecs. (h), (i). Pub. L. 94–530, §1(b), redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
 Subsec. (h). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 701(b)(2) of Pub. L. 111–312 applicable to fuel sold or used after Dec. 31, 2009, see section 701(d) of Pub. L. 111–312, set out as a note under section 40A of this title.
+
+Amendment by section 704(a) of Pub. L. 111–312 applicable to fuel sold or used after Dec. 31, 2009, see section 704(d) of Pub. L. 111–312, set out as a note under section 6426 of this title.
+
+Pub. L. 111–312, title VII, §708(c)(2), Dec. 17, 2010, 124 Stat. 3312, provided that: “The amendment made by this subsection \[amending this section\] shall apply to sales and uses after December 31, 2010.”
 
 #### Effective Date of 2008 Amendment
 
@@ -1066,7 +1080,7 @@ Amendment by section 1703(k) of Pub. L. 104–188 effective as if included in th
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 13241(f)(8)–(10) of Pub. L. 103–66 effective Oct. 1, 1993, see section 13241(g) of Pub. L. 103–66, set out as a note under section 4041 of this title.
+Amendment by section 13241(f)(8)–(10) of Pub. L. 103–66 effective Oct. 1, 1993, see section 13241(g) of Pub.L. 103–66, set out as a note under section 4041 of this title.
 
 Amendment by section 13242(c), (d)(21), (25)–(31) of Pub. L. 103–66 effective Jan. 1, 1994, see section 13242(e) of Pub. L. 103–66, set out as a note under section 4041 of this title.
 

@@ -8,8 +8,6 @@ To the extent that the Administrator of the Environmental Protection Agency deem
 
 The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title XIV of the Public Health Service Act is classified generally to this subchapter (§300f et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
-The civil service laws, referred to in text, are set out in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 #### Codification
 
 Section was enacted as part of the Safe Drinking Water Amendments of 1977, and not as part of the Public Health Service Act which comprises this chapter.

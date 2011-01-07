@@ -14,11 +14,11 @@ This chapter may be cited as the “Self-Employment Contributions Act of 1954”
 
 #### Amendments
 
-1984—Subsec. (b)(3). Pub. L. 98–369 struck out par. (3) referring to section 6015 for provisions relating to declarations of estimated tax on self-employment income.
+<b>1984</b>—Subsec. (b)(3). Pub. L. 98–369 struck out par. (3) referring to section 6015 for provisions relating to declarations of estimated tax on self-employment income.
 
-1966—Subsec. (b)(3). Pub. L. 89–368 added par. (3).
+<b>1966</b>—Subsec. (b)(3). Pub. L. 89–368 added par. (3).
 
-1960—Subsec. (b)(2). Pub. L. 86–778 included Guam and American Samoa.
+<b>1960</b>—Subsec. (b)(2). Pub. L. 86–778 included Guam and American Samoa.
 
 #### Effective Date of 1984 Amendment
 

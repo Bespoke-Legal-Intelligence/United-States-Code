@@ -104,7 +104,7 @@ For purposes of this section—
 
 No credit shall be allowed under this section to any nonresident alien.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 15, §37; Aug. 9, 1955, ch. 659, §1, 69 Stat. 591; Jan. 28, 1956, ch. 17, §1, 70 Stat. 8; Pub. L. 87–792, §7(a), Oct. 10, 1962, 76 Stat. 828; Pub. L. 87–876, §1, Oct. 24, 1962, 76 Stat. 1199; Pub. L. 88–272, title I, §113(a), title II, §§201(d)(3), 202(a), Feb. 26, 1964, 78 Stat. 24, 32, 33; Pub. L. 93–406, title II, §2002(g)(1), Sept. 2, 1974, 88 Stat. 968; Pub. L. 94–455, title V, §503(a), titleXIX, §1901(c)(1), Oct. 4, 1976, 90 Stat. 1559, 1803; Pub. L. 95–600, title VII, §§701(a)(1)–(3), 703(j)(11), Nov. 6, 1978, 92 Stat. 2897, 2942; Pub. L. 96–222, title I, §107(a)(1)(E)(i), Apr. 1, 1980, 94 Stat. 222; Pub. L. 97–34, title I, §111(b)(4), Aug. 13, 1981, 95 Stat. 194; Pub. L. 98–21, title I, §122(a), Apr. 20, 1983, 97 Stat. 85; renumbered §22 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(d), July 18, 1984, 98 Stat. 826, 830; Pub. L. 99–514, title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2658.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 15, §37; Aug. 9, 1955, ch. 659, §1, 69 Stat. 591; Jan. 28, 1956, ch. 17, §1, 70 Stat. 8; Pub. L. 87–792, §7(a), Oct. 10, 1962, 76 Stat. 828; Pub. L. 87–876, §1, Oct. 24, 1962, 76 Stat. 1199; Pub. L. 88–272, title I, §113(a), title II, §§201(d)(3), 202(a), Feb. 26, 1964, 78 Stat. 24, 32, 33; Pub. L. 93–406, title II, §2002(g)(1), Sept. 2, 1974, 88 Stat. 968; Pub. L. 94–455, title V, §503(a), title XIX, §1901(c)(1), Oct. 4, 1976, 90 Stat. 1559, 1803; Pub. L. 95–600, title VII, §§701(a)(1)–(3), 703(j)(11), Nov. 6, 1978, 92 Stat. 2897, 2942; Pub. L. 96–222, title I, §107(a)(1)(E)(i), Apr. 1, 1980, 94 Stat. 222; Pub. L. 97–34, title I, §111(b)(4), Aug. 13, 1981, 95 Stat. 194; Pub. L. 98–21, title I, §122(a), Apr. 20, 1983, 97 Stat. 85; renumbered §22 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(d), July 18, 1984, 98 Stat. 826, 830; Pub. L. 99–514, title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2658.)
 
 #### References in Text
 
@@ -114,9 +114,9 @@ The Railroad Retirement Act of 1974, referred to in subsec. (c)(3)(A)(i)(II), is
 
 #### Amendments
 
-1986—Subsec. (e)(2). Pub. L. 99–514 substituted “section 7703” for “section 143”.
+<b>1986</b>—Subsec. (e)(2). Pub. L. 99–514 substituted “section 7703” for “section 143”.
 
-1984—Pub. L. 98–369, §471(c), renumbered section 37 of this title as this section.
+<b>1984</b>—Pub. L. 98–369, §471(c), renumbered section 37 of this title as this section.
 
 Subsec. (a). Pub. L. 98–369, §474(d)(1), substituted “section 22 amount” for “section 37 amount”.
 
@@ -126,7 +126,7 @@ Subsec. (c)(1). Pub. L. 98–369, §474(d)(1), substituted “section 22 amount�
 
 Subsec. (d). Pub. L. 98–369, §474(d)(3), amended subsec. (d) generally, striking out heading “Limitations” and designation “(1)” before “Adjusted gross income limitation” thereby making existing par. (1) the entire subsec. (d), redesignating existing subpars. (A), (B), and (C) as pars. (1), (2), and (3), respectively, and striking out provisions, formerly comprising par. (2), which had limited the amount of the credit allowed by this section for the taxable year to the amount of the tax imposed by this chapter for such taxable year.
 
-1983—Pub. L. 98–21 inserted reference to permanently and totally disabled in section catchline.
+<b>1983</b>—Pub. L. 98–21 inserted reference to permanently and totally disabled in section catchline.
 
 Subsec. (a). Pub. L. 98–21 amended subsec. (a) generally, substituting reference to a qualified individual for reference to an individual who has attained the age of 65 before the close of the taxable year.
 
@@ -140,9 +140,9 @@ Subsec. (e). Pub. L. 98–21 in amending section generally, redesignated former 
 
 Subsec. (f). Pub. L. 98–21 reenacted subsec. (f) without change.
 
-1981—Subsec. (e)(9)(B). Pub. L. 97–34 substituted “section 911(d)(2)” for “section 911(b)”.
+<b>1981</b>—Subsec. (e)(9)(B). Pub. L. 97–34 substituted “section 911(d)(2)” for “section 911(b)”.
 
-1978—Subsec. (e)(2). Pub. L. 95–600, §701(a)(1), inserted “(and whose gross income includes income described in paragraph (4)(B))” after “who has not attained age 65 before the close of the taxable year”.
+<b>1978</b>—Subsec. (e)(2). Pub. L. 95–600, §701(a)(1), inserted “(and whose gross income includes income described in paragraph (4)(B))” after “who has not attained age 65 before the close of the taxable year”.
 
 Subsec. (e)(4)(B). Pub. L. 95–600, §701(a)(2), (3)(B), as amended by Pub. L. 96–222, §107(a)(1)(E)(i), inserted “and who performed the services giving rise to the pension or annuity (or is the spouse of the individual who performed the services)” after “before the close of the taxable year” and substituted reference to paragraph (9)(A) for reference to paragraph (8)(A).
 
@@ -150,23 +150,23 @@ Subsec. (e)(5)(B). Pub. L. 95–600, §701(a)(3)(C), as amended by Pub. L. 96–
 
 Subsec. (e)(8), (9). Pub. L. 95–600, §701(a)(3)(A), as amended by Pub. L. 96–222, §107(a)(1)(E)(i), added par. (8) and redesignated former par. (8) as (9).
 
-1976—Pub. L. 94–455, §503(a), among other changes, substituted “Credits for the elderly” for “Retirement income” in section catchline and in text substituted provisions permitting taxpayers who have all types of income to be eligible for the tax credit for provisions permitting taxpayers who have only retirement income to be eligible for the tax credit, eliminated provisions requiring taxpayers to earn $600 for the previous ten years for tax credit eligibility and provisions relating variations in treatment of married couples, and inserted provisions broadening coverage of the tax credit relief to low and middle income taxpayers.
+<b>1976</b>—Pub. L. 94–455, §503(a), among other changes, substituted “Credits for the elderly” for “Retirement income” in section catchline and in text substituted provisions permitting taxpayers who have all types of income to be eligible for the tax credit for provisions permitting taxpayers who have only retirement income to be eligible for the tax credit, eliminated provisions requiring taxpayers to earn $600 for the previous ten years for tax credit eligibility and provisions relating variations in treatment of married couples, and inserted provisions broadening coverage of the tax credit relief to low and middle income taxpayers.
 
 Pub. L. 94–455, §1901(c)(1), purported to amend subsec. (f) of this section by striking out “a Territory”. The amendment could not be executed in view of the prior general amendment of this section by section 503(a) of Pub. L. 94–455. Section 1901(c)(1) was repealed by section 703(j)(11) of Pub. L. 95–600.
 
-1974—Subsec. (c)(1)(E), (F). Pub. L. 93–406 inserted reference in subpar. (E) to retirement bonds described in section 409 and added subpar. (F).
+<b>1974</b>—Subsec. (c)(1)(E), (F). Pub. L. 93–406 inserted reference in subpar. (E) to retirement bonds described in section 409 and added subpar. (F).
 
-1964—Subsec. (a). Pub. L. 88–272, §§113(a), 201(d)(3), substituted “an amount equal to 17 percent, in the case of a taxable year beginning in 1964, or 15 percent, in the case of a taxable year beginning after December 31, 1964, of the amount received by such individual as retirement income (as defined in subsection (c) and as limited by subsection (d));” for “an amount equal to the amount received by such individual as retirement income (as defined in subsection (c) and as limited by subsection (d)), multiplied by the rate provided in section 1 for the first $2,000 of taxable income;”, and struck out “section 34 (relating to credit for dividends received by individuals)”, before “and section 35”.
+<b>1964</b>—Subsec. (a). Pub. L. 88–272, §§113(a), 201(d)(3), substituted “an amount equal to 17 percent, in the case of a taxable year beginning in 1964, or 15 percent, in the case of a taxable year beginning after December 31, 1964, of the amount received by such individual as retirement income (as defined in subsection (c) and as limited by subsection (d));” for “an amount equal to the amount received by such individual as retirement income (as defined in subsection (c) and as limited by subsection (d)), multiplied by the rate provided in section 1 for the first $2,000 of taxable income;”, and struck out “section 34 (relating to credit for dividends received by individuals)”, before “and section 35”.
 
 Subsecs. (i), (j). Pub. L. 88–272, §202(a), added subsec. (i) and redesignated former subsec. (i) as (j).
 
-1962—Subsec. (c)(1). Pub. L. 87–792 inserted provisions in subpar. (A) requiring inclusion, in the case of an individual who is, or has been, an employee within the meaning of section 401(c)(1), distributions by a trust described in section 401(a) which is exempt from tax under section 501(a), and added subpar. (E).
+<b>1962</b>—Subsec. (c)(1). Pub. L. 87–792 inserted provisions in subpar. (A) requiring inclusion, in the case of an individual who is, or has been, an employee within the meaning of section 401(c)(1), distributions by a trust described in section 401(a) which is exempt from tax under section 501(a), and added subpar. (E).
 
 Subsec. (d). Pub. L. 87–876 increased the limit on retirement income from $1,200 to $1,524, lowered the age requirement in par. (2)(A) from 65 to 62, and substituted provisions in par. (2)(B) which reduce the amount of retirement income for individuals who reach age 62, by one-half the amount of earned income in excess of $1,200 but not in excess of $1,700, and by the amount received over $1,700, for provisions which reduced such income by the amount earned over $1,200 by persons having reached age 65, and which defined income as in subsec. (g) of this section.
 
-1956—Subsec. (d)(2). Act Jan. 28, 1956, reduced from 75 to 72 the age at which there will be no limitation on earned income and increased from $900 to $1,200 the amount that an individual over 65 can earn without reducing the $1,200 on which the retirement credit is computed.
+<b>1956</b>—Subsec. (d)(2). Act Jan. 28, 1956, reduced from 75 to 72 the age at which there will be no limitation on earned income and increased from $900 to $1,200 the amount that an individual over 65 can earn without reducing the $1,200 on which the retirement credit is computed.
 
-1955—Subsec. (f). Act Aug. 9, 1955, extended the retirement income tax credit to members of the Armed Forces.
+<b>1955</b>—Subsec. (f). Act Aug. 9, 1955, extended the retirement income tax credit to members of the Armed Forces.
 
 #### Effective Date of 1986 Amendment
 
@@ -212,7 +212,7 @@ Amendment by Pub. L. 93–406 effective Jan. 1, 1974, see section 2002(i)(2) of 
 
 Amendment by section 113(a) of Pub. L. 88–272, except for purposes of section 21 \[now 15\] of this title, effective with respect to taxable years beginning after Dec. 31, 1963, see section 131 of Pub. L. 88–272, set out as a note under section 1 of this title.
 
-Section 201(e) of Pub. L. 88–272 provided that: “The amendments made by subsection (a) \[amending section 34 of this title\] shall apply with respect to taxable years ending after December 31, 1963. The amendment made by subsection (b) \[repealing section 34 of this title\] shall apply with respect to taxable years ending after December 31, 1964. The amendment made by subsection (c) \[amending section 116 of this title\] shall apply with respect to taxable years beginning after December 31, 1963. The amendments made by subsection (d) \[amending sections 35, 37 \[now 22\], 46, 116, 584, 642, 702, 854, 857, 871, 1375, and 6014 of this title\] shall apply with respect to dividends received after December 31, 1964, in taxable years ending after such date”.
+Section 201(e) of Pub. L. 88–272 provided that: “The amendments made by subsection (a) \[amending section 34 of this title\] shall apply with respect to taxable years ending after December 31, 1963. The amendment made by subsection (b) \[repealing section 34 of this title\] shall apply with respect to taxable years ending after December 31, 1964. The amendment made by subsection (c) \[amending section 116 of this title\] shall apply with respect to taxable years beginning after December 31, 1963. The amendments made by subsection (d) \[amending sections 35, 37 \[now 22\], 46, 116, 584, 642, 702, 854, 857, 871, 1375, and 6014 of this title\] shall applywith respect to dividends received after December 31, 1964, in taxable years ending after such date”.
 
 Section 202(b) of Pub. L. 88–272 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1963.”
 

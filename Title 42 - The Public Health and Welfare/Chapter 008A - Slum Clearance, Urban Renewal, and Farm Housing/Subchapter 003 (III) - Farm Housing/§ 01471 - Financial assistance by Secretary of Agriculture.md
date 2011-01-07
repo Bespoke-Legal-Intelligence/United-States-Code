@@ -2,7 +2,7 @@
 
 #### (a) Authorization and purposes of assistance
 
-The Secretary of Agriculture (hereinafter referred to as the “Secretary”) is authorized, subject to the terms and conditions of this subchapter, to extend financial assistance, through the Farmers Home Administration, (1) to owners of farms in the United States and in the Territories of Alaska and Hawaii and in the Commonwealth of Puerto Rico, the Virgin Islands, the territories and possessions of the United States, and the Trust Territory of the Pacific Islands, to enable them to construct, improve, alter, repair, or replace dwellings and other farm buildings ontheir farms, and to purchase buildings and land constituting a minimum adequate site, in order to provide them, their tenants, lessees, sharecroppers, and laborers with decent, safe, and sanitary living conditions and adequate farm buildings as specified in this subchapter, and (2) to owners of other real estate in rural areas for the construction, improvement, alteration, or repair of dwellings, related facilities, and farm buildings and to rural residents, including persons who reside in reservations or villages of Indian tribes, for such purposes and for the purchase of buildings and the purchase of land constituting a minimum adequate site, in order to enable them to provide dwellings and related facilities for their own use and buildings adequate for their farming operations, and (3) to elderly or handicapped persons or families who are or will be the owners of land in rural areas for the construction, improvement, alteration, or repair of dwellings and related facilities, the purchase of dwellings and related facilities and the purchase of land constituting a minimum adequate site, in order to provide them with adequate dwellings and related facilities for their own use, and (4) to an owner described in clause (1), (2), or (3) for refinancing indebtedness which—
+The Secretary of Agriculture (hereinafter referred to as the “Secretary”) is authorized, subject to the terms and conditions of this subchapter, to extend financial assistance, through the Farmers Home Administration, (1) to owners of farms in the United States and in the Territories of Alaska and Hawaii and in the Commonwealth of Puerto Rico, the Virgin Islands, the territories and possessions of the United States, and the Trust Territory of the Pacific Islands, to enable them to construct, improve, alter, repair, or replace dwellings and other farm buildings on their farms, and to purchase buildings and land constituting a minimum adequate site, in order to provide them, their tenants, lessees, sharecroppers, and laborers with decent, safe, and sanitary living conditions and adequate farm buildings as specified in this subchapter, and (2) to owners of other real estate in rural areas for the construction, improvement, alteration, or repair of dwellings, related facilities, and farm buildings and to rural residents, including persons who reside in reservations or villages of Indian tribes, for such purposes and for the purchase of buildings and the purchase of land constituting a minimum adequate site, in order to enable them to provide dwellings and related facilities for their own use and buildings adequate for their farming operations, and (3) to elderly or handicapped persons or families who are or will be the owners of land in rural areas for the construction, improvement, alteration, or repair of dwellings and related facilities, the purchase of dwellings and related facilities and the purchase of land constituting a minimum adequate site, in order to provide them with adequate dwellings and related facilities for their own use, and (4) to an owner described in clause (1), (2), or (3) for refinancing indebtedness which—
 
 &emsp;(A) was incurred for an eligible purpose described in such clause, and
 
@@ -22,11 +22,11 @@ Definitions.—For purposes of this subchapter, the terms “repair”, “repai
 
 (3) For the purposes of this subchapter, the term “elderly or handicapped persons or families” means families which consist of two or more persons, the head of which (or his or her spouse) is at least sixty-two years of age or is handicapped. Such term also means a single person who is at least sixty-two years of age or is handicapped. A person shall be considered handicapped if such person is determined, pursuant to regulations issued by the Secretary, to have an impairment which (A) is expected to be of long-continued and indefinite duration, (B) substantially impedes his ability to live independently, and (C) is of such a nature that such ability could be improved by more suitable housing conditions, or if such person has a developmental disability as defined in section 15002 of this title. The Secretary shall prescribe such regulations as may be necessary to prevent abuses in determining, under the definitions contained in this paragraph, eligibility of families and persons for admission to and occupancy of housing constructed with assistance under this subchapter. Notwithstanding the preceding provisions of this paragraph, such term also includes two or more elderly (sixty-two years of age or over) or handicapped persons living together, one or more such persons living with another person who is determined (under regulations prescribed by the Secretary) to be essential to the care or well-being of such persons, and the surviving member or members of any family described in the first sentence of this paragraph who were living, in a unit assisted under this subchapter, with the deceased member of the family at the time of his or her death.
 
-(4) For the purpose of this subchapter, the terms “low income families or persons” and “very low-income families or persons” means those families and persons whose incomes do not exceed the respective levels established for lower income families and very low-income families under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\]. Notwithstanding the preceding sentence, the maximum income levels established for purposes of this subchapter for such families and persons in the Virgin Islands shall not be less than the highest such levels established for purposes of this subchapter for such families and persons in American Samoa, Guam, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. The temporary absence of a child from the home due to placement in foster care should not be considered in considering family composition and family size.
+(4) For the purpose of this subchapter, the terms “low income families or persons” and “very low-income families or persons” means those families and persons whose incomes do not exceed the respective levels established for lower income families and very low-income families under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\]. Notwithstanding the preceding sentence, the maximum income levels established for purposes of this subchapter forsuch families and persons in the Virgin Islands shall not be less than the highest such levels established for purposes of this subchapter for such families and persons in American Samoa, Guam, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. The temporary absence of a child from the home due to placement in foster care should not be considered in considering family composition and family size.
 
 (5)(A) For the purpose of this subchapter, the terms “income” and “adjusted income” have the meanings given by sections 3(b)(4) and 3(b)(5), respectively, of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)(4), (5)\].
 
-(B) For purposes of this subchapter, the term “income” does not include dividends received from the Alaska Permanent Fund by a personwho was under the age of 18 years when that person qualified for the dividend.
+(B) For purposes of this subchapter, the term “income” does not include dividends received from the Alaska Permanent Fund by a person who was under the age of 18 years when that person qualified for the dividend.
 
 (6) For the purposes of this subchapter, the term “Indian tribe” means any Indian tribe, band, group, and nation, including Alaska Indians, Aleuts, and Eskimos, and any Alaskan Native Village, of the United States, which is considered an eligible recipient under the Indian Self-Determination and Education Assistance Act (Public Law 93–638) \[25 U.S.C. 450 et seq.\] or was considered an eligible recipient under chapter 67 of title 31 prior to the repeal of such chapter.
 
@@ -70,7 +70,7 @@ For the purposes of this subchapter, the term “development cost” shall inclu
 
 Notwithstanding any other provision of law, the Secretary shall not transfer any program authorized by this subchapter to the Rural Development Administration.
 
-(July 15, 1949, ch. 338, title V, §501, 63 Stat. 432; Pub. L. 87–70, title VIII, §§801(a), 803, June 30, 1961, 75 Stat. 186; Pub. L. 87–723, §4(a)(1), Sept. 28, 1962, 76 Stat. 670; Pub. L. 89–117, title X, §1001, Aug. 10, 1965, 79 Stat. 497; Pub. L. 89–754, title VIII, §§801, 807, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 91–609, title VIII, §802, Dec. 31, 1970, 84 Stat. 1806; Pub. L. 93–383, title V, §§501–503, 505(a), 520, Aug. 22, 1974, 88 Stat. 692, 693, 699; Pub. L. 95–128, title V, §§503, 507(a)(1), (2), (b), Oct. 12, 1977, 91 Stat.1139–1141; Pub. L. 95–619, title II, §248(c), Nov. 9, 1978, 92 Stat. 3235; Pub. L. 96–153, title V, §§502(b), 506, Dec. 21, 1979, 93 Stat. 1134, 1136; Pub. L. 96–399, title V, §§506, 507(a), (h), 512, Oct. 8, 1980, 94 Stat. 1669–1671; Pub. L. 98–181, title V, §502, Nov. 30, 1983, 97 Stat. 1240; Pub. L. 98–479, title I, §105(a), title II, §203(d)(3), Oct. 17, 1984, 98 Stat. 2226, 2229; Pub. L. 99–272, title XIV, §14001(b)(3), Apr. 7, 1986, 100 Stat. 328; Pub. L. 100–242, title III, §§302(a), (b)(1), 303, 315, 316(a), Feb. 5, 1988, 101 Stat. 1893, 1894, 1897; Pub. L. 101–625, title VII, §§702, 703, Nov. 28, 1990, 104 Stat. 4282, 4283; Pub. L. 102–550, title VII, §714, title X, §1012(m), Oct. 28, 1992, 106 Stat. 3842, 3907; Pub. L. 104–193, title IV, §441(b), Aug. 22, 1996, 110 Stat. 2276; Pub. L. 106–402, title IV, §401(b)(8), Oct. 30, 2000, 114 Stat. 1738; Pub. L. 107–76, title VII, §752, Nov. 28, 2001, 115 Stat. 740; Pub. L. 108–199, div. A, title VII, §768, Jan. 23, 2004, 118 Stat. 40.)
+(July 15, 1949, ch. 338, title V, §501, 63 Stat. 432; Pub. L. 87–70, title VIII, §§801(a), 803, June 30, 1961, 75 Stat. 186; Pub. L. 87–723, §4(a)(1), Sept. 28, 1962, 76 Stat. 670; Pub. L. 89–117, title X, §1001, Aug. 10, 1965, 79 Stat. 497; Pub. L. 89–754, title VIII, §§801, 807, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 91–609, title VIII, §802, Dec. 31, 1970, 84 Stat. 1806; Pub. L. 93–383, title V, §§501–503, 505(a), 520, Aug. 22, 1974, 88 Stat. 692, 693, 699; Pub. L. 95–128, title V, §§503, 507(a)(1), (2), (b), Oct. 12, 1977, 91 Stat. 1139–1141; Pub. L. 95–619, title II, §248(c), Nov. 9, 1978, 92 Stat. 3235; Pub. L. 96–153, title V, §§502(b), 506, Dec. 21, 1979, 93 Stat. 1134, 1136; Pub. L. 96–399, title V, §§506, 507(a), (h), 512, Oct. 8, 1980, 94 Stat. 1669–1671; Pub. L. 98–181, title V, §502, Nov. 30, 1983, 97 Stat. 1240; Pub. L. 98–479, title I, §105(a), title II, §203(d)(3), Oct. 17, 1984, 98 Stat. 2226, 2229; Pub. L. 99–272, title XIV, §14001(b)(3), Apr. 7, 1986, 100 Stat. 328; Pub. L. 100–242, title III, §§302(a), (b)(1), 303, 315, 316(a), Feb. 5, 1988, 101 Stat. 1893, 1894, 1897; Pub. L. 101–625, title VII, §§702, 703, Nov. 28, 1990, 104 Stat. 4282, 4283; Pub. L. 102–550, title VII, §714, title X, §1012(m), Oct. 28, 1992, 106 Stat. 3842, 3907; Pub. L. 104–193, title IV, §441(b), Aug. 22, 1996, 110 Stat. 2276; Pub. L. 106–402, title IV, §401(b)(8), Oct. 30, 2000, 114 Stat. 1738; Pub. L. 107–76, title VII, §752, Nov. 28, 2001, 115 Stat. 740; Pub. L. 108–199, div. A, title VII, §768, Jan. 23, 2004, 118 Stat. 40.)
 
 #### References in Text
 
@@ -82,23 +82,23 @@ Chapter 67 of title 31, referred to in subsec. (b)(6), was repealed by Pub. L. 9
 
 #### Amendments
 
-2004—Subsec. (b)(5)(B). Pub. L. 108–199 struck out “for fiscal years 2002 and 2003,” after “this subchapter,”.
+<b>2004</b>—Subsec. (b)(5)(B). Pub. L. 108–199 struck out “for fiscal years 2002 and 2003,” after “this subchapter,”.
 
-2001—Subsec. (b)(5). Pub. L. 107–76 designated existing provisions as subpar. (A) and added subpar. (B).
+<b>2001</b>—Subsec. (b)(5). Pub. L. 107–76 designated existing provisions as subpar. (A) and added subpar. (B).
 
-2000—Subsec. (b)(3). Pub. L. 106–402 substituted “developmental disability as defined in section 15002 of this title” for “developmental disability as defined in section 6001(7) of this title”.
+<b>2000</b>—Subsec. (b)(3). Pub. L. 106–402 substituted “developmental disability as defined in section 15002 of this title” for “developmental disability as defined in section 6001(7) of this title”.
 
-1996—Subsec. (h). Pub. L. 104–193 struck out par. (1) designation, struck out “by the Secretary of Housing and Urban Development” before “under section 1436a of this title”, and struck out par. (2) which read as follows: “In carrying out any restriction established by the Secretary on the availability of assistance under this subchapter for any alien, the Secretary shall follow procedures comparable to the procedures established in section 1436a of this title.”
+<b>1996</b>—Subsec. (h). Pub. L. 104–193 struck out par. (1) designation, struck out “by the Secretary of Housing and Urban Development” before “under section 1436a of this title”, and struck out par. (2) which read as follows: “In carrying out any restriction established by the Secretary on the availability of assistance under this subchapter for any alien, the Secretary shall follow procedures comparable to the procedures established in section 1436a of this title.”
 
-1992—Subsec. (a). Pub. L. 102–550, §1012(m), added par. (5).
+<b>1992</b>—Subsec. (a). Pub. L. 102–550, §1012(m), added par. (5).
 
 Subsec. (j). Pub. L. 102–550, §714, added subsec. (j).
 
-1990—Subsec. (b)(4). Pub. L. 101–625, §702, inserted at end “The temporary absence of a child from the home due to placement in foster care should not be considered in considering family composition and family size.”
+<b>1990</b>—Subsec. (b)(4). Pub. L. 101–625, §702, inserted at end “The temporary absence of a child from the home due to placement in foster care should not be considered in considering family composition and family size.”
 
 Subsec. (e). Pub. L. 101–625, §703, inserted after third sentence “The Secretary shall pay the same rate of interest on escrowed funds as is required to be paid on escrowed funds held by other lenders in any State where State law requires payment of interest on escrowed funds, subject to appropriations to the extent that additional budget authority is necessary to carry out this sentence.”
 
-1988—Subsec. (b)(3). Pub. L. 100–242, §316(a), substituted “has a developmental disability as defined in section 6001(7) of this title” for “is a developmentally disabled individual as defined in section 6001(7) of this title”.
+<b>1988</b>—Subsec. (b)(3). Pub. L. 100–242, §316(a), substituted “has a developmental disability as defined in section 6001(7) of this title” for “is a developmentally disabled individual as defined in section 6001(7) of this title”.
 
 Subsec. (b)(4). Pub. L. 100–242, §302(b)(1), inserted provisions at end relating to maximum income levels established for families and persons in the Virgin Islands to be not less than the highest such levels established for families and persons in American Samoa, Guam, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
 
@@ -108,17 +108,17 @@ Subsec. (h). Pub. L. 100–242, §302(a), added subsec. (h).
 
 Subsec. (i). Pub. L. 100–242, §315, added subsec. (i).
 
-1986—Subsec. (b)(6). Pub. L. 99–272 substituted “or was considered an eligible recipient under chapter 67 of title 31 prior to the repeal of such chapter” for “or under chapter 67 of title 31”.
+<b>1986</b>—Subsec. (b)(6). Pub. L. 99–272 substituted “or was considered an eligible recipient under chapter 67 of title 31 prior to the repeal of such chapter” for “or under chapter 67 of title 31”.
 
-1984—Subsec. (b)(4). Pub. L. 98–479, §105(a), struck out “by the Secretary of Housing and Urban Development” before “under the United States Housing Act of 1937.”
+<b>1984</b>—Subsec. (b)(4). Pub. L. 98–479, §105(a), struck out “by the Secretary of Housing and Urban Development” before “under the United States Housing Act of 1937.”
 
 Subsec. (b)(6). Pub. L. 98–479, §203(d)(3), substituted “chapter 67 of title 31” for “the State and Local Fiscal Assistance Act of 1972 (Public Law 92–512)”.
 
-1983—Subsec. (b)(4). Pub. L. 98–181, §502(a), amended par. (4) generally, substituting definition of low and very low-income families or persons as those whose incomes do not exceed levels established by the Secretary under the United States Housing Act of 1937 for definition of persons of low income as those whose incomes do not exceed 80 per centum of the area median income, except when it is impracticable to use such median income or variations are necessary because of other factors.
+<b>1983</b>—Subsec. (b)(4). Pub. L. 98–181, §502(a), amended par. (4) generally, substituting definition of low and very low-income families or persons as those whose incomes do not exceed levels established by the Secretary under the United States Housing Act of 1937 for definition of persons of low income as those whose incomes do not exceed 80 per centum of the area median income, except when it is impracticable to use such median income or variations are necessary because of other factors.
 
 Subsec. (b)(5). Pub. L. 98–181, §502(b), amended par. (5) generally, substituting definition of income and adjusted income as having the meanings given by sections 3(b)(4) and 3(b)(5) of the United States Housing Act of 1937 for definition of income as income from all sources of each household member, as determined in accordance with criteria prescribed by the Secretary.
 
-1980—Subsec. (a)(2). Pub. L. 96–399, §507(a), inserted reference to persons residing in reservations or villages of Indian tribes.
+<b>1980</b>—Subsec. (a)(2). Pub. L. 96–399, §507(a), inserted reference to persons residing in reservations or villages of Indian tribes.
 
 Subsec. (b)(6) to (8). Pub. L. 96–399, §506, added pars. (6) to (8).
 
@@ -126,21 +126,21 @@ Subsec. (c). Pub. L. 96–399, §507(h), inserted “or Indian tribe” after �
 
 Subsec. (g). Pub. L. 96–399, §512, added subsec. (g).
 
-1979—Subsec. (a)(4). Pub. L. 96–153, §506, redesignated former subpar. (B) as (B)(i) and (ii), and in subpar. (B)(i) as so redesignated, inserted reference to circumstances beyond the applicant's control, and in subpar. (B)(ii) as so redesignated, substituted reference to deprivation of decent, safe, and sanitary dwelling for reference to continuing hardship, and struck out subpar. (C) which authorized refinancing indebtedness provided the indebtedness was incurred at least 5 years prior to the application for assistance.
+<b>1979</b>—Subsec. (a)(4). Pub. L. 96–153, §506, redesignated former subpar. (B) as (B)(i) and (ii), and in subpar. (B)(i) as so redesignated, inserted reference to circumstances beyond the applicant's control, and in subpar. (B)(ii) as so redesignated, substituted reference to deprivation of decent, safe, and sanitary dwelling for reference to continuing hardship, and struck out subpar. (C) which authorized refinancing indebtedness provided the indebtedness was incurred at least 5 years prior to the application for assistance.
 
 Subsec. (b)(4), (5). Pub. L. 96–153, §502(b), added pars. (4) and (5).
 
-1978—Subsec. (f). Pub. L. 95–619 added subsec. (f).
+<b>1978</b>—Subsec. (f). Pub. L. 95–619 added subsec. (f).
 
-1977—Subsec. (a)(3). Pub. L. 95–128, §507(a)(1), substituted “elderly or handicapped persons or families” for “elderly persons”.
+<b>1977</b>—Subsec. (a)(3). Pub. L. 95–128, §507(a)(1), substituted “elderly or handicapped persons or families” for “elderly persons”.
 
-Subsec. (b)(3). Pub. L. 95–128, §507(b), substituted definition of “elderly or handicapped persons or families”for prior definition of “elderly persons” as persons who are 62 years of age or over.
+Subsec. (b)(3). Pub. L. 95–128, §507(b), substituted definition of “elderly or handicapped persons or families” for prior definition of “elderly persons” as persons who are 62 years of age or over.
 
 Subsec. (c)(1). Pub. L. 95–128, §507(a)(2), substituted “the applicant is an elderly or handicapped person or family in a rural area without an adequate dwelling or related facility for its own use” for “he is an elderly person in a rural area without an adequate dwelling or related facilities for his own use”.
 
 Subsec. (e). Pub. L. 95–128, §503, substituted as a second sentence “Such payments shall be disbursed by the Secretary at the appropriate time or times for the purposes for which such payments are made, and after October 1, 1977, if the prepayments made by the borrower are not sufficient to pay the amount due, advances may be made by the Secretary to pay these costs in full, which advances shall be charged to the account of the borrower and bear interest and be payable in a timely fashion not to exceed two years, as determined by the Secretary” for “Such payments shall be held in escrow by the Secretary and paid out by him at the appropriate time or times for the purposes for which such payments are made”.
 
-1974—Subsec. (a)(1). Pub. L. 93–383, §501, inserted references to the territories and possessions of the United States and the Trust Territory of the Pacific Islands.
+<b>1974</b>—Subsec. (a)(1). Pub. L. 93–383, §501, inserted references to the territories and possessions of the United States and the Trust Territory of the Pacific Islands.
 
 Subsec. (a)(4)(B). Pub. L. 93–383, §502(1), inserted provisions relating to combining of indebtedness with a loan for improvement, rehabilitation, or repairs.
 
@@ -154,25 +154,25 @@ Subsec. (c). Pub. L. 93–383, §520, inserted provisions relating to applicatio
 
 Subsec. (e). Pub. L. 93–383, §505(a), added subsec. (e).
 
-1970—Subsec. (b)(2). Pub. L. 91–609 substituted “sections 1472 and 1473 of this title, the terms ‘owner’ and ‘mortgage’ shall be deemed to include, respectively, the lessee of” for “this subchapter, the terms ‘owner’, ‘farm’, and ‘mortgage’ shall be deemed to include, respectively, the lessee of, the land included in”. The words “, the land included in” were improvidently omitted.
+<b>1970</b>—Subsec. (b)(2). Pub. L. 91–609 substituted “sections 1472 and 1473 of this title, the terms ‘owner’ and ‘mortgage’ shall be deemed to include, respectively, the lessee of” for “this subchapter, the terms ‘owner’, ‘farm’, and ‘mortgage’ shall be deemed to include, respectively, the lessee of, the land included in”. The words “, the land included in” were improvidently omitted.
 
-1966—Subsec. (a)(1) to (3). Pub. L. 89–754, §801, struck out “previously occupied” before “buildings and land” in cl. (1), “buildings and the purchase of land” in cl. (2), and “dwellings and related facilities” in cl. (3).
+<b>1966</b>—Subsec. (a)(1) to (3). Pub. L. 89–754, §801, struck out “previously occupied” before “buildings and land” in cl. (1), “buildings and the purchase of land” in cl. (2), and “dwellings and related facilities” in cl. (3).
 
 Subsec. (a)(4). Pub. L. 89–754, §807(a), added cl. (4).
 
 Subsec. (c)(1). Pub. L. 89–754, §807(b), inserted as a condition of eligibility that the applicant be the owner of a farm or other real estate in a rural area who needs refinancing of indebtedness described in subsec. (a)(4) of this section.
 
-1965—Subsec. (a). Pub. L. 89–117, §1001(a), authorized the extension of formal assistance to owners of farms to purchase previously occupied buildings and land constituting a minimum adequate site, to owners of other real estate in rural areas for the construction, improvement, alteration, or repair of dwellings, related facilities, and farm buildings, and to rural residents for such purposes and for the purchase of previously occupied buildings and the purchase of land constituting a minimum adequate site.
+<b>1965</b>—Subsec. (a). Pub. L. 89–117, §1001(a), authorized the extension of formal assistance to owners of farms to purchase previously occupied buildings and land constituting a minimum adequate site, to owners of other real estate in rural areas for the construction, improvement, alteration, or repair of dwellings, related facilities, and farm buildings, and to rural residents for such purposes and for the purchase of previously occupied buildings and the purchase of land constituting a minimum adequate site.
 
 Subsec. (c). Pub. L. 89–117, §1001(b), inserted “or a rural resident” in cl. (1) after “or that he is the owner of other real estate in a rural area”.
 
-1962—Subsec. (a)(3). Pub. L. 87–723, §4(a)(1)(A), added cl. (3).
+<b>1962</b>—Subsec. (a)(3). Pub. L. 87–723, §4(a)(1)(A), added cl. (3).
 
 Subsec. (b)(3). Pub. L. 87–723, §4(a)(1)(B), added par. (3).
 
 Subsec. (c)(1). Pub. L. 87–723, §4(a)(1)(C), inserted provisions requiring the applicant for assistance to show in the alternative that he is an elderly person in a rural area without an adequate dwelling or related facilities for his own use.
 
-1961—Subsec. (a). Pub. L. 87–70, §803(a), authorized assistance to owners of other real estate in rural areas to enable them to provide dwellings and related facilities for their own use and buildings adequate for their farming operations.
+<b>1961</b>—Subsec. (a). Pub. L. 87–70, §803(a), authorized assistance to owners of other real estate in rural areas to enable them to provide dwellings and related facilities for their own use and buildings adequate for their farming operations.
 
 Subsec. (b). Pub. L. 87–70, §801(a), designated existing provisions as par. (1) and added par. (2).
 
@@ -212,7 +212,7 @@ Report.—The Secretary of Agriculture shall prepare a report to the Congress on
 
 Failure to meet goals.—If a performance standard or goal has not been met, the report under paragraph (3) shall include an explanation of why the goal was not met, propose plans for achieving the performance goal, and recommend any legislative or regulatory changes necessary for achievement of the goal.”
 
-\[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under section 925(b)(3) of Pub. L. 102–550, set out above, is listed in item 12 on page 47), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.\]
+\[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under section 925(b)(3) of Pub. L. 102–550, set out above,is listed in item 12 on page 47), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.\]
 
 #### Admission of Alaska and Hawaii to Statehood
 

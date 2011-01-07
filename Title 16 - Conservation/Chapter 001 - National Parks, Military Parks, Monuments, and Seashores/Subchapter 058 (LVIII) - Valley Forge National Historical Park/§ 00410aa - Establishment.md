@@ -40,7 +40,7 @@ Contents and Implementation of Agreement.—An agreement entered into under subs
 
 &emsp;&emsp;“(A) The conveyance by the Society to the United States of all right, title, and interest in the museum to be constructed at Valley Forge National Historical Park.
 
-&emsp;&emsp;“(B) The Society's right to occupy and use the museum shall be for the exhibition, preservation, and interpretation of artifacts associated with the Valley Forge story and the American Revolution, to enhance the visitor experience of Valley Forge National Historical Park, and to conduct appropriately related activities of the Society consistent with its mission and with the purposes for which the Valley Forge National Historical Park was established. Such right shall not be transferred or conveyed without the express consent of the Secretary.
+&emsp;&emsp;“(B) The Society's right to occupy and use the museum shall be for the exhibition, preservation, and interpretation of artifacts associated with the Valley Forge story and the American Revolution, to enhance the visitor experience of Valley ForgeNational Historical Park, and to conduct appropriately related activities of the Society consistent with its mission and with the purposes for which the Valley Forge National Historical Park was established. Such right shall not be transferred or conveyed without the express consent of the Secretary.
 
 &emsp;&emsp;“(C) Any other terms and conditions the Secretary determines to be necessary.
 

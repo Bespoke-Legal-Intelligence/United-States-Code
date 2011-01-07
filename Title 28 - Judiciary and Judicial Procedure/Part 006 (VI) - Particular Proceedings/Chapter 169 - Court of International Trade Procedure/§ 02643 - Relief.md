@@ -36,11 +36,11 @@ Section 641 of the Tariff Act of 1930, referred to in subsec. (e), is classified
 
 #### Amendments
 
-1993—Subsec. (c)(5). Pub. L. 103–182 substituted “merchandise of a free trade area country (as defined in section 516A(f)(10) of the Tariff Act of 1930)” for “Canadian merchandise”.
+<b>1993</b>—Subsec. (c)(5). Pub. L. 103–182 substituted “merchandise of a free trade area country (as defined in section 516A(f)(10) of the Tariff Act of 1930)” for “Canadian merchandise”.
 
-1988—Subsec. (c). Pub. L. 100–449 substituted “(4), and (5)” for “and (4)” in par. (1) and added par. (5).
+<b>1988</b>—Subsec. (c). Pub. L. 100–449 substituted “(4), and (5)” for “and (4)” in par. (1) and added par. (5).
 
-1984—Subsec. (e). Pub. L. 98–573 added subsec. (e).
+<b>1984</b>—Subsec. (e). Pub. L. 98–573 added subsec. (e).
 
 #### Effective Date of 1993 Amendment
 

@@ -18,7 +18,7 @@ Except where needed for administrative purposes or to respond to an emergency, u
 
 &emsp;(1) before the effective date of a management plan prepared pursuant to section 460<i>ooo</i>–5 of this title, on roads and trails designated for use of motorized vehicles in the management plan that applies on December 6, 2000; and
 
-&emsp;(2) after the effective date of a management plan prepared pursuant to section 460<i>ooo</i>–5 of this title, on roads and trails designated for use of motor vehicles in that management plan.
+&emsp;(2) after the effective date of a management plan prepared pursuant to section 460<i>ooo</i>–5 ofthis title, on roads and trails designated for use of motor vehicles in that management plan.
 
 #### (e) Military airspace
 
@@ -48,11 +48,5 @@ Subject to valid existing rights all Federal lands within the Conservation Area 
 
 #### References in Text
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
-
-The public land laws, referred to in subsec. (j), are classified generally to Title 43, Public Lands.
-
-The mining laws and the mineral leasing laws, referred to in subsec. (j), are classified generally to Title 30, Mineral Lands and Mining.
-
-Geothermal leasing laws, referred to in subsec. (j), are classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 

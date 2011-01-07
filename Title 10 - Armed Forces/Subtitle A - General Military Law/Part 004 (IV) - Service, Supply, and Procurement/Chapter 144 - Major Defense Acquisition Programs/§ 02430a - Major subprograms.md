@@ -8,11 +8,13 @@ Authority To Designate Major Subprograms as Subject to Acquisition Reporting Req
 
 (b)
 
-Reporting Requirements.—If the Secretary designates a major subprogram of a major defense acquisition program in accordance with subsection (a), Selected Acquisition Reports, unit cost reports, and program baselines under this chapter shall reflect cost, schedule, and performance information—
+Reporting Requirements.—(1) If the Secretary designates a major subprogram of a major defense acquisition program in accordance with subsection (a), Selected Acquisition Reports, unit cost reports, and program baselines under this chapter shall reflect cost, schedule, and performance information—
 
-&emsp;(1) for the major defense acquisition program as a whole; and
+&emsp;(A) for the major defense acquisition program as a whole (other than as provided in paragraph (2)); and
 
-&emsp;(2) for each major subprogram of the major defense acquisition program so designated.
+&emsp;(B) for each major subprogram of the major defense acquisition program so designated.
+
+(2) For a major defense acquisition program for which a designation of a major subprogram has been made under subsection (a), unit costs under this chapter shall be submitted in accordance with the definitions in subsection (d).
 
 (c)
 
@@ -30,5 +32,9 @@ Definitions.—Notwithstanding paragraphs (1) and (2) of section 2432(a) of this
 
 &emsp;(4) the term “life cycle cost”, with respect to a designated major subprogram, means all costs of development, procurement, military construction, and operations and support, without regard to funding source or management control.
 
-(Added Pub. L. 110–417, \[div. A\], title VIII, §811(a)(1), Oct. 14, 2008, 122 Stat. 4520.)
+(Added Pub. L. 110–417, \[div. A\], title VIII, §811(a)(1), Oct. 14, 2008, 122 Stat. 4520; amended Pub. L. 111–383, div. A, title VIII, §814(a), Jan. 7, 2011, 124 Stat. 4266.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (b). Pub. L. 111–383 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), inserted “(other than as provided in paragraph (2))” before semicolon in subpar. (A), and added par. (2).
 

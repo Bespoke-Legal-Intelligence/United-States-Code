@@ -44,7 +44,7 @@ June 22, 1942, ch. 435, §6, 56 Stat. 380; Dec. 22, 1942, ch. 806, §6, 56 Stat.
 
 #### Amendments
 
-2008—Subsec. (b)(1)(A) to (C). Pub. L. 110–417 added subpars. (A) to (C) and struck out former subpars. (A) to (C) which read as follows:
+<b>2008</b>—Subsec. (b)(1)(A) to (C). Pub. L. 110–417 added subpars. (A) to (C) and struck out former subpars. (A) to (C) which read as follows:
 
 “(A) all present except those in uniform should stand at attention facing the flag with the right hand over the heart;
 

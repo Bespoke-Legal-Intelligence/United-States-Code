@@ -1,14 +1,9 @@
 ### SUBCHAPTER III—COMMERCIAL REUSABLE IN-SPACE TRANSPORTATION
 
-#### Codification
-
-This subchapter was enacted as part of the Commercial Reusable In-Space Transportation Act of 2002, and also as part of the Department of Defense Appropriations Act, 2003, and not as part of the Commercial Space Act of 1998, which comprises subchapters I and II of this chapter.
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 14751 - Findings](%C2%A7%2014751%20-%20Findings.md)
-- [&sect; 14752 - Loan guarantees for production of commercial reusable in-space transportation](%C2%A7%2014752%20-%20Loan%20guarantees%20for%20production%20of%20commercial%20reusable%20in-space%20transportation.md)
-- [&sect; 14753 - Definitions](%C2%A7%2014753%20-%20Definitions.md)
+- [&sect; 14751 - Transferred](%C2%A7%2014751%20-%20Transferred.md)
+- [&sect; 14752, 14753 - Repealed. Pub. L. 111&#8211;314, &sect;6, Dec. 18, 2010, 124 Stat. 3444](%C2%A7%2014752%2C%2014753%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93314%2C%20%C2%A76%2C%20Dec.%2018%2C%202010%2C%20124%20Stat.%203444.md)

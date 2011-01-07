@@ -14,7 +14,7 @@ Ways To Remedy.—(1) Subject to subsections (f) and (g) of this section, when n
 
 &emsp;(B) if replacement equipment, by repairing the equipment or replacing the equipment with identical or reasonably equivalent equipment.
 
-(2) The Secretary of Transportation may prescribe regulations to allow the manufacturer to impose conditions on the replacement of a motor vehicle or refund of its price.
+(2) The Secretary of Transportation may prescribe regulations to allow the manufacturer toimpose conditions on the replacement of a motor vehicle or refund of its price.
 
 (b)
 
@@ -50,7 +50,7 @@ Filing Manufacturer's Remedy Program.—A manufacturer shall file with the Secre
 
 (e)
 
-Hearings About Meeting Remedy Requirements.—On the motion of the Secretary or on application by any interested person, the Secretary may conduct a hearing to decide whether the manufacturer has reasonably metthe remedy requirements under this section. Any interested person may make written and oral presentations of information, views, and arguments on whether the manufacturer has reasonably met the remedy requirements. If the Secretary decides a manufacturer has not reasonably met the remedy requirements, the Secretary shall order the manufacturer to take specified action to meet those requirements and may take any other action authorized under this chapter.
+Hearings About Meeting Remedy Requirements.—On the motion of the Secretary or on application by any interested person, the Secretary may conduct a hearing to decide whether the manufacturer has reasonably met the remedy requirements under this section. Any interested person may make written and oral presentations of information, views, and arguments on whether the manufacturer has reasonably met the remedy requirements. If the Secretary decides a manufacturer has not reasonably met the remedy requirements, the Secretary shall order the manufacturer to take specified action to meet those requirements and may take any other action authorized under this chapter.
 
 (f)
 
@@ -68,7 +68,7 @@ Exemptions.—On application of a manufacturer, the Secretary shall exempt the m
 
 (i)
 
-Limitation on Sale or Lease.—(1) If notification is required by an order under section 30118(b) of this title or is required under section 30118(c) of this title and the manufacturer has provided to a dealer (including retailers of motor vehicle equipment) notification about a new motor vehicle or new item of replacement equipment in the dealer's possession at the time of notification that contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under this chapter, the dealer may sell or lease the motor vehicle or item of replacement equipment only if—
+Limitation on Sale or Lease.—(1) If notification is required by an order under section 30118(b) of this title or is required under section 30118(c) of this title and the manufacturer hasprovided to a dealer (including retailers of motor vehicle equipment) notification about a new motor vehicle or new item of replacement equipment in the dealer's possession at the time of notification that contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under this chapter, the dealer may sell or lease the motor vehicle or item of replacement equipment only if—
 
 &emsp;(A) the defect or noncompliance is remedied as required by this section before delivery under the sale or lease; or
 
@@ -202,7 +202,7 @@ In subsection (h), the words “any requirement under”, “or to remedy”, an
 
 #### Amendments
 
-2000—Subsec. (c)(3). Pub. L. 106–414, §6(a), added par. (3).
+<b>2000</b>—Subsec. (c)(3). Pub. L. 106–414, §6(a), added par. (3).
 
 Subsec. (d). Pub. L. 106–414, §7, inserted at end “In the case of a remedy program involving the replacement of tires, the manufacturer shall include a plan addressing how to prevent, to the extent reasonably within the control of the manufacturer, replaced tires from being resold for installation on a motor vehicle, and how to limit, to the extent reasonably within the control of the manufacturer, the disposal of replaced tires in landfills, particularly through shredding, crumbling, recycling, recovery, and other alternative beneficial non-vehicular uses. The manufacturer shall include information about the implementation of such plan with each quarterly report to the Secretary regarding the progress of any notification or remedy campaigns.”
 
@@ -212,5 +212,5 @@ Subsec. (g)(1). Pub. L. 106–414, §4, substituted “10 calendar years” for 
 
 Subsec. (j). Pub. L. 106–414, §8, added subsec. (j).
 
-1998—Subsec. (i)(1). Pub. L. 105–178 inserted “(including retailers of motor vehicle equipment)” after “provided to a dealer” in introductory provisions.
+<b>1998</b>—Subsec. (i)(1). Pub. L. 105–178 inserted “(including retailers of motor vehicle equipment)” after “provided to a dealer” in introductory provisions.
 

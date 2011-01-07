@@ -28,5 +28,5 @@ The term “person,” as used in this section, does not include a department, a
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–609 redesignated existing provisions as par. (1) and added par. (2).
+<b>1978</b>—Subsec. (a). Pub. L. 95–609 redesignated existing provisions as par. (1) and added par. (2).
 

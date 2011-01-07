@@ -6,17 +6,17 @@ Exemption From Apportionment Requirement.—If the President determines such act
 
 (b)
 
-Airborne Alerts.—Upon a determination by the President that such action is necessary, the Secretary of Defense may provide for the cost of an airborne alert as an excepted expense under section 3732(a) of the Revised Statutes (41 U.S.C. 11(a)).
+Airborne Alerts.—Upon a determination by the President that such action is necessary, the Secretary of Defense may provide for the cost of an airborne alert as an excepted expense under section 6301(a) and (b)(1)–(3) of title 41.
 
 (c)
 
-Members on Active Duty.—Upon a determination by the President that it is necessary to increase (subject to limits imposed by law) the number of members of the armed forces on active duty beyond the number for which funds are provided in appropriation Acts for the Department of Defense, the Secretary of Defense may provide for the cost of such additional members as an excepted expense under section 3732(a) of the Revised Statutes (41 U.S.C. 11(a)).
+Members on Active Duty.—Upon a determination by the President that it is necessary to increase (subject to limits imposed by law) the number of members of the armed forces on active duty beyond the number for which funds are provided in appropriation Acts for the Department of Defense, the Secretary of Defense may provide for the cost of such additional members as an excepted expense under section 6301(a) and (b)(1)–(3) of title 41.
 
 (d)
 
 Notification to Congress.—The Secretary of Defense shall immediately notify Congress of the use of any authority under this section.
 
-(Added Pub. L. 100–370, §1(d)(1)(A), July 19, 1988, 102 Stat. 841; amended Pub. L. 106–65, div. A, title X, §1032(a)(1), Oct. 5, 1999, 113 Stat. 751.)
+(Added Pub. L. 100–370, §1(d)(1)(A), July 19, 1988, 102 Stat. 841; amended Pub. L. 106–65, div. A, title X, §1032(a)(1), Oct. 5, 1999, 113 Stat. 751; Pub. L. 111–350, §5(b)(4), Jan. 4, 2011, 124 Stat. 3842.)
 
 #### Historical and Revision Notes
 
@@ -30,5 +30,9 @@ A prior section 2201, act Aug. 10, 1956, ch. 1041, 70A Stat. 119, prescribed the
 
 #### Amendments
 
-1999—Subsec. (d). Pub. L. 106–65 substituted “Defense” for “Defense—”, struck out par. (1) designation, substituted “this section.” for “this section; and”, and struck out par. (2) which read as follows: “shall submit monthly reports to Congress on the estimated obligations incurred pursuant to subsections (b) and (c).”
+<b>2011</b>—Subsec. (b). Pub. L. 111–350, §5(b)(4)(A), substituted “section 6301(a) and (b)(1)–(3) of title 41” for “section 3732(a) of the Revised Statutes (41 U.S.C. 11(a))”.
+
+Subsec. (c). Pub. L. 111–350, §5(b)(4)(B), substituted “section 6301(a) and (b)(1)–(3) of title 41” for “section 3732(a) of the Revised Statutes (41 U.S.C. 11(a))”.
+
+<b>1999</b>—Subsec. (d). Pub. L. 106–65 substituted “Defense” for “Defense—”, struck out par. (1) designation, substituted “this section.” for “this section; and”, and struck out par. (2) which read as follows: “shall submit monthly reports to Congress on the estimated obligations incurred pursuant to subsections (b) and (c).”
 

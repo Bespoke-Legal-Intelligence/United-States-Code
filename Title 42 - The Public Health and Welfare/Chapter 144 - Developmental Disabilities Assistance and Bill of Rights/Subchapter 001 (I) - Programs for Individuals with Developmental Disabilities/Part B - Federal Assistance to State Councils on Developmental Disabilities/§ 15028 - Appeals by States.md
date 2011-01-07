@@ -18,7 +18,7 @@ The findings of the Secretary about the facts, if supported by substantial evide
 
 #### (e) Finality
 
-The judgment of the court affirming or setting aside, in whole or in part, any action of the Secretary shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
+The judgment of the court affirming or setting aside, in whole or in part, any action of the Secretary shall be final, subject to review by theSupreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
 #### (f) Effect
 

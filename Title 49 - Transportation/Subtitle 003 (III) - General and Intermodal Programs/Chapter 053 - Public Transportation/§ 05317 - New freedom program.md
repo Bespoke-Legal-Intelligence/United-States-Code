@@ -90,7 +90,7 @@ Statewide solicitation.—A recipient of funds apportioned under subsection (c)(
 
 &emsp;(3)
 
-Application.—Recipients and subrecipients seeking to receive a grant from funds apportioned under subsection (c) shall submit to the recipient an application in the form and in accordance with such requirements as the recipient shall establish.
+Application.—Recipients and subrecipients seeking to receive a grant from funds apportioned under subsection (c) shall submit tothe recipient an application in the form and in accordance with such requirements as the recipient shall establish.
 
 &emsp;(4)
 

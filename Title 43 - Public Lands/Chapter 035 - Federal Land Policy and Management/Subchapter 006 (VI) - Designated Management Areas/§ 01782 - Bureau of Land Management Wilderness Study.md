@@ -20,8 +20,6 @@ The Wilderness Act of September 3, 1964, referred to in subsecs. (a) and (c), is
 
 This Act, referred to in subsec. (c), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
-The mining laws, referred to in subsec. (c), are classified generally to Title 30, Mineral Lands and Mining.
-
 #### Change of Name
 
 “United States Geological Survey” substituted for “Geological Survey” in subsec. (a) pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of this title.

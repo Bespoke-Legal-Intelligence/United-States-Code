@@ -8,3 +8,5 @@ Notwithstanding any other provision of this subchapter, any spending authority p
 
 Section 651 of title 2, referred to in text, was amended by Pub. L. 105–33, title X, §10116(a)(3), (5), Aug. 5, 1997, 111 Stat. 691, by striking out subsec. (c) and redesignating former subsec. (d) as (c).
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

@@ -112,13 +112,13 @@ In subsection (d), the words “or any part thereof deposited in the Treasury pu
 
 #### Amendments
 
-2008—Subsec. (b)(4). Pub. L. 110–181 struck out par. (4) which read as follows: “The authority to accept gifts, devises, or bequests under this subsection expires on December 31, 2007.”
+<b>2008</b>—Subsec. (b)(4). Pub. L. 110–181 struck out par. (4) which read as follows: “The authority to accept gifts, devises, or bequests under this subsection expires on December 31, 2007.”
 
-2006—Pub. L. 109–163 reenacted section catchline without change and amended text generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to general gift funds.
+<b>2006</b>—Pub. L. 109–163 reenacted section catchline without change and amended text generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to general gift funds.
 
-2002—Subsec. (b)(4). Pub. L. 107–296 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
+<b>2002</b>—Subsec. (b)(4). Pub. L. 107–296 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
-1980—Subsec. (b)(4). Pub. L. 96–513 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+<b>1980</b>—Subsec. (b)(4). Pub. L. 96–513 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 
 #### Effective Date of 2002 Amendment
 

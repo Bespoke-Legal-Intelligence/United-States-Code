@@ -90,7 +90,7 @@ $500,000.
 
 #### (B) Termination of retained development right
 
-&emsp;&emsp;If every person in being who has an interest (whether or not in possession) in the land executes an agreement to extinguish permanently some or all of any development rights (as defined in subparagraph (D)) retained by the donor on or before the date for filing the return of the tax imposed by section 2001, then any tax imposed by section 2001 shall bereduced accordingly. Such agreement shall be filed with the return of the tax imposed by section 2001. The agreement shall be in such form as the Secretary shall prescribe.
+&emsp;&emsp;If every person in being who has an interest (whether or not in possession) in the land executes an agreement to extinguish permanently some or all of any development rights (as defined in subparagraph (D)) retained by the donor on or before the date for filing the return of the tax imposed by section 2001, then any tax imposed by section 2001 shall be reduced accordingly. Such agreement shall be filed with the return of the tax imposed by section 2001. The agreement shall be in such form as the Secretary shall prescribe.
 
 #### (C) Additional tax
 
@@ -168,7 +168,7 @@ $500,000.
 
 #### Amendments
 
-2001—Subsec. (c)(2). Pub. L. 107–16, §§551(b), 901, temporarily inserted at end “The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B).” See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (c)(2). Pub. L. 107–16, §§551(b), 901, temporarily inserted at end “The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B).” See Effective and Termination Dates of 2001 Amendment note below.
 
 Subsec. (c)(8)(A)(i). Pub. L. 107–16, §§551(a), 901, temporarily amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “which is located—
 
@@ -180,7 +180,7 @@ Subsec. (c)(8)(A)(i). Pub. L. 107–16, §§551(a), 901, temporarily amended cl.
 
 > See Effective and Termination Dates of 2001 Amendment note below.
 
-1998—Subsec. (c)(6). Pub. L. 105–206, §6007(g)(2), substituted “on or before the due date (including extensions) for filing the return of tax imposed by section 2001 and shall be made on such return.” for “on the return of the tax imposed by section 2001.”
+<b>1998</b>—Subsec. (c)(6). Pub. L. 105–206, §6007(g)(2), substituted “on or before the due date (including extensions) for filing the return of tax imposed by section 2001 and shall be made on such return.” for “on the return of the tax imposed by section 2001.”
 
 Subsec. (c)(9). Pub. L. 105–206, §6007(g)(1), added par. (9). Former par. (9) redesignated (10).
 
@@ -188,17 +188,17 @@ Subsec. (c)(10). Pub. L. 105–277, §4006(c)(3), substituted “section 2057(e)
 
 Pub. L. 105–206, §6007(g)(1), redesignated par. (9) as (10).
 
-1997—Subsecs. (c), (d). Pub. L. 105–34 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>1997</b>—Subsecs. (c), (d). Pub. L. 105–34 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1976—Subsec. (c). Pub. L. 94–455 added subsec. (c).
+<b>1976</b>—Subsec. (c). Pub. L. 94–455 added subsec. (c).
 
-1962—Subsec. (a). Pub. L. 87–834 struck out provisions which excepted real property situated outside the United States.
+<b>1962</b>—Subsec. (a). Pub. L. 87–834 struck out provisions which excepted real property situated outside the United States.
 
 #### Effective and Termination Dates of 2001 Amendment
 
 Pub. L. 107–16, title V, §551(c), June 7, 2001, 115 Stat. 86, provided that: “The amendments made by this section \[amending this section\] shall apply to estates of decedents dying after December 31, 2000.”
 
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -206,7 +206,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to estates of decedents dying after Dec. 31, 1997, see section 508(e)(1) of Pub. L. 105–34, set out as a note under section 1014 of this title.
+Amendment by Pub. L. 105–34 applicable to estates of decedents dying after Dec. 31, 1997, see section 508(e)(1)of Pub. L. 105–34, set out as a note under section 1014 of this title.
 
 #### Effective Date of 1962 Amendment
 

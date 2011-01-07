@@ -16,7 +16,7 @@ No provision of this subchapter imposing any liability shall apply to any act do
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–353 substituted “chapter 15 of title 44” for “the Federal Register Act”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–353 substituted “chapter 15 of title 44” for “the Federal Register Act”.
 
 #### Transfer of Functions
 

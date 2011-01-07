@@ -2,7 +2,7 @@
 
 (a)
 
-Ordering Authority.—In time of war or when war is imminent, the President, through the head of any department, may order from anyperson or organized manufacturing industry necessary products or materials of the type usually produced or capable of being produced by that person or industry.
+Ordering Authority.—In time of war or when war is imminent, the President, through the head of any department, may order from any person or organized manufacturing industry necessary products or materials of the type usually produced or capable of being produced by that person or industry.
 
 (b)
 
@@ -38,7 +38,7 @@ Provisions similar to those in this section were contained in sections 4501 and 
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–337, §811(1), substituted “head of any department” for “Secretary of Defense”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337, §811(1), substituted “head of any department” for “Secretary of Defense”.
 
 Subsec. (c). Pub. L. 103–337, §811, substituted “through the head of any department” for “through the Secretary of Defense” and “opinion of the head of that department” for “opinion of the Secretary of Defense” in introductory provisions and “head of such department” for “Secretary” in pars. (2) and (3).
 

@@ -44,7 +44,7 @@ Activities provided through programs carried out under this subpart may include 
 
 #### Amendments
 
-2005—Subsec. (a)(6) to (9). Pub. L. 109–149, §306(2)(A), added par. (6) and redesignated former pars. (6) to (8) as (7) to (9), respectively.
+<b>2005</b>—Subsec. (a)(6) to (9). Pub. L. 109–149, §306(2)(A), added par. (6) and redesignated former pars. (6) to (8) as (7) to (9), respectively.
 
 Subsec. (b)(7). Pub. L. 109–149, §306(2)(B), added par. (7).
 

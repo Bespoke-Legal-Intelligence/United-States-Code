@@ -58,7 +58,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(i) any electric generating unit subject to the licensing jurisdiction of the Nuclear Regulatory Commission; and
 
-&emsp;&emsp;(ii) any cogeneration facility, less than half of the annual electric power generationof which is sold or exchanged for resale, as determined by the Secretary.
+&emsp;&emsp;(ii) any cogeneration facility, less than half of the annual electric power generation of which is sold or exchanged for resale, as determined by the Secretary.
 
 &emsp;(C) For purposes of clause (ii) of subparagraph (A), there shall be excluded any unit which has a design capability to consume any fuel (including any mixture thereof) that does not equal or exceed 100 million Btu's per hour and the exclusion of which for purposes of such clause is determined by the Secretary, by rule, to be appropriate.
 
@@ -74,7 +74,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;(9)(A) The term “existing electric powerplant” means any electric powerplant other than a new electric powerplant.
 
-&emsp;(B) Any powerplant treated under this chapter as an existing electric powerplant shall not be treated thereafter as a new electric powerplant merely by reason of a transfer of ownership.
+&emsp;(B) Any powerplant treated under this chapter as an existing electric powerplant shall notbe treated thereafter as a new electric powerplant merely by reason of a transfer of ownership.
 
 &emsp;(10)(A) The terms “major fuel-burning installation” and “installation” means a stationary unit consisting of a boiler, gas turbine unit, combined cycle unit, or internal combustion engine which—
 
@@ -186,7 +186,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;(27) the term “Mcf” means, when used in relation to natural gas, 1,000 cubic feet of natural gas.
 
-&emsp;(28) The term “mixture”, when used in relation to fuels used in a unit, means a mixtureof such fuels or a combination of such fuels used simultaneously or alternately in such unit.
+&emsp;(28) The term “mixture”, when used in relation to fuels used in a unit, means a mixture of such fuels or a combination of such fuels used simultaneously or alternately in such unit.
 
 &emsp;(29) The term “fluidized bed combustion” means combustion of fuel in connection with a bed of inert material, such as limestone or dolomite, which is held in a fluid-like state by the means of air or other gases being passed through such materials.
 
@@ -216,17 +216,19 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 #### References in Text
 
-The Clean Air Act, referred to in subsec. (a)(17)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (b)(1), was in the original “this Act”, meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
+
+The Clean Air Act, referred to in subsec. (a)(17)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
 The Federal Water Pollution Control Act, referred to in subsec. (a)(17)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 The Solid Waste Disposal Act, referred to in subsec. (a)(17)(B), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(17)(B), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(17)(B), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
 #### Amendments
 
-1987—Subsec. (a)(13)(B)(ii). Pub. L. 100–42, §1(c)(2)(A), inserted “and” at end of subcl. (I), substituted period for “; or” at end of subcl. (II), and struck out subcl. (III) which read as follows: “in the case of a major fuel-burning installation, without incurring significant operational detriment of the unit (as determined by the Secretary).”
+<b>1987</b>—Subsec. (a)(13)(B)(ii). Pub. L. 100–42, §1(c)(2)(A), inserted “and” at end of subcl. (I), substituted period for “; or” at end of subcl. (II), and struck out subcl. (III) which read as follows: “in the case of a major fuel-burning installation, without incurring significant operational detriment of the unit (as determined by the Secretary).”
 
 Subsec. (a)(15). Pub. L. 100–42, §1(c)(2)(B), struck out “or major fuel-burning installation” after “electric powerplant”.
 

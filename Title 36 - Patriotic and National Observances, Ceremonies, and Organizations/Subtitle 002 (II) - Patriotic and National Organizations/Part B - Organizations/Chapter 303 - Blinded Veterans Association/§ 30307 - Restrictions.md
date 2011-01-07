@@ -48,7 +48,11 @@ Aug. 27, 1958, Pub. L. 85–769, §§3(4) (words between 1st comma and semicolon
 
 &nbsp;
 
-30307(c)D36:853(4) (words between 1st comma and semicolon).D&nbsp;
+30307(c)
+
+36:853(4) (words between 1st comma and semicolon).
+
+&nbsp;
 
 &nbsp;
 

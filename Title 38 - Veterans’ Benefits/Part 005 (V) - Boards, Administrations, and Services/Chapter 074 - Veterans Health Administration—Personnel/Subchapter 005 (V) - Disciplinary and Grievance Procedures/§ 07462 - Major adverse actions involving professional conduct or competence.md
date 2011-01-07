@@ -22,11 +22,11 @@
 
 (B) Notwithstanding the 21-day period specified in subparagraph (A), a proposed adverse action may be held in abeyance if the employee requests, and the deciding official agrees, that the employee shall seek counseling or treatment for a condition covered under the Rehabilitation Act of 1973. Any such abeyance of a proposed action may not extend for more than one year.
 
-(4)(A) The Secretary may require that any answer and submission under paragraph (1)(B) be submitted so as to be received within 30 days of the date of the written notice of the charges, except that the Secretary shall allow the granting of extensions for good cause shown.
+(4)(A) The Secretary may require that any answer and submission under paragraph (1)(B) besubmitted so as to be received within 30 days of the date of the written notice of the charges, except that the Secretary shall allow the granting of extensions for good cause shown.
 
 (B) The Secretary shall require that any appeal to a Disciplinary Appeals Board from a decision to impose a major adverse action shall be received within 30 days after the date of service of the written decision on the employee.
 
-(c)(1) When a Disciplinary Appeals Board convenes to consider an appeal in a case under thissection, the board, before proceeding to consider the merits of the appeal, shall determine whether the case is properly before it.
+(c)(1) When a Disciplinary Appeals Board convenes to consider an appeal in a case under this section, the board, before proceeding to consider the merits of the appeal, shall determine whether the case is properly before it.
 
 (2) Upon hearing such an appeal, the board shall, with respect to each charge appealed to the board, sustain the charge, dismiss the charge, or sustain the charge in part and dismiss the charge in part. If the deciding official is sustained (in whole or in part) with respect to any such charge, the board shall—
 
@@ -76,5 +76,5 @@ Provisions similar to those in this subchapter were contained in section 4110 of
 
 #### Amendments
 
-1992—Subsec. (b)(1). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” in subpars. (A) and (B).
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” in subpars. (A) and (B).
 

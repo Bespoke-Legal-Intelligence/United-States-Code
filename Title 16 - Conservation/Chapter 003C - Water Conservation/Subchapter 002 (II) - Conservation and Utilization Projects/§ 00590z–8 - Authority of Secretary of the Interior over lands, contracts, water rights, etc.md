@@ -12,7 +12,5 @@ In connection with the construction or operation and maintenance of a project un
 
 #### References in Text
 
-The Federal reclamation laws, referred to in subsecs. (a) and (b), are classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands.
-
-Act of June 17, 1902 (32 Stat. 388), referred to in subsec. (a), is popularly known as the “Reclamation Act” and is classified generally to chapter 12 (§371 et seq.) of Title 43. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
+Act of June 17, 1902, referred to in subsec. (a), is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
 

@@ -60,13 +60,13 @@ In subsec. (a)(3), “section 20103(d) of title 49” substituted for “section
 
 #### Amendments
 
-2004—Subsec. (a)(5). Pub. L. 108–447, §152(1), inserted “, including any amount appropriated or otherwise made available to the State-owned railroad,” before “shall be retained”.
+<b>2004</b>—Subsec. (a)(5). Pub. L. 108–447, §152(1), inserted “, including any amount appropriated or otherwise made available to the State-owned railroad,” before “shall be retained”.
 
 Subsec. (e). Pub. L. 108–447, §152(2), added subsec. (e).
 
-1995—Subsecs. (a)(1), (c). Pub. L. 104–88 substituted “part A” for “the jurisdiction of the Interstate Commerce Commission under chapter 105”.
+<b>1995</b>—Subsecs. (a)(1), (c). Pub. L. 104–88 substituted “part A” for “the jurisdiction of the Interstate Commerce Commission under chapter 105”.
 
-1986—Subsec. (a)(6)(A). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (a)(6)(A). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 #### Effective Date of 1995 Amendment
 

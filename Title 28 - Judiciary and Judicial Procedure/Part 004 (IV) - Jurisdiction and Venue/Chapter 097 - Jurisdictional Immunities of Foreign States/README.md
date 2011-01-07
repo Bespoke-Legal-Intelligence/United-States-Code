@@ -23,7 +23,7 @@
 
 #### Amendments
 
-2008—Pub. L. 110–181, div. A, title X, §1083(a)(2), Jan. 28, 2008, 122 Stat. 341, added item 1605A.
+<b>2008</b>—Pub. L. 110–181, div. A, title X, §1083(a)(2), Jan. 28, 2008, 122 Stat. 341, added item 1605A.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 

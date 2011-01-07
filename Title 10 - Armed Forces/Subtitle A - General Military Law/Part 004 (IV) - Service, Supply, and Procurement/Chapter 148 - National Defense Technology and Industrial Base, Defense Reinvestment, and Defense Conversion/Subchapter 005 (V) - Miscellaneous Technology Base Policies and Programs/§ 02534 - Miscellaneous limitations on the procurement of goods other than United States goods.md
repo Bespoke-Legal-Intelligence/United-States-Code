@@ -70,7 +70,7 @@ Applicability to Certain Items.—
 
 &emsp;(1)
 
-Components for naval vessels.—Subsection (a) does not apply to a procurement ofspare or repair parts needed to support components for naval vessels produced or manufactured outside the United States.
+Components for naval vessels.—Subsection (a) does not apply to a procurement of spare or repair parts needed to support components for naval vessels produced or manufactured outside the United States.
 
 &emsp;(2)
 
@@ -142,7 +142,7 @@ Principle of Construction With Future Laws.—A provision of law may not be cons
 
 Inapplicability to Contracts under Simplified Acquisition Threshold.—(1) This section does not apply to a contract or subcontract for an amount that does not exceed the simplified acquisition threshold.
 
-(2) Paragraph (1) does not apply to contracts for items described in subsection (a)(5) (relating to ball bearings and roller bearings), notwithstanding section 33 of the Office of Federal Procurement Policy Act (41 U.S.C. 429).
+(2) Paragraph (1) does not apply to contracts for items described in subsection (a)(5) (relating to ball bearings and roller bearings), notwithstanding section 1905 of title 41.
 
 (h)
 
@@ -156,7 +156,7 @@ Implementation of Naval Vessel Component Limitation.—In implementing subsectio
 
 Implementation of Certain Waiver Authority.—(1) The Secretary of Defense may exercise the waiver authority described in paragraph (2) only if the waiver is made for a particular item listed in subsection (a) and for a particular foreign country.
 
-(2) This subsection applies to the waiver authority provided by subsection (d) on the basisof the applicability of paragraph (2) or (3) of that subsection.
+(2) This subsection applies to the waiver authority provided by subsection (d) on the basis of the applicability of paragraph (2) or (3) of that subsection.
 
 (3) The waiver authority described in paragraph (2) may not be delegated below the Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
@@ -178,7 +178,7 @@ Inapplicability to Certain Contracts To Purchase Ball Bearings or Roller Bearing
 
 (2) Paragraph (1) does not apply to a purchase if such purchase would result in the total amount of purchases of ball bearings and roller bearings to satisfy requirements under Department of Defense contracts, using the authority provided in such paragraph, to exceed $200,000 during the fiscal year of such purchase.
 
-(Added Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat. 1294, §2400; amended Pub. L. 100–180, div. A, title I, §124(a), (b)(1), title VIII, §824(a), Dec. 4, 1987, 101 Stat. 1042, 1043, 1134; renumbered §2502 and amended Pub. L. 100–370, §3(b)(1), July 19, 1988, 102 Stat. 855; renumbered §2507 and amended Pub. L. 100–456, div. A, title VIII, §§821(b)(1)(A), 822, Sept. 29, 1988, 102 Stat. 2014, 2017; Pub. L. 101–510, div. A, title VIII, §835(a), title XIV, §1421, Nov. 5, 1990, 104 Stat. 1614, 1682; Pub. L. 102–190, div. A, title VIII, §§834, 835, Dec. 5, 1991, 105 Stat. 1447, 1448; renumbered §2534 and amended Pub. L. 102–484, div. A, title VIII, §§831, 833(a), title X, §1052(33), div. D, title XLII, §§4202(a), 4271(b)(4), Oct. 23, 1992, 106 Stat. 2460, 2461, 2501, 2659, 2696; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title VIII, §814, Oct. 5, 1994, 108 Stat. 2817; Pub. L. 103–355, title IV, §4102(i), Oct. 13, 1994, 108 Stat. 3341; Pub. L. 104–106, div. A, title VIII, §806(a)(1)–(4), (b)–(d), title XV, §1503(a)(30), Feb. 10, 1996, 110 Stat. 390, 391, 512; Pub. L. 104–201, div. A, title VIII, §810, title X, §1074(a)(14), Sept. 23, 1996, 110 Stat. 2608, 2659; Pub. L. 105–85, div. A, title III, §371(d)(1), title VIII, §811(a), title X, §1073(a)(55), Nov. 18, 1997, 111 Stat. 1706, 1839, 1903; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §805\], Oct. 30, 2000, 114 Stat. 1654, 1654A–207; Pub. L. 107–107, div. A, title VIII, §835(a), title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1191, 1225; Pub. L. 108–136, div. A, title VIII, §828, Nov. 24, 2003, 117 Stat. 1548.)
+(Added Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat. 1294, §2400; amended Pub. L. 100–180, div. A, title I, §124(a), (b)(1), title VIII, §824(a), Dec. 4, 1987, 101 Stat. 1042, 1043, 1134; renumbered §2502 and amended Pub. L. 100–370, §3(b)(1), July 19, 1988, 102 Stat. 855; renumbered §2507 and amended Pub. L. 100–456, div. A, title VIII, §§821(b)(1)(A), 822, Sept. 29, 1988, 102 Stat. 2014, 2017; Pub. L. 101–510, div. A, title VIII, §835(a), title XIV, §1421, Nov. 5, 1990, 104 Stat. 1614, 1682; Pub. L. 102–190, div. A, title VIII, §§834, 835, Dec. 5, 1991, 105 Stat. 1447, 1448; renumbered §2534 and amended Pub. L. 102–484, div. A, title VIII, §§831, 833(a), title X, §1052(33), div. D, title XLII, §§4202(a), 4271(b)(4), Oct. 23, 1992, 106 Stat. 2460, 2461, 2501, 2659, 2696; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title VIII, §814, Oct. 5, 1994, 108 Stat. 2817; Pub. L. 103–355, title IV, §4102(i), Oct. 13, 1994, 108 Stat. 3341; Pub. L. 104–106, div. A, title VIII, §806(a)(1)–(4), (b)–(d), title XV, §1503(a)(30), Feb. 10, 1996, 110 Stat. 390, 391, 512; Pub. L. 104–201, div. A, title VIII, §810, title X, §1074(a)(14), Sept. 23, 1996, 110 Stat. 2608, 2659; Pub. L. 105–85, div. A, title III, §371(d)(1), title VIII, §811(a), title X, §1073(a)(55), Nov. 18, 1997, 111 Stat. 1706, 1839, 1903; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §805\], Oct. 30, 2000, 114 Stat. 1654, 1654A–207; Pub. L. 107–107, div. A, title VIII, §835(a), title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1191, 1225; Pub. L. 108–136, div. A, title VIII, §828, Nov. 24, 2003, 117 Stat. 1548; Pub. L. 111–350, §5(b)(40), Jan. 4, 2011, 124 Stat. 3846.)
 
 Historical and Revision Notes
 
@@ -198,21 +198,23 @@ The words “of the United States under the provisions of this Act or the provis
 
 #### Amendments
 
-2003—Subsec. (a)(5). Pub. L. 108–136 inserted before period at end “, except ball bearings and roller bearings being procured for use in an end product manufactured by a manufacturer that does not satisfy the requirements of subsection (b) or in a component part manufactured by such a manufacturer”.
+<b>2011</b>—Subsec. (g)(2). Pub. L. 111–350 substituted “section 1905 of title 41” for “section 33 of the Office of Federal Procurement Policy Act (41 U.S.C. 429)”.
 
-2001—Subsec. (i)(3). Pub. L. 107–107, §1048(b)(2), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+<b>2003</b>—Subsec. (a)(5). Pub. L. 108–136 inserted before period at end “, except ball bearings and roller bearings being procured for use in an end product manufactured by a manufacturer that does not satisfy the requirements of subsection (b) or in a component part manufactured by such a manufacturer”.
+
+<b>2001</b>—Subsec. (i)(3). Pub. L. 107–107, §1048(b)(2), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
 Subsec. (j). Pub. L. 107–107, §835(a), added subsec. (j).
 
-2000—Subsec. (c)(3). Pub. L. 106–398 substituted “October 1, 2005” for “October 1, 2000”.
+<b>2000</b>—Subsec. (c)(3). Pub. L. 106–398 substituted “October 1, 2005” for “October 1, 2000”.
 
-1997—Subsec. (b)(3). Pub. L. 105–85, §1073(a)(55), substituted “(a)(3)(A)(iii)” for “(a)(3)(A)(ii)”.
+<b>1997</b>—Subsec. (b)(3). Pub. L. 105–85, §1073(a)(55), substituted “(a)(3)(A)(iii)” for “(a)(3)(A)(ii)”.
 
 Subsec. (d)(4), (5). Pub. L. 105–85, §371(d)(1), substituted “section 2500(1)” for “section 2491(1)”.
 
 Subsec. (i). Pub. L. 105–85, §811(a), added subsec. (i).
 
-1996—Subsec. (a)(3). Pub. L. 104–106, §806(a)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–106, §806(a)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “
 
 Air circuit breakers.—Air circuit breakers for naval vessels.”
 
@@ -240,13 +242,13 @@ Subsec. (g). Pub. L. 104–106, §806(d), designated existing provisions as par.
 
 Subsec. (h). Pub. L. 104–106, §806(a)(4), added subsec. (h).
 
-1994—Pub. L. 103–337 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f)relating to acquisition of multipassenger motor vehicles, chemical weapons antidote, valves and machine tools, carbonyl iron powders, air circuit breakers, and sonobuoys.
+<b>1994</b>—Pub. L. 103–337 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to acquisition of multipassenger motor vehicles, chemical weapons antidote, valves and machine tools, carbonyl iron powders, air circuit breakers, and sonobuoys.
 
 Subsec. (g). Pub. L. 103–355 added subsec. (g).
 
-1993—Subsec. (b)(2). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
+<b>1993</b>—Subsec. (b)(2). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
 
-1992—Pub. L. 102–484, §§4202(a), 4271(b)(4), renumbered section 2507 of this title as this section and substituted “Miscellaneous limitations on the procurement of goods other than United States goods” for “Miscellaneous procurement limitations” in section catchline.
+<b>1992</b>—Pub. L. 102–484, §§4202(a), 4271(b)(4), renumbered section 2507 of this title as this section and substituted “Miscellaneous limitations on the procurement of goods other than United States goods” for “Miscellaneous procurement limitations” in section catchline.
 
 Subsec. (c). Pub. L. 102–484, §831, redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “
 
@@ -260,7 +262,7 @@ Subsec. (e). Pub. L. 102–484, §831(b), redesignated subsec. (f) as (e). Forme
 
 Subsec. (f). Pub. L. 102–484, §833(a), added subsec. (f). Former subsec. (f) redesignated (e).
 
-1991—Subsec. (d)(1). Pub. L. 102–190, §834(a), substituted “Effective through fiscal year 1996” for “During fiscal years 1989, 1990, and 1991”.
+<b>1991</b>—Subsec. (d)(1). Pub. L. 102–190, §834(a), substituted “Effective through fiscal year 1996” for “During fiscal years 1989, 1990, and 1991”.
 
 Subsec. (d)(3) to (5). Pub. L. 102–190, §834(b), added pars. (3) and (4), redesignated former par. (3) as (5), and struck out former par. (4) which read as follows: “The provisions of this section may be renewed with respect to any item by the Secretary of Defense at the end of fiscal year 1991 for an additional two fiscal years if the Secretary determines that a continued restriction on that item is in the national security interest.”
 
@@ -272,17 +274,17 @@ Subsec. (e)(3)(A). Pub. L. 102–190, §835(3), struck out before period “by a
 
 Subsec. (e)(4). Pub. L. 102–190, §835(4), redesignated par. (4) as (3).
 
-1990—Subsec. (e). Pub. L. 101–510, §835(a), added subsec. (e).
+<b>1990</b>—Subsec. (e). Pub. L. 101–510, §835(a), added subsec. (e).
 
 Subsec. (f). Pub. L. 101–510, §1421, added subsec. (f).
 
-1988—Pub. L. 100–370, and Pub. L. 100–456, §821(b)(1)(A), successively renumbered section 2400 of this title as section 2502 of this title and then as this section.
+<b>1988</b>—Pub. L. 100–370, and Pub. L. 100–456, §821(b)(1)(A), successively renumbered section 2400 of this title as section 2502 of this title and then as this section.
 
 Subsec. (a). Pub. L. 100–370 substituted “this subsection” for “this section”.
 
 Subsec. (d). Pub. L. 100–456, §822, added subsec. (d).
 
-1987—Pub. L. 100–180 substituted “Miscellaneous procurement limitations” for “Limitation on procurement of buses” in section catchline, designated existing provisions as subsec. (a) and added heading, and added subsecs. (b) and (c).
+<b>1987</b>—Pub. L. 100–180 substituted “Miscellaneous procurement limitations” for “Limitation on procurement of buses” in section catchline, designated existing provisions as subsec. (a) and added heading, and added subsecs. (b) and (c).
 
 #### Effective Date of 2001 Amendment
 
@@ -302,7 +304,7 @@ Section 806(a)(5) of Pub. L. 104–106 provided that: “Subsection (a)(3)(B) of
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -311,6 +313,26 @@ Section 833(b) of Pub. L. 102–484 provided that: “Subsection (f) of section 
 #### Effective Date of 1990 Amendment
 
 Section 835(b) of Pub. L. 101–510 provided that subsec. (e) of this section, as added by section 835(a) of Pub. L. 101–510, applied with respect to systems or items procured by or provided to Department of Defense after Nov. 5, 1990.
+
+#### Procurement of Photovoltaic Devices
+
+Pub. L. 111–383, div. A, title VIII, §846, Jan. 7, 2011, 124 Stat. 4285, provided that:
+
+“(a)
+
+Contract Requirement.—The Secretary of Defense shall ensure that each contract described in subsection (b) awarded by the Department of Defense includes a provision requiring the photovoltaic devices provided under the contract to comply with the Buy American Act (\[former\] 41 U.S.C. 10a et seq.) \[see 41U.S.C. 8301 et seq.\], subject to the exceptions to that Act provided in the Trade Agreements Act of 1979 (19 U.S.C. 2501 et seq.) or otherwise provided by law.
+
+“(b)
+
+Contracts Described.—The contracts described in this subsection include energy savings performance contracts, utility service contracts, land leases, and private housing contracts, to the extent that such contracts result in ownership of photovoltaic devices by the Department of Defense. For the purposes of this section, the Department of Defense is deemed to own a photovoltaic device if the device is—
+
+&emsp;“(1) installed on Department of Defense property or in a facility owned by the Department of Defense; and
+
+&emsp;“(2) reserved for the exclusive use of the Department of Defense for the full economic life of the device.
+
+“(c)
+
+Definition of Photovoltaic Devices.—In this section, the term ‘photovoltaic devices’ means devices that convert light directly into electricity through a solid-state, semiconductor process.”
 
 #### Elimination of Unreliable Sources of Defense Items and Components
 

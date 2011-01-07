@@ -106,6 +106,14 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by the President and published in the Federal Register, see section 16(a), formerly §15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–292, §1, Dec. 9, 2010, 124 Stat. 3165, provided that: “This Act \[enacting chapter 65 and section 5711 of this title and provisions set out as a note under section 6501 of this title and amending provisions set out as a note and provisions listed in a table under section 6120 of this title\] may be cited as the ‘Telework Enhancement Act of 2010’.”
+
+Pub. L. 111–282, §1(a), Oct. 15, 2010, 124 Stat. 3033, provided that: “This Act \[enacting chapter 102 of this title, amending sections 5102, 5541, 6304, and 6324 of this title, enacting provisions set out as notes under sections 5102 and 10201 of this title, and amending provisions set out as notes under section 3056A of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘United States Secret Service Uniformed Division Modernization Act of 2010’.”
+
+Pub. L. 111–178, §1, June 9, 2010, 124 Stat. 1262, provided that: “This Act \[enacting section 5724d of this title and provisions set out as a note under section 5724d of this title\] may be cited as the ‘Special Agent Samuel Hicks Families of Fallen Heroes Act’.”
+
 #### Short Title of 2009 Amendment
 
 Pub. L. 111–83, title V, §564(a), Oct. 28, 2009, 123 Stat. 2184, provided that: “This section \[amending section 552 of this title\] may be cited as the ‘OPEN FOIA Act of 2009’.”
@@ -128,7 +136,7 @@ Pub. L. 110–175, §1, Dec. 31, 2007, 121 Stat. 2524, provided that: “This Ac
 
 Pub. L. 109–435, title VIII, §801, Dec. 20, 2006, 120 Stat. 3249, provided that: “This title \[enacting section 8909a of this title, amending sections 8334, 8348, and 8906 of this title, enacting provisions set out as notes under sections 8334, 8348, and 8909a of this title, and repealing provisions set out as a note preceding section 2001 of Title 39, Postal Service\] may be cited as the ‘Postal Civil Service Retirement and Health Benefits Funding Amendments of 2006’.”
 
-Pub. L. 109–356, §1(a), Oct. 16, 2006, 120 Stat. 2019, provided that: “This Act \[amending sections 5102, 8951, 8981, and 9001 of this title, sections 202, 214, 215b, 216, 216a, 221, 321, and 1813 of Title 12, Banks and Banking, and section 57a of Title 15, Commerce and Trade\] may be cited as the ‘2005 District of Columbia Omnibus Authorization Act’.”
+Pub. L. 109–356, §1(a), Oct. 16, 2006, 120 Stat. 2019, provided that: “This Act \[amending sections 5102, 8951, 8981, and 9001 of this title, sections 202, 214, 215b, 216, 216a, 221, 321, and 1813 of Title 12, Banks and Banking,and section 57a of Title 15, Commerce and Trade\] may be cited as the ‘2005 District of Columbia Omnibus Authorization Act’.”
 
 #### Short Title of 2004 Amendments
 
@@ -136,7 +144,7 @@ Pub. L. 108–496, §1, Dec. 23, 2004, 118 Stat. 4001, provided that: “This Ac
 
 Pub. L. 108–469, §1(a), Dec. 21, 2004, 118 Stat. 3891, provided that: “This Act \[amending sections 8351, 8432, 8433, 8439, and 8440a to 8440e of this title and enacting provisions set out as a note under section 8350 of this title\] may be cited as the ‘Thrift Savings Plan Open Elections Act of 2004’.”
 
-Pub. L. 108–411, §1(a), Oct. 30, 2004, 118 Stat. 2305, provided that: “This Act \[enacting sections 4121, 5550b, 5753, and 5754 of this title, amending sections 4103, 4505a, 5302, 5304, 5305, 5314, 5334, 5361, 5363, 5365, 5377, and 6303 of this title, repealing former sections 5753 and 5754of this title, enacting provisions set out as notes under sections 5304, 5363, 5550b, 5753, and 6303 of this title, and amending provisions set out as a note under section 5305 of this title\] may be cited as the ‘Federal Workforce Flexibility Act of 2004’.”
+Pub. L. 108–411, §1(a), Oct. 30, 2004, 118 Stat. 2305, provided that: “This Act \[enacting sections 4121, 5550b, 5753, and 5754 of this title, amending sections 4103, 4505a, 5302, 5304, 5305, 5314, 5334, 5361, 5363, 5365, 5377, and 6303 of this title, repealing former sections 5753 and 5754 of this title, enacting provisions set out as notes under sections 5304, 5363, 5550b, 5753, and 6303 of this title, and amending provisions set out as a note under section 5305 of this title\] may be cited as the ‘Federal Workforce Flexibility Act of 2004’.”
 
 Pub. L. 108–401, §1, Oct. 30, 2004, 118 Stat. 2255, provided that: “This Act \[amending sections 591, 594, and 596 of this title\] may be cited as the ‘Federal Regulatory Improvement Act of 2004’.”
 

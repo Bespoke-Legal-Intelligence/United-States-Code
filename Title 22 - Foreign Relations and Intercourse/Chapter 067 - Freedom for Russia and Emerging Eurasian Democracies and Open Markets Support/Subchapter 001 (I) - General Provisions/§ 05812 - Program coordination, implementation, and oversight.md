@@ -38,7 +38,7 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a)(2), (4), is Pub. 
 
 #### Amendments
 
-1999—Subsec. (a)(2), (4). Pub. L. 106–113 substituted “this Act and chapter 12 of part I of the Foreign Assistance Act of 1961)” for “this Act)”.
+<b>1999</b>—Subsec. (a)(2), (4). Pub. L. 106–113 substituted “this Act and chapter 12 of part I of the Foreign Assistance Act of 1961)” for “this Act)”.
 
 #### Russian and Ukrainian Business Management Education
 
@@ -144,7 +144,7 @@ Clearinghouse.—A clearinghouse shall be established or designated in each prog
 
 #### “SEC. 425. RESTRICTIONS NOT APPLICABLE.
 
-“Prohibitions on the use of foreign assistance funds for assistance for the Russian Federation or forUkraine shall not apply with respect to the funds made available to carry out this subtitle.
+“Prohibitions on the use of foreign assistance funds for assistance for the Russian Federation or for Ukraine shall not apply with respect to the funds made available to carry out this subtitle.
 
 #### “SEC. 426. AUTHORIZATION OF APPROPRIATIONS.
 
@@ -194,7 +194,7 @@ Section 1004 of Pub. L. 102–511 provided that:
 
 “(a)
 
-In General.—In order to promote macroeconomic stabilization and the integration of the independent states of the former Soviet Union into the international financial system, enhance the opportunities for trade, improve the climate for foreign investment, and strengthen the process of transformation of the former socialist economies into free enterprise systems and thereby progressively enhance the well-being of the citizens of these states, the United States should in appropriate circumstances take a leading role in organizing and supporting multilateral efforts at macroeconomic stabilization and debt rescheduling, conditioned on the appropriate development and implementation of comprehensive economic reform programs.
+In General.—In order to promote macroeconomic stabilization and the integration of the independent states of the former Soviet Union into the international financial system, enhance the opportunities for trade, improve the climate for foreign investment, and strengthen the process of transformation of the former socialist economies into free enterprise systems and thereby progressively enhance the well-being of the citizens of these states, the United States shouldin appropriate circumstances take a leading role in organizing and supporting multilateral efforts at macroeconomic stabilization and debt rescheduling, conditioned on the appropriate development and implementation of comprehensive economic reform programs.
 
 “(b)
 

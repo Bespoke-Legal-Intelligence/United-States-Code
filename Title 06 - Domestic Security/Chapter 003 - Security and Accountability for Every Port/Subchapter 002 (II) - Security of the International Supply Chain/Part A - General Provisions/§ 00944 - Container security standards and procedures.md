@@ -24,7 +24,7 @@
 
 &emsp;&emsp;If the interim final rule described in paragraph (2) is not issued by April 1, 2008, then—
 
-&emsp;&emsp;&emsp;(i) effective not later than October 15, 2008, all containers in transit to the UnitedStates shall be required to meet the requirements of International Organization for Standardization Publicly Available Specification 17712 standard for sealing containers; and
+&emsp;&emsp;&emsp;(i) effective not later than October 15, 2008, all containers in transit to the United States shall be required to meet the requirements of International Organization for Standardization Publicly Available Specification 17712 standard for sealing containers; and
 
 &emsp;&emsp;&emsp;(ii) the requirements of this subparagraph shall cease to be effective upon the effective date of the interim final rule issued pursuant to this subsection.
 

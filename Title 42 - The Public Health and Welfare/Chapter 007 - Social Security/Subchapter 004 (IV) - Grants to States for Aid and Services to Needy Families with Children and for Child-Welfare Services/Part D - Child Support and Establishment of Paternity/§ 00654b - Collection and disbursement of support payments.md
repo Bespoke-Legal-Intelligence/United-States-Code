@@ -32,7 +32,7 @@ The State disbursement unit shall use automated procedures, electronic processes
 
 &emsp;(3) to ensure prompt disbursement of the custodial parent's share of any payment; and
 
-&emsp;(4) to furnish to any parent, upon request, timely information on the current status of support payments under an order requiring payments to be made by or to the parent, except that in cases described in subsection (a)(1)(B) of this section, the State disbursement unit shall not be required to convert and maintain in automated form records of payments kept pursuant to section 666(a)(8)(B)(iii) of this title before the effective date of this section.
+&emsp;(4) to furnish to any parent, upon request, timely information on the current status of support payments under an order requiring payments to be made by or to the parent, except that in cases described in subsection (a)(1)(B) of this section, the State disbursement unit shall not be required to convert andmaintain in automated form records of payments kept pursuant to section 666(a)(8)(B)(iii) of this title before the effective date of this section.
 
 #### (c) Timing of disbursements
 
@@ -56,7 +56,7 @@ For effective date of this section, referred to in subsec. (b)(4), see Effective
 
 #### Amendments
 
-1997—Subsec. (c)(1). Pub. L. 105–33 inserted at end “The date of collection for amounts collected and distributed under this part is the date of receipt by the State disbursement unit, except that if current support is withheld by an employer in the month when due and is received by the State disbursement unit in a month other than the month when due, the date of withholding may be deemed to be the date of collection.”
+<b>1997</b>—Subsec. (c)(1). Pub. L. 105–33 inserted at end “The date of collection for amounts collected and distributed under this part is the date of receipt by the State disbursement unit, except that if current support is withheld by an employer in the month when due and is received by the State disbursement unit in a month other than the month when due, the date of withholding may be deemed to be the date of collection.”
 
 #### Effective Date of 1997 Amendment
 

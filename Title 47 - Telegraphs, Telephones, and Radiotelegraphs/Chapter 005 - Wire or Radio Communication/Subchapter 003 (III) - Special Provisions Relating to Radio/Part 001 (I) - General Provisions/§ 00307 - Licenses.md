@@ -42,11 +42,11 @@ Notwithstanding any other provision of law, (1) any holder of a broadcast licens
 
 #### Amendments
 
-2004—Subsec. (c)(3). Pub. L. 108–447, §213(1), substituted “any administrative or judicial hearing” for “any hearing” and inserted “or section 402” after “section 405”.
+<b>2004</b>—Subsec. (c)(3). Pub. L. 108–447, §213(1), substituted “any administrative or judicial hearing” for “any hearing” and inserted “or section 402” after “section 405”.
 
 Subsec. (f). Pub. L. 108–447, §213(2), added subsec. (f).
 
-1996—Subsec. (c). Pub. L. 104–104, §203, inserted heading and amended text generally, restructuring existing provisions into pars. (1) to (3) and substituting provisions providing 8 year term for licenses of broadcasting stations for provisions providing 5 year term for licenses of television broadcasting stations, 7 year term for licenses of radio broadcasting stations, and 10 year term for other broadcasting stations.
+<b>1996</b>—Subsec. (c). Pub. L. 104–104, §203, inserted heading and amended text generally, restructuring existing provisions into pars. (1) to (3) and substituting provisions providing 8 year term for licenses of broadcasting stations for provisions providing 5 year term for licenses of television broadcasting stations, 7 year term for licenses of radio broadcasting stations, and 10 year term for other broadcasting stations.
 
 Subsec. (e). Pub. L. 104–104, §403(i), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows:
 
@@ -56,21 +56,21 @@ Subsec. (e). Pub. L. 104–104, §403(i), amended subsec. (e) generally. Prior t
 
 “(3) For purposes of this subsection, the terms ‘radio control service’ and ‘citizens band radio service’ shall have the meanings given them by the Commission by rule.”
 
-1982—Subsec. (c). Pub. L. 97–259, §112, redesignated subsec. (d) as (c), substituted “ten years” for “five years” after “station) shall be for a longer term than” and “term of not to exceed”, and inserted provision that the term of any license for the operation of any auxiliary broadcast station or equipment which can be used only in conjunction with a primary radio, television, or translator station shall be concurrent with the term of the license for such primary radio, television, or translator station. Former subsec. (c), which required the Commission to study proposal that Congress allocate fixed percentages of radio broadcasting facilities to nonprofit activities and report recommendations, with reasons, to Congress not later than Feb. 1, 1935, was struck out.
+<b>1982</b>—Subsec. (c). Pub. L. 97–259, §112, redesignated subsec. (d) as (c), substituted “ten years” for “five years” after “station) shall be for a longer term than” and “term of not to exceed”, and inserted provision that the term of any license for the operation of any auxiliary broadcast station or equipment which can be used only in conjunction with a primary radio, television, or translator station shall be concurrent with the term of the license for such primary radio, television, or translator station. Former subsec. (c), which required the Commission to study proposal that Congress allocate fixed percentages of radio broadcasting facilities to nonprofit activities and report recommendations, with reasons, to Congress not later than Feb. 1, 1935, was struck out.
 
 Subsec. (d). Pub. L. 97–259, §112(a), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
 Subsec. (e). Pub. L. 97–259, §§112(a), 113(a), added subsec. (e) and redesignated former subsec. (e) as (d).
 
-1981—Subsec. (d). Pub. L. 97–35 substituted provisions authorizing term of five years for a television broadcasting station license, seven years for a radio broadcasting station license, and five years for any other class of license, with comparable provisions for renewal, for provisions authorizing term of three years for a broadcasting station license, and five years for any other class of station license, with comparable provisions for renewal.
+<b>1981</b>—Subsec. (d). Pub. L. 97–35 substituted provisions authorizing term of five years for a television broadcasting station license, seven years for a radio broadcasting station license, and five years for any other class of license, with comparable provisions for renewal, for provisions authorizing term of three years for a broadcasting station license, and five years for any other class of station license, with comparable provisions for renewal.
 
-1962—Subsec. (e). Pub. L. 87–439 inserted “in the broadcast or the common carrier services” before “shall be granted”.
+<b>1962</b>—Subsec. (e). Pub. L. 87–439 inserted “in the broadcast or the common carrier services” before “shall be granted”.
 
-1960—Subsec. (d). Pub. L. 86–752 inserted last sentence dealing with the Commission's authority to grant licenses for periods shorter than 3 years.
+<b>1960</b>—Subsec. (d). Pub. L. 86–752 inserted last sentence dealing with the Commission's authority to grant licenses for periods shorter than 3 years.
 
-1952—Subsec. (d). Act July 16, 1952, provided that upon the expiration of any license, any renewal applied for may be granted “if the Commission finds that public interest, convenience, and necessity would be served thereby”, and provided that pending a hearing and final decision on an application for renewal and the disposition of any petition for a rehearing the Commission shall continue the license in effect.
+<b>1952</b>—Subsec. (d). Act July 16, 1952, provided that upon the expiration of any license, any renewal applied for may be granted “if the Commission finds that public interest, convenience, and necessity would be served thereby”, and provided that pending a hearing and final decision on an application for renewal and the disposition of any petition for a rehearing the Commission shall continue the license in effect.
 
-1936—Subsec. (b). Act June 5, 1936, amended subsec. (b) generally.
+<b>1936</b>—Subsec. (b). Act June 5, 1936, amended subsec. (b) generally.
 
 #### Effective Date of 1981 Amendment
 

@@ -34,7 +34,7 @@ At such time as the State or appropriate units of local government having jurisd
 
 #### (e) Withdrawal of management and administration from State or local units of government
 
-If, after the transfer of management and administration of any lands pursuant to subsection (c) of this section, the Secretary determines that the reserve is not being managed in a manner consistent with the purposes of this subchapter, he shall so notify the appropriateofficers of the State or local unit of government to which such transfer was made and provide for a one hundred and eighty-day period in which the transferee may make such modifications in applicable laws, ordinances, rules, and procedures as will be consistent with such purposes. If, upon the expiration of such one hundred and eighty-day period, the Secretary determines that such modifications have not been made or are inadequate, he shall withdraw the management and administration from the transferee and he shall manage such lands in accordance with the provisions of this subchapter.
+If, after the transfer of management and administration of any lands pursuant to subsection (c) of this section, the Secretary determines that the reserve is not being managed in a manner consistent with the purposes of this subchapter, he shall so notify the appropriate officers of the State or local unit of government to which such transfer was made and provide for a one hundred and eighty-day period in which the transferee may make such modifications in applicable laws, ordinances, rules, and procedures as will be consistent with such purposes. If, upon the expiration of such one hundred and eighty-day period, the Secretary determines that such modifications have not been made or are inadequate, he shall withdraw the management and administration from the transferee and he shall manage such lands in accordance with the provisions of this subchapter.
 
 #### (f) Water rights
 
@@ -52,13 +52,11 @@ There is hereby authorized to be appropriated not to exceed $2,000,000 to carry 
 
 #### References in Text
 
-The public land laws, referred to in subsec. (g), are classified generally to Title 43, Public Lands.
-
-The mining laws and the mineral leasing laws of the United States, referred to in subsec. (g), are classified generally to Title 30, Mineral Lands and Mining.
-
-The Geothermal Steam Act of 1970, referred to in subsec. (g), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, as amended, which is classified generally to chapter 23 (§1001 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
+The Geothermal Steam Act of 1970, referred to in subsec. (g), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified generally to chapter 23 (§1001 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
 
 #### Permission To Hunt on Reserve; Restrictions
 
 Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1923, provided that: “with respect to lands and waters under the jurisdiction of the Secretary of the Interior within the City of Rocks National Reserve established by title II of Public Law 100–696 \[enacting sections 460yy and 460yy–1 of this title\], the Secretary shall hereafter permit hunting in accordance with the otherwise applicable laws of the United States and the State of Idaho, except that he may designate zones where and periods when no hunting may be permitted for reasons of public safety, administration, floral and faunal protection and management, or public use and enjoyment: <i>Provided further</i>, That except in emergencies, any regulation prescribing such restrictions shall be put into effect only after consultation with the appropriate State agency having jurisdiction over hunting activities”.
+
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

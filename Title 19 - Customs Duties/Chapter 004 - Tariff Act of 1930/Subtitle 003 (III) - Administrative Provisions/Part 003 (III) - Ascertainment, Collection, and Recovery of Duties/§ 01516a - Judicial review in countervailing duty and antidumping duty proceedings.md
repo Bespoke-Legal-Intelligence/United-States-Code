@@ -292,7 +292,7 @@ For purposes of this section—
 
 #### (ii) Subparagraph (B) actions
 
-&emsp;&emsp;&emsp;No claim shall be heard, and no temporary restraining order or temporary or permanent injunction shall be issued, under an action commenced under subparagraph (B), unless the party seeking review first files an undertaking with adequate security in an amount to be fixed by the court sufficient to recompense parties affected for any loss, expense, or damage caused by the improvident or erroneous issuance of such order or injunction. If a court upholds the constitutionality of the determination in question in such action, the court shall award to a prevailing party fees and expenses, in addition to any costs incurred by that party, unless the court finds that the position of the other party was substantially justified or that special circumstances make an award unjust.
+&emsp;&emsp;&emsp;No claim shall be heard, and no temporary restraining order or temporary orpermanent injunction shall be issued, under an action commenced under subparagraph (B), unless the party seeking review first files an undertaking with adequate security in an amount to be fixed by the court sufficient to recompense parties affected for any loss, expense, or damage caused by the improvident or erroneous issuance of such order or injunction. If a court upholds the constitutionality of the determination in question in such action, the court shall award to a prevailing party fees and expenses, in addition to any costs incurred by that party, unless the court finds that the position of the other party was substantially justified or that special circumstances make an award unjust.
 
 #### (G) Panel record
 
@@ -328,7 +328,7 @@ For purposes of this section—
 
 #### (iv) Judicial review
 
-&emsp;&emsp;&emsp;Any action taken by the administering authority or the United States Customs Service under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on anyquestion of law or fact by an action in the nature of mandamus or otherwise.
+&emsp;&emsp;&emsp;Any action taken by the administering authority or the United States Customs Service under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
 
 #### (6) Injunctive relief
 
@@ -376,7 +376,7 @@ For purposes of this section—
 
 #### (10) Notification of class or kind rulings
 
-&emsp;In the case of a determination which is described in paragraph (2)(B)(vi) of subsection (a)of this section and which is subject to the provisions of paragraph (2), the administering authority, upon request, shall inform any interested person of the date on which the Government of the relevant FTA country received notice of the determination under paragraph 4 of article 1904 of the NAFTA or the Agreement.
+&emsp;In the case of a determination which is described in paragraph (2)(B)(vi) of subsection (a) of this section and which is subject to the provisions of paragraph (2), the administering authority, upon request, shall inform any interested person of the date on which the Government of the relevant FTA country received notice of the determination under paragraph 4 of article 1904 of the NAFTA or the Agreement.
 
 #### (11) Suspension and termination of suspension of article 1904 of the NAFTA
 
@@ -442,7 +442,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(III) an interested party that was a party to the proceeding in connection with which panel review was requested, but only if the time for filing notices of appearance in the panel review has not expired.
 
-(June 17, 1930, ch. 497, title IV, §516A, as added Pub. L. 96–39, title X, §1001(a), July 26, 1979, 93 Stat. 300; amended Pub. L. 96–417, title VI, §§601(7), 608, Oct. 10, 1980, 94 Stat. 1744, 1745; Pub. L. 96–542, §2, Dec. 17, 1980, 94 Stat. 3210; Pub. L. 97–164, title I, §163(a)(2), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–573, title VI, §623(a), Oct. 30, 1984, 98 Stat. 3040; Pub. L. 99–514, title XVIII, §1888(6), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 100–449, title IV, §401, Sept. 28, 1988, 102 Stat. 1878; Pub. L. 101–382, title I, §134(a)(3), Aug. 20, 1990, 104 Stat. 649; Pub. L. 103–182, title IV, §411, Dec. 8, 1993, 107 Stat. 2140; Pub. L. 103–465, title I, §129(e), title II, §§220(b), 270(a)(1)(N), 271(b), Dec. 8, 1994, 108 Stat. 4838, 4864, 4917, 4921; Pub. L. 104–295, §§20(a)(1), 21(c)(3), 22, Oct. 11, 1996, 110 Stat. 3526, 3530, 3531; Pub. L. 109–432, div. D, title III, §3002, Dec. 20, 2006, 120 Stat. 3173.)
+(June 17, 1930, ch. 497, title IV, §516A, as added Pub. L. 96–39, title X, §1001(a), July 26, 1979, 93 Stat. 300; amended Pub. L. 96–417, title VI, §§601(7), 608, Oct. 10, 1980, 94 Stat. 1744, 1745; Pub. L. 96–542, §2, Dec. 17, 1980, 94 Stat. 3210; Pub. L. 97–164, title I, §163(a)(2), Apr. 2, 1982, 96 Stat. 49;Pub. L. 98–573, title VI, §623(a), Oct. 30, 1984, 98 Stat. 3040; Pub. L. 99–514, title XVIII, §1888(6), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 100–449, title IV, §401, Sept. 28, 1988, 102 Stat. 1878; Pub. L. 101–382, title I, §134(a)(3), Aug. 20, 1990, 104 Stat. 649; Pub. L. 103–182, title IV, §411, Dec. 8, 1993, 107 Stat. 2140; Pub. L. 103–465, title I, §129(e), title II, §§220(b), 270(a)(1)(N), 271(b), Dec. 8, 1994, 108 Stat. 4838, 4864, 4917, 4921; Pub. L. 104–295, §§20(a)(1), 21(c)(3), 22, Oct. 11, 1996, 110 Stat. 3526, 3530, 3531; Pub. L. 109–432, div. D, title III, §3002, Dec. 20, 2006, 120 Stat. 3173.)
 
 #### References in Text
 
@@ -460,15 +460,15 @@ In the original, section 1001(a) of Pub. L. 96–39 directed that this section, 
 
 #### Amendments
 
-2006—Subsec. (g)(1)(B). Pub. L. 109–432 substituted “(vi), or (vii)” for “or (vi)”.
+<b>2006</b>—Subsec. (g)(1)(B). Pub. L. 109–432 substituted “(vi), or (vii)” for “or (vi)”.
 
-1996—Subsec. (a)(2)(A)(i)(I). Pub. L. 104–295, §20(a)(1), inserted comma after “subparagraph (B)”.
+<b>1996</b>—Subsec. (a)(2)(A)(i)(I). Pub. L. 104–295, §20(a)(1), inserted comma after “subparagraph (B)”.
 
 Subsec. (g)(4)(A). Pub. L. 104–295, §22, substituted “Agreement Implementation Act of 1988” for “Implementation Agreement Act of 1988”.
 
 Subsec. (g)(12)(D). Pub. L. 104–295, §21(c)(3), transferred designation “(i)” from heading to before sentence beginning “If the Trade Representative”.
 
-1994—Subsec. (a)(1)(D). Pub. L. 103–465, §220(b)(1), added subpar. (D).
+<b>1994</b>—Subsec. (a)(1)(D). Pub. L. 103–465, §220(b)(1), added subpar. (D).
 
 Subsec. (a)(2)(A)(i)(I). Pub. L. 103–465, §271(b)(1), substituted “(v), or (viii)” for “or (v)”.
 
@@ -490,7 +490,7 @@ Subsec. (b)(1)(B). Pub. L. 103–465, §220(b)(2)(B), designated existing provis
 
 Subsec. (g)(8)(A)(i). Pub. L. 103–465, §129(e)(3), substituted “(A), (B), or (E)” for “(A) or (B)”.
 
-1993—Subsec. (a)(5). Pub. L. 103–182, §411(1), amended par. (5) generally, substituting present provisions for provisions relating to time limits for commencing review in cases involving Canadian merchandise.
+<b>1993</b>—Subsec. (a)(5). Pub. L. 103–182, §411(1), amended par. (5) generally, substituting present provisions for provisions relating to time limits for commencing review in cases involving Canadian merchandise.
 
 Subsec. (b)(3). Pub. L. 103–182, §411(2), inserted “NAFTA or” after “decisions by” in heading and “of the NAFTA or” after “article 1904” in text.
 
@@ -522,7 +522,7 @@ Subsec. (g)(8)(A). Pub. L. 103–182, §411(4)(J), designated existing provision
 
 Subsec. (g)(8)(B)(ii). Pub. L. 103–182, §411(4)(K), substituted “relevant FTA Secretary” for “Canadian Secretary”.
 
-Subsec. (g)(8)(C). Pub. L. 103–182, §411(4)(L), substituted “of a determination under article 1904 of the NAFTA or the Agreement” for “under article 1904 of the Agreement of a determination”.
+Subsec. (g)(8)(C). Pub. L. 103–182, §411(4)(L), substituted “of a determination under article 1904 of theNAFTA or the Agreement” for “under article 1904 of the Agreement of a determination”.
 
 Subsec. (g)(9). Pub. L. 103–182, §411(4)(M), inserted “of the NAFTA or” after “chapter 19”.
 
@@ -530,7 +530,7 @@ Subsec. (g)(10). Pub. L. 103–182, §411(4)(N), substituted “Government of th
 
 Subsec. (g)(11), (12). Pub. L. 103–182, §411(4)(O), added pars. (11) and (12).
 
-1990—Subsec. (a)(5)(A). Pub. L. 101–382, §134(a)(3)(A)(i), added subpar. (A) and struck out former subpar. (A) which read as follows: “the date of publication in the Federal Register of—
+<b>1990</b>—Subsec. (a)(5)(A). Pub. L. 101–382, §134(a)(3)(A)(i), added subpar. (A) and struck out former subpar. (A) which read as follows: “the date of publication in the Federal Register of—
 
 &emsp;“(i) notice of any determination described in paragraph (1)(B) or a determination described in clause (ii) or (iii) of paragraph (2)(B), or
 
@@ -542,7 +542,7 @@ Subsec. (g)(3)(A)(iv). Pub. L. 101–382, §134(a)(3)(B)(i), added cl. (iv).
 
 Subsec. (g)(3)(B). Pub. L. 101–382, §134(a)(3)(B)(ii), inserted “or (iv)” after “subparagraph (A)(i)”.
 
-1988—Subsec. (a)(5). Pub. L. 100–449, §401(a), added par. (5).
+<b>1988</b>—Subsec. (a)(5). Pub. L. 100–449, §401(a), added par. (5).
 
 Subsec. (b)(3). Pub. L. 100–449, §401(d), added par. (3).
 
@@ -550,9 +550,9 @@ Subsec. (f)(5) to (7). Pub. L. 100–449, §401(b), added pars. (5) to (7).
 
 Subsec. (g). Pub. L. 100–449, §401(c), added subsec. (g).
 
-1986—Subsec. (a)(3). Pub. L. 99–514 substituted “(2)(A)(i)(II)” for “(2)(A)(ii)”.
+<b>1986</b>—Subsec. (a)(3). Pub. L. 99–514 substituted “(2)(A)(i)(II)” for “(2)(A)(ii)”.
 
-1984—Subsec. (a)(1). Pub. L. 98–573, §623(a)(1), amended par. (1) generally, and thereby struck out the designation “(A)” before “Within 30 days”, redesignated former cls. (i) to (iii) as subpars. (A) to (C), respectively, in subpar. (A) as so redesignated struck out references to the Secretary and to section 1303(a)(3) of this title, in subpar. (B) as so redesignated struck out reference to the administering authority and to review of agreements based on changed circumstances, and struck out former subpar. (B), relating to a right of judicial review of certain determinations of the administering authority within 10 days after publication of notice of the determination in the Federal Register.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–573, §623(a)(1), amended par. (1) generally, and thereby struck out the designation “(A)” before “Within 30 days”, redesignated former cls. (i) to (iii) as subpars. (A) to (C), respectively, in subpar. (A) as so redesignated struck out references to the Secretary and to section 1303(a)(3) of this title, in subpar. (B) as so redesignated struck out reference to the administering authority and to review of agreements based on changed circumstances, and struck out former subpar. (B), relating to a right of judicial review of certain determinations of the administering authority within 10 days after publication of notice of the determination in the Federal Register.
 
 Subsec. (a)(2)(A). Pub. L. 98–573, §623(a)(2), inserted the designation “(i)” before “the date of publication in the Federal Register of”, redesignated cls. (i) and (ii) as subcls. (I) and (II), respectively, and added cl. (ii).
 
@@ -568,9 +568,9 @@ Subsec. (a)(2)(B)(vi). Pub. L. 98–573, §623(a)(3), added cl. (vi).
 
 Subsec. (a)(3), (4). Pub. L. 98–573, §623(a)(4), added par. (3) and redesignated former par. (3) as (4).
 
-1982—Subsecs. (c)(1), (e). Pub. L. 97–164 substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals”.
+<b>1982</b>—Subsecs. (c)(1), (e). Pub. L. 97–164 substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals”.
 
-1980—Subsec. (a)(1). Pub. L. 96–417, §608(a), inserted subpar. “(A) Thirty-day review” heading; redesignated as cls. (i), (ii), and (iii) of subpar. (A) provisions formerly designated as subpars. (A), (C), and (D) of par. (1); inserted subpar. “(B) Ten-day review” heading and its introductory text; redesignated as cls. (i) and (ii) of subpar. (B) provisions formerly designated as subpars. (B) and (E) of par. (1), thus substituting ten-day for thirty-day review for such clauses; enacted provision respecting commencement of action by an interested party following subpars. (A) and (B), formerly enacted following only par. (1); and redesignated the United States Customs Court as the United States Court of International Trade in the latter provisions.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–417, §608(a), inserted subpar. “(A) Thirty-day review” heading; redesignated as cls. (i), (ii), and (iii) of subpar. (A) provisions formerly designated as subpars. (A), (C), and (D) of par. (1); inserted subpar. “(B) Ten-day review” heading and its introductory text; redesignated as cls. (i) and (ii) of subpar. (B) provisions formerly designated as subpars. (B) and (E) of par. (1), thus substituting ten-day for thirty-day review for such clauses; enacted provision respecting commencement of action by an interested party following subpars. (A) and (B), formerly enacted following only par. (1); and redesignated the United States Customs Court as the United States Court of International Trade in the latter provisions.
 
 Subsec. (a)(2)(A). Pub. L. 96–417, §601(7), redesignated the United States Customs Court as the United States Court of International Trade.
 
@@ -588,7 +588,7 @@ Subsec. (e). Pub. L. 96–417, §601(7), redesignated the United States Customs 
 
 Amendment by section 129(e) of Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], see section 130 of Pub. L. 103–465, set out as an Effective Date note under section 3531 of this title.
 
-Amendment by sections 220(b), 270(a)(1)(N), and 271(b) of Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed underspecified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
+Amendment by sections 220(b), 270(a)(1)(N), and 271(b) of Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -656,7 +656,7 @@ For provisions relating to effect of termination of NAFTA country status on the 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Acceptance by President of Panel and Committee Decisions
 

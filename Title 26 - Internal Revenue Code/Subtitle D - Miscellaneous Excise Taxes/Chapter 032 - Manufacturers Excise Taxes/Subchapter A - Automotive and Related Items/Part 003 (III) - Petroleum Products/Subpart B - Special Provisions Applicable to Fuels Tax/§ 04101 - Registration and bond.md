@@ -64,7 +64,7 @@ The Secretary may require—
 
 > Any person who is required to report under this subsection and who has 25 or more reportable transactions in a month shall file such report in electronic format.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 484; Pub. L. 89–44, title VIII, §802(b)(2), June 21, 1965, 79 Stat. 159; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–424, title V, §515(b)(8), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 99–514, title XVII, §1703(b)(1), Oct. 22, 1986, 100 Stat. 2776; Pub. L. 100–203, title X, §10502(d)(3), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 101–508, title XI, §11212(b)(1), Nov. 5, 1990, 104 Stat. 1388–430; Pub. L. 103–66, title XIII, §13242(d)(1), Aug. 10, 1993, 107 Stat. 522; Pub. L. 105–34, title X, §1032(d), Aug. 5, 1997, 111 Stat. 934; Pub. L. 105–206, title VI, §6010(h)(5), July 22, 1998, 112 Stat. 815; Pub. L. 107–147, title VI, §615(a), Mar. 9, 2002, 116 Stat. 62; Pub. L. 108–357, title III, §301(b), title VIII, §§853(d)(2)(F), 861(a), 862(a), 864(a), Oct. 22, 2004, 118 Stat. 1461, 1613, 1618, 1619, 1621; Pub. L. 109–59, title XI, §§11113(c), 11163(a), 11164(a), Aug. 10, 2005, 119 Stat. 1949, 1973, 1975; Pub. L. 110–172, §11(a)(29), Dec. 29, 2007, 121 Stat. 2487; Pub. L. 110–234, title XV, §15321(b)(3)(A),May 22, 2008, 122 Stat. 1513; Pub. L. 110–246, §4(a), title XV, §15321(b)(3)(A), June 18, 2008, 122 Stat. 1664, 2275.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 484; Pub. L. 89–44, title VIII, §802(b)(2), June 21, 1965, 79 Stat. 159; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–424, title V, §515(b)(8), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 99–514, title XVII, §1703(b)(1), Oct. 22, 1986, 100 Stat. 2776; Pub. L. 100–203, title X, §10502(d)(3), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 101–508, title XI, §11212(b)(1), Nov. 5, 1990, 104 Stat. 1388–430; Pub. L. 103–66, title XIII, §13242(d)(1), Aug. 10, 1993, 107 Stat. 522; Pub. L. 105–34, title X, §1032(d), Aug. 5, 1997, 111 Stat. 934; Pub. L. 105–206, title VI, §6010(h)(5), July 22, 1998, 112 Stat. 815; Pub. L. 107–147, title VI, §615(a), Mar. 9, 2002, 116 Stat. 62; Pub. L. 108–357, title III, §301(b), title VIII, §§853(d)(2)(F), 861(a), 862(a), 864(a), Oct. 22, 2004, 118 Stat. 1461, 1613, 1618, 1619, 1621; Pub. L. 109–59, title XI, §§11113(c), 11163(a), 11164(a), Aug. 10, 2005, 119 Stat. 1949, 1973, 1975; Pub. L. 110–172, §11(a)(29), Dec. 29, 2007, 121 Stat. 2487; Pub. L. 110–234, title XV, §15321(b)(3)(A), May 22, 2008, 122 Stat. 1513; Pub. L. 110–246, §4(a), title XV, §15321(b)(3)(A), June 18, 2008, 122 Stat. 1664, 2275.)
 
 #### Codification
 
@@ -72,17 +72,17 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–246, §15321(b)(3)(A), substituted “, every person producing or importing” for “and every person producing or importing” and inserted “, and every person producing cellulosic biofuel (as defined in section 40(b)(6)(E))” before “shall register”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §15321(b)(3)(A), substituted “, every person producing or importing” for “and every person producing or importing” and inserted “, and every person producing cellulosic biofuel (as defined in section 40(b)(6)(E))” before “shall register”.
 
-2007—Subsec. (a)(4), (5). Pub. L. 110–172 redesignated par. (4) relating to reregistration in event of change of ownership as (5).
+<b>2007</b>—Subsec. (a)(4), (5). Pub. L. 110–172 redesignated par. (4) relating to reregistration in event of change of ownership as (5).
 
-2005—Subsec. (a)(1). Pub. L. 109–59, §11113(c), substituted “4041(a)” for “4041(a)(1)”.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–59, §11113(c), substituted “4041(a)” for “4041(a)(1)”.
 
 Subsec. (a)(4). Pub. L. 109–59, §11164(a), added par. (4) relating to reregistration in event of change in ownership.
 
 Pub. L. 109–59, §11163(a), added par. (4) relating to registration of persons extending credit on certain exempt sales of fuel.
 
-2004—Subsec. (a). Pub. L. 108–357, §861(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
+<b>2004</b>—Subsec. (a). Pub. L. 108–357, §861(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 Pub. L. 108–357, §853(d)(2)(F), substituted “or 4081” for “, 4081, or 4091”.
 
@@ -92,7 +92,7 @@ Subsec. (a)(2), (3). Pub. L. 108–357, §862(a), added par. (2) and redesignate
 
 Subsec. (d). Pub. L. 108–357, §864(a), inserted concluding provisions.
 
-2002—Subsec. (e). Pub. L. 107–147 struck out heading and text of subsec. (e). Text read as follows:
+<b>2002</b>—Subsec. (e). Pub. L. 107–147 struck out heading and text of subsec. (e). Text read as follows:
 
 “(1)
 
@@ -102,13 +102,13 @@ In general.—A terminal for kerosene or diesel fuel may not be an approved faci
 
 Exception.—Paragraph (1) shall not apply to any terminal exclusively providing aviation-grade kerosene by pipeline to an airport.”
 
-1998—Subsec. (e)(1). Pub. L. 105–206 substituted “such fuel in a dyed form” for “dyed diesel fuel and kerosene”.
+<b>1998</b>—Subsec. (e)(1). Pub. L. 105–206 substituted “such fuel in a dyed form” for “dyed diesel fuel and kerosene”.
 
-1997—Subsec. (e). Pub. L. 105–34 added subsec. (e).
+<b>1997</b>—Subsec. (e). Pub. L. 105–34 added subsec. (e).
 
-1993—Subsec. (a). Pub. L. 103–66 substituted “4041(a)(1), 4081,” for “4081”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–66 substituted “4041(a)(1), 4081,” for “4081”.
 
-1990—Pub. L. 101–508 amended section generally. Prior to amendment, section read as follows:
+<b>1990</b>—Pub. L. 101–508 amended section generally. Prior to amendment, section read as follows:
 
 “(a)
 
@@ -118,15 +118,15 @@ Registration.—Every person subject to tax under section 4081 or 4091 shall, be
 
 Bond.—Under regulations prescribed by the Secretary, every person who registers under subsection (a) may be required to give a bond in such sum as the Secretary determines.”
 
-1987—Subsec. (a). Pub. L. 100–203 inserted “or 4091” after “section 4081”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–203 inserted “or 4091” after “section 4081”.
 
-1986—Pub. L. 99–514 amended section generally, substituting “Registration and bond” for “Registration” in section catchline, designating existing provisions as subsec. (a), inserting subsec. (a) heading, and adding subsec. (b).
+<b>1986</b>—Pub. L. 99–514 amended section generally, substituting “Registration and bond” for “Registration” in section catchline, designating existing provisions as subsec. (a), inserting subsec. (a) heading, and adding subsec. (b).
 
-1983—Pub. L. 97–424 struck out “or section 4091” after “4081”.
+<b>1983</b>—Pub. L. 97–424 struck out “or section 4091” after “4081”.
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1965—Pub. L. 89–44 struck out all references to a bond to be given and its terms and requirements.
+<b>1965</b>—Pub. L. 89–44 struck out all references to a bond to be given and its terms and requirements.
 
 #### Effective Date of 2008 Amendment
 
@@ -136,7 +136,7 @@ Amendment by section 15321(b)(3)(A) of Pub. L. 110–246 applicable to fuel prod
 
 #### Effective Date of 2005 Amendment
 
-Amendment by section 11113(c) of Pub. L. 109–59 applicable to any sale or use for any period after Sept. 30, 2006, see section 11113(d) of Pub. L. 109–59, set out as a note under section 4041 of this title.
+Amendment by section 11113(c) of Pub. L. 109–59 applicable to any sale or use for any period after Sept. 30,2006, see section 11113(d) of Pub. L. 109–59, set out as a note under section 4041 of this title.
 
 Pub. L. 109–59, title XI, §11163(e), Aug. 10, 2005, 119 Stat. 1975, provided that: “The amendments made by this section \[amending this section and sections 6206, 6416, 6427, and 6675 of this title\] shall apply to sales after December 31, 2005.”
 

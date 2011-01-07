@@ -6,5 +6,5 @@ The Secretary may pay to a person selected to receive assistance under this subc
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 4353 of this title as this section and substituted “7631” for “4331” and “7603” for “4303”.
+<b>1991</b>—Pub. L. 102–40 renumbered section 4353 of this title as this section and substituted “7631” for “4331” and “7603” for “4303”.
 

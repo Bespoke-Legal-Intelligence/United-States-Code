@@ -46,11 +46,11 @@ A prior section, added Pub. L. 87–651, title II, §209(a), Sept. 7, 1962, 76 S
 
 #### Amendments
 
-1998—Subsec. (g). Pub. L. 105–261, §820(a), struck out heading and text of subsec. (g). Text read as follows: “The authority provided to the Secretary of Defense by subsection (a) shall terminate on September 30, 2002.”
+<b>1998</b>—Subsec. (g). Pub. L. 105–261, §820(a), struck out heading and text of subsec. (g). Text read as follows: “The authority provided to the Secretary of Defense by subsection (a) shall terminate on September 30, 2002.”
 
-Subsec. (h). Pub. L. 105–261, §820(b), struck out heading and text of subsec. (h). Text read as follows: “Not later than March 1, 1998, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report identifying existing and proposed procedures to ensure that the use of Major Range and Test Facility Installations by commercial entities does not compete with private sector test and evaluation services.”
+Subsec. (h). Pub. L. 105–261, §820(b), struck out heading and text of subsec. (h). Text read as follows: “Not later than March 1, 1998, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report identifying existingand proposed procedures to ensure that the use of Major Range and Test Facility Installations by commercial entities does not compete with private sector test and evaluation services.”
 
-1997—Subsec. (g). Pub. L. 105–85, §842(a), substituted “2002” for “1998”.
+<b>1997</b>—Subsec. (g). Pub. L. 105–85, §842(a), substituted “2002” for “1998”.
 
 Subsec. (h). Pub. L. 105–85, §842(b), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows:
 

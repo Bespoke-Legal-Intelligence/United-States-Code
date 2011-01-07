@@ -52,7 +52,7 @@
 
 (2) If, after publication of a notice in accordance with paragraph (1), the Secretary receives a request for a change in the classification of the device, the Secretary shall, within 60 days of the publication of the notice, after consultation with the appropriate panel under section 360c of this title, either deny the request or give notice of an intent to initiate such change under section 360c(e) of this title.
 
-(3)(A) After the expiration of the period for comment on a notice of proposed rulemaking published under paragraph (1) respecting a performance standard and after consideration of such comments and any report from an advisory committee under paragraph (5), the Secretary shall (i) promulgate a regulation establishing a performance standard and publish in the Federal Register findings on the matters referred to in paragraph (1), or (ii) publish a notice terminating the proceeding for the development of the standard together with the reasons for such termination. If a notice of termination is published, the Secretary shall (unless such notice is issued because the device is a banned device under section 360f of this title) initiate a proceeding under section 360c(e) of this title to reclassify the device subject to the proceeding terminated by such notice.
+(3)(A) After the expiration of the period for comment on a notice of proposed rulemaking published under paragraph (1) respecting a performance standard and after consideration of such comments and any report from an advisorycommittee under paragraph (5), the Secretary shall (i) promulgate a regulation establishing a performance standard and publish in the Federal Register findings on the matters referred to in paragraph (1), or (ii) publish a notice terminating the proceeding for the development of the standard together with the reasons for such termination. If a notice of termination is published, the Secretary shall (unless such notice is issued because the device is a banned device under section 360f of this title) initiate a proceeding under section 360c(e) of this title to reclassify the device subject to the proceeding terminated by such notice.
 
 (B) A regulation establishing a performance standard shall set forth the date or dates upon which the standard shall take effect, but no such regulation may take effect before one year after the date of its publication unless (i) the Secretary determines that an earlier effective date is necessary for the protection of the public health and safety, or (ii) such standard has been established for a device which, effective upon the effective date of the standard, has been reclassified from class III to class II. Such date or dates shall be established so as to minimize, consistent with the public health and safety, economic loss to, and disruption or dislocation of, domestic and international trade.
 
@@ -68,7 +68,7 @@
 
 > to an advisory committee of experts, established pursuant to subparagraph (B), for a report and recommendation with respect to any matter involved in the proposed regulation which requires the exercise of scientific judgment. If a proposed regulation is referred under this subparagraph to an advisory committee, the Secretary shall provide the advisory committee with the data and information on which such proposed regulation is based. The advisory committee shall, within sixty days of the referral of a proposed regulation and after independent study of the data and information furnished to it by the Secretary and other data and information before it, submit to the Secretary a report and recommendation respecting such regulation, together with all underlying data and information and a statement of the reason or basis for the recommendation. A copy of such report and recommendation shall be made public by the Secretary.
 
-(B) The Secretary shall establish advisory committees (which may not be panels under section 360c of this title) to receive referrals under subparagraph (A). The Secretary shall appoint as members of any such advisory committee persons qualified in the subject matter to be referred to the committee and of appropriately diversified professional background, except that the Secretary may not appoint to such a committee any individual who is in the regular full-time employ of the United States and engaged in the administration of this chapter. Each such committee shall include as nonvoting members a representative of consumer interests and a representative of interests of the device manufacturing industry. Members of an advisory committee who are not officers or employees of the United States, while attending conferences or meetings of their committee or otherwise serving at the request of the Secretary, shall be entitled to receive compensation at rates to be fixed by the Secretary, which rates may not exceed the daily equivalent of the rate in effect for grade GS–18 of the General Schedule, for each day (including traveltime) they are so engaged; and while so serving away from their homes or regular places of business each member may beallowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently. The Secretary shall designate one of the members of each advisory committee to serve as chairman thereof. The Secretary shall furnish each advisory committee with clerical and other assistance, and shall by regulation prescribe the procedures to be followed by each such committee in acting on referrals made under subparagraph (A).
+(B) The Secretary shall establish advisory committees (which may not be panels under section 360c of this title) to receive referrals under subparagraph (A). The Secretary shall appoint as members of any such advisory committee persons qualified in the subject matter to be referred to the committee and of appropriately diversified professional background, except that the Secretary may not appoint to such a committee any individual who is in the regular full-time employ of the United States and engaged in the administration of this chapter. Each such committee shall include as nonvoting members a representative of consumer interests and a representative of interests of the device manufacturing industry. Members of an advisory committee who are not officers or employees of the United States, while attending conferences or meetings of their committee or otherwise serving at the request of the Secretary, shall be entitled to receive compensation at rates to be fixed by the Secretary, which rates may not exceed the daily equivalent of the rate in effect for grade GS–18 of the General Schedule, for each day (including traveltime) they are so engaged; and while so serving away from their homes or regular places of business each member may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently. The Secretary shall designate one of the members of each advisory committee to serve as chairman thereof. The Secretary shall furnish each advisory committee with clerical and other assistance, and shall by regulation prescribe the procedures to be followed by each such committee in acting on referrals made under subparagraph (A).
 
 #### (c) Recognition of standard
 
@@ -92,7 +92,7 @@
 
 #### Amendments
 
-1997—Subsec. (a)(1). Pub. L. 105–115, §204(d)(1), substituted “under subsection (b) of this section” for “under this section”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–115, §204(d)(1), substituted “under subsection (b) of this section” for “under this section”.
 
 Subsec. (a)(2). Pub. L. 105–115, §204(d)(2), substituted “under subsection (b) of this section” for “under this section” in introductory provisions.
 
@@ -102,11 +102,11 @@ Subsec. (a)(4). Pub. L. 105–115, §204(d)(4), substituted “this subsection a
 
 Subsec. (c). Pub. L. 105–115, §204(a), added subsec. (c).
 
-1993—Subsec. (b)(4)(B), (5)(A)(ii). Pub. L. 103–80 amended directory language of Pub. L. 101–619, §18(b), identical to amendment by Pub. L. 102–300, §6(g)(1). See 1992 and 1990 Amendment notes below.
+<b>1993</b>—Subsec. (b)(4)(B), (5)(A)(ii). Pub. L. 103–80 amended directory language of Pub. L. 101–619, §18(b), identical to amendment by Pub. L. 102–300, §6(g)(1). See 1992 and 1990 Amendment notes below.
 
-1992—Subsec. (b)(4)(B), (5)(A)(ii). Pub. L. 102–300 made technical corrections to directory language of Pub. L. 101–629, §18(b)(1), (2). See 1990 Amendment note below.
+<b>1992</b>—Subsec. (b)(4)(B), (5)(A)(ii). Pub. L. 102–300 made technical corrections to directory language of Pub. L. 101–629, §18(b)(1), (2). See 1990 Amendment note below.
 
-1990—Subsec. (a)(1). Pub. L. 101–629, §6(a)(1), substituted “The special controls required by section 360c(a)(1)(B) of this title shall include performance standards for a class II device if the Secretary determines that a performance standard is necessary to provide reasonable assurance of the safety and effectiveness of the device.” for “The Secretary may by regulation, promulgated in accordance with this section, establish a performance standard for a class II device.”
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–629, §6(a)(1), substituted “The special controls required by section 360c(a)(1)(B) of this title shall include performance standards for a class II device if the Secretary determines that a performance standard is necessary to provide reasonable assurance of the safety and effectiveness of the device.” for “The Secretary may by regulation, promulgated in accordance with this section, establish a performance standard for a class II device.”
 
 Subsec. (b). Pub. L. 101–629, §6(a)(2), (3), redesignated subsec. (g) as (b) and struck out former subsec. (b) which read as follows:
 
@@ -122,7 +122,7 @@ Subsec. (b)(1), (2). Pub. L. 101–629, §6(a)(4), amended pars. (1) and (2) gen
 
 &emsp;“(ii) issue a notice in the Federal Register that the proceeding is terminated together with the reasons for such termination.
 
-“(B) If the Secretary issues under subparagraph (A)(ii) a notice of termination of a proceeding to establish a performance standard for a device, he shall (unless such notice is issued because the device is a banneddevice under section 360f of this title) initiate a proceeding under section 360c(e) of this title to reclassify the device subject to the proceeding terminated by such notice.
+“(B) If the Secretary issues under subparagraph (A)(ii) a notice of termination of a proceeding to establish a performance standard for a device, he shall (unless such notice is issued because the device is a banned device under section 360f of this title) initiate a proceeding under section 360c(e) of this title to reclassify the device subject to the proceeding terminated by such notice.
 
 “(2) A notice of proposed rulemaking for the establishment of a performance standard for a device published under paragraph (1)(A)(i) shall set forth proposed findings with respect to the degree of the risk of illness or injury designed to be eliminated or reduced by the proposed standard and the benefit to the public from the device.”
 
@@ -138,7 +138,7 @@ Subsecs. (c) to (f). Pub. L. 101–629, §6(a)(2), struck out subsec. (c) relati
 
 Subsec. (g). Pub. L. 101–629, §6(a)(3), redesignated subsec. (g) as (b).
 
-1976—Subsec. (a). Pub. L. 94–460 redesignated pars. (4) and (5) as (3) and (4), respectively. Section as originally enacted contained no par. (3).
+<b>1976</b>—Subsec. (a). Pub. L. 94–460 redesignated pars. (4) and (5) as (3) and (4), respectively. Section as originally enacted contained no par. (3).
 
 #### Effective Date of 1997 Amendment
 

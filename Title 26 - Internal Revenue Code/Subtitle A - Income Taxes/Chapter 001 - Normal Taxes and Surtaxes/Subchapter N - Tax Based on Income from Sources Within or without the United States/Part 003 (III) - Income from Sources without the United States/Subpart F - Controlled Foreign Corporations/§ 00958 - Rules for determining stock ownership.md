@@ -36,17 +36,17 @@ For purposes of sections 951(b), 954(d)(3), 956(c)(2), and 957, section 318(a) (
 
 #### Amendments
 
-1996—Subsec. (a)(1). Pub. L. 104–188, §1704(t)(7), substituted “section 960(a)(1)” for “sections 955(b)(1)(A) and (B), 955(c)(2)(A)(ii), and 960(a)(1)” in introductory provisions.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–188, §1704(t)(7), substituted “section 960(a)(1)” for “sections 955(b)(1)(A) and (B), 955(c)(2)(A)(ii), and 960(a)(1)” in introductory provisions.
 
 Subsec. (b). Pub. L. 104–188, §1703(i)(4), substituted “956(c)(2)” for “956(b)(2)” wherever appearing in introductory and closing provisions.
 
-1976—Subsec. (b). Pub. L. 94–455 inserted “956(b)(2)” after “purposes of sections 951(b), 954(d)(3),”, “to treat the stock of a domestic corporation as owned by a United States shareholder of the controlled foreign corporation for purposes of section 956(b)(2)” after “meaning of section 954(d)(3)” and “Paragraphs (1) and (4) shall not apply for purposes of section 956(b)(2) to treat stock of a domestic corporation as not owned by a United States shareholder” following subpar. (4).
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 inserted “956(b)(2)” after “purposes of sections 951(b), 954(d)(3),”, “to treat the stock of a domestic corporation as owned by a United States shareholder of the controlled foreign corporation for purposes of section 956(b)(2)” after “meaning of section 954(d)(3)” and “Paragraphs (1) and (4) shall not apply for purposes of section 956(b)(2) to treat stock of a domestic corporation as not owned by a United States shareholder” following subpar. (4).
 
-1964—Subsec. (b). Pub. L. 88–554 redesignated pars. (4) and (5) as (3) and (4), respectively, struck out former par. (3) which related to ownership of stock by a partnership, estate, trust, or corporation for purposes of applying first sentence of subpars. (A) and (B), and subpar. (C)(i) of section 318(a)(2) of this title, and made amendments throughout subsec. (b) to conform to changes made in section 318 of this title by Pub. L. 88–554.
+<b>1964</b>—Subsec. (b). Pub. L. 88–554 redesignated pars. (4) and (5) as (3) and (4), respectively, struck out former par. (3) which related to ownership of stock by a partnership, estate, trust, or corporation for purposes of applying first sentence of subpars. (A) and (B), and subpar. (C)(i) of section 318(a)(2) of this title, and made amendments throughout subsec. (b) to conform to changes made in section 318 of this title by Pub. L. 88–554.
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 1703(i)(4) of Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
+Amendment by section 1703(i)(4) of Pub. L. 104–188 effective as if included in the provision of the RevenueReconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
 
 #### Effective Date of 1976 Amendment
 

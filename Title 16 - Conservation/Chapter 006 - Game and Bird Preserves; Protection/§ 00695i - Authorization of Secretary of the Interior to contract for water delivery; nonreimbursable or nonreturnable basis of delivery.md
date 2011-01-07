@@ -4,7 +4,7 @@ The Secretary of the Interior is authorized to contract for the delivery of wate
 
 #### (a) Amount and time of water delivery to Service
 
-&emsp;the public organizations or agencies contracting with the Secretary of the Interior, excluding the State of California, shall deliver annually to the United States Fish and Wildlife Service (hereinafter referred to as the “Service”), at no cost to the United States, not less than three thousand five hundred acre-feet of water during the period October 1 through November 30, inclusive, and not less than four thousand acre-feet of water during the period May 1 through September 30, inclusive, if available: <i>Provided</i>, That such amounts of water and times of delivery may be changed upon approval of the Secretary of the Interior;
+&emsp;the public organizations or agencies contracting with the Secretary of the Interior, excluding the State of California, shall deliver annually to the United States Fish and Wildlife Service (hereinafter referred to as the “Service”), at no cost to the United States, not less than three thousand five hundred acre-feet of water during the period October 1through November 30, inclusive, and not less than four thousand acre-feet of water during the period May 1 through September 30, inclusive, if available: <i>Provided</i>, That such amounts of water and times of delivery may be changed upon approval of the Secretary of the Interior;
 
 #### (b) Construction, operation, and maintenance of water conveyance facilities
 
@@ -12,7 +12,7 @@ The Secretary of the Interior is authorized to contract for the delivery of wate
 
 #### (c) Reversionary rights of Secretary
 
-&emsp;any contract entered into by the Secretary of the Interior and any public organization or agency pursuant to sections 695d to 695j–1 this title shall provide that in the event the public organization or agency for any reason fails to carry out the obligations imposed upon it by said contract or by sections 695d to 695j–1 this title, the rights of use of any facilities referred to in subsection (b) of this section, and the rights to all water contracted for by the organization or agency pursuant to sections 695d to 695j–1 this title shall revert to the Secretary of the Interior for migratory waterfowl purposes in accordance with the laws of the State of California; and
+&emsp;any contract entered into by the Secretary of the Interior and any public organization or agency pursuant to sections 695d to 695j–1 of this title shall provide that in the event the public organization or agency for any reason fails to carry out the obligations imposed upon it by said contract or by sections 695d to 695j–1 of this title, the rights of use of any facilities referred to in subsection (b) of this section, and the rights to all water contracted for by the organization or agency pursuant to sections 695d to 695j–1 of this title shall revert to the Secretary of the Interior for migratory waterfowl purposes in accordance with the laws of the State of California; and
 
 #### (d) Restrictive covenants
 
@@ -26,5 +26,5 @@ The Federal reclamation laws, referred to in introductory text, are identified i
 
 #### Amendments
 
-1978—Pub. L. 95–616 inserted second sentence, including pars. (a) to (d), and struck out prior second sentence which read as follows: “If and when available, such water shall be delivered from the Central Valley project at a charge not to exceed the prevailing charge for class 2 water.”
+<b>1978</b>—Pub. L. 95–616 inserted second sentence, including pars. (a) to (d), and struck out prior second sentence which read as follows: “If and when available, such water shall be delivered from the Central Valley project at a charge not to exceed the prevailing charge for class 2 water.”
 

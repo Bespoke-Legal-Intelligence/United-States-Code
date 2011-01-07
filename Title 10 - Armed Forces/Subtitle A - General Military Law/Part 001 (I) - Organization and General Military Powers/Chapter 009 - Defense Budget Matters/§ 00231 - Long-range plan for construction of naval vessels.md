@@ -1,0 +1,60 @@
+### §231. Long-range plan for construction of naval vessels
+
+(a)
+
+Quadrennial Naval Vessel Construction Plan.—At the same time that the budget of the President is submitted under section 1105(a) of title 31 during each year in which the Secretary of Defense submits a quadrennial defense review, the Secretary of the Navy shall submit to the congressional defense committees a long-range plan for the construction of combatant and support vessels for the Navy that supports the force structure recommendations of the quadrennial defense review.
+
+(b)
+
+Matters Included.—The plan under subsection (a) shall include the following:
+
+&emsp;(1) A detailed construction schedule of naval vessels for the 10-year period beginning on the date on which the plan is submitted, including a certification by the Secretary that the budget for the fiscal year in which the plan is submitted and the budget for the future-years defense program submitted under section 221 of this title are sufficient for funding such schedule.
+
+&emsp;(2) A probable construction schedule for the 10-year period beginning on the date that is 10 years after the date on which the plan is submitted.
+
+&emsp;(3) A notional construction schedule for the 10-year period beginning on the date that is 20 years after the date on which the plan is submitted.
+
+&emsp;(4) The estimated levels of annual funding necessary to carry out the construction schedules under paragraphs (1), (2), and (3).
+
+&emsp;(5) For the construction schedules under paragraphs (1) and (2)—
+
+&emsp;&emsp;(A) a determination by the Director of Cost Assessment and Program Evaluation of the level of funding necessary to execute such schedules; and
+
+&emsp;&emsp;(B) an evaluation by the Director of the potential risk associated with such schedules, including detailed effects on operational plans, missions, deployment schedules, and fulfillment of the requirements of the combatant commanders.
+
+(c)
+
+Naval Composition.—In submitting the plan under subsection (a), the Secretary shall ensure that such plan is in accordance with section 5062(b) of this title.
+
+(d)
+
+Assessment When Budget Is Insufficient.—If the budget for a fiscal year provides for funding of the construction of naval vessels at a level that is less than the level determined necessary by the Director of Cost Assessment and Program Evaluation under subsection (b)(5), the Secretary of the Navy shall include with the defense budget materials for that fiscal year an assessment that describes and discusses the risks associated with the budget, including the risk associated with a reduced force structure that may result from funding naval vessel construction at such a level.
+
+(e)
+
+CBO Evaluation.—Not later than 60 days after the date on which the congressional defense committees receive the plan under subsection (a), the Director of the Congressional Budget Office shall submit to such committees a report assessing the sufficiency of the estimated levels of annual funding included in such plan with respect to the budget submitted during the year in which the plan is submitted and the future-years defense program submitted under section 221 of this title.
+
+(f)
+
+Changes to the Construction Plan.—In any year in which a quadrennial defense review is not submitted and the budget of the President submitted under section 1105(a) of title 31 decreases the number of vessels requested in the future-years defense program submitted under section 221 of this title, the Secretary of the Navy shall submit to the congressional defense committees a report on such decrease including—
+
+&emsp;(1) an addendum to the most recent quadrennial defense review that fully explains and justifies the decrease with respect to the national security strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 (50 U.S.C. 404a); and
+
+&emsp;(2) a description of the additional reviews and analyses considered by the Secretary after the previous quadrennial defense review was submitted that justify the decrease.
+
+(g)
+
+Definitions.—In this section:
+
+&emsp;(1) The term “budget”, with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31.
+
+&emsp;(2) The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
+
+&emsp;(3) The term “quadrennial defense review” means the review of the defense programs and policies of the United States that is carried out every four years under section 118 of this title.
+
+(Added Pub. L. 107–314, div. A, title X, §1022(a)(1), Dec. 2, 2002, 116 Stat. 2639; amended Pub. L. 111–383, div. A, title X, §1023(a), Jan. 7, 2011, 124 Stat. 4349.)
+
+#### Amendments
+
+<b>2011</b>—Pub. L. 111–383 amended section generally. Prior to amendment, section related to submission of an annual plan for construction of naval vessels and certification that the budget for the current fiscal year and the future-years defense program is sufficient for procurement of vessels provided for in the plan.
+

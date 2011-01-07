@@ -11,8 +11,8 @@
 | 1776a, 1776b. Omitted. |  |
 | [1777\.](%C2%A7%2001777%20-%20Use%20in%20school%20breakfast%20program%20of%20food%20designated%20as%20being%20in%20abundance%20or%20food%20donated%20by%20the%20Secretary%20of%20Agriculture.md) | Use in school breakfast program of food designated as being in abundance or food donated by the Secretary of Agriculture. |
 | [1778\.](%C2%A7%2001778%20-%20Nonprofit%20programs.md) | Nonprofit programs. |
-| [1779\.](%C2%A7%2001779%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
-| [1780\.](%C2%A7%2001780%20-%20Prohibition%20against%20interference%20with%20school%20personnel%2C%20curriculum%2C%20or%20instruction%3B%20prohibition%20against%20inclusion%20of%20assistance%20in%E2%80%A6.md) | Prohibition against interference with school personnel, curriculum, or instruction; prohibition against inclusion of assistance in determining income or resources for purposes of taxation, welfare, or public assistance programs. |
+| [1779\.](%C2%A7%2001779%20-%20Regulations.md) | Regulations. |
+| [1780\.](%C2%A7%2001780%20-%20Prohibitions.md) | Prohibitions. |
 | [1781\.](%C2%A7%2001781%20-%20Preschool%20programs.md) | Preschool programs. |
 | [1782\.](%C2%A7%2001782%20-%20Centralization%20in%20Department%20of%20Agriculture%20of%20administration%20of%20food%20service%20programs%20for%20children.md) | Centralization in Department of Agriculture of administration of food service programs for children. |
 | [1783\.](%C2%A7%2001783%20-%20Appropriations%20for%20administrative%20expense.md) | Appropriations for administrative expense. |
@@ -25,6 +25,7 @@
 | [1790\.](%C2%A7%2001790%20-%20Breastfeeding%20promotion%20program.md) | Breastfeeding promotion program. |
 | [1791\.](%C2%A7%2001791%20-%20Bill%20Emerson%20Good%20Samaritan%20Food%20Donation%20Act.md) | Bill Emerson Good Samaritan Food Donation Act. |
 | [1792\.](%C2%A7%2001792%20-%20Promoting%20Federal%20food%20donation.md) | Promoting Federal food donation. |
+| [1793\.](%C2%A7%2001793%20-%20Grants%20for%20expansion%20of%20school%20breakfast%20programs.md) | Grants for expansion of school breakfast programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -42,8 +43,8 @@
 - [&sect; 01776a, 1776b - Omitted](%C2%A7%2001776a%2C%201776b%20-%20Omitted.md)
 - [&sect; 01777 - Use in school breakfast program of food designated as being in abundance or food donated by the Secretary of Agriculture](%C2%A7%2001777%20-%20Use%20in%20school%20breakfast%20program%20of%20food%20designated%20as%20being%20in%20abundance%20or%20food%20donated%20by%20the%20Secretary%20of%20Agriculture.md)
 - [&sect; 01778 - Nonprofit programs](%C2%A7%2001778%20-%20Nonprofit%20programs.md)
-- [&sect; 01779 - Rules and regulations](%C2%A7%2001779%20-%20Rules%20and%20regulations.md)
-- [&sect; 01780 - Prohibition against interference with school personnel, curriculum, or instruction; prohibition against inclusion of assistance in&#8230;](%C2%A7%2001780%20-%20Prohibition%20against%20interference%20with%20school%20personnel%2C%20curriculum%2C%20or%20instruction%3B%20prohibition%20against%20inclusion%20of%20assistance%20in%E2%80%A6.md)
+- [&sect; 01779 - Regulations](%C2%A7%2001779%20-%20Regulations.md)
+- [&sect; 01780 - Prohibitions](%C2%A7%2001780%20-%20Prohibitions.md)
 - [&sect; 01781 - Preschool programs](%C2%A7%2001781%20-%20Preschool%20programs.md)
 - [&sect; 01782 - Centralization in Department of Agriculture of administration of food service programs for children](%C2%A7%2001782%20-%20Centralization%20in%20Department%20of%20Agriculture%20of%20administration%20of%20food%20service%20programs%20for%20children.md)
 - [&sect; 01783 - Appropriations for administrative expense](%C2%A7%2001783%20-%20Appropriations%20for%20administrative%20expense.md)
@@ -56,3 +57,4 @@
 - [&sect; 01790 - Breastfeeding promotion program](%C2%A7%2001790%20-%20Breastfeeding%20promotion%20program.md)
 - [&sect; 01791 - Bill Emerson Good Samaritan Food Donation Act](%C2%A7%2001791%20-%20Bill%20Emerson%20Good%20Samaritan%20Food%20Donation%20Act.md)
 - [&sect; 01792 - Promoting Federal food donation](%C2%A7%2001792%20-%20Promoting%20Federal%20food%20donation.md)
+- [&sect; 01793 - Grants for expansion of school breakfast programs](%C2%A7%2001793%20-%20Grants%20for%20expansion%20of%20school%20breakfast%20programs.md)

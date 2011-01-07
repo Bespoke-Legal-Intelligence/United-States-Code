@@ -156,27 +156,27 @@ The Food and Agriculture Act of 1977, referred to in subsec. (<i>l</i>), is Pub.
 
 #### Amendments
 
-2006—Subsec. (f)(2)(B). Pub. L. 109–280 substituted “its establishment” for “their establishment”.
+<b>2006</b>—Subsec. (f)(2)(B). Pub. L. 109–280 substituted “its establishment” for “their establishment”.
 
-2004—Subsec. (b)(1). Pub. L. 108–429, §2004(i)(2), substituted “4 years or until the committee is scheduled to expire” for “2 years”.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–429, §2004(i)(2), substituted “4 years or until the committee is scheduled to expire” for “2 years”.
 
 Subsec. (f)(2). Pub. L. 108–429, §2004(i)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “to all other advisory committees which may be established under subsection (c) of this section; except that the meetings of advisory committees established under subsections (b) and (c) of this section shall be exempt from the requirements of subsections (a) and (b) of sections 10 and 11 of the Federal Advisory Committee Act (relating to open meetings, public notice, public participation, and public availability of documents), whenever and to the extent it is determined by the President or his designee that such meetings will be concerned with matters the disclosure of which would seriously compromise the development by the United States Government of trade policy, priorities, negotiating objectives or bargaining positions with respect to matters referred to in subsection (a) of this section, and that meetings may be called of such special task forces, plenary meetings of chairmen, or other such groups made up of members of the committees established under subsections (b) and (c) of this section.”
 
-2002—Subsec. (a)(1)(A). Pub. L. 107–210, §2110(a)(5)(A), substituted “section 3803 of this title” for “section 2902 of this title”.
+<b>2002</b>—Subsec. (a)(1)(A). Pub. L. 107–210, §2110(a)(5)(A), substituted “section 3803 of this title” for “section 2902 of this title”.
 
 Subsec. (e)(1). Pub. L. 107–210, §2110(a)(5)(B), substituted “section 3803 of this title” for “section 2902 of this title” in two places and “section 3805(a)(1)(A) of this title” for “section 2903(a)(1)(A) of this title”.
 
 Subsec. (e)(2). Pub. L. 107–210, §2110(a)(5)(C), substituted “section 3802 of this title” for “section 2901 of this title”.
 
-1994—Subsec. (a)(1)(B). Pub. L. 103–465, §127(f), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the operation of any trade agreement once entered into; and”.
+<b>1994</b>—Subsec. (a)(1)(B). Pub. L. 103–465, §127(f), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the operation of any trade agreement once entered into; and”.
 
 Subsec. (b)(1). Pub. L. 103–465, §128, inserted “nongovernmental environmental and conservation organizations,” after “retailers,”.
 
-1988—Pub. L. 100–418 amended section generally, substituting present provisions for provisions which, in the following subsections, had related to: subsec. (a), information and advice on trade agreements and other matters; subsec. (b), Advisory Committee for Trade Negotiations; subsec. (c), general policy, sectoral, functional, or policy advisory committees; subsec. (d), policy advice, technical advice and information, and other advice; subsec. (e), meeting of advisory committees at conclusion of negotiations for trade agreements; subsec. (f), Federal Advisory Committee Act; subsec. (g), trade secrets and confidential commercial, financial, or other information; subsec. (h), staff, information, personnel, and administrative services and assistance to advisory committees; subsec. (i), consultation with advisory committees; adoption of procedures; nonacceptance of committee advice or recommendations; subsec. (j), private or non-Federal government organizations or groups; subsec. (k), direct participation in negotiations by private individuals not authorized; information, consultation, participation of committee members and appropriate parties in international meetings; restrictions; subsec. (<i>l</i>), advisory committees established by Department of Agriculture; and subsec. (m), definition of “non-Federal government”.
+<b>1988</b>—Pub. L. 100–418 amended section generally, substituting present provisions for provisions which, in the following subsections, had related to: subsec. (a), information and advice on trade agreements and other matters; subsec. (b), Advisory Committee for Trade Negotiations; subsec. (c), general policy, sectoral, functional, or policy advisory committees; subsec. (d), policy advice, technical advice and information, and other advice; subsec. (e), meeting of advisory committees at conclusion of negotiations for trade agreements; subsec. (f), Federal Advisory Committee Act; subsec. (g), trade secrets and confidential commercial, financial, or other information; subsec. (h), staff, information, personnel, and administrative services and assistance to advisory committees; subsec. (i), consultation with advisory committees; adoption of procedures; nonacceptance of committee advice or recommendations; subsec. (j), private or non-Federal government organizations or groups; subsec. (k), direct participation in negotiations by private individuals not authorized; information, consultation, participation of committee members and appropriate parties in international meetings; restrictions; subsec. (<i>l</i>), advisory committees established by Department of Agriculture; and subsec. (m), definition of “non-Federal government”.
 
-1986—Subsecs. (m), (n). Pub. L. 99–514 redesignated subsec. (n) as (m).
+<b>1986</b>—Subsecs. (m), (n). Pub. L. 99–514 redesignated subsec. (n) as (m).
 
-1984—Subsec. (a). Pub. L. 98–573, §306(c)(2)(B)(i), inserted “and the non-Federal governmental sector” after “private sector”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–573, §306(c)(2)(B)(i), inserted “and the non-Federal governmental sector” after “private sector”.
 
 Subsec. (c)(3). Pub. L. 98–573, §306(c)(2)(B)(ii), added par. (3).
 
@@ -186,7 +186,7 @@ Subsec. (j). Pub. L. 98–573, §306(c)(2)(B)(iii), (iv), inserted “or non-Fed
 
 Subsec. (n). Pub. L. 98–573, §306(c)(2)(B)(v), added subsec. (n).
 
-1979—Subsec. (a). Pub. L. 96–39, §1103(1), (2), struck out “, in accordance with the provisions of this section,” after “President” and required the seeking of information and advice respecting operation of a trade agreement once entered into and respecting other matters arising in connection with the administration of trade policy of the United States.
+<b>1979</b>—Subsec. (a). Pub. L. 96–39, §1103(1), (2), struck out “, in accordance with the provisions of this section,” after “President” and required the seeking of information and advice respecting operation of a trade agreement once entered into and respecting other matters arising in connection with the administration of trade policy of the United States.
 
 Subsec. (b)(1). Pub. L. 96–39, §1103(3), substituted “matters referred to in subsection (a) of this section” for “any trade agreement referred to in section 2111 or 2112 of this title”.
 
@@ -289,4 +289,6 @@ Term of Trade and Environment Policy Advisory Committee extended until Sept. 30,
 Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

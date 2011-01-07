@@ -14,7 +14,7 @@
 
 &emsp;(D) a Federal medical facility.
 
-(3) Homeless individuals (as defined in section 254b(h)(5) of this title), seasonal agricultural workers (as defined in section 254b(g)(3) of thistitle) and migratory agricultural workers (as so defined)), and residents of public housing (as defined in section 1437a(b)(1) of this title) may be population groups under paragraph (1).
+(3) Homeless individuals (as defined in section 254b(h)(5) of this title), seasonal agricultural workers (as defined in section 254b(g)(3) of this title) and migratory agricultural workers (as so defined)), and residents of public housing (as defined in section 1437a(b)(1) of this title) may be population groups under paragraph (1).
 
 #### (b) Criteria for designation of health professional shortage areas; promulgation of regulations
 
@@ -22,7 +22,7 @@ The Secretary shall establish by regulation criteria for the designation of area
 
 &emsp;(1) The ratio of available health manpower to the number of individuals in an area or population group, or served by a medical facility or other public facility under consideration for designation.
 
-&emsp;(2) Indicators of a need, notwithstanding the supply of health manpower, for health services for the individuals in an area or population group or served by a medical facility or other public facility under consideration for designation.
+&emsp;(2) Indicators of a need, notwithstanding the supply of health manpower, for health services for the individuals in an area or populationgroup or served by a medical facility or other public facility under consideration for designation.
 
 &emsp;(3) The percentage of physicians serving an area, population group, medical facility, or other public facility under consideration for designation who are employed by hospitals and who are graduates of foreign medical schools.
 
@@ -86,7 +86,7 @@ The Administrator of the Health Resources and Services Administration shall diss
 
 (3) Each regulation described in paragraph (1) shall take effect 180 days after the committees described in paragraph (2) receive a report referred to in such paragraph describing the regulation.
 
-(July 1, 1944, ch. 373, title III, §332, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2270; amended Pub. L. 95–142, §7(d), Oct. 25, 1977, 91 Stat. 1193; Pub. L. 96–32, §7(d), July 10, 1979, 93 Stat. 84; Pub. L. 97–35, title IX, §986(b)(4), title XXVII, §2702(a), (b), (c), Aug. 13, 1981, 95 Stat. 603, 903, 904; Pub. L. 100–77, title VI, §602, July 22, 1987, 101 Stat. 515; Pub. L. 100–177, title III, §302, Dec. 1, 1987, 101 Stat. 1003; Pub. L. 100–607, title VIII, §802(b)(2), Nov. 4, 1988, 102 Stat. 3169; Pub. L. 100–628, title VI, §602(b)(2), Nov. 7, 1988, 102 Stat. 3242; Pub. L. 101–597, title I, §102, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3014, 3035; Pub. L. 107–251, title III, §302(a), (d)(2), title VI, §601(a), Oct. 26, 2002, 116 Stat. 1643, 1645, 1664; Pub. L. 108–163, §2(f)(1), Dec. 6, 2003, 117 Stat. 2021; Pub. L. 110–355, §3(b), Oct. 8, 2008, 122 Stat. 3993.)
+(July 1, 1944, ch. 373, title III, §332, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2270; amended Pub. L. 95–142, §7(d), Oct. 25, 1977, 91 Stat. 1193; Pub. L. 96–32, §7(d), July 10, 1979, 93 Stat. 84; Pub. L. 97–35, title IX, §986(b)(4),title XXVII, §2702(a), (b), (c), Aug. 13, 1981, 95 Stat. 603, 903, 904; Pub. L. 100–77, title VI, §602, July 22, 1987, 101 Stat. 515; Pub. L. 100–177, title III, §302, Dec. 1, 1987, 101 Stat. 1003; Pub. L. 100–607, title VIII, §802(b)(2), Nov. 4, 1988, 102 Stat. 3169; Pub. L. 100–628, title VI, §602(b)(2), Nov. 7, 1988, 102 Stat. 3242; Pub. L. 101–597, title I, §102, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3014, 3035; Pub. L. 107–251, title III, §302(a), (d)(2), title VI, §601(a), Oct. 26, 2002, 116 Stat. 1643, 1645, 1664; Pub. L. 108–163, §2(f)(1), Dec. 6, 2003, 117 Stat. 2021; Pub. L. 110–355, §3(b), Oct. 8, 2008, 122 Stat. 3993.)
 
 #### References in Text
 
@@ -100,9 +100,9 @@ A prior section 332 of act July 1, 1944, was renumbered section 340, and was cla
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–355 struck out “Not earlier than 6 years after such date of designation, and every 6 years thereafter, each such center or clinic shall demonstrate that the center or clinic meets the applicable requirements of the Federal regulations regarding the definition of a health professional shortage area for purposes of this section.” before “The Secretary shall not”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–355 struck out “Not earlier than 6 years after such date of designation, and every 6 years thereafter, each such center or clinic shall demonstrate that the center or clinic meets the applicable requirements of the Federal regulations regarding the definition of a health professional shortage area for purposes of this section.” before “The Secretary shall not”.
 
-2003—Subsec. (a)(1). Pub. L. 108–163, §2(f)(1)(A), substituted “such date of designation” for “such date of enactment” and “regarding” for “, issued after the date of enactment of this Act, that revise”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–163, §2(f)(1)(A), substituted “such date of designation” for “such date of enactment” and “regarding” for “, issued after the date of enactment of this Act, that revise”.
 
 Subsec. (a)(3). Pub. L. 108–163, §2(f)(1)(B), substituted “254b(h)(5)” for “254b(h)(4)”.
 
@@ -110,7 +110,7 @@ Subsec. (b)(2). Pub. L. 108–163, §2(f)(1)(C), struck out comma before period 
 
 Subsec. (j). Pub. L. 108–163, §2(f)(1)(D), added subsec. (j).
 
-2002—Subsec. (a)(1). Pub. L. 107–251, §302(a)(1)(A), inserted after first sentence “All Federally qualified health centers and rural health clinics, as defined in section 1861(aa) of the Social Security Act (42 U.S.C. 1395x(aa)), that meet the requirements of section 254g of this title shall be automatically designated as having such a shortage. Not earlier than 6 years after such date of enactment, and every 6 years thereafter, each such center or clinic shall demonstrate that the center or clinic meets the applicable requirements of the Federal regulations, issued after the date of enactment of this Act, that revise the definition of a health professional shortage area for purposes of this section.”
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–251, §302(a)(1)(A), inserted after first sentence “All Federally qualified health centers and rural health clinics, as defined in section 1861(aa) of the Social Security Act (42 U.S.C. 1395x(aa)), that meet the requirements of section 254g of this title shall be automatically designated as having such a shortage. Not earlier than 6 years after such date of enactment, and every 6 years thereafter, each such center or clinic shall demonstrate that the center or clinic meets the applicable requirements of the Federal regulations, issued after the date of enactment of this Act, that revise the definition of a health professional shortage area for purposes of this section.”
 
 Subsec. (a)(2)(C). Pub. L. 107–251, §601(a), substituted “254b(h)” for “256”.
 
@@ -130,7 +130,7 @@ Subsec. (c)(2)(B). Pub. L. 107–251, §302(a)(3), substituted “XVIII, XIX, or
 
 Subsec. (i). Pub. L. 107–251, §302(d)(2), added subsec. (i).
 
-1990—Subsec. (a)(1). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing.
 
 Subsec. (a)(2)(A). Pub. L. 101–597, §102(b)(1), inserted “facility operated by a city or county health department,” before “and community health center”.
 
@@ -164,15 +164,15 @@ Pub. L. 101–597, §102(c)(4), redesignated par. (3) as (2) and struck out form
 
 Subsecs. (g), (h). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
 
-1988—Subsec. (a)(3). Pub. L. 100–607 and Pub. L. 100–628 made identical amendments, substituting “section 256(r)” for “section 256(q)(2)”.
+<b>1988</b>—Subsec. (a)(3). Pub. L. 100–607 and Pub. L. 100–628 made identical amendments, substituting “section 256(r)” for “section 256(q)(2)”.
 
-1987—Subsec. (a)(1). Pub. L. 100–177, §302(1), inserted sentence at end relating to removal of an area from areas determined to be health manpower shortage areas.
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–177, §302(1), inserted sentence at end relating to removal of an area from areas determined to be health manpower shortage areas.
 
 Subsec. (a)(3). Pub. L. 100–77 added par. (3).
 
 Subsec. (b)(2)(D). Pub. L. 100–177, §302(2), added subpar. (D).
 
-1981—Subsec. (a)(1)(A). Pub. L. 97–35, §2702(a), inserted provisions respecting reasonable accessibility to adequately served area.
+<b>1981</b>—Subsec. (a)(1)(A). Pub. L. 97–35, §2702(a), inserted provisions respecting reasonable accessibility to adequately served area.
 
 Subsec. (a)(2)(C). Pub. L. 97–35, §986(b)(4), substituted “persons under quarantine” for “seamen”.
 
@@ -180,9 +180,9 @@ Subsec. (e). Pub. L. 97–35, §2702(c), designated existing provisions as par. 
 
 Subsec. (h). Pub. L. 97–35, §2702(b), substituted “may” for “shall”.
 
-1979—Subsec. (a)(2)(C). Pub. L. 96–32 substituted “section 247e of this title” for “part D of subchapter II of this chapter”.
+<b>1979</b>—Subsec. (a)(2)(C). Pub. L. 96–32 substituted “section 247e of this title” for “part D of subchapter II of this chapter”.
 
-1977—Subsec. (c)(3). Pub. L. 95–142 added par. (3).
+<b>1977</b>—Subsec. (c)(3). Pub. L. 95–142 added par. (3).
 
 #### Effective Date of 2003 Amendment
 

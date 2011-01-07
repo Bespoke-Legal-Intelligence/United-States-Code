@@ -54,11 +54,11 @@ A prior section 405 of Pub. L. 93–415 was classified to section 5774 of this t
 
 #### Amendments
 
-1999—Subsec. (a). Pub. L. 106–71 inserted “the Center and with” before “public agencies” in introductory provisions.
+<b>1999</b>—Subsec. (a). Pub. L. 106–71 inserted “the Center and with” before “public agencies” in introductory provisions.
 
-1989—Subsec. (a)(9). Pub. L. 101–204 substituted “clearinghouses” for “clearinghouse”.
+<b>1989</b>—Subsec. (a)(9). Pub. L. 101–204 substituted “clearinghouses” for “clearinghouse”.
 
-1988—Subsec. (a)(7) to (9). Pub. L. 100–690, §7287, added pars. (7) to (9).
+<b>1988</b>—Subsec. (a)(7) to (9). Pub. L. 100–690, §7287, added pars. (7) to (9).
 
 #### Effective Date of 1988 Amendment
 

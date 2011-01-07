@@ -18,7 +18,7 @@ In this chapter—
 
 &emsp;&emsp;(D) another aircraft outside the United States—
 
-&emsp;&emsp;&emsp;(i) that has its next scheduled destination or last place of departure in theUnited States, if the aircraft next lands in the United States;
+&emsp;&emsp;&emsp;(i) that has its next scheduled destination or last place of departure in the United States, if the aircraft next lands in the United States;
 
 &emsp;&emsp;&emsp;(ii) on which an individual commits an offense (as defined in the Convention for the Suppression of Unlawful Seizure of Aircraft) if the aircraft lands in the United States with the individual still on the aircraft; or
 

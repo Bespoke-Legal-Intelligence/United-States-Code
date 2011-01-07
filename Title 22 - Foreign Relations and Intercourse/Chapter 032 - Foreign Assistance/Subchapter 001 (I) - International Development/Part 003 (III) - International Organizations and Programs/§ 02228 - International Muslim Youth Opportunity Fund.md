@@ -102,7 +102,7 @@ Section was enacted as part of the Intelligence Reform and Terrorism Prevention 
 
 #### Amendments
 
-2007—Pub. L. 110–53 amended section catchline and text generally, substituting provisions relating to purpose of section, authority of President to establish an International Muslim Youth Opportunity Fund as a separate fund in the Treasury or through an international organization or financial institution, and authority of Fund to support specified activities, for provisions setting forth congressional findings and authorizing the Secretary of State to establish an International Youth Opportunity Fund through an existing international organization.
+<b>2007</b>—Pub. L. 110–53 amended section catchline and text generally, substituting provisions relating to purpose of section, authority of President to establish an International Muslim Youth Opportunity Fund as a separate fund in the Treasury or through an international organization or financial institution, and authority of Fund to support specified activities, for provisions setting forth congressional findings and authorizing the Secretary of State to establish an International Youth Opportunity Fund through an existing international organization.
 
 #### Findings; Policy
 
@@ -147,4 +147,6 @@ The Secretary of State shall consult with:
 The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subparagraph (A)”.</i>
 

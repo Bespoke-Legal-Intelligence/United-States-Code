@@ -34,7 +34,7 @@ Offenses.—The offenses described in this section are—
 
 Circumstances.—The circumstances described in this section are that the offense described in subsection (c) was committed by a person who—
 
-&emsp;(1) participates in a criminal street gang with knowledge that its members engage in orhave engaged in a continuing series of offenses described in subsection (c);
+&emsp;(1) participates in a criminal street gang with knowledge that its members engage in or have engaged in a continuing series of offenses described in subsection (c);
 
 &emsp;(2) intends to promote or further the felonious activities of the criminal street gang or maintain or increase his or her position in the gang; and
 
@@ -56,7 +56,7 @@ Circumstances.—The circumstances described in this section are that the offens
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–273 realigned margins of par. defining “State”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273 realigned margins of par. defining “State”.
 
-1996—Subsec. (a). Pub. L. 104–294 inserted par. defining “State” at end.
+<b>1996</b>—Subsec. (a). Pub. L. 104–294 inserted par. defining “State” at end.
 

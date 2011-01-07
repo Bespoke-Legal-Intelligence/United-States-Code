@@ -6,9 +6,9 @@ Authority for the conduct and supervision of Federal programs to assist schools 
 
 #### References in Text
 
-The Richard B. Russell National School Lunch Act, referred to in text, is act June 4, 1946, ch. 281, 60 Stat.230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
+The Richard B. Russell National School Lunch Act, referred to in text, is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
 
 #### Amendments
 
-1999—Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
+<b>1999</b>—Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 

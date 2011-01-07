@@ -14,7 +14,7 @@ Definition of Dependent.—In this section, the term “dependent” has the mea
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–136, §562(a)(1), struck out “located in the United States” after “armed forces”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §562(a)(1), struck out “located in the United States” after “armed forces”.
 
 Subsec. (b)(1). Pub. L. 108–136, §562(a)(2), struck out “outside the United States or to a place” before “further”.
 
@@ -24,13 +24,13 @@ Subsec. (c). Pub. L. 108–136, §562(b), amended subsec. (c) generally. Prior t
 
 &emsp;“(2) The term ‘dependent’ has the meaning given such term in section 1072(2) of this title.”
 
-1991—Pub. L. 102–190, §626(b)(1), amended section catchline generally. Prior to amendment, section catchline read as follows: “Transportation of remains of members entitled to retired or retainer pay who die in a military medical facility”.
+<b>1991</b>—Pub. L. 102–190, §626(b)(1), amended section catchline generally. Prior to amendment, section catchline read as follows: “Transportation of remains of members entitled to retired or retainer pay who die in a military medical facility”.
 
 Subsec. (a). Pub. L. 102–190, §626(a)(1), inserted “, or a dependent of such a member,” after “equivalent pay”.
 
 Subsec. (c). Pub. L. 102–190, §626(a)(2), added subsec. (c) and struck out former subsec. (c) which read as follows: “In this section, the term ‘United States’ includes the Commonwealth of Puerto Rico and the territories and possessions of the United States.”
 
-1987—Subsec. (c). Pub. L. 100–26 inserted “the term” after “In this section,”.
+<b>1987</b>—Subsec. (c). Pub. L. 100–26 inserted “the term” after “In this section,”.
 
 #### Effective Date of 2003 Amendment
 

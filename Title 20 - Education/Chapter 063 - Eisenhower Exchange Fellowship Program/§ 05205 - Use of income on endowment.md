@@ -4,7 +4,7 @@
 
 #### (c) Agricultural exchange program
 
-For any fiscal year, as may be determined by Eisenhower Exchange Fellowships, Incorporated, a portion of the amounts made available to Eisenhower Exchange Fellowships, Incorporated, pursuant to section 5203(a) of this title shall be used to provide fellowships for agricultural exchange programs for farmers from the United States and foreign countries.
+For any fiscal year, as may be determined by Eisenhower Exchange Fellowships, Incorporated, a portion of the amounts made available to Eisenhower Exchange Fellowships, Incorporated, pursuant to section 5203(a) of thistitle shall be used to provide fellowships for agricultural exchange programs for farmers from the United States and foreign countries.
 
 #### (d) Participation by United States minority populations
 
@@ -14,7 +14,7 @@ In order to ensure that the United States fellows participating in programs of t
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–134 struck out heading and text of subsec. (a). Text read as follows: “For any fiscal year, not less than 50 percent of the amounts made available to Eisenhower Exchange Fellowships, Incorporated, pursuant to section 5203(a) of this title shall be available only to assist United States fellows in traveling to and studying in emerging European democracies.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–134 struck out heading and text of subsec. (a). Text read as follows: “For any fiscal year, not less than 50 percent of the amounts made available to Eisenhower Exchange Fellowships, Incorporated, pursuant to section 5203(a) of this title shall be available only to assist United States fellows in traveling to and studying in emerging European democracies.”
 
 Subsec. (b). Pub. L. 104–134 struck out heading and text of subsec. (b). Text read as follows: “For any fiscal year, not more than 50 percent of the amounts made available to Eisenhower Exchange Fellowships, Incorporated, pursuant to section 5203(a) of this title shall be available to assist foreign fellows in traveling to and studying in the United States.”
 

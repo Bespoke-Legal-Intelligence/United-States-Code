@@ -42,13 +42,13 @@ References to part I of this subchapter are deemed to include a reference to sec
 
 #### Amendments
 
-1978—Subsecs. (a), (b), (c), (e). Pub. L. 95–424 inserted “and part 1 of this subchapter” after “this part”.
+<b>1978</b>—Subsecs. (a), (b), (c), (e). Pub. L. 95–424 inserted “and part 1 of this subchapter” after “this part”.
 
-1968—Subsec. (c). Pub. L. 90–554, §106(a), emphasized research designed to increase understanding of ways in which development assistance can support democratic social and political trends in recipient countries.
+<b>1968</b>—Subsec. (c). Pub. L. 90–554, §106(a), emphasized research designed to increase understanding of ways in which development assistance can support democratic social and political trends in recipient countries.
 
 Subsec. (e). Pub. L. 90–554, §106(b), added subsec. (e).
 
-1967—Pub. L. 90–137 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
+<b>1967</b>—Pub. L. 90–137 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
 
 #### Effective Date of 1978 Amendment
 

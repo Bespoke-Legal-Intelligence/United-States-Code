@@ -14,7 +14,7 @@
 
 &emsp;(B) that the State's administration of such laws and regulations provides, to the maximum extent practicable, that (i) information required to be disclosed by such laws and regulations is accurate, and (ii) sufficient protection for purchasers and lessees is made available with respect to the matters for which information is not required to be disclosed.
 
-(3) Any State requesting certification must agree to accept a property report covering land located in another certified State but offered for sale or lease in the State requesting certification if the property report has been approved by the other certified State. Such property report shall be the only property report required by the State with respect to the sale or lease of such land.
+(3) Any State requesting certification must agree to accept a property report covering land located in another certified State but offered for sale or lease in the State requesting certification if the property report has been approved by the other certified State. Such property report shall be the only property report requiredby the State with respect to the sale or lease of such land.
 
 #### (b) Filing of State disclosure materials and related documentation for purposes of Federal statement of record and property report requirements; acceptance by Secretary
 
@@ -32,15 +32,23 @@ The Secretary shall periodically review the laws and regulations, and the admini
 
 Nothing in this chapter may be construed to prevent or limit the authority of any State or local government to enact and enforce with regard to the sale of land any law, ordinance, or code not in conflict with this chapter. In administering this chapter, the Secretary shall cooperate with State authorities charged with the responsibility of regulating the sale or lease of lots which are subject to this chapter.
 
-(Pub. L. 90–448, title XIV, §1409, Aug. 1, 1968, 82 Stat. 594; Pub. L. 96–153, title IV, §404, Dec. 21, 1979, 93 Stat. 1129.)
+(Pub. L. 90–448, title XIV, §1409, Aug. 1, 1968, 82 Stat. 594; Pub. L. 96–153, title IV, §404, Dec. 21, 1979, 93 Stat. 1129; Pub. L. 111–203, title X, §1098A(1), July 21, 2010, 124 Stat. 2105.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1098A(1), 1100H, July 21, 2010, 124 Stat. 2105, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Secretary” each place that term appears and inserting “Director”. See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
-1979—Subsec. (a). Pub. L. 96–153 substituted provisions setting forth criteria for determinations respecting certifications of substantially equivalent State law for purposes of disclosure requirements of this chapter, for provisions relating to cooperation with State authorities in administering this chapter.
+<b>1979</b>—Subsec. (a). Pub. L. 96–153 substituted provisions setting forth criteria for determinations respecting certifications of substantially equivalent State law for purposes of disclosure requirements of this chapter, for provisions relating to cooperation with State authorities in administering this chapter.
 
 Subsec. (b). Pub. L. 96–153 substituted provisions relating to filing requirements for State disclosure materials and related documentation for purposes of Federal statement of record and property report requirements, for provisions relating to the jurisdiction of the particular State real estate commission or similar body.
 
 Subsecs. (c) to (e). Pub. L. 96–153 added subsecs. (c) to (e).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1979 Amendment
 

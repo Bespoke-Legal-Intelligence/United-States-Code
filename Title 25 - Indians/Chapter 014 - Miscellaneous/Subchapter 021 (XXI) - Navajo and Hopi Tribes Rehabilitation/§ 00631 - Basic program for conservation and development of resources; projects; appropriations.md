@@ -36,7 +36,7 @@ Funds so appropriated shall be available for administration, investigations, pla
 
 #### Amendments
 
-1958—Pub. L. 85–740 substituted $108,570,000 for $88,570,000 in opening par., and, in cl. (7), increased from $20,000,000 to $40,000,000 the amount authorized for roads and trails, of which not less than $20,000,000 shall be available for contract authority to bring routes 1 and 3 on the Navajo and Hopi Indian reservations up to secondary road standards in the State.
+<b>1958</b>—Pub. L. 85–740 substituted $108,570,000 for $88,570,000 in opening par., and, in cl. (7), increased from $20,000,000 to $40,000,000 the amount authorized for roads and trails, of which not less than $20,000,000 shall be available for contract authority to bring routes 1 and 3 on the Navajo and Hopi Indian reservations up to secondary road standards in the State.
 
 #### Contract Authority; Appropriations
 

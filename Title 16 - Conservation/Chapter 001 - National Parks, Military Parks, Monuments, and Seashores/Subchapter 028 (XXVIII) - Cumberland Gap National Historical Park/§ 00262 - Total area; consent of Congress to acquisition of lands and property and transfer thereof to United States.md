@@ -10,5 +10,5 @@ The total area of the Cumberland Gap National Historical Park, as determined pur
 
 #### Amendments
 
-1943—Act May 26, 1943, among other changes, inserted minimum acreage limitation in first par. and added pars. (a) and (b).
+<b>1943</b>—Act May 26, 1943, among other changes, inserted minimum acreage limitation in first par. and added pars. (a) and (b).
 

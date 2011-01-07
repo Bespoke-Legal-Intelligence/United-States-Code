@@ -12,7 +12,7 @@ Subsection (a) of this section does not apply to section 713 or the amendments m
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this title”, meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which isclassified principally to this chapter. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
 Section 713, referred to in subsec. (b), is section 713 of Pub. L. 105–277, div. C, title VII, Oct. 21, 1998, 112 Stat. 2681–693, which amended sections 5312 to 5314 of Title 5, Government Organization and Employees, section 1105 of Title 31, Money and Finance, and section 402 of Title 50, War and National Defense.
 
@@ -22,5 +22,5 @@ The repeal of this chapter and of the amendments made by this chapter, effective
 
 #### Amendments
 
-2006—Pub. L. 109–469 substituted “September 30, 2010, this chapter and the amendments made to this chapter” for “September 30, 2003, this chapter and the amendments made by this chapter”.
+<b>2006</b>—Pub. L. 109–469 substituted “September 30, 2010, this chapter and the amendments made to this chapter” for “September 30, 2003, this chapter and the amendments made by this chapter”.
 

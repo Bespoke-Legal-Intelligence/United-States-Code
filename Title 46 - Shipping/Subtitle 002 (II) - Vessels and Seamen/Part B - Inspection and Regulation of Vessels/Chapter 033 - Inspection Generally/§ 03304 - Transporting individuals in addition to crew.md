@@ -28,7 +28,7 @@ Section 3304 permits the carriage of not more than 12 individuals in addition to
 
 #### Amendments
 
-1986—Pub. L. 99–307, §1(5)(A)(i), substituted “Transporting” for “Carrying” in section catchline.
+<b>1986</b>—Pub. L. 99–307, §1(5)(A)(i), substituted “Transporting” for “Carrying” in section catchline.
 
 Subsec. (a). Pub. L. 99–307, §1(5)(A)(ii), substituted “transporting cargo that transports” for “carrying cargo that carries” and inserted “if the vessel is otherwise subject to inspection under this chapter”.
 
@@ -38,5 +38,5 @@ Subsec. (c). Pub. L. 99–307, §1(5)(A)(iv), substituted “A privilege” for 
 
 Subsec. (e). Pub. L. 99–307, §1(5)(A)(v), added subsec. (e).
 
-1984—Subsec. (d). Pub. L. 98–364 added subsec. (d).
+<b>1984</b>—Subsec. (d). Pub. L. 98–364 added subsec. (d).
 

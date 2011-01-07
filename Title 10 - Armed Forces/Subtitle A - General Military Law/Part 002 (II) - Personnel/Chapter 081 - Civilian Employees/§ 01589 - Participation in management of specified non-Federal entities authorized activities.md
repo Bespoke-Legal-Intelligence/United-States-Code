@@ -30,7 +30,7 @@ A prior section 1589, added Pub. L. 98–525, title XIV, §1401(f)(1), Oct. 19, 
 
 #### Amendments
 
-2002—Subsecs. (a)(2), (b), (e). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsecs. (a)(2), (b), (e). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 #### Effective Date of 2002 Amendment
 

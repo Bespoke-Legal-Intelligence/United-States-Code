@@ -58,7 +58,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
-1998—Pub. L. 105–207, §208(a)(1), substituted “Science and Technology Policy Institute” for “Critical Technologies Institute” in section catchline.
+<b>1998</b>—Pub. L. 105–207, §208(a)(1), substituted “Science and Technology Policy Institute” for “Critical Technologies Institute” in section catchline.
 
 Subsec. (a). Pub. L. 105–207, §208(a)(1), substituted “Science and Technology Policy Institute” for “Critical Technologies Institute”.
 
@@ -104,13 +104,13 @@ Pub. L. 105–207, §208(a)(7), substituted “subsection (c)” for “subsecti
 
 Subsec. (g). Pub. L. 105–207, §208(a)(3), redesignated subsec. (g) as (f).
 
-1996—Subsec. (c)(1)(D). Pub. L. 104–201 inserted “Defense” before “Advanced Research Projects Agency”.
+<b>1996</b>—Subsec. (c)(1)(D). Pub. L. 104–201 inserted “Defense” before “Advanced Research Projects Agency”.
 
-1993—Subsec. (c). Pub. L. 103–160 amended heading and text of subsec. (c) generally. Prior to amendment, text consisted of pars. (1) to (4) relating to the composition, designation of chairman, terms of service, and meetings of the Operating Committee.
+<b>1993</b>—Subsec. (c). Pub. L. 103–160 amended heading and text of subsec. (c) generally. Prior to amendment, text consisted of pars. (1) to (4) relating to the composition, designation of chairman, terms of service, and meetings of the Operating Committee.
 
-1991—Pub. L. 102–190 amended section generally, substituting present provisions for provisions establishing “Critical Technologies Institute” and providing for incorporation, Board of Trustees, duties of Institute, sponsorship of Institute, deadline for certain actions, and funding.
+<b>1991</b>—Pub. L. 102–190 amended section generally, substituting present provisions for provisions establishing “Critical Technologies Institute” and providing for incorporation, Board of Trustees, duties of Institute, sponsorship of Institute, deadline for certain actions, and funding.
 
-Subsec. (g)(1). Pub. L. 102–25, §704(a)(5)(A), substituted “appropriated pursuant to this Act” for “available for the Department of Defense” and struck out “in the first fiscal year in which the Institute begins operations” after “activities of the Institute”.
+Subsec. (g)(1). Pub. L. 102–25, §704(a)(5)(A), substituted “appropriated pursuant to this Act” for“available for the Department of Defense” and struck out “in the first fiscal year in which the Institute begins operations” after “activities of the Institute”.
 
 Subsec. (g)(2). Pub. L. 102–25, §704(a)(5)(B), struck out “for each fiscal year after the fiscal year referred to in paragraph (1)” after “for the Institute”.
 

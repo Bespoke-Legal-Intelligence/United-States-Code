@@ -20,7 +20,7 @@ The master or person in charge of—
 
 #### Amendments
 
-1991—Pub. L. 102–241 amended section generally. Prior to amendment, section read as follows:
+<b>1991</b>—Pub. L. 102–241 amended section generally. Prior to amendment, section read as follows:
 
 “(a) As soon as he has knowledge of an incident, the master or other person in charge of a ship shall report it to the Secretary in the manner prescribed by Article 8 of the Convention.
 

@@ -1,0 +1,34 @@
+### §3665a. Office of Tribal Justice
+
+#### (a) In general
+
+Not later than 90 days after July 29, 2010, the Attorney General shall establish the Office of Tribal Justice as a component of the Department.
+
+#### (b) Personnel and funding
+
+The Attorney General shall provide to the Office of Tribal Justice such personnel and funds as are necessary to establish the Office of Tribal Justice as a component of the Department under subsection (a).
+
+#### (c) Duties
+
+The Office of Tribal Justice shall—
+
+&emsp;(1) serve as the program and legal policy advisor to the Attorney General with respect to the treaty and trust relationship between the United States and Indian tribes;
+
+&emsp;(2) serve as the point of contact for federally recognized tribal governments and tribal organizations with respect to questions and comments regarding policies and programs of theDepartment and issues relating to public safety and justice in Indian country; and
+
+&emsp;(3) coordinate with other bureaus, agencies, offices, and divisions within the Department of Justice to ensure that each component has an accountable process to ensure meaningful and timely consultation with tribal leaders in the development of regulatory policies and other actions that affect—
+
+&emsp;&emsp;(A) the trust responsibility of the United States to Indian tribes;
+
+&emsp;&emsp;(B) any tribal treaty provision;
+
+&emsp;&emsp;(C) the status of Indian tribes as sovereign governments; or
+
+&emsp;&emsp;(D) any other tribal interest.
+
+(Pub. L. 106–559, title I, §106, as added Pub. L. 111–211, title II, §214(a)(2)(B), July 29, 2010, 124 Stat. 2270.)
+
+#### Prior Provisions
+
+A prior section 106 of Pub. L. 106–559 was renumbered section 107 and is classified to section 3666 of this title.
+

@@ -1,6 +1,6 @@
 ### §31343. Recording and discharging notices of claim of maritime lien
 
-(a) Except as provided under subsection (d) of this section, a person claiming a lien on a vessel documented, or for which an application for documentation has been filed, under chapter 121 may record with the Secretary of Transportation a notice of that person's lien claim on the vessel. To be recordable, the notice must—
+(a) Except as provided under subsection (d) of this section, a person claiming a lien on a vessel documented, or for which an application for documentation has been filed, under chapter 121 may record with the Secretary a notice of that person's lien claim on the vessel. To be recordable, the notice must—
 
 &emsp;(1) state the nature of the lien;
 
@@ -30,13 +30,13 @@
 
 (2) The district courts of the United States shall have jurisdiction over a civil action in Admiralty to declare that a vessel is not subject to a lien claimed under subsection (b) of this section, or that the vessel is not subject to the notice of claim of lien, or both, regardless of the amount in controversy or the citizenship of the parties. Venue in such an action shall be in the district where the vessel is found or where the claimant resides or where the notice of claim of lien is recorded. The court may award costs and attorneys fees to the prevailing party, unless the court finds that the position of the other party was substantially justified or other circumstances make an award of costs and attorneys fees unjust. The Secretary shall record any such declaratory order.
 
-(d) A person claiming a lien on a vessel covered by a preferred mortgage under section31322(d) of this title must record and discharge the lien as provided by the law of the State in which the vessel is titled.
+(d) A person claiming a lien on a vessel covered by a preferred mortgage under section 31322(d) of this title must record and discharge the lien as provided by the law of the State in which the vessel is titled.
 
 (e) A notice of claim of lien recorded under subsection (b) of this section shall expire 3 years after the date the lien was established, as such date is stated in the notice under subsection (a) of this section.
 
 (f) This section does not alter in any respect the law pertaining to the establishment of a maritime lien, the remedy provided by such a lien, or the defenses thereto, including any defense under the doctrine of laches.
 
-(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4748; Pub. L. 107–295, title II, §205(a)(1), Nov. 25, 2002, 116 Stat. 2095.)
+(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4748; Pub. L. 107–295, title II, §205(a)(1), Nov. 25, 2002, 116 Stat. 2095; Pub. L. 111–281, title IX, §913(a)(1), Oct. 15, 2010, 124 Stat. 3017.)
 
 Historical and Revision Notes
 
@@ -58,7 +58,9 @@ Subsection (d) of this section requires a person claiming a lien on a vessel cov
 
 #### Amendments
 
-2002—Pub. L. 107–295, §205(a)(1)(A), substituted “notices of claim of maritime lien” for “liens on preferred mortgage vessels” in section catchline.
+<b>2010</b>—Subsec. (a). Pub. L. 111–281 struck out “of Transportation” after “Secretary” in introductory provisions.
+
+<b>2002</b>—Pub. L. 107–295, §205(a)(1)(A), substituted “notices of claim of maritime lien” for “liens on preferred mortgage vessels” in section catchline.
 
 Subsec. (a). Pub. L. 107–295, §205(a)(1)(B), substituted “documented, or for which an application for documentation has been filed, under chapter 121” for “covered by a preferred mortgage filed or recorded under this chapter” in introductory provisions.
 

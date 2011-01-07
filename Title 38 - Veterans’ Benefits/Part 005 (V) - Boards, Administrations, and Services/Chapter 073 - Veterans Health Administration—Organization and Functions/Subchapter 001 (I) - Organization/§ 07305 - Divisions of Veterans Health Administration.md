@@ -20,5 +20,5 @@ The Veterans Health Administration shall include the following:
 
 #### Amendments
 
-1992—Par. (1). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
+<b>1992</b>—Par. (1). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 

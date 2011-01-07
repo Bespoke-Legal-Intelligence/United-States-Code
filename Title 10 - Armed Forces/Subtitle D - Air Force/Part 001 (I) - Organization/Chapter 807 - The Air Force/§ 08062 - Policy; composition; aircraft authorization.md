@@ -96,35 +96,67 @@ Subsection (b) is substituted for 5:626c(a) (1st sentence). 5:626c(a) (last sent
 
 In subsection (d), the words “consists of” are substituted for the word “includes”.
 
-In subsection (d)(1), 10:20r(a) is omitted as superseded by 10:1831. The words “all persons serving in the Air Force under call or under any provision of law, including members of the Air National Guard of the several States, Territories, and the District of Columbia when in the service of the United States pursuant to call as provided by law” are omitted as covered by the words “the Air National Guard while in the service of the United States”. 50:1091 (last sentence) is omitted, since the components listed include their members.
+In subsection (d)(1), 10:20r(a) is omitted as superseded by 10:1831. The words “all persons serving in the Air Force under call or \* \* \* under any provision of law, including members of the Air National Guard of the several States, Territories, and the District of Columbia when in the service of the United States pursuant to call as provided by law” are omitted as covered by the words “the Air National Guard while in the service of the United States”. 50:1091 (last sentence) is omitted, since the components listed include their members.
 
 In subsection (d)(2), the words “or inducted” are omitted as covered by the word “conscripted”.
 
 In subsection (e), the words “Effective on July 10, 1950” are omitted as executed. The words “the limitations imposed by” are omitted as surplusage. The words “not to exceed” are omitted as surplusage, since the revised section states the authorized number and any number over that would not be authorized. The words “and chapter 31 of this title” are substituted for the reference to 10:20s to make it clear that the authority for a 70 group Air Force is subject to all provisions which prescribe the authorized personnel strength of the Air Force.
 
-In subsection (f), the word “considers” is substituted for the words “may determine is more”. The words “aggregate” and “amount” are omitted as surplusage. The words “carry out this section” are substituted for thewords “fulfill the requirements of the Air Force of the United States for aircraft necessary to carry out the purposes of this chapter, section 481 of this title, and sections 235, 235a, 628, and 628a of title 5”, since the purposes to which the reference is made are stated in the revised section. The last sentence is substituted for 10:20t (proviso).
+In subsection (f), the word “considers” is substituted for the words “may determine is more”. The words “aggregate” and “amount” are omitted as surplusage. The words “carry out this section” are substituted for the words “fulfill the requirements of the Air Force of the United States for aircraft necessary to carry out the purposes of this chapter, section 481 of this title, and sections 235, 235a, 628, and 628a of title 5”, since the purposes to which the reference is made are stated in the revised section. The last sentence is substituted for 10:20t (proviso).
 
 #### Amendments
 
-2009—Subsec. (g)(1). Pub. L. 111–84 substituted “2009” for “2008” and “316” for “299”.
+<b>2009</b>—Subsec. (g)(1). Pub. L. 111–84 substituted “2009” for “2008” and “316” for “299”.
 
-2006—Subsec. (a)(1). Pub. L. 109–163 substituted “Commonwealths and possessions” for “Territories, Commonwealths, and possessions”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–163 substituted “Commonwealths and possessions” for “Territories, Commonwealths, and possessions”.
 
 Subsec. (g). Pub. L. 109–364 added subsec. (g).
 
-1987—Subsec. (e). Pub. L. 100–26 and Pub. L. 100–180 amended subsec. (e) identically, substituting “section 115” for “section 114”.
+<b>1987</b>—Subsec. (e). Pub. L. 100–26 and Pub. L. 100–180 amended subsec. (e) identically, substituting “section 115” for “section 114”.
 
-1986—Subsec. (e). Pub. L. 99–433 substituted “section 114” for “section 138”.
+<b>1986</b>—Subsec. (e). Pub. L. 99–433 substituted “section 114” for “section 138”.
 
-1980—Subsec. (e). Pub. L. 96–513 substituted “, chapter 831 of this title, and the strength authorized by law pursuant to section 138” for “and chapter 831”.
+<b>1980</b>—Subsec. (e). Pub. L. 96–513 substituted “, chapter 831 of this title, and the strength authorized by law pursuant to section 138” for “and chapter 831”.
 
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
+#### Requirements for Transferring Aircraft Within the Air Force Inventory
+
+Pub. L. 111–383, div. A, title III, §345, Jan. 7, 2011, 124 Stat. 4191, provided that:
+
+“(a)
+
+Requirements.—In proposing the transfer of ownership of any aircraft from ownership by a reserve component of the Air Force to ownership by a regular component of the Air Force, including such a transfer to be made on a temporary basis, the Secretary of the Air Force shall ensure that a written agreement regarding such transfer of ownership has been entered into between the Director of the Air National Guard, the Commander of the Air Force Reserve Command, and the Chief of Staff of the Air Force. Any such agreement shall specify each of the following:
+
+&emsp;“(1) The number of and type of aircraft to be transferred.
+
+&emsp;“(2) In the case of any aircraft transferred on a temporary basis—
+
+&emsp;&emsp;“(A) the schedule under which the aircraft will be returned to the ownership of the reserve component;
+
+&emsp;&emsp;“(B) a description of the condition, including the estimated remaining service life, in which any such aircraft will be returned to the reserve component; and
+
+&emsp;&emsp;“(C) a description of the allocation of resources, including the designation of responsibility for funding aircraft operation and maintenance and a detailed description of budgetary responsibilities, for the period for which the ownership of the aircraft is transferred to the regular component.
+
+&emsp;“(3) The designation of responsibility for funding depot maintenance requirements or modifications to the aircraft generated as a result of the transfer, including any such requirements and modifications required during the period for which the ownership of the aircraft is transferred to the regular component.
+
+&emsp;“(4) Any location from which the aircraft will be transferred.
+
+&emsp;“(5) The effects on manpower that such a transfer may have at any facility identified under paragraph (4).
+
+&emsp;“(6) The effects on the skills and proficiencies of the reserve component personnel affected by the transfer.
+
+&emsp;“(7) Any other items the Director of the Air National Guard or the Commander of the Air Force Reserve Command determines are necessary in order to execute such a transfer.
+
+“(b)
+
+Submittal of Agreements to Congress.—The Secretary of the Air Force may not take any action to transfer the ownership of an aircraft as described in subsection (a) until the Secretary submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an agreement entered into pursuant to such subsection regarding the transfer of ownership of the aircraft.”
+
 #### Consolidation of Air Force and Air National Guard Aircraft Maintenance
 
-Pub. L. 110–417, \[div. A\], title III, §324, Oct. 14, 2008, 122 Stat. 4416, provided that:
+Pub. L. 110–417, \[div. A\], title III, §324, Oct. 14, 2008, 122 Stat. 4416, as amended by Pub. L. 111–383, div. A, title X, §1075(e)(4), Jan. 7, 2011, 124 Stat. 4374, provided that:
 
 “(a)
 
@@ -132,7 +164,7 @@ Restriction on Implementation of Consolidation.—The Secretary of the Air Force
 
 “(b)
 
-Report on Criteria.—Not later than 30 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of the Air Force shall submit to the Committees on Armed Services of the Senate and House of Representatives a report stating all the criteria being used by the Department of the Air Force and the Rand Corporation to evaluate the feasibility of consolidating Air Force maintenance functions into organizations that would integrate active, Guard, and Reserve components into a total-force approach. The report shall include the assumptions that were provided to or developed by the Rand Corporation for their \[its\] study of the feasibility of the consolidation proposal.
+Report on Criteria.—Not later than 30 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of the Air Force shall submit to the Committees on Armed Services of the Senate and House of Representatives a report stating all the criteria being used by the Department of the Air Force and the Rand Corporation to evaluate the feasibility of consolidating Air Force maintenance functions into organizations that would integrate active, Guard, and Reserve components into a total-force approach. The report shall include the assumptions that were provided to or developed by the Rand Corporation for its study of the feasibility of the consolidation proposal.
 
 “(c)
 

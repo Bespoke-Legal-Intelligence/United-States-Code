@@ -34,7 +34,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The President may provide financial assistance to individuals or households to rent alternate housing accommodations, existing rental units, manufactured housing, recreational vehicles, or other readily fabricated dwellings. Such assistance may include the payment of the cost of utilities, excluding telephone service.
+&emsp;&emsp;&emsp;The President may provide financial assistance to individuals or households torent alternate housing accommodations, existing rental units, manufactured housing, recreational vehicles, or other readily fabricated dwellings. Such assistance may include the payment of the cost of utilities, excluding telephone service.
 
 #### (ii) Amount
 
@@ -80,7 +80,7 @@
 
 #### (4) Permanent housing construction
 
-&emsp;The President may provide financial assistance or direct assistance to individuals orhouseholds to construct permanent or semi-permanent housing in insular areas outside the continental United States and in other locations in cases in which—
+&emsp;The President may provide financial assistance or direct assistance to individuals or households to construct permanent or semi-permanent housing in insular areas outside the continental United States and in other locations in cases in which—
 
 &emsp;&emsp;(A) no alternative housing resources are available; and
 
@@ -218,7 +218,7 @@ A prior section 408 of Pub. L. 93–288 was classified to section 5178 of this t
 
 #### Amendments
 
-2006—Subsec. (b)(1). Pub. L. 109–295, §689(c)(1), inserted “, or with respect to individuals with disabilities, rendered inaccessible or uninhabitable,” after “uninhabitable”.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–295, §689(c)(1), inserted “, or with respect to individuals with disabilities, rendered inaccessible or uninhabitable,” after “uninhabitable”.
 
 Subsec. (c)(1)(A)(i). Pub. L. 109–295, §689d(1), inserted at end “Such assistance may include the payment of the cost of utilities, excluding telephone service.”
 

@@ -12,7 +12,7 @@ Removal Due to Senate Not Giving Advice and Consent.—If, after consideration o
 
 Removal After 18
 
-Months.—(1) If an officer whose name is on a list of officers approved for promotion under section 624(a) of this title to a grade for which appointment is required by section 624(c) of this title to be made by and with the advice and consent of the Senate is not appointed to that grade under such section during the officer's promotion eligibility period, the officer's name shall be removed from the list unless as of the end of such period the Senate has given its advice and consent to the appointment.
+Months.—(1) If an officer whose name is on a list of officers approvedfor promotion under section 624(a) of this title to a grade for which appointment is required by section 624(c) of this title to be made by and with the advice and consent of the Senate is not appointed to that grade under such section during the officer's promotion eligibility period, the officer's name shall be removed from the list unless as of the end of such period the Senate has given its advice and consent to the appointment.
 
 (2) Before the end of the promotion eligibility period with respect to an officer under paragraph (1), the President may extend that period for purposes of paragraph (1) by an additional 12 months.
 
@@ -20,17 +20,23 @@ Months.—(1) If an officer whose name is on a list of officers approved for pro
 
 (d)
 
+Administrative Removal.—Under regulations prescribed by the Secretary concerned, if an officer on the active-duty list is discharged or dropped from the rolls or transferred to a retired status after having been recommended for promotion to a higher grade under this chapter, but before being promoted, the officer's name shall be administratively removed from the list of officers recommended for promotion by a selection board.
+
+(e)
+
 Continued Eligibility for Promotion.—(1) An officer whose name is removed from a list under subsection (a), (b), or (c) continues to be eligible for consideration for promotion. If he is recommended for promotion by the next selection board convened for his grade and competitive category and he is promoted, the Secretary of the military department concerned may, upon such promotion, grant him the same date of rank, the same effective date for the pay and allowances of the grade to which promoted, and the same position on the active-duty list as he would have had if his name had not been so removed.
 
-(2) If such an officer who is in a grade below the grade of colonel or, in the case of the Navy, captain is not recommended for promotion by the next selection board convened for his grade and competitive category, or if his name is again removed from the list of officers recommended for promotion, of if the Senate again does not give its advice and consent to his promotion, he shall be considered for all purposes to have twice failed of selection for promotion.
+(2) If such an officer who is in a grade below the grade of colonel or, in the case of the Navy, captain is not recommended for promotion by the next selection board convened for his grade and competitive category, or if his name is again removed from the list of officers recommended for promotion, or if the Senate again does not give its advice and consent to his promotion, he shall be considered for all purposes to have twice failed of selection for promotion.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2860; amended Pub. L. 109–364, div. A, title V, §515(a), Oct. 17, 2006, 120 Stat. 2185; Pub. L. 110–181, div. A, title X, §1063(a)(2), Jan. 28, 2008, 122 Stat. 321.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2860; amended Pub. L. 109–364, div. A, title V, §515(a), Oct. 17, 2006, 120 Stat. 2185; Pub. L. 110–181, div. A, title X, §1063(a)(2), Jan. 28, 2008, 122 Stat. 321; Pub. L. 111–383, div. A, title V, §504(a), Jan. 7, 2011, 124 Stat. 4208.)
 
 #### Amendments
 
-2008—Subsec. (d)(1). Pub. L. 110–181 inserted comma after “(a)”.
+<b>2011</b>—Subsecs. (d), (e). Pub. L. 111–383 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-2006—Subsec. (a). Pub. L. 109–364, §515(a)(4)(A), inserted heading.
+<b>2008</b>—Subsec. (d)(1). Pub. L. 110–181 inserted comma after “(a)”.
+
+<b>2006</b>—Subsec. (a). Pub. L. 109–364, §515(a)(4)(A), inserted heading.
 
 Subsec. (b). Pub. L. 109–364, §515(a)(1), inserted heading and inserted “to a grade for which appointment is required by section 624(c) of this title to be made by and with the advice and consent of the Senate” after “the President”.
 

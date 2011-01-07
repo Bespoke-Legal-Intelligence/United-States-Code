@@ -40,9 +40,11 @@ This subchapter, referred to in subsec. (b)(1)(A), was in the original “this p
 
 #### Amendments
 
-1989—Subsec. (b)(1)(B). Pub. L. 101–204, §1001(b)(1)(A), inserted “stating” before “the general criteria”.
+<b>1989</b>—Subsec. (b)(1)(B). Pub. L. 101–204, §1001(b)(1)(A), inserted “stating” before “the general criteria”.
 
 Subsec. (b)(1)(C). Pub. L. 101–204, §1001(b)(1)(B), substituted “describing” for “a description of”.
 
 Subsec. (c). Pub. L. 101–204, §1001(b)(2), substituted “such officer” for “Administrator”.
+
+<i><sup>1</sup></i><i> So in original. The word “the” probably should not appear.</i>
 

@@ -26,11 +26,11 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–177 substituted “15 years” for “ten years” in second par. and “8 years” for “six years” in last par.
+<b>2008</b>—Subsec. (b). Pub. L. 110–177 substituted “15 years” for “ten years” in second par. and “8 years” for “six years” in last par.
 
-1996—Subsec. (b). Pub. L. 104–294 repealed Pub. L. 103–322, §320102(2). See 1994 Amendment note below.
+<b>1996</b>—Subsec. (b). Pub. L. 104–294 repealed Pub. L. 103–322, §320102(2). See 1994 Amendment note below.
 
-1994—Subsec. (b). Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” in last par.
+<b>1994</b>—Subsec. (b). Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” in last par.
 
 Pub. L. 103–322, §320102(3), substituted “six years” for “three years” in last par.
 

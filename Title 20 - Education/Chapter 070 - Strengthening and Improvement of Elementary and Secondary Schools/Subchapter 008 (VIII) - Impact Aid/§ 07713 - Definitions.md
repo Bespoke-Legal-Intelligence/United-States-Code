@@ -130,7 +130,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;Except as provided in subparagraph (B), the term “local educational agency”—
 
-&emsp;&emsp;&emsp;(i) means a board of education or other legally constituted local school authority having administrative control and direction of free public education in a county, township, independent school district, or other school district; and
+&emsp;&emsp;&emsp;(i) means a board of education or other legally constituted local school authorityhaving administrative control and direction of free public education in a county, township, independent school district, or other school district; and
 
 &emsp;&emsp;&emsp;(ii) includes any State agency that directly operates and maintains facilities for providing free public education.
 
@@ -180,11 +180,11 @@ The United States Housing Act of 1937, referred to in par. (5)(A)(iii)(I), is ac
 
 The Native American Housing Assistance and Self-Determination Act of 1996, referred to in par. (5)(A)(iii)(III), (F)(i), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
-Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994), referred to in pars. (5)(F)(ii)(II) and (9)(B)(i), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, which was classified generally to chapter 13\(§236 et seq.) of this title prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. Section 403 of the Act was classified to section 244 of this title. For complete classification of this Act to the Code, see Tables.
+Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994), referred to in pars. (5)(F)(ii)(II) and (9)(B)(i), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, which was classified generally to chapter 13 (§236 et seq.) of this title prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. Section 403 of the Act was classified to section 244 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-2000—Par. (5)(A)(iii)(II). Pub. L. 106–400 made technical amendment to reference in original act which appears in text as reference to section 11411 of title 42.
+<b>2000</b>—Par. (5)(A)(iii)(II). Pub. L. 106–400 made technical amendment to reference in original act which appears in text as reference to section 11411 of title 42.
 
 Par. (5)(A)(iii)(III). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1816(1)(A)\], added subcl. (III).
 

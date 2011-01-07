@@ -24,7 +24,7 @@ The words “air service or air transportation” are substituted for “air ser
 
 #### Amendments
 
-2003—Pub. L. 108–176 inserted “, including joint fares,” after “joint proposals”.
+<b>2003</b>—Pub. L. 108–176 inserted “, including joint fares,” after “joint proposals”.
 
 #### Effective Date of 2003 Amendment
 

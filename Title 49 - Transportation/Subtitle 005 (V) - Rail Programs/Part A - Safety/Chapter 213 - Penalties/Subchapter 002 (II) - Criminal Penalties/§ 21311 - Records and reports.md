@@ -48,5 +48,5 @@ In subsection (b), the words “shall be deemed guilty of a misdemeanor” are o
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–432 amended subsec. (b) generally. Prior to amendment, text read as follows: “A railroad carrier not filing the report required by section 20901 of this title shall be fined not more than $500 for each violation and not more than $500 for each day during which the report is overdue.”
+<b>2008</b>—Subsec. (b). Pub. L. 110–432 amended subsec. (b) generally. Prior to amendment, text read as follows: “A railroad carrier not filing the report required by section 20901 of this title shall be fined not more than $500 for each violation and not more than $500 for each day during which the report is overdue.”
 

@@ -10,9 +10,9 @@ The provisions of section 78d(b) of this title shall be applicable with respect 
 
 #### Amendments
 
-1990—Pub. L. 101–550 amended section generally. Prior to amendment, section related to appointment and compensation of employees.
+<b>1990</b>—Pub. L. 101–550 amended section generally. Prior to amendment, section related to appointment and compensation of employees.
 
-1949—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+<b>1949</b>—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
 #### Repeals
 

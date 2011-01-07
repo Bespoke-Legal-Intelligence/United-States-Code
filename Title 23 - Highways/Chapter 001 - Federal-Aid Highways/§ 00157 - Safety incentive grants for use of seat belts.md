@@ -174,7 +174,7 @@ A prior section 157, added Pub. L. 97–424, title I, §150(a), Jan. 6, 1983, 96
 
 #### Amendments
 
-2005—Subsec. (g)(1). Pub. L. 109–59 substituted “2004, and $112,000,000 for fiscal year 2005” for “2004, and $92,975,342 for the period of October 1, 2004, through July 30, 2005”.
+<b>2005</b>—Subsec. (g)(1). Pub. L. 109–59 substituted “2004, and $112,000,000 for fiscal year 2005” for “2004, and $92,975,342 for the period of October 1, 2004, through July 30, 2005”.
 
 Pub. L. 109–40 substituted “$92,975,342 for the period of October 1, 2004, through July 30, 2005” for “$92,054,794 for the period of October 1, 2004, through July 27, 2005”.
 
@@ -186,7 +186,7 @@ Pub. L. 109–20 substituted “$89,600,000 for the period of October 1, 2004, t
 
 Pub. L. 109–14 substituted “$84,000,000 for the period of October 1, 2004, through June 30, 2005” for “$74,666,667 for the period of October 1, 2004, through May 31, 2005”.
 
-2004—Subsec. (a)(3), (8)(B). Pub. L. 108–310, §6(a)(1)(A), (B), substituted “2003” for “2002”.
+<b>2004</b>—Subsec. (a)(3), (8)(B). Pub. L. 108–310, §6(a)(1)(A), (B), substituted “2003” for “2002”.
 
 Subsec. (b). Pub. L. 108–310, §6(a)(1)(C), substituted “2005” for “2003” in introductory provisions.
 
@@ -204,7 +204,7 @@ Pub. L. 108–202 substituted “$65,333,333 for the period of October 1, 2003, 
 
 Subsec. (g)(3)(B). Pub. L. 108–310, §6(a)(1)(H), (I), substituted “2005” for “2004” in heading and text.
 
-2003—Subsec. (a)(3), (8)(B). Pub. L. 108–88, §6(a)(1)(A), (B), substituted “2002” for “2001”.
+<b>2003</b>—Subsec. (a)(3), (8)(B). Pub. L. 108–88, §6(a)(1)(A), (B), substituted “2002” for “2001”.
 
 Subsec. (b). Pub. L. 108–88, §6(a)(1)(C), substituted “2003” for “2002” in introductory provisions.
 

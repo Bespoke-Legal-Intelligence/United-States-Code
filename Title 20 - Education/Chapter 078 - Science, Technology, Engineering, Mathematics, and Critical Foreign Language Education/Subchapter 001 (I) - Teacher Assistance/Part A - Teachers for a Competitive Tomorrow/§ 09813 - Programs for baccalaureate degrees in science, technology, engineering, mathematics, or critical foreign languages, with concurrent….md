@@ -124,7 +124,7 @@ In this section, the term “induction program” means a formalized program for
 
 &emsp;(3) The application of empirically based practice and scientifically valid research on instructional practices.
 
-&emsp;(4) Opportunities for new teachers to draw directly upon the expertise of teacher mentors, faculty, and researchers to support theintegration of empirically based practice and scientifically valid research with practice.
+&emsp;(4) Opportunities for new teachers to draw directly upon the expertise of teacher mentors, faculty, and researchers to support the integration of empirically based practice and scientifically valid research with practice.
 
 &emsp;(5) The development of skills in instructional and behavioral interventions derived from empirically based practice and, where applicable, scientifically valid research.
 

@@ -40,7 +40,7 @@ The Administration may provide financial assistance to private nonprofit organiz
 
 #### (1) Non-Federal contributions
 
-&emsp;As a condition of receiving financial assistance authorized by this section, the recipient organization shall agree to obtain, after its application has been approved and notice of award has been issued, cash contributions from non-Federal sources as follows:
+&emsp;Subject to paragraph (5), as a condition of receiving financial assistance authorized by this section, the recipient organization shall agree to obtain, after its application has been approved and notice of award has been issued, cash contributions from non-Federal sources as follows:
 
 &emsp;&emsp;(A) in the first and second years, 1 non-Federal dollar for each 2 Federal dollars; and
 
@@ -57,6 +57,34 @@ The Administration may provide financial assistance to private nonprofit organiz
 #### (4) Failure to obtain non-Federal funding
 
 &emsp;If any recipient of assistance fails to obtain the required non-Federal contribution during any project, it shall not be eligible thereafter for advance disbursements pursuant to paragraph (3) during the remainder of that project, or for any other project for which it is or may be funded by the Administration, and prior to approving assistance to such organization for any other projects, the Administration shall specifically determine whether the Administration believes that the recipient will be able to obtain the requisite non-Federal funding and enter a written finding setting forth the reasons for making such determination.
+
+#### (5) Waiver of non-Federal share relating to technical assistance and counseling
+
+#### (A) In general
+
+&emsp;&emsp;Upon request by a recipient organization, and in accordance with this paragraph, the Administrator may waive, in whole or in part, the requirement to obtain non-Federal funds under this subsection for the technical assistance and counseling activities of the recipient organization carried out using financial assistance under this section for a fiscal year. The Administrator may waive the requirement to obtain non-Federal funds under this paragraph for successive fiscal years.
+
+#### (B) Considerations
+
+&emsp;&emsp;In determining whether to waive the requirement to obtain non-Federal funds under this paragraph, the Administrator shall consider—
+
+&emsp;&emsp;&emsp;(i) the economic conditions affecting the recipient organization;
+
+&emsp;&emsp;&emsp;(ii) the impact a waiver under this clause would have on the credibility of the women's business center program under this section;
+
+&emsp;&emsp;&emsp;(iii) the demonstrated ability of the recipient organization to raise non-Federal funds; and
+
+&emsp;&emsp;&emsp;(iv) the performance of the recipient organization.
+
+#### (C) Limitations
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Administrator may not waive the requirement to obtain non-Federal funds under this paragraph if granting the waiver would undermine the credibility of the women's business center program under this section.
+
+#### (ii) Sunset
+
+&emsp;&emsp;&emsp;The Administrator may not waive the requirement to obtain non-Federal funds under this paragraph for fiscal year 2013 or any fiscal year thereafter.
 
 #### (d) Contract authority
 
@@ -236,7 +264,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (B) Use of unawarded funds for sustainability pilot program grants
 
-&emsp;&emsp;If the amount reserved under subparagraph (A) for any fiscal year is not fully awarded to private nonprofit organizations described in subsection (<i>l</i>)(1)(B) of this section, the Administration is authorized to use the unawarded amount to fund additional women's business center sites or to increase fundingof existing women's business center sites under subsection (b) of this section.
+&emsp;&emsp;If the amount reserved under subparagraph (A) for any fiscal year is not fully awarded to private nonprofit organizations described in subsection (<i>l</i>)(1)(B) of this section, the Administration is authorized to use the unawarded amount to fund additional women's business center sites or to increase funding of existing women's business center sites under subsection (b) of this section.
 
 #### (<i>l</i>) Repealed. Pub. L. 110–28, title VIII, §8305(b), May 25, 2007, 121 Stat. 210
 
@@ -314,7 +342,15 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 &emsp;The Administrator shall issue regulations to establish standards for requiring disclosures during a financial audit under paragraph (1)(B).
 
-(Pub. L. 85–536, §2\[29\], formerly §2\[28\], as added Pub. L. 102–191, §2, Dec. 5, 1991, 105 Stat. 1589; renumbered §2\[29\] and amended Pub. L. 103–403, title IV, §§411, 412, Oct. 22, 1994, 108 Stat. 4192, 4193; Pub. L. 105–135, title III, §308(a), Dec. 2, 1997, 111 Stat. 2611; Pub. L. 106–17, §§2(a), 3, Apr. 6, 1999, 113 Stat. 27; Pub. L. 106–165, §§2–4(b), Dec. 9, 1999, 113 Stat. 1795–1798; Pub. L. 110–28, title VIII, §8305(a), (b), May 25, 2007, 121 Stat. 209, 210.)
+(Pub. L. 85–536, §2\[29\], formerly §2\[28\], as added Pub. L. 102–191, §2, Dec. 5, 1991, 105 Stat. 1589; renumbered §2\[29\] and amended Pub. L. 103–403, title IV, §§411, 412, Oct. 22, 1994, 108 Stat. 4192, 4193; Pub. L. 105–135, title III, §308(a), Dec. 2, 1997, 111 Stat. 2611; Pub. L. 106–17, §§2(a), 3, Apr. 6, 1999, 113 Stat. 27; Pub. L. 106–165, §§2–4(b), Dec. 9, 1999, 113 Stat. 1795–1798; Pub. L. 110–28, title VIII, §8305(a), (b), May 25, 2007, 121 Stat. 209, 210; Pub. L. 111–240, title I, §1401(b), (c)(2), Sept. 27, 2010, 124 Stat. 2549, 2550.)
+
+#### Amendment of Subsection (c)
+
+<i>Pub. L. 111–240, title I, §1401(c), Sept. 27, 2010, 124 Stat. 2549, provided that, effective Oct. 1, 2012, subsection (c) of this section is amended:</i>
+
+<i>(1) in paragraph (1), by striking “Subject to paragraph (5), as” and inserting “As”; and</i>
+
+<i>(2) by striking paragraph (5).</i>
 
 #### References in Text
 
@@ -326,11 +362,15 @@ May 25, 2007, referred to in subsec. (m)(3)(B), was in the original “the date 
 
 #### Amendments
 
-2007—Subsec. (<i>l</i>). Pub. L. 110–28, §8305(b), struck out subsec. (<i>l</i>) which related to establishment of a sustainability pilot program.
+<b>2010</b>—Subsec. (c)(1). Pub. L. 111–240, §1401(b)(1), substituted “Subject to paragraph (5), as a condition” for “As a condition” in introductory provisions.
+
+Subsec. (c)(5). Pub. L. 111–240, §1401(b)(2), added par. (5).
+
+<b>2007</b>—Subsec. (<i>l</i>). Pub. L. 110–28, §8305(b), struck out subsec. (<i>l</i>) which related to establishment of a sustainability pilot program.
 
 Subsecs. (m), (n). Pub. L. 110–28, §8305(a), added subsecs. (m) and (n).
 
-1999—Subsec. (a)(2) to (4). Pub. L. 106–165, §2(1), added par. (2) and redesignated former pars. (2) and (3) as pars. (3) and (4), respectively.
+<b>1999</b>—Subsec. (a)(2) to (4). Pub. L. 106–165, §2(1), added par. (2) and redesignated former pars. (2) and (3) as pars. (3) and (4), respectively.
 
 Subsec. (b). Pub. L. 106–165, §2(2), inserted “nonprofit” after “private” in introductory provisions.
 
@@ -372,15 +412,19 @@ Subsec. (k)(4). Pub. L. 106–165, §4(b)(3), added par. (4).
 
 Subsec. (<i>l</i>). Pub. L. 106–165, §4(a), added subsec. (<i>l</i>).
 
-1997—Pub. L. 105–135 amended section generally, substituting provisions relating to women's business center program for provisions relating to women's demonstration projects.
+<b>1997</b>—Pub. L. 105–135 amended section generally, substituting provisions relating to women's business center program for provisions relating to women's demonstration projects.
 
-1994—Subsec. (g). Pub. L. 103–403, §411(2), substituted “1997” for “1995”.
+<b>1994</b>—Subsec. (g). Pub. L. 103–403, §411(2), substituted “1997” for “1995”.
 
 Subsec. (h). Pub. L. 103–403, §412, added subsec. (h).
 
 #### Change of Name
 
 Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–240, title I, §1401(c), Sept. 27, 2010, 124 Stat. 2549, provided that the amendment made by section 1401(c)(2) is effective Oct. 1, 2012.
 
 #### Effective Date of 2007 Amendment
 

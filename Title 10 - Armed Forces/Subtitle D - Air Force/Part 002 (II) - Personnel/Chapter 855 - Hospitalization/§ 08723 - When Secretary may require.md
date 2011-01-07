@@ -24,9 +24,9 @@ The words “under such regulations as he may prescribe”, in 10:455e and 32:16
 
 #### Amendments
 
-1987—Pub. L. 100–26 struck out comma after “disease”.
+<b>1987</b>—Pub. L. 100–26 struck out comma after “disease”.
 
-1986—Pub. L. 99–661 substituted “incurred an injury, illness, or disease” for “was injured, or contracted a disease”.
+<b>1986</b>—Pub. L. 99–661 substituted “incurred an injury, illness, or disease” for “was injured, or contracted a disease”.
 
 #### Effective Date of 1986 Amendment
 

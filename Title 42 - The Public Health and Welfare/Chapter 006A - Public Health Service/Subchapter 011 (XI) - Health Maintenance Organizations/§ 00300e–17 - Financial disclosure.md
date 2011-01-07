@@ -44,7 +44,7 @@ Each health maintenance organization shall make the information reported pursuan
 
 #### (d) Evaluation of transactions
 
-The Secretary shall, as he deems necessary, conduct an evaluation of transactions reported to the Secretary under subsection (a)(3) of this section for the purpose of determining their adverse impact, if any, on the fiscal soundness and reasonableness of charges to the health maintenance organization with respect to which they transpired. The Secretary shall evaluate the reported transactions of not less than five, or if there are more than twenty health maintenance organizations reporting such transactions, not less than one-fourth of the health maintenance organizations reporting any such transactions under subsection (a)(3) of this section.
+The Secretary shall, as he deems necessary, conduct an evaluation of transactions reported to the Secretary under subsection (a)(3) of this section for the purpose of determining their adverse impact, if any, on the fiscal soundness and reasonableness of charges to the health maintenance organization with respect to which they transpired. The Secretary shall evaluate the reported transactions of not less than five, or if there are more than twenty health maintenance organizations reporting such transactions, not less than one-fourth of the health maintenanceorganizations reporting any such transactions under subsection (a)(3) of this section.
 
 #### (e) Repealed. Pub. L. 99–660, title VIII, §810, Nov. 14, 1986, 100 Stat. 3801
 
@@ -64,9 +64,9 @@ Whoever knowingly and willfully makes or causes to be made any false statement o
 
 #### Amendments
 
-2003—Subsec. (a)(2). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
+<b>2003</b>—Subsec. (a)(2). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
 
-1986—Subsec. (e). Pub. L. 99–660 struck out subsec. (e) which read as follows: “The Secretary shall file an annual report with the Congress on the operation of this section. Such report shall include—
+<b>1986</b>—Subsec. (e). Pub. L. 99–660 struck out subsec. (e) which read as follows: “The Secretary shall file an annual report with the Congress on the operation of this section. Such report shall include—
 
 &emsp;“(1) an enumeration of standards and norms utilized to make the evaluations required under subsection (d) of this section;
 
@@ -74,7 +74,7 @@ Whoever knowingly and willfully makes or causes to be made any false statement o
 
 &emsp;“(3) what action, if any, the Secretary considers necessary under section 300e–11 of this title with respect to health maintenance organizations evaluated under subsection (d) of this section.”
 
-1981—Subsec. (a). Pub. L. 97–35, §948(a), (b), in par. (2) inserted reference to copy of the report, if any, filed with the Health Care Financing Administration, and in par. (3)(B) reorganized excluding provisions and, among revisions, inserted salaries paid to employees for services.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §948(a), (b), in par. (2) inserted reference to copy of the report, if any, filed with the Health Care Financing Administration, and in par. (3)(B) reorganized excluding provisions and, among revisions, inserted salaries paid to employees for services.
 
 Subsec. (b)(1). Pub. L. 97–35, §948(c), inserted “responsible for management or administration” after “employee”.
 

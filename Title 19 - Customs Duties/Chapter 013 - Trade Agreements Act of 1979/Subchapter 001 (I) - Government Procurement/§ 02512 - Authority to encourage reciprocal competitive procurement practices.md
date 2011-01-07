@@ -46,7 +46,7 @@ Notwithstanding subsection (a) of this section, but in furtherance of the object
 
 #### (2) Recommendations for attaining reciprocity
 
-&emsp;The report required by paragraph (1) shall include an evaluation of alternative means to obtain equity and reciprocity in such product sectors, including (A) prohibiting the procurement of products of such countries by United States entities not covered by the Agreement, and (B) modifying the application of title III of the Act of March 3, 1933 (41 U.S.C. 10a et seq.), commonly referred to as the Buy American Act. The report shall include an analysis of the effect of such alternative means on the United States economy (including effects on employment, production, competition, costs and prices, technological development, export trade, balance of payments, inflation, and the Federal budget), and on successful negotiations on the expansion of the coverage of the Agreement pursuant to section 2514(a) and (b) of this title, other trade negotiating objectives, the relationship of the Federal Government to State and local governments, and such other factors as the President deems appropriate.
+&emsp;The report required by paragraph (1) shall include an evaluation of alternative means to obtain equity and reciprocity in such product sectors, including (A) prohibiting the procurement of products of such countries by United States entities not covered by the Agreement, and (B) modifying the application of chapter 83 of title 41. The report shall include an analysis of the effect of such alternative means on the United States economy (including effects on employment, production, competition, costs and prices, technological development, export trade, balance of payments, inflation, and the Federal budget), and on successful negotiations on the expansion of the coverage of the Agreement pursuant to section 2514(a) and (b) of this title, other trade negotiating objectives, the relationship of the Federal Government to State and local governments, and such other factors as the President deems appropriate.
 
 #### (3) Consultation
 
@@ -70,13 +70,13 @@ Notwithstanding subsection (a) of this section, but in furtherance of the object
 
 (Pub. L. 96–39, title III, §302, July 26, 1979, 93 Stat. 236; Pub. L. 103–182, title III, §381(b), Dec. 8, 1993, 107 Stat. 2129; Pub. L. 103–465, title III, §343(a), (b), Dec. 8, 1994, 108 Stat. 4954, 4955.)
 
-#### References in Text
+#### Codification
 
-Title III of the Act of March 3, 1933, referred to in subsec. (c)(2), is act Mar. 3, 1933, ch. 212, title III, 47 Stat. 1520, as amended, known as the Buy American Act, which is classified generally to sections 10a, 10b, and 10c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
+In subsec. (c)(2)(B), “chapter 83 of title 41” substituted for “title III of the Act of March 3, 1933 (41 U.S.C. 10a et seq.), commonly referred to as the Buy American Act” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–465, §343(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “With respect to procurement covered by the Agreement, the President, in order to encourage additional countries to become parties to the Agreement and to provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products—
+<b>1994</b>—Subsec. (a). Pub. L. 103–465, §343(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “With respect to procurement covered by the Agreement, the President, in order to encourage additional countries to become parties to the Agreement and to provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products—
 
 &emsp;“(1) shall prohibit the procurement, after the date on which any waiver under section 2511(a) of this title first takes effect, of products (A) which are products of a foreign country or instrumentality which is not designated pursuant to section 2511(b) of this title, and (B) which are products covered under the Agreement for procurement by the United States; and
 
@@ -86,7 +86,7 @@ Subsec. (b). Pub. L. 103–465, §343(b)(2), inserted concluding provisions.
 
 Subsec. (b)(1). Pub. L. 103–465, §343(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “delay, for a period not to exceed two years, the prohibition of procurement, required pursuant to subsection (a)(1) of this section, of products of a foreign country or instrumentality which is not designated pursuant to section 2511(b) of this title, except that no such delay shall be granted with respect to the procurement of products of any major industrial country;”.
 
-1993—Subsec. (a)(1). Pub. L. 103–182 substituted “are products covered under the Agreement for procurement by the United States” for “would otherwise be eligible products”.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–182 substituted “are products covered under the Agreement for procurement by the United States” for “would otherwise be eligible products”.
 
 #### Change of Name
 
@@ -112,5 +112,5 @@ Amendment by Pub. L. 103–182 effective on the date the North American Free Tra
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to United States Trade Representative, with authority delegated to Secretary of Defense to waive the prohibitions contained in subsec. (b)(3) of this section, see section 1–201 of Ex. Ord. No. 12260, Dec. 31, 1980, 46 F.R. 1653, set out as a note under section 2511 of this title.
+Functions of President under this section delegated to United States Trade Representative, with authority delegated to Secretary of Defense to waive the prohibitions contained in subsec. (b)(3), see section 1–201 of Ex. Ord. No. 12260, Dec. 31, 1980, 46 F.R. 1653, set out as a note under section 2511 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) State as applicant
 
-In the event that a law enforcement emergency exists throughout a State or a part of aState, a State (on behalf of itself or another appropriate unit of government) may submit an application under this section for Federal law enforcement assistance.
+In the event that a law enforcement emergency exists throughout a State or a part of a State, a State (on behalf of itself or another appropriate unit of government) may submit an application under this section for Federal law enforcement assistance.
 
 #### (b) Execution of application; period for action of Attorney General on application
 
@@ -32,7 +32,7 @@ The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–162 substituted “the Assistant Attorney General for the Office of Justice Programs” for “the Director of the Office of Justice Assistance”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–162 substituted “the Assistant Attorney General for the Office of Justice Programs” for “the Director of the Office of Justice Assistance”.
 
 #### Effective Date
 

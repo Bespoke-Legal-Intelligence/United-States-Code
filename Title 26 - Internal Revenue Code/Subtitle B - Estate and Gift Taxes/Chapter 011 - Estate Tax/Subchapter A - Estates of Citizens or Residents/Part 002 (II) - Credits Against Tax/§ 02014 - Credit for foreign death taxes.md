@@ -32,7 +32,7 @@ The credit provided in this section with respect to such taxes paid to any forei
 
 (1) The values referred to in the ratio stated in subsection (b)(1) are the values determined for purposes of the tax imposed by such foreign country.
 
-(2) The values referred to in the ratio stated in subsection (b)(2) are the values determined under this chapter; but, in applying such ratio, the value of any property described in subparagraphs (A), (B), and (C) thereof shall be reducedby such amount as will properly reflect, in accordance with regulations prescribed by the Secretary, the deductions allowed in respect of such property under sections 2055 and 2056 (relating to charitable and marital deductions).
+(2) The values referred to in the ratio stated in subsection (b)(2) are the values determined under this chapter; but, in applying such ratio, the value of any property described in subparagraphs (A), (B), and (C) thereof shall be reduced by such amount as will properly reflect, in accordance with regulations prescribed by the Secretary, the deductions allowed in respect of such property under sections 2055 and 2056 (relating to charitable and marital deductions).
 
 #### (d) Proof of credit
 
@@ -58,7 +58,7 @@ The credit provided in this section shall be allowed only for such taxes as were
 
 #### (f) Additional limitation in cases involving a deduction under section 2053(d)
 
-In any case where a deduction is allowed under section 2053(d) for an estate, succession, legacy, or inheritance tax imposed by and actually paid to any foreign country upon a transfer by the decedent for public, charitable, or religious uses described in section 2055, the property described in subparagraphs (A), (B), and (C) of paragraphs (1) and (2) of subsection (b) of this section shall not include any property in respect of which such deduction is allowed under section 2053(d).
+In any case where a deduction is allowed under section 2053(d) for an estate, succession, legacy, or inheritance tax imposed by and actually paid to any foreign country upon a transfer by the decedent for public, charitable, or religious uses described in section 2055, the property described in subparagraphs (A), (B), and (C) of paragraphs (1) and (2) of subsection (b) of this section shallnot include any property in respect of which such deduction is allowed under section 2053(d).
 
 #### (g) Possession of United States deemed a foreign country
 
@@ -84,25 +84,25 @@ Whenever the President finds that—
 
 #### Amendments
 
-2001—Subsec. (b)(2). Pub. L. 107–16, §§532(c)(3), 901, temporarily struck out “, 2011,” after “sections 2010” in introductory provisions. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (b)(2). Pub. L. 107–16, §§532(c)(3), 901, temporarily struck out “, 2011,” after “sections 2010” in introductory provisions. See Effective and Termination Dates of 2001 Amendment note below.
 
-1976—Subsec. (b)(2). Pub. L. 94–455, §2001(c)(1)(G), inserted reference to section 2010 in introductory provisions.
+<b>1976</b>—Subsec. (b)(2). Pub. L. 94–455, §2001(c)(1)(G), inserted reference to section 2010 in introductory provisions.
 
 Subsecs. (c), (d). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1966—Subsec. (a). Pub. L. 89–809 struck out provision that, if the decedent at the time of his death was not a citizen of the United States, credit would not be allowed under this section unless the foreign country of which the decedent was a citizen or subject, in imposing estate, inheritance, legacy, or succession taxes, allows a similar credit in the case of a citizen of the United States resident in such country.
+<b>1966</b>—Subsec. (a). Pub. L. 89–809 struck out provision that, if the decedent at the time of his death was not a citizen of the United States, credit would not be allowed under this section unless the foreign country of which the decedent was a citizen or subject, in imposing estate, inheritance, legacy, or succession taxes, allows a similar credit in the case of a citizen of the United States resident in such country.
 
 Subsec. (h). Pub. L. 89–809 added subsec. (h).
 
-1959—Subsecs. (f), (g). Pub. L. 86–175 added subsec. (f) and redesignated former subsec. (f) as (g).
+<b>1959</b>—Subsecs. (f), (g). Pub. L. 86–175 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1958—Subsec. (f). Pub. L. 85–866 added subsec. (f).
+<b>1958</b>—Subsec. (f). Pub. L. 85–866 added subsec. (f).
 
 #### Effective and Termination Dates of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1966 Amendment
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 89–809 applicable with respect to estates of decedents dy
 
 #### Effective Date of 1959 Amendment
 
-Amendment by Pub. L. 86–175 applicable with respect to estates of decedents dying on or after July 1, 1955,see section 4 of Pub. L. 86–175, set out as a note under section 2053 of this title.
+Amendment by Pub. L. 86–175 applicable with respect to estates of decedents dying on or after July 1, 1955, see section 4 of Pub. L. 86–175, set out as a note under section 2053 of this title.
 
 #### Effective Date of 1958 Amendment
 

@@ -2,11 +2,11 @@
 
 #### (a) Previous contractual obligations; tax exemption
 
-Funds distributed under sections 117a to 117c of this title shall not be liable for the paymentof previously contracted obligations except as may be provided by the governing body of the tribe and distributions of such funds shall be subject to the provisions of section 7 of the Act of October 19, 1973 (87 Stat. 466), as amended \[25 U.S.C. 1407\].
+Funds distributed under sections 117a to 117c of this title shall not be liable for the payment of previously contracted obligations except as may be provided by the governing body of the tribe and distributions of such funds shall be subject to the provisions of section 7 of the Act of October 19, 1973 (87 Stat. 466), as amended \[25 U.S.C. 1407\].
 
 #### (b) Funds appropriated in satisfaction of judgments
 
-Nothing in sections 117a to 117c of this title shall affect the requirements of the Act of October 19, 1973 (87 Stat. 466), as amended \[25 U.S.C. 1401 et seq.\], or of any plan approved thereunder, with respect to the use or distribution of funds subject to that Act: <i>Provided</i>, That per capita payments made pursuant to a plan approved under that Act may be made by an Indian tribe as provided in section 117a of this title if all other provisions of the 1973 Act are met, including but not limited to, the protection of the interests of minors and incompetents in such funds.
+Nothing in sections 117a to 117c of this title shall affect the requirements of the Act of October 19, 1973 (87 Stat. 466), as amended \[25 U.S.C. 1401 et seq.\], or of any plan approved thereunder, with respect to the use or distribution of funds subject to that Act: <i>Provided</i>, That per capita payments made pursuant to a plan approvedunder that Act may be made by an Indian tribe as provided in section 117a of this title if all other provisions of the 1973 Act are met, including but not limited to, the protection of the interests of minors and incompetents in such funds.
 
 #### (c) Shoshone Tribe and Arapahoe Tribe of the Wind River Reservation, Wyoming
 

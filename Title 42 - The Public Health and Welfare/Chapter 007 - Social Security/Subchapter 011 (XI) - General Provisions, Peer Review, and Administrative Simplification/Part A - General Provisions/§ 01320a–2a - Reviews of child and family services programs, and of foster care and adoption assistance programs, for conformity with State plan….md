@@ -68,7 +68,7 @@ Section was formerly classified to section 1320a–1a of this title prior to ren
 
 #### Amendments
 
-2006—Subsec. (b)(2). Pub. L. 109–432 inserted “(which shall include determining whether the State program is in conformity with the requirement of section 671(a)(27) of this title)” after “review”.
+<b>2006</b>—Subsec. (b)(2). Pub. L. 109–432 inserted “(which shall include determining whether the State program is in conformity with the requirement of section 671(a)(27) of this title)” after “review”.
 
 #### Effective Date of 2006 Amendment
 
@@ -80,5 +80,5 @@ Section 203(c)(1) of Pub. L. 103–432 provided that: “The amendment made by s
 
 #### Regulations
 
-Section 203(c)(3) of Pub. L. 103–432 provided that: “The Secretary shall promulgate the regulations referred to in section 1123(a) \[now 1123A(a)\] of the Social Security Act \[subsec. (a) of this section\] (as added bythis section) not later than July 1, 1995, to take effect on April 1, 1996.”
+Section 203(c)(3) of Pub. L. 103–432 provided that: “The Secretary shall promulgate the regulations referred to in section 1123(a) \[now 1123A(a)\] of the Social Security Act \[subsec. (a) of this section\] (as added by this section) not later than July 1, 1995, to take effect on April 1, 1996.”
 

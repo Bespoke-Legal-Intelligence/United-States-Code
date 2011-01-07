@@ -6,7 +6,7 @@ Programs or projects undertaken by a Federal agency or with Federal financial as
 
 #### (b) Availability of advisory services
 
-The head of any displacing agency shall ensure that the relocation assistance advisory services described in subsection (c) of this section are made available to all persons displaced by such agency. If such agency head determines that any person occupying property immediately adjacent to the property where the displacing activity occurs is caused substantial economic injury as a result thereof, the agency head may make available to such person such advisory services.
+The head of any displacing agency shall ensure that the relocation assistance advisory services described in subsection (c) of this section are made available to all persons displaced by such agency. If such agency head determines that any person occupying property immediately adjacent to the property where the displacing activity occurs is caused substantial economic injuryas a result thereof, the agency head may make available to such person such advisory services.
 
 #### (c) Measures, facilities, or services; description
 
@@ -44,9 +44,13 @@ Notwithstanding section 4601(1) of this title, in any case in which a displacing
 
 (Pub. L. 91–646, title II, §205, Jan. 2, 1971, 84 Stat. 1897; Pub. L. 100–17, title IV, §408, Apr. 2, 1987, 101 Stat. 252.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (e), was in the original “this Act”, meaning Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, known as the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
+
 #### Amendments
 
-1987—Pub. L. 100–17, substituted “Relocation planning, assistance coordination, and advisory services” for “Relocation assistance advisory services” in catchline and amended text generally, revising and restating as subsecs. (a) to (f) provisions formerly contained in subsecs. (a) to (d).
+<b>1987</b>—Pub. L. 100–17, substituted “Relocation planning, assistance coordination, and advisory services” for “Relocation assistance advisory services” in catchline and amended text generally, revising and restating as subsecs. (a) to (f) provisions formerly contained in subsecs. (a) to (d).
 
 #### Effective Date of 1987 Amendment
 

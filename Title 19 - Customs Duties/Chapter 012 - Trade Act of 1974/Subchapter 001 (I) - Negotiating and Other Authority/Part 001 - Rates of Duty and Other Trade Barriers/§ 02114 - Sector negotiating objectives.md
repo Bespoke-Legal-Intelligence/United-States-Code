@@ -24,5 +24,5 @@ If the President determines that competitive opportunities in one or more produc
 
 #### Amendments
 
-1984—Subsec. (c). Pub. L. 98–573 inserted “or non-Federal governmental” after “private”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–573 inserted “or non-Federal governmental” after “private”.
 

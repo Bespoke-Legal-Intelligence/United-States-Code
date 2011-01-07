@@ -6,7 +6,7 @@ Nothing in this chapter shall be construed to limit the authority of the executi
 
 #### Amendments
 
-1988—Pub. L. 100–456 reenacted section without change.
+<b>1988</b>—Pub. L. 100–456 reenacted section without change.
 
-1984—Pub. L. 98–525 substituted “before December 1, 1981” for “prior to the enactment of this chapter”.
+<b>1984</b>—Pub. L. 98–525 substituted “before December 1, 1981” for “prior to the enactment of this chapter”.
 

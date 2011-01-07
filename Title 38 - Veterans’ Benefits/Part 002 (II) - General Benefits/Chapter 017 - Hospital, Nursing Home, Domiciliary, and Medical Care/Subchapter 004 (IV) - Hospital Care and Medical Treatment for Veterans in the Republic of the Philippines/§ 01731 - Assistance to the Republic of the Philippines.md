@@ -10,9 +10,9 @@ Prior section 1731 was renumbered section 3531 of this title.
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 631 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 631 of this title as this section.
 
-1981—Pub. L. 97–72 inserted “in fulfilling its responsibility” after “The President is authorized to assist the Republic of the Philippines”.
+<b>1981</b>—Pub. L. 97–72 inserted “in fulfilling its responsibility” after “The President is authorized to assist the Republic of the Philippines”.
 
 #### Effective Date
 

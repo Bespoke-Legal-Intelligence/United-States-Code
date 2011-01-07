@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(B) an employee of a nonappropriated fund instrumentality described by section 2105(c) of this title who is employed in a recognized trade or craft, or other skilled mechanical craft, or in an unskilled, semiskilled, or skilled manual labor occupation, and any other individual, including a foreman and a supervisor, in a position having trade, craft, or laboring experience and knowledge as the paramount requirement; and
 
-&emsp;&emsp;(C) an employee of the Veterans’ Canteen Service, Department of Veterans Affairs, excepted from chapter 51 of this title by section 5102 (c)(14) of this title who is employed in a recognized trade or craft, or other skilled mechanical craft, or in an unskilled, semiskilled, or skilled manual labor occupation, and any other individual, including a foreman and a supervisor, in a position having trade, craft, or labor experience and knowledge as the paramount requirement; and
+&emsp;&emsp;(C) an employee of the Veterans’ Canteen Service, Department of Veterans Affairs, excepted from chapter 51 of this title by section 5102(c)(14) of this title who is employed in a recognized trade or craft, or other skilled mechanical craft, or in an unskilled, semiskilled, or skilled manual labor occupation, and any other individual, including a foreman and a supervisor, in a position having trade, craft, or labor experience and knowledge as the paramount requirement; and
 
 &emsp;(3) “position” means the work, consisting of duties and responsibilities, assignable to a prevailing rate employee.
 

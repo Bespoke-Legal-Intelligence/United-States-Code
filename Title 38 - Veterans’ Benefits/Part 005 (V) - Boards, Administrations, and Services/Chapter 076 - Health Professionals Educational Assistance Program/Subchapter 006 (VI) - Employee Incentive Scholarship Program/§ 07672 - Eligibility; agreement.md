@@ -34,7 +34,7 @@ Agreement.—(1) An agreement between the Secretary and a participant in the Pro
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–135 substituted “one year” for “2 years”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–135 substituted “one year” for “2 years”.
 
-2001—Subsec. (e)(1)(B). Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
+<b>2001</b>—Subsec. (e)(1)(B). Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
 

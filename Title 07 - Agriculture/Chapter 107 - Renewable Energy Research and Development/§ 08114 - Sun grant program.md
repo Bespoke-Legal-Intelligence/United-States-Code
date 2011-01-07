@@ -124,7 +124,7 @@ The Secretary shall establish and carry out a program to provide grants to the s
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Except as provided in subclauses (II) and (III), as a condition of receiving a grant under this paragraph, the sun grant center or subcenter shall require that not less than 20 percent of the cost of an activity described in subparagraph (B) be matched with funds, including in-kind contributions, from a non-Federal source.
+&emsp;&emsp;&emsp;&emsp;Except as provided in subclauses (II) and (III), as a condition of receiving agrant under this paragraph, the sun grant center or subcenter shall require that not less than 20 percent of the cost of an activity described in subparagraph (B) be matched with funds, including in-kind contributions, from a non-Federal source.
 
 #### (II) Exclusion
 
@@ -206,7 +206,7 @@ Provisions similar to those in this section were contained in section 8109 of th
 
 #### Effective Date
 
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
 #### Definition of “Secretary”
 

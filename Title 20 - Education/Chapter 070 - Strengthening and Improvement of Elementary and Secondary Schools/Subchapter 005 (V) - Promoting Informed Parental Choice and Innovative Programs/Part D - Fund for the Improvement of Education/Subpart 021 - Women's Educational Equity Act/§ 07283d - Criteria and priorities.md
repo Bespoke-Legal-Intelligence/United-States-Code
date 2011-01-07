@@ -68,7 +68,7 @@ The Education Amendments of 1972, referred to in subsec. (a)(2)(B), (C), is Pub.
 
 #### Amendments
 
-2002—Subsec. (d)(1). Pub. L. 107–279 substituted “Institute of Education Sciences” for “Office of Educational Research and Improvement” and “by the Institute” for “by the Office”.
+<b>2002</b>—Subsec. (d)(1). Pub. L. 107–279 substituted “Institute of Education Sciences” for “Office of Educational Research and Improvement” and “by the Institute” for “by the Office”.
 
 Subsec. (d)(2). Pub. L. 107–279, §404(d)(5)(D), substituted “Institute of Education Sciences” for “Office of Educational Research and Improvement”.
 

@@ -44,15 +44,15 @@ Congressional Committees.—The congressional committees referred to in subsecti
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–136 designated existing provisions as par. (1) and added par. (2).
+<b>2003</b>—Subsec. (a). Pub. L. 108–136 designated existing provisions as par. (1) and added par. (2).
 
-2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1)\], renumbered section 2551 of this title as this section.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1)\], renumbered section 2551 of this title as this section.
 
 Subsec. (c)(3)(C). Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(c)(1)\], substituted “section 2557” for “section 2547”.
 
-1999—Subsec. (f)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
+<b>1999</b>—Subsec. (f)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
-1996—Subsec. (b). Pub. L. 104–106, §1312(1), (2), redesignated subsec. (d) as (b) and struck out former subsec. (b) which read as follows: “
+<b>1996</b>—Subsec. (b). Pub. L. 104–106, §1312(1), (2), redesignated subsec. (d) as (b) and struck out former subsec. (b) which read as follows: “
 
 Authority To Transfer Funds.—To the extent provided in defense authorization Acts for a fiscal year, the Secretary of Defense may transfer to the Secretary of State funds appropriated for the purposes of this section to provide for—
 

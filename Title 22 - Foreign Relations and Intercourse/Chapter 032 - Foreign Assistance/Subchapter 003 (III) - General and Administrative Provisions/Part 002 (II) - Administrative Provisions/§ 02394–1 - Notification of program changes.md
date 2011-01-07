@@ -38,11 +38,11 @@ Section was formerly classified to section 2429b of this title.
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations” in introductory provisions.
+<b>1994</b>—Subsec. (a). Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations” in introductory provisions.
 
-1985—Pub. L. 99–83 designated existing provisions as subsec. (a), inserted references to the Arms Export Control Act in two places, and added subsecs. (b) and (c).
+<b>1985</b>—Pub. L. 99–83 designated existing provisions as subsec. (a), inserted references to the Arms Export Control Act in two places, and added subsecs. (b) and (c).
 
-1981—Pub. L. 97–113 inserted provision respecting notification of proposed reprograming of assistance.
+<b>1981</b>—Pub. L. 97–113 inserted provision respecting notification of proposed reprograming of assistance.
 
 #### Effective Date of 1985 Amendment
 

@@ -10,5 +10,5 @@ The text of section 2193(b) of this title, which was transferred to, and redesig
 
 #### Amendments
 
-1999—Pub. L. 106–65, §580(c)(2), renumbered section 2193(b) of this title as text of this section. See Codification note above.
+<b>1999</b>—Pub. L. 106–65, §580(c)(2), renumbered section 2193(b) of this title as text of this section. See Codification note above.
 

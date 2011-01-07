@@ -6,7 +6,7 @@ In the case of any interest in qualified real property (within the meaning of se
 
 #### (b) Period of lien
 
-The lien imposed by this section shall arise at the time an election is filed under section 2032Aand shall continue with respect to any interest in the qualified real property—
+The lien imposed by this section shall arise at the time an election is filed under section 2032A and shall continue with respect to any interest in the qualified real property—
 
 &emsp;(1) until the liability for tax under subsection (c) of section 2032A with respect to such interest has been satisfied or has become unenforceable by reason of lapse of time, or
 
@@ -30,11 +30,11 @@ To the extent provided in regulations prescribed by the Secretary, the furnishin
 
 #### Amendments
 
-1981—Subsec. (c)(2). Pub. L. 97–34 defined “qualified real property” to include qualified exchange property (within the meaning of section 2032A(i)(3)).
+<b>1981</b>—Subsec. (c)(2). Pub. L. 97–34 defined “qualified real property” to include qualified exchange property (within the meaning of section 2032A(i)(3)).
 
-1980—Subsec. (c). Pub. L. 96–222 designated existing provisions as par. (1), substituted “The rule” for “The rules”, and added par. (2).
+<b>1980</b>—Subsec. (c). Pub. L. 96–222 designated existing provisions as par. (1), substituted “The rule” for “The rules”, and added par. (2).
 
-1978—Subsec. (b). Pub. L. 95–600 substituted “qualified real property” for “qualified farm real property”.
+<b>1978</b>—Subsec. (b). Pub. L. 95–600 substituted “qualified real property” for “qualified farm real property”.
 
 #### Effective Date of 1981 Amendment
 

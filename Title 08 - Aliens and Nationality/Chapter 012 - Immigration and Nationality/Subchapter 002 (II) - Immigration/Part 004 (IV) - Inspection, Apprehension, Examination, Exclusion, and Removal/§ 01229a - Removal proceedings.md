@@ -8,7 +8,7 @@
 
 #### (2) Charges
 
-&emsp;An alien placed in proceedings under this section may be charged with any applicable ground of inadmissibility under section 1182(a) of this title or any applicable ground of deportability under section 1227(a) of this title.
+&emsp;An alien placed in proceedings under this section may be charged with any applicable ground of inadmissibility under section 1182(a)of this title or any applicable ground of deportability under section 1227(a) of this title.
 
 #### (3) Exclusive procedures
 
@@ -56,7 +56,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Any alien who, after written notice required under paragraph (1) or (2) of section 1229(a) of this title has been provided to the alien or the alien's counsel of record, does not attend a proceeding under this section,shall be ordered removed in absentia if the Service establishes by clear, unequivocal, and convincing evidence that the written notice was so provided and that the alien is removable (as defined in subsection (e)(2) of this section). The written notice by the Attorney General shall be considered sufficient for purposes of this subparagraph if provided at the most recent address provided under section 1229(a)(1)(F) of this title.
+&emsp;&emsp;Any alien who, after written notice required under paragraph (1) or (2) of section 1229(a) of this title has been provided to the alien or the alien's counsel of record, does not attend a proceeding under this section, shall be ordered removed in absentia if the Service establishes by clear, unequivocal, and convincing evidence that the written notice was so provided and that the alien is removable (as defined in subsection (e)(2) of this section). The written notice by the Attorney General shall be considered sufficient for purposes of this subparagraph if provided at the most recent address provided under section 1229(a)(1)(F) of this title.
 
 #### (B) No notice if failure to provide address information
 
@@ -122,7 +122,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the proceeding the Service has the burden of establishing by clear and convincing evidence that, in the case of an alien who has been admitted to the United States, the alien is deportable. No decision on deportability shall be valid unless it is based uponreasonable, substantial, and probative evidence.
+&emsp;&emsp;In the proceeding the Service has the burden of establishing by clear and convincing evidence that, in the case of an alien who has been admitted to the United States, the alien is deportable. No decision on deportability shall be valid unless it is based upon reasonable, substantial, and probative evidence.
 
 #### (B) Proof of convictions
 
@@ -250,6 +250,8 @@ In this section and section 1229b of this title:
 
 #### References in Text
 
+This chapter, referred to in subsecs. (a)(3), (b)(1), (4)(B), and (c)(3)(B), (C), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+
 Section 1254 of this title, referred to in subsec. (c)(7)(C)(iv)(I), was repealed by Pub. L. 104–208, div. C, title III, §308(b)(7), Sept. 30, 1996, 110 Stat. 3009–615.
 
 #### Prior Provisions
@@ -260,7 +262,7 @@ A prior section 240 of act June 27, 1952, was renumbered section 240C, and is cl
 
 2006—Subsec. (c)(7)(A). Pub. L. 109–162, §825(a)(1), inserted before period at end “, except that this limitation shall not apply so as to prevent the filing of one motion to reopen described in subparagraph (C)(iv)”.
 
-Subsec. (c)(7)(C)(iv). Pub. L. 109–162, §825(a)(2)(A), (B), substituted “spouses, children, and parents” for“spouses and children” in heading and “Any limitation under this section on the deadlines for filing such motions shall not apply” for “The deadline specified in subsection (b)(5)(C) of this section for filing a motion to reopen does not apply” in introductory provisions.
+Subsec. (c)(7)(C)(iv). Pub. L. 109–162, §825(a)(2)(A), (B), substituted “spouses, children, and parents” for “spouses and children” in heading and “Any limitation under this section on the deadlines for filing such motions shall not apply” for “The deadline specified in subsection (b)(5)(C) of this section for filing a motion to reopen does not apply” in introductory provisions.
 
 Subsec. (c)(7)(C)(iv)(I). Pub. L. 109–162, §825(a)(2)(C), which directed substitution of “, section 1229b(b) of this title, or section 1254(a)(3) of this title (as in effect on March 31, 1997)” for “or section 1229b(b) of this title”, was executed by making the substitution for “or section 1229b(b)(2) of this title”, to reflect the probable intent of Congress.
 

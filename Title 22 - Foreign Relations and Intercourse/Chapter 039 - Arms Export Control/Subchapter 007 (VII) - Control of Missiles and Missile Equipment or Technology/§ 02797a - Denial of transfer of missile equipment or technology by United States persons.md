@@ -44,9 +44,13 @@ The President may waive the imposition of sanctions under subsection (a) of this
 
 (Pub. L. 90–629, ch. 7, §72, as added Pub. L. 101–510, div. A, title XVII, §1703, Nov. 5, 1990, 104 Stat. 1745; amended Pub. L. 103–236, title VII, §734(a), Apr. 30, 1994, 108 Stat. 505.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (a)(2)(A)(ii), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+
 #### Amendments
 
-1994—Subsecs. (c), (d). Pub. L. 103–236 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>1994</b>—Subsecs. (c), (d). Pub. L. 103–236 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 #### Delegation of Functions
 

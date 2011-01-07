@@ -2,7 +2,7 @@
 
 #### (a) Authorization; matters considered
 
-The Secretary is authorized and directed to exchange the Federal mineral interests in the lands described in subsection (b) of this section for the private mineral interests in the lands described in subsection (c) of this section, if—
+The Secretary is authorized and directed to exchange the Federal mineral interests in the lands described in subsection (b) of this sectionfor the private mineral interests in the lands described in subsection (c) of this section, if—
 
 &emsp;(1) the owner of such private mineral interests has made available to the Secretary all information requested by the Secretary as to the respective values of the private and Federal mineral interests to be exchanged; and
 

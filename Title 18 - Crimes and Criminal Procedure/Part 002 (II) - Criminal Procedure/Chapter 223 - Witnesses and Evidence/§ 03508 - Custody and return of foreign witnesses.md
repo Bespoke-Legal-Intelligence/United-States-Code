@@ -8,7 +8,3 @@
 
 (Added Pub. L. 100–690, title VI, §6484(a), Nov. 18, 1988, 102 Stat. 4384.)
 
-#### References in Text
-
-The immigration laws, referred to in subsec. (b), are classified generally to Title 8, Aliens and Nationality. See also section 1101(a)(17) of Title 8.
-

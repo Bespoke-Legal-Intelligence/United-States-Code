@@ -28,11 +28,11 @@ Prior section 1738, added Pub. L. 95–202, title II, §201(b), Nov. 23, 1977, 9
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 635 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 635 of this title as this section.
 
 Par. (2). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” before “under”.
 
 Pub. L. 102–83, §4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-1966—Par. (1). Pub. L. 89–612 inserted definition of “new Philippine Scouts”.
+<b>1966</b>—Par. (1). Pub. L. 89–612 inserted definition of “new Philippine Scouts”.
 

@@ -1,7 +1,5 @@
 Part A—General Provisions
 
-<i><sup>1</sup></i><i> So in original. Probably should be “needs”.</i>
-
 
 ---
 
@@ -27,6 +25,8 @@ Part A—General Provisions
 - [&sect; 01314 - Public advisory groups](%C2%A7%2001314%20-%20Public%20advisory%20groups.md)
 - [&sect; 01314a - Measurement and reporting of welfare receipt](%C2%A7%2001314a%20-%20Measurement%20and%20reporting%20of%20welfare%20receipt.md)
 - [&sect; 01315 - Demonstration projects](%C2%A7%2001315%20-%20Demonstration%20projects.md)
+- [&sect; 01315a - Center for Medicare and Medicaid Innovation](%C2%A7%2001315a%20-%20Center%20for%20Medicare%20and%20Medicaid%20Innovation.md)
+- [&sect; 01315b - Providing Federal coverage and payment coordination for dual eligible beneficiaries](%C2%A7%2001315b%20-%20Providing%20Federal%20coverage%20and%20payment%20coordination%20for%20dual%20eligible%20beneficiaries.md)
 - [&sect; 01316 - Administrative and judicial review of public assistance determinations](%C2%A7%2001316%20-%20Administrative%20and%20judicial%20review%20of%20public%20assistance%20determinations.md)
 - [&sect; 01317 - Appointment of the Administrator and Chief Actuary of the Centers for Medicare &amp; Medicaid Services](%C2%A7%2001317%20-%20Appointment%20of%20the%20Administrator%20and%20Chief%20Actuary%20of%20the%20Centers%20for%20Medicare%20%26%20Medicaid%20Services.md)
 - [&sect; 01318 - Alternative Federal payment with respect to public assistance expenditures](%C2%A7%2001318%20-%20Alternative%20Federal%20payment%20with%20respect%20to%20public%20assistance%20expenditures.md)
@@ -50,6 +50,12 @@ Part A—General Provisions
 - [&sect; 01320a&#8211;7e - Health care fraud and abuse data collection program](%C2%A7%2001320a%E2%80%937e%20-%20Health%20care%20fraud%20and%20abuse%20data%20collection%20program.md)
 - [&sect; 01320a&#8211;7f - Coordination of medicare and medicaid surety bond provisions](%C2%A7%2001320a%E2%80%937f%20-%20Coordination%20of%20medicare%20and%20medicaid%20surety%20bond%20provisions.md)
 - [&sect; 01320a&#8211;7g - Funds to reduce medicaid fraud and abuse](%C2%A7%2001320a%E2%80%937g%20-%20Funds%20to%20reduce%20medicaid%20fraud%20and%20abuse.md)
+- [&sect; 01320a&#8211;7h - Transparency reports and reporting of physician ownership or investment interests](%C2%A7%2001320a%E2%80%937h%20-%20Transparency%20reports%20and%20reporting%20of%20physician%20ownership%20or%20investment%20interests.md)
+- [&sect; 01320a&#8211;7i - Reporting of information relating to drug samples](%C2%A7%2001320a%E2%80%937i%20-%20Reporting%20of%20information%20relating%20to%20drug%20samples.md)
+- [&sect; 01320a&#8211;7j - Accountability requirements for facilities](%C2%A7%2001320a%E2%80%937j%20-%20Accountability%20requirements%20for%20facilities.md)
+- [&sect; 01320a&#8211;7k - Medicare and Medicaid program integrity provisions](%C2%A7%2001320a%E2%80%937k%20-%20Medicare%20and%20Medicaid%20program%20integrity%20provisions.md)
+- [&sect; 01320a&#8211;7l - Nationwide program for national and State background checks on direct patient access employees of long-term care facilities and&#8230;](%C2%A7%2001320a%E2%80%937l%20-%20Nationwide%20program%20for%20national%20and%20State%20background%20checks%20on%20direct%20patient%20access%20employees%20of%20long-term%20care%20facilities%20and%E2%80%A6.md)
+- [&sect; 01320a&#8211;7m - Use of predictive modeling and other analytics technologies to identify and prevent waste, fraud, and abuse in the Medicare&#8230;](%C2%A7%2001320a%E2%80%937m%20-%20Use%20of%20predictive%20modeling%20and%20other%20analytics%20technologies%20to%20identify%20and%20prevent%20waste%2C%20fraud%2C%20and%20abuse%20in%20the%20Medicare%E2%80%A6.md)
 - [&sect; 01320a&#8211;8 - Civil monetary penalties and assessments for subchapters II, VIII and XVI](%C2%A7%2001320a%E2%80%938%20-%20Civil%20monetary%20penalties%20and%20assessments%20for%20subchapters%20II%2C%20VIII%20and%20XVI.md)
 - [&sect; 01320a&#8211;8a - Administrative procedure for imposing penalties for false or misleading statements](%C2%A7%2001320a%E2%80%938a%20-%20Administrative%20procedure%20for%20imposing%20penalties%20for%20false%20or%20misleading%20statements.md)
 - [&sect; 01320a&#8211;8b - Attempts to interfere with administration of this chapter](%C2%A7%2001320a%E2%80%938b%20-%20Attempts%20to%20interfere%20with%20administration%20of%20this%20chapter.md)
@@ -66,6 +72,7 @@ Part A—General Provisions
 - [&sect; 01320b&#8211;8 - Hospital protocols for organ procurement and standards for organ procurement agencies](%C2%A7%2001320b%E2%80%938%20-%20Hospital%20protocols%20for%20organ%20procurement%20and%20standards%20for%20organ%20procurement%20agencies.md)
 - [&sect; 01320b&#8211;9 - Improved access to, and delivery of, health care for Indians under subchapters XIX and XXI](%C2%A7%2001320b%E2%80%939%20-%20Improved%20access%20to%2C%20and%20delivery%20of%2C%20health%20care%20for%20Indians%20under%20subchapters%20XIX%20and%20XXI.md)
 - [&sect; 01320b&#8211;9a - Child health quality measures](%C2%A7%2001320b%E2%80%939a%20-%20Child%20health%20quality%20measures.md)
+- [&sect; 01320b&#8211;9b - Adult health quality measures](%C2%A7%2001320b%E2%80%939b%20-%20Adult%20health%20quality%20measures.md)
 - [&sect; 01320b&#8211;10 - Prohibitions relating to references to Social Security or Medicare](%C2%A7%2001320b%E2%80%9310%20-%20Prohibitions%20relating%20to%20references%20to%20Social%20Security%20or%20Medicare.md)
 - [&sect; 01320b&#8211;11 - Blood donor locator service](%C2%A7%2001320b%E2%80%9311%20-%20Blood%20donor%20locator%20service.md)
 - [&sect; 01320b&#8211;12 - Research on outcomes of health care services and procedures](%C2%A7%2001320b%E2%80%9312%20-%20Research%20on%20outcomes%20of%20health%20care%20services%20and%20procedures.md)
@@ -79,5 +86,6 @@ Part A—General Provisions
 - [&sect; 01320b&#8211;20 - Work incentives outreach program](%C2%A7%2001320b%E2%80%9320%20-%20Work%20incentives%20outreach%20program.md)
 - [&sect; 01320b&#8211;21 - State grants for work incentives assistance to disabled beneficiaries](%C2%A7%2001320b%E2%80%9321%20-%20State%20grants%20for%20work%20incentives%20assistance%20to%20disabled%20beneficiaries.md)
 - [&sect; 01320b&#8211;22 - Grants to develop and establish State infrastructures to support working individuals with disabilities](%C2%A7%2001320b%E2%80%9322%20-%20Grants%20to%20develop%20and%20establish%20State%20infrastructures%20to%20support%20working%20individuals%20with%20disabilities.md)
-- [&sect; 01320b&#8211;23 - Repealed. Pub. L. 106&#8211;554, &sect;1(a)(4) \[div. A, &sect;213(a)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A&#8211;180](%C2%A7%2001320b%E2%80%9323%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93554%2C%20%C2%A71%28a%29%284%29%20%5Bdiv.%20A%2C%20%C2%A7213%28a%29%286%29%5D%2C%20Dec.%2021%2C%202000%2C%20114%20Stat.%202763%2C%202763A%E2%80%93180.md)
+- [&sect; 01320b&#8211;23 - Pharmacy benefit managers transparency requirements](%C2%A7%2001320b%E2%80%9323%20-%20Pharmacy%20benefit%20managers%20transparency%20requirements.md)
 - [&sect; 01320b&#8211;24 - Consultation with Tribal Technical Advisory Group](%C2%A7%2001320b%E2%80%9324%20-%20Consultation%20with%20Tribal%20Technical%20Advisory%20Group.md)
+- [&sect; 01320b&#8211;25 - Reporting to law enforcement of crimes occurring in federally funded long-term care facilities](%C2%A7%2001320b%E2%80%9325%20-%20Reporting%20to%20law%20enforcement%20of%20crimes%20occurring%20in%20federally%20funded%20long-term%20care%20facilities.md)

@@ -90,7 +90,7 @@ Section was enacted as part of the Omnibus Budget Reconciliation Act of 1990, an
 
 #### Amendments
 
-2005—Subsec. (a)(1). Pub. L. 109–58, §637(a)(1)(A), substituted “The” for “Except as provided in paragraph (3), the”.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–58, §637(a)(1)(A), substituted “The” for “Except as provided in paragraph (3), the”.
 
 Subsec. (a)(3). Pub. L. 109–58, §637(a)(1)(B), struck out heading and text of par. (3). Text read as follows: “The last assessment of annual charges under subsection (c) of this section shall be made not later than September 20, 2005.”
 
@@ -100,19 +100,19 @@ Subsec. (c)(2)(B)(v). Pub. L. 109–58, §637(a)(2)(D), amended cl. (v) generall
 
 Pub. L. 109–103 inserted “and fiscal year 2006” before period at end.
 
-2000—Subsec. (a)(3). Pub. L. 106–377, §1(a)(2) \[title VIII\], which directed substitution of “September 20, 2005” for “September 30, 1999”, was executed by making the substitution for “September 30, 2000” to reflect the probable intent of Congress and the amendment by Pub. L. 106–60, §604. See 1999 Amendment note below.
+<b>2000</b>—Subsec. (a)(3). Pub. L. 106–377, §1(a)(2) \[title VIII\], which directed substitution of “September 20, 2005” for “September 30, 1999”, was executed by making the substitution for “September 30, 2000” to reflect the probable intent of Congress and the amendment by Pub. L. 106–60, §604. See 1999 Amendment note below.
 
 Subsec. (c)(1). Pub. L. 106–377, §1(a)(2) \[title VIII\], inserted “or certificate holder” after “licensee”.
 
 Subsec. (c)(2). Pub. L. 106–377, §1(a)(2) \[title VIII\], added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The aggregate amount of the annual charge collected from all licensees shall equal an amount that approximates 100 percent of the budget authority of the Commission in the fiscal year in which such charge is collected, less any amount appropriated to the Commission from the Nuclear Waste Fund and the amount of fees collected under subsection (b) of this section in such fiscal year.”
 
-1999—Subsec. (a)(3). Pub. L. 106–60 substituted “September 30, 2000” for “September 30, 1999”.
+<b>1999</b>—Subsec. (a)(3). Pub. L. 106–60 substituted “September 30, 2000” for “September 30, 1999”.
 
-1998—Subsec. (a)(3). Pub. L. 105–245 substituted “September 30, 1999” for “September 30, 1998”.
+<b>1998</b>—Subsec. (a)(3). Pub. L. 105–245 substituted “September 30, 1999” for “September 30, 1998”.
 
-1993—Subsec. (a)(3). Pub. L. 103–66 substituted “September 30, 1998” for “September 30, 1995”.
+<b>1993</b>—Subsec. (a)(3). Pub. L. 103–66 substituted “September 30, 1998” for “September 30, 1995”.
 
-1992—Subsec. (c)(1). Pub. L. 102–486, §2903(a)(1), substituted “Except as provided in paragraph (4), any licensee” for “Any licensee”.
+<b>1992</b>—Subsec. (c)(1). Pub. L. 102–486, §2903(a)(1), substituted “Except as provided in paragraph (4), any licensee” for “Any licensee”.
 
 Subsec. (c)(4). Pub. L. 102–486, §2903(a)(2), added par. (4).
 

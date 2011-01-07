@@ -10,7 +10,7 @@ For the efficient administration of the functions vested in the Tax Court or any
 
 #### (b) Production of records in the case of foreign corporations, foreign trusts or estates and nonresident alien individuals
 
-The Tax Court or any division thereof, upon motion and notice by the Secretary, and upon good cause shown therefor, shall order any foreign corporation, foreign trust or estate, or nonresident alien individual, who has filed a petition with the Tax Court, to produce, or, upon satisfactory proof to the Tax Court or any of its divisions, that the petitioner is unable to produce, to make available to the Secretary, and, in either case, to permit the inspection, copying, or photographing of, such books, records, documents, memoranda, correspondence and other papers, wherever situated, as the Tax Court or any division thereof, may deem relevant to the proceedings and which are in the possession, custody or control of the petitioner, or of any person directly or indirectly under his control or having control over him or subject to the same common control. If the petitioner fails or refuses to comply with any of the provisions of such order, after reasonable time for compliance has been afforded to him, the Tax Court or any division thereof, upon motion, shall make an order striking out pleadings or parts thereof, or dismissing the proceeding or any part thereof, or rendering a judgment by default against the petitioner. For the purpose of this subsection, the term “foreign trust or estate” includes an estate or trust, any fiduciary of which is a foreign corporation or nonresident alien individual; and the term “control” is not limited to legal control.
+The Tax Court or any division thereof, upon motion and notice by the Secretary, and upon good cause shown therefor, shall order any foreign corporation, foreign trust or estate, or nonresident alien individual, who has filed a petition with the Tax Court, to produce, or, upon satisfactory proof to the Tax Court or any of its divisions, that the petitioner is unable to produce, to make available to the Secretary,and, in either case, to permit the inspection, copying, or photographing of, such books, records, documents, memoranda, correspondence and other papers, wherever situated, as the Tax Court or any division thereof, may deem relevant to the proceedings and which are in the possession, custody or control of the petitioner, or of any person directly or indirectly under his control or having control over him or subject to the same common control. If the petitioner fails or refuses to comply with any of the provisions of such order, after reasonable time for compliance has been afforded to him, the Tax Court or any division thereof, upon motion, shall make an order striking out pleadings or parts thereof, or dismissing the proceeding or any part thereof, or rendering a judgment by default against the petitioner. For the purpose of this subsection, the term “foreign trust or estate” includes an estate or trust, any fiduciary of which is a foreign corporation or nonresident alien individual; and the term “control” is not limited to legal control.
 
 #### (c) Incidental powers
 
@@ -28,9 +28,9 @@ The Tax Court and each division thereof shall have power to punish by fine or im
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–177 inserted before period at end of concluding provisions “and may otherwise provide, when requested by the chief judge of the Tax Court, for the security of the Tax Court, including the personal protection of Tax Court judges, court officers, witnesses, and other threatened persons in the interests of justice, where criminal intimidation impedes on the functioning of the judicial process or any otherofficial proceeding. The United States Marshals Service retains final authority regarding security requirements for the Tax Court”.
+<b>2008</b>—Subsec. (c). Pub. L. 110–177 inserted before period at end of concluding provisions “and may otherwise provide, when requested by the chief judge of the Tax Court, for the security of the Tax Court, including the personal protection of Tax Court judges, court officers, witnesses, and other threatened persons in the interests of justice, where criminal intimidation impedes on the functioning of the judicial process or any other official proceeding. The United States Marshals Service retains final authority regarding security requirements for the Tax Court”.
 
-1986—Subsec. (c). Pub. L. 99–514, §1556(b)(1), redesignated subsec. (e) as (c). Former subsec. (c), which provided for the appointment of special trial judges, was struck out.
+<b>1986</b>—Subsec. (c). Pub. L. 99–514, §1556(b)(1), redesignated subsec. (e) as (c). Former subsec. (c), which provided for the appointment of special trial judges, was struck out.
 
 Pub. L. 99–514, §1555(a), inserted last sentence.
 
@@ -38,7 +38,7 @@ Subsec. (d). Pub. L. 99–514, §1556(b)(1), struck out subsec. (d) which set ou
 
 Subsec. (e). Pub. L. 99–514, §1556(b)(1), redesignated subsec. (e) as (c).
 
-1984—Subsec. (a). Pub. L. 98–369, §464(a), substituted “special trial judge” for “commissioner” in three places.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §464(a), substituted “special trial judge” for “commissioner” in three places.
 
 Subsec. (c). Pub. L. 98–369, §464(b), substituted “Special trial judges” for “Commissioners” in heading, and in text substituted “special trial judges” for “commissioners” and “special trial judge” for “commissioner”.
 
@@ -46,7 +46,7 @@ Subsec. (d). Pub. L. 98–369, §464(c), substituted “Special trial judges” 
 
 Pub. L. 98–369, §463(a), in amending subsec. (d) generally, struck out “and” at end of par. (2), substituted “any proceeding” for “any other proceeding” and “$10,000; and” for “$5,000,” in par. (3), added par. (4), and substituted “any proceeding described in paragraph (1), (2), or (3), subject to such conditions and review as the court may provide” for “any such proceeding, subject to such conditions and review as the court may by rule provide” in provisions following par. (4).
 
-1982—Subsec. (c). Pub. L. 97–362, §106(c)(2), struck out provision that the chief judge may assign proceedings under sections 6226, 6228(a), 7428, 7463, 7476, 7477, and 7478 to be heard by the commissioners of the court, and that the court may authorize a commissioner to make the decision of the court with respect to such proceedings, subject to such conditions and review as the court may by rule provide. See subsec. (d) of this section.
+<b>1982</b>—Subsec. (c). Pub. L. 97–362, §106(c)(2), struck out provision that the chief judge may assign proceedings under sections 6226, 6228(a), 7428, 7463, 7476, 7477, and 7478 to be heard by the commissioners of the court, and that the court may authorize a commissioner to make the decision of the court with respect to such proceedings, subject to such conditions and review as the court may by rule provide. See subsec. (d) of this section.
 
 Pub. L. 97–248 inserted “6226, 6228(a),” after “proceedings under sections”.
 
@@ -54,15 +54,15 @@ Pub. L. 97–164 substituted “Each commissioner shall receive pay at an annual
 
 Subsecs. (d), (e). Pub. L. 97–362, §106(c)(1), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1980—Subsec. (c). Pub. L. 96–222 substituted “sections 7428, 7463” for “sections 7428”.
+<b>1980</b>—Subsec. (c). Pub. L. 96–222 substituted “sections 7428, 7463” for “sections 7428”.
 
-1978—Subsec. (a). Pub. L. 95–600, §502(c), substituted “any judge or commissioner of the Tax Court” for “any judge of the Tax Court” wherever appearing, and “by the judge or commissioner” for “by the judge” after “and signed”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–600, §502(c), substituted “any judge or commissioner of the Tax Court” for “any judge of the Tax Court” wherever appearing, and “by the judge or commissioner” for “by the judge” after “and signed”.
 
 Subsec. (c). Pub. L. 95–600, §336(b)(1), inserted provision that the chief judge may assign proceedings under sections 7428, 7476, 7477, and 7478 to be heard by the commissioners of the court, and the court may authorize a commissioner to make the decision of the court with respect to such proceedings, subject to such conditions and review as the court may by rule provide.
 
-1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1969—Subsec. (c). Pub. L. 91–172, §958, provided that commissioners be compensated at rates identical to those of commissioners of the United States Court of Claims, and substituted provisions authorizing the chief judge of the Tax Court to appoint Commissioners for provisions authorizing attorneys from the legal staff of the Tax Court to act as Commissioners.
+<b>1969</b>—Subsec. (c). Pub. L. 91–172, §958, provided that commissioners be compensated at rates identical to those of commissioners of the United States Court of Claims, and substituted provisions authorizing the chief judge of the Tax Court to appoint Commissioners for provisions authorizing attorneys from the legal staff of the Tax Court to act as Commissioners.
 
 Subsec. (d). Pub. L. 91–172, §956, added subsec. (d).
 
@@ -108,5 +108,5 @@ Section 464(e)(2) of Pub. L. 98–369 provided that: “Any reference in any law
 
 #### Commissioners’ Salaries Pending Changes Under Federal Salary Act
 
-Section 153(b) of Pub. L. 97–164, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“Notwithstanding the amendment made by subsection (a) \[amending this section\], until such time as a change in the salary rate of a commissioner of the United States Tax Court occurs in accordance with section 7456(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the salary of such commissioner shall be equal to the salary of a commissioner of the Court of Claims immediately prior to the effective date of this Act \[Oct. 1, 1982\].”
+Section 153(b) of Pub. L. 97–164, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Notwithstanding the amendment made by subsection (a) \[amending this section\], until such time as a change in the salary rate of a commissioner of the United States Tax Court occurs in accordance with section 7456(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the salary of such commissioner shall be equal to the salary of a commissioner of the Court of Claims immediately prior to the effective date of this Act \[Oct. 1, 1982\].”
 

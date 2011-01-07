@@ -36,7 +36,7 @@ In accordance with this section, the Administration shall delegate to any qualif
 
 #### (1) In general
 
-&emsp;Each qualified State or local development company to which the Administration delegates authority under section <sup>1</sup> (a) may withrespect to any loan described in subsection (a) of this section—
+&emsp;Each qualified State or local development company to which the Administration delegates authority under section <sup>1</sup> (a) may with respect to any loan described in subsection (a) of this section—
 
 &emsp;&emsp;(A) perform all liquidation and foreclosure functions, including the purchase in accordance with this subsection of any other indebtedness secured by the property securing the loan, in a reasonable and sound manner according to commercially accepted practices, pursuant to a liquidation plan approved in advance by the Administration under paragraph (2)(A);
 
@@ -112,7 +112,7 @@ In accordance with this section, the Administration shall delegate to any qualif
 
 &emsp;&emsp;&emsp;(i) consider an offer made by an obligor to compromise the debt for less than the full amount owing; and
 
-&emsp;&emsp;&emsp;(ii) pursuant to such an offer, release any obligor or other party contingently liable, if the company secures the written approval of the Administration.
+&emsp;&emsp;&emsp;(ii) pursuant to such an offer, release any obligor or other party contingently liable,if the company secures the written approval of the Administration.
 
 #### (E) Contents of notice of no decision
 
@@ -195,4 +195,6 @@ In general.—Not later than 150 days after the date of the enactment of this Ac
 “(2)
 
 Termination of pilot program.—Beginning on the date on which final regulations are issued under paragraph (1), section 204 of the Small Business Programs Improvement Act of 1996 \[Pub. L. 104–208, div. D\] (15 U.S.C. 695 note) shall cease to have effect.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

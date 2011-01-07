@@ -100,9 +100,9 @@ This section shall apply to taxable years beginning after December 31, 1995, and
 
 #### Amendments
 
-2000—Subsecs. (f) to (h). Pub. L. 106–554 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+<b>2000</b>—Subsecs. (f) to (h). Pub. L. 106–554 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
-1997—Pub. L. 105–34 substituted “Puerto Rico” for “Puerto Rican” in section catchline.
+<b>1997</b>—Pub. L. 105–34 substituted “Puerto Rico” for “Puerto Rican” in section catchline.
 
 #### Effective Date of 2000 Amendment
 
@@ -110,7 +110,7 @@ Pub. L. 106–554, §1(a)(7) \[title III, §311(d)\], Dec. 21, 2000, 114 Stat. 2
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
 
 #### Effective Date
 
@@ -118,7 +118,7 @@ Section 1601(c) of Pub. L. 104–188 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending sections 55, 56, 59, and 936 of thistitle\] shall apply to taxable years beginning after December 31, 1995.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending sections 55, 56, 59, and 936 of this title\] shall apply to taxable years beginning after December 31, 1995.
 
 “(2)
 
@@ -130,7 +130,7 @@ Special transition rule for payment of estimated tax installment.—In determini
 
 #### American Samoa Economic Development Credit
 
-Pub. L. 109–432, div. A, title I, §119, Dec. 20, 2006, 120 Stat. 2942, as amended by Pub. L. 110–343, div. C, title III, §309(a), Oct. 3, 2008, 122 Stat. 3869, provided that:
+Pub. L. 109–432, div. A, title I, §119, Dec. 20, 2006, 120 Stat. 2942, as amended by Pub. L. 110–343, div. C, titleIII, §309(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §756(a), Dec. 17, 2010, 124 Stat. 3322, provided that:
 
 “(a)
 
@@ -162,7 +162,9 @@ Definitions.—For purposes of this section, any term which is used in this sect
 
 “(d)
 
-Application of Section.—Notwithstanding section 30A(h) or section 936(j) of such Code, this section (and so much of section 30A and section 936 of such Code as relates to this section) shall apply to the first 4 taxable years of a corporation to which subsection (a) applies which begin after December 31, 2005, and before January 1, 2010.”
+Application of Section.—Notwithstanding section 30A(h) or section 936(j) of such Code, this section (and so much of section 30A and section 936 of such Code as relates to this section) shall apply to the first 6 taxable years of a corporation to which subsection (a) applies which begin after December 31, 2005, and before January 1, 2012.”
+
+\[Pub. L. 111–312, title VII, §756(b), Dec. 17, 2010, 124 Stat. 3322, provided that: “The amendments made by this section \[amending section 119 of Pub. L. 109–432, set out above\] shall apply to taxable years beginning after December 31, 2009.”\]
 
 \[Pub. L. 110–343, div. C, title III, §309(b), Oct. 3, 2008, 122 Stat. 3869, provided that: “The amendments made by this section \[amending section 119 of Pub. L. 109–432, set out above\] shall apply to taxable years beginning after December 31, 2007.”\]
 

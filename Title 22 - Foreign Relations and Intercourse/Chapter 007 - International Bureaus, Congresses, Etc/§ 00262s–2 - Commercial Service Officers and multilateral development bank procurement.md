@@ -22,7 +22,7 @@ Section was formerly classified to section 4722 of Title 15, Commerce and Trade,
 
 #### Amendments
 
-1989—Subsec. (c). Pub. L. 101–240 struck out subsec. (c) which defined “multilateral development bank” for purposes of this section.
+<b>1989</b>—Subsec. (c). Pub. L. 101–240 struck out subsec. (c) which defined “multilateral development bank” for purposes of this section.
 
 #### Additional Procurement Officers
 

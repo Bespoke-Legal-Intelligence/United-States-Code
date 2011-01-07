@@ -26,7 +26,7 @@ Based on the information obtained during the evaluation referred to in subsectio
 
 #### (d) Reports to Executive Directors; elimination or mitigation of adverse impacts
 
-The Secretary of the Treasury shall forward reports concerning information received under subsection (a) of this section to the Executive Director representing the United States in the appropriate bank with instructions to seek to eliminate or mitigate adverse impacts which may result from the proposal.
+The Secretary of the Treasury shall forward reports concerning information received under subsection (a) of this section to the Executive Director representing the United States in the appropriate bank with instructions to seek toeliminate or mitigate adverse impacts which may result from the proposal.
 
 (Pub. L. 95–118, title XIII, §1303, as added Pub. L. 100–202, §101(e) \[title I\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–134; amended Pub. L. 108–447, div. D, title V, §593(b), Dec. 8, 2004, 118 Stat. 3037.)
 
@@ -36,11 +36,11 @@ Section 1303 of Pub. L. 95–118 is based on section 701 of title VII of H.R. 37
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–447, §593(b), designated existing provisions as par. (1) and added pars. (2) and (3).
+<b>2004</b>—Subsec. (b). Pub. L. 108–447, §593(b), designated existing provisions as par. (1) and added pars. (2) and (3).
 
 Subsec. (b)(1). Pub. L. 108–447, §593(b)(1), which directed amendment of par. (1) by substituting “multilateral development banks as defined in section 262m–7(g) of this title” for “International Bank for Reconstruction and Development, the Inter-American Development Bank, the Asian Development Bank, the African Development Bank”, was executed by making substitution for “International Bank for Reconstruction and Development, the Inter-American Development Bank, the Asian Development Bank, and the African Development Bank”, to reflect the probable intent of Congress.
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced byCommittee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

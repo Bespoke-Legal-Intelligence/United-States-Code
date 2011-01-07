@@ -114,11 +114,11 @@ The Federal Rules of Criminal Procedure, referred to in subsecs. (c) and (<i>o</
 
 #### Amendments
 
-2002—Subsec. (<i>o</i>)(1)(C). Pub. L. 107–273 substituted “subsection (d)(5)” for “section 3664(d)(3)”.
+<b>2002</b>—Subsec. (<i>o</i>)(1)(C). Pub. L. 107–273 substituted “subsection (d)(5)” for “section 3664(d)(3)”.
 
-1996—Pub. L. 104–132 amended section generally, substituting provisions relating to procedure for issuance and enforcement of orders of restitution for provisions relating to procedure for issuing orders of restitution.
+<b>1996</b>—Pub. L. 104–132 amended section generally, substituting provisions relating to procedure for issuance and enforcement of orders of restitution for provisions relating to procedure for issuing orders of restitution.
 
-1990—Subsec. (a). Pub. L. 101–647 substituted “3663” for “3579”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–647 substituted “3663” for “3579”.
 
 #### Effective Date of 1996 Amendment
 

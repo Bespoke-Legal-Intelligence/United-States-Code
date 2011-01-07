@@ -10,7 +10,7 @@ Nothing in this subchapter is intended to give or shall be construed as giving t
 
 #### (c) Availability of results to public
 
-No research, demonstration, or experiment shall be carried out under this subchapter by an institute financed by grants under this subchapter, unless all uses, products, processes, patents, and other developments resulting therefrom, with such exception or limitation, if any, as the Secretary may find necessary in thepublic interest, are made available promptly to the general public. Patentable inventions shall be governed by the provisions of Public Law 96–517. Nothing contained in this section shall deprive the owner of any background patent relating to any such activities of any rights which that owner may have under that patent.
+No research, demonstration, or experiment shall be carried out under this subchapter by an institute financed by grants under this subchapter, unless all uses, products, processes, patents, and other developments resulting therefrom, with such exception or limitation, if any, as the Secretary may find necessary in the public interest, are made available promptly to the general public. Patentable inventions shall be governed by the provisions of Public Law 96–517. Nothing contained in this section shall deprive the owner of any background patent relating to any such activities of any rights which that owner may have under that patent.
 
 #### (d) Authorization of appropriations
 
@@ -34,5 +34,5 @@ A prior section 1226, Pub. L. 95–87, title III, §306, Aug. 3, 1977, 91 Stat. 
 
 #### Amendments
 
-1988—Subsec. (d). Pub. L. 100–483 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated after September 30, 1984, such sums as are necessary for the printing and publishing of the results of activities carried out by institutes under this subchapter and for administrative planning and direction, but such appropriations shall not exceed $1,000,000 in any single fiscal year.”
+<b>1988</b>—Subsec. (d). Pub. L. 100–483 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated after September 30, 1984, such sums as are necessary for the printing and publishing of the results of activities carried out by institutes under this subchapter and for administrative planning and direction, but such appropriations shall not exceed $1,000,000 in any single fiscal year.”
 

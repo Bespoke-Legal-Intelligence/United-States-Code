@@ -28,7 +28,7 @@
 
 (2) In the case of any property referred to in paragraph (1)(A), the Secretary shall—
 
-&emsp;(A) transfer administrative jurisdiction over such property within the Department from theVeterans Benefits Administration to the Veterans Health Administration; and
+&emsp;(A) transfer administrative jurisdiction over such property within the Department from the Veterans Benefits Administration to the Veterans Health Administration; and
 
 &emsp;(B) transfer from the General Post Fund to the Loan Guaranty Revolving Fund under chapter 37 of this title an amount (not to exceed the amount the Secretary paid for the property) representing the amount the Secretary considers could be obtained by sale of such property to a nonprofit organization or a State for use as a shelter for homeless veterans.
 
@@ -48,5 +48,5 @@
 
 #### Amendments
 
-2001—Pub. L. 107–95 renumbered section 1772 of this title as this section.
+<b>2001</b>—Pub. L. 107–95 renumbered section 1772 of this title as this section.
 

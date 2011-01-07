@@ -98,13 +98,13 @@ Exceptions.—Subsection (a) shall not apply to lithographic printing performed 
 
 &emsp;“(2)
 
-Notice to congress.—Not later than 30 days after making a determination under paragraph (1)(A), the head of a Federal agency shall report the determination to the Committee on Government Operations \[now Committee on Oversight and Government Reform\] and the Committee on House Administration of the House of Representatives, and the Committee on Rules of the Senate.
+Notice to congress.—Not later than 30 days after making a determination under paragraph (1)(A),the head of a Federal agency shall report the determination to the Committee on Government Operations \[now Committee on Oversight and Government Reform\] and the Committee on House Administration of the House of Representatives, and the Committee on Rules of the Senate.
 
 “(c)
 
 Federal Agency Defined.—In this Act, the term ‘Federal agency’ means—
 
-&emsp;“(1) an executive department, military department, Government corporation, Government-controlled corporation, or other establishment in the executive branch of the Government (including the ExecutiveOffice of the President), or any independent regulatory agency; and
+&emsp;“(1) an executive department, military department, Government corporation, Government-controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or any independent regulatory agency; and
 
 &emsp;“(2) an establishment or component of the legislative or judicial branch of the Government.”
 

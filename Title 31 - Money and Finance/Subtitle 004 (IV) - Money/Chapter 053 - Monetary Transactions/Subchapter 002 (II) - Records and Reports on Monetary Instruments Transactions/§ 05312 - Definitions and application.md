@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(V) the United States Postal Service;
 
-&emsp;&emsp;(W) an agency of the United States Government or of a State or local government carrying out a duty or power of a business described in this paragraph;
+&emsp;&emsp;(W) an agency of the United States Government or of a State or local governmentcarrying out a duty or power of a business described in this paragraph;
 
 &emsp;&emsp;(X) a casino, gambling casino, or gaming establishment with an annual gaming revenue of more than $1,000,000 which—
 
@@ -144,7 +144,7 @@ In subsection (a)(3)(B), the words “in addition”, and “and such types of�
 
 In subsection (a)(4), the words “in addition to its meaning under section 1 of title 1” are substituted for “natural persons, partnerships, . . . associations, corporations, and all entities cognizable as legal personalities” for consistency because 1:1 is applicable to all laws unless otherwise provided. The words “a trustee, a representative of an estate” are substituted for “trusts, estates”, and the word “entity” is substituted for “department or agency”, for consistency. The words “either for the purpose of this chapter generally or any particular requirement thereunder” are omitted as surplus.
 
-In subsection (a)(5), the words “used in a geographic sense” are omitted because of the restatement. The words “either for the purposes of this chapter generally or any particular requirement thereunder” are omitted as surplus. The words “territory or” are added for consistency.
+In subsection (a)(5), the words “used in a geographic sense” are omitted because of the restatement. Thewords “either for the purposes of this chapter generally or any particular requirement thereunder” are omitted as surplus. The words “territory or” are added for consistency.
 
 Subsection (b) is substituted for 31:1052(f) and (h) to eliminate unnecessary words and for consistency.
 
@@ -158,11 +158,11 @@ The Commodity Exchange Act, referred to in subsec. (c)(1)(A), is act Sept. 21, 1
 
 #### Amendments
 
-2004—Subsec. (a)(2)(E). Pub. L. 108–458, §6202(g), made technical correction to directory language of Pub. L. 107–56, §321(a). See 2001 Amendment note below.
+<b>2004</b>—Subsec. (a)(2)(E). Pub. L. 108–458, §6202(g), made technical correction to directory language of Pub. L. 107–56, §321(a). See 2001 Amendment note below.
 
 Subsec. (a)(3)(C). Pub. L. 108–458, §6203(b), substituted “sections 5316 and 5331” for “sections 5333 and 5316”.
 
-2001—Subsec. (a)(2)(E). Pub. L. 107–56, §321(a), as amended by Pub. L. 108–458, §6202(g), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “an insured institution (as defined in section 401(a) of the National Housing Act (12 U.S.C. 1724(a)));”.
+<b>2001</b>—Subsec. (a)(2)(E). Pub. L. 107–56, §321(a), as amended by Pub. L. 108–458, §6202(g), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “an insured institution (as defined in section 401(a) of the National Housing Act (12 U.S.C. 1724(a)));”.
 
 Subsec. (a)(2)(R). Pub. L. 107–56, §359(a), amended subpar. (R) generally. Prior to amendment, subpar. (R) read as follows: “a licensed sender of money;”.
 
@@ -172,11 +172,11 @@ Subsec. (a)(4) to (6). Pub. L. 107–56, §365(c)(1), added par. (4) and redesig
 
 Subsec. (c). Pub. L. 107–56, §321(b), added subsec. (c).
 
-1994—Subsec. (a)(2)(X) to (Z). Pub. L. 103–325, §409, added subpar. (X) and redesignated former subpars. (X) and (Y) as (Y) and (Z), respectively.
+<b>1994</b>—Subsec. (a)(2)(X) to (Z). Pub. L. 103–325, §409, added subpar. (X) and redesignated former subpars. (X) and (Y) as (Y) and (Z), respectively.
 
 Subsec. (a)(3)(C). Pub. L. 103–325, §405, added subpar. (C).
 
-1988—Subsec. (a)(2)(T) to (Y). Pub. L. 100–690, §6185(a), added subpars. (T) to (Y) and struck out former subpars. (T) and (U) which read as follows:
+<b>1988</b>—Subsec. (a)(2)(T) to (Y). Pub. L. 100–690, §6185(a), added subpars. (T) to (Y) and struck out former subpars. (T) and (U) which read as follows:
 
 “(T) an agency of the United States Government or of a State or local government carrying out a duty or power of a business described in this clause (2), including the United States Postal Service; or
 
@@ -184,7 +184,7 @@ Subsec. (a)(3)(C). Pub. L. 103–325, §405, added subpar. (C).
 
 Subsec. (a)(5). Pub. L. 100–690, §6185(g)(1), inserted a comma after “Puerto Rico” and struck out second comma after “Pacific Islands”.
 
-1986—Subsec. (a)(2)(T). Pub. L. 99–570, §1362(a), which directed that the Postal Service be included within United States agencies by amending subsec. (a)(2)(U) of this section by inserting before the semicolon at the end thereof the following “, including the United States Postal Service”, was executed to subsec. (a)(2)(T) of this section as the probable intent of Congress, because subsec. (a)(2)(U) does not contain a semicolon and subsec. (a)(2)(T) relates to United States agencies.
+<b>1986</b>—Subsec. (a)(2)(T). Pub. L. 99–570, §1362(a), which directed that the Postal Service be included within United States agencies by amending subsec. (a)(2)(U) of this section by inserting before the semicolon at the end thereof the following “, including the United States Postal Service”, was executed to subsec. (a)(2)(T) of this section as the probable intent of Congress, because subsec. (a)(2)(U) does not contain a semicolon and subsec. (a)(2)(T) relates to United States agencies.
 
 Subsec. (a)(5). Pub. L. 99–570, §1362(b), inserted “the Virgin Islands, Guam, the Northern Mariana Islands, American Samoa, the Trust Territory of the Pacific Islands,” after “Puerto Rico”.
 

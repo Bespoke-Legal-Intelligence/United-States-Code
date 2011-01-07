@@ -8,5 +8,5 @@
 
 #### Amendments
 
-1975—Subsec. (a). Pub. L. 93–618 struck out subsec. (a) which provided for termination of or withdrawal from trade agreements. See section 2135 of this title.
+<b>1975</b>—Subsec. (a). Pub. L. 93–618 struck out subsec. (a) which provided for termination of or withdrawal from trade agreements. See section 2135 of this title.
 

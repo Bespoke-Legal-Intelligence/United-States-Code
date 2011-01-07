@@ -30,7 +30,7 @@ The provisions of this subchapter shall not apply to any of the following securi
 
 #### (b) Application of sections 77eee and 77fff
 
-The provisions of sections 77eee and 77fff of this title shall not apply (1) to any of the transactions exempted from the provisions of section 5 of the Securities Act of 1933 \[15 U.S.C. 77e\] by section 4 thereof \[15 U.S.C. 77d\] or (2) to any transaction which would be so exempted but for the last sentence of paragraph (11) of section 2 of such Act <sup>1</sup> \[15 U.S.C. 77b\].
+The provisions of sections 77eee and 77fff of this title shall not apply (1) to any of the transactions exempted from the provisions of section 5 of the Securities Act of 1933 \[15 U.S.C. 77e\] by section 4 thereof \[15 U.S.C. 77d\] or (2) to any transaction which would be so exempted but for the last sentence of paragraph (11) of section 2(a) of such Act \[15 U.S.C. 77b(a)\].
 
 #### (c) Securities issued or proposed to be issued under indenture
 
@@ -48,43 +48,47 @@ The Commission may, by rules or regulations upon its own motion, or by order on 
 
 The Commission may from time to time by its rules and regulations, and subject to such terms and conditions as may be prescribed herein, add to the securities exempted as provided in this section any class of securities issued by a small business investment company under the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\] if it finds, having regard to the purposes of that Act, that the enforcement of this subchapter with respect to such securities is not necessary in the public interest and for the protection of investors.
 
-(May 27, 1933, ch. 38, title III, §304, as added Aug. 3, 1939, ch. 411, 53 Stat. 1153; amended Aug. 10, 1954, ch. 667, title III, §302, 68 Stat. 687; Pub. L. 85–699, title III, §307(b), Aug. 21, 1958, 72 Stat. 694; Pub. L. 86–760, Sept. 13, 1960, 74 Stat. 902; Pub. L. 89–754, title V, §504(b), Nov. 3, 1966, 80 Stat. 1278; Pub. L. 91–567, §6(c), Dec. 22, 1970, 84 Stat. 1499; Pub. L. 96–477, title III, §302, Oct. 21, 1980, 94 Stat. 2291; Pub. L. 101–550, title IV, §403, Nov. 15, 1990, 104 Stat. 2722; Pub. L. 104–290, title V, §508(e), Oct. 11, 1996, 110 Stat. 3448; Pub. L. 105–353, title III, §301(e)(2), Nov. 3, 1998, 112 Stat. 3237.)
+(May 27, 1933, ch. 38, title III, §304, as added Aug. 3, 1939, ch. 411, 53 Stat. 1153; amended Aug. 10, 1954, ch. 667, title III, §302, 68 Stat. 687; Pub. L. 85–699, title III, §307(b), Aug. 21, 1958, 72 Stat. 694; Pub. L. 86–760, Sept. 13, 1960, 74 Stat. 902; Pub. L. 89–754, title V, §504(b), Nov. 3, 1966, 80 Stat. 1278; Pub. L. 91–567, §6(c), Dec. 22, 1970, 84 Stat. 1499; Pub. L. 96–477, title III, §302, Oct. 21, 1980, 94 Stat. 2291; Pub. L. 101–550, title IV, §403, Nov. 15, 1990, 104 Stat. 2722; Pub. L. 104–290, title V, §508(e), Oct. 11, 1996, 110 Stat. 3448; Pub. L. 105–353, title III, §301(e)(2), Nov. 3, 1998, 112 Stat. 3237; Pub. L. 111–203, title IX, §985(c)(1), July 21, 2010, 124 Stat. 1934.)
 
 #### References in Text
 
-The Securities Act of 1933, referred to in subsec. (a)(4), (5), and (10), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsec. (a)(4), (5), and (10), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
-The National Housing Act, referred to in subsec. (a)(5), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified generally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. Provisions of that act relating to insurance of mortgages are contained in section 1707 et seq. of Title 12. Title XI of the National Housing Act, is classified to subchapter IX–B (§1749aaa et seq.) of chapter 13 of Title 12. For complete classification of this Act to the Code, see References in Text note set out under section 1701 of Title 12 and Tables.
+The National Housing Act, referred to in subsec. (a)(5), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified generally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. Provisions of that act relating to insurance of mortgages are contained in section 1707 et seq. of Title 12. Title XI of the National Housing Act, is classified to subchapter IX–B (§1749aaa et seq.) of chapter 13 of Title 12. For complete classification of this Act to the Code, see References in Text note set out under section 1701 of Title 12 and Tables.
 
-Paragraph (11) of section 2 of the Securities Act of 1933, referred to in subsec. (b), was redesignated paragraph (11) of section 2(a) of the Act by Pub. L. 104–290, title I, §106(a)(1), Oct. 11, 1996, 110 Stat. 3424, and is classified to section 77b(a)(11) of this title.
-
-The Small Business Investment Act of 1958, referred to in subsec. (e), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
+The Small Business Investment Act of 1958, referred to in subsec. (e), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
 #### Amendments
 
-1998—Subsec. (a)(4)(A). Pub. L. 105–353 substituted “(13) of section” for “(14) of subsection”.
+<b>2010</b>—Subsec. (b). Pub. L. 111–203 substituted “section 2(a) of such Act” for “section 2 of such Act”.
 
-1996—Subsec. (a)(4)(A). Pub. L. 104–290 substituted “(11), or (14)” for “or (11)”.
+<b>1998</b>—Subsec. (a)(4)(A). Pub. L. 105–353 substituted “(13) of section” for “(14) of subsection”.
 
-1990—Subsec. (a)(3). Pub. L. 101–550, §403(1)(A), struck out par. (3) which read as follows: “any security which, prior to or within six months after August 3, 1939, has been sold or disposed of by the issuer or bona fide offered to the public, but this exemption shall not apply to any new offering of any such security by an issuer subsequent to such six months;”.
+<b>1996</b>—Subsec. (a)(4)(A). Pub. L. 104–290 substituted “(11), or (14)” for “or (11)”.
+
+<b>1990</b>—Subsec. (a)(3). Pub. L. 101–550, §403(1)(A), struck out par. (3) which read as follows: “any security which, prior to or within six months after August 3, 1939, has been sold or disposed of by the issuer or bona fide offered to the public, but this exemption shall not apply to any new offering of any such security by an issuer subsequent to such six months;”.
 
 Subsec. (a)(4)(A). Pub. L. 101–550, §403(1)(B), struck out “, as heretofore amended,” after “1933”.
 
 Subsec. (d). Pub. L. 101–550, §403(2), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Commission may, on application by the issuer and after opportunity for hearing thereon, by order exempt from any one or more of the provisions of this subchapter any security issued or proposed to be issued by a person organized and existing under the laws of a foreign government or a political subdivision thereof, if and to the extent that the Commission finds that compliance with such provision or provisions is not necessary in the public interest and for the protection of investors.”
 
-1980—Subsec. (a)(8). Pub. L. 96–477, §302(a), substituted “an aggregate principal amount of securities of the same issuer greater than the figure stated in section 3(b) of the Securities Act of 1933 limiting exemptions thereunder, or such lesser amount as the Commission may establish by its rules and regulations” for “more than $250,000 aggregate principal amount of any securities of the same issuer”.
+<b>1980</b>—Subsec. (a)(8). Pub. L. 96–477, §302(a), substituted “an aggregate principal amount of securities of the same issuer greater than the figure stated in section 3(b) of the Securities Act of 1933 limiting exemptions thereunder, or such lesser amount as the Commission may establish by its rules and regulations” for “more than $250,000 aggregate principal amount of any securities of the same issuer”.
 
 Subsec. (a)(9). Pub. L. 96–477, §302(b), substituted “$10,000,000, or such lesser amount as the Commission may establish by its rules and regulations” for “$1,000,000 or less”, “more than $10,000,000” for “more than $1,000,000”, and inserted “, or such lesser amount as the Commission may establish by its rules and regulations” after “same issuer”.
 
-1970—Subsec. (a)(4). Pub. L. 91–567 designated existing provisions as cl. (A) and added cl. (B).
+<b>1970</b>—Subsec. (a)(4). Pub. L. 91–567 designated existing provisions as cl. (A) and added cl. (B).
 
-1966—Subsec. (a)(10). Pub. L. 89–754 added par. (10).
+<b>1966</b>—Subsec. (a)(10). Pub. L. 89–754 added par. (10).
 
-1960—Subsec. (c). Pub. L. 86–760 inserted “or on January 1, 1959, such securities were outstanding”.
+<b>1960</b>—Subsec. (c). Pub. L. 86–760 inserted “or on January 1, 1959, such securities were outstanding”.
 
-1958—Subsec. (e). Pub. L. 85–699 added subsec. (e).
+<b>1958</b>—Subsec. (e). Pub. L. 85–699 added subsec. (e).
 
-1954—Subsec. (b). Act Aug. 10, 1954, struck out “as heretofore amended,”.
+<b>1954</b>—Subsec. (b). Act Aug. 10, 1954, struck out “as heretofore amended,”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Effective Date of 1970 Amendment
 
@@ -97,6 +101,4 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

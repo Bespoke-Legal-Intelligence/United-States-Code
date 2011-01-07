@@ -90,9 +90,9 @@ Treatment of Certain Service.—Any service by an officer in the grade of captai
 
 #### Amendments
 
-2008—Pub. L. 110–417 amended section catchline generally, substituting “Management policies for joint qualified officers” for “Management policies for officers who are joint qualified”, and in subsec. (a), substituted “as a joint qualified officer or in such other manner as the Secretary of Defense directs” for “in such manner as the Secretary of Defense directs”.
+<b>2008</b>—Pub. L. 110–417 amended section catchline generally, substituting “Management policies for joint qualified officers” for “Management policies for officers who are joint qualified”, and in subsec. (a), substituted “as a joint qualified officer or in such other manner as the Secretary of Defense directs” for “in such manner as the Secretary of Defense directs”.
 
-2006—Pub. L. 109–364, §516(e)(1), substituted “officers who are joint qualified” for “joint specialty officers” in section catchline.
+<b>2006</b>—Pub. L. 109–364, §516(e)(1), substituted “officers who are joint qualified” for “joint specialty officers” in section catchline.
 
 Subsec. (a). Pub. L. 109–364, §516(a), struck out at end “For purposes of this chapter, officers to be managed by such policies, procedures, and practices are referred to as having, or having been nominated for, the ‘joint specialty’.”
 
@@ -102,13 +102,13 @@ Subsec. (e). Pub. L. 109–364, §516(c), substituted “officers to achieve joi
 
 Subsec. (f). Pub. L. 109–364, §516(d), substituted “619a” for “619(e)(1)”.
 
-2002—Subsec. (b)(2). Pub. L. 107–314, §1062(a)(3), substituted “December 28, 2001,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 2002”.
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–314, §1062(a)(3), substituted “December 28, 2001,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 2002”.
 
 Subsec. (c)(3)(E). Pub. L. 107–314, §502(c), substituted “paragraph” for “subparagraph”.
 
-2001—Subsec. (b)(2). Pub. L. 107–107, in introductory provisions, substituted “Each officer on the active-duty list on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2002 who has not before that date been nominated for the joint specialty by the Secretary of a military department, and each officer who is placed on the active-duty list after such date, who meets the requirements of subsection (c) shall automatically be considered to have been nominated for the joint specialty. From among those officers considered to be nominated for the joint specialty, the Secretary may select for the joint specialty only officers—” for “The Secretaries of the military departments shall nominate officers for selection for the joint specialty. Nominations shall be made from among officers—”.
+<b>2001</b>—Subsec. (b)(2). Pub. L. 107–107, in introductory provisions, substituted “Each officer on the active-duty list on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2002 who has not before that date been nominated for the joint specialty by the Secretary of a military department, and each officer who is placed on the active-duty list after such date, who meets the requirements of subsection (c) shall automatically be considered to have been nominated for the joint specialty. From among those officers considered to be nominated for the joint specialty, the Secretary may select for the joint specialty only officers—” for “The Secretaries of the military departments shall nominate officers for selection for the joint specialty. Nominations shall be made from among officers—”.
 
-1996—Subsec. (c)(3)(D). Pub. L. 104–106, §501(d)(1), in third sentence, substituted “In the case of officers in grades below brigadier general and rear admiral (lower half), the total number” for “The total number”.
+<b>1996</b>—Subsec. (c)(3)(D). Pub. L. 104–106, §501(d)(1), in third sentence, substituted “In the case of officers in grades below brigadier general and rear admiral (lower half), the total number” for “The total number”.
 
 Subsec. (c)(3)(E). Pub. L. 104–106, §501(d)(2), added subpar. (E).
 
@@ -120,11 +120,11 @@ Subsec. (d)(2)(C). Pub. L. 104–106, §1503(a)(6)(B), struck out “the second 
 
 Subsec. (d)(2)(D). Pub. L. 104–106, §1503(a)(6)(C), struck out subpar. (D) which read as follows: “During the period beginning on October 1, 1992, and ending on January 1, 1993, the Secretary of Defense shall submit to Congress a report on the operation, to the date of the report, of the first sentence of subparagraph (B) and on the Secretary's projection for the use of the waiver authority provided under subparagraph (C), including the Secretary's estimate of the average annual number of waivers to be provided under subparagraph (C).”
 
-1989—Subsec. (c)(1)(B), (3)(A). Pub. L. 101–189, §1113, substituted “(as described in section 664(f) of this title (other than in paragraph (2) thereof))” for “(as described in section 664(f)(1) or (f)(3) of this title)”.
+<b>1989</b>—Subsec. (c)(1)(B), (3)(A). Pub. L. 101–189, §1113, substituted “(as described in section 664(f) of this title (other than in paragraph (2) thereof))” for “(as described in section 664(f)(1) or (f)(3) of this title)”.
 
 Subsec. (c)(4). Pub. L. 101–189, §1122, added par. (4).
 
-1988—Subsec. (c)(3)(D). Pub. L. 100–456, §511, inserted “for officers in the same pay grade” after “under this paragraph”, substituted “10 percent” for “5 percent”, and inserted “in that pay grade” after “numbers of officers”.
+<b>1988</b>—Subsec. (c)(3)(D). Pub. L. 100–456, §511, inserted “for officers in the same pay grade” after “under this paragraph”, substituted “10 percent” for “5 percent”, and inserted “in that pay grade” after “numbers of officers”.
 
 Subsec. (d)(2). Pub. L. 100–456, §512(a), designated existing provisions as subpar. (A), struck out sentence at end which directed that each position so designated by the Secretary could be held only by an officer who had the joint specialty, and added subpars. (B) to (D).
 
@@ -132,7 +132,7 @@ Subsec. (d)(4). Pub. L. 100–456, §517(a), substituted “25 percent” for �
 
 Subsec. (f). Pub. L. 100–456, §518, added subsec. (f).
 
-1987—Subsec. (b)(3). Pub. L. 100–180, §1301(a)(1), added par. (3).
+<b>1987</b>—Subsec. (b)(3). Pub. L. 100–180, §1301(a)(1), added par. (3).
 
 Subsec. (c)(1)(B). Pub. L. 100–180, §1301(b)(1), inserted “(as described in section 664(f)(1) or (f)(3) of this title)” after “joint duty assignment”.
 
@@ -166,7 +166,7 @@ Plan required.—Not later than March 31, 2007, the Secretary of Defense shall s
 
 Elements of plan.—In developing the plan required by this subsection, the Secretary shall pay particular attention to matters related to the transition of officers from the joint specialty system in effect before October 1, 2007, to the joint officer management system in effect after that date. At a minimum, the plan shall include the following:
 
-&emsp;“(A) The policies and criteria to be used for designating officers as joint qualified on the basis of service performed by such officers before that date, had the amendments made by this section and other provisions of this Act to provisions of chapter 38 oftitle 10, United States Code, taken effect before the date of the enactment of this Act \[Oct. 17, 2006\].
+&emsp;“(A) The policies and criteria to be used for designating officers as joint qualified on the basis of service performed by such officers before that date, had the amendments made by this section and other provisions of this Act to provisions of chapter 38 of title 10, United States Code, taken effect before the date of the enactment of this Act \[Oct. 17, 2006\].
 
 &emsp;“(B) The policies and criteria prescribed by the Secretary of Defense to be used in making determinations under section 661(c)(1)(B)(ii) of such title, as amended by this section.
 

@@ -12,5 +12,5 @@ If any regulation in effect prior to August 7, 1977, to prevent significant dete
 
 #### Amendments
 
-1977—Subsec. (b). Pub. L. 95–190 substituted “(in accordance with the definition of ‘commenced’ in section 7479(2) of this title)” for “in accordance with this definition”.
+<b>1977</b>—Subsec. (b). Pub. L. 95–190 substituted “(in accordance with the definition of ‘commenced’ in section 7479(2) of this title)” for “in accordance with this definition”.
 

@@ -6,7 +6,7 @@
 
 (b) For purposes of this section:
 
-&emsp;(1) The term “maximum monthly stipend amount” means the maximum monthly stipend that may be paid to a participant in the Scholarship Program specified in section 7613(b) of this title and as previously adjusted (if at all) in accordance with this section.
+&emsp;(1) The term “maximum monthly stipend amount” means the maximum monthly stipend that may be paid to a participant in the Scholarship Program specified in section7613(b) of this title and as previously adjusted (if at all) in accordance with this section.
 
 &emsp;(2) The term “maximum tuition reimbursement amount” means the maximum amount of tuition reimbursement provided to a participant in the Tuition Reimbursement Program specified in section 7622(e) of this title and as previously adjusted (if at all) in accordance with this section.
 
@@ -22,7 +22,7 @@
 
 #### Amendments
 
-2002—Subsec. (a)(1). Pub. L. 107–135, §§101(f)(1), 102(d)(1)(A), substituted “the maximum Selected Reserve member stipend amount, the maximum employee incentive scholarship amount, and the maximum education debt reduction payments amount” for “and the maximum Selected Reserve member stipend amount”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–135, §§101(f)(1), 102(d)(1)(A), substituted “the maximum Selected Reserve member stipend amount, the maximum employee incentive scholarship amount, and the maximum education debt reduction payments amount” for “and the maximum Selected Reserve member stipend amount”.
 
 Subsec. (b)(1) to (3). Pub. L. 107–135, §101(g), substituted “this section” for “this subsection” in pars. (1) to (3).
 
@@ -32,7 +32,7 @@ Subsec. (b)(5). Pub. L. 107–135, §102(d)(1)(B), added par. (5).
 
 Subsec. (b)(6). Pub. L. 107–135, §101(f)(2)(A), redesignated par. (4) as (6).
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 4331 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 4331 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 102–83 substituted “Secretary” for “Administrator”.
 
@@ -44,7 +44,7 @@ Subsec. (b)(3). Pub. L. 102–40, §402(d)(1), substituted “7653” for “435
 
 Subsec. (b)(4). Pub. L. 102–54 amended subsec. (b)(4) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “chapter 53” for “chapter 51”.
 
-1990—Subsec. (a)(1). Pub. L. 101–366, §205(b)(1), substituted “stipend amount,” for “stipend amount and” and “reimbursement amount, and the maximum Selected Reserve member stipend amount” for “reimbursement amount”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–366, §205(b)(1), substituted “stipend amount,” for “stipend amount and” and “reimbursement amount, and the maximum Selected Reserve member stipend amount” for “reimbursement amount”.
 
 Subsec. (b)(3), (4). Pub. L. 101–366, §205(b)(2), added par. (3) and redesignated former par. (3) as (4).
 

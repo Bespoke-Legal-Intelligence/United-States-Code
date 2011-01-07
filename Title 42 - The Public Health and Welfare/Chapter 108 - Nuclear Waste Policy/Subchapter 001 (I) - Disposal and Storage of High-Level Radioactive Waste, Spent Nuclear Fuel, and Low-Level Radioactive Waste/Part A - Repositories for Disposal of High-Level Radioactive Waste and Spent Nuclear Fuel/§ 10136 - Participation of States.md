@@ -28,7 +28,7 @@ The Secretary shall identify the States with one or more potentially acceptable 
 
 &emsp;(v) to request information from, and make comments and recommendations to, the Secretary regarding any activities taken under this part with respect to such site.
 
-(C) Any salary or travel expense that would ordinarily be incurred by the State of Nevada or any affected unit of local government may not be considered eligible for funding under this paragraph.
+(C) Any salary or travel expense that would ordinarily be incurred by the State of Nevada orany affected unit of local government may not be considered eligible for funding under this paragraph.
 
 (2)(A)(i) The Secretary shall provide financial and technical assistance to the State of Nevada, and any affected unit of local government requesting such assistance.
 
@@ -36,7 +36,7 @@ The Secretary shall identify the States with one or more potentially acceptable 
 
 (iii) Such assistance to such State or affected unit of local government of such State shall commence upon the initiation of site characterization activities.
 
-(B) The State of Nevada and any affected unit of local government may request assistance under this subsection by preparing and submitting to the Secretary a report on the economic, social, public health and safety, and environmental impacts that are likely to result from site characterization activities at the YuccaMountain site. Such report shall be submitted to the Secretary after the Secretary has submitted to the State a general plan for site characterization activities under section 10133(b) of this title.
+(B) The State of Nevada and any affected unit of local government may request assistance under this subsection by preparing and submitting to the Secretary a report on the economic, social, public health and safety, and environmental impacts that are likely to result from site characterization activities at the Yucca Mountain site. Such report shall be submitted to the Secretary after the Secretary has submitted to the State a general plan for site characterization activities under section 10133(b) of this title.
 
 (C) As soon as practicable after the Secretary has submitted such site characterization plan, the Secretary shall seek to enter into a binding agreement with the State of Nevada setting forth—
 
@@ -80,5 +80,5 @@ Whenever the Secretary is required under any provision of this chapter to notify
 
 #### Amendments
 
-1987—Subsec. (c). Pub. L. 100–202 and Pub. L. 100–203 generally amended subsec. (c) identically, substituting provisions consisting of pars. (1) to (6) for former provisions consisting of pars. (1) to (5).
+<b>1987</b>—Subsec. (c). Pub. L. 100–202 and Pub. L. 100–203 generally amended subsec. (c) identically, substituting provisions consisting of pars. (1) to (6) for former provisions consisting of pars. (1) to (5).
 

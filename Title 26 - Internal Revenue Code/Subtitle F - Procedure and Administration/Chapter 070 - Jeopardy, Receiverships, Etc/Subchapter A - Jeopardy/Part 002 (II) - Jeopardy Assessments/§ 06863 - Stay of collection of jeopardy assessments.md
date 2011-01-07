@@ -24,7 +24,7 @@ In the case of taxes subject to the jurisdiction of the Tax Court—
 
 &emsp;&emsp;&emsp;(i) before the expiration of the periods described in subsection (c)(1)(A) and (B),
 
-&emsp;&emsp;&emsp;(ii) before the issuance of the notice of deficiency described in section 6851(b) or 6861(b), and the expiration of the periodprovided in section 6213(a) for filing a petition with the Tax Court, and
+&emsp;&emsp;&emsp;(ii) before the issuance of the notice of deficiency described in section 6851(b) or 6861(b), and the expiration of the period provided in section 6213(a) for filing a petition with the Tax Court, and
 
 &emsp;&emsp;&emsp;(iii) if a petition is filed with the Tax Court (whether before or after the making of such assessment), before the expiration of the period during which the assessment of the deficiency would be prohibited if neither sections 6851(a), 6852(a), nor 6861(a) were applicable.
 
@@ -62,17 +62,17 @@ In the case of taxes subject to the jurisdiction of the Tax Court—
 
 #### Amendments
 
-1989—Subsec. (b)(3)(A)(iii). Pub. L. 101–239 made technical correction to Pub. L. 100–203, §10713(b)(2)(E)(iii), see 1987 Amendment note below.
+<b>1989</b>—Subsec. (b)(3)(A)(iii). Pub. L. 101–239 made technical correction to Pub. L. 100–203, §10713(b)(2)(E)(iii), see 1987 Amendment note below.
 
-1988—Subsec. (b)(3)(C). Pub. L. 100–647 added subpar. (C).
+<b>1988</b>—Subsec. (b)(3)(C). Pub. L. 100–647 added subpar. (C).
 
-1987—Subsec. (a). Pub. L. 100–203, §10713(b)(2)(E)(i), substituted “6851, 6852,” for “6851”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–203, §10713(b)(2)(E)(i), substituted “6851, 6852,” for “6851”.
 
 Subsec. (b)(3)(A). Pub. L. 100–203, §10713(b)(2)(E)(ii), substituted “6851, 6852, or 6861” for “6851 or 6861”.
 
 Subsec. (b)(3)(A)(iii). Pub. L. 100–203, §10713(b)(2)(E)(iii), as amended by Pub. L. 101–239, substituted “6851(a), 6852(a), nor 6861(a)” for “6851(a) nor 6861(a)”.
 
-1976—Subsec. (a). Pub. L. 94–455, §§1204(c)(7), 1906(b)(13)(A), inserted reference to section 6851, substituted “an assessment” for “a jeopardy assessment”, struck out “or his delegate” after “Secretary”, and substituted “such assessment” for “the jeopardy assessment”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1204(c)(7), 1906(b)(13)(A), inserted reference to section 6851, substituted “an assessment” for “a jeopardy assessment”, struck out “or his delegate” after “Secretary”, and substituted “such assessment” for “the jeopardy assessment”.
 
 Subsec. (b)(3)(A). Pub. L. 94–455, §1204(c)(8), substituted “an assessment has been made under section 6851 or 6861,” for “a jeopardy assessment has been made under section 6861” in provisions preceding cl. (i), added cl. (i), redesignated former cl. (i) as (ii) and substituted “before the issuance of the notice of deficiency described in section 6851(b) or 6861(b), and the expiration of the period” for “if section 6861(b) is applicable, prior to the issuance of the notice of deficiency and the expiration of the time”, redesignated former cl. (ii) as (iii) and substituted “assessment), before the expiration” for “jeopardy assessment under section 6861), prior to the expiration” and “if neither sections 6851(a) nor 6861(a) were applicable” for “if section 6861(a) were not applicable”, and inserted provisions following cl. (iii).
 

@@ -1,7 +1,5 @@
 Part C—Computation of Annuities
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
-
 
 ---
 

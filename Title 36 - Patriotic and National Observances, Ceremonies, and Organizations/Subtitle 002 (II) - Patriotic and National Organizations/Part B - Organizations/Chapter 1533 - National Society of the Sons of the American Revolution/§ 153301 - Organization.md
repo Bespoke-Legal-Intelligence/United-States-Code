@@ -20,7 +20,9 @@ Historical and Revision Notes
 
 June 9, 1906, ch. 3065, §§1, 5, 6, 34 Stat. 227, 228.
 
-&nbsp;D36:20e.
+&nbsp;
+
+36:20e.
 
 36:20f.
 

@@ -18,7 +18,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (1) In general
 
-&emsp;Except as specifically provided in this section, until the dissolution date the Association shall continue to have all of the rights, privileges and obligations set forth in, and shall be subject to all of the limitations and restrictions of, section 1087–2 of this title, and the Association shall continue to carry out the purposes of such section. The Holding Company and any subsidiary of the Holding Company (other than the Association) shall not be entitled to any of the rights, privileges, and obligations, and shall not be subject to the limitations and restrictions, applicable to the Association under section 1087–2 of this title, except as specifically provided in this section. The Holding Company and any subsidiary of the Holding Company (other than the Association or a subsidiary of the Association) shall not purchase loans insured under this chapter until such time as the Association ceases acquiring such loans, except that the Holding Company may purchase such loans if the Association is merely continuing to acquire loans as a lender of last resort pursuant to section 1087–2(q) of this title or under an agreement with the Secretary described in paragraph (6).
+&emsp;Except as specifically provided in this section, until the dissolution date the Association shall continue to have all of the rights, privileges and obligations set forth in, and shall be subject to all of the limitations and restrictions of, section 1087–2 of this title, and the Association shall continue to carry out the purposes of such section. The Holding Company and any subsidiary of the Holding Company (other than the Association) shall not be entitled to any of the rights, privileges, and obligations, and shall not be subject to the limitations and restrictions, applicable to the Association under section 1087–2 of this title, except as specifically provided in this section. The Holding Company and any subsidiary of the Holding Company (other than the Association or a subsidiary of the Association) shall not purchase loans insured under this chapter and part C of subchapter I of chapter 34 of title 42 until such time as the Association ceases acquiring such loans, except that the Holding Company may purchase such loans if the Association is merely continuing to acquire loans as a lender of last resort pursuant to section 1087–2(q) of this title or under an agreement with the Secretary described in paragraph (6).
 
 #### (2) Transfer of certain property
 
@@ -90,7 +90,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The funds and assets of the Association shall at all times be maintained separately from the funds and assets of the Holding Company or any subsidiary of the Holding Company and may be used by the Association solely to carry out the Association's purposes and to fulfill the Association's obligations.
+&emsp;&emsp;&emsp;The funds and assets of the Association shall at all times be maintained separately from the funds and assets of the HoldingCompany or any subsidiary of the Holding Company and may be used by the Association solely to carry out the Association's purposes and to fulfill the Association's obligations.
 
 #### (ii) Books and records
 
@@ -140,7 +140,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (A) In general
 
-&emsp;&emsp;On the reorganization effective date, the Holding Company shall issue to the District of Columbia Financial Responsibility and Management Assistance Authority a number of stock warrants that is equal to one percent of the outstanding shares of the Association, determined as of the last day of the fiscal quarter preceding September 30, 1996, with each stock warrant entitling the holderof the stock warrant to purchase from the Holding Company one share of the registered common stock of the Holding Company or the Holding Company's successors or assigns, at any time on or before September 30, 2008. The exercise price for such warrants shall be an amount equal to the average closing price of the common stock of the Association for the 20 business days prior to September 30, 1996, on the exchange or market which is then the primary exchange or market for the common stock of the Association. The number of shares of Holding Company common stock subject to each stock warrant and the exercise price of each stock warrant shall be adjusted as necessary to reflect—
+&emsp;&emsp;On the reorganization effective date, the Holding Company shall issue to the District of Columbia Financial Responsibility and Management Assistance Authority a number of stock warrants that is equal to one percent of the outstanding shares of the Association, determined as of the last day of the fiscal quarter preceding September 30, 1996, with each stock warrant entitling the holder of the stock warrant to purchase from the Holding Company one share of the registered common stock of the Holding Company or the Holding Company's successors or assigns, at any time on or before September 30, 2008. The exercise price for such warrants shall be an amount equal to the average closing price of the common stock of the Association for the 20 business days prior to September 30, 1996, on the exchange or market which is then the primary exchange or market for the common stock of the Association. The number of shares of Holding Company common stock subject to each stock warrant and the exercise price of each stock warrant shall be adjusted as necessary to reflect—
 
 &emsp;&emsp;&emsp;(i) the conversion of Association common stock into Holding Company common stock as part of the plan of reorganization approved by the Association's shareholders; and
 
@@ -180,7 +180,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (1) Holding Company Board of Directors
 
-&emsp;The number of members and composition of the Board of Directors of the Holding Company shall be determined as set forth in theHolding Company's charter or like instrument (as amended from time to time) or bylaws (as amended from time to time) and as permitted under the laws of the jurisdiction of the Holding Company's incorporation.
+&emsp;The number of members and composition of the Board of Directors of the Holding Company shall be determined as set forth in the Holding Company's charter or like instrument (as amended from time to time) or bylaws (as amended from time to time) and as permitted under the laws of the jurisdiction of the Holding Company's incorporation.
 
 #### (2) Holding Company name
 
@@ -192,7 +192,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (3) Use of Sallie Mae name
 
-&emsp;Subject to paragraph (2), the Association may assign to the Holding Company, or any subsidiary of the Holding Company, the “Sallie Mae” name as a trademark or service mark, except that neither the Holding Company nor any subsidiary of the Holding Company (other than the Association or any subsidiary of the Association) may use the “Sallie Mae” name on, or to identify the issuer of, any debt obligation or other security offered or sold by the Holding Company or any subsidiary of the Holding Company (other than a debt obligation or other security issued to and held by the Holding Company or any subsidiary of the Holding Company). The Association shall remit to the account established under section 1155(e) <sup>2</sup> of this title, $5,000,000, within 60 days of the reorganization effective date as compensation for the right to assign the “Sallie Mae” name as a trademark or service mark.
+&emsp;Subject to paragraph (2), the Association may assign to the Holding Company, or any subsidiary of the Holding Company, the “Sallie Mae” name as a trademark or service mark, except that neither the Holding Company nor any subsidiary of the Holding Company (other than the Association or any subsidiary of the Association) may use the “Sallie Mae” name on, or to identify the issuer of, any debt obligation or other security offered or sold by the Holding Company or any subsidiary of the Holding Company (other than a debt obligation or other security issued to and held by the Holding Company or any subsidiary of the Holding Company). The Association shall remit to the account established under section 1155(e) <sup>2</sup> of this title, $5,000,000, within 60 daysof the reorganization effective date as compensation for the right to assign the “Sallie Mae” name as a trademark or service mark.
 
 #### (4) Disclosure required
 
@@ -250,7 +250,7 @@ For purposes of this section:
 
 #### (6) Reorganization
 
-&emsp;The term “reorganization” means the restructuring event or events (including anymerger event) giving effect to the Holding Company structure described in subsection (a) of this section.
+&emsp;The term “reorganization” means the restructuring event or events (including any merger event) giving effect to the Holding Company structure described in subsection (a) of this section.
 
 #### (7) Reorganization effective date
 
@@ -267,8 +267,6 @@ For purposes of this section:
 <i>Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(d)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–289, provided that this section is repealed effective one year after date on which all obligations of trust established under subsec. (d)(1) of this section have been extinguished, if reorganization occurs in accordance with this section, or date on which all obligations of trust established under section 1087–2(s)(3)(A) of this title have been extinguished, if reorganization does not occur in accordance with this section.</i>
 
 #### References in Text
-
-This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 Section 1155(e) of this title, referred to in subsecs. (c)(9)(B) and (e)(3), was in the original a reference to section 3(e) of the Student Loan Marketing Association Reorganization Act of 1996, and was translated as reading section 603(e) of that Act, which is Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §603(e)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–293, to reflect the probable intent of Congress, because that Act does not contain a section 3(e), but does contain a section 603(e) which establishes the account referred to in text.
 

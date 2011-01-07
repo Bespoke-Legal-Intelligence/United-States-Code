@@ -32,7 +32,7 @@ Any economic development plan established by the Secretary under subsection (a) 
 
 #### (d) Statement regarding individuals consulted, and testimony or comments received by Secretary
 
-The Secretary shall append to the economic development plan submitted to the Congressunder subsection (a) of this section a detailed statement—
+The Secretary shall append to the economic development plan submitted to the Congress under subsection (a) of this section a detailed statement—
 
 &emsp;(1) naming each individual consulted in accordance with subsection (b) of this section;
 
@@ -44,5 +44,7 @@ The Secretary shall append to the economic development plan submitted to the Con
 
 #### Amendments
 
-1992—Subsec. (a)(3). Pub. L. 102–497 substituted “3 years” for “2 years”.
+<b>1992</b>—Subsec. (a)(3). Pub. L. 102–497 substituted “3 years” for “2 years”.
+
+<i><sup>1</sup></i><i> So in original. The word “shall” probably should not appear.</i>
 

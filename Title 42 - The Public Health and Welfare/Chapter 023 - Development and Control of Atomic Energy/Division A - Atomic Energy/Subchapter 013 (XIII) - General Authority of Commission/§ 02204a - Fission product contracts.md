@@ -26,7 +26,7 @@ Section was not enacted as part of the Atomic Energy Act of 1954 which comprises
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–437 substituted “Energy Committees (as defined by section 2014 of this title)” for “Joint Committee” after “submitted to the” and “Energy Committees” for “Joint Committee” after “That the”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–437 substituted “Energy Committees (as defined by section 2014 of this title)” for “Joint Committee” after “submitted to the” and “Energy Committees” for “Joint Committee” after “That the”.
 
 #### Transfer of Functions
 

@@ -52,7 +52,7 @@ In subsection (b), the words “but not be limited to” are omitted as unnecess
 
 #### Amendments
 
-2001—Subsec. (a)(1). Pub. L. 107–71, §101(f)(9), substituted “of Transportation for Security” for “of the Federal Aviation Administration”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–71, §101(f)(9), substituted “of Transportation for Security” for “of the Federal Aviation Administration”.
 
 Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator” in two places.
 
@@ -60,7 +60,7 @@ Pub. L. 107–71, §101(f)(2), substituted “of the Transportation Security Adm
 
 Subsec. (a)(2) to (4). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator” wherever appearing.
 
-1996—Subsec. (a)(2). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
 
 Subsec. (a)(3), (4). Pub. L. 104–264 added par. (3) and redesignated former par. (3) as (4).
 

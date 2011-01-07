@@ -34,7 +34,7 @@ This amends 49:20136(2) to correct an error in the codification enacted by secti
 
 #### Amendments
 
-1994—Par. (2). Pub. L. 103–429 substituted “section” for “subsection”.
+<b>1994</b>—Par. (2). Pub. L. 103–429 substituted “section” for “subsection”.
 
 #### Effective Date of 1994 Amendment
 

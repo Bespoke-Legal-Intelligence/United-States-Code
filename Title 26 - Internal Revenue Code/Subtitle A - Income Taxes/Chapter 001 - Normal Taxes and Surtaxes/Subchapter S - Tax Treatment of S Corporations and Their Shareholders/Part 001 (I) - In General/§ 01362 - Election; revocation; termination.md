@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(B) either—
 
-&emsp;&emsp;&emsp;(i) on 1 or more days in such taxable year before the day on which the election wasmade the corporation did not meet the requirements of subsection (b) of section 1361, or
+&emsp;&emsp;&emsp;(i) on 1 or more days in such taxable year before the day on which the election was made the corporation did not meet the requirements of subsection (b) of section 1361, or
 
 &emsp;&emsp;&emsp;(ii) 1 or more of the persons who held stock in the corporation during such taxable year and before the election was made did not consent to the election,
 
@@ -132,7 +132,7 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph, the term “passive investmentincome” means gross receipts derived from royalties, rents, dividends, interest, and annuities.
+&emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph, the term “passive investment income” means gross receipts derived from royalties, rents, dividends, interest, and annuities.
 
 #### (ii) Exception for interest on notes from sales of inventory
 
@@ -214,7 +214,7 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 #### (B) Due date for S year
 
-&emsp;&emsp;The due date for filing the return for the short taxable year described in subparagraph\(A) of paragraph (1) shall be the same as the due date for filing the return for the short taxable year described in subparagraph (B) of paragraph (1) (including extensions thereof).
+&emsp;&emsp;The due date for filing the return for the short taxable year described in subparagraph (A) of paragraph (1) shall be the same as the due date for filing the return for the short taxable year described in subparagraph (B) of paragraph (1) (including extensions thereof).
 
 #### (C) Paragraph (2) not to apply to items resulting from section 338
 
@@ -254,13 +254,13 @@ If a small business corporation has made an election under subsection (a) and if
 
 #### Amendments
 
-2007—Subsec. (d)(3)(B) to (F). Pub. L. 110–28 added subpars. (B) and (C) and struck out former subpar. (B), which related to gross receipts from dispositions of capital assets (other than stock and securities) being taken into account only to the extent of the capital gain net income therefrom, subpar. (C), which defined passive investment income, subpar. (D), which provided that, in the case of any options dealer or commodities dealer, passive investment income was to be determined by not taking into account any gain or loss from any section 1256 contract or property related to such a contract, subpar. (E), which related to certain dividends not being treated as passive investment income if an S corporation held stock in a C corporation meeting the requirements of section 1504(a)(2), and subpar. (F), which related to the exception from passive investment income for banks and depository institution holding companies.
+<b>2007</b>—Subsec. (d)(3)(B) to (F). Pub. L. 110–28 added subpars. (B) and (C) and struck out former subpar. (B), which related to gross receipts from dispositions of capital assets (other than stock and securities) beingtaken into account only to the extent of the capital gain net income therefrom, subpar. (C), which defined passive investment income, subpar. (D), which provided that, in the case of any options dealer or commodities dealer, passive investment income was to be determined by not taking into account any gain or loss from any section 1256 contract or property related to such a contract, subpar. (E), which related to certain dividends not being treated as passive investment income if an S corporation held stock in a C corporation meeting the requirements of section 1504(a)(2), and subpar. (F), which related to the exception from passive investment income for banks and depository institution holding companies.
 
 Subsec. (f)(1). Pub. L. 110–172 substituted “or section 1361(b)(3)(B)(ii)” for “, section 1361(b)(3)(B)(ii), or section 1361(c)(1)(A)(ii)” in introductory provisions and “or section 1361(b)(3)(C)” for “, section 1361(b)(3)(C), or section 1361(c)(1)(D)(iii)” in subpar. (B).
 
-2005—Subsec. (d)(3)(F). Pub. L. 109–135 substituted “a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)(1))” for “a bank holding company (within the meaning of section 2(a) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(a))), or a financial holding company (within the meaning of section 2(p) of such Act)”.
+<b>2005</b>—Subsec. (d)(3)(F). Pub. L. 109–135 substituted “a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)(1))” for “a bank holding company (within the meaning of section 2(a) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(a))), or a financial holding company (within the meaning of section 2(p) of such Act)”.
 
-2004—Subsec. (d)(3)(F). Pub. L. 108–357, §237(a), added subpar. (F).
+<b>2004</b>—Subsec. (d)(3)(F). Pub. L. 108–357, §237(a), added subpar. (F).
 
 Subsec. (f). Pub. L. 108–357, §238(a)(5), inserted “or a qualified subchapter S subsidiary, as the case may be” after “S corporation” in concluding provisions.
 
@@ -274,11 +274,11 @@ Pub. L. 108–357, §231(b)(2), inserted “or section 1361(c)(1)(D)(iii)” aft
 
 Subsec. (f)(3)(A). Pub. L. 108–357, §238(a)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “so that the corporation is a small business corporation, or”.
 
-Subsec. (f)(4). Pub. L. 108–357, §238(a)(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the corporation, and each person who was a shareholder in the corporation at any time during the period specified pursuant to this subsection, agrees to make such adjustments (consistent with the treatmentof the corporation as an S corporation) as may be required by the Secretary with respect to such period,”.
+Subsec. (f)(4). Pub. L. 108–357, §238(a)(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the corporation, and each person who was a shareholder in the corporation at any time during the period specified pursuant to this subsection, agrees to make such adjustments (consistent with the treatment of the corporation as an S corporation) as may be required by the Secretary with respect to such period,”.
 
-1999—Subsec. (d)(3)(C)(ii). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
+<b>1999</b>—Subsec. (d)(3)(C)(ii). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
 
-1996—Subsec. (b)(5). Pub. L. 104–188, §1305(b), added par. (5).
+<b>1996</b>—Subsec. (b)(5). Pub. L. 104–188, §1305(b), added par. (5).
 
 Subsec. (d)(3). Pub. L. 104–188, §1311(b)(1)(A), in heading substituted “accumulated” for “subchapter C”.
 
@@ -310,13 +310,13 @@ Inadvertent Terminations.—If—
 
 > then, notwithstanding the terminating event, such corporation shall be treated as continuing to be an S corporation during the period specified by the Secretary.”
 
-1988—Subsec. (d)(3)(D)(v). Pub. L. 100–647, §1006(f)(6)(A), struck out cl. (v) which related to special rule for options and commodities dealers.
+<b>1988</b>—Subsec. (d)(3)(D)(v). Pub. L. 100–647, §1006(f)(6)(A), struck out cl. (v) which related to special rule for options and commodities dealers.
 
 Subsec. (d)(3)(E). Pub. L. 100–647, §1006(f)(6)(B), added subpar. (E).
 
 Subsec. (e)(5)(B). Pub. L. 100–647, §1007(g)(9), substituted “Subsection (d)” for “Subsection (d)(2)”.
 
-1984—Subsec. (b)(3)(B). Pub. L. 98–369, §721(<i>l</i>)(2), substituted “on or before the 15th day of the 3rd month of the following taxable year” for “on or before the last day of such taxable year”.
+<b>1984</b>—Subsec. (b)(3)(B). Pub. L. 98–369, §721(<i>l</i>)(2), substituted “on or before the 15th day of the 3rd month of the following taxable year” for “on or before the last day of such taxable year”.
 
 Subsec. (b)(4). Pub. L. 98–369, §721(<i>l</i>)(1), added par. (4).
 
@@ -372,7 +372,7 @@ Section applicable to taxable years beginning after Dec. 31, 1982, except that i
 
 #### Treatment of Certain Elections Under Prior Law
 
-Section 1317(b) of Pub. L. 104–188 provided that: “For purposes of section 1362(g) of the Internal Revenue Codeof 1986 (relating to election after termination), any termination under section 1362(d) of such Code in a taxable year beginning before January 1, 1997, shall not be taken into account.”
+Section 1317(b) of Pub. L. 104–188 provided that: “For purposes of section 1362(g) of the Internal Revenue Code of 1986 (relating to election after termination), any termination under section 1362(d) of such Code in a taxable year beginning before January 1, 1997, shall not be taken into account.”
 
 #### Subchapter S Election
 

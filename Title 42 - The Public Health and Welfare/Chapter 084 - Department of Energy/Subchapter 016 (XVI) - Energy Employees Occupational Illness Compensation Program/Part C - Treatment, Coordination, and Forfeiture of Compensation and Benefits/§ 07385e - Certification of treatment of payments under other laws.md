@@ -10,5 +10,5 @@ Compensation or benefits provided to an individual under this subchapter—
 
 #### Amendments
 
-2004—Pub. L. 108–375 substituted “this subchapter” for “part B”.
+<b>2004</b>—Pub. L. 108–375 substituted “this subchapter” for “part B”.
 

@@ -18,15 +18,15 @@
 
 #### Amendments
 
-2000—Pub. L. 106–398 substituted “Financial institution charges incurred because of Government error in direct deposit of pay: reimbursement” for “Reimbursement for financial institution charges incurred because of Government error in direct deposit of pay” in section catchline.
+<b>2000</b>—Pub. L. 106–398 substituted “Financial institution charges incurred because of Government error in direct deposit of pay: reimbursement” for “Reimbursement for financial institution charges incurred because of Government error in direct deposit of pay” in section catchline.
 
-1998—Subsec. (d)(1). Pub. L. 105–261 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘financial institution’ has the meaning given the term ‘financial organization’ in section 3332(a) of title 31.”
+<b>1998</b>—Subsec. (d)(1). Pub. L. 105–261 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘financial institution’ has the meaning given the term ‘financial organization’ in section 3332(a) of title 31.”
 
-1996—Subsec. (a)(1). Pub. L. 104–106 substituted “chapter 1223” for “chapter 67”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–106 substituted “chapter 1223” for “chapter 67”.
 
-1991—Pub. L. 102–25 struck out “mandatory” after “error in” in section catchline.
+<b>1991</b>—Pub. L. 102–25 struck out “mandatory” after “error in” in section catchline.
 
-1989—Pub. L. 101–189, §664(a)(3)(A), amended section catchline generally, substituting “Reimbursement for financial institution charges incurred because of Government” for “Relief for expenses because of”.
+<b>1989</b>—Pub. L. 101–189, §664(a)(3)(A), amended section catchline generally, substituting “Reimbursement for financial institution charges incurred because of Government” for “Relief for expenses because of”.
 
 Subsec. (a). Pub. L. 101–189, §664(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A member of the armed forces who, by law or regulation, is required to participate in a program for the automatic deposit of pay to a financial institution may be reimbursed for overdraft charges levied by the financial institution when such charges result from an administrative or mechanical error on the part of the Government that causes such member's pay to be deposited late or in an incorrect amount or manner.”
 

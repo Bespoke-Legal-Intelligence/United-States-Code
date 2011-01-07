@@ -14,7 +14,7 @@ No Federal laws levying tonnage duties, light money, or entrance and clearance f
 
 #### (d) Presidential determination of applicable laws
 
-The legislature of the Virgin Islands shall have power to enact navigation, boat inspection, and safety laws of local application; but the President shall have power to make applicable to the Virgin Islands such of the navigation, vessel inspection, and coastwise laws of the United States as he may find and declare to be necessary in the public interest, and, to the extent that the laws so made applicable conflict withany laws of local application enacted by the legislature, such laws enacted by the legislature shall have no force and effect.
+The legislature of the Virgin Islands shall have power to enact navigation, boat inspection,and safety laws of local application; but the President shall have power to make applicable to the Virgin Islands such of the navigation, vessel inspection, and coastwise laws of the United States as he may find and declare to be necessary in the public interest, and, to the extent that the laws so made applicable conflict with any laws of local application enacted by the legislature, such laws enacted by the legislature shall have no force and effect.
 
 #### (e) Existing powers of United States officers unaffected
 
@@ -24,11 +24,11 @@ Nothing in this subchapter shall be construed to affect or impair in any manner 
 
 #### Amendments
 
-1982—Subsec. (d). Pub. L. 97–357 substituted “legislature” for “Legislative Assembly” wherever appearing.
+<b>1982</b>—Subsec. (d). Pub. L. 97–357 substituted “legislature” for “Legislative Assembly” wherever appearing.
 
-1951—Subsec. (f). Act Oct. 31, 1951, repealed subsec. (f) which authorized the Secretary of the Interior to lease or sell any property under his administrative supervision in the Virgin Islands not needed for public purposes.
+<b>1951</b>—Subsec. (f). Act Oct. 31, 1951, repealed subsec. (f) which authorized the Secretary of the Interior to lease or sell any property under his administrative supervision in the Virgin Islands not needed for public purposes.
 
-1939—Act Aug. 7, 1939, designated existing provisions as subsecs. (a), (b), (e), and (f) and added subsecs. (c) and (d).
+<b>1939</b>—Act Aug. 7, 1939, designated existing provisions as subsecs. (a), (b), (e), and (f) and added subsecs. (c) and (d).
 
 #### Construction of Virgin Islands Projects by Secretary of the Army
 

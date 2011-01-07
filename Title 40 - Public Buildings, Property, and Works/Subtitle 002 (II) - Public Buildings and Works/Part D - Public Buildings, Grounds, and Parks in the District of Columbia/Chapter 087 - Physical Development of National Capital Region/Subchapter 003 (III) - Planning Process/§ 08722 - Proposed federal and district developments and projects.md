@@ -18,7 +18,7 @@ Exceptions.—
 
 &emsp;&emsp;(A)
 
-In general.—Paragraph (1) does not apply to projects within the Capitol grounds or to structures erected by the Department of Defense during wartime or national emergency within existing military, naval, or Air Force reservations, except that the appropriate defense agency shall consult with the Commission as to any developments which materially affect traffic or require coordinated planning of the surrounding area.
+In general.—Paragraph (1) does not apply to projects within the Capitol grounds or to structures erected by the Department of Defense during wartime or national emergency within existing military, naval, or AirForce reservations, except that the appropriate defense agency shall consult with the Commission as to any developments which materially affect traffic or require coordinated planning of the surrounding area.
 
 &emsp;&emsp;(B)
 
@@ -116,5 +116,5 @@ The Act of June 20, 1938, referred to in subsec. (d), is act June 20, 1938, ch. 
 
 #### Amendments
 
-2006—Subsec. (d). Pub. L. 109–284 substituted “52 Stat. 797” for “52 Stat. 802” and “are subject” for “is subject”.
+<b>2006</b>—Subsec. (d). Pub. L. 109–284 substituted “52 Stat. 797” for “52 Stat. 802” and “are subject” for “is subject”.
 

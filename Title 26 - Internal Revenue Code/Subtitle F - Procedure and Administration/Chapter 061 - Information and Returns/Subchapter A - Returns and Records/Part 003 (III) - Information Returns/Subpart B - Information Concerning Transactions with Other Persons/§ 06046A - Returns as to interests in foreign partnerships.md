@@ -32,7 +32,7 @@ For purposes of subsection (a), a 10-percent interest in a partnership is an int
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–34, §1143(a)(1), inserted at end “Paragraphs (1) and (2) shall apply to any acquisition or disposition only if the United States person directly or indirectly holds at least a 10-percent interest in such partnership either before or after such acquisition or disposition, and paragraph (3) shall apply to any change only if the change is equivalent to at least a 10-percent interest in such partnership.”
+<b>1997</b>—Subsec. (a). Pub. L. 105–34, §1143(a)(1), inserted at end “Paragraphs (1) and (2) shall apply to any acquisition or disposition only if the United States person directly or indirectly holds at least a 10-percent interest in such partnership either before or after such acquisition or disposition, and paragraph (3) shall apply to any change only if the change is equivalent to at least a 10-percent interest in such partnership.”
 
 Subsecs. (d), (e). Pub. L. 105–34, §1143(a)(2), added subsec. (d) and redesignated former subsec. (d) as (e).
 

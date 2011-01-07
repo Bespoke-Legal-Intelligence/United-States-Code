@@ -60,7 +60,7 @@
 
 &emsp;&emsp;&emsp;(i) appoint, hire, and fix the compensation of such personnel as may be necessary for operations of the Office of Congressional Accessibility Services, except that no employee may be paid at an annual rate in excess of the annual rate of pay for the Director of Accessibility Services;
 
-&emsp;&emsp;&emsp;(ii) take appropriate disciplinary action, including, when circumstances warrant, suspension from duty without pay, reduction in pay, demotion, or termination of employment with the Office of Congressional Accessibility Services, against any employee;
+&emsp;&emsp;&emsp;(ii) take appropriate disciplinary action, including, when circumstances warrant, suspension from duty without pay, reduction in pay, demotion, or termination ofemployment with the Office of Congressional Accessibility Services, against any employee;
 
 &emsp;&emsp;&emsp;(iii) disburse funds as may be necessary and available for the needs of the Office of Congressional Accessibility Services; and
 

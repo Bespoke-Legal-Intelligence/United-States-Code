@@ -32,11 +32,11 @@ The original text of par. (2) contained a reference to the District Court of the
 
 #### Amendments
 
-1980—Par. (4). Pub. L. 96–245 inserted provisions authorizing service by certified mail.
+<b>1980</b>—Par. (4). Pub. L. 96–245 inserted provisions authorizing service by certified mail.
 
-1970—Par. (3). Pub. L. 91–452 struck out par. (3) which related to the immunity from prosecution of any individual compelled to testify or produce evidence after claiming his privilege against self-incrimination.
+<b>1970</b>—Par. (3). Pub. L. 91–452 struck out par. (3) which related to the immunity from prosecution of any individual compelled to testify or produce evidence after claiming his privilege against self-incrimination.
 
-1947—Act June 23, 1947, restated section with addition of provisions requiring the issuance of subpenas as a matter of course on the request of any party.
+<b>1947</b>—Act June 23, 1947, restated section with addition of provisions requiring the issuance of subpenas as a matter of course on the request of any party.
 
 #### Effective Date of 1970 Amendment
 

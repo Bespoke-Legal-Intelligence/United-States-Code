@@ -36,5 +36,5 @@ Section 6103 of the Internal Revenue Code of 1986, referred to in subsecs. (a)(1
 
 #### Amendments
 
-1996—Subsecs. (c), (d). Pub. L. 104–134 added subsecs. (c) and (d).
+<b>1996</b>—Subsecs. (c), (d). Pub. L. 104–134 added subsecs. (c) and (d).
 

@@ -4,7 +4,7 @@
 
 (b) Under the authority, direction, and control of the Secretary of the Navy, the Office of the Chief of Naval Operations shall—
 
-&emsp;(1) subject to subsections (c) and (d) of section 5014 of this title, prepare for such employment of the Navy, and for such recruiting, organizing, supplying, equipping (including those aspects of research and development assigned by the Secretary of the Navy), training, servicing, mobilizing, demobilizing, administering, and maintaining of the Navy, as willassist in the execution of any power, duty, or function of the Secretary or the Chief of Naval Operations;
+&emsp;(1) subject to subsections (c) and (d) of section 5014 of this title, prepare for such employment of the Navy, and for such recruiting, organizing, supplying, equipping (including those aspects of research and development assigned by the Secretary of the Navy), training, servicing, mobilizing, demobilizing, administering, and maintaining of the Navy, as will assist in the execution of any power, duty, or function of the Secretary or the Chief of Naval Operations;
 
 &emsp;(2) investigate and report upon the efficiency of the Navy and its preparation to support military operations by combatant commands;
 

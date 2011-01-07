@@ -6,5 +6,5 @@ No State or local educational agency receiving assistance under this subchapter 
 
 #### Amendments
 
-1990—Pub. L. 101–637 inserted section catchline.
+<b>1990</b>—Pub. L. 101–637 inserted section catchline.
 

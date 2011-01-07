@@ -8,7 +8,7 @@ Each department, agency, and instrumentality of the executive branch of the Fede
 
 With respect to this chapter, the Administrator is authorized to—
 
-&emsp;(1) enter into, without regard to section 5 of title 41, such contracts, grants, leases, cooperative agreements, or other transactions as may be necessary to carry out the provisions of this chapter;
+&emsp;(1) enter into, without regard to section 6101 of title 41 <sup>1</sup> such contracts, grants, leases, cooperative agreements, or other transactions as may be necessary to carry out the provisions of this chapter;
 
 &emsp;(2) accept gifts and voluntary and uncompensated services, notwithstanding the provisions of section 1342 of title 31;
 
@@ -42,17 +42,23 @@ All property rights with respect to inventions and discoveries, which are made i
 
 (Pub. L. 93–498, §21, Oct. 29, 1974, 88 Stat. 1548; Pub. L. 96–121, §2, Nov. 16, 1979, 93 Stat. 863; Pub. L. 106–503, title I, §110(a)(2)(B)(ix), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 110–376, §9(a), Oct. 8, 2008, 122 Stat. 4061.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–498, Oct. 29, 1974, 88 Stat. 1535, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
+
 #### Codification
+
+In subsec. (b)(1), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes, as amended (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (b)(2), “section 1342 of title 31” substituted for “section 3679 of the Revised Statutes (31 U.S.C. 665(b))” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
-2008—Subsec. (e). Pub. L. 110–376 amended subsec. (e) generally. Prior to amendment, text read as follows:“To the extent practicable, the Administrator shall utilize existing programs, data, information, and facilities already available in other Federal Government departments and agencies and, where appropriate, existing research organizations, centers, and universities. The Administrator shall provide liaison at an appropriate organizational level to assure coordination of his activities with State and local government agencies, departments, bureaus, or offices concerned with any matter related to programs of fire prevention and control and with private and other Federal organizations and offices so concerned.”
+<b>2008</b>—Subsec. (e). Pub. L. 110–376 amended subsec. (e) generally. Prior to amendment, text read as follows: “To the extent practicable, the Administrator shall utilize existing programs, data, information, and facilities already available in other Federal Government departments and agencies and, where appropriate, existing research organizations, centers, and universities.The Administrator shall provide liaison at an appropriate organizational level to assure coordination of his activities with State and local government agencies, departments, bureaus, or offices concerned with any matter related to programs of fire prevention and control and with private and other Federal organizations and offices so concerned.”
 
-2000—Subsec. (c). Pub. L. 106–503 substituted “Director” for “Secretary”.
+<b>2000</b>—Subsec. (c). Pub. L. 106–503 substituted “Director” for “Secretary”.
 
-1979—Subsec. (b)(4). Pub. L. 96–121 substituted “the daily equivalent of the maximum annual rate of basic pay then in effect for grade GS–15 of the General Schedule (5 U.S.C. 5332(a))” for “$100 a day”.
+<b>1979</b>—Subsec. (b)(4). Pub. L. 96–121 substituted “the daily equivalent of the maximum annual rate of basic pay then in effect for grade GS–15 of the General Schedule (5 U.S.C. 5332(a))” for “$100 a day”.
 
 #### Transfer of Functions
 
@@ -101,4 +107,6 @@ In general.—Not later than 1 year after the date of enactment of this Act \[No
 &emsp;&emsp;“(B)
 
 Contents of report.—The report prepared by the Administrator under this paragraph shall describe any donations of educationally useful Federal equipment to schools made during the period covered by the report.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

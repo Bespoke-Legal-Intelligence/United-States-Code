@@ -10,7 +10,7 @@ Section was formerly classified to section 624e of former Title 5, Executive Dep
 
 #### Amendments
 
-2000—Pub. L. 106–569 inserted at end “The report required under this section shall include the reports required under paragraphs (2) and (6) of section 3608(e) of this title, the reports required under subsections (a) and (b) of section 4856 of this title, the report required under section 1701<i>o</i> of title 12, and the report required under section 3533(e)(2) of this title.”
+<b>2000</b>—Pub. L. 106–569 inserted at end “The report required under this section shall include the reports required under paragraphs (2) and (6) of section 3608(e) of this title, the reports required under subsections (a) and (b) of section 4856 of this title, the report required under section 1701<i>o</i> of title 12, and the report required under section 3533(e)(2) of this title.”
 
 #### Performance Goals for Department of Housing and Urban Development
 

@@ -92,15 +92,15 @@ This amends 49:30141(c)(4)(A) and 30165(a) to correct erroneous cross-references
 
 #### References in Text
 
-Section 30123(d) of this title, referred to in subsec. (a)(1), was redesignated section 30123(a) of this title by Pub. L. 105–178, title VII, §7106(b), June 9, 1998, 112 Stat. 467.
+Section 30123(d) of this title, referred to in subsec. (a)(1), was redesignated section 30123(a) of this title byPub. L. 105–178, title VII, §7106(b), June 9, 1998, 112 Stat. 467.
 
 #### Amendments
 
-2005—Subsec. (a)(2), (3). Pub. L. 109–59, which directed amendment of section 30165(a), without specifying the title to be amended, by adding par. (2) and redesignating former par. (2) as (3), was executed to this section, to reflect the probable intent of Congress.
+<b>2005</b>—Subsec. (a)(2), (3). Pub. L. 109–59, which directed amendment of section 30165(a), without specifying the title to be amended, by adding par. (2) and redesignating former par. (2) as (3), was executed to this section, to reflect the probable intent of Congress.
 
-2000—Subsec. (a). Pub. L. 106–414 amended heading and text generally. Prior to amendment, text read as follows: “A person that violates any of sections 30112, 30115, 30117–30122, 30123(d), 30125(c), 30127, 30141–30147, or 30166 of this title or a regulation prescribed under any of those sections is liable to the United States Government for a civil penalty of not more than $1,000 for each violation. A separate violation occurs for each motor vehicle or item of motor vehicle equipment and for each failure or refusal to allow or perform an act required by any of those sections. The maximum penalty under this subsection for a related series of violations is $800,000.”
+<b>2000</b>—Subsec. (a). Pub. L. 106–414 amended heading and text generally. Prior to amendment, text read as follows: “A person that violates any of sections 30112, 30115, 30117–30122, 30123(d), 30125(c), 30127, 30141–30147, or 30166 of this title or a regulation prescribed under any of those sections is liable to the United States Government for a civil penalty of not more than $1,000 for each violation. A separate violation occurs for each motor vehicle or item of motor vehicle equipment and for each failure or refusal to allow or perform an act required by any of those sections. The maximum penalty under this subsection for a related series of violations is $800,000.”
 
-1994—Subsec. (a). Pub. L. 103–429 substituted “any of sections 30112” for “section 30112” and inserted “any of” before “those sections” in two places.
+<b>1994</b>—Subsec. (a). Pub. L. 103–429 substituted “any of sections 30112” for “section 30112” and inserted “any of” before “those sections” in two places.
 
 #### Effective Date of 1994 Amendment
 

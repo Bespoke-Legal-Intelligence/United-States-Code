@@ -1,7 +1,5 @@
 Part G—Quarantine and Inspection
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
-
 
 ---
 

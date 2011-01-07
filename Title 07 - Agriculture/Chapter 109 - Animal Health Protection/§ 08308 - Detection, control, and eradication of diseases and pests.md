@@ -18,7 +18,11 @@ The Secretary may carry out operations and measures to detect, control, or eradi
 
 &emsp;The action of the Secretary in carrying out paragraph (1) shall not be subject to review by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary.
 
-(Pub. L. 107–171, title X, §10409, May 13, 2002, 116 Stat. 501; Pub. L. 110–234, title XI, §11011(2), May 22, 2008, 122 Stat. 1360; Pub. L. 110–246, §4(a), title XI, §11011(2), June 18, 2008, 122 Stat. 1664, 2122.)
+(Pub. L. 107–171, title X, §10409, May 13, 2002, 116 Stat. 501; Pub. L. 110–234, title XI, §11011(2), May22, 2008, 122 Stat. 1360; Pub. L. 110–246, §4(a), title XI, §11011(2), June 18, 2008, 122 Stat. 1664, 2122.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (b)(1), was in the original “this subtitle”, meaning subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 #### Codification
 
@@ -30,7 +34,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Transfer of Functions
 

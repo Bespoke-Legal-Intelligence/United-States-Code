@@ -22,7 +22,7 @@ Any contract entered into by the Secretary pursuant to this section shall contai
 
 #### (e) Advisory consultations by Secretary with affected entities and governing bodies prior to contracts; applicability
 
-The Secretary shall consult with the entity designated pursuant to section 456 of this title, and with the governing body of any Indian tribe or tribes the educational opportunity for the members of which will be significantly affected by any contract entered into pursuant to this section. Such consultation shall be advisory only, but shall occur prior to the entering into of any such contract. The foregoing provisions of this subsection shall not be applicable where the application for a contract pursuant to this section is submitted by an elected school board of which a majority of its members are Indians.
+The Secretary shall consult with the entity designated pursuant to section 456 of this title, and with the governing body of any Indian tribe or tribes the educational opportunity for the members of which will be significantly affected by any contract entered into pursuant to thissection. Such consultation shall be advisory only, but shall occur prior to the entering into of any such contract. The foregoing provisions of this subsection shall not be applicable where the application for a contract pursuant to this section is submitted by an elected school board of which a majority of its members are Indians.
 
 #### (f) Evaluation and report to Congress of effectiveness of construction, etc., programs; scope and content of report
 
@@ -36,7 +36,7 @@ Within ninety days following the expiration of the three year period following J
 
 &emsp;(4) a description of the working relationship of the Department of the Interior with local or State educational agencies in connection with the contracting for construction, acquisition, or renovation of school facilities pursuant to this section; and
 
-&emsp;(5) the recommendations of the Secretary with respect to the transfer of the responsibility for administering subsections (a) and (b) ofsection 644 <sup>1</sup> of title 20 from the Department of Education to the Department of the Interior.
+&emsp;(5) the recommendations of the Secretary with respect to the transfer of the responsibility for administering subsections (a) and (b) of section 644 <sup>1</sup> of title 20 from the Department of Education to the Department of the Interior.
 
 #### (g) Authorization of appropriations
 

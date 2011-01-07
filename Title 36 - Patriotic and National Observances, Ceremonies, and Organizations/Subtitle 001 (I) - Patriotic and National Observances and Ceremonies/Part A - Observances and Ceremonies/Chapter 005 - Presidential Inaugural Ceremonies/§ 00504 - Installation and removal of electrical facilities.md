@@ -24,7 +24,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-504(a)D36:725 (1st, 2d sentences).DAug. 6, 1956, ch. 974, §5 (1st–3d, last sentences), 70 Stat. 1050.
+504(a)
+
+36:725 (1st, 2d sentences).
+
+Aug. 6, 1956, ch. 974, §5 (1st–3d, last sentences), 70 Stat. 1050.
 
 &nbsp;
 
@@ -32,7 +36,11 @@ Historical and Revision Notes
 
 Aug. 6, 1956, ch. 974, §10, as added Jan. 30, 1968, Pub. L. 90–251, §4, 82 Stat. 4.
 
-504(b)D36:725 (3d sentence).D&nbsp;
+504(b)
+
+36:725 (3d sentence).
+
+&nbsp;
 
 504(c)
 

@@ -28,7 +28,7 @@ On an annual basis, each State having an approved State Reclamation Plan may sub
 
 &emsp;(2) a priority evaluation of each proposed project;
 
-&emsp;(3) a statement of the estimated benefits in such terms as: number of acres restored, miles of stream improved, acres of surface lands protected from subsidence, population protected from subsidence, air pollution, hazards of mine and coal refuse disposal area fires;
+&emsp;(3) a statement of the estimated benefits in such terms as: number of acres restored, milesof stream improved, acres of surface lands protected from subsidence, population protected from subsidence, air pollution, hazards of mine and coal refuse disposal area fires;
 
 &emsp;(4) an estimate of the cost for each proposed project;
 
@@ -66,13 +66,13 @@ No State shall be liable under any provision of Federal law for any costs or dam
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–508, §6012(d)(1), substituted “preparation” for “perparation”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §6012(d)(1), substituted “preparation” for “perparation”.
 
 Subsec. (h). Pub. L. 101–508, §6012(d)(2), substituted “Upon approval” for “Upon approved”.
 
 Subsec. (<i>l</i>). Pub. L. 101–508, §6007, added subsec. (<i>l</i>).
 
-1987—Subsec. (k). Pub. L. 100–71, which directed the amendment of subsec. (k) by inserting “except for purposes of subsection (c) of this section with respect to the Navajo, Hopi and Crow Indian Tribes” at the end thereof, was executed by making the insertion before the period to reflect the probable intent of Congress.
+<b>1987</b>—Subsec. (k). Pub. L. 100–71, which directed the amendment of subsec. (k) by inserting “except for purposes of subsection (c) of this section with respect to the Navajo, Hopi and Crow Indian Tribes” at the end thereof, was executed by making the insertion before the period to reflect the probable intent of Congress.
 
 #### Effective Date of 1990 Amendment
 

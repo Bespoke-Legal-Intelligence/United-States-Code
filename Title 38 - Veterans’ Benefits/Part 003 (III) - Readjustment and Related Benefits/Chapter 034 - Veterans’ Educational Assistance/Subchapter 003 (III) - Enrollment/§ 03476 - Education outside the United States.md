@@ -10,15 +10,15 @@ Provisions similar to those comprising this section were contained in Pub. L. 85
 
 #### Amendments
 
-1994—Pub. L. 103–446 amended first sentence generally. Prior to amendment, first sentence read as follows: “An eligible veteran may not enroll in any course at an educational institution not located in a State unless such course is pursued at an approved institution of higher learning and the course is approved by the Secretary.”
+<b>1994</b>—Pub. L. 103–446 amended first sentence generally. Prior to amendment, first sentence read as follows: “An eligible veteran may not enroll in any course at an educational institution not located in a State unless such course is pursued at an approved institution of higher learning and the course is approved by the Secretary.”
 
-1991—Pub. L. 102–83 renumbered section 1676 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1676 of this title as this section.
 
-1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-1980—Pub. L. 96–466, among other changes, substituted reference to an eligible veteran not enrolling in any course for reference to an eligible veteran not pursuing a program of education, inserted provision that the course be approved by the Administrator, and substituted reference to any veteran enrolled in an institution of higher learning not located in a State for reference to any veteran in a foreign educational institution.
+<b>1980</b>—Pub. L. 96–466, among other changes, substituted reference to an eligible veteran not enrolling in any course for reference to an eligible veteran not pursuing a program of education, inserted provision that the course be approved by the Administrator, and substituted reference to any veteran enrolled in an institution of higher learning not located in a State for reference to any veteran in a foreign educational institution.
 
-1976—Pub. L. 94–502 substituted “the Administrator's” for “his” and “if the Administrator finds” for “if he finds”.
+<b>1976</b>—Pub. L. 94–502 substituted “the Administrator's” for “his” and “if the Administrator finds” for “if he finds”.
 
 #### Effective Date of 1994 Amendment
 

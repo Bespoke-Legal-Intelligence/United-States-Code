@@ -38,7 +38,7 @@ Findings.—The Congress finds and declares the following:
 
 &emsp;“(2) Weather modification technology has significant potential for preventing, diverting, moderating, or ameliorating the adverse effects of such disasters and hazards and enhancing crop production and the availability of water;
 
-&emsp;“(3) The interstate nature of climatic and related phenomena, the severe economic hardships experienced as the result of occasional drought and other adverse meteorological conditions, and the existing role and responsibilities of the Federal Government with respect to disaster relief, require appropriate Federal action to prevent or alleviate such disasters and hazards; and
+&emsp;“(3) The interstate nature of climatic and related phenomena, the severe economic hardships experienced as the result of occasional drought and other adverse meteorological conditions, and the existing role and responsibilities of the Federal Governmentwith respect to disaster relief, require appropriate Federal action to prevent or alleviate such disasters and hazards; and
 
 &emsp;“(4) Weather modification programs may have long-range and unexpected effects on existing climatic patterns which are not confined by national boundaries.
 

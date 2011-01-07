@@ -112,7 +112,13 @@ CO
 
 NO<sub>x</sub>
 
-LDTs (3,751–5,750 lbs. TW) D0.40 D5.5 D0.88\*
+LDTs (3,751–5,750 lbs. TW)
+
+0\.40
+
+5\.5
+
+0\.88\*
 
 LDTs (over 5,750 lbs. TW)
 
@@ -162,7 +168,9 @@ Model year
 
 Percent
 
-1998 D 50
+1998
+
+&nbsp;50
 
 1999
 
@@ -230,7 +238,7 @@ A prior section 207 of act July 14, 1955, was renumbered section 208 by Pub. L. 
 
 #### Amendments
 
-1990—Subsec. (a)(1). Pub. L. 101–549, §209(4), inserted at end “In the case of vehicles and engines manufactured in the model year 1995 and thereafter such warranty shall require that the vehicle or engine is free from any such defects for the warranty period provided under subsection (i) of this section.”
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–549, §209(4), inserted at end “In the case of vehicles and engines manufactured in the model year 1995 and thereafter such warranty shall require that the vehicle or engine is free from any such defects for the warranty period provided under subsection (i) of this section.”
 
 Subsec. (b). Pub. L. 101–549, §209(1), (2), substituted “the warranty period (as determined under subsection (i) of this section)” for “useful life (as determined under section 7521(d) of this title)” in introductory provisions and par. (2)(B), and struck out closing provisions which read as follows: “For purposes of the warranty under this subsection, for the period after twenty-four months or twenty-four thousand miles (whichever first occurs) the term ‘emission control device or system’ means a catalytic converter, thermal reactor, or other component installed on or in a vehicle for the sole or primary purpose of reducing vehicle emissions. Such term shall not include those vehicle components which were in general use prior to model year 1968.”
 
@@ -240,7 +248,7 @@ Subsec. (g). Pub. L. 101–549, §230(9), substituted “the last sentence of su
 
 Subsec. (i). Pub. L. 101–549, §209(3), added subsec. (i).
 
-1977—Subsec. (a). Pub. L. 95–190, §14(a)(70), designated provisions contained in cl. (3) of subsec. (a), formerly set out as containing cls. (1), (2), and (3), to be par. (3) of subsec. (a) after the amendment by Pub. L. 95–95, §209(b), which designated provisions of former subsec. (a) as par. (1) and former cls. (1) and (2) as (A) and (B) of par. (1) and added a new par. (2).
+<b>1977</b>—Subsec. (a). Pub. L. 95–190, §14(a)(70), designated provisions contained in cl. (3) of subsec. (a), formerly set out as containing cls. (1), (2), and (3), to be par. (3) of subsec. (a) after the amendment by Pub. L. 95–95, §209(b), which designated provisions of former subsec. (a) as par. (1) and former cls. (1) and (2) as (A) and (B) of par. (1) and added a new par. (2).
 
 Pub. L. 95–95, §205, added cl. (3).
 

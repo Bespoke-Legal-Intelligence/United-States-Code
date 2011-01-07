@@ -38,7 +38,7 @@ A prior section 1001 of act July 26, 1947, ch. 343, was renumbered section 1101 
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–458, §1071(a)(1)(MM), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–458, §1071(a)(1)(MM), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 Subsec. (b). Pub. L. 108–458, §1072(a)(8), substituted “Office of the Director of National Intelligence” for “Assistant Director of Central Intelligence for Administration”.
 
@@ -58,49 +58,5 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 #### Pilot Program on Recruitment and Training of Intelligence Analysts
 
-Pub. L. 108–177, title III, §318, Dec. 13, 2003, 117 Stat. 2613, as amended by Pub. L. 108–458, title I, §§1071(g)(3)(A)(iii), 1072(d)(2)(B), Dec. 17, 2004, 118 Stat. 3692, 3693, provided that:
-
-“(a)
-
-Pilot Program.—(1) The Director of National Intelligence shall carry out a pilot program to ensure that selected students or former students are provided funds to continue academic training, or are reimbursed for academic training previously obtained, in areas of specialization that the Director, in consultation with the other heads of the elements of the intelligence community, identifies as areas in which the current analytic capabilities of the intelligence community are deficient or in which future analytic capabilities of the intelligence community are likely to be deficient.
-
-“(2) A student or former student selected for participation in the pilot program shall commit to employment with an element of the intelligence community, following completion of appropriate academic training, under such terms and conditions as the Director considers appropriate.
-
-“(3) The pilot program shall be known as the Pat Roberts Intelligence Scholars Program.
-
-“(b)
-
-Elements.—In carrying out the pilot program under subsection (a), the Director shall—
-
-&emsp;“(1) establish such requirements relating to the academic training of participants as the Director considers appropriate to ensure that participants are prepared for employment as intelligence analysts; and
-
-&emsp;“(2) periodically review the areas of specialization of the elements of the intelligence community to determine the areas in which such elements are, or are likely to be, deficient in analytic capabilities.
-
-“(c)
-
-Duration.—The Director shall carry out the pilot program under subsection (a) during fiscal years 2004 through 2006.
-
-“(d)
-
-Limitation on Number of Members During Fiscal Year 2004.—The total number of individuals participating in the pilot program under subsection (a) during fiscal year 2004 may not exceed 150 students.
-
-“(e)
-
-Responsibility.—The Director shall carry out the pilot program under subsection (a) through the Deputy Director of National Intelligence.
-
-“(f)
-
-Reports.—(1) Not later than 120 days after the date of the enactment of this Act \[Dec. 13, 2003\], the Director shall submit to Congress a preliminary report on the pilot program under subsection (a), including a description of the pilot program and the authorities to be utilized in carrying out the pilot program.
-
-“(2) Not later than one year after the commencement of the pilot program, the Director shall submit to Congress a report on the pilot program. The report shall include—
-
-&emsp;“(A) a description of the activities under the pilot program, including the number of individuals who participated in the pilot program and the training provided such individuals under the pilot program;
-
-&emsp;“(B) an assessment of the effectiveness of the pilot program in meeting the purpose of the pilot program; and
-
-&emsp;“(C) any recommendations for additional legislative or administrative action that the Director considers appropriate in light of the pilot program.
-
-“(g)
-
-Funding.—Of the amounts authorized to be appropriated by this Act, $4,000,000 shall be available until expended to carry out this section.”
+Pub. L. 108–177, title III, §318, Dec. 13, 2003, 117 Stat. 2613, as amended by Pub. L. 108–458, title I, §§1071(g)(3)(A)(iii), 1072(d)(2)(B), Dec. 17, 2004, 118 Stat. 3692, 3693, which required the Director of National Intelligence to carry out a pilot program during fiscal years 2004 through 2006 to provide financial assistance for academic training in areas of deficiency in the analytic capabilities of the intelligence community, and to submit reports to Congress not later than 120 days after Dec. 13, 2003, and not later than one year after the commencement of the program, was repealed by Pub. L. 111–259, title III, §311(b)(2)(A), Oct. 7, 2010, 124 Stat. 2663.
 

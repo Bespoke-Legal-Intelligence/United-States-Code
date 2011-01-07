@@ -20,7 +20,7 @@ The Chairperson, with the advice of the National Council on the Arts, is authori
 
 &emsp;(3) projects and productions that will encourage and assist artists and enable them to achieve wider distribution of their works, to work in residence at an educational or cultural institution, or to achieve standards of professional excellence;
 
-&emsp;(4) projects and productions which have substantial artistic and cultural significance andthat reach, or reflect the culture of, a minority, inner city, rural, or tribal community;
+&emsp;(4) projects and productions which have substantial artistic and cultural significance and that reach, or reflect the culture of, a minority, inner city, rural, or tribal community;
 
 &emsp;(5) projects and productions that will encourage public knowledge, education, understanding, and appreciation of the arts;
 
@@ -186,7 +186,7 @@ The Chairperson shall correlate the programs of the National Endowment for the A
 
 &emsp;(A) enabling cultural organizations and institutions to increase the levels of continuing support and to increase the range of contributors to the programs of such organizations or institutions;
 
-&emsp;(B) providing administrative and management improvements for cultural organizations and institutions, particularly in the field of long-range financial planning;
+&emsp;(B) providing administrative and management improvements for cultural organizationsand institutions, particularly in the field of long-range financial planning;
 
 &emsp;(C) enabling cultural organizations and institutions to increase audience participation in, and appreciation of, programs sponsored by such organizations and institutions;
 
@@ -228,7 +228,7 @@ The Chairperson shall correlate the programs of the National Endowment for the A
 
 #### (q) National information and data collection system on the arts, artists and art groups, and audiences; development and implementation plan; state of the arts reports
 
-The Chairperson of the National Endowment for the Arts shall, in ongoing consultation with State and local agencies, relevant organizations, and relevant Federal agencies, continue to develop and implement a practical system of national information and data collection and public dissemination on the arts, artists and arts groups, and their audiences. Such system shall include artistic and financial trends in the various artistic fields, trends in audience participation, and trends in arts education on national, regional, and State levels. Such system shall also include information regarding the availability of the arts to various audience segments, including rural communities. Such system shall be used, along with a summary of the data submitted with State plans under subsection (g) of this section, to prepare a periodic report on the state of the arts in the Nation. The state of the arts report shall include a description of the availability of the Endowment's programs to emerging, rural, and culturally diverse artists, arts organizations, and communities and of the participation by such artists, organizations, and communities in such programs. The state of the arts report shall be submitted to the Presidentand the Congress, and provided to the States, not later than October 1, 1992, and quadrennially thereafter.
+The Chairperson of the National Endowment for the Arts shall, in ongoing consultation with State and local agencies, relevant organizations, and relevant Federal agencies, continue to develop and implement a practical system of national information and data collection and public dissemination on the arts, artists and arts groups, and their audiences. Such system shall include artistic and financial trends in the various artistic fields, trends in audience participation, and trends in arts education on national, regional, and State levels. Such system shall also include information regarding the availability of the arts to various audience segments, including rural communities. Such system shall be used, along with a summary of the data submitted with State plans under subsection (g) of this section, to prepare a periodic report on the state of the arts in the Nation. The state of the arts report shall include a description of the availability of the Endowment's programs to emerging, rural, and culturally diverse artists, arts organizations, and communities and of the participation by such artists, organizations, and communities in such programs. The state of the arts report shall be submitted to the President and the Congress, and provided to the States, not later than October 1, 1992, and quadrennially thereafter.
 
 (Pub. L. 89–209, §5, Sept. 29, 1965, 79 Stat. 846; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 90–348, §§2, 3, June 18, 1968, 82 Stat. 185; Pub. L. 91–346, §§4, 5(a)(1), (2), 6, 7, July 20, 1970, 84 Stat. 443, 445; Pub. L. 93–133, §2(a)(3), (4), Oct. 19, 1973, 87 Stat. 462; Pub. L. 94–462, title I, §§101, 102, title III, §301(a), title IV, §401(a), Oct. 8, 1976, 90 Stat. 1971, 1978, 1980; Pub. L. 96–496, title I, §§102, 109(a), (b), Dec. 4, 1980, 94 Stat. 2583, 2591; renumbered title I, §5, Pub. L. 98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §5 and amended Pub. L. 99–194, title I, §§101(1), 105, Dec. 20, 1985, 99 Stat. 1332, 1333; Pub. L. 101–512, title III, §318 \[title I, §§103(a)–(i)(1), 104\], Nov. 5, 1990, 104 Stat. 1960, 1963–1966.)
 
@@ -244,7 +244,7 @@ In subsec. (n), “sections 3141–3144, 3146, and 3147 of title 40” substitut
 
 #### Amendments
 
-1990—Subsec. (c). Pub. L. 101–512, §318 \[title I, §103(a)(7)\], substituted “paragraph (10)” for “clause (8)” in concluding provisions.
+<b>1990</b>—Subsec. (c). Pub. L. 101–512, §318 \[title I, §103(a)(7)\], substituted “paragraph (10)” for “clause (8)” in concluding provisions.
 
 Subsec. (c)(1). Pub. L. 101–512, §318 \[title I, §103(a)(1)\], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “projects and productions which have substantial artistic and cultural significance, giving emphasis to American creativity and cultural diversity and the maintenance and encouragement of professional excellence;”.
 
@@ -292,7 +292,7 @@ Subsec. (q). Pub. L. 101–512, §318 \[title I, §103(h)(1)\], redesignated sub
 
 Pub. L. 101–512, §318 \[title I, §103(f)\], inserted “ongoing” after “shall, in”, substituted “continue to develop and implement” for “develop”, inserted “and public dissemination” after “collection”, struck out “Not later than one year after December 20, 1985, the Chairperson shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate a plan for the development and implementation of such system, including a recommendation regarding the need for any additional funds to be appropriated to develop and implement such system.” after “including rural communities.”, and substituted “1992, and quadrennially” for “1988, and biennially”.
 
-1985—Subsec. (b)(1). Pub. L. 99–194, §105(1), (6), substituted “chairperson” for “chairman” and “Chairperson” for “Chairman”.
+<b>1985</b>—Subsec. (b)(1). Pub. L. 99–194, §105(1), (6), substituted “chairperson” for “chairman” and “Chairperson” for “Chairman”.
 
 Subsec. (b)(2). Pub. L. 99–194, §105(6), (7), substituted “Chairperson” for “Chairman” wherever appearing and “the Chairperson's” for “his” in two places.
 
@@ -318,7 +318,7 @@ Subsec. (<i>l</i>)(3). Pub. L. 99–194, §105(6), substituted “Chairperson”
 
 Subsec. (m). Pub. L. 99–194, §105(8), added subsec. (m).
 
-1980—Subsec. (c). Pub. L. 96–496, §§102(a), 109(a), inserted “or loans” in provisions preceding cl. (1) and “and cultural diversity” in cl. (1), redesignated cl. (5) as (6), added cl. (5), substituted “Committee on Labor and Human Resources” for “Committee on Labor and Public Welfare” in provisions following cl. (6), and provided that any loans made by the Chairman under subsec. (c) were to be made in accordance with terms and conditions approved by the Secretary of the Treasury.
+<b>1980</b>—Subsec. (c). Pub. L. 96–496, §§102(a), 109(a), inserted “or loans” in provisions preceding cl. (1) and “and cultural diversity” in cl. (1), redesignated cl. (5) as (6), added cl. (5), substituted “Committee on Labor and Human Resources” for “Committee on Labor and Public Welfare” in provisions following cl. (6), and provided that any loans made by the Chairman under subsec. (c) were to be made in accordance with terms and conditions approved by the Secretary of the Treasury.
 
 Subsec. (g)(2)(A). Pub. L. 96–496, §102(b)(1), struck out provision that the Recreation Board, or any successor designated for purposes of this subchapter by the Commissioner of the District of Columbia, was to be considered the “State agency” within the District of Columbia.
 
@@ -332,7 +332,7 @@ Subsec. (<i>l</i>). Pub. L. 96–496, §102(d), inserted “, on a national, St
 
 Subsec. (m). Pub. L. 96–496, §102(e), struck out subsec. (m) which related to grants or contracts to State arts agencies for photography and film projects.
 
-1976—Subsec. (c). Pub. L. 94–462, §101, struck out in provisions preceding par. (1) “in the United States” after “provide or support”.
+<b>1976</b>—Subsec. (c). Pub. L. 94–462, §101, struck out in provisions preceding par. (1) “in the United States” after “provide or support”.
 
 Subsec. (g)(4)(A). Pub. L. 94–462, §102, inserted provision that amount of each allotment to a State for any fiscal year shall be available to each State which has a plan approved by the Chairman to pay not more than 50 percent of total cost of any project or production described in subsec. (g)(1).
 
@@ -340,7 +340,7 @@ Subsec. (<i>l</i>). Pub. L. 94–462, §301(a), added subsec. (<i>l</i>).
 
 Subsec. (m). Pub. L. 94–462, §401(a), added subsec. (m).
 
-1973—Subsec. (c). Pub. L. 93–133, §3, in opening paragraph, struck out reference to Federal Council on the Arts and Humanities, in cl. (1), substituted “projects and productions” for “production”, in cl. (2), substituted “projects and productions” and “for geographic or economic reasons” for “production” and “in many areas of the country” respectively, in cl. (3), substituted “projects and productions” for “projects”, in cl. (5), substituted “, planning, and publications relating to the purposes of this subsection” for “and planning in the arts”, and added paragraph following cl. (5).
+<b>1973</b>—Subsec. (c). Pub. L. 93–133, §3, in opening paragraph, struck out reference to Federal Council on the Arts and Humanities, in cl. (1), substituted “projects and productions” for “production”, in cl. (2), substituted “projects and productions” and “for geographic or economic reasons” for “production” and “in many areas of the country” respectively, in cl. (3), substituted “projects and productions” for “projects”, in cl. (5), substituted “, planning, and publications relating to the purposes of this subsection” for “and planning in the arts”, and added paragraph following cl. (5).
 
 Subsec. (g)(1). Pub. L. 93–133, §2(a)(4)(A), struck out reference to Federal Council on the Arts and Humanities.
 
@@ -352,7 +352,7 @@ Subsec. (g)(4). Pub. L. 93–133, §2(a)(4)(D), added par. (4) and struck out fo
 
 Subsec. (g)(5). Pub. L. 93–133, §2(a)(4)(E), substituted “All amounts allotted or made available” for “All amounts allotted”.
 
-1970—Subsec. (b). Pub. L. 91–346, §5(a)(1), designated existing provisions as cl. (1), and, in cl. (1) as so designated, provided for appointment of the Chairman of the National Endowment for the Arts by the President with the advice and consent of the Senate, and added cl. (2).
+<b>1970</b>—Subsec. (b). Pub. L. 91–346, §5(a)(1), designated existing provisions as cl. (1), and, in cl. (1) as so designated, provided for appointment of the Chairman of the National Endowment for the Arts by the President with the advice and consent of the Senate, and added cl. (2).
 
 Subsec. (c)(3). Pub. L. 91–346, §4, expanded grants-in-aid program to enable talented groups or individuals to achieve wider distribution of their works and to work in residence at an educational or cultural institution.
 
@@ -362,17 +362,17 @@ Subsec. (g)(2)(A). Pub. L. 91–346, §6, permitted the Commissioner of the Dist
 
 Subsec. (g)(3). Pub. L. 91–346, §7, provided minimum of $65,000 allotment to each State from sums appropriated for this subsec., authorized remaining funds to be equally allotted among the States, excluded Guam and American Samoa from term “State”, and provided for equal allotments to States if the sums appropriated are insufficient to satisfy the minimum allotment.
 
-1968—Subsec. (c). Pub. L. 90–348, §2(a), authorized contracts with groups, or in appropriate cases, individuals engaged in the arts, for the purpose of enabling them to provide or support programs and productions in the arts.
+<b>1968</b>—Subsec. (c). Pub. L. 90–348, §2(a), authorized contracts with groups, or in appropriate cases, individuals engaged in the arts, for the purpose of enabling them to provide or support programs and productions in the arts.
 
 Subsec. (f). Pub. L. 90–348, §2(a), provided that contracts as well as grants made by the National Endowment for the Arts be subject to the amount limitation, and eliminated the provision requiring that groups seeking funds from the National Endowment for the Arts submit evidence to the Endowment that it had attempted unsuccessfully to secure an amount of funds equal to the grant applied for by such group, together with a statement of the proportion which any funds it had secured represent the funds applied for by such group.
 
 Subsec. (h)(3). Pub. L. 90–348, §3, substituted “Funds appropriated to carry out the purpose of this subsection” for “The funds appropriated pursuant to section 960(c) of this title”.
 
-Subsec. (h)(5). Pub. L. 90–348, §3, struck out provision that amounts available to the National Endowment forthe Arts at the end of the fiscal year shall be limited to the excess of the value of gifts, bequests, and devises received by the Endowment over the amounts appropriated to the Endowment, the appropriated amounts to be equal to the amounts received by the Endowment in the form of donations, bequests, and devises, but not to exceed $2,250,000.
+Subsec. (h)(5). Pub. L. 90–348, §3, struck out provision that amounts available to the National Endowment for the Arts at the end of the fiscal year shall be limited to the excess of the value of gifts, bequests, and devises received by the Endowment over the amounts appropriated to the Endowment, the appropriated amounts to be equal to the amounts received by the Endowment in the form of donations, bequests, and devises, but not to exceed $2,250,000.
 
 Subsecs. (j), (k). Pub. L. 90–348, §2(b), inserted “of exceptional talent” after “the group or individual”.
 
-1967—Subsec. (d). Pub. L. 90–83 struck out provisions setting the compensation for the Chairman of the National Council on the Arts and the National Endowment for the Arts.
+<b>1967</b>—Subsec. (d). Pub. L. 90–83 struck out provisions setting the compensation for the Chairman of the National Council on the Arts and the National Endowment for the Arts.
 
 #### Change of Name
 
@@ -392,7 +392,7 @@ Amendment by Pub. L. 93–133 effective on and after July 1, 1973, see section 2
 
 #### Effective Date of 1970 Amendment
 
-Amendment by section 5(a)(1), (2) of Pub. L. 91–346 effective after June 30, 1970, see section 5(d)(3)(A) of Pub. L. 91–346, set out as a note under section 955 of this title.
+Amendment by section 5(a)(1), (2) of Pub. L. 91–346 effective after June 30, 1970, see section 5(d)(3)(A) of Pub.L. 91–346, set out as a note under section 955 of this title.
 
 #### Termination of Reporting Requirements
 

@@ -10,9 +10,9 @@ Provisions similar to those in this section were formerly contained in section 8
 
 #### Amendments
 
-1976—Pub. L. 94–579 in cl. (a) inserted reference to recreational purposes and in cl. (b) inserted reference to leases for recreational purposes.
+<b>1976</b>—Pub. L. 94–579 in cl. (a) inserted reference to recreational purposes and in cl. (b) inserted reference to leases for recreational purposes.
 
-1966—Pub. L. 89–457 authorized an increase in the period of a lease under cl. (b) from twenty to twenty-five years.
+<b>1966</b>—Pub. L. 89–457 authorized an increase in the period of a lease under cl. (b) from twenty to twenty-five years.
 
 #### Savings Provision
 

@@ -72,7 +72,7 @@ This subchapter, referred to in subsec. (e), was in the original “this Act” 
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–394, §10(1), added par. (1) and struck out former par. (1) which authorized appropriations for fiscal years 2003 through 2008.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–394, §10(1), added par. (1) and struck out former par. (1) which authorized appropriations for fiscal years 2003 through 2008.
 
 Subsec. (a)(2). Pub. L. 110–394, §10(2)(A), substituted “fiscal years 2009 through 2014—” for “fiscal years 2003 through 2008—” in introductory provisions.
 
@@ -82,11 +82,11 @@ Subsec. (a)(2)(C). Pub. L. 110–394, §10(2)(C), substituted “blooms; and” 
 
 Subsec. (c)(1). Pub. L. 110–394, §10(3), substituted “performance assessments” for “rating under section 1123(d)(3)(A) of this title”.
 
-Subsec. (c)(2). Pub. L. 110–394, §10(4), added par. (2) and struck out former par. (2) which read as follows: “national strategic investments authorized under section 1123(b)(4) of this title;”.
+Subsec. (c)(2). Pub. L. 110–394, §10(4), added par. (2) and struck out former par. (2) which read as follows:“national strategic investments authorized under section 1123(b)(4) of this title;”.
 
-2002—Subsecs. (a) to (c). Pub. L. 107–299 amended subsecs. (a) to (c) generally, substituting provisions relating to authorization, limitations, and distribution of funds for provisions relating to authorization, program elements, and priority oyster disease research.
+<b>2002</b>—Subsecs. (a) to (c). Pub. L. 107–299 amended subsecs. (a) to (c) generally, substituting provisions relating to authorization, limitations, and distribution of funds for provisions relating to authorization, program elements, and priority oyster disease research.
 
-1998—Subsec. (a). Pub. L. 105–160, §9(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out the provisions of sections 1124 and 1127 of this title, and section 1124a of this title, an amount—
+<b>1998</b>—Subsec. (a). Pub. L. 105–160, §9(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out the provisions of sections 1124 and 1127 of this title, and section 1124a of this title, an amount—
 
 &emsp;“(1) for fiscal year 1991, not to exceed $44,398,000;
 
@@ -110,7 +110,7 @@ Subsec. (b). Pub. L. 105–160, §9(b), inserted subsec. heading and amended par
 
 &emsp;“(E) for fiscal year 1995, not to exceed $2,900,000.”
 
-1991—Subsecs. (a) to (c). Pub. L. 102–186 amended subsecs. (a) to (c) generally. Prior to amendment, subsecs. (a) to (c) read as follows:
+<b>1991</b>—Subsecs. (a) to (c). Pub. L. 102–186 amended subsecs. (a) to (c) generally. Prior to amendment, subsecs. (a) to (c) read as follows:
 
 “(a) There is authorized to be appropriated to carry out the provisions of this subchapter other than sections 1125 and 1130 of this title, an amount—
 
@@ -136,15 +136,15 @@ Subsec. (b). Pub. L. 105–160, §9(b), inserted subsec. heading and amended par
 
 &emsp;“(3) for fiscal year 1990, not to exceed $3,000,000.”
 
-1987—Pub. L. 100–220 amended section generally, substituting provisions of subsecs. (a) to (e) relating to appropriations authorizations for fiscal years 1988, 1989, and 1990, for provisions formerly contained in a single unlettered paragraph relating to appropriations authorizations for fiscal years 1978 to 1983 and 1985 to 1987.
+<b>1987</b>—Pub. L. 100–220 amended section generally, substituting provisions of subsecs. (a) to (e) relating to appropriations authorizations for fiscal years 1988, 1989, and 1990, for provisions formerly contained in a single unlettered paragraph relating to appropriations authorizations for fiscal years 1978 to 1983 and 1985 to 1987.
 
-1984—Par. (4). Pub. L. 98–623 added par. (4).
+<b>1984</b>—Par. (4). Pub. L. 98–623 added par. (4).
 
-1980—Par. (3). Pub. L. 96–289 added par. (3).
+<b>1980</b>—Par. (3). Pub. L. 96–289 added par. (3).
 
-1978—Pub. L. 95–428 substituted appropriations authorization of $50,000,000 for fiscal years 1977, and 1978, for prior $50,000,000 authorization for fiscal years ending Sept. 30, 1977, and 1978, and authorized appropriation of $55,000,000 for fiscal years 1979 and 1980.
+<b>1978</b>—Pub. L. 95–428 substituted appropriations authorization of $50,000,000 for fiscal years 1977, and 1978, for prior $50,000,000 authorization for fiscal years ending Sept. 30, 1977, and 1978, and authorized appropriation of $55,000,000 for fiscal years 1979 and 1980.
 
-1977—Pub. L. 95–58 substituted “each of the fiscal years ending September 30, 1977, and September 30, 1978” for “the fiscal year ending September 30, 1977”.
+<b>1977</b>—Pub. L. 95–58 substituted “each of the fiscal years ending September 30, 1977, and September 30, 1978” for “the fiscal year ending September 30, 1977”.
 
 #### Notice of Reprogramming
 

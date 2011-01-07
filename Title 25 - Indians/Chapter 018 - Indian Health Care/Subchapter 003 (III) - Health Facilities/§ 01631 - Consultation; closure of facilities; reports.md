@@ -10,7 +10,7 @@ Prior to the expenditure of, or the making of any firm commitment to expend, any
 
 #### (b) Closure; report on proposed closure
 
-(1) Notwithstanding any provision of law other than this subsection, no Service hospital or outpatient health care facility of the Service, or any portion of such a hospital or facility, may be closed if the Secretary has not submitted to the Congress at least 1 year prior to the date such hospital or facility (or portion thereof) is proposed to be closed an evaluation of the impact of such proposed closure which specifies, in addition to other considerations—
+(1) Notwithstanding any provision of law other than this subsection, no Service hospital or outpatient health care facility of the Service, or any portion of such a hospital or facility, may be closed if the Secretary has not submitted to the Congress at least 1 year prior to the datesuch hospital or facility (or portion thereof) is proposed to be closed an evaluation of the impact of such proposed closure which specifies, in addition to other considerations—
 
 &emsp;(A) the accessibility of alternative health care resources for the population served by such hospital or facility;
 
@@ -28,43 +28,207 @@ Prior to the expenditure of, or the making of any firm commitment to expend, any
 
 (2) Paragraph (1) shall not apply to any temporary closure of a facility or of any portion of a facility if such closure is necessary for medical, environmental, or safety reasons.
 
-#### (c) Annual report on health facility priority system
+#### (c) Health care facility priority system
 
-(1) The Secretary shall submit to the President, for inclusion in each report required to be transmitted to the Congress under section 1671 of this title, a report which sets forth—
+#### (1) In general
 
-&emsp;(A) the current health facility priority system of the Service,
+#### (A) Priority system
 
-&emsp;(B) the planning, design, construction, and renovation needs for the 10 top-priority inpatient care facilities and the 10 top-priority ambulatory care facilities (together with required staff quarters),
+&emsp;&emsp;The Secretary, acting through the Service, shall maintain a health care facility priority system, which—
 
-&emsp;(C) the justification for such order of priority,
+&emsp;&emsp;&emsp;(i) shall be developed in consultation with Indian tribes and tribal organizations;
 
-&emsp;(D) the projected cost of such projects, and
+&emsp;&emsp;&emsp;(ii) shall give Indian tribes’ needs the highest priority;
 
-&emsp;(E) the methodology adopted by the Service in establishing priorities under its health facility priority system.
+&emsp;&emsp;&emsp;(iii)(I) may include the lists required in paragraph (2)(B)(ii); and
 
-(2) In preparing each report required under paragraph (1) (other than the initial report), the Secretary shall—
+&emsp;&emsp;&emsp;(II) shall include the methodology required in paragraph (2)(B)(v); and
 
-&emsp;(A) consult with Indian tribes and tribal organizations including those tribes or tribal organizations operating health programs or facilities under any contract entered into with the Service under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], and
+&emsp;&emsp;&emsp;(III) may include such health care facilities, and such renovation or expansion needs of any health care facility, as the Service may identify; and
 
-&emsp;(B) review the needs of such tribes and tribal organizations for inpatient and outpatient facilities, including their needs for renovation and expansion of existing facilities.
+&emsp;&emsp;&emsp;(iv) shall provide an opportunity for the nomination of planning, design, and construction projects by the Service, Indian tribes, and tribal organizations for consideration under the priority system at least once every 3 years, or more frequently as the Secretary determines to be appropriate.
 
-(3) For purposes of this subsection, the Secretary shall, in evaluating the needs of facilities operated under any contract entered into with the Service under the Indian Self-Determination Act, use the same criteria that the Secretary uses in evaluating the needs of facilities operated directly by the Service.
+#### (B) Needs of facilities under ISDEAA agreements
 
-(4) The Secretary shall ensure that the planning, design, construction, and renovation needs of Service and non-Service facilities which are the subject of a contract for health services entered into with the Service under the Indian Self-Determination Act are fully and equitably integrated into the development of the health facility priority system.
+&emsp;&emsp;The Secretary shall ensure that the planning, design, construction, renovation, and expansion needs of Service and non-Service facilities operated under contracts or compacts in accordance with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) are fully and equitably integrated into the health care facility priority system.
 
-#### (d) Funds appropriated subject to section 450f of this title
+#### (C) Criteria for evaluating needs
 
-All funds appropriated under section 13 of this title for the planning, design, construction, or renovation of health facilities for the benefit of an Indian tribe or tribes shall be subject to the provisions of section 102 of the Indian Self-Determination Act \[25 U.S.C. 450f\].
+&emsp;&emsp;For purposes of this subsection, the Secretary, in evaluating the needs of facilities operated under a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), shall use the criteria used by the Secretary in evaluating the needs of facilities operated directly by the Service.
 
-(Pub. L. 94–437, title III, §301, Sept. 30, 1976, 90 Stat. 1406; Pub. L. 100–713, title III, §301, Nov. 23, 1988, 102 Stat. 4812; Pub. L. 102–573, title III, §301, title IX, §902(4)(B), Oct. 29, 1992, 106 Stat. 4560, 4591.)
+#### (D) Priority of certain projects protected
+
+&emsp;&emsp;The priority of any project established under the construction priority system in effect on March 23, 2010, shall not be affected by any change in the construction priority system taking place after that date if the project—
+
+&emsp;&emsp;&emsp;(i) was identified in the fiscal year 2008 Service budget justification as—
+
+&emsp;&emsp;&emsp;&emsp;(I) 1 of the 10 top-priority inpatient projects;
+
+&emsp;&emsp;&emsp;&emsp;(II) 1 of the 10 top-priority outpatient projects;
+
+&emsp;&emsp;&emsp;&emsp;(III) 1 of the 10 top-priority staff quarters developments; or
+
+&emsp;&emsp;&emsp;&emsp;(IV) 1 of the 10 top-priority Youth Regional Treatment Centers;
+
+&emsp;&emsp;&emsp;(ii) had completed both Phase I and Phase II of the construction priority system in effect on March 23, 2010; or
+
+&emsp;&emsp;&emsp;(iii) is not included in clause (i) or (ii) and is selected, as determined by the Secretary—
+
+&emsp;&emsp;&emsp;&emsp;(I) on the initiative of the Secretary; or
+
+&emsp;&emsp;&emsp;&emsp;(II) pursuant to a request of an Indian tribe or tribal organization.
+
+#### (2) Report; contents
+
+#### (A) Initial comprehensive report
+
+#### (i) Definitions
+
+&emsp;&emsp;&emsp;In this subparagraph:
+
+#### (I) Facilities Appropriation Advisory Board
+
+&emsp;&emsp;&emsp;&emsp;The term “Facilities Appropriation Advisory Board” means the advisory board, comprised of 12 members representing Indian tribes and 2 members representing the Service, established at the discretion of the Director—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) to provide advice and recommendations for policies and procedures of the programs funded pursuant to facilities appropriations; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) to address other facilities issues.
+
+#### (II) Facilities Needs Assessment Workgroup
+
+&emsp;&emsp;&emsp;&emsp;The term “Facilities Needs Assessment Workgroup” means the workgroup established at the discretion of the Director—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) to review the health care facilities construction priority system; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) to make recommendations to the Facilities Appropriation Advisory Board for revising the priority system.
+
+#### (ii) Initial report
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Not later than 1 year after March 23, 2010, the Secretary shall submit to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources of the House of Representativesa report that describes the comprehensive, national, ranked list of all health care facilities needs for the Service, Indian tribes, and tribal organizations (including inpatient health care facilities, outpatient health care facilities, specialized health care facilities (such as for long-term care and alcohol and drug abuse treatment), wellness centers, and staff quarters, and the renovation and expansion needs, if any, of such facilities) developed by the Service, Indian tribes, and tribal organizations for the Facilities Needs Assessment Workgroup and the Facilities Appropriation Advisory Board.
+
+#### (II) Inclusions
+
+&emsp;&emsp;&emsp;&emsp;The initial report shall include—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the methodology and criteria used by the Service in determining the needs and establishing the ranking of the facilities needs; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) such other information as the Secretary determines to be appropriate.
+
+#### (iii) Updates of report
+
+&emsp;&emsp;&emsp;Beginning in calendar year 2011, the Secretary shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) update the report under clause (ii) not less frequently that once every 5 years; and
+
+&emsp;&emsp;&emsp;&emsp;(II) include the updated report in the appropriate annual report under subparagraph (B) for submission to Congress under section 1671 of this title.
+
+#### (B) Annual reports
+
+&emsp;&emsp;The Secretary shall submit to the President, for inclusion in the report required to be transmitted to Congress under section 1671 of this title, a report which sets forth the following:
+
+&emsp;&emsp;&emsp;(i) A description of the health care facility priority system of the Service established under paragraph (1).
+
+&emsp;&emsp;&emsp;(ii) Health care facilities lists, which may include—
+
+&emsp;&emsp;&emsp;&emsp;(I) the 10 top-priority inpatient health care facilities;
+
+&emsp;&emsp;&emsp;&emsp;(II) the 10 top-priority outpatient health care facilities;
+
+&emsp;&emsp;&emsp;&emsp;(III) the 10 top-priority specialized health care facilities (such as long-term care and alcohol and drug abuse treatment); and
+
+&emsp;&emsp;&emsp;&emsp;(IV) the 10 top-priority staff quarters developments associated with health care facilities.
+
+&emsp;&emsp;&emsp;(iii) The justification for such order of priority.
+
+&emsp;&emsp;&emsp;(iv) The projected cost of such projects.
+
+&emsp;&emsp;&emsp;(v) The methodology adopted by the Service in establishing priorities under its health care facility priority system.
+
+#### (3) Requirements for preparation of reports
+
+&emsp;In preparing the report required under paragraph (2), the Secretary shall—
+
+&emsp;&emsp;(A) consult with and obtain information on all health care facilities needs from Indian tribes and tribal organizations; and
+
+&emsp;&emsp;(B) review the total unmet needs of all Indian tribes and tribal organizations for health care facilities (including staff quarters), including needs for renovation and expansion of existing facilities.
+
+#### (d) Review of methodology used for health facilities construction priority system
+
+#### (1) In general
+
+&emsp;Not later than 1 year after the establishment of the priority system under subsection (c)(1)(A), the Comptroller General of the United States shall prepare and finalize a report reviewing the methodologies applied, and the processes followed, by the Service in making each assessment of needs for the list under subsection (c)(2)(A)(ii) and developing the priority system under subsection (c)(1), including a review of—
+
+&emsp;&emsp;(A) the recommendations of the Facilities Appropriation Advisory Board and the Facilities Needs Assessment Workgroup (as those terms are defined in subsection (c)(2)(A)(i)); and
+
+&emsp;&emsp;(B) the relevant criteria used in ranking or prioritizing facilities other than hospitals or clinics.
+
+#### (2) Submission to Congress
+
+&emsp;The Comptroller General of the United States shall submit the report under paragraph (1) to—
+
+&emsp;&emsp;(A) the Committees on Indian Affairs and Appropriations of the Senate;
+
+&emsp;&emsp;(B) the Committees on Natural Resources and Appropriations of the House of Representatives; and
+
+&emsp;&emsp;(C) the Secretary.
+
+#### (e) Funding condition
+
+All funds appropriated under section 13 of this title, for the planning, design, construction, or renovation of health facilities for the benefit of 1 or more Indian Tribes shall be subject to the provisions of section 102 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450f) or sections 504 and 505 of that Act (25 U.S.C. 458aaa–3, 458aaa–4).
+
+#### (f) Development of innovative approaches
+
+The Secretary shall consult and cooperate with Indian tribes and tribal organizations, and confer with urban Indian organizations, in developing innovative approaches to address all or part of the total unmet need for construction of health facilities, that may include—
+
+&emsp;(1) the establishment of an area distribution fund in which a portion of health facility construction funding could be devoted to all Service areas;
+
+&emsp;(2) approaches provided for in other provisions of this subchapter; and
+
+&emsp;(3) other approaches, as the Secretary determines to be appropriate.
+
+#### (h) <sup>1</sup> Funds appropriated subject to section 450f of this title
+
+All funds appropriated under section 13 of this title for the planning, design, construction, or renovation of health facilities for the benefit ofan Indian tribe or tribes shall be subject to the provisions of section 102 of the Indian Self-Determination Act \[25 U.S.C. 450f\].
+
+#### (g) <sup>2</sup> Priority of certain projects protected
+
+The priority of any project established under the construction priority system in effect on March 23, 2010, shall not be affected by any change in the construction priority system taking place after that date if the project—
+
+&emsp;(1) was identified in the fiscal year 2008 Service budget justification as—
+
+&emsp;&emsp;(A) 1 of the 10 top-priority inpatient projects;
+
+&emsp;&emsp;(B) 1 of the 10 top-priority outpatient projects;
+
+&emsp;&emsp;(C) 1 of the 10 top-priority staff quarters developments; or
+
+&emsp;&emsp;(D) 1 of the 10 top-priority Youth Regional Treatment Centers;
+
+&emsp;(2) had completed both Phase I and Phase II of the construction priority system in effect on March 23, 2010; or
+
+&emsp;(3) is not included in clause (i) or (ii) <sup>3</sup> and is selected, as determined by the Secretary—
+
+&emsp;&emsp;(A) on the initiative of the Secretary; or
+
+&emsp;&emsp;(B) pursuant to a request of an Indian tribe or tribal organization.
+
+(Pub. L. 94–437, title III, §301, Sept. 30, 1976, 90 Stat. 1406; Pub. L. 100–713, title III, §301, Nov. 23, 1988, 102 Stat. 4812; Pub. L. 102–573, title III, §301, title IX, §902(4)(B), Oct. 29, 1992, 106 Stat. 4560, 4591; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 #### References in Text
 
-The Indian Self-Determination Act, referred to in subsec. (c)(2) to (4), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(1)(B), (C), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+
+#### Codification
+
+Amendment by Pub. L. 111–148 is based on sections 141 and 142 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which were enacted into law by section 10221(a) of Pub. L. 111–148.
 
 #### Amendments
 
-1992—Subsec. (a)(2). Pub. L. 102–573, §301(1), substituted “Health Care Organizations” for “Hospitals”.
+<b>2010</b>—Pub. L. 111–148 added subsecs. (c) to (f), redesignated former subsec. (d) as (h), added subsec. (g) at end, and struck out former subsec. (c) which related to annual report on health facility priority system.
+
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–573, §301(1), substituted “Health Care Organizations” for “Hospitals”.
 
 Subsec. (b)(1). Pub. L. 102–573, §301(2), struck out “other” before “outpatient health care facility” in introductory provisions and added subpars. (F) and (G).
 
@@ -80,5 +244,11 @@ Subsec. (c)(2) to (5). Pub. L. 102–573, §301(5), redesignated pars. (3) to (5
 
 Subsecs. (d), (e). Pub. L. 102–573, §§301(3), 902(4)(B), redesignated subsec. (e) as (d) and substituted “section 102 of the Indian Self-Determination Act” for “sections 102 and 103(b) of the Indian Self-Determination Act”. Former subsec. (d) redesignated (c).
 
-1988—Pub. L. 100–713 amended section generally, substituting subsecs. (a) to (e) relating to consultation, closure of facilities, and reports for former subsecs. (a) to (c) relating to construction and renovation of Service facilities.
+<b>1988</b>—Pub. L. 100–713 amended section generally, substituting subsecs. (a) to (e) relating to consultation, closure of facilities, and reports for former subsecs. (a) to (c) relating to construction and renovation of Service facilities.
+
+<i><sup>1</sup></i><i> So in original. Subsec. (g) is set out below.</i>
+
+<i><sup>2</sup></i><i> So in original. Subsec. (h) is set out above.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “paragraph (1) or (2)”.</i>
 

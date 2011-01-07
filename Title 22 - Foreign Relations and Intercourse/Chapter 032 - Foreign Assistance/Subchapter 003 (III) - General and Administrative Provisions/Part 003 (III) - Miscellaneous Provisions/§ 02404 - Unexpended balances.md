@@ -14,9 +14,9 @@ The Latin American Development Act, as amended, referred to in text, is Pub. L. 
 
 #### Amendments
 
-1965—Pub. L. 89–171 substituted “the Latin American Development Act, as amended” for “Public Law 86–735”.
+<b>1965</b>—Pub. L. 89–171 substituted “the Latin American Development Act, as amended” for “Public Law 86–735”.
 
-1963—Pub. L. 88–205 included balances of funds made available under Public Law 86–735.
+<b>1963</b>—Pub. L. 88–205 included balances of funds made available under Public Law 86–735.
 
-1962—Pub. L. 87–565 inserted “this chapter” after “pursuant to”.
+<b>1962</b>—Pub. L. 87–565 inserted “this chapter” after “pursuant to”.
 

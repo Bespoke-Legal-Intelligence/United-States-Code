@@ -16,9 +16,9 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-2000—Pub. L. 106–518 substituted “Eugene or Springfield” for “Eugene”.
+<b>2000</b>—Pub. L. 106–518 substituted “Eugene or Springfield” for “Eugene”.
 
-1970—Pub. L. 91–272 provided for holding court at Coquille.
+<b>1970</b>—Pub. L. 91–272 provided for holding court at Coquille.
 
-1950—Act Aug. 3, 1950, provided for holding court at Eugene.
+<b>1950</b>—Act Aug. 3, 1950, provided for holding court at Eugene.
 

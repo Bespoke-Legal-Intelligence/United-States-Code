@@ -18,7 +18,7 @@ Whoever shall willfully violate any regulation of the Commission issued pursuant
 
 #### Amendments
 
-2005—Pub. L. 109–58, §654(1), (2), substituted “on” for “upon” in section catchline and realigned margins.
+<b>2005</b>—Pub. L. 109–58, §654(1), (2), substituted “on” for “upon” in section catchline and realigned margins.
 
 Subsec. (a). Pub. L. 109–58, §654(3), designated first sentence as par. (1), substituted “in the custody of the Commission, or subject to the licensing authority of the Commission or certification by the Commission under this chapter or any other Act” for “or in the custody of the Commission”, and designated second sentence as par. (2).
 

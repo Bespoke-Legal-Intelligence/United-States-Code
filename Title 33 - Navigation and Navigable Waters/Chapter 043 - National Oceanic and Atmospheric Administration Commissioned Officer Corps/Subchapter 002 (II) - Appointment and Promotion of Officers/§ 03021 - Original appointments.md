@@ -30,7 +30,7 @@ Each person appointed under this section shall be placed on the lineal list in a
 
 #### (1) In general
 
-&emsp;For the purposes of basic pay, a person appointed under this section in the grade of lieutenant shall be credited as having, on the date of that appointment, three years of service, and a person appointed under this section in the grade of lieutenant (junior grade) shall be credited as having, as of the date of that appointment, 11/2 years of service.
+&emsp;For the purposes of basic pay, a person appointed under this section in the grade of lieutenant shall be credited as having, on the date of that appointment, three years of service, and a person appointed under this section in the grade of lieutenant (junior grade) shall be credited as having, as of the date of that appointment, 1½ years of service.
 
 #### (2) Higher credit under other law
 

@@ -74,15 +74,15 @@ This corrects an error in an amendment to 10:2665 made by section 12(3)(B) of th
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–163 struck out “under section 2664 of this title” after “land that is acquired”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 struck out “under section 2664 of this title” after “land that is acquired”.
 
-2002—Subsec. (b). Pub. L. 107–296 substituted “Department in which the Coast Guard is operating” for “Department of Transportation”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–296 substituted “Department in which the Coast Guard is operating” for “Department of Transportation”.
 
-1986—Subsec. (d). Pub. L. 99–561, §4(1), struck out “available for operation and maintenance during a fiscal year” after “Defense”, substituted “costs” for “expenses”, and struck out “during such fiscal year” after “such property”.
+<b>1986</b>—Subsec. (d). Pub. L. 99–561, §4(1), struck out “available for operation and maintenance during a fiscal year” after “Defense”, substituted “costs” for “expenses”, and struck out “during such fiscal year” after “such property”.
 
 Subsec. (e)(1). Pub. L. 99–561, §4(2), struck out “for all expenses of production of forest products” after “subsection (d)”.
 
-Subsec. (f)(1). Pub. L. 99–561, §4(3)(A), (B), substituted “costs” for “expenses” in provisions preceding subpar. (A) and amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “for expenses to enable operations of forest lands and the production of forest products to continue from the end of one fiscal year through the beginning of the next fiscal year without disruption.”
+Subsec. (f)(1). Pub. L. 99–561, §4(3)(A), (B), substituted “costs” for “expenses” in provisions preceding subpar. (A) and amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “for expenses to enable operations of forest lands and the production of forest products to continue from the end of one fiscalyear through the beginning of the next fiscal year without disruption.”
 
 Subsec. (f)(2), (3). Pub. L. 99–561, §4(3)(C), amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
 
@@ -90,7 +90,7 @@ Subsec. (f)(2), (3). Pub. L. 99–561, §4(3)(C), amended pars. (2) and (3) gene
 
 “(3) The balance in the reserve account may not exceed $4,000,000. If a deposit under paragraph (2) would cause the balance in the account to exceed that amount, the deposit shall be made only to the extent the amount of the deposit would not cause the balance in the account to exceed $4,000,000.”
 
-1984—Subsec. (b). Pub. L. 98–407, §809(a)(1), substituted “forest products produced on land owned or leased by a military department or the” for “logs wholly or partly manufactured by, or otherwise procured for, the Army, Navy, or Air Force, or”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–407, §809(a)(1), substituted “forest products produced on land owned or leased by a military department or the” for “logs wholly or partly manufactured by, or otherwise procured for, the Army, Navy, or Air Force, or”.
 
 Subsec. (d). Pub. L. 98–407, §809(a)(2), substituted “forest products” for “lumber and timber products”.
 
@@ -98,15 +98,15 @@ Subsec. (e)(1). Pub. L. 98–407, §809(a)(3), substituted “forest products”
 
 Subsec. (f). Pub. L. 98–407, §809(a)(4), added subsec. (f).
 
-1982—Subsecs. (a), (b). Pub. L. 97–295 substituted “executive department, may sell” for “executive department” and all that followed through “may sell” in subsecs. (a) and (b), and substituted “Air Force, or Department of Transportation.” for “Air Force” and all that followed in subsec. (b), clarifying the ambiguity created by the conflicting language of Pub. L. 96–513 and Pub. L. 97–31.
+<b>1982</b>—Subsecs. (a), (b). Pub. L. 97–295 substituted “executive department, may sell” for “executive department” and all that followed through “may sell” in subsecs. (a) and (b), and substituted “Air Force, or Department of Transportation.” for “Air Force” and all that followed in subsec. (b), clarifying the ambiguity created by the conflicting language of Pub. L. 96–513 and Pub. L. 97–31.
 
-1981—Subsecs. (a), (b). Pub. L. 97–31 struck out reference to Federal Maritime Commission in subsec. (a), and substituted “or Department of Transportation” for “or Federal Maritime Commission” and struck out “or the Federal Maritime Commission” after “department” in subsec. (b). Amendment was executed to text in accordance with the probable intent of Congress, notwithstanding amendment of section by Pub. L. 96–513 which substituted different language than language contained in amendatory provisions of Pub. L. 97–31.
+<b>1981</b>—Subsecs. (a), (b). Pub. L. 97–31 struck out reference to Federal Maritime Commission in subsec. (a), and substituted “or Department of Transportation” for “or Federal Maritime Commission” and struck out “or the Federal Maritime Commission” after “department” in subsec. (b). Amendment was executed to text in accordance with the probable intent of Congress, notwithstanding amendment of section by Pub. L. 96–513 which substituted different language than language contained in amendatory provisions of Pub. L. 97–31.
 
 Subsec. (e). Pub. L. 97–99 added subsec. (e).
 
-1980—Subsecs. (a), (b). Pub. L. 96–513 substituted “Federal Maritime Commission” for “Federal Maritime Board”.
+<b>1980</b>—Subsecs. (a), (b). Pub. L. 96–513 substituted “Federal Maritime Commission” for “Federal Maritime Board”.
 
-1977—Subsec. (d). Pub. L. 95–82 substituted provisions relating to reimbursement of production expenses during any fiscal year from proceeds from sales for property during such fiscal year, for provisions requiring proceeds from sales under subsecs. (a) or (b) of this section to be credited to the appropriations under which the property concerned was procured.
+<b>1977</b>—Subsec. (d). Pub. L. 95–82 substituted provisions relating to reimbursement of production expenses during any fiscal year from proceeds from sales for property during such fiscal year, for provisions requiring proceeds from sales under subsecs. (a) or (b) of this section to be credited to the appropriations under which the property concerned was procured.
 
 #### Effective Date of 2002 Amendment
 

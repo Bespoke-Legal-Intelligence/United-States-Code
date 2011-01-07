@@ -24,27 +24,33 @@ An exchange shall not be registered as a national securities exchange unless the
 
 &emsp;(8) The rules of the exchange do not impose any burden on competition not necessary or appropriate in furtherance of the purposes of this chapter.
 
-&emsp;(9) The rules of the exchange prohibit the listing of any security issued in a limited partnership rollup transaction (as such term is defined in paragraphs (4) and (5) of section 78n(h) of this title), unless such transaction was conducted in accordance with procedures designed to protect the rights of limited partners, including—
+&emsp;(9)(A) The rules of the exchange prohibit the listing of any security issued in a limited partnership rollup transaction (as such term is defined in paragraphs (4) and (5) of section 78n(h) of this title), unless such transaction was conducted in accordance with procedures designed to protect the rights of limited partners, including—
 
-&emsp;&emsp;(A) the right of dissenting limited partners to one of the following:
+&emsp;&emsp;(i) the right of dissenting limited partners to one of the following:
 
-&emsp;&emsp;&emsp;(i) an appraisal and compensation;
+&emsp;&emsp;&emsp;(I) an appraisal and compensation;
 
-&emsp;&emsp;&emsp;(ii) retention of a security under substantially the same terms and conditions as the original issue;
+&emsp;&emsp;&emsp;(II) retention of a security under substantially the same terms and conditions as the original issue;
 
-&emsp;&emsp;&emsp;(iii) approval of the limited partnership rollup transaction by not less than 75 percent of the outstanding securities of each of the participating limited partnerships;
+&emsp;&emsp;&emsp;(III) approval of the limited partnership rollup transaction by not less than 75 percent of the outstanding securities of each of the participating limited partnerships;
 
-&emsp;&emsp;&emsp;(iv) the use of a committee of limited partners that is independent, as determined in accordance with rules prescribed by the exchange, of the general partner or sponsor, that has been approved by a majority of the outstanding units of each of the participating limited partnerships, and that has such authority as is necessary to protect the interest of limited partners, including the authority to hire independent advisors, to negotiate with the general partner or sponsor on behalf of the limited partners, and to make a recommendation to the limited partners with respect to the proposed transaction; or
+&emsp;&emsp;&emsp;(IV) the use of a committee of limited partners that is independent, as determined in accordance with rules prescribed by the exchange, of the general partner or sponsor, that has been approved by a majority of the outstanding units of each of the participating limited partnerships, and that has such authority as is necessary to protect the interest of limited partners, including the authority to hire independent advisors, to negotiate with the general partner or sponsor on behalf of the limited partners, and to make a recommendation to the limited partners with respect to the proposed transaction; or
 
-&emsp;&emsp;&emsp;(v) other comparable rights that are prescribed by rule by the exchange and that are designed to protect dissenting limited partners;
+&emsp;&emsp;&emsp;(V) other comparable rights that are prescribed by rule by the exchange and that are designed to protect dissenting limited partners;
 
-&emsp;&emsp;(B) the right not to have their voting power unfairly reduced or abridged;
+&emsp;&emsp;(ii) the right not to have their voting power unfairly reduced or abridged;
 
-&emsp;&emsp;(C) the right not to bear an unfair portion of the costs of a proposed limited partnership rollup transaction that is rejected; and
+&emsp;&emsp;(iii) the right not to bear an unfair portion of the costs of a proposed limited partnership rollup transaction that is rejected; and
 
-&emsp;&emsp;(D) restrictions on the conversion of contingent interests or fees into non-contingent interests or fees and restrictions on the receipt of a non-contingent equity interest in exchange for fees for services which have not yet been provided.
+&emsp;&emsp;(iv) restrictions on the conversion of contingent interests or fees into non-contingent interests or fees and restrictions on the receipt of a non-contingent equity interest in exchange for fees for services which have not yet been provided.
 
-> &emsp;As used in this paragraph, the term “dissenting limited partner” means a person who, on the date on which soliciting material is mailedto investors, is a holder of a beneficial interest in a limited partnership that is the subject of a limited partnership rollup transaction, and who casts a vote against the transaction and complies with procedures established by the exchange, except that for purposes of an exchange or tender offer, such person shall file an objection in writing under the rules of the exchange during the period during which the offer is outstanding.
+&emsp;(B) As used in this paragraph, the term “dissenting limited partner” means a person who, on the date on which soliciting material is mailed to investors, is a holder of a beneficial interest in a limited partnership that is the subject of a limited partnership rollup transaction, and who casts a vote against the transaction and complies with procedures established by the exchange, except that for purposes of an exchange or tender offer, such person shall file an objection in writing under the rules of the exchange during the period during which the offer is outstanding.
+
+&emsp;(10)(A) The rules of the exchange prohibit any member that is not the beneficial owner of a security registered under section 78<i>l</i> of this title from granting a proxy to vote the security in connection with a shareholder vote described in subparagraph (B), unless the beneficial owner of the security has instructed the member to vote the proxy in accordance with the voting instructions of the beneficial owner.
+
+&emsp;(B) A shareholder vote described in this subparagraph is a shareholder vote with respect to the election of a member of the board of directors of an issuer, executive compensation, or any other significant matter, as determined by the Commission, by rule, and does not include a vote with respect to the uncontested election of a member of the board of directors of any investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\].
+
+&emsp;(C) Nothing in this paragraph shall be construed to prohibit a national securities exchange from prohibiting a member that is not the beneficial owner of a security registered under section 78<i>l</i> of this title from granting a proxy to vote the security in connection with a shareholder vote not described in subparagraph (A).
 
 #### (c) Denial of membership in national exchanges; denial of association with member; conditions; limitation of membership
 
@@ -54,7 +60,7 @@ An exchange shall not be registered as a national securities exchange unless the
 
 (3)(A) A national securities exchange may deny membership to, or condition the membership of, a registered broker or dealer if (i) such broker or dealer does not meet such standards of financial responsibility or operational capability or such broker or dealer or any natural person associated with such broker or dealer does not meet such standards of training, experience, and competence as are prescribed by the rules of the exchange or (ii) such broker or dealer or person associated with such broker or dealer has engaged and there is a reasonable likelihood he may again engage in acts or practices inconsistent with just and equitable principles of trade. A national securities exchange may examine and verify the qualifications of an applicant to become a member and the natural persons associated with such an applicant in accordance with procedures established by the rules of the exchange.
 
-(B) A national securities exchange may bar a natural person from becoming a member or associated with a member, or condition the membership of a natural person or association of a natural person with a member, if such natural person (i) does not meet such standards of training, experience, and competence as are prescribed by the rules of the exchange or (ii) has engaged and there is a reasonable likelihood he may again engage in acts or practices inconsistent with just and equitable principles of trade. A national securities exchange may examine and verify the qualifications of an applicant to become a person associated with a member in accordance with procedures established by the rules of the exchange and require any person associated with a member, or any class of such persons, to be registered with the exchange in accordance with procedures so established.
+(B) A national securities exchange may bar a natural person from becoming a member or associated with a member, or condition the membership of a natural person or association of a natural person with a member, if such natural person (i) does not meet such standards of training, experience, and competence as are prescribed by the rules of the exchange or (ii) has engaged and there is a reasonable likelihood hemay again engage in acts or practices inconsistent with just and equitable principles of trade. A national securities exchange may examine and verify the qualifications of an applicant to become a person associated with a member in accordance with procedures established by the rules of the exchange and require any person associated with a member, or any class of such persons, to be registered with the exchange in accordance with procedures so established.
 
 (C) A national securities exchange may bar any person from becoming associated with a member if such person does not agree (i) to supply the exchange with such information with respect to its relationship and dealings with the member as may be specified in the rules of the exchange and (ii) to permit the examination of its books and records to verify the accuracy of any information so supplied.
 
@@ -76,7 +82,7 @@ An exchange shall not be registered as a national securities exchange unless the
 
 #### (e) Commissions, allowances, discounts, and other fees
 
-(1) On and after June 4, 1975, no national securities exchange may impose any schedule or fix rates of commissions, allowances, discounts, or other fees to be charged by its members: <i>Provided, however</i>, That until May 1, 1976, the preceding provisions of this paragraph shall not prohibit any such exchange from imposing or fixing any schedule of commissions, allowances, discounts, or other fees to be charged by its members for acting as broker on the floor of the exchange or as odd-lot dealer: <i>And provided further</i>, That the Commission, in accordance with the provisions of section 78s(b) of this title as modified by the provisions of paragraph (3) of this subsection, may—
+(1) On and after June 4, 1975, no national securities exchange may impose any schedule or fix rates of commissions, allowances, discounts, or other fees to be charged by its members: <i>Provided, however</i>, That until May 1, 1976, the preceding provisions of this paragraph shall not prohibit any such exchange from imposing or fixing any schedule of commissions, allowances, discounts, or other fees to be charged by itsmembers for acting as broker on the floor of the exchange or as odd-lot dealer: <i>And provided further</i>, That the Commission, in accordance with the provisions of section 78s(b) of this title as modified by the provisions of paragraph (3) of this subsection, may—
 
 &emsp;(A) permit a national securities exchange, by rule, to impose a reasonable schedule or fix reasonable rates of commissions, allowances, discounts, or other fees to be charged by its members for effecting transactions on such exchange prior to November 1, 1976, if the Commission finds that such schedule or fixed rates of commissions, allowances, discounts, or other fees are in the public interest; and
 
@@ -222,7 +228,7 @@ The Commission, by rule or order, as it deems necessary or appropriate in the pu
 
 &emsp;&emsp;(D) except as otherwise provided in a rule, regulation, or order issued pursuant to paragraph (4), require that the security future be based upon common stock and such other equity securities as the Commission and the Commodity Futures Trading Commission jointly determine appropriate;
 
-&emsp;&emsp;(E) require that the security futures product is cleared by a clearing agency that has in place provisions for linked and coordinated clearing with other clearing agenciesthat clear security futures products, which permits the security futures product to be purchased on one market and offset on another market that trades such product;
+&emsp;&emsp;(E) require that the security futures product is cleared by a clearing agency that has in place provisions for linked and coordinated clearing with other clearing agencies that clear security futures products, which permits the security futures product to be purchased on one market and offset on another market that trades such product;
 
 &emsp;&emsp;(F) require that only a broker or dealer subject to suitability rules comparable to those of a national securities association registered pursuant to section 78<i>o</i>–3(a) of this title effect transactions in the security futures product;
 
@@ -296,17 +302,47 @@ A national securities exchange registered pursuant to subsection (a) of this sec
 
 (2) The rules, regulations, or orders adopted under paragraph (1) shall take into account, as appropriate, the nature and size of the markets that the securities underlying the security futures product reflect.
 
-(June 6, 1934, ch. 404, title I, §6, 48 Stat. 885; Pub. L. 94–29, §4, June 4, 1975, 89 Stat. 104; Pub. L. 100–181, title III, §§309–312, Dec. 4, 1987, 101 Stat. 1255; Pub. L. 103–202, title III, §303(b), Dec. 17, 1993, 107 Stat. 2365; Pub. L. 106–554, §1(a)(5) \[title II, §§202(a), 206(a), (i), (k)(2), (<i>l</i>)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–416, 2763A–426, 2763A–433, 2763A–434.)
+(June 6, 1934, ch. 404, title I, §6, 48 Stat. 885; Pub. L. 94–29, §4, June 4, 1975, 89 Stat. 104; Pub. L. 100–181, title III, §§309–312, Dec. 4, 1987, 101 Stat. 1255; Pub. L. 103–202, title III, §303(b), Dec. 17, 1993, 107 Stat. 2365; Pub. L. 106–554, §1(a)(5) \[title II, §§202(a), 206(a), (i), (k)(2), (<i>l</i>)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–416, 2763A–426, 2763A–433, 2763A–434; Pub. L. 111–203, title VII, §§721(e)(8), 734(b)(2), 763(e), title IX, §957, July 21, 2010, 124 Stat. 1671, 1718, 1777, 1906.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title VII, §§721(e)(8), 734(b)(2), 754, July 21, 2010, 124 Stat. 1671, 1718, 1754, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, subsection (g) of this section is amended—</i>
+
+<i>(1) in paragraph (1)(A)—</i>
+
+<i>(A) by striking “that—” and all that follows through “(i) has been designated” and inserting “that has been designated”;</i>
+
+<i>(B) by striking “; or” and inserting “; and” and</i>
+
+<i>(C) by striking clause (ii); and</i>
+
+<i>(2) in paragraph (5)(B)(i)—</i>
+
+<i>(A) in subclause (I), by striking “section 1a(12)(B)(ii)” and inserting “section 1a(18)(B)(ii)”; and</i>
+
+<i>(B) in subclause (II), by striking “section 1a(12)” and inserting “section 1a(18)”.</i>
+
+<i>Pub. L. 111–203, title VII, §§763(e), 774, July 21, 2010, 124 Stat. 1777, 1802, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, this section is amended by adding at the end the following:</i>
+
+#### <i>(l) Security-based swaps</i>
+
+<i>It shall be unlawful for any person to effect a transaction in a security-based swap with or for a person that is not an eligible contract participant, unless such transaction is effected on a national securities exchange registered pursuant to subsection (b).</i>
 
 #### References in Text
 
 This chapter, referred to in subsecs. (b) to (e), (g)(4)(A), (h)(3)(G), (7)(C)(ii), and (i), was in the original “this title”. This chapter, referred to in subsec. (h)(6), was in the original “this Act”. See References in Text note set out under section 78a of this title.
 
-The Commodity Exchange Act, referred to in subsecs. (g)(1)(A) and (h)(6), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Investment Company Act of 1940, referred to in subsec. (b)(10)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+
+The Commodity Exchange Act, referred to in subsecs. (g)(1)(A) and (h)(6), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 #### Amendments
 
-2000—Subsec. (g). Pub. L. 106–554, §1(a)(5) \[title II, §202(a)\], added subsec. (g).
+<b>2010</b>—Subsec. (b)(9). Pub. L. 111–203, §957(1), designated introductory provisions and subpars. (A) to (D) as subpar. (A), redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A) and realigned margins, redesignated former cls. (i) to (v) of subpar. (A) as subcls. (I) to (V), respectively, of cl. (i) and realigned margins, and designated concluding provisions as subpar. (B).
+
+Subsec. (b)(10). Pub. L. 111–203, §957(2), added par. (10).
+
+<b>2000</b>—Subsec. (g). Pub. L. 106–554, §1(a)(5) \[title II, §202(a)\], added subsec. (g).
 
 Subsec. (h). Pub. L. 106–554, §1(a)(5) \[title II, §206(a)\], added subsec. (h).
 
@@ -316,9 +352,9 @@ Subsec. (j). Pub. L. 106–554, §1(a)(5) \[title II, §206(k)(2)\], added subse
 
 Subsec. (k). Pub. L. 106–554, §1(a)(5) \[title II, §206(<i>l</i>)\], added subsec. (k).
 
-1993—Subsec. (b)(9). Pub. L. 103–202 added par. (9).
+<b>1993</b>—Subsec. (b)(9). Pub. L. 103–202 added par. (9).
 
-1987—Subsec. (c)(2). Pub. L. 100–181, §309, substituted “protection of investors shall” for “protection shall”.
+<b>1987</b>—Subsec. (c)(2). Pub. L. 100–181, §309, substituted “protection of investors shall” for “protection shall”.
 
 Subsec. (c)(3)(A). Pub. L. 100–181, §310, substituted “associated” for “association”.
 
@@ -328,7 +364,15 @@ Subsec. (e)(1). Pub. L. 100–181, §312(1), substituted “paragraph (3) of thi
 
 Subsec. (e)(3), (4). Pub. L. 100–181, §312(2), (3), redesignated par. (4) as (3) and, in subpar. (E), substituted “fixing” for “fixes” in introductory provisions, “subparagraph (A) of this paragraph” for “paragraph (4)(A) of this subsection” in cl. (1), and “subparagraph (B) of this paragraph” for “paragraph (4)(B) of this subsection” in cl. (2), and struck out former par. (3) which read as follows: “Until December 31, 1976, the Commission, on a regular basis, shall file with the Speaker of the House and the President of the Senate information concerning the effect on the public interest, protection of investors, and maintenance of fair and orderly markets of the absence of any schedule or fixed rates of commissions, allowances, discounts, or other fees to be charged by members of any national securities exchange for effecting transactions on such exchange.”
 
-1975—Pub. L. 94–29 restructured the entire section and, in addition, authorized the Commission to require an exchange to file such documents and information as it deems necessary or appropriate in the public interest or for the protection of investors and to prescribe the form and substance of an exchange's application for registration, expanded to eight the number of explicit statutory requirements that must be satisfied before an exchange may be registered as a national securities exchange, set forth the authority of a national securities exchange to admit or deny persons membership or association with members, prescribed exchange procedures for instituting disciplinary actions, denying membership, and summarily suspending members or persons associated with members, specified the authority of national securities exchanges to impose schedules or fix rates of commissions, allowances, discounts, or other fees to be charged by its members for transacting business on the exchange, and empowered the Commission to regulate any broker or dealer who effects transactions on an exchange on a regular basis but who is not a member of that exchange and any person who effects transactions on an exchange without the services of another person acting as broker.
+<b>1975</b>—Pub. L. 94–29 restructured the entire section and, in addition, authorized the Commission to require an exchange to file such documents and information as it deems necessary or appropriate in the public interest or for the protection of investors and to prescribe the form and substance of an exchange's application for registration, expanded to eight the number of explicit statutory requirements that must be satisfied before an exchange may be registered as a national securities exchange, set forth the authority of a national securities exchange to admit or deny persons membership or association with members, prescribed exchange procedures for instituting disciplinary actions, denying membership, and summarily suspending members or persons associated with members, specified the authority of national securities exchanges to impose schedules or fix rates of commissions, allowances, discounts, or other fees to be charged by its members for transacting business on the exchange, and empowered the Commission to regulate any broker or dealer who effects transactions on an exchange on a regular basis but who is not a member of that exchange and any person who effects transactions on an exchange without the services of another person acting as broker.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 957 of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+
+Amendment by sections 721(e)(8) and 734(b)(2) of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of Title 7, Agriculture.
+
+Amendment by section 763(e) of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
 
 #### Effective Date of 1993 Amendment
 

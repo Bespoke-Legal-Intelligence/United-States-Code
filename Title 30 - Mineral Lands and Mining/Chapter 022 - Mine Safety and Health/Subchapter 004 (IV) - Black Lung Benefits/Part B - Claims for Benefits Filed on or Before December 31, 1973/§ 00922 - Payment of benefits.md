@@ -4,7 +4,7 @@
 
 Subject to the provisions of subsection (b) of this section, benefit payments shall be made by the Secretary under this part as follows:
 
-(1) In the case of total disability of a miner due to pneumoconiosis, the disabled miner shall be paid benefits during the disability at a rate equal to 371/2 per centum of the monthly pay rate for Federal employees in grade GS–2, step 1.
+(1) In the case of total disability of a miner due to pneumoconiosis, the disabled miner shall be paid benefits during the disability at a rate equal to 37½ per centum of the monthly pay rate for Federal employees in grade GS–2, step 1.
 
 (2) In the case of death of a miner due to pneumoconiosis or, except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Benefits Amendments of 1981, of a miner receiving benefits under this part, benefits shall be paid to his widow (if any) at the rate the deceased miner would receive such benefits if he were totally disabled.
 
@@ -12,7 +12,7 @@ Subject to the provisions of subsection (b) of this section, benefit payments sh
 
 (4) In the case of an individual entitled to benefit payments under clause (1) or (2) of this subsection who has one or more dependents, the benefit payments shall be increased at the rate of 50 per centum of such benefit payments, if such individual has one dependent, 75 per centum if such individual has two dependents, and 100 per centum if such individual has three or more dependents.
 
-(5) In the case of the dependent parent or parents of a miner whose death is due to pneumoconiosis, or, except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Benefits Amendments of 1981, of a miner who is receiving benefits under this part at the time of his death or who was totally disabled by pneumoconiosis at the time of death, and who is not survived at the time of his death by a widow or a child, inthe case of the dependent surviving brother(s) or sister(s) of such a miner who is not survived at the time of his death by a widow, child, or parent, in the case of the dependent parent or parents of a miner (who is not survived at the time of his or her death by a widow or a child) who are entitled to the payment of benefits under paragraph (5) of section 921(c) of this title, or in the case of the dependent surviving brother(s) or sister(s) of a miner (who is not survived at the time of his or her death by a widow, child, or parent) who are entitled to the payment of benefits under paragraph (5) of section 921(c) of this title, benefits shall be paid under this part to such parent(s), or to such brother(s), or sister(s), at the rate specified in paragraph (3) (as if such parent(s) or such brother(s) or sister(s), were the children of such miner). In determining for purposes of this paragraph whether a claimant bears the relationship as the miner's parent, brother, or sister, the Secretary shall apply legal standards consistent with those applicable to relationship determination under title II of the Social Security Act \[42 U.S.C. 401 et seq.\]. No benefits to a sister or brother shall be payable under this paragraph for any month beginning with the month in which he or she receives support from his or her spouse, or marries. Benefits shall be payable under this paragraph to a brother only if he is—
+(5) In the case of the dependent parent or parents of a miner whose death is due to pneumoconiosis, or, except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Benefits Amendments of 1981, of a miner who is receiving benefits under this part at the time of his death or who was totally disabled by pneumoconiosis at the time of death, and who is not survived at the time of his death by a widow or a child, in the case of the dependent surviving brother(s) or sister(s) of such a miner who is not survived at the time of his death by a widow, child, or parent, in the case of the dependent parent or parents of a miner (who is not survived at the time of his or her death by a widow or a child) who are entitled to the payment of benefits under paragraph (5) of section 921(c) of this title, or in the case of the dependent surviving brother(s) or sister(s) of a miner (who is not survived at the time of his or her death by a widow, child, or parent) who are entitled to the payment of benefits under paragraph (5) of section 921(c) of this title, benefits shall be paid under this part tosuch parent(s), or to such brother(s), or sister(s), at the rate specified in paragraph (3) (as if such parent(s) or such brother(s) or sister(s), were the children of such miner). In determining for purposes of this paragraph whether a claimant bears the relationship as the miner's parent, brother, or sister, the Secretary shall apply legal standards consistent with those applicable to relationship determination under title II of the Social Security Act \[42 U.S.C. 401 et seq.\]. No benefits to a sister or brother shall be payable under this paragraph for any month beginning with the month in which he or she receives support from his or her spouse, or marries. Benefits shall be payable under this paragraph to a brother only if he is—
 
 &emsp;(1)(A) under eighteen years of age, or
 
@@ -46,13 +46,13 @@ The Internal Revenue Code of 1986, referred to in subsec. (c), is classified to 
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–275 substituted “Secretary” for “Commissioner of Social Security” wherever appearing.
+<b>2002</b>—Subsec. (a). Pub. L. 107–275 substituted “Secretary” for “Commissioner of Social Security” wherever appearing.
 
-1994—Subsec. (a). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
+<b>1994</b>—Subsec. (a). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
-1986—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1981—Subsec. (a)(1). Pub. L. 97–119, §203(d), substituted “371/2 per centum of the monthly pay rate for Federal employees in grade GS–2, step 1” for “50 per centum of the minimum monthly payment to which a Federal employee in grade GS–2, who is totally disabled, is entitled at the time of payment under chapter 81 of title 5”.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–119, §203(d), substituted “37½ per centum of the monthly pay rate for Federal employees in grade GS–2, step 1” for “50 per centum of the minimum monthly payment to which a Federal employee in grade GS–2, who is totally disabled, is entitled at the time of payment under chapter 81 of title 5”.
 
 Subsec. (a)(2). Pub. L. 97–119, §203(a)(1), inserted “, except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Amendments of 1981,” after “pneumoconiosis or”.
 
@@ -60,13 +60,13 @@ Subsec. (a)(3). Pub. L. 97–119, §203(a)(2), inserted “, except with respec
 
 Subsec. (a)(5). Pub. L. 97–119, §203(a)(3), inserted “, except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Benefits Amendments of 1981,” after “pneumoconiosis, or” and substituted “time of his death or who was totally” for “time of his death, or of a miner who was totally”.
 
-1978—Subsec. (a)(3). Pub. L. 95–239, §3(b)(1)(A), inserted reference to any child or children entitled to the payment of benefits under paragraph (5) of section 921(c) of this title.
+<b>1978</b>—Subsec. (a)(3). Pub. L. 95–239, §3(b)(1)(A), inserted reference to any child or children entitled to the payment of benefits under paragraph (5) of section 921(c) of this title.
 
 Subsec. (a)(5). Pub. L. 95–239, §3(b)(1)(B), inserted references to the payment of benefits under par. (5) of section 921(c) of this title.
 
 Subsec. (b). Pub. L. 95–239, §4, substituted “on account of the disability of such miner due to pneumoconiosis” for “on account of the disability of such miner”.
 
-1972—Subsec. (a)(3), (4). Pub. L. 92–303, §1(b)(1), added par. (3) and redesignated former par. (3) as par. (4).
+<b>1972</b>—Subsec. (a)(3), (4). Pub. L. 92–303, §1(b)(1), added par. (3) and redesignated former par. (3) as par. (4).
 
 Subsec. (a)(5), (6). Pub. L. 92–303, §1(b)(2), added pars. (5) and (6).
 

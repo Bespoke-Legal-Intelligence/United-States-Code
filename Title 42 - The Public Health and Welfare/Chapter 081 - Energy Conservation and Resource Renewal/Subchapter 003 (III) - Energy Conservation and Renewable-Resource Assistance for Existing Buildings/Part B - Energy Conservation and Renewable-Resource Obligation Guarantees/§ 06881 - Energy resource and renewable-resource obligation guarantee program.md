@@ -6,7 +6,7 @@
 
 &emsp;(A) such obligation is entered into or issued by any person or by any State, political subdivision of a State, or agency and instrumentality of either a State or political subdivision thereof; and
 
-&emsp;(B) the purpose of entering into or issuing such obligation is the financing of any energy conservation measure or renewable-resource energy measure which is to be installed or otherwise implemented in any building or industrial plant owned or operated by the personor State, political subdivision of a State, or agency or instrumentality of either a State or political subdivision thereof, (i) which enters into or issues such obligation, or (ii) to which such measure is leased.
+&emsp;(B) the purpose of entering into or issuing such obligation is the financing of any energy conservation measure or renewable-resource energy measure which is to be installed or otherwise implemented in any building or industrial plant owned or operated by the person or State, political subdivision of a State, or agency or instrumentality of either a State or political subdivision thereof, (i) which enters into or issues such obligation, or (ii) to which such measure is leased.
 
 (2) No guarantee or commitment to guarantee may be issued under this subsection with respect to any obligation—
 
@@ -52,7 +52,7 @@ The original principal amount guaranteed under subsection (a) may not exceed 90 
 
 #### (f) Default in payment of principal due under guaranteed obligation; procedures applicable
 
-(1) If there is a default by the obligor in any payment of principal due under an obligation guaranteed under subsection (a) of this section, and if such default continues for 30 days, the holder of such obligation or his agent has the right to demand payment by the Secretary of the unpaid principal of such obligation, consistent with the terms of the guarantee of such obligation. Such payment may be demanded within such period as may be specified in the guarantee or related agreements, which period shall expire not later than 90 days from the date of such default. If demand occurs within such specified period, then not later than 60 days from the date of such demand, the Secretary shall pay to such holder the unpaid principal of such obligation, consistent with the terms of the guarantee of such obligation; except that (A) the Secretary shall not be required to make any such payment if he finds, prior to the expiration of the 60-day period beginning on the date on which the demand is made, that there was no default by the obligor in the payment of principal or that such default has been remedied, and (B) no such holder shall receive payment or be entitled to retain payment in a total amount which together with any other recovery (including any recovery based upon any security interest) exceeds the actual loss of principal by such holder.
+(1) If there is a default by the obligor in any payment of principal due under an obligationguaranteed under subsection (a) of this section, and if such default continues for 30 days, the holder of such obligation or his agent has the right to demand payment by the Secretary of the unpaid principal of such obligation, consistent with the terms of the guarantee of such obligation. Such payment may be demanded within such period as may be specified in the guarantee or related agreements, which period shall expire not later than 90 days from the date of such default. If demand occurs within such specified period, then not later than 60 days from the date of such demand, the Secretary shall pay to such holder the unpaid principal of such obligation, consistent with the terms of the guarantee of such obligation; except that (A) the Secretary shall not be required to make any such payment if he finds, prior to the expiration of the 60-day period beginning on the date on which the demand is made, that there was no default by the obligor in the payment of principal or that such default has been remedied, and (B) no such holder shall receive payment or be entitled to retain payment in a total amount which together with any other recovery (including any recovery based upon any security interest) exceeds the actual loss of principal by such holder.
 
 (2) If the Secretary makes payment to a holder under paragraph (1), the Secretary shall thereupon—
 
@@ -100,15 +100,15 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (h), is set out 
 
 #### Codification
 
-In subsec. (h), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act” and “section 3145 of title 40” substituted for “section 276c of title 40, United States Code”, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (h), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act” and“section 3145 of title 40” substituted for “section 276c of title 40, United States Code”, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 In subsec. (i)(1), “The term ‘Secretary’ means the Secretary of Energy” substituted for “The term ‘Administrator’ means the Administrator of the Federal Energy Administration; except that after such Administration ceases to exist, such term means any officer of the United States designated by the President for purposes of this part” in view of termination of Federal Energy Administration and transfer of its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title.
 
 #### Amendments
 
-1996—Subsecs. (d), (e)(1). Pub. L. 104–316 struck out “and the Comptroller General” after “Secretary of the Treasury”.
+<b>1996</b>—Subsecs. (d), (e)(1). Pub. L. 104–316 struck out “and the Comptroller General” after “Secretary of the Treasury”.
 
-1977—Subsec. (g)(3). Pub. L. 95–70 added par. (3).
+<b>1977</b>—Subsec. (g)(3). Pub. L. 95–70 added par. (3).
 
 #### Transfer of Functions
 

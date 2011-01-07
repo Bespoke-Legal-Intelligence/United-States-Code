@@ -28,7 +28,7 @@ In clause (3) the words “or Naval Reserve” are omitted as surplusage, since 
 
 #### Amendments
 
-2006—Pub. L. 109–163, §515(b)(3)(E), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
+<b>2006</b>—Pub. L. 109–163, §515(b)(3)(E), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
 
 Pub. L. 109–163, §515(b)(1)(U), substituted “Navy Reserve” for “Naval Reserve” in introductory provisions.
 

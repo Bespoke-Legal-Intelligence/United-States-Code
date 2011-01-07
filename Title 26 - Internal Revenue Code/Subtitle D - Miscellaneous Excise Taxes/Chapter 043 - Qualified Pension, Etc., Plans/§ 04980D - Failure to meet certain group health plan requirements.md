@@ -54,7 +54,7 @@ There is hereby imposed a tax on any failure of a group health plan to meet the 
 
 &emsp;&emsp;(B)(i) in the case of a plan other than a church plan (as defined in section 414(e)), such failure is corrected during the 30-day period beginning on the first date the person otherwise liable for such tax knew, or exercising reasonable diligence would have known, that such failure existed, and
 
-&emsp;&emsp;(ii) in the case of a church plan (as so defined), such failure is corrected before theclose of the correction period (determined under the rules of section 414(e)(4)(C)).
+&emsp;&emsp;(ii) in the case of a church plan (as so defined), such failure is corrected before the close of the correction period (determined under the rules of section 414(e)(4)(C)).
 
 #### (3) Overall limitation for unintentional failures
 
@@ -162,9 +162,9 @@ The date of the enactment of this section, referred to in subsec. (f)(2)(B), is 
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–135 substituted “plan requirements” for “plans requirements”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–135 substituted “plan requirements” for “plans requirements”.
 
-1997—Subsec. (a). Pub. L. 105–34, §1531(b)(2)(A), substituted “plans” for “plan portability, access, and renewability”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–34, §1531(b)(2)(A), substituted “plans” for “plan portability, access, and renewability”.
 
 Subsec. (c)(3)(B)(i)(I). Pub. L. 105–34, §1531(b)(2)(B), substituted “9832(d)(3)” for “9805(d)(3)”.
 

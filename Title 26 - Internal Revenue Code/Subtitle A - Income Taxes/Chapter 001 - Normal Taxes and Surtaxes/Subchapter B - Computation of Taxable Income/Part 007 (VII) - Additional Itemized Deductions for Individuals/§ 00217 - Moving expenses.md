@@ -136,7 +136,7 @@ A prior section 217 was renumbered section 224 of this title.
 
 #### Amendments
 
-1993—Subsec. (b). Pub. L. 103–66, §13213(a)(1), amended subsec. (b) generally, restating former par. (1)(A) and (B) as par. (1) and former par. (3)(C) as par. (2) and striking out former par. (1)(C) to (E) which included certain traveling, meals, lodging, and residence sale, purchase, and lease expenses in the term “moving expenses”, par. (2) which defined “qualified residencesale, purchase, or lease expenses”, and par. (3)(A) and (B) which placed dollar limits on the amount allowed to be deducted as moving expenses.
+<b>1993</b>—Subsec. (b). Pub. L. 103–66, §13213(a)(1), amended subsec. (b) generally, restating former par. (1)(A) and (B) as par. (1) and former par. (3)(C) as par. (2) and striking out former par. (1)(C) to (E) which included certain traveling, meals, lodging, and residence sale, purchase, and lease expenses in the term “moving expenses”, par. (2) which defined “qualified residence sale, purchase, or lease expenses”, and par. (3)(A) and (B) which placed dollar limits on the amount allowed to be deducted as moving expenses.
 
 Subsec. (c)(1). Pub. L. 103–66, §13213(b), substituted “50 miles” for “35 miles” in subpars. (A) and (B).
 
@@ -168,9 +168,9 @@ Subsec. (h). Pub. L. 103–66, §13213(a)(2)(D), redesignated pars. (2) to (4) a
 
 &emsp;“(C) subsection (b)(3)(B) shall be applied as if the last sentence of such subsection read as follows: ‘In the case of a husband and wife filing separate returns, subparagraph (A) shall be applied by substituting “$2,250” for “$4,500”, and by substituting “$3,000” for “$6,000”.’ ”
 
-1978—Subsecs. (h) to (j). Pub. L. 95–615 added subsecs. (h) and (i) and redesignated former subsec. (h) as (j).
+<b>1978</b>—Subsecs. (h) to (j). Pub. L. 95–615 added subsecs. (h) and (i) and redesignated former subsec. (h) as (j).
 
-1976—Subsec. (b)(3)(A). Pub. L. 94–455, §506(b)(1), (2), substituted “$1,500” for “$1,000” after “(1) shall not exceed” and “$3,000” for “$2,500” after “lease expenses shall not exceed”.
+<b>1976</b>—Subsec. (b)(3)(A). Pub. L. 94–455, §506(b)(1), (2), substituted “$1,500” for “$1,000” after “(1) shall not exceed” and “$3,000” for “$2,500” after “lease expenses shall not exceed”.
 
 Subsec. (b)(3)(B). Pub. L. 94–455, §506(b)(3), substituted “ ‘$750’ for ‘$1,500’ ” for “ ‘$500’ for ‘$1,000’ ” after “applied by substituting” and “ ‘$1,500’ for ‘$3,000’ ” for “ ‘$1,250’ for ‘$2,500’ ” after “and by substituting”.
 
@@ -178,7 +178,7 @@ Subsec. (c)(1)(A), (B). Pub. L. 94–455, §506(a), substituted “35” for “
 
 Subsecs. (g), (h). Pub. L. 94–455, §§506(c), 1906(b)(13)(A), added subsec. (g), redesignated former subsec. (g) as (h) and struck out “or his delegate” after “Secretary”.
 
-1969—Pub. L. 91–172 substantially reenacted existing provisions and extended the coverage to self-employed persons working at the new location for 78 weeks, made it a requirement that the new principal place of work be located 50 miles from the former residence, and redefined the deduction to include costs of house-hunting trips, temporary living expenses prior to locating a new home, and expenses of selling an old home or buying a new one.
+<b>1969</b>—Pub. L. 91–172 substantially reenacted existing provisions and extended the coverage to self-employed persons working at the new location for 78 weeks, made it a requirement that the new principal place of work be located 50 miles from the former residence, and redefined the deduction to include costs of house-hunting trips, temporary living expenses prior to locating a new home, and expenses of selling an old home or buying a new one.
 
 #### Effective Date of 1993 Amendment
 

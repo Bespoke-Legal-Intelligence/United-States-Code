@@ -16,7 +16,7 @@ The Secretary of the Navy should ensure, in any case in which the Secretary awar
 
 #### Amendments
 
-1989—Pub. L. 101–189 renumbered section 7313 of this title as this section.
+<b>1989</b>—Pub. L. 101–189 renumbered section 7313 of this title as this section.
 
 #### Effective Date
 

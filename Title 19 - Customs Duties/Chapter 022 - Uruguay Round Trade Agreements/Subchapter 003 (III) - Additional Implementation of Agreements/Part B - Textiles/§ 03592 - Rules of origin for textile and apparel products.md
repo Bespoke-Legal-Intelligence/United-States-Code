@@ -60,7 +60,7 @@ The Secretary of the Treasury shall prescribe rules implementing the principles 
 
 #### (5) Exception for United States-Israel Free Trade Agreement
 
-&emsp;This section shall not affect, for purposes of the customs laws and administration of quantitative restrictions, the status of goods that, under rulings and administrative practices in effect immediately before December 8, 1994, would have originated in, or been the growth, product, or manufacture of, a country that is a party to an agreement with the United States establishing a free trade area, which entered into force before January 1, 1987. For such purposes, such rulings and administrative practices that were applied, immediately before December 8, 1994, to determine the origin of textile and apparel products covered by such agreement shall continue to apply after December 8, 1994, and on and after the effective date described in subsection (c) of this section, unless such rulings and practices are modified by the mutual consent of the parties to the agreement.
+&emsp;This section shall not affect, for purposes of the customs laws and administration of quantitative restrictions, the status of goods that, under rulings and administrative practices in effect immediately before December 8, 1994, would have originated in, or been the growth,product, or manufacture of, a country that is a party to an agreement with the United States establishing a free trade area, which entered into force before January 1, 1987. For such purposes, such rulings and administrative practices that were applied, immediately before December 8, 1994, to determine the origin of textile and apparel products covered by such agreement shall continue to apply after December 8, 1994, and on and after the effective date described in subsection (c) of this section, unless such rulings and practices are modified by the mutual consent of the parties to the agreement.
 
 #### (c) Effective date
 
@@ -78,15 +78,11 @@ This section shall apply to goods entered, or withdrawn from warehouse, for cons
 
 (Pub. L. 103–465, title III, §334, Dec. 8, 1994, 108 Stat. 4949; Pub. L. 104–295, §20(c)(9), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 106–200, title IV, §405(a), May 18, 2000, 114 Stat. 292.)
 
-#### References in Text
-
-The customs laws, referred to in subsec. (b)(1), (5), are classified generally to this title.
-
 #### Amendments
 
-2000—Subsec. (b)(2). Pub. L. 106–200 designated existing provisions as subpar. (A), in introductory provisions substituted “Notwithstanding paragraph (1)(D) and except as provided in subparagraphs (B) and (C)” for “Notwithstanding paragraph (1)(D)”, added subpars. (B) and (C), and redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A).
+<b>2000</b>—Subsec. (b)(2). Pub. L. 106–200 designated existing provisions as subpar. (A), in introductory provisions substituted “Notwithstanding paragraph (1)(D) and except as provided in subparagraphs (B) and (C)” for “Notwithstanding paragraph (1)(D)”, added subpars. (B) and (C), and redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A).
 
-1996—Subsec. (b)(1)(B)(ii). Pub. L. 104–295 substituted “possession;” for “possession,”.
+<b>1996</b>—Subsec. (b)(1)(B)(ii). Pub. L. 104–295 substituted “possession;” for “possession,”.
 
 #### Effective Date of 2000 Amendment
 
@@ -94,5 +90,5 @@ Pub. L. 106–200, title IV, §405(b), May 18, 2000, 114 Stat. 293, provided tha
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
 

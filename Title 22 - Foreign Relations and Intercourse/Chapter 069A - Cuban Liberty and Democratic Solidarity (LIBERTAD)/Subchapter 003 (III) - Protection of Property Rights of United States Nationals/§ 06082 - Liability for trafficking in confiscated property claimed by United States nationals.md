@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(II) the amount determined under section 6083(a)(2) of this title, plus interest; or
 
-&emsp;&emsp;&emsp;(III) the fair market value of that property, calculated as being either the current value of the property, or the value of the property when confiscated plus interest, whichever is greater; and
+&emsp;&emsp;&emsp;(III) the fair market value of that property, calculated as being either the current value of the property, or the value ofthe property when confiscated plus interest, whichever is greater; and
 
 &emsp;&emsp;(ii) court costs and reasonable attorneys’ fees.
 
@@ -130,7 +130,7 @@ In an action brought under this section, any judgment against an agency or instr
 
 #### (g) Deposit of excess payments by Cuba under claims agreement
 
-Any amounts paid by Cuba under any agreement entered into between the United States and Cuba settling certified claims under title V of the International Claims Settlement Act of 1949 \[22 U.S.C. 1643 et seq.\] that are in excess of the payments made on such certified claims after the application of subsection (f) of this section shall be deposited into the United States Treasury.
+Any amounts paid by Cuba under any agreement entered into between the United States and Cuba settling certified claims under title V of the International Claims Settlement Act of 1949 \[22 U.S.C. 1643 et seq.\] that are in excess of the payments made on such certified claimsafter the application of subsection (f) of this section shall be deposited into the United States Treasury.
 
 #### (h) Termination of rights
 

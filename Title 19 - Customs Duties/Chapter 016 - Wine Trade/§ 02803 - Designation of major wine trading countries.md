@@ -6,7 +6,7 @@
 
 &emsp;(2) maintains tariff barriers or nontariff barriers to (or other distortions of) trade in United States wine.
 
-(b) In deciding, for purposes of subsection (a)(2) of this section, whether a foreign country or group of countries maintains nontariff barriers to (or other distortions of) trade in United States wine, the Trade Representative shall take into account—
+(b) In deciding, for purposes of subsection (a)(2) of this section, whether a foreign countryor group of countries maintains nontariff barriers to (or other distortions of) trade in United States wine, the Trade Representative shall take into account—
 
 &emsp;(1) the review and report required under section 854(a) of the Trade Agreements Act of 1979 (19 U.S.C. 2135 note);
 

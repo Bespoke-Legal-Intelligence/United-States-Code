@@ -58,7 +58,7 @@ For purposes of this section—
 
 #### Amendments
 
-1988—Subsec. (b)(2). Pub. L. 100–647 substituted “the highest rate of tax specified in section 1” for “a 50-percent rate”.
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–647 substituted “the highest rate of tax specified in section 1” for “a 50-percent rate”.
 
 #### Effective Date of 1988 Amendment
 

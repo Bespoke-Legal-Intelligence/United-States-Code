@@ -12,9 +12,9 @@ The President shall transmit to each Member of the Congress a summary of the inf
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–210 substituted “or under section 3803 of this title” for “or under section 2902 of this title”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–210 substituted “or under section 3803 of this title” for “or under section 2902 of this title”.
 
-1988—Subsec. (a). Pub. L. 100–647 struck out “part 1 of this subchapter or” after “entered into under”, and inserted “or under section 2902 of this title” after “2134 of this title”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647 struck out “part 1 of this subchapter or” after “entered into under”, and inserted “or under section 2902 of this title” after “2134 of this title”.
 
 #### Effective Date of 1988 Amendment
 

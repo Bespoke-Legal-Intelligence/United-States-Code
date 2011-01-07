@@ -6,9 +6,9 @@ The project for the control of floods of the Mississippi River and its tributari
 
 #### Prior Provisions
 
-A prior section 702a–11/2, act June 28, 1938, ch. 795, §4, 52 Stat. 1220, which related to further modification of 1927 project, was transferred to section 702a–1a of this title.
+A prior section 702a–1½, act June 28, 1938, ch. 795, §4, 52 Stat. 1220, which related to further modification of 1927 project, was transferred to section 702a–1a of this title.
 
-A prior section 702a–13/4, act Aug. 18, 1941, ch. 377, §3, 55 Stat. 642, which related to further modificiation and adoption of Lower Mississippi River flood control project, was transferred to section 702a–1b of this title.
+A prior section 702a–1¾, act Aug. 18, 1941, ch. 377, §3, 55 Stat. 642, which related to further modificiation and adoption of Lower Mississippi River flood control project, was transferred to section 702a–1b of this title.
 
 #### Change of Name
 

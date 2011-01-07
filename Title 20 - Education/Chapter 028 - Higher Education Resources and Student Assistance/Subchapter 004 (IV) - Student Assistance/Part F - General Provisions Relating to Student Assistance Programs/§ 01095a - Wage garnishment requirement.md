@@ -12,7 +12,7 @@ Notwithstanding any provision of State law, a guaranty agency, or the Secretary 
 
 &emsp;(4) the individual shall be provided an opportunity to enter into a written agreement with the guaranty agency or the Secretary, under terms agreeable to the Secretary, or the head of the guaranty agency or his designee, as appropriate, to establish a schedule for the repayment of the debt;
 
-&emsp;(5) the individual shall be provided an opportunity for a hearing in accordance with subsection (b) of this section on the determination of the Secretary or the guaranty agency, as appropriate, concerning the existence or the amount of the debt, and, in the case of an individual whose repayment schedule is established other than by a written agreement pursuant to paragraph (4), concerning the terms of the repayment schedule;
+&emsp;(5) the individual shall be provided an opportunity for a hearing in accordance with subsection (b) of this section on the determination of the Secretary or the guaranty agency, as appropriate, concerning the existence orthe amount of the debt, and, in the case of an individual whose repayment schedule is established other than by a written agreement pursuant to paragraph (4), concerning the terms of the repayment schedule;
 
 &emsp;(6) the employer shall pay to the Secretary or the guaranty agency as directed in the withholding order issued in this action, and shall be liable for, and the Secretary or the guaranty agency, as appropriate, may sue the employer in a State or Federal court of competent jurisdiction to recover, any amount that such employer fails to withhold from wages due an employee following receipt of such employer of notice of the withholding order, plus attorneys’ fees, costs, and, in the court's discretion, punitive damages, but such employer shall not be required to vary the normal pay and disbursement cycles in order to comply with this paragraph;
 
@@ -40,9 +40,9 @@ For the purpose of this section, the term “disposable pay” means that part o
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–171 substituted “15 percent” for “10 percent”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–171 substituted “15 percent” for “10 percent”.
 
-1998—Subsecs. (d), (e). Pub. L. 105–244 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1998</b>—Subsecs. (d), (e). Pub. L. 105–244 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 #### Effective Date of 2006 Amendment
 

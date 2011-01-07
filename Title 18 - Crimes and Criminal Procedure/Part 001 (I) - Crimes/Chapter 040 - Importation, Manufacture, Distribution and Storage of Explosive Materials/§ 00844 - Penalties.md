@@ -10,7 +10,7 @@
 
 (c)(1) Any explosive materials involved or used or intended to be used in any violation of the provisions of this chapter or any other rule or regulation promulgated thereunder or any violation of any criminal law of the United States shall be subject to seizure and forfeiture, and all provisions of the Internal Revenue Code of 1986 relating to the seizure, forfeiture, and disposition of firearms, as defined in section 5845(a) of that Code, shall, so far as applicable, extend to seizures and forfeitures under the provisions of this chapter.
 
-(2) Notwithstanding paragraph (1), in the case of the seizure of any explosive materials for any offense for which the materials would be subject to forfeiture in which it would be impracticable or unsafe to remove the materials to a place of storage or would be unsafe to store them, the seizing officer may destroy the explosive materials forthwith. Any destruction under this paragraph shall be in the presence of at least 1 credible witness. The seizing officer shall make a report of the seizure and take samples as the Attorney General may by regulation prescribe.
+(2) Notwithstanding paragraph (1), in the case of the seizure of any explosive materials for any offense for which the materials would be subject to forfeiture in which it would be impracticable or unsafe to remove the materials to a place of storage or would be unsafe to store them, theseizing officer may destroy the explosive materials forthwith. Any destruction under this paragraph shall be in the presence of at least 1 credible witness. The seizing officer shall make a report of the seizure and take samples as the Attorney General may by regulation prescribe.
 
 (3) Within 60 days after any destruction made pursuant to paragraph (2), the owner of (including any person having an interest in) the property so destroyed may make application to the Attorney General for reimbursement of the value of the property. If the claimant establishes to the satisfaction of the Attorney General that—
 
@@ -82,25 +82,25 @@ Section 5845(a) of that Code, referred to in subsec. (c)(1), is section 5845(a) 
 
 #### Amendments
 
-2004—Subsec. (g)(2)(B). Pub. L. 108–426 substituted “Pipeline and Hazardous Materials Safety Administration” for “Research and Special Projects Administration”.
+<b>2004</b>—Subsec. (g)(2)(B). Pub. L. 108–426 substituted “Pipeline and Hazardous Materials Safety Administration” for “Research and Special Projects Administration”.
 
-2002—Subsec. (c)(2), (3). Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secretary” wherever appearing.
+<b>2002</b>—Subsec. (c)(2), (3). Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secretary” wherever appearing.
 
 Subsec. (f)(1). Pub. L. 107–296, §1125, inserted “or any institution or organization receiving Federal financial assistance,” before “shall”.
 
 Subsec. (p). Pub. L. 107–296, §1127, added subsec. (p).
 
-1999—Subsec. (a). Pub. L. 106–54, §2(b)(1), designated existing provisions as par. (1) and added par. (2).
+<b>1999</b>—Subsec. (a). Pub. L. 106–54, §2(b)(1), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (j). Pub. L. 106–54, §2(b)(2), inserted “and section 842(p)” after “this section”.
 
-1996—Subsec. (a). Pub. L. 104–132, §604, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any person who violates subsections (a) through (i) of section 842 of this chapter shall be fined under this title or imprisoned not more than ten years, or both.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–132, §604, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any person who violates subsections (a) through (i) of section 842 of this chapter shall be fined under this title or imprisoned not more than ten years, or both.”
 
 Subsec. (e). Pub. L. 104–132, §§708(a)(1), 724, substituted “interstate or foreign commerce, or in or affecting interstate or foreign commerce,” for “commerce” and “10” for “five”.
 
 Subsec. (f). Pub. L. 104–132, §708(a)(2), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Whoever maliciously damages or destroys, or attempts to damage or destroy, by means of fire or an explosive, any building, vehicle, or other personal or real property in whole or in part owned, possessed, or used by, or leased to, the United States, any department or agency thereof, or any institution or organization receiving Federal financial assistance shall be imprisoned for not more than 20 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,, or both; and if personal injury results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall be imprisoned for not more than 40 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,, or both; and if death results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall be subject to imprisonment for any term of years, or to the death penalty or to life imprisonment.”
 
-Subsec. (h). Pub. L. 104–132, §708(a)(3), in concluding provisions, substituted “10 years” and “20 years” for “5 years but not more than 15 years” and “10 years but not more than 25 years”, respectively.
+Subsec. (h). Pub. L. 104–132, §708(a)(3), in concluding provisions, substituted “10 years” and “20 years” for “5years but not more than 15 years” and “10 years but not more than 25 years”, respectively.
 
 Subsec. (i). Pub. L. 104–294, which directed substitution of comma for “,,” each place appearing, could not be executed because “,,” did not appear in text subsequent to amendment by Pub. L. 104–132, §708(a)(4). See below.
 
@@ -114,7 +114,7 @@ Subsec. (n). Pub. L. 104–132, §701, added subsec. (n).
 
 Subsec. (<i>o</i>). Pub. L. 104–132, §706, added subsec. (<i>o</i>).
 
-1994—Subsec. (a). Pub. L. 103–322, §330016(1)(L), substituted “fined under this title” for “fined not more than $10,000”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §330016(1)(L), substituted “fined under this title” for “fined not more than $10,000”.
 
 Subsec. (b). Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for “fined not more than $1,000”.
 
@@ -148,19 +148,19 @@ Subsec. (<i>l</i>). Pub. L. 103–322, §110515(b), added subsec. (<i>l</i>).
 
 Subsec. (m). Pub. L. 103–322, §110518(b), added subsec. (m).
 
-1990—Subsec. (d). Pub. L. 101–647 substituted “subsection,” for “subsection,,” before “shall be subject to imprisonment”.
+<b>1990</b>—Subsec. (d). Pub. L. 101–647 substituted “subsection,” for “subsection,,” before “shall be subject to imprisonment”.
 
-1988—Subsec. (g). Pub. L. 100–690, §6474(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), whoever” for “Whoever”, inserted “in an airport that is subject to the regulatory authority of the Federal Aviation Administration, or” after “possess an explosive”, inserted “or airport” after “such building”, substituted “not more than five years, or fined under this title, or both” for “not more thanone year, or fined not more than $1,000, or both”, and added par. (2).
+<b>1988</b>—Subsec. (g). Pub. L. 100–690, §6474(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), whoever” for “Whoever”, inserted “in an airport that is subject to the regulatory authority of the Federal Aviation Administration, or” after “possess an explosive”, inserted “or airport” after “such building”, substituted “not more than five years, or fined under this title, or both” for “not more than one year, or fined not more than $1,000, or both”, and added par. (2).
 
 Subsec. (h). Pub. L. 100–690, §6474(b)(2), which directed the amendment of subsec. (h) by striking “shall be sentenced” through the end and inserting new provisions was executed by striking “shall be sentenced” the first time it appeared through the end of the subsection which resulted in inserting concluding provisions and striking out former concluding provisions which read as follows: “shall be sentenced to a term of imprisonment for not less than one year nor more than ten years. In the case of his second or subsequent conviction under this subsection, such person shall be sentenced to a term of imprisonment for not less than five years nor more than twenty-five years, and, notwithstanding any other provision of law, the court shall not suspend the sentence of such person or give him a probationary sentence.”
 
 Subsec. (h)(2). Pub. L. 100–690, §6474(b)(1), in par. (2), struck out “unlawfully” after “explosive”.
 
-1986—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1984—Subsecs. (d), (f), (i). Pub. L. 98–473 substituted “personal injury results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection,” for “personal injury results” and “death results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection,” for “death results”.
+<b>1984</b>—Subsecs. (d), (f), (i). Pub. L. 98–473 substituted “personal injury results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection,” for “personal injury results” and “death results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection,” for “death results”.
 
-1982—Subsecs. (e), (f). Pub. L. 97–298, §2(a), inserted “fire or” after “by means of” wherever appearing.
+<b>1982</b>—Subsecs. (e), (f). Pub. L. 97–298, §2(a), inserted “fire or” after “by means of” wherever appearing.
 
 Subsec. (h)(1). Pub. L. 97–298, §2(b), inserted “fire or” after “uses”.
 
@@ -176,7 +176,7 @@ Amendment by section 604 of Pub. L. 104–132 effective 1 year after Apr. 24, 19
 
 #### Effective Date of 1994 Amendment
 
-Section 320917(b) of Pub. L. 103–322 provided that: “The amendment made by subsection (a) \[amending this section\] shall not apply to any offense described in the amendment that was committed more than 5 years prior to the date of enactment of this Act \[Sept. 13, 1994\].”
+Section 320917(b) of Pub. L. 103–322 provided that: “The amendment made by subsection (a) \[amending this section\] shall not apply to any offense described inthe amendment that was committed more than 5 years prior to the date of enactment of this Act \[Sept. 13, 1994\].”
 
 #### Effective Date
 

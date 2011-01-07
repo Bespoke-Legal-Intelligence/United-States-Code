@@ -1,6 +1,6 @@
 ### §3707A. Hybrid adjustable rate mortgages
 
-(a) The Secretary shall carry out a demonstration project under this section during fiscal years 2004 through 2012 for the purpose of guaranteeing loans in a manner similar to the manner in which the Secretary of Housing andUrban Development insures adjustable rate mortgages under section 251 of the National Housing Act in accordance with the provisions of this section with respect to hybrid adjustable rate mortgages described in subsection (b).
+(a) The Secretary shall carry out a demonstration project under this section during fiscal years 2004 through 2012 for the purpose of guaranteeing loans in a manner similar to the manner in which the Secretary of Housing and Urban Development insures adjustable rate mortgages under section 251 of the National Housing Act in accordance with the provisions of this section with respect to hybrid adjustable rate mortgages described in subsection (b).
 
 (b) Adjustable rate mortgages that are guaranteed under this section shall be adjustable rate mortgages (commonly referred to as “hybrid adjustable rate mortgages”) having interest rate adjustment provisions that—
 
@@ -46,11 +46,11 @@ The National Housing Act, referred to in subsecs. (a) and (d)(3), is act June 27
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–389 substituted “2012” for “2008”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–389 substituted “2012” for “2008”.
 
-2006—Subsec. (c)(4). Pub. L. 109–233 substituted “such percentage points as the Secretary may prescribe” for “1 percentage point”.
+<b>2006</b>—Subsec. (c)(4). Pub. L. 109–233 substituted “such percentage points as the Secretary may prescribe” for “1 percentage point”.
 
-2004—Subsec. (a). Pub. L. 108–454, §405(a), substituted “during fiscal years 2004 through 2008” for “during fiscal years 2004 and 2005”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–454, §405(a), substituted “during fiscal years 2004 through 2008” for “during fiscal years 2004 and 2005”.
 
 Subsec. (c)(3). Pub. L. 108–454, §405(b)(2), added par. (3) and struck out former par. (3) which read as follows: “be limited, with respect to any single annual interest rate adjustment, to a maximum increase or decrease of 1 percentage point; and”.
 

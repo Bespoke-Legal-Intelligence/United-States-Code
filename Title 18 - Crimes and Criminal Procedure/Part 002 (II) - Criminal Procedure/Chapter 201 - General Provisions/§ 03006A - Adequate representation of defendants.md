@@ -2,7 +2,7 @@
 
 (a)
 
-Choice of Plan.—Each United States district court, with the approval of the judicial council of the circuit, shall place in operationthroughout the district a plan for furnishing representation for any person financially unable to obtain adequate representation in accordance with this section. Representation under each plan shall include counsel and investigative, expert, and other services necessary for adequate representation. Each plan shall provide the following:
+Choice of Plan.—Each United States district court, with the approval of the judicial council of the circuit, shall place in operation throughout the district a plan for furnishing representation for any person financially unable to obtain adequate representation in accordance with this section. Representation under each plan shall include counsel and investigative, expert, and other services necessary for adequate representation. Each plan shall provide the following:
 
 &emsp;(1) Representation shall be provided for any financially eligible person who—
 
@@ -46,7 +46,7 @@ Appointment of Counsel.—Counsel furnishing representation under the plan shall
 
 (c)
 
-Duration and Substitution of Appointments.—A person for whom counsel is appointed shall be represented at every stage of the proceedings from his initial appearance before the United States magistrate judge or the court through appeal, including ancillary matters appropriate to the proceedings. If at any time after the appointment of counsel the United States magistrate judge or the court finds that the person is financially able to obtain counsel or to make partial payment for the representation, it may terminate the appointment of counsel or authorize payment as provided in subsection (f), as the interests of justice may dictate. If at any stage of the proceedings, including an appeal, the United States magistrate judge or the court finds that the person is financially unable to pay counsel whom he had retained, it may appoint counsel as provided in subsection (b) and authorize payment as provided in subsection (d), as the interests of justice may dictate. The United States magistrate judge or the court may, in the interests of justice, substitute one appointed counsel for another at any stage of the proceedings.
+Duration and Substitution of Appointments.—A person for whom counsel is appointed shall be represented at every stage of the proceedings from his initial appearance before the United States magistrate judge or the court through appeal, including ancillary matters appropriate to the proceedings. If at any time after the appointment of counsel the United States magistrate judge or the court finds thatthe person is financially able to obtain counsel or to make partial payment for the representation, it may terminate the appointment of counsel or authorize payment as provided in subsection (f), as the interests of justice may dictate. If at any stage of the proceedings, including an appeal, the United States magistrate judge or the court finds that the person is financially unable to pay counsel whom he had retained, it may appoint counsel as provided in subsection (b) and authorize payment as provided in subsection (d), as the interests of justice may dictate. The United States magistrate judge or the court may, in the interests of justice, substitute one appointed counsel for another at any stage of the proceedings.
 
 (d)
 
@@ -54,7 +54,7 @@ Payment for Representation.—
 
 (1)
 
-Hourly Rate.—Any attorney appointed pursuant to this section or a bar association or legal aid agency or community defender organization which has provided the appointed attorney shall, at the conclusion of the representation or any segment thereof, be compensated at a rate not exceeding $60 per hour for time expended in court or before a United States magistrate judge and $40 per hour for time reasonably expended out of court, unless the Judicial Conference determines that a higher rate of not in excess of $75 per hour is justified for a circuit or for particular districts within a circuit, for time expended in court or before a United States magistrate judge and for time expended out of court. The Judicial Conference shall develop guidelines for determining the maximum hourly rates for each circuit in accordance with the preceding sentence, with variations by district, where appropriate, taking into account such factors as the minimum range of the prevailing hourly rates for qualified attorneys in the district in which the representation is provided and the recommendations of the judicial councils ofthe circuits. Not less than 3 years after the effective date of the Criminal Justice Act Revision of 1986, the Judicial Conference is authorized to raise the maximum hourly rates specified in this paragraph up to the aggregate of the overall average percentages of the adjustments in the rates of pay under the General Schedule made pursuant to section 5305 <sup>1</sup> of title 5 on or after such effective date. After the rates are raised under the preceding sentence, such maximum hourly rates may be raised at intervals of not less than 1 year each, up to the aggregate of the overall average percentages of such adjustments made since the last raise was made under this paragraph. Attorneys may be reimbursed for expenses reasonably incurred, including the costs of transcripts authorized by the United States magistrate <sup>2</sup> or the court, and the costs of defending actions alleging malpractice of counsel in furnishing representational services under this section. No reimbursement for expenses in defending against malpractice claims shall be made if a judgment of malpractice is rendered against the counsel furnishing representational services under this section. The United States magistrate <sup>2</sup> or the court shall make determinations relating to reimbursement of expenses under this paragraph.
+Hourly Rate.—Any attorney appointed pursuant to this section or a bar association or legal aid agency or community defender organization which has provided the appointed attorney shall, at the conclusion of the representation or any segment thereof, be compensated at a rate not exceeding $60 per hour for time expended in court or before a United States magistrate judge and $40 per hour for time reasonably expended out of court, unless the Judicial Conference determines that a higher rate of not in excess of $75 per hour is justified for a circuit or for particular districts within a circuit, for time expended in court or before a United States magistrate judge and for time expended out of court. The Judicial Conference shall develop guidelines for determining the maximum hourly rates for each circuit in accordance with the preceding sentence, with variations by district, where appropriate, taking into account such factors as the minimum range of the prevailing hourly rates for qualified attorneys in the district in which the representation is provided and the recommendations of the judicial councils of the circuits. Not less than 3 years after the effective date of the Criminal Justice Act Revision of 1986, the Judicial Conference is authorized to raise the maximum hourly rates specified in this paragraph up to the aggregate of the overall average percentages of the adjustments in the rates of pay under the General Schedule made pursuant to section 5305 <sup>1</sup> of title 5 on or after such effective date. After the rates are raised under the preceding sentence, such maximum hourly rates may be raised at intervals of not less than 1 year each, up to the aggregate of the overall average percentages of such adjustments made since the last raise was made under this paragraph. Attorneys may be reimbursed for expenses reasonably incurred, including the costs of transcripts authorized by the United States magistrate <sup>2</sup> or the court, and the costs of defending actions alleging malpractice of counsel in furnishing representational services under this section. No reimbursement for expenses in defending against malpractice claims shall be made if a judgment of malpractice is rendered against the counsel furnishing representational services under this section. The United States magistrate <sup>2</sup> or the court shall make determinations relating to reimbursement of expenses under this paragraph.
 
 (2)
 
@@ -162,17 +162,19 @@ Upon Request.—Counsel for a person who is financially unable to obtain investi
 
 (2)
 
-Without Prior Request.—(A) Counsel appointed under this section may obtain, subject to later review, investigative, expert, and other services without prior authorization if necessary for adequate representation. Except as provided in subparagraph (B) of this paragraph, the total cost of services obtained without prior authorization may not exceed $500 and expenses reasonably incurred.
+Without Prior Request.—(A) Counsel appointed under this section may obtain, subject to later review, investigative, expert, and other services without prior authorization if necessary for adequate representation. Except as provided in subparagraph (B) of this paragraph, the total cost of services obtained without prior authorization may not exceed $800 and expenses reasonably incurred.
 
-(B) The court, or the United States magistrate judge (if the services were rendered in a case disposed of entirely before the United States magistrate judge), may, in the interest of justice, and upon the finding that timely procurement of necessary services could not await prior authorization, approve payment for such services after they have been obtained, even if the cost of such services exceeds $500.
+(B) The court, or the United States magistrate judge (if the services were rendered in a case disposed of entirely before the United States magistrate judge), may, in the interest of justice, and upon the finding that timely procurement of necessary services could not await prior authorization, approve payment for such services after they have been obtained, even if the cost of such services exceeds $800.
 
 (3)
 
-Maximum Amounts.—Compensation to be paid to a person for services rendered by him to a person under this subsection, or to be paid to an organization for services rendered by an employee thereof, shall not exceed $1,600, exclusive of reimbursement for expenses reasonably incurred, unless payment in excess of that limit is certified by the court, or by the United States magistrate judge if the services were rendered in connection with a case disposed of entirely before him, as necessary to provide fair compensation for services of an unusual character or duration, and the amount of the excess payment is approved by the chief judge of the circuit. The chief judge of the circuit may delegate such approval authority to an active or senior circuit judge.
+Maximum Amounts.—Compensation to be paid to a person for services rendered by him to a person under this subsection, or to be paid to an organization for services rendered by an employee thereof, shall not exceed $2,400, exclusive of reimbursement for expenses reasonably incurred, unless payment in excess of that limit is certified by the court, or by the United States magistrate judge if the services were rendered in connection with a case disposed of entirely before him, as necessary to provide fair compensation for services of an unusual character or duration, and the amount of the excess payment is approved by the chief judge of the circuit. The chief judge of the circuit may delegate such approval authority to an active or senior circuit judge.
 
 (4)
 
 Disclosure of fees.—The amounts paid under this subsection for services in any case shall be made available to the public.
+
+(5) The dollar amounts provided in paragraphs (2) and (3) shall be adjusted simultaneously by an amount, rounded to the nearest multiple of $100, equal to the percentage of the cumulative adjustments taking effect under section 5303 of title 5 in the rates of pay under the General Schedule since the date the dollar amounts provided in paragraphs (2) and (3), respectively, were last enacted or adjusted by statute.
 
 (f)
 
@@ -216,13 +218,13 @@ Appropriations.—There are authorized to be appropriated to the United States c
 
 (j)
 
-Districts Included.—As used in this section, the term “district court” means each district court of the United States created by chapter 5 of title 28, the District Court of the VirginIslands, the District Court for the Northern Mariana Islands, and the District Court of Guam.
+Districts Included.—As used in this section, the term “district court” means each district court of the United States created by chapter 5 of title 28, the District Court of the Virgin Islands, the District Court for the Northern Mariana Islands, and the District Court of Guam.
 
 (k)
 
 Applicability in the District of Columbia.—The provisions of this section shall apply in the United States District Court for the District of Columbia and the United States Court of Appeals for the District of Columbia Circuit. The provisions of this section shall not apply to the Superior Court of the District of Columbia and the District of Columbia Court of Appeals.
 
-(Added Pub. L. 88–455, §2, Aug. 20, 1964, 78 Stat. 552; amended Pub. L. 90–578, title III, §301(a)(1), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 91–447, §1, Oct. 14, 1970, 84 Stat. 916; Pub. L. 93–412, §3, Sept. 3, 1974, 88 Stat. 1093; Pub. L. 97–164, title II, §206(a), (b), Apr. 2, 1982, 96 Stat. 53; Pub. L. 98–473, title II, §§223(e), 405, 1901, Oct. 12, 1984, 98 Stat. 2028, 2067, 2185; Pub. L. 99–651, title I, §§102, 103, Nov. 14, 1986, 100 Stat. 3642, 3645; Pub. L. 100–182, §19, Dec. 7, 1987, 101 Stat. 1270; Pub. L. 100–690, title VII, §7101(f), Nov. 18, 1988, 102 Stat. 4416; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–132, title IX, §903(a), Apr. 24, 1996, 110 Stat. 1318; Pub. L. 105–119, title III, §308, Nov. 26, 1997, 111 Stat. 2493; Pub. L. 106–113, div. B, §1000(a)(1) \[title III, §308(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–37; Pub. L. 106–518, title II, §§210, 211, Nov. 13, 2000, 114 Stat. 2415; Pub. L. 108–447, div. B, title III, §304, Dec. 8, 2004, 118 Stat. 2894; Pub. L. 110–406, §§11–12(b), Oct. 13, 2008, 122 Stat. 4293, 4294.)
+(Added Pub. L. 88–455, §2, Aug. 20, 1964, 78 Stat. 552; amended Pub. L. 90–578, title III, §301(a)(1), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 91–447, §1, Oct. 14, 1970, 84 Stat. 916; Pub. L. 93–412, §3, Sept. 3, 1974, 88 Stat. 1093; Pub. L. 97–164, title II, §206(a), (b), Apr. 2, 1982, 96 Stat. 53; Pub. L. 98–473, title II, §§223(e), 405, 1901, Oct. 12, 1984, 98 Stat. 2028, 2067, 2185; Pub. L. 99–651, title I, §§102, 103, Nov. 14, 1986, 100 Stat. 3642, 3645; Pub. L. 100–182, §19, Dec. 7, 1987, 101 Stat. 1270; Pub. L. 100–690, title VII, §7101(f), Nov. 18, 1988, 102 Stat. 4416; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–132, title IX, §903(a), Apr. 24, 1996, 110 Stat. 1318; Pub. L. 105–119, title III, §308, Nov. 26, 1997, 111 Stat. 2493; Pub. L. 106–113, div. B, §1000(a)(1) \[title III, §308(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–37; Pub. L. 106–518, title II, §§210, 211, Nov. 13, 2000, 114 Stat. 2415; Pub. L. 108–447, div. B, title III, §304, Dec. 8, 2004, 118 Stat. 2894; Pub. L. 110–406, §§11–12(b), Oct. 13, 2008, 122 Stat. 4293, 4294; Pub. L. 111–174, §7, May 27, 2010, 124 Stat. 1217.)
 
 #### References in Text
 
@@ -234,43 +236,47 @@ The amendment made by paragraph (4), referred to in subsec. (d)(4)(F), probably 
 
 Enactment of this Act, referred to in subsec. (d)(4)(F), probably means the date of enactment of Pub. L. 105–119, which enacted subsec. (d)(4) of this section and was approved Nov. 26, 1997.
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (g)(2)(A), are classified to section 3301 et seq. of Title 5.
-
 #### Amendments
 
-2008—Subsec. (d)(2). Pub. L. 110–406, §11, inserted at end “The compensation maximum amounts provided in this paragraph shall increase simultaneously by the same percentage, rounded to the nearest multiple of $100, as the aggregate percentage increases in the maximum hourly compensation rate paid pursuant to paragraph (1) for time expended since the case maximum amounts were last adjusted.”
+<b>2010</b>—Subsec. (e)(2). Pub. L. 111–174, §7(1)(A), substituted “$800” for “$500” in subpars. (A) and (B).
+
+Subsec. (e)(3). Pub. L. 111–174, §7(1)(B), substituted “$2,400” for “$1,600” in first sentence.
+
+Subsec. (e)(5). Pub. L. 111–174, §7(2), added par. (5).
+
+<b>2008</b>—Subsec. (d)(2). Pub. L. 110–406, §11, inserted at end “The compensation maximum amounts provided in this paragraph shall increase simultaneously by the same percentage, rounded to the nearest multiple of $100, as the aggregate percentage increases in the maximum hourly compensation rate paid pursuant to paragraph (1) for time expended since the case maximum amounts were last adjusted.”
 
 Subsecs. (d)(3), (e)(3). Pub. L. 110–406, §12(a), (b), inserted “or senior” after “active” in second sentence.
 
-2004—Subsec. (d)(2). Pub. L. 108–447, §304(a), substituted “$7,000” for “$5,200” and “$2,000” for “$1,500” in first sentence, “$5,000” for “$3,700” in second sentence, “$1,500” for “$1,200” and “$5,000” for “$3,900” in fifth sentence, and “$1,500” for “$1,200” in last sentence.
+<b>2004</b>—Subsec. (d)(2). Pub. L. 108–447, §304(a), substituted “$7,000” for “$5,200” and “$2,000” for “$1,500” in first sentence, “$5,000” for “$3,700” in second sentence, “$1,500” for “$1,200” and “$5,000” for “$3,900” in fifth sentence, and “$1,500” for “$1,200” in last sentence.
 
 Subsec. (e)(2). Pub. L. 108–447, §304(b)(1), substituted “$500” for “$300” in subpars. (A) and (B).
 
 Subsec. (e)(3). Pub. L. 108–447, §304(b)(2), substituted “$1,600” for “$1,000” in first sentence.
 
-2000—Subsec. (d)(1). Pub. L. 106–518, §211, substituted “Attorneys may be reimbursed for expenses reasonably incurred, including the costs of transcripts authorized by the United States magistrate or the court, and the costs of defending actions alleging malpractice of counsel in furnishing representational services under this section. No reimbursement for expenses in defending against malpractice claims shall be made if a judgment of malpractice is rendered against the counsel furnishing representational services under this section. The United States magistrate or the court shall make determinations relating to reimbursement of expenses under this paragraph.” for “Attorneys shall be reimbursed for expenses reasonably incurred, including the costs of transcripts authorized by the United States magistrate or the court.”
+<b>2000</b>—Subsec. (d)(1). Pub. L. 106–518, §211, substituted “Attorneys may be reimbursed for expenses reasonably incurred, including the costs of transcripts authorized by the United States magistrate or the court, and the costs of defending actions alleging malpractice of counsel in furnishing representational services under this section. No reimbursement for expenses in defending against malpractice claims shall be made if a judgment of malpractice is rendered against the counsel furnishing representational services under this section. The United States magistrate or the court shall make determinations relating to reimbursement of expenses under this paragraph.” for “Attorneys shall be reimbursed for expenses reasonably incurred, including the costs of transcripts authorized by the United States magistrate or the court.”
 
-Subsec. (d)(2). Pub. L. 106–518, §210(4), (5), inserted after second sentence “For representation of a petitioner in a non-capital habeas corpus proceeding, the compensation for each attorney shall not exceed the amount applicable to a felony in this paragraph for representation of a defendant before a judicial officer of the district court. For representation of such petitioner in an appellate court, the compensation for each attorney shall not exceed the amount applicable for representation of a defendant in an appellate court.” and substituted “$1,200” for “$750” in last sentence.
+Subsec. (d)(2). Pub. L. 106–518, §210(4), (5), inserted after second sentence “For representation of a petitioner in a non-capital habeas corpus proceeding, thecompensation for each attorney shall not exceed the amount applicable to a felony in this paragraph for representation of a defendant before a judicial officer of the district court. For representation of such petitioner in an appellate court, the compensation for each attorney shall not exceed the amount applicable for representation of a defendant in an appellate court.” and substituted “$1,200” for “$750” in last sentence.
 
 Pub. L. 106–518, §210(1)–(3), in first sentence, substituted “$5,200” for “$3,500” and “$1,500” for “$1,000”, in second sentence, substituted “$3,700” for “$2,500”, and in third sentence, substituted “$1,200” for “$750” and “$3,900” for “$2,500”.
 
-1999—Subsec. (d)(4)(D)(vi). Pub. L. 106–113 inserted “, except that the amount of the fees shall not be considered a reason justifying any limited disclosure under section 3006A(d)(4) of title 18, United States Code” after “require”.
+<b>1999</b>—Subsec. (d)(4)(D)(vi). Pub. L. 106–113 inserted “, except that the amount of the fees shall not be considered a reason justifying any limited disclosure under section 3006A(d)(4) of title 18, United States Code” after “require”.
 
-1997—Subsec. (d)(4). Pub. L. 105–119 reenacted par. heading without change and amended text generally. Prior to amendment, text read as follows: “The amounts paid under this subsection, for representation in any case, shall be made available to the public.”
+<b>1997</b>—Subsec. (d)(4). Pub. L. 105–119 reenacted par. heading without change and amended text generally. Prior to amendment, text read as follows: “The amounts paid under this subsection, for representation in any case, shall be made available to the public.”
 
-1996—Subsec. (d)(4) to (7). Pub. L. 104–132, §903(a)(1), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
+<b>1996</b>—Subsec. (d)(4) to (7). Pub. L. 104–132, §903(a)(1), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
 
 Subsec. (e)(4). Pub. L. 104–132, §903(a)(2), added par. (4).
 
-1988—Subsec. (a)(1)(J). Pub. L. 100–690, §7101(f)(1), added subpar. (J).
+<b>1988</b>—Subsec. (a)(1)(J). Pub. L. 100–690, §7101(f)(1), added subpar. (J).
 
 Subsec. (d)(2). Pub. L. 100–690, §7101(f)(2), inserted provisions at end to representation of offender before United States Parole Commission, and in appeal from determination of such Commission.
 
-1987—Subsec. (a)(1)(E) to (I). Pub. L. 100–182 added subpar. (E) and redesignated former subpars. (E) to (H) as (F) to (I), respectively.
+<b>1987</b>—Subsec. (a)(1)(E) to (I). Pub. L. 100–182 added subpar. (E) and redesignated former subpars. (E) to (H) as (F) to (I), respectively.
 
-1986—Subsec. (a). Pub. L. 99–651, §103, made technical amendments to Pub. L. 98–473, §223(e), see 1984 Amendment note below.
+<b>1986</b>—Subsec. (a). Pub. L. 99–651, §103, made technical amendments to Pub. L. 98–473, §223(e), see 1984 Amendment note below.
 
-Pub. L. 99–651, §102(a)(1), substituted “in accordance with this section. Representation under each plan shall include counsel and investigative, expert, and other services necessary for adequate representation. Each plan shall provide the following:” and pars. (1) to (3) for prior provisions which read as follows: “(1) who is charged with a felony or misdemeanor (other than a petty offense as defined in section 1 of this title) or with juvenile delinquency by the commission of an act which, if committed by an adult, would be such a felony or misdemeanor or with a violation of probation, (2) who is under arrest, when such representation is required by law, (3) who is subject to revocation of parole, in custody as a material witness, or seeking collateral relief, as provided in subsection (g), (4) whose mental condition is the subject of a hearing pursuant to chapter 313 of this title, or (5) for whom the Sixth Amendment to the Constitution requires the appointment of counsel or for whom, in a case in which hefaces loss of liberty, any Federal law requires the appointment of counsel. Representation under each plan shall include counsel and investigative, expert, and other services necessary for an adequate defense. Each plan shall include a provision for private attorneys. The plan may include, in addition to a provision for private attorneys in a substantial proportion of cases, either of the following or both:
+Pub. L. 99–651, §102(a)(1), substituted “in accordance with this section. Representation under each plan shall include counsel and investigative, expert, and other services necessary for adequate representation. Each plan shall provide the following:” and pars. (1) to (3) for prior provisions which read as follows: “(1) who is charged with a felony or misdemeanor (other than a petty offense as defined in section 1 of this title) or with juvenile delinquency by the commission of an act which, if committed by an adult, would be such a felony or misdemeanor or with a violation of probation, (2) who is under arrest, when such representation is required by law, (3) who is subject to revocation of parole, in custody as a material witness, or seeking collateral relief, as provided in subsection (g), (4) whose mental condition is the subject of a hearing pursuant to chapter 313 of this title, or (5) for whom the Sixth Amendment to the Constitution requires the appointment of counsel or for whom, in a case in which he faces loss of liberty, any Federal law requires the appointment of counsel. Representation under each plan shall include counsel and investigative, expert, and other services necessary for an adequate defense. Each plan shall include a provision for private attorneys. The plan may include, in addition to a provision for private attorneys in a substantial proportion of cases, either of the following or both:
 
 &emsp;“(1) attorneys furnished by a bar association or a legal aid agency; or
 
@@ -308,7 +314,7 @@ Subsec. (j). Pub. L. 99–651, §102(b), redesignated subsec. (k) as (j), and am
 
 Subsecs. (k), (<i>l</i>). Pub. L. 99–651, §102(a)(7), (b)(1), redesignated subsec. (<i>l</i>) as (k) and substituted “this section shall apply” for “this Act, other than subsection (h) of section 1, shall apply” and “this section shall not apply” for “this Act shall not apply”. Former subsec. (k) redesignated (j).
 
-1984—Subsec. (a). Pub. L. 98–473, §405(a), added cl. (4) and redesignated former cl. (4) as (5).
+<b>1984</b>—Subsec. (a). Pub. L. 98–473, §405(a), added cl. (4) and redesignated former cl. (4) as (5).
 
 Subsec. (a)(1)(A). Pub. L. 98–473, §223(e)(1), as amended by Pub. L. 99–651, §103, substituted “Class A misdemeanor” for “misdemeanor (other than a petty offense as defined in section 1 of this title)”.
 
@@ -322,13 +328,13 @@ Subsec. (d)(2). Pub. L. 98–473, §1901(4)–(6), substituted “$2,000” for 
 
 Subsec. (g). Pub. L. 98–473, §405(b), struck out reference to section 4245 of title 18.
 
-1982—Subsec. (h)(2)(A). Pub. L. 97–164, §206(a), substituted “court of appeals” for “judicial council” wherever appearing and “court of appeals of the circuit” for “Judicial Council of the Circuit”.
+<b>1982</b>—Subsec. (h)(2)(A). Pub. L. 97–164, §206(a), substituted “court of appeals” for “judicial council” wherever appearing and “court of appeals of the circuit” for “Judicial Council of the Circuit”.
 
 Subsec. (i). Pub. L. 97–164, §206(b), substituted “court of appeals” for “judicial council”.
 
-1974—Subsec. (<i>l</i>). Pub. L. 93–412 substituted “shall apply in the United States District Court for the District of Columbia and the United States Court of Appeals for the District of Columbia Circuit. The provisions of this Act shall not apply to the Superior Court of the District of Columbia and the District of Columbia Court of Appeals”, for “shall be applicable in the District of Columbia”, and struck out provisions that the plan of the District of Columbia shall be approvedjointly by the Judicial Council of the District of Columbia Circuit and the District of Columbia Court of Appeals.
+<b>1974</b>—Subsec. (<i>l</i>). Pub. L. 93–412 substituted “shall apply in the United States District Court for the District of Columbia and the United States Court of Appeals for the District of Columbia Circuit. The provisions of this Act shall not apply to the Superior Court of the District of Columbia and the District of Columbia Court of Appeals”, for “shall be applicable in the District of Columbia”, and struck out provisions that the plan of the District of Columbia shall be approved jointly by the Judicial Council of the District of Columbia Circuit and the District of Columbia Court of Appeals.
 
-1970—Subsec. (a). Pub. L. 91–447, §1(a), expanded coverage of district court plan for furnishing representation to financially disabled persons to include defendants charged with violation of probation, any person under arrest when such representation is required by law, any person who is subject to revocation of parole, in custody as a material witness, or seeking collateral relief as provided in subsec. (g) of this section, and any person for whom the Sixth Amendment to the Constitution requires appointment of counsel or for whom, in a case in which he faces loss of liberty, any Federal law requires the appointment of counsel, and required each plan to include a provision for participation by private attorneys in a substantial proportion of cases, as well as permitting attorneys to be furnished by bar, legal aid, or defender organizations in accordance with subsec. (h) of this section.
+<b>1970</b>—Subsec. (a). Pub. L. 91–447, §1(a), expanded coverage of district court plan for furnishing representation to financially disabled persons to include defendants charged with violation of probation, any person under arrest when such representation is required by law, any person who is subject to revocation of parole, in custody as a material witness, or seeking collateral relief as provided in subsec. (g) of this section, and any person for whom the Sixth Amendment to the Constitution requires appointment of counsel or for whom, in a case in which he faces loss of liberty, any Federal law requires the appointment of counsel, and required each plan to include a provision for participation by private attorneys in a substantial proportion of cases, as well as permitting attorneys to be furnished by bar, legal aid, or defender organizations in accordance with subsec. (h) of this section.
 
 Subsec. (b). Pub. L. 91–447, §1(a), provided for appointment of counsel from a bar association, legal aid agency, or defender organization as well as from a panel of attorneys approved by the court, expanded advice to defendant of right to appointment of counsel where defendant is charged with juvenile delinquency by the commission of an act which, if committed by an adult, would be a felony or misdemeanor or with violation of probation, and provided for appointment of counsel to be retroactive so as to include any representation furnished pursuant to the plan prior to appointment.
 
@@ -344,7 +350,7 @@ Subsecs. (g) to (k). Pub. L. 91–447, §1(b), added subsecs. (g) and (h) and re
 
 Subsec. (<i>l</i>). Pub. L. 91–447, §1(c), added subsec. (<i>l</i>).
 
-1968—Subsecs. (b) to (d). Pub. L. 90–578 substituted “United States magistrate” for “United States commissioner” wherever appearing.
+<b>1968</b>—Subsecs. (b) to (d). Pub. L. 90–578 substituted “United States magistrate” for “United States commissioner” wherever appearing.
 
 #### Change of Name
 
@@ -376,7 +382,7 @@ Amendment by section 223(e) of Pub. L. 98–473 effective Nov. 1, 1987, and appl
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note undersection 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1974 Amendment
 
@@ -416,7 +422,7 @@ Pub. L. 102–572, title VII, §702, Oct. 29, 1992, 106 Stat. 4515, provided tha
 
 #### Study of Federal Defender Program
 
-Pub. L. 101–650, title III, §318, Dec. 1, 1990, 104 Stat. 5116, as amended by Pub. L. 102–198, §9, Dec. 9, 1991, 105 Stat. 1626, directed Judicial Conference of the United States to conduct a study of effectiveness of Federal defender program and to transmit a report on results of study to Committees on the Judiciary of Senate and House of Representatives no later than Mar. 31, 1993, with report to include recommendations for legislation, a proposed formula for compensation of Federal defender program counsel, and suggestions for procedural and operational changes by courts.
+Pub. L. 101–650, title III, §318, Dec. 1, 1990, 104 Stat. 5116, as amended by Pub. L. 102–198, §9, Dec. 9, 1991, 105Stat. 1626, directed Judicial Conference of the United States to conduct a study of effectiveness of Federal defender program and to transmit a report on results of study to Committees on the Judiciary of Senate and House of Representatives no later than Mar. 31, 1993, with report to include recommendations for legislation, a proposed formula for compensation of Federal defender program counsel, and suggestions for procedural and operational changes by courts.
 
 #### Funds for Payment of Compensation and Reimbursement
 

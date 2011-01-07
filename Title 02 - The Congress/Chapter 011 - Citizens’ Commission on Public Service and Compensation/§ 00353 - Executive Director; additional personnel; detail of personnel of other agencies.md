@@ -10,10 +10,6 @@
 
 (Pub. L. 90–206, title II, §225(c), Dec. 16, 1967, 81 Stat. 643; Pub. L. 101–194, title VII, §701(c), Nov. 30, 1989, 103 Stat. 1764.)
 
-#### References in Text
-
-The provisions of title 5 governing appointments in the competitive service, referred to in par. (1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 #### Amendments
 
 1989—Pub. L. 101–194 substituted “subparagraphs (A) and (B) of section 352(8) of this title” for “section 352(2) and (3) of this title” in pars. (1) and (2).

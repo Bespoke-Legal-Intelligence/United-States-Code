@@ -20,5 +20,5 @@ Another prior section 2504 was renumbered section 2531 of this title.
 
 #### Amendments
 
-1999—Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
+<b>1999</b>—Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
 

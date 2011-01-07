@@ -60,7 +60,7 @@
 
 #### (d) Limitation on commitment of resources
 
-After initiation of consultation required under subsection (a)(2) of this section, the Federal agency and the permit or license applicant shall not make any irreversible or irretrievable commitment of resources with respect to the agency action which has the effect of foreclosing the formulation or implementation of any reasonable and prudent alternative measures which would not violate subsection (a)(2) of this section.
+After initiation of consultation required under subsection (a)(2) of this section, the Federal agency and the permit or license applicant shall not make any irreversible or irretrievable commitment of resources with respect to the agencyaction which has the effect of foreclosing the formulation or implementation of any reasonable and prudent alternative measures which would not violate subsection (a)(2) of this section.
 
 #### (e) Endangered Species Committee
 
@@ -124,7 +124,7 @@ Not later than 90 days after November 10, 1978, the Secretary shall promulgate r
 
 #### (g) Application for exemption; report to Committee
 
-(1) A Federal agency, the Governor of the State in which an agency action will occur, if any, or a permit or license applicant may apply to the Secretary for an exemption for an agency action of such agency if, after consultation under subsection (a)(2) of this section, the Secretary's opinion under subsection (b) of this section indicates that the agency action would violate subsection (a)(2) of this section. An application for an exemption shall be considered initially by the Secretary in the manner provided for in this subsection, and shall be considered by the Committee for a final determination under subsection (h) of this section after a report is made pursuant to paragraph (5). The applicant for an exemption shall be referred to as the “exemption applicant” in this section.
+(1) A Federal agency, the Governor of the State in which an agency action will occur, if any, or a permit or license applicant may apply to the Secretary for an exemption for an agency action of such agency if, after consultation under subsection (a)(2) of this section, the Secretary's opinion under subsection (b) of this section indicates that the agency action would violate subsection (a)(2) of this section. An application for an exemption shall be considered initially by the Secretary in the manner providedfor in this subsection, and shall be considered by the Committee for a final determination under subsection (h) of this section after a report is made pursuant to paragraph (5). The applicant for an exemption shall be referred to as the “exemption applicant” in this section.
 
 (2)(A) An exemption applicant shall submit a written application to the Secretary, in a form prescribed under subsection (f) of this section, not later than 90 days after the completion of the consultation process; except that, in the case of any agency action involving a permit or license applicant, such application shall be submitted not later than 90 days after the date on which the Federal agency concerned takes final agency action with respect to the issuance of the permit or license. For purposes of the preceding sentence, the term “final agency action” means (i) a disposition by an agency with respect to the issuance of a permit or license that is subject to administrative review, whether or not such disposition is subject to judicial review; or (ii) if administrative review is sought with respect to such disposition, the decision resulting after such review. Such application shall set forth the reasons why the exemption applicant considers that the agency action meets the requirements for an exemption under this subsection.
 
@@ -176,7 +176,7 @@ Not later than 90 days after November 10, 1978, the Secretary shall promulgate r
 
 &emsp;&emsp;(iv) neither the Federal agency concerned nor the exemption applicant made any irreversible or irretrievable commitment of resources prohibited by subsection (d) of this section; and
 
-&emsp;(B) it establishes such reasonable mitigation and enhancement measures, including, but notlimited to, live propagation, transplantation, and habitat acquisition and improvement, as are necessary and appropriate to minimize the adverse effects of the agency action upon the endangered species, threatened species, or critical habitat concerned.
+&emsp;(B) it establishes such reasonable mitigation and enhancement measures, including, but not limited to, live propagation, transplantation, and habitat acquisition and improvement, as are necessary and appropriate to minimize the adverse effects of the agency action upon the endangered species, threatened species, or critical habitat concerned.
 
 > Any final determination by the Committee under this subsection shall be considered final agency action for purposes of chapter 7 of title 5.
 
@@ -244,9 +244,9 @@ The Disaster Relief and Emergency Assistance Act, referred to in subsec. (p), is
 
 #### Amendments
 
-1988—Subsec. (p). Pub. L. 100–707 substituted “the Disaster Relief and Emergency Assistance Act” for “the Disaster Relief Act of 1974” and “section 405 or 406 of the Disaster Relief and Emergency Assistance Act” for “section 401 or 402 of the Disaster Relief Act of 1974”.
+<b>1988</b>—Subsec. (p). Pub. L. 100–707 substituted “the Disaster Relief and Emergency Assistance Act” for “the Disaster Relief Act of 1974” and “section 405 or 406 of the Disaster Relief and Emergency Assistance Act” for “section 401 or 402 of the Disaster Relief Act of 1974”.
 
-1986—Subsec. (b)(4)(C). Pub. L. 99–659, §411(b)(1)–(3), added subpar. (C).
+<b>1986</b>—Subsec. (b)(4)(C). Pub. L. 99–659, §411(b)(1)–(3), added subpar. (C).
 
 Subsec. (b)(4)(iii), (iv). Pub. L. 99–659, §411(b)(4)–(6), added cl. (iii), redesignated former cl. (iii) as (iv), and in cl. (iv), as so redesignated, inserted reference to cl. (iii).
 
@@ -254,7 +254,7 @@ Subsec. (<i>o</i>). Pub. L. 99–659, §411(c)(1), in introductory provisions, i
 
 Subsec. (<i>o</i>)(2). Pub. L. 99–659, §411(c)(2), substituted “subsection (b)(4)(iv)” for “subsection (b)(4)(iii)” and inserted “prohibited” before “taking of the species”.
 
-1982—Subsec. (a)(3), (4). Pub. L. 97–304, §4(a)(1), added par. (3) and redesignated former par. (3) as (4).
+<b>1982</b>—Subsec. (a)(3), (4). Pub. L. 97–304, §4(a)(1), added par. (3) and redesignated former par. (3) as (4).
 
 Subsec. (b). Pub. L. 97–304, §4(a)(2), incorporated existing provisions into pars. (1)(A) and (3)(A) and added pars. (1)(B), (2), (3)(B), and (4).
 
@@ -290,11 +290,11 @@ Subsec. (g)(12). Pub. L. 97–304, §4(a)(5)(J), redesignated par. (12) as (8).
 
 Subsec. (h)(1). Pub. L. 97–304, §4(a)(6), substituted “within 30 days after receiving the report of the Secretary pursuant to subsection (g)(5) of this section” for “within 90 days of receiving the report of the review board under subsection (g)(7) of this section” in provisions preceding subpar. (A), substituted “report of the Secretary, the record of the hearing held under subsection (g)(4) of this section and on such other testimony” for “report of the review board and on such other testimony” in subpar. (A) preceding cl. (i), and added cl. (iv).
 
-Subsec. (<i>o</i>). Pub. L. 97–304, §4(a)(7), substituted “Notwithstanding sections 1533(d) and 1538(a)(1)(B) and (C) of this title or any regulation promulgated to implement either such section (1) any action for which an exemption is granted under subsection (h) of this section shall not be considered to be a taking of any endangered species or threatened species with respect to any activity which is necessary to carry out such action; and (2) any taking that is in compliance with the terms and conditions specified in a written statement provided under subsection (b)(4)(iii) of this section shall not be considered to be a taking of the species concerned” for “Notwithstanding sections 1533(d) and 1538(a) of this title or any regulations promulgated pursuant to such sections, any action for which an exemption is granted under subsection (h) of this sectionshall not be considered a taking of any endangered or threatened species with respect to any activity which is necessary to carry out such action”.
+Subsec. (<i>o</i>). Pub. L. 97–304, §4(a)(7), substituted “Notwithstanding sections 1533(d) and 1538(a)(1)(B) and (C) of this title or any regulation promulgated to implementeither such section (1) any action for which an exemption is granted under subsection (h) of this section shall not be considered to be a taking of any endangered species or threatened species with respect to any activity which is necessary to carry out such action; and (2) any taking that is in compliance with the terms and conditions specified in a written statement provided under subsection (b)(4)(iii) of this section shall not be considered to be a taking of the species concerned” for “Notwithstanding sections 1533(d) and 1538(a) of this title or any regulations promulgated pursuant to such sections, any action for which an exemption is granted under subsection (h) of this section shall not be considered a taking of any endangered or threatened species with respect to any activity which is necessary to carry out such action”.
 
 Subsec. (q). Pub. L. 97–304, §8(b), struck out subsec. (q) which authorized appropriations of $600,000 for each of fiscal years 1979, 1980, 1981, and 1982 in carrying out functions under subsecs. (e), (f), (g), and (h) of this section. See section 1542(c) of this title.
 
-1979—Subsec. (a). Pub. L. 96–159, §4(1), designated existing provisions as par. (1); struck out third sentence requirement that each Federal agency, in consultation with and with the assistance of the Secretary, insure that any action authorized, funded, or carried out by such agency (referred to as “agency action”) did not jeopardize the continued existence of any endangered species or threatened species or result in the destruction or adverse modification of habitat of such species which was determined by the Secretary, after consultation as appropriate with the affected States, to be critical, unless the agency was granted an exemption for such action by the Committee pursuant to subsec. (h) of this section; and added pars. (2) and (3), incorporating former third sentence provisions.
+<b>1979</b>—Subsec. (a). Pub. L. 96–159, §4(1), designated existing provisions as par. (1); struck out third sentence requirement that each Federal agency, in consultation with and with the assistance of the Secretary, insure that any action authorized, funded, or carried out by such agency (referred to as “agency action”) did not jeopardize the continued existence of any endangered species or threatened species or result in the destruction or adverse modification of habitat of such species which was determined by the Secretary, after consultation as appropriate with the affected States, to be critical, unless the agency was granted an exemption for such action by the Committee pursuant to subsec. (h) of this section; and added pars. (2) and (3), incorporating former third sentence provisions.
 
 Subsec. (b). Pub. L. 96–159, §4(2), (3), substituted “he believes would not violate subsection (a)(2) of this section and” for “he believes would avoid jeopardizing the continued existence of any endangered or threatened species or adversely modifying the critical habitat of such species, and which” before “can be taken” and introductory “subsection (a)(2) of this section” for “subsection (a) of this section”.
 
@@ -322,7 +322,7 @@ Subsec. (m). Pub. L. 96–159, §4(3), substituted “subsection (a)(2)” for �
 
 Subsec. (q). Pub. L. 96–159, §4(12), authorized appropriations of $600,000 for fiscal years 1980 through 1982, and deleted appropriations authorization of $300,000 for period beginning Oct. 1, 1979, and ending Mar. 3, 1980, and requirement that the Chairman of the Committee report to the Congress before end of fiscal year 1979 with respect to adequacy of the budget authority.
 
-1978—Subsec. (a). Pub. L. 95–632 designated existing provision as subsec. (a), inserted reference to agency action, substituted “adverse modification” for “modification”, and provided for the grant of an exemption for agency action by the Endangered Species Committee pursuant to subsec. (h) of this section.
+<b>1978</b>—Subsec. (a). Pub. L. 95–632 designated existing provision as subsec. (a), inserted reference to agency action, substituted “adverse modification” for “modification”, and provided for the grant of an exemption for agency action by the Endangered Species Committee pursuant to subsec. (h) of this section.
 
 Subsecs. (b) to (q). Pub. L. 95–632 added subsecs. (b) to (q).
 

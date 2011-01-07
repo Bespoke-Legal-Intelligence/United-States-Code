@@ -10,5 +10,5 @@ There are authorized to be appropriated—
 
 #### Amendments
 
-1952—Act July 14, 1952, increased appropriation authorization in subsec. (a) from $60,000,000 to $100,000,000 and in subsec. (b) from $50,000,000 to $100,000,000.
+<b>1952</b>—Act July 14, 1952, increased appropriation authorization in subsec. (a) from $60,000,000 to $100,000,000 and in subsec. (b) from $50,000,000 to $100,000,000.
 

@@ -22,7 +22,7 @@
 
 &emsp;(D) The linking of all markets for qualified securities through communication and data processing facilities will foster efficiency, enhance competition, increase the information available to brokers, dealers, and investors, facilitate the offsetting of investors’ orders, and contribute to best execution of such orders.
 
-(2) The Commission is directed, therefore, having due regard for the public interest, the protection of investors, and the maintenance of fair and orderly markets, to use its authority under this chapter to facilitate the establishment of a national market system for securities (which may include subsystems for particular types of securities with unique trading characteristics)in accordance with the findings and to carry out the objectives set forth in paragraph (1) of this subsection. The Commission, by rule, shall designate the securities or classes of securities qualified for trading in the national market system from among securities other than exempted securities. (Securities or classes of securities so designated hereinafter <sup>1</sup> in this section referred to as “qualified securities”.)
+(2) The Commission is directed, therefore, having due regard for the public interest, the protection of investors, and the maintenance of fair and orderly markets, to use its authority under this chapter to facilitate the establishment of a national market system for securities (which may include subsystems for particular types of securities with unique trading characteristics) in accordance with the findings and to carry out the objectives set forth in paragraph (1) of this subsection. The Commission, by rule, shall designate the securities or classes of securities qualified for trading in the national market system from among securities other than exempted securities. (Securities or classes of securities so designated hereinafter <sup>1</sup> in this section referred to as “qualified securities”.)
 
 (3) The Commission is authorized in furtherance of the directive in paragraph (2) of this subsection—
 
@@ -70,9 +70,9 @@
 
 &emsp;(F) assure equal regulation of all markets for qualified securities and all exchange members, brokers, and dealers effecting transactions in such securities.
 
-(2) The Commission, by rule, as it deems necessary or appropriate in the public interest or for the protection of investors, may require any person who has effected the purchase or sale of any qualified security by use of the mails or anymeans or instrumentality of interstate commerce to report such purchase or sale to a registered securities information processor, national securities exchange, or registered securities association and require such processor, exchange, or association to make appropriate distribution and publication of information with respect to such purchase or sale.
+(2) The Commission, by rule, as it deems necessary or appropriate in the public interest or for the protection of investors, may require any person who has effected the purchase or sale of any qualified security by use of the mails or any means or instrumentality of interstate commerce to report such purchase or sale to a registered securities information processor, national securities exchange, or registered securities association and require such processor, exchange, or association to make appropriate distribution and publication of information with respect to such purchase or sale.
 
-(3)(A) The Commission, by rule, is authorized to prohibit brokers and dealers from effecting transactions in securities registered pursuant to section 78<i>l</i>(b) of this title otherwise than on a national securities exchange, if the Commission finds, on the record after notice and opportunity for hearing, that—
+(3)(A) The Commission, by rule, is authorized to prohibit brokers and dealers from effecting transactions in securities registered pursuant to section 78<i>l</i>(b) of this title otherwise than on a national securities exchange, if the Commissionfinds, on the record after notice and opportunity for hearing, that—
 
 &emsp;(i) as a result of transactions in such securities effected otherwise than on a national securities exchange the fairness or orderliness of the markets for such securities has been affected in a manner contrary to the public interest or the protection of investors;
 
@@ -120,7 +120,7 @@
 
 #### (2) Application of rules by order of CFTC
 
-&emsp;No rule adopted pursuant to this section shall be applied to any person with respect to the trading of security futures products on an exchange that is registered under section 78f(g) of this title unless the Commodity Futures Trading Commission has issued an order directing that such rule is applicable to such persons.
+&emsp;No rule adopted pursuant to this section shall be applied to any person with respect tothe trading of security futures products on an exchange that is registered under section 78f(g) of this title unless the Commodity Futures Trading Commission has issued an order directing that such rule is applicable to such persons.
 
 (June 6, 1934, ch. 404, title I, §11A, as added Pub. L. 94–29, §7, June 4, 1975, 89 Stat. 111; amended Pub. L. 98–620, title IV, §402(14), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 100–181, title III, §§313, 314, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 106–554, §1(a)(5) \[title II, §206(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–430.)
 
@@ -130,15 +130,15 @@ The Federal Advisory Committee Act, referred to in subsec. (a)(3)(A), is Pub. L.
 
 #### Amendments
 
-2000—Subsec. (e). Pub. L. 106–554 added subsec. (e).
+<b>2000</b>—Subsec. (e). Pub. L. 106–554 added subsec. (e).
 
-1987—Subsec. (b)(2). Pub. L. 100–181, §313(1), substituted “transactions” for “transaction”.
+<b>1987</b>—Subsec. (b)(2). Pub. L. 100–181, §313(1), substituted “transactions” for “transaction”.
 
 Subsec. (c)(4). Pub. L. 100–181, §313(2), struck out “On or before the ninetieth day following June 4, 1975, the Commission shall (i) report to the Congress the results of its review, including the effects on competition of such rules, and (ii) commence a proceeding in accordance with the provisions of section 78s(c) of this title to amend any such rule imposing a burden on competition which does not appear to the Commission to be necessary or appropriate in furtherance of the purposes of this chapter. The Commission shall conclude any such proceeding within ninety days of the date of publication of notice of its commencement.”
 
 Subsec. (e). Pub. L. 100–181, §314, struck out subsec. (e) which read as follows: “The Commission is authorized and directed to make a study of the extent to which persons excluded from the definitions of ‘broker’ and ‘dealer’ maintain accounts on behalf of public customers for buying and selling securities registered under section 78<i>l</i> of this title and whether such exclusions are consistent with the protection of investors and the other purposes of this chapter. The Commission shall report to the Congress, on or before December 31, 1976, the results of its study together with such recommendations for legislation as it deems advisable.”
 
-1984—Subsec. (c)(4). Pub. L. 98–620 struck out designation “(A)” after “(4)”, and struck out subpar. (B) which provided that review pursuant to section 78y(b) of this title of any rule promulgated by the Commission in accordance with any proceeding commenced pursuant to this paragraph would, except as to causes the court considers of greater importance, take precedence on the docket over all other causes and had to be assigned for consideration at the earliest practicable date and expedited in every way.
+<b>1984</b>—Subsec. (c)(4). Pub. L. 98–620 struck out designation “(A)” after “(4)”, and struck out subpar. (B) which provided that review pursuant to section 78y(b) of this title of any rule promulgated by the Commission in accordance with any proceeding commenced pursuant to this paragraph would, except as to causes the court considers of greater importance, take precedence on the docket over all other causes and had to be assigned for consideration at the earliest practicable date and expedited in every way.
 
 #### Effective Date of 1984 Amendment
 

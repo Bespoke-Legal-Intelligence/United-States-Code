@@ -16,7 +16,7 @@ Section 43 of title 28, U.S.C., 1940 ed., is as follows:
 
 “§43. Venue of suits relating to orders of Interstate Commerce Commission.
 
-“The venue of any suit brought to enforce, suspend, or set aside, in whole or in part, any order of the Interstate Commerce Commission shall be in the judicial district wherein is the residence of the party or any of the parties upon whose petition the order was made, except that where the order does not relate to transportation or is not made upon the petition of any party the venue shall be in the district where the matter complained of in the petition before the commission arises, and except that where the order does not relate either to transportation or to a matter so complained of before the commission the matter covered by the order shall be deemed to arise in the district where one of the petitioners in court has either its principal office or its principal operating office. In case such transportation relates to a through shipment the term ‘destination’ shall be construed as meaning final destination of such shipment.” The amendment of section 207 of title28, U.S.C., 1940 ed., proposed by the Judicial Conference is:
+“The venue of any suit brought to enforce, suspend, or set aside, in whole or in part, any order of the Interstate Commerce Commission shall be in the judicial district wherein is the residence of the party or any of the parties upon whose petition the order was made, except that where the order does not relate to transportation or is not made upon the petition of any party the venue shall be in the district where the matter complained of in the petition before the commission arises, and except that where the order does not relate either to transportation or to a matter so complained of before the commission the matter covered by the order shall be deemed to arise in the district where one of the petitioners in court has either its principal office or its principal operating office. In case such transportation relates to a through shipment the term ‘destination’ shall be construed as meaning final destination of such shipment.” The amendment of section 207 of title 28, U.S.C., 1940 ed., proposed by the Judicial Conference is:
 
 “Except as otherwise provided in the Act entitled ‘An Act to Regulate Commerce’, approved February 4, 1887, as amended, the venue of any suit brought to enforce, suspend, or set aside, in whole or in part, any order of the Interstate Commerce Commission shall be in the judicial district wherein is the residence of the party or any of the parties bringing the suit or wherein such party or any of such parties has its principal office.”
 
@@ -24,13 +24,13 @@ The revised section substitutes the words “Except as otherwise provided by law
 
 #### Amendments
 
-1992—Subsec. (b). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Subsec. (b). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
-1975—Subsec. (a). Pub. L. 93–584 substituted provisions that civil actions under section 1336(a) of this title shall be brought only in a judicial district in which any of the parties bringing the action resides or has its principal office, for provisions that civil actions to enforce, suspend, or set aside in whole or in part orders of the Interstate Commerce Commission shall be brought in such judicial district.
+<b>1975</b>—Subsec. (a). Pub. L. 93–584 substituted provisions that civil actions under section 1336(a) of this title shall be brought only in a judicial district in which any of the parties bringing the action resides or has its principal office, for provisions that civil actions to enforce, suspend, or set aside in whole or in part orders of the Interstate Commerce Commission shall be brought in such judicial district.
 
-1964—Pub. L. 88–513 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1964</b>—Pub. L. 88–513 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1992 Amendment
 

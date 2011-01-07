@@ -34,9 +34,9 @@ A prior section 2503, added Pub. L. 100–456, div. A, title VIII, §821(b)(1)(B
 
 #### Amendments
 
-2001—Subsec. (b). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition”.
+<b>2001</b>—Subsec. (b). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition”.
 
-1996—Subsec. (a). Pub. L. 104–201, §829(b)(1), substituted “The Secretary of Defense” for “(1) The Secretary of Defense, in consultation with the National Defense Technology and Industrial Base Council,” and struck out pars. (2) to (4) which read as follows:
+<b>1996</b>—Subsec. (a). Pub. L. 104–201, §829(b)(1), substituted “The Secretary of Defense” for “(1) The Secretary of Defense, in consultation with the National Defense Technology and Industrial Base Council,” and struck out pars. (2) to (4) which read as follows:
 
 “(2) As determined by the Secretary of Defense, the program shall be administered by one of the following:
 

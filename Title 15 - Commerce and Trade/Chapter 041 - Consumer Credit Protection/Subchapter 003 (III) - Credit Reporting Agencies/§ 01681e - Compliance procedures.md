@@ -60,7 +60,11 @@ A consumer reporting agency may not prohibit a user of a consumer report furnish
 
 &emsp;&emsp;(B) the agency or department certifies in writing to the person reselling the report that nondisclosure is necessary to protect classified information or the safety of persons employed by or contracting with, or undergoing investigation for work or contracting with the agency or department.
 
-(Pub. L. 90–321, title VI, §607, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1130; amended Pub. L. 104–208, div. A, title II, §2407, Sept. 30, 1996, 110 Stat. 3009–435; Pub. L. 105–107, title III, §311(b), Nov. 20, 1997, 111 Stat. 2256.)
+(Pub. L. 90–321, title VI, §607, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1130; amended Pub. L. 104–208, div. A, title II, §2407, Sept. 30, 1996, 110 Stat. 3009–435; Pub. L. 105–107, title III, §311(b), Nov. 20, 1997, 111 Stat. 2256; Pub. L. 111–203, title X, §1088(a)(2)(A), July 21, 2010, 124 Stat. 2087.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1088(a)(2)(A), 1100H, July 21, 2010, 124 Stat. 2087, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Federal Trade Commission” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -68,9 +72,13 @@ Section 1681b(b)(4) of this title, referred to in subsec. (e)(3)(A), was subsequ
 
 #### Amendments
 
-1997—Subsec. (e)(3). Pub. L. 105–107 added par. (3).
+<b>1997</b>—Subsec. (e)(3). Pub. L. 105–107 added par. (3).
 
-1996—Subsecs. (c) to (e). Pub. L. 104–208 added subsecs. (c) to (e).
+<b>1996</b>—Subsecs. (c) to (e). Pub. L. 104–208 added subsecs. (c) to (e).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1997 Amendment
 

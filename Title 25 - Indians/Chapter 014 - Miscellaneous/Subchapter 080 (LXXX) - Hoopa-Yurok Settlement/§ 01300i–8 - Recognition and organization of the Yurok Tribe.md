@@ -6,7 +6,7 @@
 
 (2) The Indian Reorganization Act of June 18, 1934 (48 Stat. 984; 25 U.S.C. 461 et seq.), as amended, is hereby made applicable to the Yurok Tribe and the tribe may organize under such Act as provided in this section.
 
-(3) Within thirty days (30) after October 31, 1988, the Secretary, after consultation with the appropriate committees of Congress, shall appoint five (5) individuals who shall comprise the Yurok Transition Team which, pursuant to a budget approved by the Secretary, shall provide counseling and assistance, shall promote communication with potential members of the Yurok Tribe concerning the provisions of this subchapter, and shall study and investigate programs, resources, and facilities for consideration by the Interim Council. The Yurok Transition Team may receive grants and enter into contracts for the purpose of carrying out this section and section 1300i–9(a) of this title. Such grants and contracts shall be transferred to the Yurok Interim Council upon its organization. Any property acquired for or on behalf of the Yurok Transition Team shall be held in the name of the Yurok Tribe.
+(3) Within thirty days (30) after October 31, 1988, the Secretary, after consultation with the appropriate committees of Congress, shall appoint five (5) individuals who shall comprise the Yurok Transition Team which, pursuant to abudget approved by the Secretary, shall provide counseling and assistance, shall promote communication with potential members of the Yurok Tribe concerning the provisions of this subchapter, and shall study and investigate programs, resources, and facilities for consideration by the Interim Council. The Yurok Transition Team may receive grants and enter into contracts for the purpose of carrying out this section and section 1300i–9(a) of this title. Such grants and contracts shall be transferred to the Yurok Interim Council upon its organization. Any property acquired for or on behalf of the Yurok Transition Team shall be held in the name of the Yurok Tribe.
 
 #### (b) Interim Council; establishment
 
@@ -40,7 +40,7 @@ There shall be established an Interim Council of the Yurok Tribe to be composed 
 
 (4) The Interim Council shall appoint, as soon as practical, a drafting committee which shall be responsible, in consultation with the Interim Council, the Secretary and members of the tribe, for the preparation of a draft constitution for submission to the Secretary pursuant to subsection (e) of this section.
 
-(5) The Interim Council shall be dissolved effective with the election and installation of the initial tribe <sup>1</sup> governing body elected pursuant to the constitution adopted under subsection (e) ofthis section or at the end of two years after such installation, whichever occurs first.
+(5) The Interim Council shall be dissolved effective with the election and installation of the initial tribe <sup>1</sup> governing body elected pursuant to the constitution adopted under subsection (e) of this section or at the end of two years after such installation, whichever occurs first.
 
 #### (e) Organization of Yurok Tribe
 
@@ -50,13 +50,13 @@ Upon written request of the Interim Council or the drafting committee and the su
 
 #### References in Text
 
-The Indian Reorganization Act, referred to in subsecs. (a)(2) and (e), is act June 18, 1934, ch. 576, 48 Stat. 984, as amended, which is classified generally to subchapter V (§461 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
+The Indian Reorganization Act, referred to in subsecs. (a)(2) and (e), is act June 18, 1934, ch. 576, 48 Stat.984, as amended, which is classified generally to subchapter V (§461 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
 
 #### Amendments
 
-1990—Subsec. (a)(3). Pub. L. 101–301 substituted “counseling and assistance, shall” for “counseling,”.
+<b>1990</b>—Subsec. (a)(3). Pub. L. 101–301 substituted “counseling and assistance, shall” for “counseling,”.
 
-1989—Subsec. (a)(3). Pub. L. 101–121 inserted provisions authorizing the Yurok Transition Team to receive grants and enter into contracts for the purpose of carrying out this section and section 1300i–9(a) of this title and directing that such grants and contracts be transferred to the Yurok Interim Council upon its organization.
+<b>1989</b>—Subsec. (a)(3). Pub. L. 101–121 inserted provisions authorizing the Yurok Transition Team to receive grants and enter into contracts for the purpose of carrying out this section and section 1300i–9(a) of this title and directing that such grants and contracts be transferred to the Yurok Interim Council upon its organization.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “tribal”.</i>
 

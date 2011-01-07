@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary concerned; consultative requirements
 
-Subject to sections 8812 and 8817 of this title, the Secretary concerned may commit to make, and make, purchase agreements for all or part of the biomass energy production of any biomass energy project, if the Secretary determines—
+Subject to sections 8812 and 8817 of this title, the Secretary concerned may commit to make, and make, purchase agreements for all or part ofthe biomass energy production of any biomass energy project, if the Secretary determines—
 
 &emsp;(1) that such biomass energy is of a type, quantity, and quality that can be used by Federal agencies; and
 
@@ -51,4 +51,8 @@ If the Secretary concerned determines, in the discretion of the Secretary, that�
 > the sales price set forth in the purchase agreement, and maximum liability under such agreement, may be renegotiated.
 
 (Pub. L. 96–294, title II, §216, June 30, 1980, 94 Stat. 692.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (b) and (h)(2), was in the original “this title”, meaning title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 683, known as the Biomass Energy and Alcohol Fuels Act of 1980, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 8801 of this title and Tables.
 

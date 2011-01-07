@@ -48,7 +48,7 @@ The President shall make the initial appointments to the Board of Trustees withi
 
 #### (2) Vacancies
 
-&emsp;Any vacancy among the appointed trustees shall be filled in the same manner in which the original appointment was made, and any trustee appointed to fill a vacancy shall serve for the remainder of that term for which his or her predecessor was appointed.
+&emsp;Any vacancy among the appointed trustees shall be filled in the same manner in whichthe original appointment was made, and any trustee appointed to fill a vacancy shall serve for the remainder of that term for which his or her predecessor was appointed.
 
 #### (3) Limitations
 
@@ -90,7 +90,7 @@ Appointed trustees shall not be considered Federal employees by virtue of their 
 
 #### (1) Location and timing of meetings
 
-&emsp;The Board shall meet in sessions open to the public at least three times per year in New Mexico. Upon a majority vote made in open session, and a public statement of the reasons therefore, the Board may close any other meetings to the public: <i>Provided</i>, That any final decision of the Board to adopt or amendthe comprehensive management program under section 698v–6(d) of this title or to approve any activity related to the management of the land or resources of the Preserve shall be made in open public session.
+&emsp;The Board shall meet in sessions open to the public at least three times per year in New Mexico. Upon a majority vote made in open session, and a public statement of the reasons therefore, the Board may close any other meetings to the public: <i>Provided</i>, That any final decision of the Board to adopt or amend the comprehensive management program under section 698v–6(d) of this title or to approve any activity related to the management of the land or resources of the Preserve shall be made in open public session.
 
 #### (2) Public information
 
@@ -106,7 +106,7 @@ The Ethics in Government Act, referred to in subsec. (f), probably means the Eth
 
 #### Amendments
 
-2005—Subsec. (e)(2). Pub. L. 109–132, §3(1), substituted “Except as provided in paragraph (3), trustees” for “Trustees”.
+<b>2005</b>—Subsec. (e)(2). Pub. L. 109–132, §3(1), substituted “Except as provided in paragraph (3), trustees” for “Trustees”.
 
 Subsec. (e)(3). Pub. L. 109–132, §3(2), designated existing provisions as subpar. (A), inserted subpar. heading, and added subpars. (B) and (C).
 

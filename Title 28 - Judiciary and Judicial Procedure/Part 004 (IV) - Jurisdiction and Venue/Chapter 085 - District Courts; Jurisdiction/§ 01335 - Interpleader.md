@@ -26,7 +26,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-2005—Subsec. (a)(1). Pub. L. 109–2 inserted “subsection (a) or (d) of” before “section 1332”.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–2 inserted “subsection (a) or (d) of” before “section 1332”.
 
 #### Effective Date of 2005 Amendment
 

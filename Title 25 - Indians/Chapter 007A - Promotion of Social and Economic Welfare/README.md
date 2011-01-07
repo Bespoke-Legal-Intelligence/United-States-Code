@@ -8,7 +8,7 @@
 | [305b.](%C2%A7%2000305b%20-%20Rules%20and%20regulations%3B%20submission%20to%20Secretary%20of%20the%20Interior.md) | Rules and regulations; submission to Secretary of the Interior. |
 | [305c.](%C2%A7%2000305c%20-%20Appropriation.md) | Appropriation. |
 | 305c–1. | Repealed. |
-| [305d.](%C2%A7%2000305d%20-%20Referral%20for%20criminal%20and%20civil%20violations%3B%20complaints%3B%20recommendations.md) | Referral for criminal and civil violations; complaints; recommendations. |
+| [305d.](%C2%A7%2000305d%20-%20Criminal%20proceedings%3B%20civil%20actions.md) | Criminal proceedings; civil actions. |
 | [305e.](%C2%A7%2000305e%20-%20Cause%20of%20action%20for%20misrepresentation%20of%20Indian%20produced%20goods.md) | Cause of action for misrepresentation of Indian produced goods. |
 | [305f.](%C2%A7%2000305f%20-%20Indian%20Arts%20and%20Crafts%20Board%20art%20collection.md) | Indian Arts and Crafts Board art collection. |
 | [306\.](%C2%A7%2000306%20-%20Expenditures%20for%20encouragement%20of%20industry%20and%20self-support%3B%20repayment.md) | Expenditures for encouragement of industry and self-support; repayment. |
@@ -32,7 +32,7 @@
 - [&sect; 00305b - Rules and regulations; submission to Secretary of the Interior](%C2%A7%2000305b%20-%20Rules%20and%20regulations%3B%20submission%20to%20Secretary%20of%20the%20Interior.md)
 - [&sect; 00305c - Appropriation](%C2%A7%2000305c%20-%20Appropriation.md)
 - [&sect; 00305c&#8211;1 - Repealed. Pub. L. 87&#8211;23, &sect;2, Apr. 24, 1961, 75 Stat. 45](%C2%A7%2000305c%E2%80%931%20-%20Repealed.%20Pub.%20L.%2087%E2%80%9323%2C%20%C2%A72%2C%20Apr.%2024%2C%201961%2C%2075%20Stat.%2045.md)
-- [&sect; 00305d - Referral for criminal and civil violations; complaints; recommendations](%C2%A7%2000305d%20-%20Referral%20for%20criminal%20and%20civil%20violations%3B%20complaints%3B%20recommendations.md)
+- [&sect; 00305d - Criminal proceedings; civil actions](%C2%A7%2000305d%20-%20Criminal%20proceedings%3B%20civil%20actions.md)
 - [&sect; 00305e - Cause of action for misrepresentation of Indian produced goods](%C2%A7%2000305e%20-%20Cause%20of%20action%20for%20misrepresentation%20of%20Indian%20produced%20goods.md)
 - [&sect; 00305f - Indian Arts and Crafts Board art collection](%C2%A7%2000305f%20-%20Indian%20Arts%20and%20Crafts%20Board%20art%20collection.md)
 - [&sect; 00306 - Expenditures for encouragement of industry and self-support; repayment](%C2%A7%2000306%20-%20Expenditures%20for%20encouragement%20of%20industry%20and%20self-support%3B%20repayment.md)

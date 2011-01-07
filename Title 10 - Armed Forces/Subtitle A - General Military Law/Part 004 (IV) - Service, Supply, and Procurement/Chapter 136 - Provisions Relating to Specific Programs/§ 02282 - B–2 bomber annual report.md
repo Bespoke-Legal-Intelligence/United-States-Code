@@ -22,5 +22,5 @@ Not later than March 1 of each year through 2008, the Secretary of Defense shall
 
 #### Amendments
 
-2003—Pub. L. 108–136 inserted “through 2008” after “March 1 of each year” in introductory provisions.
+<b>2003</b>—Pub. L. 108–136 inserted “through 2008” after “March 1 of each year” in introductory provisions.
 

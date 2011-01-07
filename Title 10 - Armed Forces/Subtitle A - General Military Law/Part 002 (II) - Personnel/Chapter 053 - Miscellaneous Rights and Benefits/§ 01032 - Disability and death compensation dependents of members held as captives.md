@@ -24,15 +24,15 @@ A prior section 1032, act Aug. 10, 1956, ch. 1041, 70A Stat. 80, provided that a
 
 #### Amendments
 
-1989—Subsec. (d)(1). Pub. L. 101–189, §1622(e)(2)(A), substituted “The term ‘dependent’ has” for “ ‘Dependent’ has”.
+<b>1989</b>—Subsec. (d)(1). Pub. L. 101–189, §1622(e)(2)(A), substituted “The term ‘dependent’ has” for “ ‘Dependent’ has”.
 
 Subsec. (d)(2). Pub. L. 101–189, §1622(e)(2)(B), inserted “The term” after “(2)”.
 
-1987—Pub. L. 100–26, §7(e)(1)(A), renumbered the second section 1051 of this title as this section.
+<b>1987</b>—Pub. L. 100–26, §7(e)(1)(A), renumbered the second section 1051 of this title as this section.
 
 Subsec. (d)(1), (2). Pub. L. 100–26, §3(8), amended directory language of Pub. L. 99–661. See 1986 Amendment note below.
 
-1986—Subsec. (d). Pub. L. 99–661, §1343(a)(25), as amended by Pub. L. 100–26, §3(8), substituted “title 37” for “that title” in par. (1), and “has the meaning given that term” for “and ‘uniformed services’ have the meanings given those terms” in par. (2).
+<b>1986</b>—Subsec. (d). Pub. L. 99–661, §1343(a)(25), as amended by Pub. L. 100–26, §3(8), substituted “title 37” for “that title” in par. (1), and “has the meaning given that term” for “and ‘uniformed services’ have the meanings given those terms” in par. (2).
 
 #### Effective Date of 1987 Amendment
 
@@ -40,7 +40,7 @@ Amendment by section 3(8) of Pub. L. 100–26 applicable as if included in Pub. 
 
 #### Effective Date
 
-Section 806(b)(3) of Pub. L. 99–399 provided that: “Section 1051 \[now 1032\] of title 10, United States Code, asadded by paragraph (1), shall apply with respect to any disability or death resulting from an injury that occurs after January 21, 1981.”
+Section 806(b)(3) of Pub. L. 99–399 provided that: “Section 1051 \[now 1032\] of title 10, United States Code, as added by paragraph (1), shall apply with respect to any disability or death resulting from an injury that occurs after January 21, 1981.”
 
 #### Delegation of Functions
 

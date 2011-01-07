@@ -2,7 +2,7 @@
 
 #### (a) Authority to make loans
 
-The Secretary may, in accordance with the provisions of this section and such rules and regulations as he shall prescribe, make a loan (and may make a commitment to loan) to any person who owns or operates any existing electric powerplant converting to coal or other alternate fuel as its primary energy source after the effective date of this chapter for the purpose of financing the purchase and installation of one or more certified air pollution control devices for such electric powerplant.
+The Secretary may, in accordance with the provisions of this section and such rules and regulations as he shall prescribe, make a loan (andmay make a commitment to loan) to any person who owns or operates any existing electric powerplant converting to coal or other alternate fuel as its primary energy source after the effective date of this chapter for the purpose of financing the purchase and installation of one or more certified air pollution control devices for such electric powerplant.
 
 #### (b) Limitations and conditions
 
@@ -24,7 +24,7 @@ A loan made under this section shall—
 
 &emsp;&emsp;(C) there is continued reasonable assurance of full repayment of the principal, interest, and fees; and
 
-&emsp;&emsp;(D) competition among private entities for the provision of air pollution control devicesfor electric powerplants using coal as their primary energy source to be assisted under this section will be in no way limited or precluded.
+&emsp;&emsp;(D) competition among private entities for the provision of air pollution control devices for electric powerplants using coal as their primary energy source to be assisted under this section will be in no way limited or precluded.
 
 #### (c) Allocation and priorities
 
@@ -90,5 +90,5 @@ There are hereby authorized to be appropriated to the Secretary such sums as may
 
 The effective date of this chapter, referred to in subsecs. (a) and (d)(1)(E), is the effective date of Pub. L. 95–620. See section 901 of Pub. L. 95–620, set out as an Effective Date note under section 8301 of this title.
 
-The Clean Air Act, referred to in subsec. (d)(1)(C), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) ofthis title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+The Clean Air Act, referred to in subsec. (d)(1)(C), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 

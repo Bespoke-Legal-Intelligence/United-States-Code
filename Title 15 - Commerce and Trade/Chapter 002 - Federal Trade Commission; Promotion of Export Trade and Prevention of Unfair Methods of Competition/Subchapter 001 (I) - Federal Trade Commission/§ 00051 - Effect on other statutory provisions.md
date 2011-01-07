@@ -4,9 +4,3 @@ Nothing contained in this subchapter shall be construed to prevent or interfere 
 
 (Sept. 26, 1914, ch. 311, §11, 38 Stat. 724.)
 
-#### References in Text
-
-The antitrust Acts, referred to in text, are defined in section 44 of this title.
-
-The Acts to regulate commerce, referred to in text, are defined in section 44 of this title.
-

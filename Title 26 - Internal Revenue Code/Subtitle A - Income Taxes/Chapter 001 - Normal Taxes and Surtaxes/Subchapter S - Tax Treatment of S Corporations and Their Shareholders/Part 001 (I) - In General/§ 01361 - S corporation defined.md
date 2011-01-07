@@ -64,7 +64,7 @@
 
 &emsp;&emsp;&emsp;If the failure to meet the requirements of subparagraph (B) is by reason of the sale of stock of a corporation which is a qualified subchapter S subsidiary, the sale of such stock shall be treated as if—
 
-&emsp;&emsp;&emsp;&emsp;(I) the sale were a sale of an undivided interest in the assets of such corporation (based on the percentage of the corporation's stock sold), and
+&emsp;&emsp;&emsp;&emsp;(I) the sale were a sale of an undivided interest in the assets of such corporation\(based on the percentage of the corporation's stock sold), and
 
 &emsp;&emsp;&emsp;&emsp;(II) the sale were followed by an acquisition by such corporation of all of its assets (and the assumption by such corporation of all of its liabilities) in a transaction to which section 351 applies.
 
@@ -250,7 +250,7 @@
 
 &emsp;&emsp;(B) all of the income (within the meaning of section 643(b)) of which is distributed (or required to be distributed) currently to 1 individual who is a citizen or resident of the United States.
 
-> &emsp;A substantially separate and independent share of a trust within the meaning of section 663(c) shall be treated as a separate trust for purposes of this subsection and subsection (c).
+> &emsp;A substantially separate and independent share of a trust within the meaning of section663(c) shall be treated as a separate trust for purposes of this subsection and subsection (c).
 
 #### (4) Trust ceasing to be qualified
 
@@ -326,7 +326,7 @@
 
 In the case of a bank which changes from the reserve method of accounting for bad debts described in section 585 or 593 for its first taxable year for which an election under section 1362(a) is in effect, the bank may elect to take into account any adjustments under section 481 by reason of such change for the taxable year immediately preceding such first taxable year.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1669; amended Pub. L. 98–369, div. A, title VII, §721(c), (f), July 18, 1984, 98 Stat. 967; Pub. L. 99–514, title IX, §901(d)(4)(G), title XVIII, §1879(m)(1)(A), Oct. 22, 1986, 100 Stat. 2380, 2910; Pub. L. 100–647, title I, §1018(q)(2), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 101–239, title VII, §7811(c)(6), Dec. 19, 1989, 103 Stat. 2407; Pub. L. 104–188, title I, §§1301–1302(c), 1303, 1304, 1308(a), (b), (d)(1), 1315, 1316(a), (e), 1616(b)(15), Aug. 20, 1996, 110 Stat. 1777, 1779, 1782, 1783, 1785, 1786, 1857; Pub. L. 105–34, title XVI, §1601(c)(1), (3), (4)(B), (C), Aug. 5, 1997, 111 Stat. 1087; Pub. L. 105–206, title VI, §6007(f)(3), July 22, 1998, 112 Stat. 810; Pub. L. 106–554, §1(a)(7) \[title III, §316(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 108–357, title II, §§231(a), 232(a), 233(a), (b), 234(a), 236(a), 239(a), Oct. 22, 2004, 118 Stat. 1433–1435, 1437; Pub. L. 109–135, title IV, §§403(b), 413(a)(1), (c), Dec. 21, 2005, 119 Stat. 2620, 2641; Pub. L. 110–28, title VIII, §§8232(a), 8233(a), 8234(a), May 25, 2007, 121 Stat. 197, 198.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1669; amended Pub. L. 98–369, div. A, title VII, §721(c), (f), July 18, 1984, 98 Stat. 967; Pub. L. 99–514, title IX, §901(d)(4)(G), title XVIII, §1879(m)(1)(A), Oct. 22, 1986, 100 Stat. 2380, 2910;Pub. L. 100–647, title I, §1018(q)(2), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 101–239, title VII, §7811(c)(6), Dec. 19, 1989, 103 Stat. 2407; Pub. L. 104–188, title I, §§1301–1302(c), 1303, 1304, 1308(a), (b), (d)(1), 1315, 1316(a), (e), 1616(b)(15), Aug. 20, 1996, 110 Stat. 1777, 1779, 1782, 1783, 1785, 1786, 1857; Pub. L. 105–34, title XVI, §1601(c)(1), (3), (4)(B), (C), Aug. 5, 1997, 111 Stat. 1087; Pub. L. 105–206, title VI, §6007(f)(3), July 22, 1998, 112 Stat. 810; Pub. L. 106–554, §1(a)(7) \[title III, §316(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 108–357, title II, §§231(a), 232(a), 233(a), (b), 234(a), 236(a), 239(a), Oct. 22, 2004, 118 Stat. 1433–1435, 1437; Pub. L. 109–135, title IV, §§403(b), 413(a)(1), (c), Dec. 21, 2005, 119 Stat. 2620, 2641; Pub. L. 110–28, title VIII, §§8232(a), 8233(a), 8234(a), May 25, 2007, 121 Stat. 197, 198.)
 
 #### References in Text
 
@@ -338,13 +338,13 @@ A prior section 1361, acts Aug. 16, 1954, ch. 736, 68A Stat. 350; Oct. 10, 1962,
 
 #### Amendments
 
-2007—Subsec. (b)(3)(C). Pub. L. 110–28, §8234(a), designated existing provisions as cl. (i), inserted cl. (i) heading, and added cl. (ii).
+<b>2007</b>—Subsec. (b)(3)(C). Pub. L. 110–28, §8234(a), designated existing provisions as cl. (i), inserted cl. (i) heading, and added cl. (ii).
 
 Subsec. (f). Pub. L. 110–28, §8232(a), added subsec. (f).
 
 Subsec. (g). Pub. L. 110–28, §8233(a), added subsec. (g).
 
-2005—Subsec. (b)(3)(A). Pub. L. 109–135, §413(c)(1), struck out “and in the case of information returns required under part III of subchapter A of chapter 61” after “Secretary”.
+<b>2005</b>—Subsec. (b)(3)(A). Pub. L. 109–135, §413(c)(1), struck out “and in the case of information returns required under part III of subchapter A of chapter 61” after “Secretary”.
 
 Subsec. (b)(3)(E). Pub. L. 109–135, §413(c)(2), added subpar. (E).
 
@@ -352,7 +352,7 @@ Subsec. (c)(1). Pub. L. 109–135, §403(b), reenacted heading without change an
 
 Subsec. (c)(2)(A)(vi). Pub. L. 109–135, §413(a)(1), inserted “or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)(1))” after “a bank (as defined in section 581)” and “or company” after “such bank”.
 
-2004—Subsec. (b)(1)(A). Pub. L. 108–357, §232(a), substituted “100” for “75”.
+<b>2004</b>—Subsec. (b)(1)(A). Pub. L. 108–357, §232(a), substituted “100” for “75”.
 
 Subsec. (b)(3)(A). Pub. L. 108–357, §239(a), inserted “and in the case of information returns required under part III of subchapter A of chapter 61” after “Secretary”.
 
@@ -366,11 +366,11 @@ Subsec. (d)(1)(C). Pub. L. 108–357, §236(a), added subpar. (C).
 
 Subsec. (e)(2). Pub. L. 108–357, §234(a), inserted “(determined without regard to any power of appointment to the extent such power remains unexercised at the end of such period)” after “of the trust” and substituted “1-year” for “60-day”.
 
-2000—Subsec. (e)(1)(A)(i)(IV). Pub. L. 106–554 added subcl. (IV).
+<b>2000</b>—Subsec. (e)(1)(A)(i)(IV). Pub. L. 106–554 added subcl. (IV).
 
-1998—Subsec. (e)(4). Pub. L. 105–206 substituted “section 641(c)” for “section 641(d)”.
+<b>1998</b>—Subsec. (e)(4). Pub. L. 105–206 substituted “section 641(c)” for “section 641(d)”.
 
-1997—Subsec. (b)(1)(B). Pub. L. 105–34, §1601(c)(4)(C), substituted “subsection (c)(6)” for “subsection (c)(7)”.
+<b>1997</b>—Subsec. (b)(1)(B). Pub. L. 105–34, §1601(c)(4)(C), substituted “subsection (c)(6)” for “subsection (c)(7)”.
 
 Subsec. (b)(3)(A). Pub. L. 105–34, §1601(c)(3), substituted “Except as provided in regulations prescribed by the Secretary, for purposes of this title” for “For purposes of this title”.
 
@@ -378,7 +378,7 @@ Subsec. (c)(6), (7). Pub. L. 105–34, §1601(c)(4)(B), redesignated par. (7) as
 
 Subsec. (e)(1)(B)(iii). Pub. L. 105–34, §1601(c)(1), added cl. (iii).
 
-1996—Subsec. (b)(1)(A). Pub. L. 104–188, §1301, substituted “75” for “35”.
+<b>1996</b>—Subsec. (b)(1)(A). Pub. L. 104–188, §1301, substituted “75” for “35”.
 
 Subsec. (b)(1)(B). Pub. L. 104–188, §1316(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “have as a shareholder a person (other than an estate and other than a trust described in subsection (c)(2)) who is not an individual,”.
 
@@ -420,15 +420,15 @@ Subsec. (e). Pub. L. 104–188, §1302(c), added subsec. (e).
 
 Subsec. (e)(1)(A)(i). Pub. L. 104–188, §1316(e), struck out “which holds a contingent interest and is not a potential current beneficiary” after “170(c)”.
 
-1989—Subsec. (b)(2)(B). Pub. L. 101–239 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a financial institution which is a bank (as defined in section 585(a)(2)) or to which section 593 applies,”.
+<b>1989</b>—Subsec. (b)(2)(B). Pub. L. 101–239 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a financial institution which is a bank (as defined in section 585(a)(2)) or to which section 593 applies,”.
 
-1988—Subsec. (d)(3). Pub. L. 100–647 substituted “within the meaning of” for “treated as a separate trust under” in last sentence.
+<b>1988</b>—Subsec. (d)(3). Pub. L. 100–647 substituted “within the meaning of” for “treated as a separate trust under” in last sentence.
 
-1986—Subsec. (b)(2)(B). Pub. L. 99–514, §901(d)(4)(G), substituted “which is a bank (as defined in section 585(a)(2)) or to which section 593 applies” for “to which section 585 or 593 applies”.
+<b>1986</b>—Subsec. (b)(2)(B). Pub. L. 99–514, §901(d)(4)(G), substituted “which is a bank (as defined in section 585(a)(2)) or to which section 593 applies” for “to which section 585 or 593 applies”.
 
 Subsec. (d)(3). Pub. L. 99–514, §1879(m)(1)(A), inserted at end “A substantially separate and independent share of a trust treated as a separate trust under section 663(c) shall be treated as a separate trust for purposes of this subsection and subsection (c).”
 
-1984—Subsec. (c)(6). Pub. L. 98–369, §721(c), amended par. (6) generally, substituting “during any period within a taxable year” for “during any taxable year” in provisions preceding subpar. (A), and substituting “on or before the close of such period” for “on or after the date of its incorporation and before the close of such taxable year” in subpar. (A), and “does not have gross income for such period” for “does not have taxable income for the period included within such taxable year” in subpar. (B).
+<b>1984</b>—Subsec. (c)(6). Pub. L. 98–369, §721(c), amended par. (6) generally, substituting “during any period within a taxable year” for “during any taxable year” in provisions preceding subpar. (A), and substituting “on or before the close of such period” for “on or after the date of its incorporation and before the close of such taxable year” in subpar. (A), and “does not have gross income for such period” for “does not have taxable income for the period included within such taxable year” in subpar. (B).
 
 Subsec. (d)(2)(B)(i). Pub. L. 98–369, §721(f)(3), substituted “corporation” for “S corporation” in heading and text.
 
@@ -448,7 +448,7 @@ In general.—The amendments made by this section \[amending this section and se
 
 “(2)
 
-Special rule for treatment as second class of stock.—In the case of any taxable year beginning afterDecember 31, 1996, restricted bank director stock (as defined in section 1361(f) of the Internal Revenue Code of 1986, as added by this section) shall not be taken into account in determining whether an S corporation has more than 1 class of stock.”
+Special rule for treatment as second class of stock.—In the case of any taxable year beginning after December 31, 1996, restricted bank director stock (as defined in section 1361(f) of the Internal Revenue Code of 1986, as added by this section) shall not be taken into account in determining whether an S corporation has more than 1 class of stock.”
 
 Pub. L. 110–28, title VIII, §8233(b), May 25, 2007, 121 Stat. 198, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2006.”
 
@@ -484,7 +484,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -506,7 +506,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 901(d)(4)(G) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 901(e) of Pub. L. 99–514, set out as a note under section 166 of this title.
 
-Section 1879(m)(2) of Pub. L. 99–514 provided that: “The amendments made by this subsection \[amending this section and section 1368 of this title\] shall apply to taxable years beginning after December 31, 1982.”
+Section 1879(m)(2) of Pub. L. 99–514 provided that: “The amendments made by this subsection \[amendingthis section and section 1368 of this title\] shall apply to taxable years beginning after December 31, 1982.”
 
 #### Effective Date of 1984 Amendment
 
@@ -544,7 +544,7 @@ Amendment made by subsection (t).—If—
 
 &emsp;“(A) on or before the date of the enactment of this Act \[July 18, 1984\] 50 percent or more of the stock of an S corporation has been sold or exchanged in 1 or more transactions, and
 
-&emsp;“(B) the person (or persons) acquiring such stock establish by clear and convincing evidence that such acquisitions were negotiated on the contemplation that paragraph (2) of section 1362(e) of the InternalRevenue Code of 1986 would apply to the S termination year in which such sales or exchanges occur,
+&emsp;“(B) the person (or persons) acquiring such stock establish by clear and convincing evidence that such acquisitions were negotiated on the contemplation that paragraph (2) of section 1362(e) of the Internal Revenue Code of 1986 would apply to the S termination year in which such sales or exchanges occur,
 
 > then the amendment made by subsection (t) \[amending section 1362 of this title\] shall not apply to such S termination year.”
 
@@ -662,7 +662,7 @@ Special rules for paragraph (2).—
 
 &emsp;&emsp;&emsp;“(i) Paragraph (2) shall also cease to apply with respect to any corporation after the corporation ceases to be described in section 831(a) of such Code.
 
-&emsp;&emsp;&emsp;“(ii) For purposes of determining under subparagraph (A)(ii) whether paragraph (2) ceases toapply to any corporation, section 1378(c)(2) of such Code (as amended by this Act \[Pub. L. 97–354\]) shall be applied by substituting ‘December 31, 1984’ for ‘December 31, 1982’ each place it appears therein.
+&emsp;&emsp;&emsp;“(ii) For purposes of determining under subparagraph (A)(ii) whether paragraph (2) ceases to apply to any corporation, section 1378(c)(2) of such Code (as amended by this Act \[Pub. L. 97–354\]) shall be applied by substituting ‘December 31, 1984’ for ‘December 31, 1982’ each place it appears therein.
 
 “(d)
 
@@ -722,7 +722,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Pub. L. 97–448, title III, §305(d)(1)(B), Jan. 12, 1983, 96 Stat. 2399, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If—
 
-&emsp;“(i) after September 30, 1982, and on or before the date of the enactment of this Act \[Jan. 12, 1983\], stock or securities were transferred to a small business corporation (as defined in section 1361(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as amended by the Subchapter S Revision Act of 1982 \[Pub. L. 97–354\]) in a transaction to which section 351 of such Code applies, and
+&emsp;“(i) after September 30, 1982, and on or before the date of the enactment of this Act \[Jan. 12, 1983\], stock or securities were transferred to a small business corporation (as defined in section 1361(b) of the InternalRevenue Code of 1986 \[formerly I.R.C. 1954\] as amended by the Subchapter S Revision Act of 1982 \[Pub. L. 97–354\]) in a transaction to which section 351 of such Code applies, and
 
 &emsp;“(ii) such corporation is liquidated under section 333 of such Code before March 1, 1983,
 

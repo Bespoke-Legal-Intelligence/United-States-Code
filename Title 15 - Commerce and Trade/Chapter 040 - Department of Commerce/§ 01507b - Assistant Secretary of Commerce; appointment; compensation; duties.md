@@ -6,5 +6,5 @@ There shall be in the Department of Commerce, in addition to the Assistant Secre
 
 #### Amendments
 
-1982—Pub. L. 97–195 substituted “Such Assistant Secretary shall perform such duties” for “Such Assistant Secretary shall receive compensation at the rate prescribed by law for Assistant Secretaries of Commerce, and shall perform such duties”.
+<b>1982</b>—Pub. L. 97–195 substituted “Such Assistant Secretary shall perform such duties” for “Such Assistant Secretary shall receive compensation at the rate prescribed by law for Assistant Secretaries of Commerce, and shall perform such duties”.
 

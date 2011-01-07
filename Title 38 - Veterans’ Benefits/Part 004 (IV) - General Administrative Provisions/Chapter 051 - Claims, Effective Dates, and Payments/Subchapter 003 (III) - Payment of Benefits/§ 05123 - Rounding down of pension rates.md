@@ -14,7 +14,7 @@ Prior sections 5201 to 5228 were renumbered sections 8501 to 8528 of this title,
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 3023 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 3023 of this title as this section.
 
 Pub. L. 102–83 substituted “1521, 1541, or 1542” for “521, 541, or 542”.
 

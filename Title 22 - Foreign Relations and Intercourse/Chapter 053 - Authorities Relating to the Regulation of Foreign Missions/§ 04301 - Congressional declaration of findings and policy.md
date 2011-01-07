@@ -16,7 +16,7 @@ The treatment to be accorded to a foreign mission in the United States shall be 
 
 #### Amendments
 
-1985—Subsec. (c). Pub. L. 99–93 inserted “, as well as matters relating to the protection of the interests of the United States”.
+<b>1985</b>—Subsec. (c). Pub. L. 99–93 inserted “, as well as matters relating to the protection of the interests of the United States”.
 
 #### Effective Date
 
@@ -24,7 +24,7 @@ Section 204 of title II of Pub. L. 97–241 provided that: “The amendments mad
 
 #### Short Title of 1983 Amendment
 
-Pub. L. 98–164, title VI, §601, Nov. 22, 1983, 97 Stat. 1042, provided that: “This title \[enacting section 4304aof this title, amending sections 254e and 4303 of this title, and enacting provisions set out as a note under section 4303 of this title\] may be cited as the ‘Foreign Missions Amendments Act of 1983’.”
+Pub. L. 98–164, title VI, §601, Nov. 22, 1983, 97 Stat. 1042, provided that: “This title \[enacting section 4304a of this title, amending sections 254e and 4303 of this title, and enacting provisions set out as a note under section 4303 of this title\] may be cited as the ‘Foreign Missions Amendments Act of 1983’.”
 
 #### Short Title
 

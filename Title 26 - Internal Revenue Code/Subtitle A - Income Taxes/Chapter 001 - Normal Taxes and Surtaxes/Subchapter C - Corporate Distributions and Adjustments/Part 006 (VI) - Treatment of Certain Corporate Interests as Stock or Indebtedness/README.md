@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1969—Pub. L. 91–172, title IV, §415(a), Dec. 30, 1969, 83 Stat. 613, added part heading and analysis of sections.
+<b>1969</b>—Pub. L. 91–172, title IV, §415(a), Dec. 30, 1969, 83 Stat. 613, added part heading and analysis of sections.
 
 
 ---

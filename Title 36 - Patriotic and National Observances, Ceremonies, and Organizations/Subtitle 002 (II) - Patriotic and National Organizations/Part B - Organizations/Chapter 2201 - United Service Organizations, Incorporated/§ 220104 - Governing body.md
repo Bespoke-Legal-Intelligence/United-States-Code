@@ -52,5 +52,5 @@ In subsection (b)(1), the word “offered” is substituted for “tendered” t
 
 #### Amendments
 
-2006—Subsec. (a)(2)(B). Pub. L. 109–284 substituted “Defense” for “State”.
+<b>2006</b>—Subsec. (a)(2)(B). Pub. L. 109–284 substituted “Defense” for “State”.
 

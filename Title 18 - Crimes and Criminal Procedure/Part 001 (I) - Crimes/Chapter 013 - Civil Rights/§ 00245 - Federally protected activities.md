@@ -40,11 +40,11 @@
 
 &emsp;&emsp;(B) affording another person or class of persons opportunity or protection to so participate; or
 
-&emsp;(5) any citizen because he is or has been, or in order to intimidate such citizen or any other citizen from lawfully aiding or encouraging other persons to participate, without discrimination on account of race, color, religion or national origin, in any of the benefits or activities described in subparagraphs (1)(A) through (1)(E) or subparagraphs (2)(A) through (2)(F), or participating lawfully in speech or peaceful assembly opposing any denial of the opportunity to so participate—
+&emsp;(5) any citizen because he is or has been, or in order to intimidate such citizen or any other citizen from lawfully aiding or encouraging other persons to participate, without discrimination on account of race, color, religion or national origin, in any of the benefits or activities described in subparagraphs (1)(A) through (1)(E) or subparagraphs (2)(A) through\(2)(F), or participating lawfully in speech or peaceful assembly opposing any denial of the opportunity to so participate—
 
 > shall be fined under this title, or imprisoned not more than one year, or both; and if bodily injury results from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire shall be fined under this title, or imprisoned not more than ten years, or both; and if death results from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, shall be fined under this title or imprisoned for any term of years or for life, or both, or may be sentenced to death. As used in this section, the term “participating lawfully in speech or peaceful assembly” shall not mean the aiding, abetting, or inciting of other persons to riot or to commit any act of physical violence upon any individual or against any real or personal property in furtherance of a riot. Nothing in subparagraph (2)(F) or (4)(A) of this subsection shall apply to the proprietor of any establishment which provides lodging to transient guests, or to any employee acting on behalf of such proprietor, with respect to the enjoyment of the goods, services, facilities, privileges, advantages, or accommodations of such establishment if such establishment is located within a building which contains not more than five rooms for rent or hire and which is actually occupied by the proprietor as his residence.
 
-(c) Nothing in this section shall be construed so as to deter any law enforcement officer fromlawfully carrying out the duties of his office; and no law enforcement officer shall be considered to be in violation of this section for lawfully carrying out the duties of his office or lawfully enforcing ordinances and laws of the United States, the District of Columbia, any of the several States, or any political subdivision of a State. For purposes of the preceding sentence, the term “law enforcement officer” means any officer of the United States, the District of Columbia, a State, or political subdivision of a State, who is empowered by law to conduct investigations of, or make arrests because of, offenses against the United States, the District of Columbia, a State, or a political subdivision of a State.
+(c) Nothing in this section shall be construed so as to deter any law enforcement officer from lawfully carrying out the duties of his office; and no law enforcement officer shall be considered to be in violation of this section for lawfully carrying out the duties of his office or lawfully enforcing ordinances and laws of the United States, the District of Columbia, any of the several States, or any political subdivision of a State. For purposes of the preceding sentence, the term “law enforcement officer” means any officer of the United States, the District of Columbia, a State, or political subdivision of a State, who is empowered by law to conduct investigations of, or make arrests because of, offenses against the United States, the District of Columbia, a State, or a political subdivision of a State.
 
 (d) For purposes of this section, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
@@ -52,9 +52,9 @@
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–294 amended Pub. L. 103–322, §320103(c). See 1994 Amendment notes below.
+<b>1996</b>—Subsec. (b). Pub. L. 104–294 amended Pub. L. 103–322, §320103(c). See 1994 Amendment notes below.
 
-1994—Subsec. (b). Pub. L. 103–322, §330016(1)(L), substituted “shall be fined under this title” for “shall be fined not more than $10,000” before “, or imprisoned not more than ten years” in concluding provisions.
+<b>1994</b>—Subsec. (b). Pub. L. 103–322, §330016(1)(L), substituted “shall be fined under this title” for “shall be fined not more than $10,000” before “, or imprisoned not more than ten years” in concluding provisions.
 
 Pub. L. 103–322, §330016(1)(H), substituted “shall be fined under this title” for “shall be fined not more than $1,000” before “, or imprisoned not more than one year” in concluding provisions.
 
@@ -68,9 +68,9 @@ Pub. L. 103–322, §320103(c)(1), which provided for amendment identical to Pub
 
 Pub. L. 103–322, §60006(c), in concluding provisions, inserted “, or may be sentenced to death” before “. As used in this section”.
 
-1990—Subsec. (d). Pub. L. 101–647 added subsec. (d).
+<b>1990</b>—Subsec. (d). Pub. L. 101–647 added subsec. (d).
 
-1988—Subsec. (a)(1). Pub. L. 100–690 substituted “, the Deputy” for “or the Deputy” and inserted “, the Associate Attorney General, or any Assistant Attorney General specially designated by the Attorney General” after “Deputy Attorney General”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–690 substituted “, the Deputy” for “or the Deputy” and inserted “, the Associate Attorney General, or any Assistant Attorney General specially designated by the Attorney General” after “Deputy Attorney General”.
 
 #### Effective Date of 1996 Amendment
 

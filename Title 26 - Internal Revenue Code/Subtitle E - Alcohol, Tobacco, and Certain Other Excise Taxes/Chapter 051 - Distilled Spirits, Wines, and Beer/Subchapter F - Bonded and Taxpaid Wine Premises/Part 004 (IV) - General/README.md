@@ -13,7 +13,7 @@ A prior part IV consisted of sections 5391 and 5392 of this title, prior to the 
 
 #### Amendments
 
-1979—Pub. L. 96–39, title VIII, §807(b)(8), July 26, 1979, 93 Stat. 290, substituted “Exemption from distilled spirits taxes” for “Exemption from rectifying and spirits taxes” in item 5391.
+<b>1979</b>—Pub. L. 96–39, title VIII, §807(b)(8), July 26, 1979, 93 Stat. 290, substituted “Exemption from distilled spirits taxes” for “Exemption from rectifying and spirits taxes” in item 5391.
 
 
 ---

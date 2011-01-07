@@ -14,9 +14,9 @@ To request a grant under this subchapter, a State or unit of local government sh
 
 #### Amendments
 
-2004—Par. (4). Pub. L. 108–405 added par. (4).
+<b>2004</b>—Par. (4). Pub. L. 108–405 added par. (4).
 
-2002—Pub. L. 107–273, §5001(b)(2)(A), inserted “or unit of local government” after “State” in introductory provisions.
+<b>2002</b>—Pub. L. 107–273, §5001(b)(2)(A), inserted “or unit of local government” after “State” in introductory provisions.
 
 Par. (1). Pub. L. 107–273, §5001(b)(2)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “a certification that the State has developed a consolidated State plan for forensic science laboratories operated by the State or by other units of local government within the State under a program described in section 3797m(a) of this title, and a specific description of the manner in which the grant will be used to carry out that plan;”.
 

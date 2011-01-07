@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(i) may use funds under this part to provide the same services to other children and youths who are determined by the local educational agency to be at risk of failing in, or dropping out of, school, subject to the requirements of clause (ii); and
 
-&emsp;&emsp;&emsp;(ii) except as otherwise provided in section 11432(e)(3)(B) of this title, shall notprovide services in settings within a school that segregate homeless children and youths from other children and youths, except as necessary for short periods of time—
+&emsp;&emsp;&emsp;(ii) except as otherwise provided in section 11432(e)(3)(B) of this title, shall not provide services in settings within a school that segregate homeless children and youths from other children and youths, except as necessary for short periods of time—
 
 &emsp;&emsp;&emsp;&emsp;(I) for health and safety emergencies; or
 
@@ -38,7 +38,7 @@
 
 A local educational agency that desires to receive a subgrant under this section shall submit an application to the State educational agency at such time, in such manner, and containing or accompanied by such information as the State educational agency may reasonably require. Such application shall include the following:
 
-&emsp;(1) An assessment of the educational and related needs of homeless children and youths in the area served by such agency (which may be undertaken as part of needs assessments for other disadvantaged groups).
+&emsp;(1) An assessment of the educational and related needs of homeless children and youths in the area served by such agency (which may beundertaken as part of needs assessments for other disadvantaged groups).
 
 &emsp;(2) A description of the services and programs for which assistance is sought to address the needs identified in paragraph (1).
 

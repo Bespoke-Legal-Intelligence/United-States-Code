@@ -36,11 +36,11 @@ The regulations prescribed under this section shall set forth factors which are 
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102–486 added subsec. (c).
+<b>1992</b>—Subsec. (c). Pub. L. 102–486 added subsec. (c).
 
-1989—Subsec. (a). Pub. L. 101–239 inserted “(or as in part stock and in part indebtedness)” before period at end.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239 inserted “(or as in part stock and in part indebtedness)” before period at end.
 
-1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 1992 Amendment
 

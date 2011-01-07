@@ -26,7 +26,7 @@ It is the purpose of this section—
 
 &emsp;(2) to assist government housing, public works, and transportation authorities and agencies;
 
-&emsp;(3) to expose young people in the United States to public service while furthering their understanding and appreciation of their community;
+&emsp;(3) to expose young people in the United States to public service while furthering theirunderstanding and appreciation of their community;
 
 &emsp;(4) to expand educational opportunity for individuals who participate in the Urban Youth Corps established by this section by providing them with an increased ability to pursue postsecondary education or job training; and
 
@@ -100,7 +100,7 @@ The Secretaries shall provide each participant in the Urban Youth Corps with a l
 
 #### (f) Terms of service
 
-Each participant in the Urban Youth Corps shall agree to participate in the Corps for a term of service established by the Secretary involved, consistent with the terms of service required under section 139(b) of the National and Community Service Act of 1990 \[42 U.S.C. 12593(b)\] for participants in a national service program assisted under subtitle C of title I of such Act \[42 U.S.C. 12571 et seq.\].
+Each participant in the Urban Youth Corps shall agree to participate in the Corps for a termof service established by the Secretary involved, consistent with the terms of service required under section 139(b) of the National and Community Service Act of 1990 \[42 U.S.C. 12593(b)\] for participants in a national service program assisted under subtitle C of title I of such Act \[42 U.S.C. 12571 et seq.\].
 
 #### (g) Educational awards
 
@@ -145,4 +145,6 @@ Section was enacted as part of the National and Community Service Trust Act of 1
 #### Effective Date
 
 Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of Title 16, Conservation.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -22,7 +22,7 @@ As used in this chapter—
 
 &emsp;(5) the term “source reduction” means any practice which—
 
-&emsp;&emsp;(A) reduces the amount of any hazardous substance, pollutant, or contaminant entering any waste stream or otherwise released into the environment, including fugitive emissions, prior to recycling, treatment, or disposal; and
+&emsp;&emsp;(A) reduces the amount of any hazardous substance, pollutant, or contaminant entering any waste stream or otherwise releasedinto the environment, including fugitive emissions, prior to recycling, treatment, or disposal; and
 
 &emsp;&emsp;(B) reduces the hazards to the public health and the environment associated with the release of such substances, pollutants, or contaminants,
 
@@ -34,11 +34,13 @@ As used in this chapter—
 
 #### References in Text
 
+This chapter, referred to in introductory provisions and pars. (1) and (4), was in the original “this Act”, meaning Pub. L. 101–218, Dec. 11, 1989, 103 Stat. 1859, known as the Renewable Energy and Energy Efficiency Technology Competitiveness Act of 1989, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12001 of this title and Tables.
+
 The Plant Variety Protection Act, referred to in par. (1), is Pub. L. 91–577, Dec. 24, 1970, 84 Stat. 1542, as amended, which is classified principally to chapter 57 (§2321 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2321 of Title 7 and Tables.
 
 #### Amendments
 
-1992—Pars. (2) to (5). Pub. L. 102–486 redesignated pars. (3) to (5) as (2) to (4), respectively, in par. (4) substituted “any demonstration and commercial application project” for “any joint venture” and “in the demonstration and commercial application project;” for “in the venture; and”, added par. (5), and struck out former par. (2) which read as follows: “ ‘joint venture’ means any agreement entered into under this chapter by the Secretary with more than one or a consortium of non-Federal persons (including a joint venture under the National Cooperative Research Act of 1984 (15 U.S.C. 4301 et seq.)) for cost-shared research, development, or demonstration of technologies, but does not include procurement contracts, grant agreements, or cooperative agreements as those terms are used in sections 6303, 6304, and 6305 of title 31;”.
+<b>1992</b>—Pars. (2) to (5). Pub. L. 102–486 redesignated pars. (3) to (5) as (2) to (4), respectively, in par. (4) substituted “any demonstration and commercial application project” for “any joint venture” and “in the demonstration and commercial application project;” for “in the venture; and”, added par. (5), and struck out former par. (2) which read as follows: “ ‘joint venture’ means any agreement entered into under this chapter by the Secretary with more than one or a consortium of non-Federal persons (including a joint venture under the National Cooperative Research Act of 1984 (15 U.S.C. 4301 et seq.)) for cost-shared research, development, or demonstration of technologies, but does not include procurement contracts, grant agreements, or cooperative agreements as those terms are used in sections 6303, 6304, and 6305 of title 31;”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “; and”.</i>
 

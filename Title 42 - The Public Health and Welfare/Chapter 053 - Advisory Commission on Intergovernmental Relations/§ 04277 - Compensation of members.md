@@ -14,5 +14,5 @@ Section was formerly classified to section 2377 of Title 5 prior to the general 
 
 #### Amendments
 
-1966—Subsec. (b). Pub. L. 89–733 inserted “Unless prohibited by State or local law”.
+<b>1966</b>—Subsec. (b). Pub. L. 89–733 inserted “Unless prohibited by State or local law”.
 

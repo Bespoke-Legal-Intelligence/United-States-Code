@@ -6,7 +6,7 @@ The purpose of this chapter is to assist and encourage the communities of the Na
 
 #### Amendments
 
-1968—Pub. L. 90–448 substituted “in the future for public purposes” for “in connection with the future construction of public works and facilities” in cl. (3).
+<b>1968</b>—Pub. L. 90–448 substituted “in the future for public purposes” for “in connection with the future construction of public works and facilities” in cl. (3).
 
 #### Short Title of 1970 Amendment
 

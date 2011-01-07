@@ -22,11 +22,11 @@ Changes in phraseology were made.
 
 #### Amendments
 
-1968—Subsec. (a). Pub. L. 90–578 incorporated in provisions designated as subsec. (a) provisions of first par. of former section 639 of this title, substituting “United States magistrates” for prior designation as “United States Commissioners”, specifying that the copy of the United States Code be a current edition, and dispensing with approval by the chief judge of the district court for a copy of such Code.
+<b>1968</b>—Subsec. (a). Pub. L. 90–578 incorporated in provisions designated as subsec. (a) provisions of first par. of former section 639 of this title, substituting “United States magistrates” for prior designation as “United States Commissioners”, specifying that the copy of the United States Code be a current edition, and dispensing with approval by the chief judge of the district court for a copy of such Code.
 
 Subsec. (b). Pub. L. 90–578 incorporated in provisions designated as subsec. (b) provisions of the second par. of former section 639 of this title.
 
-Subsec. (c). Pub. L. 90–578 designated existing provisions as subsec. (c), and substituted “United Statesmagistrate” for “United States commissioner”, provision for appointment under this chapter rather than after July 10, 1946, provision that the form of the seal be prescribed by the conference rather than the Director, and “without fee” for “without additional fee”.
+Subsec. (c). Pub. L. 90–578 designated existing provisions as subsec. (c), and substituted “United States magistrate” for “United States commissioner”, provision for appointment under this chapter rather than after July 10, 1946, provision that the form of the seal be prescribed by the conference rather than the Director, and “without fee” for “without additional fee”.
 
 #### Change of Name
 

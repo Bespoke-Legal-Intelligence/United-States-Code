@@ -28,3 +28,5 @@ An eligible partnership that receives a subgrant to carry out this subpart and a
 
 Section 1023 of this title, referred to in subsec. (b), was in the original a reference to section 203 of the Higher Education Act of 1965, Pub. L. 89–329. Section 203 of Pub. L. 89–329 was repealed by Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3133. Pub. L. 110–315 enacted a new section 203 of Pub. L. 89–329, which relates to administrative provisions, and is classified to section 1022b of this title.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

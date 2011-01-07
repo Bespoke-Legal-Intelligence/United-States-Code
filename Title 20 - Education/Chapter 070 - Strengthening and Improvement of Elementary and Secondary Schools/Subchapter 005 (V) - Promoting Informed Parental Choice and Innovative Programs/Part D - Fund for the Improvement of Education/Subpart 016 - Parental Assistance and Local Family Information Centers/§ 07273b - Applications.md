@@ -20,7 +20,7 @@ Each application submitted under subsection (a) of this section, at a minimum, s
 
 &emsp;&emsp;(C) representatives of local elementary schools and secondary schools, including students and representatives from local youth organizations;
 
-&emsp;(3) use at least 50 percent of the funds received under this subpart in each fiscal year to serve areas with high concentrations of low-income families, in order to serve parents who are severely educationally or economically disadvantaged;
+&emsp;(3) use at least 50 percent of the funds received under this subpart in each fiscal year toserve areas with high concentrations of low-income families, in order to serve parents who are severely educationally or economically disadvantaged;
 
 &emsp;(4) operate a center of sufficient size, scope, and quality to ensure that the center is adequate to serve the parents in the area;
 
@@ -58,5 +58,5 @@ Each application submitted under subsection (a) of this section, at a minimum, s
 
 #### Amendments
 
-2004—Subsec. (b)(8)(C). Pub. L. 108–446 substituted “section 1471” for “section 1482”.
+<b>2004</b>—Subsec. (b)(8)(C). Pub. L. 108–446 substituted “section 1471” for “section 1482”.
 

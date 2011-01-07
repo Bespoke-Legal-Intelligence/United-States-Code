@@ -7,3 +7,4 @@ Part C—Swine Reporting
 
 - [&sect; 01635i - Definitions](%C2%A7%2001635i%20-%20Definitions.md)
 - [&sect; 01635j - Mandatory reporting for swine](%C2%A7%2001635j%20-%20Mandatory%20reporting%20for%20swine.md)
+- [&sect; 01635k - Mandatory reporting of wholesale pork cuts](%C2%A7%2001635k%20-%20Mandatory%20reporting%20of%20wholesale%20pork%20cuts.md)

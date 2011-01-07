@@ -2,7 +2,7 @@
 
 (a)
 
-Confidentiality of Records.—Medical quality assurance records created by or for the Department of Defense as part of a medical quality assurance program are confidential and privileged. Such records may not be disclosed toany person or entity, except as provided in subsection (c).
+Confidentiality of Records.—Medical quality assurance records created by or for the Department of Defense as part of a medical quality assurance program are confidential and privileged. Such records may not be disclosed to any person or entity, except as provided in subsection (c).
 
 (b)
 
@@ -50,7 +50,7 @@ Limitation on Civil Liability.—A person who participates in or provides inform
 
 (h)
 
-Application to Information in Certain Other Records.—Nothing in this section shall be construed as limiting access to the information in a record created and maintained outside a medical quality assurance program, including a patient's medical records, on the grounds that the information was presented during meetings of a review body that are part of a medical quality assurance program.
+Application to Information in Certain Other Records.—Nothing in this section shall be construed as limiting access to the information in a record created and maintained outside a medical quality assurance program, including a patient's medical records, on the grounds thatthe information was presented during meetings of a review body that are part of a medical quality assurance program.
 
 (i)
 
@@ -74,11 +74,11 @@ Penalty.—Any person who willfully discloses a medical quality assurance record
 
 #### Amendments
 
-2004—Subsec. (d)(2). Pub. L. 108–375 substituted “Comptroller General” for “General Accounting Office”.
+<b>2004</b>—Subsec. (d)(2). Pub. L. 108–375 substituted “Comptroller General” for “General Accounting Office”.
 
-1989—Subsec. (j)(1). Pub. L. 101–189 substituted “November 14, 1986” for “the date of the enactment of this section”.
+<b>1989</b>—Subsec. (j)(1). Pub. L. 101–189 substituted “November 14, 1986” for “the date of the enactment of this section”.
 
-1987—Subsec. (c)(2). Pub. L. 100–180 struck out “, United States Code” after “title 5” in second sentence.
+<b>1987</b>—Subsec. (c)(2). Pub. L. 100–180 struck out “, United States Code” after “title 5” in second sentence.
 
 #### Effective Date
 

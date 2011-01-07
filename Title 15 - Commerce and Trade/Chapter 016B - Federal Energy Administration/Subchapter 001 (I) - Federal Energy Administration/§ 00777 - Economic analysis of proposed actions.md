@@ -42,7 +42,7 @@ The Administrator shall formulate and implement regulatory and other actions in 
 
 #### Amendments
 
-1976—Subsec. (d). Pub. L. 94–385 substituted “an annual report” for “a report every six months”.
+<b>1976</b>—Subsec. (d). Pub. L. 94–385 substituted “an annual report” for “a report every six months”.
 
 #### Termination of Reporting Requirements
 

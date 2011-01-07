@@ -32,7 +32,7 @@ The following Federal standards are hereby established:
 
 #### (5) Advertising
 
-&emsp;No electric utility may recover from any person other than the shareholders (or other owners) of such utility any direct or indirect expenditure by such utility for promotional or political advertising as defined in section 2625(h) of this title.
+&emsp;No electric utility may recover from any person other than the shareholders (or otherowners) of such utility any direct or indirect expenditure by such utility for promotional or political advertising as defined in section 2625(h) of this title.
 
 #### (c) Procedural requirements
 

@@ -14,9 +14,9 @@
 
 #### Amendments
 
-1972—Pub. L. 92–425 substituted “subchapter” for “chapter” wherever appearing.
+<b>1972</b>—Pub. L. 92–425 substituted “subchapter” for “chapter” wherever appearing.
 
-1968—Subsec. (a)(2). Pub. L. 90–485 substituted “19” for “18”.
+<b>1968</b>—Subsec. (a)(2). Pub. L. 90–485 substituted “19” for “18”.
 
 #### Effective Date of 1968 Amendment
 

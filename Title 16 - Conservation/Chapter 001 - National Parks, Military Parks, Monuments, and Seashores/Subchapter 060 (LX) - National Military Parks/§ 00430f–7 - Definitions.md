@@ -22,5 +22,5 @@ In sections 430f–6 to 430f–12 of this title:
 
 #### Amendments
 
-2007—Par. (1). Pub. L. 110–161 substituted “304A/80009, and dated April 2007” for “304/80,007, and dated October 1998”.
+<b>2007</b>—Par. (1). Pub. L. 110–161 substituted “304A/80009, and dated April 2007” for “304/80,007, and dated October 1998”.
 

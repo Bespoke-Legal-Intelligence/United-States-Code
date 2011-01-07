@@ -86,9 +86,9 @@ As used in this subchapter:
 
 #### Amendments
 
-2007—Par. (13)(C). Pub. L. 110–140 aligned margins.
+<b>2007</b>—Par. (13)(C). Pub. L. 110–140 aligned margins.
 
-1994—Par. (13)(C). Pub. L. 103–371 added subpar. (C).
+<b>1994</b>—Par. (13)(C). Pub. L. 103–371 added subpar. (C).
 
 #### Effective Date of 2007 Amendment
 

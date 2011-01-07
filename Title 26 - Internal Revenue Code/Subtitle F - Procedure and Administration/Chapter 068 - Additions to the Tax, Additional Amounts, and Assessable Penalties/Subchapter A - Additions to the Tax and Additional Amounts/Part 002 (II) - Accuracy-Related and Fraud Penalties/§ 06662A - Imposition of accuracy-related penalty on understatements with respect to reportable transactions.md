@@ -18,7 +18,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the highest rate of tax imposed by section 1 (section 11 in the case of a taxpayer which is a corporation), and
 
-&emsp;&emsp;(B) the amount of the decrease (if any) in the aggregate amount of credits determinedunder subtitle A which results from a difference between the taxpayer's treatment of an item to which this section applies (as shown on the taxpayer's return of tax) and the proper tax treatment of such item.
+&emsp;&emsp;(B) the amount of the decrease (if any) in the aggregate amount of credits determined under subtitle A which results from a difference between the taxpayer's treatment of an item to which this section applies (as shown on the taxpayer's return of tax) and the proper tax treatment of such item.
 
 > &emsp;For purposes of subparagraph (A), any reduction of the excess of deductions allowed for the taxable year over gross income for such year, and any reduction in the amount of capital losses which would (without regard to section 1211) be allowed for such year, shall be treated as an increase in taxable income.
 
@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (c) Higher penalty for nondisclosed listed and other avoidance transactions
 
-Subsection (a) shall be applied by substituting “30 percent” for “20 percent” with respect to the portion of any reportable transaction understatement with respect to which the requirement of section 6664(d)(2)(A) is not met.
+Subsection (a) shall be applied by substituting “30 percent” for “20 percent” with respect to the portion of any reportable transaction understatement with respect to which the requirement of section 6664(d)(2)(A) <sup>1</sup> is not met.
 
 #### (d) Definitions of reportable and listed transactions
 
@@ -54,19 +54,29 @@ For purposes of this section, the terms “reportable transaction” and “list
 
 &emsp;&emsp;This section shall not apply to any portion of an understatement on which a penalty is imposed under section 6663.
 
-#### (B) Coordination with gross valuation misstatement penalty
+#### (B) Coordination with certain increased underpayment penalties
 
-&emsp;&emsp;This section shall not apply to any portion of an understatement on which a penalty is imposed under section 6662 if the rate of the penalty is determined under section 6662(h).
+&emsp;&emsp;This section shall not apply to any portion of an understatement on which a penalty is imposed under section 6662 if the rate of the penalty is determined under subsections (h) or (i) of section 6662.
 
 #### (3) Special rule for amended returns
 
 &emsp;Except as provided in regulations, in no event shall any tax treatment included with an amendment or supplement to a return of tax be taken into account in determining the amount of any reportable transaction understatement if the amendment or supplement is filed after the earlier of the date the taxpayer is first contacted by the Secretary regarding the examination of the return or such other date as is specified by the Secretary.
 
-(Added Pub. L. 108–357, title VIII, §812(a), Oct. 22, 2004, 118 Stat. 1577; amended Pub. L. 109–135, title IV, §403(x)(2), Dec. 21, 2005, 119 Stat. 2629.)
+(Added Pub. L. 108–357, title VIII, §812(a), Oct. 22, 2004, 118 Stat. 1577; amended Pub. L. 109–135, title IV, §403(x)(2), Dec. 21, 2005, 119 Stat. 2629; Pub. L. 111–152, title I, §1409(b)(3), Mar. 30, 2010, 124 Stat. 1069.)
+
+#### References in Text
+
+Section 6664(d)(2)(A), referred to in subsec. (c), was redesignated as section 6664(d)(3)(A) by Pub. L. 111–152, title I, §1409(c)(2)(A), Mar. 30, 2010, 124 Stat. 1069.
+
+#### Codification
+
+Section 1409(b)(3) of Pub. L. 111–152, which directed the amendment of section 6662A without specifying the act to be amended, was executed to this section, which is section 6662A of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2010 Amendment note below.
 
 #### Amendments
 
-2005—Subsec. (e)(2). Pub. L. 109–135 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
+<b>2010</b>—Subsec. (e)(2)(B). Pub. L. 111–152 substituted “certain increased underpayment penalties” for “gross valuation misstatement penalty” in heading and “subsections (h) or (i) of section 6662” for “section 6662(h)” in text. See Codification note above.
+
+<b>2005</b>—Subsec. (e)(2). Pub. L. 109–135 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
 “(A)
 
@@ -88,6 +98,10 @@ Section 6662(e).—Section 6662(e) shall not apply to any portion of an understa
 
 Section 6662(h).—This section shall not apply to any portion of an understatement on which a penalty is imposed under section 6662(h).”
 
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–152 applicable to underpayments attributable to transactions entered into after Mar. 30, 2010, see section 1409(e)(2) of Pub. L. 111–152, set out as a note under section 6662 of this title.
+
 #### Effective Date of 2005 Amendment
 
 Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
@@ -95,4 +109,36 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 #### Effective Date
 
 Section applicable to taxable years ending after Oct. 22, 2004, see section 812(f) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendment note under section 6662 of this title.
+
+#### Report on Tax Shelter Penalties and Certain Other Enforcement Actions
+
+Pub. L. 111–240, title II, §2103, Sept. 27, 2010, 124 Stat. 2564, provided that:
+
+“(a)
+
+In General.—The Commissioner of Internal Revenue, in consultation with the Secretary of the Treasury, shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate an annual report on the penalties assessed by the Internal Revenue Service during the preceding year under each of the following provisions of the Internal Revenue Code of 1986:
+
+&emsp;“(1) Section 6662A (relating to accuracy-related penalty on understatements with respect to reportable transactions).
+
+&emsp;“(2) Section 6700(a) (relating to promoting abusive tax shelters).
+
+&emsp;“(3) Section 6707 (relating to failure to furnish information regarding reportable transactions).
+
+&emsp;“(4) Section 6707A (relating to failure to include reportable transaction information with return).
+
+&emsp;“(5) Section 6708 (relating to failure to maintain lists of advisees with respect to reportable transactions).
+
+“(b)
+
+Additional Information.—The report required under subsection (a) shall also include information on the following with respect to each year:
+
+&emsp;“(1) Any action taken under section 330(b) of title 31, United States Code, with respect to any reportable transaction (as defined in section 6707A(c) of the Internal Revenue Code of 1986).
+
+&emsp;“(2) Any extension of the time for assessment of tax enforced, or assessment of any amount under such an extension, under paragraph (10) of section 6501(c) of the Internal Revenue Code of 1986.
+
+“(c)
+
+Date of Report.—The first report required under subsection (a) shall be submitted not later than December 31, 2010.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

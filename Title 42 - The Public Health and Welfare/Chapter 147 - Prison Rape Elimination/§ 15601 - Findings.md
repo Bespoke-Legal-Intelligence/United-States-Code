@@ -2,7 +2,7 @@
 
 Congress makes the following findings:
 
-&emsp;(1) 2,100,146 persons were incarcerated in the United States at the end of 2001: 1,324,465 in Federal and State prisons and 631,240 in county and local jails. In 1999, there were more than 10,000,000 separate admissions to and discharges from prisons and jails.
+&emsp;(1) 2,100,146 persons were incarcerated in the United States at the end of 2001: 1,324,465 inFederal and State prisons and 631,240 in county and local jails. In 1999, there were more than 10,000,000 separate admissions to and discharges from prisons and jails.
 
 &emsp;(2) Insufficient research has been conducted and insufficient data reported on the extent of prison rape. However, experts have conservatively estimated that at least 13 percent of the inmates in the United States have been sexually assaulted in prison. Many inmates have suffered repeated assaults. Under this estimate, nearly 200,000 inmates now incarcerated have been or will be the victims of prison rape. The total number of inmates who have been sexually assaulted in the past 20 years likely exceeds 1,000,000.
 
@@ -16,7 +16,7 @@ Congress makes the following findings:
 
 &emsp;(7) HIV and AIDS are major public health problems within America's correctional facilities. In 2000, 25,088 inmates in Federal and State prisons were known to be infected with HIV/AIDS. In 2000, HIV/AIDS accounted for more than 6 percent of all deaths in Federal and State prisons. Infection rates for other sexually transmitted diseases, tuberculosis, and hepatitis B and C are also far greater for prisoners than for the American population as a whole. Prison rape undermines the public health by contributing to the spread of these diseases, and often giving a potential death sentence to its victims.
 
-&emsp;(8) Prison rape endangers the public safety by making brutalized inmates more likely tocommit crimes when they are released—as 600,000 inmates are each year.
+&emsp;(8) Prison rape endangers the public safety by making brutalized inmates more likely to commit crimes when they are released—as 600,000 inmates are each year.
 
 &emsp;(9) The frequently interracial character of prison sexual assaults significantly exacerbates interracial tensions, both within prison and, upon release of perpetrators and victims from prison, in the community at large.
 

@@ -64,17 +64,17 @@ Reorganization Plan No. 14 of 1950, referred to in subsec. (a), is set out in th
 
 #### Amendments
 
-2005—Subsec. (b)(1). Pub. L. 109–59, §3031(1), substituted “5316, 5318, 5323(a)(1), 5323(b), 5323(d), 5328, 5337, and 5338(b)” for “5318(d), 5323(a)(1), (b), (d), and (e), 5328, 5337, and 5338(b)” in two places.
+<b>2005</b>—Subsec. (b)(1). Pub. L. 109–59, §3031(1), substituted “5316, 5318, 5323(a)(1), 5323(b), 5323(d), 5328, 5337, and 5338(b)” for “5318(d), 5323(a)(1), (b), (d), and (e), 5328, 5337, and 5338(b)” in two places.
 
 Subsec. (b)(2)(D). Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation”.
 
 Subsec. (b)(4), (5). Pub. L. 109–59, §3031(2), added pars. (4) and (5).
 
-2002—Subsec. (a). Pub. L. 107–217 substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5)” and “section 3145 of title 40” for “section 2 of the Act of June 13, 1934 (40 U.S.C. 276c)”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–217 substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5)” and “section 3145 of title 40” for “section 2 of the Act of June 13, 1934 (40 U.S.C. 276c)”.
 
-1998—Subsec. (b)(1). Pub. L. 105–178 substituted “5338(b)” for “5338(j)(5)” in two places.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–178 substituted “5338(b)” for “5338(j)(5)” in two places.
 
-1995—Subsec. (b)(3). Pub. L. 104–88 substituted “11326” for “11347”.
+<b>1995</b>—Subsec. (b)(3). Pub. L. 104–88 substituted “11326” for “11347”.
 
 #### Effective Date of 1995 Amendment
 

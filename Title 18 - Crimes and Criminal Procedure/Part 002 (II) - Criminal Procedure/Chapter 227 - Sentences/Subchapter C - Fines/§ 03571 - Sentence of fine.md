@@ -56,7 +56,7 @@ For a prior section 3571, applicable to offenses committed prior to Nov. 1, 1987
 
 #### Amendments
 
-1987—Pub. L. 100–185 amended section generally, revising and restating as subsecs. (a) to (e) provisions formerly contained in subsecs. (a) and (b).
+<b>1987</b>—Pub. L. 100–185 amended section generally, revising and restating as subsecs. (a) to (e) provisions formerly contained in subsecs. (a) and (b).
 
 #### Effective Date
 

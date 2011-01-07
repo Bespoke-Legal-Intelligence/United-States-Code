@@ -18,7 +18,7 @@
 
 &emsp;(i) the waiver is expected to increase organ donation; and
 
-&emsp;(ii) the waiver will assure equitable treatment of patients referred for transplants within the service area served by such hospital's designated organ procurement agency and within the service area served by the organprocurement agency with which the hospital seeks to enter into an agreement under the waiver.
+&emsp;(ii) the waiver will assure equitable treatment of patients referred for transplants within the service area served by such hospital's designated organ procurement agency and within the service area served by the organ procurement agency with which the hospital seeks to enter into an agreement under the waiver.
 
 (B) In making a determination under subparagraph (A), the Secretary may consider factors that would include, but not be limited to—
 
@@ -72,11 +72,11 @@ Section 273(b)(1)(E) of this title, referred to in subsec. (b)(2), was redesigna
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–33, §4201(c)(1), substituted “critical access” for “rural primary care” wherever appearing.
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §4201(c)(1), substituted “critical access” for “rural primary care” wherever appearing.
 
 Subsec. (b)(1)(A)(ii). Pub. L. 105–33, §4642, substituted “2 years (4 years if the Secretary determines appropriate for an organization on the basis of its past practices)” for “two years”.
 
-1994—Subsec. (a)(1)(A)(iii). Pub. L. 103–432, §155(a)(1)(A), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “require that an organ procurement agency designated by the Secretary pursuant to subsection (b)(1)(F) of this section be notified of potential organ donors; and”.
+<b>1994</b>—Subsec. (a)(1)(A)(iii). Pub. L. 103–432, §155(a)(1)(A), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “require that an organ procurement agency designated by the Secretary pursuant to subsection (b)(1)(F) of this section be notified of potential organ donors; and”.
 
 Subsec. (a)(1)(C). Pub. L. 103–432, §155(a)(1)(B), added subpar. (C).
 
@@ -86,15 +86,15 @@ Subsec. (a)(3). Pub. L. 103–432, §155(a)(1)(D), amended par. (3) generally. P
 
 Pub. L. 103–432, §155(a)(1)(C)(i), redesignated par. (2) as (3).
 
-1989—Subsec. (a)(1). Pub. L. 101–239 substituted “hospital or rural primary care hospital” for “hospital” in two places preceding cl. (i) of subpar. (A).
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–239 substituted “hospital or rural primary care hospital” for “hospital” in two places preceding cl. (i) of subpar. (A).
 
-1988—Subsec. (a)(1)(B). Pub. L. 100–360 added Pub. L. 100–203, §4039(h)(2), see 1987 Amendment note below.
+<b>1988</b>—Subsec. (a)(1)(B). Pub. L. 100–360 added Pub. L. 100–203, §4039(h)(2), see 1987 Amendment note below.
 
-1987—Subsec. (a)(1)(B). Pub. L. 100–203, §4039(h)(2), as added by Pub. L. 100–360, substituted “in” for “In” at beginning.
+<b>1987</b>—Subsec. (a)(1)(B). Pub. L. 100–203, §4039(h)(2), as added by Pub. L. 100–360, substituted “in” for “In” at beginning.
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 4201(c)(1) of Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997,see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
+Amendment by section 4201(c)(1) of Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997, see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
 
 #### Effective Date of 1994 Amendment
 

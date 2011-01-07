@@ -62,15 +62,15 @@ Inclusion of NORAD.—For purposes of this section, the Commander, United States
 
 #### Amendments
 
-2009—Subsec. (b)(6). Pub. L. 111–84, §904(b), inserted “in coordination with the relevant chief of mission to the extent practicable,” after “assistance,”.
+<b>2009</b>—Subsec. (b)(6). Pub. L. 111–84, §904(b), inserted “in coordination with the relevant chief of mission to the extent practicable,” after “assistance,”.
 
 Subsec. (e)(1)(A). Pub. L. 111–84, §904(a), substituted “$20,000,000” for “$10,000,000” and “the investment unit cost threshold in effect under section 2245a of this title” for “$15,000”.
 
-2006—Subsec. (b)(6). Pub. L. 109–364, §902(a), substituted “civic assistance, to include urgent and unanticipated humanitarian relief and reconstruction assistance” for “civil assistance”.
+<b>2006</b>—Subsec. (b)(6). Pub. L. 109–364, §902(a), substituted “civic assistance, to include urgent and unanticipated humanitarian relief and reconstruction assistance” for “civil assistance”.
 
 Subsec. (c)(3). Pub. L. 109–364, §902(b), added par. (3).
 
-2003—Subsec. (a). Pub. L. 108–136, §902(a)(2), substituted “
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §902(a)(2), substituted “
 
 Combatant Commander Initiative Fund” for “
 
@@ -86,13 +86,13 @@ Subsec. (e)(1)(B). Pub. L. 108–136, §902(c)(2), substituted “$10,000,000”
 
 Subsec. (e)(1)(C). Pub. L. 108–136, §902(c)(3), substituted “$5,000,000” for “$2,000,000”.
 
-1997—Subsec. (b)(9). Pub. L. 105–85 added par. (9).
+<b>1997</b>—Subsec. (b)(9). Pub. L. 105–85 added par. (9).
 
-1993—Subsec. (a). Pub. L. 103–35, §201(a)(1), substituted “the Chairman of the Joint Chiefs of Staff may provide funds to the commander of a combatant command, upon the request of the commander, or, with respect to a geographic area or areas not within the area of responsibility of a commander of a combatant command, to an officer designated by the Chairman of the Joint Chiefs of Staff for such purpose” for “the Chairman of the Joint Chiefs of Staff may provide funds to the commander of a combatant command, upon the request of the commander, or to the Director of the Joint Staff with respect to an area or areas not within the area of responsibility of a commander of a combatant command.”
+<b>1993</b>—Subsec. (a). Pub. L. 103–35, §201(a)(1), substituted “the Chairman of the Joint Chiefs of Staff may provide funds to the commander of a combatant command, upon the request of the commander, or, with respect to a geographic area or areas not within the area of responsibility of a commander of a combatant command, to an officer designated by the Chairman of the Joint Chiefs of Staff for such purpose” for “the Chairman of the Joint Chiefs of Staff may provide funds to the commander of a combatant command, upon the request of the commander, or to the Director of the Joint Staff with respect to an area or areas not within the area of responsibility of a commander of a combatant command.”
 
 Subsec. (b)(7). Pub. L. 103–35, §201(a)(2), struck out second of two identical parenthetical phrases at end of par. (7) which read as follows: “(including transportation, translation, and administrative expenses)”.
 
-1992—Subsec. (a). Pub. L. 102–484, §934(a), which directed substitution of “funds to the commander of a combatant command, upon the request of the commander, or, with respect to a geographic area or areas not within the area of responsibility of a commander of a combatant command, to an officer designated by the Chairman of the Joint Chiefs of Staff for such purpose.” for “funds, upon request,” and all that follows through the period, could not be executed because the words did not appear subsequent to the amendment by Pub. L. 102–396, §9128(a). See below.
+<b>1992</b>—Subsec. (a). Pub. L. 102–484, §934(a), which directed substitution of “funds to the commander of a combatant command, upon the request of the commander, or, with respect to a geographic area or areas not within the area of responsibility of a commander of a combatant command, to an officer designated by the Chairman of the Joint Chiefs of Staff for such purpose.” for “funds, upon request,” and all that follows through the period, could not be executed because the words did not appear subsequent to the amendment by Pub. L. 102–396, §9128(a). See below.
 
 Pub. L. 102–396, §9128(a), substituted “funds to the commander of a combatant command, upon the request of the commander, or to the Director of the Joint Staff with respect to an area or areas not within the area of responsibility of a commander of a combatant command.” for “funds, upon request, to the commanders of the combatant commands.”
 

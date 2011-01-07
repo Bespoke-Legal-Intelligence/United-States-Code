@@ -50,7 +50,7 @@ A qualified entity shall not be liable in an action for damages solely for failu
 
 In the case of a background check pursuant to a State requirement adopted after December 20, 1993, conducted with fingerprints on a person who volunteers with a qualified entity, the fees collected by authorized State agencies and the Federal Bureau of Investigation may not exceed eighteen dollars, respectively, or the actual cost, whichever is less, of the background check conducted with fingerprints. The States shall establish fee systems that insure that fees to non-profit entities for background checks do not discourage volunteers from participating in child care programs.
 
-(Pub. L. 103–209, §3, Dec. 20, 1993, 107 Stat. 2491; Pub. L. 103–322, title XXXII, §320928(a)(1), (2), (c), (e), Sept. 13, 1994, 108 Stat. 2131, 2132; Pub. L. 105–251, title II, §222(a), (b), Oct. 9, 1998, 112 Stat. 1885.)
+(Pub. L. 103–209, §3, Dec. 20, 1993, 107 Stat. 2491; Pub. L. 103–322, title XXXII, §320928(a)(1), (2), (c), (e), Sept. 13, 1994, 108 Stat. 2131, 2132; Pub. L.105–251, title II, §222(a), (b), Oct. 9, 1998, 112 Stat. 1885.)
 
 #### References in Text
 
@@ -58,11 +58,11 @@ Public Law 92–544, referred to in subsec. (b)(5), is Pub. L. 92–544, Oct. 25
 
 #### Amendments
 
-1998—Subsec. (a)(3). Pub. L. 105–251, §222(a), added par. (3).
+<b>1998</b>—Subsec. (a)(3). Pub. L. 105–251, §222(a), added par. (3).
 
 Subsec. (b)(5). Pub. L. 105–251, §222(b), inserted before period at end “, except that this paragraph does not apply to any request by a qualified entity for a national criminal fingerprint background check pursuant to subsection (a)(3) of this section”.
 
-1994—Subsec. (a)(1). Pub. L. 103–322, §320928(a)(1), substituted “the provider's fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities” for “an individual's fitness to have responsibility for the safety and well-being of children”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–322, §320928(a)(1), substituted “the provider's fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities” for “an individual's fitness to have responsibility for the safety and well-being of children”.
 
 Subsec. (b)(1)(E). Pub. L. 103–322, §320928(a)(2)(A), substituted “to a person to whom the qualified entity provides care” for “to a child to whom the qualified entity provides child care”.
 
@@ -74,7 +74,7 @@ Subsec. (e). Pub. L. 103–322, §320928(e), substituted “eighteen dollars, re
 
 #### Pilot Program for National Criminal History Background Checks and Feasibility Study
 
-Pub. L. 108–21, title I, §108, Apr. 30, 2003, 117 Stat. 655, as amended by Pub. L. 108–68, §1, Aug. 1, 2003, 117 Stat. 883; Pub. L. 108–458, title VI, §6401, Dec. 17, 2004, 118 Stat. 3755; Pub. L. 109–162, title XI, §1197, Jan. 5, 2006, 119 Stat. 3131; Pub. L. 110–296, §2, July 30, 2008, 122 Stat. 2974; Pub. L. 110–408, §2, Oct. 13, 2008, 122 Stat. 4301, provided that:
+Pub. L. 108–21, title I, §108, Apr. 30, 2003, 117 Stat. 655, as amended by Pub. L. 108–68, §1, Aug. 1, 2003, 117 Stat. 883; Pub. L. 108–458, title VI, §6401, Dec. 17, 2004, 118 Stat. 3755; Pub. L. 109–162, title XI, §1197, Jan. 5, 2006, 119 Stat. 3131; Pub. L. 110–296, §2, July 30, 2008, 122 Stat. 2974; Pub. L. 110–408, §2, Oct. 13, 2008, 122 Stat. 4301; Pub. L. 111–143, §2, Mar. 1, 2010, 124 Stat. 41; Pub. L. 111–341, §2, Dec. 22, 2010, 124 Stat. 3606, provided that:
 
 “(a)
 
@@ -82,7 +82,7 @@ Establishment of Pilot Program.—
 
 &emsp;“(1)
 
-In general.—Not later than 90 days after the date of the enactment of this Act \[Apr. 30, 2003\], the Attorney General shall establish a pilot program for volunteer groups to obtain national and State criminal history background checks through a 10-fingerprint check to be conducted utilizing State criminalrecords and the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation.
+In general.—Not later than 90 days after the date of the enactment of this Act \[Apr. 30, 2003\], the Attorney General shall establish a pilot program for volunteer groups to obtain national and State criminal history background checks through a 10-fingerprint check to be conducted utilizing State criminal records and the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation.
 
 &emsp;“(2)
 
@@ -118,7 +118,7 @@ Child safety pilot program.—
 
 &emsp;&emsp;“(A)
 
-In general.—The Attorney General shall establish a 78-month Child Safety Pilot Program that shall provide for the processing of 200,000 10-fingerprint check requests from organizations described in subparagraph (B) conducted through the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation.
+In general.—The Attorney General shall establish a 104-month Child Safety Pilot Program that shall provide for the processing of 200,000 10-fingerprint check requests from organizations described in subparagraph (B) conducted through the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation.
 
 &emsp;&emsp;“(B)
 
@@ -156,7 +156,7 @@ Volunteer information required.—An organization authorized to request a backgr
 
 &emsp;&emsp;&emsp;“(ii) obtain a statement completed and signed by the volunteer that—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) sets out the provider or volunteer's name, address, date of birth appearing on a valid identification document as defined in section 1028 of title 18, United States Code, and a photocopy of the valid identifying document;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) sets out the provider or volunteer's name, address, date of birth appearing on a valid identification document as defined in section 1028 oftitle 18, United States Code, and a photocopy of the valid identifying document;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) states whether the volunteer has a criminal record, and, if so, sets out the particulars of such record;
 
@@ -200,7 +200,7 @@ Authorization of Appropriations.—
 
 &emsp;“(1)
 
-In general.—There is authorized to be appropriated such sums as may be necessary to the National Center for Missing and Exploited Children forfiscal years 2004 through 2008 to carry out the requirements of this section.
+In general.—There is authorized to be appropriated such sums as may be necessary to the National Center for Missing and Exploited Children for fiscal years 2004 through 2008 to carry out the requirements of this section.
 
 &emsp;“(2)
 

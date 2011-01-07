@@ -50,7 +50,7 @@ In addition to any other terms and conditions under subsection (a) of this secti
 
 #### (1) Waiting period
 
-&emsp;Except as provided in paragraph (2), coverage under a new contract for flood insurance coverage under this chapter entered into after September 23, 1994, and any modification to coverage under an existing flood insurance contract made after September 23, 1994, shallbecome effective upon the expiration of the 30-day period beginning on the date that all obligations for such coverage (including completion of the application and payment of any initial premiums owed) are satisfactorily completed.
+&emsp;Except as provided in paragraph (2), coverage under a new contract for flood insurance coverage under this chapter entered into after September 23, 1994, and any modification to coverage under an existing flood insurance contract made after September 23, 1994, shall become effective upon the expiration of the 30-day period beginning on the date that all obligations for such coverage (including completion of the application and payment of any initial premiums owed) are satisfactorily completed.
 
 #### (2) Exception
 
@@ -68,7 +68,7 @@ This chapter, referred to in subsecs. (a)(6) and (c)(1), (2)(A), was in the orig
 
 #### Amendments
 
-1994—Subsec. (b)(2). Pub. L. 103–325, §573(a)(1), substituted “a total amount (including such limits specified in paragraph (1)(A)(i)) of $250,000” for “an amount of $150,000 under the provisions of this clause”.
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–325, §573(a)(1), substituted “a total amount (including such limits specified in paragraph (1)(A)(i)) of $250,000” for “an amount of $150,000 under the provisions of this clause”.
 
 Subsec. (b)(3). Pub. L. 103–325, §573(a)(2), substituted “a total amount (including such limits specified in paragraph (1)(A)(ii)) of $100,000” for “an amount of $50,000 under the provisions of this clause”.
 
@@ -82,19 +82,19 @@ Subsec. (c). Pub. L. 103–325, §579(a), added subsec. (c).
 
 Pub. L. 103–325, §552(a), struck out subsec. (c) which related to schedule for payment of flood insurance for structures on land subject to imminent collapse or subsidence.
 
-1990—Subsec. (c)(7). Pub. L. 101–508 substituted “September 30, 1995” for “September 30, 1991”.
+<b>1990</b>—Subsec. (c)(7). Pub. L. 101–508 substituted “September 30, 1995” for “September 30, 1991”.
 
-1989—Subsec. (c)(7). Pub. L. 101–137 substituted “September 30, 1991” for “September 30, 1989”.
+<b>1989</b>—Subsec. (c)(7). Pub. L. 101–137 substituted “September 30, 1991” for “September 30, 1989”.
 
-1988—Subsec. (c). Pub. L. 100–242 added subsec. (c).
+<b>1988</b>—Subsec. (c). Pub. L. 100–242 added subsec. (c).
 
 Subsec. (c)(1)(A). Pub. L. 100–628 substituted “following” for “Following” in cls. (i) and (ii).
 
 Subsec. (c)(5). Pub. L. 100–707 substituted “Disaster Relief and Emergency Assistance Act” for “Disaster Relief Act of 1974”.
 
-1983—Subsecs. (a), (b)(1)(B), (4). Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+<b>1983</b>—Subsecs. (a), (b)(1)(B), (4). Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
 
-1977—Subsec. (b)(2). Pub. L. 95–128 added par. (2) and redesignated former par. (2) as (5).
+<b>1977</b>—Subsec. (b)(2). Pub. L. 95–128 added par. (2) and redesignated former par. (2) as (5).
 
 Subsec. (b)(3), (4). Pub. L. 95–128 added pars. (3) and (4).
 
@@ -102,13 +102,13 @@ Subsec. (b)(5). Pub. L. 95–128 redesignated former par. (2) as (5), struck out
 
 Subsec. (b)(6). Pub. L. 95–128 added par. (6).
 
-1973—Subsec. (b)(1)(A). Pub. L. 93–234, §101(a), in increasing limits of coverage, struck out following introductory text “residential properties” the clause “which are designed for the occupancy of from one to four families”; substituted provisions in cl. (i) “$35,000 aggregate liability for any single-family dwelling, and $100,000 for any residential structure containing more than one dwelling unit” for “$17,500 aggregate liability for any dwelling unit, and $30,000 for any single dwelling structure containing more than one dwelling unit”; increased cl. (ii) limits to $10,000 from $5,000 and added cl. (iii).
+<b>1973</b>—Subsec. (b)(1)(A). Pub. L. 93–234, §101(a), in increasing limits of coverage, struck out following introductory text “residential properties” the clause “which are designed for the occupancy of from one to four families”; substituted provisions in cl. (i) “$35,000 aggregate liability for any single-family dwelling, and $100,000 for any residential structure containing more than one dwelling unit” for “$17,500 aggregate liability for any dwelling unit, and $30,000 for any single dwelling structure containing more than one dwelling unit”; increased cl. (ii) limits to $10,000 from $5,000 and added cl. (iii).
 
 Subsec. (b)(1)(B). Pub. L. 93–234, §101(b), substituted “$100,000” for “$30,000” in cl. (i), for “$5,000” in cl. (ii), and for “$30,000” in exception provision.
 
 Subsec. (b)(1)(C). Pub. L. 93–234, §101(c), increased cl. (i) limits to $100,000 from $30,000 and substituted cl. (ii) “$100,000 aggregate liability per unit for any contents related to such unit” for “$5,000 aggregate liability per dwelling unit for any contents related to such unit in the case of residential properties, or per occupant (as that term is defined by the Secretary) for any contents related to the premises occupied in the case of any other properties”.
 
-1971—Subsec. (b)(1)(C). Pub. L. 92–213 inserted “church properties, and” before “any other properties which may become”.
+<b>1971</b>—Subsec. (b)(1)(C). Pub. L. 92–213 inserted “church properties, and” before “any other properties which may become”.
 
 #### Effective Date of 1988 Amendment
 

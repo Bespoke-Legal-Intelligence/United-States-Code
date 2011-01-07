@@ -14,11 +14,17 @@ A compliance plan meets the requirements of this subsection if it is approved by
 
 (Pub. L. 95–620, title II, §214, Nov. 9, 1978, 92 Stat. 3304; Pub. L. 100–42, §1(c)(8), May 21, 1987, 101 Stat. 312.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a) and (b)(1)(A), was in the original “this Act”, meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
+
 #### Amendments
 
-1987—Subsec. (a). Pub. L. 100–42 struck out “or installation” after “powerplant”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–42 struck out “or installation” after “powerplant”.
 
 #### Exemption for Certain Electric Powerplants as Effective Prior to 180 Days After November 9, 1978
 
 For effectiveness of exemption for certain electric powerplants as prior to 180 days after Nov. 9, 1978, seesection 902(a) of Pub. L. 95–620, set out as a note under section 8301 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “for”.</i>
 

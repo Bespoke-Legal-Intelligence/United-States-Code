@@ -8,7 +8,7 @@
 
 #### Amendments
 
-2002—Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secretary” in section catchline.
+<b>2002</b>—Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secretary” in section catchline.
 
 Subsec. (a). Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secretary” in two places.
 
@@ -16,7 +16,7 @@ Pub. L. 107–296, §1112(e)(2), substituted “the Federal Bureau of Investigat
 
 Subsec. (b). Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secretary” wherever appearing.
 
-1996—Pub. L. 104–208 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1996</b>—Pub. L. 104–208 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 2002 Amendment
 

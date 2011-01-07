@@ -34,7 +34,7 @@ All laborers and mechanics employed by contractors and subcontractors (excluding
 
 #### (h) Application of other laws
 
-Unless otherwise agreed to by the Indian tribe, no provision of the Office of Federal Procurement Policy Act \[41 U.S.C. 401 et seq.\], the Federal Acquisition Regulations issued pursuant thereto, or any other law or regulation pertaining to Federal procurement (including Executive orders) shall apply to any construction project conducted under this part.
+Unless otherwise agreed to by the Indian tribe, no provision of division B (except sections 1123,2303, 2304, and 2313) of subtitle I of title 41, the Federal Acquisition Regulations issued pursuant thereto, or any other law or regulation pertaining to Federal procurement (including Executive orders) shall apply to any construction project conducted under this part.
 
 (Pub. L. 93–638, title V, §509, as added Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 724.)
 
@@ -46,9 +46,9 @@ The National Historic Preservation Act, referred to in subsec. (a), is Pub. L. 8
 
 Reorganization Plan numbered 14, of 1950, referred to in subsec. (g), is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Office of Federal Procurement Policy Act, referred to in subsec. (h), is Pub. L. 93–400, Aug. 30, 1974, 88 Stat. 796, as amended, which is classified principally to chapter 7 (§401 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 41 and Tables.
-
 #### Codification
 
-In subsec. (g), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act of March 3, 1931 (46 Stat. 1494)”, “sections 3141–3144, 3146, and 3147of title 40 are” substituted for “the Act of March 3, 1931, is”, and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934 (48 Stat. 948)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (g), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act of March 3, 1931 (46 Stat. 1494)”, “sections 3141–3144, 3146, and 3147 of title 40 are” substituted for “the Act of March 3, 1931, is”, and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934 (48 Stat. 948)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+
+In subsec. (h), “division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41” substituted for “the Office of Federal Procurement Policy Act” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

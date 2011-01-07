@@ -12,7 +12,7 @@ Any State may apply to the Secretary for reimbursement under this section for co
 
 &emsp;(4) The implementation of conservation actions specified in an approved conservation plan.
 
-&emsp;(5) The coordination, consolidation, or implementation of the conservation plan or conservation, actions approved under this chapter with other related plans or actions developed pursuant to the Act of September 2, 1937 (16 U.S.C. 669e(a)(1)), commonly referred to as the Pittman-Robertson Wildlife Restoration Act \[16 U.S.C. 669 et seq.\] and the Act of August 9, 1950 (16 U.S.C. 777c(a)(1)), commonly referred to as the Dingell-Johnson Sport Fish Restoration Act \[16 U.S.C. 777 et seq.\].
+&emsp;(5) The coordination, consolidation, or implementation of the conservation plan or conservation actions approved under this chapter with other related plans or actions developed pursuant to the Act of September 2, 1937 (16 U.S.C. 669e(a)(1)), commonly referred to as the Pittman-Robertson Wildlife Restoration Act \[16 U.S.C. 669 et seq.\] and the Act of August 9, 1950 (16 U.S.C. 777c(a)(1)), commonly referred to as the Dingell-Johnson Sport Fish Restoration Act \[16 U.S.C. 777 et seq.\].
 
 #### (b) Applications
 
@@ -82,7 +82,7 @@ Subject to the limitations in subsection (c) and the terms and conditions impose
 
 &emsp;(ii) not include any other Federal moneys received by such State and applied by it, directly or indirectly, for such purposes.
 
-(B) For purposes of subparagraph (A), inkind contributions may be in the form of, but are not limited to, personal services rendered by volunteers in carrying out surveys, censuses, and other scientific studies regarding fish and wildlife. The Secretary shall by regulation establish (i) the training experience, and other qualifications which such volunteers must have in orderfor their services to be considered as inkind contributions; and (ii) the standards under which the Secretary will determine the value of inkind contributions and real and personal property for purposes of subparagraph (A).
+(B) For purposes of subparagraph (A), inkind contributions may be in the form of, but are not limited to, personal services rendered by volunteers in carrying out surveys, censuses, and other scientific studies regarding fish and wildlife. The Secretary shall by regulation establish (i) the training, experience, and other qualifications which such volunteers must have in order for their services to be considered as inkind contributions; and (ii) the standards under which the Secretary will determine the value of inkind contributions and real and personal property for purposes of subparagraph (A).
 
 (C) Any valuation determination made by the Secretary for purposes of this paragraph shall be final and conclusive.
 
@@ -90,9 +90,9 @@ Subject to the limitations in subsection (c) and the terms and conditions impose
 
 #### References in Text
 
-The Pittman-Robertson Wildlife Restoration Act, referred to in subsecs. (a)(5) and (c)(5), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, as amended, also known as the Federal Aid in Wildlife Restoration Act, which is classified generally to chapter 5B (§669 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
+The Pittman-Robertson Wildlife Restoration Act, referred to in subsecs. (a)(5) and (c)(5), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, also known as the Federal Aid in Wildlife Restoration Act, which is classified generally to chapter 5B (§669 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
 
-The Dingell-Johnson Sport Fish Restoration Act, referred to in subsecs. (a)(5) and (c)(5), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, as amended, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§777 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 777 of this title and Tables.
+The Dingell-Johnson Sport Fish Restoration Act, referred to in subsecs. (a)(5) and (c)(5), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§777 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 777 of this title and Tables.
 
 16 U.S.C 777c(a)(1), referred to in subsecs. (a)(5) and (c)(5), probably is a reference to section 6(a)(1) of act Aug. 9, 1950, ch. 658, 64 Stat. 432, which is classified to section 777e(a)(1) of this title.
 

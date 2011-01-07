@@ -20,7 +20,7 @@
 
 #### Amendments
 
-2003—Pub. L. 108–136, §1031(a)(10)(B), struck out “and recommendation” after “review” in section catchline.
+<b>2003</b>—Pub. L. 108–136, §1031(a)(10)(B), struck out “and recommendation” after “review” in section catchline.
 
 Subsec. (a). Pub. L. 108–136, §1031(a)(10)(A)(i), struck out “and the other determinations necessary to comply with subsection (b)” after “of the decoration”.
 
@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 108–136, §1031(a)(10)(A)(ii), substituted “to the requ
 
 > A notice under paragraph (1) or (4) shall be accompanied by a statement of the reasons for the decision of the Secretary.”
 
-1999—Subsec. (b). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
+<b>1999</b>—Subsec. (b). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
 
 #### Eligibility for Armed Forces Expeditionary Medal for Participation in Operation Joint Endeavor or Operation Joint Guard
 
@@ -66,7 +66,7 @@ Operations Defined.—For purposes of this section:
 
 #### Eligibility of Certain World War II Military Organizations for Award of Unit Decorations
 
-Pub. L. 105–85, div. A, title V, §576, Nov. 18, 1997, 111 Stat. 1758, authorized award of a unit decoration for any unit or other organization of the Armed Forces that had supported the planning or execution of combat operations during World War II primarily through unit personnel who had been attached to other units of the Armed Forces or of other allied armed forces, and that had not been otherwise eligible for award of the decoration by reason of not usually having been deployed as a unit in support of such operations, and required that any recommendation for such an award be submitted to the Secretary concerned not later than two years after Nov. 18, 1997.
+Pub. L. 105–85, div. A, title V, §576, Nov. 18, 1997, 111 Stat. 1758, authorized award of a unit decoration for any unit or other organization of the Armed Forces that had supported the planning or execution of combat operations during World War II primarily through unit personnel who had been attached to other units of the Armed Forces or of other allied armed forces, and that had not been otherwise eligible for award of the decoration by reason of not usually having been deployed as a unit in support of such operations, and required that any recommendation for such an award be submitted tothe Secretary concerned not later than two years after Nov. 18, 1997.
 
 #### Authority To Award Decorations Recognizing Acts of Valor Performed in Combat During the Vietnam Conflict
 

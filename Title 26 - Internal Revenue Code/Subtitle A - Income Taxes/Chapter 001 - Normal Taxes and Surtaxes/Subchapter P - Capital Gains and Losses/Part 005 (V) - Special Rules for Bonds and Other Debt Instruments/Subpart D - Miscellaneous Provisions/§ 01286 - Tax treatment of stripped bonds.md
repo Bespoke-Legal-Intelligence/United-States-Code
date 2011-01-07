@@ -2,7 +2,7 @@
 
 #### (a) Inclusion in income as if bond and coupons were original issue discount bonds
 
-If any person purchases after July 1, 1982, a stripped bond or a stripped coupon, then such bond or coupon while held by such purchaser (or by any other person whose basis is determined by reference to the basis in the hands of such purchaser) shall be treated for purposes of this part as a bond originally issued on the purchasedate and having an original issue discount equal to the excess (if any) of—
+If any person purchases after July 1, 1982, a stripped bond or a stripped coupon, then such bond or coupon while held by such purchaser (or by any other person whose basis is determined by reference to the basis in the hands of such purchaser) shall be treated for purposes of this part as a bond originally issued on the purchase date and having an original issue discount equal to the excess (if any) of—
 
 &emsp;(1) the stated redemption price at maturity (or, in the case of coupon, the amount payable on the due date of such coupon), over
 
@@ -32,7 +32,7 @@ For purposes of this subtitle, if any person strips 1 or more coupons from a bon
 
 If a bond issued at any time with interest coupons—
 
-&emsp;(1) is purchased after August 16, 1954, and before January 1, 1958, and the purchaser does not receive all the coupons which first become payable more than 12 months after the date of the purchase, or
+&emsp;(1) is purchased after August 16, 1954, and before January 1, 1958, and the purchaser doesnot receive all the coupons which first become payable more than 12 months after the date of the purchase, or
 
 &emsp;(2) is purchased after December 31, 1957, and before July 2, 1982, and the purchaser does not receive all the coupons which first become payable after the date of the purchase,
 
@@ -112,9 +112,9 @@ The Secretary may prescribe regulations providing that where, by reason of varyi
 
 #### Amendments
 
-2004—Subsecs. (f), (g). Pub. L. 108–357 added subsec. (f) and redesignated former subsec. (f) as (g).
+<b>2004</b>—Subsecs. (f), (g). Pub. L. 108–357 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1988—Subsec. (d). Pub. L. 100–647 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In the case of any tax-exempt obligation (as defined in section 1275(a)(3)) from which 1 or more coupons have been stripped—
+<b>1988</b>—Subsec. (d). Pub. L. 100–647 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In the case of any tax-exempt obligation (as defined in section 1275(a)(3)) from which 1 or more coupons have been stripped—
 
 &emsp;“(1) the amount of original issue discount determined under subsection (a) with respect to any stripped bond or stripped coupon from such obligation shall be the amount which produces a yield to maturity (as of the purchase date) equal to the lower of—
 
@@ -128,7 +128,7 @@ The Secretary may prescribe regulations providing that where, by reason of varyi
 
 &emsp;“(4) subsection (b)(2) shall be applied by increasing the basis of the bond or coupon by the interest accrued but not paid before the time such bond or coupon was disposed of (and not previously reflected in basis).”
 
-1986—Subsec. (b)(1). Pub. L. 99–514, §1803(a)(13)(B)(i), amended par. (1) generally, designating existing provisions as subpar. (A) and adding subpar. (B).
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–514, §1803(a)(13)(B)(i), amended par. (1) generally, designating existing provisions as subpar. (A) and adding subpar. (B).
 
 Subsec. (b)(2). Pub. L. 99–514, §1803(a)(13)(B)(ii), substituted “the amount included in gross income under paragraph (1)” for “the amount of the accrued interest described in paragraph (1)”.
 

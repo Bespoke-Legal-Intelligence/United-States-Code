@@ -6,5 +6,5 @@ This chapter shall not apply to the Panama Canal. The authority granted to the S
 
 #### Amendments
 
-1984—Pub. L. 98–557 struck out reference to section 1226 of this title.
+<b>1984</b>—Pub. L. 98–557 struck out reference to section 1226 of this title.
 

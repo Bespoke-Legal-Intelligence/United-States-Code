@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(ii) require an operator of an open video system to ensure that video programming providers or copyright holders (or both) are able suitably and uniquely to identify their programming services to subscribers;
 
-&emsp;&emsp;(iii) if such identification is transmitted as part of the programming signal, require the carrier to transmit such identification without change or alteration; and
+&emsp;&emsp;(iii) if such identification is transmitted as part of the programming signal, require thecarrier to transmit such identification without change or alteration; and
 
 &emsp;&emsp;(iv) prohibit an operator of an open video system from omitting television broadcast stations or other unaffiliated video programming services carried on such system from any navigational device, guide, or menu.
 

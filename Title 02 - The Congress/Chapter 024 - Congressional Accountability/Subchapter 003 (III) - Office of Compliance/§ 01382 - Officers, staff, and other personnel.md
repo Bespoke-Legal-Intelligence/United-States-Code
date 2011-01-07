@@ -124,7 +124,7 @@
 
 #### (d) Other staff
 
-The Executive Director shall appoint, and fix the compensation of, and may remove, such other additional staff, including hearing officers, but not including attorneys employed in the office of the General Counsel, as may be necessary to enable the Office to perform its duties.
+The Executive Director shall appoint, and fix the compensation of, and may remove, suchother additional staff, including hearing officers, but not including attorneys employed in the office of the General Counsel, as may be necessary to enable the Office to perform its duties.
 
 #### (e) Detailed personnel
 
@@ -135,6 +135,10 @@ The Executive Director may, with the prior consent of the department or agency o
 In carrying out the functions of the Office, the Executive Director may procure the temporary (not to exceed 1 year) or intermittent services of consultants.
 
 (Pub. L. 104–1, title III, §302, Jan. 23, 1995, 109 Stat. 26; Pub. L. 110–161, div. H, title I, §1101(b), Dec. 26, 2007, 121 Stat. 2237; Pub. L. 110–164, §2(a), Dec. 26, 2007, 121 Stat. 2459.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a)(4) and (c)(3), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
 #### Amendments
 

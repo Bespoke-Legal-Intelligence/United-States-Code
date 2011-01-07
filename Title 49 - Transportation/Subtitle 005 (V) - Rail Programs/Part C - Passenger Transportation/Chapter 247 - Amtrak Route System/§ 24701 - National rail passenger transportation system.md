@@ -32,7 +32,7 @@ In subsection (b), the words “concerning auto-ferry service . . . railroad o
 
 #### Amendments
 
-1997—Pub. L. 105–134 substituted section catchline for former catchline which read “Operation of basic system” and amended text generally. Prior to amendment, text read as follows:
+<b>1997</b>—Pub. L. 105–134 substituted section catchline for former catchline which read “Operation of basic system” and amended text generally. Prior to amendment, text read as follows:
 
 “(a)
 

@@ -188,23 +188,23 @@ Subsec. (k)(6) of this section, which required the Secretary to submit an annual
 
 #### Amendments
 
-2000—Subsec. (k)(7)(B). Pub. L. 106–400 made technical amendment to reference in original act which appears in text as reference to section 11302 of this title.
+<b>2000</b>—Subsec. (k)(7)(B). Pub. L. 106–400 made technical amendment to reference in original act which appears in text as reference to section 11302 of this title.
 
-1990—Subsec. (k). Pub. L. 101–625 added subsec. (k).
+<b>1990</b>—Subsec. (k). Pub. L. 101–625 added subsec. (k).
 
-1988—Subsec. (g)(4). Pub. L. 100–242 added par. (4).
+<b>1988</b>—Subsec. (g)(4). Pub. L. 100–242 added par. (4).
 
 Subsec. (j). Pub. L. 100–628 added subsec. (j).
 
-1983—Subsec. (i). Pub. L. 98–181 added subsec. (i).
+<b>1983</b>—Subsec. (i). Pub. L. 98–181 added subsec. (i).
 
-1980—Subsec. (a). Pub. L. 96–399 inserted reference to Indian tribe in provisions preceding par. (1).
+<b>1980</b>—Subsec. (a). Pub. L. 96–399 inserted reference to Indian tribe in provisions preceding par. (1).
 
-1979—Subsec. (h). Pub. L. 96–153 added subsec. (h).
+<b>1979</b>—Subsec. (h). Pub. L. 96–153 added subsec. (h).
 
-1978—Subsec. (e). Pub. L. 95–557 inserted “The Secretary shall not give priority for funding under this section to any one of the groups listed in subsection (a) of this section over any of the others so listed”.
+<b>1978</b>—Subsec. (e). Pub. L. 95–557 inserted “The Secretary shall not give priority for funding under this section to any one of the groups listed in subsection (a) of this section over any of the others so listed”.
 
-1970—Subsec. (a). Pub. L. 91–609, §801(d)(1), authorized financial assistance for broad-based nonprofit organizations incorporated within the State and nonprofit organizations of farmworkers incorporated within the State and provided for low-rent housing and related facilities “(which may be located within the State)”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–609, §801(d)(1), authorized financial assistance for broad-based nonprofit organizations incorporated within the State and nonprofit organizations of farmworkers incorporated within the State and provided for low-rent housing and related facilities “(which may be located within the State)”.
 
 Subsec. (a)(2). Pub. L. 91–609, §801(d)(2), substituted “10 per centum” for “one-third”.
 

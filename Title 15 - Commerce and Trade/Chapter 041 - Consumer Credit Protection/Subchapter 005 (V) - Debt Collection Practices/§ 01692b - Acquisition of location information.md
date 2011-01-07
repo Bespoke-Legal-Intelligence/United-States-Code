@@ -1,6 +1,6 @@
 ### §1692b. Acquisition of location information
 
-Any debt collector communicating with any person other than the consumer for the purposeof acquiring location information about the consumer shall—
+Any debt collector communicating with any person other than the consumer for the purpose of acquiring location information about the consumer shall—
 
 &emsp;(1) identify himself, state that he is confirming or correcting location information concerning the consumer, and, only if expressly requested, identify his employer;
 

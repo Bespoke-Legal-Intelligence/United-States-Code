@@ -18,7 +18,7 @@ Each educational organization, prior to enrolling a minor and prior to accepting
 
 #### (2) Cost and fees
 
-&emsp;Information regarding the cost of the educational program and information regardingthe distribution of any enrollment fee, including—
+&emsp;Information regarding the cost of the educational program and information regarding the distribution of any enrollment fee, including—
 
 &emsp;&emsp;(A) the amount paid for, and the percentage of the total educational program cost of, each feature of the educational program, including—
 
@@ -164,9 +164,11 @@ A prior section 429 of Pub. L. 90–247 was classified to section 1231f of this 
 
 #### Amendments
 
-1998—Subsec. (d)(2)(B)(ii). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
+<b>1998</b>—Subsec. (d)(2)(B)(ii). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
 
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

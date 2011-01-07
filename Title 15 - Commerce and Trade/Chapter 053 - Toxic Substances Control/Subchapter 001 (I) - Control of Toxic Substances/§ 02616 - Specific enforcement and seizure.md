@@ -28,7 +28,7 @@ Any chemical substance, mixture, or product subject to subchapter IV of this cha
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–550, §1021(b)(6), which directed that subsec. (a) be amended “to read as follows” and then set out the subsec. (a) designation and heading, followed by the par. (1) designation and text, without any restatement of par. (2), was executed as a general amendment of par. (1) only, to reflect the probable intent of Congress. Prior to amendment, par. (1) read as follows: “The district courts of the United States shall have jurisdiction over civil actions to—
+<b>1992</b>—Subsec. (a). Pub. L. 102–550, §1021(b)(6), which directed that subsec. (a) be amended “to read as follows” and then set out the subsec. (a) designation and heading, followed by the par. (1) designation and text, without any restatement of par. (2), was executed as a general amendment of par. (1) only, to reflect the probable intent of Congress. Prior to amendment, par. (1) read as follows: “The district courts of the United States shall have jurisdiction over civil actions to—
 
 &emsp;“(A) restrain any violation of section 2614 of this title,
 

@@ -16,13 +16,13 @@
 
 #### Amendments
 
-1990—Pub. L. 101–510, div. A, title XIV, §1484(f)(1), Nov. 5, 1990, 104 Stat. 1717, revised chapter heading so as to appear in all capital letters.
+<b>1990</b>—Pub. L. 101–510, div. A, title XIV, §1484(f)(1), Nov. 5, 1990, 104 Stat. 1717, revised chapter heading so as to appear in all capital letters.
 
-1986—Pub. L. 99–399, title VIII, §806(a)(2), Aug. 27, 1986, 100 Stat. 885, added item 559.
+<b>1986</b>—Pub. L. 99–399, title VIII, §806(a)(2), Aug. 27, 1986, 100 Stat. 885, added item 559.
 
-1972—Pub. L. 92–477, §1(1), Oct. 9, 1972, 86 Stat. 793, inserted “trailers; additional movements;” after “household and personal effects;” in item 554.
+<b>1972</b>—Pub. L. 92–477, §1(1), Oct. 9, 1972, 86 Stat. 793, inserted “trailers; additional movements;” after “household and personal effects;” in item 554.
 
-1966—Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 625, added chapter 10 and items 551 to 558.
+<b>1966</b>—Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 625, added chapter 10 and items 551 to 558.
 
 
 ---

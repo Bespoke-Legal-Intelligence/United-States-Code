@@ -2,17 +2,25 @@
 
 #### (a) Identification
 
-The Secretary shall identify, and list in the report under section 1826h of this title, a nation if—
+The Secretary shall identify, and list in the report under section 1826h of this title—
 
-&emsp;(1) fishing vessels of that nation are engaged, or have been engaged during the preceding calendar year in fishing activities or practices; <sup>1</sup>
+&emsp;(1) a nation if—
 
-&emsp;&emsp;(A) in waters beyond any national jurisdiction that result in bycatch of a protected living marine resource; or
+&emsp;&emsp;(A) fishing vessels of that nation are engaged, or have been engaged during the preceding calendar year in fishing activities or practices; <sup>1</sup>
 
-&emsp;&emsp;(B) beyond the exclusive economic zone of the United States that result in bycatch of a protected living marine resource shared by the United States;
+&emsp;&emsp;&emsp;(i) in waters beyond any national jurisdiction that result in bycatch of a protected living marine resource; or
 
-&emsp;(2) the relevant international organization for the conservation and protection of such resources or the relevant international or regional fishery organization has failed to implement effective measures to end or reduce such bycatch, or the nation is not a party to, or does not maintain cooperating status with, such organization; and
+&emsp;&emsp;&emsp;(ii) beyond the exclusive economic zone of the United States that result in bycatch of a protected living marine resource shared by the United States;
 
-&emsp;(3) the nation has not adopted a regulatory program governing such fishing practices designed to end or reduce such bycatch that is comparable to that of the United States, taking into account different conditions.
+&emsp;&emsp;(B) the relevant international organization for the conservation and protection of such resources or the relevant international or regional fishery organization has failed to implement effective measures to end or reduce such bycatch, or the nation is not a party to, or does not maintain cooperating status with, such organization; and
+
+&emsp;&emsp;(C) the nation has not adopted a regulatory program governing such fishing practices designed to end or reduce such bycatch that is comparable to that of the United States, taking into account different conditions; and
+
+&emsp;(2) a nation if—
+
+&emsp;&emsp;(A) fishing vessels of that nation are engaged, or have been engaged during the preceding calendar year, in fishing activities or practices in waters beyond any national jurisdiction that target or incidentally catch sharks; and
+
+&emsp;&emsp;(B) the nation has not adopted a regulatory program to provide for the conservation of sharks, including measures to prohibit removal of any of the fins of a shark (including the tail) and discarding the carcass of the shark at sea, that is comparable to that of the United States, taking into account different conditions.
 
 #### (b) Consultation and negotiation
 
@@ -42,7 +50,7 @@ The Secretary, acting through the Secretary of State, shall—
 
 #### (3) Certification
 
-&emsp;The Secretary shall certify to the Congress by January 31, 2007, and biennially thereafterwhether each such nation has provided the documentary evidence described in paragraph (1)(A) and established a management plan described in paragraph (1)(B).
+&emsp;The Secretary shall certify to the Congress by January 31, 2007, and biennially thereafter whether each such nation has provided the documentary evidence described in paragraph (1)(A) and established a management plan described in paragraph (1)(B).
 
 #### (4) Alternative procedure
 
@@ -80,11 +88,11 @@ In this section the term “protected living marine resource”—
 
 There are authorized to be appropriated to the Secretary for fiscal years 2007 through 2013 such sums as are necessary to carry out this section.
 
-(Pub. L. 104–43, title VI, §610, as added Pub. L. 109–479, title IV, §403(a), Jan. 12, 2007, 120 Stat. 3630.)
+(Pub. L. 104–43, title VI, §610, as added Pub. L. 109–479, title IV, §403(a), Jan. 12, 2007, 120 Stat. 3630; amended Pub. L. 111–348, title I, §102(c)(1), Jan. 4, 2011, 124 Stat. 3669.)
 
 #### References in Text
 
-Sections 1826d to 1826k of this title, referred to in subsec. (b)(1), was in the original “this section and this Act” and was translated as reading “this section and this title” meaning title VI of Pub. L. 104–43, Nov. 3, 1995, 109 Stat. 391, known as the High Seas Driftnet Fishing Moratorium Protection Act. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under section 1801 of this title and Tables.
+Sections 1826d to 1826k of this title, referred to in subsec. (b)(1), was in the original “this section and thisAct” and was translated as reading “this section and this title” meaning title VI of Pub. L. 104–43, Nov. 3, 1995, 109 Stat. 391, known as the High Seas Driftnet Fishing Moratorium Protection Act. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under section 1801 of this title and Tables.
 
 Section 1826a(a) and section 1826a(b)(3) and (4) of this title, referred to in subsec. (c)(5), was in the original “section 101(a) and section 101(b)(3) and (4) of this Act (16 U.S.C. 1826a(a), (b)(3), and (b)(4))” and was translated as meaning section 101(a) and section 101(b)(3) and (4) of the High Seas Driftnet Fisheries Enforcement Act, to reflect the probable intent of Congress.
 
@@ -101,6 +109,16 @@ The Atlantic Tunas Convention Act, referred to in subsec. (e)(2), probably means
 #### Codification
 
 Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protection Act, and also as part of the Fisheries Act of 1995, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (a). Pub. L. 111–348, §102(c)(1)(A), struck out “, a nation if” after “section 1826h of this title” in introductory provisions.
+
+Pub. L. 111–348, §102(c)(1)(B)–(G), redesignated pars. (1) to (3) as subpars. (A) to (C), respectively, realigned margins, inserted “(1) a nation if—” before subpar. (A), as so redesignated, redesignated former subpars. (A) and (B) of par. (1) as cls. (i) and (ii) of subpar. (A), respectively, realigned margins, and added par. (2).
+
+#### Initial Identifications
+
+Pub. L. 111–348, title I, §102(c)(2), Jan. 4, 2011, 124 Stat. 3669, provided that: “The Secretary of Commerce shall begin making identifications under paragraph (2) of section 610(a) of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826k(a)), as added by paragraph (1)(G), not later than 1 year after the date of the enactment of this Act \[Jan. 4, 2011\].”
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a dash.</i>
 

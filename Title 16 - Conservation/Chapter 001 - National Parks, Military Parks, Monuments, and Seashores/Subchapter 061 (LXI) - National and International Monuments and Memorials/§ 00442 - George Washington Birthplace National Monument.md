@@ -54,7 +54,7 @@ Pub. L. 103–25, May 3, 1993, 107 Stat. 68, provided that:
 
 #### “SECTION 1. ADDITION TO NATIONAL MONUMENT.
 
-“The boundaries of the George Washington Birthplace National Monument (hereinafter referred to asthe ‘National Monument’) are hereby modified to include the area comprising approximately 12 acres, as generally depicted on the map entitled ‘George Washington Birthplace National Monument Boundary Map’, numbered 332/80,011A and dated September 1992, which shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior.
+“The boundaries of the George Washington Birthplace National Monument (hereinafter referred to as the ‘National Monument’) are hereby modified to include the area comprising approximately 12 acres, as generally depicted on the map entitled ‘George Washington Birthplace National Monument Boundary Map’, numbered 332/80,011A and dated September 1992, which shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior.
 
 #### “SEC. 2. ACQUISITION OF LANDS.
 

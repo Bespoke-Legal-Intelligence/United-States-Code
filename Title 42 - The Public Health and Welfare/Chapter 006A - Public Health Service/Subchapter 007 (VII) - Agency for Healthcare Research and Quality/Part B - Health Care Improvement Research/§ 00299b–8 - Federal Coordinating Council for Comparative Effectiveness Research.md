@@ -88,3 +88,7 @@ This Act, referred to in subsecs. (e)(1) and (f), is div. A of Pub. L. 111–5, 
 
 Section was enacted as part of the American Recovery and Reinvestment Act of 2009, and not as part of the Public Health Service Act which comprises this chapter.
 
+#### Termination of Federal Coordinating Council for Comparative Effectiveness Research
+
+Pub. L. 111–148, title VI, §6302, Mar. 23, 2010, 124 Stat. 747, provided that: “Notwithstanding any other provision of law, the Federal Coordinating Council for Comparative Effectiveness Research established under section 804 of Division A of the American Recovery and Reinvestment Act of 2009 (42 U.S.C. 299b–8), including the requirement under subsection (e)(2) of such section, shall terminate on the date of enactment of this Act \[Mar. 23, 2010\].”
+

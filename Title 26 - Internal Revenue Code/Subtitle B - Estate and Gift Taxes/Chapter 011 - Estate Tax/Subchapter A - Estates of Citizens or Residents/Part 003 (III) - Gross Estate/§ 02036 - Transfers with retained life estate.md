@@ -30,9 +30,9 @@ This section shall not apply to a transfer made before March 4, 1931; nor to a t
 
 #### Amendments
 
-1990—Subsecs. (c), (d). Pub. L. 101–508 redesignated subsec. (d) as (c) and struck out former subsec. (c) which enunciated a rule that retention of retained interest would be considered to be a retention of enjoyment of transferred property if a person held a substantial interest in an enterprise, and such person in effect transferred after Dec. 17, 1987, property having a disproportionately large share of the potential appreciation in such person's interest in the enterprise while retaining an interest in the income of, or rights in, the enterprise.
+<b>1990</b>—Subsecs. (c), (d). Pub. L. 101–508 redesignated subsec. (d) as (c) and struck out former subsec. (c) which enunciated a rule that retention of retained interest would be considered to be a retention of enjoyment of transferred property if a person held a substantial interest in an enterprise, and such person in effect transferred after Dec. 17, 1987, property having a disproportionately large share of the potential appreciation in such person's interest in the enterprise while retaining an interest in the income of, or rights in, the enterprise.
 
-1988—Subsec. (c)(1)(B). Pub. L. 100–647, §3031(e), substituted “an interest” for “a disproportionately large share” after “whole retaining”.
+<b>1988</b>—Subsec. (c)(1)(B). Pub. L. 100–647, §3031(e), substituted “an interest” for “a disproportionately large share” after “whole retaining”.
 
 Subsec. (c)(2). Pub. L. 100–647, §3031(g)(1), substituted “consideration furnished by” for “sales to” in heading, and amended text generally. Prior to amendment, text read as follows: “The exception contained in subsection (a) for a bona fide sale shall not apply to a transfer described in paragraph (1) if such transfer is to a member of the transferor's family.”
 
@@ -46,15 +46,15 @@ Subsec. (c)(6). Pub. L. 100–647, §3031(b), added par. (6).
 
 Subsec. (c)(7), (8). Pub. L. 100–647, §3031(b)\[(c)\], added pars. (7) and (8).
 
-1987—Subsecs. (c), (d). Pub. L. 100–203 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>1987</b>—Subsecs. (c), (d). Pub. L. 100–203 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1978—Subsec. (a). Pub. L. 95–600, §702(i)(2), struck out provision following par. (2) relating to the retention of voting rights in retained stock.
+<b>1978</b>—Subsec. (a). Pub. L. 95–600, §702(i)(2), struck out provision following par. (2) relating to the retention of voting rights in retained stock.
 
 Subsecs. (b), (c). Pub. L. 95–600, §702(i)(1), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1976—Subsec. (a). Pub. L. 94–455 provided that, for purposes of par. (1), the retention of voting rights in retained stock be considered to be a retention of the enjoyment of that stock.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 provided that, for purposes of par. (1), the retention of voting rights in retained stock be considered to be a retention of the enjoyment of that stock.
 
-1962—Subsec. (a). Pub. L. 87–834 struck out provisions which excepted real property situated outside of the United States.
+<b>1962</b>—Subsec. (a). Pub. L. 87–834 struck out provisions which excepted real property situated outside of the United States.
 
 #### Effective Date of 1990 Amendment
 
@@ -74,7 +74,7 @@ Subsection (a).—The amendments made by subsection (a) \[amending this section 
 
 “(3)
 
-Subsection (f).—If an amount is included in the gross estate of a decedent under section 2036 of the 1986 Code other than solely by reason of section 2036(c) of the 1986 Code, the amendments made by subsection (f) \[enacting section 2207B of this title\] shall apply to such amount only with respect to property transferred after the date of the enactment of this Act \[Nov. 10, 1988\].
+Subsection (f).—If an amount is included in the gross estate of a decedent under section 2036 of the 1986Code other than solely by reason of section 2036(c) of the 1986 Code, the amendments made by subsection (f) \[enacting section 2207B of this title\] shall apply to such amount only with respect to property transferred after the date of the enactment of this Act \[Nov. 10, 1988\].
 
 “(4)
 

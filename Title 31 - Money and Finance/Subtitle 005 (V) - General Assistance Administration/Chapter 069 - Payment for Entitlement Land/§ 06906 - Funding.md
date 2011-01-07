@@ -26,5 +26,5 @@ The words “to the Secretary of the Interior” are added for clarity. The word
 
 #### Amendments
 
-2008—Pub. L. 110–343 amended section generally. Prior to amendment, section read as follows: “Necessary amounts may be appropriated to the Secretary of the Interior to carry out this chapter. Amounts are available only as provided in appropriation laws.”
+<b>2008</b>—Pub. L. 110–343 amended section generally. Prior to amendment, section read as follows: “Necessary amounts may be appropriated to the Secretary of the Interior to carry out this chapter. Amounts are available only as provided in appropriation laws.”
 

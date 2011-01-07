@@ -48,13 +48,13 @@ For purposes of this section and section 2038, any transfer from any portion of 
 
 #### Amendments
 
-2000—Subsec. (c)(2). Pub. L. 106–554, §1(a)(7) \[title III, §319(14)(A)\], substituted “subsection (a)” for “paragraph (1)”.
+<b>2000</b>—Subsec. (c)(2). Pub. L. 106–554, §1(a)(7) \[title III, §319(14)(A)\], substituted “subsection (a)” for “paragraph (1)”.
 
 Subsec. (d). Pub. L. 106–554, §1(a)(7) \[title III, §319(14)(B)\], inserted “and paragraph (1) of subsection (c)” after “Subsection (a)”.
 
-1997—Pub. L. 105–34 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to adjustments for gifts made within 3 years of decedent's death.
+<b>1997</b>—Pub. L. 105–34 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to adjustments for gifts made within 3 years of decedent's death.
 
-1983—Subsec. (b)(2). Pub. L. 97–448, §104(a)(9), substituted “section 6019(2)” for “section 6019(a)(2)”.
+<b>1983</b>—Subsec. (b)(2). Pub. L. 97–448, §104(a)(9), substituted “section 6019(2)” for “section 6019(a)(2)”.
 
 Subsec. (d)(2). Pub. L. 97–448, §104(d)(2), inserted “of this subsection and paragraph (2) of subsection (b)” after “Paragraph (1)”, and struck out “2041,” after “2038,”.
 
@@ -62,15 +62,15 @@ Subsec. (d)(3)(C), (D). Pub. L. 97–448, §104(d)(1)(C), redesignated subpar. (
 
 Subsec. (d)(4). Pub. L. 97–448, §104(d)(1)(A), added par. (4).
 
-1981—Subsec. (b)(2). Pub. L. 97–34, §403(b)(3)(B), inserted “(other than by reason of section 6019(a)(2))” after “section 6019”.
+<b>1981</b>—Subsec. (b)(2). Pub. L. 97–34, §403(b)(3)(B), inserted “(other than by reason of section 6019(a)(2))” after “section 6019”.
 
 Subsec. (d). Pub. L. 97–34, §424(a), added subsec. (d).
 
-1978—Subsec. (b). Pub. L. 95–600 substituted in par. (2) provisions relating to gifts for which donee was not required by section 6019 to file gift tax returns for provisions relating to gifts excludable in computing taxable gifts by reason of section 2503(b) and inserted provisions following par. (2) relating to inapplicability of par. (2) to transfers respecting life insurance policies.
+<b>1978</b>—Subsec. (b). Pub. L. 95–600 substituted in par. (2) provisions relating to gifts for which donee was not required by section 6019 to file gift tax returns for provisions relating to gifts excludable in computing taxable gifts by reason of section 2503(b) and inserted provisions following par. (2) relating to inapplicability of par. (2) to transfers respecting life insurance policies.
 
-1976—Pub. L. 94–455 substituted provisions covering adjustments for gifts made within 3 years of decedent's death for provisions under which transfers by the decedent within 3 years of the decedent's death were deemed to have been made in contemplation of death and included in the value of the gross estate.
+<b>1976</b>—Pub. L. 94–455 substituted provisions covering adjustments for gifts made within 3 years of decedent's death for provisions under which transfers by the decedent within 3 years of the decedent's death were deemed to have been made in contemplation of death and included in the value of the gross estate.
 
-1962—Subsec. (a). Pub. L. 87–834 struck out provisions which excepted real property situated outside of the United States.
+<b>1962</b>—Subsec. (a). Pub. L. 87–834 struck out provisions which excepted real property situated outside of the United States.
 
 #### Effective Date of 1997 Amendment
 
@@ -102,7 +102,7 @@ Amendment by Pub. L. 87–834 applicable to estates of decedents dying after Oct
 
 Pub. L. 96–222, title I, §107(a)(2)(F), Apr. 1, 1980, 94 Stat. 223, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-&emsp;“(i) If the executor elects the benefits of this subparagraph with respect to any estate, section 2035(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to adjustments for gifts made within 3 years of decedent's death) shall be applied with respect to transfers made by the decedent during 1977 as if paragraph (2) of such section 2035(b) read as follows:
+&emsp;“(i) If the executor elects the benefits of this subparagraph with respect to any estate, section 2035(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to adjustments for gifts made within 3 years of decedent's death) shall be applied with respect to transfers made by the decedent during 1977as if paragraph (2) of such section 2035(b) read as follows:
 
 “ ‘(2) to any gift to a donee made during 1977 to the extent of the amount of such gift which was excludable in computing taxable gifts by reason of section 2503(b) (relating to $3,000 annual exclusion for purposes of the gift tax) determined without regard to section 2513(a).’
 

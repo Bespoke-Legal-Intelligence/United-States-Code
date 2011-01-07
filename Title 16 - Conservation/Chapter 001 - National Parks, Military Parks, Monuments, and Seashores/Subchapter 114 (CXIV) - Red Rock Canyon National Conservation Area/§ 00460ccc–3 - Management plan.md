@@ -20,7 +20,7 @@
 
 Subject to section 460ccc–5 of this title, nothing in this subchapter is intended to alter the requirements of section 1782 of title 43, or section 5(a) of the National Forest and Public Lands of Nevada Enhancement Act of 1988 (102 Stat. 2751), as those requirements apply to the lands within, or adjacent to the conservation area as of November 16, 1990.
 
-(Pub. L. 101–621, §5, Nov. 16, 1990, 104 Stat. 3343; Pub. L. 103–437, §6(d)(23), Nov. 2, 1994, 108 Stat.4584; Pub. L. 103–450, §2(a), Nov. 2, 1994, 108 Stat. 4766.)
+(Pub. L. 101–621, §5, Nov. 16, 1990, 104 Stat. 3343; Pub. L. 103–437, §6(d)(23), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 103–450, §2(a), Nov. 2, 1994, 108 Stat. 4766.)
 
 #### References in Text
 
@@ -32,7 +32,7 @@ Section 5(a) of the National Forest and Public Lands of Nevada Enhancement Act o
 
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–450 substituted “No later than January 1, 1997,” for “Within 3 full fiscal years following the fiscal year in which the date of enactment of this subchapter occurs,”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–450 substituted “No later than January 1, 1997,” for “Within 3 full fiscal years following the fiscal year in which the date of enactment of this subchapter occurs,”.
 
 Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 

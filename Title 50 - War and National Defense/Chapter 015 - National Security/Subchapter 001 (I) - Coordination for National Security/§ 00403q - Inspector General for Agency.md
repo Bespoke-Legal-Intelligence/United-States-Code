@@ -16,7 +16,7 @@ In order to—
 
 #### (b) Appointment; supervision; removal
 
-(1) There shall be at the head of the Office an Inspector General who shall be appointed by the President, by and with the advice and consent of the Senate. This appointment shall be made without regard to political affiliation and shall be solely on the basis of integrity, compliance with the security standards of the Agency, and prior experience in the field of foreign intelligence. Such appointment shall also be made on the basis of demonstrated ability in accounting, financial analysis, law, management analysis, public administration, or auditing.
+(1) There shall be at the head of the Office an Inspector General who shall be appointed by the President, by and with the advice and consent of the Senate. This appointment shall be made without regard to political affiliation and shall be on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigation. Such appointment shall also be made on the basis of compliance with the security standards of the Agency and prior experience in the field of foreign intelligence.
 
 (2) The Inspector General shall report directly to and be under the general supervision of the Director.
 
@@ -26,7 +26,7 @@ In order to—
 
 (5) In accordance with section 535 of title 28, the Inspector General shall report to the Attorney General any information, allegation, or complaint received by the Inspector General relating to violations of Federal criminal law that involve a program or operation of the Agency, consistent with such guidelines as may be issued by the Attorney General pursuant to subsection (b)(2) of such section. A copy of all such reports shall be furnished to the Director.
 
-(6) The Inspector General may be removed from office only by the President. The President shall immediately communicate in writing to the intelligence committees the reasons for any such removal.
+(6) The Inspector General may be removed from office only by the President. The President shall communicate in writing to the intelligence committees the reasons for any such removal not later than 30 days prior to the effective date of such removal. Nothing in this paragraph shall be construed to prohibit a personnel action otherwise authorized by law, other than transfer or removal.
 
 #### (c) Duties and responsibilities
 
@@ -42,7 +42,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 #### (d) Semiannual reports; immediate reports of serious or flagrant problems; reports of functional problems; reports to Congress on urgent concerns
 
-(1) The Inspector General shall, not later than January 31 and July 31 of each year, prepare and submit to the Director a classified semiannual report summarizing the activities of the Office during the immediately preceding six-month periods ending December 31 (of the preceding year) and June 30, respectively. Not later than the dates each year provided for the transmittal of such reports in section 507 of the National Security Act of 1947 \[50 U.S.C. 415b\], the Director shall transmit such reports to the intelligence committees with any comments he may deem appropriate. Such reports shall, at a minimum, include a list of the title or subject of each inspection, investigation, or audit conducted during the reporting period and—
+(1) The Inspector General shall, not later than January 31 and July 31 of each year, prepare and submit to the Director a classified semiannual report summarizing the activities of the Office during the immediately preceding six-month periods ending December 31 (of the preceding year) and June 30, respectively. Not later than the dates each year provided for the transmittal of such reports in section 507 of the National Security Act of 1947 \[50 U.S.C. 415b\], the Director shall transmit such reports to the intelligence committees with any comments he may deem appropriate. Such reports shall, at a minimum, include a list of the title or subject of each inspection, investigation, review, or audit conducted during the reporting period and—
 
 &emsp;(A) a description of significant problems, abuses, and deficiencies relating to the administration of programs and operations of the Agency identified by the Office during the reporting period;
 
@@ -64,19 +64,21 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 &emsp;(B) an investigation, inspection, or audit carried out by the Inspector General should focus on any current or former Agency official who—
 
-&emsp;&emsp;(i) holds or held a position in the Agency that is subject to appointment by the President, by and with the advise <sup>1</sup> and consent of the Senate, including such a position held on an acting basis; or
+&emsp;&emsp;(i) holds or held a position in the Agency that is subject to appointment by the President, by and with the advice and consent of the Senate, including such a position held on an acting basis; or
 
 &emsp;&emsp;(ii) holds or held the position in the Agency, including such a position held on an acting basis, of—
 
-&emsp;&emsp;&emsp;(I) Executive Director;
+&emsp;&emsp;&emsp;(I) Deputy Director;
 
-&emsp;&emsp;&emsp;(II) Deputy Director for Operations;
+&emsp;&emsp;&emsp;(II) Associate Deputy Director;
 
-&emsp;&emsp;&emsp;(III) Deputy Director for Intelligence;
+&emsp;&emsp;&emsp;(III) Director of the National Clandestine Service;
 
-&emsp;&emsp;&emsp;(IV) Deputy Director for Administration; or
+&emsp;&emsp;&emsp;(IV) Director of Intelligence;
 
-&emsp;&emsp;&emsp;(V) Deputy Director for Science and Technology;
+&emsp;&emsp;&emsp;(V) Director of Support; or
+
+&emsp;&emsp;&emsp;(VI) Director of Science and Technology.
 
 &emsp;(C) a matter requires a report by the Inspector General to the Department of Justice on possible criminal conduct by a current or former Agency official described or referred to in subparagraph (B);
 
@@ -114,11 +116,11 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 &emsp;&emsp;(I) A serious or flagrant problem, abuse, violation of law or Executive order, or deficiency relating to the funding, administration, or operations of an intelligence activity involving classified information, but does not include differences of opinions concerning public policy matters.
 
-&emsp;&emsp;(II) A false statement to Congress, or a willful withholding from Congress, on an issue of material fact relating to the funding, administration, or operation of an intelligence activity.
+&emsp;&emsp;(II) A false statement to Congress, or a willful withholding from Congress, on anissue of material fact relating to the funding, administration, or operation of an intelligence activity.
 
 &emsp;&emsp;(III) An action, including a personnel action described in section 2302(a)(2)(A) of title 5, constituting reprisal or threat of reprisal prohibited under subsection (e)(3)(B) of this section in response to an employee's reporting an urgent concern in accordance with this paragraph.
 
-&emsp;(ii) The term “intelligence committees” means the Permanent Select Committee onIntelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+&emsp;(ii) The term “intelligence committees” means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
 #### (e) Authorities of Inspector General
 
@@ -130,11 +132,11 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 &emsp;(A) the Inspector General shall not disclose the identity of the employee without the consent of the employee, unless the Inspector General determines that such disclosure is unavoidable during the course of the investigation or the disclosure is made to an official of the Department of Justice responsible for determining whether a prosecution should be undertaken; and
 
-&emsp;(B) no action constituting a reprisal, or threat of reprisal, for making such complaint may be taken by any employee of the Agency in a position to take such actions, unless the complaint was made or the information was disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
+&emsp;(B) no action constituting a reprisal, or threat of reprisal, for making such complaint or providing such information may be taken by any employee of the Agency in a position to take such actions, unless the complaint was made or the information was disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
 
-(4) The Inspector General shall have authority to administer to or take from any person an oath, affirmation, or affidavit, whenever necessary in the performance of his duties, which oath <sup>2</sup> affirmation, or affidavit when administered or taken by or before an employee of the Office designated by the Inspector General shall have the same force and effect as if administered or taken by or before an officer having a seal.
+(4) The Inspector General shall have authority to administer to or take from any person an oath, affirmation, or affidavit, whenever necessary in the performance of his duties, which oath <sup>1</sup> affirmation, or affidavit when administered or taken by or before an employee of the Office designated by the Inspector General shall have the same force and effect as if administered or taken by or before an officer having a seal.
 
-(5)(A) Except as provided in subparagraph (B), the Inspector General is authorized to require by subpoena the production of all information, documents, reports, answers, records, accounts, papers, and other data and documentary evidence necessary in the performance of the duties and responsibilities of the Inspector General.
+(5)(A) Except as provided in subparagraph (B), the Inspector General is authorized to require by subpoena the production of all information, documents, reports, answers, records, accounts, papers, and other data in any medium (including electronically stored information or any tangible thing) and documentary evidence necessary in the performance of the duties and responsibilities of the Inspector General.
 
 (B) In the case of Government agencies, the Inspector General shall obtain information, documents, reports, answers, records, accounts, papers, and other data and evidence for the purpose specified in subparagraph (A) using procedures other than by subpoenas.
 
@@ -146,17 +148,59 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 (7) Subject to applicable law and the policies of the Director, the Inspector General shall select, appoint and employ such officers and employees as may be necessary to carry out his functions. In making such selections, the Inspector General shall ensure that such officers and employees have the requisite training and experience to enable him to carry out his duties effectively. In this regard, the Inspector General shall create within his organization a career cadre of sufficient size to provide appropriate continuity and objectivity needed for the effective performance of his duties.
 
-(8) Subject to the concurrence of the Director, the Inspector General may request such information or assistance as may be necessary for carrying out his duties and responsibilities from any Government agency. Upon request of the Inspector General for such information or assistance, the head of the Government agency involved shall, insofar as is practicable and not in contravention of any existing statutory restriction or regulation of the Government agency concerned, furnish to the Inspector General, or to an authorized designee, such information or assistance.
+(8)(A) The Inspector General shall—
+
+&emsp;(i) appoint a Counsel to the Inspector General who shall report to the Inspector General; or
+
+&emsp;(ii) obtain the services of a counsel appointed by and directly reporting to another Inspector General or the Council of the Inspectors General on Integrity and Efficiency on a reimbursable basis.
+
+(B) The counsel appointed or obtained under subparagraph (A) shall perform such functions as the Inspector General may prescribe.
+
+(9) The Inspector General may request such information or assistance as may be necessary for carrying out his duties and responsibilities from any Government agency. Upon request of the Inspector General for such information or assistance, the head of the Government agency involved shall, insofar as is practicable and not in contravention of any existing statutory restriction or regulation of the Government agency concerned, furnish to the Inspector General, or to an authorized designee, such information or assistance. Consistent with budgetary and personnel resources allocated by the Director, the Inspector General has final approval of—
+
+&emsp;(A) the selection of internal and external candidates for employment with the Office of Inspector General; and
+
+&emsp;(B) all other personnel decisions concerning personnel permanently assigned to the Office of Inspector General, including selection and appointment to the Senior Intelligence Service, but excluding all security-based determinations that are not within the authority of a head of other Central Intelligence Agency offices.
 
 #### (f) Separate budget account
 
-Beginning with fiscal year 1991, and in accordance with procedures to be issued by the Director of National Intelligence in consultation with the intelligence committees, the Director of National Intelligence shall include in the National Intelligence Program budget a separate account for the Office of Inspector General established pursuant to this section.
+(1) Beginning with fiscal year 1991, and in accordance with procedures to be issued by the Director of National Intelligence in consultation with the intelligence committees, the Director of National Intelligence shall include in the National Intelligence Program budget a separate account for the Office of Inspector General established pursuant to this section.
+
+(2) For each fiscal year, the Inspector General shall transmit a budget estimate and request through the Director to the Director of National Intelligence that specifies for such fiscal year—
+
+&emsp;(A) the aggregate amount requested for the operations of the Inspector General;
+
+&emsp;(B) the amount requested for all training requirements of the Inspector General, including a certification from the Inspector General that the amount requested is sufficient to fund all training requirements for the Office; and
+
+&emsp;(C) the amount requested to support the Council of the Inspectors General on Integrity and Efficiency, including a justification for such amount.
+
+(3) In transmitting a proposed budget to the President for a fiscal year, the Director of National Intelligence shall include for such fiscal year—
+
+&emsp;(A) the aggregate amount requested for the Inspector General of the Central Intelligence Agency;
+
+&emsp;(B) the amount requested for Inspector General training;
+
+&emsp;(C) the amount requested to support the Council of the Inspectors General on Integrity and Efficiency; and
+
+&emsp;(D) the comments of the Inspector General, if any, with respect to such proposed budget.
+
+(4) The Director of National Intelligence shall submit to the Committee on Appropriations and the Select Committee on Intelligence of the Senate and the Committee on Appropriations and the Permanent Select Committee on Intelligence of the House of Representatives for each fiscal year—
+
+&emsp;(A) a separate statement of the budget estimate transmitted pursuant to paragraph (2);
+
+&emsp;(B) the amount requested by the Director of National Intelligence for the Inspector General pursuant to paragraph (3)(A);
+
+&emsp;(C) the amount requested by the Director of National Intelligence for training of personnel of the Office of the Inspector General pursuant to paragraph (3)(B);
+
+&emsp;(D) the amount requested by the Director of National Intelligence for support for the Council of the Inspectors General on Integrity and Efficiency pursuant to paragraph (3)(C); and
+
+&emsp;(E) the comments of the Inspector General under paragraph (3)(D), if any, on the amounts requested pursuant to paragraph (3), including whether such amounts would substantially inhibit the Inspector General from performing the duties of the Office.
 
 #### (g) Transfer
 
 There shall be transferred to the Office the office of the Agency referred to as the “Office of Inspector General.” The personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, or available to such “Office of Inspector General” are hereby transferred to the Office established pursuant to this section.
 
-(June 20, 1949, ch. 227, §17, as added Pub. L. 100–453, title V, §504, Sept. 29, 1988, 102 Stat. 1910; amended Pub. L. 101–193, title VIII, §801, Nov. 30, 1989, 103 Stat. 1711; Pub. L. 102–496, title VI, §601, Oct. 24, 1992, 106 Stat. 3187; Pub. L. 103–359, titleIV, §402, Oct. 14, 1994, 108 Stat. 3427; Pub. L. 104–93, title IV, §403, Jan. 6, 1996, 109 Stat. 969; Pub. L. 105–107, title IV, §402, Nov. 20, 1997, 111 Stat. 2257; Pub. L. 105–272, title VII, §702(a), Oct. 20, 1998, 112 Stat. 2414; Pub. L. 106–567, title IV, §§402, 403, Dec. 27, 2000, 114 Stat. 2847, 2848; Pub. L. 107–108, title III, §309(a), Dec. 28, 2001, 115 Stat. 1399; Pub. L. 107–306, title VIII, §811(b)(2), Nov. 27, 2002, 116 Stat. 2422; Pub. L. 108–458, title I, §§1071(b)(1)(B), (2)(C), 1074(b)(2), Dec. 17, 2004, 118 Stat. 3690, 3694.)
+(June 20, 1949, ch. 227, §17, as added Pub. L. 100–453, title V, §504, Sept. 29, 1988, 102 Stat. 1910; amended Pub. L. 101–193, title VIII, §801, Nov. 30, 1989, 103 Stat. 1711; Pub. L. 102–496, title VI, §601, Oct. 24, 1992, 106 Stat. 3187; Pub. L. 103–359, title IV, §402, Oct. 14, 1994, 108 Stat. 3427; Pub. L. 104–93, title IV, §403, Jan. 6, 1996, 109 Stat. 969; Pub. L. 105–107, title IV, §402, Nov. 20, 1997, 111 Stat. 2257; Pub. L. 105–272, title VII, §702(a), Oct. 20, 1998, 112 Stat. 2414; Pub. L. 106–567, title IV, §§402, 403, Dec. 27, 2000, 114 Stat. 2847, 2848; Pub. L. 107–108, title III, §309(a), Dec. 28, 2001, 115 Stat. 1399; Pub. L. 107–306, title VIII, §811(b)(2), Nov. 27, 2002, 116 Stat. 2422; Pub. L. 108–458, title I, §§1071(b)(1)(B), (2)(C), 1074(b)(2), Dec. 17, 2004, 118 Stat. 3690, 3694; Pub. L. 111–259, title IV, §§425(a)–(f)(1), 426, title VIII, §802(2), Oct. 7, 2010, 124 Stat. 2728–2730, 2746.)
 
 #### References in Text
 
@@ -168,17 +212,51 @@ Section was enacted as part of the Central Intelligence Agency Act of 1949, and 
 
 #### Amendments
 
-2004—Subsec. (d)(1). Pub. L. 108–458, §1071(b)(2)(C), struck out “of Central Intelligence” after “to the Director” in introductory provisions.
+<b>2010</b>—Subsec. (b)(1). Pub. L. 111–259, §425(a), substituted “This appointment shall be made without regard to political affiliation and shall be on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigation. Such appointment shall also be made on the basis of compliance with the security standards of the Agency and prior experience in the field of foreign intelligence.” for “This appointment shall be made without regard to political affiliation and shall be solely on the basis of integrity, compliance with the security standards of the Agency, and prior experience in the field of foreign intelligence. Such appointment shall also be made on the basis of demonstrated ability in accounting, financial analysis, law, management analysis, public administration, or auditing.”
+
+Subsec. (b)(6). Pub. L. 111–259, §425(b), struck out “immediately” after “President shall” and substituted “not later than 30 days prior to the effective date of such removal. Nothing in this paragraph shall be construed to prohibit a personnel action otherwise authorized by law, other than transfer or removal.” for period at end.
+
+Subsec. (d)(1). Pub. L. 111–259, §425(c), inserted “review,” after “investigation,” in introductory provisions.
+
+Subsec. (d)(3)(B)(i). Pub. L. 111–259, §802(2)(A), substituted “advice” for “advise”.
+
+Subsec. (d)(3)(B)(ii). Pub. L. 111–259, §802(2)(B), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “holds or held the position in the Agency, including such a position held on an acting basis, of—
+
+&emsp;“(I) Executive Director;
+
+&emsp;“(II) Deputy Director for Operations;
+
+&emsp;“(III) Deputy Director for Intelligence;
+
+&emsp;“(IV) Deputy Director for Administration; or
+
+&emsp;“(V) Deputy Director for Science and Technology;”.
+
+Subsec. (e)(3)(B). Pub. L. 111–259, §425(d), inserted “or providing such information” after “making such complaint”.
+
+Subsec. (e)(5)(A). Pub. L. 111–259, §425(e), inserted “in any medium (including electronically stored information or any tangible thing)” after “other data”.
+
+Subsec. (e)(8). Pub. L. 111–259, §425(f)(1)(C), added par. (8). Former par. (8) redesignated (9).
+
+Subsec. (e)(9). Pub. L. 111–259, §425(f)(1)(A), (B), redesignated par. (8) as (9), substituted “The” for “Subject to the concurrence of the Director, the” and inserted at end “Consistent with budgetary and personnel resources allocated by the Director, the Inspector General has final approval of—
+
+&emsp;“(A) the selection of internal and external candidates for employment with the Office of Inspector General; and
+
+&emsp;“(B) all other personnel decisions concerning personnel permanently assigned to the Office of Inspector General, including selection and appointment to the Senior Intelligence Service, but excluding all security-based determinations that are not within the authority of a head of other Central Intelligence Agency offices.”
+
+Subsec. (f). Pub. L. 111–259, §426, designated existing provisions as par. (1) and added pars. (2) to (4).
+
+<b>2004</b>—Subsec. (d)(1). Pub. L. 108–458, §1071(b)(2)(C), struck out “of Central Intelligence” after “to the Director” in introductory provisions.
 
 Subsec. (f). Pub. L. 108–458, §§1071(b)(1)(B), 1074(b)(2), substituted “Director of National Intelligence” for “Director of Central Intelligence” in two places and “National Intelligence Program” for “National Foreign Intelligence Program”.
 
-2002—Subsec. (d)(1). Pub. L. 107–306 substituted “Not later than the dates each year provided for the transmittal of such reports in section 507 of the National Security Act of 1947,” for “Within thirty days of receipt of such reports,” in introductory provisions.
+<b>2002</b>—Subsec. (d)(1). Pub. L. 107–306 substituted “Not later than the dates each year provided for the transmittal of such reports in section 507 of the National Security Act of 1947,” for “Within thirty days of receipt of such reports,” in introductory provisions.
 
-2001—Subsec. (d)(5)(B). Pub. L. 107–108, §309(a)(1), substituted “Upon making such a determination, the Inspector General shall transmit to the Director notice of that determination, together with the complaint or information.” for “If the Inspector General determines that the complaint or information appears credible, the Inspector General shall, before the end of such period, transmit the complaint or information to the Director.”
+<b>2001</b>—Subsec. (d)(5)(B). Pub. L. 107–108, §309(a)(1), substituted “Upon making such a determination, the Inspector General shall transmit to the Director notice of that determination, together with the complaint or information.” for “If the Inspector General determines that the complaint or information appears credible, the Inspector General shall, before the end of such period, transmit the complaint or information to the Director.”
 
 Subsec. (d)(5)(D)(i). Pub. L. 107–108, §309(a)(2), substituted “does not find credible under subparagraph (B) a complaint or information submitted under subparagraph (A), or does not transmit the complaint or information to the Director in accurate form under subparagraph (B),” for “does not transmit, or does not transmit in an accurate form, the complaint or information described in subparagraph (B),”.
 
-2000—Subsec. (d)(1)(E). Pub. L. 106–567, §402(a)(1), added subpar. (E) and struck out former subpar. (E) which read as follows: “a description of all cases occurring during the reporting period where the Inspector General could not obtain documentary evidence relevant to any inspection, audit, or investigation due to his lack of authority to subpoena such information; and”.
+<b>2000</b>—Subsec. (d)(1)(E). Pub. L. 106–567, §402(a)(1), added subpar. (E) and struck out former subpar. (E) which read as follows: “a description of all cases occurring during the reporting period where the Inspector General could not obtain documentary evidence relevant to any inspection, audit, or investigation due to his lack of authority to subpoena such information; and”.
 
 Subsec. (d)(3). Pub. L. 106–567, §403, added subpars. (B) to (E) and concluding provisions and struck out former subpars. (B) and (C) which read as follows:
 
@@ -190,17 +268,17 @@ Subsec. (e)(5)(E). Pub. L. 106–567, §402(a)(2), struck out subpar. (E) which 
 
 Subsec. (e)(8). Pub. L. 106–567, §402(b), substituted “Government” for “Federal” wherever appearing.
 
-1998—Subsec. (d). Pub. L. 105–272 inserted “; reports to Congress on urgent concerns” after “functional problems” in heading and added par. (5).
+<b>1998</b>—Subsec. (d). Pub. L. 105–272 inserted “; reports to Congress on urgent concerns” after “functional problems” in heading and added par. (5).
 
-1997—Subsec. (b)(3). Pub. L. 105–107, §402(b), inserted “, or from issuing any subpoena, after the Inspector General has decided to initiate, carry out, or complete such audit, inspection, or investigation or to issue such subpoena,” after “or investigation”.
+<b>1997</b>—Subsec. (b)(3). Pub. L. 105–107, §402(b), inserted “, or from issuing any subpoena, after the Inspector General has decided to initiate, carry out, or complete such audit, inspection, or investigation or to issue such subpoena,” after “or investigation”.
 
 Subsec. (e)(5) to (8). Pub. L. 105–107, §402(a), added par. (5) and redesignated former pars. (5) to (7) as (6) to (8), respectively.
 
-1996—Subsec. (b)(5). Pub. L. 104–93, §403(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “In accordance with section 535 of title 28, the Director shall report to the Attorney General any information, allegation, or complaint received from the Inspector General, relating to violations of Federal criminal law involving any officer or employee of the Agency, consistent with such guidelines as may be issued by the Attorney General pursuant to subsection (b)(2) of such section. A copy of all such reports shall be furnished to the Inspector General.”
+<b>1996</b>—Subsec. (b)(5). Pub. L. 104–93, §403(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “In accordance with section 535 of title 28, the Director shall report to the Attorney General any information, allegation, or complaint received from the Inspector General, relating to violations of Federal criminal law involving any officer or employee of the Agency, consistent with such guidelines as may be issued by the Attorney General pursuant to subsection (b)(2) of such section. A copy of all such reports shall be furnished to the Inspector General.”
 
 Subsec. (e)(3)(A). Pub. L. 104–93, §403(b), inserted “or the disclosure is made to an official of the Department of Justice responsible for determining whether a prosecution should be undertaken” after “investigation”.
 
-1994—Subsec. (b)(1). Pub. L. 103–359, §402(1), substituted “analysis, public administration, or auditing” for “analysis, or public administration”.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–359, §402(1), substituted “analysis, public administration, or auditing” for “analysis, or public administration”.
 
 Subsec. (c)(1). Pub. L. 103–359, §402(2), substituted “to plan, conduct” for “to conduct”.
 
@@ -212,9 +290,9 @@ Subsec. (d)(4). Pub. L. 103–359, §402(5), inserted “or findings and recomme
 
 Subsec. (e)(6). Pub. L. 103–359, §402(6), substituted “the Inspector General shall” for “it is the sense of Congress that the Inspector General should”.
 
-1992—Subsec. (e)(3). Pub. L. 102–496, in introductory provisions, substituted “any person” for “an employee of the Agency” and inserted “from an employee of the Agency” after “received”.
+<b>1992</b>—Subsec. (e)(3). Pub. L. 102–496, in introductory provisions, substituted “any person” for “an employee of the Agency” and inserted “from an employee of the Agency” after “received”.
 
-1989—Pub. L. 101–193 amended section generally, substituting subsecs. (a) to (g) relating to establishment of the Office of Inspector General and appointment, duties, and authority of Inspector General for introductory par. and subsecs. (a) to (e) relating to various reports to be filed with the intelligence committees by Director of Central Intelligence concerning selection and activities of Inspector General.
+<b>1989</b>—Pub. L. 101–193 amended section generally, substituting subsecs. (a) to (g) relating to establishment of the Office of Inspector General and appointment, duties, and authority of Inspector General for introductory par. and subsecs. (a) to (e) relating to various reports to be filed with the intelligence committees by Director of Central Intelligence concerning selection and activities of Inspector General.
 
 #### Effective Date of 2004 Amendment
 
@@ -222,11 +300,13 @@ For Determination by President that amendment by Pub. L. 108–458 take effect o
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
+#### Construction of 2010 Amendment
+
+Pub. L. 111–259, title IV, §425(f)(2), Oct. 7, 2010, 124 Stat. 2729, provided that: “Nothing in the amendment made by paragraph (1)(C) \[amending this section\] shall be construed to alter the duties and responsibilities of the General Counsel of the Central Intelligence Agency.”
+
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 4th item on page 156, relating to the transmittal of semiannual reports to the intelligence committees, identifies a reporting provision which, as subsequently amended, is contained in subsec. (d)(1) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “advice”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -18,11 +18,11 @@ In an action described in subsection (a)(2) of this section, if the person who o
 
 #### Amendments
 
-2000—Subsec. (a)(2). Pub. L. 106–554 substituted “paragraphs (2) and (14)” for “paragraph (2)”.
+<b>2000</b>—Subsec. (a)(2). Pub. L. 106–554 substituted “paragraphs (2) and (14)” for “paragraph (2)”.
 
-1995—Pub. L. 104–67 designated existing provisions as subsec. (a), inserted heading, inserted “, subject to subsection (b) of this section,” after “shall be liable” in concluding provisions, and added subsec. (b).
+<b>1995</b>—Pub. L. 104–67 designated existing provisions as subsec. (a), inserted heading, inserted “, subject to subsection (b) of this section,” after “shall be liable” in concluding provisions, and added subsec. (b).
 
-1954—Act Aug. 10, 1954, inserted “offers or” before “sells” in pars. (1) and (2).
+<b>1954</b>—Act Aug. 10, 1954, inserted “offers or” before “sells” in pars. (1) and (2).
 
 #### Effective Date of 1995 Amendment
 

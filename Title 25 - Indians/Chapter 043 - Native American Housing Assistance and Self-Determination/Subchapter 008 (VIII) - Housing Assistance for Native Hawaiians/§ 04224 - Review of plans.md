@@ -72,7 +72,7 @@ This chapter, referred to in subsec. (c)(1)(C), was in the original “this Act�
 
 #### Codification
 
-Pub. L. 106–568, §203, and Pub. L. 106–569, §513, enacted substantially identical sections 804 of Pub. L. 104–330.This section is based on the text of section 804 of Pub. L. 104–330, as added by Pub. L. 106–569, §513.
+Pub. L. 106–568, §203, and Pub. L. 106–569, §513, enacted substantially identical sections 804 of Pub. L. 104–330. This section is based on the text of section 804 of Pub. L. 104–330, as added by Pub. L. 106–569, §513.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “4227”.</i>
 

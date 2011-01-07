@@ -56,7 +56,7 @@ In the case of an attorney general of a State alleging a violation that affects 
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–314, §217(c)(3), substituted “5 years, a fine determined under section 3571 of title 18, or both.” for “one year, or a fine of not more than $3,000, or both such imprisonment and fine.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–314, §217(c)(3), substituted “5 years, a fine determined under section 3571 of title 18, or both.” for “one year, or a fine of not more than $3,000, or both such imprisonment and fine.”
 
 Subsec. (b). Pub. L. 110–314, §204(b)(4)(B), (H), substituted “Commission” for “Secretary” in cl. (1) and “Commission” for “Consumer Product Safety Commission” in cl. (3).
 
@@ -70,17 +70,17 @@ Pub. L. 110–314, §217(b)(1)(B)(ii)(I), which directed insertion of “, incl
 
 Subsec. (c)(6)(B). Pub. L. 110–314, §217(a)(2)(C), which directed substitution of “December 1, 2011,” for “December 1, 1994,” in par. (6)(B) of subsec. (c)(1), was executed by making the substitution in subsec. (c)(6)(B) to reflect the probable intent of Congress.
 
-1990—Subsec. (c). Pub. L. 101–608, §115(b), added subsec. (c).
+<b>1990</b>—Subsec. (c). Pub. L. 101–608, §115(b), added subsec. (c).
 
 Subsec. (d). Pub. L. 101–608, §118(a), added subsec. (d).
 
-1978—Subsec. (b)(3). Pub. L. 95–631 substituted “with respect to” for “in respect of” and made cl. (3) inapplicable when the Consumer Product Safety Commission determines that exportation of the substance presents an unreasonable risk of injury to persons residing within the United States.
+<b>1978</b>—Subsec. (b)(3). Pub. L. 95–631 substituted “with respect to” for “in respect of” and made cl. (3) inapplicable when the Consumer Product Safety Commission determines that exportation of the substance presents an unreasonable risk of injury to persons residing within the United States.
 
-1966—Subsec. (b). Pub. L. 89–756 substituted “a misbranded hazardous substance or a banned hazardous substance within the meaning of those terms” for “in misbranded packages within the meaning of that term”.
+<b>1966</b>—Subsec. (b). Pub. L. 89–756 substituted “a misbranded hazardous substance or a banned hazardous substance within the meaning of those terms” for “in misbranded packages within the meaning of that term”.
 
 #### Effective Date of 2008 Amendment
 
-Amendment by section 217(a)(2) of Pub. L. 110–314 effective on the date that is the earlier of the date onwhich final regulations are issued under section 217(b)(2) of Pub. L. 110–314, set out as a note under section 2069 of this title, or 1 year after Aug. 14, 2008, see section 217(a)(4) of Pub. L. 110–314, set out as a note under section 1194 of this title.
+Amendment by section 217(a)(2) of Pub. L. 110–314 effective on the date that is the earlier of the date on which final regulations are issued under section 217(b)(2) of Pub. L. 110–314, set out as a note under section 2069 of this title, or 1 year after Aug. 14, 2008, see section 217(a)(4) of Pub. L. 110–314, set out as a note under section 1194 of this title.
 
 #### Civil Penalty Criteria
 

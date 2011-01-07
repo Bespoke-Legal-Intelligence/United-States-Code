@@ -2,25 +2,25 @@
 
 #### (a) Imposition of penalty
 
-Any person who fails to include on any return or statement any information with respect to a reportable transaction which is required under section 6011 to be included with such return or statement shall pay a penalty in the amount determined under subsection (b).
+Any person who fails to include on any return or statement any information with respect to areportable transaction which is required under section 6011 to be included with such return or statement shall pay a penalty in the amount determined under subsection (b).
 
 #### (b) Amount of penalty
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the amount of the penalty under subsection (a) shall be—
+&emsp;Except as otherwise provided in this subsection, the amount of the penalty under subsection (a) with respect to any reportable transaction shall be 75 percent of the decrease in tax shown on the return as a result of such transaction (or which would have resulted from such transaction if such transaction were respected for Federal tax purposes).
 
-&emsp;&emsp;(A) $10,000 in the case of a natural person, and
+#### (2) Maximum penalty
 
-&emsp;&emsp;(B) $50,000 in any other case.
+&emsp;The amount of the penalty under subsection (a) with respect to any reportable transaction shall not exceed—
 
-#### (2) Listed transaction
+&emsp;&emsp;(A) in the case of a listed transaction, $200,000 ($100,000 in the case of a natural person), or
 
-&emsp;The amount of the penalty under subsection (a) with respect to a listed transaction shall be—
+&emsp;&emsp;(B) in the case of any other reportable transaction, $50,000 ($10,000 in the case of a natural person).
 
-&emsp;&emsp;(A) $100,000 in the case of a natural person, and
+#### (3) Minimum penalty
 
-&emsp;&emsp;(B) $200,000 in any other case.
+&emsp;The amount of the penalty under subsection (a) with respect to any transaction shall not be less than $10,000 ($5,000 in the case of a natural person).
 
 #### (c) Definitions
 
@@ -72,13 +72,13 @@ In the case of a person—
 
 &emsp;&emsp;(C) is required to pay a penalty under section 6662(h) with respect to any reportable transaction and would (but for section 6662A(e)(2)(B)) have been subject to penalty under section 6662A at a rate prescribed under section 6662A(c),
 
-> the requirement to pay such penalty shall be disclosed in such reports filed by such person for such periods as the Secretary shall specify. Failure to make a disclosure in accordance with the preceding sentence shall be treated as a failureto which the penalty under subsection (b)(2) applies.
+> the requirement to pay such penalty shall be disclosed in such reports filed by such person for such periods as the Secretary shall specify. Failure to make a disclosure in accordance with the preceding sentence shall be treated as a failure to which the penalty under subsection (b)(2) applies.
 
 #### (f) Coordination with other penalties
 
 The penalty imposed by this section shall be in addition to any other penalty imposed by this title.
 
-(Added Pub. L. 108–357, title VIII, §811(a), Oct. 22, 2004, 118 Stat. 1575; amended Pub. L. 110–172, §11(a)(41), Dec. 29, 2007, 121 Stat. 2488.)
+(Added Pub. L. 108–357, title VIII, §811(a), Oct. 22, 2004, 118 Stat. 1575; amended Pub. L. 110–172, §11(a)(41), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 111–240, title II, §2041(a), Sept. 27, 2010, 124 Stat. 2560.)
 
 #### References in Text
 
@@ -86,11 +86,15 @@ Sections 13 and 15(d) of the Securities Exchange Act of 1934, referred to in sub
 
 #### Amendments
 
-2007—Subsec. (e)(2)(C). Pub. L. 110–172 substituted “section 6662A(e)(2)(B)” for “section 6662A(e)(2)(C)”.
+<b>2010</b>—Subsec. (b). Pub. L. 111–240 amended subsec. (b) generally. Prior to amendment, subsec. (b) specified the amount of the penalty under subsec. (a), both in general and with respect to a listed transaction, in the case of a natural person or in any other case.
+
+<b>2007</b>—Subsec. (e)(2)(C). Pub. L. 110–172 substituted “section 6662A(e)(2)(B)” for “section 6662A(e)(2)(C)”.Effective Date of 2010 Amendment
+
+Pub. L. 111–240, title II, §2041(b), Sept. 27, 2010, 124 Stat. 2560, provided that: “The amendment made by this section \[amending this section\] shall apply to penalties assessed after December 31, 2006.”
 
 #### Effective Date
 
-Pub. L. 108–357, title VIII, §811(c), Oct. 22, 2004, 118 Stat. 1577, as amended by Pub. L. 109–135, title IV, §403(w), Dec. 21, 2005, 119 Stat. 2629, provided that: “The amendments made by this section \[enacting this section\] shall apply to returns and statements the due date for which is after the date of the enactment of this Act \[Oct. 22, 2004\] and which were not filed before such date.”
+Pub. L. 108–357, title VIII, §811(c), Oct. 22, 2004, 118 Stat. 1577, as amended by Pub. L. 109–135, title IV, §403(w), Dec. 21, 2005, 119 Stat. 2629, provided that: “The amendments made by this section \[enacting this section\] shall apply to returns and statements the due date for which is after the date of the enactment of thisAct \[Oct. 22, 2004\] and which were not filed before such date.”
 
 #### Report
 

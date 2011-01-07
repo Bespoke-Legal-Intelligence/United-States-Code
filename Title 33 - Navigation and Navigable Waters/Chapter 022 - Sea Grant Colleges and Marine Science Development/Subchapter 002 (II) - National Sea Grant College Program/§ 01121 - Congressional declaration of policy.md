@@ -40,7 +40,7 @@ It is the purpose of the Congress to achieve the objective of this subchapter by
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–394, §3(c), inserted “management,” after “development,” wherever appearing.
+<b>2008</b>—Subsec. (a). Pub. L. 110–394, §3(c), inserted “management,” after “development,” wherever appearing.
 
 Subsec. (a)(1)(D), (E). Pub. L. 110–394, §3(a)(1), added subpars. (D) and (E) and struck out former subpars. (D) and (E) which read as follows:
 
@@ -56,21 +56,21 @@ Subsec. (b). Pub. L. 110–394, §3(c), inserted “management,” after “deve
 
 Subsec. (c). Pub. L. 110–394, §3(b), substituted “to promote integrated research, education, training, and extension services and activities” for “to promote research, education, training, and advisory service activities”.
 
-2002—Subsec. (a)(6). Pub. L. 107–299 inserted “, including strong collaborations between Administration scientists and scientists at academic institutions” before period at end.
+<b>2002</b>—Subsec. (a)(6). Pub. L. 107–299 inserted “, including strong collaborations between Administration scientists and scientists at academic institutions” before period at end.
 
-1998—Subsec. (a)(1)(D) to (F). Pub. L. 105–160, §3(a), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
+<b>1998</b>—Subsec. (a)(1)(D) to (F). Pub. L. 105–160, §3(a), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 
 Subsec. (a)(6). Pub. L. 105–160, §3(b), substituted “The most cost-effective way to promote such activities is through continued and increased Federal support of the establishment, development, and operation of programs and projects by sea grant colleges, sea grant institutes, and other institutions.” for “Continued and increased Federal support of the establishment, development, and operation of programs and projects by sea grant colleges, sea grant regional consortia, institutions of higher education, institutes, laboratories, and other appropriate public and private entities is the most cost-effective way to promote such activities.”
 
-1987—Subsec. (a). Pub. L. 100–220, §§3103(1), 3104(b)(1)(A), added pars. (1) to (3), redesignated former pars. (1) to (3) as (4) to (6), respectively, and substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources” in pars. (4) and (5).
+<b>1987</b>—Subsec. (a). Pub. L. 100–220, §§3103(1), 3104(b)(1)(A), added pars. (1) to (3), redesignated former pars. (1) to (3) as (4) to (6), respectively, and substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources” in pars. (4) and (5).
 
-Subsec. (b). Pub. L. 100–220, §3103(2), substituted “ocean, coastal, and Great Lakes resources by providing assistance to promote a strong educational base, responsive research and training activities, broad and prompt dissemination of knowledge and techniques, and multidisciplinary approaches to environmental problems.” for “ocean and coastal resources by providing assistance to promote a strong educational base, responsive research and training activities, and broad and prompt dissemination of knowledge and techniques.”
+Subsec. (b). Pub. L. 100–220, §3103(2), substituted “ocean, coastal, and Great Lakes resources by providing assistance to promote a strong educational base, responsive research and training activities, broad and prompt dissemination of knowledge and techniques,and multidisciplinary approaches to environmental problems.” for “ocean and coastal resources by providing assistance to promote a strong educational base, responsive research and training activities, and broad and prompt dissemination of knowledge and techniques.”
 
 Subsec. (c). Pub. L. 100–220, §3104(b)(1)(B), substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources”.
 
-1978—Subsec. (a)(3). Pub. L. 95–428 substituted “national sea grant college program” for “national sea grant program”.
+<b>1978</b>—Subsec. (a)(3). Pub. L. 95–428 substituted “national sea grant college program” for “national sea grant program”.
 
-1976—Pub. L. 94–461 completely rewrote the Congressional statement of findings, objectives, and purposes of the National Sea Grant Program Act to reflect the extension and strengthening of the national sea grant program to promote research, education, training, and advisory service activities in fields related to ocean and coastal resources through federal support to sea grant colleges, sea grant regional consortia, and other institutions through the National Oceanic and Atmospheric Administration, and to make education, training, research, and advisory services responsive to state, local, regional, or national needs and problems.
+<b>1976</b>—Pub. L. 94–461 completely rewrote the Congressional statement of findings, objectives, and purposes of the National Sea Grant Program Act to reflect the extension and strengthening of the national sea grant program to promote research, education, training, and advisory service activities in fields related to ocean and coastal resources through federal support to sea grant colleges, sea grant regional consortia, and other institutions through the National Oceanic and Atmospheric Administration, and to make education, training, research, and advisory services responsive to state, local, regional, or national needs and problems.
 
 #### Short Title of 2008 Amendment
 
@@ -82,7 +82,7 @@ Pub. L. 107–299, §1, Nov. 26, 2002, 116 Stat. 2345, provided that: “This Ac
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–160, §1, Mar. 6, 1998, 112 Stat. 21, provided that: “This Act \[enacting section 1541 of Title 15, Commerce and Trade, amending this section and sections 1122, 1123, 1126 to 1128, and 1131 of this title, repealing section 1124a of this title, and enacting provisions setout as notes under sections 1123 and 1131 of this title\] may be cited as the ‘National Sea Grant College Program Reauthorization Act of 1998’.”
+Pub. L. 105–160, §1, Mar. 6, 1998, 112 Stat. 21, provided that: “This Act \[enacting section 1541 of Title 15, Commerce and Trade, amending this section and sections 1122, 1123, 1126 to 1128, and 1131 of this title, repealing section 1124a of this title, and enacting provisions set out as notes under sections 1123 and 1131 of this title\] may be cited as the ‘National Sea Grant College Program Reauthorization Act of 1998’.”
 
 #### Short Title of 1991 Amendment
 

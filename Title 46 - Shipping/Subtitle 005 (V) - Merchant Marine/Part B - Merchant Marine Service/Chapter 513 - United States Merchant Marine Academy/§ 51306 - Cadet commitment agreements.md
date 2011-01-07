@@ -124,7 +124,7 @@ In subsection (d), the words “bring a civil action” are substituted for “b
 
 #### Amendments
 
-2008—Pub. L. 110–181, §3526(g), repealed Pub. L. 109–364, §§3505(a) and 3506(a). See 2006 Amendment note below.
+<b>2008</b>—Pub. L. 110–181, §3526(g), repealed Pub. L. 109–364, §§3505(a) and 3506(a). See 2006 Amendment note below.
 
 Pub. L. 110–181, §3523(b), repealed Pub. L. 109–163, §515(g)(2)(A). See 2006 Amendment note below.
 
@@ -132,7 +132,7 @@ Subsec. (a)(4). Pub. L. 110–181, §3523(a)(1), incorporated the substance of t
 
 Subsecs. (e), (f). Pub. L. 110–181, §3526(b)(1), (c)(1), incorporated the substance of the amendments by Pub. L. 109–364, §§3505(a), 3506(a), into this section by adding subsecs. (e) and (f). See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-2006—Pub. L. 109–364, §§3505(a), 3506(a), which directed the amendment of section 1295b(e) of the former Appendix to this title from which this section was derived, were repealed by Pub. L. 110–181, §3526(g). See 2008 Amendment note for subsecs. (e) and (f) and Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–364, §§3505(a), 3506(a), which directed the amendment of section 1295b(e) of the former Appendix to this title from which this section was derived, were repealed by Pub. L. 110–181, §3526(g). See 2008 Amendment note for subsecs. (e) and (f) and Historical and Revision notes above.
 
 Pub. L. 109–163, §515(g)(2)(A), which directed the amendment of section 1295b of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3523(b). See 2008 Amendment note for subsec. (a)(4) and Historical and Revision notes above.
 

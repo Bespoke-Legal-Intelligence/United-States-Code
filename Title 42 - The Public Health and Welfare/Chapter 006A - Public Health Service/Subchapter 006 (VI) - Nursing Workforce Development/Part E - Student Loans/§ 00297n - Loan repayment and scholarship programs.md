@@ -8,7 +8,7 @@ In the case of any individual—
 
 &emsp;(2) who obtained (A) one or more loans from a loan fund established under subpart II,<sup>1</sup> or (B) any other educational loan for nurse training costs; and
 
-&emsp;(3) who enters into an agreement with the Secretary to serve as nurse for a period of not less than two years at a health care facility with a critical shortage of nurses;
+&emsp;(3) who enters into an agreement with the Secretary to serve as nurse for a period of not less than two years at a health care facility with a critical shortage of nurses, or in a <sup>2</sup> accredited school of nursing, as defined by section 296(2) of this title, as nurse faculty;
 
 > the Secretary shall make payments in accordance with subsection (b) of this section, for and on behalf of that individual, on the principal of and interest on any loan of that individual described in paragraph (2) of this subsection which is outstanding on the date the individual begins the service specified in the agreement described in paragraph (3) of this subsection. After fiscal year 2007, the Secretary may not, pursuant to any agreement entered into under this subsection, assign a nurse to any private entity unless that entity is nonprofit.
 
@@ -24,7 +24,7 @@ The payments described in subsection (a) of this section shall be made by the Se
 
 #### (c) Payment by due date
 
-Notwithstanding the requirement of completion of practice specified in subsection (b) of thissection, the Secretary shall, on or before the due date thereof, pay any loan or loan installment which may fall due within the period of service for which the borrower may receive payments under this subsection, upon the declaration of such borrower, at such times and in such manner as the Secretary may prescribe (and supported by such other evidence as the Secretary may reasonably require), that the borrower is then serving as described by subsection (a)(3) of this section, and that the borrower will continue to so serve for the period required (in the absence of this subsection) to entitle the borrower to have made the payments provided by this subsection for such period; except that not more than 85 percent of the principal of any such loan shall be paid pursuant to this subsection.
+Notwithstanding the requirement of completion of practice specified in subsection (b) of this section, the Secretary shall, on or before the due date thereof, pay any loan or loan installment which may fall due within the period of service for which the borrower may receive payments under this subsection, upon the declaration of such borrower, at such times and in such manner as the Secretary may prescribe (and supported by such other evidence as the Secretary may reasonably require), that the borrower is then serving as described by subsection (a)(3) of this section, and that the borrower will continue to so serve for the period required (in the absence of this subsection) to entitle the borrower to have made the payments provided by this subsection for such period; except that not more than 85 percent of the principal of any such loan shall be paid pursuant to this subsection.
 
 #### (d) Scholarship program
 
@@ -126,7 +126,7 @@ Not later than 18 months after August 1, 2002, and annually thereafter, the Secr
 
 &emsp;Of the amounts appropriated under paragraph (1), the Secretary may, as determined appropriate by the Secretary, allocate amounts between the program under subsection (a) of this section and the program under subsection (d) of this section.
 
-(July 1, 1944, ch. 373, title VIII, §846, as added Pub. L. 102–408, title II, §211(a)(3), Oct. 13, 1992, 106 Stat. 2078; amended Pub. L. 105–392, title I, §133(d), Nov. 13, 1998, 112 Stat. 3576; Pub. L. 107–205, title I, §103, Aug. 1, 2002, 116 Stat. 813.)
+(July 1, 1944, ch. 373, title VIII, §846, as added Pub. L. 102–408, title II, §211(a)(3), Oct. 13, 1992, 106 Stat. 2078; amended Pub. L. 105–392, title I, §133(d), Nov. 13, 1998, 112 Stat. 3576; Pub. L. 107–205, title I, §103, Aug. 1, 2002, 116 Stat. 813; Pub. L. 111–148, title V, §5310(a), Mar. 23, 2010, 124 Stat. 631.)
 
 #### References in Text
 
@@ -142,7 +142,9 @@ A prior section 846 of act July 1, 1944, was classified to section 297k of this 
 
 #### Amendments
 
-2002—Pub. L. 107–205, §103(b)(1), substituted “Loan repayment and scholarship programs” for “Loan repayment program” in section catchline.
+<b>2010</b>—Subsec. (a)(3). Pub. L. 111–148 inserted “, or in a accredited school of nursing, as defined by section 296(2) of this title, as nurse faculty” before semicolon at end.
+
+<b>2002</b>—Pub. L. 107–205, §103(b)(1), substituted “Loan repayment and scholarship programs” for “Loan repayment program” in section catchline.
 
 Subsec. (a). Pub. L. 107–205, §103(a)(2), inserted at end of concluding provisions “After fiscal year 2007, the Secretary may not, pursuant to any agreement entered into under this subsection, assign a nurse to any private entity unless that entity is nonprofit.”
 
@@ -172,11 +174,13 @@ Subsec. (h). Pub. L. 107–205, §103(b)(2), (d), redesignated subsec. (f) as (h
 
 Subsec. (i). Pub. L. 107–205, §103(b)(2), (e), redesignated subsec. (g) as (i) and amended it generally. Prior to amendment, text of subsec. read as follows: “For the purpose of payments under agreements entered into under subsection (a) of this section, there are authorized to be appropriated $5,000,000 for fiscal year 1993, and $6,000,000 for fiscal year 1994.”
 
-1998—Subsec. (h). Pub. L. 105–392 added subsec. (h).
+<b>1998</b>—Subsec. (h). Pub. L. 105–392 added subsec. (h).
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 
 Reference to community health center, migrant health center, public housing health center, or homeless health center considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under section 254b of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “an”.</i>
 

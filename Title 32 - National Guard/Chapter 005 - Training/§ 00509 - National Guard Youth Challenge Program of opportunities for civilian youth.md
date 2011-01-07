@@ -56,7 +56,7 @@ Authorized Benefits for Participants.—(1) To the extent provided in an agreeme
 
 &emsp;(I) Subject to paragraph (2), a temporary stipend upon the successful completion of the training, as characterized in accordance with procedures provided in the agreement.
 
-(2) In the case of a person selected for training in the Program who afterwards becomes a member of the Civilian Community Corps under subtitle E of title I of the National and Community Service Act of 1990 (42 U.S.C. 12611 et seq.), the person may not receive a temporary stipend under paragraph (1)(I) while the person is a member of that Corps. The person may receive the temporary stipend after completing servicein the Corps unless the person elects to receive benefits provided under subsection (f) or (g) of section 158 of such Act (42 U.S.C. 12618).
+(2) In the case of a person selected for training in the Program who afterwards becomes a member of the Civilian Community Corps under subtitle E of title I of the National and Community Service Act of 1990 (42 U.S.C. 12611 et seq.), the person may not receive a temporary stipend under paragraph (1)(I) while the person is a member of that Corps. The person may receive the temporary stipend after completing service in the Corps unless the person elects to receive benefits provided under subsection (f) or (g) of section 158 of such Act (42 U.S.C. 12618).
 
 (g)
 
@@ -134,9 +134,9 @@ The National and Community Service Act of 1990, referred to in subsec. (f)(2), i
 
 #### Amendments
 
-2009—Subsec. (d)(1). Pub. L. 111–84 substituted “75 percent of the costs” for “60 percent of the costs”.
+<b>2009</b>—Subsec. (d)(1). Pub. L. 111–84 substituted “75 percent of the costs” for “60 percent of the costs”.
 
-2008—Subsec. (d). Pub. L. 110–417 amended subsec. (d) generally. Prior to amendment, text read as follows: “The amount of assistance provided under this section to a State program of the Program may not exceed—
+<b>2008</b>—Subsec. (d). Pub. L. 110–417 amended subsec. (d) generally. Prior to amendment, text read as follows: “The amount of assistance provided under this section to a State program of the Program may not exceed—
 
 &emsp;“(1) for fiscal year 1998, 75 percent of the costs of operating the State program during that year;
 
@@ -146,7 +146,7 @@ The National and Community Service Act of 1990, referred to in subsec. (f)(2), i
 
 &emsp;“(4) for fiscal year 2001 and each subsequent fiscal year, 60 percent of the costs of operating the State program during that year.”
 
-2004—Pub. L. 108–375, §594(b)(1), amended section catchline generally, substituting “National Guard Youth” for “National Guard”.
+<b>2004</b>—Pub. L. 108–375, §594(b)(1), amended section catchline generally, substituting “National Guard Youth” for “National Guard”.
 
 Subsec. (a). Pub. L. 108–375, §594(a)(1), substituted “National Guard Youth Challenge Program” for “National Guard Challenge Program” the first place it appeared and “Program” for “National Guard Challenge Program” the second place it appeared.
 
@@ -182,13 +182,13 @@ Subsec. (m). Pub. L. 108–375, §594(a)(2), substituted “Program” for “Na
 
 Subsec. (m)(1) to (7). Pub. L. 108–375, §594(a)(3), substituted “Program” for “program” wherever appearing.
 
-2002—Subsec. (b). Pub. L. 107–314 amended Pub. L. 106–398, §577(b)(2). See 2000 Amendment note below.
+<b>2002</b>—Subsec. (b). Pub. L. 107–314 amended Pub. L. 106–398, §577(b)(2). See 2000 Amendment note below.
 
-2001—Subsec. (b)(2)(A). Pub. L. 107–107, §596(a)(1), substituted “in fiscal year 2001 or 2002” for “in a fiscal year”.
+<b>2001</b>—Subsec. (b)(2)(A). Pub. L. 107–107, §596(a)(1), substituted “in fiscal year 2001 or 2002” for “in a fiscal year”.
 
 Subsec. (b)(4). Pub. L. 107–107, §596(a)(2), added par. (4).
 
-2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title V, §577(a)\], struck out “, acting through the Chief of the National Guard Bureau,” after “The Secretary of Defense”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title V, §577(a)\], struck out “, acting through the Chief of the National Guard Bureau,” after “The Secretary of Defense”.
 
 Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title V, §577(b)(1), (3)\], inserted “(1)” before “The Secretary of Defense” and added pars. (2) and (3).
 
@@ -198,7 +198,7 @@ Pub. L. 106–246 substituted “Department of Defense” for “Federal”.
 
 Subsec. (m). Pub. L. 106–398, §1 \[\[div. A\], title V, §577(c)\], added subsec. (m).
 
-1999—Subsec. (a). Pub. L. 106–65, §579(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Defense, acting through the Chief of the National Guard Bureau, may conduct a National Guard civilian youth opportunities program (to be known as the ‘National Guard Challenge Program’) to use the National Guard to provide military-based training, including supervised work experience in community service and conservation projects, to civilian youth who cease to attend secondary school before graduating so as to improve the life skills and employment potential of such youth.”
+<b>1999</b>—Subsec. (a). Pub. L. 106–65, §579(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Defense, acting through the Chief of the National Guard Bureau, may conduct a National Guard civilian youth opportunities program (to be known as the ‘National Guard Challenge Program’) to use the National Guard to provide military-based training, including supervised work experience in community service and conservation projects, to civilian youth who cease to attend secondary school before graduating so as to improve the life skills and employment potential of such youth.”
 
 Subsec. (b). Pub. L. 106–65, §579(b), substituted “$62,500,000” for “$50,000,000”.
 

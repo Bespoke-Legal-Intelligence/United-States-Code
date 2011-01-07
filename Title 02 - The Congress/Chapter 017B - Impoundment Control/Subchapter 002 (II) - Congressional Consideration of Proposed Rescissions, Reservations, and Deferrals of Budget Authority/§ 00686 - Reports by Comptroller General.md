@@ -8,7 +8,7 @@ If the Comptroller General finds that the President, the Director of the Office 
 
 &emsp;(2) has ordered, permitted, or approved the establishment of such a reserve or a deferral of budget authority;
 
-> and that the President has failed to transmit a special message with respect to such reserve or deferral, the Comptroller General shall make a report on such reserve or deferral and any available information concerning it to both Houses of Congress. The provisions of sections 682 to 688 of this title shall apply with respect to such reserve or deferral in the same manner and with the same effect as if such report of the Comptroller General were a special message transmitted by the President under section 683 or 684 ofthis title, and, for purposes of sections 682 to 688 of this title, such report shall be considered a special message transmitted under section 683 or 684 of this title.
+> and that the President has failed to transmit a special message with respect to such reserve or deferral, the Comptroller General shall make a report on such reserve or deferral and any available information concerning it to both Houses of Congress. The provisions of sections 682 to 688 of this title shall apply with respect to such reserve or deferral in the same manner and with the same effect as if such report of the Comptroller General were a special message transmitted by the President under section 683 or 684 of this title, and, for purposes of sections 682 to 688 of this title, such report shall be considered a special message transmitted under section 683 or 684 of this title.
 
 #### (b) Incorrect classification of special message
 

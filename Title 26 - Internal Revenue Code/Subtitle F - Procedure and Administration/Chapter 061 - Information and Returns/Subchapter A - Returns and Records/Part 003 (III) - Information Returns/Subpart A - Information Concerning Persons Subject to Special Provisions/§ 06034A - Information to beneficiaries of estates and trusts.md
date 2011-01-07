@@ -76,9 +76,9 @@ Any person who holds an interest in an estate or trust as a nominee for another 
 
 #### Amendments
 
-1997—Subsec. (c). Pub. L. 105–34 added subsec. (c).
+<b>1997</b>—Subsec. (c). Pub. L. 105–34 added subsec. (c).
 
-1986—Subsec. (a). Pub. L. 99–514, §1501(c)(15), in introductory provisions, substituted “required to file a return” for “making the return required to be filed” and “was required to be filed” for “was filed”, and in concluding provisions, substituted “required to be shown on such return” for “shown on such return”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1501(c)(15), in introductory provisions, substituted “required to file a return” for “making the return required to be filed” and “was required to be filed” for “was filed”, and in concluding provisions, substituted “required to be shown on such return” for “shown on such return”.
 
 Pub. L. 99–514, §1875(d)(3)(A)(i), (ii), designated existing provisions as subsec. (a), inserted heading “General rule”, and substituted “each beneficiary (or nominee thereof)” for “each beneficiary” in text.
 

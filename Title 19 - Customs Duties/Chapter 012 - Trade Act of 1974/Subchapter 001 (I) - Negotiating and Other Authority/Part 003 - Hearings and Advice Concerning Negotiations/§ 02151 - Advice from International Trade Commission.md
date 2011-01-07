@@ -34,7 +34,7 @@ In preparing its advice to the President under this section, the Commission shal
 
 #### Amendments
 
-2002—Subsec. (a)(1). Pub. L. 107–210, §2110(a)(2)(A)(i), substituted “section 2133 of this title or section 3803(a) or (b) of this title,” for “section 2133 of this title or section 2902(a) or (c) of this title,”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–210, §2110(a)(2)(A)(i), substituted “section 2133 of this title or section 3803(a) or (b) of this title,” for “section 2133 of this title or section 2902(a) or (c) of this title,”.
 
 Subsec. (a)(2). Pub. L. 107–210, §2110(a)(2)(A)(ii), substituted “section 3803(b) of this title” for “section 2902(b) or (c) of this title”.
 
@@ -42,7 +42,7 @@ Subsec. (b). Pub. L. 107–210, §2110(a)(2)(B), substituted “section 3803(a)(
 
 Subsec. (c). Pub. L. 107–210, §2110(a)(2)(C), substituted “section 3803 of this title,” for “section 2902 of this title,”.
 
-1988—Pub. L. 100–418 amended section generally, substituting present provisions for provisions which related to: in subsec. (a), lists of articles which could be considered for modification or continuance of duties, duty-free or excise treatment, or additional duties; in subsec. (b), advice to President following receipt of list by Commission; in subsec. (c), additional investigations and reports requested by President; in subsec. (d), Commission steps in preparing its advice to President; and in subsec. (e), public hearings.
+<b>1988</b>—Pub. L. 100–418 amended section generally, substituting present provisions for provisions which related to: in subsec. (a), lists of articles which could be considered for modification or continuance of duties, duty-free or excise treatment, or additional duties; in subsec. (b), advice to President following receipt of list by Commission; in subsec. (c), additional investigations and reports requested by President; in subsec. (d), Commission steps in preparing its advice to President; and in subsec. (e), public hearings.
 
 #### Delegation of Authority
 

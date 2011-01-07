@@ -14,10 +14,6 @@ The Commandant of the Coast Guard is authorized and empowered to mitigate or rem
 
 (Apr. 28, 1908, ch. 151, §4, 35 Stat. 69; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 101–380, title IV, §4302(k), Aug. 18, 1990, 104 Stat. 539.)
 
-#### References in Text
-
-The navigation laws, referred to in text, are classified generally to this title.
-
 #### Codification
 
 Section was not enacted as part of the Ports and Waterways Safety Act which comprises this chapter.
@@ -26,11 +22,11 @@ Section was formerly classified to section 457 of former Title 46, Shipping.
 
 #### Amendments
 
-1990—Subsecs. (b) to (d). Pub. L. 101–380 substituted “$5,000” for “$500” in subsecs. (b) and (c) and “$2,500” for “$250” in subsec. (d).
+<b>1990</b>—Subsecs. (b) to (d). Pub. L. 101–380 substituted “$5,000” for “$500” in subsecs. (b) and (c) and “$2,500” for “$250” in subsec. (d).
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L.101–380, set out as an Effective Date note under section 2701 of this title.
+Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of this title.
 
 #### Transfer of Functions
 

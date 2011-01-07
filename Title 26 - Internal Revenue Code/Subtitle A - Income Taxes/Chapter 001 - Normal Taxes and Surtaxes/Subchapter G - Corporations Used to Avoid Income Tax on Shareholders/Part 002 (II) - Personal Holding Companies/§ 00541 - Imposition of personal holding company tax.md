@@ -12,33 +12,33 @@ In addition to other taxes imposed by this chapter, there is hereby imposed for 
 
 #### Amendments
 
-2003—Pub. L. 108–27, §§302(e)(6), 303, temporarily substituted “equal to 15 percent of the undistributed personal holding company income.” for “equal to the product of the highest rate of tax under section 1(c) and the undistributed personal holding company income.” See Effective and Termination Dates of 2003 Amendment note below.
+<b>2003</b>—Pub. L. 108–27, §§302(e)(6), 303, temporarily substituted “equal to 15 percent of the undistributed personal holding company income.” for “equal to the product of the highest rate of tax under section 1(c) and the undistributed personal holding company income.” See Effective and Termination Dates of 2003 Amendment note below.
 
-2001—Pub. L. 107–16, §§101(c)(5), 901, temporarily substituted “equal to the product of the highest rate of tax under section 1(c) and the undistributed personal holding company income.” for “equal to 39.6 percent of the undistributed personal holding company income.” See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Pub. L. 107–16, §§101(c)(5), 901, temporarily substituted “equal to the product of the highest rate of tax under section 1(c) and the undistributed personal holding company income.” for “equal to 39.6 percent of the undistributed personal holding company income.” See Effective and Termination Dates of 2001 Amendment note below.
 
-1993—Pub. L. 103–66, §13202(b), substituted “39.6 percent” for “36 percent”.
+<b>1993</b>—Pub. L. 103–66, §13202(b), substituted “39.6 percent” for “36 percent”.
 
 Pub. L. 103–66, §13201(b)(2), substituted “36 percent” for “28 percent”.
 
-1990—Pub. L. 101–508 struck out “(38.5 percent in the case of taxable years beginning in 1987)” after “28 percent”.
+<b>1990</b>—Pub. L. 101–508 struck out “(38.5 percent in the case of taxable years beginning in 1987)” after “28 percent”.
 
-1986—Pub. L. 99–514 substituted “28 percent (38.5 percent in the case of taxable years beginning in 1987)” for “50 percent”.
+<b>1986</b>—Pub. L. 99–514 substituted “28 percent (38.5 percent in the case of taxable years beginning in 1987)” for “50 percent”.
 
-1981—Pub. L. 97–34 substituted “50 percent” for “70 percent”.
+<b>1981</b>—Pub. L. 97–34 substituted “50 percent” for “70 percent”.
 
-1964—Pub. L. 88–272 reduced the tax from 75 percent of undistributed income not in excess of $2,000, and 85 percent when in excess of $2,000, to 70 percent.
+<b>1964</b>—Pub. L. 88–272 reduced the tax from 75 percent of undistributed income not in excess of $2,000, and 85 percent when in excess of $2,000, to 70 percent.
 
 #### Effective and Termination Dates of 2003 Amendment
 
 Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as a note under section 1 of this title.
 
-Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
+Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
 
 #### Effective and Termination Dates of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to payments made in taxable years beginning after Dec. 31, 2000, see section 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1993 Amendment
 

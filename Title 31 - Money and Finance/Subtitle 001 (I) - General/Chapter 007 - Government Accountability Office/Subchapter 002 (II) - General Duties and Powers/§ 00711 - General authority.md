@@ -54,5 +54,5 @@ In clause (4), the words “in any case in which they may deem it necessary for 
 
 #### Amendments
 
-2004—Par. (2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Par. (2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

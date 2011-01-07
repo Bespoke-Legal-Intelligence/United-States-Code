@@ -2,7 +2,7 @@
 
 #### (a) Applicability of subchapter II of chapter 5 of title 5
 
-(1) Subject to the other requirements of this subchapter, the provisions of subchapter II of chapter 5 of title 5 shall apply in accordance with its terms to any rule or regulation, or any order having the applicability and effect of a rule (as defined in section 551(4) of title 5), issued pursuant to authority vested by law in, or transferred or delegated to, the Secretary, or required by this chapter or any other Act to be carried out by any other officer, employee, or component of the Department, other than the Commission, including any such rule, regulation, or order of a State, or local government agency or officer thereof, issued pursuant to authority delegated by the Secretary in accordance with this subchapter. If any provision of any Act, the functions of which are transferred, vested, or delegated pursuant to this chapter, provides administrative procedure requirements in addition to the requirements provided in thissubchapter, such additional requirements shall also apply to actions under that provision.
+(1) Subject to the other requirements of this subchapter, the provisions of subchapter II of chapter 5 of title 5 shall apply in accordance with its terms to any rule or regulation, or any order having the applicability and effect of a rule (as defined in section 551(4) of title 5), issued pursuant to authority vested by law in, or transferred or delegated to, the Secretary, or required by this chapter or any other Act to be carried out by any other officer, employee, or component of the Department, other than the Commission, including any such rule, regulation, or order of a State, or local government agency or officer thereof, issued pursuant to authority delegated by the Secretary in accordance with this subchapter. If any provision of any Act, the functions of which are transferred, vested, or delegated pursuant to this chapter, provides administrative procedure requirements in addition to the requirements provided in this subchapter, such additional requirements shall also apply to actions under that provision.
 
 (2) Notwithstanding paragraph (1), this subchapter shall apply to the Commission to the same extent this subchapter applies to the Secretary in the exercise of any of the Commission's functions under section 7172(c)(1) of this title or which the Secretary has assigned under section 7172(e) of this title.
 
@@ -44,9 +44,13 @@ Where authorized by any law vested, transferred, or delegated pursuant to this c
 
 (Pub. L. 95–91, title V, §501, Aug. 4, 1977, 91 Stat. 587; Pub. L. 105–28, §2(a), July 18, 1997, 111 Stat. 245.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a)(1) and (e), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+
 #### Amendments
 
-1997—Subsec. (b). Pub. L. 105–28, §2(a)(1), (2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows:
+<b>1997</b>—Subsec. (b). Pub. L. 105–28, §2(a)(1), (2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows:
 
 “(1) In addition to the requirements of subsection (a) of this section, notice of any proposed rule, regulation, or order described in subsection (a) of this section shall be given by publication of such proposed rule, regulation, or order in the Federal Register. Such publication shall be accompanied by a statement of the research, analysis, and other available information in support of, the need for, and the probable effect of, any such proposed rule, regulation, or order. Other effective means of publicity shall be utilized as may be reasonably calculated to notify concerned or affected persons of the nature and probable effect of any such proposed rule, regulation, or order. In each case, a minimum of thirty days following such publication shall be provided for an opportunity to comment prior to promulgation of any such rule, regulation, or order.
 

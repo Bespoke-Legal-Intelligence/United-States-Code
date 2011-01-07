@@ -232,7 +232,7 @@ The administering authority may terminate any investigation initiated by the adm
 
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–465, §217(b), designated existing provisions as subpar. (A), inserted heading and realigned margin, and added subpar. (B).
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–465, §217(b), designated existing provisions as subpar. (A), inserted heading and realigned margin, and added subpar. (B).
 
 Subsec. (a)(2)(A). Pub. L. 103–465, §233(a)(5)(S), substituted “subject merchandise” for “merchandise that is subject to the investigation”.
 
@@ -264,11 +264,11 @@ Subsec. (j). Pub. L. 103–465, §233(a)(5)(T), substituted “subject merchandi
 
 Subsec. (m). Pub. L. 103–465, §218(a)(2), added subsec. (m).
 
-1988—Subsecs. (g)(2), (h)(1). Pub. L. 100–418, §1326(d)(2), substituted “(F), or (G)” for “and (F)”.
+<b>1988</b>—Subsecs. (g)(2), (h)(1). Pub. L. 100–418, §1326(d)(2), substituted “(F), or (G)” for “and (F)”.
 
 Subsec. (<i>l</i>). Pub. L. 100–418, §1316(c), added subsec. (<i>l</i>).
 
-1984—Subsec. (a). Pub. L. 98–573, §604(b)(1), amended subsec. (a) generally, which prior to amendment read as follows: “An investigation under this part may be terminated by either the administering authority or the Commission after notice to all parties to the investigation, upon withdrawal of the petition by the petitioner. The Commission may not terminate an investigation under the preceding sentence before a preliminary determination is made by the administering authority under section 1673b(b) of this title.”
+<b>1984</b>—Subsec. (a). Pub. L. 98–573, §604(b)(1), amended subsec. (a) generally, which prior to amendment read as follows: “An investigation under this part may be terminated by either the administering authority or the Commission after notice to all parties to the investigation, upon withdrawal of the petition by the petitioner. The Commission may not terminate an investigation under the preceding sentence before a preliminary determination is made by the administering authority under section 1673b(b) of this title.”
 
 Subsec. (d). Pub. L. 98–573, §604(b)(2), struck out designation “(1)” preceding first sentence, substituted “may not accept” for “shall not accept”, redesignated former subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former par. (2), which had provided that exports of merchandise to the United States were not to increase during the interim period.
 

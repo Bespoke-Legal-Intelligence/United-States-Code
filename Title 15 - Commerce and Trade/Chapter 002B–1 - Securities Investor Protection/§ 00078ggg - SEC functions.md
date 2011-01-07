@@ -34,7 +34,7 @@ A prior section 11 of Pub. L. 91–598 was renumbered section 15 and is classifi
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–283 substituted “pursuant to section 78ccc(e)(3) and section 78iii(f) of this title” for “or regulations pursuant to section 78ccc(e) and 78iii(f) of this title”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–283 substituted “pursuant to section 78ccc(e)(3) and section 78iii(f) of this title” for “or regulations pursuant to section 78ccc(e) and 78iii(f) of this title”.
 
 #### Termination of Reporting Requirements
 

@@ -8,33 +8,101 @@ It is the purpose of this section to—
 
 &emsp;(2) provide necessary information for decision-making regarding future directions in health professions and nursing programs in response to societal and professional needs.
 
-#### (b) Grants or contracts
+#### (b) National Center for Health Care Workforce Analysis
 
-The Secretary may award grants or contracts to State or local governments, health professions schools, schools of nursing, academic health centers, community-based health facilities, and other appropriate public or private nonprofit entities to provide for—
+#### (1) Establishment
 
-&emsp;(1) targeted information collection and analysis activities related to the purposes described in subsection (a) of this section;
+&emsp;The Secretary shall establish the National Center for Health Workforce Analysis (referred to in this section as the “National Center”).
 
-&emsp;(2) research on high priority workforce questions;
+#### (2) Purposes
 
-&emsp;(3) the development of a non-Federal analytic and research infrastructure related to the purposes described in subsection (a) of this section; and
+&emsp;The National Center, in coordination to the extent practicable with the National Health Care Workforce Commission (established in section 294q of this title), and relevant regional and State centers and agencies, shall—
 
-&emsp;(4) the conduct of program evaluation and assessment.
+&emsp;&emsp;(A) provide for the development of information describing and analyzing the health care workforce and workforce related issues;
 
-#### (c) Authorization of appropriations
+&emsp;&emsp;(B) carry out the activities under section 295k(a) of this title;
+
+&emsp;&emsp;(C) annually evaluate programs under this subchapter;
+
+&emsp;&emsp;(D) develop and publish performance measures and benchmarks for programs under this subchapter; and
+
+&emsp;&emsp;(E) establish, maintain, and publicize a national Internet registry of each grant awarded under this subchapter and a database to collect data from longitudinal evaluations (as described in subsection (d)(2)) on performance measures (as developed under sections 293<i>l</i>(d)(3), 294f(d)(3), and 294<i>o</i>(a)(3) of this title).
+
+#### (3) Collaboration and data sharing
+
+#### (A) In general
+
+&emsp;&emsp;The National Center shall collaborate with Federal agencies and relevant professional and educational organizations or societies for the purpose of linking data regarding grants awarded under this subchapter.
+
+#### (B) Contracts for health workforce analysis
+
+&emsp;&emsp;For the purpose of carrying out the activities described in subparagraph (A), the National Center may enter into contracts with relevant professional and educational organizations or societies.
+
+#### (c) State and regional Centers for Health Workforce Analysis
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated to carry out this section, $750,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002.
+&emsp;The Secretary shall award grants to, or enter into contracts with, eligible entities for purposes of—
+
+&emsp;&emsp;(A) collecting, analyzing, and reporting data regarding programs under this subchapter to the National Center and to the public; and
+
+&emsp;&emsp;(B) providing technical assistance to local and regional entities on the collection, analysis, and reporting of data.
+
+#### (2) Eligible entities
+
+&emsp;To be eligible for a grant or contract under this subsection, an entity shall—
+
+&emsp;&emsp;(A) be a State, a State workforce investment board, a public health or health professions school, an academic health center, or an appropriate public or private nonprofit entity; and
+
+&emsp;&emsp;(B) submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+
+#### (d) Increase in grants for longitudinal evaluations
+
+#### (1) In general
+
+&emsp;The Secretary shall increase the amount awarded to an eligible entity under this subchapter for a longitudinal evaluation of individuals who have received education, training, or financial assistance from programs under this subchapter.
+
+#### (2) Capability
+
+&emsp;A longitudinal evaluation shall be capable of—
+
+&emsp;&emsp;(A) studying practice patterns; and
+
+&emsp;&emsp;(B) collecting and reporting data on performance measures developed under sections 293<i>l</i>(d)(3), 294f(d)(3), and 294<i>o</i>(a)(3) of this title.
+
+#### (3) Guidelines
+
+&emsp;A longitudinal evaluation shall comply with guidelines issued under sections 293<i>l</i>(d)(4), 294f(d)(4), and 294<i>o</i>(a)(4) of this title.
+
+#### (4) Eligible entities
+
+&emsp;To be eligible to obtain an increase under this section, an entity shall be a recipient of a grant or contract under this subchapter.
+
+#### (e) Authorization of appropriations
+
+#### (1) In general
+
+#### (A) National Center
+
+&emsp;&emsp;To carry out subsection (b), there are authorized to be appropriated $7,500,000 for each of fiscal years 2010 through 2014.
+
+#### (B) State and regional Centers
+
+&emsp;&emsp;To carry out subsection (c), there are authorized to be appropriated $4,500,000 for each of fiscal years 2010 through 2014.
+
+#### (C) Grants for longitudinal evaluations
+
+&emsp;&emsp;To carry out subsection (d), there are authorized to be appropriated such sums as may be necessary for fiscal years 2010 through 2014.
 
 #### (2) Reservation
 
-&emsp;Of the amounts appropriated under subsection (a) of this section for a fiscal year, the Secretary shall reserve not less than $600,000 for conducting health professions research and for carrying out data collection and analysis in accordance with section 295k of this title.
+&emsp;Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall reserve not less than $600,000 for conducting health professions research and for carrying out data collection and analysis in accordance with section 295k of this title.
 
 #### (3) Availability of additional funds
 
 &emsp;Amounts otherwise appropriated for programs or activities under this subchapter may be used for activities under subsection (b) of this section with respect to the programs or activities from which such amounts were made available.
 
-(July 1, 1944, ch. 373, title VII, §761, as added Pub. L. 105–392, title I, §104(a), Nov. 13, 1998, 112 Stat. 3552.)
+(July 1, 1944, ch. 373, title VII, §761, as added Pub. L. 105–392, title I, §104(a), Nov. 13, 1998, 112 Stat. 3552; amended Pub. L. 111–148, title V, §5103(a), Mar. 23, 2010, 124 Stat. 603.)
 
 #### Prior Provisions
 
@@ -49,4 +117,16 @@ Another prior section 761 of act July 1, 1944, was classified to section 294cc o
 Another prior section 761 of act July 1, 1944, was classified to section 295 of this title prior to repeal by Pub. L. 99–129.
 
 Another prior section 761 of act July 1, 1944, was classified to section 295 of this title prior to the general amendment of part D of this subchapter by Pub. L. 91–696.
+
+#### Amendments
+
+<b>2010</b>—Subsecs. (b) to (e). Pub. L. 111–148, §5103(a)(1), (2), added subsecs. (b) to (d), redesignated former subsec. (c) as (e), and struck out former subsec. (b) which related to award of grants or contracts.
+
+Subsec. (e)(1). Pub. L. 111–148, §5103(a)(3)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section, $750,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002.”
+
+Subsec. (e)(2). Pub. L. 111–148, §5103(a)(4), which directed amendment of “paragraph (2)”, without specifying the subsec. to be amended, by substituting “paragraph (1)” for “subsection (a)”, was executed by making the substitution in par. (2) of subsec. (e), to reflect the probable intent of Congress.
+
+#### Transfer of Functions
+
+Pub. L. 111–148, title V, §5103(b), Mar. 23, 2010, 124 Stat. 605, provided that: “Not later than 180 days after the date of enactment of this Act \[Mar. 23, 2010\], the responsibilities and resources of the National Center for Health Workforce Analysis, as in effect on the date before the date of enactment of this Act, shall be transferred to the National Center for Health Care Workforce Analysis established under section 761 of the Public Health Service Act \[42 U.S.C. 294n\], as amended by subsection (a).”
 

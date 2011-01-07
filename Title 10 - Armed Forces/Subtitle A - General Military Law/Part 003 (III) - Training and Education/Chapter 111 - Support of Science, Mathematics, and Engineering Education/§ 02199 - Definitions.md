@@ -16,7 +16,7 @@ Section 101 of the Higher Education Act of 1965, referred to in par. (2), is cla
 
 #### Amendments
 
-1998—Par. (2). Pub. L. 105–244 substituted “section 101 of the Higher Education Act of 1965” for “section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a))”.
+<b>1998</b>—Par. (2). Pub. L. 105–244 substituted “section 101 of the Higher Education Act of 1965” for “section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a))”.
 
 #### Effective Date of 1998 Amendment
 

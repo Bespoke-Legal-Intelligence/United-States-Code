@@ -224,11 +224,11 @@ Executive Order No. 12893, referred to in subsec. (f)(1), is set out as a note u
 
 #### Amendments
 
-2005—Subsec. (e). Pub. L. 109–59, §1904(a)(1), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “For such projects as the Secretary determines advisable, plans, specifications, and estimates for proposed projects on any Federal-aid highway shall be accompanied by a value engineering analysis or other cost reduction analysis.”
+<b>2005</b>—Subsec. (e). Pub. L. 109–59, §1904(a)(1), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “For such projects as the Secretary determines advisable, plans, specifications, and estimates for proposed projects on any Federal-aid highway shall be accompanied by a value engineering analysis or other cost reduction analysis.”
 
 Subsecs. (g) to (i). Pub. L. 109–59, §1904(a)(2), added subsecs. (g) to (i) and struck out former subsecs. (g) and (h) which related to establishment of a value engineering analysis program for projects with an estimated total cost of $25,000,000 or more and requirement that recipient of assistance for a project with an estimated total cost of $1,000,000,000 or more submit an annual financial plan for the project.
 
-1998—Pub. L. 105–178, §1305(a)(1), substituted “Project approval and oversight” for “Plans, specifications, and estimates” in section catchline.
+<b>1998</b>—Pub. L. 105–178, §1305(a)(1), substituted “Project approval and oversight” for “Plans, specifications, and estimates” in section catchline.
 
 Subsecs. (a) to (d). Pub. L. 105–178, §1305(a)(3), added subsecs. (a) to (d) and struck out former subsecs. (a) to (d) which related to requirement for State highway departments to submit to Secretary for approval plans, specifications, and estimates for each proposed highway project, special rules relating to resurfacing, restoring, and rehabilitating projects on National Highway System, to low-cost National Highway System projects, and to non-National Highway System projects, limitation on estimates for construction engineering, and provisions relating to value engineering or other cost reduction analysis.
 
@@ -254,23 +254,23 @@ Subsec. (g). Pub. L. 105–178, §1305(a)(2), redesignated subsec. (f) as (g).
 
 Subsec. (h). Pub. L. 105–178, §1305(b), added subsec. (h).
 
-1995—Subsecs. (e), (f). Pub. L. 104–59 added subsecs. (e) and (f).
+<b>1995</b>—Subsecs. (e), (f). Pub. L. 104–59 added subsecs. (e) and (f).
 
-1991—Subsec. (a). Pub. L. 102–240, §1016(b)(1), inserted “this section and” before “section 117”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–240, §1016(b)(1), inserted “this section and” before “section 117”.
 
 Subsec. (b). Pub. L. 102–240, §1016(b)(2), added subsec. (b) and struck out former subsec. (b) which read as follows: “In addition to the approval required under subsection (a) of this section, proposed specifications for projects for construction on (1) the Federal-aid secondary system, except in States where all public roads and highways are under the control and supervision of the State highway department, and (2) the Federal-aid urban system, shall be determined by the State highway department and the appropriate local road officials in cooperation with each other.”
 
 Subsec. (c). Pub. L. 102–240, §1018(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Items included in any such estimate for construction engineering shall not exceed 15 percent of the total estimated cost of a project financed with Federal-aid highway funds, after excluding from such total estimate cost, the estimated costs of rights-of-way, preliminary engineering, and construction engineering.”
 
-1987—Subsec. (c). Pub. L. 100–17 substituted “15 percent” for “10 per centum” and struck out at end “However, this limitation shall be 15 per centum in any State with respect to which the Secretary finds such higher limitation to be necessary.”
+<b>1987</b>—Subsec. (c). Pub. L. 100–17 substituted “15 percent” for “10 per centum” and struck out at end “However, this limitation shall be 15 per centum in any State with respect to which the Secretary finds such higher limitation to be necessary.”
 
-1976—Subsec. (c). Pub. L. 94–280 substituted “Federal-aid highway funds” for “Federal-aid primary, secondary, or urban funds” and “such total estimate cost” for “such total estimated cost” and struck out 10 per centum limitation for any project financed with interstate funds.
+<b>1976</b>—Subsec. (c). Pub. L. 94–280 substituted “Federal-aid highway funds” for “Federal-aid primary, secondary, or urban funds” and “such total estimate cost” for “such total estimated cost” and struck out 10 per centum limitation for any project financed with interstate funds.
 
-1970—Subsec. (b). Pub. L. 91–605, §106(e), inserted reference to the Federal-aid urban system.
+<b>1970</b>—Subsec. (b). Pub. L. 91–605, §106(e), inserted reference to the Federal-aid urban system.
 
 Subsec. (d). Pub. L. 91–605, §142, added subsec. (d).
 
-1963—Subsec. (c). Pub. L. 88–157 substituted “a project financed with Federal-aid primary, secondary, or urban funds” for “the project” and provided for limitation, on items included in estimates for construction engineering on projects financed with Federal-aid primary, secondary, or urban funds, of 15 percent of total estimated cost of the project where found by the Secretary to be necessary and for 10-percent limitation on projects financed with interstate funds.
+<b>1963</b>—Subsec. (c). Pub. L. 88–157 substituted “a project financed with Federal-aid primary, secondary, or urban funds” for “the project” and provided for limitation, on items included in estimates for construction engineering on projects financed with Federal-aid primary, secondary, or urban funds, of 15 percent of total estimated cost of the project where found by the Secretary to be necessary and for 10-percent limitation on projects financed with interstate funds.
 
 #### Effective Date of 1991 Amendment
 

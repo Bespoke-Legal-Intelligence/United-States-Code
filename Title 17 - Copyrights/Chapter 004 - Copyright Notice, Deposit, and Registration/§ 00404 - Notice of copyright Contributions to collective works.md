@@ -8,7 +8,7 @@
 
 #### Historical and Revision Notes
 
-I74house report no. 94–1476
+#### house report no. 94–1476
 
 In conjunction with the provisions of section 201(c), section 404 deals with a troublesome problem under the present law: the notice requirements applicable to contributions published in periodicals and other collective works. The basic approach of the section is threefold:
 
@@ -28,7 +28,7 @@ The effective date of the Berne Convention Implementation Act of 1988, referred 
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–568, §7(d)(1), substituted “to invoke the provisions of section 401(d) or 402(d), as applicable” for “to satisfy the requirements of sections 401 through 403”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–568, §7(d)(1), substituted “to invoke the provisions of section 401(d) or 402(d), as applicable” for “to satisfy the requirements of sections 401 through 403”.
 
 Subsec. (b). Pub. L. 100–568, §7(d)(2), substituted “With respect to copies and phonorecords publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, where” for “Where”.
 

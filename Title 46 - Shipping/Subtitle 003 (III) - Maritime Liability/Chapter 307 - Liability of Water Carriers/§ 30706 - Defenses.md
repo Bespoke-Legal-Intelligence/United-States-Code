@@ -42,5 +42,5 @@ Historical and Revision Notes
 
 Feb. 13, 1893, ch. 105, §3, 27 Stat. 445.
 
-This section is restated as two subsections to clarify that the exercise of due diligence in making the vessel seaworthy is a condition only to the defense of error in navigation or management restated in subsection (a).See <i>May v. Hamburg-Amerikanische Packetfahrt Aktiengesellschaft (The Isis)</i>, 290 U.S. 333, 353 (1933). The words “transporting merchandise or property to or from any port in the United States of America” are omitted because of section 30702(a) of the revised title.
+This section is restated as two subsections to clarify that the exercise of due diligence in making the vessel seaworthy is a condition only to the defense of error in navigation or management restated in subsection (a). See <i>May v. Hamburg-Amerikanische Packetfahrt Aktiengesellschaft (The Isis)</i>, 290 U.S. 333, 353 (1933). The words “transporting merchandise or property to or from any port in the United States of America” are omitted because of section 30702(a) of the revised title.
 

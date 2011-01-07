@@ -22,7 +22,7 @@ A prior section 2110 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-1989—Subsec. (c). Pub. L. 101–239 added subsec. (c).
+<b>1989</b>—Subsec. (c). Pub. L. 101–239 added subsec. (c).
 
 #### Effective Date of 1989 Amendment
 

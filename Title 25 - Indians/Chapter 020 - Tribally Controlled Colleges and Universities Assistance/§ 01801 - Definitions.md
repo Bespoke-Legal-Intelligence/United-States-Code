@@ -50,7 +50,7 @@ The Alaskan Native Claims Settlement Act, referred to in subsec. (a)(2), probabl
 
 #### Amendments
 
-2008—Subsec. (a)(6). Pub. L. 110–315, §941(a), substituted “in the fields of tribally controlled colleges and universities and Indian higher education” for “in the field of Indian education”.
+<b>2008</b>—Subsec. (a)(6). Pub. L. 110–315, §941(a), substituted “in the fields of tribally controlled colleges and universities and Indian higher education” for “in the field of Indian education”.
 
 Subsec. (a)(7) to (9). Pub. L. 110–315, §941(b), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively.
 
@@ -60,7 +60,7 @@ Subsec. (b)(5). Pub. L. 110–315, §941(c)(2), added par. (5) and struck out fo
 
 Subsec. (b)(6). Pub. L. 110–315, §941(c)(3), struck out par. (6) which read as follows: “No credit hours earned by an Indian student who is not making satisfactory progress toward a degree or certificate shall be taken into account.”
 
-1998—Subsec. (a)(4). Pub. L. 105–244, §901(b)(5), substituted “college or university” for “community college”.
+<b>1998</b>—Subsec. (a)(4). Pub. L. 105–244, §901(b)(5), substituted “college or university” for “community college”.
 
 Subsec. (a)(5). Pub. L. 105–244, §102(a)(8)(B), substituted “section 1001” for “section 1141(a)”.
 
@@ -70,11 +70,11 @@ Subsec. (b)(4). Pub. L. 105–244, §901(b)(5), substituted “college or univer
 
 Subsec. (b)(5). Pub. L. 105–244, §901(b)(9), substituted “college or university's” for “community college's”.
 
-1986—Subsec. (a)(8). Pub. L. 99–428, §3(a), added par. (8).
+<b>1986</b>—Subsec. (a)(8). Pub. L. 99–428, §3(a), added par. (8).
 
 Subsec. (b)(3) to (6). Pub. L. 99–428, §3(b), added par. (3), redesignated former pars. (3) to (5) as (4) to (6), respectively, and in par. (6) struck out “, in accordance with the standards and practices of the appropriate accrediting agency or the institution at which the student is in attendance,” after “certificate”.
 
-1983—Subsec. (a). Pub. L. 98–192, §1(1), designated existing provisions as subsec. (a) and inserted introductory provision preceding par. (1).
+<b>1983</b>—Subsec. (a). Pub. L. 98–192, §1(1), designated existing provisions as subsec. (a) and inserted introductory provision preceding par. (1).
 
 Subsec. (a)(1). Pub. L. 98–192, §1(2), struck out “and is eligible to receive services from the Secretary of the Interior” after “Indian tribe”.
 
@@ -203,4 +203,8 @@ Term of President's Board of Advisors on Tribal Colleges and Universities extend
 Term of President's Board of Advisors on Tribal Colleges and Universities extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of President's Board of Advisors on Tribal Colleges and Universities extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+<i><sup>1</sup></i><i> So in original. Probably should be section “1001(a)”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “(5)”.</i>
 

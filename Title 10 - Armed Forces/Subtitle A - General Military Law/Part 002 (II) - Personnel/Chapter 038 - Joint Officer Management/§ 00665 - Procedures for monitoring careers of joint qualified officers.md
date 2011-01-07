@@ -22,7 +22,7 @@ Function of Joint Staff.—The Secretary shall take such action as necessary to 
 
 #### Amendments
 
-2008—Pub. L. 110–417 in section catchline substituted “joint qualified officers” for “joint officers” and in subsecs. (a)(1)(A) and (b)(1) substituted “designated as a joint qualified officer” for “with the joint specialty”.
+<b>2008</b>—Pub. L. 110–417 in section catchline substituted “joint qualified officers” for “joint officers” and in subsecs. (a)(1)(A) and (b)(1) substituted “designated as a joint qualified officer” for “with the joint specialty”.
 
 #### Transition to Joint Officer Personnel Policy
 

@@ -10,9 +10,9 @@ The Federal Airport Act, referred to in text, is act May 13, 1946, ch. 251, 60 S
 
 #### Amendments
 
-1970—Pub. L. 91–258 substituted “Secretary of Transportation” for “Administrator of the Federal Aviation Agency” in two places.
+<b>1970</b>—Pub. L. 91–258 substituted “Secretary of Transportation” for “Administrator of the Federal Aviation Agency” in two places.
 
-1958—Pub. L. 85–726 substituted “Administrator of the Federal Aviation Agency” for “Administrator of Civil Aeronautics” in two places.
+<b>1958</b>—Pub. L. 85–726 substituted “Administrator of the Federal Aviation Agency” for “Administrator of Civil Aeronautics” in two places.
 
 #### Effective Date of 1958 Amendment
 

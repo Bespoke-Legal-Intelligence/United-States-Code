@@ -28,7 +28,7 @@ In this section, the term “eligible entity” means—
 
 #### (c) Approval factors
 
-An application submitted for a grant under subsection (a)(1) shall not be approved by the Secretary unless the application contains assurances that the eligible entity has adopted and implemented, is in the process of adopting and implementing, or will use amounts received under such grant to adopt and implement the guidelines and recommendations of the Advisory Committee that are adopted by the Secretary and in effect at the time the grant is awarded or renewed under this section, which shall include the screening of each newborn for the heritable disorders recommended by the Advisory Committee and adopted by the Secretary.
+An application submitted for a grant under subsection (a)(1) shall not be approved by the Secretary unless the application contains assurances that the eligible entity has adopted andimplemented, is in the process of adopting and implementing, or will use amounts received under such grant to adopt and implement the guidelines and recommendations of the Advisory Committee that are adopted by the Secretary and in effect at the time the grant is awarded or renewed under this section, which shall include the screening of each newborn for the heritable disorders recommended by the Advisory Committee and adopted by the Secretary.
 
 #### (d) Coordination
 
@@ -84,7 +84,7 @@ Subsection (c)(2) of this section, referred to in subsec. (h)(1), (2), was struc
 
 #### Amendments
 
-2008—Subsecs. (a) to (c). Pub. L. 110–204, §2(1), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which provided for grants to promote screening, counseling, or health care services to newborns and children having or at risk for heritable disorders, enumerated permissible uses of grants, and set out grant applicants’ eligibility requirements.
+<b>2008</b>—Subsecs. (a) to (c). Pub. L. 110–204, §2(1), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which provided for grants to promote screening, counseling, or health care services to newborns and children having or at risk for heritable disorders, enumerated permissible uses of grants, and set out grant applicants’ eligibility requirements.
 
 Subsecs. (d) to (i). Pub. L. 110–204, §2(2), (3), added subsec. (d) and redesignated former subsecs. (d) to (h) as (e) to (i), respectively. Former subsec. (i) redesignated (j).
 

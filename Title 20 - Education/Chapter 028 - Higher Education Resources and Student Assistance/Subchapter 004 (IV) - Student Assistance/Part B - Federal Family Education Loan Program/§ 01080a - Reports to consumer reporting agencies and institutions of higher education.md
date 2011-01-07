@@ -32,7 +32,7 @@ Agreements entered into pursuant to this section shall contain such provisions a
 
 #### (d) Contractor status of participants
 
-A guaranty agency, eligible lender, or subsequent holder or consumer reporting agency which discloses or receives information under this section shall not be considered a Government contractor within the meaning of section 552a of title 5.
+A guaranty agency, eligible lender, or subsequent holder or consumer reporting agencywhich discloses or receives information under this section shall not be considered a Government contractor within the meaning of section 552a of title 5.
 
 #### (e) Disclosure to institutions
 
@@ -52,7 +52,7 @@ Notwithstanding paragraphs (4) and (5) of subsection (a) of section 605 of the F
 
 #### References in Text
 
-The Fair Credit Reporting Act, referred to in subsec. (a), is title VI of Pub. L. 90–321, as added by Pub. L.91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1127, as amended, which is classified generally to subchapter III (§1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Fair Credit Reporting Act, referred to in subsec. (a), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1127, as amended, which is classified generally to subchapter III (§1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 #### Prior Provisions
 
@@ -60,9 +60,9 @@ A prior section 1080a, Pub. L. 89–329, title IV, §430A, as added Pub. L. 99�
 
 #### Amendments
 
-2009—Subsec. (f). Pub. L. 111–39, in introductory provisions, substituted “and (5)” for “and (6)” and “(a)(5)” for “(a)(6)”.
+<b>2009</b>—Subsec. (f). Pub. L. 111–39, in introductory provisions, substituted “and (5)” for “and (6)” and “(a)(5)” for “(a)(6)”.
 
-2008—Pub. L. 110–315, §432(a)(1), substituted “consumer reporting agencies” for “credit bureaus” in section catchline.
+<b>2008</b>—Pub. L. 110–315, §432(a)(1), substituted “consumer reporting agencies” for “credit bureaus” in section catchline.
 
 Subsec. (a). Pub. L. 110–315, §432(a)(2)(B)–(D), added pars. (1) and (3) and redesignated former pars. (1), (2) and (3) as (2), (4) and (5), respectively.
 
@@ -78,11 +78,11 @@ Subsec. (c)(4)(A). Pub. L. 110–315, §432(a)(4)(B)(ii), substituted “consume
 
 Subsec. (d). Pub. L. 110–315, §432(a)(5), substituted “consumer reporting agency” for “credit bureau organization”.
 
-1993—Subsec. (f)(1). Pub. L. 103–208 substituted a semicolon for the comma at end.
+<b>1993</b>—Subsec. (f)(1). Pub. L. 103–208 substituted a semicolon for the comma at end.
 
-1992—Subsec. (f). Pub. L. 102–325 struck out “or” at end of par. (1), added pars. (2) and (3), and struck out former par. (2) which read as follows: “with regard to an account on a loan on which the Secretary or the guaranty agency has paid a claim but not reported the account to a consumer reporting agency on or before October 1, 1985, 7 years from that date.”
+<b>1992</b>—Subsec. (f). Pub. L. 102–325 struck out “or” at end of par. (1), added pars. (2) and (3), and struck out former par. (2) which read as follows: “with regard to an account on a loan on which the Secretary or the guaranty agency has paid a claim but not reported the account to a consumer reporting agency on or before October 1, 1985, 7 years from that date.”
 
-1987—Subsec. (e). Pub. L. 100–50 inserted sentence at end permitting an eligible institution to enter into arrangements with holders of delinquent loans made to borrowers for purpose of providing current information on borrower's location or employment or to assist holder in contacting and influencing borrower to avoid default.
+<b>1987</b>—Subsec. (e). Pub. L. 100–50 inserted sentence at end permitting an eligible institution to enter into arrangements with holders of delinquent loans made to borrowers for purpose of providing current information on borrower's location or employment or to assist holder in contacting and influencing borrower to avoid default.
 
 #### Effective Date of 2009 Amendment
 

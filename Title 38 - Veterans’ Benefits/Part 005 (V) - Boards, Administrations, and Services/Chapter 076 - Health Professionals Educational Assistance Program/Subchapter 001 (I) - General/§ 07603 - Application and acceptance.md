@@ -22,15 +22,15 @@
 
 #### Amendments
 
-2000—Subsec. (a)(1). Pub. L. 106–419 substituted “subchapter” for “subsection”.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–419 substituted “subchapter” for “subsection”.
 
-1998—Subsec. (a). Pub. L. 105–368, §805(3)(A), designated existing provisions as par. (1), substituted “To apply to participate in the Educational Assistance Program under subsection II, III, V, or VI of this chapter,” for “To apply to participate in the Educational Assistance Program,”, and added par. (2).
+<b>1998</b>—Subsec. (a). Pub. L. 105–368, §805(3)(A), designated existing provisions as par. (1), substituted “To apply to participate in the Educational Assistance Program under subsection II, III, V, or VI of this chapter,” for “To apply to participate in the Educational Assistance Program,”, and added par. (2).
 
 Subsec. (b)(1). Pub. L. 105–368, §805(3)(B), inserted “(if required)” before period at end.
 
-1994—Subsecs. (a), (c)(1)(B). Pub. L. 103–446 substituted “Veterans Health Administration” for “Department of Medicine and Surgery”.
+<b>1994</b>—Subsecs. (a), (c)(1)(B). Pub. L. 103–446 substituted “Veterans Health Administration” for “Department of Medicine and Surgery”.
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 4303 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 4303 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83 substituted “Secretary” for “Administrator”.
 

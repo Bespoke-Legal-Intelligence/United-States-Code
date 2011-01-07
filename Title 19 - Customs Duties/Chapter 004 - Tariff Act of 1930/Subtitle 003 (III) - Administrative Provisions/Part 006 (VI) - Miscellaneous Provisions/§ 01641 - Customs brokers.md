@@ -80,7 +80,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(iii) involved larceny, theft, robbery, extortion, forgery, counterfeiting, fraudulent concealment, embezzlement, fraudulent conversion, or misappropriation of funds;
 
-&emsp;&emsp;(C) has violated any provision of any law enforced by the Customs Service or the rulesor regulations issued under any such provision;
+&emsp;&emsp;(C) has violated any provision of any law enforced by the Customs Service or the rules or regulations issued under any such provision;
 
 &emsp;&emsp;(D) has counseled, commanded, induced, procured, or knowingly aided or abetted the violations by any other person of any provision of any law enforced by the Customs Service, or the rules or regulations issued under any such provision;
 
@@ -160,7 +160,7 @@ The Secretary may prescribe such rules and regulations relating to the customs b
 
 The Secretary may prescribe reasonable fees and charges to defray the costs of the Customs Service in carrying out the provisions of this section, including, but not limited to, a fee for licenses issued under subsection (b) of this section and fees for any test administered by him or under his direction; except that no separate fees shall be imposed to defray the costs of an individual audit or of individual disciplinary proceedings of any nature.
 
-(June 17, 1930, ch. 497, title IV, §641, 46 Stat. 759; Aug. 26, 1935, ch. 689, §§3–5, 49 Stat. 864, 865; Pub. L. 85–791, §8, Aug. 28, 1958, 72 Stat. 945; Pub. L. 91–271, title III, §301(jj), June 2, 1970, 84 Stat. 291; Pub. L. 95–410, title I, §113, Oct. 3, 1978, 92 Stat. 898; Pub. L. 96–417, title VI, §611, Oct. 10, 1980, 94 Stat. 1746; Pub. L. 98–573, title II, §212(a), Oct. 30, 1984, 98 Stat. 2978; Pub. L. 99–514, title XVIII, §1888(8), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 103–182, title VI, §648, Dec. 8, 1993, 107 Stat. 2207; Pub. L. 104–295, §21(e)(11), Oct. 11, 1996, 110 Stat. 3531; Pub. L. 105–258, title III, §302(b), Oct. 14, 1998, 112 Stat. 1916.)
+(June 17, 1930, ch. 497, title IV, §641, 46 Stat. 759; Aug. 26, 1935, ch. 689, §§3–5, 49 Stat. 864, 865; Pub. L. 85–791, §8, Aug. 28, 1958, 72 Stat. 945; Pub. L. 91–271, title III, §301(jj), June 2, 1970, 84 Stat. 291; Pub. L. 95–410, title I, §113, Oct. 3, 1978, 92 Stat.898; Pub. L. 96–417, title VI, §611, Oct. 10, 1980, 94 Stat. 1746; Pub. L. 98–573, title II, §212(a), Oct. 30, 1984, 98 Stat. 2978; Pub. L. 99–514, title XVIII, §1888(8), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 103–182, title VI, §648, Dec. 8, 1993, 107 Stat. 2207; Pub. L. 104–295, §21(e)(11), Oct. 11, 1996, 110 Stat. 3531; Pub. L. 105–258, title III, §302(b), Oct. 14, 1998, 112 Stat. 1916.)
 
 #### Prior Provisions
 
@@ -172,11 +172,11 @@ Act June 10, 1910, ch. 283, §3, 36 Stat. 465, prior to its incorporation into t
 
 #### Amendments
 
-1998—Subsec. (i). Pub. L. 105–258 struck out subsec. (i) which prohibited conference or group of two or more ocean common carriers from denying any member the right to take independent action on any level of compensation paid to an ocean freight forwarder who was also a customs broker, and from agreeing to limit payment to such a forwarder to less than 1.25 percent of aggregate of tariff rates and charges, and set out provisions relating to administration of provisions, remedies for violations, and definitions.
+<b>1998</b>—Subsec. (i). Pub. L. 105–258 struck out subsec. (i) which prohibited conference or group of two or more ocean common carriers from denying any member the right to take independent action on any level of compensation paid to an ocean freight forwarder who was also a customs broker, and from agreeing to limit payment to such a forwarder to less than 1.25 percent of aggregate of tariff rates and charges, and set out provisions relating to administration of provisions, remedies for violations, and definitions.
 
-1996—Subsec. (d)(2)(B). Pub. L. 104–295 substituted “the findings of fact” for “his findings of fact” in penultimate sentence.
+<b>1996</b>—Subsec. (d)(2)(B). Pub. L. 104–295 substituted “the findings of fact” for “his findings of fact” in penultimate sentence.
 
-1993—Subsec. (a)(2). Pub. L. 103–182, §648(1), inserted at end “It also includes the preparation of documents or forms in any format and the electronic transmission of documents, invoices, bills, or parts thereof, intended to be filed with the Customs Service in furtherance of such activities, whether or not signed or filed by the preparer, or activities relating to such preparation, but does not include the mere electronic transmission of data received for transmission to Customs.”
+<b>1993</b>—Subsec. (a)(2). Pub. L. 103–182, §648(1), inserted at end “It also includes the preparation of documents or forms in any format and the electronic transmission of documents, invoices, bills, or parts thereof, intended to be filed with the Customs Service in furtherance of such activities, whether or not signed or filed by the preparer, or activities relating to such preparation, but does not include the mere electronic transmission of data received for transmission to Customs.”
 
 Subsec. (c)(1). Pub. L. 103–182, §648(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Each person granted a customs broker's license under subsection (b) of this section shall—
 
@@ -190,19 +190,19 @@ Subsec. (d)(2)(B). Pub. L. 103–182, §648(4), in first sentence, substituted �
 
 Subsec. (f). Pub. L. 103–182, §648(5), substituted “Customs Service. The Secretary may not prohibit customs brokers from limiting their liability to other persons in the conduct of customs business. For purposes of this subsection or any other provision of this Act pertaining to recordkeeping, all data required to be retained by a customs broker may be kept on microfilm, optical disc, magnetic tapes, disks or drums, video files or any other electrically generated medium. Pursuant to such regulations as the Secretary shall prescribe, the conversion of data to such storage medium may be accomplished at any time subsequent to the relevant customs transaction and the data may be retained in a centralized basis according to such broker's business system.” for “United States Customs Service.”
 
-1986—Subsec. (i). Pub. L. 99–514 added subsec. (i).
+<b>1986</b>—Subsec. (i). Pub. L. 99–514 added subsec. (i).
 
-1984—Pub. L. 98–573 amended section generally, substituting provisions relating to customs broker's licenses and permits for provisions relating to licensing of customhouse brokers.
+<b>1984</b>—Pub. L. 98–573 amended section generally, substituting provisions relating to customs broker's licenses and permits for provisions relating to licensing of customhouse brokers.
 
-1980—Subsec. (b). Pub. L. 96–417, in second par., substituted in second sentence “filing, in the Court of International Trade” for “filing, in the circuit court of appeals of the United States within any circuit wherein such person resides or has his principal place of business, or in the United States Court of Appeals for the District of Columbia” and struck out penultimate sentence which read as follows: “The judgment and decree of the court affirming, modifying, or setting aside, in whole or in part, any such order of the Secretary of the Treasury shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in 1254 of title 28.”
+<b>1980</b>—Subsec. (b). Pub. L. 96–417, in second par., substituted in second sentence “filing, in the Court of International Trade” for “filing, in the circuit court of appeals of the United States within any circuit wherein such person resides or has his principal place of business, or in the United States Court of Appeals for the District of Columbia” and struck out penultimate sentence which read as follows: “The judgment and decree of the court affirming, modifying, or setting aside, in whole or in part, any such order of the Secretary of the Treasury shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in 1254 of title 28.”
 
-1978—Subsec. (e). Pub. L. 95–410 added subsec. (e).
+<b>1978</b>—Subsec. (e). Pub. L. 95–410 added subsec. (e).
 
-1970—Subsec. (b). Pub. L. 91–271 substituted references to appropriate officer of the customs for references to collector or chief officer of customs wherever appearing.
+<b>1970</b>—Subsec. (b). Pub. L. 91–271 substituted references to appropriate officer of the customs for references to collector or chief officer of customs wherever appearing.
 
-1958—Subsec. (b). Pub. L. 85–791 in third sentence of second par., substituted “transmitted by the clerk of the court to” for “served upon”, struck out “upon” before “any officer”, “certify and” before “file in the court”, “a transcript of” before “the record upon” and inserted “as provided in section 2112 of title 28”, and in fourth sentence of second par., substituted “petition” for “transcript”.
+<b>1958</b>—Subsec. (b). Pub. L. 85–791 in third sentence of second par., substituted “transmitted by the clerk of the court to” for “served upon”, struck out “upon” before “any officer”, “certify and” before “file in the court”, “a transcript of” before “the record upon” and inserted “as provided in section 2112 of title 28”, and in fourth sentence of second par., substituted “petition” for “transcript”.
 
-1935—Subsec. (a). Act Aug. 26, 1935, §3, substituted “(c)” for “(e)” in last sentence.
+<b>1935</b>—Subsec. (a). Act Aug. 26, 1935, §3, substituted “(c)” for “(e)” in last sentence.
 
 Subsecs. (b) to (d). Act Aug. 26, 1935, §4, amended subsecs. (b) to (d) generally.
 
@@ -218,7 +218,7 @@ Amendment by Pub. L. 98–573 effective on close of 180th day following Oct. 30,
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–417 applicable with respect to civil actions commenced on or after Nov. 1, 1980, see section 701(b)(2) of Pub. L. 96–417, set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 96–417 applicable with respect to civil actions commenced on or after Nov. 1, 1980, seesection 701(b)(2) of Pub. L. 96–417, set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1970 Amendment
 

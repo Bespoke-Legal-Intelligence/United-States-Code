@@ -48,15 +48,15 @@
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(3)(A), was in the original “this Act”, meaning Pub. L. 101–610, Nov.16, 1990, 104 Stat. 3127, known as the National and Community Service Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
+This chapter, referred to in subsec. (a)(3)(A), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, known as the National and Community Service Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
 #### Amendments
 
-2009—Subsec. (b)(1). Pub. L. 111–13, §1602(1), which directed substitution of “authorizing committees, the Committee on Appropriations of the House of Representatives, and the Committee on Appropriations of the Senate” for “appropriate authorizing and appropriations Committees of Congress”, was executed by making the substitution for “appropriate authorizing and appropriation Committees of Congress” to reflect the probable intent of Congress.
+<b>2009</b>—Subsec. (b)(1). Pub. L. 111–13, §1602(1), which directed substitution of “authorizing committees, the Committee on Appropriations of the House of Representatives, and the Committee on Appropriations of the Senate” for “appropriate authorizing and appropriations Committees of Congress”, was executed by making the substitution for “appropriate authorizing and appropriation Committees of Congress” to reflect the probable intent of Congress.
 
 Subsec. (c)(2). Pub. L. 111–13, §1602(2), substituted “the authorizing committees, the Committee on Armed Services of the House of Representatives, and the Committee on Armed Services of the Senate” for “the appropriate committees of Congress”.
 
-1993—Subsec. (a)(1). Pub. L. 103–82, §402(b)(1), substituted “Corporation” for “Commission”.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–82, §402(b)(1), substituted “Corporation” for “Commission”.
 
 Subsec. (a)(3)(A). Pub. L. 103–82, §114(1), substituted “section 12637” for “sections 12637 and 12523(9)”.
 

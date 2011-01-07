@@ -38,7 +38,7 @@ The Secretary shall review and approve or disapprove each State plan not later t
 
 #### Amendments
 
-1998—Subsec. (a)(1). Pub. L. 105–388, §5(a)(10)(A), substituted semicolon for comma at end.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–388, §5(a)(10)(A), substituted semicolon for comma at end.
 
 Subsec. (a)(2). Pub. L. 105–388, §5(a)(10)(B), substituted semicolon for period at end.
 

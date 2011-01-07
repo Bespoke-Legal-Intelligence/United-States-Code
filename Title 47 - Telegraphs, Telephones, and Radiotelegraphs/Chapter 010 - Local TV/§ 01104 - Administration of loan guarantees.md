@@ -12,7 +12,7 @@ The Administrator of the Rural Utilities Service (in this chapter referred to as
 
 &emsp;&emsp;(A) shall maintain assets, equipment, facilities, and operations on a continuing basis;
 
-&emsp;&emsp;(B) shall not make any discretionary dividend payments that impair its ability torepay obligations guaranteed under this chapter;
+&emsp;&emsp;(B) shall not make any discretionary dividend payments that impair its ability to repay obligations guaranteed under this chapter;
 
 &emsp;&emsp;(C) shall remain sufficiently capitalized; and
 
@@ -72,7 +72,7 @@ The Board may approve the adjustment of any term or condition of a loan guarante
 
 #### (1) Performance schedules
 
-&emsp;An applicant for a loan guarantee under this chapter for a project covered by section 1103(e)(1) <sup>1</sup> of this title shall enter into stipulated performance schedules with the Administrator with respect to the signals to be provided through the project.
+&emsp;An applicant for a loan guarantee under this chapter for a project covered by section1103(e)(1) <sup>1</sup> of this title shall enter into stipulated performance schedules with the Administrator with respect to the signals to be provided through the project.
 
 #### (2) Penalty
 
@@ -88,7 +88,7 @@ A loan guarantee under this chapter shall be incontestable—
 
 &emsp;(1) in the hands of an applicant on whose behalf the loan guarantee is made, unless the applicant engaged in fraud or misrepresentation in securing the loan guarantee; and
 
-&emsp;(2) as to any person or entity (or their respective successor in interest) who makes or contracts to make a loan to the applicant forthe loan guarantee in reliance thereon, unless such person or entity (or respective successor in interest) engaged in fraud or misrepresentation in making or contracting to make such loan.
+&emsp;(2) as to any person or entity (or their respective successor in interest) who makes or contracts to make a loan to the applicant for the loan guarantee in reliance thereon, unless such person or entity (or respective successor in interest) engaged in fraud or misrepresentation in making or contracting to make such loan.
 
 #### (i) Defaults
 
@@ -192,7 +192,7 @@ Section 1103(e)(1) of this title, referred to in subsec. (f)(1), was in the orig
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–171, §6404(b)(2)(A), made technical amendments to references in original Act which appear in text as references to sections 1102 and 1103 of this title.
+<b>2002</b>—Subsec. (a). Pub. L. 107–171, §6404(b)(2)(A), made technical amendments to references in original Act which appear in text as references to sections 1102 and 1103 of this title.
 
 Subsec. (b)(1)(D). Pub. L. 107–171, §6404(b)(2)(B)(i), made technical amendment to reference in original Act which appears in text as a reference to section 1105(a)(2) of this title.
 

@@ -88,7 +88,7 @@ In subsection (c), the words “with like effect as if made personally upon such
 
 #### Amendments
 
-2001—Subsec. (a)(1). Pub. L. 107–71, §140(b)(1), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–71, §140(b)(1), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
 
 Subsec. (a)(2)(A). Pub. L. 107–71, §140(b)(2), substituted “, Under Secretary, or Administrator” for “or Administrator”.
 

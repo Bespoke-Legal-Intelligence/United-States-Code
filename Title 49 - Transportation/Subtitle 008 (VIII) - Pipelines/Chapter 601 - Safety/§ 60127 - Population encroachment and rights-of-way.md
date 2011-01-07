@@ -54,7 +54,7 @@ The date of enactment of this subsection, referred to in subsec. (d)(1), is the 
 
 #### Amendments
 
-2002—Pub. L. 107–355 substituted “Population encroachment and rights-of-way” for “Population encroachment” in section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>2002</b>—Pub. L. 107–355 substituted “Population encroachment and rights-of-way” for “Population encroachment” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a)
 

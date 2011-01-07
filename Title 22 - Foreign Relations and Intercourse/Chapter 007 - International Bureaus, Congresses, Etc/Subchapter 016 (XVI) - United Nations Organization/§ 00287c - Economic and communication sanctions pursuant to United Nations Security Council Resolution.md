@@ -6,7 +6,7 @@ Notwithstanding the provisions of any other law, whenever the United States is c
 
 #### (b) Penalties
 
-Any person who willfully violates or evades or attempts to violate or evade any order, rule, or regulation issued by the President pursuant to subsection (a) of this section shall, upon conviction, be find <sup>1</sup> not more than $10,000 or, if a natural person, be imprisoned for not more than ten years, or both; and the officer, director, or agent of any corporation who knowingly participates in such violation or evasion shall be punished by a like fine, imprisonment, or both, and any property, funds, securities, papers, or other articles or documents, or any vessel, together with her tackle, apparel, furniture, and equipment, or vehicle, or aircraft, concerned in such violation shall be forfeited to the United States.
+Any person who willfully violates or evades or attempts to violate or evade any order, rule, or regulation issued by the President pursuant to subsection (a) of this section shall, upon conviction, be fined not more than $1,000,000 or, if a natural person, be imprisoned for not more than 20 years, or both.
 
 #### (c) Steel mill products containing chromium; certificate of origin; regulations; subpenas; certificate exemption; release from customs custody; definitions
 
@@ -32,7 +32,7 @@ Any person who willfully violates or evades or attempts to violate or evade any 
 
 &emsp;(B) the term “Secretary” means the Secretary of the Treasury.
 
-(Dec. 20, 1945, ch. 583, §5, 59 Stat. 620; Oct. 10, 1949, ch. 660, §3, 63 Stat. 735; Pub. L. 95–12, §1, Mar. 18, 1977, 91 Stat. 22.)
+(Dec. 20, 1945, ch. 583, §5, 59 Stat. 620; Oct. 10, 1949, ch. 660, §3, 63 Stat. 735; Pub. L. 95–12, §1, Mar. 18, 1977, 91 Stat. 22; Pub. L. 111–195, title I, §107(a)(1), July 1, 2010, 124 Stat. 1337.)
 
 #### References in Text
 
@@ -40,11 +40,13 @@ Article 41 of said Charter, referred to in subsec. (a), is an article of the Uni
 
 #### Amendments
 
-1977—Subsec. (a). Pub. L. 95–12, §1(1), inserted provision permitting enforcement of any Executive order, issued under this subsection, applying measures against Southern Rhodesia and permitting Presidential exemption from that Executive order of any shipment of chromium in transit to the United States on Mar. 18, 1977.
+<b>2010</b>—Subsec. (b). Pub. L. 111–195 substituted “fined not more than $1,000,000” for “find not more than $10,000” and “20 years, or both.” for “ten years, or both; and the officer, director, or agent of any corporation who knowingly participates in such violation or evasion shall be punished by a like fine, imprisonment, or both, and any property, funds, securities, papers, or other articles or documents, or any vessel, together with her tackle, apparel, furniture, and equipment, or vehicle, or aircraft, concerned in such violation shall be forfeited to the United States.”
+
+<b>1977</b>—Subsec. (a). Pub. L. 95–12, §1(1), inserted provision permitting enforcement of any Executive order, issued under this subsection, applying measures against Southern Rhodesia and permitting Presidential exemption from that Executive order of any shipment of chromium in transit to the United States on Mar. 18, 1977.
 
 Subsec. (c). Pub. L. 95–12, §1(2), added subsec. (c).
 
-1949—Subsec. (b). Act Oct. 10, 1949, made aircraft subject to forfeiture.
+<b>1949</b>—Subsec. (b). Act Oct. 10, 1949, made aircraft subject to forfeiture.
 
 #### Importation of Strategic and Critical Materials From Zimbabwe-Rhodesia
 
@@ -80,7 +82,7 @@ Ex. Ord. No. 11419, July 29, 1968, 33 F.R. 10837, which related to trade and oth
 
 Ex. Ord. No. 12183, Dec. 16, 1979, 44 F.R. 74787, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 5 of the United Nations Participation Act of 1945, as amended (22 U.S.C. 287c), and in order to terminate current limitations relating to trade and other transactions involving Zimbabwe-Rhodesia, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and statutes of the United States ofAmerica, including Section 5 of the United Nations Participation Act of 1945, as amended (22 U.S.C. 287c), and in order to terminate current limitations relating to trade and other transactions involving Zimbabwe-Rhodesia, it is hereby ordered as follows:
 
 1–101. (a) Subject to the provisions of this order, the following are hereby revoked with respect to transactions occurring after the effective date of this order:
 
@@ -133,6 +135,4 @@ Sec. 6. <i>Judicial Review</i>. Nothing contained in this order shall create any
 Sec. 7. <i>Effective Date</i>. This order shall take effect at 11:59 p.m. eastern daylight time on May 26, 1994.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<i><sup>1</sup></i><i> So in original. Probably should be “fined”.</i>
 

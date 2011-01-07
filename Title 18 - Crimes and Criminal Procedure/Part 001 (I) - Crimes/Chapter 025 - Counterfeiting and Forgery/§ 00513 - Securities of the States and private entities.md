@@ -6,13 +6,13 @@
 
 (c) For purposes of this section—
 
-&emsp;(1) the term “counterfeited” means a document that purports to be genuine but is not, because it has been falsely made or manufactured in its entirety;
+&emsp;(1) the term “counterfeited” means a document that purports to be genuine but is not,because it has been falsely made or manufactured in its entirety;
 
 &emsp;(2) the term “forged” means a document that purports to be genuine but is not because it has been falsely altered, completed, signed, or endorsed, or contains a false addition thereto or insertion therein, or is a combination of parts of two or more genuine documents;
 
 &emsp;(3) the term “security” means—
 
-&emsp;&emsp;(A) a note, stock certificate, treasury stock certificate, bond, treasury bond, debenture, certificate of deposit, interest coupon, bill, check, draft, warrant, debit instrument as defined in section 916(c) of the Electronic Fund Transfer Act, money order, traveler's check, letter of credit, warehouse receipt, negotiable bill of lading, evidence of indebtedness, certificate of interest in or participation in any profit-sharing agreement, collateral-trust certificate, pre-reorganization certificate of subscription, transferable share, investment contract, voting trust certificate, or certificate of interest in tangible or intangible property;
+&emsp;&emsp;(A) a note, stock certificate, treasury stock certificate, bond, treasury bond, debenture, certificate of deposit, interest coupon, bill, check, draft, warrant, debit instrument as defined in section 916(c) <sup>2</sup> of the Electronic Fund Transfer Act, money order, traveler's check, letter of credit, warehouse receipt, negotiable bill of lading, evidence of indebtedness, certificate of interest in or participation in any profit-sharing agreement, collateral-trust certificate, pre-reorganization certificate of subscription, transferable share, investment contract, voting trust certificate, or certificate of interest in tangible or intangible property;
 
 &emsp;&emsp;(B) an instrument evidencing ownership of goods, wares, or merchandise;
 
@@ -30,17 +30,19 @@
 
 #### References in Text
 
-Section 916(c) of the Electronic Fund Transfer Act, referred to in subsec. (c)(3)(A), is classified to section 1693n(c) of Title 15, Commerce and Trade.
+Section 916 of the Electronic Fund Transfer Act, referred to in subsec. (c)(3)(A), was renumbered section 917 by Pub. L. 111–24, title IV, §401(1), May 22, 2009, 123 Stat. 1751, and is classified to section 1693n of Title 15, Commerce and Trade.
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–322, §330016(2)(C), which directed the amendment of this section by substituting “under this title” for “of not more than $250,000”, was executed by making the substitution for “not more than $250,000”, to reflect the probable intent of Congress.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §330016(2)(C), which directed the amendment of this section by substituting “under this title” for “of not more than $250,000”, was executed by making the substitution for “not more than $250,000”, to reflect the probable intent of Congress.
 
 Subsec. (b). Pub. L. 103–322, §330016(2)(C), substituted “fine under this title” for “fine of not more than $250,000”.
 
 Subsec. (c)(4). Pub. L. 103–322, §330008(1), substituted “association of persons” for “association or persons”.
 
-1990—Subsec. (c)(3)(A). Pub. L. 101–647 struck out “(15 U.S.C. 1693(c))” after “Electronic Fund Transfer Act” and inserted comma after “profit-sharing agreement”.
+<b>1990</b>—Subsec. (c)(3)(A). Pub. L. 101–647 struck out “(15 U.S.C. 1693(c))” after “Electronic Fund Transfer Act” and inserted comma after “profit-sharing agreement”.
 
 <i><sup>1</sup></i><i> See 1994 Amendment note below.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

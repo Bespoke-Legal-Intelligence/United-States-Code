@@ -1,7 +1,5 @@
 ### SUBCHAPTER I—FACILITIES FOR WATER STORAGE AND UTILIZATION
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

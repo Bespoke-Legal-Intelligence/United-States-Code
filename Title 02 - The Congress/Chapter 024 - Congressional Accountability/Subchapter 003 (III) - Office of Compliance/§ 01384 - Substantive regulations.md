@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The procedures applicable to the regulations of the Board issued for the implementation of this chapter, which shall include regulations the Board is required to issue under subchapter II of this chapter (including regulations on the appropriate application of exemptions under the laws made applicable in subchapter II of this chapter) are as prescribed in this section.
+&emsp;The procedures applicable to the regulations of the Board issued for the implementation of this chapter, which shall include regulationsthe Board is required to issue under subchapter II of this chapter (including regulations on the appropriate application of exemptions under the laws made applicable in subchapter II of this chapter) are as prescribed in this section.
 
 #### (2) Rulemaking procedure
 
@@ -104,5 +104,7 @@ The Executive Director, the Deputy Directors, and the Board—
 
 #### References in Text
 
-Subchapter II of this chapter, referred to in subsec. (a)(1), was in the original “title II”, meaning title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, as amended, which enacted subchapter II of this chapter and amended section 6381 of Title 5, Government Organization and Employees, sections 203, 633a, 2611, and 2617 of Title 29, Labor, and sections 2000e–16 and 12209 of Title 42, The Public Health and Welfare. For complete classification of title II to the Code, see Tables.
+This chapter, referred to in subsec. (a)(1) after “implementation of”, was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
+
+Subchapter II of this chapter, referred to in subsec. (a)(1), was in the original “title II”, meaning title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to subchapter II of this chapter. For complete classification of title II to the Code, see Tables.
 

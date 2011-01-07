@@ -28,7 +28,7 @@ If an officer, employee, or committee of an agency determines that a decision is
 
 #### (e) Division personnel
 
-The Director shall appoint such hearing officers and other employees as are necessary forthe administration of the Division. A hearing officer or other employee of the Division shall have no duties other than those that are necessary to carry out this subchapter.
+The Director shall appoint such hearing officers and other employees as are necessary for the administration of the Division. A hearing officer or other employee of the Division shall have no duties other than those that are necessary to carry out this subchapter.
 
 (Pub. L. 103–354, title II, §272, Oct. 13, 1994, 108 Stat. 3229.)
 

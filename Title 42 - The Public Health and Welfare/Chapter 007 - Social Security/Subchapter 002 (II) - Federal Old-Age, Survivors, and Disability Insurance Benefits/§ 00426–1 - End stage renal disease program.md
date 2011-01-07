@@ -56,13 +56,13 @@ Section 425(c) of this title, referred to in subsec. (c), was repealed by Pub. L
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–296 added subsec. (c) relating to continuing eligibility of certain terminated individuals.
+<b>1994</b>—Subsec. (c). Pub. L. 103–296 added subsec. (c) relating to continuing eligibility of certain terminated individuals.
 
-1986—Subsec. (a)(1)(A)(ii), (B)(iii). Pub. L. 99–272 substituted “medicare qualified government employment” for “medicare qualified Federal employment”.
+<b>1986</b>—Subsec. (a)(1)(A)(ii), (B)(iii). Pub. L. 99–272 substituted “medicare qualified government employment” for “medicare qualified Federal employment”.
 
-1983—Subsec. (a)(1)(B)(iii). Pub. L. 97–448 substituted “section 410(p)” for “410(p)” and struck out “after December 31, 1982,”.
+<b>1983</b>—Subsec. (a)(1)(B)(iii). Pub. L. 97–448 substituted “section 410(p)” for “410(p)” and struck out “after December 31, 1982,”.
 
-1982—Subsec. (a)(1)(A). Pub. L. 97–248 designated existing provisions as cl. (i), substituted “within the meaning of the term ‘employment’ for purposes of this subchapter” for “in the term ‘employment’ as defined in this chapter”, and added cl. (ii).
+<b>1982</b>—Subsec. (a)(1)(A). Pub. L. 97–248 designated existing provisions as cl. (i), substituted “within the meaning of the term ‘employment’ for purposes of this subchapter” for “in the term ‘employment’ as defined in this chapter”, and added cl. (ii).
 
 Subsec. (a)(1)(B). Pub. L. 97–248 designated “is entitled to monthly insurance benefits under this subchapter” as cl. (i), substituted “(ii) is entitled to an annuity under the Railroad Retirement Act of 1974” for “or an annuity under the Railroad Retirement Act of 1974”, and added cl. (iii).
 

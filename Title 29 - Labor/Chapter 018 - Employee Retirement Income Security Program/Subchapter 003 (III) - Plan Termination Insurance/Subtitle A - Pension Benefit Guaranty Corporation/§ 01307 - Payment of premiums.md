@@ -2,7 +2,7 @@
 
 #### (a) Premiums payable when due; accrual; waiver or reduction
 
-The designated payor of each plan shall pay the premiums imposed by the corporation under this subchapter with respect to that plan when they are due. Premiums under this subchapter are payable at the time, and on an estimated, advance, or other basis, as determined by the corporation. Premiums imposed by this subchapter on September 2, 1974 (applicable to that portion of any plan year during which such date occurs) are due within 30 days after such date. Premiums imposed by this subchapter on the first plan year commencing after September 2, 1974, are due within 30 days after such plan year commences. Premiums shall continue to accrue until a plan's assets are distributed pursuant to a termination procedure, or until a trustee is appointed pursuant to section 1342 of this title, whichever is earlier. The corporation may waive or reduce premiums for a multiemployer plan for any plan year during which such plan receives financial assistance from the corporation under section 1431 of this title, except that any amount so waived or reduced shall be treated as financial assistance under such section.
+The designated payor of each plan shall pay the premiums imposed by the corporation under this subchapter with respect to that plan when they are due. Premiums under this subchapter are payable at the time, and on an estimated,advance, or other basis, as determined by the corporation. Premiums imposed by this subchapter on September 2, 1974 (applicable to that portion of any plan year during which such date occurs) are due within 30 days after such date. Premiums imposed by this subchapter on the first plan year commencing after September 2, 1974, are due within 30 days after such plan year commences. Premiums shall continue to accrue until a plan's assets are distributed pursuant to a termination procedure, or until a trustee is appointed pursuant to section 1342 of this title, whichever is earlier. The corporation may waive or reduce premiums for a multiemployer plan for any plan year during which such plan receives financial assistance from the corporation under section 1431 of this title, except that any amount so waived or reduced shall be treated as financial assistance under such section.
 
 #### (b) Late payment charge; waiver; interest on overpayment
 
@@ -32,15 +32,15 @@ The corporation shall not cease to guarantee basic benefits on account of the fa
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–280 designated existing provisions as par. (1) and added par. (2).
+<b>2006</b>—Subsec. (b). Pub. L. 109–280 designated existing provisions as par. (1) and added par. (2).
 
-1989—Subsec. (b). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1989</b>—Subsec. (b). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1987—Subsecs. (a) to (d). Pub. L. 100–203, §9331(c)(1), substituted “designated payor” for “plan administrator” wherever appearing.
+<b>1987</b>—Subsecs. (a) to (d). Pub. L. 100–203, §9331(c)(1), substituted “designated payor” for “plan administrator” wherever appearing.
 
 Subsec. (e). Pub. L. 100–203, §9331(c)(2), added subsec. (e).
 
-1980—Subsec. (a). Pub. L. 96–364 inserted provisions relating to waiver or reduction of premiums, and struck out provisions relating to payment of premiums under statutory requirements respecting contingent liability coverage.
+<b>1980</b>—Subsec. (a). Pub. L. 96–364 inserted provisions relating to waiver or reduction of premiums, and struck out provisions relating to payment of premiums under statutory requirements respecting contingent liability coverage.
 
 #### Effective Date of 2006 Amendment
 

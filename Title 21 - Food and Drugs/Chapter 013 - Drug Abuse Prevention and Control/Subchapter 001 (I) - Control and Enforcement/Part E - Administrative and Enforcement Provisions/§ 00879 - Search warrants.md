@@ -6,7 +6,7 @@ A search warrant relating to offenses involving controlled substances may be ser
 
 #### Amendments
 
-1974—Pub. L. 93–481 struck out designation “(a)” before “A search warrant”, and struck out subsec. (b) which permitted officers authorized to execute search warrants to break open and enter premises under certain circumstances and which required that such officers identify themselves and give reasons and authority for their entry after such entry.
+<b>1974</b>—Pub. L. 93–481 struck out designation “(a)” before “A search warrant”, and struck out subsec. (b) which permitted officers authorized to execute search warrants to break open and enter premises under certain circumstances and which required that such officers identify themselves and give reasons and authority for their entry after such entry.
 
 #### Change of Name
 

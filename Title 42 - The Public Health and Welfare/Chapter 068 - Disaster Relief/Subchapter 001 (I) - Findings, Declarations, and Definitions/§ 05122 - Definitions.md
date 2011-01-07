@@ -24,7 +24,7 @@ Individual with a disability.—The term “individual with a disability” mean
 
 Local government.—The term “local government” means—
 
-&emsp;(A) a county, municipality, city, town, township, local public authority, school district, special district, intrastate district, council of governments (regardless of whether the council of governments is incorporated as a nonprofit corporation under State law), regional or interstate government entity, or agency or instrumentality of a local government;
+&emsp;(A) a county, municipality, city, town, township, local public authority, school district, special district, intrastate district, council ofgovernments (regardless of whether the council of governments is incorporated as a nonprofit corporation under State law), regional or interstate government entity, or agency or instrumentality of a local government;
 
 &emsp;(B) an Indian tribe or authorized tribal organization, or Alaska Native village or organization; and
 
@@ -58,9 +58,13 @@ Additional facilities.—In addition to the facilities described in subparagraph
 
 (Pub. L. 93–288, title I, §102, May 22, 1974, 88 Stat. 144; Pub. L. 100–707, title I, §103(b)–(d), (f), Nov. 23, 1988, 102 Stat. 4689, 4690; Pub. L. 102–247, title II, §205, Feb. 24, 1992, 106 Stat. 38; Pub. L. 106–390, title III, §302, Oct. 30, 2000, 114 Stat. 1572; Pub. L. 109–295, title VI, §688, Oct. 4, 2006, 120 Stat. 1448.)
 
+#### References in Text
+
+This chapter, referred to in introductory provisions and par. (2), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+
 #### Amendments
 
-2006—Pars. (6) to (8). Pub. L. 109–295, §688(2), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively. Former par. (8) redesignated (9).
+<b>2006</b>—Pars. (6) to (8). Pub. L. 109–295, §688(2), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively. Former par. (8) redesignated (9).
 
 Par. (9). Pub. L. 109–295, §688(2), redesignated par. (8) as (9). Former par. (9) redesignated (10).
 
@@ -68,7 +72,7 @@ Pub. L. 109–295, §688(1), amended par. (9) generally. Prior to amendment, tex
 
 Par. (10). Pub. L. 109–295, §688(2), redesignated par. (9) as (10).
 
-2000—Par. (3). Pub. L. 106–390, §302(1), substituted “and the Commonwealth of the Northern Mariana Islands” for “the Northern Mariana Islands, and the Trust Territory of the Pacific Islands”.
+<b>2000</b>—Par. (3). Pub. L. 106–390, §302(1), substituted “and the Commonwealth of the Northern Mariana Islands” for “the Northern Mariana Islands, and the Trust Territory of the Pacific Islands”.
 
 Par. (4). Pub. L. 106–390, §302(1), substituted “and the Commonwealth of the Northern Mariana Islands” for “the Northern Mariana Islands, or the Trust Territory of the Pacific Islands”.
 
@@ -76,9 +80,9 @@ Par. (6). Pub. L. 106–390, §302(2), added par. (6) and struck out former par.
 
 Par. (9). Pub. L. 106–390, §302(3), inserted “irrigation,” after “utility,”.
 
-1992—Pars. (3), (4). Pub. L. 102–247 inserted “the Northern Mariana Islands,” after “American Samoa,”.
+<b>1992</b>—Pars. (3), (4). Pub. L. 102–247 inserted “the Northern Mariana Islands,” after “American Samoa,”.
 
-1988—Par. (1). Pub. L. 100–707, §103(b), inserted heading and amended text generally. Prior to amendment, text read as follows: “ ‘Emergency’ means any hurricane, tornado, storm, flood, high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, drought, fire, explosion, or other catastrophe in any part of the United States which requires Federal emergency assistance to supplement State and local efforts to save lives and protect property, public health and safety or to avert or lessen the threat of a disaster.”
+<b>1988</b>—Par. (1). Pub. L. 100–707, §103(b), inserted heading and amended text generally. Prior to amendment, text read as follows: “ ‘Emergency’ means any hurricane, tornado, storm, flood, high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, drought, fire, explosion, or other catastrophe in any part of the United States which requires Federal emergency assistance to supplement State and local efforts to save lives and protect property, public health and safety or to avert or lessen the threat of a disaster.”
 
 Par. (2). Pub. L. 100–707, §103(c), inserted heading and amended text generally. Prior to amendment, text read as follows: “ ‘Major disaster’ means any hurricane, tornado, storm, flood, high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, drought, fire, explosion, or other catastrophe in any part of the United States which, in the determination of the President, causes damage of sufficient severity and magnitude to warrant major disaster assistance under this chapter, above and beyond emergency services by the Federal Government, to supplement the efforts and available resources of States, local governments, and disaster relief organizations in alleviating the damage, loss, hardship, or suffering caused thereby.”
 
@@ -96,7 +100,7 @@ In general.—The term ‘local government’ is deemed to have the same meaning
 
 “(2)
 
-Termination of effectiveness.—Paragraph (1) shall not be effective on and after the 90th day after the President transmits to the Committee on Public Works and Transportation of the House of Representatives and to the Committee on Environment and Public Works of the Senate a report which includes an interpretation of the term ‘local government’ for purposes of the Disaster Relief and Emergency Assistance Act, as amended by this Act.”
+Termination of effectiveness.—Paragraph (1) shall not be effective on and after the 90th day after thePresident transmits to the Committee on Public Works and Transportation of the House of Representatives and to the Committee on Environment and Public Works of the Senate a report which includes an interpretation of the term ‘local government’ for purposes of the Disaster Relief and Emergency Assistance Act, as amended by this Act.”
 
 \[Functions of President under section 103(e)(2) of Pub. L. 100–707 delegated to Administrator of Federal Emergency Management Agency by section 3 of Ex. Ord. No. 12673, Mar. 23, 1989, 54 F.R. 12571, set out as a note under section 5195 of this title.\]
 

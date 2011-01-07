@@ -42,17 +42,17 @@ Section was formerly classified to section 1857f–7 of this title.
 
 #### Amendments
 
-1990—Par. (1). Pub. L. 101–549, §223(b), inserted references to new nonroad vehicles or new nonroad engines.
+<b>1990</b>—Par. (1). Pub. L. 101–549, §223(b), inserted references to new nonroad vehicles or new nonroad engines.
 
 Pars. (7) to (11). Pub. L. 101–549, §223(a), added pars. (7) to (11).
 
-1970—Pub. L. 91–604, §11(a)(2)(A), substituted “part” for “subchapter”.
+<b>1970</b>—Pub. L. 91–604, §11(a)(2)(A), substituted “part” for “subchapter”.
 
 Par. (1). Pub. L. 91–604, §10(d)(1), inserted reference to section 7521 of this title.
 
 Par. (3). Pub. L. 91–604, §10(d)(2), inserted provisions which defined such terms with respect to imported vehicles or engines.
 
-1967—Pub. L. 90–148 inserted “as used in sections 7522, 7525, 7541, and 7542 of this title” after “manufacturer” in par. (1).
+<b>1967</b>—Pub. L. 90–148 inserted “as used in sections 7522, 7525, 7541, and 7542 of this title” after “manufacturer” in par. (1).
 
 <i><sup>1</sup></i><i> So in original. Probably should be set off by quotation marks.</i>
 

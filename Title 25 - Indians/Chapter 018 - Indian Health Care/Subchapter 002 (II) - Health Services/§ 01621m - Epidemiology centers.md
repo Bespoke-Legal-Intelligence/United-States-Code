@@ -1,66 +1,112 @@
 ### §1621m. Epidemiology centers
 
-(a)(1) The Secretary shall establish an epidemiology center in each Service area to carry out the functions described in paragraph (3).
+#### (a) Establishment of centers
 
-(2) To assist such centers in carrying out such functions, the Secretary shall perform the following:
+#### (1) In general
 
-&emsp;(A) In consultation with the Centers for Disease Control and Indian tribes, develop sets of data (which to the extent practicable, shall be consistent with the uniform data sets used by the States with respect to the year 2000 health objectives) for uniformly defining health status for purposes of the objectives specified in section 1602(b) of this title. Such sets shall consist of one or more categories of information. The Secretary shall develop formats for the uniform collecting and reporting of information on such categories.
+&emsp;The Secretary shall establish an epidemiology center in each Service area to carry out the functions described in subsection (b).
 
-&emsp;(B) Establish and maintain a system for monitoring the progress made toward meeting each of the health status objectives described in section 1602(b) of this title.
+#### (2) New centers
 
-(3) In consultation with Indian tribes and urban Indian communities, each area epidemiology center established under this subsection shall, with respect to such area—
+#### (A) In general
 
-&emsp;(A) collect data relating to, and monitor progress made toward meeting, each of the health status objectives described in section 1602(b) of this title using the data sets and monitoring system developed by the Secretary pursuant to paragraph (2);
+&emsp;&emsp;Subject to subparagraph (B), any new center established after March 23, 2010, may be operated under a grant authorized by subsection (d).
 
-&emsp;(B) evaluate existing delivery systems, data systems, and other systems that impact the improvement of Indian health;
+#### (B) Requirement
 
-&emsp;(C) assist tribes and urban Indian communities in identifying their highest priority health status objectives and the services needed to achieve such objectives, based on epidemiological data;
+&emsp;&emsp;Funding provided in a grant described in subparagraph (A) shall not be divisible.
 
-&emsp;(D) make recommendations for the targeting of services needed by tribal, urban, and other Indian communities;
+#### (3) Funds not divisible
 
-&emsp;(E) make recommendations to improve health care delivery systems for Indians and urban Indians;
+&emsp;An epidemiology center established under this subsection shall be subject to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), but the funds for the center shall not be divisible.
 
-&emsp;(F) work cooperatively with tribal providers of health and social services in order to avoid duplication of existing services; and
+#### (b) Functions of centers
 
-&emsp;(G) provide technical assistance to Indian tribes and urban Indian organizations in the development of local health service priorities and incidence and prevalence rates of disease and other illness in the community.
+In consultation with and on the request of Indian tribes, tribal organizations, and urban Indian organizations, each Service area epidemiology center established under this section shall, with respect to the applicable Service area—
 
-(4) Epidemiology centers established under this subsection shall be subject to the provisions of the Indian Self-Determination Act (25 U.S.C. 450f et seq.).
+&emsp;(1) collect data relating to, and monitor progress made toward meeting, each of the health status objectives of the Service, the Indian tribes, tribal organizations, and urban Indian organizations in the Service area;
 
-(5) The director of the Centers for Disease Control shall provide technical assistance to the centers in carrying out the requirements of this subsection.
+&emsp;(2) evaluate existing delivery systems, data systems, and other systems that impact the improvement of Indian health;
 
-(6) The Service shall assign one epidemiologist from each of its area offices to each area epidemiology center to provide such center with technical assistance necessary to carry out this subsection.
+&emsp;(3) assist Indian tribes, tribal organizations, and urban Indian organizations in identifying highest-priority health status objectives and the services needed to achieve those objectives, based on epidemiological data;
 
-(b)(1) The Secretary may make grants to Indian tribes, tribal organizations, and eligible intertribal consortia or Indian organizations to conduct epidemiological studies of Indian communities.
+&emsp;(4) make recommendations for the targeting of services needed by the populations served;
 
-(2) An intertribal consortia or Indian organization is eligible to receive a grant under this subsection if—
+&emsp;(5) make recommendations to improve health care delivery systems for Indians and urban Indians;
 
-&emsp;(A) it is incorporated for the primary purpose of improving Indian health; and
+&emsp;(6) provide requested technical assistance to Indian tribes, tribal organizations, and urban Indian organizations in the development of local health service priorities and incidence and prevalence rates of disease and other illness in the community; and
 
-&emsp;(B) it is representative of the tribes or urban Indian communities in which it is located.
+&emsp;(7) provide disease surveillance and assist Indian tribes, tribal organizations, and urban Indian communities to promote public health.
 
-(3) An application for a grant under this subsection shall be submitted in such manner and at such time as the Secretary shall prescribe.
+#### (c) Technical assistance
 
-(4) Applicants for grants under this subsection shall—
+The Director of the Centers for Disease Control and Prevention shall provide technical assistance to the centers in carrying out this section.
 
-&emsp;(A) demonstrate the technical, administrative, and financial expertise necessary to carry out the functions described in paragraph (5);
+#### (d) Grants for studies
 
-&emsp;(B) consult and cooperate with providers of related health and social services in order to avoid duplication of existing services; and
+#### (1) In general
 
-&emsp;(C) demonstrate cooperation from Indian tribes or urban Indian organizations in the area to be served.
+&emsp;The Secretary may make grants to Indian tribes, tribal organizations, Indian organizations, and eligible intertribal consortia to conduct epidemiological studies of Indian communities.
 
-(5) A grant awarded under paragraph (1) may be used to—
+#### (2) Eligible intertribal consortia
 
-&emsp;(A) carry out the functions described in subsection (a)(3) of this section;
+&emsp;An intertribal consortium or Indian organization shall be eligible to receive a grant under this subsection if the intertribal consortium is—
 
-&emsp;(B) provide information to and consult with tribal leaders, urban Indian community leaders, and related health staff, on health care and health services management issues; and
+&emsp;&emsp;(A) incorporated for the primary purpose of improving Indian health; and
 
-&emsp;(C) provide, in collaboration with tribes and urban Indian communities, the Service with information regarding ways to improve the health status of Indian people.
+&emsp;&emsp;(B) representative of the Indian tribes or urban Indian communities residing in the area in which the intertribal consortium is located.
 
-(6) There are authorized to be appropriated to carry out the purposes of this subsection not more than $12,000,000 for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
+#### (3) Applications
 
-(Pub. L. 94–437, title II, §214, as added Pub. L. 102–573, title II, §210, Oct. 29, 1992, 106 Stat. 4551.)
+&emsp;An application for a grant under this subsection shall be submitted in such manner and at such time as the Secretary shall prescribe.
+
+#### (4) Requirements
+
+&emsp;An applicant for a grant under this subsection shall—
+
+&emsp;&emsp;(A) demonstrate the technical, administrative, and financial expertise necessary tocarry out the functions described in paragraph (5);
+
+&emsp;&emsp;(B) consult and cooperate with providers of related health and social services in order to avoid duplication of existing services; and
+
+&emsp;&emsp;(C) demonstrate cooperation from Indian tribes or urban Indian organizations in the area to be served.
+
+#### (5) Use of funds
+
+&emsp;A grant provided under paragraph (1) may be used—
+
+&emsp;&emsp;(A) to carry out the functions described in subsection (b);
+
+&emsp;&emsp;(B) to provide information to, and consult with, tribal leaders, urban Indian community leaders, and related health staff regarding health care and health service management issues; and
+
+&emsp;&emsp;(C) in collaboration with Indian tribes, tribal organizations, and urban Indian organizations, to provide to the Service information regarding ways to improve the health status of Indians.
+
+#### (e) Access to information
+
+#### (1) In general
+
+&emsp;An epidemiology center operated by a grantee pursuant to a grant awarded under subsection (d) shall be treated as a public health authority (as defined in section 164.501 of title 45, Code of Federal Regulations (or a successor regulation)) for purposes of the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191; 110 Stat. 1936).
+
+#### (2) Access to information
+
+&emsp;The Secretary shall grant to each epidemiology center described in paragraph (1) access to use of the data, data sets, monitoring systems, delivery systems, and other protected health information in the possession of the Secretary.
+
+#### (3) Requirement
+
+&emsp;The activities of an epidemiology center described in paragraph (1) shall be for the purposes of research and for preventing and controlling disease, injury, or disability (as those activities are described in section 164.512 of title 45, Code of Federal Regulations (or a successor regulation)), for purposes of the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191; 110 Stat. 1936).
+
+(Pub. L. 94–437, title II, §214, as added Pub. L. 102–573, title II, §210, Oct. 29, 1992, 106 Stat. 4551; amended Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 #### References in Text
 
-The Indian Self-Determination Act, referred to in subsec. (a)(4), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a)(3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+
+The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (e)(1), (3), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of Title 42, The Public Health and Welfare, and Tables.
+
+#### Codification
+
+Amendment by Pub. L. 111–148 is based on section 130 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+
+#### Amendments
+
+<b>2010</b>—Pub. L. 111–148 amended section generally. Prior to amendment, section related to establishment and functions of epidemiology centers.
 

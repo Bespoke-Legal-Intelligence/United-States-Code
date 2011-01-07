@@ -126,5 +126,5 @@ Notwithstanding any other provision of this section or section 6332 of this titl
 
 #### Prior Provisions
 
-A prior section 6335, Pub. L. 89–10, title I, §1125, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3571, related to targeted grants to local educational agencies, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 6335, Pub. L. 89–10, title I, §1125, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3571, related to targeted grants to local educational agencies, prior to the general amendment of this subchapter by Pub. L. 107–110.
 

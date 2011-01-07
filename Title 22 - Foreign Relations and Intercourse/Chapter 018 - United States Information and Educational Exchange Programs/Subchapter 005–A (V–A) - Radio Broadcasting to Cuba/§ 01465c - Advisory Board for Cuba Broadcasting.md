@@ -50,13 +50,13 @@ Section was enacted as part of the Radio Broadcasting to Cuba Act which comprise
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–277, §1324(5), substituted “There is established within the Office of the President the Advisory Board for Cuba Broadcasting (in this division referred to as the ‘Advisory Board’).” for “There is established within the Office of the President the Advisory Board for Cuba Broadcasting (hereafter in this subchapter referred to as the ‘Board’).”, and substituted “Advisory Board” for “Board” in two places.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §1324(5), substituted “There is established within the Office of the President the Advisory Board for Cuba Broadcasting (in this division referred to as the ‘Advisory Board’).” for “There is established within the Office of the President the Advisory Board for Cuba Broadcasting (hereafter in this subchapter referred to as the ‘Board’).”, and substituted “Advisory Board” for “Board” in two places.
 
 Subsecs. (b) to (g). Pub. L. 105–277, §1324(5)(A), substituted “Advisory Board” for “Board” wherever appearing.
 
-1994—Subsec. (b). Pub. L. 103–236 substituted “Broadcasting Board of Governors” for “Director and Associate Director for Broadcasting of the United States Information Agency”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–236 substituted “Broadcasting Board of Governors” for “Director and Associate Director for Broadcasting of the United States Information Agency”.
 
-1990—Pub. L. 101–246, §245(a)(1), substituted “Cuba Broadcasting” for “Radio Broadcasting to Cuba” in section catchline.
+<b>1990</b>—Pub. L. 101–246, §245(a)(1), substituted “Cuba Broadcasting” for “Radio Broadcasting to Cuba” in section catchline.
 
 Subsec. (a). Pub. L. 101–246, §245(a)(2), amended subsec. (a) generally, substituting “Cuba Broadcasting” for “Radio Broadcasting to Cuba” and “to serve as chairperson” for “to serve as Chairman”.
 

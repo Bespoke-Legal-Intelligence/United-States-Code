@@ -1,6 +1,6 @@
 ### §922. Automatic stay of enforcement of claims against the debtor
 
-(a) A petition filed under this chapter operates as a stay, in addition to the stay provided by section 362 of this title, applicable to all entities, of—
+(a) A petition filed under this chapter operates as a stay, in addition to the stay provided bysection 362 of this title, applicable to all entities, of—
 
 &emsp;(1) the commencement or continuation, including the issuance or employment of process, of a judicial, administrative, or other action or proceeding against an officer or inhabitant of the debtor that seeks to enforce a claim against the debtor; and
 

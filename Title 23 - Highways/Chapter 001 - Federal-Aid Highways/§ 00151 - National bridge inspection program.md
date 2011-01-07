@@ -38,7 +38,7 @@ A prior section 151, added Pub. L. 93–87, title II, §205(a), Aug. 13, 1973, 8
 
 #### Amendments
 
-1998—Subsecs. (a), (c). Pub. L. 105–178, §1212(a)(2)(A)(ii), substituted “State transportation departments” for “State highway departments”.
+<b>1998</b>—Subsecs. (a), (c). Pub. L. 105–178, §1212(a)(2)(A)(ii), substituted “State transportation departments” for “State highway departments”.
 
 Subsec. (d). Pub. L. 105–178, §5119(e), substituted “section 502,” for “section 307(a),”.
 

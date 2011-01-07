@@ -30,7 +30,7 @@ Amounts appropriated for a fiscal year for contracts under subsection (a) of thi
 
 #### Amendments
 
-1998—Subsec. (a)(1). Pub. L. 105–392, §406(1), substituted “$35,000” for “$20,000”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–392, §406(1), substituted “$35,000” for “$20,000”.
 
 Subsec. (c). Pub. L. 105–392, §406(2), substituted “2002” for “1998”.
 

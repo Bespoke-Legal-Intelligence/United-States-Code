@@ -22,7 +22,7 @@ Section 507 (relating to termination of private foundation status), section 508 
 
 &emsp;(A) Except as provided in subparagraph (B), a foreign organization described in subsection (b) shall be denied exemption from taxation under section 501(a) by reason of paragraph (1) for all taxable years beginning with the taxable year during which it is notified by the Secretary that it has engaged in a prohibited transaction. The Secretary shall publish such notice in the Federal Register on the day on which he so notifies such foreign organization.
 
-&emsp;(B) Under regulations prescribed by the Secretary any foreign organization described insubsection (b) which is denied exemption from taxation under section 501(a) by reason of paragraph (1) may, with respect to the second taxable year following the taxable year in which notice is given under subparagraph (A) (or any taxable year thereafter), file claim for exemption from taxation under section 501(a). If the Secretary is satisfied that such organization will not knowingly again engage in a prohibited transaction, such organization shall not, with respect to taxable years beginning with the taxable year with respect to which such claim is filed, be denied exemption from taxation under section 501(a) by reason of any prohibited transaction which was engaged in before the date on which such notice was given under subparagraph (A).
+&emsp;(B) Under regulations prescribed by the Secretary any foreign organization described in subsection (b) which is denied exemption from taxation under section 501(a) by reason of paragraph (1) may, with respect to the second taxable year following the taxable year in which notice is given under subparagraph (A) (or any taxable year thereafter), file claim for exemption from taxation under section 501(a). If the Secretary is satisfied that such organization will not knowingly again engage in a prohibited transaction, such organization shall not, with respect to taxable years beginning with the taxable year with respect to which such claim is filed, be denied exemption from taxation under section 501(a) by reason of any prohibited transaction which was engaged in before the date on which such notice was given under subparagraph (A).
 
 #### (4) Disallowance of certain charitable deductions
 
@@ -36,11 +36,11 @@ Section 507 (relating to termination of private foundation status), section 508 
 
 #### Amendments
 
-2004—Subsec. (c)(4). Pub. L. 108–357 struck out “556(b)(2),” after “545(b)(2),” in introductory provisions.
+<b>2004</b>—Subsec. (c)(4). Pub. L. 108–357 struck out “556(b)(2),” after “545(b)(2),” in introductory provisions.
 
-1976—Subsec. (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357,set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 

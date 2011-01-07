@@ -58,3 +58,9 @@ Section 1(a) of the Classified Information Procedures Act, referred to in subsec
 
 Section applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as an Effective Date of 2003 Amendment note under section 106 of this title.
 
+#### Deemed References to Chapters 509 and 511 of Title 51
+
+General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “App.)),”.</i>
+

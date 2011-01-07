@@ -12,5 +12,5 @@ Effect on Gratuities Paid as a Result of Status.—Subsection (a) shall not be i
 
 #### Amendments
 
-2001—Subsec. (b). Pub. L. 107–107 substituted “February 10, 1996” for “the date of the enactment of this chapter”.
+<b>2001</b>—Subsec. (b). Pub. L. 107–107 substituted “February 10, 1996” for “the date of the enactment of this chapter”.
 

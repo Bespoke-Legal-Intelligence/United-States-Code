@@ -1,6 +1,6 @@
 ### §1703. Delay or destruction of mail or newspapers
 
-(a) Whoever, being a Postal Service officer or employee, unlawfully secretes, destroys, detains, delays, or opens any letter, postal card,package, bag, or mail entrusted to him or which shall come into his possession, and which was intended to be conveyed by mail, or carried or delivered by any carrier or other employee of the Postal Service, or forwarded through or delivered from any post office or station thereof established by authority of the Postmaster General or the Postal Service, shall be fined under this title or imprisoned not more than five years, or both.
+(a) Whoever, being a Postal Service officer or employee, unlawfully secretes, destroys, detains, delays, or opens any letter, postal card, package, bag, or mail entrusted to him or which shall come into his possession, and which was intended to be conveyed by mail, or carried or delivered by any carrier or other employee of the Postal Service, or forwarded through or delivered from any post office or station thereof established by authority of the Postmaster General or the Postal Service, shall be fined under this title or imprisoned not more than five years, or both.
 
 (b) Whoever, being a Postal Service officer or employee, improperly detains, delays, or destroys any newspaper, or permits any other person to detain, delay, or destroy the same, or opens, or permits any other person to open, any mail or package of newspapers not directed to the office where he is employed; or
 
@@ -24,13 +24,13 @@ This section \[section 37\] corrects typographical errors in section 1703 of tit
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500” in subsec. (a) and “fined under this title” for “fined not more than $100” in last par.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500” in subsec. (a) and “fined under this title” for “fined not more than $100” in last par.
 
-1970—Subsec. (a). Pub. L. 91–375, §6(j)(16)(A), amended subsec. (a) generally, which prior to amendment read as follows: “Whoever, being a postmaster or Postal Service employee, unlawfully detains, delays, or opens any letter, postal card, package, bag, or mail intrusted to him or which shall come into his possession, and which was intended to be conveyed by mail, or carried or delivered by any carrier or other employee of the Postal Service, or forwarded through or delivered from any post office or station thereof established by authority of the Postmaster General; or secretes, or destroys any such letter, postal card, package, bag, or mail, shall be fined not more than $500 or imprisoned not more than five years, or both.”
+<b>1970</b>—Subsec. (a). Pub. L. 91–375, §6(j)(16)(A), amended subsec. (a) generally, which prior to amendment read as follows: “Whoever, being a postmaster or Postal Service employee, unlawfully detains, delays, or opens any letter, postal card, package, bag, or mail intrusted to him or which shall come into his possession, and which was intended to be conveyed by mail, or carried or delivered by any carrier or other employee of the Postal Service, or forwarded through or delivered from any post office or station thereof established by authority of the Postmaster General; or secretes, or destroys any such letter, postal card, package, bag, or mail, shall be fined not more than $500 or imprisoned not more than five years, or both.”
 
 Subsec. (b). Pub. L. 91–375, §6(j)(16)(B), substituted “Postal Service officer or employee” for “postmaster or Postal Service employee”.
 
-1949—Subsec. (a). Act May 24, 1949, §37(a), substituted “secretes” for “secrets”.
+<b>1949</b>—Subsec. (a). Act May 24, 1949, §37(a), substituted “secretes” for “secrets”.
 
 Subsec. (b). Act May 24, 1949, §37(b), substituted “newspapers” for “newspaper”.
 

@@ -2,7 +2,7 @@
 
 #### (a) Preliminary departmental decision; grounds of determination; notice requirements; prima facie case; amount of funds recoverable
 
-(1) Whenever the Secretary determines that a recipient of a grant or cooperative agreementunder an applicable program must return funds because the recipient has made an expenditure of funds that is not allowable under that grant or cooperative agreement, or has otherwise failed to discharge its obligation to account properly for funds under the grant or cooperative agreement, the Secretary shall give the recipient written notice of a preliminary departmental decision and notify the recipient of its right to have that decision reviewed by the Office and of its right to request mediation.
+(1) Whenever the Secretary determines that a recipient of a grant or cooperative agreement under an applicable program must return funds because the recipient has made an expenditure of funds that is not allowable under that grant or cooperative agreement, or has otherwise failed to discharge its obligation to account properly for funds under the grant or cooperative agreement, the Secretary shall give the recipient written notice of a preliminary departmental decision and notify the recipient of its right to have that decision reviewed by the Office and of its right to request mediation.
 
 (2) In a preliminary departmental decision, the Secretary shall have the burden of establishing a prima facie case for the recovery of funds, including an analysis reflecting the value of the program services actually obtained in a determination of harm to the Federal interest. The facts to serve as the basis of the preliminary departmental decision may come from an audit report, an investigative report, a monitoring report, or other evidence. The amount of funds to be recovered shall be determined on the basis of section 1234b of this title.
 
@@ -56,13 +56,13 @@ The Secretary shall publish decisions that have become final agency action under
 
 #### (i) Collection amounts and procedures
 
-The amount of a preliminary departmental decision under subsection (a) of this section forwhich review has not been requested in accordance with subsection (b) of this section, and the amount sustained by a decision of the Office or the Secretary which becomes final agency action under subsection (g) of this section, may be collected by the Secretary in accordance with chapter 37 of title 31.
+The amount of a preliminary departmental decision under subsection (a) of this section for which review has not been requested in accordance with subsection (b) of this section, and the amount sustained by a decision of the Office or the Secretary which becomes final agency action under subsection (g) of this section, may be collected by the Secretary in accordance with chapter 37 of title 31.
 
 #### (j) Compromise of preliminary departmental decisions; preconditions; notice requirements
 
 (1) Notwithstanding any other provision of law, the Secretary may, subject to the notice requirements of paragraph (2), compromise any preliminary departmental decision under this section which does not exceed the amount agreed to be returned by more than $200,000, if the Secretary determines that (A) the collection of any or all or the amount thereof would not be practical or in the public interest, and (B) the practice which resulted in the preliminary departmental decision has been corrected and will not recur.
 
-(2) Not less than 45 days prior to the exercise of the authority to compromise a preliminary departmental decision pursuant to paragraph (1), the Secretary shall publish in the Federal Register a notice of intention to do so. The notice shall provide interested persons an opportunity to comment on any proposed action under this subsection through the submission of written data, views, or arguments.
+(2) Not less than 45 days prior to the exercise of the authority to compromise a preliminary departmental decision pursuant to paragraph (1), the Secretary shall publish in the FederalRegister a notice of intention to do so. The notice shall provide interested persons an opportunity to comment on any proposed action under this subsection through the submission of written data, views, or arguments.
 
 #### (k) Limitation period respecting return of funds
 
@@ -76,13 +76,13 @@ No interest shall be charged arising from a claim during the administrative revi
 
 #### Amendments
 
-1994—Subsec. (a)(2). Pub. L. 103–382, §250(a)(1), substituted “establishing a prima facie case for the recovery of funds, including an analysis reflecting the value of the program services actually obtained in a determination of harm to the Federal interest.” for “stating a prima facie case for the recovery of funds.”
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–382, §250(a)(1), substituted “establishing a prima facie case for the recovery of funds, including an analysis reflecting the value of the program services actually obtained in a determination of harm to the Federal interest.” for “stating a prima facie case for the recovery of funds.”
 
 Subsec. (b)(1). Pub. L. 103–382, §250(a)(2), substituted “60 days” for “30 days”.
 
 Subsec. (d). Pub. L. 103–382, §250(a)(3), designated existing provisions as par. (1) and added par. (2).
 
-1988—Pub. L. 100–297 amended section generally, substituting provisions relating to recovery of funds for provisions relating to audit determinations.
+<b>1988</b>—Pub. L. 100–297 amended section generally, substituting provisions relating to recovery of funds for provisions relating to audit determinations.
 
 #### Effective Date of 1988 Amendment
 

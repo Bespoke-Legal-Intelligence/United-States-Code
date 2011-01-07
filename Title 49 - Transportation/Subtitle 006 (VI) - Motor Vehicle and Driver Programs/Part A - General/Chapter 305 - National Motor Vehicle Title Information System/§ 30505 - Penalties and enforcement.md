@@ -38,5 +38,5 @@ In subsection (b)(2), the words “penalty imposed or compromised” are substit
 
 #### Amendments
 
-1996—Subsec. (b)(1). Pub. L. 104–152 substituted “Attorney General shall impose” for “Secretary of Transportation shall impose”, “Attorney General may compromise” for “Secretary may compromise”, and “Attorney General shall consider” for “Secretary shall consider”.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–152 substituted “Attorney General shall impose” for “Secretary of Transportation shall impose”, “Attorney General may compromise” for “Secretary may compromise”, and “Attorney General shall consider” for “Secretary shall consider”.
 

@@ -24,7 +24,7 @@ In this subchapter:
 
 #### (3) Supplemental security income benefit under subchapter XVI
 
-&emsp;The term “supplemental security income benefit under subchapter XVI”, except asotherwise provided, includes State supplementary payments which are paid by the Commissioner of Social Security pursuant to an agreement under section 1382e(a) of this title or section 212(b) of Public Law 93–66.
+&emsp;The term “supplemental security income benefit under subchapter XVI”, except as otherwise provided, includes State supplementary payments which are paid by the Commissioner of Social Security pursuant to an agreement under section 1382e(a) of this title or section 212(b) of Public Law 93–66.
 
 #### (4) Federal benefit rate under subchapter XVI
 

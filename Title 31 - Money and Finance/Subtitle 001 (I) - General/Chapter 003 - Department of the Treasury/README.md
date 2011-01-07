@@ -20,8 +20,10 @@
 | [309\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2000309%20-%20Office%20of%20Thrift%20Supervision.md) | Office of Thrift Supervision. |
 | [310\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2000310%20-%20Financial%20Crimes%20Enforcement%20Network.md) | Financial Crimes Enforcement Network. |
 | [311\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2000311%20-%20Office%20of%20Intelligence%20and%20Analysis.md) | Office of Intelligence and Analysis. |
-| [312\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2000312%20-%20Continuing%20in%20office.md) | Continuing in office. |
-| [313\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2000313%20-%20Terrorism%20and%20Financial%20Intelligence.md) | Terrorism and Financial Intelligence.<sup>2</sup> |
+| [312\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2000312%20-%20Terrorism%20and%20financial%20intelligence.md) | Terrorism and financial intelligence. |
+| [313\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2000313%20-%20Federal%20Insurance%20Office.md) | Federal Insurance Office. |
+| [314\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2000314%20-%20Covered%20agreements.md) | Covered agreements. |
+| [315\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2000315%20-%20Continuing%20in%20office.md) | Continuing in office. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -47,15 +49,19 @@
 
 #### Amendments
 
-2003—Pub. L. 108–177, title I, §105(a)(2), Dec. 13, 2003, 117 Stat. 2603, added item 311 and redesignated former item 311 as 312.
+<b>2010</b>—Pub. L. 111–203, title V, §502(c), July 21, 2010, 124 Stat. 1588, added items 312 to 315 and struck out item 312 “Continuing in office”.
 
-2001—Pub. L. 107–56, title III, §361(c), Oct. 26, 2001, 115 Stat. 332, added item 310 and redesignated former item 310 as 311.
+<b>2003</b>—Pub. L. 108–177, title I, §105(a)(2), Dec. 13, 2003, 117 Stat. 2603, added item 311 and redesignated former item 311 as 312.
 
-1994—Pub. L. 103–296, title III, §312(<i>l</i>)(2), Aug. 15, 1994, 108 Stat. 1530, added item 333.
+<b>2001</b>—Pub. L. 107–56, title III, §361(c), Oct. 26, 2001, 115 Stat. 332, added item 310 and redesignated former item 310 as 311.
 
-1989—Pub. L. 101–73, title III, §307(a)(2), Aug. 9, 1989, 103 Stat. 352, added item 309 and redesignated former item 309 as 310.
+<b>1994</b>—Pub. L. 103–296, title III, §312(<i>l</i>)(2), Aug. 15, 1994, 108 Stat. 1530, added item 333.
 
-1984—Pub. L. 98–302, §3(b), May 25, 1984, 98 Stat. 218, added item 332.
+<b>1989</b>—Pub. L. 101–73, title III, §307(a)(2), Aug. 9, 1989, 103 Stat. 352, added item 309 and redesignated former item 309 as 310.
+
+<b>1984</b>—Pub. L. 98–302, §3(b), May 25, 1984, 98 Stat. 218, added item 332.
+
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

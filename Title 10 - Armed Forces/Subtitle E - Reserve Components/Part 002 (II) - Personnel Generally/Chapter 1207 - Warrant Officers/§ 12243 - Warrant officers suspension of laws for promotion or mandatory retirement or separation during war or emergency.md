@@ -28,7 +28,7 @@ The word “may” is substituted for the words “is authorized, in his discret
 
 #### Amendments
 
-1994—Pub. L. 103–337 renumbered section 599 of this title as this section.
+<b>1994</b>—Pub. L. 103–337 renumbered section 599 of this title as this section.
 
 #### Delegation of Functions
 

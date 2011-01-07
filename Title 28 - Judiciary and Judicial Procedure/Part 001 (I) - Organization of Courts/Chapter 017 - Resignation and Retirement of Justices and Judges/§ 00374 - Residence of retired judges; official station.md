@@ -14,9 +14,9 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1986—Pub. L. 99–651 inserted last sentence.
+<b>1986</b>—Pub. L. 99–651 inserted last sentence.
 
-1959—Pub. L. 86–312 inserted sentence to provide that place where retired judge maintains actual abode shall be deemed to be his official station and inserted “; official station” in section catchline.
+<b>1959</b>—Pub. L. 86–312 inserted sentence to provide that place where retired judge maintains actual abode shall be deemed to be his official station and inserted “; official station” in section catchline.
 
 #### Change of Name
 

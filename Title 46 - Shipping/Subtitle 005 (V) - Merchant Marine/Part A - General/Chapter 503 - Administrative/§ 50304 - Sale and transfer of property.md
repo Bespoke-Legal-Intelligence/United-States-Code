@@ -54,5 +54,5 @@ Section 17 of the Merchant Marine Act, 1920 (ch. 250, 41 Stat. 994), as original
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–181 added subsec. (d).
+<b>2008</b>—Subsec. (d). Pub. L. 110–181 added subsec. (d).
 

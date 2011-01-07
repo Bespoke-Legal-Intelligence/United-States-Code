@@ -38,7 +38,7 @@ Section 1862(b) of the Social Security Act, referred to in subsec. (c), is class
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–66, §13561(e)(2)(A)(i), which directed insertion of “(including a self-employed person)” after “employer”, was executed by making the insertion after “employer” the first time it appeared, to reflect the probable intent of Congress.
+<b>1993</b>—Subsec. (a). Pub. L. 103–66, §13561(e)(2)(A)(i), which directed insertion of “(including a self-employed person)” after “employer”, was executed by making the insertion after “employer” the first time it appeared, to reflect the probable intent of Congress.
 
 Subsec. (b)(1). Pub. L. 103–66, §13561(e)(2)(A)(ii), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “The term ‘group health plan’ means any plan of, or contributed to by, an employer (including a self-insured plan) to provide health care (directly or otherwise) to the employer's employees, former employees, or the families of such employees or former employees.”
 
@@ -46,7 +46,7 @@ Subsec. (b)(2). Pub. L. 103–66, §13561(d)(2), inserted at end “For purposes
 
 Subsec. (c). Pub. L. 103–66, §13561(e)(2)(A)(iii), substituted “of paragraph (1), or with the requirements of paragraph (2), of section 1862(b)” for “of section 1862(b)(1)”.
 
-1989—Pub. L. 101–239, §6202(b)(2)(A), struck out “large” after “Certain” in section catchline.
+<b>1989</b>—Pub. L. 101–239, §6202(b)(2)(A), struck out “large” after “Certain” in section catchline.
 
 Subsec. (a). Pub. L. 101–239, §6202(b)(2)(B), substituted “group health plan” for “large group health plan” in two places.
 

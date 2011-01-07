@@ -16,5 +16,5 @@ For the purposes of this subchapter:
 
 #### Amendments
 
-1957—Subsec. (e). Pub. L. 85–132 substituted provision defining adult as a person who is an adult according to the law of the place of his residence, for provision defining adult as a member of the tribe who has attained the age of twenty-one years.
+<b>1957</b>—Subsec. (e). Pub. L. 85–132 substituted provision defining adult as a person who is an adult according to the law of the place of his residence, for provision defining adult as a member of the tribe who has attained the age of twenty-one years.
 

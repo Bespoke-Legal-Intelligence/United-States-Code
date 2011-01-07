@@ -30,5 +30,5 @@ All payments received by the Secretary under subsection (b) shall be deposited b
 
 #### Amendments
 
-1976—Subsecs. (b)(1), (2), (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (b)(1), (2), (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 

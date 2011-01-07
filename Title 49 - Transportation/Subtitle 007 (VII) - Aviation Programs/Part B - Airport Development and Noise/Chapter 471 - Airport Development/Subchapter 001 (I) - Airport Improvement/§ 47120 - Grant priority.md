@@ -30,7 +30,7 @@ The words “In making a grant under this subchapter” are substituted for “I
 
 #### Amendments
 
-2000—Pub. L. 106–181 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2000</b>—Pub. L. 106–181 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Effective Date of 2000 Amendment
 

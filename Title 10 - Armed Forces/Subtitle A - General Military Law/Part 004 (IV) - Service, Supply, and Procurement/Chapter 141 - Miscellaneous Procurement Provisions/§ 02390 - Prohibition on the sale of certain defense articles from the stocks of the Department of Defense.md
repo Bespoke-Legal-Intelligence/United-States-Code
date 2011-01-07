@@ -22,7 +22,7 @@ A prior section 2390, added Pub. L. 95–79, title VIII, §815(a), July 30, 1977
 
 #### Amendments
 
-1989—Pub. L. 101–189 renumbered section 975 of this title as this section.
+<b>1989</b>—Pub. L. 101–189 renumbered section 975 of this title as this section.
 
-1987—Subsec. (a)(2). Pub. L. 100–26 inserted “the term” after “In this section,”.
+<b>1987</b>—Subsec. (a)(2). Pub. L. 100–26 inserted “the term” after “In this section,”.
 

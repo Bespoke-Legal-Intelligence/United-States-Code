@@ -50,15 +50,15 @@
 
 #### Amendments
 
-2002—Subsec. (b)(3)(B)(iv). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (b)(3)(B)(iv). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-2000—Subsec. (b)(4). Pub. L. 106–419 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “before completing such obligated period of service (i) has completed the requirements of a secondary school diploma (or an equivalency certificate), or (ii) has successfully completed (or otherwise received academic credit for) the equivalent of 12 semester hours in a program of education leading to a standard college degree; and”.
+<b>2000</b>—Subsec. (b)(4). Pub. L. 106–419 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “before completing such obligated period of service (i) has completed the requirements of a secondary school diploma (or an equivalency certificate), or (ii) has successfully completed (or otherwise received academic credit for) the equivalent of 12 semester hours in a program of education leading to a standard college degree; and”.
 
-1998—Subsec. (b)(4)(ii). Pub. L. 105–368 substituted “successfully completed (or otherwise received academic credit for)” for “successfully completed”.
+<b>1998</b>—Subsec. (b)(4)(ii). Pub. L. 105–368 substituted “successfully completed (or otherwise received academic credit for)” for “successfully completed”.
 
-1992—Subsec. (b)(3)(B)(iv). Pub. L. 102–568 added cl. (iv).
+<b>1992</b>—Subsec. (b)(3)(B)(iv). Pub. L. 102–568 added cl. (iv).
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1418 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1418 of this title as this section.
 
 Subsec. (a). Pub. L. 102–86 made technical amendment to directory language of Pub. L. 101–237, §423(b)(4)(A). See 1989 Amendment note below.
 
@@ -70,7 +70,7 @@ Subsec. (b)(4). Pub. L. 102–16 substituted “service (i)” for “service,�
 
 Subsec. (c). Pub. L. 102–83, §5(c)(1), substituted “3011(c)(1) or 3012(d)(1)” for “1411(c)(1) or 1412(d)(1)” in introductory provisions.
 
-1989—Subsec. (a). Pub. L. 101–237, §423(b)(4)(A), as amended by Pub. L. 102–86, inserted “of Defense” after “Secretary” in concluding provisions.
+<b>1989</b>—Subsec. (a). Pub. L. 101–237, §423(b)(4)(A), as amended by Pub. L. 102–86, inserted “of Defense” after “Secretary” in concluding provisions.
 
 Subsec. (b)(3)(B). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator”.
 

@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(A) in the case of church records, to the extent necessary to determine the liability for, and the amount of, any tax imposed by this title, and
 
-&emsp;&emsp;(B) in the case of religious activities, to the extent necessary to determine whether an organization claiming to be a church is a church for any period.
+&emsp;&emsp;(B) in the case of religious activities, to the extent necessary to determine whetheran organization claiming to be a church is a church for any period.
 
 #### (2) Notice of examination; opportunity for conference
 
@@ -128,7 +128,7 @@
 
 &emsp;&emsp;(ii) in the case of any tax with respect to which subchapter B of chapter 63 (relating to deficiency procedures) does not apply, assess any underpayment of such tax involved in a church tax examination,
 
-> &emsp;only if the appropriate regional counsel of the Internal Revenue Service determines in writing that there has been substantial compliance with the requirements of this section and approves in writing of such revocation, notice of deficiency, or assessment.
+> &emsp;only if the appropriate regional counsel of the Internal Revenue Service determines in writing that there has been substantial compliance with the requirements of this section andapproves in writing of such revocation, notice of deficiency, or assessment.
 
 #### (2) Limitations on period of assessment
 
@@ -264,17 +264,17 @@ A prior section 7611 was renumbered section 7613 of this title.
 
 #### Amendments
 
-1998—Subsec. (f)(1). Pub. L. 105–206 substituted “Secretary” for “Assistant Commissioner for Employee Plans and Exempt Organizations of the Internal Revenue Service” in concluding provisions.
+<b>1998</b>—Subsec. (f)(1). Pub. L. 105–206 substituted “Secretary” for “Assistant Commissioner for Employee Plans and Exempt Organizations of the Internal Revenue Service” in concluding provisions.
 
-1996—Subsec. (h)(7). Pub. L. 104–188 substituted “appropriate” for “approporiate” in text.
+<b>1996</b>—Subsec. (h)(7). Pub. L. 104–188 substituted “appropriate” for “approporiate” in text.
 
-1989—Subsec. (i)(3). Pub. L. 101–239 made technical correction to directory language of Pub. L. 100–203, see 1987 Amendment note below.
+<b>1989</b>—Subsec. (i)(3). Pub. L. 101–239 made technical correction to directory language of Pub. L. 100–203, see 1987 Amendment note below.
 
-1988—Subsec. (i)(5). Pub. L. 100–647 substituted “this title” for “the title”.
+<b>1988</b>—Subsec. (i)(5). Pub. L. 100–647 substituted “this title” for “the title”.
 
-1987—Subsec. (i)(3). Pub. L. 100–203, as amended by Pub. L. 101–239, substituted “, section 6852 (relating to termination assessments in case of flagrant political expenditures of section 501(c)(3) organizations), or section 6861 (relating to jeopardy assessments of income taxes, etc.),” for “or section 6861 (relating to jeopardy assessments of income taxes, etc.),”.
+<b>1987</b>—Subsec. (i)(3). Pub. L. 100–203, as amended by Pub. L. 101–239, substituted “, section 6852 (relating to termination assessments in case of flagrant political expenditures of section 501(c)(3) organizations), or section 6861 (relating to jeopardy assessments of income taxes, etc.),” for “or section 6861 (relating to jeopardy assessments of income taxes, etc.),”.
 
-1986—Subsec. (a)(1)(B). Pub. L. 99–514, §1899A(62), reenacted subpar. (B) without change.
+<b>1986</b>—Subsec. (a)(1)(B). Pub. L. 99–514, §1899A(62), reenacted subpar. (B) without change.
 
 Subsec. (i). Pub. L. 99–514, §1899A(61), redesignated pars. (A) to (E) as (1) to (5), in par. (3), substituted “etc.)” for “etc)”, and in par. (5), substituted “the title” for “the title”.
 

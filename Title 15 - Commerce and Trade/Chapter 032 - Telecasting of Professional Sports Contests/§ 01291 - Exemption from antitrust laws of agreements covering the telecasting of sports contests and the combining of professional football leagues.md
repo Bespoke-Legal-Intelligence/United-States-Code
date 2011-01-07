@@ -10,9 +10,9 @@ The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch
 
 #### Amendments
 
-1986—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1966—Pub. L. 89–800 extended exemption from antitrust laws to include a joint agreement by which the member clubs of two or more professional football leagues combine their operations in an expanded single league.
+<b>1966</b>—Pub. L. 89–800 extended exemption from antitrust laws to include a joint agreement by which the member clubs of two or more professional football leagues combine their operations in an expanded single league.
 
 #### Short Title
 

@@ -54,7 +54,7 @@ Level I of the Executive Schedule, referred to in subsec. (d)(2), is set out in 
 
 #### Amendments
 
-1993—Pub. L. 103–43, §2001(b), substituted “Silvio O. Conte Senior Biomedical Research Service” for “Senior Biomedical Research Service” in section catchline.
+<b>1993</b>—Pub. L. 103–43, §2001(b), substituted “Silvio O. Conte Senior Biomedical Research Service” for “Senior Biomedical Research Service” in section catchline.
 
 Subsec. (a). Pub. L. 103–43, §2001(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There shall be in the Public Health Service a Senior Biomedical Research Service (hereinafter in this section referred to as the ‘Service’), not to exceed 350 members at any time.”
 

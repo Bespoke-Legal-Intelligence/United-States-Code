@@ -16,7 +16,7 @@ Section 264 of the Health Insurance Portability and Accountability Act of 1996, 
 
 #### Amendments
 
-2009—Par. (3). Pub. L. 111–39 substituted “commonly known as the ‘Family Educational Rights and Privacy Act of 1974’ ” for “the Family Educational Rights and Privacy Act of 1974”.
+<b>2009</b>—Par. (3). Pub. L. 111–39 substituted “commonly known as the ‘Family Educational Rights and Privacy Act of 1974’ ” for “the Family Educational Rights and Privacy Act of 1974”.
 
 #### Effective Date of 2009 Amendment
 

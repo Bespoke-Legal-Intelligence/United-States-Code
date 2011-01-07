@@ -91,6 +91,7 @@
 | [893\.](Subchapter%20005%20%28V%29%20-%20Research%2C%20Development%2C%20Education%2C%20and%20Innovation/%C2%A7%2000893%20-%20Ocean%20and%20atmospheric%20research%20and%20development%20program.md) | Ocean and atmospheric research and development program. |
 | [893a.](Subchapter%20005%20%28V%29%20-%20Research%2C%20Development%2C%20Education%2C%20and%20Innovation/%C2%A7%2000893a%20-%20NOAA%20ocean%20and%20atmospheric%20science%20education%20programs.md) | NOAA ocean and atmospheric science education programs. |
 | [893b.](Subchapter%20005%20%28V%29%20-%20Research%2C%20Development%2C%20Education%2C%20and%20Innovation/%C2%A7%2000893b%20-%20NOAA%27s%20contribution%20to%20innovation.md) | NOAA's contribution to innovation. |
+| [893c.](Subchapter%20005%20%28V%29%20-%20Research%2C%20Development%2C%20Education%2C%20and%20Innovation/%C2%A7%2000893c%20-%20Workforce%20study.md) | Workforce study. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -1,6 +1,6 @@
 ### §9308. Penalties
 
-(a) An owner, charterer, managing operator, agent, master, or individual in charge of a vessel knowingly allowing the vessel to be operated in violation of section 9302 of this title is liable to the United States Government for a civil penalty of no more than $10,000 for each day during which the vessel is in violation. The vessel also is liable in rem for the penalty.
+(a) An owner, charterer, managing operator, agent, master, or individual in charge of a vesselknowingly allowing the vessel to be operated in violation of section 9302 of this title is liable to the United States Government for a civil penalty of no more than $10,000 for each day during which the vessel is in violation. The vessel also is liable in rem for the penalty.
 
 (b) An individual who directs the navigation of a vessel in violation of section 9302 of this title is liable to the Government for a civil penalty of no more than $10,000 for each day during which the violation occurs.
 
@@ -22,7 +22,7 @@ Section 9308 prescribes the penalties for violations of sections 9302 and 9303.
 
 #### Amendments
 
-1990—Subsecs. (a) to (c). Pub. L. 101–380 substituted “no more than $10,000” for “$500”.
+<b>1990</b>—Subsecs. (a) to (c). Pub. L. 101–380 substituted “no more than $10,000” for “$500”.
 
 #### Effective Date of 1990 Amendment
 

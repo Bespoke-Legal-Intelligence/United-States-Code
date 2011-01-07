@@ -48,7 +48,7 @@ In subsection (a), the words “Notwithstanding any contrary provision of sectio
 
 In subsection (b)(1)–(3), the source provisions are combined for clarity and because of the restatement.
 
-In subsection (b)(2), the words “portion of the total”, “full”, and “land or” are omitted as surplus. The words “for addition to Redwood National Park” are omitted as unnecessary because of the restatement.
+In subsection (b)(2), the words “portion of the total”, “full”, and “land or” are omitted as surplus. The words“for addition to Redwood National Park” are omitted as unnecessary because of the restatement.
 
 In subsection (b)(4), the word “affected” is omitted as surplus.
 

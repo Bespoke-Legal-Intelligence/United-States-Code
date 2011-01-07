@@ -16,9 +16,9 @@ Act of June 7, 1974, referred to in par. (3), is Pub. L. 93–303, June 7, 1974,
 
 #### Amendments
 
-2004—Pub. L. 108–307 substituted “Secretary” for “Secretary of the Interior” in introductory provisions.
+<b>2004</b>—Pub. L. 108–307 substituted “Secretary” for “Secretary of the Interior” in introductory provisions.
 
-1974—Par. (3). Pub. L. 93–466 added par. (3).
+<b>1974</b>—Par. (3). Pub. L. 93–466 added par. (3).
 
 #### Change of Name
 

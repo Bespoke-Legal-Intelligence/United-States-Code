@@ -8,7 +8,7 @@ The purpose of this section is to assure that any legislation enacted before Oct
 
 #### (1) Timing
 
-&emsp;Not later than 15 calendar days after the date Congress adjourns to end a session and on the same day as a sequestration (if any) under section 901 or 903 of this title, there shall be a sequestration to offset the amount of any net deficit increase caused by all direct spending and receipts legislation enacted before October 1, 2002, as calculated under paragraph (2).
+&emsp;Not later than 15 calendar days after the date Congress adjourns to end a session and onthe same day as a sequestration (if any) under section 901 or 903 of this title, there shall be a sequestration to offset the amount of any net deficit increase caused by all direct spending and receipts legislation enacted before October 1, 2002, as calculated under paragraph (2).
 
 #### (2) Calculation of deficit increase
 
@@ -26,11 +26,11 @@ The purpose of this section is to assure that any legislation enacted before Oct
 
 #### (A) First
 
-&emsp;All reductions in automatic spending increases specified in section 906(a) of this title shall be made.
+&emsp;All reductions in automatic spending increases specified in section 906(a) <sup>1</sup> of this title shall be made.
 
 #### (B) Second
 
-&emsp;If additional reductions in direct spending accounts are required to be made, the maximum reductions permissible under sections 906(b) of this title (guaranteed and direct student loans) and 906(c) of this title (foster care and adoption assistance) shall be made.
+&emsp;If additional reductions in direct spending accounts are required to be made, the maximum reductions permissible under sections 906(b) of this title (guaranteed and direct student loans) and 906(c) <sup>1</sup> of this title (foster care and adoption assistance) shall be made.
 
 #### (C) Third
 
@@ -80,11 +80,17 @@ The purpose of this section is to assure that any legislation enacted before Oct
 
 If a provision of direct spending or receipts legislation is enacted that the President designates as an emergency requirement and that the Congress so designates in statute, the amounts of new budget authority, outlays, and receipts in all fiscal years resulting from that provision shall be designated as an emergency requirement in the reports required under subsection (d) of this section. This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.
 
-(Pub. L. 99–177, title II, §252, Dec. 12, 1985, 99 Stat. 1072; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 764; Pub. L. 100–203, title VIII, §8003(e), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–581; Pub. L. 103–66, title XIV, §14003(a), Aug. 10, 1993, 107 Stat. 684; Pub. L. 103–354, title I, §119(d)(2), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 105–33, title X, §10205, Aug. 5, 1997, 111 Stat. 702.)
+(Pub. L. 99–177, title II, §252, Dec. 12, 1985, 99 Stat. 1072; Pub. L. 100–119, title I, §102(a), Sept.29, 1987, 101 Stat. 764; Pub. L. 100–203, title VIII, §8003(e), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–581; Pub. L. 103–66, title XIV, §14003(a), Aug. 10, 1993, 107 Stat. 684; Pub. L. 103–354, title I, §119(d)(2), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 105–33, title X, §10205, Aug. 5, 1997, 111 Stat. 702.)
 
 #### Termination of Section
 
 <i>Section expired Sept. 30, 2006. See section 275(b) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note under section 900 of this title.</i>
+
+#### References in Text
+
+Section 906(a) of this title, referred to in subsec. (c)(1)(A), was repealed by Pub. L. 111–139, title I, §10(a), Feb. 12, 2010, 124 Stat. 21.
+
+Section 906(c) of this title, referred to in subsec. (c)(1)(B), was repealed by Pub. L. 111–139, title I, §10(c), Feb. 12, 2010, 124 Stat. 22.
 
 #### Amendments
 
@@ -139,4 +145,6 @@ Section 10213 of Pub. L. 105–33 provided that: “Upon the enactment of this A
 #### Reduction of Direct Spending and Receipts Legislation Balances
 
 Section 14003(c) of Pub. L. 103–66 provided that: “Upon enactment of this Act \[Aug. 10, 1993\], the director of the Office of Management and Budget shall reduce the balances of direct spending and receipts legislation applicable to each fiscal year under section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902\] by an amount equal to the net deficit reduction achieved through the enactment in this Act \[see Tables for classification\] of direct spending and receipts legislation for that year.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

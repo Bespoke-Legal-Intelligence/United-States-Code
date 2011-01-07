@@ -54,11 +54,11 @@ The Federal Workforce Restructuring Act of 1994, referred to in subsec. (a)(4)(A
 
 #### Amendments
 
-1994—Subsec. (a)(4). Pub. L. 103–226, §10(a), added par. (4).
+<b>1994</b>—Subsec. (a)(4). Pub. L. 103–226, §10(a), added par. (4).
 
 Subsec. (e). Pub. L. 103–226, §10(b), added subsec. (e) and struck out former subsec. (e) which related to continued coverage for certain employees and annuitants in Federal health benefits and life insurance plans.
 
-1988—Subsec. (e). Pub. L. 100–238 added subsec. (e).
+<b>1988</b>—Subsec. (e). Pub. L. 100–238 added subsec. (e).
 
 #### Administrative Provision
 

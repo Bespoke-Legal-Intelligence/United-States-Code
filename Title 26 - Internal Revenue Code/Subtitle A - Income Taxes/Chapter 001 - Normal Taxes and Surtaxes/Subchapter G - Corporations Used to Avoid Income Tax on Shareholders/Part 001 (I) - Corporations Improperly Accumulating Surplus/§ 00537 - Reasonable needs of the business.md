@@ -42,15 +42,15 @@ For purposes of subsection (a)—
 
 #### Amendments
 
-1996—Subsec. (b)(4). Pub. L. 104–188 substituted “section 172(f)” for “section 172(i)”.
+<b>1996</b>—Subsec. (b)(4). Pub. L. 104–188 substituted “section 172(f)” for “section 172(i)”.
 
-1978—Subsec. (b)(4), (5). Pub. L. 95–600 added par. (4) and redesignated former par. (4) as (5).
+<b>1978</b>—Subsec. (b)(4), (5). Pub. L. 95–600 added par. (4) and redesignated former par. (4) as (5).
 
-1976—Subsec. (b)(2). Pub. L. 94–455, §1901(a)(75)(A), struck out “with respect to taxable years of the corporation ending after May 26, 1969” after “ ‘redemption needs’ means”.
+<b>1976</b>—Subsec. (b)(2). Pub. L. 94–455, §1901(a)(75)(A), struck out “with respect to taxable years of the corporation ending after May 26, 1969” after “ ‘redemption needs’ means”.
 
 Subsec. (b)(4). Pub. L. 94–455, §1901(a)(75)(B), struck out “or (2)” after “paragraph (1)”.
 
-1969—Pub. L. 91–172 designated existing provisions as subsec. (a)(1) and added subsecs. (a)(2), (3) and (b).
+<b>1969</b>—Pub. L. 91–172 designated existing provisions as subsec. (a)(1) and added subsecs. (a)(2), (3) and (b).
 
 #### Effective Date of 1978 Amendment
 

@@ -50,7 +50,7 @@ The Commission shall conduct any informal hearings required by subsection (b)(1)
 
 &emsp;(4)(A) Except as provided in subparagraph (B), if a group of persons each of whom under paragraphs (2) and (3) would be entitled to conduct (or have conducted) cross-examination and who are determined by the Commission to have the same or similar interests in the proceeding cannot agree upon a single representative of such interests for purposes of cross-examination, the Commission may make rules and rulings (i) limiting the representation of such interest, for such purposes, and (ii) governing the manner in which such cross-examination shall be limited.
 
-&emsp;(B) When any person who is a member of a group with respect to which the Commission has made a determination under subparagraph (A) is unable to agree upon group representation with the other members of the group, then such person shall not be denied under the authority of subparagraph (A) the opportunity to conduct (or have conducted) cross-examination as to issues affecting his particular interests if (i) he satisfies the Commission that he has made a reasonable and good faith effort to reach agreement upon group representation with the other members of the group and (ii) the Commission determines that there are substantial and relevant issues which are not adequately presented by the group representative.
+&emsp;(B) When any person who is a member of a group with respect to which the Commission has made a determination under subparagraph (A) is unable to agree upon group representation with the other members of the group,then such person shall not be denied under the authority of subparagraph (A) the opportunity to conduct (or have conducted) cross-examination as to issues affecting his particular interests if (i) he satisfies the Commission that he has made a reasonable and good faith effort to reach agreement upon group representation with the other members of the group and (ii) the Commission determines that there are substantial and relevant issues which are not adequately presented by the group representative.
 
 &emsp;(5) A verbatim transcript shall be taken of any oral presentation, and cross-examination, in an informal hearing to which this subsection applies. Such transcript shall be available to the public.
 
@@ -90,7 +90,7 @@ The Commission shall conduct any informal hearings required by subsection (b)(1)
 
 (5)(A) Remedies under the preceding paragraphs of this subsection are in addition to and not in lieu of any other remedies provided by law.
 
-(B) The United States Courts of Appeal shall have exclusive jurisdiction of any action to obtain judicial review (other than in an enforcement proceeding) of a rule prescribed under subsection (a)(1)(B) of this section, if any district court of the United States would have had jurisdiction of such action but for this subparagraph. Any such action shall be brought in the United States Court of Appeals for the District of Columbia circuit, or for any circuit which includes a judicial district in which the action could have been brought but for this subparagraph.
+(B) The United States Courts of Appeal shall have exclusive jurisdiction of any action to obtain judicial review (other than in an enforcement proceeding) of a rule prescribed under subsection (a)(1)(B) of this section, if any districtcourt of the United States would have had jurisdiction of such action but for this subparagraph. Any such action shall be brought in the United States Court of Appeals for the District of Columbia circuit, or for any circuit which includes a judicial district in which the action could have been brought but for this subparagraph.
 
 (C) A determination, rule, or ruling of the Commission described in paragraph (3)(B)(i) or (ii) may be reviewed only in a proceeding under this subsection and only in accordance with paragraph (3)(B). Section 706(2)(E) of title 5 shall not apply to any rule promulgated under subsection (a)(1)(B) of this section. The contents and adequacy of any statement required by subsection (b)(1)(D) of this section shall not be subject to judicial review in any respect.
 
@@ -118,13 +118,13 @@ Enforcement.—Compliance with regulations prescribed under this subsection shal
 
 (7) Each agency exercising authority under this subsection shall transmit to the Congress each year a detailed report on its activities under this paragraph during the preceding calendar year.
 
-> The terms used in this paragraph that are not defined in this subchapter or otherwise defined in section 1813(s) of title 12 shall have the meaning given to them in section 3101 of title 12.
+> The terms used in this paragraph that are not defined in this subchapter or otherwise definedin section 1813(s) of title 12 shall have the meaning given to them in section 3101 of title 12.
 
 #### (g) Exemptions and stays from application of rules; procedures
 
 (1) Any person to whom a rule under subsection (a)(1)(B) of this section applies may petition the Commission for an exemption from such rule.
 
-(2) If, on its own motion or on the basis of a petition under paragraph (1), the Commission finds that the application of a rule prescribed under subsection (a)(1)(B) of this section to any person or class or <sup>3</sup> persons is not necessary to prevent the unfair or deceptive act or practiceto which the rule relates, the Commission may exempt such person or class from all or part of such rule. Section 553 of title 5 shall apply to action under this paragraph.
+(2) If, on its own motion or on the basis of a petition under paragraph (1), the Commission finds that the application of a rule prescribed under subsection (a)(1)(B) of this section to any person or class or <sup>3</sup> persons is not necessary to prevent the unfair or deceptive act or practice to which the rule relates, the Commission may exempt such person or class from all or part of such rule. Section 553 of title 5 shall apply to action under this paragraph.
 
 (3) Neither the pendency of a proceeding under this subsection respecting an exemption from a rule, nor the pendency of judicial proceedings to review the Commission's action or failure to act under this subsection, shall stay the applicability of such rule under subsection (a)(1)(B) of this section.
 
@@ -146,7 +146,49 @@ The Commission shall not have any authority to promulgate any rule in the childr
 
 Not later than 60 days after May 28, 1980, the Commission shall publish a proposed rule, and not later than 180 days after May 28, 1980, the Commission shall promulgate a final rule, which shall prohibit any officer, employee, or agent of the Commission with any investigative responsibility or other responsibility relating to any rulemaking proceeding within any operating bureau of the Commission, from communicating or causing to be communicated to any Commissioner or to the personal staff of any Commissioner any fact which is relevant to the merits of such proceeding and which is not on the rulemaking record of such proceeding, unless such communication is made available to the public and is included in the rulemaking record. The provisions of this subsection shall not apply to any communication to the extent such communication is required for the disposition of ex parte matters as authorized by law.
 
-(Sept. 26, 1914, ch. 311, §18, as added Pub. L. 93–637, title II, §202(a), Jan. 4, 1975, 88 Stat. 2193; amended Pub. L. 96–37, §1(c), July 23, 1979, 93 Stat. 95; Pub. L. 96–221, title VI, §610(b), Mar. 31, 1980, 94 Stat. 174; Pub. L. 96–252, §§7–11(a), 12, May 28, 1980, 94 Stat. 376–379; Pub. L. 100–86, title VII, §715(c), Aug. 10, 1987, 101 Stat. 655; Pub. L. 101–73, title VII, §744(t), Aug. 9, 1989, 103 Stat. 441; Pub. L. 102–242, title II, §212(g)(2), Dec. 19, 1991, 105 Stat. 2302; Pub. L. 102–550, title XVI, §1604(a)(9), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 103–312, §§3, 5, Aug. 26, 1994, 108 Stat. 1691, 1692; Pub. L. 103–437, §5(a), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 109–351, title VII, §725(g), Oct. 13, 2006, 120 Stat. 2002; Pub. L. 109–356, title I, §123(g), Oct. 16, 2006, 120 Stat. 2029.)
+(Sept. 26, 1914, ch. 311, §18, as added Pub. L. 93–637, title II, §202(a), Jan. 4, 1975, 88 Stat. 2193; amended Pub. L. 96–37, §1(c), July 23, 1979, 93 Stat. 95; Pub. L. 96–221, title VI, §610(b), Mar. 31, 1980, 94 Stat. 174; Pub. L. 96–252, §§7–11(a), 12, May 28, 1980, 94 Stat. 376–379; Pub. L. 100–86, title VII, §715(c), Aug. 10, 1987, 101 Stat. 655; Pub. L. 101–73, title VII, §744(t), Aug. 9, 1989, 103 Stat. 441; Pub. L. 102–242, title II, §212(g)(2), Dec. 19, 1991, 105 Stat. 2302; Pub. L. 102–550, title XVI, §1604(a)(9), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 103–312, §§3, 5, Aug. 26, 1994, 108 Stat. 1691, 1692; Pub. L. 103–437, §5(a), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 109–351, title VII, §725(g), Oct. 13, 2006, 120 Stat. 2002; Pub. L. 109–356, title I, §123(g), Oct. 16, 2006, 120 Stat. 2029; Pub. L. 111–203, title X, §1092, July 21, 2010, 124 Stat. 2094.)
+
+#### Amendment of Subsection (f)
+
+<i>Pub. L. 111–203, title X, §§1092, 1100H, July 21, 2010, 124 Stat. 2094, 2113, provided that, effective on the designated transfer date, subsection (f) of this section is amended as follows:</i>
+
+<i>(1) by striking the subsection heading and inserting the following:</i>
+
+#### <i>“(f) Definitions of banks, savings and loan institutions, and Federal credit unions”;</i>
+
+<i>(2) by striking paragraph (1) and inserting the following:</i>
+
+<i>“(1) \[Repealed.\]”;</i>
+
+<i>(3) in paragraph (2)—</i>
+
+<i>(A) by striking “(2) Enforcement” and all that follows through “in the case of” and inserting the following:</i>
+
+<i>“(2)</i>
+
+<i>Definition</i>.—<i>For purposes of this subchapter, the term ‘bank’ means”;</i>
+
+<i>(B) in subparagraph (A), by striking “, by the division” and all that follows through “Currency”;</i>
+
+<i>(C) in subparagraph (B)—</i>
+
+<i>(i) by striking “, by the division” and all that follows through “System”; and</i>
+
+<i>(ii) by striking “25(a)” and inserting “25A”; and</i>
+
+<i>(D) in subparagraph (C)—</i>
+
+<i>(i) by striking “(other” and inserting “(other than”; and</i>
+
+<i>(ii) by striking “, by the division” and all that follows through “Corporation”;</i>
+
+<i>(4) in paragraph (3), by striking “Compliance” and all that follows through “as defined in” and inserting the following: “For purposes</i><i>of this subchapter, the term ‘savings and loan institution’ has the same meaning as in”;</i>
+
+<i>(5) in paragraph (4), by striking “Compliance” and all that follows through “credit unions under” and inserting the following: “For purposes of this subchapter, the term ‘Federal credit union’ has the same meaning as in”; and</i>
+
+<i>(6) by striking paragraphs (5) through (7).</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -158,9 +200,9 @@ A prior section 18 of act Sept. 26, 1914, ch. 311, was renumbered section 28 and
 
 #### Amendments
 
-2006—Subsec. (f)(2)(A), (B). Pub. L. 109–351 and Pub. L. 109–356 amended par. (2) identically, striking out “, banks operating under the code of law for the District of Columbia,” after “national banks” in subpar. (A) and “and banks operating under the code of law for the District of Columbia” after “(other than national banks” in subpar. (B).
+<b>2006</b>—Subsec. (f)(2)(A), (B). Pub. L. 109–351 and Pub. L. 109–356 amended par. (2) identically, striking out “, banks operating under the code of law for the District of Columbia,” after “national banks” in subpar. (A) and “and banks operating under the code of law for the District of Columbia” after “(other than national banks” in subpar. (B).
 
-1994—Subsec. (a)(1). Pub. L. 103–312, §3(b), substituted “subsection (h)” for “subsection (i)” in introductory provisions.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–312, §3(b), substituted “subsection (h)” for “subsection (i)” in introductory provisions.
 
 Subsec. (b)(2)(B), (C). Pub. L. 103–437 substituted “Committee on Energy and Commerce” for “Committee on Interstate and Foreign Commerce”.
 
@@ -168,9 +210,9 @@ Subsec. (b)(3). Pub. L. 103–312, §5, added par. (3).
 
 Subsecs. (h) to (k). Pub. L. 103–312, §3(a), redesignated subsecs. (i) to (k) as (h) to (j), respectively, and struck out former subsec. (h) which provided for compensation for attorney fees, expert witness fees, etc., incurred in rulemaking proceedings, limitation on amount, and establishment of small business outreach program.
 
-1992—Subsec. (f)(2)(A). Pub. L. 102–550 substituted “division” for “divisions”.
+<b>1992</b>—Subsec. (f)(2)(A). Pub. L. 102–550 substituted “division” for “divisions”.
 
-1991—Subsec. (f). Pub. L. 102–242, §212(g)(2)(B), inserted at end “The terms used in this paragraph that are not defined in this subchapter or otherwise defined in section 1813(s) of title 12 shall have the meaning given to them in section 3101 of title 12.”
+<b>1991</b>—Subsec. (f). Pub. L. 102–242, §212(g)(2)(B), inserted at end “The terms used in this paragraph that are not defined in this subchapter or otherwise defined in section 1813(s) of title 12 shall have the meaning given to them in section 3101 of title 12.”
 
 Subsec. (f)(2). Pub. L. 102–242, §212(g)(2)(A), added par. (2) and struck out former par. (2) which read as follows: “Compliance with regulations prescribed under this subsection shall be enforced under section 1818 of title 12, in the case of—
 
@@ -180,13 +222,13 @@ Subsec. (f)(2). Pub. L. 102–242, §212(g)(2)(A), added par. (2) and struck out
 
 &emsp;“(C) banks insured by the Federal Deposit Insurance Corporation (other than banks referred to in subparagraph (A) or (B)), by the division of consumer affairs established by the Board of Directors of the Federal Deposit Insurance Corporation.”
 
-1989—Subsec. (f)(3). Pub. L. 101–73 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Compliance with regulations prescribed under this subsection shall be enforced under section 5 of the Home Owners’ Loan Act of 1933 (12 U.S.C. 1464) with respect to Federal savings and loan associations, section 407 of the National Housing Act (12 U.S.C. 1730) with respect to insured institutions, and sections 6(i) and 17 of the Federal Home Loan Bank Act (12 U.S.C. 1426(i), 1437) with respect to savings and loan institutions which are members of a Federal Home Loan Bank, by a division of consumer affairs to be established by the Federal Home Loan Bank Board pursuant to the Federal Home Loan Bank Act.”
+<b>1989</b>—Subsec. (f)(3). Pub. L. 101–73 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Compliance with regulations prescribed under this subsection shall be enforced under section 5 of the Home Owners’ Loan Act of 1933 (12 U.S.C. 1464) with respect to Federal savings and loan associations, section 407 of the National Housing Act (12 U.S.C. 1730) with respect to insured institutions, and sections 6(i) and 17 of the Federal Home Loan Bank Act (12 U.S.C. 1426(i), 1437) with respect to savings and loan institutions which are members of a Federal Home Loan Bank, by a division of consumer affairs to be established by the Federal Home Loan Bank Board pursuant to the Federal Home Loan Bank Act.”
 
-1987—Subsec. (f)(1). Pub. L. 100–86, §715(c)(1), (2), in second sentence inserted “and the National Credit Union Administration Board (with respect to Federal credit unions described in paragraph (4))” and in last sentence inserted “or Federal credit unions described in paragraph (4),” in two places, substituted “any such” for “either such”, and inserted “, savings and loan institutions or Federal credit unions”.
+<b>1987</b>—Subsec. (f)(1). Pub. L. 100–86, §715(c)(1), (2), in second sentence inserted “and the National Credit Union Administration Board (with respect to Federal credit unions described in paragraph (4))” and in last sentence inserted “or Federal credit unions described in paragraph (4),” in two places, substituted “any such” for “either such”, and inserted “, savings and loan institutions or Federal credit unions”.
 
 Subsec. (f)(4) to (7). Pub. L. 100–86, §715(c)(3), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
 
-1980—Subsec. (a)(1). Pub. L. 96–252, §§7, 11(a)(2), in provisions preceding subpar. (A) substituted “Except as provided in subsection (i) of this section, the” for “The” and in subpar. (B) inserted “, except that the Commission shall not develop or promulgate any trade rule or regulation with regard to the regulation of the development and utilization of the standards and certification activities pursuant to this section” after “section 45(a)(1) of this title)”.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–252, §§7, 11(a)(2), in provisions preceding subpar. (A) substituted “Except as provided in subsection (i) of this section, the” for “The” and in subpar. (B) inserted “, except that the Commission shall not develop or promulgate any trade rule or regulation with regard to the regulation of the development and utilization of the standards and certification activities pursuant to this section” after “section 45(a)(1) of this title)”.
 
 Subsec. (b). Pub. L. 96–252, §§8(a), 11(a)(3), designated existing provisions as par. (1) and cls. (1) to (4) thereof as subpars. (A) to (D) and, subpar. (A) thereof, inserted “the text of the rule, including any alternatives, which the Commission proposes to promulgate, and” after “particularity”, and added par. (2).
 
@@ -216,13 +258,17 @@ Subsec. (i). Pub. L. 96–252, §11(a)(1), added subsec. (i).
 
 Subsecs. (j), (k). Pub. L. 96–252, §12, added subsecs. (j) and (k).
 
-1979—Subsec. (f)(1). Pub. L. 96–37, §1(c)(1), inserted provisions relating to savings and loan institutions and to regulations with respect to savings and loan institutions promulgated by Federal Home Loan Bank Board.
+<b>1979</b>—Subsec. (f)(1). Pub. L. 96–37, §1(c)(1), inserted provisions relating to savings and loan institutions and to regulations with respect to savings and loan institutions promulgated by Federal Home Loan Bank Board.
 
 Subsec. (f)(3) to (6). Pub. L. 96–37, §1(c)(2), added par. (3) and redesignated former pars. (3) to (5) as (4) to (6), respectively.
 
 #### Change of Name
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1994 Amendment
 
@@ -258,7 +304,7 @@ Section 19 of Pub. L. 96–252 prohibited the Federal Trade Commission from usin
 
 #### Oversight Hearings With Respect to Federal Trade Commission
 
-Section 22 of Pub. L. 96–252 required the Consumer Subcommittee of the Committee on Commerce, Science, and Transportation of the Senate to conduct an oversight hearing with respect to the Federal Trade Commission at least once during the first 6 calendar months, and at least once during the last 6 calendar months, of each of the fiscal years 1980, 1981, and 1982.
+Section 22 of Pub. L. 96–252 required the Consumer Subcommittee of the Committee on Commerce, Science, and Transportation of the Senate to conduct an oversight hearing with respect to the Federal Trade Commission at least once during the first 6 calendarmonths, and at least once during the last 6 calendar months, of each of the fiscal years 1980, 1981, and 1982.
 
 #### Applicability of Unfair or Deceptive Acts or Practices Rulemaking Procedures to Rules Classifying Corporations Promulgated Prior to January 4, 1975
 

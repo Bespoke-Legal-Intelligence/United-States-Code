@@ -6,23 +6,23 @@
 
 (2) Grants and contracts may be made under paragraph (1) only to public and private agencies, organizations, and individuals that have experience in providing such technical assistance.
 
-(Pub. L. 93–415, title II, §221, Sept. 7, 1974, 88 Stat. 1118; Pub. L. 95–115, §4(a), Oct. 3, 1977, 91 Stat. 1050; Pub. L. 98–473, title II, §625(a), Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII,§7256, Nov. 18, 1988, 102 Stat. 4438; Pub. L. 102–586, §2(f)(1), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(A)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75; Pub. L. 107–273, div. C, title II, §12221(a)(2), Nov. 2, 2002, 116 Stat. 1894.)
+(Pub. L. 93–415, title II, §221, Sept. 7, 1974, 88 Stat. 1118; Pub. L. 95–115, §4(a), Oct. 3, 1977, 91 Stat. 1050; Pub. L. 98–473, title II, §625(a), Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §7256, Nov. 18, 1988, 102 Stat. 4438; Pub. L. 102–586, §2(f)(1), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(A)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75; Pub. L. 107–273, div. C, title II, §12221(a)(2), Nov. 2, 2002, 116 Stat. 1894.)
 
 #### Amendments
 
-2002—Subsec. (b)(2). Pub. L. 107–273 struck out at end “In providing such technical assistance, the recipient of a grant or contract under this subsection shall coordinate its activities with the State agency described in section 5671(c)(1) of this title.”
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–273 struck out at end “In providing such technical assistance, the recipient of a grant or contract under this subsection shall coordinate its activities with the State agency described in section 5671(c)(1) of this title.”
 
-1998—Subsec. (a). Pub. L. 105–277 substituted “units of local government” for “units of general local government”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277 substituted “units of local government” for “units of general local government”.
 
-1992—Subsec. (b)(2). Pub. L. 102–586, §2(f)(1)(A), which directed the substitution of “experience” for “existence”, could not be executed because “existence” did not appear in text.
+<b>1992</b>—Subsec. (b)(2). Pub. L. 102–586, §2(f)(1)(A), which directed the substitution of “experience” for “existence”, could not be executed because “existence” did not appear in text.
 
 Pub. L. 102–586, §2(f)(1)(B), made technical amendment to reference to section 5671 of this title to reflect renumbering of corresponding section of original act.
 
-1988—Pub. L. 100–690 inserted “and contracts” after “grants” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
+<b>1988</b>—Pub. L. 100–690 inserted “and contracts” after “grants” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
 
-1984—Pub. L. 98–473 amended section catchline.
+<b>1984</b>—Pub. L. 98–473 amended section catchline.
 
-1977—Pub. L. 95–115 inserted “grants and” before “contracts” and substituted “units of general local government or combinations thereof” for “local governments”.
+<b>1977</b>—Pub. L. 95–115 inserted “grants and” before “contracts” and substituted “units of general local government or combinations thereof” for “local governments”.
 
 #### Effective Date of 2002 Amendment
 

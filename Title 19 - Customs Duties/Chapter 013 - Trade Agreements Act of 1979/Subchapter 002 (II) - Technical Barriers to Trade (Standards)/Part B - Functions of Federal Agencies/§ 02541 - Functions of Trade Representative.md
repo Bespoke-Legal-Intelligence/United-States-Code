@@ -6,7 +6,7 @@ The Trade Representative shall coordinate the consideration of international tra
 
 #### (b) Negotiating functions
 
-The Trade Representative has responsibility for coordinating United States discussions andnegotiations with foreign countries for the purpose of establishing mutual arrangements with respect to standards-related activities. In carrying out this responsibility, the Trade Representative shall inform and consult with any Federal agency having expertise in the matters under discussion and negotiation.
+The Trade Representative has responsibility for coordinating United States discussions and negotiations with foreign countries for the purpose of establishing mutual arrangements with respect to standards-related activities. In carrying out this responsibility, the Trade Representative shall inform and consult with any Federal agency having expertise in the matters under discussion and negotiation.
 
 #### (c) Cross reference
 
@@ -16,11 +16,11 @@ The Trade Representative has responsibility for coordinating United States discu
 
 #### Amendments
 
-1996—Pub. L. 104–295, §21(b)(1), amended directory language of Pub. L. 103–182, §351(b)(2). See 1993 Amendment notes below.
+<b>1996</b>—Pub. L. 104–295, §21(b)(1), amended directory language of Pub. L. 103–182, §351(b)(2). See 1993 Amendment notes below.
 
 Subsec. (c). Pub. L. 104–295, §21(b)(2), substituted “Trade Representative” for “Special Representatives”.
 
-1993—Pub. L. 103–182, §351(b)(2)(B), as amended by Pub. L. 104–295, §21(b)(1), substituted “Trade Representative” for “Special Representative” in section catchline.
+<b>1993</b>—Pub. L. 103–182, §351(b)(2)(B), as amended by Pub. L. 104–295, §21(b)(1), substituted “Trade Representative” for “Special Representative” in section catchline.
 
 Subsecs. (a), (b). Pub. L. 103–182, §351(b)(2)(A), as amended by Pub. L. 104–295, §21(b)(1), substituted “Trade Representative” for “Special Representative” wherever appearing.
 

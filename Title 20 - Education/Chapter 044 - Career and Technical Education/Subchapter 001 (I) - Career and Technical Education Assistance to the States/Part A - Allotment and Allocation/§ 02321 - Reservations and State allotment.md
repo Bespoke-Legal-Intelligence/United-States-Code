@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of law and subject to subparagraphs (B) and (C), and paragraph (5), for a fiscal year for which there are no additional funds (as such term is defined in paragraph (4)(D)), no State shall receive for such fiscal year under this subsection less than 1/2 of 1 percent of the amount appropriated under section 2307 of this title and not reserved under paragraph (1) for such fiscal year. Amounts necessary for increasing such payments to States to comply with the preceding sentence shall be obtained by ratably reducing the amounts to be paid to other States.
+&emsp;&emsp;Notwithstanding any other provision of law and subject to subparagraphs (B) and (C), and paragraph (5), for a fiscal year for which there are no additional funds (as such term is defined in paragraph (4)(D)), no State shall receive for such fiscal year under this subsection less than ½ of 1 percent of the amount appropriated under section 2307 of this title and not reserved under paragraph (1) for such fiscal year. Amounts necessary for increasing such payments to States to comply with the preceding sentence shall be obtained by ratably reducing the amounts to be paid to other States.
 
 #### (B) Requirement
 
@@ -58,17 +58,17 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B) and paragraph (5), for a fiscal year for which there are additional funds, no State shall receive for such fiscal year under this subsection less than 1/2 of 1 percent of the amount appropriated under section 2307 of this title and not reserved under paragraph (1) for such fiscal year. Amounts necessary for increasing such payments to States to comply with the preceding sentence shall be obtained by ratably reducing the amounts to be paid to other States.
+&emsp;&emsp;Subject to subparagraph (B) and paragraph (5), for a fiscal year for which there are additional funds, no State shall receive for such fiscal year under this subsection less than ½ of 1 percent of the amount appropriated under section 2307 of this title and not reserved under paragraph (1) for such fiscal year. Amounts necessary for increasing such payments to States to comply with the preceding sentence shall be obtained by ratably reducing the amounts to be paid to other States.
 
 #### (B) Special rule
 
 &emsp;&emsp;In the case of a qualifying State, the minimum allotment under subparagraph (A) for a fiscal year for the qualifying State shall be the lesser of—
 
-&emsp;&emsp;&emsp;(i) 1/2 of 1 percent of the amount appropriated under section 2307 of this title and not reserved under paragraph (1) for such fiscal year; and
+&emsp;&emsp;&emsp;(i) ½ of 1 percent of the amount appropriated under section 2307 of this title and not reserved under paragraph (1) for such fiscal year; and
 
 &emsp;&emsp;&emsp;(ii) the sum of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the amount the qualifying State was allotted under paragraph (2) for fiscal year 2006 (as such paragraph was in effect on the day before August 12, 2006); and
+&emsp;&emsp;&emsp;&emsp;(I) the amount the qualifying State was allotted under paragraph (2) for fiscal year 2006 (as such paragraph was ineffect on the day before August 12, 2006); and
 
 &emsp;&emsp;&emsp;&emsp;(II) the product of—
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;&emsp;(i) the amount the qualifying State was allotted under paragraph (2) for fiscal year 2006 (as such paragraph was in effect on the day before August 12, 2006); divided by
 
-&emsp;&emsp;&emsp;(ii) 1/2 of 1 percent of the amount appropriated under section 2307 of this title and not reserved under paragraph (1) for the fiscal year for which the determination is made.
+&emsp;&emsp;&emsp;(ii) ½ of 1 percent of the amount appropriated under section 2307 of this title and not reserved under paragraph (1) for the fiscal year for which the determination is made.
 
 #### (D) Definitions
 
@@ -152,7 +152,7 @@ If the Secretary determines that any amount of any State's allotment under subse
 
 #### (d) Definition of State
 
-For the purpose of this section, the term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the United States Virgin Islands.
+For the purpose of this section, the term “State” means each of the several States of theUnited States, the District of Columbia, the Commonwealth of Puerto Rico, and the United States Virgin Islands.
 
 (Pub. L. 88–210, title I, §111, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 691.)
 
@@ -160,7 +160,7 @@ For the purpose of this section, the term “State” means each of the several 
 
 Paragraphs (1)(C) and (2), as such paragraphs were in effect on the day before August 12, 2006, referred to in subsec. (a)(4)(B)(ii)(I), (C)(i), (D)(i)(II)(aa), (bb), mean paragraphs (1)(C) and (2) of section 2321(a) of this title, as added by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3083, as amended, prior to the general amendment of this chapter by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 691. See Prior Provisions note below.
 
-Part A of title I of the Carl D. Perkins Vocational and Applied Technology Education Act, as such part was in effect on the day before October 31, 1998, referred to in subsec. (a)(5)(A), means part A of title I of Pub. L. 88–210, as added by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2438, as amended, which was classified to part A\(§2311 et seq.) of subchapter I of this chapter prior to the general amendment of this chapter by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
+Part A of title I of the Carl D. Perkins Vocational and Applied Technology Education Act, as such part was in effect on the day before October 31, 1998, referred to in subsec. (a)(5)(A), means part A of title I of Pub. L. 88–210, as added by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2438, as amended, which was classified to part A (§2311 et seq.) of subchapter I of this chapter prior to the general amendment of this chapter by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
 
 #### Prior Provisions
 

@@ -32,7 +32,7 @@ If the President determines that such action will simplify the computation of th
 
 #### Amendments
 
-1979—Subsec. (c)(2). Pub. L. 96–39 substituted “any part of the reduction” for “such part of the reduction”.
+<b>1979</b>—Subsec. (c)(2). Pub. L. 96–39 substituted “any part of the reduction” for “such part of the reduction”.
 
 #### Effective Date of 1979 Amendment
 

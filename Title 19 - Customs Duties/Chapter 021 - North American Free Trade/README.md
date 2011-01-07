@@ -36,7 +36,7 @@
 
 #### Part A—Safeguards
 
-I74subpart 1—relief from imports benefiting from agreement
+#### subpart 1—relief from imports benefiting from agreement
 
 |  |  |
 | :--- | ---: |
@@ -87,7 +87,7 @@ I74subpart 1—relief from imports benefiting from agreement
 
 #### Part D—Standards
 
-I74subpart 1—standards and measures
+#### subpart 1—standards and measures
 
 |  |  |
 | :--- | ---: |

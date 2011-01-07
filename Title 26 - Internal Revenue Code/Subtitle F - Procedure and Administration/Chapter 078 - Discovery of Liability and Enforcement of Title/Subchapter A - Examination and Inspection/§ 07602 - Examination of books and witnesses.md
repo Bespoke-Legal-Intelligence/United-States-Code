@@ -38,7 +38,7 @@ The purposes for which the Secretary may take any action described in paragraph 
 
 #### (1) Limitation of authority
 
-&emsp;No summons may be issued under this title, and the Secretary may not begin any action under section 7604 to enforce any summons, with respect to any person if a Justice Department referral is in effect with respect to such person.
+&emsp;No summons may be issued under this title, and the Secretary may not begin any actionunder section 7604 to enforce any summons, with respect to any person if a Justice Department referral is in effect with respect to such person.
 
 #### (2) Justice Department referral in effect
 
@@ -80,7 +80,7 @@ The Secretary shall not use financial status or economic reality examination tec
 
 #### Amendments
 
-1998—Subsec. (c). Pub. L. 105–206, §3417(a), added subsec. (c). Former subsec. (c) redesignated (d).
+<b>1998</b>—Subsec. (c). Pub. L. 105–206, §3417(a), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 105–206, §3417(a), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
@@ -88,9 +88,9 @@ Pub. L. 105–206, §3412, added subsec. (d).
 
 Subsec. (e). Pub. L. 105–206, §3417(a), redesignated subsec. (d) as (e).
 
-1982—Pub. L. 97–248 redesignated existing provisions as subsec. (a), added subsec. (a) heading, and added subsecs. (b) and (c).
+<b>1982</b>—Pub. L. 97–248 redesignated existing provisions as subsec. (a), added subsec. (a) heading, and added subsecs. (b) and (c).
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date of 1998 Amendment
 

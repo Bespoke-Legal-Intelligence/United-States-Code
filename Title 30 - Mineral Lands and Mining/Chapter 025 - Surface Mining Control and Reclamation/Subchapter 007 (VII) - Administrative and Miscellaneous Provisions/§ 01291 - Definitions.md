@@ -62,7 +62,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(B) the areas upon which such activities occur or where such activities disturb the natural land surface. Such areas shall also include any adjacent land the use of which is incidental to any such activities, all lands affected by the construction of new roads or the improvement or use of existing roads to gain access to the site of such activities and for haulage, and excavations, workings, impoundments, dams, ventilation shafts, entryways, refuse banks, dumps, stockpiles, overburden piles, spoil banks, culm banks, tailings, holes or depressions, repair areas, storage areas, processing areas, shipping areas and other areas upon which are sited structures, facilities, or other property or materials on the surface, resulting from or incident to such activities; and <sup>2</sup>
 
-&emsp;(29) “unwarranted failure to comply” means the failure of a permittee to prevent the occurrence of any violation of his permit or any requirement of this chapter due to indifference, lack of diligence, or lack of reasonable care, or the failure to abate any violation ofsuch permit or the chapter due to indifference, lack of diligence, or lack of reasonable care;
+&emsp;(29) “unwarranted failure to comply” means the failure of a permittee to prevent the occurrence of any violation of his permit or any requirement of this chapter due to indifference, lack of diligence, or lack of reasonable care, or the failure to abate any violation of such permit or the chapter due to indifference, lack of diligence, or lack of reasonable care;
 
 &emsp;(30) “lignite coal” means consolidated lignitic coal having less than 8,300 British thermal units per pound, moist and mineral matter free;
 
@@ -84,9 +84,9 @@ Section 1001 of title 20, referred to in par. (32), was in the original “secti
 
 #### Amendments
 
-1998—Par. (32). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
+<b>1998</b>—Par. (32). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
 
-1992—Pars. (33), (34). Pub. L. 102–486 added pars. (33) and (34).
+<b>1992</b>—Pars. (33), (34). Pub. L. 102–486 added pars. (33) and (34).
 
 #### Effective Date of 1998 Amendment
 

@@ -6,7 +6,7 @@ The provisions of this chapter and section 1346(b) of this title shall not apply
 
 (b) Any claim arising out of the loss, miscarriage, or negligent transmission of letters or postal matter.
 
-(c) Any claim arising in respect of the assessment or collection of any tax or customs duty, or the detention of any goods, merchandise, or other property by any officer of customs or excise or any other law enforcement officer, except that the provisions of this chapter and section 1346(b) of this title apply to any claim based on injury or loss of goods, merchandise, or other property, while in the possession of any officer of customs or excise or any other law enforcement officer, if—
+(c) Any claim arising in respect of the assessment or collection of any tax or customs duty, or the detention of any goods, merchandise, or other property by any officer of customs or excise or any other law enforcement officer, except that the provisions of this chapter and section 1346(b) of this title apply to any claim based on injury or loss of goods, merchandise, or other property, while in the possession of any officerof customs or excise or any other law enforcement officer, if—
 
 &emsp;(1) the property was seized for the purpose of forfeiture under any provision of Federal law providing for the forfeiture of property other than as a sentence imposed upon conviction of a criminal offense;
 
@@ -62,19 +62,19 @@ Panama Canal Company, referred to in subsec. (m), deemed to refer to Panama Cana
 
 #### Amendments
 
-2006—Subsec. (d). Pub. L. 109–304 substituted “chapter 309 or 311 of title 46” for “sections 741–752, 781–790 of Title 46,”.
+<b>2006</b>—Subsec. (d). Pub. L. 109–304 substituted “chapter 309 or 311 of title 46” for “sections 741–752, 781–790 of Title 46,”.
 
-2000—Subsec. (c). Pub. L. 106–185 substituted “any goods, merchandise, or other property” for “any goods or merchandise” and “law enforcement” for “law-enforcement”, inserted “, except that the provisions of this chapter and section 1346(b) of this title apply to any claim based on injury or loss of goods, merchandise, or other property, while in the possession of any officer of customs or excise or any other law enforcement officer, if—”, and added pars. (1) to (4).
+<b>2000</b>—Subsec. (c). Pub. L. 106–185 substituted “any goods, merchandise, or other property” for “any goods or merchandise” and “law enforcement” for “law-enforcement”, inserted “, except that the provisions of this chapter and section 1346(b) of this title apply to any claim based on injury or loss of goods, merchandise, or other property, while in the possession of any officer of customs or excise or any other law enforcement officer, if—”, and added pars. (1) to (4).
 
-1974—Subsec. (h). Pub. L. 93–253 inserted proviso.
+<b>1974</b>—Subsec. (h). Pub. L. 93–253 inserted proviso.
 
-1959—Subsec. (n). Pub. L. 86–168 added subsec. (n).
+<b>1959</b>—Subsec. (n). Pub. L. 86–168 added subsec. (n).
 
-1950—Subsec. (g). Act Sept. 26, 1950, §13(5), repealed subsec. (g).
+<b>1950</b>—Subsec. (g). Act Sept. 26, 1950, §13(5), repealed subsec. (g).
 
 Subsec. (m). Act Sept. 26, 1950, §2, substituted “Panama Canal Company” for “Panama Railroad Company”.
 
-1949—Subsec. (m). Act July 16, 1949, added subsec. (m).
+<b>1949</b>—Subsec. (m). Act July 16, 1949, added subsec. (m).
 
 #### Effective Date of 2000 Amendment
 
@@ -86,7 +86,7 @@ Amendment by Pub. L. 86–168 effective Jan. 1, 1960, see section 203(c) of Pub.
 
 #### Effective Date of 1950 Amendment
 
-Amendment by act Sept. 26, 1950, to take effect upon effective date of transfer to the Panama Canal Company, pursuant to the provisions of section 256 of the former Canal Zone Code, as added by section 10 of that act, of the Panama Canal together with the facilities and appurtenances related thereto, see section 14 of act Sept. 26, 1950.
+Amendment by act Sept. 26, 1950, to take effect upon effective date of transfer to the Panama Canal Company, pursuant to the provisions of section 256 of the former Canal Zone Code, as added by section 10 of that act, of the Panama Canal together with the facilitiesand appurtenances related thereto, see section 14 of act Sept. 26, 1950.
 
 #### Transfer of Functions
 
@@ -109,4 +109,6 @@ Declaration of national emergency in effect on Sept. 14, 1976, was terminated tw
 Joint Res. July 3, 1952, ch. 570, §1(a)(32), 66 Stat. 333, as amended by Joint Res. Mar. 31, 1953, ch. 13, §1, 67 Stat. 18, and Joint Res. June 30, 1953, ch. 172, 67 Stat. 132, provided that subsec. (j) of this section, in addition to coming into full force and effect in time of war, should continue in force until six months after the termination of the national emergency proclaimed by the President on Dec. 16, 1950 by 1950 Proc. No. 2914, 15 F.R. 9029, set out as a note preceding section 1 of Title 50 Appendix, War and National Defense, or such earlier date or dates as may be provided for by Congress, but in no event beyond Aug. 1, 1953. Section 7 of Joint Res. July 3, 1952, provided that it should become effective June 16, 1952.
 
 Joint Res. July 3, 1952, ch. 570, §6, 66 Stat. 334, repealed Joint Res. Apr. 14, 1952, ch. 204, 66 Stat. 54 as amended by Joint Res. May 28, 1952, ch. 339, 66 Stat. 96; Joint Res. June 14, 1952, ch. 437, 66 Stat. 137; Joint Res. June 30, 1952, ch. 526, 66 Stat. 296, which continued provisions of subsec. (j) of this section until July 3, 1952. This repeal was made effective June 16, 1952, by section 7 of Joint Res. July 3, 1952.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

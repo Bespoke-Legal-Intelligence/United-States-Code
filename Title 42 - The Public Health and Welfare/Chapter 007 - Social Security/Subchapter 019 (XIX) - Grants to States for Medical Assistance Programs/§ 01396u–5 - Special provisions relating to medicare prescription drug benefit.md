@@ -2,7 +2,7 @@
 
 #### (a) Requirements relating to medicare prescription drug low-income subsidies, medicare transitional prescription drug assistance, and medicare cost-sharing
 
-As a condition of its State plan under this subchapter under section 1396a(a)(66) of this title and receipt of any Federal financial assistance under section 1396b(a) of this title subject to subsection (e) of this section, a State shall do the following:
+As a condition of its State plan under this subchapter under section 1396a(a)(66) of this title and receipt of any Federal financial assistance under section 1396b(a) of this title subject tosubsection (e) of this section, a State shall do the following:
 
 #### (1) Information for transitional prescription drug assistance verification
 
@@ -168,7 +168,7 @@ The amounts expended by a State in carrying out subsection (a) of this section a
 
 #### (1) Medicare as primary payor
 
-&emsp;In the case of a part D eligible individual (as defined in section 1395w–101(a)(3)(A) of this title) who is described in subsection (c)(6)(A)(ii) of this section, notwithstanding any other provision of this subchapter, medical assistance is not available under this subchapter for such drugs (or for any cost-sharing respecting such drugs), and the rules under this subchapter relating to the provision of medical assistance for such drugs shall not apply. The provision of benefits with respect to such drugs shall not be considered as the provision of care or services under the plan under this subchapter. No payment may be made under section 1396b(a) of this title for prescribed drugs for which medical assistance is not available pursuant to this paragraph.
+&emsp;In the case of a part D eligible individual (as defined in section 1395w–101(a)(3)(A) of thistitle) who is described in subsection (c)(6)(A)(ii) of this section, notwithstanding any other provision of this subchapter, medical assistance is not available under this subchapter for such drugs (or for any cost-sharing respecting such drugs), and the rules under this subchapter relating to the provision of medical assistance for such drugs shall not apply. The provision of benefits with respect to such drugs shall not be considered as the provision of care or services under the plan under this subchapter. No payment may be made under section 1396b(a) of this title for prescribed drugs for which medical assistance is not available pursuant to this paragraph.
 
 #### (2) Coverage of certain excludable drugs
 
@@ -240,11 +240,11 @@ A prior section 1935 of act Aug. 14, 1935, was renumbered section 1939 and is cl
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–275 amended heading to include reference to medicare cost-sharing and added par. (4).
+<b>2008</b>—Subsec. (a). Pub. L. 110–275 amended heading to include reference to medicare cost-sharing and added par. (4).
 
-2005—Subsec. (c)(3)(B)(ii)(II). Pub. L. 109–91 inserted “, including drugs described in subparagraph (K) of section 1396r–8(d)(2) of this title” after “section 1395w–102(e) of this title”.
+<b>2005</b>—Subsec. (c)(3)(B)(ii)(II). Pub. L. 109–91 inserted “, including drugs described in subparagraph (K) of section 1396r–8(d)(2) of this title” after “section 1395w–102(e) of this title”.
 
-2003—Subsec. (a). Pub. L. 108–173, §103(d)(1)(A), inserted “subject to subsection (e) of this section” after “section 1396b(a) of this title” in introductory provisions.
+<b>2003</b>—Subsec. (a). Pub. L. 108–173, §103(d)(1)(A), inserted “subject to subsection (e) of this section” after “section 1396b(a) of this title” in introductory provisions.
 
 Subsec. (c). Pub. L. 108–173, §103(b), added subsec. (c).
 

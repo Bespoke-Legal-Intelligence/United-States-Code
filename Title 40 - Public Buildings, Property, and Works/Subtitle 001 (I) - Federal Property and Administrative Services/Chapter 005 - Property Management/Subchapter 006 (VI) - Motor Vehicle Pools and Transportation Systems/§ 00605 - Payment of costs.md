@@ -40,7 +40,7 @@ June 30, 1949, ch. 288, title II, §211(d), as added Sept. 5, 1950, ch. 849, §5
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–313, §3(h)(6)(A), substituted “Acquisition Services Fund” for “General Supply Fund” in heading and text.
+<b>2006</b>—Subsec. (a). Pub. L. 109–313, §3(h)(6)(A), substituted “Acquisition Services Fund” for “General Supply Fund” in heading and text.
 
 Subsec. (b)(2). Pub. L. 109–313, §3(h)(6)(B), substituted “321(f)” for “321(f)(1)” and “Acquisition Services Fund” for “General Supply Fund”.
 

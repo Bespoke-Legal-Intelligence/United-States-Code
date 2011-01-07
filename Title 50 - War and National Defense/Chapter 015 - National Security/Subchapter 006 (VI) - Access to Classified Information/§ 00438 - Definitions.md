@@ -28,5 +28,7 @@ The Atomic Energy Act of 1954, referred to in par. (2), is act Aug. 1, 1946, ch.
 
 #### Amendments
 
-1999—Par. (8). Pub. L. 106–120 added par. (8).
+<b>1999</b>—Par. (8). Pub. L. 106–120 added par. (8).
+
+<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

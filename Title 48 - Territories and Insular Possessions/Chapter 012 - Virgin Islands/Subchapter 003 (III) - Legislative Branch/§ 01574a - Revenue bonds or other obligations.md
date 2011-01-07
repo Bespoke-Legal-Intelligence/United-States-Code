@@ -26,9 +26,9 @@ Section was not enacted as part of the Revised Organic Act of the Virgin Islands
 
 #### Amendments
 
-1999—Subsec. (d). Pub. L. 106–84 struck out subsec. (d) which read as follows: “The legislature of the Government of the Virgin Islands may cause to be issued notes in anticipation of the collection of the taxes and revenues for the current fiscal year. Such notes shall mature and be paid within one year from the date they are issued. No extension of such notes shall be valid and no additional notes shall be issued under this section until all notes issued during a preceding year shall have been paid.”
+<b>1999</b>—Subsec. (d). Pub. L. 106–84 struck out subsec. (d) which read as follows: “The legislature of the Government of the Virgin Islands may cause to be issued notes in anticipation of the collection of the taxes and revenues for the current fiscal year. Such notes shall mature and be paid within one year from the date they are issued. No extension of such notes shall be valid and no additional notes shall be issued under this section until all notes issued during a preceding year shall have been paid.”
 
-1997—Subsec. (d). Pub. L. 105–83 added subsec. (d).
+<b>1997</b>—Subsec. (d). Pub. L. 105–83 added subsec. (d).
 
 #### Authorization of Appropriations
 

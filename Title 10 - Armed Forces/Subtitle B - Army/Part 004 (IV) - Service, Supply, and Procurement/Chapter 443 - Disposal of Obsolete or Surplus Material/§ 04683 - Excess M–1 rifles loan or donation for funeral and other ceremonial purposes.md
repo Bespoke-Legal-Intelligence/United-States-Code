@@ -8,11 +8,11 @@ Authority To Lend or Donate.—(1) The Secretary of the Army, under regulations 
 
 (b)
 
-Relief From Liability.—The Secretary may relieve an eligible organization to whichmaterials are lent or donated under subsection (a), and the surety on its bond, from liability for loss or destruction of the material lent or donated, if there is conclusive evidence that the loss or destruction did not result from negligence.
+Relief From Liability.—The Secretary may relieve an eligible organization to which materials are lent or donated under subsection (a), and the surety on its bond, from liability for loss or destruction of the material lent or donated, if there is conclusive evidence that the loss or destruction did not result from negligence.
 
 (c)
 
-Conditions on Loan or Donation.—In lending or donating rifles under subsection (a), the Secretary shall impose such conditions on the use of the rifles as may be necessary to ensure security, safety, and accountability. The Secretary may impose such other conditions as the Secretary considers appropriate.
+Conditions on Loan or Donation.—In lending or donating rifles under subsection (a), theSecretary shall impose such conditions on the use of the rifles as may be necessary to ensure security, safety, and accountability. The Secretary may impose such other conditions as the Secretary considers appropriate.
 
 (d)
 
@@ -54,7 +54,7 @@ In subsection (b), the words “a unit to which materials are lent under subsect
 
 #### Amendments
 
-1999—Pub. L. 106–65, §381(d)(1), substituted “Excess M–1 rifles: loan or donation for funeral and other ceremonial purposes” for “Obsolete or condemned rifles: loan to local units of recognized veterans’ organizations” in section catchline.
+<b>1999</b>—Pub. L. 106–65, §381(d)(1), substituted “Excess M–1 rifles: loan or donation for funeral and other ceremonial purposes” for “Obsolete or condemned rifles: loan to local units of recognized veterans’ organizations” in section catchline.
 
 Subsec. (a). Pub. L. 106–65, §381(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of the Army, under regulations to be prescribed by him, may—
 
@@ -70,7 +70,7 @@ Subsec. (b). Pub. L. 106–65, §381(c), inserted heading, substituted “an eli
 
 Subsecs. (c), (d). Pub. L. 106–65, §381(b), added subsecs. (c) and (d).
 
-1989—Subsec. (a)(1). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
 #### Report on Implementation
 

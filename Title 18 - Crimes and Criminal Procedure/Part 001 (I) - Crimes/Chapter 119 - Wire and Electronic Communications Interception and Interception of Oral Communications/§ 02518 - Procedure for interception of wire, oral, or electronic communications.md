@@ -1,6 +1,6 @@
 ### §2518. Procedure for interception of wire, oral, or electronic communications
 
-(1) Each application for an order authorizing or approving the interception of a wire, oral, orelectronic communication under this chapter shall be made in writing upon oath or affirmation to a judge of competent jurisdiction and shall state the applicant's authority to make such application. Each application shall include the following information:
+(1) Each application for an order authorizing or approving the interception of a wire, oral, or electronic communication under this chapter shall be made in writing upon oath or affirmation to a judge of competent jurisdiction and shall state the applicant's authority to make such application. Each application shall include the following information:
 
 &emsp;(a) the identity of the investigative or law enforcement officer making the application, and the officer authorizing the application;
 
@@ -74,7 +74,7 @@
 
 &emsp;(3) the fact that during the period wire, oral, or electronic communications were or were not intercepted.
 
-> The judge, upon the filing of a motion, may in his discretion make available to such person or his counsel for inspection such portions of the intercepted communications, applications and orders as the judge determines to be in the interest of justice. On an ex parte showing of goodcause to a judge of competent jurisdiction the serving of the inventory required by this subsection may be postponed.
+> The judge, upon the filing of a motion, may in his discretion make available to such person or his counsel for inspection such portions of the intercepted communications, applications and orders as the judge determines to be in the interest of justice. On an ex parte showing of good cause to a judge of competent jurisdiction the serving of the inventory required by this subsection may be postponed.
 
 (9) The contents of any wire, oral, or electronic communication intercepted pursuant to this chapter or evidence derived therefrom shall not be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in a Federal or State court unless each party, not less than ten days before the trial, hearing, or proceeding, has been furnished with a copy of the court order, and accompanying application, under which the interception was authorized or approved. This ten-day period may be waived by the judge if he finds that it was not possible to furnish the party with the above information ten days before the trial, hearing, or proceeding and that the party will not be prejudiced by the delay in receiving such information.
 
@@ -122,7 +122,7 @@ The Communications Assistance for Law Enforcement Act, referred to in par. (4), 
 
 #### Amendments
 
-1998—Par. (11)(b)(ii). Pub. L. 105–272, §604(a)(1), substituted “that there is probable cause to believe that the person's actions could have the effect of thwarting interception from a specified facility;” for “of a purpose, on the part of that person, to thwart interception by changing facilities; and”.
+<b>1998</b>—Par. (11)(b)(ii). Pub. L. 105–272, §604(a)(1), substituted “that there is probable cause to believe that the person's actions could have the effect of thwarting interception from a specified facility;” for “of a purpose, on the part of that person, to thwart interception by changing facilities; and”.
 
 Par. (11)(b)(iii). Pub. L. 105–272, §604(a)(2), substituted “such showing has been adequately made; and” for “such purpose has been adequately shown.”
 
@@ -130,9 +130,9 @@ Par. (11)(b)(iv). Pub. L. 105–272, §604(a)(3), added cl. (iv).
 
 Par. (12). Pub. L. 105–272, §604(b), substituted “by reason of subsection (11)(a)” for “by reason of subsection (11)”, struck out “the facilities from which, or” after “shall not begin until”, and struck out comma after “the place where”.
 
-1994—Par. (4). Pub. L. 103–414 inserted at end of concluding provisions “Pursuant to section 2522 of this chapter, an order may also be issued to enforce the assistance capability and capacity requirements under the Communications Assistance for Law Enforcement Act.”
+<b>1994</b>—Par. (4). Pub. L. 103–414 inserted at end of concluding provisions “Pursuant to section 2522 of this chapter, an order may also be issued to enforce the assistance capability and capacity requirements under the Communications Assistance for Law Enforcement Act.”
 
-1986—Pub. L. 99–508, §101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in section catchline.
+<b>1986</b>—Pub. L. 99–508, §101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in section catchline.
 
 Par. (1). Pub. L. 99–508, §101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in introductory provisions.
 
@@ -154,11 +154,11 @@ Par. (10)(c). Pub. L. 99–508, §101(e), added subpar. (c).
 
 Pars. (11), (12). Pub. L. 99–508, §106(d)(3), added pars. (11) and (12).
 
-1984—Par. (7). Pub. L. 98–473, §1203(a), inserted “, the Deputy Attorney General, the Associate Attorney General,” after “Attorney General” in provisions preceding subpar. (a).
+<b>1984</b>—Par. (7). Pub. L. 98–473, §1203(a), inserted “, the Deputy Attorney General, the Associate Attorney General,” after “Attorney General” in provisions preceding subpar. (a).
 
 Par. (7)(a). Pub. L. 98–473, §1203(b), amended subpar. (a) generally, adding cl. (i) and designated existing provisions as cls. (ii) and (iii).
 
-1978—Par. (1). Pub. L. 95–511, §201(d), inserted “under this chapter” after “communication”.
+<b>1978</b>—Par. (1). Pub. L. 95–511, §201(d), inserted “under this chapter” after “communication”.
 
 Par. (4). Pub. L. 95–511, §201(e), inserted “under this chapter” after “wire or oral communication” wherever appearing.
 
@@ -166,7 +166,7 @@ Par. (9). Pub. L. 95–511, §201(e), substituted “any wire or oral communicat
 
 Par. (10). Pub. L. 95–511, §201(g), substituted “any wire or oral communication intercepted pursuant to this chapter,” for “any intercepted wire or oral communication,”.
 
-1970—Par. (4). Pub. L. 91–358 inserted the provision that, upon the request of the applicant, an order authorizing the interception of a wire or oral communication direct that a communication common carrier, landlord, custodian, or other person furnish the applicant with all information, facilities, and technical assistance necessary to accomplish the interception unobtrusively and with a minimum of interference with the services provided.
+<b>1970</b>—Par. (4). Pub. L. 91–358 inserted the provision that, upon the request of the applicant, an order authorizing the interception of a wire or oral communication direct that a communication common carrier, landlord, custodian, or other person furnish the applicant with all information, facilities, and technical assistance necessary to accomplish the interception unobtrusively and with a minimum of interference with the services provided.
 
 #### Effective Date of 1986 Amendment
 

@@ -22,7 +22,7 @@
 
 &emsp;(2) not less than $2,575,000 for rural fire prevention and control; and
 
-&emsp;(3) not less than $4,255,000 for research and development for the activities under section 278f of this title at the Fire Research Center ofthe National Institute of Standards and Technology, of which not less than $250,000 shall be available for adjustments required by law in salaries, pay, retirement, and employee benefits.
+&emsp;(3) not less than $4,255,000 for research and development for the activities under section 278f of this title at the Fire Research Center of the National Institute of Standards and Technology, of which not less than $250,000 shall be available for adjustments required by law in salaries, pay, retirement, and employee benefits.
 
 > The funds authorized in paragraph (3) shall be in addition to funds authorized in any other law for research and development at the Fire Research Center.
 
@@ -30,7 +30,7 @@
 
 &emsp;(1) $20,815,000 for the fiscal year ending September 30, 1982, and $23,312,800 for the fiscal year ending September 30, 1983, which amount shall include—
 
-&emsp;&emsp;(A) such sums as may be necessary for the support of research and development at the Fire Research Center of the National Institute of Standards and Technology under section 278f of this title, which sums shall be in addition to those funds authorized to be appropriated under the National Bureau of Standards Authorization Act for fiscal years 1981 and 1982; and
+&emsp;&emsp;(A) such sums as may be necessary for the support of research and development at the Fire Research Center of the National Institute of Standards and Technology under section 278f of this title, which sums shall be inaddition to those funds authorized to be appropriated under the National Bureau of Standards Authorization Act for fiscal years 1981 and 1982; and
 
 &emsp;&emsp;(B) $654,000 for the fiscal year ending September 30, 1982, and $732,480 for the fiscal year ending September 30, 1983, for executive direction by the Federal Emergency Management Agency of program activities for which appropriations are authorized by this subsection; and
 
@@ -78,9 +78,11 @@
 
 &emsp;(4) $250,000 for each of the fiscal years 1995 and 1996 for salaries and expenses for carrying out section 2221 of this title.
 
-(Pub. L. 93–498, §17, Oct. 29, 1974, 88 Stat. 1545; Pub. L. 94–411, §1(a), Sept. 13, 1976, 90 Stat. 1254; Pub. L. 95–422, §1(a), Oct. 5, 1978, 92 Stat. 932; Pub. L. 96–121, §1, Nov. 16, 1979, 93 Stat. 863; Pub. L. 96–472, title II, §201, Oct. 19, 1980, 94 Stat. 2260; Pub. L. 97–80, title II, §201, Nov. 20, 1981, 95 Stat. 1081; Pub. L. 98–241, title II, §201, Mar. 22, 1984, 98 Stat. 95; Pub. L. 99–97, Sept. 26, 1985, 99 Stat. 465; Pub. L. 99–359, §1, July 8, 1986, 100 Stat. 764; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 100–476, §1, Oct. 6, 1988, 102 Stat. 2304; Pub. L. 102–522, title I, §101, Oct. 26, 1992, 106 Stat. 3410; Pub. L. 103–254, §7, May 19,1994, 108 Stat. 682; Pub. L. 105–108, §2, Nov. 20, 1997, 111 Stat. 2264; Pub. L. 106–503, title I, §102, Nov. 13, 2000, 114 Stat. 2298; Pub. L. 108–169, title I, §103, Dec. 6, 2003, 117 Stat. 2036; Pub. L. 110–376, §3, Oct. 8, 2008, 122 Stat. 4057.)
+(Pub. L. 93–498, §17, Oct. 29, 1974, 88 Stat. 1545; Pub. L. 94–411, §1(a), Sept. 13, 1976, 90 Stat. 1254; Pub. L. 95–422, §1(a), Oct. 5, 1978, 92 Stat. 932; Pub. L. 96–121, §1, Nov. 16, 1979, 93 Stat. 863; Pub. L. 96–472, title II, §201, Oct. 19, 1980, 94 Stat. 2260; Pub. L. 97–80, title II, §201, Nov. 20, 1981, 95 Stat. 1081; Pub. L. 98–241, title II, §201, Mar. 22, 1984, 98 Stat. 95; Pub. L. 99–97, Sept. 26, 1985, 99 Stat. 465; Pub. L. 99–359, §1, July 8, 1986, 100 Stat. 764; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 100–476, §1, Oct. 6, 1988, 102 Stat. 2304; Pub. L. 102–522, title I, §101, Oct. 26, 1992, 106 Stat. 3410; Pub. L. 103–254, §7, May 19, 1994, 108 Stat. 682; Pub. L. 105–108, §2, Nov. 20, 1997, 111 Stat. 2264; Pub. L. 106–503, title I, §102, Nov. 13, 2000, 114 Stat. 2298; Pub. L. 108–169, title I, §103, Dec. 6, 2003, 117 Stat. 2036; Pub. L. 110–376, §3, Oct. 8, 2008, 122 Stat. 4057.)
 
 #### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–498, Oct. 29, 1974, 88 Stat. 1535, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
 
 Section 2220(b)(1) of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 106–503, title I, §110(a)(1)(D), Nov. 13, 2000, 114 Stat. 2302.
 
@@ -92,39 +94,39 @@ The National Bureau of Standards Authorization Act for fiscal years 1981 and 198
 
 #### Amendments
 
-2008—Subsec. (g)(1)(E) to (H). Pub. L. 110–376 added subpars. (E) to (H).
+<b>2008</b>—Subsec. (g)(1)(E) to (H). Pub. L. 110–376 added subpars. (E) to (H).
 
-2003—Subsec. (g)(1). Pub. L. 108–169 added subpars. (A) to (D) and struck out former subpars. (A) to (K) which authorized appropriations for fiscal years 1989 to 2003.
+<b>2003</b>—Subsec. (g)(1). Pub. L. 108–169 added subpars. (A) to (D) and struck out former subpars. (A) to (K) which authorized appropriations for fiscal years 1989 to 2003.
 
-2000—Subsec. (g)(1)(I) to (K). Pub. L. 106–503 added subpars. (I) to (K).
+<b>2000</b>—Subsec. (g)(1)(I) to (K). Pub. L. 106–503 added subpars. (I) to (K).
 
-1997—Subsec. (g)(1)(G), (H). Pub. L. 105–108 added subpars. (G) and (H).
+<b>1997</b>—Subsec. (g)(1)(G), (H). Pub. L. 105–108 added subpars. (G) and (H).
 
-1994—Subsec. (h). Pub. L. 103–254 added subsec. (h).
+<b>1994</b>—Subsec. (h). Pub. L. 103–254 added subsec. (h).
 
-1992—Subsec. (g)(1)(D) to (F). Pub. L. 102–522 added subpars. (D) to (F).
+<b>1992</b>—Subsec. (g)(1)(D) to (F). Pub. L. 102–522 added subpars. (D) to (F).
 
-1988—Subsecs. (c)(3), (d), (e). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards” wherever appearing.
+<b>1988</b>—Subsecs. (c)(3), (d), (e). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards” wherever appearing.
 
 Subsec. (g). Pub. L. 100–476 added subsec. (g).
 
-1986—Subsec. (f). Pub. L. 99–359 substituted “are” for “is” and inserted “and $18,300,000 for the fiscal year ending September 30, 1987”.
+<b>1986</b>—Subsec. (f). Pub. L. 99–359 substituted “are” for “is” and inserted “and $18,300,000 for the fiscal year ending September 30, 1987”.
 
-1985—Subsec. (f). Pub. L. 99–97 added subsec. (f).
+<b>1985</b>—Subsec. (f). Pub. L. 99–97 added subsec. (f).
 
-1984—Subsec. (e). Pub. L. 98–241 added subsec. (e).
+<b>1984</b>—Subsec. (e). Pub. L. 98–241 added subsec. (e).
 
-1981—Subsec. (d). Pub. L. 97–80 added subsec. (d).
+<b>1981</b>—Subsec. (d). Pub. L. 97–80 added subsec. (d).
 
-1980—Subsec. (c). Pub. L. 96–472 added subsec. (c).
+<b>1980</b>—Subsec. (c). Pub. L. 96–472 added subsec. (c).
 
-1979—Subsec. (a). Pub. L. 96–121 designated existing provisions as subsec. (a), substituted provisions authorizing to be appropriated an amount not to exceed $25,210,000 for fiscal year ending Sept. 30, 1980, for provisions authorizing appropriations not to exceed $3,750,000 for the transitional fiscal quarter of July 1, 1976 through Sept. 30, 1976, not to exceed $15,000,000 for fiscal year ending Sept. 30, 1977, not to exceed $20,000,000 for fiscal year ending Sept. 30, 1978, and not to exceed $24,352,000 for fiscal year ending Sept. 30, 1979, and added pars. (1) to (6).
+<b>1979</b>—Subsec. (a). Pub. L. 96–121 designated existing provisions as subsec. (a), substituted provisions authorizing to be appropriated an amount not to exceed $25,210,000 for fiscal year ending Sept. 30, 1980, for provisions authorizing appropriations not to exceed $3,750,000 for the transitional fiscal quarter of July 1, 1976 through Sept. 30, 1976, not to exceed $15,000,000 for fiscal year ending Sept. 30, 1977, not to exceed $20,000,000 for fiscal year ending Sept. 30, 1978, and not to exceed $24,352,000 for fiscal year ending Sept. 30, 1979, and added pars. (1) to (6).
 
 Subsec. (b). Pub. L. 96–121 added subsec. (b).
 
-1978—Pub. L. 95–422 substituted “except as otherwise specifically provided, with respect to the payment of claims, under section 2210 of this title” for “except section 2210 of this title”, struck out “and” after “September 30, 1977”, and inserted provision authorizing appropriation of not to exceed $24,352,000 for fiscal year ending Sept. 30, 1979.
+<b>1978</b>—Pub. L. 95–422 substituted “except as otherwise specifically provided, with respect to the payment of claims, under section 2210 of this title” for “except section 2210 of this title”, struck out “and” after “September 30, 1977”, and inserted provision authorizing appropriation of not to exceed $24,352,000 for fiscal year ending Sept. 30, 1979.
 
-1976—Pub. L. 94–411 substituted provisions authorizing to be appropriated not to exceed $3,750,000 for the transitional fiscal quarter of July 1, 1976, through Sept. 30, 1976, not to exceed $15,000,000 for fiscal year ending Sept. 30, 1977, and not to exceed $20,000,000 for fiscal year ending Sept. 30, 1978, for provisions authorizing to be appropriated such sums as are necessary, not to exceed $10,000,000 for fiscal year ending June 30, 1975, and not to exceed $15,000,000 for fiscal year ending June 30, 1976.
+<b>1976</b>—Pub. L. 94–411 substituted provisions authorizing to be appropriated not to exceed $3,750,000 for the transitional fiscal quarter of July 1, 1976, through Sept. 30, 1976, not to exceed $15,000,000 for fiscal year ending Sept. 30, 1977, and not to exceed $20,000,000 for fiscal year ending Sept. 30, 1978, for provisions authorizing to be appropriated such sums as are necessary, not to exceed $10,000,000 for fiscal year ending June 30, 1975, and not to exceed $15,000,000 for fiscal year ending June 30, 1976.
 
 #### Transfer of Functions
 

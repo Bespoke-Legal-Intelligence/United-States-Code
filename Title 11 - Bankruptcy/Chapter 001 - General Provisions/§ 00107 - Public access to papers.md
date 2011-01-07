@@ -1,6 +1,6 @@
 ### §107. Public access to papers
 
-(a) Except as provided in subsections (b) and (c) of this section and subject to section 112, a paper filed in a case under this title and the dockets of a bankruptcy court are public records and open to examination by an entity at reasonable times without charge.
+(a) Except as provided in subsections (b) and (c) and subject to section 112, a paper filed in a case under this title and the dockets of a bankruptcy court are public records and open to examination by an entity at reasonable times without charge.
 
 (b) On request of a party in interest, the bankruptcy court shall, and on the bankruptcy court's own motion, the bankruptcy court may—
 
@@ -22,7 +22,7 @@
 
 &emsp;(B) shall not disclose information specifically protected by the court under this title.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2556; Pub. L. 109–8, title II, §§233(c), 234(a), (c), Apr. 20, 2005, 119 Stat. 74, 75.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2556; Pub. L. 109–8, title II, §§233(c), 234(a), (c), Apr. 20, 2005,119 Stat. 74, 75; Pub. L. 111–327, §2(a)(5), Dec. 22, 2010, 124 Stat. 3557.)
 
 #### Historical and Revision Notes
 
@@ -34,7 +34,9 @@ Subsection (b) permits the court, on its own motion, and requires the court, on 
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–8, §234(c), which directed the substitution of “subsections (b) and (c),” for “subsection (b),” was executed by substituting “subsections (b) and (c)” for “subsection (b)”, to reflect the probable intent of Congress.
+2010—Subsec. (a). Pub. L. 111–327 substituted “subsections (b) and (c)” for “subsection (b) of this section”.
+
+2005—Subsec. (a). Pub. L. 109–8, §234(c), which directed the substitution of “subsections (b) and (c),” for “subsection (b),”, could not be executed because “subsection (b),” did not appear in text.
 
 Pub. L. 109–8, §233(c), inserted “and subject to section 112” after “section”.
 

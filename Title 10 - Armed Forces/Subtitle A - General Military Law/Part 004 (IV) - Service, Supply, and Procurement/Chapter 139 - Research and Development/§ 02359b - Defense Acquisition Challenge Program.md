@@ -84,14 +84,6 @@ Limitation on Use of Funds.—Funds made available for the Challenge Program may
 
 (j)
 
-Annual Report.—The Under Secretary shall submit an annual report on the Challenge Program to Congress. The report shall be submitted at the same time as the President submits the budget for a fiscal year to Congress under section 1105(a) of title 31, and shall cover the conduct of the Challenge Program for the preceding fiscal year. The report shall include the number and scope of challenge proposals submitted, preliminarily evaluated, subjected to full review and evaluation, and adopted. The report shall also include a list of each challenge proposal that was determined by a Panel to satisfy each of the criteria specified in subsection (c)(5), but was not determined under a full review and evaluation to satisfy such criteria, together with a detailed rationale for the Department's determination that such criteria were not satisfied.
-
-(k)
-
-Termination of Authority.—The Secretary may not carry out the Challenge Program under this section after September 30, 2012.
-
-(<i>l</i>)
-
 System Defined.—In this section, the term “system”—
 
 &emsp;(1) means—
@@ -102,13 +94,63 @@ System Defined.—In this section, the term “system”—
 
 &emsp;(2) includes a major system (as defined in section 2302(5) of this title).
 
-(Added Pub. L. 107–314, div. A, title II, §243(a), Dec. 2, 2002, 116 Stat. 2495; amended Pub. L. 109–364, div. A, title II, §213(b), (d)–(g), Oct. 17, 2006, 120 Stat. 2121–2123; Pub. L. 110–417, \[div. A\], title VIII, §821, Oct. 14, 2008, 122 Stat. 4531.)
+(k)
+
+Pilot Program for Programs Other Than Major Defense Acquisition Programs.—
+
+&emsp;(1)
+
+In general.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall carry out a pilot program to expand the use of the authority provided in this section to provide opportunities for the introduction of innovative and cost-saving approaches to programs other than major defense acquisition programs through the submission, review, and implementation, where appropriate, of qualifying proposals.
+
+&emsp;(2)
+
+Qualifying proposals.—For purposes of this subsection, a qualifying proposal is an offer to supply a nondevelopmental item that—
+
+&emsp;&emsp;(A) is evaluated as achieving a level of performance that is at least equal to the level of performance of an item being procured under a covered acquisition program and as providing savings in excess of 15 percent after considering all costs to the Government of implementing such proposal; or
+
+&emsp;&emsp;(B) is evaluated as achieving a level of performance that is significantly better than the level of performance of an item being procured under a covered acquisition program without any increase in cost to the Government.
+
+&emsp;(3)
+
+Review procedures.—The Under Secretary shall adopt modifications as may be needed to the procedures applicable to the Challenge Program to provide for Department of Defense review of, and action on, qualifying proposals. Such procedures shall include, at a minimum, the issuance of a broad agency announcement inviting interested parties to submit qualifying proposals in areas of interest to the Department.
+
+&emsp;(4)
+
+Definitions.—In this subsection:
+
+&emsp;&emsp;(A)
+
+Nondevelopmental item.—The term “nondevelopmental item” has the meaninggiven that term in section 4 <sup>1</sup> of the Office of Federal Procurement Policy Act (41 U.S.C. 403).
+
+&emsp;&emsp;(B)
+
+Covered acquisition program.—The term “covered acquisition program” means any acquisition program of the Department of Defense other than a major defense acquisition program, but does not include any contract awarded under an exception to competitive acquisition authorized by the Small Business Act (15 U.S.C. 631 et seq.) <sup>2</sup>
+
+&emsp;&emsp;(C)
+
+Level of performance.—The term “level of performance”, with respect to a nondevelopmental item, means the extent to which the item demonstrates required item functional characteristics.
+
+&emsp;(5)
+
+Sunset.—The authority to carry out the pilot program under this subsection shall terminate on the date that is five years after the date of the enactment of this Act.
+
+(Added Pub. L. 107–314, div. A, title II, §243(a), Dec. 2, 2002, 116 Stat. 2495; amended Pub. L. 109–364, div. A, title II, §213(b), (d)–(g), Oct. 17, 2006, 120 Stat. 2121–2123; Pub. L. 110–417, \[div. A\], title VIII, §821, Oct. 14, 2008, 122 Stat. 4531; Pub. L. 111–383, div. A, title VIII, §827, Jan. 7, 2011, 124 Stat. 4270.)
+
+#### References in Text
+
+Section 4 of the Office of Federal Procurement Policy Act, referred to in subsec. (k)(4)(A), is section 4 of Pub. L. 93–400, which was classified to section 403 of former Title 41, Public Contracts, and was repealed and the provisions thereof restated in sections 102, 103, 105, 107 to 116, 131 to 134, and 1301 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+
+The Small Business Act, referred to in subsec. (k)(4)(B), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
+
+The date of the enactment of this Act, referred to in subsec. (k)(5), probably means the date of enactment of Pub. L. 111–383, which enacted subsec. (k) and was approved Jan. 4, 2011.
 
 #### Amendments
 
-2008—Subsec. (<i>l</i>). Pub. L. 110–417 added subsec. (<i>l</i>).
+<b>2011</b>—Subsecs. (j) to (<i>l</i>). Pub. L. 111–383 redesignated subsec. (<i>l</i>) as (j), added subsec. (k), and struck out former subsecs. (j) and (k) which related to annual report and termination of authority, respectively.
 
-2006—Subsec. (c)(4), (5). Pub. L. 109–364, §213(b)(1), added par. (4) and redesignated former par. (4) as (5). Former par. (5) redesignated (6).
+<b>2008</b>—Subsec. (<i>l</i>). Pub. L. 110–417 added subsec. (<i>l</i>).
+
+<b>2006</b>—Subsec. (c)(4), (5). Pub. L. 109–364, §213(b)(1), added par. (4) and redesignated former par. (4) as (5). Former par. (5) redesignated (6).
 
 Subsec. (c)(6). Pub. L. 109–364, §213(b)(1)(A), (d), redesignated par. (5) as (6) and amended it generally. Prior to amendment, par. (6) read as follows: “The Under Secretary may establish procedures to ensure that the Challenge Program does not become an avenue for the repetitive submission of proposals that have been previously reviewed and found not to have merit.” Former par. (6) redesignated (7).
 
@@ -131,4 +173,8 @@ Subsec. (i). Pub. L. 109–364, §213(b)(3)(A), redesignated subsec. (h) as (i).
 Subsec. (j). Pub. L. 109–364, §213(b)(3)(A), (4), redesignated subsec. (i) as (j) and substituted “The report shall also include a list of each challenge proposal that was determined by a Panel to satisfy each of the criteria specified in subsection (c)(5), but was not determined under a full review and evaluation to satisfy such criteria, together with a detailed rationale for the Department's determination that such criteria were not satisfied” for “No report is required for a fiscal year in which the Challenge Program is not carried out”. Former subsec. (j) redesignated (k).
 
 Subsec. (k). Pub. L. 109–364, §213(b)(3)(A), (f), redesignated subsec. (j) as (k) and substituted “2012” for “2007”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
 

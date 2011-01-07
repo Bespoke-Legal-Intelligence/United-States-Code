@@ -1,6 +1,6 @@
 ### §§8601 to 8609. Repealed. Pub. L. 110–234, title IX, §9001(b), May 22, 2008, 122 Stat. 1333, and Pub. L. 110–246, §4(a), title IX, §9001(b), June 18, 2008, 122 Stat. 1664, 2095
 
-Section 8601, Pub. L. 106–224, title III, §302, June 20, 2000, 114 Stat. 428, related to Congressional findings on conversion of biomass into biobased industrial products.
+Section 8601, Pub. L. 106–224, title III, §302, June 20, 2000, 114 Stat. 428, related to Congressional findings onconversion of biomass into biobased industrial products.
 
 Section 8602, Pub. L. 106–224, title III, §303, June 20, 2000, 114 Stat. 429; Pub. L. 109–58, title IX, §941(a), Aug. 8, 2005, 119 Stat. 873, set forth definitions.
 

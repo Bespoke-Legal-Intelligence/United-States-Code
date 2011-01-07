@@ -52,7 +52,7 @@ Section was enacted as part of the Water Resources Development Act of 1990, and 
 
 #### Amendments
 
-1999—Subsec. (a). Pub. L. 106–53, §219(a)(1), inserted “Exclusion of elements from” before “benefit-cost” in heading.
+<b>1999</b>—Subsec. (a). Pub. L. 106–53, §219(a)(1), inserted “Exclusion of elements from” before “benefit-cost” in heading.
 
 Subsecs. (b) to (d). Pub. L. 106–53, §219(a)(2), (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively. Former subsec. (d) redesignated (e).
 

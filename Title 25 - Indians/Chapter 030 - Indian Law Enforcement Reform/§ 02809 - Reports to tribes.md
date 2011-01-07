@@ -1,26 +1,74 @@
 ### §2809. Reports to tribes
 
-#### (a) Reports by law enforcement officials of Bureau or Federal Bureau of Investigation
+#### (a) Coordination and data collection
 
-In any case in which law enforcement officials of the Bureau or the Federal Bureau of Investigation decline to initiate an investigation of a reported violation of Federal law in Indian country, or terminate such an investigation without referral for prosecution, such officials are authorized to submit a report to the appropriate governmental and law enforcement officials of the Indian tribe involved that states, with particularity, the reason or reasons why the investigation was declined or terminated.
+#### (1) Investigative coordination
 
-#### (b) Reports by United States attorney
+&emsp;Subject to subsection (c), if a law enforcement officer or employee of any Federal department or agency terminates an investigation of an alleged violation of Federal criminal law in Indian country without referral for prosecution, the officer or employee shall coordinate with the appropriate tribal law enforcement officials regarding the status of the investigation and the use of evidence relevant to the case in a tribal court with authority over the crime alleged.
 
-In any case in which a United States attorney declines to prosecute an alleged violation of Federal criminal law in Indian country referred for prosecution by the Federal Bureau of Investigation or the Bureau, or moves to terminate a prosecution of such an alleged violation, the United States attorney is authorized to submit a report to the appropriate governmental and law enforcement officials of the Indian tribe involved that states, with particularity, the reason or reasons why the prosecution was declined or terminated.
+#### (2) Investigation data
 
-#### (c) Case file included within reports
+&emsp;The Federal Bureau of Investigation shall compile, on an annual basis and by Field Division, information regarding decisions not to refer to an appropriate prosecuting authority cases in which investigations had been opened into an alleged crime in Indian country, including—
 
-In any case—
+&emsp;&emsp;(A) the types of crimes alleged;
 
-&emsp;(1) in which the alleged offender is an Indian, and
+&emsp;&emsp;(B) the statuses of the accused as Indians or non-Indians;
 
-&emsp;(2) for which a report is submitted under subsection (a) or (b) of this section,
+&emsp;&emsp;(C) the statuses of the victims as Indians or non-Indians; and
 
-> the report made to the Indian tribe may include the case file, including evidence collected and statements taken, which might support an investigation or prosecution of a violation of tribal law.
+&emsp;&emsp;(D) the reasons for deciding against referring the investigation for prosecution.
 
-#### (d) Transfer or disclosure of confidential or privileged communication, information or sources to tribal officials
+#### (3) Prosecutorial coordination
 
-Nothing in this section shall require any Federal agency or official to transfer or disclose any confidential or privileged communication, information, or sources to the officials of any Indian tribe. Federal agencies authorized to make reports pursuant to this section shall, by regulations, adopt standards for the protection of such communications, information, or sources.
+&emsp;Subject to subsection (c), if a United States Attorney declines to prosecute, or acts to terminate prosecution of, an alleged violation ofFederal criminal law in Indian country, the United States Attorney shall coordinate with the appropriate tribal justice officials regarding the status of the investigation and the use of evidence relevant to the case in a tribal court with authority over the crime alleged.
 
-(Pub. L. 101–379, §10, Aug. 18, 1990, 104 Stat. 477.)
+#### (4) Prosecution data
+
+&emsp;The United States Attorney shall submit to the Native American Issues Coordinator to compile, on an annual basis and by Federal judicial district, information regarding all declinations of alleged violations of Federal criminal law that occurred in Indian country that were referred for prosecution by law enforcement agencies, including—
+
+&emsp;&emsp;(A) the types of crimes alleged;
+
+&emsp;&emsp;(B) the statuses of the accused as Indians or non-Indians;
+
+&emsp;&emsp;(C) the statuses of the victims as Indians or non-Indians; and
+
+&emsp;&emsp;(D) the reasons for deciding to decline or terminate the prosecutions.
+
+#### (b) Annual reports
+
+The Attorney General shall submit to Congress annual reports containing, with respect to the applicable calendar year, the information compiled under paragraphs (2) and (4) of subsection (a)—
+
+&emsp;(1) organized—
+
+&emsp;&emsp;(A) in the aggregate; and
+
+&emsp;&emsp;(B)(i) for the Federal Bureau of Investigation, by Field Division; and
+
+&emsp;&emsp;(ii) for United States Attorneys, by Federal judicial district; and
+
+&emsp;(2) including any relevant explanatory statements.
+
+#### (c) Effect of section
+
+#### (1) In general
+
+&emsp;Nothing in this section requires any Federal agency or official to transfer or disclose any confidential, privileged, or statutorily protected communication, information, or source to an official of any Indian tribe.
+
+#### (2) Federal Rules of Criminal Procedure
+
+&emsp;Nothing in this section affects or limits the requirements of Rule 6 of the Federal Rules of Criminal Procedure.
+
+#### (3) Regulations
+
+&emsp;The Attorney General shall establish, by regulation, standards for the protection of the confidential or privileged communications, information, and sources described in this section.
+
+(Pub. L. 101–379, §10, Aug. 18, 1990, 104 Stat. 477; Pub. L. 111–211, title II, §212, July 29, 2010, 124 Stat. 2267.)
+
+#### References in Text
+
+Rule 6 of the Federal Rules of Criminal Procedure, referred to in subsec. (c)(2), is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+
+#### Amendments
+
+<b>2010</b>—Pub. L. 111–211 added subsecs. (a) to (c) and struck out former subsecs. (a) to (d) which related, respectively, to reports by law enforcement officials of the Bureau of Indian Affairs or Federal Bureau of Investigation, reports by United States attorneys, case files included within reports, and transfer or disclosure of confidential or privileged communication, information, or sources to tribal officials.
 

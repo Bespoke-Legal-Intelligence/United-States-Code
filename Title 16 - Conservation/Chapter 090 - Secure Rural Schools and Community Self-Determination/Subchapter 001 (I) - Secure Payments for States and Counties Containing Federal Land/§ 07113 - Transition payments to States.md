@@ -62,3 +62,5 @@ This chapter, referred to in subsec. (e), was in the original “this Act”, me
 
 A prior section 103 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

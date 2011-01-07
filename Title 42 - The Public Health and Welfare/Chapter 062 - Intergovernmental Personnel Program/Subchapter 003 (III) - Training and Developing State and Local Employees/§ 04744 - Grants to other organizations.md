@@ -24,6 +24,8 @@ For the purpose of this section “other organization” means—
 
 #### References in Text
 
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 91–648, Jan. 5, 1971, 84 Stat. 1909, known as the Intergovernmental Personnel Act of 1970, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of this title and Tables.
+
 For effective date of the grant provisions of this chapter, referred to in subsec. (a), as being 180 days after Jan. 5, 1971, see section 4772 of this title.
 
 #### Transfer of Functions

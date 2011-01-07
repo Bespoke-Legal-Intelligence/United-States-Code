@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The President, acting through the United States Information Agency, shall provide scholarships (including partial assistance) for undergraduate study at United States institutions ofhigher education by citizens and nationals of developing countries who have completed their secondary education and who would not otherwise have an opportunity to study in the United States due to financial limitations.
+The President, acting through the United States Information Agency, shall provide scholarships (including partial assistance) for undergraduate study at United States institutions of higher education by citizens and nationals of developing countries who have completed their secondary education and who would not otherwise have an opportunity to study in the United States due to financial limitations.
 
 #### (b) Form of scholarship; forgiveness of loan repayment
 
@@ -20,7 +20,7 @@ For purposes of this chapter, the term “institution of higher education” has
 
 #### Amendments
 
-1998—Subsec. (d). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
+<b>1998</b>—Subsec. (d). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
 
 #### Effective Date of 1998 Amendment
 

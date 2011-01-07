@@ -22,7 +22,7 @@
 
 #### (2) Adjustments
 
-&emsp;The Secretary may make adjustments in the amounts of State allotments based on clauses (i), (ii), and (iii) of paragraph (1)(A) not more often than annually. The Secretary shall notify each State of any adjustment made under this paragraph and the percentage of the totalsums appropriated under section 15029 of this title that the adjusted allotment represents not later than 6 months before the beginning of the fiscal year in which such adjustment is to take effect.
+&emsp;The Secretary may make adjustments in the amounts of State allotments based on clauses (i), (ii), and (iii) of paragraph (1)(A) not more often than annually. The Secretary shall notify each State of any adjustment made under this paragraph and the percentage of the total sums appropriated under section 15029 of this title that the adjusted allotment represents not later than 6 months before the beginning of the fiscal year in which such adjustment is to take effect.
 
 #### (3) Minimum allotment for appropriations less than or equal to $70,000,000
 
@@ -104,7 +104,7 @@ If a State plan approved in accordance with section 15024 of this title provides
 
 #### Amendments
 
-2003—Subsec. (a)(3)(A)(ii), (4)(A)(ii). Pub. L. 108–154 inserted before period at end “, the amount received by the State for the previous year, or the amount of Federal appropriations received in fiscal year 2000, 2001, or 2002, whichever is greater”.
+<b>2003</b>—Subsec. (a)(3)(A)(ii), (4)(A)(ii). Pub. L. 108–154 inserted before period at end “, the amount received by the State for the previous year, or the amount of Federal appropriations received in fiscal year 2000, 2001, or 2002, whichever is greater”.
 
 #### Effective Date of 2003 Amendment
 

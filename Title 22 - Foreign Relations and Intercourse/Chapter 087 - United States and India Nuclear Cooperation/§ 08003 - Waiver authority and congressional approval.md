@@ -20,7 +20,7 @@ The determination referred to in subsection (a) is a determination by the Presid
 
 &emsp;(1) India has provided the United States and the IAEA with a credible plan to separate civil and military nuclear facilities, materials, and programs, and has filed a declaration regarding its civil facilities and materials with the IAEA.
 
-&emsp;(2) India and the IAEA have concluded all legal steps required prior to signature by the parties of an agreement requiring the application of IAEA safeguards in perpetuity in accordance with IAEA standards, principles, and practices (including IAEA Board of Governors Document GOV/1621 (1973)) to India's civil nuclear facilities, materials, and programs as declared in the plan described in paragraph (1), including materials used in or produced through the use of India's civil nuclear facilities.
+&emsp;(2) India and the IAEA have concluded all legal steps required prior to signature by theparties of an agreement requiring the application of IAEA safeguards in perpetuity in accordance with IAEA standards, principles, and practices (including IAEA Board of Governors Document GOV/1621 (1973)) to India's civil nuclear facilities, materials, and programs as declared in the plan described in paragraph (1), including materials used in or produced through the use of India's civil nuclear facilities.
 
 &emsp;(3) India and the IAEA are making substantial progress toward concluding an Additional Protocol consistent with IAEA principles, practices, and policies that would apply to India's civil nuclear program.
 
@@ -166,7 +166,7 @@ The authority provided under subsection (a)(1) to exempt an agreement shall term
 
 #### (1) Information on nuclear activities of India
 
-&emsp;The President shall keep the appropriate congressional committees fully and currently informed of the facts and implications of anysignificant nuclear activities of India, including—
+&emsp;The President shall keep the appropriate congressional committees fully and currently informed of the facts and implications of any significant nuclear activities of India, including—
 
 &emsp;&emsp;(A) any material noncompliance on the part of the Government of India with—
 
@@ -320,7 +320,7 @@ The authority provided under subsection (a)(1) to exempt an agreement shall term
 
 &emsp;&emsp;&emsp;(iii) an analysis of—
 
-&emsp;&emsp;&emsp;&emsp;(I) any instances in which the United States or India requested consultations arising from concerns over compliancewith the provisions of Article 7(1) of the Agreement, and the results of such consultations; and
+&emsp;&emsp;&emsp;&emsp;(I) any instances in which the United States or India requested consultations arising from concerns over compliance with the provisions of Article 7(1) of the Agreement, and the results of such consultations; and
 
 &emsp;&emsp;&emsp;&emsp;(II) any matters not otherwise identified in this report that have become the subject of consultations pursuant to Article 13(2) of the Agreement, and a statement as to whether such matters were resolved by the end of the reporting period; and
 
@@ -358,7 +358,7 @@ Section is comprised of section 104 of Pub. L. 109–401. Subsec. (e) of section
 
 #### Amendments
 
-2008—Subsec. (f). Pub. L. 110–369, §101(c), substituted “October 8, 2008” for “the enactment of a joint resolution under section 2153(d) of title 42 approving such an agreement”.
+<b>2008</b>—Subsec. (f). Pub. L. 110–369, §101(c), substituted “October 8, 2008” for “the enactment of a joint resolution under section 2153(d) of title 42 approving such an agreement”.
 
 Subsec. (g)(1)(B) to (E). Pub. L. 110–369, §105(a), added subpar. (B) and redesignated former subpars. (B) to (D) as (C) to (E), respectively.
 
@@ -370,7 +370,7 @@ Determination of the President of the United States, No. 2008–26, Sept. 10, 20
 
 Memorandum for the Secretary of State \[and\] the Secretary of Energy
 
-I have considered the Proposed Agreement for Cooperation Between the Government of the United States of America and the Government of India Concerning Peaceful Uses of Nuclear Energy, along with the views, recommendations, and statements of interested agencies.
+I have considered the Proposed Agreement for Cooperation Between the Government of the UnitedStates of America and the Government of India Concerning Peaceful Uses of Nuclear Energy, along with the views, recommendations, and statements of interested agencies.
 
 I have determined that the performance of the Agreement will promote, and will not constitute an unreasonable risk to, the common defense and security. Pursuant to section 123 b. of the Atomic Energy Act of 1954, as amended (42 U.S.C. 2153(B) \[sic\]), I hereby approve the proposed agreement and authorize the Secretary of State to arrange for its execution.
 
@@ -399,6 +399,18 @@ I therefore hereby (1) exempt the proposed Agreement for Cooperation Between the
 The Secretary of State is authorized and directed to publish this determination in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Delegation of Certain Functions Under Section 104(g) of the United States-India Peaceful Atomic Energy Cooperation Act of 2006, as Amended by Public Law 110–369
+
+Memorandum of President of the United States, Apr. 27, 2010, 75 F.R. 23563, provided:
+
+Memorandum for the Secretary of State
+
+By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions and authority conferred upon the President by section 104(g) of the \[Henry J. Hyde\] United States-India Peaceful Atomic Energy Cooperation Act of 2006 (Public Law 109–401), as amended by section 105 of Public Law 110–369, to make the specified report to the Congress.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Regulations,”.</i>
 

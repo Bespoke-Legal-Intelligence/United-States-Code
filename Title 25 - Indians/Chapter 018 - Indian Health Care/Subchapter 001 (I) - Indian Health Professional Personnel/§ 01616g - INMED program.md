@@ -32,7 +32,7 @@ By no later than the date that is 3 years after November 23, 1988, the Secretary
 
 #### Amendments
 
-1992—Subsec. (b). Pub. L. 102–573, §109, inserted “to be known as the ‘Quentin N. Burdick Indian Health Programs’,” after “North Dakota,” and “Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick American Indians Into Psychology Program established under section 1621p(b) of this title and the Quentin N. Burdick American Indians Into Nursing Program established under section 1616e(e) of this title.” at end.
+<b>1992</b>—Subsec. (b). Pub. L. 102–573, §109, inserted “to be known as the ‘Quentin N. Burdick Indian Health Programs’,” after “North Dakota,” and “Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick American Indians Into Psychology Program established under section 1621p(b) of this title and the Quentin N. Burdick American Indians Into Nursing Program established under section 1616e(e) of this title.” at end.
 
 Subsec. (e). Pub. L. 102–573, §117(b)(6), struck out subsec. (e) which authorized appropriations for fiscal years 1990 to 1992.
 

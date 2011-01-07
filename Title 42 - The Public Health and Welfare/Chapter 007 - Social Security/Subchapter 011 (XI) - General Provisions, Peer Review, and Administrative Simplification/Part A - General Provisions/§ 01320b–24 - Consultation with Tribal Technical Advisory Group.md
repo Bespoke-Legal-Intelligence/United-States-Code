@@ -6,9 +6,11 @@ The Secretary of Health and Human Services shall maintain within the Centers for
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, whichis set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
 Section was enacted as part of the American Recovery and Reinvestment Act of 2009, and not as part of the Social Security Act which comprises this chapter.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Centers for Medicare \& Medicaid Services”.</i>
 

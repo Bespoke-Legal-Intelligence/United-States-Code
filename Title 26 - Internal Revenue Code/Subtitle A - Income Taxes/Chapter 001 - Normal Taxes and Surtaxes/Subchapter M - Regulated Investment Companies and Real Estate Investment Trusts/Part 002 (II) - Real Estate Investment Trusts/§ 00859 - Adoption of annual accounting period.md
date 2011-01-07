@@ -12,7 +12,7 @@ For purposes of this subtitle—
 
 #### (b) Change of accounting period without approval
 
-Notwithstanding section 442, an entity which has not engaged in any active trade or business may change its accounting period to a calendar year without the approval of the Secretary if such change is in connection with an election under section 856(c).
+Notwithstanding section 442, an entity which has not engaged in any active trade or businessmay change its accounting period to a calendar year without the approval of the Secretary if such change is in connection with an election under section 856(c).
 
 (Added Pub. L. 94–455, title XVI, §1604(i)(1), Oct. 4, 1976, 90 Stat. 1752, §860; renumbered §859 and amended Pub. L. 95–600, title III, §362(d)(6), title VII, §701(t)(1), Nov. 6, 1978, 92 Stat. 2852, 2911; Pub. L. 99–514, title VI, §661(c), Oct. 22, 1986, 100 Stat. 2300.)
 
@@ -22,9 +22,9 @@ A prior section 859, added Pub. L. 94–455, title XVI, §1601(a)(1), Oct. 4, 19
 
 #### Amendments
 
-1986—Pub. L. 99–514 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1986</b>—Pub. L. 99–514 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1978—Pub. L. 95–600, §701(t)(1), designated existing provisions as par. (1), substituted “change to any accounting period” for “change to or adopt any annual accounting period”, and added par. (2) and provision for nonapplicability of par. (2) to a real estate investment trust for any taxable year beginning on or before Oct. 4, 1976.
+<b>1978</b>—Pub. L. 95–600, §701(t)(1), designated existing provisions as par. (1), substituted “change to any accounting period” for “change to or adopt any annual accounting period”, and added par. (2) and provision for nonapplicability of par. (2) to a real estate investment trust for any taxable year beginning on or before Oct. 4, 1976.
 
 #### Effective Date of 1986 Amendment
 

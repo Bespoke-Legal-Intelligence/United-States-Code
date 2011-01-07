@@ -34,5 +34,7 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 
 #### Amendments
 
-1996—Par. (1). Pub. L. 104–134 inserted “or its successor” before period at end.
+<b>1996</b>—Par. (1). Pub. L. 104–134 inserted “or its successor” before period at end.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

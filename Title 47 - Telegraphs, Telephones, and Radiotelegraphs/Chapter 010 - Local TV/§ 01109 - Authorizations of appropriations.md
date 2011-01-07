@@ -46,5 +46,5 @@ This chapter, referred to in subsecs. (a)(1) and (b), was in the original “thi
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–171 designated existing provisions as par. (1), inserted heading, and added par. (2).
+<b>2002</b>—Subsec. (a). Pub. L. 107–171 designated existing provisions as par. (1), inserted heading, and added par. (2).
 

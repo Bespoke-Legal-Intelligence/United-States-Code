@@ -16,7 +16,7 @@ This chapter permits the continuation of Federal pilotage requirements for vesse
 
 #### Amendments
 
-1984—Pub. L. 98–557, §29(f)(3)(B), Oct. 30, 1984, 98 Stat. 2874, added item 8503.
+<b>1984</b>—Pub. L. 98–557, §29(f)(3)(B), Oct. 30, 1984, 98 Stat. 2874, added item 8503.
 
 
 ---

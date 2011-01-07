@@ -76,7 +76,7 @@ Transfer of Reimbursable Amounts to STP Apportionment.—Subject to subsection (
 
 (e)
 
-Limitation on Applicability of Certain Requirements of STP Program.—The following provisions of section 133 of this title shall not apply to 1/2 of the amounts transferred under subsection (d) to the apportionment of the State for the surface transportation program:
+Limitation on Applicability of Certain Requirements of STP Program.—The following provisions of section 133 of this title shall not apply to ½ of the amounts transferred under subsection (d) to the apportionment of the State for the surface transportation program:
 
 &emsp;(1) Subsection (d)(1).<sup>1</sup>
 

@@ -14,7 +14,7 @@ The Foundation shall—
 
 &emsp;(3) conduct research and undertake educational activities, conduct and support demonstration projects, and make grants to State and local agencies and nonprofit organizations;
 
-&emsp;(4) provide such other leadership and support as may be necessary to address conservation challenges, such as the prevention of excessive soil erosion, the enhancement of soil and water quality, and the protection of wetlands, wildlife habitat, and strategically important farmland subject to urban conversion and fragmentation;
+&emsp;(4) provide such other leadership and support as may be necessary to address conservation challenges, such as the prevention of excessive soil erosion, the enhancement of soil and water quality, and the protection of wetlands,wildlife habitat, and strategically important farmland subject to urban conversion and fragmentation;
 
 &emsp;(5) encourage, accept, and administer private gifts of money and real and personal property for the benefit of, or in connection with, the conservation and related activities and services of the Department, particularly the Natural Resources Conservation Service;
 

@@ -12,3 +12,7 @@ Section 280f–2, act July 1, 1944, ch. 373, title III, §399J, formerly §399I,
 
 Section 280f–3, act July 1, 1944, ch. 373, title III, §399K, formerly §399J, as added Pub. L. 105–392, title IV, §419(d), Nov. 13, 1998, 112 Stat. 3595; renumbered §399K and amended Pub. L. 106–310, div. A, title V, §502(4)(A), (D), Oct. 17, 2000, 114 Stat. 1115, provided for the expiration of this part 7 years after the date on which all members of the National Task Force had been appointed.
 
+#### Congressional Findings and Purpose
+
+Pub. L. 105–392, title IV, §419(b), (c), Nov. 13, 1998, 112 Stat. 3591, 3592, as amended by Pub. L. 111–256, §2(g), Oct. 5, 2010, 124 Stat. 2644, provided findings and purpose related to prevention of Fetal Alcohol Syndrome and Fetal Alcohol Effect.
+

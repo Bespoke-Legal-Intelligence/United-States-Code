@@ -72,21 +72,21 @@ In the case of a levy on the salary or wages payable to or received by the taxpa
 
 #### Amendments
 
-1998—Subsec. (d)(2)(D). Pub. L. 105–206, §1102(d)(1)(B), substituted “National Taxpayer Advocate” for “Taxpayer Advocate” in two places.
+<b>1998</b>—Subsec. (d)(2)(D). Pub. L. 105–206, §1102(d)(1)(B), substituted “National Taxpayer Advocate” for “Taxpayer Advocate” in two places.
 
 Subsec. (e). Pub. L. 105–206, §3432(a), added subsec. (e).
 
-1996—Subsec. (d). Pub. L. 104–168 added subsec. (d).
+<b>1996</b>—Subsec. (d). Pub. L. 104–168 added subsec. (d).
 
-1988—Subsec. (a). Pub. L. 100–647 inserted “and notice of release” after “levy” in heading and amended text generally. Prior to amendment, text read as follows: “It shall be lawful for the Secretary, under regulations prescribed by the Secretary, to release the levy upon all or part of the property or rights to property levied upon where the Secretary determines that such action will facilitate the collection of the liability, but such release shall not operate to prevent any subsequent levy.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–647 inserted “and notice of release” after “levy” in heading and amended text generally. Prior to amendment, text read as follows: “It shall be lawful for the Secretary, under regulations prescribed by the Secretary, to release the levy upon all or part of the property or rights to property levied upon where the Secretary determines that such action will facilitate the collection of the liability, but such release shall not operate to prevent any subsequent levy.”
 
-1986—Subsec. (c). Pub. L. 99–514 substituted “the overpayment rate established under section 6621” for “an annual rate established under section 6621”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted “the overpayment rate established under section 6621” for “an annual rate established under section 6621”.
 
-1979—Subsec. (c). Pub. L. 96–167 added subsec. (c).
+<b>1979</b>—Subsec. (c). Pub. L. 96–167 added subsec. (c).
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1966—Pub. L. 89–719 inserted “and return property” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
+<b>1966</b>—Pub. L. 89–719 inserted “and return property” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
 
 #### Effective Date of 1998 Amendment
 

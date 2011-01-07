@@ -18,5 +18,5 @@ The Alaska Native Claims Settlement Act, referred to in par. (4), is Pub. L. 92�
 
 #### Amendments
 
-1996—Par. (2). Pub. L. 104–303 made technical amendment to reference in original act which appears in text as reference to section 467 of title 33.
+<b>1996</b>—Par. (2). Pub. L. 104–303 made technical amendment to reference in original act which appears in text as reference to section 467 of title 33.
 

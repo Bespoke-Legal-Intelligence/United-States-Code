@@ -100,9 +100,9 @@ This Act, referred to in pars. (1), (2), (6), (16), and (21), is Pub. L. 101–6
 
 #### Amendments
 
-1994—Par. (2). Pub. L. 103–233 struck out “and” after “Columbia,” and inserted before period at end “, or any agency or instrumentality thereof that is established pursuant to legislation and designated by the chief executive officer to act on behalf of the State with regard to the provisions of this Act”.
+<b>1994</b>—Par. (2). Pub. L. 103–233 struck out “and” after “Columbia,” and inserted before period at end “, or any agency or instrumentality thereof that is established pursuant to legislation and designated by the chief executive officer to act on behalf of the State with regard to the provisions of this Act”.
 
-1992—Par. (1). Pub. L. 102–550, §211(a)(1), amended this section to read as if amendment made by Pub. L. 102–230, §2(1), had not been enacted. See 1991 Amendment note below.
+<b>1992</b>—Par. (1). Pub. L. 102–550, §211(a)(1), amended this section to read as if amendment made by Pub. L. 102–230, §2(1), had not been enacted. See 1991 Amendment note below.
 
 Par. (6). Pub. L. 102–550, §217(a), inserted concluding provisions.
 
@@ -116,7 +116,7 @@ Pub. L. 102–486 added par. (24) defining “energy efficient mortgage”.
 
 Par. (25). Pub. L. 102–550, §914(a), added par. (25).
 
-1991—Par. (1). Pub. L. 102–230, §2(1), directed the substitution of “the insular areas” for “Guam, the Northern Mariana Islands, the Virgin Islands, American Samoa, the Federated States of Micronesia and Palau, the Marshall Islands”. See 1992 Amendment note above.
+<b>1991</b>—Par. (1). Pub. L. 102–230, §2(1), directed the substitution of “the insular areas” for “Guam, the Northern Mariana Islands, the Virgin Islands, American Samoa, the Federated States of Micronesia and Palau, the Marshall Islands”. See 1992 Amendment note above.
 
 Pub. L. 102–229 struck out “Guam, the Northern Mariana Islands, the Virgin Islands, American Samoa,” after “of a State;”.
 
@@ -136,7 +136,7 @@ Section 223 of title II of Pub. L. 102–550 provided that: “The amendments ma
 
 #### Regulations
 
-Section 222 of title II of Pub. L. 102–550 provided that: “The Secretary of Housing and Urban Development shall issue any final regulations necessary to implement the provisions of this title \[enacting section 12810 of this title, amending this section and sections 12705, 12724, 12742, 12745 to 12748, 12750, 12771, 12773, 12774, 12782, and 12784 of this title, and enacting provisions set out as notes under this section and sections 12746, 12747, and 12750 of this title\] and the amendments made by this title not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], except as expressly provided otherwise in this title and the amendments made by this title. Suchregulations shall be issued after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).”
+Section 222 of title II of Pub. L. 102–550 provided that: “The Secretary of Housing and Urban Development shall issue any final regulations necessary to implement the provisions of this title \[enacting section 12810 of this title, amending this section and sections 12705, 12724, 12742, 12745 to 12748, 12750, 12771, 12773, 12774, 12782, and 12784 of this title, and enacting provisions set out as notes under this section and sections 12746, 12747, and 12750 of this title\] and the amendments made by this title not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], except as expressly provided otherwise in this title and the amendments made by this title. Such regulations shall be issued after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).”
 
 #### Transition Rule
 

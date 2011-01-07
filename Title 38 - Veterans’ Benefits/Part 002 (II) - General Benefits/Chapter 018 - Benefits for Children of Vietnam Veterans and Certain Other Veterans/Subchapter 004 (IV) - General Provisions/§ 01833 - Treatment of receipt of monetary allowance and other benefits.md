@@ -20,5 +20,5 @@ A prior section 1833 was renumbered section 3733 of this title.
 
 #### Amendments
 
-2003—Pub. L. 108–183 renumbered section 1823 of this title as this section.
+<b>2003</b>—Pub. L. 108–183 renumbered section 1823 of this title as this section.
 

@@ -38,7 +38,7 @@ Budget Activity Defined.—In this section, the term “O\&M budget activity” 
 
 #### Amendments
 
-2003—Pub. L. 108–136, §1031(a)(6)(B)(i), substituted “Quarterly” for “Monthly” in section catchline.
+<b>2003</b>—Pub. L. 108–136, §1031(a)(6)(B)(i), substituted “Quarterly” for “Monthly” in section catchline.
 
 Subsec. (a). Pub. L. 108–136, §1031(a)(6)(A)(i), substituted “Quarterly” for “Monthly” in heading, “quarterly” for “monthly” in first sentence, and “fiscal-year quarter” for “month” in second sentence.
 
@@ -46,7 +46,7 @@ Subsec. (c). Pub. L. 108–136, §1031(a)(6)(A)(ii), substituted “quarter” f
 
 Subsec. (e). Pub. L. 108–136, §1043(b)(5), substituted “O\&M Budget Activity Defined” for “Definitions” in heading and a comma for a colon after “section”, struck out par. (1) designation before “The term”, and struck out par. (2) which read as follows: “The term ‘congressional defense committees’ means the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
 
-2002—Subsec. (a). Pub. L. 107–314, §361(a), substituted “to the congressional defense committees” for “to Congress”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–314, §361(a), substituted “to the congressional defense committees” for “to Congress”.
 
 Subsec. (e). Pub. L. 107–314, §361(b), substituted “Definitions” for “O\&M Budget Activity Defined” in heading, inserted introductory provisions, designated existing provisions as par. (1) and substituted “The” for “For purposes of this section, the”, and added par. (2).
 

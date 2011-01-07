@@ -204,5 +204,5 @@ The District of Columbia Home Rule Act, referred to in subsec. (c), is Pub. L. 9
 
 #### Amendments
 
-2006—Subsec. (b)(1)(A). Pub. L. 109–284 inserted “of this title” after “sections 5101 and 5102”.
+<b>2006</b>—Subsec. (b)(1)(A). Pub. L. 109–284 inserted “of this title” after “sections 5101 and 5102”.
 

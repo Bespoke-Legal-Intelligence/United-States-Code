@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;During the 1996 through 2002 calendar years, the Secretary shall establish a comprehensive conservation enhancement program (referred to in this section as “CCEP”) to be implemented through contracts and the acquisition of easements to assist owners and operators of farms and ranches to conserve and enhance soil, water, and related natural resources, including grazing land, wetland, and wildlife habitat.
+&emsp;During the 1996 through 2002 calendar years, the Secretary shall establish a comprehensive conservation enhancement program (referredto in this section as “CCEP”) to be implemented through contracts and the acquisition of easements to assist owners and operators of farms and ranches to conserve and enhance soil, water, and related natural resources, including grazing land, wetland, and wildlife habitat.
 
 #### (2) Means
 
@@ -42,7 +42,7 @@
 
 #### Amendments
 
-2002—Pub. L. 107–171, §2006(b)(1), substituted “Comprehensive conservation enhancement program” for “Environmental conservation acreage reserve program” in section catchline.
+<b>2002</b>—Pub. L. 107–171, §2006(b)(1), substituted “Comprehensive conservation enhancement program” for “Environmental conservation acreage reserve program” in section catchline.
 
 Subsec. (a)(1). Pub. L. 107–171, §2006(b)(2), (4), substituted “a comprehensive conservation enhancement program” for “an environmental conservation acreage reserve program” and “CCEP” for “ECARP”.
 
@@ -66,9 +66,9 @@ Producers.—The Secretary may provide technical assistance, cost-share payments
 
 &emsp;“(B) the structural practices or land management practices that best address the problems, and that maximize environmental benefits for each dollar expended, as determined by the Secretary.”
 
-1996—Pub. L. 104–127 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) requiring Secretary to establish and implement an Environmental Conservation Acreage Reserve Program during 1991 through 1995 calendar years.
+<b>1996</b>—Pub. L. 104–127 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) requiring Secretary to establish and implement an Environmental Conservation Acreage Reserve Program during 1991 through 1995 calendar years.
 
-1993—Subsec. (b). Pub. L. 103–66 struck out before period at end “to place in the Environmental Conservation Acreage Reserve Program during the 1986 through 1995 calendar years a total of not less than 40,000,000 nor more than 45,000,000 acres”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–66 struck out before period at end “to place in the Environmental Conservation Acreage Reserve Program during the 1986 through 1995 calendar years a total of not less than 40,000,000 nor more than 45,000,000 acres”.
 
 #### Conservation Assistance
 

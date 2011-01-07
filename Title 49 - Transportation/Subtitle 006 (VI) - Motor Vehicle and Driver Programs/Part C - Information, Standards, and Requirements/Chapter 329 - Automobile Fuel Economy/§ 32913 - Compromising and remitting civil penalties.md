@@ -46,7 +46,7 @@ In subsection (a), before clause (1), the words “compromise or remit” are su
 
 In subsection (b)(1), the words “the standard that was violated” are substituted for “the standard with respect to which such penalty was assessed”, and the words “The Commission shall make the certification when it finds that reduction” are substituted for “If the manufacturer shows and the Federal Trade Commission determines that modification of the civil penalty for which such manufacturer is otherwise liable . . . the Commission shall so certify”, to eliminate unnecessary words.
 
-In subsection (b)(3), the words “When a civil penalty is collected in a civil action under this chapter” are substituted for “but any payment made” for clarity. The words “action was brought” are substituted for“the penalty is collected” for consistency. The words “and shall (except as otherwise provided in paragraph (5)), be held by such court” are omitted as surplus. The words “When the court is holding payment of a penalty reduced under subsection (a)(3) of this section” are substituted for “Whenever a civil penalty has been assessed and collected from a manufacturer under this section, and is being held by a court in accordance with paragraph (4), and the Secretary subsequently determines to modify such civil penalty pursuant to paragraph (3)(C)” to eliminate unnecessary words.
+In subsection (b)(3), the words “When a civil penalty is collected in a civil action under this chapter” are substituted for “but any payment made” for clarity. The words “action was brought” are substituted for “the penalty is collected” for consistency. The words “and shall (except as otherwise provided in paragraph (5)), be held by such court” are omitted as surplus. The words “When the court is holding payment of a penalty reduced under subsection (a)(3) of this section” are substituted for “Whenever a civil penalty has been assessed and collected from a manufacturer under this section, and is being held by a court in accordance with paragraph (4), and the Secretary subsequently determines to modify such civil penalty pursuant to paragraph (3)(C)” to eliminate unnecessary words.
 
 #### Pub. L. 103–429
 
@@ -54,9 +54,9 @@ This amends 49:32913(b)(1) to clarify the restatement of 15:2008(b)(4) and (5) b
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–287 made technical amendment to directory language of Pub. L. 103–429, §6(41). See 1994 Amendment notes below.
+<b>1996</b>—Subsec. (b). Pub. L. 104–287 made technical amendment to directory language of Pub. L. 103–429, §6(41). See 1994 Amendment notes below.
 
-1994—Subsec. (b). Pub. L. 103–429, §6(41)(A), as amended by Pub. L. 104–287, substituted “Certification” for “Penalty Reduction” in heading.
+<b>1994</b>—Subsec. (b). Pub. L. 103–429, §6(41)(A), as amended by Pub. L. 104–287, substituted “Certification” for “Penalty Reduction” in heading.
 
 Subsec. (b)(1). Pub. L. 103–429, §6(41)(B), as amended by Pub. L. 104–287, substituted “a reduction in the penalty is necessary” for “the penalty should be reduced”.
 

@@ -6,7 +6,7 @@ Interest deposited, pursuant to section 1832(b)(2)(C) of this title, in the trus
 
 #### Amendments
 
-1998—Pub. L. 105–244 substituted “controlled college or university” for “controlled community college” and substituted “such college or university” for “such college” in two places.
+<b>1998</b>—Pub. L. 105–244 substituted “controlled college or university” for “controlled community college” and substituted “such college or university” for “such college” in two places.
 
 #### Effective Date of 1998 Amendment
 

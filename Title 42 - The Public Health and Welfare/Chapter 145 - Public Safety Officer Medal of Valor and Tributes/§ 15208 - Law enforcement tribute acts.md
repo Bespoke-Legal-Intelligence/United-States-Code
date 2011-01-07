@@ -60,5 +60,5 @@ Section was enacted as the Law Enforcement Tribute Act, and also as part of the 
 
 #### Amendments
 
-2006—Subsec. (i). Pub. L. 109–162 substituted “2009” for “2006”.
+<b>2006</b>—Subsec. (i). Pub. L. 109–162 substituted “2009” for “2006”.
 

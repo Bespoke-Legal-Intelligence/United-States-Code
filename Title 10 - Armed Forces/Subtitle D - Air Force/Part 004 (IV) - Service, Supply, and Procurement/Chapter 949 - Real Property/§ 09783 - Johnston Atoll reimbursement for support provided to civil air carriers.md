@@ -24,7 +24,7 @@ Disposition of Payments.—(1) Amounts collected from an air carrier under this 
 
 &emsp;(B) For support provided by the Army, to appropriations available for the Army for chemical demilitarization.
 
-(2) Amounts credited to an appropriation under paragraph (1) shall be merged with fundsin that appropriation and shall be available, without further appropriation, for the purposes and period for which the appropriation is available.
+(2) Amounts credited to an appropriation under paragraph (1) shall be merged with funds in that appropriation and shall be available, without further appropriation, for the purposes and period for which the appropriation is available.
 
 (e)
 
@@ -38,5 +38,5 @@ Definitions.—In this section:
 
 #### Amendments
 
-2001—Subsec. (e)(1). Pub. L. 107–107 substituted “40102(a)(2)” for “40101(a)(2)”.
+<b>2001</b>—Subsec. (e)(1). Pub. L. 107–107 substituted “40102(a)(2)” for “40101(a)(2)”.
 

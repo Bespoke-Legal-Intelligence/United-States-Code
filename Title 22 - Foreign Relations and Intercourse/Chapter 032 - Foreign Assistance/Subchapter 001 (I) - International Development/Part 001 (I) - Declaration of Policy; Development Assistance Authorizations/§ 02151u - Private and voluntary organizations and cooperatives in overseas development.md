@@ -22,7 +22,7 @@ Prohibitions on assistance to countries contained in this chapter or any other A
 
 #### (f) Funds for private and voluntary organizations
 
-For each of the fiscal years 1986 through 1989, funds in an amount not less than thirteen and one half percent of the aggregate amount appropriated for that fiscal year to carry out sections 2151a(a), 2151b(b), 2151b(c), 2151c, 2151d, 2151s,<sup>1</sup> and 2292 of this title shall be made available for the activities of private and voluntary organizations, and the President shall seek to channel funds in an amount not less than 16 percent of such aggregate amount for the activities of private and voluntary organizations. Funds made available under part IV of subchapter II of this chapter for the activities of private and voluntary organizations may be considered in determining compliance with the requirements of this subsection.
+For each of the fiscal years 1986 through 1989, funds in an amount not less than thirteen and one half percent of the aggregate amount appropriated for that fiscal year to carry out sections2151a(a), 2151b(b), 2151b(c), 2151c, 2151d, 2151s,<sup>1</sup> and 2292 of this title shall be made available for the activities of private and voluntary organizations, and the President shall seek to channel funds in an amount not less than 16 percent of such aggregate amount for the activities of private and voluntary organizations. Funds made available under part IV of subchapter II of this chapter for the activities of private and voluntary organizations may be considered in determining compliance with the requirements of this subsection.
 
 #### (g) Repealed. Pub. L. 105–277, div. A, §101(d) \[title II\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–156
 
@@ -44,13 +44,13 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Amendments
 
-1998—Subsec. (g). Pub. L. 105–277 struck out subsec. (g) which read as follows: “After December 31, 1984, funds made available to carry out section 2151a(a), 2151b(b), 2151b(c), 2151c, 2151d, 2292, or 2293 of this title may not be made available for programs of any United States private and voluntary organization which does not obtain at least 20 percent of its total annual financial support for its international activities from sources other than the United States Government, except that this restriction does not apply with respect to programs which, as of that date, are receiving financial support from the agency primarily responsible for administering subchapter I of this chapter. The Administrator of the agency primarily responsible for administering subchapter I of this chapter may, on a case-by-case basis, waive the restriction established by this subsection, after taking into account the effectiveness of the overseas development activities of the organization, its level of volunteer support, its financial viability and stability, and the degree of its dependence for its financial support on the agency primarily responsible for administering subchapter I of this chapter.”
+<b>1998</b>—Subsec. (g). Pub. L. 105–277 struck out subsec. (g) which read as follows: “After December 31, 1984, funds made available to carry out section 2151a(a), 2151b(b), 2151b(c), 2151c, 2151d, 2292, or 2293 of this title may not be made available for programs of any United States private and voluntary organization which does not obtain at least 20 percent of its total annual financial support for its international activities from sources other than the United States Government, except that this restriction does not apply with respect to programs which, as of that date, are receiving financial support from the agency primarily responsible for administering subchapter I of this chapter. The Administrator of the agency primarily responsible for administering subchapter I of this chapter may, on a case-by-case basis, waive the restriction established by this subsection, after taking into account the effectiveness of the overseas development activities of the organization, its level of volunteer support, its financial viability and stability, and the degree of its dependence for its financial support on the agency primarily responsible for administering subchapter I of this chapter.”
 
-1990—Subsec. (b). Pub. L. 101–513, §562(d)(6)(A), inserted “and part X of this subchapter” after “this part”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–513, §562(d)(6)(A), inserted “and part X of this subchapter” after “this part”.
 
 Subsec. (g). Pub. L. 101–513, §562(d)(6)(B), substituted “2292, or 2293” for “2191s, or 2292”.
 
-1985—Subsec. (e). Pub. L. 99–83, §309(a), substituted “one year” for “thirty days”.
+<b>1985</b>—Subsec. (e). Pub. L. 99–83, §309(a), substituted “one year” for “thirty days”.
 
 Subsec. (f). Pub. L. 99–83, §309(b)(1), substituted “1986 through 1989” for “1982, 1983, and 1984”.
 
@@ -60,13 +60,13 @@ Pub. L. 99–83, §309(b)(3), inserted provisions relating to funds for determin
 
 Subsec. (h). Pub. L. 99–83, §310, added subsec. (h).
 
-1981—Subsecs. (f), (g). Pub. L. 97–113, §309, added subsecs. (f) and (g).
+<b>1981</b>—Subsecs. (f), (g). Pub. L. 97–113, §309, added subsecs. (f) and (g).
 
-1980—Subsec. (a). Pub. L. 96–533, §307(1), (2), provided for contribution of public funds to private and voluntary organizations and cooperatives for purpose of sharing cost of developing programs related to development activities and encouraged establishment of simplified procedures for development of programs to be carried out by such entities having a capacity for undertaking effective development programs.
+<b>1980</b>—Subsec. (a). Pub. L. 96–533, §307(1), (2), provided for contribution of public funds to private and voluntary organizations and cooperatives for purpose of sharing cost of developing programs related to development activities and encouraged establishment of simplified procedures for development of programs to be carried out by such entities having a capacity for undertaking effective development programs.
 
 Subsec. (e). Pub. L. 96–533, §307(3), added subsec. (e).
 
-1979—Subsec. (b). Pub. L. 96–53 substituted “Agency for International Development” for “Advisory Committee on Voluntary Foreign Aid”.
+<b>1979</b>—Subsec. (b). Pub. L. 96–53 substituted “Agency for International Development” for “Advisory Committee on Voluntary Foreign Aid”.
 
 #### Effective Date of 1985 Amendment
 
@@ -86,7 +86,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Private and Volunteer Organizations
 
-Pub. L. 108–199, div. D, title V, §502, Jan. 23, 2004, 118 Stat. 166, which prohibited any funds appropriated or otherwise made available by div. D of Pub. L. 108–199 from being made available to any United States private and voluntary organization, except any cooperative development organization, which obtained less than 20 percent of its total annual funding for international activities from sources other than the United States Government, with certain exceptions, was from the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2004, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 108–199, div. D, title V, §502, Jan. 23, 2004, 118 Stat. 166, which prohibited any funds appropriated or otherwise made available by div. D of Pub. L. 108–199 from being made available to any United States private and voluntary organization, except any cooperative development organization, which obtained less than 20 percent of its total annual funding for international activities from sources other than the United States Government, with certain exceptions, was from the Foreign Operations, Export Financing, and Related ProgramsAppropriations Act, 2004, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 108–7, div. E, title V, §502(a), Feb. 20, 2003, 117 Stat. 180.
 

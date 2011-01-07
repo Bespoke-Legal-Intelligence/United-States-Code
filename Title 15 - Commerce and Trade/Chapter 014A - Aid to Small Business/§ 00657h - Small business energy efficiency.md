@@ -74,7 +74,7 @@ In this section—
 
 #### (1) Authority
 
-&emsp;The Administrator shall establish a Small Business Energy Efficiency Program to provide energy efficiency assistance to small business concerns through small business development centers.
+&emsp;The Administrator shall establish a Small Business Energy Efficiency Program to provide energy efficiency assistance to smallbusiness concerns through small business development centers.
 
 #### (2) Small business development centers
 

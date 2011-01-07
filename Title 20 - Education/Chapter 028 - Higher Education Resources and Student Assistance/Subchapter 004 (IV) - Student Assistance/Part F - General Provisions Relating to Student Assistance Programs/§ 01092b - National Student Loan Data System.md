@@ -154,11 +154,11 @@ Title IV, referred to in subsec. (d)(3)(A), means title IV of the Higher Educati
 
 #### Amendments
 
-2009—Subsec. (a)(5). Pub. L. 111–39, §407(b)(7)(A), substituted “2501 et seq.)” for “2501 et seq.))”.
+<b>2009</b>—Subsec. (a)(5). Pub. L. 111–39, §407(b)(7)(A), substituted “2501 et seq.)” for “2501 et seq.))”.
 
 Subsec. (d)(3)(D). Pub. L. 111–39, §407(b)(7)(B), substituted “commonly known as the ‘Family Educational Rights and Privacy Act of 1974’ ” for “the Family Educational Rights and Privacy Act of 1974”.
 
-2008—Subsec. (a)(5). Pub. L. 110–315, §489(1)(C), which directed redesignation of par. (5) “as added by Pub. L. 101–234” as (6), was executed by redesignating par. (5) relating to eligible institutions as (6) to reflect the probable intent of Congress. Par. (5) relating to eligible institutions was added by Pub. L. 101–239.
+<b>2008</b>—Subsec. (a)(5). Pub. L. 110–315, §489(1)(C), which directed redesignation of par. (5) “as added by Pub. L. 101–234” as (6), was executed by redesignating par. (5) relating to eligible institutions as (6) to reflect the probable intent of Congress. Par. (5) relating to eligible institutions was added by Pub. L. 101–239.
 
 Pub. L. 110–315, §489(1)(B), substituted “effectiveness;” for “effectiveness.” in par. (5) relating to loan cancellations and deferments.
 
@@ -174,9 +174,9 @@ Pub. L. 110–315, §489(2), redesignated subsec. (d) as (e). Former subsec. (e)
 
 Subsecs. (f) to (h). Pub. L. 110–315, §489(2), redesignated subsecs. (e) to (g) as (f) to (h), respectively.
 
-1998—Subsec. (a). Pub. L. 105–244 inserted “not later than one year after October 7, 1998” before period at end of third sentence.
+<b>1998</b>—Subsec. (a). Pub. L. 105–244 inserted “not later than one year after October 7, 1998” before period at end of third sentence.
 
-1993—Subsec. (a). Pub. L. 103–208, §2(h)(38), substituted “parts C and D of this subchapter” for “part D of this subchapter” and struck out second period at end of third sentence.
+<b>1993</b>—Subsec. (a). Pub. L. 103–208, §2(h)(38), substituted “parts C and D of this subchapter” for “part D of this subchapter” and struck out second period at end of third sentence.
 
 Subsec. (a)(4). Pub. L. 103–208, §2(h)(39), substituted “parts C and D of this subchapter” for “part D of this subchapter”.
 
@@ -184,15 +184,15 @@ Subsec. (c). Pub. L. 103–208, §2(h)(40), substituted “part B, C, or D of th
 
 Subsec. (e)(1), (2)(C). Pub. L. 103–208, §2(h)(41), substituted “under this subchapter and part C of subchapter I of chapter 34 of title 42” for “under this part”.
 
-1992—Subsec. (a). Pub. L. 102–325, §487(a), inserted “, and for allowing the electronic exchange of data between program participants and the system. In establishing such data system, the Secretary shall place a priority on providing for the monitoring of enrollment, student status, information about current loan holders and servicers, and internship and residency information. Such data system shall also permit borrowers to use the system to identify the current loan holders and servicers of such borrower's loan.” after “part D of this subchapter”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–325, §487(a), inserted “, and for allowing the electronic exchange of data between program participants and the system. In establishing such data system, the Secretary shall place a priority on providing for the monitoring of enrollment, student status, information about current loan holders and servicers, and internship and residency information. Such data system shall also permit borrowers to use the system to identify the current loan holders and servicers of such borrower's loan.” after “part D of this subchapter”.
 
 Subsecs. (e) to (g). Pub. L. 102–325, §487(b), added subsecs. (e) to (g).
 
-1990—Subsec. (a)(5). Pub. L. 101–610 added subsec. (a)(5) relating to loan cancellations and deferments.
+<b>1990</b>—Subsec. (a)(5). Pub. L. 101–610 added subsec. (a)(5) relating to loan cancellations and deferments.
 
-1989—Pub. L. 101–239 amended section generally, substituting subsecs. (a) to (d) for former subsec. (a) relating to authority of Secretary, subsec. (b) relating to access to information, subsec. (c) relating to verification not required, and subsec. (d) relating to report to Congress.
+<b>1989</b>—Pub. L. 101–239 amended section generally, substituting subsecs. (a) to (d) for former subsec. (a) relating to authority of Secretary, subsec. (b) relating to access to information, subsec. (c) relating to verification not required, and subsec. (d) relating to report to Congress.
 
-1987—Subsec. (b)(1). Pub. L. 100–50, §15(13)(A), substituted “public agencies” for “Federal agencies”.
+<b>1987</b>—Subsec. (b)(1). Pub. L. 100–50, §15(13)(A), substituted “public agencies” for “Federal agencies”.
 
 Subsec. (b)(2)(D). Pub. L. 100–50, §15(13)(B), substituted “of any borrower” for “of a borrower for whom the guaranty agency provides insurance”.
 

@@ -30,7 +30,7 @@
 
 #### (3) Administration of program
 
-&emsp;Activities relating to research described in paragraph (1) shall be designed by the Directorof NIH or the head of a national research institute or national center, as applicable, to enable such research to be carried out with maximum flexibility and speed.
+&emsp;Activities relating to research described in paragraph (1) shall be designed by the Director of NIH or the head of a national research institute or national center, as applicable, to enable such research to be carried out with maximum flexibility and speed.
 
 #### (4) Public-private partnerships
 

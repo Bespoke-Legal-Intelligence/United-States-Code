@@ -14,7 +14,7 @@ Establishment of Grant Program.—(1) The Secretary of Defense shall establish a
 
 (b)
 
-New Programs in Manufacturing Engineering Education.—A program in manufacturing engineering education to be established at an institution of higher education may be considered to be a new program for the purpose ofsubsection (a)(1)(B) regardless of whether the program is to be conducted—
+New Programs in Manufacturing Engineering Education.—A program in manufacturing engineering education to be established at an institution of higher education may be considered to be a new program for the purpose of subsection (a)(1)(B) regardless of whether the program is to be conducted—
 
 &emsp;(1) within an existing department in a school of engineering of the institution;
 
@@ -100,7 +100,7 @@ Federal Support.—The amount of financial assistance furnished to an institutio
 
 #### Prior Provisions
 
-A prior section 2196, added Pub. L. 101–510, div. A, title II, §247(a)(1), Nov. 5, 1990, 104 Stat. 1523; amendedPub. L. 102–25, title VII, §701(i)(2), Apr. 6, 1991, 105 Stat. 116, defined “defense laboratory”, prior to repeal by Pub. L. 102–190, §825(a)(1). See section 2199 of this title.
+A prior section 2196, added Pub. L. 101–510, div. A, title II, §247(a)(1), Nov. 5, 1990, 104 Stat. 1523; amended Pub. L. 102–25, title VII, §701(i)(2), Apr. 6, 1991, 105 Stat. 116, defined “defense laboratory”, prior to repeal by Pub. L. 102–190, §825(a)(1). See section 2199 of this title.
 
 #### Implementation of Grant Program; Priority in Funding
 

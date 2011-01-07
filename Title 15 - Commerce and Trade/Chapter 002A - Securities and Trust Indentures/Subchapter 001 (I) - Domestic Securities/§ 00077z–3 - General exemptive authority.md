@@ -6,5 +6,5 @@ The Commission, by rule or regulation, may conditionally or unconditionally exem
 
 #### Amendments
 
-1998—Pub. L. 105–353 made technical correction relating to placement of section in subchapter.
+<b>1998</b>—Pub. L. 105–353 made technical correction relating to placement of section in subchapter.
 

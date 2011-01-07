@@ -12,7 +12,7 @@ No requirement or prohibition may be imposed under the laws of any State—
 
 &emsp;&emsp;(A) subsection (c) or (e) of section 1681b of this title, relating to the prescreening of consumer reports;
 
-&emsp;&emsp;(B) section 1681i of this title, relating to the time by which a consumer reporting agency must take any action, including the provision of notification to a consumer orother person, in any procedure related to the disputed accuracy of information in a consumer's file, except that this subparagraph shall not apply to any State law in effect on September 30, 1996;
+&emsp;&emsp;(B) section 1681i of this title, relating to the time by which a consumer reporting agency must take any action, including the provision of notification to a consumer or other person, in any procedure related to the disputed accuracy of information in a consumer's file, except that this subparagraph shall not apply to any State law in effect on September 30, 1996;
 
 &emsp;&emsp;(C) subsections (a) and (b) of section 1681m of this title, relating to the duties of a person who takes any adverse action with respect to a consumer;
 
@@ -94,7 +94,7 @@ A prior section 625 of Pub. L. 90–321 was renumbered section 626 and is classi
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–159, §711(1), inserted “or for the prevention or mitigation of identity theft,” after “information on consumers,”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–159, §711(1), inserted “or for the prevention or mitigation of identity theft,” after “information on consumers,”.
 
 Subsec. (b)(1)(E). Pub. L. 108–159, §214(c)(2)(A), struck out “or” after semicolon at end.
 
@@ -118,7 +118,7 @@ Subsec. (d). Pub. L. 108–159, §711(3), substituted “(c) of this section” 
 
 &emsp;“(C) gives greater protection to consumers than is provided under this subchapter.”
 
-1996—Subsec. (a). Pub. L. 104–208, §2419(1), designated existing provisions as subsec. (a), inserted heading, and substituted “Except as provided in subsections (b) and (c) of this section, this subchapter” for “This subchapter”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2419(1), designated existing provisions as subsec. (a), inserted heading, and substituted “Except as provided in subsections (b) and (c) of this section, this subchapter” for “This subchapter”.
 
 Subsecs. (b) to (d). Pub. L. 104–208, §2419(2), added subsecs. (b) to (d).
 

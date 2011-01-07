@@ -14,7 +14,7 @@ All officers and employees charged with the duty of directing the administration
 
 #### (d) Immunity of members
 
-No member of the legislature shall be held to answer before any tribunal other than the legislature for any speech or debate in the legislature and the members shall in all cases, except treason, felony, or breach of the peace, be privileged from arrest during their attendance at the sessions of the legislature and in going to and returning from the same.
+No member of the legislature shall be held to answer before any tribunal other than the legislature for any speech or debate in the legislature and the members shall in all cases, excepttreason, felony, or breach of the peace, be privileged from arrest during their attendance at the sessions of the legislature and in going to and returning from the same.
 
 #### (e) Compensation and allowances
 
@@ -26,7 +26,7 @@ No member of the legislature shall hold or be appointed to any office which has 
 
 #### (g) General powers; parliamentary rules
 
-The legislature shall be the sole judge of the elections and qualifications of its members, shall have and exercise all the authority and attributes, inherent in legislative assemblies, and shall have the power to institute and conduct investigations, issue subpena to witnesses and other parties concerned, and administer oaths. The rules of the Legislative Assembly of theVirgin Islands existing on July 22, 1954 shall continue in force and effect for sessions of the legislature, except as inconsistent with this chapter, until altered, amended, or repealed by the legislature.
+The legislature shall be the sole judge of the elections and qualifications of its members, shall have and exercise all the authority and attributes, inherent in legislative assemblies, and shall have the power to institute and conduct investigations, issue subpena to witnesses and other parties concerned, and administer oaths. The rules of the Legislative Assembly of the Virgin Islands existing on July 22, 1954 shall continue in force and effect for sessions of the legislature, except as inconsistent with this chapter, until altered, amended, or repealed by the legislature.
 
 #### (h) Vacancies
 
@@ -40,15 +40,15 @@ This chapter, referred to in subsec. (g), was in the original “this Act”, me
 
 #### Amendments
 
-1973—Subsec. (h). Pub. L. 93–130 substituted provision authorizing the Legislature of Virgin Islands to provide by law the procedure for filling vacancies in the membership of the Legislature, for provisions authorizing the Governor of the Virgin Islands to fill any such vacancy by appointment of resident of the district from which the member whose office became vacant was elected if the vacancy is that of a Senator and of resident of any part of Virgin Islands if the vacancy is that of a Senator at large, and that such appointee shall serve for the remainder of the unexpired term.
+<b>1973</b>—Subsec. (h). Pub. L. 93–130 substituted provision authorizing the Legislature of Virgin Islands to provide by law the procedure for filling vacancies in the membership of the Legislature, for provisions authorizing the Governor of the Virgin Islands to fill any such vacancy by appointment of resident of the district from which the member whose office became vacant was elected if the vacancy is that of a Senator and of resident of any part of Virgin Islands if the vacancy is that of a Senator at large, and that such appointee shall serve for the remainder of the unexpired term.
 
-1972—Subsec. (b). Pub. L. 92–389 reduced the age qualification for membership of legislature from twenty-five years to twenty-one years.
+<b>1972</b>—Subsec. (b). Pub. L. 92–389 reduced the age qualification for membership of legislature from twenty-five years to twenty-one years.
 
-1968—Subsec. (c). Pub. L. 90–496 inserted proviso requiring members of boards of elections, duly organized by the government, to be popularly elected.
+<b>1968</b>—Subsec. (c). Pub. L. 90–496 inserted proviso requiring members of boards of elections, duly organized by the government, to be popularly elected.
 
-1965—Subsec. (e). Pub. L. 89–98 substituted provisions empowering the government of the Virgin Islands to fix and pay legislative salaries and expenses for provisions which specifically fixed these salaries and expenses and which required the United States Government to pay them.
+<b>1965</b>—Subsec. (e). Pub. L. 89–98 substituted provisions empowering the government of the Virgin Islands to fix and pay legislative salaries and expenses for provisions which specifically fixed these salaries and expenses and which required the United States Government to pay them.
 
-1959—Subsec. (a). Pub. L. 86–289, §2(a), substituted, in second sentence, “January” for “April”, before “following his election”, and substituted, in proviso, “1958” for “1954”, “April 1959” for “January 1955”, and “1961, and the term of office of each member elected in November 1960 shall commence on the second Monday in April 1961 and continue until the second Monday in January 1963” for “1957”.
+<b>1959</b>—Subsec. (a). Pub. L. 86–289, §2(a), substituted, in second sentence, “January” for “April”, before “following his election”, and substituted, in proviso, “1958” for “1954”, “April 1959” for “January 1955”, and “1961, and the term of office of each member elected in November 1960 shall commence on the second Monday in April 1961 and continue until the second Monday in January 1963” for “1957”.
 
 Subsec. (e). Pub. L. 86–289, §2(b), changed the date of payment of salaries, increased the per diem from $10 to $20, and provided that the per diem paid to members of the legislature for official travel outside the Virgin Islands should not be at rates in excess of those paid Federal Government employees.
 

@@ -6,7 +6,7 @@ The purpose of this subchapter is to ensure that by January 1, 2010, a court-app
 
 #### Amendments
 
-2006—Pub. L. 109–162 substituted “January 1, 2010” for “January 1, 1995”.
+<b>2006</b>—Pub. L. 109–162 substituted “January 1, 2010” for “January 1, 1995”.
 
-1994—Pub. L. 103–322 made technical amendment to reference to this subchapter to correct reference to corresponding provision of original act.
+<b>1994</b>—Pub. L. 103–322 made technical amendment to reference to this subchapter to correct reference to corresponding provision of original act.
 

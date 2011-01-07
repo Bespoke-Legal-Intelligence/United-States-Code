@@ -8,7 +8,7 @@ The cartage of merchandise entered for warehouse shall be done by—
 
 > who shall give bond, in a penal sum to be fixed by the Customs Service, for the protection of the Government against any loss of, or damage to, the merchandise while being so carted. The cartage of merchandise designated for examination at the appraiser's stores and of merchandise taken into custody by the customs officer as unclaimed shall be performed by such persons as may be designated, under contract or otherwise, by the Secretary of the Treasury, and under such regulations for the protection of the owners thereof and of the revenue as the Secretary of the Treasury shall prescribe.
 
-(June 17, 1930, ch. 497, title IV, §565, 46 Stat. 747; Pub. L. 91–271, title III, §301(x), June 2, 1970, 84 Stat. 290; Pub. L. 103–182, title VI, §666, Dec. 8, 1993, 107 Stat. 2215.)
+(June 17, 1930, ch. 497, title IV, §565, 46 Stat. 747; Pub. L. 91–271, title III, §301(x), June 2, 1970, 84Stat. 290; Pub. L. 103–182, title VI, §666, Dec. 8, 1993, 107 Stat. 2215.)
 
 #### Prior Provisions
 
@@ -18,9 +18,9 @@ Act June 22, 1874, ch. 391, §25, 18 Stat. 191, required cartage of merchandise 
 
 #### Amendments
 
-1993—Pub. L. 103–182 amended first sentence generally. Prior to amendment, first sentence read as follows: “The cartage of merchandise entered for warehouse shall be done by cartmen to be appointed and licensed by the appropriate customs officer and who shall give a bond in a penal sum to be fixed by such customs officer, for the protection of the Government against any loss of, or damage to, such merchandise while being so carted.”
+<b>1993</b>—Pub. L. 103–182 amended first sentence generally. Prior to amendment, first sentence read as follows: “The cartage of merchandise entered for warehouse shall be done by cartmen to be appointed and licensed by the appropriate customs officer and who shall give a bond in a penal sum to be fixed by such customs officer, for the protection of the Government against any loss of, or damage to, such merchandise while being so carted.”
 
-1970—Pub. L. 91–271 substituted references to appropriate customs officer of customs officer for references to collector of customs or collector wherever appearing.
+<b>1970</b>—Pub. L. 91–271 substituted references to appropriate customs officer of customs officer for references to collector of customs or collector wherever appearing.
 
 #### Effective Date of 1970 Amendment
 

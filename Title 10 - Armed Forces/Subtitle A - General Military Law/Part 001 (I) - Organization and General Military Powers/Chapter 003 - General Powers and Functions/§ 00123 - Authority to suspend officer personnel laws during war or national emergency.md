@@ -2,7 +2,7 @@
 
 (a) In time of war, or of national emergency declared by Congress or the President after November 30, 1980, the President may suspend the operation of any provision of law relating to the promotion, involuntary retirement, or separation of commissioned officers of the Army, Navy, Air Force, Marine Corps, or Coast Guard Reserve. So long as such war or national emergency continues, any such suspension may be extended by the President.
 
-(b) Any such suspension shall, if not sooner ended, end on the last day of the two-year period beginning on the date on which the suspension (or the last extension thereof) takes effect or on the last day of the one-year period beginning on the date of the termination of the war or national emergency, whichever occurs first. With respect to the end of any such suspension, the preceding sentence supersedes the provisions of title II of the National Emergencies Act (50 U.S.C. 1621–1622) which provide that powers or authorities exercised by reason of a national emergency shall cease to be exercised after the date of the termination of the emergency.
+(b) Any such suspension shall, if not sooner ended, end on the last day of the two-year period beginning on the date on which the suspension (or the last extension thereof) takes effect or on the last day of the one-year period beginning onthe date of the termination of the war or national emergency, whichever occurs first. With respect to the end of any such suspension, the preceding sentence supersedes the provisions of title II of the National Emergencies Act (50 U.S.C. 1621–1622) which provide that powers or authorities exercised by reason of a national emergency shall cease to be exercised after the date of the termination of the emergency.
 
 (c) If a provision of law pertaining to the promotion of reserve officers is suspended under this section and if the Secretary of Defense submits to Congress proposed legislation to adjust the grades and dates of rank of reserve commissioned officers other than commissioned warrant officers, such proposed legislation shall, so far as practicable, be the same as that recommended for adjusting the grades and dates of rank of officers of the regular component of the armed force concerned.
 
@@ -36,21 +36,21 @@ Provisions similar to those in this section were contained in section 644 of thi
 
 #### Amendments
 
-2001—Subsec. (d). Pub. L. 107–107 added subsec. (d).
+<b>2001</b>—Subsec. (d). Pub. L. 107–107 added subsec. (d).
 
-1996—Subsec. (a). Pub. L. 104–106 struck out “281, 592, 1002, 1005, 1006, 1007, 1374, 3217, 3218, 3219, 3220, 3352(a) (last sentence),” after “armed force:”, “5414, 5457, 5458, 5506,” after “3855,”, and “8217, 8218, 8219,” after “6410,” and substituted “8855, 10214, 12003, 12004, 12005, 12007, 12202, 12213(a) (second sentence), 12642, 12645, 12646, 12647, 12771, 12772, and 12773” for “and 8855”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106 struck out “281, 592, 1002, 1005, 1006, 1007, 1374, 3217, 3218, 3219, 3220, 3352(a) (last sentence),” after “armed force:”, “5414, 5457, 5458, 5506,” after “3855,”, and “8217, 8218, 8219,” after “6410,” and substituted “8855, 10214, 12003, 12004, 12005, 12007, 12202, 12213(a) (second sentence), 12642, 12645, 12646, 12647, 12771, 12772, and 12773” for “and 8855”.
 
-1994—Pub. L. 103–337 substituted “Authority to suspend officer personnel laws during war or national emergency” for “Suspension of certain provisions of law relating to reserve commissioned officers” as section catchline and amended text generally, substituting subsecs. (a) to (c) for former subsecs. (a) and (b).
+<b>1994</b>—Pub. L. 103–337 substituted “Authority to suspend officer personnel laws during war or national emergency” for “Suspension of certain provisions of law relating to reserve commissioned officers” as section catchline and amended text generally, substituting subsecs. (a) to (c) for former subsecs. (a) and (b).
 
-1981—Subsec. (a). Pub. L. 97–22 struck out references to sections 3494 and 8494.
+<b>1981</b>—Subsec. (a). Pub. L. 97–22 struck out references to sections 3494 and 8494.
 
-1980—Subsec. (a). Pub. L. 96–513 struck out references to sections 3571, 3847, 5867, 8370, 8571, and 8847.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 struck out references to sections 3571, 3847, 5867, 8370, 8571, and 8847.
 
-1967—Subsec. (a). Pub. L. 90–130 struck out reference to section 3391.
+<b>1967</b>—Subsec. (a). Pub. L. 90–130 struck out reference to section 3391.
 
-1966—Subsec. (a). Pub. L. 89–718 struck out reference to section 5907.
+<b>1966</b>—Subsec. (a). Pub. L. 89–718 struck out reference to section 5907.
 
-1960—Subsec. (a). Pub. L. 86–559 inserted references to sections 281, 3855, and 8855 and struck out references to sections 3841, 3842, 3849, 8841, 8842, and 8849.
+<b>1960</b>—Subsec. (a). Pub. L. 86–559 inserted references to sections 281, 3855, and 8855 and struck out references to sections 3841, 3842, 3849, 8841, 8842, and 8849.
 
 #### Effective Date of 1996 Amendment
 
@@ -78,5 +78,5 @@ Functions of President under this section delegated to Secretary of Defense, see
 
 #### Delegation of Authority
 
-Authority of President under this section as invoked by sections 2 and 3 of Ex. Ord. No. 13223, Sept. 14, 2001, 66 F.R. 48201, as amended, delegated to Secretary of Defense by section 4 of Ex. Ord. No. 13223, and authority of President under this section as invoked by section 2 of Ex. Ord. No. 13223 delegated to Secretary of Homeland Security by section 5 of Ex. Ord. No. 13223, as amended, set out as a note under section 12302 of this title.
+Authority of President under this section as invoked by sections 2 and 3 of Ex. Ord. No. 13223, Sept. 14, 2001, 66 F.R. 48201, as amended, delegated to Secretary of Defense by section 4 of Ex. Ord. No. 13223, and authority of President under this section as invoked by section 2 of Ex. Ord. No. 13223 delegated to Secretary of Homeland Security by section 5 of Ex. Ord. No. 13223, asamended, set out as a note under section 12302 of this title.
 

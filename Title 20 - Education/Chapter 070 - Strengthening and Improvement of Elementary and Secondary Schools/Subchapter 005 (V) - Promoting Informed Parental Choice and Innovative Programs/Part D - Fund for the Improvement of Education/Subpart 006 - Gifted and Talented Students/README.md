@@ -1,7 +1,5 @@
 subpart 6—gifted and talented students
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(G) Children”.</i>
-
 
 ---
 

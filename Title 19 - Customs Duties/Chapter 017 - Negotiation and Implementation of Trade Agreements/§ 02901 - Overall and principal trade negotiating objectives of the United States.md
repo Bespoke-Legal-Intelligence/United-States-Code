@@ -128,7 +128,7 @@ The overall trade negotiating objectives of the United States are to obtain—
 
 > &emsp;&emsp;is without prejudice to other complementary initiatives undertaken in other international organizations; and
 
-&emsp;&emsp;(D) to supplement and strengthen standards for protection and enforcement in existing international intellectual property conventions administered by other international organizations, including their expansion to cover new and emerging technologies and elimination of discriminationor unreasonable exceptions or preconditions to protection.
+&emsp;&emsp;(D) to supplement and strengthen standards for protection and enforcement in existing international intellectual property conventions administered by other international organizations, including their expansion to cover new and emerging technologies and elimination of discrimination or unreasonable exceptions or preconditions to protection.
 
 #### (11) Foreign direct investment
 
@@ -212,7 +212,7 @@ Section 1001 of title I of Pub. L. 100–418 provided that:
 
 Findings.—The Congress finds that—
 
-&emsp;“(1) in the last 10 years there has arisen a new global economy in which trade, technological development, investment, and services form an integratedsystem; and in this system these activities affect each other and the health of the United States economy;
+&emsp;“(1) in the last 10 years there has arisen a new global economy in which trade, technological development, investment, and services form an integrated system; and in this system these activities affect each other and the health of the United States economy;
 
 &emsp;“(2) the United States is confronted with a fundamental disequilibrium in its trade and current account balances and a rapid increase in its net external debt;
 
@@ -274,7 +274,7 @@ Sec. 1–301. <i>Steel Imports</i>. The functions vested in the President by sec
 
 Sec. 1–401. <i>Telecommunications Trade</i>. The functions vested in the President by sections 1375 and 1376(e) of the Omnibus Trade Act \[19 U.S.C. 3104, 3105(e)\], regarding certain telecommunications negotiations as may be ordered by the President and reports thereon to Congressional Committees, are delegated to the United States Trade Representative.
 
-Sec. 1–501. <i>Uniform Fee on Imports</i>. The functions vested in the President by section 1428 of the Omnibus Trade Act \[19 U.S.C. 2397, 19 U.S.C. 2397 note\], regarding negotiations to obtain authority under the General Agreement on Tariffs and Trade to impose a small uniform fee on imports, are delegated to the United States Trade Representative.
+Sec. 1–501. <i>Uniform Fee on Imports</i>. The functions vested in the President by section 1428 of the OmnibusTrade Act \[19 U.S.C. 2397, 19 U.S.C. 2397 note\], regarding negotiations to obtain authority under the General Agreement on Tariffs and Trade to impose a small uniform fee on imports, are delegated to the United States Trade Representative.
 
 #### PART II—EXPORT ENHANCEMENT
 
@@ -290,7 +290,7 @@ Sec. 2–201. <i>Sanctions Against Toshiba and Kongsberg.</i>
 
 (2) <i>Import Sanctions</i>. Pursuant to section 2443 of the Omnibus Trade Act and subject to the exceptions referred to in paragraph (3), importation into the United States, its territories and possessions, of products produced by Toshiba Machine Company or Kongsberg Trading Company is prohibited for three years from the effective date of this Order. The Secretary of the Treasury is hereby directed and authorized to implement this import sanction in accordance with paragraph (3).
 
-(3) <i>Exceptions</i>. Authority to make determinations as to exceptions to sanctions and to implement exceptions by regulation or otherwise is delegated (i) to the Secretary of Defense with respect to determinations under section 2443(c)(1) regarding the procurement of defense articles or defense services, (ii) to the Secretary of the Treasury with respect to exceptions under section 2443(c)(2) regarding importation prohibited by section 2443(a)(2), and (iii) to the head of each Federal department, agency or instrumentality with respect to exceptions under section 2443(c)(2) affecting their respectivecontracting and procurement. All regulations implementing these exceptions provisions shall be consistent with any guidelines provided by the Office of Federal Procurement Policy, Office of Management and Budget.
+(3) <i>Exceptions</i>. Authority to make determinations as to exceptions to sanctions and to implement exceptions by regulation or otherwise is delegated (i) to the Secretary of Defense with respect to determinations under section 2443(c)(1) regarding the procurement of defense articles or defense services, (ii) to the Secretary of the Treasury with respect to exceptions under section 2443(c)(2) regarding importation prohibited by section 2443(a)(2), and (iii) to the head of each Federal department, agency or instrumentality with respect to exceptions under section 2443(c)(2) affecting their respective contracting and procurement. All regulations implementing these exceptions provisions shall be consistent with any guidelines provided by the Office of Federal Procurement Policy, Office of Management and Budget.
 
 (4) <i>Annual Report</i>. The annual report required by section 2445 \[50 U.S.C. App. 2413\], concerning estimated increases in defense expenditures arising from illegal technology transfers, shall be prepared by the Secretary of Defense, in consultation with the Secretaries of State and Commerce, for submission to the Congress by the President.
 
@@ -326,7 +326,7 @@ Sec. 3–201. <i>Authority to Review Certain Mergers, Acquisitions, and Takeover
 
 Sec. 3–301. <i>Reporting Requirement on Semiconductors, Fiber Optics and Superconducting Materials.</i>
 
-(1) The Secretary of Commerce, in consultation with the Director of the Office of Science and Technology Policy, the Secretary of Defense, and the Director of the Office of Management and Budget, shall prepare for the President to submit to the Congress with the Fiscal Year 1990 budget a report describing policies and budget proposals regarding:
+(1) The Secretary of Commerce, in consultation with the Director of the Office of Science and Technology Policy, the Secretary of Defense, and the Director of the Office of Management and Budget, shall prepare forthe President to submit to the Congress with the Fiscal Year 1990 budget a report describing policies and budget proposals regarding:
 
 (A) Federal research in semiconductors and semiconductor manufacturing technology, including a discussion of the respective roles of the various Federal departments and agencies in such research;
 
@@ -348,7 +348,7 @@ Sec. 3–401. \[Revoked by Ex. Ord. No. 12774, §3(a), Sept. 27, 1991, 56 F.R. 4
 
 Sec. 4–101. <i>Buy American Act of 1988.</i>
 
-(1) The functions vested in the President by section 7002 of the Omnibus Trade Act, regarding section 4(d) ofTitle III of the Buy American Act of 1933, as amended (41 U.S.C. 10a–10d) \[former 41 U.S.C. 10b–1\], are delegated to the Secretary of Defense.
+(1) The functions vested in the President by section 7002 of the Omnibus Trade Act, regarding section 4(d) of Title III of the Buy American Act of 1933, as amended (41 U.S.C. 10a–10d) \[former 41 U.S.C. 10b–1\], are delegated to the Secretary of Defense.
 
 (2) The functions vested in the President by section 7003 of the Omnibus Trade Act, regarding the annual report required by subsection (d) of section 305 of the Trade Agreements Act of 1979, as amended (19 U.S.C. 2515), are delegated to the United States Trade Representative.
 

@@ -6,7 +6,7 @@
 
 <i>Preference right of locators of claims to lease of lands</i>—The locators of all such mining claims, or their heirs, successors, or assigns, shall have a preference right to apply to the Secretary of the Interior for a lease, under the terms and conditions of this section, within one year after the date of the location of any mining claim, and any such locator who shall fail to apply for a lease within one year from the date of location shall forfeit all rights to such mining claim.
 
-<i>Filing copies of location notices</i>—Duplicate copies of the location notice shall be filed within sixty days with the superintendent in charge of the reservation on which the mining claim is located, and application for a lease under this section may be filed with such superintendent for transmission, through official channels, to the Secretary of the Interior.
+<i>Filing copies of location notices</i>—Duplicate copies of the location notice shall be filed withinsixty days with the superintendent in charge of the reservation on which the mining claim is located, and application for a lease under this section may be filed with such superintendent for transmission, through official channels, to the Secretary of the Interior.
 
 <i>Lands excepted from entry as mining claims</i>—Lands containing springs, water holes, or other bodies of water needed or used by the Indians for watering livestock, irrigation, or water-power purposes shall not be designated by the Secretary of the Interior as subject to entry under this section.
 
@@ -20,7 +20,7 @@
 
 <i>Rights and duties of successors to lessees</i>—Any successor in interest or assignee of any lease granted under this section, whether by voluntary transfer, judicial sale, foreclosure sale, or otherwise, shall be subject to all the conditions of the lease under which such rights are held and also subject to all the provisions and conditions of this section to the same extent as though such successor or assign were the original lessee hereunder.
 
-<i>Forfeiture of leases; notice</i>—Any lease granted under this section may be forfeited and canceled by appropriate proceedings in the United States district court for the district in which said property or some part thereof is situated whenever the lessee, after reasonable notice in writing, as prescribed in the lease, shall fail to comply with the terms of this section or with such conditionsnot inconsistent herewith as may be specifically recited in the lease.
+<i>Forfeiture of leases; notice</i>—Any lease granted under this section may be forfeited and canceled by appropriate proceedings in the United States district court for the district in which said property or some part thereof is situated whenever the lessee, after reasonable notice in writing, as prescribed in the lease, shall fail to comply with the terms of this section or with such conditions not inconsistent herewith as may be specifically recited in the lease.
 
 <i>Royalties payable by lessees</i>—For the privilege of mining or extracting the mineral deposits in the ground covered by the lease the lessee shall pay to the United States, for the benefit of the Indians, a royalty which shall not be less than 5 per centum of the net value of the output of the minerals at the mine, due and payable at the end of each month succeeding that of the extraction of the minerals from the mine, and an annual rental, payable at the date of such lease and annually thereafter on the area covered by such lease, at the rate of not less than 25 cents per acre for the first calendar year thereafter; not less than 50 cents per acre for the second, third, fourth, and fifth years, respectively; and not less than $1 per acre for each and every year thereafter during the continuance of the lease, except that such rental for any year shall be credited against the royalties as they accrue for that year.
 
@@ -32,7 +32,7 @@
 
 <i>Disposition of rentals and royalties</i>—All moneys received from royalties and rentals under the provisions of this section shall be deposited in the Treasury of the United States to the credit of the Indians belonging and having tribal rights on the reservation where the leased land is located, which moneys shall be at all times subject to appropriation by Congress for their benefit, unless otherwise provided by treaty or agreement ratified by Congress: <i>Provided</i>, That such moneys shall be subject to the laws authorizing the pro rata distribution of Indian tribal funds.
 
-<i>Protection of interests of Indians</i>—The Secretary of the Interior is authorized to perform any and all acts and to make such rules and regulations not inconsistent with this section as may be necessary and proper for the protection of the interests of the Indians and for the purpose of carrying the provisions of this section into full force and effect: <i>Provided</i>, That nothing in this section shall be construed or held to affect the right of the States or other local authority to exercise any rights which they may have to levy and collect taxes upon improvements, output of mines, or other rights, property, or assets of any lessee.
+<i>Protection of interests of Indians</i>—The Secretary of the Interior is authorized to perform any andall acts and to make such rules and regulations not inconsistent with this section as may be necessary and proper for the protection of the interests of the Indians and for the purpose of carrying the provisions of this section into full force and effect: <i>Provided</i>, That nothing in this section shall be construed or held to affect the right of the States or other local authority to exercise any rights which they may have to levy and collect taxes upon improvements, output of mines, or other rights, property, or assets of any lessee.
 
 <i>Mining locations by and leases to Indians declared competent</i>—Mining locations, under the terms of this section, may be made on unallotted lands within Indian reservations by Indians who have heretofore or may hereafter be declared by the Secretary of the Interior to be competent to manage their own affairs; and the said Secretary is authorized and empowered to lease such lands to such Indians in accordance with the provisions of this section.
 
@@ -52,9 +52,9 @@ Act Mar. 3, 1921, defined the term “metalliferous”.
 
 #### Amendments
 
-1976—Pub. L. 94–550 inserted “or in any declaration, certificate, verification, or statement under penalty of perjury as permitted under section 1746 of title 28” after “under oath” in paragraph authorizing Secretary of the Interior to examine books and accounts of lessees.
+<b>1976</b>—Pub. L. 94–550 inserted “or in any declaration, certificate, verification, or statement under penalty of perjury as permitted under section 1746 of title 28” after “under oath” in paragraph authorizing Secretary of the Interior to examine books and accounts of lessees.
 
-1926—Act Dec. 16, 1926, inserted “and nonmetalliferous minerals, not including oil and gas” after “metalliferous minerals” in first and second paragraphs and reenacted third, fourth, and fifth paragraphs without change.
+<b>1926</b>—Act Dec. 16, 1926, inserted “and nonmetalliferous minerals, not including oil and gas” after “metalliferous minerals” in first and second paragraphs and reenacted third, fourth, and fifth paragraphs without change.
 
 #### Transfer of Functions
 

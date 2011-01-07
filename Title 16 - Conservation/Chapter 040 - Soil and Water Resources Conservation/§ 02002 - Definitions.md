@@ -12,7 +12,7 @@ As used in this chapter:
 
 #### Amendments
 
-1994—Par. (2). Pub. L. 103–354 struck out “through the Soil Conservation Service” after “Agriculture”.
+<b>1994</b>—Par. (2). Pub. L. 103–354 struck out “through the Soil Conservation Service” after “Agriculture”.
 
 #### Transfer of Functions
 

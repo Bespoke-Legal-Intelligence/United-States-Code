@@ -18,7 +18,7 @@ In general.—The Secretary, in consultation with the Secretary of the Interior,
 
 &emsp;&emsp;&emsp;(i) ensuring access to all, including persons with disabilities;
 
-&emsp;&emsp;&emsp;(ii) improving conservation and park and public land opportunities in urban areas through partnering with State and local governments; and
+&emsp;&emsp;&emsp;(ii) improving conservation and park and public land opportunities in urban areasthrough partnering with State and local governments; and
 
 &emsp;&emsp;&emsp;(iii) improving park and public land transportation infrastructure.
 
@@ -108,7 +108,7 @@ Federal Agency Cooperative Arrangements.—The Secretary shall develop cooperati
 
 &emsp;(2) interagency and multidisciplinary teams to develop Federal land management agency alternative transportation policy, procedures, and coordination; and
 
-&emsp;(3) the development of procedures and criteria relating to the planning, selection, andfunding of qualified projects and the implementation and oversight of the program of projects in accordance with this section.
+&emsp;(3) the development of procedures and criteria relating to the planning, selection, and funding of qualified projects and the implementation and oversight of the program of projects in accordance with this section.
 
 (e)
 
@@ -120,7 +120,7 @@ In general.—The Secretary, in consultation with the Secretary of the Interior,
 
 &emsp;(2)
 
-Additional amounts.—Amounts made available under this subsection are in addition to amounts otherwise available to the Secretary to carry out planning, research, and technical assistance under this chapter or any other provision of law.
+Additional amounts.—Amounts made available under this subsection are in additionto amounts otherwise available to the Secretary to carry out planning, research, and technical assistance under this chapter or any other provision of law.
 
 &emsp;(3)
 
@@ -334,11 +334,11 @@ The date of enactment of the Federal Public Transportation Act of 2005, referred
 
 #### Prior Provisions
 
-A prior section 5320, Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 818; Pub. L. 103–429, §6(9), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 105–178, title III, §3009(h)(3)(A), June 9, 1998, 112 Stat. 356; Pub. L. 105–206, title IX, §9009(h)(1), July 22, 1998, 112 Stat. 856, related to construction of asuspended light rail system technology pilot project, prior to repeal by Pub. L. 109–59, title III, §3021(a), Aug. 10, 2005, 119 Stat. 1608.
+A prior section 5320, Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 818; Pub. L. 103–429, §6(9), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 105–178, title III, §3009(h)(3)(A), June 9, 1998, 112 Stat. 356; Pub. L. 105–206, title IX, §9009(h)(1), July 22, 1998, 112 Stat. 856, related to construction of a suspended light rail system technology pilot project, prior to repeal by Pub. L. 109–59, title III, §3021(a), Aug. 10, 2005, 119 Stat. 1608.
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–244, §201(i)(7), added subsec. (a). Former subsec. (a) redesignated (b).
+<b>2008</b>—Subsec. (a). Pub. L. 110–244, §201(i)(7), added subsec. (a). Former subsec. (a) redesignated (b).
 
 Subsec. (a)(1)(A). Pub. L. 110–244, §201(i)(1), substituted “intraagency” for “intra-agency” in introductory provisions.
 

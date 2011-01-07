@@ -24,13 +24,13 @@ Inclusion in Transportation Improvement Program.—The Secretary may approve an 
 
 #### Amendments
 
-2008—Subsecs. (c), (d). Pub. L. 110–244 redesignated subsec. (d) as (c).
+<b>2008</b>—Subsecs. (c), (d). Pub. L. 110–244 redesignated subsec. (d) as (c).
 
-2005—Subsecs. (a), (b). Pub. L. 109–59, §1501(a)(2), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b), which related to payment of the Federal share of the cost of congestion mitigation and air quality improvement, surface transportation, bridge, planning, and research projects and Interstate and National Highway System projects which have been subject to advance construction by a State.
+<b>2005</b>—Subsecs. (a), (b). Pub. L. 109–59, §1501(a)(2), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b), which related to payment of the Federal share of the cost of congestion mitigation and air quality improvement, surface transportation, bridge, planning, and research projects and Interstate and National Highway System projects which have been subject to advance construction by a State.
 
 Subsecs. (c), (d). Pub. L. 109–59, §1501(a)(1), redesignated subsec. (c) as (d).
 
-1998—Subsec. (a). Pub. L. 105–178, §1106(c)(1)(A)(i), struck out “Substitute,” before “Congestion” in heading.
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §1106(c)(1)(A)(i), struck out “Substitute,” before “Congestion” in heading.
 
 Subsec. (a)(1)(A)(i). Pub. L. 105–178, §§1106(c)(1)(A)(ii), 5119(d), struck out “103(e)(4)(H),” after “under section” and substituted “or 505” for “or 307”.
 
@@ -40,13 +40,13 @@ Subsec. (b)(1). Pub. L. 105–178, §1103(<i>l</i>)(3)(A), substituted “104(b)
 
 Subsecs. (c), (d). Pub. L. 105–178, §1226(a)(2), (3), as added by Pub. L. 105–206, §9003(a), redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “In determining the apportionment for any fiscal year under the provisions of section 103(e)(4), 104, 134, 144,, or 307 of this title, any such project constructed by a State without the aid of Federal funds shall not be considered completed until an application under the provisions of this section with respect to such project has been approved by the Secretary.”
 
-1995—Subsec. (d). Pub. L. 104–59 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
+<b>1995</b>—Subsec. (d). Pub. L. 104–59 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
 “(d)
 
 Limitation on Advanced Funding.—The Secretary may not approve an application under this section unless an authorization for section 103(e)(4), 104, 144, or 307 of this title, as the case may be, is in effect for the fiscal year for which the application is sought beyond the currently authorized funds for each State. No applications may be approved which will exceed the State's expected apportionment of such authorizations.”
 
-1992—Subsec. (a). Pub. L. 102–302, §103(1), in heading substituted “
+<b>1992</b>—Subsec. (a). Pub. L. 102–302, §103(1), in heading substituted “
 
 Substitute, Congestion Mitigation and Air Quality Improvement, Surface Transportation, Bridge, Planning, and Research Projects” for “
 
@@ -72,7 +72,7 @@ Subsec. (d). Pub. L. 102–302, §103(6), added subsec. (d) and struck out forme
 
 Limitation on Advanced Funding for Fiscal Years 1987–1990.—The Secretary may not approve an application of a State under this section with respect to a project with funds apportioned, or currently authorized to be apportioned, under section 103(e)(4)(H), 104, 130, 144, 152, or 307 if the amount of approved applications with respect to such projects exceeds the total of unobligated funds apportioned or allocated to the State under such section, plus such State's expected apportionment under such section from existing authorizations plus an amount equal to such State's expected apportionment under such section (other than section 104(b)(5)(A)) for one additional fiscal year. This subsection shall only be effective during the period beginning January 1, 1987, and ending September 30, 1990.”
 
-1987—Pub. L. 100–17, §113(d)(1)(A), substituted “Advance construction” for “Construction by States in advance of apportionment” in section catchline.
+<b>1987</b>—Pub. L. 100–17, §113(d)(1)(A), substituted “Advance construction” for “Construction by States in advance of apportionment” in section catchline.
 
 Subsec. (a). Pub. L. 100–17, §113(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
@@ -98,7 +98,7 @@ Subsec. (c). Pub. L. 100–17, §113(d)(1)(E), (F), inserted heading and substit
 
 Subsec. (d). Pub. L. 100–17, §113(c), added subsec. (d).
 
-1983—Subsec. (a). Pub. L. 97–424, §113(c), designated existing provisions as pars. (1) and (2) and designated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1); in par. (1) as so redesignated, substituted “When a State has obligated all funds appropriated or allocated to it under section 103(e)(4), 104, or 144 of this title, other than “interstate funds, and proceeds to construct any highway substitute, Federal-aid system, or bridge project, respectively, other than an Interstate project funded under section 104(b)(5) of this title, without the aid of Federal funds in accordance with all procedures and all requirements applicable to such a project, except insofar as such procedures and requirements limit a State to the construction of projects with the aid of Federal funds previously apportioned to it, the Secretary, upon application by such State and his approval of such application, is authorized to pay to such State the Federal share of the costs of construction of such project when additional funds are apportioned to such State under section 103(e)(4), 104, or 144, respectively, of this title if—”, for “When a State has obligated all funds for any of the Federal-aid systems, other than the Interstate System, apportioned to it under section 104 of this title, and proceeds to construct any project without the aid of Federal funds, including one or more parts of any project, on any of the Federal-aid systems in such State, other than the Interstate System, as any of those systems may be designated at that time, in accordance with all procedures and all requirements applicable to projects on any such system, except insofar as such procedures and requirements limit a State to the construction of projects with the aid of Federal funds previously apportioned to it, the Secretary, upon application by such State and his approval of such application, is authorized to pay tosuch State the Federal share of the costs of construction of such project when additional funds are apportioned to such State under section 104 of this title if—”; in subpar. (A) thereof struck out “on the Federal-aid system involved” after “other projects”; and in par. (2) as so designated inserted “for section 103(e)(4), 104, or 144 of this title, as the case may be,” after “unless authorization”, and made a new sentence of existing provisions, beginning with “No application”.
+<b>1983</b>—Subsec. (a). Pub. L. 97–424, §113(c), designated existing provisions as pars. (1) and (2) and designated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1); in par. (1) as so redesignated, substituted “When a State has obligated all funds appropriated or allocated to it under section 103(e)(4), 104, or 144 of this title, other than “interstate funds, and proceeds to construct any highway substitute, Federal-aid system, or bridge project, respectively, other than an Interstate project funded under section 104(b)(5) of this title, without the aid of Federal funds in accordance with all procedures and all requirements applicable to such a project, except insofar as such procedures and requirements limit a State to the construction of projects with the aid of Federal funds previously apportioned to it, the Secretary, upon application by such State and his approval of such application, is authorized to pay to such State the Federal share of the costs of construction of such project when additional funds are apportioned to such State under section 103(e)(4), 104, or 144, respectively, of this title if—”, for “When a State has obligated all funds for any of the Federal-aid systems, other than the Interstate System, apportioned to it under section 104 of this title, and proceeds to construct any project without the aid of Federal funds, including one or more parts of any project, on any of the Federal-aid systems in such State, other than the Interstate System, as any of those systems may be designated at that time, in accordance with all procedures and all requirements applicable to projects on any such system, except insofar as such procedures and requirements limit a State to the construction of projects with the aid of Federal funds previously apportioned to it, the Secretary, upon application by such State and his approval of such application, is authorized to pay to such State the Federal share of the costs of construction of such project when additional funds are apportioned to such State under section 104 of this title if—”; in subpar. (A) thereof struck out “on the Federal-aid system involved” after “other projects”; and in par. (2) as so designated inserted “for section 103(e)(4), 104, or 144 of this title, as the case may be,” after “unless authorization”, and made a new sentence of existing provisions, beginning with “No application”.
 
 Subsec. (b)(2). Pub. L. 97–424, §113(a), substituted “1983” for “1978” wherever appearing.
 
@@ -106,13 +106,13 @@ Subsec. (b)(3). Pub. L. 97–424, §113(b), added par. (3).
 
 Subsec. (c). Pub. L. 97–424, §113(d), substituted “section 103(e)(4), 104, or 144” for “section 104” after “provisions of”.
 
-1979—Subsec. (b). Pub. L. 96–106 designated existing provisions as par. (1) and cls. (1) and (2) thereof as subpars. (A) and (B) and added par. (2).
+<b>1979</b>—Subsec. (b). Pub. L. 96–106 designated existing provisions as par. (1) and cls. (1) and (2) thereof as subpars. (A) and (B) and added par. (2).
 
-1975—Subsec. (a). Pub. L. 93–643, §111(a), substituted “other than the Interstate System” for “including the Interstate System” in two places.
+<b>1975</b>—Subsec. (a). Pub. L. 93–643, §111(a), substituted “other than the Interstate System” for “including the Interstate System” in two places.
 
 Subsecs. (b), (c). Pub. L. 93–643, §111(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1968—Subsec. (a). Pub. L. 90–495, §25(a), extended advance construction authority to all the Federal-aid highway systems rather than just the Interstate System but provided that anticipation of future apportionments by States should only be permitted for those years for which authorizations have been established by law.
+<b>1968</b>—Subsec. (a). Pub. L. 90–495, §25(a), extended advance construction authority to all the Federal-aid highway systems rather than just the Interstate System but provided that anticipation of future apportionments by States should only be permitted for those years for which authorizations have been established by law.
 
 Subsec. (b). Pub. L. 90–495, §25(b), struck out reference to subsec. (b)(5) of section 104 of this title.
 

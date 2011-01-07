@@ -48,9 +48,9 @@ In subsection (c), the word “shall” is substituted for the word “may”, s
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–201 substituted “twenty-third birthday” for “twenty-second birthday”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201 substituted “twenty-third birthday” for “twenty-second birthday”.
 
-1966—Subsec. (d). Pub. L. 89–718 added subsec. (d).
+<b>1966</b>—Subsec. (d). Pub. L. 89–718 added subsec. (d).
 
 #### Authority To Waive Maximum Age Limitation on Admission to Service Academies for Certain Enlisted Members Who Served During Persian Gulf War
 

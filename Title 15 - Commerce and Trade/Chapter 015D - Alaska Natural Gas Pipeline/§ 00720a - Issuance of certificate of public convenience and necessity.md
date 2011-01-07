@@ -2,7 +2,7 @@
 
 #### (a) Authority of the Commission
 
-Notwithstanding the Alaska Natural Gas Transportation Act of 1976 (15 U.S.C. 719 et seq.),the Commission may, in accordance with section 7(c) of the Natural Gas Act (15 U.S.C. 717f(c)), consider and act on an application for the issuance of a certificate of public convenience and necessity authorizing the construction and operation of an Alaska natural gas transportation project other than the Alaska natural gas transportation system.
+Notwithstanding the Alaska Natural Gas Transportation Act of 1976 (15 U.S.C. 719 et seq.), the Commission may, in accordance with section 7(c) of the Natural Gas Act (15 U.S.C. 717f(c)), consider and act on an application for the issuance of a certificate of public convenience and necessity authorizing the construction and operation of an Alaska natural gas transportation project other than the Alaska natural gas transportation system.
 
 #### (b) Issuance of certificate
 
@@ -72,7 +72,7 @@ The holder of the certificate of public convenience and necessity issued, modifi
 
 #### (2) Exception
 
-&emsp;The rates of shippers of subscribed capacity on an Alaska natural gas transportation project described in paragraph (1), as in effect as of the date on which access under that paragraph is granted, shall not be increased as a result of such access.
+&emsp;The rates of shippers of subscribed capacity on an Alaska natural gas transportationproject described in paragraph (1), as in effect as of the date on which access under that paragraph is granted, shall not be increased as a result of such access.
 
 #### (i) Regulations
 
@@ -82,7 +82,7 @@ The Commission may issue such regulations as are necessary to carry out this sec
 
 #### References in Text
 
-The Alaska Natural Gas Transportation Act of 1976, referred to in subsecs. (a) and (f)(2), is Pub. L. 94–586, Oct. 22, 1976, 90 Stat. 2903, as amended, which is classified generally to chapter 15C (§719 et seq.) of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 719 of this title and Tables.
+The Alaska Natural Gas Transportation Act of 1976, referred to in subsecs. (a) and (f)(2), is Pub. L. 94–586, Oct. 22, 1976, 90 Stat. 2903, as amended, which is classified generally to chapter 15C (§719 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 719 of this title and Tables.
 
 The Natural Gas Act, referred to in subsec. (f)(1), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of this title. For complete classification of this Act to the Code, see section 717w of this title and Tables.
 

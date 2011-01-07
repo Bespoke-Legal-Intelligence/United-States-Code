@@ -8,7 +8,7 @@
 
 #### (2) Declarations of purpose
 
-&emsp;Local school boards for schools operated by the Bureau of Indian Affairs, in cooperation and consultation with the appropriate tribal governing bodies and their communities, areencouraged to adopt declarations of purpose for education for their communities, taking into account the implications of such declarations on education in their communities and for their schools. In adopting such declarations of purpose, the school boards shall consider the effect the declarations may have on the motivation of students and faculties.
+&emsp;Local school boards for schools operated by the Bureau of Indian Affairs, in cooperation and consultation with the appropriate tribal governing bodies and their communities, are encouraged to adopt declarations of purpose for education for their communities, taking into account the implications of such declarations on education in their communities and for their schools. In adopting such declarations of purpose, the school boards shall consider the effect the declarations may have on the motivation of students and faculties.
 
 #### (b) Accreditation
 
@@ -146,7 +146,7 @@
 
 &emsp;&emsp;&emsp;(i) annually review the progress of the school under the applicable school plan to determine whether the school is meeting, or making adequate progress toward achieving the goals described in paragraph (7)(A)(v) with respect to reaccreditation or becoming a candidate for accreditation;
 
-&emsp;&emsp;&emsp;(ii) except as provided in subparagraph (B), continue to provide assistance while implementing the school's plan, and, if determined appropriate by the Secretary, take corrective action with respect to theschool if it fails to be accredited at the end of the third full year immediately following the date that the school's plan was first in effect under paragraph (7);
+&emsp;&emsp;&emsp;(ii) except as provided in subparagraph (B), continue to provide assistance while implementing the school's plan, and, if determined appropriate by the Secretary, take corrective action with respect to the school if it fails to be accredited at the end of the third full year immediately following the date that the school's plan was first in effect under paragraph (7);
 
 &emsp;&emsp;&emsp;(iii) provide all students enrolled in a school that is eligible for a corrective action determination by the Secretary under clause (ii) with the option to transfer to another public or Bureau-funded school, including a public charter school, that is accredited;
 
@@ -420,7 +420,7 @@ Another prior section 2001, Pub. L. 95–561, title XI, §1121, Nov. 1, 1978, 92
 
 #### Amendments
 
-2005—Subsec. (d)(7). Pub. L. 109–54 added par. (7) and struck out heading and text of former par. (7). Text read as follows: “The Secretary may, with the approval of the tribal governing body, terminate, contract, transfer to any other authority, consolidate, or substantially curtail the operation or facilities of—
+<b>2005</b>—Subsec. (d)(7). Pub. L. 109–54 added par. (7) and struck out heading and text of former par. (7). Text read as follows: “The Secretary may, with the approval of the tribal governing body, terminate, contract,transfer to any other authority, consolidate, or substantially curtail the operation or facilities of—
 
 &emsp;“(A) any Bureau-funded school that is operated on or after January 1, 1999;
 

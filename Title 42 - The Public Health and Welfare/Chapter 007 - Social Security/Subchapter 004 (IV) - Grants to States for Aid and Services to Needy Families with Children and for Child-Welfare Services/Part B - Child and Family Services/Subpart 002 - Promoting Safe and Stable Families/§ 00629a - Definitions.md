@@ -90,15 +90,15 @@ A prior section 431 of act Aug. 14, 1935, was classified to section 631 of this 
 
 #### Amendments
 
-2006—Subsec. (a)(6). Pub. L. 109–288 substituted “1996” for “1986”.
+<b>2006</b>—Subsec. (a)(6). Pub. L. 109–288 substituted “1996” for “1986”.
 
-2002—Subsec. (a)(1)(F). Pub. L. 107–133, §102(a), added subpar. (F).
+<b>2002</b>—Subsec. (a)(1)(F). Pub. L. 107–133, §102(a), added subpar. (F).
 
 Subsec. (a)(2). Pub. L. 107–133, §102(b), inserted “to strengthen parental relationships and promote healthy marriages,” after “environment,”.
 
-1999—Subsec. (a)(6). Pub. L. 106–169 inserted “, as in effect before August 22, 1986” after “682(i)(5) of this title” and “, as so in effect” after “682(i)(7)(A) of this title”.
+<b>1999</b>—Subsec. (a)(6). Pub. L. 106–169 inserted “, as in effect before August 22, 1986” after “682(i)(5) of this title” and “, as so in effect” after “682(i)(7)(A) of this title”.
 
-1997—Subsec. (a)(1)(A). Pub. L. 105–89, §305(c)(2)(A)(i), inserted “safe and” before “appropriate” in cls. (i) and (ii).
+<b>1997</b>—Subsec. (a)(1)(A). Pub. L. 105–89, §305(c)(2)(A)(i), inserted “safe and” before “appropriate” in cls. (i) and (ii).
 
 Subsec. (a)(1)(B). Pub. L. 105–89, §305(c)(2)(A)(ii), inserted “safely” after “remain”.
 

@@ -72,7 +72,7 @@ Availability of funds.—Funds made available under this section for each class 
 
 Reservation of funds.—The Secretary of the Interior may reserve funds from administrative funds of the Bureau of Indian Affairs that are associated with the Indian reservation roads program to finance Indian technical centers under section 504(b).
 
-(c) Before approving as a project on an Indian reservation road any project eligible for funds apportioned under section 104 or section 144 of this title in a State, the Secretary must determine that the obligation of funds for such project is supplementary to and not in lieu of the obligation, for projects on Indian reservation roads, of a fair and equitable share of funds apportioned to such State under section 104 of this title. Notwithstanding any other provision of this title, of the amount of funds allocated for Indian reservation roads from the Highway Trust Fund, not more than 25 percent of the funds allocated to an Indian tribe may be expended for the purpose of maintenance, excluding road sealing which shall not be subject to any limitation. The Bureau of Indian Affairs shall continue to retain primary responsibility, including annual funding request responsibility, for road maintenance programs on Indian reservations. The Secretary shall ensure that funding made available under this subsection for maintenance of Indian reservation roads for each fiscal year is supplementary to and not in lieu of any obligation of funds by the Bureau of Indian Affairs for road maintenance programs on Indian reservations.
+(c) Before approving as a project on an Indian reservation road any project eligible for funds apportioned under section 104 or section 144 of this title in a State, the Secretary must determine that the obligation of funds for such project is supplementary to and not in lieu of the obligation, for projects on Indian reservation roads, of a fair and equitable share of funds apportioned to such State under section 104 of this title. Notwithstanding any other provision of this title, of the amount of funds allocated for Indian reservation roads from the Highway Trust Fund, not more than 25 percent of the funds allocated to an Indian tribe may be expended for the purpose of maintenance, excluding road sealing which shall not be subject to any limitation. The Bureau of Indian Affairs shall continue to retain primary responsibility, including annual funding request responsibility, for road maintenance programs on Indian reservations. The Secretary shall ensure that funding made available under this subsection for maintenance of Indian reservation roads for each fiscal year is supplementary to and not inlieu of any obligation of funds by the Bureau of Indian Affairs for road maintenance programs on Indian reservations.
 
 (d) Cooperation of States, counties, or other local subdivisions may be accepted in construction and improvement, and any funds received from a State, county, or local subdivision shall be credited to appropriations available for the class of Federal lands highways to which such funds were contributed.
 
@@ -80,7 +80,7 @@ Reservation of funds.—The Secretary of the Interior may reserve funds from adm
 
 (f) All appropriations for the construction and improvement of each class of Federal lands highways shall be administered in conformity with regulations and agreements jointly approved by the Secretary and the Secretary of the appropriate Federal land managing agency.
 
-(g) The Secretary shall transfer to the Secretary of Agriculture from appropriations for forest highways such amounts as may be needed to cover necessary administrative expenses ofthe Forest Service in connection with forest highways.
+(g) The Secretary shall transfer to the Secretary of Agriculture from appropriations for forest highways such amounts as may be needed to cover necessary administrative expenses of the Forest Service in connection with forest highways.
 
 (h)
 
@@ -180,13 +180,13 @@ Annual report.—Effective beginning with fiscal year 2005, the Secretary shall 
 
 Section 23 of the “Buy Indian” Act of June 25, 1910 (36 Stat. 861), referred to in subsec. (e), is classified to section 47 of Title 25, Indians.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (j), is Pub. L. 93–638,Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. Section 7(b) of the Act is classified to section 450e(b) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (j), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. Section 7(b) of the Act is classified to section 450e(b) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
 The National Wildlife Refuge System Administration Act of 1966, referred to in subsec. (k)(3), consists of sections 4 and 5 of Pub. L. 89–699, Oct. 15, 1966, 80 Stat. 927, as amended, and is classified to sections 668dd and 668ee of Title 16, Conservation. For further details, see Short Title note set out under section 668dd of Title 16.
 
 #### Amendments
 
-2005—Subsec. (a)(1). Pub. L. 109–59, §1119(h)(1), inserted “refuge roads,” after “parkways,”.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–59, §1119(h)(1), inserted “refuge roads,” after “parkways,”.
 
 Subsec. (b). Pub. L. 109–59, §1119(h)(2), added subsec. (b) and struck out former subsec. (b) which related to use of funds available for public lands highways, park roads and parkways, and Indian reservation roads.
 
@@ -198,7 +198,7 @@ Subsec. (k)(1)(D), (E). Pub. L. 109–59, §1119(j)(1)(B), (2), (3), added subpa
 
 Subsec. (<i>l</i>). Pub. L. 109–59, §1119(k), added subsec. (<i>l</i>).
 
-1998—Subsec. (a). Pub. L. 105–178, §1115(d)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “Recognizing the need for all Federal roads which are public roads to be treated under the same uniform policies as roads which are on the Federal-aid systems, there is established a coordinated Federal lands highways program which shall consist of the public lands highways, park roads, parkways, and Indian reservation roads as defined in section 101 of this title. The Secretary, in cooperation with the Secretary of the Interior and the Secretary of Agriculture, shall develop appropriate transportation planning procedures and safety, bridge, and pavement management systems for roads funded under the Federal Lands Highway Program. Notwithstanding any other provision of this title, no public lands highway project may be undertaken in any State pursuant to this section unless the State concurs in the selection and planning of the project.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §1115(d)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “Recognizing the need for all Federal roads which are public roads to be treated under the same uniform policies as roads which are on the Federal-aid systems, there is established a coordinated Federal lands highways program which shall consist of the public lands highways, park roads, parkways, and Indian reservation roads as defined in section 101 of this title. The Secretary, in cooperation with the Secretary of the Interior and the Secretary of Agriculture, shall develop appropriate transportation planning procedures and safety, bridge, and pavement management systems for roads funded under the Federal Lands Highway Program. Notwithstanding any other provision of this title, no public lands highway project may be undertaken in any State pursuant to this section unless the State concurs in the selection and planning of the project.”
 
 Subsec. (b). Pub. L. 105–178, §§1115(d)(2), 5119(a), substituted “Funds available for public lands highways, park roads and parkways, and Indian reservation roads shall be used by the Secretary and the Secretary of the appropriate Federal land management agency to pay for the cost of transportation planning, research, engineering, and construction of the highways, roads, and parkways, or of transit facilities within public lands, national parks, and Indian reservations. In connection with activities under the preceding sentence, the Secretary and the Secretary of the appropriate Federal land management agency may enter into construction contracts and other appropriate contracts with a State or civil subdivision of a State or Indian tribe.” for “Funds available for public lands highways shall be used by the Secretary to pay for the cost of planning, research, engineering and construction thereof. Funds available for park roads, parkways, and Indian reservation roads shall be used by the Secretary or the Secretary of the Interior to pay for the cost of construction and improvement thereof. In connection therewith, the Secretary and the Secretary of the Interior, as appropriate, may enter into construction contracts and such other contracts with a State or civil subdivision thereof or Indian tribe as deemed advisable.” and “section 504(b)” for “section 326”.
 
@@ -212,7 +212,7 @@ Subsec. (j). Pub. L. 105–178, §1115(d)(6), substituted second sentence for fo
 
 Subsec. (k). Pub. L. 105–178, §1115(e)(4), added subsec. (k).
 
-1991—Subsec. (a). Pub. L. 102–240, §1032(b)(1), struck out “forest highways,” before “public lands highways” and inserted provisions requiring Secretary, in cooperation with Secretaries of the Interior and Agriculture, to develop transportation planning procedures and safety, bridge, and pavement management systems for roads funded under Federal Lands Highway Program, and provisions prohibiting public lands highway projects from being undertaken in any State pursuant to this section unless State concurs in selection and planning of project.
+<b>1991</b>—Subsec. (a). Pub. L. 102–240, §1032(b)(1), struck out “forest highways,” before “public lands highways”and inserted provisions requiring Secretary, in cooperation with Secretaries of the Interior and Agriculture, to develop transportation planning procedures and safety, bridge, and pavement management systems for roads funded under Federal Lands Highway Program, and provisions prohibiting public lands highway projects from being undertaken in any State pursuant to this section unless State concurs in selection and planning of project.
 
 Subsec. (b). Pub. L. 102–240, §6004(c), inserted at end “The Secretary of Interior may reserve funds from the Bureau of Indian Affairs’ administrative funds associated with the Indian reservation roads program to finance the Indian technical centers authorized under section 326.”
 
@@ -220,15 +220,15 @@ Pub. L. 102–240, §1032(b)(2)(B), (C), struck out “forest highways and” be
 
 Pub. L. 102–240, §1032(b)(2)(A), substituted “planning, research, engineering and construction thereof” for “construction and improvements thereof” and was executed by making the substitution for the first reference to “construction and improvement thereof” to reflect the probable intent of Congress.
 
-Subsec. (c). Pub. L. 102–240, §§1030, 1032(b)(3), substituted “eligible for funds apportioned under section 104 or section 144 of this title” for “on a Federal-aid system” and inserted at end “Notwithstanding any other provision of this title, Indian reservation roads under the jurisdiction of the Bureau of Indian Affairs of the Department of the Interior shall be eligible to expend not more than 15 percent funds apportioned for Indian reservation roads from the Highway Trust Fundfor the purpose of road sealing projects. The Bureau of Indian Affairs shall continue to retain responsibility, including annual funding request responsibility, for road maintenance programs on Indian reservations.”
+Subsec. (c). Pub. L. 102–240, §§1030, 1032(b)(3), substituted “eligible for funds apportioned under section 104 or section 144 of this title” for “on a Federal-aid system” and inserted at end “Notwithstanding any other provision of this title, Indian reservation roads under the jurisdiction of the Bureau of Indian Affairs of the Department of the Interior shall be eligible to expend not more than 15 percent funds apportioned for Indian reservation roads from the Highway Trust Fund for the purpose of road sealing projects. The Bureau of Indian Affairs shall continue to retain responsibility, including annual funding request responsibility, for road maintenance programs on Indian reservations.”
 
 Subsecs. (h) to (j). Pub. L. 102–240, §1032(b)(4), added subsecs. (h) to (j) and struck out former subsec. (h) which read as follows: “Funds available for each class of Federal lands highways shall be available for adjacent vehicular parking areas and scenic easements.”
 
-1987—Subsec. (b). Pub. L. 100–17, §133(b)(13), inserted “the Secretary or” after “used by” in second sentence.
+<b>1987</b>—Subsec. (b). Pub. L. 100–17, §133(b)(13), inserted “the Secretary or” after “used by” in second sentence.
 
 Subsec. (e). Pub. L. 100–17, §133(b)(14), struck out “of 1975” after “Education Assistance Act”.
 
-1983—Pub. L. 97–424 substituted “Federal Lands Highways Program” for “Forest highways” in section catchline.
+<b>1983</b>—Pub. L. 97–424 substituted “Federal Lands Highways Program” for “Forest highways” in section catchline.
 
 Subsecs. (a), (b). Pub. L. 97–424 added subsec. (a), redesignated former subsec. (a) as (b), inserted reference to public lands highways, inserted “and improvement” after “construction”, inserted reference to reservations, Indian tribes, and the Secretary of the Interior, and inserted provision that funds available for park roads, parkways, and Indian reservation roads shall be used by the Secretary of the Interior to pay for the cost of construction and improvement thereof. Former subsec. (b) redesignated (d).
 

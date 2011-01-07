@@ -6,7 +6,7 @@
 
 (2)(A) Subject to paragraph (3), if the aggregate amount appropriated for a fiscal year to carry out this subchapter is less than $75,000,000, then the amount allocated to each State for such fiscal year shall be not less than $325,000, or such greater amount up to $400,000 as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 2000, except that the amount allocated to the Virgin Islands of the United States, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be not less than $75,000, or such greater amount up to $100,000 as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 2000, each.
 
-(B) Subject to paragraph (3), if the aggregate amount appropriated for a fiscal year to carry out this subchapter equals or exceeds $75,000,000, then the amount allocated to each State for such fiscal year shall be not less than $600,000, except that the amount allocated to the Virgin Islands of the United States, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be not less than $100,000, or such greater amount up to $100,000 as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 2000, each.
+(B) Subject to paragraph (3), if the aggregate amount appropriated for a fiscal year to carry out this subchapter equals or exceeds $75,000,000, then the amount allocated to each State for such fiscal year shall be not less than $600,000, except that the amount allocated to the Virgin Islands of the United States, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be not less than $100,000, or such greater amount up to $100,000 as is available to be allocated without reducing theamount of any State or territory's allocation below the amount allocated for fiscal year 2000, each.
 
 (3) If, as a result of paragraph (2), the amount allocated to a State for a fiscal year would be less than the amount allocated to such State for fiscal year 2000, then the amounts allocated to satisfy the requirements of such paragraph shall be reduced pro rata to the extent necessary to allocate to such State for the fiscal year the amount allocated to such State for fiscal year 2000.
 
@@ -22,11 +22,11 @@ In accordance with regulations promulgated under this part, a portion of any all
 
 In accordance with regulations promulgated under this part, 5 per centum of the minimum annual allocation to any State under this part shall be available to assist the advisory group established under section 5633(a)(3) of this title.
 
-(Pub. L. 93–415, title II, §222, Sept. 7, 1974, 88 Stat. 1118; Pub. L. 95–115, §4(b)(1), (2)(A)–(C), (3),\(4), Oct. 3, 1977, 91 Stat. 1051; Pub. L. 96–509, §10, Dec. 8, 1980, 94 Stat. 2755; Pub. L. 98–473, title II, §625(b), Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §7257, Nov. 18, 1988, 102 Stat. 4438; Pub. L. 102–586, §2(f)(2), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75; Pub. L. 107–273, div. C, title II, §12208, Nov. 2, 2002, 116 Stat. 1873.)
+(Pub. L. 93–415, title II, §222, Sept. 7, 1974, 88 Stat. 1118; Pub. L. 95–115, §4(b)(1), (2)(A)–(C), (3), (4), Oct. 3, 1977, 91 Stat. 1051; Pub. L. 96–509, §10, Dec. 8, 1980, 94 Stat. 2755; Pub. L. 98–473, title II, §625(b), Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §7257, Nov. 18, 1988, 102 Stat. 4438; Pub. L. 102–586, §2(f)(2), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75; Pub. L. 107–273, div. C, title II, §12208, Nov. 2, 2002, 116 Stat. 1873.)
 
 #### Amendments
 
-2002—Subsec. (a)(2)(A). Pub. L. 107–273, §12208(1)(A)(i), struck out “(other than parts D and E)” after “carry out this subchapter”, substituted “amount up to $400,000” for “amount, up to $400,000,”, “fiscal year 2000, except” for “fiscal year 1992 except”, “amount up to $100,000” for “amount, up to $100,000,”, and “fiscal year 2000, each” for “fiscal year 1992, each”, and struck out “the Trust Territory of the Pacific Islands,” after “American Samoa,”.
+<b>2002</b>—Subsec. (a)(2)(A). Pub. L. 107–273, §12208(1)(A)(i), struck out “(other than parts D and E)” after “carry out this subchapter”, substituted “amount up to $400,000” for “amount, up to $400,000,”, “fiscal year 2000, except” for “fiscal year 1992 except”, “amount up to $100,000” for “amount, up to $100,000,”, and “fiscal year 2000, each” for “fiscal year 1992, each”, and struck out “the Trust Territory of the Pacific Islands,” after “American Samoa,”.
 
 Subsec. (a)(2)(B). Pub. L. 107–273, §12208(1)(A)(ii), struck out “(other than part D)” after “carry out this subchapter”, substituted “less than $600,000” for “less than $400,000”, “amount up to $100,000” for “amount, up to $100,000,”, and “fiscal year 2000,” for “fiscal year 1992”, and struck out “or such greater amount, up to $600,000, as is available to be allocated if appropriations have been enacted and made available to carry out parts D and E of this subchapter in the full amounts authorized by section 5671(a)(1) and (3) of this title” before “except that” and “the Trust Territory of the Pacific Islands,” after “American Samoa,”.
 
@@ -34,9 +34,9 @@ Subsec. (a)(3). Pub. L. 107–273, §12208(1)(B), substituted “fiscal year 200
 
 Subsec. (b). Pub. L. 107–273, §12208(2), struck out “the Trust Territory of the Pacific Islands,” after “Guam,”.
 
-1998—Subsec. (c). Pub. L. 105–277 substituted “units of local government” for “units of general local government” in two places.
+<b>1998</b>—Subsec. (c). Pub. L. 105–277 substituted “units of local government” for “units of general local government” in two places.
 
-1992—Subsec. (a)(2)(A). Pub. L. 102–586, §2(f)(2)(A), (B)(i), substituted “parts D and E” for “part D”, substituted “allocated” for “allotted” in two places, and inserted “or such greater amount, up to $400,000, as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 1992” and “, or such greater amount, up to $100,000, as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 1992,”.
+<b>1992</b>—Subsec. (a)(2)(A). Pub. L. 102–586, §2(f)(2)(A), (B)(i), substituted “parts D and E” for “part D”, substituted “allocated” for “allotted” in two places, and inserted “or such greater amount, up to $400,000, as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 1992” and “, or such greater amount, up to $100,000, as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 1992,”.
 
 Subsec. (a)(2)(B). Pub. L. 102–586, §2(f)(2)(A), (B)(ii), substituted “allocated” for “allotted” in two places and inserted “or such greater amount, up to $600,000, as is available to be allocated if appropriations have been enacted and made available to carry out parts D and E of this subchapter in the full amounts authorized by section 5671(a)(1) and (3) of this title” and “, or such greater amount, up to $100,000, as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 1992”.
 
@@ -44,23 +44,23 @@ Subsec. (a)(3). Pub. L. 102–586, §2(f)(2)(A), (B)(iii), substituted “alloca
 
 Subsec. (b). Pub. L. 102–586, §2(f)(2)(A), substituted “allocated” for “allotted” in two places.
 
-Subsec. (c). Pub. L. 102–586, §2(f)(2)(A), (C), substituted “allocation” for “allotment” in two places, “, evaluation, and one full-time staff position” for “and evaluation”, and “10 percent” for “71/2 per centum”.
+Subsec. (c). Pub. L. 102–586, §2(f)(2)(A), (C), substituted “allocation” for “allotment” in two places, “, evaluation, and one full-time staff position” for “and evaluation”, and “10 percent” for “7½ per centum”.
 
 Subsec. (d). Pub. L. 102–586, §2(f)(2)(A), substituted “allocation” for “allotment”.
 
-1988—Subsec. (a)(1). Pub. L. 100–690, §7257(a)(1), (2), designated existing provisions as par. (1), substituted “Subject to paragraph (2) and in” for “In”, and struck out at end “No such allotment to any State shall be less than $225,000, except that for the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands no allotment shall be less than $56,250.”
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–690, §7257(a)(1), (2), designated existing provisions as par. (1), substituted “Subject to paragraph (2) and in” for “In”, and struck out at end “No such allotment to any State shall be less than $225,000, except that for the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands no allotment shall be less than $56,250.”
 
 Subsec. (a)(2), (3). Pub. L. 100–690, §7257(a)(3), added pars. (2) and (3).
 
 Subsec. (b). Pub. L. 100–690, §7257(b), substituted “If” for “Except for funds appropriated for fiscal year 1975, if” and struck out after first sentence “Funds appropriated for fiscal year 1975 may be obligated in accordance with subsection (a) of this section until June 30, 1976, after which time they may be reallocated.”
 
-1984—Subsec. (b). Pub. L. 98–473 substituted “the Trust Territory” for “and the Trust Territory” and inserted “, and the Commonwealth of the Northern Mariana Islands” after “Pacific Islands”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–473 substituted “the Trust Territory” for “and the Trust Territory” and inserted “, and the Commonwealth of the Northern Mariana Islands” after “Pacific Islands”.
 
-1980—Subsec. (a). Pub. L. 96–509 inserted reference to the Commonwealth of the Northern Mariana Islands.
+<b>1980</b>—Subsec. (a). Pub. L. 96–509 inserted reference to the Commonwealth of the Northern Mariana Islands.
 
-1977—Subsec. (a). Pub. L. 95–115, §4(b)(1), substituted “$225,000” for “$200,000” and “$56,250” for “$50,000”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–115, §4(b)(1), substituted “$225,000” for “$200,000” and “$56,250” for “$50,000”.
 
-Subsec. (c). Pub. L. 95–115, §4(b)(2)(A), (B), (3), inserted provisions relating to pre-award activities, monitoring and evaluation payments, and matching requirements for expended or obligated amounts, and substituted “71/2” for “15” and “units of general local government or combinations thereof” for “local governments”.
+Subsec. (c). Pub. L. 95–115, §4(b)(2)(A), (B), (3), inserted provisions relating to pre-award activities, monitoring and evaluation payments, and matching requirements for expended or obligated amounts, and substituted “7½” for “15” and “units of general local government or combinations thereof” for “local governments”.
 
 Subsec. (d). Pub. L. 95–115, §4(b)(2)(C), (4)(B), redesignated subsec. (e) as (d). Former subsec. (d), relating to limitations on financial assistance under this section, was struck out.
 

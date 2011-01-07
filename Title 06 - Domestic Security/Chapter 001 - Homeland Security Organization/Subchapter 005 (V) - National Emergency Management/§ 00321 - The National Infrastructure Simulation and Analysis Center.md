@@ -28,7 +28,7 @@ In this section, the term “National Infrastructure Simulation and Analysis Cen
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The purpose of the relationship under subparagraph (B) shall be to permit each Federal agency and department described in subparagraph (B) to take full advantage of the capabilities of the National Infrastructure Simulation and Analysis Center (particularly vulnerability and consequence analysis), consistent with its work load capacity and priorities, for real-time response to reported and projected natural disasters, acts of terrorism, and other man-made disasters.
+&emsp;&emsp;&emsp;The purpose of the relationship under subparagraph (B) shall be to permit each Federal agency and department described in subparagraph (B) to take full advantage of the capabilities of the National Infrastructure Simulation and Analysis Center\(particularly vulnerability and consequence analysis), consistent with its work load capacity and priorities, for real-time response to reported and projected natural disasters, acts of terrorism, and other man-made disasters.
 
 #### (ii) Recipient of certain support
 

@@ -28,7 +28,7 @@
 
 #### Amendments
 
-2006—Pub. L. 109–177, §302(a)(4), substituted “any airport or seaport” for “any airport” in section catchline.
+<b>2006</b>—Pub. L. 109–177, §302(a)(4), substituted “any airport or seaport” for “any airport” in section catchline.
 
 Subsec. (a)(3), (4). Pub. L. 109–177, §302(a)(1), added par. (3) and redesignated former par. (3) as (4).
 

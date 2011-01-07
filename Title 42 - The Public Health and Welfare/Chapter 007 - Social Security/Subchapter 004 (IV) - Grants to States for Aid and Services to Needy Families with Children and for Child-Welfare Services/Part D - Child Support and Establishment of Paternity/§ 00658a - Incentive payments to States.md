@@ -82,7 +82,7 @@ In addition to any other payment under this part, the Secretary shall, subject t
 
 &emsp;&emsp;&emsp;(i) 2 times the sum of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the total amount of support collected during the fiscal year under the State plan approved under this part in cases in which the support obligation involved is required to be assigned to the State pursuant to part A or E of this subchapter or subchapter XIX of this chapter; and
+&emsp;&emsp;&emsp;&emsp;(I) the total amount of support collected during the fiscal year under theState plan approved under this part in cases in which the support obligation involved is required to be assigned to the State pursuant to part A or E of this subchapter or subchapter XIX of this chapter; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the total amount of support collected during the fiscal year under the State plan approved under this part in cases in which the support obligation involved was so assigned but, at the time of collection, is not required to be so assigned; and
 
@@ -94,7 +94,7 @@ In addition to any other payment under this part, the Secretary shall, subject t
 
 #### (i) Determination of paternity establishment performance level
 
-&emsp;&emsp;&emsp;The paternity establishment performance level for a State for a fiscal year is,at the option of the State, the IV–D paternity establishment percentage determined under section 652(g)(2)(A) of this title or the statewide paternity establishment percentage determined under section 652(g)(2)(B) of this title.
+&emsp;&emsp;&emsp;The paternity establishment performance level for a State for a fiscal year is, at the option of the State, the IV–D paternity establishment percentage determined under section 652(g)(2)(A) of this title or the statewide paternity establishment percentage determined under section 652(g)(2)(B) of this title.
 
 #### (ii) Determination of applicable percentage
 
@@ -194,7 +194,7 @@ In addition to any other payment under this part, the Secretary shall, subject t
 
 #### (i) Determination of current payment performance level
 
-&emsp;&emsp;&emsp;The current payment performance level for a State for a fiscal year is equal to the total amount of current support collected during the fiscal year under the State plan approved under this part divided by the total amount of current support owed during the fiscal year in all cases under the State plan, expressed as a percentage.
+&emsp;&emsp;&emsp;The current payment performance level for a State for a fiscal year is equal to thetotal amount of current support collected during the fiscal year under the State plan approved under this part divided by the total amount of current support owed during the fiscal year in all cases under the State plan, expressed as a percentage.
 
 #### (ii) Determination of applicable percentage
 
@@ -394,7 +394,7 @@ Report on variations in state performance attributable to demographic variables.
 
 &emsp;&emsp;“(ii)
 
-Interim report.—Not later than March 1, 2001, the Secretary shall submit to the Congress an interim report that contains the findings of the study required by subparagraph (A).
+Interim report.—Not later than March 1, 2001, the Secretary shall submit to the Congress aninterim report that contains the findings of the study required by subparagraph (A).
 
 &emsp;&emsp;“(iii)
 

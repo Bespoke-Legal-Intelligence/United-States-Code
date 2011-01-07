@@ -24,11 +24,11 @@
 
 &emsp;&emsp;(G) military authority exercised in the field in time of war or in occupied territory; or
 
-&emsp;&emsp;(H) functions conferred by sections 1738, 1739, 1743, and 1744 of title 12; chapter 2 of title 41; subchapter II of chapter 471 of title 49; or sections 1884, 1891–1902, and former section 1641(b)(2), of title 50, appendix; and
+&emsp;&emsp;(H) functions conferred by sections 1738, 1739, 1743, and 1744 of title 12; subchapter II of chapter 471 of title 49; or sections 1884, 1891–1902, and former section 1641(b)(2), of title 50, appendix; and
 
 &emsp;(2) “person”, “rule”, “order”, “license”, “sanction”, “relief”, and “agency action” have the meanings given them by section 551 of this title.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 392; Pub. L. 103–272, §5(a), July 5, 1994, 108 Stat. 1373.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 392; Pub. L. 103–272, §5(a), July 5, 1994, 108 Stat. 1373; Pub. L. 111–350, §5(a)(3), Jan. 4, 2011, 124 Stat. 3841.)
 
 Historical and Revision Notes
 
@@ -61,6 +61,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 Sections 1891–1902 of title 50, appendix, referred to in subsec. (b)(1)(H), were omitted from the Code as executed.
 
 #### Amendments
+
+2011—Subsec. (b)(1)(H). Pub. L. 111–350 struck out “chapter 2 of title 41;” after “title 12;”.
 
 1994—Subsec. (b)(1)(H). Pub. L. 103–272 substituted “subchapter II of chapter 471 of title 49; or sections” for “or sections 1622,”.
 

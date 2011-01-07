@@ -28,7 +28,7 @@
 
 &emsp;(iii) the use of innovative technology sanctioned by an enforcement order under section 7413(d)(4) <sup>1</sup> of this title;
 
-&emsp;(iv) an inability to comply with any such requirement, for which inability the source has received an order under section 7413(d) <sup>1</sup> of this title (or an order under section 7413 of this title issued before August 7, 1977) which has the effect of permitting a delay or violation of any requirement of this chapter (including a requirement of an applicable implementation plan) which inability results from reasons entirely beyond the control of the owner or operator of such source or of any entity controlling, controlled by, or under common control with the owner or operator of such source; or
+&emsp;(iv) an inability to comply with any such requirement, for which inability the source has received an order under section 7413(d) <sup>1</sup> of this title (or an order under section 7413 of this title issued before August 7, 1977) which has the effect of permitting a delay or violation of any requirement of this chapter (including arequirement of an applicable implementation plan) which inability results from reasons entirely beyond the control of the owner or operator of such source or of any entity controlling, controlled by, or under common control with the owner or operator of such source; or
 
 &emsp;(v) the conditions by reason of which a temporary emergency suspension is authorized under section 7410(f) or (g) of this title.
 
@@ -120,7 +120,7 @@ Any orders, payments, sanctions, or other requirements under this section shall 
 
 #### (g) More stringent emission limitations or other requirements
 
-In the case of any emission limitation or other requirement approved or promulgated by the Administrator under this chapter after August 7, 1977, which is more stringent than the emission limitation or requirement for the source in effect prior to such approval or promulgation, if any, or where there was no emission limitation or requirement approved or promulgated before August 7, 1977, the date for imposition of the non-compliance penalty under this section, shall be either July 1, 1979, or the date on which the source is required to be in full compliance with such emission limitation or requirement, whichever is later, but in no event later than three years after the approval or promulgation of such emission limitation or requirement.
+In the case of any emission limitation or other requirement approved or promulgated by the Administrator under this chapter after August 7, 1977, which is more stringent than the emission limitation or requirement for the source ineffect prior to such approval or promulgation, if any, or where there was no emission limitation or requirement approved or promulgated before August 7, 1977, the date for imposition of the non-compliance penalty under this section, shall be either July 1, 1979, or the date on which the source is required to be in full compliance with such emission limitation or requirement, whichever is later, but in no event later than three years after the approval or promulgation of such emission limitation or requirement.
 
 (July 14, 1955, ch. 360, title I, §120, as added Pub. L. 95–95, title I, §118, Aug. 7, 1977, 91 Stat. 714; amended Pub. L. 95–190, §14(a)(28)–(38), Nov. 16, 1977, 91 Stat. 1401; Pub. L. 101–549, title VII, §710(a), Nov. 15, 1990, 104 Stat. 2684.)
 
@@ -134,9 +134,9 @@ Section 1857c–10(c)(1) of this title (as in effect before August 7, 1977), ref
 
 #### Amendments
 
-1990—Subsec. (a)(2)(A). Pub. L. 101–549 inserted reference to sections 7477 and 7603 of this title in cl. (ii), added cl. (iii), and redesignated former cl. (iii) as (iv) and inserted reference to cl. (iii).
+<b>1990</b>—Subsec. (a)(2)(A). Pub. L. 101–549 inserted reference to sections 7477 and 7603 of this title in cl. (ii), added cl. (iii), and redesignated former cl. (iii) as (iv) and inserted reference to cl. (iii).
 
-1977—Subsec. (a)(2)(A). Pub. L. 95–190, §14(a)(28), (29), in cls. (i) and (iii) inserted provisions relating to consent decrees wherever appearing.
+<b>1977</b>—Subsec. (a)(2)(A). Pub. L. 95–190, §14(a)(28), (29), in cls. (i) and (iii) inserted provisions relating to consent decrees wherever appearing.
 
 Subsec. (a)(2)(B). Pub. L. 95–190, §14(a)(30), (31), in cl. (i) inserted reference to section 7413(d)(5) of this title, and in cls. (i) and (ii) inserted provision relating to orders in effect under section 1857c–10 of this title before Aug. 7, 1977, wherever appearing.
 

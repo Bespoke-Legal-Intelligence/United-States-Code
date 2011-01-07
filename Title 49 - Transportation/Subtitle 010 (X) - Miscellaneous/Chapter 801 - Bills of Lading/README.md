@@ -23,7 +23,7 @@
 
 #### Amendments
 
-1994—Pub. L. 103–429, §6(79), Oct. 31, 1994, 108 Stat. 4388, made technical amendment to chapter heading.
+<b>1994</b>—Pub. L. 103–429, §6(79), Oct. 31, 1994, 108 Stat. 4388, made technical amendment to chapter heading.
 
 
 ---

@@ -122,7 +122,7 @@
 
 &emsp;&emsp;(J) not affect or supersede any requirements or prohibitions pertaining to the discharge of ballast water into waters of the United States under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.); and
 
-&emsp;&emsp;(K) provide an exemption from ballast water exchange requirements to passenger vessels with operating ballast water systems that are equipped with treatment systems designed to kill aquatic organisms in ballast water, unless the Secretary determines that such treatment systems are less effective than ballast water exchange at reducing therisk of transfers of invasive species in the ballast water of passenger vessels; and
+&emsp;&emsp;(K) provide an exemption from ballast water exchange requirements to passenger vessels with operating ballast water systems that are equipped with treatment systems designed to kill aquatic organisms in ballast water, unless the Secretary determines that such treatment systems are less effective than ballast water exchange at reducing the risk of transfers of invasive species in the ballast water of passenger vessels; and
 
 &emsp;&emsp;(L) not apply to crude oil tankers engaged in the coastwise trade.
 
@@ -214,7 +214,7 @@ Not sooner than 24 months after the date of issuance of guidelines pursuant to s
 
 #### (3) Revocation of clearance
 
-&emsp;Upon request of the Secretary, the Secretary of the Treasury shall withhold or revoke theclearance of a vessel required by section 60105 of title 46, if the owner or operator of that vessel is in violation of the regulations issued under subsection (b) or (f) of this section.
+&emsp;Upon request of the Secretary, the Secretary of the Treasury shall withhold or revoke the clearance of a vessel required by section 60105 of title 46, if the owner or operator of that vessel is in violation of the regulations issued under subsection (b) or (f) of this section.
 
 #### (4) Exception to sanctions
 
@@ -278,9 +278,9 @@ October 26, 1996, referred to in subsec. (k)(3), was in the original “the date
 
 #### Amendments
 
-1996—Pub. L. 104–332 amended section generally, substituting subsecs. (a) to (<i>l</i>) relating to aquatic nuisancespecies in waters of the United States for former subsecs. (a) to (e) relating to aquatic nuisance species in the Great Lakes.
+<b>1996</b>—Pub. L. 104–332 amended section generally, substituting subsecs. (a) to (<i>l</i>) relating to aquatic nuisance species in waters of the United States for former subsecs. (a) to (e) relating to aquatic nuisance species in the Great Lakes.
 
-1992—Subsec. (b)(3). Pub. L. 102–580 and Pub. L. 102–587 made substantively identical amendments, adding par. (3). Par. (3) is based on text of Pub. L. 102–587.
+<b>1992</b>—Subsec. (b)(3). Pub. L. 102–580 and Pub. L. 102–587 made substantively identical amendments, adding par. (3). Par. (3) is based on text of Pub. L. 102–587.
 
 #### Transfer of Functions
 

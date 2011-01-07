@@ -54,7 +54,7 @@ No penalty shall be assessed, or cease and desist order issued, by the Secretary
 
 #### (2) Attorney General
 
-&emsp;The Attorney General may apply to the appropriate district court of the United Statesfor a temporary or permanent injunction or restraining order.
+&emsp;The Attorney General may apply to the appropriate district court of the United States for a temporary or permanent injunction or restraining order.
 
 #### (3) Court
 

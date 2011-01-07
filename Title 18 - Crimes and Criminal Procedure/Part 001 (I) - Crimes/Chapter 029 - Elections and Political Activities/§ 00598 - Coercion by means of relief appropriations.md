@@ -14,5 +14,5 @@ The punishment provision was derived from section 61g of title 18, U.S.C., 1940 
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 

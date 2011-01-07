@@ -72,7 +72,7 @@ Any establishment within any foreign country engaged in the manufacture, prepara
 
 #### (1) In general
 
-&emsp;Each person who is required to register under this section and who proposes to begin the introduction or delivery for introduction into interstate commerce for commercial distribution of a tobacco product intended for human use that was not commercially marketed (other than for test marketing) in theUnited States as of February 15, 2007, shall, at least 90 days prior to making such introduction or delivery, report to the Secretary (in such form and manner as the Secretary shall prescribe)—
+&emsp;Each person who is required to register under this section and who proposes to begin the introduction or delivery for introduction into interstate commerce for commercial distribution of a tobacco product intended for human use that was not commercially marketed (other than for test marketing) in the United States as of February 15, 2007, shall, at least 90 days prior to making such introduction or delivery, report to the Secretary (in such form and manner as the Secretary shall prescribe)—
 
 &emsp;&emsp;(A) the basis for such person's determination that—
 

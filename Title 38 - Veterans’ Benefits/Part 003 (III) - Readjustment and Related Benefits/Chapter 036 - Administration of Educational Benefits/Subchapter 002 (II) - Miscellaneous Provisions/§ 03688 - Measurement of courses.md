@@ -2,11 +2,11 @@
 
 (a) For the purposes of this chapter and chapters 34 and 35 of this title—
 
-&emsp;(1) an institutional trade or technical course offered on a clock-hour basis, not leading to a standard college degree, involving shop practice as an integral part thereof, shall be considered a full-time course when a minimum of 22 hours per week of attendance (excluding supervised study) is required, with no more than 21/2 hours of rest periods per week allowed;
+&emsp;(1) an institutional trade or technical course offered on a clock-hour basis, not leading to a standard college degree, involving shop practice as an integral part thereof, shall be considered a full-time course when a minimum of 22 hours per week of attendance (excluding supervised study) is required, with no more than 2½ hours of rest periods per week allowed;
 
 &emsp;(2) an institutional course offered on a clock-hour basis, not leading to a standard college degree, in which theoretical or classroom instruction predominates shall be considered a full-time course when a minimum of 18 hours per week net of instruction (excluding supervised study but which may include customary intervals not to exceed 10 minutes between hours of instruction) is required;
 
-&emsp;(3) an academic high school course requiring sixteen units for a full course shall be considered a full-time course when (A) a minimum of four units per year is required or (B) an individual is pursuing a program of education leading to an accredited high school diploma at a rate which, if continued, would result in receipt of such a diploma in four ordinaryschool years. For the purpose of subclause (A) of this clause, a unit is defined to be not less than one hundred and twenty sixty-minute hours or their equivalent of study in any subject in one academic year;
+&emsp;(3) an academic high school course requiring sixteen units for a full course shall be considered a full-time course when (A) a minimum of four units per year is required or (B) an individual is pursuing a program of education leading to an accredited high school diploma at a rate which, if continued, would result in receipt of such a diploma in four ordinary school years. For the purpose of subclause (A) of this clause, a unit is defined to be not less than one hundred and twenty sixty-minute hours or their equivalent of study in any subject in one academic year;
 
 &emsp;(4) an institutional undergraduate course offered by a college or university on a standard quarter- or semester-hour basis, other than a course pursued as part of a program of education beyond the baccalaureate level, shall be considered a full-time course when a minimum of fourteen semester hours per semester or the equivalent thereof (including such hours for which no credit is granted but which are required to be taken to correct an educational deficiency and which the educational institution considers to be quarter or semester hours for other administrative purposes), for which credit is granted toward a standard college degree, is required, except that where such college or university certifies, upon the request of the Secretary, that (A) full-time tuition is charged to all undergraduate students carrying a minimum of less than fourteen such semester hours or the equivalent thereof, or (B) all undergraduate students carrying a minimum of less than fourteen such semester hours or the equivalent thereof, are considered to be pursuing a full-time course for other administrative purposes, then such an institutional undergraduate course offered by such college or university with such minimum number of such semester hours shall be considered a full-time course, but in the event such minimum number of semester hours is less than twelve semester hours or the equivalent thereof, then twelve semester hours or the equivalent thereof shall be considered a full-time course;
 
@@ -26,15 +26,15 @@ Provisions similar to those comprising this section were contained in former sec
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–252 inserted “33,” after “32,”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–252 inserted “33,” after “32,”.
 
-1994—Subsec. (a)(6). Pub. L. 103–446, §1201(e)(12), inserted comma after “3241(a)(2)”.
+<b>1994</b>—Subsec. (a)(6). Pub. L. 103–446, §1201(e)(12), inserted comma after “3241(a)(2)”.
 
 Subsec. (b). Pub. L. 103–446, §607, substituted “this chapter,” for “this chapter or” and inserted “, or chapter 106 of title 10” after “this title”.
 
-1992—Subsec. (a). Pub. L. 102–568, §316(a)(1)(E), struck out concluding provisions which read as follows: “Notwithstanding the provisions of clause (1) or (2) of this subsection, an educational institution offering courses not leading to a standard college degree may measure such courses on a quarter- or semester-hour basis (with full time measured on the same basis as provided by clause (4) of this subsection); but (A) the academic portions of such courses must require outside preparation and be measured on not less than one quarter or one semester hour for each fifty minutes net of instruction per week or quarter or semester; (B) the laboratory portions of such courses must be measured on not less than one quarter or one semester hour for each two hours (or two 50-minute periods) of attendance per week per quarter or semester; and (C) the shop portions of such courses must be measured on not less than one quarter or one semester hour for each three hours (or three 50-minute periods) of attendance per week per quarter or semester. In no event shall such course be considered a full-time course when less than twenty-two hours per week of attendance is required.”
+<b>1992</b>—Subsec. (a). Pub. L. 102–568, §316(a)(1)(E), struck out concluding provisions which read as follows: “Notwithstanding the provisions of clause (1) or (2) of this subsection, an educational institution offering courses not leading to a standard college degree may measure such courses on a quarter- or semester-hour basis (with full time measured on the same basis as provided by clause (4) of this subsection); but (A) the academic portions of such courses must require outside preparation and be measured on not less than one quarter or one semester hour for each fifty minutes net of instruction per week or quarter or semester; (B) the laboratory portions of such courses must be measured on not less than one quarter or one semester hour for each two hours (or two 50-minute periods) of attendance per week per quarter or semester; and (C) the shop portions of such courses must be measured on not less than one quarter or one semester hour for each three hours (or three 50-minute periods) of attendance per week per quarter or semester. In no event shall such course be considered a full-time course when less than twenty-two hours per week of attendance is required.”
 
-Subsec. (a)(1). Pub. L. 102–568, §316(a)(1)(A), substituted “22 hours per week of attendance (excluding supervised study) is required, with no more than 21/2 hours of rest periods per week allowed” for “thirty hours per week of attendance is required with no more than two and one-half hours of rest periods and notmore than 5 hours of supervised study per week allowed, but if such course is approved pursuant to section 3675(a)(1) of this title, then 22 hours per week of attendance, with no more than 21/2 hours of rest period per week allowed and excluding supervised study, shall be considered full time”.
+Subsec. (a)(1). Pub. L. 102–568, §316(a)(1)(A), substituted “22 hours per week of attendance (excluding supervised study) is required, with no more than 2½ hours of rest periods per week allowed” for “thirty hours per week of attendance is required with no more than two and one-half hours of rest periods and not more than 5 hours of supervised study per week allowed, but if such course is approved pursuant to section 3675(a)(1) of this title, then 22 hours per week of attendance, with no more than 2½ hours of rest period per week allowed and excluding supervised study, shall be considered full time”.
 
 Subsec. (a)(2). Pub. L. 102–568, §316(a)(1)(B), substituted “18 hours per week net of instruction (excluding supervised study but which may include customary intervals not to exceed 10 minutes between hours of instruction) is required” for “twenty-five hours per week net of instruction and not more than 5 hours of supervised study (which may include customary intervals not to exceed ten minutes between hours of instruction) is required, but if such course is approved pursuant to section 3675(a)(1) of this title, then 18 hours per week net of instruction (excluding supervised study), which may include customary intervals not to exceed ten minutes between hours of instruction, shall be considered full time”.
 
@@ -48,11 +48,11 @@ Subsec. (b). Pub. L. 102–568, §316(a)(2), substituted “30, 32,” for “34
 
 Subsecs. (c) to (e). Pub. L. 102–568, §316(a)(3), struck out subsec. (c) which defined “in residence on a standard quarter- or semester-hour basis” for purposes of subsec. (a), subsec. (d) which specified which institutional undergraduate courses were to be considered full-time courses, and subsec. (e) which provided method for determining clock hours of enrollment.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1788 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1788 of this title as this section.
 
 Subsec. (a)(1), (2), (6), (7). Pub. L. 102–83, §5(c)(1), substituted “3675(a)(1)” for “1775(a)(1)” in pars. (1) and (2), “3491(a)(2)” for “1691(a)(2)” in par. (6), and “3675” for “1775” in par. (7).
 
-1989—Subsec. (a). Pub. L. 101–237, §413(a)(1), inserted “(or three 50-minute periods)” after “three hours” in cl. (C) of penultimate sentence.
+<b>1989</b>—Subsec. (a). Pub. L. 101–237, §413(a)(1), inserted “(or three 50-minute periods)” after “three hours” in cl. (C) of penultimate sentence.
 
 Subsecs. (a)(4), (b). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator”.
 
@@ -64,21 +64,21 @@ Subsec. (e). Pub. L. 101–237, §417, amended subsec. (e) generally. Prior to a
 
 &emsp;“(2) for which such institution requires one or more unit courses or subjects for which credit is granted toward a standard college degree
 
-> will, during the semester (or quarter or other applicable portion of the academic year) when such unit course or subject is being pursued, be considered full time under clause (1) or (2) of subsection (a) of this section, each of the numbers of hours specified in such clause shall be deemed to be reduced, during such semester (or other portion of the academic year), by the percentage described in the following sentence and rounded as the Administrator may prescribe. Such percentage is the percentage that the number of semester hours (or the equivalent thereof) represented by such unit course or subject is of the number of semester hours (or the equivalent thereof) which, under clause (4) of such subsection, constitutes a full-time institutional undergraduate course at such institution.”
+> will, during the semester (or quarter or other applicable portion of the academic year) when such unit course or subject is being pursued, be considered full time under clause (1) or (2) of subsection (a) of this section, each of the numbers of hours specified in such clause shall be deemed to be reduced, during such semester (or other portion of the academic year), by thepercentage described in the following sentence and rounded as the Administrator may prescribe. Such percentage is the percentage that the number of semester hours (or the equivalent thereof) represented by such unit course or subject is of the number of semester hours (or the equivalent thereof) which, under clause (4) of such subsection, constitutes a full-time institutional undergraduate course at such institution.”
 
-1988—Subsec. (a). Pub. L. 100–322, §321(a)(1), inserted “(or two 50-minute periods)” after “two hours” in cl. (B) of penultimate sentence.
+<b>1988</b>—Subsec. (a). Pub. L. 100–322, §321(a)(1), inserted “(or two 50-minute periods)” after “two hours” in cl. (B) of penultimate sentence.
 
 Subsec. (c). Pub. L. 100–322, §321(a)(2), inserted “(or two 50-minute periods)” after “two hours”.
 
-1986—Subsec. (a)(7). Pub. L. 99–576, §315(a)(2)(A), added par. (7).
+<b>1986</b>—Subsec. (a)(7). Pub. L. 99–576, §315(a)(2)(A), added par. (7).
 
 Subsec. (c). Pub. L. 99–576, §315(a)(2)(B), struck out “(4)” after “(a)”.
 
 Subsec. (e). Pub. L. 99–576, §315(b), added subsec. (e).
 
-1982—Subsec. (a)(6). Pub. L. 97–295 inserted “of this subsection” after “or (4)”.
+<b>1982</b>—Subsec. (a)(6). Pub. L. 97–295 inserted “of this subsection” after “or (4)”.
 
-1980—Subsec. (a)(1), (2). Pub. L. 96–466, §345(a)(1), substituted “section 1775(a)(1) of this title” for “section 1775 of this title”.
+<b>1980</b>—Subsec. (a)(1), (2). Pub. L. 96–466, §345(a)(1), substituted “section 1775(a)(1) of this title” for “section 1775 of this title”.
 
 Subsec. (a)(4). Pub. L. 96–466, §345(a)(2), (3), substituted “in residence on a standard quarter- or semester-hour basis” for “on a quarter- or semester-hour basis”, and inserted “per semester” after “minimum of fourteen semester hours”.
 
@@ -86,15 +86,15 @@ Subsec. (a)(6). Pub. L. 96–466, §601(f), substituted “under section 1691(a)
 
 Subsecs. (c), (d). Pub. L. 96–466, §345(b), added subsecs. (c) and (d).
 
-1977—Subsec. (a)(1). Pub. L. 95–202, §304(a)(3)(A), (B), substituted “two and one-half hours of rest periods and not more than 5 hours of supervised study per week allowed, but if such course is approved pursuant to section 1775 of this title, then 22 hours per week of attendance” for “two and one-half hours of rest periods per week allowed, but if such course is approved pursuant to section 1775 of this title, then 27 hours per week of attendance”.
+<b>1977</b>—Subsec. (a)(1). Pub. L. 95–202, §304(a)(3)(A), (B), substituted “two and one-half hours of rest periods and not more than 5 hours of supervised study per week allowed, but if such course is approved pursuant to section 1775 of this title, then 22 hours per week of attendance” for “two and one-half hours of rest periods per week allowed, but if such course is approved pursuant to section 1775 of this title, then 27 hours per week of attendance”.
 
 Subsec. (a)(2). Pub. L. 95–202, §304(a)(3)(C), (D), substituted “minimum of twenty-five hours per week net of instruction and not more than 5 hours of supervised study” for “minimum of twenty-five hours per week net of instruction” and “18 hours per week” for “22 hours per week”.
 
-1976—Subsec. (a)(1). Pub. L. 94–502, §509(a)(1), provided that, if a course was approved pursuant to section 1775 of this title, then 27 hours of attendance per week with no more than 21/2 hours of rest period per week would be considered full time.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–502, §509(a)(1), provided that, if a course was approved pursuant to section 1775 of this title, then 27 hours of attendance per week with no more than 2½ hours of rest period per week would be considered full time.
 
 Subsec. (a)(2). Pub. L. 94–502, §509(a)(2), provided that, if a course was approved pursuant to section 1775 of this title, then 22 hours of instruction per week with a ten minute interval between hours would be considered full time.
 
-1974—Subsec. (a). Pub. L. 93–508 in cl. (1) substituted “basis, not leading to a standard college degree involving” for “basis below the college level involving”; in cl. (2) substituted “basis, not leading to a standard college degree, in which” for “basis below the college level in which”; in cl. (6) substituted “not leading to a standard college degree” for “below the college level”; and following cl. (6), inserted provisions that notwithstanding cls. (1) and (2) of this subsection, an educational institution offering courses not leading to a standard college degree may measure such courses on a quarter- or semester-hour basis with special requirements for the academic, laboratory, and shop portions of such courses, and that in no event such course be considered a full-time course unless twenty-two hours per week of attendance is required.
+<b>1974</b>—Subsec. (a). Pub. L. 93–508 in cl. (1) substituted “basis, not leading to a standard college degree involving” for “basis below the college level involving”; in cl. (2) substituted “basis, not leading to a standard college degree, in which” for “basis below the college level in which”; in cl. (6) substituted “not leading to a standard college degree” for “below the college level”; and following cl. (6), inserted provisions that notwithstanding cls. (1) and (2) of this subsection, an educational institution offering courses not leading to a standard college degree may measure such courses on a quarter- or semester-hour basis with special requirements for the academic, laboratory, and shop portions of such courses, and that in no event such course be considered a full-time course unless twenty-two hours per week of attendance is required.
 
 #### Effective Date of 2008 Amendment
 

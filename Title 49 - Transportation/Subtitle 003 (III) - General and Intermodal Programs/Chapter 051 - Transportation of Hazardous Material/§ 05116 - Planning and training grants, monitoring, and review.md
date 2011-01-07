@@ -112,7 +112,7 @@ Annual Registration Fee Account and Its Uses.—The Secretary of the Treasury sh
 
 Supplemental Training Grants.—
 
-&emsp;(1) In order to further the purposes of subsection (b), the Secretary shall, subject to theavailability of funds, make grants to national nonprofit employee organizations engaged solely in fighting fires for the purpose of training instructors to conduct hazardous materials response training programs for individuals with statutory responsibility to respond to hazardous materials accidents and incidents.
+&emsp;(1) In order to further the purposes of subsection (b), the Secretary shall, subject to the availability of funds, make grants to national nonprofit employee organizations engaged solely in fighting fires for the purpose of training instructors to conduct hazardous materials response training programs for individuals with statutory responsibility to respond to hazardous materials accidents and incidents.
 
 &emsp;(2) For the purposes of this subsection the Secretary, after consultation with interested organizations, shall—
 
@@ -230,7 +230,7 @@ The Emergency Planning and Community Right-To-Know Act of 1986, referred to in s
 
 #### Amendments
 
-2005—Subsec. (a)(1), (2). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
+<b>2005</b>—Subsec. (a)(1), (2). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
 
 Subsec. (a)(2)(A). Pub. L. 109–59, §7114(a), substituted “5 fiscal years” for “2 fiscal years”.
 
@@ -252,13 +252,13 @@ Pub. L. 109–59, §7114(c), substituted “Federal financial assistance” for 
 
 Subsec. (i). Pub. L. 109–59, §7114(d)(1), (2), in introductory provisions, inserted “(to be known as the ‘Hazardous Materials Emergency Preparedness Fund’)” after “an account in the Treasury” and struck out “collects under section 5108(g)(2)(A) of this title and” before “transfers to the Secretary”, added par. (3), and redesignated former par. (3) as (4) and substituted “2 percent” for “10 percent”.
 
-Subsec. (k). Pub. L. 109–59, §7114(e), substituted “The Secretary shall submit annually to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate and make available to the public information on the allocation and uses of the planning grants allocated under subsection (a), training grants under subsection (b), and grants under subsection (j) of this section and under section 5107” for “Not later than September 30, 1997, the Secretary shall submit to Congress a report on the allocation and uses of training grants authorized under subsection (b) for fiscal year 1993 through fiscal year 1996 and grants authorized under subsection (j) and section 5107 for fiscal years 1995 and 1996” and “The report” for “Such report”.
+Subsec. (k). Pub. L. 109–59, §7114(e), substituted “The Secretary shall submit annually to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science,and Transportation of the Senate and make available to the public information on the allocation and uses of the planning grants allocated under subsection (a), training grants under subsection (b), and grants under subsection (j) of this section and under section 5107” for “Not later than September 30, 1997, the Secretary shall submit to Congress a report on the allocation and uses of training grants authorized under subsection (b) for fiscal year 1993 through fiscal year 1996 and grants authorized under subsection (j) and section 5107 for fiscal years 1995 and 1996” and “The report” for “Such report”.
 
-1996—Subsec. (a)(2). Pub. L. 104–287, §6(b), made technical correction to directory language of Pub. L. 103–311, §105(b)(2). See 1994 Amendment note below.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–287, §6(b), made technical correction to directory language of Pub. L. 103–311, §105(b)(2). See 1994 Amendment note below.
 
 Subsec. (j)(4)(A). Pub. L. 104–287, §5(8), substituted “section 5115 of this title” for “subsection (g)”.
 
-1994—Subsec. (a)(1). Pub. L. 103–311, §105(a), in introductory provisions inserted “and Indian tribes” after “States”, and in subpar. (A) substituted “on lands under the jurisdiction of a State or Indian tribe, and between lands under the jurisdiction of a State or Indian tribe and lands of another State or Indian tribe” for “in a State and between States”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–311, §105(a), in introductory provisions inserted “and Indian tribes” after “States”, and in subpar. (A) substituted “on lands under the jurisdiction of a State or Indian tribe, and between lands under the jurisdiction of a State or Indian tribe and lands of another State or Indian tribe” for “in a State and between States”.
 
 Subsec. (a)(2). Pub. L. 103–311, §105(b)(2), as amended by Pub. L. 104–287, §6(b), struck out “the State” after “only if” in introductory provisions.
 

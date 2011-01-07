@@ -16,13 +16,13 @@ A provision for assessment of duty on merchandise of different values when invoi
 
 #### Amendments
 
-1980—Pub. L. 96–417 redesignated the United States Customs Court as the United States Court of International Trade.
+<b>1980</b>—Pub. L. 96–417 redesignated the United States Customs Court as the United States Court of International Trade.
 
-1970—Pub. L. 91–271 substituted provisions that, except as provided in section 1520(c) or 1562 of this title, the basis for the assessment of duties on imported merchandise be the appraised value determined upon liquidation, in accordance with section 1500 of this title or any adjustment thereof pursuant to section 1501 of this title, and be the final appraised value where reliquidation is required pursuant to a final judgment or order of the United States Customs Court, for provisions that, except as provided in section 1562 of this title, the basis for the assessment of duties on imported merchandise subject to ad valorem rates of duty be the final appraised value, and provisions that for the purpose of determining the rate of duty assessed upon any merchandise when the rate is based upon or regulated in any manner by the value of the merchandise, the final appraised value, except as provided in section 1562 of this title, be taken as the value of merchandise.
+<b>1970</b>—Pub. L. 91–271 substituted provisions that, except as provided in section 1520(c) or 1562 of this title, the basis for the assessment of duties on imported merchandise be the appraised value determined upon liquidation, in accordance with section 1500 of this title or any adjustment thereof pursuant to section 1501 of this title, and be the final appraised value where reliquidation is required pursuant to a final judgment or order of the United States Customs Court, for provisions that, except as provided in section 1562 of this title, the basis for the assessment of duties on imported merchandise subject to ad valorem rates of duty be the final appraised value, and provisions that for the purpose of determining the rate of duty assessed upon any merchandise when the rate is based upon or regulated in any manner by the value of the merchandise, the final appraised value, except as provided in section 1562 of this title, be taken as the value of merchandise.
 
-1953—Subsec. (a). Act Aug. 8, 1953, struck out “and in subdivision (b) of this section” after reference to section 1562 of this title, “the entered value or” after “shall be”, and “whichever is higher” at the end.
+<b>1953</b>—Subsec. (a). Act Aug. 8, 1953, struck out “and in subdivision (b) of this section” after reference to section 1562 of this title, “the entered value or” after “shall be”, and “whichever is higher” at the end.
 
-Subsecs. (b), (c). Act Aug. 8, 1953, redesignated subsec. (c) as (b). Former subsec. (b), which related to entriespending reappraisement, was repealed by act Aug. 8, 1953.
+Subsecs. (b), (c). Act Aug. 8, 1953, redesignated subsec. (c) as (b). Former subsec. (b), which related to entries pending reappraisement, was repealed by act Aug. 8, 1953.
 
 #### Effective Date of 1980 Amendment
 

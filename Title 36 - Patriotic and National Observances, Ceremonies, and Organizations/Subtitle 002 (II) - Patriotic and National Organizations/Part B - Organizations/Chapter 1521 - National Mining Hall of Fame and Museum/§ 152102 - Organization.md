@@ -20,7 +20,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-152102(a)D36:4101.DNov. 14, 1988, Pub. L. 100–655, §§101, 116, 102 Stat. 3849, 3852.
+152102(a)
+
+36:4101.
+
+Nov. 14, 1988, Pub. L. 100–655, §§101, 116, 102 Stat. 3849, 3852.
 
 152102(b)
 

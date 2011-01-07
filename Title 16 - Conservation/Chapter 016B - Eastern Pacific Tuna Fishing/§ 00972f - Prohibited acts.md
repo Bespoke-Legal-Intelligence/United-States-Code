@@ -36,9 +36,5 @@ All provisions of law relating to the seizure, judicial forfeiture, and condemna
 
 (Pub. L. 98–445, §8, Oct. 4, 1984, 98 Stat. 1717.)
 
-#### References in Text
-
-The customs laws, referred to in subsec. (d), are classified generally to Title 19, Customs Duties.
-
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

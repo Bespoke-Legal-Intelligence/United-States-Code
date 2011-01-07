@@ -26,9 +26,9 @@ For definition of Canal Zone, referred to in text, see section 3602(b) of Title 
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250”.
 
-1949—Act May 24, 1949, inserted “armed forces” in lieu of enumerating specific branches in section catchline and text, and inserted “in any place within the jurisdiction of the United States or in the Canal Zone”.
+<b>1949</b>—Act May 24, 1949, inserted “armed forces” in lieu of enumerating specific branches in section catchline and text, and inserted “in any place within the jurisdiction of the United States or in the Canal Zone”.
 
 #### Transfer of Functions
 

@@ -18,7 +18,7 @@
 
 &emsp;(6) collect receipts;
 
-&emsp;(7) with a view to prosecuting persons, take steps to discover fraud and attempted fraud involving receipts and decide on ways to prevent and detect fraud; and
+&emsp;(7) with a view to prosecuting persons, take steps to discover fraud and attempted fraud involving receipts and decide on ways to prevent and detect fraud;
 
 &emsp;(8) maintain separate accounts of taxes received in each State, territory, and possession of the United States, and collection district, with each account listing—
 
@@ -26,7 +26,9 @@
 
 &emsp;&emsp;(B) the amount of each tax; and
 
-&emsp;&emsp;(C) the money paid as pay and allowances to officers and employees of the Department collecting taxes in that State, territory, possession, or district.
+&emsp;&emsp;(C) the money paid as pay and allowances to officers and employees of the Department collecting taxes in that State, territory, possession, or district; and
+
+&emsp;(9) advise the President on major domestic and international prudential policy issues in connection with all lines of insurance except health insurance.
 
 (b) The Secretary may—
 
@@ -56,13 +58,13 @@
 
 &emsp;(2) of the Comptroller of the Currency; and
 
-&emsp;(3) of the Director of the Office of Thrift Supervision;
+&emsp;(3) of the Director of the Office of Thrift Supervision; <sup>1</sup>
 
 (d)(1) The Secretary of the Treasury may accept, hold, administer, and use gifts and bequests of property, both real and personal, for the purpose of aiding or facilitating the work of the Department of the Treasury. Gifts and bequests of money and the proceeds from sales of other property received as gifts or bequests shall be deposited in the Treasury in a separate fund and shall be disbursed on order of the Secretary of the Treasury. Property accepted under this paragraph, and the proceeds thereof, shall be used as nearly as possible in accordance with the terms of the gift or bequest.
 
 (2) For purposes of the Federal income, estate, and gift taxes, property accepted under paragraph (1) shall be considered as a gift or bequest to or for the use of the United States.
 
-(3) The Secretary of the Treasury may invest and reinvest the fund in public debt securities with maturities suitable for the needs of the fund and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities. Income accruing from the securities, and from any other property accepted under paragraph (1), shall be deposited to the credit of the fund, and shall be disbursed on order of the Secretary of the Treasury for purposes as nearly as possible in accordance with the terms of the gifts or bequests.
+(3) The Secretary of the Treasury may invest and reinvest the fund in public debt securities with maturities suitable for the needs of the fund and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities. Income accruing from the securities, and from any otherproperty accepted under paragraph (1), shall be deposited to the credit of the fund, and shall be disbursed on order of the Secretary of the Treasury for purposes as nearly as possible in accordance with the terms of the gifts or bequests.
 
 (4) The Secretary of the Treasury shall, not less frequently than annually, make a public disclosure of the amount (and sources) of the gifts and bequests received under this subsection, and the purposes for which amounts in the separate fund established under this subsection are expended.
 
@@ -70,7 +72,23 @@
 
 Certain Reorganization Prohibited.—The Secretary of the Treasury may not merge or consolidate the Office of Thrift Supervision, or any of the functions or responsibilities of the Office or the Director of such office, with the Office of the Comptroller of the Currency or the Comptroller of the Currency.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 880; Pub. L. 98–369, div. A, title IV, §445, July 18, 1984, 98 Stat. 816; Pub. L. 101–73, title III, §307(b), (d), Aug. 9, 1989, 103 Stat. 353; Pub. L. 104–66, title I, §1132(b), Dec. 21, 1995, 109 Stat. 725.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 880; Pub. L. 98–369, div. A, title IV, §445, July 18, 1984, 98 Stat. 816; Pub. L. 101–73, title III, §307(b), (d), Aug. 9, 1989, 103 Stat. 353; Pub. L. 104–66, title I, §1132(b), Dec. 21, 1995, 109 Stat. 725; Pub. L. 111–203, title III, §378(1), title V, §502(b), July 21, 2010, 124 Stat. 1570, 1588.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title III, §§351, 378(1), July 21, 2010, 124 Stat. 1546, 1570, provided that, effective on the transfer date, this section is amended as follows:</i>
+
+<i>(1) in subsection (c)—</i>
+
+<i>(A) in paragraph (1), by adding “and” at the end;</i>
+
+<i>(B) in paragraph (2), by striking “; and” and inserting a period; and</i>
+
+<i>(C) by striking paragraph (3); and</i>
+
+<i>(2) by striking subsection (e).</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -216,13 +234,21 @@ In subsection (b)(6), the word “buy” is substituted for “make expenditures
 
 #### Amendments
 
-1995—Subsec. (b)(7). Pub. L. 104–66 added par. (7).
+<b>2010</b>—Subsec. (a)(9). Pub. L. 111–203, §502(b), added par. (9).
 
-1989—Subsec. (c)(3). Pub. L. 101–73, §307(b), added par. (3).
+<b>1995</b>—Subsec. (b)(7). Pub. L. 104–66 added par. (7).
+
+<b>1989</b>—Subsec. (c)(3). Pub. L. 101–73, §307(b), added par. (3).
 
 Subsec. (e). Pub. L. 101–73, §307(d), added subsec. (e).
 
-1984—Subsec. (d). Pub. L. 98–369 added subsec. (d).
+<b>1984</b>—Subsec. (d). Pub. L. 98–369 added subsec. (d).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 378(1) of Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
+
+Amendment by section 502(b) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Emergency Preparedness Functions
 
@@ -231,4 +257,6 @@ For assignment of certain emergency preparedness functions to Secretary of the T
 #### Use of Aircraft in Emergency Law Enforcement Support
 
 Pub. L. 104–52, title I, §107, Nov. 19, 1995, 109 Stat. 476, provided that: “The Secretary of the Treasury is authorized in fiscal year 1996 and hereafter, to use Treasury Department aircraft, with or without reimbursement, to assist bureaus within the Department of the Treasury or other Federal agencies, Departments or offices outside of the Department of the Treasury to provide emergency law enforcement support to protect human life, property, public health, or safety.”
+
+<i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

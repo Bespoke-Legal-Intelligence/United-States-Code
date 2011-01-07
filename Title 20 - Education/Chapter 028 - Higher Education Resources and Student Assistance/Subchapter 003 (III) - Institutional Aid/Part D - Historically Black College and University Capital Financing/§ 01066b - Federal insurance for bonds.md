@@ -90,7 +90,7 @@ A prior section 343 of Pub. L. 89–329 was classified to section 1068 of this t
 
 #### Amendments
 
-2008—Subsec. (b)(8)(B)(ii). Pub. L. 110–315, §314(b)(1)(B), inserted “within 120 days” after “loan proceeds”.
+<b>2008</b>—Subsec. (b)(8)(B)(ii). Pub. L. 110–315, §314(b)(1)(B), inserted “within 120 days” after “loan proceeds”.
 
 Pub. L. 110–315, §314(b)(1)(A), which directed the substitution of “5” for “10”, could not be executed because “10” did not appear subsequent to amendment by Pub. L. 105–244, §306(b)(1). See 1998 Amendment note below.
 
@@ -98,7 +98,7 @@ Subsec. (b)(12). Pub. L. 110–315, §314(b)(2)–(4), added par. (12).
 
 Subsec. (e). Pub. L. 110–315, §320(2), inserted heading.
 
-1998—Subsec. (a). Pub. L. 105–244, §301(c)(5)(A), substituted “section 1066c” for “section 1132c–3”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–244, §301(c)(5)(A), substituted “section 1066c” for “section 1132c–3”.
 
 Subsec. (b). Pub. L. 105–244, §301(c)(5)(B)(i), substituted “sections 1066d(1) and 1066e” for “sections 1132c–4(1) and 1132c–5” in introductory provisions.
 
@@ -110,7 +110,7 @@ Subsec. (d). Pub. L. 105–244, §301(c)(5)(B)(iii), made technical amendment to
 
 Subsec. (e). Pub. L. 105–244, §306(b)(2), added subsec. (e).
 
-1994—Subsec. (b)(8)(A). Pub. L. 103–382, §360C(1)(A), inserted before semicolon “, with each eligible institution required to maintain in the escrow account an amount equal to 10 percent of the outstanding principal of all loans made to such institution under this part”.
+<b>1994</b>—Subsec. (b)(8)(A). Pub. L. 103–382, §360C(1)(A), inserted before semicolon “, with each eligible institution required to maintain in the escrow account an amount equal to 10 percent of the outstanding principal of all loans made to such institution under this part”.
 
 Subsec. (b)(8)(B)(ii). Pub. L. 103–382, §360C(1)(B), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “when all bonds under this part are retired or canceled, shall be divided among the eligible institutions making deposits into such account on the basis of the amount of each such institution's deposit;”.
 

@@ -18,7 +18,7 @@ This Act, referred to in provision preceding par. (1), is Pub. L. 96–487, Dec.
 
 #### Amendments
 
-1997—Pars. (3) to (5). Pub. L. 105–83, §316(b)(4), which directed the addition of pars. (3) to (5) was repealed by Pub. L. 105–83, §316(d). Pars. (3) to (5) read as follows:
+<b>1997</b>—Pars. (3) to (5). Pub. L. 105–83, §316(b)(4), which directed the addition of pars. (3) to (5) was repealed by Pub. L. 105–83, §316(d). Pars. (3) to (5) read as follows:
 
 “(3) ‘customary and traditional uses’ means the noncommercial, long-term, and consistent taking of, use of, or reliance upon fish and wildlife in a specific area and the patterns and practices of taking or use of that fish and wildlife that have been established over a reasonable period of time, taking into consideration the availability of the fish and wildlife;
 

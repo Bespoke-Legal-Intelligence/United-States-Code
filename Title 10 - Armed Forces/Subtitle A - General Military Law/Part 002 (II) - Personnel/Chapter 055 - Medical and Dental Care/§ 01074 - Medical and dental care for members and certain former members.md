@@ -96,17 +96,17 @@ A prior section 1074, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, related to enac
 
 #### Amendments
 
-2009—Subsec. (d)(1)(B). Pub. L. 111–84 substituted “180 days” for “90 days”.
+<b>2009</b>—Subsec. (d)(1)(B). Pub. L. 111–84 substituted “180 days” for “90 days”.
 
-2008—Subsec. (b). Pub. L. 110–181, §647(b), designated existing provisions as par. (1) and added par. (2).
+<b>2008</b>—Subsec. (b). Pub. L. 110–181, §647(b), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (c)(4). Pub. L. 110–181, §1633(a), added par. (4).
 
-2006—Subsec. (a)(2)(B)(iii). Pub. L. 109–163 inserted “or the orders have been issued but the member has not entered active duty” before semicolon at end.
+<b>2006</b>—Subsec. (a)(2)(B)(iii). Pub. L. 109–163 inserted “or the orders have been issued but the member has not entered active duty” before semicolon at end.
 
-2004—Subsec. (d)(3). Pub. L. 108–375 struck out par. (3) which read as follows: “This subsection shall cease to be effective on December 31, 2004.”
+<b>2004</b>—Subsec. (d)(3). Pub. L. 108–375 struck out par. (3) which read as follows: “This subsection shall cease to be effective on December 31, 2004.”
 
-2003—Subsec. (a). Pub. L. 108–136, §708, inserted “(1)” after “(a)”, substituted “described in paragraph (2)” for “who is on active duty”, and added par. (2).
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §708, inserted “(1)” after “(a)”, substituted “described in paragraph (2)” for “who is on active duty”, and added par. (2).
 
 Subsec. (d). Pub. L. 108–136, §703, amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
@@ -122,9 +122,9 @@ Subsec. (d). Pub. L. 108–136, §703, amended subsec. (d) generally. Prior to a
 
 Pub. L. 108–106 added subsec. (d).
 
-2002—Subsec. (c)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (c)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-2000—Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)(A)\], substituted “uniformed services” for “armed forces” in pars. (1), (2)(A), and (3)(B).
+<b>2000</b>—Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)(A)\], substituted “uniformed services” for “armed forces” in pars. (1), (2)(A), and (3)(B).
 
 Subsec. (c)(1). Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)(B)\], inserted “, the Department of Transportation (with respect to the Coast Guard when it is not operating as a service in the Navy), or the Department of Health and Human Services (with respect to the National Oceanic and Atmospheric Administration and the Public Health Service)” after “military department”.
 
@@ -132,9 +132,9 @@ Subsec. (c)(2)(C). Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)(C
 
 Subsec. (c)(3)(A). Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)(D)\], substituted “A member of the uniformed services described in subparagraph (B) may not be required” for “The Secretary of Defense may not require a member of the armed forces described in subparagraph (B)”.
 
-1997—Subsec. (c). Pub. L. 105–85 designated existing provisions as par. (1) and added pars. (2) and (3).
+<b>1997</b>—Subsec. (c). Pub. L. 105–85 designated existing provisions as par. (1) and added pars. (2) and (3).
 
-1996—Subsec. (d). Pub. L. 104–201 struck out subsec. (d) which read as follows:
+<b>1996</b>—Subsec. (d). Pub. L. 104–201 struck out subsec. (d) which read as follows:
 
 “(d)(1) The Secretary of Defense may require, by regulation, a private CHAMPUS provider to apply the CHAMPUS payment rules (subject to any modifications considered appropriate by the Secretary) in imposing charges for health care that the private CHAMPUS provider provides to a member of the uniformed services who is enrolled in a health care plan of a facility deemed to be a facility of the uniformed services under section 911(a) of the Military Construction Authorization Act, 1982 (42 U.S.C. 248c(a)) when the health care is provided outside the catchment area of the facility.
 
@@ -148,21 +148,21 @@ Subsec. (c)(3)(A). Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)(D
 
 Pub. L. 104–106 added subsec. (d).
 
-1990—Subsec. (b). Pub. L. 101–510 substituted “Secretary of Veterans Affairs” for “Administrator” after “operated by the”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–510 substituted “Secretary of Veterans Affairs” for “Administrator” after “operated by the”.
 
-1989—Subsec. (b). Pub. L. 101–189, §1621(a)(2), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+<b>1989</b>—Subsec. (b). Pub. L. 101–189, §1621(a)(2), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
 Subsec. (c). Pub. L. 101–189, §729, inserted at end “If a private facility or health care provider providing care under this subsection is a health care provider under the Civilian Health and Medical Program of the Uniformed Services, the Secretary of Defense, after consultation with the other administering Secretaries, may by regulation require the private facility or health care provider to provide such care in accordance with the same payment rules (subject to any modifications considered appropriate by the Secretary) as apply under that program.”
 
-1984—Subsecs. (a), (b). Pub. L. 98–557 substituted reference to administering Secretaries for reference to Secretary of Defense and Secretary of Health and Human Services wherever appearing.
+<b>1984</b>—Subsecs. (a), (b). Pub. L. 98–557 substituted reference to administering Secretaries for reference to Secretary of Defense and Secretary of Health and Human Services wherever appearing.
 
 Subsec. (c). Pub. L. 98–525 added subsec. (c).
 
-1980—Subsec. (a). Pub. L. 96–513, §511(36), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513, §511(36), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
 Subsec. (b). Pub. L. 96–513, §511(36), (37), substituted “Secretary of Health and Human Services” and “President” for “Secretary of Health, Education, and Welfare” and “Bureau of the Budget”, respectively.
 
-1966—Subsec. (b). Pub. L. 89–614 struck out provision which excepted from medical and dental care a member or former member who is entitled to retired pay under chapter 67 of this title and has served less than eight years on active duty (other than for training) and authorized care to be provided to persons covered by subsec. (b) in facilities operated by the Administrator of Veterans’ Affairs and available on a reimbursable basis at rates approved by the Bureau of the Budget.
+<b>1966</b>—Subsec. (b). Pub. L. 89–614 struck out provision which excepted from medical and dental care a member or former member who is entitled to retired pay under chapter 67 of this title and has served less than eight years on active duty (other than for training) and authorized care to be provided to persons covered by subsec. (b) in facilities operated by the Administrator of Veterans’ Affairs and available on a reimbursable basis at rates approved by the Bureau of the Budget.
 
 #### Effective Date of 2008 Amendment
 
@@ -210,7 +210,7 @@ Pub. L. 110–417, \[div. A\], title VII, §713, Oct. 14, 2008, 122 Stat. 4503, 
 
 “(a) TRICARE
 
-Smoking Cessation Program.—Not later than 180 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall establish a smoking cessation program under the TRICARE program, to be made available to all beneficiaries under the TRICARE program, subject to subsection (b). The Secretary may prescribe such regulations as may be necessary to implement the program.
+Smoking Cessation Program.—Not later than 180 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shallestablish a smoking cessation program under the TRICARE program, to be made available to all beneficiaries under the TRICARE program, subject to subsection (b). The Secretary may prescribe such regulations as may be necessary to implement the program.
 
 “(b)
 
@@ -342,7 +342,7 @@ Matters Covered.—The report required by subsection (a) shall describe in detai
 
 “(c)
 
-Referral to Providers Outside Military Health Care System.—The Secretary shall require that health care services and rehabilitation needs of members described in subsection (a) be met through whatever means or mechanisms possible, including through the referral of members described in that subsection to health care providers outside the military health care system.
+Referral to Providers Outside Military Health Care System.—The Secretary shall requirethat health care services and rehabilitation needs of members described in subsection (a) be met through whatever means or mechanisms possible, including through the referral of members described in that subsection to health care providers outside the military health care system.
 
 “(d)
 
@@ -444,7 +444,7 @@ Members.—The Traumatic Brain Injury Family Caregiver Panel shall consist of 15
 
 &emsp;&emsp;“(B) Representatives of family caregivers or family caregiver associations.
 
-&emsp;&emsp;“(C) Health and medical personnel of the Department of Defense and the Department of Veterans Affairs with expertise in traumatic brain injury and personnel and readiness representatives of the Department of Defense with expertise in traumatic brain injury.
+&emsp;&emsp;“(C) Health and medical personnel of the Department of Defense and the Department of Veterans Affairs with expertise in traumatic brain injury andpersonnel and readiness representatives of the Department of Defense with expertise in traumatic brain injury.
 
 &emsp;&emsp;“(D) Psychologists or other individuals with expertise in the mental health treatment and care of individuals with traumatic brain injury.
 
@@ -688,7 +688,7 @@ Pub. L. 108–375, div. A, title VII, §732(b), Oct. 28, 2004, 118 Stat. 1997, p
 
 “(1)
 
-Policy.—The Secretary of Defense shall take measures, in addition to those required by section 1074f of title 10, United States Code, to ensure that individual members and commanders of reserve component units fulfill their responsibilities and meet the requirements for medical and dental readiness of members of the units. Such measures may include—
+Policy.—The Secretary of Defense shall take measures, in addition to those required by section 1074f of title 10, United States Code, to ensure that individual members and commanders of reserve componentunits fulfill their responsibilities and meet the requirements for medical and dental readiness of members of the units. Such measures may include—
 
 &emsp;“(A) requiring more frequent health assessments of members than is required by section 1074f(b) of title 10, United States Code, with an objective of having every member of the Selected Reserve receive a health assessment as specified in section 1074f of such title not less frequently than once every two years; and
 
@@ -702,7 +702,7 @@ Review and followup care.—The measures under this subsection shall provide for
 
 Modification of predeployment health assessment survey.—In carrying out paragraph (1), the Secretary shall—
 
-&emsp;“(A) to the extent practicable, modify the predeployment health assessment survey to bring suchsurvey into conformity with the detailed postdeployment health assessment survey in use as of October 1, 2004; and
+&emsp;“(A) to the extent practicable, modify the predeployment health assessment survey to bring such survey into conformity with the detailed postdeployment health assessment survey in use as of October 1, 2004; and
 
 &emsp;“(B) ensure the use of the predeployment health assessment survey, as so modified, for predeployment health assessments after that date.”
 
@@ -800,7 +800,7 @@ Health Care at Mobilization Installations.—The Secretary of Defense shall take
 
 “(b)
 
-Mobilization Installations.—For purposes of this section, the term ‘mobilization installation’ means a military installation at which members of the Armed Forces, in connection with a contingency operation or during a national emergency—
+Mobilization Installations.—For purposes of this section, the term ‘mobilization installation’ meansa military installation at which members of the Armed Forces, in connection with a contingency operation or during a national emergency—
 
 &emsp;“(1) are mobilized;
 
@@ -912,7 +912,7 @@ Plan for Disclosure of Information.—Not later than 90 days after the date of t
 
 “(b)
 
-Plan Requirements.—(1) The records and information covered by the plan under subsection (a) shall be the records and information necessary to permit the identification of members of the Armed Forces who were or may have been exposed to chemical or biological agents as a result of Project 112.
+Plan Requirements.—(1) The records and information covered by the plan under subsection (a) shallbe the records and information necessary to permit the identification of members of the Armed Forces who were or may have been exposed to chemical or biological agents as a result of Project 112.
 
 “(2) The plan shall provide for completion of all activities contemplated by the plan not later than one year after the date of the enactment of this Act \[Dec. 2, 2002\].
 
@@ -1130,7 +1130,7 @@ Establishment of Program.—The Secretary of Defense and the Secretary of Vetera
 
 Funding.—Of the funds authorized to be appropriated in section 201(1) \[111 Stat. 1655\] for research, development, test, and evaluation for the Army, the sum of $4,500,000 shall be available for program element 62787A (medical technology) in the budget of the Department of Defense for fiscal year 1998 to carry out the clinical trials program established pursuant to subsection (b).”
 
-Pub. L. 103–337, div. A, title VII, §§721, 722, Oct. 5, 1994, 108 Stat. 2804, 2807, as amended by Pub. L. 104–106, div.A, title XV, §1504(a)(4), (5), Feb. 10, 1996, 110 Stat. 513; Pub. L. 108–136, div. A, title X, §1031(e), Nov. 24, 2003, 117 Stat. 1604, provided that:
+Pub. L. 103–337, div. A, title VII, §§721, 722, Oct. 5, 1994, 108 Stat. 2804, 2807, as amended by Pub. L. 104–106, div. A, title XV, §1504(a)(4), (5), Feb. 10, 1996, 110 Stat. 513; Pub. L. 108–136, div. A, title X, §1031(e), Nov. 24, 2003, 117 Stat. 1604, provided that:
 
 #### “SEC. 721. PROGRAMS RELATED TO DESERT STORM MYSTERY ILLNESS.
 
@@ -1274,7 +1274,7 @@ Reports.—(1) Not later than March 31, 1995, the Secretary of Defense shall sub
 
 Definition.—In this section, the term ‘Persian Gulf War’ has the meaning given such term in section 101 of title 38, United States Code.”
 
-\[For provisions establishing the Persian Gulf War Veterans Health Registry, provisions requiring a study by the Office of Technology Assessment of the Persian Gulf Registry and the Persian Gulf War Veterans Health Registry, provisions relating to an agreement with the National Academy of Sciences for review of health consequences of service during the Persian Gulf War, and coordination of government activities on health-related research on the Persian Gulf War, see title VII of Pub. L. 102–585, set out as a note under section 527 of Title 38, Veterans’ Benefits.\]
+\[For provisions establishing the Persian Gulf War Veterans Health Registry, provisions requiring a studyby the Office of Technology Assessment of the Persian Gulf Registry and the Persian Gulf War Veterans Health Registry, provisions relating to an agreement with the National Academy of Sciences for review of health consequences of service during the Persian Gulf War, and coordination of government activities on health-related research on the Persian Gulf War, see title VII of Pub. L. 102–585, set out as a note under section 527 of Title 38, Veterans’ Benefits.\]
 
 #### Funding of Fisher Houses Associated With Army Medical Treatment Facilities
 
@@ -1282,7 +1282,7 @@ Pub. L. 103–335, title VIII, §8017, Sept. 30, 1994, 108 Stat. 2620, which pro
 
 #### Mental Health Evaluations of Members of Armed Forces
 
-Pub. L. 102–484, div. A, title V, §546(a)–(h), Oct. 23, 1992, 106 Stat. 2416–2419, directed Secretary of Defense,not later than 180 days after Oct. 23, 1992, to revise applicable regulations to incorporate certain requirements with respect to mental health evaluations of members of Armed Forces, including requirements relating to procedures for outpatient and inpatient evaluations, rights of members, additional rights of members and procedures for emergency or involuntary inpatient evaluations, and prohibition against use of referrals for mental health evaluations to retaliate against whistleblowers, and directed Secretary to submit to Committees on Armed Services of Senate and House of Representatives a report describing process of preparing regulations.
+Pub. L. 102–484, div. A, title V, §546(a)–(h), Oct. 23, 1992, 106 Stat. 2416–2419, directed Secretary of Defense, not later than 180 days after Oct. 23, 1992, to revise applicable regulations to incorporate certain requirements with respect to mental health evaluations of members of Armed Forces, including requirements relating to procedures for outpatient and inpatient evaluations, rights of members, additional rights of members and procedures for emergency or involuntary inpatient evaluations, and prohibition against use of referrals for mental health evaluations to retaliate against whistleblowers, and directed Secretary to submit to Committees on Armed Services of Senate and House of Representatives a report describing process of preparing regulations.
 
 #### Study on Risk-Sharing Contracts for Health Care
 
@@ -1352,7 +1352,7 @@ Pub. L. 99–661, div. A, title VII, §705(c), Nov. 14, 1986, 100 Stat. 3904, pr
 
 “(2) For purposes of paragraph (1):
 
-&emsp;“(A) The term ‘epidemiologic-assessment interview’ means questioning of a serum-positive member of the Armed Forces for purposes of medical treatment or counseling or for epidemiologic or statistical purposes.
+&emsp;“(A) The term ‘epidemiologic-assessment interview’ means questioning of a serum-positive member of theArmed Forces for purposes of medical treatment or counseling or for epidemiologic or statistical purposes.
 
 &emsp;“(B) The term ‘serum-positive member of the Armed Forces’ means a member of the Armed Forces who has been identified as having been exposed to a virus associated with the acquired immune deficiency syndrome.
 
@@ -1378,7 +1378,7 @@ Pub. L. 99–661, div. A, title VII, §705(c), Nov. 14, 1986, 100 Stat. 3904, pr
 
 Report to President and Congress
 
-Pub. L. 92–129, title I, §101(c), Sept. 28, 1971, 85 Stat. 354, authorized Secretary of Defense and Secretary ofHealth, Education, and Welfare to conduct a joint study of means of meeting medical needs of Armed Forces through means requiring less dependence on Armed Forces medical personnel, giving consideration to providing medical care for military personnel and their dependents under contracts with clinics, hospitals, and individual members of the medical profession at or near military installations within and outside the United States. The study and recommendations were to be submitted to President and Congress no later than 6 months after Sept. 28, 1971.
+Pub. L. 92–129, title I, §101(c), Sept. 28, 1971, 85 Stat. 354, authorized Secretary of Defense and Secretary of Health, Education, and Welfare to conduct a joint study of means of meeting medical needs of Armed Forces through means requiring less dependence on Armed Forces medical personnel, giving consideration to providing medical care for military personnel and their dependents under contracts with clinics, hospitals, and individual members of the medical profession at or near military installations within and outside the United States. The study and recommendations were to be submitted to President and Congress no later than 6 months after Sept. 28, 1971.
 
 #### Executive Order No. 13075
 

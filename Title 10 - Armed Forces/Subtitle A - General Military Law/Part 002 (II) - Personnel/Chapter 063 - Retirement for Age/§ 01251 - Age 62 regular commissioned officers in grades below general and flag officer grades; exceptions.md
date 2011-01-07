@@ -6,15 +6,27 @@ General Rule.—Unless retired or separated earlier, each regular commissioned o
 
 (b)
 
-Deferred Retirement of Health Professions Officers.—(1) The Secretary of the military department concerned may, subject to subsection (d), defer the retirement under subsection (a) of a health professions officer if during the period of the deferment the officer will be performing duties consisting primarily of providing patient care or performing other clinical duties.
+Deferred Retirement of Health Professions Officers.—(1) The Secretary of the military department concerned may, subject to subsection (d), defer the retirement under subsection (a) of a health professions officer if during the period of the deferment the officer—
+
+&emsp;(A) will be performing duties consisting primarily of providing patient care or performing other clinical duties; or
+
+&emsp;(B) is in a category of officers designated under subparagraph (D) of paragraph (2) whose duties will consist primarily of the duties described in clause (i), (ii), or (iii) of such subparagraph.
 
 (2) For purposes of this subsection, a health professions officer is—
 
 &emsp;(A) a medical officer;
 
-&emsp;(B) a dental officer; or
+&emsp;(B) a dental officer;
 
-&emsp;(C) an officer in the Army Nurse Corps, an officer in the Navy Nurse Corps, or an officer in the Air Force designated as a nurse.
+&emsp;(C) an officer in the Army Nurse Corps, an officer in the Navy Nurse Corps, or an officer in the Air Force designated as a nurse; or
+
+&emsp;(D) an officer in a category of officers designated by the Secretary of the military department concerned for the purposes of this paragraph as consisting of officers whose duties consist primarily of—
+
+&emsp;&emsp;(i) providing health care;
+
+&emsp;&emsp;(ii) performing other clinical care; or
+
+&emsp;&emsp;(iii) performing health care-related administrative duties.
 
 (c)
 
@@ -26,21 +38,25 @@ Limitation on Deferment of Retirements.—(1) Except as provided in paragraph (2
 
 (2) The Secretary of the military department concerned may extend a deferment under subsection (b) or (c) beyond the day referred to in paragraph (1) if the Secretary determines that extension of the deferment is necessary for the needs of the military department concerned. Such an extension shall be made on a case-by-case basis and shall be for such period as the Secretary considers appropriate.
 
-(Added Pub. L. 96–513, title I, §111, Dec. 12, 1980, 94 Stat. 2875; amended Pub. L. 100–180, div. A, title VII, §719, Dec. 4, 1987, 101 Stat. 1115; Pub. L. 101–189, div. A, title VII, §709, Nov. 29, 1989, 103 Stat. 1476; Pub. L. 105–85, div. A, title V, §504(a), (b), Nov. 18, 1997, 111 Stat. 1725; Pub. L. 109–163, div. A, title V, §509(c)(3), Jan. 6, 2006, 119 Stat. 3231; Pub. L. 109–364, div. A, title V, §502(b), Oct. 17, 2006, 120 Stat. 2176.)
+(Added Pub. L. 96–513, title I, §111, Dec. 12, 1980, 94 Stat. 2875; amended Pub. L. 100–180, div. A, title VII, §719, Dec. 4, 1987, 101 Stat. 1115; Pub. L. 101–189, div. A, title VII, §709, Nov. 29, 1989, 103 Stat. 1476; Pub. L. 105–85, div. A, title V, §504(a), (b), Nov. 18, 1997, 111 Stat. 1725; Pub. L. 109–163, div. A, title V, §509(c)(3), Jan. 6, 2006, 119 Stat. 3231; Pub. L. 109–364, div. A, title V, §502(b), Oct. 17, 2006, 120 Stat. 2176; Pub. L. 111–383, div. A, title V, §501(b), Jan. 7, 2011, 124 Stat. 4206.)
 
 #### Amendments
 
-2006—Pub. L. 109–364 amended section catchline and text generally, substituting provisions relating to retirement at age 62 of regular commissioned officers in grades below general and flag officer grades for provisions relating to retirement at age 62 of all regular commissioned officers.
+<b>2011</b>—Subsec. (b)(1). Pub. L. 111–383, §501(b)(2), substituted “the officer—” for “the officer will be performing duties consisting primarily of providing patient care or performing other clinical duties.” and added subpars. (A) and (B).
+
+Subsec. (b)(2)(D). Pub. L. 111–383, §501(b)(1), added subpar. (D).
+
+<b>2006</b>—Pub. L. 109–364 amended section catchline and text generally, substituting provisions relating to retirement at age 62 of regular commissioned officers in grades below general and flag officer grades for provisions relating to retirement at age 62 of all regular commissioned officers.
 
 Subsec. (a). Pub. L. 109–163 inserted “, a permanent professor at the United States Naval Academy,” after “Air Force Academy” in first sentence and struck out last sentence which read as follows: “An officer who is a permanent professor at the United States Military Academy or United States Air Force Academy, the director of admissions at the United States Military Academy, or the registrar of the United States Air Force Academy shall be retired on the first day of the month following the month in which he becomes 64 years of age.”
 
-1997—Subsec. (c)(2) to (4). Pub. L. 105–85, §504(a), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+<b>1997</b>—Subsec. (c)(2) to (4). Pub. L. 105–85, §504(a), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
 Subsec. (d). Pub. L. 105–85, §504(b), added subsec. (d).
 
-1989—Subsec. (c)(2). Pub. L. 101–189 designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), a deferment” for “A deferment” and “68 years of age” for “67 years of age”, and added subpar. (B).
+<b>1989</b>—Subsec. (c)(2). Pub. L. 101–189 designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), a deferment” for “A deferment” and “68 years of age” for “67 years of age”, and added subpar. (B).
 
-1987—Subsec. (c). Pub. L. 100–180 added subsec. (c).
+<b>1987</b>—Subsec. (c). Pub. L. 100–180 added subsec. (c).
 
 #### Effective Date
 
@@ -48,7 +64,7 @@ Section effective Sept. 15, 1981, but the authority to prescribe regulations und
 
 #### Deferral of Retirement Date for Chairman of the Joint Chiefs of Staff
 
-Pub. L. 100–456, div. A, title VII, §704, Sept. 29, 1988, 102 Stat. 1996, provided that the President could defer until Oct. 1, 1989, the retirement of the officer serving as Chairman of the Joint Chiefs of Staff for the termwhich began on October 1, 1987, notwithstanding the limitation contained in former section 1251(b) of this title.
+Pub. L. 100–456, div. A, title VII, §704, Sept. 29, 1988, 102 Stat. 1996, provided that the President could defer until Oct. 1, 1989, the retirement of the officer serving as Chairman of the Joint Chiefs of Staff for the term which began on October 1, 1987, notwithstanding the limitation contained in former section 1251(b) of this title.
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 

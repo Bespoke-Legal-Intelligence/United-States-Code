@@ -72,6 +72,10 @@ Except as otherwise provided, in this Act:
 
 This Act, referred to in text, is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, as amended, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
+#### Short Title of 2011 Amendment
+
+Pub. L. 111–364, §1, Jan. 4, 2011, 124 Stat. 4056, provided that: “This Act \[amending sections 16131 to 16134 and 16137 of this title and enacting provisions set out as a note under section 16131 of this title\] may be cited as the ‘Diesel Emissions Reduction Act of 2010’.”
+
 #### Short Title of 2007 Amendment
 
 Pub. L. 110–69, title V, §5001, Aug. 9, 2007, 121 Stat. 600, provided that: “This title \[enacting subchapter XVII of this chapter and sections 7381g to 7381r of this title, amending sections 7381a, 7381d, 7381e, and 16311 of this title, and enacting provisions set out as a note under section 7381g of this title\] may be cited as the ‘Protecting America's Competitive Edge Through Energy Act’ or the ‘PACE–Energy Act’.”
@@ -88,7 +92,7 @@ Pub. L. 109–58, title IV, §431, Aug. 8, 2005, 119 Stat. 760, provided that: �
 
 Pub. L. 109–58, title V, §501, Aug. 8, 2005, 119 Stat. 763, provided that: “This title \[enacting subchapter V of this chapter, section 7144e of this title, and chapter 37 (§3501 et seq.) of Title 25, Indians, amending section 5315 of Title 5, Government Organization and Employees, and section 4132 of Title 25, and enacting provisions set out as a note under section 3501 of Title 25\] may be cited as the ‘Indian Tribal Energy Development and Self-Determination Act of 2005’.”
 
-Pub. L. 109–58, title VIII, §801, Aug. 8, 2005, 119 Stat. 844, provided that: “This title \[enacting subchapterVIII of this chapter\] may be cited as the ‘Spark M. Matsunaga Hydrogen Act of 2005’.”
+Pub. L. 109–58, title VIII, §801, Aug. 8, 2005, 119 Stat. 844, provided that: “This title \[enacting subchapter VIII of this chapter\] may be cited as the ‘Spark M. Matsunaga Hydrogen Act of 2005’.”
 
 Pub. L. 109–58, title IX, §901, Aug. 8, 2005, 119 Stat. 856, provided that: “This title \[enacting subchapter IX of this chapter, amending sections 8101 and 8102 of Title 7, Agriculture, and section 5523 of Title 15, Commerce and Trade, enacting provisions set out as notes under section 8102 of Title 7 and section 2001 of Title 30, Mineral Lands and Mining, amending provisions set out as notes under section 8101 of Title 7, and section 1902 of Title 30 may be cited as the ‘Energy Research, Development, Demonstration, and Commercial Application Act of 2005’.”
 

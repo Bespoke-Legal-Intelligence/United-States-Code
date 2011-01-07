@@ -26,13 +26,15 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 &emsp;&emsp;&emsp;(ii) the conduct and support of studies, projects, and research, which may include stipends, travel and other support for personnel in collaboration with national and international non-profit and for-profit organizations;
 
-&emsp;&emsp;&emsp;(iii) the conduct and support of forums, meetings, conferences, courses, and training workshops that may include undergraduate, graduate, post-graduate, and post-doctoral accredited courses and the maintenance of accreditation of such courses by the Foundation at the State and national level for college or continuing education credits or for degrees;
+&emsp;&emsp;&emsp;(iii) the conduct and support of forums, meetings, conferences, courses, and training workshops that may include undergraduate, graduate, post-graduate, and post-doctoral accredited courses and the maintenance of accreditation of suchcourses by the Foundation at the State and national level for college or continuing education credits or for degrees;
 
 &emsp;&emsp;&emsp;(iv) programs to support and encourage teachers and students of science at all levels of education and programs for the general public which promote the understanding of science;
 
 &emsp;&emsp;&emsp;(v) programs for writing, editing, printing, publishing, and vending of books and other materials; and
 
 &emsp;&emsp;&emsp;(vi) the conduct of other activities to carry out and support the purpose described in subsection (b) of this section.
+
+&emsp;&emsp;(E) The Cures Acceleration Network described in section 282d of this title.
 
 #### (2) Fees
 
@@ -58,7 +60,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 &emsp;&emsp;(iv) the Commissioner of Food and Drugs.
 
-&emsp;(C) The ex officio members of the Board under subparagraph (B) shall appoint to theBoard individuals from among a list of candidates to be provided by the National Academy of Science. Such appointed members shall include—
+&emsp;(C) The ex officio members of the Board under subparagraph (B) shall appoint to the Board individuals from among a list of candidates to be provided by the National Academy of Science. Such appointed members shall include—
 
 &emsp;&emsp;(i) representatives of the general biomedical field;
 
@@ -184,7 +186,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (1) Foundation integrity
 
-&emsp;The members of the Board shall be accountable for the integrity of the operations of the Foundation and shall ensure such integrity through the development and enforcement of criteria and procedures relating to standards of conduct, financial disclosure statements, conflict of interest rules, recusal and waiver rules, audits and other matter determined appropriate by the Board.
+&emsp;The members of the Board shall be accountable for the integrity of the operations of the Foundation and shall ensure such integrity through the development and enforcement of criteria and procedures relating to standards of conduct, financial disclosure statements, conflict of interest rules, recusal and waiverrules, audits and other matter determined appropriate by the Board.
 
 #### (2) Financial conflicts of interest
 
@@ -254,7 +256,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (iv) Action by the Commissioner of Food and Drugs
 
-&emsp;&emsp;&emsp;The Commissioner of Food and Drugs shall take appropriate action in response to a report received under clause (iii) in accordance with paragraphs (7) through (12) <sup>3</sup> of section 284m(c) of this title, including negotiating with the holders of approved applications for the drugs studied for any labeling changes that the Commissioner determines to be appropriate and requests the holders to make.
+&emsp;&emsp;&emsp;The Commissioner of Food and Drugs shall take appropriate action in response to a report received under clause (iii) in accordance with paragraphs (7) through\(12) <sup>3</sup> of section 284m(c) of this title, including negotiating with the holders of approved applications for the drugs studied for any labeling changes that the Commissioner determines to be appropriate and requests the holders to make.
 
 #### (C) Applicability
 
@@ -278,7 +280,7 @@ No participant in the program established under this part shall exercise any adm
 
 From amounts appropriated to the National Institutes of Health, for each fiscal year, the Director of NIH shall transfer not less than $500,000 and not more than $1,250,000 to the Foundation.
 
-(July 1, 1944, ch. 373, title IV, §499, formerly §499A, as added Pub. L. 101–613, §2, Nov. 16, 1990,104 Stat. 3224; amended Pub. L. 102–170, title II, §216, Nov. 26, 1991, 105 Stat. 1128; Pub. L. 102–321, title I, §163(b)(6), July 10, 1992, 106 Stat. 376; renumbered §499 and amended Pub. L. 103–43, title I, §121(b)(3), title XVII, §1701, June 10, 1993, 107 Stat. 133, 186; Pub. L. 104–316, title I, §122(b), Oct. 19, 1996, 110 Stat. 3836; Pub. L. 105–392, title IV, §418(2), Nov. 13, 1998, 112 Stat. 3591; Pub. L. 107–109, §13, Jan. 4, 2002, 115 Stat. 1417; Pub. L. 109–482, title I, §107, Jan. 15, 2007, 120 Stat. 3696; Pub. L. 110–85, title V, §502(c), Sept. 27, 2007, 121 Stat. 889.)
+(July 1, 1944, ch. 373, title IV, §499, formerly §499A, as added Pub. L. 101–613, §2, Nov. 16, 1990, 104 Stat. 3224; amended Pub. L. 102–170, title II, §216, Nov. 26, 1991, 105 Stat. 1128; Pub. L. 102–321, title I, §163(b)(6), July 10, 1992, 106 Stat. 376; renumbered §499 and amended Pub. L. 103–43, title I, §121(b)(3), title XVII, §1701, June 10, 1993, 107 Stat. 133, 186; Pub. L. 104–316, title I, §122(b), Oct. 19, 1996, 110 Stat. 3836; Pub. L. 105–392, title IV, §418(2), Nov. 13, 1998, 112 Stat. 3591; Pub. L. 107–109, §13, Jan. 4, 2002, 115 Stat. 1417; Pub. L. 109–482, title I, §107, Jan. 15, 2007, 120 Stat. 3696; Pub. L. 110–85, title V, §502(c), Sept. 27, 2007, 121 Stat. 889; Pub. L. 111–148, title X, §10409(c), Mar. 23, 2010, 124 Stat. 978.)
 
 #### References in Text
 
@@ -294,7 +296,9 @@ A prior section 499 of act July 1, 1944, was classified to section 289h of this 
 
 #### Amendments
 
-2007—Subsec. (c)(1)(C). Pub. L. 110–85 substituted “and studies for which the Secretary issues a certification in the affirmative under section 355a(n)(1)(A) of title 21” for “and studies listed by the Secretary pursuant to section 284m(a)(1)(A) of this title and referred under section 355a(d)(4)(C) of title 21”. Amendment was executed as the probable intent of Congress, notwithstanding errors in the directory language in quoting the text in the original to be stricken out.
+<b>2010</b>—Subsec. (c)(1)(E). Pub. L. 111–148 added subpar. (E).
+
+<b>2007</b>—Subsec. (c)(1)(C). Pub. L. 110–85 substituted “and studies for which the Secretary issues a certification in the affirmative under section 355a(n)(1)(A) of title 21” for “and studies listed by the Secretary pursuant to section 284m(a)(1)(A) of this title and referred under section 355a(d)(4)(C) of title 21”. Amendment was executed as the probable intent of Congress, notwithstanding errors in the directory language in quoting the text in the original to be stricken out.
 
 Subsec. (d)(1)(D)(ii). Pub. L. 109–482, §107(1)(A)(i), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “Upon the appointment of the members of the Board under clause (i)(II), the terms of service of the ex officio members of the Board as members of the Board shall terminate.”
 
@@ -314,7 +318,7 @@ Subsec. (j)(10). Pub. L. 109–482, §107(2)(C), substituted “of Health and th
 
 Subsec. (<i>l</i>). Pub. L. 109–482, §107(3), added subsec. (<i>l</i>) and struck out former subsec. (<i>l</i>) which related to authorization of appropriations and limitation regarding other funds.
 
-2002—Subsec. (b). Pub. L. 107–109, §13(1), inserted “(including collection of funds for pediatric pharmacologic research)” after “mission”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–109, §13(1), inserted “(including collection of funds for pediatric pharmacologic research)” after “mission”.
 
 Subsec. (c)(1)(C), (D). Pub. L. 107–109, §13(2), added subpar. (C) and redesignated former subpar. (C) as (D).
 
@@ -348,15 +352,15 @@ Subsec. (k)(9). Pub. L. 107–109, §13(4), designated existing provisions as su
 
 Subsecs. (<i>l</i>), (m). Pub. L. 107–109, §13(5), redesignated subsec. (m) as (<i>l</i>). Former subsec. (<i>l</i>) redesignated (k).
 
-1998—Subsec. (a). Pub. L. 105–392, §418(2)(A), substituted “Foundation for the National Institutes of Health” for “National Foundation for Biomedical Research”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–392, §418(2)(A), substituted “Foundation for the National Institutes of Health” for “National Foundation for Biomedical Research”.
 
 Subsec. (k)(10). Pub. L. 105–392, §418(2)(B), struck out “not” after “may” and inserted at end “Any funds transferred under this paragraph shall be subject to all Federal limitations relating to federally-funded research.”
 
 Subsec. (m)(1). Pub. L. 105–392, §418(2)(C), substituted “$500,000 for each fiscal year” for “$200,000 for the fiscal years 1994 and 1995”.
 
-1996—Subsec. (n). Pub. L. 104–316 struck out subsec. (n) which required Comptroller General to conduct audit and prepare report to Congress on adequacy of compliance of the Foundation with guidelines established under this section.
+<b>1996</b>—Subsec. (n). Pub. L. 104–316 struck out subsec. (n) which required Comptroller General to conduct audit and prepare report to Congress on adequacy of compliance of the Foundation with guidelines established under this section.
 
-1993—Subsec. (a). Pub. L. 103–43, §1701(1), inserted “, acting through the Director of NIH,” after “Secretary shall” and struck out “, except for the purposes of the Ethics in Government Act and the Technology Transfer Act,” after “shall not”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–43, §1701(1), inserted “, acting through the Director of NIH,” after “Secretary shall” and struck out “, except for the purposes of the Ethics in Government Act and the Technology Transfer Act,” after “shall not”.
 
 Subsec. (b). Pub. L. 103–43, §1701(3), added subsec. (b) and struck out heading and text of former subsec. (b). Text related to duties of Foundation.
 
@@ -364,7 +368,7 @@ Subsec. (c). Pub. L. 103–43, §1701(3), added subsec. (c). Former subsec. (c) 
 
 Subsec. (d). Pub. L. 103–43, §1701(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (f).
 
-Subsec. (d)(1). Pub. L. 103–43, §1701(4)(A), substituted “appointed members of the Board” for “members of theFoundation” in subpar. (A), “Board” for “Council” in subpar. (B), and “appoint to the Board” for “appoint to the Council” in subpar. (C), and added subpars. (D) to (G).
+Subsec. (d)(1). Pub. L. 103–43, §1701(4)(A), substituted “appointed members of the Board” for “members of the Foundation” in subpar. (A), “Board” for “Council” in subpar. (B), and “appoint to the Board” for “appoint to the Council” in subpar. (C), and added subpars. (D) to (G).
 
 Subsec. (d)(2). Pub. L. 103–43, §1701(4)(B), designated existing provisions as subpar. (A), substituted “an individual to serve as the initial Chair” for “an appointed member of the Board to serve as the Chair”, and added subpar. (B).
 
@@ -428,9 +432,9 @@ Pub. L. 103–43, §1701(2), redesignated subsec. (i) as (m).
 
 Subsec. (n). Pub. L. 103–43, §1701(8), added subsec. (n).
 
-1992—Subsec. (g)(9). Pub. L. 102–321 struck out “or the Administrator of the Alcohol, Drug Abuse, and Mental Health Administration” after “Director of the National Institutes of Health” and “and the Alcohol, Drug Abuse, and Mental Health Administration” after “research programs of the National Institutes of Health”.
+<b>1992</b>—Subsec. (g)(9). Pub. L. 102–321 struck out “or the Administrator of the Alcohol, Drug Abuse, and Mental Health Administration” after “Director of the National Institutes of Health” and “and the Alcohol, Drug Abuse, and Mental Health Administration” after “research programs of the National Institutes of Health”.
 
-1991—Subsec. (c)(1)(C). Pub. L. 102–170, §216(1), substituted “11” for “9”.
+<b>1991</b>—Subsec. (c)(1)(C). Pub. L. 102–170, §216(1), substituted “11” for “9”.
 
 Subsec. (c)(1)(C)(iii). Pub. L. 102–170, §216(2), substituted “5” for “3”.
 
@@ -447,4 +451,10 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as a note under section 236 of this title.
+
+<i><sup>1</sup></i><i> So in original. The closing parenthesis probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “subsection”.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

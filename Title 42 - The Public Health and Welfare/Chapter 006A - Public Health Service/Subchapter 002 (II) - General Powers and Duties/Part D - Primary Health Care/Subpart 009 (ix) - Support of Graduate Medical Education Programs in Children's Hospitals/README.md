@@ -1,7 +1,5 @@
 subpart ix—support of graduate medical education programs in children's hospitals
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

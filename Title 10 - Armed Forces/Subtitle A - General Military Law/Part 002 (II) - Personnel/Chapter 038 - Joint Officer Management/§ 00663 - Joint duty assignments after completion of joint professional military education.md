@@ -20,19 +20,19 @@ Covered Schools Within the National Defense University.—For purposes of this s
 
 &emsp;(3) The Joint Forces Staff College.
 
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1027; amended Pub. L. 101–189, div.A, title XI, §1123(c)(1), Nov. 29, 1989, 103 Stat. 1557; Pub. L. 102–190, div. A, title IX, §912(a), Dec. 5, 1991, 105 Stat. 1452; Pub. L. 103–160, div. A, title IX, §933(a), Nov. 30, 1993, 107 Stat. 1735; Pub. L. 107–107, div. A, title X, §1048(a)(6), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 107–314, div. A, title X, §1062(a)(5), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–375, div. A, title V, §532(b)–(c)(2)(A), Oct. 28, 2004, 118 Stat. 1900; Pub. L. 109–364, div. A, title V, §518, Oct. 17, 2006, 120 Stat. 2190; Pub. L. 110–417, \[div. A\], title V, §522(b), Oct. 14, 2008, 122 Stat. 4445.)
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1027; amended Pub. L. 101–189, div. A, title XI, §1123(c)(1), Nov. 29, 1989, 103 Stat. 1557; Pub. L. 102–190, div. A, title IX, §912(a), Dec. 5, 1991, 105 Stat. 1452; Pub. L. 103–160, div. A, title IX, §933(a), Nov. 30, 1993, 107 Stat. 1735; Pub. L. 107–107, div. A, title X, §1048(a)(6), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 107–314, div. A, title X, §1062(a)(5), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–375, div. A, title V, §532(b)–(c)(2)(A), Oct. 28, 2004, 118 Stat. 1900; Pub. L. 109–364, div. A, title V, §518, Oct. 17, 2006, 120 Stat. 2190; Pub. L. 110–417, \[div. A\], title V, §522(b), Oct. 14, 2008, 122 Stat. 4445.)
 
 #### Amendments
 
-2008—Subsecs. (a), (b)(1). Pub. L. 110–417, in subsec. (a), substituted “Qualified” for “Specialty” in heading and “designated as a joint qualified officer” for “with the joint specialty” in text, and, in subsec. (b)(1), substituted “are not designated as a joint qualified officer” for “do not have the joint specialty”.
+<b>2008</b>—Subsecs. (a), (b)(1). Pub. L. 110–417, in subsec. (a), substituted “Qualified” for “Specialty” in heading and “designated as a joint qualified officer” for “with the joint specialty” in text, and, in subsec. (b)(1), substituted “are not designated as a joint qualified officer” for “do not have the joint specialty”.
 
-2006—Subsecs. (a), (b)(1). Pub. L. 109–364, §518(a)(1), (2)(A), substituted “a school within the National Defense University specified in subsection (c)” for “a joint professional military education school”.
+<b>2006</b>—Subsecs. (a), (b)(1). Pub. L. 109–364, §518(a)(1), (2)(A), substituted “a school within the National Defense University specified in subsection (c)” for “a joint professional military education school”.
 
 Subsec. (b)(2). Pub. L. 109–364, §518(a)(2)(B), substituted “a school referred to in paragraph (1)” for “a joint professional military education school”.
 
 Subsec. (c). Pub. L. 109–364, §518(b), added subsec. (c).
 
-2004—Pub. L. 108–375, §532(c)(2)(A), substituted “Joint duty assignments after completion of joint professional military education” for “Education” in section catchline.
+<b>2004</b>—Pub. L. 108–375, §532(c)(2)(A), substituted “Joint duty assignments after completion of joint professional military education” for “Education” in section catchline.
 
 Subsec. (a). Pub. L. 108–375, §532(c)(1)(A), (B), redesignated subsec. (d)(1) as (a), inserted heading, and struck out heading and text of former subsec. (a) which related to capstone course for new general and flag officers. See section 2153 of this title.
 
@@ -46,11 +46,11 @@ Subsec. (d). Pub. L. 108–375, §532(c)(1)(B), (C), (E), redesignated par. (1) 
 
 Subsec. (e). Pub. L. 108–375, §532(c)(1)(A), struck out heading and text of subsec. (e) which related to the duration of the principal course of instruction offered at the Joint Forces Staff College. See section 2156 of this title.
 
-2002—Subsec. (e)(2). Pub. L. 107–314 substituted “Joint Forces Staff College” for “Armed Forces Staff College”.
+<b>2002</b>—Subsec. (e)(2). Pub. L. 107–314 substituted “Joint Forces Staff College” for “Armed Forces Staff College”.
 
-2001—Subsec. (e). Pub. L. 107–107 substituted “Joint Forces Staff College” for “Armed Forces Staff College” in subsec. heading and in text of par. (1).
+<b>2001</b>—Subsec. (e). Pub. L. 107–107 substituted “Joint Forces Staff College” for “Armed Forces Staff College” in subsec. heading and in text of par. (1).
 
-1993—Subsec. (d). Pub. L. 103–160 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “
+<b>1993</b>—Subsec. (d). Pub. L. 103–160 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “
 
 Post-Education Duty Assignments.—The Secretary of Defense shall ensure that—
 
@@ -58,13 +58,13 @@ Post-Education Duty Assignments.—The Secretary of Defense shall ensure that—
 
 &emsp;“(2) a high proportion (which shall be greater than 50 percent) of the other officers graduating from a joint professional military education school also receive assignments to a joint duty assignment as their next duty assignment.”
 
-1991—Subsec. (e). Pub. L. 102–190 designated existing provisions as par. (1) and added par. (2).
+<b>1991</b>—Subsec. (e). Pub. L. 102–190 designated existing provisions as par. (1) and added par. (2).
 
-1989—Subsec. (e). Pub. L. 101–189 added subsec. (e).
+<b>1989</b>—Subsec. (e). Pub. L. 101–189 added subsec. (e).
 
 #### Effective Date of 1993 Amendment
 
-Section 933(b) of Pub. L. 103–160 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to officers graduating from joint professional military education schools after the date of the enactment of this Act \[Nov. 30, 1993\].”
+Section 933(b) of Pub. L. 103–160 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply with respect to officers graduating from joint professional military education schools after the date of the enactment of this Act \[Nov. 30, 1993\].”
 
 #### Effective Date of 1991 Amendment
 

@@ -6,7 +6,7 @@ All fugitives from justice taking refuge in the park shall be subject to the sam
 
 #### Amendments
 
-1948—Act June 25, 1948, struck out first sentence relating to inclusion of park in a judicial district. See section 97 of Title 28, Judiciary and Judicial Procedure, and section 3231 of Title 18, Crimes and Criminal Procedure.
+<b>1948</b>—Act June 25, 1948, struck out first sentence relating to inclusion of park in a judicial district. See section 97 of Title 28, Judiciary and Judicial Procedure, and section 3231 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of 1948 Amendment
 

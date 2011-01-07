@@ -42,7 +42,7 @@ For purposes of this section—
 
 &emsp;(C) in the eastern tropical Pacific Ocean by a vessel using a purse seine net unless the tuna meet the requirements for being considered dolphin safe under paragraph (2); or
 
-&emsp;(D) by a vessel in a fishery other than one described in subparagraph (A), (B), or (C) that is identified by the Secretary as having a regular and significant mortality or serious injury of dolphins, unless such product is accompanied by a written statement executed by thecaptain of the vessel and an observer participating in a national or international program acceptable to the Secretary that no dolphins were killed or seriously injured in the sets or other gear deployments in which the tuna were caught, provided that the Secretary determines that such an observer statement is necessary.
+&emsp;(D) by a vessel in a fishery other than one described in subparagraph (A), (B), or (C) that is identified by the Secretary as having a regular and significant mortality or serious injury of dolphins, unless such product is accompanied by a written statement executed by the captain of the vessel and an observer participating in a national or international program acceptable to the Secretary that no dolphins were killed or seriously injured in the sets or other gear deployments in which the tuna were caught, provided that the Secretary determines that such an observer statement is necessary.
 
 (2) For purposes of paragraph (1)(C), a tuna product that contains tuna harvested in the eastern tropical Pacific Ocean by a vessel using purse seine nets is dolphin safe if—
 
@@ -130,7 +130,7 @@ Section was not enacted as part of the Marine Mammal Protection Act of 1972 whic
 
 #### Amendments
 
-1997—Subsec. (d). Pub. L. 105–42, §5(a), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
+<b>1997</b>—Subsec. (d). Pub. L. 105–42, §5(a), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
 
 “(1) It is a violation of section 45 of title 15 for any producer, importer, exporter, distributor, or seller of any tuna product that is exported from or offered for sale in the United States to include on the label of that product the term ‘Dolphin Safe’ or any other term or symbol that falsely claims or suggests that the tuna contained in the product was harvested using a method of fishing that is not harmful to dolphins if the product contains—
 

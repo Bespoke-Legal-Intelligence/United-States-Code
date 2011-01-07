@@ -96,7 +96,7 @@ To be eligible to receive a supplemental grant under section 15061(b) of this ti
 
 #### (1) In general
 
-&emsp;The Federal share of the cost of administration or operation of a Center, or the cost of carrying out a training initiative, supported by a grant made under this part may not be more than 75 percent of the necessary cost of such project, as determined by the Secretary.
+&emsp;The Federal share of the cost of administration or operation of a Center, or the cost ofcarrying out a training initiative, supported by a grant made under this part may not be more than 75 percent of the necessary cost of such project, as determined by the Secretary.
 
 #### (2) Urban or rural poverty areas
 
@@ -126,13 +126,9 @@ Each Center shall annually prepare and transmit to the Secretary a report contai
 
 (Pub. L. 106–402, title I, §154, Oct. 30, 2000, 114 Stat. 1722; Pub. L. 108–364, §3(a)(4), Oct. 25, 2004, 118 Stat. 1737; Pub. L. 108–446, title III, §305(n)(2), Dec. 3, 2004, 118 Stat. 2806.)
 
-#### References in Text
-
-Provisions of title 5 governing appointments in competitive service, referred to in subsec. (c)(2)(A)(i), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 #### Amendments
 
-2004—Subsec. (a)(3)(E)(ii)(VI). Pub. L. 108–446 substituted “section 1471 or 1472 of title 20” for “section 1482 or 1483 of title 20”.
+<b>2004</b>—Subsec. (a)(3)(E)(ii)(VI). Pub. L. 108–446 substituted “section 1471 or 1472 of title 20” for “section 1482 or 1483 of title 20”.
 
 Pub. L. 108–364 substituted “section 3003 or 3004 of title 29” for “section 3011 or 3012 of title 29”.
 

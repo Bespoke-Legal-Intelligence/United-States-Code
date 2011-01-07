@@ -20,7 +20,7 @@ This chapter shall cease to apply to a quantitative restriction agreement descri
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–465, §270(b)(1)(C), (2), inserted “countervailable” before “subsidies” in heading.
+<b>1994</b>—Subsec. (a). Pub. L. 103–465, §270(b)(1)(C), (2), inserted “countervailable” before “subsidies” in heading.
 
 Subsec. (a)(1), (2). Pub. L. 103–465, §270(a)(1)(I), inserted “countervailable” before “subsidy”.
 

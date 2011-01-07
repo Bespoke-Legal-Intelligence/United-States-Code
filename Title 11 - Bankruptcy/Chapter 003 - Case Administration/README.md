@@ -31,7 +31,7 @@
 | [330\.](Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000330%20-%20Compensation%20of%20officers.md) | Compensation of officers. |
 | [331\.](Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000331%20-%20Interim%20compensation.md) | Interim compensation. |
 | [332\.](Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000332%20-%20Consumer%20privacy%20ombudsman.md) | Consumer privacy ombudsman. |
-| [333\.](Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000333%20-%20Appointment%20of%20patient%20care%20ombudsman.md) | Appointment of ombudsman.<sup>1</sup> |
+| [333\.](Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000333%20-%20Appointment%20of%20patient%20care%20ombudsman.md) | Appointment of patient care ombudsman. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -67,6 +67,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2010—Pub. L. 111–327, §2(a)(49), Dec. 22, 2010, 124 Stat. 3562, inserted “patient care” before “ombudsman” in item 333.
 
 2005—Pub. L. 109–8, title II, §232(c), title IV, §434(a)(2), title VII, §719(a)(2), title VIII, §802(d)(4), title XI, §§1102(b), 1104(a)(2), Apr. 20, 2005, 119 Stat. 74, 111, 133, 146, 190, 192, added items 308, 332, 333, and 351, substituted “Special provisions related to the treatment of State and local taxes” for “Special tax provisions” in item 346, and struck out item 304 “Cases ancillary to foreign proceedings”.
 

@@ -10,7 +10,7 @@ The Director shall, on an annual basis, evaluate all of the Foundation's grants 
 
 #### (b) Continuation of funding
 
-For grants that are identified under subsection (a) and that are determined by the Director to be successful in meeting the objectives of the initial grant solicitation, the Director may extend the duration of those grants for not more than 3 additional years beyond their scheduled expiration without the requirement for a recompetition.
+For grants that are identified under subsection (a) and that are determined by the Director to be successful in meeting the objectives of the initial grant solicitation, the Director may extend the duration of those grants for not more than 3 additional years beyond theirscheduled expiration without the requirement for a recompetition.
 
 #### (c) Report to Congress
 

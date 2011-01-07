@@ -4,7 +4,7 @@ Trade Adjustment Assistance for Communities
 
 #### Amendments
 
-2009—Pub. L. 111–5, div. B, title I, §1872(a), Feb. 17, 2009, 123 Stat. 401, temporarily generally amended this part. See Termination Date of 2009 Amendment note set out preceding section 2271 of this title.
+<b>2009</b>—Pub. L. 111–5, div. B, title I, §1872(a), Feb. 17, 2009, 123 Stat. 401, temporarily generally amended this part. See Termination Date of 2009 Amendment note set out preceding section 2271 of this title.
 
 #### Termination of Part
 
@@ -12,7 +12,7 @@ Trade Adjustment Assistance for Communities
 
 #### Termination Date
 
-Except as otherwise provided, technical assistance and grants may not be provided under this part after Dec. 31, 2010, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+Except as otherwise provided, technical assistance and grants may not be provided under this part after Feb. 12, 2011, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 
 
 ---

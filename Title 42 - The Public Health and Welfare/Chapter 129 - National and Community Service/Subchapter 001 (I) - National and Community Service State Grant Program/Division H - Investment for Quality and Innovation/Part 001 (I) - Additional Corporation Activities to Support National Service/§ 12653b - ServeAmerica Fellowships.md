@@ -40,7 +40,7 @@ In this section:
 
 #### (A) Allotment
 
-&emsp;&emsp;The amount allotted to a State Commission for a fiscal year shall be equal to anamount that bears the same ratio to the amount appropriated under section 12681(a)(4)(B) of this title, as the population of the State bears to the total population of the several States, the District of Columbia, and the Commonwealth of Puerto Rico.
+&emsp;&emsp;The amount allotted to a State Commission for a fiscal year shall be equal to an amount that bears the same ratio to the amount appropriated under section 12681(a)(4)(B) of this title, as the population of the State bears to the total population of the several States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
 #### (B) Reallotment
 
@@ -158,7 +158,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) the State Commission shall revoke the registration of the organization;
 
-&emsp;&emsp;&emsp;(ii) the organization shall not be eligible to receive assistance, approved national service positions, or approved summer of service positions under this subchapter for not less than 5 years; and
+&emsp;&emsp;&emsp;(ii) the organization shall not be eligible to receive assistance, approved nationalservice positions, or approved summer of service positions under this subchapter for not less than 5 years; and
 
 &emsp;&emsp;&emsp;(iii) the State Commission shall have the right to remove a fellow from the organization and relocate the fellow to another site.
 

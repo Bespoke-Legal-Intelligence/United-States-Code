@@ -12,7 +12,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-1998—Pub. L. 105–206 amended directory language of Pub. L. 105–34, §226(a). See 1997 Amendment note below.
+<b>1998</b>—Pub. L. 105–206 amended directory language of Pub. L. 105–34, §226(a). See 1997 Amendment note below.
 
-1997—Pub. L. 105–34, §226(a), as amended by Pub. L. 105–206, renumbered section 1397D of this title as this section.
+<b>1997</b>—Pub. L. 105–34, §226(a), as amended by Pub. L. 105–206, renumbered section 1397D of this title as this section.
 

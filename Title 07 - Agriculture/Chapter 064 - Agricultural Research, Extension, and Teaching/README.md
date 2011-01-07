@@ -66,6 +66,7 @@
 | 3176, 3177. Repealed. |  |
 | [3178\.](Subchapter%20004%20%28IV%29%20-%20National%20Food%20and%20Human%20Nutrition%20Research%20and%20Extension%20Program/%C2%A7%2003178%20-%20Nutritional%20status%20monitoring.md) | Nutritional status monitoring. |
 | [3178a.](Subchapter%20004%20%28IV%29%20-%20National%20Food%20and%20Human%20Nutrition%20Research%20and%20Extension%20Program/%C2%A7%2003178a%20-%20Nutrition%20monitoring.md) | Nutrition monitoring. |
+| [3179\.](Subchapter%20004%20%28IV%29%20-%20National%20Food%20and%20Human%20Nutrition%20Research%20and%20Extension%20Program/%C2%A7%2003179%20-%20Research%20on%20strategies%20to%20promote%20the%20selection%20and%20consumption%20of%20healthy%20foods.md) | Research on strategies to promote the selection and consumption of healthy foods. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

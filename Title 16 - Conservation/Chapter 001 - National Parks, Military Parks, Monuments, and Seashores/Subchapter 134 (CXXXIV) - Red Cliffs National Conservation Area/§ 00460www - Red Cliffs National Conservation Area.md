@@ -196,3 +196,5 @@ State.—The term ‘State’ means the State of Utah.
 
 Washington county growth and conservation act map.—The term ‘Washington County Growth and Conservation Act Map’ means the map entitled ‘Washington County Growth and Conservation Act Map’ and dated November 13, 2008.”
 
+<i><sup>1</sup></i><i> So in original. Probably should be “is”.</i>
+

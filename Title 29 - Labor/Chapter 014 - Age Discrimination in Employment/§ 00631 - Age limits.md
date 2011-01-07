@@ -18,9 +18,9 @@ In the case of any personnel action affecting employees or applicants for employ
 
 #### Amendments
 
-1989—Subsec. (a). Pub. L. 101–239 struck out “(except the provisions of section 623(g) of this title)” after “in this chapter”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239 struck out “(except the provisions of section 623(g) of this title)” after “in this chapter”.
 
-1986—Subsec. (a). Pub. L. 99–592, §2(c)(1), which directed that “but less than seventy years of age” be struck out was executed by striking out “but less than 70 years of age” after “40 years of age” as the probable intent of Congress.
+<b>1986</b>—Subsec. (a). Pub. L. 99–592, §2(c)(1), which directed that “but less than seventy years of age” be struck out was executed by striking out “but less than 70 years of age” after “40 years of age” as the probable intent of Congress.
 
 Pub. L. 99–272 inserted “(except the provisions of section 623(g) of this title)” after “this chapter”.
 
@@ -28,7 +28,7 @@ Subsec. (c)(1). Pub. L. 99–592, §2(c)(2), which directed that “but not seve
 
 Subsec. (d). Pub. L. 99–592, §6(a), (b), temporarily added subsec. (d) which read as follows: “Nothing in this chapter shall be construed to prohibit compulsory retirement of any employee who has attained 70 years of age, and who is serving under a contract of unlimited tenure (or similar arrangement providing for unlimited tenure) at an institution of higher education (as defined by section 1141(a) of title 20).” See Effective and Termination Dates of 1986 Amendments note below.
 
-1984—Subsec. (c)(1). Pub. L. 98–459 substituted “$44,000” for “$27,000”.
+<b>1984</b>—Subsec. (c)(1). Pub. L. 98–459 substituted “$44,000” for “$27,000”.
 
 Pub. L. 95–256, §3(a), designated existing provisions as subsec. (a), substituted “40 years of age but less than 70 years of age” for “forty years of age but less than sixty-five years of age”, added subsecs. (b) and (c), and temporarily added subsec. (d). See Effective and Termination Dates of 1978 Amendment note below.
 

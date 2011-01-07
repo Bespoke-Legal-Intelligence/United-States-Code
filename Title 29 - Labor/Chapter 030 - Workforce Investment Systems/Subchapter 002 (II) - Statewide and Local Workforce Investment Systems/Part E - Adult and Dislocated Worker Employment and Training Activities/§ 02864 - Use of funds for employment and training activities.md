@@ -60,7 +60,7 @@
 
 &emsp;&emsp;&emsp;(v) support for the identification of eligible providers of training services as required under section 2842 of this title;
 
-&emsp;&emsp;&emsp;(vi)(I) implementation of innovative programs for displaced homemakers, which for purposes of this subclause may include an individual who is receiving public assistance and is within 2 years of exhausting lifetime eligibility under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.); and
+&emsp;&emsp;&emsp;(vi)(I) implementation of innovative programs for displaced homemakers, which for purposes of this subclause may includean individual who is receiving public assistance and is within 2 years of exhausting lifetime eligibility under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.); and
 
 &emsp;&emsp;&emsp;(II) implementation of programs to increase the number of individuals training for and placed in nontraditional employment; and
 
@@ -126,7 +126,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 #### (3) Specialized centers
 
-&emsp;The centers and sites described in paragraph (2) may have a specialization in addressingspecial needs, such as the needs of dislocated workers.
+&emsp;The centers and sites described in paragraph (2) may have a specialization in addressing special needs, such as the needs of dislocated workers.
 
 #### (d) Required local employment and training activities
 
@@ -208,7 +208,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;Such intensive services may include the following:
 
-&emsp;&emsp;&emsp;(i) Comprehensive and specialized assessments of the skill levels and service needs of adults and dislocated workers, which may include—
+&emsp;&emsp;&emsp;(i) Comprehensive and specialized assessments of the skill levels and service needsof adults and dislocated workers, which may include—
 
 &emsp;&emsp;&emsp;&emsp;(I) diagnostic testing and use of other assessment tools; and
 
@@ -282,7 +282,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 #### (E) Priority
 
-&emsp;&emsp;In the event that funds allocated to a local area for adult employment and training activities under paragraph (2)(A) or (3) of section 2863(b) of this title are limited, priority shall be given to recipients of public assistance and other low-income individuals for intensive services and training services. The appropriate local board and the Governor shall direct the one-stop operators in thelocal area with regard to making determinations related to such priority.
+&emsp;&emsp;In the event that funds allocated to a local area for adult employment and training activities under paragraph (2)(A) or (3) of section 2863(b) of this title are limited, priority shall be given to recipients of public assistance and other low-income individuals for intensive services and training services. The appropriate local board and the Governor shall direct the one-stop operators in the local area with regard to making determinations related to such priority.
 
 #### (F) Consumer choice requirements
 
@@ -294,7 +294,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;Each local board, through one-stop centers referred to in subsection (c) of this section, shall make available—
 
-&emsp;&emsp;&emsp;&emsp;(I) the State list of eligible providers of training services required under section 2842(e) of this title, with a description of the programs through which the providers may offer the training services, and the information identifying eligible providers of on-the-job training and customized training required under section 2842(h) of this title; and
+&emsp;&emsp;&emsp;&emsp;(I) the State list of eligible providers of training services required under section 2842(e) of this title, with a description ofthe programs through which the providers may offer the training services, and the information identifying eligible providers of on-the-job training and customized training required under section 2842(h) of this title; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the performance information and performance cost information relating to eligible providers of training services described in subsections (e) and (h) of section 2842 of this title.
 
@@ -394,7 +394,7 @@ The Higher Education Act of 1965, referred to in subsec. (d)(4)(B)(i)(I), is Pub
 
 #### Amendments
 
-2006—Subsec. (d)(2)(F). Pub. L. 109–270 substituted “career and technical education activities at the postsecondary level, and career and technical education activities available to school dropouts, under the Carl D. Perkins Career and Technical Education Act of 2006” for “postsecondary vocational education activities and vocational education activities available to school dropouts under the Carl D. Perkins Vocational and Applied Technology Education Act”.
+<b>2006</b>—Subsec. (d)(2)(F). Pub. L. 109–270 substituted “career and technical education activities at the postsecondary level, and career and technical education activities available to school dropouts, under the Carl D. Perkins Career and Technical Education Act of 2006” for “postsecondary vocational education activities and vocational education activities available to school dropouts under the Carl D. Perkins Vocational and Applied Technology Education Act”.
 
-1998—Subsec. (d)(4)(F)(iii). Pub. L. 105–277 added cl. (iii).
+<b>1998</b>—Subsec. (d)(4)(F)(iii). Pub. L. 105–277 added cl. (iii).
 

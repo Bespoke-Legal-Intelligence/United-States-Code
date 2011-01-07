@@ -68,9 +68,9 @@ Another section 1365 was renumbered section 1366 of this title.
 
 #### Amendments
 
-2002—Subsecs. (f) to (h). Pub. L. 107–307 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+<b>2002</b>—Subsecs. (f) to (h). Pub. L. 107–307 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
-1994—Subsec. (a)(1). Pub. L. 103–322, §330016(1)(O), substituted “fined under this title” for “fined not more than $25,000”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–322, §330016(1)(O), substituted “fined under this title” for “fined not more than $25,000”.
 
 Subsec. (a)(2), (3). Pub. L. 103–322, §330016(1)(S), substituted “fined under this title” for “fined not more than $100,000”.
 
@@ -80,7 +80,7 @@ Subsec. (b). Pub. L. 103–322, §330016(1)(L), substituted “fined under this 
 
 Subsecs. (c)(1), (d), (e). Pub. L. 103–322, §330016(1)(O), substituted “fined under this title” for “fined not more than $25,000”.
 
-1990—Subsec. (g)(1)(A). Pub. L. 101–647 inserted opening quotation marks before “device”.
+<b>1990</b>—Subsec. (g)(1)(A). Pub. L. 101–647 inserted opening quotation marks before “device”.
 
 #### Short Title of 2002 Amendment
 

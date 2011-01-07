@@ -14,7 +14,7 @@ A person shall be entitled to a patent unless—
 
 (f) he did not himself invent the subject matter sought to be patented, or
 
-(g)(1) during the course of an interference conducted under section 135 or section 291, another inventor involved therein establishes, to the extent permitted in section 104, that before such person's invention thereof the invention was made by such other inventor and not abandoned, suppressed, or concealed, or (2) before such person's invention thereof, the invention was made in this country by another inventor who had not abandoned, suppressed, or concealed it. In determining priority of invention under this subsection, there shall be considered not only therespective dates of conception and reduction to practice of the invention, but also the reasonable diligence of one who was first to conceive and last to reduce to practice, from a time prior to conception by the other.
+(g)(1) during the course of an interference conducted under section 135 or section 291, another inventor involved therein establishes, to the extent permitted in section 104, that before such person's invention thereof the invention was made by such other inventor and not abandoned, suppressed, or concealed, or (2) before such person's invention thereof, the invention was made in this country by another inventor who had not abandoned, suppressed, or concealed it. In determining priority of invention under this subsection, there shall be considered not only the respective dates of conception and reduction to practice of the invention, but also the reasonable diligence of one who was first to conceive and last to reduce to practice, from a time prior to conception by the other.
 
 (July 19, 1952, ch. 950, 66 Stat. 797; Pub. L. 92–358, §2, July 28, 1972, 86 Stat. 502; Pub. L. 94–131, §5, Nov. 14, 1975, 89 Stat. 691; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4505, 4806\], Nov. 29, 1999, 113 Stat. 1536, 1501A–565, 1501A–590; Pub. L. 107–273, div. C, title III, §13205(1), Nov. 2, 2002, 116 Stat. 1902.)
 
@@ -38,19 +38,19 @@ Language relating specifically to designs is omitted for inclusion in subsequent
 
 #### Amendments
 
-2002—Subsec. (e). Pub. L. 107–273, amended Pub. L. 106–113, §1000(a)(9) \[title IV, §4505\]. See 1999 Amendment note below. Prior to being amended by Pub. L. 107–273, Pub. L. 106–113, §1000(a)(9) \[title IV, §4505\], had amended subsec. (e) to read as follows: “The invention was described in—
+<b>2002</b>—Subsec. (e). Pub. L. 107–273, amended Pub. L. 106–113, §1000(a)(9) \[title IV, §4505\]. See 1999 Amendment note below. Prior to being amended by Pub. L. 107–273, Pub. L. 106–113, §1000(a)(9) \[title IV, §4505\], had amended subsec. (e) to read as follows: “The invention was described in—
 
 &emsp;“(1) an application for patent, published under section 122(b), by another filed in the United States before the invention by the applicant for patent, except that an international application filed under the treaty defined in section 351(a) shall have the effect under this subsection of a national application published under section 122(b) only if the international application designating the United States was published under Article 21(2)(a) of such treaty in the English language; or
 
 &emsp;“(2) a patent granted on an application for patent by another filed in the United States before the invention by the applicant for patent, except that a patent shall not be deemed filed in the United States for the purposes of this subsection based on the filing of an international application filed under the treaty defined in section 351(a); or”.
 
-1999—Subsec. (e). Pub. L. 106–113, §1000(a)(9) \[title IV, §4505\], as amended by Pub. L. 107–273, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “the invention was described in a patent granted on an application for patent by another filed in the United States before the invention thereof by the applicant for patent, or on an international application by another who has fulfilled the requirements of paragraphs (1), (2), and (4) of section 371(c) of this title before the invention thereof by the applicant for patent, or”.
+<b>1999</b>—Subsec. (e). Pub. L. 106–113, §1000(a)(9) \[title IV, §4505\], as amended by Pub. L. 107–273, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “the invention was described in a patent granted on an application for patent by another filed in the United States before the invention thereof by the applicant for patent, or on an international application by another who has fulfilled the requirements of paragraphs (1), (2), and (4) of section 371(c) of this title before the invention thereof by the applicant for patent, or”.
 
 Subsec. (g). Pub. L. 106–113, §1000(a)(9) \[title IV, §4806\], amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “before the applicant's invention thereof the invention was made in this country by another who had not abandoned, suppressed, or concealed it. In determining priority of invention there shall be considered not only the respective dates of conception and reduction to practice of the invention, but also the reasonable diligence of one who was first to conceive and last to reduce to practice, from a time prior to conception by the other.”
 
-1975—Par. (e). Pub. L. 94–131 inserted provision for nonentitlement to a patent where the invention was described in a patent granted on an international application by another who has fulfilled the requirements of pars. (1), (2), and (4) of section 371(c) of this title before the invention thereof by the applicant for patent.
+<b>1975</b>—Par. (e). Pub. L. 94–131 inserted provision for nonentitlement to a patent where the invention was described in a patent granted on an international application by another who has fulfilled the requirements of pars. (1), (2), and (4) of section 371(c) of this title before the invention thereof by the applicant for patent.
 
-1972—Subsec. (d). Pub. L. 92–358 inserted reference to inventions that were the subject of an inventors’ certificate.
+<b>1972</b>—Subsec. (d). Pub. L. 92–358 inserted reference to inventions that were the subject of an inventors’ certificate.
 
 #### Effective Date of 1999 Amendment
 
@@ -66,7 +66,7 @@ Section 3(b) of Pub. L. 92–358 provided that: “Section 2 of this Act \[amend
 
 #### Savings Provision
 
-Section 4 of act July 19, 1952, ch. 950, 66 Stat. 815, provided that subsection (d) of this section should not apply to existing patents and pending applications, but that the law previously in effect, namely the first paragraph of R.S. 4887 \[first paragraph of section 32 of former Title 35\], should apply to such patents and applications. Said paragraph of section 32 provided that:
+Section 4 of act July 19, 1952, ch. 950, 66 Stat. 815, provided that subsection (d) of this section should not apply to existing patents and pending applications, but that the law previously in effect, namely the first paragraph of R.S. 4887 \[first paragraph of section 32 offormer Title 35\], should apply to such patents and applications. Said paragraph of section 32 provided that:
 
 “No person otherwise entitled thereto shall be debarred from receiving a patent for his invention or discovery, nor shall any patent be declared invalid by reason of its having been first patented or caused to be patented by the inventor or his legal representatives or assigns in a foreign country, unless the application for said foreign patent was filed more than twelve months, in cases within the provisions of section 31 of this title, and six months in cases of designs, prior to the filing of the application in this country, in which case no patent shall be granted in this country.”
 

@@ -6,7 +6,7 @@ In General.—Except as otherwise provided in this section, the authority confer
 
 (b)
 
-Limitation Regarding the Office of Federal Procurement Policy Act.—The authority conferred by this subtitle is subject to the Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.).
+Limitation Regarding Division B (Except Sections 1704 and 2303) of Subtitle I of Title 41.—The authority conferred by this subtitle is subject to division B (Except <sup>1</sup> Sections <sup>1</sup> 1704 and 2303) of subtitle I of title 41.
 
 (c)
 
@@ -14,7 +14,7 @@ Limitation Regarding Certain Government Corporations and Agencies.—Sections 12
 
 (d)
 
-Limitation Regarding Congress.—This subtitle does not apply to the Senate or the House of Representatives (including the Architect of the Capitol and any building, activity, or function under the direction of the Architect). However, services and facilities authorized by this subtitle shall, as far as practicable, be made available to the Senate, the House of Representatives, and the Architect of the Capitol on their request. If payment would be required for providing a similar service or facility to an executive agency, payment shall be made by the recipient, on presentation of proper vouchers, in advance or by reimbursement (as may be agreed upon by the Administrator of General Services and the officer or body making the request). The payment may be credited to the applicable appropriation of the executive agency receiving the payment.
+Limitation Regarding Congress.—This subtitle does not apply to the Senate or the House of Representatives (including the Architect of the Capitol and any building, activity, or function under the direction of the Architect). However, services and facilities authorized bythis subtitle shall, as far as practicable, be made available to the Senate, the House of Representatives, and the Architect of the Capitol on their request. If payment would be required for providing a similar service or facility to an executive agency, payment shall be made by the recipient, on presentation of proper vouchers, in advance or by reimbursement (as may be agreed upon by the Administrator of General Services and the officer or body making the request). The payment may be credited to the applicable appropriation of the executive agency receiving the payment.
 
 (e)
 
@@ -78,7 +78,7 @@ Other Limitations.—Nothing in this subtitle impairs or affects the authority o
 
 &emsp;(20) the Office of the Director of National Intelligence.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1066; Pub. L. 108–458, title I, §1080, Dec. 17, 2004, 118 Stat. 3696.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1066; Pub. L. 108–458, title I, §1080, Dec. 17, 2004, 118 Stat. 3696; Pub. L. 111–350, §5(<i>l</i>)(4), Jan. 4, 2011, 124 Stat. 3851.)
 
 Historical and Revision Notes
 
@@ -146,8 +146,6 @@ In subsection (e)(19), the words “Secretary of State” are substituted for �
 
 #### References in Text
 
-The Office of Federal Procurement Policy Act, referred to in subsec. (b), is Pub. L. 93–400, Aug. 30, 1974, 88 Stat. 796, as amended, which is classified principally to chapter 7 (§401 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 41 and Tables.
-
 The Philippine Property Act of 1946, referred to in subsec. (e)(1), is act July 3, 1946, ch. 536, 60 Stat. 418, as amended, which is classified generally to subchapter V (§1381 et seq.) of chapter 15 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 1381 of Title 22 and Tables.
 
 The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (e)(6), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, §2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
@@ -168,11 +166,15 @@ The Bonneville Project Act of 1937, referred to in subsec. (e)(18), is act Aug. 
 
 #### Amendments
 
-2004—Subsec. (e)(20). Pub. L. 108–458 added par. (20).
+<b>2011</b>—Subsec. (b). Pub. L. 111–350 substituted “Division B (Except Sections 1704 and 2303) of Subtitle I of Title 41” for “the Office of Federal Procurement Policy Act” in heading and “division B (Except Sections 1704 and 2303) of subtitle I of title 41” for “the Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.)” in text.
+
+<b>2004</b>—Subsec. (e)(20). Pub. L. 108–458 added par. (20).
 
 #### Effective Date of 2004 Amendment
 
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of Title 50, War and National Defense.
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of Title 50, War and National Defense.
+
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

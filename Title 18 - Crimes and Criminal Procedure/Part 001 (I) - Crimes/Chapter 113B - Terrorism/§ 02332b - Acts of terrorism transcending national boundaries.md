@@ -8,7 +8,7 @@ Prohibited Acts.—
 
 Offenses.—Whoever, involving conduct transcending national boundaries and in a circumstance described in subsection (b)—
 
-&emsp;&emsp;(A) kills, kidnaps, maims, commits an assault resulting in serious bodily injury, orassaults with a dangerous weapon any person within the United States; or
+&emsp;&emsp;(A) kills, kidnaps, maims, commits an assault resulting in serious bodily injury, or assaults with a dangerous weapon any person within the United States; or
 
 &emsp;&emsp;(B) creates a substantial risk of serious bodily injury to any other person by destroying or damaging any structure, conveyance, or other real or personal property within the United States or by attempting or conspiring to destroy or damage any structure, conveyance, or other real or personal property within the United States;
 
@@ -128,13 +128,13 @@ Section 1010A of the Controlled Substances Import and Export Act, referred to in
 
 #### Amendments
 
-2008—Subsec. (g)(5)(B)(i). Pub. L. 110–326 substituted “1030(a)(5)(A) resulting in damage as defined in 1030(c)(4)(A)(i)(II) through (VI)” for “1030(a)(5)(A)(i) resulting in damage as defined in 1030(a)(5)(B)(ii) through (v)”.
+<b>2008</b>—Subsec. (g)(5)(B)(i). Pub. L. 110–326 substituted “1030(a)(5)(A) resulting in damage as defined in 1030(c)(4)(A)(i)(II) through (VI)” for “1030(a)(5)(A)(i) resulting in damage as defined in 1030(a)(5)(B)(ii) through (v)”.
 
-2006—Subsec. (g)(5)(B)(i). Pub. L. 109–177, §§110(b)(3)(A), 112(a)(1), (b), substituted “1992 (relating to terrorist attacks and other acts of violence against railroad carriers and against mass transportation systems on land, on water, or through the air),” for “1992 (relating to wrecking trains), 1993 (relating to terrorist attacks and other acts of violence against mass transportation systems),” and “terrorism), 2339D (relating to military-type training from a foreign terrorist organization), or 2340A” for “terrorism, or 2340A”.
+<b>2006</b>—Subsec. (g)(5)(B)(i). Pub. L. 109–177, §§110(b)(3)(A), 112(a)(1), (b), substituted “1992 (relating to terrorist attacks and other acts of violence against railroad carriers and against mass transportation systems on land, on water, or through the air),” for “1992 (relating to wrecking trains), 1993 (relating to terrorist attacks and other acts of violence against mass transportation systems),” and “terrorism), 2339D (relating to military-type training from a foreign terrorist organization), or 2340A” for “terrorism, or 2340A”.
 
 Subsec. (g)(5)(B)(iv). Pub. L. 109–177, §112(a)(2)–(4), added cl. (iv).
 
-2004—Subsec. (g)(5)(B)(i). Pub. L. 108–458, §6908(1), inserted “175c (relating to variola virus),” after “175 or 175b (relating to biological weapons),” and “2332g (relating to missile systems designed to destroy aircraft), 2332h (relating to radiological dispersal devices),” before “2339 (relating to harboring terrorists)”.
+<b>2004</b>—Subsec. (g)(5)(B)(i). Pub. L. 108–458, §6908(1), inserted “175c (relating to variola virus),” after “175 or 175b (relating to biological weapons),” and “2332g (relating to missile systems designed to destroy aircraft), 2332h (relating to radiological dispersal devices),” before “2339 (relating to harboring terrorists)”.
 
 Pub. L. 108–458, §6803(c)(3), inserted “832 (relating to participation in nuclear and weapons of mass destruction threats to the United States)” after “831 (relating to nuclear materials),”.
 
@@ -142,13 +142,13 @@ Pub. L. 108–458, §6603(a)(1), inserted “1361 (relating to government proper
 
 Subsec. (g)(5)(B)(ii). Pub. L. 108–458, §6908(2), substituted “sections 92 (relating to prohibitions governing atomic weapons) or” for “section” and inserted “2122 or” before “2284”.
 
-2002—Subsec. (g)(5)(B)(i). Pub. L. 107–197 inserted “2332f (relating to bombing of public places and facilities),” after “2332b (relating to acts of terrorism transcending national boundaries),” and “2339C (relating to financing of terrorism,” after “2339B (relating to providing material support to terrorist organizations),”.
+<b>2002</b>—Subsec. (g)(5)(B)(i). Pub. L. 107–197 inserted “2332f (relating to bombing of public places and facilities),” after “2332b (relating to acts of terrorism transcending national boundaries),” and “2339C (relating to financing of terrorism,” after “2339B (relating to providing material support to terrorist organizations),”.
 
-2001—Subsec. (f). Pub. L. 107–56, §808(1), inserted “and any violation of section 351(e), 844(e), 844(f)(1), 956(b), 1361, 1366(b), 1366(c), 1751(e), 2152, or 2156 of this title,” before “and the Secretary”.
+<b>2001</b>—Subsec. (f). Pub. L. 107–56, §808(1), inserted “and any violation of section 351(e), 844(e), 844(f)(1), 956(b), 1361, 1366(b), 1366(c), 1751(e), 2152, or 2156 of this title,” before “and the Secretary”.
 
 Subsec. (g)(5)(B)(i) to (iii). Pub. L. 107–56, §808(2), added cls. (i) to (iii) and struck out former cls. (i) to (iii), inserting references to sections 175b, 229, 1030, 1993, and 2339 of this title and striking out references to 1361, 2152, 2156, 2332c of this title in cl. (i) and inserting references to sections 46504, 46505, and 46506 of title 49 in cl. (iii).
 
-1996—Subsec. (b)(1)(A). Pub. L. 104–294, §601(s)(1), struck out “any of the offenders uses” before “the mail or any facility” and inserted “is used” after “foreign commerce”.
+<b>1996</b>—Subsec. (b)(1)(A). Pub. L. 104–294, §601(s)(1), struck out “any of the offenders uses” before “the mail or any facility” and inserted “is used” after “foreign commerce”.
 
 Subsec. (g)(5)(B)(i). Pub. L. 104–294, §601(s)(3), inserted “930(c),” before “956 (relating to conspiracy to injure property of a foreign government)”, “1992,” before “2152 (relating to injury of fortifications, harbor defenses, or defensive sea areas)”, and “2332c,” before “2339A (relating to providing material support to terrorists)”.
 

@@ -47,7 +47,7 @@ Each report required by this section shall be submitted, in the case of CBO, to 
 
 &emsp;&emsp;(A) The maximum deficit amount, the estimated deficit calculated under section 903(b) of this title, the excess deficit, and the margin.
 
-&emsp;&emsp;(B) The amount of reductions required under section 902 of this title, the excess deficit remaining after those reductions havebeen made, and the amount of reductions required from defense accounts and the reductions required from non-defense accounts.
+&emsp;&emsp;(B) The amount of reductions required under section 902 of this title, the excess deficit remaining after those reductions have been made, and the amount of reductions required from defense accounts and the reductions required from non-defense accounts.
 
 &emsp;&emsp;(C) The sequestration percentage necessary to achieve the required reduction in defense accounts under section 903(d) of this title.
 
@@ -127,7 +127,7 @@ In all reports required by this section, OMB shall use the same economic and tec
 
 #### Termination of Section
 
-<i>Section expired Sept. 30, 2006. See section 275(b) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note under section 900 of this title.</i>
+<i>Section expired Sept. 30, 2006. See section 275(b) of Pub. L. 99–177, as amended, set out as</i><i>an Effective and Termination Dates note under section 900 of this title.</i>
 
 #### Codification
 
@@ -189,7 +189,7 @@ Amounts Restored.—Any action taken to implement the orders referred to in subs
 
 Furloughed Employees.—(1) Federal employees furloughed as a result of the lapse in appropriations from midnight October 5, 1990, until the enactment of House Joint Resolution 666 \[Pub. L. 101–412, which was approved Oct. 9, 1990\] shall be compensated at their standard rate of compensation for the period during which there was a lapse in appropriations.
 
-“(2) All obligations incurred in anticipation of the appropriations made and authority granted by House Joint Resolution 666 for the purposes of maintainingthe essential level of activity to protect life and property and bringing about orderly termination of government functions are hereby ratified and approved if otherwise in accord with the provisions of that Act \[Pub. L. 101–412, Oct. 9, 1990, 104 Stat. 894\].”
+“(2) All obligations incurred in anticipation of the appropriations made and authority granted by House Joint Resolution 666 for the purposes of maintaining the essential level of activity to protect life and property and bringing about orderly termination of government functions are hereby ratified and approved if otherwise in accord with the provisions of that Act \[Pub. L. 101–412, Oct. 9, 1990, 104 Stat. 894\].”
 
 Pub. L. 101–467, §105, Oct. 28, 1990, 104 Stat. 1087, provided that:
 
@@ -261,7 +261,7 @@ Initial Order of the President of the United States, Aug. 25, 1990, 55 F.R. 3513
 
 Pub. L. 101–239, title VI, §6101, Dec. 19, 1989, 103 Stat. 2168, provided that: “Notwithstanding any other provision of law (including any other provision of this Act, other than section 6201 \[set out below\]), the reductions in the amount of payments required under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] made by the final sequester order issued by the President on October 16, 1989, pursuant to section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(b)\] shall continue to be effective (as provided by sections 252(a)(4)(B) and 256(d)(2) of such Act \[2 U.S.C. 902(a)(4)(B), 906(d)(2)\]) through March 31, 1990, with respect to payments for items and services under part B of such title \[42 U.S.C. 1395j et seq.\].”
 
-Pub. L. 101–239, title VI, §6201, Dec. 19, 1989, 103 Stat. 2225, provided that: “Notwithstanding any other provision of law (including section 11002 \[set out below\] or any other provision of this Act), the reductions in the amount of payments required under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] made by the final sequester order issued by the President on October 16, 1989 \[set out below\], pursuant to section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(b)\] shall continue to be effective (as provided by sections 252(a)(4)(B) and 256(d)(2) of such Act \[2 U.S.C. 902(a)(4)(B), 906(d)(2)\]) through December 31, 1989, with respect to payments under section 1833(a)(1)(A) or 1876 of the Social Security Act \[42 U.S.C. 1395<i>l</i>(a)(1)(A), 1395mm\], section 402 of the Social Security Amendments of 1967 \[section 402 of Pub. L. 90–248, enacting 42 U.S.C. 1395b–1, and amending 42 U.S.C. 1395<i>ll</i>\], or section 222 of the Social Security Amendments of 1972 \[section 222 of Pub. L. 92–603, amending 42 U.S.C. 1395b–1 and enacting provisions set out as a note under 42 U.S.C. 1395b–1\]. Each such payment made during fiscal year 1990 after such date shall be increased by 1.42 percent above what it would otherwise be under this Act.”
+Pub. L. 101–239, title VI, §6201, Dec. 19, 1989, 103 Stat. 2225, provided that: “Notwithstanding any other provision of law (including section 11002 \[set out below\] or any other provision of this Act), the reductions in the amount of payments required under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] made by the final sequester order issued by the President on October 16, 1989 \[set out below\], pursuant to section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(b)\] shall continue to be effective (as provided by sections 252(a)(4)(B) and 256(d)(2) of such Act \[2 U.S.C. 902(a)(4)(B), 906(d)(2)\]) through December 31, 1989, with respect to payments under section 1833(a)(1)(A) or 1876 of the Social Security Act \[42 U.S.C. 1395<i>l</i>(a)(1)(A), 1395mm\], section 402 of the Social Security Amendments of 1967 \[section 402 of Pub. L. 90–248, enacting 42 U.S.C. 1395b–1, and amending 42 U.S.C. 1395<i>ll</i>\], or section 222 of the Social Security Amendments of 1972 \[section 222 of Pub. L. 92–603,amending 42 U.S.C. 1395b–1 and enacting provisions set out as a note under 42 U.S.C. 1395b–1\]. Each such payment made during fiscal year 1990 after such date shall be increased by 1.42 percent above what it would otherwise be under this Act.”
 
 Pub. L. 101–239, title XI, §11002, Dec. 19, 1989, 103 Stat. 2490, provided that:
 

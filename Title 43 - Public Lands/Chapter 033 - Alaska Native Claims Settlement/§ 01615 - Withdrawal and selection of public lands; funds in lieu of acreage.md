@@ -2,7 +2,7 @@
 
 #### (a) Withdrawal of public lands; list of Native villages
 
-All public lands in each township that encloses all or any part of a Native village listed below, and in each township that is contiguous to or corners on such township, except lands withdrawn or reserved for national defense purposes, are hereby withdrawn, subject to valid existing rights, from all forms of appropriation under the public land laws, including the mining and mineral leasing laws, and from selection under the Alaska Statehood Act, as amended:
+All public lands in each township that encloses all or any part of a Native village listedbelow, and in each township that is contiguous to or corners on such township, except lands withdrawn or reserved for national defense purposes, are hereby withdrawn, subject to valid existing rights, from all forms of appropriation under the public land laws, including the mining and mineral leasing laws, and from selection under the Alaska Statehood Act, as amended:
 
 &emsp;Angoon, Southeast.
 
@@ -40,17 +40,13 @@ The funds appropriated by the Act of July 9, 1968 (82 Stat. 307), to pay the jud
 
 #### References in Text
 
-The public land laws, referred to in subsec. (a), are classified generally to this title.
-
-The mining laws and the mineral leasing laws, referred to in subsec. (a), are classified generally to Title 30, Mineral Lands and Mining.
-
 The Alaska Statehood Act, as amended, referred to in subsec. (a), is Pub. L. 85–508, July 7, 1958, 72 Stat. 239, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
 Act of July 9, 1968 (82 Stat. 307), referred to in subsec. (c), is Pub. L. 90–392, July 9, 1968, 82 Stat. 307, known as the Second Supplemental Appropriation Act, 1968, which is not classified to the Code.
 
 The United States Court of Claims, referred to in subsec. (c), and the United States Court of Customs and Patent Appeals were merged effective Oct. 1, 1982, into a new United States Court of Appeals for the Federal Circuit by Pub. L. 97–164, Apr. 2, 1982, 96 Stat. 25, which also created a United States Claims Court \[now United States Court of Federal Claims\] that inherited the trial jurisdiction of the Court of Claims. See sections 48, 171 et seq., 791 et seq., and 1491 et seq. of Title 28, Judiciary and Judicial Procedure.
 
-Act of July 13, 1970 (84 Stat. 431), referred to in subsec. (c), is Pub. L. 91–335, July 13, 1970, 84 Stat. 431, which enacted section 1211 of Title 25, Indians. For complete classification of this Act to the Code, see Tables.
+Act of July 13, 1970 (84 Stat. 431), referred to in subsec. (c), is Pub. L. 91–335, July 13, 1970, 84 Stat. 431,which enacted section 1211 of Title 25, Indians. For complete classification of this Act to the Code, see Tables.
 
 Act of June 18, 1934, as amended by the Act of May 1, 1936, referred to in subsec. (d)(1), is act June 18, 1934, ch. 576, 48 Stat. 984, as amended by act May 1, 1936, ch. 254, §1, 49 Stat. 1250, popularly known as the Indian Reorganization Act, is classified generally to subchapter V (§461 et seq.) of chapter 14 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 461 of Title 25 and Tables.
 
@@ -58,9 +54,9 @@ Act of September 2, 1957, referred to in subsec. (d)(1), is Pub. L. 85–271, Se
 
 #### Amendments
 
-1977—Subsec. (b). Pub. L. 95–178 struck out provisions relating to allocations received by the Regional Corporation for the southeastern Alaska region under section 1613(h)(8) of this title and selection and conveyance of such allocated lands.
+<b>1977</b>—Subsec. (b). Pub. L. 95–178 struck out provisions relating to allocations received by the Regional Corporation for the southeastern Alaska region under section 1613(h)(8) of this title and selection and conveyance of such allocated lands.
 
-1976—Subsec. (a). Pub. L. 94–456, §1(a), struck out “Klukwan, Southeast.” from list of villages.
+<b>1976</b>—Subsec. (a). Pub. L. 94–456, §1(a), struck out “Klukwan, Southeast.” from list of villages.
 
 Subsec. (b). Pub. L. 94–204, §10, inserted provisions relating to the selection and conveyance of such allocation as the Regional Corporation for the southeastern Alaska region shall receive.
 

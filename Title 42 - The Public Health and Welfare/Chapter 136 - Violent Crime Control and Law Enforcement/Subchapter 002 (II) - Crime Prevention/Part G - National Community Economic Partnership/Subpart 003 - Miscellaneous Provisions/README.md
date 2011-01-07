@@ -1,7 +1,5 @@
 subpart 3—miscellaneous provisions
 
-<i><sup>1</sup></i><i> So in original. Probably should be paragraph “(3)”.</i>
-
 
 ---
 

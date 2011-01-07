@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The President may contribute up to 75 percent of the cost of hazard mitigation measures whichthe President has determined are cost-effective and which substantially reduce the risk of future damage, hardship, loss, or suffering in any area affected by a major disaster. Such measures shall be identified following the evaluation of natural hazards under section 5165 of this title and shall be subject to approval by the President. Subject to section 5165 of this title, the total of contributions under this section for a major disaster shall not exceed 15 percent for amounts not more than $2,000,000,000, 10 percent for amounts of more than $2,000,000,000 and not more than $10,000,000,000, and 7.5 percent on amounts of more than $10,000,000,000 and not more than $35,333,000,000 of the estimated aggregate amount of grants to be made (less any associated administrative costs) under this chapter with respect to the major disaster.
+The President may contribute up to 75 percent of the cost of hazard mitigation measures which the President has determined are cost-effective and which substantially reduce the risk of future damage, hardship, loss, or suffering in any area affected by a major disaster. Such measures shall be identified following the evaluation of natural hazards under section 5165 of this title and shall be subject to approval by the President. Subject to section 5165 of this title, the total of contributions under this section for a major disaster shall not exceed 15 percent for amounts not more than $2,000,000,000, 10 percent for amounts of more than $2,000,000,000 and not more than $10,000,000,000, and 7.5 percent on amounts of more than $10,000,000,000 and not more than $35,333,000,000 of the estimated aggregate amount of grants to be made (less any associated administrative costs) under this chapter with respect to the major disaster.
 
 #### (b) Property acquisition and relocation assistance
 
@@ -66,7 +66,11 @@ The President may contribute up to 75 percent of the cost of hazard mitigation m
 
 &emsp;The President shall provide for periodic audits of the hazard mitigation grant programs administered by States under this subsection.
 
-(Pub. L. 93–288, title IV, §404, as added Pub. L. 100–707, title I, §106(a)(3), Nov. 23, 1988, 102 Stat. 4698; amended Pub. L. 103–181, §§2(a), 3, Dec. 3, 1993, 107 Stat. 2054; Pub. L. 106–390, title I, §104(c)(1), title II, §204, Oct. 30, 2000, 114 Stat. 1559, 1561; Pub. L. 108–7, div. K, title IV, §417, Feb. 20, 2003, 117 Stat. 525; Pub. L. 109–295, title VI, §§612(c), 684, Oct. 4, 2006, 120 Stat. 1410, 1447.)
+(Pub. L. 93–288, title IV, §404, as added Pub. L. 100–707, title I, §106(a)(3), Nov. 23, 1988, 102 Stat. 4698; amended Pub. L. 103–181, §§2(a), 3, Dec. 3, 1993, 107 Stat. 2054; Pub. L. 106–390, title I, §104(c)(1), title II, §204, Oct. 30, 2000, 114 Stat. 1559, 1561; Pub. L. 108–7, div. K, title IV, §417, Feb. 20, 2003, 117 Stat. 525; Pub. L. 109–295, title VI, §684, Oct. 4, 2006, 120 Stat. 1447; Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Prior Provisions
 
@@ -74,19 +78,17 @@ A prior section 404 of Pub. L. 93–288 was classified to section 5174 of this t
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–295, §684, in last sentence substituted “15 percent for amounts not more than $2,000,000,000, 10 percent for amounts of more than $2,000,000,000 and not more than $10,000,000,000, and 7.5 percent on amounts of more than $10,000,000,000 and not more than $35,333,000,000” for “7.5 percent”.
+<b>2011</b>—Subsec. (b)(1), (2). Pub. L. 111–351 substituted “Administrator” for “Director” wherever appearing.
 
-2003—Subsec. (a). Pub. L. 108–7 substituted “7.5 percent” for “15 percent”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–295, in last sentence, substituted “15 percent for amounts not more than $2,000,000,000, 10 percent for amounts of more than $2,000,000,000 and not more than $10,000,000,000, and 7.5 percent on amounts of more than $10,000,000,000 and not more than $35,333,000,000” for “7.5 percent”.
 
-2000—Subsec. (a). Pub. L. 106–390, §104(c)(1), substituted “section 5165” for “section 5176” in second sentence and “Subject to section 5165 of this title, the total” for “The total” in third sentence.
+<b>2003</b>—Subsec. (a). Pub. L. 108–7 substituted “7.5 percent” for “15 percent”.
+
+<b>2000</b>—Subsec. (a). Pub. L. 106–390, §104(c)(1), substituted “section 5165” for “section 5176” in second sentence and “Subject to section 5165 of this title, the total” for “The total” in third sentence.
 
 Subsec. (c). Pub. L. 106–390, §204, added subsec. (c).
 
-1993—Pub. L. 103–181 designated existing provisions as subsec. (a), inserted heading, substituted “75 percent” for “50 percent” in first sentence, substituted “15 percent of the estimated aggregate amount of grants to be made (less any associated administrative costs) under this chapter with respect to the major disaster” for “10 percent of the estimated aggregate amounts of grants to be made under section 5172 of this title with respect to such major disaster” in last sentence, and added subsec. (b).
-
-#### Change of Name
-
-“Administrator of the Federal Emergency Management Agency” and “Administrator” substituted for “Director of the Federal Emergency Management Agency” and “Director”, respectively, in subsec. (b)(1), (2) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+<b>1993</b>—Pub. L. 103–181 designated existing provisions as subsec. (a), inserted heading, substituted “75 percent” for “50 percent” in first sentence, substituted “15 percent of the estimated aggregate amount of grants to be made (less any associated administrative costs) under this chapter with respect to the major disaster” for “10 percent of the estimated aggregate amounts of grants to be made under section 5172 of this title with respect to such major disaster” in last sentence, and added subsec. (b).
 
 #### Effective Date of 1993 Amendment
 

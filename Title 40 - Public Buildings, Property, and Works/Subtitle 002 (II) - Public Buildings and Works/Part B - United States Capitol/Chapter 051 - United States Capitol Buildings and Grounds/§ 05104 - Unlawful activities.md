@@ -106,7 +106,7 @@ Parades, Assemblages, and Display of Flags.—Except as provided in section 5106
 
 &emsp;(2) display in the Grounds a flag, banner, or device designed or adapted to bring into public notice a party, organization, or movement.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1176; Pub. L. 110–161, div. H, title I, §1004(d)(2)(A)(iii), Dec. 26, 2007, 121 Stat. 2234; Pub. L. 110–178, §4(b)(1)(C), Jan. 7, 2008, 121 Stat. 2552.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1176; Pub. L. 110–161, div. H, title I, §1004(d)(2)(A)(iii), Dec. 26, 2007, 121 Stat. 2234; Pub. L. 110–178, §4(b)(1)(C),Jan. 7, 2008, 121 Stat. 2552; Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
 
 Historical and Revision Notes
 
@@ -162,9 +162,15 @@ The Act of July 8, 1932, referred to in subsec. (a)(2)(A), is act July 8, 1932, 
 
 #### Amendments
 
-2008—Subsec. (e)(2)(C). Pub. L. 110–178 made amendment identical to that made by Pub. L. 110–161. See 2007 Amendment note below.
+<b>2010</b>—Subsec. (e)(2)(C). Pub. L. 111–145 repealed Pub. L. 110–161, §1004(d)(2)(A)(iii). See 2007 Amendment note below.
 
-2007—Subsec. (e)(2)(C). Pub. L. 110–161 added subpar. (C) and struck out former subpar. (C) which read as follows: “with the intent to disrupt the orderly conduct of official business, enter or remain in a room in any of the Capitol Buildings set aside or designated for the use of either House of Congress or a Member, committee, officer, or employee of Congress or either House of Congress;”.
+<b>2008</b>—Subsec. (e)(2)(C). Pub. L. 110–178 added subpar. (C) and struck out former subpar. (C) which read as follows: “with the intent to disrupt the orderly conduct of official business, enter or remain in a room in any of the Capitol Buildings set aside or designated for the use of either House of Congress or a Member, committee, officer, or employee of Congress or either House of Congress;”.
+
+<b>2007</b>—Subsec. (e)(2)(C). Pub. L. 110–161, §1004(d)(2)(A)(iii), which made an amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
+
+#### Effective Date of 2010 Amendment
+
+Repeal of section 1004 of Pub. L. 110–161 by Pub. L. 111–145 effective as if included in the enactment of Pub. L. 110–161 and provisions amended by section 1004 of Pub. L. 110–161 to be restored as if such section had not been enacted, and repeal to have no effect on the enactment or implementation of any provision of Pub. L. 110–178, see section 6(d) of Pub. L. 111–145, set out as a note under section 1901 of Title 2, The Congress.
 
 #### Effective Date of 2008 Amendment
 

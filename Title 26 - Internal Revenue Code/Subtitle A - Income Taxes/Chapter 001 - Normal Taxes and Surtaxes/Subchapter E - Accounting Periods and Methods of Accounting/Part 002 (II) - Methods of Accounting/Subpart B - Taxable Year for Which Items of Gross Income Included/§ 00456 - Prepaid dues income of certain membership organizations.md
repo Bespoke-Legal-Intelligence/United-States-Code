@@ -30,7 +30,7 @@ In the case of any prepaid dues income to which this section applies—
 
 #### (B) Without consent
 
-&emsp;&emsp;A taxpayer may, without the consent of the Secretary, make an election under this section for its first taxable year in which it receives prepaid dues income in the trade or business. Such election shall be made not later than the time prescribed by law for filing the return for the taxable year (including extensions thereof) with respect to which such election is made.
+&emsp;&emsp;A taxpayer may, without the consent of the Secretary, make an election under thissection for its first taxable year in which it receives prepaid dues income in the trade or business. Such election shall be made not later than the time prescribed by law for filing the return for the taxable year (including extensions thereof) with respect to which such election is made.
 
 #### (4) Period to which election applies
 
@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### Amendments
 
-1976—Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 Subsec. (c)(3)(B). Pub. L. 94–455, §1901(a)(68), substituted “for its first taxable year” for “for its first taxable year (i) which begins after December 31, 1960, and (ii)”.
 

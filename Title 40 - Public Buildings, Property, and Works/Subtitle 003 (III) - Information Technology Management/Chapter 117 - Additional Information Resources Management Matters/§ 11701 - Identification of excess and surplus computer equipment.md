@@ -28,5 +28,5 @@ A prior section 11701, Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1250, related
 
 #### Amendments
 
-2002—Pub. L. 107–314 renumbered section 11702 of this title as this section.
+<b>2002</b>—Pub. L. 107–314 renumbered section 11702 of this title as this section.
 

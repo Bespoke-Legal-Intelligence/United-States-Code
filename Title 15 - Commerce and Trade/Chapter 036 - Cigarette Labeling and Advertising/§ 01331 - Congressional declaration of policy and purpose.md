@@ -10,9 +10,9 @@ It is the policy of the Congress, and the purpose of this chapter, to establish 
 
 #### Amendments
 
-1984—Par. (1). Pub. L. 98–474 substituted “about any adverse health effects of cigarette smoking by inclusion of warning notices on each package of cigarettes and in each advertisement;” for “that cigarette smoking may be hazardous to health by inclusion of a warning to that effect on each package of cigarettes;”.
+<b>1984</b>—Par. (1). Pub. L. 98–474 substituted “about any adverse health effects of cigarette smoking by inclusion of warning notices on each package of cigarettes and in each advertisement;” for “that cigarette smoking may be hazardous to health by inclusion of a warning to that effect on each package of cigarettes;”.
 
-1970—Pub. L. 91–222 reenacted section without change.
+<b>1970</b>—Pub. L. 91–222 reenacted section without change.
 
 #### Effective Date of 1970 Amendment
 

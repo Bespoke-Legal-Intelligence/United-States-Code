@@ -114,7 +114,7 @@ New
 
 Section 31322 sets out the conditions that must be met for a mortgage to be considered a preferred mortgage, and the types of endorsements that the Secretary must make on any certificate of documentation of a vessel that is to be covered by a preferred mortgage.
 
-Subsection (a)(1) makes many substantive changes to law. While a preferred mortgage must still include the whole of a vessel, this subsection eliminates the exception of certain vessels under 25 gross tons. It allows a vessel for which an application for documentation has been filed to have a preferred mortgage. It allows a mortgage to be a preferred mortgage from the time all four conditions are met, rather than from when the vessel is finally documented. Therefore, a mortgage will usually attain its preferred status when the application for documentation and the instrument havebeen filed. This subsection changes the requirement that all documented vessels have as a mortgagee a person that is a citizen of the United States, as defined in section 2 of the Shipping Act, 1916, and allows a State, the United States Government, a federally insured depository institution, or any other person approved by the Secretary to be a mortgagee.
+Subsection (a)(1) makes many substantive changes to law. While a preferred mortgage must still include the whole of a vessel, this subsection eliminates the exception of certain vessels under 25 gross tons. It allows a vessel for which an application for documentation has been filed to have a preferred mortgage. It allows a mortgage to be a preferred mortgage from the time all four conditions are met, rather than from when the vessel is finally documented. Therefore, a mortgage will usually attain its preferred status when the application for documentation and the instrument have been filed. This subsection changes the requirement that all documented vessels have as a mortgagee a person that is a citizen of the United States, as defined in section 2 of the Shipping Act, 1916, and allows a State, the United States Government, a federally insured depository institution, or any other person approved by the Secretary to be a mortgagee.
 
 Subsection (a)(2) makes a substantive change to law exempting fishing, fish processing, and fish tender vessels, and vessels operated only for pleasure from the mortgagee restrictions, since these vessels do not have significant national defense use.
 
@@ -142,11 +142,11 @@ Paragraph (3) of this subsection ensures that a preferred mortgage under this su
 
 Subsection (e) of section 31322 clarifies the validity of preferred mortgages made under subsection (d). In the case of a State titled vessel covered by a preferred mortgage for which a new titling application is filed, the validity of the mortgage is governed by the law of the titling State in which the mortgage became preferred. In the case of a documented vessel covered by a preferred mortgage for which an application for a State title is filed, or a State titled vessel covered by a preferred mortgage for which an application for documentation is filed, the validity of the preferred mortgage is governed by section 31322(a) of title 46 (as enacted by this Act).
 
-Information on vessels with preferred mortgages made under State law will be available to creditors from the vessel identification system under chapter 125 of title 46 (as enacted by this Act).
+Information on vessels with preferred mortgages made under State law will be available to creditorsfrom the vessel identification system under chapter 125 of title 46 (as enacted by this Act).
 
 #### Amendments
 
-2006—Subsec. (a)(4)(A). Pub. L. 109–304, §15(29)(A), substituted “section 12113(c)” for “section 12102(c)”.
+<b>2006</b>—Subsec. (a)(4)(A). Pub. L. 109–304, §15(29)(A), substituted “section 12113(c)” for “section 12102(c)”.
 
 Subsec. (a)(4)(E). Pub. L. 109–304, §15(29)(B), substituted “for purposes of documentation under section 12103” for “under section 12102(a)”.
 
@@ -154,7 +154,7 @@ Subsec. (d)(1)(A). Pub. L. 109–304, §16(c)(7), substituted “section 13107(b
 
 Subsec. (f)(2). Pub. L. 109–304, §15(29)(C), substituted “section 12113(c)” for “section 12102(c)”.
 
-2001—Subsec. (a)(4)(B) to (F). Pub. L. 107–20, §2202(b), added subpars. (B) to (F) and struck out former subpars. (B) and (C) which read as follows:
+<b>2001</b>—Subsec. (a)(4)(B) to (F). Pub. L. 107–20, §2202(b), added subpars. (B) to (F) and struck out former subpars. (B) and (C) which read as follows:
 
 “(B) a state or federally chartered financial institution that satisfies the controlling interest criteria of section 2(b) of the Shipping Act, 1916 (46 U.S.C. 802(b));
 
@@ -162,9 +162,9 @@ Subsec. (f)(2). Pub. L. 109–304, §15(29)(C), substituted “section 12113(c)�
 
 Subsecs. (f) to (h). Pub. L. 107–20, §2202(c), added subsecs. (f) to (h).
 
-1999—Subsec. (a)(4). Pub. L. 106–31 made technical amendment to directory language of Pub. L. 105–277, §202(b). See 1998 Amendment note below.
+<b>1999</b>—Subsec. (a)(4). Pub. L. 106–31 made technical amendment to directory language of Pub. L. 105–277, §202(b). See 1998 Amendment note below.
 
-1998—Subsec. (a)(4). Pub. L. 105–277, §202(b), as amended by Pub. L. 106–31, added par. (4).
+<b>1998</b>—Subsec. (a)(4). Pub. L. 105–277, §202(b), as amended by Pub. L. 106–31, added par. (4).
 
 Subsec. (b). Pub. L. 105–383, §401(c)(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “A preferred mortgage filed or recorded under this chapter may have any rate of interest that the parties to the mortgage agree to.”
 
@@ -174,9 +174,9 @@ Subsec. (d)(2). Pub. L. 105–383, §401(c)(4), substituted “mortgages, securi
 
 Subsec. (d)(3). Pub. L. 105–383, §401(c)(3), added par. (3) and struck out former par. (3) which read as follows: “A preferred mortgage under this subsection continues to be a preferred mortgage if the vessel is no longer titled in the State where the mortgage was made.”
 
-1996—Subsec. (a). Pub. L. 104–324 amended subsec. (a) generally. Prior to amendment, subsec. (a) consisted of 2 pars. with substantially similar provisions defining a preferred mortgage except that it included a mortgage with a State, the United States Government, a federally insured depository institution, or specified individual as mortgagee.
+<b>1996</b>—Subsec. (a). Pub. L. 104–324 amended subsec. (a) generally. Prior to amendment, subsec. (a) consisted of 2 pars. with substantially similar provisions defining a preferred mortgage except that it included a mortgage with a State, the United States Government, a federally insured depository institution, or specified individual as mortgagee.
 
-1989—Subsec. (a)(2). Pub. L. 101–225, §303(3)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Paragraph (1)(D) of this subsection does not apply to a vessel operated only as a fishing vessel, fish processing vessel, or a fish tender vessel (as defined in section 2101 of this title) or to a vessel operated only for pleasure.”
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–225, §303(3)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Paragraph (1)(D) of this subsection does not apply to a vessel operated only as a fishing vessel, fish processing vessel, or a fish tender vessel (as defined in section 2101 of this title) or to a vessel operated only for pleasure.”
 
 Subsec. (d)(1). Pub. L. 101–225, §303(3)(B), substituted “granting a security interest perfected under State law” for “representing financing of a vessel under State law that is made under applicable State law”.
 

@@ -146,17 +146,17 @@ A prior section 826 was renumbered section 835 of this title by Pub. L. 99–514
 
 #### Amendments
 
-1999—Subsec. (b)(2). Pub. L. 106–170, §532(c)(3), substituted “section 1221(a)(2)” for “section 1221(2)”.
+<b>1999</b>—Subsec. (b)(2). Pub. L. 106–170, §532(c)(3), substituted “section 1221(a)(2)” for “section 1221(2)”.
 
 Subsec. (c)(3). Pub. L. 106–170, §532(c)(1)(D), substituted “section 1221(a)” for “section 1221”.
 
-1996—Subsec. (g). Pub. L. 104–191 added subsec. (g).
+<b>1996</b>—Subsec. (g). Pub. L. 104–191 added subsec. (g).
 
-1988—Subsec. (a)(6). Pub. L. 100–647, §1011(e)(5)(A), in subpar. (A) substituted “eligible deferred compensation plan” for “eligible State deferred compensation plan”, and in subpar. (B), inserted “or any organization (other than a governmental unit) exempt from tax under this subtitle,” after “foregoing,” and substituted “agency or instrumentality, or organization” for “or agency or instrumentality”.
+<b>1988</b>—Subsec. (a)(6). Pub. L. 100–647, §1011(e)(5)(A), in subpar. (A) substituted “eligible deferred compensation plan” for “eligible State deferred compensation plan”, and in subpar. (B), inserted “or any organization (other than a governmental unit) exempt from tax under this subtitle,” after “foregoing,” and substituted “agency or instrumentality, or organization” for “or agency or instrumentality”.
 
 Subsec. (f)(3). Pub. L. 100–647, §1010(k), added par. (3).
 
-1986—Subsec. (a)(3). Pub. L. 99–514, §1136(b), substituted “(26), and (27)” for “and (26)”.
+<b>1986</b>—Subsec. (a)(3). Pub. L. 99–514, §1136(b), substituted “(26), and (27)” for “and (26)”.
 
 Pub. L. 99–514, §1112(d)(4), substituted “(22), and (26)” for “and (22)”.
 
@@ -166,7 +166,7 @@ Subsec. (a)(6)(A). Pub. L. 99–514, §1821(n), in amending subpar. (A) generall
 
 Subsec. (e). Pub. L. 99–514, §1821(<i>o</i>), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “If an election under section 1504(c)(2) is in effect with respect to an affiliated group for the taxable year, all items of the members of such group which are not life insurance companies shall not be taken into account in determining the amount of the tentative LICTI of members of such group which are life insurance companies.”
 
-1984—Subsec. (b)(1)(A). Pub. L. 98–369, §1001(b)(10), (e), substituted “6 months” for “1 year” in two places, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+<b>1984</b>—Subsec. (b)(1)(A). Pub. L. 98–369, §1001(b)(10), (e), substituted “6 months” for “1 year” in two places, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
 #### Effective Date of 1999 Amendment
 

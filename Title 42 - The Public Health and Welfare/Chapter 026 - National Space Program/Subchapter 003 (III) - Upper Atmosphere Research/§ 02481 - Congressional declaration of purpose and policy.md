@@ -1,8 +1,0 @@
-### §2481. Congressional declaration of purpose and policy
-
-(a) The purpose of this subchapter is to authorize and direct the Administration to develop and carry out a comprehensive program of research, technology, and monitoring of the phenomena of the upper atmosphere so as to provide for an understanding of and to maintain the chemical and physical integrity of the Earth's upper atmosphere.
-
-(b) The Congress declares that it is the policy of the United States to undertake an immediate and appropriate research, technology, and monitoring program that will provide for understanding the physics and chemistry of the Earth's upper atmosphere.
-
-(Pub. L. 85–568, title IV, §401, as added Pub. L. 94–39, §8, June 19, 1975, 89 Stat. 222.)
-

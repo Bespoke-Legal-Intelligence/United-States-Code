@@ -6,5 +6,5 @@ For the purposes of this title the consent of the United States is given to any 
 
 #### Amendments
 
-1998—Pub. L. 105–178 substituted “State transportation department” for “State highway department”.
+<b>1998</b>—Pub. L. 105–178 substituted “State transportation department” for “State highway department”.
 

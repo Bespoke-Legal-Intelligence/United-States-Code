@@ -42,7 +42,7 @@ In subsection (a), the words “final . . . recovered . . . duly allowed by 
 
 In subsection (b)(1), the words “due from the plaintiff to the United States” are omitted as surplus.
 
-In subsection (b)(2)(A), the words “of such judgment”, “be sufficient to”, and “charges and” are omitted as surplus. The words “of bringing a civil action” are substituted for “in prosecuting the debt” for consistency in the revised title and with other titles of the United States Code. The words “of the United States to final judgment” and “to the United States” are omitted as surplus.
+In subsection (b)(2)(A), the words “of such judgment”, “be sufficient to”, and “charges and” are omitted assurplus. The words “of bringing a civil action” are substituted for “in prosecuting the debt” for consistency in the revised title and with other titles of the United States Code. The words “of the United States to final judgment” and “to the United States” are omitted as surplus.
 
 Subsection (b)(2)(B) is substituted for 31:227(3d sentence) for consistency and to eliminate unnecessary words.
 
@@ -50,7 +50,7 @@ In subsection (c), the words “for debt and costs”, “thereon”, and “fro
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–316, §202(p)(1), (2), substituted “Secretary of the Treasury” for “Comptroller General” before “shall withhold” and “Secretary” for “Comptroller General” after “presented to the”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–316, §202(p)(1), (2), substituted “Secretary of the Treasury” for “Comptroller General” before “shall withhold” and “Secretary” for “Comptroller General” after “presented to the”.
 
 Subsecs. (b), (c). Pub. L. 104–316, §202(p)(2), substituted “Secretary” for “Comptroller General” wherever appearing.
 

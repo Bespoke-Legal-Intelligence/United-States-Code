@@ -38,15 +38,15 @@ The Secretary, in consultation with the Administrator of General Services, shall
 
 #### Amendments
 
-2007—Subsec. (a)(2). Pub. L. 110–140 inserted “and any termination penalty exposure” after “from such contracts”.
+<b>2007</b>—Subsec. (a)(2). Pub. L. 110–140 inserted “and any termination penalty exposure” after “from such contracts”.
 
-2005—Subsec. (b). Pub. L. 109–58 inserted “the President and” before “Congress” in heading and “President and” before “Congress” in introductory provisions.
+<b>2005</b>—Subsec. (b). Pub. L. 109–58 inserted “the President and” before “Congress” in heading and “President and” before “Congress” in introductory provisions.
 
-1995—Subsec. (b)(1). Pub. L. 104–66, §1052(d)(1), added subpar. (B) and redesignated former subpar. (B) as (C).
+<b>1995</b>—Subsec. (b)(1). Pub. L. 104–66, §1052(d)(1), added subpar. (B) and redesignated former subpar. (B) as (C).
 
 Subsec. (b)(4). Pub. L. 104–66, §1052(d)(2)–(4), added par. (4).
 
-1992—Subsec. (a)(2). Pub. L. 102–486, §152(i)(1)(A), substituted “8256(a)(2)” for “8256(b)”.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–486, §152(i)(1)(A), substituted “8256(a)(2)” for “8256(b)”.
 
 Subsec. (b). Pub. L. 102–486, §152(i)(1)(B), substituted “, not later than April 2 of each year,” for “annually,”.
 
@@ -54,7 +54,7 @@ Subsec. (b)(1). Pub. L. 102–486, §152(g)(1), substituted “including—” a
 
 Subsec. (c). Pub. L. 102–486, §152(g)(2), added subsec. (c).
 
-1988—Pub. L. 100–615 amended section generally, substituting provisions relating to reports to Secretary and Congress for former requirement that in leasing Federal buildings for its own use or that of another Federal agency, each Federal agency should give appropriate preference to buildings which used solar heating and cooling equipment or other renewable energy sources or which otherwise minimized life cycle costs.
+<b>1988</b>—Pub. L. 100–615 amended section generally, substituting provisions relating to reports to Secretary and Congress for former requirement that in leasing Federal buildings for its own use or that of another Federal agency, each Federal agency should give appropriate preference to buildings which used solar heating and cooling equipment or other renewable energy sources or which otherwise minimized life cycle costs.
 
 #### Effective Date of 2007 Amendment
 

@@ -48,13 +48,13 @@ In subsection (b), the words “withdrawal or restoration” are substituted for
 
 #### Amendments
 
-1991—Subsecs. (c), (d). Pub. L. 102–190 redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows:
+<b>1991</b>—Subsecs. (c), (d). Pub. L. 102–190 redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows:
 
 “(1) The Director of the Congressional Budget Office shall estimate each year the effect on the Federal deficit of payments and adjustments made with respect to sections 1552 and 1553 of this title. Such estimate shall be made separately for accounts of each agency.
 
 “(2) The Director shall include in the annual report of the Director to the Committees on the Budget of the Senate and House of Representatives under paragraph (1) of section 202(f) of the Congressional Budget Act of 1974 a statement of the estimates made pursuant to paragraph (1) of this subsection during the preceding year (including any revisions to estimates contained in earlier reports under such paragraph). The Director shall include in any report under paragraph (2) of that section any revisions to such estimates made since the most recent report under paragraph (1) of such section.”
 
-1990—Pub. L. 101–510 substituted “Audit, control, and reporting” for “Review of appropriation accounts” in section catchline and amended text generally, substituting subsecs. (a) to (d) for former subsecs. (a) and (b) which required the head of each agency to annually review each appropriation account established by the agency under section 1552 of this title.
+<b>1990</b>—Pub. L. 101–510 substituted “Audit, control, and reporting” for “Review of appropriation accounts” in section catchline and amended text generally, substituting subsecs. (a) to (d) for former subsecs. (a) and (b) which required the head of each agency to annually review each appropriation account established by the agency under section 1552 of this title.
 
 #### Change of Name
 

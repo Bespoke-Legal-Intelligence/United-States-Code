@@ -26,9 +26,9 @@ The Association, including its franchise, capital reserves, surplus, security ho
 
 #### (d) Reports
 
-(1) <sup>2</sup> The Association shall transmit to the Congress and the President, not later than 90days after the end of each fiscal year, a comprehensive and detailed report on all activities of the Association during the preceding fiscal year. Each such report shall include (A) the Association's statement of specific and detailed objectives for the activities and programs conducted and assisted under this chapter; (B) statements of the Association's conclusions as to the effectiveness of such activities and programs in meeting the stated objectives and the purposes of this chapter, measured through the end of the preceding fiscal year; (C) recommendations with respect to any legislation or administrative action which the Association deems necessary or desirable; (D) a statistical compilation of the obligations issued, certificates of value issued, securities purchased, and loans made under this chapter; (E) a summary of outstanding problems confronting the Association, in order of priority; (F) all other information required to be submitted to the Congress pursuant to any other provision of this chapter; and (G) the Association's projections and plans for its activities and programs during the next fiscal year.
+(1) <sup>2</sup> The Association shall transmit to the Congress and the President, not later than 90 days after the end of each fiscal year, a comprehensive and detailed report on all activities of the Association during the preceding fiscal year. Each such report shall include (A) the Association's statement of specific and detailed objectives for the activities and programs conducted and assisted under this chapter; (B) statements of the Association's conclusions as to the effectiveness of such activities and programs in meeting the stated objectives and the purposes of this chapter, measured through the end of the preceding fiscal year; (C) recommendations with respect to any legislation or administrative action which the Association deems necessary or desirable; (D) a statistical compilation of the obligations issued, certificates of value issued, securities purchased, and loans made under this chapter; (E) a summary of outstanding problems confronting the Association, in order of priority; (F) all other information required to be submitted to the Congress pursuant to any other provision of this chapter; and (G) the Association's projections and plans for its activities and programs during the next fiscal year.
 
-(2) For the fiscal year beginning October 1, 1977, and ending September 30, 1978, the Association shall transmit to the Congress and the President, not later than 30 days after the end of each quarter of such fiscal year, a comprehensive and detailed report on all expenditures and use of funds during the preceding fiscal quarter, including an assessment of the status of projects for such preceding fiscal quarter and a projection of activities proposed for the next fiscal quarter.
+(2) For the fiscal year beginning October 1, 1977, and ending September 30, 1978, the Association shall transmit to the Congress and thePresident, not later than 30 days after the end of each quarter of such fiscal year, a comprehensive and detailed report on all expenditures and use of funds during the preceding fiscal quarter, including an assessment of the status of projects for such preceding fiscal quarter and a projection of activities proposed for the next fiscal quarter.
 
 (3) The Association shall transmit to the Congress, no later than 30 days after the end of each fiscal quarter, a report with respect to the proceedings before the special court to determine the valuation of rail properties conveyed to the Corporation under section 743 of this title. Each such report shall include—
 
@@ -62,29 +62,29 @@ The Board of Directors of the Association shall adopt procedures to insure (1) t
 
 #### Codification
 
-Subsec. (f), formerly (g), of this section as originally enacted consisted of pars. (1) and (2). Par. (1), whichamended section 856 of former Title 31, Money and Finance, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
+Subsec. (f), formerly (g), of this section as originally enacted consisted of pars. (1) and (2). Par. (1), which amended section 856 of former Title 31, Money and Finance, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
 
 #### Amendments
 
-1983—Subsec. (a)(11). Pub. L. 97–468 added par. (11).
+<b>1983</b>—Subsec. (a)(11). Pub. L. 97–468 added par. (11).
 
-1981—Subsec. (a). Pub. L. 97–35, §1148(a)(1), substituted provisions respecting financial performance monitoring, goal review, etc., for provisions respecting plan preparation and implementation, issuance of obligations, etc.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §1148(a)(1), substituted provisions respecting financial performance monitoring, goal review, etc., for provisions respecting plan preparation and implementation, issuance of obligations, etc.
 
 Subsecs. (b) to (j). Pub. L. 97–35, §1148(a), struck out subsec. (b) which related to additional duties of the Association, and redesignated subsecs. (c) to (j) as (b) to (i), respectively.
 
-1979—Subsec. (e)(3). Pub. L. 96–73, §202, added par. (3).
+<b>1979</b>—Subsec. (e)(3). Pub. L. 96–73, §202, added par. (3).
 
 Subsecs. (h) to (j). Pub. L. 96–73, §203, added subsecs. (h) to (j).
 
-1977—Subsec. (e). Pub. L. 95–199 substituted “Reports” for “Annual report” in heading, redesignated cls. (1) through (7) as cls. (A) through (G) in first par., and added par. (2).
+<b>1977</b>—Subsec. (e). Pub. L. 95–199 substituted “Reports” for “Annual report” in heading, redesignated cls. (1) through (7) as cls. (A) through (G) in first par., and added par. (2).
 
-1976—Subsec. (a)(2). Pub. L. 94–210, §601(c), inserted provisions relating to securities under section 726 of this title and certificates of value under section 746 of this title.
+<b>1976</b>—Subsec. (a)(2). Pub. L. 94–210, §601(c), inserted provisions relating to securities under section 726 of this title and certificates of value under section 746 of this title.
 
 Subsec. (e). Pub. L. 94–210, §607(b), in cl. (4) inserted “, certificates of value issued, securities purchased,” after “obligations issued”.
 
 Subsec. (f). Pub. L. 94–210, §607(c), inserted provisions relating to receipts and disbursements under sections 726 and 746 of this title.
 
-1975—Subsec. (b)(2). Pub. L. 94–5, §2(a)(1), inserted “and express” after “rail” wherever appearing.
+<b>1975</b>—Subsec. (b)(2). Pub. L. 94–5, §2(a)(1), inserted “and express” after “rail” wherever appearing.
 
 Subsec. (b)(7). Pub. L. 94–5, §2(a)(2), substituted “; and” for a period at end of par. (7).
 

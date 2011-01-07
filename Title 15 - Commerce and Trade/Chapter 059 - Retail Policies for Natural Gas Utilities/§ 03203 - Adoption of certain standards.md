@@ -82,11 +82,11 @@ This chapter, referred to in subsec. (b)(6), was in the original “this subtitl
 
 #### Amendments
 
-2007—Subsec. (a)(2). Pub. L. 110–140, §532(c), which directed substitution of “(4), (5), and (6)” for “and (4)” insubsec. (a), was executed by making the substitution in subsec. (a)(2) to reflect the probable intent of Congress.
+<b>2007</b>—Subsec. (a)(2). Pub. L. 110–140, §532(c), which directed substitution of “(4), (5), and (6)” for “and (4)” insubsec. (a), was executed by making the substitution in subsec. (a)(2) to reflect the probable intent of Congress.
 
 Subsec. (b)(5), (6). Pub. L. 110–140, §532(b), added pars. (5) and (6).
 
-1992—Subsec. (a). Pub. L. 102–486, §115(d), in introductory provisions inserted “(or after October 24, 1992, in the case of standards under paragraphs (3), and (4) of subsection (b) of this section)” and in par. (2) substituted “standards established by paragraphs (2), (3) and (4) of subsection (b)” for “standard established by subsection (b)(2)”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–486, §115(d), in introductory provisions inserted “(or after October 24, 1992, in the case of standards under paragraphs (3), and (4) of subsection (b) of this section)” and in par. (2) substituted “standards established by paragraphs (2), (3) and (4) of subsection (b)” for “standard established by subsection (b)(2)”.
 
 Subsec. (b)(3), (4). Pub. L. 102–486, §115(b), added pars. (3) and (4).
 

@@ -118,13 +118,13 @@
 
 #### Amendments
 
-2006—Subsec. (a)(6)(C). Pub. L. 109–435 substituted “is postmarked fewer” for “is mailed fewer”.
+<b>2006</b>—Subsec. (a)(6)(C). Pub. L. 109–435 substituted “is postmarked fewer” for “is mailed fewer”.
 
-1996—Subsec. (a)(6)(A)(i). Pub. L. 104–197, §102(a)(1), inserted “(or, in the case of a Member of the House, fewer than 90 days)” after “60 days”.
+<b>1996</b>—Subsec. (a)(6)(A)(i). Pub. L. 104–197, §102(a)(1), inserted “(or, in the case of a Member of the House, fewer than 90 days)” after “60 days”.
 
 Subsec. (a)(6)(A)(ii)(II). Pub. L. 104–197, §102(a)(2), substituted “90 days” for “60 days”.
 
-1992—Subsec. (a)(7). Pub. L. 102–392, §309(a)(1), substituted “from which the Member was elected” for “of the Member, except that—
+<b>1992</b>—Subsec. (a)(7). Pub. L. 102–392, §309(a)(1), substituted “from which the Member was elected” for “of the Member, except that—
 
 &emsp;“(A) a Member of the House of Representatives may send mass mailings to any area in a county, if any part of the county adjoins or is inside the congressional district of the Member; and
 
@@ -132,7 +132,7 @@ Subsec. (a)(6)(A)(ii)(II). Pub. L. 104–197, §102(a)(2), substituted “90 day
 
 Subsec. (d)(1). Pub. L. 102–392, §309(a)(2), struck out subpar. (A) designation, substituted “the Member” for “he” and a period for “; and”, and struck out subpar. (B) which read as follows: “with respect to a Member of the House of Representatives on and after the date on which the proposed redistricting of congressional districts in his State by legislative or judicial proceedings is initially completed (whether or not the redistricting is actually in effect), within any additional area of each congressional district proposed or established in such redistricting and containing all or part of the area constituting the congressional district from which he was elected, unless and until the congressional district so proposed or established is changed by legislative or judicial proceedings.”
 
-1990—Subsec. (a)(6)(E). Pub. L. 101–520, §311(h)(1), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “For purposes of this section, the term ‘mass mailing’ means newsletters and similar mailings of more than five hundred pieces in which the content of the matter mailed is substantially identical but shall not apply to mailings—
+<b>1990</b>—Subsec. (a)(6)(E). Pub. L. 101–520, §311(h)(1), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “For purposes of this section, the term ‘mass mailing’ means newsletters and similar mailings of more than five hundred pieces in which the content of the matter mailed is substantially identical but shall not apply to mailings—
 
 &emsp;“(i) which are in direct response to communications from persons to whom the matter is mailed;
 
@@ -142,15 +142,15 @@ Subsec. (d)(1). Pub. L. 102–392, §309(a)(2), struck out subpar. (A) designati
 
 Subsec. (a)(7). Pub. L. 101–520, §316, added par. (7).
 
-1989—Subsec. (a)(6). Pub. L. 101–163, §318(3), which directed the substitution of “is postmarked fewer” for “is mailed fewer” in subparagraph (c) of subsec. (a)(6) of this section, was not executed because subsec. (a)(6) does not have a subparagraph (c). See 2006 Amendment note above.
+<b>1989</b>—Subsec. (a)(6). Pub. L. 101–163, §318(3), which directed the substitution of “is postmarked fewer” for “is mailed fewer” in subparagraph (c) of subsec. (a)(6) of this section, was not executed because subsec. (a)(6) does not have a subparagraph (c). See 2006 Amendment note above.
 
 Subsec. (a)(6)(A)(i), (ii)(II). Pub. L. 101–163, §318(1), (2), substituted “is postmarked fewer” for “is mailed fewer”.
 
 Subsec. (a)(6)(F). Pub. L. 101–163, §318(4), added subpar. (F).
 
-1982—Subsec. (b)(1), (2). Pub. L. 97–263 inserted reference to Law Revision Counsel of House of Representatives.
+<b>1982</b>—Subsec. (b)(1), (2). Pub. L. 97–263 inserted reference to Law Revision Counsel of House of Representatives.
 
-1981—Subsec. (a)(3)(F). Pub. L. 97–69, §1, struck out provision relating to mail matter expressing condolences to a person who has suffered a loss.
+<b>1981</b>—Subsec. (a)(3)(F). Pub. L. 97–69, §1, struck out provision relating to mail matter expressing condolences to a person who has suffered a loss.
 
 Subsec. (a)(5). Pub. L. 97–69, §2(a), inserted provision relating to brief references in otherwise frankable mail in subpar. (B)(i), and struck out subpar. (D) which related to mass mailing mailed at or delivered to any postal facility less than 28 days immediately before the date of any primary or general election in which the Member or Member-elect was a candidate for public office. See subsec. (a)(6) of this section.
 
@@ -162,13 +162,13 @@ Subsec. (e). Pub. L. 97–69, §4(a), struck out provisions under which the cost
 
 Subsecs. (f), (g). Pub. L. 97–69, §4(b), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1978—Subsec. (b)(1), (2). Pub. L. 95–521 inserted reference to Senate Legal Counsel.
+<b>1978</b>—Subsec. (b)(1), (2). Pub. L. 95–521 inserted reference to Senate Legal Counsel.
 
-1975—Subsec. (b)(1). Pub. L. 94–177, §1(a), struck out “and” before “each of the elected officers”, and “until the 1st day of April following the expiration of their respective terms of office” after “(other than a Member of the House)”.
+<b>1975</b>—Subsec. (b)(1). Pub. L. 94–177, §1(a), struck out “and” before “each of the elected officers”, and “until the 1st day of April following the expiration of their respective terms of office” after “(other than a Member of the House)”.
 
 Subsec. (b)(3). Pub. L. 94–177, §1(b), added par. (3).
 
-1973—Subsec. (a). Pub. L. 93–191 added subsec. (a). Former first sentence provided in part for franked mail (1) matter, not exceeding 4 pounds in weight, upon official or departmental business, to a Government official, and (2) correspondence, not exceeding 4 ounces in weight, upon official business to any person.
+<b>1973</b>—Subsec. (a). Pub. L. 93–191 added subsec. (a). Former first sentence provided in part for franked mail (1) matter, not exceeding 4 pounds in weight, upon official or departmental business, to a Government official, and (2) correspondence, not exceeding 4 ounces in weight, upon official business to any person.
 
 Subsec. (b)(1). Pub. L. 93–191 incorporated part of former first sentence in provisions designated as subsec. (b)(1), substituted reference to elected officers of House of Representatives (other than a Member of House) for former references to Clerk of House of Representatives and the Sergeant at Arms of House of Representatives, included reference to Legislative Counsel of Senate, substituted the 1st day of April for the thirtieth day of June, and substituted internal reference to subsec. (a)(2) and (3) of this section for former provision respecting franked mail (1) matter, not exceeding 4 pounds in weight, upon official or departmental business, to a Government official, and (2) correspondence, not exceeding 4 ounces in weight, upon official business to any person.
 
@@ -176,7 +176,7 @@ Subsec. (b)(2). Pub. L. 93–191 incorporated former second sentence in provisio
 
 Subsecs. (c) to (f). Pub. L. 93–191 added subsecs. (c) to (f).
 
-1971—Pub. L. 92–51 inserted reference to Legislative Counsel of House of Representatives.
+<b>1971</b>—Pub. L. 92–51 inserted reference to Legislative Counsel of House of Representatives.
 
 #### Effective Date of 1996 Amendment
 

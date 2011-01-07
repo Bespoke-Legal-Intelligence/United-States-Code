@@ -10,13 +10,13 @@ Except for the last proviso this section was from act June 20, 1918. The last pr
 
 #### Amendments
 
-1972—Pub. L. 92–455 inserted cl. (3), substituted “three” for “five” years of service in first proviso, and inserted proviso for reduction of retirement pay computed under cl. (3) by one-sixth of 1 per centum for each full month the officer or employee is under fifty-five years of age at the date of retirement.
+<b>1972</b>—Pub. L. 92–455 inserted cl. (3), substituted “three” for “five” years of service in first proviso, and inserted proviso for reduction of retirement pay computed under cl. (3) by one-sixth of 1 per centum for each full month the officer or employee is under fifty-five years of age at the date of retirement.
 
-1967—Pub. L. 90–164 lowered voluntary retirement age from sixty to fifty-five years for those officers and employees having thirty years of active service.
+<b>1967</b>—Pub. L. 90–164 lowered voluntary retirement age from sixty to fifty-five years for those officers and employees having thirty years of active service.
 
-1957—Pub. L. 85–142 inserted provisions allowing waiver of retirement pay.
+<b>1957</b>—Pub. L. 85–142 inserted provisions allowing waiver of retirement pay.
 
-1955—Act June 21, 1955, permitted retirement of officers and employees who have attained 60 years of age and have served for 30 years, or who have reached 62 years of age and have served for 25 years.
+<b>1955</b>—Act June 21, 1955, permitted retirement of officers and employees who have attained 60 years of age and have served for 30 years, or who have reached 62 years of age and have served for 25 years.
 
 #### Effective Date of 1972 Amendment
 

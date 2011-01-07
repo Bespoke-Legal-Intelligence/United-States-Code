@@ -38,7 +38,7 @@ Sections 4891–4897 were repealed by Pub. L. 88–36, title II, §201(a), June 
 
 #### Amendments
 
-1982—Pub. L. 97–248, title III, §310(b)(4)(A), Sept. 3, 1982, 96 Stat. 597, added chapter heading and section analysis.
+<b>1982</b>—Pub. L. 97–248, title III, §310(b)(4)(A), Sept. 3, 1982, 96 Stat. 597, added chapter heading and section analysis.
 
 
 ---

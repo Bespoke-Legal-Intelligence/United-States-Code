@@ -42,7 +42,7 @@ The President shall not designate any country a beneficiary country under this c
 
 > &emsp;&emsp;a United States citizen or a corporation, partnership, or association, which is 50 percent or more beneficially owned by United States citizens, the effect of which is to nationalize, expropriate, or otherwise seize ownership or control of property so owned, or
 
-&emsp;&emsp;(C) has imposed or enforced taxes or other exactions, restrictive maintenance or operational conditions, or other measures with respect to property so owned, the effect of which is to nationalize, expropriate, or otherwise seize ownership or control of such property, unless the President determines that—
+&emsp;&emsp;(C) has imposed or enforced taxes or other exactions, restrictive maintenance or operational conditions, or other measures withrespect to property so owned, the effect of which is to nationalize, expropriate, or otherwise seize ownership or control of such property, unless the President determines that—
 
 &emsp;&emsp;&emsp;(i) prompt, adequate, and effective compensation has been or is being made to such citizen, corporation, partnership, or association,
 
@@ -54,7 +54,7 @@ The President shall not designate any country a beneficiary country under this c
 
 &emsp;(3) if such country fails to act in good faith in recognizing as binding or in enforcing arbitral awards in favor of United States citizens or a corporation, partnership, or association which is 50 percent or more beneficially owned by United States citizens, which have been made by arbitrators appointed for each case or by permanent arbitral bodies to which the parties involved have submitted their dispute;
 
-&emsp;(4) if such country affords preferential treatment to the products of a developed country,other than the United States, and if such preferential treatment has, or is likely to have, a significant adverse effect on United States commerce, unless the President—
+&emsp;(4) if such country affords preferential treatment to the products of a developed country, other than the United States, and if such preferential treatment has, or is likely to have, a significant adverse effect on United States commerce, unless the President—
 
 &emsp;&emsp;(A) has received assurances satisfactory to him that such preferential treatment will be eliminated or that action will be taken to assure that there will be no such significant adverse effect, and
 
@@ -132,7 +132,7 @@ In determining whether to designate any country a beneficiary country under this
 
 #### (1) In general
 
-&emsp;Not later than June 30, 2010, and every 2 years thereafter during the period this chapteris in effect, the United States Trade Representative shall submit to the Congress a report regarding the operation of this chapter, including—
+&emsp;Not later than June 30, 2010, and annually thereafter during the period this chapter is in effect, the United States Trade Representative shall submit to the Congress a report regarding the operation of this chapter, including—
 
 &emsp;&emsp;(A) with respect to subsections (c) and (d) of this section, the results of a general review of beneficiary countries based on the considerations described in such subsections; and
 
@@ -142,7 +142,7 @@ In determining whether to designate any country a beneficiary country under this
 
 &emsp;Before submitting the report described in paragraph (1), the United States Trade Representative shall publish a notice in the Federal Register requesting public comments on whether beneficiary countries are meeting the criteria listed in section 3203(b)(6)(B) of this title.
 
-(Pub. L. 102–182, title II, §203, Dec. 4, 1991, 105 Stat. 1236; Pub. L. 103–465, title VI, §621(a)(3), Dec. 8, 1994, 108 Stat. 4992; Pub. L. 104–188, title I, §1954(a)(2), Aug. 20, 1996, 110 Stat. 1927; Pub. L. 106–200, title II, §211(c)(2), May 18, 2000, 114 Stat. 287; Pub. L. 107–210, div. C, title XXXI, §3103(b), (e), Aug. 6, 2002, 116 Stat. 1033; Pub. L. 111–124, §2(c), Dec. 28, 2009, 123 Stat. 3484.)
+(Pub. L. 102–182, title II, §203, Dec. 4, 1991, 105 Stat. 1236; Pub. L. 103–465, title VI, §621(a)(3), Dec. 8, 1994, 108 Stat. 4992; Pub. L. 104–188, title I, §1954(a)(2), Aug. 20, 1996, 110 Stat. 1927; Pub. L. 106–200, title II, §211(c)(2), May 18, 2000, 114 Stat. 287; Pub. L. 107–210, div. C, title XXXI, §3103(b), (e), Aug. 6, 2002, 116 Stat. 1033; Pub. L. 111–124, §2(c), Dec. 28, 2009, 123 Stat. 3484; Pub. L. 111–344, title II, §201(d), Dec. 29, 2010, 124 Stat. 3616.)
 
 #### References in Text
 
@@ -154,17 +154,19 @@ This chapter, referred to in subsec. (d)(12), was in the original “this Act”
 
 #### Amendments
 
-2009—Subsec. (f)(1). Pub. L. 111–124 substituted “June 30, 2010” for “April 30, 2003”.
+<b>2010</b>—Subsec. (f)(1). Pub. L. 111–344 substituted “annually” for “every 2 years” in introductory provisions.
 
-2002—Subsec. (e)(1). Pub. L. 107–210, §3103(b), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
+<b>2009</b>—Subsec. (f)(1). Pub. L. 111–124 substituted “June 30, 2010” for “April 30, 2003”.
+
+<b>2002</b>—Subsec. (e)(1). Pub. L. 107–210, §3103(b), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
 
 Subsec. (f). Pub. L. 107–210, §3103(e), substituted “Reporting requirements” for “Report” in heading and amended text generally. Prior to amendment, text read as follows: “Not later than January 31, 2001, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (c) and (d) of this section. In reporting on the considerations described in subsection (d)(11) of this section, the President shall report any evidence that the crop eradication and crop substitution efforts of the beneficiary are directly related to the effects of this chapter.”
 
-2000—Subsec. (f). Pub. L. 106–200 substituted “Report” for “Triennial report” in heading and “Not later than January 31, 2001” for “On or before the 3rd, 6th, and 9th anniversaries of December 4, 1991” in text.
+<b>2000</b>—Subsec. (f). Pub. L. 106–200 substituted “Report” for “Triennial report” in heading and “Not later than January 31, 2001” for “On or before the 3rd, 6th, and 9th anniversaries of December 4, 1991” in text.
 
-1996—Subsec. (c)(7). Pub. L. 104–188 substituted “2467(4) of this title” for “2462(a)(4) of this title”.
+<b>1996</b>—Subsec. (c)(7). Pub. L. 104–188 substituted “2467(4) of this title” for “2462(a)(4) of this title”.
 
-1994—Subsec. (d)(4). Pub. L. 103–465 substituted “WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of section 3501 of this title)” for “General Agreement on Tariffs and Trade, as well as applicable trade agreements approved under section 2503(a) of this title”.
+<b>1994</b>—Subsec. (d)(4). Pub. L. 103–465 substituted “WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of section 3501 of this title)” for “General Agreement on Tariffs and Trade, as well as applicable trade agreements approved under section 2503(a) of this title”.
 
 #### Effective Date of 1996 Amendment
 
@@ -180,7 +182,7 @@ Functions of President under subsec. (e)(2)(A) of this section, related to publi
 
 For delegation of functions of President under div. C of Pub. L. 107–210, amending this section, see section 2 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.
 
-Functions of President under subsec. (e)(2)(A) of this section, related to publishing notice of proposed actions, delegated to United States Trade Representative, see Proc. No. 7616, Oct. 31, 2002, 67 F.R. 67283, set out as a note under section 3203 of this title.
+Functions of President under subsec. (e)(2)(A), related to publishing notice of proposed actions, delegated to United States Trade Representative, see Proc. No. 7616, Oct. 31, 2002, 67 F.R. 67283, set out as a note under section 3203 of this title.
 
 #### Petitions for Review
 

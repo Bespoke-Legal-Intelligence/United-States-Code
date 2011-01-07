@@ -34,9 +34,9 @@ Whenever the Federal contribution for any information, research, or development 
 
 #### Amendments
 
-2008—Subsec. (a)(3). Pub. L. 110–314 struck out “an advance notice of proposed rulemaking or” after “following publication of”.
+<b>2008</b>—Subsec. (a)(3). Pub. L. 110–314 struck out “an advance notice of proposed rulemaking or” after “following publication of”.
 
-1981—Subsec. (a)(3), (4). Pub. L. 97–35, §1209(a), added pars. (3) and (4).
+<b>1981</b>—Subsec. (a)(3), (4). Pub. L. 97–35, §1209(a), added pars. (3) and (4).
 
 Subsec. (b)(3). Pub. L. 97–35, §1209(b), struck out provision that the Commission may assist public and private organizations, administratively and technically, in the development of safety standards and test methods.
 
@@ -122,7 +122,7 @@ In General.—Any information provided to the National Institute for Standards a
 
 “(b)
 
-Construction.—Subsection (a) does not authorize the withholding of any information from any duly authorized subcommittee or committee of the Congress, except that if a subcommittee or committee of the Congress requests the Consumer Product Safety Commission, the National Institute for Standards and Technology's Center for Fire Research, or the Technical Advisory Group to provide such information, the Commission, the Center for Fire Research, or Technical Advisory Group shall notify the person who provided the information of such a request in writing.”
+Construction.—Subsection (a) does not authorize the withholding of any information from any duly authorized subcommittee or committee of the Congress, except that if a subcommittee or committee of the Congress requests the Consumer Product SafetyCommission, the National Institute for Standards and Technology's Center for Fire Research, or the Technical Advisory Group to provide such information, the Commission, the Center for Fire Research, or Technical Advisory Group shall notify the person who provided the information of such a request in writing.”
 
 #### Additional Reporting Time
 

@@ -42,7 +42,7 @@ Qualified guarantee.—The term “qualified guarantee”, with respect to a maj
 
 &emsp;(3)
 
-Qualified account control agreement.—The term “qualified account controlagreement”, with respect to a guarantee of a donor, means an agreement among the donor, the Secretary of the Army, and a major United States investment management firm that—
+Qualified account control agreement.—The term “qualified account control agreement”, with respect to a guarantee of a donor, means an agreement among the donor, the Secretary of the Army, and a major United States investment management firm that—
 
 &emsp;&emsp;(A) ensures the availability of sufficient funds or other financial resources to pay the amount guaranteed during the period of the guarantee;
 
@@ -78,7 +78,7 @@ A prior section 4357, added Pub. L. 103–337, div. A, title V, §556(a)(1), Oct
 
 #### Amendments
 
-2003—Subsec. (c). Pub. L. 108–136 inserted before period at end “or, if earlier, the expiration of 14 days following the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title”.
+<b>2003</b>—Subsec. (c). Pub. L. 108–136 inserted before period at end “or, if earlier, the expiration of 14 days following the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title”.
 
-2000—Subsec. (e)(5). Pub. L. 106–398 inserted a closing parenthesis after “80b–2)”.
+<b>2000</b>—Subsec. (e)(5). Pub. L. 106–398 inserted a closing parenthesis after “80b–2)”.
 

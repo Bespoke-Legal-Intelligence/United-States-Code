@@ -48,21 +48,19 @@ This amendment conforms the language of section 2410(b) of title 28, U.S.C., wit
 
 #### References in Text
 
-The internal revenue laws, referred to in subsec. (b), are classified generally to Title 26, Internal Revenue Code.
-
-Section 7425 of the Internal Revenue Code of 1986, referred to in subsec. (d), is classified to section 7425 of Title 26.
+Section 7425 of the Internal Revenue Code of 1986, referred to in subsec. (d), is classified to section 7425 of Title 26, Internal Revenue Code.
 
 #### Amendments
 
-1996—Subsec. (e). Pub. L. 104–316 struck out “shall so report to the Comptroller General who” after “unenforceable, such officer” in second sentence.
+<b>1996</b>—Subsec. (e). Pub. L. 104–316 struck out “shall so report to the Comptroller General who” after “unenforceable, such officer” in second sentence.
 
-1991—Subsec. (c). Pub. L. 102–83 substituted “section 3720 of title 38” for “section 1820 of title 38”.
+<b>1991</b>—Subsec. (c). Pub. L. 102–83 substituted “section 3720 of title 38” for “section 1820 of title 38”.
 
-1990—Subsec. (c). Pub. L. 101–647 inserted at end “In any case where the United States is a bidder at the judicial sale, it may credit the amount determined to be due it against the amount it bids at such sales.”
+<b>1990</b>—Subsec. (c). Pub. L. 101–647 inserted at end “In any case where the United States is a bidder at the judicial sale, it may credit the amount determined to be due it against the amount it bids at such sales.”
 
-1986—Subsec. (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1966—Subsec. (a). Pub. L. 89–719 substituted “subject matter—
+<b>1966</b>—Subsec. (a). Pub. L. 89–719 substituted “subject matter—
 
 &emsp;“(1) to quiet title to,
 
@@ -82,11 +80,11 @@ Subsec. (c). Pub. L. 89–719 substituted “judgment or decree in such action�
 
 Subsecs. (d), (e). Pub. L. 89–719 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1960—Subsec. (b). Pub. L. 86–507 inserted “or by certified mail,” after “registered mail,”.
+<b>1960</b>—Subsec. (b). Pub. L. 86–507 inserted “or by certified mail,” after “registered mail,”.
 
-1958—Subsec. (a). Pub. L. 85–508 struck out provisions which extended section to District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
+<b>1958</b>—Subsec. (a). Pub. L. 85–508 struck out provisions which extended section to District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 
-1949—Subsec. (b). Act May 24, 1949, conformed section with that of prior law with respect to service of process and complaint upon the United States in suits brought in State courts.
+<b>1949</b>—Subsec. (b). Act May 24, 1949, conformed section with that of prior law with respect to service of process and complaint upon the United States in suits brought in State courts.
 
 #### Effective Date of 1990 Amendment
 

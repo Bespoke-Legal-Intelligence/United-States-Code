@@ -2,7 +2,7 @@
 
 #### (a) Filing of petition; receipt of petition; initiation of investigation
 
-A petition for a certification of eligibility to apply for adjustment assistance under this partmay be filed with the Secretary of Commerce (hereinafter in this part referred to as the “Secretary”) by a firm (including any agricultural firm or service sector firm) or its representative. Upon receipt of the petition, the Secretary shall promptly publish notice in the Federal Register that the Secretary has received the petition and initiated an investigation.
+A petition for a certification of eligibility to apply for adjustment assistance under this part may be filed with the Secretary of Commerce (hereinafter in this part referred to as the “Secretary”) by a firm (including any agricultural firm or service sector firm) or its representative. Upon receipt of the petition, the Secretary shall promptly publish notice in the Federal Register that the Secretary has received the petition and initiated an investigation.
 
 #### (b) Public hearing
 
@@ -54,7 +54,7 @@ For purposes of subsection (c)(1)(C), the Secretary may determine that there are
 
 Upon receiving notice from the Secretary of Labor under section 2275 of this title of the identity of a firm that is covered by a certification issued under section 2273 of this title, the Secretary of Commerce shall notify the firm of the availability of adjustment assistance under this part.
 
-(Pub. L. 93–618, title II, §251, Jan. 3, 1975, 88 Stat. 2030; Pub. L. 99–272, title XIII, §13002(b), Apr. 7, 1986, 100 Stat. 300; Pub. L. 100–418, title I, §1421(a)(2), (b)(2), Aug. 23, 1988, 102 Stat. 1243, 1244; Pub. L. 111–5, div. B, title I, §§1861(a), (c), 1862, 1863, 1867(a), Feb. 17, 2009, 123 Stat. 396, 397, 400.)
+(Pub. L. 93–618, title II, §251, Jan. 3, 1975, 88 Stat. 2030; Pub. L. 99–272, title XIII, §13002(b), Apr. 7, 1986, 100 Stat. 300; Pub. L. 100–418, title I,§1421(a)(2), (b)(2), Aug. 23, 1988, 102 Stat. 1243, 1244; Pub. L. 111–5, div. B, title I, §§1861(a), (c), 1862, 1863, 1867(a), Feb. 17, 2009, 123 Stat. 396, 397, 400.)
 
 #### Amendment of Section
 
@@ -62,7 +62,7 @@ Upon receiving notice from the Secretary of Labor under section 2275 of this tit
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–5, §§1861(a), 1867(a)(1), 1893, temporarily inserted “or service sector firm” after “agricultural firm” and substituted “the Secretary has” for “he has”. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Subsec. (a). Pub. L. 111–5, §§1861(a), 1867(a)(1), 1893, temporarily inserted “or service sector firm” after “agricultural firm” and substituted “the Secretary has” for “he has”. See Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (c)(1). Pub. L. 111–5, §§1861(a), 1893, temporarily inserted “or service sector firm” after “agricultural firm” in introductory provisions. See Effective and Termination Dates of 2009 Amendment note below.
 
@@ -70,7 +70,7 @@ Subsec. (c)(1)(B). Pub. L. 111–5, §§1862, 1893, temporarily amended subpar. 
 
 &emsp;“(i) sales or production, or both, of such firm have decreased absolutely, or
 
-&emsp;“(ii) sales or production, or both, of an article that accounted for not less than 25 percent of the totalproduction or sales of the firm during the 12-month period preceding the most recent 12-month period for which data are available have decreased absolutely, and”.
+&emsp;“(ii) sales or production, or both, of an article that accounted for not less than 25 percent of the total production or sales of the firm during the 12-month period preceding the most recent 12-month period for which data are available have decreased absolutely, and”.
 
 > See Effective and Termination Dates of 2009 Amendment note below.
 
@@ -82,7 +82,7 @@ Subsec. (d). Pub. L. 111–5, §§1867(a)(2), 1893, temporarily substituted “4
 
 Subsecs. (e), (f). Pub. L. 111–5, §§1863, 1893, temporarily added subsecs. (e) and (f). See Effective and Termination Dates of 2009 Amendment note below.
 
-1988—Subsec. (c). Pub. L. 100–418, §1421(a)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary shall certify a firm (including any agricultural firm) as eligible to apply for adjustment assistance under this part if he determines—
+<b>1988</b>—Subsec. (c). Pub. L. 100–418, §1421(a)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary shall certify a firm (including any agricultural firm) as eligible to apply for adjustment assistance under this part if he determines—
 
 &emsp;“(1) that a significant number or proportion of the workers in such firm have become totally or partially separated, or are threatened to become totally or partially separated.
 
@@ -98,7 +98,7 @@ Subsecs. (e), (f). Pub. L. 111–5, §§1863, 1893, temporarily added subsecs. (
 
 Subsec. (c)(1)(C). Pub. L. 100–418, §1421(b)(2), directed the general amendment of subpar. (C) adding provisions relating to provision of essential goods or services by such firm, which amendment did not become effective pursuant to section 1430(d) of Pub. L. 100–418, as amended, set out as an Effective Date note under section 2397 of this title.
 
-1986—Subsecs. (a), (c). Pub. L. 99–272, §13002(b)(1), inserted “(including any agricultural firm)” after “firm”.
+<b>1986</b>—Subsecs. (a), (c). Pub. L. 99–272, §13002(b)(1), inserted “(including any agricultural firm)” after “firm”.
 
 Subsec. (c)(2). Pub. L. 99–272, §13002(b)(2), amended par. (2) generally, designating existing provisions as subpar. (A), substituting “of the firm have decreased absolutely, or” for “of such firm have decreased absolutely, and”, and adding subpar. (B).
 
@@ -106,11 +106,11 @@ Subsec. (c)(2). Pub. L. 99–272, §13002(b)(2), amended par. (2) generally, des
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 
 #### Termination Date
 
-Except as otherwise provided, technical assistance and grants may not be provided under this part after Dec. 31, 2010, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+Except as otherwise provided, technical assistance and grants may not be provided under this section after Feb. 12, 2011, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “data”.</i>
 

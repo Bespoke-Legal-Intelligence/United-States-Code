@@ -64,9 +64,11 @@ The National Science Foundation Authorization Act of 1998, referred to in subsec
 
 #### Amendments
 
-1999—Subsec. (c). Pub. L. 106–65 substituted “Committee on Armed Services of the House” for “Committee on National Security of the House”.
+<b>1999</b>—Subsec. (c). Pub. L. 106–65 substituted “Committee on Armed Services of the House” for “Committee on National Security of the House”.
 
 #### Change of Name
 
 Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

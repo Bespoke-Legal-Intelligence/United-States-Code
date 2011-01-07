@@ -32,7 +32,7 @@ Active service of commissioned officers of the Service shall be deemed to be act
 
 Active service of commissioned officers of the Service shall be deemed to be active military service in the Armed Forces of the United States for purposes of all laws related to discrimination on the basis of race, color, sex, ethnicity, age, religion, and disability.
 
-(July 1, 1944, ch. 373, title II, §212, 58 Stat. 689; July 15, 1954, ch. 507, §14(a), 68 Stat. 481; Aug. 1, 1956, ch. 837, title V, §501(b)(1), 70 Stat. 881; Pub. L. 94–278, title XI, §1101, Apr. 22, 1976, 90 Stat. 415; Pub. L. 102–54, §13(q)(1)(C), June 13, 1991, 105 Stat. 278; Pub. L. 105–392, title IV, §402(a), Nov. 13, 1998, 112 Stat. 3587; Pub. L. 108–189, §2(e), Dec. 19, 2003, 117 Stat. 2866.)
+(July 1, 1944, ch. 373, title II, §212, 58 Stat. 689; July 15, 1954, ch. 507, §14(a), 68 Stat. 481; Aug. 1,1956, ch. 837, title V, §501(b)(1), 70 Stat. 881; Pub. L. 94–278, title XI, §1101, Apr. 22, 1976, 90 Stat. 415; Pub. L. 102–54, §13(q)(1)(C), June 13, 1991, 105 Stat. 278; Pub. L. 105–392, title IV, §402(a), Nov. 13, 1998, 112 Stat. 3587; Pub. L. 108–189, §2(e), Dec. 19, 2003, 117 Stat. 2866.)
 
 #### References in Text
 
@@ -42,21 +42,21 @@ The Servicemembers Civil Relief Act, referred to in subsec. (e), is act Oct. 17,
 
 #### Amendments
 
-2003—Subsec. (e). Pub. L. 108–189 substituted “Servicemembers Civil Relief Act” for “Soldiers’ and Sailors’ Civil Relief Act of 1940”.
+<b>2003</b>—Subsec. (e). Pub. L. 108–189 substituted “Servicemembers Civil Relief Act” for “Soldiers’ and Sailors’ Civil Relief Act of 1940”.
 
-1998—Subsec. (f). Pub. L. 105–392 added subsec. (f).
+<b>1998</b>—Subsec. (f). Pub. L. 105–392 added subsec. (f).
 
-1991—Subsec. (d). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Veterans’ Administration”.
+<b>1991</b>—Subsec. (d). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Veterans’ Administration”.
 
-1976—Subsec. (e). Pub. L. 94–278 added subsec. (e).
+<b>1976</b>—Subsec. (e). Pub. L. 94–278 added subsec. (e).
 
-1956—Act Aug. 1, 1956, amended section generally to extend all rights, privileges, immunities, and benefits provided for commissioned officers of the Army or their surviving beneficiaries to commissioned officers of the Service, with the exception of retired pay and uniform allowances, when performing duty under certain circumstances, and to provide that active service of commissioned officers shall be deemed to be active military service in the Armed Forces for the purposes of all laws administered by the Veterans’ Administration (except the Servicemen's Indemnity Act of 1951) and section 417 of this title.
+<b>1956</b>—Act Aug. 1, 1956, amended section generally to extend all rights, privileges, immunities, and benefits provided for commissioned officers of the Army or their surviving beneficiaries to commissioned officers of the Service, with the exception of retired pay and uniform allowances, when performing duty under certain circumstances, and to provide that active service of commissioned officers shall be deemed to be active military service in the Armed Forces for the purposes of all laws administered by the Veterans’ Administration (except the Servicemen's Indemnity Act of 1951) and section 417 of this title.
 
-1954—Subsec. (a)(1). Act July 15, 1954, struck out “burial payments in the event of death,” after “limited to,”.
+<b>1954</b>—Subsec. (a)(1). Act July 15, 1954, struck out “burial payments in the event of death,” after “limited to,”.
 
 #### Effective Date of 1956 Amendment; Applicability
 
-Section 501(b)(2) of act Aug. 1, 1956, provided that: “The amendment made by this subsection \[amending this section\] (A) shall apply only with respect to service performed on or after July 4, 1952, (B) shall not be construed to affect the entitlement of any person to benefits under the Veterans’ Readjustment Assistance Act of 1952 \[act July 16, 1952, ch. 875, 66 Stat. 633\], (C) shall not be construed to authorize any payment under section 202(i) of the Social Security Act \[section 402(i) of this title\], or under Veterans Regulation Numbered 9(a), for any death occurring prior to January 1, 1957, and (D) shall not be construed to authorize payment of any benefits for any period prior to January 1, 1957.”
+Act Aug. 1, 1956, ch. 837, title V, §501(b)(2), 70 Stat. 882, provided that: “The amendment made by this subsection \[amending this section\] (A) shall apply only with respect to service performed on or after July 4, 1952, (B) shall not be construed to affect the entitlement of any person to benefits under the Veterans’ Readjustment Assistance Act of 1952 \[act July 16, 1952, ch. 875, 66 Stat. 633\], (C) shall not be construed to authorize any payment under section 202(i) of the Social Security Act \[section 402(i) of this title\], or under Veterans Regulation Numbered 9(a), for any death occurring prior to January 1, 1957, and (D) shall not be construed to authorize payment of any benefits for any period prior to January 1, 1957.”
 
 #### Transfer of Functions
 
@@ -66,7 +66,7 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
 #### Recomputation of Social Security Benefits for Officers Entitled to Old-Age Insurance Benefits Prior to January 1, 1957, or for Survivors of Officers Who Died Prior to January 1, 1957
 
-Section 501(b)(3) of act Aug. 1, 1956, provided that: “In the case of any individual—
+Act Aug. 1, 1956, ch. 837, title V, §501(b)(3), 70 Stat. 882, provided that: “In the case of any individual—
 
 &emsp;“(A) who performed active service (i) as a commissioned officer of the Public Health Service at any time during the period beginning July 4, 1952, and ending December 31, 1956, or (ii) as a commissioned officer of the Coast and Geodetic Survey at any time during the period beginning July 29, 1945, and ending December 31, 1956; and
 
@@ -76,7 +76,7 @@ Section 501(b)(3) of act Aug. 1, 1956, provided that: “In the case of any indi
 
 &emsp;“(C) any part of whose service described in subparagraph (A) was not included in the computation of his primary insurance amount under section 215 of such act \[section 415 of this title\] but would have been included in such computation if the amendment made by paragraph (1) of this subsection or paragraph (1) of subsection (d) had been effective prior to the date of such computation,
 
-> the Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall, notwithstanding the provisions of section 215(f)(1) of the Social Security Act \[section 415(f)(1) of this title\], recompute the primary insurance amount of such individual upon the filing of an application, after December 1956, by him or (if he dies without filing such an application) by any person entitled to monthly survivor's benefits under section 202 of such act \[section 402 of this title\] on the basis of his wages and self-employment income. Such recomputation shall be made only in the manner, provided in title II of the Social Security Act \[sections 401 to 425 of this title\] as in effect at the time of the last previous computation or recomputation of such individual's primary insurance amount, and as though application therefor was filed in the month in which application for such last previous computation or recomputation was filed. No recomputation made under this paragraph shall be regarded as a recomputation under section215(f) of the Social Security Act \[section 415(f) of this title\]. Any such recomputation shall be effective for and after the twelfth month before the month in which the application was filed, but in no case for any month before January 1957.”
+> the Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall, notwithstanding the provisions of section 215(f)(1) of the Social Security Act \[section 415(f)(1) of this title\], recompute the primary insurance amount of such individual upon the filing of an application, after December 1956, by him or (if he dies without filing such an application) by any person entitled to monthly survivor's benefits under section 202 of such act \[section 402 of this title\] on the basis of his wages and self-employment income. Such recomputation shall be made only in the manner, provided in title II of the Social Security Act \[sections 401 to 425 of this title\] as in effect at the time of the last previous computation or recomputation of such individual's primary insurance amount, and as though application therefor was filed in the month in which application for such last previous computation or recomputation was filed. No recomputation made under this paragraph shall be regarded as a recomputation under section 215(f) of the Social Security Act \[section 415(f) of this title\]. Any such recomputation shall be effective for and after the twelfth month before the month in which the application was filed, but in no case for any month before January 1957.”
 
 #### Disposition of Remains of Deceased Personnel
 
@@ -84,7 +84,7 @@ Recovery, care, and disposition of the remains of deceased members of the unifor
 
 #### Burial of Certain Commissioned Officers
 
-Act Apr. 30, 1956, ch. 227, 70 Stat. 124, provided: “That burial in national cemeteries of the remains of commissioned officers of the United States Public Health Service who were detailed for duty with the Army or Navy during World War I pursuant to the act of July 1, 1902 (32 Stat. 712, 713), as amended, and Executive Order Numbered 2571 dated April 3, 1917, and of the wife, widow, minor child and, in the discretion of the Secretary of the Army, unmarried adult child of these officers is authorized: <i>Provided</i>, That the remains of the wife, widow, and children may, in the discretion of the Secretary of the Army, be removed from a national cemetery proper and interred in the post section of a national cemetery if, upon death, the related officer is not buried in the same or an adjoining gravesite.”
+Act Apr. 30, 1956, ch. 227, 70 Stat. 124, provided: “That burial in national cemeteries of the remains of commissioned officers of the United States Public Health Service who were detailed for duty with the Army or Navy during World War I pursuant to the act of July 1, 1902 (32 Stat. 712, 713), as amended, and Executive Order Numbered 2571 dated April 3, 1917, and of the wife, widow, minor child and, in the discretion of the Secretary of the Army, unmarried adult child of these officers is authorized: <i>Provided</i>, That the remains of thewife, widow, and children may, in the discretion of the Secretary of the Army, be removed from a national cemetery proper and interred in the post section of a national cemetery if, upon death, the related officer is not buried in the same or an adjoining gravesite.”
 
 #### Delegation of Authority
 

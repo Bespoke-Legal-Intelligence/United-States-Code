@@ -2,7 +2,7 @@
 
 #### (a) Interagency Committee on Employees who are Individuals with Disabilities; establishment; membership; co-chairmen; availability of other Committee resources; purpose and functions
 
-There is established within the Federal Government an Interagency Committee on Employees who are Individuals with Disabilities (hereinafter in this section referred to as the “Committee”), comprised of such members as the President may select, including the following (or their designees whose positions are Executive Level IV or higher): the Chairman of the Equal Employment Opportunity Commission (hereafter in this section referred to as the “Commission”), the Director of the Office of Personnel Management, the Secretary of Veterans Affairs, the Secretary of Labor, the Secretary of Education, and the Secretary of Health and Human Services. Either the Director of the Office of Personnel Management and the Chairman of the Commission shall serve as co-chairpersons of the Committee or the Director or Chairman shall serve as the sole chairperson of the Committee, as the Director and Chairman jointly determine, from time to time, to be appropriate. The resources of the President's Committees on Employment of People With Disabilities and on Mental Retardation shall be made fully available to the Committee. It shall be the purpose and function of the Committee (1) to provide a focus for Federal and other employment of individuals with disabilities, and to review, on a periodic basis, in cooperation with the Commission, the adequacy of hiring, placement, and advancement practices with respect to individuals with disabilities, by each department, agency, and instrumentality in the executive branch of Government and the Smithsonian Institution, and to insure that the special needs of such individuals are being met; and (2) to consult with the Commission to assist the Commission to carry out its responsibilities under subsections (b), (c), and (d) of this section. On the basis of such review and consultation, the Committee shall periodically make to the Commission such recommendations for legislative and administrative changes as it deems necessary or desirable. The Commission shall timely transmit to the appropriate committees of Congress any such recommendations.
+There is established within the Federal Government an Interagency Committee on Employees who are Individuals with Disabilities (hereinafter in this section referred to as the “Committee”), comprised of such members as the President may select, including the following (or their designees whose positions are Executive Level IV or higher): the Chairman of the Equal Employment Opportunity Commission (hereafter in this section referred to as the “Commission”), the Director of the Office of Personnel Management, the Secretary of Veterans Affairs, the Secretary of Labor, the Secretary of Education, and the Secretary of Health and Human Services. Either the Director of the Office of Personnel Management and the Chairman of the Commission shall serve as co-chairpersons of the Committee or the Director or Chairman shall serve as the sole chairperson of the Committee, as the Director and Chairmanjointly determine, from time to time, to be appropriate. The resources of the President's Disability Employment Partnership Board and the President's Committee for People with Intellectual Disabilities shall be made fully available to the Committee. It shall be the purpose and function of the Committee (1) to provide a focus for Federal and other employment of individuals with disabilities, and to review, on a periodic basis, in cooperation with the Commission, the adequacy of hiring, placement, and advancement practices with respect to individuals with disabilities, by each department, agency, and instrumentality in the executive branch of Government and the Smithsonian Institution, and to insure that the special needs of such individuals are being met; and (2) to consult with the Commission to assist the Commission to carry out its responsibilities under subsections (b), (c), and (d) of this section. On the basis of such review and consultation, the Committee shall periodically make to the Commission such recommendations for legislative and administrative changes as it deems necessary or desirable. The Commission shall timely transmit to the appropriate committees of Congress any such recommendations.
 
 #### (b) Federal agencies; affirmative action program plans
 
@@ -30,7 +30,7 @@ An individual who, as a part of an individualized plan for employment under a St
 
 The standards used to determine whether this section has been violated in a complaint alleging nonaffirmative action employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510,<sup>1</sup> of the Americans with Disabilities Act of 1990 (42 U.S.C. 12201–12204 and 12210), as such sections relate to employment.
 
-(Pub. L. 93–112, title V, §501, Sept. 26, 1973, 87 Stat. 390; Pub. L. 98–221, title I, §104(b)(3), Feb. 22, 1984, 98 Stat. 18; Pub. L. 99–506, title I, §103(d)(2)(C), title X, §§1001(f)(1), 1002(e)(1), (2)(A), Oct. 21, 1986, 100 Stat. 1810, 1843, 1844; Pub. L. 100–630, title II, §206(a), Nov. 7, 1988, 102 Stat. 3310; Pub. L. 102–54, §13(k)(1)(B), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, §102(p)(29), title V, §503, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, §112(a), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–220, title III, §341(c), title IV, §408(a)(1), Aug. 7, 1998, 112 Stat. 1092, 1202; Pub. L. 109–435, title VI, §604(d), Dec. 20, 2006, 120 Stat. 3242.)
+(Pub. L. 93–112, title V, §501, Sept. 26, 1973, 87 Stat. 390; Pub. L. 98–221, title I, §104(b)(3), Feb. 22, 1984, 98 Stat. 18; Pub. L. 99–506, title I, §103(d)(2)(C), title X, §§1001(f)(1), 1002(e)(1), (2)(A), Oct. 21, 1986, 100 Stat. 1810, 1843, 1844; Pub. L. 100–630, title II, §206(a), Nov. 7, 1988, 102 Stat. 3310; Pub. L. 102–54, §13(k)(1)(B), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, §102(p)(29), title V, §503, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, §112(a), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–220, title III, §341(c), title IV,§408(a)(1), Aug. 7, 1998, 112 Stat. 1092, 1202; Pub. L. 109–435, title VI, §604(d), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 111–256, §2(d)(3), Oct. 5, 2010, 124 Stat. 2643.)
 
 #### References in Text
 
@@ -44,9 +44,11 @@ Prior similar provisions were set out in section 38 of this title.
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–435, §604(d), substituted “Postal Regulatory Commission” for “Postal Rate Office”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–256 substituted “President's Disability Employment Partnership Board and the President's Committee for People with Intellectual Disabilities” for “President's Committees on Employment of People With Disabilities and on Mental Retardation”.
 
-1998—Subsec. (a). Pub. L. 105–220, §408(a)(1)(A), substituted “President's Committees on Employment ofPeople With Disabilities” for “President's Committees on Employment of the Handicapped” in third sentence.
+<b>2006</b>—Subsec. (b). Pub. L. 109–435, §604(d), substituted “Postal Regulatory Commission” for “Postal Rate Office”.
+
+<b>1998</b>—Subsec. (a). Pub. L. 105–220, §408(a)(1)(A), substituted “President's Committees on Employment of People With Disabilities” for “President's Committees on Employment of the Handicapped” in third sentence.
 
 Pub. L. 105–220, §341(c)(1), inserted “and the Smithsonian Institution” after “Government” in fourth sentence.
 
@@ -56,9 +58,9 @@ Subsec. (d). Pub. L. 105–220, §341(c)(3), inserted “and the Smithsonian Ins
 
 Subsec. (e). Pub. L. 105–220, §408(a)(1)(B), substituted “individualized plan for employment” for “individualized written rehabilitation program”.
 
-1993—Subsec. (a). Pub. L. 103–73 in first sentence inserted comma after “Veterans Affairs”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–73 in first sentence inserted comma after “Veterans Affairs”.
 
-1992—Pub. L. 102–569, §102(p)(29)(A), substituted “disabilities” for “handicaps” in section catchline.
+<b>1992</b>—Pub. L. 102–569, §102(p)(29)(A), substituted “disabilities” for “handicaps” in section catchline.
 
 Subsec. (a). Pub. L. 102–569, §503(a), substituted “the Director of the Office of Personnel Management, the Secretary of Veterans Affairs” for “the Secretary of Veterans Affairs, and”, and amended second sentence generally. Prior to amendment, second sentence read as follows: “The Secretary of Education and the Chairman of the Commission shall serve as co-chairpersons of the Committee.”
 
@@ -70,9 +72,9 @@ Subsecs. (c), (d), (f)(2). Pub. L. 102–569, §102(p)(29)(C), substituted “in
 
 Subsec. (g). Pub. L. 102–569, §503(b), added subsec. (g).
 
-1991—Subsec. (a). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
-1988—Subsec. (a). Pub. L. 100–630, §206(a)(3)(C), which directed substitution of “Employment of People With Disabilities” for “Employment of the Handicapped” in second sentence, could not be executed because the words did not appear in second sentence.
+<b>1988</b>—Subsec. (a). Pub. L. 100–630, §206(a)(3)(C), which directed substitution of “Employment of People With Disabilities” for “Employment of the Handicapped” in second sentence, could not be executed because the words did not appear in second sentence.
 
 Pub. L. 100–630, §206(a)(1)–(3)(B), (4), inserted “(hereafter in this section referred to as the ‘Commission’)” after first reference to “Equal Employment Opportunity Commission” and substituted “Commission” for “Equal Opportunity Employment Commission” wherever appearing, “Secretary of Labor, the Secretary of Education, and the Secretary of Health and Human Services” for “Secretaries of Labor and Education and Health and Human Services” in first sentence, “co-chairpersons” for “co-chairmen” in second sentence, and “Commission” for “Office” in cl. (2).
 
@@ -84,7 +86,7 @@ Subsec. (e). Pub. L. 100–630, §206(a)(6), substituted “an individualized”
 
 Subsec. (f)(1), (2). Pub. L. 100–630, §206(a)(7), substituted “Employment of People With Disabilities” for “Employment of the Handicapped”.
 
-1986—Pub. L. 99–506, §103(d)(2)(C), substituted “individuals with handicaps” for “handicapped individuals” in section catchline.
+<b>1986</b>—Pub. L. 99–506, §103(d)(2)(C), substituted “individuals with handicaps” for “handicapped individuals” in section catchline.
 
 Subsecs. (a) to (c). Pub. L. 99–506, §§103(d)(2)(C), 1002(e)(1), substituted “Equal Employment Opportunity Commission” for “Office of Personnel Management” and “individuals with handicaps” for “handicapped individuals” wherever appearing.
 
@@ -94,7 +96,7 @@ Subsec. (e). Pub. L. 99–506, §1001(f)(1), substituted “a individualized” 
 
 Subsec. (f)(2). Pub. L. 99–506, §103(d)(2)(C), substituted “individuals with handicaps” for “handicapped individuals”.
 
-1984—Subsec. (a). Pub. L. 98–221, §104(b)(3)(A)–(D), substituted “the Chairman of the Office of Personnel Management” and “Education and Health and Human Services” for “the Chairman of the Civil Service Commission” and “Health, Education, and Welfare”, respectively, in first sentence, “Secretary of Education and the Chairman of the Office of Personnel Management” for “Secretary of Health, Education, and Welfare and the Chairman of the Civil Service Commission” in second sentence, “Office of Personnel Management” for “Civil Service Commission” in four places, and “Office” for “Commission”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–221, §104(b)(3)(A)–(D), substituted “the Chairman of the Office of Personnel Management” and “Education and Health and Human Services” for “the Chairman of the Civil Service Commission” and “Health, Education, and Welfare”, respectively, in first sentence, “Secretary of Education and the Chairman of the Office of Personnel Management” for “Secretary of Health, Education, and Welfare and the Chairman of the Civil Service Commission” in second sentence, “Office of Personnel Management” for “Civil Service Commission” in four places, and “Office” for “Commission”.
 
 Subsec. (b). Pub. L. 98–221, §104(b)(3)(C), (D), substituted “Office of Personnel Management” for “Civil Service Commission” and substituted “Office” for “Commission” in three places.
 
@@ -106,7 +108,7 @@ Subsec. (f)(1). Pub. L. 98–221, §104(b)(3)(F), substituted “Secretary of Ed
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 341(c) of Pub. L. 105–220 effective Aug. 7, 1998, and applicable to and may be raised in any administrative or judicial claim or action brought before Aug. 7, 1998, but pending on such date, and any administrative or judicial claim or action brought after such date regardless of whether the claim or action arose prior to such date, if the claim or action was brought within the applicable statute of limitations, see section 341(d) of Pub. L. 105–220, set out as a note under section 633a of this title.
+Amendment by section 341(c) of Pub. L. 105–220 effective Aug. 7, 1998, and applicable to and may be raisedin any administrative or judicial claim or action brought before Aug. 7, 1998, but pending on such date, and any administrative or judicial claim or action brought after such date regardless of whether the claim or action arose prior to such date, if the claim or action was brought within the applicable statute of limitations, see section 341(d) of Pub. L. 105–220, set out as a note under section 633a of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -126,7 +128,7 @@ Pub. L. 99–506, title X, §1006, Oct. 21, 1986, 100 Stat. 1846, provided that:
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reports required under subsecs. (a) and (d) of this section are listed on page 188), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reports required under subsecs. (a) and (d) of this section are listed on page 188), see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Executive Order No. 10640
 
@@ -202,7 +204,7 @@ Sec. 2. <i>Implementation</i>. Each Federal agency shall prepare a plan to incre
 
 Sec. 3. <i>Authority to Develop Guidance</i>. The Office of Personnel Management shall develop guidance on the provisions of this order to increase the opportunities for individuals with disabilities employed in the Federal Government.
 
-Sec. 4. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executivebranch and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, its employees, or any person.
+Sec. 4. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, its employees, or any person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -247,6 +249,50 @@ Sec. 5. <i>Construction and Judicial Review</i>. (a) Nothing in this order limit
 (b) This order is intended only to improve the internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, its employees, or any person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13548. Increasing Federal Employment of Individuals With Disabilities
+
+Ex. Ord. No. 13548, July 26, 2010, 75 F.R. 45039, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish the Federal Government as a model employer of individuals with disabilities, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. Approximately 54 million Americans are living with a disability. The Federal Government has an important interest in reducing discrimination against Americans living with a disability, in eliminating the stigma associated with disability, and in encouraging Americans with disabilities to seek employment in the Federal workforce. Yet Americans with disabilities have an employment rate far lower than that of Americans without disabilities, and they are underrepresented in the Federal workforce. Individuals with disabilities currently represent just over 5 percent of the nearly 2.5 million people in the Federal workforce, and individuals with targeted disabilities (as defined below) currently represent less than 1 percent of that workforce.
+
+On July 26, 2000, in the final year of his administration, President Clinton signed Executive Order 13163, calling for an additional 100,000 individuals with disabilities to be employed by the Federal Government over 5 years. Yet few steps were taken to implement that Executive Order in subsequent years.
+
+As the Nation's largest employer, the Federal Government must become a model for the employment of individuals with disabilities. Executive departments and agencies (agencies) must improve their efforts to employ workers with disabilities through increased recruitment, hiring, and retention of these individuals. My Administration is committed to increasing the number of individuals with disabilities in the Federal workforce through compliance with Executive Order 13163 and achievement of the goals set forth therein over 5 years, including specific goals for hiring individuals with targeted disabilities.
+
+Sec. 2. <i>Recruitment and Hiring of Individuals with Disabilities</i>. (a) Within 60 days of the date of this order, the Director of the Office of Personnel Management, in consultation with the Secretary of Labor, the Chair of the Equal Employment Opportunity Commission, and the Director of the Office of Management and Budget, shall design model recruitment and hiring strategies for agencies seeking to increase their employment of people with disabilities and develop mandatory training programs for both human resources personnel and hiring managers on the employment of individuals with disabilities.
+
+(b) Within 120 days of the date the Office of Personnel Management sets forth strategies and programs required under subsection (a), each agency shall develop an agency-specific plan for promoting employment opportunities for individuals with disabilities. The plan shall be developed in consultation with and, as appropriate, subject to approval by the Director of the Office of Personnel Management and the Director of the Office of Management and Budget, and shall, consistent with law, include performance targets and numerical goals for employment of individuals with disabilities and sub-goals for employment of individuals with targeted disabilities.
+
+(c) Each agency shall designate a senior-level agency official to be accountable for enhancing employment opportunities for individuals with disabilities and individuals with targeted disabilities within the agency, consistent with law, and for meeting the goals of this order. This official, among other things, shall be accountable for developing and implementing the agency's plan under subsection (b), creating recruitment and training programs for employment of individuals with disabilities and targeted disabilities, and coordinating employment counseling to help match the career aspirations of individuals with disabilities to the needs of the agency.
+
+(d) In implementing their plans, agencies, to the extent permitted by law, shall increase utilization of the Federal Government's Schedule A excepted service hiring authority for persons with disabilities and increase participation of individuals with disabilities in internships, fellowships, and training and mentoring programs.
+
+(e) The Office of Personnel Management shall assist agencies with the implementation of their plans. The Director of the Office of Personnel Management, in consultation with the Director of the Office of Management and Budget, shall implement a system for reporting regularly to the President, the heads of agencies, and the public on agencies’ progress in implementing their plans and the objectives of this order. The Office of Personnel Management, to the extent permitted by law, shall compile and post on its website Government-wide statistics on the hiring of individuals with disabilities.
+
+Sec. 3. <i>Increasing Agencies’ Retention and Return to Work of Individuals with Disabilities</i>. (a) The Director of the Office of Personnel Management, in consultation with the Secretary of Labor and the Chair of the Equal Employment Opportunity Commission, shall identify and assist agencies in implementing strategies for retaining Federal workers with disabilities in Federal employment including, but not limited to, training, the use of centralized funds to provide reasonable accommodations, increasing access to appropriate accessible technologies, and ensuring the accessibility of physical and virtual workspaces.
+
+(b) Agencies shall make special efforts, to the extent permitted by law, to ensure the retention of those who are injured on the job. Agencies shall work to improve, expand, and increase successful return-to-work outcomes for those of their employees who sustain work-related injuries and illnesses, as defined under the Federal Employees’ Compensation Act (FECA), by increasing the availability of job accommodations and light or limited duty jobs, removing disincentives for FECA claimants to return to work, and taking other appropriate measures. The Secretary of Labor, in consultation with the Director of the Office of Personnel Management, shall pursue innovative re-employment strategies and develop policies, procedures, and structures that foster improved return-to-work outcomes, including by pursuing overall reform of the FECA system. The Secretary of Labor shall also propose specific outcome measures and targets by which each agency's progress in carrying out return-to-work and FECA claims processing efforts can be assessed.
+
+Sec. 4. <i>Definitions</i>. (a) “Disability” shall be defined as set forth in the ADA Amendments Act of 2008.
+
+(b) “Targeted disability” shall be defined as set forth on the form for self-identification of disability, Standard Form 256 (SF 256), issued by the Office of Personnel Management, or any replacements, updates, or revisions thereto.
+
+(c) Not less than 1 year after the date of this order and in consultation with the Equal Employment Opportunity Commission, the Department of Labor, and the Office of Management and Budget, the Office of Personnel Management shall review the effectiveness of the definition of targeted disability set forth in SF 256 and replace, update, or revise it as appropriate.
+
+Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) authority granted by law to a department or agency, or the head thereof; or
+
+(ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations, and shall not be construed to require any Federal employee to disclose disability status involuntarily.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

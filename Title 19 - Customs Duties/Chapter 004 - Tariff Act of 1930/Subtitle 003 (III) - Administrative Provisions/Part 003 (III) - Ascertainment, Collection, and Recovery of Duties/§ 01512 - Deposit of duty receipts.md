@@ -10,7 +10,7 @@ Provisions similar to those in this section were contained in R.S. §3010, which
 
 #### Amendments
 
-1970—Pub. L. 91–271 substituted references to customs officers for references to collectors wherever appearing.
+<b>1970</b>—Pub. L. 91–271 substituted references to customs officers for references to collectors wherever appearing.
 
 #### Effective Date of 1970 Amendment
 

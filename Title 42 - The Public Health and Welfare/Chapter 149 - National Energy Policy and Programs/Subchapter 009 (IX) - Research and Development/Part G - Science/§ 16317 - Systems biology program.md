@@ -96,7 +96,7 @@ This part, referred to in subsec. (d), was in the original “this subtitle”, 
 
 #### Amendments
 
-2007—Subsec. (a)(1). Pub. L. 110–140, §232(a)(1), substituted “computational biology, and environmental science” for “and computational biology”.
+<b>2007</b>—Subsec. (a)(1). Pub. L. 110–140, §232(a)(1), substituted “computational biology, and environmental science” for “and computational biology”.
 
 Subsec. (b)(1). Pub. L. 110–140, §232(a)(2)(A), inserted “in sustainable production systems that reduce greenhouse gas emissions” after “hydrogen”.
 

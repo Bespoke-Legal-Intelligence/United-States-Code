@@ -12,9 +12,9 @@
 
 &emsp;(2) chapter 51 and subchapter III of chapter 53 of this title; and
 
-&emsp;(3) section 5 of title 41, except in the case of stenographic reporting services by an organization.
+&emsp;(3) section 6101(b) to (d) of title 41, except in the case of stenographic reporting services by an organization.
 
-> However, an agency subject to chapter 51 and subchapter III of chapter 53 of this title may pay a rate for services under this section in excess of the daily equivalent of the highest rate payable under section 5332 of this title only when specifically authorized by the appropriation or other statute authorizing the procurement of the services.
+> However, an agency subject to chapter 51 and subchapter III of chapter 53 of this title may pay a rate for services under this section in excess of the daily equivalent of the highest rate payable under section 5332 of this title only when specifically authorized by the appropriation or otherstatute authorizing the procurement of the services.
 
 (c) Positions in the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service may not be filled under the authority of subsection (b) of this section.
 
@@ -32,7 +32,7 @@
 
 &emsp;(2) the total amount paid by the agency to each expert and consultant for such work during the period.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 416; Pub. L. 95–454, title IV, §402(b), Oct. 13, 1978, 92 Stat. 1160; Pub. L. 97–258, §3(a)(4), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 100–325, §2(b), May 30, 1988, 102 Stat. 581; Pub. L. 102–378, §2(8), Oct. 2, 1992, 106 Stat. 1347.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 416; Pub. L. 95–454, title IV, §402(b), Oct. 13, 1978, 92 Stat. 1160; Pub. L. 97–258, §3(a)(4), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 100–325, §2(b), May 30, 1988, 102 Stat. 581; Pub. L. 102–378, §2(8), Oct. 2, 1992, 106 Stat. 1347; Pub. L. 111–350, §5(a)(4), Jan. 4, 2011, 124 Stat. 3841.)
 
 Historical and Revision Notes
 
@@ -55,6 +55,8 @@ In subsection (b), the words “the provisions of this title governing appointme
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+
+2011—Subsec. (b)(3). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 5 of title 41”.
 
 1992—Subsecs. (d), (e). Pub. L. 102–378 added subsecs. (d) and (e).
 
@@ -96,7 +98,7 @@ Pub. L. 97–377, title I, §101(e)(1) \[title V, §501\], Dec. 21, 1982, 96 Sta
 
 Pub. L. 102–394, title V, §503, Oct. 6, 1992, 106 Stat. 1825, provided that: “Appropriations contained in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, available for salaries and expenses, shall be available for services as authorized by 5 U.S.C. 3109 but at rates for individuals not to exceed the per diem rate equivalent to the maximum rate payable for senior-level positions under 5 U.S.C. 5376.”
 
-\[Except as otherwise provided, reference to maximum rate under section 5376 of this title before first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate forlevel IV of Executive Schedule (5 U.S.C. 5315) and reference to maximum rate on or after first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level III of Executive Schedule (5 U.S.C. 5314), or for level II of the Executive Schedule (5 U.S.C. 5313) for certain employees, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under section 5376 of this title.\]
+\[Except as otherwise provided, reference to maximum rate under section 5376 of this title before first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level IV of Executive Schedule (5 U.S.C. 5315) and reference to maximum rate on or after first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level III of Executive Schedule (5 U.S.C. 5314), or for level II of the Executive Schedule (5 U.S.C. 5313) for certain employees, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under section 5376 of this title.\]
 
 Similar provisions were contained in the following prior appropriation acts:
 

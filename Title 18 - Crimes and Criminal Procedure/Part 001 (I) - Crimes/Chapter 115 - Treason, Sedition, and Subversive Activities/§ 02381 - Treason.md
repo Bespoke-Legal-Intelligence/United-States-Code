@@ -18,5 +18,5 @@ Minor change was made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322 inserted “under this title but” before “not less than $10,000”.
+<b>1994</b>—Pub. L. 103–322 inserted “under this title but” before “not less than $10,000”.
 

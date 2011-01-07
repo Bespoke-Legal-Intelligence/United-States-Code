@@ -1,6 +1,6 @@
 ### §611. Voting by aliens
 
-(a) It shall be unlawful for any alien to vote in any election held solely or in part for the purpose of electing a candidate for the office of President, Vice President, Presidential elector, Member of the Senate, Member of the House ofRepresentatives, Delegate from the District of Columbia, or Resident Commissioner, unless—
+(a) It shall be unlawful for any alien to vote in any election held solely or in part for the purpose of electing a candidate for the office of President, Vice President, Presidential elector, Member of the Senate, Member of the House of Representatives, Delegate from the District of Columbia, or Resident Commissioner, unless—
 
 &emsp;(1) the election is held partly for some other purpose;
 
@@ -26,7 +26,7 @@ A prior section 611, acts June 25, 1948, ch. 645, 62 Stat. 724; Feb. 7, 1972, Pu
 
 #### Amendments
 
-2000—Subsec. (c). Pub. L. 106–395 added subsec. (c).
+<b>2000</b>—Subsec. (c). Pub. L. 106–395 added subsec. (c).
 
 #### Effective Date of 2000 Amendment
 

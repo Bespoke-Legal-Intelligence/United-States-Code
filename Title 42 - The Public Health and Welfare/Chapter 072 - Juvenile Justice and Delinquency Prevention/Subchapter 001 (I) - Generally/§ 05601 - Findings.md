@@ -2,13 +2,13 @@
 
 (a) The Congress finds the following:
 
-&emsp;(1) Although the juvenile violent crime arrest rate in 1999 was the lowest in the decade,there remains a consensus that the number of crimes and the rate of offending by juveniles nationwide is still too high.
+&emsp;(1) Although the juvenile violent crime arrest rate in 1999 was the lowest in the decade, there remains a consensus that the number of crimes and the rate of offending by juveniles nationwide is still too high.
 
 &emsp;(2) According to the Office of Juvenile Justice and Delinquency Prevention, allowing 1 youth to leave school for a life of crime and of drug abuse costs society $1,700,000 to $2,300,000 annually.
 
 &emsp;(3) One in every 6 individuals (16.2 percent) arrested for committing violent crime in 1999 was less than 18 years of age. In 1999, juveniles accounted for 9 percent of murder arrests, 17 percent of forcible rape arrests, 25 percent of robbery arrest, 14 percent of aggravated assault arrests, and 24 percent of weapons arrests.
 
-&emsp;(4) More than 1/2 of juvenile murder victims are killed with firearms. Of the nearly 1,800 murder victims less than 18 years of age, 17 percent of the victims less than 13 years of age were murdered with a firearm, and 81 percent of the victims 13 years of age or older were killed with a firearm.
+&emsp;(4) More than ½ of juvenile murder victims are killed with firearms. Of the nearly 1,800 murder victims less than 18 years of age, 17 percent of the victims less than 13 years of age were murdered with a firearm, and 81 percent of the victims 13 years of age or older were killed with a firearm.
 
 &emsp;(5) Juveniles accounted for 13 percent of all drug abuse violation arrests in 1999. Between 1990 and 1999, juvenile arrests for drug abuse violations rose 132 percent.
 
@@ -38,7 +38,7 @@
 
 #### Amendments
 
-2002—Pub. L. 107–273 amended heading and text generally. Prior to amendment, text read as follows:
+<b>2002</b>—Pub. L. 107–273 amended heading and text generally. Prior to amendment, text read as follows:
 
 “(a) The Congress hereby finds that—
 
@@ -68,7 +68,7 @@
 
 “(b) Congress finds further that the high incidence of delinquency in the United States today results in enormous annual cost and immeasurable loss of human life, personal security, and wasted human resources and that juvenile delinquency constitutes a growing threat to the national welfare requiring immediate and comprehensive action by the Federal Government to reduce and prevent delinquency.”
 
-1992—Subsec. (a)(2), (3). Pub. L. 102–586, §1(a)(2), added pars. (2) and (3). Former pars. (2) and (3) redesignated (4) and (5), respectively.
+<b>1992</b>—Subsec. (a)(2), (3). Pub. L. 102–586, §1(a)(2), added pars. (2) and (3). Former pars. (2) and (3) redesignated (4) and (5), respectively.
 
 Subsec. (a)(4). Pub. L. 102–586, §1(a)(1), (3), redesignated par. (2) as (4) and inserted “prosecutorial and public defender offices,”. Former par. (4) redesignated (6).
 
@@ -76,7 +76,7 @@ Subsec. (a)(5) to (10). Pub. L. 102–586, §1(a)(1), redesignated pars. (3) to 
 
 Subsec. (a)(11), (12). Pub. L. 102–586, §1(a)(4)–(6), added pars. (11) and (12).
 
-1984—Subsec. (a)(1). Pub. L. 98–473, §611(1), substituted “accounted” for “account” and “in 1974 and for less than one-third of such arrests in 1983” for “today”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–473, §611(1), substituted “accounted” for “account” and “in 1974 and for less than one-third of such arrests in 1983” for “today”.
 
 Subsec. (a)(2). Pub. L. 98–473, §611(2), inserted “and inadequately trained staff in such courts, services, and facilities”.
 
@@ -84,7 +84,7 @@ Subsec. (a)(3). Pub. L. 98–473, §611(3), struck out “the countless, abandon
 
 Subsec. (a)(5). Pub. L. 98–473, §611(4), substituted “reduced” for “prevented”.
 
-1980—Subsec. (a)(4). Pub. L. 96–509, §3(1), inserted reference to alcohol abuse.
+<b>1980</b>—Subsec. (a)(4). Pub. L. 96–509, §3(1), inserted reference to alcohol abuse.
 
 Subsec. (a)(8). Pub. L. 96–509, §3(2)–(4), added par. (8).
 
@@ -134,7 +134,7 @@ Section 670 of division II (§§610–670) of chapter VI of title II of Pub. L. 
 
 #### Effective Date of 1977 Amendment
 
-Section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, §6(d)(2), Oct. 3, 1977, 91 Stat. 1058, which provided that except as otherwise provided by the Juvenile Justice Amendments of 1977 (see Short Title of 1977 Amendments note below), the amendments made by the Juvenile Justice Amendments of 1977 were to take effect on Oct. 1, 1977, was repealed by Pub. L. 100–690, title VII, §7266(2), Nov. 18, 1988, 102 Stat. 4449.
+Section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, §6(d)(2), Oct. 3, 1977, 91 Stat. 1058, which provided that except as otherwise provided by the Juvenile Justice Amendments of 1977 (see Short Title of 1977Amendments note below), the amendments made by the Juvenile Justice Amendments of 1977 were to take effect on Oct. 1, 1977, was repealed by Pub. L. 100–690, title VII, §7266(2), Nov. 18, 1988, 102 Stat. 4449.
 
 #### Effective Date
 
@@ -148,7 +148,7 @@ Pub. L. 110–240, §1, June 3, 2008, 122 Stat. 1560, provided that: “This Act
 
 #### Short Title of 2003 Amendments
 
-Pub. L. 108–96, §1, Oct. 10, 2003, 117 Stat. 1167, provided that: “This Act \[enacting section 5752 of this title,amending sections 5701, 5711, 5712, 5714–2, 5714–21, 5714–23, 5714–24, 5732a, 5751, 5771, 5773, and 5777 of this title, repealing section 5714–25 of this title, and enacting provisions set out as notes under sections 5701 and 5714–1 of this title\] may be cited as the ‘Runaway, Homeless, and Missing Children Protection Act’.”
+Pub. L. 108–96, §1, Oct. 10, 2003, 117 Stat. 1167, provided that: “This Act \[enacting section 5752 of this title, amending sections 5701, 5711, 5712, 5714–2, 5714–21, 5714–23, 5714–24, 5732a, 5751, 5771, 5773, and 5777 of this title, repealing section 5714–25 of this title, and enacting provisions set out as notes under sections 5701 and 5714–1 of this title\] may be cited as the ‘Runaway, Homeless, and Missing Children Protection Act’.”
 
 #### Short Title of 2002 Amendment
 
@@ -184,7 +184,7 @@ Section 1 of Pub. L. 93–415 provided: “That this Act \[enacting this chapter
 
 Section 301 of title III of Pub. L. 93–415, as amended by Pub. L. 96–509, §18(b), Dec. 8, 1980, 94 Stat. 2762, provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Runaway and Homeless Youth Act’.”
 
-Section 401 of title IV of Pub. L. 93–415, as added by Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2125, as amended by Pub. L. 101–204, title X, §1004(1), Dec. 7, 1990, 103 Stat. 1828, provided that: “This title \[enacting subchapter IV of this chapter\] may be cited as the ‘Missing Children's Assistance Act’.”
+Section 401 of title IV of Pub. L. 93–415, as added by Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2125,as amended by Pub. L. 101–204, title X, §1004(1), Dec. 7, 1990, 103 Stat. 1828, provided that: “This title \[enacting subchapter IV of this chapter\] may be cited as the ‘Missing Children's Assistance Act’.”
 
 Section 501 of title V of Pub. L. 93–415, as added by Pub. L. 107–273, div. C, title II, §12222(a), Nov. 2, 2002, 116 Stat. 1894, provided that: “This title \[enacting subchapter V of this chapter\] may be cited as the ‘Incentive Grants for Local Delinquency Prevention Programs Act of 2002’.”
 

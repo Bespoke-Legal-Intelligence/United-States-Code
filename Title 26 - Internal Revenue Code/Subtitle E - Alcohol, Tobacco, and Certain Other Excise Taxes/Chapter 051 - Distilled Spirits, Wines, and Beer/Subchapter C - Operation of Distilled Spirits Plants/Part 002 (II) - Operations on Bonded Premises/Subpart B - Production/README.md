@@ -10,7 +10,7 @@ Subpart B—Production
 
 #### Amendments
 
-1965—Pub. L. 89–44, title VIII, §805(f)(9), June 21, 1965, 79 Stat. 161, inserted reference to articles and residues in item 5223.
+<b>1965</b>—Pub. L. 89–44, title VIII, §805(f)(9), June 21, 1965, 79 Stat. 161, inserted reference to articles and residues in item 5223.
 
 
 ---

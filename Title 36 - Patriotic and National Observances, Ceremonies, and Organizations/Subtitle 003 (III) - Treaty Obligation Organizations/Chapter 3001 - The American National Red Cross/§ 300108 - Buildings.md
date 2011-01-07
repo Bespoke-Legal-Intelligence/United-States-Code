@@ -26,7 +26,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-300108D36:13.DFeb. 7, 1930, ch. 42, §§1, 5, 46 Stat. 66.
+300108
+
+36:13.
+
+Feb. 7, 1930, ch. 42, §§1, 5, 46 Stat. 66.
 
 &nbsp;
 

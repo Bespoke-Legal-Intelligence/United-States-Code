@@ -4,7 +4,7 @@
 
 The Secretary—
 
-&emsp;(1) subject to the availability of, and from, amounts appropriated pursuant to subsection\(e)(1) of this section, shall conduct training activities and provide—
+&emsp;(1) subject to the availability of, and from, amounts appropriated pursuant to subsection (e)(1) of this section, shall conduct training activities and provide—
 
 &emsp;&emsp;(A) training and technical assistance to improve the skills of individuals employed in—
 
@@ -104,25 +104,25 @@ The activities conducted and assistance provided as required by subsection (a)(1
 
 &emsp;The Secretary shall use any food service management institute established under subsection (a)(2) of this section to assist in carrying out dietary and nutrition activities of the Secretary.
 
-#### (e) Authorization of appropriations
+#### (e) Food service management institute
 
-#### (1) Training activities and technical assistance
+#### (1) Funding
 
-&emsp;There are authorized to be appropriated to carry out subsection (a)(1) of this section $3,000,000 for fiscal year 1990, $2,000,000 for fiscal year 1991, and $1,000,000 for each of fiscal years 1992 through 2009.
+#### (A) In general
 
-#### (2) Food service management institute
+&emsp;&emsp;In addition to any amounts otherwise made available for fiscal year 2011, on October 1, 2010, and each October 1 thereafter, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary to carry out subsection (a)(2) $5,000,000, to remain available until expended.
 
-#### (A) Funding
+#### (B) Receipt and acceptance
 
-&emsp;&emsp;In addition to any amounts otherwise made available for fiscal year 1995, out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall provide to the Secretary $3,000,000 for fiscal year 2004 and $4,000,000 for fiscal year 2005 and each subsequent fiscal year, to carry out subsection (a)(2) of this section. The Secretary shall be entitled to receive the funds and shall accept the funds, without further appropriation.
+&emsp;&emsp;The Secretary shall be entitled to receive, shall accept, and shall use to carry out subsection (a)(2) the funds transferred under subparagraph (A), without further appropriation.
 
-#### (B) Additional funding
+#### (2) Additional funding
 
-&emsp;&emsp;In addition to amounts made available under subparagraph (A), there are authorized to be appropriated to carry out subsection (a)(2) of this section such sums as are necessary for fiscal year 1995 and each subsequent fiscal year. The Secretary shall carry out activities under subsection (a)(2) of this section, in addition to the activities funded under subparagraph (A), to the extent provided for, and in such amounts as are provided for, in advance in appropriations Acts.
+&emsp;In addition to amounts made available under paragraph (1), there are authorized to be appropriated to carry out subsection (a)(2) of this section such sums as are necessary for fiscal year 1995 and each subsequent fiscal year. The Secretary shall carry out activities under subsection (a)(2) of this section, in addition to the activities funded under paragraph (1), to the extent provided for, and in such amounts as are provided for, in advance in appropriations Acts.
 
-#### (C) Funding for education, training, or applied research or studies
+#### (3) Funding for education, training, or applied research or studies
 
-&emsp;&emsp;In addition to amounts made available under subparagraphs (A) and (B), from amounts otherwise appropriated to the Secretary in discretionary appropriations, the Secretary may provide funds to any food service management institute established under subsection (a)(2) of this section for projects specified by the Secretary that will contribute to implementing dietary or nutrition initiatives. Any additional funding under this subparagraph shall be provided noncompetitively in a separate cooperative agreement.
+&emsp;In addition to amounts made available under paragraphs (1) and (2), from amounts otherwise appropriated to the Secretary in discretionary appropriations, the Secretary may provide funds to any food service management institute established under subsection (a)(2) of this section for projects specified by the Secretary that will contribute to implementing dietary or nutrition initiatives. Any additional funding under this subparagraph shall be provided noncompetitively in a separate cooperative agreement.
 
 #### (f) Administrative training and technical assistance material
 
@@ -136,9 +136,11 @@ In collaboration with State educational agencies, local educational agencies, an
 
 &emsp;&emsp;Out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary of Agriculture to carry out this subsection—
 
-&emsp;&emsp;&emsp;(i) on October 1, 2004, and October 1, 2005, $3,000,000; and
+&emsp;&emsp;&emsp;(i) on October 1, 2004, and October 1, 2005, $3,000,000;
 
-&emsp;&emsp;&emsp;(ii) on October 1, 2006, October 1, 2007, October 1, 2008, and October 1, 2009, $2,000,000.
+&emsp;&emsp;&emsp;(ii) on October 1, 2006, October 1, 2007, October 1, 2008, and October 1, 2009, $2,000,000; and
+
+&emsp;&emsp;&emsp;(iii) on October 1, 2010, and every October 1 thereafter, $4,000,000.
 
 #### (B) Receipt and acceptance
 
@@ -156,13 +158,17 @@ In collaboration with State educational agencies, local educational agencies, an
 
 &emsp;&emsp;(B) to assist State educational agencies in reviewing the administrative practices of local educational agencies, to the extent determined by the Secretary.
 
-(June 4, 1946, ch. 281, §21, as added Pub. L. 101–147, title I, §109, Nov. 10, 1989, 103 Stat. 887; amended Pub. L. 102–337, §1, Aug. 7, 1992, 106 Stat. 865; Pub. L. 103–448, title I, §120, Nov. 2, 1994, 108 Stat. 4726; Pub. L. 105–336, title I, §§103(c)(2), 110, Oct. 31, 1998, 112 Stat. 3147, 3157; Pub. L. 108–265, title I, §§125, 126(a), title II, §205(b), June 30, 2004, 118 Stat. 761, 763, 787; Pub. L. 108–447, div. A, title VII, §788(c), Dec. 8, 2004, 118 Stat. 2851; Pub. L. 111–80, title VII, §749(e), Oct. 21, 2009, 123 Stat. 2132.)
+(June 4, 1946, ch. 281, §21, as added Pub. L. 101–147, title I, §109, Nov. 10, 1989, 103 Stat. 887; amended Pub. L. 102–337, §1, Aug. 7, 1992, 106 Stat. 865; Pub. L. 103–448, title I, §120, Nov. 2, 1994, 108 Stat. 4726; Pub. L. 105–336, title I, §§103(c)(2), 110, Oct. 31, 1998, 112 Stat. 3147, 3157; Pub. L. 108–265, title I, §§125, 126(a), title II, §205(b), June 30, 2004, 118 Stat. 761, 763, 787; Pub. L. 108–447, div. A, title VII, §788(c), Dec. 8, 2004, 118 Stat. 2851; Pub. L. 111–80, title VII, §749(e), Oct. 21, 2009, 123 Stat. 2132; Pub. L. 111–296, title IV, §§406, 407, Dec. 13, 2010, 124 Stat. 3259, 3260.)
 
 #### Amendments
 
-2009—Subsec. (g)(1)(A)(ii). Pub. L. 111–80 substituted “October 1, 2008, and October 1, 2009” for “and October 1, 2008”.
+<b>2010</b>—Subsec. (e). Pub. L. 111–296, §406, substituted “Food service management institute” for “Authorization of appropriations” in heading, added par. (1), redesignated former subpars. (B) and (C) of former par. (2) as pars. (2) and (3), respectively, and realigned margins, substituted “paragraph (1)” for “subparagraph (A)” in two places in par. (2) and “paragraphs (1) and (2)” for “subparagraphs (A) and (B)” in par. (3), and struck out former pars. (1) and (2)(A) which related to authorization of appropriations for training activities and technical assistance and funding for the food service management institute, respectively.
 
-2004—Subsec. (a)(1). Pub. L. 108–265, §125(a), substituted provisions relating to training and technical assistance under this chapter, section 1773 of this title, and other federally assisted programs, including assistance on a competitive basis to State agencies for the purpose of aiding schools with at least 50 percent of enrolled children certified to receive free or reduced price meals, and to State agencies with low proportions of students that participate in the school breakfast program and demonstrate the greatest need, for provisions relating to training activities and technical assistance under this chapter, section 1773 of this title, and other federally assisted programs.
+Subsec. (g)(1)(A)(iii). Pub. L. 111–296, §407, added cl. (iii).
+
+<b>2009</b>—Subsec. (g)(1)(A)(ii). Pub. L. 111–80 substituted “October 1, 2008, and October 1, 2009” for “and October 1, 2008”.
+
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–265, §125(a), substituted provisions relating to training and technical assistance under this chapter, section 1773 of this title, and other federally assisted programs, including assistance on a competitive basis to State agencies for the purpose of aiding schools with at least 50 percent of enrolled children certified to receive free or reduced price meals, and to State agencies with low proportions of students that participate in the school breakfast program and demonstrate the greatest need, for provisions relating to training activities and technical assistance under this chapter, section 1773 of this title, and other federally assisted programs.
 
 Subsec. (c)(2)(B)(vi) to (x). Pub. L. 108–265, §125(b), added cl. (vi), struck out former cls. (vi) and (vii), which related to safety and food handling, respectively, and redesignated former cls. (viii) to (x) as (vii) to (ix), respectively.
 
@@ -176,7 +182,7 @@ Pub. L. 108–265, §125(c)(2), substituted “provide to the Secretary” for �
 
 Subsecs. (f), (g). Pub. L. 108–265, §126(a), added subsecs. (f) and (g).
 
-1998—Subsec. (c)(2)(F), (H). Pub. L. 105–336, §110(a), substituted “established by the Secretary” for “of section 1769e of this title”.
+<b>1998</b>—Subsec. (c)(2)(F), (H). Pub. L. 105–336, §110(a), substituted “established by the Secretary” for “of section 1769e of this title”.
 
 Subsec. (e)(1). Pub. L. 105–336, §110(b), substituted “2003” for “1998”.
 
@@ -184,7 +190,7 @@ Subsec. (e)(2)(A). Pub. L. 105–336, §110(c), substituted “$2,000,000 for ea
 
 Pub. L. 105–336, §103(c)(2), inserted “, without further appropriation” before period at end of second sentence.
 
-1994—Subsec. (a)(1). Pub. L. 103–448, §120(c)(1), substituted “subject to the availability of, and from, amounts” for “from amounts” in introductory provisions.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–448, §120(c)(1), substituted “subject to the availability of, and from, amounts” for “from amounts” in introductory provisions.
 
 Subsec. (c)(2)(B)(ix), (x). Pub. L. 103–448, §120(a)(1), added cl. (ix) and redesignated former cl. (ix) as (x).
 
@@ -198,7 +204,11 @@ Subsec. (e). Pub. L. 103–448, §120(c)(2), added subsec. (e) and struck out fo
 
 &emsp;“(2) $1,000,000 for the fiscal year 1990 and $4,000,000 for each of the fiscal years 1991, 1992, 1993, and 1994 for purposes of carrying out subsection (a)(2) of this section.”
 
-1992—Subsec. (a)(2). Pub. L. 102–337 inserted “to provide financial and other assistance to the University of Mississippi, in cooperation with the University of Southern Mississippi,” after “is authorized”.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–337 inserted “to provide financial and other assistance to the University of Mississippi, in cooperation with the University of Southern Mississippi,” after “is authorized”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as a note under section 1751 of this title.
 
 #### Effective Date of 1998 Amendment
 

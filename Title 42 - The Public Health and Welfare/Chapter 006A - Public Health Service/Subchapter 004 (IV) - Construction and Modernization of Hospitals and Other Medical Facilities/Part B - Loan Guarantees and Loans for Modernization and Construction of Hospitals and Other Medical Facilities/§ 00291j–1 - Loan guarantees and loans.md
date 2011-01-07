@@ -14,11 +14,11 @@
 
 #### (c) Administrative assistance
 
-The Secretary, with the consent of the Secretary of Housing and Urban Development, shall obtain from the Department of Housing and Urban Development such assistance with respect to the administration of this part as will promote efficiency and economy thereof.
+The Secretary, with the consent of the Secretary of Housing and Urban Development, shallobtain from the Department of Housing and Urban Development such assistance with respect to the administration of this part as will promote efficiency and economy thereof.
 
 (July 1, 1944, ch. 373, title VI, §621, as added Pub. L. 91–296, title II, §201, June 30, 1970, 84 Stat. 344; amended Pub. L. 93–45, title I, §108(b)(1), June 18, 1973, 87 Stat. 93.)
 
 #### Amendments
 
-1973—Subsec. (a). Pub. L. 93–45 extended termination date of guarantee and loan making period in pars. (1) and (2) from June 30, 1973, to June 30, 1974.
+<b>1973</b>—Subsec. (a). Pub. L. 93–45 extended termination date of guarantee and loan making period in pars. (1) and (2) from June 30, 1973, to June 30, 1974.
 

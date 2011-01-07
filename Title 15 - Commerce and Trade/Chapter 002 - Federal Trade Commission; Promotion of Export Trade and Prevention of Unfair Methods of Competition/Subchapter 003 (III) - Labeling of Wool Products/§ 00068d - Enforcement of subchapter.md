@@ -8,7 +8,7 @@ The Commission is authorized and directed to prevent any person from violating t
 
 The Commission is authorized and directed to make rules and regulations for the manner and form of disclosing information required by this subchapter, and for segregation of such information for different portions of a wool product as may be necessary to avoid deception or confusion, and to make such further rules and regulations under and in pursuance of the terms of this subchapter as may be necessary and proper for administration and enforcement.
 
-The Commission is also authorized to cause inspections, analyses, tests, and examinations to be made of any wool products subject to this subchapter; and to cooperate with any department or agency of the Government, with any State, Territory, or possession, or with the District of Columbia; or with any department, agency, or political subdivision thereof; or with any person.
+The Commission is also authorized to cause inspections, analyses, tests, and examinations to be made of any wool products subject to this subchapter; and to cooperate with any department or agency of the Government, with anyState, Territory, or possession, or with the District of Columbia; or with any department, agency, or political subdivision thereof; or with any person.
 
 #### (b) Maintenance of records by wool manufacturers
 

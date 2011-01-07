@@ -6,5 +6,5 @@ There is hereby established in the Treasury of the United States a fund to be kn
 
 #### Amendments
 
-2009—Pub. L. 111–8 substituted “in this or any succeeding” for “for this or any succeeding”.
+<b>2009</b>—Pub. L. 111–8 substituted “in this or any succeeding” for “for this or any succeeding”.
 

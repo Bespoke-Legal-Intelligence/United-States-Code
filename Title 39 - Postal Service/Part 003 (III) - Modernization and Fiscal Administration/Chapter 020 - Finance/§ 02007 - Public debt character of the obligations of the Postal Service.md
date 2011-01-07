@@ -6,5 +6,5 @@ For the purpose of any purchase of the obligations of the Postal Service, the Se
 
 #### Amendments
 
-1983—Pub. L. 97–452 substituted “chapter 31 of title 31” for “the Second Liberty Bond Act” wherever appearing.
+<b>1983</b>—Pub. L. 97–452 substituted “chapter 31 of title 31” for “the Second Liberty Bond Act” wherever appearing.
 

@@ -16,5 +16,5 @@ In the punishment provision the words “five years” were substituted for “t
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 

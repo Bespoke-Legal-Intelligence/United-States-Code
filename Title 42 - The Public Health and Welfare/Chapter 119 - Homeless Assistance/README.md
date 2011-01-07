@@ -66,153 +66,64 @@
 
 #### SUBCHAPTER IV—HOUSING ASSISTANCE
 
-#### Part A—Comprehensive Homeless Assistance Plan
+#### Part A—General Provisions
 
 |  |  |
 | :--- | ---: |
-| [11360\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20Comprehensive%20Homeless%20Assistance%20Plan/%C2%A7%2011360%20-%20Definitions.md) | Definitions. |
-| [11360a.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20Comprehensive%20Homeless%20Assistance%20Plan/%C2%A7%2011360a%20-%20Collaborative%20applicants.md) | Collaborative applicants. |
-| [11361\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20Comprehensive%20Homeless%20Assistance%20Plan/%C2%A7%2011361%20-%20Housing%20affordability%20strategy.md) | Housing affordability strategy. |
-| [11361a.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20Comprehensive%20Homeless%20Assistance%20Plan/%C2%A7%2011361a%20-%20Preventing%20involuntary%20family%20separation.md) | Preventing involuntary family separation. |
-| [11361b.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20Comprehensive%20Homeless%20Assistance%20Plan/%C2%A7%2011361b%20-%20Technical%20assistance.md) | Technical assistance. |
-| [11362\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20Comprehensive%20Homeless%20Assistance%20Plan/%C2%A7%2011362%20-%20Discharge%20coordination%20policy.md) | Discharge coordination policy. |
-| [11363\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20Comprehensive%20Homeless%20Assistance%20Plan/%C2%A7%2011363%20-%20Protection%20of%20personally%20identifying%20information%20by%20victim%20service%20providers.md) | Protection of personally identifying information by victim service providers. |
-| [11364\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20Comprehensive%20Homeless%20Assistance%20Plan/%C2%A7%2011364%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [11360\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20General%20Provisions/%C2%A7%2011360%20-%20Definitions.md) | Definitions. |
+| [11360a.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20General%20Provisions/%C2%A7%2011360a%20-%20Collaborative%20applicants.md) | Collaborative applicants. |
+| [11361\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20General%20Provisions/%C2%A7%2011361%20-%20Housing%20affordability%20strategy.md) | Housing affordability strategy. |
+| [11361a.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20General%20Provisions/%C2%A7%2011361a%20-%20Preventing%20involuntary%20family%20separation.md) | Preventing involuntary family separation. |
+| [11361b.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20General%20Provisions/%C2%A7%2011361b%20-%20Technical%20assistance.md) | Technical assistance. |
+| [11362\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20General%20Provisions/%C2%A7%2011362%20-%20Discharge%20coordination%20policy.md) | Discharge coordination policy. |
+| [11363\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20General%20Provisions/%C2%A7%2011363%20-%20Protection%20of%20personally%20identifying%20information%20by%20victim%20service%20providers.md) | Protection of personally identifying information by victim service providers. |
+| [11364\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20A%20-%20General%20Provisions/%C2%A7%2011364%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part B—Emergency Shelter Grants Program
+#### Part B—Emergency Solutions Grants Program
 
 |  |  |
 | :--- | ---: |
-| [11371\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20B%20-%20Emergency%20Shelter%20Grants%20Program/%C2%A7%2011371%20-%20Definitions.md) | Definitions. |
-| [11372\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20B%20-%20Emergency%20Shelter%20Grants%20Program/%C2%A7%2011372%20-%20Grant%20assistance.md) | Grant assistance. |
-| [11372a.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20B%20-%20Emergency%20Shelter%20Grants%20Program/%C2%A7%2011372a%20-%20Amount%20and%20allocation%20of%20assistance.md) | Amount and allocation of assistance. |
-| [11373\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20B%20-%20Emergency%20Shelter%20Grants%20Program/%C2%A7%2011373%20-%20Allocation%20and%20distribution%20of%20assistance.md) | Allocation and distribution of assistance. |
-| [11374\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20B%20-%20Emergency%20Shelter%20Grants%20Program/%C2%A7%2011374%20-%20Eligible%20activities.md) | Eligible activities. |
-| [11375\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20B%20-%20Emergency%20Shelter%20Grants%20Program/%C2%A7%2011375%20-%20Responsibilities%20of%20recipients.md) | Responsibilities of recipients. |
-| [11376\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20B%20-%20Emergency%20Shelter%20Grants%20Program/%C2%A7%2011376%20-%20Administrative%20provisions.md) | Administrative provisions. |
-| [11377\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20B%20-%20Emergency%20Shelter%20Grants%20Program/%C2%A7%2011377%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [11378\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20B%20-%20Emergency%20Shelter%20Grants%20Program/%C2%A7%2011378%20-%20Administrative%20costs.md) | Administrative costs. |
+| [11371\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20B%20-%20Emergency%20Solutions%20Grants%20Program/%C2%A7%2011371%20-%20Definitions.md) | Definitions. |
+| [11372\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20B%20-%20Emergency%20Solutions%20Grants%20Program/%C2%A7%2011372%20-%20Grant%20assistance.md) | Grant assistance. |
+| [11372a.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20B%20-%20Emergency%20Solutions%20Grants%20Program/%C2%A7%2011372a%20-%20Amount%20and%20allocation%20of%20assistance.md) | Amount and allocation of assistance. |
+| [11373\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20B%20-%20Emergency%20Solutions%20Grants%20Program/%C2%A7%2011373%20-%20Allocation%20and%20distribution%20of%20assistance.md) | Allocation and distribution of assistance. |
+| [11374\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20B%20-%20Emergency%20Solutions%20Grants%20Program/%C2%A7%2011374%20-%20Eligible%20activities.md) | Eligible activities. |
+| [11375\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20B%20-%20Emergency%20Solutions%20Grants%20Program/%C2%A7%2011375%20-%20Responsibilities%20of%20recipients.md) | Responsibilities of recipients. |
+| [11376\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20B%20-%20Emergency%20Solutions%20Grants%20Program/%C2%A7%2011376%20-%20Administrative%20provisions.md) | Administrative provisions. |
+| [11377\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20B%20-%20Emergency%20Solutions%20Grants%20Program/%C2%A7%2011377%20-%20Repealed.%20Pub.%20L.%20111%E2%80%9322%2C%20div.%20B%2C%20title%20II%2C%20%C2%A71201%282%29%2C%20May%2020%2C%202009%2C%20123%20Stat.%201678.md) | Repealed. |
+| [11378\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20B%20-%20Emergency%20Solutions%20Grants%20Program/%C2%A7%2011378%20-%20Administrative%20costs.md) | Administrative costs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part C—Supportive Housing Program
+#### Part C—Continuum of Care Program
 
 |  |  |
 | :--- | ---: |
-| [11381\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Supportive%20Housing%20Program/%C2%A7%2011381%20-%20Purpose.md) | Purpose. |
-| [11382\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Supportive%20Housing%20Program/%C2%A7%2011382%20-%20Definitions.md) | Definitions. |
-| [11383\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Supportive%20Housing%20Program/%C2%A7%2011383%20-%20Eligible%20activities.md) | Eligible activities. |
-| [11384\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Supportive%20Housing%20Program/%C2%A7%2011384%20-%20Supportive%20housing.md) | Supportive housing. |
-| [11385\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Supportive%20Housing%20Program/%C2%A7%2011385%20-%20Supportive%20services.md) | Supportive services. |
-| [11386\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Supportive%20Housing%20Program/%C2%A7%2011386%20-%20Program%20requirements.md) | Program requirements. |
-| [11386a.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Supportive%20Housing%20Program/%C2%A7%2011386a%20-%20Selection%20criteria.md) | Selection criteria. |
-| [11386b.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Supportive%20Housing%20Program/%C2%A7%2011386b%20-%20Allocation%20of%20amounts%20and%20incentives%20for%20specific%20eligible%20activities.md) | Allocation of amounts and incentives for specific eligible activities. |
-| [11386c.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Supportive%20Housing%20Program/%C2%A7%2011386c%20-%20Renewal%20funding%20and%20terms%20of%20assistance%20for%20permanent%20housing.md) | Renewal funding and terms of assistance for permanent housing. |
-| [11386d.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Supportive%20Housing%20Program/%C2%A7%2011386d%20-%20Matching%20funding.md) | Matching funding. |
-| [11386e.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Supportive%20Housing%20Program/%C2%A7%2011386e%20-%20Appeal%20procedure.md) | Appeal procedure. |
-| [11387\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Supportive%20Housing%20Program/%C2%A7%2011387%20-%20Regulations.md) | Regulations. |
-| [11388\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Supportive%20Housing%20Program/%C2%A7%2011388%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
-| [11389\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Supportive%20Housing%20Program/%C2%A7%2011389%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [11381\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Continuum%20of%20Care%20Program/%C2%A7%2011381%20-%20Purposes.md) | Purposes. |
+| [11382\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Continuum%20of%20Care%20Program/%C2%A7%2011382%20-%20Continuum%20of%20care%20applications%20and%20grants.md) | Continuum of care applications and grants. |
+| [11383\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Continuum%20of%20Care%20Program/%C2%A7%2011383%20-%20Eligible%20activities.md) | Eligible activities. |
+| [11384\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Continuum%20of%20Care%20Program/%C2%A7%2011384%20-%20Incentives%20for%20high-performing%20communities.md) | Incentives for high-performing communities. |
+| [11385\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Continuum%20of%20Care%20Program/%C2%A7%2011385%20-%20Supportive%20services.md) | Supportive services. |
+| [11386\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Continuum%20of%20Care%20Program/%C2%A7%2011386%20-%20Program%20requirements.md) | Program requirements. |
+| [11386a.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Continuum%20of%20Care%20Program/%C2%A7%2011386a%20-%20Selection%20criteria.md) | Selection criteria. |
+| [11386b.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Continuum%20of%20Care%20Program/%C2%A7%2011386b%20-%20Allocation%20of%20amounts%20and%20incentives%20for%20specific%20eligible%20activities.md) | Allocation of amounts and incentives for specific eligible activities. |
+| [11386c.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Continuum%20of%20Care%20Program/%C2%A7%2011386c%20-%20Renewal%20funding%20and%20terms%20of%20assistance%20for%20permanent%20housing.md) | Renewal funding and terms of assistance for permanent housing. |
+| [11386d.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Continuum%20of%20Care%20Program/%C2%A7%2011386d%20-%20Matching%20funding.md) | Matching funding. |
+| [11386e.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Continuum%20of%20Care%20Program/%C2%A7%2011386e%20-%20Appeal%20procedure.md) | Appeal procedure. |
+| [11387\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Continuum%20of%20Care%20Program/%C2%A7%2011387%20-%20Regulations.md) | Regulations. |
+| [11388\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Continuum%20of%20Care%20Program/%C2%A7%2011388%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
+| [11389\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Continuum%20of%20Care%20Program/%C2%A7%2011389%20-%20Repealed.%20Pub.%20L.%20111%E2%80%9322%2C%20div.%20B%2C%20title%20III%2C%20%C2%A71305%281%29%2C%20May%2020%2C%202009%2C%20123%20Stat.%201690.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part D—Safe Havens for Homeless Individuals Demonstration Program
+#### Part D—Rural Housing Stability Assistance Program
 
 |  |  |
 | :--- | ---: |
-| [11391\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20D%20-%20Safe%20Havens%20for%20Homeless%20Individuals%20Demonstration%20Program/%C2%A7%2011391%20-%20Establishment%20of%20demonstration.md) | Establishment of demonstration. |
-| [11392\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20D%20-%20Safe%20Havens%20for%20Homeless%20Individuals%20Demonstration%20Program/%C2%A7%2011392%20-%20Definitions.md) | Definitions. |
-| [11393\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20D%20-%20Safe%20Havens%20for%20Homeless%20Individuals%20Demonstration%20Program/%C2%A7%2011393%20-%20Program%20assistance.md) | Program assistance. |
-| [11394\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20D%20-%20Safe%20Havens%20for%20Homeless%20Individuals%20Demonstration%20Program/%C2%A7%2011394%20-%20Program%20requirements.md) | Program requirements. |
-| [11395\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20D%20-%20Safe%20Havens%20for%20Homeless%20Individuals%20Demonstration%20Program/%C2%A7%2011395%20-%20Occupancy%20charge.md) | Occupancy charge. |
-| [11396\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20D%20-%20Safe%20Havens%20for%20Homeless%20Individuals%20Demonstration%20Program/%C2%A7%2011396%20-%20Termination%20of%20assistance.md) | Termination of assistance. |
-| [11397\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20D%20-%20Safe%20Havens%20for%20Homeless%20Individuals%20Demonstration%20Program/%C2%A7%2011397%20-%20Evaluation%20and%20report.md) | Evaluation and report. |
-| [11398\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20D%20-%20Safe%20Havens%20for%20Homeless%20Individuals%20Demonstration%20Program/%C2%A7%2011398%20-%20Regulations.md) | Regulations. |
-| [11399\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20D%20-%20Safe%20Havens%20for%20Homeless%20Individuals%20Demonstration%20Program/%C2%A7%2011399%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part E—Miscellaneous Provisions
-
-|  |  |
-| :--- | ---: |
-| [11401\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2011401%20-%20Section%201437f%20assistance%20for%20single%20room%20occupancy%20dwellings.md) | Section 1437f assistance for single room occupancy dwellings. |
-| [11402\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2011402%20-%20Environmental%20review.md) | Environmental review. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part F—Shelter Plus Care Program
-
-I74subpart i—general requirements
-
-|  |  |
-| :--- | ---: |
-| [11403\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20F%20-%20Shelter%20Plus%20Care%20Program/Subpart%20001%20%28i%29%20-%20General%20Requirements/%C2%A7%2011403%20-%20Purpose.md) | Purpose. |
-| [11403a.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20F%20-%20Shelter%20Plus%20Care%20Program/Subpart%20001%20%28i%29%20-%20General%20Requirements/%C2%A7%2011403a%20-%20Rental%20housing%20assistance.md) | Rental housing assistance. |
-| [11403b.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20F%20-%20Shelter%20Plus%20Care%20Program/Subpart%20001%20%28i%29%20-%20General%20Requirements/%C2%A7%2011403b%20-%20Supportive%20services%20requirements.md) | Supportive services requirements. |
-| [11403c.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20F%20-%20Shelter%20Plus%20Care%20Program/Subpart%20001%20%28i%29%20-%20General%20Requirements/%C2%A7%2011403c%20-%20Applications.md) | Applications. |
-| [11403d.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20F%20-%20Shelter%20Plus%20Care%20Program/Subpart%20001%20%28i%29%20-%20General%20Requirements/%C2%A7%2011403d%20-%20Selection%20criteria.md) | Selection criteria. |
-| [11403e.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20F%20-%20Shelter%20Plus%20Care%20Program/Subpart%20001%20%28i%29%20-%20General%20Requirements/%C2%A7%2011403e%20-%20Required%20agreements.md) | Required agreements. |
-| 11403e–1. | Housing standards and rent reasonableness. |
-| 11403e–2. | Tenant rent. |
-| 11403e–3. | Administrative fees. |
-| 11403e–4. | Occupancy. |
-| [11403f.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20F%20-%20Shelter%20Plus%20Care%20Program/Subpart%20001%20%28i%29%20-%20General%20Requirements/%C2%A7%2011403f%20-%20Termination%20of%20assistance.md) | Termination of assistance. |
-| 11403f–1. | Term of contract with owner or lessor. |
-| [11403g.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20F%20-%20Shelter%20Plus%20Care%20Program/Subpart%20001%20%28i%29%20-%20General%20Requirements/%C2%A7%2011403g%20-%20Definitions.md) | Definitions. |
-| [11403h.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20F%20-%20Shelter%20Plus%20Care%20Program/Subpart%20001%20%28i%29%20-%20General%20Requirements/%C2%A7%2011403h%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### subpart ii—tenant-based rental assistance
-
-|  |  |
-| :--- | ---: |
-| [11404\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20F%20-%20Shelter%20Plus%20Care%20Program/Subpart%20002%20%28ii%29%20-%20Tenant-Based%20Rental%20Assistance/%C2%A7%2011404%20-%20Authority.md) | Authority. |
-| [11404a.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20F%20-%20Shelter%20Plus%20Care%20Program/Subpart%20002%20%28ii%29%20-%20Tenant-Based%20Rental%20Assistance/%C2%A7%2011404a%20-%20Housing%20assistance.md) | Housing assistance. |
-| [11404b.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20F%20-%20Shelter%20Plus%20Care%20Program/Subpart%20002%20%28ii%29%20-%20Tenant-Based%20Rental%20Assistance/%C2%A7%2011404b%20-%20Amount%20of%20assistance.md) | Amount of assistance. |
-| 11404c to 11404e. Transferred. |  |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### subpart iii—project-based rental assistance
-
-|  |  |
-| :--- | ---: |
-| [11405\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20F%20-%20Shelter%20Plus%20Care%20Program/Subpart%20003%20%28iii%29%20-%20Project-Based%20Rental%20Assistance/%C2%A7%2011405%20-%20Authority.md) | Authority. |
-| [11405a.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20F%20-%20Shelter%20Plus%20Care%20Program/Subpart%20003%20%28iii%29%20-%20Project-Based%20Rental%20Assistance/%C2%A7%2011405a%20-%20Housing%20assistance.md) | Housing assistance. |
-| [11405b.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20F%20-%20Shelter%20Plus%20Care%20Program/Subpart%20003%20%28iii%29%20-%20Project-Based%20Rental%20Assistance/%C2%A7%2011405b%20-%20Term%20of%20contract%20and%20amount%20of%20assistance.md) | Term of contract and amount of assistance. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### subpart iv—sponsor-based rental assistance
-
-|  |  |
-| :--- | ---: |
-| [11406\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20F%20-%20Shelter%20Plus%20Care%20Program/Subpart%20004%20%28iv%29%20-%20Sponsor-Based%20Rental%20Assistance/%C2%A7%2011406%20-%20Authority.md) | Authority. |
-| [11406a.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20F%20-%20Shelter%20Plus%20Care%20Program/Subpart%20004%20%28iv%29%20-%20Sponsor-Based%20Rental%20Assistance/%C2%A7%2011406a%20-%20Housing%20assistance.md) | Housing assistance. |
-| [11406b.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20F%20-%20Shelter%20Plus%20Care%20Program/Subpart%20004%20%28iv%29%20-%20Sponsor-Based%20Rental%20Assistance/%C2%A7%2011406b%20-%20Term%20of%20contract%20and%20amount%20of%20assistance.md) | Term of contract and amount of assistance. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### subpart v—section 1437f moderate rehabilitation assistance for single-room occupancy dwellings
-
-|  |  |
-| :--- | ---: |
-| [11407\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20F%20-%20Shelter%20Plus%20Care%20Program/Subpart%20005%20%28v%29%20-%20Section%201437F/%C2%A7%2011407%20-%20Authority.md) | Authority. |
-| [11407a.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20F%20-%20Shelter%20Plus%20Care%20Program/Subpart%20005%20%28v%29%20-%20Section%201437F/%C2%A7%2011407a%20-%20Fire%20and%20safety%20improvements.md) | Fire and safety improvements. |
-| [11407b.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20F%20-%20Shelter%20Plus%20Care%20Program/Subpart%20005%20%28v%29%20-%20Section%201437F/%C2%A7%2011407b%20-%20Contract%20requirements.md) | Contract requirements. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part G—Rural Homeless Housing Assistance
-
-|  |  |
-| :--- | ---: |
-| [11408\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20G%20-%20Rural%20Homeless%20Housing%20Assistance/%C2%A7%2011408%20-%20Rural%20homelessness%20grant%20program.md) | Rural homelessness grant program. |
-| [11408a.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20G%20-%20Rural%20Homeless%20Housing%20Assistance/%C2%A7%2011408a%20-%20Use%20of%20FMHA%20inventory%20for%20transitional%20housing%20for%20homeless%20persons%20and%20for%20turnkey%20housing.md) | Use of FMHA inventory for transitional housing for homeless persons and for turnkey housing. |
+| [11408\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20D%20-%20Rural%20Housing%20Stability%20Assistance%20Program/%C2%A7%2011408%20-%20Rural%20housing%20stability%20grant%20program.md) | Rural housing stability grant program. |
+| [11408a.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20D%20-%20Rural%20Housing%20Stability%20Assistance%20Program/%C2%A7%2011408a%20-%20Use%20of%20FMHA%20inventory%20for%20transitional%20housing%20for%20homeless%20persons%20and%20for%20turnkey%20housing.md) | Use of FMHA inventory for transitional housing for homeless persons and for turnkey housing. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

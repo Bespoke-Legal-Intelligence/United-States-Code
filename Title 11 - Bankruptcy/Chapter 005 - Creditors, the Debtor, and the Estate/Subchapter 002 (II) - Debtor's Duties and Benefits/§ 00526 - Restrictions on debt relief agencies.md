@@ -4,7 +4,7 @@
 
 &emsp;(1) fail to perform any service that such agency informed an assisted person or prospective assisted person it would provide in connection with a case or proceeding under this title;
 
-&emsp;(2) make any statement, or counsel or advise any assisted person or prospective assisted person to make a statement in a document filed in a case or proceeding under this title, that is untrue and misleading, or that upon the exercise of reasonable care, should have been known by such agency to be untrue or misleading;
+&emsp;(2) make any statement, or counsel or advise any assisted person or prospective assisted person to make a statement in a document filed in a case or proceeding under this title, that is untrue or misleading, or that upon the exercise of reasonable care, should have been known by such agency to be untrue or misleading;
 
 &emsp;(3) misrepresent to any assisted person or prospective assisted person, directly or indirectly, affirmatively or by material omission, with respect to—
 
@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(B) the benefits and risks that may result if such person becomes a debtor in a case under this title; or
 
-&emsp;(4) advise an assisted person or prospective assisted person to incur more debt in contemplation of such person filing a case under this title or to pay an attorney or bankruptcy petition preparer fee or charge for services performed as part of preparing for or representing a debtor in a case under this title.
+&emsp;(4) advise an assisted person or prospective assisted person to incur more debt in contemplation of such person filing a case underthis title or to pay an attorney or bankruptcy petition preparer a fee or charge for services performed as part of preparing for or representing a debtor in a case under this title.
 
 (b) Any waiver by any assisted person of any protection or right provided under this section shall not be enforceable against the debtor by any Federal or State court or any other person, but may be enforced against a debt relief agency.
 
@@ -52,11 +52,17 @@
 
 &emsp;&emsp;(B) of a Federal court to determine and enforce the qualifications for the practice of law before that court.
 
-(Added Pub. L. 109–8, title II, §227(a), Apr. 20, 2005, 119 Stat. 67.)
+(Added Pub. L. 109–8, title II, §227(a), Apr. 20, 2005, 119 Stat. 67; amended Pub. L. 111–327, §2(a)(20), Dec. 22, 2010, 124 Stat. 3560.)
 
 #### References in Text
 
 The Federal Rules of Bankruptcy Procedure, referred to in subsec. (c)(2)(C), are set out in the Appendix to this title.
+
+#### Amendments
+
+2010—Subsec. (a)(2). Pub. L. 111–327, §2(a)(20)(A), substituted “that is untrue or” for “that is untrue and”.
+
+Subsec. (a)(4). Pub. L. 111–327, §2(a)(20)(B), inserted “a” after “preparer”.
 
 #### Effective Date
 

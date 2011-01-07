@@ -32,9 +32,9 @@ For the purposes of this chapter, the term—
 
 #### Amendments
 
-2002—Par. (5). Pub. L. 107–110 substituted “7801” for “8801”.
+<b>2002</b>—Par. (5). Pub. L. 107–110 substituted “7801” for “8801”.
 
-1994—Par. (5). Pub. L. 103–382 substituted “local educational agency” for “local education agency” and reference to section 8801 of this title for reference to section 198 of the Elementary and Secondary Education Act of 1965.
+<b>1994</b>—Par. (5). Pub. L. 103–382 substituted “local educational agency” for “local education agency” and reference to section 8801 of this title for reference to section 198 of the Elementary and Secondary Education Act of 1965.
 
 #### Effective Date of 2002 Amendment
 

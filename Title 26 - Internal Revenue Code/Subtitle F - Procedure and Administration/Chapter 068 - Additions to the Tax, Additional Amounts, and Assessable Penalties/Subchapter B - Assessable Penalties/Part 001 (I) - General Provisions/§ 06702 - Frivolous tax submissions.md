@@ -72,7 +72,7 @@ The penalties imposed by this section shall be in addition to any other penalty 
 
 #### Amendments
 
-2006—Pub. L. 109–432 amended section catchline and text generally, substituting provisions relating to civil penalties for frivolous tax returns and submissions, listing of frivolous positions, reduction of penalty to promote compliance with tax laws, and application of other penalties, consisting of subsecs. (a) to (e), for provisions relating to civil penalty for frivolous tax returns and application of other penalties, consisting of subsecs. (a) and (b).
+<b>2006</b>—Pub. L. 109–432 amended section catchline and text generally, substituting provisions relating to civil penalties for frivolous tax returns and submissions, listing of frivolous positions, reduction of penalty to promote compliance with tax laws, and application of other penalties, consisting of subsecs. (a) to (e), for provisions relating to civil penalty for frivolous tax returns and application of other penalties, consisting of subsecs. (a) and (b).
 
 #### Effective Date of 2006 Amendment
 

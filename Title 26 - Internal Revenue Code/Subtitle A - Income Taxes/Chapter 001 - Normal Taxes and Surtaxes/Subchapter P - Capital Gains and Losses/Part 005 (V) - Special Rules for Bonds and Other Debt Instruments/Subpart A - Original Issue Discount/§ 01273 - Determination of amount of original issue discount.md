@@ -92,7 +92,7 @@ For purposes of subsection (b)—
 
 #### Amendments
 
-1986—Subsec. (b)(3)(B). Pub. L. 99–514 amended subpar. (B) generally, designating existing provisions as cl. (i) and adding cl. (ii).
+<b>1986</b>—Subsec. (b)(3)(B). Pub. L. 99–514 amended subpar. (B) generally, designating existing provisions as cl. (i) and adding cl. (ii).
 
 #### Effective Date of 1986 Amendment
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date
 
-Section applicable to taxable years ending after July 18, 1984, except as otherwise provided, see section 44 of Pub. L. 98–369, set out as a note under section 1271 of this title.
+Section applicable to taxable years ending after July 18, 1984, except as otherwise provided, see section 44 ofPub. L. 98–369, set out as a note under section 1271 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

@@ -16,9 +16,9 @@ Upon receipt of notice and demand from the Secretary, there shall be paid at the
 
 #### Amendments
 
-1980—Subsec. (b)(2). Pub. L. 96–589 struck out reference to a bankruptcy proceeding.
+<b>1980</b>—Subsec. (b)(2). Pub. L. 96–589 struck out reference to a bankruptcy proceeding.
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 1980 Amendment
 

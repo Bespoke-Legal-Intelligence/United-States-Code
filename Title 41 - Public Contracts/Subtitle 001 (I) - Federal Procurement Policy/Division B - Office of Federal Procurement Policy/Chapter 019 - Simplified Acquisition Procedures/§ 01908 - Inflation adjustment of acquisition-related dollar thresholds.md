@@ -1,0 +1,150 @@
+### §1908. Inflation adjustment of acquisition-related dollar thresholds
+
+(a)
+
+Definition.—In this section, the term “Council” has the meaning given that term in section 1301 of this title.
+
+(b)
+
+Application.—
+
+&emsp;(1)
+
+In general.—Except as provided in paragraph (2), the requirement for adjustment under subsection (c) applies to a dollar threshold that is specified in law as a factor in defining the scope of the applicability of a policy, procedure, requirement, or restriction provided in that law to the procurement of property or services by an executive agency, as the Council determines.
+
+&emsp;(2)
+
+Exceptions.—Subsection (c) does not apply to dollar thresholds—
+
+&emsp;&emsp;(A) in chapter 67 of this title;
+
+&emsp;&emsp;(B) in sections 3141 to 3144, 3146, and 3147 of title 40; or
+
+&emsp;&emsp;(C) the United States Trade Representative establishes pursuant to title III of the Trade Agreements Act of 1979 (19 U.S.C. 2511 et seq.).
+
+&emsp;(3)
+
+Relationship to other inflation adjustment authorities.—This section supersedes the applicability of other provisions of law that provide for the adjustment of a dollar threshold that is adjustable under this section.
+
+(c)
+
+Requirement for Periodic Adjustment.—
+
+&emsp;(1)
+
+Baseline constant dollar value.—For purposes of paragraph (2), the baseline constant dollar value for a dollar threshold—
+
+&emsp;&emsp;(A) in effect on October 1, 2000, that was first specified in a law that took effect on or before October 1, 2000, is the October 1, 2000, constant dollar value of that dollar threshold; and
+
+&emsp;&emsp;(B) specified in a law that takes effect after October 1, 2000, is the constant dollar value of that threshold as of the effective date of that dollar threshold pursuant to that law.
+
+&emsp;(2)
+
+Adjustment.—On October 1 of each year evenly divisible by 5, the Council shall adjust each acquisition-related dollar threshold provided by law, as described in subsection (b)(1), to the baseline constant dollar value of that threshold.
+
+&emsp;(3)
+
+Exclusive means of adjustment.—A dollar threshold adjustable under this section shall be adjusted only as provided in this section.
+
+(d)
+
+Publication.—The Council shall publish a notice of the adjusted dollar thresholds under this section in the Federal Register. The thresholds take effect on the date of publication.
+
+(e)
+
+Calculation.—An adjustment under this section shall be—
+
+&emsp;(1) calculated on the basis of changes in the Consumer Price Index for all-urban consumers published monthly by the Secretary of Labor; and
+
+&emsp;(2) rounded, in the case of a dollar threshold that on the day before the adjustment is—
+
+&emsp;&emsp;(A) less than $10,000, to the nearest $500;
+
+&emsp;&emsp;(B) not less than $10,000, but less than $100,000, to the nearest $5,000;
+
+&emsp;&emsp;(C) not less than $100,000, but less than $1,000,000, to the nearest $50,000; and
+
+&emsp;&emsp;(D) $1,000,000 or more, to the nearest $500,000.
+
+(f)
+
+Petition for Inclusion of Omitted Threshold.—
+
+&emsp;(1)
+
+Petition submitted to administrator.—A person may request adjustment of a dollar threshold adjustable under this section that is not included in a notice of adjustment published under subsection (d) by submitting a petition for adjustment to the Administrator.
+
+&emsp;(2)
+
+Actions of administrator.—On receipt of a petition for adjustment of a dollar threshold under paragraph (1), the Administrator—
+
+&emsp;&emsp;(A) shall determine, in writing, whether the dollar threshold is required to be adjusted under this section; and
+
+&emsp;&emsp;(B) on determining that it should be adjusted, shall publish in the Federal Register a revised notice of the adjustment dollar thresholds under this section that includes the adjustment of the dollar threshold covered by the petition.
+
+&emsp;(3)
+
+Effective date of adjustment by petition.—The adjustment of a dollar threshold pursuant to a petition under this subsection takes effect on the date the revised notice adding the adjustment under paragraph (2)(B) is published.
+
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3725.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+1908(a)
+
+no source.
+
+1908(b)(1)
+
+41:431a(c).
+
+Pub. L. 93–400, §35A, as added Pub. L. 108–375, title VIII, §807(a)(1), Oct. 28, 2004, 118 Stat. 2010.
+
+1908(b)(2)
+
+41:431a(d).
+
+1908(b)(3)
+
+41:431a note.
+
+Pub. L. 108–375, title VIII, §807(c)(1), Oct. 28, 2004, 118 Stat. 2011.
+
+1908(c)(1), (2)
+
+41:431a(a).
+
+1908(c)(3)
+
+41:431a note.
+
+Pub. L. 108–375, title VIII, §807(c)(2), Oct. 28, 2004, 118 Stat. 2011.
+
+1908(d)
+
+41:431a(b).
+
+1908(e)
+
+41:431a(e).
+
+1908(f)
+
+41:431a(f).
+
+In subsection (c)(3), the words “After the date of the enactment of this Act” are omitted as obsolete.
+
+In subsection (e)(1), the words “Secretary of Labor” are substituted for “Department of Labor” because of 29:551.
+
+#### References in Text
+
+The Trade Agreements Act of 1979, referred to in subsec. (b)(2)(C), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144. Title III of the Act is classified generally to subchapter I (§2511 et seq.) of chapter 13 of Title 19, Customs Duties. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of Title 19 and Tables.
+

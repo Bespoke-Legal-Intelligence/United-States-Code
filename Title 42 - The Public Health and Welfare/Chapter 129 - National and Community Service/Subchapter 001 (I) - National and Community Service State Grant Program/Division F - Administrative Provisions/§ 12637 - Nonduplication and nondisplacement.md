@@ -82,17 +82,17 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 
 #### Amendments
 
-2009—Subsec. (a)(1), (2). Pub. L. 111–13, §1605(1), substituted “under the national service laws” for “under this subchapter”.
+<b>2009</b>—Subsec. (a)(1), (2). Pub. L. 111–13, §1605(1), substituted “under the national service laws” for “under this subchapter”.
 
-Subsec. (b)(1). Pub. L. 111–13, §1605(1), (2), substituted “employee, position, or volunteer (other than a participant under the national service laws)” for “employeeor position” and “under the national service laws” for “under this subchapter”.
+Subsec. (b)(1). Pub. L. 111–13, §1605(1), (2), substituted “employee, position, or volunteer (other than a participant under the national service laws)” for “employee or position” and “under the national service laws” for “under this subchapter”.
 
 Subsec. (b)(2), (3). Pub. L. 111–13, §1605(1), substituted “under the national service laws” for “under this subchapter” wherever appearing.
 
 Subsec. (f). Pub. L. 111–13, §1605(3), added subsec. (f).
 
-1998—Subsec. (d). Pub. L. 105–277 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “Section 142(b) of the Job Training Partnership Act shall apply to the projects conducted under this subchapter as such projects were conducted under the Job Training Partnership Act.”
+<b>1998</b>—Subsec. (d). Pub. L. 105–277 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “Section 142(b) of the Job Training Partnership Act shall apply to the projects conducted under this subchapter as such projects were conducted under the Job Training Partnership Act.”
 
-1993—Subsec. (b)(3)(B). Pub. L. 103–82, §117(1), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “A participant in any program receiving assistance under this subchapter shall not perform any services or duties or engage in activities that will supplant the hiring of employed workers.”
+<b>1993</b>—Subsec. (b)(3)(B). Pub. L. 103–82, §117(1), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “A participant in any program receiving assistance under this subchapter shall not perform any services or duties or engage in activities that will supplant the hiring of employed workers.”
 
 Subsec. (b)(3)(C)(iii). Pub. L. 103–82, §117(2), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “employee who is subject to a reduction in force;”.
 

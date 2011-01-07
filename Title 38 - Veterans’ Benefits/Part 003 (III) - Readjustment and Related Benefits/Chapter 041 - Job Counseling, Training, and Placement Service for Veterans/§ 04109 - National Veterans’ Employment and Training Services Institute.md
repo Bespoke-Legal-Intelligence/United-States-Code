@@ -16,13 +16,13 @@ Prior section 4109, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1246; Pub. L. 93�
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–288, §5(a)(1)(F), substituted “intensive services,” for “counseling,” in two places.
+<b>2002</b>—Subsec. (a). Pub. L. 107–288, §5(a)(1)(F), substituted “intensive services,” for “counseling,” in two places.
 
 Subsec. (c). Pub. L. 107–288, §5(e), added subsec. (c).
 
-1991—Pub. L. 102–83 renumbered section 2009 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 2009 of this title as this section.
 
-1988—Pub. L. 100–323 amended section generally, substituting provisions relating to a National Veterans’ Employment and Training Services Institute for provisions relating to national veterans’ employment and training programs.
+<b>1988</b>—Pub. L. 100–323 amended section generally, substituting provisions relating to a National Veterans’ Employment and Training Services Institute for provisions relating to national veterans’ employment and training programs.
 
 #### Effective Date of 1988 Amendment
 

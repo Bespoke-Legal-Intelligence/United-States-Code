@@ -8,8 +8,6 @@ This subchapter was classified to part G (§3161 et seq.) of subchapter IV of ch
 
 A prior subchapter V, consisting of sections 1234 to 1234i, was renumbered subchapter IV by Pub. L. 103–382, title II, §212(b)(2), Oct. 20, 1994, 108 Stat. 3913.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

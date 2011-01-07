@@ -110,7 +110,7 @@ If the Secretary mails a notice of adjustment to the taxpayer for a taxable year
 
 #### Amendments
 
-2002—Subsec. (g)(4)(A). Pub. L. 107–147 inserted “or the Attorney General (or his delegate)” after “Secretary”.
+<b>2002</b>—Subsec. (g)(4)(A). Pub. L. 107–147 inserted “or the Attorney General (or his delegate)” after “Secretary”.
 
 #### Effective Date of 2002 Amendment
 

@@ -68,7 +68,7 @@ Section 11347 of title 49, referred to in subsecs. (a) and (b)(1), was omitted i
 
 #### Amendments
 
-1983—Subsec. (b)(3), (4). Pub. L. 97–468 added par. (3) and redesignated former par. (3) as (4).
+<b>1983</b>—Subsec. (b)(3), (4). Pub. L. 97–468 added par. (3) and redesignated former par. (3) as (4).
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

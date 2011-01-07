@@ -40,7 +40,7 @@ For the purposes of this subchapter:
 
 #### (10) Settlement Agreement
 
-&emsp;The term “Settlement Agreement” means the document entitled “Joint Memorandum of Understanding Concerning Settlement of the Gay Head, Massachusetts, Indian Land Claims,” executed as of November 22, 1983, andrenewed thereafter by representatives of the parties to the lawsuit, and as filed with the Secretary of the Commonwealth of Massachusetts.
+&emsp;The term “Settlement Agreement” means the document entitled “Joint Memorandum of Understanding Concerning Settlement of the Gay Head, Massachusetts, Indian Land Claims,” executed as of November 22, 1983, and renewed thereafter by representatives of the parties to the lawsuit, and as filed with the Secretary of the Commonwealth of Massachusetts.
 
 #### (11) State implementing act
 

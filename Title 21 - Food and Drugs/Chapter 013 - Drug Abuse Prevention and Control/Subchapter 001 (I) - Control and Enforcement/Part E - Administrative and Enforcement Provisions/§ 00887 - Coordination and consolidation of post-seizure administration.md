@@ -4,7 +4,3 @@ The Attorney General and the Secretary of the Treasury shall take such action as
 
 (Pub. L. 91–513, title II, §517, as added Pub. L. 100–690, title VI, §6078(a), Nov. 18, 1988, 102 Stat. 4325.)
 
-#### References in Text
-
-The customs laws, referred to in text, are classified generally to Title 19, Customs Duties.
-

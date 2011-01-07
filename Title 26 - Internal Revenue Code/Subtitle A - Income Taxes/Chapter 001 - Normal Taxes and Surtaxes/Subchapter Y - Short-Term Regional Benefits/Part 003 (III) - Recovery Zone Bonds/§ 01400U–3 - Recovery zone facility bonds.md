@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For purposes of part IV of subchapter B (relating to tax exemption requirements for State andlocal bonds), the term “exempt facility bond” includes any recovery zone facility bond.
+For purposes of part IV of subchapter B (relating to tax exemption requirements for State and local bonds), the term “exempt facility bond” includes any recovery zone facility bond.
 
 #### (b) Recovery zone facility bond
 

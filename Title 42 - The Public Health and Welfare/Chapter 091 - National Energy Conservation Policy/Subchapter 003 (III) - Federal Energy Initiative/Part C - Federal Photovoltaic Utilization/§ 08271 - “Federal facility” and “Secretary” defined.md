@@ -10,7 +10,7 @@ For purposes of this part—
 
 #### Amendments
 
-1980—Par. (1). Pub. L. 96–294 inserted applicability to facilities related to programs administered by Federal agencies.
+<b>1980</b>—Par. (1). Pub. L. 96–294 inserted applicability to facilities related to programs administered by Federal agencies.
 
 #### Short Title
 

@@ -22,7 +22,7 @@
 
 #### (1) General rule
 
-&emsp;For purposes of subsection (a), the reasonable addition to the reserve for bad debts ofany financial institution to which this section applies shall be an amount determined by the taxpayer which shall not exceed the addition to the reserve for losses on loans determined under the experience method as provided in paragraph (2).
+&emsp;For purposes of subsection (a), the reasonable addition to the reserve for bad debts of any financial institution to which this section applies shall be an amount determined by the taxpayer which shall not exceed the addition to the reserve for losses on loans determined under the experience method as provided in paragraph (2).
 
 #### (2) Experience method
 
@@ -98,7 +98,7 @@
 
 #### (iii) Financially troubled bank
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term “financially troubled bank” means any bank if, for the taxable year, the nonperforming loan percentage of such bank exceeds 75 percent.
+&emsp;&emsp;&emsp;For purposes of clause (i), the term “financially troubled bank” means any bankif, for the taxable year, the nonperforming loan percentage of such bank exceeds 75 percent.
 
 #### (iv) Nonperforming loan percentage
 
@@ -158,9 +158,9 @@
 
 #### Amendments
 
-1996—Subsec. (a)(2)(A). Pub. L. 104–188 struck out “other than an organization to which section 593 applies” after “section 581)”.
+<b>1996</b>—Subsec. (a)(2)(A). Pub. L. 104–188 struck out “other than an organization to which section 593 applies” after “section 581)”.
 
-1990—Subsec. (b)(1). Pub. L. 101–508, §11801(c)(12)(C), substituted “shall not exceed the addition to the reserve for losses on loans determined under the experience method as provided in paragraph (2).” for “shall not exceed the greater of—
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–508, §11801(c)(12)(C), substituted “shall not exceed the addition to the reserve for losses on loans determined under the experience method as provided in paragraph (2).” for “shall not exceed the greater of—
 
 &emsp;“(A) for taxable years beginning before 1988 the addition to the reserve for losses on loans determined under the percentage method as provided in paragraph (2), or
 
@@ -186,7 +186,7 @@ Subsec. (b)(3). Pub. L. 101–508, §11801(c)(12)(D), (E), redesignated par. (4)
 
 Subsec. (b)(4). Pub. L. 101–508, §11801(c)(12)(D), redesignated par. (4) as (3).
 
-1988—Subsec. (c)(3)(A)(iii)(I). Pub. L. 100–647, §1009(a)(2)(B), substituted “such higher percentage of such net amount as the taxpayer may elect” for “such greater amount as the taxpayer may designate”.
+<b>1988</b>—Subsec. (c)(3)(A)(iii)(I). Pub. L. 100–647, §1009(a)(2)(B), substituted “such higher percentage of such net amount as the taxpayer may elect” for “such greater amount as the taxpayer may designate”.
 
 Subsec. (c)(3)(B)(ii). Pub. L. 100–647, §1009(a)(2)(C), substituted “elects a higher percentage” for “designates an amount”.
 
@@ -194,9 +194,9 @@ Subsec. (c)(4). Pub. L. 100–647, §1009(a)(3), inserted at end “If the amoun
 
 Subsec. (c)(5)(C). Pub. L. 100–647, §1009(a)(2)(A), added subpar. (C).
 
-1987—Subsec. (c)(3)(C). Pub. L. 100–203 substituted “section 6655(e)(2)(A)(i)” for “section 6655(d)(3)”.
+<b>1987</b>—Subsec. (c)(3)(C). Pub. L. 100–203 substituted “section 6655(e)(2)(A)(i)” for “section 6655(d)(3)”.
 
-1986—Subsec. (a). Pub. L. 99–514, §901(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “This section shall apply to the following financial institutions:
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §901(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “This section shall apply to the following financial institutions:
 
 &emsp;“(1) any bank (as defined in section 581) other than an organization to which section 593 applies, and
 
@@ -206,9 +206,9 @@ Subsec. (b)(1). Pub. L. 99–514, §901(d)(1), substituted “subsection (a)” 
 
 Subsec. (c). Pub. L. 99–514, §901(a)(2), added subsec. (c).
 
-1981—Subsec. (b)(2). Pub. L. 97–34 defined “allowable percentage” to mean 1.0 percent for taxable years beginning in 1982 and 0.6 percent for taxable years beginning after 1982, previously so applicable for taxable years beginning after 1981 and redefined “base year” by substituting the last taxable year beginning before 1976 for taxable years beginning after 1975 but before 1983, for the last taxable year beginning before 1976 for taxable years after 1975 but before 1982; and the last taxable year beginning before 1983 for taxable years beginning after 1982, for the last taxable year beginning before 1982 for taxable years beginning after 1981.
+<b>1981</b>—Subsec. (b)(2). Pub. L. 97–34 defined “allowable percentage” to mean 1.0 percent for taxable years beginning in 1982 and 0.6 percent for taxable years beginning after 1982, previously so applicable for taxable years beginning after 1981 and redefined “base year” by substituting the last taxable year beginning before 1976 for taxable years beginning after 1975 but before 1983, for the last taxable year beginning before 1976 for taxable years after 1975 but before 1982; and the last taxable year beginning before 1983 for taxable years beginning after 1982, for the last taxable year beginning before 1982 for taxable years beginning after 1981.
 
-1976—Subsec. (b)(3), (4). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b)(3), (4). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 1996 Amendment
 

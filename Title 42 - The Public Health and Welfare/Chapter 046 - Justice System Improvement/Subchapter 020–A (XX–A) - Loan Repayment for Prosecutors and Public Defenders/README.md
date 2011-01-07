@@ -4,16 +4,6 @@
 
 This subchapter is comprised of part JJ of title I of the Omnibus Crime Control and Safe Streets Act of 1968, Pub. L. 90–351. Another part JJ of title I of Pub. L. 90–351 is classified to subchapter XX–B (§3797dd et seq.) of this chapter.
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be par. “(3)”.</i>
-
-<i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
-
-<i><sup>4</sup></i><i> So in original. The word “needs” probably should not appear.</i>
-
-<i><sup>5</sup></i><i> So in original. Probably should be “after”.</i>
-
 
 ---
 

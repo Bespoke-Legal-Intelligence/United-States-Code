@@ -26,7 +26,7 @@ The Institute is liable for the acts of its directors, officers, employees, and 
 
 #### Amendments
 
-1990—Subsec. (e)(1). Pub. L. 101–520 inserted reference to Spark M. Matsunaga Medal of Peace.
+<b>1990</b>—Subsec. (e)(1). Pub. L. 101–520 inserted reference to Spark M. Matsunaga Medal of Peace.
 
-1986—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 

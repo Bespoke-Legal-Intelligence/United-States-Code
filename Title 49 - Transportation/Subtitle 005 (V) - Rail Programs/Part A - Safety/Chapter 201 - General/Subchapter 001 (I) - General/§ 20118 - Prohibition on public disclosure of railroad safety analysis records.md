@@ -10,7 +10,7 @@ In General.—Except as necessary for the Secretary of Transportation or another
 
 (b)
 
-Exception.—Notwithstanding subsection (a), the Secretary may disclose any part of any record comprised of facts otherwise available to the public if, in the Secretary's sole discretion,the Secretary determines that disclosure would be consistent with the confidentiality needed for that safety risk reduction program or pilot program.
+Exception.—Notwithstanding subsection (a), the Secretary may disclose any part of any record comprised of facts otherwise available to the public if, in the Secretary's sole discretion, the Secretary determines that disclosure would be consistent with the confidentiality needed for that safety risk reduction program or pilot program.
 
 (c)
 

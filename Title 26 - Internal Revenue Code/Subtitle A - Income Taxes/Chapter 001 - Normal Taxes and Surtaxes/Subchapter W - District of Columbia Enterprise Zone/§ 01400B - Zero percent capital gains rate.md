@@ -24,7 +24,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term “DC Zone business stock” means any stock in a domestic corporation which is originally issued after December 31, 1997, if—
 
-&emsp;&emsp;&emsp;(i) such stock is acquired by the taxpayer, before January 1, 2010, at its original issue (directly or through an underwriter) solely in exchange for cash,
+&emsp;&emsp;&emsp;(i) such stock is acquired by the taxpayer, before January 1, 2012, at its original issue (directly or through an underwriter) solely in exchange for cash,
 
 &emsp;&emsp;&emsp;(ii) as of the time such stock was issued, such corporation was a DC Zone business (or, in the case of a new corporation, such corporation was being organized for purposes of being a DC Zone business), and
 
@@ -38,7 +38,7 @@ For purposes of this section—
 
 &emsp;The term “DC Zone partnership interest” means any capital or profits interest in a domestic partnership which is originally issued after December 31, 1997, if—
 
-&emsp;&emsp;(A) such interest is acquired by the taxpayer, before January 1, 2010, from the partnership solely in exchange for cash,
+&emsp;&emsp;(A) such interest is acquired by the taxpayer, before January 1, 2012, from the partnership solely in exchange for cash,
 
 &emsp;&emsp;(B) as of the time such interest was acquired, such partnership was a DC Zone business (or, in the case of a new partnership, such partnership was being organized for purposes of being a DC Zone business), and
 
@@ -52,7 +52,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term “DC Zone business property” means tangible property if—
 
-&emsp;&emsp;&emsp;(i) such property was acquired by the taxpayer by purchase (as defined in section 179(d)(2)) after December 31, 1997, and before January 1, 2010,
+&emsp;&emsp;&emsp;(i) such property was acquired by the taxpayer by purchase (as defined in section 179(d)(2)) after December 31, 1997, and before January 1, 2012,
 
 &emsp;&emsp;&emsp;(ii) the original use of such property in the DC Zone commences with the taxpayer, and
 
@@ -64,7 +64,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;The requirements of clauses (i) and (ii) of subparagraph (A) shall be treated as met with respect to—
 
-&emsp;&emsp;&emsp;&emsp;(I) property which is substantially improved by the taxpayer before January 1, 2010, and
+&emsp;&emsp;&emsp;&emsp;(I) property which is substantially improved by the taxpayer before January 1, 2012, and
 
 &emsp;&emsp;&emsp;&emsp;(II) any land on which such property is located.
 
@@ -118,9 +118,9 @@ For purposes of this section—
 
 &emsp;&emsp;(B) property used in the trade or business (as defined in section 1231(b)).
 
-#### (2) Gain before 1998 or after 2014 not qualified
+#### (2) Gain before 1998 or after 2016 not qualified
 
-&emsp;The term “qualified capital gain” shall not include any gain attributable to periods before January 1, 1998, or after December 31, 2014.
+&emsp;The term “qualified capital gain” shall not include any gain attributable to periods before January 1, 1998, or after December 31, 2016.
 
 #### (3) Certain gain not qualified
 
@@ -144,31 +144,37 @@ In the case of the sale or exchange of an interest in a partnership, or of stock
 
 &emsp;(1) any gain which is attributable to real property, or an intangible asset, which is not an integral part of a DC Zone business, and
 
-&emsp;(2) any gain attributable to periods before January 1, 1998, or after December 31, 2014.
+&emsp;(2) any gain attributable to periods before January 1, 1998, or after December 31, 2016.
 
-(Added Pub. L. 105–34, title VII, §701(a), Aug. 5, 1997, 111 Stat. 864; amended Pub. L. 105–206, title VI, §6008(c), July 22, 1998, 112 Stat. 811; Pub. L. 106–554, §1(a)(7) \[title I, §§116(b)(5), 164(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–603, 2763A–625; Pub. L. 108–311, title III, §310(c)(1)–(2)(B), Oct. 4, 2004, 118 Stat. 1180; Pub. L. 109–432, div. A, title I, §110(c)(1)–(2)(B), Dec. 20, 2006, 120 Stat. 2940; Pub. L. 110–343, div. C, title III, §322(c)(1), (2)(A), (B), Oct. 3, 2008, 122 Stat. 3874.)
+(Added Pub. L. 105–34, title VII, §701(a), Aug. 5, 1997, 111 Stat. 864; amended Pub. L. 105–206, title VI, §6008(c), July 22, 1998, 112 Stat. 811; Pub. L. 106–554, §1(a)(7) \[title I, §§116(b)(5), 164(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–603, 2763A–625; Pub. L. 108–311, title III, §310(c)(1)–(2)(B), Oct. 4, 2004, 118 Stat. 1180; Pub. L. 109–432, div. A, title I, §110(c)(1)–(2)(B), Dec. 20, 2006, 120 Stat. 2940; Pub. L. 110–343, div. C, title III, §322(c)(1), (2)(A), (B), Oct. 3, 2008, 122 Stat. 3874; Pub. L. 111–312, title VII, §754(c), Dec. 17, 2010, 124 Stat. 3321.)
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–343, §322(c)(1), substituted “2010” for “2008” wherever appearing.
+<b>2010</b>—Subsec. (b). Pub. L. 111–312, §754(c)(1), substituted “2012” for “2010” wherever appearing.
+
+Subsec. (e)(2). Pub. L. 111–312, §754(c)(2)(A), substituted “2016” for “2014” in heading and text.
+
+Subsec. (g)(2). Pub. L. 111–312, §754(c)(2)(B), substituted “2016” for “2014”.
+
+<b>2008</b>—Subsec. (b). Pub. L. 110–343, §322(c)(1), substituted “2010” for “2008” wherever appearing.
 
 Subsec. (e)(2). Pub. L. 110–343, §322(c)(2)(A), substituted “2014” for “2012” in heading and text.
 
 Subsec. (g)(2). Pub. L. 110–343, §322(c)(2)(B), substituted “2014” for “2012”.
 
-2006—Subsec. (b). Pub. L. 109–432, §110(c)(1), substituted “2008” for “2006” wherever appearing.
+<b>2006</b>—Subsec. (b). Pub. L. 109–432, §110(c)(1), substituted “2008” for “2006” wherever appearing.
 
 Subsec. (e)(2). Pub. L. 109–432, §110(c)(2)(A), substituted “2012” for “2010” in heading and text.
 
 Subsec. (g)(2). Pub. L. 109–432, §110(c)(2)(B), substituted “2012” for “2010”.
 
-2004—Subsec. (b). Pub. L. 108–311, §310(c)(1), substituted “2006” for “2004” wherever appearing.
+<b>2004</b>—Subsec. (b). Pub. L. 108–311, §310(c)(1), substituted “2006” for “2004” wherever appearing.
 
 Subsec. (e)(2). Pub. L. 108–311, §310(c)(2)(A), substituted “2010” for “2008” in heading and text.
 
 Subsec. (g)(2). Pub. L. 108–311, §310(c)(2)(B), substituted “2010” for “2008”.
 
-2000—Subsec. (b). Pub. L. 106–554, §1(a)(7) \[title I, §164(b)(1)\], substituted “2004” for “2003” wherever appearing.
+<b>2000</b>—Subsec. (b). Pub. L. 106–554, §1(a)(7) \[title I, §164(b)(1)\], substituted “2004” for “2003” wherever appearing.
 
 Subsec. (c). Pub. L. 106–554, §1(a)(7) \[title I, §116(b)(5)\], substituted “section 1397C” for “section 1397B” in introductory provisions and in par. (2).
 
@@ -176,13 +182,17 @@ Subsec. (e)(2). Pub. L. 106–554, §1(a)(7) \[title I, §164(b)(2)\], substitut
 
 Subsec. (g)(2). Pub. L. 106–554, §1(a)(7) \[title I, §164(b)(2)\], substituted “2008” for “2007”.
 
-1998—Subsec. (b)(5). Pub. L. 105–206, §6008(c)(1), added par. (5).
+<b>1998</b>—Subsec. (b)(5). Pub. L. 105–206, §6008(c)(1), added par. (5).
 
 Subsec. (b)(6). Pub. L. 105–206, §6008(c)(2), substituted “(4)(A)(i) or (ii)” for “(4)(A)(ii)”.
 
 Subsec. (c). Pub. L. 105–206, §6008(c)(3), struck out “entity which is an” before “enterprise zone” in introductory provisions.
 
 Subsec. (d)(2). Pub. L. 105–206, §6008(c)(4), inserted “as determined on the basis of the 1990 census” after “percent”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–312 applicable to property acquired or substantially improved after Dec. 31, 2009, see section 754(e)(3) of Pub. L. 111–312, set out as a note under section 1400 of this title.
 
 #### Effective Date of 2008 Amendment
 

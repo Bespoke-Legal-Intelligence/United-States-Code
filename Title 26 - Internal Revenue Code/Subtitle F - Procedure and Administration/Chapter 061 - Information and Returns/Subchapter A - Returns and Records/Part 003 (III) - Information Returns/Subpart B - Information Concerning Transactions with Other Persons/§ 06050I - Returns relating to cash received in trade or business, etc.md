@@ -126,23 +126,23 @@ Every person required to make a return under subsection (a) shall furnish to eac
 
 &emsp;&emsp;(B) the aggregate amount of cash described in paragraph (1) received by such clerk.
 
-(Added Pub. L. 98–369, div. A, title I, §146(a), July 18, 1984, 98 Stat. 685; amended Pub. L.99–514, title XV, §1501(c)(12), Oct. 22, 1986, 100 Stat. 2739; Pub. L. 100–690, title VII, §7601(a)(1), Nov. 18, 1988, 102 Stat. 4503; Pub. L. 101–508, title XI, §11318(a), (c), Nov. 5, 1990, 104 Stat. 1388–458, 1388–459; Pub. L. 103–322, title II, §20415(a), (b)(3), Sept. 13, 1994, 108 Stat. 1832, 1833; Pub. L. 104–168, title XII, §1201(a)(9), July 30, 1996, 110 Stat. 1469.)
+(Added Pub. L. 98–369, div. A, title I, §146(a), July 18, 1984, 98 Stat. 685; amended Pub. L. 99–514, title XV, §1501(c)(12), Oct. 22, 1986, 100 Stat. 2739; Pub. L. 100–690, title VII, §7601(a)(1), Nov. 18, 1988, 102 Stat. 4503; Pub. L. 101–508, title XI, §11318(a), (c), Nov. 5, 1990, 104 Stat. 1388–458, 1388–459; Pub. L. 103–322, title II, §20415(a), (b)(3), Sept. 13, 1994, 108 Stat. 1832, 1833; Pub. L. 104–168, title XII, §1201(a)(9), July 30, 1996, 110 Stat. 1469.)
 
 #### Amendments
 
-1996—Subsec. (e)(1). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
+<b>1996</b>—Subsec. (e)(1). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
 
-1994—Pub. L. 103–322, §20415(b)(3), substituted “business, etc.” for “business” in section catchline.
+<b>1994</b>—Pub. L. 103–322, §20415(b)(3), substituted “business, etc.” for “business” in section catchline.
 
 Subsec. (g). Pub. L. 103–322, §20415(a), added subsec. (g).
 
-1990—Subsec. (d). Pub. L. 101–508, §11318(a), substituted heading for one which read: “Cash includes foreign currency” and amended text generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘cash’ includes foreign currency.”
+<b>1990</b>—Subsec. (d). Pub. L. 101–508, §11318(a), substituted heading for one which read: “Cash includes foreign currency” and amended text generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘cash’ includes foreign currency.”
 
 Subsec. (f). Pub. L. 101–508, §11318(c), substituted heading for one which read: “Actions by payors”.
 
-1988—Subsec. (f). Pub. L. 100–690 added subsec. (f).
+<b>1988</b>—Subsec. (f). Pub. L. 100–690 added subsec. (f).
 
-1986—Subsec. (e). Pub. L. 99–514 substituted “information is required” for “information is furnished” in heading and, in text, substituted references to persons required to make a return for former references to persons making a return and references to persons whose name is required to be set forth for former references to persons whose name is set forth.
+<b>1986</b>—Subsec. (e). Pub. L. 99–514 substituted “information is required” for “information is furnished” in heading and, in text, substituted references to persons required to make a return for former references to persons making a return and references to persons whose name is required to be set forth for former references to persons whose name is set forth.
 
 #### Effective Date of 1996 Amendment
 

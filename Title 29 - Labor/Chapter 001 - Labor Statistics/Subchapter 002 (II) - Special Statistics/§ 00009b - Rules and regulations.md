@@ -10,5 +10,5 @@ This section and sections 9 and 9a of this title comprised sections 1 to 3 of ac
 
 #### Amendments
 
-1946—Act Aug. 7, 1946, repealed provisions requiring Secretary of the Interior to make annual reports to Congress.
+<b>1946</b>—Act Aug. 7, 1946, repealed provisions requiring Secretary of the Interior to make annual reports to Congress.
 

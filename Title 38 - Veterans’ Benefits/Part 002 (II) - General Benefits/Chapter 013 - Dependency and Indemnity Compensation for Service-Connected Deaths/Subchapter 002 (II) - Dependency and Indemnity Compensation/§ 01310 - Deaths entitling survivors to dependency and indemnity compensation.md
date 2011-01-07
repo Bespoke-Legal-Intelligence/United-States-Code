@@ -10,17 +10,17 @@
 
 #### References in Text
 
-The Radiation Exposure Compensation Act, referred to in subsec. (c), is Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, as amended, which is set out as a note under section 2210 of Title 42, The Public Health and Welfare.
+The Radiation Exposure Compensation Act, referred to in subsec. (c), is Pub. L. 101–426, Oct. 15, 1990, 104Stat. 920, as amended, which is set out as a note under section 2210 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–454 added subsec. (c).
+<b>2004</b>—Subsec. (c). Pub. L. 108–454 added subsec. (c).
 
-1991—Pub. L. 102–83, §5(a), renumbered section 410 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 410 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1988—Subsecs. (b), (c). Pub. L. 100–687 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows:
+<b>1988</b>—Subsecs. (b), (c). Pub. L. 100–687 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows:
 
 “(1) Notwithstanding the provisions of subsection (a) of this section, when any veteran dies, not as the result of the veteran's own willful misconduct, if the veteran was in receipt of or entitled to receive (or but for the receipt of retired or retirement pay was entitled to receive) compensation at the time of death for a service-connected disability that either (A) was continuously rated totally disabling for a period of ten or more years immediately preceding death, or (B) if so rated for a lesser period, was so rated continuously for a period of not less than five years from the date of such veteran's discharge or other release from active duty, the Administrator shall pay benefits under this chapter to the veteran's surviving spouse, if such surviving spouse was married to such veteran for not less than two years immediately preceding such veteran's death, and to such veteran's children, in the same manner as if the veteran's death were service connected.
 
@@ -28,11 +28,11 @@ Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” fo
 
 “(3) For purposes of sections 1448(d) and 1450(c) of title 10, eligibility for benefits under this chapter by virtue of this subsection shall be deemed eligibility for dependency and indemnity compensation under section 411(a) of this title.”
 
-1982—Subsec. (b)(1). Pub. L. 97–306 inserted “or entitled to receive” after “was in receipt of”.
+<b>1982</b>—Subsec. (b)(1). Pub. L. 97–306 inserted “or entitled to receive” after “was in receipt of”.
 
-1978—Subsecs. (b), (c). Pub. L. 95–479 added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>1978</b>—Subsecs. (b), (c). Pub. L. 95–479 added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1976—Subsec. (a). Pub. L. 94–433 substituted “such veteran's surviving spouse” for “his widow”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–433 substituted “such veteran's surviving spouse” for “his widow”.
 
 Subsec. (b). Pub. L. 94–433 substituted “surviving spouse”, “such veteran”, and “such veteran's” for “widow”, “he”, and “his”, respectively.
 

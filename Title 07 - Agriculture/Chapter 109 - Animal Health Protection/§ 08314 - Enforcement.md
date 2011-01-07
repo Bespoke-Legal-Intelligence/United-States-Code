@@ -38,7 +38,7 @@
 
 #### (ii) Depositions
 
-&emsp;&emsp;&emsp;A witness whose deposition is taken, and the person taking the deposition, shall be entitled to the same fees that are paid for similar services in a court of the United States.
+&emsp;&emsp;&emsp;A witness whose deposition is taken, and the person taking the deposition, shall beentitled to the same fees that are paid for similar services in a court of the United States.
 
 #### (E) Procedures
 
@@ -78,7 +78,7 @@ The Attorney General may—
 
 &emsp;Paragraphs (1) and (2) do not apply to sections 8309(c) and 8313(b) of this title.
 
-(Pub. L. 107–171, title X, §10415, May 13, 2002, 116 Stat. 505; Pub. L. 110–234, title XI, §11012(b), May22, 2008, 122 Stat. 1360; Pub. L. 110–246, §4(a), title XI, §11012(b), June 18, 2008, 122 Stat. 1664, 2122.)
+(Pub. L. 107–171, title X, §10415, May 13, 2002, 116 Stat. 505; Pub. L. 110–234, title XI, §11012(b), May 22, 2008, 122 Stat. 1360; Pub. L. 110–246, §4(a), title XI, §11012(b), June 18, 2008, 122 Stat. 1664, 2122.)
 
 #### References in Text
 

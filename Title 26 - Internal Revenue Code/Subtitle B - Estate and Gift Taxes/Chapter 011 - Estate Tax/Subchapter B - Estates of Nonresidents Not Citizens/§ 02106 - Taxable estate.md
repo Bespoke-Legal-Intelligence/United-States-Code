@@ -64,21 +64,21 @@ No deduction shall be allowed under paragraphs (1) and (2) of subsection (a) in 
 
 #### Amendments
 
-2001—Subsec. (a)(4). Pub. L. 107–16, §§532(c)(8), 901, temporarily added par. (4). See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (a)(4). Pub. L. 107–16, §§532(c)(8), 901, temporarily added par. (4). See Effective and Termination Dates of 2001 Amendment note below.
 
-1989—Subsec. (a)(3). Pub. L. 101–239 struck out “allowed where spouse is citizen” after “deduction” in heading.
+<b>1989</b>—Subsec. (a)(3). Pub. L. 101–239 struck out “allowed where spouse is citizen” after “deduction” in heading.
 
-1988—Subsec. (a)(3). Pub. L. 100–647 added par. (3).
+<b>1988</b>—Subsec. (a)(3). Pub. L. 100–647 added par. (3).
 
-1987—Subsec. (a)(2)(A)(ii), (iii). Pub. L. 100–203 inserted “(or in opposition to)” after “on behalf of”.
+<b>1987</b>—Subsec. (a)(2)(A)(ii), (iii). Pub. L. 100–203 inserted “(or in opposition to)” after “on behalf of”.
 
-1986—Subsec. (a)(2)(F)(ii). Pub. L. 99–514 substituted “section 2055(g)” for “section 2055(f)”.
+<b>1986</b>—Subsec. (a)(2)(F)(ii). Pub. L. 99–514 substituted “section 2055(g)” for “section 2055(f)”.
 
-1983—Subsec. (a)(2)(F). Pub. L. 97–473 substituted “(i)” and “(ii)” for “(1)” and “(2)”, respectively, and added cl. (iii).
+<b>1983</b>—Subsec. (a)(2)(F). Pub. L. 97–473 substituted “(i)” and “(ii)” for “(1)” and “(2)”, respectively, and added cl. (iii).
 
-1976—Subsec. (a)(2)(A)(i). Pub. L. 94–455, §1902 (a)(12)(A), struck out “Territory” after “any State”.
+<b>1976</b>—Subsec. (a)(2)(A)(i). Pub. L. 94–455, §1902 (a)(12)(A), struck out “Territory” after “any State”.
 
-Subsec. (a)(2)(A)(ii). Pub. L. 94–455, §1307(d)(1)(B)(iii), substituted “which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting toinfluence legislation” for “no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation” after “stockholder or individual”.
+Subsec. (a)(2)(A)(ii). Pub. L. 94–455, §1307(d)(1)(B)(iii), substituted “which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation” for “no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation” after “stockholder or individual”.
 
 Subsec. (a)(2)(A)(iii). Pub. L. 94–455, §1307(d)(1)(C), substituted “such trust, fraternal society, order, or association would not be disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation” for “no substantial part of the activities of such trustee or trustees, or of such fraternal society, order, or association, is carrying on propaganda, or otherwise attempting, to influence legislation” after “children or animals”.
 
@@ -88,21 +88,21 @@ Subsec. (a)(3). Pub. L. 94–455, §2001(c)(1)(F), struck out par. (3) relating 
 
 Subsec. (c). Pub. L. 94–455, §1902(a)(5)(B), struck out subsec. (c) relating to treatment of United States bonds in determining gross estate of a decedent who was not engaged in business in the United States at the time of his death.
 
-1969—Subsec. (a)(2)(A)(ii), (iii). Pub. L. 91–172, §201(d)(4)(B), inserted non-participation and non-intervention in political campaigns as an additional qualification.
+<b>1969</b>—Subsec. (a)(2)(A)(ii), (iii). Pub. L. 91–172, §201(d)(4)(B), inserted non-participation and non-intervention in political campaigns as an additional qualification.
 
 Subsec. (a)(2)(E). Pub. L. 91–172, §201(d)(2), substituted substantive provisions for simple reference to sections 503 and 681 of this title in which such substantive provisions were formerly set out.
 
-1966—Subsec. (a)(3). Pub. L. 89–809 substituted “$30,000” for “$2,000” as size of exemption in subpar. (A) and “$30,000” for “$2,000” as item (i) in formula set out in subpar. (B).
+<b>1966</b>—Subsec. (a)(3). Pub. L. 89–809 substituted “$30,000” for “$2,000” as size of exemption in subpar. (A) and “$30,000” for “$2,000” as item (i) in formula set out in subpar. (B).
 
-1960—Subsec. (a)(3). Pub. L. 86–779 designated existing provisions as subpar. (A) and added subpar. (B).
+<b>1960</b>—Subsec. (a)(3). Pub. L. 86–779 designated existing provisions as subpar. (A) and added subpar. (B).
 
-1958—Subsec. (a)(2)(E). Pub. L. 85–866 substituted “503” for “504”.
+<b>1958</b>—Subsec. (a)(2)(E). Pub. L. 85–866 substituted “503” for “504”.
 
 #### Effective and Termination Dates of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1989 Amendment
 

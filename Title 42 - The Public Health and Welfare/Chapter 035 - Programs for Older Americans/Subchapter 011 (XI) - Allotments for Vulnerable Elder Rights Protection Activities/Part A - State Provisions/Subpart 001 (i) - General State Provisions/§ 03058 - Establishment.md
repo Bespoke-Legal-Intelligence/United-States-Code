@@ -14,7 +14,7 @@ Another prior section 701 of Pub. L. 89–73 was classified to section 3045 of t
 
 #### Amendments
 
-1993—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
+<b>1993</b>—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
 
 #### Effective Date
 

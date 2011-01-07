@@ -2,13 +2,13 @@
 
 A person who—
 
-&emsp;(1) knowingly and fraudulently conceals from a custodian, trustee, marshal, or other officer of the court charged with the control or custody of property, or, in connection with a case under title 11, from creditors or the United States Trustee, any property belonging to the estate of a debtor;
+&emsp;(1) knowingly and fraudulently conceals from a custodian, trustee, marshal, or other officer of the court charged with the control or custody of property, or, in connection witha case under title 11, from creditors or the United States Trustee, any property belonging to the estate of a debtor;
 
 &emsp;(2) knowingly and fraudulently makes a false oath or account in or in relation to any case under title 11;
 
 &emsp;(3) knowingly and fraudulently makes a false declaration, certificate, verification, or statement under penalty of perjury as permitted under section 1746 of title 28, in or in relation to any case under title 11;
 
-&emsp;(4) knowingly and fraudulently presents any false claim for proof against the estate of adebtor, or uses any such claim in any case under title 11, in a personal capacity or as or through an agent, proxy, or attorney;
+&emsp;(4) knowingly and fraudulently presents any false claim for proof against the estate of a debtor, or uses any such claim in any case under title 11, in a personal capacity or as or through an agent, proxy, or attorney;
 
 &emsp;(5) knowingly and fraudulently receives any material amount of property from a debtor after the filing of a case under title 11, with intent to defeat the provisions of title 11;
 
@@ -34,19 +34,19 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $5,000” in closing provisions.
+<b>1996</b>—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $5,000” in closing provisions.
 
-1994—Pub. L. 103–394 amended section generally, designating undesignated pars. as opening provisions, pars. (1) to (9), and closing provisions, and in pars. (1) and (9) inserting reference to United States Trustee.
+<b>1994</b>—Pub. L. 103–394 amended section generally, designating undesignated pars. as opening provisions, pars. (1) to (9), and closing provisions, and in pars. (1) and (9) inserting reference to United States Trustee.
 
 Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in last par.
 
-1988—Pub. L. 100–690 substituted “penalty of perjury” for “penalty or perjury” in third par.
+<b>1988</b>—Pub. L. 100–690 substituted “penalty of perjury” for “penalty or perjury” in third par.
 
-1978—Pub. L. 95–598 substituted, wherever appearing, “debtor” for “bankrupt”, “case under title 11” for “bankruptcy proceeding”, and “provisions of title 11” for “bankruptcy law”; and substituted “a custodian” for “the receiver, custodian”, wherever appearing, and “recorded information, including books, documents, records, and papers, relating to the property or financial affairs” for “document affecting or relating to the property or affairs”, in two places.
+<b>1978</b>—Pub. L. 95–598 substituted, wherever appearing, “debtor” for “bankrupt”, “case under title 11” for “bankruptcy proceeding”, and “provisions of title 11” for “bankruptcy law”; and substituted “a custodian” for “the receiver, custodian”, wherever appearing, and “recorded information, including books, documents, records, and papers, relating to the property or financial affairs” for “document affecting or relating to the property or affairs”, in two places.
 
-1976—Pub. L. 94–550 inserted paragraph covering the knowing and fraudulent making of a false declaration, certificate, verification, or statement under penalty of perjury as permitted under section 1746 of title 28 or in relation to any bankruptcy proceeding.
+<b>1976</b>—Pub. L. 94–550 inserted paragraph covering the knowing and fraudulent making of a false declaration, certificate, verification, or statement under penalty of perjury as permitted under section 1746 of title 28 or in relation to any bankruptcy proceeding.
 
-1960—Pub. L. 86–701 included fraudulent transfers and concealment of property by persons in their individual capacity in sixth par.
+<b>1960</b>—Pub. L. 86–701 included fraudulent transfers and concealment of property by persons in their individual capacity in sixth par.
 
 Pub. L. 86–519 struck out “under oath” after “knowingly and fraudulently presents” in third par.
 

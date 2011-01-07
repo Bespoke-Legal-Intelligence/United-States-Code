@@ -16,9 +16,9 @@ Members of the tribe who receive the money value of their interests in tribal pr
 
 #### Amendments
 
-1958—Subsec. (b). Pub. L. 85–731 substituted “seven years” for “six years”.
+<b>1958</b>—Subsec. (b). Pub. L. 85–731 substituted “seven years” for “six years”.
 
-1957—Subsec. (b). Pub. L. 85–132 substituted “six years” for “four years”.
+<b>1957</b>—Subsec. (b). Pub. L. 85–132 substituted “six years” for “four years”.
 
 #### Deferral of Time for Sales of Tribal Property
 

@@ -94,7 +94,7 @@ This Act, referred to in subsec. (b)(2)(C), (D), (F), is Pub. L. 97–35, known 
 
 #### Amendments
 
-1990—Subsec. (a)(1). Pub. L. 101–501, §§303(a)(1), 305(a)(1), inserted “operation,” after “establishment,” and struck out “for fiscal year 1985 and fiscal year 1986” before “may be used”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–501, §§303(a)(1), 305(a)(1), inserted “operation,” after “establishment,” and struck out “for fiscal year 1985 and fiscal year 1986” before “may be used”.
 
 Subsec. (b)(1). Pub. L. 101–501, §§303(a)(2), (3), 305(a)(2), struck out “for fiscal year 1985 and fiscal year 1986” before “may be used”, inserted “operation,” after “establishment,”, struck out “in public or private school facilities or in community centers in communities” after “before and after school”, and inserted at end “Amounts so paid to a State and used for the operation of such child care services shall be designed to enable children, whose families lack adequate financial resources, to participate in before or after school child care programs.”
 
@@ -110,13 +110,13 @@ Subsec. (d). Pub. L. 101–501, §303(b), redesignated pars. (2), (4), and (5) a
 
 “(3) subsidize the direct provision of dependent care services including child care services;”.
 
-Subsec. (d)(1). Pub. L. 101–501, §305(a)(4), which directed the substitution of “subsections (a) and (b) of this section” for “subsection (a) of this section”, could not be executed because of the intervening amendment by Pub. L. 101–501, §303(b), see above.
+Subsec. (d)(1). Pub. L. 101–501, §305(a)(4), which directed the substitution of “subsections (a) and (b) ofthis section” for “subsection (a) of this section”, could not be executed because of the intervening amendment by Pub. L. 101–501, §303(b), see above.
 
 Subsec. (f). Pub. L. 101–501, §§303(a)(4), 305(a)(5), inserted “operate,” after “expand,” and substituted “which are provided before October 30, 1984,” for “, which prior to October 30, 1984, are provided”.
 
 Subsec. (g). Pub. L. 101–501, §305(a)(6), substituted “carrying out activities” for “operating activities to be carried out”.
 
-1986—Subsec. (a). Pub. L. 99–425, §302(a), designated existing provisions as par. (1), substituted “system may include” for “system shall include”, redesignated cls. (1) to (7) as (A) to (G), respectively, struck out last sentence which read as follows: “In carrying out clause (7) of the previous sentence, no information shall be included with respect to any dependent care services which are not provided in compliance with the laws of the State and localities in which such services are provided”, and added par. (2).
+<b>1986</b>—Subsec. (a). Pub. L. 99–425, §302(a), designated existing provisions as par. (1), substituted “system may include” for “system shall include”, redesignated cls. (1) to (7) as (A) to (G), respectively, struck out last sentence which read as follows: “In carrying out clause (7) of the previous sentence, no information shall be included with respect to any dependent care services which are not provided in compliance with the laws of the State and localities in which such services are provided”, and added par. (2).
 
 Subsec. (b)(1). Pub. L. 99–425, §302(b)(1), struck out “where school facilities are not available” after “centers in communities”.
 

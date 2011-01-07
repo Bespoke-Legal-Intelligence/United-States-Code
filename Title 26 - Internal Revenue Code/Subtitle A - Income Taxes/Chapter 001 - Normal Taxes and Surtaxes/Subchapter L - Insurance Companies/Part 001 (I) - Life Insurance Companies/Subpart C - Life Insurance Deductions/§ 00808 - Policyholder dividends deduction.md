@@ -98,7 +98,7 @@ The date of enactment of the Tax Reform Act of 1984, referred to in subsec. (f)(
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–218 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
+<b>2004</b>—Subsec. (c). Pub. L. 108–218 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
 “(1)
 
@@ -108,7 +108,7 @@ In general.—Except as limited by paragraph (2), the deduction for policyholder
 
 Reduction in case of mutual companies.—In the case of a mutual life insurance company, the deduction for policyholder dividends for any taxable year shall be reduced by the amount determined under section 809.”
 
-1986—Subsec. (d)(1)(B). Pub. L. 99–514, §1821(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “determined at a rate in excess of the prevailing State assumed interest rate for such contract.”
+<b>1986</b>—Subsec. (d)(1)(B). Pub. L. 99–514, §1821(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “determined at a rate in excess of the prevailing State assumed interest rate for such contract.”
 
 Subsec. (f). Pub. L. 99–514, §1821(c), added subsec. (f).
 

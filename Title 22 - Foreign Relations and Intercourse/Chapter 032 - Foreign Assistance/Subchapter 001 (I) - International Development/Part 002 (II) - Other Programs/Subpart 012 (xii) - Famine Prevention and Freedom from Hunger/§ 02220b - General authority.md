@@ -58,7 +58,7 @@ The Administrator shall establish and carry out special programs under this subp
 
 #### Amendments
 
-2000—Subsec. (a)(1). Pub. L. 106–373, §3(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to strengthen the capabilities of universities in teaching, research, and extension work to enable them to implement current programs authorized by paragraphs (2), (3), (4), and (5) of this subsection, and those proposed in the report required by section 2220e of this title;”.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–373, §3(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to strengthen the capabilities of universities in teaching, research, and extension work to enable them to implement current programs authorized by paragraphs (2), (3), (4), and (5) of this subsection, and those proposed in the report required by section 2220e of this title;”.
 
 Subsec. (a)(3). Pub. L. 106–373, §3(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to provide program support for long-term collaborative university research, in the developing countries themselves to the maximum extent practicable, on food production, distribution, storage, marketing, and consumption;”.
 
@@ -78,7 +78,7 @@ Subsec. (c)(4). Pub. L. 106–373, §3(c)(2), amended par. (4) generally. Prior 
 
 Subsec. (e). Pub. L. 106–373, §3(d), added subsec. (e).
 
-1979—Subsec. (a)(3). Pub. L. 96–53, §113(1), inserted provision relating to the scope of effort in developing countries.
+<b>1979</b>—Subsec. (a)(3). Pub. L. 96–53, §113(1), inserted provision relating to the scope of effort in developing countries.
 
 Subsec. (c). Pub. L. 96–53, §113(2), reworked activity objectives through revising terminology and structure and expanding such objectives to include requirement for a direct relationship between activities and the food and agricultural needs of developing countries.
 

@@ -24,7 +24,7 @@ Any officer who is authorized (by the Director, the Secretary of the Treasury, t
 
 #### (c) Seizure
 
-Any property or item seized pursuant to subsection (b) of this section shall be held by anyperson authorized by the Director, the Secretary of the Treasury, the Secretary of Commerce, the Secretary of the Interior, or the Secretary of the department in which the Coast Guard is operating pending the disposition of civil or criminal proceedings, or the institution of an action in rem for forfeiture of such property or item; except that such authorized person may, in lieu of holding such property or item, permit the owner or consignee thereof to post a bond or other satisfactory surety.
+Any property or item seized pursuant to subsection (b) of this section shall be held by any person authorized by the Director, the Secretary of the Treasury, the Secretary of Commerce, the Secretary of the Interior, or the Secretary of the department in which the Coast Guard is operating pending the disposition of civil or criminal proceedings, or the institution of an action in rem for forfeiture of such property or item; except that such authorized person may, in lieu of holding such property or item, permit the owner or consignee thereof to post a bond or other satisfactory surety.
 
 #### (d) Forfeiture
 
@@ -43,10 +43,6 @@ All provisions of law relating to the seizure, forfeiture, and condemnation of a
 The Director, the Secretary of the Treasury, the Secretary of Commerce, the Secretary of the Interior, and the Secretary of the department in which the Coast Guard is operating may prescribe such regulations as may be appropriate to enforce the provisions of this chapter and of any regulation prescribed or permit issued under this chapter, and charge reasonable fees for the expenses of the United States incurred in carrying out inspections and in transferring, boarding, handling, or storing native mammals, native birds, native plants, animals and plants not indigenous to Antarctica, and other evidentiary items seized or forfeited under this chapter.
 
 (Pub. L. 95–541, §10, Oct. 28, 1978, 92 Stat. 2055.)
-
-#### References in Text
-
-The customs laws, referred to in subsec. (e), are classified generally to Title 19, Customs Duties.
 
 #### Transfer of Functions
 

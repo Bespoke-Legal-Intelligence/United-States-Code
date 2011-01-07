@@ -18,7 +18,7 @@ Information Eligible for Exemption.—For the purposes of this section, informat
 
 &emsp;&emsp;(B) The information was provided or made available to the United States Government on the condition that it not be released to the public.
 
-&emsp;&emsp;(C) The information is an item of information, or is in a category of information, thatthe national security official concerned has specified in regulations prescribed under subsection (g) as being information the release of which would have an adverse effect on the ability of the United States Government to obtain the same or similar information in the future.
+&emsp;&emsp;(C) The information is an item of information, or is in a category of information, that the national security official concerned has specified in regulations prescribed under subsection (g) as being information the release of which would have an adverse effect on the ability of the United States Government to obtain the same or similar information in the future.
 
 (c)
 
@@ -88,9 +88,9 @@ The International Organizations Immunities Act, referred to in subsec. (h)(3)(A)
 
 #### Amendments
 
-2002—Subsec. (h)(1)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (h)(1)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-2001—Subsec. (b)(3)(C). Pub. L. 107–107, §1048(a)(3), substituted “subsection (g)” for “subsection (f)”.
+<b>2001</b>—Subsec. (b)(3)(C). Pub. L. 107–107, §1048(a)(3), substituted “subsection (g)” for “subsection (f)”.
 
 Subsec. (d)(1). Pub. L. 107–107, §1048(c)(1), substituted “October 30, 2000,” for “the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001”.
 

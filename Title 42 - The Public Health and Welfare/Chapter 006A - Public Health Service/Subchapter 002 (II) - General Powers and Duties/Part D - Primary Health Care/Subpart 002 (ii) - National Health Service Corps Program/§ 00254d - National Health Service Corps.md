@@ -28,7 +28,7 @@
 
 #### (b) Recruitment and fellowship programs
 
-(1) The Secretary may conduct at schools of medicine, osteopathic medicine, dentistry, and, as appropriate, nursing and other schools of the health professions, including schools at which graduate programs of behavioral and mental health are offered, and at entities which trainallied health personnel, recruiting programs for the Corps, the Scholarship Program, and the Loan Repayment Program. Such recruiting programs shall include efforts to recruit individuals who will serve in the Corps other than pursuant to obligated service under the Scholarship or Loan Repayment Program.
+(1) The Secretary may conduct at schools of medicine, osteopathic medicine, dentistry, and, as appropriate, nursing and other schools of the health professions, including schools at which graduate programs of behavioral and mental health are offered, and at entities which train allied health personnel, recruiting programs for the Corps, the Scholarship Program, and the Loan Repayment Program. Such recruiting programs shall include efforts to recruit individuals who will serve in the Corps other than pursuant to obligated service under the Scholarship or Loan Repayment Program.
 
 (2) In the case of physicians, dentists, behavioral and mental health professionals, certified nurse midwives, certified nurse practitioners, and physician assistants who have an interest and a commitment to providing primary health care, the Secretary may establish fellowship programs to enable such health professionals to gain exposure to and expertise in the delivery of primary health services in health professional shortage areas. To the maximum extent practicable, the Secretary shall ensure that any such programs are established in conjunction with accredited residency programs, and other training programs, regarding such health professions.
 
@@ -44,7 +44,7 @@
 
 (1) The Secretary may, under regulations promulgated by the Secretary, adjust the monthly pay of each member of the Corps (other than a member described in subsection (a)(1)(C) of this section) who is directly engaged in the delivery of health services in a health professional shortage area as follows:
 
-&emsp;(A) During the first 36 months in which such a member is so engaged in the delivery of health services, his monthly pay may be increased by an amount which when added to the member's monthly pay and allowances will provide a monthly income competitive with the average monthly income from a practice of an individual who is a member of the profession of the Corps member, who has equivalent training, and who has been in practice for a period equivalent to the period during which the Corps member has been in practice.
+&emsp;(A) During the first 36 months in which such a member is so engaged in the delivery ofhealth services, his monthly pay may be increased by an amount which when added to the member's monthly pay and allowances will provide a monthly income competitive with the average monthly income from a practice of an individual who is a member of the profession of the Corps member, who has equivalent training, and who has been in practice for a period equivalent to the period during which the Corps member has been in practice.
 
 &emsp;(B) During the period beginning upon the expiration of the 36 months referred to in subparagraph (A) and ending with the month in which the member's monthly pay and allowances are equal to or exceed the monthly income he received for the last of such 36 months, the member may receive in addition to his monthly pay and allowances an amount which when added to such monthly pay and allowances equals the monthly income he received for such last month.
 
@@ -76,7 +76,7 @@ The Secretary shall ensure that adequate staff is provided to the Service with r
 
 #### (i) Demonstration projects; waivers
 
-(1) In carrying out subpart III, the Secretary may, in accordance with this subsection, carry out demonstration projects in which individuals who have entered into a contract for obligated service under the Loan Repayment Program receive waivers under which the individuals are authorized to satisfy the requirement of obligated service through providing clinical service that is not full-time.
+(1) In carrying out subpart III, the Secretary may, in accordance with this subsection, issue waivers to individuals who have entered into a contract for obligated service under the Scholarship Program or the Loan Repayment Program under which the individuals are authorized to satisfy the requirement of obligated service through providing clinical practice that is half time.
 
 (2) A waiver described in paragraph (1) may be provided by the Secretary only if—
 
@@ -84,19 +84,23 @@ The Secretary shall ensure that adequate staff is provided to the Service with r
 
 &emsp;&emsp;(i) has been approved under section 254f–1 of this title for assignment of a Corps member; and
 
-&emsp;&emsp;(ii) has requested in writing assignment of a health professional who would serve less than full time;
+&emsp;&emsp;(ii) has requested in writing assignment of a health professional who would serve half time;
 
-&emsp;(B) the Secretary has determined that assignment of a health professional who would serve less than full time would be appropriate for the area where the entity is located;
+&emsp;(B) the Secretary has determined that assignment of a health professional who would serve half time would be appropriate for the area where the entity is located;
 
-&emsp;(C) a Corps member who is required to perform obligated service has agreed in writing to be assigned for less than full-time service to an entity described in subparagraph (A);
+&emsp;(C) a Corps member who is required to perform obligated service has agreed in writing tobe assigned for half-time service to an entity described in subparagraph (A);
 
-&emsp;(D) the entity and the Corps member agree in writing that the less than full-time service provided by the Corps member will not be less than 16 hours of clinical service per week;
+&emsp;(D) the entity and the Corps member agree in writing that the Corps member will perform half-time clinical practice;
 
-&emsp;(E) the Corps member agrees in writing that the period of obligated service pursuant to section 254<i>l</i>–1 of this title will be extended so that the aggregate amount of less than full-time service performed will equal the amount of service that would be performed through full-time service under section 254m of this title; and
+&emsp;(E) the Corps member agrees in writing to fulfill all of the service obligations under section 254m of this title through half-time clinical practice and either—
 
-&emsp;(F) the Corps member agrees in writing that if the Corps member begins providing less than full-time service but fails to begin or complete the period of obligated service, the method stated in 254<i>o</i>(c) of this title for determining the damages for breach of the individual's written contract will be used after converting periods of obligated service or of service performed into their full-time equivalents.
+&emsp;&emsp;(i) double the period of obligated service that would otherwise be required; or
 
-(3) In evaluating a demonstration project described in paragraph (1), the Secretary shall examine the effect of multidisciplinary teams.
+&emsp;&emsp;(ii) in the case of contracts entered into under section 254<i>l</i>–1 of this title, accept a minimum service obligation of 2 years with an award amount equal to 50 percent of the amount that would otherwise be payable for full-time service; and
+
+&emsp;(F) the Corps member agrees in writing that if the Corps member begins providing half-time service but fails to begin or complete the period of obligated service, the method stated in 254<i>o</i>(c) of this title for determining the damages for breach of the individual's written contract will be used after converting periods of obligated service or of service performed into their full-time equivalents.
+
+(3) In evaluating waivers issued under paragraph (1), the Secretary shall examine the effect of multidisciplinary teams.
 
 #### (j) Definitions
 
@@ -110,7 +114,11 @@ For the purposes of this subpart and subpart III:
 
 &emsp;(4) The term “State” includes, in addition to the several States, only the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands.
 
-(July 1, 1944, ch. 373, title III, §331, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2268; amended Pub. L. 97–35, title XXVII, §2701, Aug. 13, 1981, 95 Stat. 902; Pub. L. 100–177, title II, §202(b), title III, §301, Dec. 1, 1987, 101 Stat. 996, 1003; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title I, §101, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3013, 3035; Pub. L. 107–251, title III, §301, Oct. 26, 2002, 116 Stat. 1642; Pub. L. 109–417, title II, §206(c)(2), Dec. 19, 2006, 120 Stat. 2853.)
+&emsp;(5) The terms “full time” and “full-time” mean a minimum of 40 hours per week in a clinical practice, for a minimum of 45 weeks per year.
+
+&emsp;(6) The terms “half time” and “half-time” mean a minimum of 20 hours per week (not to exceed 39 hours per week) in a clinical practice, for a minimum of 45 weeks per year.
+
+(July 1, 1944, ch. 373, title III, §331, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2268; amended Pub. L. 97–35, title XXVII, §2701, Aug. 13, 1981, 95 Stat. 902; Pub. L. 100–177, title II, §202(b), title III, §301, Dec. 1, 1987, 101 Stat. 996, 1003; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title I, §101, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3013, 3035; Pub. L. 107–251, title III, §301, Oct. 26, 2002, 116 Stat. 1642; Pub. L. 109–417, title II, §206(c)(2), Dec. 19, 2006, 120 Stat. 2853; Pub. L. 111–148, title X, §10501(n)(1), (2), Mar. 23, 2010, 124 Stat. 1002, 1003.)
 
 #### References in Text
 
@@ -118,19 +126,37 @@ Section 294n of this title, referred to in subsec. (d)(1)(C), was in the origina
 
 #### Amendments
 
-2006—Subsec. (f). Pub. L. 109–417 inserted before period at end “, except when such members are Commissioned Corps officers who entered into a contract with Secretary under section 254<i>l</i> or 254<i>l</i>–1 of this title after December 31, 2006 and when the Secretary determines that exercising the authority provided under section 215 or 217 of this title with respect to any such officer to would not cause unreasonable disruption to health care services provided in the community in which such officer is providing health care services”.
+<b>2010</b>—Subsec. (i)(1). Pub. L. 111–148, §10501(n)(1)(A), substituted “issue waivers to individuals who have entered into a contract for obligated service under the Scholarship Program or the Loan Repayment Program under which the individuals are authorized to satisfy the requirement of obligated service through providing clinical practice that is half time” for “carry out demonstration projects in which individuals who have entered into a contract for obligated service under the Loan Repayment Program receive waivers under which the individuals are authorized to satisfy the requirement of obligated service through providing clinical service that is not full-time”.
 
-2002—Subsec. (a)(3)(E). Pub. L. 107–251, §301(a)(1), added subpar. (E).
+Subsec. (i)(2)(A)(ii), (B). Pub. L. 111–148, §10501(n)(1)(B)(i), substituted “half time” for “less than full time”.
+
+Subsec. (i)(2)(C). Pub. L. 111–148, §10501(n)(1)(B)(ii), substituted “half-time service” for “less than full-time service”.
+
+Subsec. (i)(2)(D), (E). Pub. L. 111–148, §10501(n)(1)(B)(iii), amended subpars. (D) and (E) generally. Prior to amendment, subpars. (D) and (E) read as follows:
+
+“(D) the entity and the Corps member agree in writing that the less than full-time service provided by the Corps member will not be less than 16 hours of clinical service per week;
+
+“(E) the Corps member agrees in writing that the period of obligated service pursuant to section 254<i>l</i>–1 of this title will be extended so that the aggregate amount of less than full-time service performed will equal the amount of service that would be performed through full-time service under section 254m of this title; and”.
+
+Subsec. (i)(2)(F). Pub. L. 111–148, §10501(n)(1)(B)(ii), substituted “half-time service” for “less than full-time service”.
+
+Subsec. (i)(3). Pub. L. 111–148, §10501(n)(1)(C), substituted “In evaluating waivers issued under paragraph (1)” for “In evaluating a demonstration project described in paragraph (1)”.
+
+Subsec. (j)(5), (6). Pub. L. 111–148, §10501(n)(2), added pars. (5) and (6).
+
+<b>2006</b>—Subsec. (f). Pub. L. 109–417 inserted before period at end “, except when such members are Commissioned Corps officers who entered into a contract with Secretary under section 254<i>l</i> or 254<i>l</i>–1 of this title after December 31, 2006 and when the Secretary determines that exercising the authority provided under section 215 or 217 of this title with respect to any such officer to would not cause unreasonable disruption to health care services provided in the community in which such officer is providing health care services”.
+
+<b>2002</b>—Subsec. (a)(3)(E). Pub. L. 107–251, §301(a)(1), added subpar. (E).
 
 Subsec. (b)(1). Pub. L. 107–251, §301(a)(2)(A), substituted “health professions, including schools at which graduate programs of behavioral and mental health are offered,” for “health professions”.
 
 Subsec. (b)(2). Pub. L. 107–251, §301(a)(2)(B), inserted “behavioral and mental health professionals,” after “dentists,”.
 
-Subsec. (c). Pub. L. 107–251, §301(a)(3), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Secretary may reimburse applicants for positions in the Corps (including individuals considering entering into a written agreement pursuant to section 254n of this title) for actual and reasonable expenses incurred in traveling to and from their places of residence to a health professional shortage area (designated under section 254e of this title) in which they may be assigned for the purpose of evaluating such area with regard to being assigned in such area. The Secretary shall not reimburse an applicant for more than one such trip.”
+Subsec. (c). Pub. L. 107–251, §301(a)(3), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Secretary may reimburse applicants for positions in the Corps (including individuals consideringentering into a written agreement pursuant to section 254n of this title) for actual and reasonable expenses incurred in traveling to and from their places of residence to a health professional shortage area (designated under section 254e of this title) in which they may be assigned for the purpose of evaluating such area with regard to being assigned in such area. The Secretary shall not reimburse an applicant for more than one such trip.”
 
 Subsecs. (i), (j). Pub. L. 107–251, §301(b), added subsec. (i) and redesignated former subsec. (i) as (j).
 
-1990—Subsec. (a). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in pars. (1), (2), and (3)(C).
+<b>1990</b>—Subsec. (a). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in pars. (1), (2), and (3)(C).
 
 Pub. L. 101–597, §101(a), designated existing provisions as par. (1), substituted “For the purpose of eliminating health manpower shortages in health manpower shortage areas, there is established, within the Service, the National Health Service Corps, which shall consist of—” for “There is established, within the Service, the National Health Service Corps (hereinafter in this subpart referred to as the ‘Corps’) which (1) shall consist of—”, substituted “States.” for “States,” at end of subpar. (C), struck out closing provisions which read “(such officers, employees, and individuals hereinafter in this subpart referred to as ‘Corps members’), and (2) shall be utilized by the Secretary to improve the delivery of health services in health manpower shortage areas as defined in section 254e(a) of this title.”, and added pars. (2) and (3).
 
@@ -154,9 +180,9 @@ Subsec. (h). Pub. L. 101–597, §101(d), added subsec. (h) and struck out forme
 
 Subsec. (i). Pub. L. 101–597, §101(e), substituted “of this subpart and subpart III” for “of this subpart”.
 
-1988—Subsec. (b). Pub. L. 100–607 substituted “osteopathic medicine” for “osteopathy”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–607 substituted “osteopathic medicine” for “osteopathy”.
 
-1987—Subsec. (b). Pub. L. 100–177, §202(b)(1), inserted reference to Loan Repayment Program.
+<b>1987</b>—Subsec. (b). Pub. L. 100–177, §202(b)(1), inserted reference to Loan Repayment Program.
 
 Subsec. (c). Pub. L. 100–177, §202(b)(2), made technical amendment to reference to section 254n of this title to reflect renumbering of corresponding section of original act.
 
@@ -166,7 +192,7 @@ Subsec. (h). Pub. L. 100–177, §301(2), added subsec. (h). Former subsec. (h) 
 
 Subsec. (i). Pub. L. 100–177, §§202(b)(5), 301(1), redesignated subsec. (h) as (i), added par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-1981—Subsec. (a)(1). Pub. L. 97–35, §2701(a), revised provisions and, as so revised, set out existing provisions in cls. (A) and (B), and added cl. (C).
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–35, §2701(a), revised provisions and, as so revised, set out existing provisions in cls. (A) and (B), and added cl. (C).
 
 Subsec. (b). Pub. L. 97–35, §2701(b), substituted “may” for “shall”.
 
@@ -188,11 +214,11 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Special Report on Present and Future Direction of National Health Service Corps; Submission to Congress Not Later Than February 1, 1979
 
-Pub. L. 95–626, title I, §116(c), Nov. 10, 1978, 92 Stat. 3569, directed Secretary, not later than Feb. 1, 1979, in consultation with National Advisory Council of National Health Service Corps and National Advisory Council on Health Professions Education, to submit to Congress a report on the direction of the National Health Service Corps, particularly its role as a health manpower program and as a health services delivery program, the use of members of the Corps in health manpower shortage areas to meet urban and ruralhealth needs, the types of health professions needed to meet urban and rural health needs, and the projected size, composition, and use of the Corps through 1985.
+Pub. L. 95–626, title I, §116(c), Nov. 10, 1978, 92 Stat. 3569, directed Secretary, not later than Feb. 1, 1979, in consultation with National Advisory Council of National Health Service Corps and National Advisory Council on Health Professions Education, to submit to Congress a report on the direction of the National Health Service Corps, particularly its role as a health manpower program and as a health services delivery program, the use of members of the Corps in health manpower shortage areas to meet urban and rural health needs, the types of health professions needed to meet urban and rural health needs, and the projected size, composition, and use of the Corps through 1985.
 
 #### Effective Date; Other Provisions: Health Manpower Shortage Area; Approval of Applications for Assignment of Corps Personnel; Assignment Period, Commencement; Credit for Months of Prior Health Care and Services for Additional Pay Benefit; National Advisory Council on the National Health Service Corps, Continuation of Council and Appointment of Members
 
-Section 407(c) of Pub. L. 94–484 provided that:
+Pub. L. 94–484, title IV, §407(c), Oct. 12, 1976, 90 Stat. 2278, provided that:
 
 “(1) The amendment made by subsections (a) and (b) \[enacting this subpart and repealing section 254b of this title\] shall apply only with respect to fiscal years beginning after September 30, 1977, except that the Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall carry out the activities described in section 332 of the Public Health Service Act (as added by such amendment) \[section 254e of this title\] after the date of enactment of this Act \[Oct. 12, 1976\].
 

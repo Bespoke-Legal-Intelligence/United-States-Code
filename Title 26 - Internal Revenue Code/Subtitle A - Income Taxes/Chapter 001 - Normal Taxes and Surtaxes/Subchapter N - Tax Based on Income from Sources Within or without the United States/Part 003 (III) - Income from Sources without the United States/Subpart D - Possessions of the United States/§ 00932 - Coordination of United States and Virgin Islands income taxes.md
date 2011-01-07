@@ -88,9 +88,9 @@ A prior section 932, acts Aug. 16, 1954, ch. 736, 68A Stat. 292; Nov. 13, 1966, 
 
 #### Amendments
 
-2004—Subsecs. (a)(1)(A)(i), (c)(1)(A), (4)(A). Pub. L. 108–357 substituted “during the entire taxable year” for “at the close of the taxable year”.
+<b>2004</b>—Subsecs. (a)(1)(A)(i), (c)(1)(A), (4)(A). Pub. L. 108–357 substituted “during the entire taxable year” for “at the close of the taxable year”.
 
-1988—Subsec. (c)(2). Pub. L. 100–647, §1012(w)(3), substituted “an income tax return” for “his income tax return”.
+<b>1988</b>—Subsec. (c)(2). Pub. L. 100–647, §1012(w)(3), substituted “an income tax return” for “his income tax return”.
 
 Subsec. (c)(4). Pub. L. 100–647, §1012(w)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “In the case of an individual who is a bona fide resident of the Virgin Islands at the close of the taxable year and who, on his return of income tax to the Virgin Islands, reports income from all sources and identifies the source of each item shown on such return, for purposes of calculating income tax liability to the United States gross income shall not include any amount included in gross income on such return.”
 

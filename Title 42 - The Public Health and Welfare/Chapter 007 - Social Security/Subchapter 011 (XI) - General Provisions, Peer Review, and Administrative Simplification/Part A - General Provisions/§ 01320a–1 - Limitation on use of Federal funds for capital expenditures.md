@@ -30,7 +30,7 @@ The Secretary shall pay any such State from the general fund in the Treasury, in
 
 &emsp;(ii) the planning agency so designated had, prior to submitting to the Secretary the findings referred to in subsection (b) of this section—
 
-&emsp;&emsp;(I) consulted with, and taken into consideration the findings and recommendations of, the State planning agencies established pursuant to sections 314(a) and 604(a) of the Public Health Service Act \[42 U.S.C. 246(a), 291d(a)\] (to the extent that either such agency is not the agency so designated) as well as the public or nonprofit private agency or organization responsible for the comprehensive regional, metropolitan area, or other local area plan or plans referred to in section 314(b) of the Public Health Service Act \[42 U.S.C. 246(b)\] and covering the area in which the health care facility proposingsuch capital expenditure is located (where such agency is not the agency designated in the agreement), or, if there is no such agency, such other public or nonprofit private agency or organization (if any) as performs, as determined in accordance with criteria included in regulations, similar functions, and
+&emsp;&emsp;(I) consulted with, and taken into consideration the findings and recommendations of, the State planning agencies established pursuant to sections 314(a) and 604(a) of the Public Health Service Act \[42 U.S.C. 246(a), 291d(a)\] (to the extent that either such agency is not the agency so designated) as well as the public or nonprofit private agency or organization responsible for the comprehensive regional, metropolitan area, or other local area plan or plans referred to in section 314(b) of the Public Health Service Act \[42 U.S.C. 246(b)\] and covering the area in which the health care facility proposing such capital expenditure is located (where such agency is not the agency designated in the agreement), or, if there is no such agency, such other public or nonprofit private agency or organization (if any) as performs, as determined in accordance with criteria included in regulations, similar functions, and
 
 &emsp;&emsp;(II) granted to the person proposing such capital expenditure an opportunity for a fair hearing with respect to such findings;
 
@@ -60,7 +60,7 @@ The provisions of this section shall not apply to a religious nonmedical health 
 
 (2) The Secretary shall make appropriate provision for consultation between and coordination of the work of the advisory council established or designated under paragraph (1) and the Federal Hospital Council, the National Advisory Health Council, the Health Insurance Benefits Advisory Council, and other appropriate national advisory councils with respect to matters bearing on the purposes and administration of this section and the coordination of activities under this section with related Federal health programs.
 
-(3) If an advisory council is established by the Secretary under paragraph (1), it shall be composed of members who are not otherwise in the regular full-time employ of the United States, and who shall be appointed by the Secretary without regard to the civil service laws from among leaders in the fields of the fundamentalsciences, the medical sciences, and the organization, delivery, and financing of health care, and persons who are State or local officials or are active in community affairs or public or civic affairs or who are representative of minority groups. Members of such advisory council, while attending meetings of the council or otherwise serving on business of the council, shall be entitled to receive compensation at rates fixed by the Secretary, but not exceeding the maximum rate specified at the time of such service for grade GS–18 in section 5332 of title 5, including traveltime, and while away from their homes or regular places of business they may also be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of such title 5 for persons in the Government service employed intermittently.
+(3) If an advisory council is established by the Secretary under paragraph (1), it shall be composed of members who are not otherwise in the regular full-time employ of the United States, and who shall be appointed by the Secretary without regard to the civil service laws from among leaders in the fields of the fundamental sciences, the medical sciences, and the organization, delivery, and financing of health care, and persons who are State or local officials or are active in community affairs or public or civic affairs or who are representative of minority groups. Members of such advisory council, while attending meetings of the council or otherwise serving on business of the council, shall be entitled to receive compensation at rates fixed by the Secretary, but not exceeding the maximum rate specified at the time of such service for grade GS–18 in section 5332 of title 5, including traveltime, and while away from their homes or regular places of business they may also be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of such title 5 for persons in the Government service employed intermittently.
 
 #### (j) Capital expenditure review exception for eligible organization health care facilities
 
@@ -80,27 +80,25 @@ A capital expenditure made by or on behalf of a health care facility shall not b
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsec. (b), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
-
-The civil service laws, referred to in subsec. (i)(3), are set out in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
+The Public Health Service Act, referred to in subsec. (b), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 #### Amendments
 
-1997—Subsec. (h). Pub. L. 105–33 substituted “a religious nonmedical health care institution (as defined in section 1395x(ss)(1) of this title).” for “Christian Science sanatoriums operated, or listed and certified, by the First Church of Christ, Scientist, Boston, Massachusetts.”
+<b>1997</b>—Subsec. (h). Pub. L. 105–33 substituted “a religious nonmedical health care institution (as defined in section 1395x(ss)(1) of this title).” for “Christian Science sanatoriums operated, or listed and certified, by the First Church of Christ, Scientist, Boston, Massachusetts.”
 
-1984—Subsec. (b). Pub. L. 98–369, §2354(a)(1), substituted a comma for the period at end of par. (1), and struck out “(or the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963)” before “to meet the need” in provisions following par. (3).
+<b>1984</b>—Subsec. (b). Pub. L. 98–369, §2354(a)(1), substituted a comma for the period at end of par. (1), and struck out “(or the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963)” before “to meet the need” in provisions following par. (3).
 
 Subsec. (i)(3). Pub. L. 98–369, §2354(a)(2), substituted “5703” for “5703(b)”.
 
-1983—Subsec. (c). Pub. L. 98–21, §607(a), substituted “the general fund in the Treasury” for “the Federal Hospital Insurance Trust Fund”.
+<b>1983</b>—Subsec. (c). Pub. L. 98–21, §607(a), substituted “the general fund in the Treasury” for “the Federal Hospital Insurance Trust Fund”.
 
 Subsec. (g). Pub. L. 98–21, §607(b)(1), substituted “$600,000 (or such lesser amount as the State may establish)” for “$100,000” and Pub. L. 98–21, §607(b)(1)(B), substituted “the dollar amount specified in clause (1)” for “$100,000” the second time it appeared.
 
 Subsec. (j). Pub. L. 98–21, §607(c), added subsec. (j).
 
-1982—Subsec. (d)(2). Pub. L. 97–248 amended directory language of Pub. L. 97–35, §2193(c)(3)(B), to correct typographical error, and did not involve any change in text. See 1981 Amendment note below.
+<b>1982</b>—Subsec. (d)(2). Pub. L. 97–248 amended directory language of Pub. L. 97–35, §2193(c)(3)(B), to correct typographical error, and did not involve any change in text. See 1981 Amendment note below.
 
-1981—Subsec. (a). Pub. L. 97–35, §2193(c)(3)(A), substituted “subchapters XVIII and XIX of this chapter” for “subchapters V, XVIII, and XIX of this chapter”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §2193(c)(3)(A), substituted “subchapters XVIII and XIX of this chapter” for “subchapters V, XVIII, and XIX of this chapter”.
 
 Subsec. (d)(1). Pub. L. 97–35, §2193(c)(3)(A), substituted in provision following subpar. (B)(ii)(II) “subchapters XVIII and XIX of this chapter” for “subchapters V, XVIII, and XIX of this chapter” in two places.
 
@@ -108,13 +106,13 @@ Subsec. (d)(2). Pub. L. 97–35, §2193(c)(3)(B), as amended by Pub. L. 97–248
 
 Subsec. (e). Pub. L. 97–35, §2193(c)(3)(A), substituted “subchapters XVIII and XIX of this chapter” for “subchapters V, XVIII, and XIX of this chapter”.
 
-1979—Pub. L. 96–32 amended directory language of Pub. L. 95–559 and required no change in text of section. See 1978 Amendment notes below.
+<b>1979</b>—Pub. L. 96–32 amended directory language of Pub. L. 95–559 and required no change in text of section. See 1978 Amendment notes below.
 
-1978—Subsecs. (a), (b). Pub. L. 95–559, §14(b)(1), (2), as amended by Pub. L. 96–32, struck out references to health maintenance organizations wherever appearing.
+<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–559, §14(b)(1), (2), as amended by Pub. L. 96–32, struck out references to health maintenance organizations wherever appearing.
 
 Subsec. (d). Pub. L. 95–559, §14(b)(1), (3), as amended by Pub. L. 96–32, struck out references to health maintenance organizations wherever appearing and in par. (2) “or organization, or of any facility of such organization,” after “expansion of such facility”.
 
-1973—Subsec. (d)(1). Pub. L. 93–233, §18(z), inserted “or a fixed fee or negotiated rate” after “per capita” wherever appearing in last sentence.
+<b>1973</b>—Subsec. (d)(1). Pub. L. 93–233, §18(z), inserted “or a fixed fee or negotiated rate” after “per capita” wherever appearing in last sentence.
 
 Subsec. (d)(2). Pub. L. 93–233, §18(z–1), substituted “exclude” for “include” where last appearing.
 
@@ -126,7 +124,7 @@ Amendment by Pub. L. 105–33 effective Aug. 5, 1997, and applicable to items an
 
 Section 2354(e) of Pub. L. 98–369 provided that:
 
-“(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1316, 1320a–7a, 1320a–8, 1395f, 1395i, 1395i–2, 1395k, 1395<i>l</i>, 1395n, 1395p, 1395s to 1395z, 1395aa, 1395cc, 1395ff, 1395ii, 1395<i>ll</i>, 1395mm, 1395<i>oo</i>, 1395rr, and 1395ww of this title and section 162 of Title 26, Internal Revenue Code, and amending provisions set out as notes under sections 1320c, 1395x, and 1395mm of this title\] shall be effective on the date of the enactment of thisAct \[July 18, 1984\]; but none of such amendments shall be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date.
+“(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1316, 1320a–7a, 1320a–8, 1395f, 1395i, 1395i–2, 1395k, 1395<i>l</i>, 1395n, 1395p, 1395s to 1395z, 1395aa, 1395cc, 1395ff, 1395ii, 1395<i>ll</i>, 1395mm, 1395<i>oo</i>, 1395rr, and 1395ww of this title and section 162 of Title 26, Internal Revenue Code, and amending provisions set out as notes under sections 1320c, 1395x, and 1395mm of this title\] shall be effective on the date of the enactment of this Act \[July 18, 1984\]; but none of such amendments shall be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date.
 
 “(2) The amendments made by paragraphs (1) \[amending section 1395f of this title and provisions set out as a note under section 1395x of this title\], (2) \[amending section 1316 of this title\], and (3) \[amending provisions set out as notes under sections 1320c and 1395mm of this title\] of subsection (c) shall be effective as if they had been originally included in Public Laws 96–499, 97–35, and 97–248, respectively.”
 

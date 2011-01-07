@@ -8,7 +8,7 @@ It is the sense of Congress, consistent with the 9/11 Commission's recommendatio
 
 &emsp;&emsp;(A) establish clear PSI authorities, responsibilities, and structures;
 
-&emsp;&emsp;(B) include in the budget request for each such agency or department for each fiscalyear, a request for funds necessary for United States PSI-related activities; and
+&emsp;&emsp;(B) include in the budget request for each such agency or department for each fiscal year, a request for funds necessary for United States PSI-related activities; and
 
 &emsp;&emsp;(C) provide other necessary resources to achieve more efficient and effective performance of United States PSI-related activities.
 

@@ -44,7 +44,7 @@ Use of Funds.—(1) The United States Paralympics, Inc., with the assistance and
 
 (4) A grant made under this section may include, at the discretion of the Secretary, an amount for the administrative expenses of the United States Paralympics, Inc., but not to exceed five percent of the amount of the grant.
 
-(5) Funds made available by the United States Paralympics, Inc., to a grantee under subsection (c) may include an amount for administrative expenses, but not to exceed ten percent of the amount of such funds.
+(5) Funds made available by the United States Paralympics, Inc., to a grantee under subsection\(c) may include an amount for administrative expenses, but not to exceed ten percent of the amount of such funds.
 
 (e)
 

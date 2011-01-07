@@ -156,7 +156,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 &emsp;(1) a description of the population that is to receive services under this section and a description of such services that are to be provided and measurable goals and objectives;
 
-&emsp;(2) a description of the mechanism that will be used to involve the local public agencies responsible for health, including maternal and child health <sup>2</sup> mental health, child welfare, education, juvenile justice, developmental disabilities, and substance abuse in planning and providing services under this section, as well as evidence that the proposal has been coordinated with the State agencies responsible for administering those programs, the State agency responsible for administering alcohol and drug programs, the State lead agency, and the State Interagency Coordinating Council under part H <sup>3</sup> of the Individuals with Disabilities Education Act; and; <sup>4</sup>
+&emsp;(2) a description of the mechanism that will be used to involve the local public agencies responsible for health, including maternal and child health <sup>2</sup> mental health, child welfare, education, juvenile justice, developmental disabilities, and substance abuse in planning and providing services under this section, as well as evidence that the proposal has been coordinated with the State agencies responsible for administering those programs, the State agency responsible for administering alcohol and drug programs, the State lead agency, and theState Interagency Coordinating Council under part H <sup>3</sup> of the Individuals with Disabilities Education Act; and; <sup>4</sup>
 
 &emsp;(3) such other information as the Secretary determines to be appropriate.
 
@@ -270,9 +270,9 @@ Section was formerly classified to section 280d of this title.
 
 #### Amendments
 
-2004—Subsecs. (b)(8), (f). Pub. L. 108–446, §305(i)(1), (3), which directed amendment of subsecs. (b)(8) and (f) of section 399A of the Public Health Service Act by substituting “part C” for “part H”, was executed to subsec. (b)(8) of this section, which is section 519 of the Public Health Service Act, to reflect the probable intent of Congress and the renumbering of this section and repeal of former subsec. (f). See 2000 Amendments notes below.
+<b>2004</b>—Subsecs. (b)(8), (f). Pub. L. 108–446, §305(i)(1), (3), which directed amendment of subsecs. (b)(8) and (f) of section 399A of the Public Health Service Act by substituting “part C” for “part H”, was executed to subsec. (b)(8) of this section, which is section 519 of the Public Health Service Act, to reflect the probable intent of Congress and the renumbering of this section and repeal of former subsec. (f). See 2000 Amendments notes below.
 
-2000—Pub. L. 106–310, §3106(a)–(m), which directed numerous amendments to section 399D of the Public Health Service Act and the subsequent renumbering of that section as section 519 of title V of the Act, was executed by amending this section and renumbering this section as section 519 of title V, to reflect the probable intent of Congress, notwithstanding the intervening renumbering of this section as section 399A of the Act by section 502(1) of Pub. L. 106–310. See source credit above and notes below.
+<b>2000</b>—Pub. L. 106–310, §3106(a)–(m), which directed numerous amendments to section 399D of the Public Health Service Act and the subsequent renumbering of that section as section 519 of title V of the Act, was executed by amending this section and renumbering this section as section 519 of title V, to reflect the probable intent of Congress, notwithstanding the intervening renumbering of this section as section 399A of the Act by section 502(1) of Pub. L. 106–310. See source credit above and notes below.
 
 Subsec. (a)(1). Pub. L. 106–310, §3106(a)(1)(A), substituted “Administrator of the Substance Abuse and Mental Health Services Administration” for “Administrator of the Health Resources and Services Administration” in introductory provisions.
 

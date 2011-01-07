@@ -2,7 +2,7 @@
 
 #### (a) State and local governmental exemption
 
-Under regulations prescribed by the Secretary, no tax shall be imposed by section 4481 on theuse of any highway motor vehicle by any State or any political subdivision of a State.
+Under regulations prescribed by the Secretary, no tax shall be imposed by section 4481 on the use of any highway motor vehicle by any State or any political subdivision of a State.
 
 #### (b) Exemption for United States
 
@@ -136,45 +136,45 @@ The date of the enactment of the Energy Tax Act of 1978, referred to in subsec. 
 
 #### Amendments
 
-2006—Subsecs. (h), (i). Pub. L. 109–280, which directed the amendment of section 4483 by adding subsec. (h) and redesignating former subsec. (h) as (i), without specifying the act to be amended, was executed by making the amendments to this section, which is section 4483 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
+<b>2006</b>—Subsecs. (h), (i). Pub. L. 109–280, which directed the amendment of section 4483 by adding subsec. (h) and redesignating former subsec. (h) as (i), without specifying the act to be amended, was executed by making the amendments to this section, which is section 4483 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
-2005—Subsec. (h). Pub. L. 109–59 substituted “2011” for “2006”.
+<b>2005</b>—Subsec. (h). Pub. L. 109–59 substituted “2011” for “2006”.
 
 Pub. L. 109–14 substituted “2006” for “2005”.
 
-2004—Subsec. (f). Pub. L. 108–357, §867(d), struck out heading and text of subsec. (f). Text read as follows: “If the base for registration purposes of any highway motor vehicle is in a contiguous foreign country for any taxable period, the tax imposed by section 4481 for such period shall be 75 percent of the tax which would (but for this subsection) be imposed by section 4481 for such period.”
+<b>2004</b>—Subsec. (f). Pub. L. 108–357, §867(d), struck out heading and text of subsec. (f). Text read as follows: “If the base for registration purposes of any highway motor vehicle is in a contiguous foreign country for any taxable period, the tax imposed by section 4481 for such period shall be 75 percent of the tax which would (but for this subsection) be imposed by section 4481 for such period.”
 
 Subsecs. (g), (h). Pub. L. 108–357, §851(b)(1), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-1998—Subsec. (g). Pub. L. 105–178 substituted “2005” for “1999”.
+<b>1998</b>—Subsec. (g). Pub. L. 105–178 substituted “2005” for “1999”.
 
-1991—Subsec. (g). Pub. L. 102–240 substituted “1999” for “1995”.
+<b>1991</b>—Subsec. (g). Pub. L. 102–240 substituted “1999” for “1995”.
 
-1990—Subsec. (g). Pub. L. 101–508 substituted “1995” for “1993”.
+<b>1990</b>—Subsec. (g). Pub. L. 101–508 substituted “1995” for “1993”.
 
-1987—Subsec. (f). Pub. L. 100–17, §507(b), added subsec. (f). Former subsec. (f) redesignated (g).
+<b>1987</b>—Subsec. (f). Pub. L. 100–17, §507(b), added subsec. (f). Former subsec. (f) redesignated (g).
 
 Pub. L. 100–17, §502(b)(5), substituted “1993” for “1988”.
 
 Subsec. (g). Pub. L. 100–17, §507(b), redesignated former subsec. (f) as (g).
 
-1984—Subsec. (d)(5), (6). Pub. L. 98–369, §903(a), added par. (5) and redesignated former par. (5) as (6).
+<b>1984</b>—Subsec. (d)(5), (6). Pub. L. 98–369, §903(a), added par. (5) and redesignated former par. (5) as (6).
 
 Subsecs. (e), (f). Pub. L. 98–369, §902(a), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1983—Subsec. (d). Pub. L. 97–424, §513(b), added subsec. (d).
+<b>1983</b>—Subsec. (d). Pub. L. 97–424, §513(b), added subsec. (d).
 
 Subsec. (e). Pub. L. 97–424, §516(b)(3), added subsec. (e).
 
-1978—Subsec. (c). Pub. L. 95–618 inserted “(as in effect on the day before the date of the enactment of the Energy Tax Act of 1978)” after “section 6421(b)(2)”.
+<b>1978</b>—Subsec. (c). Pub. L. 95–618 inserted “(as in effect on the day before the date of the enactment of the Energy Tax Act of 1978)” after “section 6421(b)(2)”.
 
-1976—Subsecs. (a), (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a), (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 Subsec. (b). Pub. L. 94–455, §1906(b)(13)(B), inserted “of the Treasury” after “Secretary”.
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–280 effective Jan. 1, 2007, and applicable to taxable periods beginning on or after July 1, 2007, see section 1207(g) of Pub. L. 109–280, set out as a note under section 4041 of this title.
+Amendment by Pub. L. 109–280 effective Jan. 1, 2007, and applicable to taxable periods beginning on or afterJuly 1, 2007, see section 1207(g) of Pub. L. 109–280, set out as a note under section 4041 of this title.
 
 #### Effective Date of 2004 Amendment
 

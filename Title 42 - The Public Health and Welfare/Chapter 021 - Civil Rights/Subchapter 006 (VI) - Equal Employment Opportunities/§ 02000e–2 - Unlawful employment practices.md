@@ -28,7 +28,7 @@ It shall be an unlawful employment practice for any employer, labor organization
 
 #### (e) Businesses or enterprises with personnel qualified on basis of religion, sex, or national origin; educational institutions with personnel of particular religion
 
-Notwithstanding any other provision of this subchapter, (1) it shall not be an unlawful employment practice for an employer to hire and employ employees, for an employment agency to classify, or refer for employment any individual, for a labor organization to classify its membership or to classify or refer for employment any individual, or for an employer, labor organization, or joint labor-management committee controlling apprenticeship or other training or retraining programs to admit or employ any individual in any such program, on the basis of his religion, sex, or national origin in those certain instances where religion, sex, or national origin is a bona fide occupational qualification reasonably necessary to the normal operation of thatparticular business or enterprise, and (2) it shall not be an unlawful employment practice for a school, college, university, or other educational institution or institution of learning to hire and employ employees of a particular religion if such school, college, university, or other educational institution or institution of learning is, in whole or in substantial part, owned, supported, controlled, or managed by a particular religion or by a particular religious corporation, association, or society, or if the curriculum of such school, college, university, or other educational institution or institution of learning is directed toward the propagation of a particular religion.
+Notwithstanding any other provision of this subchapter, (1) it shall not be an unlawful employment practice for an employer to hire and employ employees, for an employment agency to classify, or refer for employment any individual, for a labor organization to classify its membership or to classify or refer for employment any individual, or for an employer, labor organization, or joint labor-management committee controlling apprenticeship or other training or retraining programs to admit or employ any individual in any such program, on the basis of his religion, sex, or national origin in those certain instances where religion, sex, or national origin is a bona fide occupational qualification reasonably necessary to the normal operation of that particular business or enterprise, and (2) it shall not be an unlawful employment practice for a school, college, university, or other educational institution or institution of learning to hire and employ employees of a particular religion if such school, college, university, or other educational institution or institution of learning is, in whole or in substantial part, owned, supported, controlled, or managed by a particular religion or by a particular religious corporation, association, or society, or if the curriculum of such school, college, university, or other educational institution or institution of learning is directed toward the propagation of a particular religion.
 
 #### (f) Members of Communist Party or Communist-action or Communist-front organizations
 
@@ -52,7 +52,7 @@ Nothing contained in this subchapter shall apply to any business or enterprise o
 
 #### (j) Preferential treatment not to be granted on account of existing number or percentage imbalance
 
-Nothing contained in this subchapter shall be interpreted to require any employer, employment agency, labor organization, or joint labor-management committee subject to this subchapter to grant preferential treatment to any individual or to any group because of the race, color, religion, sex, or national origin of such individual or group on account of an imbalance which may exist with respect to the total number or percentage of persons of any race, color, religion, sex, or national origin employed by any employer, referred or classified for employment by any employment agency or labor organization, admitted to membership or classified by any labor organization, or admitted to, or employed in, any apprenticeship or other training program, in comparison with the total number or percentage of persons of such race, color, religion, sex, or national origin in any community, State, section, or other area, or in the available work force in any community, State, section, or other area.
+Nothing contained in this subchapter shall be interpreted to require any employer, employment agency, labor organization, or joint labor-management committee subject to this subchapter to grant preferential treatment to any individual or to any group because of the race, color, religion, sex, or national origin of such individual or group on account of an imbalance which may exist with respect to the total number or percentage of persons of any race, color, religion, sex, or national origin employed by any employer, referred or classified for employment by any employment agency or labor organization, admitted to membership or classified byany labor organization, or admitted to, or employed in, any apprenticeship or other training program, in comparison with the total number or percentage of persons of such race, color, religion, sex, or national origin in any community, State, section, or other area, or in the available work force in any community, State, section, or other area.
 
 #### (k) Burden of proof in disparate impact cases
 
@@ -62,7 +62,7 @@ Nothing contained in this subchapter shall be interpreted to require any employe
 
 &emsp;(ii) the complaining party makes the demonstration described in subparagraph (C) with respect to an alternative employment practice and the respondent refuses to adopt such alternative employment practice.
 
-(B)(i) With respect to demonstrating that a particular employment practice causes a disparate impact as described in subparagraph (A)(i), the complaining party shall demonstrate that each particular challenged employment practice causes a disparate impact, except that if thecomplaining party can demonstrate to the court that the elements of a respondent's decisionmaking process are not capable of separation for analysis, the decisionmaking process may be analyzed as one employment practice.
+(B)(i) With respect to demonstrating that a particular employment practice causes a disparate impact as described in subparagraph (A)(i), the complaining party shall demonstrate that each particular challenged employment practice causes a disparate impact, except that if the complaining party can demonstrate to the court that the elements of a respondent's decisionmaking process are not capable of separation for analysis, the decisionmaking process may be analyzed as one employment practice.
 
 (ii) If the respondent demonstrates that a specific employment practice does not cause the disparate impact, the respondent shall not be required to demonstrate that such practice is required by business necessity.
 
@@ -110,17 +110,15 @@ Except as otherwise provided in this subchapter, an unlawful employment practice
 
 #### References in Text
 
-The Subversive Activities Control Act of 1950, referred to in subsec. (f), is title I (§§1–32) of act Sept. 23, 1950, ch. 1024, 64 Stat. 987, as amended, which is classified principally to subchapter I (§781 et seq.) of chapter 23 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Subversive Activities Control Act of 1950, referred to in subsec. (f), is title I (§§1–32) of act Sept. 23, 1950, ch. 1024, 64 Stat. 987, which is classified principally to subchapter I (§781 et seq.) of chapter 23 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
-The Controlled Substances Act, referred to in subsec. (k)(3), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
-
-The Federal civil rights laws, referred to in subsec. (n)(1), are classified generally to chapter 21 (§1981 et seq.) of this title.
+The Controlled Substances Act, referred to in subsec. (k)(3), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (n)(2)(A), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
 
-1991—Subsec. (k). Pub. L. 102–166, §105(a), added subsec. (k).
+<b>1991</b>—Subsec. (k). Pub. L. 102–166, §105(a), added subsec. (k).
 
 Subsec. (<i>l</i>). Pub. L. 102–166, §106, added subsec. (<i>l</i>).
 
@@ -128,7 +126,7 @@ Subsec. (m). Pub. L. 102–166, §107(a), added subsec. (m).
 
 Subsec. (n). Pub. L. 102–166, §108, added subsec. (n).
 
-1972—Subsec. (a)(2). Pub. L. 92–261, §8(a), inserted “or applicants for employment” after “his employees”.
+<b>1972</b>—Subsec. (a)(2). Pub. L. 92–261, §8(a), inserted “or applicants for employment” after “his employees”.
 
 Subsec. (c)(2). Pub. L. 92–261, §8(b), inserted “or applicants for membership” after “membership”.
 

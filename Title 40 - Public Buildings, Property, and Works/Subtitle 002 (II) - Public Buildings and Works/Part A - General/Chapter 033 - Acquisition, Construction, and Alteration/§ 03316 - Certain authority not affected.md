@@ -24,7 +24,7 @@ The text of 40:615(1) is omitted as obsolete.
 
 #### Amendments
 
-2007—Pub. L. 110–140 renumbered section 3315 of this title as this section.
+<b>2007</b>—Pub. L. 110–140 renumbered section 3315 of this title as this section.
 
 #### Effective Date of 2007 Amendment
 

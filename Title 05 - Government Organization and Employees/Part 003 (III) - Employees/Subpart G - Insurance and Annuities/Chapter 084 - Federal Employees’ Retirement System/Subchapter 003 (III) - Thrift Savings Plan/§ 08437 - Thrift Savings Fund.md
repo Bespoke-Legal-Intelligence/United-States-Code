@@ -18,7 +18,7 @@
 
 &emsp;(6) to purchase insurance as provided in section 8479(b)(2) of this title.
 
-(d) Administrative expenses incurred to carry out this subchapter and subchapter VII of this chapter shall be paid first out of any sums in the Thrift Savings Fund forfeited under section 8432(g) of this title and then out of net earnings in such Fund.
+(d) Administrative expenses incurred to carry out this subchapter and subchapter VII of this chapter shall be paid first out of any sums in theThrift Savings Fund forfeited under section 8432(g) of this title and then out of net earnings in such Fund.
 
 (e)(1) Subject to subsection (d) and paragraphs (2) and (3), sums in the Thrift Savings Fund credited to the account of an employee, Member, former employee, or former Member may not be used for, or diverted to, purposes other than for the exclusive benefit of the employee, Member, former employee, or former Member or his beneficiaries under this subchapter.
 

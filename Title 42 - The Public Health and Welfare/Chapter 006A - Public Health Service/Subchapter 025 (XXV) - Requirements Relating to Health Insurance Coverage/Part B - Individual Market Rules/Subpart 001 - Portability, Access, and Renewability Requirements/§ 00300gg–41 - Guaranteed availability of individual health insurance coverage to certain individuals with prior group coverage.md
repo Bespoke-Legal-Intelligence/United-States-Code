@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) decline to offer such coverage to, or deny enrollment of, such individual; or
 
-&emsp;&emsp;(B) impose any preexisting condition exclusion (as defined in section 300gg(b)(1)(A) of this title) with respect to such coverage.
+&emsp;&emsp;(B) impose any preexisting condition exclusion (as defined in section 2701(b)(1)(A)) <sup>1</sup> with respect to such coverage.
 
 #### (2) Substitution by State of acceptable alternative mechanism
 
@@ -18,13 +18,13 @@
 
 In this part, the term “eligible individual” means an individual—
 
-&emsp;(1)(A) for whom, as of the date on which the individual seeks coverage under this section, the aggregate of the periods of creditable coverage (as defined in section 300gg(c) of this title) is 18 or more months and (B) whose most recent prior creditable coverage was under a group health plan, governmental plan, or church plan (or health insurance coverage offered in connection with any such plan);
+&emsp;(1)(A) for whom, as of the date on which the individual seeks coverage under this section, the aggregate of the periods of creditable coverage (as defined in section 2701(c)) <sup>1</sup> is 18 or more months and (B) whose most recent prior creditable coverage was under a group health plan, governmental plan, or church plan (or health insurance coverage offered in connection with any such plan);
 
 &emsp;(2) who is not eligible for coverage under (A) a group health plan, (B) part A or part B of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq., 1395j et seq.\], or (C) a State plan under title XIX of such Act \[42 U.S.C. 1396 et seq.\] (or any successor program), and does not have other health insurance coverage;
 
-&emsp;(3) with respect to whom the most recent coverage within the coverage period described in paragraph (1)(A) was not terminated based on a factor described in paragraph (1) or (2) of section 300gg–12(b) of this title (relating to nonpayment of premiums or fraud);
+&emsp;(3) with respect to whom the most recent coverage within the coverage period described in paragraph (1)(A) was not terminated based on a factor described in paragraph (1) or (2) of section 2712(b) <sup>1</sup> (relating to nonpayment of premiums or fraud);
 
-&emsp;(4) if the individual had been offered the option of continuation coverage under a COBRA continuation provision or under a similar State program, who elected such coverage; and
+&emsp;(4) if the individual had been offered the option of continuation coverage under a COBRAcontinuation provision or under a similar State program, who elected such coverage; and
 
 &emsp;(5) who, if the individual elected such continuation coverage, has exhausted such continuation coverage under such provision or program.
 
@@ -42,7 +42,7 @@ In this part, the term “eligible individual” means an individual—
 
 #### (2) Choice of most popular policy forms
 
-&emsp;The requirement of this paragraph is met, for health insurance coverage policy forms offered by an issuer in the individual market, if the issuer offers the policy forms for individual health insurance coverage with the largest, and next to largest, premium volume of all such policy forms offered by the issuer in the State or applicable marketing or service area (as may be prescribed in regulation) bythe issuer in the individual market in the period involved.
+&emsp;The requirement of this paragraph is met, for health insurance coverage policy forms offered by an issuer in the individual market, if the issuer offers the policy forms for individual health insurance coverage with the largest, and next to largest, premium volume of all such policy forms offered by the issuer in the State or applicable marketing or service area (as may be prescribed in regulation) by the issuer in the individual market in the period involved.
 
 #### (3) Choice of 2 policy forms with representative coverage
 
@@ -92,11 +92,11 @@ In this part, the term “eligible individual” means an individual—
 
 &emsp;An issuer, upon denying health insurance coverage in any service area in accordance with paragraph (1)(B), may not offer coverage in the individual market within such service area for a period of 180 days after such coverage is denied.
 
-#### (e) <sup>1</sup> Application of financial capacity limits
+#### (e) <sup>2</sup> Application of financial capacity limits
 
 #### (1) In general
 
-&emsp;A health insurance issuer may deny health insurance coverage in the individual market to an eligible individual if the issuer has demonstrated, if required, to the applicable State authority that—
+&emsp;A health insurance issuer may deny health insurance coverage in the individual marketto an eligible individual if the issuer has demonstrated, if required, to the applicable State authority that—
 
 &emsp;&emsp;(A) it does not have the financial reserves necessary to underwrite additional coverage; and
 
@@ -106,7 +106,7 @@ In this part, the term “eligible individual” means an individual—
 
 &emsp;An issuer upon denying individual health insurance coverage in any service area in accordance with paragraph (1) may not offer such coverage in the individual market within such service area for a period of 180 days after the date such coverage is denied or until the issuer has demonstrated, if required under applicable State law, to the applicable State authority that the issuer has sufficient financial reserves to underwrite additional coverage, whichever is later. A State may provide for the application of this paragraph on a service-area-specific basis.
 
-#### (e) <sup>1</sup> Market requirements
+#### (e) <sup>2</sup> Market requirements
 
 #### (1) In general
 
@@ -128,19 +128,25 @@ Nothing in this section shall be construed—
 
 #### References in Text
 
+Section 2701 of this Act, referred to in subsecs. (a)(1)(B) and (b)(1)(A), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
+
 The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.) of subchapter XVIII of chapter 7 of this title. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+Section 2712, referred to in subsec. (b)(3), is a reference to section 2712 of act July 1, 1944. Section 2712, which was classified to section 300gg–12 of this title, was renumbered section 2732 and amended and transferred to subsecs. (b) to (e) of section 300gg–2 of this title by Pub. L. 111–148, title I, §§1001(3), 1563(c)(9), formerly §1562(c)(9), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 267, 911. A new section 2712 of act July 1, 1944, related to prohibition on rescissions, was added by Pub. L. 111–148, title I, §1001(5), Mar. 23, 2010, 124 Stat. 131, effective for plan years beginning on or after the date that is 6 months after Mar. 23, 2010, and is classified to section 300gg–12 of this title.
 
 #### Effective Date
 
-Section 111(b) of Pub. L. 104–191 provided that:
+Pub. L. 104–191, title I, §111(b), Aug. 21, 1996, 110 Stat. 1987, provided that:
 
 “(1)
 
-In general.—Except as provided in this subsection, part B of title XXVII of the Public Health Service Act \[this part\] (as inserted by subsection (a)) shall apply with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market after June 30, 1997, regardless of when a period of creditable coverage occurs.
+In general.—Except as provided in this subsection, part B of title XXVII of the Public Health Service Act \[42 U.S.C. 300gg–41 et seq.\] (as inserted by subsection (a)) shall apply with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market after June 30, 1997, regardless of when a period of creditable coverage occurs.
 
 “(2)
 
-Application of certification rules.—The provisions of section 102(d)(2) \[102(c)(2)\] of this Act \[set out as a note under section 300gg of this title\] shall apply to section 2743 of the Public Health Service Act \[section 300gg–43 of this title\] in the same manner as it applies to section 2701(e) of such Act \[section 300gg(e) of this title\].”
+Application of certification rules.—The provisions of section 102(d)(2) \[102(c)(2)\] of this Act \[set out as a note under section 300gg of this title\] shall apply to section 2743 of the Public Health Service Act \[42 U.S.C. 300gg–43\] in the same manner as it applies to section 2701(e) \[now 2704(e)\] of such Act \[42 U.S.C. 300gg–3(e)\].”
 
-<i><sup>1</sup></i><i> So in original. Two subsecs. (e) have been enacted.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Two subsecs. (e) have been enacted.</i>
 

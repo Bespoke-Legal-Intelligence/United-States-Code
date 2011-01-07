@@ -44,9 +44,9 @@ A prior section 5033, acts Aug. 10, 1956, ch. 1041, 70A Stat. 279; Sept. 2, 1958
 
 #### Amendments
 
-2003—Subsec. (a)(1). Pub. L. 108–136 substituted “from the flag officers of the Navy” for “from officers on the active-duty list in the line of the Navy who are eligible to command at sea and who hold the grade of rear admiral or above”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136 substituted “from the flag officers of the Navy” for “from officers on theactive-duty list in the line of the Navy who are eligible to command at sea and who hold the grade of rear admiral or above”.
 
-1988—Subsec. (a)(2)(B). Pub. L. 100–456 substituted “full tour of duty in a joint duty assignment (as defined in section 664(f) of this title)” for “joint duty assignment”.
+<b>1988</b>—Subsec. (a)(2)(B). Pub. L. 100–456 substituted “full tour of duty in a joint duty assignment (as defined in section 664(f) of this title)” for “joint duty assignment”.
 
 #### Reappointment of Incumbent Chief of Naval Operations
 

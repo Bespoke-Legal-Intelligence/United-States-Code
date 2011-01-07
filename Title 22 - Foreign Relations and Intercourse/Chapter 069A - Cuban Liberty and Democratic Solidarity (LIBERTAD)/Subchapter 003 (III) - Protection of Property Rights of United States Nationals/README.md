@@ -1,7 +1,5 @@
 ### SUBCHAPTER III—PROTECTION OF PROPERTY RIGHTS OF UNITED STATES NATIONALS
 
-<i><sup>1</sup></i><i> So in original. No subsec. (b) or (c) has been enacted.</i>
-
 
 ---
 

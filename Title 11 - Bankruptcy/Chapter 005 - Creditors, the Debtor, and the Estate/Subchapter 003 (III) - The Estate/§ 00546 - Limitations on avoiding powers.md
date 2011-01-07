@@ -14,7 +14,7 @@
 
 &emsp;(A) permits perfection of an interest in property to be effective against an entity that acquires rights in such property before the date of perfection; or
 
-&emsp;(B) provides for the maintenance or continuation of perfection of an interest in property to be effective against an entity that acquires rights in such property before the date on which action is taken to effect such maintenance or continuation.
+&emsp;(B) provides for the maintenance or continuation of perfection of an interest in propertyto be effective against an entity that acquires rights in such property before the date on which action is taken to effect such maintenance or continuation.
 
 (2) If—
 

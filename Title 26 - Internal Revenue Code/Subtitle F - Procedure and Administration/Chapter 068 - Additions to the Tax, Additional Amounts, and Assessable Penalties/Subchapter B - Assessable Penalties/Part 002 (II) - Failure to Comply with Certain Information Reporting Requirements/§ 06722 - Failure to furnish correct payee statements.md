@@ -1,38 +1,118 @@
 ### §6722. Failure to furnish correct payee statements
 
-#### (a) General rule
+#### (a) Imposition of penalty
 
-In the case of each failure described in subsection (b) by any person with respect to a payee statement, such person shall pay a penalty of $50 for each statement with respect to which such a failure occurs, but the total amount imposed onsuch person for all such failures during any calendar year shall not exceed $100,000.
+#### (1) General rule
 
-#### (b) Failures subject to penalty
+&emsp;In the case of each failure described in paragraph (2) by any person with respect to a payee statement, such person shall pay a penalty of $100 for each statement with respect to which such a failure occurs, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $1,500,000.
 
-For purposes of subsection (a), the failures described in this subsection are—
+#### (2) Failures subject to penalty
 
-&emsp;(1) any failure to furnish a payee statement on or before the date prescribed therefor to the person to whom such statement is required to be furnished, and
+&emsp;For purposes of paragraph (1), the failures described in this paragraph are—
 
-&emsp;(2) any failure to include all of the information required to be shown on a payee statement or the inclusion of incorrect information.
+&emsp;&emsp;(A) any failure to furnish a payee statement on or before the date prescribed therefor to the person to whom such statement is required to be furnished, and
 
-#### (c) Penalty in case of intentional disregard
+&emsp;&emsp;(B) any failure to include all of the information required to be shown on a payee statement or the inclusion of incorrect information.
 
-If 1 or more failures to which subsection (a) applies are due to intentional disregard of the requirement to furnish a payee statement (or the correct information reporting requirement), then, with respect to each failure—
+#### (b) Reduction where correction in specified period
 
-&emsp;(1) the penalty imposed under subsection (a) shall be $100, or, if greater—
+#### (1) Correction within 30 days
+
+&emsp;If any failure described in subsection (a)(2) is corrected on or before the day 30 days after the required filing date—
+
+&emsp;&emsp;(A) the penalty imposed by subsection (a) shall be $30 in lieu of $100, and
+
+&emsp;&emsp;(B) the total amount imposed on the person for all such failures during any calendar year which are so corrected shall not exceed $250,000.
+
+#### (2) Failures corrected on or before August 1
+
+&emsp;If any failure described in subsection (a)(2) is corrected after the 30th day referred to in paragraph (1) but on or before August 1 of the calendar year in which the required filing date occurs—
+
+&emsp;&emsp;(A) the penalty imposed by subsection (a) shall be $60 in lieu of $100, and
+
+&emsp;&emsp;(B) the total amount imposed on the person for all such failures during the calendar year which are so corrected shall not exceed $500,000.
+
+#### (c) Exception for de minimis failures
+
+#### (1) In general
+
+&emsp;If—
+
+&emsp;&emsp;(A) a payee statement is furnished to the person to whom such statement is required to be furnished,
+
+&emsp;&emsp;(B) there is a failure described in subsection (a)(2)(B) (determined after the application of section 6724(a)) with respect to such statement, and
+
+&emsp;&emsp;(C) such failure is corrected on or before August 1 of the calendar year in which the required filing date occurs,
+
+> for purposes of this section, such statement shall be treated as having been furnished with all of the correct required information.
+
+#### (2) Limitation
+
+&emsp;The number of payee statements to which paragraph (1) applies for any calendar year shall not exceed the greater of—
+
+&emsp;&emsp;(A) 10, or
+
+&emsp;&emsp;(B) one-half of 1 percent of the total number of payee statements required to be filed by the person during the calendar year.
+
+#### (d) Lower limitations for persons with gross receipts of not more than $5,000,000
+
+#### (1) In general
+
+&emsp;If any person meets the gross receipts test of paragraph (2) with respect to any calendar year, with respect to failures during such calendar year—
+
+&emsp;&emsp;(A) subsection (a)(1) shall be applied by substituting “$500,000” for “$1,500,000”,
+
+&emsp;&emsp;(B) subsection (b)(1)(B) shall be applied by substituting “$75,000” for “$250,000”, and
+
+&emsp;&emsp;(C) subsection (b)(2)(B) shall be applied by substituting “$200,000” for “$500,000”.
+
+#### (2) Gross receipts test
+
+&emsp;A person meets the gross receipts test of this paragraph if such person meets the gross receipts test of section 6721(d)(2).
+
+#### (e) Penalty in case of intentional disregard
+
+If 1 or more failures to which subsection (a) applies are due to intentional disregard of the requirement to furnish a payee statement (or the correct information reporting requirement), then, with respect to each such failure—
+
+&emsp;(1) subsections (b), (c), and (d) shall not apply,
+
+&emsp;(2) the penalty imposed under subsection (a)(1) shall be $250, or, if greater—
 
 &emsp;&emsp;(A) in the case of a payee statement other than a statement required under section 6045(b), 6041A(e) (in respect of a return required under section 6041A(b)), 6050H(d), 6050J(e), 6050K(b), or 6050L(c), 10 percent of the aggregate amount of the items required to be reported correctly, or
 
 &emsp;&emsp;(B) in the case of a payee statement required under section 6045(b), 6050K(b), or 6050L(c), 5 percent of the aggregate amount of the items required to be reported correctly, and
 
-&emsp;(2) in the case of any penalty determined under paragraph (1)—
+&emsp;(3) in the case of any penalty determined under paragraph (2)—
 
-&emsp;&emsp;(A) the $100,000 limitation under subsection (a) shall not apply, and
+&emsp;&emsp;(A) the $1,500,000 limitation under subsection (a) shall not apply, and
 
-&emsp;&emsp;(B) such penalty shall not be taken into account in applying such limitation to penalties not determined under paragraph (1).
+&emsp;&emsp;(B) such penalty shall not be taken into account in applying such limitation to penalties not determined under paragraph (2).
 
-(Added Pub. L. 99–514, title XV, §1501(a), Oct. 22, 1986, 100 Stat. 2733; amended Pub. L. 101–239, title VII, §7711(a), Dec. 19, 1989, 103 Stat. 2390.)
+#### (f) Adjustment for inflation
+
+#### (1) In general
+
+&emsp;For each fifth calendar year beginning after 2012, each of the dollar amounts under subsections (a), (b), (d)(1), and (e) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting “calendar year 2011” for “calendar year 1992” in subparagraph (B) thereof.
+
+#### (2) Rounding
+
+&emsp;If any amount adjusted under paragraph (1)—
+
+&emsp;&emsp;(A) is not less than $75,000 and is not a multiple of $500, such amount shall be rounded to the next lowest multiple of $500, and
+
+&emsp;&emsp;(B) is not described in subparagraph (A) and is not a multiple of $10, such amount shall be rounded to the next lowest multiple of $10.
+
+(Added Pub. L. 99–514, title XV, §1501(a), Oct. 22, 1986, 100 Stat. 2733; amended Pub. L. 101–239, title VII, §7711(a), Dec. 19, 1989, 103 Stat. 2390; Pub. L. 111–240, title II, §2102(g), Sept. 27, 2010, 124 Stat. 2562.)
 
 #### Amendments
 
-1989—Pub. L. 101–239 substituted “correct” for “certain” in section catchline and amended text generally, substituting subsecs. (a) to (c) for former subsec. (a) stating general rule and subsec. (b) relating to failure to notify partnership of exchange of partnership interest.
+<b>2010</b>—Pub. L. 111–240 amended section generally. Prior to amendment, section related to: in subsec. (a), general rule for imposition of penalty for failure to furnish correct payee statements; in subsec. (b), failures subject to penalty; and, in subsec. (c), penalty in case of intentional disregard.
+
+<b>1989</b>—Pub. L. 101–239 substituted “correct” for “certain” in section catchline and amended text generally, substituting subsecs. (a) to (c) for former subsec. (a) stating general rule and subsec. (b) relating to failure to notify partnership of exchange of partnership interest.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–240 applicable with respect to information returns required to be filed on or after Jan. 1, 2011, see section 2102(h) of Pub. L. 111–240, set out as a note under section 6721 of this title.
 
 #### Effective Date of 1989 Amendment
 

@@ -32,7 +32,7 @@ For purposes of this section, the term “appropriate Federal banking agency” 
 
 #### Amendments
 
-2006—Subsecs. (a), (b). Pub. L. 109–351 substituted “bank holding company or savings and loan holding company” for “bank holding company” wherever appearing.
+<b>2006</b>—Subsecs. (a), (b). Pub. L. 109–351 substituted “bank holding company or savings and loan holding company” for “bank holding company” wherever appearing.
 
 #### Effective Date
 

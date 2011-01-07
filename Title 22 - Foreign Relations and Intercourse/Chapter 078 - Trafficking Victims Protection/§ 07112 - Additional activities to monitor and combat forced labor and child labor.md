@@ -22,13 +22,13 @@
 
 &emsp;&emsp;(A) to monitor the use of forced labor and child labor in violation of international standards;
 
-&emsp;&emsp;(B) to provide information regarding trafficking in persons for the purpose of forcedlabor to the Office to Monitor and Combat Trafficking of the Department of State for inclusion in trafficking in persons report required by section 7107(b) of this title;
+&emsp;&emsp;(B) to provide information regarding trafficking in persons for the purpose of forced labor to the Office to Monitor and Combat Trafficking of the Department of State for inclusion in trafficking in persons report required by section 7107(b) of this title;
 
 &emsp;&emsp;(C) to develop and make available to the public a list of goods from countries that the Bureau of International Labor Affairs has reason to believe are produced by forced labor or child labor in violation of international standards;
 
 &emsp;&emsp;(D) to work with persons who are involved in the production of goods on the list described in subparagraph (C) to create a standard set of practices that will reduce the likelihood that such persons will produce goods using the labor described in such subparagraph; and
 
-&emsp;&emsp;(E) to consult with other departments and agencies of the United States Government to reduce forced and child labor internationally and ensure that products made by forced labor and child labor in violation of international standards are not imported into the United States.
+&emsp;&emsp;(E) to consult with other departments and agencies of the United States Government toreduce forced and child labor internationally and ensure that products made by forced labor and child labor in violation of international standards are not imported into the United States.
 
 (Pub. L. 109–164, title I, §105, Jan. 10, 2006, 119 Stat. 3566.)
 

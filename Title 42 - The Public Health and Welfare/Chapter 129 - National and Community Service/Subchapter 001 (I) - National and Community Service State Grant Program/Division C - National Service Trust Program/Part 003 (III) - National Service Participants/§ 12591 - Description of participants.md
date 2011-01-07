@@ -34,7 +34,7 @@ A prior section 12591, Pub. L. 101–610, title I, §155, Nov. 16, 1990, 104 Sta
 
 #### Amendments
 
-2009—Subsec. (a)(3) to (6). Pub. L. 111–13, §1312(1), redesignated pars. (4) to (6) as (3) to (5), respectively, and struck out former par. (3), which read as follows: “will serve in the program for a term of service specified in section 12593 of this title to be performed before, during, or after attendance at an institution of higher education;”.
+<b>2009</b>—Subsec. (a)(3) to (6). Pub. L. 111–13, §1312(1), redesignated pars. (4) to (6) as (3) to (5), respectively, and struck out former par. (3), which read as follows: “will serve in the program for a term of service specified in section 12593 of this title to be performed before, during, or after attendance at an institution of higher education;”.
 
 Subsec. (b). Pub. L. 111–13, §1312(2)(A), substituted “section 12572(a)(3)(B)(x)” for “section 12572(a)(2) of this title or a program described in section 12572(a)(9)” in introductory provisions.
 
@@ -42,7 +42,7 @@ Subsec. (b)(1). Pub. L. 111–13, §1312(2)(B), substituted “paragraph (3)” 
 
 Subsec. (c). Pub. L. 111–13, §1312(3), substituted “(a)(4)” for “(a)(5)”.
 
-1994—Subsec. (c). Pub. L. 103–304 substituted “subsection (a)(5)” for “subsection (a)(5)(A)”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–304 substituted “subsection (a)(5)” for “subsection (a)(5)(A)”.
 
 #### Effective Date of 2009 Amendment
 

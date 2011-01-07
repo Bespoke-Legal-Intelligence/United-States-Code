@@ -14,7 +14,7 @@ Metal halide lamp fixtures.—
 
 &emsp;(i)
 
-In general.—The Commission shall issue labeling rules under this section applicable to the covered product specified in section 6292(a)(19) of this title and to which standards are applicable under section 6295 of this title.
+In general.—The Commission shall issue labeling rules under this section applicable tothe covered product specified in section 6292(a)(19) of this title and to which standards are applicable under section 6295 of this title.
 
 &emsp;(ii)
 
@@ -44,7 +44,7 @@ Completion.—The Commission shall—
 
 &emsp;&emsp;(bb) consider reopening the rulemaking not later than 180 days before the effective dates of the standards for general service incandescent lamps established under section 6295(i)(1)(A) of this title, if the Commission determines that further labeling changes are needed to help consumers understand lamp alternatives.
 
-(E)(i) Not later than one year after October 24, 1992, the Commission shall prescribe labelingrules under this section for showerheads and faucets to which standards are applicable under subsection (j) of section 6295 of this title. Such rules shall provide that the labeling of any showerhead or faucet manufactured after the 12-month period beginning on the date of the publication of such rule shall be consistent with the marking and labeling requirements of ASME A112.18.1M–1989, except that each showerhead and flow restricting or controlling spout-end device shall bear a permanent legible marking indicating the flow rate, expressed in gallons per minute (gpm) or gallons per cycle (gpc), and the flow rate value shall be the actual flow rate or the maximum flow rate specified by the standards established in subsection (j) of section 6295 of this title.
+(E)(i) Not later than one year after October 24, 1992, the Commission shall prescribe labeling rules under this section for showerheads and faucets to which standards are applicable under subsection (j) of section 6295 of this title. Such rules shall provide that the labeling of any showerhead or faucet manufactured after the 12-month period beginning on the date of the publication of such rule shall be consistent with the marking and labeling requirements of ASME A112.18.1M–1989, except that each showerhead and flow restricting or controlling spout-end device shall bear a permanent legible marking indicating the flow rate, expressed in gallons per minute (gpm) or gallons per cycle (gpc), and the flow rate value shall be the actual flow rate or the maximum flow rate specified by the standards established in subsection (j) of section 6295 of this title.
 
 (ii) If the marking and labeling requirements of ASME A112.18.1M–1989 are revised at any time and approved by ANSI, the Commission shall amend the labeling rules established pursuant to clause (i) to be consistent with such revised ASME/ANSI requirements unless such requirements are inconsistent with the purposes of this chapter or the requirement specified in clause (i) requiring each showerhead and flow restricting or controlling spout-end device to bear a permanent legible marking indicating the flow rate of such product.
 
@@ -232,7 +232,7 @@ The Federal Trade Commission Act, referred to in subsec. (g), is act Sept. 26, 1
 
 #### Amendments
 
-2007—Subsec. (a)(2)(C). Pub. L. 110–140, §324(d)(2), added subpar. (C). Former subpar. (C) redesignated (D).
+<b>2007</b>—Subsec. (a)(2)(C). Pub. L. 110–140, §324(d)(2), added subpar. (C). Former subpar. (C) redesignated (D).
 
 Subsec. (a)(2)(C)(iii). Pub. L. 110–140, §321(b), added cl. (iii).
 
@@ -244,13 +244,13 @@ Subsec. (a)(6). Pub. L. 110–140, §325(a)(2), added par. (6).
 
 Subsec. (c)(9). Pub. L. 110–140, §325(b), added par. (9).
 
-2005—Subsec. (a)(2)(F), (G). Pub. L. 109–58, §137(a), added subpars. (F) and (G).
+<b>2005</b>—Subsec. (a)(2)(F), (G). Pub. L. 109–58, §137(a), added subpars. (F) and (G).
 
 Subsec. (a)(5). Pub. L. 109–58, §137(b), added par. (5).
 
-1998—Subsec. (a)(2)(C)(ii). Pub. L. 105–388 substituted “section 6295(i)” for “section 6295(j)”.
+<b>1998</b>—Subsec. (a)(2)(C)(ii). Pub. L. 105–388 substituted “section 6295(i)” for “section 6295(j)”.
 
-1992—Subsec. (a)(2)(C) to (E). Pub. L. 102–486, §123(e)(1), added subpars. (C) to (E).
+<b>1992</b>—Subsec. (a)(2)(C) to (E). Pub. L. 102–486, §123(e)(1), added subpars. (C) to (E).
 
 Subsec. (a)(3). Pub. L. 102–486, §123(e)(2), substituted “(19)” for “(14)”.
 
@@ -262,13 +262,13 @@ Subsec. (c)(7). Pub. L. 102–486, §123(e)(5)(A), substituted “paragraphs (13
 
 Subsec. (c)(8). Pub. L. 102–486, §123(e)(5)(B), added par. (8).
 
-1988—Subsec. (a)(2). Pub. L. 100–357, §2(d)(1), designated existing provision as subpar. (A) and added subpar. (B).
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–357, §2(d)(1), designated existing provision as subpar. (A) and added subpar. (B).
 
 Subsecs. (a)(3), (b)(1)(B), (3), (5). Pub. L. 100–357, §2(d)(2), substituted “(14)” for “(13)”.
 
 Subsec. (c)(7). Pub. L. 100–357, §2(d)(3), added par. (7).
 
-1987—Subsec. (a). Pub. L. 100–12, §11(b)(2)(A), inserted heading.
+<b>1987</b>—Subsec. (a). Pub. L. 100–12, §11(b)(2)(A), inserted heading.
 
 Subsec. (a)(1). Pub. L. 100–12, §11(a)(1)(A), substituted “paragraphs (1), (2), (4), (6), and (8) through (12)” for “paragraphs (1) through (9)”.
 
@@ -300,7 +300,7 @@ Pub. L. 100–12, §11(a)(1)(G), struck out “or (2)” after “subsection (a)
 
 Subsec. (g). Pub. L. 100–12, §11(b)(2)(F), inserted heading.
 
-1978—Subsec. (a)(1), (2). Pub. L. 95–619, §425(b), struck out labeling rule exception where Administrator had determined under section 6293(a)(6) of this title that test procedures could not be developed pursuant to section 6293(b) of this title.
+<b>1978</b>—Subsec. (a)(1), (2). Pub. L. 95–619, §425(b), struck out labeling rule exception where Administrator had determined under section 6293(a)(6) of this title that test procedures could not be developed pursuant to section 6293(b) of this title.
 
 Subsec. (a)(3). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, in cls. (A) and (B).
 
@@ -326,7 +326,7 @@ In general.—In cooperation with the Administrator of the Environmental Protect
 
 &emsp;&emsp;“(i) to identify trends in the market shares of lamp types, efficiencies, and light output levels purchased by residential and nonresidential consumers; and
 
-&emsp;&emsp;“(ii) to better understand the degree to which consumer decisionmaking is based on lamp powerlevels or watts, light output or lumens, lamp lifetime, and other factors, including information required on labels mandated by the Federal Trade Commission;
+&emsp;&emsp;“(ii) to better understand the degree to which consumer decisionmaking is based on lamp power levels or watts, light output or lumens, lamp lifetime, and other factors, including information required on labels mandated by the Federal Trade Commission;
 
 &emsp;“(B) provide the results of the market assessment to the Federal Trade Commission for consideration in the rulemaking described in section 324(a)(2)(C)(iii) of the Energy Policy and Conservation Act (42 U.S.C. 6294(a)(2)(C)(iii)); and
 

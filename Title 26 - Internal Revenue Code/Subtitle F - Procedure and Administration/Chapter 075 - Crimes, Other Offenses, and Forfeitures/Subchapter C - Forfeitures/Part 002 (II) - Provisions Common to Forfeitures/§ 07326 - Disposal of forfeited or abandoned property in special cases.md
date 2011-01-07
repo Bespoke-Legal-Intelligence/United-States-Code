@@ -16,15 +16,15 @@ Sections 4461 and 4462, referred to in subsec. (a), were repealed by Pub. L. 95�
 
 #### Amendments
 
-1976—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsecs. (b), (c). Pub. L. 94–455, §1906(a)(43), redesignated subsec. (c) as (b) and in subsec. (b) as so redesignated substituted “section 5872(b)” for “section 5862(b)”. Former subsec. (b), relating to narcotic drugs, was repealed. See 1970 Amendment note below.
 
-1970—Subsec. (b). Pub. L. 91–513 struck out subsec. (b) which related to narcotic drugs and which made reference to sections 4714, 4733, and 4745(d) of this title.
+<b>1970</b>—Subsec. (b). Pub. L. 91–513 struck out subsec. (b) which related to narcotic drugs and which made reference to sections 4714, 4733, and 4745(d) of this title.
 
-1965—Subsec. (a). Pub. L. 89–44 substituted “section 4462” for “section 4462(a)(2)”.
+<b>1965</b>—Subsec. (a). Pub. L. 89–44 substituted “section 4462” for “section 4462(a)(2)”.
 
-1958—Subsec. (a). Pub. L. 85–859 added subsec. (a).
+<b>1958</b>—Subsec. (a). Pub. L. 85–859 added subsec. (a).
 
 Subsecs. (b), (c). Pub. L. 85–859 redesignated former pars. (1) and (2) as subsecs. (b) and (c), respectively.
 

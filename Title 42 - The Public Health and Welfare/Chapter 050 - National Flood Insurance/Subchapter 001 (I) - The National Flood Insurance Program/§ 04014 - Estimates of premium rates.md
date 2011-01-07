@@ -60,17 +60,17 @@ This chapter, referred to in subsecs. (a)(2), (d), and (e), was in the original 
 
 #### Amendments
 
-1992—Subsec. (f). Pub. L. 102–550 added subsec. (f).
+<b>1992</b>—Subsec. (f). Pub. L. 102–550 added subsec. (f).
 
-1990—Subsec. (a)(1)(B)(iii). Pub. L. 101–508, §2302(e)(1)(A)–(C), added cl. (iii).
+<b>1990</b>—Subsec. (a)(1)(B)(iii). Pub. L. 101–508, §2302(e)(1)(A)–(C), added cl. (iii).
 
 Subsec. (a)(2). Pub. L. 101–508, §2302(e)(1)(D), inserted before semicolon “, and which, together with a fee charged to policyholders that shall not be not subject to any agents’ commission, company expenses allowances, or State or local premium taxes, shall include any administrative expenses incurred in carrying out the flood insurance and floodplain management programs (including the costs of mapping activities under section 4101 of this title)”.
 
-1983—Subsecs. (a) to (c), (e). Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+<b>1983</b>—Subsecs. (a) to (c), (e). Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
 
-1974—Subsec. (e). Pub. L. 93–383 added subsec. (e).
+<b>1974</b>—Subsec. (e). Pub. L. 93–383 added subsec. (e).
 
-1973—Subsec. (d). Pub. L. 93–234 added subsec. (d).
+<b>1973</b>—Subsec. (d). Pub. L. 93–234 added subsec. (d).
 
 #### Change of Name
 
@@ -84,7 +84,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 #### Fees
 
-Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 517, provided in part: “That beginning in fiscal year2003 and thereafter, fees authorized in 42 U.S.C. 4014(a)(1)(B)(iii) shall be collected only if provided in advance in appropriations acts.”
+Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 517, provided in part: “That beginning in fiscal year 2003 and thereafter, fees authorized in 42 U.S.C. 4014(a)(1)(B)(iii) shall be collected only if provided in advance in appropriations acts.”
 
 #### Study of Economic Effects of Charging Actuarially Based Premium Rates for Pre-FIRM Structures
 

@@ -1,6 +1,6 @@
 ### §1694. Carriage of matter out of mail over post routes
 
-Whoever, having charge or control of any conveyance operating by land, air, or water, which regularly performs trips at stated periods on any post route, or from one place to another between which the mail is regularly carried, carries, otherwise than in the mail, any letters or packets, except such as relate to some part of the cargo of such conveyance, or to the current business of the carrier, or to some article carried at the same time by the same conveyance, shall, except as otherwise provided by law, be fined under this title.
+Whoever, having charge or control of any conveyance operating by land, air, or water, whichregularly performs trips at stated periods on any post route, or from one place to another between which the mail is regularly carried, carries, otherwise than in the mail, any letters or packets, except such as relate to some part of the cargo of such conveyance, or to the current business of the carrier, or to some article carried at the same time by the same conveyance, shall, except as otherwise provided by law, be fined under this title.
 
 (June 25, 1948, ch. 645, 62 Stat. 776; Pub. L. 103–322, title XXXIII, §330016(1)(A), Sept. 13, 1994, 108 Stat. 2146.)
 
@@ -14,7 +14,7 @@ Enumeration of persons having charge was omitted as unnecessary.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $50”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $50”.
 
 #### Study of Private Carriage of Mail; Reports to President and Congress
 

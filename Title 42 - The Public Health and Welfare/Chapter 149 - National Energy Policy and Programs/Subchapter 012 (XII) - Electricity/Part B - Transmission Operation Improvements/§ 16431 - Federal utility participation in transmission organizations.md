@@ -34,7 +34,7 @@ In this section:
 
 #### (b) Transfer
 
-The appropriate Federal regulatory authority may enter into a contract, agreement, or other arrangement transferring control and use of all or part of the transmission system of a Federal utility to a Transmission Organization.
+The appropriate Federal regulatory authority may enter into a contract, agreement, or otherarrangement transferring control and use of all or part of the transmission system of a Federal utility to a Transmission Organization.
 
 #### (c) Contents
 

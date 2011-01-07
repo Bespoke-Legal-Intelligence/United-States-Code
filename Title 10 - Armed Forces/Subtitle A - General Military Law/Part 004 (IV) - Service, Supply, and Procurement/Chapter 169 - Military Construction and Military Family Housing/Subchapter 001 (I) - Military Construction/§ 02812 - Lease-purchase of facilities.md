@@ -42,13 +42,13 @@
 
 &emsp;(B) not more than five leases in each of the fiscal years 1991 and 1992.
 
-(d) Each lease entered into under this section shall include a provision that the obligation of the United States to make payments under the lease in any fiscal year is subject to the availability of appropriations for that purpose.
+(d) Each lease entered into under this section shall include a provision that the obligation ofthe United States to make payments under the lease in any fiscal year is subject to the availability of appropriations for that purpose.
 
 (Added Pub. L. 101–189, div. B, title XXVIII, §2809(a), Nov. 29, 1989, 103 Stat. 1649; amended Pub. L. 101–510, div. B, title XXVIII, §2864, Nov. 5, 1990, 104 Stat. 1806; Pub. L. 108–136, div. A, title X, §1031(a)(39), Nov. 24, 2003, 117 Stat. 1601.)
 
 #### Amendments
 
-2003—Subsec. (c)(1)(B). Pub. L. 108–136 inserted before period at end “or, if over sooner, a period of 14 days has expired following the date on which a copy of the justification and economic analysis are provided in an electronic medium pursuant to section 480 of this title”.
+<b>2003</b>—Subsec. (c)(1)(B). Pub. L. 108–136 inserted before period at end “or, if over sooner, a period of 14 days has expired following the date on which a copy of the justification and economic analysis are provided in an electronic medium pursuant to section 480 of this title”.
 
-1990—Subsec. (a)(2)(I). Pub. L. 101–510 added subpar. (I).
+<b>1990</b>—Subsec. (a)(2)(I). Pub. L. 101–510 added subpar. (I).
 

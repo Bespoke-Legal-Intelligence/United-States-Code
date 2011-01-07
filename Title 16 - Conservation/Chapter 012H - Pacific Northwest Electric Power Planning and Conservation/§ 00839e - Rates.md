@@ -2,7 +2,7 @@
 
 #### (a) Establishment; periodic review and revision; confirmation and approval by Federal Energy Regulatory Commission
 
-(1) The Administrator shall establish, and periodically review and revise, rates for the saleand disposition of electric energy and capacity and for the transmission of non-Federal power. Such rates shall be established and, as appropriate, revised to recover, in accordance with sound business principles, the costs associated with the acquisition, conservation, and transmission of electric power, including the amortization of the Federal investment in the Federal Columbia River Power System (including irrigation costs required to be repaid out of power revenues) over a reasonable period of years and the other costs and expenses incurred by the Administrator pursuant to this chapter and other provisions of law. Such rates shall be established in accordance with sections 9 and 10 of the Federal Columbia River Transmission System Act (16 U.S.C. 838) \[16 U.S.C. 838g and 838h\], section 5 of the Flood Control Act of 1944 \[16 U.S.C. 825s\], and the provisions of this chapter.
+(1) The Administrator shall establish, and periodically review and revise, rates for the sale and disposition of electric energy and capacity and for the transmission of non-Federal power. Such rates shall be established and, as appropriate, revised to recover, in accordance with sound business principles, the costs associated with the acquisition, conservation, and transmission of electric power, including the amortization of the Federal investment in the Federal Columbia River Power System (including irrigation costs required to be repaid out of power revenues) over a reasonable period of years and the other costs and expenses incurred by the Administrator pursuant to this chapter and other provisions of law. Such rates shall be established in accordance with sections 9 and 10 of the Federal Columbia River Transmission System Act (16 U.S.C. 838) \[16 U.S.C. 838g and 838h\], section 5 of the Flood Control Act of 1944 \[16 U.S.C. 825s\], and the provisions of this chapter.
 
 (2) Rates established under this section shall become effective only, except in the case of interim rules as provided in subsection (i)(6) of this section, upon confirmation and approval by the Federal Energy Regulatory Commission upon a finding by the Commission, that such rates—
 
@@ -16,7 +16,7 @@
 
 (1) The Administrator shall establish a rate or rates of general application for electric power sold to meet the general requirements of public body, cooperative, and Federal agency customers within the Pacific Northwest, and loads of electric utilities under section 839c(c) of this title. Such rate or rates shall recover the costs of that portion of the Federal base system resources needed to supply such loads until such sales exceed the Federal base system resources. Thereafter, such rate or rates shall recover the cost of additional electric power as needed to supply such loads, first from the electric power acquired by the Administrator under section 839c(c) of this title and then from other resources.
 
-(2) After July 1, 1985, the projected amounts to be charged for firm power for the combined general requirements of public body, cooperative and Federal agency customers, exclusive of amounts charged such customers under subsection (g) of this section for the costs of conservation, resource and conservation credits, experimental resources and uncontrollable events, may not exceed in total, as determined by the Administrator, during any year after July 1, 1985, plus the ensuing four years, an amount equal to the power costs for general requirements of such customer if, the Administrator assumes that—
+(2) After July 1, 1985, the projected amounts to be charged for firm power for the combined general requirements of public body, cooperative and Federal agency customers, exclusive of amounts charged such customers under subsection (g) of this section for the costs of conservation, resource and conservation credits, experimental resources and uncontrollable events, may not exceed in total, as determined by the Administrator, during any year after July 1, 1985, plus the ensuing four years, an amount equal to the power costs for general requirements of such customers if, the Administrator assumes that—
 
 &emsp;(A) the public body and cooperative customers’ general requirements had included during such five-year period the direct service industrial customer loads which are—
 
@@ -48,7 +48,7 @@
 
 &emsp;(A) a difference between actual power deliveries and power deliveries projected for the purpose of establishing rates to direct service industrial customers under subsection (c)(1) of this subsection, and
 
-&emsp;(B) an overrecovery or underrecovery of the net costs incurred by the Administrator undersection 839c(c) of this title as a result of such difference.
+&emsp;(B) an overrecovery or underrecovery of the net costs incurred by the Administrator under section 839c(c) of this title as a result of such difference.
 
 > Any such revenue surplus or deficiency incurred shall be recovered from, or repaid to, customers over a reasonable period of time after July 1, 1985, through a supplemental rate charge or credit applied proportionately for all other power sold by the Administrator at rates established under other subsections of this section prior to July 1, 1985.
 
@@ -68,7 +68,7 @@
 
 &emsp;(B) the relative costs of electric capacity, energy, transmission, and related delivery facilities provided and other service provisions, and
 
-&emsp;(C) direct and indirect overhead costs.
+&emsp;(C) direct and indirect overhead costs,
 
 > all as related to the delivery of power to industrial customers, except that the Administrator's rates during such period shall in no event be less than the rates in effect for the contract year ending on June 30, 1985.
 
@@ -100,13 +100,13 @@ Notwithstanding any other provision of this section (except the provisions of su
 
 In establishing rates under this section, the Administrator shall use the following procedures:
 
-&emsp;(1) Notice of the proposed rates shall be published in the Federal Register with a statement of the justification and reasons supporting such rates. Such notice shall include adate for a hearing in accordance with paragraph (2) of this subsection.
+&emsp;(1) Notice of the proposed rates shall be published in the Federal Register with a statement of the justification and reasons supporting such rates. Such notice shall include a date for a hearing in accordance with paragraph (2) of this subsection.
 
-&emsp;(2) One or more hearings shall be conducted as expeditiously as practicable by a hearing officer to develop a full and complete record and to receive public comment in the form of written and oral presentation of views, data questions, and argument related to such proposed rates. In any such hearing—
+&emsp;(2) One or more hearings shall be conducted as expeditiously as practicable by a hearing officer to develop a full and complete record and to receive public comment in the form of written and oral presentation of views, data, questions, and argument related to such proposed rates. In any such hearing—
 
 &emsp;&emsp;(A) any person shall be provided an adequate opportunity by the hearing officer to offer refutation or rebuttal of any material submitted by any other person or the Administrator, and
 
-&emsp;&emsp;(B) the hearing officer, in his discretion, shall allow a reasonable opportunity for cross examination, which, as determined by the hearing officer, is not dilatory, in order to development information and material relevant to any such proposed rate.
+&emsp;&emsp;(B) the hearing officer, in his discretion, shall allow a reasonable opportunity for cross examination, which, as determined by the hearing officer, is not dilatory, in order to develop information and material relevant to any such proposed rate.
 
 &emsp;(3) In addition to the opportunity to submit oral and written material at the hearings, any written views, data, questions, and arguments submitted by persons prior to, or before the close of, hearings shall be made a part of the administrative record.
 
@@ -126,7 +126,7 @@ All rate schedules adopted, and all power billings rendered, by the Administrato
 
 #### (k) Statutory basis for procedures used in establishing rates or rate schedules
 
-Notwithstanding any other provision of this chapter, all rates or rate schedules for the sale of nonfirm electric power within the United States, but outside the region, shall be established after December 5, 1980, by the Administrator in accordance with the procedures of subsection (i) of this section (other than the first sentence of paragraph (6) thereof) and in accordance with the Bonneville Project Act \[16 U.S.C. 832 et seq.\], the Flood Control Act of 1944, and the Federal Columbia River Transmission System Act \[16 U.S.C. 838 et seq.\]. Notwithstanding section 201(f) of the Federal Power Act \[16 U.S.C. 824(f)\], such rates or rate schedules shall become effective after review by the Federal Energy Regulatory Commission for conformance with the requirements of such Acts and after approval thereof by the Commission. Such review shall be based on the record of proceedings established under subsection (i) of this section. The parties to such proceedings under subsection (i) of this section shall be afforded an opportunity by the Commission for an additional hearing in accordance with the procedures established for ratemaking by the Commission pursuant to the Federal Power Act \[16 U.S.C. 791a et seq.\].
+Notwithstanding any other provision of this chapter, all rates or rate schedules for the sale of nonfirm electric power within the United States, but outside the region, shall be established after December 5, 1980, by the Administrator in accordance with the procedures of subsection (i) of this section (other than the first sentence of paragraph (6) thereof) and in accordance with the Bonneville Project Act \[16 U.S.C. 832 et seq.\], the Flood Control Act of 1944, and the Federal Columbia River Transmission System Act \[16 U.S.C. 838 et seq.\]. Notwithstanding section 201(f) of the Federal Power Act \[16 U.S.C. 824(f)\], such rates or rate schedules shall become effective after review by the Federal Energy Regulatory Commission for conformance with the requirements of such Acts and after approval thereof by the Commission. Such reviewshall be based on the record of proceedings established under subsection (i) of this section. The parties to such proceedings under subsection (i) of this section shall be afforded an opportunity by the Commission for an additional hearing in accordance with the procedures established for ratemaking by the Commission pursuant to the Federal Power Act \[16 U.S.C. 791a et seq.\].
 
 #### (<i>l</i>) Rates for sales outside United States; negotiations
 
@@ -156,17 +156,17 @@ Notwithstanding any other provision of this section, rates established by the Ad
 
 #### References in Text
 
-The Bonneville Project Act, referred to in subsec. (k), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, as amended, popularly known as the Bonneville Project Act of 1937, which is classified generally to chapter 12B (§832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 832 of this title and Tables.
+The Bonneville Project Act, referred to in subsec. (k), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, popularly known as the Bonneville Project Act of 1937, which is classified generally to chapter 12B (§832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 832 of this title and Tables.
 
-The Flood Control Act of 1944, referred to in subsec. (k), is act Dec. 22, 1944, ch. 665, 58 Stat. 887, as amended, which enacted sections 460d and 825s of this title, sections 701–1, 701a–1, 708, and 709 of Title 33, Navigation and Navigable Waters, and section 390 of Title 43, Public Lands, and enacted provisions set out as notes under sections 701c, 701f, and 701j of Title 33. For complete classification of this Act to the Code, see Tables. For provisions of the Act relating to sale of electric power, see section 825s of this title.
+The Flood Control Act of 1944, referred to in subsec. (k), is act Dec. 22, 1944, ch. 665, 58 Stat. 887, which enacted sections 460d and 825s of this title, sections 701–1, 701a–1, 708, and 709 of Title 33, Navigation and Navigable Waters, and section 390 of Title 43, Public Lands, and enacted provisions set out as notes under sections 701c, 701f, and 701j of Title 33. For complete classification of this Act to the Code, see Tables. For provisions of the Act relating to sale of electric power, see section 825s of this title.
 
-The Federal Columbia River Transmission System Act, referred to in subsec. (k), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, as amended, which is classified generally to chapter 12G (§838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
+The Federal Columbia River Transmission System Act, referred to in subsec. (k), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, which is classified generally to chapter 12G (§838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
 
-The Federal Power Act, referred to in subsec. (k), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
+The Federal Power Act, referred to in subsec. (k), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
 #### Amendments
 
-1999—Subsec. (n). Pub. L. 106–60 added subsec. (n).
+<b>1999</b>—Subsec. (n). Pub. L. 106–60 added subsec. (n).
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -94,15 +94,15 @@ If the tax imposed by section 3101 or section 3201 (as the case may be) with res
 
 #### Amendments
 
-1984—Subsec. (c)(3)(C). Pub. L. 98–369, §1072(a), substituted “Upon the petition of the employer or the majority of employees of such employer, the Secretary” for “The Secretary” and “2 percent” for “5 percent”.
+<b>1984</b>—Subsec. (c)(3)(C). Pub. L. 98–369, §1072(a), substituted “Upon the petition of the employer or the majority of employees of such employer, the Secretary” for “The Secretary” and “2 percent” for “5 percent”.
 
 Subsec. (c)(4). Pub. L. 98–369, §1072(c)(1), inserted provision that an individual who owns 50 percent or more in value of the stock of the corporation operating the establishment shall not be treated as an employee.
 
-1982—Subsec. (c). Pub. L. 97–248 added subsec. (c).
+<b>1982</b>—Subsec. (c). Pub. L. 97–248 added subsec. (c).
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1965—Subsec. (a). Pub. L. 89–212, §2(d)(1), inserted “or which are compensation (as defined in section 3231(e)”.
+<b>1965</b>—Subsec. (a). Pub. L. 89–212, §2(d)(1), inserted “or which are compensation (as defined in section 3231(e)”.
 
 Subsec. (b). Pub. L. 89–212, §2(d)(2), inserted “or section 3201 (as the case may be)” and “or section 3202 (as the case may be)”.
 

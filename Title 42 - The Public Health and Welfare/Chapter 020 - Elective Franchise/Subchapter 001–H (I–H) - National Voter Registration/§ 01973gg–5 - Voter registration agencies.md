@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(iv) the statement, “If you would like help in filling out the voter registration application form, we will help you. The decision whether to seek or accept help is yours. You may fill out the application form in private.”; and
 
-&emsp;&emsp;(v) the statement, “If you believe that someone has interfered with your right to register or to decline to register to vote, your right to privacy in deciding whether to register or in applying to register to vote, or your right to choose your own political party or other political preference, you may file a complaint with \_\_\_\_\_\_\_\_\_\_.”, the blank being filled by the name, address, and telephone number of the appropriate official to whom such a complaint should be addressed; and
+&emsp;&emsp;(v) the statement, “If you believe that someone has interfered with your right toregister or to decline to register to vote, your right to privacy in deciding whether to register or in applying to register to vote, or your right to choose your own political party or other political preference, you may file a complaint with \_\_\_\_\_\_\_\_\_\_.”, the blank being filled by the name, address, and telephone number of the appropriate official to whom such a complaint should be addressed; and
 
 &emsp;(C) provide to each applicant who does not decline to register to vote the same degree of assistance with regard to the completion of the registration application form as is provided by the office with regard to the completion of its own forms, unless the applicant refuses such assistance.
 

@@ -18,5 +18,5 @@ Based on 44 U.S. Code, 1964 ed., §188 (Jan. 12, 1895, ch. 23, §40, 28 Stat. 60
 
 #### Amendments
 
-1974—Pub. L. 93–314 included subscriptions and postage rate in section catchline, and inserted provisions in text authorizing sale of subscriptions, requiring price for subscriptions to be paid in advance, and directing that the Congressional Record shall be entitled to be mailed at the same rates of postage at which any newspaper or other periodical publication, with a legitimate list of paid subscribers, is entitled to be mailed.
+<b>1974</b>—Pub. L. 93–314 included subscriptions and postage rate in section catchline, and inserted provisions in text authorizing sale of subscriptions, requiring price for subscriptions to be paid in advance, and directing that the Congressional Record shall be entitled to be mailed at the same rates of postage at which any newspaper or other periodical publication, with a legitimate list of paid subscribers, is entitled to be mailed.
 

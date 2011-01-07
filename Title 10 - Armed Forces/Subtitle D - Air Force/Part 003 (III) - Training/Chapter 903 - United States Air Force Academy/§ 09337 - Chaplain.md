@@ -30,7 +30,7 @@ The change reflects the opinion of the Assistant General Counsel, Civil Service 
 
 #### Amendments
 
-1962—Pub. L. 87–651 struck out provisions which prescribed salary of chaplain upon appointment and reappointment.
+<b>1962</b>—Pub. L. 87–651 struck out provisions which prescribed salary of chaplain upon appointment and reappointment.
 
 #### Delegation of Functions
 

@@ -72,11 +72,11 @@ A prior section 5388, act Aug. 16, 1954, ch. 736, 68A Stat. 672, consisted of pr
 
 #### Amendments
 
-2006—Subsec. (c)(3). Pub. L. 109–432 added par. (3).
+<b>2006</b>—Subsec. (c)(3). Pub. L. 109–432 added par. (3).
 
-1997—Subsec. (c). Pub. L. 105–34 added subsec. (c).
+<b>1997</b>—Subsec. (c). Pub. L. 105–34 added subsec. (c).
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 2006 Amendment
 

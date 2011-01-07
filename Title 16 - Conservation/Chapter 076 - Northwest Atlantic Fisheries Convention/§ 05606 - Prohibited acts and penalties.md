@@ -32,7 +32,7 @@ Any person who commits an act that is unlawful under paragraph (2), (3), (4), or
 
 #### (2) Disposal of fish
 
-&emsp;Any fish seized pursuant to this chapter may be disposed of pursuant to the order of a court of competent jurisdiction or, if perishable, in a manner prescribed by regulations issued by the Secretary.
+&emsp;Any fish seized pursuant to this chapter may be disposed of pursuant to the order of a courtof competent jurisdiction or, if perishable, in a manner prescribed by regulations issued by the Secretary.
 
 #### (e) Enforcement
 
@@ -54,7 +54,7 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 #### Amendments
 
-1998—Subsec. (e). Pub. L. 105–384 substituted “section” for “sections”.
+<b>1998</b>—Subsec. (e). Pub. L. 105–384 substituted “section” for “sections”.
 
 #### Transfer of Functions
 

@@ -1,6 +1,6 @@
 ### §1725. Postage unpaid on deposited mail matter
 
-Whoever knowingly and willfully deposits any mailable matter such as statements of accounts,circulars, sale bills, or other like matter, on which no postage has been paid, in any letter box established, approved, or accepted by the Postal Service for the receipt or delivery of mail matter on any mail route with intent to avoid payment of lawful postage thereon, shall for each such offense be fined under this title.
+Whoever knowingly and willfully deposits any mailable matter such as statements of accounts, circulars, sale bills, or other like matter, on which no postage has been paid, in any letter box established, approved, or accepted by the Postal Service for the receipt or delivery of mail matter on any mail route with intent to avoid payment of lawful postage thereon, shall for each such offense be fined under this title.
 
 (June 25, 1948, ch. 645, 62 Stat. 784; Pub. L. 91–375, §6(j)(33), Aug. 12, 1970, 84 Stat. 780; Pub. L. 103–322, title XXXIII, §330016(1)(F), Sept. 13, 1994, 108 Stat. 2147.)
 
@@ -14,9 +14,9 @@ Minor verbal changes were made.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $300”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $300”.
 
-1970—Pub. L. 91–375 substituted “Postal Service” for “Postmaster General”.
+<b>1970</b>—Pub. L. 91–375 substituted “Postal Service” for “Postmaster General”.
 
 #### Effective Date of 1970 Amendment
 

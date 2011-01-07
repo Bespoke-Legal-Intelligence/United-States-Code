@@ -28,7 +28,7 @@ In subsection (b), the words “and shall be compensated at the rate now or here
 
 #### Amendments
 
-1991—Pub. L. 102–240 substituted “Federal Transit Administration” for “Urban Mass Transportation Administration” in section catchline and subsec. (a).
+<b>1991</b>—Pub. L. 102–240 substituted “Federal Transit Administration” for “Urban Mass Transportation Administration” in section catchline and subsec. (a).
 
 #### Change of Name
 
@@ -40,5 +40,5 @@ Redesignation of UMTA.—The Urban Mass Transportation Administration of the Dep
 
 “(b)
 
-References.—Any reference in a law, map, regulation, document, paper, or other record of the UnitedStates to the Urban Mass Transportation Administration shall be deemed to be a reference to the ‘Federal Transit Administration’.”
+References.—Any reference in a law, map, regulation, document, paper, or other record of the United States to the Urban Mass Transportation Administration shall be deemed to be a reference to the ‘Federal Transit Administration’.”
 

@@ -64,7 +64,7 @@
 
 &emsp;&emsp;The term “demand” means—
 
-&emsp;&emsp;&emsp;(i) the average seasonally adjusted annual rate of domestic mill consumption of cotton during the most recent 3 months for which data are available; and
+&emsp;&emsp;&emsp;(i) the average seasonally adjusted annual rate of domestic mill consumption ofcotton during the most recent 3 months for which data are available; and
 
 &emsp;&emsp;&emsp;(ii) the larger of—
 
@@ -130,7 +130,7 @@
 
 #### (4) Review or audit
 
-&emsp;The Secretary may conduct such review or audit of the records of a domestic user underthis subsection as the Secretary determines necessary to carry out this subsection.
+&emsp;The Secretary may conduct such review or audit of the records of a domestic user under this subsection as the Secretary determines necessary to carry out this subsection.
 
 #### (5) Improper use of assistance
 

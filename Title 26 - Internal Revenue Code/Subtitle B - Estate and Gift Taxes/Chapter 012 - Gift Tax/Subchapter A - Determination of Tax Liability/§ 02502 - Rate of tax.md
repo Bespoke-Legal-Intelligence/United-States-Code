@@ -2,30 +2,11 @@
 
 #### (a) Computation of tax
 
-#### (1) In general
+The tax imposed by section 2501 for each calendar year shall be an amount equal to the excess of—
 
-&emsp;The tax imposed by section 2501 for each calendar year shall be an amount equal to the excess of—
+&emsp;(1) a tentative tax, computed under section 2001(c), on the aggregate sum of the taxable gifts for such calendar year and for each of the preceding calendar periods, over
 
-&emsp;&emsp;(A) a tentative tax, computed under paragraph (2), on the aggregate sum of the taxable gifts for such calendar year and for each of the preceding calendar periods, over
-
-&emsp;&emsp;(B) a tentative tax, computed under paragraph (2), on the aggregate sum of the taxable gifts for each of the preceding calendar periods.
-
-#### (2) Rate schedule
-
-&nbsp;
-
-| If the amount with respect to which the tentative tax to be computed is: | The tentative tax is: |
-| :--- | ---: |
-| Not over $10,000 | 18% of such amount. |
-| Over $10,000 but not over $20,000 | $1,800, plus 20% of the excess over $10,000. |
-| Over $20,000 but not over $40,000 | $3,800, plus 22% of the excess over $20,000. |
-| Over $40,000 but not over $60,000 | $8,200, plus 24% of the excess over $40,000. |
-| Over $60,000 but not over $80,000 | $13,000, plus 26% of the excess over $60,000. |
-| Over $80,000 but not over $100,000 | $18,200, plus 28% of the excess over $80,000. |
-| Over $100,000 but not over $150,000 | $23,800, plus 30% of the excess over $100,000. |
-| Over $150,000 but not over $250,000 | $38,800, plus 32% of the excess over $150,000. |
-| Over $250,000 but not over $500,000 | $70,800, plus 34% of the excess over $250,000. |
-| Over $500,000 | $155,800, plus 35% of the excess over $500,000. |
+&emsp;(2) a tentative tax, computed under such section, on the aggregate sum of the taxable gifts for each of the preceding calendar periods.
 
 #### (b) Preceding calendar period
 
@@ -43,15 +24,19 @@ Whenever used in this title in connection with the gift tax imposed by this chap
 
 The tax imposed by section 2501 shall be paid by the donor.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 403; Pub. L. 91–614, title I, §102(a)(2), Dec. 31, 1970, 84 Stat. 1839; Pub. L. 94–455, title XX, §2001(b)(1), Oct. 4, 1976, 90 Stat. 1849; Pub. L. 97–34, title IV, §442(a)(2), Aug. 13, 1981, 95 Stat. 320; Pub. L. 100–203, title X, §10401(b)(2)(B), Dec. 22, 1987, 101 Stat. 1330–431; Pub. L. 107–16, title V, §511(d), June 7, 2001, 115 Stat. 70.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 403; Pub. L. 91–614, title I, §102(a)(2), Dec. 31, 1970, 84 Stat. 1839; Pub. L. 94–455, title XX, §2001(b)(1), Oct. 4, 1976, 90 Stat. 1849; Pub. L. 97–34, title IV, §442(a)(2), Aug. 13, 1981, 95 Stat. 320; Pub. L. 100–203, title X, §10401(b)(2)(B), Dec. 22, 1987, 101 Stat. 1330–431; Pub. L. 107–16, title V, §511(d), June 7, 2001, 115 Stat. 70; Pub. L. 111–312, title III, §302(b)(2), Dec. 17, 2010, 124 Stat. 3301.)
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 304 of Pub. L. 111–312, see Effective and Termination Dates of 2010 Amendment note below.</i>
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–16, §§511(d), 901, temporarily amended subsec. (a) generally. Prior to amendment, text read as follows: “The tax imposed by section 2501 for each calendar year shall be an amount equal to the excess of—
+<b>2010</b>—Subsec. (a). Pub. L. 111–312, §§302(b)(2), 304, temporarily amended subsec. (a) to read as if amendment by Pub. L. 107–16, §511(d), had never been enacted. See 2001 Amendment note and Effective and Termination Dates of 2010 Amendment note below.
+
+<b>2001</b>—Subsec. (a). Pub. L. 107–16, §§511(d), 901, temporarily amended subsec. (a) generally. Prior to amendment, text read as follows: “The tax imposed by section 2501 for each calendar year shall be an amount equal to the excess of—
 
 &emsp;“(1) a tentative tax, computed under section 2001(c), on the aggregate sum of the taxable gifts for such calendar year and for each of the preceding calendar periods, over
 
@@ -59,29 +44,35 @@ The tax imposed by section 2501 shall be paid by the donor.
 
 > See Effective and Termination Dates of 2001 Amendment note below.
 
-1987—Subsec. (a)(1). Pub. L. 100–203, §10401(b)(2)(B)(i), substituted “under section 2001(c)” for “in accordance with the rate schedule set forth in section 2001(c)”.
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–203, §10401(b)(2)(B)(i), substituted “under section 2001(c)” for “in accordance with the rate schedule set forth in section 2001(c)”.
 
 Subsec. (a)(2). Pub. L. 100–203, §10401(b)(2)(B)(ii), substituted “under such section” for “in accordance with such rate schedule”.
 
-1981—Subsec. (a). Pub. L. 97–34 substituted in introductory text and par. (1) “calendar year” for “calendar quarter” and in pars. (1) and (2) “calendar periods” for “calendar years and calendar quarters”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–34 substituted in introductory text and par. (1) “calendar year” for “calendar quarter” and in pars. (1) and (2) “calendar periods” for “calendar years and calendar quarters”.
 
 Subsec. (b). Pub. L. 97–34 substituted definition of “preceding calendar period” for “calendar quarter”, the latter including only the first calendar quarter of the calendar year 1971 and succeeding calendar quarters (covered in par. (2)), the former incorporating former subsec. (c)(1) definition of “preceding calendar years” as meaning calendar years 1932 and 1970 and all calendar years intervening between calendar year 1932 and calendar year 1970 and “calendar year 1932” as including only the portion of such year after June 6, 1932, and former subsec. (c)(2) definition of “preceding calendar quarters” as meaning the first calendar quarter of calendar year 1971 and all calendar quarters intervening between such calendar quarter and the calendar quarter for which the tax is being computed.
 
 Subsecs. (c), (d). Pub. L. 97–34 redesignated subsec. (d) as (c). Former subsec. (c), defining “preceding calendar years” and “preceding calendar quarters”, was incorporated in subsec. (b).
 
-1976—Subsec. (a). Pub. L. 94–455 inserted “tentative” after “(1) a” and “(2) a” and substituted in par. (1) “section 2001(c)” for “this subsection” after “set forth in”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 inserted “tentative” after “(1) a” and “(2) a” and substituted in par. (1) “section 2001(c)” for “this subsection” after “set forth in”.
 
-1970—Subsec. (a). Pub. L. 91–614, §102(a)(2)(A), substituted a computation of tax formula based on the current calendar quarter, preceding calendar quarters, and preceding calendar years for a formula based entirely on the current and preceding calendar years.
+<b>1970</b>—Subsec. (a). Pub. L. 91–614, §102(a)(2)(A), substituted a computation of tax formula based on the current calendar quarter, preceding calendar quarters, and preceding calendar years for a formula based entirely on the current and preceding calendar years.
 
 Subsec. (b). Pub. L. 91–614, §102(a)(2)(B), substituted definition of “calendar quarter” for definition of “calendar year”.
 
 Subsec. (c). Pub. L. 91–614, §102(a)(2)(B), substituted definition of “preceding calendar years and quarters” for definition of “preceding calendar years”.
 
+#### Effective and Termination Dates of 2010 Amendment
+
+Pub. L. 111–312, title III, §302(b)(2), Dec. 17, 2010, 124 Stat. 3301, provided that the amendment by section 302(b)(2) is effective on and after Jan. 1, 2011.
+
+Section 901 of Pub. L. 107–16 applicable to amendments by section 302(b)(2) of Pub. L. 111–312, see section 304 of Pub. L. 111–312, set out as a note under section 121 of this title.
+
 #### Effective and Termination Dates of 2001 Amendment
 
 Pub. L. 107–16, title V, §511(f)(3), June 7, 2001, 115 Stat. 71, provided that: “The amendments made by subsections (d) and (e) \[amending this section and section 2511 of this title\] shall apply to gifts made after December 31, 2009.”
 
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1987 Amendment
 

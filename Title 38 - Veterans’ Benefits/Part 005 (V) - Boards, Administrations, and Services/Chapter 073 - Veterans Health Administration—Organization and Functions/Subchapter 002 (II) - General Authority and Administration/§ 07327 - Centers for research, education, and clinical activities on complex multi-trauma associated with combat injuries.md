@@ -150,5 +150,5 @@ Elements.—Each report under this subsection shall include the following:
 
 #### Designation of Centers
 
-Pub. L. 108–422, title III, §302(b), Nov. 30, 2004, 118 Stat. 2385, provided that: “The Secretary of Veterans Affairs shall designate the centers for research, education, and clinical activities on complex multi-traumaassociated with combat injuries required by section 7327 of title 38, United States Code (as added by subsection (a)), not later than 120 days after the date of the enactment of this Act \[Nov. 30, 2004\].”
+Pub. L. 108–422, title III, §302(b), Nov. 30, 2004, 118 Stat. 2385, provided that: “The Secretary of Veterans Affairs shall designate the centers for research, education, and clinical activities on complex multi-trauma associated with combat injuries required by section 7327 of title 38, United States Code (as added by subsection (a)), not later than 120 days after the date of the enactment of this Act \[Nov. 30, 2004\].”
 

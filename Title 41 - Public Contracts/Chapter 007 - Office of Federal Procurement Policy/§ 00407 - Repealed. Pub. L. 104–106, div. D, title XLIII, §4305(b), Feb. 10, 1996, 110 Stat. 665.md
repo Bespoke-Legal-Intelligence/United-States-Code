@@ -1,8 +1,0 @@
-### §407. Repealed. Pub. L. 104–106, div. D, title XLIII, §4305(b), Feb. 10, 1996, 110 Stat. 665
-
-Section, Pub. L. 93–400, §8, Aug. 30, 1974, 88 Stat. 798; Pub. L. 96–83, §5, Oct. 10, 1979, 93 Stat. 651; Pub. L. 98–191, §8(a), Dec. 1, 1983, 97 Stat. 1331, related to responsiveness to Congress.
-
-#### Effective Date of Repeal
-
-For effective date and applicability of repeal, see section 4401 of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under section 251 of this title.
-

@@ -1,6 +1,6 @@
 ### §2302. Penalties for negligent operations and interfering with safe operation
 
-(a) A person operating a vessel in a negligent manner or interfering with the safe operation of a vessel, so as to endanger the life, limb, or property of a person is liable to the United States Government for a civil penalty of not more than $5,000 in the case of a recreational vessel, or $25,000 in the case of any other vessel.
+(a) A person operating a vessel in a negligent manner or interfering with the safe operation ofa vessel, so as to endanger the life, limb, or property of a person is liable to the United States Government for a civil penalty of not more than $5,000 in the case of a recreational vessel, or $25,000 in the case of any other vessel.
 
 (b) A person operating a vessel in a grossly negligent manner that endangers the life, limb, or property of a person commits a class A misdemeanor.
 
@@ -60,9 +60,9 @@ Section 2302 states that the negligent operation of a vessel is prohibited. Thes
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–295 substituted “$5,000 in the case of a recreational vessel, or $25,000 in the case of any other vessel” for “$1,000”
+<b>2002</b>—Subsec. (a). Pub. L. 107–295 substituted “$5,000 in the case of a recreational vessel, or $25,000 in the case of any other vessel” for “$1,000”
 
-1998—Pub. L. 105–383, §302(a)(1), substituted “Penalties for negligent operations and interfering with safe operation” for “Penalties for negligent operations” in section catchline.
+<b>1998</b>—Pub. L. 105–383, §302(a)(1), substituted “Penalties for negligent operations and interfering with safe operation” for “Penalties for negligent operations” in section catchline.
 
 Subsec. (a). Pub. L. 105–383, §302(a)(2), substituted “or interfering with the safe operation of a vessel, so as to endanger” for “that endangers”.
 
@@ -70,9 +70,9 @@ Subsec. (c)(1). Pub. L. 105–383, §304(c), substituted “$5,000; or” for �
 
 Subsec. (e). Pub. L. 105–383, §408(a), added subsec. (e).
 
-1992—Subsec. (c)(1). Pub. L. 102–587 substituted “$1,000 for a first violation and not more than $5,000 for a subsequent violation” for “$1,000”.
+<b>1992</b>—Subsec. (c)(1). Pub. L. 102–587 substituted “$1,000 for a first violation and not more than $5,000 for a subsequent violation” for “$1,000”.
 
-1990—Subsec. (b). Pub. L. 101–380, §4302(a)(1), substituted “commits a class A misdemeanor” for “shall be fined not more than $5,000, imprisoned for not more than one year, or both”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–380, §4302(a)(1), substituted “commits a class A misdemeanor” for “shall be fined not more than $5,000, imprisoned for not more than one year, or both”.
 
 Subsec. (c). Pub. L. 101–380, §§4105(b)(2), 4302(a)(2)(A), substituted “under the influence of alcohol, or a dangerous drug in violation of a law of the United States” for “intoxicated” and struck out “, shall be” after “by the Secretary by regulation”.
 
@@ -80,7 +80,7 @@ Subsec. (c)(1). Pub. L. 101–380, §4302(a)(2)(B), substituted “is liable” 
 
 Subsec. (c)(2). Pub. L. 101–380, §4302(a)(2)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “fined not more than $5,000, imprisoned for not more than one year, or both.”
 
-1984—Subsecs. (c), (d). Pub. L. 98–557 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>1984</b>—Subsecs. (c), (d). Pub. L. 98–557 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 #### Effective Date of 1998 Amendment
 

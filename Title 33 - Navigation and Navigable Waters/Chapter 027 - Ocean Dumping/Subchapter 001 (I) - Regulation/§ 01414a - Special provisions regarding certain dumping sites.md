@@ -26,7 +26,7 @@ The Administrator may not issue or renew any permit under this subchapter which 
 
 #### Amendments
 
-1988—Pub. L. 100–688 repealed the second of two identical sections 104A of Pub. L. 92–532, both classified to this section and enacted by Pub. L. 99–662 and Pub. L. 100–4, thereby involving no change in text.
+<b>1988</b>—Pub. L. 100–688 repealed the second of two identical sections 104A of Pub. L. 92–532, both classified to this section and enacted by Pub. L. 99–662 and Pub. L. 100–4, thereby involving no change in text.
 
 #### New York Bight Apex Not Suitable for Dumping
 

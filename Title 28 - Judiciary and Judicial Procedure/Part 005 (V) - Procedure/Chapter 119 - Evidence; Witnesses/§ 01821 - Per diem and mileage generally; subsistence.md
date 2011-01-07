@@ -60,27 +60,27 @@ Section 240 of the Immigration and Nationality Act, referred to in subsec. (e), 
 
 #### Amendments
 
-1996—Subsec. (e). Pub. L. 104–208 substituted “section 240” for “section 242(b)”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–208 substituted “section 240” for “section 242(b)”.
 
-1992—Subsec. (d)(1). Pub. L. 102–417, §2(b), struck out “(other than a witness who is incarcerated)” after “paid to a witness”.
+<b>1992</b>—Subsec. (d)(1). Pub. L. 102–417, §2(b), struck out “(other than a witness who is incarcerated)” after “paid to a witness”.
 
 Subsec. (d)(4). Pub. L. 102–417, §2(c), substituted “3144” for “3149”.
 
 Subsec. (f). Pub. L. 102–417, §2(a), added subsec. (f).
 
-1990—Subsec. (b). Pub. L. 101–650 substituted “$40” for “$30”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–650 substituted “$40” for “$30”.
 
-1978—Pub. L. 95–535 increased the daily witness attendance fee from $20 to $30, substituted provisions relating to compensation for the actual expenses of travel based on the form of transportation used, to a travel allowance equal to the mileage allowance under section 5704 of Title 5 for a witness travelling by privately owned vehicle, and to tolls, taxi fares, and parking fees for provisions that a witness would receive 10 cents per mile and that mileage computation would be based on a uniform table of distances regardless of the mode of travel employed, provisions relating to a subsistence allowance in amounts not to exceed those which Government employees receive for official travel for provisions that such subsistence allowance would be $16 per day, provisions relating to a witness detained for want of security for his appearance being entitled to the daily attendance fee in addition to subsistence for provisions that such a witness would be entitled to $1 per day in addition to his subsistence, and inserted provisions defining “court of the United States” and relating to travel expenses being taxable as costs and to certain aliens being ineligible to receive fees and allowances.
+<b>1978</b>—Pub. L. 95–535 increased the daily witness attendance fee from $20 to $30, substituted provisions relating to compensation for the actual expenses of travel based on the form of transportation used, to a travel allowance equal to the mileage allowance under section 5704 of Title 5 for a witness travelling by privately owned vehicle, and to tolls, taxi fares, and parking fees for provisions that a witness would receive 10 cents per mile and that mileage computation would be based on a uniform table of distances regardless of the mode of travel employed, provisions relating to a subsistence allowance in amounts not to exceed those which Government employees receive for official travel for provisions that such subsistence allowance would be $16 per day, provisions relating to a witness detained for want of security for his appearance being entitled to the daily attendance fee in addition to subsistence for provisions that such a witness would be entitled to $1 per day in addition to his subsistence, and inserted provisions defining “court of the United States” and relating to travel expenses being taxable as costs and to certain aliens being ineligible to receive fees and allowances.
 
-1968—Pub. L. 90–274 increased the per diem allowance from $4 to $20, increased the mileage allowance from 8 cents per mile to 10 cents per mile, increased the daily subsistence allowance from $8 to $16, and directed that witnesses in the district courts for the districts of the Canal Zone, Guam, and the Virgin Islands receive the same fees and allowances provided in this section for witnesses in other district courts of the United States.
+<b>1968</b>—Pub. L. 90–274 increased the per diem allowance from $4 to $20, increased the mileage allowance from 8 cents per mile to 10 cents per mile, increased the daily subsistence allowance from $8 to $16, and directed that witnesses in the district courts for the districts of the Canal Zone, Guam, and the Virgin Islands receive the same fees and allowances provided in this section for witnesses in other district courts of the United States.
 
-1956—Act Aug. 1, 1956, substituted “, or before any person authorized to take his deposition pursuant to any rule or order” for “or person taking his disposition pursuant to any order”, increased the payments for mileage from 7 to 8 cents per mile and subsistence allowance from $5 to $8 per day, and authorized the computation of mileage on the basis of a uniform table of distances adopted by the Attorney General.
+<b>1956</b>—Act Aug. 1, 1956, substituted “, or before any person authorized to take his deposition pursuant to any rule or order” for “or person taking his disposition pursuant to any order”, increased the payments for mileage from 7 to 8 cents per mile and subsistence allowance from $5 to $8 per day, and authorized the computation of mileage on the basis of a uniform table of distances adopted by the Attorney General.
 
-1954—Act Sept. 3, 1954, struck out language which had restricted section's applicability to those depositions taken pursuant to order of the court.
+<b>1954</b>—Act Sept. 3, 1954, struck out language which had restricted section's applicability to those depositions taken pursuant to order of the court.
 
-1951—Act Oct. 31, 1951, substituted “residences” for “residence” in that part of second sentence which precedes first proviso.
+<b>1951</b>—Act Oct. 31, 1951, substituted “residences” for “residence” in that part of second sentence which precedes first proviso.
 
-1949—Act May 24, 1949, inserted last par.
+<b>1949</b>—Act May 24, 1949, inserted last par.
 
 Act May 10, 1949, increased witnesses’ fees from $2 to $4 per day, mileage allowance from 5 cents to 7 cents a mile, subsistence allowance from $3 to $5 per day, and inserted provisos.
 

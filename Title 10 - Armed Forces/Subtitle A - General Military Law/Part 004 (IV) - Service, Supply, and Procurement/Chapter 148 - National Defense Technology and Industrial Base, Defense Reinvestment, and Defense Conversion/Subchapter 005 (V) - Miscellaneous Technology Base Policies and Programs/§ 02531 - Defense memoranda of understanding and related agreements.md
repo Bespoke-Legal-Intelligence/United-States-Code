@@ -20,13 +20,13 @@ Limitation on Entering into MOUs and Related Agreements.—A memorandum of under
 
 #### Amendments
 
-1992—Pub. L. 102–484, §4202(a), renumbered section 2504 of this title as this section.
+<b>1992</b>—Pub. L. 102–484, §4202(a), renumbered section 2504 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 102–484, §4271(c), substituted “defense technology and industrial base” for “defense industrial base”.
 
-1990—Subsec. (a). Pub. L. 101–510 inserted “or to the reciprocal procurement of defense items,” after “defense equipment,” in introductory provisions.
+<b>1990</b>—Subsec. (a). Pub. L. 101–510 inserted “or to the reciprocal procurement of defense items,” after “defense equipment,” in introductory provisions.
 
-1989—Pub. L. 101–189 inserted “and related agreements” after “understanding” in section catchline and amended text generally. Prior to amendment, text read as follows: “In the negotiation and renegotiation of each memorandum of understanding between the Secretary of Defense, acting on behalf of the United States, and one or more foreign countries (or any instrumentality of a foreign country) relating to research, development, or production of defense equipment, the Secretary of Defense shall—
+<b>1989</b>—Pub. L. 101–189 inserted “and related agreements” after “understanding” in section catchline and amended text generally. Prior to amendment, text read as follows: “In the negotiation and renegotiation of each memorandum of understanding between the Secretary of Defense, acting on behalf of the United States, and one or more foreign countries (or any instrumentality of a foreign country) relating to research, development, or production of defense equipment, the Secretary of Defense shall—
 
 &emsp;“(1) consider the effect of such proposed memorandum of understanding on the defense industrial base of the United States; and
 

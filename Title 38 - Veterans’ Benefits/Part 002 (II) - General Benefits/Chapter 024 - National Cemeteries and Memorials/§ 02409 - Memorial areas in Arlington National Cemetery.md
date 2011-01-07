@@ -18,9 +18,9 @@
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 1009 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1009 of this title as this section.
 
-1989—Subsec. (b). Pub. L. 101–237 inserted “of the Army” after “Secretary”.
+<b>1989</b>—Subsec. (b). Pub. L. 101–237 inserted “of the Army” after “Secretary”.
 
 #### Columbia Orbiter Memorial
 

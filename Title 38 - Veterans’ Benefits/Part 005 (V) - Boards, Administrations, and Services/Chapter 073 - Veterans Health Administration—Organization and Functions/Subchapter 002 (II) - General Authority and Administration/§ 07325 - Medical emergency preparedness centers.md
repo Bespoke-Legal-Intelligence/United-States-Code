@@ -14,7 +14,7 @@ Mission.—The mission of the centers shall be as follows:
 
 &emsp;(1) To carry out research on, and to develop methods of detection, diagnosis, prevention, and treatment of injuries, diseases, and illnesses arising from the use of chemical, biological, radiological, incendiary or other explosive weapons or devices posing threats to the public health and safety.
 
-&emsp;(2) To provide education, training, and advice to health care professionals, including health care professionals outside the Veterans Health Administration, through the National Disaster Medical System established pursuant to section 2811(b) of the Public Health Service Act (42 U.S.C. 300hh–11(b)) <sup>1</sup> or through interagency agreements entered into by the Secretary for that purpose.
+&emsp;(2) To provide education, training, and advice to health care professionals, including health care professionals outside the Veterans Health Administration, through the National Disaster Medical System established pursuant to section 2812 of the Public Health Service Act (42 U.S.C. 300hh–11) or through interagency agreements entered into by the Secretary for that purpose.
 
 &emsp;(3) In the event of a disaster or emergency referred to in section 1785(b) of this title, to provide such laboratory, epidemiological, medical, or other assistance as the Secretary considers appropriate to Federal, State, and local health care agencies and personnel involved in or responding to the disaster or emergency.
 
@@ -54,7 +54,7 @@ Coordination of Activities.—The Secretary shall take appropriate actions to en
 
 &emsp;(1) in close coordination with the Department of Defense, the Department of Health and Human Services, and other departments, agencies, and elements of the Government charged with coordination of plans for United States homeland security; and
 
-&emsp;(2) after taking into consideration applicable recommendations of the working group on the prevention, preparedness, and response to bioterrorism and other public health emergencies established under section 319F(a) of the Public Health Service Act (42 U.S.C. 247d–6(a)) or any other joint interagency advisory group or committee designated by the President or the President's designee to coordinate Federal research on weapons of mass destruction.
+&emsp;(2) after taking into consideration applicable recommendations of the working group on the prevention, preparedness, and response to bioterrorism and other public health emergencies established under section 319F(a) of the Public Health Service Act (42 U.S.C. 247d–6(a)) or any other joint interagency advisory group orcommittee designated by the President or the President's designee to coordinate Federal research on weapons of mass destruction.
 
 (g)
 
@@ -72,15 +72,13 @@ Funding.—(1) Amounts appropriated for the activities of the centers under this
 
 (3) There are authorized to be appropriated for the centers under this section $20,000,000 for each of fiscal years 2003 through 2007.
 
-(Added Pub. L. 107–287, §2(a)(1), Nov. 7, 2002, 116 Stat. 2024; amended Pub. L. 110–387, title IX, §901(a)(8), Oct. 10, 2008, 122 Stat. 4142.)
-
-#### References in Text
-
-Section 2811(b) of the Public Health Service Act, referred to in subsec. (b)(2), was redesignated section 2812(a) of the Public Health Service Act by Pub. L. 109–417, title I, §102(a)(2), title III, §301(a)(3), Dec. 19, 2006, 120 Stat. 2832, 2853, and is classified to section 300hh–11(a) of Title 42, The Public Health and Welfare.
+(Added Pub. L. 107–287, §2(a)(1), Nov. 7, 2002, 116 Stat. 2024; amended Pub. L. 110–387, title IX, §901(a)(8), Oct. 10, 2008, 122 Stat. 4142; Pub. L. 111–275, title X, §1001(n)(2), Oct. 13, 2010, 124 Stat. 2897.)
 
 #### Amendments
 
-2008—Subsec. (i)(2). Pub. L. 110–387 substituted “medical services account” for “medical care account”.
+<b>2010</b>—Subsec. (b)(2). Pub. L. 111–275 substituted “section 2812 of the Public Health Service Act (42 U.S.C. 300hh–11)” for “section 2811(b) of the Public Health Service Act (42 U.S.C. 300hh–11(b))”.
+
+<b>2008</b>—Subsec. (i)(2). Pub. L. 110–387 substituted “medical services account” for “medical care account”.
 
 #### Transfer of Functions
 
@@ -99,6 +97,4 @@ Pub. L. 107–287, §2(b), Nov. 7, 2002, 116 Stat. 2027, provided that:
 “(3) The panel shall review each proposal submitted to the panel by the officials referred to in paragraph (1) and shall submit to the Under Secretary for Health its views on the relative scientific and clinical merit of each such proposal. The panel shall specifically determine with respect to each such proposal whether that proposal is among those proposals which have met the highest competitive standards of scientific and clinical merit.
 
 “(4) The panel shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

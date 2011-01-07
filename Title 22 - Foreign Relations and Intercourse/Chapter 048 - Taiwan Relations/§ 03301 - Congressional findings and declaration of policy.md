@@ -86,7 +86,7 @@ Sec. 2. <i>Specification of Laws and Determinations.</i>
 
 Sec. 3. <i>President's Memorandum of December 30, 1978.</i>
 
-3–301. Agreements and arrangements referred to in paragraph (B) of President Carter's memorandum of December 30, 1978, entitled “Relations With the People on Taiwan” (44 FR 1075) shall, unless otherwise terminated or modified in accordance with law, continue in force and be performed in accordance with the Act and this order.
+3–301. Agreements and arrangements referred to in paragraph (B) of President Carter's memorandum of December 30, 1978, entitled “Relations With the Peopleon Taiwan” (44 FR 1075) shall, unless otherwise terminated or modified in accordance with law, continue in force and be performed in accordance with the Act and this order.
 
 Sec. 4. <i>General</i>. This order supersedes Executive Order No. 12143 of June 22, 1979.
 

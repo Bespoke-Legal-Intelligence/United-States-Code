@@ -142,7 +142,7 @@ The Board shall—
 
 #### (3) Enforcement of subpoena
 
-&emsp;In the case of contumacy or failure to obey a subpoena issued pursuant to paragraph (1)(D), the United States district court for thejudicial district in which the subpoenaed person resides, is served, or may be found may issue an order requiring such person to produce the evidence required by such subpoena.
+&emsp;In the case of contumacy or failure to obey a subpoena issued pursuant to paragraph (1)(D), the United States district court for the judicial district in which the subpoenaed person resides, is served, or may be found may issue an order requiring such person to produce the evidence required by such subpoena.
 
 #### (4) Agency cooperation
 
@@ -216,7 +216,7 @@ The Board shall—
 
 #### (2) Rules and procedures
 
-&emsp;After consultation with the Secretary of Defense, the Attorney General, and the Directorof National Intelligence, the Board shall adopt rules and procedures of the Board for physical, communications, computer, document, personnel, and other security relating to carrying out the functions of the Board.
+&emsp;After consultation with the Secretary of Defense, the Attorney General, and the Director of National Intelligence, the Board shall adopt rules and procedures of the Board for physical, communications, computer, document, personnel, and other security relating to carrying out the functions of the Board.
 
 #### (<i>l</i>) Treatment as agency, not as advisory committee
 
@@ -246,8 +246,6 @@ There are authorized to be appropriated to carry out this section amounts as fol
 
 Section 5703 of title 5, referred to in subsec. (i)(2), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (j)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 Section 3(2) of the Federal Advisory Committee Act, referred to in subsec. (<i>l</i>)(2), is section 3(2) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
@@ -256,7 +254,7 @@ Section was formerly set out as a note under section 601 of Title 5, Government 
 
 #### Amendments
 
-2007—Pub. L. 110–53 amended section generally, substituting provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (m), for provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (<i>l</i>).
+<b>2007</b>—Pub. L. 110–53 amended section generally, substituting provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (m), for provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (<i>l</i>).
 
 #### Effective Date of 2007 Amendment
 

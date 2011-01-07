@@ -32,7 +32,7 @@ For purposes of this section, the term “institutional network” means a commu
 
 #### Amendments
 
-1996—Subsec. (e). Pub. L. 104–104 inserted before period at end “, except a cable operator may refuse to transmit any public access program or portion of a public access program which contains obscenity, indecency, or nudity”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–104 inserted before period at end “, except a cable operator may refuse to transmit any public access program or portion of a public access program which contains obscenity, indecency, or nudity”.
 
 #### Effective Date
 

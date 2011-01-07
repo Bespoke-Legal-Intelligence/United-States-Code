@@ -24,7 +24,7 @@ Appropriations for the purposes of or pursuant to this chapter (except for subch
 
 &emsp;(10) rent or lease outside the United States for not to exceed ten years of offices, buildings, grounds, and quarters, including living quarters to house personnel, and payments therefor in advance; maintenance, furnishings, necessary repairs, improvements, and alterations to properties owned or rented by the United States Government or made available for use to the United States Government outside the United States; and costs of fuel, water, and utilities for such properties;
 
-&emsp;(11) expenses of preparing and transporting to their former homes, or, with respect to foreign participants engaged in any programunder subchapter I of this chapter, to their former homes or places of burial, and of care and disposition of, the remains of persons or members of the families of persons who may die while such persons are away from their homes participating in activities carried out with funds covered by this subsection;
+&emsp;(11) expenses of preparing and transporting to their former homes, or, with respect to foreign participants engaged in any program under subchapter I of this chapter, to their former homes or places of burial, and of care and disposition of, the remains of persons or members of the families of persons who may die while such persons are away from theirhomes participating in activities carried out with funds covered by this subsection;
 
 &emsp;(12) purchase of uniforms;
 
@@ -64,7 +64,7 @@ Funds made available for the purposes of subchapter II of this chapter or the Ar
 
 &emsp;(2) reimbursement of actual expenses of military officers detailed or assigned as tour directors in connection with orientation visits of foreign military and related civilian personnel, in accordance with provisions of section 5702 of title 5, applicable to civilian officers and employees; and
 
-&emsp;(3) maintenance, repair, alteration and furnishing of United States-owned facilities in the District of Columbia or elsewhere for the training of foreign military and related civilian personnel, without regard to the provisions of section 12 of title 41 or other provision of law requiring a specific authorization or specific appropriation for such public contracts.
+&emsp;(3) maintenance, repair, alteration and furnishing of United States-owned facilities in the District of Columbia or elsewhere for the training of foreign military and related civilian personnel, without regard to the provisions of section 6303 of title 41 or other provision of law requiring a specific authorization or specific appropriation for such public contracts.
 
 #### (h) Recipient countries to contribute local currencies; utilization of foreign currencies owned by United States
 
@@ -108,23 +108,25 @@ References to part I of subchapter I of this chapter are deemed to include a ref
 
 In subsec. (a)(2), “section 1346(a) and (c) of title 31” substituted for “section 9 of Public Law 60–328 (31 U.S.C. 673))” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
+In subsec. (g)(3), “section 6303 of title 41” substituted for “section 3733 of the Revised Statutes (41 U.S.C. 12)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-2008—Subsec. (f). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954” in two places.
+<b>2008</b>—Subsec. (f). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954” in two places.
 
-2002—Subsec. (a)(17). Pub. L. 107–372 struck out par. (17) which read as follows: “expenses in connection with travel of personnel outside the United States, including travel expenses of dependents (including expenses during necessary stopovers while engaged in such travel), and transportation of personal effects, household goods, and automobiles of such personnel when any part of such travel or transportation begins in one fiscal year pursuant to travel orders issued in that fiscal year, notwithstanding the fact that such travel or transportation may not be completed during the same fiscal year, and cost of transporting automobiles to and from a place of storage, and the cost of storing automobiles of such personnel when it is in the public interest or more economical to authorize storage.”
+<b>2002</b>—Subsec. (a)(17). Pub. L. 107–372 struck out par. (17) which read as follows: “expenses in connection with travel of personnel outside the United States, including travel expenses of dependents (including expenses during necessary stopovers while engaged in such travel), and transportation of personal effects, household goods, and automobiles of such personnel when any part of such travel or transportation begins in one fiscal year pursuant to travel orders issued in that fiscal year, notwithstanding the fact that such travel or transportation may not be completed during the same fiscal year, and cost of transporting automobiles to and from a place of storage, and the cost of storing automobiles of such personnel when it is in the public interest or more economical to authorize storage.”
 
-1989—Subsec. (g). Pub. L. 101–167 inserted “or the Arms Export Control Act” after “subchapter II of this chapter” in introductory provisions.
+<b>1989</b>—Subsec. (g). Pub. L. 101–167 inserted “or the Arms Export Control Act” after “subchapter II of this chapter” in introductory provisions.
 
-1987—Subsec. (c). Pub. L. 100–202 substituted “$6,000,000” for “$3,000,000”.
+<b>1987</b>—Subsec. (c). Pub. L. 100–202 substituted “$6,000,000” for “$3,000,000”.
 
-1986—Subsec. (a)(5). Pub. L. 99–550 struck out “(without regard to the limitations contained in section 5 of Public Law 63–127, as amended (31 U.S.C. 638a(c)(2)), and section 201 of Public Law 85–468 (31 U.S.C. 638c))” after “official use”.
+<b>1986</b>—Subsec. (a)(5). Pub. L. 99–550 struck out “(without regard to the limitations contained in section 5 of Public Law 63–127, as amended (31 U.S.C. 638a(c)(2)), and section 201 of Public Law 85–468 (31 U.S.C. 638c))” after “official use”.
 
 Subsec. (g)(2). Pub. L. 99–234 substituted “5702” for “5702(c)”.
 
-1985—Subsec. (a)(14). Pub. L. 99–83 substituted reference to Foreign Service Act of 1980 for reference to Foreign Service Act of 1946.
+<b>1985</b>—Subsec. (a)(14). Pub. L. 99–83 substituted reference to Foreign Service Act of 1980 for reference to Foreign Service Act of 1946.
 
-1978—Subsec. (a)(5). Pub. L. 95–424, §505, substituted “the current market price in the United States of a mid-sized sedan or station wagon meeting the requirements established by the General Services Administration for a Class III vehicle of United States manufacture (or, if the replacement vehicle is a right hand drive vehicle, 120 percent of that price)” for “$3,500”.
+<b>1978</b>—Subsec. (a)(5). Pub. L. 95–424, §505, substituted “the current market price in the United States of a mid-sized sedan or station wagon meeting the requirements established by the General Services Administration for a Class III vehicle of United States manufacture (or, if the replacement vehicle is a right hand drive vehicle, 120 percent of that price)” for “$3,500”.
 
 Subsec. (c). Pub. L. 95–424, §102(g)(2)(H), struck out “(other than subpart I of part II of subchapter I of this chapter)” after “under this chapter” in two places.
 
@@ -132,15 +134,15 @@ Subsecs. (d), (e). Pub. L. 95–424, §102(g)(2)(I), struck out “(other than s
 
 Subsec. (f). Pub. L. 95–424, §102(g)(2)(J), substituted “available under part I of subchapter I of this chapter” for “section 2172 of this title”, and “functions under part I” for “functions under subpart I of part II”.
 
-1976—Subsec. (g)(1). Pub. L. 94–329, §106(b)(5)(A), inserted “military education and training” after “articles”.
+<b>1976</b>—Subsec. (g)(1). Pub. L. 94–329, §106(b)(5)(A), inserted “military education and training” after “articles”.
 
 Subsec. (g)(2), (3). Pub. L. 94–329, §106(b)(5)(B), substituted “and related civilian personnel” for “personnel”.
 
-1969—Subsec. (f). Pub. L. 91–175 added Corporation established under sections 2191 to 2200a of this title to the enumeration of agencies administering programs.
+<b>1969</b>—Subsec. (f). Pub. L. 91–175 added Corporation established under sections 2191 to 2200a of this title to the enumeration of agencies administering programs.
 
-1968—Subsec. (g)(1). Pub. L. 90–554 required that when funds are made available for operating expenses, such expenses be incurred in furnishing defense articles and defense services on a grant or sales basis by the agency primarily responsible for administering subchapter II of this chapter.
+<b>1968</b>—Subsec. (g)(1). Pub. L. 90–554 required that when funds are made available for operating expenses, such expenses be incurred in furnishing defense articles and defense services on a grant or sales basis by the agency primarily responsible for administering subchapter II of this chapter.
 
-1967—Subsec. (a)(5). Pub. L. 90–137, §302(j), substituted “section 638a(c)(2) and section 638c of title 31” for “section 78a(c)(2) and section 78a–1 of title 5”.
+<b>1967</b>—Subsec. (a)(5). Pub. L. 90–137, §302(j), substituted “section 638a(c)(2) and section 638c of title 31” for “section 78a(c)(2) and section 78a–1 of title 5”.
 
 Subsec. (a)(16). Pub. L. 90–137, §302(k), substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey” in two places.
 
@@ -152,11 +154,11 @@ Subsec. (g)(2). Pub. L. 90–137, §302(n), substituted reference to section 570
 
 Subsec. (i). Pub. L. 90–137, §302(<i>o</i>), added subsec. (i).
 
-1965—Subsec. (e). Pub. L. 89–171, §302(h)(1), substituted “section 301 of the Dual Compensation Act (5 U.S.C. 3105)” for “section 2 of the Act of July 31, 1894, as amended (5 U.S.C. 62)”.
+<b>1965</b>—Subsec. (e). Pub. L. 89–171, §302(h)(1), substituted “section 301 of the Dual Compensation Act (5 U.S.C. 3105)” for “section 2 of the Act of July 31, 1894, as amended (5 U.S.C. 62)”.
 
 Subsec. (f). Pub. L. 89–171, §302(h)(2), substituted “Latin American Development Act, as amended” for “Act to provide for assistance in the development of Latin America and in the reconstruction of Chile, and for other purposes”.
 
-1963—Subsec. (h). Pub. L. 88–205 added subsec. (h).
+<b>1963</b>—Subsec. (h). Pub. L. 88–205 added subsec. (h).
 
 #### Change of Name
 

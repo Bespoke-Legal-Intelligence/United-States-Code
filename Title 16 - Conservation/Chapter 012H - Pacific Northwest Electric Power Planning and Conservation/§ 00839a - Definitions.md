@@ -12,7 +12,7 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(i) to be reliable and available within the time it is needed, and
 
-&emsp;&emsp;(ii) to meet or reduce the electric power demand, as determined by the Council or the Administrator, as appropriate, of the Consumers of the customers at an estimated incremental system cost no greater than that of the least-cost similarly reliable and available alternative measure or resource, or any combination thereof.
+&emsp;&emsp;(ii) to meet or reduce the electric power demand, as determined by the Council or the Administrator, as appropriate, of the consumers of the customers at an estimated incremental system cost no greater than that of the least-cost similarly reliable and available alternative measure or resource, or any combination thereof.
 
 &emsp;(B) For purposes of this paragraph, the term “system cost” means an estimate of all direct costs of a measure or resource over its effective life, including, if applicable, the cost of distribution and transmission to the consumer and, among other factors, waste disposal costs, end-of-cycle costs, and fuel costs (including projected increases), and such quantifiable environmental costs and benefits as the Administrator determines, on the basis of a methodology developed by the Council as part of the plan, or in the absence of the plan by the Administrator, are directly attributable to such measure or resource.
 
@@ -60,7 +60,7 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(B) any contiguous areas, not in excess of seventy-five air miles from the area referred to in subparagraph (A), which are a part of the service area of a rural electric cooperative customer served by the Administrator on December 5, 1980, which has a distribution system from which it serves both within and without such region.
 
-&emsp;(15) “Plan” means the Regional Electric Power and conservation plan (including any amendments thereto) adopted pursuant to this chapter and such plan shall apply to actions of the Administrator as specified in this chapter.
+&emsp;(15) “Plan” means the Regional Electric Power and Conservation plan (including any amendments thereto) adopted pursuant to this chapter and such plan shall apply to actions of the Administrator as specified in this chapter.
 
 &emsp;(16) “Renewable resource” means a resource which utilizes solar, wind, hydro, geothermal, biomass, or similar sources of energy and which either is used for electric power generation or will reduce the electric power requirements of a consumer, including by direct application.
 

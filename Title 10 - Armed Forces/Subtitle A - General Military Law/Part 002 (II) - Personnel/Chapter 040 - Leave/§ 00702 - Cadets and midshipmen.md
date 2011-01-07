@@ -6,7 +6,7 @@ Graduation Leave.—Graduates of the United States Military Academy, the United 
 
 (b)
 
-Involuntary Leave Without Pay for Suspended Academy Cadets and Midshipmen.—(1)Under regulations prescribed under subsection (d), the Secretary concerned may place an academy cadet or midshipman on involuntary leave for any period during which the Superintendent of the Academy at which the cadet or midshipman is admitted has suspended the cadet or midshipman from duty at the Academy—
+Involuntary Leave Without Pay for Suspended Academy Cadets and Midshipmen.—(1) Under regulations prescribed under subsection (d), the Secretary concerned may place an academy cadet or midshipman on involuntary leave for any period during which the Superintendent of the Academy at which the cadet or midshipman is admitted has suspended the cadet or midshipman from duty at the Academy—
 
 &emsp;(A) pending separation from the Academy;
 
@@ -78,9 +78,9 @@ In subsections (a) and (b), the words “, or his designated representative,”
 
 #### Amendments
 
-2000—Subsec. (b)(2). Pub. L. 106–398 substituted “section 203(c)” for “section 230(c)”.
+<b>2000</b>—Subsec. (b)(2). Pub. L. 106–398 substituted “section 203(c)” for “section 230(c)”.
 
-1998—Subsec. (a). Pub. L. 105–261, §562(c)(1), inserted heading.
+<b>1998</b>—Subsec. (a). Pub. L. 105–261, §562(c)(1), inserted heading.
 
 Subsec. (b). Pub. L. 105–261, §562(a)(3), added subsec. (b). Former first and second sentences of subsec. (b) redesignated subsecs. (c) and (d), respectively.
 
@@ -90,9 +90,9 @@ Subsec. (d). Pub. L. 105–261, §562(a)(1), (c)(3), redesignated second sentenc
 
 Subsec. (e). Pub. L. 105–261, §562(b)(2), added subsec. (e).
 
-1993—Subsec. (a). Pub. L. 103–160 struck out “regular” before “component” in first sentence.
+<b>1993</b>—Subsec. (a). Pub. L. 103–160 struck out “regular” before “component” in first sentence.
 
-1980—Subsec. (b). Pub. L. 96–513 substituted “Sections 701, 703, and 704 of this title and subsection (a)” for “Sections 701, 702(a), 703, and 704 of this chapter”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–513 substituted “Sections 701, 703, and 704 of this title and subsection (a)” for “Sections 701, 702(a), 703, and 704 of this chapter”.
 
 #### Effective Date of 1980 Amendment
 

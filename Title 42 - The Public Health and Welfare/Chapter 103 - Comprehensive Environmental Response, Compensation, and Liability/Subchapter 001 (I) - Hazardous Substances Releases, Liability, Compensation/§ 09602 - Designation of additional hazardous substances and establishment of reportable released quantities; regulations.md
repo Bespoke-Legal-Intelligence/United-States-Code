@@ -8,5 +8,5 @@
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–499 inserted provisions setting deadlines for promulgation of proposed and final regulations.
+<b>1986</b>—Subsec. (a). Pub. L. 99–499 inserted provisions setting deadlines for promulgation of proposed and final regulations.
 

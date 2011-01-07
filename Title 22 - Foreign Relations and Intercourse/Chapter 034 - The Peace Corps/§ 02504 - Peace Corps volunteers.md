@@ -84,43 +84,43 @@ The Federal Tort Claims Act, referred to in subsec. (h), is title IV of act Aug.
 
 #### Amendments
 
-1999—Subsec. (f)(1)(B). Pub. L. 106–30, §2(b)(1), substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1999</b>—Subsec. (f)(1)(B). Pub. L. 106–30, §2(b)(1), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 Subsec. (h). Pub. L. 106–30, §2(b)(2), substituted “section 3342 of title 31, section 5732 and” for “the Federal Voting Assistance Act of 1955 (5 U.S.C. 2171 et seq.), the Act of June 4, 1954, chapter 264, section 4 (5 U.S.C. 73b–5), the Act of December 23, 1944, chapter 716, section 1, as amended (31 U.S.C. 492a),”.
 
 Subsec. (j). Pub. L. 106–30, §2(b)(3), substituted “section 3331 of title 5.” for “section 1757 of the Revised Statutes of the United States, as amended (5 U.S.C. 16), and shall swear (or affirm) that he does not advocate the overthrow of our constitutional form of government in the United States, and that he is not a member of an organization that advocates the overthrow of our constitutional form of government in the United States, knowing that such organization so advocates.”
 
-1997—Subsec. (e). Pub. L. 105–12 inserted at end “Health care may not be provided under this subsection in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997.”
+<b>1997</b>—Subsec. (e). Pub. L. 105–12 inserted at end “Health care may not be provided under this subsection in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997.”
 
-1986—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1985—Subsec. (a). Pub. L. 99–83 in amending last sentence generally, struck out provisions prohibiting political tests.
+<b>1985</b>—Subsec. (a). Pub. L. 99–83 in amending last sentence generally, struck out provisions prohibiting political tests.
 
-1981—Subsec. (c). Pub. L. 97–113, §606, substituted “not less than $125” for “not to exceed $125”.
+<b>1981</b>—Subsec. (c). Pub. L. 97–113, §606, substituted “not less than $125” for “not to exceed $125”.
 
 Subsec. (h). Pub. L. 97–113, §604(b), struck out provision making section 2702 of this title, relating to malpractice protection, applicable to volunteers and vesting the President with the authority reposed in the Secretary of State in section 2702(f) of this title, and deeming a Peace Corps representative to be a principal representative of the United States for purposes of section 2702(g) of this title. See section 2509(i) and (j) of this title.
 
-1980—Subsec. (f)(1)(A). Pub. L. 96–465, §2202- (a)(1)(A), substituted “section 816(a) of the Foreign Service Act of 1980” for “section 852(a)(1) of the Foreign Service Act of 1946, as amended (22 U.S.C. 1092(a)(1)),”.
+<b>1980</b>—Subsec. (f)(1)(A). Pub. L. 96–465, §2202- (a)(1)(A), substituted “section 816(a) of the Foreign Service Act of 1980” for “section 852(a)(1) of the Foreign Service Act of 1946, as amended (22 U.S.C. 1092(a)(1)),”.
 
 Subsec. (f)(1)(B). Pub. L. 96–465, §2202(a)(1)(B), substituted “Foreign Service Act of 1980” for “Foreign Service Act of 1946”.
 
 Subsec. (h). Pub. L. 96–465, §2202(a)(2), substituted “section 2702 of this title” for “section 817 of this title” and “President” for “Director of ACTION”.
 
-1978—Subsec. (c). Pub. L. 95–331, §4(1), struck out provisions relating to allowances for volunteers with minor children at the time of their entering a period of pre-enrollment training.
+<b>1978</b>—Subsec. (c). Pub. L. 95–331, §4(1), struck out provisions relating to allowances for volunteers with minor children at the time of their entering a period of pre-enrollment training.
 
 Subsec. (h). Pub. L. 95–331, §4(2), inserted provisions relating to applicability of malpractice protection.
 
-1975—Subsec. (a). Pub. L. 94–130, §4, prohibited discrimination against any person on account of sex.
+<b>1975</b>—Subsec. (a). Pub. L. 94–130, §4, prohibited discrimination against any person on account of sex.
 
 Subsec. (c). Pub. L. 94–130, §6, substituted $125 for $75 in initial clause of first sentence.
 
-1970—Subsec. (c). Pub. L. 91–352, §3(a), inserted exception that in case of volunteers having one or more children at time of entering a period of pre-enrollment training, one parent would be entitled to receive a readjustment allowance not exceeding $125 for each month of satisfactory service as determined by thePresident, and substituted “section 5582(b) of title 5” for “section 61f of title 5”.
+<b>1970</b>—Subsec. (c). Pub. L. 91–352, §3(a), inserted exception that in case of volunteers having one or more children at time of entering a period of pre-enrollment training, one parent would be entitled to receive a readjustment allowance not exceeding $125 for each month of satisfactory service as determined by thePresident, and substituted “section 5582(b) of title 5” for “section 61f of title 5”.
 
 Subsecs. (m), (n). Pub. L. 91–352, §3(b), added subsecs. (m) and (n).
 
-1969—Subsec. (h). Pub. L. 91–99 inserted provision that for purposes of section 5584 of title 5 (and readjustment allowances made thereto) volunteers are to be deemed employees of the United States Government.
+<b>1969</b>—Subsec. (h). Pub. L. 91–99 inserted provision that for purposes of section 5584 of title 5 (and readjustment allowances made thereto) volunteers are to be deemed employees of the United States Government.
 
-1966—Subsec. (d). Repealed by Pub. L. 89–554, and now covered by section 8142 of Title 5, Government Organization and Employees.
+<b>1966</b>—Subsec. (d). Repealed by Pub. L. 89–554, and now covered by section 8142 of Title 5, Government Organization and Employees.
 
 Subsec. (f). Repealed, as applicable to the Civil Service Retirement Act, as amended, by Pub. L. 89–554, and now covered by section 8332(b) of Title 5.
 
@@ -128,7 +128,7 @@ Subsec. (h). Repealed, as applicable to act June 4, 1954, chapter 264, section 5
 
 Subsec. (<i>l</i>). Pub. L. 89–572 added subsec. (<i>l</i>).
 
-1965—Subsec. (c). Pub. L. 89–134, §2(a), provided that, for purposes of the Internal Revenue Code of 1954, a volunteer is deemed to be paid and to receive readjustment allowance to which he is entitled after December 31, 1964, when the amount is transferred from funds made available under this chapter to the fund from which the readjustment allowance is paid.
+<b>1965</b>—Subsec. (c). Pub. L. 89–134, §2(a), provided that, for purposes of the Internal Revenue Code of 1954, a volunteer is deemed to be paid and to receive readjustment allowance to which he is entitled after December 31, 1964, when the amount is transferred from funds made available under this chapter to the fund from which the readjustment allowance is paid.
 
 Subsec. (e). Pub. L. 89–134, §2(b), extended health care provisions to include health examinations for applicants for enrollment preparatory to their service, immunization and dental care for applicants who have accepted an invitation to begin a period of training under section 2507(a) of this title, and health examinations to former volunteers within six months after termination of their service.
 
@@ -136,7 +136,7 @@ Subsec. (g). Pub. L. 89–134, §2(c), authorized an increase from 100 to 200 in
 
 Subsec. (h). Pub. L. 89–134, §2(d), extended check cashing and currency exchange transaction privileges of government employees to Peace Corps volunteers.
 
-1963—Subsec. (b). Pub. L. 88–200, §2(a), inserted provision for transfer of supplies and equipment.
+<b>1963</b>—Subsec. (b). Pub. L. 88–200, §2(a), inserted provision for transfer of supplies and equipment.
 
 Subsec. (c). Pub. L. 88–200, §2(b), substituted “a readjustment allowance” for “termination payments” in first sentence, the second sentence reading “The readjustment allowance of each volunteer shall be payable on his return to the United States: <i>Provided, however</i>, That, under such circumstances as the President may determine, the accrued readjustment allowance, or any part thereof, may be paid to the volunteer, members of his family or others, during the period of his service, or prior to his return to the United States” for “The termination payment of each volunteer shall be payable at the termination of his service, or may be paid during the course of his service to the volunteer, to members of his family or to others, under such circumstances as the President may determine” and “readjustment allowance” for “termination payment” in third sentence.
 

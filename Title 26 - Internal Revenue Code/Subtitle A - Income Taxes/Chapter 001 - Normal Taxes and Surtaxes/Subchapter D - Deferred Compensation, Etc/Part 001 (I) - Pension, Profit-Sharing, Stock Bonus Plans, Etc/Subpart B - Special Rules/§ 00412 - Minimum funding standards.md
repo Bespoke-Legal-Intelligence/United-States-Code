@@ -126,7 +126,7 @@
 
 #### (B) Special rule if employer is member of controlled group
 
-&emsp;&emsp;In the case of a defined benefit plan which is not a multiemployer plan, if an employer is a member of a controlled group, the temporary substantial business hardship requirements of paragraph (1) shall be treated as met only if such requirements are met—
+&emsp;&emsp;In the case of a defined benefit plan which is not a multiemployer plan, if an employeris a member of a controlled group, the temporary substantial business hardship requirements of paragraph (1) shall be treated as met only if such requirements are met—
 
 &emsp;&emsp;&emsp;(i) with respect to such employer, and
 
@@ -138,7 +138,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall, before granting a waiver under this subsection, require eachapplicant to provide evidence satisfactory to the Secretary that the applicant has provided notice of the filing of the application for such waiver to each affected party (as defined in section 4001(a)(21) of the Employee Retirement Income Security Act of 1974). Such notice shall include a description of the extent to which the plan is funded for benefits which are guaranteed under title IV of the Employee Retirement Income Security Act of 1974 and for benefit liabilities.
+&emsp;&emsp;The Secretary shall, before granting a waiver under this subsection, require each applicant to provide evidence satisfactory to the Secretary that the applicant has provided notice of the filing of the application for such waiver to each affected party (as defined in section 4001(a)(21) of the Employee Retirement Income Security Act of 1974). Such notice shall include a description of the extent to which the plan is funded for benefits which are guaranteed under title IV of the Employee Retirement Income Security Act of 1974 and for benefit liabilities.
 
 #### (B) Consideration of relevant information
 
@@ -246,7 +246,7 @@ The effective date of this section, referred to in subsec. (e)(1), probably mean
 
 #### Amendments
 
-2008—Subsec. (b)(3). Pub. L. 110–458, §102(b)(2)(H), substituted “the plan sponsor adopts” for “the plan adopts”.
+<b>2008</b>—Subsec. (b)(3). Pub. L. 110–458, §102(b)(2)(H), substituted “the plan sponsor adopts” for “the plan adopts”.
 
 Subsec. (c)(1)(A)(i). Pub. L. 110–458, §101(a)(2)(A), substituted “the plan are” for “the plan is”.
 
@@ -254,7 +254,7 @@ Subsec. (c)(7)(A). Pub. L. 110–458, §101(a)(2)(B), inserted “which reduces 
 
 Subsec. (d)(1). Pub. L. 110–458, §101(a)(2)(C), struck out “, the valuation date,” after “If the funding method”.
 
-2006—Pub. L. 109–280, §111(a), reenacted heading without change and amended text generally, substituting provisions relating to minimum funding standard requirement, liability for contributions, variance from minimum funding standards, miscellaneous rules, and plans to which section applies, consisting of subsecs. (a) to (e), for provisions relating to general rule for satisfaction of minimum funding standard, funding standard account, special rules, variance from minimum funding standard, extension of amortization periods, requirements relating to waivers and extensions, alternative minimum funding standard, exceptions, certain insurance contract plans, certain terminated multiemployer plans, financial assistance, additional funding requirements for plans which are not multiemployer plans, quarterly contributions requirement, and imposition of lien where failure to make required contributions, consisting of subsecs. (a) to (n).
+<b>2006</b>—Pub. L. 109–280, §111(a), reenacted heading without change and amended text generally, substituting provisions relating to minimum funding standard requirement, liability for contributions, variance from minimum funding standards, miscellaneous rules, and plans to which section applies, consisting of subsecs. (a) to (e), for provisions relating to general rule for satisfaction of minimum funding standard, funding standard account, special rules, variance from minimum funding standard, extension of amortization periods, requirements relating to waivers and extensions, alternative minimum funding standard, exceptions, certain insurance contract plans, certain terminated multiemployerplans, financial assistance, additional funding requirements for plans which are not multiemployer plans, quarterly contributions requirement, and imposition of lien where failure to make required contributions, consisting of subsecs. (a) to (n).
 
 Subsec. (b)(3). Pub. L. 109–280, §§212(c), 221(c), temporarily added par. (3). See Effective and Termination Dates of 2006 Amendment note below.
 
@@ -262,9 +262,9 @@ Subsec. (b)(5)(B)(ii)(II). Pub. L. 109–280, §301(b)(1), substituted “, 200
 
 Subsec. (<i>l</i>)(7)(C)(i)(IV). Pub. L. 109–280, §301(b)(2), substituted “, 2005, 2006, and 2007” for “and 2005” in heading and “, 2005, 2006, or 2007” for “or 2005” in text.
 
-2005—Subsec. (m)(4)(B)(i). Pub. L. 109–135 substituted “subsection (d)” for “subsection (c)”.
+<b>2005</b>—Subsec. (m)(4)(B)(i). Pub. L. 109–135 substituted “subsection (d)” for “subsection (c)”.
 
-2004—Subsec. (b)(5)(B)(ii)(I). Pub. L. 108–218, §101(b)(1)(C), inserted “or (III)” after “subclause (II)”.
+<b>2004</b>—Subsec. (b)(5)(B)(ii)(I). Pub. L. 108–218, §101(b)(1)(C), inserted “or (III)” after “subclause (II)”.
 
 Subsec. (b)(5)(B)(ii)(II), (III). Pub. L. 108–218, §101(b)(1)(A), (B), added subcl. (II), redesignated former subcl. (II) as (III), and, in subcl. (III), inserted “or (II)” after “permissible under subclause (I)” and substituted “such subclause” for “subclause (I)” before period at end.
 
@@ -276,7 +276,7 @@ Subsec. (<i>l</i>)(12). Pub. L. 108–218, §102(b), added par. (12).
 
 Subsec. (m)(7). Pub. L. 108–218, §101(b)(3), amended heading and text of par. (7) generally, substituting provisions relating to special rule for 2002 for provisions relating to special rules for 2002 and 2004.
 
-2002—Subsec. (c)(9)(B)(ii). Pub. L. 107–147, §411(v)(1)(A), substituted “100 percent” for “125 percent”.
+<b>2002</b>—Subsec. (c)(9)(B)(ii). Pub. L. 107–147, §411(v)(1)(A), substituted “100 percent” for “125 percent”.
 
 Subsec. (c)(9)(B)(iv). Pub. L. 107–147, §411(v)(1)(B), added cl. (iv).
 
@@ -284,13 +284,13 @@ Subsec. (<i>l</i>)(7)(C)(i)(III). Pub. L. 107–147, §405(a)(1), added subcl. (
 
 Subsec. (m)(7). Pub. L. 107–147, §405(a)(2), added par. (7).
 
-2001—Subsec. (c)(7)(A)(i)(I). Pub. L. 107–16, §651(a)(1), substituted “in the case of plan years beginning before January 1, 2004, the applicable percentage” for “the applicable percentage”.
+<b>2001</b>—Subsec. (c)(7)(A)(i)(I). Pub. L. 107–16, §651(a)(1), substituted “in the case of plan years beginning before January 1, 2004, the applicable percentage” for “the applicable percentage”.
 
 Subsec. (c)(7)(F). Pub. L. 107–16, §651(a)(2), reenacted heading and introductory provisions without change and amended table generally, substituting present provisions for provisions which had set out applicable percentage of 155 in the case of any plan year beginning in 1999 or 2000, 160 in the case of any plan year beginning in 2001 or 2002, 165 in the case of any plan year beginning in 2003 or 2004, and 170 in the case of any plan year beginning in 2005 and succeeding years.
 
 Subsec. (c)(9). Pub. L. 107–16, §661(a), reenacted heading without change and amended text of par. (9) generally. Prior to amendment, text read as follows: “For purposes of this section, a determination of experience gains and losses and a valuation of the plan's liability shall be made not less frequently than once every year, except that such determination shall be made more frequently to the extent required in particular cases under regulations prescribed by the Secretary.”
 
-1997—Subsec. (b)(2)(E). Pub. L. 105–34, §1521(c)(1), added subpar. (E).
+<b>1997</b>—Subsec. (b)(2)(E). Pub. L. 105–34, §1521(c)(1), added subpar. (E).
 
 Subsec. (c)(7)(A)(i)(I). Pub. L. 105–34, §1521(a)(A), substituted “the applicable percentage” for “150 percent”.
 
@@ -300,7 +300,7 @@ Subsec. (c)(7)(F). Pub. L. 105–34, §1521(a)(B), added subpar. (F).
 
 Subsec. (m)(5)(E)(ii)(II). Pub. L. 105–34, §1604(b)(2)(A), substituted “subclause (I)” for “clause (i)”.
 
-1994—Subsec. (c)(5). Pub. L. 103–465, §752(a), designated existing provisions as subpar. (A), inserted subpar. heading, and added subpar. (B).
+<b>1994</b>—Subsec. (c)(5). Pub. L. 103–465, §752(a), designated existing provisions as subpar. (A), inserted subpar. heading, and added subpar. (B).
 
 Subsec. (c)(7)(A)(i)(I). Pub. L. 103–465, §751(a)(10)(A), inserted “(including the expected increase in current liability due to benefits accruing during the plan year)” after “current liability”.
 
@@ -362,7 +362,7 @@ Subsec. (n)(3). Pub. L. 103–465, §768(a)(2), reenacted par. (3) heading witho
 
 Subsec. (n)(4)(B). Pub. L. 103–465, §768(a)(3), struck out “60th day following the” before “due date”.
 
-1989—Subsec. (b)(5)(B)(iii). Pub. L. 101–239, §7881(d)(1)(A), struck out “for purposes of this section and for purposes of determining current liability,” before “the interest rate” in introductory provisions.
+<b>1989</b>—Subsec. (b)(5)(B)(iii). Pub. L. 101–239, §7881(d)(1)(A), struck out “for purposes of this section and for purposes of determining current liability,” before “the interest rate” in introductory provisions.
 
 Subsec. (c)(9). Pub. L. 101–239, §7881(a)(6)(A), substituted “Annual” for “3-year” in heading and “every year” for “every 3 years” in text.
 
@@ -402,9 +402,9 @@ Subsec. (m)(4)(D). Pub. L. 101–239, §7881(b)(4)(A), amended subpar. (D) gener
 
 &emsp;&emsp;“(II) 25 percent of the amount determined under subsection (<i>l</i>)(5)(A)(ii) for the plan year.”
 
-1988—Subsec. (<i>l</i>)(3)(C)(i), (iii). Pub. L. 100–647, §2005(a)(2)(A), (d)(1), amended cl. (i) identically, substituting “October 29” for “October 17” and amended cl. (iii) identically, substituting “October 28” for “October 16”.
+<b>1988</b>—Subsec. (<i>l</i>)(3)(C)(i), (iii). Pub. L. 100–647, §2005(a)(2)(A), (d)(1), amended cl. (i) identically, substituting “October 29” for “October 17” and amended cl. (iii) identically, substituting “October 28” for “October 16”.
 
-1987—Subsec. (b)(2). Pub. L. 100–203, §9303(a)(2), inserted at end “For additional requirements in the case of plans other than multiemployer plans, see subsection (<i>l</i>).”
+<b>1987</b>—Subsec. (b)(2). Pub. L. 100–203, §9303(a)(2), inserted at end “For additional requirements in the case of plans other than multiemployer plans, see subsection (<i>l</i>).”
 
 Subsec. (b)(2)(B)(iv). Pub. L. 100–203, §9307(a)(1)(A), substituted “5 plan years (15 plan years in the case of a multiemployer plan)” for “15 plan years”.
 
@@ -454,7 +454,7 @@ Subsec. (m). Pub. L. 100–203, §9304(b)(1), added subsec. (m).
 
 Subsec. (n). Pub. L. 100–203, §9304(e)(1), added subsec. (n).
 
-1986—Subsec. (d)(1). Pub. L. 99–272, §11015(b)(2)(A), inserted provision that the interest rate used for purposes of computing the amortization charge described in section 412(b)(2)(C) for a variance granted under this subsection be the rate determined under section 6621(b).
+<b>1986</b>—Subsec. (d)(1). Pub. L. 99–272, §11015(b)(2)(A), inserted provision that the interest rate used for purposes of computing the amortization charge described in section 412(b)(2)(C) for a variance granted under this subsection be the rate determined under section 6621(b).
 
 Subsec. (e). Pub. L. 99–272, §11015(b)(2)(B), inserted provision that the interest rate applicable under any arrangement entered into by the Secretary in connection with an extension granted under this subsection be the rate determined under section 6621(b).
 
@@ -462,15 +462,15 @@ Subsec. (f). Pub. L. 99–272, §11015(a)(2), substituted in heading “Requirem
 
 Pub. L. 99–272, §11016(c)(4), added par. (4).
 
-1984—Subsec. (a)(2). Pub. L. 98–369 struck out “or 405(a)” after “section 403(a)”.
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–369 struck out “or 405(a)” after “section 403(a)”.
 
-1980—Subsec. (a). Pub. L. 96–364, §208(c), inserted provisions relating to plan years where multiemployer plan is in reorganization.
+<b>1980</b>—Subsec. (a). Pub. L. 96–364, §208(c), inserted provisions relating to plan years where multiemployer plan is in reorganization.
 
 Subsec. (b). Pub. L. 96–364, §203(1), (2), struck out in pars. (2)(B)(ii), (iii), and (3)(B)(i) provisions respecting applicability of multiemployer plans with 40 plan years and in pars. (2)(B)(iv) and (3)(B)(ii) provisions respecting applicability of multiemployer plans with 20 year plans and added pars. (6) and (7).
 
 Subsecs. (j), (k). Pub. L. 96–364, §203(3), added subsecs. (j) and (k).
 
-1976—Subsecs. (a) to (d). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (a) to (d). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (h). Pub. L. 94–455, §1901(a)(63), substituted reference to Sept. 2, 1974, for reference to the date of enactment of the Employee Retirement Income Security Act of 1974 in par. (5) and substituted reference to Sept. 1, 1974, for reference to the day before the date of enactment of the Employee Retirement Income Security Act of 1974 in the provisions following par. (6).
 
@@ -516,7 +516,7 @@ Funding improvement and rehabilitation plans.—If a plan is operating under a f
 
 #### Effective Date of 2004 Amendment
 
-Amendment by section 101(b)(1)–(3) of Pub. L. 108–218 applicable, except as otherwise provided, to plan years beginning after Dec. 31, 2003, see section 101(d) of Pub. L. 108–218, set out as a note under section 404 of this title.
+Amendment by section 101(b)(1)–(3) of Pub. L. 108–218 applicable, except as otherwise provided, to plan yearsbeginning after Dec. 31, 2003, see section 101(d) of Pub. L. 108–218, set out as a note under section 404 of this title.
 
 #### Effective Date of 2002 Amendment
 
@@ -736,7 +736,7 @@ Change in Actuarial Method.—Any amortization installments for bases establishe
 
 \[Pub. L. 109–280, title I, §115(e)(2), Aug. 17, 2006, 120 Stat. 856, provided that: “The amendment made by paragraph (1) \[amending section 769 of Pub. L. 103–465, set out above\] shall take effect on December 31, 2007, and shall apply to plan years beginning after such date.”\]
 
-\[Pub. L. 108–218, title II, §201(b), Apr. 10, 2004, 118 Stat. 608, provided that: “The amendments made by this section \[amending section 769 of Pub. L. 103–465, setout above\] shall apply to plan years beginning after December 31, 2003.”\]
+\[Pub. L. 108–218, title II, §201(b), Apr. 10, 2004, 118 Stat. 608, provided that: “The amendments made by this section \[amending section 769 of Pub. L. 103–465, set out above\] shall apply to plan years beginning after December 31, 2003.”\]
 
 \[Section 1508(b) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending section 769 of Pub. L. 103–465, set out above\] shall apply to plan years beginning after December 31, 1996.”\]
 
@@ -744,7 +744,7 @@ Pub. L. 100–203, title IX, §9303(c), Dec. 22, 1987, 101 Stat. 1330–342, pro
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
 
 #### Special Rule for Certain Benefits Funded Under an Agreement Approved by the Pension Benefit Guaranty Corporation
 

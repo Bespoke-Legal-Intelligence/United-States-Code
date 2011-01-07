@@ -20,19 +20,19 @@ There are authorized to be appropriated to the President such sums as may be nec
 
 #### Amendments
 
-1985—Subsec. (a). Pub. L. 99–83, §105(a), amended subsec. (a) generally, substituting provisions authorizing appropriations of $37,000,000 for fiscal years 1986 and 1987, for provisions authorizing appropriations of $19,000,000 for fiscal years 1982 and 1983.
+<b>1985</b>—Subsec. (a). Pub. L. 99–83, §105(a), amended subsec. (a) generally, substituting provisions authorizing appropriations of $37,000,000 for fiscal years 1986 and 1987, for provisions authorizing appropriations of $19,000,000 for fiscal years 1982 and 1983.
 
 Subsec. (c). Pub. L. 99–83, §105(b)(1)(A), (B), designated existing provisions as cl. (1) and added cl. (2).
 
 Subsec. (d). Pub. L. 99–83, §105(b)(1)(C), added subsec. (d).
 
-1981—Subsec. (a). Pub. L. 97–113, §114(a), substituted “$19,000,000 for the fiscal year 1982 and $19,000,000 for the fiscal year 1983” for “$25,000,000 for the fiscal year 1981”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–113, §114(a), substituted “$19,000,000 for the fiscal year 1982 and $19,000,000 for the fiscal year 1983” for “$25,000,000 for the fiscal year 1981”.
 
 Subsec. (b). Pub. L. 97–113, §114(b), increased to $15,000,000 from $10,000,000 amount of funds authorized to be transferred in any fiscal year and deleted restriction on transfer of earmarked funds.
 
-1980—Subsec. (a). Pub. L. 96–533 substituted “$25,000,000 for the fiscal year 1981” for “$21,100,000 for the fiscal year 1980”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–533 substituted “$25,000,000 for the fiscal year 1981” for “$21,100,000 for the fiscal year 1980”.
 
-1979—Subsec. (a). Pub. L. 96–92, §10(a), substituted “$21,100,000 for the fiscal year 1980” for “$30,900,000 for the fiscal year 1979”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–92, §10(a), substituted “$21,100,000 for the fiscal year 1980” for “$30,900,000 for the fiscal year 1979”.
 
 Subsec. (c). Pub. L. 96–92, §10(c), added subsec. (c).
 

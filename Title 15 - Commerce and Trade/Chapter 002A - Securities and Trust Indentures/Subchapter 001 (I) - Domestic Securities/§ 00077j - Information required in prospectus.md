@@ -36,9 +36,9 @@ In any case where a prospectus consists of a radio or television broadcast, copi
 
 #### Amendments
 
-1954—Act Aug. 10, 1954, complemented changes in section 77e of this title by act Aug. 10, 1954, permitted offering activities in the waiting period and in so doing rearranged the sequence of the subsections, added new text contained in subsec. (b), and renumbered subsecs. (c) and (d) as (e) and (f), respectively.
+<b>1954</b>—Act Aug. 10, 1954, complemented changes in section 77e of this title by act Aug. 10, 1954, permitted offering activities in the waiting period and in so doing rearranged the sequence of the subsections, added new text contained in subsec. (b), and renumbered subsecs. (c) and (d) as (e) and (f), respectively.
 
-1934—Subsec. (b)(1). Act June 6, 1934, amended par. (1).
+<b>1934</b>—Subsec. (b)(1). Act June 6, 1934, amended par. (1).
 
 #### Effective Date of 1954 Amendment
 

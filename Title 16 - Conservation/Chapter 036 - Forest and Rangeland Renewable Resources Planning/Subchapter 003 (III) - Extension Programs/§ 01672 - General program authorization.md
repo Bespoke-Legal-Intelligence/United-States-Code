@@ -44,9 +44,9 @@ Act of October 10, 1962 (76 Stat. 806–807, as amended), referred to in subsec.
 
 #### Amendments
 
-1991—Subsec. (a)(8) to (10). Pub. L. 102–237 struck out “and” at end of par. (8), substituted “; and” for period at end of par. (9), and redesignated par. (9), relating to education program, as (10).
+<b>1991</b>—Subsec. (a)(8) to (10). Pub. L. 102–237 struck out “and” at end of par. (8), substituted “; and” for period at end of par. (9), and redesignated par. (9), relating to education program, as (10).
 
-1990—Subsec. (a)(9). Pub. L. 101–624, §1251(b), added par. (9) relating to education programs for landowners, managers, public officials, and the public.
+<b>1990</b>—Subsec. (a)(9). Pub. L. 101–624, §1251(b), added par. (9) relating to education programs for landowners, managers, public officials, and the public.
 
 Pub. L. 101–624, §1219(b)(1), added par. (9) relating to promotion of public understanding of energy conservation, economic, social, environmental, and psychological values of trees and open space in urban and community environments.
 

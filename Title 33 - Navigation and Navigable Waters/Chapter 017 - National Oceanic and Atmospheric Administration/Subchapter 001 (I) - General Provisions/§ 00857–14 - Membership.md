@@ -16,7 +16,7 @@ The members of the Committee, who may not be full-time officers or employees of 
 
 #### (c) Chairman
 
-The President shall designate one of the members of the Committee as the Chairman and oneof the members as the Vice Chairman. The Vice Chairman shall act as Chairman in the absence or incapacity of, or in the event of a vacancy in the office of, the Chairman.
+The President shall designate one of the members of the Committee as the Chairman and one of the members as the Vice Chairman. The Vice Chairman shall act as Chairman in the absence or incapacity of, or in the event of a vacancy in the office of, the Chairman.
 
 #### (d) Duties
 
@@ -34,11 +34,11 @@ Provisions similar to those contained in this section, which related to membersh
 
 #### Amendments
 
-1981—Subsec. (b)(2). Pub. L. 97–87 struck out “, or until ninety days after such date, whichever is earlier” after “until his or her successor has taken office”.
+<b>1981</b>—Subsec. (b)(2). Pub. L. 97–87 struck out “, or until ninety days after such date, whichever is earlier” after “until his or her successor has taken office”.
 
-1978—Subsec. (b)(1). Pub. L. 95–304 substituted provisions authorizing terms of members to expire on July 1, 1979, July 1, 1980, and July 1, 1981, respectively, for provisions authorizing terms of members to be for 1 year, 2 years, and 3 years, respectively.
+<b>1978</b>—Subsec. (b)(1). Pub. L. 95–304 substituted provisions authorizing terms of members to expire on July 1, 1979, July 1, 1980, and July 1, 1981, respectively, for provisions authorizing terms of members to be for 1 year, 2 years, and 3 years, respectively.
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

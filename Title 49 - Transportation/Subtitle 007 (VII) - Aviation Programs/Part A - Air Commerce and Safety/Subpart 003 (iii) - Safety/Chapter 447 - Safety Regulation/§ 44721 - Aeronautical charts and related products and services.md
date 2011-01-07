@@ -6,7 +6,7 @@ Publication.—
 
 &emsp;(1)
 
-In general.—The Administrator of the Federal Aviation Administration may arrange for the publication of aeronautical maps andcharts necessary for the safe and efficient movement of aircraft in air navigation, using the facilities and assistance of departments, agencies, and instrumentalities of the United States Government as far as practicable.
+In general.—The Administrator of the Federal Aviation Administration may arrange for the publication of aeronautical maps and charts necessary for the safe and efficient movement of aircraft in air navigation, using the facilities and assistance of departments, agencies, and instrumentalities of the United States Government as far as practicable.
 
 &emsp;(2)
 
@@ -88,7 +88,7 @@ Costs attributable to acquisition of aeronautical data.—A price established un
 
 &emsp;&emsp;(D)
 
-Continuation of prices.—The price of any product created under subsection (d) may correspond to the price of a comparable product produced by a department of the United States Government as that price was in effect on September 30, 2000, and may remain in effect until modified by regulationunder section 9701 of title 31, United States Code.
+Continuation of prices.—The price of any product created under subsection (d) may correspond to the price of a comparable product produced by a department of the United States Government as that price was in effect on September 30, 2000, and may remain in effect until modified by regulation under section 9701 of title 31, United States Code.
 
 &emsp;(2)
 
@@ -158,7 +158,7 @@ Sections 1 through 9 of the Act entitled “An Act to define the functions and d
 
 #### Amendments
 
-2000—Pub. L. 106–181 amended section catchline and text generally. Prior to amendment, text read as follows:
+<b>2000</b>—Pub. L. 106–181 amended section catchline and text generally. Prior to amendment, text read as follows:
 
 “(a)
 

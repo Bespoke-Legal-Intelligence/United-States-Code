@@ -76,7 +76,7 @@ For purposes of this part and part C of this subchapter, the term “standard pr
 
 #### (A) 25 percent coinsurance
 
-&emsp;&emsp;The coverage has coinsurance (for costs above the annual deductible specified in paragraph (1) and up to the initial coverage limit under paragraph (3)) that is—
+&emsp;&emsp;Subject to subparagraphs (C) and (D), the coverage has coinsurance (for costs above the annual deductible specified in paragraph (1) and up to the initial coverage limit under paragraph (3)) that is—
 
 &emsp;&emsp;&emsp;(i) equal to 25 percent; or
 
@@ -84,13 +84,59 @@ For purposes of this part and part C of this subchapter, the term “standard pr
 
 #### (B) Use of tiers
 
-&emsp;&emsp;Nothing in this part shall be construed as preventing a PDP sponsor or an MA organization from applying tiered copayments under a plan, so long as such tiered copayments are consistent with subparagraph (A)(ii).
+&emsp;&emsp;Nothing in this part shall be construed as preventing a PDP sponsor or an MA organization from applying tiered copayments under a plan, so long as such tiered copayments are consistent with subparagraphs (A)(ii), (C), and (D).
+
+#### (C) Coverage for generic drugs in coverage gap
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Except as provided in paragraph (4), the coverage for an applicable beneficiary (as defined in section 1395w–114a(g)(1) of this title) has coinsurance (for costs above the initial coverage limit under paragraph (3) and below the out-of-pocket threshold) for covered part D drugs that are not applicable drugs under section 1395w–114a(g)(2) of this title that is—
+
+&emsp;&emsp;&emsp;&emsp;(I) equal to the generic-gap coinsurance percentage (specified in clause (ii)) for the year; or
+
+&emsp;&emsp;&emsp;&emsp;(II) actuarially equivalent (using processes and methods established under section 1395w–111(c) of this title) to an average expected payment of such percentage of such costs for covered part D drugs that are not applicable drugs under section 1395w–114a(g)(2) of this title.
+
+#### (ii) Generic-gap coinsurance percentage
+
+&emsp;&emsp;&emsp;The generic-gap coinsurance percentage specified in this clause for—
+
+&emsp;&emsp;&emsp;&emsp;(I) 2011 is 93 percent;
+
+&emsp;&emsp;&emsp;&emsp;(II) 2012 and each succeeding year before 2020 is the generic-gap coinsurance percentage under this clause for the previous year decreased by 7 percentage points; and
+
+&emsp;&emsp;&emsp;&emsp;(III) 2020 and each subsequent year is 25 percent.
+
+#### (D) Coverage for applicable drugs in coverage gap
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Except as provided in paragraph (4), the coverage for an applicable beneficiary (as defined in section 1395w–114a(g)(1) of this title) has coinsurance (for costs above the initial coverage limit under paragraph (3) and below the out-of-pocket threshold) for the negotiated price (as defined in section 1395w–114a(g)(6) of this title) of covered part D drugs that are applicable drugs under section 1395w–114a(g)(2) of this title that is—
+
+&emsp;&emsp;&emsp;&emsp;(I) equal to the difference between the applicable gap percentage (specified in clause (ii) for the year) and the discount percentage specified in section 1395w–114a(g)(4)(A) of this title for such applicable drugs; or
+
+&emsp;&emsp;&emsp;&emsp;(II) actuarially equivalent (using processes and methods established under section 1395w–111(c) of this title) to an average expected payment of such percentage of such costs, for covered part D drugs that are applicable drugs under section 1395w–114a(g)(2) of this title.
+
+#### (ii) Applicable gap percentage
+
+&emsp;&emsp;&emsp;The applicable gap percentage specified in this clause for—
+
+&emsp;&emsp;&emsp;&emsp;(I) 2013 and 2014 is 97.5 percent;
+
+&emsp;&emsp;&emsp;&emsp;(II) 2015 and 2016 is 95 percent;
+
+&emsp;&emsp;&emsp;&emsp;(III) 2017 is 90 percent;
+
+&emsp;&emsp;&emsp;&emsp;(IV) 2018 is 85 percent;
+
+&emsp;&emsp;&emsp;&emsp;(V) 2019 is 80 percent; and
+
+&emsp;&emsp;&emsp;&emsp;(VI) 2020 and each subsequent year is 75 percent.
 
 #### (3) Initial coverage limit
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in paragraph (4), the coverage has an initial coverage limit on the maximum costs that may be recognized for payment purposes (including the annual deductible)—
+&emsp;&emsp;Except as provided in paragraphs (2)(C), (2)(D), and (4), the coverage has an initial coverage limit on the maximum costs that may be recognized for payment purposes (including the annual deductible)—
 
 &emsp;&emsp;&emsp;(i) for 2006, that is equal to $2,250; or
 
@@ -122,9 +168,21 @@ For purposes of this part and part C of this subchapter, the term “standard pr
 
 &emsp;&emsp;&emsp;For purposes of this part, the “annual out-of-pocket threshold” specified in this subparagraph—
 
-&emsp;&emsp;&emsp;&emsp;(I) for 2006, is equal to $3,600; or
+&emsp;&emsp;&emsp;&emsp;(I) for 2006, is equal to $3,600;
 
-&emsp;&emsp;&emsp;&emsp;(II) for a subsequent year, is equal to the amount specified in this subparagraph for the previous year, increased by the annual percentage increase described in paragraph (6) for the year involved.
+&emsp;&emsp;&emsp;&emsp;(II) for each of years 2007 through 2013, is equal to the amount specified in this subparagraph for the previous year, increased by the annual percentage increase described in paragraph (6) for the year involved;
+
+&emsp;&emsp;&emsp;&emsp;(III) for 2014 and 2015, is equal to the amount specified in this subparagraph for the previous year, increased by the annual percentage increase described in paragraph (6) for the year involved, minus 0.25 percentage point;
+
+&emsp;&emsp;&emsp;&emsp;(IV) for each of years 2016 through 2019, is equal to the amount specified in this subparagraph for the previous year, increased by the lesser of—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the annual percentage increase described in paragraph (7) for the year involved, plus 2 percentage points; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the annual percentage increase described in paragraph (6) for the year;
+
+&emsp;&emsp;&emsp;&emsp;(V) for 2020, is equal to the amount that would have been applied under this subparagraph for 2020 if the amendments made by section 1101(d)(1) of the Health Care and Education Reconciliation Act of 2010 had not been enacted; or
+
+&emsp;&emsp;&emsp;&emsp;(VI) for a subsequent year, is equal to the amount specified in this subparagraph for the previous year, increased by the annual percentage increase described in paragraph (6) for the year involved.
 
 #### (ii) Rounding
 
@@ -132,11 +190,21 @@ For purposes of this part and part C of this subchapter, the term “standard pr
 
 #### (C) Application
 
-&emsp;&emsp;In applying subparagraph (A)—
+&emsp;&emsp;Except as provided in subparagraph (E), in applying subparagraph (A)—
 
-&emsp;&emsp;&emsp;(i) incurred costs shall only include costs incurred with respect to covered part D drugs for the annual deductible described in paragraph (1), for cost-sharing described in paragraph (2), and for amounts for which benefits are not provided because of the application of the initial coverage limit described in paragraph (3), but does not include any costs incurred for covered part D drugs which are not included (or treated as being included) in the plan's formulary; and
+&emsp;&emsp;&emsp;(i) incurred costs shall only include costs incurred with respect to covered part D drugs for the annual deductible described in paragraph (1), for cost-sharing described in paragraph (2), and for amounts for which benefits are not provided because of the application of the initial coverage limit described in paragraph (3), but does not include any costs incurred for covered part D drugs which are not included (or treated as being included) in the plan's formulary;
 
-&emsp;&emsp;&emsp;(ii) such costs shall be treated as incurred only if they are paid by the part D eligible individual (or by another person, such as a family member, on behalf of the individual), under section 1395w–114 of this title, or under a State Pharmaceutical Assistance Program and the part D eligible individual (or other person) is not reimbursed through insurance or otherwise, a group health plan, or other third-party payment arrangement (other than under such section or such a Program) for such costs.
+&emsp;&emsp;&emsp;(ii) subject to clause (iii), such costs shall be treated as incurred only if they are paid by the part D eligible individual (or by another person, such as a family member, on behalf of the individual) and the part D eligible individual (or other person) is not reimbursed through insurance or otherwise, a group health plan, or other third-party payment arrangement (other than under such section or such a Program) for such costs; and
+
+&emsp;&emsp;&emsp;(iii) such costs shall be treated as incurred and shall not be considered to be reimbursed under clause (ii) if such costs are borne or paid—
+
+&emsp;&emsp;&emsp;&emsp;(I) under section 1395w–114 of this title;
+
+&emsp;&emsp;&emsp;&emsp;(II) under a State Pharmaceutical Assistance Program;
+
+&emsp;&emsp;&emsp;&emsp;(III) by the Indian Health Service, an Indian tribe or tribal organization, or an urban Indian organization (as defined in section 1603 of title 25); or
+
+&emsp;&emsp;&emsp;&emsp;(IV) under an AIDS Drug Assistance Program under part B of title XXVI of the Public Health Service Act \[42 U.S.C. 300ff–21 et seq.\].
 
 #### (D) Information regarding third-party reimbursement
 
@@ -152,6 +220,10 @@ For purposes of this part and part C of this subchapter, the term “standard pr
 
 &emsp;&emsp;&emsp;A PDP sponsor or an MA organization may periodically ask part D eligible individuals enrolled in a prescription drug plan or an MA–PD plan offered by the sponsor or organization whether such individuals have or expect to receive such third-party reimbursement. A material misrepresentation of the information described in the preceding sentence by an individual (as defined in standards set by the Secretary and determined through a process established by the Secretary) shall constitute grounds for termination of enrollment in any plan under section 1395w–21(g)(3)(B) of this title (and as applied under this part under section 1395w–101(b)(1)(B)(v) of this title) for a period specified by the Secretary.
 
+#### (E) Inclusion of costs of applicable drugs under medicare coverage gap discount program
+
+&emsp;&emsp;In applying subparagraph (A), incurred costs shall include the negotiated price (as defined in paragraph (6) of section 1395w–114a(g) of this title) of an applicable drug (as defined in paragraph (2) of such section) of a manufacturer that is furnished to an applicable beneficiary (as defined in paragraph (1) of such section) under the Medicare coverage gap discount program under section 1395w–114a of this title, regardless of whether part of such costs were paid by a manufacturer under such program, except that incurred costs shall not include the portion of the negotiated price that represents the reduction in coinsurance resulting from the application of paragraph (2)(D).
+
 #### (5) Construction
 
 &emsp;Nothing in this part shall be construed as preventing a PDP sponsor or an MA organization offering an MA–PD plan from reducing to zero the cost-sharing otherwise applicable to preferred or generic drugs.
@@ -159,6 +231,10 @@ For purposes of this part and part C of this subchapter, the term “standard pr
 #### (6) Annual percentage increase
 
 &emsp;The annual percentage increase specified in this paragraph for a year is equal to the annual percentage increase in average per capita aggregate expenditures for covered part D drugs in the United States for part D eligible individuals, as determined by the Secretary for the 12-month period ending in July of the previous year using such methods as the Secretary shall specify.
+
+#### (7) Additional annual percentage increase
+
+&emsp;The annual percentage increase specified in this paragraph for a year is equal to the annual percentage increase in the consumer price index for all urban consumers (United States city average) for the 12-month period ending in July of the previous year.
 
 #### (c) Alternative prescription drug coverage requirements
 
@@ -204,11 +280,11 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 #### (C) Medicaid-related provisions
 
-&emsp;&emsp;The prices negotiated by a prescription drug plan, by an MA–PD plan with respect to covered part D drugs, or by a qualified retiree prescription drug plan (as defined in section 1395w–132(a)(2) of this title) with respect to such drugs on behalf of part D eligible individuals, shall (notwithstanding any other provision of law) not be taken into account for the purposes of establishing the best price under section 1395r–8(c)(1)(C) of this title.
+&emsp;&emsp;The prices negotiated by a prescription drug plan, by an MA–PD plan with respect tocovered part D drugs, or by a qualified retiree prescription drug plan (as defined in section 1395w–132(a)(2) of this title) with respect to such drugs on behalf of part D eligible individuals, shall (notwithstanding any other provision of law) not be taken into account for the purposes of establishing the best price under section 1396r–8(c)(1)(C) of this title.
 
 #### (2) Disclosure
 
-&emsp;A PDP sponsor offering a prescription drug plan or an MA organization offering an MA–PD plan shall disclose to the Secretary (ina manner specified by the Secretary) the aggregate negotiated price concessions described in paragraph (1)(B) made available to the sponsor or organization by a manufacturer which are passed through in the form of lower subsidies, lower monthly beneficiary prescription drug premiums, and lower prices through pharmacies and other dispensers. The provisions of section 1396r–8(b)(3)(D) of this title apply to information disclosed to the Secretary under this paragraph.
+&emsp;A PDP sponsor offering a prescription drug plan or an MA organization offering an MA–PD plan shall disclose to the Secretary (in a manner specified by the Secretary) the aggregate negotiated price concessions described in paragraph (1)(B) made available to the sponsor or organization by a manufacturer which are passed through in the form of lower subsidies, lower monthly beneficiary prescription drug premiums, and lower prices through pharmacies and other dispensers. The provisions of section 1396r–8(b)(3)(D) of this title apply to information disclosed to the Secretary under this paragraph.
 
 #### (3) Audits
 
@@ -266,29 +342,87 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 #### (C) Update
 
-&emsp;&emsp;For purposes of applying subparagraph (A)(ii), the Secretary shall revise the list of compendia described in section 1396r–8(g)(1)(B)(i) of this title as is appropriate for identifying medically accepted indications for drugs. Any such revision shall be done in a manner consistent with the process for revising compendia under section 1395x(t)(2)(B) of this title.
+&emsp;&emsp;For purposes of applying subparagraph (A)(ii), the Secretary shall revise the list ofcompendia described in section 1396r–8(g)(1)(B)(i) of this title as is appropriate for identifying medically accepted indications for drugs. Any such revision shall be done in a manner consistent with the process for revising compendia under section 1395x(t)(2)(B) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–2, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2075; amended Pub. L. 109–91, titleI, §103(a), Oct. 20, 2005, 119 Stat. 2092; Pub. L. 109–432, div. B, title II, §202(b), Dec. 20, 2006, 120 Stat. 2986; Pub. L. 110–275, title I, §§175(a), 182(a)(1), July 15, 2008, 122 Stat. 2581, 2583.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–2, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2075; amended Pub. L. 109–91, title I, §103(a), Oct. 20, 2005, 119 Stat. 2092; Pub. L. 109–432, div. B, title II, §202(b), Dec. 20, 2006, 120 Stat. 2986; Pub. L. 110–275, title I, §§175(a), 182(a)(1), July 15, 2008, 122 Stat. 2581, 2583; Pub. L. 111–148, title III, §§3301(c)(1), 3314(a), 3315, Mar. 23, 2010, 124 Stat. 467, 478, 479; Pub. L. 111–152, title I, §1101(a)(2), (b)(3), (d), Mar. 30, 2010, 124 Stat. 1037–1039.)
 
 #### References in Text
 
 Part C of this subchapter, referred to in subsecs. (a)(1), (3), (4) and (b), is classified to section 1395w–21 et seq. of this title.
 
+Section 1101(d)(1) of the Health Care and Education Reconciliation Act of 2010, referred to in subsec. (b)(4)(B)(i)(V), is section 1101(d)(1) of Pub. L. 111–152, which amended this section.
+
+The Public Health Service Act, referred to in subsec. (b)(4)(C)(iii)(IV), is act July 1, 1944, ch. 373, 58 Stat. 682. Part B of title XXVI of the Act is classified generally to part B (§300ff–21 et seq.) of subchapter XXIV of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+
 Parts A and B of this subchapter, referred to in subsec. (e)(2)(B), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
 
 #### Amendments
 
-2008—Subsec. (e)(1). Pub. L. 110–275, §182(a)(1)(A), substituted “(as defined in paragraph (4))” for “(as defined in section 1396r–8(k)(6) of this title)” in concluding provisions.
+<b>2010</b>—Subsec. (b)(2)(A). Pub. L. 111–152, §1101(b)(3)(A), substituted “Subject to subparagraphs (C) and (D), the coverage” for “The coverage”.
+
+Subsec. (b)(2)(B). Pub. L. 111–152, §1101(b)(3)(B), substituted “subparagraphs (A)(ii), (C), and (D)” for “subparagraph (A)(ii)”.
+
+Subsec. (b)(2)(C), (D). Pub. L. 111–152, §1101(b)(3)(C), added subpars. (C) and (D).
+
+Subsec. (b)(3)(A). Pub. L. 111–152, §1101(b)(3)(D), substituted “paragraphs (2)(C), (2)(D), and (4)” for “paragraph (4)”.
+
+Pub. L. 111–148, §3315(1), which directed substitution of “paragraphs (4) and (7)” for “paragraph (4)” in introductory provisions, was repealed by Pub. L. 111–152, §1101(a)(2). See Construction of 2010 Amendment note below.
+
+Subsec. (b)(4)(B)(i)(II) to (VI). Pub. L. 111–152, §1101(d)(1), added subcls. (II) to (V) and redesignated former subcl. (II) as (VI).
+
+Subsec. (b)(4)(C). Pub. L. 111–148, §3314(a), in cl. (ii), substituted “subject to clause (iii), such costs shall be treated as incurred only if” for “such costs shall be treated as incurred only if” and struck out “, under section 1395w–114 of this title, or under a State Pharmaceutical Assistance Program” after “on behalf of the individual),”, and added cl. (iii).
+
+Pub. L. 111–148, §3301(c)(1)(A), substituted “Except as provided in subparagraph (E), in applying” for “In applying” in introductory provisions.
+
+Subsec. (b)(4)(E). Pub. L. 111–152, §1101(b)(3)(E), inserted before period at end “, except that incurred costs shall not include the portion of the negotiated price that represents the reduction in coinsurance resulting from the application of paragraph (2)(D)”.
+
+Pub. L. 111–148, §3301(c)(1)(B), added subpar. (E).
+
+Subsec. (b)(7). Pub. L. 111–152, §1101(d)(2), added par. (7).
+
+Pub. L. 111–148, §3315(2), which directed addition of par. (7), was repealed by Pub. L. 111–152, §1101(a)(2). As enacted, text read as follows:
+
+“(A)
+
+In general.—For the plan year beginning on January 1, 2010, the initial coverage limit described in paragraph (3)(B) otherwise applicable shall be increased by $500.
+
+“(B)
+
+Application.—In applying subparagraph (A)—
+
+&emsp;“(i) except as otherwise provided in this subparagraph, there shall be no change in the premiums, bids, or any other parameters under this part or part C;
+
+&emsp;“(ii) costs that would be treated as incurred costs for purposes of applying paragraph (4) but for the application of subparagraph (A) shall continue to be treated as incurred costs;
+
+&emsp;“(iii) the Secretary shall establish procedures, which may include a reconciliation process, to fully reimburse PDP sponsors with respect to prescription drug plans and MA organizations with respect to MA–PD plans for the reduction in beneficiary cost sharing associated with the application of subparagraph (A);
+
+&emsp;“(iv) the Secretary shall develop an estimate of the additional increased costs attributable to the application of this paragraph for increased drug utilization and financing and administrative costs and shall use such estimate to adjust payments to PDP sponsors with respect to prescription drug plans under this part and MA organizations with respect to MA–PD plans under part C; and
+
+&emsp;“(v) the Secretary shall establish procedures for retroactive reimbursement of part D eligible individuals who are covered under such a plan for costs which are incurred before the date of initial implementation of subparagraph (A) and which would be reimbursed under such a plan if such implementation occurred as of January 1, 2010.
+
+“(C)
+
+No effect on subsequent years.—The increase under subparagraph (A) shall only apply with respect to the plan year beginning on January 1, 2010, and the initial coverage limit for plan years beginning on or after January 1, 2011, shall be determined as if subparagraph (A) had never applied.”
+
+> See Construction of 2010 Amendment note below.
+
+<b>2008</b>—Subsec. (e)(1). Pub. L. 110–275, §182(a)(1)(A), substituted “(as defined in paragraph (4))” for “(as defined in section 1396r–8(k)(6) of this title)” in concluding provisions.
 
 Subsec. (e)(2)(A). Pub. L. 110–275, §175(a), inserted “other than subparagraph (I) of such section (relating to barbiturates) if the barbiturate is used in the treatment of epilepsy, cancer, or a chronic mental health disorder, and other than subparagraph (J) of such section (relating to benzodiazepines),” after “agents),”.
 
 Subsec. (e)(4). Pub. L. 110–275, §182(a)(1)(B), which directed amendment of subsec. (e)(1) in the matter following subpar. (B) by adding par. (4) at the end, was executed by adding par. (4) at end of subsec. (e), to reflect the probable intent of Congress.
 
-2006—Subsec. (e)(1). Pub. L. 109–432 inserted “(and, for vaccines administered on or after January 1, 2008, its administration)” after “section 262 of this title” in concluding provisions.
+<b>2006</b>—Subsec. (e)(1). Pub. L. 109–432 inserted “(and, for vaccines administered on or after January 1, 2008, its administration)” after “section 262 of this title” in concluding provisions.
 
-2005—Subsec. (e)(2)(A). Pub. L. 109–91, §103(a)(2), inserted at end “Such term also does not include a drug when used for the treatment of sexual or erectile dysfunction, unless such drug were used to treat a condition, other than sexual or erectile dysfunction, for which the drug has been approved by the Food and Drug Administration.”
+<b>2005</b>—Subsec. (e)(2)(A). Pub. L. 109–91, §103(a)(2), inserted at end “Such term also does not include a drug when used for the treatment of sexual or erectile dysfunction, unless such drug were used to treat a condition, other than sexual or erectile dysfunction, for which the drug has been approved by the Food and Drug Administration.”
 
 Pub. L. 109–91, §103(a)(1), inserted before period at end “, as such sections were in effect on December 8, 2003”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–148, title III, §3301(c)(2), Mar. 23, 2010, 124 Stat. 468, provided that: “The amendments made by this subsection \[amending this section\] shall apply to costs incurred on or after July 1, 2010.”
+
+Pub. L. 111–148, title III, §3314(b), Mar. 23, 2010, 124 Stat. 479, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to costs incurred on or after January 1, 2011.”
 
 #### Effective Date of 2008 Amendment
 
@@ -299,6 +433,10 @@ Pub. L. 110–275, title I, §182(a)(2), July 15, 2008, 122 Stat. 2583, provided
 #### Effective Date of 2005 Amendment
 
 Pub. L. 109–91, title I, §103(c), Oct. 20, 2005, 119 Stat. 2092, provided that: “The amendment made by subsection (a)(1) \[amending this section\] shall take effect as if included in the enactment of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108–173) and the amendment made by subsection (a)(2) \[amending this section\] shall apply to coverage for drugs dispensed on or after January 1, 2007.”
+
+#### Construction of 2010 Amendment
+
+Pub. L. 111–152, title I, §1101(a)(2), Mar. 30, 2010, 124 Stat. 1037, provided that: “Section 3315 of the Patient Protection and Affordable Care Act \[section 3315 of Pub. L. 111–148, amending this section\] (including the amendments made by such section) is repealed, and any provision of law amended or repealed by such sections \[sic\] is hereby restored or revived as if such section had not been enacted into law.”
 
 #### Construction
 

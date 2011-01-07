@@ -28,7 +28,7 @@ Section is comprised of section 122 of Pub. L. 102–138. Subsec. (d)(2) of sect
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–236, §162(c)(2), struck out “, which is in addition to the positions provided under section 2652 of this title” after “Asian Affairs”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–236, §162(c)(2), struck out “, which is in addition to the positions provided under section 2652 of this title” after “Asian Affairs”.
 
 Subsec. (c). Pub. L. 103–236, §162(c)(1), struck out subsec. (c) which read as follows: “The Assistant Secretary shall have responsibility within the Department of State with respect to India, Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan, Afghanistan, and the Maldives.”
 

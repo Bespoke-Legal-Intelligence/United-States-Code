@@ -38,7 +38,7 @@
 
 #### Amendment of Section
 
-<i>Pub. L. 100–649, §2(f)(2)(C), (E), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 105–277, div. A, §101(h) \[title VI, §649\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, §1(1), (3), Dec. 9, 2003, 117 Stat. 2481, provided that, effective 25 years after the 30th day beginning after Nov. 10, 1988, subsection (a) of this section is amended by striking “and provisions relating to firearms subject to the prohibitions of section 922(p)” in par. (1), striking “, except for provisions relating to firearms subject to the prohibitions of section 922(p),” in par. (2), and striking “except for provisions relating to firearms subject to the prohibitions of section 922(p),” in pars. (3) and (4) and subsection (f) of this section is repealed.</i>
+<i>Pub. L. 100–649, §2(f)(2)(C), (E), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 105–277,</i><i>div. A, §101(h) \[title VI, §649\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, §1(1), (3), Dec. 9, 2003, 117 Stat. 2481, provided that, effective 25 years after the 30th day beginning after Nov. 10, 1988, subsection (a) of this section is amended by striking “and provisions relating to firearms subject to the prohibitions of section 922(p)” in par. (1), striking “, except for provisions relating to firearms subject to the prohibitions of section 922(p),” in par. (2), and striking “except for provisions relating to firearms subject to the prohibitions of section 922(p),” in pars. (3) and (4) and subsection (f) of this section is repealed.</i>
 
 #### References in Text
 
@@ -50,23 +50,23 @@ Section 5845(a) of the Internal Revenue Code of 1986, referred to in subsec. (d)
 
 #### Amendments
 
-2002—Subsecs. (a), (c) to (f). Pub. L. 107–296, which directed amendment of this section by substituting “Attorney General” for “Secretary” wherever appearing, was executed by making the substitution wherever appearing in subsecs. (a)(4) and (c) to (f), by not making the substitution for “Secretary of the Army” in subsec. (a)(2), and by substituting “Attorney General” for “Secretary of the Treasury” in subsec. (a)(3), to reflect the probable intent of Congress.
+<b>2002</b>—Subsecs. (a), (c) to (f). Pub. L. 107–296, which directed amendment of this section by substituting “Attorney General” for “Secretary” wherever appearing, was executed by making the substitution wherever appearing in subsecs. (a)(4) and (c) to (f), by not making the substitution for “Secretary of the Army” in subsec. (a)(2), and by substituting “Attorney General” for “Secretary of the Treasury” in subsec. (a)(3), to reflect the probable intent of Congress.
 
-1996—Subsec. (a)(1). Pub. L. 104–208 inserted “sections 922(d)(9) and 922(g)(9) and” after “except for”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–208 inserted “sections 922(d)(9) and 922(g)(9) and” after “except for”.
 
 Subsec. (a)(2)(A). Pub. L. 104–106 inserted “before the repeal of such section by section 1624(a) of the Corporation for the Promotion of Rifle Practice and Firearms Safety Act” after “section 4308 of title 10”.
 
 Subsec. (a)(5). Pub. L. 104–294 substituted “For the purpose of paragraph (3)” for “For the purpose of paragraphs (3) and (4)”.
 
-1990—Subsec. (a)(1). Pub. L. 101–647, §2203(b), inserted “possession,” before “or importation”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–647, §2203(b), inserted “possession,” before “or importation”.
 
 Subsec. (c). Pub. L. 101–647, §2203(c), substituted “regarding the disability” for “regarding the conviction” and “barred by such disability” for “barred by such conviction” and struck out “by reason of such a conviction” after “incurred under this chapter”.
 
-1988—Subsec. (a). Pub. L. 100–649, §2(c)(1), inserted “, except for provisions relating to firearms subject to the prohibitions of section 922(p),” after “chapter” in pars. (1) to (4).
+<b>1988</b>—Subsec. (a). Pub. L. 100–649, §2(c)(1), inserted “, except for provisions relating to firearms subject to the prohibitions of section 922(p),” after “chapter” in pars. (1) to (4).
 
 Subsec. (f). Pub. L. 100–649, §2(c)(2), added subsec. (f).
 
-1986—Subsec. (c). Pub. L. 99–308, §105(1), substituted “is prohibited from possessing, shipping, transporting, or receiving firearms or ammunition” for “has been convicted of a crime punishable by imprisonment for a term exceeding one year (other than a crime involving the use of a firearm or other weapon or a violation of this chapter or of the National Firearms Act)” and “shipment, transportation, or possession of firearms, and” for “shipment, or possession of firearms and incurred by reason of such conviction, and” and inserted provision that any person whose application for relief has been denied may file for judicial relief of such denial and that the court may admit additional evidence to avoid a miscarriage of justice.
+<b>1986</b>—Subsec. (c). Pub. L. 99–308, §105(1), substituted “is prohibited from possessing, shipping, transporting, or receiving firearms or ammunition” for “has been convicted of a crime punishable by imprisonment for a term exceeding one year (other than a crime involving the use of a firearm or other weapon or a violation of this chapter or of the National Firearms Act)” and “shipment, transportation, or possession of firearms, and” for “shipment, or possession of firearms and incurred by reason of such conviction, and” and inserted provision that any person whose application for relief has been denied may file for judicial relief of such denial and that the court may admit additional evidence to avoid a miscarriage of justice.
 
 Subsec. (d). Pub. L. 99–308, §105(2)(A), (B), (D), in provision preceding par. (1) substituted “shall authorize” for “may authorize” and struck out “the person importing or bringing in the firearm or ammunition establishes to the satisfaction of the Secretary that” after “thereof if”, and in provision following par. (4) substituted “shall permit” for “may permit”.
 
@@ -76,15 +76,15 @@ Subsec. (d)(3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986”
 
 Pub. L. 99–308, §105(2)(C), inserted “except in any case where the Secretary has not authorized the importation of the firearm pursuant to this paragraph, it shall be unlawful to import any frame, receiver, or barrel of such firearm which would be prohibited if assembled”.
 
-1984—Subsec. (e). Pub. L. 98–573 added subsec. (e).
+<b>1984</b>—Subsec. (e). Pub. L. 98–573 added subsec. (e).
 
-1968—Subsec. (a). Pub. L. 90–618 redesignated existing provisions as par. (1), made minor changes in phraseology, and added pars. (2) to (5).
+<b>1968</b>—Subsec. (a). Pub. L. 90–618 redesignated existing provisions as par. (1), made minor changes in phraseology, and added pars. (2) to (5).
 
 Subsec. (b). Pub. L. 90–618 added licensed collectors to the enumerated list of licensees.
 
 Subsec. (c). Pub. L. 90–618 substituted “imposed by Federal laws with respect to the acquisition, receipt, transfer, shipment, or possession of firearms and” for “under this chapter”, “to act in a manner dangerous to public safety” for “to conduct his operations in an unlawful manner,” and “licensed importer, licensed manufacturer, licensed dealer, or licensed collector” for “licensee”.
 
-Subsec. (d). Pub. L. 90–618 made minor changes in phraseology, subjected ammunition to the authority of the Secretary in text preceding par. (1), substituted “section 5845(b)” for “section 5848(2)” in par. (2), substituted “section 5845(a)” for “section 5848(1)” and “excluding surplus military firearms” for “and in the case of surplus military firearms is a rifle or shotgun” in par. (3), inserted “or ammunition” after “the firearm”in par. (4), and authorized the Secretary to permit the importation of ammunition for examination and testing in text following par. (4).
+Subsec. (d). Pub. L. 90–618 made minor changes in phraseology, subjected ammunition to the authority of the Secretary in text preceding par. (1), substituted “section 5845(b)” for “section 5848(2)” in par. (2), substituted “section 5845(a)” for “section 5848(1)” and “excluding surplus military firearms” for “and in the case of surplus military firearms is a rifle or shotgun” in par. (3), inserted “or ammunition” after “the firearm” in par. (4), and authorized the Secretary to permit the importation of ammunition for examination and testing in text following par. (4).
 
 #### Effective Date of 2002 Amendment
 
@@ -108,5 +108,5 @@ Amendment by Pub. L. 98–573 effective 15th day after Oct. 30, 1984, see sectio
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–618 effective Dec. 16, 1968, except subsecs. (a)(1) and (d) effective Oct. 22, 1968, see section 105 of Pub. L. 90–618, set out as a note under section 921 of this title.
+Amendment by Pub. L. 90–618 effective Dec. 16, 1968, except subsecs. (a)(1) and (d) effective Oct. 22, 1968, seesection 105 of Pub. L. 90–618, set out as a note under section 921 of this title.
 

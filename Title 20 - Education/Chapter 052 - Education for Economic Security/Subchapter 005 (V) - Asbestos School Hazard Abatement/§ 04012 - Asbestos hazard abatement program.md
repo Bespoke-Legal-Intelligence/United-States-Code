@@ -2,7 +2,7 @@
 
 #### (a) Abatement program
 
-There is hereby established a program within the Environmental Protection Agency to be known as the Asbestos Hazards Abatement Program (hereinafter in this subchapter referred to as “Program”).
+There is hereby established a program within the Environmental Protection Agency to beknown as the Asbestos Hazards Abatement Program (hereinafter in this subchapter referred to as “Program”).
 
 #### (b) Duties
 
@@ -26,7 +26,7 @@ The duties of the Administrator in implementing and effectuating the Program sha
 
 #### Amendments
 
-1990—Pub. L. 101–637, §14(a)(3), made technical amendment to section catchline.
+<b>1990</b>—Pub. L. 101–637, §14(a)(3), made technical amendment to section catchline.
 
 Subsec. (a). Pub. L. 101–637, §14(b)(3), inserted heading and struck out par. (1) designation before “There is hereby established”.
 

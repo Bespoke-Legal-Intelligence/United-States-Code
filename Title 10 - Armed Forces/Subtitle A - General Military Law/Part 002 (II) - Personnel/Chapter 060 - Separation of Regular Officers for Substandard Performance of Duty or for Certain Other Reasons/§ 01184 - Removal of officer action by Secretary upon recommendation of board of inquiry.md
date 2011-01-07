@@ -6,5 +6,5 @@ The Secretary of the military department concerned may remove an officer from ac
 
 #### Amendments
 
-1998—Pub. L. 105–261 substituted “inquiry” for “review” in section catchline and “board of inquiry convened under section 1182 of this title” for “board of review convened under section 1183 of this title” in text.
+<b>1998</b>—Pub. L. 105–261 substituted “inquiry” for “review” in section catchline and “board of inquiry convened under section 1182 of this title” for “board of review convened under section 1183 of this title” in text.
 

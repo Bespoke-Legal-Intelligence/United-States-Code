@@ -12,7 +12,7 @@
 | [228\.](%C2%A7%2000228%20-%20Quarterly%20reports%20on%20allocation%20of%20funds%20within%20operation%20and%20maintenance%20budget%20subactivities.md) | Quarterly reports on allocation of funds within operation and maintenance budget subactivities. |
 | [229\.](%C2%A7%2000229%20-%20Programs%20for%20combating%20terrorism%20display%20of%20budget%20information.md) | Programs for combating terrorism: display of budget information. |
 | \[230. | Repealed.\] |
-| [231\.](%C2%A7%2000231%20-%20Budgeting%20for%20construction%20of%20naval%20vessels%20annual%20plan%20and%20certification.md) | Budgeting for construction of naval vessels: annual plan and certification. |
+| [231\.](%C2%A7%2000231%20-%20Long-range%20plan%20for%20construction%20of%20naval%20vessels.md) | Long-range plan for construction of naval vessels. |
 | [231a.](%C2%A7%2000231a%20-%20Budgeting%20for%20procurement%20of%20aircraft%20for%20the%20Navy%20and%20Air%20Force%20annual%20plan%20and%20certification.md) | Budgeting for procurement of aircraft for the Navy and Air Force: annual plan and certification. |
 | [232\.](%C2%A7%2000232%20-%20United%20States%20Joint%20Forces%20Command%20amounts%20for%20research%2C%20development%2C%20test%2C%20and%20evaluation%20to%20be%20derived%20only%20from%20Defense-wide%20amounts.md) | United States Joint Forces Command: amounts for research, development, test, and evaluation to be derived only from Defense-wide amounts. |
 | [233\.](%C2%A7%2000233%20-%20Operation%20and%20maintenance%20budget%20presentation.md) | Operation and maintenance budget presentation. |
@@ -23,33 +23,35 @@
 
 #### Amendments
 
-2009—Pub. L. 111–84, div. A, title VIII, §803(a)(2), Oct. 28, 2009, 123 Stat. 2402, added item 235.
+<b>2011</b>—Pub. L. 111–383, div. A, title X, §1023(b), Jan. 7, 2011, 124 Stat. 4350, added item 231 and struck out former item 231 “Budgeting for construction of naval vessels: annual plan and certification”.
 
-2008—Pub. L. 110–417, \[div. A\], title I, §141(b), Oct. 14, 2008, 122 Stat. 4380, added item 231a.
+<b>2009</b>—Pub. L. 111–84, div. A, title VIII, §803(a)(2), Oct. 28, 2009, 123 Stat. 2402, added item 235.
 
-2006—Pub. L. 109–364, div. A, title V, §563(b), Oct. 17, 2006, 120 Stat. 2222, added item 234.
+<b>2008</b>—Pub. L. 110–417, \[div. A\], title I, §141(b), Oct. 14, 2008, 122 Stat. 4380, added item 231a.
 
-2004—Pub. L. 108–375, div. A, title II, §214(b), title X, §1003(a)(2), Oct. 28, 2004, 118 Stat. 1834, 2035, added items 232 and 233.
+<b>2006</b>—Pub. L. 109–364, div. A, title V, §563(b), Oct. 17, 2006, 120 Stat. 2222, added item 234.
 
-2003—Pub. L. 108–136, div. A, title II, §223(a)(2), title X, §1031(a)(6)(B)(ii), Nov. 24, 2003, 117 Stat. 1420, 1596, added item 223a and substituted “Quarterly” for “Monthly” in item 228.
+<b>2004</b>—Pub. L. 108–375, div. A, title II, §214(b), title X, §1003(a)(2), Oct. 28, 2004, 118 Stat. 1834, 2035, added items 232 and 233.
 
-2002—Pub. L. 107–314, div. A, title X, §§1022(b), 1041(a)(2)(B), Dec. 2, 2002, 116 Stat. 2640, 2645, struck out item 230 “Amounts for declassification of records” and added item 231.
+<b>2003</b>—Pub. L. 108–136, div. A, title II, §223(a)(2), title X, §1031(a)(6)(B)(ii), Nov. 24, 2003, 117 Stat. 1420, 1596, added item 223a and substituted “Quarterly” for “Monthly” in item 228.
 
-2001—Pub. L. 107–107, div. A, title II, §231(b)(2), Dec. 28, 2001, 115 Stat. 1037, substituted “research, development, test, and evaluation” for “procurement” in item 224.
+<b>2002</b>—Pub. L. 107–314, div. A, title X, §§1022(b), 1041(a)(2)(B), Dec. 2, 2002, 116 Stat. 2640, 2645, struck out item 230 “Amounts for declassification of records” and added item 231.
 
-1999—Pub. L. 106–65, div. A, title IX, §932(b)(2), title X, §1041(a)(2), Oct. 5, 1999, 113 Stat. 728, 758, added items 229 and 230.
+<b>2001</b>—Pub. L. 107–107, div. A, title II, §231(b)(2), Dec. 28, 2001, 115 Stat. 1037, substituted “research, development, test, and evaluation” for “procurement” in item 224.
 
-1998—Pub. L. 105–261, div. A, title II, §235(a)(2), Oct. 17, 1998, 112 Stat. 1953, added item 223.
+<b>1999</b>—Pub. L. 106–65, div. A, title IX, §932(b)(2), title X, §1041(a)(2), Oct. 5, 1999, 113 Stat. 728, 758, added items 229 and 230.
 
-1997—Pub. L. 105–85, div. A, title II, §232(a)(2), title III, §321(a)(2), Nov. 18, 1997, 111 Stat. 1663, 1673, added items 224 and 228.
+<b>1998</b>—Pub. L. 105–261, div. A, title II, §235(a)(2), Oct. 17, 1998, 112 Stat. 1953, added item 223.
 
-1996—Pub. L. 104–106, div. A, title X, §1061(f)(2), Feb. 10, 1996, 110 Stat. 443, struck out item 227 “Recruiting costs”.
+<b>1997</b>—Pub. L. 105–85, div. A, title II, §232(a)(2), title III, §321(a)(2), Nov. 18, 1997, 111 Stat. 1663, 1673, added items 224 and 228.
 
-1993—Pub. L. 103–160, div. A, title III, §374(b), Nov. 30, 1993, 107 Stat. 1637, added item 227.
+<b>1996</b>—Pub. L. 104–106, div. A, title X, §1061(f)(2), Feb. 10, 1996, 110 Stat. 443, struck out item 227 “Recruiting costs”.
 
-1992—Pub. L. 102–484, div. A, title X, §1002(d)(2), Oct. 23, 1992, 106 Stat. 2481, added items 221 and 222 and redesignated former item 221 as 226.
+<b>1993</b>—Pub. L. 103–160, div. A, title III, §374(b), Nov. 30, 1993, 107 Stat. 1637, added item 227.
 
-1991—Pub. L. 102–190, div. A, title X, §1002(a)(1), Dec. 5, 1991, 105 Stat. 1455, substituted “DEFENSE BUDGET MATTERS” for “REGULAR COMPONENTS” in chapter heading and added item 221.
+<b>1992</b>—Pub. L. 102–484, div. A, title X, §1002(d)(2), Oct. 23, 1992, 106 Stat. 2481, added items 221 and 222 and redesignated former item 221 as 226.
+
+<b>1991</b>—Pub. L. 102–190, div. A, title X, §1002(a)(1), Dec. 5, 1991, 105 Stat. 1455, substituted “DEFENSE BUDGET MATTERS” for “REGULAR COMPONENTS” in chapter heading and added item 221.
 
 
 ---
@@ -66,7 +68,7 @@
 - [&sect; 00228 - Quarterly reports on allocation of funds within operation and maintenance budget subactivities](%C2%A7%2000228%20-%20Quarterly%20reports%20on%20allocation%20of%20funds%20within%20operation%20and%20maintenance%20budget%20subactivities.md)
 - [&sect; 00229 - Programs for combating terrorism display of budget information](%C2%A7%2000229%20-%20Programs%20for%20combating%20terrorism%20display%20of%20budget%20information.md)
 - [&sect; 00230 - Repealed. Pub. L. 107&#8211;314, div. A, title X, &sect;1041(a)(2)(A), Dec. 2, 2002, 116 Stat. 2645](%C2%A7%2000230%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93314%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71041%28a%29%282%29%28A%29%2C%20Dec.%202%2C%202002%2C%20116%20Stat.%202645.md)
-- [&sect; 00231 - Budgeting for construction of naval vessels annual plan and certification](%C2%A7%2000231%20-%20Budgeting%20for%20construction%20of%20naval%20vessels%20annual%20plan%20and%20certification.md)
+- [&sect; 00231 - Long-range plan for construction of naval vessels](%C2%A7%2000231%20-%20Long-range%20plan%20for%20construction%20of%20naval%20vessels.md)
 - [&sect; 00231a - Budgeting for procurement of aircraft for the Navy and Air Force annual plan and certification](%C2%A7%2000231a%20-%20Budgeting%20for%20procurement%20of%20aircraft%20for%20the%20Navy%20and%20Air%20Force%20annual%20plan%20and%20certification.md)
 - [&sect; 00232 - United States Joint Forces Command amounts for research, development, test, and evaluation to be derived only from Defense-wide amounts](%C2%A7%2000232%20-%20United%20States%20Joint%20Forces%20Command%20amounts%20for%20research%2C%20development%2C%20test%2C%20and%20evaluation%20to%20be%20derived%20only%20from%20Defense-wide%20amounts.md)
 - [&sect; 00233 - Operation and maintenance budget presentation](%C2%A7%2000233%20-%20Operation%20and%20maintenance%20budget%20presentation.md)

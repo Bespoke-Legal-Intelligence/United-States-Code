@@ -22,7 +22,7 @@ The Secretary may assess any civil penalty authorized by this section. No such p
 
 #### References in Text
 
-Rule 1, referred to in pars. (a) and (b), is classified to section 2001 of this title.
+Rule 1, referred to in pars. (a) and (b), was classified to section 2001 of this title, prior to repeal by Pub. L. 108–293, title III, §303(a), (c), Aug. 9, 2004, 118 Stat. 1042, effective May 17, 2010.
 
 #### Codification
 
@@ -30,5 +30,9 @@ In subsec. (d)(1), “section 60105 of title 46” substituted for “section 41
 
 #### Amendments
 
-1996—Par. (d). Pub. L. 104–324 inserted heading and amended text generally. Prior to amendment, text read as follows: “The Secretary of the Treasury shall withhold or revoke, at the request of the Secretary, the clearance, required by section 91 of title 46, Appendix, of any vessel, the owner or operator of which is subject to any of the penalties in this section. Clearance may be granted in such cases upon the filing of a bond or other surety satisfactory to the Secretary.”
+<b>1996</b>—Par. (d). Pub. L. 104–324 inserted heading and amended text generally. Prior to amendment, text read as follows: “The Secretary of the Treasury shall withhold or revoke, at the request of the Secretary, the clearance, required by section 91 of title 46, Appendix, of any vessel, the owner or operator of which is subject to any of the penalties in this section. Clearance may be granted in such cases upon the filing of a bond or other surety satisfactory to the Secretary.”
+
+#### Effective Date
+
+Section effective 12 months after Dec. 24, 1981, see section 7 of Pub. L. 96–591, set out as an Effective Date of 1980 Amendment note under section 1604 of this title.
 

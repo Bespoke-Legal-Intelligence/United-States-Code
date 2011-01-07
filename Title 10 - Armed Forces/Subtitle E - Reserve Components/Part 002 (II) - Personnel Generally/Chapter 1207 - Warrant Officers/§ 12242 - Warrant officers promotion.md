@@ -22,9 +22,9 @@ May 29, 1954, ch. 249, §7 (last sentence, less applicability to temporary promo
 
 #### Amendments
 
-1994—Pub. L. 103–337 renumbered section 598 of this title as this section.
+<b>1994</b>—Pub. L. 103–337 renumbered section 598 of this title as this section.
 
-1991—Pub. L. 102–190 inserted “not on the warrant officer active-duty list” after “reserve warrant officers”.
+<b>1991</b>—Pub. L. 102–190 inserted “not on the warrant officer active-duty list” after “reserve warrant officers”.
 
 #### Effective Date of 1991 Amendment
 

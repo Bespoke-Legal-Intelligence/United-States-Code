@@ -16,11 +16,11 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–56 substituted “20 years” for “ten years” and inserted “, and, if death results to any person, shall be imprisoned for any term of years or for life” before period at end.
+<b>2001</b>—Subsec. (a). Pub. L. 107–56 substituted “20 years” for “ten years” and inserted “, and, if death results to any person, shall be imprisoned for any term of years or for life” before period at end.
 
-1996—Pub. L. 104–294 substituted “, or” for “or” in section catchline.
+<b>1996</b>—Pub. L. 104–294 substituted “, or” for “or” in section catchline.
 
-1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-1954—Act Sept. 3, 1954, inserted conspiracy provisions.
+<b>1954</b>—Act Sept. 3, 1954, inserted conspiracy provisions.
 

@@ -18,7 +18,7 @@
 
 (3) A State may regulate a fishing vessel outside the boundaries of the State in the following circumstances:
 
-&emsp;(A) The fishing vessel is registered under the law of that State, and (i) there is no fisherymanagement plan or other applicable Federal fishing regulations for the fishery in which the vessel is operating; or (ii) the State's laws and regulations are consistent with the fishery management plan and applicable Federal fishing regulations for the fishery in which the vessel is operating.
+&emsp;(A) The fishing vessel is registered under the law of that State, and (i) there is no fishery management plan or other applicable Federal fishing regulations for the fishery in which the vessel is operating; or (ii) the State's laws and regulations are consistent with the fishery management plan and applicable Federal fishing regulations for the fishery in which the vessel is operating.
 
 &emsp;(B) The fishery management plan for the fishery in which the fishing vessel is operating delegates management of the fishery to a State and the State's laws and regulations are consistent with such fishery management plan. If at any time the Secretary determines that a State law or regulation applicable to a fishing vessel under this circumstance is not consistent with the fishery management plan, the Secretary shall promptly notify the State and the appropriate Council of such determination and provide an opportunity for the State to correct any inconsistencies identified in the notification. If, after notice and opportunity for corrective action, the State does not correct the inconsistencies identified by the Secretary, the authority granted to the State under this subparagraph shall not apply until the Secretary and the appropriate Council find that the State has corrected the inconsistencies. For a fishery for which there was a fishery management plan in place on August 1, 1996 that did not delegate management of the fishery to a State as of that date, the authority provided by this subparagraph applies only if the Council approves the delegation of management of the fishery to the State by a three-quarters majority vote of the voting members of the Council.
 
@@ -62,11 +62,11 @@
 
 (4) For purposes of this subsection—
 
-&emsp;(A) The term “fish processing” includes, in addition to processing, the performance of any other activity relating to fishing, including, but not limited to, preparation, supply, storage, refrigeration, or transportation.
+&emsp;(A) The term “fish processing” includes, in addition to processing, the performance of anyother activity relating to fishing, including, but not limited to, preparation, supply, storage, refrigeration, or transportation.
 
 &emsp;(B) The phrase “internal waters of a State” means all waters within the boundaries of a State except those seaward of the baseline from which the territorial sea is measured.
 
-&emsp;(C) A foreign fishing vessel shall be treated as qualified for purposes of paragraph (1) if the foreign nation under which it is flagged will be a party to (i) a governing international fishery agreement or (ii) a treaty described in section1821(b) of this title during the time the vessel will engage in the fish processing for which permission is sought under paragraph (1)(B).
+&emsp;(C) A foreign fishing vessel shall be treated as qualified for purposes of paragraph (1) if the foreign nation under which it is flagged will be a party to (i) a governing international fishery agreement or (ii) a treaty described in section 1821(b) of this title during the time the vessel will engage in the fish processing for which permission is sought under paragraph (1)(B).
 
 (Pub. L. 94–265, title III, §306, Apr. 13, 1976, 90 Stat. 355; Pub. L. 97–191, §1, June 1, 1982, 96 Stat. 107; Pub. L. 97–453, §9, Jan. 12, 1983, 96 Stat. 2491; Pub. L. 98–623, title IV, §404(4), Nov. 8, 1984, 98 Stat. 3408; Pub. L. 99–659, title I, §101(c)(2), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, §112, Nov. 28, 1990, 104 Stat. 4453; Pub. L. 104–297, title I, §112(a)–(c), Oct. 11, 1996, 110 Stat. 3595, 3596.)
 
@@ -76,7 +76,7 @@ This chapter, referred to in subsecs. (a)(1), (2), (3)(C) and (b)(1)(A), was in 
 
 #### Amendments
 
-1996—Subsec. (a)(3). Pub. L. 104–297, §112(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Except as otherwise provided by paragraph (2), a State may not directly or indirectly regulate any fishing vessel outside its boundaries, unless the vessel is registered under the law of that State.”
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–297, §112(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Except as otherwise provided by paragraph (2), a State may not directly or indirectly regulate any fishing vessel outside its boundaries, unless the vessel is registered under the law of that State.”
 
 Subsec. (b)(3). Pub. L. 104–297, §112(b), added par. (3).
 
@@ -84,17 +84,17 @@ Subsec. (c)(1)(A). Pub. L. 104–297, §112(c)(1), substituted “(4)(C) or has 
 
 Subsec. (c)(1)(C). Pub. L. 104–297, §112(c)(2), (3), added subpar. (C).
 
-1990—Subsec. (c)(1)(B). Pub. L. 101–627, §112(1), inserted before period at end “and the application specifies the species to be processed”.
+<b>1990</b>—Subsec. (c)(1)(B). Pub. L. 101–627, §112(1), inserted before period at end “and the application specifies the species to be processed”.
 
 Subsec. (c)(2). Pub. L. 101–627, §112(2), added par. (2) and struck out former par. (2) which read as follows: “The Governor of a State may not grant permission for a foreign fishing vessel to engage in fish processing under paragraph (1)(B) if he determines that fish processors within the State have adequate capacity, and will utilize such capacity, to process all of the United States harvested fish from the fishery concerned that are landed in the State.”
 
-1986—Subsec. (b)(1)(A). Pub. L. 99–659 substituted “exclusive economic zone” for “fishery conservation zone”.
+<b>1986</b>—Subsec. (b)(1)(A). Pub. L. 99–659 substituted “exclusive economic zone” for “fishery conservation zone”.
 
-1984—Subsec. (a). Pub. L. 98–623 designated existing provisions as pars. (1) to (3), in par. (2), as so designated, redesignated cls. (1) and (2) as subpars. (A) and (B), respectively, and added subpar. (C), and in par. (3), as so designated, inserted exception relating to par. (2).
+<b>1984</b>—Subsec. (a). Pub. L. 98–623 designated existing provisions as pars. (1) to (3), in par. (2), as so designated, redesignated cls. (1) and (2) as subpars. (A) and (B), respectively, and added subpar. (C), and in par. (3), as so designated, inserted exception relating to par. (2).
 
-1983—Subsec. (a). Pub. L. 97–453 inserted provision delineating the jurisdiction and authority of a State over waters adjacent to the State and over Nantucket Sound.
+<b>1983</b>—Subsec. (a). Pub. L. 97–453 inserted provision delineating the jurisdiction and authority of a State over waters adjacent to the State and over Nantucket Sound.
 
-1982—Subsec. (c). Pub. L. 97–191 added subsec. (c).
+<b>1982</b>—Subsec. (c). Pub. L. 97–191 added subsec. (c).
 
 #### Effective Date of 1982 Amendment
 
@@ -154,7 +154,7 @@ Sunset.—This section shall have no force or effect on and after September 30, 
 
 &emsp;“(3) measures implemented or planned that are designed to prevent or end overfishing in the fishery.”
 
-Pub. L. 104–297, title I, §112(d), Oct. 11, 1996, 110 Stat. 3596, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided interim authority to the Statesof Washington, Oregon, and California to enforce State laws and regulations governing fish harvesting and processing against any vessel operating in the exclusive economic zone off each respective State in a fishery for Dungeness crab (Cancer magister) for which there is no fishery management plan implemented under this chapter, was repealed by Pub. L. 105–384, title II, §203(g), Nov. 13, 1998, 112 Stat. 3454.
+Pub. L. 104–297, title I, §112(d), Oct. 11, 1996, 110 Stat. 3596, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided interim authority to the States of Washington, Oregon, and California to enforce State laws and regulations governing fish harvesting and processing against any vessel operating in the exclusive economic zone off each respective State in a fishery for Dungeness crab (Cancer magister) for which there is no fishery management plan implemented under this chapter, was repealed by Pub. L. 105–384, title II, §203(g), Nov. 13, 1998, 112 Stat. 3454.
 
 #### Foreign Fish Processing in Norton Sound
 

@@ -62,7 +62,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(ii) is issued expressly for postsecondary educational expenses to a borrower, regardless of whether the loan is provided through the educational institution that the subject student attends or directly to the borrower from the private educational lender; and
 
-&emsp;&emsp;(B) does not include an extension of credit under an open end consumer credit plan, a reverse mortgage transaction, a residential mortgage transaction, or any other loan that is secured by real property or a dwelling; and
+&emsp;&emsp;(B) does not include an extension of credit under an open end consumer credit plan, areverse mortgage transaction, a residential mortgage transaction, or any other loan that is secured by real property or a dwelling; and
 
 &emsp;(8) the term “revenue sharing” means an arrangement between a covered educational institution and a private educational lender under which—
 
@@ -118,7 +118,11 @@ It shall be unlawful for any private educational lender to impose a fee or penal
 
 &emsp;&emsp;(C) That credit card and debt education and counseling sessions be offered as a regular part of any orientation program for new students of such institution.
 
-(Pub. L. 90–321, title I, §140, as added Pub. L. 110–315, title X, §1011(a), Aug. 14, 2008, 122 Stat. 3479; amended Pub. L. 111–24, title III, §304, May 22, 2009, 123 Stat. 1749.)
+(Pub. L. 90–321, title I, §140, as added Pub. L. 110–315, title X, §1011(a), Aug. 14, 2008, 122 Stat. 3479; amended Pub. L. 111–24, title III, §304, May 22, 2009, 123 Stat. 1749; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears, other than in subsection (d), and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -126,7 +130,11 @@ The Higher Education Act of 1965, referred to in subsec. (a)(2)(B)(iv)(II), (7)(
 
 #### Amendments
 
-2009—Subsec. (f). Pub. L. 111–24 added subsec. (f).
+<b>2009</b>—Subsec. (f). Pub. L. 111–24 added subsec. (f).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2009 Amendment
 

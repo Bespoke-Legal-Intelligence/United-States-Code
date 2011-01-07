@@ -1,6 +1,6 @@
 ### §3017. Secretary of the Army: successors to duties
 
-If the Secretary of the Army dies, resigns, is removed from office, is absent, or is disabled, the person who is highest on the following list, and who is not absent or disabled, shall perform the duties of the Secretary until the President, under section 3347 <sup>1</sup> of title 5, directs another person to perform those duties or until the absence or disability ceases:
+If the Secretary of the Army dies, resigns, is removed from office, is absent, or is disabled,the person who is highest on the following list, and who is not absent or disabled, shall perform the duties of the Secretary until the President, under section 3347 <sup>1</sup> of title 5, directs another person to perform those duties or until the absence or disability ceases:
 
 &emsp;(1) The Under Secretary of the Army.
 
@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 June 28, 1950, ch. 383, §102 (less (a)), 64 Stat. 265.
 
-In subsection (a), the word “person” is substituted for the words “officer of the United States”. The words“until a successor is appointed” are omitted as surplusage.
+In subsection (a), the word “person” is substituted for the words “officer of the United States”. The words “until a successor is appointed” are omitted as surplusage.
 
 Subsection (b) is substituted for 5:181–5(c) and states the effect of section 3544(b) of this title.
 
@@ -40,13 +40,13 @@ Section 3347 of title 5, referred to in text, was repealed and a new section 334
 
 #### Amendments
 
-1994—Pars. (3), (4). Pub. L. 103–337 added par. (3) and redesignated former par. (3) as (4).
+<b>1994</b>—Pars. (3), (4). Pub. L. 103–337 added par. (3) and redesignated former par. (3) as (4).
 
-1986—Pub. L. 99–433 struck out subsec. (a) designation, substituted “, in the order prescribed by the Secretary of the Army and approved by the Secretary of Defense” for “in order of their length of service as such” in par. (2), and struck out subsec. (b) which read as follows: “Performance of the duties of the Secretary by the Chief of Staff or any officer of the Army designated under section 3347 of title 5 shall not be considered as the holding of a civil office within the meaning of section 973(b) of this title.”
+<b>1986</b>—Pub. L. 99–433 struck out subsec. (a) designation, substituted “, in the order prescribed by the Secretary of the Army and approved by the Secretary of Defense” for “in order of their length of service as such” in par. (2), and struck out subsec. (b) which read as follows: “Performance of the duties of the Secretary by the Chief of Staff or any officer of the Army designated under section 3347 of title 5 shall not be considered as the holding of a civil office within the meaning of section 973(b) of this title.”
 
-1968—Subsec. (b). Pub. L. 90–235 substituted “section 973(b) of this title” for “section 3544(b) of this title”.
+<b>1968</b>—Subsec. (b). Pub. L. 90–235 substituted “section 973(b) of this title” for “section 3544(b) of this title”.
 
-1966—Pub. L. 89–718 substituted “section 3347 of title 5” for “section 6 of title 5” wherever appearing.
+<b>1966</b>—Pub. L. 89–718 substituted “section 3347 of title 5” for “section 6 of title 5” wherever appearing.
 
 #### Order of Succession
 

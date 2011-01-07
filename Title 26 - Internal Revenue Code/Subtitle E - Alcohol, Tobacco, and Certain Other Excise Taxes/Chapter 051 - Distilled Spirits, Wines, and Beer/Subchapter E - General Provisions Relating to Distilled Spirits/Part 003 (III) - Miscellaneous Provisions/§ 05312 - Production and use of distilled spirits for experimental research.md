@@ -38,5 +38,5 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 640, 65
 
 #### Amendments
 
-1976—Subsecs. (a) to (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a) to (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 

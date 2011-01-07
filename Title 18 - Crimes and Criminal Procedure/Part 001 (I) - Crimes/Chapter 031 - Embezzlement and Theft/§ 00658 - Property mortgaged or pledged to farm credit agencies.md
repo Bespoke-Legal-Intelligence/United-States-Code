@@ -1,6 +1,6 @@
 ### §658. Property mortgaged or pledged to farm credit agencies
 
-Whoever, with intent to defraud, knowingly conceals, removes, disposes of, or converts to his own use or to that of another, any property mortgaged or pledged to, or held by, the Farm Credit Administration, any Federal intermediate credit bank, or the Federal Crop Insurance Corporation, the Secretary of Agriculture acting through the Farmers Home Administration or successor agency, the Rural Development Administration or successor agency, any production credit association organized under sections 1131–1134m of Title 12, any regional agricultural credit corporation, or any bank for cooperatives, shall be fined under this title or imprisoned not more than five years, or both; but if the value of such property does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
+Whoever, with intent to defraud, knowingly conceals, removes, disposes of, or converts to his own use or to that of another, any property mortgaged or pledged to, or held by, the Farm Credit Administration, any Federal intermediate credit bank, or the Federal Crop Insurance Corporation, the Secretary of Agriculture acting through the Farmers Home Administration or successor agency, the Rural Development Administration or successor agency, any production credit association organized under sections 1131–1134m of Title 12, any regional agricultural credit corporation, or any bank for cooperatives, shall be fined under this title or imprisoned notmore than five years, or both; but if the value of such property does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 729; May 24, 1949, ch. 139, §12, 63 Stat. 91; Oct. 31, 1951, ch. 655, §21, 65 Stat. 718; July 26, 1956, ch. 741, title I, §109, 70 Stat. 667; Pub. L. 87–353, §3(r), Oct. 4, 1961, 75 Stat. 774; Pub. L. 101–624, title XXIII, §2303(e), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 103–322, title XXXIII, §§330004(7), 330016(1)(H), (K), Sept. 13, 1994, 108 Stat. 2141, 2147; Pub. L. 104–294, title VI, §606(a), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 106–78, title VII, §767, Oct. 22, 1999, 113 Stat. 1174.)
 
@@ -34,23 +34,23 @@ Sections 1131b and 1131g–1 of Title 12, included within the reference to secti
 
 #### Amendments
 
-1999—Pub. L. 106–78 inserted “or successor agency” after “Farmers Home Administration” and after “Rural Development Administration”.
+<b>1999</b>—Pub. L. 106–78 inserted “or successor agency” after “Farmers Home Administration” and after “Rural Development Administration”.
 
-1996—Pub. L. 104–294 substituted “$1,000” for “$100”.
+<b>1996</b>—Pub. L. 104–294 substituted “$1,000” for “$100”.
 
-1994—Pub. L. 103–322, §330016(1)(H), (K), substituted “fined under this title” for “fined not more than$5,000” after “cooperatives, shall be” and for “fined not more than $1,000” after “he shall be”.
+<b>1994</b>—Pub. L. 103–322, §330016(1)(H), (K), substituted “fined under this title” for “fined not more than $5,000” after “cooperatives, shall be” and for “fined not more than $1,000” after “he shall be”.
 
 Pub. L. 103–322, §330004(7), struck out “Farmers’ Home Corporation,” after “Crop Insurance Corporation,”.
 
-1990—Pub. L. 101–624 substituted “Farmers Home Administration, the Rural Development Administration” for “Farmers’ Home Administration”.
+<b>1990</b>—Pub. L. 101–624 substituted “Farmers Home Administration, the Rural Development Administration” for “Farmers’ Home Administration”.
 
-1961—Pub. L. 87–353 struck out reference to the Federal Farm Mortgage Corporation.
+<b>1961</b>—Pub. L. 87–353 struck out reference to the Federal Farm Mortgage Corporation.
 
-1956—Act July 26, 1956, struck out property of any production credit association in which a Production Credit Corporation holds stock.
+<b>1956</b>—Act July 26, 1956, struck out property of any production credit association in which a Production Credit Corporation holds stock.
 
-1951—Act Oct. 31, 1951, covered all production credit associations instead of only those in which a Production Credit Corporation holds stock.
+<b>1951</b>—Act Oct. 31, 1951, covered all production credit associations instead of only those in which a Production Credit Corporation holds stock.
 
-1949—Act May 24, 1949, made section applicable to the Secretary of Agriculture acting through the Farmers’ Home Administration.
+<b>1949</b>—Act May 24, 1949, made section applicable to the Secretary of Agriculture acting through the Farmers’ Home Administration.
 
 #### Effective Date of 1956 Amendment
 

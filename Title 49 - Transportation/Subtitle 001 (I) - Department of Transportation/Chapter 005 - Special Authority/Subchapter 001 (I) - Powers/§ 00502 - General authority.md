@@ -28,7 +28,7 @@
 
 (4) The testimony of a person deposed under this subsection shall be taken under oath. The person taking the deposition shall prepare, or cause to be prepared, a transcript of the testimony taken. The transcript shall be subscribed by the deponent.
 
-(5) The testimony of a witness who is in a foreign country may be taken by deposition beforean officer or person designated by the Secretary or agreed on by the parties by written stipulation filed with the Secretary. The deposition shall be filed with the Secretary promptly.
+(5) The testimony of a witness who is in a foreign country may be taken by deposition before an officer or person designated by the Secretary or agreed on by the parties by written stipulation filed with the Secretary. The deposition shall be filed with the Secretary promptly.
 
 (f) Each witness summoned before the Secretary or whose deposition is taken under this section and the individual taking the deposition are entitled to the same fees and mileage paid for those services in the courts of the United States.
 
@@ -101,5 +101,5 @@ Section 4(j)(12) amends 49:502(e)(2) and 10321(d)(3) to reflect the change in th
 
 #### Amendments
 
-1994—Subsec. (e)(2). Pub. L. 103–272 inserted “judge” after “United States magistrate”.
+<b>1994</b>—Subsec. (e)(2). Pub. L. 103–272 inserted “judge” after “United States magistrate”.
 

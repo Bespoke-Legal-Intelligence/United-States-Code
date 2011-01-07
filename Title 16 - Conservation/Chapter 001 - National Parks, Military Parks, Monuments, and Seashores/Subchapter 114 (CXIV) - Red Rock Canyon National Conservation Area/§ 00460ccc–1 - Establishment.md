@@ -10,7 +10,7 @@
 
 #### (b) Legal description
 
-(1) As soon as practicable after November 16, 1990, the Secretary shall file a legal description of the conservation area established by subsection (a) of this section with the Committee on Energy and Natural Resources of the United States Senate and the Committee on Interior and Insular Affairs of the United States House of Representatives, and such legal description shall have the same force and effect as if included in this subchapter, except that the Secretary may correct clerical and typographic errors in <sup>1</sup> legal description.
+(1) As soon as practicable after November 16, 1990, the Secretary shall file a legal description of the conservation area established by subsection (a) of this section with the Committee on Energy and Natural Resources of the United States Senate and the Committee on Interior and Insular Affairs of the United States House of Representatives, and such legal description shall have the same force and effect as if included in this subchapter, except that the Secretary maycorrect clerical and typographic errors in <sup>1</sup> legal description.
 
 (2) The legal description described in paragraph (1) shall be on file and available for public inspection in the office of the Director of the Bureau of Land Management, Department of the Interior.
 
@@ -26,11 +26,11 @@ The Red Rock Canyon National Conservation Area Protection and Enhancement Act of
 
 #### Amendments
 
-2002—Subsec. (a)(2). Pub. L. 107–282 inserted before period at end “, and such additional areas as are included in the conservation area pursuant to the Red Rock Canyon National Conservation Area Protection and Enhancement Act of 2002”.
+<b>2002</b>—Subsec. (a)(2). Pub. L. 107–282 inserted before period at end “, and such additional areas as are included in the conservation area pursuant to the Red Rock Canyon National Conservation Area Protection and Enhancement Act of 2002”.
 
-1998—Subsec. (a)(2). Pub. L. 105–263 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The conservation area shall consist of approximately 195,610 acres as generally depicted on a map entitled ‘Red Rock Canyon National Conservation Area—Proposed Expansion’, numbered NV–RRCNCA–002, and dated July 1994.”
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–263 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The conservation area shall consist of approximately 195,610 acres as generally depicted on a map entitled ‘Red Rock Canyon National Conservation Area—Proposed Expansion’, numbered NV–RRCNCA–002, and dated July 1994.”
 
-1994—Subsec. (a)(2). Pub. L. 103–450 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The conservation area shall consist of approximately 83,100 acres of generally depicted on a map entitled ‘Red Rock Canyon National Conservation Area—Proposed’ numbered NV–RRC–NCA–001, and dated June, 1990.”
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–450 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The conservation area shall consist of approximately 83,100 acres of generally depicted on a map entitled ‘Red Rock Canyon National Conservation Area—Proposed’ numbered NV–RRC–NCA–001, and dated June, 1990.”
 
 #### Change of Name
 
@@ -42,7 +42,7 @@ Pub. L. 103–450, §3, Nov. 2, 1994, 108 Stat. 4767, as amended by Pub. L. 106�
 
 “(a)
 
-Withdrawal.—Subject to valid existing rights, the lands identified in subsection (b) are hereby withdrawn from all forms of entry under the public landlaws, including the mining laws, and from operation of the mineral \[see 30 U.S.C. 181 et seq., 271 et seq., and 281 et seq.\] and geothermal leasing laws: <i>Provided</i>, That nothing in this subsection shall limit the issuance of any necessary licenses or public land rights-of-way for any hydroelectric project involving such lands.
+Withdrawal.—Subject to valid existing rights, the lands identified in subsection (b) are hereby withdrawn from all forms of entry under the public land laws, including the mining laws, and from operation of the mineral \[see 30 U.S.C. 181 et seq., 271 et seq., and 281 et seq.\] and geothermal leasing laws: <i>Provided</i>, That nothing in this subsection shall limit the issuance of any necessary licenses or public land rights-of-way for any hydroelectric project involving such lands.
 
 “(b)
 

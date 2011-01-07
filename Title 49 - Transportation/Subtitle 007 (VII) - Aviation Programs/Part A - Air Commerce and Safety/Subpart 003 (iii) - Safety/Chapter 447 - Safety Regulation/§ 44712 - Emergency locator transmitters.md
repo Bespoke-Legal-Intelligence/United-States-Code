@@ -48,7 +48,7 @@ In general.—Subject to paragraph (2), on and after January 1, 2002, subsection
 
 &emsp;(2)
 
-Delay in implementation.—The Administrator of the Federal Aviation Administration may continue to implement subsection (b) rather than subsection (c) for a period not to exceed 2 years after January 1, 2002, if theAdministrator finds such action is necessary to promote—
+Delay in implementation.—The Administrator of the Federal Aviation Administration may continue to implement subsection (b) rather than subsection (c) for a period not to exceed 2 years after January 1, 2002, if the Administrator finds such action is necessary to promote—
 
 &emsp;&emsp;(A) a safe and orderly transition to the operation of civil aircraft equipped with an emergency locator; or
 
@@ -106,7 +106,7 @@ In subsection (c), the words “prescribe regulations” are substituted for “
 
 #### Amendments
 
-2000—Subsec. (b). Pub. L. 106–181, §501(a)(1), substituted “Prior to January 1, 2002, subsection (a)” for “Subsection (a) of this section” in introductory provisions.
+<b>2000</b>—Subsec. (b). Pub. L. 106–181, §501(a)(1), substituted “Prior to January 1, 2002, subsection (a)” for “Subsection (a) of this section” in introductory provisions.
 
 Subsecs. (c) to (e). Pub. L. 106–181, §501(a)(2), (3), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 

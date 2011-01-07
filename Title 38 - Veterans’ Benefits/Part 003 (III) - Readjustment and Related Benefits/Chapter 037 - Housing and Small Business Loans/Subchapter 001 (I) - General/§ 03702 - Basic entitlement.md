@@ -34,7 +34,7 @@
 
 &emsp;(B) the loan has been repaid in full, or the Secretary has been released from liability as to the loan, or if the Secretary has suffered a loss on such loan, the loss has been paid in full.
 
-&emsp;(2) A veteran-transferee has agreed to assume the outstanding balance on the loan and consented to the use of the veteran-transferee's entitlement, to the extent that the entitlement of the veteran-transferor had been used originally, in place of the veteran-transferor's for the guaranteed, insured, or direct loan, and the veteran-transferee otherwise meets the requirements of this chapter.
+&emsp;(2) A veteran-transferee has agreed to assume the outstanding balance on the loan and consented to the use of the veteran-transferee's entitlement, to the extent that the entitlement of the veteran-transferor had beenused originally, in place of the veteran-transferor's for the guaranteed, insured, or direct loan, and the veteran-transferee otherwise meets the requirements of this chapter.
 
 &emsp;(3)(A) The loan has been repaid in full; and
 
@@ -70,17 +70,17 @@
 
 #### Amendments
 
-2008—Subsec. (a)(2)(F). Pub. L. 110–317 added subpar. (F).
+<b>2008</b>—Subsec. (a)(2)(F). Pub. L. 110–317 added subpar. (F).
 
-2003—Subsec. (a)(2)(E). Pub. L. 108–183 substituted “Each” for “For the period beginning on October 28, 1992, and ending on September 30, 2009, each”.
+<b>2003</b>—Subsec. (a)(2)(E). Pub. L. 108–183 substituted “Each” for “For the period beginning on October 28, 1992, and ending on September 30, 2009, each”.
 
-2001—Subsec. (a)(2)(E). Pub. L. 107–103 substituted “September 30, 2009” for “September 30, 2007”.
+<b>2001</b>—Subsec. (a)(2)(E). Pub. L. 107–103 substituted “September 30, 2009” for “September 30, 2007”.
 
-1999—Subsec. (a)(2)(E). Pub. L. 106–117 substituted “September 30, 2007” for “September 30, 2003”.
+<b>1999</b>—Subsec. (a)(2)(E). Pub. L. 106–117 substituted “September 30, 2007” for “September 30, 2003”.
 
-1998—Subsec. (a)(2)(E). Pub. L. 105–368 substituted “September 30, 2003” for “October 27, 1999”.
+<b>1998</b>—Subsec. (a)(2)(E). Pub. L. 105–368 substituted “September 30, 2003” for “October 27, 1999”.
 
-1994—Subsec. (a)(2)(E). Pub. L. 103–446, §1201(f)(4), substituted “For the period beginning on October 28, 1992, and ending on October 27, 1999,” for “For the 7-year period beginning on the date of enactment of this subparagraph,”.
+<b>1994</b>—Subsec. (a)(2)(E). Pub. L. 103–446, §1201(f)(4), substituted “For the period beginning on October 28, 1992, and ending on October 27, 1999,” for “For the 7-year period beginning on the date of enactment of this subparagraph,”.
 
 Subsec. (b). Pub. L. 103–446, §902(1), (6), (7), in introductory provisions, substituted “loan under the following circumstances:” for “loan, if—”, and in concluding provisions, substituted “paragraph (1)” for “clause (1) of the preceding sentence” and inserted at end “The authority of the Secretary under this subsection to exclude an amount of guaranty or insurance housing loan entitlement previously used by a veteran may be exercised only once for that veteran under the authority of paragraph (4).”
 
@@ -92,9 +92,9 @@ Subsec. (b)(3)(A). Pub. L. 103–446, §902(4), substituted “The loan” for �
 
 Subsec. (b)(4). Pub. L. 103–446, §902(5), added par. (4).
 
-1992—Subsec. (a)(2)(E). Pub. L. 102–547 added subpar. (E).
+<b>1992</b>—Subsec. (a)(2)(E). Pub. L. 102–547 added subpar. (E).
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1802 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1802 of this title as this section.
 
 Subsec. (a)(2)(D). Pub. L. 102–40 substituted “5303A(b)” for “3103A(b)”.
 
@@ -102,13 +102,13 @@ Pub. L. 102–25 added subpar. (D).
 
 Subsec. (a)(4). Pub. L. 102–83, §5(c)(1), substituted “3701(b)” for “1801(b)”.
 
-1989—Subsecs. (a)(1)(ii), (b). Pub. L. 101–237, §313(b)(1), substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Subsecs. (a)(1)(ii), (b). Pub. L. 101–237, §313(b)(1), substituted “Secretary” for “Administrator” wherever appearing.
 
 Subsec. (b)(3). Pub. L. 101–237, §310, added par. (3).
 
 Subsecs. (c) to (e). Pub. L. 101–237, §313(b)(1), substituted “Secretary” for “Administrator” wherever appearing.
 
-1988—Subsec. (a)(1). Pub. L. 100–322, §415(a)(1)(A)–(E), designated existing provisions as par. (1), substituted “The veterans described in paragraph (2) of this subsection are eligible for the housing loan benefits of this chapter” for “Each veteran who served on active duty at any time during World War II, the Korean conflict, or the Vietnam era and whose total service was for ninety days or more, or who was discharged or released from a period of active duty, any part of which occurred during World War II, the Korean conflict, or the Vietnam era, for a service-connected disability, shall be eligible for the housing loan benefits of this chapter”, substituted “in paragraph (2)” for “in the preceding sentence, or in section 1818 of this title,” and redesignated former cls. (1) and (2) as cls. (A) and (B), respectively, and former cls. (A) and (B) as subcls. (i) and (ii), respectively.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–322, §415(a)(1)(A)–(E), designated existing provisions as par. (1), substituted “The veterans described in paragraph (2) of this subsection are eligible for the housing loan benefits of this chapter” for “Each veteran who served on active duty at any time during World War II, the Korean conflict, or the Vietnam era and whose total service was for ninety days or more, or who was discharged or released from a period of active duty, any part of which occurred during World War II, the Korean conflict, or the Vietnam era, for a service-connected disability, shall be eligible for the housing loan benefits of this chapter”, substituted “in paragraph (2)” for “in the preceding sentence, or in section 1818 of this title,” and redesignated former cls. (1) and (2) as cls. (A) and (B), respectively, and former cls. (A) and (B) as subcls. (i) and (ii), respectively.
 
 Subsec. (a)(2), (3). Pub. L. 100–322, §415(a)(1)(F), added pars. (2) and (3).
 
@@ -116,11 +116,11 @@ Subsec. (a)(4). Pub. L. 100–322, §415(a)(2), redesignated subsec. (g) as (a)(
 
 Subsec. (g). Pub. L. 100–322, §415(a)(2)(B), redesignated subsec. (g) as (a)(4).
 
-1984—Subsec. (b)(2). Pub. L. 98–223 substituted “a” for “an immediate”.
+<b>1984</b>—Subsec. (b)(2). Pub. L. 98–223 substituted “a” for “an immediate”.
 
-1982—Subsec. (f). Pub. L. 97–295 substituted “percent” for “per centum”.
+<b>1982</b>—Subsec. (f). Pub. L. 97–295 substituted “percent” for “per centum”.
 
-1981—Subsec. (a). Pub. L. 97–72, §303(b)(1), (2), substituted “the housing loan benefits” for “the benefits” in two places and “insured housing loan” for “insured loan”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–72, §303(b)(1), (2), substituted “the housing loan benefits” for “the benefits” in two places and “insured housing loan” for “insured loan”.
 
 Subsec. (b). Pub. L. 97–72, §303(b)(3), substituted “insurance housing loan entitlement” for “insurance entitlement” in two places.
 
@@ -130,11 +130,11 @@ Subsec. (e). Pub. L. 97–72, §303(b)(6), substituted “require housing loans�
 
 Subsec. (f). Pub. L. 97–72, §303(b)(7), substituted “Any housing loan at least” for “Any loan at least”.
 
-1978—Subsec. (a). Pub. L. 95–476, §102(a), inserted provisions entitling Vietnam era veterans to the benefits of this chapter and including such veterans in the cancellation of unused entitlement derived from earlier service and the reduction of current entitlement provisions of this subsection.
+<b>1978</b>—Subsec. (a). Pub. L. 95–476, §102(a), inserted provisions entitling Vietnam era veterans to the benefits of this chapter and including such veterans in the cancellation of unused entitlement derived from earlier service and the reduction of current entitlement provisions of this subsection.
 
 Subsec. (b). Pub. L. 95–476, §102(b), redesignated cl. (1) as (1)(A), cl. (2) as (B), cl. (3) as (2), and struck out reference to cl. (2) in provision authorizing the Administrator to waive certain conditions prescribed in this subsection.
 
-1976—Subsec. (b). Pub. L. 94–324, §7(3), substituted “the Administrator deems” for “he deems” and “the veteran-transferee's entitlement” for “his entitlement”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–324, §7(3), substituted “the Administrator deems” for “he deems” and “the veteran-transferee's entitlement” for “his entitlement”.
 
 Subsec. (c). Pub. L. 94–324, §7(4), substituted “The Administrator” for “He”.
 
@@ -144,21 +144,21 @@ Subsec. (e). Pub. L. 94–324, §7(5), substituted “the Administrator” for �
 
 Subsec. (g). Pub. L. 94–324, §7(5), substituted “the veteran's spouse” for “his wife”.
 
-1974—Subsec. (b). Pub. L. 93–569, §2(a), expanded provisions so as to permit restoration of a veteran's entitlement to a guaranteed, insured, or direct loan provided any prior loan has been paid in full, and the property has been disposed of by the veteran, or any immediate veteran-transferee has agreed to the use of his veteran's entitlement.
+<b>1974</b>—Subsec. (b). Pub. L. 93–569, §2(a), expanded provisions so as to permit restoration of a veteran's entitlement to a guaranteed, insured, or direct loan provided any prior loan has been paid in full, and the property has been disposed of by the veteran, or any immediate veteran-transferee has agreed to the use of his veteran's entitlement.
 
 Subsec. (d)(3). Pub. L. 93–569, §2(b), substituted provisions relating to any lender approved by Administrator pursuant to standards established by him, for provisions relating to approval of mortgagees by Secretary of Housing and Urban Development and designated by him as certified agent.
 
-1970—Subsec. (b). Pub. L. 91–506 struck out loan eligibility expiration dates for World War II and Korean conflict veterans.
+<b>1970</b>—Subsec. (b). Pub. L. 91–506 struck out loan eligibility expiration dates for World War II and Korean conflict veterans.
 
 Subsec. (g). Pub. L. 91–584 added subsec. (g).
 
-1967—Subsec. (b). Pub. L. 90–77 extended loan program for certain World War II veterans from July 26, 1967 to July 26, 1970.
+<b>1967</b>—Subsec. (b). Pub. L. 90–77 extended loan program for certain World War II veterans from July 26, 1967 to July 26, 1970.
 
 Subsec. (d). Pub. L. 90–19 substituted “mortgagee approved by the Secretary of Housing and Urban Development and designated by him” for “Federal Housing Administration approved mortgagee designated by the Federal Housing Commissioner”.
 
-1961—Subsec. (b). Pub. L. 87–84 substituted in last sentence “by a World War II veteran at any time before July 26, 1967, and by a Korean conflict veteran at any time before February 1, 1975” for “at any time before February 1, 1965”.
+<b>1961</b>—Subsec. (b). Pub. L. 87–84 substituted in last sentence “by a World War II veteran at any time before July 26, 1967, and by a Korean conflict veteran at any time before February 1, 1975” for “at any time before February 1, 1965”.
 
-1959—Subsec. (d)(3). Pub. L. 86–73 added cl. (3).
+<b>1959</b>—Subsec. (d)(3). Pub. L. 86–73 added cl. (3).
 
 #### Effective Date of 2008 Amendment
 

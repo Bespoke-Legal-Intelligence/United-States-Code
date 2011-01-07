@@ -140,7 +140,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §8005, added subsec. (a) and struck out former subsec (a) which related to: in par. (1) establishment of a Forest Resource Coordinating Committee; in par. (2) composition of the Committee; in par. (3) designation of a chairperson; and in par. (4) duties of the Committee.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §8005, added subsec. (a) and struck out former subsec (a) which related to: in par. (1) establishment of a Forest Resource Coordinating Committee; in par. (2) composition of the Committee; in par. (3) designation of a chairperson; and in par. (4) duties of the Committee.
 
 Subsec. (b)(1)(B)(i). Pub. L. 110–246, §7511(c)(37), substituted “National Institute of Food and Agriculture” for “Extension Service”.
 

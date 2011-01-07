@@ -144,15 +144,29 @@ In the case of any organization to which this section applies—
 
 &emsp;&emsp;&emsp;(ii) is not a Blue Cross or Blue Shield organization or health maintenance organization.
 
-(Added Pub. L. 99–514, title X, §1012(b)(1), Oct. 22, 1986, 100 Stat. 2391; amended Pub. L. 104–191, title III, §351(a), Aug. 21, 1996, 110 Stat. 2071; Pub. L. 105–34, title XVI, §1604(d)(2)(A), Aug. 5, 1997, 111 Stat. 1098.)
+#### (5) Nonapplication of section in case of low medical loss ratio
+
+&emsp;Notwithstanding the preceding paragraphs, this section shall not apply to any organization unless such organization's percentage of total premium revenue expended on reimbursement for clinical services provided to enrollees under its policies during such taxable year (as reported under section 2718 of the Public Health Service Act) is not less than 85 percent.
+
+(Added Pub. L. 99–514, title X, §1012(b)(1), Oct. 22, 1986, 100 Stat. 2391; amended Pub. L. 104–191, title III, §351(a), Aug. 21, 1996, 110 Stat. 2071; Pub. L. 105–34, title XVI, §1604(d)(2)(A), Aug. 5, 1997, 111 Stat. 1098; Pub. L. 111–148, title IX, §9016(a), Mar. 23, 2010, 124 Stat. 872.)
+
+#### References in Text
+
+Section 2718 of the Public Health Service Act, referred to in subsec. (c)(5), is classified to section 300gg–18 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
-1997—Subsec. (b)(1)(A)(i). Pub. L. 105–34, §1604(d)(2)(A)(i), inserted “and liabilities incurred during the taxable year under cost-plus contracts” before the comma.
+<b>2010</b>—Subsec. (c)(5). Pub. L. 111–148 added par. (5).
+
+<b>1997</b>—Subsec. (b)(1)(A)(i). Pub. L. 105–34, §1604(d)(2)(A)(i), inserted “and liabilities incurred during the taxable year under cost-plus contracts” before the comma.
 
 Subsec. (b)(1)(A)(ii). Pub. L. 105–34, §1604(d)(2)(A)(ii), inserted “or in connection with the administration of cost-plus contracts” before the last comma.
 
-1996—Subsec. (c)(4). Pub. L. 104–191 added par. (4).
+<b>1996</b>—Subsec. (c)(4). Pub. L. 104–191 added par. (4).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–148, title IX, §9016(b), Mar. 23, 2010, 124 Stat. 872, provided that: “The amendment made by thissection \[amending this section\] shall apply to taxable years beginning after December 31, 2009.”
 
 #### Effective Date of 1997 Amendment
 
@@ -172,7 +186,7 @@ In general.—The amendments made by this section \[enacting this section and am
 
 “(2)
 
-Study of fraternal beneficiary associations.—The Secretary of the Treasury or his delegateshall conduct a study of organizations described in section 501(c)(8) of the Internal Revenue Code of 1986 and which received gross annual insurance premiums in excess of $25,000,000 for the taxable years of such organizations which ended during 1984. Not later than January 1, 1988, the Secretary of the Treasury shall submit to the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, and the Joint Committee on Taxation the results of such study, together with such recommendations as he determines to be appropriate. The Secretary of the Treasury shall have authority to require the furnishing of such information as may be necessary to carry out the purposes of this paragraph.
+Study of fraternal beneficiary associations.—The Secretary of the Treasury or his delegate shall conduct a study of organizations described in section 501(c)(8) of the Internal Revenue Code of 1986 and which received gross annual insurance premiums in excess of $25,000,000 for the taxable years of such organizations which ended during 1984. Not later than January 1, 1988, the Secretary of the Treasury shall submit to the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, and the Joint Committee on Taxation the results of such study, together with such recommendations as he determines to be appropriate. The Secretary of the Treasury shall have authority to require the furnishing of such information as may be necessary to carry out the purposes of this paragraph.
 
 “(3)
 

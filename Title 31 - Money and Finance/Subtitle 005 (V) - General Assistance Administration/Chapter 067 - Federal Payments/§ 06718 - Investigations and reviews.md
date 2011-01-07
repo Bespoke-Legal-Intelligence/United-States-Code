@@ -30,5 +30,5 @@ A prior section 6718, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1026; Pub. L. 9
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–316 substituted “may” for “shall” before “carry” and “include”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–316 substituted “may” for “shall” before “carry” and “include”.
 

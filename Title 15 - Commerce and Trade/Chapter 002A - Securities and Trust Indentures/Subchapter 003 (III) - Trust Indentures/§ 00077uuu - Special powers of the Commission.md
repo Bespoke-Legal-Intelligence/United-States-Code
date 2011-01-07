@@ -2,7 +2,7 @@
 
 #### (a) Investigatory powers
 
-For the purpose of any investigation or any other proceeding which, in the opinion of the Commission, is necessary and proper for the enforcement of this subchapter, any member of the Commission, or any officer thereof designated by it, is empowered to administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, contracts, agreements, or other records which the Commission deems relevant or material to the inquiry. Such attendance of witnesses and the production of any such books, papers, correspondence, memoranda, contracts, agreements, or other records may be required from any place in the United States or in any Territory at any designated place of investigation or hearing. In addition, the Commission shall have the powers with respect to investigations and hearings, and with respect to the enforcement of, and offenses and violations under, this subchapter and rules and regulations and orders prescribed under the authority thereof, provided in sections 77t and 77v(b), (c) of this title.
+For the purpose of any investigation or any other proceeding which, in the opinion of the Commission, is necessary and proper for the enforcement of this subchapter, any member of the Commission, or any officer thereof designated by it, is empowered to administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, contracts, agreements, or other records which the Commission deems relevant or material to the inquiry. Such attendance of witnesses and the production of any such books, papers, correspondence, memoranda, contracts, agreements, or other records may be required from any place in the United States or in anyTerritory at any designated place of investigation or hearing. In addition, the Commission shall have the powers with respect to investigations and hearings, and with respect to the enforcement of, and offenses and violations under, this subchapter and rules and regulations and orders prescribed under the authority thereof, provided in sections 77t and 77v(b), (c) of this title.
 
 #### (b) Availability of reports from other offices; restrictions
 
@@ -32,7 +32,7 @@ The provisions section 78d(b) of this title shall be applicable with respect to 
 
 #### Amendments
 
-1990—Subsec. (d). Pub. L. 101–550 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The provisions of section 78d(b) of this title shall be applicable with respect to the power of the Commission to appoint and fix the compensation of such officers, attorneys, examiners, and other experts, and such other officers and employees, as may be necessary for carrying out its functions under this subchapter.”
+<b>1990</b>—Subsec. (d). Pub. L. 101–550 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The provisions of section 78d(b) of this title shall be applicable with respect to the power of the Commission to appoint and fix the compensation of such officers, attorneys, examiners, and other experts, and such other officers and employees, as may be necessary for carrying out its functions under this subchapter.”
 
 #### Transfer of Functions
 

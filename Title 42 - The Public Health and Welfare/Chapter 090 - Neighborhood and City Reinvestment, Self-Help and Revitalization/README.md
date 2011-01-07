@@ -11,6 +11,7 @@
 | [8105\.](Subchapter%20001%20%28I%29%20-%20Neighborhood%20Reinvestment%20Corporation/%C2%A7%2008105%20-%20Powers%20and%20duties%20of%20corporation.md) | Powers and duties of corporation. |
 | [8106\.](Subchapter%20001%20%28I%29%20-%20Neighborhood%20Reinvestment%20Corporation/%C2%A7%2008106%20-%20Reports%20and%20audits.md) | Reports and audits. |
 | [8107\.](Subchapter%20001%20%28I%29%20-%20Neighborhood%20Reinvestment%20Corporation/%C2%A7%2008107%20-%20Appropriations.md) | Appropriations. |
+| [8108\.](Subchapter%20001%20%28I%29%20-%20Neighborhood%20Reinvestment%20Corporation/%C2%A7%2008108%20-%20Warnings%20to%20homeowners%20of%20foreclosure%20rescue%20scams.md) | Warnings to homeowners of foreclosure rescue scams. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

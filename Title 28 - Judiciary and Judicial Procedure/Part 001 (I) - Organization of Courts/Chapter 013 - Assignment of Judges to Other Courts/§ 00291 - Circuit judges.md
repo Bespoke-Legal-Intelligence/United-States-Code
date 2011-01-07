@@ -1,6 +1,6 @@
 ### §291. Circuit judges
 
-(a) The Chief Justice of the United States may, in the public interest, designate and assign temporarily any circuit judge to act as circuit judge in another circuit upon request by the chief judge or circuit justice of such circuit.
+(a) The Chief Justice of the United States may, in the public interest, designate and assigntemporarily any circuit judge to act as circuit judge in another circuit upon request by the chief judge or circuit justice of such circuit.
 
 (b) The chief judge of a circuit or the circuit justice may, in the public interest, designate and assign temporarily any circuit judge within the circuit, including a judge designated and assigned to temporary duty therein, to hold a district court in any district within the circuit.
 
@@ -32,23 +32,23 @@ Changes were made in phraseology and arrangement.
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–572 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Chief Justice of the United States may designate and assign temporarily any circuit judge to act as circuit judge in another circuit upon presentation of a certificate of necessity by the chief judge or circuit justice of the circuit where the need arises.”
+<b>1992</b>—Subsec. (a). Pub. L. 102–572 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Chief Justice of the United States may designate and assign temporarily any circuit judge to act as circuit judge in another circuit upon presentation of a certificate of necessity by the chief judge or circuit justice of the circuit where the need arises.”
 
-1982—Subsecs. (b), (c). Pub. L. 97–164 redesignated subsec. (c) as (b). Former subsec. (b), which authorized the Chief Justice of the United States to designate and temporarily assign any circuit judge to serve as a judge of the Court of Claims or the Court of Customs and Patent Appeals upon presentation to him of a certificate of necessity by the chief judge of the court in which the need arose, was struck out.
+<b>1982</b>—Subsecs. (b), (c). Pub. L. 97–164 redesignated subsec. (c) as (b). Former subsec. (b), which authorized the Chief Justice of the United States to designate and temporarily assign any circuit judge to serve as a judge of the Court of Claims or the Court of Customs and Patent Appeals upon presentation to him of a certificate of necessity by the chief judge of the court in which the need arose, was struck out.
 
-1978—Subsec. (c). Pub. L. 95–598 directed the amendment of subsec. (c) by inserting “or bankruptcy” after “to hold a district”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Subsec. (c). Pub. L. 95–598 directed the amendment of subsec. (c) by inserting “or bankruptcy” after “to hold a district”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-1958—Subsec. (a). Pub. L. 85–755 struck out provision for assignment of any judge of the Court of Claims to serve as circuit judge in any circuit. See section 293(a) of this title.
+<b>1958</b>—Subsec. (a). Pub. L. 85–755 struck out provision for assignment of any judge of the Court of Claims to serve as circuit judge in any circuit. See section 293(a) of this title.
 
 Subsec. (b). Pub. L. 85–755 redesignated subsec. (c) as (b) and incorporated in it provision for assignment of circuit judges to Court of Customs and Patent Appeals formerly contained in section 293 of this title. Former subsec. (b), which provided for assignment of judges of the Court of Customs and Patent Appeals to serve as judges of the Court of Appeals or the District Court for the District of Columbia, was struck out. See section 293(a) of this title.
 
 Subsecs. (c), (d). Pub. L. 85–755 redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-1956—Subsec. (a). Act July 9, 1956, inserted “or any judge of the Court of Claims to serve as a circuit judge in any circuit”.
+<b>1956</b>—Subsec. (a). Act July 9, 1956, inserted “or any judge of the Court of Claims to serve as a circuit judge in any circuit”.
 
-1954—Subsec. (c). Act Sept. 3, 1954, struck out “United States” from name of Court of Claims.
+<b>1954</b>—Subsec. (c). Act Sept. 3, 1954, struck out “United States” from name of Court of Claims.
 
-1953—Subsecs. (c), (d). Act July 28, 1953, added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>1953</b>—Subsecs. (c), (d). Act July 28, 1953, added subsec. (c) and redesignated former subsec. (c) as (d).
 
 #### Effective Date of 1992 Amendment
 

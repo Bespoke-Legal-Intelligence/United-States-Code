@@ -10,9 +10,11 @@ The Secretary, in consultation with the Secretary of State, and in cooperation w
 
 &emsp;&emsp;(C) to seek international adoption of a centralized vessel monitoring system in order to monitor and document capacity in fleets of all nations involved in fishing in areas under an international fishery management organization's jurisdiction;
 
-&emsp;&emsp;(D) to increase use of observers and technologies needed to monitor compliance with conservation and management measures established by the organization, including vessel monitoring systems and automatic identification systems; and
+&emsp;&emsp;(D) to increase use of observers and technologies needed to monitor compliance with conservation and management measures established by the organization, including vessel monitoring systems and automatic identification systems;
 
-&emsp;&emsp;(E) to seek adoption of stronger port state controls in all nations, particularly those nations in whose ports vessels engaged in illegal, unreported, or unregulated fishing land or transship fish;
+&emsp;&emsp;(E) to seek adoption of stronger port state controls in all nations, particularly those nations in whose ports vessels engaged in illegal, unreported, or unregulated fishing land or transship fish; and
+
+&emsp;&emsp;(F) to adopt shark conservation measures, including measures to prohibit removal of any of the fins of a shark (including the tail) and discarding the carcass of the shark at sea;
 
 &emsp;(2) urging international fishery management organizations to which the United States is a member, as well as all members of those organizations, to adopt and expand the use of market-related measures to combat illegal, unreported, or unregulated fishing, including—
 
@@ -20,13 +22,25 @@ The Secretary, in consultation with the Secretary of State, and in cooperation w
 
 &emsp;&emsp;(B) import restrictions or other market-based measures to prevent the trade or importation of fish caught by vessels identified multilaterally as engaging in illegal, unreported, or unregulated fishing; and
 
-&emsp;&emsp;(C) catch documentation and certification schemes to improve tracking and identification of catch of vessels engaged in illegal, unreported, or unregulated fishing, including advance transmission of catch documents to ports of entry; and
+&emsp;&emsp;(C) catch documentation and certification schemes to improve tracking and identification of catch of vessels engaged in illegal, unreported, or unregulated fishing, including advance transmission of catch documents to ports of entry;
 
-&emsp;(3) urging other nations at bilateral, regional, and international levels, including the Convention on International Trade in Endangered Species of Fauna and Flora and the World Trade Organization to take all steps necessary, consistent with international law, to adopt measures and policies that will prevent fish or other living marine resources harvested by vessels engaged in illegal, unreported, or unregulated fishing from being traded or imported into their nation or territories.
+&emsp;(3) seeking to enter into international agreements that require measures for the conservation of sharks, including measures to prohibit removal of any of the fins of a shark (including the tail) and discarding the carcass of the shark at sea, that are comparable to those of the United States, taking into account different conditions; and
 
-(Pub. L. 104–43, title VI, §608, as added Pub. L. 109–479, title IV, §403(a), Jan. 12, 2007, 120 Stat. 3627.)
+&emsp;(4) urging other nations at bilateral, regional, and international levels, including the Convention on International Trade in Endangered Species of Fauna and Flora and theWorld Trade Organization to take all steps necessary, consistent with international law, to adopt measures and policies that will prevent fish or other living marine resources harvested by vessels engaged in illegal, unreported, or unregulated fishing from being traded or imported into their nation or territories.
+
+(Pub. L. 104–43, title VI, §608, as added Pub. L. 109–479, title IV, §403(a), Jan. 12, 2007, 120 Stat. 3627; amended Pub. L. 111–348, title I, §102(a), Jan. 4, 2011, 124 Stat. 3668.)
 
 #### Codification
 
-Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protection Act, and also as part ofthe Fisheries Act of 1995, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
+Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protection Act, and also as part of the Fisheries Act of 1995, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
+
+#### Amendments
+
+<b>2011</b>—Par. (1)(F). Pub. L. 111–348, §102(a)(1), added subpar. (F).
+
+Par. (2)(C). Pub. L. 111–348, §102(a)(2), struck out “and” at end.
+
+Par. (3). Pub. L. 111–348, §102(a)(4), added par. (3). Former par. (3) redesignated (4).
+
+Par. (4). Pub. L. 111–348, §102(a)(3), redesignated par. (3) as (4).
 

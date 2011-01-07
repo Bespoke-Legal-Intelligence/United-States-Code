@@ -2,7 +2,7 @@
 
 #### (a) Grants
 
-The Director of the Center for Substance Abuse Prevention (referred to in this section asthe “Director”) may make grants to and enter into contracts and cooperative agreements with public and nonprofit private entities to enable such entities—
+The Director of the Center for Substance Abuse Prevention (referred to in this section as the “Director”) may make grants to and enter into contracts and cooperative agreements with public and nonprofit private entities to enable such entities—
 
 &emsp;(1) to carry out school-based programs concerning the dangers of methamphetamine or inhalant abuse and addiction, using methods that are effective and evidence-based, including initiatives that give students the responsibility to create their own anti-drug abuse education programs for their schools; and
 
@@ -28,7 +28,7 @@ Amounts made available under a grant, contract or cooperative agreement under su
 
 &emsp;&emsp;(E) for planning, administration, and educational activities related to the prevention of methamphetamine or inhalant abuse and addiction;
 
-&emsp;&emsp;(F) for the monitoring and evaluation of methamphetamine or inhalant prevention activities, and reporting and disseminating resulting information to the public; and
+&emsp;&emsp;(F) for the monitoring and evaluation of methamphetamine or inhalant preventionactivities, and reporting and disseminating resulting information to the public; and
 
 &emsp;&emsp;(G) for targeted pilot programs with evaluation components to encourage innovation and experimentation with new methodologies.
 

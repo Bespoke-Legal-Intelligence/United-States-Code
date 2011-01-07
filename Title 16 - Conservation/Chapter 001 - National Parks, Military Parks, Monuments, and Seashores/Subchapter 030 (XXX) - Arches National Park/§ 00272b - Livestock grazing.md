@@ -34,9 +34,9 @@ In a case in which any Federal lands included within the park are legally occupi
 
 #### References in Text
 
-The Taylor Grazing Act, referred to in subsec. (b)(5), is act June 28, 1934, ch. 865, 48 Stat. 1269, as amended, which is classified principally to subchapter I (§315 et seq.) of chapter 8A of Title 43, Public Lands. For complete classification of this Act to the Code, see ShortTitle note set out under section 315 of Title 43 and Tables.
+The Taylor Grazing Act, referred to in subsec. (b)(5), is act June 28, 1934, ch. 865, 48 Stat. 1269, as amended, which is classified principally to subchapter I (§315 et seq.) of chapter 8A of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 315 of Title 43 and Tables.
 
 #### Amendments
 
-1998—Pub. L. 105–329 inserted section catchline and subsec. (a) designation and heading and added subsec. (b).
+<b>1998</b>—Pub. L. 105–329 inserted section catchline and subsec. (a) designation and heading and added subsec. (b).
 

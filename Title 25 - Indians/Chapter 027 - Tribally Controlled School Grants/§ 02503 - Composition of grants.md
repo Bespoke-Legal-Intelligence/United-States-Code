@@ -106,7 +106,7 @@ The grant provided under this chapter to an Indian tribe or tribal organization 
 
 #### (B) Rights
 
-&emsp;&emsp;A tribe or organization described in subparagraph (A) may enforce its rights undersubsection (a)(2) of this section and this paragraph, including rights relating to any denial or failure to act on such tribe's or organization's request, pursuant to the dispute authority described in section 2508(e) <sup>5</sup> of this title.
+&emsp;&emsp;A tribe or organization described in subparagraph (A) may enforce its rights under subsection (a)(2) of this section and this paragraph, including rights relating to any denial or failure to act on such tribe's or organization's request, pursuant to the dispute authority described in section 2508(e) <sup>5</sup> of this title.
 
 (Pub. L. 100–297, title V, §5204, as added Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2066.)
 

@@ -78,7 +78,7 @@ Board of Visitors.—(1) There shall be a Board of Visitors for the Institute. T
 
 (8) Members of the Board and advisers whose services are accepted under paragraph (7) shall be allowed travel and transportation expenses, including per diem in lieu of subsistence, while away from their homes or regular places of business in the performance of services for the Board. Allowances under this paragraph shall be computed—
 
-&emsp;(A) in the case of members of the Board who are officers or employees of the United States, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5; and
+&emsp;(A) in the case of members of the Board who are officers or employees of the United States,at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5; and
 
 &emsp;(B) in the case of other members of the Board and advisers, as authorized under section 5703 of title 5 for employees serving without pay.
 
@@ -104,7 +104,7 @@ Fixed Costs.—The fixed costs of operating and maintaining the Institute for a 
 
 (h)
 
-Tuition.—Tuition fees charged for persons who attend the Institute may not include thefixed costs of operating and maintaining the Institute.
+Tuition.—Tuition fees charged for persons who attend the Institute may not include the fixed costs of operating and maintaining the Institute.
 
 (i)
 
@@ -118,11 +118,11 @@ The Federal Advisory Committee Act, referred to in subsec. (e)(9), is Pub. L. 92
 
 #### Amendments
 
-2008—Subsec. (e)(1)(F). Pub. L. 110–181 amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “The commander of the unified combatant command having geographic responsibility for Latin America, or a designee of that officer.”
+<b>2008</b>—Subsec. (e)(1)(F). Pub. L. 110–181 amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “The commander of the unified combatant command having geographic responsibility for Latin America, or a designee of that officer.”
 
-2002—Subsecs. (f) to (h). Pub. L. 107–314, §932(a), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+<b>2002</b>—Subsecs. (f) to (h). Pub. L. 107–314, §932(a), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
 Subsec. (i). Pub. L. 107–314, §932(a)(1), (b), redesignated subsec. (h) as (i) and inserted after first sentence “The report shall include a copy of the latest report of the Board of Visitors received by the Secretary under subsection (e)(5), together with any comments of the Secretary on the Board's report.”
 
-2001—Subsec. (e)(9). Pub. L. 107–107 substituted “(5 U.S.C. App.)” for “(5 U.S.C. App. 2)”.
+<b>2001</b>—Subsec. (e)(9). Pub. L. 107–107 substituted “(5 U.S.C. App.)” for “(5 U.S.C. App. 2)”.
 

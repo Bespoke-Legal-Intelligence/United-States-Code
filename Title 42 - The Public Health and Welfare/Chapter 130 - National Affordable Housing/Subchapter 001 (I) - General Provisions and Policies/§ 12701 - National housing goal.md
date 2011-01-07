@@ -136,7 +136,7 @@ Administrative support services.—Upon the request of the Commission, the Admin
 
 &emsp;“(7)
 
-Contract Authority.—The Commission may contract with and compensate Government and private agencies or persons for services, without regard to section 3709 of the Revised Statutes (41 U.S.C. 5).
+Contract Authority.—The Commission may contract with and compensate Government and private agencies or persons for services, without regard to section 3709 of the Revised Statutes (\[former\] 41 U.S.C. 5) \[see 41 U.S.C. 6101\].
 
 “(f)
 
@@ -246,7 +246,7 @@ Powers.—
 
 &emsp;“(1)
 
-Hearings and sessions.—The Commission may, for the purpose of carrying out this section, hold hearings, sit and act at times and places, taketestimony, and receive evidence as the Commission considers appropriate.
+Hearings and sessions.—The Commission may, for the purpose of carrying out this section, hold hearings, sit and act at times and places, take testimony, and receive evidence as the Commission considers appropriate.
 
 &emsp;“(2)
 
@@ -270,7 +270,7 @@ Administrative support services.—Upon the request of the Commission, the Admin
 
 &emsp;“(7)
 
-Contract authority.—The Commission may contract with and compensate Government and private agencies or persons for services, without regard to section 3709 of the Revised Statutes (41 U.S.C. 5).
+Contract authority.—The Commission may contract with and compensate Government and private agencies or persons for services, without regard to section 3709 of the Revised Statutes (\[former\] 41 U.S.C. 5) \[see 41 U.S.C. 6101\].
 
 “(f)
 

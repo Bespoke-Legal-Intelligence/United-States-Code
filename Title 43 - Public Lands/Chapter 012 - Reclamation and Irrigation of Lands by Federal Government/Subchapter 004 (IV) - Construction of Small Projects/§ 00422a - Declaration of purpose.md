@@ -10,7 +10,7 @@ The Federal reclamation laws, referred to in text, are defined in section 422b o
 
 #### Amendments
 
-1986—Pub. L. 99–546 inserted “, with emphasis on rehabilitation and betterment of existing projects for purposes of significant conservation of water, energy and the environment and for purpose of water quality control,” after “laws”.
+<b>1986</b>—Pub. L. 99–546 inserted “, with emphasis on rehabilitation and betterment of existing projects for purposes of significant conservation of water, energy and the environment and for purpose of water quality control,” after “laws”.
 
 #### Effective Date of 1986 Amendment
 

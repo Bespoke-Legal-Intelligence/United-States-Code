@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1987—Pub. L. 100–17 amended section generally, revising and restating as subsecs. (a) and (b) provisions formerly contained in introductory provisions and in pars. (1) and (2).
+<b>1987</b>—Pub. L. 100–17 amended section generally, revising and restating as subsecs. (a) and (b) provisions formerly contained in introductory provisions and in pars. (1) and (2).
 
 #### Effective Date of 1987 Amendment
 

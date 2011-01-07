@@ -98,7 +98,7 @@ The worldwide level of diversity immigrants is equal to 55,000 for each fiscal y
 
 &emsp;Paragraphs (1) through (3) shall apply to self-petitioners and derivatives of self-petitioners.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §201, 66 Stat. 175; Pub. L. 89–236, §1, Oct. 3, 1965, 79 Stat. 911; Pub. L. 94–571, §2, Oct. 20, 1976, 90 Stat. 2703; Pub. L. 95–412, §1, Oct. 5, 1978, 92 Stat. 907; Pub. L. 96–212, title II, §203(a), Mar. 17, 1980, 94 Stat. 106; Pub. L. 97–116, §20\[(a)\], Dec. 29, 1981, 95 Stat. 1621; Pub. L. 101–649, title I, §101(a), Nov. 29, 1990, 104 Stat. 4980; Pub. L. 102–232, title III, §302(a)(1), Dec. 12, 1991, 105 Stat. 1742; Pub. L. 103–322, title IV, §40701(b)(2), Sept. 13, 1994, 108 Stat. 1954; Pub.L. 103–416, title II, §219(b)(1), Oct. 25, 1994, 108 Stat. 4316; Pub. L. 104–208, div. C, title III, §308(e)(5), (g)(8)(A)(i), title VI, §§603, 671(d)(1)(A), Sept. 30, 1996, 110 Stat. 3009–620, 3009–624, 3009–690, 3009–723; Pub. L. 106–386, div. B, title V, §1507(a)(3), Oct. 28, 2000, 114 Stat. 1530; Pub. L. 107–208, §2, Aug. 6, 2002, 116 Stat. 927; Pub. L. 109–162, title VIII, §805(b)(1), Jan. 5, 2006, 119 Stat. 3056; Pub. L. 111–83, title V, §568(c)(1), Oct. 28, 2009, 123 Stat. 2186.)
+(June 27, 1952, ch. 477, title II, ch. 1, §201, 66 Stat. 175; Pub. L. 89–236, §1, Oct. 3, 1965, 79 Stat. 911; Pub. L. 94–571, §2, Oct. 20, 1976, 90 Stat. 2703; Pub. L. 95–412, §1, Oct. 5, 1978, 92 Stat. 907; Pub. L.96–212, title II, §203(a), Mar. 17, 1980, 94 Stat. 106; Pub. L. 97–116, §20\[(a)\], Dec. 29, 1981, 95 Stat. 1621; Pub. L. 101–649, title I, §101(a), Nov. 29, 1990, 104 Stat. 4980; Pub. L. 102–232, title III, §302(a)(1), Dec. 12, 1991, 105 Stat. 1742; Pub. L. 103–322, title IV, §40701(b)(2), Sept. 13, 1994, 108 Stat. 1954; Pub. L. 103–416, title II, §219(b)(1), Oct. 25, 1994, 108 Stat. 4316; Pub. L. 104–208, div. C, title III, §308(e)(5), (g)(8)(A)(i), title VI, §§603, 671(d)(1)(A), Sept. 30, 1996, 110 Stat. 3009–620, 3009–624, 3009–690, 3009–723; Pub. L. 106–386, div. B, title V, §1507(a)(3), Oct. 28, 2000, 114 Stat. 1530; Pub. L. 107–208, §2, Aug. 6, 2002, 116 Stat. 927; Pub. L. 109–162, title VIII, §805(b)(1), Jan. 5, 2006, 119 Stat. 3056; Pub. L. 111–83, title V, §568(c)(1), Oct. 28, 2009, 123 Stat. 2186.)
 
 #### Amendments
 
@@ -164,7 +164,7 @@ Transition cases.—
 
 &emsp;“(i)
 
-In general.—Notwithstanding any other provision of law, an alien described in clause (ii) who seeks immediate relative status pursuant to the amendment made by paragraph (1) shall file a petition under section 204(a)(1)(A)(ii) of the Immigration and Nationality Act (8 U.S.C. 1154(a)(1)(A)(ii)) not laterthan the date that is 2 years after the date of the enactment of this Act.
+In general.—Notwithstanding any other provision of law, an alien described in clause (ii) who seeks immediate relative status pursuant to the amendment made by paragraph (1) shall file a petition under section 204(a)(1)(A)(ii) of the Immigration and Nationality Act (8 U.S.C. 1154(a)(1)(A)(ii)) not later than the date that is 2 years after the date of the enactment of this Act.
 
 &emsp;“(ii)
 
@@ -254,7 +254,7 @@ Parents.—
 
 &emsp;&emsp;“(A)
 
-In general.—In the case of an alien who was the parent of a citizen of the United States at the time of the citizen's death, if the citizen served honorably in an active duty status in the military, air, or naval forces of the United States and died as a result of injury or disease incurred in or aggravated by combat, the alien shall be considered, for purposes of section 201(b) of the Immigration and Nationality Act (8 U.S.C. 1151(b)), to remain an immediate relative after the date of the citizen's death (regardless of changes in age or maritalstatus thereafter), but only if the alien files a petition under subparagraph (B) within 2 years after such date.
+In general.—In the case of an alien who was the parent of a citizen of the United States at the time of the citizen's death, if the citizen served honorably in an active duty status in the military, air, or naval forces of the United States and died asa result of injury or disease incurred in or aggravated by combat, the alien shall be considered, for purposes of section 201(b) of the Immigration and Nationality Act (8 U.S.C. 1151(b)), to remain an immediate relative after the date of the citizen's death (regardless of changes in age or marital status thereafter), but only if the alien files a petition under subparagraph (B) within 2 years after such date.
 
 &emsp;&emsp;“(B)
 
@@ -354,7 +354,7 @@ Section 101(c) of Pub. L. 101–649, as added by Pub. L. 102–232, title III, �
 
 #### Inapplicability of Numerical Limitations for Certain Aliens Residing in the United States Virgin Islands
 
-The numerical limitations described in subsec. (a) of this section not to apply in the case of certain aliensresiding in the Virgin Islands seeking adjustment of their status to permanent resident alien status, and such adjustment of status not to result in any reduction in the number of aliens who may acquire the status of aliens lawfully admitted to the United States for permanent residence under this chapter, see section 2(c)(1) of Pub. L. 97–271, set out as a note under section 1255 of this title.
+The numerical limitations described in subsec. (a) of this section not to apply in the case of certain aliens residing in the Virgin Islands seeking adjustment of their status to permanent resident alien status, and such adjustment of status not to result in any reduction in the number of aliens who may acquire the status of aliens lawfully admitted to the United States for permanent residence under this chapter, see section 2(c)(1) of Pub. L. 97–271, set out as a note under section 1255 of this title.
 
 #### Exemption From Numerical Limitations for Certain Aliens Who Applied for Adjustment to Status of Permanent Resident Aliens on or Before June 1, 1978
 

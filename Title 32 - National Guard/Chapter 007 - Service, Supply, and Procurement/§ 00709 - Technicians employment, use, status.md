@@ -128,37 +128,37 @@ In subsection (f), the words “authorized to be employed under this section” 
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–364, §525(d)(1)(A), substituted “organizing, administering, instructing, or” for “administration and”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–364, §525(d)(1)(A), substituted “organizing, administering, instructing, or” for “administration and”.
 
 Subsec. (a)(3). Pub. L. 109–364, §525(d)(1)(B)–(3), added par. (3).
 
-1999—Pub. L. 106–65 amended section catchline and text generally, revising and restating provisions relating to employment, use, and status of technicians.
+<b>1999</b>—Pub. L. 106–65 amended section catchline and text generally, revising and restating provisions relating to employment, use, and status of technicians.
 
-1997—Subsec. (b). Pub. L. 105–85 substituted “A technician” for “Except as prescribed by the Secretary concerned, a technician”.
+<b>1997</b>—Subsec. (b). Pub. L. 105–85 substituted “A technician” for “Except as prescribed by the Secretary concerned, a technician”.
 
-1996—Subsec. (b). Pub. L. 104–106 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Except as prescribed by the Secretary concerned, a technician employed under subsection (a) shall, while so employed, be a member of the National Guard and hold the military grade specified by the Secretary concerned for that position.”
+<b>1996</b>—Subsec. (b). Pub. L. 104–106 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Except as prescribed by the Secretary concerned, a technician employed under subsection (a) shall, while so employed, be a member of the National Guard and hold the military grade specified by the Secretary concerned for that position.”
 
-1994—Subsec. (e)(6). Pub. L. 103–337, §1070(d)(5)(A), substituted “30 days before” for “thirty days prior to”.
+<b>1994</b>—Subsec. (e)(6). Pub. L. 103–337, §1070(d)(5)(A), substituted “30 days before” for “thirty days prior to”.
 
 Pub. L. 103–337, §1070(b)(2), made technical correction to directory language of Pub. L. 103–160, §524(c). See 1993 Amendment note below.
 
 Subsec. (g)(2). Pub. L. 103–337, §1070(d)(5)(B), substituted “paragraph (1)” for “clause (1) of this subsection”.
 
-1993—Subsec. (e)(6). Pub. L. 103–160, §524(c), as amended by Pub. L. 103–337, §1070(b)(2), inserted “, unless the technician is serving under a temporary appointment, is serving in a trial or probationary period, or has voluntarily ceased to be a member of the National Guard when such membership is a condition of employment,” after “termination of his employment as a technician and”.
+<b>1993</b>—Subsec. (e)(6). Pub. L. 103–160, §524(c), as amended by Pub. L. 103–337, §1070(b)(2), inserted “, unless the technician is serving under a temporary appointment, is serving in a trial or probationary period, or has voluntarily ceased to be a member of the National Guard when such membership is a condition of employment,” after “termination of his employment as a technician and”.
 
 Subsec. (h). Pub. L. 103–160, §524(d), struck out subsec. (h) which read as follows: “In no event shall the number of technicians employed under this section at any one time exceed 53,100.”
 
 Subsec. (i). Pub. L. 103–160, §523(a), added subsec. (i).
 
-1980—Subsec. (f). Pub. L. 96–513, §515(5), struck out “, United States Code,” after “title 5”.
+<b>1980</b>—Subsec. (f). Pub. L. 96–513, §515(5), struck out “, United States Code,” after “title 5”.
 
 Subsec. (g). Pub. L. 96–513, §515(6), substituted “6101(a) of title 5” for “6102 of title 5, United States Code,” in two places, “5332 of title 5” for “5332 of title 5, United States Code” and “5543 of title 5” for “5543 of title 5, United States Code,”.
 
 Subsec. (h). Pub. L. 96–513, §515(7), struck out limitation of 49,200 technicians employed during the fiscal year beginning July 1, 1971.
 
-1971—Subsec. (h). Pub. L. 92–119 increased number of technicians employable under section from 42,500 to 53,100 with exception that such number is fixed at 49,200 for fiscal year beginning July 1, 1971.
+<b>1971</b>—Subsec. (h). Pub. L. 92–119 increased number of technicians employable under section from 42,500 to 53,100 with exception that such number is fixed at 49,200 for fiscal year beginning July 1, 1971.
 
-1968—Pub. L. 90–486 substituted “Technicians: employment, use, status” for “Caretakers and clerks” in section catchline.
+<b>1968</b>—Pub. L. 90–486 substituted “Technicians: employment, use, status” for “Caretakers and clerks” in section catchline.
 
 Subsec. (a). Pub. L. 90–486 substituted provisions that persons may be employed as technicians in administration and training of National Guard and maintenance and repair of supplies issued to National Guard or armed forces for provisions that authorized the Secretaries of the Army and the Air Force to hire, out of funds allotted to them for the Army National Guard and the Air National Guard, respectively competent persons to care for material, armament, and equipment of the Army National Guard and Air National Guard, and provisions that a caretaker so employed may also perform clerical duties incidental to his employment and other duties that do not interfere with performance of his duties as caretaker.
 
@@ -174,7 +174,7 @@ Subsec. (f). Pub. L. 90–486 substituted provisions making inapplicable section
 
 Subsecs. (g), (h). Pub. L. 90–486 added subsecs. (g) and (h).
 
-1961—Subsec. (f). Pub. L. 87–224 provided that the authorized compensation may include employer's contributions to retirement systems, and that such contributions shall not exceed 61/2 per centum of the compensation upon which based.
+<b>1961</b>—Subsec. (f). Pub. L. 87–224 provided that the authorized compensation may include employer's contributions to retirement systems, and that such contributions shall not exceed 6½ per centum of the compensation upon which based.
 
 #### Effective Date of 1999 Amendment
 

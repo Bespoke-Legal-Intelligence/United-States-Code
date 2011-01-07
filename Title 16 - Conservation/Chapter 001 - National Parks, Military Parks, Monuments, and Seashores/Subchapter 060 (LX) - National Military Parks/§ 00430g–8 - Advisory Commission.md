@@ -28,7 +28,7 @@ The Advisory Commission shall meet on a regular basis. Notice of meetings and ag
 
 #### (d) Expenses
 
-Members of the Advisory Commission shall serve without compensation as such, but theSecretary may pay expenses reasonably incurred in carrying out their responsibilities under sections 430g–4 to 430g–10 of this title on vouchers signed by the Chairperson.
+Members of the Advisory Commission shall serve without compensation as such, but the Secretary may pay expenses reasonably incurred in carrying out their responsibilities under sections 430g–4 to 430g–10 of this title on vouchers signed by the Chairperson.
 
 #### (e) Charter
 

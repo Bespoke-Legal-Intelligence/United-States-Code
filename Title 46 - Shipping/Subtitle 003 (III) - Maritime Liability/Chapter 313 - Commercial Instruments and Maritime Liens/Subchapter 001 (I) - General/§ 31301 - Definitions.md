@@ -42,15 +42,17 @@ In this chapter—
 
 &emsp;&emsp;(E) for general average; or
 
-&emsp;&emsp;(F) for salvage, including contract salvage; and
+&emsp;&emsp;(F) for salvage, including contract salvage;
 
 &emsp;(6) “preferred mortgage”—
 
 &emsp;&emsp;(A) means a mortgage that is a preferred mortgage under section 31322 of this title; and
 
-&emsp;&emsp;(B) also means in sections 31325 and 31326 of this title, a mortgage, hypothecation, or similar charge that is established as a security on a foreign vessel if the mortgage, hypothecation, or similar charge was executed under the laws of the foreign country under whose laws the ownership of the vessel is documented and has been registered under those laws in a public register at the port of registry of the vessel or at a central office.
+&emsp;&emsp;(B) also means in sections 31325 and 31326 of this title, a mortgage, hypothecation, or similar charge that is established as a security on a foreign vessel if the mortgage, hypothecation, or similar charge was executed under the laws of the foreign country under whose laws the ownership of the vessel is documented and has been registered under those laws in a public register at the port of registry of the vessel or at a central office; and
 
-(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4739.)
+&emsp;(7) “Secretary” means the Secretary of the Department of Homeland Security, unless otherwise noted.
+
+(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4739; Pub. L. 111–281, title IX, §913(a)(2)–(4), Oct. 15, 2010, 124 Stat. 3017.)
 
 Historical and Revision Notes
 
@@ -95,6 +97,10 @@ Section 31301(5) defines “preferred maritime lien” to mean a lien on a vesse
 Section 31301(6)(A) defines “preferred mortgage” to mean a mortgage that meets the requirements of section 31322. This clause makes no substantive change to law.
 
 Section 31301(6)(B) defines “preferred mortgage” to also mean a mortgage on a documented foreign vessel that is preferred under sections 31325 and 31326 for purposes of enforcement of the outstanding mortgage indebtedness. Preference is only granted if the mortgage is executed under the laws of a foreign country, registered under those laws in a public register at the port of registry or at a central office. The use of the word “established” in place of “created” in the current law or “effective” as used in the treaties is not intended to make any substantive change to law. The only substantive changes to law made by this clause are the elimination of the exemption of foreign vessels of less than 200 gross tons, and clarification of the rule of interpretation that if a vessel is registered in one country, but is permitted to fly temporarily the flag of another country (such as through a demise charter), it is the law of the country in which the ownership of the vessel is documented that is used to determine when a mortgage attains preferred status.
+
+#### Amendments
+
+<b>2010</b>—Par. (7). Pub. L. 111–281 added par. (7).
 
 #### Effective Date
 

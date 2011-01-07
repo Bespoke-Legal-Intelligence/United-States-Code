@@ -48,7 +48,7 @@ A prior section 8034 was renumbered section 8033 of this title.
 
 #### Amendments
 
-1986—Pub. L. 99–433, §522(d), renumbered section 8035 of this title as this section.
+<b>1986</b>—Pub. L. 99–433, §522(d), renumbered section 8035 of this title as this section.
 
 Pub. L. 99–433, §522(d)(5), substituted “Vice Chief of Staff” for “Vice Chief of Staff; Deputy Chiefs of Staff: succession to duties of Chief of Staff and Vice Chief of Staff” in section catchline.
 
@@ -62,9 +62,9 @@ Subsecs. (a), (b). Pub. L. 99–433, §522(d)(1), substituted subsecs. (a) and (
 
 &emsp;“(2) The Deputy Chiefs of Staff in order of seniority.”
 
-Subsec. (c). Pub. L. 99–433, §522(d)(2), (3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “If the Vice Chief of Staff is absent or disabled or if that office is vacant, the senior Deputy Chief of Staff who is not absent or disabledshall, unless otherwise directed by the Secretary of the Air Force, perform the duties of the Vice Chief of Staff until a successor is designated or the absence or disability ceases.”
+Subsec. (c). Pub. L. 99–433, §522(d)(2), (3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “If the Vice Chief of Staff is absent or disabled or if that office is vacant, the senior Deputy Chief of Staff who is not absent or disabled shall, unless otherwise directed by the Secretary of the Air Force, perform the duties of the Vice Chief of Staff until a successor is designated or the absence or disability ceases.”
 
 Subsec. (d). Pub. L. 99–433, §522(d)(3), (4), added subsec. (d). Former subsec. (d) was redesignated (c).
 
-1958—Subsec. (d). Pub. L. 85–599 added subsec. (d).
+<b>1958</b>—Subsec. (d). Pub. L. 85–599 added subsec. (d).
 

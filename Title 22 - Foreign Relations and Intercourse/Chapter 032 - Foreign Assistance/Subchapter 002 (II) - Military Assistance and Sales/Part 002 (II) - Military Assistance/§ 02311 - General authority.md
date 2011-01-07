@@ -2,7 +2,7 @@
 
 #### (a) Defense articles and services; noncombatant personnel; transfer of funds
 
-The President is authorized to furnish military assistance, on such terms and conditions ashe may determine, to any friendly country or international organization, the assisting of which the President finds will strengthen the security of the United States and promote world peace and which is otherwise eligible to receive such assistance, by—
+The President is authorized to furnish military assistance, on such terms and conditions as he may determine, to any friendly country or international organization, the assisting of which the President finds will strengthen the security of the United States and promote world peace and which is otherwise eligible to receive such assistance, by—
 
 &emsp;(1) acquiring for any source and providing (by loan or grant) any defense article or defense service;
 
@@ -54,27 +54,27 @@ A guaranty provision, formerly subsec. (e) of this section, was renumbered secti
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–461 inserted in last sentence “or from funds made available on a non-repayable basis under section 23 of the Arms Export Control Act” after “under paragraph (3)” and “(other than the Coast Guard)” after “Armed Forces of the United States”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–461 inserted in last sentence “or from funds made available on a non-repayable basis under section 23 of the Arms Export Control Act” after “under paragraph (3)” and “(other than the Coast Guard)” after “Armed Forces of the United States”.
 
-1985—Subsec. (a). Pub. L. 99–83 inserted sentence relating to pricing of sales wholly paid from transferred funds.
+<b>1985</b>—Subsec. (a). Pub. L. 99–83 inserted sentence relating to pricing of sales wholly paid from transferred funds.
 
-1981—Subsec. (a)(3). Pub. L. 97–113, §110(c), substituted “country” for “specified in section 2312(a)(1) of this title, within the dollar limitations of that section”.
+<b>1981</b>—Subsec. (a)(3). Pub. L. 97–113, §110(c), substituted “country” for “specified in section 2312(a)(1) of this title, within the dollar limitations of that section”.
 
-Subsec. (b)(5). Pub. L. 97–113 substituted provision respecting payment of restoration or replacement costs for defense articles on loan for provision for making such a loan only if arrangements were made with the agency making the loan for reimbursement in the event the article was lost or destroyed while on loan, the reimbursement of which was to be made first out of any funds available to carry out this part and based onthe depreciated value of the article at the time of loss or destruction.
+Subsec. (b)(5). Pub. L. 97–113 substituted provision respecting payment of restoration or replacement costs for defense articles on loan for provision for making such a loan only if arrangements were made with the agency making the loan for reimbursement in the event the article was lost or destroyed while on loan, the reimbursement of which was to be made first out of any funds available to carry out this part and based on the depreciated value of the article at the time of loss or destruction.
 
-1980—Subsec. (a)(3). Pub. L. 96–533 added par. (3).
+<b>1980</b>—Subsec. (a)(3). Pub. L. 96–533 added par. (3).
 
-1973—Pub. L. 93–189 designated existing provisions as subsec. (a), struck out references to making financial contributions to multilateral programs for the acquisition or construction of facilities for collective defense and providing financial assistance for expenses incident to participation by the United States government in regional or collective defense organizations, and added subsecs. (b) and (c).
+<b>1973</b>—Pub. L. 93–189 designated existing provisions as subsec. (a), struck out references to making financial contributions to multilateral programs for the acquisition or construction of facilities for collective defense and providing financial assistance for expenses incident to participation by the United States government in regional or collective defense organizations, and added subsecs. (b) and (c).
 
-1967—Subsec. (a). Pub. L. 90–137, §201(b)(1), substituted “or grant” for “, lease, sale, exchange, grant, or any other means”.
+<b>1967</b>—Subsec. (a). Pub. L. 90–137, §201(b)(1), substituted “or grant” for “, lease, sale, exchange, grant, or any other means”.
 
 Subsec. (d). Pub. L. 90–137, §201(b)(2), substituted a period for “; and”.
 
 Subsec. (e). Pub. L. 90–137, §201(b)(3), struck out subsec. (e) which related to the guaranty and insuring against political and credit risks in connection with credit sales for defense articles and services procured in the United States. See Codification note above.
 
-1965—Subsec. (b). Pub. L. 89–171 struck out “in foreign countries” after “facilities”.
+<b>1965</b>—Subsec. (b). Pub. L. 89–171 struck out “in foreign countries” after “facilities”.
 
-1964—Subsec. (e). Pub. L. 88–633 added subsec. (e).
+<b>1964</b>—Subsec. (e). Pub. L. 88–633 added subsec. (e).
 
 #### Effective Date of 1988 Amendment
 

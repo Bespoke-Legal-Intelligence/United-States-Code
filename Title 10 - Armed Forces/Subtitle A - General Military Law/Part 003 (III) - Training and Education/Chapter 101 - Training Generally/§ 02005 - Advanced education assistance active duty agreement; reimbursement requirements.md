@@ -26,19 +26,19 @@
 
 #### Amendments
 
-2006—Subsec. (a)(3). Pub. L. 109–163, §687(c)(2)(A), added par. (3) and struck out former par. (3) which readas follows: “that if such person, voluntarily or because of misconduct, fails to complete the period of active duty specified in the agreement, or fails to fulfill any term or condition prescribed pursuant to clause (4), such person will reimburse the United States in an amount that bears the same ratio to the total cost of advanced education provided such person as the unserved portion of active duty bears to the total period of active duty such person agreed to serve; and”.
+<b>2006</b>—Subsec. (a)(3). Pub. L. 109–163, §687(c)(2)(A), added par. (3) and struck out former par. (3) which read as follows: “that if such person, voluntarily or because of misconduct, fails to complete the period of active duty specified in the agreement, or fails to fulfill any term or condition prescribed pursuant to clause (4), such person will reimburse the United States in an amount that bears the same ratio to the total cost of advanced education provided such person as the unserved portion of active duty bears to the total period of active duty such person agreed to serve; and”.
 
 Subsecs. (c) to (h). Pub. L. 109–163, §687(c)(2)(B)–(D), added subsec. (c), redesignated former subsec. (e) as (d), and struck out former subsecs. (c), (d), and (f) to (h) relating to the obligation to reimburse the United States under an advanced education assistance agreement in subsec. (c), the effect of a discharge in bankruptcy under title 11 in subsec. (d), requirements for providing financial assistance in subsec. (f), failure to complete a period of active duty specified in an agreement in subsec. (g), and modification of agreements by the Secretary concerned in subsec. (h).
 
-1993—Subsecs. (g), (h). Pub. L. 103–160 added subsecs. (g) and (h).
+<b>1993</b>—Subsecs. (g), (h). Pub. L. 103–160 added subsecs. (g) and (h).
 
-1990—Subsec. (a)(3). Pub. L. 101–510, §534(1), inserted “or fails to fulfill any term or condition prescribed pursuant to clause (4),” after “agreement,”.
+<b>1990</b>—Subsec. (a)(3). Pub. L. 101–510, §534(1), inserted “or fails to fulfill any term or condition prescribed pursuant to clause (4),” after “agreement,”.
 
 Subsec. (f)(1). Pub. L. 101–510, §534(2), inserted “or fails to fulfill any term or condition prescribed pursuant to clause (4) of such subsection,” after “agreement,”.
 
-1987—Subsec. (e). Pub. L. 100–180, §1231(17), inserted “The term” after each par. designation and revised first word in quotes in each par. to make initial letter of such word lowercase.
+<b>1987</b>—Subsec. (e). Pub. L. 100–180, §1231(17), inserted “The term” after each par. designation and revised first word in quotes in each par. to make initial letter of such word lowercase.
 
-1983—Subsec. (c). Pub. L. 98–94, §1268(10)(A), struck out “of this section” after “subsection (d)” and “subsection (a)”.
+<b>1983</b>—Subsec. (c). Pub. L. 98–94, §1268(10)(A), struck out “of this section” after “subsection (d)” and “subsection (a)”.
 
 Subsec. (d). Pub. L. 98–94, §1268(10)(A), struck out “of this section” after “subsection (a)”.
 

@@ -6,11 +6,11 @@
 
 &emsp;&emsp;(A) Allowed unsecured claims for domestic support obligations that, as of the date of the filing of the petition in a case under this title, are owed to or recoverable by a spouse, former spouse, or child of the debtor, or such child's parent, legal guardian, or responsible relative, without regard to whether the claim is filed by such person or is filed by a governmental unit on behalf of such person, on the condition that funds received under this paragraph by a governmental unit under this title after the date of the filing of the petition shall be applied and distributed in accordance with applicable nonbankruptcy law.
 
-&emsp;&emsp;(B) Subject to claims under subparagraph (A), allowed unsecured claims for domestic support obligations that, as of the date of the filing of the petition, are assigned by a spouse, former spouse, child of the debtor, or such child's parent, legal guardian, or responsible relative to a governmental unit (unless such obligation is assigned voluntarily by the spouse, former spouse, child,parent, legal guardian, or responsible relative of the child for the purpose of collecting the debt) or are owed directly to or recoverable by a governmental unit under applicable nonbankruptcy law, on the condition that funds received under this paragraph by a governmental unit under this title after the date of the filing of the petition be applied and distributed in accordance with applicable nonbankruptcy law.
+&emsp;&emsp;(B) Subject to claims under subparagraph (A), allowed unsecured claims for domestic support obligations that, as of the date of the filing of the petition, are assigned by a spouse, former spouse, child of the debtor, or such child's parent, legal guardian, or responsible relative to a governmental unit (unless such obligation is assigned voluntarily by the spouse, former spouse, child, parent, legal guardian, or responsible relative of the child for the purpose of collecting the debt) or are owed directly to or recoverable by a governmental unit under applicable nonbankruptcy law, on the condition that funds received under this paragraph by a governmental unit under this title after the date of the filing of the petition be applied and distributed in accordance with applicable nonbankruptcy law.
 
 &emsp;&emsp;(C) If a trustee is appointed or elected under section 701, 702, 703, 1104, 1202, or 1302, the administrative expenses of the trustee allowed under paragraphs (1)(A), (2), and (6) of section 503(b) shall be paid before payment of claims under subparagraphs (A) and (B), to the extent that the trustee administers assets that are otherwise available for the payment of such claims.
 
-&emsp;(2) Second, administrative expenses allowed under section 503(b) of this title, and any fees and charges assessed against the estate under chapter 123 of title 28.
+&emsp;(2) Second, administrative expenses allowed under section 503(b) of this title, unsecured claims of any Federal reserve bank related to loans made through programs or facilities authorized under section 13(3) of the Federal Reserve Act (12 U.S.C. 343),<sup>1</sup> and any fees and charges assessed against the estate under chapter 123 of title 28.
 
 &emsp;(3) Third, unsecured claims allowed under section 502(f) of this title.
 
@@ -50,9 +50,9 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) any time during which an offer in compromise with respect to that tax was pending or in effect during that 240-day period, plus 30 days; and
 
-&emsp;&emsp;&emsp;&emsp;(II) any time during which a stay of proceedings against collections was in effect in a prior case under this title during that 240-day period, plus 90 days.<sup>1</sup>
+&emsp;&emsp;&emsp;&emsp;(II) any time during which a stay of proceedings against collections was in effect in a prior case under this title during that 240-day period, plus 90 days; or
 
-&emsp;&emsp;&emsp;(iii) other than a tax of a kind specified in section 523(a)(1)(B) or 523(a)(1)(C) of this title, not assessed before, but assessable, under applicable law or by agreement, after, the commencement of the case;
+&emsp;&emsp;&emsp;(iii) other than a tax of a kind specified in section 523(a)(1)(B) or 523(a)(1)(C) of this title, not assessed before, but assessable,under applicable law or by agreement, after, the commencement of the case;
 
 &emsp;&emsp;(B) a property tax incurred before the commencement of the case and last payable without penalty after one year before the date of the filing of the petition;
 
@@ -88,7 +88,11 @@
 
 (d) An entity that is subrogated to the rights of a holder of a claim of a kind specified in subsection (a)(1), (a)(4), (a)(5), (a)(6), (a)(7), (a)(8), or (a)(9) of this section is not subrogated to the right of the holder of such claim to priority under such subsection.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2583; Pub. L. 98–353, title III, §§350, 449, July 10, 1984, 98 Stat. 358, 374; Pub. L. 101–647, title XXV, §2522(d), Nov. 29, 1990, 104 Stat. 4867; Pub. L. 103–394, title I, §108(c), title II, §207, title III, §304(c), title V, §501(b)(3), (d)(11), Oct. 22, 1994, 108 Stat. 4112, 4123, 4132, 4142, 4145; Pub. L. 109–8, title II, §§212, 223, title VII, §§705, 706, title XIV, §1401, title XV, §1502(a)(1), Apr. 20, 2005, 119 Stat. 51, 62, 126, 214, 216.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2583; Pub. L. 98–353, title III, §§350, 449, July 10, 1984, 98 Stat. 358, 374; Pub. L. 101–647, title XXV, §2522(d), Nov. 29, 1990, 104 Stat. 4867; Pub. L. 103–394, title I, §108(c), title II, §207, title III, §304(c), title V, §501(b)(3), (d)(11), Oct. 22, 1994, 108 Stat. 4112, 4123, 4132, 4142, 4145; Pub. L. 109–8, title II, §§212, 223, title VII, §§705, 706, title XIV, §1401, title XV, §1502(a)(1), Apr. 20, 2005, 119 Stat. 51, 62, 126, 214, 216; Pub. L. 111–203, title XI, §1101(b), July 21, 2010, 124 Stat. 2115; Pub. L. 111–327, §2(a)(15), Dec. 22, 2010, 124 Stat. 3559.)
+
+#### Adjustment of Dollar Amounts
+
+<i>For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.</i>
 
 #### Historical and Revision Notes
 
@@ -100,7 +104,7 @@ Section 507(a)(5) represents a compromise on amount between the priority as cont
 
 Section 507(a)(6) of the House amendment represents a compromise between similar provisions contained in H.R. 8200 as passed by the House and the Senate amendment.
 
-Section 507(b) of the House amendment is new and is derived from the compromise contained in the House amendment with respect to adequate protection under section 361. Subsection (b) provides that to the extent adequate protection of the interest of a holder of a claim proves to be inadequate, then the creditor's claim is given priority over every other allowable claim entitled to distribution under section 507(a). Section 507(b) of the Senate amendment is deleted.
+Section 507(b) of the House amendment is new and is derived from the compromise contained in the House amendment with respect to adequate protection under section 361. Subsection (b) provides that to the extentadequate protection of the interest of a holder of a claim proves to be inadequate, then the creditor's claim is given priority over every other allowable claim entitled to distribution under section 507(a). Section 507(b) of the Senate amendment is deleted.
 
 Section 507(c) of the House amendment is new. Section 507(d) of the House amendment prevents subrogation with respect to priority for certain priority claims. Subrogation with respect to priority is intended to be permitted for administrative claims and claims arising during the gap period.
 
@@ -130,7 +134,7 @@ Third. Income and gross receipts taxes not assessed before the petition date but
 
 In light of the above categories of the sixth priority, and tax liability of the debtor (under the Internal Revenue Code \[title 26\] or State or local law) as a transferee of property from another person will receive sixth priority without the limitations contained in the Senate amendment so long as the transferee liability had not been assessed by the tax authority by the petition date but could still have been assessed by that date under the applicable tax statute of limitations or, if the transferee liability had been assessed before the petition, the assessment was made no more than 240 days before the petition date.
 
-Also in light of the above categories, the treatment of prepetition tax liabilities arising from an excessive allowance to the debtor of a tentative carryback adjustment, such as a “quickie refund” under section 6411 of the Internal Revenue Code \[title 26\] is revised as follows: If the tax authority has assessed the additional tax before the petition, the tax liability will receive priority if the date of assessment was within 240 days before the petition date. If the tax authority had not assessed the additional tax by the petition, the tax liability will still receive priority so long as, on the petition date, assessment of the liability is not barred by the statute of limitations.
+Also in light of the above categories, the treatment of prepetition tax liabilities arising from an excessive allowance to the debtor of a tentative carryback adjustment, such as a “quickie refund” under section 6411 of the Internal Revenue Code \[title 26\] is revised as follows: If the tax authority has assessed the additional tax before the petition, the tax liability will receivepriority if the date of assessment was within 240 days before the petition date. If the tax authority had not assessed the additional tax by the petition, the tax liability will still receive priority so long as, on the petition date, assessment of the liability is not barred by the statute of limitations.
 
 Fourth. Any property tax assessed before the commencement of the case and last payable without penalty within 1 year before the petition, or thereafter.
 
@@ -168,7 +172,7 @@ Section 507 specifies the kinds of claims that are entitled to priority in distr
 
 Paragraph (3) expands and increases the wage priority found in current section 64a(2) \[section 104(a)(2) of former title 11\]. The amount entitled to priority is raised from $600 to $1,800. The former figure was last adjusted in 1926. Inflation has made it nearly meaningless, and the bill brings it more than up to date. The three month limit of current law is retained, but is modified to run from the earlier of the date of the filing of the petition or the date of the cessation of the debtor's business. The priority is expanded to cover vacation, severance, and sick leave pay. The bill adds to the third priority so-called “trust fund” taxes, that is, withheld income taxes and the employees’ share of the social security or railroad retirement taxes, but only to the extent that the wages on which taxes are imposed are themselves entitled to third priority.
 
-The employer's share, the employment tax and the employer's share of the social security or railroad retirement tax on third priority compensation, is also included in the third priority category, but only if, and to the extent that the wages and related trust fund taxes have first been paid in full. Because of the claimants urgent need for their wages in the typical cases,the employer's taxes should not be paid before the wage claims entitled to priority, as well as the related trust fund taxes, are fully paid.
+The employer's share, the employment tax and the employer's share of the social security or railroad retirement tax on third priority compensation, is also included in the third priority category, but only if, and to the extent that the wages and related trust fund taxes have first been paid in full. Because of the claimants urgent need for their wages in the typical cases, the employer's taxes should not be paid before the wage claims entitled to priority, as well as the related trust fund taxes, are fully paid.
 
 Paragraph (4) overrules <i>United States v. Embassy Restaurant</i>, 359 U.S. 29 (1958), which held that fringe benefits were not entitled to wage priority status. The bill recognizes the realities of labor contract negotiations, where fringe benefits may be substituted for wage demands. The priority granted is limited to claims for contributions to employee benefit plans such as pension plans, health or life insurance plans, and others, arising from services rendered within 120 days before the commencement of the case or the date of cessation of the debtor's business, whichever occurs first. The dollar limit placed on the total of all contributions payable under this paragraph is equal to the difference between the maximum allowable priority under paragraph (3), $1,800, times the number of employees covered by the plan less the actual distributions under paragraph (3) with respect to these employees.
 
@@ -190,7 +194,7 @@ Taxes (not covered by the third priority) which the debtor was required by law t
 
 This category also covers the liability of a responsible corporate officer under the Internal Revenue Code \[title 26\] for income taxes or for the employees’ share of employment taxes which, under the tax law, the employer was required to withhold from the wages of employees. This priority will operate where a person found to be a responsible officer has himself filed a petition under title 11, and the priority covers the debtor's liability as an officer under the Internal Revenue Code, regardless of the age of the tax year to which the tax relates.
 
-The priority rules under the bill governing employment taxes can be summarized as follows: In the case of wages earned and actually paid before the petition under title 11 was filed, the liability for the employees’ share of the employment taxes, regardless of the prepetition year in which the wages were earned and paid. The employer's share of the employment taxes on all wages earned and paid before the petition receive sixth priority; generally, these taxes will be those for which a return was due within three years before the petition. With respect to wages earned by employees before the petition but actually paid by the trustee after the title 11 case commenced, taxes required to be withheld receives the same priority as the wages themselves. Thus, the employees’ share of taxes on third priority wages also receives third priority. Taxes on the balance of such wages receive no priority and are collectible only as general claims because the wages themselves are payable only as general claims and liability for the taxes arises only to the extent the wages are actually paid. The employer's share of employment taxes on third priority wages earned before the petition but paid after the petition was filed receives third priority, butonly if the wages in this category have first been paid in full. Assuming there are sufficient funds to pay third priority wages and the related employer taxes in full, the employer's share of taxes on the balance of wage payments becomes a general claim (because the wages themselves are payable as general claims). Both the employees’ and the employer's share of employment taxes on wages earned and paid after the petition was filed receive first priority as administrative expenses.
+The priority rules under the bill governing employment taxes can be summarized as follows: In the case of wages earned and actually paid before the petition under title 11 was filed, the liability for the employees’ share of the employment taxes, regardless of the prepetition year in which the wages were earned and paid. The employer's share of the employment taxes on all wages earned and paid before the petition receive sixth priority; generally, these taxes will be those for which a return was due within three years before the petition. With respect to wages earned by employees before the petition but actually paid by the trustee after the title 11 case commenced, taxes required to be withheld receives the same priority as the wages themselves. Thus, the employees’ share of taxes on third priority wages also receives third priority. Taxes on the balance of such wages receive no priority and are collectible only as general claims because the wages themselves are payable only as general claims and liability for the taxes arises only to the extent the wages are actually paid. The employer's share of employment taxes on third priority wages earned before the petition but paid after the petition was filed receives third priority, but only if the wages in this category have first been paid in full. Assuming there are sufficient funds to pay third priority wages and the related employer taxes in full, the employer's share of taxes on the balance of wage payments becomes a general claim (because the wages themselves are payable as general claims). Both the employees’ and the employer's share of employment taxes on wages earned and paid after the petition was filed receive first priority as administrative expenses.
 
 Also covered by this sixth priority are property taxes required to be assessed within 3 years before the filing of the petition (§507(a)(6)(E)).
 
@@ -212,7 +216,15 @@ Subsection (b) of this section provides that any fine or penalty which represent
 
 Subsection (b) also provides that a claim arising from an erroneous refund or credit of tax is to be given the same priority as the tax to which the refund or credit relates.
 
+#### References in Text
+
+Section 13(3) of the Federal Reserve Act, referred to in subsec. (a)(2), is classified to section 343(3) of Title 12, Banks and Banking.
+
 #### Amendments
+
+2010—Subsec. (a)(2). Pub. L. 111–203 inserted “unsecured claims of any Federal reserve bank related to loans made through programs or facilities authorized under section 13(3) of the Federal Reserve Act (12 U.S.C. 343),” after “this title,”.
+
+Subsec. (a)(8)(A)(ii)(II). Pub. L. 111–327 substituted “; or” for period at end.
 
 2005—Subsec. (a)(1). Pub. L. 109–8, §212(9), added par. (1). Former par. (1) redesignated (2).
 
@@ -292,13 +304,17 @@ Subsec. (a)(7). Pub. L. 98–353, §§350(2), 449(a)(4), redesignated former par
 
 Subsec. (c). Pub. L. 98–353, §449(b), substituted “has the same priority” for “shall be treated the same”.
 
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–8, title XIV, §1406, Apr. 20, 2005, 119 Stat. 215, provided that:
+Pub. L. 109–8, title XIV, §1406, Apr. 20, 2005, 119 Stat. 215, as amended by Pub. L. 111–327, §3, Dec. 22, 2010, 124 Stat. 3563, provided that:
 
 “(a)
 
-Effective Date.—Except as provided in subsection (b), this title \[amending this section and sections 523, 548, 1104, and 1114 of this title and enacting provisions set out as a note under section 523 of this title\] and the amendments made by this title shall take effect on the date of the enactment of this Act \[Apr. 20, 2005\].
+Effective Date.—Except as provided in subsection (b), this title \[amending this section and sections 523, 548, 1104, and 1114 of this title and enacting provisions set out as a note under section 523 of this title\] and the amendments made by this title shall takeeffect on the date of the enactment of this Act \[Apr. 20, 2005\].
 
 “(b)
 
@@ -306,7 +322,7 @@ Application of Amendments.—
 
 &emsp;“(1)
 
-In general.—\[Ex\]cept as provided in paragraph (2), the amendments made by this title shall apply only with respect to cases commenced under title 11 of the United States Code on or after the date of the enactment of this Act \[Apr. 20, 2005\].
+In general.—Except as provided in paragraph (2), the amendments made by this title shall apply only with respect to cases commenced under title 11 of the United States Code on or after the date of the enactment of this Act \[Apr. 20, 2005\].
 
 &emsp;“(2)
 
@@ -324,7 +340,17 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Adjustment of Dollar Amounts
 
-For adjustment of dollar amounts specified in subsec. (a)(4) to (7) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
+The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-<i><sup>1</sup></i><i> So in original. The period probably should be “; or”.</i>
+By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (a)(4), dollar amount “10,950” was adjusted to “11,725”; in subsec. (a)(5), dollar amount “10,950” was adjusted to “11,725”; in subsec. (a)(6), dollar amount “5,400” was adjusted to “5,775”; and, in subsec. (a)(7), dollar amount “2,425” was adjusted to “2,600”. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (a)(4), dollar amount “10,000” was adjusted to “10,950”; in subsec. (a)(5), dollar amount “10,000” was adjusted to “10,950”; in subsec. (a)(6), dollar amount “4,925” was adjusted to “5,400”; and, in subsec. (a)(7), dollar amount “2,225” was adjusted to “2,425”.
+
+By notice dated Feb. 18, 2004, 69 F.R. 8482, effective Apr. 1, 2004, in subsec. (a)(3), dollar amount “4,650” was adjusted to “4,925”; in subsec. (a)(4)(B)(i), dollar amount “4,650” was adjusted to “4,925”; in subsec. (a)(5), dollar amount “4,650” was adjusted to “4,925”; and, in subsec. (a)(6), dollar amount “2,100” was adjusted to “2,225”.
+
+By notice dated Feb. 13, 2001, 66 F.R. 10910, effective Apr. 1, 2001, in subsec. (a)(3), dollar amount “4,300” was adjusted to “4,650”; in subsec. (a)(4)(B)(i), dollar amount “4,300” was adjusted to “4,650”; in subsec. (a)(5), dollar amount “4,300” was adjusted to “4,650”; and, in subsec. (a)(6), dollar amount “1,950” was adjusted to “2,100”.
+
+By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (a)(3), dollar amount “4,000” was adjusted to “4,300”; in subsec. (a)(4)(B)(i), dollar amount “4,000” was adjusted to “4,300”; in subsec. (a)(5), dollar amount “4,000” was adjusted to “4,300”; and, in subsec. (a)(6), dollar amount “1,800” was adjusted to “1,950”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

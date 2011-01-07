@@ -6,9 +6,9 @@ For purposes of this chapter, the term “State” includes Guam and the Virgin 
 
 #### Amendments
 
-2006—Pub. L. 109–163 struck out “the unincorporated territories of” before “Guam”.
+<b>2006</b>—Pub. L. 109–163 struck out “the unincorporated territories of” before “Guam”.
 
-1980—Pub. L. 96–513 inserted “and Virgin Islands” after “Guam” in section catchline and inserted provision respecting applicability to the Virgin Islands.
+<b>1980</b>—Pub. L. 96–513 inserted “and Virgin Islands” after “Guam” in section catchline and inserted provision respecting applicability to the Virgin Islands.
 
 #### Effective Date of 1980 Amendment
 

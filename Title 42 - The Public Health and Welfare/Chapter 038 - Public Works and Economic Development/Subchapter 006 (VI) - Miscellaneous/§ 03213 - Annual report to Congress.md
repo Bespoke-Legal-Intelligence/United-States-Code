@@ -28,5 +28,5 @@ A prior section 603 of Pub. L. 89–136 was classified to section 3203 of this t
 
 #### Amendments
 
-2004—Pub. L. 108–373 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2004</b>—Pub. L. 108–373 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 

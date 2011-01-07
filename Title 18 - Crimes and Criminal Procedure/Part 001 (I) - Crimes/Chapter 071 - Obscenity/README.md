@@ -24,15 +24,15 @@
 
 #### Amendments
 
-2003—Pub. L. 108–21, title V, §504(b), Apr. 30, 2003, 117 Stat. 682, added item 1466A.
+<b>2003</b>—Pub. L. 108–21, title V, §504(b), Apr. 30, 2003, 117 Stat. 682, added item 1466A.
 
-1998—Pub. L. 105–314, title IV, §401(b), Oct. 30, 1998, 112 Stat. 2979, added item 1470.
+<b>1998</b>—Pub. L. 105–314, title IV, §401(b), Oct. 30, 1998, 112 Stat. 2979, added item 1470.
 
-1988—Pub. L. 100–690, title VII, §§7521(b), (f)\[(e)\], 7523(b), 7526(b), Nov. 18, 1988, 102 Stat. 4489, 4490, 4502, 4503, added items 1460 and 1466 to 1469.
+<b>1988</b>—Pub. L. 100–690, title VII, §§7521(b), (f)\[(e)\], 7523(b), 7526(b), Nov. 18, 1988, 102 Stat. 4489, 4490, 4502, 4503, added items 1460 and 1466 to 1469.
 
-1955—Act June 28, 1955, ch. 190, §4, 69 Stat. 184, added item 1465.
+<b>1955</b>—Act June 28, 1955, ch. 190, §4, 69 Stat. 184, added item 1465.
 
-1950—Act May 27, 1950, ch. 214, §2, 64 Stat. 194, substituted “matters” for “literature” in item 1462.
+<b>1950</b>—Act May 27, 1950, ch. 214, §2, 64 Stat. 194, substituted “matters” for “literature” in item 1462.
 
 <i><sup>1</sup></i><i> Section catchline amended by Pub. L. 109–248 without corresponding amendment of chapter analysis.</i>
 

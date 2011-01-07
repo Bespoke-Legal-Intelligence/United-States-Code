@@ -32,7 +32,7 @@
 
 (e) The owner, charterer, managing operator, agent, master, or individual in charge of a vessel operated in violation of this section or a regulation prescribed under this section is liable to the United States Government for a civil penalty of $10,000.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 554; Pub. L. 98–364, title IV, §402(12)(B), July 17, 1984, 98 Stat. 449; Pub. L. 100–239, §5(e), Jan. 11, 1988, 101 Stat. 1781; Pub. L. 101–380, title IV, §4302(i), Aug. 18, 1990, 104 Stat. 539; Pub. L. 101–595, title VI, §602(e)(2), Nov. 16, 1990, 104 Stat. 2992; Pub. L. 104–324, title VII, §732, Oct. 19, 1996, 110 Stat. 3941.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 554; Pub. L. 98–364, title IV, §402(12)(B), July 17, 1984, 98 Stat. 449; Pub. L. 100–239, §5(e), Jan. 11, 1988, 101 Stat.1781; Pub. L. 101–380, title IV, §4302(i), Aug. 18, 1990, 104 Stat. 539; Pub. L. 101–595, title VI, §602(e)(2), Nov. 16, 1990, 104 Stat. 2992; Pub. L. 104–324, title VII, §732, Oct. 19, 1996, 110 Stat. 3941.)
 
 Historical and Revision Notes
 
@@ -60,19 +60,19 @@ Subsection (e) prescribes the penalty for violation of this section.
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–324, §732(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–324, §732(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons” in introductory provisions.
 
 Subsec. (a)(6). Pub. L. 104–324, §732(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “1,600 gross tons”.
 
-1990—Subsec. (a)(3). Pub. L. 101–595, §602(e)(2)(A), substituted “vessel (except a fish tender vessel engaged in the Aleutian trade)” for “vessel”.
+<b>1990</b>—Subsec. (a)(3). Pub. L. 101–595, §602(e)(2)(A), substituted “vessel (except a fish tender vessel engaged in the Aleutian trade)” for “vessel”.
 
 Subsec. (b)(2). Pub. L. 101–595, §602(e)(2)(B), inserted provisions authorizing reduction to 50 percent of the deck crew in the case of a fish tender vessel engaged in the Aleutian trade.
 
 Subsec. (e). Pub. L. 101–380 substituted “$10,000” for “$500”.
 
-1988—Subsec. (b). Pub. L. 100–239 substituted “operate” for “depart from a port of the United States”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–239 substituted “operate” for “depart from a port of the United States”.
 
-1984—Subsec. (a)(3). Pub. L. 98–364, §402(12)(B)(i), substituted “fishing, fish tender, or whaling” for “fishing or whaling”.
+<b>1984</b>—Subsec. (a)(3). Pub. L. 98–364, §402(12)(B)(i), substituted “fishing, fish tender, or whaling” for “fishing or whaling”.
 
 Subsec. (a)(6), (7). Pub. L. 98–364, §402(12)(B)(ii)– (iv), added pars. (6) and (7).
 

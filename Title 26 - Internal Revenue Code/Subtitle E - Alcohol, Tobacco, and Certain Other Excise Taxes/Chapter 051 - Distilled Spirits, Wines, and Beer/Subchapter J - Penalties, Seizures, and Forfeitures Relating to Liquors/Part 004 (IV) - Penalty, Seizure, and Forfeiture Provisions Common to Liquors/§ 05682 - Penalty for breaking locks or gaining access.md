@@ -10,7 +10,7 @@ A prior section 5682, act Aug. 16, 1954, ch. 736, 68A Stat. 698, consisted of pr
 
 #### Amendments
 
-1979—Pub. L. 96–39 expanded penalty provisions to include persons tampering with locks or seals affixed by distilled spirits plant proprietors.
+<b>1979</b>—Pub. L. 96–39 expanded penalty provisions to include persons tampering with locks or seals affixed by distilled spirits plant proprietors.
 
 #### Effective Date of 1979 Amendment
 

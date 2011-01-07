@@ -30,7 +30,7 @@ The Council shall be composed of—
 
 In addition to performing such other functions as the President may direct, for the purpose of more effectively coordinating the policies and functions of the departments and agencies of the Government relating to the national security, it shall, subject to the direction of the President, be the duty of the Council—
 
-&emsp;(1) to assess and appraise the objectives, commitments, and risks of the United States in relation to our actual and potential military power, in the interest of national security, for the purpose of making recommendations to the President in connection therewith; and
+&emsp;(1) to assess and appraise the objectives, commitments, and risks of the United Statesin relation to our actual and potential military power, in the interest of national security, for the purpose of making recommendations to the President in connection therewith; and
 
 &emsp;(2) to consider policies on matters of common interest to the departments and agencies of the Government concerned with the national security, and to make recommendations to the President in connection therewith.
 
@@ -82,7 +82,7 @@ The President shall establish within the National Security Council a board to be
 
 &emsp;(A) conduct an annual review of the national security interests of the United States;
 
-&emsp;(B) identify on an annual basis, and at such other times as the Council may require, theintelligence required to meet such interests and establish an order of priority for the collection and analysis of such intelligence; and
+&emsp;(B) identify on an annual basis, and at such other times as the Council may require, the intelligence required to meet such interests and establish an order of priority for the collection and analysis of such intelligence; and
 
 &emsp;(C) conduct an annual review of the elements of the intelligence community in order to determine the success of such elements in collecting, analyzing, and disseminating the intelligence identified under subparagraph (B).
 
@@ -120,7 +120,7 @@ The President shall establish within the National Security Council a board to be
 
 &emsp;(E) assist in the resolution of operational and policy differences among Federal departments and agencies in their responses to transnational threats;
 
-&emsp;(F) develop policies and procedures to ensure the effective sharing of information about transnational threats among Federal departments and agencies, including law enforcement agencies and the elements of the intelligence community; and
+&emsp;(F) develop policies and procedures to ensure the effective sharing of information abouttransnational threats among Federal departments and agencies, including law enforcement agencies and the elements of the intelligence community; and
 
 &emsp;(G) develop guidelines to enhance and improve the coordination of activities of Federal law enforcement agencies and elements of the intelligence community outside the United States with respect to transnational threats.
 
@@ -146,8 +146,6 @@ The United States Coordinator for the Prevention of Weapons of Mass Destruction 
 
 #### References in Text
 
-The civil-service laws, referred to in subsec. (c), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 This Act, referred to in subsec. (j), means act July 26, 1947, ch. 343, 61 Stat. 495, as amended, known as the National Security Act of 1947. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title and Tables.
 
 #### Codification
@@ -160,13 +158,13 @@ In subsec. (c), “chapter 51 and subchapter III of chapter 53 of title 5” sub
 
 #### Amendments
 
-2007—Subsec. (a)(5) to (8). Pub. L. 110–140 added par. (5) and redesignated former pars. (5) to (7) as (6) to (8), respectively.
+<b>2007</b>—Subsec. (a)(5) to (8). Pub. L. 110–140 added par. (5) and redesignated former pars. (5) to (7) as (6) to (8), respectively.
 
 Subsecs. (i), (k). Pub. L. 110–53, §1841(g)(1), redesignated subsec. (i), relating to Special Adviser to the President on International Religious Freedom, as (k).
 
 Subsec. (<i>l</i>). Pub. L. 110–53, §1841(g)(2), added subsec. (<i>l</i>).
 
-2004—Subsec. (h)(2)(A). Pub. L. 108–458, §1071(a)(1)(A), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+<b>2004</b>—Subsec. (h)(2)(A). Pub. L. 108–458, §1071(a)(1)(A), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 Subsec. (h)(5). Pub. L. 108–458, §1071(a)(1)(B), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
@@ -176,27 +174,27 @@ Subsec. (j). Pub. L. 108–458, §1072(a)(1), substituted “Principal Deputy Di
 
 Pub. L. 108–458, §1071(a)(1)(D), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-1998—Subsecs. (f), (g). Pub. L. 105–277 added subsec. (f) and redesignated former subsec. (f) as (g).
+<b>1998</b>—Subsecs. (f), (g). Pub. L. 105–277 added subsec. (f) and redesignated former subsec. (f) as (g).
 
 Subsec. (i). Pub. L. 105–292 added subsec. (i) relating to Special Adviser to the President on International Religious Freedom.
 
-1996—Subsec. (h). Pub. L. 104–293, §802(2), added subsec. (h). Former subsec. (h) redesignated (j).
+<b>1996</b>—Subsec. (h). Pub. L. 104–293, §802(2), added subsec. (h). Former subsec. (h) redesignated (j).
 
 Subsec. (i). Pub. L. 104–293, §804, added subsec. (i).
 
 Subsec. (j). Pub. L. 104–293, §802(1), redesignated subsec. (h) as (j).
 
-1992—Subsec. (h). Pub. L. 102–496 added subsec. (h).
+<b>1992</b>—Subsec. (h). Pub. L. 102–496 added subsec. (h).
 
-1988—Subsecs. (f), (g). Pub. L. 100–690, §§1003(a)(3), 1009, temporarily added subsec. (f), relating to participation by Director of National Drug Control Policy in meetings of National Security Council, and redesignated former subsec. (f) as (g). See Effective and Termination Dates of 1988 Amendment note below.
+<b>1988</b>—Subsecs. (f), (g). Pub. L. 100–690, §§1003(a)(3), 1009, temporarily added subsec. (f), relating to participation by Director of National Drug Control Policy in meetings of National Security Council, and redesignated former subsec. (f) as (g). See Effective and Termination Dates of 1988 Amendment note below.
 
-1986—Subsec. (e). Pub. L. 99–433 added subsec. (e).
+<b>1986</b>—Subsec. (e). Pub. L. 99–433 added subsec. (e).
 
 Subsec. (f). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended section identically adding subsec. (f).
 
-1951—Subsec. (a). Act Oct. 10, 1951, inserted cl. (5) relating to Director for Mutual Security, in fourth paragraph, and renumbered former cls. (5) and (6) thereof as cls. (6) and (7), respectively.
+<b>1951</b>—Subsec. (a). Act Oct. 10, 1951, inserted cl. (5) relating to Director for Mutual Security, in fourth paragraph, and renumbered former cls. (5) and (6) thereof as cls. (6) and (7), respectively.
 
-1949—Subsec. (a). Act Aug. 10, 1949, added the Vice President to the Council, removed the Secretaries of the military departments, to authorize the President to add, with the consent of the Senate, Secretaries and Under Secretaries of other executive departments and of the military department, and the Chairmen of the Munitions Board and the Research and Development Board.
+<b>1949</b>—Subsec. (a). Act Aug. 10, 1949, added the Vice President to the Council, removed the Secretaries of the military departments, to authorize the President to add, with the consent of the Senate, Secretaries and Under Secretaries of other executive departments and of the military department, and the Chairmen of the Munitions Board and the Research and Development Board.
 
 Subsec. (c). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923, as amended”.
 
@@ -226,7 +224,7 @@ National Security Resources Board, together with Office of Chairman, abolished b
 
 Munitions Board, together with office of Chairman, abolished by section 2 of Reorg. Plan No. 6 of 1953, eff. June 30, 1953, 18 F.R. 3743, 67 Stat. 638, set out in the Appendix to Title 5, Government Organization and Employees. All functions vested in Munitions Board transferred to Secretary of Defense by section 1(a) of Reorg. Plan No. 6 of 1953.
 
-Research and Development Board, together with office of Chairman, abolished by section 2 of Reorg. PlanNo. 6 of 1953, eff. June 30, 1953, 18 F.R. 3743, 67 Stat. 638, set out in the Appendix to Title 5, Government Organization and Employees. Functions vested in Board transferred to Secretary of Defense by section 1(a) of Reorg. Plan No. 6 of 1953.
+Research and Development Board, together with office of Chairman, abolished by section 2 of Reorg. Plan No. 6 of 1953, eff. June 30, 1953, 18 F.R. 3743, 67 Stat. 638, set out in the Appendix to Title 5, Government Organization and Employees. Functions vested in Board transferred to Secretary of Defense by section 1(a) of Reorg. Plan No. 6 of 1953.
 
 National Security Council, together with its functions, records, property, personnel, and unexpended balances of appropriations, allocations, and other funds (available or to be made available) transferred to Executive Office of President by Reorg. Plan No. 4 of 1949, eff. Aug. 20, 1949, 14 F.R. 5227, 63 Stat. 1067, set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -240,57 +238,15 @@ Repeals by section 542(a) of Mutual Security Act of 1954 did not repeal amendmen
 
 #### Pilot Program on Cryptologic Service Training
 
-Pub. L. 108–375, div. A, title IX, §922, Oct. 28, 2004, 118 Stat. 2029, provided that:
-
-“(a)
-
-Program Authorized.—The Director of the National Security Agency may carry out a pilot program on cryptologic service training for the intelligence community.
-
-“(b)
-
-Objective of Program.—The objective of the pilot program is to increase the number of qualified entry-level language analysts and intelligence analysts available to the National Security Agency and the other elements of the intelligence community through the directed preparation and recruitment of qualified entry-level language analysts and intelligence analysts who commit to a period of service or a career in the intelligence community.
-
-“(c)
-
-Program Scope.—The pilot program shall be national in scope.
-
-“(d)
-
-Program Participants.—(1) Subject to the provisions of this subsection, the Director shall select the participants in the pilot program from among individuals qualified to participate in the pilot program utilizing such procedures as the Director considers appropriate for purposes of the pilot program.
-
-“(2) Each individual who receives financial assistance under the pilot program shall perform one year of obligated service with the National Security Agency, or another element of the intelligence community approved by the Director, for each academic year for which such individual receives such financial assistance upon such individual's completion of post-secondary education.
-
-“(3) Each individual selected to participate in the pilot program shall be qualified for a security clearance appropriate for the individual under the pilot program.
-
-“(4) The total number of participants in the pilot program at any one time may not exceed 400 individuals.
-
-“(e)
-
-Program Management.—In carrying out the pilot program, the Director shall—
-
-&emsp;“(1) identify individuals interested in working in the intelligence community, and committed to taking college-level courses that will better prepare them for a career in the intelligence community as a language analyst or intelligence analyst;
-
-&emsp;“(2) provide each individual selected for participation in the pilot program—
-
-&emsp;&emsp;“(A) financial assistance for the pursuit of courses at institutions of higher education selected by the Director in fields of study that will qualify such individual for employment by an element of the intelligence community as a language analyst or intelligence analyst; and
-
-&emsp;&emsp;“(B) educational counseling on the selection of courses to be so pursued; and
-
-&emsp;“(3) provide each individual so selected information on the opportunities available for employment in the intelligence community.
-
-“(f)
-
-Duration of Program.—(1) The Director shall terminate the pilot program not later than six years after the date of the enactment of this Act \[Oct. 28, 2004\].
-
-“(2) The termination of the pilot program under paragraph (1) shall not prevent the Director from continuing to provide assistance, counseling, and information under subsection (e) to individuals who are participating in the pilot program on the date of termination of the pilot program throughout the academic year in progress as of that date.”
+Pub. L. 108–375, div. A, title IX, §922, Oct. 28, 2004, 118 Stat. 2029, which authorized the Director of the National Security Agency to carry out a pilot program on cryptologic service training for the intelligence community, was repealed by Pub. L. 111–259, title III, §313(b)(1)(C), Oct. 7, 2010, 124 Stat. 2666.
 
 #### National Security Agency Act of 1959
 
-Pub. L. 86–36, May 29, 1959, 73 Stat. 63, as amended by Pub. L. 87–367, title II, §§201, 204, Oct. 4, 1961, 75 Stat. 789, 791; Pub. L. 87–793, §1001(c), Oct. 11, 1962, 76 Stat. 864; Sept. 23, 1950, ch. 1024, title III, §306(a), as added Mar. 26, 1964, Pub. L. 88–290, 78 Stat. 170; Aug. 14, 1964, Pub. L. 88–426, title III, §306(h), 78 Stat. 430; Oct. 6, 1964, Pub. L. 88–631, §3(d), 78 Stat. 1008; Sept. 6, 1966, Pub. L. 89–554, §8(a), 80 Stat. 660; Oct. 8, 1966, Pub. L. 89–632, §1(e), 80 Stat. 878; Pub. L. 91–187, §2, Dec. 30, 1969, 83 Stat. 850; Pub. L. 96–450, title IV, §402(a), Oct. 14, 1980, 94 Stat. 1977; Pub. L. 97–89, title VI, §§601–603, Dec. 4, 1981, 95 Stat. 1154–1156, eff. Oct. 1, 1981; Pub. L. 99–335, title V, §507(a), June 6, 1986, 100 Stat. 628; Pub. L. 99–569, title V, §505, Oct. 27, 1986, 100 Stat. 3200; Pub. L. 101–193, title V, §505(b), Nov. 30, 1989, 103 Stat. 1709; Pub. L. 101–194, title V, §506(c)(2), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 102–88, title V, §503, Aug. 14, 1991, 105 Stat. 436; Pub. L. 102–183, title IV, §405, Dec. 4, 1991, 105 Stat. 1267; Pub. L. 102–496, title III, §304(a), title IV, §405, title VIII, §803(b), Oct. 24, 1992, 106 Stat. 3183, 3186, 3253; Pub. L. 103–359, title VIII, §806(b)(2), Oct. 14, 1994, 108 Stat. 3442; Pub. L. 104–106, div. A, title X, §1064(b), Feb. 10, 1996, 110 Stat. 445; Pub. L. 104–201, div. A, title XVI, §1633(b)(1), Sept. 23, 1996, 110 Stat. 2751; Pub. L. 107–108, title V, §506, Dec. 28, 2001, 115 Stat. 1406; Pub. L. 107–306, title VIII, §841(f), Nov. 27, 2002, 116 Stat. 2432; Pub. L. 108–177, title III, §377(c), title V, §501, Dec. 13, 2003, 117 Stat. 2630, 2633; Pub. L. 108–487, title V, §501, Dec. 23, 2004, 118 Stat. 3950; Pub. L. 109–364, div. A, title IX, §933, Oct. 17, 2006, 120 Stat. 2363, provided: “That this Act \[this note\] may be cited as the ‘National Security Agency Act of 1959’. \[Amended Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 660; Pub. L. 96–450, title IV, §402(a)(2), Oct. 14, 1980, 94 Stat. 1978.\]
+Pub. L. 86–36, May 29, 1959, 73 Stat. 63, as amended by Pub. L. 87–367, title II, §§201, 204, Oct. 4, 1961, 75 Stat. 789, 791; Pub. L. 87–793, §1001(c), Oct. 11, 1962, 76 Stat. 864; Sept. 23, 1950, ch. 1024, title III, §306(a), as added Mar. 26, 1964, Pub. L. 88–290, 78 Stat. 170; Aug. 14, 1964, Pub. L. 88–426, title III, §306(h), 78 Stat. 430; Oct. 6, 1964, Pub. L. 88–631, §3(d), 78 Stat. 1008; Sept. 6, 1966, Pub. L. 89–554, §8(a), 80 Stat. 660; Oct. 8, 1966, Pub. L. 89–632, §1(e), 80 Stat. 878; Pub. L. 91–187, §2, Dec. 30, 1969, 83 Stat. 850; Pub. L. 96–450, title IV, §402(a), Oct. 14, 1980, 94 Stat. 1977; Pub. L. 97–89, title VI, §§601–603, Dec. 4, 1981, 95 Stat. 1154–1156, eff. Oct. 1, 1981; Pub. L. 99–335, title V, §507(a), June 6, 1986, 100 Stat. 628; Pub. L. 99–569, title V, §505, Oct. 27, 1986, 100 Stat. 3200; Pub. L. 101–193, title V, §505(b), Nov. 30, 1989, 103 Stat. 1709; Pub. L. 101–194, title V, §506(c)(2), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 102–88, title V, §503, Aug. 14, 1991, 105 Stat. 436; Pub. L. 102–183, title IV, §405, Dec. 4, 1991, 105 Stat. 1267; Pub. L. 102–496, title III, §304(a), title IV, §405, title VIII, §803(b), Oct. 24, 1992, 106 Stat. 3183, 3186, 3253; Pub. L. 103–359, title VIII, §806(b)(2), Oct. 14, 1994, 108 Stat. 3442; Pub. L. 104–106, div. A, title X, §1064(b), Feb. 10, 1996, 110 Stat. 445; Pub. L. 104–201, div. A, title XVI, §1633(b)(1), Sept. 23, 1996, 110 Stat. 2751; Pub. L. 107–108,title V, §506, Dec. 28, 2001, 115 Stat. 1406; Pub. L. 107–306, title VIII, §841(f), Nov. 27, 2002, 116 Stat. 2432; Pub. L. 108–177, title III, §377(c), title V, §501, Dec. 13, 2003, 117 Stat. 2630, 2633; Pub. L. 108–487, title V, §501, Dec. 23, 2004, 118 Stat. 3950; Pub. L. 109–364, div. A, title IX, §933, Oct. 17, 2006, 120 Stat. 2363; Pub. L. 111–259, title III, §312(a)–(d), title IV, §433, Oct. 7, 2010, 124 Stat. 2663, 2664, 2732, provided: “That this Act \[this note\] may be cited as the ‘National Security Agency Act of 1959’. \[Amended Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 660; Pub. L. 96–450, title IV, §402(a)(2), Oct. 14, 1980, 94 Stat. 1978.\]
 
-“\[
+“
 
-Sec. 2. Repealed. Pub. L. 104–201, div. A, title XVI, §1633(b)(1), Sept. 23, 1996, 110 Stat. 2751.\]
+Sec. 2. There is a Director of Compliance of the National Security Agency, who shall be appointed by the Director of the National Security Agency and who shall be responsible for the programs of compliance over mission activities of the National Security Agency. \[Added Pub. L. 111–259, title IV, §433, Oct. 7, 2010, 124 Stat. 2732.\]
 
 “
 
@@ -366,7 +322,7 @@ Sec. 10. (a) The Director of the National Security Agency shall arrange for, and
 
 “(2) In order to provide linguistic training and support for cryptologic personnel, the Director—
 
-&emsp;“(A) may pay all or part of the tuition and other expenses related to the training of personnel who are assigned or detailed for language and language-related training, orientation, or instruction; and
+&emsp;“(A) may pay all or part of the tuition and other expenses related to the training of personnel who areassigned or detailed for language and language-related training, orientation, or instruction; and
 
 &emsp;“(B) may pay benefits and allowances to civilian personnel in accordance with chapters 57 and 59 of title 5, United States Code, and to military personnel in accordance with chapter 7 of title 37, United States Code, and applicable provisions of title 10, United States Code, when such personnel are assigned to training at sites away from their designated duty station.
 
@@ -378,7 +334,7 @@ Sec. 10. (a) The Director of the National Security Agency shall arrange for, and
 
 &emsp;“(A) may pay all or part of the tuition and other expenses related to the training of individuals in the cryptologic linguist reserve who are assigned or detailed for language and language-related training, orientation, or instruction; and
 
-&emsp;“(B) may pay benefits and allowances in accordance with chapters 57 and 59 of title 5, United States Code,to individuals in the cryptologic linguist reserve who are assigned to training at sites away from their homes or regular places of business.
+&emsp;“(B) may pay benefits and allowances in accordance with chapters 57 and 59 of title 5, United States Code, to individuals in the cryptologic linguist reserve who are assigned to training at sites away from their homes or regular places of business.
 
 “(d)(1) The Director, before providing training under this section to any individual, may obtain an agreement with that individual that—
 
@@ -418,7 +374,7 @@ Sec. 11. (a)(1) The Director of the National Security Agency may authorize agenc
 
 “(b) The Director of the National Security Agency is authorized to establish penalties for violations of the rules or regulations prescribed by the Director under subsection (a). Such penalties shall not exceed those specified in section 1315(c)(2) of title 40, United States Code.
 
-“(c) Agency personnel designated by the Director of the National Security Agency under subsection (a) shall be clearly identifiable as United States Government security personnel while engaged in the performance of the functions to which subsection (a) refers.
+“(c) Agency personnel designated by the Director of the National Security Agency under subsection (a)shall be clearly identifiable as United States Government security personnel while engaged in the performance of the functions to which subsection (a) refers.
 
 “(d)(1) Notwithstanding any other provision of law, agency personnel designated by the Director of the National Security Agency under subsection (a) shall be considered for purposes of chapter 171 of title 28, United States Code, or any other provision of law relating to tort liability, to be acting within the scope of their office or employment when such agency personnel take reasonable action, which may include the use of force, to—
 
@@ -482,25 +438,31 @@ Sec. 14. Funds appropriated to an entity of the Federal Government other than an
 
 Sec. 15. (a) No person may, except with the written permission of the Director of the National Security Agency, knowingly use the words ‘National Security Agency’, the initials ‘NSA’, the seal of the National Security Agency, or any colorable imitation of such words, initials, or seal in connection with any merchandise, impersonation, solicitation, or commercial activity in a manner reasonably calculated to convey the impression that such use is approved, endorsed, or authorized by the National Security Agency.
 
-“(b) Whenever it appears to the Attorney General that any person is engaged or is about to engage in an act or practice which constitutes or will constitute conduct prohibited by subsection (a), the Attorney General may initiate a civil proceeding in a district court of the United States to enjoin such act or practice. Such court shall proceed as soon as practicable to the hearing and determination of such action and may, at any time before final determination, enter such restraining orders or prohibitions, or take such other action as is warranted, to prevent injury to the United States or to any person or class of persons for whose protection the action is brought. \[Added Pub. L. 97–89, title VI, §603, Dec. 4, 1981, 95 Stat. 1156.\]
+“(b) Whenever it appears to the Attorney General that any person is engaged or is about to engage in an act or practice which constitutes or will constitute conduct prohibited by subsection (a), the Attorney General may initiate a civil proceeding in a district court of the United States to enjoin such act or practice. Such court shall proceed as soon as practicable to the hearing and determination of such action and may, at any time before final determination, enter such restraining orders or prohibitions, or take such other action as is warranted, to prevent injury to the UnitedStates or to any person or class of persons for whose protection the action is brought. \[Added Pub. L. 97–89, title VI, §603, Dec. 4, 1981, 95 Stat. 1156.\]
 
 “
 
-Sec. 16. (a) The purpose of this section is to establish an undergraduate training program, which may lead to the baccalaureate degree, to facilitate the recruitment of individuals, particularly minority high school students, with a demonstrated capability to develop skills critical to the mission of the National Security Agency, including mathematics, computer science, engineering, and foreign languages.
+Sec. 16. (a) The purpose of this section is to establish an undergraduate and graduate training program, which may lead to a baccalaureate or graduate degree, to facilitate the recruitment of individuals, particularly minority high school students, with a demonstrated capability to develop skills critical to the mission of the National Security Agency, including mathematics, computer science, engineering, and foreign languages. \[Amended Pub. L. 111–259, title III, §312(a)(1), Oct. 7, 2010, 124 Stat. 2663.\]
 
-“(b) The Secretary of Defense is authorized, in his discretion, to assign civilian employees of the National Security Agency as students at accredited professional, technical, and other institutions of higher learning for training at the undergraduate level in skills critical to effective performance of the mission of the Agency.
+“(b) The Secretary of Defense is authorized, in his discretion, to assign civilians who may or may not be employees of the National Security Agency as students at accredited professional, technical, and other institutions of higher learning for training at the undergraduate or graduate level in skills critical to effective performance of the mission of the Agency. \[Amended Pub. L. 111–259, title III, §312(a)(2), (b)(1), Oct. 7, 2010, 124 Stat. 2663.\]
 
-“(c) The National Security Agency may pay, directly or by reimbursement to employees, expenses incident to assignments under subsection (b), in any fiscal year only to the extent that appropriated funds are available for such purpose.
+“(c) The National Security Agency may pay, directly or by reimbursement to program participants, expenses incident to assignments under subsection (b), in any fiscal year only to the extent that appropriated funds are available for such purpose. \[Amended Pub. L. 111–259, title III, §312(b)(2)(A), Oct. 7, 2010, 124 Stat. 2664.\]
 
-“(d)(1) To be eligible for assignment under subsection (b), an employee of the Agency must agree in writing—
+“(d)(1) To be eligible for assignment under subsection (b), a program participant, \[sic\] must agree in writing— \[Pub. L. 111–259, title III, §312(b)(2)(B)(i)(I), Oct. 7, 2010, 124 Stat. 2664, which directed substitution of “a program participant,” for “an employee of the Agency,”, was executed by making the substitution for “an employee of the Agency” to reflect the probable intent of Congress.\]
 
-&emsp;“(A) to continue in the service of the Agency for the period of the assignment and to complete the educational course of training for which the employee is assigned;
+&emsp;“(A) to continue in the service of the Agency for the period of the assignment and to complete the educational course of training for which the program participant is assigned; \[Amended Pub. L. 111–259, title III, §312(b)(2)(B)(i)(II), Oct. 7, 2010, 124 Stat. 2664.\]
 
 &emsp;“(B) to continue in the service of the Agency following completion of the assignment for a period of one-and-a-half years for each year of the assignment or part thereof;
 
-&emsp;“(C) to reimburse the United States for the total cost of education (excluding the employee's pay and allowances) provided under this section to the employee if, prior to the employee's completing the educational course of training for which the employee is assigned, the assignment or the employee's employment with the Agency is terminated either by the Agency due to misconduct by the employee or by the employee voluntarily; and
+&emsp;“(C) to reimburse the United States for the total cost of education (excluding the program participant's pay and allowances) provided under this section to the program participant if, prior to the program participant's completing the educational course of training for which the program participant is assigned, the assignment or the program participant's employment with the Agency is terminated—
 
-&emsp;“(D) to reimburse the United States if, after completing the educational course of training for which the employee is assigned, the employee's employment with the Agency is terminated either by the Agencydue to misconduct by the employee or by the employee voluntarily, prior to the employee's completion of the service obligation period described in subparagraph (B), in an amount that bears the same ratio to the total cost of the education (excluding the employee's pay and allowances) provided to the employee as the unserved portion of the service obligation period described in subparagraph (B) bears to the total period of the service obligation described in subparagraph (B).
+&emsp;&emsp;“(i) by the Agency due to misconduct by the program participant;
+
+&emsp;&emsp;“(ii) by the program participant voluntarily; or
+
+&emsp;&emsp;“(iii) by the Agency for the failure of the program participant to maintain such level of academic standing in the educational course of training as the Director of the National Security Agency shall have specified in the agreement of the program participant under this subsection; and \[Amended Pub. L. 111–259, title III, §312(b)(2)(B)(i)(III), (c), Oct. 7, 2010, 124 Stat. 2664.\]
+
+&emsp;“(D) to reimburse the United States if, after completing the educational course of training for which the program participant is assigned, the program participant's employment with the Agency is terminated either by the Agency due to misconduct by the program participant or by the program participant voluntarily, prior to the program participant's completion of the service obligation period described in subparagraph (B), in an amount that bears the same ratio to the total cost of the education (excluding the program participant's pay and allowances) provided to the program participant as the unserved portion of the service obligation period described in subparagraph (B) bears to the total period of the service obligation described in subparagraph (B). \[Amended Pub. L. 111–259, title III, §312(b)(2)(B)(i)(IV), Oct. 7, 2010, 124 Stat. 2664.\]
 
 “(2) Subject to paragraph (3), the obligation to reimburse the United States under an agreement described in paragraph (1), including interest due on such obligation, is for all purposes a debt owing the United States.
 
@@ -508,15 +470,15 @@ Sec. 16. (a) The purpose of this section is to establish an undergraduate traini
 
 “(B) The Secretary of Defense may release a person, in whole or in part, from the obligation to reimburse the United States under an agreement described in paragraph (1) when, in his discretion, the Secretary determines that equity or the interests of the United States so require.
 
-“(C) The Secretary of Defense shall permit an employee assigned under this section who, prior to commencing a second academic year of such assignment, voluntarily terminates the assignment or the employee's employment with the Agency, to satisfy his obligation under an agreement described in paragraph (1) to reimburse the United States by reimbursement according to a schedule of monthly payments which results in completion of reimbursement by a date five years after the date of termination of the assignment or employment or earlier at the option of the employee.
+“(C) The Secretary of Defense shall permit an \[sic\] program participant assigned under this section who, prior to commencing a second academic year of such assignment, voluntarily terminates the assignment or the program participant's employment with the Agency, to satisfy his obligation under an agreement described in paragraph (1) to reimburse the United States by reimbursement according to a schedule of monthly payments which results in completion of reimbursement by a date five years after the date of termination of the assignment or employment or earlier at the option of the program participant. \[Amended Pub. L. 111–259, title III, §312(b)(2)(B)(ii), Oct. 7, 2010, 124 Stat. 2664.\]
 
-“(e)(1) When an employee is assigned under this section to an institution, the Agency shall disclose to the institution to which the employee is assigned that the Agency employs the employee and that the Agency funds the employee's education.
-
-“(2) Agency efforts to recruit individuals at educational institutions for participation in the undergraduate training program established by this section shall be made openly and according to the common practices of universities and employers recruiting at such institutions.
+“(e) Agency efforts to recruit individuals at educational institutions for participation in the undergraduate and graduate training program established by this section shall be made openly and according to the common practices of universities and employers recruiting at such institutions. \[Amended Pub. L. 111–259, title III, §312(a)(3), (d), Oct. 7, 2010, 124 Stat. 2663, 2664.\]
 
 “(f) Chapter 41 of title 5 and subsections (a) and (b) of section 3324 of title 31, United States Code, shall not apply with respect to this section.
 
 “(g) The Secretary of Defense may issue such regulations as may be necessary to implement this section. \[Added Pub. L. 99–569, title V, §505, Oct. 27, 1986, 100 Stat. 3200.\]
+
+“(h) The undergraduate and graduate training program established under this section shall be known as the Louis Stokes Educational Scholarship Program. \[Added Pub. L. 111–259, title III, §312(a)(4), Oct. 7, 2010, 124 Stat. 2663.\]
 
 “\[
 
@@ -566,7 +528,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Establishment</i>. I hereby establish within the Executive Office of the President an Office of Homeland Security (the “Office”) to be headed by the Assistant to the President for Homeland Security.
 
-Sec. 2. <i>Mission</i>. The mission of the Office shall be to develop and coordinate the implementation of a comprehensive national strategy to secure the United States from terrorist threats or attacks. The Officeshall perform the functions necessary to carry out this mission, including the functions specified in section 3 of this order.
+Sec. 2. <i>Mission</i>. The mission of the Office shall be to develop and coordinate the implementation of a comprehensive national strategy to secure the United States from terrorist threats or attacks. The Office shall perform the functions necessary to carry out this mission, including the functions specified in section 3 of this order.
 
 Sec. 3. <i>Functions</i>. The functions of the Office shall be to coordinate the executive branch's efforts to detect, prepare for, prevent, protect against, respond to, and recover from terrorist attacks within the United States.
 

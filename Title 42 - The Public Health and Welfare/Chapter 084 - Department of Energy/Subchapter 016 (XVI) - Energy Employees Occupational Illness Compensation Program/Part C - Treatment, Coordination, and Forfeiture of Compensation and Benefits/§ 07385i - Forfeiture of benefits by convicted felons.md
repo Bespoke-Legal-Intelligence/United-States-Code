@@ -12,5 +12,5 @@ Notwithstanding section 552a of title 5, or any other Federal or State law, an a
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–375 substituted “this subchapter” for “part B” wherever appearing.
+<b>2004</b>—Subsec. (a). Pub. L. 108–375 substituted “this subchapter” for “part B” wherever appearing.
 

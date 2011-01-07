@@ -9,3 +9,4 @@
 - [&sect; 01185a - Parity in mental health and substance use disorder benefits](%C2%A7%2001185a%20-%20Parity%20in%20mental%20health%20and%20substance%20use%20disorder%20benefits.md)
 - [&sect; 01185b - Required coverage for reconstructive surgery following mastectomies](%C2%A7%2001185b%20-%20Required%20coverage%20for%20reconstructive%20surgery%20following%20mastectomies.md)
 - [&sect; 01185c - Coverage of dependent students on medically necessary leave of absence](%C2%A7%2001185c%20-%20Coverage%20of%20dependent%20students%20on%20medically%20necessary%20leave%20of%20absence.md)
+- [&sect; 01185d - Additional market reforms](%C2%A7%2001185d%20-%20Additional%20market%20reforms.md)

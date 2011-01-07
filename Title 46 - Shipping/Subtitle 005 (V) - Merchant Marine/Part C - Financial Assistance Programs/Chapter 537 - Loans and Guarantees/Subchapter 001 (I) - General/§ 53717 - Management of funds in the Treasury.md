@@ -70,11 +70,11 @@ The Federal Credit Reform Act of 1990, referred to in subsec. (a), is title V of
 
 #### Amendments
 
-2008—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(B), (D), (c)(2). See 2006 Amendment note below.
+<b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(B), (D), (c)(2). See 2006 Amendment note below.
 
-Subsec. (b). Pub. L. 110–181, §3522(a)(9)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(B), (D), (c)(2), into this section bysubstituting “Administrator” for “Secretary of Transportation” wherever appearing in heading and text. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+Subsec. (b). Pub. L. 110–181, §3522(a)(9)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(B), (D), (c)(2), into this section by substituting “Administrator” for “Secretary of Transportation” wherever appearing in heading and text. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
 Subsecs. (c), (d). Pub. L. 110–181, §3522(a)(7), struck out “of Commerce” after “Secretary” wherever appearing in headings and text.
 
-2006—Pub. L. 109–163, §3507(a)(1)(B), (D), (c)(2), which directed the amendment of sections 1272, 1274(g), and 1280 of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment note for subsec. (b) and Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–163, §3507(a)(1)(B), (D), (c)(2), which directed the amendment of sections 1272, 1274(g), and 1280 of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment note for subsec. (b) and Historical and Revision notes above.
 

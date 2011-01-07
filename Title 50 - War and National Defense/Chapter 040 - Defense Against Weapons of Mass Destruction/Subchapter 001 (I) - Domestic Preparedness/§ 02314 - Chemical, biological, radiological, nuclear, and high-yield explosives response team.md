@@ -12,7 +12,7 @@ The Secretary of Homeland Security shall incorporate into the National Response 
 
 #### Amendments
 
-2006—Pub. L. 109–163, §1033(1), substituted “Chemical, biological, radiological, nuclear, and high-yield explosives response team” for “Chemical-biological emergency response team” in section catchline.
+<b>2006</b>—Pub. L. 109–163, §1033(1), substituted “Chemical, biological, radiological, nuclear, and high-yield explosives response team” for “Chemical-biological emergency response team” in section catchline.
 
 Subsec. (a). Pub. L. 109–163, §1033(2), substituted “radiological, nuclear, and high-yield explosives” for “or related materials”.
 

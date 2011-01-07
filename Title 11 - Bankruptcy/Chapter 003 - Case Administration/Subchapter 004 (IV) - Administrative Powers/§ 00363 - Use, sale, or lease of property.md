@@ -1,6 +1,6 @@
 ### §363. Use, sale, or lease of property
 
-(a) In this section, “cash collateral” means cash, negotiable instruments, documents of title, securities, deposit accounts, or other cash equivalents whenever acquired in which the estate and an entity other than the estate have an interest and includes the proceeds, products, offspring, rents, or profits of property and the fees, charges, accounts or other payments for the use or occupancy of rooms and other public facilities in hotels, motels, or other lodging properties subject to a security interest as providedin section 552(b) of this title, whether existing before or after the commencement of a case under this title.
+(a) In this section, “cash collateral” means cash, negotiable instruments, documents of title, securities, deposit accounts, or other cash equivalents whenever acquired in which the estate and an entity other than the estate have an interest and includes the proceeds, products, offspring, rents, or profits of property and the fees, charges, accounts or other payments for the use or occupancy of rooms and other public facilities in hotels, motels, or other lodging properties subject to a security interest as provided in section 552(b) of this title, whether existing before or after the commencement of a case under this title.
 
 (b)(1) The trustee, after notice and a hearing, may use, sell, or lease, other than in the ordinary course of business, property of the estate, except that if the debtor in connection with offering a product or a service discloses to an individual a policy prohibiting the transfer of personally identifiable information about individuals to persons that are not affiliated with the debtor and if such policy is in effect on the date of the commencement of the case, then the trustee may not sell or lease personally identifiable information to any person unless—
 
@@ -36,11 +36,11 @@
 
 (4) Except as provided in paragraph (2) of this subsection, the trustee shall segregate and account for any cash collateral in the trustee's possession, custody, or control.
 
-(d) The trustee may use, sell, or lease property under subsection (b) or (c) of this section only—
+(d) The trustee may use, sell, or lease property under subsection (b) or (c) of this section—
 
-&emsp;(1) in accordance with applicable nonbankruptcy law that governs the transfer of property by a corporation or trust that is not a moneyed, business, or commercial corporation or trust; and
+&emsp;(1) in the case of a debtor that is a corporation or trust that is not a moneyed business, commercial corporation, or trust, only in accordance with nonbankruptcy law applicable to the transfer of property by a debtor that is such a corporation or trust; and
 
-&emsp;(2) to the extent not inconsistent with any relief granted under subsection (c), (d), (e), or (f) of section 362.
+&emsp;(2) only to the extent not inconsistent with any relief granted under subsection (c), (d), (e), or (f) of section 362.
 
 (e) Notwithstanding any other provision of this section, at any time, on request of an entity that has an interest in property used, sold, or leased, or proposed to be used, sold, or leased, by the trustee, the court, with or without a hearing, shall prohibit or condition such use, sale, or lease as is necessary to provide adequate protection of such interest. This subsection also applies to property that is subject to any unexpired lease of personal property (to the exclusion of such property being subject to an order to grant relief from the stay under section 362).
 
@@ -62,7 +62,7 @@
 
 &emsp;(1) partition in kind of such property among the estate and such co-owners is impracticable;
 
-&emsp;(2) sale of the estate's undivided interest in such property would realize significantly lessfor the estate than sale of such property free of the interests of such co-owners;
+&emsp;(2) sale of the estate's undivided interest in such property would realize significantly less for the estate than sale of such property free of the interests of such co-owners;
 
 &emsp;(3) the benefit to the estate of a sale of such property free of the interests of co-owners outweighs the detriment, if any, to such co-owners; and
 
@@ -88,7 +88,7 @@
 
 &emsp;(2) the entity asserting an interest in property has the burden of proof on the issue of the validity, priority, or extent of such interest.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2572; Pub. L. 98–353, title III, §442, July 10, 1984, 98 Stat. 371; Pub. L. 99–554, title II, §257(k), Oct. 27, 1986, 100 Stat. 3115; Pub. L. 103–394, title I, §109, title II, §§214(b), 219(c), title V, §501(d)(8), Oct. 22, 1994, 108 Stat. 4113, 4126, 4129, 4144; Pub. L. 109–8, title II, §§204, 231(a), title XII, §1221(a), Apr. 20, 2005, 119 Stat. 49, 72, 195.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2572; Pub. L. 98–353, title III, §442, July 10, 1984, 98 Stat. 371; Pub. L. 99–554, title II, §257(k), Oct. 27, 1986, 100 Stat. 3115; Pub. L. 103–394, title I, §109, title II, §§214(b), 219(c), title V, §501(d)(8), Oct. 22, 1994, 108 Stat. 4113, 4126, 4129, 4144; Pub. L. 109–8, title II, §§204, 231(a), title XII, §1221(a), Apr. 20, 2005, 119 Stat. 49, 72, 195; Pub. L. 111–327, §2(a)(13), Dec. 22, 2010, 124 Stat. 3559.)
 
 #### Historical and Revision Notes
 
@@ -142,7 +142,13 @@ The Truth in Lending Act, referred to in subsec. (<i>o</i>), is title I of Pub. 
 
 #### Amendments
 
-2005—Subsec. (b)(1). Pub. L. 109–8, §231(a), substituted “, except that if the debtor in connection with offeringa product or a service discloses to an individual a policy prohibiting the transfer of personally identifiable information about individuals to persons that are not affiliated with the debtor and if such policy is in effect on the date of the commencement of the case, then the trustee may not sell or lease personally identifiable information to any person unless—” and subpars. (A) and (B) for period at end.
+2010—Subsec. (d). Pub. L. 111–327, §2(a)(13)(A), struck out “only” before dash at end of introductory provisions.
+
+Subsec. (d)(1). Pub. L. 111–327, §2(a)(13)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “in accordance with applicable nonbankruptcy law that governs the transfer of property by a corporation or trust that is not a moneyed, business, or commercial corporation or trust; and”.
+
+Subsec. (d)(2). Pub. L. 111–327, §2(a)(13)(C), inserted “only” before “to the extent”.
+
+2005—Subsec. (b)(1). Pub. L. 109–8, §231(a), substituted “, except that if the debtor in connection with offering a product or a service discloses to an individual a policy prohibiting the transfer of personally identifiable information about individuals to persons that are not affiliated with the debtor and if such policy is in effect on the date of the commencement of the case, then the trustee may not sell or lease personally identifiable information to any person unless—” and subpars. (A) and (B) for period at end.
 
 Subsec. (d). Pub. L. 109–8, §1221(a), substituted “only—” and pars. (1) and (2) for “only to the extent not inconsistent with any relief granted under section 362(c), 362(d), 362(e), or 362(f) of this title.”
 
@@ -200,7 +206,7 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not app
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
 #### Construction of Section 1221 of Pub. L. 109–8
 

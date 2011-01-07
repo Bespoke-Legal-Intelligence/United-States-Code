@@ -4,7 +4,7 @@
 
 The Secretary shall, by rule, within 60 days after December 22, 1975, prescribe guidelines for the preparation of a State energy conservation feasibility report. The Secretary shall invite the Governor of each State to submit, within 3 months after the effective date of such guidelines, such a report. Such report shall include—
 
-&emsp;(1) an assessment of the feasibility of establishing a State energy conservation goal, which goal shall consist of a reduction, as a result of the implementation of the State energy conservation plan described in this section, of 5 percent or more in the total amountof energy consumed in such State in the year 1980 from the projected energy consumption for such State in the year 1980, and
+&emsp;(1) an assessment of the feasibility of establishing a State energy conservation goal, which goal shall consist of a reduction, as a result of the implementation of the State energy conservation plan described in this section, of 5 percent or more in the total amount of energy consumed in such State in the year 1980 from the projected energy consumption for such State in the year 1980, and
 
 &emsp;(2) a proposal by such State for the development of a State energy conservation plan to achieve such goal.
 
@@ -126,23 +126,23 @@ The Governor of any State may submit to the Secretary a State energy conservatio
 
 The Secretary shall, at least once every 3 years, invite the Governor of each State to review and, if necessary, revise the energy conservation plan of such State submitted under subsection (b) or (e) of this section. Such reviews should consider the energy conservation plans of other States within the region, and identify opportunities and actions carried out in pursuit of common energy conservation goals.
 
-(Pub. L. 94–163, title III, §362, Dec. 22, 1975, 89 Stat. 933; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 101–440, §§3(a), 4(a), (b), Oct. 18, 1990, 104 Stat. 1006–1008; Pub. L. 102–486, title I, §141(b), (c)(1), Oct. 24, 1992, 106Stat. 2841; Pub. L. 105–244, title I, §102(a)(13)(E), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 105–388, §5(a)(8), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §123(a), Aug. 8, 2005, 119 Stat. 616.)
+(Pub. L. 94–163, title III, §362, Dec. 22, 1975, 89 Stat. 933; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 101–440, §§3(a), 4(a), (b), Oct. 18, 1990, 104 Stat. 1006–1008; Pub. L. 102–486, title I, §141(b), (c)(1), Oct. 24, 1992, 106 Stat. 2841; Pub. L. 105–244, title I, §102(a)(13)(E), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 105–388, §5(a)(8), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §123(a), Aug. 8, 2005, 119 Stat. 616.)
 
 #### Amendments
 
-2005—Subsec. (g). Pub. L. 109–58 added subsec. (g).
+<b>2005</b>—Subsec. (g). Pub. L. 109–58 added subsec. (g).
 
-1998—Subsec. (a)(1). Pub. L. 105–388, §5(a)(8)(A), inserted “of” after “of the implementation”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–388, §5(a)(8)(A), inserted “of” after “of the implementation”.
 
 Subsec. (d)(12). Pub. L. 105–388, §5(a)(8)(B), substituted “subsection (f)(2)” for “subsection (g)”.
 
 Subsec. (f)(5)(A). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
 
-1992—Subsec. (c)(5). Pub. L. 102–486, §141(c)(1), substituted “and to turn such vehicle left from a one-way street onto a one-way street at a red light after stopping; and” for “; and”.
+<b>1992</b>—Subsec. (c)(5). Pub. L. 102–486, §141(c)(1), substituted “and to turn such vehicle left from a one-way street onto a one-way street at a red light after stopping; and” for “; and”.
 
 Subsec. (d)(13) to (17). Pub. L. 102–486, §141(b), added pars. (13) to (16) and redesignated former par. (13) as (17).
 
-1990—Subsec. (c)(6). Pub. L. 101–440, §3(a), added par. (6).
+<b>1990</b>—Subsec. (c)(6). Pub. L. 101–440, §3(a), added par. (6).
 
 Subsec. (d)(3). Pub. L. 101–440, §4(a)(1), added par. (3) and struck out former par. (3) which read as follows: “transportation controls;”.
 
@@ -150,7 +150,7 @@ Subsec. (d)(5) to (13). Pub. L. 101–440, §4(a)(3), added pars. (5) to (13) an
 
 Subsec. (f). Pub. L. 101–440, §4(b), added subsec. (f).
 
-1978—Subsecs. (a), (b), (e). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+<b>1978</b>—Subsecs. (a), (b), (e). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
 #### Effective Date of 1998 Amendment
 

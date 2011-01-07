@@ -60,11 +60,11 @@ Subsection (b) is based on Pub. L. 91–441, title II, §204, Oct. 7, 1970, 84 S
 
 #### Amendments
 
-1996—Subsec. (d). Pub. L. 104–201 substituted “sections 2371 and 2371a” for “section 2371”.
+<b>1996</b>—Subsec. (d). Pub. L. 104–201 substituted “sections 2371 and 2371a” for “section 2371”.
 
-1994—Pub. L. 103–355 amended section generally, inserting reference to development projects in section catchline, and in text specifying that relevant Secretary may perform research and development projects in accordance with chapter 63 of title 31, and adding subsec. (d) relating to additional provisions applicable to cooperative agreements.
+<b>1994</b>—Pub. L. 103–355 amended section generally, inserting reference to development projects in section catchline, and in text specifying that relevant Secretary may perform research and development projects in accordance with chapter 63 of title 31, and adding subsec. (d) relating to additional provisions applicable to cooperative agreements.
 
-1993—Pub. L. 103–160 amended section generally. Prior to amendment, section read as follows:
+<b>1993</b>—Pub. L. 103–160 amended section generally. Prior to amendment, section read as follows:
 
 “(a)
 
@@ -80,13 +80,145 @@ In General.—Subject to approval by the President, the Secretary of Defense may
 
 Requirement of Potential Military Relationship.—Funds appropriated to the Department of Defense may not be used to finance any research project or study unless the project or study has, in the opinion of the Secretary of Defense, a potential relationship to a military function or operation.”
 
-1988—Pub. L. 100–370 designated existing provisions as subsec. (a), inserted heading, struck out “or his designee” after “Secretary of Defense” and “President, the Secretary”, and added subsec. (b).
+<b>1988</b>—Pub. L. 100–370 designated existing provisions as subsec. (a), inserted heading, struck out “or his designee” after “Secretary of Defense” and “President, the Secretary”, and added subsec. (b).
 
-1981—Par. (1). Pub. L. 97–86 substituted “by contract with, or by grant to,” for “by contract with”.
+<b>1981</b>—Par. (1). Pub. L. 97–86 substituted “by contract with, or by grant to,” for “by contract with”.
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of this title.
+
+#### Program for Research, Development, and Deployment of Advanced Ground Vehicles, Ground Vehicle Systems, and Components
+
+Pub. L. 111–383, div. A, title II, §214, Jan. 7, 2011, 124 Stat. 4164, provided that:
+
+“(a)
+
+Program Authorized.—The Secretary of Defense may carry out a program for research and development on, and deployment of, advanced technology ground vehicles, ground vehicle systems, and components within the Department of Defense.
+
+“(b)
+
+Goals and Objectives.—The goals and objectives of the program authorized by subsection (a) are as follows:
+
+&emsp;“(1) To identify and support technological advances that are necessary for the development of advanced technologies for use in ground vehicles of types to be used by the Department of Defense.
+
+&emsp;“(2) To procure and deploy significant quantities of advanced technology ground vehicles for use by the Department.
+
+&emsp;“(3) To maximize the leverage of Federal and nongovernment funds used for the development and deployment of advanced technology ground vehicles, ground vehicle systems, and components.
+
+“(c)
+
+Elements of Program.—The program authorized by subsection (a) may include—
+
+&emsp;“(1) enhanced research and development activities for advanced technology ground vehicles, ground vehicle systems, and components, including—
+
+&emsp;&emsp;“(A) increased investments in research and development of batteries, advanced materials, power electronics, fuel cells and fuel cell systems, hybrid systems, and advanced engines;
+
+&emsp;&emsp;“(B) pilot projects for the demonstration of advanced technologies in ground vehicles for use by the Department of Defense; and
+
+&emsp;&emsp;“(C) the establishment of public-private partnerships, including research centers, manufacturing and prototyping facilities, and test beds, to speed the development, deployment, and transition to use of advanced technology ground vehicles, ground vehicle systems, and components; and
+
+&emsp;“(2) enhanced activities to procure and deploy advanced technology ground vehicles in the Department, including—
+
+&emsp;&emsp;“(A) preferences for the purchase of advanced technology ground vehicles;
+
+&emsp;&emsp;“(B) the use of authorities available to the Secretary of Defense to stimulate the development and production of advanced technology systems and ground vehicles through purchases, loan guarantees, and other mechanisms;
+
+&emsp;&emsp;“(C) pilot programs to demonstrate advanced technology ground vehicles and associated infrastructure at select defense installations;
+
+&emsp;&emsp;“(D) metrics to evaluate environmental and other benefits, life cycle costs, and greenhouse gas emissions associated with the deployment of advanced technology ground vehicles; and
+
+&emsp;&emsp;“(E) schedules and objectives for the conversion of the ground vehicle fleet of the Department to advanced technology ground vehicles.
+
+“(d)
+
+Cooperation With Industry and Academia.—
+
+&emsp;“(1)
+
+In general.—The Secretary may carry out the program authorized by subsection (a) through partnerships and other cooperative agreements with private sector entities, including—
+
+&emsp;&emsp;“(A) universities and other academic institutions;
+
+&emsp;&emsp;“(B) companies in the automobile and truck manufacturing industry;
+
+&emsp;&emsp;“(C) companies that supply systems and components to the automobile and truck manufacturing industry; and
+
+&emsp;&emsp;“(D) any other companies or private sector entities that the Secretary considers appropriate.
+
+&emsp;“(2)
+
+Nature of cooperation.—The Secretary shall ensure that any partnership or cooperative agreement under paragraph (1) provides for private sector participants to collectively contribute, in cash or in kind, not less than one-half of the total cost of the activities carried out under such partnership or cooperative agreement.
+
+“(e)
+
+Coordination With Other Federal Agencies.—The program authorized by subsection (a) shall be carried out, to the maximum extent practicable, in coordination with the Department of Energy and other appropriate departments and agencies of the Federal Government.”
+
+#### Pilot Program To Include Technology Protection Features During Research and Development of Defense Systems
+
+Pub. L. 111–383, div. A, title II, §243, Jan. 7, 2011, 124 Stat. 4178, provided that:
+
+“(a)
+
+Pilot Program.—The Secretary of Defense shall carry out a pilot program to develop and incorporate technology protection features in a designated system during the research and development phase of such system.
+
+“(b)
+
+Annual Reports.—Not later than December 31 of each year in which the Secretary carries out the pilot program established under this section, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the pilot program, including a list of each designated system included in the program.
+
+“(c)
+
+Termination.—The pilot program established under this section shall terminate on October 1, 2015.
+
+“(d)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘designated system’ means any system (including a major system, as defined in section 2302(5) of title 10, United States Code) that the Under Secretary of Defense for Acquisition, Technology, and Logistics designates as being included in the pilot program established under this section.
+
+&emsp;“(2) The term ‘technology protection features’ means the technical modifications necessary to protect critical program information, including anti-tamper technologies and other systems engineering activities intended to prevent or delay exploitation of critical technologies in a designated system.”
+
+#### Program to Assess the Utility of Non-Lethal Weapons
+
+Pub. L. 111–383, div. A, title X, §1078, Jan. 7, 2011, 124 Stat. 4380, provided that:
+
+“(a)
+
+Sense of Congress.—It is the sense of Congress that the Secretary of Defense should support the research, development, test, and evaluation, procurement, and fielding of effective non-lethal weapons and technologies explicitly designed to, with respect to counterinsurgency operations, reduce military casualties and fatalities, improve military mission accomplishment and operational effectiveness, reduce civilian casualties and fatalities, and minimize undesired damage to property and the environment.
+
+“(b)
+
+Program Required.—
+
+&emsp;“(1)
+
+Demonstration and assessment.—The Secretary of Defense, acting through the Executive Agent for Non-lethal Weapons and in coordination with the Secretaries of the military departments and the combatant commanders, shall carry out a program to demonstrate and assess the utility and effectiveness of non-lethal weapons to provide escalation of force options in counter-insurgency operations.
+
+&emsp;“(2)
+
+Non-lethal weapons evaluated.—In evaluating non-lethal weapons under the program under this subsection, the Secretary shall include non-lethal weapons designed for counter-personnel and counter-materiel missions.
+
+“(c)
+
+Report.—
+
+&emsp;“(1)
+
+Report required.—Not later than October 1, 2011, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the role and utility of non-lethal weapons and technologies in counterinsurgency operations.
+
+&emsp;“(2)
+
+Elements.—The report under paragraph (1) shall include the following:
+
+&emsp;&emsp;“(A) A description of the results of any demonstrations and assessments of non-lethal weapons conducted during fiscal year 2011.
+
+&emsp;&emsp;“(B) A description of the Secretary's plans for any demonstrations and assessments of non-lethal weapons to be conducted during fiscal years 2012 and 2013.
+
+&emsp;&emsp;“(C) A description of the extent to which non-lethal weapons doctrine, training, and employment include the use of strategic communications strategies to enable the effective employment of non-lethal weapons.
+
+&emsp;&emsp;“(D) A description of the input of the military departments in developing concepts of operations and tactics, techniques, and procedures for incorporating non-lethal weapons into the current escalation of force procedures of each department.
+
+&emsp;&emsp;“(E) A description of the extent to which non-lethal weapons and technologies are integrated into the standard equipment and training of military units.”
 
 #### Mechanisms To Provide Funds for Defense Laboratories for Research and Development of Technologies for Military Missions
 
@@ -122,11 +254,11 @@ Sunset.—The authority under subsection (a) shall expire on October 1, 2013.”
 
 #### Science and Technology Investment Strategy To Defeat or Counter Improvised Explosive Devices
 
-Pub. L. 110–417, \[div. A\], title XV, §1504, Oct. 14, 2008, 122 Stat. 4650, provided that:
+Pub. L. 110–417, \[div. A\], title XV, §1504, Oct. 14, 2008, 122 Stat. 4650, as amended by Pub. L. 111–383, div. A, title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317, provided that:
 
 “(a)
 
-Strategy Required.—The Director of the Joint Improvised Explosive Device Defeat Organization (JIEDDO), jointly with the Director of Defense Research and Engineering, shall develop a comprehensive science and technology investment strategy for countering the threat of improvised explosive devices (IEDs).
+Strategy Required.—The Director of the Joint Improvised Explosive Device Defeat Organization (JIEDDO), jointly with the Assistant Secretary of Defense for Research and Engineering, shall develop a comprehensive science and technology investment strategy for countering the threat of improvised explosive devices (IEDs).
 
 “(b)
 
@@ -148,11 +280,11 @@ Elements.—The strategy developed under subsection (a) shall include the follow
 
 &emsp;“(8) Identification of the measures of effectiveness for the overall Department of Defense science and technology counter-IED effort.
 
-&emsp;“(9) Such other matters as the Director of the JIEDDO and the Director of Defense Research and Engineering consider appropriate.
+&emsp;“(9) Such other matters as the Director of the JIEDDO and the Assistant Secretary of Defense for Research and Engineering consider appropriate.
 
 “(c)
 
-Report.—Not later than March 1, 2009, and each March 1 thereafter through March 1, 2013, the Director of the JIEDDO and the Director of Defense Research and Engineering shall jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report describing the implementation of the strategy developed under subsection (a). The report may be in unclassified and classified format, as necessary.”
+Report.—Not later than March 1, 2009, and each March 1 thereafter through March 1, 2013, the Director of the JIEDDO and the Assistant Secretary of Defense for Research and Engineering shall jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report describing the implementation of the strategy developed under subsection (a). The report may be in unclassified and classified format, as necessary.”
 
 #### Hypersonics Development
 
@@ -164,7 +296,7 @@ Establishment of Joint Technology Office on Hypersonics.—The Secretary of Defe
 
 “(b)
 
-Program on Hypersonics.—The joint technology office established under subsection (a) shall carry out aprogram for the development of hypersonics for defense purposes.
+Program on Hypersonics.—The joint technology office established under subsection (a) shall carry out a program for the development of hypersonics for defense purposes.
 
 “(c)
 
@@ -248,7 +380,7 @@ Reports to Congress.—If, as a result of a review under subsection (e), funding
 
 #### Collaborative Program for Research and Development of Vacuum Electronics Technologies
 
-Pub. L. 108–375, div. A, title II, §212, Oct. 28, 2004, 118 Stat. 1832, provided that:
+Pub. L. 108–375, div. A, title II, §212, Oct. 28, 2004, 118 Stat. 1832, as amended by Pub. L. 111–383, div. A, title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317, provided that:
 
 “(a)
 
@@ -256,7 +388,7 @@ Program Required.—The Secretary of Defense shall establish a program for resea
 
 “(b)
 
-Description of Program.—The program under subsection (a) shall be carried out collaboratively by the Director of Defense Research and Engineering, the Secretary of the Navy, the Secretary of the Air Force, the Secretary of the Army, and other appropriate elements of the Department of Defense. The program shall include the following activities:
+Description of Program.—The program under subsection (a) shall be carried out collaboratively by the Assistant Secretary of Defense for Research andEngineering, the Secretary of the Navy, the Secretary of the Air Force, the Secretary of the Army, and other appropriate elements of the Department of Defense. The program shall include the following activities:
 
 &emsp;“(1) Activities needed for development and maturation of advanced vacuum electronics technologies needed to meet the requirements of the Department of Defense.
 
@@ -264,7 +396,7 @@ Description of Program.—The program under subsection (a) shall be carried out 
 
 “(c)
 
-Report.—Not later than January 31, 2005, the Director of Defense Research and Engineering shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a report on the implementation of the program under subsection (a). The report shall include the following:
+Report.—Not later than January 31, 2005, the Assistant Secretary of Defense for Research and Engineering shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a report on the implementation of the program under subsection (a). The report shall include the following:
 
 &emsp;“(1) Identification of the organization to have lead responsibility for carrying out the program.
 
@@ -360,7 +492,7 @@ Interagency Cooperation.—(1) In carrying out the program under subsection (a),
 
 Expedited Procurement Authority.—(1) For any procurement of property or services for use (as determined by the Secretary) in performing, administering, or supporting biomedical countermeasures research and development, the Secretary may, when appropriate, use streamlined acquisition procedures and other expedited procurement procedures authorized in—
 
-&emsp;“(A) section 32A of the Office of Federal Procurement Policy Act, as added by section 1443 of this Act \[41 U.S.C. 428a\]; and
+&emsp;“(A) section 32A of the Office of Federal Procurement Policy Act, as added by section 1443 of this Act \[now 41 U.S.C. 1903\]; and
 
 &emsp;“(B) section 2371 of title 10, United States Code, and section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 10 U.S.C. 2371 note).
 
@@ -368,11 +500,11 @@ Expedited Procurement Authority.—(1) For any procurement of property or servic
 
 &emsp;“(A) Chapter 37 of title 40, United States Code (relating to contract work hours and safety standards).
 
-&emsp;“(B) Subsections (a) and (b) of section 7 of the Anti-Kickback Act of 1986 (41 U.S.C. 57(a) and (b)).
+&emsp;“(B) Subsections (a) and (b) of section 7 of the Anti-Kickback Act of 1986 (\[former\] 41 U.S.C. 57(a) and (b)) \[now 41 U.S.C. 8703(a)\].
 
 &emsp;“(C) Section 2313 of title 10, United States Code (relating to the examination of contractor records).
 
-“(3) The Secretary shall institute appropriate internal controls for use of the authority under paragraph\(1), including requirements for documenting the justification for each use of such authority.
+“(3) The Secretary shall institute appropriate internal controls for use of the authority under paragraph (1), including requirements for documenting the justification for each use of such authority.
 
 “(d)
 
@@ -480,7 +612,7 @@ Intial \[sic\] Funding.—Of the funds authorized to be appropriated by section 
 
 #### Defense Nanotechnology Research and Development Program
 
-Pub. L. 107–314, div. A, title II, §246, Dec. 2, 2002, 116 Stat. 2500, as amended by Pub. L. 110–181, div. A, title II, §240, Jan. 28, 2008, 122 Stat. 48; Pub. L. 111–84, div. A, title II, §242, Oct. 28, 2009, 123 Stat. 2237, provided that:
+Pub. L. 107–314, div. A, title II, §246, Dec. 2, 2002, 116 Stat. 2500, as amended by Pub. L. 110–181, div. A, title II, §240, Jan. 28, 2008, 122 Stat. 48; Pub. L. 111–84, div. A, title II, §242, Oct. 28, 2009, 123 Stat. 2237; Pub. L. 111–383, div. A, title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317, provided that:
 
 “(a)
 
@@ -516,7 +648,7 @@ Administration.—In carrying out the program, the Secretary shall act through t
 
 Strategic Plan.—The Under Secretary shall develop and maintain a strategic plan for defense nanotechnology research and development that—
 
-&emsp;“(1) is integrated with the strategic plan for the National Nanotechnology Initiative and the strategic plans of the Director of Defense Research and Engineering, the military departments, and the Defense Agencies; and
+&emsp;“(1) is integrated with the strategic plan for the National Nanotechnology Initiative and the strategic plans of the Assistant Secretary of Defense for Research and Engineering, the military departments, and the Defense Agencies; and
 
 &emsp;“(2) includes a clear strategy for transitioning the research into products needed by the Department.
 
@@ -526,11 +658,11 @@ Reports.—The Under Secretary of Defense for Acquisition, Technology, and Logis
 
 #### Report on Weapons and Capabilities To Defeat Hardened and Deeply Buried Targets
 
-Pub. L. 107–314, div. A, title X, §1032, Dec. 2, 2002, 116 Stat. 2643, as amended by Pub. L. 108–136, div. C, title XXXI, §3135, Nov. 24, 2003, 117 Stat. 1752, as amended by Pub. L. 110–181, div. A, title X, §1041, Jan. 28, 2008, 122 Stat. 310, provided that:
+Pub. L. 107–314, div. A, title X, §1032, Dec. 2, 2002, 116 Stat. 2643, as amended by Pub. L. 108–136, div. C, title XXXI, §3135, Nov. 24, 2003, 117 Stat. 1752, as amended by Pub. L. 110–181, div. A, title X, §1041, Jan. 28, 2008, 122 Stat. 310; Pub. L. 111–383, div. A, title X, §1075(j), Jan. 7, 2011, 124 Stat. 4378, provided that:
 
 “(a)
 
-Report.—Not later than March 1, 2009, and every two years thereafter,,\[sic\] the Secretary of Defense, the Secretary of Energy, and the Director of National Intelligence shall jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Select Committee on Intelligence of the Senate, and the Permanent Select Committee on Intelligence of the House of Representatives a report on the research and development, procurement, and other activities undertaken during the preceding two fiscal years and planned for the current fiscal year and the next fiscal year by the Department of Defense, the Department of Energy, and the intelligence community to develop weapons and capabilities to defeat hardened and deeply buried targets.
+Report.—Not later than March 1, 2009, and every two years thereafter, the Secretary of Defense, the Secretary of Energy, and the Director of National Intelligence shall jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Select Committee on Intelligence of the Senate, and the Permanent Select Committee on Intelligence of the House of Representatives a report on the research and development, procurement, and other activities undertaken during the preceding two fiscal years and planned for the current fiscal year and the next fiscal year by the Department of Defense, the Department of Energy, and the intelligence community to develop weapons and capabilities to defeat hardened and deeply buried targets.
 
 “(b)
 
@@ -656,11 +788,11 @@ Pub. L. 105–261, div. A, title II, §246, Oct. 17, 1998, 112 Stat. 1955, as am
 
 Pub. L. 105–18, title I, §307, June 12, 1997, 111 Stat. 169, provided that: “For the purposes of implementing the 1997 Defense Experimental Program to Stimulate Competitive Research (DEPSCoR), the term ‘State’ means a State of the United States, the District of Columbia, Puerto Rico, Guam and the Virgin Islands of the United States, American Samoa and the Commonwealth of the Northern Mariana Islands.”
 
-Pub. L. 103–337, div. A, title II, §257, Oct. 5, 1994, 108 Stat. 2705, as amended by Pub. L. 104–106, div. A, title II, §273, Feb. 10, 1996, 110 Stat. 239; Pub. L. 104–201, div. A, title II, §264, Sept. 23, 1996, 110 Stat. 2465; Pub. L. 105–85, div. A, title II, §243, Nov. 18, 1997, 111 Stat. 1667;Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 107–314, div. A, title II, §247, Dec. 2, 2002, 116 Stat. 2502; Pub. L. 110–181, div. A, title II, §239, Jan. 28, 2008, 122 Stat. 48, provided that:
+Pub. L. 103–337, div. A, title II, §257, Oct. 5, 1994, 108 Stat. 2705, as amended by Pub. L. 104–106, div. A, title II, §273, Feb. 10, 1996, 110 Stat. 239; Pub. L. 104–201, div. A, title II, §264, Sept. 23, 1996, 110 Stat. 2465; Pub. L. 105–85, div. A, title II, §243, Nov. 18, 1997, 111 Stat. 1667; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 107–314, div. A, title II, §247, Dec. 2, 2002, 116 Stat. 2502; Pub. L. 110–181, div. A, title II, §239, Jan. 28, 2008, 122 Stat. 48; Pub. L. 111–383, div. A, title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317, provided that:
 
 “(a)
 
-Program Required.—The Secretary of Defense, acting through the Director of Defense Research and Engineering, shall carry out a Defense Experimental Program to Stimulate Competitive Research (DEPSCoR) as part of the university research programs of the Department of Defense.
+Program Required.—The Secretary of Defense, acting through the Assistant Secretary of Defense for Research and Engineering, shall carry out a Defense Experimental Program to Stimulate Competitive Research (DEPSCoR) as part of the university research programs of the Department of Defense.
 
 “(b)
 
@@ -760,11 +892,11 @@ Conversion Procedures.—The Secretary of Defense shall implement procedures to 
 
 Limitation.—The science and technology reinvention laboratories, as so designated by subsection (a), may not implement any personnel system, other than a personnel system under an appropriate demonstration project (as referred to in such section 342(b) \[set out below\]), without prior congressional authorization.”
 
-Pub. L. 110–181, div. A, title XI, §1107, Jan. 28, 2008, 122 Stat. 357, as amended by Pub. L. 110–417, \[div. A\], title XI, §1109, Oct. 14, 2008, 122 Stat. 4618; Pub. L. 111–84, div. A, title X, §1073(d), Oct. 28, 2009, 123 Stat. 2475, provided that:
+Pub. L. 110–181, div. A, title XI, §1107, Jan. 28, 2008, 122 Stat. 357, as amended by Pub. L. 110–417, \[div. A\], title XI, §1109, Oct. 14, 2008, 122 Stat. 4618; Pub. L. 111–84, div. A, title X, §1073(d), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 111–383, div. A, title XI, §1101(b), Jan. 7, 2011, 124 Stat. 4382, provided that:
 
 “(a)
 
-Requirement.—The Secretary of Defense shall take all necessary actions to fully implement and usethe authorities provided to the Secretary under section 342(b) of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 108 Stat. 2721) \[set out below\], as amended by section 1114 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–315), to carry out personnel management demonstration projects at Department of Defense laboratories that are exempted by \[former\] section 9902(c) of title 5, United States Code, from inclusion in the Department of Defense National Security Personnel System.
+Requirement.—The Secretary of Defense shall take all necessary actions to fully implement and use the authorities provided to the Secretary under section 342(b) of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 108 Stat. 2721) \[set out below\], as amended by section 1114 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–315), to carry out personnel management demonstration projects at Department of Defense laboratories designated by section 1105(a) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2486; 10 U.S.C. 2358 note) as Department of Defense science and technology reinvention laboratories.
 
 “(b)
 
@@ -772,7 +904,7 @@ Process for Full Implementation.—The Secretary of Defense shall also implement
 
 “(c)
 
-Other Laboratories.—Any flexibility available to any demonstration laboratory shall be available for use at any other laboratory as enumerated in \[former\] section 9902(c)(2) of title 5, United States Code.
+Other Laboratories.—Any flexibility available to any demonstration laboratory shall be available for use at any other laboratory designated by section 1105(a) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2486) as a Department of Defense science and technology reinvention laboratory.
 
 “(d)
 
@@ -822,7 +954,7 @@ Pub. L. 103–337, div. A, title III, §342(b), Oct. 5, 1994, 108 Stat. 2721, as
 
 &emsp;“(C) the Secretary shall exercise the authorities granted to the Office of Personnel Management under such section 4703.
 
-“(4) The employees of a laboratory covered by a personnel demonstration project carried out under this section \[enacting this note\] shall be exempt from, and may not be counted for the purposes of, any constraint or limitation in a statute or regulation in terms of supervisory ratios or maximum number of employees in any specific category or categories of employment that may otherwise be applicable to the employees. The employees shall be managed by the director of the laboratory subject to the supervision of the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+“(4) The employees of a laboratory covered by a personnel demonstration project carried out under this section \[enacting this note\] shall be exempt from, and may not be counted for the purposes of, any constraint or limitation in a statute or regulation in terms of supervisory ratios or maximum number of employees in any specific category or categories of employment thatmay otherwise be applicable to the employees. The employees shall be managed by the director of the laboratory subject to the supervision of the Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
 “(5) The limitations in section 5373 of title 5, United States Code, do not apply to the authority of the Secretary under this section to prescribe salary schedules and other related benefits.”
 
@@ -854,15 +986,15 @@ Requirement for Analysis of Research.—In the case of a project of clinical res
 
 #### University Research Initiative Support Program
 
-Section 802 of Pub. L. 103–160, as amended by Pub. L. 104–106, div. A, title II, §275, Feb. 10, 1996, 110 Stat. 241;Pub. L. 104–201, div. A, title II, §263, Sept. 23, 1996, 110 Stat. 2465, provided that:
+Pub. L. 103–160, div. A, title VIII, §802, Nov. 30, 1993, 107 Stat. 1701, as amended by Pub. L. 104–106, div. A, title II, §275, Feb. 10, 1996, 110 Stat. 241; Pub. L. 104–201, div. A, title II, §263, Sept. 23, 1996, 110 Stat. 2465; Pub. L. 111–383, div. A, title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317, provided that:
 
 “(a)
 
-Establishment.—The Secretary of Defense, through the Director of Defense Research and Engineering, may establish a University Research Initiative Support Program.
+Establishment.—The Secretary of Defense, through the Assistant Secretary of Defense for Research and Engineering, may establish a University Research Initiative Support Program.
 
 “(b)
 
-Purpose.—Under the program, the Director may award grants and contracts to eligible institutions of higher education to support the conduct of research and development relevant to requirements of the Department of Defense.
+Purpose.—Under the program, the Assistant Secretary may award grants and contracts to eligible institutions of higher education to support the conduct of research and development relevant to requirements of the Department of Defense.
 
 “(c)
 
@@ -870,15 +1002,15 @@ Eligibility.—An institution of higher education is eligible for a grant or con
 
 “(d)
 
-Competition Required.—The Director shall use competitive procedures in awarding grants and contracts under the program.
+Competition Required.—The Assistant Secretary shall use competitive procedures in awarding grants and contracts under the program.
 
 “(e)
 
-Selection Process.—In awarding grants and contracts under the program, the Director shall use a merit-based selection process that is consistent with the provisions of section 2361(a) of title 10, United States Code.
+Selection Process.—In awarding grants and contracts under the program, the Assistant Secretary shall use a merit-based selection process that is consistent with the provisions of section 2361(a) of title 10, United States Code.
 
 “(f)
 
-Regulations.—Not later than 90 days after the date of the enactment of this Act \[Nov. 30, 1993\], the Director shall prescribe regulations for carrying out the program.
+Regulations.—Not later than 90 days after the date of the enactment of this Act \[Nov. 30, 1993\], the Assistant Secretary shall prescribe regulations for carrying out the program.
 
 “(g)
 
@@ -904,7 +1036,7 @@ Pub. L. 92–436, title VI, §606, Sept. 29, 1972, 86 Stat. 740, provided that:
 
 “(b) The prohibition made by subsection (a) of this section as it applies to research and development funds shall not apply if the Secretary of Defense or his designee determines that the expenditure is a continuation or a renewal of a previous program with such institution which is likely to make a significant contribution to the defense effort.
 
-“(c) The Secretaries of the military departments shall furnish to the Secretary of Defense or his designee within 60 days after the date of enactment of this Act \[Sept. 29, 1972\] and each January 31 and June 30 thereafter the names of any institution of higher learning which the Secretaries determine on such dates are affected by the prohibitions contained in this section.”
+“(c) The Secretaries of the military departments shall furnish to the Secretary of Defense or his designee within 60 days after the date of enactment of this Act \[Sept. 29, 1972\] and each January 31 and June 30thereafter the names of any institution of higher learning which the Secretaries determine on such dates are affected by the prohibitions contained in this section.”
 
 Similar provisions were contained in the following prior authorization acts:
 

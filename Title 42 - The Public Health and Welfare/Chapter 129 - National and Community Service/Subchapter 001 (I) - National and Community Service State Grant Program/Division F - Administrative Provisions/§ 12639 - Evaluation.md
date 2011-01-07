@@ -182,7 +182,7 @@ The Corporation shall submit to the authorizing committees not later than 2 year
 
 #### References in Text
 
-Section 12575 of this title, referred to in subsec. (g)(1), was in the original a reference to section 145 of Pub. L. 101–610. Section 145 of Pub. L. 101–610 was omitted in the general amendment of subtitle D of title I of Pub. L. 101–610 \[former part D of this subchapter\] by Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 816. Pub. L. 103–82 enacted a new section 125 of Pub. L. 101–610, relating to training and technical assistance, and a new section 145, relating to establishment of the National Service Trust, which are classified to sections 12575 and sections 12601, respectively, of this title. Provisions relating to the eligibility of individuals for participation in national service programs are now contained in section 12591 et seq. of this title.
+Section 12575 of this title, referred to in subsec. (g)(1), was in the original a reference to section 145 of Pub. L. 101–610. Section 145 of Pub. L. 101–610 was omitted in the general amendment of subtitle D of title I of Pub.L. 101–610 \[former part D of this subchapter\] by Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 816. Pub. L. 103–82 enacted a new section 125 of Pub. L. 101–610, relating to training and technical assistance, and a new section 145, relating to establishment of the National Service Trust, which are classified to sections 12575 and sections 12601, respectively, of this title. Provisions relating to the eligibility of individuals for participation in national service programs are now contained in section 12591 et seq. of this title.
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (g)(3), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, which is classified principally to chapter 66 (§4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
@@ -190,7 +190,7 @@ The Peace Corps Act, referred to in subsec. (g)(3), is Pub. L. 87–293, Sept. 2
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–13, §1607(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) directed the Corporation to provide, through grants or contracts, for continuing evaluation of programs receiving assistance under the national service laws to determine the effectiveness and costs of various program models and, with respect to programs authorized under division C, to determine the impact of those programs on the recruitment ability of VISTA and National Senior Volunteer Corps programs, each regular component of the Armed Forces, each of the reserve components of the Armed Forces, and the Peace Corps.
+<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1607(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) directed the Corporation to provide, through grants or contracts, for continuing evaluation of programs receiving assistance under the national service laws to determine the effectiveness and costs of various program models and, with respect to programs authorized under division C, to determine the impact of those programs on the recruitment ability of VISTA and National Senior Volunteer Corps programs, each regular component of the Armed Forces, each of the reserve components of the Armed Forces, and the Peace Corps.
 
 Subsec. (g)(3). Pub. L. 111–13, §1607(2)(A), substituted “National Senior Service Corps” for “National Senior Volunteer Corps”.
 
@@ -200,9 +200,9 @@ Subsec. (i)(2). Pub. L. 111–13, §1607(3), substituted “the authorizing comm
 
 Subsecs. (j) to (n). Pub. L. 111–13, §1607(4), added subsecs. (j) to (n).
 
-1996—Subsec. (a)(2)(C). Pub. L. 104–106 substituted “section 10101 of title 10” for “section 216(a) of title 5”.
+<b>1996</b>—Subsec. (a)(2)(C). Pub. L. 104–106 substituted “section 10101 of title 10” for “section 216(a) of title 5”.
 
-1993—Subsec. (a). Pub. L. 103–82, §402(b)(1), substituted “Corporation” for “Commission” in introductory provisions.
+<b>1993</b>—Subsec. (a). Pub. L. 103–82, §402(b)(1), substituted “Corporation” for “Commission” in introductory provisions.
 
 Pub. L. 103–82, §203(a)(1)(A), substituted “the national service laws” for “this subchapter” in introductory provisions.
 
@@ -234,7 +234,7 @@ Subsec. (h)(1), (2)(A), (B)(ii). Pub. L. 103–82, §402(b)(1), substituted “C
 
 Subsecs. (i), (j). Pub. L. 103–82, §118(3), (4), added subsec. (i) and struck out former subsecs. (i) and (j) which related to deadline and report, respectively.
 
-1992—Subsec. (a)(2). Pub. L. 102–384, §9(1), substituted “subsection (j)” for “subsection (h)”.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–384, §9(1), substituted “subsection (j)” for “subsection (h)”.
 
 Subsec. (d). Pub. L. 102–384, §4, substituted “Commission” for “Secretary”.
 

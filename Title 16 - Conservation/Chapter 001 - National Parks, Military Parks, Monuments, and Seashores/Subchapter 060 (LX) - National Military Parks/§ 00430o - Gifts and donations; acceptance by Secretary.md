@@ -6,7 +6,7 @@ The Secretary of the Interior,<sup>1</sup> is authorized to receive gifts and co
 
 #### Amendments
 
-1976—Pub. L. 94–578 substituted “The Secretary of the Interior, is authorized to receive gifts and contributions from States, Territories, societies, organizations, and individuals for the battlefield” for “The National Park Service, acting through the Secretary of the Interior, is authorized to receive gifts and contributions from States, Territories, societies, organizations, and individuals for the Monocacy National Military Park: <i>Provided</i>, That all contributions of money received shall be deposited in the Treasury of the United States and credited to a fund to be designated ‘Monocacy National Military Park fund’, which fund shall be applied to and expended under the direction of the Secretary of the Interior,”.
+<b>1976</b>—Pub. L. 94–578 substituted “The Secretary of the Interior, is authorized to receive gifts and contributions from States, Territories, societies, organizations, and individuals for the battlefield” for “The National Park Service, acting through the Secretary of the Interior, is authorized to receive gifts and contributions from States, Territories, societies, organizations, and individuals for the Monocacy National Military Park: <i>Provided</i>, That all contributions of money received shall be deposited in the Treasury of the United States and credited to a fund to be designated ‘Monocacy National Military Park fund’, which fund shall be applied to and expended under the direction of the Secretary of the Interior,”.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

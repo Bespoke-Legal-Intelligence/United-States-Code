@@ -72,7 +72,7 @@ Section was enacted as part of the Violence Against Women Act of 2000 and also a
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–162, §103(1), inserted “civil and criminal” after “availability of”, “adult and youth” after “effective aid to”, and “Criminal legal assistance provided for under this section shall be limited to criminal matters relating to domestic violence, sexual assault, dating violence, and stalking.” at end.
+<b>2006</b>—Subsec. (a). Pub. L. 109–162, §103(1), inserted “civil and criminal” after “availability of”, “adult and youth” after “effective aid to”, and “Criminal legal assistance provided for under this section shall be limited to criminal matters relating to domestic violence, sexual assault, dating violence, and stalking.” at end.
 
 Subsec. (b). Pub. L. 109–162, §103(2), reenacted subsec. heading without change and amended text generally. Prior to amendment, text defined for purposes of this section the terms “dating violence”, “domestic violence”, “legal assistance”, and “sexual assault”.
 
@@ -94,7 +94,7 @@ Subsec. (f)(4). Pub. L. 109–271, §7(d)(1)(B), struck out par. (4) which read 
 
 Pub. L. 109–162, §906(f), formerly §906(g), as renumbered by Pub. L. 109–271, §7(b)(2)(B), added par. (4).
 
-2004—Subsec. (a). Pub. L. 108–405, §205(1), inserted “dating violence,” after “domestic violence,”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–405, §205(1), inserted “dating violence,” after “domestic violence,”.
 
 Subsec. (b)(1) to (4). Pub. L. 108–405, §205(2), added par. (1), redesignated former pars. (1) to (3) as (2) to (4), respectively, and inserted “dating violence,” after “domestic violence,” in par. (3).
 

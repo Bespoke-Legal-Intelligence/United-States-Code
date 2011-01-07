@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) strengthen the research information infrastructure, including databases, pertaining to Federal health services research and health care quality improvement initiatives;
 
-&emsp;&emsp;(C) set specific goals for participating agencies and departments to further healthservices research and health care quality improvement; and
+&emsp;&emsp;(C) set specific goals for participating agencies and departments to further health services research and health care quality improvement; and
 
 &emsp;&emsp;(D) strengthen the management of Federal health care quality improvement programs.
 
@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(A) to describe and evaluate current quality improvement, quality research and quality monitoring processes through—
 
-&emsp;&emsp;&emsp;(i) an overview of pertinent health services research activities and quality improvement efforts conducted by all Federal programs, with particular attention paid to those under titles XVIII, XIX, and XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\]; and
+&emsp;&emsp;&emsp;(i) an overview of pertinent health services research activities and quality improvement efforts conducted by all Federal programs, with particular attention paidto those under titles XVIII, XIX, and XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\]; and
 
 &emsp;&emsp;&emsp;(ii) a summary of the partnerships that the Department of Health and Human Services has pursued with private accreditation, quality measurement and improvement organizations; and
 
@@ -56,7 +56,7 @@
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Codification
 

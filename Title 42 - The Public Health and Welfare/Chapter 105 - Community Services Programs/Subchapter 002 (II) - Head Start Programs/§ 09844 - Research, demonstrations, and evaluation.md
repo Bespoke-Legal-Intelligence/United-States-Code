@@ -58,7 +58,7 @@ The research, demonstration, and evaluation activities under this subchapter sha
 
 &emsp;(4) assist in developing knowledge concerning the factors that promote or inhibit healthy development and effective functioning of children and their families both during and following participation in a Head Start program;
 
-&emsp;(5)(A) identify successful strategies that promote good oral health and provide effective linkages to quality dental services through pediatric dental referral networks, for infantsand toddlers participating in Early Head Start programs and children participating in other Head Start programs; and
+&emsp;(5)(A) identify successful strategies that promote good oral health and provide effective linkages to quality dental services through pediatric dental referral networks, for infants and toddlers participating in Early Head Start programs and children participating in other Head Start programs; and
 
 &emsp;(B) identify successful strategies that promote good vision health through vision screenings for such infants, toddlers, and children, and referrals for appropriate followup care for those identified as having a vision problem;
 
@@ -122,7 +122,7 @@ The Secretary shall take necessary steps to ensure that all studies, reports, pr
 
 &emsp;The Secretary shall ensure that the organization conducting the research—
 
-&emsp;&emsp;(A)(i) determines if, overall, the Head Start programs have impacts consistentwith their primary goal of increasing the social competence of children, by increasing the everyday effectiveness of the children in dealing with their present environments and future responsibilities, and increasing their school readiness;
+&emsp;&emsp;(A)(i) determines if, overall, the Head Start programs have impacts consistent with their primary goal of increasing the social competence of children, by increasing the everyday effectiveness of the children in dealing with their present environments and future responsibilities, and increasing their school readiness;
 
 &emsp;&emsp;(ii) considers whether the Head Start programs—
 
@@ -192,7 +192,7 @@ The Secretary shall take necessary steps to ensure that all studies, reports, pr
 
 #### (2) Report
 
-&emsp;The Secretary shall prepare and submit to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, not later than September 30, 2010, a report containing the results of the study, including information on—
+&emsp;The Secretary shall prepare and submit to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions ofthe Senate, not later than September 30, 2010, a report containing the results of the study, including information on—
 
 &emsp;&emsp;(A) the demographics of limited English proficient children from birth through age 5, including the number of such children receiving Head Start services and Early Head Start services, and the geographic distribution of children described in this subparagraph;
 
@@ -314,7 +314,7 @@ The Secretary shall—
 
 #### (4) Protection of confidentiality
 
-&emsp;The Secretary shall, through regulation, ensure the protection of the confidentiality of any personally identifiable data, information, and records collected or maintained by the Secretary, by Head Start agencies that carry out migrant or seasonal Head Start programs, by the State director of Head Start Collaboration, and by the Migrant and Seasonal Farmworker Collaboration project Director (such regulations shall provide the policies, protections, and rights equivalent to those provideda parent, student, or educational agency or institution under section 1232g of title 20).
+&emsp;The Secretary shall, through regulation, ensure the protection of the confidentiality of any personally identifiable data, information, and records collected or maintained by the Secretary, by Head Start agencies that carry out migrant or seasonal Head Start programs, by the State director of Head Start Collaboration, and by the Migrant and Seasonal Farmworker Collaboration project Director (such regulations shall provide the policies, protections, and rights equivalent to those provided a parent, student, or educational agency or institution under section 1232g of title 20).
 
 #### (5) Rule of construction
 
@@ -352,7 +352,7 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Amendments
 
-2007—Subsec. (a)(1)(B). Pub. L. 110–134, §20(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “use the Head Start programs to develop, test, and disseminate new ideas and approaches for addressing the needs of low-income preschool children (including children with disabilities) and their families and communities (including demonstrations of innovative noncenter-based program models such as home-based and mobile programs), and otherwise to further the purposes of this subchapter.”
+<b>2007</b>—Subsec. (a)(1)(B). Pub. L. 110–134, §20(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “use the Head Start programs to develop, test, and disseminate new ideas and approaches for addressing the needs of low-income preschool children (including children with disabilities) and their families and communities (including demonstrations of innovative noncenter-based program models such as home-based and mobile programs), and otherwise to further the purposes of this subchapter.”
 
 Subsec. (d). Pub. L. 110–134, §20(2)(F), struck out concluding provisions which read as follows: “The Secretary shall ensure that an appropriate entity carries out a study described in paragraph (9), and prepares and submits to the appropriate committees of Congress a report containing the results of the study, not later than September 30, 2002.”
 
@@ -388,7 +388,7 @@ Committees.—The committees referred to in clause (i) are the Committee on Educ
 
 Subsecs. (h) to (m). Pub. L. 110–134, §20(5), added subsecs. (h) to (m) and struck out former subsec. (h) which related to quality improvement study.
 
-1998—Subsec. (c)(3). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
+<b>1998</b>—Subsec. (c)(3). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
 
 Subsec. (d). Pub. L. 105–285, §116(1)(E), inserted concluding provisions.
 
@@ -398,13 +398,13 @@ Subsec. (d)(9), (10). Pub. L. 105–285, §116(1)(A), (B), (E), added pars. (9) 
 
 Subsecs. (g), (h). Pub. L. 105–285, §116(2), added subsecs. (g) and (h).
 
-1994—Pub. L. 103–252 substituted “Research, demonstrations, and evaluation” for “Research, demonstration, pilot projects, studies, and reports” in section catchline and amended text generally, substituting provisions requiring Secretary to conduct a research, demonstration, and evaluation program to continually improve Head Start programs and develop innovative ways to further purposes of this subchapter, consult with others on the program, consider longitudinal studies in developing priorities for program, and ensure all products of program become United States property and defining objectives of program, for provisions authorizing the Secretary to provide financial assistance through contracts and grants for research, demonstration or pilot projects to develop new approaches to further purposes of this subchapter, directing Secretary to establish plan for approval of such projects, restricting combination of funds appropriated under this subchapter with other appropriations to make a single grant, requiring Secretary to conduct study of approaches to provide early, continuous, and comprehensive intervention to low-income or at-risk children and study of family day care in compliance with performance standards and to report results of studies to Congress.
+<b>1994</b>—Pub. L. 103–252 substituted “Research, demonstrations, and evaluation” for “Research, demonstration, pilot projects, studies, and reports” in section catchline and amended text generally, substituting provisions requiring Secretary to conduct a research, demonstration, and evaluation program to continually improve Head Start programs and develop innovative ways to further purposes of this subchapter, consult with others on the program, consider longitudinal studies in developing priorities for program, and ensure all products of program become United States property and defining objectives of program, for provisions authorizing the Secretary to provide financial assistance through contracts and grants for research, demonstration or pilot projects to develop new approaches to further purposes of this subchapter, directing Secretary to establish plan for approval of such projects, restricting combination of funds appropriated under this subchapter with other appropriations to make a single grant, requiring Secretary to conduct study of approaches to provide early, continuous, and comprehensive intervention to low-income or at-risk children and study of family day care in compliance with performance standards and to report results of studies to Congress.
 
-1990—Pub. L. 101–501, §117(a)(1), substituted “Research, demonstration, pilot projects, studies, and reports” for “Research, demonstration, and pilot projects” in section catchline.
+<b>1990</b>—Pub. L. 101–501, §117(a)(1), substituted “Research, demonstration, pilot projects, studies, and reports” for “Research, demonstration, and pilot projects” in section catchline.
 
 Subsecs. (d) to (f). Pub. L. 101–501, §117(a)(2), added subsecs. (d) to (f).
 
-1984—Subsec. (c). Pub. L. 98–558 added subsec. (c).
+<b>1984</b>—Subsec. (c). Pub. L. 98–558 added subsec. (c).
 
 #### Effective Date of 1998 Amendment
 

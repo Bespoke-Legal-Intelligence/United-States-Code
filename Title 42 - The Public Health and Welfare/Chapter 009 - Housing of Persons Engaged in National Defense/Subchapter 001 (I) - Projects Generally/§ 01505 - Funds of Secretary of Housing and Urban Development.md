@@ -10,5 +10,5 @@ For transfer of functions to Secretary of Housing and Urban Development, see not
 
 #### Provisions Inapplicable to This Subchapter
 
-Section 205 of act June 28, 1940, contained the following sentence: “The provisions of title I of this Act shall not apply to this title \[this subchapter\].” The provisions of title I of act June 28, 1940 were classified to the Code as section 40 of Title 41, Public Contracts, and sections 1151 to 1162 of Appendix to Title 50, War and National Defense.
+Act June 28, 1940, ch. 440, title II, §205, 54 Stat. 683, provided in part: “The provisions of title I of this Act shall not apply to this title \[this subchapter\].” The provisions of title I of act June 28, 1940, enacted section 1262a of former Title 10, Armed Forces, section 546e of former Title 34, Navy, and former sections 1151 to 1162 of the Appendix to Title 50, War and National Defense, and amended section 40 of former Title 41, Public Contracts.
 

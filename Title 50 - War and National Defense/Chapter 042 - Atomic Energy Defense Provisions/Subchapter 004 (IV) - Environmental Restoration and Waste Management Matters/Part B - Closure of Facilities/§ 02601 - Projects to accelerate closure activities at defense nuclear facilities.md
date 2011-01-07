@@ -54,7 +54,7 @@ The Secretary of Energy, acting through the Assistant Secretary for Environmenta
 
 #### (f) Multiyear contracts
 
-Notwithstanding section 254c(d) of title 41, the Secretary of Energy may enter into multiyear contracts to carry out projects selected under this section for up to 10 program years.
+Notwithstanding subsections (a) and (e) of section 3903 of title 41, the Secretary of Energy may enter into multiyear contracts to carry out projects selected under this section for up to 10 program years.
 
 #### (g) Funding
 
@@ -90,11 +90,13 @@ Nothing in this section may be construed to affect statutory requirements for an
 
 #### Codification
 
+In subsec. (f), “subsections (a) and (e) of section 3903 of title 41” substituted for “section 304B(d) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254c(d))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 Section was formerly classified to section 7274n of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
 
-2003—Subsec. (i). Pub. L. 108–136, §3141(g)(11)(D), substituted “September 23, 2011” for “the expiration of the 15-year period beginning on September 23, 1996”.
+<b>2003</b>—Subsec. (i). Pub. L. 108–136, §3141(g)(11)(D), substituted “September 23, 2011” for “the expiration of the 15-year period beginning on September 23, 1996”.
 
 #### Defense Site Acceleration Completion
 
@@ -132,7 +134,7 @@ Monitoring by Nuclear Regulatory Commission.—(1) The Commission shall, in coor
 
 &emsp;“(B) The Committee on Armed Services, the Committee on Energy and Natural Resources, the Committee on Environment and Public Works, and the Committee on Appropriations of the Senate.
 
-“(3) For fiscal year 2005, the Secretary shall, from amounts available for defense site acceleration completion, reimburse the Commission for all expenses, including salaries, that the Commission incurs as a result of performance under subsection (a) and this subsection for fiscal year 2005. The Department of Energy and theCommission may enter into an interagency agreement that specifies the method of reimbursement. Amounts received by the Commission for performance under subsection (a) and this subsection may be retained and used for salaries and expenses associated with those activities, notwithstanding section 3302 of title 31, United States Code, and shall remain available until expended.
+“(3) For fiscal year 2005, the Secretary shall, from amounts available for defense site acceleration completion, reimburse the Commission for all expenses, including salaries, that the Commission incurs as a result of performance under subsection (a) and this subsection for fiscal year 2005. The Department of Energy and the Commission may enter into an interagency agreement that specifies the method of reimbursement. Amounts received by the Commission for performance under subsection (a) and this subsection may be retained and used for salaries and expenses associated with those activities, notwithstanding section 3302 of title 31, United States Code, and shall remain available until expended.
 
 “(4) For fiscal years after 2005, the Commission shall include in the budget justification materials submitted to Congress in support of the Commission budget for that fiscal year (as submitted with the budget of the President under section 1105(a) of title 31, United States Code) the amounts required, not offset by revenues, for performance under subsection (a) and this subsection.
 

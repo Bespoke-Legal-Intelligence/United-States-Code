@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;(3) the head of the PLO has been implicated in the murder of a United States Ambassador overseas;
 
-&emsp;(4) the PLO and its constituent groups have taken credit for, and been implicated in, the murders of dozens of American citizens abroad;
+&emsp;(4) the PLO and its constituent groups have taken credit for, and been implicated in, themurders of dozens of American citizens abroad;
 
 &emsp;(5) the PLO covenant specifically states that “armed struggle is the only way to liberate Palestine, thus it is an overall strategy, not merely a tactical phase”;
 

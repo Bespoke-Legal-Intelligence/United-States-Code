@@ -38,9 +38,9 @@ In any fiscal year in which the amounts for which grant recipients are eligible 
 
 #### Amendments
 
-1998—Subsec. (a)(2). Pub. L. 105–244 substituted “controlled colleges or universities” for “controlled community colleges” and “such colleges or universities” for “such colleges”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–244 substituted “controlled colleges or universities” for “controlled community colleges” and “such colleges or universities” for “such colleges”.
 
-1990—Subsec. (a)(1)(A). Pub. L. 101–477, §1(c)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the Secretary shall first allocate to each such applicant which received funds under section 1807 of this title for the preceding fiscal year an amount equal to 95 per centum of the product of—
+<b>1990</b>—Subsec. (a)(1)(A). Pub. L. 101–477, §1(c)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the Secretary shall first allocate to each such applicant which received funds under section 1807 of this title for the preceding fiscal year an amount equal to 95 per centum of the product of—
 
 &emsp;“(i) the per capita payment for the preceding fiscal year; and
 
@@ -48,7 +48,7 @@ In any fiscal year in which the amounts for which grant recipients are eligible 
 
 Subsec. (a)(1)(B)(ii). Pub. L. 101–477, §1(c)(2), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the applicant's Indian student count for the current fiscal year;”.
 
-1983—Subsec. (a). Pub. L. 98–192, §10, amended subsec. (a) generally, substituting provision establishing a formula to be used to determine funding between existing and newly eligible schools when funds appropriated are not sufficient to pay in full the total amount which approved applicants are eligible to receive under section 1807 of this title for provision that if funds were insufficient to pay in full the total amounts which approved grant applicants were eligible to receive, the available funds would be ratably decreased and if funds later became available or there were excess funds, such funds would be ratably increased.
+<b>1983</b>—Subsec. (a). Pub. L. 98–192, §10, amended subsec. (a) generally, substituting provision establishing a formula to be used to determine funding between existing and newly eligible schools when funds appropriated are not sufficient to pay in full the total amount which approved applicants are eligible to receive under section 1807 of this title for provision that if funds were insufficient to pay in full the total amounts which approved grant applicants were eligible to receive, the available funds would be ratably decreased and if funds later became available or there were excess funds, such funds would be ratably increased.
 
 Subsecs. (b), (c). Pub. L. 98–192, §10, added subsec. (b) and redesignated former subsec. (b) as (c).
 

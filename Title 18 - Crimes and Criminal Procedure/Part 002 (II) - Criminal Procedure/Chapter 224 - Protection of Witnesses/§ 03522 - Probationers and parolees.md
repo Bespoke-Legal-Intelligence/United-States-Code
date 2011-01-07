@@ -16,9 +16,9 @@ Chapter 311 of this title, referred to in subsec. (c), which consisted of sectio
 
 #### Amendments
 
-1988—Subsec. (c). Pub. L. 100–690 substituted “4215” for “4216”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–690 substituted “4215” for “4216”.
 
-1986—Subsec. (a). Pub. L. 99–646 substituted “probationers or parolees, as the case may be” for “parolees”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–646 substituted “probationers or parolees, as the case may be” for “parolees”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

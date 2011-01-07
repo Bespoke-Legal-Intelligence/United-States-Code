@@ -14,7 +14,7 @@ Copies of any document, report, statement, or information received or sent by th
 
 #### Amendments
 
-2000—Pub. L. 106–503 substituted “Director” for “Secretary” in two places in introductory provisions.
+<b>2000</b>—Pub. L. 106–503 substituted “Director” for “Secretary” in two places in introductory provisions.
 
 #### Transfer of Functions
 

@@ -10,9 +10,9 @@ Part A of subchapter IV of this chapter, referred to in text, is classified to s
 
 #### Amendments
 
-1968—Pub. L. 90–248 struck out “IV,” after “I,” and inserted “and part A of subchapter IV of this chapter,” after “XVI of this chapter,”.
+<b>1968</b>—Pub. L. 90–248 struck out “IV,” after “I,” and inserted “and part A of subchapter IV of this chapter,” after “XVI of this chapter,”.
 
-1962—Pub. L. 87–543 inserted reference to subchapter XVI.
+<b>1962</b>—Pub. L. 87–543 inserted reference to subchapter XVI.
 
 #### Effective Date
 

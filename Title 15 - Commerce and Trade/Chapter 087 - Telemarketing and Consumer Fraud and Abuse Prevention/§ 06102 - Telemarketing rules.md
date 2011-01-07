@@ -20,7 +20,7 @@
 
 #### (b) Rulemaking
 
-The Commission shall prescribe the rules under subsection (a) of this section within 365 days after August 16, 1994. Such rules shall be prescribed in accordance with section 553 of title 5.
+The Commission shall prescribe the rules under subsection (a) of this section within 365 days after August 16, 1994. Such rules shall beprescribed in accordance with section 553 of title 5.
 
 #### (c) Enforcement
 
@@ -68,7 +68,25 @@ Any violation of any rule prescribed under subsection (a) of this section shall 
 
 #### (2) Omitted
 
-(Pub. L. 103–297, §3, Aug. 16, 1994, 108 Stat. 1545; Pub. L. 107–56, title X, §1011(b)(1), (2), Oct. 26, 2001, 115 Stat. 396.)
+(Pub. L. 103–297, §3, Aug. 16, 1994, 108 Stat. 1545; Pub. L. 107–56, title X, §1011(b)(1), (2), Oct. 26, 2001, 115 Stat. 396; Pub. L. 111–203, title X, §1100C(a), July 21, 2010, 124 Stat. 2110.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1100C(a), 1100H, July 21, 2010, 124 Stat. 2110, 2113, provided that, effective on the designated transfer date, this section is amended by striking subsections (b) and (c) and inserting the following:</i>
+
+#### <i>“(b) Rulemaking authority</i>
+
+<i>“The Commission shall have authority to prescribe rules under subsection (a), in accordance with section 553 of title 5. In prescribing a rule under this section that relates to the provision of a consumer financial product or service that is subject to the Consumer Financial Protection Act of 2010, including any enumerated consumer law thereunder, the Commission shall consult with the Bureau of Consumer Financial Protection regarding the consistency of a proposed rule with standards, purposes, or objectives administered by the Bureau of Consumer Financial Protection.</i>
+
+#### <i>“(c) Violations</i>
+
+<i>“Any violation of any rule prescribed under subsection (a)—</i>
+
+&emsp;<i>“(1) shall be treated as a violation of a rule under section 57a of this title regarding unfair or deceptive acts or practices; and</i>
+
+&emsp;<i>“(2) that is committed by a person subject to the Consumer Financial Protection Act of 2010 shall be treated as a violation of a rule under section 1031 of that Act regarding unfair, deceptive, or abusive acts or practices.”</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### Codification
 
@@ -76,9 +94,13 @@ Section is comprised of section 3 of Pub. L. 103–297. Subsec. (e)(2) of sectio
 
 #### Amendments
 
-2001—Subsec. (a)(2). Pub. L. 107–56, §1011(b)(1), inserted “which shall include fraudulent charitable solicitations, and” before “which may include”.
+<b>2001</b>—Subsec. (a)(2). Pub. L. 107–56, §1011(b)(1), inserted “which shall include fraudulent charitable solicitations, and” before “which may include”.
 
 Subsec. (a)(3)(D). Pub. L. 107–56, §1011(b)(2), added subpar. (D).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

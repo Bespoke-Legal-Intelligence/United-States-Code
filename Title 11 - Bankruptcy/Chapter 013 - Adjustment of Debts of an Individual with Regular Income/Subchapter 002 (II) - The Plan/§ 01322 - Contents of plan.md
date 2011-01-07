@@ -1,20 +1,20 @@
 ### §1322. Contents of plan
 
-(a) The plan shall—
+(a) The plan—
 
-&emsp;(1) provide for the submission of all or such portion of future earnings or other future income of the debtor to the supervision and control of the trustee as is necessary for the execution of the plan;
+&emsp;(1) shall provide for the submission of all or such portion of future earnings or other future income of the debtor to the supervision and control of the trustee as is necessary for the execution of the plan;
 
-&emsp;(2) provide for the full payment, in deferred cash payments, of all claims entitled to priority under section 507 of this title, unless the holder of a particular claim agrees to a different treatment of such claim;
+&emsp;(2) shall provide for the full payment, in deferred cash payments, of all claims entitled to priority under section 507 of this title, unless the holder of a particular claim agrees to a different treatment of such claim;
 
-&emsp;(3) if the plan classifies claims, provide the same treatment for each claim within a particular class; and
+&emsp;(3) if the plan classifies claims, shall provide the same treatment for each claim within a particular class; and
 
-&emsp;(4) notwithstanding any other provision of this section, a plan may provide for less than full payment of all amounts owed for a claim entitled to priority under section 507(a)(1)(B) only if the plan provides that all of the debtor's projected disposable income for a 5-year period beginning on the date that the first payment is due under the plan will be applied to make payments under the plan.
+&emsp;(4) notwithstanding any other provision of this section, may provide for less than full payment of all amounts owed for a claim entitled to priority under section 507(a)(1)(B) only if the plan provides that all of the debtor's projected disposable income for a 5-year period beginning on the date that the first payment is due under the plan will be applied to make payments under the plan.
 
 (b) Subject to subsections (a) and (c) of this section, the plan may—
 
-&emsp;(1) designate a class or classes of unsecured claims, as provided in section 1122 of this title, but may not discriminate unfairly against any class so designated; however, such plan may treat claims for a consumer debt of the debtor if an individual is liable on such consumer debt with the debtor differently than other unsecured claims;
+&emsp;(1) designate a class or classes of unsecured claims, as provided in section 1122 of this title, but may not discriminate unfairly against any class so designated; however, such plan may treat claims for a consumer debt of the debtorif an individual is liable on such consumer debt with the debtor differently than other unsecured claims;
 
-&emsp;(2) modify the rights of holders of secured claims, other than a claim secured only by a security interest in real property that is the debtor's principal residence, or of holders ofunsecured claims, or leave unaffected the rights of holders of any class of claims;
+&emsp;(2) modify the rights of holders of secured claims, other than a claim secured only by a security interest in real property that is the debtor's principal residence, or of holders of unsecured claims, or leave unaffected the rights of holders of any class of claims;
 
 &emsp;(3) provide for the curing or waiving of any default;
 
@@ -64,7 +64,11 @@
 
 (f) A plan may not materially alter the terms of a loan described in section 362(b)(19) and any amounts required to repay such loan shall not constitute “disposable income” under section 1325.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2648; Pub. L. 98–353, title III, §§316, 528, July 10, 1984, 98 Stat. 356, 389; Pub. L. 103–394, title III, §§301, 305(c), Oct. 22, 1994, 108 Stat. 4131, 4134; Pub. L. 109–8, title II, §§213(8), (9), 224(d), title III, §318(1), Apr. 20, 2005, 119 Stat. 53, 65, 93.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2648; Pub. L. 98–353, title III, §§316, 528, July 10, 1984, 98 Stat. 356, 389; Pub. L. 103–394, title III, §§301, 305(c), Oct. 22, 1994, 108 Stat. 4131, 4134; Pub. L. 109–8, title II, §§213(8), (9), 224(d), title III, §318(1), Apr. 20, 2005, 119 Stat. 53, 65, 93; Pub. L. 111–327, §2(a)(43), Dec. 22, 2010, 124 Stat. 3562.)
+
+#### Adjustment of Dollar Amounts
+
+<i>For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.</i>
 
 #### Historical and Revision Notes
 
@@ -89,6 +93,12 @@ Subsection (b) permits a chapter 13 plan to (1) divide unsecured claims not enti
 Subsection (c) limits the payment period under the plan to 3 years, except that a 4–year payment period may be permitted by the court.
 
 #### Amendments
+
+2010—Subsec. (a). Pub. L. 111–327, §2(a)(43)(A), struck out “shall” after “plan” in introductory provisions.
+
+Subsec. (a)(1) to (3). Pub. L. 111–327, §2(a)(43)(B)–(D), inserted “shall” before “provide”.
+
+Subsec. (a)(4). Pub. L. 111–327, §2(a)(43)(E), struck out “a plan” before “may provide”.
 
 2005—Subsec. (a)(4). Pub. L. 109–8, §213(8), added par. (4).
 
@@ -128,5 +138,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Adjustment of Dollar Amounts
 
-For adjustment of dollar amounts specified in subsec. (d) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
+The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
+
+By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (d)(1)(C), (2)(C), dollar amount “575” was adjusted to “625”. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (d), dollar amount “525” was adjusted to “575” each time it appeared.
 

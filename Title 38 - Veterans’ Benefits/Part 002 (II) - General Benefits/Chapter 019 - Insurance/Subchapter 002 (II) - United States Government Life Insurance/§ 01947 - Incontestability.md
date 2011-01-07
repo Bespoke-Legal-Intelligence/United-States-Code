@@ -6,7 +6,7 @@ Subject to the provisions of section 1954 of this title all contracts or policie
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 747 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 747 of this title as this section.
 
 Pub. L. 102–83, §5(c)(1), substituted “1954” for “754” and “1984” for “784”.
 
@@ -16,5 +16,5 @@ Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans�
 
 Pub. L. 102–83, §4(a)(2)(A)(iii)(VI), substituted “Secretary” for “Veterans’ Administration” before “to issue” in last sentence.
 
-1986—Pub. L. 99–576 substituted “the insured's” for “his”.
+<b>1986</b>—Pub. L. 99–576 substituted “the insured's” for “his”.
 

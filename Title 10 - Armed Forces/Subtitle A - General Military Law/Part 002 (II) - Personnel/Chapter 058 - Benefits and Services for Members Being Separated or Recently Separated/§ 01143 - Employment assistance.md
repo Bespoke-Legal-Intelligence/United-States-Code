@@ -14,17 +14,17 @@ Information to Civilian Entities.—For the purpose of assisting members covered
 
 (d)
 
-Employment Preference by Nonappropriated Fund Instrumentalities.—The Secretary of Defense shall take such steps as necessary toprovide that members of Army, Navy, Air Force, or Marine Corps who are involuntarily separated, and the dependents of such members, shall be provided a preference in hiring by nonappropriated fund instrumentalities of the Department. Such preference shall be administered in the same manner as the preference for military spouses provided under section 1784(a)(2) of this title, except that a preference under that section shall have priority over a preference under this subsection. A person may receive a preference in hiring under this subsection only once. The Secretary of Homeland Security shall provide the same preference in hiring to involuntarily separated members of the Coast Guard, and the dependents of such members, in Coast Guard nonappropriated fund instrumentalities.
+Employment Preference by Nonappropriated Fund Instrumentalities.—The Secretary of Defense shall take such steps as necessary to provide that members of Army, Navy, Air Force, or Marine Corps who are involuntarily separated, and the dependents of such members, shall be provided a preference in hiring by nonappropriated fund instrumentalities of the Department. Such preference shall be administered in the same manner as the preference for military spouses provided under section 1784(a)(2) of this title, except that a preference under that section shall have priority over a preference under this subsection. A person may receive a preference in hiring under this subsection only once. The Secretary of Homeland Security shall provide the same preference in hiring to involuntarily separated members of the Coast Guard, and the dependents of such members, in Coast Guard nonappropriated fund instrumentalities.
 
 (Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 103–337, div. A, title V, §542(a)(2), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 105–85, div. A, title X, §1073(a)(21), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Amendments
 
-2002—Subsecs. (a) to (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsecs. (a) to (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1997—Subsec. (d). Pub. L. 105–85 substituted “section 1784(a)(2) of this title” for “section 806(a)(2) of the Military Family Act of 1985”.
+<b>1997</b>—Subsec. (d). Pub. L. 105–85 substituted “section 1784(a)(2) of this title” for “section 806(a)(2) of the Military Family Act of 1985”.
 
-1994—Pub. L. 103–337, §542(a)(2)(A), struck out “: Department of Defense” after “assistance” in section catchline.
+<b>1994</b>—Pub. L. 103–337, §542(a)(2)(A), struck out “: Department of Defense” after “assistance” in section catchline.
 
 Subsec. (a). Pub. L. 103–337, §542(a)(2)(B), inserted “and the Secretary of Transportation with respect to the Coast Guard” after “Secretary of Defense” and struck out “under the jurisdiction of the Secretary” after “armed forces”.
 
@@ -88,7 +88,7 @@ Provision of Assistance.—
 
 &emsp;“(1)
 
-Determination of amount.—The amount of assistance provided under subsection (a) to a member of the Armed Forces shall be equal to the anticipated cost of providing services to the member through an upward bound project, subject to the limitation that such amount may not exceed the monthly basic payto which the member is entitled at the time of the separation of the member. The Secretary of Defense may provide assistance in excess of that limitation if the Secretary determines, on a case by case basis, that such assistance is warranted by the special training needs of the member.
+Determination of amount.—The amount of assistance provided under subsection (a) to a member of the Armed Forces shall be equal to the anticipated cost of providing services to the member through an upward bound project, subject to the limitation that such amount may not exceed the monthly basic pay to which the member is entitled at the time of the separation of the member. The Secretary of Defense may provide assistance in excess of that limitation if the Secretary determines, on a case by case basis, that such assistance is warranted by the special training needs of the member.
 
 &emsp;“(2)
 
@@ -100,11 +100,11 @@ Use of Assistance.—A member of the Armed Forces who is selected to participate
 
 “(f)
 
-Reimbursement.—Upon submission to the Secretary of Defense of a request for reimbursement of the costs to provide services to a participant, the Secretary shall reimburse the upward bound project submitting the request for the actual cost of providing services (including a stipend) to the member, not to exceed the amount provided under subsection (d)(1). Funds provided under this subsection shall be in addition to the funds otherwise provided to the project under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.). Not more than 10 percent of the funds provided under this subsection may be used for administrative costs.
+Reimbursement.—Upon submission to the Secretary of Defense of a request for reimbursement of the costs to provide services to a participant, the Secretary shall reimburse the upward bound project submitting the request for the actual cost of providing services (including a stipend) to the member, not to exceed the amount provided under subsection (d)(1). Funds provided under this subsection shall be in addition to the funds otherwise provided to the project under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) \[and 42 U.S.C. 2751 et seq.\]. Not more than 10 percent of the funds provided under this subsection may be used for administrative costs.
 
 “(g)
 
-Funding for Fiscal Year 1993.—Of the amount authorized to be appropriated in section 301 \[106 Stat. 2360\] for Defense Agencies, $5,000,000 shall be available to provide assistance under this section.
+Funding for Fiscal Year 1993.—Of the amount authorized to be appropriated in section 301 \[106 Stat.2360\] for Defense Agencies, $5,000,000 shall be available to provide assistance under this section.
 
 “(h)
 
@@ -260,7 +260,7 @@ Certification.—An application under subsection (c) shall include a certificati
 
 &emsp;&emsp;“(B) will not be in a job (i) while any other individual is on layoff from the same or any substantially equivalent job, or (ii) the opening for which was created as a result of the employer having terminated the employment of any regular employee or otherwise having reduced its work force with the intention of hiring an eligible person in such job under this subtitle.
 
-&emsp;“(4) That the employer will not employ in the program of job training an eligible person who is alreadyqualified by training and experience for the job for which training is to be provided.
+&emsp;“(4) That the employer will not employ in the program of job training an eligible person who is already qualified by training and experience for the job for which training is to be provided.
 
 &emsp;“(5) That the job which is the objective of the training program is one that involves significant training.
 
@@ -340,7 +340,7 @@ Tools and Other Work-Related Materials.—In addition to payments under subsecti
 
 Overpayments.—(1)(A) Whenever the implementing official finds that an overpayment under this subtitle has been made to an employer on behalf of an eligible person as a result of a certification, or information contained in an application, submitted by an employer which was false in any material respect, the amount of such overpayment shall constitute a liability of the employer to the United States.
 
-“(B) Whenever such official finds that an employer has failed in any substantial respect to comply for a period of time with a requirement established under thissubtitle (unless the employer's failure is the result of false or incomplete information provided by the eligible person), each amount paid to the employer on behalf of an eligible person for that period shall be considered to be an overpayment under this subtitle, and the amount of such overpayment shall constitute a liability of the employer to the United States.
+“(B) Whenever such official finds that an employer has failed in any substantial respect to comply for a period of time with a requirement established under this subtitle (unless the employer's failure is the result of false or incomplete information provided by the eligible person), each amount paid to the employer on behalf of an eligible person for that period shall be considered to be an overpayment under this subtitle, and the amount of such overpayment shall constitute a liability of the employer to the United States.
 
 “(2) Whenever such official finds that an overpayment under this subtitle has been made to an employer on behalf of an eligible person as a result of a certification by the eligible person, or as a result of information provided to an employer or contained in an application submitted by the eligible person, which was willfully or negligently false in any material respect, the amount of such overpayment shall constitute a liability of the eligible person to the United States.
 
@@ -404,7 +404,7 @@ Records.—The records and accounts of employers pertaining to eligible persons 
 
 “(b)
 
-Compliance Monitoring.—Such official may monitor employers and eligible persons participating inprograms of job training under this subtitle to determine compliance with the requirements established under this subtitle.
+Compliance Monitoring.—Such official may monitor employers and eligible persons participating in programs of job training under this subtitle to determine compliance with the requirements established under this subtitle.
 
 “(c)
 
@@ -420,7 +420,7 @@ Department of Labor.—Functions may be administered under subsections (b) and (
 
 Veterans Education Programs.—(1) Assistance may not be paid under this subtitle to an employer on behalf of an eligible person for any period of time described in paragraph (2) and to such eligible person under chapter 30, 31, 32, 35, or 36 of title 38, United States Code, or chapter 106 of title 10, United States Code, for the same period of time.
 
-“(2) A period of time referred to in paragraph (1) is the period of time beginning on the date on which the eligible person enters into an approved program of job training of an employer for purposes of assistance under this subtitle and ending on the last date for which such assistance is payable.
+“(2) A period of time referred to in paragraph (1) is the period of time beginning on the date on which the eligible person enters into an approved program of jobtraining of an employer for purposes of assistance under this subtitle and ending on the last date for which such assistance is payable.
 
 “(b)
 
@@ -478,7 +478,7 @@ In General.—(1) The Secretary, the Secretary of Veterans Affairs, and the Secr
 
 &emsp;“(B) to inform private industry and business concerns (including small business concerns), public agencies and organizations, educational institutions, trade associations, and labor unions about the job training opportunities available under, and the advantages of participating in, the program established by this subtitle.
 
-“(2) The Secretary, in consultation with the Secretary of Labor and the Secretary of Veterans Affairs, shall promote the development of employment and job training opportunities for eligible persons by encouraging potential employers to make programs of job training under this subtitle available for eligible persons, by advising other appropriate Federal departments and agencies of the program established by this subtitle,and by advising employers of applicable responsibilities under chapters 41 and 42 of title 38, United States Code, with respect to eligible persons.
+“(2) The Secretary, in consultation with the Secretary of Labor and the Secretary of Veterans Affairs, shall promote the development of employment and job training opportunities for eligible persons by encouraging potential employers to make programs of job training under this subtitle available for eligible persons, by advising other appropriate Federal departments and agencies of the program established by this subtitle, and by advising employers of applicable responsibilities under chapters 41 and 42 of title 38, United States Code, with respect to eligible persons.
 
 “(b)
 
@@ -492,7 +492,7 @@ Agency Resources.—(1) The Secretary, the Secretary of Veterans Affairs, and th
 
 “(d)
 
-Small Business.—The implementing official shall request and obtain from the Administrator of the Small Business Administration a list of small business concerns and shall, on a regular basis, update such list. Such list shall be used to identify and promote possible training and employment opportunities for eligible persons.
+Small Business.—The implementing official shall request and obtain from the Administrator of the Small Business Administration a list of small businessconcerns and shall, on a regular basis, update such list. Such list shall be used to identify and promote possible training and employment opportunities for eligible persons.
 
 “(e)
 

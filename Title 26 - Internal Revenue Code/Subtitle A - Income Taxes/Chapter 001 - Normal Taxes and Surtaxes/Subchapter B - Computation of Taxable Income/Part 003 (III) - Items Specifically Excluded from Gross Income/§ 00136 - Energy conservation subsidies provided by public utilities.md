@@ -42,7 +42,7 @@ A prior section 136 was renumbered section 140 of this title.
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–188, §1617(b)(1), reenacted heading without change and amended text generally, substituting present provisions for former provisions which consisted of general exclusion in par. (1) and limitation for exclusion on nonresidential property in par. (2).
+<b>1996</b>—Subsec. (a). Pub. L. 104–188, §1617(b)(1), reenacted heading without change and amended text generally, substituting present provisions for former provisions which consisted of general exclusion in par. (1) and limitation for exclusion on nonresidential property in par. (2).
 
 Subsec. (c)(1). Pub. L. 104–188, §1617(a), substituted “energy demand with respect to a dwelling unit.” for “energy demand—
 

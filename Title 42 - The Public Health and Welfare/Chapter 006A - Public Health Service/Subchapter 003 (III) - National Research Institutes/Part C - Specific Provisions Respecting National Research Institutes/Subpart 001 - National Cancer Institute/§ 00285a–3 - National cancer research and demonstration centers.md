@@ -32,11 +32,11 @@ Research centers under this section may not be considered centers of excellence 
 
 #### Amendments
 
-2007—Subsec. (d). Pub. L. 109–482 added subsec. (d).
+<b>2007</b>—Subsec. (d). Pub. L. 109–482 added subsec. (d).
 
-2002—Subsec. (b). Pub. L. 107–206 substituted “Ruth L. Kirschstein National Research Service Awards” for “National Research Service Awards” in concluding provisions.
+<b>2002</b>—Subsec. (b). Pub. L. 107–206 substituted “Ruth L. Kirschstein National Research Service Awards” for “National Research Service Awards” in concluding provisions.
 
-1988—Subsec. (a)(1). Pub. L. 100–607 inserted “control,” after “prevention,”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–607 inserted “control,” after “prevention,”.
 
 #### Effective Date of 2007 Amendment
 

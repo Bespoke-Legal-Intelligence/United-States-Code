@@ -50,7 +50,7 @@ Aug. 23, 1958, Pub. L. 85–726, §1601(b)(1)(E), as added Oct. 4, 1984, Pub. L.
 
 49 App.:1551(a)(1)(D), (b)(1)(E).
 
-In the section, the text of 49 App.:1371(j) (related to interstate and overseas transportation of persons) is omitted because of 49 App.:1551(a)(1)(D). The text of 49 App.:1371(j) (related to other interstate and overseas air transportation and the domestic air transportation of mail) is omitted because a certificate of public convenience and necessity is no longer required. See H.R. Rept. 98–793, 98th Cong., 2d Sess., p. 10 (1984). The textof 49 App.:1371(j) (related to essential air transportation) is omitted as superseded by 49 App.:1389, restated as subchapter II of chapter 417 of title 49.
+In the section, the text of 49 App.:1371(j) (related to interstate and overseas transportation of persons) is omitted because of 49 App.:1551(a)(1)(D). The text of 49 App.:1371(j) (related to other interstate and overseas air transportation and the domestic air transportation of mail) is omitted because a certificate of public convenience and necessity is no longer required. See H.R. Rept. 98–793, 98th Cong., 2d Sess., p. 10 (1984). The text of 49 App.:1371(j) (related to essential air transportation) is omitted as superseded by 49 App.:1389, restated as subchapter II of chapter 417 of title 49.
 
 In subsection (a)(1) and (2), the word “place” is substituted for “point” for consistency in the revised title. The words “by that decision” are added for clarity.
 
@@ -66,7 +66,7 @@ This amends 49:41312(a)(1) to conform to the style of title 49.
 
 #### Amendments
 
-1996—Subsec. (a)(1). Pub. L. 104–287 substituted “Secretary of Transportation” for “Secretary”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–287 substituted “Secretary of Transportation” for “Secretary”.
 
 #### Effective Date
 

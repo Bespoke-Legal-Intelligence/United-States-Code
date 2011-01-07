@@ -44,7 +44,7 @@ Notwithstanding any other provision of sections 459e to 459e–9 of this title, 
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–482, §4, substituted “by means of limitations or restrictions on the size, location or use of any commercial, residential, and other structures” for “by means of acreage, frontage, and setback requirements” and required that the standards seek to reconcile the population density of the seashore on Oct. 17, 1984, with the protection of the natural resources of the seashore.
+<b>1984</b>—Subsec. (b). Pub. L. 98–482, §4, substituted “by means of limitations or restrictions on the size, location or use of any commercial, residential, and other structures” for “by means of acreage, frontage, and setback requirements” and required that the standards seek to reconcile the population density of the seashore on Oct. 17, 1984, with the protection of the natural resources of the seashore.
 
 Subsec. (e). Pub. L. 98–482, §3, designated part of existing provisions as pars. (1) and (2), made the provisions applicable to any property, and excluded undeveloped property in the Dune district.
 

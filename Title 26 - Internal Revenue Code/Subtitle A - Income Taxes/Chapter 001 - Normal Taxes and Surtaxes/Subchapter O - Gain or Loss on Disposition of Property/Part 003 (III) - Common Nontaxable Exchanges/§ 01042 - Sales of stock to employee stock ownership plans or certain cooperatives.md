@@ -60,7 +60,7 @@ For purposes of this section—
 
 &emsp;The term “qualified securities” means employer securities (as defined in section 409(<i>l</i>)) which—
 
-&emsp;&emsp;(A) are issued by a domestic C corporation that has no stock outstanding that is readily tradable on an established securities market, and
+&emsp;&emsp;(A) are issued by a domestic C corporation that has no stock outstanding that is readilytradable on an established securities market, and
 
 &emsp;&emsp;(B) were not received by the taxpayer in—
 
@@ -156,7 +156,7 @@ For purposes of this section—
 
 #### (d) Basis of qualified replacement property
 
-The basis of the taxpayer in qualified replacement property purchased by the taxpayer during the replacement period shall be reduced by the amount of gain not recognized by reason of such purchase and the application of subsection (a). If more than one item of qualified replacement property is purchased, the basis of each of such items shall be reduced by an amount determined by multiplying the total gain not recognized by reason of such purchase and the application of subsection (a) by a fraction—
+The basis of the taxpayer in qualified replacement property purchased by the taxpayer during the replacement period shall be reduced by the amount of gain not recognized by reason of such purchase and the application of subsection (a). If more than one item of qualified replacement property is purchased, the basis of each of such items shall be reduced by an amount determined by multiplying the total gain not recognized byreason of such purchase and the application of subsection (a) by a fraction—
 
 &emsp;(1) the numerator of which is the cost of such item of property, and
 
@@ -250,9 +250,9 @@ The Tax Reform Act of 1986, referred to in subsec. (c)(4)(A), is Pub. L. 99–51
 
 #### Amendments
 
-1997—Subsec. (g). Pub. L. 105–34 added subsec. (g).
+<b>1997</b>—Subsec. (g). Pub. L. 105–34 added subsec. (g).
 
-1996—Subsec. (c)(1)(A). Pub. L. 104–188, §1316(d)(3), substituted “domestic C corporation” for “domestic corporation”.
+<b>1996</b>—Subsec. (c)(1)(A). Pub. L. 104–188, §1316(d)(3), substituted “domestic C corporation” for “domestic corporation”.
 
 Subsec. (c)(1)(B)(ii). Pub. L. 104–188, §1704(t)(50), provided that section 11801(c)(9)(H) of Pub. L. 101–508 shall be applied as if “section 1042(c)(1)(B)” appeared instead of “section 1042(c)(2)(B)”. See 1990 Amendment note below.
 
@@ -260,17 +260,17 @@ Subsec. (c)(4)(A)(i). Pub. L. 104–188, §1311(b)(3), substituted “section 13
 
 Subsec. (c)(4)(B)(ii)(I). Pub. L. 104–188, §1616(b)(13), struck out “or 593” after “section 581”.
 
-1990—Subsec. (c)(1)(B)(ii). Pub. L. 101–508, which directed the amendment of subsec. (c)(2)(B)(ii) by substituting “section 83, 422, or 423 applied (or to which section 422 or 424 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) applied)” for “section 83, 422, 422A, 423, or 424 applies”, was executed to subsec. (c)(1)(B)(ii). See 1996 Amendment note above.
+<b>1990</b>—Subsec. (c)(1)(B)(ii). Pub. L. 101–508, which directed the amendment of subsec. (c)(2)(B)(ii) by substituting “section 83, 422, or 423 applied (or to which section 422 or 424 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) applied)” for “section 83, 422, 422A, 423, or 424 applies”, was executed to subsec. (c)(1)(B)(ii). See 1996 Amendment note above.
 
-1989—Subsec. (b)(4). Pub. L. 101–239 added par. (4).
+<b>1989</b>—Subsec. (b)(4). Pub. L. 101–239 added par. (4).
 
-1988—Subsec. (b)(3), (4). Pub. L. 100–647, §1018(t)(4)(F), made technical correction to Pub. L. 99–514, §1854(a)(3)(B), see 1986 Amendment notes below.
+<b>1988</b>—Subsec. (b)(3), (4). Pub. L. 100–647, §1018(t)(4)(F), made technical correction to Pub. L. 99–514, §1854(a)(3)(B), see 1986 Amendment notes below.
 
 Subsec. (c)(4)(A). Pub. L. 100–647, §1018(t)(4)(D), inserted “(as in effect immediately before the Tax Reform Act of 1986)” after “section 954(c)(3)” in last sentence.
 
 Subsec. (c)(4)(B)(i). Pub. L. 100–647, §1018(t)(4)(E), substituted “replacement period” for “placement period”.
 
-1986—Pub. L. 99–514, §1854(a)(11), which directed that “employee” be inserted before “stock” in section catchline was executed by making the insertion before “stock” the second time that term appears as the probable intent of Congress.
+<b>1986</b>—Pub. L. 99–514, §1854(a)(11), which directed that “employee” be inserted before “stock” in section catchline was executed by making the insertion before “stock” the second time that term appears as the probable intent of Congress.
 
 Subsec. (a). Pub. L. 99–514, §1854(a)(1), substituted “the taxpayer or executor elects in such form as the Secretary may prescribe” for “the taxpayer elects” in par. (1) and inserted “which would be recognized as long-term capital gain” in concluding provisions.
 
@@ -286,7 +286,7 @@ Subsec. (b)(4). Pub. L. 99–514, §1854(a)(3)(B), as amended by Pub. L. 100–6
 
 Subsec. (c). Pub. L. 99–514, §1899A(26), substituted “this section—” for “this section.—” in introductory provision.
 
-Subsec. (c)(1). Pub. L. 99–514, §1854(a)(4), substituted “stock outstanding that is” for “securities outstanding that are” in subpar. (A), redesignated subpar. (C) as (B),and struck out former subpar. (B) which read as follows: “at the time of the sale described in subsection (a)(1), have been held by the taxpayer for more than 1 year, and”.
+Subsec. (c)(1). Pub. L. 99–514, §1854(a)(4), substituted “stock outstanding that is” for “securities outstanding that are” in subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “at the time of the sale described in subsection (a)(1), have been held by the taxpayer for more than 1 year, and”.
 
 Subsec. (c)(4). Pub. L. 99–514, §1854(a)(5)(A), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The term ‘qualified replacement property’ means any securities (as defined in section 165(g)(2)) issued by a domestic corporation which does not, for the taxable year in which such stock is issued, have passive investment income (as defined in section 1362(d)(3)(D)) that exceeds 25 percent of the gross receipts of such corporation for such taxable year.”
 
@@ -326,7 +326,7 @@ Amendment by section 1854(a)(3)(B) of Pub. L. 99–514 applicable to sales of se
 
 Section 1854(a)(6)(B)–(D) of Pub. L. 99–514 provided that:
 
-“(B) The amendment made by subparagraph (A) \[amending this section\] shall apply to sales after March 28, 1985, except that such amendment shall not apply to sales made before July 1, 1985, if made pursuant to a binding contract in effect on March 28, 1985, and at all times thereafter.
+“(B) The amendment made by subparagraph (A) \[amending this section\] shall apply to sales after March 28, 1985, except that such amendment shall not apply tosales made before July 1, 1985, if made pursuant to a binding contract in effect on March 28, 1985, and at all times thereafter.
 
 “(C) The amendment made by subparagraph (A) shall not apply to any sale occurring on December 20, 1985, with respect to which—
 

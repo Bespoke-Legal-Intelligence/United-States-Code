@@ -96,9 +96,9 @@ Except as provided in subsection (g) of this section, no action establishing pol
 
 #### Amendments
 
-1995—Subsec. (e). Pub. L. 104–65, which directed amendment of section “5206(e) of the Competitiveness Policy Council Act (15 U.S.C. 4804(e))” by inserting “or a lobbyist for a foreign entity (as the terms ‘lobbyist’ and ‘foreign entity’ are defined under section 1602 of title 2)” after “an agent for a foreign principal”, was executed to section 5205(e) of such Act, which is subsec. (e) of this section, to reflect the probable intent of Congress.
+<b>1995</b>—Subsec. (e). Pub. L. 104–65, which directed amendment of section “5206(e) of the Competitiveness Policy Council Act (15 U.S.C. 4804(e))” by inserting “or a lobbyist for a foreign entity (as the terms ‘lobbyist’ and ‘foreign entity’ are defined under section 1602 of title 2)” after “an agent for a foreign principal”, was executed to section 5205(e) of such Act, which is subsec. (e) of this section, to reflect the probable intent of Congress.
 
-1990—Subsec. (b). Pub. L. 101–382, §133(a)(1), substituted reference to Aug. 20, 1990, for reference to Jan. 21, 1989.
+<b>1990</b>—Subsec. (b). Pub. L. 101–382, §133(a)(1), substituted reference to Aug. 20, 1990, for reference to Jan. 21, 1989.
 
 Subsec. (e). Pub. L. 101–382, §133(a)(2), added subsec. (e) and struck out former subsec. (e) which read as follows:
 

@@ -18,9 +18,9 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000” in subsecs. (a) and (b).
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000” in subsecs. (a) and (b).
 
-1990—Subsec. (b). Pub. L. 101–510 inserted at end “As used in this subsection, the term ‘office’ does not include the office held by any person as a retired officer of the Armed Forces of the United States.”
+<b>1990</b>—Subsec. (b). Pub. L. 101–510 inserted at end “As used in this subsection, the term ‘office’ does not include the office held by any person as a retired officer of the Armed Forces of the United States.”
 
 #### Effective Date of 1990 Amendment
 

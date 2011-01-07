@@ -204,25 +204,25 @@ The definition in clause (18) reflects the adoption of terminology which, though
 
 #### Amendments
 
-2006—Cl. (1). Pub. L. 109–163 amended cl. (1) generally. Prior to amendment, cl. (1) read as follows: “ ‘Territory’ means any Territory organized after this title is enacted, so long as it remains a Territory. However, for purposes of this title and other laws relating to the militia, the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States, ‘Territory’ includes Guam and the Virgin Islands.”
+<b>2006</b>—Cl. (1). Pub. L. 109–163 amended cl. (1) generally. Prior to amendment, cl. (1) read as follows: “ ‘Territory’ means any Territory organized after this title is enacted, so long as it remains a Territory. However, for purposes of this title and other laws relating to the militia, the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States, ‘Territory’ includes Guam and the Virgin Islands.”
 
-1988—Cls. (4), (6). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
+<b>1988</b>—Cls. (4), (6). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 
-1984—Cl. (12). Pub. L. 98–525, §414(b)(1)(A), inserted at end “It does not include full-time National Guard duty.”
+<b>1984</b>—Cl. (12). Pub. L. 98–525, §414(b)(1)(A), inserted at end “It does not include full-time National Guard duty.”
 
 Cl. (19). Pub. L. 98–525, §414(b)(1)(B), added cl. (19).
 
-1980—Cl. (1). Pub. L. 96–600 inserted reference to Guam.
+<b>1980</b>—Cl. (1). Pub. L. 96–600 inserted reference to Guam.
 
 Cl. (12). Pub. L. 96–513 struck out “duty on the active list,” after “Federal duty as”.
 
-1972—Cl. (1). Pub. L. 92–492 inserted provision including within term “Territory” for purposes of this title and other laws relating to the militia, the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States, the Virgin Islands.
+<b>1972</b>—Cl. (1). Pub. L. 92–492 inserted provision including within term “Territory” for purposes of this title and other laws relating to the militia, the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States, the Virgin Islands.
 
-1960—Cl. (1). Pub. L. 86–624 struck out reference to Hawaii.
+<b>1960</b>—Cl. (1). Pub. L. 86–624 struck out reference to Hawaii.
 
-1959—Cl. (1). Pub. L. 86–70 struck out reference to Alaska.
+<b>1959</b>—Cl. (1). Pub. L. 86–70 struck out reference to Alaska.
 
-1958—Cls. (2) to (18). Pub. L. 85–861 added cls. (2) and (18) and renumbered former cls. (2) to (16) as (3) to (17), respectively.
+<b>1958</b>—Cls. (2) to (18). Pub. L. 85–861 added cls. (2) and (18) and renumbered former cls. (2) to (16) as (3) to (17), respectively.
 
 #### Effective Date of 1980 Amendment
 

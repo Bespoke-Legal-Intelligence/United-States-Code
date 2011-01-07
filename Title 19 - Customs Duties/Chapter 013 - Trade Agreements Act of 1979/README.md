@@ -52,7 +52,7 @@
 
 #### Part C—Administrative and Judicial Proceedings Regarding Standards-Related Activities
 
-I74subpart 1—representations alleging united states violations of obligations
+#### subpart 1—representations alleging united states violations of obligations
 
 |  |  |
 | :--- | ---: |
@@ -84,7 +84,7 @@ I74subpart 1—representations alleging united states violations of obligations
 
 #### Part E—Standards and Measures Under the North American Free Trade Agreement
 
-I74subpart 1—sanitary and phytosanitary measures
+#### subpart 1—sanitary and phytosanitary measures
 
 |  |  |
 | :--- | ---: |

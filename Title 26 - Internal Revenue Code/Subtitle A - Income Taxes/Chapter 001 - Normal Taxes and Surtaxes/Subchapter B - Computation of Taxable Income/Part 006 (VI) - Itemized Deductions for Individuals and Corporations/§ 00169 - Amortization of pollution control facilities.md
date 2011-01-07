@@ -108,7 +108,7 @@ A prior section 169, act Aug. 16, 1954, ch. 736, 68A Stat. 55, related to amorti
 
 #### Amendments
 
-2005—Subsec. (d). Pub. L. 109–58, §1309(c), inserted “and special rules” after “Definitions” in heading.
+<b>2005</b>—Subsec. (d). Pub. L. 109–58, §1309(c), inserted “and special rules” after “Definitions” in heading.
 
 Subsec. (d)(3). Pub. L. 109–58, §1309(d), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
@@ -118,19 +118,19 @@ Subsec. (d)(5). Pub. L. 109–58, §1309(a), added par. (5).
 
 Subsec. (d)(5)(B). Pub. L. 109–135 inserted “in the case of facility placed in service in connection with a plant or other property placed in operation after December 31, 1975,” before “this section”.
 
-1976—Subsecs. (b), (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (b), (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (d)(1). Pub. L. 94–455, §§1906(b)(13)(A), 2112(b), substituted in provisions preceding subpar. (A) “January 1, 1976,” for “January 1, 1969,” and “storing, or preventing the creation or emission of” for “or storing”, struck out in subpar. (B) “or his delegate” after “Secretary”, and added subpar. (C).
 
 Subsec. (d)(4). Pub. L. 94–455, §2112(c), among other changes, struck out provisions relating to treatment facilities placed in service by taxpayer before Jan. 1, 1976, and inserted provisions that in case of treatment facilities used in connection with any plan or other property not in operation before Jan. 1, 1969, Dec. 31, 1975, shall be substituted for Dec. 31, 1968, as the cut-off date for taking into account that portion of the basis which is attributable to construction, reconstruction, or erection.
 
-1975—Subsec. (d)(4)(B). Pub. L. 93–625 substituted “January 1, 1976” for “January 1, 1975”.
+<b>1975</b>—Subsec. (d)(4)(B). Pub. L. 93–625 substituted “January 1, 1976” for “January 1, 1975”.
 
-1971—Subsec. (h). Pub. L. 92–178 struck out provision that investment credit not be allowed. See section 48(a)(8) of this title.
+<b>1971</b>—Subsec. (h). Pub. L. 92–178 struck out provision that investment credit not be allowed. See section 48(a)(8) of this title.
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
+Amendment by Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 36C of this title.
 
 Pub. L. 109–58, title XIII, §1309(e), Aug. 8, 2005, 119 Stat. 1007, provided that: “The amendments made by this section \[amending this section\] shall apply to facilities placed in service after April 11, 2005.”
 

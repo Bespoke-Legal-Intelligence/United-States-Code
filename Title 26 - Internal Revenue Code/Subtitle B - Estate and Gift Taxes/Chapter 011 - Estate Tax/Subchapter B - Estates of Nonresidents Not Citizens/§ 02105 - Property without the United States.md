@@ -46,29 +46,35 @@ For purposes of this subchapter, works of art owned by a nonresident not a citiz
 
 #### (3) Termination
 
-&emsp;This subsection shall not apply to estates of decedents dying after December 31, 2009.
+&emsp;This subsection shall not apply to estates of decedents dying after December 31, 2011.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 397; Pub. L. 89–809, title I, §108(d), Nov. 13, 1966, 80 Stat. 1572; Pub. L. 98–369, div. A, title I, §127(d), July 18, 1984, 98 Stat. 651; Pub. L. 100–647, title I,§1012(g)(4), Nov. 10, 1988, 102 Stat. 3501; Pub. L. 103–66, title XIII, §13237(b), Aug. 10, 1993, 107 Stat. 508; Pub. L. 105–34, title XIII, §1304(a), Aug. 5, 1997, 111 Stat. 1040; Pub. L. 108–357, title IV, §411(b), Oct. 22, 2004, 118 Stat. 1504; Pub. L. 110–343, div. C, title II, §207(a), Oct. 3, 2008, 122 Stat. 3865.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 397; Pub. L. 89–809, title I, §108(d), Nov. 13, 1966, 80 Stat. 1572; Pub. L. 98–369, div. A, title I, §127(d), July 18, 1984, 98 Stat. 651; Pub. L. 100–647, title I, §1012(g)(4), Nov. 10, 1988, 102 Stat. 3501; Pub. L. 103–66, title XIII, §13237(b), Aug. 10, 1993, 107 Stat. 508; Pub. L. 105–34, title XIII, §1304(a), Aug. 5, 1997, 111 Stat. 1040; Pub. L. 108–357, title IV, §411(b), Oct. 22, 2004, 118 Stat. 1504; Pub. L. 110–343, div. C, title II, §207(a), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–312, title VII, §726(a), Dec. 17, 2010, 124 Stat. 3316.)
 
 #### Amendments
 
-2008—Subsec. (d)(3). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2007”.
+<b>2010</b>—Subsec. (d)(3). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”.
 
-2004—Subsec. (d). Pub. L. 108–357 added subsec. (d).
+<b>2008</b>—Subsec. (d)(3). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2007”.
 
-1997—Subsec. (b)(4). Pub. L. 105–34 added par. (4).
+<b>2004</b>—Subsec. (d). Pub. L. 108–357 added subsec. (d).
 
-1993—Subsec. (b). Pub. L. 103–66 substituted “this subchapter, the following shall not be deemed property within the United States” for “this subchapter” in introductory provisions, added par. (3) and concluding provisions, and struck out former par. (3) and concluding provisions which read as follows:
+<b>1997</b>—Subsec. (b)(4). Pub. L. 105–34 added par. (4).
+
+<b>1993</b>—Subsec. (b). Pub. L. 103–66 substituted “this subchapter, the following shall not be deemed property within the United States” for “this subchapter” in introductory provisions, added par. (3) and concluding provisions, and struck out former par. (3) and concluding provisions which read as follows:
 
 &emsp;“(3) debt obligations, if, without regard to whether a statement meeting the requirements of section 871(h)(4) has been received, any interest thereon would be eligible for the exemption from tax under section 871(h)(1) were such interest received by the decedent at the time of his death,
 
 > shall not be deemed property within the United States.”
 
-1988—Subsec. (b)(1). Pub. L. 100–647 substituted “section 871(i)(3), if any interest thereon would not be subject to tax by reason of section 871(i)(1)” for “section 861(c), if any interest thereon would be treated by reason of section 861(a)(1)(A) as income from sources without the United States”.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–647 substituted “section 871(i)(3), if any interest thereon would not be subject to tax by reason of section 871(i)(1)” for “section 861(c), if any interest thereon would be treated by reason of section 861(a)(1)(A) as income from sources without the United States”.
 
-1984—Subsec. (b). Pub. L. 98–369, amended subsec. (b) generally, substituting “Bank deposits and certain other debt obligations” for “Certain bank deposits, etc.” in heading and “, if any interest thereon would be treated by reason of section 861(a)(1)(A) as income from sources without the United States were such interest received by the decedent at the time of his death,” for “if any interest thereon, were such interest received by the decedent at the time of his death, would be treated by reason of section 861(a)(1)(A) as income from sources without the United States, and” in par. (1), inserting “and” after “business,” in par. (2), and adding par. (3).
+<b>1984</b>—Subsec. (b). Pub. L. 98–369, amended subsec. (b) generally, substituting “Bank deposits and certain other debt obligations” for “Certain bank deposits, etc.” in heading and “, if any interest thereon would be treated by reason of section 861(a)(1)(A) as income from sources without the United States were such interest received by the decedent at the time of his death,” for “if any interest thereon, were such interest received by the decedent at the time of his death, would be treated by reason of section 861(a)(1)(A) as income from sources without the United States, and” in par. (1), inserting “and” after “business,” in par. (2), and adding par. (3).
 
-1966—Subsec. (b). Pub. L. 89–809 substituted amounts described in section 861(c) if any interest thereon, were such interest received by the decedent at the time of his death, would be treated by reason of section 861(a)(1)(A) as income from sources without the United States, and deposits with a foreign branch of a domestic corporation or domestic partnership, if such branch is engaged in the commercial banking business for moneys deposited with any person carrying on the banking business by or for a nonresident not a citizen of the United States who was not engaged in business in the United States at the time of his death as the property not to be deemed property within the United States for purposes of this subchapter.
+<b>1966</b>—Subsec. (b). Pub. L. 89–809 substituted amounts described in section 861(c) if any interest thereon, were such interest received by the decedent at the time ofhis death, would be treated by reason of section 861(a)(1)(A) as income from sources without the United States, and deposits with a foreign branch of a domestic corporation or domestic partnership, if such branch is engaged in the commercial banking business for moneys deposited with any person carrying on the banking business by or for a nonresident not a citizen of the United States who was not engaged in business in the United States at the time of his death as the property not to be deemed property within the United States for purposes of this subchapter.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–312, title VII, §726(b), Dec. 17, 2010, 124 Stat. 3317, provided that: “The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after December 31, 2009.”
 
 #### Effective Date of 2008 Amendment
 

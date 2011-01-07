@@ -12,7 +12,7 @@ From among the areas nominated for designation under this section, the appropria
 
 #### (2) Empowerment zones
 
-&emsp;The appropriate Secretaries may designate in the aggregate 11 nominated areas as empowerment zones under this section, subject to the availability of eligible nominated areas. Of that number, not more than 8 may be designated in urban areas and not more than 3 may be designated in rural areas. If 6 empowerment zones are designated in urbanareas, no less than 1 shall be designated in an urban area the most populous city of which has a population of 500,000 or less and no less than 1 shall be a nominated area which includes areas in 2 States and which has a population of 50,000 or less. The Secretary of Housing and Urban Development shall designate empowerment zones located in urban areas in such a manner that the aggregate population of all such zones does not exceed 1,000,000.
+&emsp;The appropriate Secretaries may designate in the aggregate 11 nominated areas as empowerment zones under this section, subject to the availability of eligible nominated areas. Of that number, not more than 8 may be designated in urban areas and not more than 3 may be designated in rural areas. If 6 empowerment zones are designated in urban areas, no less than 1 shall be designated in an urban area the most populous city of which has a population of 500,000 or less and no less than 1 shall be a nominated area which includes areas in 2 States and which has a population of 50,000 or less. The Secretary of Housing and Urban Development shall designate empowerment zones located in urban areas in such a manner that the aggregate population of all such zones does not exceed 1,000,000.
 
 #### (c) Period designations may be made
 
@@ -24,7 +24,7 @@ A designation may be made under subsection (a) only after 1993 and before 1996.
 
 &emsp;Any designation under this section shall remain in effect during the period beginning on the date of the designation and ending on the earliest of—
 
-&emsp;&emsp;(A)(i) in the case of an empowerment zone, December 31, 2009, or
+&emsp;&emsp;(A)(i) in the case of an empowerment zone, December 31, 2011, or
 
 &emsp;&emsp;(ii) in the case of an enterprise community, the close of the 10th calendar year beginning on or after such date of designation,
 
@@ -126,7 +126,7 @@ No area may be designated under this section unless the application for such des
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The parcels described in subparagraph (A)(iii) shall not be taken into account in determining whether the requirement of subparagraph (A) or (B) of section 1392(a)(3) is met.
+&emsp;&emsp;&emsp;The parcels described in subparagraph (A)(iii) shall not be taken into account indetermining whether the requirement of subparagraph (A) or (B) of section 1392(a)(3) is met.
 
 #### (ii) Special rule for rural areas
 
@@ -158,7 +158,7 @@ No area may be designated under this section unless the application for such des
 
 #### (2) Period designations may be made and take effect
 
-&emsp;A designation may be made under this subsection after the date of the enactment of this subsection and before January 1, 2002. Subject to subparagraphs (B) and (C) of subsection (d)(1), such designations shall remain in effect during the period beginning on January 1, 2002, and ending on December 31, 2009.
+&emsp;A designation may be made under this subsection after the date of the enactment of this subsection and before January 1, 2002.
 
 #### (3) Modifications to eligibility criteria, etc.
 
@@ -168,7 +168,7 @@ No area may be designated under this section unless the application for such des
 
 &emsp;The number of areas which may be designated as empowerment zones under this subsection shall be increased by 1 for each area which ceases to be an empowerment zone by reason of section 1400E(e). Each additional area designated by reason of the preceding sentence shall have the same urban or rural character as the area it is replacing.
 
-(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 543; amended Pub. L. 105–34, title IX, §§951(a), 952(a), (d), Aug. 5, 1997, 111 Stat. 885–887; Pub. L. 106–554, §1(a)(7) \[title I, §§111, 112, title III, §319(13)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–600, 2763A–601, 2763A–646.)
+(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 543; amended Pub. L. 105–34, title IX, §§951(a), 952(a), (d), Aug. 5, 1997, 111 Stat. 885–887; Pub. L. 106–554, §1(a)(7) \[title I, §§111, 112, title III, §319(13)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–600, 2763A–601, 2763A–646; Pub. L. 111–312, title VII, §753(a), Dec. 17, 2010, 124 Stat. 3321.)
 
 #### References in Text
 
@@ -182,13 +182,17 @@ A prior section 1391, added Pub. L. 95–600, title VI, §601(a), Nov. 6, 1978, 
 
 #### Amendments
 
-2000—Subsec. (d)(1)(A). Pub. L. 106–554, §1(a)(7) \[title I, §112\], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the close of the 10th calendar year beginning on or after such date of designation,”.
+<b>2010</b>—Subsec. (d)(1)(A)(i). Pub. L. 111–312, §753(a)(1), substituted “December 31, 2011” for “December 31, 2009”.
+
+Subsec. (h)(2). Pub. L. 111–312, §753(a)(2), struck out at end “Subject to subparagraphs (B) and (C) of subsection (d)(1), such designations shall remain in effect during the period beginning on January 1, 2002, and ending on December 31, 2009.”
+
+<b>2000</b>—Subsec. (d)(1)(A). Pub. L. 106–554, §1(a)(7) \[title I, §112\], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the close of the 10th calendar year beginning on or after such date of designation,”.
 
 Subsec. (g)(3)(C). Pub. L. 106–554, §1(a)(7) \[title III, §319(13)\], substituted “paragraph (1)” for “paragraph (1)(B)”.
 
 Subsec. (h). Pub. L. 106–554, §1(a)(7) \[title I, §111\], added subsec. (h).
 
-1997—Subsec. (b)(2). Pub. L. 105–34, §951(a)(3), substituted “1,000,000” for “750,000”.
+<b>1997</b>—Subsec. (b)(2). Pub. L. 105–34, §951(a)(3), substituted “1,000,000” for “750,000”.
 
 Pub. L. 105–34, §951(a)(2), substituted “8” for “6” before “may be designated”.
 
@@ -200,9 +204,17 @@ Subsecs. (e), (f). Pub. L. 105–34, §952(d)(1), substituted “this section”
 
 Subsec. (g). Pub. L. 105–34, §952(a), added subsec. (g).
 
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–312 applicable to periods after Dec. 31, 2009, see section 753(d) of Pub. L. 111–312, set out as a note under section 1202 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Section 951(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and section 1396 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\], except that designations of new empowerment zones made pursuant to such amendments shall be made during the 180-day period beginning on the date of the enactment of this Act. No designation pursuant to such amendments shall take effect before January 1, 2000.”
+
+#### Treatment of Certain Termination Dates Specified in Nominations
+
+Pub. L. 111–312, title VII, §753(c), Dec. 17, 2010, 124 Stat. 3321, provided that: “In the case of a designation of an empowerment zone the nomination for which included a termination date which is contemporaneous with the date specified in subparagraph (A)(i) of section 1391(d)(1) of the Internal Revenue Code of 1986 (as in effect before the enactment of this Act \[Dec. 17, 2010\]), subparagraph (B) of such section shall not apply with respect to such designation if, after the date of the enactment of this section \[Dec. 17, 2010\], the entity which made such nomination amends the nomination to provide for a new termination date in such manner as the Secretary of the Treasury (or the Secretary's designee) may provide.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “the”.</i>
 

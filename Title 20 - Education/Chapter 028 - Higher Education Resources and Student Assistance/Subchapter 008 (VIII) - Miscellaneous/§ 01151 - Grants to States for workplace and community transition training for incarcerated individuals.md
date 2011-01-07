@@ -90,7 +90,7 @@ An incarcerated individual who has obtained a secondary school diploma or its re
 
 &emsp;(3) has not been convicted of—
 
-&emsp;&emsp;(A) a “criminal offense against a victim who is a minor” or a “sexually violent offense”, as such terms are defined in the Jacob Wetterling Crimes Against Children and Sexually Violent Offender Registration Act (42 U.S.C. 14071 et seq.); or
+&emsp;&emsp;(A) a “criminal offense against a victim who is a minor” or a “sexually violent offense”, as such terms are defined in the Jacob Wetterling Crimes Against Children and Sexually Violent Offender Registration Act (42 U.S.C. 14071 et seq.); <sup>1</sup> or
 
 &emsp;&emsp;(B) murder, as described in section 1111 of title 18.
 
@@ -116,11 +116,11 @@ State correctional education agencies and cooperating institutions shall, to the
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal years 2009 through 2014.
 
-(Pub. L. 105–244, title VIII, §821, Oct. 7, 1998, 112 Stat. 1813; Pub. L. 110–315, title IX, §932, Aug. 14,2008, 122 Stat. 3456; Pub. L. 111–39, title VIII, §802(a)(1), July 1, 2009, 123 Stat. 1956.)
+(Pub. L. 105–244, title VIII, §821, Oct. 7, 1998, 112 Stat. 1813; Pub. L. 110–315, title IX, §932, Aug. 14, 2008, 122 Stat. 3456; Pub. L. 111–39, title VIII, §802(a)(1), July 1, 2009, 123 Stat. 1956.)
 
 #### References in Text
 
-The Jacob Wetterling Crimes Against Children and Sexually Violent Offender Registration Act, referred to in subsec. (e)(3)(A), is subtitle A of title XVII of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 2038, which is classified generally to subchapter VI (§14071 et seq.) of chapter 136 of Title 42, The Public Health and Welfare. For complete classification of subtitle A to the Code, see Short Title note set out under section 14071 of Title 42 and Tables.
+The Jacob Wetterling Crimes Against Children and Sexually Violent Offender Registration Act, referred to in subsec. (e)(3)(A), is subtitle A of title XVII of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 2038, which was classified generally to subchapter VI (§14071 et seq.) of chapter 136 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 109–248, title I, §129(a), July 27, 2006, 120 Stat. 600.
 
 #### Codification
 
@@ -128,11 +128,13 @@ Section was enacted as part of the Higher Education Amendments of 1998, and not 
 
 #### Amendments
 
-2009—Subsec. (h). Pub. L. 111–39 amended subsec. (h) generally. Prior to amendment, text read as follows: “From the funds appropriated pursuant to subsection (i) for each fiscal year, the Secretary shall allot to each State an amount that bears the same relationship to such funds as the total number of students eligible under subsection (e) in such State bears to the total number of such students in all States.”
+<b>2009</b>—Subsec. (h). Pub. L. 111–39 amended subsec. (h) generally. Prior to amendment, text read as follows: “From the funds appropriated pursuant to subsection (i) for each fiscal year, the Secretary shall allot to each State an amount that bears the same relationship to such funds as the total number of students eligible under subsection (e) in such State bears to the total number of such students in all States.”
 
-2008—Pub. L. 110–315 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (j) relating to grants to States for workplace and community transition training for incarcerated youth offenders.
+<b>2008</b>—Pub. L. 110–315 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (j) relating to grants to States for workplace and community transition training for incarcerated youth offenders.
 
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

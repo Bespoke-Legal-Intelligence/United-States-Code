@@ -22,7 +22,7 @@ In this chapter, the following definitions apply:
 
 &emsp;&emsp;(A) the United States Secret Service; and
 
-&emsp;&emsp;(B) the Coast Guard, when operating under the direct authority of the Secretary of Defense or Secretary of the Navy pursuant to section 3 of title 14, except that nothing in this paragraph shall affect or diminish the authority and responsibilities of the Commandant of the Coast Guard to command orcontrol the Coast Guard as an armed force or the authority of the Director of National Intelligence with respect to the Coast Guard as an element of the intelligence community (as defined under section 401a(4) of title 50.<sup>1</sup>
+&emsp;&emsp;(B) the Coast Guard, when operating under the direct authority of the Secretary of Defense or Secretary of the Navy pursuant to section 3 of title 14, except that nothing in this paragraph shall affect or diminish the authority and responsibilities of the Commandant of the Coast Guard to command or control the Coast Guard as an armed force or the authority of the Director of National Intelligence with respect to the Coast Guard as an element of the intelligence community (as defined under section 401a(4) of title 50.<sup>1</sup>
 
 &emsp;(10) The term “key resources” means publicly or privately controlled resources essential to the minimal operations of the economy and government.
 
@@ -86,6 +86,18 @@ Pub. L. 109–295 inserted “fire,” after “safety,”.
 
 Pub. L. 107–296, §4, Nov. 25, 2002, 116 Stat. 2142, provided that: “This Act \[see Tables for classification\] shall take effect 60 days after the date of enactment \[Nov. 25, 2002\].”
 
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–376, §1, Jan. 4, 2011, 124 Stat. 4104, provided that: “This Act \[enacting section 221 of this title and provisions set out as a note under section 221 of this title\] may be cited as the ‘Anti-Border Corruption Act of 2010’.”
+
+Pub. L. 111–271, §1, Oct. 12, 2010, 124 Stat. 2852, provided that: “This Act \[enacting section 613 of this title\] may be cited as the ‘Redundancy Elimination and Enhanced Performance for Preparedness Grants Act’.”
+
+Pub. L. 111–258, §1, Oct. 7, 2010, 124 Stat. 2648, provided that: “This Act \[enacting section 124m of this title and section 435d of Title 50, War and National Defense, amending sections 121 and 124k of this title and section 403–1 of Title 50, and enacting provisions set out as notes under section 124m of this title and sections 435 and 435d of Title 50\] may be cited as the ‘Reducing Over-Classification Act’.”
+
+Pub. L. 111–245, §1, Sept. 30, 2010, 124 Stat. 2620, provided that: “This Act \[enacting section 321n of thistitle, amending sections 453 and 464 of this title, and repealing section 464a of this title\] may be cited as the ‘First Responder Anti-Terrorism Training Resources Act’.”
+
+Pub. L. 111–140, §1, Feb. 16, 2010, 124 Stat. 31, provided that: “This Act \[amending sections 592 and 596a of this title and enacting provisions set out as a note under section 592 of this title\] may be cited as the ‘Nuclear Forensics and Attribution Act’.”
+
 #### Short Title of 2008 Amendment
 
 Pub. L. 110–412, §1, Oct. 14, 2008, 122 Stat. 4336, provided that: “This Act \[amending section 609 of this title\] may be cited as the ‘Personnel Reimbursement for Intelligence Cooperation and Enhancement of Homeland Security Act of 2008’ or the ‘PRICE of Homeland Security Act’.”
@@ -102,7 +114,7 @@ Pub. L. 109–295, title VI, §671(a), Oct. 4, 2006, 120 Stat. 1433, provided th
 
 Pub. L. 108–458, title VII, §7001, Dec. 17, 2004, 118 Stat. 3775, provided that: “This title \[see Tables for classification\] may be cited as the ‘9/11 Commission Implementation Act of 2004’.”
 
-Pub. L. 108–458, title VIII, §8301, Dec. 17, 2004, 118 Stat. 3867, provided that: “This subtitle \[subtitle C\(§§8301–8306) of title VIII of Pub. L. 108–458, amending sections 111, 142, and 345 of this title and section 8I of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 112 of this title\] may be cited as the ‘Homeland Security Civil Rights and Civil Liberties Protection Act of 2004’.”
+Pub. L. 108–458, title VIII, §8301, Dec. 17, 2004, 118 Stat. 3867, provided that: “This subtitle \[subtitle C (§§8301–8306) of title VIII of Pub. L. 108–458, amending sections 111, 142, and 345 of this title and section 8I of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 112 of this title\] may be cited as the ‘Homeland Security Civil Rights and Civil Liberties Protection Act of 2004’.”
 
 Pub. L. 108–330, §1, Oct. 16, 2004, 118 Stat. 1275, provided that: “This Act \[amending sections 113, 342, and 454 of this title and sections 901 and 3516 of Title 31, Money and Finance, and enacting provisions set out as notes under section 342 of this title and sections 901 and 3516 of Title 31\] may be cited as ‘Department of Homeland Security Financial Accountability Act’.”
 
@@ -158,7 +170,7 @@ Members.—The Commission shall be composed of 10 members, of whom—
 
 &emsp;“(1) 1 member shall be appointed by the President, who shall serve as chairman of the Commission;
 
-&emsp;“(2) 1 member shall be appointed by the leader of the Senate (majority or minority leader, as the case may be) of the Democratic Party, in consultation with the leader of the House of Representatives (majority or minority leader, as the case may be) of the Democratic Party, who shall serve as vice chairman of the Commission;
+&emsp;“(2) 1 member shall be appointed by the leader of the Senate (majority or minority leader, as the casemay be) of the Democratic Party, in consultation with the leader of the House of Representatives (majority or minority leader, as the case may be) of the Democratic Party, who shall serve as vice chairman of the Commission;
 
 &emsp;“(3) 2 members shall be appointed by the senior member of the Senate leadership of the Democratic Party;
 
@@ -416,7 +428,7 @@ Transfer From the National Foreign Intelligence Program.—Of the amounts author
 
 “(b)
 
-Additional Funding.—In addition to the amounts made available to the Commission under subsection (a) and under chapter 2 of title II of the Emergency Wartime Supplemental Appropriations Act, 2003 (Public Law 108–11; 117 Stat. 591), of the amounts appropriated for the programs and activities of the Federal Government for fiscal year 2004 that remain available for obligation, not more than $1,000,000 shall be available for transfer to the Commission for purposes of the activities of the Commission under this title.
+Additional Funding.—In addition to the amounts made available to the Commission under subsection (a) and under chapter 2 of title II of the Emergency Wartime Supplemental Appropriations Act, 2003\(Public Law 108–11; 117 Stat. 591), of the amounts appropriated for the programs and activities of the Federal Government for fiscal year 2004 that remain available for obligation, not more than $1,000,000 shall be available for transfer to the Commission for purposes of the activities of the Commission under this title.
 
 “(c)
 

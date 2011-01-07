@@ -1,4 +1,0 @@
-### §10413. Repealed. Pub. L. 108–36, title IV, §409, June 25, 2003, 117 Stat. 827
-
-Section, Pub. L. 98–457, title III, §313, as added Pub. L. 100–294, title III, §303(c), Apr. 25, 1988, 102 Stat. 125; amended Pub. L. 102–295, title III, §319, May 28, 1992, 106 Stat. 209, related to family member abuse information and documentation project.
-

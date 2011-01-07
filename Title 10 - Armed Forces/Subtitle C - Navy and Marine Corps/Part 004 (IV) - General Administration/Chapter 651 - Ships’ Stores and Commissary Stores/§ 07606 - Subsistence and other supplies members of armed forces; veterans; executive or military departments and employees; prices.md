@@ -32,5 +32,5 @@
 
 #### Amendments
 
-1997—Subsec. (e). Pub. L. 105–85 substituted “section” for “sections”.
+<b>1997</b>—Subsec. (e). Pub. L. 105–85 substituted “section” for “sections”.
 

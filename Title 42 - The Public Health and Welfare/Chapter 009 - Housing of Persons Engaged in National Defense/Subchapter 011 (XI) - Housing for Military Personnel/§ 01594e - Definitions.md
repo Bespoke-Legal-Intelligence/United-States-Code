@@ -14,7 +14,7 @@ The National Housing Act, referred to in subsec. (a), is act June 27, 1934, ch. 
 
 #### Amendments
 
-1967—Subsec. (a). Pub. L. 90–19 struck out “or Secretary” after “Secretary of Defense”.
+<b>1967</b>—Subsec. (a). Pub. L. 90–19 struck out “or Secretary” after “Secretary of Defense”.
 
 #### Transfer of Functions
 

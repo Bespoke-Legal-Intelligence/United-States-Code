@@ -2,7 +2,7 @@
 
 (a)
 
-General Rule.—It shall be an unreasonable practice for a motor carrier of property (other than a household goods carrier) providing transportation subject to jurisdiction under subchapter I of chapter 135 or, before January 1, 1996, to have provided transportation that was subject to jurisdiction under subchapter II of chapter 105, as in effect on December 31, 1995, a freight forwarder (other than a household goods freight forwarder), or a party representing such a carrier or freight forwarder to attempt to charge or to charge for a transportation service the difference between (1) the applicable rate that was lawfully in effect pursuant to a tariff that was filed in accordance with this chapter or, with respect to transportation provided before January 1, 1996, in accordance with chapter 107, as in effect on the date the transportation was provided, by the carrier or freight forwarder applicable to such transportation service, and (2) the negotiated rate for such transportation service if the carrier or freight forwarder is no longer transporting property between places described in section 13501(1) or is transporting property between places described in section 13501(1) for the purpose of avoiding application of this section.
+General Rule.—It shall be an unreasonable practice for a motor carrier of property (other than a household goods carrier) providing transportation subject to jurisdiction under subchapter I of chapter 135 or, before January 1, 1996, to have provided transportation that was subject to jurisdiction under subchapter II of chapter 105, as in effect on December 31, 1995, a freight forwarder (other than a household goods freight forwarder), or a party representing such a carrier or freight forwarder to attempt to charge or to charge for a transportation service the difference between (1) the applicable ratethat was lawfully in effect pursuant to a tariff that was filed in accordance with this chapter or, with respect to transportation provided before January 1, 1996, in accordance with chapter 107, as in effect on the date the transportation was provided, by the carrier or freight forwarder applicable to such transportation service, and (2) the negotiated rate for such transportation service if the carrier or freight forwarder is no longer transporting property between places described in section 13501(1) or is transporting property between places described in section 13501(1) for the purpose of avoiding application of this section.
 
 (b)
 
@@ -50,7 +50,7 @@ Applicability to Pending Cases.—This section shall apply to all cases and proc
 
 #### Historical and Revision Notes
 
-I74Pub. L. 104–287
+#### Pub. L. 104–287
 
 This amends 49:13711(a), (d), and (g) by setting out the effective date of 49:13711 and for clarity and consistency.
 
@@ -68,7 +68,7 @@ Provisions similar to those in this section were contained in section 2(e) of Pu
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–287, §5(31)(A), substituted “or, before January 1, 1996” for “or, before the effective date of this section”, “December 31, 1995” for “the day before the effective date of this section”, and “provided before January 1, 1996” for “provided before the effective date of this section”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–287, §5(31)(A), substituted “or, before January 1, 1996” for “or, before the effective date of this section”, “December 31, 1995” for “the day before the effective date of this section”, and “provided before January 1, 1996” for “provided before the effective date of this section”.
 
 Subsec. (d). Pub. L. 104–287, §5(31)(B), substituted “January 1, 1996” for “the effective date of this section” and “December 31, 1995” for “the day before such effective date”.
 

@@ -8,13 +8,13 @@
 
 #### Amendments
 
-1998—Pub. L. 105–178 substituted “State transportation department” for “State highway department” wherever appearing.
+<b>1998</b>—Pub. L. 105–178 substituted “State transportation department” for “State highway department” wherever appearing.
 
-1970—Subsec. (a). Pub. L. 91–605, §135(a), provided for submission of a report by the State highway department involved indicating consideration given to economic, social, environmental, and other effects of the plan or highway location or design plus the various alternatives which were considered.
+<b>1970</b>—Subsec. (a). Pub. L. 91–605, §135(a), provided for submission of a report by the State highway department involved indicating consideration given to economic, social, environmental, and other effects of the plan or highway location or design plus the various alternatives which were considered.
 
 Subsec. (b). Pub. L. 91–605, §135(b), inserted reference to report to be submitted by the State highway department together with the certification of public hearings.
 
-1968—Subsec. (a). Pub. L. 90–495 inserted social effect of projects, the impact on environment, and their consistency with the goals and objectives of such urban planning as has been promulgated by the community to the list of factors to be considered by State highway departments in looking over projects involving the bypassing or passing through of municipalities.
+<b>1968</b>—Subsec. (a). Pub. L. 90–495 inserted social effect of projects, the impact on environment, and their consistency with the goals and objectives of such urban planning as has been promulgated by the community to the list of factors to be considered by State highway departments in looking over projects involving the bypassing or passing through of municipalities.
 
 #### Effective Date of 1968 Amendment
 

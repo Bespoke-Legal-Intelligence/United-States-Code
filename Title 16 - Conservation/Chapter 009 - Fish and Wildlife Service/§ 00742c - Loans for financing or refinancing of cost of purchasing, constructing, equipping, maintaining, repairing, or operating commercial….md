@@ -26,7 +26,7 @@ Any loans made under the provisions of this section shall be subject to the foll
 
 &emsp;(9)(A) The nationality of an applicant shall be established to the satisfaction of the Secretary. Within the meaning of this section, no corporation, partnership, or association organized under the laws of American Samoa shall be deemed a national of the United States unless 75 per centum of the interest therein is owned by nationals of the United States, citizens of the United States, or both, and in the case of a corporation, unless its president or other chief executive officer and the chairman of its board are nationals or citizens of the United States and unless no more of its directors than a minority of the number necessary to constitute a quorum are nonnationals and noncitizens.
 
-&emsp;(B) Seventy-five per centum of the interest in a corporation shall not be deemed to be owned by nationals of the United States, citizens of the United States, or both, (i) if the title to 75 per centum of its stock is not vestedin such nationals and citizens free from any trust or fiduciary obligation in favor of any person not a national or citizen of the United States; or (ii) if 75 per centum of the voting power in such corporation is not vested in nationals of the United States, citizens of the United States, or both; or (iii) if through any contract or understanding it is so arranged that more than 25 per centum of the voting power may be exercised, directly or indirectly, in behalf of any person who is not a national or citizen of the United States; or (iv) if by any other means whatsoever control of any interest in the corporation in excess of 25 per centum is conferred upon or permitted to be exercised by any person who is not a national or citizen of the United States.
+&emsp;(B) Seventy-five per centum of the interest in a corporation shall not be deemed to be owned by nationals of the United States, citizens of the United States, or both, (i) if the title to 75 per centum of its stock is not vested in such nationals and citizens free from any trust or fiduciary obligation in favor of any person not a national or citizen of the United States; or (ii) if 75 per centum of the voting power in such corporation is not vested in nationals of the United States, citizens of the United States, or both; or (iii) if through any contract or understanding it is so arranged that more than 25 per centum of the voting power may be exercised, directly or indirectly, in behalf of any person who is not a national or citizen of the United States; or (iv) if by any other means whatsoever control of any interest in the corporation in excess of 25 per centum is conferred upon or permitted to be exercised by any person who is not a national or citizen of the United States.
 
 #### (c) Fisheries loan fund; interest payments on appropriations available as capital to the fund less average undispersed cash balance
 
@@ -40,7 +40,7 @@ The Secretary, subject to the specific limitations in this section, may consent 
 
 The Secretary is authorized under such terms and conditions and pursuant to regulations prescribed by him to use the funds appropriated under this section to make loans to commercial fishermen for the purpose of chartering fishing vessels pending the construction or repair of vessels lost, destroyed, or damaged by the earthquake of March 27, 1964, and subsequent tidal waves related thereto: <i>Provided</i>, That any loans made under this subsection shall only be repaid from the net profits of the operations of such chartered vessels, which profits shall be reduced by such reasonable amount as determined by the Secretary for the salary of the fishermen chartering such vessels. The funds authorized herein shall not be available for such loans after June 30, 1966.
 
-(Aug. 8, 1956, ch. 1036, §4, 70 Stat. 1121; Pub. L. 85–888, Sept. 2, 1958, 72 Stat. 1710; Pub. L. 88–309, §9, May 20, 1964, 78 Stat. 199; Pub. L. 89–85, §§1–4, July 24, 1965, 79 Stat. 262; Pub. L. 91–279, §9, June 12, 1970, 84 Stat. 309; Pub. L. 91–387, §§1, 2, Aug. 24, 1970, 84 Stat. 829; Pub. L. 94–273, §2(8), Apr. 21, 1976, 90 Stat. 375; Pub. L. 96–478, §16(a), Oct. 21, 1980, 94 Stat. 2303; Pub. L. 97–347, §1, Oct. 18, 1982, 96 Stat. 1652; Pub. L. 98–44, title I, §103(a)(1), July 12, 1983, 97 Stat. 216; Pub. L. 98–498, title IV, §430(1), Oct. 19, 1984, 98 Stat. 2310; Pub. L. 99–659, title IV, §409, Nov. 14, 1986, 100 Stat. 3740.)
+(Aug. 8, 1956, ch. 1036, §4, 70 Stat. 1121; Pub. L. 85–888, Sept. 2, 1958, 72 Stat. 1710; Pub. L. 88–309, §9, May 20, 1964, 78 Stat. 199; Pub. L. 89–85, §§1–4, July 24, 1965, 79 Stat. 262; Pub. L. 91–279, §9, June 12, 1970, 84 Stat. 309; Pub. L. 91–387, §§1, 2, Aug. 24, 1970, 84 Stat. 829; Pub. L. 94–273, §2(8), Apr. 21, 1976, 90 Stat. 375; Pub. L. 96–478, §16(a), Oct. 21, 1980, 94 Stat. 2303; Pub. L. 97–347, §1, Oct. 18, 1982,96 Stat. 1652; Pub. L. 98–44, title I, §103(a)(1), July 12, 1983, 97 Stat. 216; Pub. L. 98–498, title IV, §430(1), Oct. 19, 1984, 98 Stat. 2310; Pub. L. 99–659, title IV, §409, Nov. 14, 1986, 100 Stat. 3740.)
 
 #### Codification
 
@@ -48,19 +48,19 @@ In subsec. (b)(8), “section 50501 of title 46” substituted for “section 2 
 
 #### Amendments
 
-1986—Subsec. (c). Pub. L. 99–659 amended third sentence generally, striking out “and any balance remaining therein at the close of September 30, 1986 (at which time the fund shall cease to exist),” after “1986,”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–659 amended third sentence generally, striking out “and any balance remaining therein at the close of September 30, 1986 (at which time the fund shall cease to exist),” after “1986,”.
 
-1984—Subsec. (c). Pub. L. 98–498 substituted “September 30, 1986” for “September 30, 1984” wherever appearing.
+<b>1984</b>—Subsec. (c). Pub. L. 98–498 substituted “September 30, 1986” for “September 30, 1984” wherever appearing.
 
-1983—Subsec. (c). Pub. L. 98–44 substituted “September 30, 1984” for “September 30, 1983” wherever appearing.
+<b>1983</b>—Subsec. (c). Pub. L. 98–44 substituted “September 30, 1984” for “September 30, 1983” wherever appearing.
 
-1982—Subsec. (c). Pub. L. 97–347 substituted “September 30, 1983” for “September 30, 1982” wherever appearing.
+<b>1982</b>—Subsec. (c). Pub. L. 97–347 substituted “September 30, 1983” for “September 30, 1982” wherever appearing.
 
-1980—Subsec. (c). Pub. L. 96–478 substituted “September 30, 1982” for “September 30, 1980” wherever appearing and struck out interest payment provisions respecting, payment at close of each fiscal year from fisheries loan fund into miscellaneous receipts of the Treasury on cumulative amount of appropriations available as capital to the fund from and after July 1, 1965, less average undispersed balance in the fund during the year, determination of interest rate on basis of average market yield during month preceding each fiscal year on outstanding Treasury obligations of maturity comparable to average maturity of loans made from the fund, and interest payment deferrals approved by the Secretary of the Treasury subject to interest on deferred amounts.
+<b>1980</b>—Subsec. (c). Pub. L. 96–478 substituted “September 30, 1982” for “September 30, 1980” wherever appearing and struck out interest payment provisions respecting, payment at close of each fiscal year from fisheries loan fund into miscellaneous receipts of the Treasury on cumulative amount of appropriations available as capital to the fund from and after July 1, 1965, less average undispersed balance in the fund during the year, determination of interest rate on basis of average market yield during month preceding each fiscal year on outstanding Treasury obligations of maturity comparable to average maturity of loans made from the fund, and interest payment deferrals approved by the Secretary of the Treasury subject to interest on deferred amounts.
 
-1976—Subsec. (c). Pub. L. 94–273 substituted “September” for “June” wherever appearing.
+<b>1976</b>—Subsec. (c). Pub. L. 94–273 substituted “September” for “June” wherever appearing.
 
-1970—Subsec. (b)(2). Pub. L. 91–279 provided maturity period of fourteen years for loans for all or part of costs of constructing new fishing vessels.
+<b>1970</b>—Subsec. (b)(2). Pub. L. 91–279 provided maturity period of fourteen years for loans for all or part of costs of constructing new fishing vessels.
 
 Subsec. (b)(7). Pub. L. 91–387, §2, permitted a national of the United States to be an applicant for a fishery loan.
 
@@ -70,15 +70,15 @@ Subsec. (b)(9). Pub. L. 91–387, §2, added par. (9).
 
 Subsec. (c). Pub. L. 91–387, §1, extended term for making fisheries loans, substituting “June 30, 1980” for “June 30, 1970” wherever appearing.
 
-1965—Subsec. (a). Pub. L. 89–85, §1, substituted “financing or refinancing of the cost of purchasing, constructing, equipping, maintaining, repairing, or operating new or used commercial fishing vessels or gear” for “financing and refinancing of operations, maintenance, replacement, repair, and equipment of fishing gear and vessels” and struck out provision for research into basic problems of fisheries.
+<b>1965</b>—Subsec. (a). Pub. L. 89–85, §1, substituted “financing or refinancing of the cost of purchasing, constructing, equipping, maintaining, repairing, or operating new or used commercial fishing vessels or gear” for “financing and refinancing of operations, maintenance, replacement, repair, and equipment of fishing gear and vessels” and struck out provision for research into basic problems of fisheries.
 
 Subsec. (b). Pub. L. 89–85, §§2, 3, substituted in par. (1) provision respecting determination of interest rate taking into consideration average market yield on outstanding Treasury obligations of comparable maturity plus additional charge toward coverage of other costs of program for former provision prescribing an interest rate of not less than 3 per centum per annum and added pars. (4) to (8), respectively.
 
-Subsec. (c). Pub. L. 89–85, §4, extended term for making fisheries loans from June 30, 1965, to June 30, 1970,required Secretary to pay at end of each fiscal year into miscellaneous receipts of the Treasury interest on cumulative amount of appropriations available as capital to fund after July 1, 1965, less average undispersed cash balance in fund during the year, provided formula for determination of rate of interest, and authorized deferral of interest payments but with payment of interest on deferred payments.
+Subsec. (c). Pub. L. 89–85, §4, extended term for making fisheries loans from June 30, 1965, to June 30, 1970, required Secretary to pay at end of each fiscal year into miscellaneous receipts of the Treasury interest on cumulative amount of appropriations available as capital to fund after July 1, 1965, less average undispersed cash balance in fund during the year, provided formula for determination of rate of interest, and authorized deferral of interest payments but with payment of interest on deferred payments.
 
-1964—Subsec. (e). Pub. L. 88–309 added subsec. (e).
+<b>1964</b>—Subsec. (e). Pub. L. 88–309 added subsec. (e).
 
-1958—Subsec. (c). Pub. L. 85–888 increased authorization for $10,000,000 to $20,000,000.
+<b>1958</b>—Subsec. (c). Pub. L. 85–888 increased authorization for $10,000,000 to $20,000,000.
 
 #### Effective Date of 1980 Amendment
 

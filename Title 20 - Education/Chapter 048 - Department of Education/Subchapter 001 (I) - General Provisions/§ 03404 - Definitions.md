@@ -20,7 +20,7 @@ As used in this chapter, unless otherwise provided or indicated by the context�
 
 #### Amendments
 
-1990—Par. (3). Pub. L. 101–509 substituted “Deputy Secretary” for “Under Secretary” in two places.
+<b>1990</b>—Par. (3). Pub. L. 101–509 substituted “Deputy Secretary” for “Under Secretary” in two places.
 
 #### Effective Date of 1990 Amendment; Continued Service by Incumbents
 

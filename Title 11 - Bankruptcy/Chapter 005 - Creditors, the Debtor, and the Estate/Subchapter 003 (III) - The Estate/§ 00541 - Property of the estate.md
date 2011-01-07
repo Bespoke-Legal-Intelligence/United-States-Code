@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(A) only if the designated beneficiary of the amounts paid or contributed to such tuition program was a child, stepchild, grandchild, or stepgrandchild of the debtor for the taxable year for which funds were paid or contributed;
 
-&emsp;&emsp;(B) with respect to the aggregate amount paid or contributed to such program having the same designated beneficiary, only so much of such amount as does not exceed the total contributions permitted under section 529(b)(7) of such Code with respect to such beneficiary, as adjusted beginning on the date of the filing of the petition in a case under this title by the annual increase or decrease (rounded to the nearest tenth of 1 percent) in the education expenditure category of the Consumer Price Index prepared by the Department of Labor; and
+&emsp;&emsp;(B) with respect to the aggregate amount paid or contributed to such program having the same designated beneficiary, only so much of such amount as does not exceed the total contributions permitted under section 529(b)(6) of such Code with respect to such beneficiary, as adjusted beginning on the date of the filing of the petition in a case under this title by the annual increase or decrease (rounded to the nearest tenth of 1 percent) in the education expenditure category of the Consumer Price Index prepared by the Department of Labor; and
 
 &emsp;&emsp;(C) in the case of funds paid or contributed to such program having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $5,000;
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;&emsp;(ii) to a health insurance plan regulated by State law whether or not subject to such title;
 
-&emsp;(8) subject to subchapter III of chapter 5, any interest of the debtor in property where thedebtor pledged or sold tangible personal property (other than securities or written or printed evidences of indebtedness or title) as collateral for a loan or advance of money given by a person licensed under law to make such loans or advances, where—
+&emsp;(8) subject to subchapter III of chapter 5, any interest of the debtor in property where the debtor pledged or sold tangible personal property (other than securities or written or printed evidences of indebtedness or title) as collateral for a loan or advance of money given by a person licensed under law to make such loans or advances, where—
 
 &emsp;&emsp;(A) the tangible personal property is in the possession of the pledgee or transferee;
 
@@ -126,7 +126,11 @@
 
 (f) Notwithstanding any other provision of this title, property that is held by a debtor that is a corporation described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code may be transferred to an entity that is not such a corporation, but only under the same conditions as would apply if the debtor had not filed a case under this title.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2594; Pub. L. 98–353, title III, §§363(a), 456, July 10, 1984, 98 Stat. 363, 376; Pub. L. 101–508, title III, §3007(a)(2), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–486, title XXX, §3017(b), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title II, §§208(b), 223, Oct. 22, 1994, 108 Stat. 4124, 4129; Pub. L. 109–8, title II, §225(a), title III, §323, title XII, §§1212, 1221(c), 1230, Apr. 20, 2005, 119 Stat. 65, 97, 194, 196, 201.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2594; Pub. L. 98–353, title III, §§363(a), 456, July 10, 1984, 98 Stat. 363, 376; Pub. L. 101–508, title III, §3007(a)(2), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–486, title XXX, §3017(b), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title II, §§208(b), 223, Oct. 22, 1994, 108 Stat. 4124, 4129; Pub. L. 109–8, title II, §225(a), title III, §323, title XII, §§1212, 1221(c), 1230, Apr. 20, 2005, 119 Stat. 65, 97, 194, 196, 201; Pub. L. 111–327, §2(a)(22), Dec. 22, 2010, 124 Stat. 3560.)
+
+#### Adjustment of Dollar Amounts
+
+<i>For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.</i>
 
 #### Historical and Revision Notes
 
@@ -136,7 +140,7 @@ Section 541(a)(7) is new. The provision clarifies that any interest in property 
 
 Section 541(c)(2) follows the position taken in the House bill and rejects the position taken in the Senate amendment with respect to income limitations on a spend-thrift trust.
 
-Section 541(d) of the House amendment is derived from section 541(e) of the Senate amendment and reiterates the general principle that where the debtor holds bare legal title without any equitable interest, that the estate acquires bare legal title without any equitable interest in the property. The purpose of section 541(d) as applied to the secondary mortgage market is identical to the purpose of section 541(e) of the Senate amendment and section 541(d) will accomplish the same result as would have been accomplished by section 541(e). Even if a mortgage seller retains for purposes ofservicing legal title to mortgages or interests in mortgages sold in the secondary mortgage market, the trustee would be required by section 541(d) to turn over the mortgages or interests in mortgages to the purchaser of those mortgages.
+Section 541(d) of the House amendment is derived from section 541(e) of the Senate amendment and reiterates the general principle that where the debtor holds bare legal title without any equitable interest, that the estate acquires bare legal title without any equitable interest in the property. The purpose of section 541(d) as applied to the secondary mortgage market is identical to the purpose of section 541(e) of the Senate amendment and section 541(d) will accomplish the same result as would have been accomplished by section 541(e). Even if a mortgage seller retains for purposes of servicing legal title to mortgages or interests in mortgages sold in the secondary mortgage market, the trustee would be required by section 541(d) to turn over the mortgages or interests in mortgages to the purchaser of those mortgages.
 
 The seller of mortgages in the secondary mortgage market will often retain the original mortgage notes and related documents and the seller will not endorse the notes to reflect the sale to the purchaser. Similarly, the purchaser will often not record the purchaser's ownership of the mortgages or interests in mortgages under State recording statutes. These facts are irrelevant and the seller's retention of the mortgage documents and the purchaser's decision not to record do not change the trustee's obligation to turn the mortgages or interests in mortgages over to the purchaser. The application of section 541(d) to secondary mortgage market transactions will not be affected by the terms of the servicing agreement between the mortgage servicer and the purchaser of the mortgages. Under section 541(d), the trustee is required to recognize the purchaser's title to the mortgages or interests in mortgages and to turn this property over to the purchaser. It makes no difference whether the servicer and the purchaser characterize their relationship as one of trust, agency, or independent contractor.
 
@@ -160,13 +164,13 @@ Paragraph (1) has the effect of overruling <i>Lockwood v. Exchange Bank</i>, 190
 
 Paragraph (1) also has the effect of overruling <i>Lines v. Frederick</i>, 400 U.S. 18 (1970).
 
-Situations occasionally arise where property ostensibly belonging to the debtor will actually not be property of the debtor, but will be held in trust for another. For example, if the debtor has incurred medical bills that were covered by insurance, and the insurance company had sent the payment of the bills to the debtor before the debtor had paid the bill for which the payment was reimbursement, the payment would actually be held in a constructive trust for the person to whom the bill was owed. This section and proposed 11 U.S.C. 545 also will not affect various statutory provisions that give a creditor of the debtor a lien that is valid outsideas well as inside bankruptcy, or that creates a trust fund for the benefit of a creditor of the debtor. See Packers and Stockyards Act §206, 7 U.S.C. 196.
+Situations occasionally arise where property ostensibly belonging to the debtor will actually not be property of the debtor, but will be held in trust for another. For example, if the debtor has incurred medical bills that were covered by insurance, and the insurance company had sent the payment of the bills to the debtor before the debtor had paid the bill for which the payment was reimbursement, the payment would actually be held in a constructive trust for the person to whom the bill was owed. This section and proposed 11 U.S.C. 545 also will not affect various statutory provisions that give a creditor of the debtor a lien that is valid outside as well as inside bankruptcy, or that creates a trust fund for the benefit of a creditor of the debtor. See Packers and Stockyards Act §206, 7 U.S.C. 196.
 
 Bankruptcy Act §8 \[section 26 of former title 11\] has been deleted as unnecessary. Once the estate is created, no interests in property of the estate remain in the debtor. Consequently, if the debtor dies during the case, only property exempted from property of the estate or acquired by the debtor after the commencement of the case and not included as property of the estate will be available to the representative of the debtor's probate estate. The bankruptcy proceeding will continue in rem with respect to property of the state, and the discharge will apply in personam to relieve the debtor, and thus his probate representative, of liability for dischargeable debts.
 
 The estate also includes the interests of the debtor and the debtor's spouse in community property, subject to certain limitations; property that the trustee recovers under the avoiding powers; property that the debtor acquires by bequest, devise, inheritance, a property settlement agreement with the debtor's spouse, or as the beneficiary of a life insurance policy within 180 days after the petition; and proceeds, product, offspring, rents, and profits of or from property of the estate, except such as are earning from services performed by an individual debtor after the commencement of the case. Proceeds here is not used in a confining sense, as defined in the Uniform Commercial Code, but is intended to be a broad term to encompass all proceeds of property of the estate. The conversion in form of property of the estate does not change its character as property of the estate.
 
-Subsection (b) excludes from property of the estate any power, such as a power of appointment, that the debtor may exercise solely for the benefit of an entity other than the debtor. This changes present law which excludes powers solely benefiting other persons but not other entities.
+Subsection (b) excludes from property of the estate any power, such as a power of appointment, that the debtor may exercise solely for the benefit of an entity other than the debtor. This changes present law whichexcludes powers solely benefiting other persons but not other entities.
 
 Subsection (c) invalidates restrictions on the transfer of property of the debtor, in order that all of the interests of the debtor in property will become property of the estate. The provisions invalidated are those that restrict or condition transfer of the debtor's interest, and those that are conditioned on the insolvency or financial condition of the debtor, on the commencement of a bankruptcy case, or on the appointment of a custodian of the debtor's property. Paragraph (2) of subsection (c), however, preserves restrictions on a transfer of a spendthrift trust that the restriction is enforceable nonbankruptcy law to the extent of the income reasonably necessary for the support of a debtor and his dependents.
 
@@ -176,13 +180,15 @@ Section 541(e) \[enacted as (d)\] confirms the current status under the Bankrupt
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (b)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, which is classified principally to chapter 28 (§1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsecs. (b)(5) to (7) and (f), is classified generally to Title 26, Internal Revenue Code.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(7)(A)(i)(I), (B)(i)(I), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Title I of the Act is classified generally to subchapter I (§1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 #### Amendments
+
+2010—Subsec. (b)(6)(B). Pub. L. 111–327 substituted “section 529(b)(6)” for “section 529(b)(7)”.
 
 2005—Subsec. (b)(4). Pub. L. 109–8, §225(a)(1)(A), struck out “or” at end.
 
@@ -226,7 +232,7 @@ Subsec. (c)(1)(B). Pub. L. 98–353, §456(b)(2), substituted “taking” for �
 
 Subsec. (d). Pub. L. 98–353, §456(c), inserted “(1) or (2)” after “(a)”.
 
-Subsec. (e). Pub. L. 98–353, §456(d), struck out subsec. (e) which read as follows: “The estate shall have the benefit of any defense available to the debtor as against an entity other than the estate, including statutes of limitation, statutes of frauds, usury, and otherpersonal defenses. A waiver of any such defense by the debtor after the commencement of the case does not bind the estate.”
+Subsec. (e). Pub. L. 98–353, §456(d), struck out subsec. (e) which read as follows: “The estate shall have the benefit of any defense available to the debtor as against an entity other than the estate, including statutes of limitation, statutes of frauds, usury, and other personal defenses. A waiver of any such defense by the debtor after the commencement of the case does not bind the estate.”
 
 #### Effective Date of 2005 Amendment
 
@@ -244,9 +250,13 @@ Amendment by Pub. L. 102–486 effective Oct. 24, 1992, but not applicable with 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
 #### Adjustment of Dollar Amounts
 
-For adjustment of dollar amounts specified in subsec. (b)(5)(C), (6)(C) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
+The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
+
+By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (b)(5)(C), (6)(C), dollar amount “5,475” was adjusted to “5,850”. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (b)(5)(C), (6)(C), dollar amount “5,000” was adjusted to “5,475”.
 

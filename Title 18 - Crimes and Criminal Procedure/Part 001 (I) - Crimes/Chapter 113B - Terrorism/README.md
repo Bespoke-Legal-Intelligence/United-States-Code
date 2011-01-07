@@ -36,15 +36,15 @@ Another chapter 113B, consisting of sections 2340 to 2340B, was renumbered chapt
 
 #### Amendments
 
-2004—Pub. L. 108–458, title VI, §6911(a), Dec. 17, 2004, 118 Stat. 3775, added items 2332g and 2332h.
+<b>2004</b>—Pub. L. 108–458, title VI, §6911(a), Dec. 17, 2004, 118 Stat. 3775, added items 2332g and 2332h.
 
-2002—Pub. L. 107–197, title I, §102(b), title II, §202(b), June 25, 2002, 116 Stat. 724, 727, added items 2332f and 2339C.
+<b>2002</b>—Pub. L. 107–197, title I, §102(b), title II, §202(b), June 25, 2002, 116 Stat. 724, 727, added items 2332f and 2339C.
 
-2001—Pub. L. 107–56, title VIII, §803(b), Oct. 26, 2001, 115 Stat. 377, added item 2339.
+<b>2001</b>—Pub. L. 107–56, title VIII, §803(b), Oct. 26, 2001, 115 Stat. 377, added item 2339.
 
-1998—Pub. L. 105–277, div. I, title II, §201(c)(2), Oct. 21, 1998, 112 Stat. 2681–871, struck out item 2332c “Use of chemical weapons”.
+<b>1998</b>—Pub. L. 105–277, div. I, title II, §201(c)(2), Oct. 21, 1998, 112 Stat. 2681–871, struck out item 2332c “Use of chemical weapons”.
 
-1996—Pub. L. 104–294, title VI, §605(q), Oct. 11, 1996, 110 Stat. 3510, redesignated item 2332d, relating to requests for military assistance to enforce prohibition in certain emergencies, as item 2332e, and moved the item to follow item 2332d, relating to financial transactions.
+<b>1996</b>—Pub. L. 104–294, title VI, §605(q), Oct. 11, 1996, 110 Stat. 3510, redesignated item 2332d, relating to requests for military assistance to enforce prohibition in certain emergencies, as item 2332e, and moved the item to follow item 2332d, relating to financial transactions.
 
 Pub. L. 104–294, title VI, §604(b)(5), Oct. 11, 1996, 110 Stat. 3506, amended directory language of Pub. L. 103–322, title XII, §120005(b), Sept. 13, 1994, 108 Stat. 2023. See 1994 Amendment note below.
 
@@ -52,13 +52,13 @@ Pub. L. 104–201, div. A, title XIV, §1416(c)(2)(B), Sept. 23, 1996, 110 Stat.
 
 Pub. L. 104–132, title III, §§303(b), 321(b), title V, §521(c), title VII, §702(b), Apr. 24, 1996, 110 Stat. 1253, 1254, 1287, 1294, added items 2332b to 2332d and 2339B.
 
-1994—Pub. L. 103–322, title XII, §120005(b), Sept. 13, 1994, 108 Stat. 2023, as amended by Pub. L. 104–294, title VI, §604(b)(5), Oct. 11, 1996, 110 Stat. 3506, added item 2339A.
+<b>1994</b>—Pub. L. 103–322, title XII, §120005(b), Sept. 13, 1994, 108 Stat. 2023, as amended by Pub. L. 104–294, title VI, §604(b)(5), Oct. 11, 1996, 110 Stat. 3506, added item 2339A.
 
 Pub. L. 103–322, title VI, §60023(b), title XXV, §250002(a)(1), (b)(2), Sept. 13, 1994, 108 Stat. 1981, 2082, 2085, renumbered chapter 113A as 113B, amended chapter heading generally, substituting “113B” for “113A”, and added item 2332a.
 
-1992—Pub. L. 102–572, title X, §1003(a)(5), Oct. 29, 1992, 106 Stat. 4524, substituted “TERRORISM” for “EXTRATERRITORIAL JURISDICTION OVER TERRORIST ACTS ABROAD AGAINST UNITED STATES NATIONALS” in chapter heading and amended chapter analysis generally, substituting “Definitions” for “Terrorist acts abroad against United States nationals” in item 2331 and adding items 2332 to 2338.
+<b>1992</b>—Pub. L. 102–572, title X, §1003(a)(5), Oct. 29, 1992, 106 Stat. 4524, substituted “TERRORISM” for “EXTRATERRITORIAL JURISDICTION OVER TERRORIST ACTS ABROAD AGAINST UNITED STATES NATIONALS” in chapter heading and amended chapter analysis generally, substituting “Definitions” for “Terrorist acts abroad against United States nationals” in item 2331 and adding items 2332 to 2338.
 
-1988—Pub. L. 100–690, title VII, §7062, Nov. 18, 1988, 102 Stat. 4404, added item 2331.
+<b>1988</b>—Pub. L. 100–690, title VII, §7062, Nov. 18, 1988, 102 Stat. 4404, added item 2331.
 
 <i><sup>1</sup></i><i> Editorially supplied. Section 2339D added by Pub. L. 108–458 without corresponding amendment of chapter analysis.</i>
 

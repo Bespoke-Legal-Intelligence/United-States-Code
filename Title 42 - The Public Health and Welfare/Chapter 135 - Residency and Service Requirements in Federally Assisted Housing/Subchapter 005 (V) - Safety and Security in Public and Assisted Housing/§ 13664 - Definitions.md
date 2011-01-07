@@ -44,3 +44,5 @@ Section 801 of the Cranston-Gonzalez National Affordable Housing Act, referred t
 
 Section was enacted as part of the Quality Housing and Work Responsibility Act of 1998, and not as part of subtitles C to F of title VI of Pub. L. 102–550 which comprise this chapter.
 
+<i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
+

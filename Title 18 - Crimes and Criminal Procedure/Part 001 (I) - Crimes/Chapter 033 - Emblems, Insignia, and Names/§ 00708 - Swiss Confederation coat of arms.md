@@ -22,7 +22,7 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250” in first par.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250” in first par.
 
-1951—Act Oct. 31, 1951, added second par.
+<b>1951</b>—Act Oct. 31, 1951, added second par.
 

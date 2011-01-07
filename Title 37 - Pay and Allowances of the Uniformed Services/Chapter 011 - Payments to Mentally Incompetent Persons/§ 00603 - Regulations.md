@@ -22,5 +22,5 @@ The words “effectively” and “provisions of” are omitted as surplusage.
 
 #### Amendments
 
-1989—Pub. L. 101–189 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+<b>1989</b>—Pub. L. 101–189 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 

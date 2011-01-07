@@ -12,7 +12,7 @@ In this subchapter:
 
 #### (2) Applicable one-stop center
 
-&emsp;The term “applicable one-stop center” means a one-stop customer service center thatprovides services, such as referral, intake, recruitment, and placement, to a Job Corps center.
+&emsp;The term “applicable one-stop center” means a one-stop customer service center that provides services, such as referral, intake, recruitment, and placement, to a Job Corps center.
 
 #### (3) Enrollee
 

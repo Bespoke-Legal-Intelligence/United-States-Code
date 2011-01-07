@@ -2,7 +2,7 @@
 
 #### (a) Persons eligible; terms and conditions
 
-Whenever the President determines that, as a result of a major disaster, low-income households are unable to purchase adequate amounts of nutritious food, he is authorized, under such terms and conditions as he may prescribe, todistribute through the Secretary of Agriculture or other appropriate agencies benefit allotments to such households pursuant to the provisions of the Food and Nutrition Act of 2008 of 1964 <sup>1</sup> (P.L. 91–671; 84 Stat. 2048) \[7 U.S.C. 2011 et seq.\] and to make surplus commodities available pursuant to the provisions of this chapter.
+Whenever the President determines that, as a result of a major disaster, low-income households are unable to purchase adequate amounts of nutritious food, he is authorized, under such terms and conditions as he may prescribe, to distribute through the Secretary of Agriculture or other appropriate agencies benefit allotments to such households pursuant to the provisions of the Food and Nutrition Act of 2008 of 1964 <sup>1</sup> (P.L. 91–671; 84 Stat. 2048) \[7 U.S.C. 2011 et seq.\] and to make surplus commodities available pursuant to the provisions of this chapter.
 
 #### (b) Duration of assistance; factors considered
 
@@ -18,6 +18,8 @@ Nothing in this section shall be construed as amending or otherwise changing the
 
 The Food and Nutrition Act of 2008, referred to in subsecs. (a) and (c), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -28,7 +30,7 @@ A prior section 412 of Pub. L. 93–288 was renumbered section 415 by Pub. L. 10
 
 #### Amendments
 
-2008—Pub. L. 110–246, §4115(c)(1)(A)(iv), (B)(v), substituted “Benefits” for “Food coupons” in section catchline.
+<b>2008</b>—Pub. L. 110–246, §4115(c)(1)(A)(iv), (B)(v), substituted “Benefits” for “Food coupons” in section catchline.
 
 Pub. L. 110–246, §4002(b)(1)(C), (2)(DD), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act” in subsecs. (a) and (c).
 

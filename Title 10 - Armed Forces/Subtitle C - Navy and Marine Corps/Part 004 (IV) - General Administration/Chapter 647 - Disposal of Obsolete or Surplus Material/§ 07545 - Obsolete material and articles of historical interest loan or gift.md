@@ -18,7 +18,7 @@ Authority To Make Loans and Gifts.—The Secretary of the Navy may lend or give,
 
 &emsp;(7) A State museum.
 
-&emsp;(8) A museum or memorial operated and maintained for educational purposes only,whose charter denies it the right to operate for profit.
+&emsp;(8) A museum or memorial operated and maintained for educational purposes only, whose charter denies it the right to operate for profit.
 
 &emsp;(9) A post of the Veterans of Foreign Wars of the United States.
 
@@ -86,11 +86,11 @@ Subsection (d) is added to note the existence of a later act, codified in §2572
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–163 struck out “Territory,” after “A State,”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–163 struck out “Territory,” after “A State,”.
 
-2002—Subsec. (c). Pub. L. 107–217, as amended by Pub. L. 107–314, substituted “section 121 of title 40” for “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–217, as amended by Pub. L. 107–314, substituted “section 121 of title 40” for “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)”.
 
-2001—Subsec. (a). Pub. L. 107–107, §1043(a)(1), inserted heading and substituted introductory provisions for provisions which read as follows: “Subject to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486), the Secretary of the Navy, under regulations prescribed by him, may lend or give, without expense to the United States, captured, condemned, or obsolete ordnance material, books, manuscripts, works of art, drawings, plans, and models, other condemned or obsolete material, trophies, and flags, and other material of historic interest not needed by the Department of the Navy, to—”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–107, §1043(a)(1), inserted heading and substituted introductory provisions for provisions which read as follows: “Subject to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486), the Secretary of the Navy, under regulations prescribed by him, may lend or give, without expense to the United States, captured, condemned, or obsolete ordnance material, books, manuscripts, works of art, drawings, plans, and models, other condemned or obsolete material, trophies, and flags, and other material of historic interest not needed by the Department of the Navy, to—”.
 
 Subsec. (a)(1) to (12). Pub. L. 107–107, §1043(a)(2), capitalized the first letter after the paragraph designation in each of pars. (1) to (12), substituted a period for a semicolon at end of pars. (1) to (10) and a period for “; or” at end of par. (11), substituted “a foreign war” for “World War I or World War II” in par. (5) and “servicemen's monument” for “soldiers’ monument” in par. (6), and inserted “or memorial” after “museum” in par. (8).
 
@@ -102,7 +102,7 @@ Subsec. (e). Pub. L. 107–107, §1043(b)(1), (c)(2), redesignated subsec. (c) a
 
 Subsec. (f). Pub. L. 107–107, §1043(b)(3), added subsec. (f).
 
-1996—Subsecs. (c), (d). Pub. L. 104–106 redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “No loan or gift under this section may be made unless—
+<b>1996</b>—Subsecs. (c), (d). Pub. L. 104–106 redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “No loan or gift under this section may be made unless—
 
 &emsp;“(1) notice of the proposal to make the loan or gift is sent to Congress;
 
@@ -110,7 +110,7 @@ Subsec. (f). Pub. L. 107–107, §1043(b)(3), added subsec. (f).
 
 &emsp;“(3) during that 30-day period Congress does not pass a concurrent resolution stating in substance that it does not favor the proposed loan or gift.”
 
-1980—Subsec. (a). Pub. L. 96–513, §513(39), substituted “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486),” for “section 486 of title 40”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513, §513(39), substituted “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486),” for “section 486 of title 40”.
 
 Subsec. (b). Pub. L. 96–513, §513(40), substituted “section 3301” for “section 366”.
 

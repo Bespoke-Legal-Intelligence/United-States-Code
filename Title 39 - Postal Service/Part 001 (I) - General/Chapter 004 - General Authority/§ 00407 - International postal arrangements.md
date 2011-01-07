@@ -22,7 +22,7 @@
 
 &emsp;(D) shall maintain appropriate liaison with both representatives of the Postal Service and representatives of users and private providers of international postal services and other international delivery services to keep informed of their interests and problems, and to provide such assistance as may be needed to ensure that matters of concern are promptly considered by the Department of State or (if applicable, and to the extent practicable) other executive branch agencies; and
 
-&emsp;(E) shall assist in arranging meetings of such public sector advisory groups as may beestablished to advise the Department of State and other executive branch agencies in connection with international postal services and international delivery services.
+&emsp;(E) shall assist in arranging meetings of such public sector advisory groups as may be established to advise the Department of State and other executive branch agencies in connection with international postal services and international delivery services.
 
 (3) The Secretary of State shall establish an advisory committee (within the meaning of the Federal Advisory Committee Act) to perform such functions as the Secretary considers appropriate in connection with carrying out subparagraphs (A) through (D) of paragraph (2).
 
@@ -54,9 +54,9 @@ The date of enactment of this subsection, referred to in subsec. (e)(4), is the 
 
 #### Amendments
 
-2006—Pub. L. 109–435 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to responsibilities of the Secretary of State and the Postal Service for international postal arrangements.
+<b>2006</b>—Pub. L. 109–435 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to responsibilities of the Secretary of State and the Postal Service for international postal arrangements.
 
-1998—Pub. L. 105–277 substituted “International Postal Arrangements” for “International postal arrangements” in section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>1998</b>—Pub. L. 105–277 substituted “International Postal Arrangements” for “International postal arrangements” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a) The Postal Service, with the consent of the President, may negotiate and conclude postal treaties or conventions, and may establish the rates of postage or other charges on mail matter conveyed between the United States and other countries. The decisions of the Postal Service construing or interpreting the provisions of any treaty or convention which has been or may be negotiated and concluded shall, if approved by the President, be conclusive upon all officers of the Government of the United States.
 
@@ -66,13 +66,13 @@ The date of enactment of this subsection, referred to in subsec. (e)(4), is the 
 
 Pub. L. 109–435, title IV, §405(b), Dec. 20, 2006, 120 Stat. 3232, provided that: “Notwithstanding any provision of the amendment made by subsection (a) \[amending this section\], the authority of the United States Postal Service to establish the rates of postage or other charges on mail matter conveyed between the United States and other countries shall remain available to the Postal Service until—
 
-&emsp;“(1) with respect to market-dominant products, the date as of which the regulations promulgated under section 3622 of title 39, United States Code (as amended by section 201(a)) take effect; and
+&emsp;“(1) with respect to market-dominant products, the date as of which the regulations promulgated undersection 3622 of title 39, United States Code (as amended by section 201(a)) take effect; and
 
 &emsp;“(2) with respect to competitive products, the date as of which the regulations promulgated under section 3633 of title 39, United States Code (as amended by section 202) take effect.”
 
 #### Effective Date
 
-Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) ofPub. L. 91–375, set out as a note preceding section 101 of this title.
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
 #### Transfer of Funds to State Department
 

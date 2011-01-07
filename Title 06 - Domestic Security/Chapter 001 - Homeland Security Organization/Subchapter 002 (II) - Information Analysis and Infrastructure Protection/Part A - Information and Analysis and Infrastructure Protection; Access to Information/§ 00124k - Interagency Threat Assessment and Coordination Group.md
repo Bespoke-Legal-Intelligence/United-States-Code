@@ -14,11 +14,13 @@ The ITACG shall consist of—
 
 #### (c) Responsibilities of program manager
 
-The program manager, in consultation with the Information Sharing Council, shall—
+The program manager shall—
 
-&emsp;(1) monitor and assess the efficacy of the ITACG; and
+&emsp;(1) monitor and assess the efficacy of the ITACG;
 
-&emsp;(2) not later than 180 days after August 3, 2007, and at least annually thereafter, submit to the Secretary, the Attorney General, the Director of National Intelligence, the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report on the progress of the ITACG.
+&emsp;(2) not later than 180 days after August 3, 2007, and at least annually thereafter, submit to the Secretary, the Attorney General, the Director of National Intelligence, the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report on the progress of the ITACG; and
+
+&emsp;(3) in each report required by paragraph (2) submitted after October 7, 2010, include an assessment of whether the detailees under subsection (d)(5) have appropriate access to all relevant information, as required by subsection (g)(2)(C).
 
 #### (d) Responsibilities of Secretary
 
@@ -40,9 +42,11 @@ The Secretary, or the Secretary's designee, in coordination with the Director of
 
 &emsp;&emsp;(C) implement, in coordination with National Counterterrorism Center intelligence analysts, the policies, processes, procedures, standards, and guidelines developed by the ITACG Advisory Council;
 
-&emsp;&emsp;(D) assist in the dissemination of products derived from information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, to State, local, and tribal jurisdictions only through appropriate channels identified by the ITACG Advisory Council; and
+&emsp;&emsp;(D) assist in the dissemination of products derived from information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, to State, local, and tribal jurisdictions only through appropriate channels identified by the ITACG Advisory Council;
 
-&emsp;&emsp;(E) report directly to the senior intelligence official from the Department under paragraph (6);
+&emsp;&emsp;(E) make recommendations, as appropriate, to the Secretary or the Secretary's designee, for the further dissemination of intelligence products that could likely inform or improve the security of a State, local, or tribal government, (including a State, local, or tribal law enforcement agency) or a private sector entity; and
+
+&emsp;&emsp;(F) report directly to the senior intelligence official from the Department under paragraph (6);
 
 &emsp;(6) detail a senior intelligence official from the Department of Homeland Security to the National Counterterrorism Center, who shall—
 
@@ -50,9 +54,13 @@ The Secretary, or the Secretary's designee, in coordination with the Director of
 
 &emsp;&emsp;(B) report directly to the Director of the National Counterterrorism Center or the Director's designee; and
 
-&emsp;&emsp;(C) in coordination with the Director of the Federal Bureau of Investigation, and subject to the approval of the Director of the National Counterterrorism Center, select a deputy from the pool of available detailees from the Federal Bureau of Investigation in the National Counterterrorism Center; and
+&emsp;&emsp;(C) in coordination with the Director of the Federal Bureau of Investigation, and subject to the approval of the Director of the National Counterterrorism Center, select a deputy from the pool of available detailees from the Federal Bureau of Investigation in the National Counterterrorism Center;
 
-&emsp;(7) establish, within the ITACG Advisory Council, a mechanism to select law enforcement officers and intelligence analysts for placement in the National Counterterrorism Center consistent with paragraph (5), using criteria developed by the ITACG Advisory Council that shall encourage participation from a broadly representative group of State, local, and tribal homeland security and law enforcement agencies.
+&emsp;(7) establish, within the ITACG Advisory Council, a mechanism to select law enforcement officers and intelligence analysts for placement in the National Counterterrorism Center consistent with paragraph (5), using criteria developed by the ITACG Advisory Council that shall encourage participation from a broadly representative group of State, local, and tribal homeland security and law enforcement agencies; and
+
+&emsp;(8) compile an annual assessment of the ITACG Detail's performance, including summaries of customer feedback, in preparing, disseminating, and requesting the dissemination of intelligence products intended for State, local and tribal government (including State, local, and tribal law enforcement agencies) and private sector entities; and
+
+&emsp;(9) provide the assessment developed pursuant to paragraph (8) to the program manager for use in the annual reports required by subsection (c)(2).
 
 #### (e) Membership
 
@@ -112,13 +120,23 @@ The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the ITACG 
 
 #### (i) Authorization of appropriations
 
-There are authorized to be appropriated such sums as may be necessary for each of fiscal years 2008 through 2012 to carry out this section, including to obtain security clearances for the State, local, and tribal participants in the ITACG.
+There are authorized to be appropriated such sums as may be necessary for each of fiscalyears 2008 through 2012 to carry out this section, including to obtain security clearances for the State, local, and tribal participants in the ITACG.
 
-(Pub. L. 107–296, title II, §210D, as added Pub. L. 110–53, title V, §521(a), Aug. 3, 2007, 121 Stat. 328.)
+(Pub. L. 107–296, title II, §210D, as added Pub. L. 110–53, title V, §521(a), Aug. 3, 2007, 121 Stat. 328; amended Pub. L. 111–258, §5(b)(2), (c), Oct. 7, 2010, 124 Stat. 2650, 2651.)
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+2010—Subsec. (c). Pub. L. 111–258, §5(c)(1), struck out “, in consultation with the Information Sharing Council,” after “program manager” in introductory provisions.
+
+Subsec. (c)(3). Pub. L. 111–258, §5(c)(2)–(4), added par. (3).
+
+Subsec. (d)(5)(E), (F). Pub. L. 111–258, §5(b)(2)(A), added subpar. (E) and redesignated former subpar. (E) as (F).
+
+Subsec. (d)(8), (9). Pub. L. 111–258, §5(b)(2)(B)–(D), added pars. (8) and (9).
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “404o(f)(1)(E)”.</i>
 

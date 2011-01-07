@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 3109 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 3109 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places in last sentence.
 
@@ -18,9 +18,9 @@ Pub. L. 102–83, §4(a)(1), substituted “administered by the Secretary” for
 
 Pub. L. 102–40, §402(d)(1), substituted “5308” for “3108” in two places in first sentence.
 
-1986—Subsec. (a). Pub. L. 99–576, §701(75)(A), substituted “such person's” for “his” in two places.
+<b>1986</b>—Subsec. (a). Pub. L. 99–576, §701(75)(A), substituted “such person's” for “his” in two places.
 
 Subsec. (b). Pub. L. 99–576, §701(75)(B), substituted “such person” for “he”.
 
-1982—Subsec. (a). Pub. L. 97–258 substituted “sections 3329 and 3330 of title 31” for “sections 123–128 of title 31” wherever appearing.
+<b>1982</b>—Subsec. (a). Pub. L. 97–258 substituted “sections 3329 and 3330 of title 31” for “sections 123–128 of title 31” wherever appearing.
 

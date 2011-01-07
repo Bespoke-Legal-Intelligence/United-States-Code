@@ -30,7 +30,7 @@ Each agency shall have a Chief Privacy Officer to assume primary responsibility 
 
 #### (c) Recording
 
-Each agency shall prepare a written report of its use of information in an identifiable form, along with its privacy and data protection policies and procedures and record it with the Inspector General of the agency to serve as a benchmark for the agency. Each report shall be signed by the agency privacy officer to verify that the agency intends to comply with the procedures in the report. By signing the report the privacy officer also verifies that the agency is only using information in identifiable form as detailed in the report.
+Each agency shall prepare a written report of its use of information in an identifiable form, along with its privacy and data protection policies and procedures and record it with the Inspector General of the agency to serve as abenchmark for the agency. Each report shall be signed by the agency privacy officer to verify that the agency intends to comply with the procedures in the report. By signing the report the privacy officer also verifies that the agency is only using information in identifiable form as detailed in the report.
 
 #### (d) Inspector General review
 
@@ -56,7 +56,7 @@ In this section, the definition of “identifiable form” is consistent with Pu
 
 The Privacy Act of 1974, referred to in subsecs. (a)(3) and (b)(1), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 552a of Title 5 and Tables.
 
-The Federal Information Security Management Act of 2002, referred to in subsec. (d), is the statutory short title for title III of Pub. L. 107–347, Dec. 17, 2002, 116Stat. 2946, and for title X of Pub. L. 107–296, Nov. 25, 116 Stat. 2259. For complete classification of these Acts to the Code, see Short Title of 2002 Amendments note set out under section 101 of Title 44, Public Printing and Documents, Short Title note set out under section 101 of Title 6, Domestic Security, and Tables.
+The Federal Information Security Management Act of 2002, referred to in subsec. (d), is the statutory short title for title III of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2946, and for title X of Pub. L. 107–296, Nov. 25, 116 Stat. 2259. For complete classification of these Acts to the Code, see Short Title of 2002 Amendments note set out under section 101 of Title 44, Public Printing and Documents, Short Title note set out under section 101 of Title 6, Domestic Security, and Tables.
 
 The E-Government Act of 2002, referred to in subsec. (f), is Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2899. Section 208 of the Act is set out as a note under section 3501 of Title 44, Public Printing and Documents. For complete classification of this Act to the Code, see Short Title of 2002 Amendments note set out under section 101 of Title 44 and Tables.
 
@@ -66,7 +66,7 @@ Section was formerly set out as a note under section 552a of Title 5, Government
 
 #### Amendments
 
-2007—Subsec. (d). Pub. L. 110–161 added subsec. (d) and struck out former subsec. (d) which related to independent, third-party reviews.
+<b>2007</b>—Subsec. (d). Pub. L. 110–161 added subsec. (d) and struck out former subsec. (d) which related to independent, third-party reviews.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

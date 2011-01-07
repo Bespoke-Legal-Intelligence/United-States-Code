@@ -6,7 +6,7 @@ For the purpose of this subchapter—
 
 &emsp;(2) “student-employee” means—
 
-&emsp;&emsp;(A) a student nurse, medical or dental intern, resident-in-training, student dietitian, student physical therapist, and student occupational therapist, assigned or attached toa hospital, clinic, or medical or dental laboratory operated by an agency; and
+&emsp;&emsp;(A) a student nurse, medical or dental intern, resident-in-training, student dietitian, student physical therapist, and student occupational therapist, assigned or attached to a hospital, clinic, or medical or dental laboratory operated by an agency; and
 
 &emsp;&emsp;(B) any other student-employee, assigned or attached primarily for training purposes to a hospital, clinic, or medical or dental laboratory operated by an agency, who is designated by the head of the agency with the approval of the Office of Personnel Management.
 

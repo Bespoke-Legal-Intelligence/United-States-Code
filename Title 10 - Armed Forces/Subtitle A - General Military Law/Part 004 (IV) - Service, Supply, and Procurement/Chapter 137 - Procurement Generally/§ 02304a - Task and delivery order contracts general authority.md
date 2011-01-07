@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Award.—Subject to the requirements of this section, section 2304c of this title, and other applicable law, the head of an agency may enter into a task or delivery order contract (as defined in section 2304d of this title) for procurement of services or property.
+Authority To Award.—Subject to the requirements of this section, section 2304c of thistitle, and other applicable law, the head of an agency may enter into a task or delivery order contract (as defined in section 2304d of this title) for procurement of services or property.
 
 (b)
 
@@ -74,13 +74,13 @@ Another section 2304a was renumbered section 2304e of this title.
 
 #### Amendments
 
-2009—Subsec. (d)(3)(B). Pub. L. 111–84 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The head of the agency shall notify Congress within 30 days after any determination under subparagraph (A)(iv).”
+<b>2009</b>—Subsec. (d)(3)(B). Pub. L. 111–84 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The head of the agency shall notify Congress within 30 days after any determination under subparagraph (A)(iv).”
 
-2008—Subsec. (d)(3), (4). Pub. L. 110–181 added par. (3) and redesignated former par. (3) as (4).
+<b>2008</b>—Subsec. (d)(3), (4). Pub. L. 110–181 added par. (3) and redesignated former par. (3) as (4).
 
-2004—Subsec. (f). Pub. L. 108–375 substituted “any period up to five years and may extend the contract period for one or more successive periods pursuant to an option provided in the contract or a modification of the contract. The total contract period as extended may not exceed 10 years unless such head of an agency determines in writing that exceptional circumstances necessitate a longer contract period” for “a total period of not more than five years”.
+<b>2004</b>—Subsec. (f). Pub. L. 108–375 substituted “any period up to five years and may extend the contract period for one or more successive periods pursuant to an option provided in the contract or a modification of the contract. The total contract period as extended may not exceed 10 years unless such head of an agency determines in writing that exceptional circumstances necessitate a longer contract period” for “a total period of not more than five years”.
 
-2003—Subsecs. (f) to (h). Pub. L. 108–136 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+<b>2003</b>—Subsecs. (f) to (h). Pub. L. 108–136 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
 #### Effective Date of 2008 Amendment
 
@@ -88,7 +88,7 @@ Pub. L. 110–181, div. A, title VIII, §843(a)(3)(A), Jan. 28, 2008, 122 Stat. 
 
 #### Effective Date
 
-For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 2302 of this title.
 
 #### Congressional Intelligence Committees
 

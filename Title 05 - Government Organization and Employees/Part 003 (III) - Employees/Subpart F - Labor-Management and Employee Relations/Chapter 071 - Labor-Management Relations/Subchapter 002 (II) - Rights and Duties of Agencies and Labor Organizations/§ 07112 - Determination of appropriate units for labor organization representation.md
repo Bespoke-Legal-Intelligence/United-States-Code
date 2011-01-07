@@ -24,7 +24,7 @@
 
 &emsp;(2) which is affiliated directly or indirectly with an organization which represents other individuals to whom such provision applies.
 
-(d) Two or more units which are in an agency and for which a labor organization is the exclusive representative may, upon petition by the agency or labor organization, be consolidated with or without an election into a single larger unit if the Authority considers the larger unit to be appropriate. The Authority shall certify the labor organization as the exclusive representative of the new larger unit.
+(d) Two or more units which are in an agency and for which a labor organization is the exclusive representative may, upon petition by the agency or labor organization, be consolidated with or without an election into a single larger unit if the Authority considers the larger unit to be appropriate. The Authority shall certifythe labor organization as the exclusive representative of the new larger unit.
 
 (Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1200; amended Pub. L. 102–378, §2(54), Oct. 2, 1992, 106 Stat. 1354.)
 

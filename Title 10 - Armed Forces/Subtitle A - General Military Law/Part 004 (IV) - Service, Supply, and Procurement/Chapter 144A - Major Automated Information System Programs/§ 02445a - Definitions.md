@@ -42,9 +42,9 @@ Full Deployment.—In this chapter, the term “full deployment” means, with r
 
 #### Amendments
 
-2009—Subsecs. (e), (f). Pub. L. 111–84 added subsecs. (e) and (f).
+<b>2009</b>—Subsecs. (e), (f). Pub. L. 111–84 added subsecs. (e) and (f).
 
-2008—Pub. L. 110–417, §812(a)(2), substituted “Definitions” for “Major automated information system program defined” in section catchline.
+<b>2008</b>—Pub. L. 110–417, §812(a)(2), substituted “Definitions” for “Major automated information system program defined” in section catchline.
 
 Subsec. (a). Pub. L. 110–417, §812(a)(1)(A), substituted “Major Automated Information System Program” for “In General” in heading.
 

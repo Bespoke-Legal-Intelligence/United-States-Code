@@ -2,11 +2,11 @@
 
 (a)
 
-Nondisclosure.—The proceedings of a selection board convened under section 14101 of this title may not be disclosed to any person not a member of the board.
+Prohibition on Disclosure.—The proceedings of a selection board convened under section 14101 or 14502 of this title may not be disclosed to any person not a member of the board, except as authorized or required to process the report of the board. This prohibition is a statutory exemption from disclosure, as described in section 552(b)(3) of title 5.
 
 (b)
 
-Prohibited Uses of Board Discussions, Deliberations, and Records.—The discussions and deliberations of a selection board described in subsection (a) and any written or documentary record of such discussions and deliberations—
+Prohibited Uses of Board Discussions, Deliberations, Notes, and Records.—The discussions and deliberations of a selection board described in subsection (a) and any written or documentary record of such discussions and deliberations—
 
 &emsp;(1) are immune from legal process;
 
@@ -14,7 +14,11 @@ Prohibited Uses of Board Discussions, Deliberations, and Records.—The discussi
 
 &emsp;(3) may not be used for any purpose in any action, suit, or judicial or administrative proceeding without the consent of the Secretary of the military department concerned.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2925; amended Pub. L. 109–364, div. A, title V, §547(b), Oct. 17, 2006, 120 Stat. 2216.)
+(c)
+
+Applicability.—This section applies to all selection boards convened under section 14101 or 14502 of this title, regardless of the date on which the board was convened.
+
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2925; amended Pub. L. 109–364, div. A, title V, §547(b), Oct. 17, 2006, 120 Stat. 2216; Pub. L. 111–383, div. A, title V, §503(c), Jan. 7, 2011, 124 Stat. 4208.)
 
 #### Prior Provisions
 
@@ -22,9 +26,15 @@ Provisions similar to those in this section were contained in section 5898(e) of
 
 #### Amendments
 
-2006—Pub. L. 109–364 amended section catchline and text generally. Prior to amendment, text read as follows: “Except as otherwise authorized or required by law, the proceedings of a selection board convened under section 14101 of this title may not be disclosed to any person not a member of the board.”
+<b>2011</b>—Subsec. (a). Pub. L. 111–383, §503(c)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The proceedings of a selection board convened under section 14101 of this title may not be disclosed to any person not a member of the board.”
+
+Subsec. (b). Pub. L. 111–383, §503(c)(2), substituted “Notes, and Records” for “and Records” in heading.
+
+Subsec. (c). Pub. L. 111–383, §503(c)(3), added subsec. (c).
+
+<b>2006</b>—Pub. L. 109–364 amended section catchline and text generally. Prior to amendment, text read as follows: “Except as otherwise authorized or required by law, the proceedings of a selection board convened under section 14101 of this title may not be disclosed to any person not a member of the board.”
 
 #### Effective Date of 2006 Amendment
 
-This section, as amended by Pub. L. 109–364, applicable with respect to the proceedings of all selection boards convened under section 14101 of this title, including selection boards convened before Oct. 17, 2006, see section 547(c) of Pub. L. 109–364, set out as an Effective Date note under section 613a of this title.
+This section, as amended by Pub. L. 109–364, applicable with respect to the proceedings of all selection boards convened under section 14101 of this title, including selection boards convened before Oct. 17, 2006,see section 547(c) of Pub. L. 109–364, set out as an Effective Date note under section 613a of this title.
 

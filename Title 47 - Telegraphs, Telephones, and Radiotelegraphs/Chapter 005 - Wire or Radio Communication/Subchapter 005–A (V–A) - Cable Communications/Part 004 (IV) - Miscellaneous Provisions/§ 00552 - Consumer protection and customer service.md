@@ -36,9 +36,9 @@ A cable operator may provide notice of service and rate changes to subscribers u
 
 #### Amendments
 
-1996—Subsecs. (c), (d). Pub. L. 104–104 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>1996</b>—Subsecs. (c), (d). Pub. L. 104–104 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1992—Pub. L. 102–385 amended section generally. Prior to amendment, section read as follows:
+<b>1992</b>—Pub. L. 102–385 amended section generally. Prior to amendment, section read as follows:
 
 “(a) A franchising authority may require, as part of a franchise (including a franchise renewal, subject to section 546 of this title), provisions for enforcement of—
 

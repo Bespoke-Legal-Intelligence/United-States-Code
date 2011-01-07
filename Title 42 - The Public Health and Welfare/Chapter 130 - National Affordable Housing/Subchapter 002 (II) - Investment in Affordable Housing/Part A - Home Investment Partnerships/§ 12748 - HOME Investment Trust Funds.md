@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish for each participating jurisdiction a HOME Investment Trust Fund, which shall be an account (or accounts as provided in section 12749(c) of this title) for use solely to invest in affordable housing within the participating jurisdiction's boundaries or withinthe boundaries of contiguous jurisdictions in joint projects which serve residents from both jurisdictions in accordance with the provisions of this part.
+The Secretary shall establish for each participating jurisdiction a HOME Investment Trust Fund, which shall be an account (or accounts as provided in section 12749(c) of this title) for use solely to invest in affordable housing within the participating jurisdiction's boundaries or within the boundaries of contiguous jurisdictions in joint projects which serve residents from both jurisdictions in accordance with the provisions of this part.
 
 #### (b) Line of credit
 
@@ -36,7 +36,7 @@ The Secretary shall not charge any interest or levy any other fee with regard to
 
 #### (g) Expiration of right to draw funds
 
-If any funds becoming available to a participating jurisdiction under this subchapter are not placed under binding commitment to affordable housing within 24 months after the last day of the month in which such funds are deposited in the jurisdiction's HOME Investment Trust Fund, the jurisdiction's right to draw such funds from the HOME Investment Trust Fund shall expire. The Secretary shall reduce the line of credit in the participating jurisdiction's HOME Investment Trust Fund by the expiring amount and shall reallocate the funds by formula in accordance with section 12747(d) of this title.
+If any funds becoming available to a participating jurisdiction under this subchapter are not placed under binding commitment to affordable housing within 24 months after the last dayof the month in which such funds are deposited in the jurisdiction's HOME Investment Trust Fund, the jurisdiction's right to draw such funds from the HOME Investment Trust Fund shall expire. The Secretary shall reduce the line of credit in the participating jurisdiction's HOME Investment Trust Fund by the expiring amount and shall reallocate the funds by formula in accordance with section 12747(d) of this title.
 
 #### (h) Administrative provision
 
@@ -46,7 +46,7 @@ The Secretary shall keep each participating jurisdiction informed of the status 
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–550, §221, inserted “or within the boundaries of contiguous jurisdictions in joint projects which serve residents from both jurisdictions” after “boundaries”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–550, §221, inserted “or within the boundaries of contiguous jurisdictions in joint projects which serve residents from both jurisdictions” after “boundaries”.
 
 Subsec. (g). Pub. L. 102–550, §203(c), substituted “If” for “Except as provided in section 12747(b)(1)(A)(ii) of this title, if”.
 

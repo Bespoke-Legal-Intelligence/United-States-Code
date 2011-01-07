@@ -40,42 +40,49 @@ Subpart D—Business Related Credits
 | [45O.](%C2%A7%2000045O%20-%20Agricultural%20chemicals%20security%20credit.md) | Agricultural chemicals security credit. |
 | [45P.](%C2%A7%2000045P%20-%20Employer%20wage%20credit%20for%20employees%20who%20are%20active%20duty%20members%20of%20the%20uniformed%20services.md) | Employer wage credit for employees who are active duty members of the uniformed services. |
 | [45Q.](%C2%A7%2000045Q%20-%20Credit%20for%20carbon%20dioxide%20sequestration.md) | Credit for carbon dioxide sequestration. |
+| [45R.](%C2%A7%2000045R%20-%20Employee%20health%20insurance%20expenses%20of%20small%20employers.md) | Employee health insurance expenses of small employers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note set out under section 1 of this title.</i>
+
 #### Amendments
 
-2008—Pub. L. 110–343, div. B, title I, §115(c), Oct. 3, 2008, 122 Stat. 3831, which directed amendment of table of sections for subpart B by adding item 45Q at end, was executed by adding item 45Q at end of table of sections for this subpart to reflect the probable intent of Congress.
+<b>2010</b>—Pub. L. 111–148, title I, §1421(e), Mar. 23, 2010, 124 Stat. 242, added item 45R.
+
+<b>2008</b>—Pub. L. 110–343, div. B, title I, §115(c), Oct. 3, 2008, 122 Stat. 3831, which directed amendment of table of sections for subpart B by adding item 45Q at end, was executed by adding item 45Q at end of table of sections for this subpart to reflect the probable intent of Congress.
 
 Pub. L. 110–245, title I, §111(d), June 17, 2008, 122 Stat. 1635, added item 45P.
 
 Pub. L. 110–234, title XV, §§15321(b)(3)(B), 15343(d), May 22, 2008, 122 Stat. 1513, 1520, and Pub. L. 110–246, title XV, §§15321(b)(3)(B), 15343(d), June 18, 2008, 122 Stat. 2275, 2282, made identical amendments, inserting “, etc.,” after “Alcohol” in item 40 and adding item 45O. The amendments by Pub. L. 110–234 were repealed by Pub. L. 110–246, §4(a), June 18, 2008, 122 Stat. 1664.
 
-2006—Pub. L. 109–432, div. A, title IV, §405(d), Dec. 20, 2006, 120 Stat. 2958, added item 45N.
+<b>2006</b>—Pub. L. 109–432, div. A, title IV, §405(d), Dec. 20, 2006, 120 Stat. 2958, added item 45N.
 
-2005—Pub. L. 109–58, title XIII, §§1306(c), 1322(a)(3)(L), 1332(e), 1334(c), 1346(b)(2), Aug. 8, 2005, 119 Stat. 999, 1012, 1026, 1033, 1055, inserted “and renewable diesel” after “Biodiesel” in item 40A and added items 45J to 45M.
+<b>2005</b>—Pub. L. 109–58, title XIII, §§1306(c), 1322(a)(3)(L), 1332(e), 1334(c), 1346(b)(2), Aug. 8, 2005, 119 Stat. 999, 1012, 1026, 1033, 1055, inserted “and renewable diesel” after “Biodiesel” in item 40A and added items 45J to 45M.
 
-2004—Pub. L. 108–357, title II, §245(d), title III, §§302(c)(3), 339(e), 341(d), title VII, §710(b)(3)(B), Oct. 22, 2004, 118 Stat. 1448, 1466, 1484, 1487, 1556, added items 40A and 45G to 45I and inserted “, etc” after “resources” in item 45.
+<b>2004</b>—Pub. L. 108–357, title II, §245(d), title III, §§302(c)(3), 339(e), 341(d), title VII, §710(b)(3)(B), Oct. 22, 2004, 118 Stat. 1448, 1466, 1484, 1487, 1556, added items 40A and 45G to 45I and inserted “, etc” after “resources” in item 45.
 
 Pub. L. 108–311, title IV, §408(b)(7), Oct. 4, 2004, 118 Stat. 1193, amended directory language of Pub. L. 107–16, §619(c)(3). See 2001 Amendment note below.
 
-2001—Pub. L. 107–16, title VI, §619(c)(3), June 7, 2001, 115 Stat. 110, as amended by Pub. L. 108–311, title IV, §408(b)(7), Oct. 4, 2004, 118 Stat. 1193, added item 45E.
+<b>2001</b>—Pub. L. 107–16, title VI, §619(c)(3), June 7, 2001, 115 Stat. 110, as amended by Pub. L. 108–311, title IV, §408(b)(7), Oct. 4, 2004, 118 Stat. 1193, added item 45E.
 
-Pub. L. 107–16, title II, §205(b)(2), June 7, 2001, 115 Stat. 53, added item 45F.
+Pub. L. 107–16, title II, §205(b)(2), title IX, §901, June 7, 2001, 115 Stat. 53, 150, temporarily added item 45F.
 
-2000—Pub. L. 106–554, §1(a)(7) \[title I, §121(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610, added item 45D.
+<b>2000</b>—Pub. L. 106–554, §1(a)(7) \[title I, §121(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610, added item 45D.
 
-1996—Pub. L. 104–188, title I, §1205(a)(3)(B), Aug. 20, 1996, 110 Stat. 1775, added item 45C.
+<b>1996</b>—Pub. L. 104–188, title I, §1205(a)(3)(B), Aug. 20, 1996, 110 Stat. 1775, added item 45C.
 
-1993—Pub. L. 103–66, title XIII, §§13322(e), 13443(c), Aug. 10, 1993, 107 Stat. 563, 569, added items 45A and 45B.
+<b>1993</b>—Pub. L. 103–66, title XIII, §§13322(e), 13443(c), Aug. 10, 1993, 107 Stat. 563, 569, added items 45A and 45B.
 
-1992—Pub. L. 102–486, title XIX, §1914(d), Oct. 24, 1992, 106 Stat. 3023, added item 45.
+<b>1992</b>—Pub. L. 102–486, title XIX, §1914(d), Oct. 24, 1992, 106 Stat. 3023, added item 45.
 
-1990—Pub. L. 101–508, title XI, §§11511(c)(1), 11611(d), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, added items 43 and 44.
+<b>1990</b>—Pub. L. 101–508, title XI, §§11511(c)(1), 11611(d), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, added items 43 and 44.
 
-1986—Pub. L. 99–514, title II, §§231(d)(3)(K), 252(d), Oct. 22, 1986, 100 Stat. 2180, 2205, added item 41 relating to credit for increasing research activities and item 42.
+<b>1986</b>—Pub. L. 99–514, title II, §§231(d)(3)(K), 252(d), Oct. 22, 1986, 100 Stat. 2180, 2205, added item 41 relating to credit for increasing research activities and item 42.
 
-1984—Pub. L. 98–369, div. A, title IV, §471(b), July 18, 1984, 98 Stat. 826, added subpart D heading and analysis of sections for subpart D, consisting of items 38 (new), 39 (new), 40 (formerly 44E), and 41 (formerly 44G). Former subpart D was redesignated F.
+<b>1984</b>—Pub. L. 98–369, div. A, title IV, §471(b), July 18, 1984, 98 Stat. 826, added subpart D heading and analysis of sections for subpart D, consisting of items 38 (new), 39 (new), 40 (formerly 44E), and 41 (formerly 44G). Former subpart D was redesignated F.
 
 <i><sup>1</sup></i><i> Section 41 repealed by Pub. L. 99–514 without corresponding amendment of subpart analysis.</i>
 
@@ -120,3 +127,4 @@ Pub. L. 107–16, title II, §205(b)(2), June 7, 2001, 115 Stat. 53, added item 
 - [&sect; 00045O - Agricultural chemicals security credit](%C2%A7%2000045O%20-%20Agricultural%20chemicals%20security%20credit.md)
 - [&sect; 00045P - Employer wage credit for employees who are active duty members of the uniformed services](%C2%A7%2000045P%20-%20Employer%20wage%20credit%20for%20employees%20who%20are%20active%20duty%20members%20of%20the%20uniformed%20services.md)
 - [&sect; 00045Q - Credit for carbon dioxide sequestration](%C2%A7%2000045Q%20-%20Credit%20for%20carbon%20dioxide%20sequestration.md)
+- [&sect; 00045R - Employee health insurance expenses of small employers](%C2%A7%2000045R%20-%20Employee%20health%20insurance%20expenses%20of%20small%20employers.md)

@@ -1,6 +1,6 @@
 ### §645. Court officers generally
 
-Whoever, being a United States marshal, clerk, receiver, referee, trustee, or other officer of a United States court, or any deputy, assistant, or employee of any such officer, retains or converts to his own use or to the use of another or after demand by the party entitled thereto, unlawfully retains any money coming into his hands by virtue of his official relation, position or employment, is guilty of embezzlement and shall, where the offense is not otherwise punishable by enactment of Congress, be fined under this title or not more than double the value of the money so embezzled, whichever is greater, or imprisoned not more than ten years, or both;but if the amount embezzled does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
+Whoever, being a United States marshal, clerk, receiver, referee, trustee, or other officer of a United States court, or any deputy, assistant, or employee of any such officer, retains or converts to his own use or to the use of another or after demand by the party entitled thereto, unlawfully retains any money coming into his hands by virtue of his official relation, position or employment, is guilty of embezzlement and shall, where the offense is not otherwise punishable by enactment of Congress, be fined under this title or not more than double the value of the money so embezzled, whichever is greater, or imprisoned not more than ten years, or both; but if the amount embezzled does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
 
 It shall not be a defense that the accused person had any interest in such moneys or fund.
 
@@ -16,9 +16,9 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1996—Pub. L. 104–294 substituted “$1,000” for “$100”.
+<b>1996</b>—Pub. L. 104–294 substituted “$1,000” for “$100”.
 
-1994—Pub. L. 103–322, §330016(2)(G), substituted “be fined under this title or not more than double the value of the money so embezzled, whichever is greater, or imprisoned” for “be fined not more than double the value of the money so embezzled or imprisoned”.
+<b>1994</b>—Pub. L. 103–322, §330016(2)(G), substituted “be fined under this title or not more than double the value of the money so embezzled, whichever is greater, or imprisoned” for “be fined not more than double the value of the money so embezzled or imprisoned”.
 
 Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” after “he shall be”.
 

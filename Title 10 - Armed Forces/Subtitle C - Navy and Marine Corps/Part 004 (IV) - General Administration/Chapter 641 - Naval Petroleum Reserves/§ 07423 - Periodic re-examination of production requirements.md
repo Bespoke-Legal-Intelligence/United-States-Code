@@ -20,7 +20,7 @@ June 4, 1920, ch. 228 (1st par., 186th through 243d words, of amended 3d and 4th
 
 #### Amendments
 
-1976—Pub. L. 94–258 struck out “of the Navy” after “Secretary” and “or products” after “petroleum”.
+<b>1976</b>—Pub. L. 94–258 struck out “of the Navy” after “Secretary” and “or products” after “petroleum”.
 
-1962—Pub. L. 87–796 directed the Secretary to reexamine, from time to time, the need for production of products from oil shale.
+<b>1962</b>—Pub. L. 87–796 directed the Secretary to reexamine, from time to time, the need for production of products from oil shale.
 

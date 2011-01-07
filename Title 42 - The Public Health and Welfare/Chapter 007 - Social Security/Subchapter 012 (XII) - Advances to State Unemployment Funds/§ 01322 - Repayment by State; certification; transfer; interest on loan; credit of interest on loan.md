@@ -20,7 +20,7 @@ The Governor of any State may at any time request that funds be transferred from
 
 (B) Notwithstanding subparagraph (A), in the case of any advance made during the last 5 months of any fiscal year, interest on such advance attributable to periods during such fiscal year shall not be required to be paid before the last day of the succeeding taxable year. Any interest the time for payment of which is deferred by the preceding sentence shall bear interest in the same manner as if it were an advance made on the day on which it would have been required to be paid but for this subparagraph.
 
-(C)(i) In the case of any State which meets the requirements of clause (ii) for any calendaryear, any interest otherwise required to be paid under this subsection during such calendar year shall be paid as follows—
+(C)(i) In the case of any State which meets the requirements of clause (ii) for any calendar year, any interest otherwise required to be paid under this subsection during such calendar year shall be paid as follows—
 
 &emsp;(I) 25 percent of the amount otherwise required to be paid on or before any day during such calendar year shall be paid on or before such day; and
 
@@ -62,7 +62,7 @@ The Governor of any State may at any time request that funds be transferred from
 
 (D) In the case of a State which produces a solvency effort of 50 percent, 80 percent, and 90 percent rather than the 25 percent, 35 percent, and 50 percent required under subparagraph (B), the interest shall be computed at an interest rate which is 1 percentage point less than the otherwise applicable interest rate.
 
-(9) Any interest otherwise due from a State on September 30 of a calendar year after 1982 may be deferred (and no interest shall accrue on such deferred interest) for a grace period of not to exceed 9 months if, for the most recent 12-monthperiod for which data are available before the date such interest is otherwise due, the State had an average total unemployment rate of 13.5 percent or greater.
+(9) Any interest otherwise due from a State on September 30 of a calendar year after 1982 may be deferred (and no interest shall accrue on such deferred interest) for a grace period of not to exceed 9 months if, for the most recent 12-month period for which data are available before the date such interest is otherwise due, the State had an average total unemployment rate of 13.5 percent or greater.
 
 (10)(A) With respect to the period beginning on February 17, 2009, and ending on December 31, 2010—
 
@@ -76,7 +76,7 @@ The Governor of any State may at any time request that funds be transferred from
 
 Interest paid by States in accordance with this section shall be credited to the Federal unemployment account established by section 1104(g) of this title in the Unemployment Trust Fund.
 
-(Aug. 14, 1935, ch. 531, title XII, §1202, as added Aug. 5, 1954, ch. 657, §3, 68 Stat. 672; amended Pub. L. 86–778, title V, §522(a), Sept. 13, 1960, 74 Stat. 979; Pub. L. 97–35, title XXIV, §2407(a), (b)(2), Aug. 13, 1981, 95 Stat. 879, 880; Pub. L. 97–248, title II, §274(a), Sept. 3, 1982, 96 Stat. 557; Pub. L. 98–21, title V, §§511, 514, Apr. 20, 1983, 97 Stat. 144, 147; Pub. L. 98–118, §5(a), Oct. 11, 1983, 97 Stat. 804; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–203, title IX, §9156(a), Dec. 22, 1987, 101 Stat. 1330–327; Pub. L. 105–33, title V, §5404(a), Aug. 5, 1997, 111 Stat. 604; Pub. L. 111–5, div. B, title II, §2004, Feb. 17, 2009, 123 Stat. 443.)
+(Aug. 14, 1935, ch. 531, title XII, §1202, as added Aug. 5, 1954, ch. 657, §3, 68 Stat. 672; amended Pub. L. 86–778, title V, §522(a), Sept. 13, 1960, 74 Stat. 979; Pub. L. 97–35, title XXIV, §2407(a), (b)(2), Aug. 13, 1981, 95 Stat. 879, 880; Pub. L. 97–248, title II, §274(a), Sept. 3, 1982, 96 Stat. 557; Pub. L. 98–21, title V, §§511, 514, Apr. 20, 1983, 97 Stat. 144, 147; Pub. L. 98–118, §5(a), Oct. 11, 1983, 97 Stat. 804; Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095; Pub. L. 100–203, title IX, §9156(a), Dec. 22, 1987, 101 Stat. 1330–327; Pub. L. 105–33, title V, §5404(a), Aug. 5, 1997, 111 Stat. 604; Pub. L. 111–5, div. B, title II, §2004, Feb. 17, 2009, 123 Stat. 443.)
 
 #### References in Text
 
@@ -86,15 +86,15 @@ The Internal Revenue Code of 1986, referred to in subsec. (b)(5), (8)(B)(i), is 
 
 #### Amendments
 
-2009—Subsec. (b)(10). Pub. L. 111–5 added par. (10).
+<b>2009</b>—Subsec. (b)(10). Pub. L. 111–5 added par. (10).
 
-1997—Subsec. (b)(2)(C). Pub. L. 105–33 added subpar. (C).
+<b>1997</b>—Subsec. (b)(2)(C). Pub. L. 105–33 added subpar. (C).
 
-1987—Subsec. (c). Pub. L. 100–203 added subsec. (c).
+<b>1987</b>—Subsec. (c). Pub. L. 100–203 added subsec. (c).
 
-1986—Subsec. (b)(5), (8)(B)(i). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (b)(5), (8)(B)(i). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1983—Subsec. (b)(2). Pub. L. 98–118, §5(a)(1), substituted “advance or advances” for “advance” in provisions preceding subpar. (A).
+<b>1983</b>—Subsec. (b)(2). Pub. L. 98–118, §5(a)(1), substituted “advance or advances” for “advance” in provisions preceding subpar. (A).
 
 Subsec. (b)(2)(A). Pub. L. 98–118, §5(a)(2), (3), substituted “advances are” for “advance is” and “advances were” for “advance was”.
 
@@ -108,13 +108,13 @@ Subsec. (b)(7). Pub. L. 98–21, §511(b), struck out “, and before January 1
 
 Subsec. (b)(8), (9). Pub. L. 98–21, §511(a), added pars. (8) and (9).
 
-1982—Subsec. (b)(3)(C). Pub. L. 97–248 added subpar. (C).
+<b>1982</b>—Subsec. (b)(3)(C). Pub. L. 97–248 added subpar. (C).
 
-1981—Subsec. (a). Pub. L. 97–35, §2407(b)(2), designated existing provision as subsec. (a).
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §2407(b)(2), designated existing provision as subsec. (a).
 
 Subsec. (b). Pub. L. 97–35, §2407(a), added subsec. (b).
 
-1960—Pub. L. 86–778 amended section generally, designating provisions constituting subsec. (a) as entire section, substituting “that balance of advances, made to such State under section 1321 of this title, specified in the request” for “any remaining balance of advances made to such State under section 1321 of this title” and inserting “in reduction of such balance” and omitting subsecs. (b) and (c) pertaining to appropriations and repayable advances which were incorporated in sections 1101(d)(1) and 1323 of this title.
+<b>1960</b>—Pub. L. 86–778 amended section generally, designating provisions constituting subsec. (a) as entire section, substituting “that balance of advances, made to such State under section 1321 of this title, specified in the request” for “any remaining balance of advances made to such State under section 1321 of this title” and inserting “in reduction of such balance” and omitting subsecs. (b) and (c) pertaining to appropriations and repayable advances which were incorporated in sections 1101(d)(1) and 1323 of this title.
 
 #### Effective Date of 1997 Amendment
 

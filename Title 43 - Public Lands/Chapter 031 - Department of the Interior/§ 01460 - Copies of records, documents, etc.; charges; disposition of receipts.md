@@ -10,9 +10,9 @@ Section was formerly classified to section 488 of Title 5 prior to the general r
 
 #### Amendments
 
-1950—Act Aug. 3, 1950, included within the price of copies of records furnished by the Department the cost of the administrative expenses involved as well as the cost of production.
+<b>1950</b>—Act Aug. 3, 1950, included within the price of copies of records furnished by the Department the cost of the administrative expenses involved as well as the cost of production.
 
-1947—Act July 30, 1947, omitted specific charges for copies of books, records, etc., inserted provision that charge for copies would amount to cost of production as determined by the Secretary of the Interior or his designee, and inserted provision relating to deposit of receipts.
+<b>1947</b>—Act July 30, 1947, omitted specific charges for copies of books, records, etc., inserted provision that charge for copies would amount to cost of production as determined by the Secretary of the Interior or his designee, and inserted provision relating to deposit of receipts.
 
 #### Transfer of Functions
 

@@ -4,9 +4,11 @@
 
 The responsible party for—
 
-&emsp;(1) any vessel over 300 gross tons (except a non-self-propelled vessel that does not carry oil as cargo or fuel) using any place subject to the jurisdiction of the United States; or
+&emsp;(1) any vessel over 300 gross tons (except a non-self-propelled vessel that does not carry oil as cargo or fuel) using any place subject to the jurisdiction of the United States;
 
-&emsp;(2) any vessel using the waters of the exclusive economic zone to transship or lighter oil destined for a place subject to the jurisdiction of the United States;
+&emsp;(2) any vessel using the waters of the exclusive economic zone to transship or lighter oil destined for a place subject to the jurisdiction of the United States; or
+
+&emsp;(3) any tank vessel over 100 gross tons using any place subject to the jurisdiction of the United States;
 
 > shall establish and maintain, in accordance with regulations promulgated by the Secretary, evidence of financial responsibility sufficient to meet the maximum amount of liability to which the responsible party could be subjected under section 2704(a) or (d) of this title, in a case where the responsible party would be entitled to limit liability under that section. If the responsible party owns or operates more than one vessel, evidence of financial responsibility need be established only to meet the amount of the maximum liability applicable to the vessel having the greatest maximum liability.
 
@@ -62,7 +64,7 @@ The responsible party for—
 
 #### (D) Multiple facilities
 
-&emsp;&emsp;In a case in which a person is a responsible party for more than one facility subject tothis subsection, evidence of financial responsibility need be established only to meet the amount applicable to the facility having the greatest financial responsibility requirement under this subsection.
+&emsp;&emsp;In a case in which a person is a responsible party for more than one facility subject to this subsection, evidence of financial responsibility need be established only to meet the amount applicable to the facility having the greatest financial responsibility requirement under this subsection.
 
 #### (E) Definition
 
@@ -102,7 +104,7 @@ Financial responsibility under this section may be established by any one, or by
 
 #### (3) Rulemaking authority
 
-&emsp;Not later than 1 year after October 19, 1996, the President shall promulgate regulations to establish a process for implementing paragraph (2) in a manner that will allow for the orderly and expeditious presentation and resolution of claims and effectuate the purposes of this Act.
+&emsp;Not later than 1 year after October 19, 1996, the President shall promulgate regulations toestablish a process for implementing paragraph (2) in a manner that will allow for the orderly and expeditious presentation and resolution of claims and effectuate the purposes of this Act.
 
 #### (g) Limitation on guarantor's liability
 
@@ -116,11 +118,11 @@ Any regulation relating to financial responsibility, which has been issued pursu
 
 The Secretary may issue a single unified certificate of financial responsibility for purposes of this Act and any other law.
 
-(Pub. L. 101–380, title I, §1016, Aug. 18, 1990, 104 Stat. 502; Pub. L. 104–55, §2(d)(2), Nov. 20, 1995, 109 Stat. 547; Pub. L. 104–324, title XI, §1125(a), Oct. 19, 1996, 110 Stat. 3981.)
+(Pub. L. 101–380, title I, §1016, Aug. 18, 1990, 104 Stat. 502; Pub. L. 104–55, §2(d)(2), Nov. 20, 1995, 109 Stat. 547; Pub. L. 104–324, title XI, §1125(a), Oct. 19, 1996, 110 Stat. 3981; Pub. L. 111–281, title VII, §712, Oct. 15, 2010, 124 Stat. 2988.)
 
 #### References in Text
 
-This Act, referred to in subsecs. (e), (f), (g), (h), and (i), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, asamended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+This Act, referred to in subsecs. (e), (f), (g), (h), and (i), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 The effective date of this Act, referred to in subsec. (h), is the effective date of Pub. L. 101–380 which is applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of this title.
 
@@ -130,13 +132,15 @@ In subsec. (b)(1), “section 60105 of title 46” substituted for “section 41
 
 #### Amendments
 
-1996—Subsec. (c)(1). Pub. L. 104–324, §1125(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in paragraph (2), each responsible party with respect to an offshore facility shall establish and maintain evidence of financial responsibility of $150,000,000 to meet the amount of liability to which the responsible party could be subjected under section 2704(a) of this title in a case in which the responsible party would be entitled to limit liability under that section. In a case in which a person is the responsible party for more than one facility subject to this subsection, evidence of financial responsibility need be established only to meet the maximum liability applicable to the facility having the greatest maximum liability.”
+<b>2010</b>—Subsec. (a)(3). Pub. L. 111–281 added par. (3).
+
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–324, §1125(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in paragraph (2), each responsible party with respect to an offshore facility shall establish and maintain evidence of financial responsibility of $150,000,000 to meet the amount of liability to which the responsible party could be subjected under section 2704(a) of this title in a case in which the responsible party would be entitled to limit liability under that section. In a case in which a person is the responsible party for more than one facility subject to this subsection, evidence of financial responsibility need be established only to meet the maximum liability applicable to the facility having the greatest maximum liability.”
 
 Subsec. (f). Pub. L. 104–324, §1125(a)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any claim for which liability may be established under section 2702 of this title may be asserted directly against any guarantor providing evidence of financial responsibility for a responsible party liable under that section for removal costs and damages to which the claim pertains. In defending against such a claim, the guarantor may invoke (1) all rights and defenses which would be available to the responsible party under this Act, (2) any defense authorized under subsection (e) of this section, and (3) the defense that the incident was caused by the willful misconduct of the responsible party. The guarantor may not invoke any other defense that might be available in proceedings brought by the responsible party against the guarantor.”
 
 Subsec. (g). Pub. L. 104–324, §1125(a)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Nothing in this Act shall impose liability with respect to an incident on any guarantor for damages or removal costs which exceed, in the aggregate, the amount of financial responsibility required under this Act which that guarantor has provided for a responsible party.”
 
-1995—Subsec. (a). Pub. L. 104–55 substituted “the responsible party could be subjected under section 2704(a) or (d) of this title” for “, in the case of a tank vessel, the responsible party could be subject under section 2704(a)(1) or (d) of this title, or to which, in the case of any other vessel, the responsible party could be subjected under section 2704(a)(2) or (d) of this title”.
+<b>1995</b>—Subsec. (a). Pub. L. 104–55 substituted “the responsible party could be subjected under section 2704(a) or (d) of this title” for “, in the case of a tank vessel, the responsible party could be subject under section 2704(a)(1) or (d) of this title, or to which, in the case of any other vessel, the responsible party could be subjected under section 2704(a)(2) or (d) of this title”.
 
 #### Effective Date of 1996 Amendment
 

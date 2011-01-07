@@ -16,7 +16,7 @@
 
 #### Amendments
 
-1995—Subsec. (b). Pub. L. 104–11 substituted “San Juan Basin and surrounding areas” for “San Juan Basin”.
+<b>1995</b>—Subsec. (b). Pub. L. 104–11 substituted “San Juan Basin and surrounding areas” for “San Juan Basin”.
 
 #### Short Title of 2004 Amendment
 

@@ -8,6 +8,10 @@ For the purposes of this subchapter, the term “international organization” m
 
 This subchapter, referred to in text, was in the original “this title”, meaning title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out below and Tables.
 
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–177, §1, June 8, 2010, 124 Stat. 1260, provided that: “This Act \[enacting section 288f–7 of this title\] may be cited as the ‘Extending Immunities to the Office of the High Representative in Bosnia and Herzegovina and the International Civilian Office in Kosovo Act of 2010’.”
+
 #### Short Title
 
 Section 10 of title I of act Dec. 29, 1945, provided that: “This title \[enacting this subchapter and amending section 215 of Title 8, Aliens and Nationality, sections 116, 1607, 1621, 3466, 3469, 3475, and 3797 of Internal Revenue Code, 1939, and section 409 of Title 42, The Public Health and Welfare\] may be cited as the ‘International Organizations Immunities Act’.”

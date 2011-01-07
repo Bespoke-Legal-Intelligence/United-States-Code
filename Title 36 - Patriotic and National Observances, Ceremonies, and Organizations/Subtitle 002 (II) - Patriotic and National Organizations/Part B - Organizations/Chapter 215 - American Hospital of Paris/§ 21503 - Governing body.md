@@ -46,7 +46,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-21503(a)D36:4904 (1st sentence).DJan. 30, 1913, ch. 21, §§4 (1st sentence), 6, 37 Stat. 655; Apr. 12, 1974, Pub. L. 93–266, 88 Stat. 85.
+21503(a)
+
+36:4904 (1st sentence).
+
+Jan. 30, 1913, ch. 21, §§4 (1st sentence), 6, 37 Stat. 655; Apr. 12, 1974, Pub. L. 93–266, 88 Stat. 85.
 
 &nbsp;
 

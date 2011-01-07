@@ -26,7 +26,7 @@ The Director of the Center shall—
 
 &emsp;(9) provide technical assistance to public and nonprofit private entities that provide treatment services, including technical assistance with respect to the process of submitting to the Director applications for any program of grants or contracts carried out by the Director;
 
-&emsp;(10) encourage the States to expand the availability (relative to fiscal year 1992) ofprograms providing treatment services through self-run, self-supported recovery based on the programs of housing operated pursuant to section 300x–25 of this title;
+&emsp;(10) encourage the States to expand the availability (relative to fiscal year 1992) of programs providing treatment services through self-run, self-supported recovery based on the programs of housing operated pursuant to section 300x–25 of this title;
 
 &emsp;(11) carry out activities to educate individuals on the need for establishing treatment facilities within their communities;
 
@@ -50,9 +50,9 @@ A prior section 507 of act July 1, 1944, which was classified to section 290aa�
 
 #### Amendments
 
-2003—Subsec. (b)(6). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
+<b>2003</b>—Subsec. (b)(6). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
 
-2000—Subsec. (b)(2) to (6). Pub. L. 106–310, §3112(a)(1), (2), added pars. (2) and (3) and redesignated former pars. (2) to (4) as (4) to (6), respectively. Former pars. (5) and (6) redesignated (7) and (8), respectively.
+<b>2000</b>—Subsec. (b)(2) to (6). Pub. L. 106–310, §3112(a)(1), (2), added pars. (2) and (3) and redesignated former pars. (2) to (4) as (4) to (6), respectively. Former pars. (5) and (6) redesignated (7) and (8), respectively.
 
 Subsec. (b)(7). Pub. L. 106–310, §3112(a)(1), (3), redesignated par. (5) as (7) and substituted “services” for “services, and monitor the use of revolving loan funds pursuant to section 300x–25 of this title”. Former par. (7) redesignated (9).
 

@@ -28,7 +28,7 @@ For purposes of this subchapter only:
 
 #### (4) Organizational equipment
 
-&emsp;The term “organizational equipment” means equipment determined by the Director to be necessary to an emergency preparedness organization, as distinguished from personal equipment, and of such a type or nature as to require it to be financed in whole or in part by the Federal Government. Such term does not include those items which the local community normally uses in combating local disasters, except when required in unusual quantities dictated by the requirements of the emergency preparedness plans.
+&emsp;The term “organizational equipment” means equipment determined by the Administrator to be necessary to an emergency preparedness organization, as distinguished from personal equipment, and of such a type or nature as to require it to be financed in whole or in part by the Federal Government. Such term does not include those items which the local community normally uses in combating local disasters, except when required in unusual quantities dictated by the requirements of the emergency preparedness plans.
 
 #### (5) Materials
 
@@ -38,9 +38,9 @@ For purposes of this subchapter only:
 
 &emsp;The term “facilities”, except as otherwise provided in this subchapter, includes buildings, shelters, utilities, and land.
 
-#### (7) Director
+#### (7) Administrator
 
-&emsp;The term “Director” means the Administrator of the Federal Emergency Management Agency.
+&emsp;The term “Administrator” means the Administrator of the Federal Emergency Management Agency.
 
 #### (8) Neighboring countries
 
@@ -58,7 +58,7 @@ For purposes of this subchapter only:
 
 The terms “national defense” and “defense”, as used in the Defense Production Act of 1950 (50 U.S.C. App. 2061 et seq.), includes <sup>1</sup> emergency preparedness activities conducted pursuant to this subchapter.
 
-(Pub. L. 93–288, title VI, §602, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3101; amended Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
+(Pub. L. 93–288, title VI, §602, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3101; amended Pub. L. 111–351, §3(c), Jan. 4, 2011, 124 Stat. 3864.)
 
 #### References in Text
 
@@ -68,9 +68,11 @@ The Defense Production Act of 1950, referred to in subsec. (b), is act Sept. 8, 
 
 Provisions similar to those in this section were contained in sections 2252 and 2282 of Title 50, Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, §3412(a).
 
-#### Change of Name
+#### Amendments
 
-“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (a)(7) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+<b>2011</b>—Subsec. (a)(4). Pub. L. 111–351, §3(c)(2), substituted “Administrator” for “Director”.
+
+Subsec. (a)(7). Pub. L. 111–351, §3(c)(1), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: “The term ‘Director’ means the Director of the Federal Emergency Management Agency.”
 
 #### Transfer of Functions
 

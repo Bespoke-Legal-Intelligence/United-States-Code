@@ -58,7 +58,7 @@ The Secretary may carry out the following:
 
 &emsp;(2)(A) Award grants, contracts, or cooperative agreements to qualified organizations, institutions, or consortia of qualified organizations and institutions, specializing, or demonstrating expertise, in falls or fall prevention, to design, implement, and evaluate fall prevention programs using proven intervention strategies in residential and institutional settings.
 
-&emsp;(B) Award 1 or more grants, contracts, or cooperative agreements to 1 or more qualified organizations, institutions, or consortia of qualified organizations and institutions, specializing, or demonstrating expertise, in falls or fall prevention, in order to carry out a multistate demonstration project to implement and evaluate fall prevention programs using proven intervention strategies designed for single and multifamily residential settings with high concentrations of older adults, including—
+&emsp;(B) Award 1 or more grants, contracts, or cooperative agreements to 1 or more qualifiedorganizations, institutions, or consortia of qualified organizations and institutions, specializing, or demonstrating expertise, in falls or fall prevention, in order to carry out a multistate demonstration project to implement and evaluate fall prevention programs using proven intervention strategies designed for single and multifamily residential settings with high concentrations of older adults, including—
 
 &emsp;&emsp;(i) identifying high-risk populations;
 

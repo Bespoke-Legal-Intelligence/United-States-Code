@@ -46,7 +46,7 @@ Any officer or employee of the Department designated by the Secretary to conduct
 
 &emsp;(3) execute seizure by process issued pursuant to libel under section 334 of this title;
 
-&emsp;(4) make arrests without warrant for offenses under this chapter with respect to such drugs if the offense is committed in his presence or, in the case of a felony, if he has probable cause to believe that the person so arrested has committed, or is committing, such offense; and
+&emsp;(4) make arrests without warrant for offenses under this chapter with respect to suchdrugs if the offense is committed in his presence or, in the case of a felony, if he has probable cause to believe that the person so arrested has committed, or is committing, such offense; and
 
 &emsp;(5) make, prior to the institution of libel proceedings under section 334(a)(2) of this title, seizures of drugs or containers or of equipment, punches, dies, plates, stones, labeling, or other things, if they are, or he has reasonable grounds to believe that they are, subject to seizure and condemnation under such section 334(a)(2). In the event of seizure pursuant to this paragraph (5), libel proceedings under section 334(a)(2) of this title shall be instituted promptly and the property seized be placed under the jurisdiction of the court.
 
@@ -54,21 +54,21 @@ Any officer or employee of the Department designated by the Secretary to conduct
 
 #### Amendments
 
-2009—Subsec. (a)(1). Pub. L. 111–31 designated existing provisions as subpar. (A) and added subpar. (B).
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–31 designated existing provisions as subpar. (A) and added subpar. (B).
 
-2002—Subsec. (a). Pub. L. 107–188 inserted “(1)” before “The Secretary is authorized to conduct”, added par. (2), inserted “(3)” before “In the case of food packed”, and substituted “(4) For the purposes of this subsection,” for “For the purposes of this subsection”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–188 inserted “(1)” before “The Secretary is authorized to conduct”, added par. (2), inserted “(3)” before “In the case of food packed”, and substituted “(4) For the purposes of this subsection,” for “For the purposes of this subsection”.
 
-1999—Subsec. (d). Pub. L. 106–113, in first sentence, substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office” for “Commissioner of Patents” and “Director” for “Commissioner”.
+<b>1999</b>—Subsec. (d). Pub. L. 106–113, in first sentence, substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office” for “Commissioner of Patents” and “Director” for “Commissioner”.
 
-1993—Subsec. (c). Pub. L. 103–80 struck out “of Agriculture” after “Department”.
+<b>1993</b>—Subsec. (c). Pub. L. 103–80 struck out “of Agriculture” after “Department”.
 
-1992—Subsec. (c). Pub. L. 102–300, which directed the amendment of subsec. (c) by striking out “of Health, Education, and Welfare”, could not be executed because such words did not appear in the original statutory text. See 1993 Amendment note above and Transfer of Functions note below.
+<b>1992</b>—Subsec. (c). Pub. L. 102–300, which directed the amendment of subsec. (c) by striking out “of Health, Education, and Welfare”, could not be executed because such words did not appear in the original statutory text. See 1993 Amendment note above and Transfer of Functions note below.
 
-1970—Subsec. (e). Pub. L. 91–513 struck out reference to depressant or stimulant drugs.
+<b>1970</b>—Subsec. (e). Pub. L. 91–513 struck out reference to depressant or stimulant drugs.
 
-1965—Subsec. (e). Pub. L. 89–74 added subsec. (e).
+<b>1965</b>—Subsec. (e). Pub. L. 89–74 added subsec. (e).
 
-1962—Subsec. (a). Pub. L. 87–781, §307(b), inserted “the Commonwealth of Puerto Rico or” before “a Territory the Secretary”.
+<b>1962</b>—Subsec. (a). Pub. L. 87–781, §307(b), inserted “the Commonwealth of Puerto Rico or” before “a Territory the Secretary”.
 
 Subsec. (d). Pub. L. 87–781, §308, added subsec. (d).
 

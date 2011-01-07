@@ -10,5 +10,5 @@ This chapter, referred to in text, was in the original a reference to “this ti
 
 #### Amendments
 
-1984—Pub. L. 98–479 substituted “chapter 91 of title 31” for “the Government Corporation Control Act”.
+<b>1984</b>—Pub. L. 98–479 substituted “chapter 91 of title 31” for “the Government Corporation Control Act”.
 

@@ -28,11 +28,11 @@ Provisions similar to those in subsec. (d) of this section were contained in Pub
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–181 substituted “$400 per year (or such higher maximum amount as the Secretary of Defense may by regulation prescribe).” for “$400 per year.”
+<b>2008</b>—Subsec. (b). Pub. L. 110–181 substituted “$400 per year (or such higher maximum amount as the Secretary of Defense may by regulation prescribe).” for “$400 per year.”
 
-1996—Subsec. (a)(3). Pub. L. 104–201 substituted “section 1622” for “section 1606”.
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–201 substituted “section 1622” for “section 1606”.
 
-1990—Subsec. (d). Pub. L. 101–510 added subsec. (d).
+<b>1990</b>—Subsec. (d). Pub. L. 101–510 added subsec. (d).
 
 #### Effective Date of 1996 Amendment
 

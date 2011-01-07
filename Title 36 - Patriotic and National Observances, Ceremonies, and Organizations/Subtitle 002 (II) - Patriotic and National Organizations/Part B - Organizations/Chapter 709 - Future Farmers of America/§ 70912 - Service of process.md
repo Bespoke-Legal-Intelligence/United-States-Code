@@ -38,5 +38,5 @@ In subsection (b), the word “precedent” is omitted as unnecessary. The words
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–284 substituted “corporation shall” for “Corporation shall”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–284 substituted “corporation shall” for “Corporation shall”.
 

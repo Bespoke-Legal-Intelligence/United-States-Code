@@ -6,7 +6,7 @@ The provisions of the contract between the Secretary and an entity selected to o
 
 #### (b) Additional information
 
-The Secretary may require the operator, in order to remain eligible to operate the JobCorps center, to submit such additional information as the Secretary may require, which shall be considered part of the operating plan.
+The Secretary may require the operator, in order to remain eligible to operate the Job Corps center, to submit such additional information as the Secretary may require, which shall be considered part of the operating plan.
 
 #### (c) Availability
 

@@ -1,7 +1,5 @@
 ### SUBCHAPTER XI—PROTECTIONS FOR THE ELDERLY
 
-<i><sup>1</sup></i><i> So in original. The period probably should be a dash.</i>
-
 
 ---
 

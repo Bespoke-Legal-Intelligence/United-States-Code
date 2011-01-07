@@ -104,11 +104,11 @@ In this section, references to fiscal years ending September 30, 1980, 1981, and
 
 In subsection (a), the words “(except sections 60107 and 60114(b))” are substituted for “(other than provisions for which funds are authorized to be appropriated under subsection . . . (c) of this section or section 1687 of this Appendix)” to eliminate unnecessary words. The reference to subsection (b) is omitted as obsolete.
 
-In subsection (b), the words “(except sections 60107” are substituted for “(other than provisions for which funds are authorized to be appropriated under . . . section 1684(c) of this Appendix)” to eliminate unnecessary words. The words “subsection (b) of this section or” are omitted as obsolete. The reference to section 60114(b) of the revised title is added for clarity.
+In subsection (b), the words “(except sections 60107” are substituted for “(other than provisions for which funds are authorized to be appropriated under . . . section 1684(c) of this Appendix)” to eliminate unnecessary words. The words “subsection (b) of this section or” areomitted as obsolete. The reference to section 60114(b) of the revised title is added for clarity.
 
 In subsection (c)(1) and (2), the words “the Federal grants-in-aid provisions of” are omitted as surplus.
 
-In subsection (c)(3), the words “the amount of” are omitted as surplus. The word “program” is added forconsistency in this chapter. The words “made to a State” are omitted as surplus.
+In subsection (c)(3), the words “the amount of” are omitted as surplus. The word “program” is added for consistency in this chapter. The words “made to a State” are omitted as surplus.
 
 In subsection (e), the text of 49 App.:1684(a) (last sentence) is omitted as expired.
 
@@ -116,7 +116,7 @@ In subsection (f)(5), the words “made available” are omitted as surplus.
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–468, §18(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized appropriations for gas and hazardous liquid transportation for fiscal years 2003 through 2006.
+<b>2006</b>—Subsec. (a). Pub. L. 109–468, §18(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized appropriations for gas and hazardous liquid transportation for fiscal years 2003 through 2006.
 
 Subsec. (b). Pub. L. 109–468, §18(b), redesignated subsec. (d) as (b) and struck out former subsec. (b) which limited appropriation amounts for fiscal years 2003 through 2006 to carry out section 60107 of this title.
 
@@ -128,7 +128,7 @@ Subsec. (c). Pub. L. 109–468, §18(b), redesignated subsec. (e) as (c) and str
 
 Subsecs. (d), (e). Pub. L. 109–468, §18(b), redesignated subsecs. (d) and (e) as (b) and (c), respectively.
 
-2002—Subsec. (a). Pub. L. 107–355, §22(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “To carry out this chapter (except for sections 60107 and 60114(b)) related to gas and hazardous liquid, there are authorized to be appropriated to the Department of Transportation—
+<b>2002</b>—Subsec. (a). Pub. L. 107–355, §22(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “To carry out this chapter (except for sections 60107 and 60114(b)) related to gas and hazardous liquid, there are authorized to be appropriated to the Department of Transportation—
 
 &emsp;“(1) $19,448,000 for fiscal year 1996;
 
@@ -198,7 +198,7 @@ Availability of Unused Amounts for Grants.—(1) The Secretary shall make availa
 
 “(5) Amounts under this subsection remain available until expended.”
 
-1996—Subsec. (a). Pub. L. 104–304, §21(a)(1), added subsec. (a) and struck out former subsec. (a) which read as follows:
+<b>1996</b>—Subsec. (a). Pub. L. 104–304, §21(a)(1), added subsec. (a) and struck out former subsec. (a) which read as follows:
 
 “(a)
 

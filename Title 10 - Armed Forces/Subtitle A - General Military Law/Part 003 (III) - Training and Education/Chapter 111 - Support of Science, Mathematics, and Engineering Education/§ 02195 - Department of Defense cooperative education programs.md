@@ -30,5 +30,5 @@
 
 #### Amendments
 
-2003—Subsec. (d). Pub. L. 108–136 added subsec. (d).
+<b>2003</b>—Subsec. (d). Pub. L. 108–136 added subsec. (d).
 

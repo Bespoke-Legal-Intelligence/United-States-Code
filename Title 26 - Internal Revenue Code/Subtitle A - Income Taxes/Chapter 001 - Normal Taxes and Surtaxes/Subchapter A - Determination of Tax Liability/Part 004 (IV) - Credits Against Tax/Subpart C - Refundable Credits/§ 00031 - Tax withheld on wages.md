@@ -18,7 +18,7 @@
 
 #### (2) Year of credit
 
-&emsp;Any amount to which paragraph (1) applies shall be allowed as a credit for the taxableyear beginning in the calendar year during which the wages were received. If more than one taxable year begins in the calendar year, such amount shall be allowed as a credit for the last taxable year so beginning.
+&emsp;Any amount to which paragraph (1) applies shall be allowed as a credit for the taxable year beginning in the calendar year during which the wages were received. If more than one taxable year begins in the calendar year, such amount shall be allowed as a credit for the last taxable year so beginning.
 
 #### (c) Special rule for backup withholding
 
@@ -28,15 +28,15 @@ Any credit allowed by subsection (a) for any amount withheld under section 3406 
 
 #### Amendments
 
-1984—Subsec. (a)(1). Pub. L. 98–369, §714(j)(2), substituted “as tax under chapter 24” for “under section 3402 as tax on the wages of any individual”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–369, §714(j)(2), substituted “as tax under chapter 24” for “under section 3402 as tax on the wages of any individual”.
 
-1983—Pub. L. 98–67 added subsec. (c) and repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
+<b>1983</b>—Pub. L. 98–67 added subsec. (c) and repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
 
 Pub. L. 97–448 amended subsec. (d) generally. See 1982 Amendment note below.
 
-1982—Pub. L. 97–248, as amended by Pub. L. 97–354 and Pub. L. 97–448, amended section generally, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+<b>1982</b>—Pub. L. 97–248, as amended by Pub. L. 97–354 and Pub. L. 97–448, amended section generally, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
-1976—Subsec. (b)(1). Pub. L. 94–455 struck out “or his delegate” after “The Secretary” and “(or his delegate)” after “taxpayer or the Secretary”.
+<b>1976</b>—Subsec. (b)(1). Pub. L. 94–455 struck out “or his delegate” after “The Secretary” and “(or his delegate)” after “taxpayer or the Secretary”.
 
 #### Effective Date of 1984 Amendment
 

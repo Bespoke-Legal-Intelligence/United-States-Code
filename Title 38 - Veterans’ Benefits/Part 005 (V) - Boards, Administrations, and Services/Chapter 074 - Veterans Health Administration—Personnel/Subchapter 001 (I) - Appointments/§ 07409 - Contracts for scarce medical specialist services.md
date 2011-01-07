@@ -14,11 +14,11 @@
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 4117 of this title prior to the repeal ofthat section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
+Provisions similar to those in this section were contained in section 4117 of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–170 inserted “chiropractors,” after “optometrists,” in second sentence.
+<b>2003</b>—Subsec. (a). Pub. L. 108–170 inserted “chiropractors,” after “optometrists,” in second sentence.
 
 #### Effective Date of 2003 Amendment
 

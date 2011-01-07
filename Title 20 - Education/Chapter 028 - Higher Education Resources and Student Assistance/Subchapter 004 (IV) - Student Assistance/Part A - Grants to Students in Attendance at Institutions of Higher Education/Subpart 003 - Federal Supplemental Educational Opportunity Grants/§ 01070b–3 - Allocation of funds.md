@@ -102,15 +102,15 @@ Subpart 3 of this part, referred to in subsec. (c)(1)(B), was redesignated subpa
 
 #### Prior Provisions
 
-A prior section 1070b–3, Pub. L. 89–329, title IV, §413D, as added Pub. L. 92–318, title I, §131(b)(1), June 23, 1972,86 Stat. 254; amended Pub. L. 96–374, title IV, §403(e), (f), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1405, 1406, 1503, related to apportionment and allocation of funds for supplemental educational opportunity grants, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1070b–3, Pub. L. 89–329, title IV, §413D, as added Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 254; amended Pub. L. 96–374, title IV, §403(e), (f), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1405, 1406, 1503, related to apportionment and allocation of funds for supplemental educational opportunity grants, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–315, §406(c), substituted “such institution received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year)” for “such institution received and used under this subpart for fiscal year 1985”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–315, §406(c), substituted “such institution received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year)” for “such institution received and used under this subpart for fiscal year 1985”.
 
 Subsec. (c)(3)(D). Pub. L. 110–315, §406(b), substituted “$600” for “$450”.
 
-1998—Subsec. (a)(1). Pub. L. 105–244, §406(c)(1)(A), which directed substitution of “received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year)” for “received and used under this part for fiscal year 1985”, could not be executed because the phrase “received and used under this part for fiscal year 1985” did not appear in text.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–244, §406(c)(1)(A), which directed substitution of “received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year)” for “received and used under this part for fiscal year 1985”, could not be executed because the phrase “received and used under this part for fiscal year 1985” did not appear in text.
 
 Subsec. (a)(2)(A), (B). Pub. L. 105–244, §406(c)(1)(B)(i), substituted “1999” for “1985” in introductory provisions.
 
@@ -126,13 +126,13 @@ Subsec. (c)(2)(A)(i). Pub. L. 105–244, §406(c)(2)(C), substituted “subsecti
 
 Subsecs. (d) to (f). Pub. L. 105–244, §406(c)(2)(D), redesignated subsecs. (e) and (f) as (d) and (e), respectively. Former subsec. (d) redesignated (c).
 
-1993—Subsec. (d)(3)(C). Pub. L. 103–208 substituted “150 percent of the difference between the income protection allowance for a family of five with one in college and the income protection allowance for a family of six with one in college” for “three-fourths in the Pell Grant family size offset”.
+<b>1993</b>—Subsec. (d)(3)(C). Pub. L. 103–208 substituted “150 percent of the difference between the income protection allowance for a family of five with one in college and the income protection allowance for a family of six with one in college” for “three-fourths in the Pell Grant family size offset”.
 
-1992—Subsec. (a)(4). Pub. L. 102–325, §403(g), added par. (4).
+<b>1992</b>—Subsec. (a)(4). Pub. L. 102–325, §403(g), added par. (4).
 
 Subsec. (e). Pub. L. 102–325, §403(h), designated existing provisions as par. (1) and added par. (2).
 
-1987—Subsec. (d)(2)(D). Pub. L. 100–50, §4(a)(1), added subpar. (D) and struck out former subpar. (D) which read as follows: “multiply the number of eligible dependent students in each income category by the lesser of—
+<b>1987</b>—Subsec. (d)(2)(D). Pub. L. 100–50, §4(a)(1), added subpar. (D) and struck out former subpar. (D) which read as follows: “multiply the number of eligible dependent students in each income category by the lesser of—
 
 &emsp;“(i) 75 percent of the average cost of attendance for all undergraduate students determined under subparagraph (C); or
 

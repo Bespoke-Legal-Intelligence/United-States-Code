@@ -20,9 +20,9 @@ For prior section 517 of Pub. L. 90–351 and prior sections 3763 of this title,
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–162 substituted “pursuant to section 3762a” for “pursuant to section 3761 or 3762a”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–162 substituted “pursuant to section 3762a” for “pursuant to section 3761 or 3762a”.
 
-1990—Subsec. (a)(1). Pub. L. 101–647, §1801(a)(4)(A), inserted “or 3762a” after “3761”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–647, §1801(a)(4)(A), inserted “or 3762a” after “3761”.
 
 Subsec. (b). Pub. L. 101–647, §1801(a)(4)(B), inserted “applicable” after “all the” in three places.
 

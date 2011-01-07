@@ -24,7 +24,7 @@ A prior section 9 of Pub. L. 96–480 was renumbered section 10 and is classifie
 
 #### Amendments
 
-2000—Subsecs. (a), (b). Pub. L. 106–404 made technical amendments to references in original act which appear in text as references to section 3705 of this title.
+<b>2000</b>—Subsecs. (a), (b). Pub. L. 106–404 made technical amendments to references in original act which appear in text as references to section 3705 of this title.
 
-1986—Subsec. (a). Pub. L. 99–502 substituted “Cooperative Research Centers” for “Centers for Industrial Technology” and struck out last sentence which read as follows: “The provisions of sections 3705(e) and 3705(f) of this title shall apply to Centers established under this section.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–502 substituted “Cooperative Research Centers” for “Centers for Industrial Technology” and struck out last sentence which read as follows: “The provisions of sections 3705(e) and 3705(f) of this title shall apply to Centers established under this section.”
 

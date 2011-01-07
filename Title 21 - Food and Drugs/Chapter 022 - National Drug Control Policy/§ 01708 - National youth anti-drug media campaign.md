@@ -154,9 +154,9 @@ None of the amounts made available under subsection (b) may be obligated or expe
 
 The Director shall cause to be performed—
 
-&emsp;(1) audits and reviews of costs of the national media campaign pursuant to section 254d of title 41; and
+&emsp;(1) audits and reviews of costs of the national media campaign pursuant to section 4706 of title 41; and
 
-&emsp;(2) an audit to determine whether the costs of the national media campaign are allowable under section 256 of title 41.
+&emsp;(2) an audit to determine whether the costs of the national media campaign are allowable under chapter 43 of title 41.
 
 #### (h) Report to Congress
 
@@ -164,7 +164,7 @@ The Director shall submit on an annual basis a report to Congress that describes
 
 &emsp;(1) the strategy of the national media campaign and whether specific objectives of the media campaign were accomplished;
 
-&emsp;(2) steps taken to ensure that the national media campaign operates in an effective and efficient manner consistent with the overall strategy and focus of the national media campaign;
+&emsp;(2) steps taken to ensure that the national media campaign operates in an effective andefficient manner consistent with the overall strategy and focus of the national media campaign;
 
 &emsp;(3) plans to purchase advertising time and space;
 
@@ -230,13 +230,19 @@ There is authorized to be appropriated to the Office to carry out this section, 
 
 This chapter, referred to in subsec. (a), was in the original “this subtitle” and was translated as reading “this title”, meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter, to reflect the probable intent of Congress. Title VII does not contain subtitles. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
+#### Codification
+
+In subsec. (g)(1), “section 4706 of title 41” substituted for “section 304C of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254d)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (g)(2), “chapter 43 of title 41” substituted for “section 306 of such Act (41 U.S.C. 256)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-2006—Pub. L. 109–469 amended section catchline and text generally. Prior to amendment, section related to the President's Council on Counter-Narcotics.
+<b>2006</b>—Pub. L. 109–469 amended section catchline and text generally. Prior to amendment, section related to the President's Council on Counter-Narcotics.
 
 #### Ex. Ord. No. 12992. President's Council on Counter-Narcotics
 
-Ex. Ord. No. 12992, Mar. 15, 1996, 61 F.R. 11287, as amended by Ex. Ord. No. 13023, §§2, 3, Nov. 6, 1996, 61 F.R. 57767; Ex. Ord. No. 13284, §8, Jan. 23, 2003, 68 F.R. 4076, provided:
+Ex. Ord. No. 12992, Mar. 15, 1996, 61 F.R. 11287, as amended by Ex. Ord. No. 13023, §§2, 3, Nov. 6, 1996, 61F.R. 57767; Ex. Ord. No. 13284, §8, Jan. 23, 2003, 68 F.R. 4076, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, it is hereby ordered as follows:
 

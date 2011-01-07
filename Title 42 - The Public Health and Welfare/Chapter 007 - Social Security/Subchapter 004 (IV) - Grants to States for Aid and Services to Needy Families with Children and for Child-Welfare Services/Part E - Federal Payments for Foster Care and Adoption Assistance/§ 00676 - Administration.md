@@ -60,7 +60,7 @@ Part B of this subchapter, referred to in subsecs. (a) and (c)(2)(A)(i), (ii)(I)
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–351 added subsec. (c).
+<b>2008</b>—Subsec. (c). Pub. L. 110–351 added subsec. (c).
 
 #### Effective Date of 2008 Amendment
 

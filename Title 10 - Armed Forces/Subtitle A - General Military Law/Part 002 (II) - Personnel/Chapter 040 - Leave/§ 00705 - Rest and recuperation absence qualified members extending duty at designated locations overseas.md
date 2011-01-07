@@ -10,7 +10,7 @@
 
 &emsp;(4) at the end of that tour of duty executes an agreement to extend that tour for a period of not less than one year;
 
-> may, in lieu of receiving special pay under section 314 of title 37 for duty performed during such extension of duty, elect to receive one of the benefits specified in subsection (b). Receipt of any such benefit is in addition to any other leave or transportation to which the member may be entitled.
+> may, in lieu of receiving special pay under section 314 of title 37 for duty performed during such extension of duty, elect to receive one of the benefits specified in subsection (b). Receiptof any such benefit is in addition to any other leave or transportation to which the member may be entitled.
 
 (b) The benefits authorized by subsection (a) are—
 
@@ -24,13 +24,13 @@
 
 #### Amendments
 
-2008—Subsec. (b)(2). Pub. L. 110–181 inserted “for members whose qualifying tour of duty is 12 months or less, or for not more than 20 days for members whose qualifying tour of duty is longer than 12 months,” after “for not more than 15 days”.
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–181 inserted “for members whose qualifying tour of duty is 12 months or less, or for not more than 20 days for members whose qualifying tour of duty is longer than 12 months,” after “for not more than 15 days”.
 
 2003–Pub. L. 108–136, §621(b)(2), struck out “enlisted” before “members” in section catchline.
 
 Subsec. (a). Pub. L. 108–136, §621(b)(1), substituted “a member” for “an enlisted member” in introductory provisions.
 
-2002—Pub. L. 107–314, §574(b)(2)(A), substituted “recuperation absence: qualified enlisted members” for “recuperative absence for qualified enlisted members” in section catchline.
+<b>2002</b>—Pub. L. 107–314, §574(b)(2)(A), substituted “recuperation absence: qualified enlisted members” for “recuperative absence for qualified enlisted members” in section catchline.
 
 Subsec. (b). Pub. L. 107–314 substituted “recuperation” for “recuperative” in pars. (1) and (2) and inserted before period at end of par. (2) “, or to an alternative destination and return at a cost not to exceed the cost of round-trip transportation from the location of the extended tour of duty to such nearest port”.
 

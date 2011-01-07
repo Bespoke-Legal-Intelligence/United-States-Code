@@ -68,7 +68,7 @@ Advance Construction.—When a State which has been delegated responsibility for
 
 &emsp;(1) has obligated all funds allocated under this section and section 1602 of the Transportation Equity Act for the 21st Century or section 1701 <sup>1</sup> of the SAFETEA–LU, as the case may be, for such project; and
 
-&emsp;(2) proceeds to construct such project without the aid of Federal funds in accordancewith all procedures and all requirements applicable to such project, except insofar as such procedures and requirements limit the State to the construction of projects with the aid of Federal funds previously allocated to it;
+&emsp;(2) proceeds to construct such project without the aid of Federal funds in accordance with all procedures and all requirements applicable to such project, except insofar as such procedures and requirements limit the State to the construction of projects with the aid of Federal funds previously allocated to it;
 
 > the Secretary, upon the approval of the application of a State, shall pay to the State the Federal share of the cost of construction of the project when additional funds are allocated for such project under this section and such section 1602 or 1702, as the case may be.
 
@@ -98,7 +98,7 @@ A prior section 117, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 897; Pub. L. 93�
 
 #### Amendments
 
-2008—Subsec. (a)(2)(A). Pub. L. 110–244, §101(k)(3), inserted “(112 Stat. 257)” after “21st Century”.
+<b>2008</b>—Subsec. (a)(2)(A). Pub. L. 110–244, §101(k)(3), inserted “(112 Stat. 257)” after “21st Century”.
 
 Subsec. (a)(2)(B). Pub. L. 110–244, §101(k)(4), substituted “subsection (c)” for “subsection (b)” and “Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (119 Stat. 1256)” for “SAFETEA–LU”.
 
@@ -106,7 +106,7 @@ Subsecs. (c), (d). Pub. L. 110–244, §101(k)(2), redesignated subsec. (c), rel
 
 Subsecs. (e) to (i). Pub. L. 110–244, §101(k)(1), redesignated subsecs. (d) to (h) as (e) to (i), respectively.
 
-2005—Subsec. (a). Pub. L. 109–59, §1701(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary is authorized to carry out high priority projects with funds made available to carry out the high priority projects program under this section. Of amounts made available to carry out this section, the Secretary, subject to subsection (b), shall make available to carry out each project described in section 1602 of the Transportation Equity Act for the 21st Century the amount listed for such project in such section. Any amounts made available to carry out such program that are not allocated for projects described in such section shall be available to the Secretary, subject to subsection (b), to carry out such other high priority projects as the Secretary determines appropriate.”
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §1701(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary is authorized to carry out high priority projects with funds made available to carry out the high priority projects program under this section. Of amounts made available to carry out this section, the Secretary, subject to subsection (b), shall make available to carry out each project described in section 1602 of the Transportation Equity Act for the 21st Century the amount listed for such project in such section. Any amounts made available to carry out such program that are not allocated for projects described in such section shall be available to the Secretary, subject to subsection (b), to carry out such other high priority projects as the Secretary determines appropriate.”
 
 Subsec. (b). Pub. L. 109–59, §1701(b), amended heading and text generally. Prior to amendment, text read as follows: “For each project to be carried out with funds made available to carry out the high priority projects program under this section—
 
@@ -130,7 +130,7 @@ Subsec. (e)(1). Pub. L. 109–59, §1701(c)(1), inserted “or section 1701 of t
 
 Subsec. (g). Pub. L. 109–59, §1701(d), inserted “or section 1102(g) of the SAFETEA–LU, as the case may be” before period at end.
 
-2000—Subsec. (c). Pub. L. 106–346 inserted before period at end “; except that the Federal share on account of the project to be carried out under item 1419 of the table contained in section 1602 of the Transportation Equity Act for the 21st Century (112 Stat. 309), relating to reconstruction of a road and causeway in Shiloh Military Park in Hardin County, Tennessee, shall be 100 percent of the total cost thereof”.
+<b>2000</b>—Subsec. (c). Pub. L. 106–346 inserted before period at end “; except that the Federal share on account of the project to be carried out under item 1419 of the table contained in section 1602 of the Transportation Equity Act for the 21st Century (112 Stat. 309), relating to reconstruction of a road and causeway in Shiloh Military Park in Hardin County, Tennessee, shall be 100 percent of the total cost thereof”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “1702”.</i>
 

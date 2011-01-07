@@ -18,7 +18,7 @@ It is the policy of the United States that all water resources projects should r
 
 #### (2) In general
 
-&emsp;Not later than 2 years after November 8, 2007, the Secretary shall issue revisions, consistent with paragraph (3), to the principlesand guidelines for use by the Secretary in the formulation, evaluation, and implementation of water resources projects.
+&emsp;Not later than 2 years after November 8, 2007, the Secretary shall issue revisions, consistent with paragraph (3), to the principles and guidelines for use by the Secretary in the formulation, evaluation, and implementation of water resources projects.
 
 #### (3) Considerations
 

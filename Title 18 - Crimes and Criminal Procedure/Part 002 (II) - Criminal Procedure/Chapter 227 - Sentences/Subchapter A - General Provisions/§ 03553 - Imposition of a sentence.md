@@ -64,7 +64,7 @@ Sentencing.—In sentencing a defendant convicted of an offense under section 12
 
 &emsp;&emsp;&emsp;&emsp;(III) should result in a sentence different from that described; or
 
-&emsp;&emsp;&emsp;(iii) the court finds, on motion of the Government, that the defendant has provided substantial assistance in the investigation or prosecution of another person who has committed an offense and that this assistance established a mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result in a sentence lower than that described.
+&emsp;&emsp;&emsp;(iii) the court finds, on motion of the Government, that the defendant has provided substantial assistance in the investigation or prosecution of another personwho has committed an offense and that this assistance established a mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result in a sentence lower than that described.
 
 > In determining whether a circumstance was adequately taken into consideration, the court shall consider only the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission, together with any amendments thereto by act of Congress. In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the purposes set forth in subsection (a)(2). In the absence of an applicable sentencing guideline in the case of an offense other than a petty offense, the court shall also have due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, and to the applicable policy statements of the Sentencing Commission, together with any amendments to such guidelines or policy statements by act of Congress.
 
@@ -74,7 +74,7 @@ Statement of Reasons for Imposing a Sentence.—The court, at the time of senten
 
 &emsp;(1) is of the kind, and within the range, described in subsection (a)(4), and that range exceeds 24 months, the reason for imposing a sentence at a particular point within the range; or
 
-&emsp;(2) is not of the kind, or is outside the range, described in subsection (a)(4), the specific reason for the imposition of a sentence different from that described, which reasons must also be stated with specificity in the written order of judgment and commitment, except to the extent that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32. In the event that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32 the court shall state that such statements were so received and that it relied upon the content of such statements.
+&emsp;(2) is not of the kind, or is outside the range, described in subsection (a)(4), the specific reason for the imposition of a sentence different from that described, which reasons must also be stated with specificity in a statement of reasons form issued under section 994(w)(1)(B) of title 28, except to the extent that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32. In the event that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32 the court shall state that such statements were so received and that it relied upon the content of such statements.
 
 > If the court does not order restitution, or orders only partial restitution, the court shall include in the statement the reason therefor. The court shall provide a transcription or other appropriate public record of the court's statement of reasons, together with the order of judgment and commitment, to the Probation System and to the Sentencing Commission,,<sup>3</sup> and, if the sentence includes a term of imprisonment, to the Bureau of Prisons.
 
@@ -108,7 +108,7 @@ Limitation on Applicability of Statutory Minimums in Certain Cases.—Notwithsta
 
 &emsp;(5) not later than the time of the sentencing hearing, the defendant has truthfully provided to the Government all information and evidence the defendant has concerning the offense or offenses that were part of the same course of conduct or of a common scheme or plan, but the fact that the defendant has no relevant or useful other information to provide or that the Government is already aware of the information shall not preclude a determination by the court that the defendant has complied with this requirement.
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1989; amended Pub. L. 99–570, title I, §1007(a), Oct. 27, 1986, 100 Stat. 3207–7; Pub. L. 99–646, §§8(a), 9(a), 80(a), 81(a), Nov. 10, 1986, 100 Stat. 3593, 3619; Pub. L. 100–182, §§3, 16(a), 17, Dec. 7, 1987, 101 Stat. 1266, 1269, 1270; Pub. L. 100–690, title VII, §7102, Nov. 18, 1988, 102 Stat. 4416; Pub. L. 103–322, title VIII, §80001(a), title XXVIII, §280001, Sept. 13, 1994, 108 Stat. 1985, 2095; Pub. L. 104–294, title VI, §§601(b)(5), (6), (h), Oct. 11, 1996, 110 Stat. 3499, 3500; Pub. L. 107–273, div. B, title IV, §4002(a)(8), Nov. 2, 2002, 116 Stat. 1807; Pub. L. 108–21, title IV, §401(a), (c), (j)(5), Apr. 30, 2003, 117 Stat. 667, 669, 673.)
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1989; amended Pub. L. 99–570, title I, §1007(a), Oct. 27, 1986, 100 Stat. 3207–7; Pub. L. 99–646, §§8(a), 9(a), 80(a), 81(a), Nov. 10, 1986, 100 Stat. 3593, 3619; Pub. L. 100–182, §§3, 16(a), 17, Dec. 7, 1987, 101 Stat. 1266, 1269, 1270; Pub. L. 100–690, title VII, §7102, Nov. 18, 1988, 102 Stat. 4416; Pub. L. 103–322, title VIII, §80001(a), title XXVIII, §280001, Sept. 13, 1994, 108 Stat. 1985, 2095; Pub. L. 104–294, title VI, §§601(b)(5), (6), (h), Oct. 11, 1996, 110 Stat. 3499, 3500; Pub. L. 107–273, div. B, title IV, §4002(a)(8), Nov. 2, 2002, 116 Stat. 1807; Pub. L. 108–21, title IV, §401(a), (c), (j)(5), Apr. 30, 2003, 117 Stat. 667, 669, 673; Pub. L. 111–174, §4, May 27, 2010, 124 Stat. 1216.)
 
 #### References in Text
 
@@ -118,7 +118,9 @@ Section 408 of the Controlled Substances Act, referred to in subsec. (f)(4), is 
 
 #### Amendments
 
-2003—Subsec. (a)(4)(A). Pub. L. 108–21, §401(j)(5)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the applicable category of offense committed by the applicable category of defendant as set forth in the guidelines issued by the Sentencing Commission pursuant to section 994(a)(1) of title 28, United States Code, and that are in effect on the date the defendant is sentenced; or”.
+<b>2010</b>—Subsec. (c)(2). Pub. L. 111–174 substituted “a statement of reasons form issued under section 994(w)(1)(B) of title 28” for “the written order of judgment and commitment”.
+
+<b>2003</b>—Subsec. (a)(4)(A). Pub. L. 108–21, §401(j)(5)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the applicable category of offense committed by the applicable category of defendant as set forth in the guidelines issued by the Sentencing Commission pursuant to section 994(a)(1) of title 28, United States Code, and that are in effect on the date the defendant is sentenced; or”.
 
 Subsec. (a)(4)(B). Pub. L. 108–21, §401(j)(5)(B), inserted before semicolon at end “, taking into account any amendments made to such guidelines or policy statements by act of Congress (regardless of whether such amendments have yet to be incorporated by the Sentencing Commission into amendments issued under section 994(p) of title 28)”.
 
@@ -130,21 +132,21 @@ Subsec. (c). Pub. L. 108–21, §401(c)(2), (3), in concluding provisions, inser
 
 Subsec. (c)(2). Pub. L. 108–21, §401(c)(1), substituted “described, which reasons must also be stated with specificity in the written order of judgment and commitment, except to the extent that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32. In the event that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32 the court shall state that such statements were so received and that it relied upon the content of such statements” for “described”.
 
-2002—Subsec. (e). Pub. L. 107–273 inserted “a” before “minimum sentence”.
+<b>2002</b>—Subsec. (e). Pub. L. 107–273 inserted “a” before “minimum sentence”.
 
-1996—Subsec. (f). Pub. L. 104–294, §601(h), amended directory language of Pub. L. 103–322, §80001(a). See 1994 Amendment note below.
+<b>1996</b>—Subsec. (f). Pub. L. 104–294, §601(h), amended directory language of Pub. L. 103–322, §80001(a). See 1994 Amendment note below.
 
 Pub. L. 104–294, §601(b)(5), in introductory provisions, substituted “section 1010 or 1013 of the Controlled Substances Import and Export Act (21 U.S.C. 960, 963)” for “section 1010 or 1013 of the Controlled Substances Import and Export Act (21 U.S.C. 961, 963)”.
 
 Subsec. (f)(4). Pub. L. 104–294, §601(b)(6), substituted “section 408 of the Controlled Substances Act” for “21 U.S.C. 848”.
 
-1994—Subsec. (a)(4). Pub. L. 103–322, §280001, amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the kinds of sentence and the sentencing range established for the applicable category of offense committed by the applicable category of defendant as set forth in the guidelines that are issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(1) and that are in effect on the date the defendant is sentenced;”.
+<b>1994</b>—Subsec. (a)(4). Pub. L. 103–322, §280001, amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the kinds of sentence and the sentencing range established for the applicable category of offense committed by the applicable category of defendant as set forth in the guidelines that are issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(1) and that are in effect on the date the defendant is sentenced;”.
 
 Subsec. (f). Pub. L. 103–322, §80001(a), as amended by Pub. L. 104–294, §601(h), added subsec. (f).
 
-1988—Subsec. (c). Pub. L. 100–690 inserted “or other appropriate public record” after “transcription” in second sentence and struck out “clerk of the” before “court” in last sentence.
+<b>1988</b>—Subsec. (c). Pub. L. 100–690 inserted “or other appropriate public record” after “transcription” in second sentence and struck out “clerk of the” before “court” in last sentence.
 
-1987—Subsec. (b). Pub. L. 100–182, §3(1), (2), substituted “court finds that there exists an aggravating or mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result” for “court finds that an aggravating or mitigating circumstance exists that was not adequately taken into consideration by the Sentencing Commission in formulating the guidelines and that should result”.
+<b>1987</b>—Subsec. (b). Pub. L. 100–182, §3(1), (2), substituted “court finds that there exists an aggravating or mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result” for “court finds that an aggravating or mitigating circumstance exists that was not adequately taken into consideration by the Sentencing Commission in formulating the guidelines and that should result”.
 
 Pub. L. 100–182, §3(3), inserted after first sentence “In determining whether a circumstance was adequately taken into consideration, the court shall consider only the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission.”
 
@@ -152,7 +154,7 @@ Pub. L. 100–182, §16(a), substituted “In the absence of an applicable sente
 
 Subsec. (c)(1). Pub. L. 100–182, §17, inserted “and that range exceeds 24 months,”.
 
-1986—Subsec. (a)(7). Pub. L. 99–646, §81(a), added par. (7).
+<b>1986</b>—Subsec. (a)(7). Pub. L. 99–646, §81(a), added par. (7).
 
 Subsec. (b). Pub. L. 99–646, §9(a), inserted provision relating to sentencing in the absence of applicable guidelines.
 

@@ -22,3 +22,5 @@ Section 204, referred to in par. (2), is section 204 of Pub. L. 109–53, which 
 
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

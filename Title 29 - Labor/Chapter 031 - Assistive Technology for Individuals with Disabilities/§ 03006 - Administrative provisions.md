@@ -12,7 +12,7 @@
 
 #### (3) Administration
 
-&emsp;In administering this chapter, the Rehabilitation Services Administration shall ensure that programs funded under this chapter willaddress the needs of individuals with disabilities of all ages, whether the individuals will use the assistive technology to obtain or maintain employment, to obtain education, or for other reasons.
+&emsp;In administering this chapter, the Rehabilitation Services Administration shall ensure that programs funded under this chapter will address the needs of individuals with disabilities of all ages, whether the individuals will use the assistive technology to obtain or maintain employment, to obtain education, or for other reasons.
 
 #### (4) Orderly transition
 
@@ -94,7 +94,7 @@ This chapter (as in effect on the day before October 25, 2004) shall apply to fu
 
 #### References in Text
 
-The General Education Provisions Act, referred to in subsec. (e), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81Stat. 814, as amended. Part D of the Act is classified generally to subchapter IV (§1234 et seq.) of chapter 31 of Title 20, Education. For complete classification of this Act to the Code, see section 1221 of Title 20 and Tables.
+The General Education Provisions Act, referred to in subsec. (e), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, as amended. Part D of the Act is classified generally to subchapter IV (§1234 et seq.) of chapter 31 of Title 20, Education. For complete classification of this Act to the Code, see section 1221 of Title 20 and Tables.
 
 #### Change of Name
 

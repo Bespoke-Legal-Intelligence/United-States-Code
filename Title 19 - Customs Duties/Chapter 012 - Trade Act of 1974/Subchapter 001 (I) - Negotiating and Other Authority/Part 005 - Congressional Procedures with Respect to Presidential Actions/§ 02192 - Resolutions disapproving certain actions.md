@@ -8,7 +8,7 @@
 
 &emsp;(B) a joint resolution of the two Houses of Congress, the matter after the resolving clause of which is as follows: “That the Congress does not approve \_\_\_\_\_\_ transmitted to the Congress on \_\_\_\_\_\_.”, with the first blank space being filled in accordance with paragraph (2), and the second blank space being filled with the appropriate date.
 
-(2) The first blank space referred to in paragraph (1)(B) shall be filled, in the case of a resolution referred to in section 2437(c)(2) of this title, with the phrase “the report of the President submitted under section \_\_\_\_\_\_ of the Trade Act of 1974 with respect to \_\_\_\_\_\_” (with the first blank space being filled with “402(b)” or “409(b)”, as appropriate, and the second blank space being filled with the name of the country involved).
+(2) The first blank space referred to in paragraph (1)(B) shall be filled, in the case of a resolution referred to in section 2437(c)(2) of this title, with the phrase “the report of the President submitted under section \_\_\_\_\_\_ of the Trade Act of 1974 with respect to \_\_\_\_\_\_” (with the first blank space being filled with “402(b)” or“409(b)”, as appropriate, and the second blank space being filled with the name of the country involved).
 
 #### (b) Reference to committees
 
@@ -54,7 +54,7 @@ All resolutions introduced in the House of Representatives shall be referred to 
 
 &emsp;(ii) If a resolution to which this section applies was introduced in the Senate before receipt of a resolution that has passed the House of Representatives, the resolution from the House of Representatives shall, when received in the Senate, be placed on the calendar. If this clause applies, the procedures in the Senate with respect to a resolution introduced in the Senate that contains the identical matter as the resolution that passed the House of Representatives shall be the same as if no resolution had been received from the House of Representatives, except that the vote on passage in the Senate shall be on the resolution that passed the House of Representatives.
 
-&emsp;(B) If the Senate passes a resolution before receiving from the House of Representatives a joint resolution that contains the identical matter, the joint resolution shall be held at the desk pending receipt of the joint resolution from the House of Representatives. Upon receipt of the joint resolution from the House of Representatives, such joint resolution shall be deemed to be read twice, considered, read the third time, and passed.
+&emsp;(B) If the Senate passes a resolution before receiving from the House of Representatives a joint resolution that contains the identicalmatter, the joint resolution shall be held at the desk pending receipt of the joint resolution from the House of Representatives. Upon receipt of the joint resolution from the House of Representatives, such joint resolution shall be deemed to be read twice, considered, read the third time, and passed.
 
 (2) If the texts of joint resolutions described in this section or section 2193(a) of this title, whichever is applicable, concerning any matter are not identical—
 
@@ -74,11 +74,11 @@ Sections 402(b) and 409(b) of the Trade Act of 1974, referred to in subsec. (a)(
 
 #### Amendments
 
-1996—Subsec. (a)(2). Pub. L. 104–295 amended directory language of Pub. L. 103–465. See 1994 Amendment note below.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–295 amended directory language of Pub. L. 103–465. See 1994 Amendment note below.
 
-1994—Subsec. (a)(2). Pub. L. 103–465, as amended by Pub. L. 104–295, substituted comma for “as follows:” after “shall be filled” in introductory provisions, struck out “(B)” before “in the case”, and struck out subpar. (A) which read as follows: “in the case of a resolution referred to in section 1303(e) of this title, with the phrase ‘the determination of the Secretary of the Treasury under section 303(d) of the Tariff Act of 1930’; and”.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–465, as amended by Pub. L. 104–295, substituted comma for “as follows:” after “shall be filled” in introductory provisions, struck out “(B)” before “in the case”, and struck out subpar. (A) which read as follows: “in the case of a resolution referred to in section 1303(e) of this title, with the phrase ‘the determination of the Secretary of the Treasury under section 303(d) of the Tariff Act of 1930’; and”.
 
-1990—Subsec. (a)(1)(B). Pub. L. 101–382, §132(c)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a resolution of either House of the Congress, the matter after the resolving clause of which is as follows: ‘That the \_\_\_\_\_\_ does not approve \_\_\_\_\_\_ transmitted to the Congress on \_\_\_\_\_\_.’, with the first blank space being filled with the name of the resolving House, the second blank space being filled in accordance with paragraph (2), and the third blank space being filled with the appropriate date.”
+<b>1990</b>—Subsec. (a)(1)(B). Pub. L. 101–382, §132(c)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a resolution of either House of the Congress, the matter after the resolving clause of which is as follows: ‘That the \_\_\_\_\_\_ does not approve \_\_\_\_\_\_ transmitted to the Congress on \_\_\_\_\_\_.’, with the first blank space being filled with the name of the resolving House, the second blank space being filled in accordance with paragraph (2), and the third blank space being filled with the appropriate date.”
 
 Subsec. (a)(2). Pub. L. 101–382, §132(c)(3), substituted “first” for “second” in introductory provisions and “2437(c)(2)” for “2437(c)(3)” in subpar. (C), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “in the case of a resolution referred to in section 2437(c)(2) of this title, with the phrase ‘the extension of nondiscriminatory treatment with respect to the products of \_\_\_\_\_\_’ (with this blank space being filled with the name of the country involved); and”.
 
@@ -94,9 +94,9 @@ Subsec. (f). Pub. L. 101–382, §132(c)(5), amended subsec. (f) generally. Prio
 
 &emsp;“(2) the vote on final passage shall be on the resolution of the other House.”
 
-1984—Subsec. (a)(1)(A). Pub. L. 98–573 substituted “joint resolution” for “concurrent resolution”.
+<b>1984</b>—Subsec. (a)(1)(A). Pub. L. 98–573 substituted “joint resolution” for “concurrent resolution”.
 
-1979—Subsec. (a)(1)(A). Pub. L. 96–39, §902(a)(1)(A), substituted “does not approve the action taken by, or the determination of, the President under section 203 of the Trade Act of 1974 transmitted to the Congress on \_\_\_\_\_\_.’, the blank space being filled with the appropriate date” for “does not approve \_\_\_\_\_\_ transmitted to the Congress on \_\_\_\_\_\_.’, the first blank space being filled in accordance with paragraph (2) and the second blank space being filled with the appropriate date”.
+<b>1979</b>—Subsec. (a)(1)(A). Pub. L. 96–39, §902(a)(1)(A), substituted “does not approve the action taken by, or the determination of, the President under section 203 of the Trade Act of 1974 transmitted to the Congress on \_\_\_\_\_\_.’, the blank space being filled with the appropriate date” for “does not approve \_\_\_\_\_\_ transmitted to the Congress on \_\_\_\_\_\_.’, the first blank space being filled in accordance with paragraph (2) and the second blank space being filled with the appropriate date”.
 
 Subsec. (a)(1)(B). Pub. L. 96–39, §902(a)(1)(B), substituted “paragraph (2),” for “paragraph (3),”.
 

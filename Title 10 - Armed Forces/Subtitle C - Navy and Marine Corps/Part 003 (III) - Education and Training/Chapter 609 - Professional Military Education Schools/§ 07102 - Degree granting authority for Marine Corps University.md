@@ -32,9 +32,9 @@ Board of Advisors.—The Secretary of the Navy shall establish a board of adviso
 
 #### Amendments
 
-2008—Pub. L. 110–417 amended section generally. Prior to amendment, section related to conferral of master of military studies, master of strategic studies, and master of operational studies degrees by Marine Corps University and establishment of a board of advisors.
+<b>2008</b>—Pub. L. 110–417 amended section generally. Prior to amendment, section related to conferral of master of military studies, master of strategic studies, and master of operational studies degrees by Marine Corps University and establishment of a board of advisors.
 
-2004—Subsec. (a). Pub. L. 108–375, §1084(d)(31)(A), substituted “
+<b>2004</b>—Subsec. (a). Pub. L. 108–375, §1084(d)(31)(A), substituted “
 
 Master of Military Studies” for “
 
@@ -54,9 +54,9 @@ Command and Staff College of the Marine Corps University” in heading.
 
 Subsec. (d). Pub. L. 108–375, §1084(d)(31)(D), substituted “subsections (a), (b), and (c)” for “subsections (a) and (b)”.
 
-2003—Subsecs. (c) to (e). Pub. L. 108–136 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+<b>2003</b>—Subsecs. (c) to (e). Pub. L. 108–136 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-2001—Pub. L. 107–107, §532(b)(3)(A), substituted “masters degrees; board of advisors” for “master of military studies” in section catchline.
+<b>2001</b>—Pub. L. 107–107, §532(b)(3)(A), substituted “masters degrees; board of advisors” for “master of military studies” in section catchline.
 
 Subsec. (a). Pub. L. 107–107, §532(b)(1), substituted “upon graduates of the Command and Staff College who fulfill the requirements for that degree” for “upon graduates of the college who fulfill the requirements for the degree”.
 

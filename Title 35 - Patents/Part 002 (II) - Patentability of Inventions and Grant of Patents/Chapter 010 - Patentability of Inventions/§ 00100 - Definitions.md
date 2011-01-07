@@ -24,7 +24,7 @@ Paragraphs (c) and (d) are added to avoid the use of long expressions in various
 
 #### Amendments
 
-1999—Subsec. (e). Pub. L. 106–113 added subsec. (e).
+<b>1999</b>—Subsec. (e). Pub. L. 106–113 added subsec. (e).
 
 #### Effective Date of 1999 Amendment
 

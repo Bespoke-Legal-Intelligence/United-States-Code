@@ -48,5 +48,5 @@ The date of enactment of this subsection, referred to in subsec. (c), is the dat
 
 #### Amendments
 
-2005—Pub. L. 109–59 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (d).
+<b>2005</b>—Pub. L. 109–59 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (d).
 

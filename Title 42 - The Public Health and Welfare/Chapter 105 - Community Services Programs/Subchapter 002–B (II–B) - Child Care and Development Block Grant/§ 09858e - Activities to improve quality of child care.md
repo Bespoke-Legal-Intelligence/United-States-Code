@@ -6,9 +6,9 @@ A State that receives funds to carry out this subchapter for a fiscal year, shal
 
 #### Amendments
 
-1996—Pub. L. 104–193 reenacted section catchline without change and amended text generally, substituting current provisions for provisions requiring State receiving financial assistance under this subchapter to utilize not less than 20 percent of such assistance for one or more of following: resource and referral programs, grants or loans to assist in meeting State and local standards, monitoring of compliance with licensing and regulatory requirements, training, or improving salaries or other compensation to staff.
+<b>1996</b>—Pub. L. 104–193 reenacted section catchline without change and amended text generally, substituting current provisions for provisions requiring State receiving financial assistance under this subchapter to utilize not less than 20 percent of such assistance for one or more of following: resource and referral programs, grants or loans to assist in meeting State and local standards, monitoring of compliance with licensing and regulatory requirements, training, or improving salaries or other compensation to staff.
 
-1992—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
+<b>1992</b>—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
 
 #### Effective Date of 1996 Amendment
 

@@ -5,8 +5,4 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 05611 - Landsat Program Management](%C2%A7%2005611%20-%20Landsat%20Program%20Management.md)
-- [&sect; 05612 - Procurement of Landsat 7](%C2%A7%2005612%20-%20Procurement%20of%20Landsat%207.md)
-- [&sect; 05613 - Data policy for Landsat 4 through 6](%C2%A7%2005613%20-%20Data%20policy%20for%20Landsat%204%20through%206.md)
-- [&sect; 05614 - Transfer of Landsat 6 program responsibilities](%C2%A7%2005614%20-%20Transfer%20of%20Landsat%206%20program%20responsibilities.md)
-- [&sect; 05615 - Data policy for Landsat 7](%C2%A7%2005615%20-%20Data%20policy%20for%20Landsat%207.md)
+- [&sect; 05611 to 5615 - Repealed. Pub. L. 111&#8211;314, &sect;6, Dec. 18, 2010, 124 Stat. 3444](%C2%A7%2005611%20to%205615%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93314%2C%20%C2%A76%2C%20Dec.%2018%2C%202010%2C%20124%20Stat.%203444.md)

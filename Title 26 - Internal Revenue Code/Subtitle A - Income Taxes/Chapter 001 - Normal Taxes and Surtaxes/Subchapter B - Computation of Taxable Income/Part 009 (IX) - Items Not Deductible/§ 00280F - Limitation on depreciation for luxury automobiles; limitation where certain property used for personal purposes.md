@@ -94,7 +94,7 @@
 
 #### (2) Lessee's deductions reduced
 
-&emsp;For purposes of determining the amount allowable as a deduction under this chapter for rentals or other payments under a lease for a period of 30 days or more of listed property,only the allowable percentage of such payments shall be taken into account.
+&emsp;For purposes of determining the amount allowable as a deduction under this chapter for rentals or other payments under a lease for a period of 30 days or more of listed property, only the allowable percentage of such payments shall be taken into account.
 
 #### (3) Allowable percentage
 
@@ -142,11 +142,9 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) any property of a type generally used for purposes of entertainment, recreation, or amusement,
 
-&emsp;&emsp;&emsp;(iv) any computer or peripheral equipment (as defined in section 168(i)(2)(B)),
+&emsp;&emsp;&emsp;(iv) any computer or peripheral equipment (as defined in section 168(i)(2)(B)), “and” <sup>1</sup>
 
-&emsp;&emsp;&emsp;(v) any cellular telephone (or other similar telecommunications equipment), and
-
-&emsp;&emsp;&emsp;(vi) any other property of a type specified by the Secretary by regulations.
+&emsp;&emsp;&emsp;(v) any other property of a type specified by the Secretary by regulations.
 
 #### (B) Exception for certain computers
 
@@ -254,7 +252,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations with respect to items properly included in, or excluded from, the adjusted basis of any listed property.
 
-(Added Pub. L. 98–369, div. A, title I, §179(a), July 18, 1984, 98 Stat. 713; amended Pub. L. 99–44, §4, May 24, 1985, 99 Stat. 78; Pub. L. 99–514, title II, §201(d)(4), title XVIII, §1812(e)(1)(A), (C), (2)–(5), Oct. 22, 1986, 100 Stat. 2139, 2836, 2837; Pub. L. 100–647, title I, §§1002(a)(10), (b)(2), 1018(u)(3), Nov. 10, 1988, 102 Stat. 3354, 3357, 3590; Pub. L. 101–239, title VII, §7643(a), Dec. 19, 1989, 103 Stat. 2381; Pub. L. 101–508, title XI, §11813(b)(13)(A)–(E), Nov. 5, 1990, 104 Stat. 1388–554, 1388–555; Pub. L. 104–188, title I, §1702(h)(5), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title IX, §971(a), Aug. 5, 1997, 111 Stat. 897; Pub. L. 105–206, title VI, §6009(c), July 22, 1998, 112 Stat. 812; Pub. L. 107–147, title VI, §602(b)(1), Mar. 9, 2002, 116 Stat. 59.)
+(Added Pub. L. 98–369, div. A, title I, §179(a), July 18, 1984, 98 Stat. 713; amended Pub. L. 99–44, §4, May 24, 1985, 99 Stat. 78; Pub. L. 99–514, title II, §201(d)(4), title XVIII, §1812(e)(1)(A), (C), (2)–(5), Oct. 22, 1986, 100 Stat. 2139, 2836, 2837; Pub. L. 100–647, title I, §§1002(a)(10), (b)(2), 1018(u)(3), Nov. 10, 1988, 102 Stat. 3354, 3357, 3590; Pub. L. 101–239, title VII, §7643(a), Dec. 19, 1989, 103 Stat. 2381; Pub. L. 101–508, title XI, §11813(b)(13)(A)–(E), Nov. 5, 1990, 104 Stat. 1388–554, 1388–555; Pub. L. 104–188, title I, §1702(h)(5), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title IX, §971(a), Aug. 5, 1997, 111 Stat. 897; Pub. L. 105–206, title VI, §6009(c), July 22, 1998, 112 Stat. 812; Pub. L. 107–147, title VI, §602(b)(1), Mar. 9, 2002, 116 Stat. 59; Pub. L. 111–240, title II, §2043(a), Sept. 27, 2010, 124 Stat. 2560.)
 
 #### Inflation Adjusted Items for Certain Calendar Years
 
@@ -262,17 +260,19 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-2002—Subsec. (a)(1)(C)(iii). Pub. L. 107–147 added cl. (iii).
+<b>2010</b>—Subsec. (d)(4)(A). Pub. L. 111–240 inserted “ ‘and’ ” at end of clause (iv), redesignated clause (vi) as (v), and struck out former cl. (v) which read as follows: “any cellular telephone (or other similar telecommunications equipment), and”.
 
-1998—Subsec. (a)(1)(C)(ii). Pub. L. 105–206 substituted “subparagraphs (A) and (B)” for “subparagraph (A)”.
+<b>2002</b>—Subsec. (a)(1)(C)(iii). Pub. L. 107–147 added cl. (iii).
 
-1997—Subsec. (a)(1)(C). Pub. L. 105–34 added subpar. (C).
+<b>1998</b>—Subsec. (a)(1)(C)(ii). Pub. L. 105–206 substituted “subparagraphs (A) and (B)” for “subparagraph (A)”.
 
-1996—Subsec. (a). Pub. L. 104–188 struck out “investment tax credit and” after “amount of” in heading.
+<b>1997</b>—Subsec. (a)(1)(C). Pub. L. 105–34 added subpar. (C).
 
-1990—Pub. L. 101–508, §11813(b)(13)(E), struck out “investment tax credit and” after “Limitation on” in section catchline.
+<b>1996</b>—Subsec. (a). Pub. L. 104–188 struck out “investment tax credit and” after “amount of” in heading.
 
-Subsec. (a)(1). Pub. L. 101–508, §11813(b)(13)(A)(i), redesignated par. (2) as (1) and struck out former par. (1) “Investment tax credit” which read as follows: “Theamount of the credit determined under section 46(a) for any passenger automobile shall not exceed $675.”
+<b>1990</b>—Pub. L. 101–508, §11813(b)(13)(E), struck out “investment tax credit and” after “Limitation on” in section catchline.
+
+Subsec. (a)(1). Pub. L. 101–508, §11813(b)(13)(A)(i), redesignated par. (2) as (1) and struck out former par. (1) “Investment tax credit” which read as follows: “The amount of the credit determined under section 46(a) for any passenger automobile shall not exceed $675.”
 
 Subsec. (a)(2). Pub. L. 101–508, §11813(b)(13)(A)(i), redesignated par. (3) as (2). Former par. (2) redesignated (1).
 
@@ -288,15 +288,15 @@ Subsec. (c)(1). Pub. L. 101–508, §11813(b)(13)(C), struck out “credits and�
 
 Subsec. (d)(3)(A). Pub. L. 101–508, §11813(b)(13)(D), struck out “the amount of any credit allowable under section 38 to the employee or” after “of determining”.
 
-1989—Subsec. (d)(4)(A)(v), (vi). Pub. L. 101–239 added cl. (v) and redesignated former cl. (v) as (vi).
+<b>1989</b>—Subsec. (d)(4)(A)(v), (vi). Pub. L. 101–239 added cl. (v) and redesignated former cl. (v) as (vi).
 
-1988—Subsec. (b)(3)(B)(i). Pub. L. 100–647, §1018(u)(3), substituted “depreciation deductions” for “recovery deductions”.
+<b>1988</b>—Subsec. (b)(3)(B)(i). Pub. L. 100–647, §1018(u)(3), substituted “depreciation deductions” for “recovery deductions”.
 
 Subsec. (d)(1). Pub. L. 100–647, §1002(b)(2), substituted “subsections (a) and (b), and the limitation of paragraph (3) of this subsection,” for “subsections (a) and (b)”.
 
 Subsec. (d)(3)(A). Pub. L. 100–647, §1002(a)(10), substituted “depreciation deduction” for “recovery deduction”.
 
-1986—Subsec. (a)(2)(A). Pub. L. 99–514, §201(d)(4)(A)(i), (K), substituted “depreciation deduction” for “recovery deduction” in introductory provisions and substituted cls. (i) to (iv) for former cls. (i) and (ii) which read as follows:
+<b>1986</b>—Subsec. (a)(2)(A). Pub. L. 99–514, §201(d)(4)(A)(i), (K), substituted “depreciation deduction” for “recovery deduction” in introductory provisions and substituted cls. (i) to (iv) for former cls. (i) and (ii) which read as follows:
 
 “(i) $3,200 for the first taxable year in the recovery period, and
 
@@ -338,7 +338,7 @@ Subsec. (d)(8). Pub. L. 99–514, §201(d)(4)(H), amended par. (8) generally. Pr
 
 Subsec. (d)(10). Pub. L. 99–514, §201(d)(4)(I), struck out “, notwithstanding any regulations prescribed under section 168(f)(7),” after “For purposes of subsection (a)(2)”.
 
-1985—Subsec. (a)(1). Pub. L. 99–44, §4(a)(1), substituted “$675” for “$1,000”.
+<b>1985</b>—Subsec. (a)(1). Pub. L. 99–44, §4(a)(1), substituted “$675” for “$1,000”.
 
 Subsec. (a)(2)(A)(i). Pub. L. 99–44, §4(a)(2)(A), substituted “$3,200” for “$4,000”.
 
@@ -349,6 +349,10 @@ Subsec. (d)(7)(A). Pub. L. 99–44, §4(b)(1), inserted “placed in service aft
 Subsec. (d)(7)(B)(i). Pub. L. 99–44, §4(b)(3), struck out last sentence which directed that in the case of calendar year 1984, the automobile price inflation adjustment would be zero.
 
 Subsec. (d)(7)(B)(i)(II). Pub. L. 99–44, §4(b)(2), substituted “1987” for “1983”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–240, title II, §2043(b), Sept. 27, 2010, 124 Stat. 2560, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009.”
 
 #### Effective Date of 2002 Amendment
 
@@ -364,7 +368,7 @@ Pub. L. 105–34, title IX, §971(b), Aug. 5, 1997, 111 Stat. 897, as amended by
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub.L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -440,31 +444,35 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Provisions relating to inflation adjustment of items in this section for certain calendar years were contained in the following:
 
-2009—Revenue Procedure 2009–24.
+<b>2010</b>—Revenue Procedure 2010–18.
 
-2008—Revenue Procedure 2008–22.
+<b>2009</b>—Revenue Procedure 2009–24.
 
-2007—Revenue Procedure 2007–30.
+<b>2008</b>—Revenue Procedure 2008–22.
 
-2006—Revenue Procedure 2006–18.
+<b>2007</b>—Revenue Procedure 2007–30.
 
-2005—Revenue Procedure 2005–13.
+<b>2006</b>—Revenue Procedure 2006–18.
 
-2004—Revenue Procedure 2004–20.
+<b>2005</b>—Revenue Procedure 2005–13.
 
-2003—Revenue Procedure 2003–75.
+<b>2004</b>—Revenue Procedure 2004–20.
 
-2002—Revenue Procedure 2002–14.
+<b>2003</b>—Revenue Procedure 2003–75.
 
-2001—Revenue Procedure 2001–19.
+<b>2002</b>—Revenue Procedure 2002–14.
 
-2000—Revenue Procedure 2000–18.
+<b>2001</b>—Revenue Procedure 2001–19.
 
-1999—Revenue Procedure 99–14.
+<b>2000</b>—Revenue Procedure 2000–18.
 
-1998—Revenue Procedures 98–24 and 98–30.
+<b>1999</b>—Revenue Procedure 99–14.
 
-1997—Revenue Procedure 97–20.
+<b>1998</b>—Revenue Procedures 98–24 and 98–30.
 
-1996—Revenue Procedure 96–25.
+<b>1997</b>—Revenue Procedure 97–20.
+
+<b>1996</b>—Revenue Procedure 96–25.
+
+<i><sup>1</sup></i><i> So in original. The quotation marks probably should not appear.</i>
 

@@ -6,7 +6,7 @@ In order to provide for the control and prevention of erosion and sediment damag
 
 #### (b) Conservation and development plans
 
-The landowner, including the owner of water rights, resident, or tenant shall furnish to the Secretary of Agriculture a conservation and development plan setting forth the proposed land uses and conservation treatment which shall be mutually agreed by the Secretary of Agriculture and the landowner, including owner of water rights, resident, or tenant to be needed on the lands for which the plan was prepared. In those instances where it is determined that the water rights or water supply of a tenant, landowner, including owner of water rights, resident, or tenant have been adversely affected by a surface or underground coal mine operation which has removed or disturbed a stratum so as to significantly affect the hydrologic balance, such plan may include proposed measures to enhance water quality or quantity by means of joint action with other affected landowners, including owner of water rights, residents, or tenants in consultation with appropriate State and Federal agencies.
+The landowner, including the owner of water rights, resident, or tenant shall furnish to the Secretary of Agriculture a conservation and development plan setting forth the proposed landuses and conservation treatment which shall be mutually agreed by the Secretary of Agriculture and the landowner, including owner of water rights, resident, or tenant to be needed on the lands for which the plan was prepared. In those instances where it is determined that the water rights or water supply of a tenant, landowner, including owner of water rights, resident, or tenant have been adversely affected by a surface or underground coal mine operation which has removed or disturbed a stratum so as to significantly affect the hydrologic balance, such plan may include proposed measures to enhance water quality or quantity by means of joint action with other affected landowners, including owner of water rights, residents, or tenants in consultation with appropriate State and Federal agencies.
 
 #### (c) Agreement to effect plan
 
@@ -40,17 +40,17 @@ There are authorized to be appropriated to the Secretary of Agriculture, from am
 
 #### Amendments
 
-2006—Subsec. (h). Pub. L. 109–432, §204(a), substituted “Natural Resources Conservation Service” for “Soil Conservation Service”.
+<b>2006</b>—Subsec. (h). Pub. L. 109–432, §204(a), substituted “Natural Resources Conservation Service” for “Soil Conservation Service”.
 
 Subsec. (i). Pub. L. 109–432, §204(b), added subsec. (i).
 
-1990—Subsec. (a). Pub. L. 101–508, §6012(d)(3), which directed the substitution of “(including owners” for “including owners” was executed the first time that phrase appeared to reflect the probable intent of Congress, because the parenthetical statement concluding with “water rights)” was enacted without an opening parenthesis.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §6012(d)(3), which directed the substitution of “(including owners” for “including owners” was executed the first time that phrase appeared to reflect the probable intent of Congress, because the parenthetical statement concluding with “water rights)” was enacted without an opening parenthesis.
 
 Subsec. (d). Pub. L. 101–508, §6008, struck out “experimental” before “reclamation treatment projects” in last sentence.
 
 Subsec. (i). Pub. L. 101–508, §6012(c), repealed subsec. (i) which read as follows: “Funds shall be made available to the Secretary of Agriculture for the purposes of this section, as provided in section 1231 of this title.”
 
-1981—Subsec. (d). Pub. L. 97–98 inserted provisions that notwithstanding any other provision of this section with regard to acreage limitations, the Secretary may carry out experimental reclamation treatment projects to control erosion and improve water quality on all lands within a hydrologic unit, consisting of not more than 25,000 acres, if the Secretary determines that treatment of such lands as a hydrologic unit will achieve greater reduction in the adverse effects of past surface mining practices than would be achieved if reclamation was done on individual parcels of land.
+<b>1981</b>—Subsec. (d). Pub. L. 97–98 inserted provisions that notwithstanding any other provision of this section with regard to acreage limitations, the Secretary may carry out experimental reclamation treatment projects to control erosion and improve water quality on all lands within a hydrologic unit, consisting of not more than 25,000 acres, if the Secretary determines that treatment of such lands as a hydrologic unit will achieve greater reduction in the adverse effects of past surface mining practices than would be achieved if reclamation was done on individual parcels of land.
 
 #### Effective Date of 1990 Amendment
 

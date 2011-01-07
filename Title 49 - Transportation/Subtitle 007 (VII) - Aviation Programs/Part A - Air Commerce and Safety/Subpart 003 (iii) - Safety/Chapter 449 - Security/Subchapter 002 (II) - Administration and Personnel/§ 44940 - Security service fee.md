@@ -62,7 +62,7 @@ Special rule for fiscal year 2002.—The amount of fees collected under this par
 
 (b)
 
-Schedule of Fees.—In imposing fees under subsection (a), the Under Secretary shall ensure that the fees are reasonably related to the Transportation Security Administration's costs of providing services rendered.
+Schedule of Fees.—In imposing fees under subsection (a), the Under Secretary shall ensurethat the fees are reasonably related to the Transportation Security Administration's costs of providing services rendered.
 
 (c)
 
@@ -106,7 +106,7 @@ Due date for remittance.—A fee collected under this section shall be remitted 
 
 &emsp;(4)
 
-Information.—The Under Secretary may require the provision of such information asthe Under Secretary decides is necessary to verify that fees have been collected and remitted at the proper times and in the proper amounts.
+Information.—The Under Secretary may require the provision of such information as the Under Secretary decides is necessary to verify that fees have been collected and remitted at the proper times and in the proper amounts.
 
 &emsp;(5)
 
@@ -166,13 +166,13 @@ Pub. L. 107–71, title I, §118(a), Nov. 19, 2001, 115 Stat. 625, which directe
 
 #### Amendments
 
-2007—Subsec. (a)(2)(A), (B)(iv). Pub. L. 110–161, which directed amendment of subsec. (a)(2) “by striking the period in the last sentence of subparagraph (A) and the clause (iv) of subparagraph B and adding the following, ‘except for estimates and additional collections made pursuant to the appropriation for Aviation Security in Public Law 108–334: <i>Provided,</i> That such judicial review shall be pursuant to section 46110 of title 49, United States Code: <i>Provided further,</i> That such judicial review shall be limited only to additional amounts collected by the Secretary before October 1, 2007.’ ”, was executed by substituting the quoted language directed to be added for the period at the end of last sentence of subpar. (A) and for the period at the end of cl. (iv) of subpar. (B), to reflect the probable intent of Congress.
+<b>2007</b>—Subsec. (a)(2)(A), (B)(iv). Pub. L. 110–161, which directed amendment of subsec. (a)(2) “by striking the period in the last sentence of subparagraph (A) and the clause (iv) of subparagraph B and adding the following, ‘except for estimates and additional collections made pursuant to the appropriation for Aviation Security in Public Law 108–334: <i>Provided,</i> That such judicial review shall be pursuant to section 46110 of title 49, United States Code: <i>Provided further,</i> That such judicial review shall be limited only to additional amounts collected by the Secretary before October 1, 2007.’ ”, was executed by substituting the quoted language directed to be added for the period at the end of last sentence of subpar. (A) and for the period at the end of cl. (iv) of subpar. (B), to reflect the probable intent of Congress.
 
 Subsec. (d)(4). Pub. L. 110–53, §1601(1), inserted “, other than subsection (i),” before “except to”.
 
 Subsec. (i). Pub. L. 110–53, §1601(2), added subsec. (i).
 
-2003—Subsec. (a)(1). Pub. L. 108–7 inserted at end of concluding provisions “For purposes of subparagraph (A), the term ‘Federal law enforcement personnel’ includes State and local law enforcement officers who are deputized under section 44922.”
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–7 inserted at end of concluding provisions “For purposes of subparagraph (A), the term ‘Federal law enforcement personnel’ includes State and local law enforcement officers who are deputized under section 44922.”
 
 Subsec. (a)(1)(H), (I). Pub. L. 108–176, §605(b)(1), added subpars. (H) and (I).
 
@@ -185,4 +185,8 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Deemed References to Chapters 509 and 511 of Title 51
+
+General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 

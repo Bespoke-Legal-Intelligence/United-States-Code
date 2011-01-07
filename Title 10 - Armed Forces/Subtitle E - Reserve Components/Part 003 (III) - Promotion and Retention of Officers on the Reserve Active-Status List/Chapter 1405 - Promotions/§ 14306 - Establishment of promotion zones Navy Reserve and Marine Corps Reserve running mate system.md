@@ -20,5 +20,5 @@ Provisions similar to those in subsec. (b) of this section were contained in sec
 
 #### Amendments
 
-2006—Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve” in section catchline.
+<b>2006</b>—Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve” in section catchline.
 

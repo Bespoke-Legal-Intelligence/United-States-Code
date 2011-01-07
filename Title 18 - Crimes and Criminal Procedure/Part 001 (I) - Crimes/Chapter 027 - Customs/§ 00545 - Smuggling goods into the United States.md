@@ -12,7 +12,7 @@ Merchandise introduced into the United States in violation of this section, or t
 
 The term “United States”, as used in this section, shall not include the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Island, or Guam.
 
-(June 25, 1948, ch. 645, 62 Stat. 716; Aug. 24, 1954, ch. 890, §1, 68 Stat. 782; Sept. 1, 1954, ch. 1213, title V, §507, 68 Stat. 1141; June 30, 1955, ch. 258, §2(c), 69 Stat. 242; Pub. L. 103–322, title XXXII,§320903(c), title XXXIII, §§330004(18), 330016(1)(L), Sept. 13, 1994, 108 Stat. 2125, 2142, 2147; Pub. L. 104–294, title VI, §604(b)(23), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 109–177, title III, §310, Mar. 9, 2006, 120 Stat. 242.)
+(June 25, 1948, ch. 645, 62 Stat. 716; Aug. 24, 1954, ch. 890, §1, 68 Stat. 782; Sept. 1, 1954, ch. 1213, title V, §507, 68 Stat. 1141; June 30, 1955, ch. 258, §2(c), 69 Stat. 242; Pub. L. 103–322, title XXXII, §320903(c), title XXXIII, §§330004(18), 330016(1)(L), Sept. 13, 1994, 108 Stat. 2125, 2142, 2147; Pub. L. 104–294, title VI, §604(b)(23), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 109–177, title III, §310, Mar. 9, 2006, 120 Stat. 242.)
 
 #### Historical and Revision Notes
 
@@ -34,19 +34,19 @@ Changes were made in phraseology.
 
 #### Amendments
 
-2006—Pub. L. 109–177, which directed amendment of third par. by substituting “20 years” for “5 years”, was executed by making the substitution for “five years”, to reflect the probable intent of Congress.
+<b>2006</b>—Pub. L. 109–177, which directed amendment of third par. by substituting “20 years” for “5 years”, was executed by making the substitution for “five years”, to reflect the probable intent of Congress.
 
-1996—Pub. L. 104–294 amended Pub. L. 103–322, §330004(18). See 1994 Amendment note below.
+<b>1996</b>—Pub. L. 104–294 amended Pub. L. 103–322, §330004(18). See 1994 Amendment note below.
 
-1994—Pub. L. 103–322, §330016(1)(L), substituted “fined under this title” for “fined not more than $10,000” in third par.
+<b>1994</b>—Pub. L. 103–322, §330016(1)(L), substituted “fined under this title” for “fined not more than $10,000” in third par.
 
 Pub. L. 103–322, §330004(18), as amended by Pub. L. 104–294, §604(b)(23), struck out “Philippine Islands,” before “Virgin Islands” in last par.
 
 Pub. L. 103–322, §320903(c), inserted “or attempts to smuggle or clandestinely introduce” after “clandestinely introduces” in first par.
 
-1955—Act June 30, 1955, inserted reference to Johnston Island.
+<b>1955</b>—Act June 30, 1955, inserted reference to Johnston Island.
 
-1954—Act Sept. 1, 1954, permitted forfeiture of value of merchandise imported in violation of section.
+<b>1954</b>—Act Sept. 1, 1954, permitted forfeiture of value of merchandise imported in violation of section.
 
 Act Aug. 24, 1954, increased fine from $5,000 to $10,000 and imprisonment from two years to five years.
 

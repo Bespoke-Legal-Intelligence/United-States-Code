@@ -10,7 +10,7 @@ Such assistance shall be in accordance with plans to be agreed upon in advance b
 
 The Morrill Act of July 2, 1862, as amended, referred to in text, is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 301 of Title 7 and Tables.
 
-The Hatch Act of March 2, 1887, as amended, referred to in text, is act Mar. 2, 1887, ch. 314, 24 Stat. 440, as amended, which is classified generally to sections 361a to 361i of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 361a of Title 7 and Tables.
+The Hatch Act of March 2, 1887, as amended, referred to in text, is act Mar. 2, 1887, ch. 314, 24 Stat. 440, asamended, which is classified generally to sections 361a to 361i of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 361a of Title 7 and Tables.
 
 #### Codification
 
@@ -18,9 +18,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §7412(a), inserted “and 1890 Institutions (as defined in section 7601 of title 7),” before “and (b)”.
+<b>2008</b>—Pub. L. 110–246, §7412(a), inserted “and 1890 Institutions (as defined in section 7601 of title 7),” before “and (b)”.
 
-1981—Pub. L. 97–98 inserted provision that if more than one institution within a State are certified as qualifying for assistance, then it shall be the responsibility of such institutions, in agreement with the Secretary, to develop complimentary programs of forestry research for the State.
+<b>1981</b>—Pub. L. 97–98 inserted provision that if more than one institution within a State are certified as qualifying for assistance, then it shall be the responsibility of such institutions, in agreement with the Secretary, to develop complimentary programs of forestry research for the State.
 
 #### Effective Date of 2008 Amendment
 

@@ -28,11 +28,11 @@ Another prior section 10 of Pub. L. 96–480 related to National Industrial Tech
 
 #### Amendments
 
-1991—Subsec. (d). Pub. L. 102–240 made technical amendment to reference to section 3712 of this title to reflect renumbering of corresponding section of original act.
+<b>1991</b>—Subsec. (d). Pub. L. 102–240 made technical amendment to reference to section 3712 of this title to reflect renumbering of corresponding section of original act.
 
-1988—Subsec. (d). Pub. L. 100–418, §5122(c), made technical amendment to references to sections 3705, 3707, 3710, 3710d, 3711a, and 3712 of this title to reflect renumbering of corresponding sections of original act.
+<b>1988</b>—Subsec. (d). Pub. L. 100–418, §5122(c), made technical amendment to references to sections 3705, 3707, 3710, 3710d, 3711a, and 3712 of this title to reflect renumbering of corresponding sections of original act.
 
-1987—Subsec. (d). Pub. L. 100–107 inserted reference to section 3711a of this title.
+<b>1987</b>—Subsec. (d). Pub. L. 100–107 inserted reference to section 3711a of this title.
 
-1986—Subsec. (d). Pub. L. 99–502 inserted references to sections 3710 and 3710d of this title.
+<b>1986</b>—Subsec. (d). Pub. L. 99–502 inserted references to sections 3710 and 3710d of this title.
 

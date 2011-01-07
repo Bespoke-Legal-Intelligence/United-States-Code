@@ -58,19 +58,19 @@ The date of the enactment of the Small Business Job Protection Act of 1996, refe
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–188, §1501(b)(4), (5), substituted “paragraph (2)” for “paragraphs (2) and (3)” in closing provisions, inserted “or” at end of par. (1), struck out “or” at end of par. (2), and struck out par. (3) which read as follows: “such amounts would, but for this subsection, be included under section 951(a)(1)(C) in the gross income of,”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–188, §1501(b)(4), (5), substituted “paragraph (2)” for “paragraphs (2) and (3)” in closing provisions, inserted “or” at end of par. (1), struck out “or” at end of par. (2), and struck out par. (3) which read as follows: “such amounts would, but for this subsection, be included under section 951(a)(1)(C) in the gross income of,”.
 
 Subsec. (c). Pub. L. 104–188, §1501(b)(6), inserted at end “References in this subsection to section 951(a)(1)(C) and subsection (a)(3) shall be treated as references to such provisions as in effect on the day before the date of the enactment of the Small Business Job Protection Act of 1996.”
 
 Subsec. (f)(1). Pub. L. 104–188, §1501(b)(7), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this section—
 
-&emsp;“(A) amounts that would be included under subparagraph (B) of section 951(a)(1) (determined withoutregard to this section) shall be treated as attributable first to earnings described in subsection (c)(2), and then to earnings described in subsection (c)(3), and
+&emsp;“(A) amounts that would be included under subparagraph (B) of section 951(a)(1) (determined without regard to this section) shall be treated as attributable first to earnings described in subsection (c)(2), and then to earnings described in subsection (c)(3), and
 
 &emsp;“(B) amounts that would be included under subparagraph (C) of section 951(a)(1) (determined without regard to this section) shall be treated as attributable first to earnings described in subsection (c)(2) to the extent the earnings so described were accumulated in taxable years beginning after September 30, 1993, and then to earnings described in subsection (c)(3).”
 
 Subsec. (f)(2). Pub. L. 104–188, §1501(b)(8), substituted “section 951(a)(1)(B)” for “subparagraphs (B) and (C) of section 951(a)(1)”.
 
-1993—Subsec. (a). Pub. L. 103–66, §13231(c)(2)(A), (4)(A), substituted in introductory provisions “earnings and profits” for “earnings and profits for taxable year” and inserted at end of closing provisions “The rules of subsection (c) shall apply for purposes of paragraph (1) of this subsection and the rules of subsection (f) shall apply for purposes of paragraphs (2) and (3) of this subsection.”
+<b>1993</b>—Subsec. (a). Pub. L. 103–66, §13231(c)(2)(A), (4)(A), substituted in introductory provisions “earnings and profits” for “earnings and profits for taxable year” and inserted at end of closing provisions “The rules of subsection (c) shall apply for purposes of paragraph (1) of this subsection and the rules of subsection (f) shall apply for purposes of paragraphs (2) and (3) of this subsection.”
 
 Subsec. (a)(3). Pub. L. 103–66, §13231(c)(1), added par. (3).
 
@@ -82,13 +82,13 @@ Subsec. (c)(2). Pub. L. 103–66, §13231(c)(4)(B), amended par. (2) generally. 
 
 Subsec. (f). Pub. L. 103–66, §13231(c)(2)(B), added subsec. (f).
 
-1988—Subsec. (e). Pub. L. 100–647 substituted “such person (or, in any case to which section 1248(e) applies, of the domestic corporation referred to in section 1248(e)(2)) under” for “such person under”.
+<b>1988</b>—Subsec. (e). Pub. L. 100–647 substituted “such person (or, in any case to which section 1248(e) applies, of the domestic corporation referred to in section 1248(e)(2)) under” for “such person under”.
 
-1986—Subsec. (d). Pub. L. 99–514 inserted “; except that such distributions shall immediately reduce earnings and profits”.
+<b>1986</b>—Subsec. (d). Pub. L. 99–514 inserted “; except that such distributions shall immediately reduce earnings and profits”.
 
-1984—Subsec. (e). Pub. L. 98–369 added subsec. (e).
+<b>1984</b>—Subsec. (e). Pub. L. 98–369 added subsec. (e).
 
-1976—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 1996 Amendment
 

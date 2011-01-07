@@ -20,7 +20,7 @@ Section 5 of Public Law 96–402, referred to in subsec. (b)(2), is set out as a
 
 #### Amendments
 
-1992—Subsec. (b)(3). Pub. L. 102–484 added par. (3).
+<b>1992</b>—Subsec. (b)(3). Pub. L. 102–484 added par. (3).
 
-1989—Subsec. (b). Pub. L. 101–189 inserted “the term” after “In this chapter,”.
+<b>1989</b>—Subsec. (b). Pub. L. 101–189 inserted “the term” after “In this chapter,”.
 

@@ -6,7 +6,7 @@ The Commission may investigate and ascertain the actual legitimate cost of the p
 
 #### (b) Request for inventory and cost statements
 
-Every public utility upon request shall file with the Commission on inventory of all or any part of its property and a statement of the original cost thereof, and shall keep the Commission informed regarding the cost of all additions, betterments, extensions, and new construction.
+Every public utility upon request shall file with the Commission an inventory of all or any part of its property and a statement of the original cost thereof, and shall keep the Commission informed regarding the cost of all additions, betterments, extensions, and new construction.
 
 (June 10, 1920, ch. 285, pt. II, §208, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 853.)
 

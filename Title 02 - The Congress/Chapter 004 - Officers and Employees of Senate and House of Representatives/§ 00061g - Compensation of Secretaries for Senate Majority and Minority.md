@@ -12,7 +12,7 @@ A prior section 61g, acts Aug. 5, 1955, ch. 568, 69 Stat. 502; June 27, 1956, ch
 
 1977—Pub. L. 95–26 substituted “April 1, 1977” for “July 1, 1975”. Provisions covering the compensation of the incumbent holding the office of Secretary for the Majority of the Senate on July 1, 1975, were dropped as executed. See successor provisions set out as a note below.
 
-1975—Pub. L. 94–59 increased annual rate of compensation of both Secretary for Majority of Senate and Secretary for Minority of Senate from $38,190 to $39,500 and substituted provisions excepting incumbent Secretary for Majority holding office on July 1, 1975, from mandatory payment of $39,500 rate but authorizing payment to him as long as he occupies that position at a maximum annual rate of compensation not to exceed $39,500 for provisions excepting Secretary for Majority holding office on June 15, 1974, from mandatory payment of the $38,190 rate but authorizing payment to him as long as he occupied that position at a maximum annual rate of compensation not to exceed $38,190.
+1975—Pub. L. 94–59 increased annual rate of compensation of both Secretary for Majority of Senate and Secretary for Minority of Senate from $38,190 to $39,500 and substituted provisions excepting incumbent Secretary for Majority holding office on July 1, 1975, from mandatory payment of $39,500 rate but authorizing payment to him as long as he occupies that position at a maximum annual rate of compensation not to exceed $39,500 for provisions excepting Secretary for Majorityholding office on June 15, 1974, from mandatory payment of the $38,190 rate but authorizing payment to him as long as he occupied that position at a maximum annual rate of compensation not to exceed $38,190.
 
 #### Effective Date of 1975 Amendment
 
@@ -32,7 +32,7 @@ Adjustment in compensation by Pub. L. 93–371 not to supersede order of Preside
 
 #### Increases in Compensation
 
-Increases in compensation for Senate officers and employees under authority of Federal Pay ComparabilityAct of 1970 (Pub. L. 91–656), see Salary Directives of President pro tempore of the Senate, set out as notes under section 60a–1 of this title.
+Increases in compensation for Senate officers and employees under authority of Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of President pro tempore of the Senate, set out as notes under section 60a–1 of this title.
 
 #### 1964 Increase in Gross Annual Compensation
 

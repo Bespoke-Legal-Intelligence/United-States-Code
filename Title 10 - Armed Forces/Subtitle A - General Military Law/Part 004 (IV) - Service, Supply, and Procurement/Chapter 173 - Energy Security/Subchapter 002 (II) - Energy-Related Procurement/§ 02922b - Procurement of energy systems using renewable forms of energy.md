@@ -8,7 +8,7 @@
 
 #### Amendments
 
-2006—Pub. L. 109–364, §2851(b)(2), renumbered section 2394a of this title as this section.
+<b>2006</b>—Pub. L. 109–364, §2851(b)(2), renumbered section 2394a of this title as this section.
 
 Subsec. (a). Pub. L. 109–364, §2851(b)(3)(D)(i), substituted “possible, suited” for “possible and will be cost effective, reliable, and otherwise suited” and “the jurisdiction of the Secretary, consistent with the energy performance goals and energy performance plan for the Department of Defense developed under section 2911 of this title, and supported by the special considerations specified in subsection (c) of such section” for “his jurisdiction”.
 
@@ -20,9 +20,9 @@ Subsec. (c). Pub. L. 109–364, §2851(b)(3)(D)(iii), struck out subsec. (c) whi
 
 “(2) A determination under paragraph (1) concerning whether a cost-differential can be recovered over the expected life of a system shall be made using the life-cycle cost methods and procedures established pursuant to section 544(a) of the National Energy Conservation Policy Act (42 U.S.C. 8254(a)).”
 
-1991—Subsec. (c)(2). Pub. L. 102–25 inserted “(42 U.S.C. 8254(a))” after “Policy Act”.
+<b>1991</b>—Subsec. (c)(2). Pub. L. 102–25 inserted “(42 U.S.C. 8254(a))” after “Policy Act”.
 
-1990—Subsec. (b). Pub. L. 101–510, §1322(a)(7), struck out “(1)” after “(b)” and struck out par. (2) which read as follows: “The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives not less often than every two years a report on the studies conducted pursuant to paragraph (1). Each such report shall include any findings of the Secretary with respect to the use of solar energy and other renewable forms of energy in supplying the energy needs of the Department of Defense and any recommendations of the Secretary for changes in law that may be appropriate in light of such studies.”
+<b>1990</b>—Subsec. (b). Pub. L. 101–510, §1322(a)(7), struck out “(1)” after “(b)” and struck out par. (2) which read as follows: “The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives not less often than every two years a report on the studies conducted pursuant to paragraph (1). Each such report shall include any findings of the Secretary with respect to the use of solar energy and other renewable forms of energy in supplying the energy needs of the Department of Defense and any recommendations of the Secretary for changes in law that may be appropriate in light of such studies.”
 
 Subsec. (c)(2), (3). Pub. L. 101–510, §2852(a), added par. (2) and struck out former pars. (2) and (3) which read as follows:
 
@@ -36,7 +36,7 @@ Subsec. (c)(2), (3). Pub. L. 101–510, §2852(a), added par. (2) and struck out
 
 “(3) For the purpose of any life-cycle cost analysis under this subsection, the original investment cost of the energy system using solar energy or other renewable forms of energy shall be reduced by 10 percent to reflect an allowance for an investment cost credit.”
 
-1984—Pub. L. 98–525 substituted “using” for “powered by” in section catchline.
+<b>1984</b>—Pub. L. 98–525 substituted “using” for “powered by” in section catchline.
 
 #### Submission Date for First Report
 

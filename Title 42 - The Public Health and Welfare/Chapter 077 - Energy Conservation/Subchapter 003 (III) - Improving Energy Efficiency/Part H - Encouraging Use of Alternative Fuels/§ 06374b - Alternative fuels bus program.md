@@ -16,5 +16,5 @@ For purposes of this section, the term “bus” means a vehicle which is design
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–486 substituted “alternative fuels” for “alcohol and buses capable of operating on natural gas” and “each of the various types of alternative fuel buses” for “both buses capable of operating on alcohol and buses capable of operating on natural gas”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–486 substituted “alternative fuels” for “alcohol and buses capable of operating on natural gas” and “each of the various types of alternative fuel buses” for “both buses capable of operating on alcohol and buses capable of operating on natural gas”.
 

@@ -14,7 +14,7 @@
 
 Subject to section 292s of this title, any such loans shall be made on such terms and conditions as the school may determine, but may be made only to a student—
 
-&emsp;(1) who is in need of the amount thereof to pursue a full-time course of study at the school leading to a degree of doctor of medicine, doctor of dentistry or an equivalent degree, doctor of osteopathy, bachelor of science in pharmacy or an equivalent degree, doctor of pharmacy or an equivalent degree, doctor of podiatric medicine or an equivalent degree,doctor of optometry or an equivalent degree, or doctor of veterinary medicine or an equivalent degree; and
+&emsp;(1) who is in need of the amount thereof to pursue a full-time course of study at the school leading to a degree of doctor of medicine, doctor of dentistry or an equivalent degree, doctor of osteopathy, bachelor of science in pharmacy or an equivalent degree, doctor of pharmacy or an equivalent degree, doctor of podiatric medicine or an equivalent degree, doctor of optometry or an equivalent degree, or doctor of veterinary medicine or an equivalent degree; and
 
 &emsp;(2) who, if required under section 453 of title 50, Appendix, to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section.
 
@@ -44,7 +44,7 @@ Such loans shall be repayable in equal or graduated periodic installments (with 
 
 #### (d) Cancellation of liability
 
-The liability to repay the unpaid balance of such a loan and accrued interest thereon shall be canceled upon the death of the borrower, or if the Secretary determines that he has become permanently, and totally disabled.
+The liability to repay the unpaid balance of such a loan and accrued interest thereon shall be canceled upon the death of the borrower, or ifthe Secretary determines that he has become permanently, and totally disabled.
 
 #### (e) Rate of interest
 
@@ -108,7 +108,7 @@ A prior section 722 of act July 1, 1944, was classified to section 293b of this 
 
 #### Amendments
 
-1998—Subsec. (a)(1). Pub. L. 105–392, §134(a)(1), substituted “the cost of attendance (including tuition, other reasonable educational expenses, and reasonable living costs) for that year at the educational institution attended by the student (as determined by such educational institution).” for “the sum of—
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–392, §134(a)(1), substituted “the cost of attendance (including tuition, other reasonable educational expenses, and reasonable living costs) for that year at the educational institution attended by the student (as determined by such educational institution).” for “the sum of—
 
 &emsp;“(A) the cost of tuition for such year at such school, and
 
@@ -122,7 +122,7 @@ Subsec. (j). Pub. L. 105–392, §134(a)(4), substituted “$40” for “$15”
 
 Subsec. (m). Pub. L. 105–392, §134(b)(1), added subsec. (m).
 
-1993—Subsec. (a). Pub. L. 103–43, §2014(b)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Loans from a student loan fund (established under an agreement with a school under section 292q of this title) may not exceed for any student for each school year (or its equivalent) the sum of—
+<b>1993</b>—Subsec. (a). Pub. L. 103–43, §2014(b)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Loans from a student loan fund (established under an agreement with a school under section 292q of this title) may not exceed for any student for each school year (or its equivalent) the sum of—
 
 &emsp;“(1) the cost of tuition for such year at such school, and
 

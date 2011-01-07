@@ -14,7 +14,7 @@ R.S. §5315 derived from acts July 13, 1861, ch. 3, §2, 12 Stat. 256; Mar. 3, 1
 
 #### Transfer of Functions
 
-All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise of the Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senateordered abolished, with such offices to be terminated not later than Dec. 31, 1966, by Reorg. Plan No. 1, of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. All functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
+All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise of the Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished, with such offices to be terminated not later than Dec. 31, 1966, by Reorg. Plan No. 1, of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. All functions of offices eliminated werealready vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

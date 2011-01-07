@@ -40,5 +40,5 @@ The assessment of civil penalties under this section should not require an “on
 
 #### Amendments
 
-2006—Pub. L. 109–241 substituted “this subtitle or subtitle VII” for “this subtitle” in two places in subsec. (a) and in one place in subsec. (b).
+<b>2006</b>—Pub. L. 109–241 substituted “this subtitle or subtitle VII” for “this subtitle” in two places in subsec. (a) and in one place in subsec. (b).
 

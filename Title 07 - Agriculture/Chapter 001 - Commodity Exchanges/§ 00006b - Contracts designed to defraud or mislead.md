@@ -30,7 +30,25 @@ Nothing in this section or in any other section of this chapter shall be constru
 
 Nothing in this section shall apply to any activity that occurs on a board of trade, exchange, or market, or clearinghouse for such board of trade, exchange, or market, located outside the United States, or territories or possessions of the United States, involving any contract of sale of a commodity for future delivery that is made, or to be made, on or subject to the rules of such board of trade, exchange, or market.
 
-(Sept. 21, 1922, ch. 369, §4b, as added June 15, 1936, ch. 545, §5, 49 Stat. 1493; amended Pub. L. 90–258, §5, Feb. 19, 1968, 82 Stat. 27; Pub. L. 93–463, title IV, §405, Oct. 23, 1974, 88 Stat. 1413; Pub. L. 99–641, title I, §101, Nov. 10, 1986, 100 Stat. 3557; Pub. L. 102–546, title IV, §402(3), Oct. 28, 1992, 106 Stat. 3624; Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–407; Pub. L. 110–234, title XIII, §13102, May 22, 2008, 122 Stat. 1432; Pub. L. 110–246, §4(a), title XIII, §13102, June 18, 2008, 122 Stat. 1664, 2194.)
+(Sept. 21, 1922, ch. 369, §4b, as added June 15, 1936, ch. 545, §5, 49 Stat. 1493; amended Pub. L. 90–258, §5, Feb. 19, 1968, 82 Stat. 27; Pub. L. 93–463, title IV, §405, Oct. 23, 1974, 88 Stat. 1413; Pub. L. 99–641, title I, §101, Nov. 10, 1986, 100 Stat. 3557; Pub. L. 102–546, title IV, §402(3), Oct. 28, 1992, 106 Stat. 3624; Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–407; Pub. L. 110–234, title XIII, §13102, May 22, 2008, 122 Stat. 1432; Pub. L. 110–246, §4(a), title XIII, §13102, June 18, 2008, 122 Stat. 1664, 2194; Pub. L. 111–203, title VII, §741(b)(1), July 21, 2010, 124 Stat. 1730.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title VII, §§741(b)(1), 754, July 21, 2010, 124 Stat. 1730, 1754, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, this section is amended as follows:</i>
+
+<i>(1) in subsection (a)(2), by striking “or other agreement, contract, or transaction subject to paragraphs (1) and (2) of section 7a(g) of this title,” and inserting “or swap,”;</i>
+
+<i>(2) in subsection (b), by striking “or other agreement, contract or transaction subject to paragraphs (1) and (2) of section 7a(g) of this title,” and inserting “or swap,”; and</i>
+
+<i>(3) by adding at the end the following new subsection:</i>
+
+<i>(e) It shall be unlawful for any person, directly or indirectly, by the use of any means or instrumentality of interstate commerce, or of the mails, or of any facility of any registered entity, in or in connection with any order to make, or the making of, any contract of sale of any commodity for future delivery (or option on such a contract), or any swap, on a group or index of securities (or any interest therein or based on the value thereof)—</i>
+
+&emsp;<i>(1) to employ any device, scheme, or artifice to defraud;</i>
+
+&emsp;<i>(2) to make any untrue statement of a material fact or to omit to state a material fact necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading; or</i>
+
+&emsp;<i>(3) to engage in any act, practice, or course of business which operates or would operate as a fraud or deceit upon any person.</i>
 
 #### Codification
 
@@ -46,9 +64,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 1986—Pub. L. 99–641 struck out “on or subject to the rules of any contract market,” after “to be made” in cl. (2) of first par. and added concluding paragraph that this section not apply to activity on board of trade, exchange, market, or clearinghouse located outside United States involving contract of sale of commodity for future delivery.
 
-1974—Pub. L. 93–463 substituted “a commodity” for “cotton” in provisions following subpar. (D) and inserted requirement that execution of buying and selling orders for commodities held simultaneously by thesame merchant or broker be carried out in accordance with such rules and regulations as the Commission may promulgate regarding the manner of the execution of such transactions.
+1974—Pub. L. 93–463 substituted “a commodity” for “cotton” in provisions following subpar. (D) and inserted requirement that execution of buying and selling orders for commodities held simultaneously by the same merchant or broker be carried out in accordance with such rules and regulations as the Commission may promulgate regarding the manner of the execution of such transactions.
 
 1968—Pub. L. 90–258 relocated cl. (1) designation in first par. to follow “unlawful” rather than to precede “any contract of sale”, provided in such cl. (1) for orders to make or making of contracts of sale “made, or to be made on or subject to the rules of any contract market, for or on behalf of any other person” and in cl. (2) “for any person, in or in connection with any order to make, or the making of,” any contract of sale of any commodity for future delivery for or on behalf of any “other” person; and inserted “other” before “person” in subpar. (A) and in subpars. (B) and (C) where appearing for first time, respectively.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 #### Effective Date of 2008 Amendment
 

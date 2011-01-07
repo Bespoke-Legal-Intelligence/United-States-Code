@@ -70,7 +70,7 @@ In carrying out this section, the Secretary shall require cost-sharing in accord
 
 #### (2) Initial evaluation
 
-&emsp;Each grantee under this section shall be evaluated during its third year of operationunder procedures established by the Secretary to determine if the grantee is accomplishing the purposes of this section described in subsection (a). The Secretary shall terminate any grant that does not receive a positive evaluation. If an evaluation is positive, the Secretary may extend the grant for 3 additional years beyond the original term of the grant.
+&emsp;Each grantee under this section shall be evaluated during its third year of operation under procedures established by the Secretary to determine if the grantee is accomplishing the purposes of this section described in subsection (a). The Secretary shall terminate any grant that does not receive a positive evaluation. If an evaluation is positive, the Secretary may extend the grant for 3 additional years beyond the original term of the grant.
 
 #### (3) Additional extension
 
@@ -116,7 +116,7 @@ For purposes of this section:
 
 #### (i) Authorization of appropriations
 
-In addition to amounts otherwise authorized to be appropriated in section 16191 of this title, there are authorized to be appropriated for the program under this section such sums as may be appropriated.
+In addition to amounts otherwise authorized to be appropriated in section 16191 of this title, there are authorized to be appropriated for theprogram under this section such sums as may be appropriated.
 
 (Pub. L. 109–58, title IX, §917, Aug. 8, 2005, 119 Stat. 863; Pub. L. 110–229, title VI, §601, May 8, 2008, 122 Stat. 850.)
 
@@ -130,5 +130,5 @@ May 8, 2008, referred to in subsec. (a), was in the original “the date of enac
 
 #### Amendments
 
-2008—Pub. L. 110–229 amended section generally. Prior to amendment, section related to grants for the establishment of a network of Advanced Energy Efficiency Technology Transfer Centers.
+<b>2008</b>—Pub. L. 110–229 amended section generally. Prior to amendment, section related to grants for the establishment of a network of Advanced Energy Efficiency Technology Transfer Centers.
 

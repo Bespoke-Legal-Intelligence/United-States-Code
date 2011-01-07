@@ -12,7 +12,7 @@ The Congress finds the following:
 
 &emsp;(5) Among the threats to the Asian elephant in addition to habitat loss are population fragmentation, human-elephant conflict, poaching for ivory, meat, hide, bones and teeth, and capture for domestication.
 
-&emsp;(6) To reduce, remove, or otherwise effectively address these threats to the long-term viability of populations of Asian elephants in the wild will require the joint commitment and effort of nations within the range of Asian elephants, the United States and other countries, and the private sector.
+&emsp;(6) To reduce, remove, or otherwise effectively address these threats to the long-term viability of populations of Asian elephants in the wild will require the joint commitmentand effort of nations within the range of Asian elephants, the United States and other countries, and the private sector.
 
 (Pub. L. 105–96, §2, Nov. 19, 1997, 111 Stat. 2150.)
 

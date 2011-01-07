@@ -82,11 +82,11 @@ A person described in subsection (a) of this section shall be subject to liabili
 
 If an employer ceases operations at a facility in any location and, as a result of such cessation of operations, more than 20 percent of the total number of his employees who are participants under a plan established and maintained by him are separated from employment, the employer shall be treated with respect to that plan as if he were a substantial employer under a plan under which more than one employer makes contributions and the provisions of sections 1363, 1364, and 1365 of this title shall apply.
 
-(Pub. L. 93–406, title IV, §4062, Sept. 2, 1974, 88 Stat. 1029; Pub. L. 95–598, title III, §321(b), Nov. 6, 1978, 92 Stat. 2678; Pub. L. 96–364, title IV, §403(g), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §11011(a), (b), Apr. 7, 1986, 100 Stat. 253, 257; Pub. L. 100–203, title IX, §9312(b)(1), (2)(A), (B)(ii), Dec. 22, 1987, 101 Stat. 1330–361; Pub. L. 101–239, title VII, §§7881(f)(2), (10)(A), (B), 7891(a)(1), Dec. 19, 1989, 103 Stat. 2440, 2441, 2445; Pub. L. 109–280, title I, §107(b)(4), Aug. 17, 2006, 120 Stat. 819.)
+(Pub. L. 93–406, title IV, §4062, Sept. 2, 1974, 88 Stat. 1029; Pub. L. 95–598, title III, §321(b), Nov. 6, 1978, 92 Stat. 2678; Pub. L. 96–364, title IV, §403(g), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §11011(a), (b), Apr. 7, 1986, 100 Stat. 253, 257; Pub. L. 100–203, title IX, §9312(b)(1), (2)(A), (B)(ii), Dec. 22, 1987, 101 Stat. 1330–361; Pub. L. 101–239, title VII, §§7881(f)(2), (10)(A), (B), 7891(a)(1), Dec. 19, 1989, 103 Stat. 2440, 2441, 2445; Pub. L. 109–280, title I, §108(b)(4), formerly §107(b)(4), Aug. 17, 2006, 120 Stat. 819, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297.)
 
 #### Amendments
 
-2006—Subsec. (c)(1) to (3). Pub. L. 109–280 added pars. (1) and (2) and struck out former pars. (1) to (3) which read as follows:
+<b>2006</b>—Subsec. (c)(1) to (3). Pub. L. 109–280 added pars. (1) and (2) and struck out former pars. (1) to (3) which read as follows:
 
 “(1) the outstanding balance of the accumulated funding deficiencies (within the meaning of section 1082(a)(2) of this title and section 412(a) of title 26) of the plan (if any) (which, for purposes of this subparagraph, shall include the amount of any increase in such accumulated funding deficiencies of the plan which would result if all pending applications for waivers of the minimum funding standard under section 1083 of this title or section 412(d) of title 26 and for extensions of the amortization period under section 1084 of this title or section 412(e) of title 26 with respect to such plan were denied and if no additional contributions (other than those already made by the termination date) were made for the plan year in which the termination date occurs or for any previous plan year),
 
@@ -94,7 +94,7 @@ If an employer ceases operations at a facility in any location and, as a result 
 
 “(3) the outstanding balance of the amount of decreases in the minimum funding standard allowed before such date under section 1084 of this title or section 412(e) of title 26 (if any),”.
 
-1989—Subsec. (a). Pub. L. 101–239, §7881(f)(2), inserted “and” at end of par. (1), redesignated par. (3) as (2), substituted “subsection (c)” for “subsection (d)”, and struck out former par. (2) which read as follows: “liability to the trust established pursuant to section 1341(c)(3)(B)(ii) or (iii) of this title or section 1342(i) of this title, to the extent provided in subsection (c) of this section, and”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7881(f)(2), inserted “and” at end of par. (1), redesignated par. (3) as (2), substituted “subsection (c)” for “subsection (d)”, and struck out former par. (2) which read as follows: “liability to the trust established pursuant to section 1341(c)(3)(B)(ii) or (iii) of this title or section 1342(i) of this title, to the extent provided in subsection (c) of this section, and”.
 
 Subsec. (b)(2)(B). Pub. L. 101–239, §7881(f)(10)(A), substituted “so much of the liability under paragraph (1)(A) as exceeds 30 percent of the collective net worth of all persons described in subsection (a) of this section (including interest)” for “the liability under paragraph (1)(A)(ii)”.
 
@@ -102,7 +102,7 @@ Subsecs. (c)(1), (d)(2)(B). Pub. L. 101–239, §7891(a)(1), substituted “Inte
 
 Subsec. (d)(3). Pub. L. 101–239, §7881(f)(10)(B), amended Pub. L. 100–203, §9312(b)(2)(B)(ii), see 1987 Amendment note below.
 
-1987—Subsec. (b)(1)(A). Pub. L. 100–203, §9312(b)(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Except as provided in subparagraph (B), the liability to the corporation of a person described in subsection (a) of this section shall consist of the sum of—
+<b>1987</b>—Subsec. (b)(1)(A). Pub. L. 100–203, §9312(b)(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Except as provided in subparagraph (B), the liability to the corporation of a person described in subsection (a) of this section shall consist of the sum of—
 
 &emsp;“(i) the lesser of—
 
@@ -128,7 +128,7 @@ Subsec. (d)(3). Pub. L. 100–203, §9312(b)(2)(B)(ii), as amended by Pub. L. 10
 
 Subsecs. (e), (f). Pub. L. 100–203, §9312(b)(1)(B), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-1986—Pub. L. 99–272, §11011(a)(2), substituted “Liability for termination of single-employer plans under a distress termination or a termination by the corporation” for “Liability of employer” in section catchline.
+<b>1986</b>—Pub. L. 99–272, §11011(a)(2), substituted “Liability for termination of single-employer plans under a distress termination or a termination by the corporation” for “Liability of employer” in section catchline.
 
 Subsec. (a). Pub. L. 99–272, §11011(a)(2), added subsec. (a) specifying persons liable and the nature and extent of liability and struck out former subsec. (a) specifying employers covered.
 
@@ -142,13 +142,13 @@ Subsec. (e). Pub. L. 99–272, §11011(a), added subsec. (e) and redesignated fo
 
 Subsec. (f). Pub. L. 99–272, §11011(a)(1), (b), redesignated former subsec. (e) as (f), and substituted in heading “Treatment of substantial cessation of operations” for “Cessation of operations at one facility”.
 
-1980—Subsec. (a). Pub. L. 96–364 substituted “single-employee plan” for “plan (other than a multiemployer plan)”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–364 substituted “single-employee plan” for “plan (other than a multiemployer plan)”.
 
-1978—Subsec. (c)(2). Pub. L. 95–598 substituted “title 11” and “a debtor in a case under chapter 7 of such title” for “the Bankruptcy Act” and “the subject of a proceeding under that Act”, respectively.
+<b>1978</b>—Subsec. (c)(2). Pub. L. 95–598 substituted “title 11” and “a debtor in a case under chapter 7 of such title” for “the Bankruptcy Act” and “the subject of a proceeding under that Act”, respectively.
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–280 applicable to plan years beginning after 2007, see section 107(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
+Amendment by Pub. L. 109–280 applicable to plan years beginning after 2007, see section 108(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 #### Special Delayed Payment Rule
 

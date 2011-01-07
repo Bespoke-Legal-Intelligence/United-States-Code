@@ -66,7 +66,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Any eligible commodity that is procured for a field-based project carried out under subsection (b)(2) shall be procured through any approach or methodology that the Secretary considers to be an effective approach or methodology to provide adequate information regarding the manner by which to expedite, to the maximum extent practicable, the provision of food aid to affected populations without significantly increasing commodity costs for low-income consumers who procure commodities sourced from the same markets at which the eligible commodity is procured.
+&emsp;Any eligible commodity that is procured for a field-based project carried out under subsection (b)(2) shall be procured through any approach or methodology that the Secretaryconsiders to be an effective approach or methodology to provide adequate information regarding the manner by which to expedite, to the maximum extent practicable, the provision of food aid to affected populations without significantly increasing commodity costs for low-income consumers who procure commodities sourced from the same markets at which the eligible commodity is procured.
 
 #### (2) Requirements
 
@@ -234,7 +234,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(V) implementation costs; and
 
-&emsp;&emsp;&emsp;(iv) to the extent adequate information is available (including the results of the report required under subsection (b)(1)(B)),a comparison of the different methodologies used by other donor countries to make local and regional procurements.
+&emsp;&emsp;&emsp;(iv) to the extent adequate information is available (including the results of the report required under subsection (b)(1)(B)), a comparison of the different methodologies used by other donor countries to make local and regional procurements.
 
 #### (C) Independent third party access to records and reports
 

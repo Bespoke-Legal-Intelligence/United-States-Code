@@ -8,9 +8,9 @@
 
 #### Amendments
 
-1994—Pub. L. 103–296 amended section generally, substituting present provisions for former provisions relating to a Commissioner for Social Security in the Federal Security Agency.
+<b>1994</b>—Pub. L. 103–296 amended section generally, substituting present provisions for former provisions relating to a Commissioner for Social Security in the Federal Security Agency.
 
-1950—Act Aug. 28, 1950, amended section generally to provide for the appointment of a Commissioner of Social Security.
+<b>1950</b>—Act Aug. 28, 1950, amended section generally to provide for the appointment of a Commissioner of Social Security.
 
 #### Effective Date of 1994 Amendment
 
@@ -92,7 +92,7 @@ Office space.—Notwithstanding section 7 of the Public Buildings Act of 1959 (4
 
 Inter-Agency Transfer Arrangement.—The Secretary of Health and Human Services and the Commissioner of Social Security shall enter into a written inter-agency transfer arrangement (in this subsection referred to as the ‘arrangement’), which shall be effective March 31, 1995. Transfers made pursuant to this section shall be in accordance with the arrangement, which shall specify the personnel and resources to be transferred as provided under this section. The terms of such arrangement shall be transmitted not later than January 1, 1995, to the Committee on Ways and Means of the House of Representatives, to the Committee on Finance of the Senate, and to the Comptroller General of the United States. Not later than February 15, 1995, the Comptroller General shall submit a report to each such Committee setting forth an evaluation of such arrangement.”
 
-\[Section 105(a)–(b)(3) of Pub. L. 103–296, set out above, effective Mar. 31, 1995, and section 105(b)(4), (c) of Pub. L. 103–296, set out above, effective Aug. 15, 1994, see section 110(a), (c) of Pub. L. 103–296, set out as an Effective Date of 1994 Amendment note under section 401 of this title.\]
+\[Section 105(a)–(b)(3) of Pub. L. 103–296, set out above, effective Mar. 31, 1995, and section 105(b)(4), (c) of Pub.L. 103–296, set out above, effective Aug. 15, 1994, see section 110(a), (c) of Pub. L. 103–296, set out as an Effective Date of 1994 Amendment note under section 401 of this title.\]
 
 #### Transition Rules
 
@@ -108,7 +108,7 @@ Appointment of initial commissioner of social security.—The President shall no
 
 &emsp;“(2)
 
-Assumption of office of initial commissioner before effective date of new agency.—If the appointment of the initial Commissioner of Social Security pursuant to section 702 of the Social SecurityAct \[section 902 of this title\] (as amended by this Act) is confirmed by the Senate pursuant to such section 702 before March 31, 1995, the individual shall take office as Commissioner immediately upon confirmation, and, until March 31, 1995, such Commissioner shall perform the functions of the Commissioner of Social Security in the Department of Health and Human Services.
+Assumption of office of initial commissioner before effective date of new agency.—If the appointment of the initial Commissioner of Social Security pursuant to section 702 of the Social Security Act \[section 902 of this title\] (as amended by this Act) is confirmed by the Senate pursuant to such section 702 before March 31, 1995, the individual shall take office as Commissioner immediately upon confirmation, and, until March 31, 1995, such Commissioner shall perform the functions of the Commissioner of Social Security in the Department of Health and Human Services.
 
 &emsp;“(3)
 
@@ -146,7 +146,7 @@ Continuation of Orders, Determinations, Rules, Regulations, Etc.—All orders, d
 
 “(c)
 
-Continuation of Proceedings.—The provisions of this title (including the amendments made thereby) shall not affect any proceeding pending before the Secretary of Health and Human Services immediately before March 31, 1995, with respect to functions vested (by reason of this title, the amendments made thereby, and regulations prescribed thereunder) in the Commissioner of Social Security, except that such proceedings, to the extent that such proceedings relate to such functions, shall continue before such Commissioner. Orders shall be issued under any such proceeding, appeals taken therefrom, and payments shall be made pursuant to such orders, in like manner as if this title had not been enacted, and orders issued in any such proceeding shall continue in effect until modified, terminated, superseded, or repealed by such Commissioner, by a court of competent jurisdiction, or by operation of law.
+Continuation of Proceedings.—The provisions of this title (including the amendments made thereby) shall not affect any proceeding pending before the Secretary of Health and Human Services immediately before March 31, 1995, with respect to functions vested (by reason of this title, the amendments made thereby, and regulations prescribed thereunder) in the Commissioner of Social Security, except that such proceedings, to the extent that such proceedings relate to such functions, shall continue before such Commissioner. Orders shall be issued under any such proceeding, appeals taken therefrom, and payments shall be made pursuantto such orders, in like manner as if this title had not been enacted, and orders issued in any such proceeding shall continue in effect until modified, terminated, superseded, or repealed by such Commissioner, by a court of competent jurisdiction, or by operation of law.
 
 “(d)
 
@@ -156,7 +156,7 @@ Continuation of Suits.—Except as provided in this subsection—
 
 &emsp;“(2) in all such suits proceedings shall be had, appeals taken, and judgments rendered, in the same manner and effect as if this title had not been enacted.
 
-> No cause of action, and no suit, action, or other proceeding commenced by or against any officer in such officer's official capacity as an officer of the Department of Health and Human Services, shall abate by reason of the enactment of this title. In any suit, action, or other proceeding pending immediately before March 31, 1995, the court or hearing officer may at any time, on the motion of the court or hearing officer or that ofa party, enter an order which will give effect to the provisions of this subsection (including, where appropriate, an order for substitution of parties).
+> No cause of action, and no suit, action, or other proceeding commenced by or against any officer in such officer's official capacity as an officer of the Department of Health and Human Services, shall abate by reason of the enactment of this title. In any suit, action, or other proceeding pending immediately before March 31, 1995, the court or hearing officer may at any time, on the motion of the court or hearing officer or that of a party, enter an order which will give effect to the provisions of this subsection (including, where appropriate, an order for substitution of parties).
 
 “(e)
 

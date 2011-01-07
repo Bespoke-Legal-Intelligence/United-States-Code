@@ -140,7 +140,7 @@ The Homeland Security Act of 2002, referred to in subsecs. (a) and (b)(1), is Pu
 
 #### Amendments
 
-2002—Pub. L. 107–296 amended catchline and text generally. Prior to amendment, text read as follows:
+<b>2002</b>—Pub. L. 107–296 amended catchline and text generally. Prior to amendment, text read as follows:
 
 “(a)
 

@@ -15,9 +15,7 @@ Another prior subpart A, consisting of sections 5081 to 5084 of this title, rela
 
 #### Amendments
 
-2005—Pub. L. 109–59, title XI, §11125(b)(2), Aug. 10, 2005, 119 Stat. 1953, redesignated subpart C of this part as this subpart.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to subpart heading.</i>
+<b>2005</b>—Pub. L. 109–59, title XI, §11125(b)(2), Aug. 10, 2005, 119 Stat. 1953, redesignated subpart C of this part as this subpart.
 
 
 ---

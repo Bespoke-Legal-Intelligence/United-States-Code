@@ -2,7 +2,7 @@
 
 #### (a) Program authorized
 
-The Secretary, acting through the Administrator of the Substance Abuse and MentalHealth Services Administration, and in consultation with the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Director of the Bureau of Justice Assistance and the Director of the National Institutes of Health—
+The Secretary, acting through the Administrator of the Substance Abuse and Mental Health Services Administration, and in consultation with the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Director of the Bureau of Justice Assistance and the Director of the National Institutes of Health—
 
 &emsp;(1) shall award grants or contracts to public or nonprofit private entities to establish not more than four research, training, and technical assistance centers to carry out the activities described in subsection (c) of this section; and
 
@@ -10,7 +10,7 @@ The Secretary, acting through the Administrator of the Substance Abuse and Menta
 
 #### (b) Application
 
-A public or private nonprofit entity desiring a grant or contract under subsection (a) of this section shall prepare and submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+A public or private nonprofit entity desiring a grant or contract under subsection (a) of thissection shall prepare and submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (c) Authorized activities
 
@@ -62,7 +62,7 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (c)(3), is P
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–355, §3(a)(1), substituted dash for comma after “National Institutes of Health”, designated remainder of existing provisions as par. (1), substituted “; and” for period, and added par. (2).
+<b>2004</b>—Subsec. (a). Pub. L. 108–355, §3(a)(1), substituted dash for comma after “National Institutes of Health”, designated remainder of existing provisions as par. (1), substituted “; and” for period, and added par. (2).
 
 Subsec. (c). Pub. L. 108–355, §3(a)(2), substituted “(a)(1)” for “(a)” in introductory provisions.
 

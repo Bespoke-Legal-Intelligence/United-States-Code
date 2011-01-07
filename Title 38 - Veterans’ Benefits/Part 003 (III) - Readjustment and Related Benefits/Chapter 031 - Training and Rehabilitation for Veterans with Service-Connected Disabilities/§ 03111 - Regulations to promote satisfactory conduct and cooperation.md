@@ -1,6 +1,6 @@
 ### §3111. Regulations to promote satisfactory conduct and cooperation
 
-The Secretary shall prescribe such rules and regulations as the Secretary determines necessary to promote satisfactory conduct and cooperation on the part of veterans who are pursuing rehabilitation programs under this chapter. In any case in which the Secretary determines that a veteran has failed to maintain satisfactory conduct or cooperation, the Secretary may, after determining that all reasonable counseling efforts have been made and are not reasonably likely to be effective, discontinue services and assistance unless the Secretary determines that mitigating circumstances exist. In any case in which such services and assistance have been discontinued, the Secretary may reinstitute such services and assistance only if the Secretary determines that—
+The Secretary shall prescribe such rules and regulations as the Secretary determines necessary to promote satisfactory conduct and cooperation on the part of veterans who are pursuing rehabilitation programs under this chapter. In any case in which the Secretary determines that a veteran has failed to maintain satisfactory conduct or cooperation, the Secretary may, after determining that all reasonable counseling efforts have been made and are not reasonably likely to be effective, discontinue services and assistance unless the Secretary determines that mitigating circumstances exist. In any case in which such services and assistance have been discontinued, the Secretary may reinstitutesuch services and assistance only if the Secretary determines that—
 
 &emsp;(1) the cause of the unsatisfactory conduct or cooperation of such veteran has been removed; and
 
@@ -14,9 +14,9 @@ Prior section 3111 was renumbered section 5311 of this title.
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 1511 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1511 of this title as this section.
 
-1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
 #### Effective Date
 

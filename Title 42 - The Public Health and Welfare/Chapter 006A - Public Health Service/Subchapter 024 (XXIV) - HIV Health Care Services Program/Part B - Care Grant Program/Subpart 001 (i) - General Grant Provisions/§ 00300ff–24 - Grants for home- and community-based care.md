@@ -8,7 +8,7 @@ A State may use amounts provided under a grant awarded under section 300ff–21 
 
 &emsp;(2) provide outreach services to individuals with HIV/AIDS, including those individuals in rural areas; and
 
-&emsp;(3) provide for the coordination of the provision of services under this section with theprovision of HIV-related health services, including specialty care and vaccinations for hepatitis co-infection, provided by public and private entities.
+&emsp;(3) provide for the coordination of the provision of services under this section with the provision of HIV-related health services, including specialty care and vaccinations for hepatitis co-infection, provided by public and private entities.
 
 #### (b) Priority
 
@@ -52,9 +52,9 @@ A prior section 2614 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-2009—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+<b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
 Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease” wherever appearing.
 

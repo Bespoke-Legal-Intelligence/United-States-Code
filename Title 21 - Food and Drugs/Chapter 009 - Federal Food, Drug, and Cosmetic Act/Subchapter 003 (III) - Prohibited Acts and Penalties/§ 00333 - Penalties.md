@@ -4,7 +4,7 @@
 
 (1) Any person who violates a provision of section 331 of this title shall be imprisoned for not more than one year or fined not more than $1,000, or both.
 
-(2) Notwithstanding the provisions of paragraph (1) of this section,<sup>1</sup> if any person commits such a violation after a conviction of him under this section has become final, or commits such a violation with the intent to defraud or mislead, such person shall be imprisoned for notmore than three years or fined not more than $10,000, or both.
+(2) Notwithstanding the provisions of paragraph (1) of this section,<sup>1</sup> if any person commits such a violation after a conviction of him under this section has become final, or commits such a violation with the intent to defraud or mislead, such person shall be imprisoned for not more than three years or fined not more than $10,000, or both.
 
 #### (b) Prescription drug marketing violations
 
@@ -46,7 +46,7 @@
 
 #### (c) Exceptions in certain cases of good faith, etc.
 
-No person shall be subject to the penalties of subsection (a)(1) of this section, (1) for having received in interstate commerce any article and delivered it or proffered delivery of it, if such delivery or proffer was made in good faith, unless he refuses to furnish on request of an officer or employee duly designated by the Secretary the name and address of the person from whom he purchased or received such article and copies of all documents, if any there be, pertaining to the delivery of the article to him; or (2) for having violated section 331(a) or (d) of this title, if he establishes a guaranty or undertaking signed by, and containing the name and address of, the person residing in the United States from whom he received in good faith the article, to the effect, in case of an alleged violation of section 331(a) of this title, that such article is not adulterated or misbranded, within the meaning of this chapter designating this chapter or to the effect, in case of an alleged violation of section 331(d) of this title, that such article is not an article which may not, under the provisions of section 344 or 355 of this title, be introduced intointerstate commerce; or (3) for having violated section 331(a) of this title, where the violation exists because the article is adulterated by reason of containing a color additive not from a batch certified in accordance with regulations promulgated by the Secretary under this chapter, if such person establishes a guaranty or undertaking signed by, and containing the name and address of, the manufacturer of the color additive, to the effect that such color additive was from a batch certified in accordance with the applicable regulations promulgated by the Secretary under this chapter; or (4) for having violated section 331(b), (c) or (k) of this title by failure to comply with section 352(f) of this title in respect to an article received in interstate commerce to which neither section 353(a) nor 353(b)(1) of this title is applicable, if the delivery or proffered delivery was made in good faith and the labeling at the time thereof contained the same directions for use and warning statements as were contained in the labeling at the time of such receipt of such article; or (5) for having violated section 331(i)(2) of this title if such person acted in good faith and had no reason to believe that use of the punch, die, plate, stone, or other thing involved would result in a drug being a counterfeit drug, or for having violated section 331(i)(3) of this title if the person doing the act or causing it to be done acted in good faith and had no reason to believe that the drug was a counterfeit drug.
+No person shall be subject to the penalties of subsection (a)(1) of this section, (1) for having received in interstate commerce any article and delivered it or proffered delivery of it, if such delivery or proffer was made in good faith, unless he refuses to furnish on request of an officer or employee duly designated by the Secretary the name and address of the person from whom he purchased or received such article and copies of all documents, if any there be, pertaining to the delivery of the article to him; or (2) for having violated section 331(a) or (d) of this title, if he establishes a guaranty or undertaking signed by, and containing the name and address of, the person residing in the United States from whom he received in good faith the article, to the effect, in case of an alleged violation of section 331(a) of this title, that such article is not adulterated or misbranded, within the meaning of this chapter designating this chapter or to the effect, in case of an alleged violation of section 331(d) of this title, that such article is not an article which may not, under the provisions of section 344 or 355 of this title, be introduced into interstate commerce; or (3) for having violated section 331(a) of this title, where the violation exists because the article is adulterated by reason of containing a color additive not from a batch certified in accordance with regulations promulgated by the Secretary under this chapter, if such person establishes a guaranty or undertaking signed by, and containing the name and address of, the manufacturer of the color additive, to the effect that such color additive was from a batch certified in accordance with the applicable regulations promulgated by the Secretary under this chapter; or (4) for having violated section 331(b), (c) or (k) of this title by failure to comply with section 352(f) of this title in respect to an article received in interstate commerce to which neither section 353(a) nor 353(b)(1) of this title is applicable, if the delivery or proffered delivery was made in good faith and the labeling at the time thereof contained the same directions for use and warning statements as were contained in the labeling at the time of such receipt of such article; or (5) for having violated section 331(i)(2) of this title if such person acted in good faith and had no reason to believe that use of the punch, die, plate, stone, or other thing involved would result in a drug being a counterfeit drug, or for having violated section 331(i)(3) of this title if the person doing the act or causing it to be done acted in good faith and had no reason to believe that the drug was a counterfeit drug.
 
 #### (d) Exceptions involving misbranded food
 
@@ -54,7 +54,7 @@ No person shall be subject to the penalties of subsection (a)(1) of this section
 
 #### (e) Prohibited distribution of human growth hormone
 
-(1) Except as provided in paragraph (2), whoever knowingly distributes, or possesses with intent to distribute, human growth hormone for any use in humans other than the treatment of a disease or other recognized medical condition, where such use has been authorized by the Secretary of Health and Human Services under section 355 of this title and pursuant to the order of a physician, is guilty of an offense punishable by not more than 5 years in prison, such fines as are authorized by title 18, or both.
+(1) Except as provided in paragraph (2), whoever knowingly distributes, or possesses with intent to distribute, human growth hormone for any use in humans other than the treatment of a disease or other recognized medical condition, where such use has been authorized by the Secretary of Health and Human Services under section 355 of this title and pursuant to the order ofa physician, is guilty of an offense punishable by not more than 5 years in prison, such fines as are authorized by title 18, or both.
 
 (2) Whoever commits any offense set forth in paragraph (1) and such offense involves an individual under 18 years of age is punishable by not more than 10 years imprisonment, such fines as are authorized by title 18, or both.
 
@@ -76,7 +76,7 @@ No person shall be subject to the penalties of subsection (a)(1) of this section
 
 &emsp;(iii) to violations of section 351(a)(2)(A) of this title which involve one or more devices which are not defective.
 
-(2)(A) Any person who introduces into interstate commerce or delivers for introduction into interstate commerce an article of food that is adulterated within the meaning of section 342(a)(2)(B) of this title shall be subject to a civil money penalty of not more than $50,000 in the case of an individual and $250,000 in the case of any other person for such introduction or delivery, not to exceed $500,000 for all such violations adjudicated in a single proceeding.
+(2)(A) Any person who introduces into interstate commerce or delivers for introduction into interstate commerce an article of food that is adulterated within the meaning of section 342(a)(2)(B) of this title or any person who does not comply with a recall order under section 350<i>l</i> of this title shall be subject to a civil money penalty of not more than $50,000 in the case of an individual and $250,000 in the case of any other person for such introduction or delivery, not to exceed $500,000 for all such violations adjudicated in a single proceeding.
 
 (B) This paragraph shall not apply to any person who grew the article of food that is adulterated. If the Secretary assesses a civil penalty against any person under this paragraph, the Secretary may not use the criminal authorities under this section to sanction such person for the introduction or delivery for introduction into interstate commerce of the article of food that is adulterated. If the Secretary assesses a civil penalty against any person under this paragraph, the Secretary may not use the seizure authorities of section 334 of this title or the injunction authorities of section 332 of this title with respect to the article of food that is adulterated.
 
@@ -94,7 +94,7 @@ No person shall be subject to the penalties of subsection (a)(1) of this section
 
 (B) In determining the amount of a civil penalty under subparagraph (A)(ii), the Secretary shall take into consideration whether the responsible person is making efforts toward correcting the violation of the requirement of section 355(<i>o</i>), 355(p), or 355–1 of this title for which the responsible person is subject to such civil penalty.
 
-(5)(A) A civil penalty under paragraph (1), (2), (3), (4), or (9) shall be assessed, or a no-tobacco-sale order may be imposed, by the Secretary by an order made on the record after opportunity for a hearing provided in accordance with this subparagraph and section 554 of title 5. Before issuing such an order, the Secretary shall give written notice to the person to be assessed a civil penalty, or upon whom a no-tobacco-sale order is to be imposed, under such order of the Secretary's proposal to issue such order and provide such person an opportunity for a hearing on the order. In the course of any investigation, the Secretary may issue subpoenas requiring the attendance and testimony of witnesses and the production of evidence that relates to the matter under investigation.
+(5)(A) A civil penalty under paragraph (1), (2), (3), (4), or (9) shall be assessed, or a no-tobacco-sale order may be imposed, by the Secretary by an order made on the record after opportunity for a hearing provided in accordance with this subparagraph and section 554 of title 5. Before issuing such an order, the Secretary shall give written notice to the person to be assessed a civil penalty, or upon whom a no-tobacco-sale order is to be imposed, under such order of the Secretary's proposal to issue such order and provide such person an opportunity for a hearing onthe order. In the course of any investigation, the Secretary may issue subpoenas requiring the attendance and testimony of witnesses and the production of evidence that relates to the matter under investigation.
 
 (B) In determining the amount of a civil penalty, or the period to be covered by a no-tobacco-sale order, the Secretary shall take into account the nature, circumstances, extent, and gravity of the violation or violations and, with respect to the violator, ability to pay, effect on ability to continue to do business, any history of prior such violations, the degree of culpability, and such other matters as justice may require. A no-tobacco-sale order permanently prohibiting an individual retail outlet from selling tobacco products shall include provisions that allow the outlet, after a specified period of time, to request that the Secretary compromise, modify, or terminate the order.
 
@@ -136,7 +136,7 @@ No person shall be subject to the penalties of subsection (a)(1) of this section
 
 &emsp;(H) Whether the person who created the advertisement or caused the advertisement to be created acted in good faith.
 
-&emsp;(I) Whether the person who created the advertisement or caused the advertisement to be created has been assessed a civil penalty under this provision within the previous 1-year period.
+&emsp;(I) Whether the person who created the advertisement or caused the advertisement to becreated has been assessed a civil penalty under this provision within the previous 1-year period.
 
 &emsp;(J) The scope and extent of any voluntary, subsequent remedial action by the person.
 
@@ -158,11 +158,11 @@ No person shall be subject to the penalties of subsection (a)(1) of this section
 
 > the Attorney General of the United States shall recover the amount assessed (plus interest at currently prevailing rates from the date of the expiration of the 60-day period referred to in paragraph (6) or the date of such final judgment, as the case may be) in an action brought in any appropriate district court of the United States. In such an action, the validity, amount, and appropriateness of such penalty shall not be subject to review.
 
-(June 25, 1938, ch. 675, §303, 52 Stat. 1043; Oct. 26, 1951, ch. 578, §2, 65 Stat. 649; Pub. L. 86–618, title I, §105(b), July 12, 1960, 74 Stat. 403; Pub. L. 89–74, §§7, 9(d), July 15, 1965, 79 Stat. 233, 235; Pub. L. 90–639, §3, Oct. 24, 1968, 82 Stat. 1361; Pub. L. 91–513, title II, §701(b), Oct. 27, 1970, 84 Stat. 1281; Pub. L. 94–278, title V, §502(a)(2)(B), Apr. 22, 1976, 90 Stat. 411; Pub. L. 100–293, §7(b), Apr. 22, 1988, 102 Stat. 99; Pub. L. 100–690, title II, §2403, Nov. 18, 1988, 102 Stat. 4230; Pub. L. 101–629, §17(a), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 101–647, title XIX, §1904, Nov. 29, 1990, 104 Stat. 4853; Pub. L. 102–353, §3, Aug. 26, 1992, 106 Stat. 941; Pub. L. 103–80, §3(e), Aug. 13, 1993, 107 Stat. 775; Pub. L. 103–322, title XXXIII, §330015, Sept. 13, 1994, 108 Stat. 2146; Pub. L. 104–170, title IV, §407, Aug. 3, 1996, 110 Stat. 1535; Pub. L. 106–387, §1(a) \[title VII, §745(d)(2)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–40; Pub. L. 107–250, title II, §201(c), Oct. 26, 2002, 116 Stat. 1609; Pub. L. 108–173, title XI, §1121(b)(2), Dec. 8, 2003, 117 Stat. 2469; Pub. L. 110–85, title II, §226(b), title VIII, §801(b)(2), title IX, §§901(d)(4), 902(b), Sept. 27, 2007, 121 Stat. 854, 920, 940, 943; Pub. L. 111–31, div. A, title I, §103(c), June 22, 2009, 123 Stat. 1835.)
+(June 25, 1938, ch. 675, §303, 52 Stat. 1043; Oct. 26, 1951, ch. 578, §2, 65 Stat. 649; Pub. L. 86–618, title I, §105(b), July 12, 1960, 74 Stat. 403; Pub. L. 89–74, §§7, 9(d), July 15, 1965, 79 Stat. 233, 235; Pub. L. 90–639, §3, Oct. 24, 1968, 82 Stat. 1361; Pub. L. 91–513, title II, §701(b), Oct. 27, 1970, 84 Stat. 1281; Pub. L. 94–278, title V, §502(a)(2)(B), Apr. 22, 1976, 90 Stat. 411; Pub. L. 100–293, §7(b), Apr. 22, 1988, 102 Stat. 99; Pub. L. 100–690, title II, §2403, Nov. 18, 1988, 102 Stat. 4230; Pub. L. 101–629, §17(a), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 101–647, title XIX, §1904, Nov. 29, 1990, 104 Stat. 4853; Pub. L. 102–353, §3, Aug. 26, 1992, 106 Stat. 941; Pub. L. 103–80, §3(e), Aug. 13, 1993, 107 Stat. 775; Pub. L. 103–322, title XXXIII, §330015, Sept. 13, 1994, 108 Stat. 2146; Pub. L. 104–170, title IV, §407, Aug. 3, 1996, 110 Stat. 1535; Pub. L. 106–387, §1(a) \[title VII, §745(d)(2)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–40; Pub. L. 107–250, title II, §201(c), Oct. 26, 2002, 116 Stat. 1609; Pub. L. 108–173, title XI, §1121(b)(2), Dec. 8, 2003, 117 Stat. 2469; Pub. L. 110–85, title II, §226(b), title VIII, §801(b)(2), title IX, §§901(d)(4), 902(b), Sept. 27, 2007, 121 Stat. 854, 920, 940, 943; Pub. L. 111–31, div. A, title I, §103(c), June 22, 2009, 123 Stat. 1835; Pub. L. 111–353, title II, §206(c), Jan. 4, 2011, 124 Stat. 3943.)
 
 #### Amendment of Subsection (f)
 
-<i>Pub. L. 111–31, div. A, title I, §103(c)(2), (3), (q)(3), June 22, 2009, 123 Stat. 1835, 1840, provided that, effective upon the issuance of guid</i><i>ance described in section 103(q)(1) of Pub. L. 111–31, set out as a Guidance note below, subsection (f) of this section is amended:</i>
+<i>Pub. L. 111–31, div. A, title I, §103(c)(2), (3), (q)(3), June 22, 2009, 123 Stat. 1835, 1840, provided that, effective upon the issuance of guidance described in section 103(q)(1) of Pub. L. 111–31, set out as a Guidance note below, subsection (f) of this section is amended:</i>
 
 <i>(1) in paragraph (6), by (A) inserting “or the imposition of a no-tobacco-sale order” after “penalty” wherever appearing, and (B) substituting “issued, or on which the no-tobacco-sale order was imposed, as the case may be.” for “issued.”; and</i>
 
@@ -196,13 +196,15 @@ No person shall be subject to the penalties of subsection (a)(1) of this section
 
 #### References in Text
 
-The Controlled Substances Act, referred to in subsec. (e)(3), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+The Controlled Substances Act, referred to in subsec. (e)(3), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 Section 282(j)(5)(C)(ii) of title 42, referred to in subsec. (f)(3)(B), was in the original “section 402(j)(5)(C)(ii)”, and was translated as meaning section 402(j)(5)(C)(ii) of the Public Health Service Act to reflect the probable intent of Congress because there is no subsec. (j) of section 402 of the Federal Food, Drug, and Cosmetic Act and section 402(j)(5)(C)(ii) of the Public Health Service Act relates to notification of noncompliance with clinical trial information requirements.
 
 #### Amendments
 
-2009—Subsec. (f)(5)(A). Pub. L. 111–31, §103(c)(1)(A), (B), substituted “paragraph (1), (2), (3), (4), or (9)” for “paragraph (1), (2), (3), or (4)”, “shall be assessed, or a no-tobacco-sale order may be imposed,” for “shall be assessed”, and “assessed a civil penalty, or upon whom a no-tobacco-sale order is to be imposed,” for “assessed a civil penalty”.
+<b>2011</b>—Subsec. (f)(2)(A). Pub. L. 111–353 inserted “or any person who does not comply with a recall order under section 350<i>l</i> of this title” after “section 342(a)(2)(B) of this title”.
+
+<b>2009</b>—Subsec. (f)(5)(A). Pub. L. 111–31, §103(c)(1)(A), (B), substituted “paragraph (1), (2), (3), (4), or (9)” for “paragraph (1), (2), (3), or (4)”, “shall be assessed, or a no-tobacco-sale order may be imposed,” for “shall be assessed”, and “assessed a civil penalty, or upon whom a no-tobacco-sale order is to be imposed,” for “assessed a civil penalty”.
 
 Subsec. (f)(5)(B). Pub. L. 111–31, §103(c)(1)(C), inserted “or the period to be covered by a no-tobacco-sale order,” after “penalty,” and inserted at end “A no-tobacco-sale order permanently prohibiting an individual retail outlet from selling tobacco products shall include provisions that allow the outlet, after a specified period of time, to request that the Secretary compromise, modify, or terminate the order.”
 
@@ -210,7 +212,7 @@ Subsec. (f)(5)(C). Pub. L. 111–31, §103(c)(1)(A), substituted “paragraph (1
 
 Subsec. (f)(5)(D). Pub. L. 111–31, §103(c)(1)(D), added subpar. (D).
 
-2007—Subsec. (f). Pub. L. 110–85, §226(b)(1), redesignated subsec. (g) as (f).
+<b>2007</b>—Subsec. (f). Pub. L. 110–85, §226(b)(1), redesignated subsec. (g) as (f).
 
 Subsec. (f)(1)(B)(ii). Pub. L. 110–85, §226(b)(2), substituted “360i(g)” for “360i(f)”.
 
@@ -236,13 +238,13 @@ Subsec. (g). Pub. L. 110–85, §901(d)(4), added subsec. (g).
 
 Pub. L. 110–85, §226(b)(1), redesignated subsec. (g) as (f).
 
-2003—Subsec. (b)(6). Pub. L. 108–173, which directed amendment of subsec. (a)(6) by substituting “prescription drug under section 384(b)” for “covered product pursuant to section 384(a)”, was executed by making the substitution in subsec. (b)(6), to reflect the probable intent of Congress.
+<b>2003</b>—Subsec. (b)(6). Pub. L. 108–173, which directed amendment of subsec. (a)(6) by substituting “prescription drug under section 384(b)” for “covered product pursuant to section 384(a)”, was executed by making the substitution in subsec. (b)(6), to reflect the probable intent of Congress.
 
-2002—Subsec. (g)(1)(A). Pub. L. 107–250 inserted at end “For purposes of the preceding sentence, a person accredited under paragraph (2) of section 374(g) of this title who is substantially not in compliance with the standards of accreditation under such section, or who poses a threat to public health or fails to act in a manner that is consistent with the purposes of such section, shall be considered to have violated a requirement of this chapter that relates to devices.”
+<b>2002</b>—Subsec. (g)(1)(A). Pub. L. 107–250 inserted at end “For purposes of the preceding sentence, a person accredited under paragraph (2) of section 374(g) of this title who is substantially not in compliance with the standards of accreditation under such section, or who poses a threat to public health or fails to act in a manner that is consistent with the purposes of such section, shall be considered to have violated a requirement of this chapter that relates to devices.”
 
-2000—Subsec. (b)(6). Pub. L. 106–387 added par. (6).
+<b>2000</b>—Subsec. (b)(6). Pub. L. 106–387 added par. (6).
 
-1996—Subsec. (g)(2). Pub. L. 104–170, §407(1), (2), added par. (2). Former par. (2) redesignated (3).
+<b>1996</b>—Subsec. (g)(2). Pub. L. 104–170, §407(1), (2), added par. (2). Former par. (2) redesignated (3).
 
 Subsec. (g)(3). Pub. L. 104–170, §407(1), (3), redesignated par. (2) as (3) and substituted “paragraph (1) or (2)” for “paragraph (1)” in subpars. (A) and (C). Former par. (3) redesignated (4).
 
@@ -250,11 +252,11 @@ Subsec. (g)(4). Pub. L. 104–170, §407(1), (4), redesignated par. (3) as (4) a
 
 Subsec. (g)(5). Pub. L. 104–170, §407(1), (5), redesignated par. (4) as (5) and substituted “paragraph (4)” for “paragraph (3)” wherever appearing.
 
-1994—Subsec. (e). Pub. L. 103–322 amended directory language of Pub. L. 101–647. See 1990 Amendment note below.
+<b>1994</b>—Subsec. (e). Pub. L. 103–322 amended directory language of Pub. L. 101–647. See 1990 Amendment note below.
 
-1993—Subsecs. (e) to (g). Pub. L. 103–80, which directed the amendment of this section by redesignating the second subsec. (e) and subsec. (f) as subsecs. (f) and (g), respectively, could only be executed by designating subsec. (f) as (g) because this section did not contain a second subsec. (e) subsequent to amendment of Pub. L. 101–647 by Pub. L. 103–322. See 1990 and 1994 amendment notes for subsec. (e) under this section.
+<b>1993</b>—Subsecs. (e) to (g). Pub. L. 103–80, which directed the amendment of this section by redesignating the second subsec. (e) and subsec. (f) as subsecs. (f) and (g), respectively, could only be executed by designating subsec. (f) as (g) because this section did not contain a second subsec. (e) subsequent to amendment of Pub. L. 101–647 by Pub. L. 103–322. See 1990 and 1994 amendment notes for subsec. (e) under this section.
 
-1992—Subsec. (b)(1). Pub. L. 102–353, §3(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding subsection (a) of this section, any person who violates section 331(t) of this title because of an importation of a drug in violation of section 381(d)(1) of this title, because of a sale, purchase, or trade of a drug or drug sample or the offer to sell, purchase, or trade a drug or drug sample in violation of section 353(c) of this title, because of the sale, purchase, or trade of a coupon, the offer to sell, purchase, or trade such a coupon, or the counterfeiting of such a coupon in violation of section 353(c)(2) of this title, or the distribution of drugs in violation of section 353(e)(2)(A) of this title shall be imprisoned for not more than 10 years or fined not more than $250,000, or both.”
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–353, §3(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding subsection (a) of this section, any person who violates section 331(t) of this title because of an importation of a drug in violation of section 381(d)(1) of this title, because of a sale, purchase, or trade of a drug or drug sample or the offer to sell, purchase, or trade a drug or drug sample in violation of section 353(c) of this title, because of the sale, purchase, or trade of a coupon, the offer to sell, purchase, or trade such a coupon, or the counterfeiting of such a coupon in violation of section 353(c)(2) of this title, or the distribution of drugs in violation of section353(e)(2)(A) of this title shall be imprisoned for not more than 10 years or fined not more than $250,000, or both.”
 
 Subsec. (b)(4)(A). Pub. L. 102–353, §3(b)(1), substituted “the institution of a criminal proceeding against, and conviction of,” for “the arrest and conviction of”.
 
@@ -266,7 +268,7 @@ Subsec. (c). Pub. L. 102–353, §3(b)(4), substituted “subsection (a)(1) of t
 
 Subsec. (d). Pub. L. 102–353, §3(b)(4), (5), substituted “subsection (a)(1) of this section” for “subsection (a) of this section” and struck out “, and no person shall be subject to the penalties of subsection (b) of this section for such a violation unless the violation is committed with the intent to defraud or mislead” after “advertising”.
 
-1990—Subsec. (e). Pub. L. 101–647, as amended by Pub. L. 103–322, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows:
+<b>1990</b>—Subsec. (e). Pub. L. 101–647, as amended by Pub. L. 103–322, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows:
 
 “(e)(1) Except as provided in paragraph (2), any person who distributes or possesses with the intent to distribute any anabolic steroid for any use in humans other than the treatment of disease pursuant to the order of a physician shall be imprisoned for not more than three years or fined under title 18, or both.
 
@@ -274,27 +276,27 @@ Subsec. (d). Pub. L. 102–353, §3(b)(4), (5), substituted “subsection (a)(1)
 
 Subsec. (f). Pub. L. 101–629 added subsec. (f).
 
-1988—Subsecs. (a), (b). Pub. L. 100–293 designated existing subsecs. (a) and (b) as pars. (1) and (2) of subsec. (a), substituted “paragraph (1)” for “subsection (a)” in par. (2), and added subsec. (b).
+<b>1988</b>—Subsecs. (a), (b). Pub. L. 100–293 designated existing subsecs. (a) and (b) as pars. (1) and (2) of subsec. (a), substituted “paragraph (1)” for “subsection (a)” in par. (2), and added subsec. (b).
 
 Subsec. (e). Pub. L. 100–690 added subsec. (e).
 
-1976—Subsec. (d). Pub. L. 94–278 added subsec. (d).
+<b>1976</b>—Subsec. (d). Pub. L. 94–278 added subsec. (d).
 
-1970—Subsec. (a). Pub. L. 91–513 struck out reference to subsec. (b) and transferred to subsec. (b) provisions covering second offenses and offenses committed with intent to defraud or mislead.
+<b>1970</b>—Subsec. (a). Pub. L. 91–513 struck out reference to subsec. (b) and transferred to subsec. (b) provisions covering second offenses and offenses committed with intent to defraud or mislead.
 
 Subsec. (b). Pub. L. 91–513 inserted provisions covering second offenses and offenses committed with intent to defraud or mislead formerly set out in subsec. (a) and struck out provisions covering violations involving depressant and stimulant drugs. See section 801 et seq. of this title.
 
-1968—Subsecs. (a), (b). Pub. L. 90–639 made a general revision in the penalties prescribed for offenses involving depressant or stimulant drugs, set a fine of not to exceed $10,000 or imprisonment of not more than 5 years for offenses involving the unlawful manufacturing of, sale, or disposal of, or possession with intent to sell, a depressant or stimulant drug or involving counterfeit depressant or stimulant drugs, stiffened the penalties for unlawful sales or other disposals by persons over 18 to persons under 21, and set new penalties for possession of a depressant or stimulant drug for purposes other than sale or other disposal.
+<b>1968</b>—Subsecs. (a), (b). Pub. L. 90–639 made a general revision in the penalties prescribed for offenses involving depressant or stimulant drugs, set a fine of not to exceed $10,000 or imprisonment of not more than 5 years for offenses involving the unlawful manufacturing of, sale, or disposal of, or possession with intent to sell, a depressant or stimulant drug or involving counterfeit depressant or stimulant drugs, stiffened the penalties for unlawful sales or other disposals by persons over 18 to persons under 21, and set new penalties for possession of a depressant or stimulant drug for purposes other than sale or other disposal.
 
-1965—Subsec. (a). Pub. L. 89–74, §7(a), inserted proviso limiting the penalties for depressant or stimulant drug violations to two years imprisonment or $5,000 fine or both for first offense and to two years imprisonment or $15,000 fine or both for subsequent offenses.
+<b>1965</b>—Subsec. (a). Pub. L. 89–74, §7(a), inserted proviso limiting the penalties for depressant or stimulant drug violations to two years imprisonment or $5,000 fine or both for first offense and to two years imprisonment or $15,000 fine or both for subsequent offenses.
 
 Subsec. (b). Pub. L. 89–74, §7(b), inserted parenthetical exception provision.
 
 Subsec. (c)(5). Pub. L. 89–74, §9(d), added cl. (5).
 
-1960—Subsec. (c)(3). Pub. L. 86–618 substituted “a color additive” for “a coal-tar color”, “the color additive” for “the coal-tar color” and “such color additive was” for “such color was”.
+<b>1960</b>—Subsec. (c)(3). Pub. L. 86–618 substituted “a color additive” for “a coal-tar color”, “the color additive” for “the coal-tar color” and “such color additive was” for “such color was”.
 
-1951—Subsec. (c)(4). Act Oct. 26, 1951, added cl. (4).
+<b>1951</b>—Subsec. (c)(4). Act Oct. 26, 1951, added cl. (4).
 
 #### Effective Date of 2009 Amendment
 
@@ -396,7 +398,7 @@ In general.—The Secretary of Health and Human Services shall issue guidance—
 
 &emsp;&emsp;“(iv) requiring its employees to verify age by way of photographic identification or electronic scanning device; and
 
-&emsp;“(G) providing for the Secretary, in determining whether to impose a no-tobacco-sale order and in determining whether to compromise, modify, or terminate such an order, to consider whether the retailerhas taken effective steps to prevent violations of the minimum age requirements for the sale of tobacco products, including the steps listed in subparagraph (F).
+&emsp;“(G) providing for the Secretary, in determining whether to impose a no-tobacco-sale order and in determining whether to compromise, modify, or terminate such an order, to consider whether the retailer has taken effective steps to prevent violations of the minimum age requirements for the sale of tobacco products, including the steps listed in subparagraph (F).
 
 “(2)
 
@@ -440,7 +442,11 @@ Training program.—For purposes of subparagraph (A), the term ‘approved train
 
 &emsp;“(C)
 
-Consideration of state penalties.—The Secretary shall coordinate with the States in enforcing the provisions of this Act \[probably means div. A of Pub. L. 111–31, see Short Title of 2009 Amendment note set out under section 301 of this title and Tables for classifications\] and, for purposes of mitigating a civil penalty to be applied for a violation by a retailer of any restriction promulgated under section 906(d) \[21 U.S.C. 387f(d)\], shall consider the amount of any penalties paid by the retailer to a State for the same violation.”
+Consideration of state penalties.—The Secretary shall coordinate with the States in enforcingthe provisions of this Act \[probably means div. A of Pub. L. 111–31, see Short Title of 2009 Amendment note set out under section 301 of this title and Tables for classifications\] and, for purposes of mitigating a civil penalty to be applied for a violation by a retailer of any restriction promulgated under section 906(d) \[21 U.S.C. 387f(d)\], shall consider the amount of any penalties paid by the retailer to a State for the same violation.”
+
+#### Construction of 2011 Amendment
+
+Nothing in amendment by Pub. L. 111–353 to be construed to alter jurisdiction and authorities established under certain other Acts or in a manner inconsistent with international agreements to which the United States is a party, see sections 2251 and 2252 of this title.
 
 #### Enforcement
 

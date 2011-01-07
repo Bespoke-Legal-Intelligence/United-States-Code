@@ -6,7 +6,7 @@ There is established the Rio Grande Natural Area in the State of Colorado to con
 
 #### (b) Boundaries
 
-The Natural Area shall include the Rio Grande River from the southern boundary of the Alamosa National Wildlife Refuge to the New Mexico State border, extending 1/4 mile on either side of the bank of the River.
+The Natural Area shall include the Rio Grande River from the southern boundary of the Alamosa National Wildlife Refuge to the New Mexico State border, extending ¼ mile on either side of the bank of the River.
 
 #### (c) Map and legal description
 

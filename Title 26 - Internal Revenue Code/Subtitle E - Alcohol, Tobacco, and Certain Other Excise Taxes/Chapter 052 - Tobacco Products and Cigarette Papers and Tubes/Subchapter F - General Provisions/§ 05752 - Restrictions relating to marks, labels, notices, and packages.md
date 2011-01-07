@@ -6,9 +6,9 @@ No person shall, with intent to defraud the United States, destroy, obliterate, 
 
 #### Amendments
 
-1976—Pub. L. 94–455 struck out reference to stamps in the section catchline and in the text and struck out provisions which had enumerated violations involving the misuse of tax stamps.
+<b>1976</b>—Pub. L. 94–455 struck out reference to stamps in the section catchline and in the text and struck out provisions which had enumerated violations involving the misuse of tax stamps.
 
-1958—Pub. L. 85–859 included marks and notices in the catchline, limited the penalties to cases where there is intent to defraud the United States, and prohibited the destruction, obliteration, or detachment of any mark, label, notice or stamp before a package of tobacco products or cigarette papers or tubes is emptied.
+<b>1958</b>—Pub. L. 85–859 included marks and notices in the catchline, limited the penalties to cases where there is intent to defraud the United States, and prohibited the destruction, obliteration, or detachment of any mark, label, notice or stamp before a package of tobacco products or cigarette papers or tubes is emptied.
 
 #### Effective Date of 1976 Amendment
 

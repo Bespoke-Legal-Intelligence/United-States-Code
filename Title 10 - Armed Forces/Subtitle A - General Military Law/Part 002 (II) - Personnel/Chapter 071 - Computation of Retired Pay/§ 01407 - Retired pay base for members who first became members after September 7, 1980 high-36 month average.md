@@ -98,17 +98,17 @@ A prior section 1407, added Pub. L. 96–342, title VIII, §813(a)(1), Sept. 8, 
 
 #### Amendments
 
-2009—Subsec. (d)(4). Pub. L. 111–84 inserted “or, in the case of a member or former member entitled to retired pay by reason of an election under section 12741(a) of this title, before the member or former member completes the service required under such section 12741(a),” after “became entitled to retired pay”.
+<b>2009</b>—Subsec. (d)(4). Pub. L. 111–84 inserted “or, in the case of a member or former member entitled to retired pay by reason of an election under section 12741(a) of this title, before the member or former member completes the service required under such section 12741(a),” after “became entitled to retired pay”.
 
-2004—Subsec. (c)(3). Pub. L. 108–375 added par. (3).
+<b>2004</b>—Subsec. (c)(3). Pub. L. 108–375 added par. (3).
 
-2001—Subsec. (f)(2). Pub. L. 107–107 substituted “October 30, 2000—” for “the date of the enactment of this subsection—” in introductory provisions.
+<b>2001</b>—Subsec. (f)(2). Pub. L. 107–107 substituted “October 30, 2000—” for “the date of the enactment of this subsection—” in introductory provisions.
 
-2000—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title VI, §651(1)\], substituted “Except as provided in subsection (f), the retired pay base” for “The retired pay base”.
+<b>2000</b>—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title VI, §651(1)\], substituted “Except as provided in subsection (f), the retired pay base” for “The retired pay base”.
 
 Subsec. (f). Pub. L. 106–398, §1 \[\[div. A\], title VI, §651(2)\], added subsec. (f).
 
-1996—Subsec. (c)(1). Pub. L. 104–106, §1501(c)(15)(A), substituted “section 12731” for “section 1331”.
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–106, §1501(c)(15)(A), substituted “section 12731” for “section 1331”.
 
 Subsec. (d)(1). Pub. L. 104–106 substituted in heading “
 
@@ -116,11 +116,11 @@ chapter 1223” for “
 
 chapter 67” and in text “section 12731” for “section 1331”.
 
-1994—Subsec. (c)(2)(B). Pub. L. 103–337, §1662(j)(5)(A), which directed substitution of “chapter 1223” for “chapter 67”, could not be executed because the words “chapter 67” did not appear subsequent to amendment by Pub. L. 101–189, §651(a)(2), (4). See 1989 Amendment note below.
+<b>1994</b>—Subsec. (c)(2)(B). Pub. L. 103–337, §1662(j)(5)(A), which directed substitution of “chapter 1223” for “chapter 67”, could not be executed because the words “chapter 67” did not appear subsequent to amendment by Pub. L. 101–189, §651(a)(2), (4). See 1989 Amendment note below.
 
 Subsec. (f)(2). Pub. L. 103–337, §1662(j)(5)(B), which directed amendment of subsec. (f)(2) by substituting “Chapter 1223” for “Chapter 67” in heading and “section 12731” for “section 1331” in text, could not be executed because of previous repeal of subsec. (f) by Pub. L. 101–189, §651(a)(2). See 1989 Amendment note below.
 
-1989—Subsec. (b). Pub. L. 101–189, §651(a)(1), (b)(2), substituted “person” for “member”, “person's” for “member's”, and “subsection (c) or (d)” for “subsection (c)”.
+<b>1989</b>—Subsec. (b). Pub. L. 101–189, §651(a)(1), (b)(2), substituted “person” for “member”, “person's” for “member's”, and “subsection (c) or (d)” for “subsection (c)”.
 
 Subsec. (c). Pub. L. 101–189, §651(a)(2), (4), added subsec. (c) and struck out former subsec. (c) which related to computation of high-three average.
 

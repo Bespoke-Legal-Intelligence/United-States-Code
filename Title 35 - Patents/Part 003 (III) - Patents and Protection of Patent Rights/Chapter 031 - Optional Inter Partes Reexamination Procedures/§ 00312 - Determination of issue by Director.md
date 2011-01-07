@@ -16,7 +16,7 @@ Final Decision.—A determination by the Director under subsection (a) shall be 
 
 #### Amendments
 
-2002—Pub. L. 107–273, §13202(c)(1), made technical correction to directory language of Pub. L. 106–113, which enacted this section.
+<b>2002</b>—Pub. L. 107–273, §13202(c)(1), made technical correction to directory language of Pub. L. 106–113, which enacted this section.
 
 Subsec. (a). Pub. L. 107–273, §13202(a)(2)(A), struck out second sentence which read as follows: “On the Director's initiative, and at any time, the Director may determine whether a substantial new question of patentability is raised by patents and publications.”
 

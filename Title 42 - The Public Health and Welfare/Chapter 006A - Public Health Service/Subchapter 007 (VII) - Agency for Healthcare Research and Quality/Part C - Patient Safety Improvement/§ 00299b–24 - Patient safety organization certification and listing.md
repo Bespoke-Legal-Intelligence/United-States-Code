@@ -78,7 +78,7 @@
 
 #### (d) Listing
 
-The Secretary shall compile and maintain a listing of entities with respect to which there isan acceptance of a certification pursuant to subsection (c)(2)(A) of this section that has not been revoked under subsection (e) of this section or voluntarily relinquished.
+The Secretary shall compile and maintain a listing of entities with respect to which there is an acceptance of a certification pursuant to subsection (c)(2)(A) of this section that has not been revoked under subsection (e) of this section or voluntarily relinquished.
 
 #### (e) Revocation of acceptance of certification
 
@@ -122,7 +122,7 @@ If the Secretary removes a patient safety organization from the listing as provi
 
 #### Prior Provisions
 
-A prior section 924 of act July 1, 1944, was renumbered section 934 and is classified to section 299c–3 of this title.
+A prior section 924 of act July 1, 1944, was renumbered section 944 and is classified to section 299c–3 of this title.
 
 Another prior section 924 of act July 1, 1944, was classified to section 299c–3 of this title prior to the general amendment of this subchapter by Pub. L. 106–129.
 

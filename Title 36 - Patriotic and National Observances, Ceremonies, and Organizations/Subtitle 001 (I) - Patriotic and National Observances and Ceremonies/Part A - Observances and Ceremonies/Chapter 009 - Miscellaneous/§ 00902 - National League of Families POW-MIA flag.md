@@ -124,17 +124,17 @@ Section 1082(j), which repealed section 1084 of Public Law 102–190 (previously
 
 #### Amendments
 
-2002—Subsec. (c)(2). Pub. L. 107–323, §2(b), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
+<b>2002</b>—Subsec. (c)(2). Pub. L. 107–323, §2(b), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
 Subsec. (d)(3). Pub. L. 107–323, §2(a), substituted “The World War II Memorial, the Korean War Veterans Memorial, and the Vietnam Veterans Memorial” for “The Korean War Veterans Memorial and the Vietnam Veterans Memorial”.
 
-1998—Subsecs. (b) to (g). Pub. L. 105–354 added subsecs. (b) to (g) and struck out former subsecs. (b) and (c) which read as follows:
+<b>1998</b>—Subsecs. (b) to (g). Pub. L. 105–354 added subsecs. (b) to (g) and struck out former subsecs. (b) and (c) which read as follows:
 
 “(b)
 
 Display.—The flag shall be displayed—
 
-&emsp;“(1) at each national cemetery and at the National Vietnam Veterans Memorial each year on Memorial Day and Veterans Day and on any day designated by law as National POW/MIA Recognition Day; and
+&emsp;“(1) at each national cemetery and at the National Vietnam Veterans Memorial each year on MemorialDay and Veterans Day and on any day designated by law as National POW/MIA Recognition Day; and
 
 &emsp;“(2) on, or on the grounds of, the buildings containing the primary offices of the Secretaries of State, Defense, and Veterans Affairs, and the Director of the Selective Service System on any day designated by law as National POW/MIA Recognition Day.
 

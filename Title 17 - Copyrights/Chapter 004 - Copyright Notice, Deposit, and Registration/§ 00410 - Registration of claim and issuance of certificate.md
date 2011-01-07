@@ -12,7 +12,7 @@
 
 #### Historical and Revision Notes
 
-I74house report no. 94–1476
+#### house report no. 94–1476
 
 The first two subsections of section 410 set forth the two basic duties of the Register of Copyrights with respect to copyright registration: (1) to register the claim and issue a certificate if the Register determines that “the material deposited constitutes copyrightable subject matter and that the other legal and formal requirements of this title have been met,” and (2) to refuse registration and notify the applicant if the Register determines that “the material deposited does not constitute copyrightable subject matter or that the claim is invalid for any other reason.”
 

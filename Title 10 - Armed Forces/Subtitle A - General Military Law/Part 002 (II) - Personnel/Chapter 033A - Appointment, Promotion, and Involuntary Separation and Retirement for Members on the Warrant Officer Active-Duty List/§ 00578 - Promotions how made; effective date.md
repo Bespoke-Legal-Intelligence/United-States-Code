@@ -16,7 +16,7 @@
 
 #### Amendments
 
-1994—Subsecs. (e), (f). Pub. L. 103–337 added subsecs. (e) and (f).
+<b>1994</b>—Subsecs. (e), (f). Pub. L. 103–337 added subsecs. (e) and (f).
 
-1992—Pub. L. 102–484 substituted “Promotions:” for “Promotions;” in section catchline.
+<b>1992</b>—Pub. L. 102–484 substituted “Promotions:” for “Promotions;” in section catchline.
 

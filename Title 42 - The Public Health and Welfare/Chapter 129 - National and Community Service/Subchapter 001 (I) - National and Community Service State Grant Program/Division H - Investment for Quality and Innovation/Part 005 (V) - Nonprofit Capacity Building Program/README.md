@@ -1,7 +1,5 @@
 Part V—Nonprofit Capacity Building Program
 
-<i><sup>1</sup></i><i> So in original. No cl. (ii) has been enacted.</i>
-
 
 ---
 

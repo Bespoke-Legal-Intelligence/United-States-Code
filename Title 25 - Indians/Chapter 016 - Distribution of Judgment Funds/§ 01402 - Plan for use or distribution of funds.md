@@ -32,11 +32,11 @@ In subsec. (a), “United States Claims Court” \[now United States Court of Fe
 
 #### Amendments
 
-1994—Subsec. (e). Pub. L. 103–437 substituted “Committee on Indian” for “Select Committee on Indian” and “Natural Resources” for “Interior and Insular Affairs”.
+<b>1994</b>—Subsec. (e). Pub. L. 103–437 substituted “Committee on Indian” for “Select Committee on Indian” and “Natural Resources” for “Interior and Insular Affairs”.
 
-1992—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1983—Subsec. (a). Pub. L. 97–458 substituted “one year” for “one hundred and eighty days”; inserted provision for contents of the plan; inserted provision for submission of copy of the plan to each affected tribe or group, incorporating part of former subsec. (c); struck out proviso prescribing Oct. 19, 1973, as the commencing date with respect to judgments for which funds were appropriated and for which legislation authorizing use or distribution was not enacted prior to Oct. 19, 1973; and struck out second sentence respecting submission of proposed legislation and report to Congress, incorporated in subsec. (c). See Codification note above.
+<b>1983</b>—Subsec. (a). Pub. L. 97–458 substituted “one year” for “one hundred and eighty days”; inserted provision for contents of the plan; inserted provision for submission of copy of the plan to each affected tribe or group, incorporating part of former subsec. (c); struck out proviso prescribing Oct. 19, 1973, as the commencing date with respect to judgments for which funds were appropriated and for which legislation authorizing use or distribution was not enacted prior to Oct. 19, 1973; and struck out second sentence respecting submission of proposed legislation and report to Congress, incorporated in subsec. (c). See Codification note above.
 
 Subsec. (b). Pub. L. 97–458 added subsec. (b). Former subsec. (b) redesignated (e).
 
@@ -44,9 +44,9 @@ Subsec. (c). Pub. L. 97–458 redesignated second sentence of subsec. (a) as sub
 
 Subsec. (d). Pub. L. 97–458 added subsec. (d).
 
-Subsec. (e). Pub. L. 97–458 redesignated subsec. (b) as (e); increased time allowed for submission of plans to one year from a one hundred and eighty-day period and additional time allowed for such submissions to one hundred and eighty from ninety days; and substituted the Senate Select Committee on Indian Affairs for the Senate Committee on Interior and Insular Affairs as the Senate committee approving any extensions.
+Subsec. (e). Pub. L. 97–458 redesignated subsec. (b) as (e); increased time allowed for submission of plans toone year from a one hundred and eighty-day period and additional time allowed for such submissions to one hundred and eighty from ninety days; and substituted the Senate Select Committee on Indian Affairs for the Senate Committee on Interior and Insular Affairs as the Senate committee approving any extensions.
 
-1982—Subsec. (a). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”. See Codification note above.
+<b>1982</b>—Subsec. (a). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”. See Codification note above.
 
 #### Effective Date of 1992 Amendment
 

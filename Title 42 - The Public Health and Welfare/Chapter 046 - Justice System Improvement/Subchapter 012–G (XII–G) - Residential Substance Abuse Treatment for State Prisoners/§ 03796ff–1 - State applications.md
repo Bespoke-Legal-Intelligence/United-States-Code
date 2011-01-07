@@ -46,9 +46,9 @@ A State may use amounts received under this subchapter to provide nonresidential
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–199 substituted “Requirement for Aftercare Component” for “Aftercare services requirement” in heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: “To be eligible for funding under this subchapter, a State shall ensure that individuals who participate in the substance abuse treatment program established or implemented with assistance provided under this subchapter will be provided with after care services.”
+<b>2008</b>—Subsec. (c). Pub. L. 110–199 substituted “Requirement for Aftercare Component” for “Aftercare services requirement” in heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: “To be eligible for funding under this subchapter, a State shall ensure that individuals who participate in the substance abuse treatment program established or implemented with assistance provided under this subchapter will be provided with after care services.”
 
-2006—Subsec. (b). Pub. L. 109–162, §1145(a), reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: “To be eligible to receive funds under this subchapter, a State must agree to implement or continue to require urinalysis or other proven reliable forms of testing of individuals in correctional residential substance abuse treatment programs. Such testing shall include individuals released from residential substance abuse treatment programs who remain in the custody of the State.”
+<b>2006</b>—Subsec. (b). Pub. L. 109–162, §1145(a), reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: “To be eligible to receive funds under this subchapter, a State must agree to implement or continue to require urinalysis or other proven reliable forms of testing of individuals in correctional residential substance abuse treatment programs. Such testing shall include individuals released from residential substance abuse treatment programs who remain in the custody of the State.”
 
 Subsec. (c). Pub. L. 109–162, §1145(b)(1), substituted “Aftercare services requirement” for “Eligibility for preference with after care component” in subsec. heading.
 
@@ -58,7 +58,7 @@ Subsec. (c)(4). Pub. L. 109–162, §1145(b)(3), added par. (4).
 
 Subsec. (e). Pub. L. 109–162, §1111(c)(2)(J), substituted “The office responsible for the trust fund required by section 3757 of this title” for “The Office designated under section 3757 of this title” in introductory provisions.
 
-2002—Subsec. (f). Pub. L. 107–273 added subsec. (f).
+<b>2002</b>—Subsec. (f). Pub. L. 107–273 added subsec. (f).
 
 #### Effective Date of 2006 Amendment
 

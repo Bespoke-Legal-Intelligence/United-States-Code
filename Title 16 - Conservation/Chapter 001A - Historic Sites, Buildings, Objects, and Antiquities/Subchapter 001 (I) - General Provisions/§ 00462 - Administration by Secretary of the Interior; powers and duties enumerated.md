@@ -28,7 +28,7 @@ The Secretary of the Interior (hereinafter in sections 461 to 467 of this title 
 
 #### Amendments
 
-1965—Subsec. (h). Pub. L. 89–249 changed proviso to allow granting concessions, leases, and permits and entering into contracts with responsible persons, firms, or corporations without advertising and without securing competitive bids.
+<b>1965</b>—Subsec. (h). Pub. L. 89–249 changed proviso to allow granting concessions, leases, and permits and entering into contracts with responsible persons, firms, or corporations without advertising and without securing competitive bids.
 
 #### Transfer of Functions
 

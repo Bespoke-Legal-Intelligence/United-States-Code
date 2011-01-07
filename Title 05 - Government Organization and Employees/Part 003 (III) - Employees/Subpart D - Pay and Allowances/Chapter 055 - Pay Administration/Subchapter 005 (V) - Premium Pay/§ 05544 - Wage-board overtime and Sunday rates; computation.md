@@ -52,7 +52,7 @@ June 30, 1945, ch. 212, §503 (as applicable to §23 of the Act of Mar. 28, 1934
 
 In subsection (a), former sections 673c (2d proviso) and 913 are combined and restated for clarity and conciseness. The last 28 words of section 205(a) of the Act of Sept. 1, 1954, 68 Stat. 1109, are omitted as executed and covered by technical section 8.
 
-Subsection (b) is restated to conform to subsection (a). In former section 933, the words “Classification Act of 1949” were substituted for “Classification Act of 1923” on authority of section 1106(a) of the Act of Oct. 28, 1949, ch. 782, 63 Stat. 972.
+Subsection (b) is restated to conform to subsection (a). In former section 933, the words “Classification Actof 1949” were substituted for “Classification Act of 1923” on authority of section 1106(a) of the Act of Oct. 28, 1949, ch. 782, 63 Stat. 972.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

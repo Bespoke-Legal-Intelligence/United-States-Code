@@ -44,17 +44,19 @@ It is unlawful—
 
 &emsp;&emsp;(O) to knowingly and willfully fail to disclose, or to falsely disclose, any financial interest as required under section 1852(j) of this title, or to knowingly vote on a Council decision in violation of section 1852(j)(7)(A) of this title;
 
-&emsp;&emsp;(P)(i) to remove any of the fins of a shark (including the tail) and discard the carcass of the shark at sea;
+&emsp;&emsp;(P)(i) to remove any of the fins of a shark (including the tail) at sea;
 
-&emsp;&emsp;(ii) to have custody, control, or possession of any such fin aboard a fishing vessel without the corresponding carcass; or
+&emsp;&emsp;(ii) to have custody, control, or possession of any such fin aboard a fishing vessel unless it is naturally attached to the corresponding carcass;
 
-&emsp;&emsp;(iii) to land any such fin without the corresponding carcass;
+&emsp;&emsp;(iii) to transfer any such fin from one vessel to another vessel at sea, or to receive any such fin in such transfer, without the fin naturally attached to the corresponding carcass; or
+
+&emsp;&emsp;(iv) to land any such fin that is not naturally attached to the corresponding carcass, or to land any shark carcass without such fins naturally attached;
 
 &emsp;&emsp;(Q) to import, export, transport, sell, receive, acquire, or purchase in interstate or foreign commerce any fish taken, possessed, transported, or sold in violation of any foreign law or regulation; or
 
 &emsp;&emsp;(R) to use any fishing vessel to engage in fishing in Federal or State waters, or on the high seas or in the waters of another country, after the Secretary has made a payment to the owner of that fishing vessel under section 1861a(b)(2) of this title.
 
-> &emsp;For purposes of subparagraph (P) there is a rebuttable presumption that any shark fins landed from a fishing vessel or found on board a fishing vessel were taken, held, or landed in violation of subparagraph (P) if the total weight of shark fins landed or found on board exceeds 5 percent of the total weight of shark carcasses landed or found on board.
+> &emsp;For purposes of subparagraph (P), there shall be a rebuttable presumption that if any shark fin (including the tail) is found aboard a vessel, other than a fishing vessel, without being naturally attached to the corresponding carcass, such fin was transferred in violation of subparagraph (P)(iii) or that if, after landing, the total weight of shark fins (including the tail) landed from any vessel exceeds five percent of the total weight of shark carcasses landed, such fins were taken, held, or landed in violation of subparagraph (P). In such subparagraph, the term “naturally attached”, with respect to a shark fin, means attached to the corresponding shark carcass through some portion of uncut skin.
 
 &emsp;(2) for any vessel other than a vessel of the United States, and for the owner or operator of any vessel other than a vessel of the United States, to engage—
 
@@ -82,7 +84,7 @@ It is unlawful—
 
 &emsp;(5) for any vessel of the United States, and for the owner or operator of any vessel of the United States, to engage in fishing in the waters of a foreign nation in a manner that violates an international fishery agreement between that nation and the United States that has been subject to Congressional oversight in the manner described in section 1823 of this title, or any regulations issued to implement such an agreement; except that the binding provisions of such agreement and implementing regulations shall have been published in the Federal Register prior to such violation.
 
-(Pub. L. 94–265, title III, §307, Apr. 13, 1976, 90 Stat. 355; Pub. L. 95–354, §5(4), Aug. 28, 1978, 92 Stat. 521; Pub. L. 97–191, §2, June 1, 1982, 96 Stat. 107; Pub. L. 97–453, §15(b), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §§101(c)(2), 107(a), Nov. 14, 1986, 100 Stat. 3707, 3713; Pub. L. 100–629, §4, Nov. 7, 1988, 102 Stat. 3286; Pub. L. 101–224, §8, Dec. 12, 1989, 103 Stat. 1907; Pub. L. 101–627, title I, §113, Nov. 28, 1990, 104 Stat. 4453; Pub. L. 102–251, title III, §301(h), Mar. 9, 1992, 106 Stat. 64; Pub. L. 104–297, title I, §113, title IV, §405(b)(1), Oct. 11, 1996, 110 Stat. 3597, 3621; Pub. L. 106–557, §3, Dec. 21, 2000, 114 Stat. 2772; Pub. L. 109–479, title I, §118, Jan. 12, 2007, 120 Stat. 3607.)
+(Pub. L. 94–265, title III, §307, Apr. 13, 1976, 90 Stat. 355; Pub. L. 95–354, §5(4), Aug. 28, 1978, 92 Stat. 521; Pub. L. 97–191, §2, June 1, 1982, 96 Stat. 107; Pub. L. 97–453, §15(b), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §§101(c)(2), 107(a), Nov. 14, 1986, 100 Stat. 3707, 3713; Pub. L. 100–629, §4, Nov. 7, 1988, 102 Stat. 3286; Pub. L. 101–224, §8, Dec. 12, 1989, 103 Stat. 1907; Pub. L. 101–627, title I, §113, Nov. 28, 1990, 104 Stat. 4453; Pub. L. 102–251, title III, §301(h), Mar. 9, 1992, 106 Stat. 64; Pub. L. 104–297, title I, §113, title IV, §405(b)(1), Oct. 11, 1996, 110 Stat. 3597, 3621; Pub. L. 106–557, §3, Dec. 21, 2000, 114 Stat. 2772; Pub. L. 109–479, title I, §118, Jan. 12, 2007, 120 Stat. 3607; Pub. L. 111–348, title I, §103(a), Jan. 4, 2011, 124 Stat. 3670.)
 
 #### Amendment of Section
 
@@ -104,11 +106,21 @@ The Atlantic Coastal Fisheries Cooperative Management Act, referred to in par. (
 
 #### Amendments
 
-2007—Par. (1)(Q), (R). Pub. L. 109–479 added subpars. (Q) and (R).
+<b>2011</b>—Par. (1). Pub. L. 111–348, §103(a)(2), substituted “For purposes of subparagraph (P), there shall be a rebuttable presumption that if any shark fin (including the tail) is found aboard a vessel, other than a fishing vessel, without being naturally attached to the corresponding carcass, such fin was transferred in violation of subparagraph (P)(iii) or that if, after landing, the total weight of shark fins (including the tail) landed from any vessel exceeds five percent of the total weight of shark carcasses landed, such fins were taken, held, or landed in violation of subparagraph (P). In such subparagraph, the term ‘naturally attached’, with respect to a shark fin, means attached to the corresponding shark carcass through some portion of uncut skin.” for “For purposes of subparagraph (P) there is a rebuttable presumption that any shark fins landed from a fishing vessel or found on board a fishing vessel were taken, held, or landed in violation of subparagraph (P) if the total weight of shark fins landed or found on board exceeds 5 percent of the total weight of shark carcasses landed or found on board.” in concluding provisions.
 
-2000—Par. (1). Pub. L. 106–557 added subpar. (P) and concluding provisions.
+Par. (1)(P). Pub. L. 111–348, §103(a)(1), amended subpar. (P) generally. Prior to amendment, subpar. (P) read as follows:
 
-1996—Par. (1)(J)(i). Pub. L. 104–297, §113(a), substituted “plan implemented” for “plan, implemented” and inserted before semicolon at end “, or in the absence of any such plan, is smaller than the minimum possession size in effect at the time under a coastal fishery management plan for American lobster adopted by the Atlantic States Marine Fisheries Commission under the Atlantic Coastal Fisheries Cooperative Management Act (16 U.S.C. 5101 et seq.)”.
+“(i) to remove any of the fins of a shark (including the tail) and discard the carcass of the shark at sea;
+
+“(ii) to have custody, control, or possession of any such fin aboard a fishing vessel without the corresponding carcass; or
+
+“(iii) to land any such fin without the corresponding carcass;”.
+
+<b>2007</b>—Par. (1)(Q), (R). Pub. L. 109–479 added subpars. (Q) and (R).
+
+<b>2000</b>—Par. (1). Pub. L. 106–557 added subpar. (P) and concluding provisions.
+
+<b>1996</b>—Par. (1)(J)(i). Pub. L. 104–297, §113(a), substituted “plan implemented” for “plan, implemented” and inserted before semicolon at end “, or in the absence of any such plan, is smaller than the minimum possession size in effect at the time under a coastal fishery management plan for American lobster adopted by the Atlantic States Marine Fisheries Commission under the Atlantic Coastal Fisheries Cooperative Management Act (16 U.S.C. 5101 et seq.)”.
 
 Par. (1)(K). Pub. L. 104–297, §113(b)(2), substituted “gear;” for “gear,” at end of cl. (ii) and struck out concluding provisions which read as follows: “or to attempt to do so;”.
 
@@ -126,23 +138,23 @@ Par. (3). Pub. L. 104–297, §113(g), amended par. (3) generally. Prior to amen
 
 Par. (4). Pub. L. 104–297, §113(h), inserted “or within the boundaries of any State” after “zone” in introductory provisions.
 
-1990—Par. (1)(K) to (N). Pub. L. 101–627, §113(a), added subpars. (K) to (N).
+<b>1990</b>—Par. (1)(K) to (N). Pub. L. 101–627, §113(a), added subpars. (K) to (N).
 
 Par. (5). Pub. L. 101–627, §113(b), added par. (5).
 
-1989—Par. (1)(J). Pub. L. 101–224 added subpar. (J).
+<b>1989</b>—Par. (1)(J). Pub. L. 101–224 added subpar. (J).
 
-1988—Par. (4). Pub. L. 100–629 added par. (4).
+<b>1988</b>—Par. (4). Pub. L. 100–629 added par. (4).
 
-1986—Par. (1)(I). Pub. L. 99–659, §107(a), added subpar. (I).
+<b>1986</b>—Par. (1)(I). Pub. L. 99–659, §107(a), added subpar. (I).
 
 Pars. (2)(B), (3). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 
-1983—Par. (2)(A). Pub. L. 97–453, §15(b)(A), substituted “in fishing within the boundaries of any State, except recreational fishing permitted under section 1821(j) of this title” for “in fishing within the boundaries of any State”.
+<b>1983</b>—Par. (2)(A). Pub. L. 97–453, §15(b)(A), substituted “in fishing within the boundaries of any State, except recreational fishing permitted under section 1821(j) of this title” for “in fishing within the boundaries of any State”.
 
 Par. (2)(B). Pub. L. 97–453, §15(b)(B), inserted “, except recreational fishing permitted under section 1821(j) of this title,” after “in fishing”.
 
-1982—Par. (2). Pub. L. 97–191, §2(1), struck out “in fishing” in provisions preceding subpar. (A).
+<b>1982</b>—Par. (2). Pub. L. 97–191, §2(1), struck out “in fishing” in provisions preceding subpar. (A).
 
 Par. (2)(A). Pub. L. 97–191, §2(2), inserted “in fishing” at beginning and struck out “or” at end.
 
@@ -150,7 +162,7 @@ Par. (2)(B). Pub. L. 97–191, §2(3), inserted “in fishing” at beginning an
 
 Par. (2)(C). Pub. L. 97–191, §2(4), added subpar. (C).
 
-1978—Par. (3). Pub. L. 95–354 added par. (3).
+<b>1978</b>—Par. (3). Pub. L. 95–354 added par. (3).
 
 #### Effective Date of 1992 Amendment
 
@@ -162,7 +174,27 @@ Amendment by Pub. L. 97–191 effective June 1, 1982, see section 3 of Pub. L. 9
 
 #### Effective Date
 
-Section 312 of Pub. L. 94–265, provided that this section and sections 1858 to 1861 of this title were to take effect Mar. 1, 1977, prior to the general amendment of section 312 by Pub. L. 104–297, title I, §116(a), Oct. 11, 1996, 110 Stat. 3600. See section 1861a of this title.
+Section 312 of Pub. L. 94–265, provided that this section and sections 1858 to 1861 of this title were to takeeffect Mar. 1, 1977, prior to the general amendment of section 312 by Pub. L. 104–297, title I, §116(a), Oct. 11, 1996, 110 Stat. 3600. See section 1861a of this title.
+
+#### Savings Clause
+
+Pub. L. 111–348, title I, §103(b), Jan. 4, 2011, 124 Stat. 3670, provided that:
+
+“(1)
+
+In general.—The amendments made by subsection (a) \[amending this section\] do not apply to an individual engaged in commercial fishing for smooth dogfish (<i>Mustelus canis</i>) in that area of the waters of the United States located shoreward of a line drawn in such a manner that each point on it is 50 nautical miles from the baseline of a State from which the territorial sea is measured, if the individual holds a valid State commercial fishing license, unless the total weight of smooth dogfish fins landed or found on board a vessel to which this subsection applies exceeds 12 percent of the total weight of smooth dogfish carcasses landed or found on board.
+
+“(2)
+
+Definitions.—In this subsection:
+
+&emsp;“(A)
+
+Commercial fishing.—The term ‘commercial fishing’ has the meaning given that term in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802).
+
+&emsp;“(B)
+
+State.—The term ‘State’ has the meaning given that term in section 803 of Public Law 103–206 (16 U.S.C. 5102).”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -49,7 +49,7 @@
 | [2452\.](Subchapter%20004%20%28IV%29%20-%20Budget%20and%20Financial%20Management/%C2%A7%2002452%20-%20Planning%2C%20programming%2C%20and%20budgeting%20process.md) | Planning, programming, and budgeting process. |
 | [2453\.](Subchapter%20004%20%28IV%29%20-%20Budget%20and%20Financial%20Management/%C2%A7%2002453%20-%20Future-years%20nuclear%20security%20program.md) | Future-years nuclear security program. |
 | [2454\.](Subchapter%20004%20%28IV%29%20-%20Budget%20and%20Financial%20Management/%C2%A7%2002454%20-%20Semiannual%20financial%20reports%20on%20defense%20nuclear%20nonproliferation%20programs.md) | Semiannual financial reports on defense nuclear nonproliferation programs. |
-| [2455\.](Subchapter%20004%20%28IV%29%20-%20Budget%20and%20Financial%20Management/%C2%A7%2002455%20-%20Biennial%20plan%20and%20budget%20assessment%20on%20the%20modernization%20and%20refurbishment%20of%20the%20nuclear%20security%20complex.md) | Biennial plan and budget assessment on the modernization and refurbishment of the nuclear security complex. |
+| [2455\.](Subchapter%20004%20%28IV%29%20-%20Budget%20and%20Financial%20Management/%C2%A7%2002455%20-%20Comptroller%20General%20assessment%20of%20adequacy%20of%20budget%20requests%20with%20respect%20to%20the%20modernization%20and%20refurbishment%20of%20the%20nuclear%20weapons%E2%80%A6.md) | Comptroller General assessment of adequacy of budget requests with respect to the modernization and refurbishment of the nuclear weapons stockpile. |
 | [2455a.](Subchapter%20004%20%28IV%29%20-%20Budget%20and%20Financial%20Management/%C2%A7%2002455a%20-%20National%20Nuclear%20Security%20Administration%20authority%20for%20urgent%20nonproliferation%20activities.md) | National Nuclear Security Administration authority for urgent nonproliferation activities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -62,6 +62,7 @@
 | [2462\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2002462%20-%20Compliance%20with%20Federal%20Acquisition%20Regulation.md) | Compliance with Federal Acquisition Regulation. |
 | [2463\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2002463%20-%20Sharing%20of%20technology%20with%20Department%20of%20Defense.md) | Sharing of technology with Department of Defense. |
 | [2464\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2002464%20-%20Use%20of%20capabilities%20of%20national%20security%20laboratories%20by%20entities%20outside%20the%20Administration.md) | Use of capabilities of national security laboratories by entities outside the Administration. |
+| [2465\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2002465%20-%20Enhancing%20private-sector%20employment%20through%20cooperative%20research%20and%20development%20activities.md) | Enhancing private-sector employment through cooperative research and development activities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

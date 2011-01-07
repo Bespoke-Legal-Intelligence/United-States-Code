@@ -52,7 +52,7 @@ The date of the enactment of this section, referred to in subsecs. (a) and (b)(1
 
 #### Amendments
 
-2003—Subsec. (c). Pub. L. 108–168 added subsec. (c).
+<b>2003</b>—Subsec. (c). Pub. L. 108–168 added subsec. (c).
 
 #### Effective Date
 

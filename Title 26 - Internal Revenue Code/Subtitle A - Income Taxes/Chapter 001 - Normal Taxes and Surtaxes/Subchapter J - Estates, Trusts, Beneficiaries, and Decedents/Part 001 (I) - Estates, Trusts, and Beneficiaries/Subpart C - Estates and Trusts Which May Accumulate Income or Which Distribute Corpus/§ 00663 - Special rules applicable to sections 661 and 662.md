@@ -34,15 +34,15 @@ For the sole purpose of determining the amount of distributable net income in th
 
 #### Amendments
 
-1997—Subsec. (b). Pub. L. 105–34, §1306(a), inserted “an estate or” before “a trust” in pars. (1) and (2).
+<b>1997</b>—Subsec. (b). Pub. L. 105–34, §1306(a), inserted “an estate or” before “a trust” in pars. (1) and (2).
 
 Subsec. (b)(2). Pub. L. 105–34, §1306(b), substituted “the executor of such estate or the fiduciary of such trust (as the case may be)” for “the fiduciary of such trust”.
 
 Subsec. (c). Pub. L. 105–34, §1307(a), (b), inserted “estates or” before “trusts” in heading, “Rules similar to the rules of the preceding provisions of this subsection shall apply to treat substantially separate and independent shares of different beneficiaries in an estate having more than 1 beneficiary as separate estates.” before last sentence, and “or estates” after “trusts” in last sentence.
 
-1976—Subsecs. (b)(2), (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (b)(2), (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1969—Subsec. (a)(2). Pub. L. 91–172, §101(j)(17), substituted “sections 508(d), 681, and 4948(c)(4)” for “section 681”.
+<b>1969</b>—Subsec. (a)(2). Pub. L. 91–172, §101(j)(17), substituted “sections 508(d), 681, and 4948(c)(4)” for “section 681”.
 
 Subsec. (b)(2). Pub. L. 91–172, §331(b), incorporated existing provisions of subpar. (C) of former first sentence making subsec. (b) applicable only to a trust where the fiduciary elected to have the subsec. apply and part of former second sentence making the election applicable in accordance with prescribed regulations; substituted provisions for regulations to spell out manner and time of election for part of former second sentence requiring the election to be made not later than the time prescribed by law for filing the return for the year, including any extension; and omitted: subpars. (A) and (B) of former first sentence which had provided for application of subsec. (b) only to a trust “(A) which was in existence prior to January 1, 1954” and “(B) which, under the terms of its governing instrument, may not distribute in any taxable year amounts in excess of the income of the preceding taxable year”; part of former second sentence which required the election to be made for first taxable year to which this part is applicable; and third sentence that “If such election is made with respect to a taxable year, this subsection shall apply to all amounts properly paid or credited within the first 65 days of all subsequent taxable years of such trust.”
 
@@ -54,7 +54,7 @@ Section 1307(c) of Pub. L. 105–34 provided that: “The amendments made by thi
 
 #### Effective Date of 1969 Amendment
 
-Amendment by section 101(j)(17) of Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of Pub. L. 91–172, set out as an Effective Date note under section 4940 of this title.
+Amendment by section 101(j)(17) of Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of Pub. L.91–172, set out as an Effective Date note under section 4940 of this title.
 
 Amendment by section 331(b) of Pub. L. 91–172 applicable to taxable years beginning before Jan. 1, 1970, see section 331(d) of Pub. L. 91–172, set out as a note under section 665 of this title.
 

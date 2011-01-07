@@ -40,7 +40,7 @@ The President shall not provide assistance under this part—
 
 &emsp;(1) for the government of any independent state that the President determines is engaged in a consistent pattern of gross violations of internationally recognized human rights or of international law;
 
-&emsp;(2) for the government of any independent state that the President determines has failedto take constructive actions to facilitate the effective implementation of applicable arms control obligations derived from agreements signed by the former Soviet Union;
+&emsp;(2) for the government of any independent state that the President determines has failed to take constructive actions to facilitate the effective implementation of applicable arms control obligations derived from agreements signed by the former Soviet Union;
 
 &emsp;(3) for the government of any independent state that the President determines has, on or after October 24, 1992, knowingly transferred to another country—
 
@@ -50,7 +50,7 @@ The President shall not provide assistance under this part—
 
 &emsp;(4) for the government of any independent state that is prohibited from receiving such assistance by section 2799aa or 2799aa–1 of this title or sections 5604(a)(1) and 5605 of this title;
 
-&emsp;(5) for the government of any independent state effective 30 days after the President has determined and certified to the appropriate congressional committees (and Congress has not enacted legislation disapproving the determination within that 30-day period) that such government is providing assistance for, or engaging in nonmarket based trade (as defined in section 2295b(k)(3) of this title) with, the Cuban Government; or
+&emsp;(5) for the government of any independent state effective 30 days after the President has determined and certified to the appropriate congressional committees (and Congress has not enacted legislation disapproving the determination within that 30-day period) that suchgovernment is providing assistance for, or engaging in nonmarket based trade (as defined in section 2295b(k)(3) of this title) with, the Cuban Government; or
 
 &emsp;(6) for the Government of Russia if it has failed to make significant progress on the removal of Russian or Commonwealth of Independent States troops from Estonia, Latvia, and Lithuania or if it has failed to undertake good faith efforts, such as negotiations, to end other military practices that violate the sovereignty of the Baltics <sup>1</sup> states.
 
@@ -102,7 +102,7 @@ Assistance prohibited by subsection (b) of this section or any similar provision
 
 &emsp;&emsp;(G) assistance for the purposes described in the Cooperative Threat Reduction Act of 1993 (title XII of Public Law 103–160) \[22 U.S.C. 5951 et seq.\].
 
-(Pub. L. 87–195, pt. I, §498A, as added Pub. L. 102–511, title II, §201, Oct. 24, 1992, 106 Stat. 3326;amended Pub. L. 103–236, title VIII, §826(c), Apr. 30, 1994, 108 Stat. 519; Pub. L. 104–114, title I, §106(b), (c)(1), (3), (d)(2), Mar. 12, 1996, 110 Stat. 795–797.)
+(Pub. L. 87–195, pt. I, §498A, as added Pub. L. 102–511, title II, §201, Oct. 24, 1992, 106 Stat. 3326; amended Pub. L. 103–236, title VIII, §826(c), Apr. 30, 1994, 108 Stat. 519; Pub. L. 104–114, title I, §106(b), (c)(1), (3), (d)(2), Mar. 12, 1996, 110 Stat. 795–797.)
 
 #### References in Text
 
@@ -112,7 +112,7 @@ The Cooperative Threat Reduction Act of 1993, referred to in subsec. (d)(3)(G), 
 
 #### Amendments
 
-1996—Subsec. (a)(11). Pub. L. 104–114, §106(b), substituted “military and intelligence facilities, including the military and intelligence facilities at Lourdes and Cienfuegos” for “of military facilities”.
+<b>1996</b>—Subsec. (a)(11). Pub. L. 104–114, §106(b), substituted “military and intelligence facilities, including the military and intelligence facilities at Lourdes and Cienfuegos” for “of military facilities”.
 
 Subsec. (b)(5), (6). Pub. L. 104–114, §106(c)(1), added par. (5) and redesignated former par. (5) as (6).
 
@@ -120,7 +120,7 @@ Subsec. (c)(4). Pub. L. 104–114, §106(c)(3), added par. (4).
 
 Subsec. (d). Pub. L. 104–114, §106(d)(2), added subsec. (d).
 
-1994—Subsec. (b)(4). Pub. L. 103–236 substituted “section 2799aa or 2799aa–1” for “section 2429 or 2429a”.
+<b>1994</b>—Subsec. (b)(4). Pub. L. 103–236 substituted “section 2799aa or 2799aa–1” for “section 2429 or 2429a”.
 
 #### Change of Name
 

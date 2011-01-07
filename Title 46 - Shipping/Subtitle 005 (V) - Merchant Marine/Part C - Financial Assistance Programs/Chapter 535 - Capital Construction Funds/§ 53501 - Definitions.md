@@ -180,7 +180,7 @@ Section 506 of the Merchant Marine Act, 1936, referred to in par. (7), is sectio
 
 #### Amendments
 
-2007—Par. (5)(A)(iii). Pub. L. 110–140, §1122(a)(1), substituted “noncontiguous domestic, or short sea transportation trade” for “or noncontiguous domestic”.
+<b>2007</b>—Par. (5)(A)(iii). Pub. L. 110–140, §1122(a)(1), substituted “noncontiguous domestic, or short sea transportation trade” for “or noncontiguous domestic”.
 
 Par. (7). Pub. L. 110–140, §1122(a)(2), added par. (7) relating to short sea transportation trade.
 

@@ -38,5 +38,5 @@ This amends 10:7087(a) to reflect the transfer of functions from the Civil Servi
 
 #### Amendments
 
-1982—Subsec. (a). Pub. L. 97–295 substituted “Director of the Office of Personnel Management” for “Civil Service Commission”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–295 substituted “Director of the Office of Personnel Management” for “Civil Service Commission”.
 

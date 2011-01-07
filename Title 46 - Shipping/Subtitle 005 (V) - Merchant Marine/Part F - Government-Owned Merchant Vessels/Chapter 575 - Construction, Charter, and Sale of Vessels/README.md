@@ -43,7 +43,9 @@
 
 #### Amendments
 
-2008—Pub. L. 110–181, div. C, title XXXV, §3511(b), Jan. 28, 2008, 122 Stat. 594, added item 57533.
+<b>2008</b>—Pub. L. 110–181, div. C, title XXXV, §3511(b), Jan. 28, 2008, 122 Stat. 594, added item 57533.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 
 ---

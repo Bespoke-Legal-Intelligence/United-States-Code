@@ -30,7 +30,7 @@ In subsec. (c), “November 22, 1983” was in the original “the date of enact
 
 #### Amendments
 
-1983—Subsec. (c). Pub. L. 98–164 added subsec. (c).
+<b>1983</b>—Subsec. (c). Pub. L. 98–164 added subsec. (c).
 
 #### Change of Name
 

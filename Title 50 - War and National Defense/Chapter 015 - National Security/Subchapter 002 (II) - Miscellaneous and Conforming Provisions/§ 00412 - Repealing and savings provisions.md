@@ -2,7 +2,7 @@
 
 All laws, orders, and regulations inconsistent with the provisions of this title are repealed insofar as they are inconsistent with the powers, duties, and responsibilities enacted hereby: <i>Provided</i>, That the powers, duties, and responsibilities of the Secretary of Defense under this title shall be administered in conformance with the policy and requirements for administration of budgetary and fiscal matters in the Government generally, including accounting and financial reporting, and that nothing in this title shall be construed as eliminating or modifying the powers, duties, and responsibilities of any other department, agency, or officer of the Government in connection with such matters, but no such department, agency, or officer shall exercise any such powers, duties, or responsibilities in a manner that will render ineffective the provisions of this title.
 
-(July 26, 1947, ch. 343, title IV, §411, as added Aug. 10, 1949, ch. 412, §11, 63 Stat. 585.)
+(July 26, 1947, ch. 343, title IV, §411, as added Aug. 10, 1949, ch. 412, §11, 63 Stat. 590.)
 
 #### References in Text
 

@@ -10,5 +10,5 @@
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–509 inserted provisions authorizing appropriations for fiscal year ending Sept. 30, 1985.
+<b>1984</b>—Subsec. (a). Pub. L. 98–509 inserted provisions authorizing appropriations for fiscal year ending Sept. 30, 1985.
 

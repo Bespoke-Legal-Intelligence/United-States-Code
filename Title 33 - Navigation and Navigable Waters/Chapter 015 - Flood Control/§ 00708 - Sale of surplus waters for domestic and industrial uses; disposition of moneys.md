@@ -6,7 +6,7 @@ The Secretary of the Army is authorized to make contracts with States, municipal
 
 #### Amendments
 
-1952—Act May 23, 1952, revived and reenacted section.
+<b>1952</b>—Act May 23, 1952, revived and reenacted section.
 
 #### Change of Name
 

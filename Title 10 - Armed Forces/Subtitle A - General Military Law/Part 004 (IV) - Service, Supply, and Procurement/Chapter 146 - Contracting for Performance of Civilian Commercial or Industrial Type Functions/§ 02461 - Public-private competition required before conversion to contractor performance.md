@@ -28,7 +28,7 @@ Public-Private Competition.—(1) No function of the Department of Defense perfo
 
 &emsp;(G) requires that the contractor shall not receive an advantage for a proposal that would reduce costs for the Department of Defense by—
 
-&emsp;&emsp;(i) not making an employer-sponsored health insurance plan (or payment that could be used in lieu of such a plan), health savings account, or medical savings account available to the workers who are to be employed to perform the function under the contract;
+&emsp;&emsp;(i) not making an employer-sponsored health insurance plan (or payment that could be used in lieu of such a plan), healthsavings account, or medical savings account available to the workers who are to be employed to perform the function under the contract;
 
 &emsp;&emsp;(ii) offering to such workers an employer-sponsored health benefits plan that requires the employer to contribute less towards the premium or subscription share than the amount that is paid by the Department of Defense for health benefits for civilian employees of the Department under chapter 89 of title 5; or
 
@@ -66,7 +66,7 @@ Public-Private Competition.—(1) No function of the Department of Defense perfo
 
 (C) The time period specified in subparagraph (A) for a public-private competition does not include any day during which the public-private competition is delayed by reason of the filing of a protest before the Government Accountability Office or a complaint in the United States Court of Federal Claims up until the day the decision or recommendation of either authority becomes final. In the case of a protest before the Government Accountability Office, the recommendation becomes final after the period of time for filing a request for reconsideration, or if a request for reconsideration is filed, on the day the Government Accountability Office issues a decision on the reconsideration.
 
-(D) If a protest with respect to a public-private competition before the Government Accountability Office or the United States Court of Federal Claims is sustained, and the recommendation is final as described in subparagraph (C), and if such protest and recommendation result in an unforeseen delay in implementing a final performance decision, the Secretary of Defense may terminate the public-private competition or extend the period of time specified for the public-private competition under subparagraph (A) or subparagraph (B). If the Secretary decides not to terminate a competition, the Secretary shall submit to Congress written notice of such decision. Any such notification shall include a justification for the Secretary's decision and a new time limitation for the competition, which shall not exceed 12 months from the finaldecision and shall be binding on the Department.
+(D) If a protest with respect to a public-private competition before the Government Accountability Office or the United States Court of Federal Claims is sustained, and the recommendation is final as described in subparagraph (C), and if such protest and recommendation result in an unforeseen delay in implementing a final performance decision, the Secretary of Defense may terminate the public-private competition or extend the period of time specified for the public-private competition under subparagraph (A) or subparagraph (B). If the Secretary decides not to terminate a competition, the Secretary shall submit to Congress written notice of such decision. Any such notification shall include a justification for the Secretary's decision and a new time limitation for the competition, which shall not exceed 12 months from the final decision and shall be binding on the Department.
 
 (E) For the purposes of this paragraph, preliminary planning with respect to a public-private competition, begins on the date on which the Department of Defense obligates funds for the acquisition of contract support, or formally assigns Department of Defense personnel, to carry out any of the following activities:
 
@@ -128,15 +128,15 @@ Congressional Notification.—(1) Before commencing a public-private competition
 
 Exemption for the Purchase of Products and Services of the Blind and Other Severely Handicapped Persons.—This section shall not apply to a commercial or industrial type function of the Department of Defense that—
 
-&emsp;(1) is included on the procurement list established pursuant to section 2 of the Javits-Wagner-O'Day Act (41 U.S.C. 47); or
+&emsp;(1) is included on the procurement list established pursuant to section 8503 of title 41; or
 
-&emsp;(2) is planned to be changed to performance by a qualified nonprofit agency for the blind or by a qualified nonprofit agency for other severely handicapped persons in accordance with that Act.
+&emsp;(2) is planned to be changed to performance by a qualified nonprofit agency for the blind or by a qualified nonprofit agency for other severely handicapped persons in accordance with that Act.<sup>1</sup>
 
 (e)
 
 Inapplicability During War or Emergency.—The provisions of this section shall not apply during war or during a period of national emergency declared by the President or Congress.
 
-(Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 851; amended Pub. L. 101–189, div. A, title XI, §1132, Nov. 29, 1989, 103 Stat. 1561; Pub. L. 104–106, div. D, title XLIII, §4321(b)(19), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title III, §384, Nov. 18, 1997, 111 Stat. 1711; Pub. L. 105–261, div. A, title III, §342(a)–(c), Oct. 17, 1998, 112 Stat. 1974–1976; Pub. L. 106–65, div. A, title III, §341, Oct. 5, 1999, 113 Stat. 568; Pub. L. 106–398, §1 \[\[div. A\], title III, §§351, 352\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, 1654A–72; Pub. L. 107–107, div. A, title III, §344, Dec. 28, 2001, 115 Stat. 1061; Pub. L. 107–314, div. A, title III, §331, Dec. 2, 2002, 116 Stat. 2512; Pub. L. 109–163, div. A, title III, §341(a), (b), (c)(2), (3), (g)(1)–(2)(B), Jan. 6, 2006, 119 Stat. 3195, 3196, 3199, 3200; Pub. L. 110–181, div. A, title III, §§322(a), (b)(2), (c), 323, Jan. 28, 2008, 122 Stat. 58–60; Pub. L. 111–84, div. A, title III, §§321(a), 322(a), title X, §1073(a)(25), Oct. 28, 2009, 123 Stat. 2250, 2251, 2474.)
+(Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 851; amended Pub. L. 101–189, div. A, titleXI, §1132, Nov. 29, 1989, 103 Stat. 1561; Pub. L. 104–106, div. D, title XLIII, §4321(b)(19), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title III, §384, Nov. 18, 1997, 111 Stat. 1711; Pub. L. 105–261, div. A, title III, §342(a)–(c), Oct. 17, 1998, 112 Stat. 1974–1976; Pub. L. 106–65, div. A, title III, §341, Oct. 5, 1999, 113 Stat. 568; Pub. L. 106–398, §1 \[\[div. A\], title III, §§351, 352\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, 1654A–72; Pub. L. 107–107, div. A, title III, §344, Dec. 28, 2001, 115 Stat. 1061; Pub. L. 107–314, div. A, title III, §331, Dec. 2, 2002, 116 Stat. 2512; Pub. L. 109–163, div. A, title III, §341(a), (b), (c)(2), (3), (g)(1)–(2)(B), Jan. 6, 2006, 119 Stat. 3195, 3196, 3199, 3200; Pub. L. 110–181, div. A, title III, §§322(a), (b)(2), (c), 323, Jan. 28, 2008, 122 Stat. 58–60; Pub. L. 111–84, div. A, title III, §§321(a), 322(a), title X, §1073(a)(25), Oct. 28, 2009, 123 Stat. 2250, 2251, 2474; Pub. L. 111–350, §5(b)(34), Jan. 4, 2011, 124 Stat. 3845.)
 
 #### Historical and Revision Notes
 
@@ -144,17 +144,19 @@ Section is based on Pub. L. 96–342, title V, §502, Sept. 8, 1980, 94 Stat. 10
 
 #### References in Text
 
-The Javits-Wagner-O'Day Act, referred to in subsec. (d)(2), is act June 25, 1938, ch. 697, 52 Stat. 1196, which is classified to sections 46 to 48c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 46 of Title 41 and Tables.
+That Act, referred to in subsec. (d)(2), is a reference to the Javits-Wagner-O'Day Act, which is act June 25, 1938, ch. 697, 52 Stat. 1196, and was classified to sections 46 to 48c of former Title 41, Public Contracts, prior to being repealed and restated as chapter 85 (§8501 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 #### Amendments
 
-2009—Subsec. (a)(1). Pub. L. 111–84, §321(a), in introductory provisions, substituted “No function” for “A function” and “may be converted” for “may not be converted” and struck out “10 or more” before “Department of Defense civilian employees”.
+<b>2011</b>—Subsec. (d)(1). Pub. L. 111–350, which directed substitution of “section 8503 of title 41” for “section 2 of the Javits-Wagner-O'Day Act (41 U.S.C. 47)” in subsec. (c)(1), was executed by making the substitution in subsec. (d)(1) to reflect the probable intent of Congress and the amendment by Pub. L. 110–181, §322(b)(2). See 2008 Amendment note below.
+
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–84, §321(a), in introductory provisions, substituted “No function” for “A function” and “may be converted” for “may not be converted” and struck out “10 or more” before “Department of Defense civilian employees”.
 
 Subsec. (a)(5). Pub. L. 111–84, §322(a), added par. (5).
 
 Subsec. (c)(3)(A). Pub. L. 111–84, §1073(a)(25), substituted “the public-private competition” for “the public private competition” in two places in introductory provisions.
 
-2008—Subsec. (a)(1)(B). Pub. L. 110–181, §322(c)(1)(A), inserted “, or any successor circular” after “2003”.
+<b>2008</b>—Subsec. (a)(1)(B). Pub. L. 110–181, §322(c)(1)(A), inserted “, or any successor circular” after “2003”.
 
 Subsec. (a)(1)(D). Pub. L. 110–181, §322(c)(1)(B), substituted “, reliability, and timeliness” for “and reliability”.
 
@@ -166,9 +168,9 @@ Subsecs. (b), (c). Pub. L. 110–181, §322(b)(2), added subsec. (b) and redesig
 
 Subsec. (c)(2). Pub. L. 110–181, §322(c)(2), inserted “of” after “examination” in introductory provisions.
 
-Subsecs. (d), (e). Pub. L. 110–181 §322(b)(2), redesignated subsecs. (c) and (d) as (d) and (e), respectively.
+Subsecs. (d), (e). Pub. L. 110–181, §322(b)(2), redesignated subsecs. (c) and (d) as (d) and (e), respectively.
 
-2006—Pub. L. 109–163, §341(g)(2)(A), substituted “Public-private competition required” for “Commercial or industrial type functions: required studies and reports” in section catchline.
+<b>2006</b>—Pub. L. 109–163, §341(g)(2)(A), substituted “Public-private competition required” for “Commercial or industrial type functions: required studies and reports” in section catchline.
 
 Subsec. (a). Pub. L. 109–163, §341(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “A commercial or industrial type function of the Department of Defense that, as of October 1, 1980, was being performed by Department of Defense civilian employees may not be changed to performance by the private sector until the Secretary of Defense fully complies with the reporting and analysis requirements specified in subsections (b) and (c).”
 
@@ -202,19 +204,19 @@ Pub. L. 109–163, §341(c)(2), redesignated subsec. (e) as (c) and struck out f
 
 Subsecs. (d) to (h). Pub. L. 109–163, §341(c)(2), redesignated subsecs. (e) and (h) as (c) and (d), respectively, and struck out former subsecs. (d), (f), and (g) which related, respectively, to waiver for small functions, additional limitations, and annual reports.
 
-2002—Subsec. (c). Pub. L. 107–314 amended heading and text of subsec. (c) generally. Prior to amendment, text related to the report to Congress by the Secretary of Defense upon a decision to change the commercial or industrial type function that was the subject of the analysis to performance by the private sector, with requirements for contents of the report and submission of the report prior to the change of the function to contractor performance.
+<b>2002</b>—Subsec. (c). Pub. L. 107–314 amended heading and text of subsec. (c) generally. Prior to amendment, text related to the report to Congress by the Secretary of Defense upon a decision to change the commercial or industrial type function that was the subject of the analysis to performance by the private sector, with requirements for contents of the report and submission of the report prior to the change of the function to contractor performance.
 
-2001—Subsec. (g). Pub. L. 107–107 substituted “June 30” for “February 1”.
+<b>2001</b>—Subsec. (g). Pub. L. 107–107 substituted “June 30” for “February 1”.
 
-2000—Subsec. (b)(1)(D). Pub. L. 106–398, §1 \[\[div. A\], title III, §351(a)\], inserted before period “, and a specific identification of the budgetary line item from which funds will be used to cover the cost of the analysis”.
+<b>2000</b>—Subsec. (b)(1)(D). Pub. L. 106–398, §1 \[\[div. A\], title III, §351(a)\], inserted before period “, and a specific identification of the budgetary line item from which funds will be used to cover the cost of the analysis”.
 
 Subsec. (c)(1). Pub. L. 106–398, §1 \[\[div. A\], title III, §351(b)\], added subpars. (A), (D), (E), and (G) and redesignated former subpars. (A), (B), (C), (D), and (E) as (B), (C), (F), (H), and (I), respectively.
 
 Subsec. (c)(2), (3). Pub. L. 106–398, §1 \[\[div. A\], title III, §352\], added par. (2) and redesignated former par. (2) as (3).
 
-1999—Subsec. (b)(3)(B)(ii). Pub. L. 106–65 substituted “50 employees” for “75 employees”.
+<b>1999</b>—Subsec. (b)(3)(B)(ii). Pub. L. 106–65 substituted “50 employees” for “75 employees”.
 
-1998—Subsec. (a). Pub. L. 105–261, §342(a)(2), added subsec. (a) and struck out former subsec. (a) which provided that commercial or industrial type functions of the Department of Defense that on Oct. 1, 1980, were being performed by Department of Defense civilian employees could not be converted to performance by private contractors unless the Secretary of Defense provided certain notices, information, certifications, and reports to Congress.
+<b>1998</b>—Subsec. (a). Pub. L. 105–261, §342(a)(2), added subsec. (a) and struck out former subsec. (a) which provided that commercial or industrial type functions of the Department of Defense that on Oct. 1, 1980, were being performed by Department of Defense civilian employees could not be converted to performance by private contractors unless the Secretary of Defense provided certain notices, information, certifications, and reports to Congress.
 
 Subsec. (b). Pub. L. 105–261, §342(a)(2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “If, after completion of the studies required for completion of the certification and report required by paragraphs (3) and (4) of subsection (a), a decision is made to convert the function to contractor performance, the Secretary of Defense shall notify Congress of such decision. The notification shall include the timetable for completing conversion of the function to contractor performance.”
 
@@ -228,15 +230,15 @@ Subsec. (f). Pub. L. 105–261, §342(c)(2), (3), substituted “changed” for 
 
 Subsecs. (g), (h). Pub. L. 105–261, §342(a)(1), redesignated subsecs. (c) and (g) as (g) and (h), respectively.
 
-1997—Subsec. (a)(1). Pub. L. 105–85, §384(a), inserted “and the anticipated length and cost of the study” before semicolon at end.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–85, §384(a), inserted “and the anticipated length and cost of the study” before semicolon at end.
 
 Subsec. (b). Pub. L. 105–85, §384(b), inserted at end “The notification shall include the timetable for completing conversion of the function to contractor performance.”
 
 Subsec. (d). Pub. L. 105–85, §384(c), substituted “20 or fewer” for “45 or fewer”.
 
-1996—Subsec. (e)(1). Pub. L. 104–106 substituted “the Javits-Wagner-O'Day Act (41 U.S.C. 47)” for “the Act of June 25, 1938 (41 U.S.C. 47), popularly referred to as the Wagner-O'Day Act”.
+<b>1996</b>—Subsec. (e)(1). Pub. L. 104–106 substituted “the Javits-Wagner-O'Day Act (41 U.S.C. 47)” for “the Act of June 25, 1938 (41 U.S.C. 47), popularly referred to as the Wagner-O'Day Act”.
 
-1989—Subsecs. (e) to (g). Pub. L. 101–189 added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
+<b>1989</b>—Subsecs. (e) to (g). Pub. L. 101–189 added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
 #### Effective Date of 2009 Amendment
 
@@ -250,7 +252,7 @@ Pub. L. 105–261, div. A, title III, §342(d), Oct. 17, 1998, 112 Stat. 1976, p
 
 #### Effective Date of 1996 Amendment
 
-For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2302 of this title.
 
 #### Restriction on Office of Management and Budget Influence Over Department of Defense Public-Private Competitions
 
@@ -286,7 +288,7 @@ Pub. L. 111–84, div. A, title X, §1082, Oct. 28, 2009, 123 Stat. 2481, provid
 
 “(a)
 
-Multiyear Contracts Authorized.—The Secretary of the Air Force may enter into one or more multiyear contracts, beginning with the fiscal year 2011 program year, for purposes of conducting the pilot program on utilizing commercial fee-for-service air refueling tanker aircraft for Air Force operations required by section 1081 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 335) \[set out below\].
+Multiyear Contracts Authorized.—The Secretary of the Air Force may enter into one or more multiyear contracts, beginning with the fiscal year 2011 program year, for purposes of conducting the pilot program on utilizing commercial fee-for-service air refueling tanker aircraft for Air Force operations required bysection 1081 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 335) \[set out below\].
 
 “(b)
 
@@ -472,7 +474,7 @@ Review.—Not later than February 1, 2008, the Comptroller General shall submit 
 
 “(f)
 
-Information Technology Service Defined.—In this section, the term ‘information technology service’ means any service performed in the operation or maintenance of information technology (as defined in section 11101 of title 40, United States Code) that is necessary for or beneficial to the accomplishment of the authorized functions of the Department of Defense (other than functions which the Secretary of Defense determines must be performed by military or Government personnel).”
+Information Technology Service Defined.—In this section, the term ‘information technology service’ means any service performed in the operation or maintenance of information technology (as defined in section 11101 of title 40, United States Code) that is necessary for or beneficial to the accomplishment of the authorized functions of the Department of Defense (other than functions which the Secretary of Defensedetermines must be performed by military or Government personnel).”
 
 #### Pilot Manpower Reporting System in Department of the Army
 
@@ -550,7 +552,7 @@ Section 353(b) of Pub. L. 104–106 provided that:
 
 “(1) The Secretary shall carry out a pilot program to test the performance by private-sector sources of payroll and other accounting and finance functions of nonappropriated fund instrumentalities and to evaluate the extent to which cost savings and efficiencies would result from the performance of such functions by those sources.
 
-“(2) The payroll and other accounting and finance functions designated by the Secretary for performance by private-sector sources under the pilot program shall include at least one major payroll, accounting, or finance function.
+“(2) The payroll and other accounting and finance functions designated by the Secretary for performanceby private-sector sources under the pilot program shall include at least one major payroll, accounting, or finance function.
 
 “(3) To carry out the pilot program, the Secretary shall enter into discussions with private-sector sources for the purpose of developing a request for proposals to be issued for performance by those sources of functions designated by the Secretary under paragraph (2). The discussions shall be conducted on a schedule that accommodates issuance of a request for proposals within 60 days after the date of the enactment of this Act \[Feb. 10, 1996\].
 
@@ -711,4 +713,6 @@ Report.—(1) The Secretary shall identify activities of the Department (other t
 &emsp;“(D) The views of the Secretary on the desirability of terminating the applicability of OMB Circular A–76 to the Department.
 
 “(4) The Secretary shall carry out paragraph (1) in consultation with the Director of the Office of Management and Budget and the Comptroller General of the United States. In carrying out that paragraph, the Secretary shall consult with, and seek the views of, representatives of the private sector, including organizations representing small businesses.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

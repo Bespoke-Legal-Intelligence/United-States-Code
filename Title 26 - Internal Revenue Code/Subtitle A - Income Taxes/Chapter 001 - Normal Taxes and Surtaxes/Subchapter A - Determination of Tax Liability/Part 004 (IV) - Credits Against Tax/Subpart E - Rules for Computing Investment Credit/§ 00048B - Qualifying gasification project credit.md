@@ -120,7 +120,7 @@ For purposes of this section—
 
 &emsp;&emsp;(D) the fuels identified with respect to the gasification technology for such project will comprise at least 90 percent of the fuels required by the project for the production of chemical feedstocks, liquid transportation fuels, or coproduction of electricity,
 
-&emsp;&emsp;(E) the award recipient's project team is competent in the construction and operationof the gasification technology proposed, with preference given to those recipients with experience which demonstrates successful and reliable operations of the technology on domestic fuels so identified, and
+&emsp;&emsp;(E) the award recipient's project team is competent in the construction and operation of the gasification technology proposed, with preference given to those recipients with experience which demonstrates successful and reliable operations of the technology on domestic fuels so identified, and
 
 &emsp;&emsp;(F) the award recipient has met other criteria established and published by the Secretary.
 
@@ -130,7 +130,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) give highest priority to projects with the greatest separation and sequestration percentage of total carbon dioxide emissions, and
 
-&emsp;&emsp;(B) give high priority to applicant participants who have a research partnership with an eligible educational institution (as defined in section 529(e)(5)).
+&emsp;&emsp;(B) give high priority to applicant participants who have a research partnership withan eligible educational institution (as defined in section 529(e)(5)).
 
 #### (e) Denial of double benefit
 
@@ -150,9 +150,9 @@ The date of the enactment of this section, referred to in subsec. (d)(1), is the
 
 #### Amendments
 
-2009—Subsec. (b)(2). Pub. L. 111–5 inserted “(without regard to subparagraph (D) thereof)” after “section 48(a)(4)”.
+<b>2009</b>—Subsec. (b)(2). Pub. L. 111–5 inserted “(without regard to subparagraph (D) thereof)” after “section 48(a)(4)”.
 
-2008—Subsec. (a). Pub. L. 110–343, §112(a), inserted “(30 percent in the case of credits allocated under subsection (d)(1)(B))” after “20 percent”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–343, §112(a), inserted “(30 percent in the case of credits allocated under subsection (d)(1)(B))” after “20 percent”.
 
 Subsec. (c)(7)(H). Pub. L. 110–343, §112(e), added subpar. (H).
 

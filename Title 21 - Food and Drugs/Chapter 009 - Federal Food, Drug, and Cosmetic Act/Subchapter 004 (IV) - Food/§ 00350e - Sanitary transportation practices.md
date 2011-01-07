@@ -84,3 +84,7 @@ The Secretary of Transportation, the Secretary of Agriculture, the Administrator
 
 Section effective Oct. 1, 2005, see section 7204 of Pub. L. 109–59, set out as an Effective Date of 2005 Amendment note under section 331 of this title.
 
+#### Regulations
+
+Pub. L. 111–353, title I, §111(a), Jan. 4, 2011, 124 Stat. 3916, provided that: “Not later than 18 months after the date of enactment of this Act \[Jan. 4, 2011\], the Secretary shall promulgate regulations described in section 416(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 350e(b)).”
+

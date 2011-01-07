@@ -16,21 +16,21 @@ Provisions similar to those comprising subsecs. (a), (b), (d), and (e) of this s
 
 #### Amendments
 
-2006—Pub. L. 109–233 revised style of subsec. headings.
+<b>2006</b>—Pub. L. 109–233 revised style of subsec. headings.
 
-1991—Pub. L. 102–83 renumbered section 1681 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1681 of this title as this section.
 
-1989—Subsec. (a). Pub. L. 101–237 substituted “Secretary” for “Administrator”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–237 substituted “Secretary” for “Administrator”.
 
-1981—Subsec. (b). Pub. L. 97–35, §2003(b)(4)(A), struck out applicability to flight training program.
+<b>1981</b>—Subsec. (b). Pub. L. 97–35, §2003(b)(4)(A), struck out applicability to flight training program.
 
 Subsec. (c). Pub. L. 97–35, §2003(b)(4)(B), struck out subsec. (c) which related to flight training.
 
-1976—Subsec. (a). Pub. L. 94–502, §§210(2), 211(10), substituted “chapter 36” for “section 1780” and “the veteran's” for “his”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–502, §§210(2), 211(10), substituted “chapter 36” for “section 1780” and “the veteran's” for “his”.
 
 Subsec. (b). Pub. L. 94–502, §210(2), substituted “chapter 36” for “section 1780”.
 
-1972—Subsec. (a). Pub. L. 92–540 inserted heading and provisions requiring allowances to be paid in accordance with the applicable provisions of this section and section 1780 of this title.
+<b>1972</b>—Subsec. (a). Pub. L. 92–540 inserted heading and provisions requiring allowances to be paid in accordance with the applicable provisions of this section and section 1780 of this title.
 
 Subsec. (b). Pub. L. 92–540 inserted heading and substituted provisions requiring allowances of an eligible veteran pursuing a program of education, other than a program exclusively by correspondence or a program of flight training, at an educational institution to be paid as provided in section 1780 of this title, for provisions requiring allowances of an eligible veteran to be paid, as provided in section 1682 of this title, only for the period of his enrollment as approved by the Administrator, but limiting such payments to veterans meeting certain specified requirements while pursuing standard college degrees.
 
@@ -40,7 +40,7 @@ Subsec. (d). Pub. L. 92–540 struck out subsec. (d) which related to certificat
 
 Subsec. (e). Pub. L. 92–540 struck out subsec. (e) which related to the prompt payment of the educational assistance allowance to the veteran.
 
-1970—Subsec. (b)(2). Pub. L. 91–584 excluded programs of apprenticeship and programs of other on-job training authorized by section 1683 of this title for educational assistance to veterans.
+<b>1970</b>—Subsec. (b)(2). Pub. L. 91–584 excluded programs of apprenticeship and programs of other on-job training authorized by section 1683 of this title for educational assistance to veterans.
 
 Subsec. (d). Pub. L. 91–219 inserted provision that the Administrator may pay an educational assistance allowance representing the initial payment of an enrollment period, not exceeding one full month, upon receipt of a certificate of enrollment.
 

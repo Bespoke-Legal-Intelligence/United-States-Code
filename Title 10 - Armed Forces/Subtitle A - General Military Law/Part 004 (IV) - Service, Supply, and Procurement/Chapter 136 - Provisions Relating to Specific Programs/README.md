@@ -9,7 +9,7 @@
 
 #### Amendments
 
-2000—Pub. L. 106–398, §1 \[\[div. A\], title I, §131(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–29, added item 2282.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title I, §131(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–29, added item 2282.
 
 
 ---

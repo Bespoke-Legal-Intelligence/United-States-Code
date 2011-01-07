@@ -56,11 +56,11 @@ Section 190 of the Revised Statutes (5 U.S.C. 99), referred to in subsec. (h)(1)
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–11 substituted “2018” for “2008”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–11 substituted “2018” for “2008”.
 
-1998—Subsec. (a). Pub. L. 105–280 substituted “The Commission shall terminate September 26, 2008.” for “Said Commission shall terminate 30 years after the date the seashore is established under section 459b–2 of this title.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–280 substituted “The Commission shall terminate September 26, 2008.” for “Said Commission shall terminate 30 years after the date the seashore is established under section 459b–2 of this title.”
 
-1986—Subsec. (a). Pub. L. 99–420 substituted “30 years” for “ten years”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–420 substituted “30 years” for “ten years”.
 
 #### Effective Date of 2009 Amendment
 

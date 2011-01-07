@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(D) provide food and nutritional support for children affected by HIV/AIDS and to communities and households caring for children affected by HIV/AIDS; and
 
-&emsp;&emsp;(E) in communities where HIV/AIDS and food insecurity are highly prevalent, supportprograms to address these often intersecting health problems through community-based assistance programs, with an emphasis on sustainable approaches.
+&emsp;&emsp;(E) in communities where HIV/AIDS and food insecurity are highly prevalent, support programs to address these often intersecting health problems through community-based assistance programs, with an emphasis on sustainable approaches.
 
 #### (2) Authorization of appropriations
 
@@ -98,7 +98,7 @@ Section is comprised of section 301 of Pub. L. 108–25. Subsec. (a) of section 
 
 #### Amendments
 
-2008—Subsec. (b)(1), (3). Pub. L. 110–293, §301(f), substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”.
+<b>2008</b>—Subsec. (b)(1), (3). Pub. L. 110–293, §301(f), substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”.
 
 Subsec. (c). Pub. L. 110–293, §301(g), amended subsec. (c) generally. Prior to amendment, text read as follows: “In recognition of the fact that malnutrition may hasten the progression of HIV to AIDS and may exacerbate the decline among AIDS patients leading to a shorter life span, the Administrator of the United States Agency for International Development shall, as appropriate—
 
@@ -110,5 +110,5 @@ Subsec. (c). Pub. L. 110–293, §301(g), amended subsec. (c) generally. Prior t
 
 Subsec. (d). Pub. L. 110–293, §301(h), amended subsec. (d) generally. Prior to amendment, text read as follows: “An organization that is otherwise eligible to receive assistance under section 104A of the Foreign Assistance Act of 1961 (as added by subsection (a)) or under any other provision of this chapter (or any amendment made by this chapter) to prevent, treat, or monitor HIV/AIDS shall not be required, as a condition of receiving the assistance, to endorse or utilize a multisectoral approach to combatting HIV/AIDS, or to endorse, utilize, or participate in a prevention method or treatment program to which the organization has a religious or moral objection.”
 
-2004—Subsec. (f). Pub. L. 108–199, §595(3), inserted “, except that this subsection shall not apply to the Global Fund to Fight AIDS, Tuberculosis and Malaria, the World Health Organization, the International AIDS Vaccine Initiative or to any United Nations agency” after “trafficking”.
+<b>2004</b>—Subsec. (f). Pub. L. 108–199, §595(3), inserted “, except that this subsection shall not apply to the Global Fund to Fight AIDS, Tuberculosis and Malaria, the World Health Organization, the International AIDS Vaccine Initiative or to any United Nations agency” after “trafficking”.
 

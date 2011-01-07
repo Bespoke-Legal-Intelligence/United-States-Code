@@ -42,11 +42,11 @@ Subsection (c) is written as a condition precedent to enlistment or transfer, an
 
 #### Amendments
 
-2006—Subsec. (c)(1). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Subsec. (c)(1). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
-1980—Subsec. (a). Pub. L. 96–513 struck out “male” before “citizens” and “enlisted”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 struck out “male” before “citizens” and “enlisted”.
 
-1958—Subsec. (a). Pub. L. 85–578 substituted “naval service” for “Naval Reserve and the Marine Corps Reserve”, made changes in phraseology including the substitution of “designated” for “transferred”, and specified consent as requisite for designation as aviation cadet.
+<b>1958</b>—Subsec. (a). Pub. L. 85–578 substituted “naval service” for “Naval Reserve and the Marine Corps Reserve”, made changes in phraseology including the substitution of “designated” for “transferred”, and specified consent as requisite for designation as aviation cadet.
 
 Subsec. (b). Pub. L. 85–578 struck out “at least” before “20 percent” and “who, with their consent, are discharged for the purpose of enlisting as aviation cadets” after “Regular Marine Corps”.
 

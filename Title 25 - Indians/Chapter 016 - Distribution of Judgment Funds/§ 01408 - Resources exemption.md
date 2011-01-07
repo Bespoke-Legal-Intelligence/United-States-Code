@@ -10,7 +10,7 @@ The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 
 
 #### Amendments
 
-1993—Pub. L. 103–66 inserted “, and up to $2,000 per year of income received by individual Indians that is derived from such interests shall not be considered income,” after “resource”.
+<b>1993</b>—Pub. L. 103–66 inserted “, and up to $2,000 per year of income received by individual Indians that is derived from such interests shall not be considered income,” after “resource”.
 
 #### Effective Date of 1993 Amendment
 

@@ -172,7 +172,7 @@ Notwithstanding subsections (b) and (d) of this section, the Administrator shall
 
 #### Amendments
 
-1998—Subsec. (d)(5), (6). Pub. L. 105–277, §101(a) \[title VII, §764(b)\], added pars. (5) and (6).
+<b>1998</b>—Subsec. (d)(5), (6). Pub. L. 105–277, §101(a) \[title VII, §764(b)\], added pars. (5) and (6).
 
 Subsec. (e)(3). Pub. L. 105–277, §101(a) \[title VII, §764(c)\], added par. (3).
 

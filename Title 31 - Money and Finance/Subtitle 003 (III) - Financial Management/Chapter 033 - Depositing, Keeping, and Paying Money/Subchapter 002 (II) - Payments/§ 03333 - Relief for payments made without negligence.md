@@ -34,7 +34,7 @@ Aug. 4, 1947, ch. 455, §3, 61 Stat. 730.
 
 31:156(proviso).
 
-In subsection (a)(1), before clause (A), the words “Secretary of the Treasury” are substituted for “Treasurer” before “is not liable” because of the source provisions restated in section 321(c) of the revised title. The word “depositary” is substituted for“upon the Treasurer of the United States through any Federal Reserve Bank” for consistency in the revised title. The words “Whenever . . . heretofore has been or hereafter” and “or on behalf of” are omitted as surplus. In clause (A), the word “Treasury” is substituted for “Treasurer of the United States” after “drawn upon the” because of the source provisions restated in section 321 of the revised title and Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280). In clause (B), the words “public . . . of the United States, including any obligation of any type whatever, the payment of which is” are omitted as surplus.
+In subsection (a)(1), before clause (A), the words “Secretary of the Treasury” are substituted for “Treasurer” before “is not liable” because of the source provisions restated in section 321(c) of the revised title. The word “depositary” is substituted for “upon the Treasurer of the United States through any Federal Reserve Bank” for consistency in the revised title. The words “Whenever . . . heretofore has been or hereafter” and “or on behalf of” are omitted as surplus. In clause (A), the word “Treasury” is substituted for “Treasurer of the United States” after “drawn upon the” because of the source provisions restated in section 321 of the revised title and Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280). In clause (B), the words “public . . . of the United States, including any obligation of any type whatever, the payment of which is” are omitted as surplus.
 
 In subsection (a)(2), the words “of the United States” are omitted as unnecessary. The words “of the Treasury or the depositary” are substituted for “Treasurer's” because of the restatement.
 
@@ -42,9 +42,9 @@ In subsection (b), the words “another individual” are substituted for “any
 
 #### Amendments
 
-2007—Subsec. (a)(3). Pub. L. 110–161 added par. (3) and struck out former par. (3) which read as follows: “The amount of the relief shall be charged to the Check Forgery Insurance Fund (31 U.S.C. 3343). A recovery or repayment of a loss for which replacement is made out of the fund shall be credited to the fund and is available for the purposes for which the fund was established.”
+<b>2007</b>—Subsec. (a)(3). Pub. L. 110–161 added par. (3) and struck out former par. (3) which read as follows: “The amount of the relief shall be charged to the Check Forgery Insurance Fund (31 U.S.C. 3343). A recovery or repayment of a loss for which replacement is made out of the fund shall be credited to the fund and is available for the purposes for which the fund was established.”
 
-2004—Subsec. (a)(1). Pub. L. 108–447, §220(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follow: “The Secretary of the Treasury is not liable for a payment made by the Secretary or depositary in due course and without negligence, of a—
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–447, §220(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follow: “The Secretary of the Treasury is not liable for a payment made by the Secretary or depositary in due course and without negligence, of a—
 
 &emsp;“(A) check, draft, or warrant drawn on the Treasury or the depositary; and
 

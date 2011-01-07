@@ -14,13 +14,13 @@ The 1922 act also superseded a provision contained in R.S. §3087, requiring col
 
 #### Amendments
 
-1980—Pub. L. 96–417 substituted “the Attorney General of the United States” and “the Attorney General” for “every United States district attorney” and “such district attorney”, respectively, and authorized institution of proceedings in the Court of International Trade.
+<b>1980</b>—Pub. L. 96–417 substituted “the Attorney General of the United States” and “the Attorney General” for “every United States district attorney” and “such district attorney”, respectively, and authorized institution of proceedings in the Court of International Trade.
 
-1970—Pub. L. 91–271 substituted reference to customs officers for reference to collectors.
+<b>1970</b>—Pub. L. 91–271 substituted reference to customs officers for reference to collectors.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending onor commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1970 Amendment
 

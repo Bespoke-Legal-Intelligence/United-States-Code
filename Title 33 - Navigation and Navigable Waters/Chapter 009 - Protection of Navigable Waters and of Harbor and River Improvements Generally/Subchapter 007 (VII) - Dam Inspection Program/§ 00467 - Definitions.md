@@ -82,13 +82,13 @@ In this subchapter, the following definitions apply:
 
 #### Prior Provisions
 
-A prior section 467, Pub. L. 92–367, §1, Aug. 8, 1972, 86 Stat. 506; Pub. L. 99–662, title XII, §1201(a), Nov. 17, 1986,100 Stat. 4260, defined term “dam” as used in this subchapter, prior to repeal by Pub. L. 104–303, §215(c)(1).
+A prior section 467, Pub. L. 92–367, §1, Aug. 8, 1972, 86 Stat. 506; Pub. L. 99–662, title XII, §1201(a), Nov. 17, 1986, 100 Stat. 4260, defined term “dam” as used in this subchapter, prior to repeal by Pub. L. 104–303, §215(c)(1).
 
 A prior section 2 of Pub. L. 92–367 was renumbered section 3 by section 215(c)(3) of Pub. L. 104–303 and is classified to section 467a of this title.
 
 #### Amendments
 
-2002—Par. (1). Pub. L. 107–310, §3(e)(2)(A), substituted “section 467f(f)” for “section 467f(h)”.
+<b>2002</b>—Par. (1). Pub. L. 107–310, §3(e)(2)(A), substituted “section 467f(f)” for “section 467f(h)”.
 
 Par. (12). Pub. L. 107–310, §3(e)(2)(B), substituted “section 467f(e)” for “section 467f(f)”.
 
@@ -114,7 +114,7 @@ Section 1 of Pub. L. 92–367, as added by Pub. L. 104–303, title II, §215(c)
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

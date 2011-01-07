@@ -18,5 +18,5 @@ Section 10306 requires a seaman to exhibit an appropriately endorsed merchant ma
 
 #### Amendments
 
-1993—Pub. L. 103–206 substituted “master or individual in charge” for “shipping commissioner”.
+<b>1993</b>—Pub. L. 103–206 substituted “master or individual in charge” for “shipping commissioner”.
 

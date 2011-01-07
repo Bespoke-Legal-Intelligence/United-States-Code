@@ -164,13 +164,13 @@ Section 10211(c)(2)(A) of the Revenue Act of 1987 (Public Law 100–203), referr
 
 #### Amendments
 
-2006—Subsec. (b)(3)(D). Pub. L. 109–280 added subpar. (D).
+<b>2006</b>—Subsec. (b)(3)(D). Pub. L. 109–280 added subpar. (D).
 
-1997—Subsec. (b)(2), (3). Pub. L. 105–34 added par. (2) and redesignated former par. (2) as (3).
+<b>1997</b>—Subsec. (b)(2), (3). Pub. L. 105–34 added par. (2) and redesignated former par. (2) as (3).
 
-1990—Subsec. (d)(5). Pub. L. 101–540 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘qualifying employer security’ means an employer security which is stock or a marketable obligation (as defined in subsection (e) of this section). After December 17, 1987, in the case of a plan other than an eligible individual account plan, stock shall be considered a qualifying employer security only if such stock satisfies the requirements of subsection (f)(1) of this section.”
+<b>1990</b>—Subsec. (d)(5). Pub. L. 101–540 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘qualifying employer security’ means an employer security which is stock or a marketable obligation (as defined in subsection (e) of this section). After December 17, 1987, in the case of a plan other than an eligible individual account plan, stock shall be considered a qualifying employer security only if such stock satisfies the requirements of subsection (f)(1) of this section.”
 
-1989—Subsec. (d)(3)(A), (6)(A), (7). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1989</b>—Subsec. (d)(3)(A), (6)(A), (7). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Subsec. (d)(3)(C). Pub. L. 101–239, §7881(<i>l</i>)(1), realigned margin.
 
@@ -182,7 +182,7 @@ Subsec. (f)(1). Pub. L. 101–239, §7881(<i>l</i>)(3)(A), (4), substituted “p
 
 Subsec. (f)(3). Pub. L. 101–239, §7881(<i>l</i>)(3)(B), struck out par. (3) which read as follows: “After December 17, 1987, no plan may acquire stock which does not satisfy the requirements of paragraph (1) unless the acquisition is made pursuant to a legally binding contract in effect on such date.”
 
-1987—Subsec. (d)(3)(C). Pub. L. 100–203, §9345(a)(1), added subpar. (C).
+<b>1987</b>—Subsec. (d)(3)(C). Pub. L. 100–203, §9345(a)(1), added subpar. (C).
 
 Subsec. (d)(5). Pub. L. 100–203, §9345(b)(1), inserted at end “After December 17, 1987, in the case of a plan other than an eligible individual account plan, stock shall be considered a qualifying employer security only if such stock satisfies the requirements of subsection (f)(1) of this section.”
 

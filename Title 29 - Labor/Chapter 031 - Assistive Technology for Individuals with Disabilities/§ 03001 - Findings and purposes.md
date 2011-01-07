@@ -18,11 +18,11 @@ Congress finds the following:
 
 &emsp;&emsp;(E) enjoy full inclusion and integration in the economic, political, social, cultural, and educational mainstream of society in the United States.
 
-&emsp;(3) Technology is one of the primary engines for economic activity, education, and innovation in the Nation, and throughout the world. The commitment of the United States to thedevelopment and utilization of technology is one of the main factors underlying the strength and vibrancy of the economy of the United States.
+&emsp;(3) Technology is one of the primary engines for economic activity, education, and innovation in the Nation, and throughout the world. The commitment of the United States to the development and utilization of technology is one of the main factors underlying the strength and vibrancy of the economy of the United States.
 
 &emsp;(4) As technology has come to play an increasingly important role in the lives of all persons in the United States, in the conduct of business, in the functioning of government, in the fostering of communication, in the conduct of commerce, and in the provision of education, its impact upon the lives of individuals with disabilities in the United States has been comparable to its impact upon the remainder of the citizens of the United States. Any development in mainstream technology will have profound implications for individuals with disabilities in the United States.
 
-&emsp;(5) Substantial progress has been made in the development of assistive technology devices, including adaptations to existing devices that facilitate activities of daily living that significantly benefit individuals with disabilities of all ages. These devices, including adaptations, increase involvement in, and reduce expenditures associated with, programs and activities that facilitate communication, ensure independent functioning, enable early childhood development, support educational achievement, provide and enhance employment options, and enable full participation in community living for individuals with disabilities. Access to such devices can also reduce expenditures associated with early childhood intervention, education, rehabilitation and training, health care, employment, residential living, independent living, recreation opportunities, and other aspects of daily living.
+&emsp;(5) Substantial progress has been made in the development of assistive technology devices, including adaptations to existing devices that facilitate activities of daily living that significantly benefit individuals with disabilities of all ages. These devices, including adaptations, increase involvement in, and reduce expenditures associated with, programs and activities that facilitate communication, ensure independent functioning, enable early childhood development, support educational achievement, provide and enhance employment options, and enable full participation in community living for individuals with disabilities. Access to such devices can also reduce expenditures associated with early childhoodintervention, education, rehabilitation and training, health care, employment, residential living, independent living, recreation opportunities, and other aspects of daily living.
 
 &emsp;(6) Over the last 15 years, the Federal Government has invested in the development of comprehensive statewide programs of technology-related assistance, which have proven effective in assisting individuals with disabilities in accessing assistive technology devices and assistive technology services. This partnership between the Federal Government and the States provided an important service to individuals with disabilities by strengthening the capacity of each State to assist individuals with disabilities of all ages meet their assistive technology needs.
 
@@ -56,7 +56,7 @@ The purposes of this chapter are—
 
 #### References in Text
 
-The Help America Vote Act of 2002, referred to in subsec. (a)(8), is Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, which is classified principally to chapter 146 (§15301 et seq.) of Title 42, The Public Health and Welfare. Forcomplete classification of this Act to the Code, see Short Title note set out under section 15301 of Title 42 and Tables.
+The Help America Vote Act of 2002, referred to in subsec. (a)(8), is Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, which is classified principally to chapter 146 (§15301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15301 of Title 42 and Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(8), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
@@ -64,7 +64,7 @@ The No Child Left Behind Act of 2001, referred to in subsec. (a)(8), is Pub. L. 
 
 #### Amendments
 
-2004—Pub. L. 108–364 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) and (b) relating to findings and purposes.
+<b>2004</b>—Pub. L. 108–364 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) and (b) relating to findings and purposes.
 
 #### Short Title of 2004 Amendment
 
@@ -72,5 +72,5 @@ Pub. L. 108–364, §1, Oct. 25, 2004, 118 Stat. 1707, provided that: “This Ac
 
 #### Short Title
 
-Pub. L. 105–394, §1(a), Nov. 13, 1998, 112 Stat. 3627, as amended by Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1707, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Assistive Technology Act of 1998’.”
+Pub. L. 105–394, §1(a), Nov. 13, 1998, 112 Stat. 3627, as amended by Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat.1707, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Assistive Technology Act of 1998’.”
 

@@ -2,7 +2,7 @@
 
 Whoever falsely makes, forges, counterfeits, or alters any instrument in imitation of or purporting to be, an abstract or official copy or certificate of the documentation of any vessel, or a certificate of ownership, pass, or clearance, granted for any vessel, under the authority of the United States, or a permit, debenture, or other official document granted by any officer of the customs by virtue of his office; or
 
-Whoever utters, publishes, or passes, or attempts to utter, publish, or pass, as true, any such false, forged, counterfeited, or falsely altered instrument, abstract, official copy, certificate, pass, clearance, permit, debenture, or other official document herein specified, knowing the same to be false, forged, counterfeited, or falsely altered, with an intent to defraud—
+Whoever utters, publishes, or passes, or attempts to utter, publish, or pass, as true, anysuch false, forged, counterfeited, or falsely altered instrument, abstract, official copy, certificate, pass, clearance, permit, debenture, or other official document herein specified, knowing the same to be false, forged, counterfeited, or falsely altered, with an intent to defraud—
 
 Shall be fined under this title or imprisoned not more than three years, or both.
 
@@ -20,9 +20,9 @@ Minor changes of phraseology were made.
 
 #### Amendments
 
-2006—Pub. L. 109–304 in first par. substituted “documentation of any vessel” for “recording, registry, or enrollment of any vessel, in the office of any collector of the customs, or a license to any vessel for carrying on the coasting trade or fisheries of the United States” and struck out “collector or other” after “granted by any” and in second par. struck out “license,” after “certificate,”.
+<b>2006</b>—Pub. L. 109–304 in first par. substituted “documentation of any vessel” for “recording, registry, or enrollment of any vessel, in the office of any collector of the customs, or a license to any vessel for carrying on the coasting trade or fisheries of the United States” and struck out “collector or other” after “granted by any” and in second par. struck out “license,” after “certificate,”.
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
 #### Transfer of Functions
 

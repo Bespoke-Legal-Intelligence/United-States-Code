@@ -10,7 +10,7 @@ Section 1903, act June 6, 1933, ch. 49, §3, 48 Stat. 114, which related to prom
 
 Section 1904, act June 6, 1933, ch. 49, §4, 48 Stat. 114, which related to establishment of state agencies, was transferred to section 49c of Title 29.
 
-Section 1905, acts June 6, 1933, ch. 49, §5, 48 Stat. 114; May 10, 1935, ch. 102, 49 Stat. 216; June 29, 1938, ch. 816, 52 Stat. 1244; 1939 Reorg. Plan No. I, §§201, 203, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1946 Reorg. Plan No. 2,§4, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, which related to authorization of appropriations, was transferred to section 49d of Title 29.
+Section 1905, acts June 6, 1933, ch. 49, §5, 48 Stat. 114; May 10, 1935, ch. 102, 49 Stat. 216; June 29, 1938, ch. 816, 52 Stat. 1244; 1939 Reorg. Plan No. I, §§201, 203, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1946 Reorg. Plan No. 2, §4, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, which related to authorization of appropriations, was transferred to section 49d of Title 29.
 
 Section 1906, act June 6, 1933, ch. 49, §6, 48 Stat. 115; 1939 Reorg. Plan No. I, §§201, 203, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1946 Reorg. Plan No. 2, §4, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, which related to apportionment among States, was transferred to section 49e of Title 29.
 

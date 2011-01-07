@@ -16,17 +16,17 @@ Coast Guard.—This section shall apply to the Coast Guard in the same manner an
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-2000—Subsec. (a). Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001”.
 
-1998—Subsec. (a). Pub. L. 105–261 substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–261 substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
 
-1994—Subsec. (c). Pub. L. 103–337 added subsec. (c).
+<b>1994</b>—Subsec. (c). Pub. L. 103–337 added subsec. (c).
 
-1993—Subsec. (a). Pub. L. 103–160 substituted “nine-year period” for “five-year period”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–160 substituted “nine-year period” for “five-year period”.
 
-1992—Subsec. (a). Pub. L. 102–484 struck out “involuntarily” after “who is”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–484 struck out “involuntarily” after “who is”.
 
 #### Effective Date of 2002 Amendment
 

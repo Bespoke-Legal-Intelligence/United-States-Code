@@ -72,5 +72,5 @@ This chapter, referred to in subsecs. (a), (b)(4)(C), and (c), was in the origin
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–162 substituted “more than 5 individuals, or groups of individuals, as recipients” for “more than 5 recipients”.
+<b>2006</b>—Subsec. (c). Pub. L. 109–162 substituted “more than 5 individuals, or groups of individuals, as recipients” for “more than 5 recipients”.
 

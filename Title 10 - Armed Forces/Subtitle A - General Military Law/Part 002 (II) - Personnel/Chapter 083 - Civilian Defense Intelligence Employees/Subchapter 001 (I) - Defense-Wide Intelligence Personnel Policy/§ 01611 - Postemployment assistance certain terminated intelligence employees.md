@@ -38,7 +38,7 @@ Provisions similar to those in this section were contained in section 1604(e)(4)
 
 #### Amendments
 
-2003—Subsec. (e). Pub. L. 108–177 struck out heading and text of subsec. (e). Text read as follows:
+<b>2003</b>—Subsec. (e). Pub. L. 108–177 struck out heading and text of subsec. (e). Text read as follows:
 
 “(1) The Secretary of Defense shall submit to the congressional committees specified in paragraph (3) an annual report with respect to any expenditure made under this section.
 
@@ -50,23 +50,23 @@ Provisions similar to those in this section were contained in section 1604(e)(4)
 
 &emsp;“(B) The Committee on Armed Services, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate.”
 
-2002—Subsec. (e)(1). Pub. L. 107–306, §811(b)(4)(B)(i), substituted “paragraph (3)” for “paragraph (2)”.
+<b>2002</b>—Subsec. (e)(1). Pub. L. 107–306, §811(b)(4)(B)(i), substituted “paragraph (3)” for “paragraph (2)”.
 
 Subsec. (e)(2), (3). Pub. L. 107–306, §811(b)(4)(B)(ii), (iii), added par. (2) and redesignated former par. (2) as (3).
 
-2001—Subsec. (d). Pub. L. 107–107 struck out “with” before “in a defense intelligence position”.
+<b>2001</b>—Subsec. (d). Pub. L. 107–107 struck out “with” before “in a defense intelligence position”.
 
-2000—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1141(b)(1)\], substituted “a defense intelligence position” for “an intelligence component of the Department of Defense”.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1141(b)(1)\], substituted “a defense intelligence position” for “an intelligence component of the Department of Defense”.
 
-Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1141(b)(2)\], substituted “sensitive defense intelligence position” for “sensitive position in an intelligence component of the Department of Defense” in introductory provisions and “in a defense intelligence position” for “with the intelligence component” in pars. (1) and (2).
+Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1141(b)(2)\], substituted “sensitive defense intelligence position” for “sensitive position in an intelligence component of the Department of Defense” in introductory provisions and “in a defense intelligence position”for “with the intelligence component” in pars. (1) and (2).
 
 Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1141(b)(3)\], substituted “in a defense intelligence position” for “an intelligence component of the Department of Defense”.
 
 Subsec. (f). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1141(b)(4)\], struck out heading and text of subsec. (f). Text read as follows: “In this section, the term ‘intelligence component of the Department of Defense’ includes the National Reconnaissance Office and any intelligence component of a military department.”
 
-1999—Subsec. (e)(2)(A). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
+<b>1999</b>—Subsec. (e)(2)(A). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
-1996—Pub. L. 104–201 renumbered section 1599 of this title as this section.
+<b>1996</b>—Pub. L. 104–201 renumbered section 1599 of this title as this section.
 
 Subsec. (e)(2)(A). Pub. L. 104–106, §1502(a)(11)(A), substituted “The Committee on National Security, the Committee on Appropriations,” for “The Committees on Armed Services and Appropriations”.
 

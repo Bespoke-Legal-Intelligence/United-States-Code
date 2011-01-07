@@ -34,7 +34,7 @@ The Administrator may issue a license to a citizen of the United States in accor
 
 &emsp;(9) when the license is for an ocean thermal energy conversion facility, he determines that the facility, including any submarine electric transmission cables and equipment or pipelines which are components of the facility, will not be located and designed so as to minimize interference with other uses of the high seas or the Continental Shelf, including cables or pipelines already in position on or in the seabed and the possibility of their repair;
 
-&emsp;(10) the Governor of any adjacent coastal State with an approved coastal zone management program in good standing pursuant to the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.) determines that, in his or her view, the application is inadequate or inconsistent with respect to programs within his or her jurisdiction;
+&emsp;(10) the Governor of any adjacent coastal State with an approved coastal zone management program in good standing pursuant tothe Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.) determines that, in his or her view, the application is inadequate or inconsistent with respect to programs within his or her jurisdiction;
 
 &emsp;(11) when the license is for an ocean thermal energy conversion facility, he determines that the thermal plume of the facility is expected to impinge on so as to degrade the thermal gradient used by any other ocean thermal energy conversion facility already licensed or operating, without the consent of its owner;
 
@@ -68,11 +68,13 @@ Licenses issued under this chapter shall be for a term of not to exceed 25 years
 
 #### References in Text
 
-The Coastal Zone Management Act of 1972, referred to in subsec. (c)(10), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, and amended, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–320, Aug. 3, 1980, 94 Stat. 974, known as the Ocean Thermal Energy Conversion Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of this title and Tables.
+
+The Coastal Zone Management Act of 1972, referred to in subsec. (c)(10), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
 
 #### Amendments
 
-1984—Subsecs. (a), (b)(2). Pub. L. 98–623, §602(a)(3), (4), substituted “located in whole or in part between the highwater mark and the seaward boundary of the territorial sea” for “located in the territorial sea”.
+<b>1984</b>—Subsecs. (a), (b)(2). Pub. L. 98–623, §602(a)(3), (4), substituted “located in whole or in part between the highwater mark and the seaward boundary of the territorial sea” for “located in the territorial sea”.
 
 Subsec. (c)(1). Pub. L. 98–623, §602(b)(1), substituted “cannot or will not” for “cannot and will not”.
 

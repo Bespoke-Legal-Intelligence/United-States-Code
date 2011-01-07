@@ -26,7 +26,7 @@ Civil actions referred to in paragraphs (1) and (2) of subsection (a) of this se
 
 (2) In any case in which the Administrator is authorized to bring a civil action under this section with respect to any regulation, or other requirement of this part relating to—
 
-&emsp;(A) the underground injection of brine or other fluids which are brought to the surfacein connection with oil or natural gas production, or
+&emsp;(A) the underground injection of brine or other fluids which are brought to the surface in connection with oil or natural gas production, or
 
 &emsp;(B) any underground injection for the secondary or tertiary recovery of oil or natural gas,
 
@@ -50,7 +50,7 @@ Civil actions referred to in paragraphs (1) and (2) of subsection (a) of this se
 
 &emsp;(B) a notice of violation under section 300j–8(b)(1) of this title has been given before commencement of an action under this subsection and an action under section 300j–8(a)(1) of this title is filed before 120 days after such notice is given.
 
-(6) Any person against whom an order is issued or who commented on a proposed order pursuant to paragraph (3) may file an appeal of such order with the United States District Court for the District of Columbia or the district in which the violation is alleged to have occurred. Such an appeal may only be filed within the 30-day period beginning on the date the order is issued. Appellant shall simultaneously send a copy of the appeal by certified mail to the Administrator and to the Attorney General. The Administrator shall promptly file in such court a certified copy of the record on which such order was imposed. The district court shall not set aside or remand such order unless there is not substantial evidence on the record, taken as a whole, to support the finding of a violation or, unless the Administrator's assessment of penalty or requirement for compliance constitutes an abuse of discretion. The district court shall not impose additional civil penalties for the same violation unless the Administrator's assessment of a penalty constitutes an abuse of discretion. Notwithstanding section 300j–7(a)(2) of this title, any order issued under paragraph (3) shall be subject to judicial review exclusively under this paragraph.
+(6) Any person against whom an order is issued or who commented on a proposed order pursuant to paragraph (3) may file an appeal of such order with the United States District Court for the District of Columbia or the district in which the violation is alleged to have occurred. Such an appeal may only be filed within the 30-day period beginning on the date the order is issued. Appellant shall simultaneously send a copy of the appeal by certified mail to the Administrator and to the Attorney General. The Administrator shall promptly file in such court a certified copy of the record on which such order was imposed. The district court shall not set aside or remand such order unless there is not substantial evidence on the record, taken as a whole, to support the finding of a violation or, unless the Administrator's assessment of penalty or requirement for compliance constitutes an abuse of discretion. The district court shallnot impose additional civil penalties for the same violation unless the Administrator's assessment of a penalty constitutes an abuse of discretion. Notwithstanding section 300j–7(a)(2) of this title, any order issued under paragraph (3) shall be subject to judicial review exclusively under this paragraph.
 
 (7) If any person fails to pay an assessment of a civil penalty—
 
@@ -70,7 +70,7 @@ Nothing in this subchapter shall diminish any authority of a State or political 
 
 #### Amendments
 
-1986—Pub. L. 99–339, §202(d), substituted “Enforcement” for “Failure of State to assure enforcement” in section catchline.
+<b>1986</b>—Pub. L. 99–339, §202(d), substituted “Enforcement” for “Failure of State to assure enforcement” in section catchline.
 
 Subsec. (a)(1). Pub. L. 99–339, §202(a)(1), substituted provisions which related to issuance of an order of compliance or commencement of a civil action by the Administrator if the State has not commenced enforcement against the violator for provisions directing the Administrator to give public notice and request that the State report within 15 days thereafter as to steps taken to enforce compliance and authorizing the Administrator to commence a civil action upon failure by the State to comply timely.
 
@@ -80,5 +80,5 @@ Subsec. (b). Pub. L. 99–339, §202(b), amended subsec. (b) generally, substitu
 
 Subsecs. (c), (d). Pub. L. 99–339, §202(c), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1980—Subsec. (a)(1). Pub. L. 96–502 inserted reference to section 300h–4(c) of this title.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–502 inserted reference to section 300h–4(c) of this title.
 

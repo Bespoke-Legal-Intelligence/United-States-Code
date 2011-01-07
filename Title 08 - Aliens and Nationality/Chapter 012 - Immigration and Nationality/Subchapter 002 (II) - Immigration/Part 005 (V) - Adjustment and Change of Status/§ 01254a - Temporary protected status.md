@@ -6,7 +6,7 @@
 
 &emsp;In the case of an alien who is a national of a foreign state designated under subsection (b) of this section (or in the case of an alien having no nationality, is a person who last habitually resided in such designated state) and who meets the requirements of subsection (c) of this section, the Attorney General, in accordance with this section—
 
-&emsp;&emsp;(A) may grant the alien temporary protected status in the United States and shall not remove the alien from the United Statesduring the period in which such status is in effect, and
+&emsp;&emsp;(A) may grant the alien temporary protected status in the United States and shall not remove the alien from the United States during the period in which such status is in effect, and
 
 &emsp;&emsp;(B) shall authorize the alien to engage in employment in the United States and provide the alien with an “employment authorized” endorsement or other appropriate work permit.
 
@@ -26,7 +26,7 @@
 
 #### (4) Temporary treatment for eligible aliens
 
-&emsp;(A) In the case of an alien who can establish a prima facie case of eligibility for benefits under paragraph (1), but for the fact that the period of registration under subsection (c)(1)(A)(iv) of this section has not begun, until the alien has had a reasonable opportunity to register during the first 30 days of such period, the Attorney General shall provide for the benefits of paragraph (1).
+&emsp;(A) In the case of an alien who can establish a prima facie case of eligibility for benefitsunder paragraph (1), but for the fact that the period of registration under subsection (c)(1)(A)(iv) of this section has not begun, until the alien has had a reasonable opportunity to register during the first 30 days of such period, the Attorney General shall provide for the benefits of paragraph (1).
 
 &emsp;(B) In the case of an alien who establishes a prima facie case of eligibility for benefits under paragraph (1), until a final determination with respect to the alien's eligibility for such benefits under paragraph (1) has been made, the alien shall be provided such benefits.
 
@@ -76,7 +76,7 @@
 
 #### (C) Extension of designation
 
-&emsp;&emsp;If the Attorney General does not determine under subparagraph (A) that a foreign state (or part of such foreign state) no longer meets the conditions for designation under paragraph (1), the period of designation of the foreign state is extended for an additional period of 6 months (or, in the discretion of the Attorney General, a period of 12 or 18 months).
+&emsp;&emsp;If the Attorney General does not determine under subparagraph (A) that a foreign state (or part of such foreign state) no longer meets the conditions for designationunder paragraph (1), the period of designation of the foreign state is extended for an additional period of 6 months (or, in the discretion of the Attorney General, a period of 12 or 18 months).
 
 #### (4) Information concerning protected status at time of designations
 
@@ -126,7 +126,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) paragraphs (2)(A) and (2)(B) (relating to criminals) of such section,
 
-&emsp;&emsp;&emsp;&emsp;(II) paragraph (2)(C) of such section (relating to drug offenses), except for so much of such paragraph as relates to asingle offense of simple possession of 30 grams or less of marijuana, or
+&emsp;&emsp;&emsp;&emsp;(II) paragraph (2)(C) of such section (relating to drug offenses), except for so much of such paragraph as relates to a single offense of simple possession of 30 grams or less of marijuana, or
 
 &emsp;&emsp;&emsp;&emsp;(III) paragraphs (3)(A), (3)(B), (3)(C), and (3)(E) of such section (relating to national security and participation in the Nazi persecutions or those who have engaged in genocide).
 
@@ -150,7 +150,7 @@
 
 #### (4) Treatment of brief, casual, and innocent departures and certain other absences
 
-&emsp;(A) For purposes of paragraphs (1)(A)(i) and (3)(B), an alien shall not be considered to have failed to maintain continuous physical presence in the United States by virtue of brief, casual, and innocent absences from the United States, without regard to whether such absences were authorized by the Attorney General.
+&emsp;(A) For purposes of paragraphs (1)(A)(i) and (3)(B), an alien shall not be considered to havefailed to maintain continuous physical presence in the United States by virtue of brief, casual, and innocent absences from the United States, without regard to whether such absences were authorized by the Attorney General.
 
 &emsp;(B) For purposes of paragraph (1)(A)(ii), an alien shall not be considered to have failed to maintain continuous residence in the United States by reason of a brief, casual, and innocent absence described in subparagraph (A) or due merely to a brief temporary trip abroad required by emergency or extenuating circumstances outside the control of the alien.
 
@@ -240,6 +240,10 @@ Except as otherwise specifically provided, this section shall constitute the exc
 
 (June 27, 1952, ch. 477, title II, ch. 5, §244, formerly §244A, as added and amended Pub. L. 101–649, title III, §302(a), title VI, §603(a)(24), Nov. 29, 1990, 104 Stat. 5030, 5084; Pub. L. 102–232, title III, §§304(b), 307(<i>l</i>)(5), Dec. 12, 1991, 105 Stat. 1749, 1756; Pub. L. 103–416, title II, §219(j), (z)(2), Oct. 25, 1994, 108 Stat. 4317, 4318; renumbered §244 and amended Pub. L. 104–208, div. C, title III, §308(b)(7), (e)(1)(G), (11), (g)(7)(E)(i), (8)(A)(i), Sept. 30, 1996, 110 Stat. 3009–615, 3009–619, 3009–620, 3009–624.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (a)(5), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+
 #### Amendments
 
 1996—Subsec. (a)(1)(A). Pub. L. 104–208, §308(e)(11), substituted “remove” for “deport”.
@@ -274,7 +278,7 @@ Subsec. (c)(2)(A)(iii)(I). Pub. L. 101–649, §603(a)(24)(B), which directed th
 
 Subsec. (c)(2)(A)(iii)(II). Pub. L. 101–649, §603(a)(24)(C), substituted “(2)(C)” for “(23)” and inserted “or” at end.
 
-Subsec. (c)(2)(A)(iii)(III). Pub. L. 101–649, §603(a)(24)(D), which directed the substitution of “(3) (relating to security and related grounds)” for “(27) and (29) (relating to national security)”, and a period for “; or”, was executed by substituting “(3) (relating tosecurity and related grounds)” for “(27) and (29) of such section (relating to national security)”, and a period for “, or”, as the probable intent of Congress.
+Subsec. (c)(2)(A)(iii)(III). Pub. L. 101–649, §603(a)(24)(D), which directed the substitution of “(3) (relating to security and related grounds)” for “(27) and (29) (relating to national security)”, and a period for “; or”, was executed by substituting “(3) (relating to security and related grounds)” for “(27) and (29) of such section (relating to national security)”, and a period for “, or”, as the probable intent of Congress.
 
 Subsec. (c)(2)(A)(iii)(IV). Pub. L. 101–649, §603(a)(24)(E), struck out subcl. (IV) which referred to par. (33).
 
@@ -296,7 +300,7 @@ Section 307(<i>l</i>) of Pub. L. 102–232 provided that the amendment made by t
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 603(a)(24) of Pub. L. 101–649 applicable to individuals entering United States on or after June 1, 1991, see section 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
+Amendment by section 603(a)(24) of Pub. L. 101–649 applicable to individuals entering United States on orafter June 1, 1991, see section 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

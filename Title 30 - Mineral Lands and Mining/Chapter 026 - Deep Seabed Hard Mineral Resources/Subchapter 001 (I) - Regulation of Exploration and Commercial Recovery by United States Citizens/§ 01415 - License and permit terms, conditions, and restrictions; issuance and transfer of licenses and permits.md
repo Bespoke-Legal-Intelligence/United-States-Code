@@ -4,7 +4,7 @@
 
 Before issuing or transferring a license for exploration or permit for commercial recovery, the Administrator must find in writing, after consultation with interested departments and agencies pursuant to section 1413(e) of this title, and upon considering public comments received with respect to the license or permit, that the exploration or commercial recovery proposed in the application—
 
-&emsp;(1) will not unreasonably interfere with the exercise of the freedoms of the high seas byother states, as recognized under general principles of international law;
+&emsp;(1) will not unreasonably interfere with the exercise of the freedoms of the high seas by other states, as recognized under general principles of international law;
 
 &emsp;(2) will not conflict with any international obligation of the United States established by any treaty or international convention in force with respect to the United States;
 
@@ -52,9 +52,9 @@ The Fishery Conservation Zone, referred to in subsec. (d), probably means the fi
 
 #### Amendments
 
-1996—Subsec. (d). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1852 of title 16.
+<b>1996</b>—Subsec. (d). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1852 of title 16.
 
-1980—Subsec. (d). Pub. L. 96–561 made technical amendment to reference in original act which appears in text as reference to section 1852 of title 16.
+<b>1980</b>—Subsec. (d). Pub. L. 96–561 made technical amendment to reference in original act which appears in text as reference to section 1852 of title 16.
 
 #### Effective Date of 1996 Amendment
 

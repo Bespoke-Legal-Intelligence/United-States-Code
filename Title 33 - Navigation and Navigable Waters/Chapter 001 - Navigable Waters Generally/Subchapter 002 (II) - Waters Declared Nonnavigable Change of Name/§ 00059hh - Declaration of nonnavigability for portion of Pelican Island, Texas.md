@@ -56,7 +56,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (e)(2), is
 
 #### Amendments
 
-1999—Subsec. (a). Pub. L. 106–53, §585(1), inserted “all or any part of” after “absolute title to” in first sentence.
+<b>1999</b>—Subsec. (a). Pub. L. 106–53, §585(1), inserted “all or any part of” after “absolute title to” in first sentence.
 
 Subsec. (b). Pub. L. 106–53, §585(2), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Upon receipt of compensation from the City of Galveston, the Secretary shall convey the parcel as described in subsection (a) of this section. Such compensation shall include—
 

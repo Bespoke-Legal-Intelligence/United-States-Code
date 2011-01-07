@@ -34,7 +34,7 @@ The Secretary or his designee shall consult with the Commission with respect to�
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–558, §1(1), substituted “twenty” for “ten”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–558, §1(1), substituted “twenty” for “ten”.
 
 Subsec. (e). Pub. L. 100–558, §1(2), amended subsec. (e) generally, designating existing provisions as par. (1) and adding par. (2).
 

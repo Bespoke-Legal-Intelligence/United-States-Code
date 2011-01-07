@@ -6,9 +6,9 @@ The Congress hereby declares that the educational program established by this ch
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 1700 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1700 of this title as this section.
 
-1976—Pub. L. 94–502 substituted “surviving spouses” for “widows”, “spouses” for “wives”, and “the veteran's” for “his” in two places.
+<b>1976</b>—Pub. L. 94–502 substituted “surviving spouses” for “widows”, “spouses” for “wives”, and “the veteran's” for “his” in two places.
 
 #### Effective Date of 1976 Amendment
 

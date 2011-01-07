@@ -16,3 +16,4 @@
 - [&sect; 00159 - Regulatory fees](%C2%A7%2000159%20-%20Regulatory%20fees.md)
 - [&sect; 00160 - Competition in provision of telecommunications service](%C2%A7%2000160%20-%20Competition%20in%20provision%20of%20telecommunications%20service.md)
 - [&sect; 00161 - Regulatory reform](%C2%A7%2000161%20-%20Regulatory%20reform.md)
+- [&sect; 00162 - Additional research authorities of the FCC](%C2%A7%2000162%20-%20Additional%20research%20authorities%20of%20the%20FCC.md)

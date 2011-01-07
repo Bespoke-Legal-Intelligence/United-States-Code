@@ -6,15 +6,15 @@
 
 (c) An officer whose position on the active-duty list results from service under a temporary appointment or in a grade held by reason of assignment to a position has, when that appointment or assignment ends, the grade and position on the active-duty list that he would have held if he had not received that appointment or assignment.
 
-(d) Under regulations prescribed by the Secretary of the military department concerned, a reserve officer who is ordered to active duty (whether voluntarily or involuntarily) during a war or national emergency and who would otherwise be placed on the active-duty list may be excluded from that list as determined by the Secretary concerned. Exclusion of an officer from the active-duty list as the result of actionby the Secretary concerned under the preceding sentence shall expire not later than 24 months after the date on which the officer enters active duty under an order to active duty covered by that sentence.
+(d) Under regulations prescribed by the Secretary of the military department concerned, a reserve officer who is ordered to active duty (whether voluntarily or involuntarily) during a war or national emergency and who would otherwise be placed on the active-duty list may be excluded from that list as determined by the Secretary concerned. Exclusion of an officer from the active-duty list as the result of action by the Secretary concerned under the preceding sentence shall expire not later than 24 months after the date on which the officer enters active duty under an order to active duty covered by that sentence.
 
 (Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2855; amended Pub. L. 103–337, div. A, title XVI, §1624, Oct. 5, 1994, 108 Stat. 2961; Pub. L. 104–106, div. A, title XV, §1501(a)(1), Feb. 10, 1996, 110 Stat. 495.)
 
 #### Amendments
 
-1996—Subsec. (d). Pub. L. 104–106 made technical amendment to Pub. L. 103–337, §1624. See 1994 Amendment note below.
+<b>1996</b>—Subsec. (d). Pub. L. 104–106 made technical amendment to Pub. L. 103–337, §1624. See 1994 Amendment note below.
 
-1994—Subsec. (d). Pub. L. 103–337, §1624, as amended by Pub. L. 104–106, added subsec. (d).
+<b>1994</b>—Subsec. (d). Pub. L. 103–337, §1624, as amended by Pub. L. 104–106, added subsec. (d).
 
 #### Effective Date of 1996 Amendment
 

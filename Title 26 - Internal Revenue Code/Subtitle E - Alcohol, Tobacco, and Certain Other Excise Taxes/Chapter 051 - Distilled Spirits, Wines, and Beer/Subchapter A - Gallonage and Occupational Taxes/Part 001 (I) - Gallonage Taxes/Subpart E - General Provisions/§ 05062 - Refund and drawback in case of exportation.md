@@ -26,17 +26,17 @@ A prior section 5062, act Aug. 16, 1954, ch. 736, 68A Stat. 614, consisted of pr
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–369 substituted “have been marked” for “have been stamped or restamped, and marked”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–369 substituted “have been marked” for “have been stamped or restamped, and marked”.
 
-1977—Subsec. (b). Pub. L. 95–176 substituted in first sentence “manufactured, produced, bottled, or packaged in casks or other bulk containers” and “other bulk container” for “manufactured or produced” and “package” and in last sentence “spirits and wines eligible for drawback under this subsection, including the requirements” for “domestic distilled spirits and wines, including the requirement”.
+<b>1977</b>—Subsec. (b). Pub. L. 95–176 substituted in first sentence “manufactured, produced, bottled, or packaged in casks or other bulk containers” and “other bulk container” for “manufactured or produced” and “package” and in last sentence “spirits and wines eligible for drawback under this subsection, including the requirements” for “domestic distilled spirits and wines, including the requirement”.
 
-1976—Subsecs. (a), (b), (c)(1). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a), (b), (c)(1). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1968—Subsec. (b). Pub. L. 90–630 permitted, under Treasury regulations, drawback of the tax where the stamping, restamping, or marking is done after the spirits have been removed from the original bottling plant.
+<b>1968</b>—Subsec. (b). Pub. L. 90–630 permitted, under Treasury regulations, drawback of the tax where the stamping, restamping, or marking is done after the spirits have been removed from the original bottling plant.
 
-1965—Subsec. (c)(1). Pub. L. 89–44 struck out “within six months of their release therefrom” after “customs custody”.
+<b>1965</b>—Subsec. (c)(1). Pub. L. 89–44 struck out “within six months of their release therefrom” after “customs custody”.
 
-1964—Subsec. (c). Pub. L. 88–539 added subsec. (c).
+<b>1964</b>—Subsec. (c). Pub. L. 88–539 added subsec. (c).
 
 #### Effective Date of 1984 Amendment
 

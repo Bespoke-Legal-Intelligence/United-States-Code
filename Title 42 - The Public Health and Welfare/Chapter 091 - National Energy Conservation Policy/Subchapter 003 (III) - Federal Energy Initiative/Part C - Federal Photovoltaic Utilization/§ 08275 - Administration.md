@@ -14,7 +14,7 @@ The Secretary shall administer the program established under section 8272 of thi
 
 #### Amendments
 
-1980—Pub. L. 96–294 inserted provisions relating to inapplicability of section 553 of title 5 and substituted “requirements” for “rules and regulations” in par. (2).
+<b>1980</b>—Pub. L. 96–294 inserted provisions relating to inapplicability of section 553 of title 5 and substituted “requirements” for “rules and regulations” in par. (2).
 
 #### Termination of Reporting Requirements
 

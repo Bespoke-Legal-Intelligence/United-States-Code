@@ -46,7 +46,7 @@ The principal negotiating objective of the United States in the extended negotia
 
 #### Amendments
 
-1998—Subsec. (a)(2). Pub. L. 105–206 substituted “normal trade relations” for “most-favored-nation”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–206 substituted “normal trade relations” for “most-favored-nation”.
 
 #### Effective Date
 

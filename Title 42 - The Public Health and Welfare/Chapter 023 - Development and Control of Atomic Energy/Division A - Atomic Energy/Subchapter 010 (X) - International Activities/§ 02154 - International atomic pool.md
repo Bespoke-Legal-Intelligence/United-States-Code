@@ -6,7 +6,7 @@ The President is authorized to enter into an international arrangement with a gr
 
 #### Amendments
 
-1974—Pub. L. 93–377 substituted reference to section 2074(a) of this title for reference to section 2074 of this title.
+<b>1974</b>—Pub. L. 93–377 substituted reference to section 2074(a) of this title for reference to section 2074 of this title.
 
 #### Transfer of Functions
 

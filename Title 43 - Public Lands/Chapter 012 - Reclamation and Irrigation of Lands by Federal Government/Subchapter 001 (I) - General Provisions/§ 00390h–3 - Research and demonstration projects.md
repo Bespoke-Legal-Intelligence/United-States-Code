@@ -34,5 +34,5 @@ The Technology Transfer Act of 1986, referred to in subsec. (a), is Pub. L. 99�
 
 #### Amendments
 
-1996—Pub. L. 104–266 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
+<b>1996</b>—Pub. L. 104–266 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
 

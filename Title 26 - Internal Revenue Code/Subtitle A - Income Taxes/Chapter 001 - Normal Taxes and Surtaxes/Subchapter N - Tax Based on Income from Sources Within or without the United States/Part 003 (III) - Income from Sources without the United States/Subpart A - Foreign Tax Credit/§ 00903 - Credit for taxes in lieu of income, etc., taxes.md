@@ -6,13 +6,13 @@ For purposes of this part and of sections 164(a) and 275(a), the term “income,
 
 #### Amendments
 
-2004—Pub. L. 108–357 substituted “164(a)” for “114, 164(a),”.
+<b>2004</b>—Pub. L. 108–357 substituted “164(a)” for “114, 164(a),”.
 
-2000—Pub. L. 106–519 substituted “114, 164(a),” for “164(a)”.
+<b>2000</b>—Pub. L. 106–519 substituted “114, 164(a),” for “164(a)”.
 
-1988—Pub. L. 100–647 substituted “this part” for “this subpart”.
+<b>1988</b>—Pub. L. 100–647 substituted “this part” for “this subpart”.
 
-1964—Pub. L. 88–272 substituted “sections 164(a) and 275(a)” for “section 164(b)”.
+<b>1964</b>—Pub. L. 88–272 substituted “sections 164(a) and 275(a)” for “section 164(b)”.
 
 #### Effective Date of 2004 Amendment
 

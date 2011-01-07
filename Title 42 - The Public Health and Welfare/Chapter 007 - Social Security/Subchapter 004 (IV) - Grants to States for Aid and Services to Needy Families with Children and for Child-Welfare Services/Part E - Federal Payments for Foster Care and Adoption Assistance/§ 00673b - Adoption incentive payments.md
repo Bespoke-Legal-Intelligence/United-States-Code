@@ -38,7 +38,7 @@ A State is an incentive-eligible State for a fiscal year if—
 
 #### (3) No waiver of AFCARS requirements
 
-&emsp;This section shall not be construed to alter or affect any requirement of section 679 of this title or of any regulation prescribed under such section with respect to reporting of data by States, or to waive any penalty for failure to comply with such a requirement.
+&emsp;This section shall not be construed to alter or affect any requirement of section 679 of thistitle or of any regulation prescribed under such section with respect to reporting of data by States, or to waive any penalty for failure to comply with such a requirement.
 
 #### (d) Adoption incentive payment
 
@@ -204,7 +204,7 @@ Part B of this subchapter, referred to in subsec. (f), is classified to section 
 
 #### Amendments
 
-2008—Subsec. (b)(2)(C). Pub. L. 110–351, §401(e)(3)(A), added subpar. (C).
+<b>2008</b>—Subsec. (b)(2)(C). Pub. L. 110–351, §401(e)(3)(A), added subpar. (C).
 
 Subsec. (b)(4). Pub. L. 110–351, §401(a)(1), struck out “in the case of fiscal years 2001 through 2007,” before “the State provides”.
 
@@ -246,9 +246,9 @@ Subsec. (g)(7), (8). Pub. L. 110–351, §401(e)(2), added pars. (7) and (8).
 
 Subsec. (h)(1)(D), (2). Pub. L. 110–351, §401(a)(4), substituted “2013” for “2008”.
 
-2006—Subsec. (f). Pub. L. 109–288 substituted “624” for “623”.
+<b>2006</b>—Subsec. (f). Pub. L. 109–288 substituted “624” for “623”.
 
-2003—Subsec. (b)(2). Pub. L. 108–145, §3(a)(1)(A), added par. (2) and struck out former par. (2) which read as follows: “the number of foster child adoptions in the State during the fiscal year exceeds the base number of foster child adoptions for the State for the fiscal year;”.
+<b>2003</b>—Subsec. (b)(2). Pub. L. 108–145, §3(a)(1)(A), added par. (2) and struck out former par. (2) which read as follows: “the number of foster child adoptions in the State during the fiscal year exceeds the base number of foster child adoptions for the State for the fiscal year;”.
 
 Subsec. (b)(4). Pub. L. 108–145, §3(a)(1)(B), substituted “through 2007” for “and 2002”.
 
@@ -266,7 +266,7 @@ Alternative data sources permitted for fiscal years 1995 through 1997.—For pur
 
 Subsec. (d)(1). Pub. L. 108–145, §3(a)(3), inserted “that are not older child adoptions” after “adoptions” in two places in subpar. (B) and added subpar. (C).
 
-2003—Subsec. (g)(3)(A), (B). Pub. L. 108–145, §3(a)(4)(A), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+<b>2003</b>—Subsec. (g)(3)(A), (B). Pub. L. 108–145, §3(a)(4)(A), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
 “(A) with respect to fiscal year 1998, the average number of foster child adoptions in the State in fiscal years 1995, 1996, and 1997; and
 
@@ -288,11 +288,11 @@ Subsec. (i)(4). Pub. L. 108–145, §3(a)(6), substituted “2004 through 2006�
 
 Subsec. (j). Pub. L. 108–145, §3(a)(7), struck out subsec. (j) which related to supplemental grants.
 
-1999—Subsec. (h)(1). Pub. L. 106–169, §131(b), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “For grants under subsection (a) of this section, there are authorized to be appropriated to the Secretary $20,000,000 for each of fiscal years 1999 through 2003.”
+<b>1999</b>—Subsec. (h)(1). Pub. L. 106–169, §131(b), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “For grants under subsection (a) of this section, there are authorized to be appropriated to the Secretary $20,000,000 for each of fiscal years 1999 through 2003.”
 
 Subsec. (j). Pub. L. 106–169, §131(a), added subsec. (j).
 
-1998—Subsec. (c)(2)(B). Pub. L. 105–200 substituted “April 30, 1998” for “November 30, 1997” and “July 1, 1998” for “March 1, 1998”.
+<b>1998</b>—Subsec. (c)(2)(B). Pub. L. 105–200 substituted “April 30, 1998” for “November 30, 1997” and “July 1, 1998” for “March 1, 1998”.
 
 #### Effective Date of 2008 Amendment
 

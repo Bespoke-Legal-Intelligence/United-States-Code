@@ -10,7 +10,7 @@ Leases shall be made for grazing on a definite area except where local condition
 
 #### (c) Terms for surrender of lease
 
-Each lease shall provide that the lessee may surrender his lease, and, if he has complied withthe terms and conditions of the lease to the time of surrender, may avoid further liability for fees thereunder by giving written notice to the Secretary of such surrender. The lease shall specify the length of time of notice, which shall not exceed one year.
+Each lease shall provide that the lessee may surrender his lease, and, if he has complied with the terms and conditions of the lease to the time of surrender, may avoid further liability for fees thereunder by giving written notice to the Secretary of such surrender. The lease shall specify the length of time of notice, which shall not exceed one year.
 
 #### (d) Terms for renewal of lease
 
@@ -24,7 +24,7 @@ Section was formerly classified to section 471f of Title 48, Territories and Ins
 
 #### Amendments
 
-1968—Subsec. (a). Pub. L. 90–403, §2(a), substituted provisions for reasonable term of leases, limited to fifty-five years, and based on all factors relevant to exercise of grazing privileges for prior provisions for twenty year leases, except where land may be required for other than grazing purposes within a ten year period, and for shorter term leases as desired by applicant.
+<b>1968</b>—Subsec. (a). Pub. L. 90–403, §2(a), substituted provisions for reasonable term of leases, limited to fifty-five years, and based on all factors relevant to exercise of grazing privileges for prior provisions for twenty year leases, except where land may be required for other than grazing purposes within a ten year period, and for shorter term leases as desired by applicant.
 
 Subsec. (d). Pub. L. 90–403, §2(b), added subsec. (d).
 

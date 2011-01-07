@@ -88,7 +88,7 @@ Any distribution by a REMIC—
 
 #### Amendments
 
-1988—Subsec. (b)(1). Pub. L. 100–647, §1006(t)(21), substituted “and, except as provided in regulations, in the same manner” for “and in the same manner” in introductory provisions.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–647, §1006(t)(21), substituted “and, except as provided in regulations, in the same manner” for “and in the same manner” in introductory provisions.
 
 Subsec. (b)(1)(E). Pub. L. 100–647, §1006(t)(8)(C), added subpar. (E).
 

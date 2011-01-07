@@ -30,7 +30,7 @@ There is authorized to be appropriated to carry out this section, such sums as m
 
 #### Amendments
 
-2008—Pub. L. 110–377 amended section generally. Prior to amendment, section required the Secretary to establish a national media campaign to educate the public and health care providers about poison control and prevention and authorized appropriations for fiscal years 2000 through 2009.
+<b>2008</b>—Pub. L. 110–377 amended section generally. Prior to amendment, section required the Secretary to establish a national media campaign to educate the public and health care providers about poison control and prevention and authorized appropriations for fiscal years 2000 through 2009.
 
 #### Effective Date of 2008 Amendment
 

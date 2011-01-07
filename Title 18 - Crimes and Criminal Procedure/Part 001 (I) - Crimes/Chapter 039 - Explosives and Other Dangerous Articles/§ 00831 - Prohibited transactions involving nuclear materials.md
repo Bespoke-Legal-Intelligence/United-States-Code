@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) thereby knowingly causes the death of or serious bodily injury to any person or substantial damage to property or to the environment; or
 
-&emsp;&emsp;(B) circumstances exist, or have been represented to the defendant to exist, that are likely to cause the death or serious bodily injury to any person, or substantial damage to property or to the environment;
+&emsp;&emsp;(B) circumstances exist, or have been represented to the defendant to exist, that arelikely to cause the death or serious bodily injury to any person, or substantial damage to property or to the environment;
 
 &emsp;(2) with intent to deprive another of nuclear material or nuclear byproduct material, knowingly—
 
@@ -156,7 +156,7 @@ A prior section 831, acts June 25, 1948, ch. 645, 62 Stat. 738; Sept. 6, 1960, P
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–132, §502(1)(A), substituted “nuclear material or nuclear byproduct material” for “nuclear material” wherever appearing.
+<b>1996</b>—Subsec. (a). Pub. L. 104–132, §502(1)(A), substituted “nuclear material or nuclear byproduct material” for “nuclear material” wherever appearing.
 
 Subsec. (a)(1)(A). Pub. L. 104–132, §502(1)(B)(i), inserted “or to the environment” after “damage to property”.
 
@@ -178,15 +178,15 @@ Subsec. (f)(1)(C). Pub. L. 104–132, §502(3)(A)(ii), substituted “enriched u
 
 Subsec. (f)(2) to (7). Pub. L. 104–132, §502(3)(B)–(F), added par. (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and added pars. (6) and (7).
 
-1994—Subsec. (b)(1)(A), (2)(A). Pub. L. 103–322 substituted “fined under this title” for “fine of not more than $250,000”.
+<b>1994</b>—Subsec. (b)(1)(A), (2)(A). Pub. L. 103–322 substituted “fined under this title” for “fine of not more than $250,000”.
 
 Subsec. (c)(1). Pub. L. 103–272 substituted “section 46501 of title 49” for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. 1301)”.
 
-1988—Subsec. (e)(2) to (6). Pub. L. 100–690 redesignated pars. (3) to (6) as (2) to (5), respectively.
+<b>1988</b>—Subsec. (e)(2) to (6). Pub. L. 100–690 redesignated pars. (3) to (6) as (2) to (5), respectively.
 
 #### Short Title of 1982 Amendment
 
-Section 1 of Pub. L. 97–351 provided that: “This Act \[enacting this section and amending section 1116 of this title\] may be cited as the ‘Convention on the Physical Protection of Nuclear Material Implementation Act of 1982’.”
+Section 1 of Pub. L. 97–351 provided that: “This Act \[enacting this section and amending section 1116 of this title\] may be cited as the ‘Convention on the PhysicalProtection of Nuclear Material Implementation Act of 1982’.”
 
 #### Findings and Purpose of Title V of Pub. L. 104–132 Relating to Nuclear Materials
 

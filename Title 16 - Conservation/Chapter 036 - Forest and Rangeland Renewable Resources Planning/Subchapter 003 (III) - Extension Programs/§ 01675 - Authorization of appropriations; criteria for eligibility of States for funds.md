@@ -10,13 +10,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §7413(a), substituted “2012” for “2007” in first sentence.
+<b>2008</b>—Pub. L. 110–246, §7413(a), substituted “2012” for “2007” in first sentence.
 
-2002—Pub. L. 107–171 substituted “There is authorized to be appropriated to carry out this subchapter $30,000,000 for each of fiscal years 2002 through 2007.” for “There are authorized to be appropriated to implement this subchapter $15,000,000 for each of fiscal years 1987 through 2002.”
+<b>2002</b>—Pub. L. 107–171 substituted “There is authorized to be appropriated to carry out this subchapter $30,000,000 for each of fiscal years 2002 through 2007.” for “There are authorized to be appropriated to implement this subchapter $15,000,000 for each of fiscal years 1987 through 2002.”
 
-1998—Pub. L. 105–185 substituted “each of fiscal years 1987 through 2002.” for “the fiscal year ending September 30, 1988, and $15,000,000 for each of the next twelve fiscal years.”
+<b>1998</b>—Pub. L. 105–185 substituted “each of fiscal years 1987 through 2002.” for “the fiscal year ending September 30, 1988, and $15,000,000 for each of the next twelve fiscal years.”
 
-1988—Pub. L. 100–231 amended first sentence generally, substituting “1988” for “1979” and “twelve” for “nine”.
+<b>1988</b>—Pub. L. 100–231 amended first sentence generally, substituting “1988” for “1979” and “twelve” for “nine”.
 
 #### Effective Date of 2008 Amendment
 

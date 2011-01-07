@@ -168,7 +168,7 @@ Unless otherwise specified, in this chapter:
 
 &emsp;The term “postsecondary educational institution” means—
 
-&emsp;&emsp;(A) an institution of higher education that provides not less than a 2-year program of instruction that is acceptable for credit toward a bachelor's degree;
+&emsp;&emsp;(A) an institution of higher education that provides not less than a 2-year program ofinstruction that is acceptable for credit toward a bachelor's degree;
 
 &emsp;&emsp;(B) a tribally controlled college or university; or
 
@@ -184,7 +184,7 @@ Unless otherwise specified, in this chapter:
 
 #### (24) School dropout
 
-&emsp;The term “school dropout” means an individual who is no longer attending any schooland who has not received a secondary school diploma or its recognized equivalent.
+&emsp;The term “school dropout” means an individual who is no longer attending any school and who has not received a secondary school diploma or its recognized equivalent.
 
 #### (25) Scientifically based research
 
@@ -264,11 +264,11 @@ Act of April 16, 1934, referred to in par. (13)(D), is act Apr. 16, 1934, ch. 14
 
 #### Prior Provisions
 
-A prior section 2302, Pub. L. 88–210, §3, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3077; amended Pub. L. 107–110, title X, §1076(k), Jan. 8, 2002, 115 Stat. 2091, related to definitions, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2302, Pub. L. 88–210, §3, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3077; amendedPub. L. 107–110, title X, §1076(k), Jan. 8, 2002, 115 Stat. 2091, related to definitions, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 2302, Pub. L. 88–210, §3, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2437; amended Pub. L. 100–418, title VI, §§6131(b), 6134(b), Aug. 23, 1988, 102 Stat. 1511, 1512; Pub. L. 101–392, §3, Sept. 25, 1990, 104 Stat. 756, authorized appropriations for fiscal years 1991 to 1995 to carry out former subchapters I to IV of this chapter, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 #### Amendments
 
-2008—Par. (33). Pub. L. 110–315 made technical amendment to reference in original act which appears in text as reference to section 1801(a) of title 25.
+<b>2008</b>—Par. (33). Pub. L. 110–315 made technical amendment to reference in original act which appears in text as reference to section 1801(a) of title 25.
 

@@ -6,7 +6,7 @@ The Commission shall complete its affairs in connection with the settlement of c
 
 #### Amendments
 
-1969—Pub. L. 91–157 set July 6, 1972, as the final date for the settlement of claims pursuant to this subchapter.
+<b>1969</b>—Pub. L. 91–157 set July 6, 1972, as the final date for the settlement of claims pursuant to this subchapter.
 
-1966—Pub. L. 89–780 inserted “with respect to each respective claims program authorized” after “carrying out its functions”.
+<b>1966</b>—Pub. L. 89–780 inserted “with respect to each respective claims program authorized” after “carrying out its functions”.
 

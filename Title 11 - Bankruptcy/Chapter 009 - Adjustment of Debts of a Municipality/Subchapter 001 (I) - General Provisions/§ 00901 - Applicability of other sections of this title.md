@@ -1,12 +1,12 @@
 ### §901. Applicability of other sections of this title
 
-(a) Sections 301, 344, 347(b), 349, 350(b), 361, 362, 364(c), 364(d), 364(e), 364(f), 365, 366, 501, 502, 503, 504, 506, 507(a)(2), 509, 510, 524(a)(1), 524(a)(2), 544, 545, 546, 547, 548, 549(a), 549(c), 549(d), 550, 551, 552, 553, 555, 556, 557, 559, 560, 561, 562, 1102, 1103, 1109, 1111(b), 1122, 1123(a)(1), 1123(a)(2), 1123(a)(3), 1123(a)(4), 1123(a)(5), 1123(b), 1123(d), 1124, 1125, 1126(a), 1126(b), 1126(c), 1126(e), 1126(f), 1126(g), 1127(d), 1128, 1129(a)(2), 1129(a)(3), 1129(a)(6), 1129(a)(8), 1129(a)(10), 1129(b)(1), 1129(b)(2)(A),1129(b)(2)(B), 1142(b), 1143, 1144, and 1145 of this title apply in a case under this chapter.
+(a) Sections 301, 333, 344, 347(b), 349, 350(b) 351,,<sup>1</sup> 361, 362, 364(c), 364(d), 364(e), 364(f), 365, 366, 501, 502, 503, 504, 506, 507(a)(2), 509, 510, 524(a)(1), 524(a)(2), 544, 545, 546, 547, 548, 549(a), 549(c), 549(d), 550, 551, 552, 553, 555, 556, 557, 559, 560, 561, 562, 1102, 1103, 1109, 1111(b), 1122, 1123(a)(1), 1123(a)(2), 1123(a)(3), 1123(a)(4), 1123(a)(5), 1123(b), 1123(d), 1124, 1125, 1126(a), 1126(b), 1126(c), 1126(e), 1126(f), 1126(g), 1127(d), 1128, 1129(a)(2), 1129(a)(3), 1129(a)(6), 1129(a)(8), 1129(a)(10), 1129(b)(1), 1129(b)(2)(A), 1129(b)(2)(B), 1142(b), 1143, 1144, and 1145 of this title apply in a case under this chapter.
 
-(b) A term used in a section of this title made applicable in a case under this chapter by subsection (a) of this section or section 103(e) <sup>1</sup> of this title has the meaning defined for such term for the purpose of such applicable section, unless such term is otherwise defined in section 902 of this title.
+(b) A term used in a section of this title made applicable in a case under this chapter by subsection (a) of this section or section 103(e) <sup>2</sup> of this title has the meaning defined for such term for the purpose of such applicable section, unless such term is otherwise defined in section 902 of this title.
 
 (c) A section made applicable in a case under this chapter by subsection (a) of this section that is operative if the business of the debtor is authorized to be operated is operative in a case under this chapter.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2621; Pub. L. 98–353, title III, §§353, 490, July 10, 1984, 98 Stat. 361, 383; Pub. L. 100–597, §3, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 109–8, title V, §502, title XII, §1216, title XV, §1502(a)(5), Apr. 20, 2005, 119 Stat. 118, 195, 216.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2621; Pub. L. 98–353, title III, §§353, 490, July 10, 1984, 98 Stat. 361, 383; Pub. L. 100–597, §3, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 109–8, title V, §502, title XII, §1216, title XV, §1502(a)(5), Apr. 20, 2005, 119 Stat. 118, 195, 216; Pub. L. 111–327, §2(a)(29), Dec. 22, 2010, 124 Stat. 3560.)
 
 #### Historical and Revision Notes
 
@@ -28,7 +28,7 @@ Section 901 makes applicable appropriate provisions of other chapters of propose
 
 <i>§361. Adequate protection</i>. Section 361 provides the general standard for the protection of secured creditors whose property is used in a case under title 11. Its importance lies in its application to sections 362 and 364.
 
-<i>§362. Automatic stay</i>. The automatic stay provisions of the general portions of the title are incorporated into chapter 9. There is an automatic stay provided in current Bankruptcy Act §85(e) \[section 405(e) of former title 11\]. The thrust of section 362 is the same as that of section 85(e), but, of course, its application in chapter 9 is modernized and drafted to conform with the stay generally applicable under the bankruptcy code. An additional part of the automatic stay applicable only to municipal cases is included in section 922.
+<i>§362. Automatic stay</i>. The automatic stay provisions of the general portions of the title are incorporated into chapter 9. There is an automatic stay provided in current Bankruptcy Act §85(e) \[section 405(e) of former title 11\]. The thrust of section 362 is the same as thatof section 85(e), but, of course, its application in chapter 9 is modernized and drafted to conform with the stay generally applicable under the bankruptcy code. An additional part of the automatic stay applicable only to municipal cases is included in section 922.
 
 <i>§§364(c), 364(d), 364(e). Obtaining credit</i>. This section governs the borrowing of money by a municipality in reorganization. It is narrower than a comparable provision in current law, section 82(b)(2) \[section 402(b)(2) of former title 11\]. The difference lies mainly in the removal under the bill of the authority of the court to supervise borrowing by the municipality in instances in which none of the special bankruptcy powers are involved. That is, if a municipality could borrow money outside of the bankruptcy court, then it should have the same authority in bankruptcy court, under the doctrine of <i>Ashton v. Cameron Water District No. 1</i>, 298 U.S. 513 (1936) \[Tex.1936, 56 S.Ct. 892, 80 L.Ed. 1309, 31 Am.Bankr.Rep.N.S. 96, rehearing denied 57 S.Ct. 5, 299 U.S. 619, 81 L.Ed. 457\] and <i>National League of Cities v. Usery</i>, 426 U.S. 833 (1976) \[Dist.Col.1976, 96 S.Ct. 2465, 49 L.Ed.2d 245, on remand 429 F. Supp. 703\]. Only when the municipality needs special authority, such as subordination of existing liens, or special priority for the borrowed funds, will the court become involved in the authorization.
 
@@ -46,7 +46,7 @@ Section 901 makes applicable appropriate provisions of other chapters of propose
 
 <i>§506. Determination of secured status</i>. Section 506 specifies that claims secured by a lien should be separated, to the extent provided, into secured and unsecured claims. It applies generally. Current law follows this result, though there is no explicit provision.
 
-<i>§507(1). Priorities</i>. Paragraph (1) of section 507 requires that administrative expenses be paid first. This rule will apply in chapter 9 cases. It is presently found in section 89(1) \[section 409(1) of former title 11\]. The two other priorities presently found in section 89 have been deleted. The second for claims arising within 3 months before the case is commenced, is deleted from the statute, but may be within the court's equitable power to award, under the case of <i>Fosdick v. Schall</i>, 99 U.S. 235 (1878) \[25 L.Ed. 339\]. Leaving the provision to the courts permits greater flexibility, as under railroad cases, than an absolute three-month rule. The third priority under current law, for claims which are entitled to priority under the laws of the United States, is deleted because of the proposed amendment to section 3466 of the Revised Statutes \[former 31 U.S.C. 191, see 31 U.S.C. 3713(a)\] contained in section 321(a) of title III of the bill, which previously has given the United States anabsolute first priority in chapter X \[chapter 10 of former title 11\] and section 77 \[section 205 of former title 11\] cases. Because the priority rules are regularized and brought together in the bankruptcy laws by this bill, the need for incorporation of priorities elsewhere specified is eliminated.
+<i>§507(1). Priorities</i>. Paragraph (1) of section 507 requires that administrative expenses be paid first. This rule will apply in chapter 9 cases. It is presently found in section 89(1) \[section 409(1) of former title 11\]. The two other priorities presently found in section 89 have been deleted. The second for claims arising within 3 months before the case is commenced, is deleted from the statute, but may be within the court's equitable power to award, under the case of <i>Fosdick v. Schall</i>, 99 U.S. 235 (1878) \[25 L.Ed. 339\]. Leaving the provision to the courts permits greater flexibility, as under railroad cases, than an absolute three-month rule. The third priority under current law, for claims which are entitled to priority under the laws of the United States, is deleted because of the proposed amendment to section 3466 of the Revised Statutes \[former 31 U.S.C. 191, see 31 U.S.C. 3713(a)\] contained in section 321(a) of title III of the bill, which previously has given the United States an absolute first priority in chapter X \[chapter 10 of former title 11\] and section 77 \[section 205 of former title 11\] cases. Because the priority rules are regularized and brought together in the bankruptcy laws by this bill, the need for incorporation of priorities elsewhere specified is eliminated.
 
 <i>§509. Claims of codebtors</i>. This section provides for the treatment of sureties, guarantors, and codebtors. The general rule of postponement found in the other chapters will apply in chapter 9. This section adopts current law.
 
@@ -90,6 +90,8 @@ Section 103(e) of this title, referred to in subsec. (b), was redesignated secti
 
 #### Amendments
 
+2010—Subsec. (a). Pub. L. 111–327 inserted “333,” after “301,” and “351,” after “350(b)”.
+
 2005—Subsec. (a). Pub. L. 109–8, §1502(a)(5), substituted “507(a)(2)” for “507(a)(1)”.
 
 Pub. L. 109–8, §1216, inserted “1123(d),” after “1123(b),”.
@@ -110,7 +112,9 @@ Amendment by Pub. L. 100–597 effective Nov. 3, 1988, but not applicable to any
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. The second comma probably should follow “350(b)”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

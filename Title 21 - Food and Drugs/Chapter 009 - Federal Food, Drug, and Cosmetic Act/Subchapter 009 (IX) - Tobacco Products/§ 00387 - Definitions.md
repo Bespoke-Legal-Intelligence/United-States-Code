@@ -20,7 +20,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(ii) meets the definition of the term “cigarette” in section 1332(1) of title 15; and
 
-&emsp;&emsp;(B) includes tobacco, in any form, that is functional in the product, which, because ofits appearance, the type of tobacco used in the filler, or its packaging and labeling, is likely to be offered to, or purchased by, consumers as a cigarette or as roll-your-own tobacco.
+&emsp;&emsp;(B) includes tobacco, in any form, that is functional in the product, which, because of its appearance, the type of tobacco used in the filler, or its packaging and labeling, is likely to be offered to, or purchased by, consumers as a cigarette or as roll-your-own tobacco.
 
 #### (4) Cigarette tobacco
 
@@ -112,7 +112,7 @@ In this subchapter:
 
 &emsp;&emsp;(ii) who performs no other actions with respect to tobacco leaf; and
 
-&emsp;&emsp;(iii) who provides to any manufacturer to whom the person sells tobacco all information related to the person's actions describedin clause (i) that is necessary for compliance with this chapter.
+&emsp;&emsp;(iii) who provides to any manufacturer to whom the person sells tobacco all information related to the person's actions described in clause (i) that is necessary for compliance with this chapter.
 
 &emsp;(B) The term “tobacco warehouse” excludes any person who—
 
@@ -152,7 +152,7 @@ Agricultural Activities.—The provisions of this division (or an amendment made
 
 “(c)
 
-Revenue Activities.—The provisions of this division (or an amendment made by this division) which authorize the Secretary to take certain actions with regard to tobacco products shall not be construed to affect any authority of the Secretary of the Treasury under chapter 52 of the Internal Revenue Code of 1986 \[26 U.S.C. 5701 et seq.\].”
+Revenue Activities.—The provisions of this division (or an amendment made by this division) whichauthorize the Secretary to take certain actions with regard to tobacco products shall not be construed to affect any authority of the Secretary of the Treasury under chapter 52 of the Internal Revenue Code of 1986 \[26 U.S.C. 5701 et seq.\].”
 
 #### Findings
 
@@ -192,7 +192,7 @@ Pub. L. 111–31, div. A, §2, June 22, 2009, 123 Stat. 1776, provided that: “
 
 &emsp;“(17) Tobacco product advertising often misleadingly portrays the use of tobacco as socially acceptable and healthful to minors.
 
-&emsp;“(18) Tobacco product advertising is regularly seen by persons under the age of 18, and persons under theage of 18 are regularly exposed to tobacco product promotional efforts.
+&emsp;“(18) Tobacco product advertising is regularly seen by persons under the age of 18, and persons under the age of 18 are regularly exposed to tobacco product promotional efforts.
 
 &emsp;“(19) Through advertisements during and sponsorship of sporting events, tobacco has become strongly associated with sports and has become portrayed as an integral part of sports and the healthy lifestyle associated with rigorous sporting activity.
 
@@ -238,7 +238,7 @@ Pub. L. 111–31, div. A, §2, June 22, 2009, 123 Stat. 1776, provided that: “
 
 &emsp;“(40) The dangers of products sold or distributed as modified risk tobacco products that do not in fact reduce risk are so high that there is a compelling governmental interest in ensuring that statements about modified risk tobacco products are complete, accurate, and relate to the overall disease risk of the product.
 
-&emsp;“(41) As the Federal Trade Commission has found, consumers have misinterpreted advertisements inwhich one product is claimed to be less harmful than a comparable product, even in the presence of disclosures and advisories intended to provide clarification.
+&emsp;“(41) As the Federal Trade Commission has found, consumers have misinterpreted advertisements in which one product is claimed to be less harmful than a comparable product, even in the presence of disclosures and advisories intended to provide clarification.
 
 &emsp;“(42) Permitting manufacturers to make unsubstantiated statements concerning modified risk tobacco products, whether express or implied, even if accompanied by disclaimers would be detrimental to the public health.
 
@@ -254,7 +254,7 @@ Pub. L. 111–31, div. A, §2, June 22, 2009, 123 Stat. 1776, provided that: “
 
 &emsp;“(48) In August 2006 a United States district court judge found that the major United States cigarette companies dramatically increased their advertising and promotional spending in ways that encourage youth to start smoking subsequent to the signing of the Master Settlement Agreement in 1998. USA v. Philip Morris, USA, Inc., et al. (Civil Action No. 99–2496 (GK), August 17, 2006).
 
-&emsp;“(49) In August 2006 a United States district court judge found that the major United States cigarette companies have designed their cigarettes to precisely control nicotine delivery levels and provide doses of nicotine sufficient to create and sustain addiction while also concealing much of their nicotine-related research. USA v. Philip Morris, USA, Inc., et al. (Civil Action No. 99–2496 (GK), August 17, 2006).”
+&emsp;“(49) In August 2006 a United States district court judge found that the major United States cigarettecompanies have designed their cigarettes to precisely control nicotine delivery levels and provide doses of nicotine sufficient to create and sustain addiction while also concealing much of their nicotine-related research. USA v. Philip Morris, USA, Inc., et al. (Civil Action No. 99–2496 (GK), August 17, 2006).”
 
 #### Purpose
 

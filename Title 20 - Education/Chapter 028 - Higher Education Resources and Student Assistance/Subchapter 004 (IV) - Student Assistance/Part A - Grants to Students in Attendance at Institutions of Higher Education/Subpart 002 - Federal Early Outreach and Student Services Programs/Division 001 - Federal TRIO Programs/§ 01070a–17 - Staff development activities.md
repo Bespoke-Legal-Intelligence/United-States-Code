@@ -26,9 +26,9 @@ Grants for the purposes of this section shall be made only after consultation wi
 
 #### Amendments
 
-2008—Subsec. (b)(5). Pub. L. 110–315 added par. (5).
+<b>2008</b>—Subsec. (b)(5). Pub. L. 110–315 added par. (5).
 
-1998—Subsec. (a). Pub. L. 105–244, §402(f)(1), inserted “participating in,” after “leadership personnel employed in,”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–244, §402(f)(1), inserted “participating in,” after “leadership personnel employed in,”.
 
 Subsec. (b)(4). Pub. L. 105–244, §402(f)(2), added par. (4).
 

@@ -18,7 +18,7 @@
 
 #### Amendments
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 3114 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 3114 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “3485(e)” for “1685(e)”.
 

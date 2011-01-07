@@ -4,7 +4,11 @@
 
 Subject to such limitations as may be provided for under this section, the Board may take such actions and make such expenditures as may be necessary to carry out the Congressional Award Program, except that—
 
-&emsp;(1) the Board shall carry out its functions and make expenditures with only such resources as are available to the Board from sources other than the Federal Government; and
+&emsp;(1) the Board shall carry out its functions and make expenditures with—
+
+&emsp;&emsp;(A) such resources as are available to the Board from sources other than the Federal Government; and
+
+&emsp;&emsp;(B) funds awarded in any grant program administered by a Federal agency in accordance with the law establishing that grant program.
 
 &emsp;(2) the Board shall not take any actions which would disqualify the Board from treatment (for tax purposes) as an organization described in section 501(c)(3) of title 26.
 
@@ -16,7 +20,7 @@ Subject to such limitations as may be provided for under this section, the Board
 
 &emsp;(A) communication with local Congressional Award Councils concerning the Congressional Award Program;
 
-&emsp;(B) provision, upon the request of any local Congressional Award Council, of such technical assistance as may be necessary to assistsuch council with its responsibilities, including the provision of medals, the preparation and provision of applications, guidance on disposition of applications, arrangements with respect to local award ceremonies, and other responsibilities of such council;
+&emsp;(B) provision, upon the request of any local Congressional Award Council, of such technical assistance as may be necessary to assist such council with its responsibilities, including the provision of medals, the preparation and provision of applications, guidance on disposition of applications, arrangements with respect to local award ceremonies, and other responsibilities of such council;
 
 &emsp;(C) conduct of outreach activities to establish new local Congressional Award Councils, particularly in inner-city areas and rural areas;
 
@@ -54,25 +58,25 @@ Subject to such limitations as may be provided for under this section, the Board
 
 &emsp;(F) designation of a Statewide coordinator to serve as a liaison between the State and local boards and the national board.
 
-(4) Each Statewide Council established pursuant to this section is authorized to receive public monetary and in-kind contributions, which may be made available to local boards to supplement or defray operating expenses. The Board shall adopt appropriate financial management methods in order to ensure the proper accounting of these funds.
+(4) Each Statewide Council established under this section may receive contributions, and use such contributions for the purposes of the Program. The Board shall adopt appropriate financial management methods in order to ensure the proper accounting of these funds. Each Statewide Council shall comply with subsections (a), (d), (e), and (h) governing the Board.
 
 (5) Each Statewide Council established pursuant to this section shall comply with the standard charter requirements of the national board of directors.
 
 #### (d) Contracting authority
 
-The Board may enter into and perform such contracts as may be appropriate to carry out its business, but the Board may not enter into any contract which would obligate the Board to expend an amount greater than the amount available to the Board for the purpose of such contract during the fiscal year in which the expenditure is made.
+The Board may enter into and perform such contracts as may be appropriate to carry out its business, but the Board may not enter into any contract which would obligate the Board to expend an amount greater than the amount available to the Board for the purpose of such contract during the fiscal year in which the expenditure is to be made.
 
 #### (e) Obtaining and acceptance of non-Federal funds and resources; indirect resources
 
 (1) Subject to the provisions of paragraph (2), the Board may seek and accept funds and other resources to carry out its activities. The Board may not accept any funds or other resources which are—
 
-&emsp;(A) donated with a restriction on their use unless such restriction merely provides that such funds or other resources be used in furtherance of the Congressional Award Program or a specific regional or local program; and
+&emsp;(A) donated with a restriction on their use unless such restriction merely provides that such funds or other resources be used in furtherance of the Congressional Award Program or a specific regional or local program or for scholarships; and
 
 &emsp;(B) donated subject to the condition that the identity of the donor of the funds or resources shall remain anonymous.
 
 > The Board may permit donors to use the name of the Board or the name “Congressional Award Program” in advertising.
 
-(2) Except as otherwise provided in this chapter, the Board may not receive any Federal funds or resources. The Board may benefit from in-kind and indirect resources provided by Offices of Members of Congress or the Congress. Further, the Board is not prohibited from receiving indirect benefits from efforts or activities undertaken in collaboration with entities which receive Federal funds or resources.
+(2) Except as otherwise provided in this chapter, the Board may not receive any Federalfunds or resources. The Board may benefit from in-kind and indirect resources provided by Offices of Members of Congress or the Congress. Further, the Board is not prohibited from receiving indirect benefits from efforts or activities undertaken in collaboration with entities which receive Federal funds or resources.
 
 #### (f) Acceptance and utilization of services of voluntary, uncompensated personnel
 
@@ -92,21 +96,41 @@ The Board shall have no power—
 
 &emsp;(3) to provide for any part of the income or assets of the Board to inure to the benefit of any director, officer, or employee of the Board except as reasonable compensation for services or reimbursement for expenses.
 
-#### (i) Establishment, functions, etc., of private nonprofit corporation; articles of incorporation of corporation; compensation, etc., for director, officer, or employee of corporation
+#### (i) Congressional Award Foundation
 
-(1) The Board shall provide for the establishment of a private nonprofit corporation for thesole purpose of assisting the Board to carry out the Congressional Award Program, and shall delegate to the corporation such duties as it considers appropriate.
+(1) The Board shall provide for the incorporation of a nonprofit corporation to be known as the Congressional Award Foundation (together with any subsidiary nonprofit corporations determined desirable by the Board, collectively referred to in this subchapter as the “Corporation”) for the sole purpose of assisting the Board to carry out the Congressional Award Program, and shall delegate to the Corporation such duties as it considers appropriate, including the employment of personnel, expenditure of funds, and the incurrence of financial or other contractual obligations.
 
-(2) The articles of incorporation of the corporation established under this subsection shall provide that—
+(2) The articles of incorporation of the Congressional Award Foundation shall provide that—
 
-&emsp;(A) the members of the Board of Directors of the corporation shall be the members of the Board, and the Director of the corporation shall be the Director of the Board; and
+&emsp;(A) the members of the Board of Directors of the Foundation shall be the members of the Board, with up to 24 additional voting members appointed by the Board, and the Director who shall serve as a nonvoting member; and
 
-&emsp;(B) the extent of the authority of the corporation shall be the same as that of the Board.
+&emsp;(B) the extent of the authority of the Foundation shall be the same as that of the Board.
 
-(3) No director, officer, or employee of any corporation established under this subsection may receive compensation, travel expenses, or benefits from both the corporation and the Board.
+(3) No director, officer, or employee of any corporation established under this subsection may receive compensation, travel expenses, or benefits from both the Corporation and the Board.
 
-(Pub. L. 96–114, title I, §106, formerly §7, Nov. 16, 1979, 93 Stat. 854; Pub. L. 99–161, §4(f), Nov. 25, 1985, 99 Stat. 935; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–674, §2(c), Nov. 17, 1988, 102 Stat. 3996; Pub. L. 101–525, §7, Nov. 6, 1990, 104 Stat. 2306; renumbered title I, §106, Pub. L. 106–533, §1(b)(1), (2), Nov. 22, 2000, 114 Stat. 2553.)
+(Pub. L. 96–114, title I, §106, formerly §7, Nov. 16, 1979, 93 Stat. 854; Pub. L. 99–161, §4(f), Nov. 25, 1985, 99 Stat. 935; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–674, §2(c), Nov. 17, 1988, 102 Stat. 3996; Pub. L. 101–525, §7, Nov. 6, 1990, 104 Stat. 2306; renumbered title I, §106, Pub. L. 106–533, §1(b)(1), (2), Nov. 22, 2000, 114 Stat. 2553; Pub. L. 111–200, §2(d)–(g), July 7, 2010, 124 Stat. 1369.)
 
 #### Amendments
+
+2010—Subsec. (a)(1). Pub. L. 111–200, §2(d), added par. (1) and struck out former par. (1) which read as follows: “the Board shall carry out its functions and make expenditures with only such resources as are available to the Board from sources other than the Federal Government; and”.
+
+Subsec. (c)(4). Pub. L. 111–200, §2(e), added par. (4) and struck out former par. (4) which read as follows: “Each Statewide Council established pursuant to this section is authorized to receive public monetary and in-kind contributions, which may be made available to local boards to supplement or defray operating expenses. The Board shall adopt appropriate financial management methods in order to ensure the proper accounting of these funds.”
+
+Subsec. (d). Pub. L. 111–200, §2(f)(1), inserted “to be” after “expenditure is”.
+
+Subsec. (e)(1)(A). Pub. L. 111–200, §2(f)(2), inserted “or for scholarships” after “local program”.
+
+Subsec. (i). Pub. L. 111–200, §2(g), added subsec. (i) and struck out former subsec. (i) which read as follows:
+
+“(1) The Board shall provide for the establishment of a private nonprofit corporation for the sole purpose of assisting the Board to carry out the Congressional Award Program, and shall delegate to the corporation such duties as it considers appropriate.
+
+“(2) The articles of incorporation of the corporation established under this subsection shall provide that—
+
+&emsp;“(A) the members of the Board of Directors of the corporation shall be the members of the Board, and the Director of the corporation shall be the Director of the Board; and
+
+&emsp;“(B) the extent of the authority of the corporation shall be the same as that of the Board.
+
+“(3) No director, officer, or employee of any corporation established under this subsection may receive compensation, travel expenses, or benefits from both the corporation and the Board.”
 
 1990—Subsec. (a). Pub. L. 101–525, §7(a), which directed the insertion of “(a)” after the section designation, was not executed in view of existing subsec. (a) designation.
 

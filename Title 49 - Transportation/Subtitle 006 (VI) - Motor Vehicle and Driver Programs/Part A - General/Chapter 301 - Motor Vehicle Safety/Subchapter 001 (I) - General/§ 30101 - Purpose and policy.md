@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 Sept. 9, 1966, Pub. L. 89–563, §1, 80 Stat. 718.
 
-The words “Congress hereby declares that”, “to persons”, and “Congress determines that” are omitted as surplus. The words “motor vehicle” before “equipment” are added for consistency. The words “and to expand the national driver register” are omitted becausesection 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), the only section in this law related to the national driver register, was superseded by the National Driver Register Act of 1982 (Public Law 97–364, 96 Stat. 1740).
+The words “Congress hereby declares that”, “to persons”, and “Congress determines that” are omitted as surplus. The words “motor vehicle” before “equipment” are added for consistency. The words “and to expand the national driver register” are omitted because section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), the only section in this law related to the national driver register, was superseded by the National Driver Register Act of 1982 (Public Law 97–364, 96 Stat. 1740).
 
 #### Short Title of 2007 Amendment
 
@@ -36,7 +36,7 @@ Pub. L. 109–59, title IV, §4001, Aug. 10, 2005, 119 Stat. 1714, provided that
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–414, §1, Nov. 1, 2000, 114 Stat. 1800, provided that: “This Act \[enacting section 30170 of this title, amending sections 30115, 30117, 30118, 30120, 30165, and 30166 of this title, and enacting provisions set out as notes under sections 30111, 30115, 30118, 30123, and 30127 of this title\] may be cited as the ‘Transportation Recall Enhancement, Accountability, and Documentation (TREAD) Act’.”
+Pub. L. 106–414, §1, Nov. 1, 2000, 114 Stat. 1800, provided that: “This Act \[enacting section 30170 of this title, amending sections 30115, 30117, 30118, 30120, 30165, and 30166 of this title, and enacting provisions set out as notes under sections 30111, 30115, 30118, 30123, and30127 of this title\] may be cited as the ‘Transportation Recall Enhancement, Accountability, and Documentation (TREAD) Act’.”
 
 #### Short Title of 1998 Amendment
 
@@ -120,7 +120,7 @@ Definitions.—As used in this part—
 
 &emsp;“(2) the term ‘multipurpose passenger vehicle’ means a motor vehicle with motive power (except a trailer), designed to carry 10 persons or fewer, which is constructed either on a truck chassis or with special features for occasional off-road operation;
 
-&emsp;“(3) the term ‘passenger car’ means a motor vehicle with motive power (except a multipurpose passengervehicle, motorcycle, or trailer), designed for carrying 10 persons or fewer;
+&emsp;“(3) the term ‘passenger car’ means a motor vehicle with motive power (except a multipurpose passenger vehicle, motorcycle, or trailer), designed for carrying 10 persons or fewer;
 
 &emsp;“(4) the term ‘truck’ means a motor vehicle with motive power, except a trailer, designed primarily for the transportation of property or special purpose equipment; and
 
@@ -140,7 +140,7 @@ Specific procedure.—
 
 &emsp;&emsp;“(A)
 
-Initiation.—To initiate an action under section 2503, the Secretary shall, not later than May 31, 1992, publish in the Federal Register an advance notice of proposed rulemaking or a notice of proposed rulemaking, except that if the Secretary is unable to publish such a notice by such date, the Secretary shall by such date publish in the Federal Register a notice that the Secretary will begin such action by a certain date which may not be later than January 31, 1993 and include in such notice the reasons for the delay. A notice of delayed action shall not be considered agency action subject to judicial review. If the Secretary publishes an advance notice of proposed rulemaking, the Secretary is not required to follow such notice with a notice of proposed rulemaking if the Secretary determines on the basis of such advanced notice and the comments received thereon that the contemplated action should not be taken under the provisions of the National Traffic and Motor Vehicle Safety Act of 1966 (\[formerly\] 15 U.S.C. 1381 et seq.), including the provisions of section 103 of such Act (\[formerly\] 15 U.S.C. 1392), and if the Secretary publishes the reasons for such determination consistent with chapter 5 of title 5, United States Code.
+Initiation.—To initiate an action under section 2503, the Secretary shall, not later than May 31, 1992, publish in the Federal Register an advance notice of proposed rulemaking or a notice of proposed rulemaking, except that if the Secretary is unable to publish such a notice by such date, the Secretary shall by such date publish in the Federal Register a notice that the Secretary will begin such action by a certain date which may not be later than January 31, 1993 and include in such notice the reasons for the delay. A notice of delayed action shall not be considered agency action subject to judicial review. If the Secretary publishes an advancenotice of proposed rulemaking, the Secretary is not required to follow such notice with a notice of proposed rulemaking if the Secretary determines on the basis of such advanced notice and the comments received thereon that the contemplated action should not be taken under the provisions of the National Traffic and Motor Vehicle Safety Act of 1966 (\[formerly\] 15 U.S.C. 1381 et seq.), including the provisions of section 103 of such Act (\[formerly\] 15 U.S.C. 1392), and if the Secretary publishes the reasons for such determination consistent with chapter 5 of title 5, United States Code.
 
 &emsp;&emsp;“(B)
 
@@ -198,7 +198,7 @@ Standard.—The Secretary may, as part of any action taken under section 2503, a
 
 #### “SEC. 2509. HEAD INJURY IMPACT STUDY.
 
-“The Secretary, in the case of any head injury protection matters not subject to section 2503(5) for which the Secretary is on the date of enactment of this Act \[Dec. 18, 1991\] examining the need for rulemaking and is conducting research, shall provide a report to Congress by the end of fiscal year 1993 identifying those matters and their status. The report shall include a statement of any actions planned toward initiating such rulemaking no later than fiscal year 1994 or 1995 through use of either an advance notice of proposedrulemaking or a notice of proposed rulemaking and completing such rulemaking as soon as possible thereafter.”
+“The Secretary, in the case of any head injury protection matters not subject to section 2503(5) for which the Secretary is on the date of enactment of this Act \[Dec. 18, 1991\] examining the need for rulemaking and is conducting research, shall provide a report to Congress by the end of fiscal year 1993 identifying those matters and their status. The report shall include a statement of any actions planned toward initiating such rulemaking no later than fiscal year 1994 or 1995 through use of either an advance notice of proposed rulemaking or a notice of proposed rulemaking and completing such rulemaking as soon as possible thereafter.”
 
 #### Fuel System Integrity Standard
 
@@ -216,7 +216,7 @@ Amendment or Repeal of Standard.—The Secretary may amend the standard describe
 
 Ex. Ord. No. 11357, June 6, 1967, 32 F.R. 8225, provided:
 
-By virtue of the authority vested in me as President of the United States by Section 201 of the Highway Safety Act of 1966, as amended (80 Stat. 735, 943) \[set out as a note under section 401 of Title 23, Highways\], and by Section 3(f)(3) of the Department of Transportation Act (80 Stat. 932) \[former 49 U.S.C. 1652(f)(3)\], it is hereby ordered that the provisions of the National Traffic and Motor Vehicle Safety Act of 1966, as amended (80 Stat. 718, 943) \[formerly 15 U.S.C. 1381 et seq.\], shall be carried out through the National Highway Safety Bureau and the Director thereof.
+By virtue of the authority vested in me as President of the United States by Section 201 of the Highway Safety Act of 1966, as amended (80 Stat. 735, 943) \[set out as a note under section 401 of Title 23, Highways\],and by Section 3(f)(3) of the Department of Transportation Act (80 Stat. 932) \[former 49 U.S.C. 1652(f)(3)\], it is hereby ordered that the provisions of the National Traffic and Motor Vehicle Safety Act of 1966, as amended (80 Stat. 718, 943) \[formerly 15 U.S.C. 1381 et seq.\], shall be carried out through the National Highway Safety Bureau and the Director thereof.
 
 Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

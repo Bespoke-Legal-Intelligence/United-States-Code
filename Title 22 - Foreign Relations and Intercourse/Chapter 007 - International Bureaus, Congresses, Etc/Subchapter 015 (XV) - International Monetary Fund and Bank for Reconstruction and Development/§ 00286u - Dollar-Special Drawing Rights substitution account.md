@@ -6,7 +6,7 @@ It is the sense of the Congress that the Secretary of the Treasury and the Unite
 
 #### Amendments
 
-1981—Pub. L. 97–35 struck out reporting requirement on progress toward achieving account.
+<b>1981</b>—Pub. L. 97–35 struck out reporting requirement on progress toward achieving account.
 
 #### Effective Date of 1981 Amendment
 

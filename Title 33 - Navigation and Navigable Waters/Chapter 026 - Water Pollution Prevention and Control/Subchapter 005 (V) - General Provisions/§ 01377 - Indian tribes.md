@@ -10,7 +10,7 @@ The Administrator, in cooperation with the Director of the Indian Health Service
 
 #### (c) Reservation of funds
 
-The Administrator shall reserve each fiscal year beginning after September 30, 1986, before allotments to the States under section 1285(e) of this title, one-half of one percent of the sums appropriated under section 1287 of this title. Sums reserved under this subsection shall be available only for grants for the development of waste treatment management plans and for the construction of sewage treatment works to serve Indian tribes, as defined in subsection (h) of this section and former Indian reservations inOklahoma (as determined by the Secretary of the Interior) and Alaska Native Villages as defined in Public Law 92–203 \[43 U.S.C. 1601 et seq.\].
+The Administrator shall reserve each fiscal year beginning after September 30, 1986, before allotments to the States under section 1285(e) of this title, one-half of one percent of the sums appropriated under section 1287 of this title. Sums reserved under this subsection shall be available only for grants for the development of waste treatment management plans and for the construction of sewage treatment works to serve Indian tribes, as defined in subsection (h) of this section and former Indian reservations in Oklahoma (as determined by the Secretary of the Interior) and Alaska Native Villages as defined in Public Law 92–203 \[43 U.S.C. 1601 et seq.\].
 
 #### (d) Cooperative agreements
 
@@ -64,9 +64,9 @@ A prior section 518 of act June 30, 1948, was renumbered section 519 and is set 
 
 #### Amendments
 
-2000—Subsec. (e). Pub. L. 106–284 substituted “1344, and 1346 of this title” for “and 1344 of this title” in introductory provisions.
+<b>2000</b>—Subsec. (e). Pub. L. 106–284 substituted “1344, and 1346 of this title” for “and 1344 of this title” in introductory provisions.
 
-1988—Subsec. (c). Pub. L. 100–581 inserted “, as defined in subsection (h) of this section and former Indian reservations in Oklahoma (as determined by the Secretary of the Interior) and Alaska Native Villages as defined in Public Law 92–203” before period at end.
+<b>1988</b>—Subsec. (c). Pub. L. 100–581 inserted “, as defined in subsection (h) of this section and former Indian reservations in Oklahoma (as determined by the Secretary of the Interior) and Alaska Native Villages as defined in Public Law 92–203” before period at end.
 
 #### Grants for Construction of Water Facilities and for Water Quality Protection
 
@@ -87,4 +87,6 @@ Pub. L. 107–73, title III, Nov. 26, 2001, 115 Stat. 685.
 Pub. L. 106–377, §1(a)(1) \[title III\], Oct. 27, 2000, 114 Stat. 1441, 1441A–43.
 
 Pub. L. 106–74, title III, Oct. 20, 1999, 113 Stat. 1083.
+
+<i><sup>1</sup></i><i> So in original. Probably should be subsection “(e)”.</i>
 

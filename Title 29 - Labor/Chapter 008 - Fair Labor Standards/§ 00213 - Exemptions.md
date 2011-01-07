@@ -8,7 +8,7 @@ The provisions of sections 206 (except subsection (d) in the case of paragraph (
 
 &emsp;(2) Repealed. Pub. L. 101–157, §3(c)(1), Nov. 17, 1989, 103 Stat. 939.
 
-&emsp;(3) any employee employed by an establishment which is an amusement or recreational establishment, organized camp, or religious or non-profit educational conference center, if (A) it does not operate for more than seven months in any calendar year, or (B) during the preceding calendar year, its average receipts for any six months of such year were not more than 331/3 per centum of its average receipts for the other six months of such year, except that the exemption from sections 206 and 207 of this title provided by this paragraph does not apply with respect to any employee of a private entity engaged in providing services or facilities (other than, in the case of the exemption from section 206 of this title, a private entity engaged in providing services and facilities directly related to skiing) in a national park or a national forest, or on land in the National Wildlife Refuge System, under a contract with the Secretary of the Interior or the Secretary of Agriculture; or
+&emsp;(3) any employee employed by an establishment which is an amusement or recreational establishment, organized camp, or religious or non-profit educational conference center, if (A) it does not operate for more than seven months in any calendar year, or (B) during the preceding calendar year, its average receipts for any six months of such year were not more than 331/3 per centum of its average receipts for the other six months of such year, except that the exemption from sections 206 and 207 of this title provided by this paragraph does not apply with respect to any employee of a private entity engaged in providing services or facilities (other than, in the case of the exemption from section 206 of this title, a private entity engaged in providing services and facilities directly related to skiing) in a national park or a national forest, or on land in the National Wildlife Refuge System, under acontract with the Secretary of the Interior or the Secretary of Agriculture; or
 
 &emsp;(4) Repealed. Pub. L. 101–157, §3(c)(1), Nov. 17, 1989, 103 Stat. 939.
 
@@ -66,7 +66,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 &emsp;(8) Repealed. Pub. L. 95–151, §14(b), Nov. 1, 1977, 91 Stat. 1252.
 
-&emsp;(9) any employee employed as an announcer, news editor, or chief engineer by a radio or television station the major studio of which is located (A) in a city or town of one hundred thousand population or less, according to the latest available decennial census figures as compiled by the Bureau of the Census, exceptwhere such city or town is part of a standard metropolitan statistical area, as defined and designated by the Office of Management and Budget, which has a total population in excess of one hundred thousand, or (B) in a city or town of twenty-five thousand population or less, which is part of such an area but is at least 40 airline miles from the principal city in such area; or
+&emsp;(9) any employee employed as an announcer, news editor, or chief engineer by a radio or television station the major studio of which is located (A) in a city or town of one hundred thousand population or less, according to the latest available decennial census figures as compiled by the Bureau of the Census, except where such city or town is part of a standard metropolitan statistical area, as defined and designated by the Office of Management and Budget, which has a total population in excess of one hundred thousand, or (B) in a city ortown of twenty-five thousand population or less, which is part of such an area but is at least 40 airline miles from the principal city in such area; or
 
 &emsp;(10)(A) any salesman, partsman, or mechanic primarily engaged in selling or servicing automobiles, trucks, or farm implements, if he is employed by a nonmanufacturing establishment primarily engaged in the business of selling such vehicles or implements to ultimate purchasers; or
 
@@ -116,7 +116,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 #### (c) Child labor requirements
 
-(1) Except as provided in paragraph (2) or (4), the provisions of section 212 of this title relating to child labor shall not apply to any employeeemployed in agriculture outside of school hours for the school district where such employee is living while he is so employed, if such employee—
+(1) Except as provided in paragraph (2) or (4), the provisions of section 212 of this title relating to child labor shall not apply to any employee employed in agriculture outside of school hours for the school district where such employee is living while he is so employed, if such employee—
 
 &emsp;(A) is less than twelve years of age and (i) is employed by his parent, or by a person standing in the place of his parent, on a farm owned or operated by such parent or person, or (ii) is employed, with the consent of his parent or person standing in the place of his parent, on a farm, none of the employees of which are (because of subsection (a)(6)(A) of this section) required to be paid at the wage rate prescribed by section 206(a)(5) <sup>1</sup> of this title,
 
@@ -172,7 +172,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 &emsp;&emsp;(III) any employee under the age of 18 may not operate or unload the scrap paper balers and paper box compactors.
 
-> The Secretary shall publish in the Federal Register a standard that is adopted by the AmericanNational Standards Institute for scrap paper balers or paper box compactors and certified by the Secretary to be protective of the safety of minors under clause (i)(II).
+> The Secretary shall publish in the Federal Register a standard that is adopted by the American National Standards Institute for scrap paper balers or paper box compactors and certified by the Secretary to be protective of the safety of minors under clause (i)(II).
 
 (C)(i) Employers shall prepare and submit to the Secretary reports—
 
@@ -254,7 +254,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 #### (d) Delivery of newspapers and wreathmaking
 
-The provisions of sections 206, 207, and 212 of this title shall not apply with respect to any employee engaged in the delivery of newspapers to the consumer or to any homeworker engaged in the making of wreaths composed principally of natural holly, pine, cedar, or other evergreens (including the harvesting of the evergreens or other forest products used in making such wreaths).
+The provisions of sections 206, 207, and 212 of this title shall not apply with respect to any employee engaged in the delivery of newspapers to the consumer or to any homeworker engaged in the making of wreaths composed principally of natural holly, pine, cedar, or other evergreens (including the harvesting of the evergreens orother forest products used in making such wreaths).
 
 #### (e) Maximum hour requirements and minimum wage employees
 
@@ -340,31 +340,31 @@ In subsec. (b)(1), “section 31502 of title 49” substituted for “section 31
 
 #### Amendments
 
-2004—Subsec. (c)(7). Pub. L. 108–199 added par. (7).
+<b>2004</b>—Subsec. (c)(7). Pub. L. 108–199 added par. (7).
 
-1998—Subsec. (c)(6). Pub. L. 105–334 added par. (6).
+<b>1998</b>—Subsec. (c)(6). Pub. L. 105–334 added par. (6).
 
-1997—Subsec. (b)(12). Pub. L. 105–78 substituted “water, at least 90 percent of which was ultimately delivered for agricultural purposes during the preceding calendar year” for “water for agricultural purposes”.
+<b>1997</b>—Subsec. (b)(12). Pub. L. 105–78 substituted “water, at least 90 percent of which was ultimately delivered for agricultural purposes during the preceding calendar year” for “water for agricultural purposes”.
 
-1996—Subsec. (a)(17). Pub. L. 104–188 added par. (17).
+<b>1996</b>—Subsec. (a)(17). Pub. L. 104–188 added par. (17).
 
 Subsec. (c)(5). Pub. L. 104–174 added par. (5).
 
-1995—Subsec. (b)(2). Pub. L. 104–88 substituted “rail carrier subject to part A of subtitle IV of title 49” for “common carrier by rail and subject to the provisions of part I of the Interstate Commerce Act”.
+<b>1995</b>—Subsec. (b)(2). Pub. L. 104–88 substituted “rail carrier subject to part A of subtitle IV of title 49” for “common carrier by rail and subject to the provisions of part I of the Interstate Commerce Act”.
 
-1994—Subsec. (a)(16). Pub. L. 103–329, §633(d)(1), added par. (16).
+<b>1994</b>—Subsec. (a)(16). Pub. L. 103–329, §633(d)(1), added par. (16).
 
 Subsec. (b)(30). Pub. L. 103–329, §633(d)(2), added par. (30).
 
-1989—Subsec. (a)(2). Pub. L. 101–157, §3(c)(1), struck out par. (2) which related to employees employed by a retail or service establishment.
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–157, §3(c)(1), struck out par. (2) which related to employees employed by a retail or service establishment.
 
 Subsec. (a)(4). Pub. L. 101–157, §3(c)(1), struck out par. (4) which related to employees employed by an establishment which qualified as an exempt retail establishment under clause (2) of this subsection and was recognized as a retail establishment in the particular industry notwithstanding that such establishment made or processed at the retail establishment the goods that it sold.
 
 Subsec. (g). Pub. L. 101–157, §3(c)(2), substituted “provided by paragraph (6) of subsection (a) of this section” for “provided by paragraphs (2) and (6) of subsection (a) of this section” and struck out before period at end “, except that the exemption from section 206 of this title provided by paragraph (2) of subsection (a) of this section shall apply with respect to any establishment described in this subsection which has an annual dollar volume of sales which would permit it to qualify for the exemption provided in paragraph (2) of subsection (a) of this section if it were in an enterprise described in section 203(s) of this title”.
 
-1979—Subsec. (f). Pub. L. 96–70 struck out “; and the Canal Zone” after “Johnston Island”.
+<b>1979</b>—Subsec. (f). Pub. L. 96–70 struck out “; and the Canal Zone” after “Johnston Island”.
 
-1977—Subsec. (a)(2). Pub. L. 95–151, §9(d), substituted “section 203(s)(5)” for “section 203(s)(4)”.
+<b>1977</b>—Subsec. (a)(2). Pub. L. 95–151, §9(d), substituted “section 203(s)(5)” for “section 203(s)(4)”.
 
 Subsec. (a)(3). Pub. L. 95–151, §§4(a), 11, inserted “organized camp, or religious or non-profit educational conference center,” after “recreational establishment,”, and inserted provisions relating to applicability of exemption from sections 206 and 207 of this title authorized by this paragraph for private employees in national parks, etc.
 
@@ -386,7 +386,7 @@ Subsec. (i). Pub. L. 95–151, §6(b), added subsec. (i).
 
 Subsec. (j). Pub. L. 95–151, §7(b), added subsec. (j).
 
-1974—Subsec. (a)(2). Pub. L. 93–259, §8(a), substituted “$225,000” for “$250,000” effective Jan. 1, 1975, Pub. L. 93–259, §8(b), substituted “$200,000” for “$225,000” effective Jan. 1, 1976. Pub. L. 93–259, §8(c), struck out “or such establishment has an annual dollar volume of sales which is less than $200,000 (exclusive of excisetaxes at the retail level which are separately stated)” after “section 203(s) of this title” effective Jan. 1, 1977.
+<b>1974</b>—Subsec. (a)(2). Pub. L. 93–259, §8(a), substituted “$225,000” for “$250,000” effective Jan. 1, 1975, Pub. L. 93–259, §8(b), substituted “$200,000” for “$225,000” effective Jan. 1, 1976. Pub. L. 93–259, §8(c), struck out “or such establishment has an annual dollar volume of sales which is less than $200,000 (exclusive of excise taxes at the retail level which are separately stated)” after “section 203(s) of this title” effective Jan. 1, 1977.
 
 Subsec. (a)(9). Pub. L. 93–259, §23(a)(1), repealed exemption provision respecting any employee employed by an establishment which is a motion picture theater. See subsec. (b)(27) of this section.
 
@@ -438,9 +438,9 @@ Subsec. (g). Pub. L. 93–259, §18, added subsec. (g).
 
 Subsec. (h). Pub. L. 93–259, §22, added subsec. (h).
 
-1972—Subsec. (a). Pub. L. 92–318 inserted “(except subsection (d) in the case of paragraph (1) of this subsection)” after introductory text “sections 206”.
+<b>1972</b>—Subsec. (a). Pub. L. 92–318 inserted “(except subsection (d) in the case of paragraph (1) of this subsection)” after introductory text “sections 206”.
 
-1966—Subsec. (a)(1). Pub. L. 89–601, §214, inserted “(including any employee employed in the capacity of academic administrative personnel or teacher in elementary or secondary schools)” after “professional capacity”.
+<b>1966</b>—Subsec. (a)(1). Pub. L. 89–601, §214, inserted “(including any employee employed in the capacity of academic administrative personnel or teacher in elementary or secondary schools)” after “professional capacity”.
 
 Subsec. (a)(2). Pub. L. 89–601, §201(a), revised the retail or service establishment exemption so as to exempt employees of a retail or service establishment (other than an establishment or employee engaged in laundering or drycleaning or an establishment engaged in the operation of a hospital, school, or institution specifically included in the definition of the term “enterprise engaged in commerce or in the production of goods for commerce”) if more than 50 per centum of the establishment's annual dollar volume of sales of goods or services is made within the state in which the establishment is located and the establishment is not an enterprise described in section 203(s) of this title or the establishment has an annual dollar volume of sales which is less than $250,000.
 
@@ -494,11 +494,11 @@ Subsec. (c). Pub. L. 89–601, §203(d), inserted provision making section 212 o
 
 Subsec. (f). Pub. L. 89–601, §213, inserted reference to Eniwetok Atoll, Kwajalein Atoll, and Johnston Island.
 
-1961—Subsec. (a)(1). Pub. L. 87–30, §9, substituted “any employee employed in a bona fide executive, administrative, or professional capacity, or in the capacity of outside salesman (as such terms are defined and delimited from time to time by regulations of the Secretary, subject to, the provisions of the Administrative Procedure Act” and exception provision for “any employee employed in a bona fide executive, administrative, professional, or local retailing capacity, or in the capacity of outside salesman (as such terms are defined and delimited by regulations of the Administrator)”.
+<b>1961</b>—Subsec. (a)(1). Pub. L. 87–30, §9, substituted “any employee employed in a bona fide executive, administrative, or professional capacity, or in the capacity of outside salesman (as such terms are defined and delimited from time to time by regulations of the Secretary, subject to, the provisions of the Administrative Procedure Act” and exception provision for “any employee employed in a bona fide executive, administrative, professional, or local retailing capacity, or in the capacity of outside salesman (as such terms are defined and delimited by regulations of the Administrator)”.
 
 Subsec. (a)(2). Pub. L. 87–30, §9, inserted conditional provision, including subclauses (i) to (iv).
 
-Subsec. (a)(5). Pub. L. 87–30, §9, inserted “propagating” and “or in the first processing, canning or packing such marine products at sea as an incident to, or in conjunction with, such fishing operations” after “taking” and “life”, respectively, and substituted “loading and unloading when performed by any such employee” for “including employment in the loading, unloading, or packing of such products for shipment or in propagating, processing (other than canning), marketing, freezing, curing, storing, or distributing the above products or byproducts thereof”. See subsec. (b)(4) of this section.
+Subsec. (a)(5). Pub. L. 87–30, §9, inserted “propagating” and “or in the first processing, canning or packingsuch marine products at sea as an incident to, or in conjunction with, such fishing operations” after “taking” and “life”, respectively, and substituted “loading and unloading when performed by any such employee” for “including employment in the loading, unloading, or packing of such products for shipment or in propagating, processing (other than canning), marketing, freezing, curing, storing, or distributing the above products or byproducts thereof”. See subsec. (b)(4) of this section.
 
 Subsec. (a)(7). Pub. L. 87–30, §9, substituted “Secretary” for “Administrator”.
 
@@ -520,13 +520,13 @@ Subsec. (b)(6) to (11). Pub. L. 87–30, §9, added pars. (6) to (11).
 
 Subsec. (d). Pub. L. 87–30, §10, extended the nonapplicability of sections 206, 207, and 212 of this title to any homeworker engaged in the making of evergreen wreaths.
 
-1960—Subsec. (f). Pub. L. 86–624 struck out “Alaska; Hawaii;” before “Puerto Rico”.
+<b>1960</b>—Subsec. (f). Pub. L. 86–624 struck out “Alaska; Hawaii;” before “Puerto Rico”.
 
-1957—Subsec. (f). Pub. L. 85–231 added subsec. (f).
+<b>1957</b>—Subsec. (f). Pub. L. 85–231 added subsec. (f).
 
-1956—Subsec. (e). Act Aug. 8, 1956, added subsec. (b).
+<b>1956</b>—Subsec. (e). Act Aug. 8, 1956, added subsec. (b).
 
-1949—Subsec. (a)(2). Act Oct. 26, 1949, clarified exemption by defining term “retail or service establishment” and stated conditions under which exemption shall apply.
+<b>1949</b>—Subsec. (a)(2). Act Oct. 26, 1949, clarified exemption by defining term “retail or service establishment” and stated conditions under which exemption shall apply.
 
 Subsec. (a)(3). Act Oct. 26, 1949, redesignated par. (3) as (14) and added par. (3) providing a limited exemption to employees of laundries and establishments engaged in laundering, cleaning, or repairing clothing of fabrics.
 
@@ -554,7 +554,7 @@ Subsec. (c). Act Oct. 26, 1949, substituted “outside of school hours for the s
 
 Subsec. (d). Act Oct. 26, 1949, added par. (d).
 
-1939—Subsec. (a)(11). Act Aug. 9, 1939, added par. (11).
+<b>1939</b>—Subsec. (a)(11). Act Aug. 9, 1939, added par. (11).
 
 #### Effective Date of 1998 Amendment
 
@@ -646,7 +646,7 @@ Section 3 of Pub. L. 104–174 provided that: “Section 1 \[amending this secti
 
 #### Regulations Concerning Computer, Software, and Other Similarly Skilled Professionals
 
-Pub. L. 101–583, §2, Nov. 15, 1990, 104 Stat. 2871, provided that: “Not later than 90 days after the date of enactment of this Act \[Nov. 15, 1990\], the Secretary of Labor shall promulgate regulations that permit computer systems analysts, computer programmers, software engineers, and other similarly skilled professional workers as defined in such regulations to qualify as exempt executive, administrative, or professional employees under section 13(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 213(a)(1)). Such regulations shall provide that if such employees are paid on an hourly basis they shall be exempt only if their hourly rate of pay is at least 61/2 times greater than the applicable minimum wage rate under section 6 of such Act (29 U.S.C. 206).”
+Pub. L. 101–583, §2, Nov. 15, 1990, 104 Stat. 2871, provided that: “Not later than 90 days after the date of enactment of this Act \[Nov. 15, 1990\], the Secretary of Labor shall promulgate regulations that permit computer systems analysts, computer programmers, software engineers, and other similarly skilled professional workers as defined in such regulations to qualify as exempt executive, administrative, or professional employees under section 13(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 213(a)(1)). Such regulations shall provide that if such employees are paid on an hourly basis they shall be exempt only if their hourly rate of pay is at least 6½ times greater than the applicable minimum wage rate under section 6 of such Act (29 U.S.C. 206).”
 
 #### Public Agency Employees in Fire Protection and Law Enforcement Activities; Studies in 1976 of 1975 Tours of Duty
 

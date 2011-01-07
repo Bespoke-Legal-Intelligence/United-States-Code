@@ -16,17 +16,17 @@ In the case of a taxpayer other than a corporation, losses from sales or exchang
 
 #### Amendments
 
-1986—Subsec. (b). Pub. L. 99–514 amended subsec. (b) generally, substituting present provisions for provisions which had declared in: par. (1), general rule for limitation on capital losses for taxpayer other than corporation; in par. (2), meaning of term “applicable amount”; and in par. (3), rule relating to computation of taxable income.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514 amended subsec. (b) generally, substituting present provisions for provisions which had declared in: par. (1), general rule for limitation on capital losses for taxpayer other than corporation; in par. (2), meaning of term “applicable amount”; and in par. (3), rule relating to computation of taxable income.
 
-1977—Subsec. (b)(1)(A). Pub. L. 95–30 inserted “reduced (but not below zero) by the zero bracket amount” after “taxable year”.
+<b>1977</b>—Subsec. (b)(1)(A). Pub. L. 95–30 inserted “reduced (but not below zero) by the zero bracket amount” after “taxable year”.
 
-1976—Subsec. (b)(1)(B). Pub. L. 94–455, §1401(a), substituted “the applicable amount” for “$1,000”.
+<b>1976</b>—Subsec. (b)(1)(B). Pub. L. 94–455, §1401(a), substituted “the applicable amount” for “$1,000”.
 
 Subsec. (b)(2). Pub. L. 94–455, §1401(b), substituted provision relating to “applicable amount” for prior provision limiting amount of capital losses for married individuals and reading “In the case of a husband or wife who files a separate return, the amount specified in paragraph (1)(B) shall be $500 in lieu of $1,000.”
 
 Subsec. (b)(3). Pub. L. 94–455, §501(b)(6), struck out last sentence “If the taxpayer elects to pay the optional tax imposed by section 3, ‘taxable income’ as used in this subsection shall read as ‘adjusted gross income’.”
 
-1969—Subsec. (b). Pub. L. 91–172 provided for only 50 percent of an individual's long-term capital losses to be offset against his ordinary income up to the $1,000 limit although short-term capital losses continue to be fully deductible within the $1,000 limit and the deduction of capital losses against ordinary income for married persons filing separate returns to be limited to $500 for each spouse rather than the $1,000 formerly allowed.
+<b>1969</b>—Subsec. (b). Pub. L. 91–172 provided for only 50 percent of an individual's long-term capital losses to be offset against his ordinary income up to the $1,000 limit although short-term capital losses continue to be fully deductible within the $1,000 limit and the deduction of capital losses against ordinary income for married persons filing separate returns to be limited to $500 for each spouse rather than the $1,000 formerly allowed.
 
 #### Effective Date of 1986 Amendment
 
@@ -34,7 +34,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) of Pub. L. 95–30, set out as a note under section 1 of this title.
+Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) ofPub. L. 95–30, set out as a note under section 1 of this title.
 
 #### Effective Date of 1976 Amendment
 

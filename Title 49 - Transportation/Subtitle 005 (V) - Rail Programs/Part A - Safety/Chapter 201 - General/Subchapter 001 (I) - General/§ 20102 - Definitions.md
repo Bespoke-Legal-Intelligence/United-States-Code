@@ -94,7 +94,7 @@ Clause (2) is added to distinguish between railroad transportation and the entit
 
 #### Amendments
 
-2008—Pub. L. 110–432, §2(b), added pars. (1) and (4) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+<b>2008</b>—Pub. L. 110–432, §2(b), added pars. (1) and (4) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
 Par. (3). Pub. L. 110–432, §407, amended par. (3) generally. Prior to amendment, text read as follows: “ ‘railroad carrier’ means a person providing railroad transportation.”
 

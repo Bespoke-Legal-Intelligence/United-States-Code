@@ -46,13 +46,13 @@ An amendment to the second proviso of subsec. (e) of this title was contained in
 
 #### Amendments
 
-1999—Subsec. (e). Pub. L. 106–113 substituted “United States Patent and Trademark Office” for “United States Patent Office” in first par.
+<b>1999</b>—Subsec. (e). Pub. L. 106–113 substituted “United States Patent and Trademark Office” for “United States Patent Office” in first par.
 
-1988—Subsec. (e). Pub. L. 100–690, §8001(b)(2), substituted “the date of the enactment of this title” for “the date of the enactment of this Act”, which had been translated editorially as “August 29, 1935”, thereby requiring no change in text.
+<b>1988</b>—Subsec. (e). Pub. L. 100–690, §8001(b)(2), substituted “the date of the enactment of this title” for “the date of the enactment of this Act”, which had been translated editorially as “August 29, 1935”, thereby requiring no change in text.
 
-1942—Subsec. (f)(2). Act Apr. 20, 1942, substituted “beverages and wines are prohibited” for “beverages are prohibited and except that, in case of wines, statements of alcoholic content shall be required only for wines containing more than 14 per centum of alcohol by volume,”.
+<b>1942</b>—Subsec. (f)(2). Act Apr. 20, 1942, substituted “beverages and wines are prohibited” for “beverages are prohibited and except that, in case of wines, statements of alcoholic content shall be required only for wines containing more than 14 per centum of alcohol by volume,”.
 
-1936—Subsec. (e). Act Feb. 29, 1936, substituted “August 15, 1936, in the case of distilled spirits, and December 15, 1936, in the case of wine and malt beverages” for “March 1, 1936,”.
+<b>1936</b>—Subsec. (e). Act Feb. 29, 1936, substituted “August 15, 1936, in the case of distilled spirits, and December 15, 1936, in the case of wine and malt beverages” for “March 1, 1936,”.
 
 Subsec. (e). Act June 26, 1936, amended subsec. (e) generally.
 

@@ -6,7 +6,7 @@
 
 &emsp;(1) advise the Under Secretary for Health on all matters pertaining to geriatrics and gerontology;
 
-&emsp;(2) assess, through an evaluation process (including a site visit conducted not later than three years after the date of the establishment of each new center and not later than two years after the date of the last evaluation of those centers in operation on August 26, 1980), the ability of each center established under section 7314 of this title to achieve its established purposes and the purposes of title III of the Veterans’ Administration Health-CareAmendments of 1980 (Public Law 96–330; 94 Stat. 1048);
+&emsp;(2) assess, through an evaluation process (including a site visit conducted not later than three years after the date of the establishment of each new center and not later than two years after the date of the last evaluation of those centers in operation on August 26, 1980), the ability of each center established under section 7314 of this title to achieve its established purposes and the purposes of title III of the Veterans’ Administration Health-Care Amendments of 1980 (Public Law 96–330; 94 Stat. 1048);
 
 &emsp;(3) assess the capability of the Department to provide high quality geriatric services, extended services, and other health-care services to eligible older veterans, taking into consideration the likely demand for such services from such veterans;
 
@@ -36,17 +36,17 @@ The Veterans’ Administration Health-Care Amendments of 1980, referred to in su
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–330 inserted “Veterans Health” before “Administration” in first sentence.
+<b>2002</b>—Subsec. (a). Pub. L. 107–330 inserted “Veterans Health” before “Administration” in first sentence.
 
-1994—Subsec. (b)(2). Pub. L. 103–446, §1201(i)(9), which directed substitution of “Veterans’ Administration” for “Department”, could not be executed because “Department” did not appear subsequent to execution of amendment by Pub. L. 103–446, §1202(b)(2). See below.
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–446, §1201(i)(9), which directed substitution of “Veterans’ Administration” for “Department”, could not be executed because “Department” did not appear subsequent to execution of amendment by Pub. L. 103–446, §1202(b)(2). See below.
 
 Pub. L. 103–446, §1202(b)(2), amended Pub. L. 102–83, §4(a)(3), (4), to make it inapplicable to this section. See 1991 Amendment note below.
 
-1992—Subsecs. (a), (b)(1), (5), (c)(1). Pub. L. 102–405, §302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
+<b>1992</b>—Subsecs. (a), (b)(1), (5), (c)(1). Pub. L. 102–405, §302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
 
 Subsec. (c)(2). Pub. L. 102–405, §102, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Not later than 90 days after receipt of a report submitted under paragraph (1), the Secretary shall transmit the report, together with the Secretary's comments and recommendations thereon, to the appropriate committees of the Congress.”
 
-1991—Subsec. (b)(2). Pub. L. 102–83, §4(a)(3), (4), which directed substitution of “Department” for “Veterans’ Administration”, was amended by Pub. L. 103–446, §1202(b)(2), to make it inapplicable to this section.
+<b>1991</b>—Subsec. (b)(2). Pub. L. 102–83, §4(a)(3), (4), which directed substitution of “Department” for “Veterans’ Administration”, was amended by Pub. L. 103–446, §1202(b)(2), to make it inapplicable to this section.
 
 #### Effective Date of 1994 Amendment
 

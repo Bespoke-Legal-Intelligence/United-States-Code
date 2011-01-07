@@ -50,5 +50,5 @@ In the definition of “owner”, the words “includes the lessee or bailee of 
 
 The definition of “Secretary” is omitted because a complete reference to the appropriate Secretary is used the first time the Secretary is named in each section. Throughout this chapter, the phrase “Secretary of the department in which the Coast Guard is operating” is substituted for “Secretary of Transportation” because the Coast Guard has been transferred to the Department of Homeland Security (except when operating as a service in the Navy) by section 888 of the Homeland Security Act of 2002 (Pub. L. 107–296, 116 Stat. 2249).
 
-The definition of “United States” is omitted because “United States” is defined in chapter 1 of the revised title. The definitions of “new container” and “existing container” are omitted as obsolete.
+The definition of “United States” is omitted because “United States” is defined in chapter 1 of the revisedtitle. The definitions of “new container” and “existing container” are omitted as obsolete.
 

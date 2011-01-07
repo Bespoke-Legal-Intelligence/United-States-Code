@@ -38,9 +38,9 @@
 
 &emsp;&emsp;&emsp;(I) the terms “consumer”, “credit”, and “open end credit plan” have the same meanings as in section 103 of the Truth in Lending Act; and
 
-&emsp;&emsp;&emsp;(II) the term “luxury goods or services” does not include goods or services reasonably necessary for the support or maintenance of the debtor or a dependent of the debtor.
+&emsp;&emsp;&emsp;(II) the term “luxury goods or services” does not include goods or services reasonably necessary for the support or maintenance of the debtor or a dependent of the debtor;
 
-&emsp;(3) neither listed nor scheduled under section 521(1) of this title, with the name, if known to the debtor, of the creditor to whom such debt is owed, in time to permit—
+&emsp;(3) neither listed nor scheduled under section 521(a)(1) of this title, with the name, if known to the debtor, of the creditor to whom such debt is owed, in time to permit—
 
 &emsp;&emsp;(A) if such debt is not of a kind specified in paragraph (2), (4), or (6) of this subsection, timely filing of a proof of claim, unless such creditor had notice or actual knowledge of the case in time for such timely filing; or
 
@@ -110,7 +110,7 @@
 
 &emsp;&emsp;&emsp;(ii) any settlement agreement entered into by the debtor; or
 
-&emsp;&emsp;&emsp;(iii) any court or administrative order for any damages, fine, penalty, citation,restitutionary payment, disgorgement payment, attorney fee, cost, or other payment owed by the debtor.
+&emsp;&emsp;&emsp;(iii) any court or administrative order for any damages, fine, penalty, citation, restitutionary payment, disgorgement payment, attorney fee, cost, or other payment owed by the debtor.
 
 > For purposes of this subsection, the term “return” means a return that satisfies the requirements of applicable nonbankruptcy law (including applicable filing requirements). Such term includes a return prepared pursuant to section 6020(a) of the Internal Revenue Code of 1986, or similar State or local law, or a written stipulation to a judgment or a final order entered by a nonbankruptcy tribunal, but does not include a return made pursuant to section 6020(b) of the Internal Revenue Code of 1986, or a similar State or local law.
 
@@ -124,7 +124,11 @@
 
 (e) Any institution-affiliated party of an insured depository institution shall be considered to be acting in a fiduciary capacity with respect to the purposes of subsection (a)(4) or (11).
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2590; Pub. L. 96–56, §3, Aug. 14, 1979, 93 Stat. 387; Pub. L. 97–35, title XXIII, §2334(b), Aug. 13, 1981, 95 Stat. 863; Pub. L. 98–353, title III, §§307, 371, 454, July 10, 1984, 98 Stat. 353, 364, 375; Pub. L. 99–554, title II, §§257(n), 281, 283(j), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 101–581, §2(a), Nov. 15, 1990, 104 Stat. 2865; Pub. L. 101–647, title XXV, §2522(a), title XXXI, §3102(a), title XXXVI, §3621, Nov. 29, 1990, 104 Stat. 4865, 4916, 4964; Pub. L. 103–322, title XXXII, §320934, Sept. 13, 1994, 108 Stat. 2135; Pub. L. 103–394, title II, §221, title III, §§304(e), (h)(3), 306, 309, title V, §501(d)(13), Oct. 22, 1994, 108 Stat. 4129, 4133–4135, 4137, 4145; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §804(b)\], Apr. 26, 1996, 110 Stat. 1321, 1321–74; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–193, title III, §374(a), Aug. 22, 1996, 110 Stat. 2255; Pub. L. 105–244, title IX, §971(a), Oct. 7, 1998, 112 Stat. 1837; Pub. L. 107–204, title VIII, §803, July 30, 2002, 116 Stat. 801; Pub. L. 109–8, title II, §§215, 220, 224(c), title III, §§301, 310, 314(a), title IV, §412, title VII, §714, title XII, §§1209, 1235, title XIV, §1404(a), title XV, §1502(a)(2), Apr. 20, 2005, 119 Stat. 54, 59, 64, 75, 84, 88, 107, 128, 194, 204, 215, 216.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2590; Pub. L. 96–56, §3, Aug. 14, 1979, 93 Stat. 387; Pub. L. 97–35, title XXIII, §2334(b), Aug. 13, 1981, 95 Stat. 863; Pub. L. 98–353, title III, §§307, 371, 454, July 10, 1984, 98 Stat. 353, 364, 375; Pub. L. 99–554, title II, §§257(n), 281, 283(j), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 101–581, §2(a), Nov. 15, 1990, 104 Stat. 2865; Pub. L. 101–647, title XXV, §2522(a), title XXXI, §3102(a), title XXXVI, §3621, Nov. 29, 1990, 104 Stat. 4865, 4916, 4964; Pub. L. 103–322, title XXXII, §320934, Sept. 13, 1994, 108 Stat. 2135; Pub. L. 103–394, title II, §221, title III, §§304(e), (h)(3), 306, 309, title V, §501(d)(13), Oct. 22, 1994, 108 Stat. 4129, 4133–4135, 4137, 4145; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §804(b)\], Apr. 26, 1996, 110 Stat. 1321, 1321–74; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–193, title III, §374(a), Aug. 22, 1996, 110 Stat. 2255; Pub. L. 105–244, title IX, §971(a), Oct. 7, 1998, 112 Stat. 1837; Pub. L. 107–204, title VIII, §803, July 30, 2002, 116 Stat. 801; Pub. L. 109–8, title II, §§215, 220, 224(c), title III, §§301, 310, 314(a), title IV, §412, title VII, §714, title XII, §§1209, 1235, title XIV, §1404(a), title XV, §1502(a)(2), Apr. 20, 2005, 119 Stat. 54, 59, 64, 75, 84, 88, 107, 128, 194, 204, 215, 216; Pub. L. 111–327, §2(a)(18), Dec. 22, 2010, 124 Stat. 3559.)
+
+#### Adjustment of Dollar Amounts
+
+<i>For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.</i>
 
 #### Historical and Revision Notes
 
@@ -132,7 +136,7 @@ I74legislative statements
 
 Section 523(a)(1) represents a compromise between the position taken in the House bill and the Senate amendment. Section 523(a)(2) likewise represents a compromise between the position taken in the House bill and the Senate amendment with respect to the false financial statement exception to discharge. In order to clarify that a “renewal of credit” includes a “refinancing of credit”, explicit reference to a refinancing of credit is made in the preamble to section 523(a)(2). A renewal of credit or refinancing of credit that was obtained by a false financial statement within the terms of section 523(a)(2) is nondischargeable. However, each of the provisions of section 523(a)(2) must be proved. Thus, under section 523(a)(2)(A) a creditor must prove that the debt was obtained by false pretenses, a false representation, or actual fraud, other than a statement respecting the debtor's or an insider's financial condition. Subparagraph (A) is intended to codify current case law e.g., <i>Neal v. Clark</i>, 95 U.S. 704 (1887) \[24 L. Ed. 586\], which interprets “fraud” to mean actual or positive fraud rather than fraud implied in law. Subparagraph (A) is mutually exclusive from subparagraph (B). Subparagraph (B) pertains to the so-called false financial statement. In order for the debt to be nondischargeable, the creditor must prove that the debt was obtained by the use of a statement in writing (i) that is materially false; (ii) respecting the debtor's or an insider's financial condition; (iii) on which the creditor to whom the debtor is liable for obtaining money, property, services, or credit reasonably relied; (iv) that the debtor caused to be made or published with intent to deceive. Section 523(a)(2)(B)(iv) is not intended to change from present law since the statement that the debtor causes to be made or published with the intent to deceive automatically includes a statement that the debtor actually makes or publishes with an intent to deceive. Section 523(a)(2)(B) is explained in the House report. Under section 523(a)(2)(B)(i) a discharge is barred only as to that portion of a loan with respect to which a false financial statement is materially false.
 
-In many cases, a creditor is required by state law to refinance existing credit on which there has been no default. If the creditor does not forfeit remedies or otherwise rely to his detriment on a false financial statement with respect to existing credit, then an extension, renewal, or refinancing of such credit is nondischargeable only to the extent of the new money advanced; on the other hand, if an existing loan is in default or the creditor otherwise reasonably relies to his detrimenton a false financial statement with regard to an existing loan, then the entire debt is nondischargeable under section 523(a)(2)(B). This codifies the reasoning expressed by the second circuit in <i>In re Danns</i>, 558 F.2d 114 (2d Cir. 1977).
+In many cases, a creditor is required by state law to refinance existing credit on which there has been no default. If the creditor does not forfeit remedies or otherwise rely to his detriment on a false financial statement with respect to existing credit, then an extension, renewal, or refinancing of such credit is nondischargeable only to the extent of the new money advanced; on the other hand, if an existing loan is in default or the creditor otherwise reasonably relies to his detriment on a false financial statement with regard to an existing loan, then the entire debt is nondischargeable under section 523(a)(2)(B). This codifies the reasoning expressed by the second circuit in <i>In re Danns</i>, 558 F.2d 114 (2d Cir. 1977).
 
 Section 523(a)(3) of the House amendment is derived from the Senate amendment. The provision is intended to overrule <i>Birkett v. Columbia Bank</i>, 195 U.S. 345 (1904) \[25 S.Ct. 38, 49 L.Ed. 231, 12 Am.Bankr.Rep. 691\].
 
@@ -202,7 +206,7 @@ The purpose of the provision is to discourage creditors from initiating proceedi
 
 Subsection (a) lists eight kinds of debts excepted from discharge. Taxes that are entitled to priority are excepted from discharge under paragraph (1). In addition, taxes with respect to which the debtor made a fraudulent return or willfully attempted to evade or defeat, or with respect to which a return (if required) was not filed or was not filed after the due date and after one year before the bankruptcy case are excepted from discharge. If the taxing authority's claim has been disallowed, then it would be barred by the more modern rules of collateral estoppel from reasserting that claim against the debtor after the case was closed. See Plumb, The Tax Recommendations of the Commission on the Bankruptcy Laws: Tax Procedures, 88 Harv.L.Rev. 1360, 1388 (1975).
 
-As under Bankruptcy Act §17a(2) \[section 35(a)(2) of former title 11\], debt for obtaining money, property, services, or an extension or renewal of credit by false pretenses, a false representation, or actual fraud, or by use of a statement in writing respecting the debtor's financial condition that is materially false, on which the creditor reasonably relied, and that the debtor made or published with intent to deceive, is excepted from discharge. This provision is modified only slightly from current section 17a(2). First, “actual fraud” is added as a grounds for exception from discharge. Second, thecreditor must not only have relied on a false statement in writing, the reliance must have been reasonable. This codifies case law construing this provision. Third, the phrase “in any manner whatsoever” that appears in current law after “made or published” is deleted as unnecessary. The word “published” is used in the same sense that it is used in slander actions.
+As under Bankruptcy Act §17a(2) \[section 35(a)(2) of former title 11\], debt for obtaining money, property, services, or an extension or renewal of credit by false pretenses, a false representation, or actual fraud, or by use of a statement in writing respecting the debtor's financial condition that is materially false, on which the creditor reasonably relied, and that the debtor made or published with intent to deceive, is excepted from discharge. This provision is modified only slightly from current section 17a(2). First, “actual fraud” is added as a grounds for exception from discharge. Second, the creditor must not only have relied on a false statement in writing, the reliance must have been reasonable. This codifies case law construing this provision. Third, the phrase “in any manner whatsoever” that appears in current law after “made or published” is deleted as unnecessary. The word “published” is used in the same sense that it is used in slander actions.
 
 Unscheduled debts are excepted from discharge under paragraph (3). The provision, derived from section 17a(3) \[section 35(a)(3) of former title 11\], follows current law, but clarifies some uncertainties generated by the case law construing 17a(3). The debt is excepted from discharge if it was not scheduled in time to permit timely action by the creditor to protect his rights, unless the creditor had notice or actual knowledge of the case.
 
@@ -235,6 +239,10 @@ Section 439A of the Higher Education Act of 1965, referred to in subsec. (b), wa
 Section 733(g) of the Public Health Service Act, referred to in subsec. (b), was repealed by Pub. L. 95–598, title III, §327, Nov. 6, 1978, 92 Stat. 2679. A subsec. (g), containing similar provisions, was added to section 733 by Pub. L. 97–35, title XXVII, §2730, Aug. 13, 1981, 95 Stat. 919. Section 733 was subsequently omitted in the general revision of subchapter V of chapter 6A of Title 42, The Public Health and Welfare, by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. See section 292f(g) of Title 42.
 
 #### Amendments
+
+2010—Subsec. (a)(2)(C)(ii)(II). Pub. L. 111–327, §2(a)(18)(A), substituted semicolon for period at end.
+
+Subsec. (a)(3). Pub. L. 111–327, §2(a)(18)(B), substituted “521(a)(1)” for “521(1)” in introductory provisions.
 
 2005—Pub. L. 109–8, §1209(1), transferred par. (15) and inserted it after subsec. (a)(14A). See 1994 Amendments note below.
 
@@ -430,11 +438,21 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 2334(c) of Pub. L. 97–35, set out as a noteunder section 656 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 2334(c) of Pub. L. 97–35, set out as a note under section 656 of Title 42, The Public Health and Welfare.
 
 #### Adjustment of Dollar Amounts
 
-For adjustment of dollar amounts specified in subsec. (a)(2)(C)(i) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
+The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
+
+By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (a)(2)(C)(i)(I), dollar amount “550” was adjusted to “600” and, in subsec. (a)(2)(C)(i)(II), dollar amount “825” was adjusted to “875”. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (a)(2)(C)(i)(I), dollar amount “500” was adjusted to “550” and, in subsec. (a)(2)(C)(i)(II), dollar amount “750” was adjusted to “825”.
+
+By notice dated Feb. 18, 2004, 69 F.R. 8482, effective Apr. 1, 2004, in subsec. (a)(2)(C), dollar amount “1,150” was adjusted to “1,225” each time it appeared.
+
+By notice dated Feb. 13, 2001, 66 F.R. 10910, effective Apr. 1, 2001, in subsec. (a)(2)(C), dollar amount “1,075” was adjusted to “1,150” each time it appeared.
+
+By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (a)(2)(C), dollar amount “1,000” was adjusted to “1,075” each time it appeared.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

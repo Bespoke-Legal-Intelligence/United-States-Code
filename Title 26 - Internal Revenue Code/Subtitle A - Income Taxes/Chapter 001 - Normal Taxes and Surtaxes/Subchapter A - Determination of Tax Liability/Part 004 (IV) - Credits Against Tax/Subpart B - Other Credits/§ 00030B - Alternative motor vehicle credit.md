@@ -374,7 +374,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 &emsp;&emsp;&emsp;(ii) which, in the case of a vehicle to which paragraph (2)(A) applies, has received a certificate of conformity under the Clean Air Act and meets or exceeds the equivalent qualifying California low emission vehicle standard under section 243(e)(2) of the Clean Air Act for that make and model year, and
 
-&emsp;&emsp;&emsp;&emsp;(I) in the case of a vehicle having a gross vehicle weight rating of 6,000 pounds or less, the Bin 5 Tier II emission standard established in regulations prescribed by the Administrator of the Environmental Protection Agency under section 202(i) of the Clean Air Act for that make and model year vehicle, and
+&emsp;&emsp;&emsp;&emsp;(I) in the case of a vehicle having a gross vehicle weight rating of 6,000 pounds or less, the Bin 5 Tier II emission standard established in regulations prescribed by the Administrator of the Environmental Protection Agency undersection 202(i) of the Clean Air Act for that make and model year vehicle, and
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of a vehicle having a gross vehicle weight rating of more than 6,000 pounds but not more than 8,500 pounds, the Bin 8 Tier II emission standard which is so established,
 
@@ -436,7 +436,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 #### (3) Incremental cost
 
-&emsp;For purposes of this subsection, the incremental cost of any new qualified alternativefuel motor vehicle is equal to the amount of the excess of the manufacturer's suggested retail price for such vehicle over such price for a gasoline or diesel fuel motor vehicle of the same model, to the extent such amount does not exceed—
+&emsp;For purposes of this subsection, the incremental cost of any new qualified alternative fuel motor vehicle is equal to the amount of the excess of the manufacturer's suggested retail price for such vehicle over such price for a gasoline or diesel fuel motor vehicle of the same model, to the extent such amount does not exceed—
 
 &emsp;&emsp;(A) $5,000, if such vehicle has a gross vehicle weight rating of not more than 8,500 pounds,
 
@@ -534,7 +534,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 #### (5) Qualified vehicle
 
-&emsp;For purposes of this subsection, the term “qualified vehicle” means any new qualifiedhybrid motor vehicle (described in subsection (d)(2)(A)) and any new advanced lean burn technology motor vehicle.
+&emsp;For purposes of this subsection, the term “qualified vehicle” means any new qualified hybrid motor vehicle (described in subsection (d)(2)(A)) and any new advanced lean burn technology motor vehicle.
 
 #### (g) Application with other credits
 
@@ -554,7 +554,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 &emsp;&emsp;&emsp;(i) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
 
-&emsp;&emsp;&emsp;(ii) the sum of the credits allowable under subpart A (other than this section and sections 23, 25D, 30, and 30D) and section 27 for the taxable year.
+&emsp;&emsp;&emsp;(ii) the sum of the credits allowable under subpart A (other than this section and sections 25D, 30, and 30D) and section 27 for the taxable year.
 
 #### (h) Other definitions and special rules
 
@@ -616,7 +616,7 @@ For purposes of this section—
 
 #### (2) Qualified plug-in electric drive motor vehicle
 
-&emsp;For purposes of this subsection, the term “qualified plug-in electric drive motor vehicle” means any new qualified plug-in electric drive motor vehicle (as defined in section 30D, determined without regard to whether such vehicle is made by a manufacturer or whether the original use of such vehicle commences with the taxpayer).
+&emsp;For purposes of this subsection, the term “qualified plug-in electric drive motor vehicle” means any new qualified plug-in electricdrive motor vehicle (as defined in section 30D, determined without regard to whether such vehicle is made by a manufacturer or whether the original use of such vehicle commences with the taxpayer).
 
 #### (3) Credit allowed in addition to other credits
 
@@ -648,7 +648,11 @@ This section shall not apply to any property purchased after—
 
 &emsp;(4) in the case of a new qualified alternative fuel vehicle (as described in subsection (e)), December 31, 2010.
 
-(Added Pub. L. 109–58, title XIII, §1341(a), Aug. 8, 2005, 119 Stat. 1038; amended Pub. L. 109–135, title IV, §§402(j), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636; Pub. L. 110–343, div. B, title II, §205(b), Oct. 3, 2008, 122 Stat. 3838; Pub. L. 111–5, div. B, title I, §§1141(b)(1), 1142(b)(2), 1143(a)–(c), 1144(a), Feb. 17, 2009, 123 Stat. 328, 330–332.)
+(Added Pub. L. 109–58, title XIII, §1341(a), Aug. 8, 2005, 119 Stat. 1038; amended Pub. L. 109–135, title IV, §§402(j), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636; Pub. L. 110–343, div. B, title II, §205(b), Oct. 3, 2008, 122 Stat. 3838; Pub. L. 111–5, div. B, title I, §§1141(b)(1), 1142(b)(2), 1143(a)–(c), 1144(a), Feb. 17, 2009, 123 Stat. 328, 330–332; Pub. L. 111–148, title X, §10909(b)(2)(G), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 10909(c) of Pub. L. 111–148, see Effective and Termination Dates of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -660,7 +664,9 @@ The date of the enactment of the Energy Tax Incentives Act of 2005, referred to 
 
 #### Amendments
 
-2009—Subsec. (a)(5). Pub. L. 111–5, §1143(b), added par. (5).
+<b>2010</b>—Subsec. (g)(2)(B)(ii). Pub. L. 111–148, §10909(b)(2)(G), (c), as amended by Pub. L. 111–312, temporarily struck out “23,” before “25D,”. See Effective and Termination Dates of 2010 Amendment note below.
+
+<b>2009</b>—Subsec. (a)(5). Pub. L. 111–5, §1143(b), added par. (5).
 
 Subsec. (d)(3)(D). Pub. L. 111–5, §1141(b)(1), substituted “subsection (c) thereof” for “subsection (d) thereof”.
 
@@ -676,11 +682,17 @@ Subsec. (h)(8). Pub. L. 111–5, §1143(c), inserted at end “, except that no
 
 Subsecs. (i) to (k). Pub. L. 111–5, §1143(a), added subsec. (i) and redesignated former subsecs. (i) and (j) as (j) and (k), respectively.
 
-2008—Subsec. (d)(3)(D). Pub. L. 110–343 added subpar. (D).
+<b>2008</b>—Subsec. (d)(3)(D). Pub. L. 110–343 added subpar. (D).
 
-2005—Subsec. (g)(2)(A). Pub. L. 109–135, §412(d), substituted “regular tax liability (as defined in section 26(b))” for “regular tax”.
+<b>2005</b>—Subsec. (g)(2)(A). Pub. L. 109–135, §412(d), substituted “regular tax liability (as defined in section 26(b))” for “regular tax”.
 
 Subsec. (h)(6). Pub. L. 109–135, §402(j), inserted at end “For purposes of subsection (g), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.”
+
+#### Effective and Termination Dates of 2010 Amendment
+
+Amendment by Pub. L. 111–148 terminated applicable to taxable years beginning after Dec. 31, 2011, and section is amended to read as if such amendment had never been enacted, see section 10909(c) of Pub. L. 111–148, set out as a note under section 1 of this title.
+
+Amendment by Pub. L. 111–148 applicable to taxable years beginning after Dec. 31, 2009, see section 10909(d) of Pub. L. 111–148, set out as a note under section 1 of this title.
 
 #### Effective Date of 2009 Amendment
 
@@ -690,7 +702,7 @@ Amendment by section 1142(b)(2) of Pub. L. 111–5 applicable to vehicles acquir
 
 Pub. L. 111–5, div. B, title I, §1143(d), Feb. 17, 2009, 123 Stat. 332, provided that: “The amendments made by this section \[amending this section\] shall apply to property placed in service after the date of the enactment of this Act \[Feb. 17, 2009\].”
 
-Amendment by section 1144(a) of Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, seesection 1144(c) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
+Amendment by section 1144(a) of Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1144(c) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -698,7 +710,7 @@ Amendment by Pub. L. 110–343 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2005 Amendment
 
-Amendment by section 402(j) of Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
+Amendment by section 402(j) of Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 36C of this title.
 
 #### Effective Date
 

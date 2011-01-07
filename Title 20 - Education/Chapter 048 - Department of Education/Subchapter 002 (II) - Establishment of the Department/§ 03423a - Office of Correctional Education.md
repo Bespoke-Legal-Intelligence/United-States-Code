@@ -62,7 +62,7 @@ A prior section 212 of Pub. L. 96–88 was renumbered section 211 and is classif
 
 #### Amendments
 
-1994—Subsec. (d). Pub. L. 103–322 substituted “under subsection (c)” for “under subsection (a)” in introductory provisions.
+<b>1994</b>—Subsec. (d). Pub. L. 103–322 substituted “under subsection (c)” for “under subsection (a)” in introductory provisions.
 
 #### Effective Date
 

@@ -36,7 +36,7 @@ Except as provided in subsection (b) of this section, gaming regulated by this c
 
 &emsp;(B) the interests of the Miccosukee Tribe of Indians of Florida in approximately 25 contiguous acres of land, more or less, in Dade County, Florida, located within one mile of the intersection of State Road Numbered 27 (also known as Krome Avenue) and the Tamiami Trail.
 
-(3) Upon request of the governing body of the Miccosukee Tribe of Indians of Florida, the Secretary shall, notwithstanding any other provision of law, accept the transfer by such Tribe tothe Secretary of the interests of such Tribe in the lands described in paragraph (2)(B) and the Secretary shall declare that such interests are held in trust by the Secretary for the benefit of such Tribe and that such interests are part of the reservation of such Tribe under sections 465 and 467 of this title, subject to any encumbrances and rights that are held at the time of such transfer by any person or entity other than such Tribe. The Secretary shall publish in the Federal Register the legal description of any lands that are declared held in trust by the Secretary under this paragraph.
+(3) Upon request of the governing body of the Miccosukee Tribe of Indians of Florida, the Secretary shall, notwithstanding any other provision of law, accept the transfer by such Tribe to the Secretary of the interests of such Tribe in the lands described in paragraph (2)(B) and the Secretary shall declare that such interests are held in trust by the Secretary for the benefit of such Tribe and that such interests are part of the reservation of such Tribe under sections 465 and 467 of this title, subject to any encumbrances and rights that are held at the time of such transfer by any person or entity other than such Tribe. The Secretary shall publish in the Federal Register the legal description of any lands that are declared held in trust by the Secretary under this paragraph.
 
 #### (c) Authority of Secretary not affected
 
@@ -44,7 +44,7 @@ Nothing in this section shall affect or diminish the authority and responsibilit
 
 #### (d) Application of title 26
 
-(1) The provisions of title 26 (including sections 1441, 3402(q), 6041, and 6050I, and chapter 35 of such title) concerning the reporting and withholding of taxes with respect to the winnings from gaming or wagering operations shall apply to Indian gaming operations conducted pursuant to this chapter, or under a Tribal-State compact entered into under section 2710(d)(3) of this title that is in effect, in the same manner as such provisions apply to State gaming and wagering operations.
+(1) The provisions of title 26 (including sections 1441, 3402(q), 6041, and 6050I, and chapter 35 of such title) concerning the reporting and withholding of taxes with respect to the winnings from gaming or wagering operations shall apply to Indian gaming operations conducted pursuant to this chapter, or under a Tribal-State compact entered into under section 2710(d)(3) of this title that is in effect, in the same manner as suchprovisions apply to State gaming and wagering operations.
 
 (2) The provisions of this subsection shall apply notwithstanding any other provision of law enacted before, on, or after October 17, 1988, unless such other provision of law specifically cites this subsection.
 

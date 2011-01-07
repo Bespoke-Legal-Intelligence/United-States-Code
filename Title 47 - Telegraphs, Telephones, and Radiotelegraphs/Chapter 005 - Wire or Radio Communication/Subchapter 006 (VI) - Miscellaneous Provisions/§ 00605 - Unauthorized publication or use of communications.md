@@ -6,7 +6,7 @@ Except as authorized by chapter 119, title 18, no person receiving, assisting in
 
 #### (b) Exceptions
 
-The provisions of subsection (a) of this section shall not apply to the interception or receipt byany individual, or the assisting (including the manufacture or sale) of such interception or receipt, of any satellite cable programming for private viewing if—
+The provisions of subsection (a) of this section shall not apply to the interception or receipt by any individual, or the assisting (including the manufacture or sale) of such interception or receipt, of any satellite cable programming for private viewing if—
 
 &emsp;(1) the programming involved is not encrypted; and
 
@@ -98,9 +98,9 @@ If the Commission finds, based on the information gathered from the inquiry requ
 
 #### Amendments
 
-1996—Subsec. (e)(4). Pub. L. 104–104 inserted “or direct-to-home satellite services,” after “programming,”.
+<b>1996</b>—Subsec. (e)(4). Pub. L. 104–104 inserted “or direct-to-home satellite services,” after “programming,”.
 
-1994—Subsec. (d)(6). Pub. L. 103–414, §303(a)(25), substituted “subsection (e)” for “subsection (d)”.
+<b>1994</b>—Subsec. (d)(6). Pub. L. 103–414, §303(a)(25), substituted “subsection (e)” for “subsection (d)”.
 
 Subsec. (e)(3)(A). Pub. L. 103–414, §303(a)(26), substituted “paragraph (4) of this subsection” for “paragraph (4) of subsection (d) of this section”.
 
@@ -112,7 +112,7 @@ Pub. L. 103–414, §303(a)(27), redesignated subsec. (f), relating to universal
 
 Subsec. (h). Pub. L. 103–414, §303(a)(27), (28), redesignated subsec. (g) as (h) and substituted “subsection (g)” for “subsection (f)”.
 
-1988—Subsecs. (c), (d). Pub. L. 100–626 added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
+<b>1988</b>—Subsecs. (c), (d). Pub. L. 100–626 added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
 Subsec. (d)(6). Pub. L. 100–667, §205(1), which directed the addition of par. (6) to subsec. (c), was executed to subsec. (d) to reflect the probable intent of Congress and the intervening redesignation of subsec. (c) as (d) by Pub. L. 100–626.
 
@@ -142,11 +142,11 @@ Pub. L. 100–626 redesignated subsec. (e), relating to rights, obligations, and
 
 Subsec. (g). Pub. L. 100–667, §204, added subsec. (g).
 
-1984—Pub. L. 98–549, §5(a), designated existing provisions as subsec. (a) and added subsecs. (b) to (e).
+<b>1984</b>—Pub. L. 98–549, §5(a), designated existing provisions as subsec. (a) and added subsecs. (b) to (e).
 
-1982—Pub. L. 97–259 struck out “broadcast or” after “communication which is”, substituted “any station” for “amateurs or others”, struck out “or” after “general public,”, and substituted “ships, aircraft, vehicles, or persons in distress, or which is transmitted by an amateur radio station operator or by a citizens band radio operator” for “ships in distress”.
+<b>1982</b>—Pub. L. 97–259 struck out “broadcast or” after “communication which is”, substituted “any station” for “amateurs or others”, struck out “or” after “general public,”, and substituted “ships, aircraft, vehicles, or persons in distress, or which is transmitted by an amateur radio station operator or by a citizens band radio operator” for “ships in distress”.
 
-1968—Pub. L. 90–351 inserted “Except as authorized by chapter 119, title 18”, designated existing provisions as cls. (1) to (6), inserted “radio” before “communication” in second and fourth sentences, struck out “wire or” before “radio” in third sentence, and substituted “intercepted” for “obtained” in fourth sentence.
+<b>1968</b>—Pub. L. 90–351 inserted “Except as authorized by chapter 119, title 18”, designated existing provisions as cls. (1) to (6), inserted “radio” before “communication” in second and fourth sentences, struck out “wire or” before “radio” in third sentence, and substituted “intercepted” for “obtained” in fourth sentence.
 
 #### Effective Date of 1988 Amendment
 

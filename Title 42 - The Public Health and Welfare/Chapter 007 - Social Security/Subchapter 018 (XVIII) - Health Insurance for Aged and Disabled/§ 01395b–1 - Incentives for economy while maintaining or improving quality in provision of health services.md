@@ -6,7 +6,7 @@
 
 &emsp;(A) to determine whether, and if so which, changes in methods of payment or reimbursement (other than those dealt with in section 222(a) of the Social Security Amendments of 1972) for health care and services under health programs established by this chapter, including a change to methods based on negotiated rates, would have the effect of increasing the efficiency and economy of health services under such programs through the creation of additional incentives to these ends without adversely affecting the quality of such services;
 
-&emsp;(B) to determine whether payments for services other than those for which payment may be made under such programs (and which are incidental to services for which payment may be made under such programs) would, in the judgment of the Secretary, result in more economical provision and more effective utilization of services for which payment may be made under such program, where such services are furnished by organizations and institutions which have the capability of providing—
+&emsp;(B) to determine whether payments for services other than those for which payment maybe made under such programs (and which are incidental to services for which payment may be made under such programs) would, in the judgment of the Secretary, result in more economical provision and more effective utilization of services for which payment may be made under such program, where such services are furnished by organizations and institutions which have the capability of providing—
 
 &emsp;&emsp;(i) comprehensive health care services,
 
@@ -48,7 +48,7 @@
 
 > For purposes of this subsection, “health programs established by this chapter” means the program established by this subchapter and a program established by a plan of a State approved under subchapter XIX of this chapter.
 
-(2) Grants, payments under contracts, and other expenditures made for experiments and demonstration projects under paragraph (1) shall be made in appropriate part from the Federal Hospital Insurance Trust Fund (established by section 1395i of this title) and the Federal Supplementary Medical Insurance Trust Fund (established by section 1395t of this title) and from funds appropriated under subchapter XIX of this chapter. Grants and payments under contracts may be made either in advance or by way of reimbursement, as may be determined by the Secretary, and shall be made in such installments and on such conditions as the Secretary finds necessary to carry out the purpose of this section. With respect to any such grant, payment, or other expenditure, the amount to be paid from each of such trust funds (and from funds appropriated under such subchapter XIX of this chapter) shall be determined by the Secretary, giving due regard to the purposes of the experiment or project involved.
+(2) Grants, payments under contracts, and other expenditures made for experiments and demonstration projects under paragraph (1) shall be made in appropriate part from the Federal Hospital Insurance Trust Fund (established by section 1395i of this title) and the Federal Supplementary Medical Insurance Trust Fund (established by section 1395t of this title) and from funds appropriated under subchapter XIX of this chapter. Grants and payments under contracts may be made either in advance or by way of reimbursement, as may be determined by the Secretary, and shall be made in such installments and on such conditions as the Secretary finds necessary to carry out the purpose of this section. With respect to any such grant, payment, or other expenditure, the amount to be paid from each of such trust funds (and from funds appropriated under such subchapter XIXof this chapter) shall be determined by the Secretary, giving due regard to the purposes of the experiment or project involved.
 
 #### (b) Waiver of certain payment or reimbursement requirements; advice and recommendations of specialists preceding experiments and demonstration projects
 
@@ -74,19 +74,19 @@ Section was enacted as a part of the Social Security Amendments of 1967, and not
 
 #### Amendments
 
-1984—Subsec. (a)(1). Pub. L. 98–369 substituted “grants to public or private agencies” for “grants to public or nonprofit private agencies” in provisions preceding subpar. (A).
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–369 substituted “grants to public or private agencies” for “grants to public or nonprofit private agencies” in provisions preceding subpar. (A).
 
-1982—Subsec. (a)(1)(K). Pub. L. 97–248 added subpar. (K).
+<b>1982</b>—Subsec. (a)(1)(K). Pub. L. 97–248 added subpar. (K).
 
-1981—Subsec. (a)(1). Pub. L. 97–35, §2193(d)(1), substituted “this subchapter and a program established by a plan of a State approved under subchapter XIX of this chapter” for “this subchapter, a program established by a plan of a State approved under subchapter XIX of this chapter, and a program established by a plan of a State approved under subchapter V of this chapter”.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–35, §2193(d)(1), substituted “this subchapter and a program established by a plan of a State approved under subchapter XIX of this chapter” for “this subchapter, a program established by a plan of a State approved under subchapter XIX of this chapter, and a program established by a plan of a State approved under subchapter V of this chapter”.
 
 Subsec. (a)(2). Pub. L. 97–35, §2193(d)(2), substituted reference to subchapter XIX of this chapter for reference to subchapters V and XIX of this chapter in two places.
 
 Subsec. (b). Pub. L. 97–35, §2193(d)(3), substituted reference to subchapter XIX of this chapter for reference to subchapters V and XIX of this chapter.
 
-1977—Subsec. (a)(1)(J). Pub. L. 95–142 added subpar. (J).
+<b>1977</b>—Subsec. (a)(1)(J). Pub. L. 95–142 added subpar. (J).
 
-1972—Subsec. (a). Pub. L. 92–603, §§222(b)(1), 278(b)(2), substituted provisions spelling out in detail the purposes for which experiments and demonstration projects may be carried out for a general statement setting out the increase in efficiency and economy of health services as the purpose of experiments selected by the Secretary, inserted references to demonstration projects, and inserted references to the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund.
+<b>1972</b>—Subsec. (a). Pub. L. 92–603, §§222(b)(1), 278(b)(2), substituted provisions spelling out in detail the purposes for which experiments and demonstration projects may be carried out for a general statement setting out the increase in efficiency and economy of health services as the purpose of experiments selected by the Secretary, inserted references to demonstration projects, and inserted references to the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund.
 
 Subsec. (b). Pub. L. 92–603, §222(b)(2), inserted references to demonstration projects and inserted “, or to reimbursement or payment only for such services or items as may be specified in the experiment”.
 
@@ -105,6 +105,168 @@ Amendment by Pub. L. 97–248 effective with respect to contracts entered into o
 #### Effective Date of 1981 Amendment, Savings, and Transitional Provisions
 
 For effective date, savings, and transitional provisions relating to amendment by Pub. L. 97–35, see section 2194 of Pub. L. 97–35, set out as a note under section 701 of this title.
+
+#### Community-Based Care Transitions Program
+
+Pub. L. 111–148, title III, §3026, Mar. 23, 2010, 124 Stat. 413, provided that:
+
+“(a)
+
+In General.—The Secretary shall establish a Community-Based Care Transitions Program under which the Secretary provides funding to eligible entities that furnish improved care transition services to high-risk Medicare beneficiaries.
+
+“(b)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Eligible entity.—The term ‘eligible entity’ means the following:
+
+&emsp;&emsp;“(A) A subsection (d) hospital (as defined in section 1886(d)(1)(B) of the Social Security Act (42 U.S.C. 1395ww(d)(1)(B))) identified by the Secretary as having a high readmission rate, such as under section 1886(q) of the Social Security Act, as added by section 3025.
+
+&emsp;&emsp;“(B) An appropriate community-based organization that provides care transition services under this section across a continuum of care through arrangements with subsection (d) hospitals (as so defined) to furnish the services described in subsection (c)(2)(B)(i) and whose governing body includes sufficient representation of multiple health care stakeholders (including consumers).
+
+&emsp;“(2)
+
+High-risk medicare beneficiary.—The term ‘high-risk Medicare beneficiary’ means a Medicare beneficiary who has attained a minimum hierarchical condition category score, as determined by the Secretary, based on a diagnosis of multiple chronic conditions or other risk factors associated with a hospital readmission or substandard transition into post-hospitalization care, which may include 1 or more of the following:
+
+&emsp;&emsp;“(A) Cognitive impairment.
+
+&emsp;&emsp;“(B) Depression.
+
+&emsp;&emsp;“(C) A history of multiple readmissions.
+
+&emsp;&emsp;“(D) Any other chronic disease or risk factor as determined by the Secretary.
+
+&emsp;“(3)
+
+Medicare beneficiary.—The term ‘Medicare beneficiary’ means an individual who is entitled to benefits under part A \[42 U.S.C. 1395c et seq.\] of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) and enrolled under part B \[42 U.S.C. 1395j et seq.\] of such title, but not enrolled under part C \[42 U.S.C. 1395w–21 et seq.\] of such title.
+
+&emsp;“(4)
+
+Program.—The term ‘program’ means the program conducted under this section.
+
+&emsp;“(5)
+
+Readmission.—The term ‘readmission’ has the meaning given such term in section 1886(q)(5)(E) of the Social Security Act \[42 U.S.C. 1395ww(q)(5)(E)\], as added by section 3025.
+
+&emsp;“(6)
+
+Secretary.—The term ‘Secretary’ means the Secretary of Health and Human Services.
+
+“(c)
+
+Requirements.—
+
+&emsp;“(1)
+
+Duration.—
+
+&emsp;&emsp;“(A)
+
+In general.—The program shall be conducted for a 5-year period, beginning January 1, 2011.
+
+&emsp;&emsp;“(B)
+
+Expansion.—The Secretary may expand the duration and the scope of the program, to the extent determined appropriate by the Secretary, if the Secretary determines (and the Chief Actuary of the Centers for Medicare \& Medicaid Services, with respect to spending under this title \[title III of Pub. L. 111–148, see Tables for classification\], certifies) that such expansion would reduce spending under this title without reducing quality.
+
+&emsp;“(2)
+
+Application; participation.—
+
+&emsp;&emsp;“(A)
+
+In general.—
+
+&emsp;&emsp;&emsp;“(i)
+
+Application.—An eligible entity seeking to participate in the program shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Partnership.—If an eligible entity is a hospital, such hospital shall enter into a partnership with a community-based organization to participate in the program.
+
+&emsp;&emsp;“(B)
+
+Intervention proposal.—Subject to subparagraph (C), an application submitted under subparagraph (A)(i) shall include a detailed proposal for at least 1 care transition intervention, which may include the following:
+
+&emsp;&emsp;&emsp;“(i) Initiating care transition services for a high-risk Medicare beneficiary not later than 24 hours prior to the discharge of the beneficiary from the eligible entity.
+
+&emsp;&emsp;&emsp;“(ii) Arranging timely post-discharge follow-up services to the high-risk Medicare beneficiary to provide the beneficiary (and, as appropriate, the primary caregiver of the beneficiary) with information regarding responding to symptoms that may indicate additional health problems or a deteriorating condition.
+
+&emsp;&emsp;&emsp;“(iii) Providing the high-risk Medicare beneficiary (and, as appropriate, the primary caregiver of the beneficiary) with assistance to ensure productive and timely interactions between patients and post-acute and outpatient providers.
+
+&emsp;&emsp;&emsp;“(iv) Assessing and actively engaging with a high-risk Medicare beneficiary (and, as appropriate, the primary caregiver of the beneficiary) through the provision of self-management support and relevant information that is specific to the beneficiary's condition.
+
+&emsp;&emsp;&emsp;“(v) Conducting comprehensive medication review and management (including, if appropriate, counseling and self-management support).
+
+&emsp;&emsp;“(C)
+
+Limitation.—A care transition intervention proposed under subparagraph (B) may not include payment for services required under the discharge planning process described in section 1861(ee) of the Social Security Act (42 U.S.C. 1395x(ee)).
+
+&emsp;“(3)
+
+Selection.—In selecting eligible entities to participate in the program, the Secretary shall give priority to eligible entities that—
+
+&emsp;&emsp;“(A) participate in a program administered by the Administration on Aging to provide concurrent care transitions interventions with multiple hospitals and practitioners; or
+
+&emsp;&emsp;“(B) provide services to medically underserved populations, small communities, and rural areas.
+
+“(d)
+
+Implementation.—Notwithstanding any other provision of law, the Secretary may implement the provisions of this section by program instruction or otherwise.
+
+“(e)
+
+Waiver Authority.—The Secretary may waive such requirements of titles XI and XVIII of the Social Security Act \[42 U.S.C. 1301 et seq., 1395 et seq.\] as may be necessary to carry out the program.
+
+“(f)
+
+Funding.—For purposes of carrying out this section, the Secretary of Health and Human Services shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t), in such proportion as the Secretary determines appropriate, of $500,000,000, to the Centers for Medicare \& Medicaid Services Program Management Account for the period of fiscal years 2011 through 2015. Amounts transferred under the preceding sentence shall remain available until expended.”
+
+#### Pilot Testing Pay-for-Performance Programs for Certain Medicare Providers
+
+Pub. L. 111–148, title X, §10326, Mar. 23, 2010, 124 Stat. 961, provided that:
+
+“(a)
+
+In General.—Not later than January 1, 2016, the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall, for each provider described in subsection (b), conduct a separate pilot program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] to test the implementation of a value-based purchasing program for payments under such title for the provider.
+
+“(b)
+
+Providers Described.—The providers described in this paragraph are the following:
+
+&emsp;“(1) Psychiatric hospitals (as described in clause (i) of section 1886(d)(1)(B) of such Act (42 U.S.C. 1395ww(d)(1)(B))) and psychiatric units (as described in the matter following clause (v) of such section).
+
+&emsp;“(2) Long-term care hospitals (as described in clause (iv) of such section).
+
+&emsp;“(3) Rehabilitation hospitals (as described in clause (ii) of such section).
+
+&emsp;“(4) PPS-exempt cancer hospitals (as described in clause (v) of such section).
+
+&emsp;“(5) Hospice programs (as defined in section 1861(dd)(2) of such Act (42 U.S.C. 1395x(dd)(2))).
+
+“(c)
+
+Waiver Authority.—The Secretary may waive such requirements of titles XI and XVIII of the Social Security Act \[42 U.S.C. 1301 et seq., 1395 et seq.\] as may be necessary solely for purposes of carrying out the pilot programs under this section.
+
+“(d)
+
+No Additional Program Expenditures.—Payments under this section under the separate pilot program for value based purchasing (as described in subsection (a)) for each provider type described in paragraphs (1) through (5) of subsection (b) for applicable items and services under title XVIII of the Social Security Act for a year shall be established in a mannerthat does not result in spending more under each such value based purchasing program for such year than would otherwise be expended for such provider type for such year if the pilot program were not implemented, as estimated by the Secretary.
+
+“(e)
+
+Expansion of Pilot Program.—The Secretary may, at any point after January 1, 2018, expand the duration and scope of a pilot program conducted under this subsection, to the extent determined appropriate by the Secretary, if—
+
+&emsp;“(1) the Secretary determines that such expansion is expected to—
+
+&emsp;&emsp;“(A) reduce spending under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] without reducing the quality of care; or
+
+&emsp;&emsp;“(B) improve the quality of care and reduce spending;
+
+&emsp;“(2) the Chief Actuary of the Centers for Medicare \& Medicaid Services certifies that such expansion would reduce program spending under such title XVIII; and
+
+&emsp;“(3) the Secretary determines that such expansion would not deny or limit the coverage or provision of benefits under such title XIII \[XVIII\] for Medicare beneficiaries.”
 
 #### Medicare Medical Home Demonstration Project
 
@@ -198,7 +360,7 @@ Personal physician care management fee.—Under the project, the Secretary shall
 
 &emsp;“(2)
 
-Medical home sharing in savings.—The Secretary shall provide for payment under the project ofa medical home based on the payment methodology applied to physician group practices under section 1866A of the Social Security Act (42 U.S.C. 1395cc–1). Under such methodology, 80 percent of the reductions in expenditures under title XVIII of the Social Security Act \[this subchapter\] resulting from participation of individuals that are attributable to the medical home (as reduced by the total care managements fees paid to the medical home under the project) shall be paid to the medical home. The amount of such reductions in expenditures shall be determined by using assumptions with respect to reductions in the occurrence of health complications, hospitalization rates, medical errors, and adverse drug reactions.
+Medical home sharing in savings.—The Secretary shall provide for payment under the project of a medical home based on the payment methodology applied to physician group practices under section 1866A of the Social Security Act (42 U.S.C. 1395cc–1). Under such methodology, 80 percent of the reductions in expenditures under title XVIII of the Social Security Act \[this subchapter\] resulting from participation of individuals that are attributable to the medical home (as reduced by the total care managements fees paid to the medical home under the project) shall be paid to the medical home. The amount of such reductions in expenditures shall be determined by using assumptions with respect to reductions in the occurrence of health complications, hospitalization rates, medical errors, and adverse drug reactions.
 
 &emsp;“(3)
 
@@ -316,7 +478,7 @@ Practice standards.—Each physician participating in the demonstration program 
 
 &emsp;&emsp;“(A) to assess each eligible beneficiary for conditions other than chronic conditions, such as impaired cognitive ability and co-morbidities, for the purposes of developing care management requirements;
 
-&emsp;&emsp;“(B) to serve as the primary contact of eligible beneficiaries in accessing items and services forwhich payment may be made under the medicare program;
+&emsp;&emsp;“(B) to serve as the primary contact of eligible beneficiaries in accessing items and services for which payment may be made under the medicare program;
 
 &emsp;&emsp;“(C) to establish and maintain health care information system for such beneficiaries;
 
@@ -694,11 +856,11 @@ Objectives of Project.—The objectives of the project include the following:
 
 Eligible Health Care Provider Telemedicine Network Defined.—For purposes of this section, the term ‘eligible health care provider telemedicine network’ means a consortium that includes at least one tertiary care hospital (but no more than 2 such hospitals), at least one medical school, no more than 4 facilities in rural or urban areas, and at least one regional telecommunications provider and that meets the following requirements:
 
-&emsp;“(1) The consortium is located in an area with a high concentration of medical schools and tertiary care facilities in the United States and has appropriate arrangements (within or outside the consortium) with such schools and facilities, universities,and telecommunications providers, in order to conduct the project.
+&emsp;“(1) The consortium is located in an area with a high concentration of medical schools and tertiary care facilities in the United States and has appropriate arrangements (within or outside the consortium) with such schools and facilities, universities, and telecommunications providers, in order to conduct the project.
 
 &emsp;“(2) The consortium submits to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a description of the use to which the consortium would apply any amounts received under the project.
 
-&emsp;“(3) The consortium guarantees that it will be responsible for payment for all costs of the project that are not paid under this section and that the maximum amount of payment that may be made to the consortium under this section shall not exceed the amount specified in subsection (d)(3).
+&emsp;“(3) The consortium guarantees that it will be responsible for payment for all costs of the project thatare not paid under this section and that the maximum amount of payment that may be made to the consortium under this section shall not exceed the amount specified in subsection (d)(3).
 
 “(d)
 
@@ -884,7 +1046,7 @@ Pub. L. 100–203, title IV, §4403, Dec. 22, 1987, 1330–226, as amended by Pu
 
 “(a)
 
-Set Asides for Issues of Health Care in Rural Areas and In Inner-City Areas.—(1) Not less than ten percent of the total amounts annually appropriated to, and expended by, the Health Care Financing Administration for the conduct of research and demonstration projects in fiscal years 1988, 1989, and 1990 shall be expended for research and demonstration projects relating exclusively or substantially to rural health issues, including (but not limited to) the impact of the payment methodology under section 1886(d) of the Social Security Act \[section 1395ww(d) of this title\] on the financial viability of small rural hospitals, the effect of medicare payment policies on the ability of rural areas (and rural hospitals in particular) to attract and retain physicians and other health professionals, the appropriateness of medicare conditions of participation and staffing requirements for small rural hospitals, and the impact of medicare policies on access to (and the quality of) health care in rural areas.
+Set Asides for Issues of Health Care in Rural Areas and In Inner-City Areas.—(1) Not less than ten percent of the total amounts annually appropriated to, and expended by, the Health Care Financing Administration for the conduct of research and demonstration projects in fiscal years 1988, 1989, and 1990 shall be expended for research and demonstration projects relating exclusively or substantially to rural health issues, including (but not limited to) the impact of the payment methodology under section 1886(d) of the Social Security Act \[section 1395ww(d) of this title\] on the financial viability of small rural hospitals, the effect of medicare payment policies on the ability of rural areas (and rural hospitals in particular) to attract and retain physicians and other health professionals, the appropriateness of medicare conditions of participation andstaffing requirements for small rural hospitals, and the impact of medicare policies on access to (and the quality of) health care in rural areas.
 
 “(2) Not less than ten percent of the total amounts annually appropriated to, and expended by, the Health Care Financing Administration for the conduct of research and demonstration projects in fiscal years 1988, 1989, and 1990 shall be expended for research and demonstration projects relating exclusively or substantially to issues of providing health care in inner-city areas, including (but not limited to) the impact of the payment methodology under section 1886(d) of the Social Security Act on the financial viability of inner-city hospitals and the impact of medicare policies on access to (and the quality of) health care in inner-city areas.
 
@@ -926,7 +1088,7 @@ Section 2320 of Pub. L. 98–369 provided that:
 
 “(3) The period referred to in paragraph (1) begins on the date of the enactment of this section and continues so long as the Secretary continues the Statewide waiver referred to in subsection (b), but in no case ends earlier than 90 days after the date final regulations to implement section 1886(c) of the Social Security Act \[section 1395ww(c) of this title\] are published.
 
-“(b) The project referred to in subsection (a) is the statewide demonstration project established in the State of New Jersey under section 402 of the Social Security Amendments of 1967, as amended by section 222(b) of the Social Security Amendments of 1972 (Public Law 92–603) \[this section\], which project provides for payments to hospitals in the State on a prospective basis and related to a classification of patients by diagnosis-related groups.
+“(b) The project referred to in subsection (a) is the statewide demonstration project established in the State of New Jersey under section 402 of the Social Security Amendments of 1967, as amended by section 222(b) of the Social Security Amendments of 1972 (Public Law 92–603) \[this section\], which project provides for payments to hospitals in the State on a prospectivebasis and related to a classification of patients by diagnosis-related groups.
 
 “(c) Payment for services described in this section shall be considered to be payments for services under part A of title XVIII of the Social Security Act \[part A of this subchapter\].”
 
@@ -964,11 +1126,11 @@ Pub. L. 96–499, title IX, §919, Dec. 5, 1980, 94 Stat. 2627, required study o
 
 #### Demonstration Projects for Physician-Directed Clinics in Urban Medically Underserved Areas; Report Submitted No Later Than January 1, 1981
 
-Pub. L. 95–210, §3, Dec. 13, 1977, 91 Stat. 1489, required the Secretary to provide, through demonstration projects, reimbursement on a cost basis for services provided by physician-directed clinics in urban medically underserved areas for which payment may be made under this subchapter and, notwithstanding any other provision of this subchapter, for services provided by a physician assistant or nurse practitioner employed by such clinics which would otherwise be covered under this subchapter if provided by a physician. The Secretary was to evaluate the relative advantages and disadvantages of reimbursement on the basis of costs and fee-for-service for physician-directed clinics employing a physician assistant or nurse practitioner, the appropriate method of determining the compensation for physician services on a cost basis for the purposes of reimbursement of services provided in such clinics, the appropriate definition for such clinics, the appropriate criteria to use for the purposes of designating urban medically underserved areas, and such other possible changes in the provisions of this subchapter as might be appropriate for the efficient and cost-effective reimbursement of services provided in such clinics. Grants, payments under contracts, and other expenditures made for demonstration projects were to be made in appropriate part from the Federal Hospital InsuranceTrust Fund and the Federal Supplementary Medical Insurance Trust Fund. The Secretary was to submit to the Congress, no later than Jan. 1, 1981, a complete detailed report on the demonstration projects.
+Pub. L. 95–210, §3, Dec. 13, 1977, 91 Stat. 1489, required the Secretary to provide, through demonstration projects, reimbursement on a cost basis for services provided by physician-directed clinics in urban medically underserved areas for which payment may be made under this subchapter and, notwithstanding any other provision of this subchapter, for services provided by a physician assistant or nurse practitioner employed by such clinics which would otherwise be covered under this subchapter if provided by a physician. The Secretary was to evaluate the relative advantages and disadvantages of reimbursement on the basis of costs and fee-for-service for physician-directed clinics employing a physician assistant or nurse practitioner, the appropriate method of determining the compensation for physician services on a cost basis for the purposes of reimbursement of services provided in such clinics, the appropriate definition for such clinics, the appropriate criteria to use for the purposes of designating urban medically underserved areas, and such other possible changes in the provisions of this subchapter as might be appropriate for the efficient and cost-effective reimbursement of services provided in such clinics. Grants, payments under contracts, and other expenditures made for demonstration projects were to be made in appropriate part from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund. The Secretary was to submit to the Congress, no later than Jan. 1, 1981, a complete detailed report on the demonstration projects.
 
 #### Scope of Grants for Experiments and Demonstration Projects To Determine Methods for Prospective Payments to Hospitals, Skilled Nursing Facilities, and Other Providers of Services
 
-Pub. L. 94–182, title I, §107, Dec. 31, 1975, 89 Stat. 1053, provided that: “Nothing contained in section 222(a) of Public Law 92–603 \[set out below\] shall be construed to preclude or prohibit the Secretary of Health, Education, and Welfare \[now Health and Human Services\] from including in any grant otherwise authorized to be made under such section moneys which are to be used for payments, to a participant in a demonstration or experiment with respect to which the grant is made, for or on account of costs incurred or services performed by such participant for a period prior to the date that the project of such participant is placed in operation, if—
+Pub. L. 94–182, title I, §107, Dec. 31, 1975, 89 Stat. 1053, provided that: “Nothing contained in section 222(a) ofPublic Law 92–603 \[set out below\] shall be construed to preclude or prohibit the Secretary of Health, Education, and Welfare \[now Health and Human Services\] from including in any grant otherwise authorized to be made under such section moneys which are to be used for payments, to a participant in a demonstration or experiment with respect to which the grant is made, for or on account of costs incurred or services performed by such participant for a period prior to the date that the project of such participant is placed in operation, if—
 
 &emsp;“(1) the applicant for such grant is a State or an agency thereof,
 

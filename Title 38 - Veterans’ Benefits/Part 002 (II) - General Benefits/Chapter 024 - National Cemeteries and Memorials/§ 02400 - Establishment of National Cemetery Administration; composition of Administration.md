@@ -16,27 +16,27 @@
 
 The National Cemeteries Act of 1973, referred to in subsec. (b)(1), (3), is Pub. L. 93–43, June 18, 1973, 87 Stat. 75, as amended, which is classified principally to this chapter (§2400 et seq.). For complete classification of this Act to the Code, see section 1 of Pub. L. 93–43 set out as a Short Title of 1973 Amendment note under section 101 of this title and Tables.
 
-For national cemeteries transferred from the Department of the Army to the Veterans’ Administration by the National Cemeteries Act of 1973, and any othercemetery, memorial, or monument transferred to the Veterans’ Administration by the National Cemeteries Act of 1973, referred to in subsec. (b)(1), (3), see Transfer of Functions note set out under section 2404 of this title.
+For national cemeteries transferred from the Department of the Army to the Veterans’ Administration by the National Cemeteries Act of 1973, and any other cemetery, memorial, or monument transferred to the Veterans’ Administration by the National Cemeteries Act of 1973, referred to in subsec. (b)(1), (3), see Transfer of Functions note set out under section 2404 of this title.
 
 The date of enactment of this chapter, referred to in subsec. (b)(2), is the date of enactment of Pub. L. 93–43, which was approved June 18, 1973.
 
 #### Amendments
 
-1998—Pub. L. 105–368, §403(c)(3)(C), substituted “Administration; composition of Administration” for “System; composition of such system; appointment of director” in section catchline.
+<b>1998</b>—Pub. L. 105–368, §403(c)(3)(C), substituted “Administration; composition of Administration” for “System; composition of such system; appointment of director” in section catchline.
 
 Subsec. (a). Pub. L. 105–368, §403(c)(3)(A), in first sentence, substituted “Administration responsible” for “System” and, in second sentence, substituted “The National Cemetery Administration shall be headed by the Under Secretary for Memorial Affairs” for “Such system shall be headed by the Director of the National Cemetery System”.
 
 Subsec. (b). Pub. L. 105–368, §403(c)(3)(B), substituted “national cemeteries and other facilities under the control of the National Cemetery Administration” for “National Cemetery System” in introductory provisions.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1000 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1000 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-1989—Subsec. (b)(3). Pub. L. 101–237 substituted “Secretary” for “Administrator”.
+<b>1989</b>—Subsec. (b)(3). Pub. L. 101–237 substituted “Secretary” for “Administrator”.
 
-1988—Subsec. (a). Pub. L. 100–527 substituted “Such system shall be headed by the Director of the National Cemetery System, who shall perform such functions as may be assigned by the Secretary” for “The Administrator may appoint a Director, National Cemetery System, who shall perform such functions as may be assigned by the Administrator”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–527 substituted “Such system shall be headed by the Director of the National Cemetery System, who shall perform such functions as may be assigned by the Secretary” for “The Administrator may appoint a Director, National Cemetery System, who shall perform such functions as may be assigned by the Administrator”.
 
-1986—Subsec. (a). Pub. L. 99–576 substituted “servicemembers” for “servicemen” and “The Administrator” for “To assist him in carrying out his responsibilities in administering the cemeteries within the System, the Administrator”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–576 substituted “servicemembers” for “servicemen” and “The Administrator” for “To assist him in carrying out his responsibilities in administering the cemeteries within the System, the Administrator”.
 
 #### Change of Name
 
@@ -59,6 +59,48 @@ Section 10(a) of Pub. L. 93–43 provided that: “The first section \[set out a
 #### Short Title
 
 For short title of Pub. L. 93–43, June 18, 1973, 87 Stat. 75, which enacted this chapter, as the “National Cemeteries Act of 1973”, see section 1 of Pub. L. 93–43 set out as a Short Title of 1973 Amendment note under section 101 of this title.
+
+#### Reports on Selection of New National Cemeteries
+
+Pub. L. 111–275, title V, §503, Oct. 13, 2010, 124 Stat. 2883, provided that:
+
+“(a)
+
+Initial Report.—
+
+&emsp;“(1)
+
+Report required.—Not later than one year after the date of the enactment of this Act \[Oct. 13,2010\], the Secretary of Veterans Affairs shall submit to Congress a report on the selection of the sites described in paragraph (2) for the purpose of establishing new national cemeteries.
+
+&emsp;“(2)
+
+Sites.—The sites described in this paragraph are the following:
+
+&emsp;&emsp;“(A) An area in southern Colorado.
+
+&emsp;&emsp;“(B) An area near Melbourne, Florida, and Daytona, Florida.
+
+&emsp;&emsp;“(C) An area near Omaha, Nebraska.
+
+&emsp;&emsp;“(D) An area near Buffalo, New York, and Rochester, New York.
+
+&emsp;&emsp;“(E) An area near Tallahassee, Florida.
+
+&emsp;“(3)
+
+Site selection.—In carrying out this section, the Secretary shall solicit advice and views of representatives of State and local veterans organizations and other individuals as the Secretary considers appropriate.
+
+&emsp;“(4)
+
+Matters included.—The report under paragraph (1) shall include the following:
+
+&emsp;&emsp;“(A) A schedule for the establishment of each cemetery at each site described in paragraph (2) and an estimate of the costs associated with the establishment of each such cemetery.
+
+&emsp;&emsp;“(B) As of the date of the submittal of the report, the amount of funds that are available to establish each cemetery at each site described in paragraph (2) from amounts appropriated to the Department of Veterans Affairs for Advance Planning.
+
+“(b)
+
+Annual Reports.—Not later than two years after the date of the enactment of this Act, and each year thereafter until the date on which each cemetery at each site described in subsection (a)(2) is established, the Secretary shall submit to Congress an annual report that includes updates to the information provided in the report under subsection (a).”
 
 #### National Cemetery Expansion
 
@@ -116,7 +158,7 @@ Pub. L. 106–117, title VI, §611, Nov. 30, 1999, 113 Stat. 1580, provided that
 
 “(a)
 
-Establishment.—The Secretary \[of Veterans Affairs\] shall establish, in accordance with chapter 24 of title 38, United States Code, a national cemetery ineach of the six areas in the United States that the Secretary determines to be most in need of such a cemetery to serve the needs of veterans and their families.
+Establishment.—The Secretary \[of Veterans Affairs\] shall establish, in accordance with chapter 24 of title 38, United States Code, a national cemetery in each of the six areas in the United States that the Secretary determines to be most in need of such a cemetery to serve the needs of veterans and their families.
 
 “(b)
 
@@ -146,7 +188,7 @@ Pub. L. 102–86, title IV, §403, Aug. 14, 1991, 105 Stat. 422, as amended by P
 
 “(a)
 
-In General.—Pershing Hall, an existing memorial in Paris, France, owned by the United States, together with the personal property of such memorial, is hereby placed under the jurisdiction, custody, and control of the Department of Veterans Affairs so that the memorial to the commander-in-chief, officers, men, and auxiliary services of the American Expeditionary Forces in France during World War I may be continued in an appropriate manner and financial support be provided therefor.
+In General.—Pershing Hall, an existing memorial in Paris, France, owned by the United States, together with the personal property of such memorial, is hereby placed under the jurisdiction, custody, and control of the Department of Veterans Affairs so that the memorial to the commander-in-chief, officers, men, andauxiliary services of the American Expeditionary Forces in France during World War I may be continued in an appropriate manner and financial support be provided therefor.
 
 “(b)
 

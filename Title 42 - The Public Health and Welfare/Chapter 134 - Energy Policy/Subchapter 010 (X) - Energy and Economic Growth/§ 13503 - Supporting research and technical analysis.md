@@ -82,5 +82,5 @@ There are authorized to be appropriated to the Secretary for Supporting Research
 
 #### Amendments
 
-1998—Subsec. (b)(3)(A)(i). Pub. L. 105–245 substituted “Office of Science” for “Office of Energy Research”.
+<b>1998</b>—Subsec. (b)(3)(A)(i). Pub. L. 105–245 substituted “Office of Science” for “Office of Energy Research”.
 

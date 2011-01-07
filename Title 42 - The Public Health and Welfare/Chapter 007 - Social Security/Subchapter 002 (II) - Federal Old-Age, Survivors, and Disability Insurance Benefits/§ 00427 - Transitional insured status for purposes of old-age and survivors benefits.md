@@ -6,7 +6,7 @@ In the case of any individual who attains the age of 72 before 1969 but who does
 
 #### (b) Determination of entitlement to surviving spouse's benefits under section 402(e) or (f) of this title
 
-In the case of any individual who has died, who does not meet the requirements of section414(a) of this title, and whose surviving spouse attains age 72 before 1969, the 6 quarters of coverage referred to in paragraph (3) of section 414(a) of this title and in paragraph (1) thereof shall, for purposes of determining the entitlement to surviving spouse's insurance benefits under section 402(e) or section 402(f) of this title, instead be—
+In the case of any individual who has died, who does not meet the requirements of section 414(a) of this title, and whose surviving spouse attains age 72 before 1969, the 6 quarters of coverage referred to in paragraph (3) of section 414(a) of this title and in paragraph (1) thereof shall, for purposes of determining the entitlement to surviving spouse's insurance benefits under section 402(e) or section 402(f) of this title, instead be—
 
 &emsp;(1) 3 quarters of coverage if such surviving spouse attains the age of 72 in or before 1966,
 
@@ -28,17 +28,17 @@ Section 402(m) of this title, referred to in subsec. (b), was repealed by Pub. L
 
 #### Amendments
 
-1983—Subsec. (a). Pub. L. 98–21, §304(a), substituted “spouse” for “wife”, “spouse's” for “wife's”, and “he or she” for “she”, wherever appearing, substituted “the” for “his” after “402(a) of this title, and of” and preceding “spouse” in two places and preceding “old-age insurance”, and inserted “or section 402(c)” after “section 402(b)” wherever appearing.
+<b>1983</b>—Subsec. (a). Pub. L. 98–21, §304(a), substituted “spouse” for “wife”, “spouse's” for “wife's”, and “he or she” for “she”, wherever appearing, substituted “the” for “his” after “402(a) of this title, and of” and preceding “spouse” in two places and preceding “old-age insurance”, and inserted “or section 402(c)” after “section 402(b)” wherever appearing.
 
 Subsec. (b). Pub. L. 98–21, §304(b), substituted “surviving spouse” for “widow” and “surviving spouse's” for “widow's” wherever appearing, substituted “the” for “her” after “determining” and “The amount of”, and inserted “or section 402(f)” after “section 402(e)” wherever appearing.
 
 Subsec. (c). Pub. L. 98–21, §304(b)(1), (2), (4), substituted “surviving spouse” for “widow” wherever appearing and “surviving spouse's” for “widow's”, and inserted “or section 402(f)” after “section 402(e)”.
 
-1973—Subsec. (a). Pub. L. 93–233, §2(b)(1), substituted “the larger of $64.40 or the amount most recently established in lieu thereof under section 415(i) of this title” for “$58.00” and “the larger of $32.20 or the amount most recently established in lieu thereof under section 415(i) of this title” for “$29.00”.
+<b>1973</b>—Subsec. (a). Pub. L. 93–233, §2(b)(1), substituted “the larger of $64.40 or the amount most recently established in lieu thereof under section 415(i) of this title” for “$58.00” and “the larger of $32.20 or the amount most recently established in lieu thereof under section 415(i) of this title” for “$29.00”.
 
 Subsec. (b). Pub. L. 93–233, §2(b)(1), substituted “the larger of $64.40 or the amount most recently established in lieu thereof under section 415(i) of this title” for “$58.00”.
 
-1972—Subsec. (a). Pub. L. 92–336, §201(g)(1)(A), substituted “$58.00” for “$48.30” and “$29.00” for “$24.20”.
+<b>1972</b>—Subsec. (a). Pub. L. 92–336, §201(g)(1)(A), substituted “$58.00” for “$48.30” and “$29.00” for “$24.20”.
 
 Subsec. (a)(1). Pub. L. 92–603, §104(e), substituted “paragraph (1) of section 414(a) of this title” for “so much of paragraph (1) of section 414(a) of this title as follows clause (C)”.
 
@@ -46,15 +46,15 @@ Subsec. (b). Pub. L. 92–336, §201(g)(1)(B), substituted “$58.00” for “$
 
 Subsec. (b)(1). Pub. L. 92–603, §104(f), substituted “paragraph (1) thereof” for “so much of paragraph (1) thereof as follows clause (C)”.
 
-1971—Subsec. (a). Pub. L. 92–5, §202(a)(1), substituted “$48.30” for “$46” and “$24.20” for “$23”.
+<b>1971</b>—Subsec. (a). Pub. L. 92–5, §202(a)(1), substituted “$48.30” for “$46” and “$24.20” for “$23”.
 
 Subsec. (b). Pub. L. 92–5, §202(a)(2), substituted “$48.30” for “$46”.
 
-1969—Subsec. (a). Pub. L. 91–172, §1003(a)(1), substituted “$46” for “$40”, and “$23” for “$20”.
+<b>1969</b>—Subsec. (a). Pub. L. 91–172, §1003(a)(1), substituted “$46” for “$40”, and “$23” for “$20”.
 
 Subsec. (b). Pub. L. 91–172, §1003(a)(2), substituted “$46” for “$40”.
 
-1968—Subsec. (a). Pub. L. 90–248, §102(a)(1), substituted “$40” for “$35” and “$20” for “$17.50”.
+<b>1968</b>—Subsec. (a). Pub. L. 90–248, §102(a)(1), substituted “$40” for “$35” and “$20” for “$17.50”.
 
 Subsec. (b). Pub. L. 90–248, §102(a)(2), substituted “$40” for “$35”.
 

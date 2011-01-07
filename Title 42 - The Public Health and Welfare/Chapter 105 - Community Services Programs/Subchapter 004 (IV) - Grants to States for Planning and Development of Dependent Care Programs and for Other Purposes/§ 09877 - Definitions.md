@@ -38,23 +38,23 @@ Section 198 of the Elementary and Secondary Education Act of 1965, referred to i
 
 #### Amendments
 
-2002—Pars. (6), (11). Pub. L. 107–110 substituted “7801” for “8801”.
+<b>2002</b>—Pars. (6), (11). Pub. L. 107–110 substituted “7801” for “8801”.
 
-2000—Par. (3). Pub. L. 106–402 substituted “section 15002 of this title” for “section 6001(7) of this title”.
+<b>2000</b>—Par. (3). Pub. L. 106–402 substituted “section 15002 of this title” for “section 6001(7) of this title”.
 
-1998—Par. (5). Pub. L. 105–244, which directed amendment of section 670G(5) of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9877(5)) by substituting “section 1001” for “section 1141(a)”, was executed to this section, which is section 670G(5) of subchapter E of chapter 8 of subtitle A of title VI of Pub. L. 97–35, known as the State Dependent Care Development Grants Act, to reflect the probable intent of Congress.
+<b>1998</b>—Par. (5). Pub. L. 105–244, which directed amendment of section 670G(5) of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9877(5)) by substituting “section 1001” for “section 1141(a)”, was executed to this section, which is section 670G(5) of subchapter E of chapter 8 of subtitle A of title VI of Pub. L. 97–35, known as the State Dependent Care Development Grants Act, to reflect the probable intent of Congress.
 
-1994—Par. (6). Pub. L. 103–382, §394(<i>l</i>)(1), substituted “section 8801 of title 20” for “section 198(a)(10) of the Elementary and Secondary Education Act of 1965”.
+<b>1994</b>—Par. (6). Pub. L. 103–382, §394(<i>l</i>)(1), substituted “section 8801 of title 20” for “section 198(a)(10) of the Elementary and Secondary Education Act of 1965”.
 
 Par. (11). Pub. L. 103–382, §394(<i>l</i>)(2), substituted “section 8801 of title 20” for “section 198(a)(17) of the Elementary and Secondary Education Act of 1965”.
 
-1990—Par. (2)(C). Pub. L. 101–501, §305(c)(1), substituted “an individual” for “a person”.
+<b>1990</b>—Par. (2)(C). Pub. L. 101–501, §305(c)(1), substituted “an individual” for “a person”.
 
 Par. (7). Pub. L. 101–501, §305(c)(2), inserted “in” after first reference to “State”.
 
 Par. (10). Pub. L. 101–501, §305(c)(3), substituted “Federated States of Micronesia, the Republic of the Marshall Islands, Palau” for “Trust Territory of the Pacific Islands”.
 
-1986—Par. (7). Pub. L. 99–425 inserted “, except that in any State which by State law children at an earlier age are provided free public education, the age provided in State law shall be substituted for age five”.
+<b>1986</b>—Par. (7). Pub. L. 99–425 inserted “, except that in any State which by State law children at an earlier age are provided free public education, the age provided in State law shall be substituted for age five”.
 
 #### Effective Date of 2002 Amendment
 
@@ -71,4 +71,6 @@ Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pu
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–425 effective Oct. 1, 1986, see section 1001 of Pub. L. 99–425, set out as a note under section 8621 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

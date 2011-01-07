@@ -34,11 +34,11 @@ Testing Facilities Involved in Accidents.—The Secretary may require testing of
 
 &emsp;(1) notifying the appropriate State official in the State in which the facility is located; and
 
-&emsp;(2) attempting to negotiate a mutually acceptable plan for testing with the owner of the facility and, when the Secretary considers appropriate, the National Transportation Safety Board.
+&emsp;(2) attempting to negotiate a mutually acceptable plan for testing with the owner of thefacility and, when the Secretary considers appropriate, the National Transportation Safety Board.
 
 (g)
 
-Providing Safety Information.—On request, the Secretary shall provide the FederalEnergy Regulatory Commission or appropriate State authority with information the Secretary has on the safety of material, operations, devices, or processes related to pipeline transportation or operating a pipeline facility.
+Providing Safety Information.—On request, the Secretary shall provide the Federal Energy Regulatory Commission or appropriate State authority with information the Secretary has on the safety of material, operations, devices, or processes related to pipeline transportation or operating a pipeline facility.
 
 (h)
 
@@ -302,19 +302,19 @@ This amends 49:60117(i) by restating section 304(c) of the Pipeline Safety Act o
 
 #### Amendments
 
-2006—Subsec. (<i>l</i>). Pub. L. 109–468, §13, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the Secretary decides that a pipeline facility has a potential safety-related condition, the Secretary may order the operator of the facility to take necessary corrective action, including physical inspection, testing, repair, replacement, or other appropriate action to remedy the safety-related condition.”
+<b>2006</b>—Subsec. (<i>l</i>). Pub. L. 109–468, §13, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the Secretary decides that a pipeline facility has a potential safety-related condition, the Secretary may order the operator of the facility to take necessary corrective action, including physical inspection, testing, repair, replacement, or other appropriate action to remedy the safety-related condition.”
 
 Subsecs. (m), (n). Pub. L. 109–468, §§11, 17, added subsecs. (m) and (n).
 
-2002—Subsec. (<i>l</i>). Pub. L. 107–355 added subsec. (<i>l</i>).
+<b>2002</b>—Subsec. (<i>l</i>). Pub. L. 107–355 added subsec. (<i>l</i>).
 
-1996—Subsec. (a). Pub. L. 104–304, §19, inserted “and promotional activities relating to prevention of damage to pipeline facilities” after “and training activities”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–304, §19, inserted “and promotional activities relating to prevention of damage to pipeline facilities” after “and training activities”.
 
 Subsec. (b). Pub. L. 104–304, §12(1), (3), substituted “owning” for “transporting gas or hazardous liquid” and inserted at end “The Secretary may require owners and operators of gathering lines to provide the Secretary information pertinent to the Secretary's ability to make a determination as to whether and to what extent to regulate gathering lines.”
 
 Subsec. (k). Pub. L. 104–304, §12(2), added subsec. (k).
 
-1994—Subsec. (i). Pub. L. 103–429 designated existing provisions as par. (1) and added par. (2).
+<b>1994</b>—Subsec. (i). Pub. L. 103–429 designated existing provisions as par. (1) and added par. (2).
 
 #### Incident Reporting
 

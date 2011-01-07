@@ -18,7 +18,7 @@
 
 &emsp;(D) Hodgkin's disease becoming manifest to a degree of disability of 10 percent or more.
 
-&emsp;(E) Porphyria cutanea tarda becoming manifest to a degree of disability of 10 percent or more within a year after the last date onwhich the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975.
+&emsp;(E) Porphyria cutanea tarda becoming manifest to a degree of disability of 10 percent or more within a year after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975.
 
 &emsp;(F) Respiratory cancers (cancer of the lung, bronchus, larynx, or trachea) becoming manifest to a degree of disability of 10 percent or more.
 
@@ -58,7 +58,7 @@ Section 3 of the Agent Orange Act of 1991, referred to in subsecs. (b)(2) and (c
 
 #### Amendments
 
-2001—Pub. L. 107–103, §201(c)(2)(A), amended section catchline generally. Prior to amendment, catchline read as follows: “Presumptions of service connection for diseases associated with exposure to certain herbicide agents”.
+<b>2001</b>—Pub. L. 107–103, §201(c)(2)(A), amended section catchline generally. Prior to amendment, catchline read as follows: “Presumptions of service connection for diseases associated with exposure to certain herbicide agents”.
 
 Subsec. (a)(2)(F). Pub. L. 107–103, §201(a)(1)(A), struck out “within 30 years after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” before period at end.
 
@@ -70,9 +70,9 @@ Subsec. (e). Pub. L. 107–103, §201(d)(1), substituted “on September 30, 201
 
 Subsec. (f). Pub. L. 107–103, §201(c)(1)(A), (C), redesignated subsec. (a)(3) as (f), substituted “For purposes of establishing service connection for a disability or death resulting from exposure to a herbicide agent, including a presumption of service-connection under this section, a veteran” for “For the purposes of this subsection, a veteran”, and struck out “and has a disease referred to in paragraph (1)(B) of this subsection” after “May 7, 1975,”.
 
-2000—Subsec. (a)(2)(F). Pub. L. 106–419 inserted “of disability” after “to a degree”.
+<b>2000</b>—Subsec. (a)(2)(F). Pub. L. 106–419 inserted “of disability” after “to a degree”.
 
-1996—Subsec. (a)(1)(A). Pub. L. 104–275, §505(b)(2), substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975” for “during the Vietnam era”.
+<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–275, §505(b)(2), substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975” for “during the Vietnam era”.
 
 Subsec. (a)(1)(B). Pub. L. 104–275, §505(b)(1), substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975,” for “during the Vietnam era”.
 
@@ -82,11 +82,11 @@ Subsec. (a)(3). Pub. L. 104–275, §505(b)(1), substituted “during the period
 
 Subsec. (a)(4). Pub. L. 104–275, §505(b)(2), substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975” for “during the Vietnam era”.
 
-1994—Subsec. (a)(1)(B). Pub. L. 103–446, §1201(e)(6), substituted “(i)” for “(1)” and “(ii)” for “(2)”.
+<b>1994</b>—Subsec. (a)(1)(B). Pub. L. 103–446, §1201(e)(6), substituted “(i)” for “(1)” and “(ii)” for “(2)”.
 
 Subsec. (a)(2)(D) to (G). Pub. L. 103–446, §505, added subpars. (D) to (G).
 
-1991—Pub. L. 102–83, §5(a), renumbered section 316 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 316 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 102–83, §5(c)(1), substituted “1110” for “310” and “1113” for “313” in introductory provisions.
 
@@ -146,7 +146,7 @@ Scientific Determinations Concerning Diseases.—(1) For each disease reviewed, 
 
 “(e)
 
-Recommendations for Additional Scientific Studies.—The Academy shall make any recommendations it has for additional scientific studies to resolve areas of continuing scientific uncertainty relating to herbicide exposure. In making recommendations forfurther study, the Academy shall consider the scientific information that is currently available, the value and relevance of the information that could result from additional studies, and the cost and feasibility of carrying out such additional studies.
+Recommendations for Additional Scientific Studies.—The Academy shall make any recommendations it has for additional scientific studies to resolve areas of continuing scientific uncertainty relating to herbicide exposure. In making recommendations for further study, the Academy shall consider the scientific information that is currently available, the value and relevance of the information that could result from additional studies, and the cost and feasibility of carrying out such additional studies.
 
 “(f)
 
@@ -220,7 +220,7 @@ Annual Report.—The Secretary shall submit to the Committees on Veterans’ Aff
 
 &emsp;“(5) other explanations for the incidence of such disabilities considered reasonable by the Secretary; and
 
-&emsp;“(6) the Secretary's views on the scientific validity of drawing conclusions from the incidence of such disabilities, as evidenced by the data compiled under subsection (a), about any association between such disabilities and exposure to dioxin or any other toxicsubstance referred to in section 1710(e)(1)(A) of title 38, United States Code, or between such disabilities and active military, naval, or air service, in the Republic of Vietnam during the Vietnam era.
+&emsp;“(6) the Secretary's views on the scientific validity of drawing conclusions from the incidence of such disabilities, as evidenced by the data compiled under subsection (a), about any association between such disabilities and exposure to dioxin or any other toxic substance referred to in section 1710(e)(1)(A) of title 38, United States Code, or between such disabilities and active military, naval, or air service, in the Republic of Vietnam during the Vietnam era.
 
 “(c)
 
@@ -238,7 +238,7 @@ Effective Date.—(1) This section shall take effect at the end of the 90-day pe
 
 &emsp;“(B) notifies the Committees on Veterans’ Affairs of the Senate and House of Representatives of the Secretary's determination and the reasons therefor.
 
-“(2) In making a determination under this subsection, the Secretary shall give great weight to the views and recommendations of the Academy expressed in that report with respect to the implementation of this section.”
+“(2) In making a determination under this subsection, the Secretary shall give great weight to theviews and recommendations of the Academy expressed in that report with respect to the implementation of this section.”
 
 #### Tissue Archiving System
 
@@ -342,7 +342,7 @@ Notification of Test Results.—Upon completion of such test, the Secretary shal
 
 “(c)
 
-Incorporation in System.—The Secretary shall maintain the veteran's blood sample and the results of the test as part of the system required by section 7 \[set out above\].
+Incorporation in System.—The Secretary shall maintain the veteran's blood sample and the results ofthe test as part of the system required by section 7 \[set out above\].
 
 “(d)
 

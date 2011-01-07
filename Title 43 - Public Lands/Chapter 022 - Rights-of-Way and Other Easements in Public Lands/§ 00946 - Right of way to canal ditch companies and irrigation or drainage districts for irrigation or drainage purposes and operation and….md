@@ -10,9 +10,9 @@ The right of way through the public lands and reservations of the United States 
 
 #### Amendments
 
-1926—Act May 28, 1926, substituted “canal ditch company, irrigation or drainage district” for “canal or ditch company or drainage district” and inserted “or, if not a private corporation, a copy of the law under which the same is formed” after “articles of incorporation” and “, and, upon presentation of satisfactory showing by the applicant, such additional right of way as the Secretary of the Interior may deem necessary for the proper operation and maintenance of said reservoirs, canals, and laterals” after “marginal limits thereof”.
+<b>1926</b>—Act May 28, 1926, substituted “canal ditch company, irrigation or drainage district” for “canal or ditch company or drainage district” and inserted “or, if not a private corporation, a copy of the law under which the same is formed” after “articles of incorporation” and “, and, upon presentation of satisfactory showing by the applicant, such additional right of way as the Secretary of the Interior may deem necessary for the proper operation and maintenance of said reservoirs, canals, and laterals” after “marginal limits thereof”.
 
-1917—Act Mar. 4, 1917, inserted “or drainage district,” after “any canal or ditch company,” and “or drainage,” after “for the purpose of irrigation”.
+<b>1917</b>—Act Mar. 4, 1917, inserted “or drainage district,” after “any canal or ditch company,” and “or drainage,” after “for the purpose of irrigation”.
 
 #### Savings Provision
 

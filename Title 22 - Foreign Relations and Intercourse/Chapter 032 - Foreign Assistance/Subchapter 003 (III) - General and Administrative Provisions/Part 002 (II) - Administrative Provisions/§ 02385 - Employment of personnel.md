@@ -56,15 +56,15 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Amendments
 
-2009—Subsec. (j)(1)(A). Pub. L. 111–32 inserted “, Pakistan,” after “Iraq” in two places.
+<b>2009</b>—Subsec. (j)(1)(A). Pub. L. 111–32 inserted “, Pakistan,” after “Iraq” in two places.
 
 Subsec. (j)(1)(B). Pub. L. 111–32 substituted “2010” for “2008”.
 
-2006—Subsec. (j). Pub. L. 109–234 added subsec. (j).
+<b>2006</b>—Subsec. (j). Pub. L. 109–234 added subsec. (j).
 
-1981—Subsec. (d). Pub. L. 97–113 substituted “or under chapter 53 of title 5, or at any other rate authorized by law, together with allowances and benefits under the Foreign Service Act of 1980” for “together with allowances and benefits under that Act”.
+<b>1981</b>—Subsec. (d). Pub. L. 97–113 substituted “or under chapter 53 of title 5, or at any other rate authorized by law, together with allowances and benefits under the Foreign Service Act of 1980” for “together with allowances and benefits under that Act”.
 
-1980—Subsec. (d). Pub. L. 96–465, §2203(a), substituted references to the Foreign Service Act of 1980, for references to the Foreign Service Act of 1946, and struck out provisions relating to the applicability of section 1005 of the Foreign Service Act of 1946 and relating to the utilization of Presidential authority under the Foreign Service Act of 1946 to carry out the functions of this chapter.
+<b>1980</b>—Subsec. (d). Pub. L. 96–465, §2203(a), substituted references to the Foreign Service Act of 1980, for references to the Foreign Service Act of 1946, and struck out provisions relating to the applicability of section 1005 of the Foreign Service Act of 1946 and relating to the utilization of Presidential authority under the Foreign Service Act of 1946 to carry out the functions of this chapter.
 
 Subsec. (e). Pub. L. 96–465, §2205(8), struck out subsec. (e) which set forth requirement of standards or other criteria for maintenance of adequate performance levels for personnel. See sections 4007 and 4008 of this title.
 
@@ -74,23 +74,23 @@ Subsec. (j). Pub. L. 96–465, §2205(8), struck out subsec. (j) which related t
 
 Subsec. (k). Pub. L. 96–465, §2205(8), struck out subsec. (k) which related to applicability, etc., of Foreign Service Retirement and Disability System. See sections 3922 and 4043 of this title.
 
-1977—Subsec. (d)(2). Pub. L. 95–88 struck out a numerical limitation of fifty on the number of persons which the President may assign, at any one time, to duty within the United States for the purpose of preparation for assignments outside the United States.
+<b>1977</b>—Subsec. (d)(2). Pub. L. 95–88 struck out a numerical limitation of fifty on the number of persons which the President may assign, at any one time, to duty within the United States for the purpose of preparation for assignments outside the United States.
 
-1973—Subsec. (k). Pub. L. 93–189 added subsec. (k).
+<b>1973</b>—Subsec. (k). Pub. L. 93–189 added subsec. (k).
 
-1968—Subsec. (c). Pub. L. 90–554 inserted “or any Act superseding subchapter II of this chapter in whole or in part” after “to carry out subchapter II of this chapter”.
+<b>1968</b>—Subsec. (c). Pub. L. 90–554 inserted “or any Act superseding subchapter II of this chapter in whole or in part” after “to carry out subchapter II of this chapter”.
 
-1967—Subsecs. (b), (c). Pub. L. 90–137, §302(b), (c), substituted references to section 5332 of title 5 for former references to the Classification Act of 1949, as amended, and to section 5108 for former section 1105 of title 5.
+<b>1967</b>—Subsecs. (b), (c). Pub. L. 90–137, §302(b), (c), substituted references to section 5332 of title 5 for former references to the Classification Act of 1949, as amended, and to section 5108 for former section 1105 of title 5.
 
 Subsec. (d)(2). Pub. L. 90–137, §302(d), authorized an increase in the assignment of foreign personnel from forty to fifty persons.
 
-1965—Subsec. (d)(2). Pub. L. 89–171 substituted “forty” for “twenty”.
+<b>1965</b>—Subsec. (d)(2). Pub. L. 89–171 substituted “forty” for “twenty”.
 
-1964—Subsec. (d)(2). Pub. L. 88–633, §302(a)(1), substituted “the assignment to such duty of more thantwenty persons at any one time” for “more than thirty persons in the aggregate”.
+<b>1964</b>—Subsec. (d)(2). Pub. L. 88–633, §302(a)(1), substituted “the assignment to such duty of more thantwenty persons at any one time” for “more than thirty persons in the aggregate”.
 
 Subsec. (j). Pub. L. 88–633, §302(a)(2), added subsec. (j).
 
-1962—Subsec. (b). Pub. L. 87–793, §1001(k)(1), substituted “but not in excess of the highest rate of grade 18 of such general schedule” for “and of these, not to exceed eight may be compensated at a rate in excess of the highest rate provided for grades of such general schedule but not in excess of $19,000 per year”.
+<b>1962</b>—Subsec. (b). Pub. L. 87–793, §1001(k)(1), substituted “but not in excess of the highest rate of grade 18 of such general schedule” for “and of these, not to exceed eight may be compensated at a rate in excess of the highest rate provided for grades of such general schedule but not in excess of $19,000 per year”.
 
 Pub. L. 87–565, §302(c)(1), substituted “one hundred and ten” for “seventy-six”.
 

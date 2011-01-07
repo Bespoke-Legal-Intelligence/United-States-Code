@@ -6,11 +6,11 @@ On and after August 24, 1912 teachers in schools operated by the Bureau of India
 
 #### Amendments
 
-1957—Pub. L. 85–89 substituted “Teachers in schools operated by the Bureau of Indian Affairs” for “Teachers of the Indian schools and physicians of the Indian Service”.
+<b>1957</b>—Pub. L. 85–89 substituted “Teachers in schools operated by the Bureau of Indian Affairs” for “Teachers of the Indian schools and physicians of the Indian Service”.
 
-1928—Act May 8, 1928, made section applicable to physicians of the Indian Service.
+<b>1928</b>—Act May 8, 1928, made section applicable to physicians of the Indian Service.
 
-1922—Act Aug. 24, 1922, increased educational leave allowance from 15 to 30 days.
+<b>1922</b>—Act Aug. 24, 1922, increased educational leave allowance from 15 to 30 days.
 
 #### Transfer of Functions
 

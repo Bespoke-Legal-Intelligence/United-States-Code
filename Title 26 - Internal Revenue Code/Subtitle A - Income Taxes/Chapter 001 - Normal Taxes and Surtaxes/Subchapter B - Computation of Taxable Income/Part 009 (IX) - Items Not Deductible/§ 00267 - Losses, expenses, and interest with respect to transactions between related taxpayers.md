@@ -78,7 +78,7 @@ For purposes of determining, in applying subsection (b), the ownership of stock�
 
 &emsp;(4) The family of an individual shall include only his brothers and sisters (whether by the whole or half blood), spouse, ancestors, and lineal descendants; and
 
-&emsp;(5) Stock constructively owned by a person by reason of the application of paragraph (1) shall, for the purpose of applying paragraph\(1), (2), or (3), be treated as actually owned by such person, but stock constructively owned by an individual by reason of the application of paragraph (2) or (3) shall not be treated as owned by him for the purpose of again applying either of such paragraphs in order to make another the constructive owner of such stock.
+&emsp;(5) Stock constructively owned by a person by reason of the application of paragraph (1) shall, for the purpose of applying paragraph (1), (2), or (3), be treated as actually owned by such person, but stock constructively owned by an individual by reason of the application of paragraph (2) or (3) shall not be treated as owned by him for the purpose of again applying either of such paragraphs in order to make another the constructive owner of such stock.
 
 #### (d) Amount of gain where loss previously disallowed
 
@@ -210,6 +210,14 @@ If—
 
 &emsp;&emsp;To the extent provided in regulations, subsection (a)(1) shall not apply to any loss sustained by a member of a controlled group on the repayment of a loan made to another member of such group if such loan is payable in a foreign currency or is denominated in such a currency and such loss is attributable to a reduction in value of such foreign currency.
 
+#### (D) Redemptions by fund-of-funds regulated investment companies
+
+&emsp;&emsp;Except to the extent provided in regulations prescribed by the Secretary, subsection (a)(1) shall not apply to any distribution in redemption of stock of a regulated investment company if—
+
+&emsp;&emsp;&emsp;(i) such company issues only stock which is redeemable upon the demand of the stockholder, and
+
+&emsp;&emsp;&emsp;(ii) such redemption is upon the demand of another regulated investment company.
+
 #### (4) Determination of relationship resulting in disallowance of loss, for purposes of other provisions
 
 &emsp;For purposes of any other section of this title which refers to a relationship which would result in a disallowance of losses under this section, deferral under paragraph (2) shall be treated as disallowance.
@@ -218,7 +226,7 @@ If—
 
 Subsection (a)(1) shall not apply to any transfer described in section 1041(a) (relating to transfers of property between spouses or incident to divorce).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 78; Pub. L. 95–628, §2(a), Nov. 10, 1978, 92 Stat. 3627; Pub. L. 97–354, §3(h), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 98–369, div. A, title I, §174(a)–(b)(4), title VII, §721(s), July 18, 1984, 98 Stat. 704–707, 970; Pub. L. 99–514, title VIII, §§803(b)(5), 806(c)(2), title XVIII, §§1812(c)(1), (2), (3)(C), (4)(A), 1842(a), Oct. 22, 1986, 100 Stat. 2356, 2364, 2834, 2835, 2852; Pub. L. 100–647, title I, §§1006(e)(9), 1008(e)(6), Nov. 10, 1988, 102 Stat. 3401, 3441; Pub. L. 105–34, title XIII, §1308(a), title XVI, §1604(e)(1), Aug. 5, 1997, 111 Stat. 1041, 1098; Pub. L. 106–170, title V, §532(c)(2)(C), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title VIII, §841(b), Oct. 22, 2004, 118 Stat. 1598.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 78; Pub. L. 95–628, §2(a), Nov. 10, 1978, 92 Stat. 3627; Pub. L. 97–354, §3(h), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 98–369, div. A, title I, §174(a)–(b)(4), title VII, §721(s), July 18, 1984, 98 Stat. 704–707, 970; Pub. L. 99–514, title VIII, §§803(b)(5), 806(c)(2), title XVIII, §§1812(c)(1), (2), (3)(C), (4)(A), 1842(a), Oct. 22, 1986, 100 Stat. 2356, 2364, 2834, 2835, 2852; Pub. L. 100–647, title I, §§1006(e)(9), 1008(e)(6), Nov. 10, 1988, 102 Stat. 3401, 3441; Pub. L. 105–34, title XIII, §1308(a), title XVI, §1604(e)(1), Aug. 5, 1997, 111 Stat. 1041, 1098; Pub. L. 106–170, title V, §532(c)(2)(C), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title VIII, §841(b), Oct. 22, 2004, 118 Stat. 1598; Pub. L. 111–325, title III, §306(b), Dec. 22, 2010, 124 Stat. 3549.)
 
 #### References in Text
 
@@ -226,19 +234,21 @@ Sections 24(b) and 118 of the Internal Revenue Code of 1939, referred to in subs
 
 #### Amendments
 
-2004—Subsec. (a)(3). Pub. L. 108–357 designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+<b>2010</b>—Subsec. (f)(3)(D). Pub. L. 111–325 added subpar. (D).
 
-1999—Subsec. (f)(3)(B)(i), (iii). Pub. L. 106–170 substituted “1221(a)(1)” for “1221(1)”.
+<b>2004</b>—Subsec. (a)(3). Pub. L. 108–357 designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-1997—Subsec. (b)(13). Pub. L. 105–34, §1308(a), added par. (13).
+<b>1999</b>—Subsec. (f)(3)(B)(i), (iii). Pub. L. 106–170 substituted “1221(a)(1)” for “1221(1)”.
+
+<b>1997</b>—Subsec. (b)(13). Pub. L. 105–34, §1308(a), added par. (13).
 
 Subsec. (f)(4). Pub. L. 105–34, §1604(e)(1), added par. (4).
 
-1988—Subsec. (a)(1). Pub. L. 100–647, §1006(e)(9), struck out “(other than a loss in case of a distribution in corporate liquidation)” after “exchange of property” and inserted at end “The preceding sentence shall not apply to any loss of the distributing corporation (or the distributee) in the case of a distribution in complete liquidation.”
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–647, §1006(e)(9), struck out “(other than a loss in case of a distribution in corporate liquidation)” after “exchange of property” and inserted at end “The preceding sentence shall not apply to any loss of the distributing corporation (or the distributee) in the case of a distribution in complete liquidation.”
 
 Subsec. (a)(2). Pub. L. 100–647, §1008(e)(6), made technical correction to directory language of Pub. L. 99–514, §806(c)(2), see 1986 Amendment note below.
 
-1986—Subsec. (a)(2). Pub. L. 99–514, §806(c)(2), as amended by Pub. L. 100–647, §1008(e)(6), inserted at end “For purposes of this paragraph, in the case of a personal service corporation (within the meaning of section 441(i)(2)), such corporation and any employee-owner (within the meaning of section 269A(b)(2), as modified by section 441(i)(2)) shall be treated as persons specified in subsection (b).”
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514, §806(c)(2), as amended by Pub. L. 100–647, §1008(e)(6), inserted at end “For purposes of this paragraph, in the case of a personal service corporation (within the meaning of section 441(i)(2)), such corporation and any employee-owner (within the meaning of section 269A(b)(2), as modified by section 441(i)(2)) shall be treated as persons specified in subsection (b).”
 
 Subsec. (a)(3). Pub. L. 99–514, §1812(c)(1), added par. (3).
 
@@ -252,7 +262,7 @@ Subsec. (f)(3)(B). Pub. L. 99–514, §1812(c)(2), inserted “(or persons descr
 
 Subsec. (g). Pub. L. 99–514, §1842(a), added subsec. (g).
 
-1984—Subsec. (a). Pub. L. 98–369, §174(a), amended subsec. (a) generally, substituting “In general” for “Deduction disallowed” in heading, “Deduction for losses disallowed” for “Losses” in par. (1) heading, and provisions dealing with matching of deduction and payee income item in the case of expenses and interest for provisions dealing with unpaid expenses and interest in par. (2).
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §174(a), amended subsec. (a) generally, substituting “In general” for “Deduction disallowed” in heading, “Deduction for losses disallowed” for “Losses” in par. (1) heading, and provisions dealing with matching of deduction and payee income item in the case of expenses and interest for provisions dealing with unpaid expenses and interest in par. (2).
 
 Subsec. (b)(3). Pub. L. 98–369, §174(b)(2)(A), substituted “Two corporations which are members of the same controlled group (as defined in subsection (f))” for “Two corporations more than 50 percent in value of the outstanding stock of each of which is owned, directly or indirectly, by or for the same individual, if either one of such corporations, with respect to the taxable year of the corporation preceding the date of the sale or exchange was, under the law applicable to such taxable year, a personal holding company or a foreign personal holding company”.
 
@@ -270,11 +280,15 @@ Pub. L. 98–369, §174(b)(1), struck out subsec. (f) which related to special r
 
 Pub. L. 98–369, §721(s), in closing provision of par. (1) substituted “then any deduction allowable under such sections in respect of such amount shall be allowable as of the day as of which such payment is includible in the gross income of the person to whom the payment is made (or, if later, as of the day on which it would be so allowable but for this paragraph)” for “then no deduction shall be allowed in respect of expenses otherwise deductible under section 162 or 212, or of interest otherwise deductible under section 163, before the day as of which the amount thereof is includible in the gross income of the person to whom the payment is made”.
 
-1982—Subsec. (b)(10) to (12). Pub. L. 97–354, §3(h)(1), (3), added pars. (10) to (12).
+<b>1982</b>—Subsec. (b)(10) to (12). Pub. L. 97–354, §3(h)(1), (3), added pars. (10) to (12).
 
 Subsec. (f). Pub. L. 97–354, §3(h)(2), added subsec. (f).
 
-1978—Subsec. (e). Pub. L. 95–628 added subsec. (e).
+<b>1978</b>—Subsec. (e). Pub. L. 95–628 added subsec. (e).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–325, title III, §306(c), Dec. 22, 2010, 124 Stat. 3550, provided that: “The amendments made by this section \[amending this section and section 302 of this title\] shall apply to distributions after the date of the enactment of this Act \[Dec. 22, 2010\].”
 
 #### Effective Date of 2004 Amendment
 

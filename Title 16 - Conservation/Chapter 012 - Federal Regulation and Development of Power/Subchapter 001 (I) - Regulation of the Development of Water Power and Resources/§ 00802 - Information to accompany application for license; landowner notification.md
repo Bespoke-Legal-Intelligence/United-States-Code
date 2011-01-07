@@ -22,7 +22,7 @@ Former subsec. (c), included in the provisions designated as subsec. (a) by Pub.
 
 #### Amendments
 
-1986—Pub. L. 99–495 designated existing provisions as subsec. (a), redesignated former subsecs. (a) and (b) as pars. (1) and (2) of subsec. (a), and added subsec. (b).
+<b>1986</b>—Pub. L. 99–495 designated existing provisions as subsec. (a), redesignated former subsecs. (a) and (b) as pars. (1) and (2) of subsec. (a), and added subsec. (b).
 
 #### Effective Date of 1986 Amendment
 

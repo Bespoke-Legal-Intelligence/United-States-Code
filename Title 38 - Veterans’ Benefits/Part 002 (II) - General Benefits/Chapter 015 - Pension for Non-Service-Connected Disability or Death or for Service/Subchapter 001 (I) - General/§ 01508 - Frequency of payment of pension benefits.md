@@ -22,7 +22,7 @@ Another prior section 1510, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1173; Pub.
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 508 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 508 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “1521, 1541, and 1542” for “521, 541, and 542”.
 

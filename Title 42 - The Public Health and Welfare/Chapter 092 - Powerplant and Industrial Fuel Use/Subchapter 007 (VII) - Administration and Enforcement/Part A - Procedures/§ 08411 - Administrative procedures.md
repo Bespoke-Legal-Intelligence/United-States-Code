@@ -56,13 +56,15 @@ A copy of any proposed rule or order to be prescribed or issued by the Secretary
 
 #### References in Text
 
-The Clean Air Act, referred to in subsec. (f), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+This chapter, referred to in subsecs. (a) to (c)(1), (d)(1), (f), and (h)(1), (3), was in the original “this Act”, meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
-The Department of Energy Organization Act, referred to in subsec. (h)(1), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 567, as amended. Title V of the Department of Energy Organization Act is classified generally to subchapter V (§7191 et seq.) of chapter 84 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+The Clean Air Act, referred to in subsec. (f), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+
+The Department of Energy Organization Act, referred to in subsec. (h)(1), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 567. Title V of the Department of Energy Organization Act is classified generally to subchapter V (§7191 et seq.) of chapter 84 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 #### Amendments
 
-1987—Subsec. (b). Pub. L. 100–42, §1(c)(16)(A), struck out “(other than under section 8372 of this title)” after “this chapter” and “or installation” after “powerplant”.
+<b>1987</b>—Subsec. (b). Pub. L. 100–42, §1(c)(16)(A), struck out “(other than under section 8372 of this title)” after “this chapter” and “or installation” after “powerplant”.
 
 Subsec. (c)(1). Pub. L. 100–42, §1(c)(16)(B)(i), (ii), struck out “or for any permit under section 8375 of this title” after “this chapter” and “or permit” after “such exemption”.
 

@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;A negotiated rulemaking committee established pursuant to section 565 of title 5 to carry out this section shall have as its members only Federal and tribal government representatives, a majority of whom shall be nominated by and be representatives of Indian tribes with funding agreements under this subchapter.
+&emsp;A negotiated rulemaking committee established pursuant to section 565 of title 5 tocarry out this section shall have as its members only Federal and tribal government representatives, a majority of whom shall be nominated by and be representatives of Indian tribes with funding agreements under this subchapter.
 
 #### (2) Requirements
 
@@ -34,7 +34,7 @@ The lack of promulgated regulations shall not limit the effect of this part.
 
 #### (e) Effect of circulars, policies, manuals, guidances, and rules
 
-Unless expressly agreed to by the participating Indian tribe in the compact or funding agreement, the participating Indian tribe shall not be subject to any agency circular, policy, manual, guidance, or rule adopted by the IndianHealth Service, except for the eligibility provisions of section 450j(g) of this title and regulations promulgated under this section.
+Unless expressly agreed to by the participating Indian tribe in the compact or funding agreement, the participating Indian tribe shall not be subject to any agency circular, policy, manual, guidance, or rule adopted by the Indian Health Service, except for the eligibility provisions of section 450j(g) of this title and regulations promulgated under this section.
 
 (Pub. L. 93–638, title V, §517, as added Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 730.)
 

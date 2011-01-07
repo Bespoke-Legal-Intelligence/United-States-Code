@@ -168,6 +168,14 @@ For purposes of this section, an individual is employed in an area of national n
 
 &emsp;The individual is an occupational therapist and is employed full-time providing occupational therapy services to children, adolescents, or veterans.
 
+#### (18) Allied health professionals
+
+&emsp;The individual is employed full-time as an allied health professional—
+
+&emsp;&emsp;(A) in a Federal, State, local, or tribal public health agency; or
+
+&emsp;&emsp;(B) in a setting where patients might require health care services, including acute care facilities, ambulatory care facilities, personal residences and other settings located in health professional shortage areas, medically underserved areas, or medically underserved populations, as recognized by the Secretary of Health and Human Services.
+
 #### (c) Qualified loan amount
 
 #### (1) In general
@@ -194,7 +202,15 @@ No borrower may, for the same service, receive a reduction of loan obligations u
 
 In this section:
 
-#### (1) Audiologist
+#### (1) Allied health professional
+
+&emsp;The term “allied health professional” means an allied health professional as defined in section 295p(5) of title 42 who—
+
+&emsp;&emsp;(A) has graduated and received an allied health professions degree or certificate from an institution of higher education; and
+
+&emsp;&emsp;(B) is employed with a Federal, State, local or tribal public health agency, or in a setting where patients might require health care services, including acute care facilities, ambulatory care facilities, personal residences and other settings located in health professional shortage areas, medically underserved areas, or medically underserved populations, as recognized by the Secretary of Health and Human Services.
+
+#### (2) Audiologist
 
 &emsp;The term “audiologist” means an individual who—
 
@@ -204,7 +220,7 @@ In this section:
 
 &emsp;&emsp;(ii) meets or exceeds the qualifications for a qualified audiologist under subsection (<i>ll</i>)(4) of such section.
 
-#### (2) Early childhood educator
+#### (3) Early childhood educator
 
 &emsp;The term “early childhood educator” means an individual who—
 
@@ -214,7 +230,7 @@ In this section:
 
 &emsp;&emsp;(C) has completed a baccalaureate or advanced degree in early childhood development or early childhood education, or in a field related to early childhood education.
 
-#### (3) Eligible preschool program
+#### (4) Eligible preschool program
 
 &emsp;The term “eligible preschool program” means a program that—
 
@@ -232,7 +248,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iv) a child care program, including a home.
 
-#### (4) Eligible early childhood education program
+#### (5) Eligible early childhood education program
 
 &emsp;The term “eligible early childhood education program” means—
 
@@ -246,7 +262,7 @@ In this section:
 
 &emsp;&emsp;(C) an Early Head Start Program carried out under section 645A of the Head Start Act (42 U.S.C. 9840a).
 
-#### (5) Low-income community
+#### (6) Low-income community
 
 &emsp;The term “low-income community” means a school attendance area (as defined in section 6313(a)(2)(A) of this title)—
 
@@ -254,7 +270,7 @@ In this section:
 
 &emsp;&emsp;(B) that includes a school that qualifies under section 1087ee(a)(2)(A) of this title for loan cancellation for Perkins loan recipients who teach in such a school.
 
-#### (6) Nurse
+#### (7) Nurse
 
 &emsp;The term “nurse” means a nurse who meets all of the following:
 
@@ -278,7 +294,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iv) A nursing degree from a diploma school of nursing (as defined in such section).
 
-#### (7) Occupational therapist
+#### (8) Occupational therapist
 
 &emsp;The term “occupational therapist” means an individual who—
 
@@ -288,7 +304,7 @@ In this section:
 
 &emsp;&emsp;(ii) meets or exceeds the qualifications for a qualified occupational therapist, as determined by State law.
 
-#### (8) Physical therapist
+#### (9) Physical therapist
 
 &emsp;The term “physical therapist” means an individual who—
 
@@ -298,7 +314,7 @@ In this section:
 
 &emsp;&emsp;(ii) meets or exceeds the qualifications for a qualified physical therapist, as determined by State law.
 
-#### (9) Speech-language pathologist
+#### (10) Speech-language pathologist
 
 &emsp;The term “speech-language pathologist” means a speech-language pathologist who—
 
@@ -310,17 +326,21 @@ In this section:
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years to provide loan forgiveness in accordance with this section.
 
-(Pub. L. 89–329, title IV, §428K, as added Pub. L. 105–244, title IV, §425, Oct. 7, 1998, 112 Stat. 1699; amended Pub. L. 110–315, title IV, §430, Aug. 14, 2008, 122 Stat. 3236; Pub. L. 111–39, title IV, §402(f)(7), July 1, 2009, 123 Stat. 1944.)
+(Pub. L. 89–329, title IV, §428K, as added Pub. L. 105–244, title IV, §425, Oct. 7, 1998, 112 Stat. 1699; amended Pub. L. 110–315, title IV, §430, Aug. 14, 2008, 122 Stat. 3236; Pub. L. 111–39, title IV, §402(f)(7), July 1, 2009, 123 Stat. 1944; Pub. L. 111–148, title V, §5205(b), Mar. 23, 2010, 124 Stat. 611.)
 
 #### References in Text
 
-The Head Start Act, referred to in subsec. (g)(3)(C)(ii), (4)(B), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+The Head Start Act, referred to in subsec. (g)(4)(C)(ii), (5)(B), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
 #### Amendments
 
-2009—Subsec. (g)(9)(B). Pub. L. 111–39 substituted “under subsection (<i>ll</i>)(4) of such section” for “under subsection (<i>ll</i>)(3) of such section”.
+<b>2010</b>—Subsec. (b)(18). Pub. L. 111–148, §5205(b)(1), added par. (18).
 
-2008—Pub. L. 110–315 amended section generally. Prior to amendment, section related to loan forgiveness for child care providers.
+Subsec. (g). Pub. L. 111–148, §5205(b)(2), added par. (1) and redesignated former pars. (1) to (9) as (2) to (10), respectively.
+
+<b>2009</b>—Subsec. (g)(9)(B). Pub. L. 111–39 substituted “under subsection (<i>ll</i>)(4) of such section” for “under subsection (<i>ll</i>)(3) of such section”.
+
+<b>2008</b>—Pub. L. 110–315 amended section generally. Prior to amendment, section related to loan forgiveness for child care providers.
 
 #### Effective Date of 2009 Amendment
 
@@ -329,4 +349,10 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 #### Effective Date
 
 Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
+
+#### Allied Health Workforce Recruitment and Retention Programs
+
+Pub. L. 111–148, title V, §5205(a), Mar. 23, 2010, 124 Stat. 611, provided that: “The purpose of this section \[amending this section\] is to assure an adequate supply of allied health professionals to eliminate critical allied health workforce shortages in Federal, State, local, and tribal public health agencies or in settings where patients might require health care services, including acute care facilities, ambulatory care facilities, personal residences and other settings, as recognized by the Secretary of Health and Human Services by authorizing an Allied Health Loan Forgiveness Program.”
+
+\[For definition of “Allied Health Loan Forgiveness Program” as used in section 5205(a) of Pub. L. 111–148, set out above, see section 5002(a) of Pub. L. 111–148, set out as a note under section 294q of Title 42, The Public Health and Welfare.\]
 

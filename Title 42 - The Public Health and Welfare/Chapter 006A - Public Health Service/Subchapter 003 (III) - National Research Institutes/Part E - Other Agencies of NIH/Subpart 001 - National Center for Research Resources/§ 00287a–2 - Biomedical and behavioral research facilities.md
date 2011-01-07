@@ -30,7 +30,7 @@
 
 #### (B) Determination of merit
 
-&emsp;&emsp;In carrying out subparagraph (A), the Board shall make a determination of the merit of each application submitted for a grant under subsection (a) of this section, after consideration of the requirements established in subsection (c) of this section, and shall report the results of the determination to the Director of the Center and the Advisory Council. Such determinations shall be conducted in a manner consistent with procedures established under section 289a of this title.
+&emsp;&emsp;In carrying out subparagraph (A), the Board shall make a determination of the merit of each application submitted for a grant under subsection (a) of this section, after consideration of the requirements established in subsection (c) of this section, and shall report the results of the determination to the Director of the Center and the Advisory Council. Such determinations shall be conducted in a manner consistentwith procedures established under section 289a of this title.
 
 #### (C) Amount
 
@@ -196,13 +196,13 @@ Section 293c of this title, referred to in subsec. (c)(2)(D)(i), does not contai
 
 #### Amendments
 
-2007—Subsec. (c)(2). Pub. L. 109–482, §103(b)(40)(A), in introductory provisions, substituted “to carry out this section for a fiscal year up to” for “under subsection (i)(1) of this section for a fiscal year up to” and “to carry out this section for a fiscal year that” for “under such subsection for a fiscal year that”.
+<b>2007</b>—Subsec. (c)(2). Pub. L. 109–482, §103(b)(40)(A), in introductory provisions, substituted “to carry out this section for a fiscal year up to” for “under subsection (i)(1) of this section for a fiscal year up to” and “to carry out this section for a fiscal year that” for “under such subsection for a fiscal year that”.
 
 Subsec. (h). Pub. L. 109–482, §104(b)(1)(M), struck out subsec. (h) which required biennial report concerning the status of biomedical and behavioral research facilities and the availability and condition of laboratory equipment.
 
 Subsec. (i). Pub. L. 109–482, §103(b)(40)(B), struck out subsec. (i) which authorized appropriations for the National Center for Research Resources and the National Institute of Allergy and Infectious Diseases.
 
-2004—Subsec. (a)(1). Pub. L. 108–276, §2(b)(1), inserted “or the Director of the National Institute of Allergy and Infectious Diseases” after “Director of the Center”.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–276, §2(b)(1), inserted “or the Director of the National Institute of Allergy and Infectious Diseases” after “Director of the Center”.
 
 Subsec. (c)(1). Pub. L. 108–276, §2(b)(2)(A), inserted “or the Director of the National Institute of Allergy and Infectious Diseases” after “Director of the Center”.
 
@@ -226,9 +226,9 @@ Subsec. (f)(2). Pub. L. 108–276, §2(b)(5)(B), inserted “of the Center or th
 
 Subsec. (i). Pub. L. 108–276, §2(b)(6), designated existing provisions as par. (1), inserted heading, substituted “For the purpose of carrying out this section with respect to the Center,” for “For the purpose of carrying out this section,”, and added par. (2).
 
-2000—Pub. L. 106–505 amended section generally, adding provisions requiring the Director to provide Congress with biennial status reports.
+<b>2000</b>—Pub. L. 106–505 amended section generally, adding provisions requiring the Director to provide Congress with biennial status reports.
 
-1998—Subsec. (c)(3)(D)(i). Pub. L. 105–392 substituted “part B of subchapter V of this chapter” for “section 293c of this title”.
+<b>1998</b>—Subsec. (c)(3)(D)(i). Pub. L. 105–392 substituted “part B of subchapter V of this chapter” for “section 293c of this title”.
 
 #### Effective Date of 2007 Amendment
 

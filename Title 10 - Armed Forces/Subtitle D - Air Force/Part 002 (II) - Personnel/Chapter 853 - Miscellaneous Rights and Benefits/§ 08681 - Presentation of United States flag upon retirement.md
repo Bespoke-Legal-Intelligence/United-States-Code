@@ -20,9 +20,9 @@ A prior section 8681, act Aug. 10, 1956, ch. 1041, 70A Stat. 534, prescribed ser
 
 #### Amendments
 
-1999—Subsec. (b). Pub. L. 106–65 substituted “under this section or any other provision of law providing for the presentation of a United States flag incident to release from active service for retirement.” for “under this section or section 3681 or 6141 of this title or section 516 of title 14.”
+<b>1999</b>—Subsec. (b). Pub. L. 106–65 substituted “under this section or any other provision of law providing for the presentation of a United States flag incident to release from active service for retirement.” for “under this section or section 3681 or 6141 of this title or section 516 of title 14.”
 
 #### Effective Date
 
-Section applicable with respect to releases from active duty described in this section, sections 3681 and 6141 of this title, and section 516 of Title 14, Coast Guard, on or after Oct. 1, 1998, see section 644(e) of Pub. L. 105–261, set out as a note under section 3681 of this title.
+Section applicable with respect to releases from active duty described in this section, sections 3681 and6141 of this title, and section 516 of Title 14, Coast Guard, on or after Oct. 1, 1998, see section 644(e) of Pub. L. 105–261, set out as a note under section 3681 of this title.
 

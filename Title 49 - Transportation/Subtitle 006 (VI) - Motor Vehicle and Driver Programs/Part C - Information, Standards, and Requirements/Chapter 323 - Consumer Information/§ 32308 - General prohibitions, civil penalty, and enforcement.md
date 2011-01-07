@@ -88,7 +88,7 @@ Subsection (d) is substituted for 15:1947 (last sentence) and 1948(c) for clarit
 
 #### Amendments
 
-2007—Subsecs. (c) to (e). Pub. L. 110–140 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+<b>2007</b>—Subsecs. (c) to (e). Pub. L. 110–140 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
 #### Effective Date of 2007 Amendment
 

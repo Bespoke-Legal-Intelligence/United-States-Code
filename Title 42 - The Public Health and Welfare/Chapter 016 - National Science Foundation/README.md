@@ -45,6 +45,22 @@
 | 1862<i>o</i>–13. | Professional science master's degree programs. |
 | 1862<i>o</i>–14. | Major research instrumentation. |
 | 1862<i>o</i>–15. | Limit on proposals. |
+| [1862p.](%C2%A7%2001862p%20-%20National%20Center%20for%20Science%20and%20Engineering%20Statistics.md) | National Center for Science and Engineering Statistics. |
+| 1862p–1. | National Science Foundation manufacturing research and education. |
+| 1862p–2. | Partnerships for innovation. |
+| 1862p–3. | Sustainable chemistry basic research. |
+| 1862p–4. | Undergraduate broadening participation program. |
+| 1862p–5. | Research experiences for high school students. |
+| 1862p–6. | Research experiences for undergraduates. |
+| 1862p–7. | STEM industry internship programs. |
+| 1862p–8. | Cyber-enabled learning for national challenges. |
+| 1862p–9. | Experimental Program to Stimulate Competitive Research. |
+| 1862p–10. | Academic technology transfer and commercialization of university research. |
+| 1862p–11. | NSF grants in support of sponsored post-doctoral fellowship programs. |
+| 1862p–12. | Cloud computing research enhancement. |
+| 1862p–13. | Tribal colleges and universities program. |
+| 1862p–14. | Broader Impacts Review Criterion. |
+| 1862p–15. | Twenty-first century graduate education. |
 | [1863\.](%C2%A7%2001863%20-%20National%20Science%20Board.md) | National Science Board. |
 | [1864\.](%C2%A7%2001864%20-%20Director%20of%20Foundation.md) | Director of Foundation. |
 | [1864a.](%C2%A7%2001864a%20-%20Deputy%20Director%20of%20the%20Foundation.md) | Deputy Director of the Foundation. |
@@ -79,6 +95,7 @@
 | [1885c.](%C2%A7%2001885c%20-%20Committee%20on%20Equal%20Opportunities%20in%20Science%20and%20Engineering.md) | Committee on Equal Opportunities in Science and Engineering. |
 | [1885d.](%C2%A7%2001885d%20-%20Biennial%20reports.md) | Biennial reports. |
 | [1886\.](%C2%A7%2001886%20-%20Data%20collection%20and%20analysis.md) | Data collection and analysis. |
+| [1886a.](%C2%A7%2001886a%20-%20Data%20on%20specific%20fields%20of%20study.md) | Data on specific fields of study. |
 | [1887\.](%C2%A7%2001887%20-%20Indemnification%20of%20grantees%2C%20contractors%2C%20and%20subcontractors%20under%20ocean%20drilling%20program%3B%20approvals%20and%20certifications%20by%20Director.md) | Indemnification of grantees, contractors, and subcontractors under ocean drilling program; approvals and certifications by Director. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -131,6 +148,22 @@
 - [&sect; 01862o&#8211;13 - Professional science master's degree programs](%C2%A7%2001862o%E2%80%9313%20-%20Professional%20science%20master%27s%20degree%20programs.md)
 - [&sect; 01862o&#8211;14 - Major research instrumentation](%C2%A7%2001862o%E2%80%9314%20-%20Major%20research%20instrumentation.md)
 - [&sect; 01862o&#8211;15 - Limit on proposals](%C2%A7%2001862o%E2%80%9315%20-%20Limit%20on%20proposals.md)
+- [&sect; 01862p - National Center for Science and Engineering Statistics](%C2%A7%2001862p%20-%20National%20Center%20for%20Science%20and%20Engineering%20Statistics.md)
+- [&sect; 01862p&#8211;1 - National Science Foundation manufacturing research and education](%C2%A7%2001862p%E2%80%931%20-%20National%20Science%20Foundation%20manufacturing%20research%20and%20education.md)
+- [&sect; 01862p&#8211;2 - Partnerships for innovation](%C2%A7%2001862p%E2%80%932%20-%20Partnerships%20for%20innovation.md)
+- [&sect; 01862p&#8211;3 - Sustainable chemistry basic research](%C2%A7%2001862p%E2%80%933%20-%20Sustainable%20chemistry%20basic%20research.md)
+- [&sect; 01862p&#8211;4 - Undergraduate broadening participation program](%C2%A7%2001862p%E2%80%934%20-%20Undergraduate%20broadening%20participation%20program.md)
+- [&sect; 01862p&#8211;5 - Research experiences for high school students](%C2%A7%2001862p%E2%80%935%20-%20Research%20experiences%20for%20high%20school%20students.md)
+- [&sect; 01862p&#8211;6 - Research experiences for undergraduates](%C2%A7%2001862p%E2%80%936%20-%20Research%20experiences%20for%20undergraduates.md)
+- [&sect; 01862p&#8211;7 - STEM industry internship programs](%C2%A7%2001862p%E2%80%937%20-%20STEM%20industry%20internship%20programs.md)
+- [&sect; 01862p&#8211;8 - Cyber-enabled learning for national challenges](%C2%A7%2001862p%E2%80%938%20-%20Cyber-enabled%20learning%20for%20national%20challenges.md)
+- [&sect; 01862p&#8211;9 - Experimental Program to Stimulate Competitive Research](%C2%A7%2001862p%E2%80%939%20-%20Experimental%20Program%20to%20Stimulate%20Competitive%20Research.md)
+- [&sect; 01862p&#8211;10 - Academic technology transfer and commercialization of university research](%C2%A7%2001862p%E2%80%9310%20-%20Academic%20technology%20transfer%20and%20commercialization%20of%20university%20research.md)
+- [&sect; 01862p&#8211;11 - NSF grants in support of sponsored post-doctoral fellowship programs](%C2%A7%2001862p%E2%80%9311%20-%20NSF%20grants%20in%20support%20of%20sponsored%20post-doctoral%20fellowship%20programs.md)
+- [&sect; 01862p&#8211;12 - Cloud computing research enhancement](%C2%A7%2001862p%E2%80%9312%20-%20Cloud%20computing%20research%20enhancement.md)
+- [&sect; 01862p&#8211;13 - Tribal colleges and universities program](%C2%A7%2001862p%E2%80%9313%20-%20Tribal%20colleges%20and%20universities%20program.md)
+- [&sect; 01862p&#8211;14 - Broader Impacts Review Criterion](%C2%A7%2001862p%E2%80%9314%20-%20Broader%20Impacts%20Review%20Criterion.md)
+- [&sect; 01862p&#8211;15 - Twenty-first century graduate education](%C2%A7%2001862p%E2%80%9315%20-%20Twenty-first%20century%20graduate%20education.md)
 - [&sect; 01863 - National Science Board](%C2%A7%2001863%20-%20National%20Science%20Board.md)
 - [&sect; 01864 - Director of Foundation](%C2%A7%2001864%20-%20Director%20of%20Foundation.md)
 - [&sect; 01864a - Deputy Director of the Foundation](%C2%A7%2001864a%20-%20Deputy%20Director%20of%20the%20Foundation.md)
@@ -165,4 +198,5 @@
 - [&sect; 01885c - Committee on Equal Opportunities in Science and Engineering](%C2%A7%2001885c%20-%20Committee%20on%20Equal%20Opportunities%20in%20Science%20and%20Engineering.md)
 - [&sect; 01885d - Biennial reports](%C2%A7%2001885d%20-%20Biennial%20reports.md)
 - [&sect; 01886 - Data collection and analysis](%C2%A7%2001886%20-%20Data%20collection%20and%20analysis.md)
+- [&sect; 01886a - Data on specific fields of study](%C2%A7%2001886a%20-%20Data%20on%20specific%20fields%20of%20study.md)
 - [&sect; 01887 - Indemnification of grantees, contractors, and subcontractors under ocean drilling program; approvals and certifications by Director](%C2%A7%2001887%20-%20Indemnification%20of%20grantees%2C%20contractors%2C%20and%20subcontractors%20under%20ocean%20drilling%20program%3B%20approvals%20and%20certifications%20by%20Director.md)

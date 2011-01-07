@@ -12,5 +12,5 @@ All persons undertaking as a matter of business or for profit the collection of 
 
 #### Amendments
 
-1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 

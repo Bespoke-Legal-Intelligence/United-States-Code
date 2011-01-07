@@ -30,23 +30,23 @@ The representatives of the United States on the Fund and the Bank, and the Expor
 
 #### Amendments
 
-1989—Subsec. (b). Pub. L. 101–240 redesignated pars. (7) and (8) as (5) and (6), respectively, and struck out former pars. (5) and (6) which read as follows:
+<b>1989</b>—Subsec. (b). Pub. L. 101–240 redesignated pars. (7) and (8) as (5) and (6), respectively, and struck out former pars. (5) and (6) which read as follows:
 
 “(5) The Council shall transmit to the President and to the Congress an annual report with respect to the participation of the United States in the Fund and Bank.
 
 “(6) Each such report shall contain such data concerning the operations and policies of the Fund and Bank, such recommendations concerning the Fund and Bank, and such other data and material as the Council may deem appropriate.”
 
-1983—Subsec. (b)(8). Pub. L. 98–181 added par. (8).
+<b>1983</b>—Subsec. (b)(8). Pub. L. 98–181 added par. (8).
 
-1965—Subsec. (b)(5). Pub. L. 89–126 substituted provisions requiring an annual report, for provisions which required the Council to report from time to time, but not less frequently than every six months.
+<b>1965</b>—Subsec. (b)(5). Pub. L. 89–126 substituted provisions requiring an annual report, for provisions which required the Council to report from time to time, but not less frequently than every six months.
 
 Subsec. (b)(6). Pub. L. 89–126 struck out provisions which required special reports on operations and policies of the Fund and Bank and prescribed contents of such reports, and inserted provisions requiring the annual report to contain such data concerning the operations and policies of the Fund and Bank, such recommendations concerning the Fund and the Bank, and such other data and material as deemed appropriate.
 
-1954—Subsec. (a). Act Aug. 9, 1954, provided membership on Council for President of the Export-Import Bank of Washington.
+<b>1954</b>—Subsec. (a). Act Aug. 9, 1954, provided membership on Council for President of the Export-Import Bank of Washington.
 
-1951—Subsec. (a). Act Oct. 10, 1951, substituted “Mutual Security Agency” for “Economic Cooperation Administration”, and “Director for Mutual Security” for “Administrator for Economic Cooperation”.
+<b>1951</b>—Subsec. (a). Act Oct. 10, 1951, substituted “Mutual Security Agency” for “Economic Cooperation Administration”, and “Director for Mutual Security” for “Administrator for Economic Cooperation”.
 
-1948—Subsec. (a). Act Apr. 3, 1948, ch. 169, title I, §106, 62 Stat. 141, added Administrator for Economic Cooperation, during existence of the Administration, to membership of National Advisory Council.
+<b>1948</b>—Subsec. (a). Act Apr. 3, 1948, ch. 169, title I, §106, 62 Stat. 141, added Administrator for Economic Cooperation, during existence of the Administration, to membership of National Advisory Council.
 
 #### Change of Name
 
@@ -88,7 +88,7 @@ Sec. 2. <i>Functions of the Council</i>. (a) Exclusive of the functions delegate
 
 (c) The Council shall perform with respect to the Asian Development Bank, African Development Fund,, \[sic\] African Development Bank, Inter-American Investment Corporation, Multilateral Investment Guarantee Agency, and European Bank for Reconstruction and Development, the same functions as those delegated to it by subsections (a) and (b) of this section with respect to other international financial institutions.
 
-Sec. 3. <i>Functions of the Secretary of the Treasury</i>. (a) Functions which are now vested in the President inconsequence of their transfer to him effected by the provisions of Section 1(b) of Reorganization Plan No. 4 of 1965 are hereby delegated to the Secretary of the Treasury to the extent of the following:
+Sec. 3. <i>Functions of the Secretary of the Treasury</i>. (a) Functions which are now vested in the President in consequence of their transfer to him effected by the provisions of Section 1(b) of Reorganization Plan No. 4 of 1965 are hereby delegated to the Secretary of the Treasury to the extent of the following:
 
 (1) Authority, subject to the provisions of Section 7 of this Order, to instruct representatives of the United States to international financial organizations.
 

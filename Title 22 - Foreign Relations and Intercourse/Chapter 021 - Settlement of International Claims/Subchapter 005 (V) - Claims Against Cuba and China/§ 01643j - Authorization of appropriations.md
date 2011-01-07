@@ -6,5 +6,5 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 #### Amendments
 
-1965—Pub. L. 89–262 redesignated subsec. (a) as the complete section, struck out limitation of amount of appropriations to aggregate amount of net proceeds realized from sale or liquidation of property of Government of Cuba and use of funds to pay administrative expenses of the Treasury Department in carrying out its functions, and eliminated subsec. (b) providing for vesting and liquidation of Cuban property.
+<b>1965</b>—Pub. L. 89–262 redesignated subsec. (a) as the complete section, struck out limitation of amount of appropriations to aggregate amount of net proceeds realized from sale or liquidation of property of Government of Cuba and use of funds to pay administrative expenses of the Treasury Department in carrying out its functions, and eliminated subsec. (b) providing for vesting and liquidation of Cuban property.
 

@@ -6,7 +6,7 @@ In order to conserve, protect, and enhance the riparian and associated areas des
 
 #### (b) Areas included
 
-The conservation area shall consist of the public lands generally depicted on a map entitled “Gila Box Riparian National ConservationArea” dated February 1990, and comprising approximately 20,900 acres.
+The conservation area shall consist of the public lands generally depicted on a map entitled “Gila Box Riparian National Conservation Area” dated February 1990, and comprising approximately 20,900 acres.
 
 #### (c) Map
 
@@ -48,7 +48,7 @@ Subject to valid existing rights, all Federal lands within the conservation area
 
 (1) Subject to the limitations set forth in paragraph (3), the Secretary is authorized to acquire non-Federal lands or interests therein within the boundaries of the conservation area or within the Eagle Creek riparian area.
 
-(2) The Secretary is authorized to adjust the boundaries of the conservation area so as to incorporate within the conservation area any lands or interests within the Eagle Creek riparian area that may be acquired after November 28, 1990, as well as public lands within that portion of the Eagle Creek riparian area west of the centerline of Eagle Creek that the Secretary finds appropriate in order to properly managesuch acquired lands as part of the conservation area. Any lands or interests so incorporated shall be managed as part of the conservation area.
+(2) The Secretary is authorized to adjust the boundaries of the conservation area so as to incorporate within the conservation area any lands or interests within the Eagle Creek riparian area that may be acquired after November 28, 1990, as well as public lands within that portion of the Eagle Creek riparian area west of the centerline of Eagle Creek that the Secretary finds appropriate in order to properly manage such acquired lands as part of the conservation area. Any lands or interests so incorporated shall be managed as part of the conservation area.
 
 (3) No lands or interests therein owned by the State of Arizona or any political subdivision of such State shall be acquired pursuant to this subsection except through donation or exchange, and no lands or interests within the conservation area or the Eagle Creek riparian area shall be acquired from any other party or entity except by donation, exchange, or purchase with the consent of the owner of such lands or interests.
 
@@ -78,17 +78,11 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(1), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
-The public land laws, referred to in subsec. (e), are classified generally to Title 43.
-
-The United States mining laws and the mineral leasing laws, referred to in subsec. (e), are classified generally to Title 30, Mineral Lands and Mining.
-
-Geothermal leasing laws, referred to in subsec. (e), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
-
-The Sentencing Reform Act of 1984, referred to in subsec. (<i>l</i>), is chapter II (§§211–239) of Pub. L. 98–473, title II, Oct. 12, 1984, 98 Stat. 1987, as amended. For complete classification of chapter II to the Code, see Short Title note set out under section 3551 of Title 18, Crimes and Criminal Procedure, and Tables.
+The Sentencing Reform Act of 1984, referred to in subsec. (<i>l</i>), is chapter II (§§211–239) of Pub. L. 98–473, title II, Oct. 12, 1984, 98 Stat. 1987, as amended. Forcomplete classification of chapter II to the Code, see Short Title note set out under section 3551 of Title 18, Crimes and Criminal Procedure, and Tables.
 
 #### Amendments
 
-1994—Subsecs. (c), (k). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Subsecs. (c), (k). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
 #### Short Title
 

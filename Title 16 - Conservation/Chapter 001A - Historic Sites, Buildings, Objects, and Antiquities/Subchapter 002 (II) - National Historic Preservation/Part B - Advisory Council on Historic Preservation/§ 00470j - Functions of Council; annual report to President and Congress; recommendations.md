@@ -26,7 +26,7 @@ The Council shall submit annually a comprehensive report of its activities and t
 
 #### Amendments
 
-1980—Subsec. (a)(6), (7). Pub. L. 96–515, §301(g)(1), added pars. (6) and (7).
+<b>1980</b>—Subsec. (a)(6), (7). Pub. L. 96–515, §301(g)(1), added pars. (6) and (7).
 
 Subsec. (b). Pub. L. 96–515, §301(g)(2), inserted provision requiring in the Council's report an assessment of current and emerging problems in the field of historic preservation and an evaluation of the effectiveness of the programs of Federal agencies, State and local governments, and the private sector.
 

@@ -20,7 +20,7 @@
 
 (4) The Secretary concerned may not pay charges under paragraph (2) for tuition or expenses of an officer of the Individual Ready Reserve unless the officer enters into an agreement to remain in the Selected Reserve or Individual Ready Reserve for at least 4 years after completion of the education or training for which the charges are paid.
 
-(5) The Secretary of a military department may require an enlisted member of the Selected Reserve or Individual Ready Reserve to enter into an agreement to serve for up to 4 years in the Selected Reserve or Individual Ready Reserve, as the case may be, after completion of the education or training for which tuition or expenses are paid under paragraph (1) or (2), as applicable.
+(5) The Secretary of a military department may require an enlisted member of the SelectedReserve or Individual Ready Reserve to enter into an agreement to serve for up to 4 years in the Selected Reserve or Individual Ready Reserve, as the case may be, after completion of the education or training for which tuition or expenses are paid under paragraph (1) or (2), as applicable.
 
 (d)(1) A member of the armed forces who is entitled to basic educational assistance under chapter 30 of title 38 may use such entitlement for purposes of paying any portion of the charges described in subsection (a) or (c) that are not paid for by the Secretary of the military department concerned under such subsection.
 
@@ -102,7 +102,7 @@ June 30, 1954, ch. 432, title VII, §730, 68 Stat. 355.
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–181, §521(a), substituted “Subject to subsections (b) and (c), the Secretary concerned” for “Subject to subsection (b), the Secretary of a military department”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §521(a), substituted “Subject to subsections (b) and (c), the Secretary concerned” for “Subject to subsection (b), the Secretary of a military department”.
 
 Subsec. (b)(1). Pub. L. 110–181, §521(b)(1), struck out “or full-time National Guard duty” after “active duty” in two places, inserted “(other than a member of the Ready Reserve)” after “commissioned officer on active duty”, and substituted “the Secretary concerned” for “the Secretary of the military department”.
 
@@ -130,13 +130,13 @@ Subsec. (f). Pub. L. 110–181, §521(d), added subsec. (f).
 
 Pub. L. 110–181, §521(c)(2)(B), redesignated subsec. (f) as (e).
 
-2006—Subsec. (f). Pub. L. 109–163 added subsec. (f).
+<b>2006</b>—Subsec. (f). Pub. L. 109–163 added subsec. (f).
 
-2004—Subsec. (b). Pub. L. 108–375, §553(a), designated existing provisions as par. (1), inserted “or full-time National Guard duty” after “active duty” in two places, and added par. (2).
+<b>2004</b>—Subsec. (b). Pub. L. 108–375, §553(a), designated existing provisions as par. (1), inserted “or full-time National Guard duty” after “active duty” in two places, and added par. (2).
 
 Subsec. (c)(1). Pub. L. 108–375, §553(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to paragraphs (2) and (3), the Secretary of the Army may pay not more than 75 percent of the charges of an educational institution for the tuition or expenses of an officer in the Selected Reserve of the Army National Guard or the Army Reserve for education or training of such officer in a program leading to a baccalaureate degree.”
 
-2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(a)(1)\], added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary of a military department may not pay more than 75 percent of the charges of an educational institution for the tuition or expenses of a member of the armed forces enrolled in such institution for education or training during his off-duty periods, except that—
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(a)(1)\], added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary of a military department may not pay more than 75 percent of the charges of an educational institution for the tuition or expenses of a member of the armed forces enrolled in such institution for education or training during his off-duty periods, except that—
 
 &emsp;“(1) in the case of an enlisted member in the pay grade of E–5 or higher with less than 14 years’ service, not more than 90 percent of the charges may be paid;
 
@@ -154,15 +154,15 @@ Subsec. (d)(3). Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(a)(2)(B)\
 
 Subsec. (e). Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(b)(1)\], added subsec. (e).
 
-1999—Subsec. (a)(4). Pub. L. 106–65 added par. (4).
+<b>1999</b>—Subsec. (a)(4). Pub. L. 106–65 added par. (4).
 
-1993—Subsec. (d). Pub. L. 103–160 added subsec. (d).
+<b>1993</b>—Subsec. (d). Pub. L. 103–160 added subsec. (d).
 
-1990—Pub. L. 101–510 substituted “Payment” for “Limitation on payment” in section catchline.
+<b>1990</b>—Pub. L. 101–510 substituted “Payment” for “Limitation on payment” in section catchline.
 
-1987—Subsec. (c). Pub. L. 100–26 made technical amendment to directory language of Pub. L. 99–661, §651(a)(2). See 1986 Amendment note below.
+<b>1987</b>—Subsec. (c). Pub. L. 100–26 made technical amendment to directory language of Pub. L. 99–661, §651(a)(2). See 1986 Amendment note below.
 
-1986—Subsec. (a)(3). Pub. L. 99–661, §651(a)(1), inserted “on active duty”.
+<b>1986</b>—Subsec. (a)(3). Pub. L. 99–661, §651(a)(1), inserted “on active duty”.
 
 Subsec. (c). Pub. L. 99–661, §651(a)(2), as amended by Pub. L. 100–26, added subsec. (c).
 

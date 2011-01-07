@@ -10,11 +10,11 @@
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–446 added subsec. (c).
+<b>1994</b>—Subsec. (c). Pub. L. 103–446 added subsec. (c).
 
-1991—Pub. L. 102–40 renumbered section 3106 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 3106 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83 substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-1986—Subsec. (a). Pub. L. 99–576 substituted “the” for “his” before “right” in first sentence.
+<b>1986</b>—Subsec. (a). Pub. L. 99–576 substituted “the” for “his” before “right” in first sentence.
 

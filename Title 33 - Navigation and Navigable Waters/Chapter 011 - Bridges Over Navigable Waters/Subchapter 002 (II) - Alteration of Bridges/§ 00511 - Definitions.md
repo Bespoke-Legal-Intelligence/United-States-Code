@@ -16,11 +16,11 @@ The term “United States”, when used in a geographical sense, includes the Te
 
 #### Amendments
 
-1983—Pub. L. 97–449 substituted provision that the term “Secretary” means the Secretary of Transportation for provision that it meant the Secretary of War acting directly or through the Chief of Engineers.
+<b>1983</b>—Pub. L. 97–449 substituted provision that the term “Secretary” means the Secretary of Transportation for provision that it meant the Secretary of War acting directly or through the Chief of Engineers.
 
-1978—Pub. L. 95–598 substituted in definition of “bridge owner” the phrase “trustee in a case under title 11” for “trustee in bankruptcy”.
+<b>1978</b>—Pub. L. 95–598 substituted in definition of “bridge owner” the phrase “trustee in a case under title 11” for “trustee in bankruptcy”.
 
-1952—Act of July 16, 1952, redefined “bridge” and “bridge owner”.
+<b>1952</b>—Act of July 16, 1952, redefined “bridge” and “bridge owner”.
 
 #### Effective Date of 1978 Amendment
 

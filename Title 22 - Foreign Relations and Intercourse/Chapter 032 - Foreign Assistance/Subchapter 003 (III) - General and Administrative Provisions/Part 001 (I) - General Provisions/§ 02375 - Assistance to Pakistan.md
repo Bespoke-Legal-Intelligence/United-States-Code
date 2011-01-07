@@ -60,27 +60,27 @@ Amendment by Pub. L. 102–145 is based on section 572(a) of H.R. 2621, One Hund
 
 #### Amendments
 
-1996—Subsec. (e). Pub. L. 104–107, §559(a)(1), designated existing provisions as par. (1), substituted “military assistance” for “assistance” wherever appearing, and added par. (2).
+<b>1996</b>—Subsec. (e). Pub. L. 104–107, §559(a)(1), designated existing provisions as par. (1), substituted “military assistance” for “assistance” wherever appearing, and added par. (2).
 
 Subsecs. (f) to (h). Pub. L. 104–107, §559(a)(2), added subsecs. (f) to (h).
 
-1994—Subsec. (d). Pub. L. 103–236 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The President may waive the prohibitions of section 2429 of this title at any time during the period beginning on December 29, 1981, and ending on September 30, 1994, to provide assistance to Pakistan during that period if he determines that to do so is in the national interest of the United States.”
+<b>1994</b>—Subsec. (d). Pub. L. 103–236 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The President may waive the prohibitions of section 2429 of this title at any time during the period beginning on December 29, 1981, and ending on September 30, 1994, to provide assistance to Pakistan during that period if he determines that to do so is in the national interest of the United States.”
 
-1993—Subsec. (d). Pub. L. 103–87, which directed the substitution of “September 30, 1994” for the date specified in subsec. (d), was executed by substituting “September 30, 1994” for “September 30, 1993”. See 1992 Amendment note below.
+<b>1993</b>—Subsec. (d). Pub. L. 103–87, which directed the substitution of “September 30, 1994” for the date specified in subsec. (d), was executed by substituting “September 30, 1994” for “September 30, 1993”. See 1992 Amendment note below.
 
-1992—Subsec. (d). Pub. L. 102–391, which directed the substitution of “September 30, 1993” for the date specified in subsec. (d), was executed by substituting “September 30, 1993” for “April 1, 1993”. See 1991 Amendment note below.
+<b>1992</b>—Subsec. (d). Pub. L. 102–391, which directed the substitution of “September 30, 1993” for the date specified in subsec. (d), was executed by substituting “September 30, 1993” for “April 1, 1993”. See 1991 Amendment note below.
 
 Pub. L. 102–266 added Pub. L. 102–145, §118. See 1991 Amendment note below.
 
-1991—Subsec. (d). Pub. L. 102–145, §118, as added by Pub. L. 102–266, which directed the amendment of subsec. (d) by substituting “April 1, 1993” for “April 1, 1991” in lieu of amendment by Pub. L. 101–513, §574(a), was executed by substituting “April 1, 1993” for “April 1, 1992” to reflect the probable intent of Congress. See Codification note above and 1990 Amendment note below.
+<b>1991</b>—Subsec. (d). Pub. L. 102–145, §118, as added by Pub. L. 102–266, which directed the amendment of subsec. (d) by substituting “April 1, 1993” for “April 1, 1991” in lieu of amendment by Pub. L. 101–513, §574(a), was executed by substituting “April 1, 1993” for “April 1, 1992” to reflect the probable intent of Congress. See Codification note above and 1990 Amendment note below.
 
-1990—Subsec. (d). Pub. L. 101–513 substituted “April 1, 1992” for “April 1, 1991”.
+<b>1990</b>—Subsec. (d). Pub. L. 101–513 substituted “April 1, 1992” for “April 1, 1991”.
 
-1989—Subsec. (d). Pub. L. 101–167 substituted “April 1, 1991” for “April 1, 1990”.
+<b>1989</b>—Subsec. (d). Pub. L. 101–167 substituted “April 1, 1991” for “April 1, 1990”.
 
-1987—Subsec. (d). Pub. L. 100–202 substituted “April 1, 1990” for “September 30, 1987”.
+<b>1987</b>—Subsec. (d). Pub. L. 100–202 substituted “April 1, 1990” for “September 30, 1987”.
 
-1985—Subsec. (e). Pub. L. 99–83 added subsec. (e).
+<b>1985</b>—Subsec. (e). Pub. L. 99–83 added subsec. (e).
 
 #### Effective Date of 1994 Amendment
 

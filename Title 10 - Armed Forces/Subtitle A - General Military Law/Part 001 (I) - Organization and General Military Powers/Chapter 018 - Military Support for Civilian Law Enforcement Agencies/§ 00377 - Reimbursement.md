@@ -20,7 +20,7 @@
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–181, §1061(1), substituted “Subject to subsection (c), to the extent” for “To the extent”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §1061(1), substituted “Subject to subsection (c), to the extent” for “To the extent”.
 
 Subsecs. (b), (c). Pub. L. 110–181, §1061(2), added subsecs. (b) and (c) and struck out former subsec. (b) which read as follows: “An agency to which support is provided under this chapter is not required to reimburse the Department of Defense for such support if such support—
 
@@ -28,5 +28,5 @@ Subsecs. (b), (c). Pub. L. 110–181, §1061(2), added subsecs. (b) and (c) and 
 
 &emsp;“(2) results in a benefit to the element of the Department of Defense providing the support that is substantially equivalent to that which would otherwise be obtained from military operations or training.”
 
-1988—Pub. L. 100–456 amended section generally. Prior to amendment, section read as follows: “The Secretary of Defense shall issue regulations providing that reimbursement may be a condition of assistance to a civilian law enforcement official under this chapter.”
+<b>1988</b>—Pub. L. 100–456 amended section generally. Prior to amendment, section read as follows: “The Secretary of Defense shall issue regulations providing that reimbursement may be a condition of assistance to a civilian law enforcement official under this chapter.”
 

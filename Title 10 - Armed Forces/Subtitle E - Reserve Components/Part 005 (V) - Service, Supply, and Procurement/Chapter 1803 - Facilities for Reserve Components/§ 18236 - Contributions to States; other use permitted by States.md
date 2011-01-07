@@ -88,15 +88,15 @@ In subsection (a), the words “may be used jointly” are substituted for the w
 
 #### Amendments
 
-2000—Subsec. (b). Pub. L. 106–398 inserted “or readiness center” after “armory” in introductory provisions.
+<b>2000</b>—Subsec. (b). Pub. L. 106–398 inserted “or readiness center” after “armory” in introductory provisions.
 
-1999—Subsec. (a). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-1996—Subsec. (a). Pub. L. 104–106, §1502(a)(2), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106, §1502(a)(2), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
 
 Subsec. (b)(1). Pub. L. 104–106, §1501(b)(36), substituted “18233(e)” for “2233(e)”.
 
-1994—Pub. L. 103–337, §1664(b)(2), renumbered section 2236 of this title as this section.
+<b>1994</b>—Pub. L. 103–337, §1664(b)(2), renumbered section 2236 of this title as this section.
 
 Subsec. (a). Pub. L. 103–337, §1664(b)(8)(A), substituted “18233” for “2233” and “paragraph (3) or (4) of section 18233(a)” for “section 2233(a)(3) or (4)”.
 
@@ -106,17 +106,17 @@ Subsec. (b)(2). Pub. L. 103–337, §1664(b)(8)(B)(ii), which directed amendment
 
 Subsec. (c). Pub. L. 103–337, §1664(b)(8)(C), substituted “18233” for “2233” in introductory provisions.
 
-1986—Subsec. (b). Pub. L. 99–661 struck out “, territory, the Commonwealth of Puerto Rico, or the District of Columbia, as the case may be,” after “contributed by a State” in last sentence.
+<b>1986</b>—Subsec. (b). Pub. L. 99–661 struck out “, territory, the Commonwealth of Puerto Rico, or the District of Columbia, as the case may be,” after “contributed by a State” in last sentence.
 
-1985—Subsec. (b). Pub. L. 99–167 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “A contribution made for an armory under section 2233(a)(4) or (5) of this title may not be more than 75 percent of the cost of the construction to which it is applied. For the purpose of computing the cost of construction under this subsection, the amount contributed by the State may not include the cost or market value of any real property that it has contributed.”
+<b>1985</b>—Subsec. (b). Pub. L. 99–167 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “A contribution made for an armory under section 2233(a)(4) or (5) of this title may not be more than 75 percent of the cost of the construction to which it is applied. For the purpose of computing the cost of construction under this subsection, the amount contributed by the State may not include the cost or market value of any real property that it has contributed.”
 
-1982—Subsec. (a). Pub. L. 97–214, §3(d)(3), struck out “or Territory, Puerto Rico, or the District of Columbia, whichever is concerned,” after “the State”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–214, §3(d)(3), struck out “or Territory, Puerto Rico, or the District of Columbia, whichever is concerned,” after “the State”.
 
 Subsec. (b). Pub. L. 97–214, §3(d)(3), (e)(2), inserted “or (5)”, and struck out “or Territory, Puerto Rico, or the District of Columbia, whichever is concerned,” after “the State”.
 
 Subsecs. (c), (d). Pub. L. 97–214, §3(d)(2), struck out “or Territory, Puerto Rico, or the District of Columbia” after “a State”.
 
-1958—Subsec. (a). Pub. L. 85–861 permitted joint use of facilities provided by contributions under section 2233(a)(4) of this title.
+<b>1958</b>—Subsec. (a). Pub. L. 85–861 permitted joint use of facilities provided by contributions under section 2233(a)(4) of this title.
 
 Subsec. (b). Pub. L. 85–861 substituted “A contribution made for an armory under section 2233(a)(4) of this title may not be more than 75 percent of the cost of the construction to which it is applied” for “No contribution made for a facility under section 2233(a)(3) of this title may be more than 75 percent of the cost of the construction to which it is to be applied”.
 

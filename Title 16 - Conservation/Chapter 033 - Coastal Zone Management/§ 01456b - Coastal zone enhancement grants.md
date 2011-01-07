@@ -24,11 +24,11 @@ For purposes of this section, the term “coastal zone enhancement objective” 
 
 #### (b) Limits on grants
 
-(1) Subject to the limitations and goals established in this section, the Secretary may make grants to coastal states to provide funding for development and submission for Federal approval of program changes that support attainment of one or more coastal zone enhancement objectives.
+(1) Subject to the limitations and goals established in this section, the Secretary may makegrants to coastal states to provide funding for development and submission for Federal approval of program changes that support attainment of one or more coastal zone enhancement objectives.
 
 (2)(A) In addition to any amounts provided under section 1455 of this title, and subject to the availability of appropriations, the Secretary may make grants under this subsection to States for implementing program changes approved by the Secretary in accordance with section 1455(e) of this title.
 
-(B) Grants under this paragraph to implement a program change may not be made in any fiscalyear after the second fiscal year that begins after the approval of that change by the Secretary.
+(B) Grants under this paragraph to implement a program change may not be made in any fiscal year after the second fiscal year that begins after the approval of that change by the Secretary.
 
 #### (c) Evaluation of State proposals by Secretary
 
@@ -64,13 +64,13 @@ November 5, 1990, referred to in subsec. (d), was in the original “the date of
 
 #### Amendments
 
-1996—Subsec. (a)(9). Pub. L. 104–150, §7(2), added par. (9).
+<b>1996</b>—Subsec. (a)(9). Pub. L. 104–150, §7(2), added par. (9).
 
 Subsec. (b). Pub. L. 104–150, §3, designated existing provisions as par. (1) and added par. (2).
 
-1992—Subsec. (b). Pub. L. 102–587 substituted “coastal states” for “coastal States”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–587 substituted “coastal states” for “coastal States”.
 
-1990—Pub. L. 101–508 amended section generally, substituting present provisions for provisions providing for interstate grants and agreements for developing and administering coordinated coastal zone planning and programs, setting priorities for unified coastal zone policies in contiguous areas of coastal states, providing for a Federal-State consultation procedure, authorizing temporary planning and coordinated activity, and establishing eligibility of States to receive Federal assistance.
+<b>1990</b>—Pub. L. 101–508 amended section generally, substituting present provisions for provisions providing for interstate grants and agreements for developing and administering coordinated coastal zone planning and programs, setting priorities for unified coastal zone policies in contiguous areas of coastal states, providing for a Federal-State consultation procedure, authorizing temporary planning and coordinated activity, and establishing eligibility of States to receive Federal assistance.
 
-1980—Pub. L. 96–464 amended section generally and, among many changes, made a number of technical amendments, and inserted provision making it clear that only states which meet the basic eligibility requirements in this chapter can receive funding under this section.
+<b>1980</b>—Pub. L. 96–464 amended section generally and, among many changes, made a number of technical amendments, and inserted provision making it clear that only states which meet the basic eligibility requirements in this chapter can receive funding under this section.
 

@@ -50,7 +50,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §2602(a)(1), inserted “for the development of wildlife habitat on private agricultural land, nonindustrial private forest land, and tribal lands” before period at end.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §2602(a)(1), inserted “for the development of wildlife habitat on private agricultural land, nonindustrial private forest land, and tribal lands” before period at end.
 
 Subsec. (b)(1). Pub. L. 110–246, §2602(a)(2), substituted “owners of lands referred to in subsection (a)” for “landowners” in introductory provisions.
 

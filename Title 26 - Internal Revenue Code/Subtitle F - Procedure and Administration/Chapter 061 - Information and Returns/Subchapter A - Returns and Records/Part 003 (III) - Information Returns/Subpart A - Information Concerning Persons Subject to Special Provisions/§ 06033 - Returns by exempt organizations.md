@@ -74,7 +74,7 @@ Every organization described in section 501(c)(3) which is subject to the requir
 
 &emsp;&emsp;(D) the grass roots nontaxable amount (as defined in section 4911(c)(4)),
 
-&emsp;(9) such other information with respect to direct or indirect transfers to, and other direct or indirect transactions and relationships with, other organizations described in section 501(c) (other than paragraph (3) thereof) or section 527 as the Secretary may require to prevent—
+&emsp;(9) such other information with respect to direct or indirect transfers to, and other direct or indirect transactions and relationshipswith, other organizations described in section 501(c) (other than paragraph (3) thereof) or section 527 as the Secretary may require to prevent—
 
 &emsp;&emsp;(A) diversion of funds from the organization's exempt purpose, or
 
@@ -84,9 +84,11 @@ Every organization described in section 501(c)(3) which is subject to the requir
 
 &emsp;&emsp;(A) section 4911 (relating to tax on excess expenditures to influence legislation),
 
-&emsp;&emsp;(B) section 4912 (relating to tax on disqualifying lobbying expenditures of certain organizations), and
+&emsp;&emsp;(B) section 4912 (relating to tax on disqualifying lobbying expenditures of certain organizations),
 
-&emsp;&emsp;(C) section 4955 (relating to taxes on political expenditures of section 501(c)(3) organizations), except to the extent that, by reasonof section 4962, the taxes imposed under such section are not required to be paid or are credited or refunded,
+&emsp;&emsp;(C) section 4955 (relating to taxes on political expenditures of section 501(c)(3) organizations), except to the extent that, by reason of section 4962, the taxes imposed under such section are not required to be paid or are credited or refunded, and
+
+&emsp;&emsp;(D) section 4959 (relating to taxes on failures by hospital organizations),
 
 &emsp;(11) the respective amounts (if any) of—
 
@@ -100,9 +102,15 @@ Every organization described in section 501(c)(3) which is subject to the requir
 
 &emsp;(13) such information with respect to disqualified persons as the Secretary may prescribe,
 
-&emsp;(14) such information as the Secretary may require with respect to disaster relief activities, including the amount and use of qualified contributions to which section 1400S(a) applies, and
+&emsp;(14) such information as the Secretary may require with respect to disaster relief activities, including the amount and use of qualified contributions to which section 1400S(a) applies,
 
-&emsp;(15) such other information for purposes of carrying out the internal revenue laws as the Secretary may require.
+&emsp;(15) in the case of an organization to which the requirements of section 501(r) apply for the taxable year—
+
+&emsp;&emsp;(A) a description of how the organization is addressing the needs identified in each community health needs assessment conducted under section 501(r)(3) and a description of any such needs that are not being addressed together with the reasons why such needs are not being addressed, and
+
+&emsp;&emsp;(B) the audited financial statements of such organization (or, in the case of an organization the financial statements of which are included in a consolidated financial statement with other organizations, such consolidated financial statement).<sup>1</sup>
+
+&emsp;(16) such other information for purposes of carrying out the internal revenue laws as the Secretary may require.
 
 > For purposes of paragraph (8), if section 4911(f) applies to the organization for the taxable year, such organization shall furnish the amounts with respect to the affiliated group as well as with respect to such organization.
 
@@ -136,7 +144,7 @@ The following organizations shall comply with the requirements of this section i
 
 &emsp;&emsp;If this subsection applies to an organization for any taxable year, such organization—
 
-&emsp;&emsp;&emsp;(i) shall include on any return required to be filed under subsection (a) for such year information setting forth the total expenditures of the organization to which section 162(e)(1) applies and the total amount of the dues or other similar amounts paid to the organization to which such expenditures are allocable, and
+&emsp;&emsp;&emsp;(i) shall include on any return required to be filed under subsection (a) for such year information setting forth the total expenditures of the organization to which section 162(e)(1) applies and the total amount of the dues or other similaramounts paid to the organization to which such expenditures are allocable, and
 
 &emsp;&emsp;&emsp;(ii) except as provided in paragraphs (2)(A)(i) and (3), shall, at the time of assessment or payment of such dues or other similar amounts, provide notice to each person making such payment which contains a reasonable estimate of the portion of such dues or other similar amounts to which such expenditures are so allocable.
 
@@ -164,7 +172,7 @@ The following organizations shall comply with the requirements of this section i
 
 #### (ii) Carryover of lobbying expenditures in excess of dues
 
-&emsp;&emsp;&emsp;If expenditures to which section 162(e)(1) applies exceed the dues or other similaramounts for any taxable year, such excess shall be treated as expenditures to which section 162(e)(1) applies which are paid or incurred by the organization during the following taxable year.
+&emsp;&emsp;&emsp;If expenditures to which section 162(e)(1) applies exceed the dues or other similar amounts for any taxable year, such excess shall be treated as expenditures to which section 162(e)(1) applies which are paid or incurred by the organization during the following taxable year.
 
 #### (2) Tax imposed where organization does not notify
 
@@ -294,7 +302,15 @@ Every organization described in section 509(a)(3) shall, on the return required 
 
 &emsp;(3) certify that the organization meets the requirements of section 509(a)(3)(C).
 
-#### (m) Cross references
+#### (m) Additional information required from CO–OP insurers
+
+An organization described in section 501(c)(29) shall include on the return required under subsection (a) the following information:
+
+&emsp;(1) The amount of the reserves required by each State in which the organization is licensed to issue qualified health plans.
+
+&emsp;(2) The amount of reserves on hand.
+
+#### (n) Cross references
 
 &emsp;&emsp;<b>For provisions relating to statements, etc., regarding exempt status of organizations, see section 6001.</b>
 
@@ -302,7 +318,7 @@ Every organization described in section 509(a)(3) shall, on the return required 
 
 &emsp;&emsp;<b>For provisions relating to information required in connection with certain plans of deferred compensation, see section 6058.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 741; Pub. L. 85–866, title I, §75(b), Sept. 2, 1958, 72 Stat. 1661; Pub. L. 91–172, title I, §101(d)(1), (2), (j)(30), (31), Dec. 30, 1969, 83 Stat. 519, 520, 529; Pub. L. 93–406, title II, §1031(c)(2), Sept. 2, 1974, 88 Stat. 946; Pub. L. 94–455, title XIII, §1307(a)(4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1722, 1834; Pub. L. 96–603, §1(a), Dec. 28, 1980, 94 Stat. 3503; Pub. L. 99–514, title XV, §1501(d)(1)(C), Oct. 22, 1986, 100 Stat. 2740; Pub. L. 100–203, title X, §10703(a), Dec. 22, 1987, 101 Stat. 1330–460; Pub. L. 103–66, title XIII, §13222(c), Aug. 10, 1993, 107 Stat. 480; Pub. L. 104–168, title XIII, §1312(a), (b), July 30, 1996, 110 Stat. 1479; Pub. L. 104–188, title I, §1703(g), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–34, title XVI, §1603(b), Aug. 5, 1997, 111 Stat. 1096; Pub. L. 105–277, div. J, title I, §1004(b)(2)(A), Oct. 21, 1998, 112 Stat. 2681–889; Pub. L. 106–230, §3(a)(2), July 1, 2000, 114 Stat. 482; Pub. L. 107–276, §3(c), Nov. 2, 2002, 116 Stat. 1931; Pub. L. 109–222, title V, §516(b)(1), May 17, 2006, 120 Stat. 371; Pub. L. 109–280, title XII, §§1205(b)(1), 1223(a), (b), 1235(a)(1), 1245(a), (b), Aug. 17, 2006, 120 Stat. 1067, 1090, 1101, 1108; Pub. L. 110–343, div. C, title VII, §703(a), Oct. 3, 2008, 122 Stat. 3919.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 741; Pub. L. 85–866, title I, §75(b), Sept. 2, 1958, 72 Stat. 1661; Pub. L. 91–172, title I, §101(d)(1), (2), (j)(30), (31), Dec. 30, 1969, 83 Stat. 519, 520, 529; Pub. L. 93–406, title II, §1031(c)(2), Sept. 2, 1974, 88 Stat. 946; Pub. L. 94–455, title XIII, §1307(a)(4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1722, 1834; Pub. L. 96–603, §1(a), Dec. 28, 1980, 94 Stat. 3503; Pub. L. 99–514, title XV, §1501(d)(1)(C), Oct. 22, 1986, 100 Stat. 2740; Pub. L. 100–203, title X, §10703(a), Dec. 22, 1987, 101 Stat. 1330–460; Pub. L. 103–66, title XIII, §13222(c), Aug. 10, 1993, 107 Stat. 480; Pub. L. 104–168, title XIII, §1312(a), (b), July 30, 1996, 110 Stat. 1479; Pub. L. 104–188, title I, §1703(g), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–34, title XVI, §1603(b), Aug. 5, 1997, 111 Stat. 1096; Pub. L. 105–277, div. J, title I, §1004(b)(2)(A), Oct. 21, 1998, 112 Stat. 2681–889; Pub. L. 106–230, §3(a)(2), July 1, 2000, 114 Stat. 482; Pub. L. 107–276, §3(c), Nov. 2, 2002, 116 Stat. 1931; Pub. L. 109–222, title V, §516(b)(1), May 17, 2006, 120 Stat. 371; Pub. L. 109–280, title XII, §§1205(b)(1), 1223(a), (b), 1235(a)(1), 1245(a), (b), Aug. 17, 2006, 120 Stat. 1067, 1090, 1101, 1108; Pub. L. 110–343, div. C, title VII, §703(a), Oct. 3, 2008, 122 Stat. 3919; Pub. L. 111–148, title I, §1322(h)(2), title IX, §9007(d), Mar. 23, 2010, 124 Stat. 192, 857.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -320,9 +336,15 @@ Sections 1205(b)(1), 1223(a), (b), 1235(a)(1), and 1245(a), (b) of Pub. L. 109�
 
 #### Amendments
 
-2008—Subsec. (b)(14), (15). Pub. L. 110–343 added par. (14) and redesignated former par. (14) as (15).
+<b>2010</b>—Subsec. (b)(10)(D). Pub. L. 111–148, §9007(d)(2), added subpar. (D).
 
-2006—Subsec. (a)(1). Pub. L. 109–222, §516(b)(1)(B), substituted “paragraph (3)” for “paragraph (2)”.
+Subsec. (b)(15), (16). Pub. L. 111–148, §9007(d)(1), added par. (15) and redesignated former par. (15) as (16).
+
+Subsecs. (m), (n). Pub. L. 111–148, §1322(h)(2), added subsec. (m) and redesignated former subsec. (m) as (n).
+
+<b>2008</b>—Subsec. (b)(14), (15). Pub. L. 110–343 added par. (14) and redesignated former par. (14) as (15).
+
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–222, §516(b)(1)(B), substituted “paragraph (3)” for “paragraph (2)”.
 
 Subsec. (a)(2). Pub. L. 109–222, §516(b)(1)(A), added par. (2). Former par. (2) redesignated (3).
 
@@ -350,7 +372,7 @@ Pub. L. 109–280, §1235(a)(1), redesignated subsec. (k) as (<i>l</i>). See Cod
 
 Subsec. (m). Pub. L. 109–280, §1245(b), redesignated subsec. (<i>l</i>) as (m). See Codification note above.
 
-2002—Subsec. (g). Pub. L. 107–276 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In the case of a political organization required to file a return under section 6012(a)(6)—
+<b>2002</b>—Subsec. (g). Pub. L. 107–276 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In the case of a political organization required to file a return under section 6012(a)(6)—
 
 &emsp;“(1) such organization shall file a return—
 
@@ -360,17 +382,17 @@ Subsec. (m). Pub. L. 109–280, §1245(b), redesignated subsec. (<i>l</i>) as (m
 
 &emsp;“(2) subsection (a)(2)(B) (relating to discretionary exceptions) shall apply with respect to such return.”
 
-2000—Subsecs. (g), (h). Pub. L. 106–230 added subsec. (g) and redesignated former subsec. (g) as (h).
+<b>2000</b>—Subsecs. (g), (h). Pub. L. 106–230 added subsec. (g) and redesignated former subsec. (g) as (h).
 
-1998—Subsec. (c). Pub. L. 105–277 inserted “and” at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “a copy of the notice required by section 6104(d) (relating to public inspection of private foundations’ annual returns), together with proof of publication thereof, shall be filed by the foundation together with the annual return under this section, and”.
+<b>1998</b>—Subsec. (c). Pub. L. 105–277 inserted “and” at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “a copy of the notice required by section 6104(d) (relating to public inspection of private foundations’ annual returns), together with proof of publication thereof, shall be filed by the foundation together with the annual return under this section, and”.
 
-1997—Subsec. (b)(10). Pub. L. 105–34, §1603(b)(1)(A), in introductory provisions, substituted “the respective amounts (if any) of the taxes imposed on the organization, or any organization manager of the organization, during the taxable year under any of the following provisions (and the respective amounts (if any) of reimbursements paid by the organization during the taxable year with respect to taxes imposed on any such organization manager under any of such provisions):” for “the respective amounts (if any) of the taxes paid by the organization during the taxable year under the following provisions:”.
+<b>1997</b>—Subsec. (b)(10). Pub. L. 105–34, §1603(b)(1)(A), in introductory provisions, substituted “the respective amounts (if any) of the taxes imposed on the organization, or any organization manager of the organization, during the taxable year under any of the following provisions (and the respective amounts (if any) of reimbursements paid by the organization during the taxable year with respect to taxes imposed on any such organization manager under any of such provisions):” for “the respective amounts (if any) of the taxes paid by the organization during the taxable year under the following provisions:”.
 
 Subsec. (b)(10)(C). Pub. L. 105–34, §1603(b)(1)(B), inserted at end “except to the extent that, by reason of section 4962, the taxes imposed under such section are not required to be paid or are credited or refunded,”.
 
 Subsec. (b)(11). Pub. L. 105–34, §1603(b)(2), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “the respective amounts (if any) of the taxes paid by the organization, or any disqualified person with respect to such organization, during the taxable year under section 4958 (relating to taxes on private excess benefit from certain charitable organizations),”.
 
-1996—Subsec. (b)(10) to (14). Pub. L. 104–168, §1312(a), added pars. (10) to (13) and redesignated former par. (10) as (14).
+<b>1996</b>—Subsec. (b)(10) to (14). Pub. L. 104–168, §1312(a), added pars. (10) to (13) and redesignated former par. (10) as (14).
 
 Subsec. (e)(1)(B)(i). Pub. L. 104–188, §1703(g)(2), substituted “section 501” for “this subtitle”.
 
@@ -378,21 +400,21 @@ Subsec. (e)(1)(B)(iii). Pub. L. 104–188, §1703(g)(1), added subcl. (iii).
 
 Subsecs. (f), (g). Pub. L. 104–168, §1312(b), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1993—Subsecs. (e), (f). Pub. L. 103–66 added subsec. (e) and redesignated former subsec. (e) as (f).
+<b>1993</b>—Subsecs. (e), (f). Pub. L. 103–66 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1987—Subsec. (b)(9), (10). Pub. L. 100–203 added pars. (9) and (10).
+<b>1987</b>—Subsec. (b)(9), (10). Pub. L. 100–203 added pars. (9) and (10).
 
-1986—Subsec. (e). Pub. L. 99–514 substituted “section 6652(c)” for “section 6652(d)”.
+<b>1986</b>—Subsec. (e). Pub. L. 99–514 substituted “section 6652(c)” for “section 6652(d)”.
 
-1980—Subsecs. (c) to (e). Pub. L. 96–603 added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
+<b>1980</b>—Subsecs. (c) to (e). Pub. L. 96–603 added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
-1976—Subsec. (a)(1), (2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (a)(1), (2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 Subsec. (b). Pub. L. 94–455, §§1307(a)(4), 1906(b)(13)(A), struck out in provisions preceding par. (1) “or his delegate” after “Secretary” and added par. (8) and sentence at end.
 
-1974—Subsec. (c). Pub. L. 93–406 inserted reference to section 6058 covering provisions relating to information required in connection with certain plans of deferred compensation.
+<b>1974</b>—Subsec. (c). Pub. L. 93–406 inserted reference to section 6058 covering provisions relating to information required in connection with certain plans of deferred compensation.
 
-1969—Subsec. (a). Pub. L. 91–172, §101(d)(1), added churches, their integrated auxiliaries, conventions or associations of churches, religious activities of religious orders, and organizations that normally have gross yearly receipts of not more than $5,000, to list of exempt organizations that were excepted from filing information returns, gave the Secretary or his delegate discretion to so except any such organization, and shortened list of educational organizations so excepted.
+<b>1969</b>—Subsec. (a). Pub. L. 91–172, §101(d)(1), added churches, their integrated auxiliaries, conventions or associations of churches, religious activities of religious orders, and organizations that normally have gross yearly receipts of not more than $5,000, to list of exempt organizations that were excepted from filing information returns, gave the Secretary or his delegate discretion to so except any such organization, and shortened list of educational organizations so excepted.
 
 Subsec. (b)(3). Pub. L. 91–172, §101(d)(2)(A), struck out “out of income” after “its disbursements”.
 
@@ -408,7 +430,11 @@ Subsec. (b)(8). Pub. L. 91–172, §101(d)(2)(B), struck out par. (8) which made
 
 Subsec. (c). Pub. L. 91–172, §101(j)(31), inserted cross references to section 6043(b) and 6652(d).
 
-1958—Subsec. (b)(8). Pub. L. 85–866 added par. (8).
+<b>1958</b>—Subsec. (b)(8). Pub. L. 85–866 added par. (8).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 9007(d) of Pub. L. 111–148 applicable to taxable years beginning after Mar. 23, 2010, see section 9007(f)(1) of Pub. L. 111–148, set out as a note under section 501 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -418,7 +444,7 @@ Pub. L. 110–343, div. C, title VII, §703(b), Oct. 3, 2008, 122 Stat. 3919, pr
 
 Pub. L. 109–280, title XII, §1205(c)(2), Aug. 17, 2006, 120 Stat. 1068, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to returns the due date (determined without regard to extensions) of which is after the date of the enactment of this Act \[Aug. 17, 2006\].”
 
-Pub. L. 109–280, title XII, §1223(f), Aug. 17, 2006, 120 Stat. 1091, provided that: “The amendments made bythis section \[amending this section and sections 6652 and 7428 of this title\] shall apply to notices and returns with respect to annual periods beginning after 2006.”
+Pub. L. 109–280, title XII, §1223(f), Aug. 17, 2006, 120 Stat. 1091, provided that: “The amendments made by this section \[amending this section and sections 6652 and 7428 of this title\] shall apply to notices and returns with respect to annual periods beginning after 2006.”
 
 Pub. L. 109–280, title XII, §1235(a)(2), Aug. 17, 2006, 120 Stat. 1101, provided that: “The amendments made by this subsection \[amending this section\] shall apply to returns filed for taxable years ending after the date of the enactment of this Act \[Aug. 17, 2006\].”
 
@@ -495,4 +521,6 @@ Notice requirement.—The Secretary of the Treasury shall notify in a timely man
 “(2)
 
 Loss of status penalty for failure to file return.—The Secretary of the Treasury shall publicize, in a timely manner in appropriate forms and instructions and through other appropriate means, the penalty established under section 6033(j) of such Code for the failure to file a return under subsection (a)(1) or (i) of section 6033 of such Code.”
+
+<i><sup>1</sup></i><i> So in original. The period probably should be “, and”.</i>
 

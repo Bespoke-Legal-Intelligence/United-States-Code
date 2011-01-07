@@ -72,15 +72,15 @@ Another prior section 3014 was renumbered section 3015 of this title and subsequ
 
 #### Amendments
 
-2002—Subsec. (b)(6) to (8). Pub. L. 107–314 added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
+<b>2002</b>—Subsec. (b)(6) to (8). Pub. L. 107–314 added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
-2001—Subsec. (f)(3). Pub. L. 107–107 substituted “67” for “the number equal to 85 percent of the number of general officers assigned or detailed to such duty on the date of the enactment of this subsection”.
+<b>2001</b>—Subsec. (f)(3). Pub. L. 107–107 substituted “67” for “the number equal to 85 percent of the number of general officers assigned or detailed to such duty on the date of the enactment of this subsection”.
 
-1989—Subsec. (f)(5). Pub. L. 101–189 struck out par. (5) which read as follows: “The limitations in paragraphs (1), (2), and (3) do not apply before October 1, 1988.”
+<b>1989</b>—Subsec. (f)(5). Pub. L. 101–189 struck out par. (5) which read as follows: “The limitations in paragraphs (1), (2), and (3) do not apply before October 1, 1988.”
 
-1988—Subsec. (c)(5). Pub. L. 100–456 added par. (5).
+<b>1988</b>—Subsec. (c)(5). Pub. L. 100–456 added par. (5).
 
-1987—Subsec. (f)(4). Pub. L. 100–180 inserted “the President or” after “declared by”.
+<b>1987</b>—Subsec. (f)(4). Pub. L. 100–180 inserted “the President or” after “declared by”.
 
 #### Effective Date of 1988 Amendment
 
@@ -92,5 +92,5 @@ Section 532(a) of Pub. L. 99–433 provided that: “The provisions of subsectio
 
 #### Exceptions and Adjustments to Limitations on Personnel
 
-Baseline personnel limitations in this section inapplicable to certain acquisition personnel and personnelhired pursuant to a shortage category designation for fiscal year 2009 and fiscal years thereafter, and Secretary of Defense or a secretary of a military department authorized to adjust such limitations for fiscal year 2009 and fiscal years thereafter, see section 1111 of Pub. L. 110–417, set out as a note under section 143 of this title.
+Baseline personnel limitations in this section inapplicable to certain acquisition personnel and personnel hired pursuant to a shortage category designation for fiscal year 2009 and fiscal years thereafter, and Secretary of Defense or a secretary of a military department authorized to adjust such limitations for fiscal year 2009 and fiscal years thereafter, see section 1111 of Pub. L. 110–417, set out as a note under section 143 of this title.
 

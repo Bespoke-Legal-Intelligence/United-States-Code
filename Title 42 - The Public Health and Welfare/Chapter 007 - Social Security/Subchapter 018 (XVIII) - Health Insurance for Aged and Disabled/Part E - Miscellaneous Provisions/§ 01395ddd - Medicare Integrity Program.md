@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Program
 
-There is hereby established the Medicare Integrity Program (in this section referred to as the “Program”) under which the Secretary shall promote the integrity of the medicare program by entering into contracts in accordance with this section with eligible entities to carry out the activities described in subsection (b) of this section.
+There is hereby established the Medicare Integrity Program (in this section referred to as the “Program”) under which the Secretary shall promote the integrity of the medicare program by entering into contracts in accordance with this section with eligible entities, or otherwise, to carry out the activities described in subsection (b) of this section.
 
 #### (b) Activities described
 
@@ -28,9 +28,11 @@ An entity is eligible to enter into a contract under the Program to carry out an
 
 &emsp;(2) in carrying out such activities, the entity agrees to cooperate with the Inspector General of the Department of Health and Human Services, the Attorney General, and other law enforcement agencies, as appropriate, in the investigation and deterrence of fraud and abuse in relation to this subchapter and in other cases arising out of such activities;
 
-&emsp;(3) the entity complies with such conflict of interest standards as are generally applicable to Federal acquisition and procurement; and
+&emsp;(3) the entity complies with such conflict of interest standards as are generally applicable to Federal acquisition and procurement;
 
-&emsp;(4) the entity meets such other requirements as the Secretary may impose.
+&emsp;(4) the entity agrees to provide the Secretary and the Inspector General of the Department of Health and Human Services with such performance statistics (including the number and amount of overpayments recovered, the number of fraud referrals, and the return on investment of such activities by the entity) as the Secretary or the Inspector General may request; and
+
+&emsp;(5) the entity meets such other requirements as the Secretary may impose.
 
 > In the case of the activity described in subsection (b)(5) of this section, an entity shall be deemed to be eligible to enter into a contract under the Program to carry out the activity if the entity is a carrier with a contract in effect under section 1395u of this title.
 
@@ -104,7 +106,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a provider of services or supplier that is determined to have received anoverpayment under this subchapter and that seeks a reconsideration by a qualified independent contractor on such determination under section 1395ff(b)(1) of this title, the Secretary may not take any action (or authorize any other person, including any medicare contractor, as defined in subparagraph (C)) to recoup the overpayment until the date the decision on the reconsideration has been rendered. If the provisions of section 1395ff(b)(1) of this title (providing for such a reconsideration by a qualified independent contractor) are not in effect, in applying the previous sentence any reference to such a reconsideration shall be treated as a reference to a redetermination by the fiscal intermediary or carrier involved.
+&emsp;&emsp;In the case of a provider of services or supplier that is determined to have received an overpayment under this subchapter and that seeks a reconsideration by a qualified independent contractor on such determination under section 1395ff(b)(1) of this title, the Secretary may not take any action (or authorize any other person, including any medicare contractor, as defined in subparagraph (C)) to recoup the overpayment until the date the decision on the reconsideration has been rendered. If the provisions of section 1395ff(b)(1) of this title (providing for such a reconsideration by a qualified independent contractor) are not in effect, in applying the previous sentence any reference to such a reconsideration shall be treated as a reference to a redetermination by the fiscal intermediary or carrier involved.
 
 #### (B) Collection with interest
 
@@ -174,7 +176,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (A) Written notice for post-payment audits
 
-&emsp;&emsp;Subject to subparagraph (C), if a medicare contractor decides to conduct a post-payment audit of a provider of services or supplier under this subchapter, the contractorshall provide the provider of services or supplier with written notice (which may be in electronic form) of the intent to conduct such an audit.
+&emsp;&emsp;Subject to subparagraph (C), if a medicare contractor decides to conduct a post-payment audit of a provider of services or supplier under this subchapter, the contractor shall provide the provider of services or supplier with written notice (which may be in electronic form) of the intent to conduct such an audit.
 
 #### (B) Explanation of findings for all audits
 
@@ -212,7 +214,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (B) Reporting requirements
 
-&emsp;&emsp;The Secretary shall make available in a timely manner any data and statistical information collected by the Medi-Medi Program to the Attorney General, the Director of the Federal Bureau of Investigation, the Inspector General of the Department of Health and Human Services, and the States (including a Medicaid fraud and abuse control unit described in section 1396b(q) of this title). Such information shall be disseminated no less frequently than quarterly.
+&emsp;&emsp;The Secretary shall make available in a timely manner any data and statistical information collected by the Medi-Medi Program to the Attorney General, the Directorof the Federal Bureau of Investigation, the Inspector General of the Department of Health and Human Services, and the States (including a Medicaid fraud and abuse control unit described in section 1396b(q) of this title). Such information shall be disseminated no less frequently than quarterly.
 
 #### (2) Limited waiver authority
 
@@ -222,7 +224,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (1) In general
 
-&emsp;Under the Program, the Secretary shall enter into contracts with recovery audit contractors in accordance with this subsection for the purpose of identifying underpayments and overpayments and recouping overpayments under this subchapter with respect to all services for which payment is made under part A or B. Under the contracts—
+&emsp;Under the Program, the Secretary shall enter into contracts with recovery audit contractors in accordance with this subsection for the purpose of identifying underpayments and overpayments and recouping overpayments under this subchapter with respect to all services for which payment is made under this subchapter. Under the contracts—
 
 &emsp;&emsp;(A) payment shall be made to such a contractor only from amounts recovered;
 
@@ -236,15 +238,15 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (2) Disposition of remaining recoveries
 
-&emsp;The amounts recovered under such contracts that are not paid to the contractor under paragraph (1) or retained by the Secretary under paragraph (1)(C) shall be applied to reduce expenditures under parts A and B.
+&emsp;The amounts recovered under such contracts that are not paid to the contractor under paragraph (1) or retained by the Secretary under paragraph (1)(C) shall be applied to reduce expenditures under this subchapter.
 
 #### (3) Nationwide coverage
 
-&emsp;The Secretary shall enter into contracts under paragraph (1) in a manner so as to provide for activities in all States under such a contract by not later than January 1, 2010.
+&emsp;The Secretary shall enter into contracts under paragraph (1) in a manner so as to provide for activities in all States under such a contract by not later than January 1, 2010 (not later than December 31, 2010, in the case of contracts relating to payments made under part C or D).
 
 #### (4) Audit and recovery periods
 
-&emsp;Each such contract shall provide that audit and recovery activities may be conducted during a fiscal year with respect to payments made under part A or B—
+&emsp;Each such contract shall provide that audit and recovery activities may be conducted during a fiscal year with respect to payments made under this subchapter—
 
 &emsp;&emsp;(A) during such fiscal year; and
 
@@ -276,23 +278,65 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 &emsp;The Secretary shall annually submit to Congress a report on the use of recovery audit contractors under this subsection. Each such report shall include information on the performance of such contractors in identifying underpayments and overpayments and recouping overpayments, including an evaluation of the comparative performance of such contractors and savings to the program under this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1893, as added Pub. L. 104–191, title II, §202(a), Aug. 21, 1996, 110 Stat. 1996; amended Pub. L. 108–173, title VII, §736(c)(7), title IX, §935(a), Dec. 8, 2003, 117 Stat. 2356, 2407; Pub. L. 109–171, title VI, §6034(d)(1), Feb. 8, 2006, 120 Stat. 77; Pub. L. 109–432, div. B, title III, §302(a), Dec. 20, 2006, 120 Stat. 2991.)
+#### (9) Special rules relating to parts C and D
+
+&emsp;The Secretary shall enter into contracts under paragraph (1) to require recovery audit contractors to—
+
+&emsp;&emsp;(A) ensure that each MA plan under part C has an anti-fraud plan in effect and to review the effectiveness of each such anti-fraud plan;
+
+&emsp;&emsp;(B) ensure that each prescription drug plan under part D has an anti-fraud plan in effect and to review the effectiveness of each such anti-fraud plan;
+
+&emsp;&emsp;(C) examine claims for reinsurance payments under section 1395w–115(b) of this title to determine whether prescription drugplans submitting such claims incurred costs in excess of the allowable reinsurance costs permitted under paragraph (2) of that section; and
+
+&emsp;&emsp;(D) review estimates submitted by prescription drug plans by private plans with respect to the enrollment of high cost beneficiaries (as defined by the Secretary) and to compare such estimates with the numbers of such beneficiaries actually enrolled by such plans.
+
+#### (i) Evaluations and annual report
+
+#### (1) Evaluations
+
+&emsp;The Secretary shall conduct evaluations of eligible entities which the Secretary contracts with under the Program not less frequently than every 3 years.
+
+#### (2) Annual report
+
+&emsp;Not later than 180 days after the end of each fiscal year (beginning with fiscal year 2011), the Secretary shall submit a report to Congress which identifies—
+
+&emsp;&emsp;(A) the use of funds, including funds transferred from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Insurance Trust Fund under section 1395t of this title, to carry out this section; and
+
+&emsp;&emsp;(B) the effectiveness of the use of such funds.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1893, as added Pub. L. 104–191, title II, §202(a), Aug. 21, 1996, 110 Stat. 1996; amended Pub. L. 108–173, title VII, §736(c)(7), title IX, §935(a), Dec. 8, 2003, 117 Stat. 2356, 2407; Pub. L. 109–171, title VI, §6034(d)(1), Feb. 8, 2006, 120 Stat. 77; Pub. L. 109–432, div. B, title III, §302(a), Dec. 20, 2006, 120 Stat. 2991; Pub. L. 111–148, title VI, §§6402(j)(1), 6411(b), Mar. 23, 2010, 124 Stat. 762, 775.)
 
 #### References in Text
 
 Section 202(b) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (d)(2)(B), is section 202(b) of Pub. L. 104–191, which amended sections 1395h and 1395u of this title.
 
-Parts A and B, referred to in subsec. (h)(1), (2), (4), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
+Parts C and D, referred to in subsec. (h)(3), (9), are classified to sections 1395w–21 et seq. and 1395w–101 et seq., respectively, of this title.
 
 #### Amendments
 
-2006—Subsec. (b)(6). Pub. L. 109–171, §6034(d)(1)(A), added par. (6).
+<b>2010</b>—Subsec. (a). Pub. L. 111–148, §6402(j)(1)(C), inserted “, or otherwise,” after “entities”.
+
+Subsec. (c)(4), (5). Pub. L. 111–148, §6402(j)(1)(A), added par. (4) and redesignated former par. (4) as (5)
+
+Subsec. (h)(1). Pub. L. 111–148, §6411(b)(1), substituted “this subchapter” for “part A or B” in introductory provisions.
+
+Subsec. (h)(2). Pub. L. 111–148, §6411(b)(2), substituted “this subchapter” for “parts A and B”.
+
+Subsec. (h)(3). Pub. L. 111–148, §6411(b)(3), inserted “(not later than December 31, 2010, in the case of contracts relating to payments made under part C or D)” after “2010”.
+
+Subsec. (h)(4). Pub. L. 111–148, §6411(b)(4), substituted “this subchapter” for “part A or B” in introductory provisions.
+
+Subsec. (h)(9). Pub. L. 111–148, §6411(b)(5), added par. (9).
+
+Subsec. (i). Pub. L. 111–148, §6402(j)(1)(B), added subsec. (i).
+
+<b>2006</b>—Subsec. (b)(6). Pub. L. 109–171, §6034(d)(1)(A), added par. (6).
 
 Subsec. (g). Pub. L. 109–171, §6034(d)(1)(B), added subsec. (g).
 
 Subsec. (h). Pub. L. 109–432 added subsec. (h).
 
-2003—Subsec. (a). Pub. L. 108–173, §736(c)(7), substituted “medicare program” for “Medicare program”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–173, §736(c)(7), substituted “medicare program” for “Medicare program”.
 
 Subsec. (f). Pub. L. 108–173, §935(a), added subsec. (f).
 

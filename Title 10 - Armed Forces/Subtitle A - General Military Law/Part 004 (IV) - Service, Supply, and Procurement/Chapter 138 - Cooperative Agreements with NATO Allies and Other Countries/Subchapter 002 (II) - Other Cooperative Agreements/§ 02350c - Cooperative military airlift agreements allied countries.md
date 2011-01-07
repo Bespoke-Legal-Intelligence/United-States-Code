@@ -34,19 +34,19 @@ The Arms Export Control Act (22 U.S.C. 2751 et seq.), referred to in subsec. (a)
 
 #### Amendments
 
-2000—Subsecs. (d), (e). Pub. L. 106–398 redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “Notwithstanding subchapter I, the Secretary of Defense may enter into military airlift agreements with allied countries only under the authority of this section.”
+<b>2000</b>—Subsecs. (d), (e). Pub. L. 106–398 redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “Notwithstanding subchapter I, the Secretary of Defense may enter into military airlift agreements with allied countries only under the authority of this section.”
 
-1992—Subsec. (a)(2). Pub. L. 102–484, §1311(a), substituted “as agreed upon by the parties. Liquidation shall be either by direct payment to the country that has provided the greater amount of transportation or by the providing of in-kind transportation services to that country. The liquidation shall occur on a regular basis, but not less often than once every 12 months.” for “not less often than once every 3 months by direct payment to the country that has provided the greater amount of transportation.”
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–484, §1311(a), substituted “as agreed upon by the parties. Liquidation shall be either by direct payment to the country that has provided the greater amount of transportation or by the providing of in-kind transportation services to that country. The liquidation shall occur on a regular basis, but not less often than once every 12 months.” for “not less often than once every 3 months by direct payment to the country that has provided the greater amount of transportation.”
 
 Subsec. (e)(1)(B). Pub. L. 102–484, §1311(b), substituted “, New Zealand, Japan, and the Republic of Korea” for “or New Zealand”.
 
-1989—Pub. L. 101–189 renumbered section 2213 of this title as this section and inserted “: allied countries” after “airlift agreements” in section catchline.
+<b>1989</b>—Pub. L. 101–189 renumbered section 2213 of this title as this section and inserted “: allied countries” after “airlift agreements” in section catchline.
 
 Subsec. (d). Pub. L. 101–189, §931(b)(2), substituted “subchapter I” for “chapter 138 of this title”.
 
-1987—Subsec. (e). Pub. L. 100–26 inserted “The term” after each par. designation and substituted “allied” for “Allied” in par. (1).
+<b>1987</b>—Subsec. (e). Pub. L. 100–26 inserted “The term” after each par. designation and substituted “allied” for “Allied” in par. (1).
 
-1985—Subsec. (e)(2). Pub. L. 99–145 substituted “section 2350” for “section 2331”.
+<b>1985</b>—Subsec. (e)(2). Pub. L. 99–145 substituted “section 2350” for “section 2331”.
 
 #### Department of Defense Participation in Strategic Airlift Capability Partnership
 

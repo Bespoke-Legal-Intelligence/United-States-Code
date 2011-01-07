@@ -74,15 +74,15 @@ The National Childhood Vaccine Injury Act of 1986, referred to in subsec. (d)(2)
 
 #### Amendments
 
-2000—Subsec. (c)(1)(A). Pub. L. 106–554 substituted “October 18, 2000” for “December 31, 1999”.
+<b>2000</b>—Subsec. (c)(1)(A). Pub. L. 106–554 substituted “October 18, 2000” for “December 31, 1999”.
 
-1999—Subsec. (b)(3). Pub. L. 106–170, §523(b)(1), repealed Pub. L. 105–277, §1504(a)(2). See 1998 Amendment note below.
+<b>1999</b>—Subsec. (b)(3). Pub. L. 106–170, §523(b)(1), repealed Pub. L. 105–277, §1504(a)(2). See 1998 Amendment note below.
 
 Subsec. (c)(1). Pub. L. 106–170, §523(b)(1), repealed Pub. L. 105–277, §1504(a)(1). See 1998 Amendment note below.
 
 Subsec. (c)(1)(A). Pub. L. 106–170, §523(b)(2), substituted “December 31, 1999” for “August 5, 1997”.
 
-1998—Subsec. (b)(3). Pub. L. 105–277, §4003(d)(2), added par. (3).
+<b>1998</b>—Subsec. (b)(3). Pub. L. 105–277, §4003(d)(2), added par. (3).
 
 Pub. L. 105–277, §1504(a)(2), which directed amendment of subsec. (b) by adding a new par. (3) at the end, was repealed by Pub. L. 106–170, §523(b)(1).
 
@@ -90,11 +90,11 @@ Subsec. (c)(1). Pub. L. 105–277, §4003(d)(1), amended heading and text of par
 
 Pub. L. 105–277, §1504(a)(1), which directed the general amendment of par. (1), was repealed by Pub. L. 106–170, §523(b)(1).
 
-1993—Subsec. (c)(1). Pub. L. 103–66 struck out “and before October 1, 1992,” after “September 30, 1988,”.
+<b>1993</b>—Subsec. (c)(1). Pub. L. 103–66 struck out “and before October 1, 1992,” after “September 30, 1988,”.
 
-1989—Subsec. (c)(1). Pub. L. 101–239 inserted before period at end “, or for the payment of all expenses of administration (but not in excess of $6,000,000 for any fiscal year) incurred by the Federal Government in administering such subtitle”.
+<b>1989</b>—Subsec. (c)(1). Pub. L. 101–239 inserted before period at end “, or for the payment of all expenses of administration (but not in excess of $6,000,000 for any fiscal year) incurred by the Federal Government in administering such subtitle”.
 
-1988—Subsec. (a). Pub. L. 100–647 inserted “appropriated or” before “credited” and “this section or” before “section 9602(b)”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647 inserted “appropriated or” before “credited” and “this section or” before “section 9602(b)”.
 
 #### Effective Date of 1999 Amendment
 
@@ -108,7 +108,7 @@ Amendment by section 4003(d) of Pub. L. 105–277 effective as if included in th
 
 #### Effective Date of 1989 Amendment
 
-Section 7841(g)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall apply to fiscal years beginning after September 30, 1989.”
+Section 7841(g)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to fiscal years beginning after September 30, 1989.”
 
 #### Effective Date of 1988 Amendment
 

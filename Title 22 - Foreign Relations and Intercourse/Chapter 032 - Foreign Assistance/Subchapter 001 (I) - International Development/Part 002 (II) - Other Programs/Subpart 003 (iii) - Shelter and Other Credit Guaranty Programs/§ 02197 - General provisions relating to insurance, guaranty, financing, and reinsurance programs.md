@@ -6,7 +6,7 @@ Insurance, guaranties, and reinsurance issued under this subpart shall cover inv
 
 #### (b) Protection of interest
 
-The Corporation shall determine that suitable arrangements exist for protecting the interest of the Corporation in connection with any insurance, guaranty or reinsurance issued under this subpart, including arrangements concerning ownership, use, and disposition of the currency, credits, assets, or investments on account of which payment under such insurance, guaranty or reinsurance is to be made, and any right, title, claim, or cause of action existing in connection therewith.
+The Corporation shall determine that suitable arrangements exist for protecting the interest of the Corporation in connection with any insurance, guaranty or reinsurance issued under this subpart, including arrangements concerning ownership, use, and disposition of the currency, credits, assets, or investments on account of which payment under such insurance, guaranty or reinsurance is to be made, and any right,title, claim, or cause of action existing in connection therewith.
 
 #### (c) Guaranties as obligations backed by full faith and credit of United States
 
@@ -56,7 +56,7 @@ In making a determination to issue insurance, guaranties, or reinsurance under t
 
 #### (<i>l</i>) Convictions under Foreign Corrupt Practices Act of 1977; prohibition on payments for losses resulting from unlawful activities; suspension from eligibility of receipt of financial support
 
-(1) No payment may be made under any insurance or reinsurance which is issued under this subpart on or after April 24, 1978, for any loss occurring with respect to a project, if the preponderant cause of such loss was an act by the investor seeking payment under this subpart, by a person possessing majority ownership and control of the investor at the time of the act, or by any agent of such investor or controlling person, and a court of the United States has entered a final judgment that such act constituted a violation under the Foreign Corrupt Practices Act of 1977.
+(1) No payment may be made under any insurance or reinsurance which is issued under thissubpart on or after April 24, 1978, for any loss occurring with respect to a project, if the preponderant cause of such loss was an act by the investor seeking payment under this subpart, by a person possessing majority ownership and control of the investor at the time of the act, or by any agent of such investor or controlling person, and a court of the United States has entered a final judgment that such act constituted a violation under the Foreign Corrupt Practices Act of 1977.
 
 (2) Not later than 120 days after April 24, 1978, the Corporation shall adopt regulations setting forth appropriate conditions under which any person convicted under the Foreign Corrupt Practices Act of 1977 for an offense related to a project insured or otherwise supported by the Corporation shall be suspended, for a period of not more than five years, from eligibility to receive any insurance, reinsurance, guaranty, loan, or other financial support authorized by this subpart.
 
@@ -106,25 +106,25 @@ Amendment by Pub. L. 100–461 is based on section 110(c) of title I of H.R. 526
 
 #### Amendments
 
-1992—Subsec. (d). Pub. L. 102–549, §105(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Fees shall be charged for insurance, guaranty, and reinsurance coverage in amounts to be determined by the Corporation. In the event fees charged for investment insurance, guaranties, or reinsurance are reduced, fees to be paid under existing contracts for the same type of insurance, guaranties, or reinsurance and for similar guaranties issued under predecessor guaranty authority may be reduced.”
+<b>1992</b>—Subsec. (d). Pub. L. 102–549, §105(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Fees shall be charged for insurance, guaranty, and reinsurance coverage in amounts to be determined by the Corporation. In the event fees charged for investment insurance, guaranties, or reinsurance are reduced, fees to be paid under existing contracts for the same type of insurance, guaranties, or reinsurance and for similar guaranties issued under predecessor guaranty authority may be reduced.”
 
 Subsecs. (n), (<i>o</i>). Pub. L. 102–549, §105(b), (c), added subsecs. (n) and (<i>o</i>).
 
-1988—Pub. L. 100–461 inserted reference to financing in section catchline.
+<b>1988</b>—Pub. L. 100–461 inserted reference to financing in section catchline.
 
-1985—Subsec. (f). Pub. L. 99–204, §6(b), added cl. (3).
+<b>1985</b>—Subsec. (f). Pub. L. 99–204, §6(b), added cl. (3).
 
 Pub. L. 99–204, §9(b)(2), inserted “or 2194b” after “section 2194”.
 
 Subsec. (m). Pub. L. 99–204, §4(b), added subsec. (m).
 
-1981—Subsec. (f). Pub. L. 97–65 substituted “Compensation for insurance, reinsurance, or guaranties issued under this subpart shall not exceed the dollar value, as of the date of the investment, of the investment made in the project with the approval of the Corporation plus interest, earnings, or profits actually accrued on such investment to the extent provided by such insurance, reinsurance, or guaranty, except that the Corporation may provide that (1) appropriate adjustments in the insured dollar value be made to reflect the replacement cost of project assets, and (2) compensation for a claim of loss under insurance of an equity investment may be computed on the basis of the net book value attributable to such equity investment on the date of loss” for “No insurance, reinsurance, or guaranty issued under this subpart shall exceed the dollar value, as of the date of the investment, of the investment made in the project with the approval of the Corporation plus interest, earnings or profits actually accrued on said investment to the extent provided by such insurance, reinsurance, or guaranty, except that the Corporation may provide for appropriate adjustments in the insured dollar value to reflect the replacement cost of project assets”, and struck out provision that the preceding sentence not apply to the extent not permitted by State law.
+<b>1981</b>—Subsec. (f). Pub. L. 97–65 substituted “Compensation for insurance, reinsurance, or guaranties issued under this subpart shall not exceed the dollar value, as of the date of the investment, of the investment made in the project with the approval of the Corporation plus interest, earnings, or profits actually accrued on such investment to the extent provided by such insurance, reinsurance, or guaranty, except that the Corporation may provide that (1) appropriate adjustments in the insured dollar value be made to reflect the replacement cost of project assets, and (2) compensation for a claim of loss under insurance of an equity investment may be computed on the basis of the net book value attributable to such equity investment on the date of loss” for “No insurance, reinsurance, or guaranty issued under this subpart shall exceed the dollar value, as of the date of the investment, of the investment made in the project with the approval of the Corporation plus interest, earnings or profits actually accrued on said investment to the extent provided by such insurance, reinsurance, or guaranty, except that the Corporation may provide for appropriate adjustments in the insured dollar value to reflect the replacement cost of project assets”, and struck out provision that the preceding sentence not apply to the extent not permitted by State law.
 
-1978—Subsec. (f). Pub. L. 95–268, §5, inserted provisions excepting from dollar amounts adjustments in the insured dollar amounts to reflect replacement cost of project assets, and provisions excepting from limitations loans by banks or other financial institutions to unrelated parties.
+<b>1978</b>—Subsec. (f). Pub. L. 95–268, §5, inserted provisions excepting from dollar amounts adjustments in the insured dollar amounts to reflect replacement cost of project assets, and provisions excepting from limitations loans by banks or other financial institutions to unrelated parties.
 
 Subsec. (<i>l</i>). Pub. L. 95–268, §6, added subsec. (<i>l</i>).
 
-1974—Subsecs. (a) to (c). Pub. L. 93–390, §2(4)(A)–(C), inserted references to reinsurance wherever appearing.
+<b>1974</b>—Subsecs. (a) to (c). Pub. L. 93–390, §2(4)(A)–(C), inserted references to reinsurance wherever appearing.
 
 Subsec. (d). Pub. L. 93–390, §2(4)(D), inserted provisions authorizing fees to be charged for reinsurance and reduction of reinsurance fees under existing contracts in the event fees charged for reinsurance are reduced.
 

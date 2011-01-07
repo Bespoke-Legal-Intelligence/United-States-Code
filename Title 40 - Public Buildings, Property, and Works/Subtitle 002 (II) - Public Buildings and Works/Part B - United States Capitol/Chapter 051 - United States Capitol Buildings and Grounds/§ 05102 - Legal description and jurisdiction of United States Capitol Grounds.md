@@ -58,11 +58,11 @@ In general.—Except as provided under paragraph (2), the United States Capitol 
 
 Authority of librarian of congress.—Notwithstanding subsections (a) and (b), the Librarian of Congress shall retain authority over the Library of Congress buildings and grounds in accordance with section 1 of the Act of June 29, 1922 (2 U.S.C. 141; 42 Stat. 715).
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1175; Pub. L. 108–7, div. H, title I, §1016(b), Feb. 20, 2003, 117 Stat. 364; Pub. L. 110–161, div. H, title I, §1004(d)(2)(A)(ii), Dec. 26, 2007, 121 Stat. 2233; Pub. L. 110–178, §4(b)(1)(B), Jan. 7, 2008, 121 Stat. 2551.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1175; Pub. L. 108–7, div. H, title I, §1016(b), Feb. 20, 2003, 117 Stat. 364; Pub. L. 110–161, div. H, title I, §1004(d)(2)(A)(ii), Dec. 26, 2007, 121 Stat. 2233; Pub. L. 110–178, §4(b)(1)(B), Jan. 7, 2008, 121 Stat. 2551; Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
 
 #### Definition of United States Capitol Grounds
 
-<i>For provisions directing amendment of this section (or section 1 of the Act of July 31, 1946, as amended (former 40 U.S.C. 193a), which was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as this section) to include within or exclude from the definition of the United States Capitol Grounds certain parcels or areas, see notes set out below and under section 6101 of this title.</i>
+<i>For provisions directing amendment of this section (or section 1 of the Act of July 31, 1946,</i><i>as amended (former 40 U.S.C. 193a), which was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as this section) to include within or exclude from the definition of the United States Capitol Grounds certain parcels or areas, see notes set out below and under section 6101 of this title.</i>
 
 Historical and Revision Notes
 
@@ -88,11 +88,17 @@ Section 307E of the Legislative Branch Appropriations Act, 1989, referred to in 
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–178 made amendment identical to that made by Pub. L. 110–161. See 2007 Amendment note below.
+<b>2010</b>—Subsec. (d). Pub. L. 111–145 repealed Pub. L. 110–161, §1004(d)(2)(A)(ii). See 2007 Amendment note below.
 
-2007—Subsec. (d). Pub. L. 110–161 added subsec. (d).
+<b>2008</b>—Subsec. (d). Pub. L. 110–178 added subsec. (d).
 
-2003—Subsec. (c). Pub. L. 108–7 added subsec. (c).
+<b>2007</b>—Subsec. (d). Pub. L. 110–161, §1004(d)(2)(A)(ii), which made an amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
+
+<b>2003</b>—Subsec. (c). Pub. L. 108–7 added subsec. (c).
+
+#### Effective Date of 2010 Amendment
+
+Repeal of section 1004 of Pub. L. 110–161 by Pub. L. 111–145 effective as if included in the enactment of Pub. L. 110–161 and provisions amended by section 1004 of Pub. L. 110–161 to be restored as if such section had not been enacted, and repeal to have no effect on the enactment or implementation of any provision of Pub. L. 110–178, see section 6(d) of Pub. L. 111–145, set out as a note under section 1901 of Title 2, The Congress.
 
 #### Effective Date of 2008 Amendment
 
@@ -154,7 +160,7 @@ Additional transfer.—
 
 &emsp;&emsp;“(A)
 
-In general.—Administrative jurisdiction over the parcel bounded by 2nd Street Southwest, the C Street Southwest ramp to I–295, the D Street Southwest ramp to I–395, and I–295 is hereby transferred, subject to the terms in this paragraph, from the District of Columbia as follows:
+In general.—Administrative jurisdiction over the parcel bounded by 2nd Street Southwest, the C Street Southwest ramp to I–295, the D StreetSouthwest ramp to I–395, and I–295 is hereby transferred, subject to the terms in this paragraph, from the District of Columbia as follows:
 
 &emsp;&emsp;&emsp;“(i) The northernmost .249 acres is transferred to the Secretary for administration by the Director, who (subject to the approval of the Architect of the Capitol) shall landscape the parcel or use the parcel for special needs parking for the memorial referred to in paragraph (2).
 
@@ -260,7 +266,7 @@ Sunset.—This section shall expire 10 years after the date of enactment of this
 
 #### “SEC. 406. TREATMENT AS PROPERTIES TRANSFERRED TO ARCHITECT OF THE CAPITOL AS PART OF CAPITOL BUILDINGS AND GROUNDS.
 
-“Upon transfer to the Architect of the Capitol of title to, or administrative jurisdiction over, any property pursuant to this Act, the property shall be a part of the United States Capitol Grounds and shall be subject to sections 9, 9A, 9B, 9C, 14, and 16(b) of the Act entitled ‘An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes’ \[2 U.S.C. 1961, 1966, 1967, 1922, 1969, 1961 note\] (relating to the policing of the United States Capitol Grounds) and sections 5101 to 5107 and 5109 of title 40, United States Code (relating to prohibited acts within the United States Capitol Grounds).
+“Upon transfer to the Architect of the Capitol of title to, or administrative jurisdiction over, any property pursuant to this Act, the property shall be a part of theUnited States Capitol Grounds and shall be subject to sections 9, 9A, 9B, 9C, 14, and 16(b) of the Act entitled ‘An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes’ \[2 U.S.C. 1961, 1966, 1967, 1922, 1969, 1961 note\] (relating to the policing of the United States Capitol Grounds) and sections 5101 to 5107 and 5109 of title 40, United States Code (relating to prohibited acts within the United States Capitol Grounds).
 
 #### “SEC. 407. DEADLINE FOR PROVISION OF DEEDS AND RELATED DOCUMENTS.
 
@@ -406,7 +412,7 @@ Jurisdiction of capitol police.—The United States Capitol Police shall have ju
 
 Effect of transfers.—A person relinquishing jurisdiction over a parcel of Federal real property transferred by subsection (b) shall not retain any interest in the parcel except as specifically provided by this section.”
 
-Pub. L. 97–379, Dec. 22, 1982, 96 Stat. 1935, provided: “That section 1 of the Act of July 31, 1946, as amended (40 U.S.C. 193a) \[now 40 U.S.C. 5102\], is amended to include within the definition of the United States CapitolGrounds the following additional areas which are situated as follows:
+Pub. L. 97–379, Dec. 22, 1982, 96 Stat. 1935, provided: “That section 1 of the Act of July 31, 1946, as amended (40 U.S.C. 193a) \[now 40 U.S.C. 5102\], is amended to include within the definition of the United States Capitol Grounds the following additional areas which are situated as follows:
 
 “(1) All sidewalks and contiguous areas presently under the jurisdiction of the District of Columbia located on the south side of Pennsylvania Avenue, Northwest, between the west curb of First Street, Northwest and the east curb of Third Street, Northwest.
 
@@ -462,7 +468,7 @@ Pub. L. 96–432, §1, Oct. 10, 1980, 94 Stat. 1851, provided: “That section 1
 
 “(22) all that area contiguous to, and surrounding, square numbered 581 from the property line thereof to the contiguous curb.”
 
-Pub. L. 93–198, title VII, §739(g)(3), Dec. 24, 1973, 87 Stat. 828, effective Jan. 2, 1975, \[title IV of Pub. L. 93–198 having been accepted by a majority of the registered qualified electors in the District of Columbia voting on the charter issue in the charter referendum conducted May 8, 1974\], provided in part that the definition of United States Capitol Grounds should include the following streets: Independence Avenue from the west curb of First Street S.E. to the east curb of First Street S.W., New Jersey Avenue S.E. from the south curb of Independence Avenue to the north curb of D Street S.E., South Capitol Street from the south curb of Independence Avenue to the north curb of D Street; Delaware Avenue S.W. from the south curb of C Street S.W. to the North Curb of D Street S.W., C Street from the west curb of First Street S.E. to the intersection of First and Canal Streets, S.W., D Street from the west curb of First Street S.E. to the intersection of Canal Street and Delaware Avenue S.W., that part of First Street lying west of the outer face of the curb of the sidewalk on the east side thereof from D Street, N.E. to D Street S.E., that part of First Street within the east and west curblines thereof extending from the north side of Pennsylvania Avenue N.W. to the intersection of C Street and Canal Street S.W., including the two circles within such area, but that nothing in the inclusion of such streets should be construed as repealing, or otherwise altering, modifying, affecting, or superseding those provisions of law in effect prior to the vesting of authority in the United States Supreme Court police and Library of Congress police by title IV of Pub. L. 93–198 to make arrests in adjacent streets, including First Street N.E. and First Street S.E.
+Pub. L. 93–198, title VII, §739(g)(3), Dec. 24, 1973, 87 Stat. 828, effective Jan. 2, 1975, \[title IV of Pub. L. 93–198 having been accepted by a majority of the registered qualified electors in the District of Columbia voting on the charter issue in the charter referendum conducted May 8, 1974\], provided in part that the definition of United States Capitol Grounds should include the following streets: Independence Avenue from the west curb of First Street S.E. to the east curb of First Street S.W., New Jersey Avenue S.E. from the south curb of Independence Avenue to the north curb of D Street S.E., South Capitol Street from the south curb of Independence Avenue to the north curb of D Street; Delaware Avenue S.W. from the south curb of C StreetS.W. to the North Curb of D Street S.W., C Street from the west curb of First Street S.E. to the intersection of First and Canal Streets, S.W., D Street from the west curb of First Street S.E. to the intersection of Canal Street and Delaware Avenue S.W., that part of First Street lying west of the outer face of the curb of the sidewalk on the east side thereof from D Street, N.E. to D Street S.E., that part of First Street within the east and west curblines thereof extending from the north side of Pennsylvania Avenue N.W. to the intersection of C Street and Canal Street S.W., including the two circles within such area, but that nothing in the inclusion of such streets should be construed as repealing, or otherwise altering, modifying, affecting, or superseding those provisions of law in effect prior to the vesting of authority in the United States Supreme Court police and Library of Congress police by title IV of Pub. L. 93–198 to make arrests in adjacent streets, including First Street N.E. and First Street S.E.
 
 #### Jurisdiction of the Capitol Police Board and the Architect of the Capitol
 
@@ -472,7 +478,7 @@ Pub. L. 96–432, §3, Oct. 10, 1980, 94 Stat. 1852, provided that: “On and af
 
 Pub. L. 96–432, §6(a), (b), Oct. 10, 1980, 94 Stat. 1853, provided that:
 
-“(a) Notwithstanding any other provisions of this Act \[enacting section 1962 of Title 2, The Congress, amending section 193a of former Title 40, Public Buildings, Property, and Works, and enacting provisions set out as notes under this section\], with respect to those squares occupied by the United States Supreme Court and the Library of Congress, those streets or portions thereof referred to in the first section of this Act \[set out as a note above\] which surround such squares shallbe considered a part of the Capitol Grounds only to the face of the curbs contiguous to such squares.
+“(a) Notwithstanding any other provisions of this Act \[enacting section 1962 of Title 2, The Congress, amending section 193a of former Title 40, Public Buildings, Property, and Works, and enacting provisions set out as notes under this section\], with respect to those squares occupied by the United States Supreme Court and the Library of Congress, those streets or portions thereof referred to in the first section of this Act \[set out as a note above\] which surround such squares shall be considered a part of the Capitol Grounds only to the face of the curbs contiguous to such squares.
 
 “(b) Nothing in this Act shall be construed as repealing, or otherwise altering, modifying, affecting, or superseding those provisions of law in effect on the date immediately preceding the date of the enactment of this Act \[Oct. 10, 1980\] vesting authority in the United States Supreme Court Police and the Library of Congress Police to make arrests in adjacent streets.”
 
@@ -506,7 +512,7 @@ Pub. L. 85–429, May 29, 1958, 72 Stat. 148 and Pub. L. 85–591, Aug. 6, 1958,
 
 WHEREAS, under authority of Section 1202 of Public Law 24, 84th Congress (69 Stat. 41), approved April 22, 1955, known as the “Additional House Office Building Act of 1955”, the Architect of the Capitol, at the direction of the House Office Building Commission, acquired during the period of 1955 to 1960, on behalf of the United States, by condemnation, seven squares in the District of Columbia, located south of Independence Avenue, in the vicinity of the United States Capitol Grounds, as a site for an additional office building and other necessary facilities for the House of Representatives and for additions to the United States Capitol Grounds;
 
-WHEREAS, under the aforesaid authority, the Architect of the Capitol, at the direction of the Commission, acquired in 1965 on behalf of the United States, through transfer from the Redevelopment Land Agency, Square 639, also located south of Independence Avenue, for an addition to the United States Capitol Grounds;
+WHEREAS, under the aforesaid authority, the Architect of the Capitol, at the direction of the Commission, acquired in 1965 on behalf of the United States, through transfer from the Redevelopment Land Agency, Square639, also located south of Independence Avenue, for an addition to the United States Capitol Grounds;
 
 WHEREAS, the aforesaid eight squares are identified and bound as follows: <i>Square 635</i>, bounded on the north by Independence Avenue, on the east by Delaware Avenue, on the west by First Street, on the south by C Street; <i>Square 637</i>, bounded on the north by C Street, on the east by South Capitol Street, on the west by Delaware Avenue, on the south by D Street; <i>Square South of 635</i>, bounded on the north by C Street, on the east by Delaware Avenue, on the west and south by Canal Street; <i>Square 691</i>, bounded on the north by C Street, on the east by New Jersey Avenue, on the west by South Capitol Street, on the south by D Street; <i>Square 692</i>, bounded on the north by C Street, on the east by First Street, on the west by New Jersey Avenue, on the south by D Street; <i>Square 732 north</i>, bounded on the north by Independence Avenue, on the east by Second Street, on the west by First Street, on the south by Carroll Street; <i>Square 732 south</i>, bounded on the north by Carroll Street, on the east by Second Street, on the west by First Street, on the south by C Street; and <i>Square 639</i>, bounded on the north by D Street, on the east by South Capitol Street, on the west and south by Canal Street;
 
@@ -516,7 +522,7 @@ WHEREAS, subsequent to acquisition of these 8 squares, under the aforesaid autho
 
 WHEREAS, the Rayburn House Office Building has been constructed on Squares 635 and 636 (the latter square being already owned by the government and having been combined with Square 635 as a site for this building under the aforesaid authority), and the said building is now maintained by the Architect of the Capitol as a part of the House Office Buildings, and the sidewalks and other paved and grassed areas surrounding this building are now maintained as part of the Capitol Grounds;
 
-WHEREAS, underground garages for the House of Representatives have been constructed in Squares 637and 691 and are now maintained by the Architect of the Capitol as part of the House Office Buildings, and the areas above these garages have been landscaped as a part of the Capitol Grounds;
+WHEREAS, underground garages for the House of Representatives have been constructed in Squares 637 and 691 and are now maintained by the Architect of the Capitol as part of the House Office Buildings, and the areas above these garages have been landscaped as a part of the Capitol Grounds;
 
 WHEREAS, Squares South of 635 and 639 have been developed as parking lots for automobiles for Members and employees of the House and are now maintained as part of the Capitol Grounds;
 

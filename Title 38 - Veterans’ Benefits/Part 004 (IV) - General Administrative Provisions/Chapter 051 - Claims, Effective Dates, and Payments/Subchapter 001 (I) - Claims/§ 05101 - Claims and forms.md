@@ -8,7 +8,7 @@
 
 (c)(1) Any person who applies for or is in receipt of any compensation or pension benefit under laws administered by the Secretary shall, if requested by the Secretary, furnish the Secretary with the social security number of such person and the social security number of any dependent or beneficiary on whose behalf, or based upon whom, such person applies for or is in receipt of such benefit. A person is not required to furnish the Secretary with a social security number for any person to whom a social security number has not been assigned.
 
-(2) The Secretary shall deny the application of or terminate the payment of compensation or pension to a person who fails to furnish the Secretary with a social security number required to be furnished pursuant to paragraph (1) of this subsection. The Secretary may thereafter reconsider the application or reinstate payment of compensation or pension, as the case may be, ifsuch person furnishes the Secretary with such social security number.
+(2) The Secretary shall deny the application of or terminate the payment of compensation or pension to a person who fails to furnish the Secretary with a social security number required to be furnished pursuant to paragraph (1) of this subsection. The Secretary may thereafter reconsider the application or reinstate payment of compensation or pension, as the case may be, if such person furnishes the Secretary with such social security number.
 
 (3) The costs of administering this subsection shall be paid for from amounts available to the Department of Veterans Affairs for the payment of compensation and pension.
 
@@ -20,9 +20,9 @@ Prior section 5101 was renumbered section 8301 of this title.
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–183 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–183 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 3001 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 3001 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” after “prescribed by the”.
 
@@ -30,11 +30,11 @@ Pub. L. 102–83, §4(a)(1), substituted “administered by the Secretary” for
 
 Pub. L. 102–40, §402(d)(1), substituted “5105” for “3005”.
 
-1990—Subsec. (c). Pub. L. 101–508 added subsec. (c).
+<b>1990</b>—Subsec. (c). Pub. L. 101–508 added subsec. (c).
 
-1986—Subsec. (b)(1). Pub. L. 99–576 substituted “surviving spouse or” for “widow or” in two places.
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–576 substituted “surviving spouse or” for “widow or” in two places.
 
-1982—Subsec. (a). Pub. L. 97–295 substituted “Health and Human Services” for “Health, Education, and Welfare”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–295 substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
 #### Pilot Programs on Expedited Treatment of Fully Developed Claims and Provision of Checklists to Individuals Submitting Claims
 
@@ -126,7 +126,7 @@ Elements of interim reports.—The reports required by paragraphs (1) and (2) sh
 
 &emsp;“(4)
 
-Final report.—Not later than 180 days after the completion of each pilot program carried out under this section, the Secretary shall submit to Congress a final report on the feasibility and advisabilityof continuing or expanding the respective pilot program.”
+Final report.—Not later than 180 days after the completion of each pilot program carried out under this section, the Secretary shall submit to Congress a final report on the feasibility and advisability of continuing or expanding the respective pilot program.”
 
 #### Study of Performance Measures for Claims Adjudications of the Veterans Benefits Administration
 
@@ -256,11 +256,11 @@ Report to Congress.—Not later than April 1, 2010, the Secretary shall submit t
 
 #### Temporary Authority for Performance of Medical Disabilities Examinations by Contract Physicians
 
-Pub. L. 108–183, title VII, §704, Dec. 16, 2003, 117 Stat. 2672, as amended by Pub. L. 110–389, §105, Oct. 10, 2008, 122 Stat. 4149, provided that:
+Pub. L. 108–183, title VII, §704, Dec. 16, 2003, 117 Stat. 2672, as amended by Pub. L. 110–389, §105, Oct. 10, 2008, 122 Stat. 4149; Pub. L. 111–275, title VIII, §809, Oct. 13, 2010, 124 Stat. 2894, provided that:
 
 “(a)
 
-Authority.—Using appropriated funds, other than funds available for compensation and pension, the Secretary of Veterans Affairs may provide for the conduct of examinations with respect to the medical disabilities of applicants for benefits under laws administered by the Secretary by persons other than Department of Veterans Affairs employees. The authority under this section is in addition to the authority provided in section 504(b) of the Veterans’ Benefits Improvement Act of 1996 (Public Law 104–275; 38 U.S.C. 5101 note).
+Authority.—Using appropriated funds, other than funds available for compensation and pension, theSecretary of Veterans Affairs may provide for the conduct of examinations with respect to the medical disabilities of applicants for benefits under laws administered by the Secretary by persons other than Department of Veterans Affairs employees. The authority under this section is in addition to the authority provided in section 504(b) of the Veterans’ Benefits Improvement Act of 1996 (Public Law 104–275; 38 U.S.C. 5101 note).
 
 “(b)
 
@@ -268,7 +268,7 @@ Performance by Contract.—Examinations under the authority provided in subsecti
 
 “(c)
 
-Expiration.—The authority in subsection (a) shall expire on December 31, 2010. No examination may be carried out under the authority provided in that subsection after that date.
+Expiration.—The authority in subsection (a) shall expire on December 31, 2012. No examination may be carried out under the authority provided in that subsection after that date.
 
 “(d)
 

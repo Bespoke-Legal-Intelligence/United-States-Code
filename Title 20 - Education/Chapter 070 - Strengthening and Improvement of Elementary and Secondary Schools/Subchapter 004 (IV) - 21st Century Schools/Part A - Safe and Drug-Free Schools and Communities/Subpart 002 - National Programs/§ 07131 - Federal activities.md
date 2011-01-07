@@ -20,7 +20,7 @@ From funds made available to carry out this subpart under section 7103(2) of thi
 
 &emsp;(4) the provision of information on violence prevention and education and school safety to the Department of Justice for dissemination;
 
-&emsp;(5) technical assistance to chief executive officers, State agencies, local educational agencies, and other recipients of funding under this part to build capacity to develop and implement high-quality, effective drug and violence prevention programs consistent with the principles of effectiveness in section 7115(a) of this title;
+&emsp;(5) technical assistance to chief executive officers, State agencies, local educational agencies, and other recipients of funding under thispart to build capacity to develop and implement high-quality, effective drug and violence prevention programs consistent with the principles of effectiveness in section 7115(a) of this title;
 
 &emsp;(6) assistance to school systems that have particularly severe drug and violence problems, including hiring drug prevention and school safety coordinators, or assistance to support appropriate response efforts to crisis situations;
 

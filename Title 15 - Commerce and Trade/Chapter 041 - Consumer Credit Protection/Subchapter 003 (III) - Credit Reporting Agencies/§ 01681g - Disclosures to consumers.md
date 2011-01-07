@@ -6,7 +6,7 @@ Every consumer reporting agency shall, upon request, and subject to section 1681
 
 (1) All information in the consumer's file at the time of the request, except that—
 
-&emsp;(A) if the consumer to whom the file relates requests that the first 5 digits of the social security number (or similar identification number) of the consumer not be included in the disclosure and the consumer reporting agency has received appropriate proof of the identity of the requester, the consumer reporting agency shall so truncate such number in such disclosure; and
+&emsp;(A) if the consumer to whom the file relates requests that the first 5 digits of the social security number (or similar identification number) of the consumer not be included in thedisclosure and the consumer reporting agency has received appropriate proof of the identity of the requester, the consumer reporting agency shall so truncate such number in such disclosure; and
 
 &emsp;(B) nothing in this paragraph shall be construed to require a consumer reporting agency to disclose to a consumer any information concerning credit scores or any other risk scores or predictors relating to the consumer.
 
@@ -102,7 +102,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 #### (1) In general
 
-&emsp;For the purpose of documenting fraudulent transactions resulting from identity theft, not later than 30 days after the date of receipt of a request from a victim in accordance with paragraph (3), and subject to verification of the identity of the victim and the claim of identity theft in accordance with paragraph (2), a business entity that has provided credit to, provided for consideration products, goods, or services to, accepted payment from, or otherwise entered into a commercial transaction for consideration with, a person who has allegedly made unauthorized use of themeans of identification of the victim, shall provide a copy of application and business transaction records in the control of the business entity, whether maintained by the business entity or by another person on behalf of the business entity, evidencing any transaction alleged to be a result of identity theft to—
+&emsp;For the purpose of documenting fraudulent transactions resulting from identity theft, not later than 30 days after the date of receipt of a request from a victim in accordance with paragraph (3), and subject to verification of the identity of the victim and the claim of identity theft in accordance with paragraph (2), a business entity that has provided credit to, provided for consideration products, goods, or services to, accepted payment from, or otherwise entered into a commercial transaction for consideration with, a person who has allegedly made unauthorized use of the means of identification of the victim, shall provide a copy of application and business transaction records in the control of the business entity, whether maintained by the business entity or by another person on behalf of the business entity, evidencing any transaction alleged to be a result of identity theft to—
 
 &emsp;&emsp;(A) the victim;
 
@@ -276,7 +276,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 #### (8) Fair and reasonable fee
 
-&emsp;A consumer reporting agency may charge a fair and reasonable fee, as determined by theCommission, for providing the information required under this subsection.
+&emsp;A consumer reporting agency may charge a fair and reasonable fee, as determined by the Commission, for providing the information required under this subsection.
 
 #### (9) Use of enquiries as a key factor
 
@@ -318,7 +318,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 #### (D) Notice to home loan applicants
 
-&emsp;&emsp;A copy of the following notice, which shall include the name, address, and telephone number of each consumer reporting agency providing a credit score that was used:
+&emsp;&emsp;A copy of the following notice, which shall include the name, address, and telephonenumber of each consumer reporting agency providing a credit score that was used:
 
 “notice to the home loan applicant
 
@@ -370,7 +370,11 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 &emsp;&emsp;A lender shall not have liability under any contractual provision for disclosure of a credit score pursuant to this subsection.
 
-(Pub. L. 90–321, title VI, §609, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1131; amended Pub. L. 103–325, title III, §339, Sept. 23, 1994, 108 Stat. 2237; Pub. L. 104–208, div. A, title II, §2408(a)–(d)(1), (e)(5)(A), Sept. 30, 1996, 110 Stat. 3009–436, 3009–437, 3009–439; Pub. L. 105–347, §4(a), Nov. 2, 1998, 112 Stat. 3210; Pub. L. 108–159, title I, §§115, 151(a)(1), title II, §§211(c), 212(a)–(c), title VIII, §811(d), Dec. 4, 2003, 117 Stat. 1961, 1970, 1973–1975, 2011.)
+(Pub. L. 90–321, title VI, §609, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1131; amended Pub. L. 103–325, title III, §339, Sept. 23, 1994, 108 Stat. 2237; Pub. L. 104–208, div. A, title II, §2408(a)–(d)(1), (e)(5)(A), Sept. 30, 1996, 110 Stat. 3009–436, 3009–437, 3009–439; Pub. L. 105–347, §4(a), Nov. 2, 1998, 112 Stat. 3210; Pub. L. 108–159, title I, §§115, 151(a)(1), title II, §§211(c), 212(a)–(c), title VIII, §811(d), Dec. 4, 2003, 117 Stat. 1961, 1970, 1973–1975, 2011; Pub. L. 111–203, title X, §1088(a)(2)(C), July 21, 2010, 124 Stat. 2087.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1088(a)(2)(C), 1100H, July 21, 2010, 124 Stat. 2087, 2113, provided that, effective on the designated transfer date, this section is amended by striking “the Commission” each place that term appears and inserting “the Bureau”. See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -384,9 +388,9 @@ Public Law 106–102, referred to in subsec. (e)(9)(A), is Pub. L. 106–102, No
 
 #### Amendments
 
-2003—Subsec. (a)(1). Pub. L. 108–159, §115, substituted “except that—
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–159, §115, substituted “except that—
 
-&emsp;“(A) if the consumer to whom the file relates requests that the first 5 digits of the social security number (or similar identification number) of the consumer not be included in the disclosure and the consumer reporting agency has received appropriate proof of the identity of the requester, the consumer reporting agency shall so truncate such number in such disclosure; and
+&emsp;“(A) if the consumer to whom the file relates requests that the first 5 digits of the social securitynumber (or similar identification number) of the consumer not be included in the disclosure and the consumer reporting agency has received appropriate proof of the identity of the requester, the consumer reporting agency shall so truncate such number in such disclosure; and
 
 &emsp;“(B) nothing”
 
@@ -404,9 +408,9 @@ Subsec. (f). Pub. L. 108–159, §212(b), added subsec. (f).
 
 Subsec. (g). Pub. L. 108–159, §212(c), added subsec. (g).
 
-1998—Subsec. (a)(3)(C). Pub. L. 105–347 added subpar. (C).
+<b>1998</b>—Subsec. (a)(3)(C). Pub. L. 105–347 added subpar. (C).
 
-1996—Subsec. (a). Pub. L. 104–208, §2408(e)(5)(A), in introductory provisions substituted “, and subject to section 1681h(a)(1) of this title” for “and proper identification of any consumer”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2408(e)(5)(A), in introductory provisions substituted “, and subject to section 1681h(a)(1) of this title” for “and proper identification of any consumer”.
 
 Subsec. (a)(1). Pub. L. 104–208, §2408(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The nature and substance of all information (except medical information) in its files on the consumer at the time of the request.”
 
@@ -420,7 +424,11 @@ Subsec. (a)(5). Pub. L. 104–208, §2408(c), added par. (5).
 
 Subsec. (c). Pub. L. 104–208, §2408(d)(1), added subsec. (c).
 
-1994—Subsec. (a)(4). Pub. L. 103–325 added par. (4).
+<b>1994</b>—Subsec. (a)(4). Pub. L. 103–325 added par. (4).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2003 Amendment
 

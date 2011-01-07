@@ -46,13 +46,13 @@ A prior section 3322, act June 25, 1948, ch. 645, 62 Stat. 829, related to the s
 
 #### Amendments
 
-2002—Subsec. (d)(1)(A). Pub. L. 107–273, §11002(1), substituted “1344, 1956, or 1957;” for “or 1344; or”.
+<b>2002</b>—Subsec. (d)(1)(A). Pub. L. 107–273, §11002(1), substituted “1344, 1956, or 1957;” for “or 1344; or”.
 
 Subsec. (d)(1)(C). Pub. L. 107–273, §11002(2), (3), added subpar. (C).
 
-2000—Subsec. (a). Pub. L. 106–185 struck out “concerning a banking law violation” after “grand jury information” in introductory provisions and substituted “any civil forfeiture provision of Federal law” for “civil forfeiture under section 981 of title 18, United States Code, of property described in section 981(a)(1)(C) of such title” in concluding provisions.
+<b>2000</b>—Subsec. (a). Pub. L. 106–185 struck out “concerning a banking law violation” after “grand jury information” in introductory provisions and substituted “any civil forfeiture provision of Federal law” for “civil forfeiture under section 981 of title 18, United States Code, of property described in section 981(a)(1)(C) of such title” in concluding provisions.
 
-1999—Subsec. (b)(1). Pub. L. 106–102, §740(1), inserted “Federal or State” before “financial institution” in introductory provisions.
+<b>1999</b>—Subsec. (b)(1). Pub. L. 106–102, §740(1), inserted “Federal or State” before “financial institution” in introductory provisions.
 
 Subsec. (b)(2). Pub. L. 106–102, §740(2), inserted “at any time during or after the completion of the investigation of the grand jury,” after “paragraph (1)”.
 

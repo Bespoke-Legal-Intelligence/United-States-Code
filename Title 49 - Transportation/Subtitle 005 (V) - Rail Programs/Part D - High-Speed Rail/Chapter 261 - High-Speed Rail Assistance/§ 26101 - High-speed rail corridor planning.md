@@ -28,7 +28,7 @@ Eligible Activities.—(1) A corridor planning activity is eligible for financia
 
 &emsp;(I) preliminary engineering and design;
 
-&emsp;(J) identification of specific improvements to a corridor, including electrification, line straightening and other right-of-way improvements, bridge rehabilitation and replacement, use of advanced locomotives and rolling stock, ticketing, coordination with other modes of transportation, parking and other means of passenger access, track, signal, station, and other capital work, and use of intermodal terminals;
+&emsp;(J) identification of specific improvements to a corridor, including electrification, line straightening and other right-of-way improvements, bridge rehabilitation and replacement, use of advanced locomotives and rolling stock, ticketing, coordination with other modes of transportation, parking and other means ofpassenger access, track, signal, station, and other capital work, and use of intermodal terminals;
 
 &emsp;(K) preparation of financing plans and prospectuses;
 
@@ -82,7 +82,7 @@ A prior section 26101 was renumbered section 28101 of this title.
 
 #### Amendments
 
-2008—Pub. L. 110–432, §501(a)(1), substituted “High-speed rail corridor planning” for “Corridor development” in section catchline.
+<b>2008</b>—Pub. L. 110–432, §501(a)(1), substituted “High-speed rail corridor planning” for “Corridor development” in section catchline.
 
 Subsec. (a). Pub. L. 110–432, §501(a)(2), substituted “Corridor Planning” for “Corridor Development” in heading.
 
@@ -90,7 +90,7 @@ Subsecs. (a)(1), (b). Pub. L. 110–432, §501(a)(3), substituted “corridor pl
 
 Subsec. (c)(2). Pub. L. 110–432, §501(a)(4), substituted “planning” for “development”.
 
-2005—Pub. L. 109–59, §9001(a)(1)(A), substituted “development” for “planning” in section catchline.
+<b>2005</b>—Pub. L. 109–59, §9001(a)(1)(A), substituted “development” for “planning” in section catchline.
 
 Subsec. (a). Pub. L. 109–59, §9001(a)(1)(B), substituted “Development” for “Planning” in subsec. heading.
 

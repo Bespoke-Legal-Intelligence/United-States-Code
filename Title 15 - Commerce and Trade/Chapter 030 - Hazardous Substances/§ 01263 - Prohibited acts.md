@@ -32,17 +32,17 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f), is act Jun
 
 #### Amendments
 
-2008—Subsec. (h). Pub. L. 110–314, §204(b)(4)(B), (C), substituted “Commission or officers or employees of the Commission” for “Secretary or officers or employees of the Department”.
+<b>2008</b>—Subsec. (h). Pub. L. 110–314, §204(b)(4)(B), (C), substituted “Commission or officers or employees of the Commission” for “Secretary or officers or employees of the Department”.
 
 Subsec. (i). Pub. L. 110–314, §204(b)(4)(H), substituted “Commission” for “Consumer Product Safety Commission”.
 
-1986—Subsec. (k). Pub. L. 99–339 added subsec. (k).
+<b>1986</b>—Subsec. (k). Pub. L. 99–339 added subsec. (k).
 
-1981—Subsec. (j). Pub. L. 97–35 added subsec. (j).
+<b>1981</b>—Subsec. (j). Pub. L. 97–35 added subsec. (j).
 
-1978—Subsec. (i). Pub. L. 95–631 added subsec. (i).
+<b>1978</b>—Subsec. (i). Pub. L. 95–631 added subsec. (i).
 
-1966—Subsec. (a). Pub. L. 89–756, §§2(f)(1), 3(b), substituted “misbranded hazardous substance or banned hazardous substance” for “misbranded package of a hazardous substance”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–756, §§2(f)(1), 3(b), substituted “misbranded hazardous substance or banned hazardous substance” for “misbranded package of a hazardous substance”.
 
 Subsec. (b). Pub. L. 89–756, §§2(f)(2), 3(b), substituted “being a misbranded hazardous substance or banned hazardous substance” for “being in a misbranded package”.
 

@@ -22,7 +22,7 @@
 
 (d) Any agreement entered into by a physician under this section shall be for a period of one year of service in the agency involved unless the physician requests an agreement for a longer period of service.
 
-(e) Unless otherwise provided for in the agreement under subsection (f) of this section, an agreement under this section shall provide that the physician, in the event that such physician voluntarily, or because of misconduct, fails to complete at least one year of service pursuant to such agreement, shall be required to refund the total amount received under this section, unless the head of the agency, pursuant to suchregulations as may be prescribed under this section by the President or his designee, determines that such failure is necessitated by circumstances beyond the control of the physician.
+(e) Unless otherwise provided for in the agreement under subsection (f) of this section, an agreement under this section shall provide that the physician, in the event that such physician voluntarily, or because of misconduct, fails to complete at least one year of service pursuant to such agreement, shall be required to refund the total amount received under this section, unless the head of the agency, pursuant to such regulations as may be prescribed under this section by the President or his designee, determines that such failure is necessitated by circumstances beyond the control of the physician.
 
 (f) Any agreement under this section shall specify, subject to such regulations as the President or his designee may prescribe, the terms under which the head of the agency and the physician may elect to terminate such agreement, and the amounts, if any, required to be refunded by the physician for each reason for termination.
 
@@ -72,7 +72,7 @@
 
 &emsp;(5) the degree to which the recruitment or retention problems referred to in paragraph (2) were alleviated under this section.
 
-(Added Pub. L. 95–603, §2(a), Nov. 6, 1978, 92 Stat. 3018; amended Pub. L. 96–166, §2, Dec. 29, 1979, 93 Stat. 1273; Pub. L. 97–141, §2, Dec. 29, 1981, 95 Stat. 1719; Pub. L. 98–168, title I, §102(a), Nov. 29, 1983, 97 Stat. 1105; Pub. L. 98–615, title II, §204(a)(3), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 100–140, §1, Oct. 26, 1987, 101 Stat. 830; Pub. L. 101–420, §1(a), formerly §1, Oct. 12, 1990, 104 Stat. 908, renumbered §1(a), Pub. L. 103–114, §1(b)(2)(A), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 102–378, §2(51), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 103–89, §3(b)(1)(M), Sept. 30, 1993, 107 Stat. 982; Pub. L. 103–114, §§1(a)(1), 2(a), Oct. 26, 1993, 107 Stat. 1115, 1116; Pub. L. 105–61, title V, §517(a), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 105–266, §7(a), Oct. 19, 1998, 112 Stat. 2369; Pub. L. 106–554, §1(a)(1) \[title II, §218(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–28; Pub. L. 106–571, §§2(a)(1), (b), 3(d), Dec. 28, 2000, 114 Stat. 3054, 3057.)
+(Added Pub. L. 95–603, §2(a), Nov. 6, 1978, 92 Stat. 3018; amended Pub. L. 96–166, §2, Dec. 29, 1979, 93 Stat. 1273; Pub. L. 97–141, §2, Dec. 29, 1981, 95 Stat. 1719; Pub. L. 98–168, title I, §102(a), Nov. 29, 1983, 97 Stat. 1105; Pub. L. 98–615, title II, §204(a)(3), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 100–140, §1, Oct. 26, 1987, 101 Stat. 830; Pub. L. 101–420, §1(a), formerly §1, Oct. 12, 1990, 104 Stat. 908, renumbered §1(a), Pub. L. 103–114, §1(b)(2)(A), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 102–378, §2(51), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 103–89, §3(b)(1)(M), Sept. 30, 1993, 107 Stat. 982; Pub. L. 103–114, §§1(a)(1), 2(a), Oct. 26, 1993, 107Stat. 1115, 1116; Pub. L. 105–61, title V, §517(a), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 105–266, §7(a), Oct. 19, 1998, 112 Stat. 2369; Pub. L. 106–554, §1(a)(1) \[title II, §218(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–28; Pub. L. 106–571, §§2(a)(1), (b), 3(d), Dec. 28, 2000, 114 Stat. 3054, 3057.)
 
 #### References in Text
 
@@ -90,7 +90,7 @@ Section 2 of the Act of May 29, 1959 (Public Law 86–36, as amended, 50 U.S.C. 
 
 2000—Subsec. (d). Pub. L. 106–571, §2(a)(1), struck out second sentence which read as follows: “No agreement shall be entered into under this section later than September 30, 2005, nor shall any agreement cover a period of service extending beyond September 30, 2007.”
 
-Pub. L. 106–554 amended second sentence generally. Prior to amendment, second sentence read as follows:“No agreement shall be entered into under this section later than September 30, 2000, nor shall any agreement cover a period of service extending beyond September 30, 2002.”
+Pub. L. 106–554 amended second sentence generally. Prior to amendment, second sentence read as follows: “No agreement shall be entered into under this section later than September 30, 2000, nor shall any agreement cover a period of service extending beyond September 30, 2002.”
 
 Subsec. (h)(1). Pub. L. 106–571, §3(d), substituted “chapter 81 or 87” for “chapter 81, 83, or 87”.
 
@@ -170,7 +170,7 @@ Section 101 of title I of Pub. L. 98–168 provided that: “This title \[amendi
 
 #### Short Title of 1981 Amendment
 
-Section 1 of Pub. L. 97–141 provided: “That this Act \[amending this section and section 8344 of this title andprovisions set out below and enacting provisions set out as notes under this section and section 8344 of this title\] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 1981’.”
+Section 1 of Pub. L. 97–141 provided: “That this Act \[amending this section and section 8344 of this title and provisions set out below and enacting provisions set out as notes under this section and section 8344 of this title\] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 1981’.”
 
 #### Short Title of 1979 Amendment
 

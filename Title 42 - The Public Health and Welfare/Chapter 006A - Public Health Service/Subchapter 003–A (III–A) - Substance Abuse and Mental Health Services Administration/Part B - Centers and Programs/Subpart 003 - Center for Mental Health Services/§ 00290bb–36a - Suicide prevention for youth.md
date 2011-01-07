@@ -52,7 +52,7 @@ A public organization, private nonprofit organization, political subdivision, co
 
 #### (h) Distribution of awards
 
-In awarding grants and cooperative agreements under subsection (a) of this section, the Secretary shall ensure that such awards are distributed among the geographical regions of the United States and between urban and rural settings.
+In awarding grants and cooperative agreements under subsection (a) of this section, theSecretary shall ensure that such awards are distributed among the geographical regions of the United States and between urban and rural settings.
 
 #### (i) Evaluation
 
@@ -92,7 +92,7 @@ Section was formerly classified to section 290bb–36 of this title prior to ren
 
 #### Amendments
 
-2004—Pub. L. 108–355, §3(b)(1)(A), substituted “youth” for “children and adolescents” in section catchline.
+<b>2004</b>—Pub. L. 108–355, §3(b)(1)(A), substituted “youth” for “children and adolescents” in section catchline.
 
 Subsec. (a). Pub. L. 108–355, §3(b)(1)(B), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary shall award grants, contracts, or cooperative agreements to States, political subdivisions of States, Indian tribes, tribal organizations, public organizations, or private nonprofit organizations to establish programs to reduce suicide deaths in the United States among children and adolescents.”
 
@@ -124,7 +124,7 @@ Subsec. (c)(10). Pub. L. 108–355, §3(b)(1)(D)(ii), redesignated par. (9) as (
 
 Subsec. (d). Pub. L. 108–355, §3(b)(1)(E), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “Amounts provided under grants, contracts, or cooperative agreements under subsection (a) of this section shall be used to supplement and not supplant other Federal, State, and local public funds that are expended to provide services for eligible individuals.”
 
-Subsec. (e). Pub. L. 108–355, §3(b)(1)(F), struck out “, contract,” after “grant” and inserted “application complies with the State-sponsored statewide early intervention and prevention strategy as developed under section 290bb–36 of this title and the” after “Secretary that the”.
+Subsec. (e). Pub. L. 108–355, §3(b)(1)(F), struck out “, contract,” after “grant” and inserted “application complies with the State-sponsored statewide early intervention and prevention strategy as developedunder section 290bb–36 of this title and the” after “Secretary that the”.
 
 Subsec. (f). Pub. L. 108–355, §3(b)(1)(G), struck out “, contracts,” after “grants”.
 

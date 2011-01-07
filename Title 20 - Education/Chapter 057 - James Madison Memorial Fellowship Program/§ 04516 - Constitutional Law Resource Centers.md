@@ -26,7 +26,7 @@ The application for the grant for an endowment shall require only such informati
 
 The grants for each endowment shall be for $800,000 and shall be offered to Howard University School of Law in Washington, D.C., Drake University School of Law in Des Moines, Iowa, the University of Akron School of Law in Akron, Ohio, and the University of South Carolina School of Law at Columbia, South Carolina.
 
-(Pub. L. 99–500, §101(b) \[title VIII, §817\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–81, and Pub. L. 99–591, §101(b) \[title VIII, §817\], Oct. 30, 1986, 100 Stat.3341–39, 3341–81; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 99–500, §101(b) \[title VIII, §817\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–81, and Pub. L. 99–591, §101(b) \[title VIII, §817\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–81; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
@@ -38,7 +38,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-2004—Subsec. (d). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (d). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 #### Temporary Authority To Receive, Review, and Certify for Payment Grant Applications
 

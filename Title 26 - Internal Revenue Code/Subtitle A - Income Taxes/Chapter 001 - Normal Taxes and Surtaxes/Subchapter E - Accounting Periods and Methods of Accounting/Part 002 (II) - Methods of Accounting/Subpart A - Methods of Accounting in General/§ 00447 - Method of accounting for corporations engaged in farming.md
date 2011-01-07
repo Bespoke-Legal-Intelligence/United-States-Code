@@ -50,7 +50,7 @@ For purposes of subsection (a), a corporation shall be treated as not being a co
 
 #### (ii) Pass-thru entities
 
-&emsp;&emsp;&emsp;For purposes of paragraph (1), if a family corporation holds directly or indirectlyany interest in a partnership, estate, trust or other pass-thru entity, such corporation shall take into account its proportionate share of the gross receipts of such entity.
+&emsp;&emsp;&emsp;For purposes of paragraph (1), if a family corporation holds directly or indirectly any interest in a partnership, estate, trust or other pass-thru entity, such corporation shall take into account its proportionate share of the gross receipts of such entity.
 
 #### (iii) Applicable percentage
 
@@ -78,7 +78,7 @@ For purposes of subsection (d)—
 
 &emsp;(2) stock owned, directly or indirectly, by or for a partnership or trust shall be treated as owned proportionately by its partners or beneficiaries, and
 
-&emsp;(3) if 50 percent or more in value of the stock in a corporation (hereinafter in this paragraph referred to as “first corporation”) is owned, directly or through paragraph (2), by or for members of the same family, such members shall be considered as owning each class of stock in a second corporation (or a wholly owned subsidiary of such second corporation) owned, directly or indirectly, by or for the first corporation, in that proportion which the value of the stock in the first corporation which such members so own bears to the value of all the stock in the first corporation.
+&emsp;(3) if 50 percent or more in value of the stock in a corporation (hereinafter in this paragraph referred to as “first corporation”) is owned, directly or through paragraph (2), by or for members of the same family, such membersshall be considered as owning each class of stock in a second corporation (or a wholly owned subsidiary of such second corporation) owned, directly or indirectly, by or for the first corporation, in that proportion which the value of the stock in the first corporation which such members so own bears to the value of all the stock in the first corporation.
 
 > For purposes of paragraph (1), individuals related by the half blood or by legal adoption shall be treated as if they were related by the whole blood.
 
@@ -126,7 +126,7 @@ In the case of any taxpayer required by this section to change its method of acc
 
 #### (A) Qualified partnership
 
-&emsp;&emsp;The term “qualified partnership” means a partnership which is engaged in a qualified farming trade or business and each of thepartners of which is a corporation other than—
+&emsp;&emsp;The term “qualified partnership” means a partnership which is engaged in a qualified farming trade or business and each of the partners of which is a corporation other than—
 
 &emsp;&emsp;&emsp;(i) an S corporation, or
 
@@ -208,7 +208,7 @@ In the case of any taxpayer required by this section to change its method of acc
 
 #### (B) Special rule for certain transfers
 
-&emsp;&emsp;For purposes of subparagraph (A), any transfer in a corporation after December 15,1987, shall be treated as a transfer to a person whose ownership could not qualify such corporation as a family corporation unless it is a transfer—
+&emsp;&emsp;For purposes of subparagraph (A), any transfer in a corporation after December 15, 1987, shall be treated as a transfer to a person whose ownership could not qualify such corporation as a family corporation unless it is a transfer—
 
 &emsp;&emsp;&emsp;(i) to a member of the family of the transferor, or
 
@@ -238,7 +238,7 @@ In the case of any taxpayer required by this section to change its method of acc
 
 #### (ii) Coordination with other reductions
 
-&emsp;&emsp;&emsp;The amount of the applicable portion for any taxable year shall be reduced (but not below zero) by the amount of any reduction required for such taxable year under any other provision of this subsection.
+&emsp;&emsp;&emsp;The amount of the applicable portion for any taxable year shall be reduced (but notbelow zero) by the amount of any reduction required for such taxable year under any other provision of this subsection.
 
 #### (iv) <sup>2</sup> Inclusion in income
 
@@ -256,7 +256,7 @@ In the case of any taxpayer required by this section to change its method of acc
 
 #### Amendments
 
-1997—Subsec. (i)(3). Pub. L. 105–34 redesignated par. (5) as (3) and struck out heading and text of former par. (3). Text read as follows: “If—
+<b>1997</b>—Subsec. (i)(3). Pub. L. 105–34 redesignated par. (5) as (3) and struck out heading and text of former par. (3). Text read as follows: “If—
 
 &emsp;“(A) the gross receipts of the corporation from the trade or business of farming for the year of the change or any subsequent taxable year, is less than
 
@@ -268,15 +268,15 @@ Subsec. (i)(4). Pub. L. 105–34 redesignated par. (6) as (4) and struck out hea
 
 Subsec. (i)(5), (6). Pub. L. 105–34 added par. (5) and redesignated former pars. (5) and (6) as (3) and (4), respectively.
 
-1990—Subsec. (g)(1)(A). Pub. L. 101–508, §11702(b)(2), substituted “trade or business of farming” for “qualified farming trade or business”.
+<b>1990</b>—Subsec. (g)(1)(A). Pub. L. 101–508, §11702(b)(2), substituted “trade or business of farming” for “qualified farming trade or business”.
 
 Subsec. (g)(4)(B). Pub. L. 101–508, §11702(b)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The term ‘qualified farming trade or business’ means the trade or business of farming sugar cane.”
 
-1988—Subsec. (b). Pub. L. 100–647, §1008(b)(5), substituted “period expenses” for “period of expenses” in heading and in text.
+<b>1988</b>—Subsec. (b). Pub. L. 100–647, §1008(b)(5), substituted “period expenses” for “period of expenses” in heading and in text.
 
 Subsec. (g)(1). Pub. L. 100–647, §1008(b)(6), substituted “qualified farming trade or business” for “trade or business of farming” in subpar. (A) and in concluding provisions.
 
-1987—Subsec. (c). Pub. L. 100–203, §10205(a), added subsec. (c), substituting “certain corporations” for “small business and family corporations” in heading and striking out former text which read as follows: “For purposes of subsection (a), a corporation shall be treated as not being a corporation if it is—
+<b>1987</b>—Subsec. (c). Pub. L. 100–203, §10205(a), added subsec. (c), substituting “certain corporations” for “small business and family corporations” in heading and striking out former text which read as follows: “For purposes of subsection (a), a corporation shall be treated as not being a corporation if it is—
 
 &emsp;“(1) an S corporation,
 
@@ -296,13 +296,13 @@ Subsec. (h)(1)(A), (B). Pub. L. 100–203, §10205(c)(2)(B), (C), substituted �
 
 Subsec. (i). Pub. L. 100–203, §10205(b), added subsec. (i).
 
-1986—Subsec. (a). Pub. L. 99–514, §803(b)(7)(B), which directed that subsec. (a) be amended by striking out “and with the capitalization of preproductive period of expenses described in subsection (b)”, was executed by striking out “and with the capitalization of preproductive period expenses described in subsection (b)” after “accrual method of accounting”, as the probable intent of Congress.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §803(b)(7)(B), which directed that subsec. (a) be amended by striking out “and with the capitalization of preproductive period of expenses described in subsection (b)”, was executed by striking out “and with the capitalization of preproductive period expenses described in subsection (b)” after “accrual method of accounting”, as the probable intent of Congress.
 
 Subsec. (b). Pub. L. 99–514, §803(b)(7)(A), in amending subsec. (b) generally, substituted in heading “period of expenses” for “period expenses” and in text the cross reference to section 263A for former par. (1) defining “preproductive period expenses”, par. (2) relating to exceptions, and par. (3) defining “preproductive period”.
 
 Subsec. (g)(1). Pub. L. 99–514, §803(b)(7)(C), substituted “Notwithstanding subsection (a) or section 263A, if” for “If”.
 
-1982—Subsec. (c)(1). Pub. L. 97–354, §5(a)(28), substituted “an S corporation” for “an electing small business corporation (within the meaning of section 1371(b))”.
+<b>1982</b>—Subsec. (c)(1). Pub. L. 97–354, §5(a)(28), substituted “an S corporation” for “an electing small business corporation (within the meaning of section 1371(b))”.
 
 Subsec. (g)(1). Pub. L. 97–248, §230(a)(1), inserted “or qualified partnership” after “corporation” wherever appearing.
 
@@ -312,7 +312,7 @@ Subsec. (g)(4). Pub. L. 97–354, §5(a)(29), substituted in subpar. (A)(i) “a
 
 Pub. L. 97–248, §230(a)(3), added par. (4).
 
-1978—Subsec. (a). Pub. L. 95–600, §§353(a), 703(d), substituted in provisions following par. (2) “preproductive period expenses” for “preproductive expenses” and “nursery or sod farm” for “nursery”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–600, §§353(a), 703(d), substituted in provisions following par. (2) “preproductive period expenses” for “preproductive expenses” and “nursery or sod farm” for “nursery”.
 
 Subsec. (f)(3). Pub. L. 95–600, §701(<i>l</i>)(1), struck out “(except as otherwise provided in such regulations)” before “be taken” and inserted “(or the remaining taxable years where there is a stated future life of less than 10 taxable years)” after “10 taxable years”.
 

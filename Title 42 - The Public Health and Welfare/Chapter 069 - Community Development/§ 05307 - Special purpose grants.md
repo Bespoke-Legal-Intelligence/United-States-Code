@@ -32,7 +32,7 @@ From amounts set aside under subsection (a) of this section, the Secretary is au
 
 &emsp;(2) to historically Black colleges;
 
-&emsp;(3) to States, units of general local government, Indian tribes, or areawide planning organizations for the purpose of providing technical assistance in planning, developing, and administering assistance under this chapter and section 1706e <sup>1</sup> of title 12; to groups designated by such governmental units to assist them in carrying out assistance under this chapter; to qualified groups for the purpose of assisting more than one such governmental unit to carry out assistance under this chapter; the Secretary may also provide technical assistance, directly or through contracts, to such governmental units and groups; for purposes of this paragraph the term “technical assistance” means the facilitating of skills and knowledge in planning, developing, and administering activities under this chapter in entities that may need but do not possess such skills and knowledge, and includes assessing programs and activities under this chapter; except that any recipient of a grant under this paragraph that provides technical assistance pursuant to this paragraph shall provide for the notification of the availability of such assistance and shall have specific criteria for selection of recipients of such assistance that are published and publicly available;
+&emsp;(3) to States, units of general local government, Indian tribes, or areawide planning organizations for the purpose of providing technical assistance in planning, developing, and administering assistance under this chapter and section 1706e <sup>1</sup> of title 12; to groups designated by such governmental units to assist them in carrying out assistance under this chapter; to qualified groups for the purpose of assisting more than one such governmental unit to carry out assistance under this chapter; the Secretary may also provide technical assistance, directly or through contracts, to such governmental units and groups; for purposes of this paragraph the term “technical assistance” means the facilitating of skills and knowledge in planning, developing, and administering activities under this chapter in entities that may need but do not possess such skills and knowledge, and includes assessing programs and activities under this chapter; except that any recipient of a grant under this paragraph that provides technical assistance pursuant to this paragraph shall provide forthe notification of the availability of such assistance and shall have specific criteria for selection of recipients of such assistance that are published and publicly available;
 
 &emsp;(4) to States and units of general local government and institutions of higher education having a demonstrated capacity to carry out eligible activities under this chapter, except that the Secretary may make a grant under this paragraph only to a State or unit of general local government that jointly, with an institution of higher education, has prepared and submitted to the Secretary an application for such grant, as the Secretary shall by regulation require;
 
@@ -68,7 +68,7 @@ Amounts set aside for use under subsection (b) of this section in any fiscal yea
 
 Any grant made under this section shall be made pursuant to criteria for selection of recipients of such grants that the Secretary shall by regulation establish and which the Secretary shall publish together with any notification of availability of amounts under this section.
 
-(Pub. L. 93–383, title I, §107, Aug. 22, 1974, 88 Stat. 647; Pub. L. 94–375, §15(c), Aug. 3, 1976, 90Stat. 1076; Pub. L. 95–128, title I, §107, Oct. 12, 1977, 91 Stat. 1123; Pub. L. 95–557, title I, §103(f), Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–399, title I, §§107, 117(b), Oct. 8, 1980, 94 Stat. 1618, 1624; Pub. L. 97–35, title III, §305, Aug. 13, 1981, 95 Stat. 391; Pub. L. 98–181, title I, §107, title III, §302(b), Nov. 30, 1983, 97 Stat. 1167, 1206; Pub. L. 100–242, title V, §§501(b), 517(b)(2), 522(b), Feb. 5, 1988, 101 Stat. 1922, 1936, 1939; Pub. L. 101–235, title I, §105(a)–(c), (e), Dec. 15, 1989, 103 Stat. 1998, 1999; Pub. L. 101–625, title IX, §§901(c), 913(c), Nov. 28, 1990, 104 Stat. 4385, 4393; Pub. L. 102–550, title VIII, §§801(c)(1), (2), (4), 808, Oct. 28, 1992, 106 Stat. 3843–3845, 3850; Pub. L. 106–569, title I, §102(f), Dec. 27, 2000, 114 Stat. 2947; Pub. L. 108–186, title V, §501(f), Dec. 16, 2003, 117 Stat. 2697.)
+(Pub. L. 93–383, title I, §107, Aug. 22, 1974, 88 Stat. 647; Pub. L. 94–375, §15(c), Aug. 3, 1976, 90 Stat. 1076; Pub. L. 95–128, title I, §107, Oct. 12, 1977, 91 Stat. 1123; Pub. L. 95–557, title I, §103(f), Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–399, title I, §§107, 117(b), Oct. 8, 1980, 94 Stat. 1618, 1624; Pub. L. 97–35, title III, §305, Aug. 13, 1981, 95 Stat. 391; Pub. L. 98–181, title I, §107, title III, §302(b), Nov. 30, 1983, 97 Stat. 1167, 1206; Pub. L. 100–242, title V, §§501(b), 517(b)(2), 522(b), Feb. 5, 1988, 101 Stat. 1922, 1936, 1939; Pub. L. 101–235, title I, §105(a)–(c), (e), Dec. 15, 1989, 103 Stat. 1998, 1999; Pub. L. 101–625, title IX, §§901(c), 913(c), Nov. 28, 1990, 104 Stat. 4385, 4393; Pub. L. 102–550, title VIII, §§801(c)(1), (2), (4), 808, Oct. 28, 1992, 106 Stat. 3843–3845, 3850; Pub. L. 106–569, title I, §102(f), Dec. 27, 2000, 114 Stat. 2947; Pub. L. 108–186, title V, §501(f), Dec. 16, 2003, 117 Stat. 2697.)
 
 #### References in Text
 
@@ -76,27 +76,29 @@ Paragraphs (2), (3), (4), (6), and (7) of subsection (b) of this section, referr
 
 The Community Outreach Partnership Act of 1992, referred to in subsec. (a)(1)(G), is section 851 of Pub. L. 102–550, which is set out below.
 
+This chapter, referred to in subsecs. (a)(2) and (b)(3), (4), was in the original “this title”, meaning title I of Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+
 Section 1706e of title 12, referred to in subsec. (b)(3), was repealed by Pub. L. 101–625, title II, §289(b), Nov. 28, 1990, 104 Stat. 4128.
 
 Section 1437<i>o</i> of this title, referred to in subsec. (e)(1), was repealed by Pub. L. 101–625, title II, §289(b), Nov. 28, 1990, 104 Stat. 4128.
 
-The Civil Rights Act of 1964, referred to in subsec. (e)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, which is classified principally to subchapters II to IX (§2000a et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (e)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, which is classified principally to subchapters II to IX (§2000a et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
-The Fair Housing Act, referred to in subsec. (e)(1), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+The Fair Housing Act, referred to in subsec. (e)(1), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
-Public Law 90–284, referred to in subsec. (e)(2), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, as amended, known as the Civil Rights Act of 1968. Title II of Pub. L. 90–284 is classified generally to subchapter I (§1301 et seq.) of chapter 15 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+Public Law 90–284, referred to in subsec. (e)(2), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, known as the Civil Rights Act of 1968. Title II of Pub. L. 90–284 is classified generally to subchapter I (§1301 et seq.) of chapter 15 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 #### Amendments
 
-2003—Subsec. (a)(1). Pub. L. 108–186, §501(f)(1), redesignated subpars. (B) to (H) as (A) to (G), respectively, and struck out former subpar. (A) which read as follows: “$7,000,000 shall be available for grants under subsection (b)(1) of this section;”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–186, §501(f)(1), redesignated subpars. (B) to (H) as (A) to (G), respectively, and struck out former subpar. (A) which read as follows: “$7,000,000 shall be available for grants under subsection (b)(1) of this section;”.
 
 Subsec. (b). Pub. L. 108–186, §501(f)(2), redesignated pars. (2) to (7) as (1) to (6), respectively, and struck out former par. (1) which read as follows: “in Guam, the Virgin Islands, American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands;”.
 
-2000—Subsec. (a)(1)(G). Pub. L. 106–569, §102(f)(1), inserted “and” after semicolon at end.
+<b>2000</b>—Subsec. (a)(1)(G). Pub. L. 106–569, §102(f)(1), inserted “and” after semicolon at end.
 
 Subsec. (a)(1)(H), (I). Pub. L. 106–569, §102(f)(2), (3), redesignated subpar. (I) as (H) and struck out former subpar. (H) which read as follows: “$15,000,000 shall be available for grants under the Removal of Regulatory Barriers to Affordable Housing Act of 1992; and”.
 
-1992—Subsec. (a). Pub. L. 102–550, §801(c)(1), added heading and subsec. (a) and struck out former subsec. (a) which read as follows: “Of the total amount provided in appropriation Acts under section 5303 of this title for fiscal years 1988 and 1989, $60,000,000 may be set aside in each year for grants under subsection (b) of this section. Grants under this section are in addition to any other grants which may be made under this chapter to the same entities for the same purposes.”
+<b>1992</b>—Subsec. (a). Pub. L. 102–550, §801(c)(1), added heading and subsec. (a) and struck out former subsec. (a) which read as follows: “Of the total amount provided in appropriation Acts under section 5303 of this title for fiscal years 1988 and 1989, $60,000,000 may be set aside in each year for grants under subsection (b) of this section. Grants under this section are in addition to any other grants which may be made under this chapter to the same entities for the same purposes.”
 
 Subsec. (b)(5) to (7). Pub. L. 102–550, §801(c)(2), added pars. (5) to (7).
 
@@ -104,11 +106,11 @@ Subsec. (c). Pub. L. 102–550, §801(c)(4), substituted “make” for “to th
 
 Subsec. (e)(1). Pub. L. 102–550, §808, substituted “the Civil Rights Act of 1964 and the Fair Housing Act” for “Public Law 88–352 and Public Law 90–284”.
 
-1990—Subsec. (a). Pub. L. 101–625, §901(c), directed the amendment of subsec. (a), which did not contain designated pars., by adding par. (3) and redesignating former pars. (3) and (4) as (4) and (5), respectively.
+<b>1990</b>—Subsec. (a). Pub. L. 101–625, §901(c), directed the amendment of subsec. (a), which did not contain designated pars., by adding par. (3) and redesignating former pars. (3) and (4) as (4) and (5), respectively.
 
 Subsec. (e)(2). Pub. L. 101–625, §913(c), inserted “, section 5306(a)(1) of this title,” after “this section”.
 
-1989—Pub. L. 101–235, §105(e), substituted “Special purpose grants” for “Discretionary fund” in section catchline.
+<b>1989</b>—Pub. L. 101–235, §105(e), substituted “Special purpose grants” for “Discretionary fund” in section catchline.
 
 Subsec. (a). Pub. L. 101–235, §105(a), struck out “in a special discretionary fund” after “in each year” and struck out at end “Of the amount set aside for grants under subsection (b) of this section for fiscal year 1988, $5,000,000 shall be made available by the Secretary for purposes of grants under subsection (b)(1) of this section for the Park Central New Community Project.”
 
@@ -124,7 +126,7 @@ Subsec. (b)(5). Pub. L. 101–235, §105(b)(3), redesignated par. (5) as (2).
 
 Subsec. (f). Pub. L. 101–235, §105(c), added subsec. (f).
 
-1988—Subsec. (a). Pub. L. 100–242, §522(b), inserted sentence at end making $5,000,000 of grant moneys available for the Park Central New Community Project.
+<b>1988</b>—Subsec. (a). Pub. L. 100–242, §522(b), inserted sentence at end making $5,000,000 of grant moneys available for the Park Central New Community Project.
 
 Pub. L. 100–242, §501(b)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “Of the total amount approved in appropriation Acts under section 5303 of this title for each of the fiscal years 1984, 1985, and 1986, not more than $68,200,000 for each such fiscal year may be set aside in a special discretionary fund for grants under subsection (b) of this section.”
 
@@ -132,7 +134,7 @@ Subsec. (b)(4). Pub. L. 100–242, §517(b)(2), inserted “and section 1706e of
 
 Subsecs. (c) to (e). Pub. L. 100–242, §501(b)(2), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-1983—Subsec. (a). Pub. L. 98–181, §107(a), substituted provisions permitting not more than $68,200,000 for each of fiscal years 1984, 1985, and 1986 to be set aside in a special discretionary fund for grants under subsection (b) of this section, for provisions permitting not more than $60,000,000 to be set aside for each of fiscal years 1982 and 1983 in such a fund.
+<b>1983</b>—Subsec. (a). Pub. L. 98–181, §107(a), substituted provisions permitting not more than $68,200,000 for each of fiscal years 1984, 1985, and 1986 to be set aside in a special discretionary fund for grants under subsection (b) of this section, for provisions permitting not more than $60,000,000 to be set aside for each of fiscal years 1982 and 1983 in such a fund.
 
 Subsec. (b)(4). Pub. L. 98–181, §107(b), amended par. (4) generally, inserting provisions authorizing the Secretary to provide assistance to groups designated by certain enumerated governmental units to assist in carrying out this chapter, to qualified groups for the purpose of assisting more than one such governmental unit and to provide technical assistance, directly or through contracts, to such governmental units and groups.
 
@@ -142,7 +144,7 @@ Subsec. (d)(1). Pub. L. 98–181, §302(b)(1), inserted provisions relating to s
 
 Subsec. (d)(3). Pub. L. 98–181, §302(b)(2), inserted “grantee or” before “applicant”.
 
-1981—Subsec. (a). Pub. L. 97–35 substituted provisions relating to authorization of appropriations under section 5303 of this title for fiscal years 1982 and 1983, and supplemental nature of grants, for provisions relating to authorization of appropriations under section 5303(a)(1) of this title for fiscal years 1981 to 1983, and purposes for expenditures from fund.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 substituted provisions relating to authorization of appropriations under section 5303 of this title for fiscal years 1982 and 1983, and supplemental nature of grants, for provisions relating to authorization of appropriations under section 5303(a)(1) of this title for fiscal years 1981 to 1983, and purposes for expenditures from fund.
 
 Subsec. (b). Pub. L. 97–35 substituted provisions relating to permissible uses of funds for provisions relating to limitations on amounts reserved for emergency disaster needs.
 
@@ -150,13 +152,13 @@ Subsec. (c). Pub. L. 97–35 substituted provisions relating to amounts set asid
 
 Subsec. (d). Pub. L. 97–35 substituted provisions relating to assurances required for provisions relating to Indian tribal eligibility for grant as dependent upon conformity of program with prescribed constitutional rights and habeas corpus.
 
-1980—Subsec. (a). Pub. L. 96–399, §107, substituted “approved in appropriation Acts under section 5303(a)(1) of this title for each of the fiscal years 1981, 1982, and 1983, not more than $104,000,000 for fiscal year 1981, not more than $104,000,000 for fiscal year 1982, and not more than $107,000,000 for fiscal year 1983 may” for “of authority to enter into contracts approved in appropriation Acts under section 5303(a)(1) of this title for each of the fiscal years 1975, 1976, 1977, 1978, 1979, and 1980, an amount equal to 3 per centum thereof shall”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–399, §107, substituted “approved in appropriation Acts under section 5303(a)(1) of this title for each of the fiscal years 1981, 1982, and 1983, not more than $104,000,000 for fiscal year 1981, not more than $104,000,000 for fiscal year 1982, and not more than $107,000,000 for fiscal year 1983 may” for “of authority to enter into contracts approved in appropriation Acts under section 5303(a)(1) of this title for each of the fiscal years 1975, 1976, 1977, 1978, 1979, and 1980, an amount equal to 3 per centum thereof shall”.
 
 Subsec. (d). Pub. L. 96–399, §117(b), inserted “under this chapter” after “Indian tribe”.
 
-1978—Subsec. (a)(8). Pub. L. 95–557 substituted “The Secretary may also provide, directly or through contracts, technical assistance under this paragraph to such governmental units, or to a group designated by such a governmental unit for the purpose of assisting that governmental unit to carry out its Community Development Program” for “The Secretary may also provide such technical assistance under this paragraph directly or through contracts”.
+<b>1978</b>—Subsec. (a)(8). Pub. L. 95–557 substituted “The Secretary may also provide, directly or through contracts, technical assistance under this paragraph to such governmental units, or to a group designated by such a governmental unit for the purpose of assisting that governmental unit to carry out its Community Development Program” for “The Secretary may also provide such technical assistance under this paragraph directly or through contracts”.
 
-1977—Subsec. (a). Pub. L. 95–128, §107(1), (2), extended provisions to fiscal years 1978 through 1980 and increased rate to 3 from 2 per centum.
+<b>1977</b>—Subsec. (a). Pub. L. 95–128, §107(1), (2), extended provisions to fiscal years 1978 through 1980 and increased rate to 3 from 2 per centum.
 
 Subsec. (a)(5). Pub. L. 95–128, §107(3), provided for grants to Indian tribes.
 
@@ -166,7 +168,7 @@ Subsec. (b). Pub. L. 95–128, §107(5), substituted “15 per centum” for “
 
 Subsec. (d). Pub. L. 95–128, §107(6), added subsec. (d).
 
-1976—Subsec. (a)(1). Pub. L. 94–375 included new community projects assisted under title X of the National Housing Act as within the authority of the Secretary to make grants from the special discretionary fund.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–375 included new community projects assisted under title X of the National Housing Act as within the authority of the Secretary to make grants from the special discretionary fund.
 
 #### Effective Date of 1990 Amendment
 
@@ -206,7 +208,7 @@ Pub. L. 102–550, title VIII, §801(c)(3), Oct. 28, 1992, 106 Stat. 3844, provi
 
 #### Community Outreach Partnership
 
-Section 851 of Pub. L. 102–550 directed Secretary to carry out a 5-year demonstration program to determine feasibility of facilitating partnerships between institutions of higher education and communities to solve urban problems through research, outreach, and exchange of information, established program of grants to public and private nonprofit institutions of higher education to assist in establishing or carrying out such activities and to establish and operate Community Outreach Partnership Centers which were to focus on problems associated with housing, economic development, neighborhood revitalization, infrastructure, health care, job training, education, crime prevention, planning, community organizing, and other areas deemedappropriate by the Secretary, further provided for establishment of national advisory council to assist Secretary in these areas and a national clearinghouse to disseminate information resulting from these activities, and further provided for appropriations for the demonstration program as well as for an annual report to Congress by the Secretary.
+Section 851 of Pub. L. 102–550 directed Secretary to carry out a 5-year demonstration program to determine feasibility of facilitating partnerships between institutions of higher education and communities to solve urban problems through research, outreach, and exchange of information, established program of grants to public and private nonprofit institutions of higher education to assist in establishing or carrying out such activities and to establish and operate Community Outreach Partnership Centers which were to focus on problems associated with housing, economic development, neighborhood revitalization, infrastructure, health care, job training, education, crime prevention, planning, community organizing, and other areas deemed appropriate by the Secretary, further provided for establishment of national advisory council to assist Secretary in these areas and a national clearinghouse to disseminate information resulting from these activities, and further provided for appropriations for the demonstration program as well as for an annual report to Congress by the Secretary.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

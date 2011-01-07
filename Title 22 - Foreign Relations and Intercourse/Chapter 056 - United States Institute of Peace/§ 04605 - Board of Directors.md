@@ -86,11 +86,11 @@ Section 5703 of title 5, referred to in subsec. (j), was amended generally by Pu
 
 #### Amendments
 
-2008—Pub. L. 110–315, §921(b)(1)(A), substituted “(b)(4)” for “(b)(5)” wherever appearing.
+<b>2008</b>—Pub. L. 110–315, §921(b)(1)(A), substituted “(b)(4)” for “(b)(5)” wherever appearing.
 
 Subsec. (e)(5). Pub. L. 110–315, §921(b)(1)(B), added par. (5).
 
-1998—Subsec. (b)(3). Pub. L. 105–277, §1225(c)(1), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The Director of the Arms Control and Disarmament Agency (or if the Director so designates, another officer of that Agency who was appointed with the advice and consent of the Senate).”
+<b>1998</b>—Subsec. (b)(3). Pub. L. 105–277, §1225(c)(1), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The Director of the Arms Control and Disarmament Agency (or if the Director so designates, another officer of that Agency who was appointed with the advice and consent of the Senate).”
 
 Subsec. (b)(4), (5). Pub. L. 105–277, §1225(c)(1)(B), (C), redesignated par. (5) as (4) and substituted “Twelve” for “Eleven”. Former par. (4) redesignated (3).
 

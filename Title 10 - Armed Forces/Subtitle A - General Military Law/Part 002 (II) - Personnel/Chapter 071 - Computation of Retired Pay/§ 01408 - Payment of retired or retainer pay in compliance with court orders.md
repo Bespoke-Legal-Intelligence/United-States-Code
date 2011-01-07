@@ -26,7 +26,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;&emsp;(iii) division of property (including a division of community property); and
 
-&emsp;&emsp;(C) in the case of a division of property, specifically provides for the payment of anamount, expressed in dollars or as a percentage of disposable retired pay, from the disposable retired pay of a member to the spouse or former spouse of that member.
+&emsp;&emsp;(C) in the case of a division of property, specifically provides for the payment of an amount, expressed in dollars or as a percentage of disposable retired pay, from the disposable retired pay of a member to the spouse or former spouse of that member.
 
 &emsp;(3) The term “final decree” means a decree from which no appeal may be taken or from which no appeal has been taken within the time allowed for taking such appeals under the laws applicable to such appeals, or a decree from which timely appeal has been taken and such appeal has been finally decided under the laws applicable to such appeals.
 
@@ -80,7 +80,7 @@ Authority for Court To Treat Retired Pay as Property of the Member and Spouse.�
 
 (d)
 
-Payments by Secretary Concerned to (or for Benefit of) Spouse or Former Spouse.—(1) After effective service on the Secretary concerned of a court order providing for the payment of child support or alimony or, with respect to a division of property, specifically providing for the payment of an amount of the disposable retired pay from a member to the spouse or a former spouse of the member, the Secretary shall make payments (subject to the limitations of this section) from the disposable retired pay of the member to the spouse or former spouse (or for the benefit of such spouse or former spouse to a State disbursement unit established pursuant to section 454B of the Social Security Act or other public payee designated by a State,in accordance with part D of title IV of the Social Security Act, as directed by court order, or as otherwise directed in accordance with such part D) in an amount sufficient to satisfy the amount of child support and alimony set forth in the court order and, with respect to a division of property, in the amount of disposable retired pay specifically provided for in the court order. In the case of a spouse or former spouse who, pursuant to section 408(a)(3) of the Social Security Act (42 U.S.C. 608(a)(4)),<sup>1</sup> assigns to a State the rights of the spouse or former spouse to receive support, the Secretary concerned may make the child support payments referred to in the preceding sentence to that State in amounts consistent with that assignment of rights. In the case of a member entitled to receive retired pay on the date of the effective service of the court order, such payments shall begin not later than 90 days after the date of effective service. In the case of a member not entitled to receive retired pay on the date of the effective service of the court order, such payments shall begin not later than 90 days after the date on which the member first becomes entitled to receive retired pay.
+Payments by Secretary Concerned to (or for Benefit of) Spouse or Former Spouse.—(1) After effective service on the Secretary concerned of a court order providing for the payment of child support or alimony or, with respect to a division of property, specifically providing for the payment of an amount of the disposable retired pay from a member to the spouse or a former spouse of the member, the Secretary shall make payments (subject to the limitations of this section) from the disposable retired pay of the member to the spouse or former spouse (or for the benefit of such spouse or former spouse to a State disbursement unit established pursuant to section 454B of the Social Security Act or other public payee designated by a State, in accordance with part D of title IV of the Social Security Act, as directed by court order, or as otherwise directed in accordance with such part D) in an amount sufficient to satisfy theamount of child support and alimony set forth in the court order and, with respect to a division of property, in the amount of disposable retired pay specifically provided for in the court order. In the case of a spouse or former spouse who, pursuant to section 408(a)(3) of the Social Security Act (42 U.S.C. 608(a)(4)),<sup>1</sup> assigns to a State the rights of the spouse or former spouse to receive support, the Secretary concerned may make the child support payments referred to in the preceding sentence to that State in amounts consistent with that assignment of rights. In the case of a member entitled to receive retired pay on the date of the effective service of the court order, such payments shall begin not later than 90 days after the date of effective service. In the case of a member not entitled to receive retired pay on the date of the effective service of the court order, such payments shall begin not later than 90 days after the date on which the member first becomes entitled to receive retired pay.
 
 (2) If the spouse or former spouse to whom payments are to be made under this section was not married to the member for a period of 10 years or more during which the member performed at least 10 years of service creditable in determining the member's eligibility for retired pay, payments may not be made under this section to the extent that they include an amount resulting from the treatment by the court under subsection (c) of disposable retired pay of the member as property of the member or property of the member and his spouse.
 
@@ -114,7 +114,7 @@ Limitations.—(1) The total amount of the disposable retired pay of a member pa
 
 &emsp;&emsp;(I) the difference between the largest amount required by any conflicting court order to be paid to the spouse or former spouse and the amount payable to the spouse or former spouse under clause (i); and
 
-&emsp;&emsp;(II) the amount of disposable retired pay which remains available for payment of any conflicting court order based on when such court order was effectively served and thelimitations of paragraph (1) and subparagraph (B) of paragraph (4); and
+&emsp;&emsp;(II) the amount of disposable retired pay which remains available for payment of any conflicting court order based on when such court order was effectively served and the limitations of paragraph (1) and subparagraph (B) of paragraph (4); and
 
 &emsp;(iii) pay to that member the amount which is equal to the amount of that member's disposable retired pay (less any amount paid during such month pursuant to legal process served under section 459 of the Social Security Act (42 U.S.C. 659) and any amount paid during such month pursuant to court orders effectively served under this section, other than such conflicting court orders) minus—
 
@@ -148,7 +148,7 @@ Benefits for Dependents Who Are Victims of Abuse by Members Losing Right to Reti
 
 (B) If, in the case of a member or former member of the armed forces referred to in paragraph (2)(A), a court order provides for the payment as child support of an amount from the disposable retired pay of that member or former member (as certified under paragraph (4)) to an eligible dependent child of the member or former member, the Secretary concerned, beginning upon effective service of such court order, shall pay that amount in accordance with this subsection to such dependent child.
 
-(2) A spouse or former spouse, or a dependent child, of a member or former member of thearmed forces is eligible to receive payment under this subsection if—
+(2) A spouse or former spouse, or a dependent child, of a member or former member of the armed forces is eligible to receive payment under this subsection if—
 
 &emsp;(A) the member or former member, while a member of the armed forces and after becoming eligible to be retired from the armed forces on the basis of years of service, has eligibility to receive retired pay terminated as a result of misconduct while a member involving abuse of a spouse or dependent child (as defined in regulations prescribed by the Secretary of Defense or, for the Coast Guard when it is not operating as a service in the Navy, by the Secretary of Homeland Security);
 
@@ -184,7 +184,7 @@ Benefits for Dependents Who Are Victims of Abuse by Members Losing Right to Reti
 
 (C) If a spouse or former spouse or a dependent child eligible or entitled to receive a particular benefit under this paragraph is eligible or entitled to receive that benefit under another provision of law, the eligibility or entitlement of that spouse or former spouse or dependent child to such benefit shall be determined under such other provision of law instead of this paragraph.
 
-(10)(A) For purposes of this subsection, in the case of a member of the armed forces who has been sentenced by a court-martial to receive a punishment that will terminate the eligibility of that member to receive retired pay if executed, the eligibility of that member to receive retired pay may, as determined by the Secretary concerned, be considered terminated effectiveupon the approval of that sentence by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice).
+(10)(A) For purposes of this subsection, in the case of a member of the armed forces who has been sentenced by a court-martial to receive a punishment that will terminate the eligibility of that member to receive retired pay if executed, the eligibility of that member to receive retired pay may, as determined by the Secretary concerned, be considered terminated effective upon the approval of that sentence by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice).
 
 (B) If each form of the punishment that would result in the termination of eligibility to receive retired pay is later remitted, set aside, or mitigated to a punishment that does not result in the termination of that eligibility, a payment of benefits to the eligible recipient under this subsection that is based on the punishment so vacated, set aside, or mitigated shall cease. The cessation of payments shall be effective as of the first day of the first month following the month in which the Secretary concerned notifies the recipient of such benefits in writing that payment of the benefits will cease. The recipient may not be required to repay the benefits received before that effective date (except to the extent necessary to recoup any amount that was erroneous when paid).
 
@@ -218,9 +218,9 @@ The Servicemembers Civil Relief Act, referred to in subsec. (b)(1)(D), is act Oc
 
 #### Amendments
 
-2009—Subsec. (h)(2)(A). Pub. L. 111–84 struck out “and” at end.
+<b>2009</b>—Subsec. (h)(2)(A). Pub. L. 111–84 struck out “and” at end.
 
-2006—Subsec. (h)(1). Pub. L. 109–163, §665(a)(1), designated existing provisions as subpar. (A) and added subpar. (B).
+<b>2006</b>—Subsec. (h)(1). Pub. L. 109–163, §665(a)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (h)(2). Pub. L. 109–163, §665(a)(2)(A), inserted “, or a dependent child,” after “former spouse” in introductory provisions.
 
@@ -234,13 +234,13 @@ Subsec. (h)(5). Pub. L. 109–163, §665(a)(4), inserted “, or the dependent 
 
 Subsec. (h)(6). Pub. L. 109–163, §665(a)(5), inserted “, or to a dependent child,” after “former spouse”.
 
-2003—Subsec. (b)(1)(D). Pub. L. 108–189 substituted “Servicemembers Civil Relief Act” for “Soldiers’ and Sailors’ Civil Relief Act of 1940”.
+<b>2003</b>—Subsec. (b)(1)(D). Pub. L. 108–189 substituted “Servicemembers Civil Relief Act” for “Soldiers’ and Sailors’ Civil Relief Act of 1940”.
 
-2002—Subsec. (h)(2)(A), (8). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (h)(2)(A), (8). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-2001—Subsec. (d)(6). Pub. L. 107–107 substituted “August 22, 1996,” for “the date of the enactment of this paragraph”.
+<b>2001</b>—Subsec. (d)(6). Pub. L. 107–107 substituted “August 22, 1996,” for “the date of the enactment of this paragraph”.
 
-1997—Subsec. (d). Pub. L. 105–85, §1073(a)(24)(A), substituted “to” for “To” in heading.
+<b>1997</b>—Subsec. (d). Pub. L. 105–85, §1073(a)(24)(A), substituted “to” for “To” in heading.
 
 Subsec. (d)(6). Pub. L. 105–85, §1073(a)(24)(B), redesignated par. (6), relating to court order which is out-of-State modification, as (7).
 
@@ -250,11 +250,11 @@ Subsec. (d)(7)(A). Pub. L. 105–85, §1073(a)(24)(C), substituted “out-of-Sta
 
 Subsec. (g). Pub. L. 105–85, §1073(a)(25), in heading, substituted “to” for “To” and “on” for “On”.
 
-1996—Subsec. (a)(1)(D). Pub. L. 104–193, §362(c)(1), added subpar. (D).
+<b>1996</b>—Subsec. (a)(1)(D). Pub. L. 104–193, §362(c)(1), added subpar. (D).
 
-Subsec. (a)(2). Pub. L. 104–193, §362(c)(2)(A), inserted “or a support order, as defined in section 453(p) of theSocial  Security  Act  (42  U.S.C.  653(p)),”  before “which—”.
+Subsec. (a)(2). Pub. L. 104–193, §362(c)(2)(A), inserted “or a support order, as defined in section 453(p) of the Social  Security  Act  (42  U.S.C.  653(p)),”  before “which—”.
 
-Subsec. (a)(2)(B)(i). Pub. L. 104–193, §362(c)(2)(B), substituted “(as defined in section 459(i)(2) of the Social Security Act (42 U.S.C. 659(i)(2)))” for “(as defined in section 462(b) of the Social Security Act (42 U.S.C. 662(b)))”.
+Subsec. (a)(2)(B)(i). Pub. L. 104–193, §362(c)(2)(B), substituted “(as defined in section 459(i)(2) of the Social Security Act (42 U.S.C. 659(i)(2)))” for “(as defined insection 462(b) of the Social Security Act (42 U.S.C. 662(b)))”.
 
 Subsec. (a)(2)(B)(ii). Pub. L. 104–193, §362(c)(2)(C), substituted “(as defined in section 459(i)(3) of the Social Security Act (42 U.S.C. 659(i)(3)))” for “(as defined in section 462(c) of the Social Security Act (42 U.S.C. 662(c)))”.
 
@@ -280,7 +280,7 @@ Pub. L. 104–193, §362(c)(4), added subsec. (j).
 
 Subsec. (k). Pub. L. 104–193, §363(c)(1), redesignated subsec. (j) as (k).
 
-1993—Subsecs. (b)(1)(A), (f)(1), (2). Pub. L. 103–160, §1182(a)(2)(A), substituted “subsection (i)” for “subsection (h)”.
+<b>1993</b>—Subsecs. (b)(1)(A), (f)(1), (2). Pub. L. 103–160, §1182(a)(2)(A), substituted “subsection (i)” for “subsection (h)”.
 
 Subsec. (h)(2)(A). Pub. L. 103–160, §555(b)(1), inserted “or, for the Coast Guard when it is not operating as a service in the Navy, by the Secretary of Transportation” after “Secretary of Defense”.
 
@@ -290,11 +290,11 @@ Subsec. (h)(8). Pub. L. 103–160, §555(b)(2), inserted before period at end �
 
 Subsec. (h)(10), (11). Pub. L. 103–160, §555(a), added par. (10) and redesignated former par. (10) as (11).
 
-1992—Subsecs. (h), (i). Pub. L. 102–484 added subsec. (h) and redesignated former subsec. (h) as (i).
+<b>1992</b>—Subsecs. (h), (i). Pub. L. 102–484 added subsec. (h) and redesignated former subsec. (h) as (i).
 
-1991—Pub. L. 102–190 inserted “or retainer” after “retired” in section catchline.
+<b>1991</b>—Pub. L. 102–190 inserted “or retainer” after “retired” in section catchline.
 
-1990—Pub. L. 101–510, §555(f)(2), substituted “retired pay” for “retired or retainer pay” in section catchline.
+<b>1990</b>—Pub. L. 101–510, §555(f)(2), substituted “retired pay” for “retired or retainer pay” in section catchline.
 
 Subsec. (a). Pub. L. 101–510, §555(g)(1), inserted heading.
 
@@ -346,7 +346,7 @@ Subsec. (g). Pub. L. 101–510, §555(g)(7), inserted heading.
 
 Subsec. (h). Pub. L. 101–510, §555(g)(8), inserted heading.
 
-1989—Subsec. (a)(1), (2). Pub. L. 101–189, §1622(e)(6), substituted “The term ‘court” for “ ‘Court” in introductory provisions.
+<b>1989</b>—Subsec. (a)(1), (2). Pub. L. 101–189, §1622(e)(6), substituted “The term ‘court” for “ ‘Court” in introductory provisions.
 
 Subsec. (a)(3). Pub. L. 101–189, §1622(e)(6), substituted “The term ‘final” for “ ‘Final”.
 
@@ -358,13 +358,13 @@ Subsec. (a)(5). Pub. L. 101–189, §§653(a)(5)(B), 1622(e)(6), substituted “
 
 Subsec. (a)(6). Pub. L. 101–189, §1622(e)(6), substituted “The term ‘spouse” for “ ‘Spouse”.
 
-1987—Subsec. (a)(4). Pub. L. 100–26, §3(3), made technical amendment to directory language of Pub. L. 99–661, §644(a). See 1986 Amendment note below.
+<b>1987</b>—Subsec. (a)(4). Pub. L. 100–26, §3(3), made technical amendment to directory language of Pub. L. 99–661, §644(a). See 1986 Amendment note below.
 
 Subsec. (a)(4)(D). Pub. L. 100–26, §7(h)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1986—Subsec. (a)(4). Pub. L. 99–661, §644(a), as amended by Pub. L. 100–26, §3(3), struck out “(other than the retired pay of a member retired for disability under chapter 61 of this title)” before “less amounts” in introductory text, added subpar. (E), and struck out former subpar. (E) which read as follows: “are deducted as Government life insurance premiums (not including amounts deducted for supplemental coverage); or”.
+<b>1986</b>—Subsec. (a)(4). Pub. L. 99–661, §644(a), as amended by Pub. L. 100–26, §3(3), struck out “(other than the retired pay of a member retired for disability under chapter 61 of this title)” before “less amounts” in introductory text, added subpar. (E), and struck out former subpar. (E) which read as follows: “are deducted as Government life insurance premiums (not including amounts deducted for supplemental coverage); or”.
 
-1984—Subsec. (a)(2)(C). Pub. L. 98–525, §643(a), inserted “in the case of a division of property,”.
+<b>1984</b>—Subsec. (a)(2)(C). Pub. L. 98–525, §643(a), inserted “in the case of a division of property,”.
 
 Subsec. (b)(1)(C). Pub. L. 98–525, §643(b), inserted “, if possible,”.
 
@@ -414,11 +414,11 @@ Section 555(e) of Pub. L. 101–510, as amended by Pub. L. 102–190, div. A, ti
 
 #### Effective Date of 1987 Amendment
 
-Amendment by section 3(3) of Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when enacted onNov. 14, 1986, see section 12(a) of Pub. L. 100–26, set out as a note under section 776 of this title.
+Amendment by section 3(3) of Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when enacted on Nov. 14, 1986, see section 12(a) of Pub. L. 100–26, set out as a note under section 776 of this title.
 
 #### Effective Date of 1986 Amendment
 
-Section 644(b) of Pub. L. 99–661 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to court orders issued after the date of the enactment of this Act \[Nov. 14, 1986\].”
+Section 644(b) of Pub. L. 99–661 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply with respect to court orders issued after the date of the enactment of this Act \[Nov. 14, 1986\].”
 
 #### Effective Date of 1984 Amendment
 

@@ -26,7 +26,7 @@ There is hereby imposed on each private foundation which is not exempt from taxa
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1), there shall be allowed as a deduction all the ordinary and necessary expenses paid or incurred for the production or collection of gross investment income or for the management, conservation, or maintenance of property held for the production of such income, determined with the modifications set forth in subparagraph (B).
+&emsp;&emsp;For purposes of paragraph (1), there shall be allowed as a deduction all the ordinary and necessary expenses paid or incurred for the production or collection of gross investment income or for the management, conservation, or maintenance of property heldfor the production of such income, determined with the modifications set forth in subparagraph (B).
 
 #### (B) Modifications
 
@@ -190,9 +190,9 @@ Section 1221(a)(1), (b) of Pub. L. 109–280, which directed the amendment of se
 
 #### Amendments
 
-2007—Subsec. (c)(4)(A). Pub. L. 110–172 amended text generally. Prior to amendment, text read as follows: “There shall be taken into account only gains and losses from the sale or other disposition of property used for the production of interest, dividends, rents, and royalties, and property used for the production of income included in computing the tax imposed by section 511 (except to the extent gain or loss from the sale or other disposition of such property is taken into account for purposes of such tax).”
+<b>2007</b>—Subsec. (c)(4)(A). Pub. L. 110–172 amended text generally. Prior to amendment, text read as follows: “There shall be taken into account only gains and losses from the sale or other disposition of property used for the production of interest, dividends, rents, and royalties, and property used for the production of income included in computing the tax imposed by section 511 (except to the extent gain or loss from the sale or other disposition of such property is taken into account for purposes of such tax).”
 
-2006—Subsec. (c)(2). Pub. L. 109–280, §1221(a)(1), inserted at end “Such term shall also include income from sources similar to those in the preceding sentence.” See Codification note above.
+<b>2006</b>—Subsec. (c)(2). Pub. L. 109–280, §1221(a)(1), inserted at end “Such term shall also include income from sources similar to those in the preceding sentence.” See Codification note above.
 
 Subsec. (c)(4)(A). Pub. L. 109–280, §1221(b)(1), substituted “gross investment income (as defined in paragraph (2))” for “interest, dividends, rents, and royalties”. See Codification note above.
 
@@ -200,7 +200,7 @@ Subsec. (c)(4)(C). Pub. L. 109–280, §1221(b)(2), inserted “or carrybacks”
 
 Subsec. (c)(4)(D). Pub. L. 109–280, §1221(b)(3), added subpar. (D). See Codification note above.
 
-1986—Subsec. (c)(5). Pub. L. 99–514, §1301(j), substituted “(relating to State and local bonds)” for “(relating to interest on certain governmental obligations)”.
+<b>1986</b>—Subsec. (c)(5). Pub. L. 99–514, §1301(j), substituted “(relating to State and local bonds)” for “(relating to interest on certain governmental obligations)”.
 
 Subsec. (e)(2). Pub. L. 99–514, §1832, added subpar. (B) and struck out former subpar. (B) and concluding provision which read as follows:
 
@@ -208,15 +208,15 @@ Subsec. (e)(2). Pub. L. 99–514, §1832, added subpar. (B) and struck out forme
 
 > In the case of an operating foundation (as defined in section 4942(j)(3)), subparagraph (B) shall be applied by substituting ‘31/3 percent’ for ‘5 percent’.”
 
-1984—Subsec. (d). Pub. L. 98–369, §302(a), added subsec. (d).
+<b>1984</b>—Subsec. (d). Pub. L. 98–369, §302(a), added subsec. (d).
 
 Subsec. (e). Pub. L. 98–369, §303(a), added subsec. (e).
 
-1978—Subsec. (a). Pub. L. 95–600 substituted “2 percent” for “4 percent”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–600 substituted “2 percent” for “4 percent”.
 
 Subsec. (c)(2). Pub. L. 95–345 inserted provision relating to payments with respect to securities loans.
 
-1976—Subsec. (c). Pub. L. 94–455 substituted “capital gain net income” for “net capital gain” in par. (1) after “investment income and the”, and in par. (4) after “par. (1) in determining”.
+<b>1976</b>—Subsec. (c). Pub. L. 94–455 substituted “capital gain net income” for “net capital gain” in par. (1) after “investment income and the”, and in par. (4) after “par. (1) in determining”.
 
 #### Effective Date of 2007 Amendment
 
@@ -224,7 +224,7 @@ Amendment by Pub. L. 110–172 effective as if included in the provisions of the
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–280 applicable to taxable years beginning after Aug. 17, 2006, see section 1221(c) of Pub. L. 109–280, set out as a note under section 509 of this title.
+Amendment by Pub. L. 109–280 applicable to taxable years beginning after Aug. 17, 2006, see section 1221(c) ofPub. L. 109–280, set out as a note under section 509 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -300,7 +300,7 @@ Section 4941.—Section 4941 shall not apply to—
 
 Section 4942.—In the case of organizations organized before May 27, 1969, section 4942 shall—
 
-&emsp;“(A) for all purposes other than the determination of the minimum investment return under section 4942(j)(3)(B)(ii), for taxable years beginning before January 1, 1972, apply without regard to section 4942(e) (relating to minimum investment return), and for taxable years beginning in 1972, 1973, and 1974, apply with an applicable percentage (as prescribed in section 4942(e)(3)) which does not exceed 41/2 percent, 5 percent, and 51/2 percent, respectively;
+&emsp;“(A) for all purposes other than the determination of the minimum investment return under section4942(j)(3)(B)(ii), for taxable years beginning before January 1, 1972, apply without regard to section 4942(e) (relating to minimum investment return), and for taxable years beginning in 1972, 1973, and 1974, apply with an applicable percentage (as prescribed in section 4942(e)(3)) which does not exceed 41/2 percent, 5 percent, and 51/2 percent, respectively;
 
 &emsp;“(B) not apply to an organization to the extent its income is required to be accumulated pursuant to the mandatory terms (as in effect on May 26, 1969, and at all times thereafter) of an instrument executed before May 27, 1969, with respect to the transfer of income producing property to such organization, except that section 4942 shall apply to such organization if the organization would have been denied exemption if section 504(a) had not been repealed by this Act, or would have had its deductions under section 642(c) limited if section 681(c) had not been repealed by this Act. In applying the preceding sentence, in addition to the limitations contained in section 504(a) or 681(c) before its repeal, section 504(a)(1) or 681(c)(1) shall be treated as not applying to an organization to the extent its income is required to be accumulated pursuant to the mandatory terms (as in effect on January 1, 1951, and at all times thereafter) of an instrument executed before January 1, 1951, with respect to the transfer of income producing property to such organization before such date, if such transfer was irrevocable on such date;
 
@@ -318,7 +318,7 @@ Section 4942.—In the case of organizations organized before May 27, 1969, sect
 
 &emsp;&emsp;“(iii) by defining the distributable amount as the sum of the amount determined under section 4942(d) (after the application of clauses (i) and (ii)), and the amount of the dividend income from such stock.
 
-> With respect to taxable years beginning after December 31, 1971, subparagraphs (B) and (E) shall apply only during the pendency of any judicial proceeding by the private foundation which is necessary to reform, or to excuse such foundation from compliance with, its governing instrument or any other instrument (as in effect on May 26, 1969) in order to comply with the provisions of section 4942, and in the case of subparagraph (B) for all periods after the termination of such judicial proceeding during which the governing instrument or anyother instrument does not permit compliance with such provisions.
+> With respect to taxable years beginning after December 31, 1971, subparagraphs (B) and (E) shall apply only during the pendency of any judicial proceeding by the private foundation which is necessary to reform, or to excuse such foundation from compliance with, its governing instrument or any other instrument (as in effect on May 26, 1969) in order to comply with the provisions of section 4942, and in the case of subparagraph (B) for all periods after the termination of such judicial proceeding during which the governing instrument or any other instrument does not permit compliance with such provisions.
 
 “(4)
 
@@ -358,7 +358,7 @@ Certain redemptions.—For purposes of applying section 302(b)(1) to the determi
 
 \[Section 314(b)(2) of Pub. L. 98–369 provided that: “The amendment made by paragraph (1) \[amending section 101(4)(A)(iii) of Pub. L. 91–172, set out above\] shall apply as if included in section 101(<i>l</i>)(4) of the Tax Reform Act of 1969 \[Pub. L. 91–172\].”\]
 
-\[Section 1301(b) of Pub. L. 94–455 provided that: “The amendments made by subsection (a) \[enacting subpar. (F) of section 101(2) of Pub. L. 91–172, set out above\] shall apply to dispositions after the date of the enactment of this Act \[Oct. 4, 1976\] in taxable years ending after such date.”\]
+\[Section 1301(b) of Pub. L. 94–455 provided that: “The amendments made by subsection (a) \[enacting subpar.\(F) of section 101(2) of Pub. L. 91–172, set out above\] shall apply to dispositions after the date of the enactment of this Act \[Oct. 4, 1976\] in taxable years ending after such date.”\]
 
 \[Section 1309(b) of Pub. L. 94–455 provided that: “The amendment made by this section \[amending section 101(2)(B) of Pub. L. 91–172, set out above\] shall apply to dispositions made after the date of enactment of this Act \[Oct. 4, 1976\].”\]
 

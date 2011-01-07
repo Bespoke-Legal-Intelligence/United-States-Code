@@ -40,5 +40,5 @@ In subsection (a), the words “(through modernization, extension, addition, or 
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–59 inserted “, as determined by local policies, criteria, and decisionmaking,” after “feasible”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59 inserted “, as determined by local policies, criteria, and decisionmaking,” after “feasible”.
 

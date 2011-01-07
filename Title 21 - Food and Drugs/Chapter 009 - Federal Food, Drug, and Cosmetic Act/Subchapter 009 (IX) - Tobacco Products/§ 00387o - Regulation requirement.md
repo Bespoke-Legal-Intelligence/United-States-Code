@@ -30,7 +30,7 @@ The Secretary shall have the authority under this subchapter to conduct or to re
 
 #### (A) 4-year period
 
-&emsp;&emsp;The initial regulations promulgated under subsection (a) shall give each small tobacco product manufacturer a 4-year period over which to conduct testing and reporting for all of its tobacco products. Subject to paragraph (1), the end of the first year of such 4-year period shall coincide with the initialdate of compliance under this section set by the Secretary with respect to manufacturers that are not small tobacco product manufacturers or the end of the 2-year period following the final promulgation of such regulations, as described in paragraph (1)(A). A small tobacco product manufacturer shall be required—
+&emsp;&emsp;The initial regulations promulgated under subsection (a) shall give each small tobacco product manufacturer a 4-year period over which to conduct testing and reporting for all of its tobacco products. Subject to paragraph (1), the end of the first year of such 4-year period shall coincide with the initial date of compliance under this section set by the Secretary with respect to manufacturers that are not small tobacco product manufacturers or the end of the 2-year period following the final promulgation of such regulations, as described in paragraph (1)(A). A small tobacco product manufacturer shall be required—
 
 &emsp;&emsp;&emsp;(i) to conduct such testing and reporting for 25 percent of its tobacco products during each year of such 4-year period; and
 
@@ -52,7 +52,7 @@ The Secretary shall have the authority under this subchapter to conduct or to re
 
 #### (1) In general
 
-&emsp;The regulations promulgated under subsection (a) shall provide that a small tobacco product manufacturer shall not be considered to be in violation of this section before the deadline applicable under paragraphs (3) and (4), if—
+&emsp;The regulations promulgated under subsection (a) shall provide that a small tobacco product manufacturer shall not be considered to be in violation of this section before thedeadline applicable under paragraphs (3) and (4), if—
 
 &emsp;&emsp;(A) the tobacco products of such manufacturer are in compliance with all other requirements of this subchapter; and
 
@@ -78,7 +78,7 @@ The Secretary shall have the authority under this subchapter to conduct or to re
 
 #### (f) Rule of construction
 
-Nothing in subsection (d) or (e) shall be construed to authorize the extension of any deadline, or to otherwise affect any timeframe,under any provision of this chapter or the Family Smoking Prevention and Tobacco Control Act other than this section.
+Nothing in subsection (d) or (e) shall be construed to authorize the extension of any deadline, or to otherwise affect any timeframe, under any provision of this chapter or the Family Smoking Prevention and Tobacco Control Act other than this section.
 
 (June 25, 1938, ch. 675, §915, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1820.)
 

@@ -6,7 +6,7 @@ In carrying out their respective authorities under this chapter, the Secretary o
 
 #### Amendments
 
-1976—Pub. L. 94–317 substituted “In carrying out their respective authorities under this chapter, the Secretary of Housing and Urban Development and the Secretary of Health, Education, and Welfare shall each” for “In carrying out the authority under this chapter, the Secretary of Health, Education, and Welfare shall”.
+<b>1976</b>—Pub. L. 94–317 substituted “In carrying out their respective authorities under this chapter, the Secretary of Housing and Urban Development and the Secretary of Health, Education, and Welfare shall each” for “In carrying out the authority under this chapter, the Secretary of Health, Education, and Welfare shall”.
 
 #### Change of Name
 

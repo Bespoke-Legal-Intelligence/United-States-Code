@@ -8,5 +8,5 @@
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–422 inserted “land use,” after “relating to” in second sentence.
+<b>2004</b>—Subsec. (a). Pub. L. 108–422 inserted “land use,” after “relating to” in second sentence.
 

@@ -6,7 +6,7 @@ The sum of $5,000,000 is authorized to be appropriated as an emergency fund to b
 
 #### Amendments
 
-1930—Act June 19, 1930, inserted provisos.
+<b>1930</b>—Act June 19, 1930, inserted provisos.
 
 #### Change of Name
 

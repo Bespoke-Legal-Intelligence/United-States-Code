@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-It is the duty of each hospital to request from the Secretary (or the agency designated under section 11134(b) of this title), on and after the date information is first required to be reported under section 11134(a) of this title)— <sup>1</sup>
+It is the duty of each hospital to request from the Secretary (or the agency designated undersection 11134(b) of this title), on and after the date information is first required to be reported under section 11134(a) of this title)— <sup>1</sup>
 
 &emsp;(1) at the time a physician or licensed health care practitioner applies to be on the medical staff (courtesy or otherwise) of, or for clinical privileges at, the hospital, information reported under this subchapter concerning the physician or practitioner, and
 

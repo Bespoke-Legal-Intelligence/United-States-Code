@@ -38,13 +38,13 @@ Subject to subsection (f) of this section, the Federal Fund may only be used by 
 
 #### (e) Ownership of Federal Fund
 
-The Federal Fund, and any nonliquid asset (such as a building or equipment) developed or purchased by the guaranty agency in whole or in part with Federal reserve funds, regardless of who holds or controls the Federal reserve funds or such asset, shall be considered to be the property of the United States, prorated based on the percentage of such asset developed or purchased with Federal reserve funds, which property shall be used in the operation of the program authorized by this part, as provided in subsection (d) ofthis section. The Secretary may restrict or regulate the use of such asset only to the extent necessary to reasonably protect the Secretary's prorated share of the value of such asset. The Secretary may direct a guaranty agency, or such agency's officers or directors, to cease any activity involving expenditures, use, or transfer of the Federal Fund administered by the guaranty agency that the Secretary determines is a misapplication, misuse, or improper expenditure of the Federal Fund or the Secretary's share of such asset.
+The Federal Fund, and any nonliquid asset (such as a building or equipment) developed or purchased by the guaranty agency in whole or in part with Federal reserve funds, regardless of who holds or controls the Federal reserve funds or such asset, shall be considered to be the property of the United States, prorated based on the percentage of such asset developed or purchased with Federal reserve funds, which property shall be used in the operation of the program authorized by this part, as provided in subsection (d) of this section. The Secretary may restrict or regulate the use of such asset only to the extent necessary to reasonably protect the Secretary's prorated share of the value of such asset. The Secretary may direct a guaranty agency, or such agency's officers or directors, to cease any activity involving expenditures, use, or transfer of the Federal Fund administered by the guaranty agency that the Secretary determines is a misapplication, misuse, or improper expenditure of the Federal Fund or the Secretary's share of such asset.
 
 #### (f) Transition
 
 #### (1) In general
 
-&emsp;In order to establish the Operating Fund, each guaranty agency may transfer not more than 180 days’ cash expenses for normal operating expenses (not including claim payments) as a working capital reserve as defined in Office of Management and Budget Circular A–87 (Cost Accounting Standards) from the Federal Fund for deposit into the Operating Fund for use in the performance of the guaranty agency's duties under this part. Such transfers may occur during the first 3 years following the establishment of the Operating Fund. However, no agency may transfer in excess of 45 percent of the balance, as of September 30, 1998, of the agency's Federal Fund to the agency's Operating Fund during such 3-year period. In determining the amount that may be transferred, the agency shall ensure that sufficient funds remain in the Federal Fund to pay lender claims within the required time periods and to meet the reserve recall requirements of this section and subsections (h) and (i) of section 1072 of this title.
+&emsp;In order to establish the Operating Fund, each guaranty agency may transfer not more than 180 days’ cash expenses for normal operating expenses (not including claim payments) as a working capital reserve as defined in Office of Management and Budget Circular A–87 (Cost Accounting Standards) from the Federal Fund for deposit into the Operating Fund for use in the performance of the guaranty agency's duties under this part. Such transfers may occur during the first 3 years following the establishment of the Operating Fund. However, no agency may transfer in excess of 45 percent of the balance, as of September 30, 1998, of the agency's Federal Fund to the agency's Operating Fund during such 3-year period. In determining the amount that may be transferred, the agency shall ensure that sufficient funds remain in the Federal Fund to pay lender claims within the required time periods and to meet the reserve recall requirements of thissection and subsections (h) and (i) of section 1072 of this title.
 
 #### (2) Special rule
 
@@ -108,7 +108,7 @@ Section 1078(c)(6)(A) of this title, referred to in subsec. (c)(2)(A), was redes
 
 #### Amendments
 
-2008—Subsec. (d)(1). Pub. L. 110–315 substituted “and 1087” for “1087, and 1087–2(q)”.
+<b>2008</b>—Subsec. (d)(1). Pub. L. 110–315 substituted “and 1087” for “1087, and 1087–2(q)”.
 
 #### Effective Date
 

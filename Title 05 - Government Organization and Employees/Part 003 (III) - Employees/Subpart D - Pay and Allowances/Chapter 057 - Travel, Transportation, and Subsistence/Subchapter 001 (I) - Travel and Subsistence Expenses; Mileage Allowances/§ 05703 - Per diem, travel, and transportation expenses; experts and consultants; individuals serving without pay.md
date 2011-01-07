@@ -1,6 +1,6 @@
 ### §5703. Per diem, travel, and transportation expenses; experts and consultants; individuals serving without pay
 
-An employee serving intermittently in the Government service as an expert or consultant and paid on a daily when-actually-employed basis, or serving without pay or at $1 a year, may be allowed travel or transportation expenses, under this subchapter, while away from his home or regular place of business and at the place of employment or service.
+An employee serving intermittently in the Government service as an expert or consultantand paid on a daily when-actually-employed basis, or serving without pay or at $1 a year, may be allowed travel or transportation expenses, under this subchapter, while away from his home or regular place of business and at the place of employment or service.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 499; Pub. L. 91–114, §2, Nov. 10, 1969, 83 Stat. 190; Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 85.)
 

@@ -22,5 +22,5 @@ Except as otherwise provided in sections 459h to 459h–10 of this title, the Se
 
 #### Amendments
 
-2000—Pub. L. 106–554 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2000</b>—Pub. L. 106–554 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 

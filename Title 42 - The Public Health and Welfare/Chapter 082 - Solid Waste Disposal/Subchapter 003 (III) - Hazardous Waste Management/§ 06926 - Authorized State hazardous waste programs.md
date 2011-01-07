@@ -32,7 +32,7 @@ No State program may be authorized by the Administrator under this section unles
 
 &emsp;(1) such program provides for the public availability of information obtained by the State regarding facilities and sites for the treatment, storage, and disposal of hazardous waste; and
 
-&emsp;(2) such information is available to the public in substantially the same manner, and to the same degree, as would be the case if the Administrator was carrying out the provisions of this subchapter in such State.
+&emsp;(2) such information is available to the public in substantially the same manner, and tothe same degree, as would be the case if the Administrator was carrying out the provisions of this subchapter in such State.
 
 #### (g) Amendments made by 1984 act
 
@@ -54,9 +54,9 @@ The Hazardous and Solid Waste Amendments of 1984, referred to in subsecs. (c)(3)
 
 #### Amendments
 
-1986—Subsec. (h). Pub. L. 99–499 added subsec. (h).
+<b>1986</b>—Subsec. (h). Pub. L. 99–499 added subsec. (h).
 
-1984—Subsec. (b). Pub. L. 98–616, §§225, 241(b)(2), inserted “(and to enforce permits deemed to have been issued under section 6935(d)(1) of this title)”, and inserted provision at end that in authorizing a State program, the Administrator may base his findings on the Federal program in effect one year prior to submission of a State's application or in effect on January 26, 1983, whichever is later.
+<b>1984</b>—Subsec. (b). Pub. L. 98–616, §§225, 241(b)(2), inserted “(and to enforce permits deemed to have been issued under section 6935(d)(1) of this title)”, and inserted provision at end that in authorizing a State program, the Administrator may base his findings on the Federal program in effect one year prior to submission of a State's application or in effect on January 26, 1983, whichever is later.
 
 Subsec. (c)(1). Pub. L. 98–616, §227(1), (2), designated existing provisions as par. (1) and substituted “period ending no later than January 31, 1986” for “twenty-four month period beginning on the date six months after the date of promulgation of regulations under sections 6922 through 6925 of this title”.
 
@@ -66,7 +66,7 @@ Subsec. (f). Pub. L. 98–616, §226(a), added subsec. (f).
 
 Subsec. (g). Pub. L. 98–616, §228, added subsec. (g).
 
-1978—Subsec. (c). Pub. L. 95–609 substituted “of” for “required for” wherever appearing and “may submit” for “submit”.
+<b>1978</b>—Subsec. (c). Pub. L. 95–609 substituted “of” for “required for” wherever appearing and “may submit” for “submit”.
 
 #### Effective Date of 1984 Amendment
 

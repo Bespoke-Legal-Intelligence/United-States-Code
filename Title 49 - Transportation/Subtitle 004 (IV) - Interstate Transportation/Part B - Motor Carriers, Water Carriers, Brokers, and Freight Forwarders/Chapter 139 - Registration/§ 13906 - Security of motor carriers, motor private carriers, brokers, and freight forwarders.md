@@ -6,7 +6,7 @@ Motor Carrier Requirements.—
 
 &emsp;(1)
 
-Liability insurance requirement.—The Secretary may register a motor carrier undersection 13902 only if the registrant files with the Secretary a bond, insurance policy, or other type of security approved by the Secretary, in an amount not less than such amount as the Secretary prescribes pursuant to, or as is required by, sections 31138 and 31139, and the laws of the State or States in which the registrant is operating, to the extent applicable. The security must be sufficient to pay, not more than the amount of the security, for each final judgment against the registrant for bodily injury to, or death of, an individual resulting from the negligent operation, maintenance, or use of motor vehicles, or for loss or damage to property (except property referred to in paragraph (3) <sup>1</sup> of this subsection), or both. A registration remains in effect only as long as the registrant continues to satisfy the security requirements of this paragraph.
+Liability insurance requirement.—The Secretary may register a motor carrier under section 13902 only if the registrant files with the Secretary a bond, insurance policy, or other type of security approved by the Secretary, in an amount not less than such amount as the Secretary prescribes pursuant to, or as is required by, sections 31138 and 31139, and the laws of the State or States in which the registrant is operating, to the extent applicable. The security must be sufficient to pay, not more than the amount of the security, for each final judgment against the registrant for bodily injury to, or death of, an individual resulting from the negligent operation, maintenance, or use of motor vehicles, or for loss or damage to property (except property referred to in paragraph (3) <sup>1</sup> of this subsection), or both. A registration remains in effect only as long as the registrant continues to satisfy the security requirements of this paragraph.
 
 &emsp;(2)
 
@@ -58,7 +58,7 @@ Form of Endorsement.—The Secretary shall also prescribe the appropriate form o
 
 Paragraph (3) of this subsection, referred to in subsec. (a)(1), was redesignated as paragraph (4) of subsec. (a) of this section by Pub. L. 109–59, title IV, §4303(b)(1), Aug. 10, 2005, 119 Stat. 1762.
 
-The date of enactment of the Unified Carrier Registration Act of 2005, referred to in subsec. (a)(2), is thedate of enactment of subtitle C of title IV of Pub. L. 109–59, which was approved Aug. 10, 2005.
+The date of enactment of the Unified Carrier Registration Act of 2005, referred to in subsec. (a)(2), is the date of enactment of subtitle C of title IV of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Prior Provisions
 
@@ -66,11 +66,11 @@ Provisions similar to those in this section were contained in section 10927 of t
 
 #### Amendments
 
-2005—Pub. L. 109–59, §4303(d)(1), inserted “motor private carriers,” after “motor carriers,” in section catchline.
+<b>2005</b>—Pub. L. 109–59, §4303(d)(1), inserted “motor private carriers,” after “motor carriers,” in section catchline.
 
 Subsec. (a)(2) to (4). Pub. L. 109–59, §4303(b), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-1996—Subsec. (d). Pub. L. 104–287 substituted “January 1, 1996,” for “the effective date of this section”.
+<b>1996</b>—Subsec. (d). Pub. L. 104–287 substituted “January 1, 1996,” for “the effective date of this section”.
 
 #### Relationship to Other Laws
 

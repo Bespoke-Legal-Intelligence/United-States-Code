@@ -16,7 +16,7 @@ The Secretary may enter into contracts with fiscal agents—
 
 #### (b) Contracting prerequisites
 
-(1) Contracts under subsection (a) of this section may be entered into without regard to section 5 of title 41 or any other provision of law requiring competition.
+(1) Contracts under subsection (a) of this section may be entered into without regard to section 6101 of title 41 or any other provision of law requiring competition.
 
 (2) No such contract shall be entered into with an entity unless the Secretary finds that the entity will perform its obligations under the contract efficiently and effectively and will meet such requirements as to financial responsibility, legal authority, and other matters as he finds pertinent.
 
@@ -41,6 +41,8 @@ Subsections (d), (e), and (f) of section 1395u of this title, referred to in sub
 The Indian Self-Determination Act, referred to in subsec. (e), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
 #### Codification
+
+In subsec. (b)(1), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Section was classified to section 300aaa–13 of this title prior to renumbering by Pub. L. 103–43, to section 300cc–15 of this title prior to renumbering by Pub. L. 100–607, and to section 300aa–15 of this title prior to renumbering by Pub. L. 99–660.
 

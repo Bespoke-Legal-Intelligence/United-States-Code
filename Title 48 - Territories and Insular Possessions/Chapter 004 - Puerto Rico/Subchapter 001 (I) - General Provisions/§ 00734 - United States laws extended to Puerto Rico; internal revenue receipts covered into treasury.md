@@ -18,9 +18,9 @@ Provisions similar to those in this section were contained in act Apr. 12, 1900,
 
 #### Amendments
 
-1955—Act Aug. 1, 1955, inserted “or the Philippine Trade Agreement Revision Act of 1955”.
+<b>1955</b>—Act Aug. 1, 1955, inserted “or the Philippine Trade Agreement Revision Act of 1955”.
 
-1946—Act Apr. 30, 1946, inserted “other than those contained in the Philippine Trade Act of 1946”.
+<b>1946</b>—Act Apr. 30, 1946, inserted “other than those contained in the Philippine Trade Act of 1946”.
 
 #### Change of Name
 

@@ -40,7 +40,7 @@ Regulations.—The Secretary concerned shall prescribe regulations to carry out 
 
 #### Amendments
 
-2006—Subsec. (f). Pub. L. 109–163 amended heading and text of subsec. (f) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to repayment required when officer fails to complete total period of agreed upon active duty.
+<b>2006</b>—Subsec. (f). Pub. L. 109–163 amended heading and text of subsec. (f) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to repayment required when officer fails to complete total period of agreed upon active duty.
 
 #### Effective Date
 

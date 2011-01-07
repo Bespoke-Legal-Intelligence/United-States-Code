@@ -4,7 +4,7 @@
 
 Congress finds and declares that—
 
-&emsp;(1) the development of micro- and small enterprises is a vital factor in the stable growthof developing countries and in the development and stability of a free, open, and equitable international economic system; and
+&emsp;(1) the development of micro- and small enterprises is a vital factor in the stable growth of developing countries and in the development and stability of a free, open, and equitable international economic system; and
 
 &emsp;(2) it is, therefore, in the best interests of the United States to assist the access to financial services and the development of microenterprises in developing countries and to engage the United States private sector in that process.
 
@@ -68,11 +68,11 @@ A prior section 2212, Pub. L. 87–195, pt. I, §252, as added Pub. L. 87–565,
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–484, §4(c)(3)(A), substituted “Administrator of the Agency” for “Administrator of the agency primarily responsible for administering subchapter I of this chapter” in introductory provisions.
+<b>2004</b>—Subsec. (c). Pub. L. 108–484, §4(c)(3)(A), substituted “Administrator of the Agency” for “Administrator of the agency primarily responsible for administering subchapter I of this chapter” in introductory provisions.
 
 Subsec. (f)(1). Pub. L. 108–484, §4(c)(3)(B), substituted “subchapter I of this chapter” for “section 2152a of this title” and “such sums as may be necessary for each of the fiscal years 2005 through 2009” for “$1,500,000 for each of fiscal years 2001 through 2004”.
 
-2003—Pub. L. 108–31, §2(f), substituted “Microenterprise development credits” for “Micro- and small enterprise development credits” in section catchline.
+<b>2003</b>—Pub. L. 108–31, §2(f), substituted “Microenterprise development credits” for “Micro- and small enterprise development credits” in section catchline.
 
 Subsec. (a)(2). Pub. L. 108–31, §2(a), substituted “the access to financial services and the development of microenterprises” for “the development of the enterprises of the poor”.
 
@@ -92,11 +92,11 @@ Subsec. (d). Pub. L. 108–31, §2(d), substituted “programs for microenterpri
 
 Subsec. (f)(1). Pub. L. 108–31, §2(e), substituted “for each of fiscal years 2001 through 2004” for “for each of fiscal years 2001 and 2002”.
 
-2000—Pub. L. 106–309 amended section catchline and text generally, substituting provisions promoting micro- and small enterprise development credits for provisions relating to the establishment, funding and uses of a private sector revolving fund to aid developing countries.
+<b>2000</b>—Pub. L. 106–309 amended section catchline and text generally, substituting provisions promoting micro- and small enterprise development credits for provisions relating to the establishment, funding and uses of a private sector revolving fund to aid developing countries.
 
-1988—Subsec. (i). Pub. L. 100–418 added subsec. (i).
+<b>1988</b>—Subsec. (i). Pub. L. 100–418 added subsec. (i).
 
-1985—Subsec. (b). Pub. L. 99–83 substituted “each of the fiscal years 1986 and 1987, up to $18,000,000” for “fiscal year 1984, up to $20,000,000”.
+<b>1985</b>—Subsec. (b). Pub. L. 99–83 substituted “each of the fiscal years 1986 and 1987, up to $18,000,000” for “fiscal year 1984, up to $20,000,000”.
 
 #### Effective Date of 1985 Amendment
 
@@ -160,7 +160,7 @@ Pub. L. 106–309, title I, §102, Oct. 17, 2000, 114 Stat. 1079, provided that:
 
 &emsp;“(C) In order to achieve the goal of the microcredit summit, increased investment in microfinance institutions serving the poorest will be critical.
 
-&emsp;“(12) Providing the United States share of the global investment needed to achieve the goal of themicrocredit summit will require only a small increase in United States funding for international microcredit programs, with an increased focus on institutions serving the poorest.
+&emsp;“(12) Providing the United States share of the global investment needed to achieve the goal of the microcredit summit will require only a small increase in United States funding for international microcredit programs, with an increased focus on institutions serving the poorest.
 
 &emsp;“(13)(A) In order to reach tens of millions of the poorest with microcredit, it is crucial to expand and replicate successful microfinance institutions.
 

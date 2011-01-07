@@ -22,7 +22,7 @@ A State plan meets the requirements of this subsection if the plan—
 
 &emsp;(5) contains assurances that the State will—
 
-&emsp;&emsp;(A) annually prepare, furnish to the Secretary, and make available to the public a description (including separate descriptions with respect to family preservation services, community-based family support services,time-limited family reunification services, and adoption promotion and support services) of—
+&emsp;&emsp;(A) annually prepare, furnish to the Secretary, and make available to the public a description (including separate descriptions with respect to family preservation services, community-based family support services, time-limited family reunification services, and adoption promotion and support services) of—
 
 &emsp;&emsp;&emsp;(i) the service programs to be made available under the plan in the immediately succeeding fiscal year;
 
@@ -88,7 +88,7 @@ A prior section 432 of act Aug. 14, 1935, was classified to section 632 of this 
 
 #### Amendments
 
-2006—Subsec. (a)(8). Pub. L. 109–288, §3(e)(1), designated existing provisions as subpar. (A) and added subpar. (B).
+<b>2006</b>—Subsec. (a)(8). Pub. L. 109–288, §3(e)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (b)(2). Pub. L. 109–288, §5(b)(3)(A)(i), inserted “or tribal consortia” after “tribes” in heading.
 
@@ -100,9 +100,9 @@ Subsec. (b)(2)(B). Pub. L. 109–288, §5(b)(3)(A)(iii), inserted “or tribal c
 
 Subsec. (c). Pub. L. 109–288, §3(e)(2), added subsec. (c).
 
-1998—Subsec. (a)(8). Pub. L. 105–200 inserted “; and” at end.
+<b>1998</b>—Subsec. (a)(8). Pub. L. 105–200 inserted “; and” at end.
 
-1997—Subsec. (a)(4). Pub. L. 105–89, §305(b)(1)(A)(i), substituted “, community-based family support services, time-limited family reunification services, and adoption promotion and support services,” for “and community-based family support services”.
+<b>1997</b>—Subsec. (a)(4). Pub. L. 105–89, §305(b)(1)(A)(i), substituted “, community-based family support services, time-limited family reunification services, and adoption promotion and support services,” for “and community-based family support services”.
 
 Subsec. (a)(5)(A). Pub. L. 105–89, §305(b)(1)(A)(ii), substituted “, community-based family support services, time-limited family reunification services, and adoption promotion and support services” for “and community-based family support services”.
 
@@ -114,7 +114,7 @@ Subsec. (b)(1). Pub. L. 105–89, §305(b)(1)(B), substituted “, family suppo
 
 Pub. L. 109–288, §3(e)(3), Sept. 28, 2006, 120 Stat. 1236, provided that: “The amendments made by this subsection \[amending this section\] take effect on the date of enactment of this Act \[Sept. 28, 2006\]. Each State with an approved plan under subpart 1 or 2 of part B of title IV of the Social Security Act \[subpart 1 or 2 of this part\] shall make its initial submission of the forms required under section 432(a)(8)(B) of the Social Security Act \[subsec. (a)(8)(B) of this section\] to the Secretary of Health and Human Services by June 30, 2007, and the Secretary of Health and Human Services shall submit the first compilation required under section 432(c) of the Social Security Act \[subsec. (c) of this section\] by September 30, 2007.”
 
-Amendment by Pub. L. 109–288 effective Oct. 1, 2006, except as otherwise provided, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
+Amendment by Pub. L. 109–288 effective Oct. 1, 2006, except as otherwise provided, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date,without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
 
 #### Effective Date of 1997 Amendment
 

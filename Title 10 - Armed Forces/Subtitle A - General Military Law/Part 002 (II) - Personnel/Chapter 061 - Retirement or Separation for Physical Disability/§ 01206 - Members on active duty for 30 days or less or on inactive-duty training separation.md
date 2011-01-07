@@ -54,11 +54,11 @@ The last sentence of the revised section, relating to transfer to the inactive s
 
 #### Amendments
 
-2001—Par. (2)(B)(iii). Pub. L. 107–107, §513(b), struck out “, if the place is outside reasonable commuting distance from the member's residence” before semicolon at end.
+<b>2001</b>—Par. (2)(B)(iii). Pub. L. 107–107, §513(b), struck out “, if the place is outside reasonable commuting distance from the member's residence” before semicolon at end.
 
 Par. (5). Pub. L. 107–107, §1048(c)(6), substituted “October 5, 1999,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 2000,”.
 
-1999—Par. (2). Pub. L. 106–65, §578(i)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the disability is a result of an injury, illness, or disease incurred or aggravated in line of duty while—
+<b>1999</b>—Par. (2). Pub. L. 106–65, §578(i)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the disability is a result of an injury, illness, or disease incurred or aggravated in line of duty while—
 
 &emsp;“(A) performing active duty or inactive-duty training;
 
@@ -68,15 +68,15 @@ Par. (5). Pub. L. 107–107, §1048(c)(6), substituted “October 5, 1999,” fo
 
 Par. (5). Pub. L. 106–65, §653(c), inserted “, in the case of a disability incurred before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2000,” after “determination, and”.
 
-1997—Pub. L. 105–85, §513(d)(2), amended section catchline generally, inserting “or on inactive-duty training” after “30 days or less”.
+<b>1997</b>—Pub. L. 105–85, §513(d)(2), amended section catchline generally, inserting “or on inactive-duty training” after “30 days or less”.
 
 Pars. (2) to (5). Pub. L. 105–85, §513(c)(2), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
 
-1992—Par. (4). Pub. L. 102–484 inserted before period at end “or of traveling directly to or from the place at which such duty is performed”.
+<b>1992</b>—Par. (4). Pub. L. 102–484 inserted before period at end “or of traveling directly to or from the place at which such duty is performed”.
 
-1989—Par. (4). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1989</b>—Par. (4). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1986—Pub. L. 99–661 struck out “; disability from injury” after “30 days or less” in section catchline and “resulting from an injury” after “because of physical disability” in provisions preceding par. (1).
+<b>1986</b>—Pub. L. 99–661 struck out “; disability from injury” after “30 days or less” in section catchline and “resulting from an injury” after “because of physical disability” in provisions preceding par. (1).
 
 #### Effective Date of 1992 Amendment
 

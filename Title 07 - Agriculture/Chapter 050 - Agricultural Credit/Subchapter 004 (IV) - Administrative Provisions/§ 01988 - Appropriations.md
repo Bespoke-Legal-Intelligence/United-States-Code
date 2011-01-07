@@ -56,7 +56,7 @@ There is authorized to be appropriated to the Secretary such sums as the Congres
 
 (4) The Secretary may contract for goods and services to be used for the purposes of this subsection without regard to the provisions of titles 5, 40, and 41, and any regulations issued thereunder.
 
-(Pub. L. 87–128, title III, §338, Aug. 8, 1961, 75 Stat. 316; Pub. L. 89–429, §5, May 24, 1966, 80 Stat. 167; Pub. L. 100–233, title VII, §711(a), Jan. 6, 1988, 101 Stat. 1707; Pub. L. 100–399, title VI, §605, Aug. 17, 1988, 102 Stat. 1006; Pub. L. 101–624, title XXIII, §2303(d), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 104–127, title VII, §749(a), Apr. 4, 1996, 110 Stat. 1129; Pub. L. 105–362, title I, §101(a), Nov. 10, 1998, 112 Stat. 3281.)
+(Pub. L. 87–128, title III, §338, Aug. 8, 1961, 75 Stat. 316; Pub. L. 89–429, §5, May 24, 1966, 80 Stat.167; Pub. L. 100–233, title VII, §711(a), Jan. 6, 1988, 101 Stat. 1707; Pub. L. 100–399, title VI, §605, Aug. 17, 1988, 102 Stat. 1006; Pub. L. 101–624, title XXIII, §2303(d), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 104–127, title VII, §749(a), Apr. 4, 1996, 110 Stat. 1129; Pub. L. 105–362, title I, §101(a), Nov. 10, 1998, 112 Stat. 3281.)
 
 #### References in Text
 

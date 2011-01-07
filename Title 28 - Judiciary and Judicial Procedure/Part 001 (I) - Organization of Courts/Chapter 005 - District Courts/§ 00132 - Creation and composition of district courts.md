@@ -1,6 +1,6 @@
 ### §132. Creation and composition of district courts
 
-(a) There shall be in each judicial district a district court which shall be a court of recordknown as the United States District Court for the district.
+(a) There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district.
 
 (b) Each district court shall consist of the district judge or judges for the district in regular active service. Justices or judges designated or assigned shall be competent to sit as judges of the court.
 
@@ -20,7 +20,7 @@ Other portions of section 1 of title 28, U.S.C., 1940 ed., are incorporated in s
 
 #### Amendments
 
-1963—Subsec. (b). Pub. L. 88–176 inserted “regular” before “active service”.
+<b>1963</b>—Subsec. (b). Pub. L. 88–176 inserted “regular” before “active service”.
 
 #### Continuation of Organization of Court
 

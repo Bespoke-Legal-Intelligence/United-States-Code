@@ -6,7 +6,7 @@ Not to exceed $45,000 annually of the funds appropriated for rivers and harbors 
 
 #### Amendments
 
-1974—Pub. L. 93–251 substituted “$45,000” for “$22,000”.
+<b>1974</b>—Pub. L. 93–251 substituted “$45,000” for “$22,000”.
 
-1965—Pub. L. 89–298 substituted “$22,000” for “$5,000”.
+<b>1965</b>—Pub. L. 89–298 substituted “$22,000” for “$5,000”.
 

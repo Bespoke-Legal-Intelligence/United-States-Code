@@ -48,7 +48,7 @@ The African Growth and Opportunity Act, referred to in subsec. (c)(2), is title 
 
 #### Amendments
 
-2004—Subsec. (b)(2)(B). Pub. L. 108–274, §7(a)(2)(A), inserted “or former beneficiary sub-Saharan African countries” after “countries”.
+<b>2004</b>—Subsec. (b)(2)(B). Pub. L. 108–274, §7(a)(2)(A), inserted “or former beneficiary sub-Saharan African countries” after “countries”.
 
 Subsec. (c). Pub. L. 108–274, §7(a)(2)(B), substituted “subchapter—” for “subchapter,”, inserted par. (1) designation before “the terms”, and added par. (2).
 

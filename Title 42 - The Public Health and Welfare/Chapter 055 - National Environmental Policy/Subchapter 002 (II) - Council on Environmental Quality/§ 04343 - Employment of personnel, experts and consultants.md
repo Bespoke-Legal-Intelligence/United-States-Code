@@ -16,5 +16,5 @@ In subsec. (b), “section 1342 of title 31” substituted for “section 3679(b
 
 #### Amendments
 
-1975—Pub. L. 94–52 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1975</b>—Pub. L. 94–52 designated existing provisions as subsec. (a) and added subsec. (b).
 

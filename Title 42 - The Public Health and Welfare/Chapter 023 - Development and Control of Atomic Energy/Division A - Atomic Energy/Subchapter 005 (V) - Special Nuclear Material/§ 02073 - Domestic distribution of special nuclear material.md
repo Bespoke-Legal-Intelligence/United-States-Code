@@ -78,13 +78,13 @@ Provisions similar to this section were contained in section 1805(a)(4) of this 
 
 #### Amendments
 
-1992—Subsec. (c)(1). Pub. L. 102–486, §902(a)(3), substituted “or grant” for “grant,” and struck out “or through the provision of production or enrichment services” before “: <i>Provided, however</i>” and before “to any person”.
+<b>1992</b>—Subsec. (c)(1). Pub. L. 102–486, §902(a)(3), substituted “or grant” for “grant,” and struck out “or through the provision of production or enrichment services” before “: <i>Provided, however</i>” and before “to any person”.
 
-1967—Subsec. (c)(1). Pub. L. 90–190, §10, inserted “or through the provision of production or enrichment services” wherever appearing.
+<b>1967</b>—Subsec. (c)(1). Pub. L. 90–190, §10, inserted “or through the provision of production or enrichment services” wherever appearing.
 
 Subsec. (f). Pub. L. 90–190, §9, struck out reference to the limitations on the distribution of special nuclear materials set by the President in determinations made pursuant to section 2061 of this title.
 
-1964—Subsec. (a). Pub. L. 88–489, §5, substituted “(i) to issue licenses to transfer or receive in interstate commerce, transfer, deliver, acquire, possess, own, receive possession of or title to, import, or export under the terms of an agreement for cooperation arranged pursuant to section 2153 of this title, special nuclear material, (ii) to make special nuclear material available for the period of the license, and, (iii)” for “to issue licenses for the possession of, to make available for the period of the license, and”.
+<b>1964</b>—Subsec. (a). Pub. L. 88–489, §5, substituted “(i) to issue licenses to transfer or receive in interstate commerce, transfer, deliver, acquire, possess, own, receive possession of or title to, import, or export under the terms of an agreement for cooperation arranged pursuant to section 2153 of this title, special nuclear material, (ii) to make special nuclear material available for the period of the license, and, (iii)” for “to issue licenses for the possession of, to make available for the period of the license, and”.
 
 Subsec. (c). Pub. L. 88–489, §6, designated existing provisions as par. (4), inserted “by lease” wherever appearing and “special nuclear material will be distributed by grant and for the determination of whether”, and added pars. (1) to (3).
 
@@ -92,9 +92,9 @@ Subsec. (d). Pub. L. 88–489, §7, inserted “by lease” in introductory prov
 
 Subsec. (e)(1). Pub. L. 88–489, §8, struck out par. (1) which provided that title to all special nuclear material shall at all times be in the United States.
 
-1958—Subsec. (a)(4). Pub. L. 85–681, §1, added par. (4).
+<b>1958</b>—Subsec. (a)(4). Pub. L. 85–681, §1, added par. (4).
 
 Subsec. (c). Pub. L. 85–681, §2, substituted “subsections (a)(1), (2) or (4)” for “subsection (a)(1) or (a) (2)”.
 
-1957—Subsec. (e)(8). Pub. L. 85–256 inserted “except to the extent that the indemnification and limitation of liability provisions of section 2210 of this title apply,”.
+<b>1957</b>—Subsec. (e)(8). Pub. L. 85–256 inserted “except to the extent that the indemnification and limitation of liability provisions of section 2210 of this title apply,”.
 

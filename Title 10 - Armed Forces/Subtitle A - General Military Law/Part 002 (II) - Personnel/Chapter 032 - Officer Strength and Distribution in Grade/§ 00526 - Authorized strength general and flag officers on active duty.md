@@ -42,7 +42,7 @@ Limited Exclusion for Joint Duty Requirements.—(1) The Secretary of Defense ma
 
 (C) Whenever a vacancy occurs, or is anticipated to occur, in a position designated under subparagraph (A)—
 
-&emsp;(i) the Secretary of Defense shall require the Secretary of the Army to submit the name ofat least one Army reserve component officer, the Secretary of the Navy to submit the name of at least one Navy Reserve officer and the name of at least one Marine Corps Reserve officer, and the Secretary of the Air Force to submit the name of at least one Air Force reserve component officer for consideration by the Secretary for assignment to that position; and
+&emsp;(i) the Secretary of Defense shall require the Secretary of the Army to submit the name of at least one Army reserve component officer, the Secretary of the Navy to submit the name of at least one Navy Reserve officer and the name of at least one Marine Corps Reserve officer, and the Secretary of the Air Force to submit the name of at least one Air Force reserve component officer for consideration by the Secretary for assignment to that position; and
 
 &emsp;(ii) the Chairman of the Joint Chiefs of Staff may submit to the Secretary of Defense the name of one or more officers (in addition to the officers whose names are submitted pursuant to clause (i)) for consideration by the Secretary for assignment to that position.
 
@@ -84,7 +84,7 @@ Exclusion of Officers Departing From Joint Duty Assignments.—The limitations i
 
 Section is based on Pub. L. 95–79, title VIII, §811(a), July 30, 1977, 91 Stat. 335, as amended by Pub. L. 96–107, title VIII, §817, Nov. 9, 1979, 93 Stat. 818; Pub. L. 96–342, title X, §1003, Sept. 8, 1980, 94 Stat. 1120; Pub. L. 97–86, title VI, §602, Dec. 1, 1981, 95 Stat. 1110.
 
-Present law (section 811(a) of Public Law 95–79, as amended) provides that the authority to suspend the limitation on the number of general and flag officers who may be serving on active duty applies during war or national emergency. In codifying the limitation (in section 526 of title 10 as proposed to be added by section 1(b) of the bill), the committee determined that the same war and emergency waiver authority as applies to other limitations on the number of officers on active duty under the existing 10 U.S.C. 526 (redesignated as 10 U.S.C. 527 by the bill) should apply with respect to this limitation and accordingly amended the suspension authority in present law to include the codified general and flag officer limitation. This authority is slightly different from the waiver authority in the source law inthat the suspension would expire 2 years after it takes effect or 1 year after the end of the war or national emergency, whichever occurs first, rather than upon termination of the war or emergency.
+Present law (section 811(a) of Public Law 95–79, as amended) provides that the authority to suspend the limitation on the number of general and flag officers who may be serving on active duty applies during war or national emergency. In codifying the limitation (in section 526 of title 10 as proposed to be added by section 1(b) of the bill), the committee determined that the same war and emergency waiver authority as applies toother limitations on the number of officers on active duty under the existing 10 U.S.C. 526 (redesignated as 10 U.S.C. 527 by the bill) should apply with respect to this limitation and accordingly amended the suspension authority in present law to include the codified general and flag officer limitation. This authority is slightly different from the waiver authority in the source law in that the suspension would expire 2 years after it takes effect or 1 year after the end of the war or national emergency, whichever occurs first, rather than upon termination of the war or emergency.
 
 #### Prior Provisions
 
@@ -92,7 +92,7 @@ A prior section 526 was renumbered section 527 of this title.
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–84, §502(e), substituted “230” for “307” in par. (1), “160” for “216” in par. (2), “208” for “279” in par. (3), and “60” for “81” in par. (4).
+<b>2009</b>—Subsec. (a). Pub. L. 111–84, §502(e), substituted “230” for “307” in par. (1), “160” for “216” in par. (2), “208” for “279” in par. (3), and “60” for “81” in par. (4).
 
 Subsec. (b)(1). Pub. L. 111–84, §502(f)(1), substituted “Secretary of Defense” for “Chairman of the Joint Chiefs of Staff”, “324” for “65”, and “The Secretary of Defense shall allocate those exclusions to the armed forces based on the number of general or flag officers required from each armed force for assignment to these designated positions.” for “Officers in positions so designated shall not be counted for the purposes of those limitations.”
 
@@ -102,7 +102,7 @@ Subsec. (d)(3). Pub. L. 111–84, §502(g)(1), added par. (3).
 
 Subsecs. (g), (h). Pub. L. 111–84, §502(g)(2), added subsecs. (g) and (h).
 
-2008—Subsec. (a)(1). Pub. L. 110–417, §503(a), substituted “307” for “302”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–417, §503(a), substituted “307” for “302”.
 
 Subsec. (a)(4). Pub. L. 110–417, §503(b), substituted “81” for “80”.
 
@@ -114,7 +114,7 @@ Pub. L. 110–181, §1824(c), substituted “15 general and flag officer positio
 
 Subsec. (d). Pub. L. 110–181, §502, designated existing provisions as par. (1) and added par. (2).
 
-2006—Subsec. (b)(2)(A). Pub. L. 109–163, §510, inserted “, and a general and flag officer position on the Joint Staff,” after “combatant commands”.
+<b>2006</b>—Subsec. (b)(2)(A). Pub. L. 109–163, §510, inserted “, and a general and flag officer position on the Joint Staff,” after “combatant commands”.
 
 Subsec. (b)(2)(C)(i). Pub. L. 109–163, §515(b)(1)(C), substituted “Navy Reserve” for “Naval Reserve”.
 
@@ -124,9 +124,9 @@ Subsec. (e). Pub. L. 109–163, §503(b)(1), added subsec. (e).
 
 Subsec. (f). Pub. L. 109–364 added subsec. (f).
 
-2003—Subsec. (b)(3). Pub. L. 108–136 struck out par. (3) which read as follows: “This subsection shall cease to be effective on December 31, 2004.”
+<b>2003</b>—Subsec. (b)(3). Pub. L. 108–136 struck out par. (3) which read as follows: “This subsection shall cease to be effective on December 31, 2004.”
 
-2002—Subsec. (b)(3). Pub. L. 107–314, §405(c), substituted “December 31, 2004” for “October 1, 2002”.
+<b>2002</b>—Subsec. (b)(3). Pub. L. 107–314, §405(c), substituted “December 31, 2004” for “October 1, 2002”.
 
 Subsec. (c). Pub. L. 107–314, §1041(a)(3), struck out heading and text of subsec. (c). Text read as follows:
 
@@ -140,13 +140,13 @@ Subsec. (c). Pub. L. 107–314, §1041(a)(3), struck out heading and text of sub
 
 &emsp;“(C) Assignment of an officer other than a general or flag officer as the military executive to the Reserve Forces Policy Board.”
 
-1999—Subsec. (b)(2), (3). Pub. L. 106–65, §553, added par. (2) and redesignated former par. (2) as (3).
+<b>1999</b>—Subsec. (b)(2), (3). Pub. L. 106–65, §553, added par. (2) and redesignated former par. (2) as (3).
 
 Subsec. (c)(1). Pub. L. 106–65, §1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-1998—Subsec. (b)(2). Pub. L. 105–261 substituted “October 1, 2002” for “October 1, 1998”.
+<b>1998</b>—Subsec. (b)(2). Pub. L. 105–261 substituted “October 1, 2002” for “October 1, 1998”.
 
-1996—Subsec. (a)(1) to (3). Pub. L. 104–106, §1503(a)(3)(A), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
+<b>1996</b>—Subsec. (a)(1) to (3). Pub. L. 104–106, §1503(a)(3)(A), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
 
 “(1) For the Army, 386 before October 1, 1995, and 302 on and after that date.
 
@@ -168,15 +168,15 @@ Subsec. (d)(1). Pub. L. 104–106, §1502(a)(1), substituted “Committee on Arm
 
 Subsec. (e). Pub. L. 104–106, §1503(a)(3)(C), redesignated subsec. (e) as (d).
 
-1994—Subsec. (a)(4). Pub. L. 103–337, §404, struck out “before October 1, 1995, and 61 on and after that date” after “Corps, 68”.
+<b>1994</b>—Subsec. (a)(4). Pub. L. 103–337, §404, struck out “before October 1, 1995, and 61 on and after that date” after “Corps, 68”.
 
 Subsecs. (d), (e). Pub. L. 103–337, §512, added subsecs. (d) and (e).
 
-1992—Subsec. (b). Pub. L. 102–484, §403(b), inserted heading.
+<b>1992</b>—Subsec. (b). Pub. L. 102–484, §403(b), inserted heading.
 
 Subsec. (c). Pub. L. 102–484, §403(a), added subsec. (c).
 
-1990—Pub. L. 101–510 amended section generally. Prior to amendment, text read as follows: “The total number of general officers on active duty in the Army, Air Force, and Marine Corps and flag officers on active duty in the Navy may not exceed 1,073.”
+<b>1990</b>—Pub. L. 101–510 amended section generally. Prior to amendment, text read as follows: “The total number of general officers on active duty in the Army, Air Force, and Marine Corps and flag officers on active duty in the Navy may not exceed 1,073.”
 
 #### Effective Date of 1990 Amendment
 
@@ -188,7 +188,7 @@ Pub. L. 110–417, \[div. A\], title V, §503(e), Oct. 14, 2008, 122 Stat. 4434,
 
 “(1)
 
-Reservation of army increase.—The increase in the number of general officers on active duty in theArmy, as authorized by the amendment made by subsection (a) \[amending this section\] is reserved for general officers in the Army who serve in an acquisition position.
+Reservation of army increase.—The increase in the number of general officers on active duty in the Army, as authorized by the amendment made by subsection (a) \[amending this section\] is reserved for general officers in the Army who serve in an acquisition position.
 
 “(2)
 

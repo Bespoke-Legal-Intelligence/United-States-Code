@@ -1,6 +1,6 @@
 ### §1804. Inland and intracoastal waterways of the United States
 
-For purposes of section 4042 of title 26 (relating to tax on fuel used in commercial transportation on inland waterways) and for purposes of section 1802 <sup>1</sup> of this title, the following inlandand intracoastal waterways of the United States are described in this section:
+For purposes of section 4042 of title 26 (relating to tax on fuel used in commercial transportation on inland waterways) and for purposes of section 1802 <sup>1</sup> of this title, the following inland and intracoastal waterways of the United States are described in this section:
 
 &emsp;(1) Alabama-Coosa Rivers: From junction with the Tombigbee River at river mile (hereinafter referred to as RM) 0 to junction with Coosa River at RM 314.
 
@@ -64,11 +64,17 @@ Section 1802 of this title, referred to in text, was repealed by Pub. L. 99–66
 
 #### Amendments
 
-1986—Pub. L. 99–514, in introductory provisions, substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Pub. L. 99–514, in introductory provisions, substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Par. (27). Pub. L. 99–662 added par. (27).
 
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–662 effective Jan. 1, 1987, see section 1404(c) of Pub. L. 99–662 set out as a note under section 4042 of Title 26, Internal Revenue Code.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “Chattahoochee”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “Albemarle”.</i>
 

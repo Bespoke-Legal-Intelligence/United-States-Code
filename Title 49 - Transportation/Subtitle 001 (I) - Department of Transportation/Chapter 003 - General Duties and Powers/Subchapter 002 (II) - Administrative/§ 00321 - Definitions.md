@@ -28,11 +28,11 @@ This makes a clarifying amendment to 49:321.
 
 #### Amendments
 
-1994—Pub. L. 103–429 struck out “, respectively” after “of this title”.
+<b>1994</b>—Pub. L. 103–429 struck out “, respectively” after “of this title”.
 
 Pub. L. 103–272 substituted “section 40102(a) of this title” for “section 101(2), (4), and (8) of the Federal Aviation Act of 1958 (49 App. U.S.C. 1301(2), (4), (8))”.
 
-1984—Pub. L. 98–216 substituted “49 App. U.S.C.” for “49 U.S.C.”.
+<b>1984</b>—Pub. L. 98–216 substituted “49 App. U.S.C.” for “49 U.S.C.”.
 
 #### Effective Date of 1994 Amendment
 

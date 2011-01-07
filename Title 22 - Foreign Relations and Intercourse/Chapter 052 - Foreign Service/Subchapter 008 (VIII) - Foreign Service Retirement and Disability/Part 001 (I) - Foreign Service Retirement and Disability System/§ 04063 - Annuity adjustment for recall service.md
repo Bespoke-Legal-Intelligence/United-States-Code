@@ -6,7 +6,7 @@ Any annuitant recalled to duty in the Service under section 3948(a) of this titl
 
 #### (b) Refund of contributions to Fund; election for supplemental annuity or determination of annuity anew; prior service counted as recall service
 
-If the recall service lasts less than one year, the contributions of the annuitant to the Fundduring recall service shall be refunded in accordance with section 4055 of this title. If the recall service lasts more than one year, the annuitant may, in lieu of such refund, elect a supplemental annuity computed under section 4046 of this title on the basis of service credit and average salary earned during the recall period irrespective of the number of years of service credit previously earned. If the recall service continues for at least 5 years, the annuitant may elect to have his or her annuity determined anew under section 4046 of this title in lieu of any other benefits under this section. Any annuitant who is recalled under section 3948 of this title may upon written application count as recall service any prior service that is creditable under section 4056 of this title that was performed after the separation upon which his or her annuity is based.
+If the recall service lasts less than one year, the contributions of the annuitant to the Fund during recall service shall be refunded in accordance with section 4055 of this title. If the recall service lasts more than one year, the annuitant may, in lieu of such refund, elect a supplemental annuity computed under section 4046 of this title on the basis of service credit and average salary earned during the recall period irrespective of the number of years of service credit previously earned. If the recall service continues for at least 5 years, the annuitant may elect to have his or her annuity determined anew under section 4046 of this title in lieu of any other benefits under this section. Any annuitant who is recalled under section 3948 of this title may upon written application count as recall service any prior service that is creditable under section 4056 of this title that was performed after the separation upon which his or her annuity is based.
 
 #### (c) Annuitant subject to Foreign Service Pension System
 
@@ -20,7 +20,7 @@ If an annuitant becomes subject to part II of this subchapter by reason of recal
 
 #### Amendments
 
-1986—Subsec. (c). Pub. L. 99–335 added subsec. (c).
+<b>1986</b>—Subsec. (c). Pub. L. 99–335 added subsec. (c).
 
 #### Effective Date of 1986 Amendment
 

@@ -28,7 +28,7 @@ A financial institution shall provide each consumer with a periodic statement fo
 
 &emsp;(3) the balances in the consumer's account at the beginning of the period and at the close of the period; and
 
-&emsp;(4) the address and telephone number to be used by the financial institution for the purpose of receiving any statement inquiry or notice of account error from the consumer. Such address and telephone number shall be preceded by the caption “Direct Inquiries To:” or other similar language indicating that the address and number are to be used for such inquiries or notices.
+&emsp;(4) the address and telephone number to be used by the financial institution for the purpose of receiving any statement inquiry or notice of account error from the consumer. Suchaddress and telephone number shall be preceded by the caption “Direct Inquiries To:” or other similar language indicating that the address and number are to be used for such inquiries or notices.
 
 #### (d) Consumer passbook accounts
 
@@ -42,5 +42,13 @@ In the case of a consumer's account, other than a passbook account, which may no
 
 In any action involving a consumer, any documentation required by this section to be given to the consumer which indicates that an electronic fund transfer was made to another person shall be admissible as evidence of such transfer and shall constitute prima facie proof that such transfer was made.
 
-(Pub. L. 90–321, title IX, §906, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3731.)
+(Pub. L. 90–321, title IX, §906, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3731; amended Pub. L. 111–203, title X, §1084(1), July 21, 2010, 124 Stat. 2081.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1084(1), 1100H, July 21, 2010, 124 Stat. 2081, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 

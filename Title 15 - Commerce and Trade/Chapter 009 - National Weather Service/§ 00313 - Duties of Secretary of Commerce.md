@@ -1,14 +1,14 @@
 ### §313. Duties of Secretary of Commerce
 
-The Secretary of Commerce shall have charge of the forecasting of weather, the issue of storm warnings, the display of weather and flood signals for the benefit of agriculture, commerce, and navigation, the gauging and reporting ofrivers, the maintenance and operation of seacoast telegraph lines and the collection and transmission of marine intelligence for the benefit of commerce and navigation, the reporting of temperature and rain-fall conditions for the cotton interests, the display of frost and cold-wave signals, the distribution of meteorological information in the interests of agriculture and commerce, and the taking of such meteorological observations as may be necessary to establish and record the climatic conditions of the United States, or as are essential for the proper execution of the foregoing duties.
+The Secretary of Commerce shall have charge of the forecasting of weather, the issue of storm warnings, the display of weather and flood signals for the benefit of agriculture, commerce, and navigation, the gauging and reporting of rivers, the maintenance and operation of seacoast telegraph lines and the collection and transmission of marine intelligence for the benefit of commerce and navigation, the reporting of temperature and rain-fall conditions for the cotton interests, the display of frost and cold-wave signals, the distribution of meteorological information in the interests of agriculture and commerce, and the taking of such meteorological observations as may be necessary to establish and record the climatic conditions of the United States, or as are essential for the proper execution of the foregoing duties.
 
 (Oct. 1, 1890, ch. 1266, §3, 26 Stat. 653; May 20, 1926, ch. 344, §5 (e), 44 Stat. 571; June 23, 1938, ch. 601, title XI, §1107(k), 52 Stat. 1029; 1940 Reorg. Plan No. IV, §8, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1236; 1965 Reorg. Plan No. 2, §§1, 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318.)
 
 #### Amendments
 
-1938—Act June 23, 1938, repealed second paragraph relating to duties as to air navigation.
+<b>1938</b>—Act June 23, 1938, repealed second paragraph relating to duties as to air navigation.
 
-1926—Act May 20, 1926, inserted second paragraph relating to duties as to air navigation.
+<b>1926</b>—Act May 20, 1926, inserted second paragraph relating to duties as to air navigation.
 
 #### Repeals
 
@@ -298,7 +298,7 @@ Contents.—(1) The report required by subsection (a) shall identify the size of
 
 “(c)
 
-Consultation.—In preparing portions of the report that address Weather Forecast Offices located in areas of the Nation that are uniquely dependent on general aviation as a means of transportation, the Secretary shall consult with local aviation groups. In the case of Alaska, such local groups shall include the Alaska Aviation Safety Foundation, the Alaska Airmen's Association, and the regional representatives of the Aircraft Owners and Pilots Association.
+Consultation.—In preparing portions of the report that address Weather Forecast Offices located in areas of the Nation that are uniquely dependent ongeneral aviation as a means of transportation, the Secretary shall consult with local aviation groups. In the case of Alaska, such local groups shall include the Alaska Aviation Safety Foundation, the Alaska Airmen's Association, and the regional representatives of the Aircraft Owners and Pilots Association.
 
 #### “SEC. 709. REPEALS.
 
@@ -360,7 +360,7 @@ Act June 16, 1948, ch. 483, 62 Stat. 470, as amended Oct. 19, 1980, Pub. L. 96�
 
 “
 
-Sec. 2. The Chief of the Weather Bureau is empowered to make such expenditures at the seat of government and elsewhere as may be necessary to carry out the purposes of this Act and as from time to time may be appropriated for by Congress, including expenditures for the development and purchase of special meteorological instruments and other equipment (including motor vehicles and aircraft), without regard to the provisions of section 3709 of the Revised Statutes \[section 5 of Title 41, Public Contracts\]. There is hereby authorized to be appropriated such sums as are necessary for the purpose of carrying out the provisions of this Act.
+Sec. 2. The Chief of the Weather Bureau is empowered to make such expenditures at the seat of government and elsewhere as may be necessary to carry out the purposes of this Act and as from time to time may be appropriated for by Congress, including expenditures for the development and purchase of special meteorological instruments and other equipment (including motor vehicles and aircraft), without regard to the provisions of section 3709 of the Revised Statutes \[now 41 U.S.C. 6101\]. There is hereby authorized to be appropriated such sums as are necessary for the purpose of carrying out the provisions of this Act.
 
 “
 

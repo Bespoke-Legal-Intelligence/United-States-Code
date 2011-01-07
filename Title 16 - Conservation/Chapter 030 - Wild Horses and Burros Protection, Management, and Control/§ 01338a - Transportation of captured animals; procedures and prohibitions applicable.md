@@ -10,5 +10,5 @@ This chapter, referred to in last sentence, was in the original “this title”
 
 #### Amendments
 
-1996—Pub. L. 104–333 inserted at end “Nothing in this chapter shall be deemed to limit the authority of the Secretary in the management of units of the National Park System, and the Secretary may, without regard either to the provisions of this chapter, or the provisions of section 47(a) of title 18, use motor vehicles, fixed-wing aircraft, or helicopters, or to contract for such use, in furtherance of the management of the National Park System, and section 47(a) of title 18 shall be applicable to such use.”
+<b>1996</b>—Pub. L. 104–333 inserted at end “Nothing in this chapter shall be deemed to limit the authority of the Secretary in the management of units of the National Park System, and the Secretary may, without regard either to the provisions of this chapter, or the provisions of section 47(a) of title 18, use motor vehicles, fixed-wing aircraft, or helicopters, or to contract for such use, in furtherance of the management of the National Park System, and section 47(a) of title 18 shall be applicable to such use.”
 

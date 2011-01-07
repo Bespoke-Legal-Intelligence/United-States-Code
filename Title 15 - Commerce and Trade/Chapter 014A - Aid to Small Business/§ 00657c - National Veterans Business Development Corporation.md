@@ -16,7 +16,7 @@ The purposes of the Corporation shall be—
 
 #### (1) In general
 
-&emsp;The management of the Corporation shall be vested in a Board of Directors composed of nine voting members and three nonvoting ex officio members.
+&emsp;The management of the Corporation shall be vested in a Board of Directors composed ofnine voting members and three nonvoting ex officio members.
 
 #### (2) Appointment of voting members
 
@@ -112,7 +112,7 @@ On October 1, 1999, the Corporation shall become a body corporate and as such sh
 
 #### (f) Network of information and assistance centers
 
-In carrying out the purpose described in subsection (b) of this section, the Corporation shall establish and maintain a network of information and assistance centers for use by veterans and the public.
+In carrying out the purpose described in subsection (b) of this section, the Corporation shallestablish and maintain a network of information and assistance centers for use by veterans and the public.
 
 #### (g) Annual report
 
@@ -142,7 +142,7 @@ The Corporation may use the United States mails in the same manner and under the
 
 &emsp;&emsp;&emsp;(i) encourage the participation of the Under Secretary of Defense for Personnel and Readiness;
 
-&emsp;&emsp;&emsp;(ii) encourage the participation of two officers from each branch of the ArmedForces to represent the Training Commands of their branch; and
+&emsp;&emsp;&emsp;(ii) encourage the participation of two officers from each branch of the Armed Forces to represent the Training Commands of their branch; and
 
 &emsp;&emsp;&emsp;(iii) seek the participation and guidance of the Assistant Secretary of Labor for Veterans’ Employment and Training.
 
@@ -182,13 +182,13 @@ August 17, 1999, referred to in subsec. (c)(4), was in the original “the date 
 
 #### Amendments
 
-2008—Subsecs. (h) to (k). Pub. L. 110–186 redesignated subsecs. (i) to (k) as (h) to (j), respectively, and struck out former subsec. (h). Text read as follows: “On October 1, 2006, the Corporation established under this section shall assume the duties, responsibilities, and authority of the Advisory Committee on Veterans Affairs established under section 203 of this Act.”
+<b>2008</b>—Subsecs. (h) to (k). Pub. L. 110–186 redesignated subsecs. (i) to (k) as (h) to (j), respectively, and struck out former subsec. (h). Text read as follows: “On October 1, 2006, the Corporation established under this section shall assume the duties, responsibilities, and authority of the Advisory Committee on Veterans Affairs established under section 203 of this Act.”
 
-2004—Subsec. (a). Pub. L. 108–447, §§146 and 636, amended subsec. (a) identically, inserting at end “Notwithstanding any other provision of law, the Corporation is a private entity and is not an agency, instrumentality, authority, entity, or establishment of the United States Government.”
+<b>2004</b>—Subsec. (a). Pub. L. 108–447, §§146 and 636, amended subsec. (a) identically, inserting at end “Notwithstanding any other provision of law, the Corporation is a private entity and is not an agency, instrumentality, authority, entity, or establishment of the United States Government.”
 
 Subsec. (h). Pub. L. 108–447, §143(a), substituted “October 1, 2006” for “October 1, 2004”.
 
-2000—Subsec. (k)(1). Pub. L. 106–554, §1(a)(9) \[title VIII, §808(1)\], added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Subject to paragraph (2), there are authorized to be appropriated to the Corporation to carry out this section—
+<b>2000</b>—Subsec. (k)(1). Pub. L. 106–554, §1(a)(9) \[title VIII, §808(1)\], added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Subject to paragraph (2), there are authorized to be appropriated to the Corporation to carry out this section—
 
 &emsp;“(A) $2,000,000 for fiscal year 2000;
 

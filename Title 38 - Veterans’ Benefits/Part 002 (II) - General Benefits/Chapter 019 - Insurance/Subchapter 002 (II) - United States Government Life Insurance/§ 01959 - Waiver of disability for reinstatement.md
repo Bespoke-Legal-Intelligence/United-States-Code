@@ -12,7 +12,7 @@ Section 304 of the World War Veteran's Act, 1924, referred to in subsec. (b), is
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 759 of this title as this section and substituted “Secretary” for “Administrator” in subsec. (a).
+<b>1991</b>—Pub. L. 102–83 renumbered section 759 of this title as this section and substituted “Secretary” for “Administrator” in subsec. (a).
 
-1986—Subsec. (a). Pub. L. 99–576 substituted “the applicant's” for “his” and “the applicant” for “he”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–576 substituted “the applicant's” for “his” and “the applicant” for “he”.
 

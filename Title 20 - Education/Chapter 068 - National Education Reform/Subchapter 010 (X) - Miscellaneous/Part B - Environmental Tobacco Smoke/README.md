@@ -6,10 +6,6 @@ This part was, in the original, part C of title X of Pub. L. 103–227 and has b
 
 Similar provisions relating to environmental tobacco smoke are contained in part C (§7181 et seq.) of subchapter IV of chapter 70 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “1933”.</i>
-
-<i><sup>2</sup></i><i> So in original. No subsec. (a) has been enacted.</i>
-
 
 ---
 

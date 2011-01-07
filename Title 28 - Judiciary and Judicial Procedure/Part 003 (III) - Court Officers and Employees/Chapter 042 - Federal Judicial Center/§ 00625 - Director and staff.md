@@ -22,7 +22,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102–572 substituted “competitive service without regard to” for “competitive service and”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–572 substituted “competitive service without regard to” for “competitive service and”.
 
 #### Effective Date of 1992 Amendment
 

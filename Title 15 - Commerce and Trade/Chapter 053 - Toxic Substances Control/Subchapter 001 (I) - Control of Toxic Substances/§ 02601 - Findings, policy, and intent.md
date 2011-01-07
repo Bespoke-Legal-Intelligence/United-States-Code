@@ -30,6 +30,10 @@ It is the intent of Congress that the Administrator shall carry out this chapter
 
 Section 31 of title I of Pub. L. 94–469; renumbered title I, Pub. L. 99–519, §3(c), Oct. 22, 1986, 100 Stat. 2989, provided that: “Except as provided in section 4(f) \[section 2603(f) of this title\], this Act \[enacting this chapter\] shall take effect on January 1, 1977.”
 
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–199, §1, July 7, 2010, 124 Stat. 1359, provided that: “This Act \[enacting subchapter VI of this chapter and provisions set out as a note under section 2697 of this title\] may be cited as the ‘Formaldehyde Standards for Composite Wood Products Act’.”
+
 #### Short Title of 2008 Amendment
 
 Pub. L. 110–414, §1, Oct. 14, 2008, 122 Stat. 4341, provided that: “This Act \[enacting section 6939f of Title 42, The Public Health and Welfare, amending sections 2605 and 2611 of this title, and enacting provisions set out as a note under section 2611 of this title\] may be cited as the ‘Mercury Export Ban Act of 2008’.”

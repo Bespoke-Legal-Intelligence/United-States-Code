@@ -2,7 +2,7 @@
 
 #### (a) Assessment efforts
 
-For information gathering and research purposes, the Secretary may conduct applied silvicultural assessments on Federal land that the Secretary determines is at risk of infestation by, or is infested with, forest-damaging insects.
+For information gathering and research purposes, the Secretary may conduct applied silvicultural assessments on Federal land that theSecretary determines is at risk of infestation by, or is infested with, forest-damaging insects.
 
 #### (b) Limitations
 

@@ -14,7 +14,7 @@ For purposes of administering this chapter—
 
 &emsp;(1) the Secretary may accept details and assignments of employees of Federal agencies to the Department of State on a reimbursable or nonreimbursable basis (with any such reimbursements to be credited to the appropriations made available for the salaries and expenses of officers and employees of the employing agency); and
 
-&emsp;(2) the Secretary may, to the extent necessary to obtain services without delay, exercise his authority to employ experts and consultants under section 3109 of title 5 without requiring compliance with such otherwise applicable requirements for that employment as the Secretary may determine, except that such employment shall be terminated after 60 days if by that time those requirements are not complied with.
+&emsp;(2) the Secretary may, to the extent necessary to obtain services without delay, exercise his authority to employ experts and consultants under section 3109 of title 5 withoutrequiring compliance with such otherwise applicable requirements for that employment as the Secretary may determine, except that such employment shall be terminated after 60 days if by that time those requirements are not complied with.
 
 #### (d) Contracts and subcontracts for supplies and services; advertisement; factors considered
 
@@ -48,7 +48,7 @@ Except as otherwise provided, any determination required under this chapter shal
 
 #### Amendments
 
-1994—Subsec. (c)(1). Pub. L. 103–236, §162(<i>o</i>)(6)(B), substituted “Department of State” for “Office of Foreign Missions”.
+<b>1994</b>—Subsec. (c)(1). Pub. L. 103–236, §162(<i>o</i>)(6)(B), substituted “Department of State” for “Office of Foreign Missions”.
 
 Subsec. (d). Pub. L. 103–236, §162(<i>o</i>)(6)(A), substituted “behalf of the Secretary” for “behalf of the Director”.
 

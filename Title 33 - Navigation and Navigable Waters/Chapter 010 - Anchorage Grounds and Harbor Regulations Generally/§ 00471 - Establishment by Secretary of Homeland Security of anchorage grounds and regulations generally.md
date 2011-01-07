@@ -1,8 +1,18 @@
 ### §471. Establishment by Secretary of Homeland Security of anchorage grounds and regulations generally
 
-The Secretary of Homeland Security is authorized, empowered, and directed to define and establish anchorage grounds for vessels in all harbors, rivers, bays, and other navigable waters of the United States whenever it is manifest to the said Secretary that the maritime or commercial interests of the United States require such anchorage grounds for safe navigation and the establishment of such anchorage grounds shall have been recommended by the Chief of Engineers, and to adopt suitable rules and regulations in relation thereto; and such rules and regulations shall be enforced by the Coast Guard under the direction of the Secretary of Transportation: <i>Provided</i>, That at ports or places where there is no Coast Guard vessel available such rules and regulations may be enforced by the Chief of Engineers under the direction of the Secretary of Homeland Security. In the event of the violation of any such rules and regulations by the owner, master, or person in charge of any vessel, such owner, master, or person in charge of such vessel shall be liable to a penalty of $100; and the said vessel may be holden for the payment of such penalty, and may be seized and proceeded against summarily by libel for the recovery of the same in any United States district court for the district within which such vessel may be and in the name of the officer designated by the Secretary of Homeland Security.
+#### (a) In general
 
-(Mar. 4, 1915, ch. 142, §7, 38 Stat. 1053; Aug. 4, 1949, ch. 393, §§1, 20, 63 Stat. 496, 561; Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938; Pub. L. 97–449, §2(d)(1), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 109–241, title IX, §902(j), July 11, 2006, 120 Stat. 568.)
+The Secretary of Homeland Security is authorized, empowered, and directed to define and establish anchorage grounds for vessels in all harbors, rivers, bays, and other navigable waters of the United States whenever it is manifest to the said Secretary that the maritime or commercial interests of the United States require such anchorage grounds for safe navigation and the establishment of such anchorage grounds shall have been recommended by the Chief of Engineers, and to adopt suitable rules and regulations in relation thereto; and such rules and regulations shall be enforced by the Coast Guard under the direction of the Secretary of Transportation: <i>Provided</i>, That at ports or places where there is no Coast Guard vessel available such rules and regulations may be enforced by the Chief of Engineers under the direction of the Secretary of Homeland Security. In the event of the violation of any such rules and regulations by the owner, master, or person in charge of any vessel, such owner, master, or person in charge of such vessel shall be liable to a penalty of up to $10,000. Each day during which a violation continues shall constitute a separate violation. The said vessel may be holden for the payment of such penalty, and may be seized and proceeded against summarily by libel for the recovery of the same in any United States district court for the district within which such vessel may be and in the name of the officer designated by the Secretary of Homeland Security.
+
+#### (b) Definition
+
+As used in this section “navigable waters of the United States” includes all waters of the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988.
+
+(Mar. 4, 1915, ch. 142, §7, 38 Stat. 1053; Aug. 4, 1949, ch. 393, §§1, 20, 63 Stat. 496, 561; Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938; Pub. L. 97–449, §2(d)(1), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 109–241, title IX, §902(j), July 11, 2006, 120 Stat. 568; Pub. L. 111–281, title III, §301, Oct. 15, 2010, 124 Stat. 2923.)
+
+#### References in Text
+
+Presidential Proclamation No. 5928, referred to in subsec. (b), is set out under section 1331 of Title 43, Public Lands.
 
 #### Codification
 
@@ -14,9 +24,11 @@ Section probably supersedes acts May 16, 1888, ch. 257, §§1, 2, 25 Stat. 151, 
 
 #### Amendments
 
-2006—Pub. L. 109–241 substituted “Secretary of Homeland Security” for “Secretary of Transportation” wherever appearing in the original.
+<b>2010</b>—Pub. L. 111–281 designated existing provisions as subsec. (a), inserted heading, substituted “up to $10,000. Each day during which a violation continues shall constitute a separate violation. The” for “$100; and the”, and added subsec. (b).
 
-1983—Pub. L. 97–449 substituted “Secretary of Transportation” for “Secretary of War” wherever appearing. See Transfer of Functions note below.
+<b>2006</b>—Pub. L. 109–241 substituted “Secretary of Homeland Security” for “Secretary of Transportation” wherever appearing in the original.
+
+<b>1983</b>—Pub. L. 97–449 substituted “Secretary of Transportation” for “Secretary of War” wherever appearing. See Transfer of Functions note below.
 
 #### Transfer of Functions
 

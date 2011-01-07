@@ -32,7 +32,7 @@ Nothing in this section shall be construed to affect a definition contained in s
 
 #### (d) Forms and standards of proof
 
-The forms and the standards of proof (including the standard of good faith compliance) that were in use during the 1985–86 academic year to establish the eligibility of a child for entitlement under the Indian Elementary and Secondary School Assistance Act shall be the forms and standards of proof used—
+The forms and the standards of proof (including the standard of good faith compliance) that were in use during the 1985–86 academic year toestablish the eligibility of a child for entitlement under the Indian Elementary and Secondary School Assistance Act shall be the forms and standards of proof used—
 
 &emsp;(1) to establish eligibility under this subpart; and
 

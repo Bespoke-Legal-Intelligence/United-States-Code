@@ -10,7 +10,7 @@
 
 > except that the reduction under this sentence for any day shall not exceed the charges imposed for that day with respect to such individual for such services (and for this purpose, if the customary charges for such services are greater than the charges so imposed, such customary charges shall be considered to be the charges so imposed).
 
-(2)(A) The amount payable to any provider of services under this part for services furnished an individual shall be further reduced by a deduction equal to the expenses incurred for the first three pints of whole blood (or equivalent quantities of packed red blood cells, as defined under regulations) furnished to the individual during each calendar year, except that such deductible for such blood shall in accordance with regulations be appropriately reduced to the extent that there has been a replacement of such blood (or equivalent quantities of packed red blood cells, as so defined); and for such purposes blood (or equivalent quantities of packed red blood cells, as so defined) furnished such individual shall be deemed replaced when the institution or other person furnishing such blood (or such equivalent quantities of packed red blood cells, as so defined) is given one pint of blood for each pint of blood (or equivalent quantities of packed red blood cells, as so defined) furnished such individual with respect to which a deduction is made under this sentence.
+(2)(A) The amount payable to any provider of services under this part for services furnished anindividual shall be further reduced by a deduction equal to the expenses incurred for the first three pints of whole blood (or equivalent quantities of packed red blood cells, as defined under regulations) furnished to the individual during each calendar year, except that such deductible for such blood shall in accordance with regulations be appropriately reduced to the extent that there has been a replacement of such blood (or equivalent quantities of packed red blood cells, as so defined); and for such purposes blood (or equivalent quantities of packed red blood cells, as so defined) furnished such individual shall be deemed replaced when the institution or other person furnishing such blood (or such equivalent quantities of packed red blood cells, as so defined) is given one pint of blood for each pint of blood (or equivalent quantities of packed red blood cells, as so defined) furnished such individual with respect to which a deduction is made under this sentence.
 
 (B) The deductible under subparagraph (A) for blood or blood cells furnished an individual in a year shall be reduced to the extent that a deductible has been imposed under section 1395<i>l</i>(b) of this title to blood or blood cells furnished the individual in the year.
 
@@ -42,25 +42,25 @@
 
 #### Amendments
 
-1997—Pub. L. 105–33 substituted “critical access” for “rural primary care” wherever appearing.
+<b>1997</b>—Pub. L. 105–33 substituted “critical access” for “rural primary care” wherever appearing.
 
-1994—Subsec. (a)(1). Pub. L. 103–432, §102(g)(2), substituted “inpatient hospital services or inpatient rural primary care hospital services” for “inpatient hospital services” in introductory provisions and in subpar. (B).
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–432, §102(g)(2), substituted “inpatient hospital services or inpatient rural primary care hospital services” for “inpatient hospital services” in introductory provisions and in subpar. (B).
 
 Subsec. (b)(3)(A). Pub. L. 103–432, §102(g)(2), substituted “inpatient hospital services or inpatient rural primary care hospital services” for “inpatient hospital services”.
 
 Subsec. (b)(3)(B). Pub. L. 103–432, §102(g)(3), substituted “inpatient hospital services, inpatient rural primary care hospital services” for “inpatient hospital services”.
 
-1989—Subsecs. (a)(1) to (3), (b)(3). Pub. L. 101–234 repealed Pub. L. 100–360, §102, subject to an exception for blood deduction, and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment notes below.
+<b>1989</b>—Subsecs. (a)(1) to (3), (b)(3). Pub. L. 101–234 repealed Pub. L. 100–360, §102, subject to an exception for blood deduction, and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment notes below.
 
-1988—Subsec. (a)(1) to (3). Pub. L. 100–360, §102(1), amended pars. (1) to (3) generally, revising and reorganizing former pars. (1)(A), (B), (2), and (3), as par. (1), consisting of subpars. (A) to (D), and pars. (2) and (3), each consisting of subpars. (A) and (B).
+<b>1988</b>—Subsec. (a)(1) to (3). Pub. L. 100–360, §102(1), amended pars. (1) to (3) generally, revising and reorganizing former pars. (1)(A), (B), (2), and (3), as par. (1), consisting of subpars. (A) to (D), and pars. (2) and (3), each consisting of subpars. (A) and (B).
 
 Subsec. (b)(1). Pub. L. 100–360, §411(b)(1)(H)(ii), added Pub. L. 100–203, §4002(f)(3), see 1987 Amendment note below.
 
 Subsec. (b)(3). Pub. L. 100–360, §102(2), struck out par. (3) which related to application of deductible.
 
-1987—Subsec. (b)(1). Pub. L. 100–203, §4002(f)(3), as added by Pub. L. 100–360, §411(b)(1)(H)(ii), substituted “Secretary's best estimate of the payment-weightedaverage of the applicable percentage increases (as defined in section 1395ww(b)(3)(B) of this title) which are applied” for “applicable percentage increase (as defined in section 1395ww(b)(3)(B) of this title) which is applied”.
+<b>1987</b>—Subsec. (b)(1). Pub. L. 100–203, §4002(f)(3), as added by Pub. L. 100–360, §411(b)(1)(H)(ii), substituted “Secretary's best estimate of the payment-weighted average of the applicable percentage increases (as defined in section 1395ww(b)(3)(B) of this title) which are applied” for “applicable percentage increase (as defined in section 1395ww(b)(3)(B) of this title) which is applied”.
 
-1986—Subsec. (b). Pub. L. 99–509 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+<b>1986</b>—Subsec. (b). Pub. L. 99–509 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
 “(1) The inpatient hospital deductible which shall be applicable for the purposes of subsection (a) of this section shall be $40 in the case of any spell of illness beginning before 1969.
 
@@ -68,11 +68,11 @@ Subsec. (b)(3). Pub. L. 100–360, §102(2), struck out par. (3) which related t
 
 Subsec. (b)(2). Pub. L. 99–272 substituted “September 15” for “October 1”.
 
-1982—Subsec. (a)(4). Pub. L. 97–248 added par. (4).
+<b>1982</b>—Subsec. (a)(4). Pub. L. 97–248 added par. (4).
 
-1981—Subsec. (b)(2). Pub. L. 97–35 substituted “any inpatient hospital services or post-hospital extended care services furnished during the succeeding calendar year. Such inpatient hospital deductible shall be equal to $45” for “any spell of illness beginning during the succeeding calendar year. Such inpatient hospital deductible shall be equal to $40”.
+<b>1981</b>—Subsec. (b)(2). Pub. L. 97–35 substituted “any inpatient hospital services or post-hospital extended care services furnished during the succeeding calendar year. Such inpatient hospital deductible shall be equal to $45” for “any spell of illness beginning during the succeeding calendar year. Such inpatient hospital deductible shall be equal to $40”.
 
-1968—Subsec. (a)(1). Pub. L. 90–248, §137(b), designated existing provisions as subpar. (A) and added subpar. (B) and the exception provision that the reduction for any day shall not exceed the charges for that day.
+<b>1968</b>—Subsec. (a)(1). Pub. L. 90–248, §137(b), designated existing provisions as subpar. (A) and added subpar. (B) and the exception provision that the reduction for any day shall not exceed the charges for that day.
 
 Subsec. (a)(2). Pub. L. 90–248, §135(a), made the three pint deductible applicable also to equivalent quantities of packed red blood cells, as defined by the Secretary under regulations.
 

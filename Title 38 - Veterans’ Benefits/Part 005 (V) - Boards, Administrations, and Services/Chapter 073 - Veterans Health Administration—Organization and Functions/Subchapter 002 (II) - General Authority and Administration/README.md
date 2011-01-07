@@ -10,6 +10,7 @@ A prior subchapter II of this chapter consisting of sections 4121 to 4124, relat
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 07311 - Quality assurance](%C2%A7%2007311%20-%20Quality%20assurance.md)
+- [&sect; 07311A - Quality management officers](%C2%A7%2007311A%20-%20Quality%20management%20officers.md)
 - [&sect; 07312 - Special medical advisory group](%C2%A7%2007312%20-%20Special%20medical%20advisory%20group.md)
 - [&sect; 07313 - Advisory committees affiliated institutions](%C2%A7%2007313%20-%20Advisory%20committees%20affiliated%20institutions.md)
 - [&sect; 07314 - Geriatric research, education, and clinical centers](%C2%A7%2007314%20-%20Geriatric%20research%2C%20education%2C%20and%20clinical%20centers.md)
@@ -20,6 +21,7 @@ A prior subchapter II of this chapter consisting of sections 4121 to 4124, relat
 - [&sect; 07319 - Mammography quality standards](%C2%A7%2007319%20-%20Mammography%20quality%20standards.md)
 - [&sect; 07320 - Centers for mental illness research, education, and clinical activities](%C2%A7%2007320%20-%20Centers%20for%20mental%20illness%20research%2C%20education%2C%20and%20clinical%20activities.md)
 - [&sect; 07321 - Committee on Care of Severely Chronically Mentally Ill Veterans](%C2%A7%2007321%20-%20Committee%20on%20Care%20of%20Severely%20Chronically%20Mentally%20Ill%20Veterans.md)
+- [&sect; 07321A - Committee on Care of Veterans with Traumatic Brain Injury](%C2%A7%2007321A%20-%20Committee%20on%20Care%20of%20Veterans%20with%20Traumatic%20Brain%20Injury.md)
 - [&sect; 07322 - Breast cancer mammography policy](%C2%A7%2007322%20-%20Breast%20cancer%20mammography%20policy.md)
 - [&sect; 07323 - Required consultations with nurses](%C2%A7%2007323%20-%20Required%20consultations%20with%20nurses.md)
 - [&sect; 07324 - Annual report on use of authorities to enhance retention of experienced nurses](%C2%A7%2007324%20-%20Annual%20report%20on%20use%20of%20authorities%20to%20enhance%20retention%20of%20experienced%20nurses.md)

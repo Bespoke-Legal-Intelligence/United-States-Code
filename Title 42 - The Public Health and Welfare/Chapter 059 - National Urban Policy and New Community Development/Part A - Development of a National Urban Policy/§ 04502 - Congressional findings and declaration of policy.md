@@ -8,7 +8,7 @@
 
 (d) The Congress further declares that the national urban policy should—
 
-&emsp;(1) favor patterns of urbanization and economic development and stabilization which offer a range of alternative locations and encourage the wise and balanced use of physical and human resources in metropolitan and urban regions as well as in smaller urban places which have a potential for accelerated growth;
+&emsp;(1) favor patterns of urbanization and economic development and stabilization which offer a range of alternative locations and encourage the wise and balanced use of physical and human resources in metropolitan and urban regions as well as in smaller urbanplaces which have a potential for accelerated growth;
 
 &emsp;(2) foster the continued economic strength of all parts of the United States, including central cities, suburbs, smaller communities, local neighborhoods, and rural areas;
 
@@ -28,11 +28,11 @@
 
 #### Amendments
 
-1992—Subsec. (d)(8). Pub. L. 102–550 added par. (8) and struck out former par. (8) which read as follows: “facilitate increased coordination in the administration of Federal programs so as to encourage desirable patterns of urban development and redevelopment, encourage the prudent use of energy and other natural resources, and protect the physical environment.”
+<b>1992</b>—Subsec. (d)(8). Pub. L. 102–550 added par. (8) and struck out former par. (8) which read as follows: “facilitate increased coordination in the administration of Federal programs so as to encourage desirable patterns of urban development and redevelopment, encourage the prudent use of energy and other natural resources, and protect the physical environment.”
 
-1984—Subsec. (d)(8). Pub. L. 98–479 struck out “of” before “the physical environment”.
+<b>1984</b>—Subsec. (d)(8). Pub. L. 98–479 struck out “of” before “the physical environment”.
 
-1977—Subsec. (a). Pub. L. 95–128, §601(b)(1), substituted “rapid changes in patterns of urban settlement, including change in population distribution and economic bases of urban areas, have created” for “the rapid growth of urban population and uneven expansion of urban development in the United States, together with a decline in farm population, slower growth in rural areas, and migration to the cities, has created” and included the threat to “social” environment and the financial viability of our cities, and conservation of “energy”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–128, §601(b)(1), substituted “rapid changes in patterns of urban settlement, including change in population distribution and economic bases of urban areas, have created” for “the rapid growth of urban population and uneven expansion of urban development in the United States, together with a decline in farm population, slower growth in rural areas, and migration to the cities, has created” and included the threat to “social” environment and the financial viability of our cities, and conservation of “energy”.
 
 Subsec. (b). Pub. L. 95–128, §601(b)(2), included findings respecting costly urban redevelopment and wasteful use of energy and struck out “growth” after “national urban”.
 

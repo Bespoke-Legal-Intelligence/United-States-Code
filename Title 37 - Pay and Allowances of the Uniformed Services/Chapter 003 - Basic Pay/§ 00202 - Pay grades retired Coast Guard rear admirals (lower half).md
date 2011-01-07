@@ -154,13 +154,13 @@ In subsection (i), the last 12 words of section 5145(c) of title 10 are omitted 
 
 #### Amendments
 
-1985—Pub. L. 99–145 substituted “Pay grades: retired Coast Guard rear admirals (lower half)” for “Pay grade: retired Coast Guard commodores” in section catchline, and substituted “rear admiral (lower half)” for “commodore” in text.
+<b>1985</b>—Pub. L. 99–145 substituted “Pay grades: retired Coast Guard rear admirals (lower half)” for “Pay grade: retired Coast Guard commodores” in section catchline, and substituted “rear admiral (lower half)” for “commodore” in text.
 
-1984—Pub. L. 98–557 substituted “Pay grade: retired Coast Guard commodores” for “Pay grades: commodores, retired list” in section catchline.
+<b>1984</b>—Pub. L. 98–557 substituted “Pay grade: retired Coast Guard commodores” for “Pay grades: commodores, retired list” in section catchline.
 
-1983—Pub. L. 97–417 substituted provision relating to the entitlement of retired list Coast Guard commodores to the basic pay of a retired rear admiral after two years emergency or wartime duty, for former subsecs. (a) and (b), which, respectively, related to the entitlement of retired Coast Guard rear admirals (otherwise entitled to the basic pay of retired list rear admirals) to the basic pay of an upper half rear admiral after two years emergency or wartime active duty, and provided that the number of active list Coast Guard rear admirals entitled to upper half pay be half the difference between the number of active list officers above captain and the number of officers serving above rear admiral, an odd number result to be placed in the upperhalf, and no officer entitled to rear admiral pay to have it reduced solely because of a reduction in the number of rear admirals.
+<b>1983</b>—Pub. L. 97–417 substituted provision relating to the entitlement of retired list Coast Guard commodores to the basic pay of a retired rear admiral after two years emergency or wartime duty, for former subsecs. (a) and (b), which, respectively, related to the entitlement of retired Coast Guard rear admirals (otherwise entitled to the basic pay of retired list rear admirals) to the basic pay of an upper half rear admiral after two years emergency or wartime active duty, and provided that the number of active list Coast Guard rear admirals entitled to upper half pay be half the difference between the number of active list officers above captain and the number of officers serving above rear admiral, an odd number result to be placed in the upperhalf, and no officer entitled to rear admiral pay to have it reduced solely because of a reduction in the number of rear admirals.
 
-1980—Pub. L. 96–513, §401(b), substituted “(upper half) of the Coast Guard” for “of upper half; officers holding certain positions in the Navy” in section catchline.
+<b>1980</b>—Pub. L. 96–513, §401(b), substituted “(upper half) of the Coast Guard” for “of upper half; officers holding certain positions in the Navy” in section catchline.
 
 Subsec. (a). Pub. L. 96–513, §401(a)(1), (2), redesignated subsec. (e) as (a) and struck out applicability to the Navy. Former subsec. (a), relating to entitlement of an officer not restricted in the performance of his duties in the Navy, was struck out.
 
@@ -188,11 +188,11 @@ Pub. L. 96–342 substituted provisions respecting pay when initially appointed 
 
 Subsec. (<i>l</i>). Pub. L. 96–513, §401(a)(4), struck out subsec. (<i>l</i>) which related to entitlement of an officer of the Navy or Marine Corps serving as Assistant Judge Advocate General of the Navy.
 
-1972—Subsec. (f). Pub. L. 92–451 struck out “Except for those whose basic pay is otherwise specifically authorized by law,” and substituted “in grades above captain, less the number of officers serving in grades above rear admiral”, for “in that grade” in first sentence.
+<b>1972</b>—Subsec. (f). Pub. L. 92–451 struck out “Except for those whose basic pay is otherwise specifically authorized by law,” and substituted “in grades above captain, less the number of officers serving in grades above rear admiral”, for “in that grade” in first sentence.
 
-1968—Subsec. (<i>l</i>). Pub. L. 90–623 redesignated as subsec. (<i>l</i>) the subsection relating to basic pay of the Assistant Judge Advocate General of the Navy, formerly designated as subsec. (k).
+<b>1968</b>—Subsec. (<i>l</i>). Pub. L. 90–623 redesignated as subsec. (<i>l</i>) the subsection relating to basic pay of the Assistant Judge Advocate General of the Navy, formerly designated as subsec. (k).
 
-1967—Subsec. (g). Pub. L. 90–179, §7(1), inserted “or as Deputy Judge Advocate General of the Navy,”.
+<b>1967</b>—Subsec. (g). Pub. L. 90–179, §7(1), inserted “or as Deputy Judge Advocate General of the Navy,”.
 
 Subsecs. (h)(7), (8). Pub. L. 90–179, §7(2)(B), (C), added par. (7) and renumbered former par. (7) as par. (8).
 
@@ -202,7 +202,7 @@ Subsec. (k). Pub. L. 90–179, §7(4), added subsec. (k) relating to officer of 
 
 Pub. L. 90–130 added subsec. (k) relating to a woman officer appointed under section 5767(c) of title 10.
 
-1966—Subsec. (g). Pub. L. 89–718, §50(1), struck out reference to service as Chief of the Bureau of Naval Weapons.
+<b>1966</b>—Subsec. (g). Pub. L. 89–718, §50(1), struck out reference to service as Chief of the Bureau of Naval Weapons.
 
 Subsec. (h). Pub. L. 89–718, §50(2), struck out par. (2) relating to Chief of Naval Materiel.
 

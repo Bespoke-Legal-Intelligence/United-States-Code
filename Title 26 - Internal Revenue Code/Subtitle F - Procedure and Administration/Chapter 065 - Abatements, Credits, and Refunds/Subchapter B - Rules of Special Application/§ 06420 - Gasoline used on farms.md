@@ -30,7 +30,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) by the owner, tenant, or operator of a farm, in connection with cultivating the soil, or in connection with raising or harvesting any agricultural or horticultural commodity, including the raising, shearing, feeding, caring for, training, and management of livestock, bees, poultry, and fur-bearing animals and wildlife, on a farm of which he is the owner, tenant, or operator;
 
-&emsp;&emsp;(B) by the owner, tenant, or operator of a farm, in handling, drying, packing, grading, or storing any agricultural or horticultural commodity in its unmanufactured state; but only if such owner, tenant or operator produced more than one-half of the commoditywhich he so treated during the period with respect to which claim is filed;
+&emsp;&emsp;(B) by the owner, tenant, or operator of a farm, in handling, drying, packing, grading, or storing any agricultural or horticultural commodity in its unmanufactured state; but only if such owner, tenant or operator produced more than one-half of the commodity which he so treated during the period with respect to which claim is filed;
 
 &emsp;&emsp;(C) by the owner, tenant, or operator of a farm, in connection with—
 
@@ -104,7 +104,7 @@ The Secretary may by regulations prescribe the conditions, not inconsistent with
 
 &emsp;&emsp;<b>(4) For treatment of an Indian tribal government as a State and </b><b><sup>1</sup></b> a subdivision of an Indian tribal government as a political subdivision of a State), see section 7871.
 
-(Added Apr. 2, 1956, ch. 160, §1, 70 Stat. 87; amended Pub. L. 85–859, title I, §163(d)(2), Sept. 2, 1958, 72 Stat. 1311; Pub. L. 89–44, title VIII, §809(a), June 21, 1965, 79 Stat. 165; Pub. L. 91–258, title II, §§205(c)(7), 207(b), May 21, 1970, 84 Stat. 242, 248; Pub. L. 94–455, title XIX, §§1906(a)(26), (b)(6)(A), (13)(A), Oct. 4, 1976, 90 Stat. 1827, 1833, 1834; Pub. L. 95–458, §3(a), (c), Oct. 14, 1978, 92 Stat. 1257; Pub. L. 97–424, title V, §§511(f), 516(b)(4), Jan. 6, 1983, 96 Stat. 2172, 2183; Pub. L. 97–473, title II, §202(b)(12), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title IV, §474(r)(38), July 18, 1984, 98 Stat. 846; Pub. L. 99–499, title V, §521(c)(1), Oct. 17, 1986, 100 Stat. 1778; Pub. L. 100–17, title V, §502(b)(6), Apr. 2, 1987, 101 Stat. 257; Pub. L. 101–239, title VII, §7841(d)(20), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 101–508, title XI, §11211(d)(5), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, §8002(b)(5), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §§13241(f)(5), 13242(d)(20), Aug. 10, 1993, 107 Stat. 512, 524; Pub.L. 109–59, title XI, §11121(a), (b), Aug. 10, 2005, 119 Stat. 1951.)
+(Added Apr. 2, 1956, ch. 160, §1, 70 Stat. 87; amended Pub. L. 85–859, title I, §163(d)(2), Sept. 2, 1958, 72 Stat. 1311; Pub. L. 89–44, title VIII, §809(a), June 21, 1965, 79 Stat. 165; Pub. L. 91–258, title II, §§205(c)(7), 207(b), May 21, 1970, 84 Stat.242, 248; Pub. L. 94–455, title XIX, §§1906(a)(26), (b)(6)(A), (13)(A), Oct. 4, 1976, 90 Stat. 1827, 1833, 1834; Pub. L. 95–458, §3(a), (c), Oct. 14, 1978, 92 Stat. 1257; Pub. L. 97–424, title V, §§511(f), 516(b)(4), Jan. 6, 1983, 96 Stat. 2172, 2183; Pub. L. 97–473, title II, §202(b)(12), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title IV, §474(r)(38), July 18, 1984, 98 Stat. 846; Pub. L. 99–499, title V, §521(c)(1), Oct. 17, 1986, 100 Stat. 1778; Pub. L. 100–17, title V, §502(b)(6), Apr. 2, 1987, 101 Stat. 257; Pub. L. 101–239, title VII, §7841(d)(20), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 101–508, title XI, §11211(d)(5), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, §8002(b)(5), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §§13241(f)(5), 13242(d)(20), Aug. 10, 1993, 107 Stat. 512, 524; Pub. L. 109–59, title XI, §11121(a), (b), Aug. 10, 2005, 119 Stat. 1951.)
 
 #### Prior Provisions
 
@@ -112,7 +112,7 @@ A prior section 6420 was renumbered section 6422 of this title.
 
 #### Amendments
 
-2005—Subsec. (c)(4). Pub. L. 109–59, §11121(b), inserted concluding provisions.
+<b>2005</b>—Subsec. (c)(4). Pub. L. 109–59, §11121(b), inserted concluding provisions.
 
 Subsec. (c)(4)(B). Pub. L. 109–59, §11121(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “if—
 
@@ -122,23 +122,23 @@ Subsec. (c)(4)(B). Pub. L. 109–59, §11121(a), amended subpar. (B) generally. 
 
 > then subparagraph (A) of this paragraph shall not apply and the aerial or other applicator shall be treated as having used such gasoline on a farm for farming purposes.”
 
-1993—Subsec. (c)(5). Pub. L. 103–66, §13242(d)(20), substituted “section 4083(a)” for “section 4082(b)”.
+<b>1993</b>—Subsec. (c)(5). Pub. L. 103–66, §13242(d)(20), substituted “section 4083(a)” for “section 4082(b)”.
 
 Subsec. (h). Pub. L. 103–66, §13241(f)(5), struck out heading and text of subsec. (h). Text read as follows: “Except with respect to taxes imposed by section 4081 at the Leaking Underground Storage Tank Trust Fund financing rate, this section shall apply only with respect to gasoline purchased before October 1, 1999.”
 
-1991—Subsec. (h). Pub. L. 102–240 substituted “1999” for “1995”.
+<b>1991</b>—Subsec. (h). Pub. L. 102–240 substituted “1999” for “1995”.
 
-1990—Subsec. (h). Pub. L. 101–508 substituted “1995” for “1993”.
+<b>1990</b>—Subsec. (h). Pub. L. 101–508 substituted “1995” for “1993”.
 
-1989—Subsec. (e)(2). Pub. L. 101–239 substituted “section 7602(a)” for “section 7602”.
+<b>1989</b>—Subsec. (e)(2). Pub. L. 101–239 substituted “section 7602(a)” for “section 7602”.
 
-1987—Subsec. (h). Pub. L. 100–17 substituted “1993” for “1988”.
+<b>1987</b>—Subsec. (h). Pub. L. 100–17 substituted “1993” for “1988”.
 
-1986—Subsec. (h). Pub. L. 99–499 substituted “Except with respect to taxes imposed by section 4081 at the Leaking Underground Storage Tank Trust Fund financing rate, this section” for “This section”.
+<b>1986</b>—Subsec. (h). Pub. L. 99–499 substituted “Except with respect to taxes imposed by section 4081 at the Leaking Underground Storage Tank Trust Fund financing rate, this section” for “This section”.
 
-1984—Subsec. (g)(2). Pub. L. 98–369 substituted “section 34” for “section 39”.
+<b>1984</b>—Subsec. (g)(2). Pub. L. 98–369 substituted “section 34” for “section 39”.
 
-1983—Subsec. (c)(4)(B). Pub. L. 97–424, §511(f), substituted provision that, if the person so using the gasoline is an aerial or other applicator of fertilizers or other substances and is the ultimate purchaser of the gasoline, and the person described in subparagraph (A) waives (at such time and in such form and manner as the Secretary shall prescribe) his right to be treated as the user and ultimate purchaser of the gasoline, then subparagraph (A) of this paragraph shall not apply and the aerial or other applicator shall be treated as having used such gasoline on a farm for farming purposes, for provision that, if the person so using the gasoline were an aerial applicator who was the ultimate purchaser of the gasoline and the person described in subparagraph (A) waived (at such time and in such form and manner as the Secretary was to prescribe) his right to be treated as the user and ultimate purchaser of the gasoline, then subparagraph (A) of this paragraph would not apply and the aerial applicator would be treated as having used such gasoline on a farm for farming purposes.
+<b>1983</b>—Subsec. (c)(4)(B). Pub. L. 97–424, §511(f), substituted provision that, if the person so using the gasoline is an aerial or other applicator of fertilizers or other substances and is the ultimate purchaser of the gasoline, and the person described in subparagraph (A) waives (at such time and in such form and manner as the Secretary shall prescribe) his right to be treated as the user and ultimate purchaser of the gasoline, then subparagraph (A) of this paragraph shall not apply and the aerial or other applicator shall be treated as having used such gasoline on a farm for farming purposes, for provision that, if the person so using the gasoline were an aerial applicator who was the ultimate purchaser of the gasoline and the person described in subparagraph (A) waived (at such time and in such form and manner as the Secretary was to prescribe) his right to be treated as the user and ultimate purchaser of the gasoline, then subparagraph (A) of this paragraph would not apply and the aerial applicator would be treated as having used such gasoline on a farm for farming purposes.
 
 Subsec. (h). Pub. L. 97–424, §516(b)(4), added subsec. (h). Former subsec. (h) redesignated (i).
 
@@ -148,11 +148,11 @@ Subsec. (i). Pub. L. 97–424, §516(b)(4), redesignated former subsec. (h) as (
 
 Subsec. (i)(4). Pub. L. 97–473 added par. (4). Notwithstanding the directory language that par. (4) be added to subsec. (h), it was added to subsec. (i) to reflect the probable intent of Congress and the intervening redesignation of subsec. (h) as (i) by Pub. L. 97–424.
 
-1978—Subsec. (c)(3)(A). Pub. L. 95–458, §3(c), struck out provision that if the use of gasoline is by any person other than the owner, tenant, or operator of a farm, then in applying subsec. (a) of this subparagraph, the owner, tenant, or operator of the farm on which gasoline or a liquid taxable under section 4041 is used would be treated as the user or ultimate purchaser of the gasoline or liquid.
+<b>1978</b>—Subsec. (c)(3)(A). Pub. L. 95–458, §3(c), struck out provision that if the use of gasoline is by any person other than the owner, tenant, or operator of a farm, then in applying subsec. (a) of this subparagraph, the owner, tenant, or operator of the farm on which gasoline or a liquid taxable under section 4041 is used would be treated as the user or ultimate purchaser of the gasoline or liquid.
 
 Subsec. (c)(4), (5). Pub. L. 95–458, §3(a), added par. (4) and redesignated former par. (4) as (5).
 
-1976—Subsec. (a). Pub. L. 94–455, §1906(a)(26) (C)(ii), (b)(13)(A), substituted “subsection (g)” for “subsection (h)” and struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(a)(26) (C)(ii), (b)(13)(A), substituted “subsection (g)” for “subsection (h)” and struck out “or his delegate” after “Secretary”.
 
 Subsec. (b). Pub. L. 94–455, §1906(a)(26)(A), among other changes, struck out provisions relating to gasoline used before July 1, 1965, and struck out requirement that a person's first taxable year beginning after June 30, 1965, include the period after June 30, 1965, and before the beginning of that first taxable year.
 
@@ -168,11 +168,11 @@ Subsec. (g). Pub. L. 94–455, §1906(a)(26)(C)(i), (D), redesignated subsec. (h
 
 Subsecs. (h), (i). Pub. L. 94–455, §1906(a)(26)(C)(i), redesignated subsecs. (h) and (i) as (g) and (h), respectively.
 
-1970—Subsec. (b)(2)(B). Pub. L. 91–258, §207(b), substituted “a claim for credit or refund of overpayment of income tax” for “an income tax return” after “time prescribed by law for filing”.
+<b>1970</b>—Subsec. (b)(2)(B). Pub. L. 91–258, §207(b), substituted “a claim for credit or refund of overpayment of income tax” for “an income tax return” after “time prescribed by law for filing”.
 
 Subsec. (i)(1). Pub. L. 91–258, §205(c)(7)(A), (B), substituted “special fuels” for “diesel fuel and special motor fuels” and “section 4041(f)” for “section 4041(d)”, respectively.
 
-1965—Subsec. (a). Pub. L. 89–44, §809(a)(1)(A), substituted “Except as provided in subsection (h), if” for “If”.
+<b>1965</b>—Subsec. (a). Pub. L. 89–44, §809(a)(1)(A), substituted “Except as provided in subsection (h), if” for “If”.
 
 Subsec. (b). Pub. L. 89–44, §809(a)(2), designated existing provisions as par. (1) and made it applicable to gasoline used before July 1, 1965, and added par. (2).
 
@@ -180,7 +180,7 @@ Subsec. (d). Pub. L. 89–44, §809(a)(3), substituted “payable” for “paid
 
 Subsecs. (h), (i). Pub. L. 89–44, §809(a)(1)(B), added subsec. (h) and redesignated former subsec. (h) as (i).
 
-1958—Subsec. (c)(3)(A). Pub. L. 85–859 substituted “section 6416(b)(2)(G)(ii)” for “section 6416(b)(2)(C)(ii)” in two places in cl. (A).
+<b>1958</b>—Subsec. (c)(3)(A). Pub. L. 85–859 substituted “section 6416(b)(2)(G)(ii)” for “section 6416(b)(2)(C)(ii)” in two places in cl. (A).
 
 #### Effective Date of 2005 Amendment
 

@@ -48,7 +48,7 @@ In this section:
 
 #### (2) Exception
 
-&emsp;This subsection shall not apply to the importation, exportation, or transportation, for noncommercial purposes, of a personal pet that is deceased, including a pet preserved through taxidermy.
+&emsp;This subsection shall not apply to the importation, exportation, or transportation, fornoncommercial purposes, of a personal pet that is deceased, including a pet preserved through taxidermy.
 
 #### (c) Penalties and enforcement
 
@@ -56,7 +56,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Any person who violates any provision of this section or any regulation issued under this section may, in addition to any othercivil or criminal penalty that may be imposed under title 18 or any other provision of law, be assessed a civil penalty by the designated authority of not more than—
+&emsp;&emsp;Any person who violates any provision of this section or any regulation issued under this section may, in addition to any other civil or criminal penalty that may be imposed under title 18 or any other provision of law, be assessed a civil penalty by the designated authority of not more than—
 
 &emsp;&emsp;&emsp;(i) $10,000 for each separate knowing and intentional violation;
 
@@ -170,7 +170,7 @@ Purposes.—The purposes of this chapter \[chapter 3 (§§1441–1443) of subtit
 
 &emsp;“(1) prohibit imports, exports, sale, manufacture, offer for sale, transportation, and distribution in the United States of dog and cat fur products, in order to ensure that United States market demand does not provide an incentive to slaughter dogs or cats for their fur;
 
-&emsp;“(2) require accurate labeling of fur species so that consumers in the United States can make informed choices and ensure that they are not unwitting contributors to this gruesome trade; and
+&emsp;“(2) require accurate labeling of fur species so that consumers in the United States can make informedchoices and ensure that they are not unwitting contributors to this gruesome trade; and
 
 &emsp;“(3) ensure that the customs laws of the United States are not undermined by illicit international traffic in dog and cat fur products.”
 

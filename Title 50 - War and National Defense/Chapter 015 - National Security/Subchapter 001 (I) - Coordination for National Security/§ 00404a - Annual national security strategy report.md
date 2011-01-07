@@ -30,7 +30,7 @@ Each national security strategy report shall be transmitted in both a classified
 
 #### Amendments
 
-1999—Subsec. (a)(3). Pub. L. 106–65 added par. (3).
+<b>1999</b>—Subsec. (a)(3). Pub. L. 106–65 added par. (3).
 
 #### National Commission on the Future Role of United States Nuclear Weapons, Problems of Command, Control, and Safety of Soviet Nuclear Weapons, and Reduction of Nuclear Weapons
 

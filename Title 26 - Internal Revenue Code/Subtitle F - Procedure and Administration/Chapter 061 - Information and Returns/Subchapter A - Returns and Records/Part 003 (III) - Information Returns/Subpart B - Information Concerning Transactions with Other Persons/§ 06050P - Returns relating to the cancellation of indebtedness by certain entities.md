@@ -54,15 +54,15 @@ Every applicable entity required to make a return under subsection (a) shall fur
 
 #### (e) Alternative procedure
 
-In lieu of making a return required under subsection (a), an agency described in subsection\(c)(1)(A) may submit to the Secretary (at such time and in such form as the Secretary may by regulations prescribe) information sufficient for the Secretary to complete such a return on behalf of such agency. Upon receipt of such information, the Secretary shall complete such return and provide a copy of such return to such agency.
+In lieu of making a return required under subsection (a), an agency described in subsection (c)(1)(A) may submit to the Secretary (at such time and in such form as the Secretary may by regulations prescribe) information sufficient for the Secretary to complete such a return on behalf of such agency. Upon receipt of such information, the Secretary shall complete such return and provide a copy of such return to such agency.
 
 (Added Pub. L. 103–66, title XIII, §13252(a), Aug. 10, 1993, 107 Stat. 531; amended Pub. L. 104–134, title III, §31001(m)(2)(A)–(D)(ii), Apr. 26, 1996, 110 Stat. 1321–368, 1321–369; Pub. L. 106–170, title V, §533(a), Dec. 17, 1999, 113 Stat. 1931.)
 
 #### Amendments
 
-1999—Subsec. (c)(2)(D). Pub. L. 106–170 added subpar. (D).
+<b>1999</b>—Subsec. (c)(2)(D). Pub. L. 106–170 added subpar. (D).
 
-1996—Pub. L. 104–134, §31001(m)(2)(D)(ii), amended section catchline generally, striking out “financial” before “entities”.
+<b>1996</b>—Pub. L. 104–134, §31001(m)(2)(D)(ii), amended section catchline generally, striking out “financial” before “entities”.
 
 Subsec. (a). Pub. L. 104–134, §31001(m)(2)(A), struck out “financial” before “entity” in introductory provisions.
 

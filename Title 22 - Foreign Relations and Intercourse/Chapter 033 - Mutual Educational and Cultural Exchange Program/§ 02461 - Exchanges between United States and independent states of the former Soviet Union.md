@@ -16,7 +16,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 #### Amendments
 
-1993—Pub. L. 103–199, §301(2)(A), substituted “Exchanges between United States and independent states of the former Soviet Union” for “United States-Soviet exchanges” in section catchline.
+<b>1993</b>—Pub. L. 103–199, §301(2)(A), substituted “Exchanges between United States and independent states of the former Soviet Union” for “United States-Soviet exchanges” in section catchline.
 
 Subsec. (a). Pub. L. 103–199, §301(2)(B)–(E), substituted “agreements with the independent states of the former Soviet Union” for “an agreement with the Union of Soviet Socialist Republics”, “made by the independent states” for “made by the Soviet Union”, “and the independent states” for “and the Soviet Union”, and “in the United States by citizens of the independent states” for “by Soviet citizens in the United States”.
 

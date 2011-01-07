@@ -10,7 +10,7 @@ Section was formerly classified to section 596 of Title 5 prior to the general r
 
 #### Amendments
 
-1981—Pub. L. 97–31 struck out references to shipping and transportation facilities.
+<b>1981</b>—Pub. L. 97–31 struck out references to shipping and transportation facilities.
 
 #### Emergency Preparedness Functions
 
@@ -18,5 +18,5 @@ For assignment of certain emergency preparedness functions to the Secretary of C
 
 #### Executive Order No. 12864
 
-Ex. Ord. No. 12864, Sept. 15, 1993, 58 F.R. 48773, as amended by Ex. Ord. No. 12890, Dec. 30, 1993, 59 F.R. 499;Ex. Ord. No. 12921, June 13, 1994, 59 F.R. 30667; Ex. Ord. No. 12970, Sept. 14, 1995, 60 F.R. 48359, which established the United States Advisory Council on the National Information Infrastructure, was revoked by Ex. Ord. No. 13062, §3(d), Sept. 29, 1997, 62 F.R. 51756, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12864, Sept. 15, 1993, 58 F.R. 48773, as amended by Ex. Ord. No. 12890, Dec. 30, 1993, 59 F.R. 499; Ex. Ord. No. 12921, June 13, 1994, 59 F.R. 30667; Ex. Ord. No. 12970, Sept. 14, 1995, 60 F.R. 48359, which established the United States Advisory Council on the National Information Infrastructure, was revoked by Ex. Ord. No. 13062, §3(d), Sept. 29, 1997, 62 F.R. 51756, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 

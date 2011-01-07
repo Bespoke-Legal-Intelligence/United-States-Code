@@ -28,7 +28,7 @@
 
 #### (c) Approval of State plans
 
-(1) As soon as practicable after the date of the receipt of any State plan, but in no event later than 30 days after such date, the Secretary shall review such plan and shall approve it unless the Secretary finds—
+(1) As soon as practicable after the date of the receipt of any State plan, but in no event laterthan 30 days after such date, the Secretary shall review such plan and shall approve it unless the Secretary finds—
 
 &emsp;(A) that, taken as a whole, the plan is not likely to achieve the emergency conservation target established for that State under section 8511(a) of this title for each energy source involved,
 
@@ -48,7 +48,7 @@
 
 #### (d) State administration and enforcement
 
-(1) The authority to administer and enforce any measure described in subsection (b)(1)(B) of this section which is in a State plan approvedunder this section is hereby delegated to the Governor of the State and the other State and local officers and employees designated by the Governor. Such authority includes the authority to institute actions on behalf of the United States for the imposition and collection of civil penalties under subsection (e) of this section.
+(1) The authority to administer and enforce any measure described in subsection (b)(1)(B) of this section which is in a State plan approved under this section is hereby delegated to the Governor of the State and the other State and local officers and employees designated by the Governor. Such authority includes the authority to institute actions on behalf of the United States for the imposition and collection of civil penalties under subsection (e) of this section.
 
 (2) All delegation of authority under paragraph (1) with respect to any State shall be considered revoked effective upon a determination by the President that such delegation should be revoked, but only to the extent of that determination.
 

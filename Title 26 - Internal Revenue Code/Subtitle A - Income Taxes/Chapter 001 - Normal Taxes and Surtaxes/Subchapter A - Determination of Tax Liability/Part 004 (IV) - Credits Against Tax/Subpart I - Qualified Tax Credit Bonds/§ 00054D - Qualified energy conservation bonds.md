@@ -26,7 +26,7 @@ There is a national qualified energy conservation bond limitation of $3,200,000,
 
 #### (1) In general
 
-&emsp;The limitation applicable under subsection (d) shall be allocated by the Secretary among the States in proportion to the population of the States.
+&emsp;The limitation applicable under subsection (d) shall be allocated by the Secretary amongthe States in proportion to the population of the States.
 
 #### (2) Allocations to largest local governments
 
@@ -126,7 +126,7 @@ The date of the enactment of this section, referred to in subsec. (g)(1), is the
 
 #### Amendments
 
-2009—Subsec. (d). Pub. L. 111–5, §1112(a), substituted “$3,200,000,000” for “$800,000,000”.
+<b>2009</b>—Subsec. (d). Pub. L. 111–5, §1112(a), substituted “$3,200,000,000” for “$800,000,000”.
 
 Subsec. (e)(4). Pub. L. 111–5, §1112(b)(2), added par. (4).
 

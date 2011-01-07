@@ -2,11 +2,11 @@
 
 (a) Except as specifically authorized by law, the Postal Service may not—
 
-&emsp;(1) establish any rule or regulation (including any standard) the effect of which is to preclude competition or establish the terms of competition unless the Postal Service demonstrates that the regulation does not create an unfair competitive advantage for itself or any entity funded (in whole or in part) by the Postal Service;
+&emsp;(1) establish any rule or regulation (including any standard) the effect of which is to preclude competition or establish the terms of competition unless the Postal Service demonstrates that the regulation does not create an unfair competitive advantage for itself orany entity funded (in whole or in part) by the Postal Service;
 
 &emsp;(2) compel the disclosure, transfer, or licensing of intellectual property to any third party (such as patents, copyrights, trademarks, trade secrets, and proprietary information); or
 
-&emsp;(3) obtain information from a person that provides (or seeks to provide) any product, andthen offer any postal service that uses or is based in whole or in part on such information, without the consent of the person providing that information, unless substantially the same information is obtained (or obtainable) from an independent source or is otherwise obtained (or obtainable).
+&emsp;(3) obtain information from a person that provides (or seeks to provide) any product, and then offer any postal service that uses or is based in whole or in part on such information, without the consent of the person providing that information, unless substantially the same information is obtained (or obtainable) from an independent source or is otherwise obtained (or obtainable).
 
 (b) The Postal Regulatory Commission shall prescribe regulations to carry out this section.
 

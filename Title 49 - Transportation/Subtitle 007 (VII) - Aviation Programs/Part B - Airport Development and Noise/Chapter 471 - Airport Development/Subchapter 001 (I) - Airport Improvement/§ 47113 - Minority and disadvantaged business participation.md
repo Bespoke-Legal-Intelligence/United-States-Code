@@ -70,11 +70,11 @@ This amends 49:47113(a)(2) to correct erroneous cross-references.
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–135, §604(h)(2)(A), substituted semicolon for period at end of par. (1), substituted “; and” for period at end of par. (2), and added par. (3).
+<b>1997</b>—Subsec. (a). Pub. L. 105–135, §604(h)(2)(A), substituted semicolon for period at end of par. (1), substituted “; and” for period at end of par. (2), and added par. (3).
 
 Subsec. (b). Pub. L. 105–135, §604(h)(2)(B), inserted “or qualified HUBZone small business concerns” before period at end.
 
-1994—Subsec. (a)(2). Pub. L. 103–429 substituted “8(d)” for “8(c)” in two places and “637(d))” for “637(c))”.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–429 substituted “8(d)” for “8(c)” in two places and “637(d))” for “637(c))”.
 
 #### Effective Date of 1997 Amendment
 

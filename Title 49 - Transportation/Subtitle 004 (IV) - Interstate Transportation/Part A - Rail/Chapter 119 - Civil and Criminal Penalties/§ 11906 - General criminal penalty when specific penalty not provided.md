@@ -6,7 +6,7 @@ When another criminal penalty is not provided under this chapter, a rail carrier
 
 #### Historical and Revision Notes
 
-I74Pub. L. 105–102
+#### Pub. L. 105–102
 
 This amends 49:11906 to correct an erroneous cross-reference.
 
@@ -18,5 +18,5 @@ A prior section 11906, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1459, related t
 
 #### Amendments
 
-1997—Pub. L. 105–102 substituted “violation of this part” for “violation of this title”.
+<b>1997</b>—Pub. L. 105–102 substituted “violation of this part” for “violation of this title”.
 

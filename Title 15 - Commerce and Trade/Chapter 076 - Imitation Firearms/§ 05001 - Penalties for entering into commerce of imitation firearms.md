@@ -38,3 +38,7 @@ The provisions of this section shall supersede any provision of State or local l
 
 (Pub. L. 100–615, §4, Nov. 5, 1988, 102 Stat. 3190.)
 
+<i><sup>1</sup></i><i> So in original. Probably should be “(e)”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “of the”.</i>
+

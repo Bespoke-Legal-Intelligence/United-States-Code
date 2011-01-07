@@ -14,7 +14,7 @@ For purposes of this title, the term “life insurance contract” means any con
 
 #### (1) In general
 
-&emsp;A contract meets the cash value accumulation test of this subsection if, by the terms of the contract, the cash surrender value of such contract may not at any time exceed the net single premium which would have to be paid at such time to fund future benefits under the contract.
+&emsp;A contract meets the cash value accumulation test of this subsection if, by the terms ofthe contract, the cash surrender value of such contract may not at any time exceed the net single premium which would have to be paid at such time to fund future benefits under the contract.
 
 #### (2) Rules for applying paragraph (1)
 
@@ -132,7 +132,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) was purchased to cover payment of burial expenses or in connection with prearranged funeral expenses.
 
-> &emsp;For purposes of subparagraph (C), the initial death benefit of a contract shall be determinedby treating all contracts issued to the same contract owner as 1 contract.
+> &emsp;For purposes of subparagraph (C), the initial death benefit of a contract shall be determined by treating all contracts issued to the same contract owner as 1 contract.
 
 #### (f) Other definitions and special rules
 
@@ -232,7 +232,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) in the case of a contract to which subsection (a)(2) applies, the greater of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the excess of the aggregate premiums paid under the contract, immediately before the reduction, over the guideline premium limitation for thecontract (determined under subsection (c)(2), taking into account the adjustment described in subparagraph (A)), or
+&emsp;&emsp;&emsp;&emsp;(I) the excess of the aggregate premiums paid under the contract, immediately before the reduction, over the guideline premium limitation for the contract (determined under subsection (c)(2), taking into account the adjustment described in subparagraph (A)), or
 
 &emsp;&emsp;&emsp;&emsp;(II) the excess of the cash surrender value of the contract, immediately before the reduction, over the cash value corridor of subsection (d) (determined immediately after the reduction).
 
@@ -360,7 +360,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-1988—Subsec. (c)(3)(B)(i), (ii). Pub. L. 100–647, §5011(a), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+<b>1988</b>—Subsec. (c)(3)(B)(i), (ii). Pub. L. 100–647, §5011(a), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
 “(i) the mortality charges specified in the contract (or, if none is specified, the mortality charges used in determining the statutory reserves for such contract),
 
@@ -370,7 +370,7 @@ Subsec. (c)(3)(D). Pub. L. 100–647, §5011(b), added subpar. (D).
 
 Subsecs. (j), (k). Pub. L. 100–647, §6078(a), added subsec. (j) and redesignated former subsec. (j) as (k).
 
-1986—Subsec. (b)(2)(C). Pub. L. 99–514, §1825(a)(2), substituted “subparagraphs (A) and (D)” for “subparagraphs (A) and (C)”.
+<b>1986</b>—Subsec. (b)(2)(C). Pub. L. 99–514, §1825(a)(2), substituted “subparagraphs (A) and (D)” for “subparagraphs (A) and (C)”.
 
 Subsec. (e)(1). Pub. L. 99–514, §1825(a)(3), inserted “(other than subsection (d))” after “section”.
 
@@ -484,7 +484,7 @@ Standards before regulations take effect.—In the case of any contract to which
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Treatment of Flexible Premium Contracts Issued During 1984 Which Meet New Requirements
 

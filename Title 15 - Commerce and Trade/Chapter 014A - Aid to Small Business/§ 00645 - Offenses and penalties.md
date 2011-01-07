@@ -56,7 +56,7 @@ Prior similar provisions were contained in section 209 of act July 30, 1953, ch.
 
 #### Amendments
 
-1997—Subsec. (d)(1). Pub. L. 105–135, §603(c)(1)(A), inserted “, a ‘qualified HUBZone small business concern’,” after “ ‘small business concern’,”.
+<b>1997</b>—Subsec. (d)(1). Pub. L. 105–135, §603(c)(1)(A), inserted “, a ‘qualified HUBZone small business concern’,” after “ ‘small business concern’,”.
 
 Pub. L. 105–85 substituted “concern owned and controlled by women” for “concerns owned and controlled by women”.
 
@@ -66,17 +66,17 @@ Subsec. (e). Pub. L. 105–135, §603(c)(2), inserted “, a ‘HUBZone small b
 
 Pub. L. 105–85 substituted “concern owned and controlled by women” for “concerns owned and controlled by women”.
 
-1994—Subsec. (d)(1). Pub. L. 103–355, §7106(c)(1), substituted “, a ‘small business concern owned and controlled by socially and economically disadvantaged individuals’, or a ‘small business concerns owned and controlled by women’ ” for “or ‘small business concern owned and controlled by socially and economically disadvantaged individuals’ ”.
+<b>1994</b>—Subsec. (d)(1). Pub. L. 103–355, §7106(c)(1), substituted “, a ‘small business concern owned and controlled by socially and economically disadvantaged individuals’, or a ‘small business concerns owned and controlled by women’ ” for “or ‘small business concern owned and controlled by socially and economically disadvantaged individuals’ ”.
 
 Subsec. (e). Pub. L. 103–355, §7106(c)(2), substituted “, a ‘small business concern owned and controlled by socially and economically disadvantaged individuals’, or a ‘small business concerns owned and controlled by women’ ” for “or ‘small business concern owned and controlled by socially and economically disadvantaged individuals’ ”.
 
-1988—Subsec. (d). Pub. L. 100–656, §405(a), amended subsec. (d) generally, designating existing provisions as par. (1), redesignating former pars. (1) to (4) as subpars. (A) to (D), respectively, and in subpar. (D), substituting“subject to the penalties and remedies described in paragraph (2)” for “punished by a fine of not more than $50,000 or by imprisonment for not more than five years, or both”, and adding par. (2).
+<b>1988</b>—Subsec. (d). Pub. L. 100–656, §405(a), amended subsec. (d) generally, designating existing provisions as par. (1), redesignating former pars. (1) to (4) as subpars. (A) to (D), respectively, and in subpar. (D), substituting “subject to the penalties and remedies described in paragraph (2)” for “punished by a fine of not more than $50,000 or by imprisonment for not more than five years, or both”, and adding par. (2).
 
 Subsec. (f). Pub. L. 100–656, §405(b), added subsec. (f).
 
-1986—Subsecs. (d), (e). Pub. L. 99–272 added subsecs. (d) and (e).
+<b>1986</b>—Subsecs. (d), (e). Pub. L. 99–272 added subsecs. (d) and (e).
 
-1964—Subsec. (c). Pub. L. 88–264 added subsec. (c).
+<b>1964</b>—Subsec. (c). Pub. L. 88–264 added subsec. (c).
 
 #### Effective Date of 1997 Amendment
 
@@ -84,7 +84,7 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of Title 10, Armed Forces.
 
 <i><sup>1</sup></i><i> So in original. Following provision probably should be set flush with par. (1).</i>
 

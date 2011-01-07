@@ -10,5 +10,5 @@ Section 16 of the National Security Agency Act of 1959, referred to in text, is 
 
 #### Amendments
 
-2003—Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+<b>2003</b>—Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 

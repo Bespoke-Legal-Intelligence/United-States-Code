@@ -6,7 +6,7 @@ The Surgeon General shall be appointed from the Regular Corps for a four-year te
 
 #### Amendments
 
-1981—Pub. L. 97–35 inserted reference to Reserve Corps and substituted provisions relating to appointment of an individual from the Regular Corps and with specialized training and significant experience, for provisions relating to appointment of an individual sixty-four years of age or older.
+<b>1981</b>—Pub. L. 97–35 inserted reference to Reserve Corps and substituted provisions relating to appointment of an individual from the Regular Corps and with specialized training and significant experience, for provisions relating to appointment of an individual sixty-four years of age or older.
 
 Pub. L. 97–25 inserted provision that the President may appoint to office of Surgeon General an individual who is sixty-four years of age or older.
 

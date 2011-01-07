@@ -38,7 +38,7 @@ Pursuant to regulations promulgated by the Attorney General hereunder, in this s
 
 &emsp;&emsp;(B) with respect to the individual described in paragraph (1) or (2), as applicable, the individual had served not less than 85 percent of the term of imprisonment to which that individual was sentenced for the prior offense.
 
-> &emsp;For purposes of subparagraph (B), in a State that has indeterminate sentencing, the termof imprisonment to which that individual was sentenced for the prior offense shall be based on the lower of the range of sentences.
+> &emsp;For purposes of subparagraph (B), in a State that has indeterminate sentencing, the term of imprisonment to which that individual was sentenced for the prior offense shall be based on the lower of the range of sentences.
 
 #### (d) State applications
 
@@ -110,7 +110,7 @@ Section was enacted as Aimee's Law and also as part of the Victims of Traffickin
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–162, §1170(1), substituted “Pursuant to regulations promulgated by the Attorney General hereunder, in this section” for “In this section” in introductory provisions.
+<b>2006</b>—Subsec. (b). Pub. L. 109–162, §1170(1), substituted “Pursuant to regulations promulgated by the Attorney General hereunder, in this section” for “In this section” in introductory provisions.
 
 Subsec. (c)(1). Pub. L. 109–162, §1170(1), (2), substituted “Pursuant to regulations promulgated by the Attorney General hereunder, in any case” for “In any case”, “a criminal-records-reporting State” for “a State” the first place appearing, and “(3), it may, under subsection (d) of this section, apply to the Attorney General for $10,000, for its related apprehension and prosecution costs, and $22,500 per year (up to a maximum of 5 years), for its related incarceration costs with both amounts for costs adjusted annually for the rate of inflation” for “(3), the Attorney General shall transfer an amount equal to the costs of incarceration, prosecution, and apprehension of that individual, from Federal law enforcement assistance funds that have been allocated to but not distributed to the State that convicted the individual of the prior offense, to the State account that collects Federal law enforcement assistance funds of the State that convicted that individual of the subsequent offense”.
 
@@ -141,4 +141,6 @@ Subsec. (i)(2). Pub. L. 109–162, §1170(7), added par. (2) and struck out head
 &emsp;“(A) the information collected under paragraph (1) with respect to each State during the preceding calendar year; and
 
 &emsp;“(B) the percentage of cases in each State in which an individual convicted of an offense described in paragraph (1)(A) was previously convicted of another such offense in another State during the preceding calendar year.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

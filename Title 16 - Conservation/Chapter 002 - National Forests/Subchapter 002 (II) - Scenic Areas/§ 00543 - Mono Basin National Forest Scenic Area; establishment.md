@@ -6,5 +6,5 @@ The area in the Mono Basin within and adjacent to the Inyo National Forest in th
 
 #### Amendments
 
-1994—Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 

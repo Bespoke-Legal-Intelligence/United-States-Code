@@ -58,9 +58,9 @@ To whom applicable.—If—
 
 &emsp;\[(2) Repealed. Pub. L. 108–21, title I, §104(b), Apr. 30, 2003, 117 Stat. 653.\]
 
-(h) As used in this section, the term “parent” does not include a person whose parental rights with respect to the victim of an offense underthis section have been terminated by a final court order.
+(h) As used in this section, the term “parent” does not include a person whose parental rights with respect to the victim of an offense under this section have been terminated by a final court order.
 
-(June 25, 1948, ch. 645, 62 Stat. 760; Aug. 6, 1956, ch. 971, 70 Stat. 1043; Pub. L. 92–539, title II, §201, Oct. 24, 1972, 86 Stat. 1072; Pub. L. 94–467, §4, Oct. 8, 1976, 90 Stat. 1998; Pub. L. 95–163, §17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, §2(b), Oct. 24, 1978, 92 Stat. 1705; Pub. L. 98–473, title II, §1007, Oct. 12, 1984, 98 Stat. 2139; Pub. L. 99–646, §§36, 37(b), Nov. 10, 1986, 100 Stat. 3599; Pub. L. 101–647, title IV, §401, title XXXV, §3538, Nov. 29, 1990, 104 Stat. 4819, 4925; Pub. L. 103–272, §5(e)(2), (8), July 5, 1994, 108 Stat. 1373, 1374; Pub. L. 103–322, title VI, §60003(a)(6), title XXXII, §§320903(b), 320924, title XXXIII, §330021, Sept. 13, 1994, 108 Stat. 1969, 2124, 2131, 2150; Pub. L. 104–132, title VII, §721(f), Apr. 24, 1996, 110 Stat. 1299; Pub. L. 105–314, title VII, §702, Oct. 30, 1998, 112 Stat. 2987; Pub. L. 108–21, title I, §104(b), Apr. 30, 2003, 117 Stat. 653; Pub. L. 109–248, title II, §213, July 27, 2006, 120 Stat. 616.)
+(June 25, 1948, ch. 645, 62 Stat. 760; Aug. 6, 1956, ch. 971, 70 Stat. 1043; Pub. L. 92–539, title II, §201, Oct. 24, 1972, 86 Stat. 1072; Pub. L. 94–467, §4, Oct. 8, 1976, 90 Stat. 1998; Pub. L. 95–163, §17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, §2(b), Oct. 24, 1978, 92 Stat. 1705; Pub. L. 98–473, title II, §1007, Oct. 12, 1984, 98 Stat. 2139; Pub. L. 99–646, §§36, 37(b), Nov. 10, 1986, 100 Stat. 3599; Pub. L. 101–647, title IV, §401, title XXXV, §3538, Nov. 29, 1990, 104 Stat. 4819, 4925; Pub. L. 103–272, §5(e)(2), (8), July 5, 1994, 108 Stat. 1373, 1374; Pub. L. 103–322, title VI, §60003(a)(6), title XXXII,§§320903(b), 320924, title XXXIII, §330021, Sept. 13, 1994, 108 Stat. 1969, 2124, 2131, 2150; Pub. L. 104–132, title VII, §721(f), Apr. 24, 1996, 110 Stat. 1299; Pub. L. 105–314, title VII, §702, Oct. 30, 1998, 112 Stat. 2987; Pub. L. 108–21, title I, §104(b), Apr. 30, 2003, 117 Stat. 653; Pub. L. 109–248, title II, §213, July 27, 2006, 120 Stat. 616.)
 
 #### Historical and Revision Notes
 
@@ -80,25 +80,25 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–248, §213(1), substituted “, or the offender travels in interstate or foreign commerce or uses the mail or any means, facility, or instrumentality of interstate or foreign commerce in committing or in furtherance of the commission of the offense” for “if the person was alive when the transportation began”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–248, §213(1), substituted “, or the offender travels in interstate or foreign commerce or uses the mail or any means, facility, or instrumentality of interstate or foreign commerce in committing or in furtherance of the commission of the offense” for “if the person was alive when the transportation began”.
 
 Subsec. (b). Pub. L. 109–248, §213(2), substituted “in interstate” for “to interstate”.
 
-2003—Subsec. (g). Pub. L. 108–21 substituted “shall include imprisonment for not less than 20 years.” for “shall be subject to paragraph (2) of this subsection.” in concluding provisions of par. (1) and struck out par. (2) which read as follows:
+<b>2003</b>—Subsec. (g). Pub. L. 108–21 substituted “shall include imprisonment for not less than 20 years.” for “shall be subject to paragraph (2) of this subsection.” in concluding provisions of par. (1) and struck out par. (2) which read as follows:
 
 “(2)
 
 Guidelines.—The United States Sentencing Commission is directed to amend the existing guidelines for the offense of ‘kidnapping, abduction, or unlawful restraint,’ by including the following additional specific offense characteristics: If the victim was intentionally maltreated (i.e., denied either food or medical care) to a life-threatening degree, increase by 4 levels; if the victim was sexually exploited (i.e., abused, used involuntarily for pornographic purposes) increase by 3 levels; if the victim was placed in the care or custody of another person who does not have a legal right to such care or custody of the child either in exchange for money or other consideration, increase by 3 levels; if the defendant allowed the child to be subjected to any of the conduct specified in this section by another person, then increase by 2 levels.”
 
-1998—Subsec. (a)(1). Pub. L. 105–314, §702(a), inserted “, regardless of whether the person was alive when transported across a State boundary if the person was alive when the transportation began” before semicolon at end.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–314, §702(a), inserted “, regardless of whether the person was alive when transported across a State boundary if the person was alive when the transportation began” before semicolon at end.
 
 Subsec. (a)(5). Pub. L. 105–314, §702(b), substituted “described” for “designated”.
 
 Subsec. (b). Pub. L. 105–314, §702(c), inserted at end “Notwithstanding the preceding sentence, the fact that the presumption under this section has not yet taken effect does not preclude a Federal investigation of a possible violation of this section before the 24-hour period has ended.”
 
-1996—Subsec. (e). Pub. L. 104–132 substituted “If the victim of an offense under subsection (a) is an internationally protected person outside the United States, the United States may exercise jurisdiction over the offense if (1) the victim is a representative, officer, employee, or agent of the United States, (2) an offender is a national of the United States, or (3) an offender is afterwards found in the United States.” for “If the victim of an offense under subsection (a) is an internationally protected person, the United States may exercise jurisdiction over the offense if the alleged offender is present within the United States, irrespective of the place where the offense was committed or the nationality of the victim or the alleged offender.” and inserted at end “For purposes of this subsection, the term ‘national of the United States’ has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).”
+<b>1996</b>—Subsec. (e). Pub. L. 104–132 substituted “If the victim of an offense under subsection (a) is an internationally protected person outside the United States, the United States may exercise jurisdiction over the offense if (1) the victim is a representative, officer, employee, or agent of the United States, (2) an offender is a national of the United States, or (3) an offender is afterwards found in the United States.” for “If the victim of an offense under subsection (a) is an internationally protected person, the United States may exercise jurisdiction over the offense if the alleged offender is present within the United States, irrespective of the place where the offense was committed or the nationality of the victim or the alleged offender.” and inserted at end “For purposes of this subsection, the term ‘national of the United States’ has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).”
 
-1994—Pub. L. 103–322, §330021(1), which directed the amendment of this title “by striking ‘kidnaping’ each place it appears and inserting ‘kidnapping’ ”, was executed by substituting “Kidnapping” for “Kidnaping” as section catchline, to reflect the probable intent of Congress.
+<b>1994</b>—Pub. L. 103–322, §330021(1), which directed the amendment of this title “by striking ‘kidnaping’ each place it appears and inserting ‘kidnapping’ ”, was executed by substituting “Kidnapping” for “Kidnaping” as section catchline, to reflect the probable intent of Congress.
 
 Subsec. (a). Pub. L. 103–322, §60003(a)(6), in concluding provisions, inserted “and, if the death of any person results, shall be punished by death or life imprisonment” after “or for life”.
 
@@ -112,35 +112,35 @@ Subsec. (e). Pub. L. 103–272, §5(e)(2), substituted “section 46501(2) of ti
 
 Subsec. (h). Pub. L. 103–322, §320924, added subsec. (h).
 
-1990—Subsec. (a)(3). Pub. L. 101–647, §3538, substituted “101(38)” for “101(36)” and struck out “, as amended (49 U.S.C. 1301(36))” after “Federal Aviation Act of 1958”.
+<b>1990</b>—Subsec. (a)(3). Pub. L. 101–647, §3538, substituted “101(38)” for “101(36)” and struck out “, as amended (49 U.S.C. 1301(36))” after “Federal Aviation Act of 1958”.
 
 Subsec. (g). Pub. L. 101–647, §401, added subsec. (g).
 
-1986—Subsec. (a). Pub. L. 99–646, §36, substituted “when—” for “when:” in introductory text, substituted “the person” for “The person” and “official duties” for “his official duties” in par. (5), and aligned the margin of par. (5) with the margins of pars. (1) to (4).
+<b>1986</b>—Subsec. (a). Pub. L. 99–646, §36, substituted “when—” for “when:” in introductory text, substituted “the person” for “The person” and “official duties” for “his official duties” in par. (5), and aligned the margin of par. (5) with the margins of pars. (1) to (4).
 
 Subsec. (d). Pub. L. 99–646, §37(b), inserted “or (a)(5)” after “subsection (a)(4)”.
 
-1984—Subsec. (a)(5). Pub. L. 98–473 added par. (5).
+<b>1984</b>—Subsec. (a)(5). Pub. L. 98–473 added par. (5).
 
-1978—Subsec. (a)(3). Pub. L. 95–504 substituted reference to section 101(36) of the Federal Aviation Act of 1958 for reference to section 101(33) of such Act. See References in Text note above.
+<b>1978</b>—Subsec. (a)(3). Pub. L. 95–504 substituted reference to section 101(36) of the Federal Aviation Act of 1958 for reference to section 101(33) of such Act. See References in Text note above.
 
 Subsec. (e). Pub. L. 95–504 substituted reference to section 101(38) of the Federal Aviation Act of 1958 for section 101(35) of such Act.
 
-1977—Subsec. (a)(3). Pub. L. 95–163 substituted reference to section 101(33) of the Federal Aviation Act of 1958 for reference to section 101(32) of such Act. See References in Text note above.
+<b>1977</b>—Subsec. (a)(3). Pub. L. 95–163 substituted reference to section 101(33) of the Federal Aviation Act of 1958 for reference to section 101(32) of such Act. See References in Text note above.
 
 Subsec. (e). Pub. L. 95–163 substituted reference to section 101(35) of the Federal Aviation Act of 1958 for reference to section 101(34) of such Act.
 
-1976—Subsec. (a)(4). Pub. L. 94–467, §4(a), substituted provision which includes acts committed against an internationally protected person and an official guest as defined in section 1116(b) of this title for provision which included acts committed against an official guest as defined in section 1116(c) of this title.
+<b>1976</b>—Subsec. (a)(4). Pub. L. 94–467, §4(a), substituted provision which includes acts committed against an internationally protected person and an official guest as defined in section 1116(b) of this title for provision which included acts committed against an official guest as defined in section 1116(c) of this title.
 
 Subsecs. (d) to (f). Pub. L. 94–467, §4(b), added subsecs. (d) to (f).
 
-1972—Subsec. (a). Pub. L. 92–539 substituted “Kidnaping” for “Transportation” in section catchline and, in subsec. (a), extended the jurisdictional base to include acts committed within the special maritime, territorial, and aircraft jurisdiction of the United States, and to include acts committed against foreign officials and official guests, and struck out provisions relating to death penalty.
+<b>1972</b>—Subsec. (a). Pub. L. 92–539 substituted “Kidnaping” for “Transportation” in section catchline and, in subsec. (a), extended the jurisdictional base to include acts committed within the special maritime, territorial, and aircraft jurisdiction of the United States, and to include acts committed against foreign officials and official guests, and struck out provisions relating to death penalty.
 
 Subsec. (b). Pub. L. 92–539 inserted reference to subsec. (a)(1).
 
 Subsec. (c). Pub. L. 92–539 substituted “by imprisonment for any term of years or for life” for “as provided in subsection (a)”.
 
-1956—Subsec. (b). Act Aug. 6, 1956, substituted “twenty-four hours” for “seven days”.
+<b>1956</b>—Subsec. (b). Act Aug. 6, 1956, substituted “twenty-four hours” for “seven days”.
 
 #### Short Title of 1993 Amendment
 

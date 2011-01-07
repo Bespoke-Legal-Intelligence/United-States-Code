@@ -32,7 +32,7 @@ The earnings derived from the ownership or operation of a communications satelli
 
 #### (1) In general
 
-&emsp;Paragraph (1) or (2) of subsection (a) (as the case may be) shall not apply to any foreign corporation if 50 percent or more of the value of the stock of such corporation is owned by individuals who are not residents of such foreign country or another foreign country meeting the requirements of such paragraph.
+&emsp;Paragraph (1) or (2) of subsection (a) (as the case may be) shall not apply to any foreigncorporation if 50 percent or more of the value of the stock of such corporation is owned by individuals who are not residents of such foreign country or another foreign country meeting the requirements of such paragraph.
 
 #### (2) Treatment of controlled foreign corporations
 
@@ -60,13 +60,13 @@ The Communications Satellite Act of 1962, referred to in subsec. (b), is Pub. L.
 
 #### Amendments
 
-2004—Subsec. (a)(4). Pub. L. 108–357 substituted “(6), (7), and (8)” for “(5), (6), and (7)”.
+<b>2004</b>—Subsec. (a)(4). Pub. L. 108–357 substituted “(6), (7), and (8)” for “(5), (6), and (7)”.
 
-1989—Subsec. (a)(4). Pub. L. 101–239, §7811(i)(8)(D), substituted “(5), (6), and (7)” for “(5) and (6)”.
+<b>1989</b>—Subsec. (a)(4). Pub. L. 101–239, §7811(i)(8)(D), substituted “(5), (6), and (7)” for “(5) and (6)”.
 
 Subsec. (a)(5). Pub. L. 101–239, §7811(i)(10), added par. (5).
 
-1988—Subsec. (a)(1), (2). Pub. L. 100–647, §1012(e)(2)(A), (5), struck out “to citizens of the United States and” after “exemption” and substituted “international operation” for “operation”.
+<b>1988</b>—Subsec. (a)(1), (2). Pub. L. 100–647, §1012(e)(2)(A), (5), struck out “to citizens of the United States and” after “exemption” and substituted “international operation” for “operation”.
 
 Subsec. (c)(1). Pub. L. 100–647, §1012(e)(1)(B), substituted “Paragraph (1) or (2) of subsection (a) (as the case may be)” for “Paragraphs (1) and (2) of subsection (a)” and “such paragraph” for “such paragraphs (1) and (2)”.
 
@@ -76,7 +76,7 @@ Subsec. (c)(3). Pub. L. 100–647, §1012(e)(1)(A), substituted “Special rules
 
 &emsp;“(B) which is wholly owned (either directly or indirectly) by another corporation meeting the requirements of subparagraph (A) and is organized in the same foreign country as such other corporation.”
 
-1986—Subsec. (a)(1). Pub. L. 99–514, §1212(c)(3), added par. (1) and struck out former par. (1), ships under foreign flag, which read as follows: “Earnings derived from the operation of a ship or ships documented under the laws of a foreign country which grants an equivalent exemption to citizens of the United States and to corporations organized in the United States.”
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §1212(c)(3), added par. (1) and struck out former par. (1), ships under foreign flag, which read as follows: “Earnings derived from the operation of a ship or ships documented under the laws of a foreign country which grants an equivalent exemption to citizens of the United States and to corporations organized in the United States.”
 
 Subsec. (a)(2). Pub. L. 99–514, §1212(c)(3), added par. (2) and struck out former par. (2), aircraft of foreign registry, which read as follows: “Earnings derived from the operation of aircraft registered under the laws of a foreign country which grants an equivalent exemption to citizens of the United States and to corporations organized in the United States.”
 
@@ -84,9 +84,9 @@ Subsec. (a)(4). Pub. L. 99–514, §1212(c)(4), added par. (4).
 
 Subsec. (c). Pub. L. 99–514, §1212(c)(5), added subsec. (c).
 
-1975—Subsec. (a)(3). Pub. L. 94–164 added par. (3).
+<b>1975</b>—Subsec. (a)(3). Pub. L. 94–164 added par. (3).
 
-1968—Pub. L. 90–622 designated existing provisions as subsec. (a), added subsec. (a) heading, and added subsec. (b).
+<b>1968</b>—Pub. L. 90–622 designated existing provisions as subsec. (a), added subsec. (a) heading, and added subsec. (b).
 
 #### Effective Date of 2004 Amendment
 

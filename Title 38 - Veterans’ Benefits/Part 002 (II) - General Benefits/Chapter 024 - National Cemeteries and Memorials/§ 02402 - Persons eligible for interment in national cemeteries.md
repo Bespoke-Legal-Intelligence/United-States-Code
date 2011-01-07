@@ -1,70 +1,94 @@
 ### §2402. Persons eligible for interment in national cemeteries
 
-Under such regulations as the Secretary may prescribe and subject to the provisions of section 6105 of this title, the remains of the following persons may be buried in any open national cemetery under the control of the National Cemetery Administration:
+(a) Under such regulations as the Secretary may prescribe and subject to the provisions of section 6105 of this title, the remains of the following persons may be buried in any open national cemetery under the control of the National Cemetery Administration:
 
-(1) Any veteran (which for the purposes of this chapter includes a person who died in the active military, naval, or air service).
+&emsp;(1) Any veteran (which for the purposes of this chapter includes a person who died in the active military, naval, or air service).
 
-(2) Any member of a Reserve component of the Armed Forces, and any member of the Army National Guard or the Air National Guard, whose death occurs under honorable conditions while such member is hospitalized or undergoing treatment, at the expense of the United States, for injury or disease contracted or incurred under honorable conditions while such member is performing active duty for training, inactive duty training, or undergoing that hospitalization or treatment at the expense of the United States.
+&emsp;(2) Any member of a Reserve component of the Armed Forces, and any member of the Army National Guard or the Air National Guard, whose death occurs under honorable conditions while such member is hospitalized or undergoing treatment, at the expense of the United States, for injury or disease contracted or incurred under honorable conditions while such member is performing active duty for training, inactive duty training, or undergoing that hospitalization or treatment at the expense of the United States.
 
-(3) Any member of the Reserve Officers’ Training Corps of the Army, Navy, or Air Force whose death occurs under honorable conditions while such member is—
+&emsp;(3) Any member of the Reserve Officers’ Training Corps of the Army, Navy, or Air Force whose death occurs under honorable conditions while such member is—
 
-&emsp;(A) attending an authorized training camp or on an authorized practice cruise;
+&emsp;&emsp;(A) attending an authorized training camp or on an authorized practice cruise;
 
-&emsp;(B) performing authorized travel to or from that camp or cruise; or
+&emsp;&emsp;(B) performing authorized travel to or from that camp or cruise; or
 
-&emsp;(C) hospitalized or undergoing treatment, at the expense of the United States, for injury or disease contracted or incurred under honorable conditions while such member is—
+&emsp;&emsp;(C) hospitalized or undergoing treatment, at the expense of the United States, for injury or disease contracted or incurred under honorable conditions while such member is—
 
-&emsp;&emsp;(i) attending that camp or on that cruise;
+&emsp;&emsp;&emsp;(i) attending that camp or on that cruise;
 
-&emsp;&emsp;(ii) performing that travel; or
+&emsp;&emsp;&emsp;(ii) performing that travel; or
 
-&emsp;&emsp;(iii) undergoing that hospitalization or treatment at the expense of the United States.
+&emsp;&emsp;&emsp;(iii) undergoing that hospitalization or treatment at the expense of the United States.
 
-(4) Any citizen of the United States who, during any war in which the United States is or has been engaged, served in the armed forces of any government allied with the United States during that war, and whose last such service terminated honorably.
+&emsp;(4) Any citizen of the United States who, during any war in which the United States is or has been engaged, served in the armed forces of any government allied with the United States during that war, and whose last such service terminated honorably.
 
-(5) The spouse, surviving spouse (which for purposes of this chapter includes a surviving spouse who had a subsequent remarriage), minor child (which for purposes of this chapter includes a child under 21 years of age, or under 23years of age if pursuing a course of instruction at an approved educational institution), and, in the discretion of the Secretary, unmarried adult child of any of the persons listed in paragraphs (1) through (4) and paragraph (7).
+&emsp;(5) The spouse, surviving spouse (which for purposes of this chapter includes a surviving spouse who had a subsequent remarriage), minor child (which for purposes of this chapter includes a child under 21 years of age, or under 23 years of age if pursuing a course of instruction at an approved educational institution), and, in the discretion of the Secretary, unmarried adult child of any of the persons listed in paragraphs (1) through (4) and paragraph (7).
 
-(6) Such other persons or classes of persons as may be designated by the Secretary.
+&emsp;(6) Such other persons or classes of persons as may be designated by the Secretary.
 
-(7) Any person who at the time of death was entitled to retired pay under chapter 1223 of title 10 or would have been entitled to retired pay under that chapter but for the fact that the person was under 60 years of age.
+&emsp;(7) Any person who at the time of death was entitled to retired pay under chapter 1223 of title 10 or would have been entitled to retired pay under that chapter but for the fact that the person was under 60 years of age.
 
-(8) Any individual whose service is described in subsection (a) or (b) of section 107 of this title if such individual at the time of death—
+&emsp;(8) Any individual whose service is described in subsection (a) or (b) of section 107 of this title if such individual at the time of death—
 
-&emsp;(A) was a citizen of the United States or an alien lawfully admitted for permanent residence in the United States; and
+&emsp;&emsp;(A) was a citizen of the United States or an alien lawfully admitted for permanent residence in the United States; and
 
-&emsp;(B) resided in the United States.
+&emsp;&emsp;(B) resided in the United States.
 
-(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1002; amended Pub. L. 99–576, title VII, §701(54), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §2402, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–240, §1, May 4, 1994, 108 Stat. 609; Pub. L. 103–446, title VIII, §§801, 802, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 104–275, title II, §211, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–368, title IV, §403(c)(5), Nov. 11, 1998, 112 Stat. 3338; Pub. L. 106–419, title III, §331(a), title IV, §404(a)(5), Nov. 1, 2000, 114 Stat. 1856, 1865; Pub. L. 108–183, title II, §212(b), title V, §502(a), Dec. 16, 2003, 117 Stat. 2658, 2667.)
+&emsp;(9)(A) The parent of a person described in subparagraph (B), if the Secretary determines that there is available space at the gravesite where the person described in subparagraph (B) is interred.
+
+&emsp;(B) A person described in this subparagraph is a person described in paragraph (1) who—
+
+&emsp;&emsp;(i) is a hostile casualty or died from a training-related injury;
+
+&emsp;&emsp;(ii) is interred in a national cemetery; and
+
+&emsp;&emsp;(iii) at the time of the person's parent's death, did not have a spouse, surviving spouse, or child who is buried or who, upon death, may be eligible for burial in a national cemetery pursuant to paragraph (5).
+
+(b) For purposes of subsection (a)(9) of this section:
+
+&emsp;(1) The term “parent” means a biological father or a biological mother or, in the case of adoption, a father through adoption or a mother through adoption.
+
+&emsp;(2) The term “hostile casualty” means a person who, as a member of the Armed Forces, dies as the direct result of hostile action with the enemy, while in combat, while going to or returning from a combat mission if the cause of death was directly related to hostile action, or while hospitalized or undergoing treatmentat the expense of the United States for injury incurred during combat, and includes a person killed mistakenly or accidentally by friendly fire directed at a hostile force or what is thought to be a hostile force, but does not include a person who dies due to the elements, a self-inflicted wound, combat fatigue, or a friendly force while the person was in an absent-without-leave, deserter, or dropped-from-rolls status or was voluntarily absent from a place of duty.
+
+&emsp;(3) The term “training-related injury” means an injury incurred by a member of the Armed Forces while performing authorized training activities in preparation for a combat mission.
+
+(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1002; amended Pub. L. 99–576, title VII, §701(54), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §2402, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–240, §1, May 4, 1994, 108 Stat. 609; Pub. L. 103–446, title VIII, §§801, 802, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 104–275, title II, §211, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–368, title IV, §403(c)(5), Nov. 11, 1998, 112 Stat. 3338; Pub. L. 106–419, title III, §331(a), title IV, §404(a)(5), Nov. 1, 2000, 114 Stat. 1856, 1865; Pub. L. 108–183, title II, §212(b), title V, §502(a), Dec. 16, 2003, 117 Stat. 2658, 2667; Pub. L. 111–275, title V, §502(b), Oct. 13, 2010, 124 Stat. 2882.)
 
 #### Amendments
 
-2003—Par. (5). Pub. L. 108–183, §502(a), substituted “(which for purposes of this chapter includes a surviving spouse who had a subsequent remarriage)” for “(which for purposes of this chapter includes an unremarried surviving spouse who had a subsequent remarriage which was terminated by death or divorce)”.
+<b>2010</b>—Pub. L. 111–275 designated existing provisions as subsec. (a), realigned margins, added par. (9) of subsec. (a), and added subsec. (b).
+
+<b>2003</b>—Par. (5). Pub. L. 108–183, §502(a), substituted “(which for purposes of this chapter includes a surviving spouse who had a subsequent remarriage)” for “(which for purposes of this chapter includes an unremarried surviving spouse who had a subsequent remarriage which was terminated by death or divorce)”.
 
 Par. (8). Pub. L. 108–183, §212(b), substituted “subsection (a) or (b) of section 107” for “section 107(a)”.
 
-2000—Par. (7). Pub. L. 106–419, §404(a)(5), substituted “chapter 1223 of title 10” for “chapter 67 of title 10”.
+<b>2000</b>—Par. (7). Pub. L. 106–419, §404(a)(5), substituted “chapter 1223 of title 10” for “chapter 67 of title 10”.
 
 Par. (8). Pub. L. 106–419, §331(a), added par. (8).
 
-1998—Pub. L. 105–368 substituted “under the control of the National Cemetery Administration” for “in the National Cemetery System” in introductory provisions.
+<b>1998</b>—Pub. L. 105–368 substituted “under the control of the National Cemetery Administration” for “in the National Cemetery System” in introductory provisions.
 
-1996—Par. (5). Pub. L. 104–275 inserted “(which for purposes of this chapter includes a child under 21 years of age, or under 23 years of age if pursuing a course of instruction at an approved educational institution)” after “minor child”.
+<b>1996</b>—Par. (5). Pub. L. 104–275 inserted “(which for purposes of this chapter includes a child under 21 years of age, or under 23 years of age if pursuing a course of instruction at an approved educational institution)” after “minor child”.
 
-1994—Par. (5). Pub. L. 103–446 inserted “spouse,” after “The” and “(which for purposes of this chapter includes an unremarried surviving spouse who had a subsequent remarriage which was terminated by death or divorce)” after “surviving spouse”.
+<b>1994</b>—Par. (5). Pub. L. 103–446 inserted “spouse,” after “The” and “(which for purposes of this chapter includes an unremarried surviving spouse who had a subsequent remarriage which was terminated by death or divorce)” after “surviving spouse”.
 
 Pub. L. 103–240, §1(b), inserted “and paragraph (7)” after “paragraphs (1) through (4)”.
 
 Par. (7). Pub. L. 103–240, §1(a), added par. (7).
 
-1991—Pub. L. 102–83 renumbered section 1002 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1002 of this title as this section.
 
 Pub. L. 102–40 substituted “6105” for “3505” in introductory provisions.
 
-1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-1986—Pars. (2), (3). Pub. L. 99–576, §701(54)(A), substituted “while such member” for “while he” wherever appearing.
+<b>1986</b>—Pars. (2), (3). Pub. L. 99–576, §701(54)(A), substituted “while such member” for “while he” wherever appearing.
 
 Par. (5). Pub. L. 99–576, §701(54)(B), struck out “wife, husband,” before “surviving spouse”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–275 applicable with respect to the death, on or after Oct. 13, 2010, of the parent of a person described in section 2402(a)(9)(B) of this title, who dies on or after October 7, 2001, see section 502(e) of Pub. L. 111–275, set out as a note under section 107 of this title.
 
 #### Effective Date of 2003 Amendment
 
@@ -75,6 +99,10 @@ Pub. L. 108–183, title V, §502(b), Dec. 16, 2003, 117 Stat. 2667, provided th
 #### Effective Date of 2000 Amendment
 
 Amendment by section 331(a) of Pub. L. 106–419 applicable with respect to deaths occurring on or after Nov. 1, 2000, see section 331(c) of Pub. L. 106–419, set out as a note under section 107 of this title.
+
+#### Guidance Required
+
+Pub. L. 111–275, title V, §502(c), Oct. 13, 2010, 124 Stat. 2882, provided that: “The Secretary of Veterans Affairs, in consultation with the Secretary of Defense, shall develop guidance under which the parent of a person described in paragraph (9)(B) of subsection (a) of section 2402 of title 38, United States Code, as added by subsection (b), may be designated for interment in a national cemetery under that section.”
 
 #### Eligibility of Former Prisoners of War for Burial in Arlington National Cemetery
 

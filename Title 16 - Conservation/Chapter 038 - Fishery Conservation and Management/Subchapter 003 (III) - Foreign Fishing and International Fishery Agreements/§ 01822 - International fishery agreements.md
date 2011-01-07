@@ -126,19 +126,19 @@ This chapter, referred to in subsecs. (a)(5), (b), and (h)(1), (2)(A), was in th
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–297, §105(b)(1), inserted before period at end “or section 1824(e) of this title”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–297, §105(b)(1), inserted before period at end “or section 1824(e) of this title”.
 
 Subsec. (h). Pub. L. 104–297, §105(b)(2), added subsec. (h).
 
-1992—Subsec. (g). Pub. L. 102–251, §301(e)(3), added subsec. (g).
+<b>1992</b>—Subsec. (g). Pub. L. 102–251, §301(e)(3), added subsec. (g).
 
-1990—Subsec. (e). Pub. L. 101–627, §105(a), added subsec. (e). Former subsec. (e) redesignated (f).
+<b>1990</b>—Subsec. (e). Pub. L. 101–627, §105(a), added subsec. (e). Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 101–627, §120(a), substituted “an exclusive economic” for “a exclusive economic”.
 
 Pub. L. 101–627, §105(a), redesignated former subsec. (e) as (f).
 
-1986—Subsecs. (b) to (e). Pub. L. 99–659 substituted “exclusive economic zone” for “fishery conservation zone” wherever appearing.
+<b>1986</b>—Subsecs. (b) to (e). Pub. L. 99–659 substituted “exclusive economic zone” for “fishery conservation zone” wherever appearing.
 
 #### Change of Name
 

@@ -64,19 +64,19 @@ In par. (21), formerly (19), “under section 743(b) of this title,” was struc
 
 #### Amendments
 
-1995—Par. (15). Pub. L. 104–88 substituted “rail carrier subject to part A of subtitle IV of title 49” for “common carrier by railroad as defined in section 1(3) of part I of the Interstate Commerce Act (49 U.S.C. 1(3))”.
+<b>1995</b>—Par. (15). Pub. L. 104–88 substituted “rail carrier subject to part A of subtitle IV of title 49” for “common carrier by railroad as defined in section 1(3) of part I of the Interstate Commerce Act (49 U.S.C. 1(3))”.
 
-1986—Par. (7). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Par. (7). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Par. (17A). Pub. L. 99–509 added par. (17A).
 
-1981—Pub. L. 97–35 added pars. (3) and (4). Former pars. (3) to (19) redesignated (5) to (21), respectively.
+<b>1981</b>—Pub. L. 97–35 added pars. (3) and (4). Former pars. (3) to (19) redesignated (5) to (21), respectively.
 
-1980—Par. (16). Pub. L. 96–448, §508(b), substituted “or the designated representative of the Secretary” for “or the person at the time performing the duties of the Office of the Secretary of Transportation in accordance with law, or, in his absence, the Deputy Secretary of Transportation”.
+<b>1980</b>—Par. (16). Pub. L. 96–448, §508(b), substituted “or the designated representative of the Secretary” for “or the person at the time performing the duties of the Office of the Secretary of Transportation in accordance with law, or, in his absence, the Deputy Secretary of Transportation”.
 
 Par. (19). Pub. L. 96–448, §601(b), struck out “, within 6 years after the date on which the special court orders conveyances of rail properties to the Corporation” after “section 745 of this title”. See Codification note above.
 
-1976—Par. (3). Pub. L. 94–248 inserted provision relating to successor by merger, consolidation, etc., of the Corporation
+<b>1976</b>—Par. (3). Pub. L. 94–248 inserted provision relating to successor by merger, consolidation, etc., of the Corporation
 
 Par. (7). Pub. L. 94–210, §603(c), added par. (7). Former par. (7) redesignated (8).
 
@@ -123,4 +123,8 @@ See section 1341 of this title.
 #### Applicability of National Environmental Policy Act
 
 Application of National Environmental Policy Act to actions of Commission not affected by title VI of Pub. L. 94–210, see section 619 of Pub. L. 94–210, set out as a note under section 791 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

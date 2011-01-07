@@ -18,7 +18,7 @@ Definitions.—In this section—
 
 (b)
 
-General Requirement and Minimum Amount.—(1) The Secretary of Transportation shall prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability, property damage, and environmental restoration for the transportation of property by motor carrier or motor private carrier (as such terms are defined in section 13102 of this title) in the United States between a place in a State and—
+General Requirement and Minimum Amount.—(1) The Secretary of Transportationshall prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability, property damage, and environmental restoration for the transportation of property by motor carrier or motor private carrier (as such terms are defined in section 13102 of this title) in the United States between a place in a State and—
 
 &emsp;(A) a place in another State;
 
@@ -30,7 +30,7 @@ General Requirement and Minimum Amount.—(1) The Secretary of Transportation sh
 
 (c)
 
-Filing of Evidence of Financial Responsibility.—The Secretary may require a motorprivate carrier (as defined in section 13102) to file with the Secretary the evidence of financial responsibility specified in subsection (b) in an amount not less than the greater of the minimum amount required by this section or the amount required for such motor private carrier to transport property under the laws of the State or States in which the motor private carrier is operating; except that the amount of the financial responsibility must be sufficient to pay not more than the amount of the financial responsibility for each final judgment against the motor private carrier for bodily injury to, or death of, an individual resulting from negligent operation, maintenance, or use of the motor vehicle, or for loss or damage to property, or both.
+Filing of Evidence of Financial Responsibility.—The Secretary may require a motor private carrier (as defined in section 13102) to file with the Secretary the evidence of financial responsibility specified in subsection (b) in an amount not less than the greater of the minimum amount required by this section or the amount required for such motor private carrier to transport property under the laws of the State or States in which the motor private carrier is operating; except that the amount of the financial responsibility must be sufficient to pay not more than the amount of the financial responsibility for each final judgment against the motor private carrier for bodily injury to, or death of, an individual resulting from negligent operation, maintenance, or use of the motor vehicle, or for loss or damage to property, or both.
 
 (d)
 
@@ -100,7 +100,7 @@ Civil Penalty.—(1) If, after notice and an opportunity for a hearing, the Secr
 
 (4) The Attorney General shall bring a civil action in an appropriate district court of the United States to collect a penalty referred to the Attorney General for collection under this subsection.
 
-(5) The amount of the penalty may be deducted from amounts the Government owes theperson. An amount collected under this section shall be deposited in the Highway Trust Fund (other than the Mass Transit Account).
+(5) The amount of the penalty may be deducted from amounts the Government owes the person. An amount collected under this section shall be deposited in the Highway Trust Fund (other than the Mass Transit Account).
 
 (h)
 
@@ -190,13 +190,13 @@ In subsection (g)(1) and (2), the words “any quantity of” are omitted as sur
 
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–244, §305(b)(1), in introductory provisions, substituted “motor carrier or motor private carrier (as such terms are defined in section 13102 of this title)” for “commercial motor vehicle”.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–244, §305(b)(1), in introductory provisions, substituted “motor carrier or motor private carrier (as such terms are defined in section 13102 of this title)” for “commercial motor vehicle”.
 
 Subsec. (c). Pub. L. 110–244, §305(b)(2), struck out “commercial” before “motor vehicle”.
 
 Subsec. (g)(5). Pub. L. 110–244, §301(f), amended Pub. L. 109–59, §4121. See 2005 Amendment note below.
 
-2005—Subsec. (b)(1). Pub. L. 109–59, §4120(b)(1), struck out “for compensation” after “property” and inserted “commercial” before “motor vehicle” in introductory provisions.
+<b>2005</b>—Subsec. (b)(1). Pub. L. 109–59, §4120(b)(1), struck out “for compensation” after “property” and inserted “commercial” before “motor vehicle” in introductory provisions.
 
 Subsecs. (c) to (f). Pub. L. 109–59, §4120(b)(2), (3), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) redesignated (g).
 
@@ -206,7 +206,7 @@ Subsec. (g)(5). Pub. L. 109–59, §4121, as amended by Pub. L. 110–244, §301
 
 Subsec. (h). Pub. L. 109–59, §4120(b)(2), redesignated subsec. (g) as (h).
 
-1995—Subsec. (e)(3). Pub. L. 104–88 added par. (3).
+<b>1995</b>—Subsec. (e)(3). Pub. L. 104–88 added par. (3).
 
 #### Effective Date of 2008 Amendment
 

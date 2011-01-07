@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this chapter (other than section 7203 of this title), the export of agricultural commodities, medicine, or medical devices to Cuba, the Taliban or the territory of Afghanistan controlled by the Taliban, or to the government of a country that has been determined by the Secretary of State to have repeatedly provided support for acts of international terrorism under section 2371 of this title, section 2405(j)(1) of title 50, Appendix, or section 2780(d) of this title, or to any other entity in such a country, shall only be made pursuant to 1-year licenses issued by the United States Government for contracts entered into during the 1-year period of the license and shipped within the 12-month period beginning on the date of the signing of the contract, except that the requirements of such 1-year licenses shall be no more restrictive than license exceptions administered by the Department of Commerce or general licenses administered by the Department of the Treasury, except that procedures shall be in place to deny licenses for exports to any entity within such country, or in the territory of Afghanistan controlled by the Taliban, promoting international terrorism.
+&emsp;Notwithstanding any other provision of this chapter (other than section 7203 of this title), the export of agricultural commodities, medicine, or medical devices to Cuba, the Taliban or the territory of Afghanistan controlled by the Taliban, or to the government of a country that has been determined by the Secretary of State to have repeatedly provided support for acts of international terrorism under section 2371 of this title, section 2405(j)(1) of title 50, Appendix, or section 2780(d) of this title, or to any other entity in such a country, shall only be made pursuant to 1-year licenses issued by the United States Government for contracts entered into during the 1-year period of the license and shipped within the 12-month periodbeginning on the date of the signing of the contract, except that the requirements of such 1-year licenses shall be no more restrictive than license exceptions administered by the Department of Commerce or general licenses administered by the Department of the Treasury, except that procedures shall be in place to deny licenses for exports to any entity within such country, or in the territory of Afghanistan controlled by the Taliban, promoting international terrorism.
 
 #### (2) Exception
 
@@ -32,7 +32,7 @@ Not later than 2 years after October 28, 2000, and every 2 years thereafter, the
 
 #### Amendments
 
-2001—Subsec. (a)(1). Pub. L. 107–56, §221(a)(2), inserted “, the Taliban or the territory of Afghanistan controlled by the Taliban,” after “Cuba” and “, or in the territory of Afghanistan controlled by the Taliban,” after “entity within such country”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–56, §221(a)(2), inserted “, the Taliban or the territory of Afghanistan controlled by the Taliban,” after “Cuba” and “, or in the territory of Afghanistan controlled by the Taliban,” after “entity within such country”.
 
 Subsec. (a)(2). Pub. L. 107–56, §221(a)(3), inserted “, or to any other entity in Syria or North Korea” before period at end.
 

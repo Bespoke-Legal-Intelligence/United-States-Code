@@ -12,7 +12,7 @@ Section 3499, act Aug. 10, 1956, ch. 1041, 70A Stat. 199, related to application
 
 Section 3500, acts Aug. 10, 1956, ch. 1041, 70A Stat. 199; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(a)(1), (3), 102 Stat. 2059, authorized President to call Army National Guard units and members into Federal service. See section 12406 of this title.
 
-Section 3501, acts Aug. 10, 1956, ch. 1041, 70A Stat. 199; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(a)(1), 102 Stat. 2059, related to period of serviceand apportionment of members and units of Army National Guard called into Federal service. See section 12407 of this title.
+Section 3501, acts Aug. 10, 1956, ch. 1041, 70A Stat. 199; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(a)(1), 102 Stat. 2059, related to period of service and apportionment of members and units of Army National Guard called into Federal service. See section 12407 of this title.
 
 Section 3502, act Aug. 10, 1956, ch. 1041, 70A Stat. 200, related to physical examinations of members of Army National Guard called into Federal service. See section 12408 of this title.
 

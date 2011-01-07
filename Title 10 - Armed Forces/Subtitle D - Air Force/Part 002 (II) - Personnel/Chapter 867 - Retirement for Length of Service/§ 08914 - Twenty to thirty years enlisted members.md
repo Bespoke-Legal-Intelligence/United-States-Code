@@ -28,9 +28,9 @@ The words “now or hereafter”, in 10:948a, are omitted as surplusage. The wor
 
 #### Amendments
 
-1994—Pub. L. 103–337 struck out at end “A regular enlisted member then becomes a member of the Air Force Reserve. A member retired under this section shall perform such active duty as may be prescribed by law until his service computed under section 8925 of this title, plus his inactive service as a member of the Air Force Reserve, equals 30 years.”
+<b>1994</b>—Pub. L. 103–337 struck out at end “A regular enlisted member then becomes a member of the Air Force Reserve. A member retired under this section shall perform such active duty as may be prescribed by law until his service computed under section 8925 of this title, plus his inactive service as a member of the Air Force Reserve, equals 30 years.”
 
-1980—Pub. L. 96–343 struck out “regular” before “enlisted members” in section catchline and substituted in text “an enlisted member” for “a regular enlisted member”, “A regular enlisted member” for “He”, and “Air Force Reserve. A member retired under this section” for “Air Force, and”.
+<b>1980</b>—Pub. L. 96–343 struck out “regular” before “enlisted members” in section catchline and substituted in text “an enlisted member” for “a regular enlisted member”, “A regular enlisted member” for “He”, and “Air Force Reserve. A member retired under this section” for “Air Force, and”.
 
 #### Effective Date of 1980 Amendment
 

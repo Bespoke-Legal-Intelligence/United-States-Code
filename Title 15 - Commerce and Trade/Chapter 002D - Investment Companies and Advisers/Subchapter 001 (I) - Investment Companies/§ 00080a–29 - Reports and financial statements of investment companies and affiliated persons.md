@@ -56,7 +56,7 @@ The Commission may, by rule, require that semiannual reports containing the info
 
 #### (g) Certificate of independent public accountants
 
-Financial statements contained in annual reports required pursuant to subsections (a) and\(e) of this section, if required by the rules and regulations of the Commission, shall be accompanied by a certificate of independent public accountants. The certificate of such independent public accountants shall be based upon an audit not less in scope or procedures followed than that which independent public accountants would ordinarily make for the purpose of presenting comprehensive and dependable financial statements, and shall contain such information as the Commission may prescribe, by rules and regulations in the public interest or for the protection of investors, as to the nature and scope of the audit and the findings and opinion of the accountants. Each such report shall state that such independent public accountants have verified securities owned, either by actual examination, or by receipt of a certificate from the custodian, as the Commission may prescribe by rules and regulations.
+Financial statements contained in annual reports required pursuant to subsections (a) and (e) of this section, if required by the rules and regulations of the Commission, shall be accompanied by a certificate of independent public accountants. The certificate of such independent public accountants shall be based upon an audit not less in scope or procedures followed than that which independent public accountants would ordinarily make for the purpose of presenting comprehensive and dependable financial statements, and shall contain such information as the Commission may prescribe, by rules and regulations in the public interest or for the protection of investors, as to the nature and scope of the audit and the findings and opinion of the accountants. Each such report shall state that such independent public accountants have verified securities owned, either by actual examination, or by receipt of a certificate from the custodian, as the Commission may prescribe by rules and regulations.
 
 #### (h) Duties and liabilities of affiliated persons
 
@@ -74,7 +74,7 @@ A person that maintains a church plan that is excluded from the definition of an
 
 The Commission may issue rules and regulations to require any person that maintains a church plan that is excluded from the definition of an investment company solely by reason of section 80a–3(c)(14) of this title to file a notice with the Commission containing such information and in such form as the Commission may prescribe as necessary or appropriate in the public interest or consistent with the protection of investors.
 
-(Aug. 22, 1940, ch. 686, title I, §30, 54 Stat. 836; Pub. L. 104–290, title II, §206, title V, §508(g), Oct. 11, 1996, 110 Stat. 3430, 3449; Pub. L. 105–353, title III, §301(c)(5), Nov. 3, 1998, 112 Stat. 3237.)
+(Aug. 22, 1940, ch. 686, title I, §30, 54 Stat. 836; Pub. L. 104–290, title II, §206, title V, §508(g),Oct. 11, 1996, 110 Stat. 3430, 3449; Pub. L. 105–353, title III, §301(c)(5), Nov. 3, 1998, 112 Stat. 3237.)
 
 #### References in Text
 
@@ -84,13 +84,13 @@ The Securities Exchange Act of 1934, referred to in subsec. (i)(1), is act June 
 
 #### Amendments
 
-1998—Subsec. (b)(1). Pub. L. 105–353, §301(c)(5)(A), inserted “and” after semicolon at end.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–353, §301(c)(5)(A), inserted “and” after semicolon at end.
 
 Subsec. (e). Pub. L. 105–353, §301(c)(5)(B), substituted “semiannually” for “semi-annually” in introductory provisions.
 
 Subsecs. (g) to (j). Pub. L. 105–353, §301(c)(5)(C), redesignated subsecs. (g) and (h), relating to disclosure to church plan participants and notice to Commission, respectively, as (i) and (j), respectively.
 
-1996—Subsec. (b)(1). Pub. L. 104–290, §206(1), added par. (1) and struck out former par. (1) which read as follows: “such information and documents (other than financial statements) as the Commission may require, on a semi-annual or quarterly basis, to keep reasonably current the information and documents contained in the registration statement of such company filed under this subchapter; and”.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–290, §206(1), added par. (1) and struck out former par. (1) which read as follows: “such information and documents (other than financial statements) as the Commission may require, on a semi-annual or quarterly basis, to keep reasonably current the information and documents contained in the registration statement of such company filed under this subchapter; and”.
 
 Subsecs. (c) to (e). Pub. L. 104–290, §206(2), (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively. Former subsec. (e) redesignated (g).
 

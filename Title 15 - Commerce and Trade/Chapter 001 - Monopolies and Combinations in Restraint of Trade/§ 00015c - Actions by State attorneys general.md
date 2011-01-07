@@ -4,7 +4,7 @@
 
 (1) Any attorney general of a State may bring a civil action in the name of such State, as parens patriae on behalf of natural persons residing in such State, in any district court of the United States having jurisdiction of the defendant, to secure monetary relief as provided in this section for injury sustained by such natural persons to their property by reason of any violation of sections 1 to 7 of this title. The court shall exclude from the amount of monetary relief awarded in such action any amount of monetary relief (A) which duplicates amounts which have been awarded for the same injury, or (B) which is properly allocable to (i) natural persons who have excluded their claims pursuant to subsection (b)(2) of this section, and (ii) any business entity.
 
-(2) The court shall award the State as monetary relief threefold the total damage sustained as described in paragraph (1) of this subsection, and the cost of suit, including a reasonable attorney's fee. The court may award under this paragraph, pursuant to a motion by such State promptly made, simple interest on the total damage for the period beginning on the date of service of such State's pleading setting forth a claim under the antitrust laws and ending on the date of judgment, or for any shorter period therein, if the court finds that the award of such interest for such period is just in the circumstances. In determining whether an award of interest under this paragraph for any period is just in the circumstances, the court shall consider only—
+(2) The court shall award the State as monetary relief threefold the total damage sustained as described in paragraph (1) of this subsection, and the cost of suit, including a reasonable attorney's fee. The court may award under this paragraph, pursuant to a motion by such State promptly made, simple interest on the totaldamage for the period beginning on the date of service of such State's pleading setting forth a claim under the antitrust laws and ending on the date of judgment, or for any shorter period therein, if the court finds that the award of such interest for such period is just in the circumstances. In determining whether an award of interest under this paragraph for any period is just in the circumstances, the court shall consider only—
 
 &emsp;(A) whether such State or the opposing party, or either party's representative, made motions or asserted claims or defenses so lacking in merit as to show that such party or representative acted intentionally for delay or otherwise acted in bad faith;
 
@@ -14,7 +14,7 @@
 
 #### (b) Notice; exclusion election; final judgment
 
-(1) In any action brought under subsection (a)(1) of this section, the State attorney generalshall, at such times, in such manner, and with such content as the court may direct, cause notice thereof to be given by publication. If the court finds that notice given solely by publication would deny due process of law to any person or persons, the court may direct further notice to such person or persons according to the circumstances of the case.
+(1) In any action brought under subsection (a)(1) of this section, the State attorney general shall, at such times, in such manner, and with such content as the court may direct, cause notice thereof to be given by publication. If the court finds that notice given solely by publication would deny due process of law to any person or persons, the court may direct further notice to such person or persons according to the circumstances of the case.
 
 (2) Any person on whose behalf an action is brought under subsection (a)(1) of this section may elect to exclude from adjudication the portion of the State claim for monetary relief attributable to him by filing notice of such election with the court within such time as specified in the notice given pursuant to paragraph (1) of this subsection.
 
@@ -40,7 +40,7 @@ The antitrust laws, referred to in subsec. (a)(2), are defined in section 12 of 
 
 #### Amendments
 
-1980—Subsec. (a)(2). Pub. L. 96–349 inserted provisions respecting award of prejudgment interest including considerations for the court in determining whether an award is just under the circumstances.
+<b>1980</b>—Subsec. (a)(2). Pub. L. 96–349 inserted provisions respecting award of prejudgment interest including considerations for the court in determining whether an award is just under the circumstances.
 
 #### Effective Date of 1980 Amendment
 

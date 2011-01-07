@@ -14,7 +14,7 @@ Historical and Revision Notes
 
 46:480
 
-Section 2301 provides that this chapter is applicable to all vessels, including foreign flag vessels, when operating on waters subject to the jurisdiction of the United States. Any vessel owned in the United States while operating on the high seas would be included. By ownership the Committee means those vessels that are documented or numbered under United States laws and those other vessels that are neither documented ornumbered but are of national origin and are not documented under the laws of a foreign nation. This chapter is applicable to a foreign flag vessel that is in innocent passage through territorial waters of the United States, presently 3 miles seaward, whether or not it is bound to or from a port subject to the jurisdiction of the United States.
+Section 2301 provides that this chapter is applicable to all vessels, including foreign flag vessels, when operating on waters subject to the jurisdiction of the United States. Any vessel owned in the United States while operating on the high seas would be included. By ownership the Committee means those vessels that are documented or numbered under United States laws and those other vessels that are neither documented or numbered but are of national origin and are not documented under the laws of a foreign nation. This chapter is applicable to a foreign flag vessel that is in innocent passage through territorial waters of the United States, presently 3 miles seaward, whether or not it is bound to or from a port subject to the jurisdiction of the United States.
 
 #### References in Text
 
@@ -22,11 +22,11 @@ Presidential Proclamation No. 5928, referred to in text, is set out under sectio
 
 #### Amendments
 
-2006—Pub. L. 109–304 substituted “sections 2304 and” for “section”.
+<b>2006</b>—Pub. L. 109–304 substituted “sections 2304 and” for “section”.
 
-1998—Pub. L. 105–383 inserted “(including the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988)” after “of the United States”.
+<b>1998</b>—Pub. L. 105–383 inserted “(including the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988)” after “of the United States”.
 
-1984—Pub. L. 98–498 substituted “Except as provided in section 2306 of this title, this chapter” for “This chapter”.
+<b>1984</b>—Pub. L. 98–498 substituted “Except as provided in section 2306 of this title, this chapter” for “This chapter”.
 
 #### Effective Date of 1984 Amendment
 

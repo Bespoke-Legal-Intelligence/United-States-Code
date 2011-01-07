@@ -22,7 +22,7 @@
 
 #### Amendments
 
-1980—Pub. L. 96–515 added subsec. (a), designated existing provision as subsec. (b), and in subsec. (b) as so designated, redesignated pars. (a) to (d) as (1), (2), (5), and (7), respectively, in par. (1) as so redesignated, substituted “heritage” for “past”, and added pars. (3), (4), and (6).
+<b>1980</b>—Pub. L. 96–515 added subsec. (a), designated existing provision as subsec. (b), and in subsec. (b) as so designated, redesignated pars. (a) to (d) as (1), (2), (5), and (7), respectively, in par. (1) as so redesignated, substituted “heritage” for “past”, and added pars. (3), (4), and (6).
 
 #### Short Title of 2006 Amendment
 
@@ -72,7 +72,7 @@ Sec. 3. <i>Responsibilities of the Secretary of the Interior</i>. The Secretary 
 
 (c) expedite action upon nominations to the National Register of Historic Places concerning federally owned properties proposed for sale, transfer, demolition or substantial alteration.
 
-(d) encourage State and Territorial liaison officers for historic preservation to furnish information uponrequest to Federal agencies regarding their properties which have been evaluated with respect to historic, architectural or archaeological significance and which as a result of such evaluations have not been found suitable for listing on the National Register of Historic Places.
+(d) encourage State and Territorial liaison officers for historic preservation to furnish information upon request to Federal agencies regarding their properties which have been evaluated with respect to historic, architectural or archaeological significance and which as a result of such evaluations have not been found suitable for listing on the National Register of Historic Places.
 
 (e) develop and make available to Federal agencies and State and local governments information concerning professional methods and techniques for preserving, improving, restoring and maintaining historic properties.
 

@@ -2,11 +2,19 @@
 
 Each year, the Board and the Attorney General shall, respectively, make reports to the Congress concerning the administration of their functions under this subchapter, including such recommendations as the Board and the Attorney General, respectively, deem necessary or appropriate. In addition, each report of the Board shall include its assessment of the extent to which compliance with the requirements of this subchapter is being achieved, and a summary of the enforcement actions taken by each of the agencies assigned administrative enforcement responsibilities under section 1691c of this title.
 
-(Pub. L. 90–321, title VII, §707, as added Pub. L. 94–239, §7, Mar. 23, 1976, 90 Stat. 255; amended Pub. L. 96–221, title VI, §610(c), Mar. 31, 1980, 94 Stat. 174.)
+(Pub. L. 90–321, title VII, §707, as added Pub. L. 94–239, §7, Mar. 23, 1976, 90 Stat. 255; amended Pub. L. 96–221, title VI, §610(c), Mar. 31, 1980, 94 Stat. 174; Pub. L. 111–203, title X, §1085(1), July 21, 2010, 124 Stat. 2083.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1085(1), 1100H, July 21, 2010, 124 Stat. 2083, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
-1980—Pub. L. 96–221 substituted “Each year” for “Not later than February 1 of each year after 1976”.
+<b>1980</b>—Pub. L. 96–221 substituted “Each year” for “Not later than February 1 of each year after 1976”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1980 Amendment
 

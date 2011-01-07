@@ -16,5 +16,5 @@ The Secretary may grant a sabbatical to a career member of the Senior Foreign Se
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–236 inserted “(other than those employed in accordance with section 3951 of this title)” after “citizen of the United States”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–236 inserted “(other than those employed in accordance with section 3951 of this title)” after “citizen of the United States”.
 

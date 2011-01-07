@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 2 years after March 30, 2009, the Subcommittee shall develop a strategic plan for Federal research and monitoring on ocean acidification that will provide for an assessment of the impacts of ocean acidification on marine organisms and marine ecosystems and the development of adaptation and mitigation strategies to conserve marine organisms and marine ecosystems. In developing the plan, the Subcommittee shall consider and use information, reports, and studies of ocean acidification that have identified research and monitoring needed to better understand ocean acidification and itspotential impacts, and recommendations made by the National Academy of Sciences in the review of the plan required under subsection (d).
+Not later than 2 years after March 30, 2009, the Subcommittee shall develop a strategic plan for Federal research and monitoring on ocean acidification that will provide for an assessment of the impacts of ocean acidification on marine organisms and marine ecosystems and the development of adaptation and mitigation strategies to conserve marine organisms and marine ecosystems. In developing the plan, the Subcommittee shall consider and use information, reports, and studies of ocean acidification that have identified research and monitoring needed to better understand ocean acidification and its potential impacts, and recommendations made by the National Academy of Sciences in the review of the plan required under subsection (d).
 
 #### (b) Contents of the plan
 

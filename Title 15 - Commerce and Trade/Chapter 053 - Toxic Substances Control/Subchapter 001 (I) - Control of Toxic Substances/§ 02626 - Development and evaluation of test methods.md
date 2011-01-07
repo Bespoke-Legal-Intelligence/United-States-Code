@@ -6,17 +6,17 @@ The Secretary of Health and Human Services, in consultation with the Administrat
 
 #### (b) Approval by Secretary
 
-No grant may be made or contract entered into under subsection (a) of this section unless an application therefor has been submitted to and approved by the Secretary. Such an application shall be submitted in such form and manner and contain such information as the Secretary may require. The Secretary may apply such conditions to grants and contracts under subsection (a) of this section as the Secretary determines are necessary to carry out the purposes of suchsubsection. Contracts may be entered into under such subsection without regard to section 3324(a) and (b) of title 31 and section 5 of title 41.
+No grant may be made or contract entered into under subsection (a) of this section unless an application therefor has been submitted toand approved by the Secretary. Such an application shall be submitted in such form and manner and contain such information as the Secretary may require. The Secretary may apply such conditions to grants and contracts under subsection (a) of this section as the Secretary determines are necessary to carry out the purposes of such subsection. Contracts may be entered into under such subsection without regard to section 3324(a) and (b) of title 31 and section 6101 of title 41.
 
 (Pub. L. 94–469, title I, §27, Oct. 11, 1976, 90 Stat. 2049; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 104–66, title I, §1061(a), Dec. 21, 1995, 109 Stat. 719.)
 
 #### Codification
 
-In subsec. (b), “section 3324(a) and (b) and title 31” substituted for reference to section 3648 of the Revised Statutes (31 U.S.C. 529) on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b), “section 3324(a) and (b) of title 31 and section 6101 of title 41” substituted for “sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529; 41 U.S.C. 5)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-1995—Subsec. (c). Pub. L. 104–66 struck out heading and text of subsec. (c). Text read as follows:
+<b>1995</b>—Subsec. (c). Pub. L. 104–66 struck out heading and text of subsec. (c). Text read as follows:
 
 “(1) The Secretary shall prepare and submit to the President and the Congress on or before January 1 of each year a report of the number of grants made and contracts entered into under this section and the results of such grants and contracts.
 

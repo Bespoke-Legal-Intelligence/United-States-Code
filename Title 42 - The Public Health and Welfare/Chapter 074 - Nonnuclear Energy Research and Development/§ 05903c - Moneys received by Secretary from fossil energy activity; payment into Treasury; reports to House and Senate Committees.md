@@ -10,7 +10,7 @@ Section was not enacted as part of the Federal Nonnuclear Energy Research and De
 
 #### Amendments
 
-1994—Pub. L. 103–437 substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology”.
+<b>1994</b>—Pub. L. 103–437 substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology”.
 
 #### Change of Name
 
@@ -18,5 +18,5 @@ Committee on Science, Space, and Technology of House of Representatives treated 
 
 #### Transfer of Functions
 
-“Secretary”, meaning Secretary of Energy, substituted in text for “Administrator”, meaning Administrator of Energy Research and Development Administration, pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293,and 7297 of this title and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
+“Secretary”, meaning Secretary of Energy, substituted in text for “Administrator”, meaning Administrator of Energy Research and Development Administration, pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
 

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(A) such last day is a Saturday, a Sunday, or a legal holiday; or
 
-&emsp;&emsp;(B) in the case of a filing of a paper at the Government Accountability Office or a Federal agency, such last day is a day on which weather or other conditions cause the closing of the Government Accountability Office or Federal agency, in which event the next day that is not a Saturday, Sunday, or legal holiday shall be included.
+&emsp;&emsp;(B) in the case of a filing of a paper at the Government Accountability Office or a Federal agency, such last day is a day on whichweather or other conditions cause the closing of the Government Accountability Office or Federal agency, in which event the next day that is not a Saturday, Sunday, or legal holiday shall be included.
 
 (c) The Comptroller General may prescribe procedures for the electronic filing and dissemination of documents and information required under this subchapter. In prescribing such procedures, the Comptroller General shall consider the ability of all parties to achieve electronic access to such documents and records.
 
@@ -20,17 +20,17 @@
 
 #### Amendments
 
-2004—Subsec. (b)(2)(B). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
+<b>2004</b>—Subsec. (b)(2)(B). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
 
-1994—Subsec. (a). Pub. L. 103–355, §1404(c), substituted “The Comptroller General” for “Not later than January 15, 1985, the Comptroller General”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–355, §1404(c), substituted “The Comptroller General” for “Not later than January 15, 1985, the Comptroller General”.
 
 Subsecs. (b) to (d). Pub. L. 103–355, §1404(a), (b), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of Title 10, Armed Forces.
 
 #### Effective Date
 
-Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under section 251 of Title 41, Public Contracts.
+Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under section 2302 of Title 10, Armed Forces.
 

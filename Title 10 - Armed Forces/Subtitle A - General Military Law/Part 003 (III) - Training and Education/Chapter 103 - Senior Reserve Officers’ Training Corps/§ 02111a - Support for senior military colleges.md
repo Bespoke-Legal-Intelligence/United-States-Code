@@ -6,7 +6,7 @@ Detail of Officers To Serve as Commandant or Assistant Commandant of Cadets.—(
 
 (2) In the case of an officer detailed as Commandant of Cadets, the officer may, upon the request of the college, be assigned from among the Professor of Military Science, the Professor of Naval Science (if any), and the Professor of Aerospace Science (if any) at that college or may be in addition to any other officer detailed to that college in support of the program.
 
-(3) In the case of an officer detailed as Assistant Commandant of Cadets, the officer may, upon the request of the college, be assigned from among officers otherwise detailed to duty at that college in support of the program or may be in addition to any other officer detailed to that college in support of the program.
+(3) In the case of an officer detailed as Assistant Commandant of Cadets, the officer may,upon the request of the college, be assigned from among officers otherwise detailed to duty at that college in support of the program or may be in addition to any other officer detailed to that college in support of the program.
 
 (b)
 
@@ -22,7 +22,7 @@ Termination or Reduction of Program Prohibited.—The Secretary of Defense and t
 
 (e)
 
-Assignment to Active Duty.—(1) The Secretary of the Army shall ensure that a graduateof a senior military college who desires to serve as a commissioned officer on active duty upon graduation from the college, who is medically and physically qualified for active duty, and who is recommended for such duty by the professor of military science at the college, shall be assigned to active duty.
+Assignment to Active Duty.—(1) The Secretary of the Army shall ensure that a graduate of a senior military college who desires to serve as a commissioned officer on active duty upon graduation from the college, who is medically and physically qualified for active duty, and who is recommended for such duty by the professor of military science at the college, shall be assigned to active duty.
 
 (2) Nothing in this section shall be construed to prohibit the Secretary of the Army from requiring a member of the program who graduates from a senior military college to serve on active duty.
 
@@ -46,9 +46,9 @@ Senior Military Colleges.—The senior military colleges are the following:
 
 #### Amendments
 
-1999—Subsec. (e)(1). Pub. L. 106–65 struck out at end “This paragraph shall apply to a member of the program at a senior military college who graduates from the college after March 31, 1997.”
+<b>1999</b>—Subsec. (e)(1). Pub. L. 106–65 struck out at end “This paragraph shall apply to a member of the program at a senior military college who graduates from the college after March 31, 1997.”
 
-1997—Pub. L. 105–85, §544(f)(1), substituted “Support for” for “Detail of officers to” in section catchline.
+<b>1997</b>—Pub. L. 105–85, §544(f)(1), substituted “Support for” for “Detail of officers to” in section catchline.
 
 Subsecs. (d), (e). Pub. L. 105–85, §544(d)(2), added subsecs. (d) and (e). Former subsec. (d) redesignated (f).
 

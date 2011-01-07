@@ -6,5 +6,5 @@ A payment under this subchapter shall not be considered as any form of compensat
 
 #### Amendments
 
-2004—Pub. L. 108–375 substituted “this subchapter” for “part B” in two places.
+<b>2004</b>—Pub. L. 108–375 substituted “this subchapter” for “part B” in two places.
 

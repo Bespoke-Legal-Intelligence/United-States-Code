@@ -40,7 +40,7 @@ Notwithstanding subsection (a), and except as provided in subsection (i), regula
 
 #### (d) Expenditures in connection with certain railroad rolling stock
 
-In the case of expenditures in connection with the rehabilitation of a unit of railroad rolling stock (except a locomotive) used by a domestic common carrier by railroad which would, but for this subsection, be properly chargeable to capital account, such expenditures, if during any 12-month period they do not exceed an amount equal to 20 percent of the basis of such unit in the hands of the taxpayer, shall, at the election of the taxpayer, be treated (notwithstanding subsection (a)) as deductible repairs under section 162 or 212. An election under this subsection shall be made for any taxable year at such time and in such manner as the Secretary prescribes by regulations. An election may not be made under this subsection for any taxable year to which an election under subsection (e) applies to railroad rolling stock (other than locomotives).
+In the case of expenditures in connection with the rehabilitation of a unit of railroad rolling stock (except a locomotive) used by a domestic common carrier by railroad which would, but for this subsection, be properly chargeable to capital account, such expenditures, if during any 12-month period they do not exceed an amountequal to 20 percent of the basis of such unit in the hands of the taxpayer, shall, at the election of the taxpayer, be treated (notwithstanding subsection (a)) as deductible repairs under section 162 or 212. An election under this subsection shall be made for any taxable year at such time and in such manner as the Secretary prescribes by regulations. An election may not be made under this subsection for any taxable year to which an election under subsection (e) applies to railroad rolling stock (other than locomotives).
 
 #### \[(e) Repealed. Pub. L. 97–34, title II, §201(c), Aug. 13, 1981, 95 Stat. 219\]
 
@@ -122,7 +122,7 @@ In the case of a domestic common carrier by rail (including a railroad switching
 
 #### (A) In general
 
-&emsp;&emsp;Paragraph (1) shall apply only to the extent that the payments or distributions with respect to any short sale exceed the amount which—
+&emsp;&emsp;Paragraph (1) shall apply only to the extent that the payments or distributions withrespect to any short sale exceed the amount which—
 
 &emsp;&emsp;&emsp;(i) is treated as ordinary income by the taxpayer, and
 
@@ -154,25 +154,25 @@ In the case of intangible drilling and development costs paid or incurred with r
 
 #### Amendments
 
-2006—Subsec. (a)(1)(L). Pub. L. 109–432 added subpar. (L).
+<b>2006</b>—Subsec. (a)(1)(L). Pub. L. 109–432 added subpar. (L).
 
-2005—Subsec. (a)(1)(J). Pub. L. 109–58, §1323(b)(2), added subpar. (J).
+<b>2005</b>—Subsec. (a)(1)(J). Pub. L. 109–58, §1323(b)(2), added subpar. (J).
 
 Subsec. (a)(1)(K). Pub. L. 109–58, §1331(b)(4), added subpar. (K).
 
-2004—Subsec. (a)(1)(I). Pub. L. 108–357 added subpar. (I).
+<b>2004</b>—Subsec. (a)(1)(I). Pub. L. 108–357 added subpar. (I).
 
 Subsec. (g)(2)(B)(ii). Pub. L. 108–311 substituted “1276” for “1278”.
 
-1997—Subsec. (a)(1)(H). Pub. L. 105–34 added subpar. (H).
+<b>1997</b>—Subsec. (a)(1)(H). Pub. L. 105–34 added subpar. (H).
 
-1990—Subsec. (b). Pub. L. 101–508, §11801(a)(16), struck out subsec. (b) “Expenditures for advertising and good will” which read as follows: “If a corporation has, for the purpose of computing its excess profits tax credit under chapter 2E or subchapter D of chapter 1 of the Internal Revenue Code of 1939 claimed the benefits of the election provided in section 733 or section 451 of such code, as the case may be, no deduction shall be allowable under section 162 to such corporation for expenditures for advertising or the promotion of good will which, under the rules and regulations prescribed under section 733 or section 451 of such code, as the case may be, may be regarded as capital investments.”
+<b>1990</b>—Subsec. (b). Pub. L. 101–508, §11801(a)(16), struck out subsec. (b) “Expenditures for advertising and good will” which read as follows: “If a corporation has, for the purpose of computing its excess profits tax credit under chapter 2E or subchapter D of chapter 1 of the Internal Revenue Code of 1939 claimed the benefits of the election provided in section 733 or section 451 of such code, as the case may be, no deduction shall be allowable under section 162 to such corporation for expenditures for advertising or the promotion of good will which, under the rules and regulations prescribed under section 733 or section 451 of such code, as the case may be, may be regarded as capital investments.”
 
 Subsec. (c). Pub. L. 101–508, §11815(b)(3), substituted “section 613(e)(2)” for “section 613(e)(3)”.
 
-1988—Subsec. (c). Pub. L. 100–647 substituted “section 59(e)” for “section 59(d)”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–647 substituted “section 59(e)” for “section 59(d)”.
 
-1986—Subsec. (a)(1)(E) to (H). Pub. L. 99–514, §402(b)(1), struck out subpar. (E) relating to nonapplication of par. (1) to expenditures by farmers for clearing land deductible under section 182, and redesignated subpars. (F) to (H) as (E) to (G), respectively.
+<b>1986</b>—Subsec. (a)(1)(E) to (H). Pub. L. 99–514, §402(b)(1), struck out subpar. (E) relating to nonapplication of par. (1) to expenditures by farmers for clearing land deductible under section 182, and redesignated subpars. (F) to (H) as (E) to (G), respectively.
 
 Subsec. (c). Pub. L. 99–514, §701(e)(4)(D), substituted “59(d)” for “58(i)”.
 
@@ -182,29 +182,29 @@ Subsec. (g)(2)(B)(iv). Pub. L. 99–541, §1808(b), added cl. (iv).
 
 Subsec. (i). Pub. L. 99–514, §411(b)(1)(A), added subsec. (i).
 
-1984—Subsec. (g)(2). Pub. L. 98–369, §102(e)(7), amended par. (2) generally, striking out “charges for temporary use of the personal property in a short sale, or” after “(including” in subpar. (A)(ii), substituting “any amount treated as ordinary income under section 1271(a)(3)(A), 1278, or 1281(a) with respect to such property for the taxable year, and” for “any amount treated as ordinary income under section 1232(a)(3)(A) with respect to such property for the taxable year” in subpar. (B)(ii), and adding subpar. (B)(iii).
+<b>1984</b>—Subsec. (g)(2). Pub. L. 98–369, §102(e)(7), amended par. (2) generally, striking out “charges for temporary use of the personal property in a short sale, or” after “(including” in subpar. (A)(ii), substituting “any amount treated as ordinary income under section 1271(a)(3)(A), 1278, or 1281(a) with respect to such property for the taxable year, and” for “any amount treated as ordinary income under section 1232(a)(3)(A) with respect to such property for the taxable year” in subpar. (B)(ii), and adding subpar. (B)(iii).
 
 Subsec. (g)(4). Pub. L. 98–369, §102(e)(8), added par. (4).
 
 Subsec. (h). Pub. L. 98–369, §56(a), added subsec. (h).
 
-1983—Subsec. (g)(2)(A)(ii). Pub. L. 97–448, §105(b)(1), substituted “all other amounts (including charges for temporary use of the personal property in a short sale, or to insure, store, or transport the personal property) paid or incurred to carry the personal property, over” for “amounts paid or incurred to insure, store, or transport the personal property, over”.
+<b>1983</b>—Subsec. (g)(2)(A)(ii). Pub. L. 97–448, §105(b)(1), substituted “all other amounts (including charges for temporary use of the personal property in a short sale, or to insure, store, or transport the personal property) paid or incurred to carry the personal property, over” for “amounts paid or incurred to insure, store, or transport the personal property, over”.
 
 Subsec. (g)(2)(B)(ii). Pub. L. 97–448, §306(a)(9)(A), substituted “section 1232(a)(3)(A)” for “section 1232(a)(4)(A)”.
 
-1982—Subsec. (c). Pub. L. 97–248, §204(c)(1), inserted provision that this subsection not apply with respect to any costs to which any deduction is allowed under section 58(i) or 291.
+<b>1982</b>—Subsec. (c). Pub. L. 97–248, §204(c)(1), inserted provision that this subsection not apply with respect to any costs to which any deduction is allowed under section 58(i) or 291.
 
-1981—Subsec. (a)(1)(H). Pub. L. 97–34, §202(d)(1), added subpar. (H).
+<b>1981</b>—Subsec. (a)(1)(H). Pub. L. 97–34, §202(d)(1), added subpar. (H).
 
 Subsec. (e). Pub. L. 97–34, §201(c), struck out subsec. (e) which related to the allowance of repair expenses or specified repair, rehabilitation, or improvement expenditures.
 
 Subsec. (g). Pub. L. 97–34, §502, added subsec. (g).
 
-1980—Subsec. (a)(1)(G). Pub. L. 96–223 added subpar. (G).
+<b>1980</b>—Subsec. (a)(1)(G). Pub. L. 96–223 added subpar. (G).
 
-1978—Subsec. (c). Pub. L. 95–618 inserted “and geothermal wells” after “gas wells” in heading and in text inserted provision that such regulations also grant the option to deduct as expenses intangible drilling and development costs in the case of wells drilled for any geothermal deposit (as defined in section 613(e)(3)) to the same extent and in the same manner as such expenses are deductible in the case of oil and gas wells.
+<b>1978</b>—Subsec. (c). Pub. L. 95–618 inserted “and geothermal wells” after “gas wells” in heading and in text inserted provision that such regulations also grant the option to deduct as expenses intangible drilling and development costs in the case of wells drilled for any geothermal deposit (as defined in section 613(e)(3)) to the same extent and in the same manner as such expenses are deductible in the case of oil and gas wells.
 
-1976—Subsec. (a)(1)(F). Pub. L. 94–455, §2122(b)(2), added subpar. (F).
+<b>1976</b>—Subsec. (a)(1)(F). Pub. L. 94–455, §2122(b)(2), added subpar. (F).
 
 Subsec. (a)(3). Pub. L. 94–455, §1904(b)(10)(A)(i)(I), struck out par. (3) which provided that no deduction be allowed for amounts paid as tax under section 4911 (relating to imposition of interest equalization tax) except as provided in subsec. (d).
 
@@ -214,21 +214,21 @@ Subsec. (e). Pub. L. 94–455, §§1904(b)(10)(A)(i)(I), 1906(b)(13)(A), redesig
 
 Subsec. (f). Pub. L. 94–455, §§1701(a), 1904(b)(10)(A)(i)(I), added subsec. (f). Former subsec. (f) redesignated (e).
 
-1971—Subsec. (e). Pub. L. 92–178, §109(c), substituted “shall, at the election of the taxpayer, be treated” for “shall be treated” and inserted provisions respecting making of election under this subsection for any taxable year at such time and in such manner as Secretary or his delegate prescribed by regulation and prohibiting making of election for any taxable year to which an election under subsec. (f) applies to railroad rolling stock (other than locomotives).
+<b>1971</b>—Subsec. (e). Pub. L. 92–178, §109(c), substituted “shall, at the election of the taxpayer, be treated” for “shall be treated” and inserted provisions respecting making of election under this subsection for any taxable year at such time and in such manner as Secretary or his delegate prescribed by regulation and prohibiting making of election for any taxable year to which an election under subsec. (f) applies to railroad rolling stock (other than locomotives).
 
 Subsec. (f). Pub. L. 92–178, §109(b), added subsec. (f).
 
-1969—Subsec. (e). Pub. L. 91–172 added subsec. (e).
+<b>1969</b>—Subsec. (e). Pub. L. 91–172 added subsec. (e).
 
-1965—Subsec. (a)(3). Pub. L. 89–243, §4(p)(1), inserted “Except as provided in subsection (d)”, and struck out “except to the extent that any amount attributable to the amount paid as tax is included in gross income for the taxable year” after parenthetical provision.
+<b>1965</b>—Subsec. (a)(3). Pub. L. 89–243, §4(p)(1), inserted “Except as provided in subsection (d)”, and struck out “except to the extent that any amount attributable to the amount paid as tax is included in gross income for the taxable year” after parenthetical provision.
 
 Subsec. (d). Pub. L. 89–243, §4(p)(2), added subsec. (d).
 
-1964—Subsec. (a)(3). Pub. L. 88–563 added par. (3).
+<b>1964</b>—Subsec. (a)(3). Pub. L. 88–563 added par. (3).
 
-1962—Subsec. (a)(1)(E). Pub. L. 87–834 added subpar. (E).
+<b>1962</b>—Subsec. (a)(1)(E). Pub. L. 87–834 added subpar. (E).
 
-1960—Subsec. (a)(1)(D). Pub. L. 86–779 added subpar. (D).
+<b>1960</b>—Subsec. (a)(1)(D). Pub. L. 86–779 added subpar. (D).
 
 #### Effective Date of 2006 Amendment
 

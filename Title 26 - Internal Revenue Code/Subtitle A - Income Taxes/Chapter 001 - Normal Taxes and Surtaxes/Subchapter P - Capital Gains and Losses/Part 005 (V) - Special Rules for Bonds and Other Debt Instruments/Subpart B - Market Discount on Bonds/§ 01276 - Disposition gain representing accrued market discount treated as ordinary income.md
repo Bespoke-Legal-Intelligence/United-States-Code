@@ -78,7 +78,7 @@ Under regulations prescribed by the Secretary—
 
 &emsp;If any market discount bond is disposed of by the taxpayer in a nonrecognition transaction and paragraph (1) does not apply to such transaction, any accrued market discount determined with respect to the property disposed of to the extent not theretofore treated as ordinary income under subsection (a)—
 
-&emsp;&emsp;(A) shall be treated as accrued market discount with respect to the exchanged basis property received by the taxpayer in such transaction if such property is a market discount bond, and
+&emsp;&emsp;(A) shall be treated as accrued market discount with respect to the exchanged basisproperty received by the taxpayer in such transaction if such property is a market discount bond, and
 
 &emsp;&emsp;(B) shall be treated as ordinary income on the disposition of the exchanged basis property received by the taxpayer in such exchange if such property is not a market discount bond.
 
@@ -104,13 +104,13 @@ Under regulations prescribed by the Secretary—
 
 #### Amendments
 
-1993—Subsec. (a)(4). Pub. L. 103–66, §13206(b)(2)(B)(i), substituted “sections 103, 871(a),” for “sections 871(a)”.
+<b>1993</b>—Subsec. (a)(4). Pub. L. 103–66, §13206(b)(2)(B)(i), substituted “sections 103, 871(a),” for “sections 871(a)”.
 
 Subsec. (e). Pub. L. 103–66, §13206(b)(1)(A), struck out heading and text of subsec. (e). Text read as follows: “This section shall not apply to any market discount bond issued on or before July 18, 1984.”
 
-1988—Subsec. (b)(3). Pub. L. 100–647 designated paragraph relating to special rule where there are partial principal payments as par. (3) and inserted period at end.
+<b>1988</b>—Subsec. (b)(3). Pub. L. 100–647 designated paragraph relating to special rule where there are partial principal payments as par. (3) and inserted period at end.
 
-1986—Subsec. (a)(3). Pub. L. 99–514, §1803(a)(13)(A)(i), added par. (3). Former par. (3) redesignated (4).
+<b>1986</b>—Subsec. (a)(3). Pub. L. 99–514, §1803(a)(13)(A)(i), added par. (3). Former par. (3) redesignated (4).
 
 Subsec. (a)(4). Pub. L. 99–514, §1803(a)(13)(A)(i), (ii), redesignated par. (3) as (4) and substituted “under paragraph (1) or (3)” for “under paragraph (1)”.
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 631(e)(15) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition dateoccurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
+Amendment by section 631(e)(15) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
 Amendment by section 1803(a)(5) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 

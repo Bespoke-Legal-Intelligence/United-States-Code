@@ -56,9 +56,9 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 655, 65
 
 #### Amendments
 
-1979—Subsec. (e)(3). Pub. L. 96–39 substituted “section 5002(a)(14)” for “section 5002(a)(11)”.
+<b>1979</b>—Subsec. (e)(3). Pub. L. 96–39 substituted “section 5002(a)(14)” for “section 5002(a)(11)”.
 
-1976—Subsecs. (a), (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a), (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date of 1979 Amendment
 

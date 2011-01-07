@@ -6,7 +6,7 @@ In General.—The Secretary shall allocate funds made available to carry out thi
 
 (b)
 
-Applicability of Title.—Amounts made available by section 1101(a)(14) of theSAFETEA–LU shall be available for obligation in the same manner as if such funds were apportioned under this chapter.
+Applicability of Title.—Amounts made available by section 1101(a)(14) of the SAFETEA–LU shall be available for obligation in the same manner as if such funds were apportioned under this chapter.
 
 (c)
 

@@ -4,11 +4,3 @@ Subject to valid existing rights, all Federal lands within the conservation area
 
 (Pub. L. 106–554, §1(a)(4) \[div. B, title I, §125 \[§6\]\], Dec. 21, 2000, 114 Stat. 2763, 2763A–229, 2763A–355.)
 
-#### References in Text
-
-The public land laws, referred to in text, are classified generally to Title 43, Public Lands.
-
-The mining laws and the mineral leasing laws, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
-
-Geothermal leasing laws, referred to in text, are classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining.
-

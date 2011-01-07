@@ -18,7 +18,7 @@ A prior section 2105 was renumbered section 2109 of this title.
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–67 amended subsec. (a) generally, designating existing provisions as par. (1) and adding par. (2).
+<b>2001</b>—Subsec. (a). Pub. L. 107–67 amended subsec. (a) generally, designating existing provisions as par. (1) and adding par. (2).
 
 #### Effective Date
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 30 days following November 29, 1990, the Task Force shall request that the Great Lakes Commission (established under Article IV of the Great Lakes Compact to which the Congress granted consent in the Act of July 24, 1968, P.L. 90–419) convene a panel of Great Lakes region representatives from Federal, State and local agencies and from private environmental and commercial interests to—
+&emsp;Not later than 30 days following November 29, 1990, the Task Force shall request that theGreat Lakes Commission (established under Article IV of the Great Lakes Compact to which the Congress granted consent in the Act of July 24, 1968, P.L. 90–419) convene a panel of Great Lakes region representatives from Federal, State and local agencies and from private environmental and commercial interests to—
 
 &emsp;&emsp;(A) identify priorities for the Great Lakes region with respect to aquatic nuisance species;
 
@@ -56,11 +56,11 @@ The Task Force shall—
 
 Act of July 24, 1968, referred to in subsec. (a)(1), is Pub. L. 90–419, July 24, 1968, 82 Stat. 414, which is not classified to the Code.
 
-This chapter, referred to in subsecs. (a)(1)(D) and (b)(3), was in the original “this Act”, which, to reflectthe probable intent of Congress, was translated as reading “this title” meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 4701 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1)(D) and (b)(3), was in the original “this Act”, which, to reflect the probable intent of Congress, was translated as reading “this title” meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 4701 of this title and Tables.
 
 #### Amendments
 
-1996—Pub. L. 104–332, §2(h)(1), made technical amendment to Pub. L. 101–646, §1203, which enacted this section.
+<b>1996</b>—Pub. L. 104–332, §2(h)(1), made technical amendment to Pub. L. 101–646, §1203, which enacted this section.
 
 Pub. L. 104–332, §2(e)(5)(A), substituted “Regional” for “Great Lakes regional” in section catchline.
 

@@ -26,5 +26,5 @@ Citizenship or Residency.—(1) A person may be enlisted in any armed force only
 
 #### Amendments
 
-2006—Pub. L. 109–163 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2006</b>—Pub. L. 109–163 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 

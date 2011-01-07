@@ -18,5 +18,5 @@ The financial transactions of the Secretary incident to or arising out of the gu
 
 #### Amendments
 
-1988—Pub. L. 100–442 inserted “and surety bonds” after “of loans” in introductory text, “or surety” after “a loan” in par. (b), and “or surety” after “any loan” in par. (c).
+<b>1988</b>—Pub. L. 100–442 inserted “and surety bonds” after “of loans” in introductory text, “or surety” after “a loan” in par. (b), and “or surety” after “any loan” in par. (c).
 

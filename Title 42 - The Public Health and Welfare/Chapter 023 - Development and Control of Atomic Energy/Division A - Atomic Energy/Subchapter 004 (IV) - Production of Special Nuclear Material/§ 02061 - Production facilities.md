@@ -6,7 +6,7 @@ The Commission, as agent of and on behalf of the United States, shall be the exc
 
 #### (b) Operation of Commission's facilities
 
-The Commission is authorized and directed to produce or to provide for the production of special nuclear material in its own production facilities. To the extent deemed necessary, the Commission is authorized to make, or to continue in effect, contracts with persons obligating them to produce special nuclear material in facilities owned by the Commission. The Commission is also authorized to enter into research and development contracts authorizing the contractor to produce special nuclear material in facilities owned by the Commission to the extent that the production of such special nuclear material may be incident to the conduct of research and development activities under such contracts. Any contract entered into under this section shall contain provisions (1) prohibiting the contractor from subcontracting any part of the work he is obligated to perform under the contract, except as authorized by the Commission; and (2) obligating the contractor (A) to make such reports pertaining to activities under the contract to the Commission as the Commission may require, (B) to submit to inspection by employees of the Commission of all such activities, and (C) to comply with all safety and security regulations which may be prescribed by the Commission. Any contract made under the provisions of this subsection may be made without regard to the provisions of section 5 of title 41, upon certification by the Commission that such action is necessary in the interest of the common defense and security, or upon a showing by the Commission that advertising is not reasonably practicable. Partial and advance payments may be made under such contracts.
+The Commission is authorized and directed to produce or to provide for the production of special nuclear material in its own production facilities. To the extent deemed necessary, the Commission is authorized to make, or to continue in effect, contracts with persons obligating them to produce special nuclear material in facilities owned by the Commission. The Commission is also authorized to enter into research and development contracts authorizing the contractor to produce special nuclear material in facilities owned by the Commission to the extent that the production of such special nuclear material may be incident to the conduct of research and development activities under such contracts. Any contract entered into under this section shall contain provisions (1) prohibiting the contractor from subcontracting any part of the work he is obligated to perform under the contract, except as authorized by the Commission; and (2) obligating the contractor (A) to make such reports pertaining to activities under the contract to the Commission as the Commission may require, (B) to submit to inspection by employees of the Commission of all such activities, and (C) to comply with all safety and security regulations which may be prescribed by the Commission. Any contract made under the provisions of this subsection may be made without regard to the provisions of section 6101 of title 41, upon certification by the Commission that such action is necessary in the interest of the common defense and security, or upon a showing by the Commission that advertising is not reasonably practicable. Partial and advance payments may be made under such contracts.
 
 #### (c) Operation of other facilities
 
@@ -14,17 +14,21 @@ Special nuclear material may be produced in the facilities which under this sect
 
 (Aug. 1, 1946, ch. 724, title I, §41, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 928; amended Pub. L. 90–190, §8, Dec. 14, 1967, 81 Stat. 577; Pub. L. 101–575, §5(c), Nov. 15, 1990, 104 Stat. 2835; renumbered title I and amended Pub. L. 102–486, title IX, §902(a)(2), (8), Oct. 24, 1992, 106 Stat. 2943, 2944.)
 
+#### Codification
+
+In subsec. (b), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes, as amended” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Prior Provisions
 
 Provisions similar to those comprising this section were contained in section 4 of act Aug. 1, 1946, ch. 724, 60 Stat. 759, which was classified to section 1804 of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–486, §902(a)(2), substituted “under this division” for “pursuant to under this chapter” in cl. (2) and added cl. (3).
+<b>1992</b>—Subsec. (a). Pub. L. 102–486, §902(a)(2), substituted “under this division” for “pursuant to under this chapter” in cl. (2) and added cl. (3).
 
-1990—Subsec. (a)(2). Pub. L. 101–575 substituted “under this chapter” for “section 2133 or 2134 of this title”.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–575 substituted “under this chapter” for “section 2133 or 2134 of this title”.
 
-1967—Subsec. (b). Pub. L. 90–190 struck out provision requiring the President to determine in writing at least once each year the quantities of special nuclear material to be produced under this section, and to specify in such determination the quantities of special nuclear material to be available for distribution by the Commission pursuant to sections 2073 and 2074 of this title.
+<b>1967</b>—Subsec. (b). Pub. L. 90–190 struck out provision requiring the President to determine in writing at least once each year the quantities of special nuclear material to be produced under this section, and to specify in such determination the quantities of special nuclear material to be available for distribution by the Commission pursuant to sections 2073 and 2074 of this title.
 
 #### References to United States Enrichment Corporation
 
@@ -36,7 +40,7 @@ Pub. L. 103–316, title III, Aug. 26, 1994, 108 Stat. 1715, provided in part: �
 
 Energy Supply, Research and Development Activities\].”
 
-Pub. L. 102–377, title III, Oct. 2, 1992, 106 Stat. 1334, provided in part that: “Revenues received hereafter from the disposition of isotopes and related services shall be credited to this account, to be available for carrying out the purposes of the isotope production and distribution program without further appropriation: <i>Provided</i>, That such revenues and all funds providedunder this head in Public Law 101–101 \[set out below\] shall remain available until expended: <i>Provided further</i>, That if at any time the amounts available to the fund are insufficient to enable the Department of Energy to discharge its responsibilities with respect to isotope production and distribution, the Secretary may borrow from amounts available in the Treasury, such sums as are necessary up to a maximum of $5,000,000 to remain available until expended.”
+Pub. L. 102–377, title III, Oct. 2, 1992, 106 Stat. 1334, provided in part that: “Revenues received hereafter from the disposition of isotopes and related services shall be credited to this account, to be available for carrying out the purposes of the isotope production and distribution program without further appropriation: <i>Provided</i>, That such revenues and all funds provided under this head in Public Law 101–101 \[set out below\] shall remain available until expended: <i>Provided further</i>, That if at any time the amounts available to the fund are insufficient to enable the Department of Energy to discharge its responsibilities with respect to isotope production and distribution, the Secretary may borrow from amounts available in the Treasury, such sums as are necessary up to a maximum of $5,000,000 to remain available until expended.”
 
 Similar provisions were contained in the following prior appropriation acts:
 

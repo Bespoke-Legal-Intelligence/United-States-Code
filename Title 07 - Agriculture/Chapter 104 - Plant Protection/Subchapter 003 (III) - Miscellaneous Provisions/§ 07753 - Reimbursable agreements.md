@@ -28,7 +28,7 @@ Funds collected for preclearance shall be credited to accounts which may be esta
 
 #### (1) Collection
 
-&emsp;Upon failure to reimburse the Secretary in accordance with this section, the Secretary may assess a late payment penalty, and theoverdue funds shall accrue interest, as required by section 3717 of title 31.
+&emsp;Upon failure to reimburse the Secretary in accordance with this section, the Secretary may assess a late payment penalty, and the overdue funds shall accrue interest, as required by section 3717 of title 31.
 
 #### (2) Use of funds
 
@@ -38,5 +38,5 @@ Funds collected for preclearance shall be credited to accounts which may be esta
 
 #### Transfer of Functions
 
-For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of HomelandSecurity Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

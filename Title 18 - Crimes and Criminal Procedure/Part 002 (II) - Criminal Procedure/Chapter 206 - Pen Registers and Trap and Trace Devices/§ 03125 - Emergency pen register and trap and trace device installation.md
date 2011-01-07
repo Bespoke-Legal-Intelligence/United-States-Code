@@ -32,11 +32,11 @@ A prior section 3125 was renumbered section 3126 of this title.
 
 #### Amendments
 
-2002—Subsec. (a)(1)(C), (D). Pub. L. 107–296 added subpars. (C) and (D).
+<b>2002</b>—Subsec. (a)(1)(C), (D). Pub. L. 107–296 added subpars. (C) and (D).
 
-1996—Subsec. (a). Pub. L. 104–294 struck out closing quotation mark at end.
+<b>1996</b>—Subsec. (a). Pub. L. 104–294 struck out closing quotation mark at end.
 
-1994—Subsec. (a). Pub. L. 103–322, §330008(3)(A), (B), substituted “use;” for “use’ ” in par. (2) and directed that matter beginning with “may have installed” and ending with “section 3123 of this title” be realigned so that it is flush to the left margin, which was executed to text containing a period after “section 3123 of this title”, to reflect the probable intent of Congress.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §330008(3)(A), (B), substituted “use;” for “use’ ” in par. (2) and directed that matter beginning with “may have installed” and ending with “section 3123 of this title” be realigned so that it is flush to the left margin, which was executed to text containing a period after “section 3123 of this title”, to reflect the probable intent of Congress.
 
 Subsec. (d). Pub. L. 103–322, §330008(3)(C), substituted “provider of” for “provider for”.
 

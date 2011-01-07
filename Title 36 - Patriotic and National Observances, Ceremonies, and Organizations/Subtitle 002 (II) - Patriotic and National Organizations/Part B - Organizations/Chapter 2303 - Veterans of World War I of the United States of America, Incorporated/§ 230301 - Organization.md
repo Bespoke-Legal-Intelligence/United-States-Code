@@ -24,7 +24,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-230301D36:761.DJuly 18, 1958, Pub. L. 85–530, §§1, 2, 4(1), 72 Stat. 370, 371.
+230301
+
+36:761.
+
+July 18, 1958, Pub. L. 85–530, §§1, 2, 4(1), 72 Stat. 370, 371.
 
 &nbsp;
 

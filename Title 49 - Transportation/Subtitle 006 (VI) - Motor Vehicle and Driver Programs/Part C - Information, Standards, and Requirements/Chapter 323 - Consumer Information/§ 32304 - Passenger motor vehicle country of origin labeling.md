@@ -66,7 +66,7 @@ Definitions.—In this section—
 
 &emsp;(14) “State” means a State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
 
-&emsp;(15) “value added in the United States and Canada” means a percentage determined by subtracting the total purchase price of foreign content from the total purchase price, and dividing the remainder by the total purchase price, excluding costs incurred or profits made at the final assembly place and beyond (including advertising, assembly, labor, interest payments, and profits), with the following groupings being used:
+&emsp;(15) “value added in the United States and Canada” means a percentage determined by subtracting the total purchase price of foreigncontent from the total purchase price, and dividing the remainder by the total purchase price, excluding costs incurred or profits made at the final assembly place and beyond (including advertising, assembly, labor, interest payments, and profits), with the following groupings being used:
 
 &emsp;&emsp;(A) engines of same displacement produced at the same plant.
 
@@ -122,7 +122,7 @@ Form and Content of Label.—The Secretary of Transportation shall prescribe by 
 
 (h)
 
-Regulations.—In consultation with the Secretaries of Commerce and the Treasury, the Secretary of Transportation shall prescribe regulations necessary to carry out this section, including regulations establishing a procedure to verify the label information required under subsection (b)(1) of this section. Those regulations shall provide the ultimate purchaser of a new passenger motor vehicle with the best and most understandable information possible about the foreign content and United States/Canadian origin of the equipment of the vehicles without imposing costly and unnecessary burdens on the manufacturers. The Secretary of Transportation shall prescribe the regulations promptly to provide adequate lead time for each manufacturer to comply with this section. The regulations shall include provisions applicable to outside suppliers and allied suppliers to require those suppliers to certify whether passenger motor vehicle equipment provided by those suppliers is of United States origin, of United States/Canadian origin, or of foreign content and to provide other information the Secretary of Transportation decides is necessary to allow each manufacturer to comply reasonably with this section and to rely on that certification and information.
+Regulations.—In consultation with the Secretaries of Commerce and the Treasury, the Secretary of Transportation shall prescribe regulations necessary to carry out this section, including regulations establishing a procedure to verify the label information required under subsection (b)(1) of this section. Those regulations shall provide the ultimate purchaser of a new passenger motor vehicle with the best and most understandable information possible about the foreign content and United States/Canadian origin of the equipment of the vehicles without imposing costly and unnecessary burdens on the manufacturers. The Secretary of Transportation shall prescribe the regulations promptly to provide adequate lead time for each manufacturerto comply with this section. The regulations shall include provisions applicable to outside suppliers and allied suppliers to require those suppliers to certify whether passenger motor vehicle equipment provided by those suppliers is of United States origin, of United States/Canadian origin, or of foreign content and to provide other information the Secretary of Transportation decides is necessary to allow each manufacturer to comply reasonably with this section and to rely on that certification and information.
 
 (i)
 
@@ -214,11 +214,11 @@ This amends 32304(a)(11) to clarify the restatement of 15:1950(f)(3) by section 
 
 #### Pub. L. 103–429, §6(30)
 
-This amends 49:32304(a)(14) to reflect the inclusion of the Northern Mariana Islands and the exclusion of the Canal Zone. The words “the Northern Mariana Islands” are added because of section 502(a)(2) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, as enacted by the Act of March 24, 1976 (Public Law 94–241, 90 Stat. 268), and as proclaimed to be in effect by the President on January 9, 1978 (Proc. No. 4534, Oct. 24, 1977, 42 F.R. 56593). The words “the Canal Zone” are omitted because of the Panama Canal Treaty of 1977.
+This amends 49:32304(a)(14) to reflect the inclusion of the Northern Mariana Islands and the exclusion of the Canal Zone. The words “the Northern Mariana Islands” are added because of section 502(a)(2) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, as enacted by the Act of March 24, 1976 (Public Law 94–241, 90 Stat. 268), and as proclaimed to be in effect by the President on January 9, 1978 (Proc. No.4534, Oct. 24, 1977, 42 F.R. 56593). The words “the Canal Zone” are omitted because of the Panama Canal Treaty of 1977.
 
 #### Amendments
 
-1998—Subsec. (a)(3)(B). Pub. L. 105–178, §7106(d)(1)(A), inserted before period at end “, plus the assembly and labor costs incurred for the final assembly of such engines and transmissions”.
+<b>1998</b>—Subsec. (a)(3)(B). Pub. L. 105–178, §7106(d)(1)(A), inserted before period at end “, plus the assembly and labor costs incurred for the final assembly of such engines and transmissions”.
 
 Subsec. (a)(5). Pub. L. 105–178, §7106(d)(1)(B), inserted at end “Such term does not include facilities for engine and transmission fabrication and assembly and the facilities for fabrication of motor vehicle equipment component parts which are produced at the same final assembly place using forming processes such as stamping, machining, or molding processes.”
 
@@ -234,7 +234,7 @@ Subsec. (e). Pub. L. 105–178, §7106(d)(5), added subsec. (e). Former subsec. 
 
 Subsecs. (f) to (i). Pub. L. 105–178, §7106(d)(3), redesignated subsecs. (c) to (f) as (f) to (i), respectively.
 
-1994—Subsec. (a)(11). Pub. L. 103–429, §6(29), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “ ‘passenger motor vehicle’ means a motor vehicle with motive power, manufactured primarily for use on public streets, roads, and highways, and designed to carry not more than 12 individuals—
+<b>1994</b>—Subsec. (a)(11). Pub. L. 103–429, §6(29), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “ ‘passenger motor vehicle’ means a motor vehicle with motive power, manufactured primarily for use on public streets, roads, and highways, and designed to carry not more than 12 individuals—
 
 &emsp;“(A) including a multipurpose vehicle or light duty truck when the vehicle or truck is rated at not more than 8,500 pounds gross vehicle weight; but
 

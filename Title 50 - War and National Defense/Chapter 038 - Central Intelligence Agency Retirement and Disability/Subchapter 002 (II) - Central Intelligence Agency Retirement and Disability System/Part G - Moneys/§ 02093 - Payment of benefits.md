@@ -64,7 +64,7 @@ An individual entitled to an annuity from the fund may decline to accept all or 
 
 #### (3) Change in State designation
 
-&emsp;Subject to paragraph (2), an annuitant may change the State designated by that annuitant for purposes of having withholdings made, and may request that the withholdings be remitted in accordance with such change. An annuitant also may revoke any request of that annuitant for withholding. Any change in the State designated or revocation is effective on the first day of the month after the month in which therequest or the revocation is processed by the Director, but in no event later than on the first day of the second month beginning after the day on which such request or revocation is received by the Director.
+&emsp;Subject to paragraph (2), an annuitant may change the State designated by that annuitant for purposes of having withholdings made, and may request that the withholdings be remitted in accordance with such change. An annuitant also may revoke any request of that annuitant for withholding. Any change in the State designated or revocation is effective on the first day of the month after the month in which the request or the revocation is processed by the Director, but in no event later than on the first day of the second month beginning after the day on which such request or revocation is received by the Director.
 
 #### (4) General provisions
 

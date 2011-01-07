@@ -1,6 +1,6 @@
 ### §18501. Reserve components: personnel and logistic support by military departments
 
-The Secretary concerned is responsible for providing the personnel, equipment, facilities,and other general logistic support necessary to enable units and Reserves in the Ready Reserve of the reserve components under his jurisdiction to satisfy the training requirements and mobilization readiness requirements for those units and Reserves as recommended by the Secretary concerned and by the Chairman of the Joint Chiefs of Staff and approved by the Secretary of Defense, and as recommended by the Commandant of the Coast Guard and approved by the Secretary of Homeland Security when the Coast Guard is not operated as a service of the Navy.
+The Secretary concerned is responsible for providing the personnel, equipment, facilities, and other general logistic support necessary to enable units and Reserves in the Ready Reserve of the reserve components under his jurisdiction to satisfy the training requirements and mobilization readiness requirements for those units and Reserves as recommended by the Secretary concerned and by the Chairman of the Joint Chiefs of Staff and approved by the Secretary of Defense, and as recommended by the Commandant of the Coast Guard and approved by the Secretary of Homeland Security when the Coast Guard is not operated as a service of the Navy.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1664(c)(1), Oct. 5, 1994, 108 Stat. 3011; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
@@ -10,7 +10,7 @@ Provisions similar to those in this section were contained in section 264(b) of 
 
 #### Amendments
 
-2002—Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 #### Effective Date of 2002 Amendment
 

@@ -32,11 +32,11 @@ Sections 1973d and 1973g of this title, referred to in subsec. (b), were repeale
 
 #### Amendments
 
-1975—Subsec. (c). Pub. L. 94–73, §404, inserted reference to Guam and Virgin Islands.
+<b>1975</b>—Subsec. (c). Pub. L. 94–73, §404, inserted reference to Guam and Virgin Islands.
 
 Subsec. (e). Pub. L. 94–73, §409, added subsec. (e).
 
-1970—Subsec. (c). Pub. L. 91–405 substituted reference to Delegate from District of Columbia for Delegates or Commissioners from territories or possessions.
+<b>1970</b>—Subsec. (c). Pub. L. 91–405 substituted reference to Delegate from District of Columbia for Delegates or Commissioners from territories or possessions.
 
 #### Effective Date of 1970 Amendment
 

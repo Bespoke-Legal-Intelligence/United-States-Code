@@ -120,7 +120,7 @@ Not later than 18 months after December 17, 2004, the President shall establish 
 
 &emsp;&emsp;Nothing in this subsection shall be construed—
 
-&emsp;&emsp;&emsp;(i) to prohibit the obligation of amounts pursuant to a letter of intent under this subsection in the same fiscal year as the letter of intent is issued; or
+&emsp;&emsp;&emsp;(i) to prohibit the obligation of amounts pursuant to a letter of intent under thissubsection in the same fiscal year as the letter of intent is issued; or
 
 &emsp;&emsp;&emsp;(ii) to apply to, or replace, Federal assistance intended for interoperable communications that is not provided pursuant to a commitment under this subsection.
 
@@ -196,7 +196,7 @@ Pub. L. 108–458, title VII, §7308, Dec. 17, 2004, 118 Stat. 3849, provided th
 
 #### Transfer of Functions
 
-For transfer of the SAFECOM Program, excluding elements related to research, development, testing, and evaluation and standards, to the Director for Emergency Communications, see section 571(d)(1) of this title.
+For transfer of the SAFECOM Program, excluding elements related to research, development, testing, andevaluation and standards, to the Director for Emergency Communications, see section 571(d)(1) of this title.
 
 #### Cross Border Interoperability Reports
 

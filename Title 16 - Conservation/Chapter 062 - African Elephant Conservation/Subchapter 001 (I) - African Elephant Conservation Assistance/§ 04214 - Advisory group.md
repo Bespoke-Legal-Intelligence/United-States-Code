@@ -34,9 +34,11 @@ The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–141 made technical amendment to reference in original act which appears in text as reference to this chapter.
+<b>2002</b>—Subsec. (a). Pub. L. 107–141 made technical amendment to reference in original act which appears in text as reference to this chapter.
 
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–141, §5(b)(2), Feb. 12, 2002, 116 Stat. 14, provided that the amendment by section 5(b)(2) of Pub. L. 107–141 is effective on the day after Jan. 8, 2002.
+
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -1,6 +1,6 @@
 ### §7672. Recaptures: award of salvage, costs, and expenses
 
-(a) If a vessel or other property that has been captured by a force hostile to the United Statesis recaptured, and the court believes that the property had not been condemned as prize by competent authority before its recapture, the court shall award an appropriate sum as salvage.
+(a) If a vessel or other property that has been captured by a force hostile to the United States is recaptured, and the court believes that the property had not been condemned as prize by competent authority before its recapture, the court shall award an appropriate sum as salvage.
 
 (b) If the recaptured property belonged to the United States, it shall be restored to the United States, and costs and expenses ordered to be paid by the court shall be paid from the Treasury.
 

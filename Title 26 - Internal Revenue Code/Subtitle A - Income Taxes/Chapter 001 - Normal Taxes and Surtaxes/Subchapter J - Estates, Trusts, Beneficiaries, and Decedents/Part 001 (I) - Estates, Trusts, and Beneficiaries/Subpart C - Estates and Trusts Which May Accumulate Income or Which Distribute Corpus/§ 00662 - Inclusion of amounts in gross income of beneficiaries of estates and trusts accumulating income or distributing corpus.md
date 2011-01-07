@@ -24,11 +24,11 @@ The amounts determined under subsection (a) shall have the same character in the
 
 #### (c) Different taxable years
 
-If the taxable year of a beneficiary is different from that of the estate or trust, the amount to be included in the gross income of the beneficiary shall be based on the distributable net income of the estate or trust and the amounts properly paid, credited, or required to be distributed to the beneficiary during any taxable year or years of the estate or trust ending within or with his taxable year.
+If the taxable year of a beneficiary is different from that of the estate or trust, the amount tobe included in the gross income of the beneficiary shall be based on the distributable net income of the estate or trust and the amounts properly paid, credited, or required to be distributed to the beneficiary during any taxable year or years of the estate or trust ending within or with his taxable year.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 220; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 #### Amendments
 
-1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 

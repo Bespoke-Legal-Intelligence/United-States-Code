@@ -18,7 +18,7 @@ Guidelines.—The Secretary of Defense shall establish guidelines for the manner
 
 (c)
 
-Master Plan.—(1) The Secretary of Defense shall include in the materials submitted to Congress in support of the budget request for the Department of Defense for each fiscal year a civilian positions master plan described in paragraph (2) for the Department of Defense as a whole and for each military department, Defense Agency, and other principal component of the Department of Defense.
+Master Plan.—(1) The Secretary of Defense shall include in the materials submitted toCongress in support of the budget request for the Department of Defense for each fiscal year a civilian positions master plan described in paragraph (2) for the Department of Defense as a whole and for each military department, Defense Agency, and other principal component of the Department of Defense.
 
 (2) The master plan referred to in paragraph (1) shall include the information described in paragraph (3). Such information shall include information for each of the two fiscal years immediately preceding such fiscal year and projected information for such fiscal year and each of the two fiscal years immediately following such fiscal year.
 
@@ -46,7 +46,7 @@ Master Plan.—(1) The Secretary of Defense shall include in the materials submi
 
 &emsp;&emsp;(ii) The extent to which such workload is funded by funds that are appropriated from appropriation accounts and managed through the Defense Business Operations Fund.
 
-&emsp;(C) Information that indicates trends in the extent to which the military department, Defense Agency, or other component enters intocontracts with persons outside of the Department of Defense, rather than uses civilian positions, to perform work for the military department, Defense Agency, or other component.
+&emsp;(C) Information that indicates trends in the extent to which the military department, Defense Agency, or other component enters into contracts with persons outside of the Department of Defense, rather than uses civilian positions, to perform work for the military department, Defense Agency, or other component.
 
 &emsp;(D) Information that indicates the extent to which the Department of Defense management review initiatives of the Secretary of Defense and other productivity enhancement programs of the Department of Defense significantly affect the number of losses of civilian positions, particularly administrative and management positions.
 
@@ -64,7 +64,7 @@ Involuntary Reductions of Civilian Positions.—The Secretary of Defense may not
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–160, §363(a)(1), substituted “during a fiscal year” for “during fiscal year 1993”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–160, §363(a)(1), substituted “during a fiscal year” for “during fiscal year 1993”.
 
 Subsec. (b). Pub. L. 103–160, §363(a)(2), struck out “for fiscal year 1993” after “establish guidelines” in introductory provisions.
 
@@ -80,7 +80,7 @@ Subsec. (c)(4). Pub. L. 103–160, §363(b)(3), added par. (4).
 
 Subsec. (e). Pub. L. 103–35, §201(d)(1)(B), substituted “on the date” for “of the date”.
 
-1992—Pub. L. 102–484 substituted “Civilian positions: guidelines for reductions” for “Employees of industrial-type or commercial-type activities: guidelines for future reductions” as section catchline and amended text generally, substituting subsecs. (a) to (e) for former subsecs. (a) to (c).
+<b>1992</b>—Pub. L. 102–484 substituted “Civilian positions: guidelines for reductions” for “Employees of industrial-type or commercial-type activities: guidelines for future reductions” as section catchline and amended text generally, substituting subsecs. (a) to (e) for former subsecs. (a) to (c).
 
 #### Pilot Program for Payment of Retraining Expenses
 

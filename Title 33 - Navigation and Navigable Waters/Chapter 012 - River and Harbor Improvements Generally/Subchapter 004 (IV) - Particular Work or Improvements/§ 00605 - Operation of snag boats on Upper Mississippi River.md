@@ -18,7 +18,7 @@ Act Mar. 3, 1909, made such provisions applicable to “the Minnesota river and 
 
 #### Amendments
 
-1954—Act Aug. 30, 1954, repealed proviso requiring that an itemized statement of expenses incurred in operation of snag boats on the Upper Mississippi River, etc., as provided in this section, should accompany the annual report of the Chief of Engineers.
+<b>1954</b>—Act Aug. 30, 1954, repealed proviso requiring that an itemized statement of expenses incurred in operation of snag boats on the Upper Mississippi River, etc., as provided in this section, should accompany the annual report of the Chief of Engineers.
 
 #### Change of Name
 

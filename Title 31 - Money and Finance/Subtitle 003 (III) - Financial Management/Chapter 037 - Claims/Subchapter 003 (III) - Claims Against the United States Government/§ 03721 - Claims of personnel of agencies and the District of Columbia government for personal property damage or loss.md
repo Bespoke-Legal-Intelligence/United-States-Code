@@ -188,7 +188,7 @@ Subsection (h)(2) is substituted for “Claims of survivors shall be settled and
 
 In subsection (i), the words “to the contrary” are omitted as surplus. The words “representative of a claimant” are substituted for “agent or attorney” for clarity and consistency. The words “be paid or delivered to or” are omitted as surplus. The word “payment” is substituted for “amount paid in settlement” to eliminate unnecessary words. The words “individual . . . submitted and settled . . . the authority of” are omitted as surplus. The words “and the same shall be unlawful” are omitted because of the restatement. The words “shall be deemed guilty of a misdemeanor and upon conviction thereof . . . in any sum” are omitted as surplus.
 
-In subsection (j), the words “the purposes of” in 31:241(b)(1)(1st sentence words before 5th comma) are omitted as surplus. The words “(except subsection (b) to the extent that subsection (b) applies to the military departments, the Department of Defense, and the Coast Guard)” are substituted for the source provisions because of the restatement. The words “to carry out this section” after “regulations” are added for clarity.
+In subsection (j), the words “the purposes of” in 31:241(b)(1)(1st sentence words before 5th comma) are omitted as surplus. The words “(except subsection (b)to the extent that subsection (b) applies to the military departments, the Department of Defense, and the Coast Guard)” are substituted for the source provisions because of the restatement. The words “to carry out this section” after “regulations” are added for clarity.
 
 In subsection (k), the words “Notwithstanding any other provision of law” are omitted as unnecessary.
 
@@ -210,15 +210,15 @@ July 28, 1982, Pub. L. 97–226, §1(a), 96 Stat. 245.
 
 #### Amendments
 
-1996—Subsec. (b)(1). Pub. L. 104–106 inserted after first sentence “If, however, the claim arose from an emergency evacuation or from extraordinary circumstances, the amount settled and paid under the authority of the preceding sentence may exceed $40,000, but may not exceed $100,000.”
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–106 inserted after first sentence “If, however, the claim arose from an emergency evacuation or from extraordinary circumstances, the amount settled and paid under the authority of the preceding sentence may exceed $40,000, but may not exceed $100,000.”
 
-1994—Subsec. (b). Pub. L. 103–236 designated existing provisions as par. (1) and added par. (2).
+<b>1994</b>—Subsec. (b). Pub. L. 103–236 designated existing provisions as par. (1) and added par. (2).
 
-1988—Subsec. (b). Pub. L. 100–565, §1(1), substituted “$40,000” for “$25,000”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–565, §1(1), substituted “$40,000” for “$25,000”.
 
 Subsec. (c). Pub. L. 100–565, §1(2), in amending subsec. (c) generally, redesignated former subsec. (c)(2) as (c) and substituted “section” for “subsection”, struck out par. (1) which authorized agency head to pay claim against Government for not more than $40,000 to member of uniformed services, or officer or employee of agency, for damage to, or loss of, personal property in foreign country, incurred after December 30, 1978, incident to service, after evacuation from foreign country, and struck out par. (3) which limited amounts to be obligated or expended for claims to extent provided in advance in appropriation laws.
 
-1983—Subsec. (b). Pub. L. 97–452 substituted “$25,000” for “$15,000”.
+<b>1983</b>—Subsec. (b). Pub. L. 97–452 substituted “$25,000” for “$15,000”.
 
 #### Effective Date of 1996 Amendment
 

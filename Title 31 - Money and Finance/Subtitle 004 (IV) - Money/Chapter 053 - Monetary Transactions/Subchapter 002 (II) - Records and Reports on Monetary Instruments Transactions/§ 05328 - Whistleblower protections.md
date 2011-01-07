@@ -36,13 +36,13 @@ Coordination With Other Provisions of Law.—This section shall not apply with r
 
 Section 33 of the Federal Deposit Insurance Act, referred to in subsec. (e), is classified to section 1831j of Title 12, Banks and Banking.
 
-Section 213 of the Federal Credit Union Act, referred to in subsec. (e), is classified to section 1790b of Title 12.
+Section 213 of the Federal Credit Union Act, referred to in subsec. (e), is classified to section 1790b of Title 12, Banks and Banking.
 
-Section 21A(q) of the Home Owners’ Loan Act, referred to in subsec. (e), probably means section 21A(q) of the Federal Home Loan Bank Act, which is classified to section 1441a(q) of Title 12.
+Section 21A(q) of the Home Owners’ Loan Act, referred to in subsec. (e), probably means section 21A(q) of the Federal Home Loan Bank Act, which is classified to section 1441a(q) of Title 12, Banks and Banking.
 
 #### Amendments
 
-2001—Subsecs. (a), (c), (e). Pub. L. 107–56 inserted “or nonfinancial trade or business” after “financial institution” wherever appearing.
+<b>2001</b>—Subsecs. (a), (c), (e). Pub. L. 107–56 inserted “or nonfinancial trade or business” after “financial institution” wherever appearing.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

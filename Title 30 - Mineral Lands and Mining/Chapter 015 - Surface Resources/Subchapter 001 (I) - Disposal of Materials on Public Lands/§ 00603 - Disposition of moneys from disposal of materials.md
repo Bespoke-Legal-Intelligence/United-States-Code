@@ -12,9 +12,9 @@ Act of March 4, 1915 (38 Stat. 1214), referred to in text, is act Mar. 4, 1915, 
 
 #### Amendments
 
-1955—Act July 23, 1955, provided for the disposal of moneys received by the Secretary of Agriculture, and for the disposal of revenues from the lands described in sections 1181a to 1181j of title 43.
+<b>1955</b>—Act July 23, 1955, provided for the disposal of moneys received by the Secretary of Agriculture, and for the disposal of revenues from the lands described in sections 1181a to 1181j of title 43.
 
-1950—Act Aug. 31, 1950, provided for setting apart as separate and permanent funds in the Territorial Treasury moneys received from disposal of materials from school section lands in Alaska.
+<b>1950</b>—Act Aug. 31, 1950, provided for setting apart as separate and permanent funds in the Territorial Treasury moneys received from disposal of materials from school section lands in Alaska.
 
 #### Transfer of Functions
 

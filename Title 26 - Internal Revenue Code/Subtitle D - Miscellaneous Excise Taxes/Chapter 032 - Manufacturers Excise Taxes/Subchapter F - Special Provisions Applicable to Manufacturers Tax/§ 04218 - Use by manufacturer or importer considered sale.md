@@ -16,7 +16,7 @@ Except as provided in section 4223(b), in any case in which a person is made lia
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–369, §735(c)(7)(D), substituted “(other than a tire taxable under section 4071)” for “(other than an article specified in subsection (b), (c), or (d))”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §735(c)(7)(D), substituted “(other than a tire taxable under section 4071)” for “(other than an article specified in subsection (b), (c), or (d))”.
 
 Subsec. (b). Pub. L. 98–369, §735(c)(7)(A), (B), struck out “and tubes” after “Tires” in heading, and in text substituted “If” for “Except as provided in subsection (d), if”, and struck out “or inner tube” before “taxable under section 4071”.
 
@@ -26,25 +26,25 @@ Subsec. (d). Pub. L. 98–369, §735(c)(7)(C), struck out subsec. (d) which rela
 
 Subsec. (e). Pub. L. 98–369, §735(c)(7)(C), redesignated subsec. (e) as (c).
 
-1978—Subsec. (a). Pub. L. 95–227 inserted provisions relating to applying first sentence of this subsection to coal taxable under section 4121 of this title.
+<b>1978</b>—Subsec. (a). Pub. L. 95–227 inserted provisions relating to applying first sentence of this subsection to coal taxable under section 4121 of this title.
 
-1976—Subsec. (e). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (e). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1965—Subsec. (b). Pub. L. 89–44, §208(c)(1), (2), struck out references to automobile receiving sets from heading, and “or an automobile radio or television receiving set taxable under section 4141,” before “and sells it”.
+<b>1965</b>—Subsec. (b). Pub. L. 89–44, §208(c)(1), (2), struck out references to automobile receiving sets from heading, and “or an automobile radio or television receiving set taxable under section 4141,” before “and sells it”.
 
 Subsec. (c). Pub. L. 89–44, §208(c)(3), (4), struck out reference to radio components and camera lenses from heading, and “a radio or television component taxable under section 4141, or a camera lens taxable under section 4171,” before “and uses it”.
 
-1961—Subsec. (a). Pub. L. 87–61 inserted sentence making subsection inapplicable in the case of gasoline used by any person, for nonfuel purposes, as a material in the manufacture or production of another article to be manufactured or produced by him.
+<b>1961</b>—Subsec. (a). Pub. L. 87–61 inserted sentence making subsection inapplicable in the case of gasoline used by any person, for nonfuel purposes, as a material in the manufacture or production of another article to be manufactured or produced by him.
 
-1960—Subsec. (a). Pub. L. 86–418, §2(a)(1), substituted “subsection (b), (c), or (d)” for “subsection (b) or (c)”.
+<b>1960</b>—Subsec. (a). Pub. L. 86–418, §2(a)(1), substituted “subsection (b), (c), or (d)” for “subsection (b) or (c)”.
 
 Subsec. (b). Pub. L. 86–418, §2(a)(2), substituted “Except as provided in subsection (d), if any” for “If any.”
 
 Subsecs. (d), (e). Pub. L. 86–418, §2(a)(3), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1958—Pub. L. 85–859 amended section generally, striking out provisions which related to refrigerator components and to sales free of tax by virtue of section 4220 or 4224 of this title, and substituting provisions making manufacturers, producers and importers of parts or accessories taxable under section 4061(b), radio or television components taxable under section 4141, or camera lenses taxable under section 4171 liable for the tax if they use the parts or accessories otherwise than as material in the manufacture or production of, or as component parts of, any other article to be manufactured or produced by them, for provisions which made section inapplicable with respect to such parts if they were used by them as material in the manufacture or production of, or as a component part of, any article.
+<b>1958</b>—Pub. L. 85–859 amended section generally, striking out provisions which related to refrigerator components and to sales free of tax by virtue of section 4220 or 4224 of this title, and substituting provisions making manufacturers, producers and importers of parts or accessories taxable under section 4061(b), radio or television components taxable under section 4141, or camera lenses taxable under section 4171 liable for the tax if they use the parts or accessories otherwise than as material in the manufacture or production of, or as component parts of, any other article to be manufactured or produced by them, for provisions which made section inapplicable with respect to such parts if they were used by them as material in the manufacture or production of, or as a component part of, any article.
 
-1955—Subsec. (a)(1). Act Aug. 11, 1955, §1(a), inserted as tax exempt articles under this chapter, automobile parts or accessories, refrigerator, radio, or television components, or camera lenses taxable under section 4061(b), 4111, or 4171, respectively, of this title.
+<b>1955</b>—Subsec. (a)(1). Act Aug. 11, 1955, §1(a), inserted as tax exempt articles under this chapter, automobile parts or accessories, refrigerator, radio, or television components, or camera lenses taxable under section 4061(b), 4111, or 4171, respectively, of this title.
 
 Subsec. (b). Act Aug. 11, 1955, §1(b), excepted from application of section automobile parts or accessories, refrigerator, radio, or television components, and camera lenses, taxable under sections 4061(b), 4111, 4141, and 4171, respectively, of this title, when for use by the purchaser in the manufacture or production of, or as a component part of, any article.
 

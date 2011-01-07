@@ -46,7 +46,7 @@ The running of the limitation period under subsection (b) of this section shall 
 
 &emsp;&emsp;(I) the lessee or its designee has failed to respond within a reasonable period of time to the Secretary's or the applicable delegated State's written request for such records necessary for an audit, investigation or other inquiry made in accordance with the Secretary's or such delegated State's responsibilities under this chapter; or
 
-&emsp;&emsp;(II) the lessee or its designee has in writing denied the Secretary's or the applicable delegated State's written request to produce such records in the lessee's or its designee's possession or control necessary for an audit, investigation or other inquiry made in accordance with the Secretary's or such delegated State's responsibilities under this chapter; or
+&emsp;&emsp;(II) the lessee or its designee has in writing denied the Secretary's or the applicable delegated State's written request to producesuch records in the lessee's or its designee's possession or control necessary for an audit, investigation or other inquiry made in accordance with the Secretary's or such delegated State's responsibilities under this chapter; or
 
 &emsp;&emsp;(III) the lessee or its designee has unreasonably delayed in producing records necessary for an audit, investigation or other inquiry made in accordance with the Secretary's or the applicable delegated State's responsibilities under this chapter after the Secretary's or delegated State's written request.
 
@@ -64,7 +64,7 @@ The running of the limitation period under subsection (b) of this section shall 
 
 &emsp;(B)(i) The Secretary or the applicable delegated State may issue an order to perform a restructured accounting to a lessee or its designee when the Secretary or such delegated State determines during an audit of a lessee or its designee that the lessee or its designee should recalculate royalty due on an obligation based upon the Secretary's or the delegated State's finding that the lessee or its designee has made identified underpayments or overpayments which are demonstrated by the Secretary or the delegated State to be based upon repeated, systemic reporting errors for a significant number of leases or a single lease for a significant number of reporting months with the same type of error which constitutes a pattern of violations and which are likely to result in either significant underpayments or overpayments.
 
-&emsp;(ii) The power of the Secretary to issue an order to perform a restructured accounting may not be delegated below the most senior career professional position having responsibility for the royalty management program, which position is currently designated as the “Associate Director for Royalty Management”, and may not be delegated to any other person. If a State has been delegated authoritypursuant to section 1735 of this title, the State, acting through the highest ranking State official having ultimate authority over the collection of royalties from leases on Federal lands within the State, may issue such order to perform, which may not be delegated to any other person. An order to perform a restructured accounting shall—
+&emsp;(ii) The power of the Secretary to issue an order to perform a restructured accounting may not be delegated below the most senior career professional position having responsibility for the royalty management program, which position is currently designated as the “Associate Director for Royalty Management”, and may not be delegated to any other person. If a State has been delegated authority pursuant to section 1735 of this title, the State, acting through the highest ranking State official having ultimate authority over the collection of royalties from leases on Federal lands within the State, may issue such order to perform, which may not be delegated to any other person. An order to perform a restructured accounting shall—
 
 &emsp;&emsp;(I) be issued within a reasonable period of time from when the audit identifies the systemic, reporting errors;
 
@@ -84,7 +84,7 @@ The running of the limitation period under subsection (b) of this section shall 
 
 An action or an enforcement of an obligation by the Secretary or delegated State or a lessee or its designee shall be barred under this section prior to the running of the seven-year period provided in subsection (b) of this section in the event—
 
-&emsp;(1) the Secretary or a delegated State has notified the lessee or its designee in writing that a time period is closed to further audit; or
+&emsp;(1) the Secretary or a delegated State has notified the lessee or its designee in writingthat a time period is closed to further audit; or
 
 &emsp;(2) the Secretary or a delegated State and a lessee or its designee have so agreed in writing.
 
@@ -102,7 +102,7 @@ In order to most effectively utilize resources available to the Secretary to max
 
 #### (1) 33-month period
 
-&emsp;Demands or orders issued by the Secretary or a delegated State are subject to administrative appeal in accordance with the regulations of the Secretary. No State shall impose any conditions which would hinder a lessee's or itsdesignee's immediate appeal of an order to the Secretary or the Secretary's designee. The Secretary shall issue a final decision in any administrative proceeding, including any administrative proceedings pending on August 13, 1996, within 33 months from the date such proceeding was commenced or 33 months from August 13, 1996, whichever is later. The 33-month period may be extended by any period of time agreed upon in writing by the Secretary and the appellant.
+&emsp;Demands or orders issued by the Secretary or a delegated State are subject to administrative appeal in accordance with the regulations of the Secretary. No State shall impose any conditions which would hinder a lessee's or its designee's immediate appeal of an order to the Secretary or the Secretary's designee. The Secretary shall issue a final decision in any administrative proceeding, including any administrative proceedings pending on August 13, 1996, within 33 months from the date such proceeding was commenced or 33 months from August 13, 1996, whichever is later. The 33-month period may be extended by any period of time agreed upon in writing by the Secretary and the appellant.
 
 #### (2) Effect of failure to issue decision
 
@@ -122,7 +122,7 @@ In the event a demand subject to this section is properly and timely commenced, 
 
 #### (k) Implementation of final decision
 
-In the event a judicial proceeding or demand subject to this section is timely commenced and thereafter the limitation period in this section lapses during the pendency of such proceeding, any party to such proceeding shall not be barred from taking such action as is required or necessary to implement a final unappealable judicial or administrative decision, including any action required or necessary to implement such decision by the recovery or recoupment of an underpayment or overpayment by means of refund or credit.
+In the event a judicial proceeding or demand subject to this section is timely commenced andthereafter the limitation period in this section lapses during the pendency of such proceeding, any party to such proceeding shall not be barred from taking such action as is required or necessary to implement a final unappealable judicial or administrative decision, including any action required or necessary to implement such decision by the recovery or recoupment of an underpayment or overpayment by means of refund or credit.
 
 #### (<i>l</i>) Stay of payment obligation pending review
 
@@ -136,7 +136,7 @@ Pub. L. 104–185, §4(a), which directed the addition of this section after sec
 
 #### Amendments
 
-1996—Subsec. (<i>l</i>). Pub. L. 104–200 inserted “so” after “the person is not able to”.
+<b>1996</b>—Subsec. (<i>l</i>). Pub. L. 104–200 inserted “so” after “the person is not able to”.
 
 #### Effective Date
 

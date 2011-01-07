@@ -20,7 +20,7 @@ Whenever the promulgating authority determines that regulations containing prohi
 
 &emsp;(4) prevent the nonfunctional-slack-fill of packages containing consumer commodities.
 
-> For purposes of paragraph (4) of this subsection, a package shall be deemed to be nonfunctionally slack-filled if it is filled to substantially less than its capacity for reasons other than (A) protection of the contents of such package or (B)the requirements of machines used for enclosing the contents in such package.
+> For purposes of paragraph (4) of this subsection, a package shall be deemed to be nonfunctionally slack-filled if it is filled to substantially less than its capacity for reasons other than (A) protection of the contents of such package or (B) the requirements of machines used for enclosing the contents in such package.
 
 #### (d) Development by manufacturers, packers, and distributors of voluntary product standards
 
@@ -34,7 +34,7 @@ If (1) after one year after the date on which the Secretary of Commerce first ma
 
 #### Amendments
 
-1992—Pub. L. 102–245, §107(a)(1), (2), (b), which directed amendment of section, effective two years after Feb. 14, 1992, by substituting “weight or mass” for “weight” in subsec. (c)(1) and “weights or masses” for “weights” in subsec. (d), was repealed by Pub. L. 102–329, §3.
+<b>1992</b>—Pub. L. 102–245, §107(a)(1), (2), (b), which directed amendment of section, effective two years after Feb. 14, 1992, by substituting “weight or mass” for “weight” in subsec. (c)(1) and “weights or masses” for “weights” in subsec. (d), was repealed by Pub. L. 102–329, §3.
 
 Subsec. (c)(1). Pub. L. 102–329, §1(1), substituted “weight or mass” for “weight”.
 

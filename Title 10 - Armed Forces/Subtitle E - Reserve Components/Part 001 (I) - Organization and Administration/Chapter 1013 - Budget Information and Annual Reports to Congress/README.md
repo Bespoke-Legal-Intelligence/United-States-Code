@@ -10,7 +10,7 @@
 
 #### Amendments
 
-1996—Pub. L. 104–201, title XII, §1257(a)(2), Sept. 23, 1996, 110 Stat. 2699, added item 10543.
+<b>1996</b>—Pub. L. 104–201, title XII, §1257(a)(2), Sept. 23, 1996, 110 Stat. 2699, added item 10543.
 
 
 ---

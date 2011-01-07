@@ -38,13 +38,13 @@ Availability of Appropriations.—Amounts appropriated under—
 
 &emsp;&emsp;(C) personal and other services (including temporary labor without regard to chapter 51, subchapter III of chapter 53, and subchapter III of chapter 83, of title 5); and
 
-&emsp;&emsp;(D) without compliance with section 3709 of the Revised Statutes (41 U.S.C. 5)—
+&emsp;&emsp;(D) without compliance with section 6101(b) to (d) of title 41—
 
 &emsp;&emsp;&emsp;(i) for snow removal (by hire of personnel and equipment or under contract); and
 
 &emsp;&emsp;&emsp;(ii) for the replacement of electrical transformers containing polychlorinated biphenyls.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1180; Pub. L. 109–284, §6(18), Sept. 27, 2006, 120 Stat. 1213.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1180; Pub. L. 109–284, §6(18), Sept. 27, 2006, 120 Stat. 1213; Pub. L. 111–350, §5(<i>l</i>)(22), Jan. 4, 2011, 124 Stat. 3852.)
 
 Historical and Revision Notes
 
@@ -78,5 +78,7 @@ In subsection (b)(2), before subclause (A), the words “That for fiscal year 19
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–284 struck out second period at end of heading.
+<b>2011</b>—Subsec. (b)(2)(D). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes (41 U.S.C. 5)”.
+
+<b>2006</b>—Subsec. (b). Pub. L. 109–284 struck out second period at end of heading.
 

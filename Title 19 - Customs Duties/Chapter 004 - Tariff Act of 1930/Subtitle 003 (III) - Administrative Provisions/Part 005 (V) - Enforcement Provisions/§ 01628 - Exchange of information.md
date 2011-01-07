@@ -30,7 +30,7 @@ The Secretary may authorize the Customs Service to exchange information with any
 
 #### Amendments
 
-1993—Subsec. (c). Pub. L. 103–182 added subsec. (c).
+<b>1993</b>—Subsec. (c). Pub. L. 103–182 added subsec. (c).
 
 #### Effective Date of 1993 Amendment
 

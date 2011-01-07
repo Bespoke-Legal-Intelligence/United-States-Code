@@ -52,9 +52,9 @@ Subsection (d) is substituted for section 301(e) of existing title 37.
 
 #### Amendments
 
-1999—Subsec. (b). Pub. L. 106–65 designated existing provisions as par. (1) and added par. (2).
+<b>1999</b>—Subsec. (b). Pub. L. 106–65 designated existing provisions as par. (1) and added par. (2).
 
-1991—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 
 #### Effective Date of 1999 Amendment
 

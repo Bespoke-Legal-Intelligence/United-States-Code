@@ -44,3 +44,5 @@ Any manufacturer of manufactured housing that violates a provision of the regula
 
 (Pub. L. 110–140, title IV, §413, Dec. 19, 2007, 121 Stat. 1601.)
 
+<i><sup>1</sup></i><i> So in original. Probably should be “Code”.</i>
+

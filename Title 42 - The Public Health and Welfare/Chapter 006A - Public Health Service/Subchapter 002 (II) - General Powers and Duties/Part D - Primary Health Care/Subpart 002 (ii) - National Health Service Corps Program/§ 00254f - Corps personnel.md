@@ -10,7 +10,7 @@
 
 &emsp;(C) the entity agrees to comply with the requirements of section 254g of this title; and
 
-&emsp;(D) the Secretary has (i) conducted an evaluation of the need and demand for health manpower for the area, the intended use of Corps members to be assigned to the area, community support for the assignment of Corps members to the area, the area's efforts to secure health manpower for the area, and the fiscal management capability of the entity to which Corps members would be assigned and (ii) on the basis of such evaluation has determined that—
+&emsp;(D) the Secretary has (i) conducted an evaluation of the need and demand for health manpower for the area, the intended use of Corps members to be assigned to the area, community support for the assignment of Corps members to the area, the area's efforts to securehealth manpower for the area, and the fiscal management capability of the entity to which Corps members would be assigned and (ii) on the basis of such evaluation has determined that—
 
 &emsp;&emsp;(I) there is a need and demand for health manpower for the area;
 
@@ -44,7 +44,7 @@ The Secretary shall assign Corps members to entities in health professional shor
 
 #### (d) Entities entitled to aid; forms of assistance; coordination of efforts; agreements for assignment of Corps members; qualified entity
 
-(1) The Secretary may provide technical assistance to a public or private entity which is located in a health professional shortage area and which desires to make an application under this section for assignment of a Corps member to such area. Assistance provided under this paragraph may include assistance to an entity in (A) analyzing the potential use of health professions personnel in defined health services delivery areas by the residents of such areas, (B)determining the need for such personnel in such areas, (C) determining the extent to which such areas will have a financial base to support the practice of such personnel and the extent to which additional financial resources are needed to adequately support the practice, (D) determining the types of inpatient and other health services that should be provided by such personnel in such areas, and (E) developing long-term plans for addressing health professional shortages and improving access to health care. The Secretary shall encourage entities that receive technical assistance under this paragraph to communicate with other communities, State Offices of Rural Health, State Primary Care Associations and Offices, and other entities concerned with site development and community needs assessment.
+(1) The Secretary may provide technical assistance to a public or private entity which is located in a health professional shortage area and which desires to make an application under this section for assignment of a Corps member to such area. Assistance provided under this paragraph may include assistance to an entity in (A) analyzing the potential use of health professions personnel in defined health services delivery areas by the residents of such areas, (B) determining the need for such personnel in such areas, (C) determining the extent to which such areas will have a financial base to support the practice of such personnel and the extent to which additional financial resources are needed to adequately support the practice, (D) determining the types of inpatient and other health services that should be provided by such personnel in such areas, and (E) developing long-term plans for addressing health professional shortages and improving access to health care. The Secretary shall encourage entities that receive technical assistance under this paragraph to communicate with other communities, State Offices of Rural Health, State Primary Care Associations and Offices, and other entities concerned with site development and community needs assessment.
 
 (2) The Secretary may provide, to public and private entities which are located in a health professional shortage area to which area a Corps member has been assigned, technical assistance to assist in the retention of such member in such area after the completion of such member's assignment to the area.
 
@@ -82,11 +82,11 @@ Notwithstanding any other law, any member of the Corps licensed to practice medi
 
 #### Amendments
 
-2008—Subsec. (a)(1)(D)(ii)(VI). Pub. L. 110–355 added subcl. (VI).
+<b>2008</b>—Subsec. (a)(1)(D)(ii)(VI). Pub. L. 110–355 added subcl. (VI).
 
-2003—Subsec. (a)(1)(C). Pub. L. 108–163 realigned margin.
+<b>2003</b>—Subsec. (a)(1)(C). Pub. L. 108–163 realigned margin.
 
-2002—Subsec. (a)(1). Pub. L. 107–251, §303(1)(A)(i), struck out “(specified in the agreement described in section 254g of this title)” after “assignment period” in introductory provisions.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–251, §303(1)(A)(i), struck out “(specified in the agreement described in section 254g of this title)” after “assignment period” in introductory provisions.
 
 Subsec. (a)(1)(A). Pub. L. 107–251, §303(1)(A)(ii), struck out “nonprofit” before “private entity”.
 
@@ -100,7 +100,7 @@ Subsec. (d)(2). Pub. L. 107–251, §303(2)(A), struck out “nonprofit” befor
 
 Subsec. (d)(4). Pub. L. 107–251, §303(2)(A), struck out “nonprofit” before “private entities” in introductory provisions of subpar. (A) and before “private entity” in introductory provisions of subpar. (B).
 
-1990—Subsec. (a)(1). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in introductory and closing provisions.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in introductory and closing provisions.
 
 Subsec. (a)(1)(D)(ii)(II). Pub. L. 101–597, §103(a), substituted “has been” and “any Corps” for “will be” and “Corps”, respectively.
 
@@ -126,13 +126,13 @@ Subsec. (i). Pub. L. 101–597, §103(b)(2), redesignated subsec. (i) as (e).
 
 Subsecs. (j), (k). Pub. L. 101–597, §103(b)(1), struck out subsecs. (j) and (k) which provided for placement of physicians in medically underserved areas and assignment of family physicians, respectively.
 
-1988—Subsec. (i). Pub. L. 100–607 substituted “osteopathic medicine” for “osteopathy”.
+<b>1988</b>—Subsec. (i). Pub. L. 100–607 substituted “osteopathic medicine” for “osteopathy”.
 
-1987—Subsec. (j). Pub. L. 100–177, §303, added subsec. (j).
+<b>1987</b>—Subsec. (j). Pub. L. 100–177, §303, added subsec. (j).
 
 Subsec. (k). Pub. L. 100–177, §304, added subsec. (k).
 
-1981—Subsec. (a). Pub. L. 97–35, §2703(a), (b), amended par. (1)(D) generally and, among changes, made numerous changes in nomenclature, inserted at end of par. (1) provisions respecting application, and added par. (3).
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §2703(a), (b), amended par. (1)(D) generally and, among changes, made numerous changes in nomenclature, inserted at end of par. (1) provisions respecting application, and added par. (3).
 
 Subsec. (c). Pub. L. 97–35, §2703(c), struck out par. (2) which related to special considerations, and redesignated pars. (3) and (4) as (2) and (3), respectively.
 

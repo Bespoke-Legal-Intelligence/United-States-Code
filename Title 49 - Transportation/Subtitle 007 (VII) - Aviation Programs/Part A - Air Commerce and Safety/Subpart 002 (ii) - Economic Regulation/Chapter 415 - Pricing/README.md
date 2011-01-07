@@ -18,9 +18,7 @@
 
 #### Amendments
 
-1997—Pub. L. 105–102, §2(21), Nov. 20, 1997, 111 Stat. 2205, struck out “common” before “carriers” in item 41502.
-
-<i><sup>1</sup></i><i> So in original. The words “the foreign air carrier” probably should not appear.</i>
+<b>1997</b>—Pub. L. 105–102, §2(21), Nov. 20, 1997, 111 Stat. 2205, struck out “common” before “carriers” in item 41502.
 
 
 ---

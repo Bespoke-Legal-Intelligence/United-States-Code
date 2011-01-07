@@ -6,13 +6,13 @@
 
 (2) No internship may be provided by the Secretary and no grant may be made or contract entered into by the Secretary for the provision of internships unless an application therefor has been submitted to and approved by the Secretary. Such an application shall be in such form and contain such information, and be submitted to the Secretary in such manner, as the Secretary shall prescribe. Section 300e–5 of this title does not apply to an application submitted under this section.
 
-(3) Internships under the Program shall provide for such stipends and allowances (including travel and subsistence expenses and dependency allowances) for the recipients of the internships as the Secretary deems necessary. An internship provided an individual for training at a health maintenance organization or any other entity shall also provide for payments to be made to the organization or other entity for the cost ofsupport services (including the cost of salaries, supplies, equipment, and related items) provided such individual by such organization or other entity. The amount of any such payments to any organization or other entity shall be determined by the Secretary and shall bear a direct relationship to the reasonable costs of the organization or other entity for establishing and maintaining its training programs.
+(3) Internships under the Program shall provide for such stipends and allowances (including travel and subsistence expenses and dependency allowances) for the recipients of the internships as the Secretary deems necessary. An internship provided an individual for training at a health maintenance organization or any other entity shall also provide for payments to be made to the organization or other entity for the cost of support services (including the cost of salaries, supplies, equipment, and related items) provided such individual by such organization or other entity. The amount of any such payments to any organization or other entity shall be determined by the Secretary and shall bear a direct relationship to the reasonable costs of the organization or other entity for establishing and maintaining its training programs.
 
 (4) Payments under grants under the Program may be made in advance or by way of reimbursement, and at such intervals and on such conditions, as the Secretary finds necessary.
 
 #### (b) Technical assistance
 
-The Secretary shall provide technical assistance (1) to entities intending to become a qualified health maintenance organization within the meaning of section 300e–9(d) <sup>1</sup> of this title, and (2) to health maintenance organizations. The Secretary may provide such technical assistance through grants to public and nonprofit private entities and contracts with public and private entities.
+The Secretary shall provide technical assistance (1) to entities intending to become a qualified health maintenance organization within the meaning of section 300e–9(d) <sup>1</sup> of this title, and (2) to health maintenance organizations. The Secretary may provide such technical assistance through grants to public and nonprofit privateentities and contracts with public and private entities.
 
 #### (c) Amounts provided in advance in appropriation acts
 
@@ -26,7 +26,7 @@ Section 300e–9(d) of this title, referred to in subsec. (b), was redesignated 
 
 #### Amendments
 
-1986—Subsec. (b). Pub. L. 99–660 redesignated cls. (2) and (3) as (1) and (2), respectively, and struck out former cl. (1) which read as follows: “to entities in connection with projects for which assistance is being provided under section 300e–2 or 300e–3 of this title,”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–660 redesignated cls. (2) and (3) as (1) and (2), respectively, and struck out former cl. (1) which read as follows: “to entities in connection with projects for which assistance is being provided under section 300e–2 or 300e–3 of this title,”.
 
 #### Effective Date of 1986 Amendment
 

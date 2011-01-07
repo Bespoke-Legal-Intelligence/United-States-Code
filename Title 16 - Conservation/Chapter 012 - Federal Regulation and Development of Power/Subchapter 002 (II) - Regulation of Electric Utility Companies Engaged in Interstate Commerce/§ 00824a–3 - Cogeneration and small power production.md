@@ -36,7 +36,7 @@ For purposes of this section, the term “incremental cost of alternative electr
 
 (1) Not later than 1 year after November 9, 1978, and from time to time thereafter, the Commission shall, after consultation with representatives of State regulatory authorities, electric utilities, owners of cogeneration facilities and owners of small power production facilities, and after public notice and a reasonable opportunity for interested persons (including State and Federal agencies) to submit oral as well as written data, views, and arguments, prescribe rules under which geothermal small power production facilities of not more than 80 megawatts capacity, qualifying cogeneration facilities, and qualifying small power production facilities are exempted in whole or part from the Federal Power Act \[16 U.S.C. 791a et seq.\], from the Public Utility Holding Company Act,<sup>2</sup> from State laws and regulations respecting the rates, or respecting the financial or organizational regulation, of electric utilities, or from any combination of the foregoing, if the Commission determines such exemption is necessary to encourage cogeneration and small power production.
 
-(2) No qualifying small power production facility (other than a qualifying small power production facility which is an eligible solar, wind, waste, or geothermal facility as defined in section 3(17)(E) of the Federal Power Act \[16 U.S.C. 796(17)(E)\]) which has a power production capacity which, together with any other facilities located at the same site (as determined by the Commission), exceeds 30 megawatts, or 80 megawatts for a qualifying small power production facility using geothermal energy as the primary energy source, may be exempted under rulesunder paragraph (1) from any provision of law or regulation referred to in paragraph (1), except that any qualifying small power production facility which produces electric energy solely by the use of biomass as a primary energy source, may be exempted by the Commission under such rules from the Public Utility Holding Company Act <sup>2</sup> and from State laws and regulations referred to in such paragraph (1).
+(2) No qualifying small power production facility (other than a qualifying small power production facility which is an eligible solar, wind, waste, or geothermal facility as defined in section 3(17)(E) of the Federal Power Act \[16 U.S.C. 796(17)(E)\]) which has a power production capacity which, together with any other facilities located at the same site (as determined by the Commission), exceeds 30 megawatts, or 80 megawatts for a qualifying small power production facility using geothermal energy as the primary energy source, may be exempted under rules under paragraph (1) from any provision of law or regulation referred to in paragraph (1), except that any qualifying small power production facility which produces electric energy solely by the use of biomass as a primary energy source, may be exempted by the Commission under such rules from the Public Utility Holding Company Act <sup>2</sup> and from State laws and regulations referred to in such paragraph (1).
 
 (3) No qualifying small power production facility or qualifying cogeneration facility may be exempted under this subsection from—
 
@@ -60,7 +60,7 @@ For purposes of this section, the term “incremental cost of alternative electr
 
 #### (h) Commission enforcement
 
-(1) For purposes of enforcement of any rule prescribed by the Commission under subsection (a) of this section with respect to any operations of an electric utility, a qualifying cogeneration facility or a qualifying small power production facility which are subject to the jurisdiction of the Commission under part II of the Federal Power Act \[16 U.S.C. 824 et seq.\], such rule shall be treated as a rule under the Federal Power Act \[16 U.S.C. 791a et seq.\]. Nothing in subsection (g) of this section shall apply to so much of the operations of an electric utility, a qualifying cogeneration facility or a qualifying small power production facility as are subject to the jurisdiction of the Commission under part II of the Federal Power Act.
+(1) For purposes of enforcement of any rule prescribed by the Commission under subsection (a) of this section with respect to any operationsof an electric utility, a qualifying cogeneration facility or a qualifying small power production facility which are subject to the jurisdiction of the Commission under part II of the Federal Power Act \[16 U.S.C. 824 et seq.\], such rule shall be treated as a rule under the Federal Power Act \[16 U.S.C. 791a et seq.\]. Nothing in subsection (g) of this section shall apply to so much of the operations of an electric utility, a qualifying cogeneration facility or a qualifying small power production facility as are subject to the jurisdiction of the Commission under part II of the Federal Power Act.
 
 (2)(A) The Commission may enforce the requirements of subsection (f) of this section against any State regulatory authority or nonregulated electric utility. For purposes of any such enforcement, the requirements of subsection (f)(1) of this section shall be treated as a rule enforceable under the Federal Power Act \[16 U.S.C. 791a et seq.\]. For purposes of any such action, a State regulatory authority or nonregulated electric utility shall be treated as a person within the meaning of the Federal Power Act. No enforcement action may be brought by the Commission under this section other than—
 
@@ -76,7 +76,7 @@ No contract between a Federal agency and any electric utility for the sale of el
 
 #### (j) New dams and diversions
 
-Except for a hydroelectric project located at a Government dam (as defined in section 3(10) of the Federal Power Act \[16 U.S.C. 796(10)\]) at which non-Federal hydroelectric development is permissible, this section shall not apply to any hydroelectric project which impounds or divertsthe water of a natural watercourse by means of a new dam or diversion unless the project meets each of the following requirements:
+Except for a hydroelectric project located at a Government dam (as defined in section 3(10) of the Federal Power Act \[16 U.S.C. 796(10)\]) at which non-Federal hydroelectric development is permissible, this section shall not apply to any hydroelectric project which impounds or diverts the water of a natural watercourse by means of a new dam or diversion unless the project meets each of the following requirements:
 
 #### (1) No substantial adverse effects
 
@@ -126,7 +126,7 @@ For purposes of this section, the terms “small power production facility”, �
 
 #### (3) Commission review
 
-&emsp;Any electric utility may file an application with the Commission for relief from the mandatory purchase obligation pursuant to this subsection on a service territory-wide basis. Such application shall set forth the factual basis upon which relief is requested and describe why the conditions set forth in subparagraph (A), (B), or (C) of paragraph (1) of this subsection have been met. After notice, including sufficient notice to potentially affected qualifying cogeneration facilities and qualifying small power production facilities,and an opportunity for comment, the Commission shall make a final determination within 90 days of such application regarding whether the conditions set forth in subparagraph (A), (B), or (C) of paragraph (1) have been met.
+&emsp;Any electric utility may file an application with the Commission for relief from the mandatory purchase obligation pursuant to this subsection on a service territory-wide basis. Such application shall set forth the factual basis upon which relief is requested and describe why the conditions set forth in subparagraph (A), (B), or (C) of paragraph (1) of this subsection have been met. After notice, including sufficient notice to potentially affected qualifying cogeneration facilities and qualifying small power production facilities, and an opportunity for comment, the Commission shall make a final determination within 90 days of such application regarding whether the conditions set forth in subparagraph (A), (B), or (C) of paragraph (1) have been met.
 
 #### (4) Reinstatement of obligation to purchase
 
@@ -148,7 +148,7 @@ For purposes of this section, the terms “small power production facility”, �
 
 &emsp;(A) The Commission shall issue and enforce such regulations as are necessary to ensure that an electric utility that purchases electric energy or capacity from a qualifying cogeneration facility or qualifying small power production facility in accordance with any legally enforceable obligation entered into or imposed under this section recovers all prudently incurred costs associated with the purchase.
 
-&emsp;(B) A regulation under subparagraph (A) shall be enforceable in accordance with the provisions of law applicable to enforcement of regulations under the Federal Power Act (16 U.S.C. 791a et seq.).
+&emsp;(B) A regulation under subparagraph (A) shall be enforceable in accordance with theprovisions of law applicable to enforcement of regulations under the Federal Power Act (16 U.S.C. 791a et seq.).
 
 #### (n) Rulemaking for new qualifying facilities
 
@@ -188,13 +188,13 @@ August 8, 2005, referred to in subsec. (n)(1)(A), was in the original “the dat
 
 #### Amendments
 
-2005—Subsecs. (m), (n). Pub. L. 109–58 added subsecs. (m) and (n).
+<b>2005</b>—Subsecs. (m), (n). Pub. L. 109–58 added subsecs. (m) and (n).
 
-1990—Subsec. (e)(2). Pub. L. 101–575 inserted “(other than a qualifying small power production facility which is an eligible solar, wind, waste, or geothermal facility as defined in section 3(17)(E) of the Federal Power Act)” after first reference to “facility”.
+<b>1990</b>—Subsec. (e)(2). Pub. L. 101–575 inserted “(other than a qualifying small power production facility which is an eligible solar, wind, waste, or geothermal facility as defined in section 3(17)(E) of the Federal Power Act)” after first reference to “facility”.
 
-1986—Subsecs. (j) to (<i>l</i>). Pub. L. 99–495 added subsecs. (j) and (k) and redesignated former subsec. (j) as (<i>l</i>).
+<b>1986</b>—Subsecs. (j) to (<i>l</i>). Pub. L. 99–495 added subsecs. (j) and (k) and redesignated former subsec. (j) as (<i>l</i>).
 
-1980—Subsec. (a). Pub. L. 96–294, §643(b)(1), inserted provisions relating to encouragement of geothermal small power production facilities.
+<b>1980</b>—Subsec. (a). Pub. L. 96–294, §643(b)(1), inserted provisions relating to encouragement of geothermal small power production facilities.
 
 Subsec. (e)(1). Pub. L. 96–294, §643(b)(2), inserted provisions relating to applicability to geothermal small power production facilities.
 
@@ -210,7 +210,7 @@ Section 8(b) of Pub. L. 99–495 provided that:
 
 “(3) Paragraphs (1) and (3) of such subsection (j) shall not apply if the application for the license or exemption for the project was filed before the enactment of this Act \[Oct. 16, 1986\] and accepted for filing by the Commission (in accordance with the Commission's regulations and procedures in effect on January 1, 1986, including those relating to the requirement for environmental consultation) within 3 years after such enactment.
 
-“(4)(A) Paragraph (3) of subsection (j) shall not apply for projects where the license or exemption application was filed after enactment of this Act \[Oct. 16, 1986\] if, based on a petition filed by the applicant for such project within 18 months after such enactment, the Commission determines (after public notice and opportunity for public comment of at least 45 days) that the applicant has demonstrated that he had committed (prior to the enactment of this Act) substantial monetary resources directly related to the development of the project and to the diligent and timely completion of all requirements of the Commission for filing an acceptable application for license or exemption. Such petition shall be publicly available and shall be filed in such form as the Commission shall require by rule issued within 120 days after the enactment of this Act. The public notice required under this subparagraph shall include written notice by the petitioner to affected Federal and State agencies.
+“(4)(A) Paragraph (3) of subsection (j) shall not apply for projects where the license or exemption application was filed after enactment of this Act \[Oct. 16, 1986\] if, based on a petition filed by the applicant for such project within 18 months after such enactment, the Commission determines (after public notice and opportunity for public comment of at least 45 days) that the applicant has demonstrated that he had committed (prior to the enactment of this Act) substantial monetary resources directly related to the development ofthe project and to the diligent and timely completion of all requirements of the Commission for filing an acceptable application for license or exemption. Such petition shall be publicly available and shall be filed in such form as the Commission shall require by rule issued within 120 days after the enactment of this Act. The public notice required under this subparagraph shall include written notice by the petitioner to affected Federal and State agencies.
 
 “(B) In the case of any petition referred to in subparagraph (A), if the applicant had a preliminary permit and had completed environmental consultations (required by Commission regulations and procedures in effect on January 1, 1986) prior to enactment, there shall be a rebuttable presumption that such applicant had committed substantial monetary resources prior to enactment.
 

@@ -20,7 +20,7 @@ For purposes of determining eligibility for and the amount of benefits under thi
 
 &emsp;(B) The amount determined under subparagraph (A) shall be reduced by an amount equal to (i) the applicable amount determined under section 1382(a)(3)(B) of this title in the case of a sponsor who has no spouse with whom he is living, or (ii) the applicable amount determined under section 1382(a)(3)(A) of this title in the case of a sponsor who has a spouse with whom he is living.
 
-&emsp;(C) The resources of such sponsor (and spouse) as determined under subparagraphs (A) and (B) shall be deemed to be resources of such alien in addition to any resources of such alien.
+&emsp;(C) The resources of such sponsor (and spouse) as determined under subparagraphs\(A) and (B) shall be deemed to be resources of such alien in addition to any resources of such alien.
 
 #### (c) Support and maintenance
 
@@ -34,7 +34,7 @@ In determining the amount of income of an alien during the period of 3 years aft
 
 #### (e) Joint and several liability of alien and sponsor for overpayments
 
-Any sponsor of an alien, and such alien, shall be jointly and severally liable for an amount equal to any overpayment made to such alien during the period of 3 years after such alien'sentry into the United States, on account of such sponsor's failure to provide correct information under the provisions of this section, except where such sponsor was without fault, or where good cause for such failure existed. Any such overpayment which is not repaid to the Commissioner of Social Security or recovered in accordance with section 1383(b) of this title shall be withheld from any subsequent payment to which such alien or such sponsor is entitled under any provision of this chapter.
+Any sponsor of an alien, and such alien, shall be jointly and severally liable for an amount equal to any overpayment made to such alien during the period of 3 years after such alien's entry into the United States, on account of such sponsor's failure to provide correct information under the provisions of this section, except where such sponsor was without fault, or where good cause for such failure existed. Any such overpayment which is not repaid to the Commissioner of Social Security or recovered in accordance with section 1383(b) of this title shall be withheld from any subsequent payment to which such alien or such sponsor is entitled under any provision of this chapter.
 
 #### (f) Exemptions
 
@@ -58,13 +58,13 @@ Section 1153(a)(7) of title 8, referred to in subsec. (f)(2)(A), to be deemed a 
 
 #### Amendments
 
-1994—Subsecs. (d), (e). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary” wherever appearing, except where appearing before “of State” in subsec. (d)(2).
+<b>1994</b>—Subsecs. (d), (e). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary” wherever appearing, except where appearing before “of State” in subsec. (d)(2).
 
-1993—Pub. L. 103–152, §7(b)(1), substituted “3 years” for “5 years” in subsecs. (a), (c), (d)(1), and (e).
+<b>1993</b>—Pub. L. 103–152, §7(b)(1), substituted “3 years” for “5 years” in subsecs. (a), (c), (d)(1), and (e).
 
 Pub. L. 103–152, §7(a)(1), substituted “5 years” for “three years” in subsecs. (a), (c), (d)(1), and (e).
 
-1984—Subsec. (b)(2)(B). Pub. L. 98–369, §2611(d), substituted “the applicable amount determined under section 1382(a)(3)(B) of this title” for “$1,500” and “the applicable amount determined under section 1382(a)(3)(A) of this title” for “$2,250”.
+<b>1984</b>—Subsec. (b)(2)(B). Pub. L. 98–369, §2611(d), substituted “the applicable amount determined under section 1382(a)(3)(B) of this title” for “$1,500” and “the applicable amount determined under section 1382(a)(3)(A) of this title” for “$2,250”.
 
 Subsec. (e). Pub. L. 98–369, §2663(g)(10), substituted “severally” for “severably”.
 

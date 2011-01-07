@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(B) the integrity, objectivity, impartiality, utility, and confidentiality of information collected for statistical purposes;
 
-&emsp;(2) ensure that budget proposals of agencies are consistent with system-wide priorities for maintaining and improving the quality of Federal statistics and prepare an annual report on statistical program funding;
+&emsp;(2) ensure that budget proposals of agencies are consistent with system-wide priorities formaintaining and improving the quality of Federal statistics and prepare an annual report on statistical program funding;
 
 &emsp;(3) develop and oversee the implementation of Governmentwide policies, principles, standards, and guidelines concerning—
 
@@ -140,7 +140,7 @@
 
 &emsp;(5) promote the use of information technology by the Federal Government to improve the productivity, efficiency, and effectiveness of Federal programs, including through dissemination of public information and the reduction of information collection burdens on the public.
 
-(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 167; amended Pub. L. 104–106, div. E, title LI, §5131(e)(1), title LVI, §5605(b), (c), Feb. 10, 1996, 110 Stat. 688, 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(B), (C), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 105–277, div. C, title XVII, §1702, Oct. 21, 1998, 112 Stat. 2681–749; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–198, §2(a), June 28, 2002, 116 Stat. 729; Pub. L. 107–217, §3(<i>l</i>)(5), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 107–296, title X, §1005(c)(1), Nov. 25, 2002, 116 Stat. 2272; Pub. L. 107–347, title III, §305(c)(1), Dec. 17, 2002, 116 Stat. 2960.)
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 167; amended Pub. L. 104–106, div. E, title LI, §5131(e)(1), title LVI, §5605(b), (c), Feb. 10, 1996, 110 Stat. 688, 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(B), (C), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 105–277, div. C, title XVII, §1702, Oct. 21, 1998, 112 Stat. 2681–749; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654,1654A–275; Pub. L. 107–198, §2(a), June 28, 2002, 116 Stat. 729; Pub. L. 107–217, §3(<i>l</i>)(5), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 107–296, title X, §1005(c)(1), Nov. 25, 2002, 116 Stat. 2272; Pub. L. 107–347, title III, §305(c)(1), Dec. 17, 2002, 116 Stat. 2960.)
 
 #### References in Text
 
@@ -156,7 +156,7 @@ Another prior section 3504, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1303, prov
 
 #### Amendments
 
-2002—Subsec. (c)(6). Pub. L. 107–198 added par. (6).
+<b>2002</b>—Subsec. (c)(6). Pub. L. 107–198 added par. (6).
 
 Subsec. (g)(1). Pub. L. 107–296, §1005(c)(1)(A), and Pub. L. 107–347, §305(c)(1)(A), amended par. (1) identically, inserting “and” at end.
 
@@ -174,15 +174,15 @@ Subsec. (h)(1)(B). Pub. L. 107–217, §3(<i>l</i>)(5)(C), substituted “sectio
 
 Subsec. (h)(2). Pub. L. 107–217, §3(<i>l</i>)(5)(D), substituted “subtitle III of title 40” for “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” and “section 322 of title 40” for “section 110 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 757)”.
 
-2000—Subsecs. (a)(2), (d)(2), (f)(1). Pub. L. 106–398 substituted “subchapter” for “chapter”.
+<b>2000</b>—Subsecs. (a)(2), (d)(2), (f)(1). Pub. L. 106–398 substituted “subchapter” for “chapter”.
 
-1998—Subsec. (a)(1)(B)(vi). Pub. L. 105–277 amended cl. (vi) generally. Prior to amendment, cl. (vi) read as follows: “the acquisition and use of information technology.”
+<b>1998</b>—Subsec. (a)(1)(B)(vi). Pub. L. 105–277 amended cl. (vi) generally. Prior to amendment, cl. (vi) read as follows: “the acquisition and use of information technology.”
 
-1997—Subsecs. (g)(2), (3), (h)(1)(B). Pub. L. 105–85, §1073(h)(5)(C), substituted “Clinger-Cohen Act of 1996 (40 U.S.C. 1441)” for “Information Technology Management Reform Act of 1996”.
+<b>1997</b>—Subsecs. (g)(2), (3), (h)(1)(B). Pub. L. 105–85, §1073(h)(5)(C), substituted “Clinger-Cohen Act of 1996 (40 U.S.C. 1441)” for “Information Technology Management Reform Act of 1996”.
 
 Subsec. (h)(2). Pub. L. 105–85, §1073(h)(5)(B), substituted “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” for “the Information Technology Management Reform Act of 1996”.
 
-1996—Subsec. (g)(2). Pub. L. 104–106, §5131(e)(1)(A), substituted “sections 20 and 21 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3 and 278g–4), section 5131 of the Information Technology Management Reform Act of 1996, and sections 5 and 6 of the Computer Security Act of 1987 (40 U.S.C. 759 note)” for “the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
+<b>1996</b>—Subsec. (g)(2). Pub. L. 104–106, §5131(e)(1)(A), substituted “sections 20 and 21 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3 and 278g–4), section 5131 of the Information Technology Management Reform Act of 1996, and sections 5 and 6 of the Computer Security Act of 1987 (40 U.S.C. 759 note)” for “the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
 
 Subsec. (g)(3). Pub. L. 104–106, §5131(e)(1)(B), substituted “the standards and guidelines promulgated under section 5131 of the Information Technology Management Reform Act of 1996 and sections 5 and 6 of the Computer Security Act of 1987 (40 U.S.C. 759 note)” for “the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
 
@@ -220,7 +220,7 @@ Pub. L. 105–277, div. C, title XVII, Oct. 21, 1998, 112 Stat. 2681–749, prov
 
 “(a)
 
-In General.—In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Amendment note set out under 41 U.S.C. 251\] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall, in consultation with the National Telecommunications and Information Administration and not later than 18 months after the date of enactment of this Act \[Oct. 21, 1998\], develop procedures for the use and acceptance of electronic signatures by Executive agencies.
+In General.—In order to fulfill the responsibility to administer the functions assigned under chapter35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Act note set out under section 101 of Title 41, Public Contracts\] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall, in consultation with the National Telecommunications and Information Administration and not later than 18 months after the date of enactment of this Act \[Oct. 21, 1998\], develop procedures for the use and acceptance of electronic signatures by Executive agencies.
 
 “(b)
 
@@ -240,7 +240,7 @@ Requirements for Procedures.—(1) The procedures developed under subsection (a)
 
 #### “SEC. 1704. DEADLINE FOR IMPLEMENTATION BY EXECUTIVE AGENCIES OF PROCEDURES FOR USE AND ACCEPTANCE OF ELECTRONIC SIGNATURES.
 
-“In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Amendment note set out under 41 U.S.C. 251\] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall ensure that, commencing not later than five years after the date of enactment of this Act \[Oct. 21, 1998\], Executive agencies provide—
+“In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Act note set out under section 101 of Title 41\] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall ensure that, commencing not later than five years after the date of enactment of this Act \[Oct. 21, 1998\], Executive agencies provide—
 
 &emsp;“(1) for the option of the electronic maintenance, submission, or disclosure of information, when practicable as a substitute for paper; and
 
@@ -248,13 +248,13 @@ Requirements for Procedures.—(1) The procedures developed under subsection (a)
 
 #### “SEC. 1705. ELECTRONIC STORAGE AND FILING OF EMPLOYMENT FORMS.
 
-“In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Amendment note set out under 41 U.S.C. 251\] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall, not later than 18 months after the date of enactment of this Act \[Oct. 21, 1998\], develop procedures to permit private employers to store and file electronically with Executive agencies forms containing information pertaining to the employees of such employers.
+“In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Amendment Act set out under section 101 of Title 41\] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall, not later than 18 months after the date of enactment of this Act \[Oct. 21, 1998\], develop procedures to permit private employers to store and file electronically with Executive agencies forms containing information pertaining to the employees of such employers.
 
 #### “SEC. 1706. STUDY ON USE OF ELECTRONIC SIGNATURES.
 
 “(a)
 
-Ongoing Study Required.—In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Amendment note set out under 41 U.S.C. 251\] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall, in cooperation with the National Telecommunications and Information Administration, conduct an ongoing study of the use of electronic signatures under this title on—
+Ongoing Study Required.—In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Act note set out under section 101 of Title 41\] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall, in cooperation with the National Telecommunications and Information Administration, conduct an ongoing study of the use of electronic signatures under this title on—
 
 &emsp;“(1) paperwork reduction and electronic commerce;
 

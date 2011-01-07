@@ -12,7 +12,7 @@ The Commission may prescribe, for such carriers as it determines to be appropria
 
 #### (c) Access to information; burden of proof; use of independent auditors
 
-The Commission shall at all times have access to and the right of inspection and examination of all accounts, records, and memoranda, including all documents, papers, and correspondence now or hereafter existing, and kept or required to be kept by such carriers, and the provisions of this section respecting the preservation and destruction of books, papers, and documents shall apply thereto. The burden of proof to justify every accounting entry questioned by the Commission shall be on the person making, authorizing, or requiring such entry and the Commission may suspend a charge or credit pending submission of proof by such person. Any provision of law prohibiting the disclosure of the contents of messages or communications shall not be deemed to prohibit the disclosure of any matter in accordance with the provisions of this section. The Commission may obtain the services of any person licensed to provide public accounting services under the law of any State to assist with, or conduct, audits under this section. While so employed or engaged in conducting an audit for the Commission under this section, any such person shall have the powers granted the Commission under this subsection and shallbe subject to subsection (f) of this section in the same manner as if that person were an employee of the Commission.
+The Commission shall at all times have access to and the right of inspection and examination of all accounts, records, and memoranda, including all documents, papers, and correspondence now or hereafter existing, and kept or required to be kept by such carriers, and the provisions of this section respecting the preservation and destruction of books, papers, and documents shall apply thereto. The burden of proof to justify every accounting entry questioned by the Commission shall be on the person making, authorizing, or requiring such entry and the Commission may suspend a charge or credit pending submission of proof by such person. Any provision of law prohibiting the disclosure of the contents ofmessages or communications shall not be deemed to prohibit the disclosure of any matter in accordance with the provisions of this section. The Commission may obtain the services of any person licensed to provide public accounting services under the law of any State to assist with, or conduct, audits under this section. While so employed or engaged in conducting an audit for the Commission under this section, any such person shall have the powers granted the Commission under this subsection and shall be subject to subsection (f) of this section in the same manner as if that person were an employee of the Commission.
 
 #### (d) Penalty for failure to comply
 
@@ -46,15 +46,15 @@ The Commission shall investigate and report to Congress as to the need for legis
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–104, §403(d), substituted “may prescribe, for such carriers as it determines to be appropriate,” for “shall prescribe for such carriers”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–104, §403(d), substituted “may prescribe, for such carriers as it determines to be appropriate,” for “shall prescribe for such carriers”.
 
 Subsec. (c). Pub. L. 104–104, §403(e), inserted at end “The Commission may obtain the services of any person licensed to provide public accounting services under the law of any State to assist with, or conduct, audits under this section. While so employed or engaged in conducting an audit for the Commission under this section, any such person shall have the powers granted the Commission under this subsection and shall be subject to subsection (f) of this section in the same manner as if that person were an employee of the Commission.”
 
-1994—Subsec. (a). Pub. L. 103–414, §303(a)(7), designated existing provisions as par. (1) and added par. (2).
+<b>1994</b>—Subsec. (a). Pub. L. 103–414, §303(a)(7), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (b). Pub. L. 103–414, §304(a)(5), struck out “, as soon as practicable,” after “The Commission shall”.
 
 Pub. L. 103–414, §303(a)(8), substituted “classes” for “clasess” after “prescribed the” in third sentence.
 
-1989—Subsec. (d). Pub. L. 101–239 substituted “$6,000” for “$500”.
+<b>1989</b>—Subsec. (d). Pub. L. 101–239 substituted “$6,000” for “$500”.
 

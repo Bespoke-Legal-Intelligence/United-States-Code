@@ -16,7 +16,7 @@ In General.—The Secretary of Transportation may provide insurance and reinsura
 
 &emsp;&emsp;&emsp;(i) imported to, or exported from, the United States; and
 
-&emsp;&emsp;&emsp;(ii) bought or sold by a citizen or resident of the United States under a contractputting the risk of loss or obligation to provide insurance against risk of loss on the citizen or resident; and
+&emsp;&emsp;&emsp;(ii) bought or sold by a citizen or resident of the United States under a contract putting the risk of loss or obligation to provide insurance against risk of loss on the citizen or resident; and
 
 &emsp;&emsp;(D) property transported between—
 
@@ -36,9 +36,9 @@ In General.—The Secretary of Transportation may provide insurance and reinsura
 
 (b)
 
-Air Carrier Liability for Third Party Claims Arising Out of Acts of Terrorism.—For acts of terrorism committed on or to an air carrier during the period beginning on September 22, 2001, and ending on June 30, 2010, the Secretary may certify that the air carrier was a victim of an act of terrorism and in the Secretary's judgment, based on the Secretary's analysis and conclusions regarding the facts and circumstances of each case, shall not be responsible for losses suffered by third parties (as referred to in section 205.5(b)(1) of title 14, Code of Federal Regulations) that exceed $100,000,000, in the aggregate, for all claims by such parties arising out of such act. If the Secretary so certifies, the air carrier shall not be liable for an amount that exceeds $100,000,000, in the aggregate, for all claims by such parties arising out of such act, and the Government shall be responsible for any liability above such amount. No punitive damages may be awarded against an air carrier (or the Government taking responsibility for an air carrier under this subsection) under a cause of action arising out of such act. The Secretary may extend the provisions of this subsection to an aircraft manufacturer (as defined in section 44301) of the aircraft of the air carrier involved.
+Air Carrier Liability for Third Party Claims Arising Out of Acts of Terrorism.—For acts of terrorism committed on or to an air carrier during the period beginning on September 22, 2001, and ending on June 30, 2011, the Secretary may certify that the air carrier was a victim of an act of terrorism and in the Secretary's judgment, based on the Secretary's analysis and conclusions regarding the facts and circumstances of each case, shall not be responsible for losses suffered by third parties (as referred to in section 205.5(b)(1) of title 14, Code of Federal Regulations) that exceed $100,000,000, in the aggregate, for all claims by such parties arising out of such act. If the Secretary so certifies, the air carrier shall not be liable for an amount that exceeds $100,000,000, in the aggregate, for all claims by such parties arising out of such act, and the Government shall be responsible for any liability above such amount. No punitive damages may be awarded against an air carrier (or the Government taking responsibility for an air carrier under this subsection) under a cause of action arising out of such act. The Secretary may extend the provisions of this subsection to an aircraft manufacturer (as defined in section 44301) of the aircraft of the air carrier involved.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1169; Pub. L. 107–42, title II, §201(b)(1), Sept. 22, 2001, 115 Stat. 235; Pub. L. 107–296, title XII, §1201, Nov. 25, 2002, 116 Stat. 2286; Pub. L. 108–11, title IV, §4001(b), Apr. 16, 2003, 117 Stat. 606; Pub. L. 108–176, title I, §106(a)(3), (b), Dec. 12, 2003, 117 Stat. 2499; Pub. L. 108–447, div. H, title I, §106(b), Dec. 8, 2004, 118 Stat. 3204; Pub. L. 109–115, div. A, title I, §108(b), Nov. 30, 2005, 119 Stat. 2402; Pub. L. 110–161, div. K, title I, §114(b), Dec. 26, 2007, 121 Stat. 2381; Pub. L. 110–253, §3(c)(7), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §5(d), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(c), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(d), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(c), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–117, div. A, title I, §114(b), Dec. 16, 2009, 123 Stat. 3043.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1169; Pub. L. 107–42, title II, §201(b)(1), Sept. 22, 2001, 115 Stat. 235; Pub. L. 107–296, title XII, §1201, Nov. 25, 2002, 116 Stat. 2286; Pub. L. 108–11, title IV, §4001(b), Apr. 16, 2003, 117 Stat. 606; Pub. L. 108–176, title I, §106(a)(3), (b), Dec. 12, 2003, 117 Stat. 2499; Pub. L. 108–447, div. H, title I, §106(b), Dec. 8, 2004, 118 Stat. 3204; Pub. L. 109–115, div. A, title I, §108(b), Nov. 30, 2005, 119 Stat. 2402; Pub. L. 110–161, div. K, title I, §114(b), Dec. 26, 2007, 121 Stat. 2381; Pub. L. 110–253, §3(c)(7), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §5(d), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(c), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(d), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(c), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–117, div. A, title I, §114(b), Dec. 16, 2009, 123 Stat. 3043; Pub. L. 111–153, §5(c), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(c), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(c), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(c), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(d), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(c), Dec. 22, 2010, 124 Stat. 3567.)
 
 Historical and Revision Notes
 
@@ -64,7 +64,19 @@ The text of section 201(b)(2) of Pub. L. 107–42, which was transferred and red
 
 #### Amendments
 
-2009—Subsec. (b). Pub. L. 111–117, which directed the substitution of “December 31, 2010,” for “December 31, 2009,”, could not be executed due to the intervening amendment by Pub. L. 111–69. See below.
+<b>2010</b>—Subsec. (b). Pub. L. 111–329 substituted “June 30, 2011,” for “March 31, 2011,”.
+
+Pub. L. 111–249 substituted “March 31, 2011,” for “December 31, 2010,”.
+
+Pub. L. 111–216 substituted “December 31, 2010,” for “October 31, 2010,”.
+
+Pub. L. 111–197 substituted “October 31, 2010,” for “September 30, 2010,”.
+
+Pub. L. 111–161 substituted “September 30, 2010,” for “July 31, 2010,”.
+
+Pub. L. 111–153 substituted “July 31, 2010,” for “June 30, 2010,”.
+
+<b>2009</b>—Subsec. (b). Pub. L. 111–117, which directed the substitution of “December 31, 2010,” for “December 31, 2009,”, could not be executed due to the intervening amendment by Pub. L. 111–69. See below.
 
 Pub. L. 111–116 substituted “June 30, 2010,” for “March 31, 2010,”.
 
@@ -72,17 +84,17 @@ Pub. L. 111–69 substituted “March 31, 2010,” for “December 31, 2009,”.
 
 Pub. L. 111–12 substituted “December 31, 2009,” for “May 31, 2009,”.
 
-2008—Subsec. (b). Pub. L. 110–330 substituted “May 31, 2009,” for “March 31, 2009,”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–330 substituted “May 31, 2009,” for “March 31, 2009,”.
 
 Pub. L. 110–253 substituted “March 31, 2009” for “December 31, 2008”.
 
-2007—Subsec. (b). Pub. L. 110–161 substituted “2008,” for “2006,”.
+<b>2007</b>—Subsec. (b). Pub. L. 110–161 substituted “2008,” for “2006,”.
 
-2005—Subsec. (b). Pub. L. 109–115 substituted “2006” for “2005”.
+<b>2005</b>—Subsec. (b). Pub. L. 109–115 substituted “2006” for “2005”.
 
-2004—Subsec. (b). Pub. L. 108–447 substituted “2005” for “2004’.
+<b>2004</b>—Subsec. (b). Pub. L. 108–447 substituted “2005” for “2004’.
 
-2003—Subsec. (a). Pub. L. 108–176, §106(a)(3)(A), substituted “
+<b>2003</b>—Subsec. (a). Pub. L. 108–176, §106(a)(3)(A), substituted “
 
 In General” for “
 
@@ -94,11 +106,25 @@ Subsec. (b). Pub. L. 108–176, §106(b), inserted at end “The Secretary may e
 
 Pub. L. 108–11 substituted “2004” for “2003”.
 
-2002—Pub. L. 107–296 designated existing provisions as subsec. (a), inserted heading, transferred and redesignated the text of section 201(b)(2) of Pub. L. 107–42 so as to appear as subsec. (b), in heading substituted “Air Carrier Liability for Third Party Claims Arising Out of Acts of Terrorism” for “Discretion of the Secretary”, and in text substituted “the period beginning on September 22, 2001, and ending on December 31, 2003, the Secretary” for “the 180-day period following the date of enactment of this Act, the Secretary of Transportation” and “this subsection” for “this paragraph”. See Codification note above.
+<b>2002</b>—Pub. L. 107–296 designated existing provisions as subsec. (a), inserted heading, transferred and redesignated the text of section 201(b)(2) of Pub. L. 107–42 so as to appear as subsec. (b), in heading substituted “Air Carrier Liability for Third Party Claims Arising Out of Acts of Terrorism” for “Discretion of the Secretary”, and in text substituted “the period beginning on September 22, 2001, and ending on December 31, 2003, the Secretary” for “the 180-day period following the date of enactment of this Act, the Secretary of Transportation” and “this subsection” for “this paragraph”. See Codification note above.
 
-2001—Pub. L. 107–42, §201(b)(1)(A), inserted “, or reimburse insurance costs, as” after “insurance and reinsurance” in introductory provisions.
+<b>2001</b>—Pub. L. 107–42, §201(b)(1)(A), inserted “, or reimburse insurance costs, as” after “insurance and reinsurance” in introductory provisions.
 
 Par. (1). Pub. L. 107–42, §201(b)(1)(B), inserted “in the interest of air commerce or national security or” before “to carry out the foreign policy”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–329 effective Jan. 1, 2011, see section 5(j) of Pub. L. 111–329, set out as a note under section 40117 of this title.
+
+Amendment by Pub. L. 111–249 effective Oct. 1, 2010, see section 5(<i>l</i>) of Pub. L. 111–249, set out as a note under section 40117 of this title.
+
+Amendment by Pub. L. 111–216 effective Aug. 2, 2010, see section 104(j) of Pub. L. 111–216, set out as a note under section 40117 of this title.
+
+Amendment by Pub. L. 111–197 effective July 4, 2010, see section 5(j) of Pub. L. 111–197, set out as a note under section 40117 of this title.
+
+Amendment by Pub. L. 111–161 effective May 1, 2010, see section 5(j) of Pub. L. 111–161, set out as a note under section 40117 of this title.
+
+Amendment by Pub. L. 111–153 effective Apr. 1, 2010, see section 5(j) of Pub. L. 111–153, set out as a note under section 40117 of this title.
 
 #### Effective Date of 2009 Amendment
 
@@ -122,5 +148,5 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Extension of Limitation of Air Carrier Liability
 
-Pub. L. 109–289, div. B, title II, §21002(b), as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 48, provided that subsec. (b) of this section would be applied by substituting “September 30, 2007” for “December 31, 2006”.
+Pub. L. 109–289, div. B, title II, §21002(b), as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 48, providedthat subsec. (b) of this section would be applied by substituting “September 30, 2007” for “December 31, 2006”.
 

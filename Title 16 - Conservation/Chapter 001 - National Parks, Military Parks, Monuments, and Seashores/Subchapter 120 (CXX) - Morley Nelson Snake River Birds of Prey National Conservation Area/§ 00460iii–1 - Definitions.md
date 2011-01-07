@@ -26,5 +26,5 @@ As used in this subchapter:
 
 #### Amendments
 
-2009—Par. (2). Pub. L. 111–11 inserted “Morley Nelson” before “Snake River Birds of Prey National Conservation Area”.
+<b>2009</b>—Par. (2). Pub. L. 111–11 inserted “Morley Nelson” before “Snake River Birds of Prey National Conservation Area”.
 

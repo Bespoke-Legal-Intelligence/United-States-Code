@@ -22,7 +22,7 @@ Indian country.—The term “Indian country” has the meaning stated in sectio
 
 Protection order.—The term “protection order” includes—
 
-&emsp;&emsp;(A) any injunction, restraining order, or any other order issued by a civil or criminal court for the purpose of preventing violentor threatening acts or harassment against, sexual violence, or contact or communication with or physical proximity to, another person, including any temporary or final order issued by a civil or criminal court whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil or criminal order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection; and
+&emsp;&emsp;(A) any injunction, restraining order, or any other order issued by a civil or criminal court for the purpose of preventing violent or threatening acts or harassment against, sexual violence, or contact or communication with or physical proximity to, another person, including any temporary or final order issued by a civil or criminal court whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil or criminal order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection; and
 
 &emsp;&emsp;(B) any support, child custody or visitation provisions, orders, remedies or relief issued as part of a protection order, restraining order, or injunction pursuant to State, tribal, territorial, or local law authorizing the issuance of protection orders, restraining orders, or injunctions for the protection of victims of domestic violence, sexual assault, dating violence, or stalking.
 
@@ -72,7 +72,7 @@ Dating partner.—The term “dating partner” refers to a person who is or has
 
 #### Amendments
 
-2006—Par. (5). Pub. L. 109–162, §106(d)(1), added par. (5) and struck out heading and text of former par. (5). Text read as follows: “The term ‘protection order’ includes any injunction or other order issued for the purpose of preventing violent or threatening acts or harassment against, or contact or communication with or physical proximity to, another person, including any temporary or final order issued by a civil and criminal court (other than a support or child custody order issued pursuant to State divorce and child custody laws, except to the extent that such an order is entitled to full faith and credit under other Federal law) whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection.”
+<b>2006</b>—Par. (5). Pub. L. 109–162, §106(d)(1), added par. (5) and struck out heading and text of former par. (5). Text read as follows: “The term ‘protection order’ includes any injunction or other order issued for the purpose of preventing violent or threatening acts or harassment against, or contact or communication with or physical proximity to, another person, including any temporary or final order issued by a civil and criminal court (other than a support or child custody order issued pursuant to State divorce and child custody laws, except to the extent that such an order is entitled to full faith and credit under other Federal law) whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection.”
 
 Par. (7)(A). Pub. L. 109–162, §106(d)(2), which directed amendment of cls. (i) and (ii) by substituting “2261A—
 
@@ -88,5 +88,7 @@ Par. (10). Pub. L. 109–271, §2(i), substituted “. The existence of such a 
 
 Pub. L. 109–162, §116(b), added par. (10).
 
-2000—Pub. L. 106–386 reenacted section catchline without change and amended text generally. Prior to amendment, text defined “bodily injury”, “Indian country”, “protection order”, “spouse or intimate partner”, “State”, and “travel across State lines”.
+<b>2000</b>—Pub. L. 106–386 reenacted section catchline without change and amended text generally. Prior to amendment, text defined “bodily injury”, “Indian country”, “protection order”, “spouse or intimate partner”, “State”, and “travel across State lines”.
+
+<i><sup>1</sup></i><i> So in original. The period probably should be “; and”.</i>
 

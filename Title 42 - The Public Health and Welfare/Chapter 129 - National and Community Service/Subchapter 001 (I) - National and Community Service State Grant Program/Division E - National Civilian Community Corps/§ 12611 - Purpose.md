@@ -24,7 +24,7 @@ A prior section 12611, Pub. L. 101–610, title I, §160, Nov. 16, 1990, 104 Sta
 
 #### Amendments
 
-2009—Pub. L. 111–13 amended section generally. Prior to amendment, section provided that the purpose of this division was to authorize the establishment of a Civilian Community Corps to provide a basis for certain determinations.
+<b>2009</b>—Pub. L. 111–13 amended section generally. Prior to amendment, section provided that the purpose of this division was to authorize the establishment of a Civilian Community Corps to provide a basis for certain determinations.
 
 #### Effective Date of 2009 Amendment
 

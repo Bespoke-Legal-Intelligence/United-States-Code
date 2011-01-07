@@ -46,11 +46,11 @@ References to “mobile homes”, wherever appearing in subsec. (a)(1) to (3), c
 
 #### Amendments
 
-2000—Subsec. (a)(4), (5). Pub. L. 106–569, §607(a), added pars. (4) and (5).
+<b>2000</b>—Subsec. (a)(4), (5). Pub. L. 106–569, §607(a), added pars. (4) and (5).
 
 Subsec. (c). Pub. L. 106–569, §607(b), added subsec. (c).
 
-1980—Subsec. (a)(1). Pub. L. 96–399 substituted “manufactured home” for “mobile home”.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–399 substituted “manufactured home” for “mobile home”.
 
 #### Effective Date of 2000 Amendment
 

@@ -92,23 +92,23 @@ This section shall not apply in the case of a hedging transaction in commodity f
 
 &emsp;&emsp;&emsp;(ii) the date which is 6 years after the date the return for such taxable year is filed, and
 
-&emsp;&emsp;(B) such deficiency may be assessed before the date applicable under subparagraph (A) notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
+&emsp;&emsp;(B) such deficiency may be assessed before the date applicable under subparagraph (A)notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 327; Aug. 12, 1955, ch. 871, §1, 69 Stat. 717; Pub. L. 85–866, title I, §52(a), (b), Sept. 2, 1958, 72 Stat. 1643, 1644; Pub. L. 94–455, title XIV, §1402(b)(1)(T), (2), title XIX, §1901(a)(137), Oct. 4, 1976, 90 Stat. 1732, 1787; Pub. L. 97–34, title V, §501(c), Aug. 13, 1981, 95 Stat. 326; Pub. L. 98–369, div. A, title X, §1001(b)(17), (e), July 18, 1984, 98 Stat. 1012; Pub. L. 105–34, title X, §1003(b)(1), Aug. 5, 1997, 111 Stat. 910; Pub. L. 106–554, §1(a)(7) \[title IV, §401(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–649; Pub. L. 107–147, title IV, §412(d)(3)(A), Mar. 9, 2002, 116 Stat. 54.)
 
 #### Amendments
 
-2002—Subsec. (e)(2)(E). Pub. L. 107–147 added subpar. (E).
+<b>2002</b>—Subsec. (e)(2)(E). Pub. L. 107–147 added subpar. (E).
 
-2000—Subsec. (e)(2)(D). Pub. L. 106–554 added subpar. (D).
+<b>2000</b>—Subsec. (e)(2)(D). Pub. L. 106–554 added subpar. (D).
 
-1997—Subsec. (h). Pub. L. 105–34 added subsec. (h).
+<b>1997</b>—Subsec. (h). Pub. L. 105–34 added subsec. (h).
 
-1984—Subsecs. (b), (d), (e)(4)(A)(i). Pub. L. 98–369 substituted “6 months” for “1 year” wherever appearing, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+<b>1984</b>—Subsecs. (b), (d), (e)(4)(A)(i). Pub. L. 98–369 substituted “6 months” for “1 year” wherever appearing, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
-1981—Subsec. (e)(2)(A). Pub. L. 97–34 inserted “, but does not include any position to which section 1092(b) applies” after “taxpayer”.
+<b>1981</b>—Subsec. (e)(2)(A). Pub. L. 97–34 inserted “, but does not include any position to which section 1092(b) applies” after “taxpayer”.
 
-1976—Subsec. (b). Pub. L. 94–455, §1402(b)(2), provided that “9 months” would be changed to “1 year”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455, §1402(b)(2), provided that “9 months” would be changed to “1 year”.
 
 Pub. L. 94–455, §1402(b)(1)(T), (2), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 
@@ -118,13 +118,13 @@ Subsecs. (d), (e)(4)(A)(i). Pub. L. 94–455, §1402(b)(2), provided that “9 m
 
 Pub. L. 94–455, §1402(b)(1)(T), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 
-1958—Subsec. (a). Pub. L. 85–866, §52(b), struck out “, other than a hedging transaction in commodity futures,” after “sale of property”.
+<b>1958</b>—Subsec. (a). Pub. L. 85–866, §52(b), struck out “, other than a hedging transaction in commodity futures,” after “sale of property”.
 
 Subsec. (e)(4). Pub. L. 85–866, §52(a), added par. (4).
 
 Subsec. (g). Pub. L. 85–866, §52(b), added subsec. (g).
 
-1955—Subsec. (f). Act Aug. 12, 1955, added subsec. (f).
+<b>1955</b>—Subsec. (f). Act Aug. 12, 1955, added subsec. (f).
 
 #### Effective Date of 2002 Amendment
 

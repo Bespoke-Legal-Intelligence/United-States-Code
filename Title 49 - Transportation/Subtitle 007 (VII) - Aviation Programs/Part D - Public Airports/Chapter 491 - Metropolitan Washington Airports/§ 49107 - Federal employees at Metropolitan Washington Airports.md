@@ -68,7 +68,7 @@ In subsection (c), the words “duty or power” are substituted for “function
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–225 substituted “is subject to subchapter III” for “is subject to subchapter II”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–225 substituted “is subject to subchapter III” for “is subject to subchapter II”.
 
 #### Effective Date of 1998 Amendment
 

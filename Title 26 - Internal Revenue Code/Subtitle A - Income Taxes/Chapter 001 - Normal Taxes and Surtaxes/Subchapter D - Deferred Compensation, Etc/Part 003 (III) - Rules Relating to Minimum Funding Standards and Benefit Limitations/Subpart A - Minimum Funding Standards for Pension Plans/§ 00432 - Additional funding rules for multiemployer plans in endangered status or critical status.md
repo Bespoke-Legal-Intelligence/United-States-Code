@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (2) Critical status
 
-&emsp;A multiemployer plan is in critical status for a plan year if, as determined by the plan actuary under paragraph (3), the plan is described in 1 or more of the following subparagraphs as of the beginning of the plan year:
+&emsp;A multiemployer plan is in critical status for a plan year if, as determined by the planactuary under paragraph (3), the plan is described in 1 or more of the following subparagraphs as of the beginning of the plan year:
 
 &emsp;&emsp;(A) A plan is described in this subparagraph if—
 
@@ -110,7 +110,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In any case in which it is certified under subparagraph (A) that a multiemployerplan is or will be in endangered or critical status for a plan year, the plan sponsor shall, not later than 30 days after the date of the certification, provide notification of the endangered or critical status to the participants and beneficiaries, the bargaining parties, the Pension Benefit Guaranty Corporation, and the Secretary of Labor.
+&emsp;&emsp;&emsp;In any case in which it is certified under subparagraph (A) that a multiemployer plan is or will be in endangered or critical status for a plan year, the plan sponsor shall, not later than 30 days after the date of the certification, provide notification of the endangered or critical status to the participants and beneficiaries, the bargaining parties, the Pension Benefit Guaranty Corporation, and the Secretary of Labor.
 
 #### (ii) Plans in critical status
 
@@ -368,7 +368,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the second anniversary of the date of the adoption of the rehabilitation plan, or
 
-&emsp;&emsp;&emsp;(ii) the expiration of the collective bargaining agreements in effect on the due date for the actuarial certification of critical status for the initial critical year under subsection (a)(1) and covering, as of such date at least 75 percent of the active participants in such multiemployer plan.
+&emsp;&emsp;&emsp;(ii) the expiration of the collective bargaining agreements in effect on the duedate for the actuarial certification of critical status for the initial critical year under subsection (a)(1) and covering, as of such date at least 75 percent of the active participants in such multiemployer plan.
 
 > &emsp;&emsp;If a plan emerges from critical status as provided under subparagraph (B) before the end of such 10-year period, the rehabilitation period shall end with the plan year preceding the plan year for which the determination under subparagraph (B) is made.
 
@@ -378,7 +378,7 @@ For purposes of this section—
 
 #### (5) Rehabilitation plan adoption period
 
-&emsp;For purposes of this section, the term “rehabilitation plan adoption period” means the period beginning on the date of the certificationunder subsection (b)(3)(A) for the initial critical year and ending on the day before the first day of the rehabilitation period.
+&emsp;For purposes of this section, the term “rehabilitation plan adoption period” means the period beginning on the date of the certification under subsection (b)(3)(A) for the initial critical year and ending on the day before the first day of the rehabilitation period.
 
 #### (6) Limitation on reduction in rates of future accruals
 
@@ -436,7 +436,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) any early retirement benefit or retirement-type subsidy (within the meaning of section 411(d)(6)(B)(i)) and any benefit payment option (other than the qualified joint and survivor annuity), and
 
-&emsp;&emsp;&emsp;&emsp;(III) benefit increases that would not be eligible for a guarantee under section 4022A of the Employee Retirement Income Security Act of 1974 on the first day of initial critical year because theincreases were adopted (or, if later, took effect) less than 60 months before such first day.
+&emsp;&emsp;&emsp;&emsp;(III) benefit increases that would not be eligible for a guarantee under section 4022A of the Employee Retirement Income Security Act of 1974 on the first day of initial critical year because the increases were adopted (or, if later, took effect) less than 60 months before such first day.
 
 #### (B) Normal retirement benefits protected
 
@@ -498,7 +498,7 @@ For purposes of this section—
 
 #### (B) Special rules for benefit increases
 
-&emsp;&emsp;A plan may not be amended after the date of the adoption of a rehabilitation plan under subsection (e) so as to increase benefits, including future benefit accruals, unless the plan actuary certifies that such increase is paid for out of additional contributions not contemplated by the rehabilitation plan, and, after taking into account the benefit increase, the multiemployer plan still is reasonably expected to emerge from critical status by the end of the rehabilitation period on the schedule contemplated in the rehabilitation plan.
+&emsp;&emsp;A plan may not be amended after the date of the adoption of a rehabilitation plan under subsection (e) so as to increase benefits, including future benefit accruals, unless the plan actuary certifies that such increase is paid for out of additional contributions not contemplated by the rehabilitation plan,and, after taking into account the benefit increase, the multiemployer plan still is reasonably expected to emerge from critical status by the end of the rehabilitation period on the schedule contemplated in the rehabilitation plan.
 
 #### (2) Restriction on lump sums and similar benefits
 
@@ -590,7 +590,7 @@ For purposes of this section—
 
 &emsp;A person is in pay status under a multiemployer plan if—
 
-&emsp;&emsp;(A) at any time during the current plan year, such person is a participant or beneficiary under the plan and is paid an early,late, normal, or disability retirement benefit under the plan (or a death benefit under the plan related to a retirement benefit), or
+&emsp;&emsp;(A) at any time during the current plan year, such person is a participant or beneficiary under the plan and is paid an early, late, normal, or disability retirement benefit under the plan (or a death benefit under the plan related to a retirement benefit), or
 
 &emsp;&emsp;(B) to the extent provided in regulations of the Secretary, such person is entitled to such a benefit under the plan.
 
@@ -630,7 +630,7 @@ The Employee Retirement Income Security Act of 1974, referred to in text, is Pub
 
 #### Amendments
 
-2008—Subsec. (b)(3)(C). Pub. L. 110–458, §102(b)(2)(A), substituted “section 101(b)(1)” for “section 101(b)(4)”.
+<b>2008</b>—Subsec. (b)(3)(C). Pub. L. 110–458, §102(b)(2)(A), substituted “section 101(b)(1)” for “section 101(b)(4)”.
 
 Subsec. (b)(3)(D)(iii). Pub. L. 110–458, §102(b)(2)(B), substituted “The Secretary, in consultation with the Secretary of Labor” for “The Secretary of Labor”.
 
@@ -777,4 +777,10 @@ Effective Date.—This section shall apply to plan years beginning after Decembe
 #### Special Rule for Certain Benefits Funded Under an Agreement Approved by the Pension Benefit Guaranty Corporation
 
 For applicability of this section to a multiemployer plan that is a party to an agreement that was approved by the Pension Benefit Guaranty Corporation prior to June 30, 2005, and that increases benefits and provides for certain withdrawal liability rules, see section 206 of Pub. L. 109–280, set out as a note under section 412 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be capitalized.</i>
 

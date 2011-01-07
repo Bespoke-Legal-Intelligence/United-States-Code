@@ -52,15 +52,15 @@ Another prior section 3021, Pub. L. 89–73, title III, §301, July 14, 1965, 79
 
 #### Amendments
 
-2006—Subsec. (a)(2)(F). Pub. L. 109–365 added subpar. (F).
+<b>2006</b>—Subsec. (a)(2)(F). Pub. L. 109–365 added subpar. (F).
 
-2000—Subsec. (c). Pub. L. 106–501, §801(c)(1), substituted “3027(a)(9)” for “3027(a)(12)”.
+<b>2000</b>—Subsec. (c). Pub. L. 106–501, §801(c)(1), substituted “3027(a)(9)” for “3027(a)(12)”.
 
 Subsec. (d). Pub. L. 106–501, §301, added subsec. (d).
 
-1993—Subsecs. (b), (c). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” wherever appearing.
+<b>1993</b>—Subsecs. (b), (c). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” wherever appearing.
 
-1992—Subsec. (a). Pub. L. 102–375, §301, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “It is the purpose of this subchapter to encourage and assist State and area agencies to concentrate resources in order to develop greater capacity and foster the development and implementation of comprehensive and coordinated service systems to serve older individuals by entering into new cooperative arrangements in each State with State and area agencies, with Indian tribes, tribal organizations, and Native Hawaiian organizations, and with the providers, including voluntary organizations, of supportive services, including nutrition services and multipurpose senior centers, for the planning, and for the provision of, supportive services, nutrition services, and multipurpose senior centers, in order to—
+<b>1992</b>—Subsec. (a). Pub. L. 102–375, §301, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “It is the purpose of this subchapter to encourage and assist State and area agencies to concentrate resources in order to develop greater capacity and foster the development and implementation of comprehensive and coordinated service systems to serve older individuals by entering into new cooperative arrangements in each State with State and area agencies, with Indian tribes, tribal organizations, and Native Hawaiian organizations, and with the providers, including voluntary organizations, of supportive services, including nutrition services and multipurpose senior centers, for the planning, and for the provision of, supportive services, nutrition services, and multipurpose senior centers, in order to—
 
 &emsp;“(1) secure and maintain maximum independence and dignity in a home environment for older individuals capable of self care with appropriate supportive services;
 
@@ -74,11 +74,11 @@ Subsec. (b)(2). Pub. L. 102–321 substituted “the Substance Abuse and Mental 
 
 Subsec. (c). Pub. L. 102–375, §708(a)(2)(B), substituted “in accordance with section 3058g of this title, and to individuals within such programs designated under section 3058g of this title” for “, and to individuals designated under such section”.
 
-1991—Subsec. (b)(2). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1991</b>—Subsec. (b)(2). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1988—Subsec. (a). Pub. L. 100–628 substituted “Native Hawaiian organizations,” for “Native Hawaiian organizations,,”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–628 substituted “Native Hawaiian organizations,” for “Native Hawaiian organizations,,”.
 
-1987—Subsec. (a). Pub. L. 100–175, §121, inserted “, with Indian tribes, tribal organizations, and Native Hawaiian organizations,” after second reference to “agencies”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–175, §121, inserted “, with Indian tribes, tribal organizations, and Native Hawaiian organizations,” after second reference to “agencies”.
 
 Subsec. (b)(2). Pub. L. 100–175, §105(c), inserted “the Alcohol, Drug Abuse, and Mental Health Administration,” after “Veterans’ Administration,”.
 
@@ -86,9 +86,9 @@ Pub. L. 100–175, §104(b), inserted “, the Veterans’ Administration,” a
 
 Subsec. (c). Pub. L. 100–175, §129(a), added subsec. (c).
 
-1984—Subsec. (a). Pub. L. 98–459 substituted “area agencies” for “local agencies” in two places, inserted “and implementation”, inserted “, including voluntary organizations,”, and struck out “for the provision of” after “planning”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–459 substituted “area agencies” for “local agencies” in two places, inserted “and implementation”, inserted “, including voluntary organizations,”, and struck out “for the provision of” after “planning”.
 
-1981—Subsec. (a). Pub. L. 97–115, §3(d), substituted “supportive services” for “social services” in two places.
+<b>1981</b>—Subsec. (a). Pub. L. 97–115, §3(d), substituted “supportive services” for “social services” in two places.
 
 Subsec. (b)(2). Pub. L. 97–115, §3(a), substituted “cooperation of the Department of Education, the Department of Labor, the Department of Housing and Urban Development, the Department of Transportation, the Office of Community Services, and such other agencies and departments” for “cooperation of the Department of Labor, the Community Services Administration, the Department of Housing and Urban Development, the Department of Transportation, and such other agencies and departments”.
 

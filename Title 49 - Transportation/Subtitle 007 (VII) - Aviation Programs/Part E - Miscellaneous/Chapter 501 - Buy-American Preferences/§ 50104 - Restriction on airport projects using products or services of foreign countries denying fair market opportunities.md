@@ -6,7 +6,7 @@ Definition and Rules for Construing Section.—In this section—
 
 &emsp;(1) “project” has the same meaning given that term in section 47102 of this title.
 
-&emsp;(2) each foreign instrumentality and each territory and possession of a foreign country administered separately for customs purposes is a separate foreign country.
+&emsp;(2) each foreign instrumentality and each territory and possession of a foreign countryadministered separately for customs purposes is a separate foreign country.
 
 &emsp;(3) an article substantially produced or manufactured in a foreign country is a product of the country.
 
@@ -92,7 +92,7 @@ This makes a clarifying amendment to 49:50101(a) and (b)(3), 50102, 50104(b)(1),
 
 #### Amendments
 
-1996—Pub. L. 104–287, §5(88)(D), renumbered section 49104 of this title as this section.
+<b>1996</b>—Pub. L. 104–287, §5(88)(D), renumbered section 49104 of this title as this section.
 
 Subsec. (b)(1). Pub. L. 104–287, §5(89), substituted “section 47127” for “sections 47106(d) and 47127”.
 

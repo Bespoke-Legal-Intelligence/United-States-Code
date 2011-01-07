@@ -10,7 +10,7 @@ The Secretary may provide financial assistance to coordinating consortia of inte
 
 &emsp;The Secretary shall—
 
-&emsp;&emsp;(A) establish a research, development, and demonstration program to develop working models of small scale portable power devices; and
+&emsp;&emsp;(A) establish a research, development, and demonstration program to develop workingmodels of small scale portable power devices; and
 
 &emsp;&emsp;(B) to the fullest extent practicable, identify and utilize the resources of universities that have shown expertise with respect to advanced portable power devices for either civilian or military use.
 

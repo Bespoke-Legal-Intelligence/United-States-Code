@@ -6,7 +6,7 @@ The general purpose of the National Center for Research Resources (in this subpa
 
 #### Amendments
 
-1993—Pub. L. 103–43 substituted “the National Center for Research Resources (in this subpart referred to as the ‘Center’)” for “the Division of Research Resources”.
+<b>1993</b>—Pub. L. 103–43 substituted “the National Center for Research Resources (in this subpart referred to as the ‘Center’)” for “the Division of Research Resources”.
 
 #### Shared Instrumentation Grant Program
 

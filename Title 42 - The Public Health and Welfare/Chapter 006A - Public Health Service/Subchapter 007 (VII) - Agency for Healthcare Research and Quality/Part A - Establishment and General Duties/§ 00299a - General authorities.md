@@ -52,7 +52,7 @@ Nothing in this section shall be construed to imply that the Agency's role is to
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of this title. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of this title. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Social Security Amendments of 1967, referred to in subsec. (d), is Pub. L. 90–248, Jan. 2, 1968, 81 Stat. 821, as amended. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under section 1305 of this title and Tables.
 
@@ -66,7 +66,7 @@ A prior section 902 of act July 1, 1944, was classified to section 299b of this 
 
 #### Amendments
 
-2000—Subsec. (g). Pub. L. 106–525 struck out heading and text of subsec. (g). Text read as follows: “Beginning with fiscal year 2003, the Director shall annually submit to the Congress a report regarding prevailing disparities in health care delivery as it relates to racial factors and socioeconomic factors in priority populations.”
+<b>2000</b>—Subsec. (g). Pub. L. 106–525 struck out heading and text of subsec. (g). Text read as follows: “Beginning with fiscal year 2003, the Director shall annually submit to the Congress a report regarding prevailing disparities in health care delivery as it relates to racial factors and socioeconomic factors in priority populations.”
 
 #### Reducing Administrative Health Care Costs
 

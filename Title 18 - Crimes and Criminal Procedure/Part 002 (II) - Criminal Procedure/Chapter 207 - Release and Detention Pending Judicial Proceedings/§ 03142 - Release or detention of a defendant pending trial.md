@@ -52,7 +52,7 @@ Release on Conditions.—(1) If the judicial officer determines that the release
 
 &emsp;&emsp;(xiv) satisfy any other condition that is reasonably necessary to assure the appearance of the person as required and to assure the safety of any other person and the community.
 
-> &emsp;In any case that involves a minor victim under section 1201, 1591, 2241, 2242, 2244(a)(1), 2245, 2251, 2251A, 2252(a)(1), 2252(a)(2), 2252(a)(3), 2252A(a)(1), 2252A(a)(2), 2252A(a)(3), 2252A(a)(4), 2260, 2421, 2422, 2423, or 2425 of this title, or a failure to register offense under section 2250 of this title, any release order shall contain, at a minimum, a condition of electronic monitoring and each of the conditions specified at subparagraphs (iv), (v), (vi), (vii), and (viii).
+> &emsp;In any case that involves a minor victim under section 1201, 1591, 2241, 2242, 2244(a)(1), 2245, 2251, 2251A, 2252(a)(1), 2252(a)(2), 2252(a)(3),2252A(a)(1), 2252A(a)(2), 2252A(a)(3), 2252A(a)(4), 2260, 2421, 2422, 2423, or 2425 of this title, or a failure to register offense under section 2250 of this title, any release order shall contain, at a minimum, a condition of electronic monitoring and each of the conditions specified at subparagraphs (iv), (v), (vi), (vii), and (viii).
 
 (2) The judicial officer may not impose a financial condition that results in the pretrial detention of the person.
 
@@ -114,7 +114,7 @@ Detention Hearing.—The judicial officer shall hold a hearing to determine whet
 
 &emsp;&emsp;(C) an offense for which a maximum term of imprisonment of ten years or more is prescribed in the Controlled Substances Act (21 U.S.C. 801 et seq.), the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.), or chapter 705 of title 46;
 
-&emsp;&emsp;(D) any felony if such person has been convicted of two or more offenses described in subparagraphs (A) through (C) of this paragraph, or two or more State or local offenses that would have been offenses described in subparagraphs (A) through (C) of this paragraph if a circumstance giving rise to Federal jurisdiction had existed, or a combination of such offenses; or
+&emsp;&emsp;(D) any felony if such person has been convicted of two or more offenses described in subparagraphs (A) through (C) of this paragraph, or two or more State or local offenses that would have been offenses described insubparagraphs (A) through (C) of this paragraph if a circumstance giving rise to Federal jurisdiction had existed, or a combination of such offenses; or
 
 &emsp;&emsp;(E) any felony that is not otherwise a crime of violence that involves a minor victim or that involves the possession or use of a firearm or destructive device (as those terms are defined in section 921), or any other dangerous weapon, or involves a failure to register under section 2250 of title 18, United States Code; or
 
@@ -166,7 +166,7 @@ Contents of Detention Order.—In a detention order issued under subsection (e) 
 
 &emsp;(3) direct that the person be afforded reasonable opportunity for private consultation with counsel; and
 
-&emsp;(4) direct that, on order of a court of the United States or on request of an attorney for the Government, the person in charge of the corrections facility in which the person is confined deliver the person to a United Statesmarshal for the purpose of an appearance in connection with a court proceeding.
+&emsp;(4) direct that, on order of a court of the United States or on request of an attorney for the Government, the person in charge of the corrections facility in which the person is confined deliver the person to a United States marshal for the purpose of an appearance in connection with a court proceeding.
 
 > The judicial officer may, by subsequent order, permit the temporary release of the person, in the custody of a United States marshal or another appropriate person, to the extent that the judicial officer determines such release to be necessary for preparation of the person's defense or for another compelling reason.
 
@@ -188,7 +188,7 @@ A prior section 3142, acts June 25, 1948, ch. 645, 62 Stat. 821; June 22, 1966, 
 
 #### Amendments
 
-2008—Subsec. (e). Pub. L. 110–457, §222(a)(1)–(4), designated first through third sentences as pars. (1) to (3), respectively, and redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (2).
+<b>2008</b>—Subsec. (e). Pub. L. 110–457, §222(a)(1)–(4), designated first through third sentences as pars. (1) to (3), respectively, and redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (2).
 
 Subsec. (e)(2)(B), (C). Pub. L. 110–457, §222(a)(5), substituted “subparagraph (A)” for “paragraph (1) of this subsection”.
 
@@ -196,7 +196,7 @@ Subsec. (e)(3). Pub. L. 110–457, §222(a)(6), substituted “committed—” f
 
 Subsecs. (f)(1)(A), (g)(1). Pub. L. 110–457, §224(a), substituted “violence, a violation of section 1591,” for “violence,”.
 
-2006—Subsecs. (b), (c)(1)(A). Pub. L. 109–162 inserted “and subject to the condition that the person cooperate in the collection of a DNA sample from the person if the collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135a)” after “period of release”.
+<b>2006</b>—Subsecs. (b), (c)(1)(A). Pub. L. 109–162 inserted “and subject to the condition that the person cooperate in the collection of a DNA sample from the person if the collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135a)” after “period of release”.
 
 Subsec. (c)(1)(B). Pub. L. 109–248, §216(1), inserted concluding provisions.
 
@@ -206,17 +206,17 @@ Subsec. (f)(1)(E). Pub. L. 109–248, §216(2), added subpar. (E).
 
 Subsec. (g)(1). Pub. L. 109–248, §216(3), added par. (1) and struck out former par. (1) which read as follows: “the nature and circumstances of the offense charged, including whether the offense is a crime of violence, or an offense listed in section 2332b(g)(5)(B) for which a maximum term of imprisonment of 10 years or more is prescribed or involves a narcotic drug;”.
 
-2004—Subsec. (e). Pub. L. 108–458, §6952(1), in concluding provisions, inserted “or” before “the Maritime” and “or an offense listed in section 2332b(g)(5)(B) of title 18, United States Code, for which a maximum term of imprisonment of 10 years or more is prescribed” after “or 2332b of this title,”.
+<b>2004</b>—Subsec. (e). Pub. L. 108–458, §6952(1), in concluding provisions, inserted “or” before “the Maritime” and “or an offense listed in section 2332b(g)(5)(B) of title 18, United States Code, for which a maximum term of imprisonment of 10 years or more is prescribed” after “or 2332b of this title,”.
 
 Subsecs. (f)(1)(A), (g)(1). Pub. L. 108–458, §6952(2), inserted “, or an offense listed in section 2332b(g)(5)(B) for which a maximum term of imprisonment of 10 years or more is prescribed” after “violence”.
 
-2003—Subsec. (e). Pub. L. 108–21, in concluding provisions, substituted “1901 et seq.),” for “1901 et seq.), or” and “of this title, or an offense involving a minor victim under section 1201, 1591, 2241, 2242, 2244(a)(1), 2245, 2251, 2251A, 2252(a)(1), 2252(a)(2), 2252(a)(3), 2252A(a)(1), 2252A(a)(2), 2252A(a)(3), 2252A(a)(4), 2260, 2421, 2422, 2423, or 2425 of this title” for “of title 18 of the United States Code”.
+<b>2003</b>—Subsec. (e). Pub. L. 108–21, in concluding provisions, substituted “1901 et seq.),” for “1901 et seq.), or” and “of this title, or an offense involving a minor victim under section 1201, 1591, 2241, 2242, 2244(a)(1), 2245, 2251, 2251A, 2252(a)(1), 2252(a)(2), 2252(a)(3), 2252A(a)(1), 2252A(a)(2), 2252A(a)(3), 2252A(a)(4), 2260, 2421, 2422, 2423, or 2425 of this title” for “of title 18 of the United States Code”.
 
-1996—Subsec. (e). Pub. L. 104–132, §702(d), inserted “, 956(a), or 2332b” after “section 924(c)” in concluding provisions.
+<b>1996</b>—Subsec. (e). Pub. L. 104–132, §702(d), inserted “, 956(a), or 2332b” after “section 924(c)” in concluding provisions.
 
 Subsec. (f). Pub. L. 104–132, §729, in concluding provisions, inserted “(not including any intermediate Saturday, Sunday, or legal holiday)” after “five days” and after “three days”.
 
-1990—Subsec. (c)(1)(B)(xi). Pub. L. 101–647, §3622, amended cl. (xi) generally. Prior to amendment, cl. (xi) read as follows: “execute an agreement to forfeit upon failing to appear as required, such designated property, including money, as is reasonably necessary to assure the appearance of the person as required, and post with the court such indicia of ownership of the property or such percentage of the money as the judicial officer may specify;”.
+<b>1990</b>—Subsec. (c)(1)(B)(xi). Pub. L. 101–647, §3622, amended cl. (xi) generally. Prior to amendment, cl. (xi) read as follows: “execute an agreement to forfeit upon failing to appear as required, such designated property, including money, as is reasonably necessary to assure the appearance of the person as required, and post with the court such indicia of ownership of the property or such percentage of the money as the judicial officer may specify;”.
 
 Subsec. (c)(1)(B)(xii). Pub. L. 101–647, §3623, amended cl. (xii) generally. Prior to amendment, cl. (xii) read as follows: “execute a bail bond with solvent sureties in such amount as is reasonably necessary to assure the appearance of the person as required;”.
 
@@ -224,13 +224,13 @@ Subsecs. (e), (f)(1)(C). Pub. L. 101–647, §1001(b), substituted “the Mariti
 
 Subsec. (g)(4). Pub. L. 101–647, §3624, substituted “subsection (c)(1)(B)(xi) or (c)(1)(B)(xii)” for “subsection (c)(2)(K) or (c)(2)(L)”.
 
-1988—Subsec. (c)(3). Pub. L. 100–690 substituted “the order” for “order”.
+<b>1988</b>—Subsec. (c)(3). Pub. L. 100–690 substituted “the order” for “order”.
 
-1986—Subsec. (a). Pub. L. 99–646, §55(a), (c)(1), in par. (1) struck out “his” after “released on” and substituted “under subsection (b) of this section” for “pursuant to the provisions of subsection (b)”, in par. (2) substituted “under subsection (c) of this section” for “pursuant to the provisions of subsection (c)”, in par. (3) substituted “under subsection (d) of this section” for “pursuant to provisions of subsection (d)”, and in par. (4) substituted “under subsection (e) of this section” for “pursuant to provisions of subsection (e)”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–646, §55(a), (c)(1), in par. (1) struck out “his” after “released on” and substituted “under subsection (b) of this section” for “pursuant to the provisions of subsection (b)”, in par. (2) substituted “under subsection (c) of this section” for “pursuant tothe provisions of subsection (c)”, in par. (3) substituted “under subsection (d) of this section” for “pursuant to provisions of subsection (d)”, and in par. (4) substituted “under subsection (e) of this section” for “pursuant to provisions of subsection (e)”.
 
 Subsec. (b). Pub. L. 99–646, §55(c)(2), struck out “his” after “person on” and “period of”.
 
-Subsec. (c). Pub. L. 99–646, §55(c)(3), designated existing provision as par. (1) and redesignated former pars. (1) and (2) as subpars. (A) and (B), in provision preceding subpar. (A) substituted “subsection (b) of this section” for “subsection (b)” and “such judicial officer” for “he”, in subpar. (B) redesignated subpars. (A) to (N)as cls. (i) to (xiv), in provision preceding cl. (i) substituted “such judicial officer” for “he”, in cl. (i) substituted “assume supervision” for “supervise him”, in cl. (iv) substituted “on personal” for “on his personal”, in cl. (x) substituted “medical, psychological,” for “medical”, designated provision relating to the judicial officer not imposing a financial condition that results in the pretrial detention of a person as par. (2), and designated provision permitting the judicial officer to impose at any time additional or different conditions of release as par. (3), and in par. (3) struck out “his” after “amend”.
+Subsec. (c). Pub. L. 99–646, §55(c)(3), designated existing provision as par. (1) and redesignated former pars. (1) and (2) as subpars. (A) and (B), in provision preceding subpar. (A) substituted “subsection (b) of this section” for “subsection (b)” and “such judicial officer” for “he”, in subpar. (B) redesignated subpars. (A) to (N) as cls. (i) to (xiv), in provision preceding cl. (i) substituted “such judicial officer” for “he”, in cl. (i) substituted “assume supervision” for “supervise him”, in cl. (iv) substituted “on personal” for “on his personal”, in cl. (x) substituted “medical, psychological,” for “medical”, designated provision relating to the judicial officer not imposing a financial condition that results in the pretrial detention of a person as par. (2), and designated provision permitting the judicial officer to impose at any time additional or different conditions of release as par. (3), and in par. (3) struck out “his” after “amend”.
 
 Subsec. (d). Pub. L. 99–646, §55(c)(4), in pars. (1) and (2) substituted “such person” for “the person” and in concluding provisions substituted “such person” for “the person” in four places, “such judicial officer” for “he”, “paragraph (1)(B) of this subsection” for “paragraph (1)(B)”, and “such person's United States citizenship or lawful admission” for “that he is a citizen of the United States or is lawfully admitted”.
 

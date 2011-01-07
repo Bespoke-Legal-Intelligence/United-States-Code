@@ -80,11 +80,11 @@ Schedules I, II, III, IV and V, referred to in text, are set out in section 812(
 
 #### Amendments
 
-2005—Subsec. (f). Pub. L. 109–57 added subsec. (f).
+<b>2005</b>—Subsec. (f). Pub. L. 109–57 added subsec. (f).
 
-1984—Subsec. (e). Pub. L. 98–473 in cl. (1) inserted provisions for consumption for medical, etc., purposes, added cls. (2) and (3), and struck out former cls. (2) to (4), respectively, relating to a special controlled substance invoice, two additional copies of the invoice, and exportation of a nonnarcotic controlled substance in schedule III, IV, or V, also listed in schedule I or II of the Convention.
+<b>1984</b>—Subsec. (e). Pub. L. 98–473 in cl. (1) inserted provisions for consumption for medical, etc., purposes, added cls. (2) and (3), and struck out former cls. (2) to (4), respectively, relating to a special controlled substance invoice, two additional copies of the invoice, and exportation of a nonnarcotic controlled substance in schedule III, IV, or V, also listed in schedule I or II of the Convention.
 
-1978—Subsec. (e)(4). Pub. L. 95–633 added par. (4).
+<b>1978</b>—Subsec. (e)(4). Pub. L. 95–633 added par. (4).
 
 #### Effective Date of 1978 Amendment
 

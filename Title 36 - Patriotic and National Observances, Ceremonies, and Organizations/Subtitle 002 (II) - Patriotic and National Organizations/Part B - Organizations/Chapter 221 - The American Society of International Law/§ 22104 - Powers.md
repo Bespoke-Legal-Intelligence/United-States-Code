@@ -32,7 +32,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-22104D36:345 (less perpetual succession).DSept. 20, 1950, ch. 958, §§5 (less perpetual succession), 11, 64 Stat. 871, 872.
+22104
+
+36:345 (less perpetual succession).
+
+Sept. 20, 1950, ch. 958, §§5 (less perpetual succession), 11, 64 Stat. 871, 872.
 
 &nbsp;
 

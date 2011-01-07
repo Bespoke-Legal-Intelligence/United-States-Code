@@ -32,5 +32,5 @@ The term “overcharges” as used in this section shall be deemed to mean charg
 
 #### Amendments
 
-1974—Subsecs. (a) to (c). Pub. L. 93–507 amended subsecs. (a) to (c) generally, substituting reference to two years for reference to one year wherever appearing.
+<b>1974</b>—Subsecs. (a) to (c). Pub. L. 93–507 amended subsecs. (a) to (c) generally, substituting reference to two years for reference to one year wherever appearing.
 

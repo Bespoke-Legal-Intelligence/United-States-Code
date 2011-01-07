@@ -8,5 +8,5 @@
 
 #### Amendments
 
-1970—Pub. L. 91–460 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1970</b>—Pub. L. 91–460 designated existing provisions as subsec. (a) and added subsec. (b).
 

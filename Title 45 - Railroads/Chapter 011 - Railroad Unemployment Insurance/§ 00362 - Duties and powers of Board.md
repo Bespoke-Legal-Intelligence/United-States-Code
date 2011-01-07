@@ -2,7 +2,7 @@
 
 #### (a) Witnesses; subpenas, service, fees, etc.
 
-For the purpose of any investigation or other proceeding relative to the determination of any right to benefits, or relative to any other matter within its jurisdiction under this chapter, the Board shall have the power to issue subpenas requiring the attendance and testimony of witnesses and the production of any evidence, documentary or otherwise, that relates to any matter under investigation or in question, before the Board or any member, employee, or representative thereof. Any member of the Board or any of its employees or representatives designated by it may administer oaths and affirmations, examine witnesses, and receive evidence. Such attendance of witnesses and production of evidence may be required from any place in the United States or any Territory or possession thereof at any designated place of hearing. All subpenas may be served and returned by anyone authorized by the Board in the same manner as is now provided by law for the service and return by United States marshals of subpenas in suits in equity. Such service may also be made by registered mail or by certified mail and in such case the return post-office receipt shall be proof of service. Witnesses summoned in accordance with this subsection shall be paid the same fees and mileage as are paid witnesses in the district courts of the United States.
+For the purpose of any investigation or other proceeding relative to the determination of anyright to benefits, or relative to any other matter within its jurisdiction under this chapter, the Board shall have the power to issue subpenas requiring the attendance and testimony of witnesses and the production of any evidence, documentary or otherwise, that relates to any matter under investigation or in question, before the Board or any member, employee, or representative thereof. Any member of the Board or any of its employees or representatives designated by it may administer oaths and affirmations, examine witnesses, and receive evidence. Such attendance of witnesses and production of evidence may be required from any place in the United States or any Territory or possession thereof at any designated place of hearing. All subpenas may be served and returned by anyone authorized by the Board in the same manner as is now provided by law for the service and return by United States marshals of subpenas in suits in equity. Such service may also be made by registered mail or by certified mail and in such case the return post-office receipt shall be proof of service. Witnesses summoned in accordance with this subsection shall be paid the same fees and mileage as are paid witnesses in the district courts of the United States.
 
 #### (b) Enforcement of subpenas by courts; contempts; service of orders, writs, or processes
 
@@ -16,11 +16,11 @@ Information obtained by the Board in connection with the administration of this 
 
 #### (e) Certification of claims; authorization of employee to make payments; bond
 
-The Board shall provide for the certification of claims for benefits and refunds and may arrange total or partial settlements at such times and in such manner as may appear to the Board to be expedient. The Board shall designate and authorize one or more of its employees to sign vouchers for the payment of benefits and refunds under this chapter. Each such employee shall give bond, in form and amount fixed by the Board, conditioned upon the faithful performance of his duties. The premiums due on such bonds shall be paid from the fund and deemed tobe a part of the expenses of administering this chapter.
+The Board shall provide for the certification of claims for benefits and refunds and may arrange total or partial settlements at such times and in such manner as may appear to the Board to be expedient. The Board shall designate and authorize one or more of its employees to sign vouchers for the payment of benefits and refunds under this chapter. Each such employee shall give bond, in form and amount fixed by the Board, conditioned upon the faithful performance of his duties. The premiums due on such bonds shall be paid from the fund and deemed to be a part of the expenses of administering this chapter.
 
 #### (f) Cooperation with other agencies administering unemployment or sickness compensation laws; agreements
 
-The Board may cooperate with or enter into agreement with the appropriate agencies charged with the administration of State, Territorial, Federal, or foreign unemployment-compensation or sickness laws or employment offices, with respect to investigations, the exchange of information and services, the establishment, maintenance, and use of free employment service facilities, and such other matters as the Board deems expedient in connection with the administration of this chapter, and may compensate any such agency for services or facilities supplied to the Board in connection with the administration of this chapter. The Board may enter also into agreements with any such agency, pursuant to which any unemployment or sickness benefits provided for by this chapter or any other unemployment-compensation or sickness law, may be paid through a single agency to persons who have, during the period on the basis of which eligibility for and duration of benefits is determined under the law administered by such agency or under this chapter, or both, performed services covered by one or more of such laws, or performed services which constitute employment as defined in this chapter: <i>Provided</i>, That the Board finds that any such agreement is fair and reasonable as to all affected interests.
+The Board may cooperate with or enter into agreement with the appropriate agencies charged with the administration of State, Territorial, Federal, or foreign unemployment-compensation or sickness laws or employment offices, with respect to investigations, the exchange of information and services, the establishment, maintenance, and use of free employment service facilities, and such other matters as the Board deems expedient in connection with the administration of this chapter, and may compensate any such agency for services or facilities supplied to the Board in connection with the administration of this chapter. The Board may enter also into agreements with any such agency, pursuant to which any unemployment or sickness benefits provided for by this chapter or any other unemployment-compensation or sickness law, may be paid through a single agency to persons who have, during the period on the basis of which eligibility for and duration of benefits is determined under the lawadministered by such agency or under this chapter, or both, performed services covered by one or more of such laws, or performed services which constitute employment as defined in this chapter: <i>Provided</i>, That the Board finds that any such agreement is fair and reasonable as to all affected interests.
 
 #### (g) Benefits also subject to a State law; mutual reimbursement
 
@@ -38,7 +38,7 @@ The Board may establish, maintain, and operate free employment offices, and may 
 
 The Board shall prescribe a procedure for registration of unemployed employees at employment offices. Such procedure for registration shall be prescribed with a view to such registration affording substantial evidence of the days of unemployment of the employees who register. The Board may, when such registration is made personally by an employee, accept such registration as initial proof of unemployment sufficient to certify for payment a claim for benefits.
 
-The Board shall provide a form or forms for statements of sickness and a procedure for the execution and filing thereof. Such forms and procedure shall be designated with a view to having such statements provide substantial evidence of the days of sickness of the employee. Such statements may be executed by any doctor (authorized to practice in the State or foreign jurisdiction in which he practices his profession) or any officer or supervisory employee of a hospital, clinic, group health association, or other similar organization, who is qualified undersuch regulations as the Board may prescribe to execute such statements. The Board shall issue regulations for the qualification of such persons to execute such statements. When so executed by any such person, or, in the discretion of the Board, by others designated by the Board individually or by groups, they may be accepted as initial proof of days of sickness sufficient to certify for payment a claim for benefits.
+The Board shall provide a form or forms for statements of sickness and a procedure for the execution and filing thereof. Such forms and procedure shall be designated with a view to having such statements provide substantial evidence of the days of sickness of the employee. Such statements may be executed by any doctor (authorized to practice in the State or foreign jurisdiction in which he practices his profession) or any officer or supervisory employee of a hospital, clinic, group health association, or other similar organization, who is qualified under such regulations as the Board may prescribe to execute such statements. The Board shall issue regulations for the qualification of such persons to execute such statements. When so executed by any such person, or, in the discretion of the Board, by others designated by the Board individually or by groups, they may be accepted as initial proof of days of sickness sufficient to certify for payment a claim for benefits.
 
 The regulations of the Board concerning registration at employment offices by unemployed persons may provide for group registration and reporting, through employers, and need not be uniform with respect to different classes of employees.
 
@@ -46,7 +46,7 @@ The operation of any employment facility operated by the Board shall be directed
 
 #### (j) Advisory councils; members’ remuneration
 
-The Board may appoint national or local advisory councils composed of equal numbers of representatives of employers, representatives of employees, and persons representing the general public, for the purpose of discussing problems in connection with the administration of this chapter and aiding the Board in formulating policies. The members of such councils shall serve without remuneration, but shall be reimbursed for any necessary traveling and subsistence expenses or on a per diem basis in lieu of subsistence expenses.
+The Board may appoint national or local advisory councils composed of equal numbers of representatives of employers, representatives of employees, and persons representing the general public, for the purpose of discussing problems inconnection with the administration of this chapter and aiding the Board in formulating policies. The members of such councils shall serve without remuneration, but shall be reimbursed for any necessary traveling and subsistence expenses or on a per diem basis in lieu of subsistence expenses.
 
 #### (k) Reduction of unemployment; training and reemployment of unemployed employees, etc.
 
@@ -64,7 +64,7 @@ The Board is authorized to delegate to any member, officer, or employee of the B
 
 #### (n) Sickness benefits; examinations; information and reports; contracts and expenses for examinations
 
-Any employee claiming, entitled to, or receiving sickness benefits under this chapter may berequired to take such examination, physical, medical, mental, or otherwise, in such manner and at such times and by such qualified individuals, including medical officers or employees of the United States or a State, as the Board may prescribe. The place or places of examination shall be reasonably convenient for the employee. No sickness benefits shall be payable under this chapter with respect to any period during which the employee unreasonably refuses to take or willfully obstructs an examination as prescribed by the Board.
+Any employee claiming, entitled to, or receiving sickness benefits under this chapter may be required to take such examination, physical, medical, mental, or otherwise, in such manner and at such times and by such qualified individuals, including medical officers or employees of the United States or a State, as the Board may prescribe. The place or places of examination shall be reasonably convenient for the employee. No sickness benefits shall be payable under this chapter with respect to any period during which the employee unreasonably refuses to take or willfully obstructs an examination as prescribed by the Board.
 
 Any doctor who renders any attendance, treatment, attention, or care, or performs any examination with respect to a sickness of an employee, upon which a claim or right to benefits under this chapter is based, shall furnish the Board, in such manner and form and at such times as the Board by regulations may prescribe, information and reports relative thereto and to the condition of the employee. An application for sickness benefits under this chapter shall contain a waiver of any doctor-patient privilege that the employee may have with respect to any sickness period upon which such application is based: <i>Provided</i>, That such information shall not be disclosed by the Board except in a proceeding relating to any claim for benefits by the employee under this chapter.
 
@@ -100,19 +100,17 @@ The Board shall engage in and conduct research projects, investigations, and stu
 
 &emsp;Not later than 10 days after each computation made under this subsection, the Board shall publish notice in the Federal Register and shall notify each employer and employee representative of the amount so computed.
 
-(June 25, 1938, ch. 680, §12, 52 Stat. 1107; June 20, 1939, ch. 227, §16, 53 Stat. 848; Oct. 10, 1940, ch.842, §§23, 24, 54 Stat. 1099; July 31, 1946, ch. 709, §§319–323, 60 Stat. 739, 740; June 25, 1948, ch. 646, §§1, 32(b), 62 Stat. 878, 895, 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Oct. 28, 1949, ch. 782, title II, §202(29), title XI, §1106(a), 63 Stat. 956, 972; Aug. 12, 1955, ch. 869, §6, 69 Stat. 716; Pub. L. 85–927, pt. II, §206, Sept. 6, 1958, 72 Stat. 1783; Pub. L. 86–507, §1(37), June 11, 1960, 74 Stat. 202; Pub. L. 89–700, title II, §206, Oct. 30, 1966, 80 Stat. 1087; Pub. L. 90–257, title II, §206, Feb. 15, 1968, 82 Stat. 25; Pub. L. 91–452, title II, §239, Oct. 15, 1970, 84 Stat. 930; Pub. L. 93–445, title IV, §405, Oct. 16, 1974, 88 Stat. 1359; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 100–647, title VII, §§7101(e), 7104(d), (e), Nov. 10, 1988, 102 Stat. 3758, 3772.)
+(June 25, 1938, ch. 680, §12, 52 Stat. 1107; June 20, 1939, ch. 227, §16, 53 Stat. 848; Oct. 10, 1940, ch. 842, §§23, 24, 54 Stat. 1099; July 31, 1946, ch. 709, §§319–323, 60 Stat. 739, 740; June 25, 1948, ch. 646, §§1, 32(b), 62 Stat. 878, 895, 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Oct. 28, 1949, ch. 782, title II, §202(29), title XI, §1106(a), 63 Stat. 956, 972; Aug. 12, 1955, ch. 869, §6, 69 Stat. 716; Pub. L. 85–927, pt. II, §206, Sept. 6, 1958, 72 Stat. 1783; Pub. L. 86–507, §1(37), June 11, 1960, 74 Stat. 202; Pub. L. 89–700, title II, §206, Oct. 30, 1966, 80 Stat. 1087; Pub. L. 90–257, title II, §206, Feb. 15, 1968, 82 Stat. 25; Pub. L. 91–452, title II, §239, Oct. 15, 1970, 84 Stat. 930; Pub. L. 93–445, title IV, §405, Oct. 16, 1974, 88 Stat. 1359; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 100–647, title VII, §§7101(e), 7104(d), (e), Nov. 10, 1988, 102 Stat. 3758, 3772.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this Act”, meaning act June 25, 1938, ch. 680, 52 Stat. 1094, which enacted this chapter and amended sections 503 and 1104 and former section 1107 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 367 of this title and Tables.
 
-The Railway Labor Act, referred to in subsecs. (h) and (i), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of this title. For complete classification of this Act to the Code, see section 151 of this title and Tables.
+The Railway Labor Act, referred to in subsecs. (h) and (i), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8\(§151 et seq.) of this title. For complete classification of this Act to the Code, see section 151 of this title and Tables.
 
 The Railroad Retirement Act of 1974, referred to in subsec. (<i>l</i>), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of this title. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of this title, section 231t of this title, and Tables.
 
 Section 205 of the Act of Congress approved June 24, 1937 (50 Stat. 307), referred to in subsec. (<i>l</i>), is section 205 of act June 24, 1937, ch. 382, 50 Stat. 307, which is not classified to the Code.
-
-The civil-service laws, referred to in subsec. (<i>l</i>), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
 
 #### Codification
 
@@ -124,17 +122,17 @@ In penultimate sentence of subsec. (<i>l</i>), following the first word “Notwi
 
 #### Amendments
 
-1988—Subsec. (d). Pub. L. 100–647, §7104(d), added cl. (iv).
+<b>1988</b>—Subsec. (d). Pub. L. 100–647, §7104(d), added cl. (iv).
 
 Subsec. (n). Pub. L. 100–647, §7104(e), struck out “court” before “proceeding” in proviso of second par.
 
 Subsec. (r). Pub. L. 100–647, §7101(e), added subsec. (r).
 
-1974—Subsec. (<i>l</i>). Pub. L. 93–445 substituted “subdivisions (5), (6), and (9) of section 7(b) of the Railroad Retirement Act of 1974” for “section 10(b)(4) of the Railroad Retirement Act of 1937”.
+<b>1974</b>—Subsec. (<i>l</i>). Pub. L. 93–445 substituted “subdivisions (5), (6), and (9) of section 7(b) of the Railroad Retirement Act of 1974” for “section 10(b)(4) of the Railroad Retirement Act of 1937”.
 
-1970—Subsec. (c). Pub. L. 91–452 struck out subsec. (c) which related to immunity from prosecution of any person compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
+<b>1970</b>—Subsec. (c). Pub. L. 91–452 struck out subsec. (c) which related to immunity from prosecution of any person compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
 
-1968—Subsec. (f). Pub. L. 90–257, §206(a), struck out references to maternity benefits and laws and made changes in punctuation and grammar necessitated thereby.
+<b>1968</b>—Subsec. (f). Pub. L. 90–257, §206(a), struck out references to maternity benefits and laws and made changes in punctuation and grammar necessitated thereby.
 
 Subsec. (g). Pub. L. 90–257, §206(b), struck out references to maternity benefits and maternity compensation laws and made changes in punctuation and grammar necessitated thereby.
 
@@ -142,19 +140,19 @@ Subsec. (i). Pub. L. 90–257, §206(c), struck out provisions making reference 
 
 Subsec. (n). Pub. L. 90–257, §206(d), struck out references to maternity benefits and to services of a doctor as to expected date of birth of a female employee's child, or the birth of such a child.
 
-1966—Subsec. (d). Pub. L. 89–700 authorized Board to furnish such information to any person or organization upon payment of the cost incurred by reason thereof, and requiring amounts so paid to Board to be credited to railroad unemployment insurance administration fund.
+<b>1966</b>—Subsec. (d). Pub. L. 89–700 authorized Board to furnish such information to any person or organization upon payment of the cost incurred by reason thereof, and requiring amounts so paid to Board to be credited to railroad unemployment insurance administration fund.
 
 Subsec. (g). Pub. L. 89–700 substituted “section 353 of this title” for “section 353(a) of this title”.
 
-1960—Subsec. (a). Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
+<b>1960</b>—Subsec. (a). Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
 
-1958—Subsec. (<i>l</i>). Pub. L. 85–927 struck out “except that the Board may fix the salary of a director of unemployment insurance at $10,000 per annum” before first proviso in second paragraph, and substituted “Classification Act of 1949” for “Classification Act of 1923”, immediately preceding such first proviso, which substitution had already been executed in accordance with act Oct. 28, 1949.
+<b>1958</b>—Subsec. (<i>l</i>). Pub. L. 85–927 struck out “except that the Board may fix the salary of a director of unemployment insurance at $10,000 per annum” before first proviso in second paragraph, and substituted “Classification Act of 1949” for “Classification Act of 1923”, immediately preceding such first proviso, which substitution had already been executed in accordance with act Oct. 28, 1949.
 
-1955—Subsec. (<i>l</i>). Act Aug. 12, 1955, specifically provided for employees of Railroad Retirement Board to be in and under competitive civil service.
+<b>1955</b>—Subsec. (<i>l</i>). Act Aug. 12, 1955, specifically provided for employees of Railroad Retirement Board to be in and under competitive civil service.
 
-1949—Subsec. (<i>l</i>). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923” in two places.
+<b>1949</b>—Subsec. (<i>l</i>). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923” in two places.
 
-1946—Subsec. (b). Act July 31, 1946, §319, inserted provisions relating to the District Court of the United States for the Northern District of Illinois.
+<b>1946</b>—Subsec. (b). Act July 31, 1946, §319, inserted provisions relating to the District Court of the United States for the Northern District of Illinois.
 
 Subsec. (f). Act July 31, 1946, §320, inserted references to sickness or maternity laws and benefits.
 
@@ -164,11 +162,11 @@ Subsec. (i). Act July 31, 1946, §322, added third par., providing for form, exe
 
 Subsecs. (n) to (q). Act July 31, 1946, §323, added subsecs. (n) to (q).
 
-1940—Subsec. (<i>l</i>). Act Oct. 10, 1940, §22, inserted provisions relating to acquisition of competitive classified civil-service status by a person in the employ of Board on June 30, 1939, and June 30, 1940.
+<b>1940</b>—Subsec. (<i>l</i>). Act Oct. 10, 1940, §22, inserted provisions relating to acquisition of competitive classified civil-service status by a person in the employ of Board on June 30, 1939, and June 30, 1940.
 
 Act Oct. 10, 1940, §23, inserted provisos relating to personnel for registering unemployed employees.
 
-1939—Subsec. (g). Act June 20, 1939, inserted “, with respect to unemployment after June 30, 1939” after “employee is eligible” and struck out “June 30, 1939” after “therefor) after”.
+<b>1939</b>—Subsec. (g). Act June 20, 1939, inserted “, with respect to unemployment after June 30, 1939” after “employee is eligible” and struck out “June 30, 1939” after “therefor) after”.
 
 #### Change of Name
 
@@ -186,7 +184,7 @@ Amendment by Pub. L. 93–445 effective Jan. 1, 1975, see section 603 of Pub. L.
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, and not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provisions note under section 6001 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, and not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtiethday following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provisions note under section 6001 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of 1968 Amendment
 

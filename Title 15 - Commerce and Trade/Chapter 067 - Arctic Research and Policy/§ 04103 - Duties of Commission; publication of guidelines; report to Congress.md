@@ -28,7 +28,7 @@
 
 #### Amendments
 
-1990—Subsec. (a)(4), (6). Pub. L. 101–609, §4(a)(1), (2), substituted “recommend” for “suggest”.
+<b>1990</b>—Subsec. (a)(4), (6). Pub. L. 101–609, §4(a)(1), (2), substituted “recommend” for “suggest”.
 
 Subsec. (a)(9), (10). Pub. L. 101–609, §4(a)(3)–(5), added pars. (9) and (10).
 

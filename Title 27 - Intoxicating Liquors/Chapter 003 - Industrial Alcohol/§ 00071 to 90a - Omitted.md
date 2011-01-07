@@ -12,9 +12,9 @@ Section 73, acts Oct. 28, 1919, ch. 85, title III, §3, 41 Stat. 319; Aug. 27, 1
 
 Section 74, act Oct. 28, 1919, ch. 85, title III, §4, 41 Stat. 320, related to transfer of registered industrial alcohol to other registered industrial alcohol plants or bonded warehouses, was incorporated in section 3107 of Internal Revenue Code of 1939.
 
-Section 74a, acts Feb. 24, 1919, ch. 18, §609, 40 Stat. 1109; June 26, 1936, ch. 830, title III, §320, 49 Stat. 1953, related to removal of taxable fermented liquors from brewery premises where produced to a contiguous industrial alcohol plant without payment of tax, was incorporated in section 3104 of Internal Revenue Code of 1939.
+Section 74a, acts Feb. 24, 1919, ch. 18, title VI, §609, 40 Stat. 1109; June 26, 1936, ch. 830, title III, §320, 49 Stat. 1953, related to removal of taxable fermented liquors from brewery premises where produced to a contiguous industrial alcohol plant without payment of tax, was incorporated in section 3104 of Internal Revenue Code of 1939.
 
-Section 74b, acts Feb. 24, 1919, ch. 18, §602, 40 Stat. 1106; June 26, 1936, ch. 830, title III, §308, 49 Stat. 1946, related to transfer of spirits produced at registered distilleries and in receiving cisterns in such distilleries to Internal Revenue Bonded Warehouses for storage until tax payment is made or where tax payment was made, retention of spirits in receiving cisterns, was incorporated in section 2883 of Internal Revenue Code of 1939.
+Section 74b, acts Feb. 24, 1919, ch. 18, title VI, §602, 40 Stat. 1106; June 26, 1936, ch. 830, title III, §308, 49 Stat. 1946, related to transfer of spirits produced at registered distilleries and in receiving cisterns in such distilleries to Internal Revenue Bonded Warehouses for storage until tax payment is made or where tax payment was made, retention of spirits in receiving cisterns, was incorporated in section 2883 of Internal Revenue Code of 1939.
 
 Section 75, act Oct. 28, 1919, ch. 85, title III, §5, 41 Stat. 320, related to time of attachment of any tax imposed by law on alcohol and liability of proprietors of industrial alcohol plants for such taxes, was incorporated in section 3112(a) of Internal Revenue Code of 1939.
 

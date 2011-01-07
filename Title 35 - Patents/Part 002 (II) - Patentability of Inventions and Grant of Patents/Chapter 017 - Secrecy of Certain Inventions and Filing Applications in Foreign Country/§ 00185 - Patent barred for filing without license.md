@@ -12,9 +12,9 @@ Language is changed.
 
 #### Amendments
 
-2002—Pub. L. 107–273 struck out second period at end.
+<b>2002</b>—Pub. L. 107–273 struck out second period at end.
 
-1988—Pub. L. 100–418 inserted before period at end “, unless the failure to procure such license was through error and without deceptive intent, and the patent does not disclose subject matter within the scope of section 181 of this title.”
+<b>1988</b>—Pub. L. 100–418 inserted before period at end “, unless the failure to procure such license was through error and without deceptive intent, and the patent does not disclose subject matter within the scope of section 181 of this title.”
 
 #### Effective Date of 1988 Amendment
 

@@ -44,3 +44,9 @@ Section 280b–11, act July 1, 1944, ch. 373, title III, §399, formerly §399b,
 
 A prior section 280b–12, act July 1, 1944, ch. 373, title III, §399b, as added Mar. 13, 1970, Pub. L. 91–212, §9, 84 Stat. 65, related to transfer of funds, prior to repeal by Pub. L. 93–353, title II, §204, July 23, 1974, 88 Stat. 373, applicable with respect to fiscal years beginning after June 30, 1974.
 
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by “of”.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
+

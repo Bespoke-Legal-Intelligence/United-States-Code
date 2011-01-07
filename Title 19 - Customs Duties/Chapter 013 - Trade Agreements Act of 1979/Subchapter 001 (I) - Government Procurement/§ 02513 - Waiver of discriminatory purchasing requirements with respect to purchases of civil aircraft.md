@@ -1,16 +1,16 @@
 ### §2513. Waiver of discriminatory purchasing requirements with respect to purchases of civil aircraft
 
-The President may waive the application of the provisions of title III of the Act of March 3, 1933 (41 U.S.C. 10a et seq.), popularly referred to as the Buy American Act, in the case of any procurement of civil aircraft and related articles of a country or instrumentality which is a party to the Agreement on Trade in Civil Aircraft referred to in section 2503(c) of this title and approved under section 2503(a) of this title. The President may modify or withdraw any waiver granted pursuant to this section.
+The President may waive the application of the provisions of chapter 83 of title 41 in the case of any procurement of civil aircraft and related articles of a country or instrumentality which is a party to the Agreement on Trade in Civil Aircraft referred to in section 2503(c) of this title and approved under section 2503(a) of this title. The President may modify or withdraw any waiver granted pursuant to this section.
 
 (Pub. L. 96–39, title III, §303, July 26, 1979, 93 Stat. 238; Pub. L. 103–465, title III, §342(a), Dec. 8, 1994, 108 Stat. 4953.)
 
-#### References in Text
+#### Codification
 
-Title III of the Act of March 3, 1933, referred to in text, is act Mar. 3, 1933, ch. 212, title III, 47 Stat. 1520, as amended, known as the Buy American Act, which is classified generally to sections 10a, 10b, and 10c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
+In text, “chapter 83 of title 41” substituted for “title III of the Act of March 3, 1933 (41 U.S.C. 10a et seq.), popularly referred to as the Buy American Act,” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-1994—Pub. L. 103–465 inserted “referred to in section 2503(c) of this title and approved under section 2503(a) of this title” after “Civil Aircraft”.
+<b>1994</b>—Pub. L. 103–465 inserted “referred to in section 2503(c) of this title and approved under section 2503(a) of this title” after “Civil Aircraft”.
 
 #### Effective Date of 1994 Amendment
 

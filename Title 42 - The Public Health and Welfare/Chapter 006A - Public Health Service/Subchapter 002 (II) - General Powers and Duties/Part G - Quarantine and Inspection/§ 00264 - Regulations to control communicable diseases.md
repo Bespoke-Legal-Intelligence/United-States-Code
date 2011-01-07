@@ -30,7 +30,7 @@ Nothing in this section or section 266 of this title, or the regulations promulg
 
 #### Amendments
 
-2002—Pub. L. 107–188, §142(a)(1), (2), (b)(1), and (c), which directed certain amendments to section 361 of the Public Health Act, was executed by making the amendments to this section, which is section 361 of the Public Health Service Act, to reflect the probable intent of Congress. See below.
+<b>2002</b>—Pub. L. 107–188, §142(a)(1), (2), (b)(1), and (c), which directed certain amendments to section 361 of the Public Health Act, was executed by making the amendments to this section, which is section 361 of the Public Health Service Act, to reflect the probable intent of Congress. See below.
 
 Subsec. (b). Pub. L. 107–188, §142(a)(1), substituted “Executive orders of the President upon the recommendation of the Secretary, in consultation with the Surgeon General,” for “Executive orders of the President upon the recommendation of the National Advisory Health Council and the Surgeon General”.
 
@@ -38,9 +38,9 @@ Subsec. (d). Pub. L. 107–188, §142(a)(2), (b)(1), substituted in first senten
 
 Subsec. (e). Pub. L. 107–188, §142(c), added subsec. (e).
 
-1976—Subsec. (d). Pub. L. 94–317 inserted provision defining “State” to include, in addition to the several States, only the District of Columbia.
+<b>1976</b>—Subsec. (d). Pub. L. 94–317 inserted provision defining “State” to include, in addition to the several States, only the District of Columbia.
 
-1960—Subsec. (c). Pub. L. 86–624 struck out reference to Territory of Hawaii.
+<b>1960</b>—Subsec. (c). Pub. L. 86–624 struck out reference to Territory of Hawaii.
 
 #### Effective Date of 1960 Amendment
 
@@ -50,7 +50,7 @@ Amendment by Pub. L. 86–624 effective Aug. 21, 1959, see section 47(f) of Pub.
 
 Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare bysection 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
 
 #### Evaluation of Public Health Authorities
 

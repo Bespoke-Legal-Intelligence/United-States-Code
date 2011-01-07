@@ -52,7 +52,7 @@ In subsection (b)(6), the words “transportation objectives” are substituted 
 
 #### Amendments
 
-1991—Subsec. (b)(4). Pub. L. 102–240 inserted “, through research and development or otherwise” after “advances in transportation”.
+<b>1991</b>—Subsec. (b)(4). Pub. L. 102–240 inserted “, through research and development or otherwise” after “advances in transportation”.
 
 #### Short Title of 2004 Amendment
 
@@ -73,6 +73,10 @@ Pub. L. 103–411, §1, Oct. 25, 1994, 108 Stat. 4236, provided that: “This Ac
 #### Short Title of 1991 Amendment
 
 Section 1 of Pub. L. 102–240 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Intermodal Surface Transportation Efficiency Act of 1991’.”
+
+#### Deemed References to Chapters 509 and 511 of Title 51
+
+Pub. L. 111–314, §4(d)(8), Dec. 18, 2010, 124 Stat. 3443, provided that: “In title 49, United States Code, references to ‘this title’ are deemed to refer also to chapters 509 and 511 of title 51, United States Code.”
 
 #### Congressional Declaration of Policy Regarding National Intermodal Transportation System
 

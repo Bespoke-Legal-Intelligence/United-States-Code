@@ -62,7 +62,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;In the case of a taxpayer to whom this subsection applies, subsections (a) and (b) shall apply to the excess prepaid farm supplies of such taxpayer in the same manner as if such taxpayer were a farming syndicate.
+&emsp;In the case of a taxpayer to whom this subsection applies, subsections (a) and (b) shall apply to the excess prepaid farm supplies ofsuch taxpayer in the same manner as if such taxpayer were a farming syndicate.
 
 #### (2) Taxpayer to whom subsection applies
 
@@ -120,11 +120,11 @@ Except as provided in subsection (f), subsections (a) and (b) shall not apply to
 
 #### Amendments
 
-1997—Subsec. (f)(3)(B)(i). Pub. L. 105–34 substituted “section 121” for “section 1034”.
+<b>1997</b>—Subsec. (f)(3)(B)(i). Pub. L. 105–34 substituted “section 121” for “section 1034”.
 
-1988—Subsec. (g). Pub. L. 100–647 added subsec. (g).
+<b>1988</b>—Subsec. (g). Pub. L. 100–647 added subsec. (g).
 
-1986—Pub. L. 99–514, §404(b)(1), substituted “for certain farming” for “in case of farming syndicates” in section catchline.
+<b>1986</b>—Pub. L. 99–514, §404(b)(1), substituted “for certain farming” for “in case of farming syndicates” in section catchline.
 
 Subsec. (d). Pub. L. 99–514, §803(b)(8), substituted “Exception” for “Exceptions” as heading and amended text generally. Prior to amendment, text read as follows: “Subsection (a) shall not apply to—
 
@@ -134,9 +134,9 @@ Subsec. (d). Pub. L. 99–514, §803(b)(8), substituted “Exception” for “E
 
 Subsec. (f). Pub. L. 99–514, §404(a), added subsec. (f).
 
-1982—Subsec. (c)(1)(A), (B). Pub. L. 97–354 substituted “an S corporation” for “an electing small business corporation (as defined in section 1371(b))”.
+<b>1982</b>—Subsec. (c)(1)(A), (B). Pub. L. 97–354 substituted “an S corporation” for “an electing small business corporation (as defined in section 1371(b))”.
 
-1978—Subsec. (c)(2). Pub. L. 95–600 substituted in subpar. (E) “(or a spouse of any such member)” for “(within the meaning of section 267(c)(4))” and provided that for purposes of subpar. (E) the term “family” has the meaning given to such term by section 267(c)(4).
+<b>1978</b>—Subsec. (c)(2). Pub. L. 95–600 substituted in subpar. (E) “(or a spouse of any such member)” for “(within the meaning of section 267(c)(4))” and provided that for purposes of subpar. (E) the term “family” has the meaning given to such term by section 267(c)(4).
 
 #### Effective Date of 1997 Amendment
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-If any interest costs incurred after Dec. 31, 1986, are attributable to costs incurred before Jan. 1, 1987, the amendment by section 803(b)(8) of Pub. L. 99–514 is applicable to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repealby section 803 of Pub. L. 99–514) or, if applicable, section 266 of such Code, see section 7831(d)(2) of Pub. L. 101–239, set out as an Effective Date note under section 263A of this title.
+If any interest costs incurred after Dec. 31, 1986, are attributable to costs incurred before Jan. 1, 1987, the amendment by section 803(b)(8) of Pub. L. 99–514 is applicable to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repeal by section 803 of Pub. L. 99–514) or, if applicable, section 266 of such Code, see section 7831(d)(2) of Pub. L. 101–239, set out as an Effective Date note under section 263A of this title.
 
 Section 404(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section\] shall apply to amounts paid or incurred after March 1, 1986, in taxable years beginning after such date.”
 
@@ -156,7 +156,7 @@ Amendment by section 803(b)(8) of Pub. L. 99–514 applicable to costs incurred 
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
+Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) ofPub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
 
 #### Effective Date of 1978 Amendment
 

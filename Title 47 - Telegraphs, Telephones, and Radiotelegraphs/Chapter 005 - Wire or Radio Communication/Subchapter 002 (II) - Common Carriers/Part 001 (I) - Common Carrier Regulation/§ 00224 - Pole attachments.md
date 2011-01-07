@@ -80,7 +80,7 @@ An entity that obtains an attachment to a pole, conduit, or right-of-way shall n
 
 #### Amendments
 
-1996—Subsec. (a)(1). Pub. L. 104–104, §703(1), inserted first sentence and struck out former first sentence which read as follows: “The term ‘utility’ means any person whose rates or charges are regulated by the Federal Government or a State and who owns or controls poles, ducts, conduits, or rights-of-way used, in whole or in part, for wire communication.”
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–104, §703(1), inserted first sentence and struck out former first sentence which read as follows: “The term ‘utility’ means any person whose rates or charges are regulated by the Federal Government or a State and who owns or controls poles, ducts, conduits, or rights-of-way used, in whole or in part, for wire communication.”
 
 Subsec. (a)(4). Pub. L. 104–104, §703(2), inserted “or provider of telecommunications service” after “system”.
 
@@ -94,11 +94,11 @@ Subsec. (d)(3). Pub. L. 104–104, §703(6), added par. (3).
 
 Subsecs. (e) to (i). Pub. L. 104–104, §703(7), added subsecs. (e) to (i).
 
-1994—Subsec. (b)(2). Pub. L. 103–414 substituted “The Commission” for “Within 180 days from February 21, 1978, the Commission”.
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–414 substituted “The Commission” for “Within 180 days from February 21, 1978, the Commission”.
 
-1984—Subsec. (c)(3). Pub. L. 98–549 added par. (3).
+<b>1984</b>—Subsec. (c)(3). Pub. L. 98–549 added par. (3).
 
-1982—Subsec. (e). Pub. L. 97–259 struck out subsec. (e) which provided that, upon expiration of 5-year period that began on Feb. 21, 1978, provisions of subsec. (d) of this section would cease to have any effect.
+<b>1982</b>—Subsec. (e). Pub. L. 97–259 struck out subsec. (e) which provided that, upon expiration of 5-year period that began on Feb. 21, 1978, provisions of subsec. (d) of this section would cease to have any effect.
 
 #### Effective Date of 1984 Amendment
 

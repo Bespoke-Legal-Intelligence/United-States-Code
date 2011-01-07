@@ -74,7 +74,7 @@ The provisions of subsections (a)(3) and (b)(3) of section 7652 shall not apply 
 
 #### Amendments
 
-1988—Subsec. (a)(2). Pub. L. 100–647, §2001(b)(2), inserted at end “If an importer or exporter of any substance requests that the Secretary determine whether such substance be listed as a taxable substance under paragraph (1) or be removed from such listing, the Secretary shall make such determination within 180 days after the date the request was filed.”
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–647, §2001(b)(2), inserted at end “If an importer or exporter of any substance requests that the Secretary determine whether such substance be listed as a taxable substance under paragraph (1) or be removed from such listing, the Secretary shall make such determination within 180 days after the date the request was filed.”
 
 Subsec. (a)(2)(B). Pub. L. 100–647, §2001(b)(1), inserted “(or more than 50 percent of the value)” after “weight”.
 

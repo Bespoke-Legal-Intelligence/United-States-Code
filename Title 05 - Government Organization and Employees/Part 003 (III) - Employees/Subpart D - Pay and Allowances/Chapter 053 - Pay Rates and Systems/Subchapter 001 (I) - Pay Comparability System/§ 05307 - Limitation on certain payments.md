@@ -26,7 +26,7 @@
 
 (3)(A) The Office of Personnel Management and the Office of Management and Budget jointly shall promulgate such regulations as may be necessary to carry out this subsection, including the criteria and procedures in accordance with which any determinations under this subsection shall be made.
 
-(B) The certification of an agency performance appraisal system under this subsection shall be for a period not to exceed 24 months beginning on the date of certification, unless extended by the Director of the Office of Personnel Management for up to 6 additional months, except that such certification may be terminated at any time upon a finding that the actions of such agency have not remained in conformance with applicable requirements.
+(B) The certification of an agency performance appraisal system under this subsection shall befor a period not to exceed 24 months beginning on the date of certification, unless extended by the Director of the Office of Personnel Management for up to 6 additional months, except that such certification may be terminated at any time upon a finding that the actions of such agency have not remained in conformance with applicable requirements.
 
 (C) Any certification or decertification under this subsection shall be made by the Office of Personnel Management, with the concurrence of the Office of Management and Budget.
 
@@ -111,6 +111,26 @@ Limitation.—The expiration of any extension under this paragraph shall be not 
 &emsp;&emsp;“(i) June 30, 2010; or
 
 &emsp;&emsp;“(ii) the second anniversary of the date of the certification.”
+
+#### Freeze on Discretionary Awards, Bonuses, and Similar Payments for Federal Political Appointees
+
+Memorandum of President of the United States, Aug. 3, 2010, 75 F.R. 47433, provided:
+
+Memorandum for the Assistant to the President and Chief of Staff \[and\] The Heads of Executive Departments and Agencies
+
+At a time when so many American families are struggling to make ends meet, I am committed to making sure the Federal Government is spending the taxpayers’ money wisely and carefully, and cutting costs wherever possible. I am committed to ending programs that do not work, streamlining those that do, and bringing a new responsibility for stewardship of tax dollars. Like households and businesses across the country, the Federal Government is tightening its belt. This effort began during my first days in office, when I froze the salaries of the senior members of my White House Staff.
+
+As a next step in this effort, I direct you to suspend cash awards, quality step increases, bonuses, and similar discretionary payments or salary adjustments to any politically appointed Federal employee, commencing immediately, and continuing through the end of Fiscal Year 2011. I also direct the Office of Personnel Management to issue guidance, in consultation with the Office of Management and Budget, to assist departments and agencies in implementing this policy.
+
+In addition to these actions freezing discretionary payments, I have proposed in my Budget for Fiscal Year 2011 a salary freeze for senior political appointees throughout the Federal Government. Unlike the administrative action I have taken today in this memorandum, my proposed salary freeze requires legislation, so it cannot be implemented absent legislative action by the Congress.
+
+I appreciate the hard work of our Federal workforce, and understand how important these payments can be to many workers and their families. Yet like households and businesses across the country, we need to make tough choices about how to spend our funds.
+
+This memorandum shall be carried out to the extent permitted by law and consistent with executive departments’ and agencies’ legal authorities. Nothing in this memorandum shall be construed to affect payments or salary adjustments for Federal employees who are not political appointees. This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+The Director of the Office of Management and Budget is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

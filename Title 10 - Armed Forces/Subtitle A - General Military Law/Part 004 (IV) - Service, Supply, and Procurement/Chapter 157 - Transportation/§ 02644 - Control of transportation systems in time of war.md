@@ -22,5 +22,5 @@ The words “as may be needful or desirable” are omitted as surplusage.
 
 #### Amendments
 
-1996—Pub. L. 104–201 renumbered section 4742 of this title as this section and substituted “Secretary of Defense” for “Secretary of the Army”.
+<b>1996</b>—Pub. L. 104–201 renumbered section 4742 of this title as this section and substituted “Secretary of Defense” for “Secretary of the Army”.
 

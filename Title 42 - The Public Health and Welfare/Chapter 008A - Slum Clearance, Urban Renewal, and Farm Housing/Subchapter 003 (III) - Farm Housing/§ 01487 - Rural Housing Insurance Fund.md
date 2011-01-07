@@ -14,7 +14,7 @@ The Secretary may use the Rural Housing Insurance Fund for the purpose of making
 
 #### (d) Authority to insure payment of interest and principal; liens; assignability of notes evidencing loans; interest subsidy on insured and guaranteed loans offered for sale to public; protection of borrowers under loans sold to public
 
-(1) The Secretary may, in conformity with subsections (a), (b), and (m) of this section, insure the payment of principal and interest on loans made by lenders other than the United States, and on loans made from or otherwise acquired by the Rural Housing Insurance Fund which are sold by the Secretary. Any contract of insurance executed by the Secretary hereunder shall be an obligation supported by the full faith and credit of the United States, and shall be incontestable except for fraud or material misrepresentation of which the holder has actual knowledge. In connection with loans insured under this section, the Secretary may take liens running to the United States notwithstanding the fact that the notes evidencing such loans may be held by lenders other than the United States. Notes evidencing such loans shall be freely assignable, but the Secretary shall not be bound by any such assignment until notice thereof is given to and acknowledged by him.
+(1) The Secretary may, in conformity with subsections (a), (b), and (m) of this section, insure the payment of principal and interest on loans made by lenders other than the United States, and on loans made from or otherwise acquired by the Rural Housing Insurance Fund which are sold by the Secretary. Any contract of insurance executed by the Secretary hereunder shall be an obligation supported by the full faith and credit of the United States, and shall be incontestable except for fraud or material misrepresentation of which the holder has actual knowledge. In connection with loans insured under this section, the Secretary may take liens running to the United States notwithstanding the fact that the notes evidencing such loansmay be held by lenders other than the United States. Notes evidencing such loans shall be freely assignable, but the Secretary shall not be bound by any such assignment until notice thereof is given to and acknowledged by him.
 
 (2) Each loan made by the Secretary or other lenders under this subchapter that is insured or guaranteed in accordance with this subsection shall, when offered for sale to the public, be accompanied by an agreement by the Secretary to pay to the holder of such loan (through an agreement to purchase such loan or through such other means as the Secretary determines to be appropriate) the difference between the rate of interest paid by the borrower of such loan and the market rate of interest (as determined by the Secretary) on obligations having comparable periods to maturity on the date of such sale.
 
@@ -46,7 +46,7 @@ The Secretary is authorized to issue notes to the Secretary of the Treasury to o
 
 #### (i) Retention of annual charge; administrative expenses; merger of funds
 
-The Secretary may retain out of interest payments by the borrower an annual charge in an amount specified in the insurance or sale agreement applicable to the loan. Of the charges retained by the Secretary, if any, not to exceed 1 per centum per annum of the unpaid balance of the loan shall be deposited in the Fund. Any retained charges not deposited in the Fund shall be available for administrative expenses in carrying out the provisions of this subchapter, to be transferred annually, and become merged with any appropriation for administrative expenses of the Farmers Home Administration, when and in such amounts as may be authorized in appropriation Acts.
+The Secretary may retain out of interest payments by the borrower an annual charge in an amount specified in the insurance or sale agreement applicable to the loan. Of the charges retained by the Secretary, if any, not to exceed 1 per centum per annum of the unpaid balance of the loan shall be deposited in the Fund. Any retained charges not deposited in the Fund shall be available for administrative expenses in carrying out the provisions of this subchapter, to be transferred annually, and become merged with any appropriation for administrative expenses of the Farmers Home Administration,when and in such amounts as may be authorized in appropriation Acts.
 
 #### (j) Additional uses of Fund moneys
 
@@ -56,7 +56,7 @@ The Secretary may also utilize the Fund—
 
 &emsp;(2) to pay the holder of any note insured under this section any defaulted installment or, upon assignment of the note to the Secretary at the Secretary's request, or pursuant to a purchase agreement, the entire balance outstanding on the note;
 
-&emsp;(3) to pay taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application and transmittal of collections or necessary to obtain credit reports on applicants or borrowers, andother services customary in the industry, independent audits of project expenses, construction inspections, commercial appraisals, servicing of loans, and other related program services and expenses, and other expenses and advances to protect the security for loans which are insured under this section or held in the Fund, and to acquire such security property at foreclosure sale or otherwise;
+&emsp;(3) to pay taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application and transmittal of collections or necessary to obtain credit reports on applicants or borrowers, and other services customary in the industry, independent audits of project expenses, construction inspections, commercial appraisals, servicing of loans, and other related program services and expenses, and other expenses and advances to protect the security for loans which are insured under this section or held in the Fund, and to acquire such security property at foreclosure sale or otherwise;
 
 &emsp;(4) to make assistance payments authorized by section 1490a(a) of this title;
 
@@ -88,17 +88,17 @@ The Secretary may guarantee and service loans made for the purchase of eligible 
 
 (2) Not later than the expiration of the 90-day period following April 7, 1986, the Secretary shall issue regulations to facilitate the marketability in the secondary mortgage market of loans insured or guaranteed under this section. Such regulations shall ensure that such loans are competitive with other loans and mortgages insured or guaranteed by the Federal Government.
 
-(July 15, 1949, ch. 338, title V, §517, as added Pub. L. 89–117, title X, §1003(a), Aug. 10, 1965, 79 Stat. 498; amended Pub. L. 89–754, title VIII, §806, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 91–78, §1, Sept. 30, 1969, 83 Stat. 125; Pub. L. 91–152, title IV, §413(a)–(e)(2), (f)(2), Dec. 24, 1969, 83 Stat. 398–400; Pub. L. 91–609, title VIII, §803(d), Dec. 31, 1970, 84 Stat. 1807; Pub. L. 93–117, §13(c), Oct. 2, 1973, 87 Stat. 423; Pub. L. 93–383, title V, §§505(c), 509(b), 514(c), 516(b), 517, 519(b), Aug. 22, 1974, 88 Stat. 694–696, 698, 699; Pub. L. 95–60, §4(c), June 30, 1977, 91 Stat. 258; Pub. L. 95–80, §4(c), July 31, 1977, 91 Stat. 340; Pub. L. 95–128, title V, §§501(c), 502(b), (c), 506, 509, Oct. 12, 1977, 91 Stat. 1139–1141; Pub. L. 95–406, §7(c), Sept. 30, 1978, 92 Stat. 881; Pub. L. 95–557, title V, §§501(f), 506(b), Oct. 31, 1978, 92 Stat. 2111, 2113; Pub. L. 96–71, §5(c), Sept. 28, 1979, 93 Stat. 502; Pub. L. 96–105, §5(c), Nov. 8, 1979, 93 Stat. 795; Pub. L. 96–153, title V, §§501(g), 511, Dec. 21, 1979, 93 Stat. 1134, 1137; Pub. L. 96–372, §6(c), Oct. 3, 1980, 94 Stat. 1364; Pub. L. 96–399, title V, §§501(c), 511, Oct. 8, 1980, 94 Stat. 1668, 1671; Pub. L. 97–35, title III, §351(c), Aug. 13, 1981, 95 Stat. 421; Pub. L. 97–289, §3(b), Oct. 6, 1982, 96 Stat. 1231; Pub. L. 98–35, §3(b), May 26, 1983, 97 Stat. 198; Pub. L. 98–109, §4(b), Oct. 1, 1983, 97 Stat. 746; Pub. L. 98–181, title V, §§511(c), 514, Nov. 30, 1983, 97 Stat. 1244, 1247; Pub. L. 98–479, title I, §105(f), title II, §203(d)(5), (6), Oct. 17, 1984, 98 Stat. 2227, 2230; Pub. L. 99–272, title III, §3006, Apr. 7, 1986, 100 Stat. 103; Pub. L. 100–242, title II, §243, Feb. 5, 1988, 101 Stat. 1890; Pub. L. 101–73, title V, §501(e)(2), Aug. 9, 1989, 103 Stat. 394; Pub. L. 102–550, title VII, §707(g), Oct. 28, 1992, 106 Stat. 3839.)
+(July 15, 1949, ch. 338, title V, §517, as added Pub. L. 89–117, title X, §1003(a), Aug. 10, 1965, 79 Stat. 498; amended Pub. L. 89–754, title VIII, §806, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 91–78, §1, Sept. 30, 1969, 83 Stat. 125; Pub. L. 91–152, title IV, §413(a)–(e)(2), (f)(2), Dec. 24, 1969, 83 Stat. 398–400; Pub. L. 91–609, title VIII, §803(d), Dec. 31, 1970, 84 Stat. 1807; Pub. L. 93–117, §13(c), Oct. 2, 1973, 87 Stat. 423; Pub. L. 93–383, title V, §§505(c), 509(b), 514(c), 516(b), 517, 519(b), Aug. 22, 1974, 88 Stat. 694–696, 698, 699; Pub. L. 95–60, §4(c), June 30, 1977, 91 Stat. 258; Pub. L. 95–80, §4(c), July 31, 1977, 91 Stat. 340; Pub. L. 95–128, title V, §§501(c), 502(b), (c), 506, 509, Oct. 12, 1977, 91 Stat. 1139–1141; Pub. L. 95–406, §7(c), Sept. 30, 1978, 92 Stat. 881; Pub. L. 95–557, title V, §§501(f), 506(b), Oct. 31, 1978, 92 Stat. 2111, 2113; Pub. L. 96–71, §5(c), Sept. 28, 1979, 93 Stat. 502; Pub. L. 96–105, §5(c), Nov. 8, 1979, 93 Stat. 795; Pub. L. 96–153, title V, §§501(g), 511, Dec. 21, 1979, 93 Stat. 1134, 1137; Pub. L. 96–372, §6(c), Oct. 3, 1980, 94 Stat. 1364; Pub. L. 96–399, title V, §§501(c), 511, Oct. 8, 1980, 94 Stat. 1668, 1671; Pub. L. 97–35, title III, §351(c), Aug. 13, 1981, 95 Stat. 421; Pub. L. 97–289, §3(b), Oct. 6, 1982, 96 Stat. 1231; Pub. L. 98–35, §3(b), May 26, 1983, 97 Stat. 198; Pub. L. 98–109, §4(b), Oct. 1, 1983, 97 Stat. 746; Pub. L. 98–181, title V, §§511(c), 514, Nov. 30, 1983, 97 Stat. 1244, 1247; Pub. L. 98–479, title I, §105(f), title II, §203(d)(5), (6), Oct. 17, 1984, 98 Stat. 2227, 2230; Pub. L. 99–272, title III, §3006, Apr. 7, 1986, 100 Stat. 103; Pub. L. 100–242, title II, §243, Feb. 5, 1988, 101 Stat. 1890; Pub. L.101–73, title V, §501(e)(2), Aug. 9, 1989, 103 Stat. 394; Pub. L. 102–550, title VII, §707(g), Oct. 28, 1992, 106 Stat. 3839.)
 
 #### Amendments
 
-1992—Subsec. (j)(3). Pub. L. 102–550 inserted “independent audits of project expenses,” after “customary in the industry,”.
+<b>1992</b>—Subsec. (j)(3). Pub. L. 102–550 inserted “independent audits of project expenses,” after “customary in the industry,”.
 
-1989—Subsec. (n). Pub. L. 101–73 added subsec. (n).
+<b>1989</b>—Subsec. (n). Pub. L. 101–73 added subsec. (n).
 
-1988—Subsec. (j)(7). Pub. L. 100–242 added par. (7).
+<b>1988</b>—Subsec. (j)(7). Pub. L. 100–242 added par. (7).
 
-1986—Subsec. (c). Pub. L. 99–272, §3006(a), inserted provision requiring any loan made and sold after Apr. 7, 1986, to be sold to the public and not to Federal Financing Bank unless required to service transactions between Secretary and Bank occurring on or before such date.
+<b>1986</b>—Subsec. (c). Pub. L. 99–272, §3006(a), inserted provision requiring any loan made and sold after Apr. 7, 1986, to be sold to the public and not to Federal Financing Bank unless required to service transactions between Secretary and Bank occurring on or before such date.
 
 Subsec. (d). Pub. L. 99–272, §3006(b), (c), designated existing provisions as par. (1), and added pars. (2) to (4).
 
@@ -108,13 +108,13 @@ Subsec. (n). Pub. L. 99–272, §3006(e), struck out subsec. (n) which restricte
 
 Subsec. (<i>o</i>). Pub. L. 99–272, §3006(f), designated existing provisions as par. (1), and added par. (2).
 
-1984—Subsec. (h). Pub. L. 98–479, §203(d)(5), substituted “chapter 31 of title 31” for “the Second Liberty Bond Act, as amended” and “such chapter” for “such Act”.
+<b>1984</b>—Subsec. (h). Pub. L. 98–479, §203(d)(5), substituted “chapter 31 of title 31” for “the Second Liberty Bond Act, as amended” and “such chapter” for “such Act”.
 
 Subsec. (j)(4). Pub. L. 98–479, §105(f), inserted “and” after the semicolon at the end.
 
 Subsec. (k). Pub. L. 98–479, §203(d)(6), substituted “chapter 11 of title 31” for “the Budget and Accounting Act, 1921”.
 
-1983—Subsec. (a). Pub. L. 98–181, §514(a)(1), substituted provisions relating to amount of loan to lowincome person or family, for provisions designated as pars. (1) and (2) relating to restrictions on loans with respect to amounts, interest, etc., where the borrowers are persons of low or moderate income, and similar restrictions where the borrowers are other persons.
+<b>1983</b>—Subsec. (a). Pub. L. 98–181, §514(a)(1), substituted provisions relating to amount of loan to low income person or family, for provisions designated as pars. (1) and (2) relating to restrictions on loans with respect to amounts, interest, etc., where the borrowers are persons of low or moderate income, and similar restrictions where the borrowers are other persons.
 
 Subsec. (a)(1). Pub. L. 98–181, §511(c), substituted “September 30, 1985” for “November 30, 1983”.
 
@@ -128,17 +128,17 @@ Subsec. (j)(6). Pub. L. 98–181, §514(b), struck out par. (6) which related to
 
 Subsec. (<i>o</i>). Pub. L. 98–181, §514(c), (d), added subsec. (<i>o</i>), and struck out former subsec. (<i>o</i>) which related to loans to persons of low income and to the minimum amounts available to such persons.
 
-1982—Subsec. (a)(1). Pub. L. 97–289 substituted “May 20, 1983” for “September 30, 1982”.
+<b>1982</b>—Subsec. (a)(1). Pub. L. 97–289 substituted “May 20, 1983” for “September 30, 1982”.
 
-1981—Subsec. (a)(1). Pub. L. 97–35 substituted “1982” for “1981”.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–35 substituted “1982” for “1981”.
 
-1980—Subsec. (a)(1). Pub. L. 96–399, §501(c), substituted “September 30, 1981” for “October 15, 1980”.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–399, §501(c), substituted “September 30, 1981” for “October 15, 1980”.
 
 Pub. L. 96–372 substituted “October 15, 1980” for “September 30, 1980”.
 
 Subsec. (n). Pub. L. 96–399, §511, inserted reference to moderate income borrowers.
 
-1979—Subsec. (a)(1). Pub. L. 96–153, §501(g), substituted “September 30, 1980” for “November 30, 1979”.
+<b>1979</b>—Subsec. (a)(1). Pub. L. 96–153, §501(g), substituted “September 30, 1980” for “November 30, 1979”.
 
 Pub. L. 96–105 substituted “November 30, 1979” for “October 31, 1979”.
 
@@ -146,13 +146,13 @@ Pub. L. 96–71 substituted “October 31, 1979” for “September 30, 1979”.
 
 Subsec. (<i>o</i>). Pub. L. 96–153, §511, redesignated existing provisions as par. (1) and added par. (2).
 
-1978—Subsec. (a)(1). Pub. L. 95–557, §501(f), substituted “September 30, 1979” for “October 31, 1978”.
+<b>1978</b>—Subsec. (a)(1). Pub. L. 95–557, §501(f), substituted “September 30, 1979” for “October 31, 1978”.
 
 Pub. L. 95–406 substituted “October 31, 1978” for “September 30, 1978”.
 
 Subsec. (j)(4). Pub. L. 95–557, §506(b), substituted “1490a(a)” for “1490a(a)(2)”.
 
-1977—Subsec. (a)(1). Pub. L. 95–128, §501(c), substituted “September 30, 1978” for “September 30, 1977”.
+<b>1977</b>—Subsec. (a)(1). Pub. L. 95–128, §501(c), substituted “September 30, 1978” for “September 30, 1977”.
 
 Pub. L. 95–80 substituted “September 30, 1977” for “July 31, 1977”.
 
@@ -166,7 +166,7 @@ Subsec. (n). Pub. L. 95–128, §502(c), added subsec. (n).
 
 Subsec. (<i>o</i>). Pub. L. 95–128, §509, added subsec. (<i>o</i>).
 
-1974—Subsec. (a)(1). Pub. L. 93–383, §509(b), substituted “June 30, 1977” for “October 1, 1974”.
+<b>1974</b>—Subsec. (a)(1). Pub. L. 93–383, §509(b), substituted “June 30, 1977” for “October 1, 1974”.
 
 Subsec. (b). Pub. L. 93–383, §§516(b), 517, inserted reference to section 1490f of this title and provisions relating to transfer of notes from and compensation for the Agricultural Credit Insurance Fund.
 
@@ -174,11 +174,11 @@ Subsec. (d). Pub. L. 93–383, §505(c)(1), struck out “as it becomes due” a
 
 Subsec. (j). Pub. L. 93–383, §§505(c)(2), (3), 514(c), 519(b), in cl. (1) substituted “any payment” for “any prepayment” and “such payments” for “such prepayments” and inserted provision relating to next agreed annual or semiannual remittance date, in cl. (3) inserted provisions authorizing other services customary in the industry, etc., and added cl. (4).
 
-1973—Subsec. (a)(1). Pub. L. 93–117 substituted “October 1, 1974” for “October 1, 1973”.
+<b>1973</b>—Subsec. (a)(1). Pub. L. 93–117 substituted “October 1, 1974” for “October 1, 1973”.
 
-1970—Subsec. (j)(3). Pub. L. 91–609 authorized use of Fund moneys for expenses necessary to obtain credit reports on applicants or borrowers.
+<b>1970</b>—Subsec. (j)(3). Pub. L. 91–609 authorized use of Fund moneys for expenses necessary to obtain credit reports on applicants or borrowers.
 
-1969—Subsec. (a)(1). Pub. L. 91–152, §413(a), substituted “October 1, 1973” for “January 1, 1970”.
+<b>1969</b>—Subsec. (a)(1). Pub. L. 91–152, §413(a), substituted “October 1, 1973” for “January 1, 1970”.
 
 Pub. L. 91–78 substituted “January 1, 1970” for “October 1, 1969”.
 
@@ -190,7 +190,7 @@ Subsec. (d). Pub. L. 91–152, §413(e)(2), inserted reference to subsec. (m) of
 
 Subsecs. (k) to (m). Pub. L. 91–152, §413(c)–(e)(1), added subsecs. (k) to (m).
 
-1966—Subsec. (a)(1). Pub. L. 89–754 substituted restriction against insurance or making of a loan under this par. after Oct. 1, 1969, except pursuant to a commitment entered into before that date for former clause (C) which provided that such loans shall not exceed in the aggregate of $300,000,000 of new loans made or insured in any one fiscal year.
+<b>1966</b>—Subsec. (a)(1). Pub. L. 89–754 substituted restriction against insurance or making of a loan under this par. after Oct. 1, 1969, except pursuant to a commitment entered into before that date for former clause (C) which provided that such loans shall not exceed in the aggregate of $300,000,000 of new loans made or insured in any one fiscal year.
 
 #### Sale of Rural Housing Loans
 

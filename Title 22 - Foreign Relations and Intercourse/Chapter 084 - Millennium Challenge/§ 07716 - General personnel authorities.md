@@ -36,7 +36,3 @@ In this section—
 
 (Pub. L. 108–199, div. D, title VI, §617, Jan. 23, 2004, 118 Stat. 224.)
 
-#### References in Text
-
-The civil service laws, referred to in subsec. (c), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-

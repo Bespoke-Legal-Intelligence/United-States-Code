@@ -8,7 +8,7 @@ Subject to the availability of funds made available under subsection (g) of this
 
 The total amount of funds available for a fiscal year for payments under this section shall equal not more than the product obtained by multiplying—
 
-&emsp;(1) 1/2 cent; by
+&emsp;(1) ½ cent; by
 
 &emsp;(2) the number of lunches reimbursed through food service programs under this chapter during the second preceding fiscal year in schools, institutions, and service institutions that participate in the food service programs.
 

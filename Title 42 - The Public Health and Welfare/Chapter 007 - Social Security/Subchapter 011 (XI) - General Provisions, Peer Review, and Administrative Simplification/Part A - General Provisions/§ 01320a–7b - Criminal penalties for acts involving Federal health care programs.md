@@ -54,11 +54,13 @@ Whoever—
 
 &emsp;(F) any remuneration between an organization and an individual or entity providing items or services, or a combination thereof, pursuant to a written agreement between the organization and the individual or entity if the organization is an eligible organization under section 1395mm of this title or if the written agreement, through a risk-sharing arrangement, places the individual or entity at substantial financial risk for the cost or utilization of the items or services, or a combination thereof, which the individual or entity is obligated to provide;
 
-&emsp;(G) the waiver or reduction by pharmacies (including pharmacies of the Indian Health Service, Indian tribes, tribal organizations, and urban Indian organizations) of any cost-sharing imposed under part D of subchapter XVIII of this chapter, if the conditions described in clauses (i) through (iii) of section 1320a–7a(i)(6)(A) of this title are met with respect to the waiver or reduction (except that, in the case of such a waiver or reduction on behalf of a subsidy eligible individual (as defined in section 1395w–114(a)(3) of this title), section 1320a–7a(i)(6)(A) of this title shall be applied without regard to clauses (ii) and (iii) of that section); and
+&emsp;(G) the waiver or reduction by pharmacies (including pharmacies of the Indian Health Service, Indian tribes, tribal organizations, and urban Indian organizations) of any cost-sharing imposed under part D of subchapter XVIII of this chapter, if the conditions described in clauses (i) through (iii) of section 1320a–7a(i)(6)(A) of this title are met with respect to the waiver or reduction (except that, in the case of such a waiver or reduction on behalf of a subsidy eligible individual (as defined in section 1395w–114(a)(3) of this title), section 1320a–7a(i)(6)(A) of this title shall be applied without regard to clauses (ii) and (iii) of that section);
 
-&emsp;(H) <sup>2</sup> any remuneration between a federally qualified health center (or an entity controlled by such a health center) and an MA organization pursuant to a written agreement described in section 1395w–23(a)(4) of this title.
+&emsp;(H) any remuneration between a federally qualified health center (or an entity controlled by such a health center) and an MA organization pursuant to a written agreement described in section 1395w–23(a)(4) of this title;
 
-&emsp;(H) <sup>2</sup> any remuneration between a health center entity described under clause (i) or (ii) of section 1396d(<i>l</i>)(2)(B) of this title and any individual or entity providing goods, items, services, donations, loans, or a combination thereof, to such health center entity pursuant to a contract, lease, grant, loan, or other agreement, if such agreement contributes to the ability of the health center entity to maintain or increase the availability, or enhance the quality, of services provided to a medically underserved population served by the health center entity.
+&emsp;(I) any remuneration between a health center entity described under clause (i) or (ii) of section 1396d(<i>l</i>)(2)(B) of this title and any individual or entity providing goods, items, services, donations, loans, or a combination thereof, to such health center entity pursuant to a contract, lease, grant, loan, or other agreement, if such agreement contributes to the ability of the health center entity to maintain or increase the availability, or enhance the quality, of services provided to a medically underserved population served by the health center entity; and
+
+&emsp;(J) a discount in the price of an applicable drug (as defined in paragraph (2) of section 1395w–114a(g) of this title) of a manufacturer that is furnished to an applicable beneficiary (as defined in paragraph (1) of such section) under the Medicare coverage gap discount program under section 1395w–114a of this title.
 
 #### (c) False statements or representations with respect to condition or operation of institutions
 
@@ -70,7 +72,7 @@ Whoever knowingly and willfully—
 
 &emsp;(1) charges, for any service provided to a patient under a State plan approved under subchapter XIX of this chapter, money or other consideration at a rate in excess of the rates established by the State (or, in the case of services provided to an individual enrolled with a medicaid managed care organization under subchapter XIX of this chapter under a contract under section 1396b(m) of this title or under a contractual, referral, or other arrangement under such contract, at a rate in excess of the rate permitted under such contract), or
 
-&emsp;(2) charges, solicits, accepts, or receives, in addition to any amount otherwise required to be paid under a State plan approved under subchapter XIX of this chapter, any gift, money, donation, or other consideration (other than a charitable, religious, or philanthropic contribution from an organization or from a person unrelated to the patient)—
+&emsp;(2) charges, solicits, accepts, or receives, in addition to any amount otherwise required to be paid under a State plan approved under subchapter XIX of this chapter, any gift, money, donation, or other consideration (other than acharitable, religious, or philanthropic contribution from an organization or from a person unrelated to the patient)—
 
 &emsp;&emsp;(A) as a precondition of admitting a patient to a hospital, nursing facility, or intermediate care facility for the mentally retarded, or
 
@@ -92,7 +94,15 @@ For purposes of this section, the term “Federal health care program” means�
 
 &emsp;(2) any State health care program, as defined in section 1320a–7(h) of this title.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128B, formerly title XVIII, §1877(d), and title XIX, §1909, as added and amended Pub. L. 92–603, title II, §§242(c), 278(b)(9), Oct. 30, 1972, 86 Stat. 1419, 1454; Pub. L. 95–142, §4(a), (b), Oct. 25, 1977, 91 Stat. 1179, 1181; Pub. L. 96–499, title IX, §917, Dec. 5, 1980, 94 Stat. 2625; Pub. L. 98–369, div. B, title III, §2306(f)(2), July 18, 1984, 98 Stat. 1073; renumbered title XI, §1128B, and amended Pub. L. 100–93, §§4(a)–(d), 14(b), Aug. 18, 1987, 101 Stat. 688, 689, 697; Pub. L. 100–203, title IV, §§4039(a), 4211(h)(7), Dec. 22, 1987, 101 Stat. 1330–81, 1330–206; Pub. L. 100–360, title IV, §411(a)(3)(A), (B)(i), July 1, 1988, 102 Stat. 768; Pub. L. 101–239, title VI, §6003(g)(3)(D)(ii), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 101–508, title IV, §§4161(a)(4), 4164(b)(2), Nov. 5, 1990, 104 Stat. 1388–94, 1388–102; Pub. L. 103–432, title I, §133(a)(2), Oct. 31, 1994, 108 Stat. 4421; Pub. L. 104–191, title II, §§204(a), 216(a), 217, Aug. 21, 1996, 110 Stat. 1999, 2007, 2008; Pub. L. 105–33, title IV, §§4201(c)(1), 4704(b), 4734, Aug. 5, 1997, 111 Stat. 373, 498, 522; Pub. L. 108–173, title I, §101(e)(2), (8)(A), title II, §237(d), title IV, §431(a), Dec. 8, 2003, 117 Stat. 2150, 2152, 2213, 2287.)
+#### (g) Liability under subchapter III of chapter 37 of title 31
+
+In addition to the penalties provided for in this section or section 1320a–7a of this title, a claim that includes items or services resulting from a violation of this section constitutes a false or fraudulent claim for purposes of subchapter III of chapter 37 of title 31.
+
+#### (h) Actual knowledge or specific intent not required
+
+With respect to violations of this section, a person need not have actual knowledge of this section or specific intent to commit a violation of this section.
+
+(Aug. 14, 1935, ch. 531, title XI, §1128B, formerly title XVIII, §1877(d), and title XIX, §1909, as added and amended Pub. L. 92–603, title II, §§242(c), 278(b)(9), Oct. 30, 1972, 86 Stat. 1419, 1454; Pub. L. 95–142, §4(a), (b), Oct. 25, 1977, 91 Stat. 1179, 1181; Pub. L. 96–499, title IX, §917, Dec. 5, 1980, 94 Stat. 2625; Pub. L. 98–369, div. B, title III, §2306(f)(2), July 18, 1984, 98 Stat. 1073; renumbered title XI, §1128B, and amended Pub. L. 100–93, §§4(a)–(d), 14(b), Aug. 18, 1987, 101 Stat. 688, 689, 697; Pub. L. 100–203, title IV, §§4039(a), 4211(h)(7), Dec. 22, 1987, 101 Stat. 1330–81, 1330–206; Pub. L. 100–360, title IV, §411(a)(3)(A), (B)(i), July 1, 1988, 102 Stat. 768; Pub. L. 101–239, title VI, §6003(g)(3)(D)(ii), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 101–508, title IV, §§4161(a)(4), 4164(b)(2), Nov. 5, 1990, 104 Stat. 1388–94, 1388–102; Pub. L. 103–432, title I, §133(a)(2), Oct. 31, 1994, 108 Stat. 4421; Pub. L. 104–191, title II, §§204(a), 216(a), 217, Aug. 21, 1996, 110 Stat. 1999, 2007, 2008; Pub. L. 105–33, title IV, §§4201(c)(1), 4704(b), 4734, Aug. 5, 1997, 111 Stat. 373, 498, 522; Pub. L. 108–173, title I, §101(e)(2), (8)(A), title II, §237(d), title IV, §431(a), Dec. 8, 2003, 117 Stat. 2150, 2152, 2213, 2287; Pub. L. 111–148, title III, §3301(d)(1), title VI, §6402(f), Mar. 23, 2010, 124 Stat. 468, 759.)
 
 #### References in Text
 
@@ -112,7 +122,17 @@ Prior to redesignation by Pub. L. 100–93, subsecs. (a) to (d) of this section 
 
 #### Amendments
 
-2003—Subsec. (b)(3)(E). Pub. L. 108–173, §101(e)(8)(A), which directed the amendment of subpar. (C) by inserting “or in regulations under section 1395w–104(e)(6) of this title” after “1987”, was executed by making the insertion in subpar. (E) to reflect the probable intent of Congress because “1987” does not appear in subpar. (C).
+<b>2010</b>—Subsec. (b)(3)(G). Pub. L. 111–148, §3301(d)(1)(A), struck out “and” at the end.
+
+Subsec. (b)(3)(H). Pub. L. 111–148, §3301(d)(1)(B), amended subpar. (H) relating to remuneration between a federally qualified health center and an MA organization by substituting a semicolon for the period at the end and realigning margins.
+
+Subsec. (b)(3)(I). Pub. L. 111–148, §3301(d)(1)(C)(i), (ii), redesignated subpar. (H) relating to remuneration between a health center entity and any individual or entity providing goods, items, services, donations, loans, or a combination thereof, to such health center entity as (I) and realigned margins.
+
+Subsec. (b)(3)(J). Pub. L. 111–148, §3301(d)(1)(C)(iii), (D), added subpar. (J).
+
+Subsecs. (g), (h). Pub. L. 111–148, §6402(f), added subsecs. (g) and (h).
+
+<b>2003</b>—Subsec. (b)(3)(E). Pub. L. 108–173, §101(e)(8)(A), which directed the amendment of subpar. (C) by inserting “or in regulations under section 1395w–104(e)(6) of this title” after “1987”, was executed by making the insertion in subpar. (E) to reflect the probable intent of Congress because “1987” does not appear in subpar. (C).
 
 Subsec. (b)(3)(G). Pub. L. 108–173, §101(e)(2), added subpar. (G).
 
@@ -120,7 +140,7 @@ Subsec. (b)(3)(H). Pub. L. 108–173, §431(a), added subpar. (H) relating to re
 
 Pub. L. 108–173, §237(d), added subpar. (H) relating to remuneration between a federally qualified health center and an MA organization.
 
-1997—Subsec. (a). Pub. L. 105–33, §4734(2), in cl. (ii) of concluding provisions, substituted “failure, conversion, or provision of counsel or assistance by any other person” for “failure, or conversion by any other person”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §4734(2), in cl. (ii) of concluding provisions, substituted “failure, conversion, or provision of counsel or assistance by any other person” for “failure, or conversion by any other person”.
 
 Subsec. (a)(6). Pub. L. 105–33, §4734(1), added par. (6) and struck out former par. (6) which read as follows: “knowingly and willfully disposes of assets (including by any transfer in trust) in order for an individual to become eligible for medical assistance under a State plan under subchapter XIX of this chapter, if disposing of the assets results in the imposition of a period of ineligibility for such assistance under section 1396p(c) of this title,”.
 
@@ -128,7 +148,7 @@ Subsec. (c). Pub. L. 105–33, §4201(c)(1), substituted “critical access” f
 
 Subsec. (d)(1). Pub. L. 105–33, §4704(b), inserted “(or, in the case of services provided to an individual enrolled with a medicaid managed care organization under subchapter XIX of this chapter under a contract under section 1396b(m) of this title or under a contractual, referral, or other arrangement under such contract, at a rate in excess of the rate permitted under such contract)” after “by the State”.
 
-1996—Pub. L. 104–191, §204(a)(1), substituted “Federal” for “Medicare or State” in section catchline.
+<b>1996</b>—Pub. L. 104–191, §204(a)(1), substituted “Federal” for “Medicare or State” in section catchline.
 
 Subsec. (a). Pub. L. 104–191, §204(a)(4), in concluding provisions, substituted “a Federal health care program” for “a State plan approved under subchapter XIX of this chapter” and “the administrator of such program may at its option (notwithstanding any other provision of such program)” for “the State may at its option (notwithstanding any other provision of that subchapter or of such plan)”.
 
@@ -146,21 +166,21 @@ Subsec. (c). Pub. L. 104–191, §204(a)(6), inserted “(as defined in section 
 
 Subsec. (f). Pub. L. 104–191, §204(a)(7), added subsec. (f).
 
-1994—Subsec. (b)(3)(B). Pub. L. 103–432, which directed substitution of “1395m(j)(5)” for “1395m(j)(4)” in subpar. (B) as amended by section 134(a) of Pub. L. 103–432, could not be executed because “1395m(j)(4)” does not appear in subpar. (B) and section 134(a) of Pub. L. 103–432 did not amend this section.
+<b>1994</b>—Subsec. (b)(3)(B). Pub. L. 103–432, which directed substitution of “1395m(j)(5)” for “1395m(j)(4)” in subpar. (B) as amended by section 134(a) of Pub. L. 103–432, could not be executed because “1395m(j)(4)” does not appear in subpar. (B) and section 134(a) of Pub. L. 103–432 did not amend this section.
 
-1990—Subsec. (b)(3)(D), (E). Pub. L. 101–508, §4161(a)(4), added subpar. (D) and redesignated former subpar. (D) as (E).
+<b>1990</b>—Subsec. (b)(3)(D), (E). Pub. L. 101–508, §4161(a)(4), added subpar. (D) and redesignated former subpar. (D) as (E).
 
 Subsec. (c). Pub. L. 101–508, §4164(b)(2), substituted “health care program, or with respect to information required to be provided under section 1320a–3a of this title,” for “health care program”.
 
-1989—Subsec. (c). Pub. L. 101–239 inserted “rural primary care hospital,” after “hospital,”.
+<b>1989</b>—Subsec. (c). Pub. L. 101–239 inserted “rural primary care hospital,” after “hospital,”.
 
-1988—Subsec. (c). Pub. L. 100–360 made technical correction to directory language of Pub. L. 100–203, §4039(a), see 1987 Amendment note below.
+<b>1988</b>—Subsec. (c). Pub. L. 100–360 made technical correction to directory language of Pub. L. 100–203, §4039(a), see 1987 Amendment note below.
 
 Pub. L. 100–203, §4211(h)(7)(A), substituted “nursing facility, intermediate care facility for the mentally retarded” for “intermediate care facility”.
 
 Subsec. (d)(2)(A). Pub. L. 100–203, §4211(h)(7)(B), substituted “nursing facility, or intermediate care facility for the mentally retarded” for “skilled nursing facility, or intermediate care facility”.
 
-1987—Pub. L. 100–93, §4(a)(1), substituted “Criminal penalties for acts involving Medicare or State health care programs” for “Offenses and penalties” in section catchline.
+<b>1987</b>—Pub. L. 100–93, §4(a)(1), substituted “Criminal penalties for acts involving Medicare or State health care programs” for “Offenses and penalties” in section catchline.
 
 Subsec. (a). Pub. L. 100–93, §4(a)(3), (4), in concluding provisions, substituted “made under the program” for “made under this subchapter”, “approved under subchapter XIX of this chapter” for “approved under this subchapter”, and “provision of that subchapter” for “provision of this subchapter”.
 
@@ -180,11 +200,11 @@ Subsec. (d)(1), (2). Pub. L. 100–93, §4(a)(8), substituted “subchapter XIX 
 
 Subsec. (e). Pub. L. 100–93, §4(c), redesignated subsec. (d) of section 1395nn of this title as subsec. (e) of this section.
 
-1984—Subsec. (e). Pub. L. 98–369 inserted “or agrees to be a participating physician or supplier under section 1395u(h)(1) of this title” after “section 1395u(b)(3)(B)(ii) of this title”, and substituted “or agreement” for “specified in subclause (I) of such section”.
+<b>1984</b>—Subsec. (e). Pub. L. 98–369 inserted “or agrees to be a participating physician or supplier under section 1395u(h)(1) of this title” after “section 1395u(b)(3)(B)(ii) of this title”, and substituted “or agreement” for “specified in subclause (I) of such section”.
 
-1980—Subsec. (b)(1), (2). Pub. L. 96–499 inserted “knowingly and willfully” after “Whoever”.
+<b>1980</b>—Subsec. (b)(1), (2). Pub. L. 96–499 inserted “knowingly and willfully” after “Whoever”.
 
-1977—Subsec. (a). Pub. L. 95–142, §4(b), designated existing provisions following par. (4) as cl. (ii) and, as so designated, inserted provisions relating to activities of other persons, and inserted provisions authorizing the State to limit, restrict, or suspend, the eligibility of any convicted persons for benefits, and added cl. (i). See Codification note above.
+<b>1977</b>—Subsec. (a). Pub. L. 95–142, §4(b), designated existing provisions following par. (4) as cl. (ii) and, as so designated, inserted provisions relating to activities of other persons, and inserted provisions authorizing the State to limit, restrict, or suspend, the eligibility of any convicted persons for benefits, and added cl. (i). See Codification note above.
 
 Subsec. (b). Pub. L. 95–142, §4(b), redesignated existing provisions as par. (1), substituted provisions relating to solicitation or receiving of any remuneration in return for referring an individual to a person for the furnishing or arranging the furnishing of any item or service, or in return for purchasing, leasing, ordering, or arranging for or recommending purchasing, etc., as constituting a felony punishable by a fine of not more than $25,000 and/or imprisonment for not more than five years, for provisions relating to furnishing items or services and soliciting, offering or receiving any kickback, bribe, or rebate in connection with furnishing, etc. items or services as constituting a misdemeanor punishable by a fine of not more than $10,000 and/or imprisonment for not more than one year, and added pars. (2) and (3). See Codification note above.
 
@@ -194,7 +214,11 @@ Subsec. (d). Pub. L. 95–142, §4(b), added subsec. (d). See Codification note 
 
 Subsec. (e). Pub. L. 95–142, §4(a), added subsec. (e). See Codification note above.
 
-1972—Subsec. (c). Pub. L. 92–603, §278(b)(9), substituted “skilled nursing facility” for “skilled nursing home”.
+<b>1972</b>—Subsec. (c). Pub. L. 92–603, §278(b)(9), substituted “skilled nursing facility” for “skilled nursing home”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–148, title III, §3301(d)(3), Mar. 23, 2010, 124 Stat. 468, provided that: “The amendments made by this subsection \[amending this section and 1396r–8 of this title\] shall apply to drugs dispensed on or after July 1, 2010.”
 
 #### Effective Date of 2003 Amendment
 
@@ -252,7 +276,7 @@ Establishment.—
 
 &emsp;“(A)
 
-In general.—The Secretary \[of Health and Human Services\] shall establish, on an expedited basis, standards relating to the exception described in section 1128B(b)(3)(H) of the Social Security Act \[subsec. (b)(3)(H) of this section\], as added by subsection (a), for health center entity arrangements to the antikickback penalties.
+In general.—The Secretary \[of Health and Human Services\] shall establish, on an expedited basis, standards relating to the exception described in section 1128B(b)(3)(H) \[now section 1128B(b)(3)(I)\] of the Social Security Act \[42 U.S.C. 1320a–7b(b)(3)(I)\], as added by subsection (a), for health center entity arrangements to the antikickback penalties.
 
 &emsp;“(B)
 
@@ -339,6 +363,4 @@ Publication of rule after public comment.—The Secretary shall provide for cons
 Section 14(a) of Pub. L. 100–93 provided that: “The Secretary of Health and Human Services, in consultation with the Attorney General, not later than 1 year after the date of the enactment of this Act \[Aug. 18, 1987\] shall publish proposed regulations, and not later than 2 years after the date of the enactment of this Act shall promulgate final regulations, specifying payment practices that shall not be treated as a criminal offense under section 1128B(b) of the Social Security Act \[subsec. (b) of this section\] and shall not serve as the basis for an exclusion under section 1128(b)(7) of such Act. Any practices specified in regulations pursuant to the preceding sentence shall be in addition to the practices described in subparagraphs (A) through (C) of section 1128B(b)(3).”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Two subpars. (H) have been enacted.</i>
 

@@ -18,13 +18,11 @@ Covered Members.—A member eligible for monthly special compensation authorized
 
 (c)
 
-Amount.—(1) The amount of monthly special compensation payable to a member under subsection (a) shall be determined under criteria prescribed by the Secretary of Defense (or the Secretary of Homeland Security, with respect to the Coast Guard), but may not exceed the amount of aid and attendance allowance authorized by section 1114(r)(2) of title 38 for veterans in need of aid and attendance.
+Amount.—The amount of monthly special compensation payable to a member under subsection (a) shall be the amount as follows:
 
-(2) In determining the amount of monthly special compensation, the Secretary concerned shall consider the following:
+&emsp;(1) The monthly amount of aid and attendance payable under section 1114(r)(2) of title 38.
 
-&emsp;(A) The extent to which home health care and related services are being provided by the Government.
-
-&emsp;(B) The value of the aid and attendance care necessary to assist the member in performing the personal functions required in everyday living, to be determined regardless of the sources of the care (other than the source identified in subparagraph (A)) actually being provided to the member.
+&emsp;(2) Upon the establishment by the Secretary of Veterans Affairs pursuant to subparagraph (C) of section 1720G(a)(3) of title 38 of the schedule of monthly personal caregiver stipends under the Department of Veterans Affairs program of comprehensive assistance for family caregivers under subparagraph (A)(ii)(V) of such section, the monthly personal caregiver stipend payable with respect to similarly circumstanced veterans under such schedule, rather than the amount specified in paragraph (1).
 
 (d)
 
@@ -46,7 +44,7 @@ Construction With Other Pay and Allowances.—Monthly special compensation payab
 
 Benefit Information.—(1) The Secretary of Defense, in collaboration with the Secretary of Veterans Affairs, shall ensure that members of the uniformed services who may be eligible for compensation under this section are made aware of the availability of such compensation by including information about such compensation in written and online materials for such members and their families.
 
-(2) The Secretary of Defense shall ensure that a member eligible to receive special monthly compensation under this section is aware that the member's eligibility for such compensation will expire pursuant to subsection (d)(1) after the end of the 90-day period that begins on the date of the separation or retirement of the member even though the member has not begun to receive compensation under section 1114(r)(2) of title 38 before the end of such period.
+(2) The Secretary of Defense shall ensure that a member eligible to receive special monthly compensation under this section is aware that the member's eligibility for such compensation will expire pursuant to subsection (d)(1) after the end of the 90-day period that begins on the date of the separation or retirement of the member even though the member has not begun toreceive compensation under section 1114(r)(2) of title 38 before the end of such period.
 
 (g)
 
@@ -60,5 +58,9 @@ Catastrophic Injury or Illness Defined.—In this section, the term “catastrop
 
 Regulations.—The Secretary of Defense (or the Secretary of Homeland Security, with respect to the Coast Guard) shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 111–84, div. A, title VI, §603(a), Oct. 28, 2009, 123 Stat. 2348.)
+(Added Pub. L. 111–84, div. A, title VI, §603(a), Oct. 28, 2009, 123 Stat. 2348; amended Pub. L. 111–383, div. A, title VI, §634, Jan. 7, 2011, 124 Stat. 4241.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (c). Pub. L. 111–383 amended subsec. (c) generally. Prior to amendment, subsec. (c) related to the amount of monthly special compensation payable to a member under subsec. (a).
 

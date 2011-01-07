@@ -42,3 +42,5 @@ Presidential Proclamation No. 5030, referred to in par. (4), is set out under se
 
 Presidential Proclamation Number 5928, referred to in par. (6), is set out under section 1331 of Title 43, Public Lands.
 
+<i><sup>1</sup></i><i> So in original. Closing single quotation mark probably should not appear.</i>
+

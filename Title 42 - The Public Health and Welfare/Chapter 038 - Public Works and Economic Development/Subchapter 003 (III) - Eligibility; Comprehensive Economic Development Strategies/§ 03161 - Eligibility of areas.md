@@ -48,5 +48,5 @@ A prior section 301 of Pub. L. 89–136 was classified to section 3151 of this t
 
 #### Amendments
 
-2004—Subsec. (c)(1). Pub. L. 108–373 inserted “(including data available from the Bureau of Economic Analysis, the Bureau of Labor Statistics, the Census Bureau, the Bureau of Indian Affairs, or any other Federal source determined by the Secretary to be appropriate)” after “most recent Federal data available”.
+<b>2004</b>—Subsec. (c)(1). Pub. L. 108–373 inserted “(including data available from the Bureau of Economic Analysis, the Bureau of Labor Statistics, the Census Bureau, the Bureau of Indian Affairs, or any other Federal source determined by the Secretary to be appropriate)” after “most recent Federal data available”.
 

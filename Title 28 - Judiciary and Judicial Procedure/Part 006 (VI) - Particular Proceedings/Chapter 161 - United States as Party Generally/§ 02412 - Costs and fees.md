@@ -12,7 +12,7 @@
 
 (d)(1)(A) Except as otherwise specifically provided by statute, a court shall award to a prevailing party other than the United States fees and other expenses, in addition to any costs awarded pursuant to subsection (a), incurred by that party in any civil action (other than cases sounding in tort), including proceedings for judicial review of agency action, brought by or against the United States in any court having jurisdiction of that action, unless the court finds that the position of the United States was substantially justified or that special circumstances make an award unjust.
 
-(B) A party seeking an award of fees and other expenses shall, within thirty days of final judgment in the action, submit to the court an application for fees and other expenses which shows that the party is a prevailing party and is eligible to receive an award under this subsection, and the amount sought, including an itemized statement from any attorney or expert witness representing or appearing in behalf of the party stating the actual time expended and the rate at which fees and other expenses were computed. The party shall also allege that the position of the United States was not substantially justified. Whether or not the position of the United States was substantially justified shall be determined on the basis of the record (including the record with respect to the action or failure to act by the agency upon which the civil action is based) which is made in the civil action for which fees and other expenses are sought.
+(B) A party seeking an award of fees and other expenses shall, within thirty days of final judgment in the action, submit to the court an application for fees and other expenses which shows that the party is a prevailing party and is eligible to receive an award under this subsection, and the amount sought, including anitemized statement from any attorney or expert witness representing or appearing in behalf of the party stating the actual time expended and the rate at which fees and other expenses were computed. The party shall also allege that the position of the United States was not substantially justified. Whether or not the position of the United States was substantially justified shall be determined on the basis of the record (including the record with respect to the action or failure to act by the agency upon which the civil action is based) which is made in the civil action for which fees and other expenses are sought.
 
 (C) The court, in its discretion, may reduce the amount to be awarded pursuant to this subsection, or deny an award, to the extent that the prevailing party during the course of the proceedings engaged in conduct which unduly and unreasonably protracted the final resolution of the matter in controversy.
 
@@ -28,7 +28,7 @@
 
 &emsp;(D) “position of the United States” means, in addition to the position taken by the United States in the civil action, the action or failure to act by the agency upon which the civil action is based; except that fees and expenses may not be awarded to a party for any portion of the litigation in which the party has unreasonably protracted the proceedings;
 
-&emsp;(E) “civil action brought by or against the United States” includes an appeal by a party, other than the United States, from a decision of a contracting officer rendered pursuant to a disputes clause in a contract with the Government or pursuant to the Contract Disputes Act of 1978;
+&emsp;(E) “civil action brought by or against the United States” includes an appeal by a party, other than the United States, from a decision of a contracting officer rendered pursuant to a disputes clause in a contract with the Government or pursuant to chapter 71 of title 41;
 
 &emsp;(F) “court” includes the United States Court of Federal Claims and the United States Court of Appeals for Veterans Claims;
 
@@ -38,15 +38,15 @@
 
 &emsp;(I) “demand” means the express demand of the United States which led to the adversary adjudication, but shall not include a recitation of the maximum statutory penalty (i) in the complaint, or (ii) elsewhere when accompanied by an express demand for a lesser amount.
 
-(3) In awarding fees and other expenses under this subsection to a prevailing party in any action for judicial review of an adversary adjudication, as defined in subsection (b)(1)(C) of section 504 of title 5, United States Code, or an adversary adjudication subject to the Contract Disputes Act of 1978, the court shall include in that award fees and other expenses to the same extent authorized in subsection (a) of such section, unless the court finds that during such adversary adjudication the position of the United States was substantially justified, or that special circumstances make an award unjust.
+(3) In awarding fees and other expenses under this subsection to a prevailing party in any action for judicial review of an adversary adjudication, as defined in subsection (b)(1)(C) of section 504 of title 5, United States Code, or an adversary adjudication subject to chapter 71 of title 41, the court shall include in that award fees and other expenses to the same extent authorized in subsection (a) of such section, unless the court finds that during such adversary adjudication the position of the United States was substantially justified, or that special circumstances make an award unjust.
 
 (4) Fees and other expenses awarded under this subsection to a party shall be paid by any agency over which the party prevails from any funds made available to the agency by appropriation or otherwise.
 
-(e) The provisions of this section shall not apply to any costs, fees, and other expenses inconnection with any proceeding to which section 7430 of the Internal Revenue Code of 1986 applies (determined without regard to subsections (b) and (f) of such section). Nothing in the preceding sentence shall prevent the awarding under subsection (a) of section 2412 of title 28, United States Code, of costs enumerated in section 1920 of such title (as in effect on October 1, 1981).
+(e) The provisions of this section shall not apply to any costs, fees, and other expenses in connection with any proceeding to which section 7430 of the Internal Revenue Code of 1986 applies (determined without regard to subsections (b) and (f) of such section). Nothing in the preceding sentence shall prevent the awardingunder subsection (a) of section 2412 of title 28, United States Code, of costs enumerated in section 1920 of such title (as in effect on October 1, 1981).
 
 (f) If the United States appeals an award of costs or fees and other expenses made against the United States under this section and the award is affirmed in whole or in part, interest shall be paid on the amount of the award as affirmed. Such interest shall be computed at the rate determined under section 1961(a) of this title, and shall run from the date of the award through the day before the date of the mandate of affirmance.
 
-(June 25, 1948, ch. 646, 62 Stat. 973; Pub. L. 89–507, §1, July 18, 1966, 80 Stat. 308; Pub. L. 96–481, title II, §204(a), (c), Oct. 21, 1980, 94 Stat. 2327, 2329; Pub. L. 97–248, title II, §292(c), Sept. 3, 1982, 96 Stat. 574; Pub. L. 99–80, §§2, 6, Aug. 5, 1985, 99 Stat. 184, 186; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–572, title III, §301(a), title V, §§502(b), 506(a), title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4511–4513, 4516; Pub. L. 104–66, title I, §1091(b), Dec. 21, 1995, 109 Stat. 722; Pub. L. 104–121, title II, §232, Mar. 29, 1996, 110 Stat. 863; Pub. L. 105–368, title V, §512(b)(1)(B), Nov. 11, 1998, 112 Stat. 3342.)
+(June 25, 1948, ch. 646, 62 Stat. 973; Pub. L. 89–507, §1, July 18, 1966, 80 Stat. 308; Pub. L. 96–481, title II, §204(a), (c), Oct. 21, 1980, 94 Stat. 2327, 2329; Pub. L. 97–248, title II, §292(c), Sept. 3, 1982, 96 Stat. 574; Pub. L. 99–80, §§2, 6, Aug. 5, 1985, 99 Stat. 184, 186; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–572, title III, §301(a), title V, §§502(b), 506(a), title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4511–4513, 4516; Pub. L. 104–66, title I, §1091(b), Dec. 21, 1995, 109 Stat. 722; Pub. L. 104–121, title II, §232, Mar. 29, 1996, 110 Stat. 863; Pub. L. 105–368, title V, §512(b)(1)(B), Nov. 11, 1998, 112 Stat. 3342; Pub. L. 111–350, §5(g)(9), Jan. 4, 2011, 124 Stat. 3848.)
 
 #### Historical and Revision Notes
 
@@ -68,15 +68,17 @@ Changes were made in phraseology.
 
 #### References in Text
 
-The Contract Disputes Act of 1978, referred to in subsec. (d)(2)(E), (3), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, as amended, which is classified principally to chapter 9 (§601 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 41 and Tables.
-
 Section 7430 of the Internal Revenue Code of 1986, referred to in subsec. (e), is classified to section 7430 of Title 26, Internal Revenue Code.
 
 #### Amendments
 
-1998—Subsec. (d)(2)(F). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
+<b>2011</b>—Subsec. (d)(2)(E). Pub. L. 111–350, §5(g)(9)(A), substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978”.
 
-1996—Subsec. (d)(1)(D). Pub. L. 104–121, §232(a), added subpar. (D).
+Subsec. (d)(3). Pub. L. 111–350, §5(g)(9)(B), substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978”.
+
+<b>1998</b>—Subsec. (d)(2)(F). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
+
+<b>1996</b>—Subsec. (d)(1)(D). Pub. L. 104–121, §232(a), added subpar. (D).
 
 Subsec. (d)(2)(A)(ii). Pub. L. 104–121, §232(b)(1), substituted “$125” for “$75”.
 
@@ -84,9 +86,9 @@ Subsec. (d)(2)(B). Pub. L. 104–121, §232(b)(2), inserted before semicolon at 
 
 Subsec. (d)(2)(I). Pub. L. 104–121, §232(b)(3)–(5), added subpar. (I).
 
-1995—Subsec. (d)(5). Pub. L. 104–66 struck out par. (5) which read as follows: “The Attorney General shall report annually to the Congress on the amount of fees and other expenses awarded during the preceding fiscal year pursuant to this subsection. The report shall describe the number, nature, and amount of the awards, the claims involved in the controversy, and any other relevant information which may aid the Congress in evaluating the scope and impact of such awards.”
+<b>1995</b>—Subsec. (d)(5). Pub. L. 104–66 struck out par. (5) which read as follows: “The Attorney General shall report annually to the Congress on the amount of fees and other expenses awarded during the preceding fiscal year pursuant to this subsection. The report shall describe the number, nature, and amount of the awards, the claims involved in the controversy, and any other relevant information which may aid the Congress in evaluating the scope and impact of such awards.”
 
-1992—Subsec. (a). Pub. L. 102–572, §301(a), designated existing provisions as par. (1) and added par. (2).
+<b>1992</b>—Subsec. (a). Pub. L. 102–572, §301(a), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (d)(2)(F). Pub. L. 102–572, §902(b)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
@@ -94,9 +96,9 @@ Pub. L. 102–573, §506(a), inserted before semicolon at end “and the United 
 
 Subsec. (d)(5). Pub. L. 102–572, §502(b), substituted “The Attorney General shall report annually to the Congress on” for “The Director of the Administrative Office of the United States Courts shall include in the annual report prepared pursuant to section 604 of this title,”.
 
-1986—Subsecs. (d)(2)(B), (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsecs. (d)(2)(B), (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1985—Subsecs. (a), (b). Pub. L. 99–80, §2(a)(1), substituted “or any agency or any official of the United States” for “or any agency and any official of the United States”.
+<b>1985</b>—Subsecs. (a), (b). Pub. L. 99–80, §2(a)(1), substituted “or any agency or any official of the United States” for “or any agency and any official of the United States”.
 
 Subsec. (d). Pub. L. 99–80, §6, repealed amendment made by Pub. L. 96–481, §204(c), and provided that subsec. (d) was effective on or after Aug. 5, 1985, as if it had not been repealed by section 204(c). See 1980 Amendment note and Revival of Previously Repealed Provisions note below.
 
@@ -104,7 +106,7 @@ Subsec. (d)(1)(A). Pub. L. 99–80, §2(a)(2), inserted “, including proceedi
 
 Subsec. (d)(1)(B). Pub. L. 99–80, §2(b), inserted provisions directing that whether or not the position of the United States was substantially justified must be determined on the basis of the record (including the record with respect to the action or failure to act by the agency upon which the civil action was based) which is made in the civil action for which fees and other expenses are sought.
 
-Subsec. (d)(2)(B). Pub. L. 99–80, §2(c)(1), substituted “$2,000,000” for “$1,000,000” in cl. (i), and substituted “or (ii) any owner of an unincorporated business, or any partnership, corporation, association, unit of local government, or organization, the net worth of which did not exceed $7,000,000 at the time the civil action was filed, and which had not more than 500 employees at the time the civil action was filed; except that an organization described in section 501(c)(3) of the Internal Revenue Code of 1954 (26 U.S.C. 501(c)(3)) exempt from taxation under section 501(a) of such Code, or a cooperative association as defined in section 15(a) of the Agricultural Marketing Act (12 U.S.C. 1141j(a)), may be a party regardless of the net worth of such organization or cooperative association;” for “(ii) a sole owner of an unincorporated business, or a partnership, corporation, association, or organization whose net worth did not exceed $5,000,000 at the time the civil action was filed, except that an organization described in section 501(c)(3) of the Internal Revenue Code of 1954 (26 U.S.C. 501(c)(3)) exempt from taxation under section 501(a) of the Code and a cooperative association as defined in section 15(a) of the Agricultural Marketing Act (12U.S.C. 1141j(a)), may be a party regardless of the net worth of such organization or cooperative association, or (iii) a sole owner of an unincorporated business, or a partnership, corporation, association, or organization, having not more than 500 employees at the time the civil action was filed; and”.
+Subsec. (d)(2)(B). Pub. L. 99–80, §2(c)(1), substituted “$2,000,000” for “$1,000,000” in cl. (i), and substituted “or (ii) any owner of an unincorporated business, or any partnership, corporation, association, unit of local government, or organization, the net worth of which did not exceed $7,000,000 at the time the civil action was filed, and which had not more than 500 employees at the time the civil action was filed; except that an organization described in section 501(c)(3) of the Internal Revenue Code of 1954 (26 U.S.C. 501(c)(3)) exempt from taxation under section 501(a) of such Code, or a cooperative association as defined in section 15(a) of the Agricultural Marketing Act (12 U.S.C. 1141j(a)), may be a party regardless of the net worth of such organization or cooperative association;” for “(ii) a sole owner of an unincorporated business, or a partnership, corporation, association, or organization whose net worth did not exceed $5,000,000 at the time the civil action was filed, except that an organization described in section 501(c)(3) of the Internal Revenue Code of 1954 (26 U.S.C. 501(c)(3)) exempt from taxation under section 501(a) of the Code and a cooperative association as defined in section 15(a) of the Agricultural Marketing Act (12 U.S.C. 1141j(a)), may be a party regardless of the net worth of such organization or cooperative association, or (iii) a sole owner of an unincorporated business, or a partnership, corporation, association, or organization, having not more than 500 employees at the time the civil action was filed; and”.
 
 Subsec. (d)(2)(D) to (H). Pub. L. 99–80, §2(c)(2), added subpars. (D) to (H).
 
@@ -116,11 +118,11 @@ Subsec. (d)(4). Pub. L. 99–80, §2(d), amended par. (4) generally. Prior to am
 
 Subsec. (f). Pub. L. 99–80, §2(e), added subsec. (f).
 
-1982—Subsec. (e). Pub. L. 97–248 added subsec. (e).
+<b>1982</b>—Subsec. (e). Pub. L. 97–248 added subsec. (e).
 
-1980—Pub. L. 96–481, §204(a), designated existing provisions as subsec. (a), struck out provision that payment of a judgment for costs shall be as provided in section 2414 and section 2517 of this title for the payment of judgments against the United States, and added subsecs. (b) to (d). Pub. L. 96–481, §204(c), repealed subsec. (d) eff. Oct. 1, 1984. See Effective Date of 1980 Amendment note below.
+<b>1980</b>—Pub. L. 96–481, §204(a), designated existing provisions as subsec. (a), struck out provision that payment of a judgment for costs shall be as provided in section 2414 and section 2517 of this title for the payment of judgments against the United States, and added subsecs. (b) to (d). Pub. L. 96–481, §204(c), repealed subsec. (d) eff. Oct. 1, 1984. See Effective Date of 1980 Amendment note below.
 
-1966—Pub. L. 89–507 empowered a court having jurisdiction to award judgment for costs, except as otherwise specifically provided by statute, to the prevailing party in any action brought by or against the United States or any agency or official of the United States acting in his official capacity, limited the judgment for costs when taxed against the Government to reimbursing in whole or in part the prevailing party for costs incurred by him in the litigation, required the payment of a judgment for costs to be as provided in section 2414 and section 2517 of this title for the payment of judgments against the United States and eliminated provisions which limited the liability of the United States for fees and costs to those cases in which liability was expressed provided for by Act of Congress, permitted the district court or the Court of Claims, in an action under section 1346(a) or 1491 of this title if the United States put in issue plaintiff's right to recover, to allow costs to the prevailing party from the time of joining such issue, and which authorized the allowance of costs to the successful claimant in an action under section 1346(b) of this title.
+<b>1966</b>—Pub. L. 89–507 empowered a court having jurisdiction to award judgment for costs, except as otherwise specifically provided by statute, to the prevailing party in any action brought by or against the United States or any agency or official of the United States acting in his official capacity, limited the judgment for costs when taxed against the Government to reimbursing in whole or in part the prevailing party for costs incurred by him in the litigation, required the payment of a judgment for costs to be as provided in section 2414 and section 2517 of this title for the payment of judgments against the United States and eliminated provisions which limited the liability of the United States for fees and costs to those cases in which liability was expressed provided for by Act of Congress, permitted the district court or the Court of Claims, in an action under section 1346(a) or 1491 of this title if the United States put in issue plaintiff's right to recover, to allow costs to the prevailing party from the time of joining such issue, and which authorized the allowance of costs to the successful claimant in an action under section 1346(b) of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -168,7 +170,7 @@ Section 206 of Pub. L. 96–481, as amended by Pub. L. 99–80, §3, Aug. 5, 198
 
 “(a) Except as provided in subsection (b), nothing in section 2412(d) of title 28, United States Code, as added by section 204(a) of this title, alters, modifies, repeals, invalidates, or supersedes any other provision of Federal law which authorizes an award of such fees and other expenses to any party other than the United States that prevails in any civil action brought by or against the United States.
 
-“(b) Section 206(b) of the Social Security Act (42 U.S.C. 406(b)(1)) shall not prevent an award of fees and other expenses under section 2412(d) of title 28, United States Code. Section 206(b)(2) of the Social SecurityAct shall not apply with respect to any such award but only if, where the claimant's attorney receives fees for the same work under both section 206(b) of that Act and section 2412(d) of title 28, United States Code, the claimant's attorney refunds to the claimant the amount of the smaller fee.”
+“(b) Section 206(b) of the Social Security Act (42 U.S.C. 406(b)(1)) shall not prevent an award of fees and other expenses under section 2412(d) of title 28, United States Code. Section 206(b)(2) of the Social Security Act shall not apply with respect to any such award but only if, where the claimant's attorney receives fees for the same work under both section 206(b) of that Act andsection 2412(d) of title 28, United States Code, the claimant's attorney refunds to the claimant the amount of the smaller fee.”
 
 #### Authority of Court of Appeals for Veterans Claims to Award Fees Under Equal Access to Justice Act for Non-attorney Practitioners.
 

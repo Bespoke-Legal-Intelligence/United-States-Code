@@ -38,7 +38,7 @@ The Fish and Wildlife Conservation Act of 1980, referred to in par. (5), is Pub.
 
 #### Amendments
 
-2002—Par. (2). Pub. L. 107–308, §8(a)(3), substituted “Committee on Resources of the House of Representatives” for “Committee on Merchant Marine and Fisheries of the United States House of Representatives”.
+<b>2002</b>—Par. (2). Pub. L. 107–308, §8(a)(3), substituted “Committee on Resources of the House of Representatives” for “Committee on Merchant Marine and Fisheries of the United States House of Representatives”.
 
 Par. (5). Pub. L. 107–308, §8(a)(4), inserted “of 1973” after “Endangered Species Act”.
 

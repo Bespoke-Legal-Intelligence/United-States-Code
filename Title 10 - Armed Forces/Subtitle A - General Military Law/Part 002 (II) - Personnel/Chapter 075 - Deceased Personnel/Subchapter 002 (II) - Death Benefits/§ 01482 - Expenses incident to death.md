@@ -116,13 +116,13 @@ In subsection (a)(8), the word “place” is substituted for the words “town 
 
 In subsection (a)(10), the words “other than honorable” are omitted, since a person cannot be sentenced to an honorable discharge.
 
-In subsection (b), the words “If an individual pays” are substituted for the words “In any case where expenses are borne by individuals”. The second sentence of 5:2161 is omitted as executed. The last sentence is substituted for the last sentence of 5:2161.
+In subsection (b), the words “If an individual pays” are substituted for the words “In any case where expenses \* \* \* are borne by individuals”. The second sentence of 5:2161 is omitted as executed. The last sentence is substituted for the last sentence of 5:2161.
 
 In subsection (c), 5:2162 (1st sentence) is omitted since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. The introductory language is substituted for 5:2162 (1st 22 words of 2d sentence). The words “ascertained and” are omitted as surplusage.
 
 #### Amendments
 
-2008—Subsec. (a)(8). Pub. L. 110–181 inserted at end “When transportation of the remains includes transportation by aircraft under section 562 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 10 U.S.C. 1482 note), the Secretary concerned shall provide, to the maximum extent practicable, for delivery of the remains by air to the commercial, general aviation, or military airport nearest to the place selected by the designee.”
+<b>2008</b>—Subsec. (a)(8). Pub. L. 110–181 inserted at end “When transportation of the remains includes transportation by aircraft under section 562 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 10 U.S.C. 1482 note), the Secretary concerned shall provide, to the maximum extent practicable, for delivery of the remains by air to the commercial, general aviation, or military airport nearest to the place selected by the designee.”
 
 Subsec. (a)(10), (11). Pub. L. 110–417, §581(b), struck out pars. (10) and (11) which read as follows:
 
@@ -132,15 +132,15 @@ Subsec. (a)(10), (11). Pub. L. 110–417, §581(b), struck out pars. (10) and (1
 
 Subsec. (e). Pub. L. 110–417, §581(a), designated existing provisions as par. (2), redesignated former pars. (1) and (2) of subsec. (e) as subpars. (A) and (B), respectively, of par. (2), inserted subsec. (e) heading, and added pars. (1) and (3) to (5).
 
-2001—Subsecs. (d) to (g). Pub. L. 107–107 redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struckout former subsec. (d) which read as follows: “When, as a result of a disaster involving the multiple deaths of persons covered by section 1481 of this title, the Secretary concerned has possession of commingled remains that cannot be individually identified, and burial of those remains in a common grave in a national cemetery is considered necessary, he may, for the interment services of each known decedent, pay the expenses of round-trip transportation to the cemetery of (1) the person who would have been designated under subsection (c) to direct disposition of the remains if individual identification had been made, and (2) two additional persons selected by that person who are closely related to the decedent. The transportation expenses authorized to be paid under this subsection may not exceed the transportation allowances authorized for members of the armed forces for travel on official business, but no per diem allowance may be paid.”
+<b>2001</b>—Subsecs. (d) to (g). Pub. L. 107–107 redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struckout former subsec. (d) which read as follows: “When, as a result of a disaster involving the multiple deaths of persons covered by section 1481 of this title, the Secretary concerned has possession of commingled remains that cannot be individually identified, and burial of those remains in a common grave in a national cemetery is considered necessary, he may, for the interment services of each known decedent, pay the expenses of round-trip transportation to the cemetery of (1) the person who would have been designated under subsection (c) to direct disposition of the remains if individual identification had been made, and (2) two additional persons selected by that person who are closely related to the decedent. The transportation expenses authorized to be paid under this subsection may not exceed the transportation allowances authorized for members of the armed forces for travel on official business, but no per diem allowance may be paid.”
 
-1996—Subsec. (f)(2). Pub. L. 104–106 inserted “section” before “12731”.
+<b>1996</b>—Subsec. (f)(2). Pub. L. 104–106 inserted “section” before “12731”.
 
-1994—Subsec. (f)(2). Pub. L. 103–337, §1671(c)(8), substituted “section 12732” for “section 1332” and “12731” for “section 1331”.
+<b>1994</b>—Subsec. (f)(2). Pub. L. 103–337, §1671(c)(8), substituted “section 12732” for “section 1332” and “12731” for “section 1331”.
 
 Subsec. (g). Pub. L. 103–337, §652(a)(2), added subsec. (g).
 
-1989—Subsec. (a). Pub. L. 101–189, §653(a)(6)(A), substituted  “expenses  of  the  following:”  for  “expenses of—” in introductory provisions.
+<b>1989</b>—Subsec. (a). Pub. L. 101–189, §653(a)(6)(A), substituted  “expenses  of  the  following:”  for  “expenses of—” in introductory provisions.
 
 Subsec. (a)(1) to (9). Pub. L. 101–189, §653(a)(6)(B), (C), in each of pars. (1) to (9), capitalized first letter of first word and substituted period for semicolon at the end.
 
@@ -150,15 +150,15 @@ Subsec. (a)(11). Pub. L. 101–189, §653(a)(6)(B), (E), capitalized first lette
 
 Subsec. (e). Pub. L. 101–189, §§652(a)(3), 1622(c)(4), substituted “the date of death” for “the effective date of this subsection, or the date of death,” and “chapter 10 of title 37” for “chapter 10, title 37” in last sentence.
 
-1975—Subsec. (e). Pub. L. 93–649 inserted provision relating to date of notification of death under authority of chapter 10, title 37, to that person who would have been designated under subsection (c) to direct disposition of the remains, had they been recovered.
+<b>1975</b>—Subsec. (e). Pub. L. 93–649 inserted provision relating to date of notification of death under authority of chapter 10, title 37, to that person who would have been designated under subsection (c) to direct disposition of the remains, had they been recovered.
 
-1974—Subsec. (f). Pub. L. 93–292 added subsec. (f).
+<b>1974</b>—Subsec. (f). Pub. L. 93–292 added subsec. (f).
 
-1970—Subsec. (a)(11). Pub. L. 91–397 added cl. (11).
+<b>1970</b>—Subsec. (a)(11). Pub. L. 91–397 added cl. (11).
 
 Subsec. (e). Pub. L. 91–487 added subsec. (e).
 
-1958—Subsec. (d). Pub. L. 85–716 added subsec. (d).
+<b>1958</b>—Subsec. (d). Pub. L. 85–716 added subsec. (d).
 
 #### Effective Date of 1996 Amendment
 

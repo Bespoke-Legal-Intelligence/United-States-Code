@@ -18,9 +18,9 @@ Prior to its incorporation into the Code, this section read: “Except as provid
 
 #### Amendments
 
-1993—Pub. L. 103–182 substituted “Customs Service” for “appropriate customs officer” and inserted “, retained for official use, or otherwise disposed of” after “destroyed”.
+<b>1993</b>—Pub. L. 103–182 substituted “Customs Service” for “appropriate customs officer” and inserted “, retained for official use, or otherwise disposed of” after “destroyed”.
 
-1970—Pub. L. 91–271 substituted reference to appropriate customs officer for reference to collector.
+<b>1970</b>—Pub. L. 91–271 substituted reference to appropriate customs officer for reference to collector.
 
 #### Effective Date of 1970 Amendment
 

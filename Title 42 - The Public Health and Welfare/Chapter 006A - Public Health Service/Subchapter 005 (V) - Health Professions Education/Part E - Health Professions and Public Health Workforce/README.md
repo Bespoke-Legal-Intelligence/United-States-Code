@@ -7,3 +7,4 @@ Part E—Health Professions and Public Health Workforce
 
 - [Subpart 001 - Health Professions Workforce Information and Analysis](Subpart%20001%20-%20Health%20Professions%20Workforce%20Information%20and%20Analysis/README.md)
 - [Subpart 002 - Public Health Workforce](Subpart%20002%20-%20Public%20Health%20Workforce/README.md)
+- [Subpart 003 - Recruitment and Retention Programs](Subpart%20003%20-%20Recruitment%20and%20Retention%20Programs/README.md)

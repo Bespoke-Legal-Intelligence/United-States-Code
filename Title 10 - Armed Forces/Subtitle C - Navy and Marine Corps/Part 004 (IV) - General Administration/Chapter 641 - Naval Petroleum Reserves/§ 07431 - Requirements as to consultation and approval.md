@@ -16,7 +16,7 @@
 
 (2) All plans or substantial amendments submitted to the Congress pursuant to this section shall contain a report by the Attorney General of the United States with respect to the anticipated effects of such plans or amendments on competition. Such plans or amendments shall not be implemented until sixty days after such plans or amendments have been submitted to such committees.
 
-(c) During the period of production authorized by section 7422(c) of this title, the Secretaryshall submit annual reports as of the first day of the fiscal year to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, and such committees shall cause such reports to be printed as a Senate or House document, as appropriate. The Secretary shall include in such reports, with respect to each naval petroleum reserve, an explanation in detail of the following:
+(c) During the period of production authorized by section 7422(c) of this title, the Secretary shall submit annual reports as of the first day of the fiscal year to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, and such committees shall cause such reports to be printed as a Senate or House document, as appropriate. The Secretary shall include in such reports, with respect to each naval petroleum reserve, an explanation in detail of the following:
 
 &emsp;(1) The status of the exploration, development, and production programs.
 
@@ -46,19 +46,19 @@ June 4, 1920, ch. 228 (4th par., 1st proviso, of amended 3d and 4th provisos), 4
 
 #### Amendments
 
-1999—Subsecs. (a), (b)(1), (c). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+<b>1999</b>—Subsecs. (a), (b)(1), (c). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-1996—Subsecs. (a), (b)(1), (c). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
+<b>1996</b>—Subsecs. (a), (b)(1), (c). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
 
-1985—Subsec. (c). Pub. L. 99–145 in pars. (1) to (3) substituted “The” for “the” at beginning and periods for the semicolons at end, in par. (4) substituted “A summary” for “a summary” and a period for “; and”, and in par. (5) substituted “Such” for “such”.
+<b>1985</b>—Subsec. (c). Pub. L. 99–145 in pars. (1) to (3) substituted “The” for “the” at beginning and periods for the semicolons at end, in par. (4) substituted “A summary” for “a summary” and a period for “; and”, and in par. (5) substituted “Such” for “such”.
 
-1984—Subsecs. (b)(1), (c). Pub. L. 98–525 inserted “of this title” after “section 7422(c)”.
+<b>1984</b>—Subsecs. (b)(1), (c). Pub. L. 98–525 inserted “of this title” after “section 7422(c)”.
 
-1976—Pub. L. 94–258 designated existing provisions as subsec. (a), struck out “or oil shale” in pars. (1) and (2) before “reserves”, struck out “and oil shale” in pars. (2) and (3), before “reserves” substituted “petroleum (other than royalty oil and gas)” for “oil and gas (other than royalty oil and gas), oil shale, and products therefrom” in par. (3), and added subsecs. (b) and (c).
+<b>1976</b>—Pub. L. 94–258 designated existing provisions as subsec. (a), struck out “or oil shale” in pars. (1) and (2) before “reserves”, struck out “and oil shale” in pars. (2) and (3), before “reserves” substituted “petroleum (other than royalty oil and gas)” for “oil and gas (other than royalty oil and gas), oil shale, and products therefrom” in par. (3), and added subsecs. (b) and (c).
 
-1962—Pub. L. 87–796 included oil shale reserves in cls. (1) and (2), inserted provisions in cl. (2) excepting consultation and Presidential approval in connection with issuance of permits, licenses, easements, grazing and agricultural leases, rights-of-way, and similar contracts pertaining to use of surface area of naval petroleum and oil shale reserves, and included oil shale, and products therefrom produced from any part of oil shale reserves.
+<b>1962</b>—Pub. L. 87–796 included oil shale reserves in cls. (1) and (2), inserted provisions in cl. (2) excepting consultation and Presidential approval in connection with issuance of permits, licenses, easements, grazing and agricultural leases, rights-of-way, and similar contracts pertaining to use of surface area of naval petroleum and oil shale reserves, and included oil shale, and products therefrom produced from any part of oil shale reserves.
 
 #### Contract for Studies of Potential Transfer Out of Federal Control of Facilities and Functions at Elk Hills and Teapot Dome; Restrictions
 
-Pub. L. 101–45, title I, §501, June 30, 1989, 103 Stat. 103, provided that no funds appropriated or made available under Pub. L. 101–45 or any other Act were to be used by the executive branch to contract with organizations outside Department of Energy to perform studies of potential transfer out of Federal ownership, management or control by sale, lease, or other disposition, in whole or in part, of facilities and functions of Naval Petroleum Reserve Numbered 1 (Elk Hills) and Naval Petroleum Reserve Numbered 3 (Teapot Dome), and prohibited negotiation of changes to unit plan contract with Chevron which governed operation of Elk Hills, where purpose of changes was to prepare for divestiture of the Reserve, prior to repeal by Pub. L. 104–134, title I, §101(c) \[title II\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–187; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+Pub. L. 101–45, title I, §501, June 30, 1989, 103 Stat. 103, provided that no funds appropriated or made available under Pub. L. 101–45 or any other Act were to be used by the executive branch to contract with organizationsoutside Department of Energy to perform studies of potential transfer out of Federal ownership, management or control by sale, lease, or other disposition, in whole or in part, of facilities and functions of Naval Petroleum Reserve Numbered 1 (Elk Hills) and Naval Petroleum Reserve Numbered 3 (Teapot Dome), and prohibited negotiation of changes to unit plan contract with Chevron which governed operation of Elk Hills, where purpose of changes was to prepare for divestiture of the Reserve, prior to repeal by Pub. L. 104–134, title I, §101(c) \[title II\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–187; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 

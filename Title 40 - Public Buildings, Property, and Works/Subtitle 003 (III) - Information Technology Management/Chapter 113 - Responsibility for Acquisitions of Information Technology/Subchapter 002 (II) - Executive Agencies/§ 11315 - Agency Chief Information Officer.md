@@ -54,5 +54,5 @@ In subsection (c)(3), before subclause (A), the reference to 31:1105(a)(29) is c
 
 #### Amendments
 
-2004—Subsec. (b)(2). Pub. L. 108–458 inserted “, secure,” after “sound”.
+<b>2004</b>—Subsec. (b)(2). Pub. L. 108–458 inserted “, secure,” after “sound”.
 

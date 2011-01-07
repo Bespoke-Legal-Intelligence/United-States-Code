@@ -6,7 +6,7 @@ When such game sanctuaries or refuges have been established as provided in secti
 
 #### Amendments
 
-1948—Act June 25, 1948, struck out penal provisions (see section 41 of Title 18, Crimes and Criminal Procedure), and inserted reference to rules and regulations of the Secretary of Agriculture.
+<b>1948</b>—Act June 25, 1948, struck out penal provisions (see section 41 of Title 18, Crimes and Criminal Procedure), and inserted reference to rules and regulations of the Secretary of Agriculture.
 
 #### Effective Date of 1948 Amendment
 

@@ -2,7 +2,7 @@
 
 (a) The Secretary of the Army may detail members of the Army as students at such technical, professional, and other civilian educational institutions, or as students, observers, or investigators at such industrial plants, hospitals, and other places, as are best suited to enable them to acquire knowledge or experience in the specialties in which it is considered necessary that they perfect themselves.
 
-(b) An officer, other than one of the Regular Army on the active-duty list, who is detailedunder subsection (a) shall be ordered to additional active duty immediately upon termination of the detail, for a period at least as long as the detail. However, if the detail is for 90 days or less, the officer may be ordered to that additional duty only with his consent and in the discretion of the Secretary.
+(b) An officer, other than one of the Regular Army on the active-duty list, who is detailed under subsection (a) shall be ordered to additional active duty immediately upon termination of the detail, for a period at least as long as the detail. However, if the detail is for 90 days or less, the officer may be ordered to that additional duty only with his consent and in the discretion of the Secretary.
 
 (c) No Reserve of the Army may be detailed as a student, observer, or investigator, or ordered to active duty under this section, without his consent and, if a member of the Army National Guard of the United States, without the approval of the governor or other appropriate authority of the State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands of whose Army National Guard he is a member.
 
@@ -66,7 +66,7 @@ June 19, 1948, ch. 501, §2, 62 Stat. 478.
 
 In subsection (a), the words “members of the Army” are substituted for the words “personnel of the Army of the United States, without regard to component”.
 
-In subsection (b), the words “is detailed under subsection (a)” are substituted for the words “receives such instruction”. The words “as long as the detail” are substituted for the words “equal to the duration of his period of instruction”. The words “However, if the detail is for” are substituted for the words “except that where the duration of such training is”. The words “other than one of the Regular Army on the active list” are inserted, since members of the Regular Army on the active list are on continuous active duty. The word “additional” is inserted, since the detail under this section is active duty. The words “the officer may be ordered to that additional duty” are substituted for the words “such subsequent active duty may the officer concerned”.
+In subsection (b), the words “is detailed under subsection (a)” are substituted for the words “receives such instruction”. The words “as long as the detail” are substituted for the words “equal to the duration of his period of instruction”. The words “However, if the detail is for” are substituted for the words “except that where the duration of such training is”. The words “other than one of the Regular Army on the active list” are inserted, since members of the Regular Army on the active list are on continuous active duty. The word “additional” is inserted, since the detail under this section is active duty. The words “the officer may be ordered to that additional duty” are substituted for the words “such subsequent active duty may \* \* \* the officer concerned”.
 
 In subsection (c), the words “of whose Army National Guard he is a member” are substituted for the words “whichever is concerned”.
 
@@ -80,13 +80,13 @@ In subsection (g), the words “under this section” are substituted for 10:535
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, or the District of Columbia”.
+<b>2006</b>—Subsec. (c). Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, or the District of Columbia”.
 
-1988—Subsec. (c). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 
-1980—Subsec. (b). Pub. L. 96–513 substituted “active-duty list” for “active list” in first sentence.
+<b>1980</b>—Subsec. (b). Pub. L. 96–513 substituted “active-duty list” for “active list” in first sentence.
 
-1973—Subsec. (b). Pub. L. 93–169 struck out provisions which limited to four years the maximum period for which an officer detailed for additional active duty upon termination of detail is required to serve.
+<b>1973</b>—Subsec. (b). Pub. L. 93–169 struck out provisions which limited to four years the maximum period for which an officer detailed for additional active duty upon termination of detail is required to serve.
 
 #### Effective Date of 1980 Amendment
 

@@ -26,5 +26,5 @@ Any report under subsection (a) of this section that covers proposed industrial 
 
 #### Delegation of Authority
 
-Authority of President under this section delegated to Secretary of Defense by section 2 of Memorandum of President of the United States, Dec. 30, 1992, 58 F.R. 3193, set out as a note under section 5852 of this title.
+Authority of President under this section delegated to Secretary of Defense by section 2 of Memorandum ofPresident of the United States, Dec. 30, 1992, 58 F.R. 3193, set out as a note under section 5852 of this title.
 

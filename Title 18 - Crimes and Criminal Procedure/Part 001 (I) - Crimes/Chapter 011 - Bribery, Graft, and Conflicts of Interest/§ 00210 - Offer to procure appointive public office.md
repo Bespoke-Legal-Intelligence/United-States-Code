@@ -20,5 +20,5 @@ A prior section 210, act June 25, 1948, ch. 645, 62 Stat. 693, related to accept
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 

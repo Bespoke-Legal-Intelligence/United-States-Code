@@ -130,7 +130,7 @@ Feb. 12, 1925, ch. 225, title I, 43 Stat. 900.
 
 #### Amendments
 
-1985—Pub. L. 99–145 substituted “enlistment” for “enlistments”.
+<b>1985</b>—Pub. L. 99–145 substituted “enlistment” for “enlistments”.
 
 #### Effective Date
 

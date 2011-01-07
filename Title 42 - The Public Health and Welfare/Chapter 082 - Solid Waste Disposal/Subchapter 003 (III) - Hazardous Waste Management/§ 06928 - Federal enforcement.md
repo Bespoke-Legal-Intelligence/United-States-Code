@@ -112,7 +112,7 @@ The Marine Protection, Research, and Sanctuaries Act, referred to in subsec. (d)
 
 #### Amendments
 
-1986—Subsec. (d)(4). Pub. L. 99–499, §205(i)(1), inserted “or any used oil not identified or listed as a hazardous waste under this subchapter”.
+<b>1986</b>—Subsec. (d)(4). Pub. L. 99–499, §205(i)(1), inserted “or any used oil not identified or listed as a hazardous waste under this subchapter”.
 
 Subsec. (d)(5). Pub. L. 99–499, §205(i)(1), (2), inserted “or any used oil not identified or listed as a hazardous waste under this subchapter” and struck out “; or” after “accompanied by a manifest;”.
 
@@ -122,7 +122,7 @@ Subsec. (d)(7). Pub. L. 99–499, §205(i)(4), added par. (7).
 
 Subsec. (e). Pub. L. 99–499, §205(i)(5), inserted “or used oil not identified or listed as a hazardous waste under this subchapter” and substituted “(5), (6), or (7)” for “(5), or (6)”.
 
-1984—Subsec. (a)(1). Pub. L. 98–616, §403(d)(1), in amending par. (1) generally, expanded authority of Administrator by empowering him to determine that a person “has violated” a requirement of this subchapter, and to assess a civil penalty for a past or current violation.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–616, §403(d)(1), in amending par. (1) generally, expanded authority of Administrator by empowering him to determine that a person “has violated” a requirement of this subchapter, and to assess a civil penalty for a past or current violation.
 
 Subsec. (a)(3). Pub. L. 98–616, §403(d)(2), in amending par. (3) generally, substituted provision that any order issued pursuant to this subsection may include a suspension or revocation of any permit issued by the Administrator or a State under this subchapter and shall state with reasonable specificity the nature of the violation, and provision that any penalty assessed in the order shall not exceed $25,000 per day of noncompliance for each violation of a requirement of this subchapter, and that in assessing such a penalty, the Administrator take into account the seriousness of the violation and any good faith efforts to comply with applicable requirements, for provision that if such violator fails to take corrective action within the time specified in the order, he shall be liable for a civil penalty of not more than $25,000 for each day of continued noncompliance and the Administrator may suspend or revoke any permit issued to the violator, whether issued by the Administrator or the State.
 
@@ -148,7 +148,7 @@ Subsec. (e). Pub. L. 98–616, §232(b), in amending subsec. (e) generally, stru
 
 Subsec. (h). Pub. L. 98–616, §233(a), added subsec. (h).
 
-1980—Subsec. (a)(1). Pub. L. 96–482, §13(1), (2), struck out “the Administrator shall give notice to the violator of his failure to comply with such requirement. If such violation extends beyond the thirtieth day after the Administrator's notification” before “the Administrator may issue” and substituted “compliance immediately or within a specified time period” for “compliance within a specified time period”.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–482, §13(1), (2), struck out “the Administrator shall give notice to the violator of his failure to comply with such requirement. If such violation extends beyond the thirtieth day after the Administrator's notification” before “the Administrator may issue” and substituted “compliance immediately or within a specified time period” for “compliance within a specified time period”.
 
 Subsec. (a)(2). Pub. L. 96–482, §13(2), struck out “thirty days” after “violation has occurred”.
 
@@ -160,7 +160,7 @@ Subsec. (d). Pub. L. 96–482, §13(5), in par. (2), designated existing provisi
 
 Subsecs. (e) to (g). Pub. L. 96–482, §13(5), added subsecs. (e) to (g).
 
-1978—Subsec. (d)(1). Pub. L. 95–609, §7(k)(1), inserted provision relating to title I of the Marine Protection, Research, and Sanctuaries Act.
+<b>1978</b>—Subsec. (d)(1). Pub. L. 95–609, §7(k)(1), inserted provision relating to title I of the Marine Protection, Research, and Sanctuaries Act.
 
 Subsec. (d)(2). Pub. L. 95–609, §7(k)(2), inserted provisions relating to treatment or storage of hazardous wastes and relating to title I of the Marine Protection, Research, and Sanctuaries Act.
 

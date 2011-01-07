@@ -10,7 +10,7 @@ A prior section 5416, act Aug. 16, 1954, ch. 736, 68A Stat. 676, consisted of pr
 
 #### Amendments
 
-1971—Pub. L. 91–673 substituted definitions of package and packaging for definitions of bottle and bottling.
+<b>1971</b>—Pub. L. 91–673 substituted definitions of package and packaging for definitions of bottle and bottling.
 
 #### Effective Date of 1971 Amendment
 

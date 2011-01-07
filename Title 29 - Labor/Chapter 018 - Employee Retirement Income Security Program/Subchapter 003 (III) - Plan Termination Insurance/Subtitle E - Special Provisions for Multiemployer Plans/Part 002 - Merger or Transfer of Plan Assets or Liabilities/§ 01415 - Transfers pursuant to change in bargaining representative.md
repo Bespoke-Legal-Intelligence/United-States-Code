@@ -92,11 +92,11 @@ For purposes of this section—
 
 The Labor-Management Relations Act, 1947, referred to in subsec. (g)(2), is act June 23, 1947, ch. 120, 61 Stat. 136, as amended, which is classified principally to chapter 7 (§141 et seq.) of this title. For complete classification of this Act to the Code, see section 141 of this title and Tables.
 
-The Railway Labor Act, referred to in subsec. (g)(2), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended,which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+The Railway Labor Act, referred to in subsec. (g)(2), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–369 substituted “September 25, 1980” for “April 28, 1980”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369 substituted “September 25, 1980” for “April 28, 1980”.
 
 #### Effective Date
 

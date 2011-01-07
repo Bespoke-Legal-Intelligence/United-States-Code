@@ -166,7 +166,7 @@ The Secretary, the National Trust, and the State Historic Preservation Officers 
 
 &emsp;The grants referred to in paragraph (1) are the following:
 
-&emsp;&emsp;(A) A grant to the National Museum Association (a nonprofit organization located in San Francisco, California) for payment of expenses directly related to the preservation and restoration of the historic fleet of the San Francisco Maritime National Historical Park, located in San Francisco, California.
+&emsp;&emsp;(A) A grant to the National Museum Association (a nonprofit organization located inSan Francisco, California) for payment of expenses directly related to the preservation and restoration of the historic fleet of the San Francisco Maritime National Historical Park, located in San Francisco, California.
 
 &emsp;&emsp;(B) A grant to the Virginia V Foundation (a nonprofit organization) for use in restoration and preservation of the historic steamship VIRGINIA V.
 

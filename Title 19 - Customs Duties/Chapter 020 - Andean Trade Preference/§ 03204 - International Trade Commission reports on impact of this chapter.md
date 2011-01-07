@@ -22,7 +22,7 @@
 
 &emsp;(B) the probable future effect that this chapter will have on the United States economy generally, as well as on such domestic industries, before the provisions of this chapter terminate; and
 
-&emsp;(C) the estimated effect that this chapter has had on the drug-related crop eradicationand crop substitution efforts of the beneficiary countries.
+&emsp;(C) the estimated effect that this chapter has had on the drug-related crop eradication and crop substitution efforts of the beneficiary countries.
 
 (2) In preparing the assessments required under paragraph (1), the Commission shall, to the extent practicable—
 
@@ -40,7 +40,7 @@
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–200 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The United States International Trade Commission (hereinafter in this section referred to as the ‘Commission’) shall prepare, and submit to the Congress, a report regarding the economic impact of this chapter on United States industries and consumers, and, in conjunction with other agencies, the effectiveness of this chapter in promoting drug-related crop eradication and crop substitution efforts of the beneficiary countries, during—
+<b>2000</b>—Subsec. (a). Pub. L. 106–200 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The United States International Trade Commission (hereinafter in this section referred to as the ‘Commission’) shall prepare, and submit to the Congress, a report regarding the economic impact of this chapter on United States industries and consumers, and, in conjunction with other agencies, the effectiveness of this chapter in promoting drug-related crop eradication and crop substitution efforts of the beneficiary countries, during—
 
 &emsp;“(1) the 24-month period beginning with December 4, 1991; and
 

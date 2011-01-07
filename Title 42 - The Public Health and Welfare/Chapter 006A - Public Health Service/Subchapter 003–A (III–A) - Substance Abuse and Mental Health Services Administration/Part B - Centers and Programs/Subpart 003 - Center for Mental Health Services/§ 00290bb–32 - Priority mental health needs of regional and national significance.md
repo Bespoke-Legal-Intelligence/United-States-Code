@@ -74,15 +74,15 @@ Section was formerly classified to section 290cc–13 of this title prior to ren
 
 #### Amendments
 
-2000—Pub. L. 106–310 amended section catchline and text generally, substituting provisions relating to priority mental health needs of regional and national significance for provisions relating to establishment of grant programs for demonstration projects.
+<b>2000</b>—Pub. L. 106–310 amended section catchline and text generally, substituting provisions relating to priority mental health needs of regional and national significance for provisions relating to establishment of grant programs for demonstration projects.
 
-1992—Subsec. (a)(1). Pub. L. 102–321, §116(b)(1), substituted “Center for Mental Health Services” for “National Institute of Mental Health”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–321, §116(b)(1), substituted “Center for Mental Health Services” for “National Institute of Mental Health”.
 
 Subsec. (c). Pub. L. 102–321, §116(b)(2), substituted “five” for “three”.
 
 Subsec. (e)(1). Pub. L. 102–321, §116(b)(3), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purposes of carrying out this section, there are authorized to be appropriated $40,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 and 1993.”
 
-1990—Subsec. (a). Pub. L. 101–639, §2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary, acting through the Director, may make grants to States, political subdivisions of States, and nonprofit private agencies—
+<b>1990</b>—Subsec. (a). Pub. L. 101–639, §2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary, acting through the Director, may make grants to States, political subdivisions of States, and nonprofit private agencies—
 
 &emsp;“(1) for mental health services demonstration projects for the planning, coordination, and improvement of community services (including outreach and self-help services) for seriously mentally ill individuals, seriously emotionally disturbed children and youth, elderly individuals, and homeless seriously mentally ill individuals, and for the conduct of research concerning such services;
 
@@ -94,7 +94,7 @@ Subsec. (e)(1). Pub. L. 102–321, §116(b)(3), amended par. (1) generally. Prio
 
 Subsec. (e)(1). Pub. L. 101–639, §2(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purposes of carrying out this section, there are authorized to be appropriated $60,000,000 for each of the fiscal years 1989 and 1990.”
 
-1989—Pub. L. 101–93 substituted “programs” for “program” in section catchline and in subsec. (a) substituted “seriously mentally ill” for “chronically mentally ill” wherever appearing, redesignated par. (5) as (4), and inserted “for” before “demonstration” in pars. (2), (3), and (4).
+<b>1989</b>—Pub. L. 101–93 substituted “programs” for “program” in section catchline and in subsec. (a) substituted “seriously mentally ill” for “chronically mentally ill” wherever appearing, redesignated par. (5) as (4), and inserted “for” before “demonstration” in pars. (2), (3), and (4).
 
 #### Effective Date of 1992 Amendment
 

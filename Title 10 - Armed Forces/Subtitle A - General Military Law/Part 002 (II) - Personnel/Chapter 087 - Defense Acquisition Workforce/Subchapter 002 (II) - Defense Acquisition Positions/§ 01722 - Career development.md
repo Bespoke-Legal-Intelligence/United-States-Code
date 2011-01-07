@@ -10,11 +10,11 @@ Limitation on Preference for Military Personnel.—(1) The Secretary of Defense 
 
 (2)(A) The Secretary shall establish a policy permitting a particular acquisition position to be specified as available only to members of the armed forces if a determination is made, under criteria specified in the policy, that a member of the armed forces is required for that position by law, is essential for performance of the duties of the position, or is necessary for another compelling reason.
 
-(B) Not later than December 15 of each year, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the Secretary a report that lists each acquisition position that is restricted to members of the armed forces under such policy and the recommendation of the Under Secretary as to whether such position should remain so restricted.
+(B) Not later than December 15 of each year, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the Secretary a report that lists each acquisition position that is restricted to members of thearmed forces under such policy and the recommendation of the Under Secretary as to whether such position should remain so restricted.
 
 (c)
 
-Opportunities for Civilians To Qualify.—The Secretary of Defense shall ensure thatcivilian personnel are provided the opportunity to acquire the education, training, and experience necessary to qualify for senior acquisition positions.
+Opportunities for Civilians To Qualify.—The Secretary of Defense shall ensure that civilian personnel are provided the opportunity to acquire the education, training, and experience necessary to qualify for senior acquisition positions.
 
 (d)
 
@@ -40,11 +40,11 @@ Balanced Workforce Policy.—In the development of defense acquisition workforce
 
 #### Amendments
 
-2001—Subsecs. (a), (b)(2)(B). Pub. L. 107–107, §1048(b)(2), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+<b>2001</b>—Subsecs. (a), (b)(2)(B). Pub. L. 107–107, §1048(b)(2), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
 Subsec. (e). Pub. L. 107–107, §1048(e)(3), struck out heading and text of subsec. (e). Text read as follows: “The Secretary of Defense shall ensure that the acquisition workforce is managed such that, for each fiscal year from October 1, 1991, through September 30, 1996, there is a substantial increase in the proportion of civilians (as compared to armed forces personnel) serving in critical acquisition positions in general, in program manager positions, and in division head positions over the proportion of civilians (as compared to armed forces personnel) in such positions on October 1, 1990.”
 
-1993—Subsecs. (a), (b)(2)(B). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
+<b>1993</b>—Subsecs. (a), (b)(2)(B). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
 
 #### Military Positions and Assignments Policy Deadlines
 

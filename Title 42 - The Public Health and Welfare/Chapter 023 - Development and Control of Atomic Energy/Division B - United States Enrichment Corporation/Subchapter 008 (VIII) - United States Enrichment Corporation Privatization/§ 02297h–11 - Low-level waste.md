@@ -30,5 +30,5 @@ Section was enacted as part of the USEC Privatization Act and also as part of th
 
 #### Amendments
 
-2004—Subsec. (a)(4). Pub. L. 108–447, §311, which directed the addition of par. (4) to subsec. (a) of section 3113 of Public Law 102–486 (42 U.S.C. 2297h–11), was executed by adding par. (4) to subsec. (a) of this section, which is section 3113 of Pub. L. 104–134, to reflect the probable intent of Congress.
+<b>2004</b>—Subsec. (a)(4). Pub. L. 108–447, §311, which directed the addition of par. (4) to subsec. (a) of section 3113 of Public Law 102–486 (42 U.S.C. 2297h–11), was executed by adding par. (4) to subsec. (a) of this section, which is section 3113 of Pub. L. 104–134, to reflect the probable intent of Congress.
 

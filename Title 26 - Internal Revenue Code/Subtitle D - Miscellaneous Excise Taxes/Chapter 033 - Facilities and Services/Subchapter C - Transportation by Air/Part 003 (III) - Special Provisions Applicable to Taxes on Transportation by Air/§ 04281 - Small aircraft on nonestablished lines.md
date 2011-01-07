@@ -10,9 +10,9 @@ A prior section 4281, act Aug. 16, 1954, ch. 736, 68A Stat. 508, related to tax 
 
 #### Amendments
 
-2005—Pub. L. 109–59 inserted at end “For purposes of this section, an aircraft shall not be considered as operated on an established line at any time during which such aircraft is being operated on a flight the sole purpose of which is sightseeing.”
+<b>2005</b>—Pub. L. 109–59 inserted at end “For purposes of this section, an aircraft shall not be considered as operated on an established line at any time during which such aircraft is being operated on a flight the sole purpose of which is sightseeing.”
 
-1982—Pub. L. 97–248 struck out “(as defined in section 4492(b))” after “certificated takeoff weight”, and inserted provision defining “maximum certificated takeoff weight”.
+<b>1982</b>—Pub. L. 97–248 struck out “(as defined in section 4492(b))” after “certificated takeoff weight”, and inserted provision defining “maximum certificated takeoff weight”.
 
 #### Effective Date of 2005 Amendment
 

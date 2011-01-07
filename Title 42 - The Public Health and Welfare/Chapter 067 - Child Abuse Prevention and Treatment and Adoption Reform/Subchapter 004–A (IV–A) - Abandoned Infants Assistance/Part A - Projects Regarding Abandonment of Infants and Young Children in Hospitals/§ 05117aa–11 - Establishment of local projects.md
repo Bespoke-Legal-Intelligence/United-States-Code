@@ -80,7 +80,7 @@ In making grants under subsection (a), the Secretary shall give priority to appl
 
 #### Amendments
 
-2003—Pub. L. 108–36, §302(1), substituted “Establishment of local projects” for “Establishment of program of demonstration projects” in section catchline.
+<b>2003</b>—Pub. L. 108–36, §302(1), substituted “Establishment of local projects” for “Establishment of program of demonstration projects” in section catchline.
 
 Subsec. (b). Pub. L. 108–36, §302(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Secretary may not make a grant under subsection (a) unless the applicant for the grant agrees that, in carrying out the purpose described in subsection (a) (other than with respect to paragraph (6) of such subsection), the applicant will give priority to abandoned infants and young children—
 
@@ -88,9 +88,9 @@ Subsec. (b). Pub. L. 108–36, §302(2), added subsec. (b) and struck out former
 
 &emsp;“(2) who have been perinatally exposed to a dangerous drug.”
 
-1996—Subsec. (h). Pub. L. 104–235 added subsec. (h).
+<b>1996</b>—Subsec. (h). Pub. L. 104–235 added subsec. (h).
 
-1991—Subsec. (a)(1). Pub. L. 102–236, §3(c)(1), inserted before semicolon at end “, including the provision of services to members of the natural family for any condition that increases the probability of abandonment of an infant or young child”.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–236, §3(c)(1), inserted before semicolon at end “, including the provision of services to members of the natural family for any condition that increases the probability of abandonment of an infant or young child”.
 
 Subsec. (a)(2). Pub. L. 102–236, §3(a)(2)(A)(ii), struck out “, particularly those with acquired immune deficiency syndrome” after “young children”.
 

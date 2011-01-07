@@ -16,9 +16,9 @@ Notice of Availability of Allowance.—To the maximum extent practicable, in adv
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–181 made technical correction to directory language of Pub. L. 109–364, §606(b)(1)(A). See 2006 Amendment note below.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181 made technical correction to directory language of Pub. L. 109–364, §606(b)(1)(A). See 2006 Amendment note below.
 
-2006—Pub. L. 109–364, §606(c), struck out “portion of” before “monthly premium” in section catchline.
+<b>2006</b>—Pub. L. 109–364, §606(c), struck out “portion of” before “monthly premium” in section catchline.
 
 Subsec. (a). Pub. L. 109–364, §606(b)(1)(B), struck out par. (2) which read as follows: “If a member described in paragraph (1) elected to be insured in an amount less than the coverage amount specified in paragraph (1) or in effect pursuant to subsection (b), the amount of the allowance under this section for a month shall be equal to the amount of the deduction made for that month under subsection (a)(1) of section 1969 of title 38 from the basic pay of the member for the amount of Servicemembers’ Group Life Insurance coverage actually held by the member under section 1967 of such title.”
 

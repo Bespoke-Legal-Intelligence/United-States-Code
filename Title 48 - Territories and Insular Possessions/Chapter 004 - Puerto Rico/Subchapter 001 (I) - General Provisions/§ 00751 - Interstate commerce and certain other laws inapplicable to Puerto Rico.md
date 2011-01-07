@@ -16,7 +16,7 @@ Section is comprised of second paragraph of section 38 of act Mar. 2, 1917. The 
 
 #### Amendments
 
-1927—Act Mar. 4, 1927, reenacted section without change.
+<b>1927</b>—Act Mar. 4, 1927, reenacted section without change.
 
 #### Change of Name
 

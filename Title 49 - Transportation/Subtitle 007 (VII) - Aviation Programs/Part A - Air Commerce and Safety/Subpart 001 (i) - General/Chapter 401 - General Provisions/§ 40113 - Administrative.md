@@ -6,7 +6,7 @@ General Authority.—The Secretary of Transportation (or the Under Secretary of 
 
 (b)
 
-Hazardous Material.—In carrying out this part, the Secretary has the same authority to regulate the transportation of hazardous material by air that the Secretary has under section 5103 of this title. However, this subsection does not prohibit or regulate the transportation of a firearm (as defined in section 232 of title 18) or ammunition for a firearm, when transported by an individual for personal use.
+Hazardous Material.—In carrying out this part, the Secretary has the same authorityto regulate the transportation of hazardous material by air that the Secretary has under section 5103 of this title. However, this subsection does not prohibit or regulate the transportation of a firearm (as defined in section 232 of title 18) or ammunition for a firearm, when transported by an individual for personal use.
 
 (c)
 
@@ -108,13 +108,13 @@ In subsection (d), the text of 49 App.:1354(e) (last sentence) is omitted becaus
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–71, §140(c)(1), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” before “the Administrator of the Federal Aviation Administration” and substituted “, Under Secretary, or Administrator” for “or Administrator”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–71, §140(c)(1), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” before “the Administrator of the Federal Aviation Administration” and substituted “, Under Secretary, or Administrator” for “or Administrator”.
 
 Subsec. (d). Pub. L. 107–71, §140(c)(2), inserted “Under Secretary of Transportation for Security or the” after “The” and substituted “employee of the Transportation Security Administration or Federal Aviation Administration, as the case may be,” for “employee of the Administration” and “the Under Secretary or Administrator, as the case may be, decides” for “the Administrator decides”.
 
-2000—Subsec. (f). Pub. L. 106–181 added subsec. (f).
+<b>2000</b>—Subsec. (f). Pub. L. 106–181 added subsec. (f).
 
-1994—Subsec. (e). Pub. L. 103–305 added subsec. (e).
+<b>1994</b>—Subsec. (e). Pub. L. 103–305 added subsec. (e).
 
 #### Effective Date of 2000 Amendment
 

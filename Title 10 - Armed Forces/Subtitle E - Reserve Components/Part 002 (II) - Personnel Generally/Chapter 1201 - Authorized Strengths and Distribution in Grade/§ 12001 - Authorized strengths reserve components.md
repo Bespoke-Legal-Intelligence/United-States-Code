@@ -20,7 +20,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### End Strengths for Selected Reserve and for Reserves on Active Duty in Support of Reserves
 
-Pub. L. 109–163, div. A, title IV, §§411, 412, Jan. 6, 2006, 119 Stat. 3220, 3221, which authorized end strengths for Selected Reserve personnel of the reserve components and for Reserves on active duty in support of the Reserves as of the last day of a fiscal year was from theNational Defense Authorization Act for Fiscal Year 2006 and was repeated in provisions of subsequent authorization acts which are not set out in the Code. Similar provisions were contained in the following prior authorization acts:
+Pub. L. 109–163, div. A, title IV, §§411, 412, Jan. 6, 2006, 119 Stat. 3220, 3221, which authorized end strengths for Selected Reserve personnel of the reserve components and for Reserves on active duty in support of the Reserves as of the last day of a fiscal year was from the National Defense Authorization Act for Fiscal Year 2006 and was repeated in provisions of subsequent authorization acts which are not set out in the Code. Similar provisions were contained in the following prior authorization acts:
 
 Pub. L. 108–375, div. A, title IV, §§411, 412, Oct. 28, 2004, 118 Stat. 1864, 1865.
 

@@ -42,13 +42,13 @@
 
 (e)(1)(A) A Vietnam-era herbicide-exposed veteran is eligible (subject to paragraph (2)) for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any disability, notwithstanding that there is insufficient medical evidence to conclude that such disability may be associated with such exposure.
 
-(B) A radiation-exposed veteran is eligible for hospital care, medical services, and nursinghome care under subsection (a)(2)(F) for any disease suffered by the veteran that is—
+(B) A radiation-exposed veteran is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any disease suffered by the veteran that is—
 
 &emsp;(i) a disease listed in section 1112(c)(2) of this title; or
 
 &emsp;(ii) any other disease for which the Secretary, based on the advice of the Advisory Committee on Environmental Hazards, determines that there is credible evidence of a positive association between occurrence of the disease in humans and exposure to ionizing radiation.
 
-(C) Subject to paragraphs (2) and (3) of this subsection, a veteran who served on active duty in the Southwest Asia theater of operations during the Persian Gulf War is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any disability, notwithstanding that there is insufficient medical evidence to conclude that such disability may be associated with such service.
+(C) Subject to paragraph (2) of this subsection, a veteran who served on active duty between August 2, 1990, and November 11, 1998, in the Southwest Asia theater of operations during the Persian Gulf War is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any disability, notwithstanding that there is insufficient medical evidence to conclude that such disability may be associated with such service.
 
 (D) Subject to paragraphs (2) and (3), a veteran who served on active duty in a theater of combat operations (as determined by the Secretary in consultation with the Secretary of Defense) during a period of war after the Persian Gulf War, or in combat against a hostile force during a period of hostilities (as defined in section 1712A(a)(2)(B) of this title) after November 11, 1998, is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any illness, notwithstanding that there is insufficient medical evidence to conclude that such condition is attributable to such service.
 
@@ -62,17 +62,11 @@
 
 (B) In the case of a veteran described in subparagraph (C), (D), or (E) of paragraph (1), hospital care, medical services, and nursing home care may not be provided under subsection (a)(2)(F) with respect to a disability that is found, in accordance with guidelines issued by the Under Secretary for Health, to have resulted from a cause other than the service or testing described in such subparagraph.
 
-(3) Hospital care, medical services, and nursing home care may not be provided under or by virtue of subsection (a)(2)(F)—
+(3) Hospital care, medical services, and nursing home care may not be provided under or by virtue of subsection (a)(2)(F) in the case of care for a veteran described in paragraph (1)(D) who—
 
-&emsp;(A) in the case of care for a veteran described in paragraph (1)(A), after December 31, 2002;
+&emsp;(A) is discharged or released from the active military, naval, or air service after the date that is five years before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008, after a period of five years beginning on the date of such discharge or release; or
 
-&emsp;(B) in the case of care for a veteran described in paragraph (1)(C), after December 31, 2002; and
-
-&emsp;(C) in the case of care for a veteran described in paragraph (1)(D) who—
-
-&emsp;&emsp;(i) is discharged or released from the active military, naval, or air service after the date that is five years before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008, after a period of five years beginning on the date of such discharge or release; or
-
-&emsp;&emsp;(ii) is so discharged or released more than five years before the date of the enactment of that Act and who did not enroll in the patient enrollment system under section 1705 of this title before such date, after a period of three years beginning on the date of the enactment of that Act.
+&emsp;(B) is so discharged or released more than five years before the date of the enactment of that Act and who did not enroll in the patient enrollment system under section 1705 of this title before such date, after a period of three years beginning on the date of the enactment of that Act.
 
 (4) For purposes of this subsection—
 
@@ -92,7 +86,7 @@
 
 &emsp;&emsp;(ii) the amount determined under paragraph (3) of this subsection; and
 
-&emsp;(B) before September 30, 2010, an amount equal to $10 for every day the veteran receives hospital care and $5 for every day the veteran receives nursing home care.
+&emsp;(B) before September 30, 2012, an amount equal to $10 for every day the veteran receives hospital care and $5 for every day the veteran receives nursing home care.
 
 (3)(A) In the case of hospital care furnished during any 365-day period, the amount referred to in paragraph (2)(A)(ii) of this subsection is—
 
@@ -102,7 +96,7 @@
 
 (B) In the case of nursing home care furnished during any 365-day period, the amount referred to in paragraph (2)(A)(ii) of this subsection is the amount of the inpatient Medicare deductible for each 90 days of such care (or fraction thereof) during such 365-day period.
 
-(C)(i) Except as provided in clause (ii) of this subparagraph, in the case of a veteran who is admitted for nursing home care under this section after being furnished, during the preceding 365-day period, hospital care for which the veteran has paid the amount of the inpatient Medicare deductible under this subsection and who has not been furnished 90 days of hospital care in connection with such payment, the veteran shall not incur any liability under paragraph (2) of this subsection with respect to such nursing home care until—
+(C)(i) Except as provided in clause (ii) of this subparagraph, in the case of a veteran who is admitted for nursing home care under this section after being furnished, during the preceding 365-day period, hospital care for which the veteran has paid the amount of the inpatient Medicaredeductible under this subsection and who has not been furnished 90 days of hospital care in connection with such payment, the veteran shall not incur any liability under paragraph (2) of this subsection with respect to such nursing home care until—
 
 &emsp;(I) the veteran has been furnished, beginning with the first day of such hospital care furnished in connection with such payment, a total of 90 days of hospital care and nursing home care; or
 
@@ -142,13 +136,13 @@
 
 (h) Nothing in this section requires the Secretary to furnish care to a veteran to whom another agency of Federal, State, or local government has a duty under law to provide care in an institution of such government.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, §610; Pub. L. 87–583, §1, Aug. 14, 1962, 76 Stat. 381; Pub. L. 89–358, §8, Mar. 3, 1966, 80 Stat. 27; Pub. L. 89–785, title III, §304, Nov. 7, 1966, 80 Stat. 1377; Pub. L. 91–500, §4, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 93–82, title I, §102, Aug. 2, 1973, 87 Stat. 180; Pub. L. 94–581, title II, §§202(d), 210(a)(1), Oct. 21, 1976, 90 Stat. 2855, 2862; Pub. L. 96–22, title I, §102(a), June 13, 1979, 93 Stat. 47; Pub. L. 97–37, §5(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 97–72, title I, §102(a), Nov. 3, 1981, 95 Stat. 1047; Pub. L. 98–160, title VII, §701, Nov. 21, 1983, 97 Stat. 1008; Pub. L. 99–166, title I, §103, Dec. 3, 1985, 99 Stat. 944; Pub. L. 99–272, title XIX, §19011(a), (d)(3), Apr. 7, 1986, 100 Stat. 372, 379; Pub. L. 99–576, title II, §237(a), (b)(1), Oct. 28, 1986, 100 Stat. 3267; Pub. L. 100–322, title I, §102(a), May 20, 1988, 102 Stat. 492; Pub. L. 100–687, div. B, title XII, §1202, Nov. 18, 1988, 102 Stat. 4125; Pub. L. 101–508, title VIII, §8013(a), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–4, §5, Feb. 6, 1991, 105 Stat. 15; Pub. L. 102–54, §14(b)(10), June 13, 1991, 105 Stat. 283; renumbered §1710 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–210, §§1(a), 2(a), Dec. 20, 1993, 107 Stat. 2496, 2497; Pub. L. 103–446, title XII, §1201(d)(2), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 103–452, title I, §103(a)(1), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(a)(1), Feb. 13, 1996, 110 Stat. 768; Pub. L. 104–262, title I, §§101(a), (b), (d)(2)–(4), 102(a), Oct. 9, 1996, 110 Stat. 3178, 3179, 3181; Pub. L. 104–275, title V, §505(c), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 105–33, title VIII, §§8021(a)(1), 8023(b)(1), (2), Aug. 5, 1997, 111 Stat. 664, 667; Pub. L. 105–114, title II, §209(a), title IV, §402(a), Nov. 21, 1997, 111 Stat. 2290, 2294; Pub. L. 105–368, title I, §102(a), title X, §1005(b)(3), Nov. 11, 1998, 112 Stat. 3321, 3365; Pub. L. 106–117, title I, §§101(f), 112(1), title II, §201(b), Nov. 30, 1999, 113 Stat. 1550, 1556, 1561; Pub. L. 106–419, title II, §224(b), Nov. 1, 2000, 114 Stat. 1846; Pub. L. 107–135, title II, §§202(b), 209(a), 211, Jan. 23, 2002, 115 Stat. 2457, 2464, 2465; Pub. L. 107–330, title III, §308(g)(6), Dec. 6, 2002, 116 Stat. 2829; Pub. L. 108–170, title I, §102, Dec. 6, 2003, 117 Stat. 2044; Pub. L. 109–444, §2(a), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title II, §211(a)(3)(B), title X, §§1003, 1006(b), Dec. 22, 2006, 120 Stat. 3419, 3465, 3468; Pub. L. 110–161, div. I, title II, §231, Dec. 26, 2007, 121 Stat. 2273; Pub. L. 110–181, div. A, title XVII, §1707, Jan. 28, 2008, 122 Stat. 493; Pub. L. 110–329, div. E, title II, §224, Sept. 30, 2008, 122 Stat. 3713; Pub. L. 110–387, title IV, §409, title VIII, §§803, 804(a), Oct. 10, 2008, 122 Stat. 4130, 4141.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, §610; Pub. L. 87–583, §1, Aug. 14, 1962, 76 Stat. 381; Pub. L. 89–358, §8, Mar. 3, 1966, 80 Stat. 27; Pub. L. 89–785, title III, §304, Nov. 7, 1966, 80 Stat. 1377; Pub. L. 91–500, §4, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 93–82, title I, §102, Aug. 2, 1973, 87 Stat. 180; Pub. L. 94–581, title II, §§202(d), 210(a)(1), Oct. 21, 1976, 90 Stat. 2855, 2862; Pub. L. 96–22, title I, §102(a), June 13, 1979, 93 Stat. 47; Pub. L. 97–37, §5(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 97–72, title I, §102(a), Nov. 3, 1981, 95 Stat. 1047; Pub. L. 98–160, title VII, §701, Nov. 21, 1983, 97 Stat. 1008; Pub. L. 99–166, title I, §103, Dec. 3, 1985, 99 Stat. 944; Pub. L. 99–272, title XIX, §19011(a), (d)(3), Apr. 7, 1986, 100 Stat. 372, 379; Pub. L. 99–576, title II, §237(a), (b)(1), Oct. 28, 1986, 100 Stat. 3267; Pub. L. 100–322, title I, §102(a), May 20, 1988, 102 Stat. 492; Pub. L. 100–687, div. B, title XII, §1202, Nov. 18, 1988, 102 Stat. 4125; Pub. L. 101–508, title VIII, §8013(a), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–4, §5, Feb. 6, 1991, 105 Stat. 15; Pub. L. 102–54, §14(b)(10), June 13, 1991, 105 Stat. 283; renumbered §1710 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–210, §§1(a), 2(a), Dec. 20, 1993, 107 Stat. 2496, 2497; Pub. L. 103–446, title XII, §1201(d)(2), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 103–452, title I, §103(a)(1), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(a)(1), Feb. 13, 1996, 110 Stat. 768; Pub. L. 104–262, title I, §§101(a), (b), (d)(2)–(4), 102(a), Oct. 9, 1996, 110 Stat. 3178, 3179, 3181; Pub. L. 104–275, title V, §505(c), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 105–33, title VIII, §§8021(a)(1), 8023(b)(1), (2), Aug. 5, 1997, 111 Stat. 664, 667; Pub. L. 105–114, title II, §209(a), title IV, §402(a), Nov. 21, 1997, 111 Stat. 2290, 2294; Pub. L. 105–368, title I, §102(a), title X, §1005(b)(3), Nov. 11, 1998, 112 Stat. 3321, 3365; Pub. L. 106–117, title I, §§101(f), 112(1), title II, §201(b), Nov. 30, 1999, 113 Stat. 1550, 1556, 1561; Pub. L. 106–419, title II, §224(b), Nov. 1, 2000, 114 Stat. 1846; Pub. L. 107–135, title II, §§202(b), 209(a), 211, Jan. 23, 2002, 115 Stat. 2457, 2464, 2465; Pub. L. 107–330, title III, §308(g)(6), Dec. 6, 2002, 116 Stat. 2829; Pub. L. 108–170, title I, §102, Dec. 6, 2003, 117 Stat. 2044; Pub. L. 109–444, §2(a), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title II, §211(a)(3)(B), title X, §§1003, 1006(b), Dec. 22, 2006, 120 Stat. 3419, 3465, 3468; Pub. L. 110–161, div. I, title II, §231, Dec. 26, 2007, 121 Stat. 2273; Pub. L. 110–181, div. A, title XVII, §1707, Jan. 28, 2008, 122 Stat. 493; Pub. L. 110–329, div. E, title II, §224, Sept. 30, 2008, 122 Stat. 3713; Pub. L. 110–387, title IV, §409, title VIII, §§803, 804(a), Oct. 10, 2008, 122 Stat. 4130, 4141; Pub. L. 111–163, title V, §§513, 517, May 5, 2010, 124 Stat. 1164, 1167.)
 
 #### References in Text
 
 Section 3 of the Agent Orange Act of 1991, referred to in subsec. (e)(2)(A)(ii), is section 3 of Pub. L. 102–4, which is set out as a note under section 1116 of this title.
 
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (e)(3)(C), is the date of enactment of Pub. L. 110–181, which was approved Jan. 28, 2008.
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (e)(3), is the date of enactment of Pub. L. 110–181, which was approved Jan. 28, 2008.
 
 #### Codification
 
@@ -160,7 +154,17 @@ A prior section 1710 was renumbered section 3510 of this title.
 
 #### Amendments
 
-2008—Subsec. (e)(1)(E). Pub. L. 110–387, §803(b), substituted “paragraph (2)” for “paragraphs (2) and (3)”.
+<b>2010</b>—Subsec. (e)(1)(C). Pub. L. 111–163, §513(2), substituted “paragraph (2)” for “paragraphs (2) and (3)” and inserted “between August 2, 1990, and November 11, 1998,” after “on active duty”.
+
+Subsec. (e)(3). Pub. L. 111–163, §513(1), substituted “subsection (a)(2)(F)” for “subsection (a)(2)(F)—” in introductory provisions, struck out subpar. (C) designation before “in the case”, redesignated cls. (i) and (ii) of former subpar. (C) as subpars. (A) and (B), respectively, realigned margins, and struck out former subpars. (A) and (B), which read as follows:
+
+“(A) in the case of care for a veteran described in paragraph (1)(A), after December 31, 2002;
+
+“(B) in the case of care for a veteran described in paragraph (1)(C), after December 31, 2002; and”.
+
+Subsec. (f)(2)(B). Pub. L. 111–163, §517, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “before September 30, 2010, an amount equal to $10 for every day the veteran receives hospital care and $5 for every day the veteran receives nursing home care.”
+
+<b>2008</b>—Subsec. (e)(1)(E). Pub. L. 110–387, §803(b), substituted “paragraph (2)” for “paragraphs (2) and (3)”.
 
 Subsec. (e)(3)(B). Pub. L. 110–387, §803(a)(1), inserted “and” after the semicolon at end.
 
@@ -178,9 +182,9 @@ Pub. L. 110–329 substituted “September 30, 2009,” for “September 30, 200
 
 Subsec. (g)(1). Pub. L. 110–387, §409(2), inserted “(except if such care constitutes hospice care)” after “medical services”.
 
-2007—Subsec. (f)(2)(B). Pub. L. 110–161 substituted “September 30, 2008,” for “September 30, 2007,”.
+<b>2007</b>—Subsec. (f)(2)(B). Pub. L. 110–161 substituted “September 30, 2008,” for “September 30, 2007,”.
 
-2006—Subsec. (a)(4). Pub. L. 109–461, §211(a)(3)(B), struck out “and” before “the requirement in section 1710B of this title” and inserted “, and the requirement in section 1745 of this title to provide nursing home care and prescription medicines to veterans with service-connected disabilities in State homes” after “a program of extended care services”.
+<b>2006</b>—Subsec. (a)(4). Pub. L. 109–461, §211(a)(3)(B), struck out “and” before “the requirement in section 1710B of this title” and inserted “, and the requirement in section 1745 of this title to provide nursing home care and prescription medicines to veterans with service-connected disabilities in State homes” after “a program of extended care services”.
 
 Subsec. (e)(3)(D). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
@@ -188,13 +192,13 @@ Pub. L. 109–461, §1003, substituted “December 31, 2007” for “December 3
 
 Pub. L. 109–444, which substituted “December 31, 2007” for “December 31, 2005”, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
-2003—Subsec. (e)(1)(E). Pub. L. 108–170, §102(1), added subpar. (E).
+<b>2003</b>—Subsec. (e)(1)(E). Pub. L. 108–170, §102(1), added subpar. (E).
 
 Subsec. (e)(2)(B). Pub. L. 108–170, §102(2), substituted “subparagraph (C), (D), or (E) of paragraph (1)” for “paragraph (1)(C) or (1)(D)” and “service or testing described in such subparagraph” for “service described in that paragraph”.
 
 Subsec. (e)(3)(D). Pub. L. 108–170, §102(3), added subpar. (D).
 
-2002—Subsec. (e)(1)(D). Pub. L. 107–330 substituted “November 11, 1998” for “the date of the enactment of this subparagraph”.
+<b>2002</b>—Subsec. (e)(1)(D). Pub. L. 107–330 substituted “November 11, 1998” for “the date of the enactment of this subparagraph”.
 
 Subsec. (e)(3)(B). Pub. L. 107–135, §211, substituted “December 31, 2002” for “December 31, 2001”.
 
@@ -204,9 +208,9 @@ Subsec. (f)(2)(B). Pub. L. 107–135, §209(a), substituted “September 30, 200
 
 Subsec. (f)(4), (5). Pub. L. 107–135, §202(b)(2), (3), added par. (4) and redesignated former par. (4) as (5).
 
-2000—Subsec. (a)(4). Pub. L. 106–419 inserted “the requirement in section 1710A(a) of this title that the Secretary provide nursing home care,” after “medical services,” and struck out comma after “extended care services”.
+<b>2000</b>—Subsec. (a)(4). Pub. L. 106–419 inserted “the requirement in section 1710A(a) of this title that the Secretary provide nursing home care,” after “medical services,” and struck out comma after “extended care services”.
 
-1999—Subsec. (a)(1). Pub. L. 106–117, §101(f)(1), struck out “, and may furnish nursing home care,” after “medical services” in introductory provisions.
+<b>1999</b>—Subsec. (a)(1). Pub. L. 106–117, §101(f)(1), struck out “, and may furnish nursing home care,” after “medical services” in introductory provisions.
 
 Subsec. (a)(2)(A). Pub. L. 106–117, §101(f)(2), inserted “or, with respect to nursing home care during any period during which the provisions of section 1710A(a) of this title are in effect, a compensable service-connected disability rated less than 70 percent” after “50 percent”.
 
@@ -220,7 +224,7 @@ Subsec. (g)(1). Pub. L. 106–117, §201(b)(1), substituted “in the case of ea
 
 Subsec. (g)(2). Pub. L. 106–117, §201(b)(2), substituted “which the Secretary shall establish by regulation.” for “equal to 20 percent of the estimated average cost (during the calendar year in which the services are furnished) of an outpatient visit in a Department facility. Such estimated average cost shall be determined by the Secretary.”
 
-1998—Subsec. (e)(1)(D). Pub. L. 105–368, §102(a)(1), added subpar. (D).
+<b>1998</b>—Subsec. (e)(1)(D). Pub. L. 105–368, §102(a)(1), added subpar. (D).
 
 Subsec. (e)(2)(A)(ii). Pub. L. 105–368, §1005(b)(3), substituted “section 3” for “section 2”.
 
@@ -234,7 +238,7 @@ Subsec. (e)(3)(C). Pub. L. 105–368, §102(a)(3)(C), added subpar. (C).
 
 Subsec. (e)(5). Pub. L. 105–368, §102(a)(4), added par. (5).
 
-1997—Subsec. (a)(2)(B). Pub. L. 105–114, §402(a), struck out “compensable” before “disability”.
+<b>1997</b>—Subsec. (a)(2)(B). Pub. L. 105–114, §402(a), struck out “compensable” before “disability”.
 
 Subsec. (a)(2)(F). Pub. L. 105–114, §209(a)(1), substituted “other conditions” for “environmental hazard”.
 
@@ -248,7 +252,7 @@ Subsec. (f)(4), (5). Pub. L. 105–33, §8023(b)(1), redesignated par. (5) as (4
 
 Subsec. (g)(4). Pub. L. 105–33, §8023(b)(2), struck out par. (4) which read as follows: “Amounts collected or received by the Department under this subsection shall be deposited in the Treasury as miscellaneous receipts.”
 
-1996—Subsec. (a). Pub. L. 104–262, §101(a), amended subsec. (a) generally, revising and restating provisions in former pars. (1) to (3) relating to eligibility for care as pars. (1) to (4).
+<b>1996</b>—Subsec. (a). Pub. L. 104–262, §101(a), amended subsec. (a) generally, revising and restating provisions in former pars. (1) to (3) relating to eligibility for care as pars. (1) to (4).
 
 Subsec. (c)(1). Pub. L. 104–262, §101(d)(2), substituted “section 1712(a)” for “section 1712(b)”.
 
@@ -278,21 +282,21 @@ Subsec. (e)(4)(A). Pub. L. 104–275 substituted “during the period beginning 
 
 Subsec. (f)(1). Pub. L. 104–262, §101(d)(4)(A), substituted “subsection (a)(3)” for “subsection (a)(2)”.
 
-Subsec. (f)(3)(E). Pub. L. 104–262, §101(d)(4)(B), substituted “paragraph (3) of subsection (a)” for “section1712(a) of this title” and “subsection (g)” for “section 1712(f) of this title”.
+Subsec. (f)(3)(E). Pub. L. 104–262, §101(d)(4)(B), substituted “paragraph (3) of subsection (a)” for “section 1712(a) of this title” and “subsection (g)” for “section 1712(f) of this title”.
 
 Subsec. (f)(3)(F). Pub. L. 104–262, §101(d)(4)(C), substituted “subsection (g)” for “section 1712(f) of this title”.
 
-Subsec. (g). Pub. L. 104–262, §101(b)(2), redesignated subsec. (f) of section 1712 of this title as subsec. (g) of this section and substituted “subsection (a)(3) of this section” for “section 1710(a)(2) of this title” in par. (1). See Codification note above.
+Subsec. (g). Pub. L. 104–262, §101(b)(2), redesignated subsec. (f) of section 1712 of this title as subsec. (g) ofthis section and substituted “subsection (a)(3) of this section” for “section 1710(a)(2) of this title” in par. (1). See Codification note above.
 
 Pub. L. 104–262, §101(b)(1), redesignated subsec. (g) as (h).
 
 Subsec. (h). Pub. L. 104–262, §101(b)(1), redesignated subsec. (g) as (h).
 
-1994—Subsec. (e)(3). Pub. L. 103–452 substituted “June 30, 1995” for “June 30, 1994” and “December 31, 1995” for “December 31, 1994”.
+<b>1994</b>—Subsec. (e)(3). Pub. L. 103–452 substituted “June 30, 1995” for “June 30, 1994” and “December 31, 1995” for “December 31, 1994”.
 
 Subsec. (f)(3)(E). Pub. L. 103–446 substituted “section 1712(a)” for “section 1712(f)” and “section 1712(f)” for “section 1712(f)(4)”.
 
-1993—Subsec. (a)(1)(G). Pub. L. 103–210, §1(a)(1), substituted “substance, radiation, or environmental hazard” for “substance or radiation”.
+<b>1993</b>—Subsec. (a)(1)(G). Pub. L. 103–210, §1(a)(1), substituted “substance, radiation, or environmental hazard” for “substance or radiation”.
 
 Subsec. (e)(1)(C). Pub. L. 103–210, §1(a)(2)(A), added subpar. (C).
 
@@ -302,9 +306,9 @@ Subsec. (e)(3). Pub. L. 103–210, §2(a), substituted “June 30, 1994” for �
 
 Pub. L. 103–210, §1(a)(2)(C), inserted before period at end “, or, in the case of care for a veteran described in paragraph (1)(C), after December 31, 1994”.
 
-1992—Subsec. (e)(2). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
+<b>1992</b>—Subsec. (e)(2). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 610 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 610 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 102–83, §5(c)(1), substituted “1151” for “351” in subpar. (C) and “1722(a)” for “622(a)” in subpar. (I).
 
@@ -340,7 +344,7 @@ Subsec. (f)(3)(E), (F). Pub. L. 102–83, §5(c)(1), substituted “1712(f)” f
 
 Subsec. (g). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1990—Subsec. (a)(1)(I). Pub. L. 101–508, §8013(a)(1)(A), substituted “section 622(a)” for “section 622(a)(1)”.
+<b>1990</b>—Subsec. (a)(1)(I). Pub. L. 101–508, §8013(a)(1)(A), substituted “section 622(a)” for “section 622(a)(1)”.
 
 Subsec. (a)(2). Pub. L. 101–508, §8013(a)(1)(B), added par. (2) and struck out former par. (2) which read as follows:
 
@@ -364,7 +368,7 @@ Subsec. (f)(1), (2). Pub. L. 101–508, §8013(a)(2)(A), added pars. (1) and (2)
 
 Subsec. (f)(3)(A), (B). Pub. L. 101–508, §8013(a)(2)(B), substituted “paragraph (2)(A)(ii)” for “paragraph (2)(B)”.
 
-1988—Subsec. (b). Pub. L. 100–233 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Administrator, within the limits of Veterans’ Administration facilities, may furnish domiciliary care to—
+<b>1988</b>—Subsec. (b). Pub. L. 100–233 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Administrator, within the limits of Veterans’ Administration facilities, may furnish domiciliary care to—
 
 &emsp;“(1) a veteran who was discharged or released from the active military, naval, or air service for a disability incurred or aggravated in line of duty, or a person who is in receipt of disability compensation, when such person is suffering from a permanent disability or tuberculosis or neuropsychiatric ailment and is incapacitated from earning a living and has no adequate means of support; and
 
@@ -372,7 +376,7 @@ Subsec. (f)(3)(A), (B). Pub. L. 101–508, §8013(a)(2)(B), substituted “parag
 
 Subsec. (e)(3). Pub. L. 100–687 substituted “December 31, 1990” for “September 30, 1989”.
 
-1986—Subsec. (a). Pub. L. 99–576, §237(a), inserted “who is in receipt of, or” after “veteran” in par. (1)(C).
+<b>1986</b>—Subsec. (a). Pub. L. 99–576, §237(a), inserted “who is in receipt of, or” after “veteran” in par. (1)(C).
 
 Pub. L. 99–272, §19011(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Administrator, within the limits of Veterans’ Administration facilities, may furnish hospital care or nursing home care which the Administrator determines is needed to—
 
@@ -382,7 +386,7 @@ Pub. L. 99–272, §19011(a)(1), amended subsec. (a) generally. Prior to amendme
 
 &emsp;“(2) a veteran whose discharge or release from the active military, naval, or air service was for a disability incurred or aggravated in line of duty;
 
-&emsp;“(3) a person (A) who is in receipt of, or but for the receipt of retirement pay would be entitled to, disability compensation, or (B) who, but for a suspension pursuant to section 351 of this title (or both such a suspension and the receipt of retired pay), would beentitled to disability compensation, but only to the extent that such person's continuing eligibility for such care is provided for in the judgment or settlement described in such section;
+&emsp;“(3) a person (A) who is in receipt of, or but for the receipt of retirement pay would be entitled to, disability compensation, or (B) who, but for a suspension pursuant to section 351 of this title (or both such a suspension and the receipt of retired pay), would be entitled to disability compensation, but only to the extent that such person's continuing eligibility for such care is provided for in the judgment or settlement described in such section;
 
 &emsp;“(4) a veteran who is a former prisoner of war;
 
@@ -400,19 +404,19 @@ Subsec. (f)(3)(F). Pub. L. 99–576, §237(b)(1), added subpar. (F).
 
 Subsec. (g). Pub. L. 99–272, §19011(a)(2), added subsec. (g).
 
-1985—Subsec. (e)(3). Pub. L. 99–166 substituted “after September 30, 1989” for “after the end of the one-year period beginning on the date the Administrator submits to the appropriate committees of Congress the first report required by section 307(b)(2) of the Veterans Health Programs Extension and Improvement Act of 1979 (Public Law 96–151; 93 Stat. 1098)”.
+<b>1985</b>—Subsec. (e)(3). Pub. L. 99–166 substituted “after September 30, 1989” for “after the end of the one-year period beginning on the date the Administrator submits to the appropriate committees of Congress the first report required by section 307(b)(2) of the Veterans Health Programs Extension and Improvement Act of 1979 (Public Law 96–151; 93 Stat. 1098)”.
 
-1983—Subsec. (a)(3). Pub. L. 98–160 inserted “(A)” after “a person” and, after “disability compensation”, inserted “or (B) who, but for a suspension pursuant to section 351 of this title (or both such a suspension and the receipt of retired pay), would be entitled to disability compensation, but only to the extent that such person's continuing eligibility for such care is provided for in the judgment or settlement described in such section”.
+<b>1983</b>—Subsec. (a)(3). Pub. L. 98–160 inserted “(A)” after “a person” and, after “disability compensation”, inserted “or (B) who, but for a suspension pursuant to section 351 of this title (or both such a suspension and the receipt of retired pay), would be entitled to disability compensation, but only to the extent that such person's continuing eligibility for such care is provided for in the judgment or settlement described in such section”.
 
-1981—Subsec. (a). Pub. L. 97–72, §102(a)(1), added cl. (5) and redesignated former cl. (5) as (6).
+<b>1981</b>—Subsec. (a). Pub. L. 97–72, §102(a)(1), added cl. (5) and redesignated former cl. (5) as (6).
 
 Pub. L. 97–37 added cl. (4) and redesignated former cl. (4) as (5).
 
 Subsec. (e). Pub. L. 97–72, §102(a)(2), added subsec. (e).
 
-1979—Subsec. (c). Pub. L. 96–22 inserted provisions relating to the furnishing of dental services and treatment and related dental appliances for non-service-connected dental conditions or disabilities of veterans.
+<b>1979</b>—Subsec. (c). Pub. L. 96–22 inserted provisions relating to the furnishing of dental services and treatment and related dental appliances for non-service-connected dental conditions or disabilities of veterans.
 
-1976—Pub. L. 94–581, §202(d)(1), inserted “, nursing home,” in section catchline.
+<b>1976</b>—Pub. L. 94–581, §202(d)(1), inserted “, nursing home,” in section catchline.
 
 Subsec. (a). Pub. L. 94–581, §§202(d)(2), 210(a)(1)(A), (B), substituted “the Administrator determines” for “he determines” in provisions preceding par. (1) and substituted “such veteran” for “he” and “necessary hospital or nursing home care” for “necessary hospital care” in subpar. (B) of par. (1).
 
@@ -424,19 +428,19 @@ Subsec. (c). Pub. L. 94–581, §210(a)(1)(B), substituted “for which such vet
 
 Subsec. (d). Pub. L. 94–581, §202(d)(4), substituted “direct jurisdiction” for “direct and exclusive jurisdiction”.
 
-1973—Subsec. (a). Pub. L. 93–82, §102(1), (2), extended authority of the Administrator to furnish nursing home care, and in par. (1)(B), substituted “any veteran for a” for “a veteran of any war or of service after January 31, 1955, for”.
+<b>1973</b>—Subsec. (a). Pub. L. 93–82, §102(1), (2), extended authority of the Administrator to furnish nursing home care, and in par. (1)(B), substituted “any veteran for a” for “a veteran of any war or of service after January 31, 1955, for”.
 
 Subsec. (c). Pub. L. 93–82, §102(3), expanded provision regarding medical services to include nursing home care and struck out requirement that the Administrator make a determination in each instance that the non-service-connected disability would be in the veteran's interest, would not prolong his hospitalization, and, would not interfere with the furnishing of hospital facilities to other veterans.
 
 Subsec. (d). Pub. L. 93–82, §102(4), added subsec. (d).
 
-1970—Subsec. (a). Pub. L. 91–500 added cl. (4).
+<b>1970</b>—Subsec. (a). Pub. L. 91–500 added cl. (4).
 
-1966—Pub. L. 89–358 inserted “or of service after January 31, 1955,” after “veteran of any war” in subsecs. (a)(1)(B) and (b)(2).
+<b>1966</b>—Pub. L. 89–358 inserted “or of service after January 31, 1955,” after “veteran of any war” in subsecs. (a)(1)(B) and (b)(2).
 
 Subsec. (c). Pub. L. 89–785 added subsec. (c).
 
-1962—Subsec. (a)(1). Pub. L. 87–583 provided for hospital care to any veteran for a service-connected disability instead of to a veteran of any war for a service-connected disability incurred or aggravated during a period of war in subpar. (A) and incorporated existing provisions in subpar. (B).
+<b>1962</b>—Subsec. (a)(1). Pub. L. 87–583 provided for hospital care to any veteran for a service-connected disability instead of to a veteran of any war for a service-connected disability incurred or aggravated during a period of war in subpar. (A) and incorporated existing provisions in subpar. (B).
 
 #### Effective Date of 2006 Amendment
 
@@ -472,7 +476,7 @@ Section 1(c)(1) of Pub. L. 103–210 provided that: “The amendments made by su
 
 Pub. L. 102–145, §111, Oct. 28, 1991, 105 Stat. 970, provided that: “Notwithstanding any other provision of this joint resolution or any other law, the amendments made by sections 8012 and 8013 of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508) \[enacting section 622A \[now 1722A\] of this title and amending this section and sections 612 \[now 1712\] and 622 \[now 1722\] of this title\] shall remain in effect through the period covered by this joint resolution \[see section 106 of Pub. L. 102–145, 105 Stat. 970, as amended by Pub. L. 102–163, 105 Stat. 1048\].”
 
-Pub. L. 102–109, §111, Sept. 30, 1991, 105 Stat. 553, provided that: “Notwithstanding any other provision of this joint resolution or any other law, the amendments made by sections 8012 and 8013 of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508) \[enacting section 622A \[now 1722A\] of this title and amending this section and sections 612 \[now 1712\] and 622 \[now 1722\] of this title\] shall remain in effect through the period covered by this joint resolution \[see section 106 of Pub. L. 102–109, 105 Stat. 553\].”
+Pub. L. 102–109, §111, Sept. 30, 1991, 105 Stat. 553, provided that: “Notwithstanding any other provision ofthis joint resolution or any other law, the amendments made by sections 8012 and 8013 of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508) \[enacting section 622A \[now 1722A\] of this title and amending this section and sections 612 \[now 1712\] and 622 \[now 1722\] of this title\] shall remain in effect through the period covered by this joint resolution \[see section 106 of Pub. L. 102–109, 105 Stat. 553\].”
 
 Section 8013(d) and (e) of Pub. L. 101–508, as amended by Pub. L. 102–139, title V, §518(b), Oct. 28, 1991, 105 Stat. 779; Pub. L. 102–568, title VI, §606(b), Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, §12002(a), Aug. 10, 1993, 107 Stat. 414; Pub. L. 105–33, title VIII, §8021(a)(2), Aug. 5, 1997, 111 Stat. 665, provided that:
 
@@ -523,6 +527,136 @@ Section 102(b) of Pub. L. 104–262 provided that: “The provisions of sections
 #### Savings Provision for Pub. L. 100–322
 
 Section 102(c) of Pub. L. 100–322 provided that: “The amendment made by subsection (a) \[amending this section\] shall not limit or restrict the eligibility for domiciliary care of a veteran who was a patient or a resident in a State home facility or a Veterans’ Administration domiciliary facility during the period beginning on January 1, 1987, and ending on April 1, 1988.”
+
+#### Pilot Program on Assistance for Child Care for Certain Veterans Receiving Health Care
+
+Pub. L. 111–163, title II, §205, May 5, 2010, 124 Stat. 1144, provided that:
+
+“(a)
+
+Pilot Program Required.—The Secretary of Veterans Affairs shall carry out a pilot program to assess the feasibility and advisability of providing, subject to subsection (b), assistance to qualified veterans described in subsection (c) to obtain child care so that such veterans can receive health care services described in subsection (c).
+
+“(b)
+
+Limitation on Period of Payments.—Assistance may only be provided to a qualified veteran under the pilot program for receipt of child care during the period that the qualified veteran—
+
+&emsp;“(1) receives the types of health care services described in subsection (c) at a facility of the Department; and
+
+&emsp;“(2) requires travel to and return from such facility for the receipt of such health care services.
+
+“(c)
+
+Qualified Veterans.—For purposes of this section, a qualified veteran is a veteran who is—
+
+&emsp;“(1) the primary caretaker of a child or children; and
+
+&emsp;“(2)(A) receiving from the Department—
+
+&emsp;&emsp;“(i) regular mental health care services;
+
+&emsp;&emsp;“(ii) intensive mental health care services; or
+
+&emsp;&emsp;“(iii) such other intensive health care services that the Secretary determines that provision of assistance to the veteran to obtain child care would improve access to such health care services by the veteran; or
+
+&emsp;“(B) in need of regular or intensive mental health care services from the Department, and but for lack of child care services, would receive such health care services from the Department.
+
+“(d)
+
+Locations.—The Secretary shall carry out the pilot program in no fewer than three Veterans Integrated Service Networks selected by the Secretary for purposes of the pilot program.
+
+“(e)
+
+Duration.—The pilot program shall be carried out during the 2-year period beginning on the date of the commencement of the pilot program.
+
+“(f)
+
+Forms of Child Care Assistance.—
+
+&emsp;“(1)
+
+In general.—Child care assistance under this section may include the following:
+
+&emsp;&emsp;“(A) Stipends for the payment of child care offered by licensed child care centers (either directly or through a voucher program) which shall be, to the extent practicable, modeled after the Department of Veterans Affairs Child Care Subsidy Program established pursuant to section 630 of the Treasury and General Government Appropriations Act, 2002 (Public Law 107–67; 115 Stat. 552) \[now 40 U.S.C. 590(g)\].
+
+&emsp;&emsp;“(B) Direct provision of child care at an on-site facility of the Department of Veterans Affairs.
+
+&emsp;&emsp;“(C) Payments to private child care agencies.
+
+&emsp;&emsp;“(D) Collaboration with facilities or programs of other Federal departments or agencies.
+
+&emsp;&emsp;“(E) Such other forms of assistance as the Secretary considers appropriate.
+
+&emsp;“(2)
+
+Amounts of stipends.—In the case that child care assistance under this section is provided as a stipend under paragraph (1)(A), such stipend shall cover the full cost of such child care.
+
+“(g)
+
+Report.—Not later than 6 months after the completion of the pilot program, the Secretary shall submit to Congress a report on the pilot program. The report shall include the findings and conclusions of the Secretary as a result of the pilot program, and shall include such recommendations for the continuation or expansion of the pilot program as the Secretary considers appropriate.
+
+“(h)
+
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of Veterans Affairs to carry out the pilot program $1,500,000 for each of fiscal years 2010 and 2011.”
+
+#### Grants for Veterans Service Organizations for Transportation of Highly Rural Veterans
+
+Pub. L. 111–163, title III, §307, May 5, 2010, 124 Stat. 1154, provided that:
+
+“(a)
+
+Grants Authorized.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Veterans Affairs shall establish a grant program to provide innovative transportation options to veterans in highly rural areas.
+
+&emsp;“(2)
+
+Eligible recipients.—The following may be awarded a grant under this section:
+
+&emsp;&emsp;“(A) State veterans service agencies.
+
+&emsp;&emsp;“(B) Veterans service organizations.
+
+&emsp;“(3)
+
+Use of funds.—A State veterans service agency or veterans service organization awarded a grant under this section may use the grant amount to—
+
+&emsp;&emsp;“(A) assist veterans in highly rural areas to travel to Department of Veterans Affairs medical centers; and
+
+&emsp;&emsp;“(B) otherwise assist in providing transportation in connection with the provision of medical care to veterans in highly rural areas.
+
+&emsp;“(4)
+
+Maximum amount.—The amount of a grant under this section may not exceed $50,000.
+
+&emsp;“(5)
+
+No matching requirement.—The recipient of a grant under this section shall not be required to provide matching funds as a condition for receiving such grant.
+
+“(b)
+
+Regulations.—The Secretary shall prescribe regulations for—
+
+&emsp;“(1) evaluating grant applications under this section; and
+
+&emsp;“(2) otherwise administering the program established by this section.
+
+“(c)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Highly rural.—The term ‘highly rural’, in the case of an area, means that the area consists of a county or counties having a population of less than seven persons per square mile.
+
+&emsp;“(2)
+
+Veterans service organization.—The term ‘veterans service organization’ means any organization recognized by the Secretary of Veterans Affairs for the representation of veterans under section 5902 of title 38, United States Code.
+
+“(d)
+
+Authorization of Appropriations.—There is authorized to be appropriated $3,000,000 for each of fiscal years 2010 through 2014 to carry out this section.”
 
 #### Continuation of Authority
 

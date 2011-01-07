@@ -44,7 +44,7 @@ For purposes of this part, if stock is received by an individual in a distributi
 
 #### (B) Statutory option stock
 
-&emsp;&emsp;For purpose of subparagraph (A), the term “statutory option stock” means any stock acquired through the exercise of an incentive stock option or an option granted under an employee stock purchase plan.
+&emsp;&emsp;For purpose of subparagraph (A), the term “statutory option stock” means any stockacquired through the exercise of an incentive stock option or an option granted under an employee stock purchase plan.
 
 #### (4) Transfers between spouses or incident to divorce
 
@@ -58,7 +58,7 @@ For purposes of this part, if stock is received by an individual in a distributi
 
 For purposes of this part, in applying the percentage limitations of sections 422(b)(6) and 423(b)(3)—
 
-&emsp;(1) the individual with respect to whom such limitation is being determined shall be considered as owning the stock owned, directly or indirectly, by or for his brothers and sisters\(whether by the whole or half blood), spouse, ancestors, and lineal descendants; and
+&emsp;(1) the individual with respect to whom such limitation is being determined shall be considered as owning the stock owned, directly or indirectly, by or for his brothers and sisters (whether by the whole or half blood), spouse, ancestors, and lineal descendants; and
 
 &emsp;(2) stock owned, directly or indirectly, by or for a corporation, partnership, estate, or trust, shall be considered as being owned proportionately by or for its shareholders, partners, or beneficiaries.
 
@@ -116,9 +116,9 @@ A prior section 424, added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 
 
 #### Amendments
 
-1996—Subsec. (c)(3)(B). Pub. L. 104–188 substituted “an incentive stock option or an option granted under an employee stock purchase plan” for “a qualified stock option, an incentive stock option, an option granted under an employee stock purchase plan, or a restricted stock option”.
+<b>1996</b>—Subsec. (c)(3)(B). Pub. L. 104–188 substituted “an incentive stock option or an option granted under anemployee stock purchase plan” for “a qualified stock option, an incentive stock option, an option granted under an employee stock purchase plan, or a restricted stock option”.
 
-1990—Pub. L. 101–508, §11801(c)(9)(A)(i), renumbered section 425 of this title as this section.
+<b>1990</b>—Pub. L. 101–508, §11801(c)(9)(A)(i), renumbered section 425 of this title as this section.
 
 Subsec. (a). Pub. L. 101–508, §11801(c)(9)(F)(i), substituted “424(a)” for “425(a)”.
 
@@ -134,21 +134,21 @@ Subsec. (h)(3). Pub. L. 101–508, §11801(c)(9)(F)(v)(III), struck out at end �
 
 Subsec. (h)(3)(B). Pub. L. 101–508, §11801(c)(9)(F)(v)(II), substituted “section 423(b)(9)” for “sections 422(b)(6), 423(b)(9), and 424(b)(2)”.
 
-1989—Subsec. (c)(1). Pub. L. 101–239 made technical correction to Pub. L. 100–647, §1018(<i>l</i>)(2), see 1988 Amendment note below.
+<b>1989</b>—Subsec. (c)(1). Pub. L. 101–239 made technical correction to Pub. L. 100–647, §1018(<i>l</i>)(2), see 1988 Amendment note below.
 
-1988—Subsec. (c)(1). Pub. L. 100–647, §1018(<i>l</i>)(2), as amended by Pub. L. 101–239, substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–647, §1018(<i>l</i>)(2), as amended by Pub. L. 101–239, substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
 
 Subsec. (c)(4). Pub. L. 100–647, §1018(<i>l</i>)(1), added par. (4).
 
-1984—Subsec. (h)(3)(B). Pub. L. 98–369 struck out reference to section 422A(b)(5).
+<b>1984</b>—Subsec. (h)(3)(B). Pub. L. 98–369 struck out reference to section 422A(b)(5).
 
-1983—Subsec. (c)(1). Pub. L. 97–448, §102(j)(6)(B), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+<b>1983</b>—Subsec. (c)(1). Pub. L. 97–448, §102(j)(6)(B), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
 Subsec. (c)(3). Pub. L. 97–448, §102(j)(6)(A), added par. (3).
 
 Subsec. (j). Pub. L. 97–448, §102(j)(5), inserted reference to an incentive stock option.
 
-1981—Subsec. (d). Pub. L. 97–34, §251(b)(2), inserted reference to section 422A(b)(6).
+<b>1981</b>—Subsec. (d). Pub. L. 97–34, §251(b)(2), inserted reference to section 422A(b)(6).
 
 Subsec. (g). Pub. L. 97–34, §251(b)(3), inserted reference to section 422A(a)(2).
 

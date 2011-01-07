@@ -34,7 +34,7 @@ A manufacturer shall provide with each manufactured home, design and instruction
 
 #### (4) Issuance
 
-&emsp;The model manufactured home installation standards shall be issued after notice and anopportunity for public comment in accordance with section 553 of title 5.
+&emsp;The model manufactured home installation standards shall be issued after notice and an opportunity for public comment in accordance with section 553 of title 5.
 
 #### (c) Manufactured home installation programs
 
@@ -74,9 +74,9 @@ A manufacturer shall provide with each manufactured home, design and instruction
 
 #### Amendments
 
-2000—Pub. L. 106–569 amended section catchline and text generally, substituting provisions relating to manufactured home installation for provisions relating to National Manufactured Home Advisory Council.
+<b>2000</b>—Pub. L. 106–569 amended section catchline and text generally, substituting provisions relating to manufactured home installation for provisions relating to National Manufactured Home Advisory Council.
 
-1980—Subsecs. (a) to (c). Pub. L. 96–399 substituted “Manufactured Home” for “Mobile Home” and “manufactured home” for “mobile home” wherever appearing.
+<b>1980</b>—Subsecs. (a) to (c). Pub. L. 96–399 substituted “Manufactured Home” for “Mobile Home” and “manufactured home” for “mobile home” wherever appearing.
 
 #### Effective Date of 2000 Amendment
 

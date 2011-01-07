@@ -38,7 +38,7 @@ Information and research facilities.—In carrying out this subchapter, the Admi
 
 (7) The Administrator shall carry out a study of virus contamination of drinking water sources and means of control of such contamination.
 
-(8) The Administrator shall carry out a study of the nature and extent of the impact on underground water which supplies or can reasonably be expected to supply public water systems of (A) abandoned injection or extraction wells; (B) intensive application of pesticides and fertilizersin underground water recharge areas; and (C) ponds, pools, lagoons, pits, or other surface disposal of contaminants in underground water recharge areas.
+(8) The Administrator shall carry out a study of the nature and extent of the impact on underground water which supplies or can reasonably be expected to supply public water systems of (A) abandoned injection or extraction wells; (B) intensive application of pesticides and fertilizers in underground water recharge areas; and (C) ponds, pools, lagoons, pits, or other surface disposal of contaminants in underground water recharge areas.
 
 (9) The Administrator shall conduct a comprehensive study of public water supplies and drinking water sources to determine the nature, extent, sources of and means of control of contamination by chemicals or other substances suspected of being carcinogenic. Not later than six months after December 16, 1974, he shall transmit to the Congress the initial results of such study, together with such recommendations for further review and corrective action as he deems appropriate.
 
@@ -78,11 +78,11 @@ The Administrator may provide technical assistance to small public water systems
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–188, §403(4)(A), which directed substitution of “this subsection” for “this subparagraph”, was executed by making the substitution in three places to reflect the probable intent of Congress.
+<b>2002</b>—Subsec. (b). Pub. L. 107–188, §403(4)(A), which directed substitution of “this subsection” for “this subparagraph”, was executed by making the substitution in three places to reflect the probable intent of Congress.
 
 Subsec. (d). Pub. L. 107–188, §403(4)(B), amended subsec. (d) generally, substituting provisions relating to authorization of appropriations to carry out subsec. (b) in fiscal year 2002 and subsequent fiscal years for provisions relating to authorization of appropriations to carry out this section in fiscal year 1991 and earlier.
 
-1996—Subsec. (a)(2). Pub. L. 104–182, §121(4)(A), added heading and text of par. (2) and struck out former par. (2) which read as follows: “(2)(A) The Administrator shall, to the maximum extent feasible, provide technical assistance to the States and municipalities in the establishment and administration of public water system supervision programs (as defined in section 300j–2(c)(1) of this title).”
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–182, §121(4)(A), added heading and text of par. (2) and struck out former par. (2) which read as follows: “(2)(A) The Administrator shall, to the maximum extent feasible, provide technical assistance to the States and municipalities in the establishment and administration of public water system supervision programs (as defined in section 300j–2(c)(1) of this title).”
 
 Subsec. (a)(2)(B). Pub. L. 104–182, §121(3), redesignated subpar. (B) as subsec. (b) and transferred that subsec. to appear after subsec. (a).
 
@@ -104,9 +104,9 @@ Subsec. (e). Pub. L. 104–182, §122, amended subsec. (e) generally. Prior to a
 
 > shall be utilized for technical assistance to public water systems owned or operated by Indian tribes.”
 
-1995—Subsecs. (c) to (g). Pub. L. 104–66 redesignated subsecs. (d), (f), and (g) as (c), (d), and (e), respectively, and struck out former subsec. (c) which read as follows: “Not later than eighteen months after November 16, 1977, the Administrator shall submit a report to Congress on the present and projected future availability of an adequate and dependable supply of safe drinking water to meet present and projected future need. Such report shall include an analysis of the future demand for drinking water and other competing uses of water, the availability and use of methods to conserve water or reduce demand, the adequacy of present measures to assure adequate and dependable supplies of safe drinking water, and the problems (financial, legal, or other) which need to be resolved in order to assure the availability of such supplies for the future. Existing information and data complied by the National Water Commission and others shall be utilized to the extent possible.”
+<b>1995</b>—Subsecs. (c) to (g). Pub. L. 104–66 redesignated subsecs. (d), (f), and (g) as (c), (d), and (e), respectively, and struck out former subsec. (c) which read as follows: “Not later than eighteen months after November 16, 1977, the Administrator shall submit a report to Congress on the present and projected future availability of an adequate and dependable supply of safe drinking water to meet present and projected future need. Such report shall include an analysis of the future demand for drinking water and other competing uses of water, the availability and use of methods to conserve water or reduce demand, the adequacy of present measures to assure adequate and dependable supplies of safe drinking water, and the problems (financial, legal, or other) which need to be resolved in order to assure the availability of such supplies for the future. Existing information and data complied by the National Water Commission and others shall be utilized to the extent possible.”
 
-1986—Subsec. (e). Pub. L. 99–339, §304(a), struck out subsec. (e) which authorized the Administrator to make grants to public water systems which are required, under State or local law, to meet standards relating to drinking turbidity which are more stringent than the standards in effect under this subchapter.
+<b>1986</b>—Subsec. (e). Pub. L. 99–339, §304(a), struck out subsec. (e) which authorized the Administrator to make grants to public water systems which are required, under State or local law, to meet standards relating to drinking turbidity which are more stringent than the standards in effect under this subchapter.
 
 Subsec. (f). Pub. L. 99–339, §301(a), authorized appropriations to carry out subsec. (a)(2)(B) of this section for fiscal years 1987 to 1991 and to carry out provisions of this section other than subsecs. (a)(2)(B) and (g) and provisions relating to research for fiscal years 1987 to 1991.
 
@@ -114,11 +114,11 @@ Subsec. (g). Pub. L. 99–339, §301(g), authorized appropriations to carry out 
 
 Pub. L. 99–339, §107 added subsec. (g).
 
-1980—Subsecs. (e), (f). Pub. L. 96–502 added subsec. (e) and redesignated former subsec. (e) as (f).
+<b>1980</b>—Subsecs. (e), (f). Pub. L. 96–502 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1979—Subsec. (e). Pub. L. 96–63 authorized appropriations of $21,405,000 for fiscal year ending Sept. 30, 1980, $30,000,000 for fiscal year ending Sept. 30, 1981, and $35,000,000 for fiscal year ending Sept. 30, 1982 for purposes other than those of subsec. (a)(2)(B) of this section and for purposes of subsec. (a)(2)(B) of this section, $8,000,000 for fiscal years 1980 through 1982.
+<b>1979</b>—Subsec. (e). Pub. L. 96–63 authorized appropriations of $21,405,000 for fiscal year ending Sept. 30, 1980, $30,000,000 for fiscal year ending Sept. 30, 1981, and $35,000,000 for fiscal year ending Sept. 30, 1982 for purposes other than those of subsec. (a)(2)(B) of this section and for purposes of subsec. (a)(2)(B) of this section, $8,000,000 for fiscal years 1980 through 1982.
 
-1977—Subsec. (a)(2). Pub. L. 95–190, §§9, 13, designated existing provisions as subpar. (A), added subpar. (B) and, in subpar. (B) as added, substituted provisions authorizing Administrator to make grants and provide technical assistance for any emergency situation affecting public water systems and criteria for such grants and assistance for provisions authorizing Administrator to make grants and provide technical assistance for any emergency situation respecting drinking water and criteria for determination of such situations.
+<b>1977</b>—Subsec. (a)(2). Pub. L. 95–190, §§9, 13, designated existing provisions as subpar. (A), added subpar. (B) and, in subpar. (B) as added, substituted provisions authorizing Administrator to make grants and provide technical assistance for any emergency situation affecting public water systems and criteria for such grants and assistance for provisions authorizing Administrator to make grants and provide technical assistance for any emergency situation respecting drinking water and criteria for determination of such situations.
 
 Subsec. (a)(3). Pub. L. 95–190, §3(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -154,7 +154,7 @@ Plan.—The Administrator shall transmit the plan to the Committees on Commerce 
 
 #### National Center for Ground Water Research
 
-Section 203 of Pub. L. 104–182 provided that: “The Administrator of the Environmental Protection Agency,acting through the Robert S. Kerr Environmental Research Laboratory, is authorized to reestablish a partnership between the Laboratory and the National Center for Ground Water Research, a university consortium, to conduct research, training, and technology transfer for ground water quality protection and restoration. No funds are authorized by this section.”
+Section 203 of Pub. L. 104–182 provided that: “The Administrator of the Environmental Protection Agency, acting through the Robert S. Kerr Environmental Research Laboratory, is authorized to reestablish a partnership between the Laboratory and the National Center for Ground Water Research, a university consortium, to conduct research, training, and technology transfer for ground water quality protection and restoration. No funds are authorized by this section.”
 
 #### Comparative Health Effects Assessment
 

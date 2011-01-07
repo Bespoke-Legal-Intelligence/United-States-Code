@@ -28,7 +28,7 @@ In carrying out the functions of the office under subsection (a) of this section
 
 #### Amendments
 
-1997—Subsec. (c). Pub. L. 105–115 added subsec. (c).
+<b>1997</b>—Subsec. (c). Pub. L. 105–115 added subsec. (c).
 
 #### Effective Date of 1997 Amendment
 

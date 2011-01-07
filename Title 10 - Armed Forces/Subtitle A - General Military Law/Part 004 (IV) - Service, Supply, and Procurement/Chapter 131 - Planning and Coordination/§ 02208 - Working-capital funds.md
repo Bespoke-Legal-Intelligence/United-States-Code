@@ -10,7 +10,7 @@
 
 (c) Working-capital funds shall be charged, when appropriate, with the cost of—
 
-&emsp;(1) supplies that are procured or otherwise acquired, manufactured, repaired, issued, or used; and
+&emsp;(1) supplies that are procured or otherwise acquired, manufactured, repaired, issued, or used, including the cost of the procurement and qualification of technology-enhanced maintenance capabilities that improve either reliability, maintainability, sustainability, or supportability and have, at a minimum, been demonstrated to be functional in an actual system application or operational environment; and
 
 &emsp;(2) services or work performed;
 
@@ -20,9 +20,9 @@
 
 (e) Subject to the authority and direction of the Secretary of Defense, the Secretary of each military department shall allocate responsibility for its functions, powers, and duties to accomplish the most economical and efficient organization and operation of the activities, and the most economical and efficient use of the inventories, for which working-capital funds are authorized by this section.
 
-(f) The requisitioning agency may not incur a cost for supplies drawn from inventories, orservices or work performed by industrial-type or commercial-type activities for which working-capital funds may be established under this section, that is more than the amount of appropriations or other funds available for those purposes.
+(f) The requisitioning agency may not incur a cost for supplies drawn from inventories, or services or work performed by industrial-type or commercial-type activities for which working-capital funds may be established under this section, that is more than the amount of appropriations or other funds available for those purposes.
 
-(g) The appraised value of supplies returned to working-capital funds by a department, activity, or agency may be charged to that fund. The proceeds thereof shall be credited to current applicable appropriations and are available for expenditure for the same purposes that those appropriations are so available. Credits may not be made to appropriations under this subsection as the result of capitalization of inventories under subsection (d).
+(g) The appraised value of supplies returned to working-capital funds by a department, activity, or agency may be charged to that fund. Theproceeds thereof shall be credited to current applicable appropriations and are available for expenditure for the same purposes that those appropriations are so available. Credits may not be made to appropriations under this subsection as the result of capitalization of inventories under subsection (d).
 
 (h) The Secretary of Defense shall prescribe regulations governing the operation of activities and use of inventories authorized by this section. The regulations may, if the needs of the Department of Defense require it and it is otherwise authorized by law, authorize supplies to be sold to, or services to be rendered or work performed for, persons outside the Department of Defense. However, supplies available in inventories financed by working capital funds established under this section may be sold to contractors for use in performing contracts with the Department of Defense. Working-capital funds shall be reimbursed for supplies so sold, services so rendered, or work so performed by charges to applicable appropriations or payments received in cash.
 
@@ -38,7 +38,7 @@
 
 (k)(1) Subject to paragraph (2), a contract for the procurement of a capital asset financed by a working-capital fund may be awarded in advance of the availability of funds in the working-capital fund for the procurement.
 
-(2) Paragraph (1) applies to any of the following capital assets that have a development or acquisition cost of not less than $100,000:
+(2) Paragraph (1) applies to any of the following capital assets that have a development or acquisition cost of not less than $250,000:
 
 &emsp;(A) An unspecified minor military construction project under section 2805(c)(1) of this title.
 
@@ -126,7 +126,7 @@ Notification of Transfers.—(1) Notwithstanding any authority provided in this 
 
 (2) The amount of a transfer covered by a notification under paragraph (1) that is made in a fiscal year does not count toward any limitation on the total amount of transfers that may be made for that fiscal year under authority provided to the Secretary of Defense in a law authorizing appropriations for a fiscal year for military activities of the Department of Defense or a law making appropriations for the Department of Defense.
 
-(Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 521; amended Pub. L. 97–295, §1(22), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title XII, §1204(a), Sept. 24, 1983, 97 Stat. 683; Pub. L. 98–525, title III, §305, Oct. 19, 1984, 98 Stat. 2513; Pub. L. 100–26, §7(d)(2), Apr. 21, 1987, 101 Stat. 280; Pub. L. 101–510, div. A, title VIII, §801, title XIII, §1301(6), Nov. 5, 1990, 104 Stat. 1588, 1668; Pub. L. 102–172, title VIII, §8137, Nov. 26, 1991, 105 Stat. 1212; Pub. L. 102–484, div. A, title III, §374, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–160, div. A, title I, §158(b), Nov. 30, 1993, 107 Stat. 1582; Pub. L. 105–85, div. A, title X, §1011(a), (b), Nov. 18, 1997, 111 Stat. 1873; Pub. L. 105–261, div. A, title X, §§1007(e)(1), 1008(a), Oct. 17, 1998, 112 Stat. 2115; Pub. L. 105–262, title VIII, §8146(d)(1), Oct. 17, 1998, 112 Stat. 2340; Pub. L. 106–65, div. A, title III, §§331(a)(1), 332, title X, §1066(a)(16), Oct. 5, 1999, 113 Stat. 566, 567, 771; Pub. L. 106–398, §1 \[\[div. A\], title III, §341(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–64; Pub. L. 108–375, div. A, title X, §1009, Oct. 28, 2004, 118 Stat. 2037.)
+(Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 521; amended Pub. L. 97–295, §1(22), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title XII, §1204(a), Sept. 24, 1983, 97 Stat. 683; Pub. L. 98–525, title III, §305, Oct. 19, 1984, 98 Stat. 2513; Pub. L. 100–26, §7(d)(2), Apr. 21, 1987, 101 Stat. 280; Pub. L. 101–510, div. A, title VIII, §801, title XIII, §1301(6), Nov. 5, 1990, 104 Stat. 1588, 1668; Pub. L. 102–172, title VIII, §8137, Nov. 26, 1991, 105 Stat. 1212; Pub. L. 102–484, div. A, title III, §374, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–160, div. A, title I, §158(b), Nov. 30, 1993, 107 Stat. 1582; Pub. L. 105–85, div. A, title X, §1011(a), (b), Nov. 18, 1997, 111 Stat. 1873; Pub. L. 105–261, div. A, title X, §§1007(e)(1), 1008(a), Oct. 17, 1998, 112 Stat. 2115; Pub. L. 105–262, title VIII, §8146(d)(1), Oct. 17, 1998, 112 Stat. 2340; Pub. L. 106–65, div. A, title III, §§331(a)(1), 332, title X, §1066(a)(16), Oct. 5, 1999, 113 Stat. 566, 567, 771; Pub. L. 106–398, §1 \[\[div. A\], title III, §341(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–64; Pub. L. 108–375, div. A, title X, §1009, Oct. 28, 2004, 118 Stat. 2037; Pub. L. 111–383, div. A, title XIV, §1403, Jan. 7, 2011, 124 Stat. 4410.)
 
 Historical and Revision Notes<br>1956
 
@@ -210,29 +210,33 @@ Provisions similar to those in subsecs. (m) to (q) of this section were containe
 
 #### Amendments
 
-2004—Subsec. (r). Pub. L. 108–375 added subsec. (r).
+<b>2011</b>—Subsec. (c)(1). Pub. L. 111–383, §1403(1), inserted before semicolon “, including the cost of the procurement and qualification of technology-enhanced maintenance capabilities that improve either reliability, maintainability, sustainability, or supportability and have, at a minimum, been demonstrated to be functional in an actual system application or operational environment”.
 
-2000—Subsec. (j)(1). Pub. L. 106–398 substituted “contract, and the solicitation” for “contract; and” at end of subpar. (A) and all that follows through “(B) the solicitation”, substituted “; or” for period after “private firms”, and added a new subpar. (B).
+Subsec. (k)(2). Pub. L. 111–383, §1403(2), substituted “$250,000” for “$100,000” in introductory provisions.
 
-1999—Subsec. (j). Pub. L. 106–65, §§331(a)(1), 332, designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, substituted “, remanufacturing, and engineering” for “or remanufacturing” in introductory provisions, inserted “or a subcontract under a Department of Defense contract” before the semicolon in subpar. (A), substituted “solicitation for the contract or subcontract” for “Department of Defense solicitation for such contract” in subpar. (B), and added par. (2).
+<b>2004</b>—Subsec. (r). Pub. L. 108–375 added subsec. (r).
+
+<b>2000</b>—Subsec. (j)(1). Pub. L. 106–398 substituted “contract, and the solicitation” for “contract; and” at end of subpar. (A) and all that follows through “(B) the solicitation”, substituted “; or” for period after “private firms”, and added a new subpar. (B).
+
+<b>1999</b>—Subsec. (j). Pub. L. 106–65, §§331(a)(1), 332, designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, substituted “, remanufacturing, and engineering” for “or remanufacturing” in introductory provisions, inserted “or a subcontract under a Department of Defense contract” before the semicolon in subpar. (A), substituted “solicitation for the contract or subcontract” for “Department of Defense solicitation for such contract” in subpar. (B), and added par. (2).
 
 Subsec. (<i>l</i>)(2)(A). Pub. L. 106–65, §1066(a)(16), inserted “of” after “during a period”.
 
-1998—Subsec. (<i>l</i>)(3), (4). Pub. L. 105–261, §1007(e)(1), and Pub. L. 105–262 amended subsec. (<i>l</i>) identically, adding par. (3) and redesignating former par. (3) as (4).
+<b>1998</b>—Subsec. (<i>l</i>)(3), (4). Pub. L. 105–261, §1007(e)(1), and Pub. L. 105–262 amended subsec. (<i>l</i>) identically, adding par. (3) and redesignating former par. (3) as (4).
 
 Subsecs. (m) to (q). Pub. L. 105–261, §1008(a), added subsecs. (m) to (q).
 
-1997—Subsec. (k). Pub. L. 105–85, §1011(a), added subsec. (k) and struck out former subsec. (k) which read as follows: “The Secretary of Defense shall provide that of the total amount of payments received in a fiscal year by funds established under this section for industrial-type activities, not less than 3 percent during fiscal year 1985, not less than 4 percent during fiscal year 1986, and not less than 5 percent during fiscal year 1987 shall be used for the acquisition of capital equipment for such activities.”
+<b>1997</b>—Subsec. (k). Pub. L. 105–85, §1011(a), added subsec. (k) and struck out former subsec. (k) which read as follows: “The Secretary of Defense shall provide that of the total amount of payments received in a fiscal year by funds established under this section for industrial-type activities, not less than 3 percent during fiscal year 1985, not less than 4 percent during fiscal year 1986, and not less than 5 percent during fiscal year 1987 shall be used for the acquisition of capital equipment for such activities.”
 
 Subsec. (<i>l</i>). Pub. L. 105–85, §1011(b), added subsec. (<i>l</i>).
 
-1993—Subsec. (i). Pub. L. 103–160 amended subsec. (i) generally. Prior to amendment, subsec. (i) required that regulations under subsec. (h) authorize working-capital funded Army industrial facilities to sell manufactured articles and services to persons outside the Department of Defense in specified cases.
+<b>1993</b>—Subsec. (i). Pub. L. 103–160 amended subsec. (i) generally. Prior to amendment, subsec. (i) required that regulations under subsec. (h) authorize working-capital funded Army industrial facilities to sell manufactured articles and services to persons outside the Department of Defense in specified cases.
 
-1992—Subsec. (j). Pub. L. 102–484 substituted “The Secretary of a military department may authorize a working capital funded industrial facility of that department” for “The Secretary of the Army may authorize a working capital funded Army industrial facility”.
+<b>1992</b>—Subsec. (j). Pub. L. 102–484 substituted “The Secretary of a military department may authorize a working capital funded industrial facility of that department” for “The Secretary of the Army may authorize a working capital funded Army industrial facility”.
 
-1991—Subsecs. (j), (k). Pub. L. 102–172 added subsec. (j) and redesignated former subsec. (j) as (k).
+<b>1991</b>—Subsecs. (j), (k). Pub. L. 102–172 added subsec. (j) and redesignated former subsec. (j) as (k).
 
-1990—Subsec. (i)(1). Pub. L. 101–510, §801, added par. (1), redesignated par. (3) as (2), and struck out former pars. (1) and (2) which read as follows:
+<b>1990</b>—Subsec. (i)(1). Pub. L. 101–510, §801, added par. (1), redesignated par. (3) as (2), and struck out former pars. (1) and (2) which read as follows:
 
 “(1) Regulations under subsection (h) may authorize an article manufactured by a working-capital funded Department of the Army arsenal that manufactures large caliber cannons, gun mounts, or recoil mechanisms to be sold to a person outside the Department of Defense if—
 
@@ -248,13 +252,13 @@ Subsec. (<i>l</i>). Pub. L. 105–85, §1011(b), added subsec. (<i>l</i>).
 
 Subsec. (k). Pub. L. 101–510, §1301(6), struck out subsec. (k) which read as follows: “Reports annually shall be made to the President and to Congress on the condition and operation of working-capital funds established under this section.”
 
-1987—Subsec. (i)(3). Pub. L. 100–26 inserted “(22 U.S.C. 2778)” after “Arms Export Control Act”.
+<b>1987</b>—Subsec. (i)(3). Pub. L. 100–26 inserted “(22 U.S.C. 2778)” after “Arms Export Control Act”.
 
-1984—Subsecs. (i) to (k). Pub. L. 98–525 added subsecs. (i) and (j) and redesignated former subsec. (i) as (k).
+<b>1984</b>—Subsecs. (i) to (k). Pub. L. 98–525 added subsecs. (i) and (j) and redesignated former subsec. (i) as (k).
 
-1983—Subsec. (d). Pub. L. 98–94 substituted “In addition, such amounts may be appropriated for the purpose of providing capital for working-capital funds as have been specifically authorized by law” for “If this method does not, in the determination of the Secretary of Defense, provide adequate amounts of working capital, such amounts as may be necessary may be appropriated for that purpose”.
+<b>1983</b>—Subsec. (d). Pub. L. 98–94 substituted “In addition, such amounts may be appropriated for the purpose of providing capital for working-capital funds as have been specifically authorized by law” for “If this method does not, in the determination of the Secretary of Defense, provide adequate amounts of working capital, such amounts as may be necessary may be appropriated for that purpose”.
 
-1982—Subsec. (h). Pub. L. 97–295 inserted provision that supplies available in inventories financed by working capital funds established under this section may be sold to contractors for use in performing contracts with the Department of Defense.
+<b>1982</b>—Subsec. (h). Pub. L. 97–295 inserted provision that supplies available in inventories financed by working capital funds established under this section may be sold to contractors for use in performing contracts with the Department of Defense.
 
 #### Effective Date of 1998 Amendment
 
@@ -274,7 +278,7 @@ Pub. L. 109–13, div. A, title I, §1005, May 11, 2005, 119 Stat. 243, provided
 
 #### Oversight of Defense Business Operations Fund
 
-Pub. L. 103–337, div. A, title III, §311(b)–(e), Oct. 5, 1994, 108 Stat. 2708, which related to purchase from other sources, limitation on inclusion of certain costs in DBOF charges, procedures for accumulation of funds, and annual reports and budget, was repealed and restated in section 2216a(d)(2)(B), (f) to (h)(3) of this titleby Pub. L. 104–106, div. A, title III, §371(a)(1), (b)(1), Feb. 10, 1996, 110 Stat. 277–279.
+Pub. L. 103–337, div. A, title III, §311(b)–(e), Oct. 5, 1994, 108 Stat. 2708, which related to purchase from other sources, limitation on inclusion of certain costsin DBOF charges, procedures for accumulation of funds, and annual reports and budget, was repealed and restated in section 2216a(d)(2)(B), (f) to (h)(3) of this title by Pub. L. 104–106, div. A, title III, §371(a)(1), (b)(1), Feb. 10, 1996, 110 Stat. 277–279.
 
 Pub. L. 103–337, div. A, title III, §311(f), (g), Oct. 5, 1994, 108 Stat. 2709, required Secretary of Defense to submit to congressional defense committees, not later than Feb. 1, 1995, a report on progress made in implementing the Defense Business Operations Fund Improvement Plan, dated September 1993, and required Comptroller General to monitor and evaluate the Department of Defense implementation of the Plan and to report to congressional defense committees not later than Mar. 1, 1995.
 

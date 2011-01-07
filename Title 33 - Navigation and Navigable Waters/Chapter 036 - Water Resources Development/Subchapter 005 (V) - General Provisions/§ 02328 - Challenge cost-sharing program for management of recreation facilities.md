@@ -20,7 +20,7 @@ Section was enacted as part of the Water Resources Development Act of 1992, and 
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–303 substituted “(8862)” for “(8662)”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–303 substituted “(8862)” for “(8662)”.
 
 #### Recreation Partnership Initiative
 

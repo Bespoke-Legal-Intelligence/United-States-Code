@@ -36,7 +36,7 @@ After notice and opportunity for a hearing, the Secretary is authorized to deleg
 
 #### (c) Ruling as to consistency of State's proposal
 
-After notice and opportunity for hearing, the Secretary shall issue a ruling as to the consistency of a State's proposal with the provisions of this section and regulations under subsection (d) of this section within 90 days after submission of such proposal. In any unfavorable ruling, theSecretary shall set forth the reasons therefor and state whether the Secretary will agree to delegate to the State if the State meets the conditions set forth in such ruling.
+After notice and opportunity for hearing, the Secretary shall issue a ruling as to the consistency of a State's proposal with the provisions of this section and regulations under subsection (d) of this section within 90 days after submission of such proposal. In any unfavorable ruling, the Secretary shall set forth the reasons therefor and state whether the Secretary will agree to delegate to the State if the State meets the conditions set forth in such ruling.
 
 #### (d) Promulgation of standards and regulations with respect to delegation
 
@@ -64,7 +64,7 @@ After consultation with State authorities, the Secretary shall by rule promulgat
 
 #### (e) Revocation; issuance of demand or order by Secretary
 
-If, after notice and opportunity for a hearing, the Secretary finds that any State to which any authority or responsibility of the Secretary has been delegated under this section is in violation of any requirement of this section or any rule thereunder, or that an affirmative finding by the Secretary under subsection (b) of this section can no longer be made, the Secretary may revoke such delegation. If, after providing written notice to a delegated State and a reasonable opportunity to take corrective action requested by the Secretary, the Secretary determines that the State has failed to issue a demand or order to a Federal lessee within the State, that such failure may result in an underpayment of an obligation due the United States by such lessee, and that such underpayment may be uncollected without Secretarial intervention, the Secretary may issue such demand or order in accordance with the provisions of this chapter prior to or absent the withdrawal of delegated authority.
+If, after notice and opportunity for a hearing, the Secretary finds that any State to which any authority or responsibility of the Secretary has been delegated under this section is in violation of any requirement of this section or any rule thereunder, or that an affirmative finding by the Secretary under subsection (b) of this section can no longer be made, the Secretary may revoke such delegation. If, after providing written notice to a delegated State and a reasonable opportunity to take corrective action requested by the Secretary, the Secretary determines that the State has failed to issue a demand or order to a Federal lessee within the State, that suchfailure may result in an underpayment of an obligation due the United States by such lessee, and that such underpayment may be uncollected without Secretarial intervention, the Secretary may issue such demand or order in accordance with the provisions of this chapter prior to or absent the withdrawal of delegated authority.
 
 #### (f) Compensation to State for costs of delegation; allocation of costs
 
@@ -88,7 +88,7 @@ August 13, 1996, referred to in subsec. (h), was in the original “the date of 
 
 #### Amendments
 
-1996—Pub. L. 104–185 amended section generally, substituting present provisions for provisions which stated in subsec. (a), authorization of Secretary to delegate to States except permission of Indian tribe required with respect to Indian lands; subsec. (b), prerequisites; subsec. (c), promulgation of regulations defining joint functions; subsec. (d), promulgation of standards and regulations with respect to delegation; subsec. (e), revocation; and subsec. (f), compensation to State for costs of delegation.
+<b>1996</b>—Pub. L. 104–185 amended section generally, substituting present provisions for provisions which stated in subsec. (a), authorization of Secretary to delegate to States except permission of Indian tribe required with respect to Indian lands; subsec. (b), prerequisites; subsec. (c), promulgation of regulations defining joint functions; subsec. (d), promulgation of standards and regulations with respect to delegation; subsec. (e), revocation; and subsec. (f), compensation to State for costs of delegation.
 
 #### Effective Date of 1996 Amendment
 
@@ -96,7 +96,7 @@ Amendment by Pub. L. 104–185 applicable with respect to production of oil and 
 
 #### Applicability of 1996 Amendment
 
-Amendment by Pub. L. 104–185 not applicable to any privately owned minerals or with respect to Indianlands, see sections 9 and 10 of Pub. L. 104–185, set out as a note under section 1701 of this title.
+Amendment by Pub. L. 104–185 not applicable to any privately owned minerals or with respect to Indian lands, see sections 9 and 10 of Pub. L. 104–185, set out as a note under section 1701 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

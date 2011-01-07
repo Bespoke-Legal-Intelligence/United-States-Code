@@ -14,7 +14,7 @@ The Commission shall conduct a comprehensive review of changes in the condition 
 
 &emsp;(5) An assessment of the extent to which regulatory relief for agricultural producers has been enacted and implemented, including the application of cost/benefit principles in the issuance of agricultural regulations.
 
-&emsp;(6) An assessment of the extent to which tax relief for agricultural producers has been enacted in the form of capital gains tax reductions, estate tax exemptions, and mechanismsto average tax loads over high- and low-income years.
+&emsp;(6) An assessment of the extent to which tax relief for agricultural producers has been enacted in the form of capital gains tax reductions, estate tax exemptions, and mechanisms to average tax loads over high- and low-income years.
 
 &emsp;(7) An assessment of the effect of any Federal Government interference in agricultural export markets, such as the imposition of trade embargoes, and the degree of implementation and success of international trade agreements and United States export programs.
 

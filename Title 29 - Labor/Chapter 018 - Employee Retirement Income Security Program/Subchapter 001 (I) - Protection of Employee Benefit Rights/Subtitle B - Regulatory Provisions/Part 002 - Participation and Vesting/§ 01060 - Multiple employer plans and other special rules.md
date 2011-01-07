@@ -100,7 +100,7 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 #### (iv) Years of service
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, years of service shall be determined under the rules of paragraphs (1), (2), and (3) of section 1053(b) of this title, except that the plan may not disregard any year of service because of a participant making, or failingto make, any elective deferral with respect to the qualified cash or deferred arrangement to which subparagraph (C) applies.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, years of service shall be determined under the rules of paragraphs (1), (2), and (3) of section 1053(b) of this title, except that the plan may not disregard any year of service because of a participant making, or failing to make, any elective deferral with respect to the qualified cash or deferred arrangement to which subparagraph (C) applies.
 
 #### (C) Contribution requirements
 
@@ -176,7 +176,7 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 &emsp;&emsp;&emsp;The requirements of this clause are met if each employee to whom subparagraph (A)(i) applies—
 
-&emsp;&emsp;&emsp;&emsp;(I) receives a notice explaining the employee's right under the arrangement to elect not to have elective contributions made on the employee's behalf or tohave the contributions made at a different rate, and
+&emsp;&emsp;&emsp;&emsp;(I) receives a notice explaining the employee's right under the arrangement to elect not to have elective contributions made on the employee's behalf or to have the contributions made at a different rate, and
 
 &emsp;&emsp;&emsp;&emsp;(II) has a reasonable period of time after receipt of such notice and before the first elective contribution is made to make such election.
 
@@ -216,15 +216,15 @@ This chapter, referred to in subsec. (e)(1), (2)(A)(iii), was in the original �
 
 #### Amendments
 
-2008—Subsec. (e)(1). Pub. L. 110–458, §109(c)(2)(A), inserted at end “In the case of a termination of the defined benefit plan and the applicable defined contribution plan forming part of an eligible combined plan, the plan administrator shall terminate each such plan separately.”
+<b>2008</b>—Subsec. (e)(1). Pub. L. 110–458, §109(c)(2)(A), inserted at end “In the case of a termination of the defined benefit plan and the applicable defined contribution plan forming part of an eligible combined plan, the plan administrator shall terminate each such plan separately.”
 
 Subsec. (e)(3) to (6). Pub. L. 110–458, §109(c)(2)(B), struck out par. (3) and redesignated pars. (4) to (6) as (3) to (5), respectively. Former par. (3) related to nondiscrimination requirements for qualified cash or deferred arrangement.
 
-2006—Pub. L. 109–280, §903(b)(2)(A), inserted “and other special rules” after “plans” in section catchline.
+<b>2006</b>—Pub. L. 109–280, §903(b)(2)(A), inserted “and other special rules” after “plans” in section catchline.
 
 Subsec. (e). Pub. L. 109–280, §903(b)(1), added subsec. (e).
 
-1989—Subsec. (c). Pub. L. 101–239, §7894(c)(10), substituted “and (e)(3)(C) of such Code” for “and (e)(3)(C) of such code”, which for purposes of codification was translated as “and (e)(3)(C) of title 26” thus requiring no change in text.
+<b>1989</b>—Subsec. (c). Pub. L. 101–239, §7894(c)(10), substituted “and (e)(3)(C) of such Code” for “and (e)(3)(C) of such code”, which for purposes of codification was translated as “and (e)(3)(C) of title 26” thus requiring no change in text.
 
 Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 

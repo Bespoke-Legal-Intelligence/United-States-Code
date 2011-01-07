@@ -102,7 +102,7 @@ There is established within the Department of the Treasury the Internal Revenue 
 
 #### (A) In general
 
-&emsp;&emsp;Any member of the Oversight Board appointed under subparagraph (A) or (D) of paragraph (1) may be removed at the will of the President.
+&emsp;&emsp;Any member of the Oversight Board appointed under subparagraph (A) or (D) ofparagraph (1) may be removed at the will of the President.
 
 #### (B) Secretary and Commissioner
 
@@ -216,7 +216,7 @@ The Oversight Board shall have the following specific responsibilities:
 
 #### (B) Chairperson
 
-&emsp;&emsp;In lieu of the amount specified in subparagraph (A), the Chairperson of the Oversight Board shall be compensated at a rate of $50,000 per year.
+&emsp;&emsp;In lieu of the amount specified in subparagraph (A), the Chairperson of the OversightBoard shall be compensated at a rate of $50,000 per year.
 
 #### (2) Travel expenses
 
@@ -284,23 +284,23 @@ The Ethics in Government Act of 1978, referred to in subsec. (b)(3)(A), is Pub. 
 
 #### Amendments
 
-2000—Subsec. (b)(2)(B)(ii). Pub. L. 106–554 substituted a comma for semicolon before “and”.
+<b>2000</b>—Subsec. (b)(2)(B)(ii). Pub. L. 106–554 substituted a comma for semicolon before “and”.
 
-1998—Pub. L. 105–206 amended section catchline and text of section generally, substituting present provisions for provisions which: in subsec. (a), declared that there shall be in the Department of the Treasury a Commissioner of Internal Revenue, appointed by the President, with such duties and powers as prescribed by Secretary of the Treasury; in subsec. (b), established Office of Employee Plans and Exempt Organizations to carry out functions with respect to organizations exempt from tax and with respect to plans to which part I of subchapter D of chapter 1 applied; in subsec. (c), established Office for Taxpayer Services such as telephone, walk-in, and taxpayer educational services, and design and production of forms; and in subsec. (d), established Office of Taxpayer Advocate and set forth functions of Office and responsibilities of Commissioner regarding response to recommendations of Office. See section 7803 of this title.
+<b>1998</b>—Pub. L. 105–206 amended section catchline and text of section generally, substituting present provisions for provisions which: in subsec. (a), declared that there shall be in the Department of the Treasury a Commissioner of Internal Revenue, appointed by the President, with such duties and powers as prescribed by Secretary of the Treasury; in subsec. (b), established Office of Employee Plans and Exempt Organizations to carry out functions with respect to organizations exempt from tax and with respect to plans to which part I of subchapter D of chapter 1 applied; in subsec. (c), established Office for Taxpayer Services such as telephone, walk-in, and taxpayer educational services, and design and production of forms; and in subsec. (d), established Office of Taxpayer Advocate and set forth functions of Office and responsibilities of Commissioner regarding response to recommendations of Office. See section 7803 of this title.
 
-1996—Pub. L. 104–168, §101(b)(2), substituted “Commissioners; Taxpayer Advocate.” for “Commissioner (Employee Plans and Exempt Organizations)” in section catchline.
+<b>1996</b>—Pub. L. 104–168, §101(b)(2), substituted “Commissioners; Taxpayer Advocate.” for “Commissioner (Employee Plans and Exempt Organizations)” in section catchline.
 
 Subsec. (d). Pub. L. 104–168, §101(a), added subsec. (d).
 
-1988—Subsec. (c). Pub. L. 100–647 added subsec. (c).
+<b>1988</b>—Subsec. (c). Pub. L. 100–647 added subsec. (c).
 
-1982—Subsec. (b). Pub. L. 97–258 redesignated existing provisions as par. (1), added par. (1) heading, and added par. (2). Par. (2) is based on provisions that appeared in section 1037 of former Title 31, Money and Finance, prior to enactment of Title 31 by Pub. L. 97–258.
+<b>1982</b>—Subsec. (b). Pub. L. 97–258 redesignated existing provisions as par. (1), added par. (1) heading, and added par. (2). Par. (2) is based on provisions that appeared in section 1037 of former Title 31, Money and Finance, prior to enactment of Title 31 by Pub. L. 97–258.
 
-1976—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(B), substituted “Secretary of the Treasury” for “Secretary” after “prescribed by the”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(B), substituted “Secretary of the Treasury” for “Secretary” after “prescribed by the”.
 
 Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1974—Pub. L. 93–406 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1974</b>—Pub. L. 93–406 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Change of Name
 
@@ -314,7 +314,7 @@ Pub. L. 105–206, title I, §1101(d), July 22, 1998, 112 Stat. 697, provided th
 
 “(1)
 
-In general.—The amendments made by this section \[amending this section and sections 4946 and 6103of this title\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].
+In general.—The amendments made by this section \[amending this section and sections 4946 and 6103 of this title\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].
 
 “(2)
 

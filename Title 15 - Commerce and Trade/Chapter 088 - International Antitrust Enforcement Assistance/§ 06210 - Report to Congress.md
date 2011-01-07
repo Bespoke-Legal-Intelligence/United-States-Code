@@ -10,7 +10,7 @@ In the 30-day period beginning 3 years after November 2, 1994, and with the conc
 
 &emsp;(4) specifying the identity of each foreign state, and each regional economic integration organization, that has in effect a law similar to this chapter,
 
-&emsp;(5) giving the approximate number of requests made by the Attorney General and the Commission under such agreements to foreign antitrust authorities for antitrust investigations and for antitrust evidence,
+&emsp;(5) giving the approximate number of requests made by the Attorney General and theCommission under such agreements to foreign antitrust authorities for antitrust investigations and for antitrust evidence,
 
 &emsp;(6) giving the approximate number of requests made by foreign antitrust authorities under such agreements to the Attorney General and the Commission for investigations under section 6202 of this title, for orders under section 6203 of this title, and for antitrust evidence, and
 

@@ -10,5 +10,5 @@ Based on 44 U.S. Code, 1964 ed., §366 (July 7, 1943, ch. 192, §1, 57 Stat. 380
 
 #### Amendments
 
-1976—Pub. L. 94–575 expanded “records” to include “machine readable materials”.
+<b>1976</b>—Pub. L. 94–575 expanded “records” to include “machine readable materials”.
 

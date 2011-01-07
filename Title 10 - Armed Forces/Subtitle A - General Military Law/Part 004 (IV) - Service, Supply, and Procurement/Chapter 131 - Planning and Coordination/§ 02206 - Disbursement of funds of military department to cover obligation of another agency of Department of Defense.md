@@ -28,5 +28,5 @@ The word “agency” is substituted for the word “organization”. The last s
 
 #### Amendments
 
-1982—Pub. L. 97–258 substituted “official” for “officer” wherever appearing.
+<b>1982</b>—Pub. L. 97–258 substituted “official” for “officer” wherever appearing.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall provide assistance for the establishment of Cooperative Research Centers. Such Centers shall be affiliated with any university, or other nonprofit institution, or groupthereof, that applies for and is awarded a grant or enters into a cooperative agreement under this section. The objective of the Centers is to enhance technological innovation through—
+The Secretary shall provide assistance for the establishment of Cooperative Research Centers. Such Centers shall be affiliated with any university, or other nonprofit institution, or group thereof, that applies for and is awarded a grant or enters into a cooperative agreement under this section. The objective of the Centers is to enhance technological innovation through—
 
 &emsp;(1) the participation of individuals from industry and universities in cooperative technological innovation activities;
 
@@ -64,7 +64,7 @@ A prior section 7 of Pub. L. 96–480 was renumbered section 8 and is classified
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–502, §9(b)(7), substituted “Cooperative Research Centers” for “Centers for Industrial Technology”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–502, §9(b)(7), substituted “Cooperative Research Centers” for “Centers for Industrial Technology”.
 
 Subsec. (b)(1). Pub. L. 99–502, §9(b)(8), struck out “basic and applied” after “industry-university”.
 

@@ -4,7 +4,7 @@
 
 (1) To achieve the purposes of sections 544 to 544p of this title and to facilitate cooperation among the States of Oregon and Washington, and with the United States of America, the consent of Congress is given for an agreement described in sections 544 to 544p of this title pursuant to which, within one year after November 17, 1986—
 
-&emsp;(A) the States of Oregon and Washington shall establish by way of an interstate agreement a regional agency known as the Columbia River Gorge Commission, and shall incorporate sections 544 to 544p of this title by specific reference in such agreement. The Commission shall carry out its functions and responsibilities in accordance with the provisions of the interstate agreement and of sections 544 to 544p of this title and shall not be considered an agency or instrumentality ofthe United States for the purpose of any Federal law;
+&emsp;(A) the States of Oregon and Washington shall establish by way of an interstate agreement a regional agency known as the Columbia River Gorge Commission, and shall incorporate sections 544 to 544p of this title by specific reference in such agreement. The Commission shall carry out its functions and responsibilities in accordance with the provisions of the interstate agreement and of sections 544 to 544p of this title and shall not be considered an agency or instrumentality of the United States for the purpose of any Federal law;
 
 &emsp;(B) the States of Oregon and Washington shall provide to the Commission, State agencies, and the counties under State law the authority to carry out their respective functions and responsibilities in accordance with the provisions of paragraph (1)(A) of this subsection; and
 

@@ -76,7 +76,7 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 &emsp;Any entity that is not an accredited standards development organization and that establishes industry-wide standards for telecommunications equipment or customer premises equipment, or industry-wide generic network requirements for such equipment, or that certifies telecommunications equipment or customer premises equipment manufactured by an unaffiliated entity, shall—
 
-&emsp;&emsp;(A) establish and publish any industry-wide standard for, industry-wide generic requirement for, or any substantial modification of an existing industry-wide standard or industry-wide generic requirement for, telecommunications equipment or customer premises equipment only in compliance with the following procedure—
+&emsp;&emsp;(A) establish and publish any industry-wide standard for, industry-wide generic requirement for, or any substantial modification of an existing industry-wide standard orindustry-wide generic requirement for, telecommunications equipment or customer premises equipment only in compliance with the following procedure—
 
 &emsp;&emsp;&emsp;(i) such entity shall issue a public notice of its consideration of a proposed industry-wide standard or industry-wide generic requirement;
 
@@ -106,7 +106,7 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 #### (6) Sunset
 
-&emsp;The requirements of paragraphs (3) and (4) shall terminate for the particular relevant activity when the Commission determines that there are alternative sources of industry-wide standards, industry-wide generic requirements, or product certification for a particular class of telecommunications equipment or customer premises equipment available in theUnited States. Alternative sources shall be deemed to exist when such sources provide commercially viable alternatives that are providing such services to customers. The Commission shall act on any application for such a determination within 90 days after receipt of such application, and shall receive public comment on such application.
+&emsp;The requirements of paragraphs (3) and (4) shall terminate for the particular relevant activity when the Commission determines that there are alternative sources of industry-wide standards, industry-wide generic requirements, or product certification for a particular class of telecommunications equipment or customer premises equipment available in the United States. Alternative sources shall be deemed to exist when such sources provide commercially viable alternatives that are providing such services to customers. The Commission shall act on any application for such a determination within 90 days after receipt of such application, and shall receive public comment on such application.
 
 #### (7) Administration and enforcement authority
 
@@ -122,7 +122,7 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 &emsp;&emsp;&emsp;(ii) a voting equity interest in Bell Communications Research, Inc., by any otherwise unaffiliated Bell operating company of less than 1 percent of Bell Communications Research's total voting equity shall not be considered to be an equity interest under this paragraph.
 
-&emsp;&emsp;(B) The term “generic requirement” means a description of acceptable product attributes for use by local exchange carriers in establishing product specifications for the purchase of telecommunications equipment, customer premises equipment, and software integral thereto.
+&emsp;&emsp;(B) The term “generic requirement” means a description of acceptable productattributes for use by local exchange carriers in establishing product specifications for the purchase of telecommunications equipment, customer premises equipment, and software integral thereto.
 
 &emsp;&emsp;(C) The term “industry-wide” means activities funded by or performed on behalf of local exchange carriers for use in providing wireline telephone exchange service whose combined total of deployed access lines in the United States constitutes at least 30 percent of all access lines deployed by telecommunications carriers in the United States as of February 8, 1996.
 

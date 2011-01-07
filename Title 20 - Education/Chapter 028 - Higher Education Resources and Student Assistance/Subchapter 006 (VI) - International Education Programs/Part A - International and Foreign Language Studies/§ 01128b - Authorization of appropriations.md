@@ -16,5 +16,5 @@ Section 1129a, Pub. L. 89–329, title VI, §610, as added Pub. L. 90–575, tit
 
 #### Amendments
 
-2008—Pub. L. 110–315 substituted “such sums as may be necessary” for “$80,000,000”, “2009” for “1999”, and “five” for “4”.
+<b>2008</b>—Pub. L. 110–315 substituted “such sums as may be necessary” for “$80,000,000”, “2009” for “1999”, and “five” for “4”.
 

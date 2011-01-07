@@ -2,7 +2,7 @@
 
 (a)
 
-Mandatory Application.—This chapter applies to a vessel that—
+Foreign Voyages and Foreign Vessels.—This chapter applies to a vessel that—
 
 &emsp;(1)(A) is transporting more than 12 passengers described in section 2101(21)(A) of this title; or
 
@@ -14,11 +14,19 @@ Mandatory Application.—This chapter applies to a vessel that—
 
 (b)
 
-Voluntary Application.—This chapter applies to a vessel not described in subsection (a) of this section if the owner of the vessel requests the Secretary to apply this chapter to the vessel.
+Other Passenger Vessels.—This chapter applies to a vessel that is—
+
+&emsp;(1) a passenger vessel or small passenger vessel; and
+
+&emsp;(2) is transporting more passengers than a number prescribed by the Secretary based on the number of individuals on the vessel that could be killed or injured in a marine casualty.
 
 (c)
 
-Exception.—Except as provided in subsection (b) of this section, this chapter does not apply to—
+Voluntary Application.—This chapter applies to a vessel not described in subsection (a) of this section if the owner of the vessel requests the Secretary to apply this chapter to the vessel.
+
+(d)
+
+Exception.—Except as provided in subsection (c) of this section, this chapter does not apply to—
 
 &emsp;(1) a barge;
 
@@ -26,15 +34,25 @@ Exception.—Except as provided in subsection (b) of this section, this chapter 
 
 &emsp;(3) a fishing vessel;
 
-&emsp;(4) a vessel operating on the Great Lakes or its tributary and connecting waters; or
+&emsp;(4) a vessel operating on the Great Lakes or its tributary and connecting waters that is not described in subsection (b) of this section; or
 
 &emsp;(5) a public vessel.
 
-(Added Pub. L. 104–324, title VI, §602(a), Oct. 19, 1996, 110 Stat. 3928; amended Pub. L. 108–293, title IV, §405(a), Aug. 9, 2004, 118 Stat. 1043.)
+(Added Pub. L. 104–324, title VI, §602(a), Oct. 19, 1996, 110 Stat. 3928; amended Pub. L. 108–293, title IV, §405(a), Aug. 9, 2004, 118 Stat. 1043; Pub. L. 111–281, title VI, §610(a), Oct. 15, 2010, 124 Stat. 2969.)
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–293 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “This chapter applies to the following vessels engaged on a foreign voyage:
+<b>2010</b>—Subsec. (a). Pub. L. 111–281, §610(a)(1), substituted “
+
+Foreign Voyages and Foreign Vessels.—” for “
+
+Mandatory Application.—” in heading.
+
+Subsecs. (b) to (d). Pub. L. 111–281, §610(a)(2)–(4), added subsec. (b), redesignated former subsecs. (b) and (c) as (c) and (d), respectively, and, in introductory provisions of subsec. (d), substituted “subsection (c)” for “subsection (b)”.
+
+Subsec. (d)(4). Pub. L. 111–281, §610(a)(5), inserted “that is not described in subsection (b) of this section” after “connecting waters”.
+
+<b>2004</b>—Subsec. (a). Pub. L. 108–293 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “This chapter applies to the following vessels engaged on a foreign voyage:
 
 &emsp;“(1) Beginning July 1, 1998—
 

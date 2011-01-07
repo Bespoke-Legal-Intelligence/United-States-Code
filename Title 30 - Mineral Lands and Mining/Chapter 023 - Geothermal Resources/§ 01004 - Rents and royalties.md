@@ -120,7 +120,7 @@ Any annual rental under this section that is paid with respect to a lease before
 
 &emsp;A lease that would otherwise terminate under paragraph (1) shall not terminate under that paragraph if the lessee pays to the Secretary, before the end of the period referred to in paragraph (1), the amount of rental due plus a late fee equal to 10 percent of the amount.
 
-(Pub. L. 91–581, §5, Dec. 24, 1970, 84 Stat. 1567; Pub. L. 109–58, title II, §§223(a), 224(a), 228, 230,232, 233, 236(7), Aug. 8, 2005, 119 Stat. 661, 662, 667–670, 672.)
+(Pub. L. 91–581, §5, Dec. 24, 1970, 84 Stat. 1567; Pub. L. 109–58, title II, §§223(a), 224(a), 228, 230, 232, 233, 236(7), Aug. 8, 2005, 119 Stat. 661, 662, 667–670, 672.)
 
 #### References in Text
 
@@ -128,7 +128,7 @@ The Mineral Leasing Act, referred to in subsec. (a)(2), is act Feb. 25, 1920, ch
 
 #### Amendments
 
-2005—Pub. L. 109–58, §§223(a)(1)–(3), 224(a)(1), 228, 230(1)–(3), 233(a), 236(7), inserted section catchline, designated existing provisions as subsec. (a) and inserted heading, redesignated subpars. (1) and (2) of par. (c) as subpars. (A) and (B), respectively, redesignated pars. (a) to (d) as pars. (1) to (4), respectively, of subsec. (a), added new pars. (1) to (3) of subsec. (a) and struck out former pars. (1) to (4) of subsec. (a) which related to royalties for amount or value of steam or other form of heat energy, royalty for value of byproducts, payment of annual rental, and royalties in lieu of rentals.
+<b>2005</b>—Pub. L. 109–58, §§223(a)(1)–(3), 224(a)(1), 228, 230(1)–(3), 233(a), 236(7), inserted section catchline, designated existing provisions as subsec. (a) and inserted heading, redesignated subpars. (1) and (2) of par. (c) as subpars. (A) and (B), respectively, redesignated pars. (a) to (d) as pars. (1) to (4), respectively, of subsec. (a), added new pars. (1) to (3) of subsec. (a) and struck outformer pars. (1) to (4) of subsec. (a) which related to royalties for amount or value of steam or other form of heat energy, royalty for value of byproducts, payment of annual rental, and royalties in lieu of rentals.
 
 Subsec. (b). Pub. L. 109–58, §223(a)(4), added subsec. (b).
 

@@ -18,7 +18,7 @@ In order for any State which makes supplementary payments of the type described 
 
 (1) The Commissioner of Social Security shall not find that a State has failed to meet the requirements imposed by paragraph (4) of subsection (a) of this section with respect to the levels of its supplementary payments for a particular month or months if the State's expenditures for such payments in the twelve-month period (within which such month or months fall) beginning on the effective date of any increase in the level of supplemental security income benefits pursuant to section 1382f of this title are not less than its expenditures for such payments in the preceding twelve-month period.
 
-(2) For purposes of determining under paragraph (1) whether a State's expenditures for supplementary payments in the 12-month period beginning on the effective date of any increase in the level of supplemental security income benefits are not less than the State's expenditures for such payments in the preceding 12-month period, the Commissioner of Social Security, in computing the State's expenditures, shall disregard, pursuant to a 1-time election of the State, all expenditures by the State for retroactive supplementary payments that are required to be made in connection with the retroactive supplemental security income benefits referred to in section 5041 of the Omnibus Budget Reconciliation Act of 1990.
+(2) For purposes of determining under paragraph (1) whether a State's expenditures for supplementary payments in the 12-month period beginning on the effective date of any increase in the level of supplemental security income benefits are not less than the State's expenditures for such payments in the preceding 12-month period, the Commissioner of Social Security, in computing the State's expenditures, shall disregard, pursuant to a 1-time election of theState, all expenditures by the State for retroactive supplementary payments that are required to be made in connection with the retroactive supplemental security income benefits referred to in section 5041 of the Omnibus Budget Reconciliation Act of 1990.
 
 #### (c) Election to apply subsection (a)(4)
 
@@ -64,7 +64,7 @@ In order for any State which makes supplementary payments of the type described 
 
 &emsp;&emsp;(B) the combined level of such supplementary payments and the amounts payable to or on behalf of such recipients under section 1382(e)(1)(B) of this title for October 1987 (or, if no such supplementary payments were made for that month, the combined level for the first subsequent month for which such payments were made), increased—
 
-&emsp;&emsp;&emsp;(i) in a case to which clause (i) of such section 1382(e)(1)(B) of this title applies or (with respect to the individual or spouse who is in the hospital, home, or facility involved) to which clause (ii) of such section applies, by $5, and
+&emsp;&emsp;&emsp;(i) in a case to which clause (i) of such section 1382(e)(1)(B) of this title applies or (with respect to the individual or spousewho is in the hospital, home, or facility involved) to which clause (ii) of such section applies, by $5, and
 
 &emsp;&emsp;&emsp;(ii) in a case to which clause (iii) of such section 1382(e)(1)(B) of this title applies, by $10.
 
@@ -80,7 +80,7 @@ Section 111 of the Social Security Amendments of 1983, referred to in subsec. (e
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary”.
 
 Subsec. (b). Pub. L. 103–296, §209(a), designated existing provisions as par. (1) and added par. (2).
 
@@ -88,19 +88,19 @@ Pub. L. 103–296, §107(a)(4), in subsec. (b) as amended by Pub. L. 103–296, 
 
 Subsecs. (d), (f), (g). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary”.
 
-1987—Subsec. (g). Pub. L. 100–203 added subsec. (g).
+<b>1987</b>—Subsec. (g). Pub. L. 100–203 added subsec. (g).
 
-1986—Subsec. (f). Pub. L. 99–272 added subsec. (f).
+<b>1986</b>—Subsec. (f). Pub. L. 99–272 added subsec. (f).
 
-1984—Subsec. (d). Pub. L. 98–369, §2663(g)(9)(A), realigned margin of subsec. (d).
+<b>1984</b>—Subsec. (d). Pub. L. 98–369, §2663(g)(9)(A), realigned margin of subsec. (d).
 
 Pub. L. 98–369, §2663(g)(9)(B), (C), struck out the comma after “levels of its”, and inserted a comma after “1980” and after “1976”, wherever appearing.
 
-1983—Subsecs. (c), (d). Pub. L. 98–21 redesignated subsec. (c), added by Pub. L. 97–377, as (d).
+<b>1983</b>—Subsecs. (c), (d). Pub. L. 98–21 redesignated subsec. (c), added by Pub. L. 97–377, as (d).
 
 Subsec. (e). Pub. L. 98–21 added subsec. (e).
 
-1982—Subsec. (c). Pub. L. 97–377 added subsec. (c) relating to conditions under which the Secretary shall not find that a State has failed to meet the requirements of subsec. (a)(4) of this section concerning levels of supplementary payments.
+<b>1982</b>—Subsec. (c). Pub. L. 97–377 added subsec. (c) relating to conditions under which the Secretary shall not find that a State has failed to meet the requirements of subsec. (a)(4) of this section concerning levels of supplementary payments.
 
 Pub. L. 97–248 added subsec. (c) relating to conditions under which a State may elect to apply subsec. (a)(4) of this section.
 

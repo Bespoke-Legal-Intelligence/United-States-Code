@@ -90,3 +90,7 @@ In this section:
 
 The National Security Act of 1947, referred to in subsec. (c)(3)(B)(i), is act July 26, 1947, ch. 343, 61 Stat. 495. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 50, War and National Defense, and Tables.
 
+<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (3)”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “paragraph (1)”.</i>
+

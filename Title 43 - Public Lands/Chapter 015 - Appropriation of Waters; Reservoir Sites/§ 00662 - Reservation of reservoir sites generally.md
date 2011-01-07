@@ -10,7 +10,7 @@ Section is based on provisions contained in acts Oct. 2, 1888, and Aug. 30, 1890
 
 #### Amendments
 
-1976—Pub. L. 94–579 struck out provision authorizing the President, in his discretion, to open by proclamation any portion or all of the lands reserved by this section to settlement under the homestead laws.
+<b>1976</b>—Pub. L. 94–579 struck out provision authorizing the President, in his discretion, to open by proclamation any portion or all of the lands reserved by this section to settlement under the homestead laws.
 
 #### Effective Date of 1976 Amendment
 

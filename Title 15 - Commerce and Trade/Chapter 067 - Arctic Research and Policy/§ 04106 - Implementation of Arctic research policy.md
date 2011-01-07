@@ -40,5 +40,17 @@ The National Science Foundation is designated as the lead agency responsible for
 
 #### Amendments
 
-2006—Subsec. (b)(2)(I) to (L). Pub. L. 109–241 added subpar. (I) and redesignated former subpars. (I) to (K) as (J) to (L), respectively.
+<b>2006</b>—Subsec. (b)(2)(I) to (L). Pub. L. 109–241 added subpar. (I) and redesignated former subpars. (I) to (K) as (J) to (L), respectively.
+
+#### Designation of the National Science and Technology Council to Coordinate Certain Activities Under the Arctic Research and Policy Act of 1984
+
+Memorandum of President of the United States, July 22, 2010, 75 F.R. 44063, provided:
+
+Memorandum for the Director of the Office of Science and Technology Policy
+
+By the authority vested in me as President by the Constitution and the laws of the United States, including the Arctic Research and Policy Act of 1984 (Title I of Public Law 98–373) (the “Act”), I hereby assign to the National Science and Technology Council (NSTC) responsibility to coordinate activities assigned in sections 107 and 108 of the Act to the Interagency Arctic Research Policy Committee, including through committees of the NSTC.
+
+The Director of the Office of Science and Technology Policy is authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

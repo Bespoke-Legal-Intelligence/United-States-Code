@@ -16,7 +16,7 @@ The presentation of the award shall be made by the President with such ceremonie
 
 #### Amendments
 
-2007—Pub. L. 110–69, §1003(1), which directed substitution of “National Technology and Innovation Medal” for “National Medal” in section catchline, was executed by making the substitution for “National Technology Medal” to reflect the probable intent of Congress.
+<b>2007</b>—Pub. L. 110–69, §1003(1), which directed substitution of “National Technology and Innovation Medal” for “National Medal” in section catchline, was executed by making the substitution for “National Technology Medal” to reflect the probable intent of Congress.
 
 Subsec. (a). Pub. L. 110–69, §1003(2), substituted “Technology and Innovation Medal” for “Technology Medal”.
 

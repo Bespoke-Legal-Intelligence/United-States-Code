@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) retention being inconsistent with the interests of national security; or
 
-&emsp;(2) the person's former enlisted status and grade was based solely on the participation by that person in a precommissioning program that resulted in the commission held by that person during the active duty from which the person was released or discharged.
+&emsp;(2) the person's former enlisted status and grade was based solely on the participation bythat person in a precommissioning program that resulted in the commission held by that person during the active duty from which the person was released or discharged.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 505; Pub. L. 85–603, §1(3), Aug. 8, 1958, 72 Stat. 526; Pub. L. 102–484, div. A, title V, §520(b), Oct. 23, 1992, 106 Stat. 2409; Pub. L. 110–181, div. A, title V, §506(b), Jan. 28, 2008, 122 Stat. 96.)
 
@@ -32,19 +32,19 @@ Historical and Revision Notes
 
 July 14, 1939, ch. 267, §1 (less last proviso); restated May 29, 1954, ch. 249, §19(b) (less last proviso), 68 Stat. 166.
 
-The words “former” and “as an enlisted member” are inserted for clarity. The words “credit for service” are substituted for the words “of service”. The words “in his grade” are substituted for the words “in the appropriate enlisted grade”. The words “he applies” are substituted for the words “application shall be made”. The words “Hereafter” and “while on active duty” are omitted as surplusage.
+The words “former” and “as an enlisted member” are inserted for clarity. The words “credit for service” are substituted for the words “of service”. The words “in his grade” are substituted for the words “in the appropriate enlisted grade”. The words “he applies” are substituted for the words “application \* \* \* shall be made”. The words “Hereafter” and “while on active duty” are omitted as surplusage.
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–181, §506(b)(1), substituted “duty as an officer of the Air Force” for “duty as a reserve officer of the Air Force” and “an appointment” for “a temporary appointment”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §506(b)(1), substituted “duty as an officer of the Air Force” for “duty as a reserve officer of the Air Force” and “an appointment” for “a temporary appointment”.
 
 Subsec. (b)(1). Pub. L. 110–181, §506(b)(2)(A), substituted “an officer” for “a Reserve officer” in introductory provisions.
 
 Subsec. (b)(2). Pub. L. 110–181, §506(b)(2)(B), substituted “the commission” for “the Reserve commission”.
 
-1992—Pub. L. 102–484 designated existing provisions as subsec. (a), added subsec. (b), and struck out at end of subsec. (a) “However, if his service as an officer terminated by a general discharge, he may, under regulations to be prescribed by the Secretary of the Air Force, be so reenlisted.”
+<b>1992</b>—Pub. L. 102–484 designated existing provisions as subsec. (a), added subsec. (b), and struck out at end of subsec. (a) “However, if his service as an officer terminated by a general discharge, he may, under regulations to be prescribed by the Secretary of the Air Force, be so reenlisted.”
 
-1958—Pub. L. 85–603 limited entitlement to be reenlisted in enlisted grade to those officers whose service terminated by an honorable discharge and those relieved from active duty for a purpose other than to await appellate review of a sentence that includes dismissal or dishonorable discharge, and provided that persons whose service terminated by a general discharge, may, under regulations to be prescribed by the Secretary of the Air Force, be so reenlisted.
+<b>1958</b>—Pub. L. 85–603 limited entitlement to be reenlisted in enlisted grade to those officers whose service terminated by an honorable discharge and those relieved from active duty for a purpose other than to await appellate review of a sentence that includes dismissal or dishonorable discharge, and provided that persons whose service terminated by a general discharge, may, under regulations to be prescribed by the Secretary of the Air Force, be so reenlisted.
 
 #### Effective Date of 1992 Amendment
 

@@ -26,9 +26,9 @@ A prior section 4282, act Aug. 16, 1954, ch. 736, 68A Stat. 508, defined “fair
 
 #### Amendments
 
-1996—Subsecs. (b), (c). Pub. L. 104–188 added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>1996</b>—Subsecs. (b), (c). Pub. L. 104–188 added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 1996 Amendment
 

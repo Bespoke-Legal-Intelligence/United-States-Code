@@ -100,7 +100,7 @@ Provisions similar to this section were contained in sections 1672 and 1673 of t
 
 #### Amendments
 
-1998—Subsec. (d). Pub. L. 105–277 inserted “and section 2852(b)(1)(A)(iii) of this title” after “this section”.
+<b>1998</b>—Subsec. (d). Pub. L. 105–277 inserted “and section 2852(b)(1)(A)(iii) of this title” after “this section”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

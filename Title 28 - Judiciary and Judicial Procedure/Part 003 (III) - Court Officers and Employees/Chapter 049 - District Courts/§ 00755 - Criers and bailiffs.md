@@ -1,6 +1,6 @@
 ### §755. Criers and bailiffs
 
-Each district judge may appoint a crier for the court in which he presides who shall perform also the duties of bailiff and messenger. A crier may perform also the duties of law clerk if he is qualified to do so and the district judge who appointed him designates him to serve as a crier-law clerk. A crier designated to serve as a crier-law clerk shall receive the compensation of a law clerk, but only so much of that compensation as is in excess of the compensation to whichhe would be entitled as a crier shall be deemed the compensation of a law clerk for the purposes of any limitation imposed by law upon the aggregate salaries of law clerks and secretaries appointed by a district judge.
+Each district judge may appoint a crier for the court in which he presides who shall perform also the duties of bailiff and messenger. A crier may perform also the duties of law clerk if he is qualified to do so and the district judge who appointed him designates him to serve as a crier-law clerk. A crier designated to serve as a crier-law clerk shall receive the compensation of a law clerk, but only so much of that compensation as is in excess of the compensation to which he would be entitled as a crier shall be deemed the compensation of a law clerk for the purposes of any limitation imposed by law upon the aggregate salaries of law clerks and secretaries appointed by a district judge.
 
 Each United States marshal may employ, with the approval of the judge, not exceeding four bailiffs as the district judge may determine, to attend the court, maintain order, wait upon the grand and petit juries, and perform such other necessary duties as the judge or marshal may direct.
 
@@ -18,7 +18,7 @@ Compensation of criers and other court attendants, except bailiffs under section
 
 #### Amendments
 
-1988—Pub. L. 100–690 struck out third par. which provided each bailiff an allowance of $6 a day for services to be paid only for actual attendance when court was in session or judge or jury was present.
+<b>1988</b>—Pub. L. 100–690 struck out third par. which provided each bailiff an allowance of $6 a day for services to be paid only for actual attendance when court was in session or judge or jury was present.
 
-1965—Pub. L. 89–281 inserted provisions to first par. permitting a crier to perform duties of law clerk if he is qualified to do so and district judge who appointed him designates him to serve as a crier-law clerk, specifying that a crier-law clerk shall receive compensation of a law clerk, and requiring that only so much of that compensation as is in excess of compensation to which he would be entitled as a crier shall be deemed compensation of a law clerk for purposes of any limitation imposed by law upon aggregate salaries of law clerks and secretaries appointed by a district judge.
+<b>1965</b>—Pub. L. 89–281 inserted provisions to first par. permitting a crier to perform duties of law clerk if he is qualified to do so and district judge who appointed him designates him to serve as a crier-law clerk, specifying that a crier-law clerk shall receive compensationof a law clerk, and requiring that only so much of that compensation as is in excess of compensation to which he would be entitled as a crier shall be deemed compensation of a law clerk for purposes of any limitation imposed by law upon aggregate salaries of law clerks and secretaries appointed by a district judge.
 

@@ -116,7 +116,7 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 #### Amendments
 
-1988—Subsec. (d). Pub. L. 100–368, §1(a), added subsec. (d).
+<b>1988</b>—Subsec. (d). Pub. L. 100–368, §1(a), added subsec. (d).
 
 Subsec. (e). Pub. L. 100–368, §2, added subsec. (e).
 

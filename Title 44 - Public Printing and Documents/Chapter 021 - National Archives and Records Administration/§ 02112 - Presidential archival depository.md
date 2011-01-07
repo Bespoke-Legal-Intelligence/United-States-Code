@@ -142,25 +142,25 @@ A prior section 2112 was renumbered section 2116 of this title.
 
 #### Amendments
 
-2008—Subsec. (g)(5)(B). Pub. L. 110–404 substituted “60” for “40”.
+<b>2008</b>—Subsec. (g)(5)(B). Pub. L. 110–404 substituted “60” for “40”.
 
-2004—Subsec. (e). Pub. L. 108–383 substituted “space, or for the occasional, non-official use of rooms and spaces (and services related to such use),” for “space”.
+<b>2004</b>—Subsec. (e). Pub. L. 108–383 substituted “space, or for the occasional, non-official use of rooms and spaces (and services related to such use),” for “space”.
 
-2003—Subsec. (g)(5). Pub. L. 108–7 added par. (5).
+<b>2003</b>—Subsec. (g)(5). Pub. L. 108–7 added par. (5).
 
-1986—Subsec. (a). Pub. L. 99–323, §3(a), amended subsec. (a) generally, revising and restating as pars. (1) to (5) provisions of former undesignated pars. containing similar subject matter.
+<b>1986</b>—Subsec. (a). Pub. L. 99–323, §3(a), amended subsec. (a) generally, revising and restating as pars. (1) to (5) provisions of former undesignated pars. containing similar subject matter.
 
 Subsec. (g). Pub. L. 99–323, §3(b), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “When the Archivist considers it be in the public interest, he may accept gifts or bequests of money or other property for the purpose of maintaining, operating, protecting, or improving a Presidential archival depository. The proceeds of gifts or bequests, together with the proceeds from fees or from sales of historical materials, copies or reproductions, catalogs, or other items, having to do with a Presidential archival depository, shall be paid into the National Archives Trust Fund to be held, administered, and expended for the benefit and in the interest of the Presidential archival depository in connection with which they were received, including administrative and custodial expenses as the Archivist determines.”
 
-1984—Subsec. (a). Pub. L. 98–497, §107(a)(6), substituted “Archivist” for “Administrator of General Services” and “Archivist” for “Administrator” wherever appearing.
+<b>1984</b>—Subsec. (a). Pub. L. 98–497, §107(a)(6), substituted “Archivist” for “Administrator of General Services” and “Archivist” for “Administrator” wherever appearing.
 
 Subsecs. (b), (c). Pub. L. 98–497, §107(a)(6), substituted “Archivist” for “Administrator” and “section 2111” for “section 2107” wherever appearing.
 
 Subsecs. (d) to (g). Pub. L. 98–497, §107(a)(6), substituted “Archivist” for “Administrator” wherever appearing.
 
-1978—Subsec. (c). Pub. L. 95–591 limited application of subsec. (c) when dealing with Presidential records.
+<b>1978</b>—Subsec. (c). Pub. L. 95–591 limited application of subsec. (c) when dealing with Presidential records.
 
-1976—Subsecs. (b), (c). Pub. L. 94–575 substituted reference to section “2107” for “3106”.
+<b>1976</b>—Subsecs. (b), (c). Pub. L. 94–575 substituted reference to section “2107” for “3106”.
 
 #### Effective Date of 1986 Amendment
 

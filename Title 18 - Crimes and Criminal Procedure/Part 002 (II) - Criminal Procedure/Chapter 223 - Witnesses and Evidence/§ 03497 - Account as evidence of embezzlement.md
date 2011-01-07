@@ -16,5 +16,5 @@ Words in second sentence of said section 355 of title 18, U.S.C., 1940 ed., whic
 
 #### Amendments
 
-2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

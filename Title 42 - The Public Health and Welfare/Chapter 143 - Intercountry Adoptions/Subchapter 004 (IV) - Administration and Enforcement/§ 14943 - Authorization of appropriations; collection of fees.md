@@ -22,9 +22,13 @@ No funds collected under the authority of this section may be made available to 
 
 (Pub. L. 106–279, title IV, §403, Oct. 6, 2000, 114 Stat. 841; Pub. L. 107–228, div. A, title II, §211(a), Sept. 30, 2002, 116 Stat. 1365.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, known as the Intercountry Adoption Act of 2000, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 14901 of this title and Tables.
+
 #### Amendments
 
-2002—Subsec. (b)(2). Pub. L. 107–228, §211(a)(1), inserted “Such fees shall remain available for obligation until expended.” at end.
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–228, §211(a)(1), inserted “Such fees shall remain available for obligation until expended.” at end.
 
 Subsec. (b)(3). Pub. L. 107–228, §211(a)(2), struck out par. (3) which read as follows: “Fees authorized under this section shall be available for obligation only to the extent and in the amount provided in advance in appropriations Acts.”
 

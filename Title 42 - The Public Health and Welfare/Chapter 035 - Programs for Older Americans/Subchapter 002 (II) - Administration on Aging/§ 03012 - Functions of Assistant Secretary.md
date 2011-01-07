@@ -190,7 +190,7 @@ To promote the development and implementation of comprehensive, coordinated syst
 
 &emsp;&emsp;(D) to help individuals to plan ahead for their future long-term care needs; and
 
-&emsp;&emsp;(E) to assist (in coordination with the entities carrying out the health insurance information, counseling, and assistance program (receiving funding under section 1395b–4 of this title) in the States) beneficiaries, and prospective beneficiaries, under the Medicare program established under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) in understanding and accessing prescription drug and preventative health benefits under the provisions of, and amendments made by, the Medicare Prescription Drug, Improvement, and Modernization Act of 2003;
+&emsp;&emsp;(E) to assist (in coordination with the entities carrying out the health insurance information, counseling, and assistance program (receiving funding under section 1395b–4 ofthis title) in the States) beneficiaries, and prospective beneficiaries, under the Medicare program established under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) in understanding and accessing prescription drug and preventative health benefits under the provisions of, and amendments made by, the Medicare Prescription Drug, Improvement, and Modernization Act of 2003;
 
 &emsp;(9) establish, either directly or through grants or contracts, national technical assistance programs to assist State agencies, area agencies on aging, and community-based service providers funded under this chapter in implementing—
 
@@ -254,7 +254,7 @@ The Assistant Secretary, in consultation with the Chief Executive Officer of the
 
 &emsp;&emsp;(III) data from other Federal agencies on the health, social, and economic status of older individuals and on the services provided to older individuals;
 
-&emsp;(iii) biennially compile, analyze, publish, and disseminate statistical data collected onthe functions, staffing patterns, and funding sources of State agencies and area agencies on aging;
+&emsp;(iii) biennially compile, analyze, publish, and disseminate statistical data collected on the functions, staffing patterns, and fundingsources of State agencies and area agencies on aging;
 
 &emsp;(iv) analyze the information collected under section 3011(c)(3)(F) of this title by the Director of the Office for American Indian, Alaskan Native, and Native Hawaiian Aging;
 
@@ -322,9 +322,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a)(17(A), (20)(A)(iii). Pub. L. 110–246, §4002(b)(1)(B), (2)(BB), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+<b>2008</b>—Subsec. (a)(17(A), (20)(A)(iii). Pub. L. 110–246, §4002(b)(1)(B), (2)(BB), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
-2006—Subsec. (a)(5). Pub. L. 109–365, §202(1)(A), inserted “assistive technology,” after “housing,”.
+<b>2006</b>—Subsec. (a)(5). Pub. L. 109–365, §202(1)(A), inserted “assistive technology,” after “housing,”.
 
 Subsec. (a)(12). Pub. L. 109–365, §202(1)(B), added par. (12) and struck out former par. (12) which read as follows: “carry on a continuing evaluation of the programs and activities related to the objectives of this chapter, with particular attention to the impact of medicare and medicaid, the Age Discrimination in Employment Act of 1967, and the programs of the National Housing Act relating to housing for older individuals and the setting of standards for the licensing of nursing homes, intermediate care homes, and other facilities providing care for such individuals;”.
 
@@ -342,7 +342,7 @@ Subsecs. (b), (c). Pub. L. 109–365, §202(2), added subsecs. (b) and (c) and s
 
 Subsec. (e)(1)(A). Pub. L. 109–365, §202(3), substituted a period for semicolon at end.
 
-2000—Subsec. (a)(9). Pub. L. 106–501, §201(1)(A), redesignated par. (10) as (9) and struck out former par. (9) which read as follows: “stimulate more effective use of existing resources and available services for the aged and aging, including existing legislative protections with particular emphasis on the application of the Age Discrimination in Employment Act of 1967;”.
+<b>2000</b>—Subsec. (a)(9). Pub. L. 106–501, §201(1)(A), redesignated par. (10) as (9) and struck out former par. (9) which read as follows: “stimulate more effective use of existing resources and available services for the aged and aging, including existing legislative protections with particular emphasis on the application of the Age Discrimination in Employment Act of 1967;”.
 
 Subsec. (a)(10), (11). Pub. L. 106–501, §201(1)(A), redesignated pars. (11) and (12) as (10) and (11), respectively. Former par. (10) redesignated (9).
 
@@ -418,7 +418,7 @@ Subsec. (e)(1)(A)(iv). Pub. L. 106–501, §801(b)(2)(C)(ii), struck out “, a
 
 Subsec. (f). Pub. L. 106–501, §201(3), added subsec. (f).
 
-1993—Pub. L. 103–171, §3(a)(3)(A), substituted “Assistant Secretary” for “Commissioner” in section catchline.
+<b>1993</b>—Pub. L. 103–171, §3(a)(3)(A), substituted “Assistant Secretary” for “Commissioner” in section catchline.
 
 Subsec. (a)(13). Pub. L. 103–171, §3(a)(3)(D), substituted “Assistant Secretary” for “Commissioner”.
 
@@ -438,7 +438,7 @@ Subsecs. (d), (e). Pub. L. 103–171, §3(a)(3)(D), substituted “Assistant Sec
 
 Subsec. (e)(1)(A)(iv). Pub. L. 103–171, §3(a)(3)(C), substituted “Director of the Office for” for “Associate Commissioner on”.
 
-1992—Subsec. (a)(1). Pub. L. 102–375, §904(a)(4)(A)(i), substituted “older individuals” for “the elderly” in two places.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–375, §904(a)(4)(A)(i), substituted “older individuals” for “the elderly” in two places.
 
 Subsec. (a)(3). Pub. L. 102–375, §202(a)(1), inserted “directly” before “assist”.
 
@@ -476,13 +476,13 @@ Subsec. (d). Pub. L. 102–375, §202(e), added subsec. (d).
 
 Subsec. (e). Pub. L. 102–375, §202(f), added subsec. (e).
 
-1987—Subsec. (a)(5). Pub. L. 100–175, §105(a), inserted “(including mental health)” after “health”.
+<b>1987</b>—Subsec. (a)(5). Pub. L. 100–175, §105(a), inserted “(including mental health)” after “health”.
 
 Subsec. (a)(19), (20). Pub. L. 100–175, §§103(a), 155(a), added pars. (19) and (20).
 
 Subsec. (b)(1). Pub. L. 100–175, §106(a), inserted reference to the Alcohol, Drug Abuse, and Mental Health Administration and the Administration on Developmental Disabilities.
 
-1984—Subsec. (a)(5). Pub. L. 98–459, §202(a)(1), substituted “establishment and implementation of” for “establishment of and carry out”.
+<b>1984</b>—Subsec. (a)(5). Pub. L. 98–459, §202(a)(1), substituted “establishment and implementation of” for “establishment of and carry out”.
 
 Subsec. (a)(9). Pub. L. 98–459, §202(a)(2), inserted “, including existing legislative protections with particular emphasis on the application of the Age Discrimination in Employment Act of 1967”.
 
@@ -492,7 +492,7 @@ Subsec. (b)(1). Pub. L. 98–459, §202(b), inserted “and with utilization and
 
 Subsec. (c). Pub. L. 98–459, §202(c), substituted “the duties and functions of the Administration” for “his duties and functions”.
 
-1981—Pub. L. 97–115, §2(b)(1), substituted “Commissioner” for “Administration” in section catchline.
+<b>1981</b>—Pub. L. 97–115, §2(b)(1), substituted “Commissioner” for “Administration” in section catchline.
 
 Subsec. (a)(1). Pub. L. 97–115, §2(b)(2), substituted “Department of Health and Human Services” for “Department of Health, Education, and Welfare”.
 
@@ -506,7 +506,7 @@ Subsec. (a)(12), (16). Pub. L. 97–115, §2(b)(6), (7), substituted “private 
 
 Subsec. (c). Pub. L. 97–115, §§2(c), 3(d), substituted “Director of the ACTION Agency” for “Director of Action” and “supportive services” for “social services”.
 
-1978—Subsec. (a)(1) to (4). Pub. L. 95–478, §102(a)(1), added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively. Former par. (4) redesignated (5).
+<b>1978</b>—Subsec. (a)(1) to (4). Pub. L. 95–478, §102(a)(1), added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively. Former par. (4) redesignated (5).
 
 Subsec. (a)(5). Pub. L. 95–478, §§102(a)(1), 503(b)(4)(A), redesignated former par. (4) as (5) and substituted “older individuals” for “older persons”. Former par. (5) redesignated (6).
 
@@ -526,11 +526,11 @@ Subsec. (a)(15) to (17). Pub. L. 95–478, §§102(a)(1), 503(b)(2), redesignate
 
 Subsecs. (b), (c). Pub. L. 95–478, §102(a)(2), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1975—Pub. L. 94–135, §114(b), substituted “Administration” for “Office” in section catchline.
+<b>1975</b>—Pub. L. 94–135, §114(b), substituted “Administration” for “Office” in section catchline.
 
 Subsec. (a)(8). Pub. L. 94–135, §114(c), struck out “and” after “aged and aging;”.
 
-1973—Subsec. (a). Pub. L. 93–29, §201(b)(1)–(3), in par. (4), substituted “research” for “research and demonstration programs” and made it the function of the Administration to assist in the establishment of any carry out programs designed to meet the needs of older persons for social services, including nutrition, hospitalization, preretirement training, continuing education, low-cost transportation and housing, and health services; added pars. (9) to (16); and designated existing provisions as subsec. (a), respectively.
+<b>1973</b>—Subsec. (a). Pub. L. 93–29, §201(b)(1)–(3), in par. (4), substituted “research” for “research and demonstration programs” and made it the function of the Administration to assist in the establishment of any carry out programs designed to meet the needs of older persons for social services, including nutrition, hospitalization, preretirement training, continuing education, low-cost transportation and housing, and health services; added pars. (9) to (16); and designated existing provisions as subsec. (a), respectively.
 
 Subsec. (b). Pub. L. 93–29, §201(b)(3), added subsec. (b).
 

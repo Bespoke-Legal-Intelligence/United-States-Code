@@ -36,12 +36,6 @@ During the revision of the Land and Resource Management Plan for the Arapaho Nat
 
 This Act, referred to in subsec. (a), is Pub. L. 103–77, Aug. 13, 1993, 107 Stat. 756, known as the Colorado Wilderness Act of 1993. For complete classification of this Act to the Code, see Short Title note set out under section 539i of this title and Tables.
 
-The public land laws, referred to in subsec. (c), are classified generally to Title 43, Public Lands.
-
-The mining laws and the mineral leasing laws, referred to in subsec. (c), are classified generally to Title 30, Mineral Lands and Mining.
-
-Geothermal leasing laws, referred to in subsec. (c), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
-
 #### Definitions
 
 Section 1(b) of Pub. L. 103–77 provided that:

@@ -12,7 +12,7 @@
 
 &emsp;(D) There are authorized to be appropriated to carry out section 1059e of this title, $75,000,000 for fiscal year 2009 and each of the five succeeding fiscal years.
 
-&emsp;(E) There are authorized to be appropriated to carry out section 1059f of this title, $25,000,000 for fiscal year 2009, and such sums as may be necessary for each of the five succeeding fiscal years.
+&emsp;(E) There are authorized to be appropriated to carry out section 1059f of this title,$25,000,000 for fiscal year 2009, and such sums as may be necessary for each of the five succeeding fiscal years.
 
 &emsp;(F) There are authorized to be appropriated to carry out section 1059g of this title, $30,000,000 for fiscal year 2009, and such sums as may be necessary for each of the five succeeding fiscal years.
 
@@ -58,7 +58,7 @@ Another prior section 1069, Pub. L. 89–329, title IV, §409, Nov. 8, 1965, 79 
 
 A prior section 1069a, Pub. L. 89–329, title III, §355, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1306; amended Pub. L. 100–50, §2(a)(16), (17), June 3, 1987, 101 Stat. 336, related to special payments rules, prior to repeal by Pub. L. 102–325, §2, title III, §305(c), July 23, 1992, 106 Stat. 458, 478, effective Oct. 1, 1992.
 
-Another prior section 1069a, Pub. L. 89–329, title III, §345, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980,94 Stat. 1399, related to assistance to institutions under other programs, prior to the general amendment of this subchapter by Pub. L. 99–498.
+Another prior section 1069a, Pub. L. 89–329, title III, §345, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1399, related to assistance to institutions under other programs, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
 A prior section 1069b, Pub. L. 89–329, title III, §356, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1306, and amended, which related to assistance to institutions under other programs, was renumbered section 395 of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(2), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1068d of this title.
 
@@ -76,11 +76,11 @@ A prior section 1069f, Pub. L. 89–329, title III, §360, as added Pub. L. 99�
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–315 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to authorizations for parts A to E for fiscal year 1999 and each of the 4 succeeding fiscal years.
+<b>2008</b>—Subsec. (a). Pub. L. 110–315 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to authorizations for parts A to E for fiscal year 1999 and each of the 4 succeeding fiscal years.
 
-1998—Subsec. (a)(1)(A). Pub. L. 105–244, §308(h)(1)(A), substituted “1999” for “1993”.
+<b>1998</b>—Subsec. (a)(1)(A). Pub. L. 105–244, §308(h)(1)(A), substituted “1999” for “1993”.
 
-Subsec. (a)(1)(B). Pub. L. 105–244, §308(h)(1)(B), redesignated cl. (i) as entire subpar., substituted “$10,000,000 for fiscal year 1999” for “$45,000,000 for fiscal year 1993”, and struck out cl. (ii) which read as follows: “No funds are authorized to be appropriated pursuant to clause (i) for any fiscal year unless the amount appropriated pursuant to paragraph (1)(A) for such fiscal year equals or exceeds $80,000,000.”
+Subsec. (a)(1)(B). Pub. L. 105–244, §308(h)(1)(B), redesignated cl. (i) as entire subpar., substituted “$10,000,000 for fiscal year 1999” for “$45,000,000 for fiscal year 1993”,and struck out cl. (ii) which read as follows: “No funds are authorized to be appropriated pursuant to clause (i) for any fiscal year unless the amount appropriated pursuant to paragraph (1)(A) for such fiscal year equals or exceeds $80,000,000.”
 
 Subsec. (a)(1)(C). Pub. L. 105–244, §308(h)(1)(C), added subpar. (C).
 
@@ -102,7 +102,7 @@ Subsec. (d). Pub. L. 105–244, §308(h)(5), struck out heading and text of subs
 
 Subsec. (e). Pub. L. 105–244, §308(h)(5), struck out heading and text of subsec. (e). Text read as follows: “In any fiscal year beginning after September 30, 1992, the Secretary shall award at least 25 percent of the amount appropriated pursuant to the authority of paragraph (3) of subsection (a) of this section in each fiscal year to historically black colleges and universities that meet the requirements of part C of this subchapter, unless there are an insufficient number of quality applications or an insufficient number of applications due to the provisions in subsection (b)(2)(C) or subsection (b)(4)(B) of section 1065 of this title.”
 
-1992—Subsec. (a). Pub. L. 102–325, §305(e), amended subsec. (a) generally, substituting present provisions for provisions authorizing appropriations for fiscal year 1987 and the four succeeding fiscal years.
+<b>1992</b>—Subsec. (a). Pub. L. 102–325, §305(e), amended subsec. (a) generally, substituting present provisions for provisions authorizing appropriations for fiscal year 1987 and the four succeeding fiscal years.
 
 Subsec. (c). Pub. L. 102–325, §305(f), substituted “1986, the Secretary shall, for such fiscal year—” for “1986—” in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
 

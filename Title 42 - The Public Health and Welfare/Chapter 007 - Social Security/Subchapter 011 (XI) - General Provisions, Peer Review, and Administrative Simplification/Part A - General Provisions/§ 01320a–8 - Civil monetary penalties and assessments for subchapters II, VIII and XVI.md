@@ -10,7 +10,7 @@
 
 &emsp;(C) omits from a statement or representation for such use, or otherwise withholds disclosure of, a fact which the person knows or should know is material to the determination of any initial or continuing right to or the amount of monthly insurance benefits under subchapter II of this chapter or benefits or payments under subchapter VIII or XVI of this chapter, if the person knows, or should know, that the statement or representation with such omission is false or misleading or that the withholding of such disclosure is misleading,
 
-> shall be subject to, in addition to any other penalties that may be prescribed by law, a civil money penalty of not more than $5,000 for each such statement or representation or each receipt of such benefits or payments while withholding disclosure of such fact. Such person alsoshall be subject to an assessment, in lieu of damages sustained by the United States because of such statement or representation or because of such withholding of disclosure of a material fact, of not more than twice the amount of benefits or payments paid as a result of such a statement or representation or such a withholding of disclosure. In addition, the Commissioner of Social Security may make a determination in the same proceeding to recommend that the Secretary exclude, as provided in section 1320a–7 of this title, such a person who is a medical provider or physician from participation in the programs under subchapter XVIII of this chapter.
+> shall be subject to, in addition to any other penalties that may be prescribed by law, a civil money penalty of not more than $5,000 for each such statement or representation or each receipt of such benefits or payments while withholding disclosure of such fact. Such person also shall be subject to an assessment, in lieu of damages sustained by the United States because of such statement or representation or because of such withholding of disclosure of a material fact, of not more than twice the amount of benefits or payments paid as a result of such a statement or representation or such a withholding of disclosure. In addition, the Commissioner of Social Security may make a determination in the same proceeding to recommend that the Secretary exclude, as provided in section 1320a–7 of this title, such a person who is a medical provider or physician from participation in the programs under subchapter XVIII of this chapter.
 
 (2) For purposes of this section, a material fact is one which the Commissioner of Social Security may consider in evaluating whether an applicant is entitled to benefits under subchapter II of this chapter or subchapter VIII of this chapter, or eligible for benefits or payments under subchapter XVI of this chapter.
 
@@ -102,7 +102,7 @@ Whenever the Commissioner's determination to impose a penalty or assessment unde
 
 #### (h) Injunction
 
-Whenever the Commissioner of Social Security has reason to believe that any person has engaged, is engaging, or is about to engage in any activity which makes the person subject to a civil monetary penalty under this section, the Commissioner of Social Security may bring an action in an appropriate district court of the United States (or, if applicable, a United States court of any territory) to enjoin such activity, or to enjoin the person from concealing, removing, encumbering, or disposing of assets whichmay be required in order to pay a civil monetary penalty and assessment if any such penalty were to be imposed or to seek other appropriate relief.
+Whenever the Commissioner of Social Security has reason to believe that any person has engaged, is engaging, or is about to engage in any activity which makes the person subject to a civil monetary penalty under this section, the Commissioner of Social Security may bring an action in an appropriate district court of the United States (or, if applicable, a United States court of any territory) to enjoin such activity, or to enjoin the person from concealing, removing, encumbering, or disposing of assets which may be required in order to pay a civil monetary penalty and assessment if any such penalty were to be imposed or to seek other appropriate relief.
 
 #### (i) Delegation of authority
 
@@ -136,7 +136,7 @@ A prior section 1320a–8, act Aug. 14, 1935, ch. 531, title XI, §1129, as adde
 
 #### Amendments
 
-2004—Subsec. (a)(1). Pub. L. 108–203, §201(a)(1), substantially rewrote par. (1). Prior to amendment, par. (1) read as follows: “Any person (including an organization, agency, or other entity) who makes, or causes to be made, a statement or representation of a material fact for use in determining any initial or continuing right to or the amount of—
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–203, §201(a)(1), substantially rewrote par. (1). Prior to amendment, par. (1) read as follows: “Any person (including an organization, agency, or other entity) who makes, or causes to be made, a statement or representation of a material fact for use in determining any initial or continuing right to or the amount of—
 
 &emsp;“(A) monthly insurance benefits under subchapter II of this chapter,
 
@@ -156,7 +156,7 @@ Subsec. (e)(1)(A). Pub. L. 108–203, §201(c)(3), substituted “violation occu
 
 Subsec. (e)(2)(B). Pub. L. 108–203, §201(b), substituted “In the case of any other amounts recovered under this section,” for “In the case of amounts recovered arising out of a determination relating to subchapter VIII or XVI of this chapter,”.
 
-1999—Pub. L. 106–169, §251(b)(6)(A), substituted “II, VIII” for “II” in section catchline.
+<b>1999</b>—Pub. L. 106–169, §251(b)(6)(A), substituted “II, VIII” for “II” in section catchline.
 
 Subsec. (a)(1)(B), (C). Pub. L. 106–169, §251(b)(6)(B), added subpar. (B) and redesignated former subpar. (B) as (C).
 
@@ -168,7 +168,7 @@ Subsec. (e)(2)(B). Pub. L. 106–169, §251(b)(6)(E), substituted “subchapter 
 
 Subsec. (<i>l</i>). Pub. L. 106–169, §251(b)(6)(F), substituted “subchapter VIII or XVI” for “subchapter XVI”.
 
-1994—Subsec. (a)(1). Pub. L. 103–296, §108(b)(10)(A)(i), (ii), in closing provisions substituted “Commissioner of Social Security” for “Secretary”, inserted “recommend that the Secretary” before “exclude, as provided”, and struck out before period at end “and to direct the appropriate State agency to exclude the person from participation in any State health care program permanently or for such period as the Secretary determines”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–296, §108(b)(10)(A)(i), (ii), in closing provisions substituted “Commissioner of Social Security” for “Secretary”, inserted “recommend that the Secretary” before “exclude, as provided”, and struck out before period at end “and to direct the appropriate State agency to exclude the person from participation in any State health care program permanently or for such period as the Secretary determines”.
 
 Subsecs. (a)(2), (b)(1), (2), (c). Pub. L. 103–296, §108(b)(10)(A)(i), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 

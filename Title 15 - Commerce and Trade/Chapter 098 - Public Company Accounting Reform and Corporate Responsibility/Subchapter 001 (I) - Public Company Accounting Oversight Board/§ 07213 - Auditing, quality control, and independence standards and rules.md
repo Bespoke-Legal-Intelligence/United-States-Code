@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Board shall, by rule, establish, including, to the extent it determines appropriate, through adoption of standards proposed by 1 or more professional groups of accountants designated pursuant to paragraph (3)(A) or advisory groups convened pursuant to paragraph (4), and amend or otherwise modify or alter, such auditing and related attestation standards, such quality control standards, and such ethics standards to be used by registered public accounting firms in the preparation and issuance of audit reports, as required by this Act or the rules of the Commission, or as may be necessary or appropriate in the public interest or for the protection of investors.
+&emsp;The Board shall, by rule, establish, including, to the extent it determines appropriate, through adoption of standards proposed by 1 or more professional groups of accountants designated pursuant to paragraph (3)(A) or advisory groups convened pursuant to paragraph (4), and amend or otherwise modify or alter, such auditing and related attestation standards, such quality control standards, such ethics standards, and such independence standards to be used by registered public accounting firms in the preparation and issuance of audit reports, as required by this Act or the rules of the Commission, or as may be necessary or appropriate in the public interest or for the protection of investors.
 
 #### (2) Rule requirements
 
@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(ii) provide a concurring or second partner review and approval of such audit report (and other related information), and concurring approval in its issuance, by a qualified person (as prescribed by the Board) associated with the public accounting firm, other than the person in charge of the audit, or by an independent reviewer (as prescribed by the Board); and
 
-&emsp;&emsp;&emsp;(iii) describe in each audit report the scope of the auditor's testing of the internal control structure and procedures of the issuer, required by section 7262(b) of this title, and present (in such report or in a separate report)—
+&emsp;&emsp;&emsp;(iii) in each audit report for an issuer, describe the scope of the auditor's testing of the internal control structure and procedures of the issuer, required by section 7262(b) of this title, and present (in such report or in a separate report)—
 
 &emsp;&emsp;&emsp;&emsp;(I) the findings of the auditor from such testing;
 
@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(B) shall include, in the quality control standards that it adopts with respect to the issuance of audit reports, requirements for every registered public accounting firm relating to—
 
-&emsp;&emsp;&emsp;(i) monitoring of professional ethics and independence from issuers on behalf of which the firm issues audit reports;
+&emsp;&emsp;&emsp;(i) monitoring of professional ethics and independence from issuers, brokers, anddealers on behalf of which the firm issues audit reports;
 
 &emsp;&emsp;&emsp;(ii) consultation within such firm on accounting and auditing questions;
 
@@ -80,11 +80,23 @@ The Board shall establish such rules as may be necessary or appropriate in the p
 
 The Board shall include in the annual report required by section 7211(h) of this title the results of its standard setting responsibilities during the period to which the report relates, including a discussion of the work of the Board with any designated professional groups of accountants and advisory groups described in paragraphs (3)(A) and (4) of subsection (a) of this section, and its pending issues agenda for future standard setting projects.
 
-(Pub. L. 107–204, title I, §103, July 30, 2002, 116 Stat. 755.)
+(Pub. L. 107–204, title I, §103, July 30, 2002, 116 Stat. 755; Pub. L. 111–203, title IX, §982(d), July 21, 2010, 124 Stat. 1929.)
 
 #### References in Text
 
 This Act, referred to in subsec. (a)(1), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
 
 Title II of this Act, referred to in subsec. (b), is title II of Pub. L. 107–204, July 30, 2002, 116 Stat. 771, which enacted subchapter II of this chapter and amended sections 78c, 78j–1, 78<i>l</i>, and 78q of this title. For complete classification of title II to the Code, see Tables.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §982(d)(1), substituted “such ethics standards, and such independence standards” for “and such ethics standards”.
+
+Subsec. (a)(2)(A)(iii). Pub. L. 111–203, §982(d)(2), substituted “in each audit report for an issuer, describe” for “describe in each audit report” in introductory provisions.
+
+Subsec. (a)(2)(B)(i). Pub. L. 111–203, §982(d)(3), substituted “issuers, brokers, and dealers” for “issuers”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 

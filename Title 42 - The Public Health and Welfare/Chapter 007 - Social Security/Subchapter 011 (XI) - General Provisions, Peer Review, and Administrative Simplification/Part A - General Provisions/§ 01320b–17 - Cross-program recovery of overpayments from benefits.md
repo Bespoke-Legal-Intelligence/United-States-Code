@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to subsection (b) of this section, whenever the Commissioner of Social Security determines that more than the correct amount of any payment has been made to a person under a program described in subsection (e) of this section,the Commissioner of Social Security may recover the amount incorrectly paid by decreasing any amount which is payable to such person under any other program specified in that subsection.
+Subject to subsection (b) of this section, whenever the Commissioner of Social Security determines that more than the correct amount of any payment has been made to a person under a program described in subsection (e) of this section, the Commissioner of Social Security may recover the amount incorrectly paid by decreasing any amount which is payable to such person under any other program specified in that subsection.
 
 #### (b) Limitation applicable to current benefits
 
@@ -56,9 +56,9 @@ Section 212(b) of Public Law 93–66, referred to in subsec. (e)(3), is section 
 
 #### Amendments
 
-2004—Pub. L. 108–203 amended section catchline and text generally, substituting provisions relating to recovery of overpayments from benefits under subchapters II, VIII, and XVI of this chapter, consisting of subsecs. (a) to (e), for provisions relating to recovery of overpayments from benefits under subchapter XVI of this chapter, consisting of subsecs. (a) and (b).
+<b>2004</b>—Pub. L. 108–203 amended section catchline and text generally, substituting provisions relating to recovery of overpayments from benefits under subchapters II, VIII, and XVI of this chapter, consisting of subsecs. (a) to (e), for provisions relating to recovery of overpayments from benefits under subchapter XVI of this chapter, consisting of subsecs. (a) and (b).
 
-1999—Pub. L. 106–169, §251(b)(7)(B), substituted “other” for “social security” in section catchline.
+<b>1999</b>—Pub. L. 106–169, §251(b)(7)(B), substituted “other” for “social security” in section catchline.
 
 Subsec. (a)(1). Pub. L. 106–169, §251(b)(7)(A), inserted “or VIII” after “person under subchapter II” and substituted “payable under such subchapter” for “payable under subchapter II of this chapter”.
 

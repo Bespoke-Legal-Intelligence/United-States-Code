@@ -42,9 +42,11 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(14) for the 9-month period beginning after the month in which received, any amount received by such individual (or spouse) or any other person whose income is deemed to be included in such individual's (or spouse's) income for purposes of this subchapter as restitution for benefits under this subchapter, subchapter II of this chapter, or subchapter VIII of this chapter that a representative payee of such individual (or spouse) or such other person under section 405(j), 1007, or 1383(a)(2) of this title has misused;
 
-&emsp;(15) for the 9-month period beginning after the month in which received, any grant, scholarship, fellowship, or gift (or portion of a gift) used to pay the cost of tuition and fees at any educational (including technical or vocational education) institution; and
+&emsp;(15) for the 9-month period beginning after the month in which received, any grant, scholarship, fellowship, or gift (or portion of a gift) used to pay the cost of tuition and fees at any educational (including technical or vocational education) institution;
 
-&emsp;(16) for the month of receipt and every month thereafter, any annuity paid by a State to the individual (or such spouse) on the basis of the individual's being a veteran (as defined in section 101 of title 38), and blind, disabled, or aged.
+&emsp;(16) for the month of receipt and every month thereafter, any annuity paid by a Stateto the individual (or such spouse) on the basis of the individual's being a veteran (as defined in section 101 of title 38), and blind, disabled, or aged; and
+
+&emsp;(17) any amount received by such individual (or such spouse) which is excluded from income under section 1382a(b)(26) of this title (relating to compensation for participation in a clinical trial involving research and testing of treatments for a rare disease or condition).
 
 > In determining the resources of an individual (or eligible spouse) an insurance policy shall be taken into account only to the extent of its cash surrender value; except that if the total face value of all life insurance policies on any person is $1,500 or less, no part of the value of any such policy shall be taken into account.
 
@@ -92,7 +94,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;&emsp;(III) a sibling of the transferor who has an equity interest in such home and who was residing in the transferor's home for a period of at least 1 year immediately before the date the transferor becomes an institutionalized individual; or
 
-&emsp;&emsp;(IV) a son or daughter of the transferor (other than a child described in subclause (II)) who was residing in the transferor's home for a period of at least 2 years immediately before the date the transferor becomes an institutionalized individual, and who provided care to the transferor which permitted the transferor to reside at home rather than in such an institution or facility;
+&emsp;&emsp;(IV) a son or daughter of the transferor (other than a child described in subclause (II)) who was residing in the transferor's home for a period of at least 2 years immediately before the date the transferor becomes an institutionalized individual, andwho provided care to the transferor which permitted the transferor to reside at home rather than in such an institution or facility;
 
 &emsp;(ii) the resources—
 
@@ -114,7 +116,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(iv) the Commissioner determines, under procedures established by the Commissioner, that the denial of eligibility would work an undue hardship as determined on the basis of criteria established by the Commissioner.
 
-(D) For purposes of this subsection, in the case of a resource held by an individual in commonwith another person or persons in a joint tenancy, tenancy in common, or similar arrangement, the resource (or the affected portion of such resource) shall be considered to be disposed of by the individual when any action is taken, either by the individual or by any other person, that reduces or eliminates the individual's ownership or control of such resource.
+(D) For purposes of this subsection, in the case of a resource held by an individual in common with another person or persons in a joint tenancy, tenancy in common, or similar arrangement, the resource (or the affected portion of such resource) shall be considered to be disposed of by the individual when any action is taken, either by the individual or by any other person, that reduces or eliminates the individual's ownership or control of such resource.
 
 (E) In the case of a transfer by the spouse of an individual that results in a period of ineligibility for the individual under this subsection, the Commissioner shall apportion the period (or any portion of the period) among the individual and the individual's spouse if the spouse becomes eligible for benefits under this subchapter.
 
@@ -142,7 +144,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 (3) If the Commissioner of Social Security finds that any part of the amount excluded under paragraph (1) was used for purposes other than those for which it was set aside in cases where the inclusion of any portion of the amount would cause the resources of such individual, or of such individual and spouse, to exceed the limits specified in paragraph (1) or (2) (whichever may be applicable) of section 1382(a) of this title, the Commissioner shall reduce any future benefits payable to the eligible individual (or to such individual and his spouse) by an amount equal to such part.
 
-(4) The Commissioner of Social Security may provide by regulations that whenever an amount set aside to meet burial and related expenses is excluded under paragraph (1) in determining the resources of an individual, any interest earned or accrued on such amount (and left to accumulate), and any appreciation in the value of prepaid burial arrangements for which such amount was set aside, shall also be excluded (to such extent and subject to such conditions or limitations as such regulations may prescribe) in determining the resources (and the income) of such individual.
+(4) The Commissioner of Social Security may provide by regulations that whenever an amount set aside to meet burial and related expenses is excluded under paragraph (1) in determining the resources of an individual, any interest earnedor accrued on such amount (and left to accumulate), and any appreciation in the value of prepaid burial arrangements for which such amount was set aside, shall also be excluded (to such extent and subject to such conditions or limitations as such regulations may prescribe) in determining the resources (and the income) of such individual.
 
 #### (e) Trusts
 
@@ -190,7 +192,11 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;&emsp;&emsp;(III) a person or entity (including a court) acting at the direction of, or on the request of, the individual or spouse.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1613, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1470; amended Pub. L. 94–569, §5, Oct. 20, 1976, 90 Stat. 2700; Pub. L. 95–171, §9(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 96–611, §5(a), Dec. 28, 1980, 94 Stat. 3567; Pub. L. 97–248, title I, §185(a), (b), Sept. 3, 1982, 96 Stat. 406; Pub. L. 98–369, div. B, title VI, §§2614, 2663(g)(5), July 18, 1984, 98 Stat. 1132, 1168; Pub. L. 100–203, title IX, §§9103(a), 9104(a), 9105(a), 9114(a), Dec. 22, 1987, 101 Stat. 1330–301, 1330–304; Pub. L. 100–360, title III, §303(c)(1), July 1, 1988, 102 Stat. 762; Pub. L. 100–647, title VIII, §8103(b), Nov. 10, 1988, 102 Stat. 3795; Pub. L. 101–239, title VIII, §§8013(b), 8014(a), Dec. 19, 1989, 103 Stat. 2465; Pub. L. 101–508, title V, §§5031(b), 5035(b), title XI, §11115(b)(2), Nov. 5, 1990, 104 Stat. 1388–224, 1388–225, 1388–414; Pub. L. 103–296, title I, §107(a)(4), title III, §321(h)(2), Aug. 15, 1994, 108 Stat. 1478, 1544; Pub. L. 104–193, title II, §213(b), Aug. 22, 1996, 110 Stat. 2195; Pub. L. 105–306, §7(b), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–169, title II, §§205(a), 206(a), Dec. 14, 1999, 113 Stat. 1833, 1834; Pub. L. 108–203, title I, §101(c)(2), title IV, §§431(a), (b), 435(b), Mar. 2, 2004, 118 Stat. 496, 539, 540; Pub. L. 110–245, title II, §202(b), June 17, 2008, 122 Stat. 1637.)
+(Aug. 14, 1935, ch. 531, title XVI, §1613, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1470; amended Pub. L. 94–569, §5, Oct. 20, 1976, 90 Stat. 2700; Pub. L. 95–171, §9(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 96–611, §5(a), Dec. 28, 1980, 94 Stat. 3567; Pub. L. 97–248, title I, §185(a), (b), Sept. 3, 1982, 96 Stat. 406; Pub. L. 98–369, div. B, title VI, §§2614, 2663(g)(5), July 18, 1984, 98 Stat. 1132, 1168; Pub. L. 100–203, title IX, §§9103(a), 9104(a), 9105(a), 9114(a), Dec. 22, 1987, 101 Stat. 1330–301, 1330–304; Pub. L. 100–360, title III, §303(c)(1), July 1, 1988, 102 Stat. 762; Pub. L. 100–647, title VIII, §8103(b), Nov. 10, 1988, 102 Stat. 3795; Pub. L. 101–239, title VIII, §§8013(b), 8014(a), Dec. 19, 1989, 103 Stat. 2465; Pub. L. 101–508, title V, §§5031(b), 5035(b), title XI, §11115(b)(2), Nov. 5, 1990, 104 Stat. 1388–224, 1388–225, 1388–414; Pub. L. 103–296, title I, §107(a)(4), title III, §321(h)(2), Aug. 15, 1994, 108 Stat. 1478, 1544; Pub. L. 104–193, title II, §213(b), Aug. 22, 1996, 110 Stat. 2195; Pub. L. 105–306, §7(b), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–169, title II, §§205(a), 206(a), Dec. 14, 1999, 113 Stat. 1833, 1834; Pub. L. 108–203, title I, §101(c)(2), title IV, §§431(a), (b), 435(b), Mar. 2, 2004, 118 Stat. 496, 539, 540; Pub. L. 110–245, title II, §202(b), June 17, 2008, 122 Stat. 1637; Pub. L. 111–255, §3(b), Oct. 5, 2010, 124 Stat. 2641.)
+
+#### Amendment of Section
+
+<i>For repeal of amendment by section 3(e) of Pub. L. 111–255, see Effective and Termination Dates of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -200,15 +206,17 @@ The Internal Revenue Code of 1986, referred to in subsec. (a)(11), (13), is clas
 
 Section 203 of the Economic Growth and Tax Relief Reconciliation Act of 2001, referred to in subsec. (a)(11)(A), is section 203 of Pub. L. 107–16, which is set out as a note under section 24 of Title 26, Internal Revenue Code.
 
-Section 212(b) of Public Law 93–66, referred to in subsec. (c)(1)(A)(iv)(II), (F)(i), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
+Section 212(b) of Public Law 93–66, referred to in subsec. (c)(1)(A)(iv)(II), (F)(i), is section 212(b) of Pub. L.93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
 
 Section 1396p(e)(3) of this title, referred to in subsec. (c)(1)(F)(ii), was redesignated section 1396p(h)(3) of this title by Pub. L. 109–171, title VI, §§6012(a), 6014(a), 6015(b), Feb. 8, 2006, 120 Stat. 62, 64, 65.
 
 #### Amendments
 
-2008—Subsec. (a)(16). Pub. L. 110–245 added par. (16).
+<b>2010</b>—Subsec. (a)(17). Pub. L. 111–255, §3(b), (e), temporarily added par. (17). See Effective and Termination Dates of 2010 Amendment note below.
 
-2004—Subsec. (a)(7). Pub. L. 108–203, §431(a), substituted “limited to the first 9 months” for “limited to the first 6 months” and struck out “(or to the first 9 months following such month with respect to any amount so received during the period beginning October 1, 1987, and ending September 30, 1989)” after “month in which such amount is received”.
+<b>2008</b>—Subsec. (a)(16). Pub. L. 110–245 added par. (16).
+
+<b>2004</b>—Subsec. (a)(7). Pub. L. 108–203, §431(a), substituted “limited to the first 9 months” for “limited to the first 6 months” and struck out “(or to the first 9 months following such month with respect to any amount so received during the period beginning October 1, 1987, and ending September 30, 1989)” after “month in which such amount is received”.
 
 Subsec. (a)(11). Pub. L. 108–203, §431(b), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “for the month of receipt and the following month, any refund of Federal income taxes made to such individual (or such spouse) by reason of section 32 of the Internal Revenue Code of 1986 (relating to earned income tax credit), and any payment made to such individual (or such spouse) by an employer under section 3507 of such Code (relating to advance payment of earned income credit);”.
 
@@ -216,7 +224,7 @@ Subsec. (a)(14). Pub. L. 108–203, §101(c)(2), added par. (14).
 
 Subsec. (a)(15). Pub. L. 108–203, §435(b), added par. (15).
 
-1999—Subsec. (c). Pub. L. 106–169, §206(a)(1), struck out “Notification of medicaid policy restricting eligibility of institutionalized individuals for benefits based on” before “Disposal” in subsec. heading.
+<b>1999</b>—Subsec. (c). Pub. L. 106–169, §206(a)(1), struck out “Notification of medicaid policy restricting eligibility of institutionalized individuals for benefits based on” before “Disposal” in subsec. heading.
 
 Subsec. (c)(1). Pub. L. 106–169, §206(a)(5), added par. (1). Former par. (1) redesignated (2)(A).
 
@@ -230,31 +238,31 @@ Subsec. (c)(2)(B). Pub. L. 106–169, §206(a)(3), redesignated par. (2) as (2)(
 
 Subsec. (e). Pub. L. 106–169, §205(a), added subsec. (e).
 
-1998—Subsec. (a)(13). Pub. L. 105–306 added par. (13).
+<b>1998</b>—Subsec. (a)(13). Pub. L. 105–306 added par. (13).
 
-1996—Subsec. (a)(12). Pub. L. 104–193 added par. (12).
+<b>1996</b>—Subsec. (a)(12). Pub. L. 104–193 added par. (12).
 
-1994—Subsec. (a)(2) to (4), (6). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
+<b>1994</b>—Subsec. (a)(2) to (4), (6). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
 Subsec. (a)(9) to (11). Pub. L. 103–296, §321(h)(2), struck out “and” at end of par. (9), substituted “; and” for period at end of par. (10) relating to relocation assistance, and redesignated par. (10) relating to refunds of Federal income taxes as (11).
 
 Subsecs. (b) to (d). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing and “the Commissioner shall” for “he shall” in subsec. (d)(3).
 
-1990—Subsec. (a)(9). Pub. L. 101–508, §5031(b), added par. (9).
+<b>1990</b>—Subsec. (a)(9). Pub. L. 101–508, §5031(b), added par. (9).
 
 Subsec. (a)(10). Pub. L. 101–508, §11115(b)(2), added par. (10) relating to refunds of Federal income taxes.
 
 Pub. L. 101–508, §5053(b), added par. (10) relating to relocation assistance.
 
-1989—Subsec. (a)(2)(B). Pub. L. 101–239, §8013(b), inserted “or agreement (including any interest accumulated thereon) representing the purchase of a burial space”.
+<b>1989</b>—Subsec. (a)(2)(B). Pub. L. 101–239, §8013(b), inserted “or agreement (including any interest accumulated thereon) representing the purchase of a burial space”.
 
 Subsec. (a)(3). Pub. L. 101–239, §8014(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “other property which, as determined in accordance with and subject to limitations prescribed by the Secretary, is so essential to the means of self-support of such individual (and such spouse) as to warrant its exclusion;”.
 
-1988—Subsec. (a)(8). Pub. L. 100–647 added par. (8).
+<b>1988</b>—Subsec. (a)(8). Pub. L. 100–647 added par. (8).
 
 Subsec. (c). Pub. L. 100–360 substituted “Notification of medicaid policy restricting eligibility of institutionalized individuals for benefits based on disposal of resources for less than fair market value” for “Disposal of resources for less than fair market value” in heading and amended text generally, substituting pars. (1) and (2) for former pars. (1) to (4).
 
-1987—Subsec. (a)(7). Pub. L. 100–203, §9114(a), inserted “(or to the first 9 months following such month with respect to any amount so received during the period beginning October 1, 1987, and ending September 30, 1989)” after “such amount is received”.
+<b>1987</b>—Subsec. (a)(7). Pub. L. 100–203, §9114(a), inserted “(or to the first 9 months following such month with respect to any amount so received during the period beginning October 1, 1987, and ending September 30, 1989)” after “such amount is received”.
 
 Subsec. (b). Pub. L. 100–203, §9103, designated existing provisions as par. (1) and added par. (2).
 
@@ -266,19 +274,25 @@ Subsec. (d)(1). Pub. L. 100–203, §9105(a)(1), struck out “if the inclusion 
 
 Subsec. (d)(3). Pub. L. 100–203, §9105(a)(2), substituted “aside in cases where the inclusion of any portion of the amount would cause the resources of such individual, or of such individual and spouse, to exceed the limits specified in paragraph (1) or (2) (whichever may be applicable) of section 1382(a) of this title” for “aside”.
 
-1984—Subsec. (a)(7). Pub. L. 98–369, §2614, added par. (7).
+<b>1984</b>—Subsec. (a)(7). Pub. L. 98–369, §2614, added par. (7).
 
 Subsec. (c). Pub. L. 98–369, §2663(g)(5), amended heading.
 
-1982—Subsec. (a)(2). Pub. L. 97–248, §185(a), redesignated existing provisions as subpar. (A) and added subpar. (B).
+<b>1982</b>—Subsec. (a)(2). Pub. L. 97–248, §185(a), redesignated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (d). Pub. L. 97–248, §185(b), added subsec. (d).
 
-1980—Subsec. (c). Pub. L. 96–611 added subsec. (c).
+<b>1980</b>—Subsec. (c). Pub. L. 96–611 added subsec. (c).
 
-1977—Subsec. (a)(6). Pub. L. 95–171 added par. (6).
+<b>1977</b>—Subsec. (a)(6). Pub. L. 95–171 added par. (6).
 
-1976—Subsec. (a)(1). Pub. L. 94–569 struck out “, to the extent that its value does not exceed such amount as the Secretary determines to be reasonable” after “the home (including the land that appertains thereto)”.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–569 struck out “, to the extent that its value does not exceed such amount as the Secretary determines to be reasonable” after “the home (including the land that appertains thereto)”.
+
+#### Effective and Termination Dates of 2010 Amendment
+
+Amendment by Pub. L. 111–255 effective on the earlier of the effective date of final regulations promulgated by the Commissioner of Social Security to carry out such amendment or 180 days after Oct. 5, 2010, see section 3(d) of Pub. L. 111–255, set out as a note under section 1382a of this title.
+
+Amendment by Pub. L. 111–255 repealed 5 years after Oct. 5, 2010, see section 3(e) of Pub. L. 111–255, set out as a note under section 1382a of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -318,7 +332,7 @@ Amendment by section 5031(b) of Pub. L. 101–508 applicable with respect to ben
 
 Amendment by section 5035(b) of Pub. L. 101–508 applicable with respect to benefits for calendar months beginning on or after the first day of the 6th calendar month following November 1990, see section 5035(c) of Pub. L. 101–508, as amended, set out as a note under section 1382a of this title.
 
-Amendment by section 11115(b)(2) of Pub. L. 101–508 applicable to determinations of income or resourcesmade for any period after Dec. 31, 1990, see section 11115(e) of Pub. L. 101–508, set out as a note under section 1382a of this title.
+Amendment by section 11115(b)(2) of Pub. L. 101–508 applicable to determinations of income or resources made for any period after Dec. 31, 1990, see section 11115(e) of Pub. L. 101–508, set out as a note under section 1382a of this title.
 
 #### Effective Date of 1989 Amendment
 

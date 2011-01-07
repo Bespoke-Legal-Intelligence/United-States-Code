@@ -44,5 +44,5 @@ Of concurrent and simple resolutions, when reported, and after their passage by 
 
 #### Historical and Revision Notes
 
-Based on 44 U.S. Code, 1964 ed., §189 (Jan. 12, 1895, ch. 23, §55, 28 Stat. 609; Jan. 20, 1905, ch. 50, §2, 22 Stat. 611).
+Based on 44 U.S. Code, 1964 ed., §189 (Jan. 12, 1895, ch. 23, §55, 28 Stat. 609; Jan. 20, 1905, ch. 50, §2, 33 Stat. 611).
 

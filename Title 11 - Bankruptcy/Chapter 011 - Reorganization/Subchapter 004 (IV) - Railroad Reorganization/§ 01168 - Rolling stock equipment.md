@@ -28,7 +28,7 @@
 
 (c)(1) In any case under this chapter, the trustee shall immediately surrender and return to a secured party, lessor, or conditional vendor, described in subsection (a)(1), equipment described in subsection (a)(2), if at any time after the date of commencement of the case under this chapter such secured party, lessor, or conditional vendor is entitled pursuant to subsection (a)(1) to take possession of such equipment and makes a written demand for such possession of the trustee.
 
-(2) At such time as the trustee is required under paragraph (1) to surrender and returnequipment described in subsection (a)(2), any lease of such equipment, and any security agreement or conditional sale contract relating to such equipment, if such security agreement or conditional sale contract is an executory contract, shall be deemed rejected.
+(2) At such time as the trustee is required under paragraph (1) to surrender and return equipment described in subsection (a)(2), any lease of such equipment, and any security agreement or conditional sale contract relating to such equipment, if such security agreement or conditional sale contract is an executory contract, shall be deemed rejected.
 
 (d) With respect to equipment first placed in service on or prior to October 22, 1994, for purposes of this section—
 

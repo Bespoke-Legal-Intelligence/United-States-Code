@@ -84,7 +84,7 @@ For purposes of determining the tax under this subtitle—
 
 #### Amendments
 
-2004—Subsec. (a)(1)(D). Pub. L. 108–357, §408(a), added subpar. (D). Former subpar. (D) redesignated (E).
+<b>2004</b>—Subsec. (a)(1)(D). Pub. L. 108–357, §408(a), added subpar. (D). Former subpar. (D) redesignated (E).
 
 Subsec. (a)(1)(E). Pub. L. 108–357, §408(b)(1), added subpar. (E). Former subpar. (E) redesignated (F).
 
@@ -94,7 +94,7 @@ Subsec. (a)(1)(F). Pub. L. 108–357, §408(b)(1), redesignated subpar. (E) as (
 
 Subsec. (a)(2). Pub. L. 108–357, §408(b)(2), inserted “or (E)” after “subparagraph (A)” in introductory provisions.
 
-1997—Subsec. (a). Pub. L. 105–34, §1102(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
+<b>1997</b>—Subsec. (a). Pub. L. 105–34, §1102(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
 “(a)
 
@@ -118,7 +118,7 @@ Foreign income taxes.—For purposes of paragraph (1), ‘foreign income taxes�
 
 Subsec. (a)(3), (4). Pub. L. 105–34, §1102(b)(1), added par. (3) and redesignated former par. (3) as (4).
 
-1988—Pub. L. 100–647 substituted “foreign taxes and foreign corporation's earnings and profits” for “foreign corporation's earnings and profits and foreign taxes” in heading, and revised and restructured the provisions of subsecs. (a) and (b).
+<b>1988</b>—Pub. L. 100–647 substituted “foreign taxes and foreign corporation's earnings and profits” for “foreign corporation's earnings and profits and foreign taxes” in heading, and revised and restructured the provisions of subsecs. (a) and (b).
 
 #### Effective Date of 2004 Amendment
 

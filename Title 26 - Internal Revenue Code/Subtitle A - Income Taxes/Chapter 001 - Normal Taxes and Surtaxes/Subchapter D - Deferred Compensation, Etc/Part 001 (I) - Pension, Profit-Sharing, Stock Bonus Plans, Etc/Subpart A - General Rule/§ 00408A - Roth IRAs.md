@@ -182,7 +182,7 @@ For purposes of this title—
 
 &emsp;&emsp;&emsp;&emsp;(I) any portion of a distribution from a Roth IRA is properly allocable to a qualified rollover contribution described in this paragraph; and
 
-&emsp;&emsp;&emsp;&emsp;(II) such distribution is made within the 5-taxable year period beginning with the taxable year in which such contribution was made,
+&emsp;&emsp;&emsp;&emsp;(II) such distribution is made within the 5-taxable year period beginning withthe taxable year in which such contribution was made,
 
 &emsp;&emsp;&nbsp;then section 72(t) shall be applied as if such portion were includible in gross income.
 
@@ -282,11 +282,11 @@ For purposes of this section—
 
 #### Inflation Adjusted Items for Certain Years
 
-<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title and Internal</i><i>Revenue Notices listed in a table under section 401 of this title.</i>
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title and Internal Revenue Notices listed in a table under section 401 of this title.</i>
 
 #### Amendments
 
-2008—Subsec. (c)(3)(B). Pub. L. 110–458, §108(d)(1), in introductory provisions, struck out second “an” before “eligible” and “other than a Roth IRA” before “during any taxable year”, and inserted as concluding provisions “This subparagraph shall not apply to a qualified rollover contribution from a Roth IRA or to a qualified rollover contribution from a designated Roth account which is a rollover contribution described in section 402A(c)(3)(A).”
+<b>2008</b>—Subsec. (c)(3)(B). Pub. L. 110–458, §108(d)(1), in introductory provisions, struck out second “an” before “eligible” and “other than a Roth IRA” before “during any taxable year”, and inserted as concluding provisions “This subparagraph shall not apply to a qualified rollover contribution from a Roth IRA or to a qualified rollover contribution from a designated Roth account which is a rollover contribution described in section 402A(c)(3)(A).”
 
 Subsec. (c)(3)(C), (E). Pub. L. 110–458, §108(h)(1), redesignated subpar. (C) relating to inflation adjustment as subpar. (E).
 
@@ -330,7 +330,7 @@ Annual limit on number of rollovers not to apply.—Section 408(d)(3)(B) shall n
 
 Application of section 72.—For purposes of applying section 72 in the case of a distribution which is not a qualified distribution, the amount treated as a rollover by reason of subparagraph (A) shall be treated as investment in the contract.” See 2006 Amendment note below.
 
-2006—Subsec. (c)(3)(B). Pub. L. 109–222, §512(a)(1), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “A taxpayer shall not be allowed to make a qualified rollover contribution to a Roth IRA from an individual retirement plan other than a Roth IRA during any taxable year if, for the taxable year of the distribution to which such contribution relates—
+<b>2006</b>—Subsec. (c)(3)(B). Pub. L. 109–222, §512(a)(1), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “A taxpayer shall not be allowed to make a qualified rollover contribution to a Roth IRA from an individual retirement plan other than a Roth IRA during any taxable year if, for the taxable year of the distribution to which such contribution relates—
 
 &emsp;“(i) the taxpayer's adjusted gross income exceeds $100,000, or
 
@@ -354,7 +354,7 @@ Subsec. (c)(3)(D), (E). Pub. L. 110–458, §108(h)(2), redesignated subpar. (E)
 
 Subsec. (d)(3). Pub. L. 109–280, §824(b)(2)(E), substituted “an eligible retirement plan” for “an IRA” in heading.
 
-Subsec. (d)(3)(A). Pub. L. 109–280, §824(b)(2)(A), substituted “sections 402(c), 403(b)(8), 408(d)(3), and 457(e)(16)” for “section 408(d)(3)” in introductory provisions.
+Subsec. (d)(3)(A). Pub. L. 109–280, §824(b)(2)(A), substituted “sections 402(c), 403(b)(8), 408(d)(3), and457(e)(16)” for “section 408(d)(3)” in introductory provisions.
 
 Subsec. (d)(3)(A)(iii). Pub. L. 109–222, §512(b)(1), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “unless the taxpayer elects not to have this clause apply for any taxable year, any amount required to be included in gross income for such taxable year by reason of this paragraph for any distribution before January 1, 1999, shall be so included ratably over the 4-taxable year period beginning with such taxable year.”
 
@@ -368,7 +368,7 @@ Subsec. (d)(3)(E)(i). Pub. L. 109–222, §512(b)(2)(A), amended cl. (i) general
 
 “(I)
 
-In general.—The amount required to be included in gross income for each of the first 3 taxable years in the 4-year period under subparagraph (A)(iii) shall beincreased by the aggregate distributions from Roth IRAs for such taxable year which are allocable under paragraph (4) to the portion of such qualified rollover contribution required to be included in gross income under subparagraph (A)(i).
+In general.—The amount required to be included in gross income for each of the first 3 taxable years in the 4-year period under subparagraph (A)(iii) shall be increased by the aggregate distributions from Roth IRAs for such taxable year which are allocable under paragraph (4) to the portion of such qualified rollover contribution required to be included in gross income under subparagraph (A)(i).
 
 “(II)
 
@@ -376,9 +376,9 @@ Limitation on aggregate amount included.—The amount required to be included in
 
 Subsec. (e). Pub. L. 109–280, §824(a), reenacted heading without change and amended text of subsec. (e) generally. Prior to amendments by Pub. L. 109–280, §824(a), and Pub. L. 110–245, §109(a), text read as follows: “For purposes of this section, the term ‘qualified rollover contribution’ means a rollover contribution to a Roth IRA from another such account, or from an individual retirement plan, but only if such rollover contribution meets the requirements of section 408(d)(3). For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individual retirement plan (other than a Roth IRA) to a Roth IRA.” See 2008 Amendment note above.
 
-2001—Subsec. (e). Pub. L. 107–16 inserted “Such term includes a rollover contribution described in section 402A(c)(3)(A).” after first sentence.
+<b>2001</b>—Subsec. (e). Pub. L. 107–16 inserted “Such term includes a rollover contribution described in section 402A(c)(3)(A).” after first sentence.
 
-1998—Subsec. (c)(3)(A). Pub. L. 105–206, §6005(b)(1), substituted “shall not exceed an amount equal to the amount determined under paragraph (2)(A) for such taxable year, reduced” for “shall be reduced” in introductory provisions.
+<b>1998</b>—Subsec. (c)(3)(A). Pub. L. 105–206, §6005(b)(1), substituted “shall not exceed an amount equal to the amount determined under paragraph (2)(A) for such taxable year, reduced” for “shall be reduced” in introductory provisions.
 
 Subsec. (c)(3)(A)(ii). Pub. L. 105–206, §6005(b)(2)(A), inserted “or a married individual filing a separate return” after “joint return”.
 
@@ -446,7 +446,7 @@ In general.—Except as provided by paragraphs (2) and (3), the amendments made 
 
 “(2)
 
-Application of amendments to deaths from injuries occurring on or after october 7, 2001, and before enactment.—The amendments made by this section shall apply to any contribution made pursuant to section 408A(e)(2) or 530(d)(5) of the Internal Revenue Code of 1986, as amended by this Act, with respect to amounts received under section 1477 of title 10, United States Code, or under section 1967 of title 38 of such Code, for deaths from injuries occurring on or after October 7, 2001, and before the date of the enactment ofthis Act if such contribution is made not later than 1 year after the date of the enactment of this Act.
+Application of amendments to deaths from injuries occurring on or after october 7, 2001, and before enactment.—The amendments made by this section shall apply to any contribution made pursuant to section 408A(e)(2) or 530(d)(5) of the Internal Revenue Code of 1986, as amended by this Act, with respect to amounts received under section 1477 of title 10, United States Code, or under section 1967 of title 38 of such Code, for deaths from injuries occurring on or after October 7, 2001, and before the date of the enactment of this Act if such contribution is made not later than 1 year after the date of the enactment of this Act.
 
 “(3)
 

@@ -14,7 +14,7 @@ A prior section 33 of act Aug. 1, 1956, was renumbered section 34 by section 117
 
 #### Amendments
 
-1998—Par. (2). Pub. L. 105–277 inserted at end “For purposes of this paragraph, the term ‘consular officer’ includes any United States citizen employee of the Department of State who is designated by the Secretary of State to adjudicate nationality abroad pursuant to such regulations as the Secretary may prescribe.”
+<b>1998</b>—Par. (2). Pub. L. 105–277 inserted at end “For purposes of this paragraph, the term ‘consular officer’ includes any United States citizen employee of the Department of State who is designated by the Secretary of State to adjudicate nationality abroad pursuant to such regulations as the Secretary may prescribe.”
 
 #### Record of Place of Birth for Taiwanese-Americans
 

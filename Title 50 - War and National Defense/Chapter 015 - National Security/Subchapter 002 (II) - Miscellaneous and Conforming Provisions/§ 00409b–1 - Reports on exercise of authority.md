@@ -20,7 +20,7 @@
 
 (4) In this section—
 
-&emsp;(A) for purposes of the submittal of the classified annex to any report under this section,the term “appropriate committees of Congress” means—
+&emsp;(A) for purposes of the submittal of the classified annex to any report under this section, the term “appropriate committees of Congress” means—
 
 &emsp;&emsp;(i) the Select Committee on Intelligence of the Senate; and
 
@@ -42,5 +42,5 @@ Section was enacted as part of the Intelligence Authorization Act for Fiscal Yea
 
 #### Change of Name
 
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee onGovernment Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

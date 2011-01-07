@@ -54,3 +54,9 @@ In General.—Beginning not later than December 31, 2009, the Secretary of Trans
 
 (Added Pub. L. 110–432, div. A, title III, §303(a), Oct. 16, 2008, 122 Stat. 4878.)
 
+<i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by “and”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “provides”.</i>
+

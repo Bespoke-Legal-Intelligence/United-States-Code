@@ -24,7 +24,7 @@ The Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.), referred to in
 
 #### Amendments
 
-1984—Subsec. (a)(2). Pub. L. 98–623, §602(e)(12), substituted “(A) that” for “that (A)”.
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–623, §602(e)(12), substituted “(A) that” for “that (A)”.
 
 Subsec. (b)(1). Pub. L. 98–623, §602(e)(13), (14), substituted “of an adjacent coastal State” for “of adjacent coastal State” and “application are concluded” for “application is concluded”.
 

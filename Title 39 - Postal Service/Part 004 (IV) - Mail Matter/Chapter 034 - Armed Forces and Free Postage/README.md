@@ -13,9 +13,9 @@
 
 #### Amendments
 
-1986—Pub. L. 99–410, title II, §201(b)(1), Aug. 28, 1986, 100 Stat. 928, added item 3406.
+<b>1986</b>—Pub. L. 99–410, title II, §201(b)(1), Aug. 28, 1986, 100 Stat. 928, added item 3406.
 
-1979—Pub. L. 96–70, title I, §1331(e)(3)(B), Sept. 27, 1979, 93 Stat. 482, struck out item 3402 “Mailing privileges of members of Armed Forces of the United States and of friendly foreign nations in the Canal Zone”.
+<b>1979</b>—Pub. L. 96–70, title I, §1331(e)(3)(B), Sept. 27, 1979, 93 Stat. 482, struck out item 3402 “Mailing privileges of members of Armed Forces of the United States and of friendly foreign nations in the Canal Zone”.
 
 
 ---

@@ -130,7 +130,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (g)(1), is
 
 #### Amendments
 
-1976—Subsec. (a). Pub. L. 94–588, §12(a), substituted “section 4” for “section 3” in the original, which, because of the translation as “section 1602 of this title” required no change in text.
+<b>1976</b>—Subsec. (a). Pub. L. 94–588, §12(a), substituted “section 4” for “section 3” in the original, which, because of the translation as “section 1602 of this title” required no change in text.
 
 Subsecs. (c) to (m). Pub. L. 94–588, §6, added subsecs. (c) to (m).
 

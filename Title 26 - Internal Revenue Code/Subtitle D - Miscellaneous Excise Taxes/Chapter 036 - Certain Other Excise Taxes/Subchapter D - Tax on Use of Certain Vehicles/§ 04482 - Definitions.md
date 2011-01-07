@@ -50,19 +50,19 @@ In the case of the taxable period which ends on September 30, 2011, the amount o
 
 #### Amendments
 
-2005—Subsecs. (c)(4), (d). Pub. L. 109–59 substituted “2011” for “2006” wherever appearing.
+<b>2005</b>—Subsecs. (c)(4), (d). Pub. L. 109–59 substituted “2011” for “2006” wherever appearing.
 
 Pub. L. 109–14 substituted “2006” for “2005” wherever appearing.
 
-1998—Subsecs. (c)(4), (d). Pub. L. 105–178 substituted “2005” for “1999” wherever appearing.
+<b>1998</b>—Subsecs. (c)(4), (d). Pub. L. 105–178 substituted “2005” for “1999” wherever appearing.
 
-1991—Subsecs. (c)(4), (d). Pub. L. 102–240 substituted “1999” for “1995” wherever appearing.
+<b>1991</b>—Subsecs. (c)(4), (d). Pub. L. 102–240 substituted “1999” for “1995” wherever appearing.
 
-1990—Subsecs. (c)(4), (d). Pub. L. 101–508 substituted “1995” for “1993” wherever appearing.
+<b>1990</b>—Subsecs. (c)(4), (d). Pub. L. 101–508 substituted “1995” for “1993” wherever appearing.
 
-1987—Subsecs. (c)(4), (d). Pub. L. 100–17 substituted “1993” for “1988” wherever appearing.
+<b>1987</b>—Subsecs. (c)(4), (d). Pub. L. 100–17 substituted “1993” for “1988” wherever appearing.
 
-1983—Subsec. (c). Pub. L. 97–424, §513(c)(2), inserted “and special rule” in heading.
+<b>1983</b>—Subsec. (c). Pub. L. 97–424, §513(c)(2), inserted “and special rule” in heading.
 
 Subsec. (c)(4). Pub. L. 97–424, §516(a)(4), substituted “1988” for “1984” wherever appearing.
 
@@ -70,17 +70,17 @@ Subsec. (c)(5). Pub. L. 97–424, §513(c)(1), added par. (5).
 
 Subsec. (d). Pub. L. 97–424, §513(e), added subsec. (d).
 
-1978—Subsec. (c)(4). Pub. L. 95–599 substituted “1984” for “1979” wherever appearing.
+<b>1978</b>—Subsec. (c)(4). Pub. L. 95–599 substituted “1984” for “1979” wherever appearing.
 
-1976—Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (c)(1). Pub. L. 94–455, §1904(c), substituted “State and the District of Columbia” for “State, a Territory of the United States, and the District of Columbia”.
 
 Subsec. (c)(4). Pub. L. 94–280 substituted “1979” for “1977” wherever appearing.
 
-1970—Subsec. (c)(4). Pub. L. 91–605 substituted “1977” for “1972” wherever appearing.
+<b>1970</b>—Subsec. (c)(4). Pub. L. 91–605 substituted “1977” for “1972” wherever appearing.
 
-1961—Subsec. (c)(4). Pub. L. 87–61 added par. (4).
+<b>1961</b>—Subsec. (c)(4). Pub. L. 87–61 added par. (4).
 
 #### Effective Date of 1983 Amendment
 
@@ -88,7 +88,7 @@ Amendment by section 513(c), (e) of Pub. L. 97–424 effective July 1, 1984, see
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1904(c) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
+Amendment by section 1904(c) of Pub. L. 94–455 effective on first day of first month which begins more than90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
 
 #### Effective Date of 1961 Amendment
 

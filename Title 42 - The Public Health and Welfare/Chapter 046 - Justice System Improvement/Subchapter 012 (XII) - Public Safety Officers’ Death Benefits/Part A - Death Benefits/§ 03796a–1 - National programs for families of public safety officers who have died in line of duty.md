@@ -12,7 +12,7 @@ Another prior section 1203 of Pub. L. 90–351, title VII, June 19, 1968, 82 Sta
 
 #### Amendments
 
-1998—Pub. L. 105–180 amended text generally. Prior to amendment, text read as follows: “The Director is authorized and directed to use up to $150,000 of the funds appropriated for this subchapter to establish national programs to assist the families of public safety officers who have died in the line of duty.”
+<b>1998</b>—Pub. L. 105–180 amended text generally. Prior to amendment, text read as follows: “The Director is authorized and directed to use up to $150,000 of the funds appropriated for this subchapter to establish national programs to assist the families of public safety officers who have died in the line of duty.”
 
 #### Transfer of Functions
 

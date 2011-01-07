@@ -1,6 +1,6 @@
 ### §2519. Reports concerning intercepted wire, oral, or electronic communications
 
-(1) Within thirty days after the expiration of an order (or each extension thereof) entered under section 2518, or the denial of an order approving an interception, the issuing or denying judge shall report to the Administrative Office of the United States Courts—
+(1) In January of each year, any judge who has issued an order (or an extension thereof) under section 2518 that expired during the preceding year, or who has denied approval of an interception during that year, shall report to the Administrative Office of the United States Courts—
 
 &emsp;(a) the fact that an order or extension was applied for;
 
@@ -12,11 +12,11 @@
 
 &emsp;(e) the offense specified in the order or application, or extension of an order;
 
-&emsp;(f) the identity of the applying investigative or law enforcement officer and agency makingthe application and the person authorizing the application; and
+&emsp;(f) the identity of the applying investigative or law enforcement officer and agency making the application and the person authorizing the application; and
 
 &emsp;(g) the nature of the facilities from which or the place where communications were to be intercepted.
 
-(2) In January of each year the Attorney General, an Assistant Attorney General specially designated by the Attorney General, or the principal prosecuting attorney of a State, or the principal prosecuting attorney for any political subdivision of a State, shall report to the Administrative Office of the United States Courts—
+(2) In March of each year the Attorney General, an Assistant Attorney General specially designated by the Attorney General, or the principal prosecuting attorney of a State, or the principal prosecuting attorney for any political subdivision of a State, shall report to the Administrative Office of the United States Courts—
 
 &emsp;(a) the information required by paragraphs (a) through (g) of subsection (1) of this section with respect to each application for an order or extension made during the preceding calendar year;
 
@@ -32,21 +32,27 @@
 
 &emsp;(g) the information required by paragraphs (b) through (f) of this subsection with respect to orders or extensions obtained in a preceding calendar year.
 
-(3) In April of each year the Director of the Administrative Office of the United States Courts shall transmit to the Congress a full and complete report concerning the number of applications for orders authorizing or approving the interception of wire, oral, or electronic communications pursuant to this chapter and the number of orders and extensions granted or denied pursuant to this chapter during the preceding calendar year. Such report shall include a summary and analysis of the data required to be filed with the Administrative Office by subsections (1) and (2) of this section. The Director of the Administrative Office of the United States Courts is authorized to issue binding regulations dealing with the content and form of the reports required to be filed by subsections (1) and (2) of this section.
+(3) In June of each year the Director of the Administrative Office of the United States Courts shall transmit to the Congress a full and complete report concerning the number of applications for orders authorizing or approving the interception of wire, oral, or electronic communications pursuant to this chapter and the number of orders and extensions granted or denied pursuant to this chapter during the preceding calendar year. Such report shall include a summary and analysis of the data required to be filed with the Administrative Office by subsections (1) and (2) of this section. The Director of the Administrative Office of the United States Courts is authorized to issue binding regulations dealing with the content and form of the reports required to be filed by subsections (1) and (2) of this section.
 
-(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 222; amended Pub. L. 95–511, title II, §201(h), Oct. 25, 1978, 92 Stat. 1798; Pub. L. 99–508, title I, §§101(c)(1)(A), 106(d)(4), Oct. 21, 1986, 100 Stat. 1851, 1857; Pub. L. 106–197, §2(a), May 2, 2000, 114 Stat. 247.)
+(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 222; amended Pub. L. 95–511, title II, §201(h), Oct. 25, 1978, 92 Stat. 1798; Pub. L. 99–508, title I, §§101(c)(1)(A), 106(d)(4), Oct. 21, 1986, 100 Stat. 1851, 1857; Pub. L. 106–197, §2(a), May 2, 2000, 114 Stat. 247; Pub. L. 111–174, §6, May 27, 2010, 124 Stat. 1217.)
 
 #### Amendments
 
-2000—Par. (2)(b)(iv), (v). Pub. L. 106–197 added cl. (iv) and redesignated former cl. (iv) as (v).
+<b>2010</b>—Par. (1). Pub. L. 111–174, §6(1), substituted “In January of each year, any judge who has issued an order (or an extension thereof) under section 2518 that expired during the preceding year, or who has denied approval of an interception during that year,” for “Within thirty days after the expiration of an order (or each extension thereof) entered under section 2518, or the denial of an order approving an interception, the issuing or denying judge” in introductory provisions.
 
-1986—Pub. L. 99–508, §101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in section catchline.
+Par. (2). Pub. L. 111–174, §6(2), substituted “In March of each year” for “In January of each year” in introductory provisions.
+
+Par. (3). Pub. L. 111–174, §6(3), substituted “In June of each year” for “In April of each year”.
+
+<b>2000</b>—Par. (2)(b)(iv), (v). Pub. L. 106–197 added cl. (iv) and redesignated former cl. (iv) as (v).
+
+<b>1986</b>—Pub. L. 99–508, §101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in section catchline.
 
 Par. (1)(b). Pub. L. 99–508, §106(d)(4), inserted “(including whether or not the order was an order with respect to which the requirements of sections 2518(1)(b)(ii) and 2518(3)(d) of this title did not apply by reason of section 2518(11) of this title)”.
 
 Par. (3). Pub. L. 99–508, §101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral”.
 
-1978—Par. (3). Pub. L. 95–511 inserted “pursuant to this chapter” after “wire or oral communications” and “granted or denied”.
+<b>1978</b>—Par. (3). Pub. L. 95–511 inserted “pursuant to this chapter” after “wire or oral communications” and “granted or denied”.
 
 #### Effective Date of 1986 Amendment
 
@@ -54,7 +60,7 @@ Amendment by Pub. L. 99–508 effective 90 days after Oct. 21, 1986, and, in cas
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–511 effective Oct. 25, 1978, except as specifically provided, see section 401 of Pub. L. 95–511, formerly set out as an Effective Date note under section 1801 of Title 50, War and National Defense.
+Amendment by Pub. L. 95–511 effective Oct. 25, 1978, except as specifically provided, see section 401 of Pub.L. 95–511, formerly set out as an Effective Date note under section 1801 of Title 50, War and National Defense.
 
 #### Report on Use of DCS 1000 (Carnivore) To Implement Orders Under Section 2518
 

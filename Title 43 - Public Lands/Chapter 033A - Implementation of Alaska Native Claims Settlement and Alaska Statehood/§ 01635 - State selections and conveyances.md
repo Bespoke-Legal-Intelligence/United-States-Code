@@ -4,7 +4,7 @@
 
 #### (b) School lands settlement
 
-(1) In full and final settlement of any and all claims by the State of Alaska arising under the Act of March 4, 1915 (38 Stat. 1214), as confirmed and transferred in section 6(k) of the Alaska Statehood Act, the State is hereby granted seventy-five thousand acres which it shall be entitled to select until January 4, 1994, from vacant, unappropriated, and unreserved public lands. Inexercising the selection rights granted herein, the State shall be deemed to have relinquished all claims to any right, title, or interest to any school lands which failed to vest under the above statutes at the time Alaska became a State (January 3, 1959), including lands unsurveyed on that date or surveyed lands which were within Federal reservations or withdrawals on that date.
+(1) In full and final settlement of any and all claims by the State of Alaska arising under the Act of March 4, 1915 (38 Stat. 1214), as confirmed and transferred in section 6(k) of the Alaska Statehood Act, the State is hereby granted seventy-five thousand acres which it shall be entitled to select until January 4, 1994, from vacant, unappropriated, and unreserved public lands. In exercising the selection rights granted herein, the State shall be deemed to have relinquished all claims to any right, title, or interest to any school lands which failed to vest under the above statutes at the time Alaska became a State (January 3, 1959), including lands unsurveyed on that date or surveyed lands which were within Federal reservations or withdrawals on that date.
 
 (2) Except as provided herein, such selections shall be made in conformance with the provisions for selections under section 6(b) of the Alaska Statehood Act. Selections made under this subsection shall be in units of whole sections as shown on the official survey plats of the Bureau of Land Management, including protraction diagrams, unless part of the section is unavailable or the land is otherwise surveyed, or unless the Secretary waives the whole section requirement.
 
@@ -36,7 +36,7 @@
 
 #### (e) Future “top filings”
 
-Subject to valid existing rights and Native selection rights under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], the State, at its option, may file future selection applications and amendments thereto, pursuant to section 6(a) or (b) of the Alaska Statehood Act or subsection (b) of this section, for lands which are not, on the date of filing of such applications, available within the meaning of section 6(a) or (b) of the Alaska Statehood Act, other than lands within any conservation system unit or the National Petroleum Reserve—Alaska. Each such selection application, if otherwisevalid, shall become an effective selection without further action by the State upon the date the lands included in such application become available within the meaning of subsection (a) or (b) of section 6 regardless of whether such date occurs before or after expiration of the State's land selection rights. Selection applications heretofore filed by the State may be refiled so as to become subject to the provisions of this subsection; except that no such refiling shall prejudice any claim of validity which may be asserted regarding the original filing of such application. Nothing contained in this subsection shall be construed to prevent the United States from transferring a Federal reservation or appropriation from one Federal agency to another Federal agency for the use and benefit of the Federal Government.
+Subject to valid existing rights and Native selection rights under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], the State, at its option, may file future selection applications and amendments thereto, pursuant to section 6(a) or (b) of the Alaska Statehood Act or subsection (b) of this section, for lands which are not, on the date of filing of such applications, available within the meaning of section 6(a) or (b) of the Alaska Statehood Act, other than lands within any conservation system unit or the National Petroleum Reserve—Alaska. Each such selection application, if otherwise valid, shall become an effective selection without further action by the State upon the date the lands included in such application become available within the meaning of subsection (a) or (b) of section 6 regardless of whether such date occurs before or after expiration of the State's land selection rights. Selection applications heretofore filed by the State may be refiled so as to become subject to the provisions of this subsection; except that no such refiling shall prejudice any claim of validity which may be asserted regarding the original filing of such application. Nothing contained in this subsection shall be construed to prevent the United States from transferring a Federal reservation or appropriation from one Federal agency to another Federal agency for the use and benefit of the Federal Government.
 
 #### (f) Right to overselect
 
@@ -70,7 +70,7 @@ In furtherance of the State's entitlement to lands under section 6(b) of the Ala
 
 (3) Upon approval of a land survey by the Secretary, those lands identified in subsection (g) of this section shall be patented to the State of Alaska.
 
-(4) If the State elects to receive patent to any of the lands which are identified in subsection (g) of this section on the basis of protraction surveys in lieu of field surveys, the Secretary shall issue patent to the State on that basis within six months after notice of such election for townships having no adverse claims on the public land records. For townships having such adverse claims of record, patent on the basis of protraction surveys shall be issued as soon as practicable after such election.
+(4) If the State elects to receive patent to any of the lands which are identified in subsection\(g) of this section on the basis of protraction surveys in lieu of field surveys, the Secretary shall issue patent to the State on that basis within six months after notice of such election for townships having no adverse claims on the public land records. For townships having such adverse claims of record, patent on the basis of protraction surveys shall be issued as soon as practicable after such election.
 
 #### (i) Adjudication
 
@@ -78,7 +78,7 @@ Nothing contained in this section shall relieve the Secretary of the duty to adj
 
 #### (j) Clarification of land status outside units
 
-As to lands outside the boundaries of a conservation system unit, National Recreation Areas, National Conservation Areas, new national forests and forest additions, the following withdrawals, classifications, or designations shall not, of themselves, remove the lands involved from the status of vacant, unappropriated, and unreserved lands for the purposes ofsubsection (d) or (g) of this section and future State selections pursuant to the Alaska Statehood Act or subsection (b) of this section:
+As to lands outside the boundaries of a conservation system unit, National Recreation Areas, National Conservation Areas, new national forests and forest additions, the following withdrawals, classifications, or designations shall not, of themselves, remove the lands involved from the status of vacant, unappropriated, and unreserved lands for the purposes of subsection (d) or (g) of this section and future State selections pursuant to the Alaska Statehood Act or subsection (b) of this section:
 
 &emsp;(1) withdrawals for classification pursuant to section 17(d)(1) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1616(d)(1)\]; except that, in accordance with the Memorandum of Understanding between the United States and the State of Alaska dated September 2, 1972, to the extent that Public Land Orders Numbered 5150, 5151, 5181, 5182, 5184, 5187, 5190, 5194, and 5388 by their terms continue to prohibit State selections of certain lands, such lands shall remain unavailable for future State selection except as provided by subsection (e) of this Act; <sup>1</sup>
 
@@ -104,11 +104,11 @@ Notwithstanding any other provision of law, on lands selected by, or granted or 
 
 (1) All conveyances to the State under section 6 of the Alaska Statehood Act, this Act, or any other law, shall be subject to valid existing rights, to Native selection rights under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], and to any right-of-way or easement reserved for or appropriated by the United States prior to selection of the underlying lands by the State of Alaska.
 
-(2) Where, prior to a conveyance to the State, a right-of-way or easement has been reserved for or appropriated by the United States or a contract, lease, permit, right-of-way, or easement has been issued for the lands, the conveyance shall contain provisions making it subject to the right-of-way or easement reserved or appropriated and to the contract, lease, license, permit, right-of-way, or easement issued or granted, and also subject to the right of the United States, contractee, lessee, licensee, permittee, or grantee to the complete enjoyment of all rights, privileges, and benefits previously granted, issued, reserved, or appropriated. Upon issuance of tentative approval, the State shall succeed and become entitled to any and all interests of the United States as contractor, lessor, licensor, permittor,<sup>2</sup> or grantor, in any such contracts, leases, licenses, permits, rights-of-way, or easements, except those reserved to the United States in the tentative approval.
+(2) Where, prior to a conveyance to the State, a right-of-way or easement has been reserved for or appropriated by the United States or a contract, lease, permit, right-of-way, or easement has been issued for the lands, the conveyance shall contain provisions making it subject tothe right-of-way or easement reserved or appropriated and to the contract, lease, license, permit, right-of-way, or easement issued or granted, and also subject to the right of the United States, contractee, lessee, licensee, permittee, or grantee to the complete enjoyment of all rights, privileges, and benefits previously granted, issued, reserved, or appropriated. Upon issuance of tentative approval, the State shall succeed and become entitled to any and all interests of the United States as contractor, lessor, licensor, permittor,<sup>2</sup> or grantor, in any such contracts, leases, licenses, permits, rights-of-way, or easements, except those reserved to the United States in the tentative approval.
 
 (3) The administration of rights-of-way or easements reserved to the United States in the tentative approval shall be in the United States, including the right to grant an interest in such right-of-way or easement in whole or in part.
 
-(4) Where the lands tentatively approved do not include all of the land involved with any contract, lease, license, permit, right-of-way, or easement issued or granted, the administrationof such contract, lease, license, permit, right-of-way, or easement shall remain in the United States unless the agency responsible for administration waives such administration.
+(4) Where the lands tentatively approved do not include all of the land involved with any contract, lease, license, permit, right-of-way, or easement issued or granted, the administration of such contract, lease, license, permit, right-of-way, or easement shall remain in the United States unless the agency responsible for administration waives such administration.
 
 (5) Nothing in this subsection shall relieve the State or the United States of any obligations under section 9 of the Alaska Native Claims Settlement Act \[43 U.S.C. 1608\] or the fourth sentence of section 6(h) of the Alaska Statehood Act.
 
@@ -142,7 +142,7 @@ The second proviso of section 6(b) of the Alaska Statehood Act regarding Preside
 
 Act of March 4, 1915, as confirmed and transferred in section 6(k) of the Alaska Statehood Act, referred to in subsec. (b)(1), is act Mar. 4, 1915, ch. 181, §1, 38 Stat. 1214, which was classified to section 353 of Title 48, Territories and Insular Possessions, and was repealed by section 6(k) of the Alaska Statehood Act, Pub. L. 85–508, §6(k), July 7, 1958, 72 Stat. 343. See section 6(k) of the Alaska Statehood Act set out as a note preceding section 21 of Title 48.
 
-The Alaska Statehood Act, referred to in text, is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48. For complete classification of this Act to the Code, see Tables.
+The Alaska Statehood Act, referred to in text, is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, whichis set out as a note preceding section 21 of Title 48. For complete classification of this Act to the Code, see Tables.
 
 The Alaska Native Claims Settlement Act, referred to in subsecs. (c)(1), (d)(1), (2), (6), (e), (h)(1), (<i>l</i>)(1), and (<i>o</i>)(1), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
@@ -152,7 +152,7 @@ The Classification and Multiple Use Act, referred to in subsec. (j)(3), probably
 
 The National Forest Management Act, as amended, referred to in subsec. (j)(4), probably means the National Forest Management Act of 1976, Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of Title 16, Conservation, and Tables.
 
-The Federal Land Policy and Management Act, referred to in subsec. (j)(5), probably means the FederalLand Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
+The Federal Land Policy and Management Act, referred to in subsec. (j)(5), probably means the Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
 Section 12 of the Act January 2, 1976 (Public Law 94–204), referred to in subsec. (n)(1) and (2), is section 12 of Pub. L. 94–204, Jan. 2, 1976, 89 Stat. 1150, as amended, which is set out as a note under section 1611 of this title.
 
@@ -172,7 +172,7 @@ In subsec. (j)(5), “December 2, 1980” substituted for “the effective date 
 
 #### Amendments
 
-2004—Subsec. (h)(2). Pub. L. 108–452 designated first sentence as subpar. (A) and second sentence as cl. (i) of subpar. (B) and added cl. (ii) of subpar. (B).
+<b>2004</b>—Subsec. (h)(2). Pub. L. 108–452 designated first sentence as subpar. (A) and second sentence as cl. (i) of subpar. (B) and added cl. (ii) of subpar. (B).
 
 #### Selection of Certain Reversionary Interests Held by the United States
 

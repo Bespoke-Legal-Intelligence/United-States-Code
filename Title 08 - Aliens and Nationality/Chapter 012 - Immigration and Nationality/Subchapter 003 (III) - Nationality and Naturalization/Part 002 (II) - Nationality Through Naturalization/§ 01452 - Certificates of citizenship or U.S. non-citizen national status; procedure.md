@@ -26,6 +26,8 @@ Act May 7, 1934 (48 Stat. 667), referred to in subsec. (a), which was classified
 
 Act Aug. 4, 1937, referred to in subsec. (a), which was classified to sections 5d and 5e of this title, was repealed by act Oct. 14, 1940, ch. 876, title I, subch. V, §504, 54 Stat. 1172.
 
+This chapter, referred to in subsecs. (a) and (b)(2), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+
 #### Amendments
 
 1994—Subsec. (c). Pub. L. 103–416 struck out subsec. (c) which related to application to Attorney General for certificate of citizenship for adopted child.
@@ -44,7 +46,7 @@ Subsec. (c). Pub. L. 99–653, as amended by Pub. L. 100–525, added subsec. (c
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–416 effective on the first day of the first month beginning more than 120 daysafter Oct. 25, 1994, see section 102(d) of Pub. L. 103–416, set out as a note under section 1433 of this act.
+Amendment by Pub. L. 103–416 effective on the first day of the first month beginning more than 120 days after Oct. 25, 1994, see section 102(d) of Pub. L. 103–416, set out as a note under section 1433 of this act.
 
 #### Effective Date of 1991 Amendment
 

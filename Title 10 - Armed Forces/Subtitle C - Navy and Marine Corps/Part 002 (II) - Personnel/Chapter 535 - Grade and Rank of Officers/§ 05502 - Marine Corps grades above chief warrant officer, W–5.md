@@ -56,13 +56,13 @@ Aug. 7, 1947, ch. 512, §415(a) (as applicable to grade of lieutenant general), 
 
 Jan. 20, 1942, ch. 10, §1, 56 Stat. 10; Aug. 7, 1947, ch. 512, §429 (as applicable to grade of general), 61 Stat. 880.
 
-R.S. 1603 provides that officers of the Marine Corps shall be on the same footing as officers of similar grades in the Army. Recognition is made of the gradesexisting in the Army for the purpose of listing the grades authorized for the Marine Corps.
+R.S. 1603 provides that officers of the Marine Corps shall be on the same footing as officers of similar grades in the Army. Recognition is made of the grades existing in the Army for the purpose of listing the grades authorized for the Marine Corps.
 
 The provisions of the Act of July 1, 1918, ch. 114, 40 Stat. 715 (1st par.), pertaining to the appointment of a major general in addition to the Major General Commandant and a temporary major general were superseded by the Act of May 29, 1934, ch. 367, §2, 48 Stat. 812, which in turn was repealed by §436(e) of the Officer Personnel Act of 1947, 61 Stat. 882.
 
 #### Amendments
 
-1991—Pub. L. 102–190 substituted “W–5” for “W–4” in section catchline and text.
+<b>1991</b>—Pub. L. 102–190 substituted “W–5” for “W–4” in section catchline and text.
 
 #### Effective Date of 1991 Amendment
 

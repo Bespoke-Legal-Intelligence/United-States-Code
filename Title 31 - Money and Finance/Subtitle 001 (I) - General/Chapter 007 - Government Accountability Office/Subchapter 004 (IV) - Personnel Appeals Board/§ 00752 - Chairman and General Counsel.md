@@ -48,9 +48,9 @@ In subsection (b)(3)(D), the word “otherwise” is omitted as surplus. The wor
 
 #### Amendments
 
-2004—Subsec. (b)(3)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (b)(3)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1988—Subsec. (b)(2). Pub. L. 100–426 substituted “The rate of basic pay of the General Counsel may be not more than the maximum rate of basic pay payable for grade GS–16 of the General Schedule” for “The annual rate of basic pay of the General Counsel may be not more than the maximum rate for GS–15”.
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–426 substituted “The rate of basic pay of the General Counsel may be not more than the maximum rate of basic pay payable for grade GS–16 of the General Schedule” for “The annual rate of basic pay of the General Counsel may be not more than the maximum rate for GS–15”.
 
 #### Change of Name
 

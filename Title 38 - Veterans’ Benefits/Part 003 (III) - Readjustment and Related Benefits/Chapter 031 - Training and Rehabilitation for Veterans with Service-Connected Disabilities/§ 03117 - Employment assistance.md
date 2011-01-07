@@ -26,13 +26,13 @@ Prior section 3117 was renumbered section 5317 of this title.
 
 #### Amendments
 
-2006—Subsec. (b)(1). Pub. L. 109–233 substituted “section 4(b)(1)” for “section 8” and “633(b)(1)” for “633(b)”.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–233 substituted “section 4(b)(1)” for “section 8” and “633(b)(1)” for “633(b)”.
 
-2002—Subsec. (a)(2)(B). Pub. L. 107–288 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “utilization of the services of disabled veterans outreach program specialists under section 4103A of this title; and”.
+<b>2002</b>—Subsec. (a)(2)(B). Pub. L. 107–288 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “utilization of the services of disabled veterans outreach program specialists under section 4103A of this title; and”.
 
-1996—Subsec. (a)(1). Pub. L. 104–275 inserted “rated at 10 percent or more” after “disability”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–275 inserted “rated at 10 percent or more” after “disability”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1517 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1517 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 102–54, §14(c)(4)(A), inserted “(29 U.S.C. 701 et seq.)” after “1973”.
 
@@ -42,11 +42,11 @@ Subsec. (a)(2)(C)(v). Pub. L. 102–54, §14(c)(4)(B), struck out second period 
 
 Subsec. (b)(2). Pub. L. 102–83, §5(c)(1), substituted “3104(a)” for “1504(a)”.
 
-1989—Subsecs. (a)(1), (2)(C), (b). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Subsecs. (a)(1), (2)(C), (b). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-1988—Subsec. (a)(2)(C). Pub. L. 100–689 struck out “and” at end of subcl. (iii), substituted “available, and” for “available” in subcl. (iv), and added subcl. (v).
+<b>1988</b>—Subsec. (a)(2)(C). Pub. L. 100–689 struck out “and” at end of subcl. (iii), substituted “available, and” for “available” in subcl. (iv), and added subcl. (v).
 
-1981—Subsec. (b)(1). Pub. L. 97–72 inserted provision requiring the Administrator to assist veterans in securing, as appropriate, a loan under subchapter IV of chapter 37 of this title.
+<b>1981</b>—Subsec. (b)(1). Pub. L. 97–72 inserted provision requiring the Administrator to assist veterans in securing, as appropriate, a loan under subchapter IV of chapter 37 of this title.
 
 #### Effective Date of 1981 Amendment
 

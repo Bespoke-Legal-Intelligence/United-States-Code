@@ -6,7 +6,7 @@ The Joint Committee or the Chief of Staff of the Joint Committee, upon approval 
 
 #### (b) Furnishing of data
 
-The Internal Revenue Service, the office of the Chief Counsel for the Internal Revenue Service, executive departments, boards, bureaus, agencies, independent establishments, and instrumentalities are authorized and directed to furnish such information, suggestions, rulings, data, estimates, and statistics directly to the Joint Committee or to the Chief of Staff of the Joint Committee, upon request made pursuant to this section.
+The Internal Revenue Service, the office of the Chief Counsel for the Internal Revenue Service, executive departments, boards, bureaus, agencies, independent establishments, and instrumentalities are authorized and directed to furnish such information, suggestions, rulings, data, estimates, and statistics directly to the Joint Committee or to the Chief of Staff of theJoint Committee, upon request made pursuant to this section.
 
 #### (c) Application of subsections (a) and (b)
 
@@ -20,11 +20,11 @@ The date of the enactment of this subsection, referred to in subsec. (c), is Aug
 
 #### Amendments
 
-1976—Subsec. (a). Pub. L. 94–455, §1210(c), inserted provision that in investigation by Joint Committee on Taxation of the administration of the internal revenue taxes by the Internal Revenue Service, the Chief of Staff of the Joint Committee on Taxation is authorized to secure directly from the Internal Revenue Service such tax returns, or copies of tax returns, and other relevant information, as the Chief of Staff deems necessary for such investigation, and the Internal Revenue Service is authorized and directed to furnish such tax returns and information to the Chief of Staff together with a brief report, with respect to each return, as toany action taken or proposed to be taken by the Service as a result of any audit of the return.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1210(c), inserted provision that in investigation by Joint Committee on Taxation of the administration of the internal revenue taxes by the Internal Revenue Service, the Chief of Staff of the Joint Committee on Taxation is authorized to secure directly from the Internal Revenue Service such tax returns, or copies of tax returns, and other relevant information, as the Chief of Staff deems necessary for such investigation, and the Internal Revenue Service is authorized and directed to furnish such tax returns and information to the Chief of Staff together with a brief report, with respect to each return, as to any action taken or proposed to be taken by the Service as a result of any audit of the return.
 
 Subsec. (c). Pub. L. 94–455, §1907(a)(4), substituted “any” for “Reorganization Plan Numbered 26 of 1950 or to any other” after “without regard to” and “the date of the enactment of this subsection” for “February 28, 1951” after “before, or after”.
 
-1959—Subsec. (a). Pub. L. 86–368, §2(b)(1), substituted “or the office of the Chief Counsel for the Internal Revenue Service” for “(including the Assistant General Counsel of the Treasury Department serving as the Chief Counsel of the Internal Revenue Service)”.
+<b>1959</b>—Subsec. (a). Pub. L. 86–368, §2(b)(1), substituted “or the office of the Chief Counsel for the Internal Revenue Service” for “(including the Assistant General Counsel of the Treasury Department serving as the Chief Counsel of the Internal Revenue Service)”.
 
 Subsec. (b). Pub. L. 86–368, §2(b)(2), substituted “, the office of the Chief Counsel for the Internal Revenue Service” for “(including the Assistant General Counsel of the Treasury Department serving as the Chief Counsel of the Internal Revenue Service)”.
 

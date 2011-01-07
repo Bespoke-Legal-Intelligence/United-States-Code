@@ -16,11 +16,11 @@ Whenever an order is issued under this subsection granting relief to a miner at 
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–509 amended seventh sentence generally, substituting “determined under section 5372 of title 5” for “not less than that prescribed for GS–16 under section 5332 of title 5”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–509 amended seventh sentence generally, substituting “determined under section 5372 of title 5” for “not less than that prescribed for GS–16 under section 5332 of title 5”.
 
-1978—Subsec. (b). Pub. L. 95–251 substituted “administrative law judge” for “hearing examiner”.
+<b>1978</b>—Subsec. (b). Pub. L. 95–251 substituted “administrative law judge” for “hearing examiner”.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
 

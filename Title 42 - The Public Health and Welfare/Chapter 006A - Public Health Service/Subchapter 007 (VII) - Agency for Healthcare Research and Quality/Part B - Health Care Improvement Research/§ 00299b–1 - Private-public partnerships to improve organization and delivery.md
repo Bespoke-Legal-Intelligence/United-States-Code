@@ -86,5 +86,5 @@ A prior section 299b–1, act July 1, 1944, ch. 373, title IX, §912, as added P
 
 #### Amendments
 
-2005—Subsec. (c). Pub. L. 109–41 inserted “, in accordance with part C of this subchapter,” after “The Director shall” in introductory provisions.
+<b>2005</b>—Subsec. (c). Pub. L. 109–41 inserted “, in accordance with part C of this subchapter,” after “The Director shall” in introductory provisions.
 

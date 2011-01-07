@@ -36,7 +36,7 @@ A local educational agency is not liable for any civil penalty under subchapter 
 
 #### (d) Citizen complaints
 
-Any person may file a complaint with the Administrator or with the Governor of the State inwhich the school building is located with respect to asbestos-containing material in a school building. If the Administrator or Governor receives a complaint under this subsection containing allegations which provide a reasonable basis to believe that a violation of this chapter has occurred, the Administrator or Governor shall investigate and respond (including taking enforcement action where appropriate) to the complaint within a reasonable period of time.
+Any person may file a complaint with the Administrator or with the Governor of the State in which the school building is located with respect to asbestos-containing material in a school building. If the Administrator or Governor receives a complaint under this subsection containing allegations which provide a reasonable basis to believe that a violation of this chapter has occurred, the Administrator or Governor shall investigate and respond (including taking enforcement action where appropriate) to the complaint within a reasonable period of time.
 
 #### (e) Citizen petitions
 
@@ -72,9 +72,9 @@ Any contractor who—
 
 #### Amendments
 
-1990—Subsec. (g). Pub. L. 101–637 added subsec. (g).
+<b>1990</b>—Subsec. (g). Pub. L. 101–637 added subsec. (g).
 
-1988—Subsec. (a)(4), (5). Pub. L. 100–368 added pars. (4) and (5).
+<b>1988</b>—Subsec. (a)(4), (5). Pub. L. 100–368 added pars. (4) and (5).
 
 #### Effective Date of 1990 Amendment
 

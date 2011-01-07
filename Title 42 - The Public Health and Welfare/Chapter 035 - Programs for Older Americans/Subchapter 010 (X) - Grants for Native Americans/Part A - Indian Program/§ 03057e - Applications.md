@@ -66,13 +66,13 @@ A prior section 3057e, Pub. L. 89–73, title VI, §606, as added Pub. L. 95–4
 
 #### Amendments
 
-2000—Subsec. (a)(9) to (12). Pub. L. 106–501, §801(d), redesignated pars. (10) to (12) as (9) to (11), respectively, and struck out former par. (9) which read as follows: “contain assurances that the provisions of sections 3027(a)(14)(A)(i) and (iii), 3027(a)(14)(B), and 3027(a)(14)(C) of this title will be complied with whenever the application contains provisions for the acquisition, alteration, or renovation of facilities to serve as multipurpose senior centers;”.
+<b>2000</b>—Subsec. (a)(9) to (12). Pub. L. 106–501, §801(d), redesignated pars. (10) to (12) as (9) to (11), respectively, and struck out former par. (9) which read as follows: “contain assurances that the provisions of sections 3027(a)(14)(A)(i) and (iii), 3027(a)(14)(B), and 3027(a)(14)(C) of this title will be complied with whenever the application contains provisions for the acquisition, alteration, or renovation of facilities to serve as multipurpose senior centers;”.
 
 Subsec. (b). Pub. L. 106–501, §602(1), substituted “approval” for “certification”.
 
 Subsec. (c). Pub. L. 106–501, §602(2), designated existing provisions as par. (1) and added pars. (2) to (4).
 
-1993—Subsec. (a). Pub. L. 103–171, §3(a)(13), substituted “Assistant Secretary” for “Commissioner” wherever appearing in introductory provisions and in par. (3).
+<b>1993</b>—Subsec. (a). Pub. L. 103–171, §3(a)(13), substituted “Assistant Secretary” for “Commissioner” wherever appearing in introductory provisions and in par. (3).
 
 Subsec. (c). Pub. L. 103–171, §2(21), substituted “Assistant Secretary” for “Commission”.
 
@@ -80,7 +80,7 @@ Subsec. (d). Pub. L. 103–171, §§2(21), 3(a)(13), in introductory provisions,
 
 Subsec. (e). Pub. L. 103–171, §3(a)(13), substituted “Assistant Secretary” for “Commissioner”.
 
-1992—Subsec. (a)(1). Pub. L. 102–375, §904(a)(23)(C), inserted “individuals who are” after “older”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–375, §904(a)(23)(C), inserted “individuals who are” after “older”.
 
 Subsec. (a)(6). Pub. L. 102–375, §§102(b)(4), 904(a)(23)(C), substituted “information and assistance” for “information and referral” and inserted “individuals who are” after “older”.
 

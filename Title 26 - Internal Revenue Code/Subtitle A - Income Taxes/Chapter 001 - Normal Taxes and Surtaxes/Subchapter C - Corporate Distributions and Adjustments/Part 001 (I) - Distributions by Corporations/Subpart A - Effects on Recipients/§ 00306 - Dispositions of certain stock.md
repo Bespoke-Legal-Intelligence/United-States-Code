@@ -128,7 +128,7 @@ For purposes of subsection (c)—
 
 #### (f) Source of gain
 
-The amount treated under subsection (a)(1)(A) as ordinary income shall, for purposes of part I of subchapter N (sec. 861 and following, relating to determination of sources of income), be treated as derived from the same source as would have been the source if money had been received from the corporation as a dividend at the time of the distribution of such stock. If under thepreceding sentence such amount is determined to be derived from sources within the United States, such amount shall be considered to be fixed or determinable annual or periodical gains, profits, and income within the meaning of section 871(a) or section 881(a), as the case may be.
+The amount treated under subsection (a)(1)(A) as ordinary income shall, for purposes of part I of subchapter N (sec. 861 and following, relating to determination of sources of income), be treated as derived from the same source as would have been the source if money had been received from the corporation as a dividend at the time of the distribution of such stock. If under the preceding sentence such amount is determined to be derived from sources within the United States, such amount shall be considered to be fixed or determinable annual or periodical gains, profits, and income within the meaning of section 871(a) or section 881(a), as the case may be.
 
 #### (g) Change in terms and conditions of stock
 
@@ -148,17 +148,17 @@ If a substantial change is made in the terms and conditions of any stock, then, 
 
 #### Amendments
 
-2003—Subsec. (a)(1)(D). Pub. L. 108–27, §§302(e)(3), 303, temporarily added subpar. (D). See Effective and Termination Dates of 2003 Amendment note below.
+<b>2003</b>—Subsec. (a)(1)(D). Pub. L. 108–27, §§302(e)(3), 303, temporarily added subpar. (D). See Effective and Termination Dates of 2003 Amendment note below.
 
-1990—Subsec. (h). Pub. L. 101–508 struck out subsec. (h) which related to stock received in distributions and reorganizations to which 1939 Code applied.
+<b>1990</b>—Subsec. (h). Pub. L. 101–508 struck out subsec. (h) which related to stock received in distributions and reorganizations to which 1939 Code applied.
 
-1984—Subsec. (b)(1). Pub. L. 98–369, §712(i)(2), substituted “interest, etc.” for “interest” in heading.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–369, §712(i)(2), substituted “interest, etc.” for “interest” in heading.
 
 Subsec. (c)(3). Pub. L. 98–369, §712(<i>l</i>)(6), incorporated existing second sentence in provision designated subpar. (A) and added subpar. (B).
 
 Subsec. (c)(4). Pub. L. 98–369, §712(<i>l</i>)(5)(B), substituted “the rules of section 304(c)(3)(B) shall apply” for “sections 318(a)(2)(C) and 318(a)(3)(C) shall be applied without regard to the 50 percent limitation contained therein”.
 
-1982—Subsec. (b)(1)(B). Pub. L. 97–248, §222(e)(2), substituted “paragraph (3) or (4) of section 302(b)” for “section 302(b)(3)”.
+<b>1982</b>—Subsec. (b)(1)(B). Pub. L. 97–248, §222(e)(2), substituted “paragraph (3) or (4) of section 302(b)” for “section 302(b)(3)”.
 
 Subsec. (b)(2). Pub. L. 97–248, §222(e)(1)(A), struck out “partial or” before “complete liquidation”.
 
@@ -166,13 +166,13 @@ Subsec. (c)(3). Pub. L. 97–248, §226(b), added par. (3).
 
 Subsec. (c)(4). Pub. L. 97–248, §227(a), added par. (4).
 
-1980—Subsecs. (a)(3), (b)(5). Pub. L. 96–223 repealed the amendments made by Pub. L. 95–600, §702(a)(1), (2). See 1978 Amendment notes below.
+<b>1980</b>—Subsecs. (a)(3), (b)(5). Pub. L. 96–223 repealed the amendments made by Pub. L. 95–600, §702(a)(1), (2). See 1978 Amendment notes below.
 
-1978—Subsec. (a)(3). Pub. L. 95–600, §702(a)(1), added par. (3) which related to ordinary income from the sale or redemption of section 306 stock which was carryover basis property adjusted for 1976 value. See Repeals note below.
+<b>1978</b>—Subsec. (a)(3). Pub. L. 95–600, §702(a)(1), added par. (3) which related to ordinary income from the sale or redemption of section 306 stock which was carryover basis property adjusted for 1976 value. See Repeals note below.
 
 Subsec. (b)(5). Pub. L. 95–600, §702(a)(2), added par. (5) which provided that subsec. (a) of this section shall not apply to the extent that section 303 applies to a distribution in redemption of section 306 stock. See Repeals note below.
 
-1976—Subsec. (a)(1)(A), (B)(i). Pub. L. 94–455, §1901(b)(3)(J), substituted “ordinary income” for “gain from the sale of property which is not a capital asset”.
+<b>1976</b>—Subsec. (a)(1)(A), (B)(i). Pub. L. 94–455, §1901(b)(3)(J), substituted “ordinary income” for “gain from the sale of property which is not a capital asset”.
 
 Subsec. (b)(4). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
@@ -182,7 +182,7 @@ Subsec. (f). Pub. L. 94–455, §1901(b)(3)(J), substituted “ordinary income�
 
 Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as a note under section 1 of this title.
 
-Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
+Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
 
 #### Effective Date of 1984 Amendment
 

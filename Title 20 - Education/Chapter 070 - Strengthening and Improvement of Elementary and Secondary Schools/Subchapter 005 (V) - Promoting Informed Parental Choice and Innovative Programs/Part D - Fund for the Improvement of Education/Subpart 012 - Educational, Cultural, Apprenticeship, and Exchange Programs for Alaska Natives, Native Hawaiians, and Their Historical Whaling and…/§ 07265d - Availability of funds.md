@@ -30,7 +30,7 @@ If sufficient funds are made available under section 7241 of this title to carry
 
 #### Amendments
 
-2005—Par. (1)(A). Pub. L. 109–149, §306(3)(A), which directed striking out “and” after semicolon in subpar. (a), was executed by striking out “and” in subpar. (A) to reflect the probable intent of Congress.
+<b>2005</b>—Par. (1)(A). Pub. L. 109–149, §306(3)(A), which directed striking out “and” after semicolon in subpar. (a), was executed by striking out “and” in subpar. (A) to reflect the probable intent of Congress.
 
 Par. (1)(B), (C). Pub. L. 109–149, §306(3)(B), (C), substituted “; and” for period in subpar. (B), and added subpar. (C).
 

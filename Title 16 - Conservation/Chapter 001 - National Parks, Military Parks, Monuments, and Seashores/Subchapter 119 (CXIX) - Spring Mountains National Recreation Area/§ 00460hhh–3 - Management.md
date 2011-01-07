@@ -8,7 +8,7 @@ The Secretary, acting through the Chief of the Forest Service, shall manage the 
 
 &emsp;(2) the conservation of fish and wildlife populations and habitat, including the use of prescribed fire to improve or maintain habitat;
 
-&emsp;(3) the protection of watersheds and the maintenance of free flowing streams and the quality of ground and surface waters in accordance with applicable law;
+&emsp;(3) the protection of watersheds and the maintenance of free flowing streams and thequality of ground and surface waters in accordance with applicable law;
 
 &emsp;(4) public outdoor recreation benefits, including, but not limited to, hunting, fishing, trapping, hiking, horseback riding, backpacking, rock climbing, camping, and nature study;
 

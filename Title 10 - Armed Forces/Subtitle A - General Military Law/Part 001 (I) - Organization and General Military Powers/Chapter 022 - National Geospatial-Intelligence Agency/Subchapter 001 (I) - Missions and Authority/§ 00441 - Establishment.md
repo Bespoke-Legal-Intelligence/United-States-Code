@@ -30,15 +30,15 @@ Availability and Continued Improvement of Imagery Intelligence Support to All-So
 
 #### Amendments
 
-2009—Subsecs. (c), (d). Pub. L. 111–84 repealed Pub. L. 110–417, §932(a)(8), (9), (b)(1). See 2008 Amendment notes below.
+<b>2009</b>—Subsecs. (c), (d). Pub. L. 111–84 repealed Pub. L. 110–417, §932(a)(8), (9), (b)(1). See 2008 Amendment notes below.
 
-2008—Subsec. (c). Pub. L. 110–181, §931(a)(9), (c)(1)(A), and Pub. L. 110–417, §932(b)(1), amended subsec. (c) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence” in heading and text. Pub. L. 110–417, §932(b)(1), was repealed by Pub. L. 111–84.
+<b>2008</b>—Subsec. (c). Pub. L. 110–181, §931(a)(9), (c)(1)(A), and Pub. L. 110–417, §932(b)(1), amended subsec. (c) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence” in heading and text. Pub. L. 110–417, §932(b)(1), was repealed by Pub. L. 111–84.
 
 Pub. L. 110–181, §931(a)(9), and Pub. L. 110–417, §932(a)(8), amended subsec. (c) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, §932(a)(8), was repealed by Pub. L. 111–84.
 
 Subsec. (d). Pub. L. 110–181, §931(a)(10), and Pub. L. 110–417, §932(a)(9), amended subsec. (d) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, §932(a)(9), was repealed by Pub. L. 111–84.
 
-2003—Subsecs. (a), (b)(1). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+<b>2003</b>—Subsecs. (a), (b)(1). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 #### Effective Date of 2009 Amendment
 
@@ -138,7 +138,7 @@ Personnel and Assets.—Subject to subsections (b) and (c), the personnel, asset
 
 “(b)
 
-Determination of CIA Positions To Be Transferred.—Not earlier than two years after the effective date of this subtitle \[Oct. 1, 1996\], the Secretary of Defense and the Director of Central Intelligence shall determine which, if any, positions and personnel of the Central Intelligence Agency are to be transferred to the National Imagery and Mapping Agency \[now NationalGeospatial-Intelligence Agency\]. The positions to be transferred, and the employees serving in such positions, shall be transferred to the National Imagery and Mapping Agency under terms and conditions prescribed by the Secretary of Defense and the Director of Central Intelligence.
+Determination of CIA Positions To Be Transferred.—Not earlier than two years after the effective date of this subtitle \[Oct. 1, 1996\], the Secretary of Defense and the Director of Central Intelligence shall determine which, if any, positions and personnel of the Central Intelligence Agency are to be transferred to the National Imagery and Mapping Agency \[now National Geospatial-Intelligence Agency\]. The positions to be transferred, and the employees serving in such positions, shall be transferred to the National Imagery and Mapping Agency under terms and conditions prescribed by the Secretary of Defense and the Director of Central Intelligence.
 
 “(c)
 

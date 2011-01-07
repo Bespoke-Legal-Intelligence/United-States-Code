@@ -192,51 +192,51 @@ Dec. 29, 1981, Pub. L. 97–114, title VII, §771, 95 Stat. 1590.
 
 #### Amendments
 
-2001—Subsec. (d)(5). Pub. L. 107–107 added par. (5).
+<b>2001</b>—Subsec. (d)(5). Pub. L. 107–107 added par. (5).
 
-2000—Subsec. (b)(2). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(b)(3)\], substituted “section 403(f)(3)” for “section 402(e)”.
+<b>2000</b>—Subsec. (b)(2). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(b)(3)\], substituted “section 403(f)(3)” for “section 402(e)”.
 
 Subsecs. (c)(1)(C), (f)(2)(B)(v). Pub. L. 106–398, §1 \[\[div. A\], title V, §571(f)\], substituted “December 31, 2001” for “September 30, 2001”.
 
-1999—Subsec. (i)(1). Pub. L. 106–65, §631(a), inserted at end “If transient government housing is unavailable or inadequate, the Secretary concerned may provide the member with lodging in kind in the same manner as members entitled to such allowances under subsection (a).”
+<b>1999</b>—Subsec. (i)(1). Pub. L. 106–65, §631(a), inserted at end “If transient government housing is unavailable or inadequate, the Secretary concerned may provide the member with lodging in kind in the same manner as members entitled to such allowances under subsection (a).”
 
 Subsec. (i)(3). Pub. L. 106–65, §631(b), inserted “and expenses of providing lodging in kind under such paragraph” after “paragraph (1)” and “Use of Government charge cards is authorized for payment of these expenses.” at end.
 
 Subsec. (i)(4). Pub. L. 106–65, §631(c), added par. (4).
 
-1998—Subsecs. (c)(1)(C), (f)(2)(B)(v). Pub. L. 105–261 substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
+<b>1998</b>—Subsecs. (c)(1)(C), (f)(2)(B)(v). Pub. L. 105–261 substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
 
-1997—Subsecs. (g) to (k). Pub. L. 105–85 redesignated subsecs. (h) to (k) as (g) to (j), respectively, and struck out former subsec. (g) which read as follows: “In the case of an enlisted member who is in a travel status and not entitled to receive per diem in lieu of subsistence for any day (or portion of a day) because the member is furnished meals in a Government mess, the member may not be paid a basic allowance for subsistence for such day (or portion of such day) that the member is furnished meals in a Government mess.”
+<b>1997</b>—Subsecs. (g) to (k). Pub. L. 105–85 redesignated subsecs. (h) to (k) as (g) to (j), respectively, and struck out former subsec. (g) which read as follows: “In the case of an enlisted member who is in a travel status and not entitled to receive per diem in lieu of subsistence for any day (or portion of a day) because the member is furnished meals in a Government mess, the member may not be paid a basic allowance for subsistence for such day (or portion of such day) that the member is furnished meals in a Government mess.”
 
-1996—Subsec. (d)(1)(A). Pub. L. 104–106 struck out “, based on distances established over the shortest usually traveled route, under mileage tables prepared under the direction of the Secretary of Defense” after “section 5704 of title 5”.
+<b>1996</b>—Subsec. (d)(1)(A). Pub. L. 104–106 struck out “, based on distances established over the shortest usually traveled route, under mileage tables prepared under the direction of the Secretary of Defense” after “section 5704 of title 5”.
 
 Subsec. (j)(1). Pub. L. 104–201 substituted “active duty for training” for “annual training duty”.
 
-1994—Subsec. (d)(1)(A). Pub. L. 103–337, §621, substituted “Secretary of Defense” for “Secretary of the Army”.
+<b>1994</b>—Subsec. (d)(1)(A). Pub. L. 103–337, §621, substituted “Secretary of Defense” for “Secretary of the Army”.
 
 Subsecs. (j), (k). Pub. L. 103–337, §622, added subsec. (j) and redesignated former subsec. (j) as (k).
 
-1993—Subsecs. (c)(1)(C), (f)(2)(B)(v). Pub. L. 103–160 substituted “nine-year period” for “five-year period”.
+<b>1993</b>—Subsecs. (c)(1)(C), (f)(2)(B)(v). Pub. L. 103–160 substituted “nine-year period” for “five-year period”.
 
-1992—Subsec. (e). Pub. L. 102–484 substituted “Air Mobility Command” for “Military Airlift Command” and “the Naval Aircraft Ferrying Squadrons, or any other unit determined by the Secretary concerned to be performing duties similar to the duties performed by such command or squadrons,” for “or the Naval Aircraft Ferrying Squadrons,”.
+<b>1992</b>—Subsec. (e). Pub. L. 102–484 substituted “Air Mobility Command” for “Military Airlift Command” and “the Naval Aircraft Ferrying Squadrons, or any other unit determined by the Secretary concerned to be performing duties similar to the duties performed by such command or squadrons,” for “or the Naval Aircraft Ferrying Squadrons,”.
 
-1991—Pub. L. 102–25 struck out “of this section”, “of this subsection”, and “of this paragraph” wherever appearing in subsecs. (a) to (d) and (f).
+<b>1991</b>—Pub. L. 102–25 struck out “of this section”, “of this subsection”, and “of this paragraph” wherever appearing in subsecs. (a) to (d) and (f).
 
-1990—Subsec. (c)(1). Pub. L. 101–510, §503(a)(1), added subpar. (C) and inserted “involuntarily separated,” after “placed on that list,” in concluding provisions.
+<b>1990</b>—Subsec. (c)(1). Pub. L. 101–510, §503(a)(1), added subpar. (C) and inserted “involuntarily separated,” after “placed on that list,” in concluding provisions.
 
 Subsec. (f)(2)(B)(v). Pub. L. 101–510, §503(a)(2), added cl. (v).
 
 Subsec. (j). Pub. L. 101–510, §503(a)(3), added subsec. (j).
 
-1989—Subsec. (i). Pub. L. 101–189 added subsec. (i).
+<b>1989</b>—Subsec. (i). Pub. L. 101–189 added subsec. (i).
 
-1987—Subsec. (d). Pub. L. 100–26, §8(a), terminated amendments by Pub. L. 99–500 and Pub. L. 99–591. See Termination of Amendments by Public Laws 99–500 and 99–591 note below.
+<b>1987</b>—Subsec. (d). Pub. L. 100–26, §8(a), terminated amendments by Pub. L. 99–500 and Pub. L. 99–591. See Termination of Amendments by Public Laws 99–500 and 99–591 note below.
 
 Subsec. (d)(1)(A). Pub. L. 100–26, §8(d)(6), substituted “privately owned” for “privately-owned”.
 
 Subsec. (h). Pub. L. 100–180 added subsec. (h).
 
-1986—Subsec. (d). Pub. L. 99–500 and Pub. L. 99–591 substituted “Subject to paragraph (2), transportation” for “Transportation” in par. (1)(B) and “subparagraph (A) of this paragraph” for “clause (1) of this subsection” in par. (1)(C) and added pars. (2), (4), and (5), and redesignated former par. (2) as (3) and substituted “Except as provided in paragraph (4) of this subsection and under” for “Under”. See Termination of Amendments by Public Laws 99–500 and 99–591 note below.
+<b>1986</b>—Subsec. (d). Pub. L. 99–500 and Pub. L. 99–591 substituted “Subject to paragraph (2), transportation” for “Transportation” in par. (1)(B) and “subparagraph (A) of this paragraph” for “clause (1) of this subsection” in par. (1)(C) and added pars. (2), (4), and (5), and redesignated former par. (2) as (3) and substituted “Except as provided in paragraph (4) of this subsection and under” for “Under”. See Termination of Amendments by Public Laws 99–500 and 99–591 note below.
 
 Subsec. (d)(1)(B). Pub. L. 99–661, §614(a)(1), (2), substituted “payment in lieu of subsistence as provided in paragraph (2) of this subsection in an amount sufficient” for “per diem in place of subsistence in an amount not more than $50 determined by the Secretaries concerned to be sufficient” and struck out “to be” after “travel is”.
 
@@ -244,7 +244,7 @@ Subsec. (d)(1)(C). Pub. L. 99–661, §1343(b)(2), substituted “subparagraph (
 
 Subsec. (d)(2) to (4). Pub. L. 99–661, §614(a)(3), added pars. (2) to (4) and struck out former par. (2) which read as follows: “Under regulations prescribed by the Secretaries concerned, when either travel is to an area designated as a high cost area in those regulations or the per diem of paragraph (1)(B) of this subsection is less than the amount of the actual and necessary expenses required by the unusual circumstances of the travel assignment, reimbursement may be authorized for actual and necessary expenses, but not for more than $75 for each day in a travel status.”
 
-1985—Subsec. (d). Pub. L. 99–145 substituted par. (1) for first sentence, designated second sentence as par. (2), and in par. (2) substituted “paragraph (1)(B)” for “clause (2)”. Prior to amendment, first sentence readas follows: “The travel and transportation allowances authorized for each kind of travel may not be more than one of the following—
+<b>1985</b>—Subsec. (d). Pub. L. 99–145 substituted par. (1) for first sentence, designated second sentence as par. (2), and in par. (2) substituted “paragraph (1)(B)” for “clause (2)”. Prior to amendment, first sentence read as follows: “The travel and transportation allowances authorized for each kind of travel may not be more than one of the following—
 
 &emsp;“(1) transportation in kind, reimbursement therefor, or a monetary allowance in place of the cost of transportation at a rate per mile prescribed by the Secretaries concerned and based on distances established, over the shortest usually traveled route, under mileage tables prepared under the direction of the Secretary of the Army;
 
@@ -252,33 +252,33 @@ Subsec. (d)(2) to (4). Pub. L. 99–661, §614(a)(3), added pars. (2) to (4) and
 
 &emsp;“(3) a mileage allowance at a rate per mile prescribed by the Secretaries concerned and based on distances established under clause (1) of this subsection.”
 
-1984—Subsec. (a)(5). Pub. L. 98–525, §613(a), added par. (5).
+<b>1984</b>—Subsec. (a)(5). Pub. L. 98–525, §613(a), added par. (5).
 
 Subsec. (c)(1)(B). Pub. L. 98–525, §533(g), inserted “separation pay or” before “severance pay” and before “readjustment pay”.
 
 Subsec. (g). Pub. L. 98–525, §1402(c), added subsec. (g).
 
-1983—Subsec. (f)(3). Pub. L. 98–94 added par. (3).
+<b>1983</b>—Subsec. (f)(3). Pub. L. 98–94 added par. (3).
 
-1981—Subsec. (a). Pub. L. 97–60, §121(a)(1), substituted “Except as provided in subsection (f) of this section and under regulations” for “Under regulations”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–60, §121(a)(1), substituted “Except as provided in subsection (f) of this section and under regulations” for “Under regulations”.
 
 Subsec. (b). Pub. L. 97–60, §121(a)(2), designated existing provisions as par. (1), redesignated existing pars. (1) and (2) as subpars. (A) and (B) of the newly designated par. (1), and added par. (2).
 
-Subsec. (c). Pub. L. 97–60, §121(a)(3), designated existing provisions as par. (1) and existing pars. (1) and (2) as subpars. (A) and (B) of the newly designated par. (1), inserted “and as provided in paragraph (2) of this subsection” after “Secretaries concerned” in provisions preceding newly designated subpar. (A), and added par. (2).
+Subsec. (c). Pub. L. 97–60, §121(a)(3), designated existing provisions as par. (1) and existing pars. (1) and (2) as subpars. (A) and (B) of the newly designated par. (1),inserted “and as provided in paragraph (2) of this subsection” after “Secretaries concerned” in provisions preceding newly designated subpar. (A), and added par. (2).
 
 Subsec. (f). Pub. L. 97–60, §121(a)(4), designated existing provisions as par. (1), substituted “for a member who is separated from the service or released from active duty may be paid or provided only for travel actually performed” for “may be paid on the member's separation from the service or release from active duty, whether or not he performs the travel involved” in par. (1) as so designated, and added par. (2).
 
-1980—Subsec. (d). Pub. L. 96–343, §5(a), substituted in par. (1) “per mile prescribed by the Secretaries concerned and” for “that is not more than 7 cents a mile”, and in par. (3) “at a rate per mile prescribed by the Secretaries concerned and” for “of not more than 10 cents a mile”.
+<b>1980</b>—Subsec. (d). Pub. L. 96–343, §5(a), substituted in par. (1) “per mile prescribed by the Secretaries concerned and” for “that is not more than 7 cents a mile”, and in par. (3) “at a rate per mile prescribed by the Secretaries concerned and” for “of not more than 10 cents a mile”.
 
 Pub. L. 96–342 substituted in par. (2) “$50” for “$35” and in provision following par. (3) “$75” for “$50”.
 
-1976—Subsec. (d). Pub. L. 94–296 in cl. (2) substituted “in an amount sufficient to meet actual and necessary expenses, but in no event more than $35 a day” for “of not more than $25 a day”, and in text following cl. (3) inserted provisions relating to travel designated as travel to a high cost area by the prescribed regulations and increased the maximum reimbursement from $40 to $50.
+<b>1976</b>—Subsec. (d). Pub. L. 94–296 in cl. (2) substituted “in an amount sufficient to meet actual and necessary expenses, but in no event more than $35 a day” for “of not more than $25 a day”, and in text following cl. (3) inserted provisions relating to travel designated as travel to a high cost area by the prescribed regulations and increased the maximum reimbursement from $40 to $50.
 
-1969—Pub. L. 91–183 increased from $16 to $25, the maximum per diem allowance, and from $30 to $40, the maximum per diem allowance in unusual circumstances.
+<b>1969</b>—Pub. L. 91–183 increased from $16 to $25, the maximum per diem allowance, and from $30 to $40, the maximum per diem allowance in unusual circumstances.
 
-1967—Subsec. (a)(4). Pub. L. 90–168 added cl. (4).
+<b>1967</b>—Subsec. (a)(4). Pub. L. 90–168 added cl. (4).
 
-1966—Subsec. (c). Pub. L. 89–680 inserted into the authorization for selection of a home for the purposes of the travel and transportation allowances authorized by subsection (a) of this section provisions requiring selection not later than one year from the date of retirement, placement, discharge, or release, except as provided in regulations to be prescribed by the Secretaries concerned.
+<b>1966</b>—Subsec. (c). Pub. L. 89–680 inserted into the authorization for selection of a home for the purposes of the travel and transportation allowances authorized by subsection (a) of this section provisions requiring selection not later than one year from the date of retirement, placement, discharge, or release, except as provided in regulations to be prescribed by the Secretaries concerned.
 
 Subsec. (d). Pub. L. 89–718, §55, struck out reference to the Chief of Finance of the Army in cl. (1), substituted “subsection” for “section” and “$16” for “$12” in cl. (2), substituted “subsection” for “section” in cl. (3), and inserted provision authorizing reimbursement on an actual expenses basis where, due to unusual circumstances of a travel assignment, per diem reimbursement is not enough, but placing a limit of $30 for each day in a travel status.
 
@@ -320,7 +320,7 @@ Section 121(d) of Pub. L. 97–60 provided that:
 
 “(2) Paragraph (2) of section 404(b) of title 37, United States Code, as added by subsection (a)(2)(C), shall apply to travel performed after October 31, 1981.
 
-“(3) Paragraph (3) of section 406(a) of title 37, United States Code, as added by subsection (b)(1)(C), shall takeeffect on the date of the enactment of this Act \[Oct. 14, 1981\].
+“(3) Paragraph (3) of section 406(a) of title 37, United States Code, as added by subsection (b)(1)(C), shall take effect on the date of the enactment of this Act \[Oct. 14, 1981\].
 
 “(4) The amendments made by subsections (a)(3) and (b)(3) \[amending this section and section 406 of this title\] shall take effect on November 1, 1981, and shall apply to members who are retired, placed on the temporary disability retired list, discharged, or involuntarily released on or after November 1, 1981, except that such amendments shall not apply to any member who before November 1, 1981, had completed eighteen years of active service.
 
@@ -338,7 +338,7 @@ Section 2 of Pub. L. 94–296 provided that: “The amendments made by this Act 
 
 #### Effective Date of 1967 Amendment
 
-Amendment by Pub. L. 90–168 effective on first day of first calendar month following Dec. 1, 1967, see section 7 of Pub. L. 90–168, set out as a note under section 138 of Title 10, Armed Forces.
+Amendment by Pub. L. 90–168 effective on first day of first calendar month following Dec. 1, 1967, see section7 of Pub. L. 90–168, set out as a note under section 138 of Title 10, Armed Forces.
 
 #### Termination of Amendments by Public Laws 99–500 and 99–591
 

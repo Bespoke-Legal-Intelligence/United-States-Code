@@ -2,7 +2,7 @@
 
 #### (a) Effective and termination dates of preemptive provisions; law governing incidental taking of marine mammals in course of commercial yellowfin tuna fishing
 
-(1) During the period beginning on November 23, 1988, and until superseded by regulations prescribed under section 1387 of this title, or until September 1, 1995, whichever is earlier, except as provided in paragraph (2), the provisions of this section, rather than sections 1371, 1373, and 1374 of this title, shall govern the incidental taking of marine mammals in the course of commercial fishing operations by persons using vessels of the United States and vessels which have valid fishing permits issued by the Secretary in accordance with section 1824(b) of this title. In any event it shall be the immediate goal that the incidental kill or serious injury of marine mammals permitted in the course of commercial fishing operations be reduced to insignificant levels approaching a zero mortality and serious injury rate.
+(1) During the period beginning on November 23, 1988, and until superseded by regulations prescribed under section 1387 of this title, or until September 1, 1995, whichever is earlier, except as provided in paragraph (2), the provisions of this section, rather than sections 1371, 1373, and 1374 of this title, shall govern the incidental taking of marine mammals in the course of commercialfishing operations by persons using vessels of the United States and vessels which have valid fishing permits issued by the Secretary in accordance with section 1824(b) of this title. In any event it shall be the immediate goal that the incidental kill or serious injury of marine mammals permitted in the course of commercial fishing operations be reduced to insignificant levels approaching a zero mortality and serious injury rate.
 
 (2) The provisions of this section other than subsection (e)(6)(A) of this section shall not govern the incidental taking of marine mammals in the course of commercial yellowfin tuna fishing subject to section 1374(h)(2) of this title.
 
@@ -62,7 +62,7 @@
 
 (B) The Secretary shall utilize newspapers of general circulation, fishery trade associations, electronic media, and other means of advising commercial fishermen of the provisions of this section and the means by which they can comply with its requirements.
 
-(C) The Secretary is authorized to charge a fee for the granting of an exemption under this subsection. The level of fees charged under this subparagraph shall not exceed the administrativecosts incurred in granting an exemption. Fees collected under this subparagraph shall be available to the Under Secretary of Commerce for Oceans and Atmosphere for expenses incurred in the granting and administration of exemptions under this section.
+(C) The Secretary is authorized to charge a fee for the granting of an exemption under this subsection. The level of fees charged under this subparagraph shall not exceed the administrative costs incurred in granting an exemption. Fees collected under this subparagraph shall be available to the Under Secretary of Commerce for Oceans and Atmosphere for expenses incurred in the granting and administration of exemptions under this section.
 
 #### (c) Compilation of information by vessel owners; contents
 
@@ -104,7 +104,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 &emsp;(D) where practicable, the need to minimize costs and avoid duplication.
 
-(3) If the Secretary finds that, for reasons beyond his or her control, the Secretary cannot assign observers to all the fisheries identified under subsection (b)(1)(A)(i) of this section at the level of observer coverage set forth in paragraph (1), the Secretary shall allocate available observers among such fisheries, consistent with paragraph (2), according to the following priority:
+(3) If the Secretary finds that, for reasons beyond his or her control, the Secretary cannot assign observers to all the fisheries identified under subsection (b)(1)(A)(i) of this section at the level of observer coverage set forth in paragraph (1), the Secretary shall allocate availableobservers among such fisheries, consistent with paragraph (2), according to the following priority:
 
 &emsp;(A) those fisheries that incidentally take marine mammals from any population stock designated as depleted;
 
@@ -118,7 +118,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 (4) Information gathered by observers shall be subject to the provisions of subsection (j) of this section. Consistent with the requirements of paragraph (1), the Secretary shall, if requested by the Appropriate <sup>1</sup> Regional Fishery Management Council, or in the case of a State fishery, the State, require observers to collect additional information, including but not limited to the quantities, species, and physical condition of target and non-target fishery resources and, if requested by the Secretary of the Interior, seabirds.
 
-(5) Notwithstanding the provisions of paragraph (4), the Secretary may decline to requireobservers to collect information described in such paragraph, if the Secretary finds in writing, following public notice and opportunity for comment, that such information will not contribute to the protection of marine mammals or the understanding of the marine ecosystem, including fishery resources and seabirds.
+(5) Notwithstanding the provisions of paragraph (4), the Secretary may decline to require observers to collect information described in such paragraph, if the Secretary finds in writing, following public notice and opportunity for comment, that such information will not contribute to the protection of marine mammals or the understanding of the marine ecosystem, including fishery resources and seabirds.
 
 (6) The Secretary shall not be required to place an observer on a vessel in a fishery if the Secretary finds that—
 
@@ -162,7 +162,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 &emsp;(A) a Regional Fishery Management Council or State does not act in a reasonable period of time on a request made by the Secretary under paragraph (3); or
 
-&emsp;(B) if the Secretary determines after notice and opportunity for public comment that thepurposes of this section would be better served by such action.
+&emsp;(B) if the Secretary determines after notice and opportunity for public comment that the purposes of this section would be better served by such action.
 
 #### (h) Information and management system for processing and analyzing reports and information; accessibility to public
 
@@ -254,15 +254,15 @@ Section 1802 of this title, referred to in subsec. (<i>o</i>)(1), (4), was subse
 
 #### Amendments
 
-1996—Subsecs. (a)(1), (b)(2)(B)(ii), (<i>o</i>)(1), (4). Pub. L. 104–208 made technical amendment to references in original act which appear in text as references to sections 1802(8), (27) and 1824(b) of this title.
+<b>1996</b>—Subsecs. (a)(1), (b)(2)(B)(ii), (<i>o</i>)(1), (4). Pub. L. 104–208 made technical amendment to references in original act which appear in text as references to sections 1802(8), (27) and 1824(b) of this title.
 
-1995—Pub. L. 104–43 amended directory language of Pub. L. 103–238. See 1994 Amendment note below.
+<b>1995</b>—Pub. L. 104–43 amended directory language of Pub. L. 103–238. See 1994 Amendment note below.
 
-1994—Subsec. (a)(1). Pub. L. 103–238, as amended by Pub. L. 104–43, substituted “until superseded by regulations prescribed under section 1387 of this title, or until September 1, 1995, whichever is earlier,” for “ending May 1, 1994.”
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–238, as amended by Pub. L. 104–43, substituted “until superseded by regulations prescribed under section 1387 of this title, or until September 1, 1995, whichever is earlier,” for “ending May 1, 1994.”
 
 Pub. L. 103–228 substituted “May 1, 1994.” for “April 1, 1994,”.
 
-1993—Subsec. (a)(1). Pub. L. 103–86 substituted “April 1, 1994” for “October 1, 1993”.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–86 substituted “April 1, 1994” for “October 1, 1993”.
 
 #### Effective Date of 1996 Amendment
 
@@ -274,7 +274,7 @@ Section 404(a)(2) of Pub. L. 104–43 provided that: “The amendment made by pa
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives byHouse Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

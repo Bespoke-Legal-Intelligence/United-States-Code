@@ -48,7 +48,7 @@ The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subse
 
 #### Amendments
 
-1996—Subsec. (a)(4). Pub. L. 104–297 substituted “1999” for “1997”.
+<b>1996</b>—Subsec. (a)(4). Pub. L. 104–297 substituted “1999” for “1997”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

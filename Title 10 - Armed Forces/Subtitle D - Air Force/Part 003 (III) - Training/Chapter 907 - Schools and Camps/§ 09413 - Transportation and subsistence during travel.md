@@ -32,5 +32,5 @@ In subsection (a), the introductory clause is inserted for clarity. The words �
 
 In subsection (b), the words “of the actual performance of the same” are omitted as surplusage.
 
-Subsection (c) is substituted for the words “the most usual and direct route within such limits as to territory as the Secretary of the Army may prescribe for the distance by the shortest usually traveled route from the places from which they are authorized to proceed to the camp, and for the return travel thereto”.
+Subsection (c) is substituted for the words “the most usual and direct route within such limits as to territory as the Secretary of the Army may prescribe \* \* \* for the distance by the shortest usually traveled route from the places from which they are authorized to proceed to the camp, and for the return travel thereto”.
 

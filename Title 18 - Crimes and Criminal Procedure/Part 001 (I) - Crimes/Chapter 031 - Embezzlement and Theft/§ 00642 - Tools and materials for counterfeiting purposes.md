@@ -1,6 +1,6 @@
 ### §642. Tools and materials for counterfeiting purposes
 
-Whoever, without authority from the United States, secretes within, or embezzles, or takes and carries away from any building, room, office, apartment, vault, safe, or other place where the same is kept, used, employed, placed, lodged, or deposited by authority of the United States, any tool, implement, or thing used or fitted to be used in stamping or printing, or in makingsome other tool or implement used or fitted to be used in stamping or printing any kind or description of bond, bill, note, certificate, coupon, postage stamp, revenue stamp, fractional currency note, or other paper, instrument, obligation, device, or document, authorized by law to be printed, stamped, sealed, prepared, issued, uttered, or put in circulation on behalf of the United States; or
+Whoever, without authority from the United States, secretes within, or embezzles, or takes and carries away from any building, room, office, apartment, vault, safe, or other place where the same is kept, used, employed, placed, lodged, or deposited by authority of the United States, any tool, implement, or thing used or fitted to be used in stamping or printing, or in making some other tool or implement used or fitted to be used in stamping or printing any kind or description of bond, bill, note, certificate, coupon, postage stamp, revenue stamp, fractional currency note, or other paper, instrument, obligation, device, or document, authorized by law to be printed, stamped, sealed, prepared, issued, uttered, or put in circulation on behalf of the United States; or
 
 Whoever, without such authority, so secretes, embezzles, or takes and carries away any paper, parchment, or other material prepared and intended to be used in the making of any such papers, instruments, obligations, devices, or documents; or
 
@@ -20,5 +20,5 @@ Minor changes in phraseology were made.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in last par.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in last par.
 

@@ -20,7 +20,7 @@ For purposes of this section, the term “required payment” means, with respec
 
 &emsp;(2) the net required payment balance.
 
-> For purposes of paragraph (1)(A), the term “adjusted highest section 1 rate” means the highestrate of tax in effect under section 1 as of the end of the base year plus 1 percentage point (or, in the case of applicable election years beginning in 1987, 36 percent).
+> For purposes of paragraph (1)(A), the term “adjusted highest section 1 rate” means the highest rate of tax in effect under section 1 as of the end of the base year plus 1 percentage point (or, in the case of applicable election years beginning in 1987, 36 percent).
 
 #### (c) Refund of payments
 
@@ -80,7 +80,7 @@ For purposes of this section—
 
 #### (C) Certain limitations disregarded
 
-&emsp;&emsp;For purposes of subparagraph (A) or (B), any limitation on the amount of any item described in either such paragraph which may be taken into account for purposes of computing the taxable income of a partner or shareholder shall be disregarded.
+&emsp;&emsp;For purposes of subparagraph (A) or (B), any limitation on the amount of any itemdescribed in either such paragraph which may be taken into account for purposes of computing the taxable income of a partner or shareholder shall be disregarded.
 
 #### (3) Applicable payments
 
@@ -214,21 +214,21 @@ Section 806(e)(2)(C) of the Tax Reform Act of 1986, referred to in subsec. (d)(4
 
 #### Amendments
 
-1997—Subsec. (f)(4)(A). Pub. L. 105–34 inserted at end “No penalty shall be imposed under this subparagraph on any failure which is shown to be due to reasonable cause and not willful neglect.”
+<b>1997</b>—Subsec. (f)(4)(A). Pub. L. 105–34 inserted at end “No penalty shall be imposed under this subparagraph on any failure which is shown to be due to reasonable cause and not willful neglect.”
 
-1990—Subsec. (c)(3). Pub. L. 101–508 substituted “payable on the later of” for “payable on later of”.
+<b>1990</b>—Subsec. (c)(3). Pub. L. 101–508 substituted “payable on the later of” for “payable on later of”.
 
-1989—Subsec. (d)(4). Pub. L. 101–239, §7821(b), struck out “for taxable years beginning after 1987,” before “the applicable percentage” and substituted “unless more than 50 percent” for “if more than 50 percent” and “who would have been entitled” for “who would not have been entitled”.
+<b>1989</b>—Subsec. (d)(4). Pub. L. 101–239, §7821(b), struck out “for taxable years beginning after 1987,” before “the applicable percentage” and substituted “unless more than 50 percent” for “if more than 50 percent” and “who would have been entitled” for “who would not have been entitled”.
 
 Subsec. (f)(4)(B). Pub. L. 101–239, §7721(c)(12), substituted “part II of subchapter A of chapter 68” for “section 6653”.
 
-1988—Subsec. (b)(2). Pub. L. 100–647, §2004(e)(4)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the amount of the required payment for the preceding applicable election year.”
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–647, §2004(e)(4)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the amount of the required payment for the preceding applicable election year.”
 
 Subsec. (c). Pub. L. 100–647, §2004(e)(5), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If the amount determined under subsection (b)(2) exceeds the amount determined under subsection (b)(1), then the entity shall be entitled to a refund of such excess.”
 
 Subsec. (d)(2)(A). Pub. L. 100–647, §2004(e)(10), substituted “(other than credits and tax-exempt income)” for “(other than credits)”.
 
-Subsec. (d)(2)(B). Pub. L. 100–647, §2004(e)(7), (10), substituted “(other than credits and tax-exempt income)” for “(other than credits)” and inserted before period atend “(and such corporation shall be treated as an S corporation for such taxable year for purposes of paragraph (3))”.
+Subsec. (d)(2)(B). Pub. L. 100–647, §2004(e)(7), (10), substituted “(other than credits and tax-exempt income)” for “(other than credits)” and inserted before period at end “(and such corporation shall be treated as an S corporation for such taxable year for purposes of paragraph (3))”.
 
 Subsec. (d)(3)(A). Pub. L. 100–647, §2004(e)(14)(B), struck out “or incurred” after “amounts paid”.
 

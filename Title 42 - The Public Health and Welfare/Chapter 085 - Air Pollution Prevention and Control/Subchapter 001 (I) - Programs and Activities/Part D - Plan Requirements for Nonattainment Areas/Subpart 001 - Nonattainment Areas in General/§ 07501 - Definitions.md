@@ -24,7 +24,7 @@ Nonattainment area.—The term “nonattainment area” means, for any air pollu
 
 #### Amendments
 
-1990—Pub. L. 101–549, §102(a)(2)(A), struck out “and section 7410(a)(2)(I) of this title” after “purpose of this part”.
+<b>1990</b>—Pub. L. 101–549, §102(a)(2)(A), struck out “and section 7410(a)(2)(I) of this title” after “purpose of this part”.
 
 Pars. (1), (2). Pub. L. 101–549, §102(a)(2)(B), (C), amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
 

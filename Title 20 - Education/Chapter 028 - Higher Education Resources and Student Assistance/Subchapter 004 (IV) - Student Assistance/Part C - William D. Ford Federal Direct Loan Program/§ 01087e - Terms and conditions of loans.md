@@ -4,7 +4,7 @@
 
 #### (1) Parallel terms, conditions, benefits, and amounts
 
-&emsp;Unless otherwise specified in this part, loans made to borrowers under this part shall have the same terms, conditions, and benefits, and be available in the same amounts, as loans made to borrowers under sections 1078, 1078–2, 1078–3, and 1078–8 of this title.
+&emsp;Unless otherwise specified in this part, loans made to borrowers under this part shall have the same terms, conditions, and benefits, and be available in the same amounts, as loans made to borrowers, and first disbursed on June 30, 2010, under sections 1078, 1078–2, 1078–3, and 1078–8 of this title.
 
 #### (2) Designation of loans
 
@@ -22,7 +22,7 @@
 
 #### (1) Rates for FDSL and FDUSL
 
-&emsp;For Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans forwhich the first disbursement is made on or after July 1, 1994, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
+&emsp;For Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans for which the first disbursement is made on or after July 1, 1994, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
 
 &emsp;&emsp;(A) the bond equivalent rate of 91-day Treasury bills auctioned at the final auction held prior to such June 1; plus
 
@@ -32,7 +32,7 @@
 
 #### (2) In school and grace period rules
 
-&emsp;(A) Notwithstanding the provisions of paragraph (1), but subject to paragraph (3), with respect to any Federal Direct Stafford Loan or Federal Direct Unsubsidized Stafford Loan for which the first disbursement is made on or after July 1, 1995, the applicable rate of interest for interest which accrues—
+&emsp;(A) Notwithstanding the provisions of paragraph (1), but subject to paragraph (3), with respect to any Federal Direct Stafford Loan or Federal Direct Unsubsidized Stafford Loan for which the first disbursement is made on orafter July 1, 1995, the applicable rate of interest for interest which accrues—
 
 &emsp;&emsp;(i) prior to the beginning of the repayment period of the loan; or
 
@@ -108,7 +108,7 @@
 
 #### (C) PLUS loans
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, with respect to FederalDirect PLUS Loan for which the first disbursement is made on or after July 1, 1998, and before October 1, 1998, the applicable rate of interest shall be determined under subparagraph (A)—
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, with respect to Federal Direct PLUS Loan for which the first disbursement is made on or after July 1, 1998, and before October 1, 1998, the applicable rate of interest shall be determined under subparagraph (A)—
 
 &emsp;&emsp;&emsp;(i) by substituting “3.1 percent” for “2.3 percent”; and
 
@@ -118,7 +118,7 @@
 
 #### (A) Rates for FDSL and FDUSL
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans for which the first disbursement is made on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct UnsubsidizedStafford Loans for which the first disbursement is made on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
 
 &emsp;&emsp;&emsp;(i) the bond equivalent rate of 91-day Treasury bills auctioned at the final auction held prior to such June 1; plus
 
@@ -304,7 +304,7 @@
 
 &emsp;&emsp;(ii) makes monthly payments under paragraph (1) or (6) of section 1098e(b) of this title;
 
-&emsp;&emsp;(iii) makes monthly payments of not less than the monthly amount calculated under section 1078(b)(9)(A)(i) of this title or subsection (d)(1)(A), based on a 10-year repayment period, when the borrower first madethe election described in section 1098e(b)(1) of this title;
+&emsp;&emsp;(iii) makes monthly payments of not less than the monthly amount calculated under section 1078(b)(9)(A)(i) of this title or subsection (d)(1)(A), based on a 10-year repayment period, when the borrower first made the election described in section 1098e(b)(1) of this title;
 
 &emsp;&emsp;(iv) makes payments of not less than the payments required under a standard repayment plan under section 1078(b)(9)(A)(i) of this title or subsection (d)(1)(A) with a repayment period of 10 years; or
 
@@ -358,7 +358,7 @@
 
 #### (g) Federal Direct Consolidation Loans
 
-A borrower of a loan made under this part may consolidate such loan with the loans described in section 1078–3(a)(4) of this title. To be eligible for a consolidation loan under this part, a borrower shall meet the eligibility criteria set forth in section 1078–3(a)(3) of this title. The Secretary, upon application for such a loan, shall comply with the requirements applicable to a lender under section 1078–3(b)(1)(G) of this title.
+A borrower of a loan made under this part may consolidate such loan with the loans described in section 1078–3(a)(4) of this title, including any loan made under part B and first disbursed before July 1, 2010. To be eligible for a consolidation loan under this part, a borrower shall meet the eligibility criteria set forth in section 1078–3(a)(3) of this title.
 
 #### (h) Borrower defenses
 
@@ -388,7 +388,7 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 #### (2) Payments and refunds
 
-&emsp;Payments and refunds shall be reconciled in a manner consistent with the manner set forth for the submission of a payment summary report required of institutions participating in the program under subpart 1 of part A of this subchapter, except that nothing in this paragraph shall prevent such reconciliations on a monthly basis.
+&emsp;Payments and refunds shall be reconciled in a manner consistent with the manner set forthfor the submission of a payment summary report required of institutions participating in the program under subpart 1 of part A of this subchapter, except that nothing in this paragraph shall prevent such reconciliations on a monthly basis.
 
 #### (3) Transaction histories
 
@@ -446,7 +446,7 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 #### (4) Ineligibility for double benefits
 
-&emsp;No borrower may, for the same service, receive a reduction of loan obligations underboth this subsection and section 1078–10, 1078–11, 1078–12, or 1087j of this title.
+&emsp;No borrower may, for the same service, receive a reduction of loan obligations under both this subsection and section 1078–10, 1078–11, 1078–12, or 1087j of this title.
 
 #### (n) Identity fraud protection
 
@@ -456,7 +456,7 @@ The Secretary shall take such steps as may be necessary to ensure that monthly F
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this part and in accordance with paragraphs (2) and (4), interest shall not accrue for an eligible military borrower on a loan made under this part for which the first disbursement is made on or after October 1, 2008.
+&emsp;Notwithstanding any other provision of this part and in accordance with paragraphs (2) and (4), interest shall not accrue for an eligible military borrower on a loan made under thispart for which the first disbursement is made on or after October 1, 2008.
 
 #### (2) Consolidation loans
 
@@ -480,7 +480,7 @@ The Secretary shall take such steps as may be necessary to ensure that monthly F
 
 Each institution of higher education with which the Secretary has an agreement under section 1087c of this title, and each contractor with which the Secretary has a contract under section 1087f of this title, shall, with respect to loans under this part and in accordance with such regulations as the Secretary shall prescribe, comply with each of the requirements under section 1083 of this title that apply to a lender with respect to a loan under part B.
 
-(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164; Pub. L. 110–84, title II, §§201(b), 202(b), 203(b)(3), 205, title IV, §401, Sept. 27, 2007, 121 Stat. 791, 795, 800; Pub. L. 110–315, title I, §103(b)(8), title IV, §§425(b)(3), 451, Aug. 14, 2008, 122 Stat. 3089, 3234, 3261; Pub. L. 111–39, title IV, §404(b)(2), July 1, 2009, 123 Stat. 1946.)
+(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164; Pub. L. 110–84, title II, §§201(b), 202(b), 203(b)(3), 205, title IV, §401, Sept. 27, 2007, 121 Stat. 791, 795, 800; Pub. L. 110–315, title I, §103(b)(8), title IV, §§425(b)(3), 451, Aug. 14, 2008, 122 Stat. 3089, 3234, 3261; Pub. L. 111–39, title IV, §404(b)(2), July 1, 2009, 123 Stat. 1946; Pub. L. 111–152, title II, §2211(a), Mar. 30, 2010, 124 Stat. 1078.)
 
 #### References in Text
 
@@ -488,13 +488,17 @@ Sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title as such sections were in 
 
 #### Amendments
 
-2009—Subsec. (d)(1)(C). Pub. L. 111–39, §404(b)(2)(A), substituted “1078(b)(9)(A)(iv)” for “1078(b)(9)(A)(v)”.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–152, §2211(a)(1), inserted “, and first disbursed on June 30, 2010,” before “under sections 1078”.
+
+Subsec. (g). Pub. L. 111–152, §2211(a)(2), inserted “, including any loan made under part B and first disbursed before July 1, 2010” after “section 1078–3(a)(4) of this title” and struck out at end “The Secretary, upon application for such a loan, shall comply with the requirements applicable to a lender under section 1078–3(b)(1)(G) of this title.”
+
+<b>2009</b>—Subsec. (d)(1)(C). Pub. L. 111–39, §404(b)(2)(A), substituted “1078(b)(9)(A)(iv)” for “1078(b)(9)(A)(v)”.
 
 Subsec. (h). Pub. L. 111–39, §404(b)(2)(B), struck out “(except as authorized under section 1087g(a)(1) of this title)” after “regulations”.
 
 Subsec. (k)(1)(B). Pub. L. 111–39, §404(b)(2)(C), struck out “, or in a notice under section 1087g(a)(1) of this title,” after “regulations of the Secretary”.
 
-2008—Subsec. (b)(8)(B). Pub. L. 110–315, §103(b)(8), substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
+<b>2008</b>—Subsec. (b)(8)(B). Pub. L. 110–315, §103(b)(8), substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
 
 Subsec. (d)(1)(E). Pub. L. 110–315, §451(a), added subpar. (E).
 
@@ -514,7 +518,7 @@ Subsec. (<i>o</i>). Pub. L. 110–315, §451(d), added subsec. (<i>o</i>).
 
 Subsec. (p). Pub. L. 110–315, §451(e), added subsec. (p).
 
-2007—Subsec. (b)(7)(D). Pub. L. 110–84, §201(b), added subpar. (D).
+<b>2007</b>—Subsec. (b)(7)(D). Pub. L. 110–84, §201(b), added subpar. (D).
 
 Subsec. (d)(1)(D). Pub. L. 110–84, §203(b)(3), inserted “made on behalf of a dependent student” after “PLUS loan”.
 
@@ -524,7 +528,7 @@ Subsec. (f)(2)(C). Pub. L. 110–84, §202(b), struck out “not in excess of 3 
 
 Subsec. (m). Pub. L. 110–84, §401, added subsec. (m).
 
-2006—Subsec. (a)(1). Pub. L. 109–171, §8009(d)(1), inserted “1078–3,” after “1078–2,”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–171, §8009(d)(1), inserted “1078–3,” after “1078–2,”.
 
 Subsec. (a)(2)(C), (D). Pub. L. 109–171, §8009(d)(2), added subpar. (C) and redesignated former subpar. (C) as (D).
 
@@ -544,7 +548,7 @@ Subsec. (f)(2)(C), (D). Pub. L. 109–171, §8007(b), added subpar. (C) and rede
 
 Subsec. (g). Pub. L. 109–171, §8009(d)(3), substituted “To be eligible for a consolidation loan under this part, a borrower shall meet the eligibility criteria set forth in section 1078–3(a)(3) of this title. The Secretary, upon application for such a loan, shall comply with the requirements applicable to a lender under section 1078–3(b)(1)(F) of this title.” for “Loans made under this subsection shall be known as ‘Federal Direct Consolidation Loans’.”
 
-2002—Subsec. (b)(6) to (9). Pub. L. 107–139, in par. (6) relating to interest rate provision for new loans substituted “
+<b>2002</b>—Subsec. (b)(6) to (9). Pub. L. 107–139, in par. (6) relating to interest rate provision for new loans substituted “
 
 2006” for “
 
@@ -552,7 +556,7 @@ Subsec. (g). Pub. L. 109–171, §8009(d)(3), substituted “To be eligible for 
 
 Subsec. (<i>l</i>). Pub. L. 107–314 added subsec. (<i>l</i>).
 
-2000—Subsec. (b)(4)(A). Pub. L. 106–554 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “For Federal Direct PLUS Loans for which the first disbursement is made on or after July 1, 1994, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
+<b>2000</b>—Subsec. (b)(4)(A). Pub. L. 106–554 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “For Federal Direct PLUS Loans for which the first disbursement is made on or after July 1, 1994, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
 
 &emsp;“(i) the bond equivalent rate of 52-week Treasury bills auctioned at final auction held prior to such June 1; plus
 
@@ -560,7 +564,7 @@ Subsec. (<i>l</i>). Pub. L. 107–314 added subsec. (<i>l</i>).
 
 > except that such rate shall not exceed 9 percent.”
 
-1998—Subsec. (b)(5). Pub. L. 105–178, §8301(c)(2), which directed amendment of section 455(b) (20 U.S.C. 1087e(b)) by adding par. (5), was executed to this section, which is section 455(b) of Pub. L. 89–329, to reflect the probable intent of Congress. Former par. (5) redesignated (6).
+<b>1998</b>—Subsec. (b)(5). Pub. L. 105–178, §8301(c)(2), which directed amendment of section 455(b) (20 U.S.C. 1087e(b)) by adding par. (5), was executed to this section, which is section 455(b) of Pub. L. 89–329, to reflect the probable intent of Congress. Former par. (5) redesignated (6).
 
 Subsec. (b)(6). Pub. L. 105–244, §452(a)(1), added par. (6) relating to interest rate provision for new loans.
 
@@ -572,11 +576,15 @@ Subsec. (g). Pub. L. 105–244, §452(c), struck out “only under such terms an
 
 Subsecs. (j)(2), (k)(3). Pub. L. 105–244, §401(g)(6), substituted “Federal Pell Grants” for “basic grants”.
 
-1994—Subsec. (f)(3), (4). Pub. L. 103–382 added pars. (3) and (4).
+<b>1994</b>—Subsec. (f)(3), (4). Pub. L. 103–382 added pars. (3) and (4).
 
-1993—Pub. L. 103–66 amended section generally, substituting provisions relating to terms and conditions of loans for former provisions relating to withdrawal and termination procedures.
+<b>1993</b>—Pub. L. 103–66 amended section generally, substituting provisions relating to terms and conditions of loans for former provisions relating to withdrawal and termination procedures.
 
-1992—Pub. L. 102–325 amended section generally, substituting provisions relating to withdrawal and termination procedures for former provisions relating to feasibility study.
+<b>1992</b>—Pub. L. 102–325 amended section generally, substituting provisions relating to withdrawal and termination procedures for former provisions relating to feasibility study.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–152, title II, §2211(b), Mar. 30, 2010, 124 Stat. 1078, provided that: “The amendment made by subsection (a)(1) \[amending this section\] shall apply with respect to loans first disbursed under part D of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq.) on or after July 1, 2010.”
 
 #### Effective Date of 2009 Amendment
 

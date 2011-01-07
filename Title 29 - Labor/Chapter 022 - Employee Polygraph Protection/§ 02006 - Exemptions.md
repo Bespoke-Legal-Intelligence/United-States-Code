@@ -104,15 +104,15 @@ Subject to sections 2007 and 2009 of this title, this chapter shall not prohibit
 
 #### References in Text
 
-Executive Order 12356, referred to in subsec. (b)(2)(B), was Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which was set out as a note under section 435 of Title 50, War and National Defense, prior to revocation by Ex. Ord. No. 12958, §6.1(d), Apr. 17, 1995, 60 F.R. 19843, which was itself revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731, set out as a note under section 435 of Title 50. For provisions relating to special access programs, see section 4.3 of Ex. Ord. No. 13526.
+Executive Order 12356, referred to in subsec. (b)(2)(B), was Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which was set out as a note under section 435 of Title 50, War and National Defense, prior to revocation by Ex. Ord. No. 12958, §6.1(d), Apr. 17, 1995, 60 F.R. 19843. For provisions relating to special access programs, see section 4.3 of Ex. Ord. No. 13526.
 
 #### Amendments
 
-2008—Subsec. (b)(2)(A)(i). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+<b>2008</b>—Subsec. (b)(2)(A)(i). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-1996—Subsec. (b)(2)(A)(i). Pub. L. 104–201 substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
+<b>1996</b>—Subsec. (b)(2)(A)(i). Pub. L. 104–201 substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
 
-1994—Subsec. (b)(2)(A)(i). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
+<b>1994</b>—Subsec. (b)(2)(A)(i). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
 
 #### Effective Date of 1996 Amendment
 

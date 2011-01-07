@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Board
 
-There is established the Public Company Accounting Oversight Board, to oversee the auditof public companies that are subject to the securities laws, and related matters, in order to protect the interests of investors and further the public interest in the preparation of informative, accurate, and independent audit reports for companies the securities of which are sold to, and held by and for, public investors. The Board shall be a body corporate, operate as a nonprofit corporation, and have succession until dissolved by an Act of Congress.
+There is established the Public Company Accounting Oversight Board, to oversee the audit of companies that are subject to the securities laws, and related matters, in order to protect the interests of investors and further the public interest in the preparation of informative, accurate, and independent audit reports. The Board shall be a body corporate, operate as a nonprofit corporation, and have succession until dissolved by an Act of Congress.
 
 #### (b) Status
 
@@ -12,9 +12,9 @@ The Board shall not be an agency or establishment of the United States Governmen
 
 The Board shall, subject to action by the Commission under section 7217 of this title, and once a determination is made by the Commission under subsection (d) of this section—
 
-&emsp;(1) register public accounting firms that prepare audit reports for issuers, in accordance with section 7212 of this title;
+&emsp;(1) register public accounting firms that prepare audit reports for issuers, brokers, and dealers, in accordance with section 7212 of this title;
 
-&emsp;(2) establish or adopt, or both, by rule, auditing, quality control, ethics, independence, and other standards relating to the preparation of audit reports for issuers, in accordance with section 7213 of this title;
+&emsp;(2) establish or adopt, or both, by rule, auditing, quality control, ethics, independence, and other standards relating to the preparation of audit reports for issuers, brokers, and dealers, in accordance with section 7213 of this title;
 
 &emsp;(3) conduct inspections of registered public accounting firms, in accordance with section 7214 of this title and the rules of the Board;
 
@@ -34,7 +34,7 @@ The members of the Board shall take such action (including hiring of staff, prop
 
 #### (1) Composition
 
-&emsp;The Board shall have 5 members, appointed from among prominent individuals of integrity and reputation who have a demonstrated commitment to the interests of investors and the public, and an understanding of the responsibilities for and nature of the financial disclosures required of issuers under the securities laws and the obligations of accountants with respect to the preparation and issuance of audit reports with respect to such disclosures.
+&emsp;The Board shall have 5 members, appointed from among prominent individuals of integrity and reputation who have a demonstrated commitment to the interests of investors and the public, and an understanding of the responsibilities for and nature of the financial disclosures required of issuers, brokers, and dealers under the securities laws and the obligations of accountants with respect to the preparation and issuance of audit reports with respect to such disclosures.
 
 #### (2) Limitation
 
@@ -60,7 +60,7 @@ The members of the Board shall take such action (including hiring of staff, prop
 
 &emsp;&emsp;The term of service of each Board member shall be 5 years, and until a successor is appointed, except that—
 
-&emsp;&emsp;&emsp;(i) the terms of office of the initial Board members (other than the chairperson)shall expire in annual increments, 1 on each of the first 4 anniversaries of the initial date of appointment; and
+&emsp;&emsp;&emsp;(i) the terms of office of the initial Board members (other than the chairperson) shall expire in annual increments, 1 on each of the first 4 anniversaries of the initial date of appointment; and
 
 &emsp;&emsp;&emsp;(ii) any Board member appointed to fill a vacancy occurring before the expiration of the term for which the predecessor was appointed shall be appointed only for the remainder of that term.
 
@@ -110,11 +110,21 @@ The rules of the Board shall, subject to the approval of the Commission—
 
 The Board shall submit an annual report (including its audited financial statements) to the Commission, and the Commission shall transmit a copy of that report to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives, not later than 30 days after the date of receipt of that report by the Commission.
 
-(Pub. L. 107–204, title I, §101, July 30, 2002, 116 Stat. 750.)
+(Pub. L. 107–204, title I, §101, July 30, 2002, 116 Stat. 750; Pub. L. 111–203, title IX, §982(b), July 21, 2010, 124 Stat. 1928.)
 
 #### References in Text
 
 This Act, referred to in subsecs. (b), (c)(5), (6), (f), and (g)(1), (4), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
 
 The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §982(b)(2), substituted “companies that” for “public companies that” and struck out “for companies the securities of which are sold to, and held by and for, public investors” after “independent audit reports”.
+
+Subsecs. (c)(1), (2), (e)(1). Pub. L. 111–203, §982(b)(1), substituted “issuers, brokers, and dealers” for “issuers”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 

@@ -1,7 +1,5 @@
 subpart 2—family unity demonstration project for federal prisoners
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

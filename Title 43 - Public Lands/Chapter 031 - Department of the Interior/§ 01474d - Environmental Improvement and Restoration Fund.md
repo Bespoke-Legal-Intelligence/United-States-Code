@@ -66,7 +66,7 @@ A project referred to in subsection (c)(1) of this section shall be consistent w
 
 &emsp;(J) the Director of the Alaska SeaLife Center;
 
-&emsp;(K) five members nominated by the Governor of Alaska and appointed by the Secretary of Commerce, one of whom shall represent fishing interests, one of whom shall represent Alaska Natives, one of whom shallrepresent environmental interests, one of whom shall represent academia, and one of whom shall represent oil and gas interests;
+&emsp;(K) five members nominated by the Governor of Alaska and appointed by the Secretary of Commerce, one of whom shall represent fishing interests, one of whom shall represent Alaska Natives, one of whom shall represent environmental interests, one of whom shall represent academia, and one of whom shall represent oil and gas interests;
 
 &emsp;(L) three members nominated by the Governor of Washington and appointed by the Secretary of Commerce; and <sup>1</sup>
 
@@ -86,9 +86,9 @@ A project referred to in subsection (c)(1) of this section shall be consistent w
 
 #### Amendments
 
-2003—Subsec. (e)(4)(B). Pub. L. 108–7 substituted “15 percent” for “5 percent”.
+<b>2003</b>—Subsec. (e)(4)(B). Pub. L. 108–7 substituted “15 percent” for “5 percent”.
 
-2000—Subsec. (e)(2). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(2)(A)\], struck out “and recommended for Secretarial approval” after “shall be reviewed”.
+<b>2000</b>—Subsec. (e)(2). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(2)(A)\], struck out “and recommended for Secretarial approval” after “shall be reviewed”.
 
 Subsec. (e)(3)(A). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(2)(B)\], struck out “, who shall be a co-chair of the Board” before semicolon at end.
 
@@ -102,11 +102,11 @@ Subsec. (e)(4)(B). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(2)(E
 
 Subsec. (e)(5). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(2)(F)\], added par. (5).
 
-1999—Subsec. (c). Pub. L. 106–113, §1000(a)(3) \[title III, §352(a)(1)\], substituted “made available” for “available for appropriation, to the extent provided in the subsequent appropriations Acts,” in introductory provisions, inserted “To the extent provided in the subsequent appropriations Acts,” before “80 percent of such amounts” in par. (1), and “without further appropriation” after “20 percent of such amounts shall be made available” in par. (2).
+<b>1999</b>—Subsec. (c). Pub. L. 106–113, §1000(a)(3) \[title III, §352(a)(1)\], substituted “made available” for “available for appropriation, to the extent provided in the subsequent appropriations Acts,” in introductory provisions, inserted “To the extent provided in the subsequent appropriations Acts,” before “80 percent of such amounts” in par. (1), and “without further appropriation” after “20 percent of such amounts shall be made available” in par. (2).
 
 Subsec. (f). Pub. L. 106–113, §1000(a)(3) \[title III, §352(a)(2)\], struck out heading and text of subsec. (f). Text read as follows: “If amounts are not assumed by the concurrent budget resolution and appropriated from the Fund by December 15, 1999, the Fund shall terminate and the amounts in the Fund including the accrued interest shall be applied to reduce the Federal deficit.”
 
-1998—Subsec. (f). Pub. L. 105–277 substituted “1999” for “1998”.
+<b>1998</b>—Subsec. (f). Pub. L. 105–277 substituted “1999” for “1998”.
 
 #### Transfer of Functions
 

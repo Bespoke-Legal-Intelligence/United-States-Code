@@ -14,7 +14,7 @@
 
 (b) While an order under subsection (a) is in effect with respect to a foreign nation, no application for registration of a claim for protection in a mask work under this chapter may be denied solely because the owner of the mask work is a national, domiciliary, or sovereign authority of that foreign nation, or solely because the mask work was first commercially exploited in that foreign nation.
 
-(c) Any order issued by the Secretary of Commerce under subsection (a) shall be effective for such period as the Secretary designates in the order, except that no such order may be effective after the date on which the authority of the Secretary of Commerce terminates under subsection (e). The effective date of any such order shall also be designated in the order. In the caseof an order issued upon the petition of a person, such effective date may be no earlier than the date on which the Secretary receives such petition.
+(c) Any order issued by the Secretary of Commerce under subsection (a) shall be effective for such period as the Secretary designates in the order, except that no such order may be effective after the date on which the authority of the Secretary of Commerce terminates under subsection (e). The effective date of any such order shall also be designated in the order. In the case of an order issued upon the petition of a person, such effective date may be no earlier than the date on which the Secretary receives such petition.
 
 (d)(1) Any order issued under this section shall terminate if—
 
@@ -38,13 +38,13 @@ The date of enactment of this chapter, referred to in subsecs. (e) and (f)(2), i
 
 #### Amendments
 
-1991—Subsec. (a)(1)(B). Pub. L. 102–64, §3(1), inserted “or implementing” after “enacting”.
+<b>1991</b>—Subsec. (a)(1)(B). Pub. L. 102–64, §3(1), inserted “or implementing” after “enacting”.
 
 Subsec. (e). Pub. L. 102–64, §3(2), substituted “July 1, 1995” for “July 1, 1991”.
 
 Subsec. (f)(2). Pub. L. 102–64, §4, substituted “July 1, 1994” for “July 1, 1990”.
 
-1987—Subsec. (e). Pub. L. 100–159, §2, substituted “on July 1, 1991” for “three years after such date of enactment”.
+<b>1987</b>—Subsec. (e). Pub. L. 100–159, §2, substituted “on July 1, 1991” for “three years after such date of enactment”.
 
 Subsec. (f)(2). Pub. L. 100–159, §4, which directed the amendment of subsec. (f) by inserting at end “Not later than July 1, 1990, the Secretary of Commerce, in consultation with the Register of Copyrights, shall transmit to the Committees on the Judiciary of the Senate and the House of Representatives a report updating the matters contained in the report transmitted under the preceding sentence.”, was executed by inserting new language at end of par. (2) of subsec. (f) as the probable intent of Congress.
 
@@ -86,7 +86,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(4) these bilateral and multilateral developments are encouraging steps toward improving international protection of mask works in a consistent and harmonious manner; and
 
-&emsp;“(5) it is inherent in section 902 of title 17, United States Code, that the President has the authority to revise, suspend, or revoke, as well as issue, proclamations extending mask work protection to nationals, domiciliaries, and sovereign authorities of other countries, if conditions warrant.
+&emsp;“(5) it is inherent in section 902 of title 17, United States Code, that the President has the authority torevise, suspend, or revoke, as well as issue, proclamations extending mask work protection to nationals, domiciliaries, and sovereign authorities of other countries, if conditions warrant.
 
 “(b)
 

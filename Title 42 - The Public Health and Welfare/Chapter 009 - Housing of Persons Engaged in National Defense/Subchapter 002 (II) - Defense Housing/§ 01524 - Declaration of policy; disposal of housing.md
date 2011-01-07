@@ -14,9 +14,9 @@ Public Laws 9, 73, or 353, Seventy-seventh Congress, referred to in text, refer 
 
 #### Amendments
 
-1950—Act Apr. 20, 1950, substituted “Housing and Home Finance Administrator” for “National Housing Administrator” wherever appearing.
+<b>1950</b>—Act Apr. 20, 1950, substituted “Housing and Home Finance Administrator” for “National Housing Administrator” wherever appearing.
 
-1948—Act June 19, 1948, inserted proviso to permit sale of certain permanent war housing to veterans at a purchase price not in excess of cost of construction.
+<b>1948</b>—Act June 19, 1948, inserted proviso to permit sale of certain permanent war housing to veterans at a purchase price not in excess of cost of construction.
 
 Act June 28, 1948, inserted last proviso.
 

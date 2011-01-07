@@ -26,7 +26,7 @@
 
 &emsp;(2) the term “serious bodily injury” has the meaning given that term in section 1365 of this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 689; Pub. L. 94–297, §3, May 29, 1976, 90 Stat. 585; Pub. L. 99–646, §87(c)(2), (3), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, §3(a)(2), (3), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 103–322, title XVII, §170201(a)–(d), titleXXXII, §320101(c), title XXXIII, §330016(2)(B), Sept. 13, 1994, 108 Stat. 2042, 2043, 2108, 2148; Pub. L. 104–294, title VI, §604(b)(7), (12)(B), Oct. 11, 1996, 110 Stat. 3507.)
+(June 25, 1948, ch. 645, 62 Stat. 689; Pub. L. 94–297, §3, May 29, 1976, 90 Stat. 585; Pub. L. 99–646, §87(c)(2), (3), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, §3(a)(2), (3), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 103–322, title XVII, §170201(a)–(d), title XXXII, §320101(c), title XXXIII, §330016(2)(B), Sept. 13, 1994, 108 Stat. 2042, 2043, 2108, 2148; Pub. L. 104–294, title VI, §604(b)(7), (12)(B), Oct. 11, 1996, 110 Stat. 3507.)
 
 #### Historical and Revision Notes
 
@@ -38,21 +38,21 @@ Phraseology was simplified.
 
 #### Amendments
 
-1996—Pub. L. 104–294, §604(b)(12)(B), repealed Pub. L. 103–322, §320101(c)(1)(A), (2)(A). See 1994 Amendment note below.
+<b>1996</b>—Pub. L. 104–294, §604(b)(12)(B), repealed Pub. L. 103–322, §320101(c)(1)(A), (2)(A). See 1994 Amendment note below.
 
 Pub. L. 104–294, §604(b)(7), repealed Pub. L. 103–322, §170201(c)(1)–(3). See 1994 Amendment note below.
 
-1994—Pub. L. 103–322, §330016(2)(B), substituted “a fine under this title” for “fine of not more than” through the immediately following dollar amount wherever appearing.
+<b>1994</b>—Pub. L. 103–322, §330016(2)(B), substituted “a fine under this title” for “fine of not more than” through the immediately following dollar amount wherever appearing.
 
 Pub. L. 103–322, §320101(c), as amended by Pub. L. 104–294, §604(b)(12)(B), which directed the amendment of subsec. (c) by substituting “ten years” for “five years” and the amendment of subsec. (e) by substituting “six months” for “three months”, were executed by making the substitutions in subsecs. (a)(3) and (a)(5), respectively, to reflect the probable intent of Congress and the redesignation of subsecs. (c) and (e) as subsecs. (a)(3) and (a)(5), respectively. See below.
 
 Pub. L. 103–322, §170201(a)–(d), as amended by Pub. L. 104–294, §604(b)(7), designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (f) as pars. (1) to (6), respectively of subsec. (a) and realigned margins, inserted before period at end of par. (5) “, or if the victim of the assault is an individual who has not attained the age of 16 years, by fine under this title or imprisonment for not more than 1 year, or both”, and added subsecs. (a)(7) and (b).
 
-1986—Subsec. (a). Pub. L. 99–646, §87(c)(2), and Pub. L. 99–654, §3(a)(2), amended subsec. (a) identically, striking out “or rape” after “murder”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–646, §87(c)(2), and Pub. L. 99–654, §3(a)(2), amended subsec. (a) identically, striking out “or rape” after “murder”.
 
 Subsec. (b). Pub. L. 99–646, §87(c)(3), and Pub. L. 99–654, §3(a)(3), amended subsec. (b) identically, substituting “a felony under chapter 109A” for “rape”.
 
-1976—Subsec. (f). Pub. L. 94–297 added subsec. (f).
+<b>1976</b>—Subsec. (f). Pub. L. 94–297 added subsec. (f).
 
 #### Effective Date of 1996 Amendment
 

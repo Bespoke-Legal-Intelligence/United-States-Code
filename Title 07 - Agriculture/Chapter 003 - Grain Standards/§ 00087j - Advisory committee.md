@@ -36,7 +36,7 @@ The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–
 
 1994—Subsecs. (a), (c). Pub. L. 103–354 substituted “Secretary” for “Administrator”.
 
-1993—Subsec. (a). Pub. L. 103–156, §13(b)(1), struck out “(1)” before “Not later than” and struck out par. (2) which read as follows: “To ensure a smooth transition, the advisory committee established under section 87i of this title (as in effect prior to October 1, 1988) shall continue in existence until all members of the advisory committee established under this section are appointed; and the Secretary may appoint members of the advisory committee established under section 87i of this title to serve on the advisory committee established under this section, without regard to the time of service of such members on the advisory committee established under section 87i of this title.”
+1993—Subsec. (a). Pub. L. 103–156, §13(b)(1), struck out “(1)” before “Not later than” and struck out par. (2) which read as follows: “To ensure a smooth transition, the advisory committee established under section 87i of this title (as in effect prior to October 1, 1988) shall continue in existence until all members of the advisory committee established under this section are appointed; and the Secretary may appoint members of the advisory committee established under section 87i ofthis title to serve on the advisory committee established under this section, without regard to the time of service of such members on the advisory committee established under section 87i of this title.”
 
 Subsec. (e). Pub. L. 103–156, §14(c), added subsec. (e).
 

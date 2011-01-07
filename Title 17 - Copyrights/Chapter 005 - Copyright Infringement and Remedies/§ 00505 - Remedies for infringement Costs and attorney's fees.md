@@ -6,7 +6,7 @@ In any civil action under this title, the court in its discretion may allow the 
 
 #### Historical and Revision Notes
 
-I74house report no. 94–1476
+#### house report no. 94–1476
 
 Under section 505 the awarding of costs and attorney's fees are left to the court's discretion, and the section also makes clear that neither costs nor attorney's fees can be awarded to or against “the United States or an officer thereof.”
 

@@ -6,7 +6,7 @@ The Secretary of a military department may develop, or authorize the development
 
 #### Amendments
 
-2006—Pub. L. 109–364 renumbered section 2689 of this title as this section.
+<b>2006</b>—Pub. L. 109–364 renumbered section 2689 of this title as this section.
 
 #### Effective Date
 

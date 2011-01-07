@@ -6,5 +6,5 @@ There are hereby authorized to be appropriated not more than $7,100,000 for the 
 
 #### Amendments
 
-1974—Pub. L. 93–477 substituted “$7,100,000” for “$1,200,000”.
+<b>1974</b>—Pub. L. 93–477 substituted “$7,100,000” for “$1,200,000”.
 

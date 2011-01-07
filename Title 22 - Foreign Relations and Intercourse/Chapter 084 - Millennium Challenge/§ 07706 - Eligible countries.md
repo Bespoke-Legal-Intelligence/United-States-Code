@@ -70,7 +70,7 @@ This chapter, referred to in subsec. (c)(2)(C), was in the original “this titl
 
 #### Amendments
 
-2007—Subsec. (b)(2)(B). Pub. L. 110–161, §699I(a)(1), struck out “and the sustainable management of natural resources” after “growth”.
+<b>2007</b>—Subsec. (b)(2)(B). Pub. L. 110–161, §699I(a)(1), struck out “and the sustainable management of natural resources” after “growth”.
 
 Subsec. (b)(3)(C). Pub. L. 110–161, §699I(a)(2), added subpar. (C).
 

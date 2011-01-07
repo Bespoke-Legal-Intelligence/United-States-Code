@@ -84,7 +84,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 #### (2) Medical outcomes
 
-&emsp;In this subsection, the term “medical outcomes” means those outcomes affecting theHIV-related clinical status of an individual with HIV/AIDS.
+&emsp;In this subsection, the term “medical outcomes” means those outcomes affecting the HIV-related clinical status of an individual with HIV/AIDS.
 
 #### (e) Early intervention services
 
@@ -186,7 +186,7 @@ A chief elected official may not use amounts received under a grant awarded unde
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (f)(2) and (g)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (f)(2) and (g)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620.Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Prior Provisions
 
@@ -194,15 +194,15 @@ A prior section 2604 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-2009—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+<b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
 Pub. L. 109–415, §105, amended section generally. Prior to amendment, section related to requirements for allocation of funds, purposes for use of amounts, quality management program, expenditures for personnel, status of grantee as medicaid provider, administrative activities and expenses, and prohibited uses of amounts.
 
 Subsecs. (h)(1), (2), (5)(A) and (i). Pub. L. 109–415, §107(b), substituted “this subpart” for “this part”.
 
-2000—Subsec. (b)(1). Pub. L. 106–345, §121(a)(1), substituted “HIV-related services, as follows:” for “HIV-related—” in introductory provisions.
+<b>2000</b>—Subsec. (b)(1). Pub. L. 106–345, §121(a)(1), substituted “HIV-related services, as follows:” for “HIV-related—” in introductory provisions.
 
 Subsec. (b)(1)(A). Pub. L. 106–345, §121(a)(2), substituted “Outpatient and ambulatory health services, including substance abuse treatment,” for “outpatient and ambulatory health and support services, including case management, substance abuse treatment and” and substituted a period for “; and” at end.
 
@@ -218,7 +218,7 @@ Subsec. (b)(4). Pub. L. 106–345, §121(b)(1), (c), redesignated par. (3) as (4
 
 Subsecs. (c) to (g). Pub. L. 106–345, §121(d), added subsec. (c) and redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
 
-1996—Subsec. (b)(1)(A). Pub. L. 104–146, §3(b)(4)(A), inserted “, substance abuse treatment and mental health treatment,” after “case management” and “which shall include treatment education and prophylactic treatment for opportunistic infections,” after “treatment services,”.
+<b>1996</b>—Subsec. (b)(1)(A). Pub. L. 104–146, §3(b)(4)(A), inserted “, substance abuse treatment and mental health treatment,” after “case management” and “which shall include treatment education and prophylactic treatment for opportunistic infections,” after “treatment services,”.
 
 Subsec. (b)(2)(A). Pub. L. 104–146, §3(b)(4)(B), inserted “, or private for-profit entities if such entities are the only available provider of quality HIV care in the area,” after “nonprofit private entities,” and substituted “homeless health centers, substance abuse treatment programs, and mental health programs” for “and homeless health centers”.
 
@@ -226,7 +226,7 @@ Subsec. (b)(3). Pub. L. 104–146, §3(b)(4)(C), added par. (3).
 
 Subsec. (e). Pub. L. 104–146, §3(b)(4)(C), struck out “and planning” after “Administration” in heading, designated existing provisions as par. (1), inserted par. heading, struck out “accounting, reporting, and program oversight functions” after “for administration,”, inserted at end “In the case of entities and subcontractors to which such officer allocates amounts received by the officer under the grant, the officer shall ensure that, of the aggregate amount so allocated, the total of the expenditures by such entities for administrative expenses does not exceed 10 percent (without regard to whether particular entities expend more than 10 percent for such expenses).”, and added pars. (2) and (3).
 
-1994—Subsec. (b)(2)(A). Pub. L. 103–446 substituted “Department of Veterans Affairs facilities” for “Veterans Administration facilities”.
+<b>1994</b>—Subsec. (b)(2)(A). Pub. L. 103–446 substituted “Department of Veterans Affairs facilities” for “Veterans Administration facilities”.
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

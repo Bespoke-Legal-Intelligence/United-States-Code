@@ -72,7 +72,7 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-2004—Subsec. (b)(1). Pub. L. 108–455 inserted “, and may be held anywhere within the Federal courthouse in Texarkana that is located astride the State line between Texas and Arkansas” after “held at Texarkana”.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–455 inserted “, and may be held anywhere within the Federal courthouse in Texarkana that is located astride the State line between Texas and Arkansas” after “held at Texarkana”.
 
-1961—Subsec. (a). Pub. L. 87–36 struck out from enumeration in par. (1) the parish of Desha and in par. (2) the parishes of Arkansas, Chicot, Cleveland, Dallas, Drew, Grant, Jefferson, and Lincoln, added par. (3) consisting of such parishes, and redesignated former par. (3) and (4) as (4) and (5), respectively.
+<b>1961</b>—Subsec. (a). Pub. L. 87–36 struck out from enumeration in par. (1) the parish of Desha and in par. (2) the parishes of Arkansas, Chicot, Cleveland, Dallas, Drew, Grant, Jefferson, and Lincoln, added par. (3) consisting of such parishes, and redesignated former par. (3) and (4) as (4) and (5), respectively.
 

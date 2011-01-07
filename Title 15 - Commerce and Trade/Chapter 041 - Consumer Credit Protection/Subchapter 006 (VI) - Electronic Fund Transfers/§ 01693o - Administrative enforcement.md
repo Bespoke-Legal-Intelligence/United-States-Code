@@ -20,7 +20,7 @@ Compliance with the requirements imposed under this subchapter shall be enforced
 
 &emsp;(5) the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], by the Securities and Exchange Commission, with respect to any broker or dealer subject to that Act.
 
-> The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined insection 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).
+> The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).
 
 #### (b) Violations of subchapter deemed violations of pre-existing statutory requirements; additional powers
 
@@ -30,11 +30,41 @@ For the purpose of the exercise by any agency referred to in subsection (a) of t
 
 Except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other Government agency under subsection (a) of this section, the Federal Trade Commission shall enforce such requirements. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], a violation of any requirement imposed under this subchapter shall be deemed a violation of a requirement imposed under that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Commission to enforce compliance by any person subject to the jurisdiction of the Commission with the requirements imposed under this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act.
 
-(Pub. L. 90–321, title IX, §917, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3739; amended Pub. L. 101–73, title VII, §744(<i>o</i>), Aug. 9, 1989, 103 Stat. 440; Pub. L. 102–242, title II, §212(f), Dec. 19, 1991, 105 Stat. 2301; Pub. L. 104–287, §6(h), Oct. 11, 1996, 110 Stat. 3399.)
+(Pub. L. 90–321, title IX, §918, formerly §917, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3739; amended Pub. L. 101–73, title VII, §744(<i>o</i>), Aug. 9, 1989, 103 Stat. 440; Pub. L. 102–242, title II, §212(f), Dec. 19, 1991, 105 Stat. 2301; Pub. L. 104–287, §6(h), Oct. 11, 1996, 110 Stat. 3399; renumbered §918, Pub. L. 111–24, title IV, §401(1), May 22, 2009, 123 Stat. 1751; Pub. L. 111–203, title X, §1084(5), July 21, 2010, 124 Stat. 2082.)
 
-#### Renumbering of Section
+#### Amendment of Section
 
-<i>Pub. L. 111–24, title IV, §§401(1), 403, May 22, 2009, 123 Stat. 1751, 1754, provided that, effective 15 months after May 22, 2009, section 917 of Pub. L. 90–321, which is classified to this section, is renumbered section 918 of Pub. L. 90–321.</i>
+<i>Pub. L. 111–203, title X, §§1084(5), 1100H, July 21, 2010, 124 Stat. 2082, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
+
+<i>(1) in subsection (a)—</i>
+
+<i>(A) by striking “Compliance” and inserting “Subject to subtitle B of the Consumer Financial Protection Act of 2010, compliance”;</i>
+
+<i>(B) by striking paragraphs (1) and (2) and inserting the following:</i>
+
+&emsp;<i>“(1) section 8 of the Federal Deposit Insurance Act, by the appropriate Federal banking agency, as defined in section 3(q) of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)), with respect to—</i>
+
+&emsp;&emsp;<i>“(A) national banks, Federal savings associations, and Federal branches and Federal agencies of foreign banks;</i>
+
+&emsp;&emsp;<i>“(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25A of the Federal Reserve Act; and</i>
+
+&emsp;&emsp;<i>“(C) banks and State savings associations insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), and insured State branches of foreign banks;”;</i>
+
+<i>(C) by redesignating paragraphs (3) through (5) as paragraphs (2) through (4), respectively, and, in paragraph (2) (as so redesignated), by striking the period at the end and inserting a semicolon, in paragraph (3) (as so redesignated), by striking “and” at the end, and in paragraph (4) (as so redesignated), by striking the period at the end and inserting “and”; and</i>
+
+<i>(D) by adding at the end the following:</i>
+
+&emsp;<i>“(5) subtitle E of the Consumer Financial Protection Act of 2010, by the Bureau, with respect to any person subject to this subchapter, except that the Bureau shall not have authority to enforce the requirements of section 1693o–2 of this title or any regulations prescribed by the Board under section 1693o–2 of this title.”;</i>
+
+<i>(2) in subsection (b), by inserting “any of paragraphs (1) through (4) of” before “subsection (a)” each place that term appears; and</i>
+
+<i>(3) by striking subsection (c) and inserting the following:</i>
+
+#### <i>“(c) Overall enforcement authority of the Federal Trade Commission</i>
+
+<i>“Except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other Government agency under any of paragraphs (1) through (4) of subsection (a), and subject to subtitle B of the Consumer Financial Protection Act of 2010, the Federal Trade Commission shall be authorized to enforce such requirements. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act, a violation of any requirement imposed under this subchapter shall be deemed a violation of a requirement imposed under that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Federal Trade Commission to enforce compliance by any person subject to the jurisdiction of the Federal Trade Commission with the requirements imposed under this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests under the Federal Trade Commission Act.”</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -50,11 +80,15 @@ The Federal Trade Commission Act, referred to in subsec. (c), is act Sept. 26, 1
 
 In subsec. (a)(4), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958 \[49 App. U.S.C. 1301 et seq.\]” and “that part” substituted for “that Act” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
+#### Prior Provisions
+
+A prior section 918 of Pub. L. 90–321 was renumbered section 921 and is classified to section 1693p of this title.
+
 #### Amendments
 
-1996—Subsec. (a)(4). Pub. L. 104–287 substituted “Secretary of Transportation” for “Civil Aeronautics Board”.
+<b>1996</b>—Subsec. (a)(4). Pub. L. 104–287 substituted “Secretary of Transportation” for “Civil Aeronautics Board”.
 
-1991—Subsec. (a). Pub. L. 102–242, §212(f)(2), inserted at end “The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).”
+<b>1991</b>—Subsec. (a). Pub. L. 102–242, §212(f)(2), inserted at end “The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).”
 
 Pub. L. 102–242, §212(f)(1), added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act, in the case of—
 
@@ -64,7 +98,11 @@ Pub. L. 102–242, §212(f)(1), added par. (1) and struck out former par. (1) wh
 
 &emsp;“(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), by the Board of Directors of the Federal Deposit Insurance Corporation;”.
 
-1989—Subsec. (a)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “section 5(d) of the Home Owners’ Loan Act of 1933, section 407 of the National Housing Act, and sections 6(i) and 17 of the Federal Home Loan Bank Act, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation), in the case of any institution subject to any of those provisions;”.
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “section 5(d) of the Home Owners’ Loan Act of 1933, section 407 of the National Housing Act, and sections 6(i) and 17 of the Federal Home Loan Bank Act, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation), in the case of any institution subject to any of those provisions;”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Transfer of Functions
 

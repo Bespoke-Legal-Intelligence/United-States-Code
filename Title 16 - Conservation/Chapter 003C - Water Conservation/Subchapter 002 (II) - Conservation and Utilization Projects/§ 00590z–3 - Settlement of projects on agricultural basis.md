@@ -10,7 +10,7 @@ For the purposes of this section, the Secretary of Agriculture may utilize (1) i
 
 #### (c) Advertisement for purchases or services
 
-Where the aggregate amount involved does not exceed $300, the provisions of section 5 of title 41 shall not apply to any purchase or service authorized for the Department of Agriculture under this subchapter or under the 1940 water conservation appropriation.
+Where the aggregate amount involved does not exceed $300, the provisions of section 6101 of title 41 shall not apply to any purchase or service authorized for the Department of Agriculture under this subchapter or under the 1940 water conservation appropriation.
 
 (Aug. 11, 1939, ch. 717, §5, as added Oct. 14, 1940, ch. 861, 54 Stat. 1122; amended July 16, 1943, ch. 242, §6, 57 Stat. 568.)
 
@@ -18,9 +18,13 @@ Where the aggregate amount involved does not exceed $300, the provisions of sect
 
 For 1940 water conservation appropriation citation, referred to in subsec. (c), see section 590z–1(c) of this title.
 
+#### Codification
+
+In subsec. (c), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-1943—Subsec. (c). Act July 16, 1943, added subsec. (c).
+<b>1943</b>—Subsec. (c). Act July 16, 1943, added subsec. (c).
 
 #### Transfer of Functions
 

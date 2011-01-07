@@ -14,7 +14,7 @@ Thereafter.—The Secretary shall withhold 10 percent (including any amounts wit
 
 &emsp;(3)
 
-Requirement.—A State meets the requirement of this paragraph if the State has enacted and is enforcing a law that considers an individual under the age of 21 who has a blood alcohol concentration of 0.02 percent or greater while operating a motor vehicle in the State to be driving while intoxicated or driving under the influence of alcohol.
+Requirement.—A State meets the requirement of this paragraph if the State hasenacted and is enforcing a law that considers an individual under the age of 21 who has a blood alcohol concentration of 0.02 percent or greater while operating a motor vehicle in the State to be driving while intoxicated or driving under the influence of alcohol.
 
 (b)
 
@@ -48,5 +48,5 @@ Effect of noncompliance.—If, at the end of the period for which funds withheld
 
 #### Amendments
 
-1998—Subsec. (a)(1), (2). Pub. L. 105–178 substituted “paragraphs (1), (3), and (4) of section 104(b)” for “paragraphs (1), (3), and (5)(B) of section 104(b)”.
+<b>1998</b>—Subsec. (a)(1), (2). Pub. L. 105–178 substituted “paragraphs (1), (3), and (4) of section 104(b)” for “paragraphs (1), (3), and (5)(B) of section 104(b)”.
 

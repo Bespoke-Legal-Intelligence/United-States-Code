@@ -24,7 +24,7 @@ An individual described in section 12602(a) of this title who successfully compl
 
 #### Amendments
 
-2009—Pub. L. 111–13, §1404(1), substituted section catchline for former section catchline.
+<b>2009</b>—Pub. L. 111–13, §1404(1), substituted section catchline for former section catchline.
 
 Subsec. (a). Pub. L. 111–13, §1404(2), amended subsec. (a) generally. Prior to amendment, text read as follows: “Except as provided in subsection (c) of this section, an individual described in section 12602(a) of this title who successfully completes a required term of full-time national service in an approved national service position shall receive a national service educational award having a value, for each of not more than 2 of such terms of service, equal to 90 percent of—
 

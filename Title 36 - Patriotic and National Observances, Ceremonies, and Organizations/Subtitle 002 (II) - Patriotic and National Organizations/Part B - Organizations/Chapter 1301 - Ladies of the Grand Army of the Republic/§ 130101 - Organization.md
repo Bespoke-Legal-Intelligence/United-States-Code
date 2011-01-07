@@ -24,7 +24,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-130101D36:78.DJune 17, 1959, Pub. L. 86–47, §§1, 2, 4(1), 73 Stat. 76, 77.
+130101
+
+36:78.
+
+June 17, 1959, Pub. L. 86–47, §§1, 2, 4(1), 73 Stat. 76, 77.
 
 &nbsp;
 

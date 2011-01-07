@@ -20,7 +20,63 @@ For purposes of this subsection, the term “interest payment date” means each
 
 For purposes of this subsection, the term “qualified bond” has the meaning given such term in section 54AA(g).
 
-(Added Pub. L. 111–5, div. B, title I, §1531(b), Feb. 17, 2009, 123 Stat. 359.)
+#### (f) Application of section to certain qualified tax credit bonds
+
+#### (1) In general
+
+&emsp;In the case of any specified tax credit bond—
+
+&emsp;&emsp;(A) such bond shall be treated as a qualified bond for purposes of this section,
+
+&emsp;&emsp;(B) subsection (a) shall be applied without regard to the requirement that the qualified bond be issued before January 1, 2011,
+
+&emsp;&emsp;(C) the amount of the payment determined under subsection (b) with respect to any interest payment due under such bond shall be equal to the lesser of—
+
+&emsp;&emsp;&emsp;(i) the amount of interest payable under such bond on such date, or
+
+&emsp;&emsp;&emsp;(ii) the amount of interest which would have been payable under such bond on such date if such interest were determined at the applicable credit rate determined under section 54A(b)(3),
+
+&emsp;&emsp;(D) interest on any such bond shall be includible in gross income for purposes of this title,
+
+&emsp;&emsp;(E) no credit shall be allowed under section 54A with respect to such bond,
+
+&emsp;&emsp;(F) any payment made under subsection (b) shall not be includible as income for purposes of this title, and
+
+&emsp;&emsp;(G) the deduction otherwise allowed under this title to the issuer of such bond with respect to interest paid under such bond shall be reduced by the amount of the payment made under this section with respect to such interest.
+
+#### (2) Special rule for new clean renewable energy bonds and qualified energy conservation bonds
+
+&emsp;In the case of any specified tax credit bond described in clause (i) or (ii) of paragraph (3)(A), the amount determined under paragraph (1)(C)(ii) shall be 70 percent of the amount so determined without regard to this paragraph and sections 54C(b) and 54D(b).
+
+#### (3) Specified tax credit bond
+
+&emsp;For purposes of this subsection, the term “specified tax credit bond” means any qualified tax credit bond (as defined in section 54A(d)) if—
+
+&emsp;&emsp;(A) such bond is—
+
+&emsp;&emsp;&emsp;(i) a new clean renewable energy bond (as defined in section 54C),
+
+&emsp;&emsp;&emsp;(ii) a qualified energy conservation bond (as defined in section 54D),
+
+&emsp;&emsp;&emsp;(iii) a qualified zone academy bond (as defined in section 54E) determined without regard to any allocation relating to the national zone academy bond limitation for 2011 or any carryforward of such allocation, or
+
+&emsp;&emsp;&emsp;(iv) a qualified school construction bond (as defined in section 54F), and
+
+&emsp;&emsp;(B) the issuer of such bond makes an irrevocable election to have this subsection apply.
+
+(Added Pub. L. 111–5, div. B, title I, §1531(b), Feb. 17, 2009, 123 Stat. 359; amended Pub. L. 111–147, title III, §301(a), Mar. 18, 2010, 124 Stat. 77; Pub. L. 111–312, title VII, §758(b), Dec. 17, 2010, 124 Stat. 3323.)
+
+#### Amendments
+
+<b>2010</b>—Subsec. (f). Pub. L. 111–147 added subsec. (f).
+
+Subsec. (f)(3)(A)(iii). Pub. L. 111–312 inserted “determined without regard to any allocation relating to the national zone academy bond limitation for 2011 or any carryforward of such allocation” after “54E)”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–312 applicable to obligations issued after Dec. 31, 2010, see section 758(c) of Pub. L. 111–312, set out as a note under section 54E of this title.
+
+Pub. L. 111–147, title III, §301(c)(1), Mar. 18, 2010, 124 Stat. 78, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Mar. 18, 2010\].”
 
 #### Effective Date
 

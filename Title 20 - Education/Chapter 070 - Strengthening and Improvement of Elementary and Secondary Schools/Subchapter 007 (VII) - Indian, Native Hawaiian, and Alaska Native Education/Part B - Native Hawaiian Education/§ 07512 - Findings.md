@@ -80,7 +80,7 @@ Congress finds the following:
 
 &emsp;&emsp;(D) both public and private schools continue to show a pattern of lower percentages of Native Hawaiian students in the uppermost achievement levels and in gifted and talented programs;
 
-&emsp;&emsp;(E) Native Hawaiian students continue to be overrepresented among students qualifying for special education programs provided to students with learning disabilities, mild mental retardation, emotional impairment, and other such disabilities;
+&emsp;&emsp;(E) Native Hawaiian students continue to be overrepresented among students qualifying for special education programs provided to students with learning disabilities, mild intellectual disabilities, emotional impairment, and other such disabilities;
 
 &emsp;&emsp;(F) Native Hawaiians continue to be underrepresented in institutions of higher education and among adults who have completed four or more years of college;
 
@@ -110,7 +110,7 @@ Congress finds the following:
 
 &emsp;&emsp;(C) promotes the study of the Hawaiian culture, language, and history by providing a Hawaiian education program and using community expertise as a suitable and essential means to further the program.
 
-(Pub. L. 89–10, title VII, §7202, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1932.)
+(Pub. L. 89–10, title VII, §7202, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1932; amended Pub. L. 111–256, §2(c), Oct. 5, 2010, 124 Stat. 2643.)
 
 #### References in Text
 
@@ -118,33 +118,41 @@ Public Law 103–150, referred to in par. (5), is Pub. L. 103–150, Nov. 23, 19
 
 Joint Resolution to provide for annexing the Hawaiian Islands to the United States, approved July 7, 1898, referred to in par. (6), is act July 7, 1898, No. 55, 30 Stat. 750, known as the Newlands Resolution. For complete classification of this joint resolution to the Code, see Tables.
 
-The Hawaiian Homes Commission Act, 1920, referred to in pars. (7), (8), and (11), is act July 9, 1921, ch. 42, 42 Stat. 108, as amended, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code. Section 201 of the Act was classified to section 692 of Title 48.
+The Hawaiian Homes Commission Act, 1920, referred to in pars. (7), (8), and (11), is act July 9, 1921, ch. 42, 42 Stat. 108, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code. Section 201 of the Act was classified to section 692 of Title 48.
 
-Act of June 20, 1938, referred to in par. (9), is act June 20, 1938, ch. 530, 52 Stat. 781, as amended, which is classified to sections 391b, 391b–1, 392b, 392c, 396, and 396a of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
+Act of June 20, 1938, referred to in par. (9), is act June 20, 1938, ch. 530, 52 Stat. 781, which is classified to sections 391b, 391b–1, 392b, 392c, 396, and 396a of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
 
-An Act to provide for the admission of the State of Hawaii into the Union, referred to in pars. (10) and (11), is Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, as amended, popularly known as the Hawaii Statehood Admissions Act, which is set out as a note preceding former section 491 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+An Act to provide for the admission of the State of Hawaii into the Union, referred to in pars. (10) and (11), is Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, popularly known as the Hawaii Statehood Admissions Act, which is set out as a note preceding former section 491 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
-The Native American Programs Act of 1974, referred to in par. (13)(A), is title VIII of Pub. L. 88–452, as added by Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324, as amended, which is classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 2991 of Title 42 and Tables.
+The Native American Programs Act of 1974, referred to in par. (13)(A), is title VIII of Pub. L. 88–452, as added by Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324, whichis classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 2991 of Title 42 and Tables.
 
-The American Indian Religious Freedom Act, referred to in par. (13)(B), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, as amended, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
+The American Indian Religious Freedom Act, referred to in par. (13)(B), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
 
-The National Museum of the American Indian Act, referred to in par. (13)(C), is Pub. L. 101–185, Nov. 28, 1989, 103 Stat. 1336, as amended, which is classified generally to subchapter XIII (§80q et seq.) of chapter 3 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 80q of this title and Tables.
+The National Museum of the American Indian Act, referred to in par. (13)(C), is Pub. L. 101–185, Nov. 28, 1989, 103 Stat. 1336, which is classified generally to subchapter XIII (§80q et seq.) of chapter 3 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 80q of this title and Tables.
 
 The Native American Graves Protection and Repatriation Act, referred to in par. (13)(D), is Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to chapter 32 (§3001 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 25 and Tables.
 
-The National Historic Preservation Act, referred to in par. (13)(E), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see section 470(a) of Title 16 and Tables.
+The National Historic Preservation Act, referred to in par. (13)(E), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see section 470(a) of Title 16 and Tables.
 
-The Native American Languages Act, referred to in par. (13)(F), is title I of Pub. L. 101–477, Oct. 30, 1990, 104 Stat. 1153, as amended, which is classified generally to chapter 31 (§2901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of Title 25 and Tables.
+The Native American Languages Act, referred to in par. (13)(F), is title I of Pub. L. 101–477, Oct. 30, 1990, 104 Stat. 1153, which is classified generally to chapter 31 (§2901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of Title 25 and Tables.
 
-The American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act, referred to in par. (13)(G), is title XV of Pub. L. 99–498, Oct. 17, 1986, 100 Stat. 1600, as amended, which is classified generally to chapter 56 (§4401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4401 of this title and Tables.
+The American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act, referred to in par. (13)(G), is title XV of Pub. L. 99–498, Oct. 17, 1986, 100 Stat. 1600, which is classified generally to chapter 56 (§4401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4401 of this title and Tables.
 
-The Workforce Investment Act of 1998, referred to in par. (13)(H), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
+The Workforce Investment Act of 1998, referred to in par. (13)(H), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
-The Older Americans Act of 1965, referred to in par. (13)(I), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
+The Older Americans Act of 1965, referred to in par. (13)(I), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
-The Augustus F. Hawkins-Robert T. Stafford Elementary and Secondary School Improvement Amendments of 1988, referred to in pars. (15) and (16), is Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 130, as amended. Title IV of the Act was classified generally to chapter 61 (§4901 et seq.) of this title prior to repeal by Pub. L. 103–382, title III, §363, Oct. 20, 1994, 108 Stat. 3975.
+The Augustus F. Hawkins-Robert T. Stafford Elementary and Secondary School Improvement Amendments of 1988, referred to in pars. (15) and (16), is Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 130. Title IV of the Act was classified generally to chapter 61 (§4901 et seq.) of this title prior to repeal by Pub. L. 103–382, title III, §363, Oct. 20, 1994, 108 Stat. 3975.
 
 #### Prior Provisions
 
 A prior section 7512, Pub. L. 89–10, title VII, §7202, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3737, set forth findings of the Foreign Language Assistance Act of 1994, prior to the general amendment of this subchapter by Pub. L. 107–110.
+
+#### Amendments
+
+<b>2010</b>—Par. (16)(E). Pub. L. 111–256 substituted “mild intellectual disabilities,” for “mild mental retardation,”.
+
+#### Definitions
+
+For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under section 1400 of this title.
 

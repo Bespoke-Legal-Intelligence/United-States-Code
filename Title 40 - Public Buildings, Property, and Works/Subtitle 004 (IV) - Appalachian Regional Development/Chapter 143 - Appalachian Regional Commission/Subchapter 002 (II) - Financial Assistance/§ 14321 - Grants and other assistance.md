@@ -46,7 +46,7 @@ Discretionary grants.—
 
 &emsp;&emsp;&emsp;(i)
 
-Grants to which percentage limitation doesn't apply.—Discretionary grants made by the Commission to implement significant regional initiatives, to take advantage of special development opportunities, or to respond to emergency economic distress in the region may be made without regard to the percentage limitations specified in subparagraph (A).
+Grants to which percentage limitation doesn't apply.—Discretionary grantsmade by the Commission to implement significant regional initiatives, to take advantage of special development opportunities, or to respond to emergency economic distress in the region may be made without regard to the percentage limitations specified in subparagraph (A).
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -144,7 +144,7 @@ The Public Works and Economic Development Act of 1965, referred to in subsec. (a
 
 #### Amendments
 
-2008—Subsec. (a)(1)(A)(i). Pub. L. 110–371, §2(a)(1), added cl. (i) and struck out former cl. (i) which read as follows: “the amount of a grant shall not exceed 50 percent of administrative expenses or, at the discretion of the Commission, 75 percent of administrative expenses if the grant is to a local development district that has a charter or authority that includes the economic development of a county or part of a county for which a distressed county designation is in effect under section 14526 of this title;”.
+<b>2008</b>—Subsec. (a)(1)(A)(i). Pub. L. 110–371, §2(a)(1), added cl. (i) and struck out former cl. (i) which read as follows: “the amount of a grant shall not exceed 50 percent of administrative expenses or, at the discretion of the Commission, 75 percent of administrative expenses if the grant is to a local development district that has a charter or authority that includes the economic development of a county or part of a county for which a distressed county designation is in effect under section 14526 of this title;”.
 
 Subsec. (a)(2)(A). Pub. L. 110–371, §2(a)(2), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “Except as provided in subparagraph (B), not more than 50 percent (or 80 percent in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of the cost of any activity eligible for financial assistance under this section may be provided from amounts appropriated to carry out this subtitle.”
 

@@ -32,9 +32,9 @@ Penalties.—A person who violates this section shall be fined under this title,
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–162 inserted “or within the special maritime and territorial jurisdiction of the United States” after “Indian country”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–162 inserted “or within the special maritime and territorial jurisdiction of the United States” after “Indian country”.
 
-2000—Subsec. (a). Pub. L. 106–386 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows:
+<b>2000</b>—Subsec. (a). Pub. L. 106–386 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows:
 
 “(1)
 
@@ -52,7 +52,7 @@ Crossing a state line.—A person who travels across a State line or enters or l
 
 Causing the crossing of a state line.—A person who causes a spouse or intimate partner to cross a State line or to enter or leave Indian country by force, coercion, duress, or fraud, and, in the course or as a result of that conduct, intentionally commits an act that injures the person's spouse or intimate partner in violation of a valid protection order issued by a State shall be punished as provided in subsection (b).”
 
-1996—Subsec. (a)(1)(A)(ii). Pub. L. 104–294 substituted “violate this subparagraph” for “violate subparagraph (A)”.
+<b>1996</b>—Subsec. (a)(1)(A)(ii). Pub. L. 104–294 substituted “violate this subparagraph” for “violate subparagraph (A)”.
 
 Subsec. (b)(1) to (3). Pub. L. 104–201 substituted “victim” for “offender's spouse or intimate partner”.
 

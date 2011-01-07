@@ -1,12 +1,12 @@
 ### §471. Requirement for a district court civil justice expense and delay reduction plan
 
-There shall be implemented by each United States district court, in accordance with this chapter, a civil justice expense and delay reduction plan. The plan may be a plan developed by such district court or a model plan developed by the Judicial Conference of the United States. The purposes of each plan are to facilitate deliberate adjudication of civil cases on the merits, monitor discovery, improve litigation management, and ensure just, speedy, and inexpensive resolutions of civil disputes.
+There shall be implemented by each United States district court, in accordance with this chapter, a civil justice expense and delay reduction plan. The plan may be a plan developed bysuch district court or a model plan developed by the Judicial Conference of the United States. The purposes of each plan are to facilitate deliberate adjudication of civil cases on the merits, monitor discovery, improve litigation management, and ensure just, speedy, and inexpensive resolutions of civil disputes.
 
 (Added Pub. L. 101–650, title I, §103(a), Dec. 1, 1990, 104 Stat. 5090; amended Pub. L. 102–198, §2(1), Dec. 9, 1991, 105 Stat. 1623.)
 
 #### Amendments
 
-1991—Pub. L. 102–198 substituted “this chapter” for “this title”.
+<b>1991</b>—Pub. L. 102–198 substituted “this chapter” for “this title”.
 
 #### Congressional Statement of Findings
 
@@ -54,7 +54,7 @@ Early Implementation District Courts.—
 
 &emsp;“(3) Within 18 months after the date of the enactment of this title \[Dec. 1, 1990\], the Judicial Conference shall prepare a report on the plans developed and implemented by the Early Implementation District Courts.
 
-&emsp;“(4) The Director of the Administrative Office of the United States Courts shall transmit to the UnitedStates district courts and to the Committees on the Judiciary of the Senate and House of Representatives—
+&emsp;“(4) The Director of the Administrative Office of the United States Courts shall transmit to the United States district courts and to the Committees on the Judiciary of the Senate and House of Representatives—
 
 &emsp;&emsp;“(A) copies of the plans developed and implemented by the Early Implementation District Courts;
 
@@ -80,7 +80,7 @@ Program Requirement.—(1) The United States District Court for the Western Dist
 
 “(c)
 
-Study of Results.—The Judicial Conference of the United States, in consultation with the Director of the Federal Judicial Center and the Director of the Administrative Office of the United States Courts, shall study the experience of the district courts under the demonstration program.
+Study of Results.—The Judicial Conference of the United States, in consultation with the Director ofthe Federal Judicial Center and the Director of the Administrative Office of the United States Courts, shall study the experience of the district courts under the demonstration program.
 
 “(d)
 

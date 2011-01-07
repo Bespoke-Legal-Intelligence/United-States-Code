@@ -146,13 +146,13 @@ Provisions similar to those comprising this section were contained in Pub. L. 89
 
 #### Amendments
 
-2006—Subsec. (a)(1)(E). Pub. L. 109–365, §305(1)(A), substituted “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “(with particular attention to low-income minority individuals and older individuals residing in rural areas)” in two places.
+<b>2006</b>—Subsec. (a)(1)(E). Pub. L. 109–365, §305(1)(A), substituted “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “(with particular attention to low-income minority individuals and older individuals residing in rural areas)” in two places.
 
 Subsec. (a)(2)(E). Pub. L. 109–365, §305(2)(A), substituted “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “, with particular attention to low-income minority individuals and older individuals residing in rural areas”.
 
 Subsec. (a)(3). Pub. L. 109–365, §305(1)(B), (2)(B), (3), added par. (3).
 
-2000—Subsec. (a)(1)(E). Pub. L. 106–501, §304(1), inserted “and older individuals residing in rural areas” after “low-income minority individuals” in two places.
+<b>2000</b>—Subsec. (a)(1)(E). Pub. L. 106–501, §304(1), inserted “and older individuals residing in rural areas” after “low-income minority individuals” in two places.
 
 Subsec. (a)(2)(E). Pub. L. 106–501, §304(2)(A), struck out comma and inserted “and older individuals residing in rural areas,” after “low-income minority individuals”.
 
@@ -162,7 +162,7 @@ Subsec. (a)(2)(G)(i). Pub. L. 106–501, §304(2)(B), inserted “and older indi
 
 Subsec. (a)(2)(G)(ii). Pub. L. 106–501, §304(2)(C), which directed the insertion of “and older individuals residing in rural areas” after “low-income minority individuals”, was executed by making the insertion after “low-income minority older individuals”, to reflect the probable intent of Congress.
 
-1993—Subsec. (a). Pub. L. 103–171, §3(a)(13), substituted “Assistant Secretary” for “Commissioner” wherever appearing.
+<b>1993</b>—Subsec. (a). Pub. L. 103–171, §3(a)(13), substituted “Assistant Secretary” for “Commissioner” wherever appearing.
 
 Subsec. (b)(1). Pub. L. 103–171, §2(8), substituted “area under subsection (a)(1) of this section” for “area under clause (1) of subsection (a) of this section” and “designated under subsection (a)(1) of this section” for “designated under clause (1) of subsection (a) of this section”.
 
@@ -170,7 +170,7 @@ Subsec. (b)(2). Pub. L. 103–171, §2(8), substituted “requirement of subsect
 
 Subsec. (b)(3) to (5). Pub. L. 103–171, §3(a)(13), substituted “Assistant Secretary” for “Commissioner” wherever appearing.
 
-1992—Subsec. (a)(1)(C). Pub. L. 102–375, §305(a)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “be primarily responsible for the coordination of all State activities related to the purposes of this chapter;”.
+<b>1992</b>—Subsec. (a)(1)(C). Pub. L. 102–375, §305(a)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “be primarily responsible for the coordination of all State activities related to the purposes of this chapter;”.
 
 Subsec. (a)(1)(D). Pub. L. 102–375, §904(a)(11)(A)(i)(I), substituted “older individuals” for “the elderly” wherever appearing.
 
@@ -210,11 +210,11 @@ Subsec. (c)(2). Pub. L. 102–375, §102(b)(10)(C), substituted “area agency o
 
 Subsec. (d). Pub. L. 102–375, §904(a)(11)(C), substituted “paragraph” for “clause” in introductory provisions.
 
-1988—Subsec. (a)(1)(E). Pub. L. 100–628, §705(4)(A), substituted “such areas,” for “such areas,,” before “distribution of resources”.
+<b>1988</b>—Subsec. (a)(1)(E). Pub. L. 100–628, §705(4)(A), substituted “such areas,” for “such areas,,” before “distribution of resources”.
 
 Subsec. (d). Pub. L. 100–628, §705(4)(B), redesignated subpars. (A), (B), (C), and (D) as pars. (1), (2), (3), and (4), respectively.
 
-1987—Subsec. (a)(1)(E). Pub. L. 100–175, §§132(a)(1), 134(a)(1), 182(g), substituted “the distribution of older individuals who have greatest economic need (with particular attention to low-income minority individuals) residing in such areas, the distribution of older individuals who have greatest social need (with particular attention to low-income minority individuals) residing in such areas,” for “the distribution of older individuals who have low incomes residing in such areas”, inserted “the distribution of older Indians residing in such areas,” after second reference to “such areas,”, and substituted “legal assistance” for “legal services”.
+<b>1987</b>—Subsec. (a)(1)(E). Pub. L. 100–175, §§132(a)(1), 134(a)(1), 182(g), substituted “the distribution of older individuals who have greatest economic need (with particular attention to low-income minority individuals) residing in such areas, the distribution of older individuals who have greatest social need (with particular attention to low-income minority individuals) residing in such areas,” for “the distribution of older individuals who have low incomes residing in such areas”, inserted “the distribution of older Indians residing in such areas,” after second reference to “such areas,”, and substituted “legal assistance” for “legal services”.
 
 Subsec. (a)(2)(C). Pub. L. 100–175, §182(h), inserted “in accordance with subsection (d) of this section” before semicolon at end.
 
@@ -228,7 +228,7 @@ Subsec. (c)(4). Pub. L. 100–175, §124(3), inserted “, or any separate orga
 
 Subsec. (d). Pub. L. 100–175, §182(e)(2), struck out par. (1) designation before “The publication for review” and struck out par. (2) which read as follows: “For purposes of clause (2)(E) of subsection (a) of this section and paragraph (1) of this subsection, the term ‘greatest economic need’ means the need resulting from an income level at or below the poverty threshold established by the Bureau of the Census, and the term ‘greatest social need’ means the need caused by noneconomic factors which include physical and mental disabilities, language barriers, and cultural or social isolation including that caused by racial or ethnic status which restricts an individual's ability to perform normal daily tasks or which threatens his or her capacity to live independently.”
 
-1984—Subsec. (a)(1)(E). Pub. L. 98–459, §305(a)(1), substituted “subsection (b)(5)(A) of this section” for “subsection (b)(5) of this section”.
+<b>1984</b>—Subsec. (a)(1)(E). Pub. L. 98–459, §305(a)(1), substituted “subsection (b)(5)(A) of this section” for “subsection (b)(5) of this section”.
 
 Subsec. (a)(2)(E). Pub. L. 98–459, §305(a)(2), inserted “, with particular attention to low-income minority individuals,”.
 
@@ -238,7 +238,7 @@ Subsec. (b)(5). Pub. L. 98–459, §305(b), designated existing provisions as su
 
 Subsec. (d). Pub. L. 98–459, §305(c), added subsec. (d).
 
-1981—Subsec. (a)(1)(E). Pub. L. 97–115, §§3(d), 5(a), substituted “divide the State into distinct planning and service areas (or in the case of a State specified in subsection (b)(5) of this section, designate the entire State as a single planning and service area)” for “divide the State into distinct areas” and “supportive services” for “social services” in two places.
+<b>1981</b>—Subsec. (a)(1)(E). Pub. L. 97–115, §§3(d), 5(a), substituted “divide the State into distinct planning and service areas (or in the case of a State specified in subsection (b)(5) of this section, designate the entire State as a single planning and service area)” for “divide the State into distinct areas” and “supportive services” for “social services” in two places.
 
 Subsec. (a)(2)(A). Pub. L. 97–115, §5(b), substituted “except as provided in subsection (b)(5) of this section, designate for each such area” for “determine for which planning and service area an area plan will be developed, in accordance with section 3026 of this title, and for each such area designate,”.
 

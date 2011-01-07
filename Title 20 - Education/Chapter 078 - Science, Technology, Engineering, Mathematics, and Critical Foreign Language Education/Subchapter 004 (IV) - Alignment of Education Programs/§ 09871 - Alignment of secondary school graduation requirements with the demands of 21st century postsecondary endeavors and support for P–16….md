@@ -94,7 +94,7 @@ The Secretary is authorized to award grants, on a competitive basis, to States t
 
 &emsp;&emsp;&emsp;(i) identifying and describing the content knowledge and skills students who enter institutions of higher education, the workforce, and the Armed Forces need to have in order to succeed without any remediation based on detailed requirements obtained from institutions of higher education, employers, and the Armed Forces;
 
-&emsp;&emsp;&emsp;(ii) identifying and making changes that need to be made to a State's secondary school graduation requirements, academic content standards, academic achievement standards, and assessments preceding graduation from secondary school in order to align the requirements, standards, and assessments with the knowledge and skills necessary for success in academic credit-bearing coursework in postsecondary education, in the 21st century workforce, and in the Armed Forces without the need for remediation;
+&emsp;&emsp;&emsp;(ii) identifying and making changes that need to be made to a State's secondary school graduation requirements, academic content standards, academic achievementstandards, and assessments preceding graduation from secondary school in order to align the requirements, standards, and assessments with the knowledge and skills necessary for success in academic credit-bearing coursework in postsecondary education, in the 21st century workforce, and in the Armed Forces without the need for remediation;
 
 &emsp;&emsp;&emsp;(iii) convening stakeholders within the State and creating a forum for identifying and deliberating on education issues that—
 
@@ -152,7 +152,7 @@ The Secretary is authorized to award grants, on a competitive basis, to States t
 
 &emsp;&emsp;&emsp;&emsp;(IV) keep an accurate accounting of the date, nature, and purpose of each disclosure of personally identifiable information in the statewide P–16 education data system, a description of the information disclosed, and the name and address of the person, agency, institution, or entity to whom the disclosure is made, which accounting shall be made available on request to parents of any student whose information has been disclosed;
 
-&emsp;&emsp;&emsp;&emsp;(V) notwithstanding section 1232g of this title, require any non-governmental party obtaining personally identifiable information to sign a data use agreement prior to disclosure that—
+&emsp;&emsp;&emsp;&emsp;(V) notwithstanding section 1232g of this title, require any non-governmental party obtaining personally identifiableinformation to sign a data use agreement prior to disclosure that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) prohibits the party from further disclosing the information;
 
@@ -268,11 +268,23 @@ Each State that receives a grant under this section shall provide, from non-Fede
 
 #### (j) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $120,000,000 for fiscal year 2008 and such sums as may be necessary for fiscal year 2009.
+There are authorized to be appropriated to carry out this section $120,000,000 for each of fiscal years 2011 and 2012.
 
-(Pub. L. 110–69, title VI, §6401, Aug. 9, 2007, 121 Stat. 668.)
+(Pub. L. 110–69, title VI, §6201, formerly §6401, Aug. 9, 2007, 121 Stat. 668; renumbered §6201 and amended Pub. L. 111–358, title X, §§1002(b)(3), 1003(c), Jan. 4, 2011, 124 Stat. 4048, 4049.)
 
 #### References in Text
 
 This Act, referred to in subsecs. (e)(2)(C)(ii)(II) and (i)(2), is Pub. L. 110–69, Aug. 9, 2007, 121 Stat. 572, known as the America COMPETES Act, and also as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
+
+#### Prior Provisions
+
+A prior section 6201 of Pub. L. 110–69 was classified to section 9851 of this title prior to repeal by Pub. L. 111–358.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (j). Pub. L. 111–358, §1003(c), amended subsec. (j) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section $120,000,000 for fiscal year 2008 and such sums as may be necessary for fiscal year 2009.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “to enable”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

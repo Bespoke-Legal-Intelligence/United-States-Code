@@ -19,11 +19,9 @@ Subpart A—Private Activity Bonds
 
 #### Amendments
 
-1986—Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2603, in amending part IV generally, added subpart heading and analysis and struck out item 143 “Determination of marital status”.
+<b>1986</b>—Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2603, in amending part IV generally, added subpart heading and analysis and struck out item 143 “Determination of marital status”.
 
-1977—Pub. L. 95–30, title I, §101(e)(2), May 23, 1977, 91 Stat. 134, struck out items 141 “Standard deduction”, 142 “Individuals not eligible for standard deduction”, 144 “Election of standard deduction”, and 145 “Cross reference”.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<b>1977</b>—Pub. L. 95–30, title I, §101(e)(2), May 23, 1977, 91 Stat. 134, struck out items 141 “Standard deduction”, 142 “Individuals not eligible for standard deduction”, 144 “Election of standard deduction”, and 145 “Cross reference”.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 

@@ -34,15 +34,15 @@ Former subsec. (n) authorized President within twelve months after May 18, 1933,
 
 #### Amendments
 
-2004—Pub. L. 108–447 substituted “Board” for “board” wherever appearing.
+<b>2004</b>—Pub. L. 108–447 substituted “Board” for “board” wherever appearing.
 
-1976—Subsec. (m). Pub. L. 94–412 struck out subsec. (m) which barred sale of TVA products outside United States except to Government for military use or its allies in case of war or until six months after termination of Korean emergency.
+<b>1976</b>—Subsec. (m). Pub. L. 94–412 struck out subsec. (m) which barred sale of TVA products outside United States except to Government for military use or its allies in case of war or until six months after termination of Korean emergency.
 
-1959—Subsec. (m). Pub. L. 86–137 excepted ferrophosphorus.
+<b>1959</b>—Subsec. (m). Pub. L. 86–137 excepted ferrophosphorus.
 
-1952—Subsec. (m). Joint Res. July 3, 1952, inserted “or, until six months after the termination of the national emergency proclaimed by the President on December 16, 1950, or until such earlier date or dates as the Congress by concurrent resolution or the President may provide but in no event after April 1, 1953, to nations associated with the United States in defense activities”.
+<b>1952</b>—Subsec. (m). Joint Res. July 3, 1952, inserted “or, until six months after the termination of the national emergency proclaimed by the President on December 16, 1950, or until such earlier date or dates as the Congress by concurrent resolution or the President may provide but in no event after April 1, 1953, to nations associated with the United States in defense activities”.
 
-1935—Subsec. (c). Act Aug. 31, 1935, inserted “with farmers, landowners, and associations of farmers andlandowners,” after “demonstration farms” and “and for promoting the prevention of soil erosion by the use of fertilizers and otherwise” after “period of their introduction”.
+<b>1935</b>—Subsec. (c). Act Aug. 31, 1935, inserted “with farmers, landowners, and associations of farmers and landowners,” after “demonstration farms” and “and for promoting the prevention of soil erosion by the use of fertilizers and otherwise” after “period of their introduction”.
 
 #### Change of Name
 

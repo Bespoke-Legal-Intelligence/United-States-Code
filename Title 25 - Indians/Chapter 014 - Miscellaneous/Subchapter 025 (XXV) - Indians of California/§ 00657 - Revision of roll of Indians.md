@@ -6,13 +6,13 @@ The Secretary of the Interior, under such regulations as he may prescribe, is au
 
 #### Amendments
 
-1954—Act June 8, 1954, inserted sentence providing for presumption of death, for purposes of cl. (d), after failure to locate, and extended to June 30, 1955, time for approving and promulgating revised roll.
+<b>1954</b>—Act June 8, 1954, inserted sentence providing for presumption of death, for purposes of cl. (d), after failure to locate, and extended to June 30, 1955, time for approving and promulgating revised roll.
 
-1950—Act May 24, 1950, permitted revision of roll to include certain classes of Indians not previously eligible for inclusion.
+<b>1950</b>—Act May 24, 1950, permitted revision of roll to include certain classes of Indians not previously eligible for inclusion.
 
-1948—Act June 30, 1948, amended section generally to permit Secretary of the Interior to revise roll of Indians.
+<b>1948</b>—Act June 30, 1948, amended section generally to permit Secretary of the Interior to revise roll of Indians.
 
-1930—Act Apr. 29, 1930, increased time within which an Indian could make application to be enrolled, and increased time within which Secretary of the Interior could alter and revise roll.
+<b>1930</b>—Act Apr. 29, 1930, increased time within which an Indian could make application to be enrolled, and increased time within which Secretary of the Interior could alter and revise roll.
 
 #### Appropriations
 

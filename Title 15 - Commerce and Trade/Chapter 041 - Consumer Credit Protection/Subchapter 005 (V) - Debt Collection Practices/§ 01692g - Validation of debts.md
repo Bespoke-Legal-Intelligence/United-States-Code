@@ -38,7 +38,7 @@ The Gramm-Leach-Bliley Act, referred to in subsec. (e), is Pub. L. 106–102, No
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–351, §802(c), inserted at end “Collection activities and communications that do not otherwise violate this subchapter may continue during the 30-day period referred to in subsection (a) unless the consumer has notified the debt collector in writing that the debt, or any portion of the debt, is disputed or that the consumer requests the name and address of the original creditor. Any collection activities and communication during the 30-day period may not overshadow or be inconsistent with the disclosure of the consumer's right to dispute the debt or request the name and address of the original creditor.”
+<b>2006</b>—Subsec. (b). Pub. L. 109–351, §802(c), inserted at end “Collection activities and communications that do not otherwise violate this subchapter may continue during the 30-day period referred to in subsection (a) unless the consumer has notified the debt collector in writing that the debt, or any portion of the debt, is disputed or that the consumer requests the name and address of the original creditor. Any collection activities and communication during the 30-day period may not overshadow or be inconsistent with the disclosure of the consumer's right to dispute the debt or request the name and address of the original creditor.”
 
 Subsec. (d). Pub. L. 109–351, §802(a), added subsec. (d).
 
@@ -46,5 +46,5 @@ Subsec. (e). Pub. L. 109–351, §802(b), added subsec. (e).
 
 #### Effective Date
 
-Section applicable only with respect to debts for which the initial attempt to collect occurs after the effective date of this subchapter, which takes effect upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, set out as a note under section 1692 of this title.
+Section applicable only with respect to debts for which the initial attempt to collect occurs after the effective date of this subchapter, which takes effect upon the expiration of six months after Sept. 20, 1977, seesection 819 of Pub. L. 90–321, set out as a note under section 1692 of this title.
 

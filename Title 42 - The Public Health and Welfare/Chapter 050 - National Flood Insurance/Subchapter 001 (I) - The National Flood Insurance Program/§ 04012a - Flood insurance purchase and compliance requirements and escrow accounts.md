@@ -88,11 +88,11 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (A) In general
 
-&emsp;&emsp;The borrower and lender for a loan secured by improved real estate or a mobile home may jointly request the Director to review a determination of whether the building or mobile home is located in an area having special flood hazards. Such request shall be supported by technical information relating to the improved real estate or mobile home. Not later than 45 days after the Director receives the request, the Director shall review the determination and provide to the borrower and the lender with a letter stating whether or not the building or mobile home is in an area having special flood hazards. The determination of the Director shall be final.
+&emsp;&emsp;The borrower and lender for a loan secured by improved real estate or a mobile homemay jointly request the Director to review a determination of whether the building or mobile home is located in an area having special flood hazards. Such request shall be supported by technical information relating to the improved real estate or mobile home. Not later than 45 days after the Director receives the request, the Director shall review the determination and provide to the borrower and the lender with a letter stating whether or not the building or mobile home is in an area having special flood hazards. The determination of the Director shall be final.
 
 #### (B) Effect of determination
 
-&emsp;&emsp;Any person to whom a borrower provides a letter issued by the Director pursuant tosubparagraph (A), stating that the building or mobile home securing the loan of the borrower is not in an area having special flood hazards, shall have no obligation under this title <sup>1</sup> to require the purchase of flood insurance for such building or mobile home during the period determined by the Director, which shall be specified in the letter and shall begin on the date on which such letter is provided.
+&emsp;&emsp;Any person to whom a borrower provides a letter issued by the Director pursuant to subparagraph (A), stating that the building or mobile home securing the loan of the borrower is not in an area having special flood hazards, shall have no obligation under this title <sup>1</sup> to require the purchase of flood insurance for such building or mobile home during the period determined by the Director, which shall be specified in the letter and shall begin on the date on which such letter is provided.
 
 #### (C) Effect of failure to respond
 
@@ -210,9 +210,9 @@ Section was enacted as part of Flood Disaster Protection Act of 1973, and not as
 
 #### Amendments
 
-2008—Subsec. (f)(3)(A). Pub. L. 110–289 substituted “Director of the Federal Housing Finance Agency” for “Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development”.
+<b>2008</b>—Subsec. (f)(3)(A). Pub. L. 110–289 substituted “Director of the Federal Housing Finance Agency” for “Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development”.
 
-1994—Pub. L. 103–325, §531, substituted section catchline for former section catchline.
+<b>1994</b>—Pub. L. 103–325, §531, substituted section catchline for former section catchline.
 
 Subsec. (a). Pub. L. 103–325, §582(c), struck out “, during the anticipated economic or useful life of the project,” before “covered by flood insurance” and inserted at end “The requirement of maintaining flood insurance shall apply during the life of the property, regardless of transfer of ownership of such property.”
 
@@ -222,7 +222,7 @@ Subsec. (c). Pub. L. 103–325, §522(b), inserted heading, designated existing 
 
 Subsecs. (d) to (h). Pub. L. 103–325, §§523–526, added subsecs. (d) to (h).
 
-1983—Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+<b>1983</b>—Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
 
 #### Effective Date of 1994 Amendment
 

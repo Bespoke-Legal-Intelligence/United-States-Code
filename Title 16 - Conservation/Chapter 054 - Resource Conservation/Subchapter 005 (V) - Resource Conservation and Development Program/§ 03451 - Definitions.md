@@ -134,7 +134,7 @@ A prior section 3451, Pub. L. 97–98, title XV, §1528, Dec. 22, 1981, 95 Stat.
 
 #### Amendments
 
-2008—Par. (1). Pub. L. 110–246, §2805(a)(1), substituted “locally led planning process” for “planning process” in introductory provisions.
+<b>2008</b>—Par. (1). Pub. L. 110–246, §2805(a)(1), substituted “locally led planning process” for “planning process” in introductory provisions.
 
 Pars. (8), (9). Pub. L. 110–246, §2805(a)(2), (3), redesignated pars. (9) and (8) as (8) and (9), respectively, and, in par. (8), substituted “Locally led planning process” for “Planning process” in heading and “locally led council” for “council” in text.
 

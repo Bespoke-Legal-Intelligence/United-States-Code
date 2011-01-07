@@ -44,7 +44,7 @@ July 9, 1952, ch. 608, §§217 (less (c), as applicable to enlistments), 228 (le
 
 In subsection (a), the last sentence is inserted to reflect sections 3261 and 8261 of this title.
 
-In subsection (b), the word “However” is substituted for the words “Subject to the limitation that”. The words “as Reserves in the armed forces under his jurisdiction” are substituted for the words “of Reserve members of the Armed Forces of the United States”. The words “its Territories” are omitted as surplusage, since citizens of the Territories are citizens of the United States.
+In subsection (b), the word “However” is substituted for the words “Subject to the limitation that”. The words “as Reserves in the armed forces under his jurisdiction” are substituted for the words “of Reservemembers of the Armed Forces of the United States”. The words “its Territories” are omitted as surplusage, since citizens of the Territories are citizens of the United States.
 
 In subsection (c), the words “armed force concerned” are substituted for the words “of the appropriate Armed Force of the United States”. The words “in which she previously served satisfactorily” are substituted for the words “satisfactorily held by her”.
 
@@ -52,25 +52,25 @@ In subsection (d), the words “under the jurisdiction of that Secretary” are 
 
 #### References in Text
 
-The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, seeShort Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 #### Amendments
 
-1996—Subsecs. (c), (d). Pub. L. 104–106 made technical correction to directory language of Pub. L. 103–337, §1631(a). See 1994 Amendment note below.
+<b>1996</b>—Subsecs. (c), (d). Pub. L. 104–106 made technical correction to directory language of Pub. L. 103–337, §1631(a). See 1994 Amendment note below.
 
-1994—Pub. L. 103–337, §1662(b)(2), renumbered section 510 of this title as this section.
+<b>1994</b>—Pub. L. 103–337, §1662(b)(2), renumbered section 510 of this title as this section.
 
 Subsec. (a). Pub. L. 103–337, §1675(a), substituted “12107” for “3261 or 8261”.
 
 Subsecs. (c), (d). Pub. L. 103–337, §1631(a), as amended by Pub. L. 104–106, redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “Women may be enlisted as Reserves of the armed forces. Women are enlisted in the grades and ratings authorized for enlisted women of the regular component of the armed force concerned. Any female former enlisted member of an armed force may, if otherwise qualified, be enlisted as a Reserve of that armed force in the highest grade or rating in which she previously served satisfactorily on active duty (other than for training).”
 
-1980—Subsec. (b)(1). Pub. L. 96–513 substituted “the Immigration and Nationality Act (8 U.S.C. 1101 et seq.)” for “chapter 12 of title 8”.
+<b>1980</b>—Subsec. (b)(1). Pub. L. 96–513 substituted “the Immigration and Nationality Act (8 U.S.C. 1101 et seq.)” for “chapter 12 of title 8”.
 
-1968—Subsec. (a). Pub. L. 90–623 substituted “section 502” for “section 501”.
+<b>1968</b>—Subsec. (a). Pub. L. 90–623 substituted “section 502” for “section 501”.
 
-1967—Subsec. (c). Pub. L. 90–130 struck out provision limiting the reserve components in which women may be enlisted as Reserves of the armed forces to the Army Reserve, Naval Reserve, Air Force Reserve, Marine Corps Reserve, and Coast Guard Reserve.
+<b>1967</b>—Subsec. (c). Pub. L. 90–130 struck out provision limiting the reserve components in which women may be enlisted as Reserves of the armed forces to the Army Reserve, Naval Reserve, Air Force Reserve, Marine Corps Reserve, and Coast Guard Reserve.
 
-1963—Subsec. (b)(1). Pub. L. 88–236 substituted “he is a citizen of the United States or has been lawfully admitted to the United States for permanent residence under chapter 12 of title 8” for “he is, or has made a declaration of intention to become, a citizen of the United States or of a possession thereof”.
+<b>1963</b>—Subsec. (b)(1). Pub. L. 88–236 substituted “he is a citizen of the United States or has been lawfully admitted to the United States for permanent residence under chapter 12 of title 8” for “he is, or has made a declaration of intention to become, a citizen of the United States or of a possession thereof”.
 
 #### Effective Date of 1996 Amendment
 

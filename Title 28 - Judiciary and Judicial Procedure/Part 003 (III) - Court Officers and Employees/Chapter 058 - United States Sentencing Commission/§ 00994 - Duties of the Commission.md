@@ -78,7 +78,7 @@
 
 (e) The Commission shall assure that the guidelines and policy statements, in recommending a term of imprisonment or length of a term of imprisonment, reflect the general inappropriateness of considering the education, vocational skills, employment record, family ties and responsibilities, and community ties of the defendant.
 
-(f) The Commission, in promulgating guidelines pursuant to subsection (a)(1), shall promote the purposes set forth in section 991(b)(1), with particular attention to the requirements of subsection 991(b)(1)(B) for providing certainty and fairness in sentencing and reducing unwarranted sentence disparities.
+(f) The Commission, in promulgating guidelines pursuant to subsection (a)(1), shall promote the purposes set forth in section 991(b)(1), with particular attention to the requirements of subsection 991(b)(1)(B) for providing certaintyand fairness in sentencing and reducing unwarranted sentence disparities.
 
 (g) The Commission, in promulgating guidelines pursuant to subsection (a)(1) to meet the purposes of sentencing as set forth in section 3553(a)(2) of title 18, United States Code, shall take into account the nature and capacity of the penal, correctional, and other facilities and services available, and shall make recommendations concerning any change or expansion in the nature or capacity of such facilities and services that might become necessary as a result of the guidelines promulgated pursuant to the provisions of this chapter. The sentencing guidelines prescribed under this chapter shall be formulated to minimize the likelihood that the Federal prison population will exceed the capacity of the Federal prisons, as determined by the Commission.
 
@@ -126,7 +126,7 @@
 
 (n) The Commission shall assure that the guidelines reflect the general appropriateness of imposing a lower sentence than would otherwise be imposed, including a sentence that is lower than that established by statute as a minimum sentence, to take into account a defendant's substantial assistance in the investigation or prosecution of another person who has committed an offense.
 
-(<i>o</i>) The Commission periodically shall review and revise, in consideration of comments and data coming to its attention, the guidelines promulgated pursuant to the provisions of this section. In fulfilling its duties and in exercising its powers, the Commission shall consult with authorities on, and individual and institutional representatives of, various aspects of the Federal criminal justice system. The United States Probation System, the Bureau of Prisons, the Judicial Conference of the United States, the Criminal Division of the United States Department of Justice, and a representative of the Federal Public Defenders shall submit to the Commission any observations, comments, or questions pertinent to the work of the Commission whenever they believe such communication would be useful, and shall, at least annually, submit to the Commission a written report commenting on the operation of the Commission's guidelines, suggesting changes in the guidelines that appear to be warranted, and otherwise assessing the Commission's work.
+(<i>o</i>) The Commission periodically shall review and revise, in consideration of comments and data coming to its attention, the guidelines promulgated pursuant to the provisions of this section. In fulfilling its duties and in exercising its powers, the Commission shall consult with authorities on, and individual and institutionalrepresentatives of, various aspects of the Federal criminal justice system. The United States Probation System, the Bureau of Prisons, the Judicial Conference of the United States, the Criminal Division of the United States Department of Justice, and a representative of the Federal Public Defenders shall submit to the Commission any observations, comments, or questions pertinent to the work of the Commission whenever they believe such communication would be useful, and shall, at least annually, submit to the Commission a written report commenting on the operation of the Commission's guidelines, suggesting changes in the guidelines that appear to be warranted, and otherwise assessing the Commission's work.
 
 (p) The Commission, at or after the beginning of a regular session of Congress, but not later than the first day of May, may promulgate under subsection (a) of this section and submit to Congress amendments to the guidelines and modifications to previously submitted amendments that have not taken effect, including modifications to the effective dates of such amendments. Such an amendment or modification shall be accompanied by a statement of the reasons therefor and shall take effect on a date specified by the Commission, which shall be no earlier than 180 days after being so submitted and no later than the first day of November of the calendar year in which the amendment or modification is submitted, except to the extent that the effective date is revised or the amendment is otherwise modified or disapproved by Act of Congress.
 
@@ -190,7 +190,7 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (a)(2)(E), are s
 
 #### Amendments
 
-2006—Subsec. (h)(1)(B), (2)(B). Pub. L. 109–304 substituted “chapter 705 of title 46” for “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)”.
+<b>2006</b>—Subsec. (h)(1)(B), (2)(B). Pub. L. 109–304 substituted “chapter 705 of title 46” for “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)”.
 
 Subsec. (w)(1). Pub. L. 109–177, §735(1)(A), (C), inserted “, in a format approved and required by the Commission,” after “submits to the Commission” in introductory provisions and inserted concluding provisions.
 
@@ -198,29 +198,29 @@ Subsec. (w)(1)(B). Pub. L. 109–177, §735(1)(B), inserted “written” before
 
 Subsec. (w)(4). Pub. L. 109–177, §735(2), substituted “itself may assemble or maintain in electronic form as a result of the” for “may assemble or maintain in electronic form that include any”.
 
-2003—Subsec. (a). Pub. L. 108–21, §401(k), substituted “consistent with all pertinent provisions of any Federal statute” for “consistent with all pertinent provisions of this title and title 18, United States Code,”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–21, §401(k), substituted “consistent with all pertinent provisions of any Federal statute” for “consistent with all pertinent provisions of this title and title 18, United States Code,”.
 
 Subsec. (w). Pub. L. 108–21, §401(h), amended subsec. (w) generally. Prior to amendment, subsec. (w) read as follows: “The appropriate judge or officer shall submit to the Commission in connection with each sentence imposed (other than a sentence imposed for a petty offense, as defined in title 18, for which there is no applicable sentencing guideline) a written report of the sentence, the offense for which it is imposed, the age, race, and sex of the offender, information regarding factors made relevant by the guidelines, and such other information as the Commission finds appropriate. The Commission shall submit to Congress at least annually an analysis of these reports and any recommendations for legislation that the Commission concludes is warranted by that analysis.”
 
-1994—Subsec. (h)(1)(B), (2)(B). Pub. L. 103–322, §330003(f)(1), substituted “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)” for “section 1 of the Act of September 15, 1980 (21 U.S.C. 955a)”.
+<b>1994</b>—Subsec. (h)(1)(B), (2)(B). Pub. L. 103–322, §330003(f)(1), substituted “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)” for “section 1 of the Act of September 15, 1980 (21 U.S.C. 955a)”.
 
 Subsec. (i)(2). Pub. L. 103–322, §280005(c)(4), substituted “the defendant” for “he” and “the defendant's” for “his”.
 
 Subsec. (y). Pub. L. 103–322, §20403(b), added subsec. (y).
 
-1988—Subsec. (a)(1)(E). Pub. L. 100–690, §7103(b), added subpar. (E).
+<b>1988</b>—Subsec. (a)(1)(E). Pub. L. 100–690, §7103(b), added subpar. (E).
 
 Subsec. (n). Pub. L. 100–690, §7083, substituted “as a minimum sentence” for “as minimum sentence”.
 
 Subsec. (p). Pub. L. 100–690, §7109, amended subsec. (p) generally. Prior to amendment, subsec. (p) read as follows: “The Commission, at or after the beginning of a regular session of Congress but not later than the first day of May, shall report to the Congress any amendments of the guidelines promulgated pursuant to subsection (a)(1), and a report of the reasons therefor, and the amended guidelines shall take effect one hundred and eighty days after the Commission reports them, except to the extent the effective date is enlarged or the guidelines are disapproved or modified by Act of Congress.”
 
-1987—Subsec. (r). Pub. L. 100–182, §23(a), substituted “two years” for “one year”.
+<b>1987</b>—Subsec. (r). Pub. L. 100–182, §23(a), substituted “two years” for “one year”.
 
 Subsec. (s). Pub. L. 100–182, §23(b), struck out at end: “Within one hundred and eighty days of the filing of such petition the Commission shall provide written notice to the defendant whether or not it has approved the petition. If the petition is disapproved the written notice shall contain the reasons for such disapproval. The Commission shall submit to the Congress at least annually an analysis of such written notices.”
 
 Subsec. (w). Pub. L. 100–182, §16(b), inserted “(other than a sentence imposed for a petty offense, as defined in title 18, for which there is no applicable sentencing guideline)” after “each sentence imposed”.
 
-1986—Subsec. (a)(2)(C). Pub. L. 99–363, §2(1)(B), amended subpar. (C) generally, inserting “3564,” after “3563(c),”.
+<b>1986</b>—Subsec. (a)(2)(C). Pub. L. 99–363, §2(1)(B), amended subpar. (C) generally, inserting “3564,” after “3563(c),”.
 
 Subsec. (a)(2)(D) to (F). Pub. L. 99–363, §2(1)(A), (C), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 
@@ -244,7 +244,7 @@ Pub. L. 99–570, §1008(2), redesignated subsec. (t) as (u).
 
 Subsecs. (v) to (x). Pub. L. 99–570, §1008(2), redesignated former subsecs. (u) to (w) as (v) to (x), respectively.
 
-1985—Subsec. (q). Pub. L. 99–217 substituted “not later than one year after the initial set of sentencing guidelines promulgated under subsection (a) goes into effect” for “within three years of the date of enactment of the Sentencing Reform Act of 1983”.
+<b>1985</b>—Subsec. (q). Pub. L. 99–217 substituted “not later than one year after the initial set of sentencing guidelines promulgated under subsection (a) goes into effect” for “within three years of the date of enactment of the Sentencing Reform Act of 1983”.
 
 #### Effective Date of 1987 Amendment
 
@@ -255,6 +255,14 @@ Amendment by Pub. L. 100–182 applicable with respect to offenses committed aft
 For termination, effective May 15, 2000, of provisions in subsec. (w) of this section relating to requirement that the Commission submit to Congress at least annually an analysis of reports and recommendations for legislation that the Commission concludes is warranted by that analysis, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 13 of House Document No. 103–7.
 
 #### Provisions for Review, Promulgation, or Amendment of Federal Sentencing Guidelines
+
+Pub. L. 111–273, §4, Oct. 12, 2010, 124 Stat. 2860.—Drug offense resulting from authorization to receive scheduled substances from ultimate user or long-term care facility.
+
+Pub. L. 111–220, §§5–8, Aug. 3, 2010, 124 Stat. 2373, 2374.—Violence during drug trafficking offenses; increased emphasis on defendant's role; aggravating and mitigating factors.
+
+Pub. L. 111–203, title X, §1079A(a), July 21, 2010, 124 Stat. 2077.—Securities fraud and financial institutions fraud.
+
+Pub. L. 111–148, title X, §10606(a), Mar. 23, 2010, 124 Stat. 1006.—Health care fraud.
 
 Pub. L. 110–457, title II, §222(g), Dec. 23, 2008, 122 Stat. 5071.—Alien harboring in furtherance of prostitution.
 
@@ -454,7 +462,7 @@ In General.—In the case of—
 
 “(b)
 
-Expiration of Authority.—The authority of the Commission under paragraphs (1) and (2) of subsection (a) shall expire on November 1, 1989. The authority of the Commission to promulgate and distribute guidelines under paragraph (3) of subsection (a) shall expire on May 1, 1988.”
+Expiration of Authority.—The authority of the Commission under paragraphs (1) and (2) of subsection\(a) shall expire on November 1, 1989. The authority of the Commission to promulgate and distribute guidelines under paragraph (3) of subsection (a) shall expire on May 1, 1988.”
 
 #### Submission to Congress of Initial Sentencing Guidelines
 

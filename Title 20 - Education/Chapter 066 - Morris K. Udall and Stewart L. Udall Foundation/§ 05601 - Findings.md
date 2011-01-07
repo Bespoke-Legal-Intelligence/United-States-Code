@@ -36,7 +36,7 @@ The Congress finds that—
 
 #### Amendments
 
-2009—Pars. (5) to (8). Pub. L. 111–90 added pars. (5) to (8).
+<b>2009</b>—Pars. (5) to (8). Pub. L. 111–90 added pars. (5) to (8).
 
 #### Short Title of 2009 Amendment
 

@@ -156,7 +156,7 @@ The Secretary shall reimburse a State for costs related to the inspection of sel
 
 #### (g) Transition grants
 
-The Secretary may provide grants to appropriate State agencies to assist the appropriate State agencies in helping establishments covered by subchapter III to transition to selected establishments.
+The Secretary may provide grants to appropriate State agencies to assist the appropriateState agencies in helping establishments covered by subchapter III to transition to selected establishments.
 
 #### (h) Violations
 

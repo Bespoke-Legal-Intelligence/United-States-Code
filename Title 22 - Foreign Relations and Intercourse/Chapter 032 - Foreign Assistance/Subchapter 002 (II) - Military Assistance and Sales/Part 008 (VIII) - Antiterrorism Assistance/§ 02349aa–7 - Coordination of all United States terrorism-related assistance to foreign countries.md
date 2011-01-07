@@ -20,11 +20,11 @@ Executive Order 12333, referred to in subsec. (c), is set out as a note under se
 
 #### Codification
 
-Section was enacted as part of the International Security and Development Cooperation Act of 1985, andnot as part of the Foreign Assistance Act of 1961 which comprises this chapter.
+Section was enacted as part of the International Security and Development Cooperation Act of 1985, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
 
 #### Amendments
 
-1986—Pub. L. 99–399, §503(1), substituted “terrorism-related” for “anti-terrorism” in section catchline.
+<b>1986</b>—Pub. L. 99–399, §503(1), substituted “terrorism-related” for “anti-terrorism” in section catchline.
 
 Subsec. (a). Pub. L. 99–399, §503(2), substituted “assistance related to international terrorism which is provided by the United States Government to foreign countries” for “anti-terrorism assistance to foreign countries provided by the United States Government”.
 

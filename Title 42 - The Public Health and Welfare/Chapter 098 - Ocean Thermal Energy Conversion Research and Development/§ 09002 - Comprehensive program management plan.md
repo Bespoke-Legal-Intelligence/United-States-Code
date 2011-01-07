@@ -32,7 +32,7 @@ The detailed description of the comprehensive plan under this section shall incl
 
 #### Amendments
 
-1995—Subsec. (d). Pub. L. 104–66 struck out subsec. (d) which read as follows:
+<b>1995</b>—Subsec. (d). Pub. L. 104–66 struck out subsec. (d) which read as follows:
 
 “(d)(1) Concurrently with the submission of the President's annual budget for each subsequent year, the Secretary shall transmit to the Congress a detailed description of modifications which may be necessary to revise appropriately the comprehensive plan as then in effect, setting forth any changes in circumstances which may have occurred since the plan or the last previous modification thereof was transmitted in accordance with this section.
 

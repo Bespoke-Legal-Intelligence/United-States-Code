@@ -8,7 +8,7 @@
 
 (d) Payments made pursuant to grants under this chapter may be made in installments, and either in advance or by way of reimbursement, with necessary adjustments on account of overpayments or underpayments, as the Secretary may determine.
 
-(e) In carrying out the purposes of this chapter, the Secretary may lease to any eligible institution for such consideration and under such terms and conditions as the Secretary deems appropriate, such land, buildings, and structures (including equipment therein) under the control and jurisdiction of the Department as may be necessary. The three-year limitation on the term of a lease prescribed in section 8122(a) of this title shall not apply with respect to any lease entered into pursuant to this chapter, but no such lease may be for a period of more than 50 years. Any lease entered into pursuant to this chapter may be entered into without regard to the provisions of section 3709 of the Revised Statutes (41 U.S.C. 5). Notwithstanding section 1302 of title 40, or any other provision of law, a lease entered into pursuant to this chapter may provide for the maintenance, protection, or restoration, by the lessee, of the property leased, as a part or all of the consideration of the lease.
+(e) In carrying out the purposes of this chapter, the Secretary may lease to any eligible institution for such consideration and under such terms and conditions as the Secretary deems appropriate, such land, buildings, and structures (including equipment therein) under the control and jurisdiction of the Department as may be necessary. The three-year limitation on the term of a lease prescribed in section 8122(a) of this title shall not apply with respect to any lease entered into pursuant to this chapter, but no such lease may be for a period of more than 50 years. Any lease entered into pursuant to this chapter may be entered into without regard to the provisions of section 6101(b) to (d) of title 41. Notwithstanding section 1302 of title 40, or any other provision of law, a lease entered into pursuant to this chapter may provide for the maintenance, protection, or restoration, by the lessee, of the property leased, as a part or all of the consideration of the lease.
 
 (f) In making grants under this chapter, the Secretary shall give special consideration to applications from institutions which provide reasonable assurances, which shall be included in the grant agreement, that priority for admission to health manpower and training programs carried out by such institutions will be given to otherwise qualified veterans who during their military service acquired medical military occupation specialties, and that among such qualified veterans those who served during the Vietnam era and those who are entitled to disability compensation under laws administered by the Secretary or whose discharge or release was for a disability incurred or aggravated in line of duty will be given the highest priority. In carrying out this chapter and section 7302 of this title in connection with health manpower and training programs assisted or conducted under this title or in affiliation with a Department medical facility, the Secretary shall take appropriate steps to encourage the institutions involved to afford the priorities described in the first sentence of this subsection and to advise all qualified veterans with such medical military occupation specialties of the steps the Secretary has taken under this subsection and the opportunities available to them as a result of such steps.
 
@@ -16,7 +16,7 @@
 
 (2) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient of any assistance under this chapter which are pertinent to such assistance.
 
-(Added Pub. L. 92–541, §2(a), Oct. 24, 1972, 86 Stat. 1101, §5070; amended Pub. L. 94–581, title I, §116(1), (2), title II, §210(f)(1), Oct. 21, 1976, 90 Stat. 2853, 2854, 2865; Pub. L. 96–151, title I, §103(a), Dec. 20, 1979, 93 Stat. 1093; Pub. L. 96–330, title IV, §403(b), Aug. 26, 1980, 94 Stat. 1052; Pub. L. 97–295, §4(94), Oct. 12, 1982, 96 Stat. 1313; renumbered §8201 and amended Pub. L. 102–40, title IV, §§402(b)(2)(A), (d)(1), 403(b)(6), May 7, 1991, 105 Stat. 239, 240; Pub. L. 102–54, §14(f)(10), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 103–446, title XII, §1201(d)(20), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 106–419, title IV, §403(b), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–217, §3(j)(7), Aug. 21, 2002, 116 Stat. 1301.)
+(Added Pub. L. 92–541, §2(a), Oct. 24, 1972, 86 Stat. 1101, §5070; amended Pub. L. 94–581, title I, §116(1), (2), title II, §210(f)(1), Oct. 21, 1976, 90 Stat. 2853, 2854, 2865; Pub. L. 96–151, title I, §103(a), Dec. 20, 1979, 93 Stat. 1093; Pub. L. 96–330, title IV, §403(b), Aug. 26, 1980, 94 Stat. 1052; Pub. L. 97–295, §4(94), Oct. 12, 1982, 96 Stat. 1313; renumbered §8201 and amended Pub. L. 102–40, title IV, §§402(b)(2)(A), (d)(1), 403(b)(6), May 7, 1991, 105 Stat. 239, 240; Pub. L. 102–54, §14(f)(10), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 103–446, title XII, §1201(d)(20), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 106–419, title IV, §403(b), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–217, §3(j)(7), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 111–350, §5(j)(9), Jan. 4, 2011, 124 Stat. 3850.)
 
 #### References in Text
 
@@ -24,13 +24,15 @@ The Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, 
 
 #### Amendments
 
-2002—Subsec. (e). Pub. L. 107–217 substituted “section 1302 of title 40” for “section 321 of the Act of June 30, 1932 (40 U.S.C. 303b)”.
+<b>2011</b>—Subsec. (e). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes (41 U.S.C. 5)”.
 
-2000—Subsec. (h). Pub. L. 106–419 struck out subsec. (h) which read as follows: “Not later than ninety days after the end of each fiscal year, the Secretary shall submit to the Congress a report on activities carried out under this chapter, including (1) an appraisal of the effectiveness of the programs authorized herein in carrying out their statutory purposes and the degree of cooperation from other sources, financial and otherwise, (2) an appraisal of the contributions of such programs in improving the quantity and quality of physicians and other health care personnel furnishing hospital care and medical services to veterans under this title, (3) a list of the approved but unfunded projects under this chapter and the funds needed for each such project, and (4) recommendations for the improvement or more effective administration of such programs, including any necessary legislation.”
+<b>2002</b>—Subsec. (e). Pub. L. 107–217 substituted “section 1302 of title 40” for “section 321 of the Act of June 30, 1932 (40 U.S.C. 303b)”.
 
-1994—Subsec. (c). Pub. L. 103–446 substituted “section 7312(a)” for “section 4112(a)”.
+<b>2000</b>—Subsec. (h). Pub. L. 106–419 struck out subsec. (h) which read as follows: “Not later than ninety days after the end of each fiscal year, the Secretary shall submit to the Congress a report on activities carried out under this chapter, including (1) an appraisal of the effectiveness of the programs authorized herein in carrying out their statutory purposes and the degree of cooperation from other sources, financial and otherwise, (2) an appraisal of the contributions of such programs in improving the quantity and quality of physicians and other health care personnel furnishing hospital care and medical services to veterans under this title, (3) a list of the approved but unfunded projects under this chapter and the funds needed for each such project, and (4) recommendations for the improvement or more effective administration of such programs, including any necessary legislation.”
 
-1991—Pub. L. 102–40, §402(b)(2)(A), renumbered section 5070 of this title as this section.
+<b>1994</b>—Subsec. (c). Pub. L. 103–446 substituted “section 7312(a)” for “section 4112(a)”.
+
+<b>1991</b>—Pub. L. 102–40, §402(b)(2)(A), renumbered section 5070 of this title as this section.
 
 Subsecs. (a) to (d). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
@@ -52,15 +54,15 @@ Pub. L. 102–40, §403(b)(6), substituted “7302” for “4101(b)”.
 
 Subsecs. (g), (h). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-1982—Subsec. (a). Pub. L. 97–295, §4(94)(A), substituted “Health and Human Services” for “Health, Education, and Welfare”, struck out “section 309 and” after “carried out under”, and inserted “(42 U.S.C. 292 et seq.)” after “the Public Health Service Act”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–295, §4(94)(A), substituted “Health and Human Services” for “Health, Education, and Welfare”, struck out “section 309 and” after “carried out under”, and inserted “(42 U.S.C. 292 et seq.)” after “the Public Health Service Act”.
 
 Subsec. (e). Pub. L. 97–295, §4(94)(B), substituted “(including equipment therein)” for “including equipment therein)” and substituted “of” for “entitled ‘An Act making appropriations for the Legislative Branch of the Government for the fiscal year ending June 30, 1933, and for other purposes,’ approved” after “section 321 of the Act”.
 
-1980—Subsec. (e). Pub. L. 96–330 inserted “, but no such lease may be for a period of more than 50 years” after “with respect to any lease entered into pursuant to this chapter”.
+<b>1980</b>—Subsec. (e). Pub. L. 96–330 inserted “, but no such lease may be for a period of more than 50 years” after “with respect to any lease entered into pursuant to this chapter”.
 
-1979—Subsec. (b). Pub. L. 96–151 substituted provisions prohibiting the Administrator from entering into any agreement under subchapter I after Sept. 30, 1979, for provisions prohibiting the Administrator from entering into any agreement under subchapter I or to make any grant, etc., under subchapter II or III after end of seventh calendar year after the calendar year in which this chapter takes effect.
+<b>1979</b>—Subsec. (b). Pub. L. 96–151 substituted provisions prohibiting the Administrator from entering into any agreement under subchapter I after Sept. 30, 1979, for provisions prohibiting the Administrator from entering into any agreement under subchapter I or to make any grant, etc., under subchapter II or III after end of seventh calendar year after the calendar year in which this chapter takes effect.
 
-1976—Subsec. (e). Pub. L. 94–581, §116(1), added subsec. (e). Former subsec. (e) redesignated (f).
+<b>1976</b>—Subsec. (e). Pub. L. 94–581, §116(1), added subsec. (e). Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 94–581, §§116(1), 210(f)(1), redesignated former subsec. (e) as (f) and substituted “steps the Administrator has taken” for “steps he has taken”. Former subsec. (f) redesignated (g).
 

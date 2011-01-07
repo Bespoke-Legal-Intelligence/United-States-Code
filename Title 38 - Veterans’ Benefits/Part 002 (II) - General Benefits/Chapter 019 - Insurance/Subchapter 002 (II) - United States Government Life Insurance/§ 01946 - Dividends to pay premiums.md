@@ -6,7 +6,7 @@ Until and unless the Secretary has received from the insured a request in writin
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 746 of this title as this section and substituted “Secretary” for “Veterans’ Administration”.
+<b>1991</b>—Pub. L. 102–83 renumbered section 746 of this title as this section and substituted “Secretary” for “Veterans’ Administration”.
 
-1986—Pub. L. 99–576 substituted “the insured's” for “his”.
+<b>1986</b>—Pub. L. 99–576 substituted “the insured's” for “his”.
 

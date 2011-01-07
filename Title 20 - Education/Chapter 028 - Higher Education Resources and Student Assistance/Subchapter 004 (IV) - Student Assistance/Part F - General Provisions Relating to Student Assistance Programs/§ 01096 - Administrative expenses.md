@@ -8,7 +8,7 @@ From the sums appropriated for any fiscal year for the purpose of the program au
 
 (1) The sums paid to institutions under this part are for the sole purpose of administering the programs described in subsection (a) of this section.
 
-(2) If the institution enrolls a significant number of students who are (A) attending the institution less than full time, or (B) independent students, the institution shall use a reasonableproportion of the funds available under this section for financial aid services during times and in places that will most effectively accommodate the needs of such students.
+(2) If the institution enrolls a significant number of students who are (A) attending the institution less than full time, or (B) independent students, the institution shall use a reasonable proportion of the funds available under this section for financial aid services during times and in places that will most effectively accommodate the needs of such students.
 
 (Pub. L. 89–329, title IV, §489, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1491; amended Pub. L. 99–603, title I, §121(b)(7), Nov. 6, 1986, 100 Stat. 3391; Pub. L. 100–50, §15(15), June 3, 1987, 101 Stat. 357; Pub. L. 102–325, title IV, §§446(c), 493, July 23, 1992, 106 Stat. 567, 630; Pub. L. 103–208, §2(h)(44), (k)(6), Dec. 20, 1993, 107 Stat. 2478, 2486; Pub. L. 110–315, title IV, §494B, Aug. 14, 2008, 122 Stat. 3319; Pub. L. 111–39, title IV, §407(b)(10), July 1, 2009, 123 Stat. 1953.)
 
@@ -18,15 +18,15 @@ A prior section 1096, Pub. L. 89–329, title IV, §489, as added Pub. L. 96–3
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–39 substituted “has referred under section 1087cc(a)(4)(B)” for “has agreed to assign under section 1087cc(a)(6)(B)” and “1091(g)” for “1091(h)”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–39 substituted “has referred under section 1087cc(a)(4)(B)” for “has agreed to assign under section 1087cc(a)(6)(B)” and “1091(g)” for “1091(h)”.
 
-2008—Subsec. (b)(1). Pub. L. 110–315 substituted “administering” for “offsetting the administrative costs of”.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–315 substituted “administering” for “offsetting the administrative costs of”.
 
-1993—Subsec. (a). Pub. L. 103–208, §2(k)(6), repealed Pub. L. 102–325, §446(c). See 1992 Amendment note below.
+<b>1993</b>—Subsec. (a). Pub. L. 103–208, §2(k)(6), repealed Pub. L. 102–325, §446(c). See 1992 Amendment note below.
 
 Pub. L. 103–208, §2(h)(44), substituted “1091(h) of this title” for “1091(c) of this title”.
 
-1992—Subsec. (a). Pub. L. 102–325, §493(a)(3), substituted “subpart 3” for “subpart 2” in two places.
+<b>1992</b>—Subsec. (a). Pub. L. 102–325, §493(a)(3), substituted “subpart 3” for “subpart 2” in two places.
 
 Pub. L. 102–325, §493(a)(1), (2), struck out “(other than section 2756a of title 42)” before “, or under part D” in second sentence and struck out fourth sentence which read as follows: “The payment for a fiscal year for the purpose of subsection (b) of this section with respect to section 2756a of title 42 shall be payable from each allotment under part C of subchapter I of chapter 34 of title 42 in accordance with regulations of the Secretary, and shall be 10 percent of the institution's expenditures during such fiscal year under such section.”
 
@@ -34,9 +34,9 @@ Pub. L. 102–325, §446(c), which directed amendment identical to amendment by 
 
 Subsec. (b). Pub. L. 102–325, §493(b), designated existing provisions as par. (1) and added par. (2).
 
-1987—Subsec. (a). Pub. L. 100–50 made technical amendment to reference to section 2756a of title 42 to correct reference to corresponding section of original Act, requiring no change in text.
+<b>1987</b>—Subsec. (a). Pub. L. 100–50 made technical amendment to reference to section 2756a of title 42 to correct reference to corresponding section of original Act, requiring no change in text.
 
-1986—Subsec. (a). Pub. L. 99–603 inserted provision directing the Secretary to pay the costs incurred by institutions of higher education in implementing and operating the immigration status verification system under section 1091(c) of this title.
+<b>1986</b>—Subsec. (a). Pub. L. 99–603 inserted provision directing the Secretary to pay the costs incurred by institutions of higher education in implementing and operating the immigration status verification system under section 1091(c) of this title.
 
 #### Effective Date of 2009 Amendment
 

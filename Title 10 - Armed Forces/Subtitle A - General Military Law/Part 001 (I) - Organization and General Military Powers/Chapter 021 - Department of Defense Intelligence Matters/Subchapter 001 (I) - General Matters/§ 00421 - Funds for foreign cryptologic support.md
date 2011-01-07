@@ -20,15 +20,15 @@ The National Security Act of 1947, referred to in subsec. (c), is act July 26, 1
 
 #### Amendments
 
-1989—Subsec. (c). Pub. L. 101–189 substituted “House of Representatives pursuant to the provisions of title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.). Funds” for “House pursuant to the provisions of title V of the National Security Act of 1947, as amended, and funds”.
+<b>1989</b>—Subsec. (c). Pub. L. 101–189 substituted “House of Representatives pursuant to the provisions of title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.). Funds” for “House pursuant to the provisions of title V of the National Security Act of 1947, as amended, and funds”.
 
-1988—Pub. L. 100–453 struck out “transfers” after “Funds” in section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary of Defense may use funds available to the Department of Defense for intelligence and communications purposes to pay for the expenses of arrangements with foreign countries for cryptologic support.”
+<b>1988</b>—Pub. L. 100–453 struck out “transfers” after “Funds” in section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary of Defense may use funds available to the Department of Defense for intelligence and communications purposes to pay for the expenses of arrangements with foreign countries for cryptologic support.”
 
-1987—Pub. L. 100–26 renumbered section 128 of this title as this section.
+<b>1987</b>—Pub. L. 100–26 renumbered section 128 of this title as this section.
 
-1986—Pub. L. 99–433 renumbered section 140a of this title as section 128 of this title and substituted “Funds” for “Secretary of Defense: funds” in section catchline.
+<b>1986</b>—Pub. L. 99–433 renumbered section 140a of this title as section 128 of this title and substituted “Funds” for “Secretary of Defense: funds” in section catchline.
 
-1982—Pub. L. 97–258 struck out provision that payments under this section could be made without regard to section 3651 of the Revised Statutes of the United States (31 U.S.C. 543).
+<b>1982</b>—Pub. L. 97–258 struck out provision that payments under this section could be made without regard to section 3651 of the Revised Statutes of the United States (31 U.S.C. 543).
 
 #### Comprehensive Independent Study of National Cryptography Policy
 

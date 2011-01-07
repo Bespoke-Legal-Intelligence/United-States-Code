@@ -6,7 +6,7 @@ Except as provided in subsection (b) of this section, eligible participants in a
 
 &emsp;(1) a parent or parents—
 
-&emsp;&emsp;(A) who are eligible for participation in adult education and literacy activities underthe Adult Education and Family Literacy Act \[20 U.S.C. 9201 et seq.\]; or
+&emsp;&emsp;(A) who are eligible for participation in adult education and literacy activities under the Adult Education and Family Literacy Act \[20 U.S.C. 9201 et seq.\]; or
 
 &emsp;&emsp;(B) who are within the State's compulsory school attendance age range, so long as a local educational agency provides (or ensures the availability of) the basic education component required under this subpart, or who are attending secondary school; and
 

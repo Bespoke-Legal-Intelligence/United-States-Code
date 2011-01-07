@@ -2,7 +2,7 @@
 
 (a) One or more rail carriers providing transportation subject to the jurisdiction of the Board under this part may enter into a contract with one or more purchasers of rail services to provide specified services under specified rates and conditions.
 
-(b) A party to a contract entered into under this section shall have no duty in connectionwith services provided under such contract other than those duties specified by the terms of the contract.
+(b) A party to a contract entered into under this section shall have no duty in connection with services provided under such contract other than those duties specified by the terms of the contract.
 
 (c)(1) A contract that is authorized by this section, and transportation under such contract, shall not be subject to this part, and may not be subsequently challenged before the Board or in any court on the grounds that such contract violates a provision of this part.
 
@@ -66,5 +66,5 @@ Section 10713, added Pub. L. 96–448, title II, §208(a), Oct. 14, 1980, 94 Sta
 
 #### Amendments
 
-1996—Subsec. (e). Pub. L. 104–287 substituted “October 1, 1980,” for “the effective date of the Staggers Rail Act of 1980”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–287 substituted “October 1, 1980,” for “the effective date of the Staggers Rail Act of 1980”.
 

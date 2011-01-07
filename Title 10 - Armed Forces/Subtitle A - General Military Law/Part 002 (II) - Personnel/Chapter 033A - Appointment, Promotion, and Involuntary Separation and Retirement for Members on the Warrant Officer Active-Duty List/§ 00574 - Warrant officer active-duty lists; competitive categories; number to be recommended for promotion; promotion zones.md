@@ -4,7 +4,7 @@
 
 (b) The Secretary concerned may establish competitive categories for promotion. Warrant officers in the same competitive category shall compete among themselves for promotion.
 
-(c) Before convening a selection board under section 573 of this title, the Secretary concerned shall determine for each grade (or grade andcompetitive category) to be considered by the board the following:
+(c) Before convening a selection board under section 573 of this title, the Secretary concerned shall determine for each grade (or grade and competitive category) to be considered by the board the following:
 
 &emsp;(1) The maximum number of warrant officers to be recommended for promotion.
 
@@ -24,11 +24,11 @@
 
 #### Amendments
 
-1996—Subsec. (e). Pub. L. 104–201 substituted “two years of service” for “three years of service”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–201 substituted “two years of service” for “three years of service”.
 
-1994—Subsecs. (a), (b). Pub. L. 103–337 substituted “Secretary concerned” for “Secretary of each military department”.
+<b>1994</b>—Subsecs. (a), (b). Pub. L. 103–337 substituted “Secretary concerned” for “Secretary of each military department”.
 
-1992—Subsec. (d)(3). Pub. L. 102–484 substituted “active-duty list” for “active duty list” before “while”.
+<b>1992</b>—Subsec. (d)(3). Pub. L. 102–484 substituted “active-duty list” for “active duty list” before “while”.
 
 #### Effective Date of 1994 Amendment
 

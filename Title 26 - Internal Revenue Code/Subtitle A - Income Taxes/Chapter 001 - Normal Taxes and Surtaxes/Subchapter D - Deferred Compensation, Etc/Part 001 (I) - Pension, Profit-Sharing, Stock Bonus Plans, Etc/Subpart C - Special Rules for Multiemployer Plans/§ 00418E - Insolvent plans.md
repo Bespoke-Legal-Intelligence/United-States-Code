@@ -120,7 +120,7 @@ Section 4261 of the Employee Retirement Income Security Act of 1974, referred to
 
 #### Amendments
 
-2006—Subsec. (d)(1). Pub. L. 109–280 substituted “5 plan years” for “3 plan years” the second place it appeared and inserted at end “If the plan sponsor makes such a determination that the plan will be insolvent in any of the next 5 plan years, the plan sponsor shall make the comparison under this paragraph at least annually until the plan sponsor makes a determination that the plan will not be insolvent in any of the next 5 plan years.”
+<b>2006</b>—Subsec. (d)(1). Pub. L. 109–280 substituted “5 plan years” for “3 plan years” the second place it appeared and inserted at end “If the plan sponsor makes such a determination that the plan will be insolvent in any of the next 5 plan years, the plan sponsor shall make the comparison under this paragraph at least annually until the plan sponsor makes a determination that the plan will not be insolvent in any of the next 5 plan years.”
 
 #### Effective Date of 2006 Amendment
 

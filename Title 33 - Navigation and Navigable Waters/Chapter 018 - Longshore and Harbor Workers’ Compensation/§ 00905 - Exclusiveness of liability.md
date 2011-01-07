@@ -2,7 +2,7 @@
 
 #### (a) Employer liability; failure of employer to secure payment of compensation
 
-The liability of an employer prescribed in section 904 of this title shall be exclusive and in place of all other liability of such employer to the employee, his legal representative, husband or wife, parents, dependents, next of kin, and anyone otherwise entitled to recover damages from such employer at law or in admiralty on account of such injury or death, except that if an employer fails to secure payment of compensation as required by this chapter, an injured employee, or his legal representative in case death results from the injury, may elect to claim compensation under the chapter, or to maintain an action at law or in admiralty fordamages on account of such injury or death. In such action the defendant may not plead as a defense that the injury was caused by the negligence of a fellow servant, or that the employee assumed the risk of his employment, or that the injury was due to the contributory negligence of the employee. For purposes of this subsection, a contractor shall be deemed the employer of a subcontractor's employees only if the subcontractor fails to secure the payment of compensation as required by section 904 of this title.
+The liability of an employer prescribed in section 904 of this title shall be exclusive and in place of all other liability of such employer to the employee, his legal representative, husband or wife, parents, dependents, next of kin, and anyone otherwise entitled to recover damages from such employer at law or in admiralty on account of such injury or death, except that if an employer fails to secure payment of compensation as required by this chapter, an injured employee, or his legal representative in case death results from the injury, may elect to claim compensation under the chapter, or to maintain an action at law or in admiralty for damages on account of such injury or death. In such action the defendant may not plead as a defense that the injury was caused by the negligence of a fellow servant, or that the employee assumed the risk of his employment, or that the injury was due to the contributory negligence of the employee. For purposes of this subsection, a contractor shall be deemed the employer of a subcontractor's employees only if the subcontractor fails to secure the payment of compensation as required by section 904 of this title.
 
 #### (b) Negligence of vessel
 
@@ -16,17 +16,17 @@ In the event that the negligence of a vessel causes injury to a person entitled 
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–426, §4(b), inserted at end “For purposes of this subsection, a contractor shall be deemed the employer of a subcontractor's employees only if the subcontractor fails to secure the payment of compensation as required by section 904 of this title.”
+<b>1984</b>—Subsec. (a). Pub. L. 98–426, §4(b), inserted at end “For purposes of this subsection, a contractor shall be deemed the employer of a subcontractor's employees only if the subcontractor fails to secure the payment of compensation as required by section 904 of this title.”
 
 Subsec. (b). Pub. L. 98–426, §5(a)(1), substituted “If such person was employed to provide shipbuilding, repairing, or breaking services and such person's employer was the owner, owner pro hac vice, agent, operator, or charterer of the vessel, no such action shall be permitted, in whole or in part or directly or indirectly, against the injured person's employer (in any capacity, including as the vessel's owner, owner pro hac vice, agent, operator, or charterer) or against the employees of the employer” for “If such person was employed by the vessel to provide ship building or repair services, no such action shall be permitted if the injury was caused by the negligence of persons engaged in providing ship building or repair services to the vessel”.
 
 Subsec. (c). Pub. L. 98–426, §5(b), added subsec. (c).
 
-1972—Pub. L. 92–576 designated existing provisions as subsec. (a), substituted “the chapter” for “this chapter”, and added subsec. (b).
+<b>1972</b>—Pub. L. 92–576 designated existing provisions as subsec. (a), substituted “the chapter” for “this chapter”, and added subsec. (b).
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 4(b) of Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect to claims filed after Sept. 28, 1984, and to claims pending on that date, and amendment by section 5(a)(1), (b) of Pub. L. 98–426 applicable with respect to any injury after Sept. 28, 1984, see section 28(a), (c) of Pub. L. 98–426, set out as a note under section 901 of this title.
+Amendment by section 4(b) of Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect toclaims filed after Sept. 28, 1984, and to claims pending on that date, and amendment by section 5(a)(1), (b) of Pub. L. 98–426 applicable with respect to any injury after Sept. 28, 1984, see section 28(a), (c) of Pub. L. 98–426, set out as a note under section 901 of this title.
 
 #### Effective Date of 1972 Amendment
 

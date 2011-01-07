@@ -12,7 +12,7 @@ Limitations on Number and Duration of Exchanges.—An exchange agreement under t
 
 Costs and Expenses.—(1) A student from a military academy of a foreign country is not entitled to the pay, allowances, and emoluments of a cadet by reason of attendance at the Academy under the exchange program, and the Department of Defense may not incur any cost of international travel required for transportation of such a student to and from the sponsoring foreign country.
 
-(2) The Secretary may provide a student from a foreign country under the exchange program, during the period of the exchange, with subsistence, transportation within the continental United States, clothing, health care, and other services to the same extent that the foreigncountry provides comparable support and services to the exchanged cadet in that foreign country.
+(2) The Secretary may provide a student from a foreign country under the exchange program, during the period of the exchange, with subsistence, transportation within the continental United States, clothing, health care, and other services to the same extent that the foreign country provides comparable support and services to the exchanged cadet in that foreign country.
 
 (3) The Academy shall bear all costs of the exchange program from funds appropriated for the Academy and such additional funds as may be available to the Academy from a source other than appropriated funds to support cultural immersion, regional awareness, or foreign language training activities in connection with the exchange program.
 
@@ -34,13 +34,13 @@ A prior section 4345, act Aug. 10, 1956, ch. 1041, 70A Stat. 242, related to sel
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–364, §531(a)(1), substituted “100” for “24”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–364, §531(a)(1), substituted “100” for “24”.
 
 Subsec. (c)(3). Pub. L. 109–364, §531(a)(2)(A), inserted “and such additional funds as may be available to the Academy from a source other than appropriated funds to support cultural immersion, regional awareness, or foreign language training activities in connection with the exchange program.” after “for the Academy” and struck out at end “Expenditures in support of the exchange program may not exceed $120,000 during any fiscal year.”
 
 Subsec. (c)(4). Pub. L. 109–364, §531(a)(2)(B), added par. (4).
 
-1999—Subsec. (b). Pub. L. 106–65, §535(a)(1), substituted “24 cadets” for “10 cadets”.
+<b>1999</b>—Subsec. (b). Pub. L. 106–65, §535(a)(1), substituted “24 cadets” for “10 cadets”.
 
 Subsec. (c)(3). Pub. L. 106–65, §535(a)(2), substituted “$120,000” for “$50,000”.
 

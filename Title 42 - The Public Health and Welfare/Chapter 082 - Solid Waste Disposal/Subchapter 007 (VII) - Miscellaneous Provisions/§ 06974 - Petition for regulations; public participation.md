@@ -20,7 +20,7 @@ Any person may petition the Administrator for the promulgation, amendment, or re
 
 #### Amendments
 
-1980—Subsec. (b). Pub. L. 96–482 designated existing provisions as par. (1) and added par. (2).
+<b>1980</b>—Subsec. (b). Pub. L. 96–482 designated existing provisions as par. (1) and added par. (2).
 
 #### Transfer of Functions
 

@@ -64,7 +64,7 @@ Within 270 days after October 28, 1992, the Commission shall, by regulation, est
 
 &emsp;&emsp;(B) offer telephone subscribers (where the Commission determines it is technically and economically feasible), in combination with the blocking option described under subparagraph (A), the option of presubscribing to or blocking only specific pay-per-call services for a reasonable one-time charge.
 
-> &emsp;The regulations prescribed under subparagraph (A)(i) of this paragraph may permit thecosts of such blocking to be recovered by contract or tariff, but such costs may not be recovered from local or long-distance ratepayers. Nothing in this subsection precludes a common carrier from filing its rates and regulations regarding blocking and presubscription in its interstate tariffs.
+> &emsp;The regulations prescribed under subparagraph (A)(i) of this paragraph may permit the costs of such blocking to be recovered by contract or tariff, but such costs may not be recovered from local or long-distance ratepayers. Nothing in this subsection precludes a common carrier from filing its rates and regulations regarding blocking and presubscription in its interstate tariffs.
 
 #### (6) Verification of charitable status
 
@@ -80,7 +80,7 @@ Within 270 days after October 28, 1992, the Commission shall, by regulation, est
 
 &emsp;&emsp;(C) the calling party being charged for information conveyed during the call unless—
 
-&emsp;&emsp;&emsp;(i) the calling party has a written agreement (including an agreement transmitted through electronic medium) that meets the requirements of paragraph (8); or
+&emsp;&emsp;&emsp;(i) the calling party has a written agreement (including an agreement transmittedthrough electronic medium) that meets the requirements of paragraph (8); or
 
 &emsp;&emsp;&emsp;(ii) the calling party is charged for the information in accordance with paragraph (9);
 
@@ -150,7 +150,7 @@ Within 270 days after October 28, 1992, the Commission shall, by regulation, est
 
 #### (9) Charges by credit, prepaid, debit, charge, or calling card in absence of agreement
 
-&emsp;For purposes of paragraph (7)(C)(ii), a calling party is not charged in accordance with this paragraph unless the calling party is chargedby means of a credit, prepaid, debit, charge, or calling card and the information service provider includes in response to each call an introductory disclosure message that—
+&emsp;For purposes of paragraph (7)(C)(ii), a calling party is not charged in accordance with this paragraph unless the calling party is charged by means of a credit, prepaid, debit, charge, or calling card and the information service provider includes in response to each call an introductory disclosure message that—
 
 &emsp;&emsp;(A) clearly states that there is a charge for the call;
 
@@ -170,7 +170,7 @@ Within 270 days after October 28, 1992, the Commission shall, by regulation, est
 
 #### (11) “Calling card” defined
 
-&emsp;As used in this subsection, the term “calling card” means an identifying number or code unique to the individual, that is issued to the individual by a common carrier and enables the individual to be charged by means of a phone bill for charges incurred independent of where the call originates.
+&emsp;As used in this subsection, the term “calling card” means an identifying number or codeunique to the individual, that is issued to the individual by a common carrier and enables the individual to be charged by means of a phone bill for charges incurred independent of where the call originates.
 
 #### (d) Billing and collection practices
 
@@ -208,7 +208,7 @@ The regulations required by this section shall require that any common carrier t
 
 #### (1) Consumer refund requirements
 
-&emsp;The regulations required by subsection (d) of this section shall establish procedures, consistent with the provisions of titles II and III of the Telephone Disclosure and Dispute Resolution Act \[15 U.S.C. 5711 et seq.; 5721 et seq.\], to ensure that carriers and other parties providing billing and collection services with respect to pay-per-call services provide appropriate refunds to subscribers who have beenbilled for pay-per-call services pursuant to programs that have been found to have violated this section or such regulations, any provision of, or regulations prescribed pursuant to, title II or III of the Telephone Disclosure and Dispute Resolution Act, or any other Federal law.
+&emsp;The regulations required by subsection (d) of this section shall establish procedures, consistent with the provisions of titles II and III of the Telephone Disclosure and Dispute Resolution Act \[15 U.S.C. 5711 et seq.; 5721 et seq.\], to ensure that carriers and other parties providing billing and collection services with respect to pay-per-call services provide appropriate refunds to subscribers who have been billed for pay-per-call services pursuant to programs that have been found to have violated this section or such regulations, any provision of, or regulations prescribed pursuant to, title II or III of the Telephone Disclosure and Dispute Resolution Act, or any other Federal law.
 
 #### (2) Recovery of costs
 
@@ -226,7 +226,7 @@ The regulations required by this section shall require that any common carrier t
 
 #### (2) Consumer protection laws
 
-&emsp;Nothing in this section shall relieve any provider of pay-per-call services, common carrier, local exchange carrier, or any other person from the obligation to comply with any Federal, State, or local statute or regulation relating to consumer protection or unfair trade.
+&emsp;Nothing in this section shall relieve any provider of pay-per-call services, common carrier,local exchange carrier, or any other person from the obligation to comply with any Federal, State, or local statute or regulation relating to consumer protection or unfair trade.
 
 #### (3) Gambling laws
 
@@ -272,7 +272,7 @@ The Telephone Disclosure and Dispute Resolution Act, referred to in subsecs. (c)
 
 #### Amendments
 
-1996—Subsec. (c)(7)(C). Pub. L. 104–104, §701(a)(1)(A), added subpar. (C) and struck out former subpar. (C) which read as follows: “the calling party being charged for information conveyed during the call unless the calling party has a preexisting agreement to be charged for the information or discloses a credit or charge card number during the call; or”.
+<b>1996</b>—Subsec. (c)(7)(C). Pub. L. 104–104, §701(a)(1)(A), added subpar. (C) and struck out former subpar. (C) which read as follows: “the calling party being charged for information conveyed during the call unless the calling party has a preexisting agreement to be charged for the information or discloses a credit or charge card number during the call; or”.
 
 Subsec. (c)(7)(E). Pub. L. 104–104, §701(a)(1)(B), added subpar. (E).
 
@@ -280,13 +280,13 @@ Subsec. (c)(8) to (11). Pub. L. 104–104, §701(a)(1)(C), added pars. (8) to (1
 
 Subsec. (i)(2). Pub. L. 104–104, §701(b)(2), struck out “or any service the charge for which is tariffed,” after “local exchange carrier or its affiliate,”.
 
-1994—Subsec. (c)(2) to (7). Pub. L. 103–414, §303(a)(13), redesignated par. (2), relating to compliance procedures, as (3) and pars. (3) to (6) as (4) to (7), respectively.
+<b>1994</b>—Subsec. (c)(2) to (7). Pub. L. 103–414, §303(a)(13), redesignated par. (2), relating to compliance procedures, as (3) and pars. (3) to (6) as (4) to (7), respectively.
 
 Subsec. (c)(7)(D). Pub. L. 103–414, §303(a)(14), which directed substitution of “conversation” for “conservation” in par. (6)(D), was executed by making the substitution in par. (7)(D) to reflect the probable intent of Congress and the redesignation of par. (6) as (7) by Pub. L. 103–414, §303(a)(13). See above.
 
 #### Effective Date of 1996 Amendment
 
-Section 701(a)(3) of Pub. L. 104–104 provided that: “The amendments made by paragraph (1) \[amendingthis section\] shall take effect on the date of enactment of this Act \[Feb. 8, 1996\].”
+Section 701(a)(3) of Pub. L. 104–104 provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on the date of enactment of this Act \[Feb. 8, 1996\].”
 
 #### Regulations
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Authorization for Acquisition Required.—No military department may acquire real property not owned by the United States unless the acquisition is expressly authorized by law. The foregoing limitation shall not apply to the acceptance by a military department of real property acquired under the authority of the Administrator of General Services to acquire property by the exchange of Government property pursuant to subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.).
+Authorization for Acquisition Required.—No military department may acquire real property not owned by the United States unless the acquisition is expressly authorized by law. The foregoing limitation shall not apply to the acceptance by a military department of real property acquired under the authority of the Administrator of General Services to acquire property by the exchange of Government property pursuant to subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
 (b)
 
@@ -26,7 +26,7 @@ Congressional Notification.—The limitations on reduction in scope or increase 
 
 Payment of Judgements and Settlements.—The Secretary concerned shall promptly pay any deficiency judgment against the United States awarded by a court in an action for condemnation of any interest in land or resulting from a final settlement of an action for condemnation of any interest in land. Payments under this subsection may be made from funds available to the Secretary concerned for military construction projects and without regard to the limitations of subsections (c) and (d).
 
-(Added Pub. L. 85–861, §1(51), Sept. 2, 1958, 72 Stat. 1460, §2676; amended Pub. L. 93–166, title VI, §608(2), Nov. 29, 1973, 87 Stat. 682; Pub. L. 97–214, §5, July 12, 1982, 96 Stat. 170; Pub. L. 98–407, title VIII, §802, Aug. 28, 1984, 98 Stat. 1519; Pub. L. 99–661, div. A, title XIII, §1343(a)(17)(A), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 102–190, div. B, title XXVIII, §2870(1), Dec. 5, 1991, 105 Stat. 1562; Pub. L. 107–217, §3(b)(14), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title X, §1062(a)(11), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–136, div. A, title X, §1031(a)(30), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 108–375, div. A, title X, §1084(b)(4), Oct. 28, 2004, 118 Stat. 2061; renumbered §2664 and amended Pub. L. 109–163, div. B, title XXVIII, §2821(a)(10), (b)–(d), Jan. 6, 2006, 119 Stat. 3512.)
+(Added Pub. L. 85–861, §1(51), Sept. 2, 1958, 72 Stat. 1460, §2676; amended Pub. L. 93–166, title VI, §608(2), Nov. 29, 1973, 87 Stat. 682; Pub. L. 97–214, §5, July 12, 1982, 96 Stat. 170; Pub. L. 98–407, title VIII, §802, Aug. 28, 1984, 98 Stat. 1519; Pub. L. 99–661, div. A, title XIII, §1343(a)(17)(A), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 102–190, div. B, title XXVIII, §2870(1), Dec. 5, 1991, 105 Stat. 1562; Pub. L. 107–217, §3(b)(14), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title X, §1062(a)(11), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–136, div. A, title X, §1031(a)(30), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 108–375, div. A, title X, §1084(b)(4), Oct. 28, 2004, 118 Stat. 2061; renumbered §2664 and amended Pub. L. 109–163, div. B, title XXVIII, §2821(a)(10), (b)–(d), Jan. 6, 2006, 119 Stat. 3512; Pub. L. 111–350, §5(b)(45), Jan. 4, 2011, 124 Stat. 3846.)
 
 Historical and Revision Notes
 
@@ -44,10 +44,6 @@ July 27, 1954, ch. 579, §501(b) (less provisos), 68 Stat. 560.
 
 The word “property” is substituted for the word “estate”. The words “not owned by the United States” are substituted for the words “not in Federal ownership”. The words “or shall be” are omitted as surplusage.
 
-#### References in Text
-
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
-
 #### Codification
 
 The text of section 2661(c) of this title, which was transferred to this section and redesignated subsec. (b) by Pub. L. 109–163, §2821(d), was based on Pub. L. 108–375, div. B, title XXVIII, §2821(a)(1), Oct. 28, 2004, 118 Stat. 2129.
@@ -58,7 +54,9 @@ A prior section 2664, acts Aug. 10, 1956, ch. 1041, 70A Stat. 148; Pub. L. 85–
 
 #### Amendments
 
-2006—Pub. L. 109–163, §2821(c), renumbered section 2676 of this title as this section and substituted “Limitations on real property acquisition” for “Acquisition: limitation” in section catchline.
+<b>2011</b>—Subsec. (a). Pub. L. 111–350, which directed substitution “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949, as amended (41 U.S.C. 251 et seq.)”, was executed by making the substitution for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” to reflect the probable intent of Congress.
+
+<b>2006</b>—Pub. L. 109–163, §2821(c), renumbered section 2676 of this title as this section and substituted “Limitations on real property acquisition” for “Acquisition: limitation” in section catchline.
 
 Subsec. (a). Pub. L. 109–163, §2821(b)(1), inserted heading and struck out “, as amended” after “Federal Property and Administrative Services Act of 1949” in text.
 
@@ -74,27 +72,27 @@ Subsec. (d). Pub. L. 109–163, §2821(b)(3), inserted heading.
 
 Subsec. (e). Pub. L. 109–163, §2821(b)(4), inserted heading.
 
-2004—Subsec. (d). Pub. L. 108–375 substituted “congressional defense committees” for “appropriate committees of Congress”.
+<b>2004</b>—Subsec. (d). Pub. L. 108–375 substituted “congressional defense committees” for “appropriate committees of Congress”.
 
-2003—Subsec. (d). Pub. L. 108–136 inserted before period at end “or, if over sooner, a period of 14 days elapses from the date on which a copy of that notification is provided in an electronic medium pursuant to section 480 of this title”.
+<b>2003</b>—Subsec. (d). Pub. L. 108–136 inserted before period at end “or, if over sooner, a period of 14 days elapses from the date on which a copy of that notification is provided in an electronic medium pursuant to section 480 of this title”.
 
-2002—Subsec. (a). Pub. L. 107–314 inserted opening parenthesis before “41 U.S.C.”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–314 inserted opening parenthesis before “41 U.S.C.”.
 
 Pub. L. 107–217 inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
 
-1991—Subsec. (d). Pub. L. 102–190 struck out “(1)” after “be awarded only” and “, or (2) upon the approval of those committees, if before the end of that period each such committee approves the proposed reduced scope or increased cost” before period at end.
+<b>1991</b>—Subsec. (d). Pub. L. 102–190 struck out “(1)” after “be awarded only” and “, or (2) upon the approval of those committees, if before the end of that period each such committee approves the proposed reduced scope or increased cost” before period at end.
 
-1986—Subsec. (c)(2)(B). Pub. L. 99–661 amended generally language of subpar. (B) before “exceeds the amount”. See 1984 Amendment note below.
+<b>1986</b>—Subsec. (c)(2)(B). Pub. L. 99–661 amended generally language of subpar. (B) before “exceeds the amount”. See 1984 Amendment note below.
 
-1984—Subsec. (c)(2). Pub. L. 98–407, §802(1), inserted “or, in the case of land to be acquired by condemnation, the amount to be deposited with the court as just compensation for the land” in provisions preceding subpar. (A).
+<b>1984</b>—Subsec. (c)(2). Pub. L. 98–407, §802(1), inserted “or, in the case of land to be acquired by condemnation, the amount to be deposited with the court as just compensation for the land” in provisions preceding subpar. (A).
 
 Subsec. (c)(2)(B). Pub. L. 98–407, §802(2), inserted “or, in the case of land to be acquired by condemnation, the amount to be deposited with the court as just compensation for the land,”. Insertion of new language following “the agreed price for the land” was executed to text notwithstanding directory language of Pub. L. 98–407 that made a reference to a nonexistent comma following “the agreed price for the land”. See 1986 Amendment note above.
 
 Subsec. (e). Pub. L. 98–407, §802(3), added subsec. (e).
 
-1982—Pub. L. 97–214 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
+<b>1982</b>—Pub. L. 97–214 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
 
-1973—Pub. L. 93–166 made limitation inapplicable to property acquired under authority of Administrator of General Services to acquire property by exchange of Government property.
+<b>1973</b>—Pub. L. 93–166 made limitation inapplicable to property acquired under authority of Administrator of General Services to acquire property by exchange of Government property.
 
 #### Effective Date of 1986 Amendment
 
@@ -102,5 +100,5 @@ Section 1343(a)(17)(B) of Pub. L. 99–661 provided that: “The amendment made 
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of this title.
+Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and toconstruction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of this title.
 

@@ -16,7 +16,7 @@
 - [&sect; 01141h - Examination of and opposition to request for extension of protection; notification of refusal](%C2%A7%2001141h%20-%20Examination%20of%20and%20opposition%20to%20request%20for%20extension%20of%20protection%3B%20notification%20of%20refusal.md)
 - [&sect; 01141i - Effect of extension of protection](%C2%A7%2001141i%20-%20Effect%20of%20extension%20of%20protection.md)
 - [&sect; 01141j - Dependence of extension of protection to the United States on the underlying international registration](%C2%A7%2001141j%20-%20Dependence%20of%20extension%20of%20protection%20to%20the%20United%20States%20on%20the%20underlying%20international%20registration.md)
-- [&sect; 01141k - Affidavits and fees](%C2%A7%2001141k%20-%20Affidavits%20and%20fees.md)
+- [&sect; 01141k - Duration, affidavits and fees](%C2%A7%2001141k%20-%20Duration%2C%20affidavits%20and%20fees.md)
 - [&sect; 01141l - Assignment of an extension of protection](%C2%A7%2001141l%20-%20Assignment%20of%20an%20extension%20of%20protection.md)
 - [&sect; 01141m - Incontestability](%C2%A7%2001141m%20-%20Incontestability.md)
 - [&sect; 01141n - Rights of extension of protection](%C2%A7%2001141n%20-%20Rights%20of%20extension%20of%20protection.md)

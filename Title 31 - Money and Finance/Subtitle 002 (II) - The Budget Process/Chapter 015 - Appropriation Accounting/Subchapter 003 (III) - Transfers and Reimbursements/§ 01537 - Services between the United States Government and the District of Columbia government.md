@@ -70,7 +70,7 @@ In subsection (c)(2), the words “District of Columbia government” are substi
 
 #### Amendments
 
-2006—Subsec. (d). Pub. L. 109–177 substituted “and the Secret Service Uniformed Division” for “and the Executive Protective Service” and “their protective duties under sections 3056 and 3056A of title 18” for “their protective duties under section 302 of title 3 and section 3056 of title 18”.
+<b>2006</b>—Subsec. (d). Pub. L. 109–177 substituted “and the Secret Service Uniformed Division” for “and the Executive Protective Service” and “their protective duties under sections 3056 and 3056A of title 18” for “their protective duties under section 302 of title 3 and section 3056 of title 18”.
 
 #### Transfer of Functions
 

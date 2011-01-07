@@ -12,15 +12,15 @@ If the Secretary believes that the collection of any tax (other than income tax,
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–418 substituted “and 44” for “44, and 45”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–418 substituted “and 44” for “44, and 45”.
 
-1980—Subsec. (a). Pub. L. 96–223 which directed the substitution of “the excise taxes imposed by chapters 41, 42, 43, 44, and 45” for “certain excise taxes” was executed by inserting reference to chapter 45 in view of the amendment by Pub. L. 96–222.
+<b>1980</b>—Subsec. (a). Pub. L. 96–223 which directed the substitution of “the excise taxes imposed by chapters 41, 42, 43, 44, and 45” for “certain excise taxes” was executed by inserting reference to chapter 45 in view of the amendment by Pub. L. 96–222.
 
 Pub. L. 96–222 substituted “the taxes imposed by chapters 41, 42, 43, and 44” for “certain excise taxes”.
 
-1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1974—Pub. L. 93–406 substituted “, gift, and certain excise taxes” for “, and gift taxes” in section catchline and “gift tax, and certain excise taxes)” for “and gift tax)” in subsec. (a).
+<b>1974</b>—Pub. L. 93–406 substituted “, gift, and certain excise taxes” for “, and gift taxes” in section catchline and “gift tax, and certain excise taxes)” for “and gift tax)” in subsec. (a).
 
 #### Effective Date of 1988 Amendment
 
@@ -30,7 +30,7 @@ Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises
 
 Amendment by Pub. L. 96–223 applicable to periods after Feb. 29, 1980, see section 101(i) of Pub. L. 96–223, set out as a note under section 6161 of this title.
 
-Amendment by Pub. L. 96–222 effective as if included in the provisions of the Black Lung Benefits Revenue Act of 1977, Pub. L. 95–227, see section 108(b)(4) of Pub. L. 96–222, set out as a note under section 192 of this title.
+Amendment by Pub. L. 96–222 effective as if included in the provisions of the Black Lung Benefits Revenue Act of 1977, Pub. L. 95–227, see section 108(b)(4) of Pub.L. 96–222, set out as a note under section 192 of this title.
 
 #### Effective Date of 1974 Amendment
 

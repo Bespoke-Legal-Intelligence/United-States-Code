@@ -146,7 +146,7 @@ Whenever the Commission or the administering authority makes a determination und
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–465, §212(b)(2)(A), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Except in the case of a petition dismissed by the administering authority under section 1673a(c)(3) of this title, the Commission, within 45 days after the date on which a petition is filed under section 1673a(b) of this title or on which it receives notice from the administering authority of an investigation commenced under section 1673a(a) of this title, shall make a determination, based upon the best information available to it at the time of the determination, of whether there is a reasonable indication that—
+<b>1994</b>—Subsec. (a). Pub. L. 103–465, §212(b)(2)(A), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Except in the case of a petition dismissed by the administering authority under section 1673a(c)(3) of this title, the Commission, within 45 days after the date on which a petition is filed under section 1673a(b) of this title or on which it receives notice from the administering authority of an investigation commenced under section 1673a(a) of this title, shall make a determination, based upon the best information available to it at the time of the determination, of whether there is a reasonable indication that—
 
 &emsp;“(1) an industry in the United States—
 
@@ -190,7 +190,7 @@ Subsec. (e)(2). Pub. L. 103–465, §§215(b)(2), 219(c)(1), substituted “subs
 
 Subsec. (f). Pub. L. 103–465, §212(b)(2)(E), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “Whenever the Commission or the administering authority makes a determination under this section, it shall notify the petitioner, other parties to the investigation, and the other agency of its determination and of the facts and conclusions of law upon which the determination is based, and it shall publish notice of its determination in the Federal Register.”
 
-1988—Subsec. (b)(1). Pub. L. 100–418, §1323(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Within 160 days after the date on which a petition is filed under section 1673a(b) of this title, or an investigation is commenced under section 1673a(a) of this title, but not before an affirmative determination by the Commission under subsection (a) of this section, the administering authority shall make a determination, based upon the best information available to it at the time of the determination, of whether there is a reasonable basis to believe or suspect that the merchandise is being sold, or is likely to be sold at less than fair value. If the determination of the administering authority under this subsection is affirmative, the determination shall include the estimated average amount by which the foreign market value exceeds the United States price.”
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–418, §1323(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Within 160 days after the date on which a petition is filed under section 1673a(b) of this title, or an investigation is commenced under section 1673a(a) of this title, but not before an affirmative determination by the Commission under subsection (a) of this section, the administering authority shall make a determination, based upon the best information available to it at the time of the determination, of whether there is a reasonable basis to believe or suspect that the merchandise is being sold, or is likely to be sold at less than fair value. If the determination of the administering authority under this subsection is affirmative, the determination shall include the estimated average amount by which the foreign market value exceeds the United States price.”
 
 Subsec. (b)(2). Pub. L. 100–418, §1326(d)(1), substituted “(F), or (G)” for “or (F)” in two places.
 
@@ -200,7 +200,7 @@ Subsec. (e)(1). Pub. L. 100–418, §1324(b)(2), inserted “(at any time after 
 
 Pub. L. 100–418, §1323(b)(3), inserted sentence at end relating to investigations in which subsec. (b)(1)(B) is applied.
 
-1986—Subsec. (b)(2). Pub. L. 99–514 inserted reference to subpar. (F) of section 1677(9) of this title in two places.
+<b>1986</b>—Subsec. (b)(2). Pub. L. 99–514 inserted reference to subpar. (F) of section 1677(9) of this title in two places.
 
 #### Effective Date of 1994 Amendment
 

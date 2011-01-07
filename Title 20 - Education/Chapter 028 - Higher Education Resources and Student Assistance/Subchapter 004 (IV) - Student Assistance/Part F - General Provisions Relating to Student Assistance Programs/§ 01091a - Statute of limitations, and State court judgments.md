@@ -6,9 +6,9 @@
 
 (2) Notwithstanding any other provision of statute, regulation, or administrative limitation, no limitation shall terminate the period within which suit may be filed, a judgment may be enforced, or an offset, garnishment, or other action initiated or taken by—
 
-&emsp;(A) an institution that receives funds under this subchapter and part C of subchapter I of chapter 34 of title 42 that is seeking to collect a refund due from a student on a grant made, or work assistance awarded, under this subchapter and part C of subchapter I of chapter 34 of title 42;
+&emsp;(A) an institution that receives funds under this subchapter and part C of subchapter I ofchapter 34 of title 42 that is seeking to collect a refund due from a student on a grant made, or work assistance awarded, under this subchapter and part C of subchapter I of chapter 34 of title 42;
 
-&emsp;(B) a guaranty agency that has an agreement with the Secretary under section 1078(c) of this title that is seeking the repayment of the amount due from a borrower on a loan made under part B of this subchapter after such guaranty agency reimburses the previousholder of the loan for its loss on account of the default of the borrower;
+&emsp;(B) a guaranty agency that has an agreement with the Secretary under section 1078(c) of this title that is seeking the repayment of the amount due from a borrower on a loan made under part B of this subchapter after such guaranty agency reimburses the previous holder of the loan for its loss on account of the default of the borrower;
 
 &emsp;(C) an institution that has an agreement with the Secretary pursuant to section 1087c or 1087cc(a) of this title that is seeking the repayment of the amount due from a borrower on a loan made under part C or D of this subchapter after the default of the borrower on such loan; or
 
@@ -42,15 +42,15 @@ Another prior section 1091a, Pub. L. 89–329, title V, §502, as added Pub. L. 
 
 #### Amendments
 
-2008—Subsec. (b)(3). Pub. L. 110–315, §486(1), added par. (3).
+<b>2008</b>—Subsec. (b)(3). Pub. L. 110–315, §486(1), added par. (3).
 
 Subsec. (d). Pub. L. 110–315, §486(2), added subsec. (d).
 
-1998—Pub. L. 105–244, §484(1), inserted “, and State court judgments” after “limitations” in section catchline.
+<b>1998</b>—Pub. L. 105–244, §484(1), inserted “, and State court judgments” after “limitations” in section catchline.
 
 Subsec. (c). Pub. L. 105–244, §484(2), added subsec. (c).
 
-1991—Subsec. (a). Pub. L. 102–26 amended subsec. (a) generally, substituting provisions eliminating statute of limitations for student loan collections for provisions establishing six year limitations period for collection of such loans.
+<b>1991</b>—Subsec. (a). Pub. L. 102–26 amended subsec. (a) generally, substituting provisions eliminating statute of limitations for student loan collections for provisions establishing six year limitations period for collection of such loans.
 
 #### Effective Date of 1998 Amendment
 

@@ -46,7 +46,7 @@
 
 #### (C) Assumptions and guidelines
 
-&emsp;&emsp;OMB estimates under this paragraph shall be made using current economic and technical assumptions. OMB shall use the OMB estimates transmitted to the Congress underthis paragraph. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the House and Senate Committees on the Budget, CBO, and OMB.
+&emsp;&emsp;OMB estimates under this paragraph shall be made using current economic and technical assumptions. OMB shall use the OMB estimates transmitted to the Congress under this paragraph. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the House and Senate Committees on the Budget, CBO, and OMB.
 
 #### (D) Annual appropriations
 
@@ -68,7 +68,7 @@ Adjustment to align highway spending with revenues.—(i) When the President sub
 
 &emsp;(bb) OMB shall take the current estimate of highway receipts for the current year and subtract the estimated level of receipts for that year.
 
-&emsp;(cc) OMB shall add one-half of the sum of the amount calculated under items (aa) and (bb) to the obligation limitations set forth in the section 8003 of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users and, using current estimates, calculate the outlay change resulting from the change in obligations for the budget year and the first outyear and the outlays flowing therefrom through subsequent fiscal years. After making the calculations under the preceding sentence, OMB shall adjust the amount of obligations set forth in that section for the budget year and the first outyear by adding one-half of the sum of the amount calculated under items (aa) and (bb) to each such year.
+&emsp;(cc) OMB shall add one-half of the sum of the amount calculated under items (aa) and (bb) to the obligation limitations set forth in the section 8003 of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users and, using current estimates, calculate the outlay change resulting from the change in obligations for the budget year and the first outyear and the outlays flowingtherefrom through subsequent fiscal years. After making the calculations under the preceding sentence, OMB shall adjust the amount of obligations set forth in that section for the budget year and the first outyear by adding one-half of the sum of the amount calculated under items (aa) and (bb) to each such year.
 
 &emsp;(II) The estimated level of highway receipts for the purposes of this clause are—
 
@@ -166,7 +166,7 @@ Adjustment to align highway spending with revenues.—(i) When the President sub
 
 &emsp;&emsp;Whenever a bill or joint resolution making appropriations for fiscal year 1999, 2000, 2001, 2002, or 2003 is enacted that specifies an amount for adoption incentive payments pursuant to this subchapter for the Department of Health and Human Services—
 
-&emsp;&emsp;&emsp;(i) the adjustments for new budget authority shall be the amounts of new budgetauthority provided in that measure for adoption incentive payments, but not to exceed $20,000,000; and
+&emsp;&emsp;&emsp;(i) the adjustments for new budget authority shall be the amounts of new budget authority provided in that measure for adoption incentive payments, but not to exceed $20,000,000; and
 
 &emsp;&emsp;&emsp;(ii) the adjustment for outlays shall be the additional outlays flowing from such amount.
 
@@ -230,7 +230,7 @@ As used in this subchapter, the term “discretionary spending limit” means—
 
 > as adjusted in strict conformance with subsection (b) of this section.
 
-(Pub. L. 99–177, title II, §251, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 754; Pub. L. 100–203, title VIII, §8003(f), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), (e)(2), Nov. 5, 1990, 104 Stat. 1388–577, 1388–593; Pub. L. 103–66, title XIV, §14002(c)(1), Aug. 10, 1993, 107 Stat. 683; Pub. L. 103–87, title V, §571, Sept. 30, 1993, 107 Stat. 971; Pub. L. 103–306, title V, §562, Aug. 23, 1994, 108 Stat. 1649; Pub. L. 103–354, title I, §119(d)(1),Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–121, title I, §103(b), Mar. 29, 1996, 110 Stat. 848; Pub. L. 104–193, title II, §211(d)(5)(B), Aug. 22, 1996, 110 Stat. 2191; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §577\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169; Pub. L. 105–33, title X, §10203(a), (b), Aug. 5, 1997, 111 Stat. 698, 701; Pub. L. 105–89, title II, §201(b)(1), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–178, title VIII, §8101(a), (d), June 9, 1998, 112 Stat. 488, 490; Pub. L. 106–291, title VIII, §801(a), (b), Oct. 11, 2000, 114 Stat. 1026, 1027; Pub. L. 106–429, §101(a) \[title VII, §701(a)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–64; Pub. L. 107–117, div. C, §101(a), Jan. 10, 2002, 115 Stat. 2341; Pub. L. 108–88, §10(a), (b), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, §10(a), (b), Sept. 30, 2004, 118 Stat. 1160; Pub. L. 109–59, title VIII, §§8001(a), 8002, Aug. 10, 2005, 119 Stat. 1915, 1916.)
+(Pub. L. 99–177, title II, §251, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 754; Pub. L. 100–203, title VIII, §8003(f), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), (e)(2), Nov. 5, 1990, 104 Stat. 1388–577, 1388–593; Pub. L. 103–66, title XIV, §14002(c)(1), Aug. 10, 1993, 107 Stat. 683; Pub. L. 103–87, title V, §571, Sept. 30, 1993, 107 Stat. 971; Pub. L. 103–306, title V, §562, Aug. 23, 1994, 108 Stat. 1649; Pub. L. 103–354, title I, §119(d)(1), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–121, title I, §103(b), Mar. 29, 1996, 110 Stat. 848; Pub. L. 104–193, title II, §211(d)(5)(B), Aug. 22, 1996, 110 Stat. 2191; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §577\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169; Pub. L. 105–33, title X, §10203(a), (b), Aug. 5, 1997, 111 Stat. 698, 701; Pub. L. 105–89, title II, §201(b)(1), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–178, title VIII, §8101(a), (d), June 9, 1998, 112 Stat. 488, 490; Pub. L. 106–291, title VIII, §801(a), (b), Oct. 11, 2000, 114 Stat. 1026, 1027; Pub. L. 106–429, §101(a) \[title VII, §701(a)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–64; Pub. L. 107–117, div. C, §101(a), Jan. 10, 2002, 115 Stat. 2341; Pub. L. 108–88, §10(a), (b), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, §10(a), (b), Sept. 30, 2004, 118 Stat. 1160; Pub. L. 109–59, title VIII, §§8001(a), 8002, Aug. 10, 2005, 119 Stat. 1915, 1916.)
 
 #### Termination of Section
 
@@ -302,7 +302,7 @@ Subsec. (c)(7). Pub. L. 105–178, §8101(a)(5), added par. (7).
 
 Subsec. (a)(3). Pub. L. 105–33, §10203(a)(2), substituted “section 905(f)” for “section 905(h)” in two places.
 
-Subsec. (a)(7). Pub. L. 105–33, §10203(a)(3), added par. (7) and struck out heading and text of former par. (7).Text read as follows: “As soon as practicable after Congress completes action on any discretionary appropriation, CBO, after consultation with the Committees on the Budget of the House of Representatives and the Senate, shall provide OMB with an estimate of the amount of discretionary new budget authority and outlays for the current year (if any) and the budget year provided by that legislation. Within 5 calendar days after the enactment of any discretionary appropriation, OMB shall transmit a report to the House of Representatives and to the Senate containing the CBO estimate of that legislation, an OMB estimate of the amount of discretionary new budget authority and outlays for the current year (if any) and the budget year provided by that legislation, and an explanation of any difference between the two estimates. For purposes of this paragraph, amounts provided by annual appropriations shall include any new budget authority and outlays for those years in accounts for which funding is provided in that legislation that result from previously enacted legislation. Those OMB estimates shall be made using current economic and technical assumptions. OMB shall use the OMB estimates transmitted to the Congress under this paragraph for the purposes of this subsection. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the House and Senate Committees on the Budget, CBO, and OMB.”
+Subsec. (a)(7). Pub. L. 105–33, §10203(a)(3), added par. (7) and struck out heading and text of former par. (7). Text read as follows: “As soon as practicable after Congress completes action on any discretionary appropriation, CBO, after consultation with the Committees on the Budget of the House of Representatives and the Senate, shall provide OMB with an estimate of the amount of discretionary new budget authority and outlays for the current year (if any) and the budget year provided by that legislation. Within 5 calendar days after the enactment of any discretionary appropriation, OMB shall transmit a report to the House of Representatives and to the Senate containing the CBO estimate of that legislation, an OMB estimate of the amount of discretionary new budget authority and outlays for the current year (if any) and the budget year provided by that legislation, and an explanation of any difference between the two estimates. For purposes of this paragraph, amounts provided by annual appropriations shall include any new budget authority and outlays for those years in accounts for which funding is provided in that legislation that result from previously enacted legislation. Those OMB estimates shall be made using current economic and technical assumptions. OMB shall use the OMB estimates transmitted to the Congress under this paragraph for the purposes of this subsection. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the House and Senate Committees on the Budget, CBO, and OMB.”
 
 Subsec. (b). Pub. L. 105–33, §10203(a)(4), added subsec. (b) and struck out heading and text of former subsec. (b) which provided that when the President submitted the budget for a budget year from 1992 to 1998, OMB was to calculate, and the budget was to include, adjustments to discretionary spending limits reflecting certain enumerated factors and provided that when OMB submitted a sequestration report for a fiscal year from 1991 to 1998, OMB was to calculate, and the sequestration report and subsequent budgets were to include, adjustments to discretionary spending limits reflecting certain enumerated factors.
 
@@ -328,7 +328,7 @@ Subsec. (b)(1). Pub. L. 103–66, §14002(c)(1)(B)(i), in introductory provision
 
 Subsec. (b)(1)(B)(iii). Pub. L. 103–66, §14002(c)(1)(B)(ii), added cl. (iii).
 
-Subsec. (b)(2). Pub. L. 103–66, §14002(c)(1)(B)(iii), in introductory provisions, substituted “1995, 1996, 1997, or 1998” for “or 1995” and “year through 1998” for “year through 1995”.
+Subsec. (b)(2). Pub. L. 103–66, §14002(c)(1)(B)(iii), in introductory provisions, substituted “1995, 1996, 1997, or1998” for “or 1995” and “year through 1998” for “year through 1995”.
 
 Subsec. (b)(2)(D)(i). Pub. L. 103–66, §14002(c)(1)(B)(iv), substituted “for any fiscal year,” for “for fiscal year 1991, 1992, 1993, 1994, or 1995,”.
 
@@ -374,7 +374,7 @@ Adjustment of discretionary category for fy2000.—The discretionary spending li
 
 “(3)
 
-Adjustment of discretionary spending limit for fy2001.—The discretionary spending limit set forth in section 251(c)(5)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[former 2 U.S.C. 901(c)(5)(A)\], as adjusted in conformance with section251(b) of that Act, is reduced by $859,000,000 in new budget authority and $26,329,000,000 in outlays.
+Adjustment of discretionary spending limit for fy2001.—The discretionary spending limit set forth in section 251(c)(5)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[former 2 U.S.C. 901(c)(5)(A)\], as adjusted in conformance with section 251(b) of that Act, is reduced by $859,000,000 in new budget authority and $26,329,000,000 in outlays.
 
 “(4)
 
@@ -382,7 +382,7 @@ Adjustment of discretionary spending limit for fy2002.—The discretionary spend
 
 #### Level of Obligation Limitations
 
-Pub. L. 109–59, title VIII, §8003, Aug. 10, 2005, 119 Stat. 1917, provided that:
+Pub. L. 109–59, title VIII, §8003, Aug. 10, 2005, 119 Stat. 1917, as amended by Pub. L. 111–147, title IV, §446(a), (b), Mar. 18, 2010, 124 Stat. 95, 96; Pub. L. 111–322, title II, §2308, Dec. 22, 2010, 124 Stat. 3530, provided that:
 
 “(a)
 
@@ -394,9 +394,13 @@ Highway Category.—For the purposes of section 251(b) of the Balanced Budget an
 
 &emsp;“(3) for fiscal year 2007, $39,460,710,516;
 
-&emsp;“(4) for fiscal year 2008, $40,824,075,404; and
+&emsp;“(4) for fiscal year 2008, $40,824,075,404;
 
-&emsp;“(5) for fiscal year 2009, $42,469,970,178.
+&emsp;“(5) for fiscal year 2009, $42,469,970,178; and \[sic\]
+
+&emsp;“(6) for fiscal year 2010, $42,469,970,178. \[; and\]
+
+&emsp;“(7) for the period beginning October 1, 2010, and ending on March 4, 2011, $18,035,192,815.
 
 “(b)
 
@@ -408,9 +412,13 @@ Mass Transit Category.—For the purposes of section 251(b) of the Balanced Budg
 
 &emsp;“(3) for fiscal year 2007, $8,974,775,000;
 
-&emsp;“(4) for fiscal year 2008, $9,730,893,000; and
+&emsp;“(4) for fiscal year 2008, $9,730,893,000;
 
-&emsp;“(5) for fiscal year 2009, $10,338,065,000.
+&emsp;“(5) for fiscal year 2009, $10,338,065,000; and \[sic\]
+
+&emsp;“(6) for fiscal year 2010, $10,338,065,000. \[; and\]
+
+&emsp;“(7) for the period beginning October 1, 2010, and ending on March 4, 2011, $4,390,137,192.
 
 > For purposes of this subsection, the term ‘obligation limitations’ means the sum of budget authority and obligation limitations.”
 

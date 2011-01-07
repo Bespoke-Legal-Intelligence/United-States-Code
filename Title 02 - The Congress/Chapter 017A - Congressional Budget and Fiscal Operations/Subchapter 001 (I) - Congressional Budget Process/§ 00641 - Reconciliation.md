@@ -34,7 +34,7 @@ If a concurrent resolution containing directives to one or more committees to de
 
 #### (c) Compliance with reconciliation directions
 
-(1) Any committee of the House of Representatives or the Senate that is directed, pursuant to a concurrent resolution on the budget, to determine and recommend changes of the type described in paragraphs (1) and (2) of subsection (a) of this section with respect to laws within its jurisdiction, shall be deemed to have complied with such directions—
+(1) Any committee of the House of Representatives or the Senate that is directed, pursuant toa concurrent resolution on the budget, to determine and recommend changes of the type described in paragraphs (1) and (2) of subsection (a) of this section with respect to laws within its jurisdiction, shall be deemed to have complied with such directions—
 
 &emsp;(A) if—
 
@@ -42,7 +42,7 @@ If a concurrent resolution containing directives to one or more committees to de
 
 &emsp;&emsp;&emsp;(I) in the Senate, 20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection; or
 
-&emsp;&emsp;&emsp;(II) in the House of Representatives, 20 percent of the sum of the absolute value ofthe changes the committee was directed to make under paragraph (1) and the absolute value of the changes the committee was directed to make under paragraph (2); and
+&emsp;&emsp;&emsp;(II) in the House of Representatives, 20 percent of the sum of the absolute value of the changes the committee was directed to make under paragraph (1) and the absolute value of the changes the committee was directed to make under paragraph (2); and
 
 &emsp;&emsp;(ii) the amount of the changes of the type described in paragraph (2) of such subsection recommended by such committee do not exceed or fall below the amount of the changes such committee was directed by such concurrent resolution to recommend under that paragraph by more than <sup>1</sup>
 

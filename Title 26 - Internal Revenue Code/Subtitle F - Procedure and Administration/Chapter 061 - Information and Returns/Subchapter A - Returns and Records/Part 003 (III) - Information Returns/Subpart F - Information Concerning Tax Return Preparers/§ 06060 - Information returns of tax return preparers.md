@@ -16,7 +16,7 @@ For purposes of subsection (a), the term “return period” means the 12-month 
 
 #### Amendments
 
-2007—Pub. L. 110–28, §8246(a)(2)(A)(i), substituted “tax return preparers” for “income tax return preparers” in section catchline.
+<b>2007</b>—Pub. L. 110–28, §8246(a)(2)(A)(i), substituted “tax return preparers” for “income tax return preparers” in section catchline.
 
 Subsec. (a). Pub. L. 110–28, §8246(a)(2)(A)(ii), substituted “a tax return preparer” for “an income tax return preparer” in two places, “each tax return preparer” for “each income tax return preparer”, and “another tax return preparer” for “another income tax return preparer”.
 

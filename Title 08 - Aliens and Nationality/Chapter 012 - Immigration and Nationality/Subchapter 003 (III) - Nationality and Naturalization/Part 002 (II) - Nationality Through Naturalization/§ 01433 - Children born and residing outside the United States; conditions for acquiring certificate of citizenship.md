@@ -20,7 +20,7 @@ A parent who is a citizen of the United States (or, if the citizen parent has di
 
 #### (b) Attainment of citizenship status; receipt of certificate
 
-Upon approval of the application (which may be filed from abroad) and, except as provided in the last sentence of section 1448(a) of this title, upon taking and subscribing before an officer of the Service within the United States to the oath of allegiance required by this chapter of an applicant for naturalization, the child shall become a citizen of the United States and shall be furnished by the Attorney General with a certificate of citizenship.
+Upon approval of the application (which may be filed from abroad) and, except as provided inthe last sentence of section 1448(a) of this title, upon taking and subscribing before an officer of the Service within the United States to the oath of allegiance required by this chapter of an applicant for naturalization, the child shall become a citizen of the United States and shall be furnished by the Attorney General with a certificate of citizenship.
 
 #### (c) Adopted children
 
@@ -30,13 +30,17 @@ Subsections (a) and (b) of this section shall apply to a child adopted by a Unit
 
 In the case of a child of a member of the Armed Forces of the United States who is authorized to accompany such member and reside abroad with the member pursuant to the member's official orders, and is so accompanying and residing with the member—
 
-&emsp;(1) any period of time during which the member of the Armed Forces is residingabroad pursuant to official orders shall be treated, for purposes of subsection (a)(2)(A), as physical presence in the United States;
+&emsp;(1) any period of time during which the member of the Armed Forces is residing abroad pursuant to official orders shall be treated, for purposes of subsection (a)(2)(A), as physical presence in the United States;
 
 &emsp;(2) subsection (a)(5) shall not apply; and
 
 &emsp;(3) the oath of allegiance described in subsection (b) may be subscribed to abroad pursuant to section 1443a of this title.
 
 (June 27, 1952, ch. 477, title III, ch. 2, §322, 66 Stat. 246; Pub. L. 95–417, §6, Oct. 5, 1978, 92 Stat. 918; Pub. L. 97–116, §18(m), (n), Dec. 29, 1981, 95 Stat. 1620, 1621; Pub. L. 99–653, §16, Nov. 14, 1986, 100 Stat. 3658; Pub. L. 100–525, §8(<i>l</i>), Oct. 24, 1988, 102 Stat. 2618; Pub. L. 101–649, title IV, §407(b)(2), (c)(6), (d)(5), Nov. 29, 1990, 104 Stat. 5040–5042; Pub. L. 102–232, title III, §305(m)(3), Dec. 12, 1991, 105 Stat. 1750; Pub. L. 103–416, title I, §102(a), Oct. 25, 1994, 108 Stat. 4306; Pub. L. 106–139, §1(b)(2), Dec. 7, 1999, 113 Stat. 1697; Pub. L. 106–395, title I, §102(a), Oct. 30, 2000, 114 Stat. 1632; Pub. L. 107–273, div. C, title I, §11030B, Nov. 2, 2002, 116 Stat. 1837; Pub. L. 110–181, div. A, title VI, §674(b), Jan. 28, 2008, 122 Stat. 186.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (b), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 

@@ -30,7 +30,7 @@ A prior section 1783 was renumbered section 3683 of this title.
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–461, §216(a), designated existing provisions as par. (1) and added par. (2).
+<b>2006</b>—Subsec. (b). Pub. L. 109–461, §216(a), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (c), (d). Pub. L. 109–461, §216(b), added subsec. (c) and redesignated former subsec. (c) as (d).
 

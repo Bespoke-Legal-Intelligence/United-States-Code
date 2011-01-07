@@ -54,7 +54,7 @@ Northwestern private timber open market area.—The term “northwestern private
 
 &emsp;&emsp;(ii) Lumber, construction timbers, or cants for remanufacture, except Western Red Cedar, meeting current American Lumber Standards Grades or Pacific Lumber Inspection Bureau Export R or N list clear grades, sawn on 4 sides, not to exceed 12 inches in thickness.
 
-&emsp;&emsp;(iii) Lumber, construction timbers, or cants for remanufacture, except Western Red Cedar, that do not meet the grades referred to in clause (ii) and are sawn on 4 sides, with wane less than 1/4 of any face, not exceeding 83/4 inches in thickness.
+&emsp;&emsp;(iii) Lumber, construction timbers, or cants for remanufacture, except Western Red Cedar, that do not meet the grades referred to in clause (ii) and are sawn on 4 sides, with wane less than ¼ of any face, not exceeding 8¾ inches in thickness.
 
 &emsp;&emsp;(iv) Chips, pulp, or pulp products.
 
@@ -86,7 +86,7 @@ Sections 620 to 620j of this title, referred to in par. (11), was in the origina
 
 #### Amendments
 
-1997—Pars. (3) to (8). Pub. L. 105–83, §604(1), (2), added pars. (3) and (4) and redesignated former pars. (3) to (6) as (5) to (8), respectively. Former pars. (7) and (8) redesignated (9) and (10), respectively.
+<b>1997</b>—Pars. (3) to (8). Pub. L. 105–83, §604(1), (2), added pars. (3) and (4) and redesignated former pars. (3) to (6)as (5) to (8), respectively. Former pars. (7) and (8) redesignated (9) and (10), respectively.
 
 Par. (9). Pub. L. 105–83, §604(1), redesignated par. (7) as (9).
 

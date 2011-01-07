@@ -10,5 +10,5 @@ Section was enacted as a part of the Department of Agriculture Organic Act of 19
 
 #### Amendments
 
-1958—Pub. L. 85–464 made appropriations available for expenses of notifying employees of the death or serious illness of close relatives, and for transportation of employees.
+<b>1958</b>—Pub. L. 85–464 made appropriations available for expenses of notifying employees of the death or serious illness of close relatives, and for transportation of employees.
 

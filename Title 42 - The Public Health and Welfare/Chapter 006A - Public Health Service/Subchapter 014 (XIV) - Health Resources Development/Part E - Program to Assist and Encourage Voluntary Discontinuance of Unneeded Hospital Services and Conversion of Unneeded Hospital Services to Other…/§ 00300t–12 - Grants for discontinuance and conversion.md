@@ -24,7 +24,7 @@
 
 &emsp;(C) an estimate of the change in the applicant's costs which will result from such discontinuance and conversion; and
 
-&emsp;(D) reasonable assurance that all laborers and mechanics employed by contractors orsubcontractors in the performance of work on a project will be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40, and the Secretary of Labor shall have with respect to such labor standards the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 FR 3176; 5 U.S.C. Appendix) and section 3145 of title 40;
+&emsp;(D) reasonable assurance that all laborers and mechanics employed by contractors or subcontractors in the performance of work on a project will be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40, and the Secretary of Labor shall have with respect to such labor standards the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 FR 3176; 5 U.S.C. Appendix) and section 3145 of title 40;
 
 &emsp;(E) such other information as the Secretary may require.
 
@@ -48,7 +48,7 @@
 
 (2) The Secretary of Labor shall by regulation prescribe guidelines for arrangements for the protection of the interests of employees affected by the discontinuance of hospital services. The Secretary of Labor shall consult with the Secretary of Health and Human Services in the promulgation of such guidelines. Such guidelines shall first be promulgated not later than the promulgation of regulations by the Secretary for the administration of the grants authorized by section 300t–11 of this title.
 
-(3) The Secretary of Labor shall review each application submitted under subsection (b) of this section to determine if the arrangements described in paragraph (1) have been made and if they are satisfactory and shall notify the Secretary respecting his determination. Such review shall be completed within—
+(3) The Secretary of Labor shall review each application submitted under subsection (b) of this section to determine if the arrangements described in paragraph (1) have been made and ifthey are satisfactory and shall notify the Secretary respecting his determination. Such review shall be completed within—
 
 &emsp;(A) ninety days from the date of the receipt of the application from the Secretary of Health and Human Services, or
 
@@ -58,7 +58,7 @@
 
 #### (d) Records and audits requirements
 
-The records and audits requirements of section 292e <sup>2</sup> of this title shall apply with respectto grants made under subsection (a) of this section.
+The records and audits requirements of section 292e <sup>2</sup> of this title shall apply with respect to grants made under subsection (a) of this section.
 
 #### (e) “Hospital” defined
 

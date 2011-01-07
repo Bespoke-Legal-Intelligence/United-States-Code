@@ -2,7 +2,7 @@
 
 #### (a) Authorization; purpose
 
-The Secretary is authorized and directed to conduct a comprehensive exploratory programdesigned to obtain sufficient data and information to evaluate the extent, location, and potential for developing the known recoverable coal resources within the coal lands subject to this chapter. This program shall be designed to obtain the resource information necessary for determining whether commercial quantities of coal are present and the geographical extent of the coal fields and for estimating the amount of such coal which is recoverable by deep mining operations and the amount of such coal which is recoverable by surface mining operations in order to provide a basis for—
+The Secretary is authorized and directed to conduct a comprehensive exploratory program designed to obtain sufficient data and information to evaluate the extent, location, and potential for developing the known recoverable coal resources within the coal lands subject to this chapter. This program shall be designed to obtain the resource information necessary for determining whether commercial quantities of coal are present and the geographical extent of the coal fields and for estimating the amount of such coal which is recoverable by deep mining operations and the amount of such coal which is recoverable by surface mining operations in order to provide a basis for—
 
 &emsp;(1) developing a comprehensive land use plan pursuant to section 2;
 

@@ -6,7 +6,7 @@ Subject to appeal to the Secretary of the Treasury and under such regulations as
 
 #### Amendments
 
-1993—Pub. L. 103–182, §689(b)(4), substituted “The Secretary of Transportation and all persons” for “Such collector and all persons”.
+<b>1993</b>—Pub. L. 103–182, §689(b)(4), substituted “The Secretary of Transportation and all persons” for “Such collector and all persons”.
 
 Pub. L. 103–182, §689(b)(3), which directed the substitution of “the Secretary of Transportation shall revoke any endorsement on the vessel's certificate of documentation or number (when the Secretary is the authority issuing the number under chapter 123 of title 46)” for “said collector shall revoke the registry, enrollment, license, or number of such vessel”, was executed by making the substitution in text which read “said vessel” rather than “such vessel”, to reflect the probable intent of Congress.
 

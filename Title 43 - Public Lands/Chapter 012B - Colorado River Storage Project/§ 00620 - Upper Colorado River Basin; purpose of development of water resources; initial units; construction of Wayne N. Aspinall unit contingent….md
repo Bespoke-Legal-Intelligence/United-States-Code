@@ -14,17 +14,17 @@ The provisions of subsec. (a) of section 501 of Pub. L. 90–537 which amended t
 
 #### Amendments
 
-2009—Pub. L. 111–11, §§10401(a), 10701(e)(2), temporarily inserted “the Navajo-Gallup Water Supply Project,” after “Fruitland Mesa,” in cl. (2). See Termination Date of 2009 Amendment note below.
+<b>2009</b>—Pub. L. 111–11, §§10401(a), 10701(e)(2), temporarily inserted “the Navajo-Gallup Water Supply Project,” after “Fruitland Mesa,” in cl. (2). See Termination Date of 2009 Amendment note below.
 
-1980—Pub. L. 96–470 struck out proviso that construction of Uintah unit of Central Utah project not be undertaken by the Secretary until he has completed a feasibility report on such unit and submitted it to Congress, along with his certification that, in his judgment, the benefits of such unit or segment will exceed the cost and that such unit is physically and financially feasible, and that the Congress has authorized appropriations for construction thereof.
+<b>1980</b>—Pub. L. 96–470 struck out proviso that construction of Uintah unit of Central Utah project not be undertaken by the Secretary until he has completed a feasibility report on such unit and submitted it to Congress, along with his certification that, in his judgment, the benefits of such unit or segment will exceed the cost and that such unit is physically and financially feasible, and that the Congress has authorized appropriations for construction thereof.
 
 Pub. L. 96–375 substituted “Wayne N. Aspinall” for “Curecanti”.
 
-1968—Pub. L. 90–537 added Uintah unit to initial phase in Central Utah project, substituted “Animas-La Plata, Dolores, Dallas Creek, West Divide, San Miguel” for “Pine River Extension”, and inserted proviso prohibiting construction of Uintah unit of Central Utah project until a feasibility study is made, a determination is made that its benefits will exceed its costs and an authorization for appropriations is made by Congress.
+<b>1968</b>—Pub. L. 90–537 added Uintah unit to initial phase in Central Utah project, substituted “Animas-La Plata, Dolores, Dallas Creek, West Divide, San Miguel” for “Pine River Extension”, and inserted proviso prohibiting construction of Uintah unit of Central Utah project until a feasibility study is made, a determination is made that its benefits will exceed its costs and an authorization for appropriations is made by Congress.
 
-1964—Pub. L. 88–568 included Savery-Pot Hook, Bostwick Park, and Fruitland Mesa as participating projects.
+<b>1964</b>—Pub. L. 88–568 included Savery-Pot Hook, Bostwick Park, and Fruitland Mesa as participating projects.
 
-1962—Pub. L. 87–483 included San Juan-Chama (initial stage) and Navajo Indian as participating projects in cl. (2).
+<b>1962</b>—Pub. L. 87–483 included San Juan-Chama (initial stage) and Navajo Indian as participating projects in cl. (2).
 
 #### Termination Date of 2009 Amendment
 
@@ -147,7 +147,7 @@ Rights of the nation.—The Nation may, under the Contract—
 
 &emsp;&emsp;“(B) change a point of diversion, change a purpose or place of use, and transfer a right for depletion under this subtitle (except for a point of diversion, purpose or place of use, or right for depletion for use in the State of Arizona under section 10603(b)(2)(D) \[123 Stat. 1383\]), to another use, purpose, place, or depletion in the State of New Mexico to meet a water resource or economic need of the Nation if—
 
-&emsp;&emsp;&emsp;“(i) the change or transfer is subject to and consistent with the terms of the Agreement, the Partial Final Decree described in paragraph 3.0 of the Agreement, the Contract, and any other applicable law; and
+&emsp;&emsp;&emsp;“(i) the change or transfer is subject to and consistent with the terms of the Agreement, the Partial Final Decree described in paragraph 3.0 of theAgreement, the Contract, and any other applicable law; and
 
 &emsp;&emsp;&emsp;“(ii) a change or transfer of water use by the Nation does not alter any obligation of the United States, the Nation, or another party to pay or repay project construction, operation, maintenance, or replacement costs under this subtitle and the Contract.
 

@@ -16,7 +16,7 @@ Any report or other matter that is required to be submitted to Congress (includi
 
 #### Amendments
 
-2004—Pub. L. 108–458 designated existing provisions as subsecs. (a) and (b), inserted subsec. headings, and added subsec. (c).
+<b>2004</b>—Pub. L. 108–458 designated existing provisions as subsecs. (a) and (b), inserted subsec. headings, and added subsec. (c).
 
 #### Change of Name
 

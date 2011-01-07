@@ -10,9 +10,9 @@ This section is necessary to permit actions in the district courts upon any bond
 
 #### Amendments
 
-1980—Pub. L. 96–417 inserted exception for matters within the jurisdiction of the Court of International Trade under section 1582 of this title.
+<b>1980</b>—Pub. L. 96–417 inserted exception for matters within the jurisdiction of the Court of International Trade under section 1582 of this title.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–417 applicable with respect to civil actions commenced on or after the 90th day after Nov. 1, 1980, see section 701(c)(1)(B) of Pub. L. 96–417, set out as a note under section 251 of this title.
+Amendment by Pub. L. 96–417 applicable with respect to civil actions commenced on or after the 90th dayafter Nov. 1, 1980, see section 701(c)(1)(B) of Pub. L. 96–417, set out as a note under section 251 of this title.
 

@@ -28,9 +28,9 @@ Pub. L. 100–26, §7(j)(11), Apr. 21, 1987, 101 Stat. 283, which directed that 
 
 #### Amendments
 
-1987—Pub. L. 100–180 struck out the comma after “disease”.
+<b>1987</b>—Pub. L. 100–180 struck out the comma after “disease”.
 
-1986—Pub. L. 99–661, substituted “incurred an injury, illness, or disease” for “was injured, or contracted a disease”.
+<b>1986</b>—Pub. L. 99–661, substituted “incurred an injury, illness, or disease” for “was injured, or contracted a disease”.
 
 #### Effective Date of 1986 Amendment
 

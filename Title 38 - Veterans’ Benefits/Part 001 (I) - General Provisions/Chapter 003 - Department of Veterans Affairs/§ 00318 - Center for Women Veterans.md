@@ -26,7 +26,7 @@
 
 &emsp;(9) Publicize the results of medical research which are of particular significance to veterans who are women.
 
-&emsp;(10) Advise the Secretary and other appropriate officials on the effectiveness of the Department's efforts to accomplish the goals of section 492B of the Public Health Service Act (42 U.S.C. 289a–2) with respect to the inclusionof women in clinical research and on particular health conditions affecting women's health which should be studied as part of the Department's medical research program and promote cooperation between the Department and other sponsors of medical research of potential benefit to veterans who are women.
+&emsp;(10) Advise the Secretary and other appropriate officials on the effectiveness of the Department's efforts to accomplish the goals of section 492B of the Public Health Service Act (42 U.S.C. 289a–2) with respect to the inclusion of women in clinical research and on particular health conditions affecting women's health which should be studied as part of the Department's medical research program and promote cooperation between the Department and other sponsors of medical research of potential benefit to veterans who are women.
 
 &emsp;(11) Provide support and administrative services to the Advisory Committee on Women Veterans established under section 542 of this title.
 
@@ -68,7 +68,7 @@ Prior sections 404, 410 to 418, and 421 to 423 were renumbered sections 1304, 13
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–275, §501(a), inserted “career or” before “noncareer”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–275, §501(a), inserted “career or” before “noncareer”.
 
 Subsec. (d)(10). Pub. L. 104–275, §501(d), substituted “(42 U.S.C. 289a–2) with respect to the inclusion of women in clinical research and on” for “(relating to the inclusion of women and minorities in clinical research) and of”.
 

@@ -38,9 +38,9 @@ A prior section 430 of Pub. L. 90–247 was renumbered section 436, and is class
 
 #### Amendments
 
-1994—Pub. L. 103–382, §241, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to administration of education programs, delegations of authority, utilization of services and facilities of other agencies, and consolidation of programs.
+<b>1994</b>—Pub. L. 103–382, §241, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to administration of education programs, delegations of authority, utilization of services and facilities of other agencies, and consolidation of programs.
 
-1972—Subsec. (c). Pub. L. 92–318, §302(a), added subsec. (c).
+<b>1972</b>—Subsec. (c). Pub. L. 92–318, §302(a), added subsec. (c).
 
 #### Change of Name
 

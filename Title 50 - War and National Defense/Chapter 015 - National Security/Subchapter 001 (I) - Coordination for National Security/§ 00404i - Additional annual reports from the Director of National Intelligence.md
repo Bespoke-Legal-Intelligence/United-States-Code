@@ -74,7 +74,7 @@ The General Schedule, referred to in subsec. (b)(2)(B), is set out under section
 
 #### Amendments
 
-2004—Pub. L. 108–458, §1071(a)(7), substituted “Additional annual reports from the Director of National Intelligence” for “Additional annual reports from the Director of Central Intelligence” in section catchline.
+<b>2004</b>—Pub. L. 108–458, §1071(a)(7), substituted “Additional annual reports from the Director of National Intelligence” for “Additional annual reports from the Director of Central Intelligence” in section catchline.
 
 Subsec. (a)(1). Pub. L. 108–458, §1071(a)(1)(N), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
@@ -82,7 +82,7 @@ Subsec. (b)(1). Pub. L. 108–458, §1071(a)(1)(O), substituted “Director of N
 
 Subsec. (c)(1). Pub. L. 108–458, §1071(a)(3)(A), substituted “Director of National Intelligence” for “Director”.
 
-2003—Subsec. (a). Pub. L. 108–177, §361(c), redesignated subsec. (b) as (a) and struck out former subsec. (a), which related to annual reports on intelligence community cooperation with Federal law enforcement agencies.
+<b>2003</b>—Subsec. (a). Pub. L. 108–177, §361(c), redesignated subsec. (b) as (a) and struck out former subsec. (a), which related to annual reports on intelligence community cooperation with Federal law enforcement agencies.
 
 Subsecs. (b), (c). Pub. L. 108–177, §361(c)(2), redesignated subsecs. (c) and (d) as (b) and (c), respectively. Former subsec. (b) redesignated (a).
 
@@ -96,7 +96,7 @@ Pub. L. 108–177, §361(c)(2), redesignated subsec. (f) as (e). Former subsec. 
 
 Subsec. (f). Pub. L. 108–177, §361(c)(2), redesignated subsec. (f) as (e).
 
-2002—Subsec. (a)(1). Pub. L. 107–306, §811(b)(1)(D)(i)(I), struck out “the congressional intelligence committees and” before “the congressional leadership”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–306, §811(b)(1)(D)(i)(I), struck out “the congressional intelligence committees and” before “the congressional leadership”.
 
 Subsec. (a)(2) to (4). Pub. L. 107–306, §811(b)(1)(D)(i)(II), (III), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
@@ -133,6 +133,46 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–177 effective Dec. 31, 2003, see section 361(n) of Pub. L. 108–177, set out as a note under section 1611 of Title 10, Armed Forces.
+
+#### Report and Strategic Plan on Biological Weapons
+
+Pub. L. 111–259, title III, §335, Oct. 7, 2010, 124 Stat. 2688, provided that:
+
+“(a)
+
+Requirement for Report.—Not later than 180 days after the date of the enactment of this Act \[Oct. 7, 2010\], the Director of National Intelligence shall submit to the congressional intelligence committees a report on—
+
+&emsp;“(1) the intelligence collection efforts of the United States dedicated to assessing the threat from biological weapons from state, nonstate, or rogue actors, either foreign or domestic; and
+
+&emsp;“(2) efforts to protect the biodefense knowledge and infrastructure of the United States.
+
+“(b)
+
+Content.—The report required by subsection (a) shall include—
+
+&emsp;“(1) an assessment of the intelligence collection efforts of the United States dedicated to detecting the development or use of biological weapons by state, nonstate, or rogue actors, either foreign or domestic;
+
+&emsp;“(2) information on fiscal, human, technical, open-source, and other intelligence collection resources of the United States dedicated for use to detect or protect against the threat of biological weapons;
+
+&emsp;“(3) an assessment of any problems that may reduce the overall effectiveness of United States intelligence collection and analysis to identify and protect biological weapons targets, including—
+
+&emsp;&emsp;“(A) intelligence collection gaps or inefficiencies;
+
+&emsp;&emsp;“(B) inadequate information sharing practices; or
+
+&emsp;&emsp;“(C) inadequate cooperation among departments or agencies of the United States;
+
+&emsp;“(4) a strategic plan prepared by the Director of National Intelligence, in coordination with the Attorney General, the Secretary of Defense, and the Secretary of Homeland Security, that provides for actions for the appropriate elements of the intelligence community to close important intelligence gaps related to biological weapons;
+
+&emsp;“(5) a description of appropriate goals, schedules, milestones, or metrics to measure the long-term effectiveness of actions implemented to carry out the plan described in paragraph (4); and
+
+&emsp;“(6) any long-term resource and human capital issues related to the collection of intelligence regarding biological weapons, including any recommendations to address shortfalls of experienced and qualified staff possessing relevant scientific, language, and technical skills.
+
+“(c)
+
+Implementation of Strategic Plan.—Not later than 30 days after the date on which the Director of National Intelligence submits the report required by subsection (a), the Director shall begin implementation of the strategic plan referred to in subsection (b)(4).”
+
+\[For definition of terms used in section 335 of Pub. L. 111–259, set out above, see section 2 of Pub. L. 111–259, set out as a Definitions under section 401a of this title.\]
 
 #### Date for First Report on Cooperation With Civilian Law Enforcement Agencies
 

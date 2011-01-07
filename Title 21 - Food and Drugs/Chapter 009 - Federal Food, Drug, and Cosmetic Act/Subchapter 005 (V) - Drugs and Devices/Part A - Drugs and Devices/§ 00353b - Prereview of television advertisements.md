@@ -32,7 +32,7 @@ In formulating recommendations under subsection (b), the Secretary shall take in
 
 #### (2) Date of approval
 
-&emsp;In conducting a review of a television advertisement under this section, the Secretary may require the advertisement to include, for a period not to exceed 2 years from the date of the approval of the drug under section 355 of this title or section 262 of title 42, a specific disclosure of such date of approval if the Secretary determines that the advertisement would otherwise be false or misleading.
+&emsp;In conducting a review of a television advertisement under this section, the Secretarymay require the advertisement to include, for a period not to exceed 2 years from the date of the approval of the drug under section 355 of this title or section 262 of title 42, a specific disclosure of such date of approval if the Secretary determines that the advertisement would otherwise be false or misleading.
 
 #### (f) Rule of construction
 

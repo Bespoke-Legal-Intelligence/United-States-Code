@@ -1,6 +1,6 @@
 ### §3323. Warrants
 
-(a) Except as provided in section 3326 of this title, the Secretary of the Treasury may pay outmoney only against a warrant. A warrant shall be—
+(a) Except as provided in section 3326 of this title, the Secretary of the Treasury may pay out money only against a warrant. A warrant shall be—
 
 &emsp;(1) authorized by law;
 

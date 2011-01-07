@@ -32,7 +32,7 @@ Allowance for Certain Naval Officers.—In addition to other pay or allowances a
 
 Allowance for Senior Enlisted Members.—In addition to other pay or allowances authorized by this title, a noncommissioned officer is entitled to a personal money allowance of $2,000 a year while serving as the Sergeant Major of the Army, the Master Chief Petty Officer of the Navy, the Chief Master Sergeant of the Air Force, the Sergeant Major of the Marine Corps, the Master Chief Petty Officer of the Coast Guard, or the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 476; Pub. L. 89–718, §49(a)(2), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 102–25, title VII, §702(b)(2), Apr. 6, 1991, 105 Stat. 117; Pub. L. 106–398, §1 \[\[div. A\], title VI, §609(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–149; Pub. L. 108–375, div. A, title V, §557(a)(2), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 109–148, div. A, title VIII, §8124(b), Dec. 30, 2005, 119 Stat. 2727; Pub. L. 109–163, div. A, title VI, §685(c), Jan. 6, 2006, 119 Stat. 3325; Pub. L. 109–364, div. A, title X, §1071(c)(7), Oct. 17, 2006, 120 Stat. 2401.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 476; Pub. L. 89–718, §49(a)(2), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 102–25, title VII, §702(b)(2), Apr. 6, 1991, 105 Stat. 117; Pub. L. 106–398, §1 \[\[div. A\], title VI,§609(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–149; Pub. L. 108–375, div. A, title V, §557(a)(2), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 109–148, div. A, title VIII, §8124(b), Dec. 30, 2005, 119 Stat. 2727; Pub. L. 109–163, div. A, title VI, §685(c), Jan. 6, 2006, 119 Stat. 3325; Pub. L. 109–364, div. A, title X, §1071(c)(7), Oct. 17, 2006, 120 Stat. 2401.)
 
 Historical and Revision Notes
 
@@ -58,7 +58,7 @@ In subsection (b), the words “pay or” are inserted to conform to subsection 
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–364 struck out before period at end “, or the Senior Enlisted Advisor for the Chairman of the Joint Chiefs of Staff”.
+<b>2006</b>—Subsec. (c). Pub. L. 109–364 struck out before period at end “, or the Senior Enlisted Advisor for the Chairman of the Joint Chiefs of Staff”.
 
 Pub. L. 109–163, §685(c)(2) inserted before period at end “, or the Senior Enlisted Advisor for the Chairman of the Joint Chiefs of Staff”.
 
@@ -66,17 +66,17 @@ Pub. L. 109–163, §685(c)(1), which directed that subsec. (c) be amended by st
 
 2005–Subsec. (c). Pub. L. 109–148 substituted “the Master Chief Petty Officer of the Coast Guard, or the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff” for “or the Master Chief Petty Officer of the Coast Guard”.
 
-2004—Subsec. (b)(1). Pub. L. 108–375 substituted “President of the Naval Postgraduate School” for “Superintendent of the Naval Postgraduate School”.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–375 substituted “President of the Naval Postgraduate School” for “Superintendent of the Naval Postgraduate School”.
 
-2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VI, §609(b)(1)\], inserted heading.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VI, §609(b)(1)\], inserted heading.
 
 Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title VI, §609(b)(2)\], inserted heading.
 
 Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title VI, §609(a)\], added subsec. (c).
 
-1991—Subsec. (a)(3). Pub. L. 102–25 struck out “of this subsection” after “clause (1)”.
+<b>1991</b>—Subsec. (a)(3). Pub. L. 102–25 struck out “of this subsection” after “clause (1)”.
 
-1966—Subsec. (a)(2). Pub. L. 89–718 struck out reference to service as the Director of the Coast and Geodetic Survey.
+<b>1966</b>—Subsec. (a)(2). Pub. L. 89–718 struck out reference to service as the Director of the Coast and Geodetic Survey.
 
 #### Effective Date of 2000 Amendment
 

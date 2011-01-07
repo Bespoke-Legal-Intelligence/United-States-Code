@@ -14,5 +14,5 @@
 
 #### Amendments
 
-1997—Subsec. (b). Pub. L. 105–85 substituted “section 1455(d)(2)” for “section 1455(c)”.
+<b>1997</b>—Subsec. (b). Pub. L. 105–85 substituted “section 1455(d)(2)” for “section 1455(c)”.
 

@@ -28,7 +28,7 @@ A prior section 12612, Pub. L. 101–610, title I, §161, Nov. 16, 1990, 104 Sta
 
 #### Amendments
 
-2009—Pub. L. 111–13, §1502(1), amended section catchline generally.
+<b>2009</b>—Pub. L. 111–13, §1502(1), amended section catchline generally.
 
 Subsec. (a). Pub. L. 111–13, §1502(2), substituted “National Civilian Community Corps Program” for “Civilian Community Corps Demonstration Program”.
 
@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 111–13, §1502(3), in introductory provisions, substitute
 
 Subsec. (c). Pub. L. 111–13, §1502(4), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Both program components are residential programs. The members of the Corps in each program shall reside with other members of the Corps in Corps housing during the periods of the members’ agreed service.”
 
-1993—Subsec. (a). Pub. L. 103–82, §402(b)(2), substituted “Corporation” for “Commission on National and Community Service”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–82, §402(b)(2), substituted “Corporation” for “Commission on National and Community Service”.
 
 #### Effective Date of 2009 Amendment
 
@@ -56,7 +56,7 @@ Section 1093 of Pub. L. 102–484, as amended by Pub. L. 103–82, title I, §10
 
 “(a)
 
-Coordinated Administration.—To the maximum extent practicable, the Chief of the National Guard Bureau, the Board of Directors and Chief Executive Officer of the Corporation for National and Community Service, and the Director of the Civilian Community Corps shall coordinate the National Guard Youth Opportunities Program established pursuant to section 1091 \[of Pub. L. 102–484, 32 U.S.C. 501 note\] and the Civilian Community Corps Demonstration Program established pursuant to the authorization contained in section 152 of the National and Community Service Act of 1990 \[42 U.S.C. 12612\] (as added by section 1092(a)).
+Coordinated Administration.—To the maximum extent practicable, the Chief of the National Guard Bureau, the Board of Directors and Chief Executive Officer of the Corporation for National and Community Service, and the Director of the Civilian Community Corps shall coordinate the National Guard Youth Opportunities Program established pursuant to section 1091 \[of Pub. L. 102–484, 32 U.S.C. 501 note\] andthe Civilian Community Corps Demonstration Program established pursuant to the authorization contained in section 152 of the National and Community Service Act of 1990 \[42 U.S.C. 12612\] (as added by section 1092(a)).
 
 “(b)
 

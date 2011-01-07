@@ -38,7 +38,7 @@ Provisions similar to those in this section were contained in section 3251 of th
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–616, §101(b)(1), designated existing provisions as subsec. (a).
+<b>1984</b>—Subsec. (a). Pub. L. 98–616, §101(b)(1), designated existing provisions as subsec. (a).
 
 Subsec. (a)(4) to (11). Pub. L. 98–616, §101(b)(2), struck out par. (4) which provided for regulating the treatment, storage, transportation, and disposal of hazardous wastes which have adverse effects on health and the environment, added pars. (4) to (7), and redesignated former pars. (5) to (8) as (8) to (11), respectively.
 

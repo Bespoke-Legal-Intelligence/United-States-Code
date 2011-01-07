@@ -40,7 +40,7 @@ Except as authorized by this subchapter, it shall be unlawful for any person to 
 
 #### References in Text
 
-Section 4202 of title 18, referred to in subsec. (e), which, as originally enacted in Title 18, Crimes and Criminal Procedure, related to eligibility of prisoners for parole, was repealed and a new section 4202 enactedas part of the repeal and enactment of a new chapter 311 (§4201 et seq.) of Title 18, by Pub. L. 94–233, §2, Mar. 15, 1976, 90 Stat. 219. For provisions relating to the eligibility of prisoners for parole, see section 4205 of Title 18. Pub. L. 98–473, title II, §§218(a)(5), 235(a)(1), (b)(1), Oct. 12, 1984, 98 Stat. 2027, 2031, 2032, as amended, provided that, effective on the first day of the first calendar month beginning 36 months after Oct. 12, 1984 (Nov. 1, 1987), chapter 311 of Title 18 is repealed, subject to remaining effective for five years after Nov. 1, 1987, in certain circumstances. See Effective Date note set out under section 3551 of Title 18.
+Section 4202 of title 18, referred to in subsec. (e), which, as originally enacted in Title 18, Crimes and Criminal Procedure, related to eligibility of prisoners for parole, was repealed and a new section 4202 enacted as part of the repeal and enactment of a new chapter 311 (§4201 et seq.) of Title 18, by Pub. L. 94–233, §2, Mar. 15, 1976, 90 Stat. 219. For provisions relating to the eligibility of prisoners for parole, see section 4205 of Title 18. Pub. L. 98–473, title II, §§218(a)(5), 235(a)(1), (b)(1), Oct. 12, 1984, 98 Stat. 2027, 2031, 2032, as amended, provided that, effective on the first day of the first calendar month beginning 36 months after Oct. 12, 1984 (Nov. 1, 1987), chapter 311 of Title 18 is repealed, subject to remaining effective for five years after Nov. 1, 1987, in certain circumstances. See Effective Date note set out under section 3551 of Title 18.
 
 #### Codification
 
@@ -48,13 +48,13 @@ Section was classified to section 845b of this title prior to renumbering by Pub
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–647, §1003(c)(1), which directed the substitution of “is subject to twice the maximum punishment otherwise authorized” for “is punishable by a term of imprisonment up to twice that authorized, or up to twice the fine authorized, or both,” was executed by making the substitution for “is punishable by a term of imprisonment up to twice that otherwise authorized, or up to twice the fine otherwise authorized, or both,” to reflect the probable intent of Congress.
+<b>1990</b>—Subsec. (b). Pub. L. 101–647, §1003(c)(1), which directed the substitution of “is subject to twice the maximum punishment otherwise authorized” for “is punishable by a term of imprisonment up to twice that authorized, or up to twice the fine authorized, or both,” was executed by making the substitution for “is punishable by a term of imprisonment up to twice that otherwise authorized, or up to twice the fine otherwise authorized, or both,” to reflect the probable intent of Congress.
 
 Subsec. (c). Pub. L. 101–647, §3599L, substituted “has become final” for “have become final”.
 
 Pub. L. 101–647, §1003(c)(2), which directed the substitution of “is subject to three times the maximum punishment otherwise authorized” for “is punishable by a term of imprisonment up to three times that authorized, or up to three times the fine authorized, or both,” was executed by making the substitution for “is punishable by a term of imprisonment up to three times that otherwise authorized, or up to three times the fine otherwise authorized, or both,” to reflect the probable intent of Congress.
 
-1988—Subsec. (a)(3). Pub. L. 100–690, §6459, added par. (3).
+<b>1988</b>—Subsec. (a)(3). Pub. L. 100–690, §6459, added par. (3).
 
 Subsec. (c). Pub. L. 100–690, §6452(b)(1), struck out “or convictions” after “a prior conviction” and inserted at end “Penalties for third and subsequent convictions shall be governed by section 841(b)(1)(A) of this title.”
 

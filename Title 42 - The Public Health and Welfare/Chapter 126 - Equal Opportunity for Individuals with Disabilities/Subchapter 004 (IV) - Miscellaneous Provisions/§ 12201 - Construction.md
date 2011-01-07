@@ -52,7 +52,7 @@ Title IV of this Act, referred to in subsec. (c), means title IV of Pub. L. 101�
 
 #### Amendments
 
-2008—Subsecs. (e) to (h). Pub. L. 110–325 added subsecs. (e) to (h).
+<b>2008</b>—Subsecs. (e) to (h). Pub. L. 110–325 added subsecs. (e) to (h).
 
 #### Effective Date of 2008 Amendment
 

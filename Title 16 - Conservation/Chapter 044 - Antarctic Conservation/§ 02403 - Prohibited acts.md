@@ -50,7 +50,7 @@ It is unlawful for any person, unless authorized by a permit issued under this c
 
 #### (c) Exception for emergencies
 
-No act described in subsection (a)(1), (2), (3), (4), (5), (7), (12), or (13) of this section or in subsection (b) of this section shall be unlawful if the person committing the act reasonably believed that the act was committed under emergency circumstances involving the safety of human life or of ships, aircraft, or equipment or facilities of high value, or the protection of the environment.
+No act described in subsection (a)(1), (2), (3), (4), (5), (7), (12), or (13) of this section or in subsection (b) of this section shall be unlawful if the person committing the act reasonably believed that the act was committed under emergency circumstances involving the safety ofhuman life or of ships, aircraft, or equipment or facilities of high value, or the protection of the environment.
 
 (Pub. L. 95–541, §4, Oct. 28, 1978, 92 Stat. 2049; Pub. L. 104–227, title I, §103, Oct. 2, 1996, 110 Stat. 3036.)
 
@@ -60,5 +60,5 @@ The Act to Prevent Pollution from Ships, referred to in subsecs. (a)(5) and (b)(
 
 #### Amendments
 
-1996—Pub. L. 104–227 reenacted section catchline without change and amended text generally. Prior to amendment, text consisted of subsec. (a) “In General”, which set forth unlawful acts in pars. (1) to (4) and provided that such acts would not be unlawful if committed under emergency circumstances to prevent the loss of human life, and subsec. (b) “Exception”, which provided that subsec. (a) would not apply with respect to any native mammal, native bird, or native plant held in captivity or to any offspring of such mammal, bird, or plant.
+<b>1996</b>—Pub. L. 104–227 reenacted section catchline without change and amended text generally. Prior to amendment, text consisted of subsec. (a) “In General”, which set forth unlawful acts in pars. (1) to (4) and provided that such acts would not be unlawful if committed under emergency circumstances to prevent the loss of human life, and subsec. (b) “Exception”, which provided that subsec. (a) would not apply with respect to any native mammal, native bird, or native plant held in captivity or to any offspring of such mammal, bird, or plant.
 

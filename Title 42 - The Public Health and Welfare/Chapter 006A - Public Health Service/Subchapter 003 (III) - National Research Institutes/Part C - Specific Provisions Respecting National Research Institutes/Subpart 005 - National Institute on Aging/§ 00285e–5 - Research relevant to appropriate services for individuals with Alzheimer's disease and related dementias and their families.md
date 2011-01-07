@@ -50,13 +50,13 @@ Section was formerly classified to section 11241 of this title prior to renumber
 
 #### Amendments
 
-1993—Subsec. (b)(1). Pub. L. 103–43, §804(1), inserted “on Alzheimer's Disease (in this section referred to as the ‘Council’)” after “Council”.
+<b>1993</b>—Subsec. (b)(1). Pub. L. 103–43, §804(1), inserted “on Alzheimer's Disease (in this section referred to as the ‘Council’)” after “Council”.
 
 Subsec. (e). Pub. L. 103–43, §804(2), added subsec. (e).
 
-1992—Subsec. (d). Pub. L. 102–507 added subsec. (d).
+<b>1992</b>—Subsec. (d). Pub. L. 102–507 added subsec. (d).
 
-1988—Pub. L. 100–607, §142(a), renumbered section 11241 of this title as this section.
+<b>1988</b>—Pub. L. 100–607, §142(a), renumbered section 11241 of this title as this section.
 
 Subsec. (a). Pub. L. 100–607, §142(d)(2)(A), substituted “the Institute” for “the National Institute on Aging”.
 

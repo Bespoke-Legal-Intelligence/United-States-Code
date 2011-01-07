@@ -1,6 +1,6 @@
 ### §3719. Reports on debt collection activities
 
-(a) In consultation with the Comptroller General of the United States, the Secretary of the Treasury shall prescribe regulations requiring the head of each agency with outstanding nontax claims to prepare and submit to the Secretary at least once each year a report summarizing the status of loans and accounts receivable that are managed by the head of the agency. The report shall contain—
+(a) In consultation with the Comptroller General of the United States, the Secretary of theTreasury shall prescribe regulations requiring the head of each agency with outstanding nontax claims to prepare and submit to the Secretary at least once each year a report summarizing the status of loans and accounts receivable that are managed by the head of the agency. The report shall contain—
 
 &emsp;(1) information on—
 
@@ -48,7 +48,7 @@ In subsection (b), the word “submitted” is substituted for “received by ea
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–134, §31001(aa)(3)(A)(i), amended first sentence generally. Prior to amendment, first sentence read as follows: “In consultation with the Secretary of the Treasury and the Comptroller General, the Director of the Office of Management and Budget shall prescribe regulations requiring the head of each agency with outstanding debts to prepare and submit to the Director and the Secretary at least once each year a report summarizing the status of loans and accounts receivable managed by the head of the agency.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–134, §31001(aa)(3)(A)(i), amended first sentence generally. Prior to amendment, first sentence read as follows: “In consultation with the Secretary of the Treasury and the Comptroller General, the Director of the Office of Management and Budget shall prescribe regulations requiring the head of each agency with outstanding debts to prepare and submit to the Director and the Secretary at least once each year a report summarizing the status of loans and accounts receivable managed by the head of the agency.”
 
 Subsec. (a)(3). Pub. L. 104–134, §31001(aa)(3)(A)(ii), substituted “Secretary” for “Director”.
 

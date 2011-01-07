@@ -46,7 +46,7 @@ The Secretary shall also establish priority criteria for project selection and a
 
 #### Amendments
 
-1994—Subsec. (c)(8). Pub. L. 103–322, which directed the addition of par. (8) to this section without specifying the subsec. to which par. (8) was to be added, was executed by adding par. (8) to subsec. (c) to reflect the probable intent of Congress.
+<b>1994</b>—Subsec. (c)(8). Pub. L. 103–322, which directed the addition of par. (8) to this section without specifying the subsec. to which par. (8) was to be added, was executed by adding par. (8) to subsec. (c) to reflect the probable intent of Congress.
 
 #### “Secretary” Defined
 

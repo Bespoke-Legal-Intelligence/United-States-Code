@@ -34,9 +34,9 @@ A prior section 1226, Pub. L. 92–340, §7, formerly title I, §106, July 10, 1
 
 #### Amendments
 
-2002—Subsec. (b)(3). Pub. L. 107–295 added par. (3).
+<b>2002</b>—Subsec. (b)(3). Pub. L. 107–295 added par. (3).
 
-1996—Subsec. (c). Pub. L. 104–324 added subsec. (c).
+<b>1996</b>—Subsec. (c). Pub. L. 104–324 added subsec. (c).
 
 #### Transfer of Functions
 

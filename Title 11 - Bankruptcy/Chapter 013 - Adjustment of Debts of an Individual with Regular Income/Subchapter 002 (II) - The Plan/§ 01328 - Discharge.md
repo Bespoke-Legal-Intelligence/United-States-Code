@@ -56,7 +56,7 @@
 
 I74legislative statements
 
-Section 1328(a) adopts a provision contained in the Senate amendment permitting the court to approve awaiver of discharge by the debtor. It is anticipated that such a waiver must be in writing executed after the order for relief in a case under chapter 13.
+Section 1328(a) adopts a provision contained in the Senate amendment permitting the court to approve a waiver of discharge by the debtor. It is anticipated that such a waiver must be in writing executed after the order for relief in a case under chapter 13.
 
 #### senate report no. 95–989
 

@@ -110,13 +110,13 @@ In subsection (f)(2)(C)(i), the words “an operator” are substituted for “s
 
 #### Amendments
 
-2005—Subsec. (a)(3). Pub. L. 109–59 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the physical condition of operators of commercial motor vehicles is adequate to enable them to operate the vehicles safely; and”.
+<b>2005</b>—Subsec. (a)(3). Pub. L. 109–59 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the physical condition of operators of commercial motor vehicles is adequate to enable them to operate the vehicles safely; and”.
 
-1998—Subsec. (e). Pub. L. 105–178 amended heading and text of subsec. (e) generally. Prior to amendment, subsec. (e) consisted of pars. (1) to (3) relating to waivers.
+<b>1998</b>—Subsec. (e). Pub. L. 105–178 amended heading and text of subsec. (e) generally. Prior to amendment, subsec. (e) consisted of pars. (1) to (3) relating to waivers.
 
-1996—Subsec. (e)(2)(A), (J), (3). Pub. L. 104–287 substituted “November 28, 1995” for “the date of the enactment of this paragraph”.
+<b>1996</b>—Subsec. (e)(2)(A), (J), (3). Pub. L. 104–287 substituted “November 28, 1995” for “the date of the enactment of this paragraph”.
 
-1995—Subsec. (e)(1) to (3). Pub. L. 104–59 designated existing text as par. (1) and inserted heading, and added pars. (2) and (3).
+<b>1995</b>—Subsec. (e)(1) to (3). Pub. L. 104–59 designated existing text as par. (1) and inserted heading, and added pars. (2) and (3).
 
 #### Effective Date of 2005 Amendment
 
@@ -172,7 +172,7 @@ Snow and ice removal.—A State may waive the requirements of chapter 313 of tit
 
 “(b)
 
-Preemption.—Except as provided in subsection (a)(4), nothing contained in this section shall requirethe preemption of State laws and regulations concerning the safe operation of commercial motor vehicles as the result of exemptions from Federal requirements provided under this section.
+Preemption.—Except as provided in subsection (a)(4), nothing contained in this section shall require the preemption of State laws and regulations concerning the safe operation of commercial motor vehicles as the result of exemptions from Federal requirements provided under this section.
 
 “(c)
 
@@ -246,7 +246,7 @@ Pub. L. 105–178, title IV, §4008(b), June 9, 1998, 112 Stat. 404, provided th
 
 #### Improved Interstate School Bus Safety
 
-Pub. L. 105–178, title IV, §4024, June 9, 1998, 112 Stat. 416, as amended by Pub. L. 107–110, title X, §1076(ii), Jan. 8, 2002, 115 Stat. 2094, provided that: “Not laterthan 6 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall initiate a rulemaking proceeding to determine whether or not relevant commercial motor carrier safety regulations issued under section 31136 of title 49, United States Code, should apply to all interstate school transportation operations by local educational agencies (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\]).”
+Pub. L. 105–178, title IV, §4024, June 9, 1998, 112 Stat. 416, as amended by Pub. L. 107–110, title X, §1076(ii), Jan. 8, 2002, 115 Stat. 2094, provided that: “Not later than 6 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall initiate a rulemaking proceeding to determine whether or not relevant commercial motor carrier safety regulations issued under section 31136 of title 49, United States Code, should apply to all interstate school transportation operations by local educational agencies (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\]).”
 
 #### Federal Highway Administration Rulemaking
 
@@ -310,7 +310,7 @@ Review by Secretary.—Within 90 days after the completion of the pilot program,
 
 &emsp;“(1) permit a State to grant waivers of the regulations referred to in subsection (a) to motor carriers transporting home heating oil within the borders of the State, subject to such conditions as the Secretary may impose, if the Secretary determines that such waivers by the State meet the conditions in section 31136(e) of title 49, United States Code; or
 
-&emsp;“(2) amend the regulations referred to in subsection (a) as may be necessary to provide flexibility to motor carriers delivering home heating oil during winter periods of peak demand.
+&emsp;“(2) amend the regulations referred to in subsection (a) as may be necessary to provide flexibility tomotor carriers delivering home heating oil during winter periods of peak demand.
 
 “(f)
 

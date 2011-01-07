@@ -138,7 +138,7 @@ The Secretary shall display a link to the Federal student financial aid website 
 
 &emsp;The Secretary shall ensure that—
 
-&emsp;&emsp;(A) not later than 90 days after the Secretary receives the information required under paragraph (3), the eligibility requirements, application procedures, financial terms and conditions, and other relevant information for each nondepartmental student financial assistance program are searchable and accessible through the Federal student financial aid website in a manner that is simple and understandable for students and the students’ families; and
+&emsp;&emsp;(A) not later than 90 days after the Secretary receives the information required under paragraph (3), the eligibility requirements, application procedures, financial terms and conditions, and other relevant information for each nondepartmental student financial assistance program are searchable and accessible through the Federal student financial aid website in a manner that issimple and understandable for students and the students’ families; and
 
 &emsp;&emsp;(B) the website displaying the information described in subparagraph (A) includes a link to the National Database on Financial Assistance for the Study of Science, Technology, Engineering, and Mathematics pursuant to paragraph (4), and the information on military benefits under subsection (f), once such Database and information are available.
 
@@ -240,9 +240,9 @@ A prior section 131 of Pub. L. 89–329, title I, as added Pub. L. 99–498, tit
 
 #### Amendments
 
-2009—Subsec. (a)(3)(A)(iii)(I). Pub. L. 111–39 substituted “section 1078(a)(2)(C)(ii)” for “section 1078(a)(2)(C)(i)”.
+<b>2009</b>—Subsec. (a)(3)(A)(iii)(I). Pub. L. 111–39 substituted “section 1078(a)(2)(C)(ii)” for “section 1078(a)(2)(C)(i)”.
 
-2008—Subsec. (a)(3)(B). Pub. L. 110–315, §103(b)(1), substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
+<b>2008</b>—Subsec. (a)(3)(B). Pub. L. 110–315, §103(b)(1), substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
 
 Subsecs. (d), (e). Pub. L. 110–315, §110(a), added subsecs. (d) and (e) and struck out former subsec. (d), which required the Secretary to survey student aid recipients on a regular cycle, but not less than once every 3 years.
 

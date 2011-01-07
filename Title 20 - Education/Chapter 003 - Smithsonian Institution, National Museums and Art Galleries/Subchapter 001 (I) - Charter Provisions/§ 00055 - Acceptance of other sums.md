@@ -10,5 +10,5 @@ R.S. §5591 derived from act Feb. 5, 1867, ch. 34, §1, 14 Stat. 391.
 
 #### Amendments
 
-1894—Act Mar. 12, 1894, made limitation on deposits into the Treasury inapplicable to receipt of gifts, bequests and devises and dispositions of money or other property.
+<b>1894</b>—Act Mar. 12, 1894, made limitation on deposits into the Treasury inapplicable to receipt of gifts, bequests and devises and dispositions of money or other property.
 

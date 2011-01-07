@@ -1,6 +1,6 @@
 ### §286b–5. Grants for establishing, expanding, and improving basic resources of medical libraries and related instrumentalities
 
-(a) The Secretary shall make grants of money, materials, or both, to public or private nonprofit medical libraries and related scientific communication instrumentalities for the purpose of establishing, expanding, and improving their basic medical library or related resources. A grant under this subsection may be used for—
+(a) The Secretary shall make grants of money, materials, or both, to public or private nonprofit medical libraries and related scientific communication instrumentalities for the purpose of establishing, expanding, and improving their basicmedical library or related resources. A grant under this subsection may be used for—
 
 &emsp;(1) the acquisition of books, journals, photographs, motion picture and other films, and other similar materials;
 
@@ -30,7 +30,7 @@
 
 #### Amendments
 
-1993—Subsec. (b)(2). Pub. L. 103–43 substituted “$1,000,000” for “$750,000”.
+<b>1993</b>—Subsec. (b)(2). Pub. L. 103–43 substituted “$1,000,000” for “$750,000”.
 
-1988—Subsec. (b)(2). Pub. L. 100–607 substituted “$750,000” for “$500,000”.
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–607 substituted “$750,000” for “$500,000”.
 

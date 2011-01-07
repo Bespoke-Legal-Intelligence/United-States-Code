@@ -70,9 +70,9 @@ The taxable income of an estate or trust shall be computed in the same manner as
 
 #### Amendments
 
-2007—Subsec. (c)(2)(C)(iv). Pub. L. 110–28 added cl. (iv).
+<b>2007</b>—Subsec. (c)(2)(C)(iv). Pub. L. 110–28 added cl. (iv).
 
-1998—Subsecs. (c), (d). Pub. L. 105–206 redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows:
+<b>1998</b>—Subsecs. (c), (d). Pub. L. 105–206 redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows:
 
 “(1)
 
@@ -84,15 +84,15 @@ Cross reference.—
 
 <b>“For the taxation of any includible gain, see section 644.”</b>
 
-1997—Subsec. (b). Pub. L. 105–34 inserted at end “For purposes of this subsection, a foreign trust or foreign estate shall be treated as a nonresident alien individual who is not present in the United States at any time.”
+<b>1997</b>—Subsec. (b). Pub. L. 105–34 inserted at end “For purposes of this subsection, a foreign trust or foreign estate shall be treated as a nonresident alien individual who is not present in the United States at any time.”
 
-1996—Subsec. (d). Pub. L. 104–188 added subsec. (d).
+<b>1996</b>—Subsec. (d). Pub. L. 104–188 added subsec. (d).
 
-1977—Subsec. (a). Pub. L. 95–30 substituted “section 1(e)” for “section 1(d)” in introductory provisions.
+<b>1977</b>—Subsec. (a). Pub. L. 95–30 substituted “section 1(e)” for “section 1(d)” in introductory provisions.
 
-1976—Subsec. (c). Pub. L. 94–455 added subsec. (c).
+<b>1976</b>—Subsec. (c). Pub. L. 94–455 added subsec. (c).
 
-1969—Subsec. (a). Pub. L. 91–172 substituted “The tax imposed by section 1(d)” for “The taxes imposed by this chapter on individuals”.
+<b>1969</b>—Subsec. (a). Pub. L. 91–172 substituted “The tax imposed by section 1(d)” for “The taxes imposed by this chapter on individuals”.
 
 #### Effective Date of 2007 Amendment
 
@@ -104,7 +104,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
 
 #### Effective Date of 1996 Amendment
 

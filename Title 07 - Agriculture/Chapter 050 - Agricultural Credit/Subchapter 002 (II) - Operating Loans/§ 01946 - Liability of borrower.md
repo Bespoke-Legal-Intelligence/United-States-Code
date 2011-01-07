@@ -72,7 +72,7 @@ Subsec. (c). Pub. L. 104–127, §614, added subsec. (c).
 
 1978—Pub. L. 95–334 designated existing provisions as subsec. (a), inserted provisions relating to depositing of charges and provisions relating to interest rates on guaranteed loans, struck out provisions relating to payment and renewal of loans, and added subsec. (b).
 
-1968—Pub. L. 90–488 substituted provisions for determination of interest rate by taking into consideration current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of the loans, adjusted to the nearest one-eighth of 1 per centum, plus not to exceed 1 per centum perannum as determined by the Secretary, for former prohibition of an interest rate exceeding 5 per centum per annum.
+1968—Pub. L. 90–488 substituted provisions for determination of interest rate by taking into consideration current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of the loans, adjusted to the nearest one-eighth of 1 per centum, plus not to exceed 1 per centum per annum as determined by the Secretary, for former prohibition of an interest rate exceeding 5 per centum per annum.
 
 #### Effective Date of 1981 Amendment
 

@@ -160,7 +160,7 @@ This makes a clarifying amendment to 49:46306(c)(2)(B).
 
 #### Amendments
 
-1996—Subsec. (c)(2)(B). Pub. L. 104–287 inserted “that is” before “provided”.
+<b>1996</b>—Subsec. (c)(2)(B). Pub. L. 104–287 inserted “that is” before “provided”.
 
 #### Effective Date of 1996 Amendment
 

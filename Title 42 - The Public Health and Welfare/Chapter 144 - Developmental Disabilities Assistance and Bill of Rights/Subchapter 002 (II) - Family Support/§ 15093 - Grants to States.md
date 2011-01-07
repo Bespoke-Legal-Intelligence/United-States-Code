@@ -22,7 +22,7 @@ No grant shall be awarded under this section for a period of more than 3 years. 
 
 #### (B) Non-Federal share
 
-&emsp;&emsp;The non-Federal share of the cost of the systems change activities may be in cash or in kind, fairly evaluated, including plant, equipment, or services.
+&emsp;&emsp;The non-Federal share of the cost of the systems change activities may be in cash orin kind, fairly evaluated, including plant, equipment, or services.
 
 #### (2) Calculation of amounts
 

@@ -10,7 +10,7 @@ R.S. §2229 derived from act May 18, 1858, ch. 39, §1, 11 Stat. 289.
 
 #### Amendments
 
-1951—Act Oct. 25, 1951, inserted “until disposed of as provided by law”.
+<b>1951</b>—Act Oct. 25, 1951, inserted “until disposed of as provided by law”.
 
 #### Transfer of Functions
 

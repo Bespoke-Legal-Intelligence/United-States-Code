@@ -1,6 +1,6 @@
 ### §307. Certificate of patentability, unpatentability, and claim cancellation
 
-(a) In a reexamination proceeding under this chapter, when the time for appeal has expired orany appeal proceeding has terminated, the Director will issue and publish a certificate canceling any claim of the patent finally determined to be unpatentable, confirming any claim of the patent determined to be patentable, and incorporating in the patent any proposed amended or new claim determined to be patentable.
+(a) In a reexamination proceeding under this chapter, when the time for appeal has expired or any appeal proceeding has terminated, the Director will issue and publish a certificate canceling any claim of the patent finally determined to be unpatentable, confirming any claim of the patent determined to be patentable, and incorporating in the patent any proposed amended or new claim determined to be patentable.
 
 (b) Any proposed amended or new claim determined to be patentable and incorporated into a patent following a reexamination proceeding will have the same effect as that specified in section 252 of this title for reissued patents on the right of any person who made, purchased, or used within the United States, or imported into the United States, anything patented by such proposed amended or new claim, or who made substantial preparation for the same, prior to issuance of a certificate under the provisions of subsection (a) of this section.
 
@@ -8,11 +8,11 @@
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
-1999—Subsec. (a). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
 
-1994—Subsec. (b). Pub. L. 103–465 substituted “used within the United States, or imported into the United States, anything” for “used anything”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–465 substituted “used within the United States, or imported into the United States, anything” for “used anything”.
 
 #### Effective Date of 1999 Amendment
 

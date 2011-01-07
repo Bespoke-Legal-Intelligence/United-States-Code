@@ -62,7 +62,7 @@ A prior section 3309 was renumbered section 3311 of this title.
 
 #### Amendments
 
-2000—Subsec. (a)(2). Pub. L. 106–554, §1(a)(7) \[title I, §166(b)(1)\], inserted “, including an Indian tribe,” after “the State law shall provide that a governmental entity”.
+<b>2000</b>—Subsec. (a)(2). Pub. L. 106–554, §1(a)(7) \[title I, §166(b)(1)\], inserted “, including an Indian tribe,” after “the State law shall provide that a governmental entity”.
 
 Subsec. (b)(3)(B). Pub. L. 106–554, §1(a)(7) \[title I, §166(b)(2)\], inserted “, or of an Indian tribe” before semicolon at end.
 
@@ -72,13 +72,13 @@ Subsec. (b)(5). Pub. L. 106–554, §1(a)(7) \[title I, §166(b)(4)\], inserted 
 
 Subsec. (d). Pub. L. 106–554, §1(a)(7) \[title I, §166(c)\], added subsec. (d).
 
-1997—Subsec. (b)(1)(C). Pub. L. 105–33, §5407(a), added subpar. (C).
+<b>1997</b>—Subsec. (b)(1)(C). Pub. L. 105–33, §5407(a), added subpar. (C).
 
 Subsec. (b)(3)(F). Pub. L. 105–33, §5405(a), added subpar. (F).
 
-1977—Subsec. (a)(2). Pub. L. 95–19 substituted “(or group of governmental entities or other organizations)” for “(or group of organizations)”.
+<b>1977</b>—Subsec. (a)(2). Pub. L. 95–19 substituted “(or group of governmental entities or other organizations)” for “(or group of organizations)”.
 
-1976—Pub. L. 94–566, §115(c)(3), substituted “services performed for nonprofit organizations or governmental entities” for “certain services performed for nonprofit organizations and for State hospitals and institutions of higher education” in section catchline.
+<b>1976</b>—Pub. L. 94–566, §115(c)(3), substituted “services performed for nonprofit organizations or governmental entities” for “certain services performed for nonprofit organizations and for State hospitals and institutions of higher education” in section catchline.
 
 Subsec. (a)(1)(B). Pub. L. 94–566, §115(a), struck out “performed in the employ of the State, or any instrumentality of the State or of the State and one or more other States, for a hospital or institution of higher education located in the State, if such service is” after “service”.
 

@@ -3,6 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [2601\.](%C2%A7%2002601%20-%20General%20gift%20funds.md) | General gift funds. |
+| [2601a.](%C2%A7%2002601a%20-%20Direct%20acceptance%20of%20gifts%20by%20members%20of%20the%20armed%20forces%20and%20Department%20of%20Defense%20and%20Coast%20Guard%20employees%20and%20their%20families.md) | Direct acceptance of gifts by members of the armed forces and Department of Defense and Coast Guard employees and their families. |
 | [2602\.](%C2%A7%2002602%20-%20American%20National%20Red%20Cross%20cooperation%20and%20assistance.md) | American National Red Cross: cooperation and assistance. |
 | [2603\.](%C2%A7%2002603%20-%20Acceptance%20of%20fellowships%2C%20scholarships%2C%20or%20grants.md) | Acceptance of fellowships, scholarships, or grants. |
 | [2604\.](%C2%A7%2002604%20-%20United%20Seamen%27s%20Service%20cooperation%20and%20assistance.md) | United Seamen's Service: cooperation and assistance. |
@@ -21,39 +22,41 @@
 
 #### Amendments
 
-2006—Pub. L. 109–364, div. A, title X, §1071(a)(19)(B), Oct. 17, 2006, 120 Stat. 2399, renumbered item 2613 “Emergency communications equipment: acceptance from local public safety agencies for temporary use related to disasters” as 2614.
+<b>2011</b>—Pub. L. 111–383, div. A, title V, §591(b), Jan. 7, 2011, 124 Stat. 4232, added item 2601a.
+
+<b>2006</b>—Pub. L. 109–364, div. A, title X, §1071(a)(19)(B), Oct. 17, 2006, 120 Stat. 2399, renumbered item 2613 “Emergency communications equipment: acceptance from local public safety agencies for temporary use related to disasters” as 2614.
 
 Pub. L. 109–163, div. A, title IX, §903(a)(2), Jan. 6, 2006, 119 Stat. 3399, substituted “Regional centers for security studies” for “Asia-Pacific Center for Security Studies” in item 2611.
 
-2004—Pub. L. 108–375, div. A, title V, §585(a)(2), title X, §1051(b), Oct. 28, 2004, 118 Stat. 1931, 2054, added two items 2613.
+<b>2004</b>—Pub. L. 108–375, div. A, title V, §585(a)(2), title X, §1051(b), Oct. 28, 2004, 118 Stat. 1931, 2054, added two items 2613.
 
-2003—Pub. L. 108–136, div. A, title IX, §931(c), Nov. 24, 2003, 117 Stat. 1581, struck out “foreign” before “gifts” in item 2611.
+<b>2003</b>—Pub. L. 108–136, div. A, title IX, §931(c), Nov. 24, 2003, 117 Stat. 1581, struck out “foreign” before “gifts” in item 2611.
 
-2002—Pub. L. 107–314, div. A, title IX, §931(b), Dec. 2, 2002, 116 Stat. 2625, added item 2612.
+<b>2002</b>—Pub. L. 107–314, div. A, title IX, §931(b), Dec. 2, 2002, 116 Stat. 2625, added item 2612.
 
-1999—Pub. L. 106–65, div. A, title IX, §915(b), Oct. 5, 1999, 113 Stat. 722, added item 2611.
+<b>1999</b>—Pub. L. 106–65, div. A, title IX, §915(b), Oct. 5, 1999, 113 Stat. 722, added item 2611.
 
-1996—Pub. L. 104–201, div. A, title X, §1074(a)(15), Sept. 23, 1996, 110 Stat. 2659, struck out item 2609 “Theater Missile Defense: acceptance of contributions from allies; Theater Missile Defense Cooperation Account”.
+<b>1996</b>—Pub. L. 104–201, div. A, title X, §1074(a)(15), Sept. 23, 1996, 110 Stat. 2659, struck out item 2609 “Theater Missile Defense: acceptance of contributions from allies; Theater Missile Defense Cooperation Account”.
 
 Pub. L. 104–106, div. A, title III, §377(b), Feb. 10, 1996, 110 Stat. 284, added item 2610.
 
-1994—Pub. L. 103–337, div. A, title III, §353(c)(2), Oct. 5, 1994, 108 Stat. 2732, substituted “schools” for “education system” in item 2605.
+<b>1994</b>—Pub. L. 103–337, div. A, title III, §353(c)(2), Oct. 5, 1994, 108 Stat. 2732, substituted “schools” for “education system” in item 2605.
 
-1993—Pub. L. 103–160, div. A, title II, §242(f)(2), title XI, §1105(b)(3), Nov. 30, 1993, 107 Stat. 1605, 1750, inserted “; Defense Cooperation Account” in item 2608 and added item 2609.
+<b>1993</b>—Pub. L. 103–160, div. A, title II, §242(f)(2), title XI, §1105(b)(3), Nov. 30, 1993, 107 Stat. 1605, 1750, inserted “; Defense Cooperation Account” in item 2608 and added item 2609.
 
-1991—Pub. L. 102–190, div. A, title X, §1061(a)(15), Dec. 5, 1991, 105 Stat. 1473, struck out “and services” after “contributions” in item 2608.
+<b>1991</b>—Pub. L. 102–190, div. A, title X, §1061(a)(15), Dec. 5, 1991, 105 Stat. 1473, struck out “and services” after “contributions” in item 2608.
 
-1990—Pub. L. 101–403, title II, §202(a)(2), Oct. 1, 1990, 104 Stat. 874, added item 2608.
+<b>1990</b>—Pub. L. 101–403, title II, §202(a)(2), Oct. 1, 1990, 104 Stat. 874, added item 2608.
 
-1989—Pub. L. 101–193, title V, §502(b), Nov. 30, 1989, 103 Stat. 1708, added item 2607.
+<b>1989</b>—Pub. L. 101–193, title V, §502(b), Nov. 30, 1989, 103 Stat. 1708, added item 2607.
 
-1988—Pub. L. 100–456, div. A, title III, §323(b), Sept. 29, 1988, 102 Stat. 1953, added item 2606.
+<b>1988</b>—Pub. L. 100–456, div. A, title III, §323(b), Sept. 29, 1988, 102 Stat. 1953, added item 2606.
 
-1986—Pub. L. 99–661, div. A, title III, §314(b), Nov. 14, 1986, 100 Stat. 3854, added item 2605.
+<b>1986</b>—Pub. L. 99–661, div. A, title III, §314(b), Nov. 14, 1986, 100 Stat. 3854, added item 2605.
 
-1970—Pub. L. 91–603, §3(2), Dec. 31, 1970, 84 Stat. 1675, added item 2604.
+<b>1970</b>—Pub. L. 91–603, §3(2), Dec. 31, 1970, 84 Stat. 1675, added item 2604.
 
-1962—Pub. L. 87–555, §1(2), July 27, 1962, 76 Stat. 244, added item 2603.
+<b>1962</b>—Pub. L. 87–555, §1(2), July 27, 1962, 76 Stat. 244, added item 2603.
 
 #### Regulations To Clarify Gift Acceptance Policy for Service Members and Their Families
 
@@ -89,6 +92,7 @@ Retroactive Applicability of Regulations.—Regulations under subsection (a) sha
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 02601 - General gift funds](%C2%A7%2002601%20-%20General%20gift%20funds.md)
+- [&sect; 02601a - Direct acceptance of gifts by members of the armed forces and Department of Defense and Coast Guard employees and their families](%C2%A7%2002601a%20-%20Direct%20acceptance%20of%20gifts%20by%20members%20of%20the%20armed%20forces%20and%20Department%20of%20Defense%20and%20Coast%20Guard%20employees%20and%20their%20families.md)
 - [&sect; 02602 - American National Red Cross cooperation and assistance](%C2%A7%2002602%20-%20American%20National%20Red%20Cross%20cooperation%20and%20assistance.md)
 - [&sect; 02603 - Acceptance of fellowships, scholarships, or grants](%C2%A7%2002603%20-%20Acceptance%20of%20fellowships%2C%20scholarships%2C%20or%20grants.md)
 - [&sect; 02604 - United Seamen's Service cooperation and assistance](%C2%A7%2002604%20-%20United%20Seamen%27s%20Service%20cooperation%20and%20assistance.md)

@@ -34,7 +34,7 @@ In general.—The term of office of each member of the Board shall be six years,
 
 &emsp;(A) in the case of the Trustees first taking offices—
 
-&emsp;&emsp;(i) as designated by the President, one Trustee appointed pursuant to subsection\(b)(2) of this section and two trustees appointed pursuant to subsection (b)(3) of this section shall each serve two years; and
+&emsp;&emsp;(i) as designated by the President, one Trustee appointed pursuant to subsection (b)(2) of this section and two trustees appointed pursuant to subsection (b)(3) of this section shall each serve two years; and
 
 &emsp;&emsp;(ii) as designated by the President, one Trustee appointed pursuant to subsection (b)(1) of this section and two Trustees appointed pursuant to subsection (b)(3) of this section shall each serve four years; and
 
@@ -66,17 +66,17 @@ The Foundation shall be located in Tucson, Arizona.
 
 #### Amendments
 
-2009—Pub. L. 111–90, §5(1), substituted “and Stewart L. Udall” for “Scholarship and Excellence in National Environmental Policy” in section catchline.
+<b>2009</b>—Pub. L. 111–90, §5(1), substituted “and Stewart L. Udall” for “Scholarship and Excellence in National Environmental Policy” in section catchline.
 
 Subsec. (a). Pub. L. 111–90, §5(2), substituted “and Stewart L. Udall” for “Scholarship and Excellence in National Environmental Policy”.
 
 Subsec. (f)(2). Pub. L. 111–90, §5(3), substituted “a rate determined by the Board in accordance with section 5383 of title 5” for “the rate specified for employees in level IV of the Executive Schedule under section 5315 of title 5”.
 
-1998—Subsec. (b). Pub. L. 105–156, §3(1), substituted “thirteen” for “twelve” in introductory provisions.
+<b>1998</b>—Subsec. (b). Pub. L. 105–156, §3(1), substituted “thirteen” for “twelve” in introductory provisions.
 
 Subsec. (b)(7). Pub. L. 105–156, §3(2), added par. (7).
 
-1996—Subsec. (c)(1)(C). Pub. L. 104–208 added subpar. (C).
+<b>1996</b>—Subsec. (c)(1)(C). Pub. L. 104–208 added subpar. (C).
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

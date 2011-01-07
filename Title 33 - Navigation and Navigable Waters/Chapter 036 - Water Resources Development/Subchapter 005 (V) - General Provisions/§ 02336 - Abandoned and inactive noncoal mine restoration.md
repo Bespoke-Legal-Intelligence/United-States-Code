@@ -42,9 +42,9 @@ Section was enacted as part of the Water Resources Development Act of 1999, and 
 
 #### Amendments
 
-2007—Subsec. (f). Pub. L. 110–114 substituted “$20,000,000” for “$7,500,000”.
+<b>2007</b>—Subsec. (f). Pub. L. 110–114 substituted “$20,000,000” for “$7,500,000”.
 
-2003—Subsec. (f). Pub. L. 108–137 substituted “$7,500,000” for “$5,000,000”.
+<b>2003</b>—Subsec. (f). Pub. L. 108–137 substituted “$7,500,000” for “$5,000,000”.
 
 #### “Secretary” Defined
 

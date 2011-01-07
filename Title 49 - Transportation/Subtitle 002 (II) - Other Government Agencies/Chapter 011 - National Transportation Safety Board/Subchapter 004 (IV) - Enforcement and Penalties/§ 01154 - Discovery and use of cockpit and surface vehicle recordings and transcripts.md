@@ -14,7 +14,7 @@ Transcripts and Recordings.—(1) Except as provided by this subsection, a party
 
 &emsp;(ii) discovery of additional parts of the transcript is necessary to provide the party with sufficient information for the party to receive a fair trial.
 
-(B) A court may allow discovery, or require production for an in camera review, of a cockpit or surface vehicle recorder transcript that the Board has not made available under section 1114(c) or 1114(d) of this title only if the cockpit or surface vehicle recorder recording is not available.
+(B) A court may allow discovery, or require production for an in camera review, of a cockpit or surface vehicle recorder transcript that the Board has not made available under section 1114(c) or 1114(d) of this title only if the cockpitor surface vehicle recorder recording is not available.
 
 (3) Except as provided in paragraph (4)(A) of this subsection, a court may allow discovery by a party of a cockpit or surface vehicle recorder recording if, after an in camera review of the recording, the court decides that—
 
@@ -92,7 +92,7 @@ In subsection (b), the words “civil action” are substituted for “suit or a
 
 #### Amendments
 
-2000—Pub. L. 106–424, §5(c)(1)(A), substituted “and surface vehicle recordings and transcripts” for “voice and other material” in section catchline.
+<b>2000</b>—Pub. L. 106–424, §5(c)(1)(A), substituted “and surface vehicle recordings and transcripts” for “voice and other material” in section catchline.
 
 Subsec. (a). Pub. L. 106–424, §5(c)(1)(B), substituted “cockpit or surface vehicle recorder” for “cockpit voice recorder” wherever appearing.
 

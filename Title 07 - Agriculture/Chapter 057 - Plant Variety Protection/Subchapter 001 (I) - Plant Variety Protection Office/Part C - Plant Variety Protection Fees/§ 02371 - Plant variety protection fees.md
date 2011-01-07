@@ -20,7 +20,7 @@ The Attorney General may bring an action for the recovery of charges that have n
 
 There are authorized to be appropriated such sums as are necessary to carry out this chapter.
 
-(Pub. L. 91–577, title I, §31, Dec. 24, 1970, 84 Stat. 1545; Pub. L. 96–574, §10, Dec. 22, 1980, 94 Stat. 3350; Pub. L. 100–203, title I, §1505, Dec. 22, 1987, 101 Stat. 1330–28.)
+(Pub. L. 91–577, title I, §31, Dec. 24, 1970, 84 Stat. 1545; Pub. L. 96–574, §10, Dec. 22, 1980, 94 Stat.3350; Pub. L. 100–203, title I, §1505, Dec. 22, 1987, 101 Stat. 1330–28.)
 
 #### Amendments
 

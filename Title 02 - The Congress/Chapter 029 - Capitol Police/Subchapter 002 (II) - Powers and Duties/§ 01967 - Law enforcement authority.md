@@ -56,9 +56,9 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–83, title I, §1003(c), Sept. 30, 2003, 117 Stat. 1022, provided that: “This section \[amending this section and enacting provisions set out as a note under this section\] shall take effect on the date on which the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives approve regulations prescribed by the Capitol Police Board for the sole implementation, execution and maintenance of the truck interdiction program.” \[Regulations approved by Committee on Rules and Administration of the Senate on Jan. 5, 2004, and by Committee on House Administration of the House of Representatives on Dec. 18, 2003.\]
+Pub. L. 108–83, title I, §1003(c), Sept. 30, 2003, 117 Stat. 1022, provided that: “This section \[amending this section and enacting provisions set out as a note under this section\] shall take effect on the date on which the Committee on Rules and Administration of the Senateand the Committee on House Administration of the House of Representatives approve regulations prescribed by the Capitol Police Board for the sole implementation, execution and maintenance of the truck interdiction program.” \[Regulations approved by Committee on Rules and Administration of the Senate on Jan. 5, 2004, and by Committee on House Administration of the House of Representatives on Dec. 18, 2003.\]
 
 #### Rule of Construction
 
-Pub. L. 108–83, title I, §1003(b), Sept. 30, 2003, 117 Stat. 1022, provided that: “Nothing in the amendments madeby this section \[amending this section\] may be construed to limit the authority of the Capitol Police as in effect before the effective date of this section \[see Effective Date of 2003 Amendment note set out above\].”
+Pub. L. 108–83, title I, §1003(b), Sept. 30, 2003, 117 Stat. 1022, provided that: “Nothing in the amendments made by this section \[amending this section\] may be construed to limit the authority of the Capitol Police as in effect before the effective date of this section \[see Effective Date of 2003 Amendment note set out above\].”
 

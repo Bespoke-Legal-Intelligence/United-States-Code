@@ -14,17 +14,17 @@ Authority to Use Property, Services, and Supplies.—Property, services, or supp
 
 (c)
 
-Periodic Audits by GAO.—The Comptroller General of the United States shall make periodic audits of money and property accepted under this section, at such intervals as the Comptroller General determines to be warranted. The Comptroller General shall submit to Congress a report on the results of each such audit.
+Periodic Audits by GAO.—The Comptroller General of the United States shall make periodic audits of money and property acceptedunder this section, at such intervals as the Comptroller General determines to be warranted. The Comptroller General shall submit to Congress a report on the results of each such audit.
 
 (Added Pub. L. 101–510, div. A, title XIV, §1451(b)(1), Nov. 5, 1990, 104 Stat. 1692; amended Pub. L. 103–160, div. A, title XI, §1105(a), Nov. 30, 1993, 107 Stat. 1749; Pub. L. 106–65, div. A, title X, §1032(a)(3), Oct. 5, 1999, 113 Stat. 751.)
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in Pub. L. 101–165, title IX, §9008, Nov. 21, 1989,103 Stat. 1130, which was set out as a note under section 2341 of this title, prior to repeal by Pub. L. 101–510, §1451(c).
+Provisions similar to those in this section were contained in Pub. L. 101–165, title IX, §9008, Nov. 21, 1989, 103 Stat. 1130, which was set out as a note under section 2341 of this title, prior to repeal by Pub. L. 101–510, §1451(c).
 
 #### Amendments
 
-1999—Subsecs. (b) to (d). Pub. L. 106–65 redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out heading and text of former subsec. (b). Text read as follows:
+<b>1999</b>—Subsecs. (b) to (d). Pub. L. 106–65 redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out heading and text of former subsec. (b). Text read as follows:
 
 “(1) Not later than 30 days after the end of each quarter of each fiscal year, the Secretary of Defense shall submit to Congress a report on property, services, and supplies accepted by the Secretary under this section during the preceding quarter. The Secretary shall include in each such report a description of all property, services, and supplies having a value of more than $1,000,000.
 
@@ -34,5 +34,5 @@ Provisions similar to those in this section were contained in Pub. L. 101–165,
 
 &emsp;“(B) components which, if assembled, would comprise all or a substantial part of an item of equipment or a facility.”
 
-1993—Subsec. (d). Pub. L. 103–160 substituted “Periodic Audits” for “Annual Audit” in heading and amended text generally. Prior to amendment, text read as follows: “The Comptroller General of the United States shall conduct an annual audit of property, services, and supplies accepted by the Secretary of Defense under this section and shall submit a copy of the results of each such audit to Congress.”
+<b>1993</b>—Subsec. (d). Pub. L. 103–160 substituted “Periodic Audits” for “Annual Audit” in heading and amended text generally. Prior to amendment, text read as follows: “The Comptroller General of the United States shall conduct an annual audit of property, services, and supplies accepted by the Secretary of Defense under this section and shall submit a copy of the results of each such audit to Congress.”
 

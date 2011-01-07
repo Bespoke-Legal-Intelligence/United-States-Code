@@ -24,7 +24,7 @@
 
 &emsp;(3) In order to encourage the effective provision of preventive health services by Veterans Health Administration personnel—
 
-&emsp;&emsp;(A) ensure the dissemination to such personnel of any appropriate information on such services that is derived from research carried out by the Administration; and
+&emsp;&emsp;(A) ensure the dissemination to such personnel of any appropriate information onsuch services that is derived from research carried out by the Administration; and
 
 &emsp;&emsp;(B) acquire and ensure the dissemination to such personnel of any appropriate information on research and clinical practices relating to such services that are carried out by researchers, clinicians, and educators who are not affiliated with the Administration.
 
@@ -40,9 +40,9 @@
 
 #### Amendments
 
-1994—Subsecs. (a)(1), (3), (c)(4). Pub. L. 103–446 substituted “Under Secretary for Health” for “Chief Medical Director”.
+<b>1994</b>—Subsecs. (a)(1), (3), (c)(4). Pub. L. 103–446 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
 #### Selection of Facility at Which Center To Be Established
 
-Section 511(c) of Pub. L. 102–585, as amended by Pub. L. 103–446, title XII, §1202(e)(2), Nov. 2, 1994, 108 Stat. 4689, provided that: “In order to establish the National Center for Preventive Health pursuant to section 7318 of title 38, United States Code, as added by subsection (a), the Under Secretary for Health of the Department of Veterans Affairs shall solicit proposals from Department health care facilities to establish the center. The Under Secretary for Health shall establish such centerat the facility or facilities which the Under Secretary for Health determines, on the basis of a review and analysis of such proposals, would most effectively carry out the purposes set forth in subsection (b) of such section.”
+Section 511(c) of Pub. L. 102–585, as amended by Pub. L. 103–446, title XII, §1202(e)(2), Nov. 2, 1994, 108 Stat. 4689, provided that: “In order to establish the National Center for Preventive Health pursuant to section 7318 of title 38, United States Code, as added by subsection (a), the Under Secretary for Health of the Department of Veterans Affairs shall solicit proposals from Department health care facilities to establish the center. The Under Secretary for Health shall establish such center at the facility or facilities which the Under Secretary for Health determines, on the basis of a review and analysis of such proposals, would most effectively carry out the purposes set forth in subsection (b) of such section.”
 

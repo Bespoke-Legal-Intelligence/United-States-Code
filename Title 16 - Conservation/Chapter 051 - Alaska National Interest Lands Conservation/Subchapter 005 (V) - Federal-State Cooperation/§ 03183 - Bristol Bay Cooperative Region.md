@@ -58,7 +58,7 @@ If—
 
 #### (e) Taking effect of plan
 
-(1) If within three years after December 2, 1980, a plan has been prepared under subsection (c) ofthis section which is agreed to by the Secretary and the Governor, the plan shall take effect with respect to the United States and the State.
+(1) If within three years after December 2, 1980, a plan has been prepared under subsection (c) of this section which is agreed to by the Secretary and the Governor, the plan shall take effect with respect to the United States and the State.
 
 (2) If the plan prepared pursuant to this section is agreed to by the Secretary and the Governor includes any recommendations regarding (i) the exchange of State lands, (ii) the management of Federal lands within any conservation system unit, or (iii) any other actions which require the approval of either the Congress or the Alaska State Legislature, then the Secretary and the Governor shall submit to the Congress and the State Legislature as appropriate, their proposals for legislation necessary to carry out the recommendations contained in the plan.
 
@@ -72,11 +72,7 @@ On December 2, 1980, and for a period of three years thereafter, all Federal lan
 
 Section 6 of the Alaska Statehood Act, referred to in subsec. (b)(4), is section 6 of Pub. L. 85–508, July 7, 1958, 72 Stat. 399, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
 
-This Act, referred to in subsecs. (b)(4) and (f), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. Title IX of this Act enacted sections 1631 to 1638 of Title 43, Public Lands, amended sections 1614 and 1620 of Title 43, and amended provisions set out as notes under section 1611 of Title 43 and preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsecs. (b)(4) and (f), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. Title IX of this Act enacted sections 1631 to 1638 of Title 43, Public Lands, amended sections 1614 and 1620 of Title 43, and amended provisions set out as notes under section 1611 of Title 43 and preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The public land laws, referred to in subsec. (f), are classified generally to Title 43.
-
-The mining laws, referred to in subsec. (f), are classified generally to Title 30, Mineral Lands and Mining.
-
-The Mineral Leasing Act, referred to in subsec. (f), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, which is classified generally to chapter 3A (§181 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
+The Mineral Leasing Act, referred to in subsec. (f), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, which is classified generally to chapter 3A (§181 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
 

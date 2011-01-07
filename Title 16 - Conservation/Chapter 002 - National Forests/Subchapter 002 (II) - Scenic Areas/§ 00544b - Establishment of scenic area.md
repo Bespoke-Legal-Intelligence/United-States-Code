@@ -14,7 +14,7 @@ In general.—Except as provided in subparagraph (B), the boundaries of the scen
 
 &emsp;(B)
 
-Exclusions.—The scenic area shall not include the approximately 29 acres of land owned by the Port of Camas-Washougal in the South 1/2 of Section 16, Township 1 North, Range 4 East, and the North 1/2 of Section 21, Township 1 North, Range 4 East, Willamete <sup>1</sup> Meridian, Clark County, Washington, that consists of—
+Exclusions.—The scenic area shall not include the approximately 29 acres of land owned by the Port of Camas-Washougal in the South ½ of Section 16, Township 1 North, Range 4 East, and the North ½ of Section 21, Township 1 North, Range 4 East, Willamete <sup>1</sup> Meridian, Clark County, Washington, that consists of—
 
 &emsp;&emsp;(i) the approximately 19 acres of Port land acquired from the Corps of Engineers under the Second Supplemental Appropriations Act, 1984 (Public Law 98–396); and
 
@@ -72,15 +72,15 @@ The Second Supplemental Appropriations Act, 1984, referred to in subsec. (a)(2)(
 
 #### Amendments
 
-2000—Subsec. (b)(2). Pub. L. 106–291, §346(d)(1), substituted “by paragraph (1)” for “in this section” in introductory provisions.
+<b>2000</b>—Subsec. (b)(2). Pub. L. 106–291, §346(d)(1), substituted “by paragraph (1)” for “in this section” in introductory provisions.
 
 Subsec. (b)(3). Pub. L. 106–291, §346(d)(2), which directed amendment of subsec. (b)(2) by adding at the end a par. (3), was executed by adding par. (3) after subsec. (b)(2), to reflect the probable intent of Congress.
 
-1999—Subsec. (a)(2). Pub. L. 106–31 made technical correction to directory language of Pub. L. 105–277. See 1998 Amendment note below.
+<b>1999</b>—Subsec. (a)(2). Pub. L. 106–31 made technical correction to directory language of Pub. L. 105–277. See 1998 Amendment note below.
 
-1998—Subsec. (a)(2). Pub. L. 105–277, as amended by Pub. L. 106–31, inserted par. (2) heading, designated existing provisions as subpar. (A), inserted heading, and substituted “Except as provided in subparagraph (B), the boundaries” for “The boundaries”, and added subpar. (B).
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–277, as amended by Pub. L. 106–31, inserted par. (2) heading, designated existing provisions as subpar. (A), inserted heading, and substituted “Except as provided in subparagraph (B), the boundaries” for “The boundaries”, and added subpar. (B).
 
-1994—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committees on Agriculture and”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committees on Agriculture and”.
 
 #### Effective Date of 1999 Amendment
 

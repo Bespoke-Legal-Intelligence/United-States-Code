@@ -14,7 +14,7 @@ General.—(1) Each certificate issued under section 41102 of this title is effe
 
 &emsp;(A) amend, modify, or suspend any part of a certificate if the Secretary finds the public convenience and necessity require amendment, modification, or suspension; and
 
-&emsp;(B) revoke any part of a certificate if the Secretary finds that the holder of the certificate intentionally does not comply with this chapter, sections 41308–41310(a), 41501, 41503,41504, 41506, 41510, 41511, 41701, 41702, 41705–41709, 41711, 41712, and 41731–41742, chapter 419, subchapter II of chapter 421, and section 46301(b) of this title, a regulation or order of the Secretary under any of those provisions, or a term of its certificate.
+&emsp;(B) revoke any part of a certificate if the Secretary finds that the holder of the certificate intentionally does not comply with this chapter, sections 41308–41310(a), 41501, 41503, 41504, 41506, 41510, 41511, 41701, 41702, 41705–41709, 41711, 41712, and 41731–41742, chapter 419, subchapter II of chapter 421, and section 46301(b) of this title, a regulation or order of the Secretary under any of those provisions, or a term of its certificate.
 
 (3) The Secretary may revoke a certificate under paragraph (2)(B) of this subsection only if the holder of the certificate does not comply, within a reasonable time the Secretary specifies, with an order to the holder requiring compliance.
 
@@ -170,7 +170,7 @@ In subsection (a)(2), before clause (A), the word “application” is substitut
 
 In subsection (a)(3), the words “to the provision, or to the order (other than an order issued in accordance with this sentence), rule, regulation, term, condition, or limitation found by the Board to have been violated” are omitted as surplus.
 
-In subsection (a)(4), the word “provide” is substituted for “engage in” for consistency in the revised title. The words “altered” and “the simplified procedures of” are omitted as surplus.
+In subsection (a)(4), the word “provide” is substituted for “engage in” for consistency in the revised title. Thewords “altered” and “the simplified procedures of” are omitted as surplus.
 
 In subsection (b), the words “to the extent of such service” are omitted as surplus. The word “provided” is substituted for “performed” for consistency in the revised title.
 
@@ -192,7 +192,7 @@ This amends 49:41110(e) to clarify the restatement of 49 App.:1371(r) (related t
 
 #### Amendments
 
-1994—Subsec. (e). Pub. L. 103–429 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “After notice and an opportunity for a hearing, the Secretary shall amend, modify, suspend, or revoke any part of a certificate issued under section 41102 of this title if the Secretary finds that the air carrier—
+<b>1994</b>—Subsec. (e). Pub. L. 103–429 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “After notice and an opportunity for a hearing, the Secretary shall amend, modify, suspend, or revoke any part of a certificate issued under section 41102 of this title if the Secretary finds that the air carrier—
 
 &emsp;“(1) is not fit, willing, and able to continue to provide the transportation authorized by the certificate and to comply with this part and regulations of the Secretary; or
 

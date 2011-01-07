@@ -20,5 +20,5 @@ Changes were made in phraseology and surplusage eliminated.
 
 #### Amendments
 
-1988—Pub. L. 100–690 inserted “, unless such surrender is precluded under section 5032 of this title” before period at end of first par.
+<b>1988</b>—Pub. L. 100–690 inserted “, unless such surrender is precluded under section 5032 of this title” before period at end of first par.
 

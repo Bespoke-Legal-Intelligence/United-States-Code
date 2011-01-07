@@ -42,7 +42,7 @@ The general purpose of the Center is the conduct and support of research and res
 
 &emsp;(B) make recommendations for the coordination of such research conducted or supported by the National Institutes of Health and other agencies of the Federal Government.
 
-(3)(A) Not later than 18 months after the date of the enactment of the National Institutes of Health Revitalization Amendments of 1990, the Director of the Institute shall transmit the Research Plan to the Director of NIH, who shall submit the Plan to the President and the Congress.
+(3)(A) Not later than 18 months after the date of the enactment of the National Institutes ofHealth Revitalization Amendments of 1990, the Director of the Institute shall transmit the Research Plan to the Director of NIH, who shall submit the Plan to the President and the Congress.
 
 (B) Subparagraph (A) shall be carried out independently of the process of reporting that is required in sections 283 and 284b <sup>1</sup> of this title.
 
@@ -104,9 +104,9 @@ Section 284b of this title, referred to in subsec. (d)(3)(B), (4), was repealed 
 
 #### Amendments
 
-2007—Subsec. (c)(1)(E)(i). Pub. L. 109–482 substituted “section 282(b)(16)” for “section 282(b)(6)”.
+<b>2007</b>—Subsec. (c)(1)(E)(i). Pub. L. 109–482 substituted “section 282(b)(16)” for “section 282(b)(6)”.
 
-1992—Subsec. (f)(3)(B)(xi). Pub. L. 102–405 substituted “Under Secretary for Health of the Department of Veterans Affairs” for “Chief Medical Director of the Department of Veterans Affairs”.
+<b>1992</b>—Subsec. (f)(3)(B)(xi). Pub. L. 102–405 substituted “Under Secretary for Health of the Department of Veterans Affairs” for “Chief Medical Director of the Department of Veterans Affairs”.
 
 #### Effective Date of 2007 Amendment
 
@@ -130,7 +130,7 @@ Time for completion.—The agreements required in paragraph (1)(B) shall be made
 
 “(3)
 
-Definition of medical rehabilitation.—For purposes of this subsection, the term ‘medical rehabilitation’ means the rehabilitation of individuals with physical disabilities resulting from diseases or disorders ofthe neurological, musculoskeletal, cardiovascular, pulmonary, or any other physiological system.”
+Definition of medical rehabilitation.—For purposes of this subsection, the term ‘medical rehabilitation’ means the rehabilitation of individuals with physical disabilities resulting from diseases or disorders of the neurological, musculoskeletal, cardiovascular, pulmonary, or any other physiological system.”
 
 #### Termination of Advisory Boards
 

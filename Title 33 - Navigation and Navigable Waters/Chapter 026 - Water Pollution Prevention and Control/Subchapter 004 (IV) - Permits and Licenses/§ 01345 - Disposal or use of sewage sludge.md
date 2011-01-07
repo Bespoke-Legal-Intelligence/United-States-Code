@@ -70,7 +70,7 @@ Each State desiring to administer its own permit program for disposal of sewage 
 
 #### (e) Manner of sludge disposal
 
-The determination of the manner of disposal or use of sludge is a local determination, exceptthat it shall be unlawful for any person to dispose of sludge from a publicly owned treatment works or any other treatment works treating domestic sewage for any use for which regulations have been established pursuant to subsection (d) of this section, except in accordance with such regulations.
+The determination of the manner of disposal or use of sludge is a local determination, except that it shall be unlawful for any person to dispose of sludge from a publicly owned treatment works or any other treatment works treating domestic sewage for any use for which regulations have been established pursuant to subsection (d) of this section, except in accordance with such regulations.
 
 #### (f) Implementation of regulations
 
@@ -106,7 +106,7 @@ The Clean Air Act, referred to in subsec. (f)(1), is act July 14, 1955, ch. 360,
 
 #### Amendments
 
-1987—Subsec. (d). Pub. L. 100–4, §406(a), designated existing provision as par. (1), inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), and added pars. (2) to (5).
+<b>1987</b>—Subsec. (d). Pub. L. 100–4, §406(a), designated existing provision as par. (1), inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), and added pars. (2) to (5).
 
 Pub. L. 100–4, §406(f), inserted heading “Regulations” and aligned par. (1) with par. (3) and subpars. (A) to (C) of par. (1) with subpar. (C) of par. (2).
 
@@ -114,9 +114,9 @@ Subsec. (e). Pub. L. 100–4, §406(b), amended subsec. (e) generally. Prior to 
 
 Subsecs. (f), (g). Pub. L. 100–4, §406(c), added subsecs. (f) and (g).
 
-1977—Subsec. (a). Pub. L. 95–217, §68(a), substituted “under section 1342 of this title” for “under this section”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–217, §68(a), substituted “under section 1342 of this title” for “under this section”.
 
-Subsec. (b). Pub. L. 95–217, §§54(d)(1), 68(b), (c), substituted “sewage sludge subject to subsection (a) of this section and section 1342 of this title” for “sewagesludge subject to this section” and struck out “, as the Administrator determines necessary to carry out the objective of this chapter” after “permit issued under section 1342 of this title”.
+Subsec. (b). Pub. L. 95–217, §§54(d)(1), 68(b), (c), substituted “sewage sludge subject to subsection (a) of this section and section 1342 of this title” for “sewage sludge subject to this section” and struck out “, as the Administrator determines necessary to carry out the objective of this chapter” after “permit issued under section 1342 of this title”.
 
 Subsec. (c). Pub. L. 95–217, §§54(d)(2), 68(d), substituted “disposal of sewage sludge subject to subsection (a) of this section within its jurisdiction may do so in accordance with section 1342 of this title” for “disposal of sewage sludge within its jurisdiction may do so if upon submission of such program the Administrator determines such program is adequate to carry out the objective of this chapter”.
 

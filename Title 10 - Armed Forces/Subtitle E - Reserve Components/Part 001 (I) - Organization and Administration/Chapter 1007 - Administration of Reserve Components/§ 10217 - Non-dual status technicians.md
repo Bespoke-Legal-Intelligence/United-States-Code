@@ -4,9 +4,11 @@
 
 Definition.—For the purposes of this section and any other provision of law, a non-dual status technician is a civilian employee of the Department of Defense serving in a military technician position who—
 
-&emsp;(1) was hired as a technician before November 18, 1997, under any of the authorities specified in subsection (b) and as of that date is not a member of the Selected Reserve or after such date has ceased to be a member of the Selected Reserve; or
+&emsp;(1) was hired as a technician before November 18, 1997, under any of the authorities specified in subsection (b) and as of that date is not a member of the Selected Reserve or after such date has ceased to be a member of the Selected Reserve;
 
-&emsp;(2) is employed under section 709 of title 32 in a position designated under subsection (c) of that section and when hired was not required to maintain membership in the Selected Reserve.
+&emsp;(2) is employed under section 709 of title 32 in a position designated under subsection (c) of that section and when hired was not required to maintain membership in the Selected Reserve; or
+
+&emsp;(3) is hired as a temporary employee pursuant to the exception for temporary employment provided by subsection (d) and subject to the terms and conditions of such subsection.
 
 (b)
 
@@ -24,25 +26,49 @@ Employment Authorities.—The authorities referred to in subsection (a) are the 
 
 (c)
 
-Permanent Limitations on Number.—(1) Effective October 1, 2007, the total number of non-dual status technicians employed by the Army Reserve may not exceed 595 and by the Air Force Reserve may not exceed 90. If at any time after the preceding sentence takes effect the number of non-dual status technicians employed by the Army Reserve and Air Force Reserve exceeds the number specified in the limitation in the preceding sentence, the Secretary of Defense shall require that the Secretary of the Army or the Secretary of the Air Force, or both, take immediate steps to reduce the number of such technicians in order to comply with such limitation.
+Permanent Limitations on Number.—(1) The total number of non-dual status technicians employed by the Army Reserve may not exceed 595 and by the Air Force Reserve may not exceed 90. If at any time the number of non-dual status technicians employed by the Army Reserve and Air Force Reserve exceeds the number specified in the limitation in the preceding sentence, the Secretary of Defense shall require that the Secretary of the Army or the Secretary of the Air Force, or both, take immediate steps to reduce the number of such technicians in order to comply with such limitation.
 
 (2) The total number of non-dual status technicians employed by the National Guard may not exceed 1,950. If at any time the number of non-dual status technicians employed by the National Guard exceeds the number specified in the limitation in the preceding sentence, the Secretary of Defense shall require that the Secretary of the Army or the Secretary of the Air Force, or both, take immediate steps to reduce the number of such technicians in order to comply with such limitation.
 
-(Added Pub. L. 105–85, div. A, title V, §523(a)(1), Nov. 18, 1997, 111 Stat. 1736; amended Pub. L. 106–65, div. A, title V, §523, Oct. 5, 1999, 113 Stat. 598; Pub. L. 106–398, §1 \[\[div. A\], title IV, §414(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94; Pub. L. 107–314, div. A, title IV, §414(d), Dec. 2, 2002, 116 Stat. 2527; Pub. L. 108–136, div. A, title IV, §415, Nov. 24, 2003, 117 Stat. 1453.)
+(3) An individual employed as a non-dual status technician as described in subsection (a)(3) shall not be consider <sup>1</sup> a non-dual status technician for purposes of paragraphs (1) and (2).
+
+(d)
+
+Exception for Temporary Employment.—(1) Notwithstanding section 10218 of this title, the Secretary of the Army or the Secretary of the Air Force may employ, for a period not to exceed two years, a person to fill a vacancy created by the mobilization of a military technician (dual status) occupying a position under section 10216 of this title.
+
+(2) The duration of the temporary employment of a person in a military technician position under this subsection may not exceed the shorter of the following:
+
+&emsp;(A) The period of mobilization of the military technician (dual status) whose vacancy is being filled by the temporary employee.
+
+&emsp;(B) Two years.
+
+(3) No person may be hired under the authority of this subsection after the end of the 2-year period beginning on the date of the enactment of this subsection.
+
+(Added Pub. L. 105–85, div. A, title V, §523(a)(1), Nov. 18, 1997, 111 Stat. 1736; amended Pub. L. 106–65, div. A, title V, §523, Oct. 5, 1999, 113 Stat. 598; Pub. L. 106–398, §1 \[\[div. A\], title IV, §414(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94; Pub. L. 107–314, div. A, title IV, §414(d), Dec. 2, 2002, 116 Stat. 2527; Pub. L. 108–136, div. A, title IV, §415, Nov. 24, 2003, 117 Stat. 1453; Pub. L. 111–383, div. A, title V, §513, title X, §1075(b)(53), Jan. 7, 2011, 124 Stat. 4210, 4372.)
 
 #### References in Text
 
 Section 8016 of the Department of Defense Appropriations Act, 1996 (Public Law 104–61; 109 Stat. 654), referred to in subsec. (b)(4), was set out as a note under section 10101 of this title prior to repeal by Pub. L. 105–85, div. A, title V, §522(e), Nov. 18, 1997, 111 Stat. 1735.
 
+The date of the enactment of this subsection, referred to in subsec. (d)(3), is the date of enactment of Pub. L. 111–383, which was approved Jan. 7, 2011.
+
 #### Amendments
 
-2003—Subsec. (c)(1). Pub. L. 108–136 substituted “may not exceed 595 and by the Air Force Reserve may not exceed 90” for “and Air Force Reserve may not exceed 175”.
+<b>2011</b>—Subsec. (a)(3). Pub. L. 111–383, §513(a)(1), added par. (3).
 
-2002—Subsec. (c)(2). Pub. L. 107–314 substituted “The total number” for “Effective October 1, 2002, the total number” in first sentence and struck out “after the preceding sentence takes effect” after “If at any time” in second sentence.
+Subsec. (c)(1). Pub. L. 111–383, §1075(b)(53), substituted “The” for “Effective October 1, 2007, the” and struckout “after the preceding sentence takes effect” after “If at any time”.
 
-2000—Subsec. (c)(2). Pub. L. 106–398 substituted “October 1, 2002” for “October 1, 2001”.
+Subsec. (c)(3). Pub. L. 111–383, §513(b), added par. (3).
 
-1999—Pub. L. 106–65, §523(b), struck out “military” after “status” in section catchline.
+Subsec. (d). Pub. L. 111–383, §513(a)(2), added subsec. (d).
+
+<b>2003</b>—Subsec. (c)(1). Pub. L. 108–136 substituted “may not exceed 595 and by the Air Force Reserve may not exceed 90” for “and Air Force Reserve may not exceed 175”.
+
+<b>2002</b>—Subsec. (c)(2). Pub. L. 107–314 substituted “The total number” for “Effective October 1, 2002, the total number” in first sentence and struck out “after the preceding sentence takes effect” after “If at any time” in second sentence.
+
+<b>2000</b>—Subsec. (c)(2). Pub. L. 106–398 substituted “October 1, 2002” for “October 1, 2001”.
+
+<b>1999</b>—Pub. L. 106–65, §523(b), struck out “military” after “status” in section catchline.
 
 Subsec. (a). Pub. L. 106–65, §523(a)(1)(A), struck out “military” after “non-dual status” in introductory provisions.
 
@@ -56,7 +82,7 @@ Subsec. (c). Pub. L. 106–65, §523(a)(2), added subsec. (c).
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–65, div. A, title V, §525, Oct. 5, 1999, 113 Stat. 600, provided that: “The amendments made by sections 523 and 524 \[amending this section and section 709 of Title 32, National Guard\] shall take effect 180 days after the date of the receipt by Congress of the plan required by section 523(d) of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 111 Stat. 1737) \[set out below\] \[plan received by Congress from Under Secretary of Defense, Personnel and Readiness, see Cong. Rec., vol. 145, p. H8464, Daily Issue, Ex. Comm. 4276, Sept. 21, 1999\] or a report by the Secretary of Defense providing an alternative proposal to the plan required by that section.”
+Pub. L. 106–65, div. A, title V, §525, Oct. 5, 1999, 113 Stat. 600, provided that: “The amendments made by sections 523 and 524 \[amending this section and section 709 of Title 32, National Guard\] shall take effect 180 days after the date of the receipt by Congress of the plan required by section 523(d) of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 111 Stat. 1737) \[set out below\] \[plan received by Congress from Under Secretary of Defense, Personnel and Readiness on Sept. 21, 1999, see Cong. Rec., vol. 145, pt. 15, 21975, Ex. Comm. 4276\] or a report by the Secretary of Defense providing an alternative proposal to the plan required by that section.”
 
 #### Plan for Full Utilization of Military Technicians (Dual Status)
 
@@ -87,4 +113,6 @@ Definitions for Categories of Military Technicians.—In this section \[enacting
 &emsp;“(1) The term ‘non-dual status military technician’ has the meaning given that term in section 10217 of title 10, United States Code, as added by subsection (a).
 
 &emsp;“(2) The term ‘military technician (dual status)’ has the meaning given the term in section 10216(a) of such title.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “considered”.</i>
 

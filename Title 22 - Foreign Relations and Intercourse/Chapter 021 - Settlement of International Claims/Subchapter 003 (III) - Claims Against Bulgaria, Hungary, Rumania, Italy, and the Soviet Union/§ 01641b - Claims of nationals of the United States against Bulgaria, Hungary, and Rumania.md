@@ -16,7 +16,7 @@ The Commission shall receive and determine in accordance with applicable substan
 
 #### Amendments
 
-1974—Par. (5). Pub. L. 93–460, §1(3), added par. (5).
+<b>1974</b>—Par. (5). Pub. L. 93–460, §1(3), added par. (5).
 
-1968—Par. (4). Pub. L. 90–421, §1(10), added par. (4).
+<b>1968</b>—Par. (4). Pub. L. 90–421, §1(10), added par. (4).
 

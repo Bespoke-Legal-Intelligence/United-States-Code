@@ -108,7 +108,7 @@ Services provided under contracts made under this section shall supplement, not 
 
 &emsp;(2) social services and case management;
 
-&emsp;(3) training available to Indian tribes, tribal agencies, and Indian organizations regarding the identification, investigation, prevention, and treatment of family violence, child abuse, and child neglect; and
+&emsp;(3) training available to Indian tribes, tribal agencies, and Indian organizations regarding the identification, investigation, prevention,and treatment of family violence, child abuse, and child neglect; and
 
 &emsp;(4) law enforcement services, including investigations and prosecutions.
 
@@ -136,11 +136,11 @@ The Indian Self-Determination Act, referred to in subsec. (b), is title I of Pub
 
 #### Amendments
 
-2008—Subsec. (d)(5)(C). Pub. L. 110–315 substituted “tribally controlled college or university (within the meaning of section 1801 of this title)” for “tribally controlled community colleges (within the meaning of section 1801 of this title)”.
+<b>2008</b>—Subsec. (d)(5)(C). Pub. L. 110–315 substituted “tribally controlled college or university (within the meaning of section 1801 of this title)” for “tribally controlled community colleges (within the meaning of section 1801 of this title)”.
 
-1998—Subsec. (d)(5)(C). Pub. L. 105–244 made technical amendment to reference in original act which appears in text as reference to section 1801 of this title.
+<b>1998</b>—Subsec. (d)(5)(C). Pub. L. 105–244 made technical amendment to reference in original act which appears in text as reference to section 1801 of this title.
 
-1995—Subsec. (i). Pub. L. 104–16 substituted “1995, 1996, and 1997” for “and 1995”.
+<b>1995</b>—Subsec. (i). Pub. L. 104–16 substituted “1995, 1996, and 1997” for “and 1995”.
 
 #### Effective Date of 1998 Amendment
 

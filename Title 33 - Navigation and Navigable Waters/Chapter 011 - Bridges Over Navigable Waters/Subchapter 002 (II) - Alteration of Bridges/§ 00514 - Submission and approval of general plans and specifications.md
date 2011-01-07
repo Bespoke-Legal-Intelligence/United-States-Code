@@ -6,5 +6,5 @@ After the service of an order under this subchapter, it shall be the duty of the
 
 #### Amendments
 
-1976—Pub. L. 94–587 substituted provision for preparation and submission of general plans and specifications within a reasonable time as prescribed by the Secretary after the service of an order for provision for such action within ninety days after service of his order.
+<b>1976</b>—Pub. L. 94–587 substituted provision for preparation and submission of general plans and specifications within a reasonable time as prescribed by the Secretary after the service of an order for provision for such action within ninety days after service of his order.
 

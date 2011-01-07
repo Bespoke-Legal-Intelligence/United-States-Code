@@ -42,15 +42,15 @@ The change is made to reflect the amendment made by section 501(1) of the Servic
 
 #### Amendments
 
-1989—Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1989</b>—Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1972—Pub. L. 92–425 substituted “subchapter” for “chapter”.
+<b>1972</b>—Pub. L. 92–425 substituted “subchapter” for “chapter”.
 
-1970—Pub. L. 91–588 struck out “except section 415(g) and chapter 15 of title 38” after “Veterans’ Administration”.
+<b>1970</b>—Pub. L. 91–588 struck out “except section 415(g) and chapter 15 of title 38” after “Veterans’ Administration”.
 
-1959—Pub. L. 86–211 inserted reference to chapter 15 of title 38.
+<b>1959</b>—Pub. L. 86–211 inserted reference to chapter 15 of title 38.
 
-1958—Pub. L. 85–861 inserted “except section 1115 of title 38” after “Administration”.
+<b>1958</b>—Pub. L. 85–861 inserted “except section 1115 of title 38” after “Administration”.
 
 Pub. L. 85–857 substituted “section 415(g) of title 38” for “section 1115 of title 38”.
 

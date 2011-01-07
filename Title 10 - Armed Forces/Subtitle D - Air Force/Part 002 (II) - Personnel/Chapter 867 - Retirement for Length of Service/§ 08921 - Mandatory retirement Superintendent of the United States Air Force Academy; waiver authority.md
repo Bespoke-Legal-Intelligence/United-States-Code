@@ -16,7 +16,7 @@ A prior section 8921, acts Aug. 10, 1956, ch. 1041, 70A Stat. 551; Nov. 2, 1966,
 
 #### Amendments
 
-2004—Pub. L. 108–375 inserted “; waiver authority” after “Academy” in section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2004</b>—Pub. L. 108–375 inserted “; waiver authority” after “Academy” in section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Application of Section to Superintendents Serving on October 5, 1999
 

@@ -54,9 +54,9 @@ This section enacts the Patent Office rule of secrecy of applications.
 
 #### Amendments
 
-1999—Pub. L. 106–113 amended section catchline and text generally. Prior to amendment, text read as follows: “Applications for patents shall be kept in confidence by the Patent and Trademark Office and no information concerning the same given without authority of the applicant or owner unless necessary to carry out the provisions of any Act of Congress or in such special circumstances as may be determined by the Commissioner.”
+<b>1999</b>—Pub. L. 106–113 amended section catchline and text generally. Prior to amendment, text read as follows: “Applications for patents shall be kept in confidence by the Patent and Trademark Office and no information concerning the same given without authority of the applicant or owner unless necessary to carry out the provisions of any Act of Congress or in such special circumstances as may be determined by the Commissioner.”
 
-1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
 #### Effective Date of 1999 Amendment
 

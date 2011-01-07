@@ -38,7 +38,7 @@
 
 (c) When an eligible veteran is pursuing a program of education under this chapter by correspondence, such eligible veteran's entitlement shall be charged at the rate of 1 month's entitlement for each month of benefits paid to the eligible veteran (computed on the basis of the formula provided in subsection (a)(2) of this section).
 
-(d)(1) Subject to the provisions of paragraph (2) of this subsection, the amount of the educational assistance benefits paid to an eligible veteran who is pursuing a program of education under this chapter while incarcerated in a Federal, State, local, or other penal institution or correctional facility for conviction of a felony may not exceed the lesser of (A) such amount as the Secretary determines, in accordance with regulations which the Secretary shall prescribe, is necessary to cover the cost of established charges for tuition and fees required of similarly circumstanced nonveterans enrolled in the same program and the cost of necessary supplies, books, and equipment, or (B) the applicable monthly benefit payment otherwise prescribed in this section or section 3233 of this title. The amount of the educational assistance benefits payable to a veteran while so incarcerated shall be reduced to the extent that the tuition and fees of the veteran for any course are paid under any Federal program (other than a program administered by the Secretary) or under any State or local program.
+(d)(1) Subject to the provisions of paragraph (2) of this subsection, the amount of the educational assistance benefits paid to an eligible veteran who is pursuing a program of education under this chapter while incarcerated in a Federal, State, local, or other penal institution or correctional facility for conviction of a felony may not exceed the lesser of (A) such amount as the Secretary determines, in accordance with regulations which the Secretary shall prescribe,is necessary to cover the cost of established charges for tuition and fees required of similarly circumstanced nonveterans enrolled in the same program and the cost of necessary supplies, books, and equipment, or (B) the applicable monthly benefit payment otherwise prescribed in this section or section 3233 of this title. The amount of the educational assistance benefits payable to a veteran while so incarcerated shall be reduced to the extent that the tuition and fees of the veteran for any course are paid under any Federal program (other than a program administered by the Secretary) or under any State or local program.
 
 (2) Paragraph (1) of this subsection shall not apply in the case of any veteran who is pursuing a program of education under this chapter while residing in a halfway house or participating in a work-release program in connection with such veteran's conviction of a felony.
 
@@ -54,25 +54,25 @@
 
 #### Amendments
 
-2006—Subsec. (d)(1). Pub. L. 109–461 substituted “local, or other penal institution or correctional facility” for “or local penal institution”.
+<b>2006</b>—Subsec. (d)(1). Pub. L. 109–461 substituted “local, or other penal institution or correctional facility” for “or local penal institution”.
 
-2001—Subsec. (a)(5)(B)(i). Pub. L. 107–103, §103(a), substituted “to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10;” for “, in connection with the Persian Gulf War, to serve on active duty under section 672(a), (d), or (g), 673, 673b, or 688 of title 10;”.
+<b>2001</b>—Subsec. (a)(5)(B)(i). Pub. L. 107–103, §103(a), substituted “to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10;” for “, in connection with the Persian Gulf War, to serve on active duty under section 672(a), (d), or (g), 673, 673b, or 688 of title 10;”.
 
 Subsec. (a)(5)(B)(ii). Pub. L. 107–103, §103(d), struck out “, in connection with such War,” after “being ordered”.
 
-1998—Subsec. (a)(2). Pub. L. 105–368 substituted “subsection (e)” for “subsection (f)”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–368 substituted “subsection (e)” for “subsection (f)”.
 
-1996—Subsecs. (d) to (f). Pub. L. 104–275 redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows:
+<b>1996</b>—Subsecs. (d) to (f). Pub. L. 104–275 redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows:
 
-“(d)(1) The amount of the monthly benefit payment to an individual pursuing a cooperative program underthis chapter shall be 80 percent of the monthly benefit otherwise payable to such individual (computed on the basis of the formula provided in subsection (a)(2) of this section).
+“(d)(1) The amount of the monthly benefit payment to an individual pursuing a cooperative program under this chapter shall be 80 percent of the monthly benefit otherwise payable to such individual (computed on the basis of the formula provided in subsection (a)(2) of this section).
 
 “(2) For each month that an individual is paid a monthly benefit payment for pursuit of a cooperative program under this chapter, the individual's entitlement under this chapter shall be charged at the rate 80 percent of a month.”
 
-1992—Subsec. (f)(1). Pub. L. 102–568, §310(c)(1), struck out “(other than tuition and fees charged for or attributable to solo flying hours)” after “for tuition and fees”.
+<b>1992</b>—Subsec. (f)(1). Pub. L. 102–568, §310(c)(1), struck out “(other than tuition and fees charged for or attributable to solo flying hours)” after “for tuition and fees”.
 
 Subsec. (f)(4). Pub. L. 102–568, §310(c)(2), added par. (4).
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1631 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1631 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 102–83, §5(c)(1), substituted “3695” for “1795”.
 
@@ -92,23 +92,23 @@ Subsec. (f). Pub. L. 102–83, §5(c)(1), substituted “3241(b)” for “1641(
 
 Pub. L. 102–16, §7(b)(2), added subsec. (f).
 
-1989—Subsec. (a)(1). Pub. L. 101–237, §423(b)(1)(B), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–237, §423(b)(1)(B), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
 Subsec. (a)(2)(C). Pub. L. 101–237, §423(b)(4)(A), inserted “of Defense” after “Secretary”.
 
 Subsec. (e)(1). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
-1988—Subsec. (d). Pub. L. 100–689, §108(b)(2), added subsec. (d).
+<b>1988</b>—Subsec. (d). Pub. L. 100–689, §108(b)(2), added subsec. (d).
 
 Subsec. (e). Pub. L. 100–689, §122, added subsec. (e).
 
-1986—Subsec. (a)(2). Pub. L. 99–576 substituted “Except as provided in section 1633 of this title and subject to section 1641 of this title, the” for “The”.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–576 substituted “Except as provided in section 1633 of this title and subject to section 1641 of this title, the” for “The”.
 
-1981—Subsec. (c). Pub. L. 97–35, §2003(a)(1), struck out applicability to a program of flight training.
+<b>1981</b>—Subsec. (c). Pub. L. 97–35, §2003(a)(1), struck out applicability to a program of flight training.
 
 Subsec. (d). Pub. L. 97–35, §2005(a), struck out subsec. (d) which related to eligibility of veterans for loans authorized by subchapter III of chapter 36 of this title.
 
-1980—Subsec. (a)(1). Pub. L. 96–466, §404, inserted reference to provisions of section 1795 of this title limiting the aggregate period for which any person may receive assistance under two or more programs of educational or vocational assistance administered by the Veterans’ Administration, and substituted reference to part-time benefits, for reference to part-time benefit payments.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–466, §404, inserted reference to provisions of section 1795 of this title limiting the aggregate period for which any person may receiveassistance under two or more programs of educational or vocational assistance administered by the Veterans’ Administration, and substituted reference to part-time benefits, for reference to part-time benefit payments.
 
 Subsec. (b). Pub. L. 96–466, §403, substituted reference to enrolling in a course, courses, or program of education for the purpose of attaining a secondary school diploma or an equivalency certificate during the last six months of such member's first enlistment and at any time thereafter, for reference to participating in the Predischarge Education Program authorized by subchapter VI of chapter 34 of this title during the last 6 months of such member's first enlistment.
 

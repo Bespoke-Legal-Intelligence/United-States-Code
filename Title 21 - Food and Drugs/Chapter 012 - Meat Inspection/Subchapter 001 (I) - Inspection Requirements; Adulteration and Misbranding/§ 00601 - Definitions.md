@@ -84,7 +84,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 (q) The term “Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\]” means the Act so entitled, approved June 25, 1938 (52 Stat. 1040), and Acts amendatory thereof or supplementary thereto.
 
-(r) The terms “pesticide chemical,” “food additive,” “color additive,” and “raw agricultural commodity” shall have the same meanings for purposes of this chapter as under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\].
+(r) The terms “pesticide chemical,” “food additive,” “color additive,” and “raw agriculturalcommodity” shall have the same meanings for purposes of this chapter as under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\].
 
 (s) The term “official mark” means the official inspection legend or any other symbol prescribed by regulations of the Secretary to identify the status of any article or animal under this chapter.
 
@@ -114,11 +114,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (w)(2), (3). Pub. L. 110–246, §11016(b)(1)(A), added par. (2) and redesignated former par. (2) as (3).
+<b>2008</b>—Subsec. (w)(2), (3). Pub. L. 110–246, §11016(b)(1)(A), added par. (2) and redesignated former par. (2) as (3).
 
-2005—Par. (w). Pub. L. 109–97 added par. (w).
+<b>2005</b>—Par. (w). Pub. L. 109–97 added par. (w).
 
-1992—Par. (m)(2)(D). Pub. L. 102–571 substituted “379e” for “376”.
+<b>1992</b>—Par. (m)(2)(D). Pub. L. 102–571 substituted “379e” for “376”.
 
 #### Change of Name
 
@@ -126,7 +126,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set outas an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Pub. L. 110–234, title XI, §11016(b)(2)(A), May 22, 2008, 122 Stat. 1369, and Pub. L. 110–246, §4(a), title XI, §11016(b)(2)(A), June 18, 2008, 122 Stat. 1664, 2131, provided that: “The amendments made by paragraph (1) \[enacting sections 606 and 625 of this title, amending this section, and repealing former section 606 of this title\] shall not apply until the date on which the Secretary of Agriculture issues final regulations (after providing a period of public comment, including through the conduct of public meetings or hearings, in accordance with chapter 5 of title 5, United States Code) to carry out such amendments.”
 
@@ -158,7 +158,7 @@ Pub. L. 95–445, §1, Oct. 10, 1978, 92 Stat. 1069, provided: “That this Act 
 
 #### Short Title
 
-Section 1 of Pub. L. 90–201 provided in part: “That this Act \[enacting this section and sections 602, 624, 641 to 645, 661, 671 to 680, and 691 of this title, amending sections 603 to 623 of this title, repealing section 96 of this title and section 1306(b) of Title 19, Customs Duties, and enacting provisions set out as notes under this section\] may be cited as the ‘Wholesome Meat Act’.”
+Section 1 of Pub. L. 90–201 provided in part: “That this Act \[enacting this section and sections 602, 624, 641to 645, 661, 671 to 680, and 691 of this title, amending sections 603 to 623 of this title, repealing section 96 of this title and section 1306(b) of Title 19, Customs Duties, and enacting provisions set out as notes under this section\] may be cited as the ‘Wholesome Meat Act’.”
 
 Section 1 of Pub. L. 90–201 provided in part that the provisions of act Mar. 4, 1907, as amended, classified to subchapters I to IV–A of this chapter, are designated as the “Federal Meat Inspection Act”.
 

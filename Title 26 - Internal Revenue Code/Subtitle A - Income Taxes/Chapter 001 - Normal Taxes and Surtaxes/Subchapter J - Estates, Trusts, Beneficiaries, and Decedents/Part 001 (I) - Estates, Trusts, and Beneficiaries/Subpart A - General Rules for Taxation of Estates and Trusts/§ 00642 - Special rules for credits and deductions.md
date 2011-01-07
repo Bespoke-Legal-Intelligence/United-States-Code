@@ -136,41 +136,41 @@ In the case of a cemetery perpetual care fund which—
 
 > any amount distributed by such fund for the care and maintenance of gravesites which have been purchased from the cemetery corporation before the beginning of the taxable year of the trust and with respect to which there is an obligation to furnish care and maintenance shall be considered to be a distribution solely for purposes of sections 651 and 661, but only to the extent that the aggregate amount so distributed during the taxable year does not exceed $5 multiplied by the aggregate number of such gravesites.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 215; Pub. L. 87–834, §13(c)(2)(A), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 88–272, title II, §201(d)(6)(A), (B), Feb. 26, 1964, 78 Stat. 32; Pub. L. 89–621, §2(a), Oct. 4, 1966, 80 Stat. 872; Pub. L. 91–172, title II, §201(b), title VII, §704(b)(2), Dec. 30, 1969, 83 Stat. 558, 669; Pub. L. 92–178, title III, §303(c)(4), title VII, §§701(b), 702(b), Dec. 10, 1971, 85 Stat. 522, 561, 562; Pub. L. 94–455, title XIV, §1402(b)(1)(J), (2), title XIX, §§1901(b)(1)(H)(i), 1906(b)(13)(A), 1951(c)(2)(B), title XX, §2009(d), title XXI, §2124(a)(3)(B), Oct. 4, 1976, 90 Stat. 1732, 1791, 1834, 1840, 1896, 1917; Pub. L. 94–528, §1(a), Oct. 17, 1976, 90 Stat. 2483; Pub. L. 95–30, title I, §101(d)(9), May 23, 1977, 91 Stat. 134; Pub. L. 95–600, title I, §113(a)(2)(B), Nov. 6, 1978, 92 Stat. 2778; Pub. L. 97–34, title II, §212(d)(2)(D), Aug. 13, 1981, 95 Stat. 239; Pub. L. 98–369, div. A, title IV, §474(r)(17), title X, §1001(b)(8), (e), July 18, 1984, 98 Stat. 843, 1011, 1012; Pub. L. 99–514, title I, §112(b)(2), title III, §301(b)(6), title VI, §612(b)(3), Oct. 22, 1986, 100 Stat. 2108, 2217, 2250; Pub. L. 101–239, title VII, §7811(j)(3), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 101–508, title XI, §§11801(c)(6)(B), 11812(b)(9), Nov. 5, 1990, 104 Stat. 1388–524, 1388–535; Pub. L. 103–66, title XIII, §§13113(d)(2), 13261(f)(2), Aug. 10, 1993, 107 Stat. 429, 539; Pub. L. 104–188, title I, §1704(t)(8), Aug. 20, 1996, 110 Stat. 1887; Pub. L. 107–134, title I, §116(a), Jan. 23, 2002, 115 Stat. 2439.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 215; Pub. L. 87–834, §13(c)(2)(A), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 88–272, title II, §201(d)(6)(A), (B), Feb. 26, 1964, 78 Stat. 32; Pub. L. 89–621, §2(a), Oct. 4, 1966, 80 Stat. 872; Pub. L. 91–172, title II, §201(b), titleVII, §704(b)(2), Dec. 30, 1969, 83 Stat. 558, 669; Pub. L. 92–178, title III, §303(c)(4), title VII, §§701(b), 702(b), Dec. 10, 1971, 85 Stat. 522, 561, 562; Pub. L. 94–455, title XIV, §1402(b)(1)(J), (2), title XIX, §§1901(b)(1)(H)(i), 1906(b)(13)(A), 1951(c)(2)(B), title XX, §2009(d), title XXI, §2124(a)(3)(B), Oct. 4, 1976, 90 Stat. 1732, 1791, 1834, 1840, 1896, 1917; Pub. L. 94–528, §1(a), Oct. 17, 1976, 90 Stat. 2483; Pub. L. 95–30, title I, §101(d)(9), May 23, 1977, 91 Stat. 134; Pub. L. 95–600, title I, §113(a)(2)(B), Nov. 6, 1978, 92 Stat. 2778; Pub. L. 97–34, title II, §212(d)(2)(D), Aug. 13, 1981, 95 Stat. 239; Pub. L. 98–369, div. A, title IV, §474(r)(17), title X, §1001(b)(8), (e), July 18, 1984, 98 Stat. 843, 1011, 1012; Pub. L. 99–514, title I, §112(b)(2), title III, §301(b)(6), title VI, §612(b)(3), Oct. 22, 1986, 100 Stat. 2108, 2217, 2250; Pub. L. 101–239, title VII, §7811(j)(3), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 101–508, title XI, §§11801(c)(6)(B), 11812(b)(9), Nov. 5, 1990, 104 Stat. 1388–524, 1388–535; Pub. L. 103–66, title XIII, §§13113(d)(2), 13261(f)(2), Aug. 10, 1993, 107 Stat. 429, 539; Pub. L. 104–188, title I, §1704(t)(8), Aug. 20, 1996, 110 Stat. 1887; Pub. L. 107–134, title I, §116(a), Jan. 23, 2002, 115 Stat. 2439.)
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–134 reenacted heading without change and amended text of subsec. (b) generally. Prior to amendment, text read as follows: “An estate shall be allowed a deduction of $600. A trust which, under its governing instrument, is required to distribute all of its income currently shall be allowed a deduction of $300. All other trusts shall be allowed a deduction of $100. The deductions allowed by this subsection shall be in lieu of the deductions allowed under section 151 (relating to deduction for personal exemption).”
+<b>2002</b>—Subsec. (b). Pub. L. 107–134 reenacted heading without change and amended text of subsec. (b) generally. Prior to amendment, text read as follows: “An estate shall be allowed a deduction of $600. A trust which, under its governing instrument, is required to distribute all of its income currently shall be allowed a deduction of $300. All other trusts shall be allowed a deduction of $100. The deductions allowed by this subsection shall be in lieu of the deductions allowed under section 151 (relating to deduction for personal exemption).”
 
-1996—Subsec. (g). Pub. L. 104–188 substituted “under section 2621(a)(2)” for “under 2621(a)(2)”.
+<b>1996</b>—Subsec. (g). Pub. L. 104–188 substituted “under section 2621(a)(2)” for “under 2621(a)(2)”.
 
-1993—Subsec. (c)(4). Pub. L. 103–66, §13113(d)(2), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “In the case of a trust, the deduction allowed by this subsection shall be subject to section 681 (relating to unrelated business income).”
+<b>1993</b>—Subsec. (c)(4). Pub. L. 103–66, §13113(d)(2), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “In the case of a trust, the deduction allowed by this subsection shall be subject to section 681 (relating to unrelated business income).”
 
 Subsec. (f). Pub. L. 103–66, §13261(f)(2), substituted “sections 169 and 197” for “section 169”.
 
-1990—Subsec. (e). Pub. L. 101–508, §11812(b)(9), substituted “167(d)” for “167(h)”.
+<b>1990</b>—Subsec. (e). Pub. L. 101–508, §11812(b)(9), substituted “167(d)” for “167(h)”.
 
 Subsec. (f). Pub. L. 101–508, §11801(c)(6)(B), substituted “section 169” for “sections 169, 184, 187, and 188”.
 
-1989—Subsec. (g). Pub. L. 101–239 inserted after first sentence “Rules similar to the rules of the preceding sentence shall apply to amounts which may be taken into account under 2621(a)(2) or 2622(b).”
+<b>1989</b>—Subsec. (g). Pub. L. 101–239 inserted after first sentence “Rules similar to the rules of the preceding sentence shall apply to amounts which may be taken into account under 2621(a)(2) or 2622(b).”
 
-1986—Subsec. (a). Pub. L. 99–514, §112(b)(2), amended subsec. (a) generally, substituting “Foreign tax credit allowed” for “Credits against tax” in heading, striking out designation and heading for par. (1), and striking out par. (2) which read as follows: “An estate or trust shall not be allowed the credit against tax for political contributions provided by section 24.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §112(b)(2), amended subsec. (a) generally, substituting “Foreign tax credit allowed” for “Credits against tax” in heading, striking out designation and heading for par. (1), and striking out par. (2) which read as follows: “An estate or trust shall not be allowed the credit against tax for political contributions provided by section 24.”
 
 Subsec. (c)(4). Pub. L. 99–514, §301(b)(6), in heading, substituted “Coordination with section 681” for “Adjustments”, and in text struck out first sentence which read as follows: “To the extent that the amount otherwise allowable as a deduction under this subsection consists of gain from the sale or exchange of capital assets held for more than 6 months, proper adjustment shall be made for any deduction allowable to the estate or trust under section 1202 (relating to deduction for excess of capital gains over capital losses).”
 
 Subsec. (j). Pub. L. 99–514, §612(b)(3), struck out subsec. (j) which provided a cross reference to section 116(c)(3).
 
-1984—Subsec. (a)(2). Pub. L. 98–369, §474(r)(17), substituted “section 24” for “section 41”.
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–369, §474(r)(17), substituted “section 24” for “section 41”.
 
 Subsec. (c)(3), (4). Pub. L. 98–369, §1001(b)(8), (e), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
-1981—Subsec. (f). Pub. L. 97–34 substituted “and 188” for “188, and 191”.
+<b>1981</b>—Subsec. (f). Pub. L. 97–34 substituted “and 188” for “188, and 191”.
 
-1978—Subsecs. (i) to (k). Pub. L. 95–600 redesignated subsecs. (j) and (k) as (i) and (j), respectively. Former subsec. (i), which did not allow estates or trusts the deduction for contributions to candidates for public office provided by section 218, was struck out.
+<b>1978</b>—Subsecs. (i) to (k). Pub. L. 95–600 redesignated subsecs. (j) and (k) as (i) and (j), respectively. Former subsec. (i), which did not allow estates or trusts the deduction for contributions to candidates for public office provided by section 218, was struck out.
 
-1977—Subsec. (k). Pub. L. 95–30 struck out par. (1) which made a cross reference to section 142(b)(4) for disallowance of the standard deduction in the case of estates and trusts and struck out “(2)” at beginning of single remaining cross reference.
+<b>1977</b>—Subsec. (k). Pub. L. 95–30 struck out par. (1) which made a cross reference to section 142(b)(4) for disallowance of the standard deduction in the case of estates and trusts and struck out “(2)” at beginning of single remaining cross reference.
 
-1976—Subsec. (a). Pub. L. 94–455, §1901(b)(1)(H)(i), redesignated former pars. (2) and (3) as (1) and (2), respectively. Former par. (1), relating to the credit against tax for partially tax-exempt interest, was struck out.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1901(b)(1)(H)(i), redesignated former pars. (2) and (3) as (1) and (2), respectively. Former par. (1), relating to the credit against tax for partially tax-exempt interest, was struck out.
 
 Subsec. (c)(1). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
@@ -188,23 +188,23 @@ Subsec. (h). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate�
 
 Subsecs. (j), (k). Pub. L. 94–528 added subsec. (j) and redesignated former subsec. (j) as (k).
 
-1971—Subsec. (a)(3). Pub. L. 92–178, §701(b), added par. (3).
+<b>1971</b>—Subsec. (a)(3). Pub. L. 92–178, §701(b), added par. (3).
 
 Subsec. (f). Pub. L. 92–178, §303(c)(4), inserted reference to section 188.
 
 Subsecs. (i), (j). Pub. L. 92–178, §702(b), added subsec. (i) and redesignated former subsec. (i) as (j).
 
-1969—Subsec. (c). Pub. L. 91–172, §201(b), designated existing provisions, with minor changes, as par. (1) and added pars. (2) to (6).
+<b>1969</b>—Subsec. (c). Pub. L. 91–172, §201(b), designated existing provisions, with minor changes, as par. (1) and added pars. (2) to (6).
 
 Subsec. (f). Pub. L. 91–172, §704(b)(2), struck out reference to emergency or grain storage facilities both in heading and in text, and inserted reference to sections 184 and 187 in text.
 
-1966—Subsec. (g). Pub. L. 89–621 inserted “or of any other person” after “shall not be allowed as a deduction in computing the taxable income of the estate”.
+<b>1966</b>—Subsec. (g). Pub. L. 89–621 inserted “or of any other person” after “shall not be allowed as a deduction in computing the taxable income of the estate”.
 
-1964—Subsec. (a)(3). Pub. L. 88–272, §201(d)(6)(A), struck out par. (3) which related to dividends received by individuals.
+<b>1964</b>—Subsec. (a)(3). Pub. L. 88–272, §201(d)(6)(A), struck out par. (3) which related to dividends received by individuals.
 
 Subsec. (i). Pub. L. 88–272, §201(d)(6)(B), designated existing provisions as par. (1) and added par. (2).
 
-1962—Subsec. (e). Pub. L. 87–834 substituted a reference to section 167(h) for a reference to section 167(g).
+<b>1962</b>—Subsec. (e). Pub. L. 87–834 substituted a reference to section 167(h) for a reference to section 167(g).
 
 #### Effective Date of 2002 Amendment
 
@@ -214,7 +214,7 @@ Pub. L. 107–134, title I, §116(b), Jan. 23, 2002, 115 Stat. 2440, provided th
 
 Amendment by section 13113(d)(2) of Pub. L. 103–66 applicable to stock issued after Aug. 10, 1993, see section 13113(e) of Pub. L. 103–66, set out as a note under section 53 of this title.
 
-Amendment by section 13261(f)(2) of Pub. L. 103–66 applicable, except as otherwise provided, with respect to property acquired after Aug. 10, 1993, see section 13261(g) of Pub. L. 103–66, set out as an Effective Date note under section 197 of this title.
+Amendment by section 13261(f)(2) of Pub. L. 103–66 applicable, except as otherwise provided, with respect toproperty acquired after Aug. 10, 1993, see section 13261(g) of Pub. L. 103–66, set out as an Effective Date note under section 197 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -228,7 +228,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 Amendment by section 112(b)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
-Amendment by section 301(b)(6) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,see section 301(c) of Pub. L. 99–514, set out as a note under section 62 of this title.
+Amendment by section 301(b)(6) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 301(c) of Pub. L. 99–514, set out as a note under section 62 of this title.
 
 Amendment by section 612(b)(3) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 612(c) of Pub. L. 99–514, set out as a note under section 301 of this title.
 

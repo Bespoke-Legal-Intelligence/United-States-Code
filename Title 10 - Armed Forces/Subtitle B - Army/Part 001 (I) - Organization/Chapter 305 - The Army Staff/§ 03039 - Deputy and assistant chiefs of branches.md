@@ -50,7 +50,7 @@ A prior section 3039, act Aug. 10, 1956, ch. 1041, 70A Stat. 164, related to Ins
 
 #### Amendments
 
-1986—Pub. L. 99–433 renumbered section 3040 of this title as this section and substituted “section 3036” for “sections 3036 and 3039” in subsec. (a).
+<b>1986</b>—Pub. L. 99–433 renumbered section 3040 of this title as this section and substituted “section 3036” for “sections 3036 and 3039” in subsec. (a).
 
-1978—Subsec. (b). Pub. L. 95–485 inserted provision establishing the Assistant Surgeon General as Chief of the Dental Corps and making him responsible for recommendations to the Surgeon General and through the Surgeon General to the Chief of Staff on all matters concerning dentistry and dental health of the Army.
+<b>1978</b>—Subsec. (b). Pub. L. 95–485 inserted provision establishing the Assistant Surgeon General as Chief of the Dental Corps and making him responsible for recommendations to the Surgeon General and through the Surgeon General to the Chief of Staff on all matters concerning dentistry and dental health of the Army.
 

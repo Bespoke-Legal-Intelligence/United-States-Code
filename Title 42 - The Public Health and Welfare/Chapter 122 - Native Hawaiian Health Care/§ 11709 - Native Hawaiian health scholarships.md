@@ -10,7 +10,7 @@ Subject to the availability of funds appropriated under the authority of subsect
 
 #### (b) Terms and conditions
 
-(1) The scholarship assistance provided under subsection (a) of this section shall be providedunder the same terms and subject to the same conditions, regulations, and rules that apply to scholarship assistance provided under section 254<i>l</i> of this title, provided that—
+(1) The scholarship assistance provided under subsection (a) of this section shall be provided under the same terms and subject to the same conditions, regulations, and rules that apply to scholarship assistance provided under section 254<i>l</i> of this title, provided that—
 
 &emsp;(A) the provision of scholarships in each type of health care profession training shall correspond to the need for each type of health care professional identified in the Native Hawaiian comprehensive health care master plan implemented under section 11703 of this title to serve the Native Hawaiian health care systems, as identified by Papa Ola Lokahi;
 
@@ -42,11 +42,13 @@ Subject to the availability of funds appropriated under the authority of subsect
 
 #### (c) Authorization of appropriations
 
-There are authorized to be appropriated such sums as may be necessary for fiscal years 1993 through 2001 for the purpose of funding the scholarship assistance provided under subsection (a) of this section.
+There are authorized to be appropriated such sums as may be necessary for fiscal years 1993 through 2019 for the purpose of funding the scholarship assistance provided under subsection (a) of this section.
 
-(Pub. L. 100–579, §10, as added Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948; amended Pub. L. 105–256, §12, Oct. 14, 1998, 112 Stat. 1899; Pub. L. 107–116, title V, §514(a), Jan. 10, 2002, 115 Stat. 2219.)
+(Pub. L. 100–579, §10, as added Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948; amended Pub. L. 105–256, §12, Oct. 14, 1998, 112 Stat. 1899; Pub. L. 107–116, title V, §514(a), Jan. 10, 2002, 115 Stat. 2219; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 #### Codification
+
+Amendment by Pub. L. 111–148 is based on section 202(a) of title II of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 Section enacted by section 1 of S. 2681, One Hundred Second Congress, as passed by the Senate on Aug. 7, 1992, which was enacted into law by section 9168 of Pub. L. 102–396. Section 9168, which referred to S. 2681, as passed by the Senate on “September 12, 1992”, has been treated as referring to S. 2681, as passed by the Senate on Aug. 7, 1992, to reflect the probable intent of Congress.
 
@@ -54,15 +56,17 @@ Section enacted by section 1 of S. 2681, One Hundred Second Congress, as passed 
 
 A prior section 11709, Pub. L. 100–579, §11, Oct. 31, 1988, 102 Stat. 2923; Pub. L. 100–690, title II, §2311, Nov. 18, 1988, 102 Stat. 4229, which related to compliance with Budget Act, was amended generally by Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948, and transferred to section 11710 of this title.
 
-A prior section 10 of Pub. L. 100–579 repealed section 1621d of Title 25, Indians.
+A prior section 10 of Pub. L. 100–579 repealed former section 1621d of Title 25, Indians.
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–116, §514(a)(1), substituted “Papa Ola Lokahi” for “Kamehameha School/Bishop Estate” in introductory provisions.
+<b>2010</b>—Subsec. (c). Pub. L. 111–148, which directed the amendment of section 10(c) of the Native Hawaiian Health Care Act of 1988 by substituting “2019” for “2001”, was executed by making the amendment to this section, which is section 10 of the Native Hawaiian Health Care Improvement Act, to reflect the probable intent of Congress.
+
+<b>2002</b>—Subsec. (a). Pub. L. 107–116, §514(a)(1), substituted “Papa Ola Lokahi” for “Kamehameha School/Bishop Estate” in introductory provisions.
 
 Subsec. (b)(1)(C). Pub. L. 107–116, §514(a)(2), which directed the substitution of “Papa Ola Lokahi” for “Kamehameha School/Bishop Estate”, was executed by making the substitution for “Kamehameha Schools/Bishop Estate” to reflect the probable intent of Congress.
 
-1998—Subsec. (a)(1). Pub. L. 105–256, §12(a), which directed amendment of subsec. (a)(1) by substituting “meet the requirements of paragraphs (1), (3), and (4) of section 254<i>l</i>(b) of this title” for “meet the requirements of section 254<i>l</i> of this title”, was executed by making the substitution for “meet the requirements of section 254b of this title”, to reflect the probable intent of Congress.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–256, §12(a), which directed amendment of subsec. (a)(1) by substituting “meet the requirements of paragraphs (1), (3), and (4) of section 254<i>l</i>(b) of this title” for “meet the requirements of section 254<i>l</i> of this title”, was executed by making the substitution for “meet the requirements of section 254b of this title”, to reflect the probable intent of Congress.
 
 Subsec. (b)(1)(A). Pub. L. 105–256, §12(b)(1), inserted “identified in the Native Hawaiian comprehensive health care master plan implemented under section 11703 of this title” after “health care professional”.
 

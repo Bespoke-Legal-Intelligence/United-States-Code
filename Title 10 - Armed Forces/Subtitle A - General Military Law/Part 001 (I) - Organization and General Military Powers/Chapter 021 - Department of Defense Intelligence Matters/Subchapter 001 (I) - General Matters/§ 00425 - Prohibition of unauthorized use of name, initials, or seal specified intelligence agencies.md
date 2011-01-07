@@ -30,13 +30,13 @@ A prior section 425, added Pub. L. 103–178, title V, §503(a)(1), Dec. 3, 1993
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–84 repealed Pub. L. 110–417, §932(a)(6). See 2008 Amendment note below.
+<b>2009</b>—Subsec. (a). Pub. L. 111–84 repealed Pub. L. 110–417, §932(a)(6). See 2008 Amendment note below.
 
-2008—Subsec. (a). Pub. L. 110–181 and Pub. L. 110–417, §932(a)(6), amended subsec. (a) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions. Pub. L. 110–417, §932(a)(6), was repealed by Pub. L. 111–84.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181 and Pub. L. 110–417, §932(a)(6), amended subsec. (a) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions. Pub. L. 110–417, §932(a)(6), was repealed by Pub. L. 111–84.
 
-2003—Subsec. (a)(5). Pub. L. 108–136 added par. (5).
+<b>2003</b>—Subsec. (a)(5). Pub. L. 108–136 added par. (5).
 
-1997—Subsec. (b). Pub. L. 105–107, §503(b), renumbered section 202(b) of this title as subsec. (b) of this section and inserted heading.
+<b>1997</b>—Subsec. (b). Pub. L. 105–107, §503(b), renumbered section 202(b) of this title as subsec. (b) of this section and inserted heading.
 
 #### Change of Name
 

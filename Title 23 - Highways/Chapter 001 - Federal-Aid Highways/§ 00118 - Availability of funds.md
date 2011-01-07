@@ -68,7 +68,7 @@ Net obligations.—Notwithstanding any other provision of law (including a regul
 
 (e) <sup>1</sup> Funds made available to the State of Alaska and the Commonwealth of Puerto Rico under this title may be expended for construction of access and development roads that will serve resource development, recreational, residential, commercial, industrial, or other like purposes.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 897; Pub. L. 89–574, §7(a), Sept. 13, 1966, 80 Stat. 768; Pub. L. 94–280, title I, §117(a), May 5, 1976, 90 Stat. 436; Pub. L. 95–599, title I, §115(a), Nov. 6, 1978, 92 Stat. 2697; Pub. L. 96–106, §5(a), Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–424, title I, §115, Jan. 6, 1983, 96 Stat. 2107; Pub. L. 100–17, title I, §§114(a)–(c), (e)(2)–(4), 115, Apr. 2, 1987, 101 Stat. 150–153; Pub. L. 102–240, title I, §1020, Dec. 18, 1991, 105 Stat. 1948; Pub. L. 102–388, title IV, §409, Oct. 6, 1992, 106 Stat. 1565; Pub. L. 105–178, title I, §§1106(c)(1)(B), 1107(b), 1226(b), June 9, 1998, 112 Stat. 136, 137; Pub. L. 105–206, title IX, §9003(a), July 22, 1998, 112 Stat. 837; Pub. L. 109–59, title I, §§1111(a), 1501(b), Aug. 10, 2005, 119 Stat. 1171, 1235.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 897; Pub. L. 89–574, §7(a), Sept. 13, 1966, 80 Stat. 768; Pub. L. 94–280, title I, §117(a), May 5, 1976, 90 Stat. 436; Pub. L. 95–599, title I, §115(a), Nov. 6, 1978, 92 Stat. 2697; Pub. L. 96–106, §5(a), Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–424, title I, §115, Jan. 6, 1983, 96 Stat. 2107; Pub. L. 100–17, title I, §§114(a)–(c), (e)(2)–(4), 115, Apr. 2, 1987, 101 Stat. 150–153; Pub. L. 102–240, title I, §1020, Dec. 18, 1991, 105 Stat. 1948; Pub. L. 102–388, title IV, §409, Oct. 6, 1992, 106 Stat. 1565; Pub. L. 105–178, title I,§§1106(c)(1)(B), 1107(b), 1226(b), June 9, 1998, 112 Stat. 136, 137; Pub. L. 105–206, title IX, §9003(a), July 22, 1998, 112 Stat. 837; Pub. L. 109–59, title I, §§1111(a), 1501(b), Aug. 10, 2005, 119 Stat. 1171, 1235.)
 
 #### References in Text
 
@@ -76,15 +76,15 @@ The date of enactment of the Transportation Equity Act for the 21st Century, ref
 
 #### Amendments
 
-2005—Subsec. (c)(1). Pub. L. 109–59, §1111(a), substituted “$100,000,000 for each of fiscal years 2005 through 2009” for “$50,000,000 in fiscal year 1998 and $100,000,000 in each of fiscal years 1999 through 2003”.
+<b>2005</b>—Subsec. (c)(1). Pub. L. 109–59, §1111(a), substituted “$100,000,000 for each of fiscal years 2005 through 2009” for “$50,000,000 in fiscal year 1998 and $100,000,000 in each of fiscal years 1999 through 2003”.
 
 Subsec. (d). Pub. L. 109–59, §1501(b), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “Any Federal-aid highway funds released by the final payment on a project, or by the modification of the project agreement, shall be credited to the same program funding category previously apportioned to the State and shall be immediately available for expenditure.”
 
-1998—Subsec. (b). Pub. L. 105–178, §1226(b)(1), as added by Pub. L. 105–206, §9003(a), struck out “; Discretionary Projects” after “Availability” in heading.
+<b>1998</b>—Subsec. (b). Pub. L. 105–178, §1226(b)(1), as added by Pub. L. 105–206, §9003(a), struck out “; Discretionary Projects” after “Availability” in heading.
 
 Subsec. (c). Pub. L. 105–178, §1107(b), reenacted heading without change and amended text of subsec. (c) generally. Prior to amendment, text related to set asides for interstate discretionary projects, including set asides for construction projects and for 4R projects.
 
-Subsec. (d). Pub. L. 105–178, §1106(c)(1)(B), which directed the redesignation of subsec. (e) as (d) and thestriking out of former subsec. (d), was executed by redesignating the subsec. (e) added by Pub. L. 105–178, §1226(b)(2) as (d), and striking out former subsec. (d), to reflect the probable intent of Congress. Former subsec. (d) read as follows: “In addition to amounts otherwise available to carry out this section, an amount equal to the amount by which the unobligated apportionment for the Interstate System in any State is reduced under section 103(e)(4) of this title on account of the withdrawal of a route or portion thereof on the Interstate System, which withdrawal is approved after the date of enactment of this subsection, shall be available to the Secretary for obligation in accordance with subsection (b)(1) of this section.”
+Subsec. (d). Pub. L. 105–178, §1106(c)(1)(B), which directed the redesignation of subsec. (e) as (d) and the striking out of former subsec. (d), was executed by redesignating the subsec. (e) added by Pub. L. 105–178, §1226(b)(2) as (d), and striking out former subsec. (d), to reflect the probable intent of Congress. Former subsec. (d) read as follows: “In addition to amounts otherwise available to carry out this section, an amount equal to the amount by which the unobligated apportionment for the Interstate System in any State is reduced under section 103(e)(4) of this title on account of the withdrawal of a route or portion thereof on the Interstate System, which withdrawal is approved after the date of enactment of this subsection, shall be available to the Secretary for obligation in accordance with subsection (b)(1) of this section.”
 
 Subsec. (e). Pub. L. 105–178, §1106(c)(1)(B)(ii), redesignated subsec. (f) as (e). Subsec. (e) as added by Pub. L. 105–178, §1226(b)(2), redesignated (d), to reflect the probable intent of Congress.
 
@@ -92,9 +92,9 @@ Pub. L. 105–178, §1226(b)(2), as added by Pub. L. 105–226, §9003(a), which
 
 Subsec. (f). Pub. L. 105–178, §1106(c)(1)(B)(ii), redesignated subsec. (f) as (e).
 
-1992—Subsec. (b)(1). Pub. L. 102–388 substituted “construction in a State (other than Massachusetts)” for “construction in a State” and “after October 1, 1989” for “before October 1, 1989”.
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–388 substituted “construction in a State (other than Massachusetts)” for “construction in a State” and “after October 1, 1989” for “before October 1, 1989”.
 
-1991—Subsec. (a). Pub. L. 102–240, §1020(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “On and after the date that the Secretary has certified to each State highway department the sums apportioned to each Federal-aid system or part thereof pursuant to an authorization under this title, or under prior Acts, such sums shall be available for expenditure under the provisions of this title.”
+<b>1991</b>—Subsec. (a). Pub. L. 102–240, §1020(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “On and after the date that the Secretary has certified to each State highway department the sums apportioned to each Federal-aid system or part thereof pursuant to an authorization under this title, or under prior Acts, such sums shall be available for expenditure under the provisions of this title.”
 
 Subsec. (b). Pub. L. 102–240, §1020(a), added subsec. (b) and struck out former subsec. (b) which contained provisions relating to periods of availability of non-Interstate funds, Interstate construction funds, and funds for resurfacing, restoring, rehabilitating and reconstructing Interstate System, and provisions deeming obligation of funds as equivalent to expenditure and relating to effect of release of funds.
 
@@ -108,7 +108,7 @@ Subsec. (d). Pub. L. 102–240, §1020(c), substituted “(b)(1)” for “(b)(2
 
 Subsec. (f). Pub. L. 102–240, §1020(d), struck out “on a Federal-aid system” after “roads”.
 
-1987—Pub. L. 100–17, §114(e)(2), substituted “Availability of funds” for “Availability of sums apportioned” in section catchline.
+<b>1987</b>—Pub. L. 100–17, §114(e)(2), substituted “Availability of funds” for “Availability of sums apportioned” in section catchline.
 
 Subsec. (b). Pub. L. 100–17, §114(e)(3)(A), inserted heading.
 
@@ -124,17 +124,17 @@ Subsec. (c). Pub. L. 100–17, §114(b), (e)(4), inserted heading, designated ex
 
 Subsec. (f). Pub. L. 100–17, §115, inserted “and the Commonwealth of Puerto Rico” after “the State of Alaska”.
 
-1983—Subsec. (b). Pub. L. 97–424, §115(a), designated existing provisions as pars. (1) through (4), in par. (2) as so designated, substituted “for projects on the Interstate System (other than projects for which sums are apportioned under section 104(b)(5)(B)) in accordance with the following priorities: First, for high cost projects which directly contribute to the completion of an Interstate segment which is not open to traffic; and second, for projects of high cost in relation to a State's apportionment. Sums may only be made available under this paragraph in any State” for “to any other State applying for such funds for the Interstate System,” after “available by the Secretary”, struck out former cl. (1), which had required readiness to obligate funds within one year of the date the funds are made available, redesignated former cls. (2) and (3) as (A) and (B), respectively; and in par. (3) as so designated, struck out “and any amounts so apportioned remaining unexpended at the end of such period shall lapse” after “such sums are authorized”, inserted provision relating to the disposition of funds not obligated within the prescribed time period, and inserted further provision that sums made available under this paragraph shall remain available until expended.
+<b>1983</b>—Subsec. (b). Pub. L. 97–424, §115(a), designated existing provisions as pars. (1) through (4), in par. (2) as so designated, substituted “for projects on the Interstate System (other than projects for which sums are apportioned under section 104(b)(5)(B)) in accordance with the following priorities: First, for high cost projects which directly contribute to the completion of an Interstate segment which is not open to traffic; and second, for projects of high cost in relation to a State's apportionment. Sums may only be made available under this paragraph in any State” for “to any other State applying for such funds for the Interstate System,” after “available by the Secretary”, struck out former cl. (1), which had required readiness to obligate funds within one year of the date the funds are made available, redesignated former cls. (2) and (3) as (A) and (B), respectively; and in par. (3) as so designated, struck out “and any amounts so apportioned remaining unexpended at the end of such period shall lapse” after “such sums are authorized”, inserted provision relating to the disposition of funds not obligated within the prescribed time period, and inserted further provision that sums made available under this paragraph shall remain available until expended.
 
 Subsecs. (c) to (f). Pub. L. 97–424, §115(b), added subsecs. (c) and (d) and redesignated former subsecs. (c) and (d) as (e) and (f), respectively.
 
-1979—Subsec. (b). Pub. L. 96–106 substituted “shall continue to be available for expenditure in that State for a period of two years after the close of the fiscal year for which such sums are authorized and any amounts so apportioned remaining unexpended at the end of such period shall lapse” for “remaining unexpended at the end of the period of its availability shall lapse”.
+<b>1979</b>—Subsec. (b). Pub. L. 96–106 substituted “shall continue to be available for expenditure in that Statefor a period of two years after the close of the fiscal year for which such sums are authorized and any amounts so apportioned remaining unexpended at the end of such period shall lapse” for “remaining unexpended at the end of the period of its availability shall lapse”.
 
-1978—Subsec. (b). Pub. L. 95–599 substituted provisions relating to the availability of funds until the end of the fiscal year for provisions relating to the availability of funds until two years after the close of the fiscal year and substituted provisions establishing requirements for eligibility for funds for provisions calling for immediate reapportionment of unexpended funds.
+<b>1978</b>—Subsec. (b). Pub. L. 95–599 substituted provisions relating to the availability of funds until the end of the fiscal year for provisions relating to the availability of funds until two years after the close of the fiscal year and substituted provisions establishing requirements for eligibility for funds for provisions calling for immediate reapportionment of unexpended funds.
 
-1976—Subsec. (b). Pub. L. 94–280, in revising text, provided for a separate three year period of availability of sums apportioned to a Federal-aid system (other than the Interstate System), increased from the previously applicable two year period; continued the existing two year period for sums apportioned to the Interstate System; substituted provision for reapportionment of sums, apportioned to the States for the Interstate System under section 104(b)(4)(A), under section 104(b)(5)(A) of this title and for lapse of sums apportioned to the Interstate System under section 104(b)(4)(B) of this title for prior provision for reapportionment of sums, apportioned to the States for the Interstate System under section 104(b)(4) and (5), under section 104(b)(5) of this title; and substituted provisions deeming there to be an expenditure of sums apportioned to a Federal-aid system if a sum equal to the total of the sums apportioned to the State for the fiscal year and previous fiscal years is obligated for prior provision deeming an expenditure to exist if a sum equal to the total of the sums apportioned to the States forthe fiscal year and previous fiscal years is covered by formal project agreements providing for the expenditure of funds authorized by each Act which contains provisions authorizing the appropriation of funds for Federal-aid highways.
+<b>1976</b>—Subsec. (b). Pub. L. 94–280, in revising text, provided for a separate three year period of availability of sums apportioned to a Federal-aid system (other than the Interstate System), increased from the previously applicable two year period; continued the existing two year period for sums apportioned to the Interstate System; substituted provision for reapportionment of sums, apportioned to the States for the Interstate System under section 104(b)(4)(A), under section 104(b)(5)(A) of this title and for lapse of sums apportioned to the Interstate System under section 104(b)(4)(B) of this title for prior provision for reapportionment of sums, apportioned to the States for the Interstate System under section 104(b)(4) and (5), under section 104(b)(5) of this title; and substituted provisions deeming there to be an expenditure of sums apportioned to a Federal-aid system if a sum equal to the total of the sums apportioned to the State for the fiscal year and previous fiscal years is obligated for prior provision deeming an expenditure to exist if a sum equal to the total of the sums apportioned to the States for the fiscal year and previous fiscal years is covered by formal project agreements providing for the expenditure of funds authorized by each Act which contains provisions authorizing the appropriation of funds for Federal-aid highways.
 
-1966—Subsec. (d). Pub. L. 89–574 added subsec. (d).
+<b>1966</b>—Subsec. (d). Pub. L. 89–574 added subsec. (d).
 
 #### Effective Date of 1998 Amendment
 
@@ -246,7 +246,7 @@ In general.—Notwithstanding the original source or period of availability of e
 
 &emsp;&emsp;“(A) shall remain available for obligation for a period of 3 fiscal years after the fiscal year in which this Act is enacted; and
 
-&emsp;&emsp;“(B) except as provided in paragraph (2), shall be subject to the requirements of title 23, United States Code, that apply to section 133 of that title, including provisions relating to Federal share.
+&emsp;&emsp;“(B) except as provided in paragraph (2), shall be subject to the requirements of title 23, UnitedStates Code, that apply to section 133 of that title, including provisions relating to Federal share.
 
 &emsp;“(2)
 

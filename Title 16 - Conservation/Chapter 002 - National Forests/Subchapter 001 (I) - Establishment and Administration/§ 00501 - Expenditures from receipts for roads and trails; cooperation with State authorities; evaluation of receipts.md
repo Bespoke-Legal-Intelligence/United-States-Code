@@ -18,7 +18,7 @@ July 1, 1941, ch. 267, 55 Stat. 423.
 
 #### Amendments
 
-1944—Act Sept. 21, 1944, inserted sentence relating to stumpage value of the timber.
+<b>1944</b>—Act Sept. 21, 1944, inserted sentence relating to stumpage value of the timber.
 
 #### Savings Provision
 

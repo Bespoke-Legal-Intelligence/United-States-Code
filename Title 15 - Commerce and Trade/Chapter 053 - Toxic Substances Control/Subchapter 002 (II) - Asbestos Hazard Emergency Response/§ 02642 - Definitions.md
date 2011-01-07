@@ -92,9 +92,9 @@ The Defense Dependents’ Education Act of 1978, referred to in par. (7)(C), is 
 
 #### Amendments
 
-2002—Pars. (7)(A), (9), (12). Pub. L. 107–110 substituted “7801” for “8801”.
+<b>2002</b>—Pars. (7)(A), (9), (12). Pub. L. 107–110 substituted “7801” for “8801”.
 
-1994—Pars. (7)(A), (9), (12). Pub. L. 103–382 made technical amendment to reference to section 8801 of title 20 to reflect change in reference to corresponding section of original act.
+<b>1994</b>—Pars. (7)(A), (9), (12). Pub. L. 103–382 made technical amendment to reference to section 8801 of title 20 to reflect change in reference to corresponding section of original act.
 
 #### Effective Date of 2002 Amendment
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibition.—Except as provided in subsection (b) or (f) of this section and section 47530 of this title, a person may operate after December 31, 1999, a civil subsonic turbojet (for which an airworthiness certificate other than an experimental certificate has been issued by the Administrator) with a maximum weight of more than 75,000 pounds to or from an airport in the United States only if the Secretary of Transportation finds that the aircraft complies with the stage 3 noise levels.
+Prohibition.—Except as provided in subsection (b) or (f) of this section and section 47530 of this title, a person may operate after December 31, 1999, a civil subsonic turbojet (for which an airworthiness certificate other than anexperimental certificate has been issued by the Administrator) with a maximum weight of more than 75,000 pounds to or from an airport in the United States only if the Secretary of Transportation finds that the aircraft complies with the stage 3 noise levels.
 
 (b)
 
@@ -32,7 +32,7 @@ Schedule for Phased-In Compliance.—The Secretary shall establish by regulation
 
 Annual Report.—Beginning with calendar year 1992—
 
-&emsp;(1) each air carrier shall submit to the Secretary an annual report on the progress thecarrier is making toward complying with the requirements of this section and regulations prescribed under this section; and
+&emsp;(1) each air carrier shall submit to the Secretary an annual report on the progress the carrier is making toward complying with the requirements of this section and regulations prescribed under this section; and
 
 &emsp;(2) the Secretary shall submit to Congress an annual report on the progress being made toward that compliance.
 
@@ -130,7 +130,7 @@ The date of the enactment of this subsection, referred to in subsec. (f)(2), is 
 
 #### Amendments
 
-2000—Pub. L. 106–181, §721(a), repealed Pub. L. 106–113, §1000(a)(5) \[title II, §231\]. See 1999 Amendment notes and Construction of 2000 Amendment note below.
+<b>2000</b>—Pub. L. 106–181, §721(a), repealed Pub. L. 106–113, §1000(a)(5) \[title II, §231\]. See 1999 Amendment notes and Construction of 2000 Amendment note below.
 
 Subsec. (a). Pub. L. 106–181, §721(b)(1), (c)(1), substituted “subsection (b) or (f)” for “subsection (b)” and inserted “(for which an airworthiness certificate other than an experimental certificate has been issued by the Administrator)” after “civil subsonic turbojet”.
 
@@ -140,7 +140,7 @@ Subsec. (e)(4). Pub. L. 106–181, §721(b)(2), added par. (4).
 
 Subsecs. (f), (g). Pub. L. 106–181, §721(b)(3), added subsecs. (f) and (g).
 
-1999—Pub. L. 106–113, §1000(a)(5) \[title II, §231(a)\], which directed the amendment of section 47528 by substituting “subsection (b) or (f)” for “subsection (b)” in subsec. (a), adding a par. (4) to subsec. (e), and adding subsec. (f) at the end, without specifying the Code title to be amended, was repealed by Pub. L. 106–181, §721(a). See Construction of 2000 Amendment note below.
+<b>1999</b>—Pub. L. 106–113, §1000(a)(5) \[title II, §231(a)\], which directed the amendment of section 47528 by substituting “subsection (b) or (f)” for “subsection (b)” in subsec. (a), adding a par. (4) to subsec. (e), and adding subsec. (f) at the end, without specifying the Code title to be amended, was repealed by Pub. L. 106–181, §721(a). See Construction of 2000 Amendment note below.
 
 Subsec. (a). Pub. L. 106–113, §1000(a)(5) \[title II, §231(b)(1)\], which inserted “(for which an airworthiness certificate other than an experimental certificate has been issued by the Administrator)” after “civil subsonic turbojet”, was repealed by Pub. L. 106–181, §721(a). See Construction of 2000 Amendment note below.
 

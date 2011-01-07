@@ -64,7 +64,7 @@ Streamlining and Simplification.—The Secretary shall streamline and simplify, 
 
 #### Historical and Revision Notes
 
-I74Pub. L. 105–102
+#### Pub. L. 105–102
 
 This amends 49:14123(c)(2)(B) to correct a grammatical error.
 
@@ -74,5 +74,5 @@ Provisions similar to those in this section were contained in section 11145 of t
 
 #### Amendments
 
-1997—Subsec. (c)(2)(B). Pub. L. 105–102 inserted “in” before “no event”.
+<b>1997</b>—Subsec. (c)(2)(B). Pub. L. 105–102 inserted “in” before “no event”.
 

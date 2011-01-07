@@ -46,11 +46,11 @@ The Congress authorizes and directs that, to the fullest extent possible: (1) th
 
 #### Amendments
 
-1975—Subpars. (D) to (I). Pub. L. 94–83 added subpar. (D) and redesignated former subpars. (D) to (H) as (E) to (I), respectively.
+<b>1975</b>—Subpars. (D) to (I). Pub. L. 94–83 added subpar. (D) and redesignated former subpars. (D) to (H) as (E) to (I), respectively.
 
 #### Certain Commercial Space Launch Activities
 
-Pub. L. 104–88, title IV, §401, Dec. 29, 1995, 109 Stat. 955, provided that: “The licensing of a launch vehicle or launch site operator (including any amendment, extension, or renewal of the license) under chapter 701 of title 49, United States Code, shall not be considered amajor Federal action for purposes of section 102(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(C)) if—
+Pub. L. 104–88, title IV, §401, Dec. 29, 1995, 109 Stat. 955, provided that: “The licensing of a launch vehicle or launch site operator (including any amendment, extension, or renewal of the license) under \[former\] chapter 701 of title 49, United States Code \[now chapter 509 (§50901 et seq.) of Title 51, National and Commercial Space Programs\], shall not be considered a major Federal action for purposes of section 102(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(C)) if—
 
 &emsp;“(1) the Department of the Army has issued a permit for the activity; and
 

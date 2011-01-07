@@ -42,7 +42,7 @@ In subsec. (a), “December 22, 1987” substituted for “the effective date of
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–183, §708(c), inserted “or to any other individual” after “to the legal representatives of any child”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–183, §708(c), inserted “or to any other individual” after “to the legal representatives of any child”.
 
 Subsec. (b). Pub. L. 103–183, §708(a), struck out “by rule” after “revised” in introductory provisions and substituted “and 60” for “, opportunity for a public hearing, and 90” in par. (1).
 
@@ -74,15 +74,15 @@ Subsec. (c). Pub. L. 103–183, §708(b), inserted in introductory provisions �
 
 Subsec. (d). Pub. L. 103–183, §708(c), (d), in concluding provisions, inserted “or to any other individual” after “to the legal representatives of any child”, substituted “supplemented with visual presentations or oral explanations, in appropriate cases” for “or other written information which meets the requirements of this section”, and struck out “or other information” after “Such materials”.
 
-1992—Subsec. (b)(2). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Subsec. (b)(2). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
-1989—Subsec. (c)(9). Pub. L. 101–239 amended par. (9) generally. Prior to amendment, par. (9) read as follows: “a summary of relevant State and Federal laws concerning the vaccine, including information on—
+<b>1989</b>—Subsec. (c)(9). Pub. L. 101–239 amended par. (9) generally. Prior to amendment, par. (9) read as follows: “a summary of relevant State and Federal laws concerning the vaccine, including information on—
 
 &emsp;“(A) the number of vaccinations required for school attendance and the schedule recommended for such vaccinations, and
 
 &emsp;“(B) the availability of the Program, and”.
 
-1987—Subsec. (a). Pub. L. 100–203 substituted “effective date of this subpart” for “effective date of this part”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–203 substituted “effective date of this subpart” for “effective date of this part”.
 
 #### Effective Date of 1989 Amendment
 

@@ -88,7 +88,7 @@ For purposes of this section—
 
 #### (1) Agreement to treat corporation as agent
 
-&emsp;The rules of paragraph (3) shall apply to any transaction between the reporting corporation and any related party who is a foreign person unless such related party agrees (in such manner and at such time as the Secretary shall prescribe) to authorize the reporting corporation to act as such related party's limited agent solely for purposes of applying sections 7602, 7603, and 7604 with respect to any request by the Secretary to examine records or produce testimony related to any such transaction or with respect to any summons by the Secretary for such records or testimony. The appearance of persons or production of records by reason of the reporting corporation being such an agent shall not subject such persons or records to legal process for any purposeother than determining the correct treatment under this title of any transaction between the reporting corporation and such related party.
+&emsp;The rules of paragraph (3) shall apply to any transaction between the reporting corporation and any related party who is a foreign person unless such related party agrees (in such manner and at such time as the Secretary shall prescribe) to authorize the reporting corporation to act as such related party's limited agent solely for purposes of applying sections 7602, 7603, and 7604 with respect to any request by the Secretary to examine records or produce testimony related to any such transaction or with respect to any summons by the Secretary for such records or testimony. The appearance of persons or production of records by reason of the reporting corporation being such an agent shall not subject such persons or records to legal process for any purpose other than determining the correct treatment under this title of any transaction between the reporting corporation and such related party.
 
 #### (2) Rules where information not furnished
 
@@ -138,15 +138,15 @@ For purposes of this section—
 
 #### Amendments
 
-1996—Subsec. (b)(2) to (4). Pub. L. 104–188, §1704(f)(5)(B), inserted “and” at end of par. (2), substituted a period for “, and” at end of par. (3), and struck out par. (4) which read as follows: “such information as the Secretary may require for purposes of carrying out the provisions of section 453C.”
+<b>1996</b>—Subsec. (b)(2) to (4). Pub. L. 104–188, §1704(f)(5)(B), inserted “and” at end of par. (2), substituted a period for “, and” at end of par. (3), and struck out par. (4) which read as follows: “such information as the Secretary may require for purposes of carrying out the provisions of section 453C.”
 
 Subsec. (e)(4)(D). Pub. L. 104–188, §1702(c)(5), substituted “any affected taxable year” for “any transaction to which the summons relates” and inserted at end “For purposes of this subparagraph, the term ‘affected taxable year’ means any taxable year if the determination of the amount of tax imposed for such taxable year is affected by the treatment of the transaction to which the summons relates.”
 
-1990—Subsec. (a)(1). Pub. L. 101–508, §11315(b)(1), struck out “or is a foreign corporation engaged in trade or business within the United States” after “corporation”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–508, §11315(b)(1), struck out “or is a foreign corporation engaged in trade or business within the United States” after “corporation”.
 
 Subsec. (c)(3) to (6). Pub. L. 101–508, §11704(a)(23), redesignated pars. (4) to (6) as (3) to (5), respectively.
 
-1989—Subsec. (a). Pub. L. 101–239, §7403(b), inserted before period at end “and such corporation shall maintain (in the location, in the manner, and to the extent prescribed in regulations) such records as may be appropriate to determine the correct treatment of transactions with related parties as the Secretary shall by regulations prescribe (or shall cause another person to so maintain such records)”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7403(b), inserted before period at end “and such corporation shall maintain (in the location, in the manner, and to the extent prescribed in regulations) such records as may be appropriate to determine the correct treatment of transactions with related parties as the Secretary shall by regulations prescribe (or shall cause another person to so maintain such records)”.
 
 Subsec. (a)(2). Pub. L. 101–239, §7403(a)(1), amended par. (2) generally, substituting “is 25-percent foreign-owned,” for “is controlled by a foreign person,”.
 
@@ -156,7 +156,7 @@ Subsec. (d). Pub. L. 101–239, §7403(c), inserted “or maintain records” af
 
 Subsecs. (e), (f). Pub. L. 101–239, §7403(d), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1986—Subsec. (b)(1). Pub. L. 99–514, §1245(a), substituted “each person” for “each corporation” in introductory provisions and amended subpar. (A) generally, substituting “related party to the reporting corporation” for “member of the same controlled group as the reporting corporation”.
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–514, §1245(a), substituted “each person” for “each corporation” in introductory provisions and amended subpar. (A) generally, substituting “related party to the reporting corporation” for “member of the same controlled group as the reporting corporation”.
 
 Subsec. (b)(2). Pub. L. 99–514, §1245(b)(1), substituted “each person” for “each corporation”.
 
@@ -174,9 +174,9 @@ Subsec. (c)(2). Pub. L. 99–514, §1245(b)(4), amended par. (2) generally. Prio
 
 &emsp;“(B) the determination shall be made without regard to subsections (a)(4), (b)(2)(C), and (e)(3)(C) of section 1563.”
 
-1984—Subsec. (c)(1). Pub. L. 98–369 substituted section “6038(e)(1)” for “6038(d)(1)”.
+<b>1984</b>—Subsec. (c)(1). Pub. L. 98–369 substituted section “6038(e)(1)” for “6038(d)(1)”.
 
-1983—Subsec. (c)(2)(B). Pub. L. 97–448 inserted “, (b)(2)(C),” after “(a)(4)”.
+<b>1983</b>—Subsec. (c)(2)(B). Pub. L. 97–448 inserted “, (b)(2)(C),” after “(a)(4)”.
 
 #### Effective Date of 1996 Amendment
 
@@ -236,5 +236,5 @@ General Rule.—The amendments made by section 7403 of the Revenue Reconciliatio
 
 “(b)
 
-Continuation of Old Failures.—In the case of any failure with respect to a taxable year beginning onor before July 10, 1989, which first occurs on or before the date of the enactment of this Act \[Nov. 5, 1990\] but which continues after such date of enactment, section 6038A(d)(2) of the Internal Revenue Code of 1986 (as amended by subsection (c) of such section 7403) shall apply for purposes of determining the amount of the penalty imposed for 30-day periods referred to in such section 6038A(d)(2) which begin after the date of the enactment of this Act.”
+Continuation of Old Failures.—In the case of any failure with respect to a taxable year beginning on or before July 10, 1989, which first occurs on or before the date of the enactment of this Act \[Nov. 5, 1990\] but which continues after such date of enactment, section 6038A(d)(2) of the Internal Revenue Code of 1986 (as amended by subsection (c) of such section 7403) shall apply for purposes of determining the amount of the penalty imposed for 30-day periods referred to in such section 6038A(d)(2) which begin after the date of the enactment of this Act.”
 

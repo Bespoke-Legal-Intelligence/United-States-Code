@@ -30,7 +30,7 @@ In subsection (a), the words “or the date of the promotion, whichever is later
 
 #### Amendments
 
-1994—Pub. L. 103–337 substituted “National Guard officers:” for “officers: Army National Guard;” in section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>1994</b>—Pub. L. 103–337 substituted “National Guard officers:” for “officers: Army National Guard;” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a) Notwithstanding sections 307 and 309 of this title, if a second lieutenant of the Army National Guard is promoted to the grade of first lieutenant to fill a vacancy in a federally recognized unit thereof, Federal recognition is automatically extended to him in the grade of first lieutenant, effective as of the date on which he completes three years of service computed under section 3360(a) of title 10.
 

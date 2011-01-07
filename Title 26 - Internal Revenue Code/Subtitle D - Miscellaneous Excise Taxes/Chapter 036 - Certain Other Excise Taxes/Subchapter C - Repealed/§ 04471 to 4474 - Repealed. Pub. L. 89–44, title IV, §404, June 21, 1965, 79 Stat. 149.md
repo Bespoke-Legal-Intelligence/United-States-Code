@@ -1,6 +1,6 @@
 ### \[§§4471 to 4474. Repealed. Pub. L. 89–44, title IV, §404, June 21, 1965, 79 Stat. 149\]
 
-Section 4471, act Aug. 16, 1954, ch. 736, 68A Stat. 532, imposed a $20 annual tax upon bowling alleys, billiardtables, and pool tables to be paid by operators of bowling alleys, billiard rooms, and pool rooms.
+Section 4471, act Aug. 16, 1954, ch. 736, 68A Stat. 532, imposed a $20 annual tax upon bowling alleys, billiard tables, and pool tables to be paid by operators of bowling alleys, billiard rooms, and pool rooms.
 
 Section 4472, act Aug. 16, 1954, ch. 736, 68A Stat. 532, defined bowling alley, billiard room, and pool room.
 

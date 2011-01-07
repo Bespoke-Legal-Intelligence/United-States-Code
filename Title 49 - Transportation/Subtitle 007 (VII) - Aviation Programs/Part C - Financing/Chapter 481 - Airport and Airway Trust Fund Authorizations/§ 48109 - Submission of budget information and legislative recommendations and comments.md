@@ -24,5 +24,5 @@ The words “Director of the Office of Management and Budget” are substituted 
 
 #### Amendments
 
-1996—Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+<b>1996</b>—Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
 

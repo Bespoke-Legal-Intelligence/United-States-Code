@@ -44,7 +44,7 @@ The separate affiliate required by this section—
 
 In its dealings with its affiliate described in subsection (a) of this section, a Bell operating company—
 
-&emsp;(1) may not discriminate between that company or affiliate and any other entity in the provision or procurement of goods, services,facilities, and information, or in the establishment of standards; and
+&emsp;(1) may not discriminate between that company or affiliate and any other entity in the provision or procurement of goods, services, facilities, and information, or in the establishment of standards; and
 
 &emsp;(2) shall account for all transactions with an affiliate described in subsection (a) of this section in accordance with accounting principles designated or approved by the Commission.
 
@@ -64,7 +64,7 @@ In its dealings with its affiliate described in subsection (a) of this section, 
 
 &emsp;&emsp;(A) the independent auditor, the Commission, and the State commission shall have access to the financial accounts and records of each company and of its affiliates necessary to verify transactions conducted with that company that are relevant to the specific activities permitted under this section and that are necessary for the regulation of rates;
 
-&emsp;&emsp;(B) the Commission and the State commission shall have access to the working papers and supporting materials of any auditor who performs an audit under this section; and
+&emsp;&emsp;(B) the Commission and the State commission shall have access to the working papersand supporting materials of any auditor who performs an audit under this section; and
 
 &emsp;&emsp;(C) the State commission shall implement appropriate procedures to ensure the protection of any proprietary information submitted to it under this section.
 

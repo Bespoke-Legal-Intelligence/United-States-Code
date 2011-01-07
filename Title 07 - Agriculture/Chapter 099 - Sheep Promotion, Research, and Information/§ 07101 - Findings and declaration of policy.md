@@ -90,7 +90,7 @@ Availability of Amounts from Trust Fund.—From amounts available in the Trust F
 
 “(e)
 
-Reports to Congress.—The Secretary of the Treasury, in consultation with the Secretary of Agriculture, shall prepare and submit to Congress an annual report on the financial condition and the results of the operations of the Trust Fund, including a description of the use of amounts of grants provided under subsection (d), during the preceding fiscal year and on its expected condition and operations during the next fiscal year.
+Reports to Congress.—The Secretary of the Treasury, in consultation with the Secretary of Agriculture, shall prepare and submit to Congress an annual report on the financial condition and the results of the operations of the Trust Fund, including a description of the use of amounts of grants provided under subsection (d), during the preceding fiscal yearand on its expected condition and operations during the next fiscal year.
 
 “(f)
 

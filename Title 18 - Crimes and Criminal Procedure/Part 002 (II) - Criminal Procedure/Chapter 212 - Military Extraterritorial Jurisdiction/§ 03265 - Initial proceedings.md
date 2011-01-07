@@ -6,7 +6,7 @@
 
 &emsp;(B) may be carried out by telephony or such other means that enables voice communication among the participants, including any counsel representing the person.
 
-(2) In conducting the initial appearance, the Federal magistrate judge shall also determine whether there is probable cause to believe thatan offense under section 3261(a) was committed and that the person committed it.
+(2) In conducting the initial appearance, the Federal magistrate judge shall also determine whether there is probable cause to believe that an offense under section 3261(a) was committed and that the person committed it.
 
 (3) If the Federal magistrate judge determines that probable cause exists that the person committed an offense under section 3261(a), and if no motion is made seeking the person's detention before trial, the Federal magistrate judge shall also determine at the initial appearance the conditions of the person's release before trial under chapter 207 of this title.
 

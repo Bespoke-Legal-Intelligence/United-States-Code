@@ -16,5 +16,5 @@ The Council is authorized—
 
 #### Amendments
 
-1988—Par. (4). Pub. L. 100–418 substituted “nonreimbursable” for “reimbursable”.
+<b>1988</b>—Par. (4). Pub. L. 100–418 substituted “nonreimbursable” for “reimbursable”.
 

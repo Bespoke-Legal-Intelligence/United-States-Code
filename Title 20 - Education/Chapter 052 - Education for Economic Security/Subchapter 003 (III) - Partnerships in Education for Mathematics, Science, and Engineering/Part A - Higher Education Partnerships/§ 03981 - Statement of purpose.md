@@ -12,7 +12,7 @@ It is the purpose of this part to supplement State and local resources to—
 
 #### Amendments
 
-1988—Pub. L. 100–418 substituted “part” for “subchapter” in introductory text.
+<b>1988</b>—Pub. L. 100–418 substituted “part” for “subchapter” in introductory text.
 
 #### Short Title
 

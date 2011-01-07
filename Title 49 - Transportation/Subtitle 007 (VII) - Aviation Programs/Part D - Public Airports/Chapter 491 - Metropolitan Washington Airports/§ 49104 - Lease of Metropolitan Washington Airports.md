@@ -156,9 +156,9 @@ A prior section 49104 was renumbered section 50104 of this title.
 
 #### Amendments
 
-2000—Subsec. (a)(5)(D). Pub. L. 106–181 added subpar. (D).
+<b>2000</b>—Subsec. (a)(5)(D). Pub. L. 106–181 added subpar. (D).
 
-1998—Subsec. (a)(5)(C), (9)(A), (B). Pub. L. 105–154 substituted “Ronald Reagan Washington National Airport” for “Washington National Airport” wherever appearing.
+<b>1998</b>—Subsec. (a)(5)(C), (9)(A), (B). Pub. L. 105–154 substituted “Ronald Reagan Washington National Airport” for “Washington National Airport” wherever appearing.
 
 #### Effective Date of 2000 Amendment
 

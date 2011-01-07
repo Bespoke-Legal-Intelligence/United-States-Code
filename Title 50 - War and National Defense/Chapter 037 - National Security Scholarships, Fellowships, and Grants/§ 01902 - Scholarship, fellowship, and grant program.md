@@ -52,7 +52,7 @@
 
 #### (4) Contract authority
 
-&emsp;The Secretary may enter into one or more contracts, with private national organizations having an expertise in foreign languages, area studies, counterproliferation studies, and other international fields, for the awarding of the scholarships, fellowships, and grants described in paragraph (1) in accordance with the provisions of this chapter. The Secretary may enter into such contracts without regard to section 5 of title 41 or any other provision of law that requires the use of competitive procedures. In addition, the Secretary may enter into personal service contracts for periods up to one year for program administration, except that not more than 10 such contracts may be in effect at any one time.
+&emsp;The Secretary may enter into one or more contracts, with private national organizations having an expertise in foreign languages, areastudies, counterproliferation studies, and other international fields, for the awarding of the scholarships, fellowships, and grants described in paragraph (1) in accordance with the provisions of this chapter. The Secretary may enter into such contracts without regard to section 6101 of title 41 or any other provision of law that requires the use of competitive procedures. In addition, the Secretary may enter into personal service contracts for periods up to one year for program administration, except that not more than 10 such contracts may be in effect at any one time.
 
 #### (b) Service agreement
 
@@ -76,7 +76,7 @@ In awarding a scholarship or fellowship under the program, the Secretary or cont
 
 &emsp;&emsp;(iii) for not less than one academic year in a position in the field of education in a discipline related to the study supported by the program if the recipient demonstrates to the Secretary of Defense that no position is available in the departments, agencies, and offices covered by clauses (i) and (ii); and
 
-&emsp;(3) if the recipient fails to meet either of the obligations set forth in paragraph (1) or (2), will reimburse the United States Governmentfor the amount of the assistance provided the recipient under the program, together with interest at a rate determined in accordance with regulations issued by the Secretary.
+&emsp;(3) if the recipient fails to meet either of the obligations set forth in paragraph (1) or (2), will reimburse the United States Government for the amount of the assistance provided the recipient under the program, together with interest at a rate determined in accordance with regulations issued by the Secretary.
 
 #### (c) Evaluation of progress in language skills
 
@@ -144,7 +144,7 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 &emsp;(i) to continue in the service of the department or agency of the Federal Government employing the employee for the period of such training;
 
-&emsp;(ii) to continue in the service of such department or agency, following completion by the employee of such training, for a period of two years for each year, or part of the year, of such training;
+&emsp;(ii) to continue in the service of such department or agency, following completion by theemployee of such training, for a period of two years for each year, or part of the year, of such training;
 
 &emsp;(iii) if, before the completion by the employee of such training, the employment of the employee is terminated by such department or agency due to misconduct by the employee, or by the employee voluntarily, to reimburse the United States for the total cost of such training (excluding the employee's pay and allowances) provided to the employee; and
 
@@ -164,23 +164,27 @@ The Secretary of Defense, the Secretary of Homeland Security, the Secretary of S
 
 (Pub. L. 102–183, title VIII, §802, Dec. 4, 1991, 105 Stat. 1271; Pub. L. 102–496, title IV, §404(b), (c), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 103–178, title III, §311(b)(2), (d), Dec. 3, 1993, 107 Stat. 2037; Pub. L. 104–201, div. A, title X, §1078(b)–(d), (f)(2), Sept. 23, 1996, 110 Stat. 2664–2666; Pub. L. 105–272, title III, §305(a)(2), Oct. 20, 1998, 112 Stat. 2400; Pub. L. 107–296, title XIII, §1332(b), Nov. 25, 2002, 116 Stat. 2300; Pub. L. 107–306, title III, §§332, 333(a)(1)–(3), Nov. 27, 2002, 116 Stat. 2395, 2396; Pub. L. 108–136, div. A, title IX, §925(a), Nov. 24, 2003, 117 Stat. 1578; Pub. L. 108–487, title VI, §§601(b), 602(a)(1), 603(a)(1), (2), Dec. 23, 2004, 118 Stat. 3952–3954; Pub. L. 109–364, div. A, title IX, §945(a), (b), Oct. 17, 2006, 120 Stat. 2367; Pub. L. 110–181, div. A, title IX, §953, Jan. 28, 2008, 122 Stat. 292; Pub. L. 111–84, div. A, title XI, §1101, Oct. 28, 2009, 123 Stat. 2484.)
 
+#### Codification
+
+In subsec. (a)(4), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-2009—Subsec. (k). Pub. L. 111–84 added subsec. (k).
+<b>2009</b>—Subsec. (k). Pub. L. 111–84 added subsec. (k).
 
-2008—Subsec. (b)(2)(A)(iii). Pub. L. 110–181, §953(1), added cl. (iii).
+<b>2008</b>—Subsec. (b)(2)(A)(iii). Pub. L. 110–181, §953(1), added cl. (iii).
 
 Subsec. (b)(2)(B)(iii). Pub. L. 110–181, §953(2), added cl. (iii).
 
-2006—Subsec. (b)(2). Pub. L. 109–364, §945(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “will—
+<b>2006</b>—Subsec. (b)(2). Pub. L. 109–364, §945(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “will—
 
-&emsp;“(A) in the case of a recipient of a scholarship, after the recipient's completion of the study for whichscholarship assistance was provided under the program, work in a position in the Department of Defense or other element of the intelligence community that is certified by the Secretary as appropriate to utilize the unique language and region expertise acquired by the recipient pursuant to such study for a period specified by the Secretary, which period shall include one year of service for each year, or portion thereof, for which such scholarship assistance was provided; or
+&emsp;“(A) in the case of a recipient of a scholarship, after the recipient's completion of the study for which scholarship assistance was provided under the program, work in a position in the Department of Defense or other element of the intelligence community that is certified by the Secretary as appropriate to utilize the unique language and region expertise acquired by the recipient pursuant to such study for a period specified by the Secretary, which period shall include one year of service for each year, or portion thereof, for which such scholarship assistance was provided; or
 
 &emsp;“(B) in the case of a recipient of a fellowship, after the recipient's completion of the study for which the fellowship assistance was provided under the program, work in a position described in subparagraph (A) that is certified by the Secretary as appropriate to utilize the unique language and region expertise acquired by the recipient pursuant to such study for a period specified by the Secretary, which period shall (at the discretion of the Secretary) include not less than one nor more than three years for each year, or portion thereof, for which such fellowship assistance was provided; and”.
 
 Subsecs. (h) to (j). Pub. L. 109–364, §945(b), added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 
-2004—Subsec. (a)(1)(E). Pub. L. 108–487, §603(a)(1), added subpar. (E).
+<b>2004</b>—Subsec. (a)(1)(E). Pub. L. 108–487, §603(a)(1), added subpar. (E).
 
 Subsec. (a)(2). Pub. L. 108–487, §603(a)(2), which directed the amendment of the matter following par. (2) by inserting in the first sentence “or for the scholarship program under paragraph (1)(E)” after “under paragraph (1)(D) for the National Flagship Language Initiative described in subsection (i) of this section” and by inserting at end “For the authorization of appropriations for the scholarship program under paragraph (1)(E), see section 1912 of this title.”, was executed to the concluding provisions of par. (2) to reflect the probable intent of Congress.
 
@@ -188,9 +192,9 @@ Pub. L. 108–487, §601(b), in introductory provisions, inserted “or from a t
 
 Subsecs. (i)(5), (6). Pub. L. 108–487, §602(a)(1), added pars. (5) and (6).
 
-2003—Subsec. (b)(2). Pub. L. 108–136 added subpars. (A) and (B) and struck out former subpars. (A) and (B) which also contained provisions relating to recipients of scholarships and fellowships, respectively.
+<b>2003</b>—Subsec. (b)(2). Pub. L. 108–136 added subpars. (A) and (B) and struck out former subpars. (A) and (B) which also contained provisions relating to recipients of scholarships and fellowships, respectively.
 
-2002—Subsec. (a)(1)(D). Pub. L. 107–306, §333(a)(1), added subpar. (D).
+<b>2002</b>—Subsec. (a)(1)(D). Pub. L. 107–306, §333(a)(1), added subpar. (D).
 
 Subsec. (a)(2). Pub. L. 107–306, §333(a)(3), inserted at end “The funding allocation under this paragraph shall not apply to grants under paragraph (1)(D) for the National Flagship Language Initiative described in subsection (i) of this section. For the authorization of appropriations for the National Flagship Language Initiative, see section 1911 of this title.”
 
@@ -202,11 +206,11 @@ Subsec. (h). Pub. L. 107–306, §332, added subsec. (h).
 
 Subsec. (i). Pub. L. 107–306, §333(a)(2), added subsec. (i).
 
-1998—Subsec. (a)(1)(B)(i), (C), (4). Pub. L. 105–272, §305(a)(2)(A), inserted “counterproliferation studies,” after “area studies,”.
+<b>1998</b>—Subsec. (a)(1)(B)(i), (C), (4). Pub. L. 105–272, §305(a)(2)(A), inserted “counterproliferation studies,” after “area studies,”.
 
 Subsec. (b)(2)(A)(ii), (B)(ii). Pub. L. 105–272, §305(a)(2)(B), inserted “counterproliferation study,” after “area study,”.
 
-1996—Subsec. (a)(1)(A). Pub. L. 104–201, §1078(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “awarding scholarships to undergraduate students who are United States citizens in order to enable such students to study, for at least one academic semester or equivalent term, in foreign countries that are critical countries (as determined under section 1903(d)(4)(A) of this title) in those language and study areas where deficiencies exist (as identified in the assessments undertaken pursuant to section 1906(d) of this title);”.
+<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–201, §1078(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “awarding scholarships to undergraduate students who are United States citizens in order to enable such students to study, for at least one academic semester or equivalent term, in foreign countries that are critical countries (as determined under section 1903(d)(4)(A) of this title) in those language and study areas where deficiencies exist (as identified in the assessments undertaken pursuant to section 1906(d) of this title);”.
 
 Subsec. (a)(1)(B)(i). Pub. L. 104–201, §1078(b)(2)(A), inserted “relating to the national security interests of the United States” after “international fields”.
 
@@ -220,11 +224,11 @@ Subsecs. (c) to (f). Pub. L. 104–201, §1078(d), added subsec. (c) and redesig
 
 Subsec. (g). Pub. L. 104–201, §1078(f)(2), added subsec. (g).
 
-1993—Subsec. (a)(1)(A). Pub. L. 103–178, §311(b)(2)(A), (d), struck out comma after “term,” and inserted before semicolon at end “in those language and study areas where deficiencies exist (as identified in the assessments undertaken pursuant to section 1906(d) of this title)”.
+<b>1993</b>—Subsec. (a)(1)(A). Pub. L. 103–178, §311(b)(2)(A), (d), struck out comma after “term,” and inserted before semicolon at end “in those language and study areas where deficiencies exist (as identified in the assessments undertaken pursuant to section 1906(d) of this title)”.
 
 Subsec. (a)(1)(B)(i). Pub. L. 103–178, §311(b)(2)(B), inserted before semicolon at end “and in which deficiencies exist (as identified in the assessments undertaken pursuant to section 1906(d) of this title)”.
 
-1992—Subsec. (a)(1)(A). Pub. L. 102–496, §404(b)(1), inserted “or equivalent term,” after “semester”.
+<b>1992</b>—Subsec. (a)(1)(A). Pub. L. 102–496, §404(b)(1), inserted “or equivalent term,” after “semester”.
 
 Subsec. (a)(1)(B)(i). Pub. L. 102–496, §404(b)(2), substituted “as part of a graduate degree program of a United States institution of higher education” for “in the United States”.
 
@@ -234,7 +238,7 @@ Subsecs. (e), (f). Pub. L. 102–496, §404(c), redesignated subsec. (f) as (e) 
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–487, title VI, §602(a)(2), Dec. 23, 2004, 118 Stat. 3953, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply totraining under section 802(i) \[now 802(j)\] of the David L. Boren National Security Act of 1991 \[50 U.S.C. 1902(i), now 1902(j)\] that begins on or after the date that is 90 days after the date of the enactment of this Act \[Dec. 23, 2004\].”
+Pub. L. 108–487, title VI, §602(a)(2), Dec. 23, 2004, 118 Stat. 3953, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to training under section 802(i) \[now 802(j)\] of the David L. Boren National Security Act of 1991 \[50 U.S.C. 1902(i), now 1902(j)\] that begins on or after the date that is 90 days after the date of the enactment of this Act \[Dec. 23, 2004\].”
 
 Amendment by Pub. L. 108–487 effective Dec. 23, 2004, except as otherwise provided, see section 801 of Pub. L. 108–487, set out as a note under section 2656f of Title 22, Foreign Relations and Intercourse.
 

@@ -6,5 +6,5 @@ For the purpose of entering into contracts pursuant to section 1542 of this titl
 
 #### Amendments
 
-1984—Pub. L. 98–449 amended section generally, substituting provisions limiting funds expended for private contracts to 6 percent of appropriated funds in 1985 and authorizing the appropriation of such sums as may be necessary to carry out this subchapter in fiscal years after 1985 for provisions putting a 5 percent limitation on use of appropriated funds.
+<b>1984</b>—Pub. L. 98–449 amended section generally, substituting provisions limiting funds expended for private contracts to 6 percent of appropriated funds in 1985 and authorizing the appropriation of such sums as may be necessary to carry out this subchapter in fiscal years after 1985 for provisions putting a 5 percent limitation on use of appropriated funds.
 

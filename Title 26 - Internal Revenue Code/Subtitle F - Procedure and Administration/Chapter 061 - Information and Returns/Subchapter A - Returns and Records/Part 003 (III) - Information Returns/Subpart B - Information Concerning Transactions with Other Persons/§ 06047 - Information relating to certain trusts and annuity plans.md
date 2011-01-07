@@ -56,13 +56,13 @@ The Secretary shall require the plan administrator of each applicable retirement
 
 &emsp;&emsp;<b>(3) For provisions relating to penalty for failure to comply with the provisions of subsection (d), see section 6704.</b>
 
-(Added Pub. L. 87–792, §7(m)(1), Oct. 10, 1962, 76 Stat. 830; amended Pub. L. 93–406, title II, §§1031(c)(3), 2002(g)(8), Sept. 2, 1974, 88 Stat. 947, 970; Pub. L. 94–455, title XV, §1501(b)(9), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1737, 1834; Pub. L. 97–34, title III, §311(h)(8), Aug. 13, 1981, 95 Stat. 282; Pub. L. 97–248, title III, §334(b), Sept. 3, 1982, 96 Stat. 626; Pub. L. 97–448, title I, §103(c)(12)(C), Jan. 12, 1983, 96 Stat. 2377; Pub. L. 98–369, div. A, title IV, §491(d)(47), (57), July 18, 1984, 98 Stat. 852; Pub. L. 99–514, title XV, §1501(d)(1)(D), title XVIII, §1848(e)(2), Oct. 22, 1986, 100 Stat. 2740, 2857; Pub. L. 101–239, title VII, §7301(e), Dec. 19, 1989, 103 Stat. 2349; Pub. L. 102–318, title V, §522(b)(2)(D), (E), July 3, 1992, 106 Stat. 314; Pub. L. 104–188, title I, §§1455(b)(2), (d)(1), 1602(b)(6), Aug. 20, 1996, 110 Stat. 1818, 1834; Pub. L. 107–16, title VI, §617(d)(2), June 7, 2001, 115 Stat. 106.)
+(Added Pub. L. 87–792, §7(m)(1), Oct. 10, 1962, 76 Stat. 830; amended Pub. L. 93–406, title II, §§1031(c)(3), 2002(g)(8), Sept. 2, 1974, 88 Stat. 947, 970; Pub. L. 94–455, title XV, §1501(b)(9), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1737, 1834; Pub. L. 97–34, title III, §311(h)(8), Aug. 13, 1981, 95 Stat. 282; Pub. L. 97–248, title III, §334(b), Sept. 3, 1982, 96 Stat. 626; Pub. L. 97–448, title I, §103(c)(12)(C), Jan. 12, 1983, 96 Stat. 2377; Pub. L. 98–369, div. A, title IV, §491(d)(47), (57), July 18, 1984, 98 Stat. 852; Pub. L. 99–514, title XV, §1501(d)(1)(D), title XVIII, §1848(e)(2), Oct. 22, 1986, 100 Stat. 2740, 2857; Pub. L. 101–239, title VII, §7301(e), Dec. 19, 1989, 103 Stat. 2349; Pub. L. 102–318, title V, §522(b)(2)(D), (E), July 3, 1992, 106 Stat. 314; Pub. L. 104–188, title I, §§1455(b)(2),\(d)(1), 1602(b)(6), Aug. 20, 1996, 110 Stat. 1818, 1834; Pub. L. 107–16, title VI, §617(d)(2), June 7, 2001, 115 Stat. 106.)
 
 #### Amendments
 
-2001—Subsecs. (f), (g). Pub. L. 107–16 added subsec. (f) and redesignated former subsec. (f) as (g).
+<b>2001</b>—Subsecs. (f), (g). Pub. L. 107–16 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1996—Subsec. (d)(1). Pub. L. 104–188, §1455(b)(2), inserted at end “No return or report may be required under the preceding sentence with respect to distributions to any person during any year unless such distributions aggregate $10 or more.”
+<b>1996</b>—Subsec. (d)(1). Pub. L. 104–188, §1455(b)(2), inserted at end “No return or report may be required under the preceding sentence with respect to distributions to any person during any year unless such distributions aggregate $10 or more.”
 
 Subsec. (e)(1) to (3). Pub. L. 104–188, §1602(b)(6), added pars. (1) and (2) and struck out former pars. (1) to (3) which read as follows:
 
@@ -78,31 +78,31 @@ Subsec. (e)(1) to (3). Pub. L. 104–188, §1602(b)(6), added pars. (1) and (2) 
 
 Subsec. (f)(1). Pub. L. 104–188, §1455(d)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For provisions relating to penalties for failure to file a return required by this section, see section 6652(e).”
 
-1992—Subsec. (d)(1)(A). Pub. L. 102–318, §522(b)(2)(E), which directed the substitution of “section 3405(d)(3)” for “section 3405(d)(1)”, could not be executed because of the prior amendment by Pub. L. 102–318, §522(b)(2)(D). See below.
+<b>1992</b>—Subsec. (d)(1)(A). Pub. L. 102–318, §522(b)(2)(E), which directed the substitution of “section 3405(d)(3)” for “section 3405(d)(1)”, could not be executed because of the prior amendment by Pub. L. 102–318, §522(b)(2)(D). See below.
 
 Pub. L. 102–318, §522(b)(2)(D), substituted “3405(e)(1)” for “3405(d)(1)”.
 
-1989—Subsecs. (e), (f). Pub. L. 101–239 added subsec. (e) and redesignated former subsec. (e) as (f).
+<b>1989</b>—Subsecs. (e), (f). Pub. L. 101–239 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1986—Subsec. (e)(1). Pub. L. 99–514, §1501(d)(1)(D), substituted “section 6652(e)” for “section 6652(f)”.
+<b>1986</b>—Subsec. (e)(1). Pub. L. 99–514, §1501(d)(1)(D), substituted “section 6652(e)” for “section 6652(f)”.
 
 Subsec. (e)(3). Pub. L. 99–514, §1848(e)(2), added par. (3).
 
-1984—Pub. L. 98–369, §491(d)(57), struck out “and bond purchase” after “trusts and annuity” in section catchline.
+<b>1984</b>—Pub. L. 98–369, §491(d)(57), struck out “and bond purchase” after “trusts and annuity” in section catchline.
 
 Subsecs. (c) to (f). Pub. L. 98–369, §491(d)(47), redesignated former subsecs. (d) to (f) as (c) to (e), respectively, and struck out former subsec. (c) which related to information to be supplied by employees under qualified bond purchase plans.
 
-1983—Subsec. (d). Pub. L. 97–448 substituted “section 219” for “section 219(a)”.
+<b>1983</b>—Subsec. (d). Pub. L. 97–448 substituted “section 219” for “section 219(a)”.
 
-1982—Subsecs. (e), (f). Pub. L. 97–248 added subsec. (e) and redesignated former subsec. (e) as (f).
+<b>1982</b>—Subsecs. (e), (f). Pub. L. 97–248 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1981—Subsec. (d). Pub. L. 97–34 substituted “section 219(a)” for “section 219(a) or 220(a)”.
+<b>1981</b>—Subsec. (d). Pub. L. 97–34 substituted “section 219(a)” for “section 219(a) or 220(a)”.
 
-1976—Subsecs. (a) to (d). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a) to (d). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 Subsec. (d). Pub. L. 94–455, §1501(b)(9), inserted “or 220(a)” after “section 219(a)”.
 
-1974—Subsec. (d). Pub. L. 93–406, §2002(g)(8), added subsec. (d). Former subsec. (d) redesignated (e).
+<b>1974</b>—Subsec. (d). Pub. L. 93–406, §2002(g)(8), added subsec. (d). Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 93–406, §§1031(c)(3), 2002(g)(8), redesignated former subsec. (d) as (e), and inserted reference to section 6652(f) covering provisions relating to penalties for failure to file a return required by this section.
 
@@ -132,7 +132,7 @@ Amendment by section 1848(e)(2) of Pub. L. 99–514 effective, except as otherwi
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) ofPub. L. 98–369, set out as a note under section 62 of this title.
+Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of this title.
 
 #### Effective Date of 1983 Amendment
 

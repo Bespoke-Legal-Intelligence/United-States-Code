@@ -72,7 +72,7 @@ It is the purpose of this section to implement the responsibilities of the Unite
 
 &emsp;&emsp;(C) develop environmentally sustainable renewable energy and energy efficiency projects in foreign countries;
 
-&emsp;&emsp;(D) provide technical assistance and training materials to loan officers of the World Bank, international lending institutions, commercial and energy attaches at embassies of the United States and other appropriate personnel in order to provide information about renewable energy and energy efficiency products and services to foreign governments or other potential project sponsors;
+&emsp;&emsp;(D) provide technical assistance and training materials to loan officers of the WorldBank, international lending institutions, commercial and energy attaches at embassies of the United States and other appropriate personnel in order to provide information about renewable energy and energy efficiency products and services to foreign governments or other potential project sponsors;
 
 &emsp;&emsp;(E) support, through financial incentives, private sector efforts to commercialize and export renewable energy and energy efficiency products and services; and
 
@@ -94,7 +94,7 @@ It is the purpose of this section to implement the responsibilities of the Unite
 
 &emsp;(C) recommend specific renewable energy and energy efficiency technology markets for primary emphasis by Federal export loan programs, development programs, and private sector assistance programs.
 
-(2) The interagency working group shall include a description of the plan established under paragraph (1)(A) in no later than the second report submitted under subsection (e) <sup>1</sup> of this section, and shall include in subsequent reports adescription of any modifications to such plan and of the progress in implementing the plan.
+(2) The interagency working group shall include a description of the plan established under paragraph (1)(A) in no later than the second report submitted under subsection (e) <sup>1</sup> of this section, and shall include in subsequent reports a description of any modifications to such plan and of the progress in implementing the plan.
 
 #### (g) Repealed. Pub. L. 102–486, title XII, §1207(c), Oct. 24, 1992, 106 Stat. 2963
 
@@ -114,17 +114,17 @@ Subsec. (e) of this section, which required the interagency working group establ
 
 #### Amendments
 
-2003—Subsec. (h). Pub. L. 108–7 amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “There are authorized to be appropriated to the Secretary for purposes of carrying out the programs under subsections (d) and (e) of this section $10,000,000, to be divided equitably between the interagency working subgroups based on program requirements, for each of the fiscal years 1993 and 1994, and such sums as may be necessary for fiscal year 1995 to carry out the purposes of this subtitle. There are authorized to be appropriated for fiscal year 1997 such sums as may be necessary to carry out this part. There are authorized to be appropriated for fiscal years 2000 through 2003, such sums as may be necessary.”
+<b>2003</b>—Subsec. (h). Pub. L. 108–7 amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “There are authorized to be appropriated to the Secretary for purposes of carrying out the programs under subsections (d) and (e) of this section $10,000,000, to be divided equitably between the interagency working subgroups based on program requirements, for each of the fiscal years 1993 and 1994, and such sums as may be necessary for fiscal year 1995 to carry out the purposes of this subtitle. There are authorized to be appropriated for fiscal year 1997 such sums as may be necessary to carry out this part. There are authorized to be appropriated for fiscal years 2000 through 2003, such sums as may be necessary.”
 
-2000—Subsec. (h). Pub. L. 106–469 inserted at end “There are authorized to be appropriated for fiscal years 2000 through 2003, such sums as may be necessary.”
+<b>2000</b>—Subsec. (h). Pub. L. 106–469 inserted at end “There are authorized to be appropriated for fiscal years 2000 through 2003, such sums as may be necessary.”
 
-1996—Subsec. (h). Pub. L. 104–306 inserted at end “There are authorized to be appropriated for fiscal year 1997 such sums as may be necessary to carry out this part.”
+<b>1996</b>—Subsec. (h). Pub. L. 104–306 inserted at end “There are authorized to be appropriated for fiscal year 1997 such sums as may be necessary to carry out this part.”
 
-1992—Subsec. (d). Pub. L. 102–486, §1207(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
+<b>1992</b>—Subsec. (d). Pub. L. 102–486, §1207(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
 “(1) There shall be established an interagency working group which, in consultation with the representative industry groups and relevant agency heads, shall make recommendations to coordinate the actions and programs of the Federal Government affecting commerce in renewable energy products and related services. The Secretary of Energy shall be the chairman of such group. The heads of appropriate agencies may detail such personnel and may furnish such services to such working group, with or without reimbursement, as may be necessary to carry out its functions.
 
-“(2) The interagency group shall establish a program to inform other countries of the benefits of policies that would allow small facilities which produce renewable energy to compete effectively with producers of energy from nonrenewable sources.”
+“(2) The interagency group shall establish a program to inform other countries of the benefits of policiesthat would allow small facilities which produce renewable energy to compete effectively with producers of energy from nonrenewable sources.”
 
 Subsec. (d)(4). Pub. L. 102–486, §1208, added par. (4).
 
@@ -140,7 +140,7 @@ Subsec. (h). Pub. L. 102–486, §1207(d), amended subsec. (h) generally. Prior 
 
 &emsp;“(3) $3,600,000 for fiscal year 1993.”
 
-1989—Subsec. (c)(2)(D)(i). Pub. L. 101–218, §7(a)(1), inserted “and to potential end users, including other industry sectors in foreign countries such as health care, rural development, communications, and refrigeration, and others,” after “commerce,”.
+<b>1989</b>—Subsec. (c)(2)(D)(i). Pub. L. 101–218, §7(a)(1), inserted “and to potential end users, including other industry sectors in foreign countries such as health care, rural development, communications, and refrigeration, and others,” after “commerce,”.
 
 Subsec. (c)(2)(D)(ii). Pub. L. 101–218, §7(a)(2), substituted “export and export financing opportunities” for “export opportunities”.
 
@@ -151,4 +151,6 @@ Subsecs. (e) to (h). Pub. L. 101–218, §7(c), added subsecs. (e) to (h).
 #### Effective Date
 
 Section 3 of Pub. L. 98–370 provided that: “The amendments made by this Act \[enacting this section and a provision set out as a note under section 6201 of this title\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

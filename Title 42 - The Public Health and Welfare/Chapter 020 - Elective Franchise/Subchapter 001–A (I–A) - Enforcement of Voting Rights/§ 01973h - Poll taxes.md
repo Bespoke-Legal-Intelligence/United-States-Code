@@ -16,7 +16,7 @@ The district courts of the United States shall have jurisdiction of such actions
 
 #### Amendments
 
-1975—Subsec. (b). Pub. L. 94–73, §408(2), (3), inserted reference to section 2 of twenty-fourth amendment.
+<b>1975</b>—Subsec. (b). Pub. L. 94–73, §408(2), (3), inserted reference to section 2 of twenty-fourth amendment.
 
 Subsec. (d). Pub. L. 94–73, §408(1), struck out subsec. (d) which related to post-payment of poll taxes in event of a judicial declaration of constitutionality.
 

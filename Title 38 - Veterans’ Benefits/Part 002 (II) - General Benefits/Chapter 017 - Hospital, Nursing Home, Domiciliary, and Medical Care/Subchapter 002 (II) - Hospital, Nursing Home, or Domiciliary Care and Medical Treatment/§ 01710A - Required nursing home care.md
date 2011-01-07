@@ -18,15 +18,15 @@ The date of the enactment of this section, referred to in subsec. (b)(2), is the
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–181 added subsec. (c). Former subsec. (c) redesignated (d).
+<b>2008</b>—Subsec. (c). Pub. L. 110–181 added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 110–387 substituted “December 31, 2013” for “December 31, 2008”.
 
 Pub. L. 110–181 redesignated former subsec. (c) as (d).
 
-2003—Subsec. (c). Pub. L. 108–170 substituted “December 31, 2008” for “December 31, 2003”.
+<b>2003</b>—Subsec. (c). Pub. L. 108–170 substituted “December 31, 2008” for “December 31, 2003”.
 
-2000—Subsec. (a). Pub. L. 106–419 inserted “(subject to section 1710(a)(4) of this title)” after “The Secretary”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–419 inserted “(subject to section 1710(a)(4) of this title)” after “The Secretary”.
 
 #### Finding Related to Age-Appropriate Nursing Home Care
 

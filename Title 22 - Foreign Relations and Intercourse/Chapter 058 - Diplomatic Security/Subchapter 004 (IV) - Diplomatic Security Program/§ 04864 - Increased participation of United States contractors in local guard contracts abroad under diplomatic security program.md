@@ -32,7 +32,7 @@ With respect to local guard contracts for a Foreign Service building which excee
 
 &emsp;(5) ensure that United States diplomatic and consular posts assist United States firms in obtaining local licenses and permits; and
 
-&emsp;(6) establish procedures to ensure that appropriate measures are taken by diplomatic and consular post management to assure that United States persons and qualified United States joint venture persons are not disadvantaged during the solicitation and bid evaluation process.
+&emsp;(6) establish procedures to ensure that appropriate measures are taken by diplomaticand consular post management to assure that United States persons and qualified United States joint venture persons are not disadvantaged during the solicitation and bid evaluation process.
 
 #### (d) Definitions
 
@@ -92,7 +92,7 @@ Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Y
 
 #### Amendments
 
-1998—Subsec. (c)(3). Pub. L. 105–277, §2210(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “in evaluating and scoring proposals for such contracts, award not less than 60 percent of the total points on the basis of technical factors and subfactors;”.
+<b>1998</b>—Subsec. (c)(3). Pub. L. 105–277, §2210(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “in evaluating and scoring proposals for such contracts, award not less than 60 percent of the total points on the basis of technical factors and subfactors;”.
 
 Subsec. (c)(5). Pub. L. 105–277, §2210(2), inserted “and” at end.
 
@@ -100,7 +100,7 @@ Subsec. (c)(6). Pub. L. 105–277, §2210(3), substituted period for “; and�
 
 Subsec. (c)(7). Pub. L. 105–277, §2210(4), struck out par. (7) which read as follows: “give preference to United States persons and qualified United States joint venture persons where such persons are price competitive to the non-United States persons bidding on the contract, are properly licensed by the host government, and are otherwise qualified to carry out all the terms of the contract.”
 
-1994—Subsec. (c). Pub. L. 103–236, §141(1), added pars. (2) to (5), redesignated former pars. (2) and (3) as (6) and (7), respectively, and in par. (6) struck out “due to their distance from the post” after “evaluation process”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–236, §141(1), added pars. (2) to (5), redesignated former pars. (2) and (3) as (6) and (7), respectively, and in par. (6) struck out “due to their distance from the post” after “evaluation process”.
 
 Subsec. (d)(1)(D). Pub. L. 103–236, §141(2)(A), substituted “or” for “and”.
 

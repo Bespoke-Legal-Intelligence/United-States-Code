@@ -12,7 +12,7 @@ If any person becomes liable for tax under any section of chapter 42 (relating t
 
 #### Amendments
 
-1987—Pub. L. 100–203 inserted “and certain other tax-exempt organizations” after “private foundations” in parenthetical.
+<b>1987</b>—Pub. L. 100–203 inserted “and certain other tax-exempt organizations” after “private foundations” in parenthetical.
 
 #### Effective Date of 1987 Amendment
 

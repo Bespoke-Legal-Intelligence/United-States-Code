@@ -38,5 +38,5 @@ This Act, referred to in the provision preceding par. (1), is act Aug. 24, 1954,
 
 #### Codification
 
-Section was enacted as part of the Communist Control Act of 1954, and not as part of the Internal Security Act of 1950 which comprises subchapters I to III of this chapter.
+Section was enacted as part of the Communist Control Act of 1954, and not as part of the Internal SecurityAct of 1950 which comprises subchapters I to III of this chapter.
 

@@ -16,7 +16,7 @@ The issuance of an environmental assessment under subsection (a) of this section
 
 #### (d) Public hearings
 
-(1) In preparing an environmental assessment for any repository or monitored retrievable storage facility site, the Secretary shall hold public hearings in the vicinity of such site to informthe residents of the area in which such site is located that such site is being considered and to receive their comments.
+(1) In preparing an environmental assessment for any repository or monitored retrievable storage facility site, the Secretary shall hold public hearings in the vicinity of such site to inform the residents of the area in which such site is located that such site is being considered and to receive their comments.
 
 (2) At such hearings, the Secretary shall solicit and receive any recommendations of such residents with respect to issues that should be addressed in the environmental assessment required under subsection (a) of this section and the site characterization plan described in section 10133(b)(1) of this title.
 

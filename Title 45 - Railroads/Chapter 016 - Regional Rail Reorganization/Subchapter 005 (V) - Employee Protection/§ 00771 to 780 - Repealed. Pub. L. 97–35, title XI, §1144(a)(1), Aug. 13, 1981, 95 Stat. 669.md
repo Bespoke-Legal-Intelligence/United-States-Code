@@ -16,7 +16,7 @@ Section 777, Pub. L. 93–236, title V, §507, Jan. 2, 1974, 87 Stat. 1020; Pub.
 
 Section 778, Pub. L. 93–236, title V, §508, Jan. 2, 1974, 87 Stat. 1020; Pub. L. 94–210, title VI, §617, Feb. 5, 1976, 90 Stat. 117, related to duties of acquiring and selling railroads.
 
-Section 779, Pub. L. 93–236, title V, §509, Jan. 2, 1974, 87 Stat. 1020; Pub. L. 94–210, title VI, §616(h), Feb. 5,1976, 90 Stat. 116; Pub. L. 94–555, title II, §207(c), Oct. 19, 1976, 90 Stat. 2622; Pub. L. 96–448, title V, §504, Oct. 14, 1980, 94 Stat. 1955, set forth provisions respecting benefit payments.
+Section 779, Pub. L. 93–236, title V, §509, Jan. 2, 1974, 87 Stat. 1020; Pub. L. 94–210, title VI, §616(h), Feb. 5, 1976, 90 Stat. 116; Pub. L. 94–555, title II, §207(c), Oct. 19, 1976, 90 Stat. 2622; Pub. L. 96–448, title V, §504, Oct. 14, 1980, 94 Stat. 1955, set forth provisions respecting benefit payments.
 
 Section 780, Pub. L. 93–236, title V, §510, as added Pub. L. 96–448, title V, §505, Oct. 14, 1980, 94 Stat. 1956, related to railroad hiring.
 

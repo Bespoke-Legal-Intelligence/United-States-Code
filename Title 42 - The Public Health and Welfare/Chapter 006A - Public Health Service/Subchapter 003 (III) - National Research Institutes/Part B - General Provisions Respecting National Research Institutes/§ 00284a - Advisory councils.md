@@ -14,7 +14,7 @@
 
 &emsp;(iii) may review any grant, contract, or cooperative agreement proposed to be made or entered into by the institute;
 
-&emsp;(B) may collect, by correspondence or by personal investigation, information as to studies which are being carried on in the United States or any other country as to the diseases, disorders, or other aspect of human health with respect to which the institute was established and with the approval of the Director of the institute make available such information through appropriate publications for the benefit of public and private health entities and health professions personnel and scientists and for the information of the general public; and
+&emsp;(B) may collect, by correspondence or by personal investigation, information as to studies which are being carried on in the United States or any other country as to the diseases, disorders, or other aspect of human health with respect to which the institute was established and with the approval of the Director of the institute make available such informationthrough appropriate publications for the benefit of public and private health entities and health professions personnel and scientists and for the information of the general public; and
 
 &emsp;(C) may appoint subcommittees and convene workshops and conferences.
 
@@ -90,9 +90,9 @@ Section 284b of this title, referred to in subsec. (g), was repealed by Pub. L. 
 
 #### Amendments
 
-1998—Subsec. (h)(2)(A)(v). Pub. L. 105–245 substituted “Science of the Department of Energy” for “Energy Research of the Department of Energy”.
+<b>1998</b>—Subsec. (h)(2)(A)(v). Pub. L. 105–245 substituted “Science of the Department of Energy” for “Energy Research of the Department of Energy”.
 
-1993—Subsec. (a)(2). Pub. L. 103–43, §2010(b)(2), substituted “section 238” for “section 300aaa”.
+<b>1993</b>—Subsec. (a)(2). Pub. L. 103–43, §2010(b)(2), substituted “section 238” for “section 300aaa”.
 
 Subsec. (b)(2)(A). Pub. L. 103–43, §2008(b)(1)(A), substituted “Department of Veterans Affairs” for “Veterans’ Administration” in two places.
 
@@ -100,11 +100,11 @@ Subsec. (c). Pub. L. 103–43, §210(a), substituted “for 180 days after the d
 
 Subsec. (h)(2)(A)(v). Pub. L. 103–43, §2008(b)(1)(B), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1992—Subsecs. (b)(2)(A), (h)(2)(A)(v). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
+<b>1992</b>—Subsecs. (b)(2)(A), (h)(2)(A)(v). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-1990—Subsec. (a)(2). Pub. L. 101–381 made technical amendment to reference to section 300aaa of this title to reflect renumbering of corresponding section of original act.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–381 made technical amendment to reference to section 300aaa of this title to reflect renumbering of corresponding section of original act.
 
-1988—Subsec. (b)(1). Pub. L. 100–607, §117(a), inserted at end “The ex officio members shall be nonvoting members.”
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–607, §117(a), inserted at end “The ex officio members shall be nonvoting members.”
 
 Subsec. (b)(3)(A). Pub. L. 100–607, §117(b), inserted “not less than two individuals who are leaders in the fields of” after “(including”.
 

@@ -58,7 +58,7 @@ In subsection (b), the words “Appropriation of” are substituted for the word
 
 #### Amendments
 
-2008—Pub. L. 110–181 amended section generally. Prior to amendment, text read as follows:
+<b>2008</b>—Pub. L. 110–181 amended section generally. Prior to amendment, text read as follows:
 
 “(a)
 
@@ -68,9 +68,9 @@ Special Pay Authorized.—A member of a uniformed service who is entitled to bas
 
 Regulations.—The Secretary of Defense shall prescribe regulations for the provision of hardship duty pay under subsection (a), including the specific monthly rates at which the special pay will be available.”
 
-2006—Subsec. (a). Pub. L. 109–163 substituted “$750” for “$300”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted “$750” for “$300”.
 
-1998—Pub. L. 105–261, §617(c)(1), struck out “location” after “duty” in section catchline.
+<b>1998</b>—Pub. L. 105–261, §617(c)(1), struck out “location” after “duty” in section catchline.
 
 Subsec. (a). Pub. L. 105–261, §617(a)(1), substituted “performing duty in the United States or outside the United States that is designated by the Secretary of Defense as hardship duty.” for “on duty at a location in the United States or outside the United States designated by the Secretary of Defense as a hardship duty location.”
 
@@ -84,7 +84,7 @@ Subsec. (d). Pub. L. 105–261, §617(a)(4), redesignated subsec. (d) as (b).
 
 Pub. L. 105–261, §617(a)(3), substituted “hardship duty pay” for “hardship duty location pay”.
 
-1997—Pub. L. 105–85, §619(c)(1), substituted “hardship duty location pay” for “while on duty at certain places” in section catchline.
+<b>1997</b>—Pub. L. 105–85, §619(c)(1), substituted “hardship duty location pay” for “while on duty at certain places” in section catchline.
 
 Subsec. (a). Pub. L. 105–85, §619(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Except as provided by subsections (b) and (c), under regulations prescribed by the President, an enlisted member of a uniformed service who is entitled to basic pay may, while on duty at a designated place outside the 48 contiguous States and the District of Columbia, be paid special pay at the following monthly rates:
 
@@ -108,19 +108,19 @@ Subsec. (c). Pub. L. 105–85, §619(b)(2), inserted heading and substituted “
 
 Subsec. (d). Pub. L. 105–85, §619(b)(3), added subsec. (d).
 
-1991—Subsec. (a). Pub. L. 102–25 struck out “of this section” after “subsections (b) and (c)”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–25 struck out “of this section” after “subsections (b) and (c)”.
 
 Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 
-1978—Pub. L. 95–485, §804(b)(1)(C), substituted “on duty” for “on sea duty or duty” in section catchline.
+<b>1978</b>—Pub. L. 95–485, §804(b)(1)(C), substituted “on duty” for “on sea duty or duty” in section catchline.
 
 Subsec. (a). Pub. L. 95–485, §804(b)(1)(A), inserted reference to subsec. (c) of this section and struck out provision entitling an enlisted member of a uniformed service who is entitled to basic pay to special pay while on sea duty.
 
 Subsec. (c). Pub. L. 95–485, §804(b)(1)(B), added subsec. (c).
 
-1968—Subsec. (a)(2). Pub. L. 90–623 substituted “48 contiguous States” for “contiguous 48 States”.
+<b>1968</b>—Subsec. (a)(2). Pub. L. 90–623 substituted “48 contiguous States” for “contiguous 48 States”.
 
-1963—Pub. L. 88–132 substituted “while on sea duty or duty at certain places” for “sea and foreign duty” in section catchline.
+<b>1963</b>—Pub. L. 88–132 substituted “while on sea duty or duty at certain places” for “sea and foreign duty” in section catchline.
 
 Subsec. (a). Pub. L. 88–132 designated existing provisions as cl. (1) and substituted provisions of cl. (2) permitting special pay for an enlisted member of a uniformed service while on duty at a designated place outside the contiguous 48 States and the District of Columbia for former provision entitling such member to special pay while on duty in any place outside the United States, or in Alaska or Hawaii.
 

@@ -64,9 +64,9 @@ In subsecs. (a), (b), and (c)(1), “adjudication (as defined in section 551 of 
 
 #### Amendments
 
-1970—Subsec. (<i>l</i>). Pub. L. 91–452 struck out subsec. (<i>l</i>) which related to the immunity from prosecution of any individual compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
+<b>1970</b>—Subsec. (<i>l</i>). Pub. L. 91–452 struck out subsec. (<i>l</i>) which related to the immunity from prosecution of any individual compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
 
-1961—Subsec. (a). Pub. L. 87–192 substituted provision for filing of initial decisions, with stated exceptions, formerly contained in first sentence of subsec. (b) of this section but amplified to include tentative or recommended decisions, for provision relating to assignment of cases to examiners.
+<b>1961</b>—Subsec. (a). Pub. L. 87–192 substituted provision for filing of initial decisions, with stated exceptions, formerly contained in first sentence of subsec. (b) of this section but amplified to include tentative or recommended decisions, for provision relating to assignment of cases to examiners.
 
 Subsec. (b). Pub. L. 87–192 provided for filing of memoranda in support of exceptions to initial, tentative, or recommended decisions, to be passed upon by the Commission or the designated authority within the Commission, and eliminated provisions for oral argument on the exceptions, filing of initial decisions, with stated exceptions, incorporated in subsec. (a) of this section, and making all decisions part of the record and requiring the decisions to include a statement of findings, and conclusions upon all material issues of fact, law, or discretion and the appropriate decision, order, or requirement. See section 557 of Title 5, Government Organization and Employees.
 
@@ -74,7 +74,7 @@ Subsec. (c). Pub. L. 87–192 continued requirement of notice and opportunity fo
 
 Subsec. (d). Pub. L. 87–192 inserted references to section 155(d) of this title.
 
-1952—Act July 16, 1952, amended section generally, inserting subsecs. (a) to (d) and redesignating former subsecs. (b) to (j) as (e) to (m), respectively.
+<b>1952</b>—Act July 16, 1952, amended section generally, inserting subsecs. (a) to (d) and redesignating former subsecs. (b) to (j) as (e) to (m), respectively.
 
 #### Change of Name
 

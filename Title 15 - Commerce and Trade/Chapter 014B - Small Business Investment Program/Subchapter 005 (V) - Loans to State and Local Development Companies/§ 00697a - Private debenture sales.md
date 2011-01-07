@@ -20,7 +20,7 @@
 
 #### Amendments
 
-1988—Pub. L. 100–590 inserted “Private debenture sales” as section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>1988</b>—Pub. L. 100–590 inserted “Private debenture sales” as section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a) Notwithstanding any other law, rule, or regulation, the Administration shall conduct a pilot program involving the sale to investors, either publicly or by private placement, of debentures guaranteed pursuant to section 697 of this title as follows—
 
@@ -38,7 +38,7 @@
 
 &emsp;“(3) any obligation which is secured by, or substantially all of the value of which is attributable to, any obligation described in paragraph (1) or (2).”
 
-1987—Subsec. (a). Pub. L. 100–72 struck out “and” at end of par. (1), substituted “$425,000,000; and” for “$295,000,000.” in par. (2), and added par. (3).
+<b>1987</b>—Subsec. (a). Pub. L. 100–72 struck out “and” at end of par. (1), substituted “$425,000,000; and” for “$295,000,000.” in par. (2), and added par. (3).
 
 #### Regulations
 

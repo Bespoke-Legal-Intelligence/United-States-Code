@@ -2,7 +2,7 @@
 
 (a)
 
-General.—The appropriate court of appeals of the United States or the United States Court of Appeals for the District of Columbia Circuit may review a final order of the National Transportation Safety Board under this chapter. A person disclosing a substantial interest in theorder may apply for review by filing a petition not later than 60 days after the order of the Board is issued.
+General.—The appropriate court of appeals of the United States or the United States Court of Appeals for the District of Columbia Circuit may review a final order of the National Transportation Safety Board under this chapter. A person disclosing a substantial interest in the order may apply for review by filing a petition not later than 60 days after the order of the Board is issued.
 
 (b)
 
@@ -18,7 +18,7 @@ Persons Seeking Judicial Review of Aviation Matters.—(1) A person disclosing a
 
 (c)
 
-Administrator Seeking Judicial Review of Aviation Matters.—When the Administrator of the Federal Aviation Administration decides that an order of the Board under section 44709 or 46301(d)(5) of this title will have a significant adverse impact on carrying out this chapter related to an aviation matter, the Administrator may obtain judicial review of the order under section 46110 of this title. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
+Administrator Seeking Judicial Review of Aviation Matters.—When the Administrator of the Federal Aviation Administration decides that an order of the Board under section 44709 or46301(d)(5) of this title will have a significant adverse impact on carrying out this chapter related to an aviation matter, the Administrator may obtain judicial review of the order under section 46110 of this title. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
 
 (d)
 
@@ -126,5 +126,5 @@ In subsection (c), the source provisions are combined to eliminate unnecessary w
 
 #### Amendments
 
-2004—Subsec. (d). Pub. L. 108–293 added subsec. (d).
+<b>2004</b>—Subsec. (d). Pub. L. 108–293 added subsec. (d).
 

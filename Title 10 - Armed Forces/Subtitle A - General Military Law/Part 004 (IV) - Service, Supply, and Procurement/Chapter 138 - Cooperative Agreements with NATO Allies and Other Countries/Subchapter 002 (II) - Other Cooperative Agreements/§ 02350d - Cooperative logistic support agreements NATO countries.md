@@ -50,7 +50,7 @@ Provisions similar to those in this section were contained in Pub. L. 99–661, 
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102–484 inserted “and costs of claims” after “administrative costs”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–484 inserted “and costs of claims” after “administrative costs”.
 
-1989—Subsec. (e). Pub. L. 101–189, §938(c), inserted “this chapter and” after “in accordance with”.
+<b>1989</b>—Subsec. (e). Pub. L. 101–189, §938(c), inserted “this chapter and” after “in accordance with”.
 

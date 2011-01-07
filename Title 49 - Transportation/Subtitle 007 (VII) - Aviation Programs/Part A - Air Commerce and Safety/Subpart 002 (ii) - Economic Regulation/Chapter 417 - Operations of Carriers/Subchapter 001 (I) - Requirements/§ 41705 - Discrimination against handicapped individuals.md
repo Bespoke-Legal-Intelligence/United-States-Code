@@ -64,9 +64,9 @@ The date of the enactment of this subsection, referred to in subsec. (c)(4), is 
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–176 substituted “section 46301” for “section 46301(a)(3)(E)”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–176 substituted “section 46301” for “section 46301(a)(3)(E)”.
 
-2000—Pub. L. 106–181 designated existing provisions as subsec. (a), inserted heading, substituted “carrier, including (subject to section 40105(b)) any foreign air carrier,” for “carrier” in introductory provisions, and added subsecs. (b) and (c).
+<b>2000</b>—Pub. L. 106–181 designated existing provisions as subsec. (a), inserted heading, substituted “carrier, including (subject to section 40105(b)) any foreign air carrier,” for “carrier” in introductory provisions, and added subsecs. (b) and (c).
 
 #### Effective Date of 2003 Amendment
 

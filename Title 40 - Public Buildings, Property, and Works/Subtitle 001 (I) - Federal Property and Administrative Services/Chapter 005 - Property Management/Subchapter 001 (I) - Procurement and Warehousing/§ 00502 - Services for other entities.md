@@ -18,15 +18,15 @@ Qualified Nonprofit Agencies.—
 
 In general.—On request, the Administrator may provide, to the extent practicable, any of the services specified in section 501 of this title to an agency that is—
 
-&emsp;&emsp;(A)(i) a qualified nonprofit agency for the blind (as defined in section 5(3) of the Javits-Wagner-O'Day Act (41 U.S.C. 48b(3))); or
+&emsp;&emsp;(A)(i) a qualified nonprofit agency for the blind (as defined in section 8501(7) of title 41); or
 
-&emsp;&emsp;(ii) a qualified nonprofit agency for other severely handicapped (as defined in section 5(4) of the Javits-Wagner-O'Day Act (41 U.S.C. 48b(4))); and
+&emsp;&emsp;(ii) a qualified nonprofit agency for other severely disabled (as defined in section 8501(6) of title 41); and
 
-&emsp;&emsp;(B) providing a commodity or service to the Federal Government under the Javits-Wagner-O'Day Act (41 U.S.C. 46 et seq.).
+&emsp;&emsp;(B) providing a commodity or service to the Federal Government under chapter 85 of title 41.
 
 &emsp;(2)
 
-Use of services.—A nonprofit agency receiving services under this subsection shall use the services directly in making or providing to the Government a commodity or service that has been determined by the Committee for Purchase From People Who Are Blind or Severely Disabled under section 2 of the Javits-Wagner-O'Day Act (41 U.S.C. 47) to be suitable for procurement by the Government.
+Use of services.—A nonprofit agency receiving services under this subsection shall use the services directly in making or providing to the Government a commodity or service that has been determined by the Committee for Purchase From People Who Are Blind or Severely Disabled under section 8503 of title 41 to be suitable for procurement by the Government.
 
 (c)
 
@@ -66,7 +66,7 @@ Use of Supply Schedules for Certain Goods and Services.—
 
 &emsp;(1)
 
-In general.—The Administrator may provide for the use by State or local governments of Federal supply schedules of the General Services Administration for goods or services that are to be used to facilitate recovery from a major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) or to facilitate recovery from terrorism or nuclear, biological, chemical, or radiological attack.
+In general.—The Administrator may provide for the use by State or local governments of Federal supply schedules of the General Services Administration for goods or services that are to be used to facilitate recovery from a major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.), to facilitate disaster preparedness or response, or to facilitate recovery from terrorism or nuclear, biological, chemical, or radiological attack.
 
 &emsp;(2)
 
@@ -80,7 +80,27 @@ Voluntary use.—In the case of the use by a State or local government of a Fede
 
 Definitions.—The definitions in subsection (c)(3) shall apply for purposes of this subsection.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1080; Pub. L. 107–347, title II, §211(a), Dec. 17, 2002, 116 Stat. 2939; Pub. L. 109–364, div. A, title VIII, §833(a), Oct. 17, 2006, 120 Stat. 2332; Pub. L. 110–248, §2, June 26, 2008, 122 Stat. 2316.)
+(e)
+
+Use of Supply Schedules by the Red Cross and Other Qualified Organizations.—
+
+&emsp;(1)
+
+In general.—The Administrator may provide for the use by the American National Red Cross and other qualified organizations of Federal supply schedules. Purchases under this authority by the American National Red Cross shall be used in furtherance of the purposes of the American National Red Cross set forth in section 300102 of title 36, United States Code. Purchases under this authority by other qualified organizations shall be used in furtherance of purposes determined to be appropriate to facilitate emergency preparedness and disaster relief and set forth in guidance by the Administrator of General Services, in consultation with the Administrator of the Federal Emergency Management Agency.
+
+&emsp;(2)
+
+Limitation.—The authority under this subsection may not be used to purchase supplies for resale.
+
+&emsp;(3)
+
+Qualified organization.—In this subsection, the term “qualified organization” means a relief or disaster assistance organization as described in section 309 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5152).
+
+(f)
+
+Duty of Users Regarding Use of Supply Schedules.—All users of Federal supply schedules, including non-Federal users, shall use the schedules in accordance with the ordering guidance provided by the Administrator of General Services.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1080; Pub. L. 107–347, title II, §211(a), Dec. 17, 2002, 116 Stat. 2939; Pub. L. 109–364, div. A, title VIII, §833(a), Oct. 17, 2006, 120 Stat. 2332; Pub. L. 110–248, §2, June 26, 2008, 122 Stat. 2316; Pub. L. 111–263, §§2–4, Oct. 8, 2010, 124 Stat. 2787, 2788; Pub. L. 111–350, §5(<i>l</i>)(7), Jan. 4, 2011, 124 Stat. 3851.)
 
 Historical and Revision Notes
 
@@ -106,19 +126,31 @@ In subsection (b)(2), the words “the authority of” in 40:481(b)(2)(B) are om
 
 #### References in Text
 
-The Javits-Wagner-O'Day Act, referred to in subsec. (b)(1)(B), is act June 25, 1938, ch. 697, 52 Stat. 1196, as amended, which is classified to sections 46 to 48c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
-
 The Alaska Native Claims Settlement Act, referred to in subsec. (c)(3)(B)(ii), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
 
-2008—Subsec. (c)(1). Pub. L. 110–248 substituted “Administration for the following:” for “Administration for automated”, inserted “(A) Automated” before “data processing”, and added subpar. (B).
+<b>2011</b>—Subsec. (b)(1)(A)(i). Pub. L. 111–350, §5(<i>l</i>)(7)(A), substituted “section 8501(7) of title 41” for “section 5(3) of the Javits-Wagner-O'Day Act (41 U.S.C. 48b(3))”.
 
-2006—Subsec. (d). Pub. L. 109–364 added subsec. (d).
+Subsec. (b)(1)(A)(ii). Pub. L. 111–350, §5(<i>l</i>)(7)(B), substituted “disabled (as defined in section 8501(6) of title 41)” for “handicapped (as defined in section 5(4) of the Javits-Wagner-O'Day Act (41 U.S.C. 48b(4)))”.
 
-2002—Subsec. (c). Pub. L. 107–347 added subsec. (c).
+Subsec. (b)(1)(B). Pub. L. 111–350, §5(<i>l</i>)(7)(C), substituted “chapter 85 of title 41” for “the Javits-Wagner-O'Day Act (41 U.S.C. 46 et seq.)”.
+
+Subsec. (b)(2). Pub. L. 111–350, §5(<i>l</i>)(7)(D), substituted “section 8503 of title 41” for “section 2 of the Javits-Wagner-O'Day Act (41 U.S.C. 47)”.
+
+<b>2010</b>—Subsec. (d)(1). Pub. L. 111–263, §4, inserted “, to facilitate disaster preparedness or response,” after “Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.)”.
+
+Subsec. (e). Pub. L. 111–263, §2, added subsec. (e).
+
+Subsec. (f). Pub. L. 111–263, §3, added subsec. (f).
+
+<b>2008</b>—Subsec. (c)(1). Pub. L. 110–248 substituted “Administration for the following:” for “Administration for automated”, inserted “(A) Automated” before “data processing”, and added subpar. (B).
+
+<b>2006</b>—Subsec. (d). Pub. L. 109–364 added subsec. (d).
+
+<b>2002</b>—Subsec. (c). Pub. L. 107–347 added subsec. (c).
 
 #### Effective Date of 2002 Amendment
 

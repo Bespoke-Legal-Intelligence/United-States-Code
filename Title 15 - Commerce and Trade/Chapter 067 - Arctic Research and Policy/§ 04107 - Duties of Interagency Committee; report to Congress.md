@@ -38,17 +38,21 @@
 
 &emsp;(1) a statement of the activities and accomplishments of the Interagency Committee since its last report; and
 
-&emsp;(2) a statement detailing with particularity the recommendations of the Commission with respect to Federal interagency activities inArctic research and the disposition and responses to those recommendations.
+&emsp;(2) a statement detailing with particularity the recommendations of the Commission with respect to Federal interagency activities in Arctic research and the disposition and responses to those recommendations.
 
 (Pub. L. 98–373, title I, §108, July 31, 1984, 98 Stat. 1246; Pub. L. 101–609, §6, Nov. 16, 1990, 104 Stat. 3126.)
 
 #### Amendments
 
-1990—Subsec. (b)(2). Pub. L. 101–609 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “a description of the activities of the Commission, detailing with particularity the recommendations of the Commission with respect to Federal activities in Arctic research.”
+<b>1990</b>—Subsec. (b)(2). Pub. L. 101–609 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “a description of the activities of the Commission, detailing with particularity the recommendations of the Commission with respect to Federal activities in Arctic research.”
 
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement, under subsec. (b) of this section, to submit a biennial report to Congress is listed on page 174), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
+
+#### Delegation of Functions
+
+Functions of President under this section delegated to the National Science and Technology Council, see Memorandum of President of the United States, July 22, 2010, 75 F.R. 44063, set out as a note under section 4106 of this title.
 
 #### Delegation of Reporting Authority
 

@@ -12,7 +12,7 @@ Language is changed.
 
 #### Amendments
 
-1988—Pub. L. 100–418, which directed the insertion of “willfully” after second reference to “whoever”, was executed by making the insertion after “or whoever”, as the probable intent of Congress.
+<b>1988</b>—Pub. L. 100–418, which directed the insertion of “willfully” after second reference to “whoever”, was executed by making the insertion after “or whoever”, as the probable intent of Congress.
 
 #### Effective Date of 1988 Amendment
 

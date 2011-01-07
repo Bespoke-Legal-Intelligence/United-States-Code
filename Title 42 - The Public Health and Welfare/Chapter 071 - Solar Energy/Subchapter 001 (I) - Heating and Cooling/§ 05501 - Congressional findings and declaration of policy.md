@@ -18,7 +18,7 @@
 
 &emsp;(8) the widespread introduction of low-cost solar energy will be beneficial to consumers in a period of rapidly rising fuel cost;
 
-&emsp;(9) innovation and creativity in the development of solar heating and combined solar heating and cooling components and systemscan be fostered through encouraging direct contact between the manufacturers of such systems and the architects, engineers, developers, contractors, and other persons interested in installing such systems in buildings;
+&emsp;(9) innovation and creativity in the development of solar heating and combined solar heating and cooling components and systems can be fostered through encouraging direct contact between the manufacturers of such systems and the architects, engineers, developers, contractors, and other persons interested in installing such systems in buildings;
 
 &emsp;(10) evaluation of the performance and reliability of solar heating and combined solar heating and cooling technologies can be expedited by testing under carefully controlled conditions; and
 

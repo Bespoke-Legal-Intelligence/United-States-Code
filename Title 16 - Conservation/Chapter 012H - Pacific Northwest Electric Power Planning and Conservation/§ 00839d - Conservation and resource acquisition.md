@@ -64,7 +64,7 @@
 
 (4) Before the Administrator implements any proposal referred to in paragraph (1) of this subsection, the Administrator shall—
 
-&emsp;(A) submit to the appropriate committees of the Congress the administrative record of the decision (including any determination by theCouncil under paragraph (2)) and a statement of the procedures followed or to be followed for compliance with the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\],
+&emsp;(A) submit to the appropriate committees of the Congress the administrative record of the decision (including any determination by the Council under paragraph (2)) and a statement of the procedures followed or to be followed for compliance with the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\],
 
 &emsp;(B) publish notice of the decision in the Federal Register, and
 
@@ -96,7 +96,7 @@ The Administrator is authorized to acquire a resource, other than a major resour
 
 &emsp;(i) such resource is subsequently denied State siting approval or other necessary Federal or State permits, or approvals,
 
-&emsp;(ii) such investigation subsequently demonstrates, as determined by the Administrator, that such resource does not meet the criteria of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title or is not acceptable because of environmental impacts, or
+&emsp;(ii) such investigation subsequently demonstrates, as determined by the Administrator, that such resource does not meet thecriteria of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title or is not acceptable because of environmental impacts, or
 
 &emsp;(iii) after such investigation the Administrator determines not to acquire the resource and the sponsor determines not to construct the resource.
 
@@ -132,9 +132,9 @@ At the request of the appropriate State, any environmental impact statement whic
 
 &emsp;(B) include the cost of such credit in the Administrator's annual or amended budget submittal to the Congress made pursuant to the Federal Columbia River Transmission System Act (16 U.S.C. 838(j)) \[16 U.S.C. 838 et seq.\];
 
-&emsp;(C) require that resources in excess of customer's reasonable load growth shall have been offered to others for ownership participation or other sponsorship pursuant to subsection (m) of this section, except in the case of conservation, multi-purpose projects uniquely suitable for development by the customer, or renewable resources; and
+&emsp;(C) require that resources in excess of customer's reasonable load growth shall have been offered to others for ownership, participation or other sponsorship pursuant to subsection (m) of this section, except in the case of conservation, multi-purpose projects uniquely suitable for development by the customer, or renewable resources; and
 
-&emsp;(D) require that the operators of any generating resource for which a billing credit is to be granted agree to operate such resource in a manner compatible with the planning and operation of the region's process power system.
+&emsp;(D) require that the operators of any generating resource for which a billing credit is to be granted agree to operate such resource in a manner compatible with the planning and operation of the region's power system.
 
 #### (i) Contracts
 
@@ -152,7 +152,7 @@ Contracts for the acquisition of resources and for billing credits for major res
 
 (1) All contractual and other obligations required to be carried out by the Administrator pursuant to this chapter shall be secured solely by the Administrator's revenues received from the sale of electric power and other services. Such obligations are not, nor shall they be construed to be, general obligations of the United States, nor are such obligations intended to be or are they secured by the full faith and credit of the United States.
 
-(2) All contracts entered into by the Administrator for the acquisition of resources pursuant to this chapter shall require that, in the sale of any obligations, all offerings and promotional material for the sale of such obligations shall include the language contained in the secondsentence of paragraph (1) of this subsection. The Administrator shall monitor and enforce such requirement.
+(2) All contracts entered into by the Administrator for the acquisition of resources pursuant to this chapter shall require that, in the sale of any obligations, all offerings and promotional material for the sale of such obligations shall include the language contained in the second sentence of paragraph (1) of this subsection. The Administrator shall monitor and enforce such requirement.
 
 #### (k) Equitable distribution of benefits
 
@@ -178,7 +178,7 @@ Except as to resources under construction on December 5, 1980, the Administrator
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c)(4)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c)(4)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Federal Columbia River Transmission System Act, referred to in subsecs. (c)(4)(C), (d), and (h)(6)(B), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, as amended, which is classified generally to chapter 12G (§838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
+The Federal Columbia River Transmission System Act, referred to in subsecs. (c)(4)(C), (d), and (h)(6)(B), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, which is classified generally to chapter 12G (§838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
 

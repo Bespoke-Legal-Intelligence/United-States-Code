@@ -16,7 +16,7 @@ Covered Contracts.—The regulations promulgated under this section shall apply 
 
 #### Amendments
 
-1993—Pub. L. 103–35, §201(b)(1)(A), renumbered section 2410d of this title as this section.
+<b>1993</b>—Pub. L. 103–35, §201(b)(1)(A), renumbered section 2410d of this title as this section.
 
 Pub. L. 103–35, §202(a)(18)(A), made technical amendment to directory language of Pub. L. 102–484, which enacted this section.
 

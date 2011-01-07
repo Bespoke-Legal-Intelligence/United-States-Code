@@ -32,7 +32,7 @@ The standards information center shall—
 
 &emsp;&emsp;(C) the determination of the levels of protection that a Federal agency or an agency of a State or local government considers appropriate; and
 
-&emsp;&emsp;(D) the membership and participation of the Federal Government and State and local governments in international and regional sanitary and phytosanitary organizations and systems, and in bilateral and multilateral arrangements regarding sanitary and phytosanitary measures, and the provisions of those systems and arrangements.
+&emsp;&emsp;(D) the membership and participation of the Federal Government and State and local governments in international and regionalsanitary and phytosanitary organizations and systems, and in bilateral and multilateral arrangements regarding sanitary and phytosanitary measures, and the provisions of those systems and arrangements.
 
 #### (2) Definitions
 
@@ -42,9 +42,9 @@ The standards information center shall—
 
 #### Amendments
 
-1996—Subsec. (b)(1). Pub. L. 104–295 struck out comma after “procedures,” in two places.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–295 struck out comma after “procedures,” in two places.
 
-1994—Subsec. (b)(1). Pub. L. 103–465, §351(d), inserted “(A)” after “relating to”, substituted “technical regulations, conformity assessment procedures,” for “certification systems” and “such standards, technical regulations, conformity assessment procedures,” for “such standards, systems”, and inserted “and” and cl. (B) before semicolon at end.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–465, §351(d), inserted “(A)” after “relating to”, substituted “technical regulations, conformity assessment procedures,” for “certification systems” and “such standards, technical regulations, conformity assessment procedures,” for “such standards, systems”, and inserted “and” and cl. (B) before semicolon at end.
 
 Subsec. (c). Pub. L. 103–465, §431(a), added subsec. (c).
 

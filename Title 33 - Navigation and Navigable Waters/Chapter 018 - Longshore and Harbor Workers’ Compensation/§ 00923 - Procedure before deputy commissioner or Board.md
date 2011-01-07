@@ -8,9 +8,9 @@
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–426 substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
+<b>1984</b>—Subsec. (b). Pub. L. 98–426 substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
 
-1972—Pub. L. 92–576 inserted references to the Board in subsecs. (a) and (b).
+<b>1972</b>—Pub. L. 92–576 inserted references to the Board in subsecs. (a) and (b).
 
 #### Effective Date of 1984 Amendment
 

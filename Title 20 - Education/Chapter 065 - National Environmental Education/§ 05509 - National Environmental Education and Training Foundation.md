@@ -38,7 +38,7 @@
 
 &emsp;(B) Within 90 days of November 16, 1990, and as appropriate thereafter, the Administrator shall publish in the Federal Register an announcement of appointments of Directors of the Board. At the same time, the Administrator shall transmit a copy of such announcement to the Education and Labor Committee and the Committee on Energy and Commerce of the House of Representatives and the Committee on Environment and Public Works of the United States Senate. Such appointments shall become final and effective 90 days after publication in the Federal Register.
 
-&emsp;(C) The directors shall be appointed for terms of 4 years, except that the Administrator, in making the initial appointments to the Board, shall appoint 5 directors to a term of 2 years, 4 directors to a term of 3 years, and 4 directors to a term of 4 years. The Administrator shall appoint an individual to serve asa director in the event of a vacancy on the Board within 60 days of said vacancy in the manner in which the original appointment was made. No individual may serve more than 2 consecutive terms as a director.
+&emsp;(C) The directors shall be appointed for terms of 4 years, except that the Administrator, in making the initial appointments to the Board, shall appoint 5 directors to a term of 2 years, 4 directors to a term of 3 years, and 4 directors to a term of 4 years. The Administrator shall appoint an individual to serve as a director in the event of a vacancy on the Board within 60 days of said vacancy in the manner in which the original appointment was made. No individual may serve more than 2 consecutive terms as a director.
 
 #### (3) Chair
 
@@ -68,7 +68,7 @@
 
 &emsp;(B) The following limitations apply with respect to the appointment of officers and employees of the Foundation:
 
-&emsp;&emsp;(i) Officers and employees may not be appointed until the Foundation has sufficient funds to pay for their service. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 or subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates, except that no individual so appointed may receive pay in excess of the annual rate of basic pay in effect for grade GS–18 of the General Schedule.
+&emsp;&emsp;(i) Officers and employees may not be appointed until the Foundation has sufficient funds to pay for their service. Officers and employees of the Foundation shall be appointed without regard to the provisions oftitle 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 or subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates, except that no individual so appointed may receive pay in excess of the annual rate of basic pay in effect for grade GS–18 of the General Schedule.
 
 &emsp;&emsp;(ii) The first officer or employee appointed by the Board shall be the Executive Director of the Foundation who—
 
@@ -120,7 +120,7 @@
 
 &emsp;(A) is contingent upon the transmission by the Foundation of materials or information prepared by the donor or a third party in such a fashion as to convey a particular point of view favorable to the economic interests of the donor or its constituents or associates; or
 
-&emsp;(B) in the judgment of the Board carries with it an explicit or implied requirement on the part of the Foundation to do a specific actor make general representations which are to the benefit of the donor and which are not consistent with the environmental and education goals and policies of the Environmental Protection Agency and with the intents and purposes of this chapter.
+&emsp;(B) in the judgment of the Board carries with it an explicit or implied requirement on the part of the Foundation to do a specific act or make general representations which are to the benefit of the donor and which are not consistent with the environmental and education goals and policies of the Environmental Protection Agency and with the intents and purposes of this chapter.
 
 (3) No materials bearing “logos”, letterhead or other means of identification associated with a donor or third party may be transmitted by the Foundation, for use in environmental education and training except as required pursuant to subsection (f) of this section.
 
@@ -148,13 +148,9 @@ The Congress expressly reserves the right to repeal or amend this section at any
 
 (Pub. L. 101–619, §10, Nov. 16, 1990, 104 Stat. 3335.)
 
-#### References in Text
-
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (b)(7)(B)(i), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 #### Codification
 
-Subsec. (f) of this section, which required the Foundation, as soon as practicable after the end of each fiscal year, to transmit to Congress a report of its proceedings and activities, including a full and complete statement of its receipts, expenditures, and investments, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 183 of House Document No. 103–7.
+Subsec. (f) of this section, which required the Foundation, as soon as practicable after the end of each fiscal year, to transmit to Congress a report of its proceedings and activities, including a full and complete statement of its receipts, expenditures, and investments, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 183 of House Document No. 103–7.
 
 In subsec. (h), “section 10101 of title 36” substituted for “the Act entitled ‘An Act for audit of accounts of private corporations established under Federal law’, approved August 30, 1964 (Public Law 88–504; 36 U.S.C. 1101–1103)” and “a corporation in part B of subtitle II of title 36” substituted for “a private corporation established under Federal law” on authority of Pub. L. 105–225, §5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 

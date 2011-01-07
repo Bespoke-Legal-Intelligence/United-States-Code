@@ -20,7 +20,7 @@ A prior section 6114 was renumbered 6116 of this title.
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–508 struck out “by regulations” before “waive the requirements”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–508 struck out “by regulations” before “waive the requirements”.
 
 #### Effective Date of 1990 Amendment
 

@@ -16,15 +16,15 @@ Provisions similar to those in this section were contained in section 10923 of t
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–244 amended subsec. (a) generally. Prior to amendment, text read as follows:
+<b>2008</b>—Subsec. (a). Pub. L. 110–244 amended subsec. (a) generally. Prior to amendment, text read as follows:
 
 “(1)
 
-Household goods.—The Secretary shall register a person to provide service subject to jurisdiction undersubchapter III of chapter 135 as a freight forwarder of household goods if the Secretary finds that the person is fit, willing, and able to provide the service and to comply with this part and applicable regulations of the Secretary and the Board.
+Household goods.—The Secretary shall register a person to provide service subject to jurisdiction under subchapter III of chapter 135 as a freight forwarder of household goods if the Secretary finds that the person is fit, willing, and able to provide the service and to comply with this part and applicable regulations of the Secretary and the Board.
 
 “(2)
 
 Others.—The Secretary may register a person to provide service subject to jurisdiction under subchapter III of chapter 135 as a freight forwarder (other than a freight forwarder of household goods) if the Secretary finds that such registration is needed for the protection of shippers and that the person is fit, willing, and able to provide the service and to comply with this part and applicable regulations of the Secretary and Board.”
 
-2005—Subsec. (a). Pub. L. 109–59 designated existing provisions as par. (1) and inserted heading, inserted “of household goods” after “freight forwarder”, and added par. (2).
+<b>2005</b>—Subsec. (a). Pub. L. 109–59 designated existing provisions as par. (1) and inserted heading, inserted “of household goods” after “freight forwarder”, and added par. (2).
 

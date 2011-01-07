@@ -38,7 +38,7 @@
 
 #### (C) Consultation
 
-&emsp;&emsp;In developing outreach initiatives for groups that are subject to the requirementsof this title and the Act to Prevent Pollution from Ships (33 U.S.C. 1901 et seq.), the Secretary of the department in which the Coast Guard is operating, in consultation with the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration, and the Administrator of the Environmental Protection Agency, shall consult with—
+&emsp;&emsp;In developing outreach initiatives for groups that are subject to the requirements of this title and the Act to Prevent Pollution from Ships (33 U.S.C. 1901 et seq.), the Secretary of the department in which the Coast Guard is operating, in consultation with the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration, and the Administrator of the Environmental Protection Agency, shall consult with—
 
 &emsp;&emsp;&emsp;(i) the heads of State agencies responsible for implementing State boating laws; and
 
@@ -64,7 +64,7 @@ Section was enacted as part of the Marine Plastic Pollution Research and Control
 
 #### Amendments
 
-1996—Subsec. (a)(1). Pub. L. 104–324, §802(c)(1)–(4), struck out “for a period of at least 3 years,” after “conduct” in introductory provisions and added subpar. (E).
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–324, §802(c)(1)–(4), struck out “for a period of at least 3 years,” after “conduct” in introductory provisions and added subpar. (E).
 
 Subsec. (a)(2). Pub. L. 104–324, §802(c)(5), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “A public outreach program under paragraph (1) may include—
 
@@ -78,5 +78,5 @@ Subsec. (a)(2). Pub. L. 104–324, §802(c)(5), added par. (2) and struck out he
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

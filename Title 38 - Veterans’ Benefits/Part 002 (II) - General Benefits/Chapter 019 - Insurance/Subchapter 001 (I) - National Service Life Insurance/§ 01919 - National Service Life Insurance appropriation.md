@@ -14,11 +14,11 @@ Section 602(v)(i) of the National Service Life Insurance Act of 1940, referred t
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–368 substituted “section 602(v)(1)” for “sections 602(c)(2) and 602(v)(1)” and “under such section” for “under such sections”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–368 substituted “section 602(v)(1)” for “sections 602(c)(2) and 602(v)(1)” and “under such section” for “under such sections”.
 
-1991—Pub. L. 102–83 renumbered section 719 of this title as this section and substituted “Secretary” for “Administrator” in subsec. (a).
+<b>1991</b>—Pub. L. 102–83 renumbered section 719 of this title as this section and substituted “Secretary” for “Administrator” in subsec. (a).
 
-1983—Subsec. (b). Pub. L. 98–160 substituted “sections” for “subsections” after “issued or reinstated under” and after “waived under such”.
+<b>1983</b>—Subsec. (b). Pub. L. 98–160 substituted “sections” for “subsections” after “issued or reinstated under” and after “waived under such”.
 
 #### Effective Date of 1998 Amendment
 

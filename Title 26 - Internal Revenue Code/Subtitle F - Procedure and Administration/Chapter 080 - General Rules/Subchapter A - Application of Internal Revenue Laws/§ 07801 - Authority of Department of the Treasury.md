@@ -34,17 +34,17 @@ The effective date of the Homeland Security Act of 2002, referred to in subsec. 
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–296 designated existing provisions as par. (1), inserted par. heading, and added par. (2).
+<b>2002</b>—Subsec. (a). Pub. L. 107–296 designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
-1982—Subsec. (b). Pub. L. 97–258, §5(b), struck out subsec. (b) which related to Office of General Counsel of Department of the Treasury. See section 301 of Title 31, Money and Finance.
+<b>1982</b>—Subsec. (b). Pub. L. 97–258, §5(b), struck out subsec. (b) which related to Office of General Counsel of Department of the Treasury. See section 301 of Title 31, Money and Finance.
 
 Subsec. (c). Pub. L. 97–258, §2(f)(1), inserted “or section 301(f) of title 31” after “Nothing in this section”.
 
-1976—Subsec. (b). Pub. L. 94–455 substituted “Secretary of the Treasury” for “Secretary” in four places, in par. (1) after “prescribed by the”, in par. (2) after “prescribed by the” and in third sentence thereof “The”, and in par. (3) before “may appoint and fix”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 substituted “Secretary of the Treasury” for “Secretary” in four places, in par. (1) after “prescribed by the”, in par. (2) after “prescribed by the” and in third sentence thereof “The”, and in par. (3) before “may appoint and fix”.
 
-1964—Subsec. (b)(2). Pub. L. 88–426 struck out provisions which prescribed compensation of Assistant General Counsel.
+<b>1964</b>—Subsec. (b)(2). Pub. L. 88–426 struck out provisions which prescribed compensation of Assistant General Counsel.
 
-1959—Pub. L. 86–368 provided for Presidential appointment and for compensation of Assistant General Counsel who shall be Chief Counsel for Internal Revenue Service.
+<b>1959</b>—Pub. L. 86–368 provided for Presidential appointment and for compensation of Assistant General Counsel who shall be Chief Counsel for Internal Revenue Service.
 
 #### Effective Date of 2002 Amendment
 
@@ -72,7 +72,7 @@ Section 4 of Pub. L. 86–368 provided that the position of Assistant General Co
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms, including the related functions of the Secretary of the Treasury, to the Department of Justice, see section 531(c) of Title 6, Domestic Security, and section 599A(c)(1) of Title 28, Judiciary and Judicial Procedure.
+For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms,including the related functions of the Secretary of the Treasury, to the Department of Justice, see section 531(c) of Title 6, Domestic Security, and section 599A(c)(1) of Title 28, Judiciary and Judicial Procedure.
 
 #### Order of Succession
 
@@ -216,7 +216,7 @@ Preservation of specific tax rights and remedies.—Nothing in the plan develope
 
 &emsp;“(2)
 
-Continuing effect of legal documents.—All orders, determinations, rules, regulations, permits, agreements, grants, contracts, certificates, licenses, registrations, privileges, and other administrative actions—
+Continuing effect of legal documents.—All orders, determinations, rules, regulations, permits,agreements, grants, contracts, certificates, licenses, registrations, privileges, and other administrative actions—
 
 &emsp;&emsp;“(A) which have been issued, made, granted, or allowed to become effective by the President, any Federal agency or official thereof, or by a court of competent jurisdiction, in the performance of any function transferred or affected by the reorganization of the Internal Revenue Service or any other administrative unit of the Department of the Treasury under this section; and
 
@@ -520,7 +520,7 @@ Staff of the Commission.—
 
 &emsp;“(1)
 
-In general.—The Co-Chairs, in accordance with rules agreed upon by the Commission, may appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its functions, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable to a person occupying a position at level V of the Executive Schedule under section 5316 of title 5, United States Code. Any Federal Government employee may be detailed to the Commission without reimbursement from the Commission, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
+In general.—The Co-Chairs, in accordance with rules agreed upon by the Commission, may appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its functions, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable to a person occupying a position at level V of the Executive Schedule under section 5316 of title 5, UnitedStates Code. Any Federal Government employee may be detailed to the Commission without reimbursement from the Commission, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
 
 &emsp;“(2)
 
@@ -604,7 +604,7 @@ Pub. L. 95–600, title V, §552, Nov. 6, 1978, 92 Stat. 2891, authorized the Se
 
 #### Study of Taxation of Nonresident Alien Real Estate Transactions in the United States
 
-Pub. L. 95–600, title V, §553, Nov. 6, 1978, 92 Stat. 2891, authorized the Secretary of the Treasury to make a study of the appropriate tax treatment to be given to income derived from, or gain realized on, the sale of interests in United States property held by nonresident aliens or foreign corporations and to submit a report on such study to Congress no later than six months from Nov. 6, 1978, together with any recommendations.
+Pub. L. 95–600, title V, §553, Nov. 6, 1978, 92 Stat. 2891, authorized the Secretary of the Treasury to make a study of the appropriate tax treatment to be given toincome derived from, or gain realized on, the sale of interests in United States property held by nonresident aliens or foreign corporations and to submit a report on such study to Congress no later than six months from Nov. 6, 1978, together with any recommendations.
 
 #### Study and Investigation of Internal Revenue Code Provisions Which Impede or Discourage Recycling of Solid Waste Materials; Presidential and Congressional Report
 

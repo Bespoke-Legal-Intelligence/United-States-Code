@@ -2,7 +2,7 @@
 
 As used in this chapter—
 
-The terms “Colorado River Basin”, “Colorado River Compact”, “Colorado River System”, “Lee Ferry”, “States of the Upper Division”, “Upper Basin”, and “domestic use” shall have the meaning ascribed to them in article II of the Upper Colorado River Basin Compact;
+The terms “Colorado River Basin”, “Colorado River Compact”, “Colorado River System”,“Lee Ferry”, “States of the Upper Division”, “Upper Basin”, and “domestic use” shall have the meaning ascribed to them in article II of the Upper Colorado River Basin Compact;
 
 The term “States of the Upper Colorado River Basin” shall mean the States of Arizona, Colorado, New Mexico, Utah, and Wyoming;
 

@@ -22,11 +22,11 @@
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–461 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+<b>2006</b>—Subsec. (b). Pub. L. 109–461 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
-1996—Subsecs. (c), (d). Pub. L. 104–275 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>1996</b>—Subsecs. (c), (d). Pub. L. 104–275 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1991—Pub. L. 102–40 renumbered section 3402 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 3402 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
@@ -34,7 +34,7 @@ Pub. L. 102–83, §4(a)(1), substituted “administered by the Secretary” for
 
 Subsecs. (a)(2), (b). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-1983—Subsec. (a)(1). Pub. L. 98–160, §703(5)(A), substituted “the Administrator” for “he”.
+<b>1983</b>—Subsec. (a)(1). Pub. L. 98–160, §703(5)(A), substituted “the Administrator” for “he”.
 
 Subsec. (a)(2). Pub. L. 98–160, §703(5)(B), substituted “the discretion of the Administrator” for “his discretion”.
 
@@ -42,7 +42,7 @@ Subsec. (b)(1). Pub. L. 98–160, §703(5)(C), substituted “the individual” 
 
 Subsec. (c). Pub. L. 98–160, §703(5)(D), substituted “member” for “man”.
 
-1969—Subsec. (c). Pub. L. 91–24 substituted “sections 203, 205, 206 or 207 of title 18” for “section 281 or 283 of title 18, or a violation of section 99 of title 5”.
+<b>1969</b>—Subsec. (c). Pub. L. 91–24 substituted “sections 203, 205, 206 or 207 of title 18” for “section 281 or 283 of title 18, or a violation of section 99 of title 5”.
 
 #### Effective Date of 1996 Amendment
 

@@ -104,7 +104,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A producer that has completed intensive technical assistance under paragraph (2) andwhose initial business plan has been approved under paragraph (3)(A) shall be eligible for, in addition to the amount under subparagraph (C), assistance in developing a long-term business adjustment plan.
+&emsp;&emsp;A producer that has completed intensive technical assistance under paragraph (2) and whose initial business plan has been approved under paragraph (3)(A) shall be eligible for, in addition to the amount under subparagraph (C), assistance in developing a long-term business adjustment plan.
 
 #### (B) Approval of long-term business adjustment plans
 
@@ -136,9 +136,9 @@ An agricultural commodity producer that receives benefits under this part (other
 
 #### Amendments
 
-2009—Pub. L. 111–5, §§1883(a), 1893, temporarily amended section generally. Prior to amendment, section related to qualifying requirements for adjustment assistance, amount of cash benefits, maximum amount in any 12-month period, and limitations on other assistance. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Pub. L. 111–5, §§1883(a), 1893, temporarily amended section generally. Prior to amendment, section related to qualifying requirements for adjustment assistance, amount of cash benefits, maximum amount in any 12-month period, and limitations on other assistance. See Effective and Termination Dates of 2009 Amendment note below.
 
-2004—Subsec. (a)(1). Pub. L. 108–429, §2004(a)(9)(A)(i), substituted “adjustment assistance under this part” for “trade adjustment allowance” and “such assistance” for “such allowance” in introductory provisions.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–429, §2004(a)(9)(A)(i), substituted “adjustment assistance under this part” for “trade adjustment allowance” and “such assistance” for “such allowance” in introductory provisions.
 
 Subsec. (a)(1)(A). Pub. L. 108–429, §2004(a)(9)(A)(ii), made technical amendment to reference in original act which appears in text as reference to this subsection.
 
@@ -148,9 +148,9 @@ Subsec. (b)(2). Pub. L. 108–429, §2004(a)(9)(B), substituted “paragraph (1)
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 
 #### Termination Date
 
-Except as otherwise provided, technical assistance and financial assistance may not be provided under this part after Dec. 31, 2010, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+Except as otherwise provided, technical assistance and financial assistance may not be provided under this section after Feb. 12, 2011, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

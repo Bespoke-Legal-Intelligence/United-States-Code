@@ -24,5 +24,5 @@ Section was not enacted as part of act May 18, 1928, ch. 624, 45 Stat. 602, whic
 
 #### Amendments
 
-1969—Pub. L. 91–64 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1969</b>—Pub. L. 91–64 designated existing provisions as subsec. (a) and added subsec. (b).
 

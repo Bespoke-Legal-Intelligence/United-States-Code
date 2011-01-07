@@ -16,15 +16,15 @@ Exceptions.—Subsection (a) does not apply to the following:
 
 #### Amendments
 
-2006—Pub. L. 109–163 designated existing provisions as subsec. (a), inserted heading, substituted “Except as provided in subsection (b) and as provided” for “Except an officer of the Navy or Marine Corps who is an officer designated for limited duty to whom section 5596(e) or 6383 of this title applies and except as provided”, and added subsec. (b).
+<b>2006</b>—Pub. L. 109–163 designated existing provisions as subsec. (a), inserted heading, substituted “Except as provided in subsection (b) and as provided” for “Except an officer of the Navy or Marine Corps who is an officer designated for limited duty to whom section 5596(e) or 6383 of this title applies and except as provided”, and added subsec. (b).
 
-1998—Pub. L. 105–261 substituted “Except an officer of the Navy or Marine Corps who is an officer designatedfor limited duty to whom section 5596(e) or 6383 of this title applies” for “Except an officer of the Navy designated for limited duty to whom section 5596(e) of this title applies and an officer of the Marine Corps designated for limited duty to whom section 5596(e) or section 6383 of this title applies” and struck out at end “During the period beginning on July 1, 1993, and ending on October 1, 1999, the preceding sentence shall not apply to an officer of the Navy designated for limited duty to whom section 6383 of this title applies.”
+<b>1998</b>—Pub. L. 105–261 substituted “Except an officer of the Navy or Marine Corps who is an officer designated for limited duty to whom section 5596(e) or 6383 of this title applies” for “Except an officer of the Navy designated for limited duty to whom section 5596(e) of this title applies and an officer of the Marine Corps designated for limited duty to whom section 5596(e) or section 6383 of this title applies” and struck out at end “During the period beginning on July 1, 1993, and ending on October 1, 1999, the preceding sentence shall not apply to an officer of the Navy designated for limited duty to whom section 6383 of this title applies.”
 
-1993—Pub. L. 103–160 substituted “October 1, 1999” for “October 1, 1995”.
+<b>1993</b>—Pub. L. 103–160 substituted “October 1, 1999” for “October 1, 1995”.
 
-1992—Pub. L. 102–484 inserted at end “During the period beginning on July 1, 1993, and ending on October 1, 1995, the preceding sentence shall not apply to an officer of the Navy designated for limited duty to whom section 6383 of this title applies.”
+<b>1992</b>—Pub. L. 102–484 inserted at end “During the period beginning on July 1, 1993, and ending on October 1, 1995, the preceding sentence shall not apply to an officer of the Navy designated for limited duty to whom section 6383 of this title applies.”
 
-1984—Pub. L. 98–525, §1405(12), substituted “28” for “twenty-eight”.
+<b>1984</b>—Pub. L. 98–525, §1405(12), substituted “28” for “twenty-eight”.
 
 Pub. L. 98–525, §529(b), substituted “Except an officer of the Navy designated for limited duty to whom section 5596(e) of this title applies and an officer of the Marine Corps designated for limited duty to whom section 5596(e) or section 6383 of this title applies” for “Except an officer of the Navy and Marine Corps who is an officer designated for limited duty (to whom section 5596(e) or 6383 of this title applies)”.
 

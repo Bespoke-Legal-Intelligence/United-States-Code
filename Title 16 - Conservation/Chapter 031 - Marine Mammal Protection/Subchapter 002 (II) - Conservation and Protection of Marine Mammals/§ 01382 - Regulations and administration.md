@@ -18,17 +18,17 @@ The Secretary shall review annually the operation of each program in which the U
 
 #### (e) Measures to alleviate impacts on strategic stocks
 
-If the Secretary determines, based on a stock assessment under section 1386 of this title or other significant new information obtained under this chapter, that impacts on rookeries, mating grounds, or other areas of similar ecological significance to marine mammals may be causing the decline or impeding the recovery of a strategic stock, the Secretary may develop and implement conservation or management measures to alleviate those impacts. Such measures shall be developed and implemented after consultation with the Marine Mammal Commission and the appropriate Federal agencies and after notice and opportunity for public comment.
+If the Secretary determines, based on a stock assessment under section 1386 of this title or other significant new information obtained under this chapter, that impacts on rookeries,mating grounds, or other areas of similar ecological significance to marine mammals may be causing the decline or impeding the recovery of a strategic stock, the Secretary may develop and implement conservation or management measures to alleviate those impacts. Such measures shall be developed and implemented after consultation with the Marine Mammal Commission and the appropriate Federal agencies and after notice and opportunity for public comment.
 
 (Pub. L. 92–522, title I, §112, Oct. 21, 1972, 86 Stat. 1042; Pub. L. 96–470, title II, §201(e), Oct. 19, 1980, 94 Stat. 2241; Pub. L. 102–587, title III, §3004(a)(3), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §§7(a), 24(c)(11), Apr. 30, 1994, 108 Stat. 542, 566.)
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–238, §24(c)(11), made technical amendment to reference to subchapter V of this chapter to reflect renumbering of corresponding title of original act.
+<b>1994</b>—Subsec. (c). Pub. L. 103–238, §24(c)(11), made technical amendment to reference to subchapter V of this chapter to reflect renumbering of corresponding title of original act.
 
 Subsec. (e). Pub. L. 103–238, §7(a), added subsec. (e).
 
-1992—Subsec. (c). Pub. L. 102–587 inserted “or subchapter V of this chapter” after “of this subchapter”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–587 inserted “or subchapter V of this chapter” after “of this subchapter”.
 
-1980—Subsec. (d). Pub. L. 96–470 substituted “include in the annual report to the public and the Congress required under section 1373(f) of this title” for “forthwith submit to Congress”.
+<b>1980</b>—Subsec. (d). Pub. L. 96–470 substituted “include in the annual report to the public and the Congress required under section 1373(f) of this title” for “forthwith submit to Congress”.
 

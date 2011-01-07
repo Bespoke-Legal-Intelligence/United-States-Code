@@ -22,7 +22,7 @@ The Secretary may exclude from the land designated under subsection (a) of this 
 
 (B) The Secretary shall pay to the owner of the right terminated an amount equal to the value of that portion of such right which remained unexpired on the date of such termination.
 
-(3)(A) The Secretary must, within 60 days after October 22, 1982, notify in writing any owner or occupier of property described in subsection (a)(2) of this section that an option to retain rights with respect to such property exists under section 460x–9(b) of this title, whether such property shall be subject to any action by the Secretary under paragraph (1) of this subsection, the nature of such proposed action, the reasonsfor such proposed action, and the contemplated timetable therefor.
+(3)(A) The Secretary must, within 60 days after October 22, 1982, notify in writing any owner or occupier of property described in subsection (a)(2) of this section that an option to retain rights with respect to such property exists under section 460x–9(b) of this title, whether such property shall be subject to any action by the Secretary under paragraph (1) of this subsection, the nature of such proposed action, the reasons for such proposed action, and the contemplated timetable therefor.
 
 (B) With respect to any proposed action to be taken under paragraph (2) of this subsection, if the Secretary determines within 60 days after October 22, 1982, after taking into account timetable and funding projections, that, consistent with the General Management Plan dated October 1979, public use or development is anticipated before 1998 for an area containing any improved property described in subsection (a)(2) of this section, the Secretary shall include notice of such determination in any notification under subparagraph (A) of this paragraph. Any failure of the Secretary to so notify an occupier pursuant to this subparagraph shall not preclude the Secretary from taking action under paragraph (2) at some future date.
 
@@ -30,5 +30,5 @@ The Secretary may exclude from the land designated under subsection (a) of this 
 
 #### Amendments
 
-1982—Pub. L. 97–361 designated existing provisions up to the proviso as subsec. (a), added cl. (2), designated existing proviso as subsec. (b), and added subsec. (c).
+<b>1982</b>—Pub. L. 97–361 designated existing provisions up to the proviso as subsec. (a), added cl. (2), designated existing proviso as subsec. (b), and added subsec. (c).
 

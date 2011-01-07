@@ -14,7 +14,7 @@
 
 &emsp;(E) not more than $25,000,000 may be made available for Project PEACE; and
 
-&emsp;(F) not more than $10,000,000 may be made available for the Volunteers Investing inPeace and Security (VIPS) program under chapter 89 <sup>1</sup> of title 10.
+&emsp;(F) not more than $10,000,000 may be made available for the Volunteers Investing in Peace and Security (VIPS) program under chapter 89 <sup>1</sup> of title 10.
 
 (2), (3) Omitted.
 
@@ -31,4 +31,6 @@ Chapter 89 of title 10, referred to in subsec. (a)(1)(F), was repealed by Pub. L
 #### Codification
 
 Section is comprised of section 1421 of Pub. L. 102–484. Subsec. (a)(2) and (3) of section 1421 of Pub. L. 102–484 amended section 221 of Pub. L. 102–228 which is set out as a note under section 2551 of this title. Subsec. (b) of section 1421 of Pub. L. 102–484 amended sections 108 and 109 of Pub. L. 102–229 which are not classified to the Code.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -24,7 +24,7 @@ This subsection, referred to in subsec. (c), was enacted by Pub. L. 106–568, w
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–160 added subsec. (b) and struck out former subsec. (b) which read as follows:
+<b>2003</b>—Subsec. (b). Pub. L. 108–160 added subsec. (b) and struck out former subsec. (b) which read as follows:
 
 “There are authorized to be appropriated to the Environmental Dispute Resolution Fund established under section 5607a of this title—
 
@@ -36,7 +36,7 @@ This subsection, referred to in subsec. (c), was enacted by Pub. L. 106–568, w
 
 &emsp;“(2) $1,250,000 for each of the fiscal years 1999 through 2002 for operation costs.”
 
-2000—Subsec. (c). Pub. L. 106–568 added subsec. (c).
+<b>2000</b>—Subsec. (c). Pub. L. 106–568 added subsec. (c).
 
-1998—Pub. L. 105–156, §8, designated existing provisions as subsec. (a), inserted heading, substituted “There is authorized to be appropriated to the Trust Fund” for “There are authorized to be appropriated to the Fund”, and added subsec. (b).
+<b>1998</b>—Pub. L. 105–156, §8, designated existing provisions as subsec. (a), inserted heading, substituted“There is authorized to be appropriated to the Trust Fund” for “There are authorized to be appropriated to the Fund”, and added subsec. (b).
 

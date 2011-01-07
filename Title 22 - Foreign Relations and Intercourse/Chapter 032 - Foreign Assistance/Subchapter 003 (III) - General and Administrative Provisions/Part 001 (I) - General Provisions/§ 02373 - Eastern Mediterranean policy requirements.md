@@ -68,7 +68,7 @@ Pub. L. 100–461, title V, §579, Oct. 1, 1988, 102 Stat. 2268–48.
 
 #### Amendments
 
-1987—Subsec. (e). Pub. L. 100–202 added subsec. (e).
+<b>1987</b>—Subsec. (e). Pub. L. 100–202 added subsec. (e).
 
 #### Delegation of Functions
 

@@ -8,11 +8,11 @@
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 653 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 653 of this title as this section.
 
 Subsec. (b). Pub. L. 102–40 substituted “7332” for “4132”.
 
-1976—Subsec. (b). Pub. L. 94–581 substituted “Patient records prepared or obtained under this subchapter shall be held confidential in the same manner and under the same conditions prescribed in section 4132 of this title” for “The Administrator shall promulgate rules and regulations to insure that all information and patient records prepared or obtained under this subchapter shall be held confidential except for (1) such information as the patient (or his guardian) requests in writing to be released or (2) statistical data compiled without reference to patient names or other identifying characteristics”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–581 substituted “Patient records prepared or obtained under this subchapter shall be held confidential in the same manner and under the same conditions prescribed in section 4132 of this title” for “The Administrator shall promulgate rules and regulations to insure that all information and patient records prepared or obtained under this subchapter shall be held confidential except for (1) such information as the patient (or his guardian) requests in writing to be released or (2) statistical data compiled without reference to patient names or other identifying characteristics”.
 
 #### Effective Date of 1976 Amendment
 

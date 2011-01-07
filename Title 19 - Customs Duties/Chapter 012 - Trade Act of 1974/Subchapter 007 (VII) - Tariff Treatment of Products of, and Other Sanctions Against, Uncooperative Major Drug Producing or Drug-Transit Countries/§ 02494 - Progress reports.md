@@ -6,5 +6,5 @@ The President shall include as a part of the annual report required under sectio
 
 #### Amendments
 
-1999—Pub. L. 106–36 substituted “section 2291h of title 22” for “section 2291(e)(1) of title 22”.
+<b>1999</b>—Pub. L. 106–36 substituted “section 2291h of title 22” for “section 2291(e)(1) of title 22”.
 

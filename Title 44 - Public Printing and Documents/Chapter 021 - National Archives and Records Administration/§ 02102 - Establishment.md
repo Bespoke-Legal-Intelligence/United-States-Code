@@ -12,7 +12,7 @@ This section incorporates only the last sentence of paragraph (a) of former sect
 
 #### Amendments
 
-1984—Pub. L. 98–497 substituted provisions directing that there shall be an independent establishment in the executive branch of the Government to be known as the National Archives and Records Administration and that the Administration shall be administered under the supervision and direction of the Archivist for provisions which had formerly directed only that the Administrator of General Services appoint the Archivist of the United States.
+<b>1984</b>—Pub. L. 98–497 substituted provisions directing that there shall be an independent establishment in the executive branch of the Government to be known as the National Archives and Records Administration and that the Administration shall be administered under the supervision and direction of the Archivist for provisions which had formerly directed only that the Administrator of General Services appoint the Archivist of the United States.
 
 #### Effective Date of 1984 Amendment
 

@@ -12,7 +12,7 @@ Investigations.—The Under Secretary shall conduct periodic and unannounced ins
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–71, §101(f)(3), substituted “Under Secretary of Transportation for Security” for “Administrator” in first sentence and “Transportation Security Administration” for “Administration” in second sentence.
+<b>2001</b>—Subsec. (a). Pub. L. 107–71, §101(f)(3), substituted “Under Secretary of Transportation for Security” for “Administrator” in first sentence and “Transportation Security Administration” for “Administration” in second sentence.
 
 Subsec. (b). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator” in two places.
 

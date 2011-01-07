@@ -2,7 +2,7 @@
 
 #### (a) Lands and waters included; legal description; revision
 
-Except as provided in subsection (b) of this section, the park shall include the lands and waters within the boundaries as generally depicted on the drawing entitled “A Proposed Voyageurs National Park, Minnesota,” numbered LNPMW–VOYA–1001, dated February 1969, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. Within one year after acquisition of the lands owned by the State of Minnesota and its political subdivisions within the boundaries of the park the Secretary shall affix to such drawing an exact legal description of said boundaries. The Secretary mayrevise the boundaries of the park from time to time by publishing in the Federal Register a revised drawing or other boundary description, but such revisions shall not increase the land acreage within the park by more than one thousand acres.
+Except as provided in subsection (b) of this section, the park shall include the lands and waters within the boundaries as generally depicted on the drawing entitled “A Proposed Voyageurs National Park, Minnesota,” numbered LNPMW–VOYA–1001, dated February 1969, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. Within one year after acquisition of the lands owned by the State of Minnesota and its political subdivisions within the boundaries of the park the Secretary shall affix to such drawing an exact legal description of said boundaries. The Secretary may revise the boundaries of the park from time to time by publishing in the Federal Register a revised drawing or other boundary description, but such revisions shall not increase the land acreage within the park by more than one thousand acres.
 
 #### (b) Additional revisions; procedures applicable; failure to comply with procedures
 
@@ -44,7 +44,7 @@ Provisions of section 102 of Pub. L. 91–661 \[this section\] were formerly set
 
 #### Amendments
 
-1983—Subsec. (a). Pub. L. 97–405, §1(1), substituted “(a) Except as provided in subsection (b) of this section, the park” for “The park”.
+<b>1983</b>—Subsec. (a). Pub. L. 97–405, §1(1), substituted “(a) Except as provided in subsection (b) of this section, the park” for “The park”.
 
 Subsec. (b). Pub. L. 97–405, §1(2), added subsec. (b).
 

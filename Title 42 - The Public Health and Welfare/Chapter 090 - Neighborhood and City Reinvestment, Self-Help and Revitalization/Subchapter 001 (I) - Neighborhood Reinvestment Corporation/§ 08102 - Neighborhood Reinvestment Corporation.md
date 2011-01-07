@@ -20,5 +20,5 @@ The corporation, including its franchise, activities, assets, and income, shall 
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–399 struck out “National” before “Neighborhood”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–399 struck out “National” before “Neighborhood”.
 

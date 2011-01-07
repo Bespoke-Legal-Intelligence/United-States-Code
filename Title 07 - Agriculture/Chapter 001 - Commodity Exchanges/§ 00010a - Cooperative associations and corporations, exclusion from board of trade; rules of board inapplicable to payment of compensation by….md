@@ -4,7 +4,7 @@
 
 (b) No rule of any board of trade designated or registered as a contract market or a derivatives transaction execution facility shall forbid or be construed to forbid the payment of compensation on a commodity-unit basis, or otherwise, by any federated cooperative association to its regional member-associations for services rendered or to be rendered in connection with any organization work, educational activity, or procurement of patronage, provided no part of any such compensation is returned to patrons (whether members or nonmembers) of such cooperative association, or of its regional or local member-associations, otherwise than as a dividend on capital stock or as a patronage dividend out of the net earnings or surplus of such federated cooperative association.
 
-(Sept. 21, 1922, ch. 369, §6a, as added June 15, 1936, ch. 545, §9, 49 Stat. 1499; amended June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 102–546, title II, §209(b)(4), title IV, §402(8), Oct. 28, 1992, 106 Stat. 3607, 3625; Pub. L. 106–554, §1(a)(5) \[title I,§123(a)(13)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–409.)
+(Sept. 21, 1922, ch. 369, §6a, as added June 15, 1936, ch. 545, §9, 49 Stat. 1499; amended June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 102–546, title II, §209(b)(4), title IV, §402(8), Oct. 28, 1992, 106 Stat. 3607, 3625; Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(13)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–409.)
 
 #### Amendments
 

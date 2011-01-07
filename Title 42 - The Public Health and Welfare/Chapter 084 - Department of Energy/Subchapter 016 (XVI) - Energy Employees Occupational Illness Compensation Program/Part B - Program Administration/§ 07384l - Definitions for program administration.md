@@ -82,7 +82,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(I) A Department of Energy employee who contracted that cancer after beginning employment at a Department of Energy facility.
 
-&emsp;&emsp;&emsp;(II) A Department of Energy contractor employee who contracted that cancer afterbeginning employment at a Department of Energy facility.
+&emsp;&emsp;&emsp;(II) A Department of Energy contractor employee who contracted that cancer after beginning employment at a Department of Energy facility.
 
 &emsp;&emsp;&emsp;(III) An atomic weapons employee who contracted that cancer after beginning employment at an atomic weapons employer facility.
 
@@ -182,11 +182,11 @@ Section 4(b)(2) of the Radiation Exposure Compensation Act, referred to in par. 
 
 #### Amendments
 
-2004—Par. (3). Pub. L. 108–375, §3168(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘atomic weapons employee’ means an individual employed by an atomic weapons employer during a period when the employer was processing or producing, for the use by the United States, material that emitted radiation and was used in the production of an atomic weapon, excluding uranium mining and milling.”
+<b>2004</b>—Par. (3). Pub. L. 108–375, §3168(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘atomic weapons employee’ means an individual employed by an atomic weapons employer during a period when the employer was processing or producing, for the use by the United States, material that emitted radiation and was used in the production of an atomic weapon, excluding uranium mining and milling.”
 
 Par. (14)(C)(ii). Pub. L. 108–375, §3166(b)(2), substituted “30 days” for “180 days”.
 
-2001—Par. (17)(C). Pub. L. 107–20 added subpar. (C).
+<b>2001</b>—Par. (17)(C). Pub. L. 107–20 added subpar. (C).
 
 Par. (17)(D). Pub. L. 107–107, §3151(a)(1), added subpar. (D).
 

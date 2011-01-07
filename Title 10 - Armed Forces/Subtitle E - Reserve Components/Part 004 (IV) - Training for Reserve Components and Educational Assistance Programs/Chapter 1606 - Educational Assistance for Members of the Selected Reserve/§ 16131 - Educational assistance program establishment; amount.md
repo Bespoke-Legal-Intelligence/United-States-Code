@@ -102,7 +102,7 @@
 
 (i)(1) In the case of a person who has a skill or specialty designated by the Secretary concerned as a skill or specialty in which there is a critical shortage of personnel or for which it is difficult to recruit or, in the case of critical units, retain personnel, the Secretary concerned may increase the rate of the educational assistance allowance applicable to that person to such rate in excess of the rate prescribed under subparagraphs (A) through (D) of subsection (b)(1) as the Secretary of Defense considers appropriate, but the amount of any such increase may not exceed $350 per month.
 
-(2) In the case of a person who has a skill or specialty designated by the Secretary concerned as a skill or specialty in which there is a critical shortage of personnel or for which it is difficult to recruit or, in the case of critical units, retain personnel, who is eligible for educational benefits under chapter 30 (other than section 3012) of title 38 and who meets the eligibility criteria specified in subparagraphs (A) and (B) of section 16132(a)(1) of this title, the Secretary concerned may increase the rate of the educational assistance allowance applicable to that person to such rate in excess of the rate prescribed under section 3015 of title 38 as the Secretary of Defense considers appropriate, but the amount of any such increase may not exceed $350 per month.
+(2) In the case of a person who has a skill or specialty designated by the Secretary concerned as a skill or specialty in which there is a critical shortage of personnel or for which it is difficult to recruit or, in the case of critical units, retain personnel, who is eligible for educational benefits under chapter 30 (other than section 3012) of title 38 and who meets the eligibility criteriaspecified in subparagraphs (A) and (B) of section 16132(a)(1) of this title, the Secretary concerned may increase the rate of the educational assistance allowance applicable to that person to such rate in excess of the rate prescribed under section 3015 of title 38 as the Secretary of Defense considers appropriate, but the amount of any such increase may not exceed $350 per month.
 
 (3) The authority provided by paragraphs (1) and (2) shall be exercised by the Secretaries concerned under regulations prescribed by the Secretary of Defense.
 
@@ -116,13 +116,13 @@
 
 #### Amendments
 
-2006—Subsec. (j). Pub. L. 109–163 added subsec. (j).
+<b>2006</b>—Subsec. (j). Pub. L. 109–163 added subsec. (j).
 
-2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1999—Subsec. (b)(1). Pub. L. 106–65 inserted “in” after “Except as provided” in introductory provisions.
+<b>1999</b>—Subsec. (b)(1). Pub. L. 106–65 inserted “in” after “Except as provided” in introductory provisions.
 
-1998—Subsec. (b)(1). Pub. L. 105–178, §8203(b)(3), struck out “in paragraph (2) and” after “Except as provided” in introductory provisions.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–178, §8203(b)(3), struck out “in paragraph (2) and” after “Except as provided” in introductory provisions.
 
 Subsec. (b)(1)(A). Pub. L. 105–178, §8203(b)(1)(A), substituted “$251 (as increased from time to time under paragraph (2))” for “$190”.
 
@@ -132,9 +132,9 @@ Subsec. (b)(1)(C). Pub. L. 105–178, §8203(b)(1)(C), substituted “$125 (as i
 
 Subsec. (b)(2). Pub. L. 105–178, §8203(b)(2), in introductory provisions, substituted “, the Secretary shall provide a percentage increase (rounded to the nearest dollar) in the rates payable under subparagraphs (A), (B), and (C) of paragraph (1)” for “beginning on or after October 1, 1994, the Secretary shall continue to pay, in lieu of the rates payable under subparagraphs (A), (B), and (C) of paragraph (1), the monthly rates payable under this paragraph for the previous fiscal year and shall provide, for any such fiscal year, a percentage increase in such rates”.
 
-1997—Subsec. (c)(3)(B)(i). Pub. L. 105–85 struck out “, in connection with the Persian Gulf War,” after “being ordered”.
+<b>1997</b>—Subsec. (c)(3)(B)(i). Pub. L. 105–85 struck out “, in connection with the Persian Gulf War,” after “being ordered”.
 
-1996—Subsec. (b)(1). Pub. L. 104–275, §105(d)(2), substituted “(f)” for “(g)”.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–275, §105(d)(2), substituted “(f)” for “(g)”.
 
 Subsecs. (e) to (i). Pub. L. 104–275, §105(d)(1), redesignated subsecs. (f) to (j) as (e) to (i), respectively, and struck out former subsec. (e) which read as follows:
 
@@ -146,21 +146,21 @@ Subsec. (j). Pub. L. 104–275, §105(d)(1), redesignated subsec. (j) as (i).
 
 Pub. L. 104–106 added subsec. (j).
 
-1994—Pub. L. 103–337, §1663(b)(2), renumbered section 2131 of this title as this section.
+<b>1994</b>—Pub. L. 103–337, §1663(b)(2), renumbered section 2131 of this title as this section.
 
 Subsec. (c)(3)(B)(i). Pub. L. 103–337, §1663(b)(3)(A), substituted “12301(a), 12301(d), 12301(g), 12302, or 12304” for “672(a), (d), or (g), 673, or 673b”.
 
 Subsec. (g)(1). Pub. L. 103–337, §1663(b)(3)(B), substituted “16136(c)” for “2136(c)”.
 
-1993—Subsec. (b)(2). Pub. L. 103–66 struck out subpar. (A), struck out subpar. (B) designation before “With respect to”, redesignated former cls. (i) and (ii) as subpars. (A) and (B), respectively, and in subpar. (B) substituted “subparagraph (A)” for “clause (i)”. Prior to amendment, subpar. (A) read as follows: “With respect to the fiscal year beginning on October 1, 1993, the Secretary shall provide a percentage increase in the monthly rates payable under subparagraphs (A), (B), and (C) of paragraph (1) equal to the percentage by which the Consumer Price Index (all items, United States city average, published by the Bureau of Labor Statistics) for the 12-month period ending June 30, 1993, exceeds such Consumer Price Index for the 12-month period ending June 30, 1992.”
+<b>1993</b>—Subsec. (b)(2). Pub. L. 103–66 struck out subpar. (A), struck out subpar. (B) designation before “With respect to”, redesignated former cls. (i) and (ii) as subpars. (A) and (B), respectively, and in subpar. (B) substituted “subparagraph (A)” for “clause (i)”. Prior to amendment, subpar. (A) read as follows: “With respect to the fiscal year beginning on October 1, 1993, the Secretary shall provide a percentage increase in the monthly rates payable under subparagraphs (A), (B), and (C) of paragraph (1) equal to the percentage by which the Consumer Price Index (all items, United States city average, published by the Bureau of Labor Statistics) for the 12-month period ending June 30, 1993, exceeds such Consumer Price Index for the 12-month period ending June 30, 1992.”
 
 Subsec. (c)(1). Pub. L. 103–160, §518(1), struck out “other than a program of education in a course of instruction beyond the baccalaureate degree level” after “title 38”.
 
 Subsec. (i). Pub. L. 103–160, §518(2), added subsec. (i).
 
-1992—Subsec. (b)(1). Pub. L. 102–568, §301(b), substituted “$190” for “$140” in subpar. (A), “$143” for “$105” in subpar. (B), and “$95” for “$70” in subpar. (C).
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–568, §301(b), substituted “$190” for “$140” in subpar. (A), “$143” for “$105” in subpar. (B), and “$95” for “$70” in subpar. (C).
 
-Subsec. (b)(2)(A). Pub. L. 102–568, §301(d)(1), (2), redesignated subpar. (B) as (A), substituted “shall provide a percentage increase in the monthly rates payable under subparagraphs (A), (B), and (C) of paragraph (1)” for “may continue to pay, in lieu of the rates payable under subparagraphs (A), (B), and (C) of paragraph (1), the monthly rates payable under subparagraph (A) of this paragraph and may provide a percentage increase in such rates”, and struck out former subpar. (A) which read as follows: “During the period beginning on October 1, 1991, and ending on September 30, 1993, the monthly rates payable under subparagraphs (A), (B), and (C) of paragraph (1) shall be $170, $128, and $85, respectively.”
+Subsec. (b)(2)(A). Pub. L. 102–568, §301(d)(1), (2), redesignated subpar. (B) as (A), substituted “shall provide a percentage increase in the monthly rates payable under subparagraphs (A), (B), and (C) of paragraph (1)” for “may continue to pay, in lieu of the rates payable under subparagraphs (A), (B), and (C) of paragraph (1), the monthly rates payable under subparagraph (A) of this paragraph and may provide a percentage increase in such rates”, and struck out former subpar. (A) whichread as follows: “During the period beginning on October 1, 1991, and ending on September 30, 1993, the monthly rates payable under subparagraphs (A), (B), and (C) of paragraph (1) shall be $170, $128, and $85, respectively.”
 
 Subsec. (b)(2)(B), (C). Pub. L. 102–568, §301(d)(3), redesignated subpar. (C) as (B) and substituted “shall continue” for “may continue” and “shall provide” for “may provide” in introductory provisions. Former subpar. (B) redesignated (A).
 
@@ -176,13 +176,13 @@ Subsec. (g)(4). Pub. L. 102–568, §310(b)(2), added par. (4).
 
 Subsec. (h). Pub. L. 102–568, §318, added subsec. (h).
 
-1991—Subsec. (b). Pub. L. 102–25, §337(b)(1), designated existing provisions as par. (1) and substituted “Except as provided in paragraph (2) and” for “Except as provided in”, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, and added par. (2).
+<b>1991</b>—Subsec. (b). Pub. L. 102–25, §337(b)(1), designated existing provisions as par. (1) and substituted “Except as provided in paragraph (2) and” for “Except as provided in”, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, and added par. (2).
 
 Subsec. (c)(3). Pub. L. 102–127 added par. (3).
 
 Subsecs. (f)(2), (g)(3). Pub. L. 102–25, §337(b)(2), (3), substituted “amount equal to the amount of the monthly rate payable under subsection (b)(1)(A) for the fiscal year concerned” for “$140”.
 
-1989—Subsec. (b). Pub. L. 101–237, §422(b)(2)(A), in introductory provisions, substituted “subsections (d) through (g)” for “subsections (d) through (f)”.
+<b>1989</b>—Subsec. (b). Pub. L. 101–237, §422(b)(2)(A), in introductory provisions, substituted “subsections (d) through (g)” for “subsections (d) through (f)”.
 
 Pub. L. 101–189, §645(b)(1), in introductory provisions, substituted “of an educational assistance allowance” for “and educational assistance allowance”.
 
@@ -196,13 +196,13 @@ Subsecs. (d) to (f). Pub. L. 101–189, §642(b)(2), added subsecs. (d) to (f).
 
 Subsec. (g). Pub. L. 101–237, §422(b)(2)(B), added subsec. (g).
 
-1988—Subsec. (b)(4). Pub. L. 100–689, §110(a), added par. (4).
+<b>1988</b>—Subsec. (b)(4). Pub. L. 100–689, §110(a), added par. (4).
 
 Subsec. (c)(2). Pub. L. 100–689, §111(b)(1), inserted “(or the equivalent thereof in part-time educational assistance)” before period at end.
 
-1984—Pub. L. 98–525 amended section generally, substituting a schedule of payments at stated monthly rates for full-time, three-quarter-time, and half-time pursuit of an education program for former provisions which had set a maximum for any one member of $1,000 for any twelve-month period and $4,000 for the total assistance to any one member.
+<b>1984</b>—Pub. L. 98–525 amended section generally, substituting a schedule of payments at stated monthly rates for full-time, three-quarter-time, and half-time pursuit of an education program for former provisions which had set a maximum for any one member of $1,000 for any twelve-month period and $4,000 for the total assistance to any one member.
 
-1980—Subsec. (a). Pub. L. 96–513, §511(68)(A), substituted “armed forces” for “armed force”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513, §511(68)(A), substituted “armed forces” for “armed force”.
 
 Subsec. (b)(2). Pub. L. 96–513, §511(68)(B), inserted “of this title” after “2132”.
 
@@ -210,7 +210,7 @@ Subsec. (c). Pub. L. 96–342 substituted “$1,000” for “$500” and “$4,
 
 Subsec. (d). Pub. L. 96–513, §511(68)(C), substituted “Secretary of Education” for “Commissioner of Education, Department of Health, Education, and Welfare”.
 
-1979—Subsec. (b)(1). Pub. L. 96–107 substituted “100 percent” for “50 percent”.
+<b>1979</b>—Subsec. (b)(1). Pub. L. 96–107 substituted “100 percent” for “50 percent”.
 
 #### Effective Date of 2006 Amendment
 

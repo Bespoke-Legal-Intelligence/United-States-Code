@@ -10,7 +10,7 @@ Junior Foreign Service officer training shall be directed primarily toward provi
 
 #### (c) Purpose; completion of training as condition for placement or appointment
 
-At each stage the program of professional development should be designed to provide members of the Service with the opportunity to acquire skills and knowledge relevant to clearly established professional standards of expected performance. Career candidates should satisfactorily complete candidate training prior to attainment of career status. Members of the Service should satisfactorily complete midcareer training before appointment to the Senior Foreign Service.
+At each stage the program of professional development should be designed to provide members of the Service with the opportunity to acquire skills and knowledge relevant to clearlyestablished professional standards of expected performance. Career candidates should satisfactorily complete candidate training prior to attainment of career status. Members of the Service should satisfactorily complete midcareer training before appointment to the Senior Foreign Service.
 
 #### (d) University degree credit
 
@@ -24,5 +24,5 @@ Training provided under this section shall be conducted by the Department and by
 
 #### Amendments
 
-1987—Subsec. (f). Pub. L. 100–204 struck out subsec. (f) which related to report to Congress and President.
+<b>1987</b>—Subsec. (f). Pub. L. 100–204 struck out subsec. (f) which related to report to Congress and President.
 

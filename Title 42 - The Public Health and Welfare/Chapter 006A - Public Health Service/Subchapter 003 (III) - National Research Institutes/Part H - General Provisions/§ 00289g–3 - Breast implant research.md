@@ -16,5 +16,5 @@ For purposes of this section, the term “breast implant” means a breast prost
 
 #### Breast Implants; Study by Comptroller General
 
-Pub. L. 107–250, title II, §214, Oct. 26, 2002, 116 Stat. 1615, which provided that the Comptroller General wasto conduct a study of information typically provided by health professionals to women on breast implant surgery and to report the findings of the study to Congress, was repealed by Pub. L. 111–8, div. G, title I, §1301(g), Mar. 11, 2009, 123 Stat. 829.
+Pub. L. 107–250, title II, §214, Oct. 26, 2002, 116 Stat. 1615, which provided that the Comptroller General was to conduct a study of information typically provided by health professionals to women on breast implant surgery and to report the findings of the study to Congress, was repealed by Pub. L. 111–8, div. G, title I, §1301(g), Mar. 11, 2009, 123 Stat. 829.
 

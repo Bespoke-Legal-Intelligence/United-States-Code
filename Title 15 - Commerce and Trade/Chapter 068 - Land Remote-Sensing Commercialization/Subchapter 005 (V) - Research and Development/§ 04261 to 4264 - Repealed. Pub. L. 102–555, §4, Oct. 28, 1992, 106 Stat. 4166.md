@@ -8,5 +8,3 @@ Section 4263, Pub. L. 98–365, title V, §503, July 17, 1984, 98 Stat. 463, rel
 
 Section 4264, Pub. L. 98–365, title V, §504, as added Pub. L. 100–147, title III, §307, Oct. 30, 1987, 101 Stat. 877, related to remote-sensing research and development activities of system operators.
 
-For similar provisions, see section 5631 et seq. of this title.
-

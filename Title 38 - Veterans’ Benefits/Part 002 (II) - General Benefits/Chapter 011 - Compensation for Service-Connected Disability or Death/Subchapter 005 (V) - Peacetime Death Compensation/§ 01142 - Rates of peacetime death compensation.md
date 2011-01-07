@@ -6,11 +6,11 @@ For the purposes of section 1141 of this title, the monthly rates of death compe
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 342 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 342 of this title as this section.
 
 Pub. L. 102–83, §5(c)(1), substituted “1141” for “341” and “1122” for “322”.
 
-1974—Pub. L. 93–295 substituted “those specified in section 322 of this title” for “equal to 80 per centum of the rates prescribed by section 322 of this title, adjusted upward or downward to the nearest dollar, counting fifty cents and over as a whole dollar”.
+<b>1974</b>—Pub. L. 93–295 substituted “those specified in section 322 of this title” for “equal to 80 per centum of the rates prescribed by section 322 of this title, adjusted upward or downward to the nearest dollar, counting fifty cents and over as a whole dollar”.
 
 #### Effective Date of 1974 Amendment
 

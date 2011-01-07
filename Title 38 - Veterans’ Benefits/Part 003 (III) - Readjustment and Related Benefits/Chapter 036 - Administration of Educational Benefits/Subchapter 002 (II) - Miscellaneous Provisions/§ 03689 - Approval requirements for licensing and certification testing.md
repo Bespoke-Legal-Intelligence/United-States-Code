@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—(1) No payment may be made for a licensing or certification test described in section 3452(b) or 3501(a)(5) of this title unless the Secretary determines that the requirements of this section have been met with respect to such test and the organization or entity offering the test. The requirements of approval for tests and organizations or entities offering tests shall be in accordance with the provisions of this chapter and chapters 30, 32, 33, 34, and 35 of this title and with regulations prescribed by the Secretary to carry out this section.
+In General.—(1) No payment may be made for a licensing or certification test described in section 3452(b) or 3501(a)(5) of this title unless the test is deemed approved by section 3672(b)(2)(B) of this title or the Secretary determines that the requirements of this section have been met with respect to such test and the organization or entity offering the test. The requirements of approval for tests and organizations or entities offering tests shall be in accordance with the provisions of this chapter and chapters 30, 32, 33, 34, and 35 of this title and with regulations prescribed by the Secretary to carry out this section.
 
 (2) To the extent that the Secretary determines practicable, State approving agencies may, in lieu of the Secretary, approve licensing and certification tests, and organizations and entities offering such tests, under this section.
 
@@ -12,7 +12,7 @@ Requirements for Tests.—(1) Subject to paragraph (2), a licensing or certifica
 
 &emsp;(A) the test is required under Federal, State, or local law or regulation for an individual to enter into, maintain, or advance in employment in a predetermined and identified vocation or profession; or
 
-&emsp;(B) the Secretary determines that the test is generally accepted, in accordance with relevant government, business, or industry standards, employment policies, or hiring practices, as attesting to a level of knowledge or skill required to qualify to enter into, maintain, or advance in employment in a predetermined and identified vocation or profession.
+&emsp;(B) the Secretary determines that the test is generally accepted, in accordance with relevant government, business, or industry standards, employment policies, or hiring practices, as attesting to a level of knowledgeor skill required to qualify to enter into, maintain, or advance in employment in a predetermined and identified vocation or profession.
 
 (2) A licensing or certification test offered by a State, or a political subdivision of a State, is deemed approved by the Secretary for purposes of this section.
 
@@ -78,7 +78,7 @@ Professional Certification and Licensure Advisory Committee.—(1) There is esta
 
 (5) The Committee shall terminate December 31, 2006.
 
-(Added Pub. L. 106–419, title I, §122(c)(1), Nov. 1, 2000, 114 Stat. 1835; amended Pub. L. 107–330, title III, §308(d), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 110–252, title V, §5003(b)(2)(A)(iii), June 30, 2008, 122 Stat. 2375.)
+(Added Pub. L. 106–419, title I, §122(c)(1), Nov. 1, 2000, 114 Stat. 1835; amended Pub. L. 107–330, title III, §308(d), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 110–252, title V, §5003(b)(2)(A)(iii), June 30, 2008, 122 Stat. 2375; Pub. L. 111–377, title II, §203(a)(2)(C), Jan. 4, 2011, 124 Stat. 4125.)
 
 #### Prior Provisions
 
@@ -86,9 +86,15 @@ A prior section 3689, added Pub. L. 92–540, title III, §316(2), Oct. 24, 1972
 
 #### Amendments
 
-2008—Subsecs. (a)(1), (c)(1), (d), (e)(2). Pub. L. 110–252 inserted “33,” after “32,” wherever appearing.
+<b>2011</b>—Subsec. (a)(1). Pub. L. 111–377 inserted “the test is deemed approved by section 3672(b)(2)(B) of this title or” after “unless”.
 
-2002—Subsec. (c)(1)(B). Pub. L. 107–330 substituted “such test, or a test to certify or license in a similar or related occupation,” for “the test”.
+<b>2008</b>—Subsecs. (a)(1), (c)(1), (d), (e)(2). Pub. L. 110–252 inserted “33,” after “32,” wherever appearing.
+
+<b>2002</b>—Subsec. (c)(1)(B). Pub. L. 107–330 substituted “such test, or a test to certify or license in a similar or related occupation,” for “the test”.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 111–377 effective Aug. 1, 2011, see section 203(e) of Pub. L. 111–377, set out as a note under section 3034 of this title.
 
 #### Effective Date of 2008 Amendment
 

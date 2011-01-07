@@ -1,6 +1,6 @@
 ### \[§6393. Repealed. Pub. L. 96–513, title III, §373(h), Dec. 12, 1980, 94 Stat. 2903\]
 
-Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 410, authorized Secretary of Navy to terminate appointment of any woman officer in Regular Navy or Regular Marine Corps.
+Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 410, authorized Secretary of Navy to terminate appointmentof any woman officer in Regular Navy or Regular Marine Corps.
 
 #### Effective Date of Repeal
 

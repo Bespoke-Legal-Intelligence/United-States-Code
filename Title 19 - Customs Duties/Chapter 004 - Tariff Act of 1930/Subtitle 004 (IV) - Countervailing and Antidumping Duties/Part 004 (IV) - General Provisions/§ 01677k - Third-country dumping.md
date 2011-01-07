@@ -46,7 +46,7 @@ Section was enacted as part of the Omnibus Trade and Competitiveness Act of 1988
 
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–465 designated existing provisions as subpar. (A), substituted “GATT 1994” for “General Agreement on Tariffs and Trade”, and added subpar. (B).
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–465 designated existing provisions as subpar. (A), substituted “GATT 1994” for “General Agreement on Tariffs and Trade”, and added subpar. (B).
 
 #### Effective Date of 1994 Amendment
 

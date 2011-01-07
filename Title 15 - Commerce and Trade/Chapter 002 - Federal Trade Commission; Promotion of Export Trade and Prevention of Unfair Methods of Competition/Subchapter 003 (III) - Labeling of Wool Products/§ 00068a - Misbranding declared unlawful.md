@@ -6,7 +6,7 @@ This section shall not apply—
 
 (a) To any common carrier or contract carrier in respect to a wool product shipped or delivered for shipment in commerce in the ordinary course of its business; or
 
-(b) To any person manufacturing, delivering for shipment, shipping, selling, or offering for sale, for exportation from the United States toany foreign country a wool product branded in accordance with the specifications of the purchaser and in accordance with the laws of such country.
+(b) To any person manufacturing, delivering for shipment, shipping, selling, or offering for sale, for exportation from the United States to any foreign country a wool product branded in accordance with the specifications of the purchaser and in accordance with the laws of such country.
 
 (Oct. 14, 1940, ch. 871, §3, 54 Stat. 1129.)
 

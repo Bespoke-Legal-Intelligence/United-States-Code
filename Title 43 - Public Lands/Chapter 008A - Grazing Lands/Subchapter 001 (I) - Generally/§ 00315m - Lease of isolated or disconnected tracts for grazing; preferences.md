@@ -6,7 +6,7 @@ The Secretary of the Interior is further authorized, in his discretion, where va
 
 #### Amendments
 
-1954—Act May 28, 1954, inserted proviso authorizing Secretary to grant a preference right to users of withdrawn public lands for grazing purposes when lands are restored from withdrawal.
+<b>1954</b>—Act May 28, 1954, inserted proviso authorizing Secretary to grant a preference right to users of withdrawn public lands for grazing purposes when lands are restored from withdrawal.
 
-1936—Act June 26, 1936, inserted first proviso.
+<b>1936</b>—Act June 26, 1936, inserted first proviso.
 

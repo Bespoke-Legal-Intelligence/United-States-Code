@@ -18,7 +18,7 @@ For purposes of this subchapter the term “total solids”, in the case of wine
 
 #### (e) Same kind of fruit
 
-For purposes of this subchapter the term “same kind of fruit” includes, in the case of grapes, all of the several species and varieties ofgrapes. In the case of fruits other than grapes, this term includes all of the several species and varieties of any given kind; except that this shall not preclude a more precise identification of the composition of the product for the purpose of its designation.
+For purposes of this subchapter the term “same kind of fruit” includes, in the case of grapes, all of the several species and varieties of grapes. In the case of fruits other than grapes, this term includes all of the several species and varieties of any given kind; except that this shall not preclude a more precise identification of the composition of the product for the purpose of its designation.
 
 #### (f) Own production
 
@@ -26,7 +26,7 @@ For purposes of this subchapter the term “own production”, when used with re
 
 #### (g) Liquid sugar
 
-For purposes of this subchapter the term “liquid sugar” means a substantially colorless pure sugar and water solution containing not less than 60 percent pure sugar by weight (60 degrees Brix.)
+For purposes of this subchapter the term “liquid sugar” means a substantially colorless puresugar and water solution containing not less than 60 percent pure sugar by weight (60 degrees Brix.)
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1387; amended Pub. L. 89–44, title VIII, §806(b)(3), June 21, 1965, 79 Stat. 163; Pub. L. 94–455, title XIX, §1905(a)(21), Oct. 4, 1976, 90 Stat. 1820.)
 
@@ -40,9 +40,9 @@ A prior section 5392, act Aug. 16, 1954, ch. 736, 68A Stat. 672, consisted of pr
 
 #### Amendments
 
-1976—Subsec. (f). Pub. L. 94–455 struck out “49 Stat. 990;” before “27 U.S.C. 211”.
+<b>1976</b>—Subsec. (f). Pub. L. 94–455 struck out “49 Stat. 990;” before “27 U.S.C. 211”.
 
-1965—Subsec. (c). Pub. L. 89–44, §806(b)(3)(A), added fruit, grain, or other sources of starch to cane and beets as sources of “pure sugar”.
+<b>1965</b>—Subsec. (c). Pub. L. 89–44, §806(b)(3)(A), added fruit, grain, or other sources of starch to cane and beets as sources of “pure sugar”.
 
 Subsec. (g). Pub. L. 89–44, §806(b)(3)(B), added subsec. (g).
 
@@ -53,4 +53,6 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 #### Effective Date of 1965 Amendment
 
 Amendment by Pub. L. 89–44 effective Jan. 1, 1966, see section 806(d)(2) of Pub. L. 89–44, set out as a note under section 5383 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

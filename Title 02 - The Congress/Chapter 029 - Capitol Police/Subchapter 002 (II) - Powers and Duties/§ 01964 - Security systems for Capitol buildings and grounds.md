@@ -16,7 +16,7 @@ Capitol Buildings and Grounds” in title I of the Legislative Branch Appropriat
 
 #### (b) Transfer of responsibility to Capitol Police Board
 
-Effective October 1, 1995, the responsibility for design and installation of security systems for the Capitol buildings and grounds is transferred from the Architect of the Capitol to the Capitol Police Board. Such design and installation shall be carried out under the direction of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate, and without regard to section 5 of title 41. On and after October 1, 1995, any alteration to a structural, mechanical, or architectural feature of the Capitol buildings and grounds that is required for a security system under the preceding sentence may be carried out only with the approval of the Architect of the Capitol.
+Effective October 1, 1995, the responsibility for design and installation of security systems for the Capitol buildings and grounds is transferred from the Architect of the Capitol to the Capitol Police Board. Such design and installation shall be carried out under the direction of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate, and without regard to section 6101 of title 41. On and after October 1, 1995, any alteration to a structural, mechanical, or architectural feature of the Capitol buildings and grounds that is required for a security system under the preceding sentence may be carried out only with the approval of the Architect of the Capitol.
 
 #### (c) Transfer of positions to Capitol Police
 
@@ -47,6 +47,8 @@ This Act, referred to in subsec. (a)(2)(A), is Pub. L. 104–53, Nov. 19, 1995, 
 Section 102 of the Legislative Branch Appropriations Act, 1989, referred to in subsec. (a)(2)(B), is section 102 of Pub. L. 100–458, title I, Oct. 1, 1988, 102 Stat. 2165, which is not classified to the Code.
 
 #### Codification
+
+In subsec. (b), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Section was classified to section 212a–4 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 

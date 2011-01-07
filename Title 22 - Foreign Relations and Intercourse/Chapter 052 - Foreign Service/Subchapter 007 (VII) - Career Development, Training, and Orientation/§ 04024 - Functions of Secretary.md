@@ -14,7 +14,7 @@ In the exercise of functions under this subchapter, the Secretary of State may�
 
 &emsp;(B) if and to the extent determined to be necessary by the Secretary of State, obtain without regard to the provisions of law governing appointments in the competitive service, by appointment or contract (subject to the availability of appropriations), the services of individuals to serve as language instructors, linguists, and other academic and training specialists (including, in the absence of suitably qualified United States citizens, qualified individuals who are not citizens of the United States); and
 
-&emsp;(5) acquire such real and personal property and equipment as may be necessary for the establishment, maintenance, and operation of the facilities necessary to carry out the provisions of this subchapter without regard to section 5 of title 41 and section 252 of title 41.
+&emsp;(5) acquire such real and personal property and equipment as may be necessary for the establishment, maintenance, and operation of the facilities necessary to carry out the provisions of this subchapter without regard to sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41.
 
 #### (b) Payment of salary, tuition, and other expenses; special monetary or other incentives
 
@@ -50,11 +50,15 @@ The Secretary may provide to family members of members of the Service or of empl
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
+#### Codification
+
+In subsec. (a)(5), “sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States (41 U.S.C. 5) and section 302 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-1998—Subsec. (d). Pub. L. 105–277 added subsec. (d).
+<b>1998</b>—Subsec. (d). Pub. L. 105–277 added subsec. (d).
 
-1994—Subsec. (a)(1) to (3). Pub. L. 103–236 substituted “institution” for “Institute”.
+<b>1994</b>—Subsec. (a)(1) to (3). Pub. L. 103–236 substituted “institution” for “Institute”.
 
-1982—Subsec. (b)(2). Pub. L. 97–241 substituted “section 3972 of this title” for “section 3971 of this title”.
+<b>1982</b>—Subsec. (b)(2). Pub. L. 97–241 substituted “section 3972 of this title” for “section 3971 of this title”.
 

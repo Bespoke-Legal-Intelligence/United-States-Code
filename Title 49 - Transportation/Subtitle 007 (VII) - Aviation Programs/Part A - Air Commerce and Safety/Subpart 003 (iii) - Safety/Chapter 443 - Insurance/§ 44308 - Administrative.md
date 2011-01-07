@@ -86,7 +86,7 @@ Aug. 23, 1958, Pub. L. 85–726, §1307(f), 72 Stat. 804; Jan. 2, 1975, Pub. L. 
 
 49 App.:1537(f) (last sentence).
 
-In subsection (a), the words “may carry out this chapter” are substituted for “in administering this subchapter, may exercise his powers, perform his duties and functions, and make his expenditures” to eliminate unnecessary words.
+In subsection (a), the words “may carry out this chapter” are substituted for “in administering thissubchapter, may exercise his powers, perform his duties and functions, and make his expenditures” to eliminate unnecessary words.
 
 In subsection (b)(1), the word “insurance” is added for clarity. The words “rules, and regulations” are omitted as unnecessary because of 49:322(a). The words “as he deems proper” and “subject to the following provisions of this subsection” are omitted as surplus. The words “and change” and “fix, adjust, and change” are omitted as being included in “prescribe”. The words “under the policies” are added for clarity. The word “charged” is substituted for “provided for in this subchapter” for consistency in this subchapter.
 
@@ -104,9 +104,9 @@ In subsection (e), the words “under chapter 35 of title 31” are substituted 
 
 #### Amendments
 
-1997—Subsec. (b)(1). Pub. L. 105–137, §4(a), inserted after second sentence “Any such policy may authorize the binding arbitration of claims made thereunder in such manner as may be agreed to by the Secretary and any commercial insurer that may be responsible for any part of a loss to which such policy relates.”
+<b>1997</b>—Subsec. (b)(1). Pub. L. 105–137, §4(a), inserted after second sentence “Any such policy may authorize the binding arbitration of claims made thereunder in such manner as may be agreed to by the Secretary and any commercial insurer that may be responsible for any part of a loss to which such policy relates.”
 
 Subsec. (b)(2). Pub. L. 105–137, §4(b), struck out “and” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
 
-1996—Subsec. (e). Pub. L. 104–316 substituted “for audit” for “. The Comptroller General shall audit those accounts”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–316 substituted “for audit” for “. The Comptroller General shall audit those accounts”.
 

@@ -1,6 +1,6 @@
 ### §3105. Duration of rehabilitation programs
 
-(a) In any case in which the Secretary is unable to determine whether it currently is reasonably feasible for a veteran to achieve a vocational goal, the period of extended evaluation under section 3106(c) of this title may not exceed twelve months, except that such period may be extended for additional periods of up to six months each if the Secretary determines before granting any such extension that it is reasonably likely that, during the period of any such extension, a determination can be made whether the achievement of a vocational goal is reasonably feasible in the case of such veteran.
+(a) In any case in which the Secretary is unable to determine whether it currently is reasonably feasible for a veteran to achieve a vocational goal, the period of extended evaluation under section 3106(c) of this title may not exceed twelve months, except that such period may be extended for additional periods of up to sixmonths each if the Secretary determines before granting any such extension that it is reasonably likely that, during the period of any such extension, a determination can be made whether the achievement of a vocational goal is reasonably feasible in the case of such veteran.
 
 (b) Except as provided in subsection (c) of this section, the period of a vocational rehabilitation program for a veteran under this chapter following a determination of the current reasonable feasibility of achieving a vocational goal may not exceed forty-eight months, except that the counseling and placement and postplacement services described in section 3104(a)(2) and (5) of this title may be provided for an additional period not to exceed eighteen months in any case in which the Secretary determines the provision of such counseling and services to be necessary to accomplish the purposes of a rehabilitation program in the individual case.
 
@@ -38,21 +38,21 @@ Prior section 3105 was renumbered section 5305 of this title.
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–389 substituted “(1) Except as provided in paragraph (2),” for “Unless the Secretary determines that a longer period is necessary and likely to result in a substantial increase in a veteran's level of independence in daily living,” and added par. (2).
+<b>2008</b>—Subsec. (d). Pub. L. 110–389 substituted “(1) Except as provided in paragraph (2),” for “Unless the Secretary determines that a longer period is necessary and likely to result in a substantial increase in a veteran's level of independence in daily living,” and added par. (2).
 
-2001—Subsec. (e). Pub. L. 107–103 added subsec. (e).
+<b>2001</b>—Subsec. (e). Pub. L. 107–103 added subsec. (e).
 
-1996—Subsec. (c)(1). Pub. L. 104–275 substituted “veteran's current employment” for “veteran's employment”.
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–275 substituted “veteran's current employment” for “veteran's employment”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1505 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1505 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “3106(c)” for “1506(c)”.
 
 Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “3104(a)(2)” for “1504(a)(2)”.
 
-1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-1986—Subsec. (a). Pub. L. 99–576, §333(b)(3)(A), inserted “currently” after “it”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–576, §333(b)(3)(A), inserted “currently” after “it”.
 
 Subsec. (b). Pub. L. 99–576, §333(b)(3)(B), inserted “current” after “of the”.
 

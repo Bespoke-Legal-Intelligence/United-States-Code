@@ -22,7 +22,7 @@ Section 403(1) of the Juvenile Justice and Delinquency Prevention Act of 1974, r
 
 #### Amendments
 
-1985—Par. (6). Pub. L. 99–87 added par. (6).
+<b>1985</b>—Par. (6). Pub. L. 99–87 added par. (6).
 
 #### Effective Date
 

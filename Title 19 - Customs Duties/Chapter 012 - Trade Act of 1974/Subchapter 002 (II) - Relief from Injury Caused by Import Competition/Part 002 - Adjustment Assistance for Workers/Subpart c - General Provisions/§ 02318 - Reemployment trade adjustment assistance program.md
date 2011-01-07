@@ -22,7 +22,7 @@
 
 #### (C) Training and other services
 
-&emsp;&emsp;A worker described in paragraph (3)(B) participating in the program established under paragraph (1) is eligible to receive training approved under section 2296 of this title and employment and case management services under section 2295 of this title.
+&emsp;&emsp;A worker described in paragraph (3)(B) participating in the program establishedunder paragraph (1) is eligible to receive training approved under section 2296 of this title and employment and case management services under section 2295 of this title.
 
 #### (3) Eligibility
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;The percentage described in this subparagraph is the percentage—
 
-&emsp;&emsp;&emsp;(i) equal to 1/2 of the ratio of—
+&emsp;&emsp;&emsp;(i) equal to ½ of the ratio of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the number of weekly hours of employment of the worker referred to in paragraph (3)(B)(iii)(II), to
 
@@ -106,13 +106,13 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), no payments may be made by a State under the program established under subsection (a)(1) of this section after December 31, 2010.
+&emsp;Except as provided in paragraph (2), no payments may be made by a State under the program established under subsection (a)(1) of this section after February 12, 2011.
 
 #### (2) Exception
 
 &emsp;Notwithstanding paragraph (1), a worker receiving payments under the program established under subsection (a)(1) of this section on the termination date described in paragraph (1) shall continue to receive such payments if the worker meets the criteria described in subsection (a)(3) of this section.
 
-(Pub. L. 93–618, title II, §246, as added Pub. L. 107–210, div. A, title I, §124(a), Aug. 6, 2002, 116 Stat. 944; amended Pub. L. 108–429, title II, §2004(a)(7), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §1841(a), (b), Feb. 17, 2009, 123 Stat. 386, 389.)
+(Pub. L. 93–618, title II, §246, as added Pub. L. 107–210, div. A, title I, §124(a), Aug. 6, 2002, 116 Stat. 944; amended Pub. L. 108–429, title II, §2004(a)(7), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §1841(a), (b), Feb. 17, 2009, 123 Stat. 386, 389; Pub. L. 111–344, title I, §101(c)(3), Dec. 29, 2010, 124 Stat. 3613.)
 
 #### Amendment of Section
 
@@ -126,7 +126,9 @@ Another prior section 2318, Pub. L. 93–618, title II, §246, Jan. 3, 1975, 88 
 
 #### Amendments
 
-2009—Pub. L. 111–5, §§1841(a)(1), 1893, temporarily substituted “Reemployment trade adjustment assistance program” for “Demonstration project for alternative trade adjustment assistance for older workers” in section catchline. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2010</b>—Subsec. (b)(1). Pub. L. 111–344 substituted “February 12, 2011” for “December 31, 2010”.
+
+<b>2009</b>—Pub. L. 111–5, §§1841(a)(1), 1893, temporarily substituted “Reemployment trade adjustment assistance program” for “Demonstration project for alternative trade adjustment assistance for older workers” in section catchline. See Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (a)(1). Pub. L. 111–5, §§1841(a)(2)(A), 1893, temporarily substituted “The Secretary” for “Not later than 1 year after August 6, 2002, the Secretary” and “a reemployment trade adjustment assistance program” for “an alternative trade adjustment assistance program for older workers”. See Effective and Termination Dates of 2009 Amendment note below.
 
@@ -150,17 +152,21 @@ Subsec. (b)(1). Pub. L. 111–5, §§1841(b), 1893, temporarily substituted “D
 
 Subsec. (b)(2). Pub. L. 111–5, §§1841(a)(3), 1893, temporarily substituted “subsection (a)(3)” for “subsection (a)(3)(B)”. See Effective and Termination Dates of 2009 Amendment note below.
 
-2004—Subsec. (a)(3)(B)(iii). Pub. L. 108–429, §2004(a)(7)(A), struck out “and” after semicolon.
+<b>2004</b>—Subsec. (a)(3)(B)(iii). Pub. L. 108–429, §2004(a)(7)(A), struck out “and” after semicolon.
 
 Subsec. (a)(5). Pub. L. 108–429, §2004(a)(7)(B), substituted “paragraph (2)(B)” for “section 2298(a)(2)(B) of this title”.
 
 Subsec. (b)(2). Pub. L. 108–429, §2004(a)(7)(C), substituted “if” for “provided that”.
 
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–344 effective Jan. 1, 2011, see section 101(d) of Pub. L. 111–344, set out as a note preceding section 2271 of this title.
+
 #### Effective and Termination Dates of 2009 Amendment
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never been enacted, except that subsec. (b) of this section shall be applied and administered by substituting “December 31, 2011” for “the date that is 5 years” and all that follows through “State”, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, except that subsec. (b)(1) shall be applied and administered by substituting “February 12, 2012” for “the date that is 5 years” and all that follows through “State”, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 
 #### Effective Date
 
@@ -168,5 +174,5 @@ Section applicable to petitions for certification filed under this part or part 
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2010, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Feb. 12, 2011, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

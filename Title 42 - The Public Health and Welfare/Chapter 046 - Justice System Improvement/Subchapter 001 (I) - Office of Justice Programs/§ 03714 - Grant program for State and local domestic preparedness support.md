@@ -30,7 +30,7 @@ Section was enacted as part of the Uniting and Strengthening America by Providin
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–273, §11003(a)(1), which directed amendment of subsec. (a) by substituting “Office for Domestic Preparedness” for “Office of State and Local Domestic Preparedness Support”, was executed by making the substitution for “Office for State and Local Domestic Preparedness Support” to reflect the probable intent of Congress.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273, §11003(a)(1), which directed amendment of subsec. (a) by substituting “Office for Domestic Preparedness” for “Office of State and Local Domestic Preparedness Support”, was executed by making the substitution for “Office for State and Local Domestic Preparedness Support” to reflect the probable intent of Congress.
 
 Subsec. (b). Pub. L. 107–273, §11003(b), inserted at end “In addition, grants under this section may be used to construct, develop, expand, modify, operate, or improve facilities to provide training or assistance to State and local first responders.”
 

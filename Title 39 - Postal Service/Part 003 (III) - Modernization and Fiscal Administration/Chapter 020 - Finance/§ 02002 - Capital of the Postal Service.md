@@ -8,7 +8,7 @@
 
 (b) The capital of the Postal Service at any time shall consist of its assets, including the balance in the Fund and the balance in the Competitive Products Fund, less its liabilities.
 
-(c) The Postal Service, and the Administrator of General Services where properties under the jurisdiction of the Administrator are involved, with the approval of the Director of the Office of Management and Budget, shall determine which Federal properties shall be transferred to the Postal Service and which shall remain under the jurisdiction of any other department, agency, or establishment of the Government of the United States upon the commencement of operations of the Postal Service. The transfer shall be accomplished at the time of or as near as possible to the commencement of operations of the Postal Service and the valuation of the assets and capital of the Postal Service shall be adjusted accordingly. The following properties shall be included in the transfer:
+(c) The Postal Service, and the Administrator of General Services where properties under the jurisdiction of the Administrator are involved, with the approval of the Director of the Office of Management and Budget, shall determine whichFederal properties shall be transferred to the Postal Service and which shall remain under the jurisdiction of any other department, agency, or establishment of the Government of the United States upon the commencement of operations of the Postal Service. The transfer shall be accomplished at the time of or as near as possible to the commencement of operations of the Postal Service and the valuation of the assets and capital of the Postal Service shall be adjusted accordingly. The following properties shall be included in the transfer:
 
 &emsp;(1) the mail equipment shops located in Washington, District of Columbia;
 
@@ -32,7 +32,7 @@ The effective date of this section, referred to in subsec. (c)(3), (4), is July 
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–435 substituted “Fund and the balance in the Competitive Products Fund,” for “Fund,”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–435 substituted “Fund and the balance in the Competitive Products Fund,” for “Fund,”.
 
 #### Assets of Postal Service
 
@@ -48,7 +48,7 @@ By virtue of the authority vested in me by the Postal Reorganization Act (39 U.S
 
 Section 1. The authority conferred upon the President by section 2002(d) of title 39 of the United States Code is hereby delegated to the Administrator of General Services subject to the provisions of this order.
 
-Sec. 2. Property transferred to the Postal Service under this order shall be subject to reimbursement at fair market value, as agreed to by the Administrator of General Services and the Postmaster General, unlessthe Director of the Office of Management and Budget finds that a different basis of valuation, or transfer without reimbursement, is more equitable or better serves the public interest.
+Sec. 2. Property transferred to the Postal Service under this order shall be subject to reimbursement at fair market value, as agreed to by the Administrator of General Services and the Postmaster General, unless the Director of the Office of Management and Budget finds that a different basis of valuation, or transfer without reimbursement, is more equitable or better serves the public interest.
 
 Sec. 3. Reimbursement of fair market value required for property transfers to the Postal Service under this order may consist of cash payments or, subject to approval by the Director of the Office of Management and Budget, property transferred from the Postal Service to other departments, agencies, or independent establishments of the Government of the United States, or both cash and approved properties.
 

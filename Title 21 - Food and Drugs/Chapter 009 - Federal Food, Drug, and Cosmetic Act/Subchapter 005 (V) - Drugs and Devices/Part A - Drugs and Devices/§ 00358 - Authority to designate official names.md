@@ -6,7 +6,7 @@ The Secretary may designate an official name for any drug or device if he determ
 
 #### (b) Review of names in official compendiums
 
-Within a reasonable time after October 10, 1962, and at such other times as he may deem necessary, the Secretary shall cause a review to be made of the official names by which drugs are identified in the official United States Pharmacopoeia, the official Homoeopathic Pharmacopoeia of the United States, and the official National Formulary, and all supplements thereto, and at such times as he may deem necessary shall cause a review to be made of the official names by which devices are identified in any official compendium (and all supplements thereto) to determine whether revision of any of those names is necessary or desirable in the interest of usefulness and simplicity.
+Within a reasonable time after October 10, 1962, and at such other times as he may deemnecessary, the Secretary shall cause a review to be made of the official names by which drugs are identified in the official United States Pharmacopoeia, the official Homoeopathic Pharmacopoeia of the United States, and the official National Formulary, and all supplements thereto, and at such times as he may deem necessary shall cause a review to be made of the official names by which devices are identified in any official compendium (and all supplements thereto) to determine whether revision of any of those names is necessary or desirable in the interest of usefulness and simplicity.
 
 #### (c) Determinations of complexity, usefulness, multiplicity, or lack of name; designation by Secretary
 
@@ -24,9 +24,9 @@ Upon a request in writing by any compiler of an official compendium that the Sec
 
 #### Amendments
 
-1993—Subsecs. (c), (e). Pub. L. 103–80 substituted reference to section 553 of title 5 for “section 4 of the Administrative Procedure Act (5 U.S.C. 1003)”.
+<b>1993</b>—Subsecs. (c), (e). Pub. L. 103–80 substituted reference to section 553 of title 5 for “section 4 of the Administrative Procedure Act (5 U.S.C. 1003)”.
 
-1976—Subsec. (a). Pub. L. 94–295 substituted “drug or device” for “drug” wherever appearing.
+<b>1976</b>—Subsec. (a). Pub. L. 94–295 substituted “drug or device” for “drug” wherever appearing.
 
 Subsec. (b). Pub. L. 94–295 substituted “National Formulary, and all supplements thereto, and at such times as he may deem necessary shall cause a review to be made of the official names by which devices are identified in any official compendium (and all supplements thereto)” for “National Formulary, and all supplements thereto,”.
 

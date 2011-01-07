@@ -10,7 +10,7 @@ Act approved March 1, 1911, as amended, referred to in text, means act Mar. 1, 1
 
 #### Codification
 
-The words “with the consent and approval of the National Forest Reservation Commission established by section 4 of said Act of March 1, 1911 \[16 U.S.C. 513\]”, which appeared immediately following the first reference to the Secretary of Agriculture, have been omitted as obsolete. Section 4 of the 1911 Act was repealed, and all functions of the National Forest Reservation Commission were transferred to the Secretary of Agriculture, by section 17(a)(1) of Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2961.
+The words “with the consent and approval of the National Forest Reservation Commission established by section 4 of said Act of March 1, 1911 \[16 U.S.C. 513\]”, which appeared immediately following the first reference to the Secretary of Agriculture, have been omitted as obsolete. Section 4 of the 1911 Act was repealed, and all functions of the National Forest ReservationCommission were transferred to the Secretary of Agriculture, by section 17(a)(1) of Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2961.
 
 #### Change of Name
 

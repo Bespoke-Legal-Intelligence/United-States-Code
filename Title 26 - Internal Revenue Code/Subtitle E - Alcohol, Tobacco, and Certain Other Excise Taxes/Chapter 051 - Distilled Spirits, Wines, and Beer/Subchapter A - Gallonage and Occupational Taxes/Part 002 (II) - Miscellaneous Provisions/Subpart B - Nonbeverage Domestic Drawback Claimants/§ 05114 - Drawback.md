@@ -48,17 +48,17 @@ A prior section 5117, added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72
 
 #### Amendments
 
-2005—Pub. L. 109–59 renumbered section 5134 of this title as this section.
+<b>2005</b>—Pub. L. 109–59 renumbered section 5134 of this title as this section.
 
-1996—Subsec. (c)(3). Pub. L. 104–188 substituted “section 6665(a)” for “section 6662(a)”.
+<b>1996</b>—Subsec. (c)(3). Pub. L. 104–188 substituted “section 6665(a)” for “section 6662(a)”.
 
-1994—Subsec. (c)(1). Pub. L. 103–465 substituted “flavoring extracts, or perfume” for “or flavoring extracts”.
+<b>1994</b>—Subsec. (c)(1). Pub. L. 103–465 substituted “flavoring extracts, or perfume” for “or flavoring extracts”.
 
-1984—Subsec. (c). Pub. L. 98–369 added subsec. (c).
+<b>1984</b>—Subsec. (c). Pub. L. 98–369 added subsec. (c).
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1968—Subsec. (b). Pub. L. 90–615 substituted “6 months” for “3 months” in last sentence.
+<b>1968</b>—Subsec. (b). Pub. L. 90–615 substituted “6 months” for “3 months” in last sentence.
 
 #### Effective Date of 1994 Amendment
 

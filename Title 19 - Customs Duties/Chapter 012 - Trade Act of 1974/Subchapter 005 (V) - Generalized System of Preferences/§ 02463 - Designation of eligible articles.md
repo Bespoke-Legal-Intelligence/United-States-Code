@@ -222,15 +222,15 @@ A prior section 2463, Pub. L. 93–618, title V, §503, Jan. 3, 1975, 88 Stat. 2
 
 #### Amendments
 
-2006—Subsec. (d)(4)(B). Pub. L. 109–432 designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, and added cl. (ii).
+<b>2006</b>—Subsec. (d)(4)(B). Pub. L. 109–432 designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, and added cl. (ii).
 
-2004—Subsec. (b)(1)(A). Pub. L. 108–429, §1555(b), substituted “Except as provided in paragraph (4), textile” for “Textile”.
+<b>2004</b>—Subsec. (b)(1)(A). Pub. L. 108–429, §1555(b), substituted “Except as provided in paragraph (4), textile” for “Textile”.
 
 Subsec. (b)(4). Pub. L. 108–429, §1555(a), added par. (4).
 
-2000—Subsec. (c)(2)(D). Pub. L. 106–200 amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: “Subparagraph (A) shall not apply to any least-developed beneficiary developing country.”
+<b>2000</b>—Subsec. (c)(2)(D). Pub. L. 106–200 amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: “Subparagraph (A) shall not apply to any least-developed beneficiary developing country.”
 
-1999—Subsec. (a)(2)(A)(ii). Pub. L. 106–36 added subcl. (II) and concluding provisions and struck out former subcl. (II) which read as follows: “the direct costs of processing operations performed in such beneficiary developing country or such member countries, is not less than 35 percent of the appraised value of such article at the time it is entered.”
+<b>1999</b>—Subsec. (a)(2)(A)(ii). Pub. L. 106–36 added subcl. (II) and concluding provisions and struck out former subcl. (II) which read as follows: “the direct costs of processing operations performed in such beneficiary developing country or such member countries, is not less than 35 percent of the appraised value of such article at the time it is entered.”
 
 #### Effective Date of 2004 Amendment
 

@@ -16,7 +16,7 @@ No accrued benefit of a participant or beneficiary may be lower immediately afte
 
 &emsp;(B) the value, on the effective date of the transfer, of the unfunded benefits transferred to the single-employer plan which are guaranteed under section 1322 of this title.
 
-(2) A multiemployer plan shall be liable to the corporation as provided in paragraph (1) unless, within 180 days after the corporation receives an application (together with such information as the corporation may reasonably require for purposes of such application) from the multiemployer plan sponsor for a determination under this paragraph—
+(2) A multiemployer plan shall be liable to the corporation as provided in paragraph (1) unless,within 180 days after the corporation receives an application (together with such information as the corporation may reasonably require for purposes of such application) from the multiemployer plan sponsor for a determination under this paragraph—
 
 &emsp;(A) the corporation determines that the interests of the plan participants and beneficiaries and of the corporation are adequately protected, or
 

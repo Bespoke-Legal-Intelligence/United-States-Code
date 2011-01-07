@@ -1,22 +1,42 @@
 ### §1901. Establishment; officer appointments
 
-There shall be a Capitol police. There shall be a captain of the Capitol police and such other members with such rates of compensation, respectively, as may be appropriated for by Congress from year to year. The captain and lieutenants shall be selected jointly by the Sergeant at Arms of the Senate and the Sergeant at Arms of the House of Representatives; and one-half of the privates shall be selected by the Sergeant at Arms of the Senate and one-half by the Sergeant at Arms of the House of Representatives.
+There shall be a Capitol police. There shall be a captain of the Capitol police and such other members with such rates of compensation, respectively, as may be appropriated for by Congress from year to year. The Capitol Police shall be headed by a Chief who shall be appointed by the Capitol Police Board and shall serve at the pleasure of the Board.
 
-(R.S. §1821; Apr. 28, 1902, ch. 594, 32 Stat. 124; June 28, 1943, ch. 173, title I, 57 Stat. 230; Pub. L. 96–152, §1(a), Dec. 20, 1979, 93 Stat. 1099; Pub. L. 108–7, div. H, title I, §1018(h)(1), Feb. 20, 2003, 117 Stat. 368.)
+(R.S. §1821; Apr. 28, 1902, ch. 594, 32 Stat. 124; June 28, 1943, ch. 173, title I, 57 Stat. 230; Pub. L. 96–152, §1(a), Dec. 20, 1979, 93 Stat. 1099; Pub. L. 108–7, div. H, title I, §1018(h)(1), Feb. 20, 2003, 117 Stat. 368; Pub. L. 111–145, §6(e)(1)–(3), Mar. 4, 2010, 124 Stat. 54, 55.)
 
 #### Codification
 
 Section was classified to section 206 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
-Section is a composite of provisions of R.S. §1821, act Apr. 28, 1902, and act June 28, 1943, cited in the credits.
+Section was a composite of provisions of R.S. §1821, act Apr. 28, 1902, and act June 28, 1943, cited in the credits. Provisions from act Apr. 28, 1902, and act June 28, 1943, were repealed by Pub. L. 111–145, §6(e)(1).
 
 R.S. §1821 derived from acts Mar. 2, 1867, ch. 167, §2, 14 Stat. 466; Mar. 3, 1873, ch. 226, 17 Stat. 488.
 
 #### Amendments
 
-2003—Pub. L. 108–7 struck out last sentence which read as follows: “The Capitol Police shall be headed by a Chief who shall be appointed by the Capitol Police Board and shall serve at the pleasure of the Board.”
+2010—Pub. L. 111–145, §6(e)(3), amended first sentence of R.S. §1821 by striking “, the members of which shall be appointed by the Sergeants-at-Arms of the two Houses and the Architect of the Capitol Extension” after “There shall be a Capitol police”.
+
+Pub. L. 111–145, §6(e)(2), repealed Pub. L. 108–7, §1018(h)(1), and provided that the sentence repealed by such section is restored to appear at end of section. See 2003 Amendment note below.
+
+Pub. L. 111–145, §6(e)(1), struck out “The captain and lieutenants shall be selected jointly by the Sergeant at Arms of the Senate and the Sergeant at Arms of the House of Representatives; and one-half of the privates shall be selected by the Sergeant at Arms of the Senate and one-half by the Sergeant at Arms of the House of Representatives.” after “from year to year.”
+
+2003—Pub. L. 108–7, §1018(h)(1), which struck out last sentence which read “The Capitol Police shall be headed by a Chief who shall be appointed by the Capitol Police Board and shall serve at the pleasure of the Board.”, was repealed by Pub. L. 111–145, §6(e)(2).
 
 1979—Pub. L. 96–152 inserted last sentence providing that the Capitol Police be headed by a Chief who shall be appointed by the Capitol Police Board and who shall serve at the pleasure of the Board.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–145, §6(d), Mar. 4, 2010, 124 Stat. 54, provided that:
+
+“(1)
+
+Repeal of duplicate provisions.—Effective as if included in the enactment of the Legislative Branch Appropriations Act, 2008 (Public Law 110–161), section 1004 of such Act \[enacting sections 141b and 143c of this title, amending sections 167i, 167j, 182b, 185, and 1961 of this title and sections 5101, 5102, and 5104 of Title 40, Public Buildings, Property, and Works, repealing sections 167 to 167h of this title, enacting provisions set out as notes under this section and sections 167 and 182b of this title, and repealing provisions set out as notes under this section\] is repealed, and any provision of law amended or repealed by such section is restored or revived to read as if such section had not been enacted into law.
+
+“(2)
+
+No effect on other act.—Nothing in paragraph (1) may be construed to prevent the enactment or implementation of any provision of the U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007 (Public Law 110–178) \[see Tables for classification\], including any provision of such Act that amends or repeals a provision of law which is restored or revived pursuant to paragraph (1).”
+
+Pub. L. 111–145, §6(e)(4), Mar. 4, 2010, 124 Stat. 55, provided that: “The amendments made by this subsection \[amending this section\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2003 \[Pub. L. 108–7, div. H\].”
 
 #### Effective Date of 2003 Amendment
 
@@ -26,13 +46,17 @@ Amendment by Pub. L. 108–7 effective Feb. 20, 2003, and applicable to fiscal y
 
 Pub. L. 96–152, §7, Dec. 20, 1979, 93 Stat. 1100, provided that: “This Act \[enacting section 1902 of this title and amending this section\] shall take effect on the first day of the second month after the month in which this Act is enacted \[Dec. 1979\].”
 
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–145, §1, Mar. 4, 2010, 124 Stat. 49, provided that: “This Act \[see Tables for classification\] may be cited as the ‘United States Capitol Police Administrative Technical Corrections Act of 2009’.”
+
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–178, §1, Jan. 7, 2008, 121 Stat. 2546, provided that: “This Act \[enacting sections 141b and 143c of this title, amending sections 167i, 167j, 182b, 185, and 1961 of this title and sections 5101, 5102, and 5104 of Title 40, Public Buildings, Property, and Works, repealing sections 167 to 167h of this title, enacting provisions set out as notes under this section and sections 167 and 182b of this title, and repealing provisions set out as notes under this section\] may be cited as the ‘U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007’.” \[For identical short title, see below.\]
+Pub. L. 110–178, §1, Jan. 7, 2008, 121 Stat. 2546, provided that: “This Act \[enacting sections 141b and 143c of this title, amending sections 167i, 167j, 182b, 185, and 1961 of this title and sections 5101, 5102, and 5104 of Title 40, Public Buildings, Property, and Works, repealing sections 167 to 167h of this title, enacting provisions set out as notes under this section and sections 167 and 182b of this title, and repealing provisions set out as notes under this section\] may be cited as the ‘U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007’.”
 
 #### Short Title of 2007 Amendment
 
-Pub. L. 110–161, div. H, title I, §1004(a), Dec. 26, 2007, 121 Stat. 2227, provided that: “This section \[enacting sections 141b and 143c of this title, amending sections 167i, 167j, 182b, 185, and 1961 of this title and sections 5101, 5102, and 5104 of Title 40, Public Buildings, Property, and Works, enacting provisions set out as notes under this section and sections 167 and 182b of this title, and repealing provisions set out as notes under this section\] may be cited as the ‘U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007’.” \[For identical short title, see above.\]
+Pub. L. 110–161, div. H, title I, §1004(a), Dec. 26, 2007, 121 Stat. 2227, which provided that section 1004 of Pub. L. 110–161 could be cited as the “U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007”, was repealed by Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54. For identical short title, see above.
 
 #### Capitol Police Board
 
@@ -44,7 +68,7 @@ Capitol Police Board; Composition; Redefining Mission.—
 
 &emsp;“(1)
 
-Purpose.—The purpose of the Capitol Police Board is to oversee and support the Capitol Police in its mission and to advance coordination between the Capitol Police and the Sergeant at Arms of the House of Representatives and the Sergeant at Arms and Doorkeeper of the Senate, in their law enforcement capacities, and the Congress. Consistent with this purpose, the Capitol Police Board shall establish general goals and objectives covering its major functions and operations to improve the efficiency and effectiveness of its operations.
+Purpose.—The purpose of the Capitol Police Board is to oversee and support the Capitol Police in its mission and to advance coordination between theCapitol Police and the Sergeant at Arms of the House of Representatives and the Sergeant at Arms and Doorkeeper of the Senate, in their law enforcement capacities, and the Congress. Consistent with this purpose, the Capitol Police Board shall establish general goals and objectives covering its major functions and operations to improve the efficiency and effectiveness of its operations.
 
 &emsp;“(2)
 
@@ -318,11 +342,11 @@ Rule of Construction Relating to Personnel Authority of the Librarian of Congres
 
 &emsp;“(4) the term ‘transition period’ means the period the first day of which is the date of the enactment of this Act \[Jan. 7, 2008\] and the final day of which is September 30, 2009.”
 
-Similar provisions were contained in Pub. L. 110–161, div. H, title I, §1004(b), (c), (h), Dec. 26, 2007, 121 Stat. 2227, 2231, 2236.
+Similar provisions were contained in Pub. L. 110–161, div. H, title I, §1004(b), (c), (h), Dec. 26, 2007, 121 Stat. 2227, 2231, 2236, prior to repeal by Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54.
 
-Pub. L. 108–83, title I, §1006, Sept. 30, 2003, 117 Stat. 1023, as amended by Pub. L. 108–447, div. G, title I, §1002, Dec. 8, 2004, 118 Stat. 3179; Pub. L. 109–55, title I, §1006(a), Aug. 2, 2005, 119 Stat. 576, related to the effective and efficient transfer of Library of Congress Police to Capitol Police under section 1015 of Pub. L. 108–7, prior to repeal by Pub. L. 110–161, div. H, title I, §1004(g), Dec. 26, 2007, 121 Stat. 2236, and Pub. L. 110–178, §7, Jan. 7, 2008, 121 Stat. 2554, effective Oct. 1, 2009.
+Pub. L. 108–83, title I, §1006, Sept. 30, 2003, 117 Stat. 1023, as amended by Pub. L. 108–447, div. G, title I, §1002, Dec. 8, 2004, 118 Stat. 3179; Pub. L. 109–55, title I, §1006(a), Aug. 2, 2005, 119 Stat. 576, related to the effective and efficient transfer of Library of Congress Police to Capitol Police under section 1015 of Pub. L. 108–7, prior to repeal by Pub. L. 110–161, div. H, title I, §1004(g), Dec. 26, 2007, 121 Stat. 2236, and Pub. L. 110–178, §7, Jan. 7, 2008, 121 Stat. 2554, effective Oct. 1, 2009. Pub. L. 110–161, §1004, was repealed by Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54.
 
-Pub. L. 108–7, div. H, title I, §1015, Feb. 20, 2003, 117 Stat. 362, related to the transfer of Library of Congress Police to the United States Capitol Police, prior to repeal by Pub. L. 110–161, div. H, title I, §1004(g), Dec. 26, 2007, 121 Stat. 2236, and Pub. L. 110–178, §7, Jan. 7, 2008, 121 Stat. 2554, effective Oct. 1, 2009.
+Pub. L. 108–7, div. H, title I, §1015, Feb. 20, 2003, 117 Stat. 362, related to the transfer of Library of Congress Police to the United States Capitol Police, prior to repeal by Pub. L. 110–161, div. H, title I, §1004(g), Dec. 26, 2007, 121 Stat. 2236, and Pub. L. 110–178, §7, Jan. 7, 2008, 121 Stat. 2554, effective Oct. 1, 2009. Pub. L. 110–161, §1004, was repealed by Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54.
 
 #### Long Term Strategic Plan
 
@@ -354,7 +378,7 @@ In general.—With respect to each year which is covered by the strategic plan d
 
 &emsp;“(2)
 
-Contents.—The annual performance plan developed under this subsection for a year shall include performance goals for each of the goals and objectives of the strategic plan which apply during the year, and shall include (to the extent practicable) quantifiable performance measures for determining the success of the Capitol Police in meeting each such performance goal.
+Contents.—The annual performance plan developed under this subsection for a year shall includeperformance goals for each of the goals and objectives of the strategic plan which apply during the year, and shall include (to the extent practicable) quantifiable performance measures for determining the success of the Capitol Police in meeting each such performance goal.
 
 &emsp;“(3)
 
@@ -424,5 +448,5 @@ House Resolution No. 420, One Hundred First Congress, June 26, 1990, made perman
 
 #### General Counsel to Chief of Capitol Police
 
-House Resolution No. 661, Ninety-fifth Congress, July 29, 1977, made permanent law Pub. L. 95–391, title I, §111, Sept. 30, 1978, 92 Stat. 777, and amended by Pub. L. 104–186, title II, §221(9)(A), Aug. 20, 1996, 110 Stat. 1749, established the position of General Counsel to the Chief of the Capitol Police, for duty under the House of Representatives, at a per annum gross rate of compensation which is equal to the rate in effect from time to time for HS level 10, step 1, of the House Employees Schedule, such appointment to be made by the Capitol Police Board, subject to the prior approval of the Committee on House Oversight \[now Committee on House Administration\], without regard to political affiliation and solely on the basis of fitness to perform the duties of the position.
+House Resolution No. 661, Ninety-fifth Congress, July 29, 1977, made permanent law Pub. L. 95–391, title I, §111, Sept. 30, 1978, 92 Stat. 777, and amended by Pub. L. 104–186, title II, §221(9)(A), Aug. 20, 1996, 110 Stat. 1749, which established the position of General Counsel to the Chief of the Capitol Police, the appropriate rate of compensation, and method of appointment, was repealed by Pub. L. 111–145, §3(a)(4), Mar. 4, 2010, 124 Stat. 52.
 

@@ -6,7 +6,7 @@ From the amounts appropriated to carry out this part for any fiscal year, the Se
 
 #### (b) Allotment; graduates basis
 
-From the amounts appropriated to carry out this part for any fiscal year, the Secretary shallallot to each part B institution a sum which bears the same ratio to one-fourth that amount as the number of graduates for such school year at such institution bears to the total number of graduates for such school year at all part B institutions.
+From the amounts appropriated to carry out this part for any fiscal year, the Secretary shall allot to each part B institution a sum which bears the same ratio to one-fourth that amount as the number of graduates for such school year at such institution bears to the total number of graduates for such school year at all part B institutions.
 
 #### (c) Allotment; graduate and professional student basis
 
@@ -58,7 +58,7 @@ In any fiscal year that the Secretary determines that Howard University or the U
 
 &emsp;&emsp;(C) where appropriate, the percentage of students who, within 5 years of graduation from the part B institution, were admitted to and in attendance at a graduate or professional school in a degree program in disciplines in which Blacks are underrepresented in the academic year preceding such fiscal year.
 
-(Pub. L. 89–329, title III, §324, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1296; amended Pub. L. 99–509, title VII, §7007, Oct. 21, 1986, 100 Stat. 1950; Pub. L. 102–325, title III, §303(c), (d), July 23, 1992, 106 Stat. 475; Pub. L. 105–33, title XI, §11717(b), Aug. 5, 1997, 111 Stat. 786; Pub. L. 110–315, title III, §310, Aug. 14,2008, 122 Stat. 3177; Pub. L. 111–39, title III, §301(4), July 1, 2009, 123 Stat. 1937.)
+(Pub. L. 89–329, title III, §324, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1296; amended Pub. L. 99–509, title VII, §7007, Oct. 21, 1986, 100 Stat. 1950; Pub. L. 102–325, title III, §303(c), (d), July 23, 1992, 106 Stat. 475; Pub. L. 105–33, title XI, §11717(b), Aug. 5, 1997, 111 Stat. 786; Pub. L. 110–315, title III, §310, Aug. 14, 2008, 122 Stat. 3177; Pub. L. 111–39, title III, §301(4), July 1, 2009, 123 Stat. 1937.)
 
 #### References in Text
 
@@ -74,9 +74,9 @@ Another prior section 1063, Pub. L. 89–329, title IV, §403, Nov. 8, 1965, 79 
 
 #### Amendments
 
-2009—Subsec. (d). Pub. L. 111–39 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+<b>2009</b>—Subsec. (d). Pub. L. 111–39 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
-2008—Subsec. (d). Pub. L. 110–315, §310(a), amended subsec. (d) generally. Prior to amendment, text read as follows:
+<b>2008</b>—Subsec. (d). Pub. L. 110–315, §310(a), amended subsec. (d) generally. Prior to amendment, text read as follows:
 
 “(1) Notwithstanding subsections (a), (b), and (c) of this section, the amount allotted to each part B institution under this section shall not be less than $500,000.
 
@@ -84,13 +84,13 @@ Another prior section 1063, Pub. L. 89–329, title IV, §403, Nov. 8, 1965, 79 
 
 Subsec. (h). Pub. L. 110–315, §310(b), added subsec. (h).
 
-1997—Subsec. (g). Pub. L. 105–33 substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”.
+<b>1997</b>—Subsec. (g). Pub. L. 105–33 substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”.
 
-1992—Subsec. (c). Pub. L. 102–325, §303(c), inserted “, within 5 years of graduation with a baccalaureate degree,” after “in attendance at”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–325, §303(c), inserted “, within 5 years of graduation with a baccalaureate degree,” after “in attendance at”.
 
 Subsec. (d)(1). Pub. L. 102–325, §303(d), substituted “$500,000” for “$350,000”.
 
-1986—Subsec. (c). Pub. L. 99–509, §7007(4), amended subsec. generally, substituting “percentage of graduates per institution” for “number of graduates” and “percentage of such graduates per institution” for “number of such graduates”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–509, §7007(4), amended subsec. generally, substituting “percentage of graduates per institution” for “number of graduates” and “percentage of such graduates per institution” for “number of such graduates”.
 
 Subsec. (d). Pub. L. 99–509, §7007(1), (2), added subsec. (d). Former subsec. (d) redesignated (e).
 

@@ -6,7 +6,7 @@ As used in this part, the term “United States” shall include the District of
 
 #### Amendments
 
-1980—Pub. L. 96–205 inserted references to the Trust Territory of the Pacific Islands and the Commonwealth of the Northern Mariana Islands.
+<b>1980</b>—Pub. L. 96–205 inserted references to the Trust Territory of the Pacific Islands and the Commonwealth of the Northern Mariana Islands.
 
 #### Termination of Trust Territory of the Pacific Islands
 

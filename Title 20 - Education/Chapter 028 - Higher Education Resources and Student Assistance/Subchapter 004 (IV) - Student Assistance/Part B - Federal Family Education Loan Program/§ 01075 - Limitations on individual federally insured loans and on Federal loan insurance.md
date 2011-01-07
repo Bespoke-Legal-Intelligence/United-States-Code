@@ -10,7 +10,7 @@
 
 &emsp;&emsp;&emsp;(I) $3,500, if such student is enrolled in a program whose length is at least one academic year in length (as determined under section 1088 of this title); and
 
-&emsp;&emsp;&emsp;(II) if such student is enrolled in a program of undergraduate education which is less than one academic year, the maximum annual loan amount that such student may receive may not exceed the amount that bears the same ratio to the amount specified in subclause (I) as the length of such program measured in semester, trimester, quarter, or clock hours bears to one academic year;
+&emsp;&emsp;&emsp;(II) if such student is enrolled in a program of undergraduate education which isless than one academic year, the maximum annual loan amount that such student may receive may not exceed the amount that bears the same ratio to the amount specified in subclause (I) as the length of such program measured in semester, trimester, quarter, or clock hours bears to one academic year;
 
 &emsp;&emsp;(ii) in the case of a student at an eligible institution who has successfully completed such first year but has not successfully completed the remainder of a program of undergraduate education—
 
@@ -48,7 +48,7 @@
 
 &emsp;(A) Except as provided in subparagraph (B), the insurance liability on any loan insured by the Secretary under this part shall be 100 percent of the unpaid balance of the principal amount of the loan plus interest, except that—
 
-&emsp;&emsp;(i) if, for any fiscal year, the total amount of payments under section 1080 of this titleby the Secretary to any eligible lender as described in section 1085(d)(1)(D) of this title exceeds 5 percent of the sum of the loans made by such lender which are insured by the Secretary and which were in repayment at the end of the preceding fiscal year, the insurance liability under this subsection for that portion of such excess which represents loans insured after the applicable date with respect to such loans, as determined under subparagraph (C), shall be equal to 90 percent of the amount of such portion; or
+&emsp;&emsp;(i) if, for any fiscal year, the total amount of payments under section 1080 of this title by the Secretary to any eligible lender as described in section 1085(d)(1)(D) of this title exceeds 5 percent of the sum of the loans made by such lender which are insured by the Secretary and which were in repayment at the end of the preceding fiscal year, the insurance liability under this subsection for that portion of such excess which represents loans insured after the applicable date with respect to such loans, as determined under subparagraph (C), shall be equal to 90 percent of the amount of such portion; or
 
 &emsp;&emsp;(ii) if, for any fiscal year, the total amount of such payments to such a lender exceeds 9 percent of such sum, the insurance liability under this subsection for that portion of such excess which represents loans insured after the applicable date with respect to such loans, as determined under subparagraph (C), shall be equal to 80 percent of the amount of such portion.
 
@@ -92,11 +92,11 @@ A prior section 1075, Pub. L. 89–329, title IV, §425, Nov. 8, 1965, 79 Stat. 
 
 #### Amendments
 
-2006—Subsec. (a)(1)(A)(i)(I). Pub. L. 109–171, §8005(a)(1), substituted “$3,500” for “$2,625”.
+<b>2006</b>—Subsec. (a)(1)(A)(i)(I). Pub. L. 109–171, §8005(a)(1), substituted “$3,500” for “$2,625”.
 
 Subsec. (a)(1)(A)(ii)(I). Pub. L. 109–171, §8005(a)(2), substituted “$4,500” for “$3,500”.
 
-1998—Subsec. (a)(1)(A)(i)(I). Pub. L. 105–244, §415(1)(A), inserted “and” after semicolon.
+<b>1998</b>—Subsec. (a)(1)(A)(i)(I). Pub. L. 105–244, §415(1)(A), inserted “and” after semicolon.
 
 Subsec. (a)(1)(A)(i)(II), (III). Pub. L. 105–244, §415(1)(B), added subcl. (II) and struck out former subcls. (II) and (III) which read as follows:
 
@@ -106,7 +106,7 @@ Subsec. (a)(1)(A)(i)(II), (III). Pub. L. 105–244, §415(1)(B), added subcl. (I
 
 Subsec. (a)(1)(A)(iii)(II). Pub. L. 105–244, §415(2), inserted “and” after semicolon at end.
 
-1993—Subsec. (a)(1)(A)(ii), (iii). Pub. L. 103–208, §2(c)(2)(A), added cls. (ii) and (iii) and struck out former cls. (ii) and (iii) which read as follows:
+<b>1993</b>—Subsec. (a)(1)(A)(ii), (iii). Pub. L. 103–208, §2(c)(2)(A), added cls. (ii) and (iii) and struck out former cls. (ii) and (iii) which read as follows:
 
 “(ii) the case of a student who has successfully completed such first year but has not successfully completed the remainder of a program of undergraduate study—
 
@@ -128,7 +128,7 @@ Subsec. (a)(1)(A)(iv). Pub. L. 103–208, §2(c)(2)(B), substituted a period for
 
 Subsec. (a)(1)(C). Pub. L. 103–208, §2(c)(3), added subpar. (C).
 
-1992—Subsec. (a)(1)(A). Pub. L. 102–325, §413(1), added cls. (i) to (iv) and struck out former cls. (i) to (iii) which read as follows:
+<b>1992</b>—Subsec. (a)(1)(A). Pub. L. 102–325, §413(1), added cls. (i) to (iv) and struck out former cls. (i) to (iii) which read as follows:
 
 “(i) $2,625, in the case of a student who has not successfully completed the first and second year of a program of undergraduate education;
 
@@ -138,11 +138,11 @@ Subsec. (a)(1)(C). Pub. L. 103–208, §2(c)(3), added subpar. (C).
 
 Subsec. (a)(2)(A). Pub. L. 102–325, §413(2), added cls. (i) and (ii) and concluding provision and struck out former cls. (i) and (ii) which read as follows:
 
-“(i) $17,250, in the case of any student who has not successfully completed a program of undergraduate education, excluding loans made under section 1078–1 or 1078–2 of this title; and
+“(i) $17,250, in the case of any student who has not successfully completed a program of undergraduateeducation, excluding loans made under section 1078–1 or 1078–2 of this title; and
 
 “(ii) $54,750, in the case of any graduate or professional student (as defined by regulations of the Secretary and including any loans which are insured by the Secretary under this part, or by a guaranty agency, made to such person before he or she became a graduate or professional student), excluding loans made under section 1078–1 or 1078–2 of this title.”
 
-1987—Subsec. (a)(2)(A)(i). Pub. L. 100–50, §10(a)(1), inserted “, excluding loans made under section 1078–1 or 1078–2 of this title” after “undergraduate education”.
+<b>1987</b>—Subsec. (a)(2)(A)(i). Pub. L. 100–50, §10(a)(1), inserted “, excluding loans made under section 1078–1 or 1078–2 of this title” after “undergraduate education”.
 
 Subsec. (a)(2)(A)(ii). Pub. L. 100–50, §10(a)(2), inserted “, excluding loans made under section 1078–1 or 1078–2 of this title” after “graduate or professional student)”.
 

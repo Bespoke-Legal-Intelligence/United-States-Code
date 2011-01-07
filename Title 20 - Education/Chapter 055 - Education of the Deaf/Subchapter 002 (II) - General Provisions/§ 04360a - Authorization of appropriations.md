@@ -14,7 +14,7 @@ There are authorized to be appropriated such sums as may be necessary for each o
 
 There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2009 through 2014 to carry out the provisions of subchapter I of this chapter and this subchapter relating to the National Technical Institute for the Deaf.
 
-(Pub. L. 99–371, title II, §212, as added Pub. L. 105–244, title IX, §925, Oct. 7, 1998, 112 Stat. 1833; amended Pub. L. 110–315, title IX, §914, Aug. 14, 2008, 122 Stat. 3455.)
+(Pub. L. 99–371, title II, §212, as added Pub. L. 105–244, title IX, §925, Oct. 7, 1998, 112 Stat. 1833;amended Pub. L. 110–315, title IX, §914, Aug. 14, 2008, 122 Stat. 3455.)
 
 #### Prior Provisions
 
@@ -22,7 +22,7 @@ Provisions similar to this section were contained in section 4360 of this title,
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–315, §914(1), substituted “fiscal years 2009 through 2014” for “fiscal years 1998 through 2003” in introductory provisions.
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §914(1), substituted “fiscal years 2009 through 2014” for “fiscal years 1998 through 2003” in introductory provisions.
 
 Subsec. (b). Pub. L. 110–315, §914(2), substituted “fiscal years 2009 through 2014” for “fiscal years 1998 through 2003”.
 

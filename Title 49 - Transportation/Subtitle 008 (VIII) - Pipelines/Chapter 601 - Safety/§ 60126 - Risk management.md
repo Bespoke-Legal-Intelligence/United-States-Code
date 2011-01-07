@@ -78,3 +78,7 @@ Report.—Not later than March 31, 2000, the Secretary shall transmit to the Con
 
 (Added Pub. L. 104–304, §5(a), Oct. 12, 1996, 110 Stat. 3798.)
 
+#### Deemed References to Chapters 509 and 511 of Title 51
+
+General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+

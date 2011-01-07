@@ -10,7 +10,7 @@ For purposes of this chapter—
 
 #### Amendments
 
-1988—Par. (1). Pub. L. 100–690, §6473(c)(1), substituted “.10 percent” for “.10” and struck out “conclusively” after “shall be”.
+<b>1988</b>—Par. (1). Pub. L. 100–690, §6473(c)(1), substituted “.10 percent” for “.10” and struck out “conclusively” after “shall be”.
 
 Par. (2). Pub. L. 100–690, §6473(c)(2), struck out “conclusively” after “shall be”.
 

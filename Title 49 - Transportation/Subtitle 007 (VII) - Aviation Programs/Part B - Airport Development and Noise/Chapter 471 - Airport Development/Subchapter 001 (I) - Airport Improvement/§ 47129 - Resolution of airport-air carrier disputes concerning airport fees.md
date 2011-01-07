@@ -96,13 +96,13 @@ Effect On Existing Agreements.—Nothing in this section shall adversely affect�
 
 (g)
 
-Definition.—In this section, the term “fee” means any rate, rental charge, landing fee, or other service charge for the use of airport facilities.
+Definition.—In this section, the term “fee” means any rate, rental charge, landingfee, or other service charge for the use of airport facilities.
 
 (Added Pub. L. 103–305, title I, §113(a)(2), Aug. 23, 1994, 108 Stat. 1577; amended Pub. L. 104–264, title I, §149(d), Oct. 9, 1996, 110 Stat. 3227; Pub. L. 104–287, §5(85), Oct. 11, 1996, 110 Stat. 3397.)
 
 #### Historical and Revision Notes
 
-I74Pub. L. 104–287, §5(85)(A)
+#### Pub. L. 104–287, §5(85)(A)
 
 This amends 49:47129(a)(1) to conform to the style of title 49.
 
@@ -116,7 +116,7 @@ A prior section 47129 was renumbered section 47131 of this title.
 
 #### Amendments
 
-1996—Subsec. (a)(1). Pub. L. 104–287, §5(85)(A), substituted “of this title” for “of this subtitle” in introductory provisions.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–287, §5(85)(A), substituted “of this title” for “of this subtitle” in introductory provisions.
 
 Subsec. (a)(4). Pub. L. 104–264 added par. (4).
 

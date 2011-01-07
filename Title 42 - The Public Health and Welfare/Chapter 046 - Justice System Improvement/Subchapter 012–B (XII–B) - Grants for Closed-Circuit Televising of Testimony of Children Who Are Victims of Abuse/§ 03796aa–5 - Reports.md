@@ -18,7 +18,7 @@
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–322, §40156(c)(6)(A)(i), (ii), substituted “State or unit of local government that” for “State which” and “subchapter” for “chapter” in introductory provisions.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §40156(c)(6)(A)(i), (ii), substituted “State or unit of local government that” for “State which” and “subchapter” for “chapter” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 103–322, §40156(c)(6)(A)(iii), struck out “State” before “application submitted”.
 

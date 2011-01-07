@@ -124,7 +124,7 @@ For purposes of this section—
 
 #### (2) Allocation of limitation
 
-&emsp;The national zone academy bond limitation for a calendar year shall be allocated by the Secretary among the States on the basis of their respective populations of individuals below the poverty line (as defined by the Office of Management and Budget). The limitation amount allocated to a State under thepreceding sentence shall be allocated by the State education agency to qualified zone academies within such State.
+&emsp;The national zone academy bond limitation for a calendar year shall be allocated by the Secretary among the States on the basis of their respective populations of individuals below the poverty line (as defined by the Office of Management and Budget). The limitation amount allocated to a State under the preceding sentence shall be allocated by the State education agency to qualified zone academies within such State.
 
 #### (3) Designation subject to limitation amount
 
@@ -146,7 +146,7 @@ For purposes of this section—
 
 &emsp;An issue shall be treated as meeting the requirements of this subsection if, as of the date of issuance, the issuer reasonably expects—
 
-&emsp;&emsp;(A) at least 95 percent of the proceeds from the sale of the issue are to be spent for 1 or more qualified purposes with respect to qualified zone academies within the 5-year period beginning on the date of issuance of the qualified zone academy bond,
+&emsp;&emsp;(A) at least 95 percent of the proceeds from the sale of the issue are to be spent for 1 ormore qualified purposes with respect to qualified zone academies within the 5-year period beginning on the date of issuance of the qualified zone academy bond,
 
 &emsp;&emsp;(B) a binding commitment with a third party to spend at least 10 percent of the proceeds from the sale of the issue will be incurred within the 6-month period beginning on the date of issuance of the qualified zone academy bond, and
 
@@ -204,7 +204,7 @@ In the case of a qualified zone academy bond held by an S corporation which is a
 
 This section shall not apply to any obligation issued after the date of the enactment of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008.
 
-(Added Pub. L. 105–34, title II, §226(a), Aug. 5, 1997, 111 Stat. 821; amended Pub. L. 105–206, title VI, §6004(g)(2)–(4), July 22, 1998, 112 Stat. 796; Pub. L. 106–78, title VII, §752(b)(11), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 106–170, title V, §509, Dec. 17, 1999, 113 Stat. 1924; Pub. L. 107–110, title X, §1076(t), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 107–147, title VI, §608(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §304(a), title IV, §406(c), Oct. 4, 2004, 118 Stat. 1179, 1189; Pub. L. 109–58, title XIII, §1303(c)(2), (3), Aug. 8, 2005, 119 Stat. 997; Pub. L. 109–432, div. A, title I, §107(a), (b)(1), Dec. 20, 2006, 120 Stat. 2938; Pub. L. 110–234, titleXV, §15316(c)(2), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, §4(a), title XV, §15316(c)(2), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 110–343, div. C, title III, §313(b)(3), Oct. 3, 2008, 122 Stat. 3872; Pub. L. 111–5, div. B, title I, §1531(c)(3), Feb. 17, 2009, 123 Stat. 360.)
+(Added Pub. L. 105–34, title II, §226(a), Aug. 5, 1997, 111 Stat. 821; amended Pub. L. 105–206, title VI, §6004(g)(2)–(4), July 22, 1998, 112 Stat. 796; Pub. L. 106–78, title VII, §752(b)(11), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 106–170, title V, §509, Dec. 17, 1999, 113 Stat. 1924; Pub. L. 107–110, title X, §1076(t), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 107–147, title VI, §608(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §304(a), title IV, §406(c), Oct. 4, 2004, 118 Stat. 1179, 1189; Pub. L. 109–58, title XIII, §1303(c)(2), (3), Aug. 8, 2005, 119 Stat. 997; Pub. L. 109–432, div. A, title I, §107(a), (b)(1), Dec. 20, 2006, 120 Stat. 2938; Pub. L. 110–234, title XV, §15316(c)(2), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, §4(a), title XV, §15316(c)(2), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 110–343, div. C, title III, §313(b)(3), Oct. 3, 2008, 122 Stat. 3872; Pub. L. 111–5, div. B, title I, §1531(c)(3), Feb. 17, 2009, 123 Stat. 360.)
 
 #### References in Text
 
@@ -222,37 +222,37 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2009—Subsec. (c)(2). Pub. L. 111–5 substituted “, I, and J” for “and I”.
+<b>2009</b>—Subsec. (c)(2). Pub. L. 111–5 substituted “, I, and J” for “and I”.
 
-2008—Subsec. (c)(2). Pub. L. 110–246, §15316(c)(2), substituted “subparts H and I” for “subpart H”.
+<b>2008</b>—Subsec. (c)(2). Pub. L. 110–246, §15316(c)(2), substituted “subparts H and I” for “subpart H”.
 
 Subsec. (m). Pub. L. 110–343 added subsec. (m).
 
-2006—Subsec. (d)(1)(E). Pub. L. 109–432, §107(b)(1)(A), added subpar. (E).
+<b>2006</b>—Subsec. (d)(1)(E). Pub. L. 109–432, §107(b)(1)(A), added subpar. (E).
 
 Subsec. (e)(1). Pub. L. 109–432, §107(a), substituted “2005, 2006, and 2007” for “and 2005”.
 
 Subsecs. (f) to (<i>l</i>). Pub. L. 109–432, §107(b)(1)(B), added subsecs. (f) to (h) and redesignated former subsecs. (f) to (i) as (i) to (<i>l</i>), respectively.
 
-2005—Subsec. (c)(2). Pub. L. 109–58, §1303(c)(2), inserted “, and subpart H thereof” after “refundable credits”.
+<b>2005</b>—Subsec. (c)(2). Pub. L. 109–58, §1303(c)(2), inserted “, and subpart H thereof” after “refundable credits”.
 
 Subsec. (h). Pub. L. 109–58, §1303(c)(3), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “For purposes of subtitle F, the credit allowed by this section shall be treated as a credit allowable under part IV of subchapter A of this chapter.”
 
-2004—Subsec. (e)(1). Pub. L. 108–311, §304(a), substituted “2003, 2004, and 2005” for “and 2003”.
+<b>2004</b>—Subsec. (e)(1). Pub. L. 108–311, §304(a), substituted “2003, 2004, and 2005” for “and 2003”.
 
 Subsec. (i). Pub. L. 108–311, §406(c), added subsec. (i).
 
-2002—Subsec. (d)(4)(B). Pub. L. 107–110 substituted “9101” for “14101”.
+<b>2002</b>—Subsec. (d)(4)(B). Pub. L. 107–110 substituted “9101” for “14101”.
 
 Subsec. (e)(1). Pub. L. 107–147 substituted “2000, 2001, 2002, and 2003” for “2000, and 2001”.
 
-1999—Subsec. (d)(4)(A)(iv)(II). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
+<b>1999</b>—Subsec. (d)(4)(A)(iv)(II). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
 Subsec. (e)(1). Pub. L. 106–170, §509(a), substituted “, 1999, 2000, and 2001” for “and 1999”.
 
 Subsec. (e)(4). Pub. L. 106–170, §509(b), inserted at end “Any carryforward of a limitation amount may be carried only to the first 2 years (3 years for carryforwards from 1998 or 1999) following the unused limitation year. For purposes of the preceding sentence, a limitation amount shall be treated as used on a first-in first-out basis.”
 
-1998—Subsec. (d)(4)(B). Pub. L. 105–206, §6004(g)(2), substituted “local educational agency as defined” for “local education agency as defined”.
+<b>1998</b>—Subsec. (d)(4)(B). Pub. L. 105–206, §6004(g)(2), substituted “local educational agency as defined” for “local education agency as defined”.
 
 Subsec. (g). Pub. L. 105–206, §6004(g)(4), inserted “(determined without regard to subsection (c))” after “section”.
 

@@ -144,7 +144,7 @@ A prior section 1881, Pub. L. 94–265, title IV, §401, Apr. 13, 1976, 90 Stat.
 
 #### Amendments
 
-2007—Subsec. (g). Pub. L. 109–479 added subsec. (g) and struck out former subsec. (g) which required a report to Congress.
+<b>2007</b>—Subsec. (g). Pub. L. 109–479 added subsec. (g) and struck out former subsec. (g) which required a report to Congress.
 
 #### Change of Name
 

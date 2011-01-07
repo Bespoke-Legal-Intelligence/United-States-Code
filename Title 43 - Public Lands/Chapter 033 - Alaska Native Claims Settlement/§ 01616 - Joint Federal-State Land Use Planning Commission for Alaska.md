@@ -18,7 +18,7 @@ In the event that the Secretary withdraws a utility and transportation corridor 
 
 (D) Areas recommended by the Secretary pursuant to paragraph (C) shall remain withdrawn from any appropriation under the public land laws until such time as the Congress acts on the Secretary's recommendations, but not to exceed five years from the recommendation dates. The withdrawal of areas not so recommended shall terminate at the end of the two year period.
 
-(E) Notwithstanding any other provision of this subsection, initial identification of lands desired to be selected by the State pursuant to the Alaska Statehood Act and by the Regional Corporations pursuant to section 1611 of this title may be made within any area withdrawn pursuant to this subsection (d), but such lands shall not be tentatively approved or patented so long as the withdrawals of such areas remain in effect: <i>Provided</i>, That selection of lands by Village Corporations pursuant to section 1611 of this title shall not be affected by such withdrawals and such lands selected may be patented and such rights granted as authorized by this chapter. In the event Congress enacts legislation setting aside any areas withdrawn under the provisions of this subsection which the Regional Corporations or the State desired to select, then other unreserved public lands shall be made available for alternative selection by the Regional Corporations and the State. Any time periods established by law for Regional Corporations or State selections are hereby extended to the extent that delays are caused by compliance with the provisions of this subsection (2).
+(E) Notwithstanding any other provision of this subsection, initial identification of lands desired to be selected by the State pursuant to the Alaska Statehood Act and by the Regional Corporations pursuant to section 1611 of this title may be made within any area withdrawn pursuant to this subsection (d), but such lands shall not be tentatively approved or patented solong as the withdrawals of such areas remain in effect: <i>Provided</i>, That selection of lands by Village Corporations pursuant to section 1611 of this title shall not be affected by such withdrawals and such lands selected may be patented and such rights granted as authorized by this chapter. In the event Congress enacts legislation setting aside any areas withdrawn under the provisions of this subsection which the Regional Corporations or the State desired to select, then other unreserved public lands shall be made available for alternative selection by the Regional Corporations and the State. Any time periods established by law for Regional Corporations or State selections are hereby extended to the extent that delays are caused by compliance with the provisions of this subsection (2).
 
 (3) Any lands withdrawn under this section shall be subject to administration by the Secretary under applicable laws and regulations, and his authority to make contracts and to grant leases, permits, rights-of-way, or easements shall not be impaired by the withdrawal.
 
@@ -28,15 +28,11 @@ In the event that the Secretary withdraws a utility and transportation corridor 
 
 Alaska Statehood Act, referred to in subsec. (d)(2)(A), (E), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
-The public land laws, referred to in subsec. (d)(1), (2)(B) to (D), are classified generally to this title.
-
-The mining laws and the mineral leasing laws, referred to in subsec. (d)(1), are classified generally to Title 30, Mineral Lands and Mining.
-
 #### Codification
 
 Subsecs. (a) and (b) of this section, which related to the establishment, membership, compensation, procedures, duties and powers of the Joint Federal-State Land Use Planning Commission for Alaska and authorized the Commission to identify public easements across selected lands in Alaska, were omitted pursuant to former subsec. (a)(10) of this section which provided that the Commission was to cease to exist effective June 30, 1979.
 
 #### Amendments
 
-1976—Subsec. (a)(10). Pub. L. 94–204 extended the life of the Commission from Dec. 31, 1976 to June 30, 1979, directed the submission of multiple reports, with an interim report to be submitted on or before May 30, 1976, and extended from May 30, 1976 to May 30, 1979 the date on or before which the final report shall be submitted.
+<b>1976</b>—Subsec. (a)(10). Pub. L. 94–204 extended the life of the Commission from Dec. 31, 1976 to June 30, 1979, directed the submission of multiple reports, with an interim report to be submitted on or before May 30, 1976, and extended from May 30, 1976 to May 30, 1979 the date on or before which the final report shall be submitted.
 

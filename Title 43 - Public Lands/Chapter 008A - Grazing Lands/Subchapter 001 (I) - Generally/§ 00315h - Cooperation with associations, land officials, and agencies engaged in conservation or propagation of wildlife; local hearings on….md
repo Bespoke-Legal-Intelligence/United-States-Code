@@ -6,5 +6,5 @@ The Secretary of the Interior shall provide, by suitable rules and regulations, 
 
 #### Amendments
 
-1948—Act June 19, 1948, substituted “lands within or without the external boundaries of a grazing district” for “the district” in third sentence, in order to permit acceptance of lands without boundaries of grazing district.
+<b>1948</b>—Act June 19, 1948, substituted “lands within or without the external boundaries of a grazing district” for “the district” in third sentence, in order to permit acceptance of lands without boundaries of grazing district.
 

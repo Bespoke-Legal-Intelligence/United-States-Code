@@ -14,3 +14,5 @@
 
 (Pub. L. 96–440, title I, §107, Oct. 13, 1980, 94 Stat. 1881.)
 
+<i><sup>1</sup></i><i> So in original. Probably should be “magnetically”.</i>
+

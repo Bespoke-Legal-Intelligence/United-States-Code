@@ -6,7 +6,7 @@ The Secretary of the Army is authorized to allot not to exceed $1,000,000 from a
 
 #### Amendments
 
-1986—Pub. L. 99–662 substituted “$1,000,000” for “$300,000”.
+<b>1986</b>—Pub. L. 99–662 substituted “$1,000,000” for “$300,000”.
 
 #### Change of Name
 

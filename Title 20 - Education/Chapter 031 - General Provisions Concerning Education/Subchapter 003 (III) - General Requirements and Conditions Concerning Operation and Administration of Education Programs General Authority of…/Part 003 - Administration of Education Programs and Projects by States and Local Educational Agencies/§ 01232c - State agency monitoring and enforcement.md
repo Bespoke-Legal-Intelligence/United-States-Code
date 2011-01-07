@@ -14,7 +14,7 @@ In the case of any applicable program in which Federal funds are made available 
 
 In order to enforce the Federal requirements under any applicable program the State may—
 
-&emsp;(1) withhold approval, in whole or in part, of the application of a local agency for fundsunder the program until the State is satisfied that such requirements will be met; except that the State shall not finally disapprove such an application unless the State provides the local agency an opportunity for a hearing before an impartial hearing officer and such officer determines that there has been a substantial failure by the local agency to comply with any of such requirements;
+&emsp;(1) withhold approval, in whole or in part, of the application of a local agency for funds under the program until the State is satisfied that such requirements will be met; except that the State shall not finally disapprove such an application unless the State provides the local agency an opportunity for a hearing before an impartial hearing officer and such officer determines that there has been a substantial failure by the local agency to comply with any of such requirements;
 
 &emsp;(2) suspend payments to any local agency, in whole or in part, under the program if the State has reason to believe that the local agency has failed substantially to comply with any of such requirements, except that (A) the State shall not suspend such payments until fifteen days after the State provides the local agency an opportunity to show cause why such action should not be taken and (B) no such suspension shall continue in effect longer than sixty days unless the State within such period provides the notice for a hearing required under paragraph (3) of this subsection;
 
@@ -34,7 +34,7 @@ A prior section 440 of Pub. L. 90–247 was renumbered section 446, and is class
 
 #### Amendments
 
-1994—Pub. L. 103–382, §261(e)(1), struck out “educational” after “State” in section catchline.
+<b>1994</b>—Pub. L. 103–382, §261(e)(1), struck out “educational” after “State” in section catchline.
 
 Subsec. (a). Pub. L. 103–382, §261(e)(2)(A), substituted “Secretary” for “Commissioner” wherever appearing.
 

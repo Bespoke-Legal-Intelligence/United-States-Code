@@ -72,7 +72,7 @@ In order to avoid unnecessary expense and duplication of functions among governm
 
 (7) In any suit, action, or proceeding in which the corporation is a party, or intervenes under section 1451 of this title, in any State court, the corporation may, without bond or security, remove such suit, action, or proceeding from the State court to the United States district court for the district or division in which such suit, action, or proceeding is pending by following any procedure for removal now or hereafter in effect.
 
-(Pub. L. 93–406, title IV, §4003, Sept. 2, 1974, 88 Stat. 1006; Pub. L. 96–364, title IV, §§402(a)(2), 403(k), Sept. 26, 1980, 94 Stat. 1297, 1302; Pub. L. 98–620, title IV, §402(33), Nov. 8, 1984, 98 Stat. 3360; Pub. L. 99–272, title XI, §§11014(b)(1), (2), 11016(c)(5), Apr. 7, 1986, 100 Stat. 262, 264, 274; Pub. L. 103–465, title VII, §§773(a), 776(b)(1), Dec. 8, 1994, 108 Stat. 5044, 5048; Pub. L. 109–280, title I, §107(b)(2), title IV, §411(a)(2), Aug. 17, 2006, 120 Stat. 819, 935.)
+(Pub. L. 93–406, title IV, §4003, Sept. 2, 1974, 88 Stat. 1006; Pub. L. 96–364, title IV, §§402(a)(2), 403(k), Sept. 26, 1980, 94 Stat. 1297, 1302; Pub. L. 98–620, title IV, §402(33), Nov. 8, 1984, 98 Stat. 3360; Pub. L. 99–272, title XI, §§11014(b)(1), (2), 11016(c)(5), Apr. 7, 1986, 100 Stat. 262, 264, 274; Pub. L. 103–465, title VII, §§773(a), 776(b)(1), Dec. 8, 1994, 108 Stat. 5044, 5048; Pub. L. 109–280, title I, §108(b)(2), formerly §107(b)(2), title IV, §411(a)(2), Aug. 17, 2006, 120 Stat. 819, 935, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297.)
 
 #### References in Text
 
@@ -80,23 +80,23 @@ Section 1349 of this title, referred to in subsec. (f)(4), was repealed by Pub. 
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–280, §411(a)(2), substituted “under this subchapter, the Director, any member” for “under this subchapter, any member” and “designated by the Director or chairman” for “designated by the chairman”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–280, §411(a)(2), substituted “under this subchapter, the Director, any member” for “under this subchapter, any member” and “designated by the Director or chairman” for “designated by the chairman”.
 
-Subsec. (e)(1). Pub. L. 109–280, §107(b)(2), substituted “1083(k)(1)(A) and (B)” for “1082(f)(1)(A) and (B)” and “430(k)(1)(A) and (B)” for “412(n)(1)(A) and (B)”.
+Subsec. (e)(1). Pub. L. 109–280, §108(b)(2), formerly §107(b)(2), as renumbered by Pub. L. 111–192, substituted “1083(k)(1)(A) and (B)” for “1082(f)(1)(A) and (B)” and “430(k)(1)(A) and (B)” for “412(n)(1)(A) and (B)”.
 
-1994—Subsec. (a). Pub. L. 103–465, §776(b)(1), inserted “and whether section 1350(a) of this title has been satisfied” before period at end of second sentence.
+<b>1994</b>—Subsec. (a). Pub. L. 103–465, §776(b)(1), inserted “and whether section 1350(a) of this title has been satisfied” before period at end of second sentence.
 
 Subsec. (e)(1). Pub. L. 103–465, §773(a), inserted “(A)” after “enforce” and substituted “, and” and cl. (B) for period at end.
 
-1986—Subsec. (a). Pub. L. 99–272, §11016(c)(5), inserted provisions directing the corporation to audit annually a statistically significant number of plans terminating under section 1341(b) of this title to determine whether participants and beneficiaries have received their benefit commitments and to include a statistically significant number of participants and beneficiaries in each audit.
+<b>1986</b>—Subsec. (a). Pub. L. 99–272, §11016(c)(5), inserted provisions directing the corporation to audit annually a statistically significant number of plans terminating under section 1341(b) of this title to determine whether participants and beneficiaries have received their benefit commitments and to include a statistically significant number of participants and beneficiaries in each audit.
 
 Subsec. (e)(6). Pub. L. 99–272, §11014(b)(2), added par. (6).
 
-Subsec. (f). Pub. L. 99–272, §11014(b)(1), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Except as provided in section 1451(a)(2) of this title, any participant, beneficiary, plan administrator, or employee adversely affected by any action of the corporation, or by a receiver or trustee appointed by the corporation, with respect to a plan in which such participant, beneficiary, plan administrator or employer has an interest, may bring an action against the corporation, receiver, or trustee in the appropriate court. For purposes of this subsection the term ‘appropriate court’ means the United States district court before which proceedings under section 1341 or 1342 of this title are being conducted, or if no such proceedings are being conducted the United States district court for the district in which the plan has its principal office, or the United States district court for the District of Columbia. The district courts of the United States have jurisdiction of actions brought under this subsection without regard to the amount in controversy. In any suit, action, or proceeding in which the corporation is a party, or intervenes under section 1451 of this title, in any State court, the corporation may, without bond orsecurity, remove such suit, action, or proceeding from the State court to the United States District Court for the district or division embracing the place where the same is pending by following any procedure for removal now or hereafter in effect.”
+Subsec. (f). Pub. L. 99–272, §11014(b)(1), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Except as provided in section 1451(a)(2) of this title, any participant, beneficiary, plan administrator, or employee adversely affected by any action of the corporation, or by a receiver or trustee appointed by the corporation, with respect to a plan in which such participant, beneficiary, plan administrator or employer has an interest, may bring an action against the corporation, receiver, or trustee in the appropriate court. For purposes of this subsection the term ‘appropriate court’ means the United States district court before which proceedings under section 1341 or 1342 of this title are being conducted, or if no such proceedings are being conducted the United States district court for the district in which the plan has its principal office, or the United States district court for the District of Columbia. The district courts of the United States have jurisdiction of actions brought under this subsection without regard to the amount in controversy. In any suit, action, or proceeding in which the corporation is a party, or intervenes under section 1451 of this title, in any State court, the corporation may, without bond or security, remove such suit, action, or proceeding from the State court to the United States District Court for the district or division embracing the place where the same is pending by following any procedure for removal now or hereafter in effect.”
 
-1984—Subsec. (e)(4). Pub. L. 98–620 struck out par. (4) which provided that upon application by the corporation to a court of the United States for expedited handling of any case in which the corporation was a party, it was the duty of that court to assign such case for hearing at the earliest practical date and to cause such case to be in every way expedited.
+<b>1984</b>—Subsec. (e)(4). Pub. L. 98–620 struck out par. (4) which provided that upon application by the corporation to a court of the United States for expedited handling of any case in which the corporation was a party, it was the duty of that court to assign such case for hearing at the earliest practical date and to cause such case to be in every way expedited.
 
-1980—Subsec. (a). Pub. L. 96–364, §402(a)(2)(A), substituted “enforce” for “determine whether any person has violated or is about to violate”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–364, §402(a)(2)(A), substituted “enforce” for “determine whether any person has violated or is about to violate”.
 
 Subsec. (e)(1). Pub. L. 96–364, §402(a)(2)(B), substituted “enforce” for “redress violations of”.
 
@@ -104,7 +104,7 @@ Subsec. (f). Pub. L. 96–364, §§402(a)(2)(C), 403(k), substituted “Except a
 
 #### Effective Date of 2006 Amendment
 
-Amendment by section 107(b)(2) of Pub. L. 109–280 applicable to plan years beginning after 2007, see section 107(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
+Amendment by section 108(b)(2) of Pub. L. 109–280 applicable to plan years beginning after 2007, see section 108(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -128,7 +128,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

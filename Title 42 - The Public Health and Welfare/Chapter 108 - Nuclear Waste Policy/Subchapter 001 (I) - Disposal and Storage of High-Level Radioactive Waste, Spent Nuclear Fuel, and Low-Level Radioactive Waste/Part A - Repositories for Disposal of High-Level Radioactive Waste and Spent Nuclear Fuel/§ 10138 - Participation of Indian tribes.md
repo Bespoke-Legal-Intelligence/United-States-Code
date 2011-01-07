@@ -38,7 +38,7 @@ Upon the submission by the President to the Congress of a recommendation of a si
 
 &emsp;(iv) December 22, 1987;
 
-> whichever occurs first, unless there is another candidate site on the reservation of such Indian tribe that is approved under section 10132(c) of this title and with respect to which the actionsdescribed in clauses (i), (ii), and (iii) have not been taken.
+> whichever occurs first, unless there is another candidate site on the reservation of such Indian tribe that is approved under section 10132(c) of this title and with respect to which the actions described in clauses (i), (ii), and (iii) have not been taken.
 
 (B) An affected Indian tribe may not receive any further assistance under paragraph (2) with respect to a site if repository construction activities at such site are terminated by the Secretary or if such activities are permanently enjoined by any court.
 
@@ -54,7 +54,7 @@ Upon the submission by the President to the Congress of a recommendation of a si
 
 #### Amendments
 
-1987—Subsec. (b)(5)(iv). Pub. L. 100–202 and Pub. L. 100–203 amended par. (5) identically, adding cl. (iv).
+<b>1987</b>—Subsec. (b)(5)(iv). Pub. L. 100–202 and Pub. L. 100–203 amended par. (5) identically, adding cl. (iv).
 
 <i><sup>1</sup></i><i> So in original. Probably should be designated “(5)(A)”.</i>
 

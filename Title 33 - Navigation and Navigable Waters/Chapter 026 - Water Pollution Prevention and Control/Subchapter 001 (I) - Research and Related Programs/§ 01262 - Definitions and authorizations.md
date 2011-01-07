@@ -14,15 +14,15 @@
 
 #### Amendments
 
-1998—Subsec. (a)(1). Pub. L. 105–244 substituted “section 1001” for “section 1141”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–244 substituted “section 1001” for “section 1141”.
 
-1987—Subsec. (c). Pub. L. 100–4 struck out “and” after “1981,” and inserted “such sums as may be necessary for fiscal years 1983 through 1985, and $7,000,000 per fiscal year for each of the fiscal years 1986 through 1990,” after “1982,”.
+<b>1987</b>—Subsec. (c). Pub. L. 100–4 struck out “and” after “1981,” and inserted “such sums as may be necessary for fiscal years 1983 through 1985, and $7,000,000 per fiscal year for each of the fiscal years 1986 through 1990,” after “1982,”.
 
-1980—Subsec. (c). Pub. L. 96–483 inserted authorization of the sum of $7,000,000 for each of fiscal years ending Sept. 30, 1981 and 1982.
+<b>1980</b>—Subsec. (c). Pub. L. 96–483 inserted authorization of the sum of $7,000,000 for each of fiscal years ending Sept. 30, 1981 and 1982.
 
-1977—Subsec. (c). Pub. L. 95–217 substituted “June 30, 1975, $6,000,000 for the fiscal year ending September 30, 1977, $7,000,000 for the fiscal year ending September 30, 1978, $7,000,000 for the fiscal year ending September 30, 1979, and $7,000,000 for the fiscal year ending September 30, 1980,” for “June 30, 1975,”.
+<b>1977</b>—Subsec. (c). Pub. L. 95–217 substituted “June 30, 1975, $6,000,000 for the fiscal year ending September 30, 1977, $7,000,000 for the fiscal year ending September 30, 1978, $7,000,000 for the fiscal year ending September 30, 1979, and $7,000,000 for the fiscal year ending September 30, 1980,” for “June 30, 1975,”.
 
-1975—Subsec. (c). Pub. L. 93–592 substituted “June 30, 1974, and June 30, 1975,” for “and June 30, 1974,”.
+<b>1975</b>—Subsec. (c). Pub. L. 93–592 substituted “June 30, 1974, and June 30, 1975,” for “and June 30, 1974,”.
 
 #### Effective Date of 1998 Amendment
 

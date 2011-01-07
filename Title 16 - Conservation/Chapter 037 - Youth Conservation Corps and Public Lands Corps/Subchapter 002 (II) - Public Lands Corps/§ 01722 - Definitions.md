@@ -106,5 +106,5 @@ The Healthy Forests Restoration Act of 2003, referred to in par. (8), is Pub. L.
 
 #### Amendments
 
-2005—Pars. (8) to (13). Pub. L. 109–154 added pars. (8) and (12) and redesignated former pars. (8) to (11) as pars. (9) to (11) and (13), respectively.
+<b>2005</b>—Pars. (8) to (13). Pub. L. 109–154 added pars. (8) and (12) and redesignated former pars. (8) to (11) as pars. (9) to (11) and (13), respectively.
 

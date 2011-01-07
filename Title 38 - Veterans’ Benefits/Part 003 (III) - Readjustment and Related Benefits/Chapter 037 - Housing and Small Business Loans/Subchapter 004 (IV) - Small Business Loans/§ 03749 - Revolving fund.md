@@ -10,17 +10,17 @@
 
 (d) The Secretary shall determine annually whether there has developed in the fund a surplus which, in the Secretary's judgment, is more than necessary to meet the needs of the fund. Any such surplus shall immediately be transferred into the general fund of the Treasury.
 
-(e) Not later than two years after the termination of the authority of the Secretary to make new commitments for financial assistanceunder this subchapter, the Secretary shall transfer into the general fund of the Treasury all amounts in the fund except those that the Secretary determines may be required for the liquidation of obligations under this subchapter. All amounts received thereafter derived from loan operations under this subchapter, except so much thereof as the Secretary may determine to be necessary for liquidating outstanding obligations under this subchapter, shall also be so deposited.
+(e) Not later than two years after the termination of the authority of the Secretary to make new commitments for financial assistance under this subchapter, the Secretary shall transfer into the general fund of the Treasury all amounts in the fund except those that the Secretary determines may be required for the liquidation of obligations under this subchapter. All amounts received thereafter derived from loan operations under this subchapter, except so much thereof as the Secretary may determine to be necessary for liquidating outstanding obligations under this subchapter, shall also be so deposited.
 
 (Added Pub. L. 97–72, title III, §302(a), Nov. 3, 1981, 95 Stat. 1058, §1849; amended Pub. L. 99–576, title VII, §702(11), Oct. 28, 1986, 100 Stat. 3302; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §3749 and amended Pub. L. 102–83, §§4(a)(2)(B)(v), 5(a), Aug. 6, 1991, 105 Stat. 403, 406.)
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1849 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1849 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(a)(2)(B)(v), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1989—Subsecs. (b) to (e). Pub. L. 101–237 substituted “Secretary” and “Secretary's” for “Administrator” and “Administrator's”, respectively, wherever appearing.
+<b>1989</b>—Subsecs. (b) to (e). Pub. L. 101–237 substituted “Secretary” and “Secretary's” for “Administrator” and “Administrator's”, respectively, wherever appearing.
 
-1986—Subsec. (c)(1). Pub. L. 99–576 substituted “There” for “Effective for fiscal year 1982 and fiscal years thereafter, there”.
+<b>1986</b>—Subsec. (c)(1). Pub. L. 99–576 substituted “There” for “Effective for fiscal year 1982 and fiscal years thereafter, there”.
 

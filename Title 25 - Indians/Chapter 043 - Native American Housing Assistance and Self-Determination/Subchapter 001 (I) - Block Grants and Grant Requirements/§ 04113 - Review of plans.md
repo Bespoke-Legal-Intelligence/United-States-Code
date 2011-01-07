@@ -48,11 +48,11 @@ Section 4112(c)(5) of this title, referred to in subsec. (c), was repealed by Pu
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–411, §103(1), substituted “tribal program” for “fiscal” in two places, struck out “(with respect to information included for the 5-year period under section 4112(b) of this title or the 1-year period under section 4112(c) of this title)” before “by submitting only such information”, and struck out at end “Not less than once every 5 years, the tribe shall submit a complete plan.”
+<b>2008</b>—Subsec. (d). Pub. L. 110–411, §103(1), substituted “tribal program” for “fiscal” in two places, struck out “(with respect to information included for the 5-year period under section 4112(b) of this title or the 1-year period under section 4112(c) of this title)” before “by submitting only such information”, and struck out at end “Not less than once every 5 years, the tribe shall submit a complete plan.”
 
 Subsec. (e). Pub. L. 110–411, §103(2), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “This section and section 4112 of this title shall take effect on the date provided by the Secretary pursuant to section 4116(a) of this title to provide for timely submission and review of Indian housing plans as necessary for the provision of assistance under this chapter in fiscal year 1998.”
 
-1998—Subsec. (c)(3). Pub. L. 105–276 inserted “not” before “prohibited”.
+<b>1998</b>—Subsec. (c)(3). Pub. L. 105–276 inserted “not” before “prohibited”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

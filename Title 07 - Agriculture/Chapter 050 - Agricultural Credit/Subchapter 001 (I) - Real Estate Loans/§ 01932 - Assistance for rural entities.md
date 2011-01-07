@@ -58,7 +58,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (ii) Use of grant
 
-&emsp;&emsp;&emsp;An eligible nonprofit entity, or other tax exempt organization, described in clause\(i) may use assistance provided under this paragraph to create, expand, or operate value-added processing in an area described in clause (i) in connection with production agriculture.
+&emsp;&emsp;&emsp;An eligible nonprofit entity, or other tax exempt organization, described in clause (i) may use assistance provided under this paragraph to create, expand, or operate value-added processing in an area described in clause (i) in connection with production agriculture.
 
 #### (iii) Priority
 
@@ -76,7 +76,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 (1) The Secretary may participate in joint financing to facilitate development of private business enterprises in rural areas with the Economic Development Administration, the Small Business Administration, and the Department of Housing and Urban Development and other Federal and State agencies and with private and quasi-public financial institutions, through joint loans to applicants eligible under subsection (a) of this section for the purpose of improving, developing, or financing business, industry, and employment and improving the economic and environmental climate in rural areas or through joint grants to applicants eligible under subsection (c) of this section for such purposes, including in the case of loans or grants the development, construction, or acquisition of land, buildings, plants, equipment, access streets and roads, parking areas, utility extensions, necessary water supply and waste disposal facilities, refining, service and fees.
 
-(2) No financial or other assistance shall be extended under any provision of this section, except for cases in which such assistance does not exceed $1,000,000 or for cases in which direct employment will not be increased by more than fifty employees, that is calculated to or is likely to result in the transfer from one area to another of any employment or business activity provided by operations of the applicant, but this limitation shall not be construed to prohibit assistance for the expansion of an existing business entity through the establishment of a new branch, affiliate, or subsidiary of such entity if the establishment of such branch, affiliate, or subsidiary will not result in an increase in unemployment in the area of original location or in any other area where such entity conducts business operations unless there is reason to believe that such branch, affiliate, or subsidiary is being established with the intention of closing down the operations of the existing business entity in the area of its original location or in any other area where it conducts such operations.
+(2) No financial or other assistance shall be extended under any provision of this section, except for cases in which such assistance does not exceed $1,000,000 or for cases in which direct employment will not be increased by more than fifty employees, that is calculated to or is likely to result in the transfer from one area to another of any employment or business activity provided by operations of the applicant, but this limitation shall not be construed to prohibit assistance for the expansion of an existing business entity through the establishment of a new branch, affiliate, or subsidiary of such entity if the establishment of such branch, affiliate, or subsidiary will not result in an increase in unemployment in the area of original location orin any other area where such entity conducts business operations unless there is reason to believe that such branch, affiliate, or subsidiary is being established with the intention of closing down the operations of the existing business entity in the area of its original location or in any other area where it conducts such operations.
 
 (3) No financial or other assistance shall be extended under any provision of this section, except for cases in which such assistance does not exceed $1,000,000 or for cases in which direct employment will not be increased by more than fifty employees, which is calculated to or likely to result in an increase in the production of goods, materials, or commodities, or the availability of services or facilities in the area, when there is not sufficient demand for such goods, materials, commodities, services, or facilities, to employ the efficient capacity of existing competitive commercial or industrial enterprises, unless such financial or other assistance will not have an adverse effect upon existing competitive enterprises in the area.
 
@@ -86,7 +86,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 (6) No loan commitment issued under this section shall be conditioned upon the applicant investing in excess of 10 per centum in the business or industrial enterprise for which purpose the loan is to be made unless the Secretary determines there are special circumstances which necessitate an equity investment by the applicant greater than 10 per centum.
 
-(7) No provision of law shall prohibit issuance by the Secretary of certificates evidencing beneficial ownership in a block of notes insured or guaranteed under this chapter or Title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\]; any sale by the Secretary of such certificates shall be treated as a sale of assets for the purposes of chapter 11 of title 31. Any security representingbeneficial ownership in a block of notes guaranteed or insured under this chapter or Title V of the Housing Act of 1949 issued by a private entity shall be exempt from laws administered by the Securities and Exchange Commission, except sections 77q, 77v, and 77x of title 15; however, the Secretary shall require (i) that the issuer place such notes in the custody of an institution chartered by a Federal or State agency to act as trustee and (ii) that the issuer provide such periodic reports of sales as the Secretary deems necessary.
+(7) No provision of law shall prohibit issuance by the Secretary of certificates evidencing beneficial ownership in a block of notes insured or guaranteed under this chapter or Title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\]; any sale by the Secretary of such certificates shall be treated as a sale of assets for the purposes of chapter 11 of title 31. Any security representing beneficial ownership in a block of notes guaranteed or insured under this chapter or Title V of the Housing Act of 1949 issued by a private entity shall be exempt from laws administered by the Securities and Exchange Commission, except sections 77q, 77v, and 77x of title 15; however, the Secretary shall require (i) that the issuer place such notes in the custody of an institution chartered by a Federal or State agency to act as trustee and (ii) that the issuer provide such periodic reports of sales as the Secretary deems necessary.
 
 #### (e) Rural cooperative development grants
 
@@ -200,7 +200,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the total amount appropriated under paragraph (12) for a fiscal year exceeds $7,500,000, the Secretary shall reserve an amount equal to 20 percent of the total amount appropriated for grants for cooperative development centers, individual cooperatives, or groups of cooperatives—
+&emsp;&emsp;&emsp;If the total amount appropriated under paragraph (12) for a fiscal year exceeds$7,500,000, the Secretary shall reserve an amount equal to 20 percent of the total amount appropriated for grants for cooperative development centers, individual cooperatives, or groups of cooperatives—
 
 &emsp;&emsp;&emsp;&emsp;(I) that serve socially disadvantaged groups; and
 
@@ -444,7 +444,7 @@ For definition of “this chapter”, referred to in subsec. (d)(5), (7), see no
 
 Title V of the Housing Act of 1949, referred to in subsec. (d)(7), is title V of act July 15, 1949, ch. 338, 63 Stat. 432, as amended, which is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the code, see References in Text note set out under section 1441 of Title 42 and Tables.
 
-The date of enactment of this paragraph and the date of enactment of this subsection, referred to in subsecs. (g)(9)(B)(iv) and (j), respectively, is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+The date of enactment of this paragraph and the date of enactment of this subsection, referred to in subsecs.\(g)(9)(B)(iv) and (j), respectively, is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
 #### Codification
 
@@ -528,7 +528,7 @@ Subsec. (d)(2) to (4). Pub. L. 104–127, §661(d)(1), substituted “provision 
 
 Subsec. (d)(6). Pub. L. 104–127, §661(d)(2), substituted “this section” for “this section, section 1924 of this title, or section 1942 of this title”.
 
-Subsec. (e). Pub. L. 104–127, §747(a)(4), added subsec. (e) and struck out former subsec. (e) which authorized the insuring or guaranteeing of loans for the purpose of constructing or improving subterminal facilities.
+Subsec. (e). Pub. L. 104–127, §747(a)(4), added subsec. (e) and struck out former subsec. (e) which authorizedthe insuring or guaranteeing of loans for the purpose of constructing or improving subterminal facilities.
 
 Subsec. (e)(2). Pub. L. 104–180 amended Pub. L. 104–127, §747(a)(4), which enacted subsec. (e), to insert “effective October 1, 1996,” after “The Secretary shall make grants” in par. (2).
 
@@ -552,7 +552,7 @@ Subsec. (j). Pub. L. 104–127, §747(a)(6), redesignated subsec. (j) as (f).
 
 1992—Subsec. (c). Pub. L. 102–554 designated existing provisions as par. (1) and added par. (2).
 
-Pub. L. 102–552, which directed the substitution of “business enterprises or the creation, expansion, and operation of rural distance learning networks or rural learning programs that provide educational instruction or job training instruction related to potential employment or job advancement to adult students,” for “business enterprises,” in section 310B(c) without specifyingthe name of the act, was executed to this section, which is section 310B of the Consolidated Farm and Rural Development Act, to reflect the probable intent of Congress.
+Pub. L. 102–552, which directed the substitution of “business enterprises or the creation, expansion, and operation of rural distance learning networks or rural learning programs that provide educational instruction or job training instruction related to potential employment or job advancement to adult students,” for “business enterprises,” in section 310B(c) without specifying the name of the act, was executed to this section, which is section 310B of the Consolidated Farm and Rural Development Act, to reflect the probable intent of Congress.
 
 1991—Subsec. (d)(5), (7). Pub. L. 102–237, §701(h)(1)(C), (D), substituted “this chapter” for “this Act”.
 
@@ -598,7 +598,7 @@ Subsec. (e). Pub. L. 96–358 added subsec. (e).
 
 Subsec. (d)(3). Pub. L. 95–334, §112, inserted exception for assistance less than $1,000,000, or where direct employment will not be increased by more than 50 employees and substituted “30” for “60”.
 
-1977—Subsec. (a). Pub. L. 95–113 inserted reference to the conservation, development, and utilization of water for aquaculture purposes and inserted definition of “aquaculture”.
+1977—Subsec. (a). Pub. L. 95–113 inserted reference to the conservation, development, and utilization of waterfor aquaculture purposes and inserted definition of “aquaculture”.
 
 1973—Subsec. (d)(4) to (6). Pub. L. 91–524, §817, as added by Pub. L. 93–86, added pars. (4) to (6).
 
@@ -636,7 +636,7 @@ Section 2336 of Pub. L. 101–624 provided that: “The purposes of this chapter
 
 &emsp;“(1) provide funds to improve telecommunications service in rural areas; and
 
-&emsp;“(2) provide access to advanced telecommunications services and computer networks to improve jobopportunities and the business environment in rural areas.”
+&emsp;“(2) provide access to advanced telecommunications services and computer networks to improve job opportunities and the business environment in rural areas.”
 
 #### Guarantee by Secretary of Agriculture of Loans to Nonprofit National Rural Development and Finance Corporations
 
@@ -676,7 +676,7 @@ Pub. L. 99–198, title XIII, §1323, Dec. 23, 1985, 99 Stat. 1534, as amended b
 
 > &emsp;specified in the first, second, and last sentences of section 623(a) of the Community Economic Development Act of 1981 (42 U.S.C. 9812(a)). For purposes of this subparagraph, any reference in such sentences to the Secretary shall be deemed to be a reference to the Secretary of Agriculture.”
 
-Pub. L. 99–500, §101(a) \[title VI, §641\], Oct. 18, 1986, 100 Stat. 1783, 1783–35, and Pub. L. 99–591, §101(a) \[title VI, §641\], Oct. 30, 1986, 100 Stat. 3341, 3341–35, provided in part: “That such grant funds \[probably means grant funds under section 1323(b)(1) of Pub. L. 99–198, set out above\] may be used by such corporation to provide technical assistance and financial assistance, including capitalizing revolving loan programs, pursuant to the Act.”
+Pub. L. 99–500, §101(a) \[title VI, §641\], Oct. 18, 1986, 100 Stat. 1783, 1783–35, and Pub. L. 99–591, §101(a) \[title VI,§641\], Oct. 30, 1986, 100 Stat. 3341, 3341–35, provided in part: “That such grant funds \[probably means grant funds under section 1323(b)(1) of Pub. L. 99–198, set out above\] may be used by such corporation to provide technical assistance and financial assistance, including capitalizing revolving loan programs, pursuant to the Act.”
 
 #### Limits on Grants for Fiscal Years 1982, 1983, and 1984
 

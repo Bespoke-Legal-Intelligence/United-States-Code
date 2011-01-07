@@ -204,13 +204,13 @@ Affiliated Carriers.—For purposes of this section and sections 41716, 41717, a
 
 #### Historical and Revision Notes
 
-I74Pub. L. 105–102
+#### Pub. L. 105–102
 
 This amends 49:41714(d)(1) to make a conforming cross-reference necessary because of the restatement of the Metropolitan Washington Airports Act of 1986 (Public Law 99–500, 100 Stat. 1783–373, Public Law 99–591, 100 Stat. 3341–376) by section 2(26) of this Act as chapter 491 of title 49.
 
 #### Amendments
 
-2000—Subsec. (a)(3). Pub. L. 106–181, §231(d)(2), struck out before period at end “; except that the Secretary shall not be required to make slots available at O'Hare International Airport in Chicago, Illinois, if the number of slots available for basic essential air service (including slots specifically designated as essential air service slots and slots used for such purposes) to and from such airport is at least 132 slots”.
+<b>2000</b>—Subsec. (a)(3). Pub. L. 106–181, §231(d)(2), struck out before period at end “; except that the Secretary shall not be required to make slots available at O'Hare International Airport in Chicago, Illinois, if the number of slots available for basic essential air service (including slots specifically designated as essential air service slots and slots used for such purposes) to and from such airport is at least 132 slots”.
 
 Subsec. (b)(2). Pub. L. 106–181, §231(d)(3), inserted “at Chicago O'Hare International Airport” after “a slot” and struck out before period at end “if the withdrawal of that slot would result in the withdrawal of slots from an air carrier at O'Hare International Airport under section 93.223 of title 14, Code of Federal Regulations, in excess of the total withdrawn from that air carrier as of October 31, 1993”.
 
@@ -230,13 +230,13 @@ Subsec. (i). Pub. L. 106–181, §231(a)(1), amended heading and text of subsec.
 
 Subsecs. (j), (k). Pub. L. 106–181, §231(a)(2), (3), added subsecs. (j) and (k).
 
-1998—Subsecs. (a)(1), (b)(1), (c)(1), (d). Pub. L. 105–154 substituted “Ronald Reagan Washington National Airport” for “Washington National Airport” wherever appearing in text and in subsec. (d) heading.
+<b>1998</b>—Subsecs. (a)(1), (b)(1), (c)(1), (d). Pub. L. 105–154 substituted “Ronald Reagan Washington National Airport” for “Washington National Airport” wherever appearing in text and in subsec. (d) heading.
 
-1997—Subsec. (d)(1). Pub. L. 105–102 substituted “sections 49104(a)(5) and 49111(e) of this title” for “sections 6005(c)(5) and 6009(e) of the Metropolitan Washington Airports Act of 1986”.
+<b>1997</b>—Subsec. (d)(1). Pub. L. 105–102 substituted “sections 49104(a)(5) and 49111(e) of this title” for “sections 6005(c)(5) and 6009(e) of the Metropolitan Washington Airports Act of 1986”.
 
 Subsec. (i). Pub. L. 105–66 added subsec. (i).
 
-1996—Subsec. (e)(2). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+<b>1996</b>—Subsec. (e)(2). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
 
 #### Effective Date of 2000 Amendment
 

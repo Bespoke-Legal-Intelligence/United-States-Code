@@ -24,7 +24,7 @@ Pub. L. 99–198, title XVII, §1759, Dec. 23, 1985, 99 Stat. 1650, provided tha
 
 #### Effective Date of 1970 Amendment
 
-Section 23 of Pub. L. 91–579 provided that: “The amendments made by this Act \[enacting section 2155 of this title, amending this section and sections 2132, 2133, 2134, 2135, 2136, 2137, 2138, 2139, 2140, 2141, 2142, 2143, 2144, 2145, 2146, 2147, 2149, and 2150 of this title, repealing section 2148 of this title, and enacting provisions set out as notes under this section\] shall take effect one year after the date of enactment of this Act \[Dec. 24, 1970\], except for the amendments to sections 16, 17, 19, and 20 of the Act of August 24, 1966 \[sections 2146, 2147, 2149, and 2150 of this title\], which shall become effective thirty days after the date of enactment of this Act \[Dec. 24, 1970\]”.
+Section 23 of Pub. L. 91–579 provided that: “The amendments made by this Act \[enacting section 2155 of this title, amending this section and sections 2132, 2133, 2134, 2135, 2136, 2137, 2138, 2139, 2140, 2141, 2142, 2143, 2144, 2145, 2146, 2147, 2149, and 2150 of this title, repealing section 2148 of this title, and enacting provisions set out as notes under this section\] shall take effect one yearafter the date of enactment of this Act \[Dec. 24, 1970\], except for the amendments to sections 16, 17, 19, and 20 of the Act of August 24, 1966 \[sections 2146, 2147, 2149, and 2150 of this title\], which shall become effective thirty days after the date of enactment of this Act \[Dec. 24, 1970\]”.
 
 #### Short Title of 1976 Amendment
 
@@ -52,5 +52,5 @@ Pub. L. 99–198, title XVII, subtitle F (§§1751–1759), §1751, Dec. 23, 198
 
 #### Extended Definition of “Animal”
 
-Pub. L. 99–198, title XVII, 1756(b), Dec. 23, 1985, 99 Stat. 1650, provided that: “For purposes of this Act \[seeTables for classification\], the term ‘animal’ shall have the same meaning as defined in section 2(g) of the Animal Welfare Act (7 U.S.C. 2132(g)).”
+Pub. L. 99–198, title XVII, 1756(b), Dec. 23, 1985, 99 Stat. 1650, provided that: “For purposes of this Act \[see Tables for classification\], the term ‘animal’ shall have the same meaning as defined in section 2(g) of the Animal Welfare Act (7 U.S.C. 2132(g)).”
 

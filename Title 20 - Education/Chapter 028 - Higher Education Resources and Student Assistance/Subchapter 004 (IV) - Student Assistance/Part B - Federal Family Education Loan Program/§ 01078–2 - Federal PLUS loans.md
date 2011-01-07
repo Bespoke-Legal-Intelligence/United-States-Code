@@ -4,7 +4,7 @@
 
 #### (1) Authority and eligibility
 
-&emsp;A graduate or professional student or the parents of a dependent student shall be eligible to borrow funds under this section in amounts specified in subsection (b) of this section, if—
+&emsp;Prior to July 1, 2010, a graduate or professional student or the parents of a dependent student shall be eligible to borrow funds under this section in amounts specified in subsection (b) of this section, if—
 
 &emsp;&emsp;(A) the graduate or professional student or the parents do not have an adverse credit history as determined pursuant to regulations promulgated by the Secretary;
 
@@ -134,7 +134,7 @@ A parent who wishes to borrow funds under this section shall be subject to verif
 
 &emsp;(2) social security number in the same manner as social security numbers are verified for students under section 1091(p) of this title.
 
-(Pub. L. 89–329, title IV, §428B, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386; amended Pub. L. 100–50, §10(<i>o</i>), (p)(2), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 102–325, title IV, §418, July 23, 1992, 106 Stat. 531; Pub. L. 103–66, title IV, §4109(a), Aug. 10, 1993, 107 Stat. 369; Pub. L. 105–178, title VIII, §8301(a)(2), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(a)(2), 419, Oct. 7, 1998, 112 Stat. 1680, 1694; Pub. L. 109–171, title VIII, §§8005(c), 8014(g), Feb. 8, 2006, 120 Stat. 158, 171; Pub. L. 110–227, §§3(a), 4, May 7, 2008, 122 Stat. 742, 743; Pub. L. 110–315, title IV, §424(a), Aug. 14, 2008, 122 Stat. 3232; Pub. L. 111–39, title IV, §402(f)(2), July 1, 2009, 123 Stat. 1943.)
+(Pub. L. 89–329, title IV, §428B, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386; amended Pub. L. 100–50, §10(<i>o</i>), (p)(2), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 102–325, title IV, §418, July 23, 1992, 106 Stat. 531; Pub. L. 103–66, title IV, §4109(a), Aug. 10, 1993, 107 Stat. 369; Pub. L. 105–178, title VIII, §8301(a)(2), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(a)(2), 419, Oct. 7, 1998, 112 Stat. 1680, 1694; Pub. L. 109–171, title VIII, §§8005(c), 8014(g), Feb. 8, 2006, 120 Stat. 158, 171; Pub. L. 110–227, §§3(a), 4, May 7, 2008, 122 Stat. 742, 743; Pub. L. 110–315, title IV, §424(a), Aug. 14, 2008, 122 Stat. 3232; Pub. L. 111–39, title IV, §402(f)(2), July 1, 2009, 123 Stat. 1943; Pub. L. 111–152, title II, §2205, Mar. 30, 2010, 124 Stat. 1075.)
 
 #### Prior Provisions
 
@@ -142,11 +142,13 @@ A prior section 1078–2, Pub. L. 89–329, title IV, §428B, as added Pub. L. 9
 
 #### Amendments
 
-2009—Subsec. (e)(3)(B). Pub. L. 111–39, §402(f)(2)(A), substituted “subsection (d)(5)(B)” for “subsection (c)(5)(B)”.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–152 substituted “Prior to July 1, 2010, a graduate” for “A graduate” in introductory provisions.
 
-Subsec. (e)(5). Pub. L. 111–39, §402(f)(2)(B), struck out par. (5) which related to notification to borrowers of availability of refinancing options for certain loans made before Oct. 17, 1986.
+<b>2009</b>—Subsec. (e)(3)(B). Pub. L. 111–39, §402(f)(2)(A), substituted “subsection (d)(5)(B)” for “subsection (c)(5)(B)”.
 
-2008—Subsec. (a)(3). Pub. L. 110–227, §4, amended par. (3) generally. Prior to amendment, text read as follows: “Whenever necessary to carry out the provisions of this section, the terms ‘student’ and ‘borrower’ as used in this part shall include a parent borrower under this section.”
+Subsec. (e)(5). Pub. L. 111–39, §402(f)(2)(B), struck out par. (5) which related to notification to borrowers ofavailability of refinancing options for certain loans made before Oct. 17, 1986.
+
+<b>2008</b>—Subsec. (a)(3). Pub. L. 110–227, §4, amended par. (3) generally. Prior to amendment, text read as follows: “Whenever necessary to carry out the provisions of this section, the terms ‘student’ and ‘borrower’ as used in this part shall include a parent borrower under this section.”
 
 Subsec. (a)(3)(B)(i)(II). Pub. L. 110–315, §424(a)(1), added subcl. (II) and struck out former subcl. (II) which read as follows: “is not and has not been more than 89 days delinquent on the repayment of any other debt during such period.”
 
@@ -154,7 +156,7 @@ Subsec. (d)(1), (2). Pub. L. 110–315, §424(a)(2), added pars. (1) and (2) and
 
 Pub. L. 110–227, §3(a), amended pars. (1) and (2) generally. Prior to amendment, text related to commencement of repayment and capitalization of interest.
 
-2006—Subsec. (a)(1). Pub. L. 109–171, §8005(c)(1)(A), in introductory provisions, substituted “A graduate or professional student or the parents” for “Parents”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–171, §8005(c)(1)(A), in introductory provisions, substituted “A graduate or professional student or the parents” for “Parents”.
 
 Subsec. (a)(1)(A). Pub. L. 109–171, §8005(c)(1)(B), substituted “the graduate or professional student or the parents” for “the parents”.
 
@@ -170,7 +172,7 @@ Subsec. (c)(2). Pub. L. 109–171, §8005(c)(3), substituted “graduate or prof
 
 Subsec. (d)(1). Pub. L. 109–171, §8005(c)(4), substituted “the graduate or professional student or the parent” for “the parent”.
 
-1998—Subsec. (a). Pub. L. 105–244, §419(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Parents of a dependent student, who do not have an adverse credit history as determined pursuant to regulations of the Secretary, shall be eligible to borrow funds under this section in amounts specified in subsection (b) of this section, and unless otherwise specified in subsections (c), (d), and (e) of this section, such loans shall have the same terms, conditions, and benefits as all other loans made under this part. Whenever necessary to carry out the provisions of this section, the terms ‘student’ and ‘borrower’ as used in this part shall include a parent borrower under this section.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–244, §419(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Parents of a dependent student, who do not have an adverse credit history as determined pursuant to regulations of the Secretary, shall be eligible to borrow funds under this section in amounts specified in subsection (b) of this section, and unless otherwise specified in subsections (c), (d), and (e) of this section, such loans shall have the same terms, conditions, and benefits as all other loans made under this part. Whenever necessary to carry out the provisions of this section, the terms ‘student’ and ‘borrower’ as used in this part shall include a parent borrower under this section.”
 
 Subsec. (d)(4). Pub. L. 105–244, §416(a)(2), substituted “section 1077a” for “section 1077a(c)”.
 
@@ -178,9 +180,9 @@ Pub. L. 105–178 which directed substitution of “section 1077a of this title 
 
 Subsec. (f). Pub. L. 105–244, §419(2), added subsec. (f).
 
-1993—Subsec. (c). Pub. L. 103–66 inserted “shall be disbursed in accordance with the requirements of section 1078–7 of this title and” after “under this section”.
+<b>1993</b>—Subsec. (c). Pub. L. 103–66 inserted “shall be disbursed in accordance with the requirements of section 1078–7 of this title and” after “under this section”.
 
-1992—Pub. L. 102–325, §418(a), substituted “Federal PLUS” for “PLUS” in section catchline.
+<b>1992</b>—Pub. L. 102–325, §418(a), substituted “Federal PLUS” for “PLUS” in section catchline.
 
 Subsec. (a). Pub. L. 102–325, §418(b)(1), substituted “subsections (c), (d), and (e)” for “subsections (c) and (d)” and inserted “, who do not have an adverse credit history as determined pursuant to regulations of the Secretary,” after “a dependent student”.
 
@@ -202,7 +204,7 @@ Pub. L. 102–325, §418(b)(3), redesignated subsec. (c) as (d). Former subsec. 
 
 Subsec. (e). Pub. L. 102–325, §418(b)(3), redesignated subsec. (d) as (e).
 
-1987—Subsec. (a). Pub. L. 100–50, §10(<i>o</i>)(2)(A), struck out “, but such a parent borrower shall not be eligible for any deferment pursuant to section 1077(a)(2)(C) or 1078(b)(1)(M) of this title except for the deferments allowed (with respect to the student) under clauses (i), (viii), and (ix) of such sections” after “borrower under this section”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–50, §10(<i>o</i>)(2)(A), struck out “, but such a parent borrower shall not be eligible for any deferment pursuant to section 1077(a)(2)(C) or 1078(b)(1)(M) of this title except for the deferments allowed (with respect to the student) under clauses (i), (viii), and (ix) of such sections” after “borrower under this section”.
 
 Subsec. (b)(3). Pub. L. 100–50, §10(p)(2), amended first sentence generally, substituting “for any academic year in excess of (A) the student's estimated cost of attendance, minus (B) other financial aid” for “which would cause the combined loans of the parent and the student for any academic year to exceed the student's estimated cost of attendance minus such student's estimated financial assistance”.
 

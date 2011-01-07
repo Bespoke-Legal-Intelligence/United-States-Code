@@ -64,11 +64,11 @@ A prior section 4 of act Feb. 20, 1946, was renumbered section 10 and is classif
 
 #### Amendments
 
-1998—Subsec. (f)(2)(B). Pub. L. 105–277 substituted “and prepare and submit to the President an annual report containing the recommendations” for “and include these in the annual Employment and Training Report of the President required under section 705(a) of the Comprehensive Employment and Training Act of 1973 (hereinafter in this chapter referred to as ‘CETA’)”.
+<b>1998</b>—Subsec. (f)(2)(B). Pub. L. 105–277 substituted “and prepare and submit to the President an annual report containing the recommendations” for “and include these in the annual Employment and Training Report of the President required under section 705(a) of the Comprehensive Employment and Training Act of 1973 (hereinafter in this chapter referred to as ‘CETA’)”.
 
-1994—Subsec. (g)(2). Pub. L. 103–446 substituted “this section” for “this subsection” and “section 4211(1) or (2) of title 38” for “section 2011(1) or (2)(A) of title 38”.
+<b>1994</b>—Subsec. (g)(2). Pub. L. 103–446 substituted “this section” for “this subsection” and “section 4211(1) or (2) of title 38” for “section 2011(1) or (2)(A) of title 38”.
 
-1979—Subsec. (b)(3). Pub. L. 96–10, §6(a), added par. (3).
+<b>1979</b>—Subsec. (b)(3). Pub. L. 96–10, §6(a), added par. (3).
 
 Subsec. (c)(3). Pub. L. 96–10, §6(b), added par. (3).
 

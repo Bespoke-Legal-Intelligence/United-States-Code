@@ -6,7 +6,7 @@ The Public Health Service in the Department of Health and Human Services shall b
 
 #### Amendments
 
-1993—Pub. L. 103–43 substituted “Health and Human Services” for “Health, Education, and Welfare” and “Assistant Secretary for Health” for “Surgeon General”.
+<b>1993</b>—Pub. L. 103–43 substituted “Health and Human Services” for “Health, Education, and Welfare” and “Assistant Secretary for Health” for “Surgeon General”.
 
 #### Transfer of Functions
 
@@ -46,7 +46,7 @@ The Secretary may from time to time make such provisions as he shall deem approp
 
 (4) The agency designated as the Office of the Surgeon General (42 U.S.C. 203(1)), together with the office held by the Deputy Surgeon General (42 U.S.C. 206(a)).
 
-(b) The Secretary shall make such provisions as he shall deem necessary respecting the winding up of any outstanding affairs of the agencies abolished by the provisions of this section.
+(b) The Secretary shall make such provisions as he shall deem necessary respecting the winding up of anyoutstanding affairs of the agencies abolished by the provisions of this section.
 
 #### Sec. 4. Incidental Transfers
 
@@ -62,7 +62,7 @@ I transmit herewith Reorganization Plan No. 3 of 1966, prepared in accordance wi
 
 #### I
 
-Today we face new challenges and unparalleled opportunities in the field of health. Building on theprogress of the past several years, we have truly begun to match the achievements of our medicine to the needs of our people.
+Today we face new challenges and unparalleled opportunities in the field of health. Building on the progress of the past several years, we have truly begun to match the achievements of our medicine to the needs of our people.
 
 The task ahead is immense. As a nation, we will unceasingly pursue our research and learning, our training and building, our testing and treatment. But now our concern must also turn to the organization of our Federal health programs.
 

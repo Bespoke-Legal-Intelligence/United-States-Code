@@ -1,6 +1,6 @@
 ### §1615. Burden of proof in forfeiture proceedings
 
-In all suits or actions (other than those arising under section 1592 of this title) brought for the forfeiture of any vessel, vehicle, aircraft, merchandise, or baggage seized under the provisions of any law relating to the collection of duties on imports or tonnage, where the property is claimed by any person, the burden of proof shall lie upon such claimant; and in all suits or actions brought for the recovery of the value of any vessel, vehicle, aircraft, merchandise, or baggage, because of violation of any such law, the burden of proof shall be upon the defendant: <i>Provided</i>, That probable cause shall be first shown for the institution of such suit or action, to be judged of by the court, subject to the following rules of proof:
+In all suits or actions (other than those arising under section 1592 of this title) brought for the forfeiture of any vessel, vehicle, aircraft, merchandise, or baggage seized under the provisions of any law relating to the collection of duties on imports or tonnage, where the property is claimed by any person, the burden of proofshall lie upon such claimant; and in all suits or actions brought for the recovery of the value of any vessel, vehicle, aircraft, merchandise, or baggage, because of violation of any such law, the burden of proof shall be upon the defendant: <i>Provided</i>, That probable cause shall be first shown for the institution of such suit or action, to be judged of by the court, subject to the following rules of proof:
 
 &emsp;(1) The testimony or deposition of the officer of the customs who has boarded or required to come to a stop or seized a vessel, vehicle, or aircraft, or has arrested a person, shall be prima facie evidence of the place where the act in question occurred.
 
@@ -12,15 +12,15 @@ In all suits or actions (other than those arising under section 1592 of this tit
 
 #### Prior Provisions
 
-Provisions somewhat similar to those in this section were contained in act Oct. 3, 1913, ch. 16, §III, T, 38Stat. 189, the provisions of which were originally enacted in the Customs Administrative Act of June 10, 1890, ch. 407, §21, 26 Stat. 140, and reenacted by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 101, and amended by the 1913 act. Section III of the 1913 act was superseded by act Sept. 21, 1922, ch. 356, title IV, §615, 42 Stat. 987, and was repealed by section 643 thereof. Section 615 of the 1922 act was superseded by section 615 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions somewhat similar to those in this section were contained in act Oct. 3, 1913, ch. 16, §III, T, 38 Stat. 189, the provisions of which were originally enacted in the Customs Administrative Act of June 10, 1890, ch. 407, §21, 26 Stat. 140, and reenacted by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 101, and amended by the 1913 act. Section III of the 1913 act was superseded by act Sept. 21, 1922, ch. 356, title IV, §615, 42 Stat. 987, and was repealed by section 643 thereof. Section 615 of the 1922 act was superseded by section 615 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 
-1984—Pub. L. 98–573 and Pub. L. 98–473 inserted reference to aircraft in provisions preceding par. (1) and in par. (1).
+<b>1984</b>—Pub. L. 98–573 and Pub. L. 98–473 inserted reference to aircraft in provisions preceding par. (1) and in par. (1).
 
-1978—Pub. L. 95–410 inserted “(other than those arising under section 1592 of this title)” after “In all suits or actions”.
+<b>1978</b>—Pub. L. 95–410 inserted “(other than those arising under section 1592 of this title)” after “In all suits or actions”.
 
-1935—Act Aug. 5, 1935, inserted a comma in place of a period at the end, inserted “subject to the following rules of proof”, and added subds. (1) to (3).
+<b>1935</b>—Act Aug. 5, 1935, inserted a comma in place of a period at the end, inserted “subject to the following rules of proof”, and added subds. (1) to (3).
 
 #### Effective Date of 1984 Amendment
 

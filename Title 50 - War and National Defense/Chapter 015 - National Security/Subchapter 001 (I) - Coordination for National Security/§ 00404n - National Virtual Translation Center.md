@@ -42,7 +42,7 @@ Section was enacted as part of the Intelligence Authorization Act for Fiscal Yea
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence, acting as the head of the intelligence community,”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence, acting as the head of the intelligence community,”.
 
 Subsec. (c). Pub. L. 108–487, §304(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 

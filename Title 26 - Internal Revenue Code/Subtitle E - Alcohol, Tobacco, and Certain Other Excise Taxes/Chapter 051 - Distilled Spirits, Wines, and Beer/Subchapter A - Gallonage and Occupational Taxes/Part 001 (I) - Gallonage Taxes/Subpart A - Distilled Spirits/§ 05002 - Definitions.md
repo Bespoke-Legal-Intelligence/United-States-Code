@@ -116,15 +116,15 @@ Provisions similar to those comprising subsec. (a)(6), (9), and (11) of this sec
 
 #### Amendments
 
-2005—Subsec. (b)(2). Pub. L. 109–59, §11125(b)(13)(A), substituted “section 5121(c)(3)” for “section 5112(a)”.
+<b>2005</b>—Subsec. (b)(2). Pub. L. 109–59, §11125(b)(13)(A), substituted “section 5121(c)(3)” for “section 5112(a)”.
 
 Subsec. (b)(3). Pub. L. 109–59, §11125(b)(13)(B), substituted “section 5121(c)” for “section 5112”.
 
 Subsec. (b)(4). Pub. L. 109–59, §11125(b)(13)(C), substituted “section 5122(c)” for “section 5122”.
 
-1994—Subsec. (b)(1) to (6). Pub. L. 103–465 redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which provided a cross reference to section 5041(c) of this title for definition of “wine gallon”.
+<b>1994</b>—Subsec. (b)(1) to (6). Pub. L. 103–465 redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which provided a cross reference to section 5041(c) of this title for definition of “wine gallon”.
 
-1979—Subsec. (a)(1). Pub. L. 96–39 substituted “distilled spirits operation” for “operation, or any combination of operations, for which qualification is required under such subchapter”.
+<b>1979</b>—Subsec. (a)(1). Pub. L. 96–39 substituted “distilled spirits operation” for “operation, or any combination of operations, for which qualification is required under such subchapter”.
 
 Subsec. (a)(2), (3). Pub. L. 96–39 added par. (2) and redesignated former par. (2) as (3). Former par. (3), defining “bottling premises”, was struck out.
 
@@ -140,9 +140,9 @@ Subsec. (a)(10) to (15). Pub. L. 96–39 redesignated former pars. (7) to (12) a
 
 Subsec. (b). Pub. L. 95–39 struck out par. (2) which provided for a cross reference to section 5082 for a definition of rectifier and redesignated pars. (3) to (7) as (2) to (6), respectively.
 
-1976—Subsec. (a)(10). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a)(10). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1965—Subsec. (a). Pub. L. 89–44 added par. (12).
+<b>1965</b>—Subsec. (a). Pub. L. 89–44 added par. (12).
 
 #### Effective Date of 2005 Amendment
 

@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(C) agree to serve on active duty following completion or other termination of training for a period of two years for each year or part thereof of his legal training under subsection (a).
 
-(c) Officers detailed for legal training under subsection (a) shall be selected on a competitive basis by the Secretary of the military department concerned, under regulations prescribed by the Secretary of Defense. Any service obligation incurred by an officer under an agreement entered into under subsection (b) shall be in addition to any service obligation incurred by any such officer under any other provision of law or agreement.
+(c) Officers detailed for legal training under subsection (a) shall be selected on a competitive basis by the Secretary of the military department concerned, under regulations prescribed by the Secretary of Defense. Any service obligationincurred by an officer under an agreement entered into under subsection (b) shall be in addition to any service obligation incurred by any such officer under any other provision of law or agreement.
 
 (d) Expenses incident to the detail of officers under this section shall be paid from any funds appropriated for the military department concerned.
 
@@ -26,7 +26,7 @@
 
 #### Amendments
 
-1990—Pub. L. 101–510 struck out “of the military departments” after “officers” in section catchline.
+<b>1990</b>—Pub. L. 101–510 struck out “of the military departments” after “officers” in section catchline.
 
 #### Selection of Officers in Missing Status for Legal Training on a Noncompetitive Basis; Exemption From Numerical Limitations
 

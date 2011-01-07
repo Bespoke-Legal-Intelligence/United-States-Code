@@ -12,9 +12,9 @@ In the case of a domestic corporation, the amount provided by section 936 (relat
 
 #### Amendments
 
-1984—Pub. L. 98–369, §471(c), renumbered section 33 of this title as this section.
+<b>1984</b>—Pub. L. 98–369, §471(c), renumbered section 33 of this title as this section.
 
-1976—Pub. L. 94–455 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1976</b>—Pub. L. 94–455 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1976 Amendment
 
@@ -22,5 +22,5 @@ Section 1051(i) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 2
 
 “(1) Except as provided by paragraph (2), the amendments made by this section \[enacting section 936 of this title and amending sections 33 \[now 27\], 48, 116, 243, 246, 861, 901, 904, 931, 1504, and 6091 of this title\] shall apply to taxable years beginning after December 31, 1975, except that ‘qualified possession source investment income’ as defined in section 936(d)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall include income from any source outside the United States if the taxpayer establishes to the satisfaction of the Secretary of the Treasury or his delegate that the income from such sources was earned before October 1, 1976.
 
-“(2) The amendment made by subsection (d)(2) \[amending section 901 of this title\] shall not apply to any tax imposed by a possession of the United Stateswith respect to the complete liquidation occurring before January 1, 1979, of a corporation to the extent that such tax is attributable to earnings and profits accumulated by such corporation during periods ending before January 1, 1976.”
+“(2) The amendment made by subsection (d)(2) \[amending section 901 of this title\] shall not apply to any tax imposed by a possession of the United States with respect to the complete liquidation occurring before January 1, 1979, of a corporation to the extent that such tax is attributable to earnings and profits accumulated by such corporation during periods ending before January 1, 1976.”
 

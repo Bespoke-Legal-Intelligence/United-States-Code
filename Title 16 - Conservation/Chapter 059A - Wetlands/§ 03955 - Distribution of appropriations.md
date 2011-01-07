@@ -38,11 +38,11 @@ Of the total amount appropriated during a given fiscal year to carry out this ch
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–447, §114(a)(1), struck out “, not to exceed $70,000,000,” before “shall be available” in introductory provisions.
+<b>2004</b>—Subsec. (a). Pub. L. 108–447, §114(a)(1), struck out “, not to exceed $70,000,000,” before “shall be available” in introductory provisions.
 
 Subsec. (b). Pub. L. 108–447, §114(a)(2), struck out “, not to exceed $15,000,000” before “shall be available” in introductory provisions.
 
 Subsec. (c). Pub. L. 108–447, §114(a)(3), struck out “, not to exceed $15,000,000,” before “shall be available”.
 
-1994—Subsec. (c). Pub. L. 103–375 inserted “in coastal wetlands ecosystems” after “wetlands conservation projects”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–375 inserted “in coastal wetlands ecosystems” after “wetlands conservation projects”.
 

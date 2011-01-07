@@ -2,7 +2,7 @@
 
 #### (a) Treatment of expatriates
 
-A tax computed in accordance with the table contained in section 2001 is hereby imposed onthe transfer of the taxable estate, determined as provided in section 2106, of every decedent nonresident not a citizen of the United States if the date of death occurs during a taxable year with respect to which the decedent is subject to tax under section 877(b).
+A tax computed in accordance with the table contained in section 2001 is hereby imposed on the transfer of the taxable estate, determined as provided in section 2106, of every decedent nonresident not a citizen of the United States if the date of death occurs during a taxable year with respect to which the decedent is subject to tax under section 877(b).
 
 #### (b) Gross estate
 
@@ -16,7 +16,7 @@ For purposes of the tax imposed by subsection (a), the value of the gross estate
 
 &emsp;&emsp;(B) the total value of the stock of such corporation,
 
-> then that proportion of the fair market value of the stock of such foreign corporation owned (within the meaning of section 958(a)) by such decedent at the time of his death, which the fair market value of any assets owned by such foreign corporation and situated in the United States, at the time of his death, bears to the total fair market value of all assets owned by such foreign corporation at the time of his death, shall be included in the gross estate of such decedent. For purposes of the preceding sentence, a decedent shall be treated as owning stock of a foreign corporation at the time of his death if, at the time of a transfer, by trust or otherwise, within the meaning of sections 2035 to 2038, inclusive, he owned such stock.
+> then that proportion of the fair market value of the stock of such foreign corporation owned (within the meaning of section 958(a)) by such decedent at the time of his death, which the fair market value of any assets owned by such foreign corporation and situated in the United States, at the time of his death, bears to the total fair market value of all assets owned by such foreign corporation at the time of hisdeath, shall be included in the gross estate of such decedent. For purposes of the preceding sentence, a decedent shall be treated as owning stock of a foreign corporation at the time of his death if, at the time of a transfer, by trust or otherwise, within the meaning of sections 2035 to 2038, inclusive, he owned such stock.
 
 #### (c) Credits
 
@@ -72,17 +72,17 @@ If the Secretary establishes that it is reasonable to believe that an individual
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–357 reenacted heading without change and amended text of subsec. (a) generally, substituting provisions relating to imposition of tax on the transfer of the taxable estate of every decedent nonresident not a citizen of the United States if the date of death occurs during a taxable year with respect to which the decedent is subject to tax under section 877(b), for provisions relating to imposition of tax on the transfer of the taxable estate of every decedent nonresident not a citizen of the United States if, within the 10-year period ending with the date of death, such decedent lost United States citizenship, unless such loss did not have for one of its principal purposes the avoidance of taxes, and provisions describing individuals to be treated as having a principal purpose to avoid taxes.
+<b>2004</b>—Subsec. (a). Pub. L. 108–357 reenacted heading without change and amended text of subsec. (a) generally, substituting provisions relating to imposition of tax on the transfer of the taxable estate of every decedent nonresident not a citizen of the United States if the date of death occurs during a taxable year with respect to which the decedent is subject to tax under section 877(b), for provisions relating to imposition of tax on the transfer of the taxable estate of every decedent nonresident not a citizen of the United States if, within the 10-year period ending with the date of death, such decedent lost United States citizenship, unless such loss did not have for one of its principal purposes the avoidance of taxes, and provisions describing individuals to be treated as having a principal purpose to avoid taxes.
 
-2001—Subsec. (c)(3). Pub. L. 107–16, §§532(c)(7)(C), 901, temporarily substituted “2012 and 2013” for “2011 to 2013, inclusive,”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (c)(3). Pub. L. 107–16, §§532(c)(7)(C), 901, temporarily substituted “2012 and 2013” for “2011 to 2013, inclusive,”. See Effective and Termination Dates of 2001 Amendment note below.
 
-1997—Subsec. (c)(2)(B)(i). Pub. L. 105–34, §1602(g)(6)(A), substituted “such foreign country as the value of the property subjected to such taxes by such foreign country and” for “such foreign country in respect of property included in the gross estate as the value of the property”.
+<b>1997</b>—Subsec. (c)(2)(B)(i). Pub. L. 105–34, §1602(g)(6)(A), substituted “such foreign country as the value of the property subjected to such taxes by such foreign country and” for “such foreign country in respect of property included in the gross estate as the value of the property”.
 
 Subsec. (c)(2)(C). Pub. L. 105–34, §1602(g)(6)(B), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “For purposes of subparagraph (B), a property's proportionate share is the percentage of the value of the property which is included in the gross estate solely by reason of subsection (b) bears to the total value of the gross estate.”
 
-1996—Subsec. (a). Pub. L. 104–191, §511(e)(1)(A), substituted “Treatment of expatriates” for “Rate of tax” in heading and amended text generally. Prior to amendment, text read as follows: “A tax computed in accordance with the table contained in section 2001 is hereby imposed on the transfer of the taxable estate, determined as provided in section 2106, of every decedent nonresident not a citizen of the United States dying after November 13, 1966, if after March 8, 1965, and within the 10-year period ending with the date of death such decedent lost United States citizenship, unless such loss did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–191, §511(e)(1)(A), substituted “Treatment of expatriates” for “Rate of tax” in heading and amended text generally. Prior to amendment, text read as follows: “A tax computed in accordance with the table contained in section 2001 is hereby imposed on the transfer of the taxable estate, determined as provided in section 2106, of every decedent nonresident not a citizen of the United States dying after November 13, 1966, if after March 8, 1965, and within the 10-year period ending with the date of death such decedent lost United States citizenship, unless such loss did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A.”
 
-Subsec. (b)(2). Pub. L. 104–191, §511(e)(1)(C), substituted “more than 50 percent of—” for “more than 50 percent of the total combined voting power of all classes of stock entitled to vote of such foreign corporation,” and added subpars. (A) and (B).
+Subsec. (b)(2). Pub. L. 104–191, §511(e)(1)(C), substituted “more than 50 percent of—” for “more than 50percent of the total combined voting power of all classes of stock entitled to vote of such foreign corporation,” and added subpars. (A) and (B).
 
 Subsec. (c)(2), (3). Pub. L. 104–191, §511(e)(1)(B), added par. (2) and redesignated former par. (2) as (3).
 
@@ -94,7 +94,7 @@ Exception for Loss of Citizenship for Certain Causes.—Subsection (a) shall not
 
 Subsec. (e). Pub. L. 104–191, §511(f)(2)(A), added subsec. (e). Former subsec. (e) redesignated (d).
 
-1976—Subsec. (a). Pub. L. 94–455, §1902(a)(6), substituted “November 13, 1966” for “the date of enactment of this section” after “dying after”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1902(a)(6), substituted “November 13, 1966” for “the date of enactment of this section” after “dying after”.
 
 Subsec. (c). Pub. L. 94–455, §2001(c)(1)(E)(ii), substituted provisions relating to unified credit for “The tax imposed by subsection (a) shall be credited with the amounts determined in accordance with section 2102.”
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 108–357 applicable to individuals who expatriate after Ju
 
 Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 

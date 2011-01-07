@@ -96,5 +96,5 @@ Another prior section 740, Pub. L. 93–112, title I, §120, Sept. 26, 1973, 87 
 
 #### Amendments
 
-1998—Pub. L. 105–277 made technical amendment to section designation and catchline in original.
+<b>1998</b>—Pub. L. 105–277 made technical amendment to section designation and catchline in original.
 

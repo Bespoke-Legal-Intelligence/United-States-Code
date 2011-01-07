@@ -44,9 +44,9 @@
 
 #### Amendments
 
-2008—Subsec. (d)(2). Pub. L. 110–387 substituted “through 2012” for “through 2008”.
+<b>2008</b>—Subsec. (d)(2). Pub. L. 110–387 substituted “through 2012” for “through 2008”.
 
-2003—Subsec. (d)(2). Pub. L. 108–170 substituted “June 1 of each year through 2008” for “February 1, 1998, and February 1 of each of the six following years”.
+<b>2003</b>—Subsec. (d)(2). Pub. L. 108–170 substituted “June 1 of each year through 2008” for “February 1, 1998, and February 1 of each of the six following years”.
 
-2000—Subsec. (d)(2). Pub. L. 106–419, substituted “six following years” for “three following years”.
+<b>2000</b>—Subsec. (d)(2). Pub. L. 106–419, substituted “six following years” for “three following years”.
 

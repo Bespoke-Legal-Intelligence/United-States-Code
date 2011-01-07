@@ -18,31 +18,31 @@
 
 (b) The monthly rate of death compensation payable to a surviving spouse or dependent parent under subsection (a) of this section shall be increased by $79 if the payee is (1) a patient in a nursing home or (2) blind, or so nearly blind or significantly disabled as to need or require the regular aid and attendance of another person.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1122, §322; Pub. L. 91–96, §7, Oct. 27, 1969, 83 Stat. 146; Pub. L. 91–588, §3(a), Dec. 24, 1970, 84 Stat. 1583; Pub. L. 92–197, §9, Dec. 15, 1971, 85 Stat. 662; Pub. L. 93–295, title II, §204, May 31, 1974, 88 Stat. 183; Pub. L. 94–169, title II, §202, Dec. 23, 1975, 89 Stat. 1021; Pub. L. 94–432, title IV, §401, Sept. 30, 1976, 90 Stat. 1372; Pub. L. 94–433, title IV, §404(13)–(17), Sept. 30, 1976, 90 Stat. 1378, 1379; Pub. L. 95–204, title III, §301, Dec. 2, 1977, 91 Stat. 1459; renumbered §1122, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 109–233, title V, §502(3), June 15, 2006, 120 Stat. 415.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1122, §322; Pub. L. 91–96, §7, Oct. 27, 1969, 83 Stat. 146; Pub. L. 91–588, §3(a), Dec. 24, 1970, 84 Stat. 1583; Pub. L. 92–197, §9, Dec. 15, 1971, 85 Stat. 662; Pub. L. 93–295, title II, §204, May 31, 1974, 88 Stat. 183; Pub. L. 94–169, title II, §202, Dec. 23, 1975, 89 Stat. 1021; Pub. L. 94–432, title IV, §401, Sept. 30, 1976, 90 Stat. 1372; Pub. L. 94–433, title IV, §404(13)–(17), Sept. 30, 1976, 90 Stat. 1378, 1379; Pub. L. 95–204, title III, §301, Dec. 2, 1977, 91 Stat. 1459; renumbered §1122, Pub. L. 102–83, §5(a),Aug. 6, 1991, 105 Stat. 406; Pub. L. 109–233, title V, §502(3), June 15, 2006, 120 Stat. 415.)
 
 #### Amendments
 
-2006—Subsec. (b)(2). Pub. L. 109–233 substituted “blind, or so nearly blind or significantly disabled as to” for “helpless or blind, or so nearly helpless or blind as to”.
+<b>2006</b>—Subsec. (b)(2). Pub. L. 109–233 substituted “blind, or so nearly blind or significantly disabled as to” for “helpless or blind, or so nearly helpless or blind as to”.
 
-1991—Pub. L. 102–83 renumbered section 322 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 322 of this title as this section.
 
-1977—Subsec. (b). Pub. L. 95–204 substituted “$79” for “$74”.
+<b>1977</b>—Subsec. (b). Pub. L. 95–204 substituted “$79” for “$74”.
 
-1976—Subsec. (a). Pub. L. 94–433, §404(13)–(16), substituted “Surviving spouse” for “Widow” in pars. (1) and (2); “surviving spouse” for “widow” in pars. (3), (4), and (5); “parent” for “mother or father” in par. (6); and “Both dependent parents” for “Dependent mother and father” in par. (7).
+<b>1976</b>—Subsec. (a). Pub. L. 94–433, §404(13)–(16), substituted “Surviving spouse” for “Widow” in pars. (1) and (2); “surviving spouse” for “widow” in pars. (3), (4), and (5); “parent” for “mother or father” in par. (6); and “Both dependent parents” for “Dependent mother and father” in par. (7).
 
 Subsec. (b). Pub. L. 94–433, §404(17), substituted “surviving spouse” for “widow”.
 
 Pub. L. 94–432 substituted “$74” for “$69”.
 
-1975—Subsec. (b). Pub. L. 94–169 substituted, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, “$69” for “$64”.
+<b>1975</b>—Subsec. (b). Pub. L. 94–169 substituted, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, “$69” for “$64”.
 
-1974—Subsec. (b). Pub. L. 93–295 substituted “$64” for “$55”.
+<b>1974</b>—Subsec. (b). Pub. L. 93–295 substituted “$64” for “$55”.
 
-1971—Subsec. (b). Pub. L. 92–197 extended benefits to dependent parents under subsec. (a) of this section and increased the increase in benefits from $50 to $55.
+<b>1971</b>—Subsec. (b). Pub. L. 92–197 extended benefits to dependent parents under subsec. (a) of this section and increased the increase in benefits from $50 to $55.
 
-1970—Subsec. (b). Pub. L. 91–588 substituted “$55” for “$50”.
+<b>1970</b>—Subsec. (b). Pub. L. 91–588 substituted “$55” for “$50”.
 
-1969—Pub. L. 91–96 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1969</b>—Pub. L. 91–96 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1977 Amendment
 

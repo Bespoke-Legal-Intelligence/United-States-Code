@@ -14,7 +14,7 @@ The period during which an individual is entitled to benefits under the insuranc
 
 &emsp;(D) in the case of an individual who enrolls pursuant to such subsection (d) more than one month following the month in which he satisfies such paragraph, the first day of the third month following the month in which he so enrolls, or
 
-&emsp;(E) in the case of an individual who enrolls pursuant to subsection (e) of section 1395p ofthis title, the July 1 following the month in which he so enrolls; or
+&emsp;(E) in the case of an individual who enrolls pursuant to subsection (e) of section 1395p of this title, the July 1 following the month in which he so enrolls; or
 
 &emsp;(3)(A) in the case of an individual who is deemed to have enrolled on or before the last day of the third month of his initial enrollment period, the first day of the month in which he first meets the applicable requirements of section 1395<i>o</i> of this title or July 1, 1973, whichever is later, or
 
@@ -46,7 +46,7 @@ Notwithstanding subsection (a) of this section, in the case of an individual who
 
 &emsp;(1) in any month of the special enrollment period in which the individual is at any time enrolled in a plan (specified in subparagraph (A) or (B), as applicable, of section 1395p(i)(3) of this title or specified in section 1395p(i)(4)(A)(i) of this title) or in the first month following such a month, the coverage period shall begin on the first day of the month in which the individual so enrolls (or, at the option of the individual, on the first day of any of the following three months), or
 
-&emsp;(2) in any other month of the special enrollment period, the coverage period shall begin on the first day of the month following the month in which the individual so enrolls.
+&emsp;(2) in any other month of the special enrollment period, the coverage period shall beginon the first day of the month following the month in which the individual so enrolls.
 
 #### (f) Commencement of coverage for certain volunteers serving outside United States
 
@@ -60,19 +60,19 @@ Part A of this subchapter, referred to in subsec. (c), is classified to section 
 
 #### Amendments
 
-2006—Subsec. (f). Pub. L. 109–171 added subsec. (f).
+<b>2006</b>—Subsec. (f). Pub. L. 109–171 added subsec. (f).
 
-2003—Subsec. (a)(1). Pub. L. 108–173 inserted comma after “1966”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–173 inserted comma after “1966”.
 
-1997—Subsec. (e). Pub. L. 105–33 inserted “or 1395p(i)(4)(B)” after “1395p(i)(3)” in introductory provisions and “or specified in section 1395p(i)(4)(A)(i) of this title” after “1395p(i)(3) of this title” in par. (1).
+<b>1997</b>—Subsec. (e). Pub. L. 105–33 inserted “or 1395p(i)(4)(B)” after “1395p(i)(3)” in introductory provisions and “or specified in section 1395p(i)(4)(A)(i) of this title” after “1395p(i)(3) of this title” in par. (1).
 
-1994—Subsec. (e). Pub. L. 103–432 amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
+<b>1994</b>—Subsec. (e). Pub. L. 103–432 amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
 
 “(1) in the first month of the special enrollment period, the coverage period shall begin on the first day of that month, or
 
-“(2) in a month after the first month of the special enrollment period, the coverage period shall begin onthe first day of the month following the month in which the individual so enrolls.”
+“(2) in a month after the first month of the special enrollment period, the coverage period shall begin on the first day of the month following the month in which the individual so enrolls.”
 
-1986—Subsec. (b). Pub. L. 99–509 substituted “month following the month” for “calendar quarter following the calendar quarter” in second and sixth sentences.
+<b>1986</b>—Subsec. (b). Pub. L. 99–509 substituted “month following the month” for “calendar quarter following the calendar quarter” in second and sixth sentences.
 
 Subsec. (e). Pub. L. 99–272 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Notwithstanding subsection (a) of this section, in the case of an individual who enrolls during a special enrollment period pursuant to—
 
@@ -88,17 +88,17 @@ Subsec. (e). Pub. L. 99–272 amended subsec. (e) generally. Prior to amendment,
 
 &emsp;&emsp;“(B) in a month after the first month of the special enrollment period, the coverage period shall begin on the first day of the month following the month in which he so enrolls.”
 
-1984—Subsec. (e). Pub. L. 98–369, §2338(c), added subsec. (e).
+<b>1984</b>—Subsec. (e). Pub. L. 98–369, §2338(c), added subsec. (e).
 
-1981—Subsec. (a)(2)(E). Pub. L. 97–35, §2151(a)(3), substituted “the July 1 following” for “the first day of the third month following”.
+<b>1981</b>—Subsec. (a)(2)(E). Pub. L. 97–35, §2151(a)(3), substituted “the July 1 following” for “the first day of the third month following”.
 
 Subsec. (b). Pub. L. 97–35, §2106(b)(2), struck out provision that notice filed by an individual enrolled pursuant to section 1395p(f) of this title shall not be considered a disenrollment for purposes of section 1395p(b) of this title.
 
-1980—Subsec. (a)(2)(E). Pub. L. 96–499, §945(c)(1), substituted “the first day of the third month” for “the July 1”.
+<b>1980</b>—Subsec. (a)(2)(E). Pub. L. 96–499, §945(c)(1), substituted “the first day of the third month” for “the July 1”.
 
 Subsec. (b). Pub. L. 96–499, §947(b), inserted “(except as otherwise provided in section 1395v(e) of this title)”.
 
-1972—Subsec. (a)(1). Pub. L. 92–603, §201(c)(3)(A), inserted “or (in the case of a disabled individual who has not attained age 65) July 1, 1973” after “July 1, 1966”.
+<b>1972</b>—Subsec. (a)(1). Pub. L. 92–603, §201(c)(3)(A), inserted “or (in the case of a disabled individual who has not attained age 65) July 1, 1973” after “July 1, 1966”.
 
 Subsec. (a)(2). Pub. L. 92–603, §201(c)(3)(B), substituted in subpar. (A) “paragraph (1) or (2)” for “paragraphs (1) and (2)” and in subpars. (B) to (D) “paragraph” for “paragraphs”.
 
@@ -108,7 +108,7 @@ Subsec. (b). Pub. L. 92–603, §§206(c), 257(a), inserted provisions relating 
 
 Subsecs. (c), (d). Pub. L. 92–603, §202(c)(3)(C), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1968—Subsec. (b). Pub. L. 90–248 struck out “, during a general enrollment period described in section 1395p(e) of this title,” after “notice” in par. (1), and substituted in first sentence following par. (2) “the calendar quarter following the calendar quarter” for “December 31 of the year”.
+<b>1968</b>—Subsec. (b). Pub. L. 90–248 struck out “, during a general enrollment period described in section 1395p(e) of this title,” after “notice” in par. (1), and substituted in first sentence following par. (2) “the calendar quarter following the calendar quarter” for “December 31 of the year”.
 
 #### Effective Date of 2006 Amendment
 
@@ -160,7 +160,7 @@ Pub. L. 90–97, §3(a), Sept. 30, 1967, 81 Stat. 249, provided that: “In the 
 
 &emsp;“(2) shall terminate at the close of March 31, 1968, if he filed his notice of termination after December 31, 1967, and before April 1, 1968.
 
-> An individual whose coverage period terminated pursuant to paragraph (1) at the close of December 31, 1967,may, notwithstanding section 1837(b)(2) of such Act \[section 1395p(b)(2) of this title\], enroll in such program before April 1, 1968, and for purposes of sections 1838(a)(2)(E) \[subsec. (a)(2)(E) of this section\] and 1837(b)(2) of such Act \[section 1395p(b)(2) of this title\] such enrollment shall be deemed an enrollment under section 1837(e) of such Act \[section 1395p(e) of this title\] and a second enrollment under such part.”
+> An individual whose coverage period terminated pursuant to paragraph (1) at the close of December 31, 1967, may, notwithstanding section 1837(b)(2) of such Act \[section 1395p(b)(2) of this title\], enroll in such program before April 1, 1968, and for purposes of sections 1838(a)(2)(E) \[subsec. (a)(2)(E) of this section\] and 1837(b)(2) of such Act \[section 1395p(b)(2) of this title\] such enrollment shall be deemed an enrollment under section 1837(e) of such Act \[section 1395p(e) of this title\] and a second enrollment under such part.”
 
 #### Extension of 1967 General Enrollment Period Through March 31, 1968
 

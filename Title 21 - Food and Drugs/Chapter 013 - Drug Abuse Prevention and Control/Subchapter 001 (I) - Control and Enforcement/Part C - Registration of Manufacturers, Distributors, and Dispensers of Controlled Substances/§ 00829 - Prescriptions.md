@@ -54,7 +54,7 @@ Schedules II, III, IV, and V, referred to in subsecs. (a) to (c), are set out in
 
 #### Amendments
 
-2008—Subsec. (e). Pub. L. 110–425 added subsec. (e).
+<b>2008</b>—Subsec. (e). Pub. L. 110–425 added subsec. (e).
 
 #### Effective Date of 2008 Amendment
 

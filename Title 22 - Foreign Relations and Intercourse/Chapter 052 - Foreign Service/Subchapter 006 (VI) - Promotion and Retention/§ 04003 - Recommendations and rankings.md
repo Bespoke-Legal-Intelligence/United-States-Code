@@ -12,7 +12,7 @@
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–458 inserted at end “The precepts for selection boards shall include, whether the member of the Service or the member of the Senior Foreign Service, as the case may be, has demonstrated—” and pars. (1) and (2).
+<b>2004</b>—Subsec. (b). Pub. L. 108–458 inserted at end “The precepts for selection boards shall include, whether the member of the Service or the member of the Senior Foreign Service, as the case may be, has demonstrated—” and pars. (1) and (2).
 
-2002—Subsec. (a). Pub. L. 107–132 substituted “George P. Shultz National Foreign Affairs Training Center” for “Foreign Service Institute”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–132 substituted “George P. Shultz National Foreign Affairs Training Center” for “Foreign Service Institute”.
 

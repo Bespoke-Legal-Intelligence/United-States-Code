@@ -24,5 +24,5 @@ The words “Secretary of Defense” are substituted for “Department of Defens
 
 #### Amendments
 
-2004—Pub. L. 108–375 inserted “, including access to General Services Administration supplies and services through the Federal Supply Schedule of the General Services Administration,” after “Department of Defense”.
+<b>2004</b>—Pub. L. 108–375 inserted “, including access to General Services Administration supplies and services through the Federal Supply Schedule of the General Services Administration,” after “Department of Defense”.
 

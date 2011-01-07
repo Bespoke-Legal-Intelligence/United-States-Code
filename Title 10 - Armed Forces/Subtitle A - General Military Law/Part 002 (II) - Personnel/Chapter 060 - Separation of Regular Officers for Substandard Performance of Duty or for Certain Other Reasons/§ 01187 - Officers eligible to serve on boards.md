@@ -30,9 +30,9 @@ Exclusion From Strength Limitation.—A retired general or flag officer who is o
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–417, §505(a)(1), (b), substituted “In General” for “Active Duty Officers” in heading, redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “Each member of the board shall be on the active-duty list.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–417, §505(a)(1), (b), substituted “In General” for “Active Duty Officers” in heading, redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “Each member of the board shall be on the active-duty list.”
 
 Subsec. (b). Pub. L. 110–417, §505(a)(2), struck out “on active duty” after “qualified officers” in introductory provisions.
 
-1999—Pub. L. 106–65 amended text generally. Prior to amendment, text consisted of subsecs. (a) and (b) relating to officers eligible to serve on boards.
+<b>1999</b>—Pub. L. 106–65 amended text generally. Prior to amendment, text consisted of subsecs. (a) and (b) relating to officers eligible to serve on boards.
 

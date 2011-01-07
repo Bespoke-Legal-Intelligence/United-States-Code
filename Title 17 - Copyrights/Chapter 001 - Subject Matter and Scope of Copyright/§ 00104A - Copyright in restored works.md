@@ -64,7 +64,7 @@ Existing derivative works.—(A) In the case of a derivative work that is based 
 
 > &emsp;a reliance party may continue to exploit that derivative work for the duration of the restored copyright if the reliance party pays to the owner of the restored copyright reasonable compensation for conduct which would be subject to a remedy for infringement but for the provisions of this paragraph.
 
-&emsp;(B) In the absence of an agreement between the parties, the amount of such compensation shall be determined by an action in United States district court, and shall reflect any harm to the actual or potential market for or value of the restored work from the relianceparty's continued exploitation of the work, as well as compensation for the relative contributions of expression of the author of the restored work and the reliance party to the derivative work.
+&emsp;(B) In the absence of an agreement between the parties, the amount of such compensation shall be determined by an action in United States district court, and shall reflect any harm to the actual or potential market for or value of the restored work from the reliance party's continued exploitation of the work, as well as compensation for the relative contributions of expression of the author of the restored work and the reliance party to the derivative work.
 
 &emsp;(4)
 
@@ -96,7 +96,7 @@ Notices of intent filed with the copyright office.—(A)(i) A notice of intent f
 
 Notices of intent served on a reliance party.—(A) Notices of intent to enforce a restored copyright may be served on a reliance party at any time after the date of restoration of the restored copyright.
 
-&emsp;(B) Notices of intent to enforce a restored copyright served on a reliance party shall be signed by the owner or the owner's agent, shall identify the restored work and the work in which the restored work is used, if any, in detail sufficient to identify them, and shall include an English translation of the title, any other alternative titles known to the owner by which the work may be identified, the use or uses to which the owner objects, and an address and telephone number at which the reliance party may contact the owner. If the notice is signed by an agent, the agency relationship must have been constituted in writing and signed by the owner before service of the notice.
+&emsp;(B) Notices of intent to enforce a restored copyright served on a reliance party shall be signed by the owner or the owner's agent,shall identify the restored work and the work in which the restored work is used, if any, in detail sufficient to identify them, and shall include an English translation of the title, any other alternative titles known to the owner by which the work may be identified, the use or uses to which the owner objects, and an address and telephone number at which the reliance party may contact the owner. If the notice is signed by an agent, the agency relationship must have been constituted in writing and signed by the owner before service of the notice.
 
 &emsp;(3)
 
@@ -122,7 +122,7 @@ Proclamation of Copyright Restoration.—Whenever the President finds that a par
 
 &emsp;(2) which was first published in that nation.
 
-> The President may revise, suspend, or revoke any such proclamation or impose any conditionsor limitations on protection under such a proclamation.
+> The President may revise, suspend, or revoke any such proclamation or impose any conditions or limitations on protection under such a proclamation.
 
 (h)
 
@@ -182,7 +182,7 @@ Definitions.—For purposes of this section and section 109(a):
 
 &emsp;&emsp;&emsp;(iii) lack of national eligibility;
 
-&emsp;&emsp;(D) has at least one author or rightholder who was, at the time the work was created, a national or domiciliary of an eligible country, and if published, was first published in an eligible country and not published in the United States during the 30-day period following publication in such eligible country; and
+&emsp;&emsp;(D) has at least one author or rightholder who was, at the time the work was created, a national or domiciliary of an eligible country, and if published, was first published inan eligible country and not published in the United States during the 30-day period following publication in such eligible country; and
 
 &emsp;&emsp;(E) if the source country for the work is an eligible country solely by virtue of its adherence to the WIPO Performances and Phonograms Treaty, is a sound recording.
 
@@ -218,7 +218,7 @@ Section 101(d)(15) of the Uruguay Round Agreements Act, referred to in subsec. (
 
 #### Amendments
 
-1998—Subsec. (h)(1)(A) to (E). Pub. L. 105–304, §102(c)(1), added subpars. (A) to (E) and struck out former subpars. (A) and (B) which read as follows:
+<b>1998</b>—Subsec. (h)(1)(A) to (E). Pub. L. 105–304, §102(c)(1), added subpars. (A) to (E) and struck out former subpars. (A) and (B) which read as follows:
 
 “(A) a nation adhering to the Berne Convention or a WTO member country; or
 
@@ -240,7 +240,7 @@ Subsec. (h)(8)(B)(i). Pub. L. 105–304, §102(c)(4), inserted “of which” be
 
 Subsec. (h)(9). Pub. L. 105–304, §102(c)(5), struck out par. (9) which read as follows: “The terms ‘WTO Agreement’ and ‘WTO member country’ have the meanings given those terms in paragraphs (9) and (10), respectively, of section 2 of the Uruguay Round Agreements Act.”
 
-1997—Subsec. (d)(3)(A). Pub. L. 105–80, §2(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In the case of a derivative work that is based upon a restored work and is created—
+<b>1997</b>—Subsec. (d)(3)(A). Pub. L. 105–80, §2(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In the case of a derivative work that is based upon a restored work and is created—
 
 &emsp;“(i) before the date of the enactment of the Uruguay Round Agreements Act, if the source country of the derivative work is an eligible country on such date, or
 
@@ -260,9 +260,9 @@ Subsec. (h)(2), (3). Pub. L. 105–80, §2(3), (4), amended pars. (2) and (3) ge
 
 “(3) The term ‘eligible country’ means a nation, other than the United States, that is a WTO member country, adheres to the Berne Convention, or is subject to a proclamation under subsection (g).”
 
-1996—Subsec. (h)(3). Pub. L. 104–295 substituted “subsection (g)” for “section 104A(g)”.
+<b>1996</b>—Subsec. (h)(3). Pub. L. 104–295 substituted “subsection (g)” for “section 104A(g)”.
 
-1994—Pub. L. 103–465 substituted “Copyright in restored works” for “Copyright in certain motion pictures” as section catchline and amended text generally, substituting present provisions for provisions restoring copyright in certain motion pictures and providing for effective date of protection as well as use of previously owned copies.
+<b>1994</b>—Pub. L. 103–465 substituted “Copyright in restored works” for “Copyright in certain motion pictures” as section catchline and amended text generally, substituting present provisions for provisions restoring copyright in certain motion pictures and providing for effective date of protection as well as use of previously owned copies.
 
 #### Effective Date of 1998 Amendment
 
@@ -270,7 +270,7 @@ Subsec. (h)(1)(A), (B), (E), (3)(A), (B), (E) of this section and amendment by s
 
 #### Effective Date
 
-Section effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 335(a) of Pub. L. 103–182, set out in an Effective Date of 1993 Amendment note under section 1052 of Title 15, Commerce and Trade.
+Section effective on the date the North American Free Trade Agreement enters into force with respect tothe United States \[Jan. 1, 1994\], see section 335(a) of Pub. L. 103–182, set out in an Effective Date of 1993 Amendment note under section 1052 of Title 15, Commerce and Trade.
 
 #### Uruguay Round Agreements: Entry Into Force
 

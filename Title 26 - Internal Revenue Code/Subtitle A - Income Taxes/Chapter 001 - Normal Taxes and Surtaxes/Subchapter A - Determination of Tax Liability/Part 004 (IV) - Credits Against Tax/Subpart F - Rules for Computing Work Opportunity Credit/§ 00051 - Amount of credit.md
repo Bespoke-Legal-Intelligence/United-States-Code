@@ -54,7 +54,11 @@ For purposes of this subpart—
 
 &emsp;&emsp;(A) after December 31, 1994, and before October 1, 1996, or
 
-&emsp;&emsp;(B) after August 31, 2011.
+&emsp;&emsp;(B) after December 31, 2011.
+
+#### (5) Coordination with payroll tax forgiveness
+
+&emsp;The term “wages” shall not include any amount paid or incurred to a qualified individual (as defined in section 3111(d)(3)) during the 1-year period beginning on the hiring date of such individual by a qualified employer (as defined in section 3111(d)) unless such qualified employer makes an election not to have section 3111(d) apply.
 
 #### (d) Members of targeted groups
 
@@ -86,7 +90,7 @@ For purposes of this subpart—
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified IV–A recipient” means any individual who is certified by the designated local agency as being a member of a family receiving assistance under a IV–A program for any 9 months during the 18-month period ending on the hiring date.
+&emsp;&emsp;The term “qualified IV–A recipient” means any individual who is certified by thedesignated local agency as being a member of a family receiving assistance under a IV–A program for any 9 months during the 18-month period ending on the hiring date.
 
 #### (B) IV–A program
 
@@ -248,7 +252,7 @@ For purposes of this subpart—
 
 &emsp;&emsp;&emsp;(ii)(I) on or before the day the individual is offered employment with the employer, a pre-screening notice is completed by the employer with respect to such individual, and
 
-&emsp;&emsp;&emsp;(II) not later than the 28th day after the individual begins work for the employer,the employer submits such notice, signed by the employer and the individual under penalties of perjury, to the designated local agency as part of a written request for such a certification from such agency.
+&emsp;&emsp;&emsp;(II) not later than the 28th day after the individual begins work for the employer, the employer submits such notice, signed by the employer and the individual under penalties of perjury, to the designated local agency as part of a written request for such a certification from such agency.
 
 > &emsp;&emsp;For purposes of this paragraph, the term “pre-screening notice” means a document (in such form as the Secretary shall prescribe) which contains information provided by the individual on the basis of which the employer believes that the individual is a member of a targeted group.
 
@@ -344,7 +348,7 @@ For purposes of this subpart—
 
 #### (A) Agricultural labor
 
-&emsp;&emsp;If the services performed by any employee for an employer during more than one-half of any pay period (within the meaning of section 3306(d)) taken into account with respect to any year constitute agricultural labor (within the meaning of section 3306(k)), the term “unemployment insurance wages” means, with respect to the remuneration paid by the employer to such employee for such year, an amount equal to so much of such remuneration as constitutes “wages” within the meaning of section 3121(a), except that the contribution and benefit base for each calendar year shall be deemed to be $6,000.
+&emsp;&emsp;If the services performed by any employee for an employer during more than one-half of any pay period (within the meaning of section 3306(d)) taken into account with respect to any year constitute agricultural labor (within the meaning of section 3306(k)), the term “unemployment insurance wages” means, with respect to the remuneration paid by the employer to such employee for such year, an amount equal to so much of such remuneration as constitutes “wages” within the meaning of section 3121(a), except that the contribution andbenefit base for each calendar year shall be deemed to be $6,000.
 
 #### (B) Railway labor
 
@@ -404,7 +408,7 @@ For purposes of this subpart—
 
 &emsp;No credit shall be determined under this section with respect to remuneration paid by an employer to an employee for services performed by such employee for another person unless the amount reasonably expected to be received by the employer for such services from such other person exceeds the remuneration paid by the employer to such employee for such services.
 
-(Added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 141; amended Pub. L. 95–600, title III, §321(a), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 96–222, title I, §103(a)(6)(A), (E), (F), (G)(iii)–(ix),Apr. 1, 1980, 94 Stat. 209, 210; Pub. L. 97–34, title II, §261(a)–(b)(2)(A), (B)(ii)–(f)(1), Aug. 13, 1981, 95 Stat. 260–262; Pub. L. 97–248, title II, §233(a)–(d), (f), Sept. 3, 1982, 96 Stat. 501, 502; Pub. L. 97–448, title I, §102(<i>l</i>)(1), (3), (4), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title IV, §474(p)(1)–(3), title VII, §712(n), title X, §1041(a), (c)(1)–(4), div. B, title VI, §§2638(b), 2663(j)(5)(A), July 18, 1984, 98 Stat. 837, 955, 1042, 1043, 1144, 1171; Pub. L. 99–514, title XVII, §1701(a)–(c), title XVIII, §1878(f)(1), Oct. 22, 1986, 100 Stat. 2772, 2904; Pub. L. 100–203, title X, §10601(a), Dec. 22, 1987, 101 Stat. 1330–451; Pub. L. 100–485, title II, §202(c)(6), Oct. 13, 1988, 102 Stat. 2378; Pub. L. 100–647, title I, §1017(a), title IV, §4010(a), (c)(1), (d)(1), Nov. 10, 1988, 102 Stat. 3575, 3655; Pub. L. 101–239, title VII, §7103(a), (c)(1), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11405(a), Nov. 5, 1990, 104 Stat. 1388–473; Pub. L. 102–227, title I, §105(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §§13102(a), 13302(d), Aug. 10, 1993, 107 Stat. 420, 556; Pub. L. 104–188, title I, §1201(a)–(e)(1), (5), (f), Aug. 20, 1996, 110 Stat. 1768–1772; Pub. L. 104–193, title I, §110(<i>l</i>)(1), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–33, title V, §5514(a)(1), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–34, title VI, §603(a)–(d), Aug. 5, 1997, 111 Stat. 862; Pub. L. 105–277, div. J, title I, §1002(a), title IV, §4006(c)(1), Oct. 21, 1998, 112 Stat. 2681–888, 2681–912; Pub. L. 106–170, title V, §505(a), (b), Dec. 17, 1999, 113 Stat. 1921; Pub. L. 106–554, §1(a)(7) \[title I, §102(a)–(c), title III, §316(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–600, 2763A–644; Pub. L. 107–147, title VI, §604(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title II, §207(5), title III, §303(a)(1), Oct. 4, 2004, 118 Stat. 1177, 1179; Pub. L. 109–432, div. A, title I, §105(a)–(e)(3), Dec. 20, 2006, 120 Stat. 2936, 2937; Pub. L. 110–28, title VIII, §8211(a)–(d), May 25, 2007, 121 Stat. 191; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (D), (2)(O), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (D), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–5, div. B, title I, §1221(a), Feb. 17, 2009, 123 Stat. 337.)
+(Added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 141; amended Pub. L. 95–600, title III, §321(a), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 96–222, title I, §103(a)(6)(A), (E), (F), (G)(iii)–(ix), Apr. 1, 1980, 94 Stat. 209, 210; Pub. L. 97–34, title II, §261(a)–(b)(2)(A), (B)(ii)–(f)(1), Aug. 13, 1981, 95 Stat. 260–262; Pub. L. 97–248, title II, §233(a)–(d), (f), Sept. 3, 1982, 96 Stat. 501, 502; Pub. L. 97–448, title I, §102(<i>l</i>)(1), (3), (4), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title IV, §474(p)(1)–(3), title VII, §712(n), title X, §1041(a), (c)(1)–(4), div. B, title VI, §§2638(b), 2663(j)(5)(A), July 18, 1984, 98 Stat. 837, 955, 1042, 1043, 1144, 1171; Pub. L. 99–514, title XVII, §1701(a)–(c), title XVIII, §1878(f)(1), Oct. 22, 1986, 100 Stat. 2772, 2904; Pub. L. 100–203, title X, §10601(a), Dec. 22, 1987, 101 Stat. 1330–451; Pub. L. 100–485, title II, §202(c)(6), Oct. 13, 1988, 102 Stat. 2378; Pub. L. 100–647, titleI, §1017(a), title IV, §4010(a), (c)(1), (d)(1), Nov. 10, 1988, 102 Stat. 3575, 3655; Pub. L. 101–239, title VII, §7103(a), (c)(1), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11405(a), Nov. 5, 1990, 104 Stat. 1388–473; Pub. L. 102–227, title I, §105(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §§13102(a), 13302(d), Aug. 10, 1993, 107 Stat. 420, 556; Pub. L. 104–188, title I, §1201(a)–(e)(1), (5), (f), Aug. 20, 1996, 110 Stat. 1768–1772; Pub. L. 104–193, title I, §110(<i>l</i>)(1), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–33, title V, §5514(a)(1), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–34, title VI, §603(a)–(d), Aug. 5, 1997, 111 Stat. 862; Pub. L. 105–277, div. J, title I, §1002(a), title IV, §4006(c)(1), Oct. 21, 1998, 112 Stat. 2681–888, 2681–912; Pub. L. 106–170, title V, §505(a), (b), Dec. 17, 1999, 113 Stat. 1921; Pub. L. 106–554, §1(a)(7) \[title I, §102(a)–(c), title III, §316(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–600, 2763A–644; Pub. L. 107–147, title VI, §604(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title II, §207(5), title III, §303(a)(1), Oct. 4, 2004, 118 Stat. 1177, 1179; Pub. L. 109–432, div. A, title I, §105(a)–(e)(3), Dec. 20, 2006, 120 Stat. 2936, 2937; Pub. L. 110–28, title VIII, §8211(a)–(d), May 25, 2007, 121 Stat. 191; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (D), (2)(O), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (D), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–5, div. B, title I, §1221(a), Feb. 17, 2009, 123 Stat. 337; Pub. L. 111–147, title I, §101(b), Mar. 18, 2010, 124 Stat. 74; Pub. L. 111–312, title VII, §757(a), Dec. 17, 2010, 124 Stat. 3322.)
 
 #### References in Text
 
@@ -428,9 +432,13 @@ A prior section 51, added Pub. L. 90–364, title I, §102(a), June 28, 1968, 82
 
 #### Amendments
 
-2009—Subsec. (d)(14). Pub. L. 111–5 added par. (14).
+<b>2010</b>—Subsec. (c)(4)(B). Pub. L. 111–312 substituted “December 31, 2011” for “August 31, 2011”.
 
-2008—Subsec. (d)(1)(G). Pub. L. 110–246, §4002(b)(1)(D), (2)(O), substituted “supplemental nutrition assistance program benefits” for “food stamp”.
+Subsec. (c)(5). Pub. L. 111–147 added par. (5).
+
+<b>2009</b>—Subsec. (d)(14). Pub. L. 111–5 added par. (14).
+
+<b>2008</b>—Subsec. (d)(1)(G). Pub. L. 110–246, §4002(b)(1)(D), (2)(O), substituted “supplemental nutrition assistance program benefits” for “food stamp”.
 
 Subsec. (d)(3)(A)(i). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(O), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” and “supplemental nutrition assistance program” for “food stamp program”.
 
@@ -442,7 +450,7 @@ Subsec. (d)(8)(A)(ii)(II). Pub. L. 110–246, §4002(b)(1)(B), (2)(O), substitut
 
 Subsec. (d)(8)(B). Pub. L. 110–246, §4002(b)(1)(A), (2)(O), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-2007—Subsec. (b)(3). Pub. L. 110–28, §8211(d)(2), substituted “Limitation on” for “Only first $6,000 of” in heading and inserted “($12,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(ii))” before period at end.
+<b>2007</b>—Subsec. (b)(3). Pub. L. 110–28, §8211(d)(2), substituted “Limitation on” for “Only first $6,000 of” in heading and inserted “($12,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(ii))” before period at end.
 
 Subsec. (c)(4)(B). Pub. L. 110–28, §8211(a), substituted “August 31, 2011” for “December 31, 2007”.
 
@@ -468,7 +476,7 @@ Youth must continue to reside in zone or community.—In the case of a high-risk
 
 Subsec. (d)(6)(B)(iii). Pub. L. 110–28, §8211(c), added cl. (iii).
 
-2006—Subsec. (c)(4)(B). Pub. L. 109–432, §105(a), substituted “2007” for “2005”.
+<b>2006</b>—Subsec. (c)(4)(B). Pub. L. 109–432, §105(a), substituted “2007” for “2005”.
 
 Subsec. (d)(1)(I). Pub. L. 109–432, §105(e)(1), added subpar. (I).
 
@@ -488,15 +496,15 @@ Subsec. (d)(13). Pub. L. 109–432, §105(e)(2), redesignated par. (12) as (13).
 
 Subsec. (e). Pub. L. 109–432, §105(e)(3), added subsec. (e).
 
-2004—Subsec. (c)(4)(B). Pub. L. 108–311, §303(a)(1), substituted “2005” for “2003”.
+<b>2004</b>—Subsec. (c)(4)(B). Pub. L. 108–311, §303(a)(1), substituted “2005” for “2003”.
 
 Subsec. (i)(1)(A), (B). Pub. L. 108–311, §207(5)(A), substituted “subparagraphs (A) through (G) of section 152(d)(2)” for “paragraphs (1) through (8) of section 152(a)”.
 
 Subsec. (i)(1)(C). Pub. L. 108–311, §207(5)(B), substituted “152(d)(2)(H)” for “152(a)(9)”.
 
-2002—Subsec. (c)(4)(B). Pub. L. 107–147 substituted “2003” for “2001”.
+<b>2002</b>—Subsec. (c)(4)(B). Pub. L. 107–147 substituted “2003” for “2001”.
 
-2000—Subsec. (d)(2)(B). Pub. L. 106–554, §1(a)(7) \[title III, §316(a)\], substituted “program funded” for “plan approved” and struck out “(relating to assistance for needy families with minor children)” after “Social Security Act”.
+<b>2000</b>—Subsec. (d)(2)(B). Pub. L. 106–554, §1(a)(7) \[title III, §316(a)\], substituted “program funded” for “plan approved” and struck out “(relating to assistance for needy families with minor children)” after “Social Security Act”.
 
 Subsec. (d)(5)(A)(ii). Pub. L. 106–554, §1(a)(7) \[title I, §102(a)\], substituted “empowerment zone, enterprise community, or renewal community” for “empowerment zone or enterprise community”.
 
@@ -506,15 +514,15 @@ Subsec. (d)(7)(A)(iv). Pub. L. 106–554, §1(a)(7) \[title I, §102(b)\], subst
 
 Subsec. (d)(7)(C). Pub. L. 106–554, §1(a)(7) \[title I, §102(c)\], inserted “or community” after “zone” in heading.
 
-1999—Subsec. (c)(4)(B). Pub. L. 106–170, §505(a), substituted “December 31, 2001” for “June 30, 1999”.
+<b>1999</b>—Subsec. (c)(4)(B). Pub. L. 106–170, §505(a), substituted “December 31, 2001” for “June 30, 1999”.
 
 Subsec. (i)(2). Pub. L. 106–170, §505(b), struck out “during which he was not a member of a targeted group” before period at end.
 
-1998—Subsec. (c)(4)(B). Pub. L. 105–277, §1002(a), substituted “June 30, 1999” for “June 30, 1998”.
+<b>1998</b>—Subsec. (c)(4)(B). Pub. L. 105–277, §1002(a), substituted “June 30, 1999” for “June 30, 1998”.
 
 Subsec. (d)(6)(B)(i). Pub. L. 105–277, §4006(c)(1), substituted “plan for employment” for “rehabilitation plan”.
 
-1997—Subsec. (a). Pub. L. 105–34, §603(d)(1), substituted “40 percent” for “35 percent”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–34, §603(d)(1), substituted “40 percent” for “35 percent”.
 
 Subsec. (c)(4)(B). Pub. L. 105–34, §603(a), substituted “June 30, 1998” for “September 30, 1997”.
 
@@ -540,7 +548,7 @@ Subsec. (i)(3). Pub. L. 105–34, §603(d)(2), amended heading and text of par. 
 
 &emsp;“(B) has completed at least 400 hours (120 hours in the case of a qualified summer youth employee) of services performed for the employer.”
 
-1996—Subsec. (a). Pub. L. 104–188, §1201(a), (e)(1), substituted “work opportunity credit” for “targeted jobs credit” and “35 percent” for “40 percent”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–188, §1201(a), (e)(1), substituted “work opportunity credit” for “targeted jobs credit” and “35 percent” for “40 percent”.
 
 Subsec. (c)(1). Pub. L. 104–188, §1201(f), struck out “, subsection (d)(8)(D),” after “this subsection”.
 
@@ -564,19 +572,19 @@ Individuals not meeting minimum employment period.—No wages shall be taken int
 
 Subsec. (j). Pub. L. 104–188, §1201(e)(5), substituted “Work opportunity credit” for “Targeted jobs credit” in heading.
 
-1993—Subsec. (c)(4). Pub. L. 103–66, §13102(a), substituted “December 31, 1994” for “June 30, 1992”.
+<b>1993</b>—Subsec. (c)(4). Pub. L. 103–66, §13102(a), substituted “December 31, 1994” for “June 30, 1992”.
 
 Subsec. (i)(1)(A). Pub. L. 103–66, §13302(d), inserted “, or, if the taxpayer is an entity other than a corporation, to any individual who owns, directly or indirectly, more than 50 percent of the capital and profits interests in the entity,” after “of the corporation”.
 
-1991—Subsec. (c)(4). Pub. L. 102–227 substituted “June 30, 1992” for “December 31, 1991”.
+<b>1991</b>—Subsec. (c)(4). Pub. L. 102–227 substituted “June 30, 1992” for “December 31, 1991”.
 
-1990—Subsec. (c)(4). Pub. L. 101–508 substituted “December 31, 1991” for “September 30, 1990”.
+<b>1990</b>—Subsec. (c)(4). Pub. L. 101–508 substituted “December 31, 1991” for “September 30, 1990”.
 
-1989—Subsec. (c)(4). Pub. L. 101–239, §7103(a), substituted “September 30, 1990” for “December 31, 1989”.
+<b>1989</b>—Subsec. (c)(4). Pub. L. 101–239, §7103(a), substituted “September 30, 1990” for “December 31, 1989”.
 
 Subsec. (d)(16)(C). Pub. L. 101–239, §7103(c)(1), added subpar. (C).
 
-1988—Subsec. (c)(2)(B). Pub. L. 100–485 substituted “section 482(e)” for “section 414”.
+<b>1988</b>—Subsec. (c)(2)(B). Pub. L. 100–485 substituted “section 482(e)” for “section 414”.
 
 Subsec. (c)(4). Pub. L. 100–647, §4010(a), substituted “1989” for “1988”.
 
@@ -586,9 +594,9 @@ Subsec. (d)(12)(B). Pub. L. 100–647, §4010(d)(1), redesignated former cls. (i
 
 Pub. L. 100–647, §1017(a), substituted “subsection (a)” for “subsection (a)(1)” in cl. (i).
 
-1987—Subsec. (c)(3), (4). Pub. L. 100–203 added par. (3) and redesignated former par. (3) as (4).
+<b>1987</b>—Subsec. (c)(3), (4). Pub. L. 100–203 added par. (3) and redesignated former par. (3) as (4).
 
-1986—Subsec. (a). Pub. L. 99–514, §1701(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “For purposes of section 38, the amount of the targeted jobs credit determined under this section for the taxable year shall be the sum of—
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1701(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “For purposes of section 38, the amount of the targeted jobs credit determined under this section for the taxable year shall be the sum of—
 
 &emsp;“(1) 50 percent of the qualified first-year wages for such year, and
 
@@ -604,7 +612,7 @@ Subsec. (i)(3). Pub. L. 99–514, §1701(c), added par. (3).
 
 Subsec. (k). Pub. L. 99–514, §1878(f)(1), redesignated subsec. (j) added by section 1041(c)(1) of Pub. L. 98–369 and relating to treatment of successor employers, and employees performing services for other persons, as subsec. (k).
 
-1984—Subsec. (a). Pub. L. 98–369, §474(p)(1), substituted “For purposes of section 38, the amount of the targeted jobs credit determined under this section” for “The amount of the credit allowable by section 44B” in introductory provisions.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §474(p)(1), substituted “For purposes of section 38, the amount of the targeted jobs credit determined under this section” for “The amount of the credit allowable by section 44B” in introductory provisions.
 
 Subsec. (b)(2). Pub. L. 98–369, §1041(c)(4), struck out “(or, in the case of a vocational rehabilitation referral, the day the individual begins work for the employer on or after the beginning of such individual's rehabilitation plan)” after “begins work for the employer”.
 
@@ -626,13 +634,13 @@ Subsec. (j). Pub. L. 98–369, §1041(c)(1), added subsec. (j) relating to treat
 
 Pub. L. 98–369, §474(p)(3), added subsec. (j) relating to election to have targeted jobs credit not apply.
 
-1983—Subsec. (d)(8)(D). Pub. L. 97–448, §102(<i>l</i>)(1), substituted “clauses (i), (ii), and (iii) of subparagraph (A)” for “subparagraph (A)”.
+<b>1983</b>—Subsec. (d)(8)(D). Pub. L. 97–448, §102(<i>l</i>)(1), substituted “clauses (i), (ii), and (iii) of subparagraph (A)” for “subparagraph (A)”.
 
 Subsec. (d)(9)(B). Pub. L. 97–448, §102(<i>l</i>)(3), substituted “section 432(b)(1) or 445” for “section 432(b)(1)”.
 
 Subsec. (d)(11). Pub. L. 97–448, §102(<i>l</i>)(4), substituted “the earlier of the month in which such determination occurs or the month in which the hiring date occurs” for “the month in which such determination occurs”.
 
-1982—Subsec. (c)(3). Pub. L. 97–248, §233(a), substituted “1984” for “1982”.
+<b>1982</b>—Subsec. (c)(3). Pub. L. 97–248, §233(a), substituted “1984” for “1982”.
 
 Subsec. (d)(1)(J). Pub. L. 97–248, §233(b)(3), added subpar. (J).
 
@@ -646,7 +654,7 @@ Subsec. (d)(16). Pub. L. 97–248, §233(b)(4), redesignated former par. (15) as
 
 Pub. L. 97–248, §233(f), substituted “on or before” for “before” in subpar. (A).
 
-1981—Subsec. (c)(3), (4). Pub. L. 97–34, §261(b)(2)(B)(ii), redesignated par. (4) as (3). Former par. (3), which excluded from term “wages” any amount paid or incurred by the employer to an individual with respect to whom the employer claims credit under section 40 of this title, was struck out.
+<b>1981</b>—Subsec. (c)(3), (4). Pub. L. 97–34, §261(b)(2)(B)(ii), redesignated par. (4) as (3). Former par. (3), which excluded from term “wages” any amount paid or incurred by the employer to an individual with respect to whom the employer claims credit under section 40 of this title, was struck out.
 
 Pub. L. 97–34, §261(a), extended termination date to Dec. 31, 1982, from Dec. 31, 1981, and inserted “to an individual who begins work for the employer” after “paid or incurred”.
 
@@ -666,7 +674,7 @@ Subsec. (d)(11). Pub. L. 97–34, §261(b)(2)(A), (c)(2), redesignated former pa
 
 Subsec. (d)(12), (13). Pub. L. 97–34, §261(b)(2)(A), redesignated former pars. (10) and (11) as pars. (12) and (13), respectively. Former par. (12) redesignated (14).
 
-Subsec. (d)(14). Pub. L. 97–34, §261(f)(1)(A), substituted as definition for term “ ‘designated local agency’ means a State employment security agency established in accordance with the Act of June 6, 1933, as amended (29 U.S.C. 49–49n)” for “ ‘designated local agency’ means the agency for any locality designated jointly by the Secretary and the Secretary of Labor to perform certification of employees for employers in that locality”.
+Subsec. (d)(14). Pub. L. 97–34, §261(f)(1)(A), substituted as definition for term “ ‘designated local agency’ means a State employment security agency established in accordance with the Act of June 6, 1933, as amended (29 U.S.C. 49–49n)” for “ ‘designated local agency’ means the agency for any locality designated jointly by theSecretary and the Secretary of Labor to perform certification of employees for employers in that locality”.
 
 Pub. L. 97–34, §261(b)(2)(A), redesignated former par. (12) as (14).
 
@@ -680,7 +688,7 @@ Subsec. (g). Pub. L. 97–34, §261(f)(1)(B), substituted “United States Emplo
 
 Subsec. (i). Pub. L. 97–34, §261(d), added subsec. (i).
 
-1980—Subsec. (c)(1). Pub. L. 96–222, §103(a)(6)(E)(ii), substituted “, subsection (d)(8)(D), and subsection (h)(2)” for “subsection (h)(2)”.
+<b>1980</b>—Subsec. (c)(1). Pub. L. 96–222, §103(a)(6)(E)(ii), substituted “, subsection (d)(8)(D), and subsection (h)(2)” for “subsection (h)(2)”.
 
 Subsec. (c)(2). Pub. L. 96–222, §103(a)(6)(G)(iii), inserted “or incurred” after “amounts paid”.
 
@@ -702,7 +710,21 @@ Subsec. (d)(12). Pub. L. 96–222, §103(a)(6)(G)(viii), substituted “employer
 
 Subsec. (e). Pub. L. 96–222, §103(a)(6)(G)(ix), inserted “except as provided in subsection (h)(1)” after “the preceding sentence,”.
 
-1978—Pub. L. 95–600 amended section generally and limited allowance of credit to the hiring of seven target groups with high unemployment rates.
+<b>1978</b>—Pub. L. 95–600 amended section generally and limited allowance of credit to the hiring of seven target groups with high unemployment rates.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–312, title VII, §757(b), Dec. 17, 2010, 124 Stat. 3322, provided that: “The amendment made by this section \[amending this section\] shall apply to individuals who begin work for the employer after the date of the enactment of this Act \[Dec. 17, 2010\].”
+
+Pub. L. 111–147, title I, §101(e), Mar. 18, 2010, 124 Stat. 75, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this subsection \[probably should be “section”, amending this section and sections 3111 and 3221 of this title\] shall apply to wages paid after the date of the enactment of this Act \[Mar. 18, 2010\].
+
+“(2)
+
+Railroad retirement taxes.—The amendments made by subsection (d) \[amending section 3221 of this title\] shall apply to compensation paid after the date of the enactment of this Act.”
 
 #### Effective Date of 2009 Amendment
 
@@ -758,7 +780,7 @@ Pub. L. 105–277, div. J, title I, §1002(b), Oct. 21, 1998, 112 Stat. 2681–8
 
 Section 603(e) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply to individuals who begin work for the employer after September 30, 1997.”
 
-Section 5518(c) of Pub. L. 105–33 provided that: “The amendments made by section 5514(a) of this Act \[amending this section and sections 3304, 6103, 6334, 6402,and 7523 of this title\] shall take effect as if the amendments had been included in section 110 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\] at the time such section 110 became law.”
+Section 5518(c) of Pub. L. 105–33 provided that: “The amendments made by section 5514(a) of this Act \[amending this section and sections 3304, 6103, 6334, 6402, and 7523 of this title\] shall take effect as if the amendments had been included in section 110 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\] at the time such section 110 became law.”
 
 #### Effective Date of 1996 Amendments
 
@@ -928,7 +950,7 @@ Section 261(f)(2) of Pub. L. 97–34, as amended by Pub. L. 97–248, title II, 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Special Rules for Newly Targeted Groups
 

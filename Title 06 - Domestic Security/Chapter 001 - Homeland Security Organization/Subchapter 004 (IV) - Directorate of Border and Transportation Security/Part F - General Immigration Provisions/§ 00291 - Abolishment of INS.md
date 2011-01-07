@@ -10,6 +10,10 @@ The authority provided by section 542 of this title may be used to reorganize fu
 
 (Pub. L. 107–296, title IV, §471, Nov. 25, 2002, 116 Stat. 2205.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+
 #### Change of Name
 
 Bureau of Border Security, referred to in subsec. (b), changed to Bureau of Immigration and Customs Enforcement by Reorganization Plan Modification for the Department of Homeland Security, eff. Mar. 1, 2003, H. Doc. No. 108–32, 108th Congress, 1st Session, set out as a note under section 542 of this title.

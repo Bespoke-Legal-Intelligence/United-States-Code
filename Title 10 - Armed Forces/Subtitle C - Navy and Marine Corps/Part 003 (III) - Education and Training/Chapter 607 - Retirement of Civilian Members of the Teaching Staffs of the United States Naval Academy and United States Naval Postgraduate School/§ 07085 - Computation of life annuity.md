@@ -1,6 +1,6 @@
 ### §7085. Computation of life annuity
 
-Each civilian member who retires under section 7084 of this title is entitled to a life annuity computed by multiplying his average annual compensation during any five consecutive years of allowable service, at his option, by his number of years of service, not exceeding 35, and dividing the product by 70. The retirement annuity payable to a retired civilian member under a policy required by section 7082 of this title is counted as part of the retirement annuity provided in this section. Any difference between the amount received by the retired civilian member under his annuity policy and the total annual amount to which he is entitled under this section shall be paid to him by the Secretary of the Navy from appropriations made for this purpose.
+Each civilian member who retires under section 7084 of this title is entitled to a life annuity computed by multiplying his average annual compensation during any five consecutive yearsof allowable service, at his option, by his number of years of service, not exceeding 35, and dividing the product by 70. The retirement annuity payable to a retired civilian member under a policy required by section 7082 of this title is counted as part of the retirement annuity provided in this section. Any difference between the amount received by the retired civilian member under his annuity policy and the total annual amount to which he is entitled under this section shall be paid to him by the Secretary of the Navy from appropriations made for this purpose.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 439.)
 
@@ -38,7 +38,7 @@ Pub. L. 85–40, May 31, 1957, 71 Stat. 42, provided: “That the annuities, pay
 
 “
 
-Sec. 2. The increases provided by section 1, when added to the annuities of retired civilian members of the teaching staff of the United States Naval Academy or the United States Naval Postgraduate School, do not increase the annuities of their survivors. The annuityof any such survivor, however, who is entitled to or becomes entitled to an annuity under chapter 607 of title 10, United States Code \[this chapter\], shall be increased in accordance with the following schedule:
+Sec. 2. The increases provided by section 1, when added to the annuities of retired civilian members of the teaching staff of the United States Naval Academy or the United States Naval Postgraduate School, do not increase the annuities of their survivors. The annuity of any such survivor, however, who is entitled to or becomes entitled to an annuity under chapter 607 of title 10, United States Code \[this chapter\], shall be increased in accordance with the following schedule:
 
 &nbsp;
 

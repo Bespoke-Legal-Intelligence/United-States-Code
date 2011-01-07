@@ -14,5 +14,5 @@ Section is comprised of last part of section 3 of act Mar. 2, 1917, as added by 
 
 #### Amendments
 
-1937—Act Aug. 26, 1937, reenacted section without substantive change.
+<b>1937</b>—Act Aug. 26, 1937, reenacted section without substantive change.
 

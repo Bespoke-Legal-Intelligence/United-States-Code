@@ -14,7 +14,7 @@ Mississippi is divided into two judicial districts to be known as the northern a
 
 &emsp;&emsp;Court for the Western division shall be held at Oxford.
 
-&emsp;&emsp;(3) The Delta division comprises the counties of Bolivar, Coahoma, De Soto, Panola,Quitman, Tallahatchie, Tate, and Tunica.
+&emsp;&emsp;(3) The Delta division comprises the counties of Bolivar, Coahoma, De Soto, Panola, Quitman, Tallahatchie, Tate, and Tunica.
 
 &emsp;&emsp;Court for the Delta division shall be held at Clarksdale and Cleveland.
 
@@ -58,19 +58,19 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-2004—Subsec. (a)(3). Pub. L. 108–455 inserted “and Cleveland” after “Clarksdale”.
+<b>2004</b>—Subsec. (a)(3). Pub. L. 108–455 inserted “and Cleveland” after “Clarksdale”.
 
-1999—Subsec. (b)(3). Pub. L. 106–130, in second sentence, struck out “: <i>Provided</i>, That court shall be held at Natchez if suitable quarters and accommodations are furnished at no cost to the United States” before period at end.
+<b>1999</b>—Subsec. (b)(3). Pub. L. 106–130, in second sentence, struck out “: <i>Provided</i>, That court shall be held at Natchez if suitable quarters and accommodations are furnished at no cost to the United States” before period at end.
 
-1978—Subsec. (a)(1). Pub. L. 95–408 provided for holding court at Corinth.
+<b>1978</b>—Subsec. (a)(1). Pub. L. 95–408 provided for holding court at Corinth.
 
-1970—Subsec. (b)(3). Pub. L. 91–546, §3, provided for holding court at Natchez if suitable quarters and accommodations are furnished at no cost to the United States.
+<b>1970</b>—Subsec. (b)(3). Pub. L. 91–546, §3, provided for holding court at Natchez if suitable quarters and accommodations are furnished at no cost to the United States.
 
 Subsec. (b)(4). Pub. L. 91–546, §2, provided for holding court at Gulfport.
 
-1967—Subsec. (a)(1). Pub. L. 90–92 provided for holding court at Ackerman.
+<b>1967</b>—Subsec. (a)(1). Pub. L. 90–92 provided for holding court at Ackerman.
 
-1950—Act Aug. 7, 1950, created Greenville division in the northern district with terms of courts to be held at Greenville.
+<b>1950</b>—Act Aug. 7, 1950, created Greenville division in the northern district with terms of courts to be held at Greenville.
 
 #### Effective Date of 1978 Amendment; Savings Provision
 

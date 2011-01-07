@@ -24,7 +24,7 @@ There is hereby authorized to be appropriated such sums as are necessary to enab
 
 Free and reduced price policy statement.—After the initial submission, a local educational agency shall not be required to submit a free and reduced price policy statement to a State educational agency under this chapter unless there is a substantive change in the free and reduced price policy of the local educational agency. A routine change in the policy of a local educational agency, such as an annual adjustment of the income eligibility guidelines for free and reduced price meals, shall not be sufficient cause for requiring the local educational agency to submit a policy statement.
 
-(2)(A) The Secretary shall make additional payments for breakfasts served to childrenqualifying for a free or reduced price meal at schools that are in severe need.
+(2)(A) The Secretary shall make additional payments for breakfasts served to children qualifying for a free or reduced price meal at schools that are in severe need.
 
 (B) The maximum payment for each such free breakfast shall be the higher of—
 
@@ -66,7 +66,7 @@ Funds apportioned and paid to any State for the purpose of this section shall be
 
 (2) At the option of a local school food authority, a student in a school under the authority that participates in the school breakfast program under this chapter may be allowed to refuse not more than one item of a breakfast that the student does not intend to consume. A refusal of an offered food item shall not affect the full charge to the student for a breakfast meeting the requirements of this section or the amount of payments made under this chapter to a school for the breakfast.
 
-(Pub. L. 89–642, §4, Oct. 11, 1966, 80 Stat. 886; Pub. L. 90–302, §5, May 8, 1968, 82 Stat. 119; Pub. L. 91–248, §§6(d), 10, May 14, 1970, 84 Stat. 210, 214; Pub. L. 92–32, §§2–5, June 30, 1971, 85 Stat. 85; Pub. L. 92–433, §3, Sept. 26, 1972, 86 Stat. 724;Pub. L. 93–150, §4, Nov. 7, 1973, 87 Stat. 562; Pub. L. 94–105, §§2, 3, 15(b), 17(a), Oct. 7, 1975, 89 Stat. 511, 522, 525; Pub. L. 95–166, §12, Nov. 10, 1977, 91 Stat. 1337; Pub. L. 95–561, title XIV, §1408(b)(1), Nov. 1, 1978, 92 Stat. 2368; Pub. L. 95–627, §6(c), Nov. 10, 1978, 92 Stat. 3620; Pub. L. 97–35, title VIII, §§801(c), 817(d), 819(b), Aug. 13, 1981, 95 Stat. 522, 532, 533; Pub. L. 99–500, title III, §§330(a), 331, 372(b)(1), Oct. 18, 1986, 100 Stat. 1783–363, 1783–369, and Pub. L. 99–591, title III, §§330(a), 331, 372(b)(1), Oct. 30, 1986, 100 Stat. 3341–366, 3341–372; Pub. L. 99–661, div. D, title II, §§4210(a), 4211, title V, §4502(b)(1), Nov. 14, 1986, 100 Stat. 4074, 4080; Pub. L. 100–435, title II, §210, Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–147, title I, §121, title II, §212(a)(1), (2)(A), (b), title III, §322, Nov. 10, 1989, 103 Stat. 891, 912, 916; Pub. L. 103–448, title II, §201, Nov. 2, 1994, 108 Stat. 4734; Pub. L. 104–193, title VII, §§722–723(b)(1), Aug. 22, 1996, 110 Stat. 2301, 2302; Pub. L. 105–336, title I, §103(b)(2), title II, §201, Oct. 31, 1998, 112 Stat. 3146, 3158; Pub. L. 106–78, title VII, §752(b)(16), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 108–265, title I, §108(c), title II, §201, June 30, 2004, 118 Stat. 746, 768.)
+(Pub. L. 89–642, §4, Oct. 11, 1966, 80 Stat. 886; Pub. L. 90–302, §5, May 8, 1968, 82 Stat. 119; Pub. L. 91–248, §§6(d), 10, May 14, 1970, 84 Stat. 210, 214; Pub. L. 92–32, §§2–5, June 30, 1971, 85 Stat. 85; Pub. L. 92–433, §3, Sept. 26, 1972, 86 Stat. 724; Pub. L. 93–150, §4, Nov. 7, 1973, 87 Stat. 562; Pub. L. 94–105, §§2, 3, 15(b), 17(a), Oct. 7, 1975, 89 Stat. 511, 522, 525; Pub. L. 95–166, §12, Nov. 10, 1977, 91 Stat. 1337; Pub. L. 95–561, title XIV, §1408(b)(1), Nov. 1, 1978, 92 Stat. 2368; Pub. L. 95–627, §6(c), Nov. 10, 1978, 92 Stat. 3620; Pub. L. 97–35, title VIII, §§801(c), 817(d), 819(b), Aug. 13, 1981, 95 Stat. 522, 532, 533; Pub. L. 99–500, title III, §§330(a), 331, 372(b)(1), Oct. 18, 1986, 100 Stat. 1783–363, 1783–369, and Pub. L. 99–591, title III, §§330(a), 331, 372(b)(1), Oct. 30, 1986, 100 Stat. 3341–366, 3341–372; Pub. L. 99–661, div. D, title II, §§4210(a), 4211, title V, §4502(b)(1), Nov. 14, 1986, 100 Stat. 4074, 4080; Pub. L. 100–435, title II, §210, Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–147, title I, §121, title II, §212(a)(1), (2)(A), (b), title III, §322, Nov. 10, 1989, 103 Stat. 891, 912, 916; Pub. L. 103–448, title II, §201, Nov. 2, 1994, 108 Stat. 4734; Pub. L. 104–193, title VII, §§722–723(b)(1), Aug. 22, 1996, 110 Stat. 2301, 2302; Pub. L. 105–336, title I, §103(b)(2), title II, §201, Oct. 31, 1998, 112 Stat. 3146, 3158; Pub. L. 106–78, title VII, §752(b)(16), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 108–265, title I, §108(c), title II, §201, June 30, 2004, 118 Stat. 746, 768.)
 
 #### Codification
 
@@ -74,31 +74,31 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-2004—Subsec. (b)(1)(E). Pub. L. 108–265, §108(c), substituted “local educational agency” for “school food authority” wherever appearing.
+<b>2004</b>—Subsec. (b)(1)(E). Pub. L. 108–265, §108(c), substituted “local educational agency” for “school food authority” wherever appearing.
 
 Subsec. (d). Pub. L. 108–265, §201, added subsec. (d) and struck out former subsec. (d), which authorized severe need assistance to schools in which the service of breakfasts is required by State law and to schools in which 40 percent or more of lunches were served free or at a reduced price during the most recent second preceding school year, and entitled such schools to receive the lesser of 100 percent of the operating costs of the breakfast program or the meal reimbursement rate specified in subsec. (b)(2).
 
-1999—Subsecs. (b), (e)(1)(A). Pub. L. 106–78 made technical amendment to references in original act which appear in text as references to sections 1758, 1759a, and 1766 of this title.
+<b>1999</b>—Subsecs. (b), (e)(1)(A). Pub. L. 106–78 made technical amendment to references in original act which appear in text as references to sections 1758, 1759a, and 1766 of this title.
 
-1998—Subsec. (a). Pub. L. 105–336, §201, struck out “and to carry out the provisions of subsection (g) of this section” before period at end of first sentence.
+<b>1998</b>—Subsec. (a). Pub. L. 105–336, §201, struck out “and to carry out the provisions of subsection (g) of this section” before period at end of first sentence.
 
 Subsec. (b)(1)(B). Pub. L. 105–336, §103(b)(2)(A), struck out “adjusted to the nearest one-fourth cent,” after “payment for each free breakfast,” in second sentence.
 
 Subsec. (b)(2)(B)(ii). Pub. L. 105–336, §103(b)(2)(B), substituted “(as adjusted pursuant to section 1759a(a)(3)(B) of this title).” for “, which shall be adjusted on an annual basis each July 1 to the nearest one-fourth cent in accordance with changes in the series for food away from home of the Consumer Price Index published by the Bureau of Labor Statistics of the Department of Labor for the most recent twelve-month period for which such data are available, except that the initial such adjustment shall be made on January 1, 1978, and shall reflect the change in the series of food away from home during the period November 1, 1976, to October 31, 1977.”
 
-1996—Subsec. (b)(1)(E). Pub. L. 104–193, §722, added subpar. (E).
+<b>1996</b>—Subsec. (b)(1)(E). Pub. L. 104–193, §722, added subpar. (E).
 
 Subsec. (e)(1)(B). Pub. L. 104–193, §723(a), struck out at end “The Secretary shall provide through State educational agencies additional technical assistance to schools that are having difficulty maintaining compliance with the requirements.”
 
 Subsecs. (f), (g). Pub. L. 104–193, §723(b)(1), struck out subsec. (f) relating to expansion of program and subsec. (g) relating to startup and expansion costs.
 
-1994—Subsec. (e)(1). Pub. L. 103–448, §201(a), (b), designated existing provisions as subpar. (A), inserted “, except that the minimum nutritional requirements shall be measured by not less than the weekly average of the nutrient content of school breakfasts” before period at end, and added subpar. (B).
+<b>1994</b>—Subsec. (e)(1). Pub. L. 103–448, §201(a), (b), designated existing provisions as subpar. (A), inserted “, except that the minimum nutritional requirements shall be measured by not less than the weekly average of the nutrient content of school breakfasts” before period at end, and added subpar. (B).
 
 Subsec. (f)(1). Pub. L. 103–448, §201(c), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
 Subsec. (g). Pub. L. 103–448, §201(d), amended heading and text of subsec. (g) generally. Prior to amendment, text required the Secretary to pay State educational agencies to assist eligible schools in initiating a school breakfast program, set forth a plan by which certain State educational agencies competing for startup cost payments were to be given preference, provided that breakfast program maintenance funds were not to be diminished by these payments, defined “eligible school”, and directed Secretary to report to Congress.
 
-1989—Subsec. (a). Pub. L. 101–147, §121(1), inserted before period at end of first sentence “and to carry out the provisions of subsection (g) of this section”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–147, §121(1), inserted before period at end of first sentence “and to carry out the provisions of subsection (g) of this section”.
 
 Subsec. (b). Pub. L. 101–147, §322(1), substituted “reduced price” for “reduced-price” wherever appearing.
 
@@ -114,15 +114,15 @@ Subsec. (f). Pub. L. 101–147, §121(2), inserted “Expansion of program” as
 
 Subsec. (g). Pub. L. 101–147, §121(3), added subsec. (g).
 
-1988—Subsec. (b)(3). Pub. L. 100–435 substituted “6” for “3”.
+<b>1988</b>—Subsec. (b)(3). Pub. L. 100–435 substituted “6” for “3”.
 
-1986—Subsec. (a). Pub. L. 99–500 and Pub. L. 99–591, §372(b)(1), and Pub. L. 99–661, §4502(b)(1), amended subsec. (a) identically, substituting “Health and Human Services” for “Health, Education, and Welfare”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–500 and Pub. L. 99–591, §372(b)(1), and Pub. L. 99–661, §4502(b)(1), amended subsec. (a) identically, substituting “Health and Human Services” for “Health, Education, and Welfare”.
 
 Subsec. (b)(3) to (5). Pub. L. 99–500 and Pub. L. 99–591, §330(a), and Pub. L. 99–661, §4210(a), amended subsec. (b) identically, adding pars. (3) to (5).
 
 Subsec. (e). Pub. L. 99–500 and Pub. L. 99–591, §331, and Pub. L. 99–661, §4211, amended subsec. (e) identically, designating existing provisions as par. (1) and adding par. (2).
 
-1981—Subsec. (b). Pub. L. 97–35, §801(c)(1), (2), in par. (1) substituted provisions respecting calculation, amount, limitations, etc., for breakfast assistance payments to State educational agencies for provisions respecting apportionment, calculation, etc., for payments beginning with fiscal year ending June 30, 1973, and in par. (2) substituted provisions respecting annual adjustments, for provisions respecting semiannual adjustments and substituted “thirty” for “five”.
+<b>1981</b>—Subsec. (b). Pub. L. 97–35, §801(c)(1), (2), in par. (1) substituted provisions respecting calculation, amount, limitations, etc., for breakfast assistance payments to State educational agencies for provisions respecting apportionment, calculation, etc., for payments beginning with fiscal year ending June 30, 1973, and in par. (2) substituted provisions respecting annual adjustments, for provisions respecting semiannual adjustments and substituted “thirty” for “five”.
 
 Subsec. (c). Pub. L. 97–35, §819(b), struck out “financing the costs of” after “such schools in”.
 
@@ -132,17 +132,17 @@ Subsec. (f). Pub. L. 97–35, §817(d), redesignated former subsec. (g) as (f). 
 
 Subsec. (g). Pub. L. 97–35, §817(d), redesignated former subsec. (g) as (f).
 
-1978—Subsec. (a). Pub. L. 95–561 inserted provision relating to applicability to programs of the Department of Defense.
+<b>1978</b>—Subsec. (a). Pub. L. 95–561 inserted provision relating to applicability to programs of the Department of Defense.
 
 Subsec. (d). Pub. L. 95–627 specified which schools could be considered to be in severe need.
 
-1977—Subsec. (b)(1). Pub. L. 95–166, §12(1), (2), designated existing provisions as par. (1) and struck out provision for payment of up to 45 cents for breakfasts served to children qualifying for a free breakfast in cases of severe need, which is now covered in par. (2).
+<b>1977</b>—Subsec. (b)(1). Pub. L. 95–166, §12(1), (2), designated existing provisions as par. (1) and struck out provision for payment of up to 45 cents for breakfasts served to children qualifying for a free breakfast in cases of severe need, which is now covered in par. (2).
 
 Subsec. (b)(2). Pub. L. 95–166, §12(3), added par. (2).
 
 Subsec. (d). Pub. L. 95–166, §12(4), substituted requirement that the Secretary establish eligibility standards for providing additional assistance to schools in severe need for prior requirement that the State educational agency require applicant schools to provide justification of the need for such assistance; required the eligibility standards to be submitted to the Secretary for approval and to be included in the State plan of child nutrition operations and submission of appropriate documentation about the need circumstances in the school and the school's eligibility for additional assistance; and authorized payment of the lesser of 100 percent of the operating costs or the meal reimbursement rate, previously limited to the 100 percent payment.
 
-1975—Subsec. (a). Pub. L. 94–105, §2, struck out “for the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975,” after “such sums as are necessary”.
+<b>1975</b>—Subsec. (a). Pub. L. 94–105, §2, struck out “for the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975,” after “such sums as are necessary”.
 
 Subsec. (b). Pub. L. 94–105, §15(b), substituted “American Samoa, and the Trust Territory of the Pacific Islands” for “and American Samoa” wherever appearing in cl. (1) of first sentence.
 
@@ -150,11 +150,11 @@ Subsec. (f). Pub. L. 94–105, §17(a), substituted “directly to the schools (
 
 Subsec. (g). Pub. L. 94–105, §3, added subsec. (g).
 
-1973—Subsec. (b). Pub. L. 93–150, §4(c), prescribed a minimum payment of 8 cents as the national average payment for all breakfasts served to eligible children, inserted provision for minimum payment of 15 cents for each reduced-price breakfast and for minimum payment of 20 cents for each free breakfast, and authorized, in cases of severe need, a payment of up to 45 cents for each breakfast served to children qualifying for a free breakfast.
+<b>1973</b>—Subsec. (b). Pub. L. 93–150, §4(c), prescribed a minimum payment of 8 cents as the national average payment for all breakfasts served to eligible children, inserted provision for minimum payment of 15 cents for each reduced-price breakfast and for minimum payment of 20 cents for each free breakfast, and authorized, in cases of severe need, a payment of up to 45 cents for each breakfast served to children qualifying for a free breakfast.
 
 Subsec. (c). Pub. L. 93–150, §4(a), (b), substituted in first sentence “State educational agency to assist such schools in financing the costs of operating a breakfast program” for “State educational agency, to assist such schools in financing the cost of obtaining agricultural and other foods for consumption by needy children in a breakfast program” and struck out second sentence which provided that “Such food costs may include, in addition to the purchase price, the cost of processing, distributing, transporting, storing, and handling.”, respectively.
 
-1972—Subsec. (a). Pub. L. 92–433, §3(a), substituted authorization of appropriation of such sums as are necessary for fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975, for provisions authorizing appropriation of amounts not exceeding $25,000,000 for fiscal years 1972 and 1973 and made amounts available to schools making applications for assistance and agreeing to carry out a nonprofit breakfast program in accordance with this chapter.
+<b>1972</b>—Subsec. (a). Pub. L. 92–433, §3(a), substituted authorization of appropriation of such sums as are necessary for fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975, for provisions authorizing appropriation of amounts not exceeding $25,000,000 for fiscal years 1972 and 1973 and made amounts available to schools making applications for assistance and agreeing to carry out a nonprofit breakfast program in accordance with this chapter.
 
 Subsec. (b). Pub. L. 92–433, §3(b), made existing apportionment formula applicable to fiscal year ending June 30, 1973 and added new formula for fiscal years beginning with fiscal year ending June 30, 1974.
 
@@ -164,7 +164,7 @@ Subsec. (e). Pub. L. 92–433, §3(d), substituted provisions that breakfasts be
 
 Subsec. (f). Pub. L. 92–433, §3(e), substituted provisions that for fiscal year ending June 30, 1973, withholding and disbursement to nonprofit private schools will be effected as before and that commencing with the next fiscal year, the Secretary would directly make payments to the nonprofit private schools participating in the breakfast program under agreement with the Secretary for provisions that such withholding and disbursement be effected in accordance with section 1759 of this title with some exceptions.
 
-1971—Subsec. (a). Pub. L. 92–32, §2, authorized appropriations of 25 million dollars for fiscal years 1972, and 1973, and struck out provision for appropriation of 6.5, 10, and 25 million dollars for fiscal years, 1969, 1970, and 1971, respectively.
+<b>1971</b>—Subsec. (a). Pub. L. 92–32, §2, authorized appropriations of 25 million dollars for fiscal years 1972, and 1973, and struck out provision for appropriation of 6.5, 10, and 25 million dollars for fiscal years, 1969, 1970, and 1971, respectively.
 
 Subsec. (c). Pub. L. 92–32, §3, substituted “assist such schools in financing the cost” for “reimburse such schools for the cost” and provided for preference of schools for improvement of nutrition and dietary practices of children of working mothers and from low-income families.
 
@@ -172,11 +172,11 @@ Subsec. (d). Pub. L. 92–32, §4, increased financial assistance from “80” 
 
 Subsec. (e). Pub. L. 92–32, §5, substituted provisions relating to criteria for determination of eligible children, income poverty guidelines, priority of neediest children, affidavit of household's annual income, and certification of availability of funds for nonprofit private schools, for former provision for determination of eligible children on basis of consultations of local school authorities with public welfare and health agencies.
 
-1970—Subsec. (a). Pub. L. 91–248, §10, substituted “$25,000,000” for “$12,000,000”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–248, §10, substituted “$25,000,000” for “$12,000,000”.
 
 Subsec. (e). Pub. L. 91–248, §6(d), provided that there be no overt identification of those children who receive free and reduced price meals.
 
-1968—Subsec. (a). Pub. L. 90–302 provided authorization to appropriate $6,500,000 for fiscal year 1969, not to exceed $10,000,000 for fiscal year 1970, and not to exceed $12,000,000 for fiscal year 1971, struck out references to authorization for fiscal years 1967 and 1968 and to pilot programs conducted on a nonpartisan basis, and added provision that appropriations and expenditures for this chapter be considered Health, Education, and Welfare functions for budget purposes rather than functions of Agriculture.
+<b>1968</b>—Subsec. (a). Pub. L. 90–302 provided authorization to appropriate $6,500,000 for fiscal year 1969, not to exceed $10,000,000 for fiscal year 1970, and not to exceed $12,000,000 for fiscal year 1971, struck out references to authorization for fiscal years 1967 and 1968 and to pilot programs conducted on a nonpartisan basis, and added provision that appropriations and expenditures for this chapter be considered Health, Education, and Welfare functions for budget purposes rather than functions of Agriculture.
 
 #### Effective Date of 2004 Amendment
 

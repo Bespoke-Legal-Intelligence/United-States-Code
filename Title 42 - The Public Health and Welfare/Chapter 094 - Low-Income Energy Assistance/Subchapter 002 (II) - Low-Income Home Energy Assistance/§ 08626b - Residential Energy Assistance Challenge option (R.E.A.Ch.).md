@@ -70,7 +70,7 @@ The State may designate all or part of the State, or all or part of the client p
 
 &emsp;&emsp;&emsp;(ii) the Secretary has determined have a record of successfully providing services under the Low-Income Home Energy Assistance Program; and
 
-&emsp;&emsp;&emsp;(iii) receive weatherization assistance program funds under part A of title IV ofthe Energy Conservation and Production Act \[42 U.S.C. 6861 et seq.\];
+&emsp;&emsp;&emsp;(iii) receive weatherization assistance program funds under part A of title IV of the Energy Conservation and Production Act \[42 U.S.C. 6861 et seq.\];
 
 > &emsp;&emsp;except that a State may not require any such entity to operate a R.E.A.Ch. program;
 
@@ -136,11 +136,11 @@ None of the costs of providing services or benefits under this section shall be 
 
 #### References in Text
 
-The Energy Conservation and Production Act, referred to in subsec. (e)(2)(B)(iii), is Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1125, as amended. Part A of title IV of the Act is classified generally to part A (§6861 et seq.) of subchapter III of chapter 81 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
+The Energy Conservation and Production Act, referred to in subsec. (e)(2)(B)(iii), is Pub. L. 94–385, Aug.14, 1976, 90 Stat. 1125, as amended. Part A of title IV of the Act is classified generally to part A (§6861 et seq.) of subchapter III of chapter 81 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
 #### Amendments
 
-1998—Subsec. (b)(1). Pub. L. 105–285, §308(c), substituted “For each fiscal year” for “For each of the fiscal years 1996 through 1999”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–285, §308(c), substituted “For each fiscal year” for “For each of the fiscal years 1996 through 1999”.
 
 Subsec. (e)(2)(E) to (H). Pub. L. 105–285, §308(d)(1)(A), redesignated subpars. (F) to (I) as (E) to (H), respectively.
 

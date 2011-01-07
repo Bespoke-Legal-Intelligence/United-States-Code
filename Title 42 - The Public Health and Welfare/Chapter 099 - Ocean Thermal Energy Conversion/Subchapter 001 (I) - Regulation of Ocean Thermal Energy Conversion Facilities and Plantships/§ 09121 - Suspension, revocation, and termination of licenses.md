@@ -16,7 +16,11 @@ If the Administrator determines that immediate suspension of the construction or
 
 (Pub. L. 96–320, title I, §111, Aug. 3, 1980, 94 Stat. 988; Pub. L. 98–623, title VI, §602(e)(17), Nov. 8, 1984, 98 Stat. 3412.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 96–320, Aug. 3, 1980, 94 Stat. 974, known as the Ocean Thermal Energy Conversion Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of this title and Tables.
+
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–623 substituted “environment” for “environment established by any treaty or convention,”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–623 substituted “environment” for “environment established by any treaty or convention,”.
 

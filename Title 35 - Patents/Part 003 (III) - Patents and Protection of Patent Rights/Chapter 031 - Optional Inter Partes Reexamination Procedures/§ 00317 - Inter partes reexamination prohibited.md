@@ -12,7 +12,7 @@ Final Decision.—Once a final decision has been entered against a party in a ci
 
 #### Amendments
 
-2002—Pub. L. 107–273, §13202(c)(1), made technical correction to directory language of Pub. L. 106–113, which enacted this section.
+<b>2002</b>—Pub. L. 107–273, §13202(c)(1), made technical correction to directory language of Pub. L. 106–113, which enacted this section.
 
 Subsec. (a). Pub. L. 107–273, §13202(a)(5)(A), substituted “third-party requester nor its privies” for “patent owner nor the third-party requester, if any, nor privies of either”.
 

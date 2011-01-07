@@ -68,7 +68,7 @@ A prior section 224 of Pub. L. 88–643, as added Pub. L. 99–569, title III, �
 
 #### Amendments
 
-1993—Subsec. (c)(1)(B)(i). Pub. L. 103–178 substituted “retired participant” for “former participant”.
+<b>1993</b>—Subsec. (c)(1)(B)(i). Pub. L. 103–178 substituted “retired participant” for “former participant”.
 
 #### Effective Date of 1993 Amendment
 

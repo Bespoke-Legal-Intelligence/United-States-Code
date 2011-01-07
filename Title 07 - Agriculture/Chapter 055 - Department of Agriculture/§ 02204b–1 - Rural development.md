@@ -2,7 +2,7 @@
 
 #### (a) Congressional commitment
 
-The Congress commits itself to a sound balance between rural and urban America. The Congress considers this balance so essential tothe peace, prosperity, and welfare of all our citizens that the highest priority must be given to the revitalization and development of rural areas.
+The Congress commits itself to a sound balance between rural and urban America. The Congress considers this balance so essential to the peace, prosperity, and welfare of all our citizens that the highest priority must be given to the revitalization and development of rural areas.
 
 #### (b) Location of Federal facilities
 

@@ -18,5 +18,5 @@ The Secretary of Defense shall issue regulations to carry out this chapter. Such
 
 #### Amendments
 
-1999—Subsec. (d). Pub. L. 106–65 substituted “The Secretary” for “Not later than 180 days after July 1, 1979, the Secretary” in introductory provisions.
+<b>1999</b>—Subsec. (d). Pub. L. 106–65 substituted “The Secretary” for “Not later than 180 days after July 1, 1979, the Secretary” in introductory provisions.
 

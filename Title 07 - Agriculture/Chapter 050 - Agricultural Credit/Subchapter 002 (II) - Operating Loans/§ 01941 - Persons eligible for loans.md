@@ -44,7 +44,7 @@ Youth enterprises not farming or ranching.—The operation of an enterprise by a
 
 #### (B) Other farm and ranch operations
 
-&emsp;&emsp;On a case-by-case determination not subject to administrative appeal, the Secretarymay grant a borrower a waiver, 1 time only for a period of 2 years, of the limitation under paragraph (1)(C) or (3) for a direct operating loan if the borrower demonstrates to the satisfaction of the Secretary that—
+&emsp;&emsp;On a case-by-case determination not subject to administrative appeal, the Secretary may grant a borrower a waiver, 1 time only for a period of 2 years, of the limitation under paragraph (1)(C) or (3) for a direct operating loan if the borrower demonstrates to the satisfaction of the Secretary that—
 
 &emsp;&emsp;&emsp;(i) the borrower has a viable farm or ranch operation;
 

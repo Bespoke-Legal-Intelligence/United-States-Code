@@ -8,8 +8,6 @@ Subpart C—Definitions; Constructive Ownership of Stock
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> Subsec. (m) was enacted without a period at the end.</i>
-
 
 ---
 

@@ -208,7 +208,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations providing for appropriate adjustments in the determination of the dividend equivalent amount in connection with the distribution to shareholders or transfer to a controlled corporation of the taxpayer's U.S. assets and other adjustments in such determination as are necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 99–514, title XII, §1241(a), Oct. 22, 1986, 100 Stat. 2576; amended Pub. L. 100–647, title I, §1012(q)(1)(A), (2)–(6), (14), title VI, §6133(b), Nov. 10, 1988, 102 Stat. 3522–3525, 3721; Pub. L. 104–188, title I, §1704(f)(3)(A), Aug. 20, 1996, 110Stat. 1879; Pub. L. 110–172, §11(g)(8), Dec. 29, 2007, 121 Stat. 2490.)
+(Added Pub. L. 99–514, title XII, §1241(a), Oct. 22, 1986, 100 Stat. 2576; amended Pub. L. 100–647, title I, §1012(q)(1)(A), (2)–(6), (14), title VI, §6133(b), Nov. 10, 1988, 102 Stat. 3522–3525, 3721; Pub. L. 104–188, title I, §1704(f)(3)(A), Aug. 20, 1996, 110 Stat. 1879; Pub. L. 110–172, §11(g)(8), Dec. 29, 2007, 121 Stat. 2490.)
 
 #### References in Text
 
@@ -220,9 +220,9 @@ A prior section 884 was renumbered section 885 of this title.
 
 #### Amendments
 
-2007—Subsec. (d)(2)(B). Pub. L. 110–172 inserted “(as in effect before their repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000)” before comma at end.
+<b>2007</b>—Subsec. (d)(2)(B). Pub. L. 110–172 inserted “(as in effect before their repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000)” before comma at end.
 
-1996—Subsec. (f)(1). Pub. L. 104–188, §1704(f)(3)(A)(ii), substituted “reasonably expected to be allocable interest” for “reasonably expected to be deductible under section 882 in computing the effectively connected taxable income of such foreign corporation” in closing provisions.
+<b>1996</b>—Subsec. (f)(1). Pub. L. 104–188, §1704(f)(3)(A)(ii), substituted “reasonably expected to be allocable interest” for “reasonably expected to be deductible under section 882 in computing the effectively connected taxable income of such foreign corporation” in closing provisions.
 
 Subsec. (f)(1)(B). Pub. L. 104–188, §1704(f)(3)(A)(i), substituted “to the extent that the allocable interest exceeds the interest described in subparagraph (A)” for “to the extent the amount of interest allowable as a deduction under section 882 in computing the effectively connected taxable income of such foreign corporation exceeds the interest described in subparagraph (A)”.
 
@@ -230,7 +230,7 @@ Subsec. (f)(2). Pub. L. 104–188, §1704(f)(3)(A)(iii), amended par. (2) genera
 
 Effectively connected taxable income.—For purposes of this subsection, the term ‘effectively connected taxable income’ means taxable income which is effectively connected (or treated as effectively connected) with the conduct of a trade or business within the United States.”
 
-1988—Subsec. (b)(2)(B). Pub. L. 100–647, §1012(q)(1)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The increase under subparagraph (A) for any taxable year shall not exceed the aggregate reductions under paragraph (1) for prior taxable years to the extent not previously taken into account under subparagraph (A).”
+<b>1988</b>—Subsec. (b)(2)(B). Pub. L. 100–647, §1012(q)(1)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The increase under subparagraph (A) for any taxable year shall not exceed the aggregate reductions under paragraph (1) for prior taxable years to the extent not previously taken into account under subparagraph (A).”
 
 Subsec. (d)(2)(E). Pub. L. 100–647, §6133(b), added subpar. (E).
 
@@ -286,5 +286,5 @@ Section 1012(q)(1)(B) of Pub. L. 100–647, as amended by Pub. L. 101–239, tit
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For nonapplication of amendment by section 1241(a) of Pub. L. 99–514 (enacting this section) to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For nonapplication of amendment by section 1241(a) of Pub. L. 99–514 (enacting this section) to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 

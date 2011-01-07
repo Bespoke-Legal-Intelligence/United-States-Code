@@ -114,7 +114,7 @@ Section 450b of title 25, referred to in subsec. (g)(3), has been amended, and s
 
 #### Amendments
 
-2006—Subsec. (b)(1)(B)(ii). Pub. L. 109–435 substituted “404(a)(7)” for “404(a)(8)”.
+<b>2006</b>—Subsec. (b)(1)(B)(ii). Pub. L. 109–435 substituted “404(a)(7)” for “404(a)(8)”.
 
 Subsec. (b)(5). Pub. L. 109–162, §1132(1), struck out period at end and inserted “, which the Director is hereby authorized to accept for deposit into the Fund, except that the Director is not hereby authorized to accept any such gift, bequest, or donation that—” and subpars. (A) and (B).
 
@@ -124,7 +124,7 @@ Subsec. (g)(1). Pub. L. 109–162, §1132(3)(A), struck out “, acting through
 
 Subsec. (g)(2), (3). Pub. L. 109–162, §1132(3)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
-2001—Subsec. (b)(5). Pub. L. 107–56, §621(a), added par. (5).
+<b>2001</b>—Subsec. (b)(5). Pub. L. 107–56, §621(a), added par. (5).
 
 Subsec. (c). Pub. L. 107–77, §111(b), amended heading and text of subsec. (c) to read as it did the day before enactment of amendment by Pub. L. 107–56. Text, as amended generally by Pub. L. 107–56, read as follows:
 
@@ -142,9 +142,9 @@ Subsec. (d)(5). Pub. L. 107–56, §621(d), amended par. (5) generally. Prior to
 
 “(5)(A) If the sums available in the Fund are sufficient to fully provide grants to the States pursuant to section 10602(a)(1) of this title, the Director may retain any portion of the Fund that was deposited during a fiscal year that was in excess of 110 percent of the total amount deposited in the Fund during the preceding fiscal year as an emergency reserve. Such reserve shall not exceed $100,000,000.
 
-“(B) The emergency reserve referred to in subparagraph (A) may be used for supplemental grants under section 10603b of this title, to provide compensation to victims of international terrorism under the programunder section 10603c of this title, and to supplement the funds available to provide grants to States for compensation and assistance in accordance with sections 10602 and 10603 of this title in years in which supplemental grants are needed.”
+“(B) The emergency reserve referred to in subparagraph (A) may be used for supplemental grants under section 10603b of this title, to provide compensation to victims of international terrorism under the program under section 10603c of this title, and to supplement the funds available to provide grants to States for compensation and assistance in accordance with sections 10602 and 10603 of this title in years in which supplemental grants are needed.”
 
-2000—Subsec. (c). Pub. L. 106–386, §2003(d), which directed insertion of “Notwithstanding subsection (d)(5) of this section, all sums deposited in the Fund in any fiscal year that are not made available for obligation by Congress in the subsequent fiscal year shall remain in the Fund for obligation in future fiscal years, without fiscal year limitation.” at the end of section 1402(c) of the Victims of Crime Act 1984, was executed by making the insertion at the end of subsec. (c) of this section, which is section 1402 of the Victims of Crime Act of 1984, to reflect the probable intent of Congress.
+<b>2000</b>—Subsec. (c). Pub. L. 106–386, §2003(d), which directed insertion of “Notwithstanding subsection (d)(5) of this section, all sums deposited in the Fund in any fiscal year that are not made available for obligation by Congress in the subsequent fiscal year shall remain in the Fund for obligation in future fiscal years, without fiscal year limitation.” at the end of section 1402(c) of the Victims of Crime Act 1984, was executed by making the insertion at the end of subsec. (c) of this section, which is section 1402 of the Victims of Crime Act of 1984, to reflect the probable intent of Congress.
 
 Subsec. (d)(2). Pub. L. 106–177 designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), the first $10,000,000” for “The first $10,000,000”, and added subpar. (B).
 
@@ -156,13 +156,13 @@ Subsec. (d)(5)(B). Pub. L. 106–386, §2003(c)(2), inserted “, to provide co
 
 Subsec. (e). Pub. L. 106–386, §2003(b)(2), substituted “shall be available for deposit into the emergency reserve fund referred to in subsection (d)(5) of this section at the discretion of the Director. Any remaining unobligated sums” for “in excess of $500,000 shall be returned to the Treasury. Any remaining unobligated sums in an amount less than $500,000”.
 
-1999—Subsec. (d)(3) to (5). Pub. L. 106–113 added par. (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former par. (5) which read as follows: “The Director may set aside up to $500,000 of the reserve fund described in paragraph (4) to make supplemental grants to United States Attorneys Offices to provide necessary assistance to victims of the bombing of the Alfred P. Murrah Federal Building in Oklahoma City, to facilitate observation of and/or participation by such victims in trial proceedings arising therefrom, including, without limitation, provision of lodging and travel assistance, and to pay such other, related expenses determined to be necessary by the Director.”
+<b>1999</b>—Subsec. (d)(3) to (5). Pub. L. 106–113 added par. (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former par. (5) which read as follows: “The Director may set aside up to $500,000 of the reserve fund described in paragraph (4) to make supplemental grants to United States Attorneys Offices to provide necessary assistance to victims of the bombing of the Alfred P. Murrah Federal Building in Oklahoma City, to facilitate observation of and/or participation by such victims in trial proceedings arising therefrom, including, without limitation, provision of lodging and travel assistance, and to pay such other, related expenses determined to be necessary by the Director.”
 
-1997—Subsec. (d)(1). Pub. L. 105–119, §109(a)(1), struck out par. (1) which read as follows: “The first $6,200,000 deposited in the Fund in each of the fiscal years 1992 through 1995 and the first $3,000,000 in each fiscal year thereafter shall be available to the judicial branch for administrative costs to carry out the functions of the judicial branch under sections 3611 and 3612 of title 18.”
+<b>1997</b>—Subsec. (d)(1). Pub. L. 105–119, §109(a)(1), struck out par. (1) which read as follows: “The first $6,200,000 deposited in the Fund in each of the fiscal years 1992 through 1995 and the first $3,000,000 in each fiscal year thereafter shall be available to the judicial branch for administrative costs to carry out the functions of the judicial branch under sections 3611 and 3612 of title 18.”
 
 Subsec. (d)(2). Pub. L. 105–119, §109(a)(2), substituted “The first” for “the next”.
 
-1996—Subsec. (c). Pub. L. 104–132, §232(c)(1)(A), substituted “under this chapter” for “under this subsection”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–132, §232(c)(1)(A), substituted “under this chapter” for “under this subsection”.
 
 Subsec. (d)(3)(B). Pub. L. 104–132, §236, substituted “section 10603(a) of this title” for “section 10603a of this title”.
 
@@ -178,7 +178,7 @@ Pub. L. 104–132, §232(c)(1)(B), reenacted heading without change and amended 
 
 “(2) For the purposes of the application of paragraph (1) to any grant under this chapter with respect to fiscal year 1985, there shall be substituted in such paragraph ‘two succeeding fiscal years’ for ‘succeeding fiscal year’ and ‘which period’ for ‘which year’.”
 
-1994—Subsec. (d)(2). Pub. L. 103–322, §230201(a)(1), added par. (2) and struck out former par. (2) which read as follows: “Of the next $100,000,000 deposited in the Fund in a particular fiscal year—
+<b>1994</b>—Subsec. (d)(2). Pub. L. 103–322, §230201(a)(1), added par. (2) and struck out former par. (2) which read as follows: “Of the next $100,000,000 deposited in the Fund in a particular fiscal year—
 
 &emsp;“(A) 49.5 percent shall be available for grants under section 10602 of this title;
 
@@ -204,13 +204,13 @@ Subsec. (d)(5). Pub. L. 103–322, §230201(a)(4), struck out par. (5) which rea
 
 Subsec. (g)(1). Pub. L. 103–322, §230201(b), substituted “subsection (d)(2)” for “subsection (d)(2)(D)”.
 
-1993—Subsec. (d)(2)(C), (D). Pub. L. 103–121, §110(a)(1), added subpars. (C) and (D).
+<b>1993</b>—Subsec. (d)(2)(C), (D). Pub. L. 103–121, §110(a)(1), added subpars. (C) and (D).
 
 Subsec. (d)(3). Pub. L. 103–121, §110(a)(2), substituted “section 10603a of this title” for “section 10603(a) of this title”.
 
 Subsec. (g)(1). Pub. L. 103–121, §110(a)(3), substituted “subsection (d)(2)(D)” for “subsection (d)(2)(A)(iv)”.
 
-1992—Subsec. (c). Pub. L. 102–572, §1001(1), added subsec. (c) and struck out former subsec. (c) which read as follows:
+<b>1992</b>—Subsec. (c). Pub. L. 102–572, §1001(1), added subsec. (c) and struck out former subsec. (c) which read as follows:
 
 “(1)(A) If the total deposited in the Fund during a particular fiscal year reaches the ceiling sum described in subparagraph (B), the excess over the ceiling sum shall not be part of the Fund. The first $2,200,000 of such excess shall be available to the judicial branch for administrative costs to carry out the functions of the judicial branch under sections 3611 and 3612 of title 18 and the remaining excess shall be deposited in the general fund of the Treasury.
 
@@ -250,9 +250,9 @@ Subsec. (d). Pub. L. 102–572, §1001(2), added subsec. (d) and struck out form
 
 &emsp;&emsp;“(iii) 5 percent shall be available for grants under section 10603(c)(1)(B) of this title.”
 
-1990—Subsec. (c)(1)(B)(i). Pub. L. 101–647 substituted “1990” for “1991”.
+<b>1990</b>—Subsec. (c)(1)(B)(i). Pub. L. 101–647 substituted “1990” for “1991”.
 
-1988—Subsec. (c). Pub. L. 100–690, §7121(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+<b>1988</b>—Subsec. (c). Pub. L. 100–690, §7121(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
 “(1) If the total deposited in the Fund during a particular fiscal year reaches the sum of $110 million, the excess over that sum shall be deposited in the general fund of the Treasury and shall not be a part of the Fund.
 
@@ -264,7 +264,7 @@ Subsec. (d)(2)(D). Pub. L. 100–690, §7121(b)(1), added subpar. (D).
 
 Subsec. (g). Pub. L. 100–690, §7124, added subsec. (g).
 
-1986—Subsec. (c)(1). Pub. L. 99–401, §102(b)(1), substituted “$110 million” for “$100 million”.
+<b>1986</b>—Subsec. (c)(1). Pub. L. 99–401, §102(b)(1), substituted “$110 million” for “$100 million”.
 
 Subsec. (d)(2). Pub. L. 99–401, §102(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Fifty percent of the total deposited in the Fund during a particular fiscal year shall be available for grants under section 10602 of this title and fifty percent shall be available for grants under section 10603 of this title.”
 
@@ -288,7 +288,7 @@ Section 1409 of chapter XIV of title II of Pub. L. 98–473 provided that:
 
 #### Short Title of 1996 Amendment
 
-Section 231 of title II of Pub. L. 104–132 provided that: “This subtitle \[subtitle C (§§231–236) of title II of Pub. L. 104–132, enacting sections 10603b and 10608 of this title, amending this section and sections 10602 and 10603 of this title, and enacting provisions set out as notes under section 10602 of this title\] may be cited as the ‘Justice for Victims of Terrorism Act of 1996’.”
+Section 231 of title II of Pub. L. 104–132 provided that: “This subtitle \[subtitle C (§§231–236) of title II of Pub.L. 104–132, enacting sections 10603b and 10608 of this title, amending this section and sections 10602 and 10603 of this title, and enacting provisions set out as notes under section 10602 of this title\] may be cited as the ‘Justice for Victims of Terrorism Act of 1996’.”
 
 #### Short Title of 1990 Amendment
 

@@ -62,7 +62,7 @@ Smoke Alarm Device Penalty.—(1) A passenger may not tamper with, disable, or d
 
 Procedural Requirements.—(1) The Secretary of Transportation may impose a civil penalty for the following violations only after notice and an opportunity for a hearing:
 
-&emsp;(A) a violation of subsection (b) of this section or chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (exceptsections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II of chapter 421, or section 44909 of this title.
+&emsp;(A) a violation of subsection (b) of this section or chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II of chapter 421, or section 44909 of this title.
 
 &emsp;(B) a violation of a regulation prescribed or order issued under any provision to which clause (A) of this paragraph applies.
 
@@ -372,11 +372,11 @@ The date of enactment of the Vision 100—Century of Aviation Reauthorization Ac
 
 #### Amendments
 
-2007—Subsec. (a)(4). Pub. L. 110–53 struck out “or another requirement under this title administered by the Under Secretary of Transportation for Security” after “chapter 449”.
+<b>2007</b>—Subsec. (a)(4). Pub. L. 110–53 struck out “or another requirement under this title administered by the Under Secretary of Transportation for Security” after “chapter 449”.
 
 Subsec. (a)(6). Pub. L. 110–161 added par. (6).
 
-2004—Subsec. (d)(2). Pub. L. 108–458, §4027(a)(1)–(3), substituted “46302 (for a violation relating to section 46504),” for “46302, 46303,”, “The Secretary of Homeland Security may” for “The Under Secretary of Transportation for Security may”, “44909), 46302 (except for a violation relating to section 46504), 46303,” for “44909)”, and “The Secretary of Homeland Security or” for “The Under Secretary or”.
+<b>2004</b>—Subsec. (d)(2). Pub. L. 108–458, §4027(a)(1)–(3), substituted “46302 (for a violation relating to section 46504),” for “46302, 46303,”, “The Secretary of Homeland Security may” for “The Under Secretary of Transportation for Security may”, “44909), 46302 (except for a violation relating to section 46504), 46303,” for “44909)”, and “The Secretary of Homeland Security or” for “The Under Secretary or”.
 
 Subsec. (d)(3). Pub. L. 108–458, §4027(a)(3), substituted “Secretary of Homeland Security or” for “Under Secretary or”.
 
@@ -384,7 +384,7 @@ Subsec. (d)(4). Pub. L. 108–458, §4027(a)(3), substituted “Secretary of Hom
 
 Subsec. (d)(4)(A). Pub. L. 108–458, §4027(a)(4), realigned margins.
 
-2003—Subsec. (a)(1). Pub. L. 108–176, §503(a)(1), substituted “$25,000 (or $1,100 if the person is an individual or small business concern)” for “$1,000” in introductory provisions.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–176, §503(a)(1), substituted “$25,000 (or $1,100 if the person is an individual or small business concern)” for “$1,000” in introductory provisions.
 
 Subsec. (a)(1)(A). Pub. L. 108–176, §503(a)(2), (3), struck out “or” before “section 47107(b)” and substituted “section), or section 47133” for “section)”.
 
@@ -426,9 +426,9 @@ Subsec. (d)(8). Pub. L. 108–176, §503(b)(2), substituted “is—” for “i
 
 Subsec. (i). Pub. L. 108–176, §503(c), added subsec. (i).
 
-2002—Subsec. (a)(8). Pub. L. 107–296 added par. (8).
+<b>2002</b>—Subsec. (a)(8). Pub. L. 107–296 added par. (8).
 
-2001—Subsec. (d)(2). Pub. L. 107–71, §140(d)(1)(C), inserted “Under Secretary or” before “Administrator shall”.
+<b>2001</b>—Subsec. (d)(2). Pub. L. 107–71, §140(d)(1)(C), inserted “Under Secretary or” before “Administrator shall”.
 
 Pub. L. 107–71, §140(d)(1)(B), inserted after first sentence “The Under Secretary of Transportation for Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909) or a regulation prescribed or order issued under such chapter 449.”
 
@@ -440,7 +440,7 @@ Subsec. (d)(8). Pub. L. 107–71, §140(d)(3), substituted “Under Secretary, A
 
 Subsec. (h)(2). Pub. L. 107–71, §140(d)(4), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
 
-2000—Subsec. (a)(1)(A). Pub. L. 106–181, §§519(c), 720(1), substituted “subchapter II or III of chapter 421” for “subchapter II of chapter 421” and struck out “46302, 46303, or” before “47107(b) (including”.
+<b>2000</b>—Subsec. (a)(1)(A). Pub. L. 106–181, §§519(c), 720(1), substituted “subchapter II or III of chapter 421” for “subchapter II of chapter 421” and struck out “46302, 46303, or” before “47107(b) (including”.
 
 Subsec. (a)(3)(C). Pub. L. 106–181, §503(c), added subpar. (C).
 
@@ -456,9 +456,9 @@ Subsec. (d)(7)(A). Pub. L. 106–181, §720(2), substituted “a penalty on a pe
 
 Subsec. (g). Pub. L. 106–181, §720(3), inserted “or the Administrator” after “Secretary”.
 
-1997—Subsecs. (a)(1)(A), (2)(A), (d)(2), (f)(1)(A)(i). Pub. L. 105–102 repealed Pub. L. 104–264, §§502(c), 1220(b). See 1996 Amendment notes below.
+<b>1997</b>—Subsecs. (a)(1)(A), (2)(A), (d)(2), (f)(1)(A)(i). Pub. L. 105–102 repealed Pub. L. 104–264, §§502(c), 1220(b). See 1996 Amendment notes below.
 
-1996—Subsec. (a)(1)(A). Pub. L. 104–287, §5(77)(A)(iii), (iv), inserted “or” after “46303,” and struck out “, or 41715” after “under such section)”.
+<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–287, §5(77)(A)(iii), (iv), inserted “or” after “46303,” and struck out “, or 41715” after “under such section)”.
 
 Pub. L. 104–287, §5(77)(A)(ii), substituted “section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), or section” for “or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44909(a), 44912–44915, 44932–44938,”.
 
@@ -492,7 +492,7 @@ Pub. L. 104–264, §1220(b), which directed amendment of cl. (i) by inserting �
 
 Pub. L. 104–264, §502(c)(1), which directed amendment of cl. (i) by inserting “44724,” after “44718(d),”, was repealed by Pub. L. 105–102.
 
-1994—Subsec. (a)(1)(A). Pub. L. 103–429, §6(60)(A), substituted “any of sections 41301–41306” for “section 41301–41306” and “any of sections 44701(a)” for “section 44701(a)”.
+<b>1994</b>—Subsec. (a)(1)(A). Pub. L. 103–429, §6(60)(A), substituted “any of sections 41301–41306” for “section 41301–41306” and “any of sections 44701(a)” for “section 44701(a)”.
 
 Pub. L. 103–305, §207(c)(1), inserted “, or 41715” before “of this title”.
 

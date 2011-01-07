@@ -28,7 +28,7 @@ The Departments of Commerce, Justice, and State, the Judiciary, and Related Agen
 
 #### Amendments
 
-2000—Subsec. (d). Pub. L. 106–517 added subsec. (d).
+<b>2000</b>—Subsec. (d). Pub. L. 106–517 added subsec. (d).
 
 #### Transfer of Functions
 

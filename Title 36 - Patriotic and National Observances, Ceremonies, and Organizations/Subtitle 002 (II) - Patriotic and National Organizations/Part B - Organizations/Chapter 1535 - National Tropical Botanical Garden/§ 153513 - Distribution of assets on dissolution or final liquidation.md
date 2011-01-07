@@ -40,5 +40,5 @@ Act of August 25, 1916, referred to in subsec. (a)(1), is act Aug. 25, 1916, ch.
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–284 substituted “(16 U.S.C. 1 et seq.) (known as the National Park Service Organic Act)” for “(16 U.S.C. 1 et seq.), known as the National Park Service Organic Act))”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–284 substituted “(16 U.S.C. 1 et seq.) (known as the National Park Service Organic Act)” for “(16 U.S.C. 1 et seq.), known as the National Park Service Organic Act))”.
 

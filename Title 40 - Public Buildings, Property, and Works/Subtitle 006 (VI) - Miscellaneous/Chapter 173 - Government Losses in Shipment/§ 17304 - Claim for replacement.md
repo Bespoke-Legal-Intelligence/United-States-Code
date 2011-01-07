@@ -54,5 +54,5 @@ In subsection (c), the words “Notwithstanding any provision of law to the cont
 
 #### Amendments
 
-2004—Subsec. (b)(2)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (b)(2)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

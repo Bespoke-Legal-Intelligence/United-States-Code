@@ -64,37 +64,37 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Amendments
 
-2008—Subsecs. (e), (f). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+<b>2008</b>—Subsecs. (e), (f). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
-1986—Subsec. (a)(3). Pub. L. 99–399 added par. (3).
+<b>1986</b>—Subsec. (a)(3). Pub. L. 99–399 added par. (3).
 
-1985—Subsec. (a)(2). Pub. L. 99–83, §302, substituted “$760,000,000 for fiscal year 1986 and $760,000,000 for fiscal year 1987. Of these amounts, the President may use such amounts as he deems appropriate to carry out the provisions of section 316 of the International Security and Development Cooperation Act of 1980.” for “$700,000,000 for the fiscal year 1982 and $700,000,000 for the fiscal year 1983, of which up to $1,000,000 for each such fiscal year shall be available only to carry out section 316 of the International Security and Development Cooperation Act of 1980.”
+<b>1985</b>—Subsec. (a)(2). Pub. L. 99–83, §302, substituted “$760,000,000 for fiscal year 1986 and $760,000,000 for fiscal year 1987. Of these amounts, the President may use such amounts as he deems appropriate to carry out the provisions of section 316 of the International Security and Development Cooperation Act of 1980.” for “$700,000,000 for the fiscal year 1982 and $700,000,000 for the fiscal year 1983, of which up to $1,000,000 for each such fiscal year shall be available only to carry out section 316 of the International Security and Development Cooperation Act of 1980.”
 
 Subsec. (g). Pub. L. 99–83, §1001, amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “In order to carry out the purposes of this section, the President may continue to participate in and may provide, on such terms and conditions as he may determine, up to $180,000,000 to the International Fund for Agricultural Development. There are authorized to be appropriated to the President for the purposes of this subsection $180,000,000, except that not more than $40,500,000 may be appropriated under this subsection for the fiscal year 1982. Amounts appropriated under this subsection are authorized to remain available until expended.”
 
-1981—Subsec. (a)(2). Pub. L. 97–113, §301(a), substituted “$700,000,000 for the fiscal year 1982 and $700,000,000 for the fiscal year 1983, of which up to $1,000,000 for each such fiscal year shall be available only to carry out section 316 of the International Security and Development Cooperation Act of 1980” for “$713,500,000 for the fiscal year 1981”.
+<b>1981</b>—Subsec. (a)(2). Pub. L. 97–113, §301(a), substituted “$700,000,000 for the fiscal year 1982 and $700,000,000 for the fiscal year 1983, of which up to $1,000,000 for each such fiscal year shall be available only to carry out section 316 of the International Security and Development Cooperation Act of 1980” for “$713,500,000 for the fiscal year 1981”.
 
 Subsec. (g). Pub. L. 97–113, §301(c), added subsec. (g).
 
-1980—Subsec. (a)(2). Pub. L. 96–533 substituted appropriations authorization of $713,500,000 for fiscal year 1981 for such authorization of $659,000,000 for fiscal year 1980.
+<b>1980</b>—Subsec. (a)(2). Pub. L. 96–533 substituted appropriations authorization of $713,500,000 for fiscal year 1981 for such authorization of $659,000,000 for fiscal year 1980.
 
-1979—Subsec. (a)(2). Pub. L. 96–53, §101(a), substituted provisions authorizing appropriations of $659,000,000 for fiscal year 1980, for provisions authorizing appropriations of $665,213,000 for fiscal year 1979.
+<b>1979</b>—Subsec. (a)(2). Pub. L. 96–53, §101(a), substituted provisions authorizing appropriations of $659,000,000 for fiscal year 1980, for provisions authorizing appropriations of $665,213,000 for fiscal year 1979.
 
 Subsec. (b)(3). Pub. L. 96–53, §101(b), added par. (3).
 
 Subsec. (f). Pub. L. 96–53, §101(c), added subsec. (f).
 
-1978—Pub. L. 95–424 amended section generally, updating and clarifying the purposes of assistance to more accurately reflect the range of activities authorized by this section.
+<b>1978</b>—Pub. L. 95–424 amended section generally, updating and clarifying the purposes of assistance to more accurately reflect the range of activities authorized by this section.
 
-1977—Subsec. (a). Pub. L. 95–88, §102(a), struck out provisions authorizing appropriations of $291,000,000 for the fiscal year 1974, $500,000,000 for the fiscal year 1975, and $618,800,000 for the fiscal year 1976, and inserted provisions authorizing the appropriation of $580,000,000 for the fiscal year 1978.
+<b>1977</b>—Subsec. (a). Pub. L. 95–88, §102(a), struck out provisions authorizing appropriations of $291,000,000 for the fiscal year 1974, $500,000,000 for the fiscal year 1975, and $618,800,000 for the fiscal year 1976, and inserted provisions authorizing the appropriation of $580,000,000 for the fiscal year 1978.
 
 Subsec. (h). Pub. L. 95–88, §102(b), added subsec. (h).
 
-1975—Subsec. (a). Pub. L. 94–161, §302(1), authorized appropriation of $618,800,000 and $745,000,000 for fiscal years 1976 and 1977, respectively.
+<b>1975</b>—Subsec. (a). Pub. L. 94–161, §302(1), authorized appropriation of $618,800,000 and $745,000,000 for fiscal years 1976 and 1977, respectively.
 
 Subsecs. (c) to (g). Pub. L. 94–161, §302(2), added subsecs. (c) to (g).
 
-1974—Subsec. (a). Pub. L. 93–559, §2(1), (2), designated existing provisions as subsec. (a) and increased appropriations authorization for fiscal year 1975 to $500,000,000 from $291,000,000.
+<b>1974</b>—Subsec. (a). Pub. L. 93–559, §2(1), (2), designated existing provisions as subsec. (a) and increased appropriations authorization for fiscal year 1975 to $500,000,000 from $291,000,000.
 
 Subsec. (b). Pub. L. 93–559, §2(3), added subsec. (b).
 

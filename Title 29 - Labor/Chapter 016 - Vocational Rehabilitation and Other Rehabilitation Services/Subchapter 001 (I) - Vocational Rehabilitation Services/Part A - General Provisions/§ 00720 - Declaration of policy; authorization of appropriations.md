@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(D) Families and other natural supports can play important roles in the success of a vocational rehabilitation program, if the individual with a disability involved requests, desires, or needs such supports.
 
-&emsp;&emsp;(E) Vocational rehabilitation counselors that are trained and prepared in accordance with State policies and procedures as described in section 721(a)(7)(B) of this title (referred to individually in this subchapter as a “qualified vocational rehabilitation counselor”), other qualified rehabilitation personnel, and other qualified personnel facilitate the accomplishment of the employment outcomes and objectives of an individual.
+&emsp;&emsp;(E) Vocational rehabilitation counselors that are trained and prepared in accordancewith State policies and procedures as described in section 721(a)(7)(B) of this title (referred to individually in this subchapter as a “qualified vocational rehabilitation counselor”), other qualified rehabilitation personnel, and other qualified personnel facilitate the accomplishment of the employment outcomes and objectives of an individual.
 
 &emsp;&emsp;(F) Individuals with disabilities and the individuals’ representatives are full partners in a vocational rehabilitation program and must be involved on a regular basis and in a meaningful manner with respect to policy development and implementation.
 
@@ -124,11 +124,11 @@
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (a)(1)(D)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(1)(D)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, asamended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (a)(1)(E), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 #### Prior Provisions
 
-A prior section 720, Pub. L. 93–112, title I, §100, Sept. 26, 1973, 87 Stat. 363; Pub. L. 93–516, title I, §102(a), Dec.7, 1974, 88 Stat. 1618; Pub. L. 93–651, title I, §102(a), Nov. 21, 1974, 89 Stat. 2–3; Pub. L. 94–230, §§2(a), 11(b)(2), (3), Mar. 15, 1976, 90 Stat. 211, 213; Pub. L. 95–602, title I, §101(a), (b), Nov. 6, 1978, 92 Stat. 2955; Pub. L. 98–221, title I, §111(a)–(d), Feb. 22, 1984, 98 Stat. 19; Pub. L. 99–506, title I, §103(d)(2)(C), title II, §201, Oct. 21, 1986, 100 Stat. 1810, 1813; Pub. L. 100–630, title II, §202(a), Nov. 7, 1988, 102 Stat. 3304; Pub. L. 102–52, §2(a), (b)(1), June 6, 1991, 105 Stat. 260; Pub. L. 102–569, title I, §121(a), (b), Oct. 29, 1992, 106 Stat. 4365, 4367, related to congressional findings, purpose, policy, authorization of appropriations, change in Consumer Price Index, and extension of program, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 720, Pub. L. 93–112, title I, §100, Sept. 26, 1973, 87 Stat. 363; Pub. L. 93–516, title I, §102(a), Dec. 7, 1974, 88 Stat. 1618; Pub. L. 93–651, title I, §102(a), Nov. 21, 1974, 89 Stat. 2–3; Pub. L. 94–230, §§2(a), 11(b)(2), (3), Mar. 15, 1976, 90 Stat. 211, 213; Pub. L. 95–602, title I, §101(a), (b), Nov. 6, 1978, 92 Stat. 2955; Pub. L. 98–221, title I, §111(a)–(d), Feb. 22, 1984, 98 Stat. 19; Pub. L. 99–506, title I, §103(d)(2)(C), title II, §201, Oct. 21, 1986, 100 Stat. 1810, 1813; Pub. L. 100–630, title II, §202(a), Nov. 7, 1988, 102 Stat. 3304; Pub. L. 102–52, §2(a), (b)(1), June 6, 1991, 105 Stat. 260; Pub. L. 102–569, title I, §121(a), (b), Oct. 29, 1992, 106 Stat. 4365, 4367, related to congressional findings, purpose, policy, authorization of appropriations, change in Consumer Price Index, and extension of program, prior to the general amendment of this subchapter by Pub. L. 105–220.
 

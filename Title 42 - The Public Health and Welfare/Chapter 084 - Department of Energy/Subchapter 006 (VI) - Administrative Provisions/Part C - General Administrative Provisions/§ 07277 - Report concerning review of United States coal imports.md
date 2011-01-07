@@ -12,7 +12,7 @@ Each report required by this section shall—
 
 &emsp;(2) identify the foreign nations exporting the coal, the domestic electric utility plants receiving coal from each exporting nation, the domestically produced coal supplied to such plants, and the domestic coal production, by State, displaced by the imported coal;
 
-&emsp;(3) identify (to the extent allowed under disclosure policy), at regional and State levels of aggregation, transportation modes and costsfor delivery of imported coal from the exporting country port of origin to the point of consumption in the United States; and
+&emsp;(3) identify (to the extent allowed under disclosure policy), at regional and State levels of aggregation, transportation modes and costs for delivery of imported coal from the exporting country port of origin to the point of consumption in the United States; and
 
 &emsp;(4) specifically highlight and analyze any significant trends of unusual variations in coal imports.
 
@@ -52,7 +52,7 @@ Contents.—The report required by this section shall—
 
 &emsp;“(1) contain a detailed analysis of potential domestic markets for foreign coals, by producing nation, between 1985 and 1995;
 
-&emsp;“(2) identify potential domestic consuming sectors of imported coal and evaluate the magnitude of any potential economic disruptions for each impacted State, including analysis of direct and indirect employment impact in the domestic coal industry and resulting income loss to each State;
+&emsp;“(2) identify potential domestic consuming sectors of imported coal and evaluate the magnitude of anypotential economic disruptions for each impacted State, including analysis of direct and indirect employment impact in the domestic coal industry and resulting income loss to each State;
 
 &emsp;“(3) identify domestically produced coal that potentially could be replaced by imported coal;
 

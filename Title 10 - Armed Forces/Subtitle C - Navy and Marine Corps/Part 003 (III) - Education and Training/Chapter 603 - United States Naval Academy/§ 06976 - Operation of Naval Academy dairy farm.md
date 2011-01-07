@@ -28,5 +28,5 @@ Effect of Other Laws.—Nothing in section 6971 of this title shall be construed
 
 #### Amendments
 
-1999—Subsecs. (c), (d). Pub. L. 106–65 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>1999</b>—Subsecs. (c), (d). Pub. L. 106–65 added subsec. (c) and redesignated former subsec. (c) as (d).
 

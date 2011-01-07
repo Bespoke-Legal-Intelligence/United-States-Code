@@ -56,17 +56,17 @@ In subsection (c), the words “as prescribed by the President” are substitute
 
 #### Amendments
 
-1996—Subsec. (d). Pub. L. 104–106, §903(a), (f)(2), which directed amendment of subsec. (d), eff. Jan. 31, 1997, by substituting “official in the Department of Defense with principal responsibility for health affairs” for “Assistant Secretary of Defense for Health Affairs”, was repealed by Pub. L. 104–201.
+<b>1996</b>—Subsec. (d). Pub. L. 104–106, §903(a), (f)(2), which directed amendment of subsec. (d), eff. Jan. 31, 1997, by substituting “official in the Department of Defense with principal responsibility for health affairs” for “Assistant Secretary of Defense for Health Affairs”, was repealed by Pub. L. 104–201.
 
-1989—Subsec. (c). Pub. L. 101–189 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+<b>1989</b>—Subsec. (c). Pub. L. 101–189 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
-1986—Subsec. (d). Pub. L. 99–661 substituted “who is a general officer or flag officer or is a medical officer” for “who is in pay grade O–7 or higher or is a Medical Corps officer or medical officer of the Air Force” in provisions preceding par. (1).
+<b>1986</b>—Subsec. (d). Pub. L. 99–661 substituted “who is a general officer or flag officer or is a medical officer” for “who is in pay grade O–7 or higher or is a Medical Corps officer or medical officer of the Air Force” in provisions preceding par. (1).
 
-1984—Subsec. (b). Pub. L. 98–525 struck out “of this section” after “subsection (d)” in provisions preceding par. (1).
+<b>1984</b>—Subsec. (b). Pub. L. 98–525 struck out “of this section” after “subsection (d)” in provisions preceding par. (1).
 
-1980—Subsec. (d). Pub. L. 96–513 substituted “Affairs” for “and Environment”.
+<b>1980</b>—Subsec. (d). Pub. L. 96–513 substituted “Affairs” for “and Environment”.
 
-1976—Subsec. (b). Pub. L. 94–225, §2(a)(1), substituted “Except as provided in subsection (d) of this section, the Secretary” for “The Secretary”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–225, §2(a)(1), substituted “Except as provided in subsection (d) of this section, the Secretary” for “The Secretary”.
 
 Subsec. (d). Pub. L. 94–225, §2(a)(2), added subsec. (d).
 

@@ -28,5 +28,5 @@ Section 460<i>l</i>–22 of this title, referred to in subsec. (b), was in the o
 
 #### Amendments
 
-2000—Subsecs. (c)(1), (d). Pub. L. 106–290 substituted “430g–4(c)” for “430g–4(b)”.
+<b>2000</b>—Subsecs. (c)(1), (d). Pub. L. 106–290 substituted “430g–4(c)” for “430g–4(b)”.
 

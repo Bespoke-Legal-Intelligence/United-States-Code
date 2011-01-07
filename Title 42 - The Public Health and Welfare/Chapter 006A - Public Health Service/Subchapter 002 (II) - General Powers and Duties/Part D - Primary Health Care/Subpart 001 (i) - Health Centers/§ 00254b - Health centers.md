@@ -56,7 +56,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) referrals to providers of medical services (including specialty referral when medically indicated) and other health-related services (including substance abuse and mental health services);
 
-&emsp;&emsp;&emsp;(iii) patient case management services (including counseling, referral, and follow-up services) and other services designed to assist health center patients in establishing eligibility for and gaining access to Federal, State, and local programs that provide or financially support the provision of medical, social, housing, educational, or other related services;
+&emsp;&emsp;&emsp;(iii) patient case management services (including counseling, referral, and follow-up services) and other services designed toassist health center patients in establishing eligibility for and gaining access to Federal, State, and local programs that provide or financially support the provision of medical, social, housing, educational, or other related services;
 
 &emsp;&emsp;&emsp;(iv) services that enable individuals to use the services of the health center (including outreach and transportation services and, if a substantial number of the individuals in the population served by a center are of limited English-speaking ability, the services of appropriate personnel fluent in the language spoken by a predominant number of such individuals); and
 
@@ -120,7 +120,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i) take into account comments received by the Secretary from the chief executive officer of a State and local officials in a State; and
 
-&emsp;&emsp;&emsp;(ii) include factors indicative of the health status of a population group or residents of an area, the ability of the residents of an area or of a population group to pay for health services and their accessibility to them, and the availability ofhealth professionals to residents of an area or to a population group.
+&emsp;&emsp;&emsp;(ii) include factors indicative of the health status of a population group or residents of an area, the ability of the residents of an area or of a population group to pay for health services and their accessibility to them, and the availability of health professionals to residents of an area or to a population group.
 
 #### (C) Limitation
 
@@ -190,7 +190,7 @@ For purposes of this section:
 
 #### (B) High poverty area defined
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “high poverty area” means a catchment area which is established in a manner that is consistent with the factors in subsection (k)(3)(J), and the poverty rate of which is greater than the national average povertyrate as determined by the Bureau of the Census.
+&emsp;&emsp;For purposes of subparagraph (A), the term “high poverty area” means a catchment area which is established in a manner that is consistent with the factors in subsection (k)(3)(J), and the poverty rate of which is greater than the national average poverty rate as determined by the Bureau of the Census.
 
 #### (d) Loan guarantee program
 
@@ -216,7 +216,7 @@ For purposes of this section:
 
 #### (C) Publication of guidance
 
-&emsp;&emsp;Prior to considering an application submitted under this subsection, the Secretary shall publish guidelines to provide guidance on the implementation of this section. The Secretary shall make such guidelines available to the universe of parties affected under this subsection, distribute such guidelines to such parties upon the request of such parties, and provide a copy of such guidelines to the appropriate committees of Congress.
+&emsp;&emsp;Prior to considering an application submitted under this subsection, the Secretary shall publish guidelines to provide guidance on the implementation of this section. The Secretary shall make such guidelines available to the universe of parties affected under this subsection, distribute such guidelines tosuch parties upon the request of such parties, and provide a copy of such guidelines to the appropriate committees of Congress.
 
 #### (D) Provision directly to networks or plans
 
@@ -254,7 +254,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) in the hands of an applicant on whose behalf such guarantee is made unless the applicant engaged in fraud or misrepresentation in securing such guarantee; and
 
-&emsp;&emsp;&emsp;&emsp;(II) as to any person (or successor in interest) who makes or contracts tomake a loan to such applicant in reliance thereon unless such person (or successor in interest) engaged in fraud or misrepresentation in making or contracting to make such loan.
+&emsp;&emsp;&emsp;&emsp;(II) as to any person (or successor in interest) who makes or contracts to make a loan to such applicant in reliance thereon unless such person (or successor in interest) engaged in fraud or misrepresentation in making or contracting to make such loan.
 
 #### (iv) Further terms and conditions
 
@@ -278,7 +278,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the requirements of the Credit Reform Act of 1990 <sup>1</sup> (2 U.S.C. 661 et seq.), the Secretary may take such action as may be necessary to prevent a default on a loan guaranteed under this subsection, including the waiver of regulatory conditions, deferral of loan payments, renegotiation of loans, and the expenditure of funds for technical and consultative assistance, for the temporary payment of the interest and principal on such a loan, and for other purposes. Any such expenditure made under the preceding sentence on behalf of a health center or centers shall be made under such terms and conditions as the Secretary shall prescribe, including the implementation of such organizational, operational, and financial reforms as the Secretary determines are appropriate and the disclosure of such financial or other information as the Secretary may require to determine the extent of the implementation of such reforms.
+&emsp;&emsp;Subject to the requirements of the Credit Reform Act of 1990 <sup>1</sup> (2 U.S.C. 661 et seq.), the Secretary may take such action as may be necessary to prevent a default on a loan guaranteed under this subsection, including the waiver of regulatory conditions, deferral of loan payments, renegotiation of loans,and the expenditure of funds for technical and consultative assistance, for the temporary payment of the interest and principal on such a loan, and for other purposes. Any such expenditure made under the preceding sentence on behalf of a health center or centers shall be made under such terms and conditions as the Secretary shall prescribe, including the implementation of such organizational, operational, and financial reforms as the Secretary determines are appropriate and the disclosure of such financial or other information as the Secretary may require to determine the extent of the implementation of such reforms.
 
 #### (B) Foreclosure
 
@@ -544,7 +544,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i)(I) has or will have a contractual or other arrangement with the agency of the State, in which it provides services, which administers or supervises the administration of a State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the payment of all or a part of the center's costs in providing health services to persons who are eligible for medical assistance under such a State plan; and
 
-&emsp;&emsp;&emsp;(II) has or will have a contractual or other arrangement with the State agencyadministering the program under title XXI of such Act (42 U.S.C. 1397aa et seq.) with respect to individuals who are State children's health insurance program beneficiaries; or
+&emsp;&emsp;&emsp;(II) has or will have a contractual or other arrangement with the State agency administering the program under title XXI of such Act (42 U.S.C. 1397aa et seq.) with respect to individuals who are State children's health insurance program beneficiaries; or
 
 &emsp;&emsp;&emsp;(ii) has made or will make every reasonable effort to enter into arrangements described in subclauses (I) and (II) of clause (i);
 
@@ -684,19 +684,27 @@ In making grants under this section, the Secretary shall give special considerat
 
 #### (r) Authorization of appropriations
 
-#### (1) In general
+#### (1) General amounts for grants
 
-&emsp;For the purpose of carrying out this section, in addition to the amounts authorized to be appropriated under subsection (d), there are authorized to be appropriated—
+&emsp;For the purpose of carrying out this section, in addition to the amounts authorized to beappropriated under subsection (d), there is authorized to be appropriated the following:
 
-&emsp;&emsp;(A) $2,065,000,000 for fiscal year 2008;
+&emsp;&emsp;(A) For fiscal year 2010, $2,988,821,592.
 
-&emsp;&emsp;(B) $2,313,000,000 for fiscal year 2009;
+&emsp;&emsp;(B) For fiscal year 2011, $3,862,107,440.
 
-&emsp;&emsp;(C) $2,602,000,000 for fiscal year 2010;
+&emsp;&emsp;(C) For fiscal year 2012, $4,990,553,440.
 
-&emsp;&emsp;(D) $2,940,000,000 for fiscal year 2011; and
+&emsp;&emsp;(D) For fiscal year 2013, $6,448,713,307.
 
-&emsp;&emsp;(E) $3,337,000,000 for fiscal year 2012.
+&emsp;&emsp;(E) For fiscal year 2014, $7,332,924,155.
+
+&emsp;&emsp;(F) For fiscal year 2015, $8,332,924,155.
+
+&emsp;&emsp;(G) For fiscal year 2016, and each subsequent fiscal year, the amount appropriated for the preceding fiscal year adjusted by the product of—
+
+&emsp;&emsp;&emsp;(i) one plus the average percentage increase in costs incurred per patient served; and
+
+&emsp;&emsp;&emsp;(ii) one plus the average percentage increase in the total number of patients served.
 
 #### (2) Special provisions
 
@@ -712,13 +720,77 @@ In making grants under this section, the Secretary shall give special considerat
 
 &emsp;The Secretary shall annually prepare and submit to the appropriate committees of Congress a report concerning the distribution of funds under this section that are provided to meet the health care needs of medically underserved populations, including the homeless, residents of public housing, and migratory and seasonal agricultural workers, and the appropriateness of the delivery systems involved in responding to the needs of the particular populations. Such report shall include an assessment of the relative health care access needs of the targeted populations and the rationale for any substantial changes in the distribution of funds.
 
-(July 1, 1944, ch. 373, title III, §330, as added Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626; amended Pub. L. 107–251, title I, §101, Oct. 26, 2002, 116 Stat. 1622; Pub. L. 108–163, §2(a), Dec. 6, 2003, 117 Stat. 2020; Pub. L. 110–355, §2(a), (c)(1), Oct. 8, 2008, 122 Stat. 3988, 3992.)
+#### (4) Rule of construction with respect to rural health clinics
+
+#### (A) In general
+
+&emsp;&emsp;Nothing in this section shall be construed to prevent a community health center from contracting with a Federally certified rural health clinic (as defined in section 1861(aa)(2) of the Social Security Act \[42 U.S.C. 1395x(aa)(2)\]), a low-volume hospital (as defined for purposes of section 1886 of such Act \[42 U.S.C. 1395ww\]), a critical access hospital, a sole community hospital (as defined for purposes of section 1886(d)(5)(D)(iii) of such Act), or a medicare-dependent share hospital (as defined for purposes of section 1886(d)(5)(G)(iv) of such Act) for the delivery of primary health care services that are available at the clinic or hospital to individuals who would otherwise be eligible for free or reduced cost care if that individual were able to obtain that care at the community health center. Such services may be limited in scope to those primary health care services available in that clinic or hospitals.<sup>3</sup>
+
+#### (B) Assurances
+
+&emsp;&emsp;In order for a clinic or hospital to receive funds under this section through a contract with a community health center under subparagraph (A), such clinic or hospital shall establish policies to ensure—
+
+&emsp;&emsp;&emsp;(i) nondiscrimination based on the ability of a patient to pay; and
+
+&emsp;&emsp;&emsp;(ii) the establishment of a sliding fee scale for low-income patients.
+
+#### (s) Demonstration program for individualized wellness plans
+
+#### (1) In general
+
+&emsp;The Secretary shall establish a pilot program to test the impact of providing at-risk populations who utilize community health centers funded under this section an individualized wellness plan that is designed to reduce risk factors for preventable conditions as identified by a comprehensive risk-factor assessment.
+
+#### (2) Agreements
+
+&emsp;The Secretary shall enter into agreements with not more than 10 community health centers funded under this section to conduct activities under the pilot program under paragraph (1).
+
+#### (3) Wellness plans
+
+#### (A) In general
+
+&emsp;&emsp;An individualized wellness plan prepared under the pilot program under this subsection may include one or more of the following as appropriate to the individual's identified risk factors:
+
+&emsp;&emsp;&emsp;(i) Nutritional counseling.
+
+&emsp;&emsp;&emsp;(ii) A physical activity plan.
+
+&emsp;&emsp;&emsp;(iii) Alcohol and smoking cessation counseling and services.
+
+&emsp;&emsp;&emsp;(iv) Stress management.
+
+&emsp;&emsp;&emsp;(v) Dietary supplements that have health claims approved by the Secretary.
+
+&emsp;&emsp;&emsp;(vi) Compliance assistance provided by a community health center employee.
+
+#### (B) Risk factors
+
+&emsp;&emsp;Wellness plan risk factors shall include—
+
+&emsp;&emsp;&emsp;(i) weight;
+
+&emsp;&emsp;&emsp;(ii) tobacco and alcohol use;
+
+&emsp;&emsp;&emsp;(iii) exercise rates;
+
+&emsp;&emsp;&emsp;(iv) nutritional status; and
+
+&emsp;&emsp;&emsp;(v) blood pressure.
+
+#### (C) Comparisons
+
+&emsp;&emsp;Individualized wellness plans shall make comparisons between the individual involved and a control group of individuals with respect to the risk factors described in subparagraph (B).
+
+#### (4) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated to carry out this subsection, such sums as may be necessary.
+
+(July 1, 1944, ch. 373, title III, §330, as added Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626; amended Pub. L. 107–251, title I, §101, Oct. 26, 2002, 116 Stat. 1622; Pub. L. 108–163, §2(a), Dec. 6, 2003, 117 Stat. 2020; Pub. L. 110–355, §2(a), (c)(1), Oct. 8, 2008, 122 Stat. 3988, 3992; Pub. L. 111–148, title IV, §4206, title V, §5601, Mar. 23, 2010, 124 Stat. 576, 676.)
 
 #### References in Text
 
 The Federal Credit Reform Act of 1990, referred to in subsec. (d)(1)(E), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. The Credit Reform Act of 1990, referred to in subsec. (d)(4)(A), probably means the Federal Credit Reform Act of 1990. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
-The Social Security Act, referred to in subsec. (k)(3)(E)(i), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (k)(3)(E)(i), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Indian Self-Determination Act, referred to in subsec. (k)(3)(H), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
@@ -726,7 +798,7 @@ The Indian Health Care Improvement Act, referred to in subsec. (k)(3)(H), is Pub
 
 #### Prior Provisions
 
-A prior section 254a–1, act July 1, 1944, ch. 373, title III, §328, as added Nov. 10, 1978, Pub. L. 95–626, title I, §114, 92 Stat. 3563; amended Pub. L. 96–88, title V,§509(b), Oct. 17, 1979, 93 Stat. 695, related to hospital-affiliated primary care centers, prior to repeal by Pub. L. 99–117, §12(c), Oct. 7, 1985, 99 Stat. 495.
+A prior section 254a–1, act July 1, 1944, ch. 373, title III, §328, as added Nov. 10, 1978, Pub. L. 95–626, title I, §114, 92 Stat. 3563; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, related to hospital-affiliated primary care centers, prior to repeal by Pub. L. 99–117, §12(c), Oct. 7, 1985, 99 Stat. 495.
 
 A prior section 254b, act July 1, 1944, ch. 373, title III, §329, formerly §310, as added Sept. 25, 1962, Pub. L. 87–692, 76 Stat. 592; amended Aug. 5, 1965, Pub. L. 89–109, §3, 79 Stat. 436; Oct. 15, 1968, Pub. L. 90–574, title II, §201, 82 Stat. 1006; Mar. 12, 1970, Pub. L. 91–209, 84 Stat. 52; June 18, 1973, Pub. L. 93–45, title I, §105, 87 Stat. 91; renumbered §319, July 23, 1974, Pub. L. 93–353, title I, §102(d), 88 Stat. 362; amended July 29, 1975, Pub. L. 94–63, title IV, §401(a), title VII, §701(c), 89 Stat. 334, 352; Apr. 22, 1976, Pub. L. 94–278, title VIII, §801(a), 90 Stat. 414; Aug. 1, 1977, Pub. L. 95–83, title III, §303, 91 Stat. 388; renumbered §329 and amended Nov. 10, 1978, Pub. L. 95–626, title I, §§102(a), 103(a)–(g)(1)(B), (2), (h), (i), 92 Stat. 3551–3555; July 10, 1979, Pub. L. 96–32, §6(a), 93 Stat. 83; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Aug. 13, 1981, Pub. L. 97–35, title IX, §930, 95 Stat. 569; Dec. 21, 1982, Pub. L. 97–375, title I, §107(b), 96 Stat. 1820; Apr. 24, 1986, Pub. L. 99–280, §§6, 7, 100 Stat. 400, 401; Aug. 10, 1988, Pub. L. 100–386, §2, 102 Stat. 919; Nov. 6, 1990, Pub. L. 101–527, §9(b), 104 Stat. 2333; Oct. 27, 1992, Pub. L. 102–531, title III, §309(a), 106 Stat. 3499, related to migrant health centers, prior to the general amendment of this subpart by Pub. L. 104–299, §2.
 
@@ -736,11 +808,27 @@ A prior section 330 of act July 1, 1944, was classified to section 254c of this 
 
 #### Amendments
 
-2008—Subsec. (c)(3). Pub. L. 110–355, §2(c)(1), added par. (3).
+<b>2010</b>—Subsec. (r)(1). Pub. L. 111–148, §5601(a), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “For the purpose of carrying out this section, in addition to the amounts authorized to be appropriated under subsection (d), there are authorized to be appropriated—
+
+&emsp;“(A) $2,065,000,000 for fiscal year 2008;
+
+&emsp;“(B) $2,313,000,000 for fiscal year 2009;
+
+&emsp;“(C) $2,602,000,000 for fiscal year 2010;
+
+&emsp;“(D) $2,940,000,000 for fiscal year 2011; and
+
+&emsp;“(E) $3,337,000,000 for fiscal year 2012.”
+
+Subsec. (r)(4). Pub. L. 111–148, §5601(b), added par. (4).
+
+Subsec. (s). Pub. L. 111–148, §4206, added subsec. (s).
+
+<b>2008</b>—Subsec. (c)(3). Pub. L. 110–355, §2(c)(1), added par. (3).
 
 Subsec. (r)(1). Pub. L. 110–355, §2(a), amended par. (1) generally. Prior to amendment, text read as follows: “For the purpose of carrying out this section, in addition to the amounts authorized to be appropriated under subsection (d) of this section, there are authorized to be appropriated $1,340,000,000 for fiscal year 2002 and such sums as may be necessary for each of the fiscal years 2003 through 2006.”
 
-2003—Subsec. (c)(1)(B). Pub. L. 108–163, §2(a)(2)(A), substituted “plan.” for “plan..” in introductory provisions.
+<b>2003</b>—Subsec. (c)(1)(B). Pub. L. 108–163, §2(a)(2)(A), substituted “plan.” for “plan..” in introductory provisions.
 
 Subsec. (d)(1)(B)(iii)(I). Pub. L. 108–163, §2(a)(2)(B), inserted “or” at end.
 
@@ -782,7 +870,7 @@ Subsec. (r)(2)(B). Pub. L. 108–163, §2(a)(2)(J)(iii), added subpar. (B) ident
 
 Subsec. (s). Pub. L. 108–163, §2(a)(1)(C), amended subsec. (s) to read as if pars. (8) through (11) of section 101 of Pub. L. 107–251 had not been enacted. See 2002 Amendment notes below.
 
-2002—Subsec. (b)(1)(A)(i)(III)(bb). Pub. L. 107–251, §101(1)(A), substituted “appropriate cancer screening” for “screening for breast and cervical cancer”.
+<b>2002</b>—Subsec. (b)(1)(A)(i)(III)(bb). Pub. L. 107–251, §101(1)(A), substituted “appropriate cancer screening” for “screening for breast and cervical cancer”.
 
 Subsec. (b)(1)(A)(ii). Pub. L. 107–251, §101(1)(B), inserted “(including specialty referral when medically indicated)” after “medical services”.
 
@@ -794,7 +882,7 @@ Subsec. (b)(2)(A)(i). Pub. L. 107–251, §101(2)(A), substituted “associated 
 
 Subsec. (b)(2)(B) to (D). Pub. L. 107–251, §101(2)(B), (C), added subpar. (B) and redesignated former subpars. (A) and (B) as (C) and (D), respectively.
 
-Subsec. (c)(1)(B). Pub. L. 107–251, §101(3)(A)(iii), struck out concluding provisions which read as follows: “Any such grant may include the acquisition and leaseof buildings and equipment which may include data and information systems (including the costs of amortizing the principal of, and paying the interest on, loans), and providing training and technical assistance related to the provision of health services on a prepaid basis or under another managed care arrangement, and for other purposes that promote the development of managed care networks and plans.”
+Subsec. (c)(1)(B). Pub. L. 107–251, §101(3)(A)(iii), struck out concluding provisions which read as follows: “Any such grant may include the acquisition and lease of buildings and equipment which may include data and information systems (including the costs of amortizing the principal of, and paying the interest on, loans), and providing training and technical assistance related to the provision of health services on a prepaid basis or under another managed care arrangement, and for other purposes that promote the development of managed care networks and plans.”
 
 Pub. L. 107–251, §101(3)(A)(ii), in introductory provisions, substituted “managed care network or plan.” for “network or plan for the provision of health services, which may include the provision of health services on a prepaid basis or through another managed care arrangement, to some or to all of the individuals which the centers serve”.
 
@@ -890,6 +978,70 @@ Section effective Oct. 1, 1996, see section 5 of Pub. L. 104–299, as amended, 
 
 Section 3(b) of Pub. L. 104–299 provided that: “The Secretary of Health and Human Services shall ensure the continued funding of grants made, or contracts or cooperative agreements entered into, under subpart I of part D of title III of the Public Health Service Act (42 U.S.C. 254b et seq.) (as such subpart existed on the day prior to the date of enactment of this Act \[Oct. 11, 1996\]), until the expiration of the grant period or the term of the contract or cooperative agreement. Such funding shall be continued under the same terms and conditions as were in effect on the date on which the grant, contract or cooperative agreement was awarded, subject to the availability of appropriations.”
 
+#### Negotiated Rulemaking for Development of Methodology and Criteria for Designating Medically Underserved Populations and Health Professions Shortage Areas
+
+Pub. L. 111–148, title V, §5602, Mar. 23, 2010, 124 Stat. 677, provided that:
+
+“(a)
+
+Establishment.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall establish, through a negotiated rulemaking process under subchapter 3 \[III\] of chapter 5 of title 5, United States Code, a comprehensive methodology and criteria for designation of—
+
+&emsp;&emsp;“(A) medically underserved populations in accordance with section 330(b)(3) of the Public Health Service Act (42 U.S.C. 254b(b)(3));
+
+&emsp;&emsp;“(B) health professions shortage areas under section 332 of the Public Health Service Act (42 U.S.C. 254e).
+
+&emsp;“(2)
+
+Factors to consider.—In establishing the methodology and criteria under paragraph (1), the Secretary—
+
+&emsp;&emsp;“(A) shall consult with relevant stakeholders who will be significantly affected by a rule (such as national, State and regional organizations representing affected entities), State health offices, community organizations, health centers and other affected entities, and other interested parties; and
+
+&emsp;&emsp;“(B) shall take into account—
+
+&emsp;&emsp;&emsp;“(i) the timely availability and appropriateness of data used to determine a designation to potential applicants for such designations;
+
+&emsp;&emsp;&emsp;“(ii) the impact of the methodology and criteria on communities of various types and on health centers and other safety net providers;
+
+&emsp;&emsp;&emsp;“(iii) the degree of ease or difficulty that will face potential applicants for such designations in securing the necessary data; and
+
+&emsp;&emsp;&emsp;“(iv) the extent to which the methodology accurately measures various barriers that confront individuals and population groups in seeking health care services.
+
+“(b)
+
+Publication of Notice.—In carrying out the rulemaking process under this subsection, the Secretary shall publish the notice provided for under section 564(a) of title 5, United States Code, by not later than 45 days after the date of the enactment of this Act \[Mar. 23, 2010\].
+
+“(c)
+
+Target Date for Publication of Rule.—As part of the notice under subsection (b), and for purposes of this subsection, the ‘target date for publication’, as referred to in section 564(a)(5) of title 5, United Sates \[sic\] Code, shall be July 1, 2010.
+
+“(d)
+
+Appointment of Negotiated Rulemaking Committee and Facilitator.—The Secretary shall provide for—
+
+&emsp;“(1) the appointment of a negotiated rulemaking committee under section 565(a) of title 5, United States Code, by not later than 30 days after the end of the comment period provided for under section 564(c) of such title; and
+
+&emsp;“(2) the nomination of a facilitator under section 566(c) of such title 5 by not later than 10 days after the date of appointment of the committee.
+
+“(e)
+
+Preliminary Committee Report.—The negotiated rulemaking committee appointed under subsection (d) shall report to the Secretary, by not later than April 1, 2010, regarding the committee's progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus is likely to occur before one month before the target date for publication of the rule. If the committee reports that the committee has failed to make significant progress toward such consensus or is unlikely to reach such consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this section through such other methods as the Secretary may provide.
+
+“(f)
+
+Final Committee Report.—If the committee is not terminated under subsection (e), the rulemaking committee shall submit a report containing a proposed rule by not later than one month before the target publication date.
+
+“(g)
+
+Interim Final Effect.—The Secretary shall publish a rule under this section in the Federal Register by not later than the target publication date. Such rule shall be effective and final immediately on an interim basis, but is subject to change and revision after public notice and opportunity for a period (of not less than 90 days) for public comment. In connection with such rule, the Secretary shall specify the process for the timely review and approval of applications for such designations pursuant to such rules and consistent with this section.
+
+“(h)
+
+Publication of Rule After Public Comment.—The Secretary shall provide for consideration of such comments and republication of such rule by not later than 1 year after the target publication date.”
+
 #### Studies Relating to Community Health Centers
 
 Pub. L. 110–355, §2(b)(1)–(3), Oct. 8, 2008, 122 Stat. 3988, 3989, provided that:
@@ -968,7 +1120,7 @@ Dissemination.—The Administrator of the Health Resources and Services Administ
 
 #### Guarantee Study
 
-Pub. L. 107–251, title V, §501, Oct. 26, 2002, 116 Stat. 1664, as amended by Pub. L. 108–163, §2(n)(2), Dec. 6, 2003, 117 Stat. 2023, provided that: “The Secretary of Health and Human Services shall conduct a study regarding the ability of the Department of Health and Human Services to provide for guarantees of solvency for managed care networks or plans involving health centers receiving funding under section 330 of the Public Health Service Act \[this section\]. The Secretary shall prepare and submit a report to the appropriate Committees of Congress regarding such ability not later than 2 years after the date of enactment of the Health Care Safety Net Amendments of 2002 \[Oct. 26, 2002\].”
+Pub. L. 107–251, title V, §501, Oct. 26, 2002, 116 Stat. 1664, as amended by Pub. L. 108–163, §2(n)(2), Dec. 6, 2003, 117 Stat. 2023, provided that: “The Secretary of Health and Human Services shall conduct a study regarding the ability of the Department of Health and Human Services to provide for guarantees of solvency for managed care networks or plans involving health centers receiving funding under section 330 of the Public Health Service Act \[this section\]. The Secretary shall prepare and submit a report to the appropriate Committees of Congress regarding such ability not later than 2 years after the date of enactment of theHealth Care Safety Net Amendments of 2002 \[Oct. 26, 2002\].”
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 
@@ -976,7 +1128,7 @@ Section 4(c) of Pub. L. 104–299 provided that: “Whenever any reference is ma
 
 #### Legislative Proposal for Changes Conforming to Pub. L. 104–299
 
-Section 4(e) of Pub. L. 104–299 provided that: “After consultation with the appropriate committees of theCongress, the Secretary of Health and Human Services shall prepare and submit to the Congress a legislative proposal in the form of an implementing bill containing technical and conforming amendments to reflect the changes made by this Act \[see Short Title of 1996 Amendments note set out under section 201 of this title\].”
+Section 4(e) of Pub. L. 104–299 provided that: “After consultation with the appropriate committees of the Congress, the Secretary of Health and Human Services shall prepare and submit to the Congress a legislative proposal in the form of an implementing bill containing technical and conforming amendments to reflect the changes made by this Act \[see Short Title of 1996 Amendments note set out under section 201 of this title\].”
 
 #### Medicare Demonstration To Test Medical Homes in Federally Qualified Health Centers
 
@@ -1003,4 +1155,6 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “an”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “hospital”.</i>
 

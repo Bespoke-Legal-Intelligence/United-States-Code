@@ -74,7 +74,7 @@
 
 &emsp;For purposes of this subsection, the term “mobile home” has the meaning given such term in the law of the State in which the mobile home is located.
 
-(Pub. L. 90–448, title XIII, §1315, Aug. 1, 1968, 82 Stat. 580; Pub. L. 91–152, title IV, §410(b), Dec. 24, 1969, 83 Stat. 397; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L.103–325, title V, §§541, 580, Sept. 23, 1994, 108 Stat. 2268, 2285; Pub. L. 108–264, title I, §108, June 30, 2004, 118 Stat. 724.)
+(Pub. L. 90–448, title XIII, §1315, Aug. 1, 1968, 82 Stat. 580; Pub. L. 91–152, title IV, §410(b), Dec. 24, 1969, 83 Stat. 397; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §§541, 580, Sept. 23, 1994, 108 Stat. 2268, 2285; Pub. L. 108–264, title I, §108, June 30, 2004, 118 Stat. 724.)
 
 #### References in Text
 
@@ -84,17 +84,17 @@ The Flood Disaster Protection Act of 1973, referred to in subsec. (c)(1), is Pub
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–264 added subsec. (c).
+<b>2004</b>—Subsec. (c). Pub. L. 108–264 added subsec. (c).
 
-1994—Subsec. (a)(1). Pub. L. 103–325, §541(1), designated existing provisions as subsec. (a)(1) and inserted headings.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–325, §541(1), designated existing provisions as subsec. (a)(1) and inserted headings.
 
 Subsec. (a)(2). Pub. L. 103–325, §580, added par. (2).
 
 Subsec. (b). Pub. L. 103–325, §541(2), added subsec. (b).
 
-1983—Pub. L. 98–181 substituted “Director” for “Secretary”.
+<b>1983</b>—Pub. L. 98–181 substituted “Director” for “Secretary”.
 
-1969—Pub. L. 91–152 substituted provisions prohibiting new flood insurance coverage after Dec. 31, 1971, unless adequate land use measures have been adopted, for provisions prohibiting such coverage after June 30, 1970, unless permanent land use measures have been adopted.
+<b>1969</b>—Pub. L. 91–152 substituted provisions prohibiting new flood insurance coverage after Dec. 31, 1971, unless adequate land use measures have been adopted, for provisions prohibiting such coverage after June 30, 1970, unless permanent land use measures have been adopted.
 
 #### Transfer of Functions
 

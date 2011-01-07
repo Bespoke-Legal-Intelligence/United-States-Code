@@ -50,7 +50,7 @@ The Director of NIH shall provide for a program under subsection (a)(1) of this 
 
 &emsp;The Coordinating Committee shall consist of not more than 15 members to be appointed by the Secretary, of which—
 
-&emsp;&emsp;(A) 2/3 of such members shall represent governmental agencies, including the directors or their designees of each of the national research institutes involved in research with respect to muscular dystrophy and representatives of all other Federal departments and agencies whose programs involve health functions or responsibilities relevant to such diseases, including the Centers for Disease Control and Prevention, the Health Resources and Services Administration and the Food and Drug Administration and representatives of other governmental agenciesthat serve children with muscular dystrophy, such as the Department of Education; and
+&emsp;&emsp;(A) 2/3 of such members shall represent governmental agencies, including the directors or their designees of each of the national research institutes involved in research with respect to muscular dystrophy and representatives of all other Federal departments and agencies whose programs involve health functions or responsibilities relevant to such diseases, including the Centers for Disease Control and Prevention, the Health Resources and Services Administration and the Food and Drug Administration and representatives of other governmental agencies that serve children with muscular dystrophy, such as the Department of Education; and
 
 &emsp;&emsp;(B) 1/3 of such members shall be public members, including a broad cross section of persons affected with muscular dystrophies including parents or legal guardians, affected individuals, researchers, and clinicians.
 
@@ -60,7 +60,7 @@ The Director of NIH shall provide for a program under subsection (a)(1) of this 
 
 #### (A) In general
 
-&emsp;&emsp;With respect to muscular dystrophy, the Chair of the Coordinating Committee shall serve as the principal advisor to the Secretary, the Assistant Secretary for Health, and the Director of NIH, and shall provide advice to the Director of the Centers for Disease Control and Prevention, the Commissioner of Food and Drugs, and to the heads of other relevant agencies. The Coordinating Committee shall select the Chair for a term not to exceed 2 years.
+&emsp;&emsp;With respect to muscular dystrophy, the Chair of the Coordinating Committee shallserve as the principal advisor to the Secretary, the Assistant Secretary for Health, and the Director of NIH, and shall provide advice to the Director of the Centers for Disease Control and Prevention, the Commissioner of Food and Drugs, and to the heads of other relevant agencies. The Coordinating Committee shall select the Chair for a term not to exceed 2 years.
 
 #### (B) Appointment
 
@@ -120,7 +120,7 @@ A prior section 283g, act July 1, 1944, ch. 373, title IV, §404E, as added Pub.
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–361, §2(b)(1), inserted “the National Heart, Lung, and Blood Institute,” after “the Eunice Kennedy Shriver National Institute of Child Health and Human Development,”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–361, §2(b)(1), inserted “the National Heart, Lung, and Blood Institute,” after “the Eunice Kennedy Shriver National Institute of Child Health and Human Development,”.
 
 Subsec. (b)(1). Pub. L. 110–361, §2(b)(2), inserted at end “Such centers of excellence shall be known as the ‘Paul D. Wellstone Muscular Dystrophy Cooperative Research Centers’.”
 
@@ -128,7 +128,7 @@ Subsec. (f). Pub. L. 110–361, §2(a), struck out subsec. (f) which related to 
 
 Subsec. (g). Pub. L. 110–361, §2(a), (b)(3), added subsec. (g) and redesignated former subsec. (g) as (f).
 
-2007—Pub. L. 109–482, §104(b)(1)(A)(ii), which directed amendment of subsec. (b) by striking subsec. (f) and redesignating subsec. (g) as (f), could not literally be executed and was not executed in view of amendments by Pub. L. 110–361. See 2008 Amendment notes above.
+<b>2007</b>—Pub. L. 109–482, §104(b)(1)(A)(ii), which directed amendment of subsec. (b) by striking subsec. (f) and redesignating subsec. (g) as (f), could not literally be executed and was not executed in view of amendments by Pub. L. 110–361. See 2008 Amendment notes above.
 
 Subsec. (a)(1). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
 

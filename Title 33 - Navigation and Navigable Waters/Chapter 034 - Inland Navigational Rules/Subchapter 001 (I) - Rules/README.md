@@ -5,8 +5,4 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [Part A - General](Part%20A%20-%20General/README.md)
-- [Part B - Steering and Sailing Rules](Part%20B%20-%20Steering%20and%20Sailing%20Rules/README.md)
-- [Part C - Lights and Shapes](Part%20C%20-%20Lights%20and%20Shapes/README.md)
-- [Part D - Sound and Light Signals](Part%20D%20-%20Sound%20and%20Light%20Signals/README.md)
-- [Part E - Exemptions](Part%20E%20-%20Exemptions/README.md)
+- [&sect; 02001 to 2038 - Repealed. Pub. L. 108&#8211;293, title III, &sect;303(a), (c), Aug. 9, 2004, 118 Stat. 1042](%C2%A7%2002001%20to%202038%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93293%2C%20title%20III%2C%20%C2%A7303%28a%29%2C%20%28c%29%2C%20Aug.%209%2C%202004%2C%20118%20Stat.%201042.md)

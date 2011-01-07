@@ -22,7 +22,7 @@ Section was not enacted as part of the Marine Protection, Research, and Sanctuar
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–688, §1003(a)(1), (3)–(5), redesignated subsec. (c) as (a), substituted “Notwithstanding section 104B of the Marine Protection, Research, and Sanctuaries Act of 1972 after” for “After”, and “title I of such Act” for “such title I”. Former subsec. (a), which related to cessation of dumping, with exceptions, was struck out.
+<b>1988</b>—Subsec. (a). Pub. L. 100–688, §1003(a)(1), (3)–(5), redesignated subsec. (c) as (a), substituted “Notwithstanding section 104B of the Marine Protection, Research, and Sanctuaries Act of 1972 after” for “After”, and “title I of such Act” for “such title I”. Former subsec. (a), which related to cessation of dumping, with exceptions, was struck out.
 
 Subsec. (b). Pub. L. 100–688, §1003(a)(2), (7), added subsec. (b). Former subsec. (b), which related to issuance of permits for dumping of industrial waste, was struck out.
 
@@ -30,7 +30,7 @@ Subsec. (c). Pub. L. 100–688, §1003(a)(3), redesignated subsec. (c) as (a).
 
 Subsec. (d). Pub. L. 100–688, §1003(a)(6), struck out subsec. (d) which related to definitions.
 
-1980—Subsec. (a). Pub. L. 96–572, §2(1), inserted applicability to industrial waste, exceptions respecting subsecs. (b) and (c) of this section, and conforming changes in phraseology.
+<b>1980</b>—Subsec. (a). Pub. L. 96–572, §2(1), inserted applicability to industrial waste, exceptions respecting subsecs. (b) and (c) of this section, and conforming changes in phraseology.
 
 Subsec. (b). Pub. L. 96–572, §2(2), added subsec. (b). Former subsec. (b), defining “sewage sludge”, was struck out.
 

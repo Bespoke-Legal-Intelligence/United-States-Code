@@ -28,5 +28,5 @@ The Department of Transportation Act, referred to in text, is Pub. L. 89–670, 
 
 #### Amendments
 
-2005—Pub. L. 109–59 substituted “Federal Motor Carrier Safety Administration” for “Federal Highway Administration”.
+<b>2005</b>—Pub. L. 109–59 substituted “Federal Motor Carrier Safety Administration” for “Federal Highway Administration”.
 

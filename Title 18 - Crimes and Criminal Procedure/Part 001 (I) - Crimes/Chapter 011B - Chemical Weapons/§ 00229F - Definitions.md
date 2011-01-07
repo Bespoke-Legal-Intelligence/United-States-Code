@@ -14,7 +14,7 @@ Chemical weapon.—The term “chemical weapon” means the following, together 
 
 &emsp;(2)
 
-Chemical weapons convention; convention.—The terms “Chemical Weapons Convention” and “Convention” mean the Convention on the Prohibition of the Development, Production, Stockpiling and Use of ChemicalWeapons and on Their Destruction, opened for signature on January 13, 1993.
+Chemical weapons convention; convention.—The terms “Chemical Weapons Convention” and “Convention” mean the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, opened for signature on January 13, 1993.
 
 &emsp;(3)
 
@@ -90,5 +90,7 @@ Paragraphs (17), (37), and (41) of section 40102 of title 49, referred to in par
 
 #### Amendments
 
-2006—Par. (9)(C). Pub. L. 109–304 substituted “section 70502(b) of title 46, United States Code” for “section 3(b) of the Maritime Drug Enforcement Act, as amended (46 U.S.C., App. sec. 1903(b))”.
+<b>2006</b>—Par. (9)(C). Pub. L. 109–304 substituted “section 70502(b) of title 46, United States Code” for “section 3(b) of the Maritime Drug Enforcement Act, as amended (46 U.S.C., App. sec. 1903(b))”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

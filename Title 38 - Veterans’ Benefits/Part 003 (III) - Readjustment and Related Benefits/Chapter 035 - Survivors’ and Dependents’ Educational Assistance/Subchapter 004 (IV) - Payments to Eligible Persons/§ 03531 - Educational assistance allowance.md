@@ -4,21 +4,21 @@
 
 (b) The educational assistance allowance of an eligible person pursuing a program of education at an educational institution shall be paid as provided in chapter 36 of this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1197, §1731; Pub. L. 89–358, §4(<i>l</i>), Mar. 3, 1966, 80 Stat. 24; Pub. L. 92–540, title III, §312, Oct. 24, 1972, 86 Stat. 1083; Pub. L. 94–502, title III, §§309(c), 310(16), Oct. 15, 1976, 90 Stat. 2391, 2392; Pub. L. 96–466,title III, §329, Oct. 17, 1980, 94 Stat. 2197; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3531, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1197, §1731; Pub. L. 89–358, §4(<i>l</i>), Mar. 3, 1966, 80 Stat. 24; Pub. L. 92–540, title III, §312, Oct. 24, 1972, 86 Stat. 1083; Pub. L. 94–502, title III, §§309(c), 310(16), Oct. 15, 1976, 90 Stat. 2391, 2392; Pub. L. 96–466, title III, §329, Oct. 17, 1980, 94 Stat. 2197; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3531, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 1731 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1731 of this title as this section.
 
-1989—Subsec. (a). Pub. L. 101–237 substituted “Secretary” for “Administrator”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–237 substituted “Secretary” for “Administrator”.
 
-1980—Subsec. (b). Pub. L. 96–466 substituted provisions that the educational assistance allowance of an eligible person pursuing a program of education at an educational institution be paid as provided in chapter 36 of this title for provisions that no educational assistance allowance be paid on behalf of an eligible person enrolled in a course in an educational institution which does not lead to a standard college degree for any period until the Administrator received from the eligible person a certification as to the person's actual attendance during such period and from the educational institution a certification, or an endorsement on the eligible person's certificate, that the person was enrolled in and pursuing a course of education during such period.
+<b>1980</b>—Subsec. (b). Pub. L. 96–466 substituted provisions that the educational assistance allowance of an eligible person pursuing a program of education at an educational institution be paid as provided in chapter 36 of this title for provisions that no educational assistance allowance be paid on behalf of an eligible person enrolled in a course in an educational institution which does not lead to a standard college degree for any period until the Administrator received from the eligible person a certification as to the person's actual attendance during such period and from the educational institution a certification, or an endorsement on the eligible person's certificate, that the person was enrolled in and pursuing a course of education during such period.
 
-1976—Subsec. (a). Pub. L. 94–502, §309(c), substituted “chapter 36” for “section 1780”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–502, §309(c), substituted “chapter 36” for “section 1780”.
 
 Subsec. (b). Pub. L. 94–502, §310(16), substituted “the person's” for “his” and “the person” for “he”.
 
-1972—Subsec. (a). Pub. L. 92–540, §312(1), inserted provision requiring the Administrator to pay in accordance with the provisions of section 1780 of this title.
+<b>1972</b>—Subsec. (a). Pub. L. 92–540, §312(1), inserted provision requiring the Administrator to pay in accordance with the provisions of section 1780 of this title.
 
 Subsec. (b). Pub. L. 92–540, §312(2), (3), redesignated subsec. (d) as (b). Former subsec. (b), which provided for the payment of the educational assistance allowance, pursuant to section 1732 of this title, to the eligible person only for a period of his enrollment as approved by the Administrator subject to certain limitations, was struck out.
 
@@ -28,7 +28,7 @@ Subsec. (d). Pub. L. 92–540, §312(3), redesignated subsec. (d) as (b).
 
 Subsec. (e). Pub. L. 92–540, §312(2), struck out subsec. (e) which related to the prompt payment by the Administrator of the allowance to the eligible person.
 
-1966—Subsec. (c). Pub. L. 89–358 added subsec. (c) and struck out former subsec. (c) which conditioned payment of allowance to eligible person taking college degree course on receipt from such person of certification of enrollment and pursuit of such course and from educational institution certification or indorsement on student's certification of enrollment and pursuit of such course, prescribed such conditions for eligible person taking a course not leading to college degree as are now incorporated in subsec. (d) of this section, and required payments to be made within twenty days after receipt of requisite certifications, now incorporated in subsec. (e) of this section.
+<b>1966</b>—Subsec. (c). Pub. L. 89–358 added subsec. (c) and struck out former subsec. (c) which conditioned payment of allowance to eligible person taking college degree course on receipt from such person of certification of enrollment and pursuit of such course and from educational institution certification or indorsement on student's certification of enrollment and pursuit of such course, prescribed such conditions for eligible person taking a course not leading to college degree as are now incorporated in subsec. (d) of this section, and required payments to be made within twenty days afterreceipt of requisite certifications, now incorporated in subsec. (e) of this section.
 
 Subsec. (d). Pub. L. 89–358 redesignated provisions of former subsec. (c)(1)(B), (2) as subsec. (d).
 

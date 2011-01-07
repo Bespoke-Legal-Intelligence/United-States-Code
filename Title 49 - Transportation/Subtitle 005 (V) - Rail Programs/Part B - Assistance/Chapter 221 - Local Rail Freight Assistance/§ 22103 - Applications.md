@@ -48,7 +48,7 @@ In subsection (b)(5), the words “applying for assistance” are omitted as unn
 
 #### Amendments
 
-1995—Subsec. (b)(1). Pub. L. 104–88 substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
+<b>1995</b>—Subsec. (b)(1). Pub. L. 104–88 substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
 
 #### Effective Date of 1995 Amendment
 

@@ -26,7 +26,7 @@ If—
 
 #### (2) Multiple violations
 
-&emsp;In determining the penalty under subsection (a) on any person, paragraph (1) shall be applied by increasing the amount in paragraph (1)(A) by the product of such amount and thenumber of prior penalties (if any) imposed by this section on such person (or a related person or any predecessor of such person or related person).
+&emsp;In determining the penalty under subsection (a) on any person, paragraph (1) shall be applied by increasing the amount in paragraph (1)(A) by the product of such amount and the number of prior penalties (if any) imposed by this section on such person (or a related person or any predecessor of such person or related person).
 
 #### (c) Definitions
 
@@ -60,7 +60,7 @@ The date of the enactment of this subsection, referred to in subsec. (e), is the
 
 #### Amendments
 
-2004—Subsec. (a)(2). Pub. L. 108–357, §856(a), which directed amendment of par. (2) by striking “or”, was executed by striking “or” at the end.
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–357, §856(a), which directed amendment of par. (2) by striking “or”, was executed by striking “or” at the end.
 
 Subsec. (a)(3). Pub. L. 108–357, §856(b), substituted “alters, chemically or otherwise, or attempts to so alter,” for “alters, or attempts to alter,”.
 
@@ -70,9 +70,9 @@ Subsec. (a)(4). Pub. L. 108–357, §856(a), added par. (4).
 
 Subsec. (e). Pub. L. 108–357, §855(a), added subsec. (e).
 
-1997—Subsec. (c)(1). Pub. L. 105–34 inserted “or kerosene” after “diesel fuel”.
+<b>1997</b>—Subsec. (c)(1). Pub. L. 105–34 inserted “or kerosene” after “diesel fuel”.
 
-1996—Pub. L. 104–188 renumbered section 6714 of this title as this section.
+<b>1996</b>—Pub. L. 104–188 renumbered section 6714 of this title as this section.
 
 #### Effective Date of 2004 Amendment
 

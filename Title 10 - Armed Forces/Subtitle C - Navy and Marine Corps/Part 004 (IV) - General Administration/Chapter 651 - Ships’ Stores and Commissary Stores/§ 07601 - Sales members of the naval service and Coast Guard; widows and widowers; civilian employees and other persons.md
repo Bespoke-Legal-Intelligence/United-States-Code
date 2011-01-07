@@ -38,7 +38,7 @@ In subsection (b) the word “outside” is substituted for the words “beyond 
 
 #### Amendments
 
-1985—Pub. L. 99–145, §1301(c)(3)(B), inserted “the” before “naval service” and “and widowers” after “widows” in section catchline.
+<b>1985</b>—Pub. L. 99–145, §1301(c)(3)(B), inserted “the” before “naval service” and “and widowers” after “widows” in section catchline.
 
 Subsec. (a). Pub. L. 99–145, §1301(c)(3)(A), inserted “and widowers” after “widows”.
 

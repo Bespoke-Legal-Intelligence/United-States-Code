@@ -10,7 +10,7 @@ Sections 1 to 6 and 8 of this title, referred to in text, were repealed by act J
 
 #### Amendments
 
-1954—Act Sept. 3, 1954, amended section to make it clear that the rights and obligations of companies which accepted benefits under former sections 1 to 6 and 8 of this title, which have been repealed, continue irrespective of the repeal.
+<b>1954</b>—Act Sept. 3, 1954, amended section to make it clear that the rights and obligations of companies which accepted benefits under former sections 1 to 6 and 8 of this title, which have been repealed, continue irrespective of the repeal.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

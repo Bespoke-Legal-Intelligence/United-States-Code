@@ -72,7 +72,7 @@ Quarterly, semiannual, lump-sum, and other methods of payment.—
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—Pursuant to section 108(b) of the Indian Self-Determination and Education Assistance Act, and notwithstanding any other provision of law, for each fiscal year covered by this Contract, the Secretary shall make available to the Contractor the funds specified for the fiscal year under the annual fundingagreement incorporated by reference pursuant to subsection (f)(2) by paying to the Contractor, on a quarterly basis, one-quarter of the total amount provided for in the annual funding agreement for that fiscal year, in a lump-sum payment or as semiannual payments, or any other method of payment authorized by law, in accordance with such method as may be requested by the Contractor and specified in the annual funding agreement.
+In general.—Pursuant to section 108(b) of the Indian Self-Determination and Education Assistance Act, and notwithstanding any other provision of law, for each fiscal year covered by this Contract, the Secretary shall make available to the Contractor the funds specified for the fiscal year under the annual funding agreement incorporated by reference pursuant to subsection (f)(2) by paying to the Contractor, on a quarterly basis, one-quarter of the total amount provided for in the annual funding agreement for that fiscal year, in a lump-sum payment or as semiannual payments, or any other method of payment authorized by law, in accordance with such method as may be requested by the Contractor and specified in the annual funding agreement.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -134,7 +134,7 @@ Screener identification card.—A screener identification card (General Services
 
 &emsp;&emsp;“(G)
 
-Capital equipment.—The Contractor shall determine the capital equipment, leases, rentals, property, or services the Contractor requires to perform the obligations of the Contractor under this subsection, and shall acquire and maintain records of such capital equipment, property rentals, leases, property, or services through applicable procurement procedures of the Contractor.
+Capital equipment.—The Contractor shall determine the capital equipment, leases, rentals, property, or services the Contractor requires to perform the obligations of the Contractor under this subsection, and shall acquire and maintainrecords of such capital equipment, property rentals, leases, property, or services through applicable procurement procedures of the Contractor.
 
 &emsp;“(9)
 
@@ -232,7 +232,7 @@ Amount of funds.—The total amount of funds to be paid under this Contract purs
 
 &emsp;“(3)
 
-Contracted programs.—Subject to the availability of appropriated funds, the Contractor shall administer the programs, services, functions, and activities identified in this Contract and funded through the annual funding agreement under subsection (f)(2).
+Contracted programs.—Subject to the availability of appropriated funds, the Contractor shall administer the programs, services, functions, and activities identified in thisContract and funded through the annual funding agreement under subsection (f)(2).
 
 &emsp;“(4)
 
@@ -240,7 +240,7 @@ Trust services for individual indians.—
 
 &emsp;&emsp;“(A)
 
-In general.—To the extent that the annual funding agreement provides funding for the delivery of trust services to individual Indians that have been provided by the Secretary, the Contractor shall maintain at least the same level of service as the Secretary provided for such individual Indians,subject to the availability of appropriated funds for such services.
+In general.—To the extent that the annual funding agreement provides funding for the delivery of trust services to individual Indians that have been provided by the Secretary, the Contractor shall maintain at least the same level of service as the Secretary provided for such individual Indians, subject to the availability of appropriated funds for such services.
 
 &emsp;&emsp;“(B)
 
@@ -330,13 +330,13 @@ Incorporation by reference.—The annual funding agreement is hereby incorporate
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in section 1(a), (b)(6)(B)(i), (11) of the provisions of subsec. (c) setting out the model agreement, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to this subchapter (§450 et seq.). Title I of the Act is classified principally to this part (§450f et seq.). Section 102(a) of the Act is classified to section 450f(a) of this title. Section 108(b) of the Act is classified to subsec. (b) of this section. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in section 1(a), (b)(6)(B)(i), (11) of the provisions of subsec. (c) setting out the model agreement, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203,which is classified principally to this subchapter (§450 et seq.). Title I of the Act is classified principally to this part (§450f et seq.). Section 102(a) of the Act is classified to section 450f(a) of this title. Section 108(b) of the Act is classified to subsec. (b) of this section. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
-The Indian Civil Rights Act of 1968, referred to in section 1(b)(13) of the provisions of subsec. (c) setting out the model agreement, is title II of Pub. L. 90–284, Apr.11, 1968, 82 Stat. 77, as amended, which is classified generally to subchapter I (§1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Tables.
+The Indian Civil Rights Act of 1968, referred to in section 1(b)(13) of the provisions of subsec. (c) setting out the model agreement, is title II of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 77, which is classified generally to subchapter I (§1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Tables.
 
 The Act of July 3, 1952, referred to in section 1(b)(15)(A) of the provisions of subsec. (c) setting out the model agreement, is act July 3, 1952, ch. 549, 66 Stat. 323, which enacted section 82a of this title and provisions set out as a note under section 82a of this title.
 
-The Indian Health Care Improvement Act, referred to in section 1(d)(2) of the provisions of subsec. (c) setting out the model agreement, is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended, which is classified principally to chapter 18 (§1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+The Indian Health Care Improvement Act, referred to in section 1(d)(2) of the provisions of subsec. (c) setting out the model agreement, is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, which is classified principally to chapter 18 (§1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 #### Prior Provisions
 
@@ -344,7 +344,7 @@ A prior section 450<i>l</i>, Pub. L. 93–638, title I, §108, Jan. 4, 1975, 88 
 
 #### Amendments
 
-2000—Subsec. (c). Pub. L. 106–568 substituted “, section 16 of the Act of June 18, 1934” for “and section 16 of the Act of June 18, 1934” and “and the Act of July 3, 1952 (25 U.S.C. 82a), shall not apply” for “shall not apply” in section 1(b)(15)(A) of the provisions setting out the model agreement.
+<b>2000</b>—Subsec. (c). Pub. L. 106–568 substituted “, section 16 of the Act of June 18, 1934” for “and section 16 of the Act of June 18, 1934” and “and the Act of July 3, 1952 (25 U.S.C. 82a), shall not apply” for “shall not apply” in section 1(b)(15)(A) of the provisions setting out the model agreement.
 
 #### Quarterly Payments of Funds to Tribes
 

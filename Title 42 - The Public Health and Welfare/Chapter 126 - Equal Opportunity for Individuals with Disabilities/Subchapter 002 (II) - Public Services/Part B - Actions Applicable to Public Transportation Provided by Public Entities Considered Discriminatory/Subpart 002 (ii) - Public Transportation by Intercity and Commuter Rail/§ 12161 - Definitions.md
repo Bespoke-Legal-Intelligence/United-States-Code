@@ -44,7 +44,7 @@ In pars. (1) and (2), “section 24102(4) of title 49” substituted for “sect
 
 #### Amendments
 
-1996—Par. (2). Pub. L. 104–287 substituted “commuter rail passenger transportation” for “commuter service”.
+<b>1996</b>—Par. (2). Pub. L. 104–287 substituted “commuter rail passenger transportation” for “commuter service”.
 
 #### Effective Date
 

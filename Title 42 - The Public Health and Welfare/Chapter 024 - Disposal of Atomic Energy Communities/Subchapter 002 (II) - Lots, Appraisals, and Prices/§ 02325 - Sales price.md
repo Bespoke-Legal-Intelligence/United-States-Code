@@ -10,13 +10,13 @@ In all other cases the sales price to priority purchasers shall be the appraised
 
 #### (c) Appraised value of interest in commercial property
 
-The appraised value of the Government's interest in commercial property shall, in the cases where renegotiation of the lease is requested by the lessee under the provisions of section 2201(e) of this title be based upon the renegotiated lease if any is agreed on. Where such renegotiationsare requested, the sales proceedings shall not be initiated until the completion of the renegotiation.
+The appraised value of the Government's interest in commercial property shall, in the cases where renegotiation of the lease is requested by the lessee under the provisions of section 2201(e) of this title be based upon the renegotiated lease if any is agreed on. Where such renegotiations are requested, the sales proceedings shall not be initiated until the completion of the renegotiation.
 
 (Aug. 4, 1955, ch. 543, ch. 3, §35, 69 Stat. 474; Pub. L. 85–162, title II, §202, Aug. 21, 1957, 71 Stat. 410.)
 
 #### Amendments
 
-1957—Subsec. (c). Pub. L. 85–162 added subsec. (c).
+<b>1957</b>—Subsec. (c). Pub. L. 85–162 added subsec. (c).
 
 #### Report With Respect to Renegotiations, Reappraisals, and Sales Proceedings
 

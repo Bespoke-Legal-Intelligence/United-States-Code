@@ -38,7 +38,7 @@ The Administrator shall provide Federal leadership necessary to prepare for, pro
 
 &emsp;&emsp;(A) mitigation, by taking sustained actions to reduce or eliminate long-term risks to people and property from hazards and their effects;
 
-&emsp;&emsp;(B) preparedness, by planning, training, and building the emergency management profession to prepare effectively for, mitigate against, respond to, and recover from any hazard;
+&emsp;&emsp;(B) preparedness, by planning, training, and building the emergency managementprofession to prepare effectively for, mitigate against, respond to, and recover from any hazard;
 
 &emsp;&emsp;(C) response, by conducting emergency operations to save lives and property through positioning emergency equipment, personnel, and supplies, through evacuating potential victims, through providing food, water, shelter, and medical care to those in need, and through restoring critical public services; and
 

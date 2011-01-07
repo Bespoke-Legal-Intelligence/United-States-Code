@@ -64,7 +64,7 @@ For purposes of this part, except as otherwise provided in this section, the ter
 
 #### (c) Qualified hospital bond
 
-For purposes of this section, the term “qualified hospital bond” means any bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used with respect to a hospital.
+For purposes of this section, the term “qualified hospital bond” means any bond issued aspart of an issue 95 percent or more of the net proceeds of which are to be used with respect to a hospital.
 
 #### (d) Restrictions on bonds used to provide residential rental housing for family units
 
@@ -146,13 +146,13 @@ A prior section 145, act Aug. 16, 1954, ch. 736, 68A Stat. 42, made a cross refe
 
 #### Amendments
 
-1997—Subsec. (b)(5). Pub. L. 105–34 added par. (5).
+<b>1997</b>—Subsec. (b)(5). Pub. L. 105–34 added par. (5).
 
-1990—Subsec. (d)(4). Pub. L. 101–508 substituted “section 47(c)(1)(C)” for “section 48(g)(1)(C)” wherever appearing and “section 47(c)(1)(C)(i)” for “section 48(g)(1)(C)(i)”.
+<b>1990</b>—Subsec. (d)(4). Pub. L. 101–508 substituted “section 47(c)(1)(C)” for “section 48(g)(1)(C)” wherever appearing and “section 47(c)(1)(C)(i)” for “section 48(g)(1)(C)(i)”.
 
-1989—Subsec. (d)(3), (4). Pub. L. 101–239 added par. (3) and redesignated former par. (3) as (4).
+<b>1989</b>—Subsec. (d)(3), (4). Pub. L. 101–239 added par. (3) and redesignated former par. (3) as (4).
 
-1988—Subsec. (b)(2)(B)(ii)(I). Pub. L. 100–647, §1013(a)(6), substituted “section 103(b)(2)” for “section 103(b)”.
+<b>1988</b>—Subsec. (b)(2)(B)(ii)(I). Pub. L. 100–647, §1013(a)(6), substituted “section 103(b)(2)” for “section 103(b)”.
 
 Subsec. (b)(2)(C)(i). Pub. L. 100–647, §1013(a)(7), substituted “subparagraph (B)” for “subparagraph (B)(ii)”.
 

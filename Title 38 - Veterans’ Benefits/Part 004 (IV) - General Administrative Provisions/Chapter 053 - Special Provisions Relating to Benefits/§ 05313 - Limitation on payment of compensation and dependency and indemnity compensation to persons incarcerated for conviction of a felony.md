@@ -32,11 +32,11 @@
 
 #### Amendments
 
-2006—Subsecs. (a)(1), (b)(3), (c). Pub. L. 109–461 substituted “local, or other penal institution or correctional facility” for “or local penal institution”.
+<b>2006</b>—Subsecs. (a)(1), (b)(3), (c). Pub. L. 109–461 substituted “local, or other penal institution or correctional facility” for “or local penal institution”.
 
-1998—Subsec. (d)(1). Pub. L. 105–368 substituted “October 7, 1980,” for “the date of the enactment of this section,”.
+<b>1998</b>—Subsec. (d)(1). Pub. L. 105–368 substituted “October 7, 1980,” for “the date of the enactment of this section,”.
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 3113 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 3113 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 102–83, §5(c)(1), substituted “1114(a)” for “314(a)” in subpars. (A) and (B).
 
@@ -46,7 +46,7 @@ Subsec. (c). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” fo
 
 Subsec. (e). Pub. L. 102–83, §5(c)(1), substituted “1151” for “351” in par. (1) and “1121”, “1141”, and “1151” for “321”, “341”, and “351”, respectively, in par. (2).
 
-1983—Subsec. (a)(2). Pub. L. 98–160 substituted “paragraph (1) of this subsection” for “paragraph (1) of this section”.
+<b>1983</b>—Subsec. (a)(2). Pub. L. 98–160 substituted “paragraph (1) of this subsection” for “paragraph (1) of this section”.
 
 #### Effective Date
 

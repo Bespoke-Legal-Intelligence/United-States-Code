@@ -2,7 +2,7 @@
 
 #### (a) Provisions of law applicable
 
-Except as provided in the next sentence, the personnel employed in connection with, and the personnel positions, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available to or to be made available in connection with the functions and programs transferred by this chapter, are, subject to section 1531 of title 31, correspondingly transferred for appropriate allocation. Personnel positions expressly created by law, personnel occupying those positions on the effective date ofthis chapter, and personnel authorized to receive compensation at the rate prescribed for offices and positions at levels II, III, IV, or V of the Executive Schedule (5 U.S.C. 5313–5316) on the effective date of this chapter shall be subject to the provisions of subsection (c) of this section and section 5871 of this title.
+Except as provided in the next sentence, the personnel employed in connection with, and the personnel positions, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available to or to be made available in connection with the functions and programs transferred by this chapter, are, subject to section 1531 of title 31, correspondingly transferred for appropriate allocation. Personnel positions expressly created by law, personnel occupying those positions on the effective date of this chapter, and personnel authorized to receive compensation at the rate prescribed for offices and positions at levels II, III, IV, or V of the Executive Schedule (5 U.S.C. 5313–5316) on the effective date of this chapter shall be subject to the provisions of subsection (c) of this section and section 5871 of this title.
 
 #### (b) Prohibition against separation or reduction in grade or compensation for one year after transfer
 
@@ -15,6 +15,8 @@ Any person who, on the effective date of this chapter, held a position compensat
 (Pub. L. 93–438, title III, §302, Oct. 11, 1974, 88 Stat. 1250.)
 
 #### References in Text
+
+This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, known as the Energy Reorganization Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 The effective date of this chapter, referred to in subsecs. (a) and (c), refers to the effective date of Pub. L. 93–438. See section 312 of Pub. L. 93–438, set out as an Effective Date; Interim Appointments note under section 5801 of this title.
 

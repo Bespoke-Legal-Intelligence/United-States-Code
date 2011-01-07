@@ -24,5 +24,5 @@ The Attorney General may petition in the United States District Court for the Di
 
 #### Amendments
 
-1998—Subsec. (a)(2). Pub. L. 105–225 repealed par. (2) which amended section 1101(77) of former title 36.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–225 repealed par. (2) which amended section 1101(77) of former title 36.
 

@@ -2,7 +2,7 @@
 
 #### (a) Time for sending; contents; copy to deputy commissioner
 
-Within ten days from the date of any injury, which causes loss of one or more shifts of work, or death or from the date that the employer has knowledge of a disease or infection in respect of such injury, the employer shall send to the Secretary a report setting forth (1) the name, address, and business of the employer; (2) the name, address, and occupation of the employee; (3) the cause and nature of the injury or death; (4) the year, month, day, and hour when and the particular locality where the injury or death occurred; and (5) such other information as the Secretary may require. A copy of such report shall be sent at the same time to the deputy commissioner in the compensation district in which the injury occurred. Notwithstanding the requirements of this subsection, each employer shall keep a record of each and every injury regardless of whether such injury results in the loss of one or more shifts of work.
+Within ten days from the date of any injury, which causes loss of one or more shifts of work, or death or from the date that the employer hasknowledge of a disease or infection in respect of such injury, the employer shall send to the Secretary a report setting forth (1) the name, address, and business of the employer; (2) the name, address, and occupation of the employee; (3) the cause and nature of the injury or death; (4) the year, month, day, and hour when and the particular locality where the injury or death occurred; and (5) such other information as the Secretary may require. A copy of such report shall be sent at the same time to the deputy commissioner in the compensation district in which the injury occurred. Notwithstanding the requirements of this subsection, each employer shall keep a record of each and every injury regardless of whether such injury results in the loss of one or more shifts of work.
 
 #### (b) Additional reports
 
@@ -18,7 +18,7 @@ The mailing of any such report and copy in a stamped envelope, within the time p
 
 #### (e) Penalty for failure or refusal to send report
 
-Any employer, insurance carrier, or self-insured employer who knowingly and willfully fails or refuses to send any report required by this section or knowingly or willfully makes a false statement or misrepresentation in any such report shall be subject to a civil penaltynot to exceed $10,000 for each such failure, refusal, false statement, or misrepresentation.
+Any employer, insurance carrier, or self-insured employer who knowingly and willfully fails or refuses to send any report required by this section or knowingly or willfully makes a false statement or misrepresentation in any such report shall be subject to a civil penalty not to exceed $10,000 for each such failure, refusal, false statement, or misrepresentation.
 
 #### (f) Tolling provision
 
@@ -28,7 +28,7 @@ Where the employer or the carrier has been given notice, or the employer (or his
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–426, §18(a)(1), inserted “, which causes loss of one or more shifts of work,” after “Within ten days from the date of any injury”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–426, §18(a)(1), inserted “, which causes loss of one or more shifts of work,” after “Within ten days from the date of any injury”.
 
 Pub. L. 98–426, §27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
 
@@ -38,7 +38,7 @@ Subsecs. (b), (d). Pub. L. 98–426, §27(a)(2), substituted “Secretary” for
 
 Subsec. (e). Pub. L. 98–426, §18(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any employer who fails or refuses to send any report required of him by this section shall be subject to a civil penalty not to exceed $500 for each such failure or refusal.”
 
-1938—Subsec. (f). Act June 25, 1938, added subsec. (f).
+<b>1938</b>—Subsec. (f). Act June 25, 1938, added subsec. (f).
 
 #### Effective Date of 1984 Amendment
 

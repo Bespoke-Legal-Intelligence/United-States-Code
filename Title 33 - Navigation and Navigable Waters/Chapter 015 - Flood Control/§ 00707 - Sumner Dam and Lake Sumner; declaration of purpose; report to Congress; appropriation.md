@@ -6,7 +6,7 @@ The Sumner Dam and Lake Sumner on the Pecos River, New Mexico, is authorized and
 
 #### Amendments
 
-1974—Pub. L. 93–447 substituted “Sumner Dam and Lake Sumner” for “Alamogordo Dam and Reservoir” wherever appearing.
+<b>1974</b>—Pub. L. 93–447 substituted “Sumner Dam and Lake Sumner” for “Alamogordo Dam and Reservoir” wherever appearing.
 
 #### Change of Name
 
@@ -14,5 +14,5 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### Alamogordo Dam and Reservoir Redesignated as Sumner Dam and Lake Sumner
 
-Pub. L. 93–447 provided: “That the Alamogordo Dam and Reservoir, New Mexico, referred to in the Act of August 11, 1939 (53 Stat. 1414) \[which enacted this section\], are redesignated as Sumner Dam and Lake Sumner, respectively. Any law, regulation, map, document, record, or other paper of the United States in which such dam or reservoir is referred to shall be held to refer to such dam as Sumner Dam or such reservoir as Lake Sumner.”
+Pub. L. 93–447, Oct. 17, 1974, 88 Stat. 1363, provided: “That the Alamogordo Dam and Reservoir, New Mexico, referred to in the Act of August 11, 1939 (53 Stat. 1414) \[which enacted this section\], are redesignated as Sumner Dam and Lake Sumner, respectively. Any law, regulation, map, document, record, or other paper of the United States in which such dam or reservoir is referred to shall be held to refer to such dam as Sumner Dam or such reservoir as Lake Sumner.”
 

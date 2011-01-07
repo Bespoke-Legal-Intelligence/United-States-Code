@@ -26,7 +26,7 @@ Public Land Orders 5133 dated October 12, 1971, and 5777 dated November 21, 1980
 
 (3) Nothing in this subchapter shall be construed as effecting a relinquishment or reduction of any of the water rights held or claimed by the United States within the State of Idaho or elsewhere on or before August 4, 1993.
 
-(4) The Secretary and all other officers of the United States shall take all steps necessary toprotect all water rights claimed by the United States in the Snake River adjudication now pending in the district court of the State of Idaho in which the United States is joined under section 666 of title 43.
+(4) The Secretary and all other officers of the United States shall take all steps necessary to protect all water rights claimed by the United States in the Snake River adjudication now pending in the district court of the State of Idaho in which the United States is joined under section 666 of title 43.
 
 (Pub. L. 103–64, §6, Aug. 4, 1993, 107 Stat. 308.)
 

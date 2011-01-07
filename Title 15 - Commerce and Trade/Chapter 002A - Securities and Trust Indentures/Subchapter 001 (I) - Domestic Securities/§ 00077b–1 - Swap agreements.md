@@ -20,9 +20,21 @@ The definition of “security” in section 77b(a)(1) of this title does not inc
 
 (4) References in this subchapter to the “purchase” or “sale” of a security-based swap agreement shall be deemed to mean the execution, termination (prior to its scheduled maturity date), assignment, exchange, or similar transfer or conveyance of, or extinguishing of rights or obligations under, a security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act), as the context may require.
 
-(May 27, 1933, ch. 38, title I, §2A, as added Pub. L. 106–554, §1(a)(5) \[title III, §302(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–451.)
+(May 27, 1933, ch. 38, title I, §2A, as added Pub. L. 106–554, §1(a)(5) \[title III, §302(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–451; amended Pub. L. 111–203, title VII, §762(c)(1), July 21, 2010, 124 Stat. 1759.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title VII, §§762(c)(1), 774, July 21, 2010, 124 Stat. 1759, 1802, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, this section is amended as follows:</i>
+
+<i>(1) by striking subsection (a) and reserving that subsection; and</i>
+
+<i>(2) by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act)” each place that such term appears and inserting “(as defined in section 78c(a)(78) of this title)”.</i>
 
 #### References in Text
 
 Sections 206B and 206C of the Gramm-Leach-Bliley Act, referred to in text, are sections 206B and 206C of Pub. L. 106–102 which are set out in a note under section 78c of this title.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
 

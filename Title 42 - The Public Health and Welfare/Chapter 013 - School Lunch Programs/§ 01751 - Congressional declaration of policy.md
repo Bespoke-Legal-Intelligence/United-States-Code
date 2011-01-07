@@ -1,16 +1,24 @@
 ### §1751. Congressional declaration of policy
 
-It is declared to be the policy of Congress, as a measure of national security, to safeguard the health and well-being of the Nation's childrenand to encourage the domestic consumption of nutritious agricultural commodities and other food, by assisting the States, through grants-in-aid and other means, in providing an adequate supply of foods and other facilities for the establishment, maintenance, operation, and expansion of nonprofit school lunch programs.
+It is declared to be the policy of Congress, as a measure of national security, to safeguard the health and well-being of the Nation's children and to encourage the domestic consumption of nutritious agricultural commodities and other food, by assisting the States, through grants-in-aid and other means, in providing an adequate supply of foods and other facilities for the establishment, maintenance, operation, and expansion of nonprofit school lunch programs.
 
 (June 4, 1946, ch. 281, §2, 60 Stat. 230; Pub. L. 101–147, title III, §312(1), Nov. 10, 1989, 103 Stat. 916.)
 
 #### Amendments
 
-1989—Pub. L. 101–147 substituted “school lunch” for “school-lunch”.
+<b>1989</b>—Pub. L. 101–147 substituted “school lunch” for “school-lunch”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–296, title IV, §445, Dec. 13, 2010, 124 Stat. 3266, provided that: “Except as otherwise specifically provided in this Act \[see Short Title of 2010 Amendment note below\] or any of the amendments made by this Act, this Act and the amendments made by this Act take effect on October 1, 2010.”
 
 #### Effective Date of 1989 Amendment
 
 Section 2 of Pub. L. 101–147 provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[see Short Title of 1989 Amendment note below\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1989\].”
+
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–296, §1(a), Dec. 13, 2010, 124 Stat. 3183, provided that: “This Act \[enacting sections 1758b, 1769d, 1769e, 1769j, and 1793 of this title and sections 2036a and 3179 of Title 7, Agriculture, amending sections 1396a, 1753, 1755, 1758, 1759a, 1760, 1761, 1762a, 1766, 1769, 1769b–1, 1769c, 1769g, 1769i, 1776, 1779, and 1786 of this title, sections 2013 and 2020 of Title 7, and section 1232g of Title 20, Education, repealing section 1769h of this title, enacting provisions set out as notes under this section and sections 1396a, 1758, and 1766 of this title and section 3179 of Title 7, and repealing provisions set out as a note under this section\] may be cited as the ‘Healthy, Hunger-Free Kids Act of 2010’.”
 
 #### Short Title of 2004 Amendment
 
@@ -44,7 +52,7 @@ Pub. L. 99–500, title III, §301(a), Oct. 18, 1986, 100 Stat. 1783–359, and 
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–627, §1, Nov. 10, 1978, 92 Stat. 3603, provided: “That this Act \[enacting section 1769c of this title, amending sections 1755, 1757, 1758, 1759a to 1761, 1762a, 1766, 1769, 1772 to 1774, 1776, 1784, and 1786 of this title, and enacting provisions set out as notes under sections 1755, 1773 and 1786 of this title\] may be cited as the ‘Child Nutrition Amendments of 1978’.”
+Pub. L. 95–627, §1, Nov. 10, 1978, 92 Stat. 3603, provided: “That this Act \[enacting section 1769c of this title, amending sections 1755, 1757, 1758, 1759a to 1761, 1762a, 1766, 1769, 1772 to 1774, 1776, 1784, and 1786 of this title, and enacting provisions set out as notes under sections1755, 1773 and 1786 of this title\] may be cited as the ‘Child Nutrition Amendments of 1978’.”
 
 #### Short Title of 1977 Amendment
 
@@ -60,67 +68,65 @@ Pub. L. 93–326, §1, June 30, 1974, 88 Stat. 286, provided: “That this Act \
 
 #### Short Title of 1973 Amendment
 
-Pub. L. 93–150, §1, Nov. 7, 1973, 87 Stat. 560, provided: “That this Act \[amending sections 1753, 1755, 1757, 1758,1759, 1759a, 1763, 1772, 1773, and 1786 of this title, and enacting provisions set out as notes under this section and section 240 of Title 20, Education\] may be cited as the ‘National School Lunch and Child Nutrition Act Amendments of 1973’.”
+Pub. L. 93–150, §1, Nov. 7, 1973, 87 Stat. 560, provided: “That this Act \[amending sections 1753, 1755, 1757, 1758, 1759, 1759a, 1763, 1772, 1773, and 1786 of this title, and enacting provisions set out as notes under this section and section 240 of Title 20, Education\] may be cited as the ‘National School Lunch and Child Nutrition Act Amendments of 1973’.”
 
 #### Short Title
 
 Section 1 of act June 4, 1946, as amended by Pub. L. 106–78, title VII, §752(a), Oct. 22, 1999, 113 Stat. 1169, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Richard B. Russell National School Lunch Act’.”
 
-#### Local Wellness Policy
+#### Indirect Costs
 
-Pub. L. 108–265, title II, §204, June 30, 2004, 118 Stat. 780, as amended by Pub. L. 109–97, title VII, §776, Nov. 10, 2005, 119 Stat. 2161, provided that:
+Pub. L. 111–296, title III, §307, Dec. 13, 2010, 124 Stat. 3245, provided that:
 
 “(a)
 
-In General.—Not later than the first day of the school year beginning after June 30, 2006, each local educational agency participating in a program authorized by the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) shall establish a local school wellness policy for schools under the local educational agency that, at a minimum—
-
-&emsp;“(1) includes goals for nutrition education, physical activity, and other school-based activities that are designed to promote student wellness in a manner that the local educational agency determines is appropriate;
-
-&emsp;“(2) includes nutrition guidelines selected by the local educational agency for all foods available on each school campus under the local educational agency during the school day with the objectives of promoting student health and reducing childhood obesity;
-
-&emsp;“(3) provides an assurance that guidelines for reimbursable school meals shall not be less restrictive than regulations and guidance issued by the Secretary of Agriculture pursuant to subsections (a) and (b) of section 10 of the Child Nutrition Act (42 U.S.C. 1779) and sections 9(f)(1) and 17(a) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1758(f)(1), 1766(a)), as those regulations and guidance apply to schools;
-
-&emsp;“(4) establishes a plan for measuring implementation of the local wellness policy, including designation of 1 or more persons within the local educational agency or at each school, as appropriate, charged with operational responsibility for ensuring that the school meets the local wellness policy; and
-
-&emsp;“(5) involves parents, students, representatives of the school food authority, the school board, school administrators, and the public in the development of the school wellness policy.
+Guidance on Indirect Costs Rules.—Not later than 180 days after the date of enactment of this Act \[Dec. 13, 2010\], the Secretary \[of Agriculture\] shall issue guidance to school food authorities participating in the school lunch program established under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) and the school breakfast program established by section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) covering program rules pertaining to indirect costs, including allowable indirect costs that may be charged to the nonprofit school food service account.
 
 “(b)
 
-Technical Assistance and Best Practices.—
+Indirect Cost Study.—The Secretary shall—
 
-&emsp;“(1)
+&emsp;“(1) conduct a study to assess the extent to which school food authorities participating in the school lunch program established under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) and the school breakfast program established by section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) pay indirect costs, including assessments of—
 
-In general.—The Secretary, in coordination with the Secretary of Education and in consultation with the Secretary of Health and Human Services, acting through the Centers for Disease Control and Prevention, shall make available to local educational agencies, school food authorities, and State educational agencies, on request, information and technical assistance for use in—
+&emsp;&emsp;“(A) the allocation of indirect costs to, and the methodologies used to establish indirect cost rates for, school food authorities participating in the school lunch program established under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) and the school breakfast program established by section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773);
 
-&emsp;&emsp;“(A) establishing healthy school nutrition environments;
+&emsp;&emsp;“(B) the impact of indirect costs charged to the nonprofit school food service account;
 
-&emsp;&emsp;“(B) reducing childhood obesity; and
+&emsp;&emsp;“(C) the types and amounts of indirect costs charged and recovered by school districts;
 
-&emsp;&emsp;“(C) preventing diet-related chronic diseases.
+&emsp;&emsp;“(D) whether the indirect costs charged or recovered are consistent with requirements for the allocation of indirect costs and school food service operations; and
 
-&emsp;“(2)
+&emsp;&emsp;“(E) the types and amounts of indirect costs that could be charged or recovered under requirements for the allocation of indirect costs and school food service operations but are not charged or recovered; and
 
-Content.—Technical assistance provided by the Secretary under this subsection shall—
+&emsp;“(2) after completing the study required under paragraph (1), issue additional guidance relating to the types of costs that are reasonable and necessary to provide meals under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.).
 
-&emsp;&emsp;“(A) include relevant and applicable examples of schools and local educational agencies that have taken steps to offer healthy options for foods sold or served in schools;
+“(c)
 
-&emsp;&emsp;“(B) include such other technical assistance as is required to carry out the goals of promoting sound nutrition and establishing healthy school nutrition environments that are consistent with this section;
+Regulations.—After conducting the study under subsection (b)(1) and identifying costs under subsection (b)(2), the Secretary may promulgate regulations to address—
 
-&emsp;&emsp;“(C) be provided in such a manner as to be consistent with the specific needs and requirements of local educational agencies; and
+&emsp;“(1) any identified deficiencies in the allocation of indirect costs; and
 
-&emsp;&emsp;“(D) be for guidance purposes only and not be construed as binding or as a mandate to schools, local educational agencies, school food authorities, or State educational agencies.
+&emsp;“(2) the authority of school food authorities to reimburse only those costs identified by the Secretary as reasonable and necessary under subsection (b)(2).
 
-&emsp;“(3)
+“(d)
+
+Report.—Not later than October 1, 2013, the Secretary shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the study under subsection (b).
+
+“(e)
 
 Funding.—
 
-&emsp;&emsp;“(A)
+&emsp;“(1)
 
-In general.—On October 1, 2005, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary of Agriculture to carry out this subsection $4,000,000, to remain available until September 30, 2009.
+In general.—On October 1, 2010, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary to carry out this section $2,000,000, to remain available until expended.
 
-&emsp;&emsp;“(B)
+&emsp;“(2)
 
-Receipt and acceptance.—The Secretary shall be entitled to receive, shall accept, and shall use to carry out this subsection the funds transferred under subparagraph (A), without further appropriation.”
+Receipt and acceptance.—The Secretary shall be entitled to receive, shall accept, and shall use to carry out this section the funds transferred under paragraph (1), without further appropriation.”
+
+#### Local Wellness Policy
+
+Pub. L. 108–265, title II, §204, June 30, 2004, 118 Stat. 780, as amended by Pub. L. 109–97, title VII, §776, Nov. 10, 2005, 119 Stat. 2161, which related to establishment of local school wellness policies for schools under local educational agencies, was repealed by Pub. L. 111–296, title II, §204(b), Dec. 13, 2010, 124 Stat. 3218.
 
 #### Coordination of School Lunch, School Breakfast, and Summer Food Service Programs
 
@@ -156,7 +162,7 @@ Pub. L. 103–448, §2, Nov. 2, 1994, 108 Stat. 4700, as amended by Pub. L. 106�
 
 #### Study of Adulteration of Juice Products Sold to School Meal Programs
 
-Pub. L. 103–448, title I, §125, Nov. 2, 1994, 108 Stat. 4734, directed Comptroller General of the United States, not later than 1 year after Nov. 2, 1994, to conduct study and to submit a report to Congress on costs and problems associated with sale of adulterated fruit juice and juice products to the school lunch program underthis chapter and school breakfast program under section 1773 of this title.
+Pub. L. 103–448, title I, §125, Nov. 2, 1994, 108 Stat. 4734, directed Comptroller General of the United States, not later than 1 year after Nov. 2, 1994, to conduct study and to submit a report to Congress on costs and problems associated with sale of adulterated fruit juice and juice products to the school lunch program under this chapter and school breakfast program under section 1773 of this title.
 
 #### Consolidation of School Lunch Program and School Breakfast Program Into Comprehensive Meal Program
 

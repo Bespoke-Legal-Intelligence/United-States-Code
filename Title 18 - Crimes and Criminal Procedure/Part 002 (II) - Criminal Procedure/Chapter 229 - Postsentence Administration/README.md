@@ -27,7 +27,7 @@ Section 3614, act June 25, 1948, ch. 645, 62 Stat. 840, related to fine for sedu
 
 Section 3615 renumbered section 3667 of this title.
 
-Section 3616, act June 25, 1948, ch. 645, 62 Stat. 840, authorized use of confiscated vehicles by narcotics agents and payment of costs of acquisition, maintenance, repair, and operation thereof, prior to repeal by Pub. L. 91–513, title III, §1101(b)(2)(A), Oct. 27, 1970, 84 Stat. 1292.
+Section 3616, act June 25, 1948, ch. 645, 62 Stat. 840, authorized use of confiscated vehicles by narcotics agentsand payment of costs of acquisition, maintenance, repair, and operation thereof, prior to repeal by Pub. L. 91–513, title III, §1101(b)(2)(A), Oct. 27, 1970, 84 Stat. 1292.
 
 Section 3617 renumbered section 3668 of this title.
 
@@ -44,6 +44,8 @@ Section 3622, added Pub. L. 98–596, §6(a), Oct. 30, 1984, 98 Stat. 3136, rela
 Section 3623, added Pub. L. 98–596, §6(a), Oct. 30, 1984, 98 Stat. 3137, related to alternative fines.
 
 Section 3624, added Pub. L. 98–596, §6(a), Oct. 30, 1984, 98 Stat. 3138, related to security for stayed fine.
+
+<i><sup>1</sup></i><i> Editorially supplied.</i>
 
 
 ---

@@ -266,7 +266,7 @@ Former subsec. (b)(6)(C), (D) were omitted in amendment to subsec. (b)(6) by act
 
 Subsec. (b)(13)(A). Act July 2, 1940, §4, among other changes inserted “or wheat” after “corn” wherever appearing and substituted “county” for “farm” wherever appearing.
 
-Subsec. (b)(13)(B). Act July 2, 1940, §5, among other changes, struck out “or wheat” before “cotton” and “and, in the case of wheat but not in the case of cotton, for trends in yields, during the ten calendar years in the case of wheat, and” after “weather conditions”.
+Subsec. (b)(13)(B). Act July 2, 1940, §5, among other changes, struck out “wheat or” before “cotton” and “and, in the case of wheat but not in the case of cotton, for trends in yields, during the ten calendar years in the case of wheat, and” after “weather conditions”.
 
 Subsec. (b)(13)(E). Act Nov. 25, 1940, in first sentence substituted “in which such normal yield is determined” for “with respect to such normal yield is used in any computation authorized under this title”.
 

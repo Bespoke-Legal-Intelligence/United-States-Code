@@ -12,11 +12,11 @@ The purpose of the Office established under subsection (a) of this section shall
 
 #### Amendments
 
-1996—Pub. L. 104–235 amended section generally, substituting provisions relating to Office on Child Abuse and Neglect for provisions relating to National Center on Child Abuse and Neglect.
+<b>1996</b>—Pub. L. 104–235 amended section generally, substituting provisions relating to Office on Child Abuse and Neglect for provisions relating to National Center on Child Abuse and Neglect.
 
-1988—Pub. L. 100–294 amended section generally, substituting provisions relating to establishment, appointment of Director, and other staff and resources of National Center on Child Abuse and Neglect for provisions relating to establishment, functions, grant and contract authority, staff and resource availability, and use of funds of National Center on Child Abuse and Neglect. See sections 5105 to 5106d of this title.
+<b>1988</b>—Pub. L. 100–294 amended section generally, substituting provisions relating to establishment, appointment of Director, and other staff and resources of National Center on Child Abuse and Neglect for provisions relating to establishment, functions, grant and contract authority, staff and resource availability, and use of funds of National Center on Child Abuse and Neglect. See sections 5105 to 5106d of this title.
 
-1986—Subsec. (b)(2). Pub. L. 99–401, §103(a)(2), added par. (2). Former par. (2) redesignated (3).
+<b>1986</b>—Subsec. (b)(2). Pub. L. 99–401, §103(a)(2), added par. (2). Former par. (2) redesignated (3).
 
 Subsec. (b)(3), (4). Pub. L. 99–401, §103(a)(1), redesignated former pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (6).
 
@@ -30,7 +30,7 @@ Subsec. (b)(8), (9). Pub. L. 99–401, §103(a)(1), redesignated former pars. (6
 
 Subsec. (b)(10). Pub. L. 99–401, §103(a)(5), added par. (10).
 
-1984—Subsec. (a). Pub. L. 98–457, §101(a), substituted “Health and Human Services” for “Health, Education, and Welfare”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–457, §101(a), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
 Subsec. (b)(6). Pub. L. 98–457, §101(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “make a complete and full study and investigation of the national incidence of child abuse and neglect, including a determination of the extent to which incidents of child abuse and neglect are increasing in number or severity; and”.
 
@@ -40,13 +40,21 @@ Subsec. (c). Pub. L. 98–457, §101(c), substituted “The functions of the Sec
 
 Subsec. (e). Pub. L. 98–457, §101(d), added subsec. (e).
 
-1978—Subsec. (b). Pub. L. 95–266, §101(1), in pars. (1) and (3) inserted requirement of dissemination of annual summary and training materials, respectively, and added par. (7).
+<b>1978</b>—Subsec. (b). Pub. L. 95–266, §101(1), in pars. (1) and (3) inserted requirement of dissemination of annual summary and training materials, respectively, and added par. (7).
 
 Subsec. (c). Pub. L. 95–266, §101(2), inserted provisions relating to duration and review of grants under subsec. (b)(5) of this section.
 
 Subsec. (d). Pub. L. 95–266, §101(3), added subsec. (d).
 
-1975—Subsec. (c). Pub. L. 93–644 added subsec. (c).
+<b>1975</b>—Subsec. (c). Pub. L. 93–644 added subsec. (c).
+
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–341, §1, Dec. 22, 2010, 124 Stat. 3606, provided that: “This Act \[amending provisions set out as a note under section 5119a of this title\] may be cited as the ‘Criminal History Background Checks Pilot Extension Act of 2010’.”
+
+Pub. L. 111–320, §1, Dec. 20, 2010, 124 Stat. 3459, provided that: “This Act \[enacting chapter 110 of this title, amending sections 3796gg, 5102, 5104 to 5106a, 5106c, 5106d, 5106f, 5106g to 5106i, 5111, 5113, 5115, 5116 to 5116b, 5116d to 5116i, 5117aa, 5117aa–21, 5117aa–22, 13925, and 14214 of this title, section 707 of Title 11, Bankruptcy, and section 1435 of Title 20, Education, enacting provisions set out as notes under this section, amending provisions set out as a note under this section, repealing provisions set out as a note under section 670 of this title, and omitting provisions set out as a note under section 10401 of this title\] may be cited as the ‘CAPTA Reauthorization Act of 2010’.”
+
+Pub. L. 111–143, §1, Mar. 1, 2010, 124 Stat. 41, provided that: “This Act \[amending provisions set out as a note under section 5119a of this title\] may be cited as the ‘Criminal History Background Checks Pilot Extension Act of 2009’.”
 
 #### Short Title of 2008 Amendment
 
@@ -66,7 +74,7 @@ Section 1(a) of Pub. L. 104–235 provided that: “This Act \[enacting sections
 
 #### Short Title of 1994 Amendment
 
-For short title of subpart 1 of part E of title V of Pub. L. 103–381, which enacted section 5115a of this title, asthe “Howard M. Metzenbaum Multiethnic Placement Act of 1994”, see section 551 of Pub. L. 103–382, set out as a note under section 1305 of this title.
+For short title of subpart 1 of part E of title V of Pub. L. 103–381, which enacted section 5115a of this title, as the “Howard M. Metzenbaum Multiethnic Placement Act of 1994”, see section 551 of Pub. L. 103–382, set out as a note under section 1305 of this title.
 
 #### Short Title of 1992 Amendment
 
@@ -144,7 +152,7 @@ and 1988.—The Attorney General shall acquire from criminal justice agencies st
 
 “(b)
 
-Modification of Uniform Crime Reporting Program.—(1) As soon as practicable, but in no case later than January 1, 1989, the Attorney General shall modify the uniform crime reporting program in the FederalBureau of Investigation to include data on the age of the victim of the offense and the relationship, if any, of the victim to the offender, for types of offenses that may involve child abuse, including child sexual abuse.
+Modification of Uniform Crime Reporting Program.—(1) As soon as practicable, but in no case later than January 1, 1989, the Attorney General shall modify the uniform crime reporting program in the Federal Bureau of Investigation to include data on the age of the victim of the offense and the relationship, if any, of the victim to the offender, for types of offenses that may involve child abuse, including child sexual abuse.
 
 “(2) The modification, once made, shall remain in effect until the later of—
 
@@ -154,27 +162,29 @@ Modification of Uniform Crime Reporting Program.—(1) As soon as practicable, b
 
 #### Congressional Findings
 
-Section 2 of Pub. L. 93–247, as added by Pub. L. 102–295, title I, §102(a), May 28, 1992, 106 Stat. 188, and amended by Pub. L. 104–235, title I, §100, Oct. 3, 1996, 110 Stat. 3064; Pub. L. 108–36, title I, §101, June 25, 2003, 117 Stat. 801, provided that: “Congress finds that—
+Section 2 of Pub. L. 93–247, as added by Pub. L. 102–295, title I, §102(a), May 28, 1992, 106 Stat. 188, and amended by Pub. L. 104–235, title I, §100, Oct. 3, 1996, 110 Stat. 3064; Pub. L. 108–36, title I, §101, June 25, 2003, 117 Stat. 801; Pub. L. 111–320, title I, §101, Dec. 20, 2010, 124 Stat. 3459, provided that: “Congress finds that—
 
-&emsp;“(1) each year, approximately 900,000 American children are victims of abuse and neglect;
+&emsp;“(1) in fiscal year 2008, approximately 772,000 children were found by States to be victims of child abuse and neglect;
 
-&emsp;“(2)(A) more children suffer neglect than any other form of maltreatment; and
+&emsp;“(2)(A) more children suffer neglect than any other form of maltreatment and close to 1/3 of all child maltreatment-related fatalities in fiscal year 2008 were attributed to neglect alone; and
 
-&emsp;“(B) investigations have determined that approximately 60 percent of children who were victims of maltreatment in 2001 suffered neglect, 19 percent suffered physical abuse, 10 percent suffered sexual abuse, and 7 percent suffered emotional maltreatment;
+&emsp;“(B) investigations have determined that approximately 71 percent of children who were victims of maltreatment in fiscal year 2008 suffered neglect, 16 percent suffered physical abuse, 9 percent suffered sexual abuse,, \[sic\] 7 percent suffered psychological maltreatment, 2 percent experienced medical neglect, and 9 percent were victims of other forms of maltreatment;
 
-&emsp;“(3)(A) child abuse can result in the death of a child;
+&emsp;“(3)(A) child abuse or neglect can result in the death of a child;
 
-&emsp;“(B) in 2001, an estimated 1,300 children were counted by child protection services to have died as a result of abuse or neglect; and
+&emsp;“(B) in fiscal year 2008, an estimated 1,740 children were counted by child protection services to have died as a result of abuse or neglect; and
 
-&emsp;“(C) children younger than 1 year old comprised 41 percent of child abuse fatalities and 85 percent of child abuse fatalities were younger than 6 years of age;
+&emsp;“(C) in fiscal year 2008, children younger than 1 year old comprised 45 percent of child maltreatment fatalities and 72 percent of child maltreatment fatalities were younger than 4 years of age;
 
 &emsp;“(4)(A) many of these children and their families fail to receive adequate protection and treatment; and
 
-&emsp;“(B) slightly less than half of these children (42 percent in 2001) and their families fail to receive adequate protection or treatment;
+&emsp;“(B) approximately 37 percent of victims of child abuse did not receive post-investigation services in fiscal year 2008;
 
-&emsp;“(5) the problem of child abuse and neglect requires a comprehensive approach that—
+&emsp;“(5) African-American children, American Indian children, Alaska Native children, and children of multiple races and ethnicities experience the highest rates of child abuse or neglect;
 
-&emsp;&emsp;“(A) integrates the work of social service, legal, health, mental health, education, and substance abuse agencies and community-based organizations;
+&emsp;“(6) the problem of child abuse and neglect requires a comprehensive approach that—
+
+&emsp;&emsp;“(A) integrates the work of social service, legal, health, mental health, domestic violence services, education, and substance abuse agencies and community-based organizations;
 
 &emsp;&emsp;“(B) strengthens coordination among all levels of government, and with private agencies, civic, religious, and professional organizations, and individual volunteers;
 
@@ -182,23 +192,25 @@ Section 2 of Pub. L. 93–247, as added by Pub. L. 102–295, title I, §102(a),
 
 &emsp;&emsp;“(D) recognizes the need for properly trained staff with the qualifications needed, to carry out their child protection duties; and
 
-&emsp;&emsp;“(E) is sensitive to ethnic and cultural diversity, which may impact child rearing patterns, while at the same time, not allowing those differences to enable abuse;
+&emsp;&emsp;“(E) recognizes the diversity of ethnic, cultural, and religious beliefs and traditions that may impact child rearing patterns, while not allowing the differences in those beliefs and traditions to enable abuse or neglect;
 
-&emsp;“(6) the failure to coordinate and comprehensively prevent and treat child abuse and neglect threatens the futures of thousands of children and results in a cost to the Nation of billions of dollars in tangible expenditures, as well as significant intangible costs;
+&emsp;“(7) the failure to coordinate and comprehensively prevent and treat child abuse and neglect threatens the futures of thousands of children and results in a cost to the Nation of billions of dollars in tangible expenditures, as well as significant intangible costs;
 
-&emsp;“(7) all elements of American society have a shared responsibility in responding to child abuse and neglect;
+&emsp;“(8) all elements of American society have a shared responsibility in responding to child abuse and neglect;
 
-&emsp;“(8) substantial reductions in the prevalence and incidence of child abuse and neglect and the alleviation of its consequences are matters of the highest national priority;
+&emsp;“(9) substantial reductions in the prevalence and incidence of child abuse and neglect and the alleviation of its consequences are matters of the highest national priority;
 
-&emsp;“(9) national policy should strengthen families to prevent child abuse and neglect, provide support for needed services to prevent the unnecessary removal of children from families, and promote the reunification of families where appropriate;
+&emsp;“(10) national policy should strengthen families to prevent child abuse and neglect, provide support for needed services to prevent the unnecessary removal of children from families, and promote the reunification of families where appropriate;
 
-&emsp;“(10) the child protection system should be comprehensive, child-centered, family-focused, and community-based, should incorporate all appropriate measures to prevent the occurrence or recurrence of child abuse and neglect, and should promote physical and psychological recovery and social re-integration in an environment that fosters the health, safety, self-respect, and dignity of the child;
+&emsp;“(11) the child protection system should be comprehensive, child-centered, family-focused, and community-based, should incorporate all appropriate measures to prevent the occurrence or recurrence of child abuse and neglect, and should promote physical and psychological recovery and social re-integration in an environment that fosters the health, safety, self-respect, and dignity of the child;
 
-&emsp;“(11) because of the limited resources available in low-income communities, Federal aid for the child protection system should be distributed with due regard to the relative financial need of the communities;
+&emsp;“(12) because both child maltreatment and domestic violence occur in up to 60 percent of the families in which either is present, States and communities should adopt assessments and intervention procedures aimed at enhancing the safety both of children and victims of domestic violence;
 
-&emsp;“(12) the Federal government should assist States and communities with the fiscal, human, and technical resources necessary to develop and implement a successful and comprehensive child and family protection strategy;
+&emsp;“(13) because of the limited resources available in low-income communities, Federal aid for the child protection system should be distributed with due regard to the relative financial need of the communities;
 
-&emsp;“(13) the Federal government should provide leadership and assist communities in their child and family protection efforts by—
+&emsp;“(14) the Federal Government should assist States and communities with the fiscal, human, and technical resources necessary to develop and implement a successful and comprehensive child and family protection strategy; and
+
+&emsp;“(15) the Federal Government should provide leadership and assist communities in their child and family protection efforts by—
 
 &emsp;&emsp;“(A) promoting coordinated planning among all levels of government;
 
@@ -211,4 +223,28 @@ Section 2 of Pub. L. 93–247, as added by Pub. L. 102–295, title I, §102(a),
 &emsp;&emsp;“(E) helping communities to carry out their child and family protection plans by promoting the competence of professional, paraprofessional, and volunteer resources; and
 
 &emsp;&emsp;“(F) providing leadership to end the abuse and neglect of the nation's children and youth.”
+
+#### Definitions
+
+Pub. L. 93–247, §3, as added by Pub. L. 111–320, title I, §142(a), Dec. 20, 2010, 124 Stat. 3482, provided that: “In this Act \[see Short Title note above\]—
+
+&emsp;“(1) the term ‘child’ means a person who has not attained the lesser of—
+
+&emsp;&emsp;“(A) the age of 18; or
+
+&emsp;&emsp;“(B) except in the case of sexual abuse, the age specified by the child protection law of the State in which the child resides;
+
+&emsp;“(2) the term ‘child abuse and neglect’ means, at a minimum, any recent act or failure to act on the part of a parent or caretaker, which results in death, serious physical or emotional harm, sexual abuse or exploitation, or an act or failure to act which presents an imminent risk of serious harm;
+
+&emsp;“(3) the term ‘child with a disability’ means a child with a disability as defined in section 602 of the Individuals with Disabilities Education Act (20 U.S.C. 1401), or an infant or toddler with a disability as defined in section 632 of such Act (20 U.S.C. 1432);
+
+&emsp;“(4) the term ‘Governor’ means the chief executive officer of a State;
+
+&emsp;“(5) the terms ‘Indian’, ‘Indian tribe’, and ‘tribal organization’ have the meanings given the terms in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b);
+
+&emsp;“(6) the term ‘Secretary’ means the Secretary of Health and Human Services;
+
+&emsp;“(7) except as provided in section 106(f) \[42 U.S.C. 5106a(f)\], the term ‘State’ means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands; and
+
+&emsp;“(8) the term ‘unaccompanied homeless youth’ means an individual who is described in paragraphs (2) and (6) of section 725 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11434a).”
 

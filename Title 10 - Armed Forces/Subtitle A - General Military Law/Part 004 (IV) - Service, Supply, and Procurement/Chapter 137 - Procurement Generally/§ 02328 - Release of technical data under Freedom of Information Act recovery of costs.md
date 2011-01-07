@@ -18,7 +18,7 @@ Crediting of Receipts.—An amount received under this section—
 
 Waiver.—The Secretary of Defense shall waive the payment of costs required by subsection (a) which are in an amount greater than the costs that would be required for such a release of information under section 552 of title 5 if—
 
-&emsp;(1) the request is made by a citizen of the United States or a United States corporation, and such citizen or corporation certifies that the technical data requested is required to enable such citizen or corporation to submit an offer or determine whether it is capable of submitting an offer to provide the product to which the technical data relates to the United States or a contractor with the United States (except that the Secretary may require the citizen or corporation to pay a deposit in an amount equal to not more than the cost of complying with the request, to be refunded upon submission of an offer by the citizen or corporation);
+&emsp;(1) the request is made by a citizen of the United States or a United States corporation, and such citizen or corporation certifies that the technical data requested is required to enable such citizen or corporation to submit an offer or determine whether it is capable of submitting an offer to provide the product towhich the technical data relates to the United States or a contractor with the United States (except that the Secretary may require the citizen or corporation to pay a deposit in an amount equal to not more than the cost of complying with the request, to be refunded upon submission of an offer by the citizen or corporation);
 
 &emsp;(2) the release of technical data is requested in order to comply with the terms of an international agreement; or
 
@@ -38,7 +38,7 @@ A prior section 2328 was renumbered section 2348 of this title.
 
 #### Amendments
 
-1987—Pub. L. 100–26, §7(a)(7)(B)(i), substituted “Release of technical data under Freedom of Information Act: recovery of costs” for “Release of technical data” in section catchline.
+<b>1987</b>—Pub. L. 100–26, §7(a)(7)(B)(i), substituted “Release of technical data under Freedom of Information Act: recovery of costs” for “Release of technical data” in section catchline.
 
 Subsec. (a)(1). Pub. L. 100–26, §7(a)(7)(A)(i)(I), substituted “such technical data to the person requesting the” for “technical data to a person requesting such a”.
 

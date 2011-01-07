@@ -2,7 +2,7 @@
 
 #### Prior Provisions
 
-A prior subchapter VII, related to the Agency for Health Care Policy and Research and consisted of sections 299 to 299c–6, prior to the general amendment of this subchapter by Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1653.
+A prior subchapter VII, related to the Agency for Health Care Policy and Research and consisted of sections 299 to 299c–6, prior to the general amendment ofthis subchapter by Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1653.
 
 Another prior subchapter VII, related to education, research, training, and demonstrations in heart disease, cancer, stroke, and related diseases and consisted of sections 299 to 299j, prior to repeal by Pub. L. 99–117, §12(d), Oct. 7, 1985, 99 Stat. 495.
 
@@ -14,4 +14,5 @@ Another prior subchapter VII, related to education, research, training, and demo
 - [Part A - Establishment and General Duties](Part%20A%20-%20Establishment%20and%20General%20Duties/README.md)
 - [Part B - Health Care Improvement Research](Part%20B%20-%20Health%20Care%20Improvement%20Research/README.md)
 - [Part C - Patient Safety Improvement](Part%20C%20-%20Patient%20Safety%20Improvement/README.md)
-- [Part D - General Provisions](Part%20D%20-%20General%20Provisions/README.md)
+- [Part D - Health Care Quality Improvement](Part%20D%20-%20Health%20Care%20Quality%20Improvement/README.md)
+- [Part E - General Provisions](Part%20E%20-%20General%20Provisions/README.md)

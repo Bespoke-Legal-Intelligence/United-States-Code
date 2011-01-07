@@ -78,5 +78,5 @@ The Council shall consult with persons with recognized scientific expertise in e
 
 #### Amendments
 
-2007—Subsec. (b)(6) to (8). Pub. L. 110–114 added pars. (6) to (8).
+<b>2007</b>—Subsec. (b)(6) to (8). Pub. L. 110–114 added pars. (6) to (8).
 

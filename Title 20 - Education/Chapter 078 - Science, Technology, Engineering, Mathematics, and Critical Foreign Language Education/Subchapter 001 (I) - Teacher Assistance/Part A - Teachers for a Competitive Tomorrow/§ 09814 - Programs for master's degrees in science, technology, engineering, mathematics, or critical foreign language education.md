@@ -56,7 +56,7 @@ Each eligible recipient receiving a grant under this section shall use the grant
 
 &emsp;(7) encourage the participation of—
 
-&emsp;&emsp;(A) individuals who are members of groups that are underrepresented in the teaching of science, technology, engineering, mathematics, or critical foreign languages;
+&emsp;&emsp;(A) individuals who are members of groups that are underrepresented in the teaching ofscience, technology, engineering, mathematics, or critical foreign languages;
 
 &emsp;&emsp;(B) members of the Armed Forces who are transitioning to civilian life; and
 

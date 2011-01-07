@@ -2,25 +2,25 @@
 
 #### (a) In general
 
-The Secretary shall establish in the Department of Health and Human Services an appropriate administrative arrangement to provide a centralized focus for planning and coordinating of all departmental activities affecting adoption and foster care and for carrying out the provisions of this subchapter. The Secretary shall make available such consultant services, on-site technical assistance and personnel, together with appropriate administrative expenses, including salaries and travel costs, as are necessary for carrying out such purposes, including services to facilitate the adoption of children with special needs and particularly of disabled infants with life-threatening conditions and services to couples considering adoption of children with special needs.
+The Secretary shall establish in the Department of Health and Human Services an appropriate administrative arrangement to provide a centralized focus for planning and coordinating of all departmental activities affecting adoption and foster care and for carrying out the provisions of this subchapter. The Secretary shall make available such consultant services, on-site technical assistance and personnel, together with appropriate administrative expenses, including salaries and travel costs, as are necessary for carrying out such purposes, including services to facilitate the adoption of older children, minority children, and children with special needs, particularly infants and toddlers with disabilities who have life-threatening conditions, and services to families considering adoption of children with special needs.
 
 #### (b) Required activities
 
 In connection with carrying out the provisions of this subchapter, the Secretary shall—
 
-&emsp;(1) conduct (directly or by grant to or contract with public or private agencies or organizations) an education and training program on adoption, and prepare, publish, and disseminate (directly or by grant to or contract with public or private agencies and organizations) to all interested parties, public and private agencies and organizations (including, but not limited to, hospitals, health care and family planning clinics, and social services agencies), and governmental bodies, information and education and training materials regarding adoption and adoption assistance programs;
+&emsp;(1) conduct (directly or by grant to or contract with public or private agencies or organizations) an education and training program on adoption, and prepare, publish, and disseminate (directly or by grant to or contract with public or private agencies and organizations) to all interested parties, public and private agencies and organizations (including, but not limited to, hospitals, health care and family planning clinics, and social services agencies), and governmental bodies, information and education and training materials regarding adoption, adoption assistance programs, and post-legal adoption services;
 
-&emsp;(2) conduct, directly or by grant or contract with public or private organizations, ongoing, extensive recruitment efforts on a national level, develop national public awareness efforts to unite children in need of adoption with appropriate adoptive parents, and establish a coordinated referral system of recruited families with appropriate State or regional adoption resources to ensure that families are served in a timely fashion;
+&emsp;(2) conduct, directly or by grant or contract with public or private organizations, ongoing, extensive recruitment efforts on a national level, including efforts to promote the adoption of older children, minority children, and children with special needs, develop national public awareness efforts to unite children in need of adoption with appropriate adoptive parents, and establish a coordinated referral system of recruited families with appropriate State or regional adoption resources to ensure that families are served in a timely fashion;
 
 &emsp;(3) notwithstanding any other provision of law, provide (directly or by grant to or contract with public or private agencies or organizations) for (A) the operation of a national adoption information exchange system (including only such information as is necessary to facilitate the adoptive placement of children, utilizing computers and data processing methods to assist in the location of children who would benefit by adoption and in the placement in adoptive homes of children awaiting adoption); and (B) the coordination of such system with similar State and regional systems;
 
-&emsp;(4) provide (directly or by grant to or contract with public or private agencies or organizations, including adoptive family groups and minority groups) for the provision of technical assistance in the planning, improving, developing, and carrying out of programs and activities relating to adoption, and to promoteprofessional leadership training of minorities in the adoption field;
+&emsp;(4) provide (directly or by grant to or contract with public or private agencies or organizations, including adoptive family groups and minority groups) for the provision of technical assistance in the planning, improving, developing, and carrying out of programs and activities relating to adoption, and to promote professional leadership training of minorities in the adoption field;
 
 &emsp;(5) encourage involvement of corporations and small businesses in supporting adoption as a positive family-strengthening option, including the establishment of adoption benefit programs for employees who adopt children;
 
 &emsp;(6) support the placement of children in kinship care arrangements, pre-adoptive, or adoptive homes;
 
-&emsp;(7) study the efficacy of States contracting with public or private agencies (including community-based and other organizations), or sectarian institutions for the recruitment of potential adoptive and foster families and to provide assistance in the placement of children for adoption;
+&emsp;(7) increase the effective use of public or private agencies (including community-based and other organizations) by States, or sectarian institutions, for the recruitment of potential adoptive and foster families and to provide assistance in the placement of children for adoption, including assisting in efforts to workwith organizations that promote the placement of older children, minority children, and children with special needs;
 
 &emsp;(8) consult with other appropriate Federal departments and agencies in order to promote maximum coordination of the services and benefits provided under programs carried out by such departments and agencies with those carried out by the Secretary, and provide for the coordination of such aspects of all programs within the Department of Health and Human Services relating to adoption;
 
@@ -28,17 +28,19 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 &emsp;&emsp;(A) promote professional leadership development of minorities in the adoption field;
 
-&emsp;&emsp;(B) provide training and technical assistance to service providers and State agencies to improve professional competency in the field of adoption and the adoption of children with special needs; and
+&emsp;&emsp;(B) provide training and technical assistance to service providers and State agencies to improve professional competency in the field of adoption and the adoption of children with special needs;
 
-&emsp;&emsp;(C) facilitate the development of interdisciplinary approaches to meet the needs of children who are waiting for adoption and the needs of adoptive families;
+&emsp;&emsp;(C) facilitate the development of interdisciplinary approaches to meet the needs of children who are waiting for adoption and the needs of adoptive families; and
 
-&emsp;(10) provide (directly or by grant to or contract with States, local government entities, public or private licensed child welfare or adoption agencies or adoptive family groups and community-based organizations with experience in working with minority populations) for the provision of programs aimed at increasing the number of minority children (who are in foster care and have the goal of adoption) placed in adoptive families, with a special emphasis on recruitment of minority families—
+&emsp;&emsp;(D) identify best practices to reduce adoption disruption and termination;
+
+&emsp;(10) provide (directly or by grant to or contract with States, local government entities, tribal child welfare agencies, public or private licensed child welfare or adoption agencies or adoptive family groups and community-based organizations with experience in working with minority populations) for the provision of programs aimed at increasing the number of minority children (who are in foster care and have the goal of adoption) placed in adoptive families, with a special emphasis on recruitment of minority families—
 
 &emsp;&emsp;(A) which may include such activities as—
 
 &emsp;&emsp;&emsp;(i) outreach, public education, or media campaigns to inform the public of the needs and numbers of such children;
 
-&emsp;&emsp;&emsp;(ii) recruitment of prospective adoptive families for such children;
+&emsp;&emsp;&emsp;(ii) recruitment of prospective adoptive families for such children, including developing and using procedures to notify family and relatives when a child enters the child welfare system;
 
 &emsp;&emsp;&emsp;(iii) expediting, where appropriate, the legal availability of such children;
 
@@ -54,9 +56,11 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 &emsp;&emsp;&emsp;&emsp;(III) adoptive parents organizations and community-based organizations with experience in working with minority populations;
 
-&emsp;&emsp;&emsp;(vii) use of volunteers and adoptive parent groups; and
+&emsp;&emsp;&emsp;(vii) education and training of prospective adoptive or adoptive parents;
 
-&emsp;&emsp;&emsp;(viii) any other activities determined by the Secretary to further the purposes of this subchapter; and
+&emsp;&emsp;&emsp;(viii) use of volunteers and adoptive parent groups; and
+
+&emsp;&emsp;&emsp;(ix) any other activities determined by the Secretary to further the purposes of this subchapter; and
 
 &emsp;&emsp;(B) shall be subject to the condition that such grants or contracts may be renewed if documentation is provided to the Secretary demonstrating that appropriate and sufficient placements of such children have occurred during the previous funding period; and
 
@@ -100,21 +104,33 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 #### (1) In general
 
-&emsp;The Secretary shall make grants for improving State efforts to increase the placement of foster care children legally free for adoption, according to a pre-established plan and goals for improvement. Grants funded by this section must include a strong evaluation component which outlines the innovations used to improve the placement of special needs children who are legally free for adoption, and the successes and failures of the initiative. The evaluations will be submitted to the Secretary who will compile the results of projects funded by this section and submit a report to the appropriate committees of Congress. The emphasis of this program must focus on the improvement of the placement rate—not the aggregate number of special needs children placed in permanent homes. The Secretary, when reviewing grant applications <sup>1</sup> shall give priority to grantees who propose improvements designed to continue in the absence of Federal funds.
+&emsp;The Secretary shall make grants for improving State efforts to increase the placement offoster care children legally free for adoption, according to a pre-established plan and goals for improvement.
 
 #### (2) Applications; technical and other assistance
 
 #### (A) Applications
 
-&emsp;&emsp;Each State entering into an agreement under this subsection shall submit an application to the Secretary that describes the manner in which the State will use funds during the 3 fiscal years subsequent to the date of the application to accomplish the purposes of this section. Such application shall be in a form and manner determined to be appropriate by the Secretary. Each application shall include verification of the placements described in paragraph (1).
+&emsp;&emsp;Each State entering into an agreement under this subsection shall submit an application to the Secretary that describes the manner in which the State will use funds during the 3 fiscal years subsequent to the date of the application to accomplish the purposes of this section. Such application shall be in a form and manner determined to be appropriate by the Secretary, consistent with the purpose of this subchapter. Each application shall contain information that—
+
+&emsp;&emsp;&emsp;(i) describes how the State plans to improve the placement rate of children in permanent homes;
+
+&emsp;&emsp;&emsp;(ii) describes the methods the State, prior to submitting the application, has used to improve the placement of older children, minority children, and children with special needs, who are legally free for adoption;
+
+&emsp;&emsp;&emsp;(iii) describes the evaluation the State plans to conduct, to identify the effectiveness of programs and methods of placement under this subsection, and submit to the Secretary; and
+
+&emsp;&emsp;&emsp;(iv) describes how the State plans to coordinate activities under this subsection with relevant activities under section 673 of title 42.
 
 #### (B) Technical and other assistance
 
 &emsp;&emsp;The Secretary shall provide, directly or by grant to or contract with public or private agencies or organizations—
 
-&emsp;&emsp;&emsp;(i) technical assistance and resource and referral information to assist State or local governments with termination of parental rights issues, in recruiting and retaining adoptive families, in the successful placement of children with special needs, and in the provision of pre- and post-placement services, including post-legal adoption services; and
+&emsp;&emsp;&emsp;(i) technical assistance and resource and referral information to assist State or local governments with termination of parental rights issues, in recruiting and retaining adoptive families, in the successful placement of older children, minority children, and children with special needs, and in the provision of pre- and post-placement services, including post-legal adoption services; and
 
 &emsp;&emsp;&emsp;(ii) other assistance to help State and local governments replicate successful adoption-related projects from other areas in the United States.
+
+#### (C) Evaluation
+
+&emsp;&emsp;The Secretary shall compile the results of evaluations submitted by States (described in subparagraph (A)(iii)) and submit a report containing the compiled results to the appropriate committees of Congress.
 
 #### (3) Payments
 
@@ -146,11 +162,35 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 &emsp;&emsp;(E) developing and supporting initiative models for networking among agencies, adoption exchanges, and parent support groups across jurisdictional boundaries.
 
-(Pub. L. 95–266, title II, §203, Apr. 24, 1978, 92 Stat. 209; Pub. L. 98–457, title II, §203, Oct. 9, 1984, 98 Stat. 1756; Pub. L. 100–294, title II, §202, Apr. 25, 1988, 102 Stat. 122; Pub. L. 102–295, title IV, §403, May 28, 1992, 106 Stat. 213; Pub. L. 104–235, title II, §212, Oct. 3, 1996, 110 Stat. 3090; Pub. L. 108–36, title II, §202, June 25, 2003, 117 Stat. 819.)
+(Pub. L. 95–266, title II, §203, Apr. 24, 1978, 92 Stat. 209; Pub. L. 98–457, title II, §203, Oct. 9, 1984, 98 Stat. 1756; Pub. L. 100–294, title II, §202, Apr. 25, 1988, 102 Stat. 122; Pub. L. 102–295, title IV, §403, May 28, 1992, 106 Stat. 213; Pub. L. 104–235, title II, §212, Oct. 3, 1996, 110 Stat. 3090; Pub. L. 108–36, title II, §202, June 25, 2003, 117 Stat. 819; Pub. L. 111–320, title III, §301(b), Dec. 20, 2010, 124 Stat. 3511.)
 
 #### Amendments
 
-2003—Pub. L. 108–36, §202(1), added section catchline and struck out former catchline.
+<b>2010</b>—Subsec. (a). Pub. L. 111–320, §301(b)(1), substituted “older children, minority children, and children with special needs, particularly infants and toddlers with disabilities who have life-threatening conditions, and services to families considering adoption of children with special needs.” for “children with special needs and particularly of disabled infants with life-threatening conditions and services to couples considering adoption of children with special needs.”
+
+Subsec. (b)(1). Pub. L. 111–320, §301(b)(2)(A), substituted a comma for “and” after “regarding adoption” and inserted “, and post-legal adoption services” after “adoption assistance programs”.
+
+Subsec. (b)(2). Pub. L. 111–320, §301(b)(2)(B), inserted “, including efforts to promote the adoption of older children, minority children, and children with special needs” after “national level”.
+
+Subsec. (b)(7). Pub. L. 111–320, §301(b)(2)(C), substituted “increase the effective use of” for “study theefficacy of States contracting with” and “by States,” for the comma after “organizations)” and inserted a comma after “institutions” and “, including assisting in efforts to work with organizations that promote the placement of older children, minority children, and children with special needs” after “children for adoption”.
+
+Subsec. (b)(9)(D). Pub. L. 111–320, §301(b)(2)(D), added subpar. (D).
+
+Subsec. (b)(10). Pub. L. 111–320, §301(b)(2)(E)(i), inserted “tribal child welfare agencies,” after “local government entities,” in introductory provisions.
+
+Subsec. (b)(10)(A)(ii). Pub. L. 111–320, §301(b)(2)(E)(ii)(I), inserted “, including developing and using procedures to notify family and relatives when a child enters the child welfare system” before semicolon at end.
+
+Subsec. (b)(10)(A)(vii) to (ix). Pub. L. 111–320, §301(b)(2)(E)(ii)(II), (III), added cl. (vii) and redesignated former cls. (vii) and (viii) as (viii) and (ix), respectively.
+
+Subsec. (d)(1). Pub. L. 111–320, §301(b)(3)(A), struck out at end: “Grants funded by this section must include a strong evaluation component which outlines the innovations used to improve the placement of special needs children who are legally free for adoption, and the successes and failures of the initiative. The evaluations will be submitted to the Secretary who will compile the results of projects funded by this section and submit a report to the appropriate committees of Congress. The emphasis of this program must focus on the improvement of the placement rate—not the aggregate number of special needs children placed in permanent homes. The Secretary, when reviewing grant applications shall give priority to grantees who propose improvements designed to continue in the absence of Federal funds.”
+
+Subsec. (d)(2)(A). Pub. L. 111–320, §301(b)(3)(B)(i), inserted “, consistent with the purpose of this subchapter” after “by the Secretary”, substituted “Each application shall contain information that—” for “Each application shall include verification of the placements described in paragraph (1).”, and added cls. (i) to (iv).
+
+Subsec. (d)(2)(B)(i). Pub. L. 111–320, §301(b)(3)(B)(ii), inserted “older children, minority children, and” after “successful placement of”.
+
+Subsec. (d)(2)(C). Pub. L. 111–320, §301(b)(3)(B)(iii), added subpar. (C).
+
+<b>2003</b>—Pub. L. 108–36, §202(1), added section catchline and struck out former catchline.
 
 Subsec. (a). Pub. L. 108–36, §202(2), inserted heading.
 
@@ -184,7 +224,7 @@ Subsec. (d). Pub. L. 108–36, §202(5), inserted subsec., par., and subpar. hea
 
 Subsec. (e). Pub. L. 108–36, §202(6), added subsec. (e).
 
-1996—Subsec. (a). Pub. L. 104–235, §212(1), struck out at end “The Secretary shall, not later than 12 months after May 28, 1992, prepare and submit to the committees of Congress having jurisdiction over such services reports, as appropriate, containing appropriate data concerning the manner in which activities were carried out under this subchapter, and such reports shall be made available to the public.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–235, §212(1), struck out at end “The Secretary shall, not later than 12 months after May 28, 1992, prepare and submit to the committees of Congress having jurisdiction over such services reports, as appropriate, containing appropriate data concerning the manner in which activities were carried out under this subchapter, and such reports shall be made available to the public.”
 
 Subsec. (b)(6). Pub. L. 104–235, §212(2)(A), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “continue to study the nature, scope, and effects of the placement of children in adoptive homes (not including the homes of stepparents or relatives of the child in question) by persons or agencies which are not licensed by or subject to regulation by any governmental entity;”.
 
@@ -192,7 +232,7 @@ Subsec. (b)(7) to (10). Pub. L. 104–235, §212(2)(B), (C), added par. (7) and 
 
 Subsec. (d)(2). Pub. L. 104–235, §212(3), designated existing provisions as subpar. (A), substituted “that describes the manner in which the State will use funds during the 3 fiscal years subsequent to the date of the application to accomplish the purposes of this section. Such application shall be” for “for each fiscal year”, and added subpar. (B).
 
-1992—Subsec. (a). Pub. L. 102–295, §403(1), inserted “, on-site technical assistance” after “consultant services” and “including salaries and travel costs,” after “administrative expenses,” and inserted at end “The Secretary shall, not later than 12 months after May 28, 1992, prepare and submit to the committees of Congress having jurisdiction over such services reports, as appropriate, containing appropriate data concerning the manner in which activities were carried out under this subchapter, and such reports shall be made available to the public.”
+<b>1992</b>—Subsec. (a). Pub. L. 102–295, §403(1), inserted “, on-site technical assistance” after “consultant services” and “including salaries and travel costs,” after “administrative expenses,” and inserted at end “The Secretary shall, not later than 12 months after May 28, 1992, prepare and submit to the committees of Congress having jurisdiction over such services reports, as appropriate, containing appropriate data concerning the manner in which activities were carried out under this subchapter, and such reports shall be made available to the public.”
 
 Subsec. (b)(1), (2). Pub. L. 102–295, §403(2)(A), (B), added par. (2), redesignated former par. (2) as (1), and struck out former par. (1) which read as follows: “provide (after consultation with other appropriate Federal departments and agencies, including the Bureau of the Census and appropriate State and local agencies) for the establishment and operation of a Federal adoption and foster care data-gathering and analysis system;”.
 
@@ -200,11 +240,11 @@ Subsec. (b)(4). Pub. L. 102–295, §403(2)(C), inserted “, and to promote pr
 
 Subsec. (b)(8), (9). Pub. L. 102–295, §403(2)(D), added par. (8) and redesignated former par. (8) as (9).
 
-1988—Subsec. (b)(8). Pub. L. 100–294, §202(a), added par. (8).
+<b>1988</b>—Subsec. (b)(8). Pub. L. 100–294, §202(a), added par. (8).
 
 Subsecs. (c), (d). Pub. L. 100–294, §202(b), (c), added subsecs. (c) and (d).
 
-1984—Subsec. (a). Pub. L. 98–457, §203(a), (b)(1), substituted “Health and Human Services” for “Health, Education, and Welfare” and inserted provision requiring the Secretary to make available services to facilitate the adoption of children with special needs and particularly of disabled infants with life-threatening conditions and services to couples considering adoption of children with special needs.
+<b>1984</b>—Subsec. (a). Pub. L. 98–457, §203(a), (b)(1), substituted “Health and Human Services” for “Health, Education, and Welfare” and inserted provision requiring the Secretary to make available services to facilitate the adoption of children with special needs and particularly of disabled infants with life-threatening conditions and services to couples considering adoption of children with special needs.
 
 Subsec. (b). Pub. L. 98–457, §203(c)(1), substituted “this subchapter” for “subsection (a) of this section” in provisions preceding par. (1).
 
@@ -266,11 +306,9 @@ Advisory Panel.—
 
 &emsp;“(1)
 
-Establishment.—The Secretary of Health and Human Services, in consultation with the Chairmanof the Committee on Ways and Means of the House of Representatives and the Chairman of the Committee on Finance of the Senate, shall convene an advisory panel which shall include parents, foster parents, relative caregivers, former foster children, State and local public officials responsible for administering child welfare programs, private persons involved in the delivery of child welfare services, representatives of tribal governments and tribal courts, judges, and academic experts.
+Establishment.—The Secretary of Health and Human Services, in consultation with the Chairman of the Committee on Ways and Means of the House of Representatives and the Chairman of the Committee on Finance of the Senate, shall convene an advisory panel which shall include parents, foster parents, relative caregivers, former foster children, State and local public officials responsible for administering child welfare programs, private persons involved in the delivery of child welfare services, representatives of tribal governments and tribal courts, judges, and academic experts.
 
 &emsp;“(2)
 
 Duties.—The advisory panel convened pursuant to paragraph (1) shall review the report prepared pursuant to subsection (a), and, not later than October 1, 1998, submit to the Secretary comments on the report.”
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

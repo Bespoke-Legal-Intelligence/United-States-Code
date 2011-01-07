@@ -22,9 +22,9 @@ Section was formerly classified to section 596a of Title 5 prior to the general 
 
 #### Amendments
 
-1975—Subsec. (b). Pub. L. 93–608 struck out proviso requiring an annual report to Congress of the total expenditures made for such supplies and total proceeds from resales.
+<b>1975</b>—Subsec. (b). Pub. L. 93–608 struck out proviso requiring an annual report to Congress of the total expenditures made for such supplies and total proceeds from resales.
 
-1954—Subsec. (c). Act Aug. 30, 1954, struck out proviso requiring the Secretary of Commerce to submit annually to Congress a report showing the expenditures for the establishment, maintenance, and operation of messing facilities in Alaska and other points outside the continental United States.
+<b>1954</b>—Subsec. (c). Act Aug. 30, 1954, struck out proviso requiring the Secretary of Commerce to submit annually to Congress a report showing the expenditures for the establishment, maintenance, and operation of messing facilities in Alaska and other points outside the continental United States.
 
 #### Change of Name
 

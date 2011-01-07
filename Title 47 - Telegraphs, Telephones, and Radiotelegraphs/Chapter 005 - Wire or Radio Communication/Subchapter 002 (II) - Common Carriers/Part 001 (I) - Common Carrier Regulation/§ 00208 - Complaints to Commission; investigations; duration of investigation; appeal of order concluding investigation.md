@@ -12,9 +12,9 @@
 
 #### Amendments
 
-1996—Subsec. (b)(1). Pub. L. 104–104 substituted “such investigation within 5 months” for “such investigation within 12 months” and struck out before period at end “, or within 15 months after such date if the investigation raises questions of fact of such extraordinary complexity that the questions cannot be resolved within 12 months”.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–104 substituted “such investigation within 5 months” for “such investigation within 12 months” and struck out before period at end “, or within 15 months after such date if the investigation raises questions of fact of such extraordinary complexity that the questions cannot be resolved within 12 months”.
 
-1988—Pub. L. 100–594 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1988</b>—Pub. L. 100–594 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1996 Amendment
 

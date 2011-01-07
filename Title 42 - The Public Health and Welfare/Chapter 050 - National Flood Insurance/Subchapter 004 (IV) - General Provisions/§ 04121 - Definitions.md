@@ -30,7 +30,7 @@
 
 &emsp;(12) the term “natural and beneficial floodplain functions” means—
 
-&emsp;&emsp;(A) the functions associated with the natural or relatively undisturbed floodplain that (i) moderate flooding, retain flood waters, reduce erosion and sedimentation, and mitigate the effect of waves and storm surge from storms, and (ii) reduce flood related damage; and
+&emsp;&emsp;(A) the functions associated with the natural or relatively undisturbed floodplain that (i) moderate flooding, retain flood waters, reduce erosion and sedimentation, and mitigate the effect of waves and storm surgefrom storms, and (ii) reduce flood related damage; and
 
 &emsp;&emsp;(B) ancillary beneficial functions, including maintenance of water quality and recharge of ground water, that reduce flood related damage;
 
@@ -44,7 +44,7 @@
 
 (c) The term “flood” shall also include the collapse or subsidence of land along the shore of a lake or other body of water as a result of erosion or undermining caused by waves or currents of water exceeding anticipated cyclical levels, and all of the provisions of this chapter shall apply with respect to such collapse or subsidence in the same manner and to the same extent as with respect to floods described in subsection (a)(1) of this section, subject to and in accordance with such regulations, modifying the provisions of this chapter (including the provisions relating to land management and use) to the extent necessary to insure that they can be effectively so applied, as the Director may prescribe to achieve (with respect to such collapse or subsidence) the purposes of this chapter and the objectives of the program.
 
-(Pub. L. 90–448, title XIII, §1370, Aug. 1, 1968, 82 Stat. 588; Pub. L. 91–152, title IV, §409(b), Dec. 24, 1969, 83 Stat. 397; Pub. L. 93–234, title I, §§107, 108(b), Dec. 31, 1973, 87 Stat. 979, 980; Pub. L. 98–181, title IV, §451(d)(1), (8), Nov. 30, 1983, 97Stat. 1229; Pub. L. 100–628, title X, §1086(b), Nov. 7, 1988, 102 Stat. 3278; Pub. L. 103–325, title V, §512(a), Sept. 23, 1994, 108 Stat. 2256; Pub. L. 108–264, title I, §105(b), June 30, 2004, 118 Stat. 723; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
+(Pub. L. 90–448, title XIII, §1370, Aug. 1, 1968, 82 Stat. 588; Pub. L. 91–152, title IV, §409(b), Dec. 24, 1969, 83 Stat. 397; Pub. L. 93–234, title I, §§107, 108(b), Dec. 31, 1973, 87 Stat. 979, 980; Pub. L. 98–181, title IV, §451(d)(1), (8), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–628, title X, §1086(b), Nov. 7, 1988, 102 Stat. 3278; Pub. L. 103–325, title V, §512(a), Sept. 23, 1994, 108 Stat. 2256; Pub. L. 108–264, title I, §105(b), June 30, 2004, 118 Stat. 723; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 #### References in Text
 
@@ -52,25 +52,25 @@ This chapter, referred to in text, was in the original a reference to “this ti
 
 #### Amendments
 
-2004—Subsec. (a)(7). Pub. L. 108–264, §105(b)(1), added par. (7) and struck out former par. (7) which read as follows: “the term ‘repetitive loss structure’ means a structure covered by a contract for flood insurance under this chapter that has incurred flood-related damage on 2 occasions during a 10-year period ending on the date of the event for which a second claim is made, in which the cost of repair, on the average, equaled or exceeded 25 percent of the value of the structure at the time of each such flood event;”.
+<b>2004</b>—Subsec. (a)(7). Pub. L. 108–264, §105(b)(1), added par. (7) and struck out former par. (7) which read as follows: “the term ‘repetitive loss structure’ means a structure covered by a contract for flood insurance under this chapter that has incurred flood-related damage on 2 occasions during a 10-year period ending on the date of the event for which a second claim is made, in which the cost of repair, on the average, equaled or exceeded 25 percent of the value of the structure at the time of each such flood event;”.
 
 Subsec. (a)(15). Pub. L. 108–264, §105(b)(2)–(4), added par. (15).
 
-1994—Subsec. (a)(7) to (14). Pub. L. 103–325 added pars. (7) to (14).
+<b>1994</b>—Subsec. (a)(7) to (14). Pub. L. 103–325 added pars. (7) to (14).
 
-1988—Subsecs. (b), (c). Pub. L. 100–628 substituted “subsection (a)(1) of this section” for “paragraph (1)”.
+<b>1988</b>—Subsecs. (b), (c). Pub. L. 100–628 substituted “subsection (a)(1) of this section” for “paragraph (1)”.
 
-1983—Subsec. (a)(1). Pub. L. 98–181, §451(d)(1), substituted “Director” for “Secretary”.
+<b>1983</b>—Subsec. (a)(1). Pub. L. 98–181, §451(d)(1), substituted “Director” for “Secretary”.
 
 Subsec. (a)(6). Pub. L. 98–181, §451(d)(8), substituted definition of “Director” as the Director of the Federal Emergency Management Agency for definition of “Secretary” as the Secretary of Housing and Urban Development.
 
 Subsecs. (b), (c). Pub. L. 98–181, §451(d)(1), substituted “Director” for “Secretary”.
 
-1973—Subsec. (b). Pub. L. 93–234, §107, inserted “proximately” before “caused”.
+<b>1973</b>—Subsec. (b). Pub. L. 93–234, §107, inserted “proximately” before “caused”.
 
 Subsec. (c). Pub. L. 93–234, §108(b), added subsec. (c).
 
-1969—Pub. L. 91–152 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1969</b>—Pub. L. 91–152 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Change of Name
 

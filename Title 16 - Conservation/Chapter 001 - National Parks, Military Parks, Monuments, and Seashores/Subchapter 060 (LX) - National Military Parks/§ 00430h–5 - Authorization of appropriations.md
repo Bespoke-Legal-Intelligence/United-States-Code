@@ -6,5 +6,5 @@ There are hereby authorized to be appropriated such sums, but not more than $3,8
 
 #### Amendments
 
-1976—Pub. L. 94–578 substituted “$3,850,000” for “$2,050,000”.
+<b>1976</b>—Pub. L. 94–578 substituted “$3,850,000” for “$2,050,000”.
 

@@ -64,7 +64,7 @@
 
 #### (2) Determination of amount contributed
 
-&emsp;(A) Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized toany significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
+&emsp;(A) Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
 &emsp;(B) In making a determination of the amount of non-Federal contributions for purposes of subparagraph (A), the Secretary may include only non-Federal contributions in excess of the average amount of non-Federal contributions made by the public entity involved toward the purpose described in subsection (a) of this section for the 2-year period preceding the first fiscal year for which the entity receives a grant under such section.
 
@@ -82,9 +82,9 @@ A prior section 290ff, act July 1, 1944, ch. 373, title V, §561, as added Nov. 
 
 #### Amendments
 
-2000—Subsec. (c)(1)(D). Pub. L. 106–310 substituted “fifth and sixth such fiscal year” for “fifth such fiscal year”.
+<b>2000</b>—Subsec. (c)(1)(D). Pub. L. 106–310 substituted “fifth and sixth such fiscal year” for “fifth such fiscal year”.
 
-1993—Subsec. (a)(2). Pub. L. 103–43, §2017(1)(A), substituted “this part” for “this subpart”.
+<b>1993</b>—Subsec. (a)(2). Pub. L. 103–43, §2017(1)(A), substituted “this part” for “this subpart”.
 
 Subsec. (b)(1)(B), (C). Pub. L. 103–43, §2017(1)(B), substituted “is such a grantee” for “is receiving such payments”.
 

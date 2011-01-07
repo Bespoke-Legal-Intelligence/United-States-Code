@@ -84,7 +84,7 @@ Each determination of the Secretary of State under subsection (d) of this sectio
 
 (2)(A) No rescission under paragraph (1)(B) of a determination under subsection (d) of this section may be made if the Congress, within 45 days after receipt of a report under paragraph (1)(B), enacts a joint resolution the matter after the resolving clause of which is as follows: “That the proposed rescission of the determination under section 40(d) of the Arms Export Control Act pursuant to the report submitted to the Congress on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ is hereby prohibited.”, the blank to be completed with the appropriate date.
 
-(B) A joint resolution described in subparagraph (A) and introduced within the appropriate 45-day period shall be considered in the Senateand the House of Representatives in accordance with paragraphs (3) through (7) of section 8066(c) of the Department of Defense Appropriations Act (as contained in Public Law 98–473), except that references in such paragraphs to the Committees on Appropriations of the House of Representatives and the Senate shall be deemed to be references to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, respectively.
+(B) A joint resolution described in subparagraph (A) and introduced within the appropriate 45-day period shall be considered in the Senate and the House of Representatives in accordance with paragraphs (3) through (7) of section 8066(c) of the Department of Defense Appropriations Act (as contained in Public Law 98–473), except that references in such paragraphs to the Committees on Appropriations of the House of Representatives and the Senate shall be deemed to be references to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, respectively.
 
 #### (g) Waiver
 
@@ -102,7 +102,7 @@ The President may waive the prohibitions contained in this section with respect 
 
 &emsp;&emsp;&emsp;(ii) a description of the munitions items involved in the proposed transaction (including their market value) and the actual sale price at each step in the transaction (or if the items are transferred by other than sale, the manner in which they will be provided);
 
-&emsp;&emsp;&emsp;(iii) the reasons why the proposed transaction is essential to the national security interests of the United States and the justification for such proposed transaction;
+&emsp;&emsp;&emsp;(iii) the reasons why the proposed transaction is essential to the national securityinterests of the United States and the justification for such proposed transaction;
 
 &emsp;&emsp;&emsp;(iv) the date on which the proposed transaction is expected to occur; and
 
@@ -126,7 +126,7 @@ The prohibitions contained in this section do not apply with respect to any tran
 
 #### (j) Criminal penalty
 
-Any person who willfully violates this section shall be fined for each violation not more than $1,000,000, imprisoned not more than 10 years, or both.
+Any person who willfully violates this section shall be fined for each violation not more than $1,000,000, imprisoned not more than 20 years, or both.
 
 #### (k) Civil penalties; enforcement
 
@@ -160,9 +160,11 @@ As used in this section—
 
 &emsp;(5) the term “unsafeguarded special nuclear material” has the meaning given that term in section 6305(8) of this title.
 
-(Pub. L. 90–629, ch. 3, §40, as added Pub. L. 99–399, title V, §509(a), Aug. 27, 1986, 100 Stat. 874; amended Pub. L. 101–222, §2(a), Dec. 12, 1989, 103 Stat. 1892; Pub. L. 102–138, title III, §321, Oct. 28, 1991, 105 Stat. 710; Pub. L. 103–236, title VIII, §822(a)(2), Apr. 30, 1994, 108 Stat. 511; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §1303\], Nov. 29, 1999, 113 Stat. 1536, 1501A–511; Pub. L. 107–228, div. B, title XII, §1204, Sept. 30, 2002, 116 Stat. 1427.)
+(Pub. L. 90–629, ch. 3, §40, as added Pub. L. 99–399, title V, §509(a), Aug. 27, 1986, 100 Stat. 874; amended Pub. L. 101–222, §2(a), Dec. 12, 1989, 103 Stat. 1892; Pub. L. 102–138, title III, §321, Oct. 28, 1991, 105 Stat. 710; Pub. L. 103–236, title VIII, §822(a)(2), Apr. 30, 1994, 108 Stat. 511; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §1303\], Nov. 29, 1999, 113 Stat. 1536, 1501A–511; Pub. L. 107–228, div. B, title XII, §1204, Sept. 30, 2002, 116 Stat. 1427; Pub. L. 111–195, title I, §107(a)(3), July 1, 2010, 124 Stat. 1337.)
 
 #### References in Text
+
+This chapter, referred to in subsecs. (a)(1), (2), (i)(1), and (k), was in the original “this Act”, and this chapter, referred to in subsec. (i)(2), was in the original “the Arms Export Control Act”, both of which mean Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1), (2) and (i)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
@@ -176,17 +178,19 @@ The Export Administration Act of 1979, referred to in subsec. (k), is Pub. L. 96
 
 #### Amendments
 
-2002—Subsec. (d). Pub. L. 107–228 substituted “groups,” for “groups or” in second sentence and inserted before period at end “, or willfully aid or abet the efforts of an individual or group to use, develop, produce, stockpile, or otherwise acquire chemical, biological, or radiological weapons”.
+<b>2010</b>—Subsec. (j). Pub. L. 111–195 substituted “20 years” for “10 years”.
 
-1999—Subsec. (k). Pub. L. 106–113 inserted “section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that” after “except that”.
+<b>2002</b>—Subsec. (d). Pub. L. 107–228 substituted “groups,” for “groups or” in second sentence and inserted before period at end “, or willfully aid or abet the efforts of an individual or group to use, develop, produce, stockpile, or otherwise acquire chemical, biological, or radiological weapons”.
 
-1994—Subsec. (d). Pub. L. 103–236, §822(a)(2)(A), inserted at end “For purposes of this subsection, such acts shall include all activities that the Secretary determines willfully aid or abet the international proliferation of nuclear explosive devices to individuals or groups or willfully aid or abet an individual or groups in acquiring unsafeguarded special nuclear material.”
+<b>1999</b>—Subsec. (k). Pub. L. 106–113 inserted “section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that” after “except that”.
+
+<b>1994</b>—Subsec. (d). Pub. L. 103–236, §822(a)(2)(A), inserted at end “For purposes of this subsection, such acts shall include all activities that the Secretary determines willfully aid or abet the international proliferation of nuclear explosive devices to individuals or groups or willfully aid or abet an individual or groups in acquiring unsafeguarded special nuclear material.”
 
 Subsec. (<i>l</i>). Pub. L. 103–236, §822(a)(2)(B), amended subsec. (<i>l</i>) by striking “and” after the semicolon in par. (2), substituting a semicolon for the period at the end of par. (3), and adding pars. (4) and (5).
 
-1991—Subsec. (f). Pub. L. 102–138, §321, designated existing provisions as par. (1), redesignated former par. (1) as subpar. (A) and former subpars. (A) to (C) as cls. (i) to (iii), respectively, redesignated former par. (2) as subpar. (B) and former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added par. (2). So much of Pub. L. 102–138, §321(1), as directed that subpar. (C) of former par. (2) be redesignated cl. (iii) of par. (1)(B), could not be executed because no such subpar. (C) had been enacted.
+<b>1991</b>—Subsec. (f). Pub. L. 102–138, §321, designated existing provisions as par. (1), redesignated former par. (1) as subpar. (A) and former subpars. (A) to (C) as cls. (i) to (iii), respectively, redesignated former par. (2) as subpar. (B) and former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added par. (2). So much of Pub. L. 102–138, §321(1), as directed that subpar. (C) of former par. (2) be redesignated cl. (iii) of par. (1)(B), could not be executed because no such subpar. (C) had been enacted.
 
-1989—Pub. L. 101–222 substituted “Transactions with” for “Exports to” in section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>1989</b>—Pub. L. 101–222 substituted “Transactions with” for “Exports to” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a)
 

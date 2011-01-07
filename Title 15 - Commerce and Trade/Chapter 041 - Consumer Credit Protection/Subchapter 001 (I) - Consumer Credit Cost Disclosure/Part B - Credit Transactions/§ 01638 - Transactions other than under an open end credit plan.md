@@ -10,7 +10,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;&emsp;(i) take the principal amount of the loan or the cash price less downpayment and trade-in;
 
-&emsp;&emsp;(ii) add any charges which are not part of the finance charge or of the principal amount of the loan and which are financed by the consumer, including the cost of anyitems excluded from the finance charge pursuant to section 1605 of this title; and
+&emsp;&emsp;(ii) add any charges which are not part of the finance charge or of the principal amount of the loan and which are financed by the consumer, including the cost of any items excluded from the finance charge pursuant to section 1605 of this title; and
 
 &emsp;&emsp;(iii) subtract any charges which are part of the finance charge but which will be paid by the consumer before or at the time of the consummation of the transaction, or have been withheld from the proceeds of the credit.
 
@@ -48,7 +48,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(14) In the case of any variable interest rate residential mortgage transaction, in disclosures provided at application as prescribed by the Board for a variable rate transaction secured by the consumer's principal dwelling, at the option of the creditor, a statement that the periodic payments may increase or decrease substantially, and the maximum interest rate and payment for a $10,000 loan originated at a recent interest rate, as determined by the Board, assuming the maximum periodic increases in rates and payments under the program, or a historical example illustrating the effects of interest rate changes implemented according to the loan program.
 
-&emsp;(15) In the case of a consumer credit transaction that is secured by the principal dwelling of the consumer, in which the extension of credit may exceed the fair market value of the dwelling, a clear and conspicuous statement that—
+&emsp;(15) In the case of a consumer credit transaction that is secured by the principal dwelling of the consumer, in which the extension of credit may exceed the fair market value of thedwelling, a clear and conspicuous statement that—
 
 &emsp;&emsp;(A) the interest on the portion of the credit extension that is greater than the fair market value of the dwelling is not tax deductible for Federal income tax purposes; and
 
@@ -90,7 +90,7 @@ Waiver of timeliness of disclosures.—To expedite consummation of a transaction
 
 &emsp;(I) the requirements of subparagraphs (A) through (E) shall not apply; and
 
-&emsp;(II) a good faith estimate of the disclosures required under subsection (a) shall be made in accordance with regulations of the Board under section 1631(c) of this title before such credit is extended, or shall be delivered or placed in the mail not later than 3 business days after the date on which the creditor receives the written application of the consumer for such credit, whichever is earlier.
+&emsp;(II) a good faith estimate of the disclosures required under subsection (a) shall be made in accordance with regulations of the Board under section 1631(c) of this title before suchcredit is extended, or shall be delivered or placed in the mail not later than 3 business days after the date on which the creditor receives the written application of the consumer for such credit, whichever is earlier.
 
 (ii) If a disclosure statement furnished within 3 business days of the written application (as provided under clause (i)(II)) contains an annual percentage rate which is subsequently rendered inaccurate, within the meaning of section 1606(c) of this title, the creditor shall furnish another disclosure statement at the time of settlement or consummation of the transaction.
 
@@ -240,7 +240,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 #### (C) Safe harbor
 
-&emsp;&emsp;Any private educational lender that elects to provide a model form developed under this subsection that accurately reflects thepractices of the private educational lender shall be deemed to be in compliance with the disclosures required under this subsection.
+&emsp;&emsp;Any private educational lender that elects to provide a model form developed under this subsection that accurately reflects the practices of the private educational lender shall be deemed to be in compliance with the disclosures required under this subsection.
 
 #### (6) Effective period of approved rate of interest and loan terms
 
@@ -276,17 +276,85 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 &emsp;Each private educational lender that has a preferred lender arrangement with a covered educational institution shall annually, by a date determined by the Board, in consultation with the Secretary of Education, provide to the covered educational institution such information as the Board determines to include in the model form developed under paragraph (5) for each type of private education loan that the lender plans to offer to students attending the covered educational institution, or to the families of such students, for the next award year (as that term is defined in section 481 of the Higher Education Act of 1965 \[20 U.S.C. 1088\]).
 
-(Pub. L. 90–321, title I, §128, May 29, 1968, 82 Stat. 155; Pub. L. 96–221, title VI, §614(a)–(c), Mar. 31, 1980, 94 Stat. 178, 179; Pub. L. 104–208, div. A, title II, §2105, Sept. 30, 1996, 110 Stat. 3009–402; Pub. L. 109–8, title XIII, §1302(b)(1), Apr. 20, 2005, 119 Stat. 208; Pub. L. 110–289, div. B, title V, §2502(a), July 30, 2008, 122 Stat. 2855; Pub. L. 110–315, title X, §1021(a), Aug. 14, 2008, 122 Stat. 3483; Pub. L. 110–343, div. A, title I, §130(a), Oct. 3, 2008, 122 Stat. 3797.)
+(Pub. L. 90–321, title I, §128, May 29, 1968, 82 Stat. 155; Pub. L. 96–221, title VI, §614(a)–(c), Mar. 31, 1980, 94 Stat. 178, 179; Pub. L. 104–208, div. A, title II, §2105, Sept. 30, 1996, 110 Stat. 3009–402; Pub. L. 109–8, title XIII, §1302(b)(1), Apr. 20, 2005, 119 Stat. 208; Pub. L. 110–289, div. B, title V, §2502(a), July 30, 2008, 122 Stat. 2855; Pub. L. 110–315, title X, §1021(a), Aug. 14, 2008, 122 Stat. 3483; Pub. L. 110–343, div. A, title I, §130(a), Oct. 3, 2008, 122 Stat. 3797; Pub. L. 111–203, title X, §1100A(2), title XIV, §§1419, 1420, 1465, July 21, 2010, 124 Stat. 2107, 2154, 2155, 2185.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”.</i>
+
+<i>Pub. L. 111–203, title XIV, §§1400(c), 1419, 1420, 1465, July 21, 2010, 124 Stat. 2136, 2154, 2155, 2185, provided that, effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, this section is amended as follows:</i>
+
+<i>(1) in subsection (a), by adding at the end the following new paragraphs:</i>
+
+&emsp;<i>“(16) In the case of a variable rate residential mortgage loan for which an escrow or impound account will be established for the payment of all applicable taxes, insurance, and assessments—</i>
+
+&emsp;&emsp;<i>“(A) the amount of initial monthly payment due under the loan for the payment of principal and interest, and the amount of such initial monthly payment including the monthly payment deposited in the account for the payment of all applicable taxes, insurance, and assessments; and</i>
+
+&emsp;&emsp;<i>“(B) the amount of the fully indexed monthly payment due under the loan for the payment of principal and interest, and the amount of such fully indexed monthly payment including the monthly payment deposited in the account for the payment of all applicable taxes, insurance, and assessments.</i>
+
+&emsp;<i>“(17) In the case of a residential mortgage loan, the aggregate amount of settlement charges for all settlement services provided in connection with the loan, the amount of charges that are included in the loan and the amount of such charges the borrower must pay at closing, the approximate amount of the wholesale rate of funds in connection with the loan, and the aggregate amount of other fees or required payments in connection with the loan.</i>
+
+&emsp;<i>“(18) In the case of a residential mortgage loan, the aggregate amount of fees paid to the mortgage originator in connection with the loan, the amount of such fees paid directly by the consumer, and any additional amount received by the originator from the creditor.</i>
+
+&emsp;<i>“(19) In the case of a residential mortgage loan, the total amount of interest that the consumer will pay over the life of the loan as a percentage of the principal of the loan. Such amount shall be computed assuming the consumer makes each monthly payment in full and on-time, and does not make any over-payments.”;</i>
+
+<i>(2) in subsection (b), by adding at the end the following new paragraph:</i>
+
+<i>“(4)</i>
+
+<i>Repayment analysis required to include escrow payments.—</i>
+
+&emsp;<i>“(A)</i>
+
+<i>In general</i>.—<i>In the case of any consumer credit transaction secured by a first mortgage or lien on the principal dwelling of the consumer, other than a consumer credit transaction under an open end credit plan or a reverse mortgage, for which an impound, trust, or other type of account has been or will be established in connection with the transaction for the payment of property taxes, hazard and flood (if any) insurance premiums, or other periodic payments or premiums with respect to the property, the information required to be provided under subsection (a) with respect to the number, amount, and due dates or period of payments scheduled to repay the total of payments shall take into account the amount of any monthly payment to such account for each such repayment in accordance with section 10(a)(2) of the Real Estate Settlement Procedures Act of 1974.</i>
+
+&emsp;<i>“(B)</i>
+
+<i>Assessment value</i>.—<i>The amount taken into account under subparagraph (A) for the payment of property taxes, hazard and flood (if any) insurance premiums, or other periodic payments or premiums with respect to the property shall reflect the taxable assessed value of the real property securing the transaction after the consummation of the transaction, including the value of any improvements on the property or to be constructed on the property (whether or not such construction will be financed from the proceeds of the transaction), if known, and the replacement costs of the property for hazard insurance, in the initial year after the transaction.”; and</i>
+
+<i>(3) by adding at the end the following new subsection:</i>
+
+#### <i>“(f) Periodic statements for residential mortgage loans</i>
+
+#### <i>“(1) In general</i>
+
+&emsp;<i>“The creditor, assignee, or servicer with respect to any residential mortgage loan shall transmit to the obligor, for each billing cycle, a statement setting forth each of the following items, to the extent applicable, in a conspicuous and prominent manner:</i>
+
+&emsp;&emsp;<i>“(A) The amount of the principal obligation under the mortgage.</i>
+
+&emsp;&emsp;<i>“(B) The current interest rate in effect for the loan.</i>
+
+&emsp;&emsp;<i>“(C) The date on which the interest rate may next reset or adjust.</i>
+
+&emsp;&emsp;<i>“(D) The amount of any prepayment fee to be charged, if any.</i>
+
+&emsp;&emsp;<i>“(E) A description of any late payment fees.</i>
+
+&emsp;&emsp;<i>“(F) A telephone number and electronic mail address that may be used by the obligor to obtain information regarding the mortgage.</i>
+
+&emsp;&emsp;<i>“(G) The names, addresses, telephone numbers, and Internet addresses of counseling agencies or programs reasonably available to the consumer that have been certified or approved and made publicly available by the Secretary of Housing and Urban Development or a State housing finance authority (as defined in section 1441a–1 of title 12).</i>
+
+&emsp;&emsp;<i>“(H) Such other information as the Board may prescribe in regulations.</i>
+
+#### <i>“(2) Development and use of standard form</i>
+
+&emsp;<i>“The Board shall develop and prescribe a standard form for the disclosure required under this subsection, taking into account that the statements required may be transmitted in writing or electronically.</i>
+
+#### <i>“(3) Exception</i>
+
+&emsp;<i>“Paragraph (1) shall not apply to any fixed rate residential mortgage loan where the creditor, assignee, or servicer provides the obligor with a coupon book that provides the obligor with substantially the same information as required in paragraph (1).”</i>
+
+<i>See Effective Date of 2010 Amendment notes below.</i>
 
 #### References in Text
 
 The Real Estate Settlement Procedures Act, referred to in subsec. (b)(2)(A), probably refers to the Real Estate Settlement Procedures Act of 1974, Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (e)(1)(M), (N), (2)(M)(i), (N), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (e)(1)(M), (N), (2)(M)(i), (N), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
 
-2008—Subsec. (b)(2). Pub. L. 110–289, §2502(a)(1), designated existing provisions as subpar. (A).
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–289, §2502(a)(1), designated existing provisions as subpar. (A).
 
 Subsec. (b)(2)(A). Pub. L. 110–343, §130(a)(1), substituted “Except as provided in subparagraph (G), in the case” for “In the case”.
 
@@ -304,17 +372,23 @@ Pub. L. 110–289, §2502(a)(6), added subpar. (G).
 
 Subsec. (e). Pub. L. 110–315 added subsec. (e).
 
-2005—Subsec. (a)(15). Pub. L. 109–8, §1302(b)(1)(A), added par. (15).
+<b>2005</b>—Subsec. (a)(15). Pub. L. 109–8, §1302(b)(1)(A), added par. (15).
 
 Subsec. (b)(3). Pub. L. 109–8, §1302(b)(1)(B), added par. (3).
 
-1996—Subsec. (a)(14). Pub. L. 104–208 added par. (14).
+<b>1996</b>—Subsec. (a)(14). Pub. L. 104–208 added par. (14).
 
-1980—Subsec. (a). Pub. L. 96–221, §614(a), substituted provisions setting forth required disclosures by the creditor for transactions other than under an open end credit plan, for provisions setting forth required disclosures by the creditor for sales not under open end credit plans.
+<b>1980</b>—Subsec. (a). Pub. L. 96–221, §614(a), substituted provisions setting forth required disclosures by the creditor for transactions other than under an open end credit plan, for provisions setting forth required disclosures by the creditor for sales not under open end credit plans.
 
 Subsec. (b). Pub. L. 96–221, §614(b), designated existing provisions as par. (1), inserted provisions relating to the conspicuous segregation of required disclosures, and struck out provisions authorizing the required information to be disclosed in the signed evidence of indebtedness, and added par. (2).
 
 Subsec. (c). Pub. L. 96–221, §614(c), designated existing provisions as par. (1), substituted “total sale” for “deferred payment”, and added par. (2).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 1100A(2) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+
+Amendment by sections 1419, 1420, and 1465 of Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -355,52 +429,6 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 #### Regulations
 
 Pub. L. 110–315, title X, §1002, Aug. 14, 2008, 122 Stat. 3478, provided that: “Not later than 365 days after the date of enactment of this Act \[Aug. 14, 2008\], the Board of Governors of the Federal Reserve System shall issue regulations in final form to implement paragraphs (1), (2), (3), (4), (6), (7), and (8) of section 128(e) \[15 U.S.C. 1638(e)\] and section 140(c) of the Truth in Lending Act \[15 U.S.C. 1650(c)\], as added by this title, which regulations shall become effective not later than 6 months after their date of issuance.”
-
-#### Mortgages Loans; Rulemaking Procedures; Enforcement
-
-Pub. L. 111–8, div. D, title VI, §626(a), (b), Mar. 11, 2009, 123 Stat. 678, as amended by Pub. L. 111–24, title V, §511(a), May 22, 2009, 123 Stat. 1763, provided that:
-
-“(a)(1) Within 90 days after the date of enactment of this Act \[Mar. 11, 2009\], the Federal Trade Commission shall initiate a rulemaking proceeding with respect to mortgage loans in accordance with section 553 of title 5, United States Code. Such rulemaking shall relate to unfair or deceptive acts or practices regarding mortgage loans, which may include unfair or deceptive acts or practices involving loan modification and foreclosure rescue services. Any violation of a rule prescribed under this subsection shall be treated as a violation of a rule under section 18 of the Federal Trade Commission Act (15 U.S.C. 57a) regarding unfair or deceptive acts or practices.
-
-“(2) Paragraph (1) shall not be construed to authorize the Federal Trade Commission to promulgate a rule with respect to an entity that is not subject to enforcement of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) by the Commission.
-
-“(3) Before issuing a final rule pursuant to the proceeding initiated under paragraph (1), the Federal Trade Commission shall consult with the Federal Reserve Board concerning any portion of the proposed rule applicable to acts or practices to which the provisions of the Truth in Lending Act (15 U.S.C. 1601 et seq.) may apply.
-
-“(4) The Federal Trade Commission shall enforce the rules issued under paragraph (1) in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made part of this section.
-
-“(b)(1) Except as provided in paragraph (6), in any case in which the attorney general of a State has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by the engagement of any person subject to a rule prescribed under subsection (a) in a practice that violates such rule, the State, as parens patriae, may bring a civil action on behalf of the residents of the State in an appropriate district court of the United States or other court of competent jurisdiction—
-
-&emsp;“(A) to enjoin that practice;
-
-&emsp;“(B) to enforce compliance with the rule;
-
-&emsp;“(C) to obtain damages, restitution, or other compensation on behalf of residents of the State; or
-
-&emsp;“(D) to obtain penalties and relief provided by the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] and such other relief as the court considers appropriate.
-
-“(2) The State shall serve written notice to the primary Federal regulator of any civil action under paragraph (1) at least 60 days prior to initiating such civil action. The notice shall include a copy of the complaint to be filed to initiate such civil action, except that if it is not feasible for the State to provide such prior notice, the State shall provide notice immediately upon instituting such civil action.
-
-“(3) Upon receiving the notice required by paragraph (2), the primary Federal regulator may intervene in such civil action and upon intervening—
-
-&emsp;“(A) be heard on all matters arising in such civil action;
-
-&emsp;“(B) remove the action to the appropriate United States district court; and
-
-&emsp;“(C) file petitions for appeal of a decision in such civil action.
-
-“(4) Nothing in this subsection shall prevent the attorney general of a State from exercising the powers conferred on the attorney general by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence. Nothing in this section shall prohibit the attorney general of a State, or other authorized State officer, from proceeding in State or Federal court on the basis of an alleged violation of any civil or criminal statute of that State.
-
-“(5) In a civil action brought under paragraph (1)—
-
-&emsp;“(A) the venue shall be a judicial district in which the defendant is found, is an inhabitant, or transacts business or wherever venue is proper under section 1391 of title 28, United States Code; and
-
-&emsp;“(B) process may be served without regard to the territorial limits of the district or of the State in which the civil action is instituted.
-
-“(6) Whenever a civil action or an administrative action has been instituted by or on behalf of the primary Federal regulator for violation of any provision of law or rule described in paragraph (1), no State may, during the pendency of such action instituted by or on behalf of the primary Federal regulator, institute a civil action under that paragraph against any defendant named in the complaint in such action for violation of any law or rule as alleged in such complaint.
-
-“(7) If the attorney general of a State prevails in any civil action under paragraph (1), the State can recover reasonable costs and attorney fees from the lender or related party.”
-
-\[Pub. L. 111–24, title V, §511(b), May 22, 2009, 123 Stat. 1764, provided that: “The amendments made by subsection (a) \[amending section 626 of Pub. L. 111–8, set out above\] shall take effect on March 12, 2009.”\]
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

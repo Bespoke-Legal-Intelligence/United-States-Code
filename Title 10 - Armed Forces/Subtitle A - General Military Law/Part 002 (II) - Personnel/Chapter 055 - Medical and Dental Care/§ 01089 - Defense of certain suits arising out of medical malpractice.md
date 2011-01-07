@@ -28,27 +28,27 @@
 
 #### Amendments
 
-2008—Subsec. (g)(1). Pub. L. 110–181 substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
+<b>2008</b>—Subsec. (g)(1). Pub. L. 110–181 substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
 
-2002—Subsec. (g)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (g)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1997—Subsec. (a). Pub. L. 105–85, §736(b)(1), inserted at end “This subsection shall also apply if the physician, dentist, nurse, pharmacist, or paramedical or other supporting personnel (or the estate of such person) involved is serving under a personal services contract entered into under section 1091 of this title.”
+<b>1997</b>—Subsec. (a). Pub. L. 105–85, §736(b)(1), inserted at end “This subsection shall also apply if the physician, dentist, nurse, pharmacist, or paramedical or other supporting personnel (or the estate of such person) involved is serving under a personal services contract entered into under section 1091 of this title.”
 
 Subsec. (f). Pub. L. 105–85, §736(b)(2), designated existing provisions as par. (1) and added par. (2).
 
-1990—Subsec. (a). Pub. L. 101–510, §1533(a)(1)(A), substituted “Armed Forces Retirement Home” for “United States Soldiers’ and Airmen's Home”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–510, §1533(a)(1)(A), substituted “Armed Forces Retirement Home” for “United States Soldiers’ and Airmen's Home”.
 
 Subsec. (g)(3). Pub. L. 101–510, §1533(a)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “the Board of Commissioners of the United States Soldiers’ and Airmen's home, in the case of an employee of the United States Soldiers’ and Airmen's Home; and”.
 
-1987—Subsec. (g). Pub. L. 100–180 inserted “the term” after “In this section,”.
+<b>1987</b>—Subsec. (g). Pub. L. 100–180 inserted “the term” after “In this section,”.
 
-1983—Subsec. (a). Pub. L. 98–94, §934(a), inserted “the United States Soldiers’ and Airmen's Home,”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–94, §934(a), inserted “the United States Soldiers’ and Airmen's Home,”.
 
 Subsec. (f). Pub. L. 98–94, §934(b), substituted “may, to the extent that the head of the agency concerned considers” for “or his designee may, to the extent that he or his designee deems”.
 
 Subsec. (g)(3), (4). Pub. L. 98–94, §934(c)(3), added par. (3) and redesignated former par. (3) as (4).
 
-1981—Subsec. (a). Pub. L. 97–124 inserted “the National Guard while engaged in training or duty under section 316, 502, 503, 504, or 505 of title 32,” after “armed forces,”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–124 inserted “the National Guard while engaged in training or duty under section 316, 502, 503, 504, or 505 of title 32,” after “armed forces,”.
 
 #### Effective Date of 2002 Amendment
 

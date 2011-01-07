@@ -18,7 +18,7 @@ Language is changed.
 
 #### Amendments
 
-1999—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(B)\], substituted “Commissioner of Patents” for “Commissioner” wherever appearing.
+<b>1999</b>—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(B)\], substituted “Commissioner of Patents” for “Commissioner” wherever appearing.
 
 Pub. L. 106–113, §1000(a)(9) \[title IV, §4507(7)(A)\], in first par., inserted “by the publication of an application or” after “disclosure” and “the publication of the application or” after “withhold”.
 

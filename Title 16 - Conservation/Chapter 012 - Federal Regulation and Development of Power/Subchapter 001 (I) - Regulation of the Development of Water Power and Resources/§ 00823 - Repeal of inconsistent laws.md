@@ -1,6 +1,6 @@
 ### §823. Repeal of inconsistent laws
 
-All Acts or parts of Acts inconsistent with this chapter are repealed: <i>Provided</i>, That nothing contained herein shall be held or construed to modify or repeal any of the provisions of the Act of Congress approved December 19, 1913, granting certain rights-of-way to the city andcounty of San Francisco, in the State of California.
+All Acts or parts of Acts inconsistent with this chapter are repealed: <i>Provided</i>, That nothing contained herein shall be held or construed to modify or repeal any of the provisions of the Act of Congress approved December 19, 1913, granting certain rights-of-way to the city and county of San Francisco, in the State of California.
 
 (June 10, 1920, ch. 285, pt. I, §29, 41 Stat. 1077; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, §212, 49 Stat. 847.)
 

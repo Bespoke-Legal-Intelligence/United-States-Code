@@ -42,7 +42,7 @@
 
 #### Amendments
 
-1992—Subsec. (b)(2). Pub. L. 102–385, §21(1), substituted “$50,000” for “$25,000”, “2 years” for “1 year”, “$100,000” for “$50,000”, and “5 years” for “2 years”.
+<b>1992</b>—Subsec. (b)(2). Pub. L. 102–385, §21(1), substituted “$50,000” for “$25,000”, “2 years” for “1 year”, “$100,000” for “$50,000”, and “5 years” for “2 years”.
 
 Subsec. (b)(3). Pub. L. 102–385, §21(2), added par. (3).
 

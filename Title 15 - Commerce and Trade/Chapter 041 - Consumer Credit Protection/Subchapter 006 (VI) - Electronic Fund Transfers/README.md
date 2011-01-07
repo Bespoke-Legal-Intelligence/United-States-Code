@@ -22,6 +22,8 @@
 - [&sect; 01693m - Civil liability](%C2%A7%2001693m%20-%20Civil%20liability.md)
 - [&sect; 01693n - Criminal liability](%C2%A7%2001693n%20-%20Criminal%20liability.md)
 - [&sect; 01693o - Administrative enforcement](%C2%A7%2001693o%20-%20Administrative%20enforcement.md)
+- [&sect; 01693o&#8211;1 - Remittance transfers](%C2%A7%2001693o%E2%80%931%20-%20Remittance%20transfers.md)
+- [&sect; 01693o&#8211;2 - Reasonable fees and rules for payment card transactions](%C2%A7%2001693o%E2%80%932%20-%20Reasonable%20fees%20and%20rules%20for%20payment%20card%20transactions.md)
 - [&sect; 01693p - Reports to Congress](%C2%A7%2001693p%20-%20Reports%20to%20Congress.md)
 - [&sect; 01693q - Relation to State laws](%C2%A7%2001693q%20-%20Relation%20to%20State%20laws.md)
 - [&sect; 01693r - Exemption for State regulation](%C2%A7%2001693r%20-%20Exemption%20for%20State%20regulation.md)

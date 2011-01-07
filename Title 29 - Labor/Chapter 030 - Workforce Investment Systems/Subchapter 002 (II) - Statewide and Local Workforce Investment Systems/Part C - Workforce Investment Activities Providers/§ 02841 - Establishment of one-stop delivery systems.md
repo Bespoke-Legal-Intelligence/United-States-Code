@@ -168,7 +168,7 @@ The Carl D. Perkins Career and Technical Education Act of 2006, referred to in s
 
 The Trade Act of 1974, referred to in subsec. (b)(1)(B)(viii), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 2 of title II of the Act is classified principally to part 2 (§2271 et seq.) of subchapter II of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of Title 19 and Tables.
 
-The Community Services Block Grant Act, referred to in subsec. (b)(1)(B)(x), is subtitle B (§§671–683) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, which is classified generally to chapter 106 (§9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, seeShort Title note set out under section 9901 of Title 42 and Tables.
+The Community Services Block Grant Act, referred to in subsec. (b)(1)(B)(x), is subtitle B (§§671–683) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, which is classified generally to chapter 106 (§9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of Title 42 and Tables.
 
 The Social Security Act, referred to in subsec. (b)(2)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -182,11 +182,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (b)(2)(B)(ii), (iii). Pub. L. 110–246, §4002(b)(1)(B), (2)(R), made technical amendment to references in original act which appear in text as references to section 2015 of title 7.
+<b>2008</b>—Subsec. (b)(2)(B)(ii), (iii). Pub. L. 110–246, §4002(b)(1)(B), (2)(R), made technical amendment to references in original act which appear in text as references to section 2015 of title 7.
 
-2006—Subsec. (b)(1)(B)(vii). Pub. L. 109–270 substituted “career and technical education activities at the postsecondary level” for “postsecondary vocational education activities” and “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Applied Technology Education Act”.
+<b>2006</b>—Subsec. (b)(1)(B)(vii). Pub. L. 109–270 substituted “career and technical education activities at the postsecondary level” for “postsecondary vocational education activities” and “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Applied Technology Education Act”.
 
-1998—Subsec. (b)(1)(B)(iv). Pub. L. 105–332, §5(a)(1), inserted “(other than part C of title I of such Act and subject to subsection (f) of this section)” before semicolon.
+<b>1998</b>—Subsec. (b)(1)(B)(iv). Pub. L. 105–332, §5(a)(1), inserted “(other than part C of title I of such Act and subject to subsection (f) of this section)” before semicolon.
 
 Subsec. (f). Pub. L. 105–332, §5(a)(2), added subsec. (f).
 

@@ -14,7 +14,7 @@ The Secretary may (with the concurrence of the agency, organization, or other bo
 
 #### (b) Salary; travel and other expenses
 
-(1) The salary of a member of the Service assigned under this section shall be the higher ofthe salary which that member would receive but for the assignment under this section or the salary of the position to which that member is assigned.
+(1) The salary of a member of the Service assigned under this section shall be the higher of the salary which that member would receive but for the assignment under this section or the salary of the position to which that member is assigned.
 
 (2) The salary of a member of the Service assigned under this section shall be paid from appropriations made available for the payment of salaries and expenses of the Service. Such appropriations may be reimbursed for all or any part of the costs of salaries and other benefits for members assigned under this section.
 
@@ -44,7 +44,7 @@ Except as otherwise provided in subsection (d)(5) of this section, assignments u
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–228, §326(2), substituted “Except as otherwise provided in subsection (d)(5) of this section, assignments” for “Assignments”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–228, §326(2), substituted “Except as otherwise provided in subsection (d)(5) of this section, assignments” for “Assignments”.
 
 Subsec. (d). Pub. L. 107–228, §326(1), added subsec. (d).
 

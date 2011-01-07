@@ -52,7 +52,7 @@ Not more than 5 percent of the funds provided to a grantee under this subpart fo
 
 #### References in Text
 
-The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (b)(5), is Pub. L.88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (b)(5), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
 #### Prior Provisions
 
@@ -60,5 +60,5 @@ A prior section 7425, Pub. L. 89–10, title VII, §7115, as added Pub. L. 103�
 
 #### Amendments
 
-2006—Subsec. (b)(5). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
+<b>2006</b>—Subsec. (b)(5). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
 

@@ -26,5 +26,5 @@ November 12, 1996, referred to in subsec. (a), was in the original “enactment 
 
 #### Amendments
 
-1996—Pub. L. 104–333 amended section generally, substituting provisions relating to free-roaming horses for provisions relating to Ozark National Scenic Riverways Commission.
+<b>1996</b>—Pub. L. 104–333 amended section generally, substituting provisions relating to free-roaming horses for provisions relating to Ozark National Scenic Riverways Commission.
 

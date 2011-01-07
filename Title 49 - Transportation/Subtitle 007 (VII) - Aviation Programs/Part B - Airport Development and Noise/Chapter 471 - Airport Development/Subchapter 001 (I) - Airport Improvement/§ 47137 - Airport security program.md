@@ -36,7 +36,7 @@ Authorization of Appropriations.—Of the amounts made available to the Secretar
 
 #### Amendments
 
-2003—Subsecs. (e) to (g). Pub. L. 108–176 added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
+<b>2003</b>—Subsecs. (e) to (g). Pub. L. 108–176 added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
 #### Effective Date of 2003 Amendment
 
@@ -44,5 +44,5 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 #### Effective Date
 
-Section applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as an Effective Date of 2000 Amendments note under section 106 of this title.
+Section applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, setout as an Effective Date of 2000 Amendments note under section 106 of this title.
 

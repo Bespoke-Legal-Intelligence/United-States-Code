@@ -230,15 +230,15 @@ The Administrator shall conduct detailed, comprehensive studies of methods to ex
 
 #### Amendments
 
-1984—Subsec. (r). Pub. L. 98–616, §224(c), added subsec. (r).
+<b>1984</b>—Subsec. (r). Pub. L. 98–616, §224(c), added subsec. (r).
 
 Subsec. (s). Pub. L. 98–616, §702, added subsec. (s).
 
-1980—Subsec. (f). Pub. L. 96–482, §29(1), required publication of report no later than thirty-six months after Oct. 21, 1980, and its submission to Senate Committee on Environment and Public Works and House Committee on Energy and Commerce.
+<b>1980</b>—Subsec. (f). Pub. L. 96–482, §29(1), required publication of report no later than thirty-six months after Oct. 21, 1980, and its submission to Senate Committee on Environment and Public Works and House Committee on Energy and Commerce.
 
 Subsecs. (m) to (q). Pub. L. 96–482, §29(2), added subsecs. (m) to (p) and redesignated former subsec. (m) as (q).
 
-1978—Subsec. (g)(1). Pub. L. 95–609, §7(t)(1), substituted “shale, liquefaction” for “shale liquefaction”.
+<b>1978</b>—Subsec. (g)(1). Pub. L. 95–609, §7(t)(1), substituted “shale, liquefaction” for “shale liquefaction”.
 
 Subsec. (j)(1). Pub. L. 95–609, §7(t)(2), enacted a provision adding the Secretary of Energy and the Chairman of the Council of Economic Advisors to the Committee.
 

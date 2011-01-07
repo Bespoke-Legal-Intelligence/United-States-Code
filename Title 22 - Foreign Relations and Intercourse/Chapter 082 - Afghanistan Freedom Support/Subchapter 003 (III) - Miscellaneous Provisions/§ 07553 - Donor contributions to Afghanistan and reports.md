@@ -16,7 +16,7 @@ It is the sense of Congress that the United States should use all appropriate di
 
 #### (2) Further requirements
 
-&emsp;Each report, which shall be unclassified and posted upon the Department of State's Internet website, shall include, by donor country,the total amount pledged, the amount delivered within the previous 60 days, the total amount of assistance delivered, the type of assistance and type of projects supported by the assistance.
+&emsp;Each report, which shall be unclassified and posted upon the Department of State's Internet website, shall include, by donor country, the total amount pledged, the amount delivered within the previous 60 days, the total amount of assistance delivered, the type of assistance and type of projects supported by the assistance.
 
 (Pub. L. 107–327, title III, §303, Dec. 4, 2002, 116 Stat. 2812.)
 

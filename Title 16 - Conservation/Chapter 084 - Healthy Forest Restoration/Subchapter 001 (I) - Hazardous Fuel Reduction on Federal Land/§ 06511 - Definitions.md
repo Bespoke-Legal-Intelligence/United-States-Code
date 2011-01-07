@@ -146,9 +146,9 @@ In this subchapter:
 
 &emsp;&emsp;(B) in the case of any area for which a community wildfire protection plan is not in effect—
 
-&emsp;&emsp;&emsp;(i) an area extending 1/2-mile from the boundary of an at-risk community;
+&emsp;&emsp;&emsp;(i) an area extending ½-mile from the boundary of an at-risk community;
 
-&emsp;&emsp;&emsp;(ii) an area within 11/2 miles of the boundary of an at-risk community, including any land that—
+&emsp;&emsp;&emsp;(ii) an area within 1½ miles of the boundary of an at-risk community, including any land that—
 
 &emsp;&emsp;&emsp;&emsp;(I) has a sustained steep slope that creates the potential for wildfire behavior endangering the at-risk community;
 
@@ -164,5 +164,5 @@ In this subchapter:
 
 The Department of the Interior and Related Agencies Appropriations Act, 2001, referred to in pars. (1)(A)(i) and (11), is Pub. L. 106–291, Oct. 11, 2000, 114 Stat. 922. Title IV of the act is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
-The Endangered Species Act of 1973, referred to in par. (15), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35\(§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in par. (15), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 

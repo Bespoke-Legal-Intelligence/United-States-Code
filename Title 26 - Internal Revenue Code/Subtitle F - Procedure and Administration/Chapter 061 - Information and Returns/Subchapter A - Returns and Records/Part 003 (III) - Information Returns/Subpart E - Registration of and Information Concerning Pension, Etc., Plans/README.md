@@ -10,7 +10,7 @@ Subpart E—Registration of and Information Concerning Pension, Etc., Plans
 
 #### Amendments
 
-1974—Pub. L. 93–406, title II, §1031(a), Sept. 2, 1974, 88 Stat. 943, added subpart heading and analysis of sections.
+<b>1974</b>—Pub. L. 93–406, title II, §1031(a), Sept. 2, 1974, 88 Stat. 943, added subpart heading and analysis of sections.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 

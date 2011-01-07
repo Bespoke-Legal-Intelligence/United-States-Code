@@ -6,9 +6,9 @@ All persons having or bringing personal property on the premises of a Department
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 5203 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5203 of this title as this section.
 
 Pub. L. 102–83 substituted “Department” for “Veterans’ Administration”.
 
-1986—Pub. L. 99–576 substituted “such person's” for “his” in second sentence.
+<b>1986</b>—Pub. L. 99–576 substituted “such person's” for “his” in second sentence.
 

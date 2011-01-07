@@ -1,7 +1,5 @@
 subpart vi—labor-management relations
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

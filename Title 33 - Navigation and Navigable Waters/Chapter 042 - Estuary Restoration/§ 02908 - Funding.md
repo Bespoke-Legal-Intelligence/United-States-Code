@@ -30,7 +30,7 @@ Not to exceed 3 percent of the amounts appropriated for a fiscal year under subs
 
 #### Amendments
 
-2007—Subsec. (a)(1). Pub. L. 110–114, §5017(g)(1), struck out “to the Secretary” after “appropriated” in introductory provisions, added subpars. (A) to (E), and struck out former subpars. (A) to (D) which read as follows:
+<b>2007</b>—Subsec. (a)(1). Pub. L. 110–114, §5017(g)(1), struck out “to the Secretary” after “appropriated” in introductory provisions, added subpars. (A) to (E), and struck out former subpars. (A) to (D) which read as follows:
 
 “(A) $40,000,000 for fiscal year 2001;
 

@@ -10,7 +10,7 @@ The determination and order of the Secretary with respect thereto under this sec
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–641, §403(b)(1), (2)(B), (C), temporarily designated provisions which related to authority to refuse or withdraw inspection service as subsec. (a), struck out “any felony, or (2)” after “of (1)”, and inserted “or (2) any felony” after “transactions in food”. See Effective and Termination Dates of 1986 Amendment note below.
+<b>1986</b>—Subsec. (a). Pub. L. 99–641, §403(b)(1), (2)(B), (C), temporarily designated provisions which related to authority to refuse or withdraw inspection service as subsec. (a), struck out “any felony, or (2)” after “of (1)”, and inserted “or (2) any felony” after “transactions in food”. See Effective and Termination Dates of 1986 Amendment note below.
 
 Pub. L. 99–641, §403(b)(2)(A), which directed that subsec. (a) be amended by substituting “applicant for” for “applicant, for”, could not be executed because “applicant, for” does not appear.
 

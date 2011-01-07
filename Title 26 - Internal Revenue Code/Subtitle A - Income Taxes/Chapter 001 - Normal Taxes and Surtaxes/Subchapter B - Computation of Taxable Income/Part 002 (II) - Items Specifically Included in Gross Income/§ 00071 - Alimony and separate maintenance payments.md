@@ -18,7 +18,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) in the case of an individual legally separated from his spouse under a decree of divorce or of separate maintenance, the payee spouse and the payor spouse are not members of the same household at the time such payment is made, and
 
-&emsp;&emsp;(D) there is no liability to make any such payment for any period after the death of the payee spouse and there is no liability tomake any payment (in cash or property) as a substitute for such payments after the death of the payee spouse.
+&emsp;&emsp;(D) there is no liability to make any such payment for any period after the death of the payee spouse and there is no liability to make any payment (in cash or property) as a substitute for such payments after the death of the payee spouse.
 
 #### (2) Divorce or separation instrument
 
@@ -80,7 +80,7 @@ This section and section 215 shall not apply if the spouses make a joint return 
 
 &emsp;For purposes of this subsection, the amount of the excess payments for the 1st post-separation year is the excess (if any) of—
 
-&emsp;&emsp;(A) the amount of the alimony or separate maintenance payments paid by the payor spouse during the 1st post-separation year, over
+&emsp;&emsp;(A) the amount of the alimony or separate maintenance payments paid by the payorspouse during the 1st post-separation year, over
 
 &emsp;&emsp;(B) the sum of—
 
@@ -120,7 +120,7 @@ This section and section 215 shall not apply if the spouses make a joint return 
 
 #### (C) Fluctuating payments not within control of payor spouse
 
-&emsp;&emsp;For purposes of this subsection, the term “alimony or separate maintenance payment” shall not include any payment to the extent it is made pursuant to a continuingliability (over a period of not less than 3 years) to pay a fixed portion or portions of the income from a business or property or from compensation for employment or self-employment.
+&emsp;&emsp;For purposes of this subsection, the term “alimony or separate maintenance payment” shall not include any payment to the extent it is made pursuant to a continuing liability (over a period of not less than 3 years) to pay a fixed portion or portions of the income from a business or property or from compensation for employment or self-employment.
 
 #### (6) Post-separation years
 
@@ -136,7 +136,7 @@ This section and section 215 shall not apply if the spouses make a joint return 
 
 #### Amendments
 
-1986—Subsec. (b)(1)(D). Pub. L. 99–514, §1843(b), struck out “(and the divorce or separation instrument states that there is no such liability)” after “for such payments after the death of the payee spouse”.
+<b>1986</b>—Subsec. (b)(1)(D). Pub. L. 99–514, §1843(b), struck out “(and the divorce or separation instrument states that there is no such liability)” after “for such payments after the death of the payee spouse”.
 
 Subsec. (c)(2)(B). Pub. L. 99–514, §1843(d), substituted “specified in subparagraph (A)” for “specified in paragraph (1)”.
 
@@ -144,7 +144,7 @@ Subsec. (f). Pub. L. 99–514, §1843(c)(1), amended subsec. (f) generally, subs
 
 Subsec. (g). Pub. L. 99–514, §1843(a), added subsec. (g).
 
-1984—Pub. L. 98–369 amended section generally, substituting present provisions for provisions which had declared in: subsec. (a), a general rule as to decree of divorce or separate maintenance in par. (1), written separation agreement in par. (2), and decree for support in par. (3); subsec. (b), payments to support minor children; subsec. (c), principal sum paid in installments, par. (1) stating a general rule and par. (2) the rule where period for payment is more than 10 years; subsec. (d), the rule for husband in case of transferred property; and subsec. (e), cross references to sections 7701(a)(17), 215, and 682.
+<b>1984</b>—Pub. L. 98–369 amended section generally, substituting present provisions for provisions which had declared in: subsec. (a), a general rule as to decree of divorce or separate maintenance in par. (1), written separation agreement in par. (2), and decree for support in par. (3); subsec. (b), payments to support minor children; subsec. (c), principal sum paid in installments, par. (1) stating a general rule and par. (2) the rule where period for payment is more than 10 years; subsec. (d), the rule for husband in case of transferred property; and subsec. (e), cross references to sections 7701(a)(17), 215, and 682.
 
 #### Effective Date of 1986 Amendment; Transitional Rule
 

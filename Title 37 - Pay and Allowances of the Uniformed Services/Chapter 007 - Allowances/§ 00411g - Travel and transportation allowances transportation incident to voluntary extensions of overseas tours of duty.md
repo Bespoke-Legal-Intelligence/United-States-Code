@@ -30,9 +30,9 @@
 
 #### Amendments
 
-1989—Subsec. (a). Pub. L. 101–189 struck out “to” after “may be paid” in concluding provisions.
+<b>1989</b>—Subsec. (a). Pub. L. 101–189 struck out “to” after “may be paid” in concluding provisions.
 
-1988—Subsec. (a). Pub. L. 100–456 substituted “may be paid” for “is entitled” in concluding provisions.
+<b>1988</b>—Subsec. (a). Pub. L. 100–456 substituted “may be paid” for “is entitled” in concluding provisions.
 
 #### Effective Date of 1988 Amendment
 

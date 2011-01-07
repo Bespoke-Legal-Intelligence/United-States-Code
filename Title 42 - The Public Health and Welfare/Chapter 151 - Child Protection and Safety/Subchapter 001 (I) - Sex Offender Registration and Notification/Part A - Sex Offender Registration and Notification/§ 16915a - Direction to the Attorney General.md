@@ -34,11 +34,11 @@ The Attorney General shall ensure that procedures are in place to notify each se
 
 #### (2) Of “Internet identifiers”
 
-&emsp;As used in this Act, the term “Internet identifiers” means electronic mail addresses andother designations used for self-identification or routing in Internet communication or posting.
+&emsp;As used in this Act, the term “Internet identifiers” means electronic mail addresses and other designations used for self-identification or routing in Internet communication or posting.
 
 #### (3) Other terms
 
-&emsp;A term defined for the purposes of the Sex Offender Registration and Notification Act \[42 U.S.C. 16901 et seq.\] has the same meaning in this Act.
+&emsp;A term defined for the purposes of the Sex Offender Registration and Notification Act \[42U.S.C. 16901 et seq.\] has the same meaning in this Act.
 
 (Pub. L. 110–400, §2, Oct. 13, 2008, 122 Stat. 4224.)
 

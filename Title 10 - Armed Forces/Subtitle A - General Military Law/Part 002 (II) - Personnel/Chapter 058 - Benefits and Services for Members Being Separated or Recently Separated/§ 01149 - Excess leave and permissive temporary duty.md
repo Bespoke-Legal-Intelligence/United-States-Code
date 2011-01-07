@@ -6,9 +6,9 @@ Under regulations prescribed by the Secretary of Defense or the Secretary of Hom
 
 #### Amendments
 
-2002—Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1994—Pub. L. 103–337 inserted “or the Secretary of Transportation with respect to the Coast Guard” after “Secretary of Defense” and struck out “of the military department” before “concerned”.
+<b>1994</b>—Pub. L. 103–337 inserted “or the Secretary of Transportation with respect to the Coast Guard” after “Secretary of Defense” and struck out “of the military department” before “concerned”.
 
 #### Effective Date of 2002 Amendment
 

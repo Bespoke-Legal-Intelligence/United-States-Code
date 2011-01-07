@@ -2,7 +2,7 @@
 
 #### (a) Authority to proceed with program
 
-The Secretary of the Interior, hereinafter referred to as the “Secretary”, is authorized and directed to proceed with a program of works of improvement for the enhancement and protection of the quality of water available in the Colorado River for use in the United States and the Republic of Mexico, and to enable the UnitedStates to comply with its obligations under the agreement with Mexico of August 30, 1973 (Minute No. 242 of the International Boundary and Water Commission, United States and Mexico), concluded pursuant to the Treaty of February 3, 1944 (TS 994), in accordance with the provisions of this chapter.
+The Secretary of the Interior, hereinafter referred to as the “Secretary”, is authorized and directed to proceed with a program of works of improvement for the enhancement and protection of the quality of water available in the Colorado River for use in the United States and the Republic of Mexico, and to enable the United States to comply with its obligations under the agreement with Mexico of August 30, 1973 (Minute No. 242 of the International Boundary and Water Commission, United States and Mexico), concluded pursuant to the Treaty of February 3, 1944 (TS 994), in accordance with the provisions of this chapter.
 
 #### (b) Desalting complexes and plants
 
@@ -52,7 +52,7 @@ The Secretary is authorized to amend the contract between the United States and 
 
 #### (j) Acquisition of land for storage
 
-The Secretary is authorized to acquire through the Corps of Engineers fee title to, or other necessary interests in, additional lands above the Painted Rock Dam in Arizona that are required for the temporary storage capacity needed to permit operation of the dam and reservoir in times of serious flooding in accordance with the obligations of the United States under Minute No. 242. No funds shall be expended for acquisition of land or interests therein until it is finally determined by a Federal court of competent jurisdiction that the Corps of Engineers presently lacks legal authority to use said lands for this purpose. Nothing contained in this subchapter nor any action taken pursuant to it shall be deemed to be a recognition or admission of any obligation to the owners of such land on the part of the United States or a limitation or deficiency in the rights or powers of the United States with respect to such lands or the operation of the reservoir.
+The Secretary is authorized to acquire through the Corps of Engineers fee title to, or other necessary interests in, additional lands above the Painted Rock Dam in Arizona that are required for the temporary storage capacity needed to permit operation of the dam and reservoir in times of serious flooding in accordancewith the obligations of the United States under Minute No. 242. No funds shall be expended for acquisition of land or interests therein until it is finally determined by a Federal court of competent jurisdiction that the Corps of Engineers presently lacks legal authority to use said lands for this purpose. Nothing contained in this subchapter nor any action taken pursuant to it shall be deemed to be a recognition or admission of any obligation to the owners of such land on the part of the United States or a limitation or deficiency in the rights or powers of the United States with respect to such lands or the operation of the reservoir.
 
 #### (k) Transfer of funds
 
@@ -70,7 +70,7 @@ Act of July 30, 1947 (61 Stat. 628), known as the Gila Reauthorization Act, refe
 
 #### Amendments
 
-1980—Subsec. (b)(2). Pub. L. 96–336, §1, designated existing provisions as subpar. (A), struck out requirement that all costs associated with the desalting plant be nonreimbursable, and added subpars. (B) and (C).
+<b>1980</b>—Subsec. (b)(2). Pub. L. 96–336, §1, designated existing provisions as subpar. (A), struck out requirement that all costs associated with the desalting plant be nonreimbursable, and added subpars. (B) and (C).
 
 Subsec. (c). Pub. L. 96–336, §2, included replacement water studies covering reject stream from the Colorado River waters used for the mitigation of fish and wildlife habitat losses.
 

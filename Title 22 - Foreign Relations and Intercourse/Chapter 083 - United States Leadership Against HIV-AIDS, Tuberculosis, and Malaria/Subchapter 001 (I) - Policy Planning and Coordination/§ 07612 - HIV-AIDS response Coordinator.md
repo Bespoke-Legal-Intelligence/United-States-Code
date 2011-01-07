@@ -4,7 +4,7 @@
 
 #### (b) Resources
 
-Not later than 90 days after May 27, 2003, the President shall specify the necessary financial and personnel resources, from funds appropriated pursuant to the authorization of appropriations under section 7671 of this title for HIV/AIDS assistance, that shall be assigned to and under the direct control of the Coordinator of United States Government Activities to Combat HIV/AIDS Globally to establish and maintain the duties and supporting activities assigned to the Coordinator by this chapter and the amendments made by this chapter.
+Not later than 90 days after May 27, 2003, the President shall specify the necessary financialand personnel resources, from funds appropriated pursuant to the authorization of appropriations under section 7671 of this title for HIV/AIDS assistance, that shall be assigned to and under the direct control of the Coordinator of United States Government Activities to Combat HIV/AIDS Globally to establish and maintain the duties and supporting activities assigned to the Coordinator by this chapter and the amendments made by this chapter.
 
 #### (c) Establishment of separate account
 
@@ -32,7 +32,7 @@ Section is comprised of section 102 of Pub. L. 108–25. Subsec. (a) of section 
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–293 added subsec. (d).
+<b>2008</b>—Subsec. (d). Pub. L. 110–293 added subsec. (d).
 
 #### Delegation of Functions
 

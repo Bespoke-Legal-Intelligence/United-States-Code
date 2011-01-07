@@ -16,11 +16,11 @@ The park boundary is hereby revised to exclude those lands depicted as “Propos
 
 #### (c) Excess property
 
-Any lands not conveyed pursuant to subsection (b) of this section shall be reported to the Administrator of General Services as excess to the needs of the Department of the Interior and shall be subject to transfer or disposition in accordance with the Federal Property and Administrative Services Act of 1949, as amended.
+Any lands not conveyed pursuant to subsection (b) of this section shall be reported to the Administrator of General Services as excess to the needs of the Department of the Interior and shall be subject to transfer or disposition in accordance with chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
 (Pub. L. 101–442, title I, §102, Oct. 18, 1990, 104 Stat. 1019.)
 
-#### References in Text
+#### Codification
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
+In subsec. (c), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of1949, as amended” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

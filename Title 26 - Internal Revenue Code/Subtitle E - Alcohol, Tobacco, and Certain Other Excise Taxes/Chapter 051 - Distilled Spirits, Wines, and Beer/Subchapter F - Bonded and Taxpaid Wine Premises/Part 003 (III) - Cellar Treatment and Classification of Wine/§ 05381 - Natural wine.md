@@ -10,7 +10,7 @@ A prior section 5381, act Aug. 16, 1954, ch. 736, 68A Stat. 668, consisted of pr
 
 #### Amendments
 
-1979—Pub. L. 96–39 struck out provisions authorizing removal for distillation of wine deemed not to be natural wine, destruction of such wine under government supervision, and transfer of such wine to premises in which other than natural wine may be stored or used.
+<b>1979</b>—Pub. L. 96–39 struck out provisions authorizing removal for distillation of wine deemed not to be natural wine, destruction of such wine under government supervision, and transfer of such wine to premises in which other than natural wine may be stored or used.
 
 #### Effective Date of 1979 Amendment
 

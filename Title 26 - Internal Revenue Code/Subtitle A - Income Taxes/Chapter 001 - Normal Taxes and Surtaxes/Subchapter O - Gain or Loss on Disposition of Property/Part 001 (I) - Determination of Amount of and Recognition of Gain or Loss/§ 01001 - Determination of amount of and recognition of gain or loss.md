@@ -44,17 +44,17 @@ Nothing in this section shall be construed to prevent (in the case of property s
 
 #### Amendments
 
-1993—Subsec. (f). Pub. L. 103–66 struck out heading and text of subsec. (f). Text read as follows: “For treatment of certain expenses incident to the sale of a residence which were deducted as moving expenses by the taxpayer or his spouse under section 217(a), see section 217(e).”
+<b>1993</b>—Subsec. (f). Pub. L. 103–66 struck out heading and text of subsec. (f). Text read as follows: “For treatment of certain expenses incident to the sale of a residence which were deducted as moving expenses by the taxpayer or his spouse under section 217(a), see section 217(e).”
 
-1984—Subsec. (e)(1). Pub. L. 98–369 inserted reference to section 1041.
+<b>1984</b>—Subsec. (e)(1). Pub. L. 98–369 inserted reference to section 1041.
 
-1980—Subsec. (e)(1). Pub. L. 96–223 repealed the amendment made by Pub. L. 95–600. See 1978 Amendment note below.
+<b>1980</b>—Subsec. (e)(1). Pub. L. 96–223 repealed the amendment made by Pub. L. 95–600. See 1978 Amendment note below.
 
-1978—Subsec. (e)(1). Pub. L. 95–600 inserted reference to section 1023. See Repeals note below.
+<b>1978</b>—Subsec. (e)(1). Pub. L. 95–600 inserted reference to section 1023. See Repeals note below.
 
-1976—Subsec. (c). Pub. L. 94–455 substituted provision recognizing the entire amount of gain or loss, except as otherwise provided, for provision referring to section 1002 for the determination of the extent of gain or loss to be recognized.
+<b>1976</b>—Subsec. (c). Pub. L. 94–455 substituted provision recognizing the entire amount of gain or loss, except as otherwise provided, for provision referring to section 1002 for the determination of the extent of gain or loss to be recognized.
 
-1969—Subsec. (e). Pub. L. 91–172, §516(a), added subsec. (e).
+<b>1969</b>—Subsec. (e). Pub. L. 91–172, §516(a), added subsec. (e).
 
 Subsec. (f). Pub. L. 91–172, §231(c)(2), added subsec. (f).
 
@@ -88,7 +88,7 @@ Section 516(d) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22
 
 “(2) The amendment made by subsection (b) \[amending section 1231 of this title\] shall apply to taxable years beginning after December 31, 1969.
 
-“(3) The amendments made by subsection (c) \[enacting section 1253 and amending sections 162 and 1016 of this title\] shall apply to transfers after December 31, 1969, except that section 1253(d)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (c) shall, at the election of the taxpayer (made at such time and in such manner as the Secretary or his delegate may by regulations prescribe), apply to transfers before January 1, 1970, but only with respect to payments made in taxable years ending after December 31, 1969, and beginning before January 1, 1980.”
+“(3) The amendments made by subsection (c) \[enacting section 1253 and amending sections 162 and 1016 of this title\] shall apply to transfers after December 31, 1969, except that section 1253(d)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (c) shall, at the election of the taxpayer (made at such time and in such manner as the Secretary or his delegate may by regulations prescribe), apply totransfers before January 1, 1970, but only with respect to payments made in taxable years ending after December 31, 1969, and beginning before January 1, 1980.”
 
 #### Repeals
 

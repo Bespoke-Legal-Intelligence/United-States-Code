@@ -24,9 +24,9 @@ The corporation shall conduct or require each grantee or contractor to provide f
 
 #### Amendments
 
-2004—Subsecs. (c), (d). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsecs. (c), (d). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1995—Subsec. (c). Pub. L. 104–66 struck out at end “The financial transactions of the corporation shall be audited by the General Accounting Office at least once during each three years.”
+<b>1995</b>—Subsec. (c). Pub. L. 104–66 struck out at end “The financial transactions of the corporation shall be audited by the General Accounting Office at least once during each three years.”
 
 #### National Demonstration Program of Mutual Housing Associations; Report to Congress
 

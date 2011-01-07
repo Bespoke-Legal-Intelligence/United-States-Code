@@ -140,7 +140,7 @@ Pub. L. 109–390, §5(a)(3)(C), substituted “(vii), (viii), or (ix)” for �
 
 Par. (7)(A)(ix) to (xi). Pub. L. 109–390, §5(a)(3)(D), redesignated cls. (vii) to (ix) as (ix) to (xi), respectively.
 
-2005—Par. (7). Pub. L. 109–8 added par. (7) and struck out former par. (7) which read as follows: “ ‘securities contract’ means contract for the purchase, sale, or loan of a security, including an option for the purchase or sale of a security, certificate of deposit, or group or index of securities (including any interest therein or based on the value thereof), or any option entered into on a national securities exchange relating to foreign currencies, or the guarantee of any settlement of cash or securities by or to a securities clearing agency;”.
+2005—Par. (7). Pub. L. 109–8 added par. (7) and struck out former par. (7) which read as follows: “ ‘securitiescontract’ means contract for the purchase, sale, or loan of a security, including an option for the purchase or sale of a security, certificate of deposit, or group or index of securities (including any interest therein or based on the value thereof), or any option entered into on a national securities exchange relating to foreign currencies, or the guarantee of any settlement of cash or securities by or to a securities clearing agency;”.
 
 1994—Par. (4)(A)(iii). Pub. L. 103–394 struck out “(15 U.S.C. 78a et seq.)” after “Act of 1934”.
 
@@ -154,7 +154,7 @@ Par. (4)(A)(i). Pub. L. 98–353, §482(3), substituted “from and that is the 
 
 Par. (6)(A)(i). Pub. L. 98–353, §482(4), inserted a comma after “petition” and “any” after “except”.
 
-Par. (7). Pub. L. 98–353, §482(5), amended par. (7) generally, inserting provisions relating to options for the purchase or sale of certificates of deposit, or a group or index of securities (including any interest therein orbased on the value thereof), or any option entered into on a national securities exchange relating to foreign currencies.
+Par. (7). Pub. L. 98–353, §482(5), amended par. (7) generally, inserting provisions relating to options for the purchase or sale of certificates of deposit, or a group or index of securities (including any interest therein or based on the value thereof), or any option entered into on a national securities exchange relating to foreign currencies.
 
 Par. (8). Pub. L. 98–353, §482(6), inserted “a final settlement payment,”.
 

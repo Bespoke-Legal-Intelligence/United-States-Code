@@ -18,11 +18,17 @@
 
 #### SUBCHAPTER III—ADVISORY PANEL ON ALZHEIMER'S DISEASE
 
+|  |
+| :--- |
+| 11221 to 11223. Omitted. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER III–A—NATIONAL ALZHEIMER'S PROJECT
+
 |  |  |
 | :--- | ---: |
-| [11221\.](Subchapter%20003%20%28III%29%20-%20Advisory%20Panel%20on%20Alzheimer%27s%20Disease/%C2%A7%2011221%20-%20Establishment%20of%20Panel.md) | Establishment of Panel. |
-| [11222\.](Subchapter%20003%20%28III%29%20-%20Advisory%20Panel%20on%20Alzheimer%27s%20Disease/%C2%A7%2011222%20-%20Functions%20of%20Panel.md) | Functions of Panel. |
-| [11223\.](Subchapter%20003%20%28III%29%20-%20Advisory%20Panel%20on%20Alzheimer%27s%20Disease/%C2%A7%2011223%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [11225\.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20National%20Alzheimer%27s%20Project/%C2%A7%2011225%20-%20The%20National%20Alzheimer%27s%20Project.md) | The National Alzheimer's Project. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -85,5 +91,6 @@
 - [Subchapter 001 (I) - General Provisions](Subchapter%20001%20%28I%29%20-%20General%20Provisions/README.md)
 - [Subchapter 002 (II) - Council on Alzheimer's Disease](Subchapter%20002%20%28II%29%20-%20Council%20on%20Alzheimer%27s%20Disease/README.md)
 - [Subchapter 003 (III) - Advisory Panel on Alzheimer's Disease](Subchapter%20003%20%28III%29%20-%20Advisory%20Panel%20on%20Alzheimer%27s%20Disease/README.md)
+- [Subchapter 003&#8211;A (III&#8211;A) - National Alzheimer's Project](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20National%20Alzheimer%27s%20Project/README.md)
 - [Subchapter 004 (IV) - Research Relating to Services for Individuals with Alzheimer's Disease and Related Dementias and Their Families](Subchapter%20004%20%28IV%29%20-%20Research%20Relating%20to%20Services%20for%20Individuals%20with%20Alzheimer%27s%20Disease%20and%20Related%20Dementias%20and%20Their%20Families/README.md)
 - [Subchapter 005 (V) - Educational Activities](Subchapter%20005%20%28V%29%20-%20Educational%20Activities/README.md)

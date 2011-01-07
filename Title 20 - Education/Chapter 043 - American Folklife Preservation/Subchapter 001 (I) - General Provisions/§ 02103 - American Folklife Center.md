@@ -32,11 +32,11 @@ There is hereby established in the Library of Congress an American Folklife Cent
 
 (2) In making appointments from private life under paragraph (1)(B) and (C), the President pro tempore of the Senate, the Speaker of the House of Representatives, and the Librarian of Congress shall give due consideration to the appointment of individuals who collectively will provide appropriate diversity and regional balance on the Board. Not more than three of the members appointed by the President pro tempore of the Senate or by the Speaker of the House of Representatives may be affiliated with the same political party.
 
-(3) In making appointments under paragraph (1)(C), the Librarian of Congress shall include at least two members who direct or are members of the boards of major American folklife organizations other than the American Folklore Society and the Society for Ethnomusicology.
+(3) In making appointments under paragraph (1)(C), the Librarian of Congress shall include atleast two members who direct or are members of the boards of major American folklife organizations other than the American Folklore Society and the Society for Ethnomusicology.
 
 #### (c) Term of office
 
-The term of office of each appointed member of the Board shall be six years; except that\(1)(A) the members first appointed under clause (1) of subsection (b) of this section shall serve as designated by the President, one for a term of two years, two for a term of four years, and one for a term of six years, and (B) the members first appointed under clause (2) of subsection (b) of this section shall serve as jointly designated by the President pro tempore of the Senate and the Speaker of the House of Representatives, two for terms of two years, four for terms of four years, and two for terms of six years; and (2) any member appointed to fill a vacancy occurring prior to the expiration of the term to which his predecessor was appointed shall be appointed for the remainder of such term. Members appointed by the President under clause (1) of subsection (b) of this section shall serve only during the time they are officials of Federal departments and agencies concerned with some aspect of American folklife traditions and arts.
+The term of office of each appointed member of the Board shall be six years; except that (1)(A) the members first appointed under clause (1) of subsection (b) of this section shall serve as designated by the President, one for a term of two years, two for a term of four years, and one for a term of six years, and (B) the members first appointed under clause (2) of subsection (b) of this section shall serve as jointly designated by the President pro tempore of the Senate and the Speaker of the House of Representatives, two for terms of two years, four for terms of four years, and two for terms of six years; and (2) any member appointed to fill a vacancy occurring prior to the expiration of the term to which his predecessor was appointed shall be appointed for the remainder of such term. Members appointed by the President under clause (1) of subsection (b) of this section shall serve only during the time they are officials of Federal departments and agencies concerned with some aspect of American folklife traditions and arts.
 
 #### (d) Reimbursement for expenses
 
@@ -66,7 +66,7 @@ The General Schedule, referred to in subsec. (f), is set out under section 5332 
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–275, §312(b)(1)(A), added subsec. (b) and struck out former subsec. (b) which read as follows: “The Center shall be under the direction of a Board of Trustees. The Board shall be composed as follows—
+<b>1998</b>—Subsec. (b). Pub. L. 105–275, §312(b)(1)(A), added subsec. (b) and struck out former subsec. (b) which read as follows: “The Center shall be under the direction of a Board of Trustees. The Board shall be composed as follows—
 
 &emsp;“(1) four members appointed by the President from among individuals who are officials of Federal departments and agencies concerned with some aspect of American folklife traditions and arts;
 
@@ -94,7 +94,7 @@ Subsec. (f). Pub. L. 105–275, §312(b)(1)(D), added subsec. (f) and struck out
 
 Subsec. (g). Pub. L. 105–275, §312(b)(1)(E), struck out “(1)” before “The Director” and struck out par. (2) which read as follows: “The Deputy Director shall perform such functions as the Director, with the approval of the Librarian, may prescribe, and shall serve as Acting Director during the absence or disability of the Director or in the event of a vacancy in the office of the Director.”
 
-1978—Subsec. (c). Pub. L. 95–259 inserted provision limiting time of service of members appointed by the President to the time they are officials of Federal departments and agencies concerned with some aspect of American folklife traditions and arts.
+<b>1978</b>—Subsec. (c). Pub. L. 95–259 inserted provision limiting time of service of members appointed by the President to the time they are officials of Federal departments and agencies concerned with some aspect of American folklife traditions and arts.
 
 #### Board of Trustees, Transition Period
 

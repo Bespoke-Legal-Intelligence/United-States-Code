@@ -146,7 +146,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (i) Submission of ex parte materials in judicial proceedings
 
-&emsp;&emsp;&emsp;When reviewing a decision of the Secretary under subparagraph (A), and upon request made ex parte and in writing by the United States, a court, upon a sufficient showing, may review and consider ex parte documents containing information the disclosure of which could compromise national security or an investigation by any law enforcement agency. If the court determines that portions of the documents considered ex parte should be disclosed to the person involved to allow a response, the court shall authorize the United States to delete from such documents specified items of information the disclosure of which could compromise national security or an investigation by any law enforcement agency, or to substitute a summary of the information to which the person may respond. Any order by the court authorizing the disclosure of information that the United States believes could compromise national security or an investigation by any law enforcement agency shall be subject to the processes set forth in subparagraphs (A) and (B)(i) of section 2339B(f)(5) of title 18 (relating to interlocutory appeal and expedited consideration).
+&emsp;&emsp;&emsp;When reviewing a decision of the Secretary under subparagraph (A), and uponrequest made ex parte and in writing by the United States, a court, upon a sufficient showing, may review and consider ex parte documents containing information the disclosure of which could compromise national security or an investigation by any law enforcement agency. If the court determines that portions of the documents considered ex parte should be disclosed to the person involved to allow a response, the court shall authorize the United States to delete from such documents specified items of information the disclosure of which could compromise national security or an investigation by any law enforcement agency, or to substitute a summary of the information to which the person may respond. Any order by the court authorizing the disclosure of information that the United States believes could compromise national security or an investigation by any law enforcement agency shall be subject to the processes set forth in subparagraphs (A) and (B)(i) of section 2339B(f)(5) of title 18 (relating to interlocutory appeal and expedited consideration).
 
 #### (ii) Disclosure of information
 
@@ -196,7 +196,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary may exempt an investigational product that is, bears, or contains alisted agent or toxin from the applicability of provisions of regulations under subsection (b) or (c) of this section when such product is being used in an investigation authorized under any Federal Act and the Secretary determines that applying additional regulation under subsection (b) or (c) of this section to such product is not necessary to protect public health and safety.
+&emsp;&emsp;&emsp;The Secretary may exempt an investigational product that is, bears, or contains a listed agent or toxin from the applicability of provisions of regulations under subsection (b) or (c) of this section when such product is being used in an investigation authorized under any Federal Act and the Secretary determines that applying additional regulation under subsection (b) or (c) of this section to such product is not necessary to protect public health and safety.
 
 #### (ii) Certain processes
 
@@ -270,7 +270,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (1) In general
 
-&emsp;In addition to any other penalties that may apply under law, any person who violates any provision of regulations under subsection (b) or (c) of this section shall be subject to the United States for a civil money penalty in an amount not exceeding $250,000 in the case of an individual and $500,000 in the case of any other person.
+&emsp;In addition to any other penalties that may apply under law, any person who violates anyprovision of regulations under subsection (b) or (c) of this section shall be subject to the United States for a civil money penalty in an amount not exceeding $250,000 in the case of an individual and $500,000 in the case of any other person.
 
 #### (2) Applicability of certain provisions
 
@@ -324,13 +324,13 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec.(g)(2)(B)(i), is
 
 The Act commonly known as the Virus-Serum-Toxin Act, referred to in subsec. (g)(2)(B)(iii), is the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, ch. 145, 37 Stat. 832, as amended, which is classified generally to chapter 5 (§151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (g)(2)(B)(iv), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generallyto subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (g)(2)(B)(iv), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
 Section 6 of the Inspector General Act of 1978, referred to in subsec. (i)(2), is section 6 of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
-2002—Subsec. (e)(1). Pub. L. 107–296 substituted “collaboration with the Secretary of Homeland Security and” for “consultation with”.
+<b>2002</b>—Subsec. (e)(1). Pub. L. 107–296 substituted “collaboration with the Secretary of Homeland Security and” for “consultation with”.
 
 #### Effective Date of 2002 Amendment
 
@@ -375,6 +375,134 @@ Date Certain for Promulgation; Effective Date Regarding Criminal and Civil Penal
 “(c)
 
 Transitional Provision Regarding Current Research and Education.—The interim final rule under subsection (b) shall include time frames for the applicability of the rule that minimize disruption of research or educational projects that involve biological agents and toxins listed pursuant to section 351A(a)(1) of the Public Health Service Act \[subsec. (a)(1) of this section\] and that were underway as of the effective date of such rule.”
+
+#### Ex. Ord. No. 13546. Optimizing the Security of Biological Select Agents and Toxins in the United States
+
+Ex. Ord. No. 13546, July 2, 2010, 75 F.R. 39439, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. It is the policy of the United States that:
+
+(a) A robust and productive scientific enterprise that utilizes biological select agents and toxins (BSAT) is essential to national security;
+
+(b) BSAT shall be secured in a manner appropriate to their risk of misuse, theft, loss, and accidental release; and
+
+(c) Security measures shall be taken in a coordinated manner that balances their efficacy with the need to minimize the adverse impact on the legitimate use of BSAT.
+
+Sec. 2. <i>Definitions</i>. (a) “Select Agent Program” (SAP) means the regulatory oversight and administrative activities conducted by the Secretaries of Health and Human Services and Agriculture and the Attorney General to implement the Public Health Security and Bioterrorism Preparedness and Response Act of 2002 and the Agricultural Bioterrorism Protection Act of 2002.
+
+(b) “Select Agent Regulations” (SAR) means the Federal regulations found in Part 73 of Title 42 of the Code of Federal Regulations, Part 331 of Title 7 of the Code of Federal Regulations, and Part 121 of Title 9 of the Code of Federal Regulations.
+
+(c) “Biological Select Agents and Toxins” means biological agents and toxins with the potential to pose a severe threat to public health and safety, animal and plant health, or animal and plant products and whose possession, use, and transfer are regulated by the Department of Health and Human Services and the Department of Agriculture under the SAR.
+
+Sec. 3. <i>Findings</i>. (a) The use of BSAT presents the risk that BSAT might be lost, stolen, or diverted for malicious purpose. The SAP exists to provide effective regulatory oversight of the possession, use, and transfer of BSAT that reduces the risk of their misuse or mishandling. The absence of clearly defined, risk-based security measures in the SAR/SAP has raised concern about the need for optimized security and for risk management.
+
+(b) In addition, variations in, and limited coordination of, individual executive departments’ and agencies’ oversight, security practices, and inspections have raised concerns that the cost and complexity of compliance for those who are registered to work with BSAT could discourage research or other legitimate activities.
+
+(c) Understanding that research and laboratory work on BSAT is essential to both public health and national security, it is in the interest of the United States to address these issues.
+
+Sec. 4. <i>Risk-based Tiering of the Select Agent List</i>. To help ensure that BSAT are secured according to level of risk, the Secretaries of Health and Human Services and Agriculture shall, through their ongoing review of the biological Select Agents and Toxins List (“Select Agent List”) contained in regulations, and no later than 18 months from the date of this order:
+
+(a) designate a subset of the Select Agent List (Tier 1) that presents the greatest risk of deliberate misuse with most significant potential for mass casualties or devastating effects to the economy, critical infrastructure, or public confidence;
+
+(b) explore options for graded protection of Tier 1 agents and toxins as described in subsection (a) of this section to permit tailored risk management practices based upon relevant contextual factors; and
+
+(c) consider reducing the overall number of agents and toxins on the Select Agent List.
+
+Sec. 5. <i>Revision of Regulations, Rules, and Guidance to Accommodate a Tiered Select Agent List</i>. Consistent with section 4 of this order, I request that:
+
+(a) The Secretaries of Health and Human Services and Agriculture, no later than 15 months from the date of this order, propose amendments to their respective parts of the SAR that would establish security standards specific to Tier 1 agents and toxins.
+
+(b) The Secretaries of Health and Human Services and Agriculture each, no later than 27 months from the date of this order, promulgate final rules and guidance that clearly articulate security actions for registrants who possess, use, or transfer Tier 1 agents and toxins.
+
+Sec. 6. <i>Coordination of Federal Oversight for BSAT Security</i>. To ensure that the policies and practices used to secure BSAT are harmonized and that the related oversight activities of the Federal Government are coordinated, the heads of executive departments and agencies identified in section 7(a)(ii) of this order shall:
+
+(a) no later than 6 months from the date of this order, develop and implement a plan for the coordination of BSAT security oversight that:
+
+(i) articulates a mechanism for coordinated and reciprocal inspection of and harmonized administrative practices for facilities registered with the SAP;
+
+(ii) ensures consistent and timely identification and resolution of BSAT security and compliance issues;
+
+(iii) facilitates information sharing among departments and agencies regarding ongoing oversight and inspection activities; and
+
+(iv) provides for comprehensive and effective Federal oversight of BSAT security; and
+
+(b) no later than 6 months from the issuance of final rules and guidance as described in section 5 of this order, and annually thereafter, review for inconsistent requirements and revise or rescind, as appropriate, any regulations, directives, guidance, or policies regarding BSAT security within their department or agency that exceed those in the updated SAR and guidance as described in section 5 of this order.
+
+Sec. 7. <i>Implementation</i>. (a) Establishment, Operation, and Functions of the Federal Experts Security Advisory Panel.
+
+(i) There is hereby established, within the Department of Health and Human Services for administrative purposes only, the Federal Experts Security Advisory Panel (Panel), which shall make technical and substantive recommendations on BSAT security concerning the SAP.
+
+(ii) The Panel shall consist of representatives from the following, who may consult with additional experts from their department or agency as required:
+
+&emsp;1\. the Department of State;
+
+&emsp;2\. the Department of Defense;
+
+&emsp;3\. the Department of Justice;
+
+&emsp;4\. the Department of Agriculture (Co-Chair);
+
+&emsp;5\. the Department of Commerce;
+
+&emsp;6\. the Department of Health and Human Services (Co-Chair);
+
+&emsp;7\. the Department of Transportation;
+
+&emsp;8\. the Department of Labor;
+
+&emsp;9\. the Department of Energy;
+
+&emsp;10\. the Department of Veterans Affairs;
+
+&emsp;11\. the Department of Homeland Security;
+
+&emsp;12\. the Environmental Protection Agency;
+
+&emsp;13\. the Office of the Director of National Intelligence;
+
+&emsp;14\. the Office of Science and Technology Policy;
+
+&emsp;15\. the Joint Chiefs of Staff; and
+
+&emsp;16\. any other department or agency designated by the Co-Chairs.
+
+(iii) To assist the Secretaries of Health and Human Services and Agriculture and the Attorney General in implementing the policies set forth in sections 1, 4, 5, and 6 of this order, the Panel shall, no later than 4 months from the date of this order, provide consensus recommendations concerning the SAP on:
+
+&emsp;1\. the designation of Tier 1 agents and toxins;
+
+&emsp;2\. reduction in the number of agents on the Select Agent List;
+
+&emsp;3\. the establishment of appropriate practices to ensure reliability of personnel with access to Tier 1 agents and toxins at registered facilities;
+
+&emsp;4\. the establishment of appropriate practices for physical security and cyber security for facilities that possess Tier 1 agents. The Department of Homeland Security shall Chair a Working Group of the Panel that develops recommended laboratory critical infrastructure security standards in these areas; and
+
+&emsp;5\. other emerging policy issues relevant to the security of BSAT.
+
+Thereafter, the Panel shall continue to provide technical advice concerning the SAP on request.
+
+(iv) If the Panel is unable to reach consensus on recommendations for an issue within its charge, the matter shall be resolved through the interagency policy committee process led by the National Security Staff.
+
+(v) The Secretaries of Health and Human Services and Agriculture and the Attorney General shall report to the Assistant to the President for Homeland Security and Counterterrorism on the consideration and implementation of Panel recommendations concerning the SAP, including a rationale for failure to implement any recommendations.
+
+(vi) The Panel shall be chartered for a period of 4 years subject to renewal through the interagency policy committee process led by the National Security Staff.
+
+(b) To further assist the Secretaries of Health and Human Services and Agriculture and the Attorney General in implementing the policy set forth in sections 1, 4, 5, and 6 of this order, the National Science Advisory Board for Biosecurity shall provide technical advice and serve as a conduit for public consultation, as needed, on topics of relevance to the SAP.
+
+Sec. 8. <i>Sharing of Select Agent Program Information</i>. (a) Consistent with applicable laws and regulations, the Secretaries of Health and Human Services and Agriculture and the Attorney General shall, no later than 6 months from the date of this order, develop a process and the criteria for making SAP information available to executive departments and agencies when such information is necessary for furthering a public health, safety, security, law enforcement, or national security mission.
+
+(b) SAP information shall continue to be safeguarded properly and handled securely to minimize the risk of disclosing sensitive, personal, and other information protected by the Privacy Act, 5 U.S.C. 552a.
+
+Sec. 9. <i>General Provisions</i>. (a) The National Security Staff shall, on a biennial basis, review the implementation and effectiveness of this order and refer to the interagency policy committee process any issues that require further deliberation or adjudication.
+
+(b) Nothing in this order shall be construed to impair or otherwise affect the authority granted by law to a department or agency, or the head thereof, or functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Probably should be “judicial”.</i>
 

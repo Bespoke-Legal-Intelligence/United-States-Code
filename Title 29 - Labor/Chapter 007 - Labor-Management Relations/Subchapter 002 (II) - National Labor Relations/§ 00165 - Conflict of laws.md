@@ -1,6 +1,6 @@
 ### §165. Conflict of laws
 
-Wherever the application of the provisions of section 272 of chapter 10 of the Act entitled “An Act to establish a uniform system of bankruptcy throughout the United States”, approved July 1, 1898, and Acts amendatory thereof and supplementary thereto (U.S.C., title 11, sec. 672), conflicts with the application of the provisions ofthis subchapter, this subchapter shall prevail: <i>Provided</i>, That in any situation where the provisions of this subchapter cannot be validly enforced, the provisions of such other Acts shall remain in full force and effect.
+Wherever the application of the provisions of section 272 of chapter 10 of the Act entitled “An Act to establish a uniform system of bankruptcy throughout the United States”, approved July 1, 1898, and Acts amendatory thereof and supplementary thereto (U.S.C., title 11, sec. 672), conflicts with the application of the provisions of this subchapter, this subchapter shall prevail: <i>Provided</i>, That in any situation where the provisions of this subchapter cannot be validly enforced, the provisions of such other Acts shall remain in full force and effect.
 
 (July 5, 1935, ch. 372, §15, 49 Stat. 457; June 23, 1947, ch. 120, title I, §101, 61 Stat. 151.)
 
@@ -10,7 +10,7 @@ The Act approved July 1, 1898, referred to in text, popularly known as the Bankr
 
 #### Amendments
 
-1947—Act June 23, 1947, amended section generally by inserting new subject matter which was formerly covered by section 164 of this title. Section formerly referred to separability provisions, see section 166 of this title.
+<b>1947</b>—Act June 23, 1947, amended section generally by inserting new subject matter which was formerly covered by section 164 of this title. Section formerly referred to separability provisions, see section 166 of this title.
 
 #### Effective Date of 1947 Amendment
 

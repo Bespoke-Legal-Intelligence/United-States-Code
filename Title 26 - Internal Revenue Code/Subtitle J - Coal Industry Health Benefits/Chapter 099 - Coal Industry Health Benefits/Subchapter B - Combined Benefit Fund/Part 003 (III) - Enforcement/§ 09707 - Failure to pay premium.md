@@ -52,11 +52,11 @@ For purposes of this title, the penalty imposed by this section shall be treated
 
 #### References in Text
 
-Section 402 of the Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (a)(2), is classified to section 1232 of Title 30, Mineral Lands and Mining.
+Section 402 of the Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (a)(2), isclassified to section 1232 of Title 30, Mineral Lands and Mining.
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–432 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There is hereby imposed a penalty on the failure of any assigned operator to pay any premium required to be paid under section 9704 with respect to any eligible beneficiary.”
+<b>2006</b>—Subsec. (a). Pub. L. 109–432 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There is hereby imposed a penalty on the failure of any assigned operator to pay any premium required to be paid under section 9704 with respect to any eligible beneficiary.”
 
-1996—Subsec. (d)(1). Pub. L. 104–188 struck out comma after “diligence”.
+<b>1996</b>—Subsec. (d)(1). Pub. L. 104–188 struck out comma after “diligence”.
 

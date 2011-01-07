@@ -56,7 +56,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Amendments
 
-2002—Subsec. (a)(1). Pub. L. 107–308, §3(a), substituted “and associated habitats” for “and other habitats”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–308, §3(a), substituted “and associated habitats” for “and other habitats”.
 
 Subsec. (a)(10). Pub. L. 107–308, §8(a)(1), inserted “of 1973” after “Endangered Species Act”.
 

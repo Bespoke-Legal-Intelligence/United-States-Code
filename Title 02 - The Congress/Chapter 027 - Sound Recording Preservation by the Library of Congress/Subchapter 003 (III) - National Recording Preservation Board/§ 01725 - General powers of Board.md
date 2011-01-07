@@ -6,7 +6,7 @@ The Board may, for the purpose of carrying out its duties, hold such hearings, s
 
 #### (b) Service on Foundation
 
-Two sitting members of the Board shall be appointed by the Librarian and shall serve asmembers of the board of directors of the National Recording Preservation Foundation, in accordance with section 152403 of title 36.
+Two sitting members of the Board shall be appointed by the Librarian and shall serve as members of the board of directors of the National Recording Preservation Foundation, in accordance with section 152403 of title 36.
 
 (Pub. L. 106–474, title I, §125, Nov. 9, 2000, 114 Stat. 2090.)
 

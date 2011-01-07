@@ -110,9 +110,9 @@ The Federal Advisory Committee Act, referred to in subsec. (h)(3), is Pub. L. 92
 
 #### Amendments
 
-1998—Subsec. (j). Pub. L. 105–261 added subsec. (j).
+<b>1998</b>—Subsec. (j). Pub. L. 105–261 added subsec. (j).
 
-1997—Subsecs. (g) to (i). Pub. L. 105–85 added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
+<b>1997</b>—Subsecs. (g) to (i). Pub. L. 105–85 added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
 #### Implementation
 

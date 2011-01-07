@@ -12,7 +12,7 @@
 
 #### (3) Exception
 
-&emsp;The Administrator may waive the requirements of paragraphs (1) and (2) for any fiscal year if the Administrator determines thatsuch quantities of commodities cannot be used effectively to carry out this subchapter or in order to meet an emergency. In making a waiver under this paragraph, the Administrator shall prepare and submit to the Committees on International Relations, Agriculture and Appropriations of the House of Representatives, and the Committees on Appropriations and Agriculture, Nutrition, and Forestry of the Senate a report containing the reasons for the waiver. No waiver shall be made before the beginning of the applicable fiscal year.
+&emsp;The Administrator may waive the requirements of paragraphs (1) and (2) for any fiscal year if the Administrator determines that such quantities of commodities cannot be used effectively to carry out this subchapter or in order to meet an emergency. In making a waiver under this paragraph, the Administrator shall prepare and submit to the Committees on International Relations, Agriculture and Appropriations of the House of Representatives, and the Committees on Appropriations and Agriculture, Nutrition, and Forestry of the Senate a report containing the reasons for the waiver. No waiver shall be made before the beginning of the applicable fiscal year.
 
 #### (b) Use of value-added commodities
 
@@ -30,7 +30,7 @@
 
 2008—Subsec. (a)(1), (2). Pub. L. 110–246 substituted “2008 through 2012” for “2002 through 2007”.
 
-2004—Subsec. (a)(3). Pub. L. 108–199 substituted “the Committees on International Relations, Agriculture and Appropriations of the House of Representatives, and the Committees on Appropriations and” for “the Committee on Foreign Affairs and Committee on Agriculture of the House of Representatives, and the Committee on”.
+2004—Subsec. (a)(3). Pub. L. 108–199 substituted “the Committees on International Relations, Agricultureand Appropriations of the House of Representatives, and the Committees on Appropriations and” for “the Committee on Foreign Affairs and Committee on Agriculture of the House of Representatives, and the Committee on”.
 
 2002—Subsec. (a)(1). Pub. L. 107–171, §3004(1), (2), substituted “2002 through 2007” for “1996 through 2002” and “2,500,000 metric tons” for “2,025,000 metric tons”.
 

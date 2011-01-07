@@ -36,7 +36,7 @@ Provisions similar to those in subsec. (b) of this section were contained in sec
 
 #### Amendments
 
-1998—Subsec. (c)(4). Pub. L. 105–368 substituted “Administration” for “System”.
+<b>1998</b>—Subsec. (c)(4). Pub. L. 105–368 substituted “Administration” for “System”.
 
 #### Order of Succession
 

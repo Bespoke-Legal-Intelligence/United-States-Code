@@ -54,7 +54,7 @@
 
 #### (3) Report to Congress
 
-&emsp;The President shall report to the Congress, not later than 90 days after making a determination under subsection (a)(1) of this section, on the status of consultations with the appropriate government under this subsection, and the basis for any determination underparagraph (2) of this subsection that such government has taken specific corrective actions.
+&emsp;The President shall report to the Congress, not later than 90 days after making a determination under subsection (a)(1) of this section, on the status of consultations with the appropriate government under this subsection, and the basis for any determination under paragraph (2) of this subsection that such government has taken specific corrective actions.
 
 #### (c) Sanctions
 
@@ -98,7 +98,7 @@
 
 #### (d) Termination of sanctions
 
-The sanctions imposed pursuant to this section shall apply for a period of at least 12 months following the imposition of sanctions and shall cease to apply thereafter only if the President determines and certifies to the Congress that reliable information indicates that the foreign person with respect to which the determination was made under subsection (a)(1) of this section has ceased to aid or abet any foreign government, project, or entity in its efforts to acquire chemical or biological weapons capability as described in that subsection.
+The sanctions imposed pursuant to this section shall apply for a period of at least 12months following the imposition of sanctions and shall cease to apply thereafter only if the President determines and certifies to the Congress that reliable information indicates that the foreign person with respect to which the determination was made under subsection (a)(1) of this section has ceased to aid or abet any foreign government, project, or entity in its efforts to acquire chemical or biological weapons capability as described in that subsection.
 
 #### (e) Waiver
 
@@ -130,7 +130,7 @@ A prior subchapter VIII, consisting of former section 2798, as added by Pub. L. 
 
 #### Amendments
 
-1991—Subsec. (a)(1). Pub. L. 101–182, §309(b)(2), substituted “October 28, 1991” for reference to the “date of the enactment of this section” which was enacted Dec. 4, 1991.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 101–182, §309(b)(2), substituted “October 28, 1991” for reference to the “date of the enactment of this section” which was enacted Dec. 4, 1991.
 
 #### Delegation of Functions
 

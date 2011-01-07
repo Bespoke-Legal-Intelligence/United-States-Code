@@ -2,7 +2,7 @@
 
 #### (a) Investigations and reports
 
-It shall be the duty of the commission to investigate the administration and fiscal and industrial effects of the customs laws of this country, the relations between the rates of duty on raw materials and finished or partly finished products, the effects of ad valorem and specific duties and of compound specific and ad valoremduties, all questions relative to the arrangement of schedules and classification of articles in the several schedules of the customs law, and, in general, to investigate the operation of customs laws, including their relation to the Federal revenues, their effect upon the industries and labor of the country, and to submit reports of its investigations as hereafter provided.
+It shall be the duty of the commission to investigate the administration and fiscal and industrial effects of the customs laws of this country, the relations between the rates of duty on raw materials and finished or partly finished products, the effects of ad valorem and specific duties and of compound specific and ad valorem duties, all questions relative to the arrangement of schedules and classification of articles in the several schedules of the customs law, and, in general, to investigate the operation of customs laws, including their relation to the Federal revenues, their effect upon the industries and labor of the country, and to submit reports of its investigations as hereafter provided.
 
 #### (b) Investigations of tariff relations
 
@@ -44,33 +44,29 @@ The commission shall put at the disposal of the President of the United States, 
 
 (June 17, 1930, ch. 497, title III, §332, 46 Stat. 698; Pub. L. 93–618, title I, §173, title III, §341(b), Jan. 3, 1975, 88 Stat. 2010, 2056; Pub. L. 96–39, title II, §202(a)(1), July 26, 1979, 93 Stat. 201; Pub. L. 100–418, title I, §1613, Aug. 23, 1988, 102 Stat. 1262; Pub. L. 100–647, title IX, §9001(a)(16), Nov. 10, 1988, 102 Stat. 3808.)
 
-#### References in Text
-
-The customs laws, referred to in subsec. (a), are classified generally to this title.
-
 #### Codification
 
-Subsection (f) directed the Tariff Commission to ascertain the cost of crude petroleum during three years preceding 1930.
+Subsec. (f) directed the Tariff Commission to ascertain the cost of crude petroleum during three years preceding 1930.
 
 #### Prior Provisions
 
-Provisions similar to subsections (a), (b), and (g) of this section were contained in act Sept. 8, 1916, ch. 463, §§702 to 704, 39 Stat. 796. Those sections were superseded by section 332 of act June 17, 1930, comprising this section.
+Provisions similar to subsecs. (a), (b), and (g) were contained in act Sept. 8, 1916, ch. 463, §§702 to 704, 39 Stat. 796. Those sections were superseded by section 332 of act June 17, 1930, comprising this section.
 
-Provisions similar to those in subdivision (c) of this section were contained in act Sept. 8, 1916, ch. 463, §708, 39 Stat. 798. That section was superseded by section 332 of act June 17, 1930, comprising this section.
+Provisions similar to those in subdiv. (c) were contained in act Sept. 8, 1916, ch. 463, §708, 39 Stat. 798. That section was superseded by section 332 of act June 17, 1930, comprising this section.
 
-Provisions similar to subdivisions (d) and (e) of this section were contained in act Sept. 21, 1922, ch. 356, title III, §318, 42 Stat. 947. Section 318 of act 1922 was superseded by section 332 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of said 1930 act.
+Provisions similar to subdivs. (d) and (e) were contained in act Sept. 21, 1922, ch. 356, title III, §318, 42 Stat. 947. Section 318 of act 1922 was superseded by section 332 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of said 1930 act.
 
 Act Oct. 3, 1913, ch. 16, §IV, R, 38 Stat. 201, directed President to ascertain certain facts and report to Congress when imports amounted to less than 5 per centum of domestic consumption, prior to repeal by act Sept. 21, 1922, ch. 356, title III, §321, 42 Stat. 947.
 
 #### Amendments
 
-1988—Subsec. (g). Pub. L. 100–647 substituted “report to Congress on the first” for “report to Congress. on the first”.
+<b>1988</b>—Subsec. (g). Pub. L. 100–647 substituted “report to Congress on the first” for “report to Congress. on the first”.
 
-Pub. L. 100–418 substituted “. However, the Commission may not release information which the Commission considers to be confidential business information unless the party submitting the confidential business information had notice, at the time of submission, that such information would be released by the Commission, or such party subsequently consents to the release of the information. The Commission shall report to Congress.” for “, and shall report to Congress”.
+Pub. L. 100–418 substituted “. However, the Commission may not release information which the Commission considers to be confidential business information unless the party submitting the confidential businessinformation had notice, at the time of submission, that such information would be released by the Commission, or such party subsequently consents to the release of the information. The Commission shall report to Congress.” for “, and shall report to Congress”.
 
-1979—Subsec. (e)(2). Pub. L. 96–39 substituted “the transaction value of the imported merchandise determined in accordance with section 1401a(b) of this title plus, when not included in the transaction value, all necessary expenses, exclusive of customs duties, of bringing such merchandise to the United States” for “the price at which an article is freely offered for sale in the ordinary course of trade in the usual wholesale quantities for exportation to the United States plus, when not included in such price, all necessary expenses, exclusive of customs duties, of bringing such imported article to the United States”.
+<b>1979</b>—Subsec. (e)(2). Pub. L. 96–39 substituted “the transaction value of the imported merchandise determined in accordance with section 1401a(b) of this title plus, when not included in the transaction value, all necessary expenses, exclusive of customs duties, of bringing such merchandise to the United States” for “the price at which an article is freely offered for sale in the ordinary course of trade in the usual wholesale quantities for exportation to the United States plus, when not included in such price, all necessary expenses, exclusive of customs duties, of bringing such imported article to the United States”.
 
-1975—Subsec. (g). Pub. L. 93–618 substituted “a summary of all reports made during the year, and a list of all votes taken by the commission during the year, showing those commissioners voting in the affirmative and the negative on each vote and those commissioners not voting on each vote and the reasons for not voting” for “and a summary of all reports made during the year”, and inserted last sentence relating to complaints included in annual reports.
+<b>1975</b>—Subsec. (g). Pub. L. 93–618 substituted “a summary of all reports made during the year, and a list of all votes taken by the commission during the year, showing those commissioners voting in the affirmative and the negative on each vote and those commissioners not voting on each vote and the reasons for not voting” for “and a summary of all reports made during the year”, and inserted last sentence relating to complaints included in annual reports.
 
 #### Effective Date of 1988 Amendment
 
@@ -86,7 +82,7 @@ Amendment by Pub. L. 93–618 effective on 90th day after Jan. 3, 1975, see sect
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (g) of this section relating to an annual report to Congress on the first Monday of December of each year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 194 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (g) relating to an annual report to Congress on the first Monday of December of each year, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 194 of House Document No. 103–7.
 
 #### Delegation of Functions
 

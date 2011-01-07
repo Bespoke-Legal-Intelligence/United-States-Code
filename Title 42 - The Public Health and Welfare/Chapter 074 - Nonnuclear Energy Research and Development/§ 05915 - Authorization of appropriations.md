@@ -6,7 +6,7 @@ There may be appropriated to the Secretary to carry out the purposes of this cha
 
 #### Amendments
 
-2005—Pub. L. 109–58, in section catchline, substituted “Authorization of appropriations” for “Appropriation authorization”, and in text, substituted “There may be appropriated to the Secretary” for “(a) There may be appropriated to the Administrator” and struck out subsecs. (b) and (c), which related to amounts to be made available to the Council on Environmental Quality and the Water Resources Council and amounts which might be appropriated for demonstration projects.
+<b>2005</b>—Pub. L. 109–58, in section catchline, substituted “Authorization of appropriations” for “Appropriation authorization”, and in text, substituted “There may be appropriated to the Secretary” for “(a) There may be appropriated to the Administrator” and struck out subsecs. (b) and (c), which related to amounts to be made available to the Council on Environmental Quality and the Water Resources Council and amounts which might be appropriated for demonstration projects.
 
 #### Alternative Fuels Production; Energy Security Reserve Fund
 

@@ -2,7 +2,7 @@
 
 #### (a) Disposition of unsold stamps
 
-A Migratory Bird Hunting and Conservation Stamp shall be transferred to the Postal Serviceor the Secretary of the Interior (or a designee) for sale to a collector if the stamp—
+A Migratory Bird Hunting and Conservation Stamp shall be transferred to the Postal Service or the Secretary of the Interior (or a designee) for sale to a collector if the stamp—
 
 &emsp;(1) has not been sold by the end of the hunting year (as that term is defined in section 718j of this title) during which the stamp is issued; and
 
@@ -28,7 +28,7 @@ A prior section 3(b) of act July 30, 1956, ch. 782, 70 Stat. 722, amended sectio
 
 #### Amendments
 
-2006—Pub. L. 109–266 inserted section catchline and substituted subsecs. (a) and (b) for former text which read: “On or after July 30, 1956, such quantity of migratory-bird hunting stamps, not sold at the end of the fiscal year for which issued, as determined by the Postal Service to be (1) required to supply the market for sale to collectors, and (2) in suitable condition for such sale to collectors, shall be turned over to the Philatelic Agency and therein placed on sale. Any surplus stock of such migratory-bird hunting stamps may be destroyed in such manner as the Postal Service shall direct.”
+<b>2006</b>—Pub. L. 109–266 inserted section catchline and substituted subsecs. (a) and (b) for former text which read: “On or after July 30, 1956, such quantity of migratory-bird hunting stamps, not sold at the end of the fiscal year for which issued, as determined by the Postal Service to be (1) required to supply the market for sale to collectors, and (2) in suitable condition for such sale to collectors, shall be turned over to the Philatelic Agency and therein placed on sale. Any surplus stock of such migratory-bird hunting stamps may be destroyed in such manner as the Postal Service shall direct.”
 
-1971—Pub. L. 92–214 substituted “Postal Service” for “Postmaster General”.
+<b>1971</b>—Pub. L. 92–214 substituted “Postal Service” for “Postmaster General”.
 

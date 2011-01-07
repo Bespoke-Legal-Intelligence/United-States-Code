@@ -80,7 +80,7 @@ Transfer Payment by Architect.—Notwithstanding the limitation on reimbursement
 
 #### “SEC. 4. FUND FOR TRANSFERRED FUNDS.
 
-“There is established in the Treasury of the United States a fund consisting of those gifts or trust funds transferred to the Architect of the Capitol under section 3. Upon prior approval of the Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives and Committee on Rules and Administration of the Senate, amounts in the fund shall be available to the Architect of the Capitol, subject to appropriation, to remain available until expended, for the structural and mechanical work and refurbishment of Library buildings and grounds. Such funds shall be available for expenditure in fiscal year 1998, subject to the prior approval of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate.
+“There is established in the Treasury of the United States a fund consisting of those gifts or trust funds transferred to the Architect of the Capitol under section 3. Upon prior approval of the Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives and Committee on Rules and Administration of the Senate, amounts in the fund shall be available to the Architect of the Capitol, subject to appropriation, to remain available until expended, for the structural and mechanical work and refurbishment of Library buildings and grounds. Suchfunds shall be available for expenditure in fiscal year 1998, subject to the prior approval of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate.
 
 #### “SEC. 5. EFFECTIVE DATE.
 
@@ -138,7 +138,7 @@ Section 205 of Pub. L. 101–520, as amended by Pub. L. 102–451, §§1–3, Oc
 
 &emsp;“(4) for general assembly and education programs of the Library;
 
-&emsp;“(5) for temporary living quarters and common areas for visiting scholars using the collections of theLibrary or participating in the programs of the Library; and
+&emsp;“(5) for temporary living quarters and common areas for visiting scholars using the collections of the Library or participating in the programs of the Library; and
 
 &emsp;“(6) for other purposes relating to the operations of the Library of Congress.
 

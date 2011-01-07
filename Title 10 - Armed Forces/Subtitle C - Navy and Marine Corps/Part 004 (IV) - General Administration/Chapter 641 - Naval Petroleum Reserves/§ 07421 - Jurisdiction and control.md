@@ -46,9 +46,9 @@ Section 227 of title 30, referred to in subsec. (b), was omitted from the Code.
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–525 substituted “Naval Petroleum Reserves Numbered” for “naval petroleum reserves numbered”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–525 substituted “Naval Petroleum Reserves Numbered” for “naval petroleum reserves numbered”.
 
-1976—Subsec. (a). Pub. L. 94–258 struck out “of the Navy” after “Secretary”, “and oil shale” after “naval petroleum”, and substituted “for national defense purposes” for “for naval purposes”, and “this chapter” for “section 7438 hereof”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–258 struck out “of the Navy” after “Secretary”, “and oil shale” after “naval petroleum”, and substituted “for national defense purposes” for “for naval purposes”, and “this chapter” for “section 7438 hereof”.
 
-1962—Subsec. (a). Pub. L. 87–796 empowered the Secretary to take possession of all properties inside the oil shale reserves, and inserted the exception clause.
+<b>1962</b>—Subsec. (a). Pub. L. 87–796 empowered the Secretary to take possession of all properties inside the oil shale reserves, and inserted the exception clause.
 

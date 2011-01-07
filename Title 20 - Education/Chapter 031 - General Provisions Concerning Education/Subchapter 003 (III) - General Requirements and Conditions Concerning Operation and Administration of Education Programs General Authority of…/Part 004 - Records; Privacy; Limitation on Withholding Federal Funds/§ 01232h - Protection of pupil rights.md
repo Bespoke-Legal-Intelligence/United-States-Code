@@ -56,7 +56,7 @@ No student shall be required, as part of any applicable program, to submit to a 
 
 &emsp;&emsp;(C)(i) The right of a parent of a student to inspect, upon the request of the parent, any instructional material used as part of the educational curriculum for the student; and
 
-&emsp;&emsp;(ii) any applicable procedures for granting a request by a parent for reasonable accessto instructional material within a reasonable period of time after the request is received.
+&emsp;&emsp;(ii) any applicable procedures for granting a request by a parent for reasonable access to instructional material within a reasonable period of time after the request is received.
 
 &emsp;&emsp;(D) The administration of physical examinations or screenings that the school or agency may administer to a student.
 
@@ -152,7 +152,7 @@ No student shall be required, as part of any applicable program, to submit to a 
 
 #### (A) Instructional material
 
-&emsp;&emsp;The term “instructional material” means instructional content that is provided to a student, regardless of its format, including printed or representational materials, audio-visual materials, and materials in electronic or digital formats (such as materials accessible through the Internet). The term does not include academic tests or academic assessments.
+&emsp;&emsp;The term “instructional material” means instructional content that is provided to astudent, regardless of its format, including printed or representational materials, audio-visual materials, and materials in electronic or digital formats (such as materials accessible through the Internet). The term does not include academic tests or academic assessments.
 
 #### (B) Invasive physical examination
 
@@ -216,7 +216,7 @@ A prior section 445 of Pub. L. 90–247 was classified to section 1233d of this 
 
 #### Amendments
 
-2002—Subsec. (b)(1) to (8). Pub. L. 107–110, §1061(1), added pars. (1) to (8) and struck out former pars. (1) to (7) which read as follows:
+<b>2002</b>—Subsec. (b)(1) to (8). Pub. L. 107–110, §1061(1), added pars. (1) to (8) and struck out former pars. (1) to (7) which read as follows:
 
 “(1) political affiliations;
 
@@ -234,9 +234,9 @@ A prior section 445 of Pub. L. 90–247 was classified to section 1233d of this 
 
 Subsec. (c) to (f). Pub. L. 107–110, §1061(2), (3), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 
-1994—Pub. L. 103–227 amended section generally, substituting in subsec. (a), provisions relating to inspection of instructional materials by parents or guardians for similar provisions, in subsec. (b), provisions relating to limits on survey, analysis, or evaluations for provisions relating to psychiatric or psychological examinations, testing, or treatment, and adding subsecs. (c) to (e).
+<b>1994</b>—Pub. L. 103–227 amended section generally, substituting in subsec. (a), provisions relating to inspection of instructional materials by parents or guardians for similar provisions, in subsec. (b), provisions relating to limits on survey, analysis, or evaluations for provisions relating to psychiatric or psychological examinations, testing, or treatment, and adding subsecs. (c) to (e).
 
-1978—Pub. L. 95–561 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1978</b>—Pub. L. 95–561 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 2002 Amendment
 

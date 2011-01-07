@@ -24,7 +24,7 @@ The report submitted under subsection (a) of this section shall include informat
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 #### Effective Date of 2002 Amendment
 

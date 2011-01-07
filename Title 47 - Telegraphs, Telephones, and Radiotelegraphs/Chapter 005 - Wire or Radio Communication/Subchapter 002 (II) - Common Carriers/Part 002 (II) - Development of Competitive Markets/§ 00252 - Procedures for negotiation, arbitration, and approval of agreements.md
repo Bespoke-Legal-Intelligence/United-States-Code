@@ -4,7 +4,7 @@
 
 #### (1) Voluntary negotiations
 
-&emsp;Upon receiving a request for interconnection, services, or network elements pursuant to section 251 of this title, an incumbent local exchange carrier may negotiate and enter into a binding agreement with the requesting telecommunications carrier or carriers without regard to the standards set forth in subsections (b) and (c) of section 251 of this title. The agreement shall include a detailed schedule of itemized charges for interconnection and each service or network element included in the agreement. The agreement, including any interconnection agreement negotiated before February 8, 1996, shall be submitted to the State commission under subsection (e) of this section.
+&emsp;Upon receiving a request for interconnection, services, or network elements pursuantto section 251 of this title, an incumbent local exchange carrier may negotiate and enter into a binding agreement with the requesting telecommunications carrier or carriers without regard to the standards set forth in subsections (b) and (c) of section 251 of this title. The agreement shall include a detailed schedule of itemized charges for interconnection and each service or network element included in the agreement. The agreement, including any interconnection agreement negotiated before February 8, 1996, shall be submitted to the State commission under subsection (e) of this section.
 
 #### (2) Mediation
 
@@ -118,7 +118,7 @@ In resolving by arbitration under subsection (b) of this section any open issues
 
 #### (5) Commission to act if State will not act
 
-&emsp;If a State commission fails to act to carry out its responsibility under this section in any proceeding or other matter under this section, then the Commission shall issue an order preempting the State commission's jurisdictionof that proceeding or matter within 90 days after being notified (or taking notice) of such failure, and shall assume the responsibility of the State commission under this section with respect to the proceeding or matter and act for the State commission.
+&emsp;If a State commission fails to act to carry out its responsibility under this section in any proceeding or other matter under this section, then the Commission shall issue an order preempting the State commission's jurisdiction of that proceeding or matter within 90 days after being notified (or taking notice) of such failure, and shall assume the responsibility of the State commission under this section with respect to the proceeding or matter and act for the State commission.
 
 #### (6) Review of State commission actions
 

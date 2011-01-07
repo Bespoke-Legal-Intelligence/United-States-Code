@@ -52,7 +52,7 @@ When used in this chapter:
 
 &emsp;The term “employee” includes an officer of the Agency.
 
-(Pub. L. 88–643, title I, §101, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3197; amended Pub. L. 103–178, title II, §202(a)(1), Dec. 3, 1993, 107 Stat. 2025; Pub. L. 108–458, title I, §1071(c), Dec. 17, 2004, 118 Stat. 3691.)
+(Pub. L. 88–643, title I, §101, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3197; amended Pub. L. 103–178, title II, §202(a)(1),Dec. 3, 1993, 107 Stat. 2025; Pub. L. 108–458, title I, §1071(c), Dec. 17, 2004, 118 Stat. 3691.)
 
 #### Prior Provisions
 
@@ -60,9 +60,9 @@ A prior section 101 of Pub. L. 88–643, title I, Oct. 13, 1964, 78 Stat. 1043, 
 
 #### Amendments
 
-2004—Par. (2). Pub. L. 108–458 added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The term ‘Director’ means the Director of Central Intelligence.”
+<b>2004</b>—Par. (2). Pub. L. 108–458 added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The term ‘Director’ means the Director of Central Intelligence.”
 
-1993—Par. (7). Pub. L. 103–178 substituted “basic pay and amounts deposited” for “basic pay, amounts deposited” and struck out “, and interest determined under section 2121 of this title” after “section 2082(h) of this title”.
+<b>1993</b>—Par. (7). Pub. L. 103–178 substituted “basic pay and amounts deposited” for “basic pay, amounts deposited” and struck out “, and interest determined under section 2121 of this title” after “section 2082(h) of this title”.
 
 #### Effective Date of 2004 Amendment
 
@@ -98,7 +98,7 @@ Pub. L. 102–183, title III, §306(c), Dec. 4, 1991, 105 Stat. 1265, provided t
 
 “(2) The amendments made by subsections (a)(2) and (a)(3) \[amending section 226(a) of Pub. L. 88–643\] shall be deemed to have become effective as of September 29, 1988.”
 
-Pub. L. 102–183, title III, §309(b), Dec. 4, 1991, 105 Stat. 1266, provided that: “Subsection (h) of section 304 of theCentral Intelligence Agency Retirement Act of 1964 for Certain Employees \[Pub. L. 88–643\], as added by subsection (a), shall be deemed to have become effective as of December 2, 1987.”
+Pub. L. 102–183, title III, §309(b), Dec. 4, 1991, 105 Stat. 1266, provided that: “Subsection (h) of section 304 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees \[Pub. L. 88–643\], as added by subsection (a), shall be deemed to have become effective as of December 2, 1987.”
 
 Pub. L. 102–183, title III, §310(b), Dec. 4, 1991, 105 Stat. 1267, provided that: “The amendment made by subsection (a) \[amending section 204(b)(4) of Pub. L. 88–643\] shall apply only to a former husband or wife of a participant or former participant whose divorce from the participant or former participant becomes final after the date of the enactment of this Act \[Dec. 4, 1991\].”
 
@@ -120,7 +120,7 @@ Pub. L. 100–453, title III, §302(d)(3), Sept. 29, 1988, 102 Stat. 1907, provi
 
 Pub. L. 100–178, title IV, §402(c)–(e), Dec. 2, 1987, 101 Stat. 1014, provided that:
 
-“(c)(1) Except as provided in paragraph (2), the amendments made by this section \[amending section 403n of this title and sections 221(<i>o</i>)(2), 232(b), and 304 of Pub. L. 88–643\] shall take effect on November 15, 1982, the effective date of the Central Intelligence Agency Spouses’ Retirement Equity Act of 1982.
+“(c)(1) Except as provided in paragraph (2), the amendments made by this section \[amending section403n of this title and sections 221(<i>o</i>)(2), 232(b), and 304 of Pub. L. 88–643\] shall take effect on November 15, 1982, the effective date of the Central Intelligence Agency Spouses’ Retirement Equity Act of 1982.
 
 “(2) The amendment made by subsection (b)(2) \[amending section 304 of Pub. L. 88–643\] shall take effect on January 1, 1987, the effective date of the Federal Employees’ Retirement System Act of 1986.
 
@@ -250,7 +250,7 @@ Ex. Ord. No. 12443, Sept. 27, 1983, 48 F.R. 44751, conformed Central Intelligenc
 
 #### Executive Order No. 12485
 
-Ex. Ord. No. 12485, July 13, 1984, 49 F.R. 28827, conformed Central Intelligence Agency Retirement and Disability System and Civil Service Retirement and Disability System with regard to prior service credit.
+Ex. Ord. No. 12485, July 13, 1984, 49 F.R. 28827, conformed Central Intelligence Agency Retirement andDisability System and Civil Service Retirement and Disability System with regard to prior service credit.
 
 #### Executive Order No. 12684
 

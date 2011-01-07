@@ -76,7 +76,7 @@ Individuals and information.—The individuals and addresses referred to in para
 
 “(b)
 
-Verification of Information.—For purposes of section 202(c)(1)(D) of the REAL ID Act of 2005 (49 U.S.C. 30301 note), in the case of an individual describedin subparagraph (A) or (B) of subsection (a)(2), a State need only require documentation of the address appearing on the individual's driver's license or other identification card issued by that State to the individual.”
+Verification of Information.—For purposes of section 202(c)(1)(D) of the REAL ID Act of 2005 (49 U.S.C. 30301 note), in the case of an individual described in subparagraph (A) or (B) of subsection (a)(2), a State need only require documentation of the address appearing on the individual's driver's license or other identification card issued by that State to the individual.”
 
 Pub. L. 109–13, div. B, title II, May 11, 2005, 119 Stat. 311, provided that:
 
@@ -120,7 +120,7 @@ State certifications.—The Secretary shall determine whether a State is meeting
 
 “(b)
 
-Minimum Document Requirements.—To meet the requirements of this section, a State shall include, at a minimum, the following information and features on each driver's license and identification card issued to a person by the State:
+Minimum Document Requirements.—To meet the requirements of this section, a State shall include,at a minimum, the following information and features on each driver's license and identification card issued to a person by the State:
 
 &emsp;“(1) The person's full legal name.
 
@@ -218,7 +218,7 @@ Verification of documents.—To meet the requirements of this section, a State s
 
 “(d)
 
-Other Requirements.—To meet the requirements of this section, a State shall adopt the followingpractices in the issuance of drivers’ licenses and identification cards:
+Other Requirements.—To meet the requirements of this section, a State shall adopt the following practices in the issuance of drivers’ licenses and identification cards:
 
 &emsp;“(1) Employ technology to capture digital images of identity source documents so that the images can be retained in electronic storage in a transferable format.
 

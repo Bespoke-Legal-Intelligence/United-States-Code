@@ -8,7 +8,7 @@ Under regulations prescribed by the Secretary—
 
 #### (A) General rule
 
-&emsp;&emsp;If, during any taxable year, investment credit property is disposed of, or otherwiseceases to be investment credit property with respect to the taxpayer, before the close of the recapture period, then the tax under this chapter for such taxable year shall be increased by the recapture percentage of the aggregate decrease in the credits allowed under section 38 for all prior taxable years which would have resulted solely from reducing to zero any credit determined under this subpart with respect to such property.
+&emsp;&emsp;If, during any taxable year, investment credit property is disposed of, or otherwise ceases to be investment credit property with respect to the taxpayer, before the close of the recapture period, then the tax under this chapter for such taxable year shall be increased by the recapture percentage of the aggregate decrease in the credits allowed under section 38 for all prior taxable years which would have resulted solely from reducing to zero any credit determined under this subpart with respect to such property.
 
 #### (B) Recapture percentage
 
@@ -204,13 +204,13 @@ A prior section 50, Pub. L. 92–178, title I, §101(a), Dec. 10, 1971, 85 Stat.
 
 #### Amendments
 
-2005—Subsec. (a)(2)(E). Pub. L. 109–135 substituted “section 48(b)” for “section 48(a)(5)”.
+<b>2005</b>—Subsec. (a)(2)(E). Pub. L. 109–135 substituted “section 48(b)” for “section 48(a)(5)”.
 
-2004—Subsec. (c)(3). Pub. L. 108–357 struck out “or reforestation credit” after “energy credit” in introductory provisions.
+<b>2004</b>—Subsec. (c)(3). Pub. L. 108–357 struck out “or reforestation credit” after “energy credit” in introductory provisions.
 
-1998—Subsec. (a)(5)(C). Pub. L. 105–206 substituted “this chapter” for “subpart A, B, D, or G”.
+<b>1998</b>—Subsec. (a)(5)(C). Pub. L. 105–206 substituted “this chapter” for “subpart A, B, D, or G”.
 
-1996—Subsec. (a)(2)(C). Pub. L. 104–188, §1704(t)(29), substituted “subsection (d)(5)” for “subsection (c)(4)”.
+<b>1996</b>—Subsec. (a)(2)(C). Pub. L. 104–188, §1704(t)(29), substituted “subsection (d)(5)” for “subsection (c)(4)”.
 
 Subsec. (a)(2)(E). Pub. L. 104–188, §1702(h)(11), substituted “48(a)(5)” for “48(a)(5)(A)”.
 

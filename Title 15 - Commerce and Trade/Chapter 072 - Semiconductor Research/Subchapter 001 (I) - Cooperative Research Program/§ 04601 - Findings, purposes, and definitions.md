@@ -28,5 +28,5 @@ In this subchapter:
 
 #### Amendments
 
-1993—Subsec. (c)(1). Pub. L. 103–160 substituted “Semiconductor Technology Council” for “Advisory Council on Federal Participation in Sematech”.
+<b>1993</b>—Subsec. (c)(1). Pub. L. 103–160 substituted “Semiconductor Technology Council” for “Advisory Council on Federal Participation in Sematech”.
 

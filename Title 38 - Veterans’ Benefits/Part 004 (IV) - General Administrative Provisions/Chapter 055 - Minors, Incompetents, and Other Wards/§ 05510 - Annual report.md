@@ -1,6 +1,6 @@
 ### §5510. Annual report
 
-The Secretary shall include in the Annual Benefits Report of the Veterans Benefits Administration or the Secretary's Annual Performance and Accountability Report information concerning fiduciaries who have been appointed to receive payments for beneficiaries of the Department. As part of such information, the Secretary shall separately set forth the following: — <sup>1</sup>
+The Secretary shall include in the Annual Benefits Report of the Veterans Benefits Administration or the Secretary's Annual Performance and Accountability Report information concerning fiduciaries who have been appointed to receive payments for beneficiaries of the Department. As part of such information, the Secretary shall separately set forth the following:
 
 &emsp;(1) The number of beneficiaries in each category (veteran, surviving spouse, child, adult disabled child, or parent).
 
@@ -18,11 +18,17 @@ The Secretary shall include in the Annual Benefits Report of the Veterans Benefi
 
 &emsp;(8) The number of fiduciary cases referred to the Office of the Inspector General and the nature of the actions taken by the Inspector General.
 
-&emsp;(9) The total amount of money recovered by the government <sup>2</sup> in cases arising from the misuse of benefits by a fiduciary.
+&emsp;(9) The total amount of money recovered by the Government in cases arising from the misuse of benefits by a fiduciary.
 
 &emsp;(10) Such other information as the Secretary considers appropriate.
 
-(Added Pub. L. 108–454, title V, §505(a), Dec. 10, 2004, 118 Stat. 3621.)
+(Added Pub. L. 108–454, title V, §505(a), Dec. 10, 2004, 118 Stat. 3621; amended Pub. L. 111–275, title X, §1001(<i>l</i>), Oct. 13, 2010, 124 Stat. 2897.)
+
+#### Amendments
+
+<b>2010</b>—Pub. L. 111–275, §1001(<i>l</i>)(1), substituted “following:” for “following: —” in introductory provisions.
+
+Par. (9). Pub. L. 111–275, §1001(<i>l</i>)(2), substituted “Government” for “government”.
 
 #### Effective Date
 

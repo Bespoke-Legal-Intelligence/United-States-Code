@@ -8,3 +8,5 @@ There is authorized to be appropriated to carry out sections 434 through 439 and
 
 Sections 434 through 439, referred to in text, are sections 434 to 439 of Pub. L. 110–140, which enacted sections 17091 to 17095 of this title and amended section 8253 of this title. Section 482 is unidentifiable because Pub. L. 110–140 does not contain a section 482.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

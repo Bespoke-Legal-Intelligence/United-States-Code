@@ -202,7 +202,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(D) in-home respite care for families, and adult day care as a respite service for families;
 
-&emsp;&emsp;(E) minor modification of homes that is necessary to facilitate the ability of olderindividuals to remain at home and that is not available under another program (other than a program carried out under this chapter);
+&emsp;&emsp;(E) minor modification of homes that is necessary to facilitate the ability of older individuals to remain at home and that is not available under another program (other than a program carried out under this chapter);
 
 &emsp;&emsp;(F) personal care services; and
 
@@ -286,9 +286,9 @@ For the purposes of this chapter—
 
 &emsp;(43) The term “poverty line” means the official poverty line (as defined by the Office of Management and Budget, and adjusted by the Secretary in accordance with section 9902(2) of this title.<sup>3</sup>
 
-&emsp;(44) The term “representative payee” means a person who is appointed by a governmental entity to receive, on behalf of an older individual who is unable to manage funds by reasonof a physical or mental incapacity, any funds owed to such individual by such entity.
+&emsp;(44) The term “representative payee” means a person who is appointed by a governmental entity to receive, on behalf of an older individual who is unable to manage funds by reason of a physical or mental incapacity, any funds owed to such individual by such entity.
 
-&emsp;(45) The term “Secretary” means the Secretary of Health and Human Services, except that for purposes of subchapter IX of this chapter such term means the Secretary of Labor.
+&emsp;(45) The term “Secretary” means the Secretary of Health and Human Services, except that for purposes of subchapter IX of thischapter such term means the Secretary of Labor.
 
 &emsp;(46) The term “self-directed care” means an approach to providing services (including programs, benefits, supports, and technology) under this chapter intended to assist an individual with activities of daily living, in which—
 
@@ -342,7 +342,7 @@ The Social Security Act, referred to in pars. (14) and (32), is act Aug. 14, 193
 
 Section 8801 of title 20, referred to in par. (14)(E)(ii), was repealed by Pub. L. 107–110, title X, §1011(5)(C), Jan. 8, 2002, 115 Stat. 1986. See section 7801 of Title 20, Education.
 
-The Family Violence Prevention and Services Act, referred to in par. (19), is title III of Pub. L. 98–457, Oct. 9, 1984, 98 Stat. 1757, which is classified generally to chapter 110 (§10401 et seq.) of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 10401 of this title and Tables.
+The Family Violence Prevention and Services Act, referred to in par. (19), is title III of Pub. L. 98–457, as added Pub. L. 111–320, title II, §201, Dec. 20, 2010, 124 Stat. 3484, which is classified generally to chapter 110 (§10401 et seq.) of this title. For complete classification of this Act to the Code, see section 10401(a) of this title and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in par. (27), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act of the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
@@ -350,7 +350,7 @@ Section 3796gg–2 of this title, referred to in par. (49), was subsequently ame
 
 #### Amendments
 
-2006—Pub. L. 109–365, §101(b), redesignated pars. (1) to (54) as (45), (7), (50), (39), (26), (27), (54), (13), (48), (8), (29), (14), (1), (2), (3), (5), (6), (10), (30), (37), (11), (15), (16), (18), (21), (22), (23), (24), (28), (31), (33), (35), (36), (38), (40), (41), (42), (43), (44), (51), (53), (19), (49), (4), (9), (12), (17), (20), (25), (34), (46), (47), (52), and (32), respectively.
+<b>2006</b>—Pub. L. 109–365, §101(b), redesignated pars. (1) to (54) as (45), (7), (50), (39), (26), (27), (54), (13), (48), (8), (29), (14), (1), (2), (3), (5), (6), (10), (30), (37), (11), (15), (16), (18), (21), (22), (23), (24), (28), (31), (33), (35), (36), (38), (40), (41), (42), (43), (44), (51), (53), (19), (49), (4), (9), (12), (17), (20), (25), (34), (46), (47), (52), and (32), respectively.
 
 Par. (10). Pub. L. 109–365, §101(a)(1), added par. (10) and struck out former par. (10) which read as follows: “The term ‘assistive technology’ means technology, engineering methodologies, or scientific principles appropriate to meet the needs of, and address the barriers confronted by, older individuals with functional limitations.”
 
@@ -370,9 +370,9 @@ Par. (34). Pub. L. 109–365, §101(a)(6), added par. (34) and struck out former
 
 Pars. (44) to (54). Pub. L. 109–365, §101(a)(7), added pars. (44) to (54).
 
-2003—Par. (42). Pub. L. 108–36 struck out “(42 U.S.C. 10408)” before period at end.
+<b>2003</b>—Par. (42). Pub. L. 108–36 struck out “(42 U.S.C. 10408)” before period at end.
 
-2000—Par. (3). Pub. L. 106–501, §101(1), substituted “and the Commonwealth of the Northern Mariana Islands” for “the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands”.
+<b>2000</b>—Par. (3). Pub. L. 106–501, §101(1), substituted “and the Commonwealth of the Northern Mariana Islands” for “the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands”.
 
 Par. (12). Pub. L. 106–501, §101(2), added par. (12) and struck out former par. (12) which read as follows: “The term ‘Trust Territory of the Pacific Islands’ includes the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.”
 
@@ -410,27 +410,27 @@ Pars. (42), (43). Pub. L. 106–501, §101(7), added pars. (42) and (43). Former
 
 Par. (44). Pub. L. 106–501, §101(6), redesignated par. (44) as (41).
 
-1998—Par. (32). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
+<b>1998</b>—Par. (32). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
 
-1993—Par. (2). Pub. L. 103–171, §3(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘Commissioner’ means, unless the context otherwise requires, the Commissioner of the Administration.”
+<b>1993</b>—Par. (2). Pub. L. 103–171, §3(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘Commissioner’ means, unless the context otherwise requires, the Commissioner of the Administration.”
 
 Par. (3). Pub. L. 103–171, §2(1), substituted “Virgin Islands of the United States” for “Virgin Islands”.
 
-1992—Par. (2). Pub. L. 102–375, §904(a)(2), which directed amendment of par. (2) by substituting “United States Virgin Islands” for “Virgin Islands”, could not be executed because “Virgin Islands” did not appear in par. (2).
+<b>1992</b>—Par. (2). Pub. L. 102–375, §904(a)(2), which directed amendment of par. (2) by substituting “United States Virgin Islands” for “Virgin Islands”, could not be executed because “Virgin Islands” did not appear in par. (2).
 
 Pub. L. 102–375, §102(b)(1)(A), substituted “Administration” for “Administration on Aging”.
 
 Pars. (13) to (44). Pub. L. 102–375, §102(a), added pars. (13) to (44).
 
-1988—Par. (10). Pub. L. 100–628, §705(1)(A), redesignated par. (8) defining “assistive technology” as (10).
+<b>1988</b>—Par. (10). Pub. L. 100–628, §705(1)(A), redesignated par. (8) defining “assistive technology” as (10).
 
 Par. (11). Pub. L. 100–628, §705(1)(A), redesignated par. (9) defining “information and referral” as (11).
 
 Par. (12). Pub. L. 100–628, §705(1)(B), redesignated par. (8) defining “Trust Territory of the Pacific Islands” as (12).
 
-1987—Par. (1). Pub. L. 100–175, §182(a), substituted “except that for purposes of subchapter IX of this chapter such term means the Secretary of Labor” for “other than for purposes of subchapter IX of this chapter”.
+<b>1987</b>—Par. (1). Pub. L. 100–175, §182(a), substituted “except that for purposes of subchapter IX of this chapter such term means the Secretary of Labor” for “other than for purposes of subchapter IX of this chapter”.
 
-Par. (3). Pub. L. 100–175, §182(b)(1)(A), substituted “means any of the several States,” for “includes” and “the Commonwealth of Puerto Rico” for “Puerto Rico”.
+Par. (3). Pub. L. 100–175, §182(b)(1)(A), substituted “means any of the several States,” for “includes” and“the Commonwealth of Puerto Rico” for “Puerto Rico”.
 
 Par. (8). Pub. L. 100–175, §182(b)(1)(B), added par. (8) defining “Trust Territory of the Pacific Islands”.
 
@@ -442,23 +442,23 @@ Par. (9). Pub. L. 100–175, §146(a), added par. (9) defining “information an
 
 Pub. L. 100–175, §136(a)(1), added par. (9) defining “severe disability”.
 
-1981—Par. (1). Pub. L. 97–115, §2(a)(2), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+<b>1981</b>—Par. (1). Pub. L. 97–115, §2(a)(2), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
 Par. (3). Pub. L. 97–115, §2(a)(3)(A), inserted reference to the Commonwealth of the Northern Mariana Islands.
 
 Pars. (6), (7). Pub. L. 97–115, §2(a)(3)(B), (C), substituted “Except for the purposes of subchapter X of this chapter, the term” for “The term”.
 
-1978—Par. (1). Pub. L. 95–478, §503(a)(1), inserted “, other than for purposes of subchapter IX of this chapter”.
+<b>1978</b>—Par. (1). Pub. L. 95–478, §503(a)(1), inserted “, other than for purposes of subchapter IX of this chapter”.
 
 Pars. (4) to (7). Pub. L. 95–478, §503(a)(2), redesignated second par. (4), which was enacted by Pub. L. 94–135, §104(b), as par. (5) and redesignated existing pars. (5) and (6) as (6) and (7), respectively.
 
-1975—Par. (1). Pub. L. 94–135, §114(a), substituted a period for the semicolon.
+<b>1975</b>—Par. (1). Pub. L. 94–135, §114(a), substituted a period for the semicolon.
 
 Pars. (4) to (6). Pub. L. 94–135, §104(b), added pars. (4) to (6).
 
-1969—Par. (3). Pub. L. 91–69 enlarged term “State” to include the Trust Territory of the Pacific Islands.
+<b>1969</b>—Par. (3). Pub. L. 91–69 enlarged term “State” to include the Trust Territory of the Pacific Islands.
 
-1967—Par. (2). Pub. L. 90–42, §5(a)(1), inserted “, unless the context otherwise requires,” after “means”.
+<b>1967</b>—Par. (2). Pub. L. 90–42, §5(a)(1), inserted “, unless the context otherwise requires,” after “means”.
 
 Par. (4). Pub. L. 90–42, §5(a)(2), enlarged term nonprofit institution or organization to include nonprofit agencies.
 

@@ -1,11 +1,5 @@
 ### <b>CHAPTER 5—COLUMBIA INSTITUTION FOR THE DEAF</b>
 
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be followed by “subsection”.</i>
-
 
 ---
 

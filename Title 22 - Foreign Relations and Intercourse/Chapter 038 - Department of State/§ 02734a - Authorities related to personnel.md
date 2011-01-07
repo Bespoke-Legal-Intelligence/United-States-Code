@@ -2,7 +2,7 @@
 
 #### (a) Extension of certain Foreign Service benefits
 
-The Secretary, or the head of any agency with respect to personnel of that agency, may extend to any individuals assigned, detailed, or deployed to carry out reconstruction and stabilization activities pursuant to section 2734 of this title (as added by section 1605 <sup>1</sup> of this title), the benefits or privileges set forth in sections 3973, 4024, and 4081 of this title to the same extent and manner that such benefits and privileges are extended to members of the Foreign Service.
+The Secretary, or the head of any agency with respect to personnel of that agency, may extend to any individuals assigned, detailed, or deployed to carry out reconstruction and stabilization activities pursuant to section 2734 of this title (as added by section 1605 <sup>1</sup> of this title), the benefits or privileges set forth in sections 3973, 4024, and 4081 of this title to the same extent andmanner that such benefits and privileges are extended to members of the Foreign Service.
 
 #### (b) Authority regarding details
 
@@ -14,7 +14,7 @@ The Secretary is authorized to accept details or assignments of any personnel, a
 
 Section 1605 of this title, referred to in text, means section 1605 of title XVI of Pub. L. 110–417.
 
-This title, the first time appearing in subsec. (b), means title XVI of Pub. L. 110–417, \[div. A\], Oct. 14, 2008,122 Stat. 4652, known as the Reconstruction and Stabilization Civilian Management Act of 2008, which enacted this section, sections 2368 and 2734 of this title, and provisions set out as notes under this section and sections 2151 and 2368 of this title. For complete classification of this title to the Code, see Short Title of 2008 Amendment note set out under section 2151 of this title and Tables.
+This title, the first time appearing in subsec. (b), means title XVI of Pub. L. 110–417, \[div. A\], Oct. 14, 2008, 122 Stat. 4652, known as the Reconstruction and Stabilization Civilian Management Act of 2008, which enacted this section, sections 2368 and 2734 of this title, and provisions set out as notes under this section and sections 2151 and 2368 of this title. For complete classification of this title to the Code, see Short Title of 2008 Amendment note set out under section 2151 of this title and Tables.
 
 #### Definitions
 
@@ -43,4 +43,6 @@ Personnel.—The term ‘personnel’ means individuals serving in any service d
 &emsp;“(6)
 
 Secretary.—The term ‘Secretary’ means the Secretary of State.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

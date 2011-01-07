@@ -48,7 +48,7 @@ Any individual described in subsection (a)(1)(B) of this section who would have 
 
 (2) Section 904(a)(2) of title 20 shall not apply with respect to any teacher who was employed by the Canal Zone Government school system on September 30, 1979, and who was transferred from such position to a teaching position which is under the Department of Defense Overseas Dependent School System and the permanent duty station of which is in the Republic of Panama.
 
-(3)(A) The head of a department or agency of the United States may grant a sabbatical to anyteacher to whom paragraph (1) of this subsection applies for not to exceed 11 months in order to permit the teacher to engage in study or uncompensated work experience which is in the United States and which will contribute to the teacher's development and effectiveness. Basic compensation shall be paid to teachers on sabbatical under this section in the same manner and to the same extent as basic compensation would have been paid to teachers on sabbatical while employed in the Canal Zone Government school system on September 30, 1979. A sabbatical shall not result in a loss of, or reduction in, leave to which the teacher is otherwise entitled, credit for time or service, or performance or efficiency rating. The head of the department or agency may authorize in accordance with chapter 57 of title 5 such travel expenses (including per diem allowance) as the head of the department or agency may determine to be essential for the study or experience.
+(3)(A) The head of a department or agency of the United States may grant a sabbatical to any teacher to whom paragraph (1) of this subsection applies for not to exceed 11 months in order to permit the teacher to engage in study or uncompensated work experience which is in the United States and which will contribute to the teacher's development and effectiveness. Basic compensation shall be paid to teachers on sabbatical under this section in the same manner and to the same extent as basic compensation would have been paid to teachers on sabbatical while employed in the Canal Zone Government school system on September 30, 1979. A sabbatical shall not result in a loss of, or reduction in, leave to which the teacher is otherwise entitled, credit for time or service, or performance or efficiency rating. The head of the department or agency may authorize in accordance with chapter 57 of title 5 such travel expenses (including per diem allowance) as the head of the department or agency may determine to be essential for the study or experience.
 
 (B) A sabbatical under this paragraph may not be granted to any teacher—
 
@@ -74,7 +74,7 @@ Section 1231(d) of Pub. L. 96–70 amended sections 5595, 5724a, and 8102 of Tit
 
 #### Amendments
 
-1998—Subsec. (a)(2)(A), (B). Pub. L. 105–261 struck out subpars. (A) and (B) which read as follows:
+<b>1998</b>—Subsec. (a)(2)(A), (B). Pub. L. 105–261 struck out subpars. (A) and (B) which read as follows:
 
 “(A) rates of basic pay;
 
@@ -88,9 +88,9 @@ Subsec. (a)(2)(F) to (H). Pub. L. 105–261 struck out subpars. (F) to (H) which
 
 “(H) group health and life insurance;”.
 
-1997—Subsec. (c)(3)(A). Pub. L. 105–85 substituted “September 30, 1979” for “the day before October 1, 1979”.
+<b>1997</b>—Subsec. (c)(3)(A). Pub. L. 105–85 substituted “September 30, 1979” for “the day before October 1, 1979”.
 
-1996—Subsec. (a)(3). Pub. L. 104–201 struck out par. (3) which read as follows:
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–201 struck out par. (3) which read as follows:
 
 “(3)(A) The provisions of this subsection shall take effect on September 27, 1979.
 

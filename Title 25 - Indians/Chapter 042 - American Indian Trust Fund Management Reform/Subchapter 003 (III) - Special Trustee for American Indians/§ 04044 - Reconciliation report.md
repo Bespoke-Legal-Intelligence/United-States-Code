@@ -24,5 +24,5 @@ In General.—Notwithstanding any other provision of law, for purposes of determ
 
 “(b)
 
-Statement of Purpose.—Subsection (a) is solely intended to provide recipients of reconciliation reports with the opportunity to postpone the filing of claims, or to facilitate the voluntary dismissal of claims, to encourage settlement negotiations with the United States.”
+Statement of Purpose.—Subsection (a) is solely intended to provide recipients of reconciliation reports with the opportunity to postpone the filing of claims,or to facilitate the voluntary dismissal of claims, to encourage settlement negotiations with the United States.”
 

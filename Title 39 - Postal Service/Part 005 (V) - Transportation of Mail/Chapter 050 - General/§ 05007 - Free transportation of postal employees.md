@@ -10,5 +10,5 @@
 
 #### Amendments
 
-1994—Pub. L. 103–272 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1994</b>—Pub. L. 103–272 designated existing provisions as subsec. (a) and added subsec. (b).
 

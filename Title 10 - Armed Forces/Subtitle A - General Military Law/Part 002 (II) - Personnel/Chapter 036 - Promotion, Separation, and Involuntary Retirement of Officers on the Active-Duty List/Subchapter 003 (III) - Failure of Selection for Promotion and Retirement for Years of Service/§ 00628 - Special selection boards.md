@@ -24,13 +24,13 @@ Persons Considered by Promotion Boards in Unfair Manner.—(1) If the Secretary 
 
 Reports of Boards.—(1) Each special selection board convened under this section shall submit to the Secretary of the military department concerned a written report, signed by each member of the board, containing the name of each person it recommends for promotion and certifying that the board has carefully considered the record of each person whose name was referred to it.
 
-(2) The provisions of sections 617(b) and 618 of this title apply to the report and proceedings of a special selection board convened under this section in the same manner as they apply to the report and proceedings of a selection board convened under section 611(a) of this title. However, in the case of a board convened under this section to consider a warrant officer or former warrant officer, the provisions of sections 576(d) and 576(f) of this title (rather than the provisions of sections 617(b) and 618 of this title) apply to the report and proceedings of the board in the same manner as they apply to the report and proceedings of a selection board convened under section 573 of this title.
+(2) The provisions of sections 617(b) and 618 of this title apply to the report and proceedings of a special selection board convened under this section in the same manner as they apply to the report and proceedings of a selection board convened under section 611(a) of this title. However, in the case of a board convened under this section to consider a warrant officer or former warrant officer, the provisions of sections 576(d), 576(f), and 613a of this title (rather than the provisions of sections 617(b) and 618 of this title) apply to the report and proceedings of the board in the same manner as they apply to the report and proceedings of a selection board convened under section 573 of this title.
 
 (d)
 
 Appointment of Persons Selected by Boards.—(1) If the report of a special selection board convened under this section, as approved by the President, recommends for promotion to the next higher grade a person whose name was referred to it for consideration, that person shall, as soon as practicable, be appointed to that grade in accordance with subsections (b), (c), and (d) of section 624 of this title. However, in the case of a board convened under this section to consider a warrant officer or former warrant officer, if the report of that board, as approved by the Secretary concerned, recommends that warrant officer or former warrant officer for promotion to the next higher grade, that person shall, as soon as practicable, be appointed to the next higher grade in accordance with provisions of section 578(c) of this title (rather than subsections (b), (c), and (d) of section 624 of this title).
 
-(2) A person who is appointed to the next higher grade as the result of the recommendation ofa special selection board convened under this section shall, upon that appointment, have the same date of rank, the same effective date for the pay and allowances of that grade, and the same position on the active-duty list as he would have had if he had been recommended for promotion to that grade by the board which should have considered, or which did consider, him. In the case of a person who is not on the active-duty list when appointed to the next higher grade, placement of that person on the active-duty list pursuant to the preceding sentence shall be only for purposes of determination of eligibility of that person for consideration for promotion by any subsequent special selection board under this section.
+(2) A person who is appointed to the next higher grade as the result of the recommendation of a special selection board convened under this section shall, upon that appointment, have the same date of rank, the same effective date for the pay and allowances of that grade, and the same position on the active-duty list as he would have had if he had been recommended for promotion to that grade by the board which should have considered, or which did consider, him. In the case of a person who is not on the active-duty list when appointed to the next higher grade, placement of that person on the active-duty list pursuant to the preceding sentence shall be only for purposes of determination of eligibility of that person for consideration for promotion by any subsequent special selection board under this section.
 
 (e)
 
@@ -58,7 +58,7 @@ Judicial Review.—(1)(A) A court of the United States may review a determinatio
 
 &emsp;(iv) otherwise contrary to law.
 
-(B) If a court sets aside a determination by the Secretary of a military department not to convene a special selection board under this section, it shall remand the case to the Secretary concerned, who shall provide for consideration by such a board.
+(B) If a court sets aside a determination by the Secretary of a military department not to convene a special selection board under this section, it shall remand the case to the Secretaryconcerned, who shall provide for consideration by such a board.
 
 (2) A court of the United States may review the action of a special selection board convened under this section or an action of the Secretary of the military department concerned on the report of such a board. In any such case, a court may set aside the action only if the court finds that the action was—
 
@@ -108,21 +108,23 @@ Regulations.—(1) The Secretary of each military department shall prescribe reg
 
 Promotion Board Defined.—In this section, the term “promotion board” means a selection board convened by the Secretary of a military department under section 573(a) or 611(a) of this title.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2859; amended Pub. L. 98–525, title V, §527(a), Oct. 19, 1984, 98 Stat. 2525; Pub. L. 102–190, div. A, title XI, §1131(4), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 102–484, div. A, title X, §1052(10), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 105–261, div. A, title V, §501(a)–(e), Oct. 17, 1998, 112 Stat. 2000–2002; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–107, div. A, title V, §§503(b), 505(c)(3)(A), Dec. 28, 2001, 115 Stat. 1083, 1088; Pub. L. 109–364, div. A, title V, §514(a), Oct. 17, 2006, 120 Stat. 2185.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2859; amended Pub. L. 98–525, title V, §527(a), Oct. 19, 1984, 98 Stat. 2525; Pub. L. 102–190, div. A, title XI, §1131(4), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 102–484, div. A, title X, §1052(10), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 105–261, div. A, title V, §501(a)–(e), Oct. 17, 1998, 112 Stat. 2000–2002; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–107, div. A, title V, §§503(b), 505(c)(3)(A), Dec. 28, 2001, 115 Stat. 1083, 1088; Pub. L. 109–364, div. A, title V, §514(a), Oct. 17, 2006, 120 Stat. 2185; Pub. L. 111–383, div. A, title V, §503(b), Jan. 7, 2011, 124 Stat. 4208.)
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–364, §514(a)(1), inserted “from in or above the promotion zone” after “for selection for promotion”.
+<b>2011</b>—Subsec. (c)(2). Pub. L. 111–383 substituted “sections 576(d), 576(f), and 613a” for “sections 576(d) and 576(f)”.
+
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–364, §514(a)(1), inserted “from in or above the promotion zone” after “for selection for promotion”.
 
 Subsec. (b)(1)(A). Pub. L. 109–364, §514(a)(2), inserted “in a matter material to the decision of the board” after “contrary to law”.
 
-2001—Subsec. (a)(1). Pub. L. 107–107, §505(c)(3)(A), inserted “or the name of a person that should have been placed on an all-fully-qualified-officers list under section 624(a)(3) of this title was not so placed,” after “not so considered,”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–107, §505(c)(3)(A), inserted “or the name of a person that should have been placed on an all-fully-qualified-officers list under section 624(a)(3) of this title was not so placed,” after “not so considered,”.
 
 Subsecs. (g) to (k). Pub. L. 107–107, §503(b), added subsecs. (g) to (j) and redesignated former subsec. (g) as (k).
 
-2000—Subsec. (c)(2). Pub. L. 106–398 substituted “sections” for “section” after “rather than the provisions of”.
+<b>2000</b>—Subsec. (c)(2). Pub. L. 106–398 substituted “sections” for “section” after “rather than the provisions of”.
 
-1998—Subsec. (a). Pub. L. 105–261, §501(a)(1), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “In the case of an officer who is eligible for promotion who the Secretary of the military department concerned determines was not considered for selection for promotion by a selection board because of administrative error, the Secretary concerned, under regulations prescribed by the Secretary of Defense, shall convene a special selection board under this subsection (composed in accordance with section 612 of this title or, in the case of a warrant officer, composed in accordance with section 573 of this title and regulations prescribed by the Secretary of the military department concerned) to determine whether such officer should be recommended for promotion.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–261, §501(a)(1), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “In the case of an officer who is eligible for promotion who the Secretary of the military department concerned determines was not considered for selection for promotion by a selection board because of administrative error, the Secretary concerned, under regulations prescribed by the Secretary of Defense, shall convene a special selection board under this subsection (composed in accordance with section 612 of this title or, in the case of a warrant officer, composed in accordance with section 573 of this title and regulations prescribed by the Secretary of the military department concerned) to determine whether such officer should be recommended for promotion.”
 
 Subsec. (a)(2). Pub. L. 105–261, §501(a)(2), substituted “the person whose name was referred to it for consideration as that record” for “the officer as his record”.
 
@@ -154,11 +156,11 @@ Subsec. (e). Pub. L. 105–261, §501(d), amended subsec. (e) generally. Prior t
 
 Subsecs. (f), (g). Pub. L. 105–261, §501(e), added subsecs. (f) and (g).
 
-1992—Subsec. (b)(1). Pub. L. 102–484 substituted “section 573” for “section 558”.
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–484 substituted “section 573” for “section 558”.
 
-1991—Subsec. (a)(1). Pub. L. 102–190 substituted “section 573” for “section 558”.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–190 substituted “section 573” for “section 558”.
 
-1984—Subsecs. (a)(1), (b)(1). Pub. L. 98–525 substituted “(composed in accordance with section 612 of this title or, in the case of a warrant officer, composed in accordance with section 558 of this title and regulations prescribed by the Secretary of the military department concerned)” for “(composed in accordance with section 612 of this title)”.
+<b>1984</b>—Subsecs. (a)(1), (b)(1). Pub. L. 98–525 substituted “(composed in accordance with section 612 of this title or, in the case of a warrant officer, composed in accordance with section 558 of this title and regulations prescribed by the Secretary of the military department concerned)” for “(composed in accordance with section 612 of this title)”.
 
 #### Effective Date of 2006 Amendment
 
@@ -168,7 +170,7 @@ Pub. L. 109–364, div. A, title V, §514(c), Oct. 17, 2006, 120 Stat. 2185, pro
 
 Pub. L. 107–107, div. A, title V, §503(c), Dec. 28, 2001, 115 Stat. 1084, provided that:
 
-“(1) Except as provided in paragraph (2), the amendments made by this section \[enacting section 1558 of this title and amending this section\] shall apply withrespect to any proceeding pending on or after the date of the enactment of this Act \[Dec. 28, 2001\] without regard to whether a challenge to an action of a selection board of any of the Armed Forces being considered in the proceeding was initiated before, on, or after that date.
+“(1) Except as provided in paragraph (2), the amendments made by this section \[enacting section 1558 of this title and amending this section\] shall apply with respect to any proceeding pending on or after the date of the enactment of this Act \[Dec. 28, 2001\] without regard to whether a challenge to an action of a selection board of any of the Armed Forces being considered in the proceeding was initiated before, on, or after that date.
 
 “(2) The amendments made by this section shall not apply with respect to any action commenced in a court of the United States before the date of the enactment of this Act.”
 

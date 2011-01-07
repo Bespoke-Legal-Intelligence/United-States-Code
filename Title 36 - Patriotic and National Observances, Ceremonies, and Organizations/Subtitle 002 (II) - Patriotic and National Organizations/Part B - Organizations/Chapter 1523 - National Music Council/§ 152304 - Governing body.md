@@ -22,7 +22,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-152304(a)D36:667.DAug. 1, 1956, ch. 824, §§7, 8, 70 Stat. 796.
+152304(a)
+
+36:667.
+
+Aug. 1, 1956, ch. 824, §§7, 8, 70 Stat. 796.
 
 152304(b)
 

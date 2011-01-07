@@ -36,7 +36,7 @@ In this section, the following definitions apply:
 
 #### (1) State
 
-&emsp;The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, AmericanSamoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (2) Water supply system
 

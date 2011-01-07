@@ -4,17 +4,13 @@ Whenever the Director, the Attorney General, and the Commissioner of Immigration
 
 (June 20, 1949, ch. 227, §7, formerly §8, 63 Stat. 212; renumbered §7, Pub. L. 85–507, §21(b)(2), July 7, 1958, 72 Stat. 337; Pub. L. 104–208, div. C, title III, §308(f)(6), Sept. 30, 1996, 110 Stat. 3009–622.)
 
-#### References in Text
-
-The immigration laws, referred to in text, are classified generally to Title 8, Aliens and Nationality. See also section 1101(a)(17) of Title 8.
-
 #### Codification
 
 Section was enacted as part of the Central Intelligence Agency Act of 1949, and not as part of the National Security Act of 1947 which comprises this chapter.
 
 #### Amendments
 
-1996—Pub. L. 104–208 substituted “that the admission” for “that the entry”, “shall be admitted to” for “shall be given entry into”, and “families admitted to” for “families entering”.
+<b>1996</b>—Pub. L. 104–208 substituted “that the admission” for “that the entry”, “shall be admitted to” for “shall be given entry into”, and “families admitted to” for “families entering”.
 
 #### Change of Name
 

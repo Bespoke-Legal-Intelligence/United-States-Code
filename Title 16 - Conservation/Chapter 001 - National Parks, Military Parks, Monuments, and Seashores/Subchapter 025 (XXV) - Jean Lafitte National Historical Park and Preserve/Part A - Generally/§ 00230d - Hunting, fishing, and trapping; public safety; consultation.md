@@ -6,7 +6,7 @@ Within the Barataria Preserve Unit, the Secretary shall permit hunting, fishing 
 
 #### Amendments
 
-2009—Pub. L. 111–11, in first sentence, substituted “Barataria Preserve Unit” for “Barataria Marsh Unit” and “on land, and interests in land and water managed by the Secretary, except that the Secretary” for “, except that within the core area and on those lands acquired by the Secretary pursuant to section 230a(c) of this title, he”.
+<b>2009</b>—Pub. L. 111–11, in first sentence, substituted “Barataria Preserve Unit” for “Barataria Marsh Unit” and “on land, and interests in land and water managed by the Secretary, except that the Secretary” for “, except that within the core area and on those lands acquired by the Secretary pursuant to section 230a(c) of this title, he”.
 
 #### “Secretary” Defined
 

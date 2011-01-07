@@ -66,7 +66,7 @@
 
 &emsp;(B) from disapproving any collection of information contained in an agency rule, if the agency failed to comply with the requirements of paragraph (1) of this subsection;
 
-&emsp;(C) from disapproving any collection of information contained in a final agency rule, if the Director finds within 60 days after the publication of the final rule that the agency's response to the Director's comments filed under paragraph (2) of this subsection was unreasonable; or
+&emsp;(C) from disapproving any collection of information contained in a final agency rule, if the Director finds within 60 days after the publication of the final rule that the agency's response to the Director's comments filed underparagraph (2) of this subsection was unreasonable; or
 
 &emsp;(D) from disapproving any collection of information contained in a final rule, if—
 
@@ -144,13 +144,13 @@ Another prior section 3507, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1304, prov
 
 #### Amendments
 
-2000—Subsecs. (e)(3)(B), (h), (j). Pub. L. 106–398 substituted “subchapter” for “chapter” wherever appearing.
+<b>2000</b>—Subsecs. (e)(3)(B), (h), (j). Pub. L. 106–398 substituted “subchapter” for “chapter” wherever appearing.
 
-1996—Subsec. (j)(2). Pub. L. 104–106 substituted “180 days” for “90 days”.
+<b>1996</b>—Subsec. (j)(2). Pub. L. 104–106 substituted “180 days” for “90 days”.
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] ofPub. L. 106–398, set out as an Effective Date note under section 3531 of this title.
+Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] of Pub. L. 106–398, set out as an Effective Date note under section 3531 of this title.
 
 #### Effective Date of 1996 Amendment
 

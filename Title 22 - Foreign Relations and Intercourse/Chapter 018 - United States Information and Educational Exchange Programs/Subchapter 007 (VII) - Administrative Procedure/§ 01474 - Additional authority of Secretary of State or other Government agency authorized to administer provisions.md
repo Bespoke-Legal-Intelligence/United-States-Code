@@ -48,29 +48,25 @@ In carrying out the provisions of this chapter, the Secretary, or any Government
 
 &emsp;(23) provide allowances as authorized by sections 5921 through 5928 of title 5.
 
-(Jan. 27, 1948, ch. 36, title VIII, §804, as added Pub. L. 92–352, title II, §202, July 13, 1972, 86 Stat. 493; amended Pub. L. 94–350, title II, §203, July 12, 1976, 90 Stat. 830; Pub. L. 96–60, title II, §§203(b)(2), 204(b), Aug. 15, 1979, 93 Stat. 398, 400; Pub. L. 97–241, title III, §§303(b), 304(c), (d), Aug. 24, 1982, 96 Stat. 291, 293; Pub. L. 101–246, title II, §207, Feb. 16, 1990, 104 Stat. 53; Pub. L. 102–138, title II, §§204, 205, Oct. 28, 1991, 105 Stat. 692.)
+(Jan. 27, 1948, ch. 36, title VIII, §804, as added Pub. L. 92–352, title II, §202, July 13, 1972, 86 Stat. 493; amended Pub. L. 94–350, title II, §203, July 12, 1976, 90 Stat. 830; Pub. L. 96–60, title II, §§203(b)(2), 204(b), Aug. 15, 1979, 93 Stat. 398, 400; Pub. L. 97–241, title III, §§303(b), 304(c), (d), Aug.24, 1982, 96 Stat. 291, 293; Pub. L. 101–246, title II, §207, Feb. 16, 1990, 104 Stat. 53; Pub. L. 102–138, title II, §§204, 205, Oct. 28, 1991, 105 Stat. 692.)
 
 #### References in Text
-
-The civil service laws, referred to in par. (1), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
-The classification laws, referred to in par. (1), are classified generally to chapter 51 (§5101 et seq.) and to subchapter III (§5331 et seq.) of chapter 53 of Title 5.
 
 The Foreign Service Act of 1980, referred to in par. (21), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 #### Amendments
 
-1991—Par. (9). Pub. L. 102–138, §205, amended par. (9) generally. Prior to amendment, par. (9) read as follows: “pay the actual expenses of preparing and transporting to their former homes the remains of persons, not United States Government employees, who may die away from their homes while participating in activities conducted under this chapter;”.
+<b>1991</b>—Par. (9). Pub. L. 102–138, §205, amended par. (9) generally. Prior to amendment, par. (9) read as follows: “pay the actual expenses of preparing and transporting to their former homes the remains of persons, not United States Government employees, who may die away from their homes while participating in activities conducted under this chapter;”.
 
 Pars. (21) to (23). Pub. L. 102–138, §204, added pars. (21) to (23).
 
-1990—Par. (1). Pub. L. 101–246 inserted “when job vacancies occur” after “available”.
+<b>1990</b>—Par. (1). Pub. L. 101–246 inserted “when job vacancies occur” after “available”.
 
-1982—Par. (16). Pub. L. 97–241, §304(c), inserted “and security” after “right-hand drive”.
+<b>1982</b>—Par. (16). Pub. L. 97–241, §304(c), inserted “and security” after “right-hand drive”.
 
 Par. (20). Pub. L. 97–241, §304(d), added par. (20).
 
-1979—Par. (1). Pub. L. 96–60, §203(b)(2), authorized employment of aliens within the United States, previously covered in section 1471(5) of this title, extended services to include preparation and production of foreign language programs, and eliminated investigation-of-alien-employees requirement.
+<b>1979</b>—Par. (1). Pub. L. 96–60, §203(b)(2), authorized employment of aliens within the United States, previously covered in section 1471(5) of this title, extended services to include preparation and production of foreign language programs, and eliminated investigation-of-alien-employees requirement.
 
 Par. (10). Pub. L. 96–60, §204(b)(1), substituted “ten” for “five” years.
 
@@ -78,7 +74,7 @@ Par. (14). Pub. L. 96–60, §204(b)(3), substituted a semicolon for “, when f
 
 Pars. (15) to (19). Pub. L. 96–60, §204(b)(4), added pars. (15) to (19).
 
-1976—Par. (14). Pub. L. 94–350 added par. (14).
+<b>1976</b>—Par. (14). Pub. L. 94–350 added par. (14).
 
 #### Effective Date of 1979 Amendment
 

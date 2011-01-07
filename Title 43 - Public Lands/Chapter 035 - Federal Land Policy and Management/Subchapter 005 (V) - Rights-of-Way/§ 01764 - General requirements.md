@@ -18,7 +18,7 @@ The Secretary concerned prior to granting or issuing a right-of-way pursuant to 
 
 #### (e) Regulatory requirements for terms and conditions; revision and applicability of regulations
 
-The Secretary concerned shall issue regulations with respect to the terms and conditions that will be included in rights-of-way pursuant to section 1765 of this title. Such regulations shall be regularly revised as needed. Such regulations shall be applicable to every right-of-way granted or issued pursuant to this subchapter and to any subsequent renewal thereof, and may be applicable to rights-of-way not granted or issued, but renewed pursuant to this subchapter.
+The Secretary concerned shall issue regulations with respect to the terms and conditionsthat will be included in rights-of-way pursuant to section 1765 of this title. Such regulations shall be regularly revised as needed. Such regulations shall be applicable to every right-of-way granted or issued pursuant to this subchapter and to any subsequent renewal thereof, and may be applicable to rights-of-way not granted or issued, but renewed pursuant to this subchapter.
 
 #### (f) Removal or use of mineral and vegetative materials
 
@@ -50,13 +50,13 @@ The Rural Electrification Act of 1936, referred to in subsec. (g), is act May 20
 
 #### Amendments
 
-1996—Subsec. (g). Pub. L. 104–333 substituted “eligible for financing pursuant to the Rural Electrification Act of 1936, as amended, determined without regard to any application requirement under that Act,” for “financed pursuant to the Rural Electrification Act of 1936, as amended,”.
+<b>1996</b>—Subsec. (g). Pub. L. 104–333 substituted “eligible for financing pursuant to the Rural Electrification Actof 1936, as amended, determined without regard to any application requirement under that Act,” for “financed pursuant to the Rural Electrification Act of 1936, as amended,”.
 
-1986—Subsec. (f). Pub. L. 99–545, §2(1), inserted before the period at end “or for emergency repair work necessary for those rights-of-way authorized under section 1761(c) of this title”.
+<b>1986</b>—Subsec. (f). Pub. L. 99–545, §2(1), inserted before the period at end “or for emergency repair work necessary for those rights-of-way authorized under section 1761(c) of this title”.
 
 Subsec. (g). Pub. L. 99–545, §2(2), substituted “The holder of a right-of-way shall pay in advance the fair market value thereof, as determined by the Secretary granting, issuing, or renewing such right-of-way. The Secretary concerned may require either annual payment or a payment covering more than one year at a time except that private individuals may make at their option either annual payments or payments covering more than one year if the annual fee is greater than one hundred dollars. The Secretary concerned may waive rentals where a right-of-way is granted, issued or renewed in consideration of a right-of-way conveyed to the United States in connection with a cooperative cost share program between the United States and the holder.” for “The holder of a right-of-way shall pay annually in advance the fair market value thereof as determined by the Secretary granting, issuing, or renewing such right-of-way: <i>Provided</i>, That when the annual rental is less than $100, the Secretary concerned may require advance payment for more than one year at a time: <i>Provided further</i>, That the Secretary concerned may waive rentals where a right-of-way is granted, issued, or renewed in reciprocation for a right-of-way conveyed to the United States in connection with a cooperative cost share program between the United States and the holder.”
 
-1984—Subsec. (g). Pub. L. 98–300 inserted at end “Rights-of-way shall be granted, issued, or renewed, without rental fees, for electric or telephone facilities financed pursuant to the Rural Electrification Act of 1936, as amended, or any extensions from such facilities: <i>Provided</i>, That nothing in this sentence shall be construed to affect the authority of the Secretary granting, issuing, or renewing the right-of-way to require reimbursement of reasonable administrative and other costs pursuant to the second sentence of this subsection.”
+<b>1984</b>—Subsec. (g). Pub. L. 98–300 inserted at end “Rights-of-way shall be granted, issued, or renewed, without rental fees, for electric or telephone facilities financed pursuant to the Rural Electrification Act of 1936, as amended, or any extensions from such facilities: <i>Provided</i>, That nothing in this sentence shall be construed to affect the authority of the Secretary granting, issuing, or renewing the right-of-way to require reimbursement of reasonable administrative and other costs pursuant to the second sentence of this subsection.”
 
 #### Effective Date of 1996 Amendment
 

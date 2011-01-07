@@ -16,7 +16,7 @@ buildings and grounds.—
 
 In general.—The term “FBI buildings and grounds” means—
 
-&emsp;&emsp;&emsp;(i) the whole or any part of any building or structure which is occupied under alease or otherwise by the Federal Bureau of Investigation and is subject to supervision and control by the Federal Bureau of Investigation;
+&emsp;&emsp;&emsp;(i) the whole or any part of any building or structure which is occupied under a lease or otherwise by the Federal Bureau of Investigation and is subject to supervision and control by the Federal Bureau of Investigation;
 
 &emsp;&emsp;&emsp;(ii) the land upon which there is situated any building or structure which is occupied wholly by the Federal Bureau of Investigation; and
 

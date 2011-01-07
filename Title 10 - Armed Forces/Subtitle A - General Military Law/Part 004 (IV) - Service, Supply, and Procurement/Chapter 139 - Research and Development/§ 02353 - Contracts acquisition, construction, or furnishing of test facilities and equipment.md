@@ -62,13 +62,13 @@ In subsection (a), the words “furnished to” and “for the use thereof” ar
 
 In subsections (a) and (b), the words “United States” are substituted for the word “Government”.
 
-In subsection (b), the introductory clause is substituted for 5:235e (words of 2d proviso before clause (1)), 475j, and 628e. The words “that considers” are substituted for the words “as will in the opinion”. The words “an alternative” are substituted for the words “such other”.
+In subsection (b), the introductory clause is substituted for 5:235e (words of 2d proviso before clause (1)), 475j, and 628e. The words “that \* \* \* considers” are substituted for the words “as will in the opinion”. The words “an alternative” are substituted for the words “such other”.
 
 In subsection (c), the words “Proceeds of” are substituted for the words “That all moneys arising from”.
 
 #### Limitations on Modifications of Certain Government-Furnished Equipment; One-Time Authority To Transfer a Certain Military Prototype
 
-Pub. L. 111–84, div. A, title X, §1043, Oct. 28, 2009, 123 Stat. 2456, provided that:
+Pub. L. 111–84, div. A, title X, §1043, Oct. 28, 2009, 123 Stat. 2456, as amended by Pub. L. 111–383, div. A, title X, §1075(d)(12), Jan. 7, 2011, 124 Stat. 4373, provided that:
 
 “(a)
 
@@ -102,7 +102,7 @@ One-time Authority to Transfer.—The Secretary of the Navy may transfer, to Pia
 
 “(d)
 
-Applicable Law.—The transfer or use of military equipment is subject to all applicable Federal and State laws and regulations, including, but not limited to, the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\], continued under Executive Order 12924 \[listed in a table under 50 U.S.C. 1701\], International Traffic in Arms Regulations (22 C.F.R. 120 et seq.), Export Administration Regulations (15 C.F.R. 730 et seq.), Foreign Assets Control Regulations (31 C.F.R. 500 et 13 seq. \[sic\]), and the Espionage Act \[act June 15, 1917, ch. 30, 40 Stat. 217, see Tables for classification\].
+Applicable Law.—The transfer or use of military equipment is subject to all applicable Federal and State laws and regulations, including, but not limited to, the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\], continued under Executive Order 12924 \[listed in a table under 50 U.S.C. 1701\], International Traffic in Arms Regulations (22 C.F.R. 120 et seq.), Export Administration Regulations (15 C.F.R. 730 et seq.), Foreign Assets Control Regulations (31 C.F.R. 500 et seq.), and the Espionage Act \[act June 15, 1917, ch. 30, 40 Stat. 217, see Tables for classification\].
 
 “(e)
 

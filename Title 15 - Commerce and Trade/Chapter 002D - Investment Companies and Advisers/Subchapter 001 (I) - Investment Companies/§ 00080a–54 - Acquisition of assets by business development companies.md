@@ -2,7 +2,7 @@
 
 #### (a) Permissible assets; percentage
 
-It shall be unlawful for a business development company to acquire any assets (other thanthose described in paragraphs (1) through (7) of this subsection) unless, at the time the acquisition is made, assets described in paragraphs (1) through (6) below represent at least 70 per centum of the value of its total assets (other than assets described in paragraph (7) below):
+It shall be unlawful for a business development company to acquire any assets (other than those described in paragraphs (1) through (7) of this subsection) unless, at the time the acquisition is made, assets described in paragraphs (1) through (6) below represent at least 70 per centum of the value of its total assets (other than assets described in paragraph (7) below):
 
 &emsp;(1) securities purchased, in transactions not involving any public offering or in such other transactions as the Commission may, by rule, prescribe if it finds that enforcement of this subchapter and of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] with respect to such transactions is not necessary in the public interest or for the protection of investors by reason of the small amount, or the limited nature of the public offering, involved in such transactions—
 
@@ -50,7 +50,7 @@ The Securities Act of 1933, referred to in subsec. (a)(1), is act May 27, 1933, 
 
 #### Amendments
 
-1996—Subsec. (a)(1)(A). Pub. L. 104–290 substituted “from any person” for “or from any person” and inserted before semicolon “, or from any other person, subject to such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors”.
+<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–290 substituted “from any person” for “or from any person” and inserted before semicolon “, or from any other person, subject to such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors”.
 
-1987—Subsec. (a)(1)(B). Pub. L. 100–181 substituted “described in section” for “described in sections”.
+<b>1987</b>—Subsec. (a)(1)(B). Pub. L. 100–181 substituted “described in section” for “described in sections”.
 

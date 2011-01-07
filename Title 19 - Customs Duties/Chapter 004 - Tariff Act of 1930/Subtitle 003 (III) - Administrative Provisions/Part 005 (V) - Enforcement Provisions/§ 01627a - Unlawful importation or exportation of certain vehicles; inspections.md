@@ -24,7 +24,7 @@ For purposes of this section—
 
 &emsp;(2) the term “aircraft” has the meaning given it in section 40102(a)(6) of title 49;
 
-&emsp;(3) the term “used” refers to any self-propelled vehicle the equitable or legal title to which has been transferred by a manufacturer, distributor, or dealer to an ultimate purchaser; and
+&emsp;(3) the term “used” refers to any self-propelled vehicle the equitable or legal title towhich has been transferred by a manufacturer, distributor, or dealer to an ultimate purchaser; and
 
 &emsp;(4) the term “ultimate purchaser” means the first person, other than a dealer purchasing in his capacity as a dealer, who in good faith purchases a self-propelled vehicle for purposes other than resale.
 

@@ -10,7 +10,7 @@ Annual Report Related to Installations Energy Management.—As part of the annua
 
 &emsp;(3) A table listing all energy projects financed through third party financing mechanisms (including energy savings performance contracts, enhanced use leases, utility energy service contracts, utility privatization agreements, and other contractual mechanisms), the duration of each such mechanism, an estimate of the financial obligation incurred through the duration of each such mechanism, and the estimated payback period for each such mechanism.
 
-&emsp;(4) A description of the actions taken to implement the energy performance plan in effect under section 2911 of this title and carry out this chapter during the preceding fiscal year.
+&emsp;(4) A description of the actions taken to implement the energy performance master plan in effect under section 2911 of this title and carry out this chapter during the preceding fiscal year.
 
 &emsp;(5) A description of the energy savings realized from such actions.
 
@@ -26,7 +26,7 @@ Annual Report Related to Installations Energy Management.—As part of the annua
 
 (b)
 
-Annual Report Related to Operational Energy.—(1) Simultaneous with the annual report required by subsection (a), the Secretary of Defense, acting through the Director of Operational Energy Plans and Programs, shall submit to the congressional defense committees a report on operational energy management andthe implementation of the operational energy strategy established pursuant to section 139b of this title.
+Annual Report Related to Operational Energy.—(1) Simultaneous with the annual report required by subsection (a), the Secretary of Defense, acting through the Assistant Secretary of Defense for Operational Energy Plans and Programs, shall submit to the congressional defense committees a report on operational energy management and the implementation of the operational energy strategy established pursuant to section 139b <sup>1</sup> of this title.
 
 (2) The annual report under this subsection shall address and include the following:
 
@@ -42,13 +42,13 @@ Annual Report Related to Operational Energy.—(1) Simultaneous with the annual 
 
 &emsp;&emsp;(ii) in meeting the operational energy goals set forth in the strategy.
 
-&emsp;(E) Such recommendations as the Director considers appropriate for additional changes in organization or authority within the Department of Defense to enable further implementation of the energy strategy and such other comments and recommendations as the Director considers appropriate.
+&emsp;(E) Such recommendations as the Assistant Secretary considers appropriate for additional changes in organization or authority within the Department of Defense to enable further implementation of the energy strategy and such other comments and recommendations as the Assistant Secretary considers appropriate.
 
 (3) If a report under this subsection is submitted in a classified form, the Secretary shall concurrently submit to the congressional defense committees an unclassified version of the information required by this subsection.
 
 (4) In this subsection, the term “operational energy” means the energy required for training, moving, and sustaining military forces and weapons platforms for military operations. The term includes energy used by tactical power systems and generators and weapons platforms.
 
-(Added Pub. L. 109–364, div. B, title XXVIII, §2851(a)(1), Oct. 17, 2006, 120 Stat. 2493; amended Pub. L. 110–417, \[div. A\], title III, §331(a), (b)(1), div. B, title XXVIII, §2832, Oct. 14, 2008, 122 Stat. 4419, 4420, 4732; Pub. L. 111–84, div. A, title III, §332(a), Oct. 28, 2009, 123 Stat. 2257.)
+(Added Pub. L. 109–364, div. B, title XXVIII, §2851(a)(1), Oct. 17, 2006, 120 Stat. 2493; amended Pub. L. 110–417, \[div. A\], title III, §331(a), (b)(1), div. B, title XXVIII, §2832, Oct. 14, 2008, 122 Stat. 4419, 4420, 4732; Pub. L. 111–84, div. A, title III, §332(a), Oct. 28, 2009, 123 Stat. 2257; Pub. L. 111–383, div. A, title IX, §901(a)(2), div. B, title XXVIII, §2832(c)(1), Jan. 7, 2011, 124 Stat. 4317, 4469.)
 
 #### References in Text
 
@@ -58,13 +58,23 @@ Section 533 of the National Energy Conservation Policy Act (42 U.S.C. 8259b), re
 
 The Energy Independence and Security Act of 2007, referred to in subsec. (a)(1), (8), is Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1492, which enacted chapter 152 of Title 42, The Public Health and Welfare, and enacted and amended numerous other sections and notes in the Code. Section 433 of the Act amended sections 6832 and 6834 of Title 42 and enacted provisions set out as a note under section 6834 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 17001 of Title 42 and Tables.
 
+Section 139b of this title, referred to in subsec. (b)(1), was renumbered as section 138c of this title by Pub. L.111–383, div. A, title IX, §901(b)(7), Jan. 7, 2011, 124 Stat. 4320.
+
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–84, in par. (1), inserted “section 2911(e) of this title, section 533 of the National Energy Conservation Policy Act (42 U.S.C. 8259b),” after “(Public Law 109–58),”, added pars. (2), (3), (9), and (10), and redesignated former pars. (2) to (6) as (4) to (8), respectively.
+<b>2011</b>—Subsec. (a)(4). Pub. L. 111–383, §2832(c)(1), substituted “energy performance master plan” for “energy performance plan”.
 
-2008—Pub. L. 110–417, §331(b)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Annual report”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–84, in par. (1), inserted “section 2911(e) of this title, section 533 of the National Energy Conservation Policy Act (42 U.S.C. 8259b),” after “(Public Law 109–58),”, added pars. (2), (3), (9), and (10), and redesignated former pars. (2) to (6) as (4) to (8), respectively.
+
+<b>2008</b>—Pub. L. 110–417, §331(b)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Annual report”.
 
 Subsec. (a). Pub. L. 110–417, §2832, in heading substituted “Annual Report Related to Installations Energy Management” for “Report Required”, in par. (1) inserted “, the Energy Independence and Security Act of 2007 (Public Law 110–140),” after “(Public Law 109–58)”, and added par. (6).
 
 Subsec. (b). Pub. L. 110–417, §331(a), added subsec. (b) and struck out former subsec. (b) which related to requirements for the initial report to be submitted by the Secretary of Defense.
+
+#### Change of Name
+
+“Assistant Secretary of Defense for Operational Energy Plans and Programs” substituted for “Director of Operational Energy Plans and Programs” in subsec. (b)(1) and “Assistant Secretary” substituted for “Director” in two places in subsec. (b)(2)(E) on authority of section 901(a) of Pub. L. 111–383, set out as a note under section 131 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

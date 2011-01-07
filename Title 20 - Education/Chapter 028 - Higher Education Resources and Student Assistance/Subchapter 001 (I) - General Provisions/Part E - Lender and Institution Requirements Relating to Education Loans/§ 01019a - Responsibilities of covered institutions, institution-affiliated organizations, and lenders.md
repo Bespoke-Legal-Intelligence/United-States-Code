@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the terms and conditions of loans made, insured, or guaranteed under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 may be more favorable than the provisions of private education loans; and
 
-&emsp;&emsp;&emsp;(iii) ensure that information regarding private education loans is presented insuch a manner as to be distinct from information regarding loans that are made, insured, or guaranteed under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;&emsp;&emsp;(iii) ensure that information regarding private education loans is presented in such a manner as to be distinct from information regarding loans that are made, insured, or guaranteed under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
 
 #### (C) Informational materials
 
@@ -100,13 +100,9 @@
 
 &emsp;Not later than 18 months after August 14, 2008—
 
-&emsp;&emsp;(A) in addition to any other disclosure required under Federal law, each lender of a loan made, insured, or guaranteed under part B of subchapter IV that participates in one or more preferred lender arrangements shall annually certify the lender's compliance with the requirements of this chapter; and
+&emsp;&emsp;(A) in addition to any other disclosure required under Federal law, each lender of a loan made, insured, or guaranteed under part B of subchapter IV that participates in one or more preferred lender arrangements shall annually certify the lender's compliance with the requirements of this chapter and part C of subchapter I of chapter 34 of title 42; and
 
 &emsp;&emsp;(B) if an audit of a lender is required pursuant to section 1078(b)(1)(U)(iii) of this title, the lender's compliance with the requirements under this section shall be reported on and attested to annually by the auditor of such lender.
 
 (Pub. L. 89–329, title I, §152, as added Pub. L. 110–315, title I, §120, Aug. 14, 2008, 122 Stat. 3119.)
-
-#### References in Text
-
-This chapter, referred to in subsec. (b)(2)(A), was in the original “this Act”, meaning Pub. L. 89–329, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 

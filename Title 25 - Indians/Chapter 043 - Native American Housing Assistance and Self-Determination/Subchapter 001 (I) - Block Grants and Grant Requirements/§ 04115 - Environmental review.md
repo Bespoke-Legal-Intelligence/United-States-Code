@@ -50,7 +50,7 @@ A certification under the procedures authorized by this section shall—
 
 The Secretary may waive the requirements under this section if the Secretary determines that a failure on the part of a recipient to comply with provisions of this section—
 
-&emsp;(1) will not frustrate the goals of the National Environmental Policy Act of 1969 \[42U.S.C. 4321 et seq.\] or any other provision of law that furthers the goals of that Act;
+&emsp;(1) will not frustrate the goals of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] or any other provision of law that furthers the goals of that Act;
 
 &emsp;(2) does not threaten the health or safety of the community involved by posing an immediate or long-term hazard to residents of that community;
 
@@ -68,7 +68,7 @@ This chapter, referred to in subsecs. (a)(1) and (c)(2), was in the original “
 
 #### Amendments
 
-2000—Subsec. (d). Pub. L. 106–568 and Pub. L. 106–569 amended section identically, adding subsec. (d).
+<b>2000</b>—Subsec. (d). Pub. L. 106–568 and Pub. L. 106–569 amended section identically, adding subsec. (d).
 
 #### Effective Date
 

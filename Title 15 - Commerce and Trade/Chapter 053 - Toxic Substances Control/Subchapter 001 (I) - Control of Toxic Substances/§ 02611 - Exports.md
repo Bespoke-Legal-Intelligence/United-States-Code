@@ -82,7 +82,7 @@
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–414, §4(1), substituted “subsections (b) and (c)” for “subsection (b)” in introductory provisions.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–414, §4(1), substituted “subsections (b) and (c)” for “subsection (b)” in introductory provisions.
 
 Subsec. (c). Pub. L. 110–414, §4(2), added subsec. (c).
 
@@ -108,7 +108,7 @@ Pub. L. 110–414, §2, Oct. 14, 2008, 122 Stat. 4341, provided that: “Congres
 
 &emsp;“(6) the long-term solution to mercury pollution is to minimize global mercury use and releases to eventually achieve reduced contamination levels in the environment, rather than reducing fish consumption since uncontaminated fish represents a critical and healthy source of nutrition worldwide;
 
-&emsp;“(7) mercury pollution is a transboundary pollutant, depositing locally, regionally, and globally, and affecting water bodies near industrial sources (including the Great Lakes) and remote areas (including the Arctic Circle);
+&emsp;“(7) mercury pollution is a transboundary pollutant, depositing locally, regionally, and globally, andaffecting water bodies near industrial sources (including the Great Lakes) and remote areas (including the Arctic Circle);
 
 &emsp;“(8) the free trade of elemental mercury on the world market, at relatively low prices and in ready supply, encourages the continued use of elemental mercury outside of the United States, often involving highly dispersive activities such as artisinal \[probably should be “artisanal”\] gold mining;
 

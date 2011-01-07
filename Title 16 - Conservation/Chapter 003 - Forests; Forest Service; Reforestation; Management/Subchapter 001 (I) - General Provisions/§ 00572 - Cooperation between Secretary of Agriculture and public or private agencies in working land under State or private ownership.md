@@ -16,7 +16,7 @@ Moneys deposited under this section shall be covered into the Treasury and shall
 
 #### Amendments
 
-1950—Act Apr. 24, 1950, amended section generally to broaden the authority to permit performance of various kinds of work by the Forest Service, at the expense of interested parties, on national forests and other related lands.
+<b>1950</b>—Act Apr. 24, 1950, amended section generally to broaden the authority to permit performance of various kinds of work by the Forest Service, at the expense of interested parties, on national forests and other related lands.
 
 #### Appropriations
 

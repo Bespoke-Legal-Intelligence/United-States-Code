@@ -6,5 +6,5 @@ In accordance with subsection (d) of section 215 of this title, upon the request
 
 #### Amendments
 
-1988—Pub. L. 100–472, which directed amendment of this section by substituting “sections 450f and 450h” for “sections 450f, 450g, and 450h” was executed by making the substitution for “section 450f, 450g, or 450h”, to reflect the probable intent of Congress.
+<b>1988</b>—Pub. L. 100–472, which directed amendment of this section by substituting “sections 450f and 450h” for “sections 450f, 450g, and 450h” was executed by making the substitution for “section 450f, 450g, or 450h”, to reflect the probable intent of Congress.
 

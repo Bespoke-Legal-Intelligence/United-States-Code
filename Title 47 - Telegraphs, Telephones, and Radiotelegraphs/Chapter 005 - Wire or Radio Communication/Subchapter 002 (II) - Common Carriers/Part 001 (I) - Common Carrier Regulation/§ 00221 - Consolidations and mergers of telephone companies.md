@@ -4,7 +4,7 @@
 
 #### (b) State jurisdiction over services
 
-Subject to the provisions of sections 225 and 301 of this title, nothing in this chapter shall be construed to apply, or to give the Commission jurisdiction, with respect to charges, classifications, practices, services, facilities, or regulations for or in connection with wire, mobile, or point-to-point radio telephone exchange service, or any combination thereof, even though a portion of such exchange service constitutes interstate or foreign communication, in any case where such matters are subject to regulation by a State commission or by local governmental authority.
+Subject to the provisions of sections 225 and 301 of this title, nothing in this chapter shall beconstrued to apply, or to give the Commission jurisdiction, with respect to charges, classifications, practices, services, facilities, or regulations for or in connection with wire, mobile, or point-to-point radio telephone exchange service, or any combination thereof, even though a portion of such exchange service constitutes interstate or foreign communication, in any case where such matters are subject to regulation by a State commission or by local governmental authority.
 
 #### (c) Determination of property used in interstate toll service
 
@@ -18,11 +18,11 @@ In making a valuation of the property of any wire telephone carrier the Commissi
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–104 struck out subsec. (a) relating to notification of State Governor and State commission, public hearing, and certification.
+<b>1996</b>—Subsec. (a). Pub. L. 104–104 struck out subsec. (a) relating to notification of State Governor and State commission, public hearing, and certification.
 
-1990—Subsec. (b). Pub. L. 101–336 substituted “sections 225 and 301” for “section 301”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–336 substituted “sections 225 and 301” for “section 301”.
 
-1956—Subsec. (a). Act Aug. 2, 1956, inserted provisions relating to submission of comments by parties and required a public hearing upon request, in lieu of former provisions requiring hearing upon application.
+<b>1956</b>—Subsec. (a). Act Aug. 2, 1956, inserted provisions relating to submission of comments by parties and required a public hearing upon request, in lieu of former provisions requiring hearing upon application.
 
-1954—Subsec. (b). Act Apr. 27, 1954, included mobile or point-to-point radio telephone exchange service within exclusions provided for in such subsection, where it is subject to regulation by a State commission or by local governmental authority, and made it clear that the Commission retains its licensing authority over the radio stations that might be involved in such service.
+<b>1954</b>—Subsec. (b). Act Apr. 27, 1954, included mobile or point-to-point radio telephone exchange service within exclusions provided for in such subsection, where it is subject to regulation by a State commission or by local governmental authority, and made it clear that the Commission retains its licensing authority over the radio stations that might be involved in such service.
 

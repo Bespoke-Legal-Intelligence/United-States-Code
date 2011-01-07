@@ -20,7 +20,7 @@
 
 #### (A) Authority
 
-&emsp;&emsp;In addition to the authority described in paragraph (1), the Secretary, in consultation with the Secretary of the Treasury, is authorized to purchase, or enter into forward commitments to purchase, from any eligible lender (as defined in section 1085(d)(1) of this title), loans that such lender purchased under section 1078–6 of this title on or after October 1, 2003, and before July 1, 2010, and that are not in default, on such terms as the Secretary, the Secretary of the Treasury, and the Director of the Office of Management and Budget jointly determine are in the best interest of the United States, except that any purchase under this paragraphshall not result in any net cost to the Federal Government (including the cost of servicing the loans purchased), as determined jointly by the Secretary, the Secretary of the Treasury, and the Director of the Office of Management and Budget.
+&emsp;&emsp;In addition to the authority described in paragraph (1), the Secretary, in consultation with the Secretary of the Treasury, is authorized to purchase, or enter into forward commitments to purchase, from any eligible lender (as defined in section 1085(d)(1) of this title), loans that such lender purchased under section 1078–6 of this title on or after October 1, 2003, and before July 1, 2010, and that are not in default, on such terms as the Secretary, the Secretary of the Treasury, and the Director of the Office of Management and Budget jointly determine are in the best interest of the United States, except that any purchase under this paragraph shall not result in any net cost to the Federal Government (including the cost of servicing the loans purchased), as determined jointly by the Secretary, the Secretary of the Treasury, and the Director of the Office of Management and Budget.
 
 #### (B) Federal Register notice
 
@@ -52,11 +52,11 @@ The Secretary may, if agreed upon by an eligible lender selling loans under this
 
 #### (d) Guaranty agency responsibilities and payments
 
-Notwithstanding any other provision of this chapter, beginning on the date on which the Secretary purchases a loan under this section—
+Notwithstanding any other provision of this chapter and part C of subchapter I of chapter 34 of title 42, beginning on the date on which the Secretary purchases a loan under this section—
 
-&emsp;(1) the guaranty agency that insured such loan shall cease to have any obligations, responsibilities, or rights (including rights to any payment) under this chapter for any activity related to the administration of such loan that is carried out or required to be carried out on or after the date of such purchase; and
+&emsp;(1) the guaranty agency that insured such loan shall cease to have any obligations, responsibilities, or rights (including rights to any payment) under this chapter and part C of subchapter I of chapter 34 of title 42 for any activity related to the administration of such loan that is carried out or required to be carried out on or after the date of such purchase; and
 
-&emsp;(2) the insurance issued by such agency pursuant to section 1078(b) of this title for such loan shall cease to be effective with respect to any default on such loan that occurs on or after the date of such purchase.
+&emsp;(2) the insurance issued by such agency pursuant to section 1078(b) of this title for suchloan shall cease to be effective with respect to any default on such loan that occurs on or after the date of such purchase.
 
 #### (e) Reports and cost estimates
 
@@ -86,7 +86,7 @@ The Secretary shall prepare, transmit to the authorizing committees, and make av
 
 &emsp;&emsp;(C) include a comparison of—
 
-&emsp;&emsp;&emsp;(i) the average amount of the gross and net outlays (including costs and payments)described in subparagraph (B) for each $100 of loans purchased or for which a participation interest was purchased (as applicable) during such period, disaggregated by type of loan; with
+&emsp;&emsp;&emsp;(i) the average amount of the gross and net outlays (including costs and payments) described in subparagraph (B) for each $100 of loans purchased or for which a participation interest was purchased (as applicable) during such period, disaggregated by type of loan; with
 
 &emsp;&emsp;&emsp;(ii) the average amount of such gross and net outlays (including costs and payments) to the Federal Government for each $100 of comparable loans made under this part and part B during such period, disaggregated by part and by type of loan.
 
@@ -100,19 +100,15 @@ The Secretary's authority to purchase loans under this section shall expire on J
 
 (Pub. L. 89–329, title IV, §459A, as added Pub. L. 110–227, §7(b), May 7, 2008, 122 Stat. 746; amended Pub. L. 110–315, title IV, §453, Aug. 14, 2008, 122 Stat. 3263; Pub. L. 110–350, §1, Oct. 7, 2008, 122 Stat. 3947; Pub. L. 111–39, title IV, §404(a), July 1, 2009, 123 Stat. 1945.)
 
-#### References in Text
-
-This chapter, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 89–329, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
-
 #### Amendments
 
-2009—Subsec. (a)(2). Pub. L. 111–39, §404(a)(1)(A), substituted “purchase of loans under paragraph (1)” for “purchase of loans under this section” in introductory provisions.
+<b>2009</b>—Subsec. (a)(2). Pub. L. 111–39, §404(a)(1)(A), substituted “purchase of loans under paragraph (1)” for “purchase of loans under this section” in introductory provisions.
 
 Subsec. (a)(3). Pub. L. 111–39, §404(a)(1)(B), added par. (3).
 
 Subsec. (b). Pub. L. 111–39, §404(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary shall require, as a condition of any purchase under subsection (a), that the funds paid by the Secretary to any eligible lender under this section shall be used: (1) to ensure continued participation of such lender in the Federal student loan programs authorized under part B of this subchapter; and (2) to originate new Federal loans to students, as authorized under part B of this subchapter.”
 
-2008—Subsec. (a)(1). Pub. L. 110–350, §1(1), substituted “July 1, 2010” for “July 1, 2009”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–350, §1(1), substituted “July 1, 2010” for “July 1, 2009”.
 
 Subsecs. (d), (e). Pub. L. 110–315, §453(2), added subsecs. (d) and (e). Former subsec. (d) redesignated (f).
 

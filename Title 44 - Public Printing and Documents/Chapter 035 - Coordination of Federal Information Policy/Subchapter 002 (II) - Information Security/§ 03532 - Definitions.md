@@ -32,7 +32,7 @@ Additional Definitions.—As used in this subchapter—
 
 &emsp;(3) the term “information technology” has the meaning given that term in section 11101 of title 40; and
 
-&emsp;(4) the term “information system” means any equipment or interconnected system orsubsystems of equipment that is used in the automatic acquisition, storage, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information, and includes—
+&emsp;(4) the term “information system” means any equipment or interconnected system or subsystems of equipment that is used in the automatic acquisition, storage, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information, and includes—
 
 &emsp;&emsp;(A) computers and computer networks;
 

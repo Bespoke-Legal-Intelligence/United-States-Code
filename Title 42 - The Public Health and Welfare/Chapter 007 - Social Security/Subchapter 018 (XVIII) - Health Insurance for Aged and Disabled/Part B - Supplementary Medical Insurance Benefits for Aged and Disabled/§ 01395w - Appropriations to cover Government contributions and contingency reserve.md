@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There are authorized to be appropriated from time to time, out of any moneys in the Treasury not otherwise appropriated, to the Federal Supplementary Medical Insurance Trust Fund—
+There are authorized to be appropriated from time to time, out of any moneys in the Treasurynot otherwise appropriated, to the Federal Supplementary Medical Insurance Trust Fund—
 
 &emsp;(1)(A) a Government contribution equal to the aggregate premiums payable for a month for enrollees age 65 and over under this part and deposited in the Trust Fund, multiplied by the ratio of—
 
@@ -28,15 +28,21 @@ In order to assure prompt payment of benefits provided under this part and the a
 
 #### (c) Election under section 1395w–24
 
-The Secretary shall determine the Government contribution under subparagraphs (A) and (B) of subsection (a)(1) of this section without regard to any premium reduction resulting from an election under section 1395w–24(f)(1)(E) of this title or any credits provided under section 1395w–24(b)(1)(C)(iv) of this title and without regard to any premium adjustment effected under sections 1395r(h) and 1395w–29(f) of this title and without regard to any premium adjustment under section 1395r(i) of this title.
+The Secretary shall determine the Government contribution under subparagraphs (A) and (B) of subsection (a)(1) of this section without regard to any premium reduction resulting from an election under section 1395w–24(f)(1)(E) of this title or any credits provided under section 1395w–24(b)(1)(C)(iv) <sup>1</sup> of this title and without regard to any premium adjustment effected under sections 1395r(h) and 1395w–29(f) <sup>1</sup> of this title and without regard to any premium adjustment under section 1395r(i) of this title.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1844, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 313; amended Pub. L. 90–248, title I, §167, Jan. 2, 1968, 81 Stat. 874; Pub. L. 92–603, title II, §203(e), Oct. 30, 1972, 86 Stat. 1377; Pub. L. 97–248, title I, §124(c), Sept. 3, 1982, 96 Stat. 364; Pub. L. 98–21, title VI, §606(a)(3)(F), (G), Apr. 20, 1983, 97 Stat. 171; Pub. L. 98–369, div. B, title III, §2354(b)(16), July 18, 1984, 98 Stat. 1101; Pub. L. 100–360, title II, §211(c)(2), July 1, 1988, 102 Stat. 738; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 105–33, title IV, §4571(b)(2), Aug. 5, 1997, 111 Stat. 464; Pub. L. 106–554, §1(a)(6) \[title VI, §606(a)(2)(D)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558; Pub. L. 108–173, title II, §§222(<i>l</i>)(2)(C), 241(b)(2)(B), title VIII, §811(b)(2), Dec. 8, 2003, 117 Stat. 2206, 2221, 2368; Pub. L. 111–5, div. B, title IV, §4103(a)(2), Feb. 17, 2009, 123 Stat. 487.)
 
+#### References in Text
+
+Section 1395w–24(b)(1)(C)(iv) of this title, referred to in subsec. (c), was redesignated section 1395w–24(b)(1)(C)(v) of this title by Pub. L. 111–148, title III, §3202(b)(1)(B), Mar. 23, 2010, 124 Stat. 454, and subsequently redesignated section 1395w–24(b)(1)(C)(viii) of this title by Pub. L. 111–152, title I, §1102(d)(2), Mar. 30, 2010, 124 Stat. 1045.
+
+Section 1395w–29 of this title, referred to in subsec. (c), was repealed by Pub. L. 111–152, title I, §1102(f), Mar. 30, 2010, 124 Stat. 1046.
+
 #### Amendments
 
-2009—Subsec. (a)(2), (3). Pub. L. 111–5 in par. (2) substituted “; plus” for period at end and added par. (3).
+<b>2009</b>—Subsec. (a)(2), (3). Pub. L. 111–5 in par. (2) substituted “; plus” for period at end and added par. (3).
 
-2003—Subsec. (a)(1)(B)(ii). Pub. L. 108–173, §811(b)(2)(A)(i), substituted “minus” for “plus”.
+<b>2003</b>—Subsec. (a)(1)(B)(ii). Pub. L. 108–173, §811(b)(2)(A)(i), substituted “minus” for “plus”.
 
 Subsec. (a)(1)(C). Pub. L. 108–173, §811(b)(2)(A)(ii), added subpar. (C).
 
@@ -46,25 +52,25 @@ Pub. L. 108–173, §241(b)(2)(B), inserted “and without regard to any premium
 
 Pub. L. 108–173, §222(<i>l</i>)(2)(C), inserted “or any credits provided under section 1395w–24(b)(1)(C)(iv) of this title” after “section 1395w–24(f)(1)(E) of this title”.
 
-2000—Subsec. (c). Pub. L. 106–554 added subsec. (c).
+<b>2000</b>—Subsec. (c). Pub. L. 106–554 added subsec. (c).
 
-1997—Subsec. (a)(1)(A)(i), (B)(i). Pub. L. 105–33 substituted “section 1395r(a)(3) of this title” for “section 1395r(a)(3) or 1395r(e) of this title, as the case may be”.
+<b>1997</b>—Subsec. (a)(1)(A)(i), (B)(i). Pub. L. 105–33 substituted “section 1395r(a)(3) of this title” for “section 1395r(a)(3) or 1395r(e) of this title, as the case may be”.
 
-1989—Subsec. (a). Pub. L. 101–234 repealed Pub. L. 100–360, §211(c)(2), and provided that the provisions of law amended or repealed by such section are restored or revised as if such section had not been enacted, see 1988 Amendment note below.
+<b>1989</b>—Subsec. (a). Pub. L. 101–234 repealed Pub. L. 100–360, §211(c)(2), and provided that the provisions of law amended or repealed by such section are restored or revised as if such section had not been enacted, see 1988 Amendment note below.
 
-1988—Subsec. (a). Pub. L. 100–360 inserted at end “In computing the amount of aggregate premiums and premiums per enrollee under paragraph (1), there shall not be taken into account premiums attributable to section 1395r(g) of this title or section 59B of the Internal Revenue Code of 1986.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–360 inserted at end “In computing the amount of aggregate premiums and premiums per enrollee under paragraph (1), there shall not be taken into account premiums attributable to section 1395r(g) of this title or section 59B of the Internal Revenue Code of 1986.”
 
-1984—Subsec. (a)(1)(B)(ii). Pub. L. 98–369 substituted “; plus” for a period.
+<b>1984</b>—Subsec. (a)(1)(B)(ii). Pub. L. 98–369 substituted “; plus” for a period.
 
-1983—Subsec. (a)(1)(A)(i). Pub. L. 98–21, §606(a)(3)(F), substituted “section 1395r(a)(1)” for “section 1395r(c)(1)” and “section 1395r(a)(3) or 1395r(e)” for “section 1395r(c)(3) or 1395r(g)”.
+<b>1983</b>—Subsec. (a)(1)(A)(i). Pub. L. 98–21, §606(a)(3)(F), substituted “section 1395r(a)(1)” for “section 1395r(c)(1)” and “section 1395r(a)(3) or 1395r(e)” for “section 1395r(c)(3) or 1395r(g)”.
 
 Subsec. (a)(1)(B)(i). Pub. L. 98–21, §606(a)(3)(G), substituted “1395r(a)(4)” for “1395r(c)(4)” and “1395r(a)(3) or 1395r(e)” for “1395r(c)(3) or 1395r(g)”.
 
-1982—Subsec. (a)(1)(A)(i), (B)(i). Pub. L. 97–248 substituted “section 1395r(c)(3) or 1395r(g) of this title, as the case may be” for “section 1395r(c)(3) of this title”.
+<b>1982</b>—Subsec. (a)(1)(A)(i), (B)(i). Pub. L. 97–248 substituted “section 1395r(c)(3) or 1395r(g) of this title, as the case may be” for “section 1395r(c)(3) of this title”.
 
-1972—Subsec. (a)(1). Pub. L. 92–603 designated existing provisions as subpar. (A), substituted provisions relating to Government contributions equal to aggregate premiums payable for a month for enrollees age 65 and over under this part and deposited in Trust Fund, and multiplied by specified ratio, for provisions relating to Government contributions equal to aggregate premiums payable under this part and deposited in Trust Fund, and added subpar. (B).
+<b>1972</b>—Subsec. (a)(1). Pub. L. 92–603 designated existing provisions as subpar. (A), substituted provisions relating to Government contributions equal to aggregate premiums payable for a month for enrollees age 65 and over under this part and deposited in Trust Fund, and multiplied by specified ratio, for provisions relating to Government contributions equal to aggregate premiums payable under this part and deposited in Trust Fund, and added subpar. (B).
 
-1968—Subsec. (a). Pub. L. 90–248, §167(a), designated existing provisions as par. (1), inserted provision for deposit of Government contribution in Trust Fund, and added par. (2).
+<b>1968</b>—Subsec. (a). Pub. L. 90–248, §167(a), designated existing provisions as par. (1), inserted provision for deposit of Government contribution in Trust Fund, and added par. (2).
 
 Subsec. (b). Pub. L. 90–248, §167(b), substituted “1969” for “1967”.
 
@@ -95,4 +101,6 @@ Amendment by Pub. L. 98–21 applicable to premiums for months beginning with Ja
 #### Effective Date of 1972 Amendment
 
 Section 203(e) of Pub. L. 92–603 provided that the amendment made by that section is effective with respect to enrollee premiums payable for months after June 1973.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

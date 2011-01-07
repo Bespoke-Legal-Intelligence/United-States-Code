@@ -10,7 +10,7 @@ Provisions relating to the pay of certain employees have been omitted as the pay
 
 #### Amendments
 
-1996—Pub. L. 104–333 amended first sentence by substituting “who shall be appointed by the President, by and with the advice and consent of the Senate. The Director shall have substantial experience and demonstrated competence in land management and natural or cultural resource conservation. The Director shall select two Deputy Directors. The first Deputy Director shall have responsibility for National Park Service operations, and the second Deputy Director shall have responsibility for other programs assigned to the National Park Service.” for original text which read “who shall be appointed by the Secretary and who shall receive a salary of $4,500 per annum.”
+<b>1996</b>—Pub. L. 104–333 amended first sentence by substituting “who shall be appointed by the President, by and with the advice and consent of the Senate. The Director shall have substantial experience and demonstrated competence in land management and natural or cultural resource conservation. The Director shall select two Deputy Directors. The first Deputy Director shall have responsibility for National Park Service operations, and the second Deputy Director shall have responsibility for other programs assigned to the National Park Service.” for original text which read “who shall be appointed by the Secretary and who shall receive a salary of $4,500 per annum.”
 
 #### Change of Name
 

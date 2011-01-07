@@ -90,7 +90,7 @@
 
 &emsp;&emsp;(B) may, upon the request of an applicant,
 
-> &emsp;refer such application to the Tobacco Products Scientific Advisory Committee for reference and for submission (within such period as theSecretary may establish) of a report and recommendation respecting the application, together with all underlying data and the reasons or basis for the recommendation.
+> &emsp;refer such application to the Tobacco Products Scientific Advisory Committee for reference and for submission (within such period as the Secretary may establish) of a report and recommendation respecting the application, together with all underlying data and the reasons or basis for the recommendation.
 
 #### (c) Action on application
 
@@ -160,7 +160,7 @@
 
 &emsp;&emsp;&emsp;(iii) has not complied with the requirements of section 387e of this title;
 
-&emsp;&emsp;(D) on the basis of new information before the Secretary with respect to such tobacco product, evaluated together with the evidence before the Secretary when the application was reviewed, that the methods used in, or the facilities and controls used for, themanufacture, processing, packing, or installation of such tobacco product do not conform with the requirements of section 387f(e) of this title and were not brought into conformity with such requirements within a reasonable time after receipt of written notice from the Secretary of nonconformity;
+&emsp;&emsp;(D) on the basis of new information before the Secretary with respect to such tobacco product, evaluated together with the evidence before the Secretary when the application was reviewed, that the methods used in, or the facilities and controls used for, the manufacture, processing, packing, or installation of such tobacco product do not conform with the requirements of section 387f(e) of this title and were not brought into conformity with such requirements within a reasonable time after receipt of written notice from the Secretary of nonconformity;
 
 &emsp;&emsp;(E) on the basis of new information before the Secretary, evaluated together with the evidence before the Secretary when the application was reviewed, that the labeling of such tobacco product, based on a fair evaluation of all material facts, is false or misleading in any particular and was not corrected within a reasonable time after receipt of written notice from the Secretary of such fact; or
 
@@ -186,7 +186,7 @@ An order issued by the Secretary under this section shall be served—
 
 #### (1) Additional information
 
-&emsp;In the case of any tobacco product for which an order issued pursuant to subsection (c)(1)(A)(i) for an application filed under subsection (b) is in effect, the applicant shall establish and maintain such records, and make such reports to the Secretary, as the Secretary may by regulation, or by order with respect to such application, prescribe on the basis of a finding that such records and reports are necessary in order to enable the Secretary to determine, or facilitate a determination of, whether there is or may be grounds for withdrawing or temporarily suspending such order.
+&emsp;In the case of any tobacco product for which an order issued pursuant to subsection (c)(1)(A)(i) for an application filed under subsection (b) is in effect, the applicant shall establish and maintain such records, and makesuch reports to the Secretary, as the Secretary may by regulation, or by order with respect to such application, prescribe on the basis of a finding that such records and reports are necessary in order to enable the Secretary to determine, or facilitate a determination of, whether there is or may be grounds for withdrawing or temporarily suspending such order.
 
 #### (2) Access to records
 

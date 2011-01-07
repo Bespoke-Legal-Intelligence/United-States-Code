@@ -6,15 +6,11 @@
 
 (Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 229; amended Pub. L. 103–446, title XII, §1201(e)(21), Nov. 2, 1994, 108 Stat. 4686.)
 
-#### References in Text
-
-The civil service laws, referred to in subsec. (a), are set forth in Title 5, Government Organization and Employees. See, particularly section 3301 et seq. of Title 5.
-
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 4111 of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–446 substituted “civil service” for “civil-service”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–446 substituted “civil service” for “civil-service”.
 

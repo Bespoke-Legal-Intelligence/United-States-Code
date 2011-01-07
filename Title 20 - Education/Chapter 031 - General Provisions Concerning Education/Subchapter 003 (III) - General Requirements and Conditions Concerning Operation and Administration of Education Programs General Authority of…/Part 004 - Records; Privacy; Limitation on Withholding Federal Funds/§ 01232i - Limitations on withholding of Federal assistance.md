@@ -34,13 +34,13 @@ A prior section 446 of Pub. L. 90–247 was classified to section 1233e of this 
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–382, §212(b)(3)(C), made technical amendment to reference to section 1232g(b)(1)(D) of this title to reflect renumbering of corresponding section of original act.
+<b>1994</b>—Subsec. (a). Pub. L. 103–382, §212(b)(3)(C), made technical amendment to reference to section 1232g(b)(1)(D) of this title to reflect renumbering of corresponding section of original act.
 
-1976—Pub. L. 94–482 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+<b>1976</b>—Pub. L. 94–482 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–482 effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, for those amendments providing forauthorization of appropriations, see section 532 of Pub. L. 94–482, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 94–482 effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, for those amendments providing for authorization of appropriations, see section 532 of Pub. L. 94–482, set out as a note under section 1001 of this title.
 
 #### Effective Date
 

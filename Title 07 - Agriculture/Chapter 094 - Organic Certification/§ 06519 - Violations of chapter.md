@@ -48,11 +48,11 @@ Nothing in this chapter shall alter the authority of the Secretary under the Fed
 
 The Federal Meat Inspection Act, referred to in subsec. (f), is titles I to IV of act Mar. 4, 1907, ch. 2907, as added Dec. 15, 1967, Pub. L. 90–201, 81 Stat. 584, and amended, which are classified generally to subchapters I to IV (§601 et seq.) of chapter 12 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 21 and Tables.
 
-The Poultry Products Inspection Act, referred to in subsec. (f), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, as amended, which is classified generally to chapter 10 (§451 et seq.) of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 451 of Title 21 and Tables.
+The Poultry Products Inspection Act, referred to in subsec. (f), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, which is classified generally to chapter 10 (§451 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 451 of Title 21 and Tables.
 
-The Egg Products Inspection Act, referred to in subsec. (f), is Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, as amended, which is classified generally to chapter 15\(§1031 et seq.) of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of Title 21 and Tables.
+The Egg Products Inspection Act, referred to in subsec. (f), is Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to chapter 15 (§1031 etseq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of Title 21 and Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (f), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 136 of this title and Tables.
 

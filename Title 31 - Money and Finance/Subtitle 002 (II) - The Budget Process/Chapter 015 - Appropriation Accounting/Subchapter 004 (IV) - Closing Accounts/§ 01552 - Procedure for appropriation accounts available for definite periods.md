@@ -60,7 +60,7 @@ In subsection (d), before clause (1), the word “heading” is substituted for 
 
 #### Amendments
 
-1990—Pub. L. 101–510 amended text generally, revising and restating former subsecs. (a) to (d) as subsecs. (a) and (b).
+<b>1990</b>—Pub. L. 101–510 amended text generally, revising and restating former subsecs. (a) to (d) as subsecs. (a) and (b).
 
 #### Effective Date of 1990 Amendment
 

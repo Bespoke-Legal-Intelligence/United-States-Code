@@ -74,9 +74,9 @@ In subsection (c)(2)(B), the word “fair” is omitted as being included in “
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–102 amended directory language of Pub. L. 104–152, §2(c). See 1996 Amendment note below.
+<b>1997</b>—Subsec. (a). Pub. L. 105–102 amended directory language of Pub. L. 104–152, §2(c). See 1996 Amendment note below.
 
-1996—Subsec. (a). Pub. L. 104–152, §2(c), as amended by Pub. L. 105–102, substituted “National Motor Vehicle Title Information System” for “National Automobile Title Information System”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–152, §2(c), as amended by Pub. L. 105–102, substituted “National Motor Vehicle Title Information System” for “National Automobile Title Information System”.
 
 Subsec. (c)(1). Pub. L. 104–152, §3(a), substituted “Attorney General” for “Secretary of Transportation”.
 
@@ -84,7 +84,7 @@ Subsec. (c)(2). Pub. L. 104–152, §6(a), amended par. (2) generally. Prior to 
 
 &emsp;“(A) the grant to a State is not more than the lesser of—
 
-&emsp;&emsp;“(i) 25 percent of the cost of making titling information maintained by that State available to theoperator as determined by the Secretary under paragraph (1)(B) of this subsection; or
+&emsp;&emsp;“(i) 25 percent of the cost of making titling information maintained by that State available to the operator as determined by the Secretary under paragraph (1)(B) of this subsection; or
 
 &emsp;&emsp;“(ii) $300,000; and
 

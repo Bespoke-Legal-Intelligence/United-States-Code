@@ -10,7 +10,7 @@ Any television public service announcement that is produced or funded in whole o
 
 #### Amendments
 
-1990—Pub. L. 101–336 amended section generally, substituting provisions relating to closed-captioning of public service announcements for provisions relating to establishment, functions, composition, etc., of Telecommunications Policy Study Commission.
+<b>1990</b>—Pub. L. 101–336 amended section generally, substituting provisions relating to closed-captioning of public service announcements for provisions relating to establishment, functions, composition, etc., of Telecommunications Policy Study Commission.
 
 #### Effective Date
 

@@ -6,7 +6,7 @@ It is the policy of the United States to promote the adoption and observance of 
 
 #### Amendments
 
-1983—Pub. L. 97–449 substituted “Secretary of Transportation” for “Interstate Commerce Commission”.
+<b>1983</b>—Pub. L. 97–449 substituted “Secretary of Transportation” for “Interstate Commerce Commission”.
 
 #### Effective Date
 

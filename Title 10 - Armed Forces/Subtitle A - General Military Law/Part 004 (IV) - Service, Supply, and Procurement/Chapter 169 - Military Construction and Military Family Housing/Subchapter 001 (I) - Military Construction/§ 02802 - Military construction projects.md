@@ -14,19 +14,131 @@
 
 &emsp;(5) planning, supervision, administration, and overhead incident to the project.
 
-(c) In determining the scope of a proposed military construction project, the Secretary concerned shall submit to the President such recommendations as the Secretary considers to be appropriate regarding the incorporation and inclusion of life-cycle cost-effective practices as an element in the project documents submitted to Congress in connection with the budget submitted pursuant to section 1105 of title 31 for the fiscal year in which a contract is proposed to be awarded for the project.
+(c) In determining the scope of a proposed military construction project, the Secretary concerned shall submit to the President such recommendations as the Secretary considers to be appropriate regarding the incorporation and inclusion of life-cycle cost-effective practices as an element in the project documents submitted to Congress in connection with the budget submitted pursuant to section 1105 of title 31 for thefiscal year in which a contract is proposed to be awarded for the project.
 
 (Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 154; amended Pub. L. 110–181, div. B, title XXVIII, §2802(a), Jan. 28, 2008, 122 Stat. 539; Pub. L. 110–417, div. B, title XXVIII, §2801(b), Oct. 14, 2008, 122 Stat. 4719.)
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–181 inserted “, land acquisitions, and defense access road projects (as described under section 210 of title 23)” after “military construction projects”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181 inserted “, land acquisitions, and defense access road projects (as described under section 210 of title 23)” after “military construction projects”.
 
 Subsec. (c). Pub. L. 110–417 added subsec. (c).
 
 #### Effective Date
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
+
+#### Requirements Related to Providing World Class Military Medical Centers
+
+Pub. L. 111–383, div. B, title XXVIII, §2852, Jan. 7, 2011, 124 Stat. 4475, provided that:
+
+“(a)
+
+Unified Construction Standard for Military Construction and Repairs to Military Medical Centers.—Not later than 180 days after the date of the enactment of this Act \[Jan. 7, 2011\], the Secretary of Defense shall establish a unified construction standard for military construction and repairs for military medical centers that provides a single standard of care. This standard shall also include—
+
+&emsp;“(1) size standards for operating rooms and patient recovery rooms; and
+
+&emsp;“(2) such other construction standards that the Secretary considers necessary to support military medical centers.
+
+“(b)
+
+Independent Review Panel.—
+
+&emsp;“(1)
+
+Establishment; purpose.—The Secretary of Defense shall establish an independent advisory panel for the purpose of—
+
+&emsp;&emsp;“(A) reviewing the unified construction standards established pursuant to subsection (a) to determine the standards consistency with industry practices and benchmarks for world class medical construction;
+
+&emsp;&emsp;“(B) reviewing ongoing construction programs within the Department of Defense to ensure medical construction standards are uniformly applied across applicable military medical centers;
+
+&emsp;&emsp;“(C) assessing the approach of the Department of Defense approach to planning and programming facility improvements with specific emphasis on—
+
+&emsp;&emsp;&emsp;“(i) facility selection criteria and proportional assessment system; and
+
+&emsp;&emsp;&emsp;“(ii) facility programming responsibilities between the Assistant Secretary of Defense for Health Affairs and the Secretaries of the military departments;
+
+&emsp;&emsp;“(D) assessing whether the Comprehensive Master Plan for the National Capital Region Medical, dated April 2010, is adequate to fulfill statutory requirements, as required by section 2714 of the Military Construction Authorization Act for Fiscal Year 2010 (division B of Public Law 111–84; 123 Stat. 2656), to ensure that the facilities and organizational structure described in the plan result in world class military medical centers in the National Capital Region; and
+
+&emsp;&emsp;“(E) making recommendations regarding any adjustments of the master plan referred to in subparagraph (D) that are needed to ensure the provision of world class military medical centers and delivery system in the National Capital Region.
+
+&emsp;“(2)
+
+Members.—
+
+&emsp;&emsp;“(A)
+
+Appointments by secretary.—The panel shall be composed of such members as determined by the Secretary of Defense, except that the Secretary shall include as members—
+
+&emsp;&emsp;&emsp;“(i) medical facility design experts;
+
+&emsp;&emsp;&emsp;“(ii) military healthcare professionals;
+
+&emsp;&emsp;&emsp;“(iii) representatives of premier health care centers in the United States; and
+
+&emsp;&emsp;&emsp;“(iv) former retired senior military officers with joint operational and budgetary experience.
+
+&emsp;&emsp;“(B)
+
+Congressional appointments.—The chairmen and ranking members of the Committees on the Armed Services of the Senate and House of Representatives may each designate one member of the panel.
+
+&emsp;&emsp;“(C)
+
+Term.—Members of the panel may serve on the panel until the termination date specified in paragraph (7).
+
+&emsp;&emsp;“(D)
+
+Compensation.—While performing duties on behalf of the panel, a member and any adviser referred to in paragraph (4) shall be reimbursed under Government travel regulations for necessary travel expenses.
+
+&emsp;“(3)
+
+Meetings.—The panel shall meet not less than quarterly. The panel or its members may make other visits to military treatment centers and military headquarters in connection with the duties of the panel.
+
+&emsp;“(4)
+
+Staff and advisors.—The Secretary of Defense shall provide necessary administrative staff support to the panel. The panel may call in advisers for consultation.
+
+&emsp;“(5)
+
+Reports.—
+
+&emsp;&emsp;“(A)
+
+Initial report.—Not later than 120 days after the first meeting of the panel, the panel shall submit to the Secretary of Defense a written report containing—
+
+&emsp;&emsp;&emsp;“(i) an assessment of the adequacy of the plan of the Department of Defense to address the items specified in subparagraphs (A) through (E) of paragraph (1) relating to the purposes of the panel; and
+
+&emsp;&emsp;&emsp;“(ii) the recommendations of the panel to improve the plan.
+
+&emsp;&emsp;“(B)
+
+Additional reports.—Not later than February 1, 2011, and each February 1 thereafter until termination of the panel, the panel shall submit to the Secretary of Defense a report on the findings and recommendations of the panel to address any deficiencies identified by the panel.
+
+&emsp;“(6)
+
+Assessment of recommendations.—Not later than 30 days after the date of the submission of each report under paragraph (5), the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report including—
+
+&emsp;&emsp;“(A) a copy of the panel's assessment;
+
+&emsp;&emsp;“(B) an assessment by the Secretary of the findings and recommendations of the panel; and
+
+&emsp;&emsp;“(C) the plans of the Secretary for addressing such findings and recommendations.
+
+&emsp;“(7)
+
+Termination.—The panel shall terminate on September 30, 2015.
+
+“(c)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+National capital region.—The term ‘National Capital Region’ has the meaning given the term in section 2674(f) of title 10, United States Code.
+
+&emsp;“(2)
+
+World class military medical center.—The term ‘world class military medical center’ has the meaning given the term ‘world class military medical facility’ by the National Capital Region Base Realignment and Closure Health Systems Advisory Subcommittee of the Defense Health Board in appendix B of the report titled ‘Achieving World Class—An Independent Review of the Design Plans for the Walter Reed National Military Medical Center and the Fort Belvoir Community Hospital’ and published in May 2009, as required by section 2721 of the Military Construction Authorization Act for Fiscal Year 2009 (division B of Public Law 110–417; 122 Stat. 4716).”
 
 #### Damage to Aviation Facilities Caused by Alkali Silica Reactivity
 

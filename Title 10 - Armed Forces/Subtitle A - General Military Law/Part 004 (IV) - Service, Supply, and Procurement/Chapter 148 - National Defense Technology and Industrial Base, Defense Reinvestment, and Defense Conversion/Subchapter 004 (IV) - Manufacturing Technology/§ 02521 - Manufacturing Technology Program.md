@@ -20,7 +20,7 @@ Purpose of Program.—The Secretary of Defense shall use the program—
 
 &emsp;(6) to sustain and enhance the skills and capabilities of the manufacturing work force;
 
-&emsp;(7) to promote high-performance work systems (with development and dissemination of production technologies that build upon the skills and capabilities of the work force), high levels of worker education and training; and
+&emsp;(7) to promote high-performance work systems (with development and dissemination ofproduction technologies that build upon the skills and capabilities of the work force), high levels of worker education and training; and
 
 &emsp;(8) to ensure appropriate coordination between the manufacturing technology programs and industrial preparedness programs of the Department of Defense and similar programs undertaken by other departments and agencies of the Federal Government or by the private sector.
 
@@ -80,7 +80,7 @@ Joint Defense Manufacturing Technology Panel.—(1) There is in the Department o
 
 &emsp;(D) Conduct such other functions as the Under Secretary of Defense for Acquisition, Technology, and Logistics shall specify.
 
-(5) The Panel shall report to and receive direction from the Director of Defense Research and Engineering on manufacturing technology issues of multi-service concern and application.
+(5) The Panel shall report to and receive direction from the Assistant Secretary of Defense for Research and Engineering on manufacturing technology issues of multi-service concern and application.
 
 (6) The administrative expenses of the Panel shall be borne by each military department and Defense Agency with manufacturing technology programs in such manner as the Panel shall provide.
 
@@ -98,7 +98,7 @@ Five-Year Strategic Plan.—(1) The Secretary shall develop a plan for the progr
 
 (4) Each plan, and each update to the plan, shall cover a period of five fiscal years.
 
-(Added Pub. L. 103–160, div. A, title VIII, §801(a)(1), Nov. 30, 1993, 107 Stat. 1700, §2525; amended Pub. L. 103–337, div. A, title II, §256(a)(1), Oct. 5, 1994, 108 Stat. 2704; Pub. L. 104–106, div. A, title II, §276(a), title X, §1081(e), title XV, §1503(a)(28), Feb. 10, 1996, 110 Stat. 241, 454, 512; Pub. L. 105–85, div. A, title II, §211(a), (b), Nov. 18, 1997, 111 Stat. 1657; Pub. L. 105–261, div. A, title II, §213, Oct. 17, 1998, 112 Stat. 1947; Pub. L. 106–65, div. A, title II, §216, Oct. 5, 1999, 113 Stat. 543; renumbered §2521, Pub. L. 106–398, §1 \[\[div. A\], title III, §344(c)(1)(A)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title II, §213, Dec. 2, 2002, 116 Stat. 2481; Pub. L. 108–136, div. A, title X, §1031(a)(24), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 110–181, div. A, title II, §238(a), Jan. 28, 2008, 122 Stat. 48; Pub. L. 111–84, div. A, title II, §212, Oct. 28, 2009, 123 Stat. 2225.)
+(Added Pub. L. 103–160, div. A, title VIII, §801(a)(1), Nov. 30, 1993, 107 Stat. 1700, §2525; amended Pub. L. 103–337, div. A, title II, §256(a)(1), Oct. 5, 1994, 108 Stat. 2704; Pub. L. 104–106, div. A, title II, §276(a), title X, §1081(e), title XV, §1503(a)(28), Feb. 10, 1996, 110 Stat. 241, 454, 512; Pub. L. 105–85, div. A, title II, §211(a), (b), Nov. 18, 1997, 111 Stat. 1657; Pub. L. 105–261, div. A, title II, §213, Oct. 17, 1998, 112 Stat. 1947; Pub. L. 106–65, div. A, title II, §216, Oct. 5, 1999, 113 Stat. 543; renumbered §2521, Pub. L. 106–398, §1 \[\[div. A\], title III, §344(c)(1)(A)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title II, §213, Dec. 2, 2002, 116 Stat. 2481; Pub. L. 108–136, div. A, title X, §1031(a)(24), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 110–181, div. A, title II, §238(a), Jan. 28, 2008, 122 Stat. 48; Pub. L. 111–84, div. A, title II, §212, Oct. 28, 2009, 123 Stat. 2225; Pub. L. 111–383, div. A, title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317.)
 
 #### Prior Provisions
 
@@ -110,13 +110,13 @@ Another prior section 2521 was renumbered section 2540 of this title and subsequ
 
 #### Amendments
 
-2009—Subsecs. (e), (f). Pub. L. 111–84 added subsec. (e) and redesignated former subsec. (e) as (f).
+<b>2009</b>—Subsecs. (e), (f). Pub. L. 111–84 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-2008—Subsec. (e). Pub. L. 110–181 added subsec. (e).
+<b>2008</b>—Subsec. (e). Pub. L. 110–181 added subsec. (e).
 
-2003—Subsec. (e). Pub. L. 108–136 struck out heading and text of subsec. (e) which related to preparation and maintenance of a five-year plan for the Manufacturing Technology Program by the Secretary of Defense.
+<b>2003</b>—Subsec. (e). Pub. L. 108–136 struck out heading and text of subsec. (e) which related to preparation and maintenance of a five-year plan for the Manufacturing Technology Program by the Secretary of Defense.
 
-2002—Subsec. (e)(1). Pub. L. 107–314, §213(a), substituted “prepare and maintain a five-year plan for the program.” for “prepare a five-year plan for the program which establishes—
+<b>2002</b>—Subsec. (e)(1). Pub. L. 107–314, §213(a), substituted “prepare and maintain a five-year plan for the program.” for “prepare a five-year plan for the program which establishes—
 
 &emsp;“(A) the overall manufacturing technology goals, milestones, priorities, and investment strategy for the program; and
 
@@ -142,11 +142,11 @@ Subsec. (e)(2). Pub. L. 107–314, §213(a), substituted “establish” for “
 
 Subsec. (e)(3). Pub. L. 107–314, §213(b), substituted “biennially” for “annually” and “for each even-numbered fiscal year” for “for a fiscal year”.
 
-2001—Subsec. (a). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
-2000—Pub. L. 106–398 renumbered section 2525 of this title as this section.
+<b>2000</b>—Pub. L. 106–398 renumbered section 2525 of this title as this section.
 
-1999—Subsec. (a). Pub. L. 106–65, §216(a), in first sentence, inserted “through the development and application of advanced manufacturing technologies and processes that will reduce the acquisition and supportability costs of defense weapon systems and reduce manufacturing and repair cycle times across the life cycles of such systems” after “title”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–65, §216(a), in first sentence, inserted “through the development and application of advanced manufacturing technologies and processes that will reduce the acquisition and supportability costs of defense weapon systems and reduce manufacturing and repair cycle times across the life cycles of such systems” after “title”.
 
 Subsec. (b)(4). Pub. L. 106–65, §216(b), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “to promote dual-use manufacturing processes;”.
 
@@ -158,7 +158,7 @@ Subsec. (e)(2)(A). Pub. L. 106–65, §216(e)(1), inserted “, including a des
 
 Subsec. (e)(2)(C). Pub. L. 106–65, §216(e)(2), added subpar. (C).
 
-1998—Subsec. (d)(1). Pub. L. 105–261, §213(a), designated existing provisions as subpar. (A), substituted “In accordance with the policy stated in section 2374 of this title, competitive” for “Competitive”, and added subpar. (B).
+<b>1998</b>—Subsec. (d)(1). Pub. L. 105–261, §213(a), designated existing provisions as subpar. (A), substituted “In accordance with the policy stated in section 2374 of this title, competitive” for “Competitive”, and added subpar. (B).
 
 Subsec. (d)(2). Pub. L. 105–261, §213(b), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and added subpars. (B) and (C).
 
@@ -168,11 +168,11 @@ Subsec. (d)(4). Pub. L. 105–261, §213(c)(1), struck out par. (4) which read a
 
 Subsec. (e)(2). Pub. L. 105–261, §213(d), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The plan shall include an assessment of the effectiveness of the program.”
 
-1997—Subsec. (c)(2). Pub. L. 105–85, §211(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall seek, to the extent practicable, the participation of manufacturers of manufacturing equipment in the projects under the program.”
+<b>1997</b>—Subsec. (c)(2). Pub. L. 105–85, §211(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall seek, to the extent practicable, the participation of manufacturers of manufacturing equipment in the projects under the program.”
 
 Subsec. (e). Pub. L. 105–85, §211(b), added subsec. (e).
 
-1996—Pub. L. 104–106, §276(a)(1), amended section catchline, as amended by Pub. L. 104–106, §§1503(a)(28), 1506, by striking out “Science and” after “Manufacturing”.
+<b>1996</b>—Pub. L. 104–106, §276(a)(1), amended section catchline, as amended by Pub. L. 104–106, §§1503(a)(28), 1506, by striking out “Science and” after “Manufacturing”.
 
 Pub. L. 104–106, §1503(a)(28), substituted “Science and Technology Program” for “science and technology program” in section catchline.
 
@@ -188,11 +188,15 @@ Subsec. (d)(2)(C). Pub. L. 104–106, §276(a)(4)(A), added subpar. (C).
 
 Subsec. (d)(3), (4). Pub. L. 104–106, §276(a)(4)(B), added pars. (3) and (4).
 
-1994—Pub. L. 103–337 substituted “Manufacturing science and technology program” for “Industrial Preparedness Manufacturing Technology Program” as section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary of Defense shall establish an Industrial Preparedness Manufacturing Technology program to enhance the capability of industry to meet the manufacturing needs of the Department of Defense.”
+<b>1994</b>—Pub. L. 103–337 substituted “Manufacturing science and technology program” for “Industrial Preparedness Manufacturing Technology Program” as section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary of Defense shall establish an Industrial Preparedness Manufacturing Technology program to enhance the capability of industry to meet the manufacturing needs of the Department of Defense.”
+
+#### Change of Name
+
+“Assistant Secretary of Defense for Research and Engineering” substituted for “Director of Defense Research and Engineering” in subsec. (e)(5) on authority of section 901(a) of Pub. L. 111–383, set out as a note under section 131 of this title.
 
 #### Limitation on Use of Funds for Defense-Wide Manufacturing Science and Technology Program
 
-Pub. L. 110–181, div. A, title II, §214, Jan. 28, 2008, 122 Stat. 36, provided that: “No funds available to the Office of the Secretary of Defense for any fiscal year may be obligated or expended for the defense-wide manufacturing science and technology program unless the Director, Defense Research and Engineering, ensures each of the following:
+Pub. L. 110–181, div. A, title II, §214, Jan. 28, 2008, 122 Stat. 36, as amended by Pub. L. 111–383, div. A, title IX, §901(<i>l</i>)(2), Jan. 7, 2011, 124 Stat. 4326, provided that: “No funds available to the Office of the Secretary of Defense for any fiscal year may be obligated or expended for the defense-wide manufacturing science and technology program unless the Assistant Secretary of Defense for Research and Engineering ensures each of the following:
 
 &emsp;“(1) A component of the Department of Defense has requested and evaluated—
 
@@ -208,6 +212,8 @@ Pub. L. 110–181, div. A, title II, §214, Jan. 28, 2008, 122 Stat. 36, provide
 
 &emsp;“(3) An implementation plan has been developed.”
 
+\[Pub. L. 111–383, div. A, title IX, §901(<i>l</i>)(2), Jan. 7, 2011, 124 Stat. 4326, which directed amendment of section 214 of Pub. L. 110–181, set out above, by substituting “Assistant Secretary of Defense for Research and Engineering” for “Director of Defense Research and Engineering”, was executed by making the substitution for “Director, Defense Research and Engineering,” to reflect the probable intent of Congress.\]
+
 #### Initial Development and Submission of Plan
 
 Pub. L. 110–181, div. A, title II, §238(b), Jan. 28, 2008, 122 Stat. 48, provided that:
@@ -222,7 +228,7 @@ Submission.—Not later than the date on which the budget of the President for f
 
 #### High-Performance Defense Manufacturing Technology Research and Development
 
-Pub. L. 109–163, div. A, title II, subtitle D, Jan. 6, 2006, 119 Stat. 3175, provided that:
+Pub. L. 109–163, div. A, title II, subtitle D, Jan. 6, 2006, 119 Stat. 3175, as amended by Pub. L. 111–383, div. A, title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317, provided that:
 
 #### “SEC. 241. PILOT PROGRAM FOR IDENTIFICATION AND TRANSITION OF ADVANCED MANUFACTURING PROCESSES AND TECHNOLOGIES.
 
@@ -236,7 +242,7 @@ Consideration of Defense Priorities.—In carrying out subsection (a), the Under
 
 “(c)
 
-Identification for Transition.—In identifying manufacturing processes and technologies for transition to the defense manufacturing base under the pilot program, the Under Secretary shall select the most promising transformational technologies and manufacturing processes, in consultation with the Director of Defense Research and Engineering, the Joint Defense Manufacturing Technology Panel, and other such entities as may be appropriate, including the Director of the Small Business Innovation Research Program.
+Identification for Transition.—In identifying manufacturing processes and technologies for transition to the defense manufacturing base under the pilot program, the Under Secretary shall select the most promising transformational technologies and manufacturing processes, in consultation with the Assistant Secretary of Defense for Research and Engineering, the Joint Defense Manufacturing Technology Panel, and other such entities as may be appropriate, including the Director of the Small Business Innovation Research Program.
 
 #### “SEC. 242. TRANSITION OF TRANSFORMATIONAL MANUFACTURING PROCESSES AND TECHNOLOGIES TO DEFENSE MANUFACTURING BASE.
 

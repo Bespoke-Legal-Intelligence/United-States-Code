@@ -16,7 +16,7 @@
 
 (c) Sufficient information relative to estimates of appropriations for research by the several bureaus and offices shall be furnished to the Office of Naval Research to assist it in coordinating naval research and carrying out its other duties.
 
-(d) The Office of Naval Research shall perform its duties under the authority of the Secretary,and its orders are considered as coming from the Secretary.
+(d) The Office of Naval Research shall perform its duties under the authority of the Secretary, and its orders are considered as coming from the Secretary.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 291, §5151; renumbered §5022, Pub. L. 99–433, title V, §511(d), Oct. 1, 1986, 100 Stat. 1048; amended Pub. L. 101–510, div. A, title IX, §910(b)(1), Nov. 5, 1990, 104 Stat. 1625; Pub. L. 104–201, div. A, title V, §501(a), Sept. 23, 1996, 110 Stat. 2510; Pub. L. 106–398, §1 \[\[div. A\], title IX, §904(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–225; Pub. L. 107–314, div. A, title V, §504(f), Dec. 2, 2002, 116 Stat. 2533.)
 
@@ -50,13 +50,13 @@ In subsection (c) the words “shall have full force and effect as such” are o
 
 #### Amendments
 
-2002—Subsec. (a)(2). Pub. L. 107–314 struck out “(upper half)” after “rear admiral”.
+<b>2002</b>—Subsec. (a)(2). Pub. L. 107–314 struck out “(upper half)” after “rear admiral”.
 
-2000—Subsec. (b)(4). Pub. L. 106–398 added par. (4).
+<b>2000</b>—Subsec. (b)(4). Pub. L. 106–398 added par. (4).
 
-1996—Subsec. (a). Pub. L. 104–201 designated existing provisions as par. (1) and added par. (2).
+<b>1996</b>—Subsec. (a). Pub. L. 104–201 designated existing provisions as par. (1) and added par. (2).
 
-1990—Pub. L. 101–510 added subsec. (a) and redesignated former subsecs. (a) to (c) as (b) to (d), respectively.
+<b>1990</b>—Pub. L. 101–510 added subsec. (a) and redesignated former subsecs. (a) to (c) as (b) to (d), respectively.
 
 #### Effective Date of 1996 Amendment
 

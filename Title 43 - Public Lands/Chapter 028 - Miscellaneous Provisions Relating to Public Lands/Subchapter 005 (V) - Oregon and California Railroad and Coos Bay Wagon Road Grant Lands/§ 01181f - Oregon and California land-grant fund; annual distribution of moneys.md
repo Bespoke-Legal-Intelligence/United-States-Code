@@ -24,9 +24,9 @@ Section comprises all of title II of act Aug. 28, 1937, except the last par. whi
 
 #### Amendments
 
-1976—Subsec. (b). Pub. L. 94–273 substituted “September” for “June”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–273 substituted “September” for “June”.
 
-1954—Subsec. (a). Act June 24, 1954, inserted proviso relating to determination of assessment.
+<b>1954</b>—Subsec. (a). Act June 24, 1954, inserted proviso relating to determination of assessment.
 
 #### Sharing of Bureau of Land Management Timber Sale Receipts
 

@@ -8,7 +8,7 @@ Each student awarded a scholarship under this subpart shall receive a stipend of
 
 The State educational agency shall establish procedures to assure that a scholar awarded a scholarship under this subpart pursues a course of study at an institution of higher education.
 
-(Pub. L. 89–329, title IV, §419H, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat.1345; amended Pub. L. 102–325, title IV, §406(e), July 23, 1992, 106 Stat. 509.)
+(Pub. L. 89–329, title IV, §419H, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1345; amended Pub. L. 102–325, title IV, §406(e), July 23, 1992, 106 Stat. 509.)
 
 #### Prior Provisions
 
@@ -16,5 +16,5 @@ A prior section 1070d–38, Pub. L. 89–329, title IV, §419H, as added Pub. L.
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–325 inserted before period at end “, except that in no case shall the total amount of financial aid awarded to such student exceed such student's total cost-of-attendance”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–325 inserted before period at end “, except that in no case shall the total amount of financial aid awarded to such student exceed such student's total cost-of-attendance”.
 

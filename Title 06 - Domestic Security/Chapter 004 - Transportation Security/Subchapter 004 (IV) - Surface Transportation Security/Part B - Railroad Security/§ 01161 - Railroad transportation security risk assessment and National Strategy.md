@@ -70,7 +70,7 @@ The Secretary shall establish a Federal task force, including the Transportation
 
 #### (c) Consultation with stakeholders
 
-In developing the National Strategy required under this section, the Secretary shall consult with railroad management, nonprofit employeeorganizations representing railroad employees, owners or lessors of railroad cars used to transport hazardous materials, emergency responders, offerors of security-sensitive materials, public safety officials, and other relevant parties.
+In developing the National Strategy required under this section, the Secretary shall consult with railroad management, nonprofit employee organizations representing railroad employees, owners or lessors of railroad cars used to transport hazardous materials, emergency responders, offerors of security-sensitive materials, public safety officials, and other relevant parties.
 
 #### (d) Adequacy of existing plans and strategies
 

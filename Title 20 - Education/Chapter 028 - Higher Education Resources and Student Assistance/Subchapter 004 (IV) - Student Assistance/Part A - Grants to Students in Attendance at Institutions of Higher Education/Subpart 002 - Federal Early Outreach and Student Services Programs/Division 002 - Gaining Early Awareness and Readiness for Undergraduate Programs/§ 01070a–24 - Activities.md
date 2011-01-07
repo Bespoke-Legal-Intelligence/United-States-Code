@@ -146,7 +146,7 @@ A prior section 1070a–24, Pub. L. 89–329, title IV, §404D, as added Pub. L.
 
 #### Amendments
 
-2008—Pub. L. 110–315 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) providing for services, use of funds, priority students, and allowable providers relating to early intervention.
+<b>2008</b>—Pub. L. 110–315 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) providing for services, use of funds, priority students, and allowable providers relating to early intervention.
 
-1999—Subsec. (c)(2). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
+<b>1999</b>—Subsec. (c)(2). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 

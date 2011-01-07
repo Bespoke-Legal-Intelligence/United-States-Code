@@ -6,5 +6,5 @@ A preexisting injury or disease will be considered to have been aggravated by ac
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 353 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 353 of this title as this section.
 

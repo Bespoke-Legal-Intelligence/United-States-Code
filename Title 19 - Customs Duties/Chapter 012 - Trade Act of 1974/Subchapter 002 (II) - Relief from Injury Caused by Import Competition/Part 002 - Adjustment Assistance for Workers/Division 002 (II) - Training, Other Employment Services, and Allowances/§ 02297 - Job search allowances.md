@@ -56,19 +56,19 @@ Notwithstanding subsection (b) of this section, the Secretary shall reimburse an
 
 #### Amendments
 
-2009—Subsec. (a)(2)(C)(ii). Pub. L. 111–5, §§1833(a)(1), 1893, temporarily struck out “, unless the worker received a waiver under section 2291(c) of this title” before period. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Subsec. (a)(2)(C)(ii). Pub. L. 111–5, §§1833(a)(1), 1893, temporarily struck out “, unless the worker received a waiver under section 2291(c) of this title” before period. See Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (b)(1). Pub. L. 111–5, §§1833(a)(2)(A), 1893, temporarily substituted “all” for “90 percent of the cost of”. See Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (b)(2). Pub. L. 111–5, §§1833(a)(2)(B), 1893, temporarily substituted “$1,500” for “$1,250”. See Effective and Termination Dates of 2009 Amendment note below.
 
-2002—Pub. L. 107–210 amended section generally. Prior to amendment, section related to applications for job search allowances, amounts of allowances, conditions for granting allowances, and reimbursement of worker expenses.
+<b>2002</b>—Pub. L. 107–210 amended section generally. Prior to amendment, section related to applications for job search allowances, amounts of allowances, conditions for granting allowances, and reimbursement of worker expenses.
 
-1986—Subsec. (c). Pub. L. 99–272 added subsec. (c).
+<b>1986</b>—Subsec. (c). Pub. L. 99–272 added subsec. (c).
 
-1984—Subsec. (a)(1). Pub. L. 98–369 substituted “$800” for “$600”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–369 substituted “$800” for “$600”.
 
-1981—Subsec. (a). Pub. L. 97–35, §2507(1), amended provisions generally, increasing percent of reimbursement of cost of job search from 80 to 90 and maximum amount from $500 to $600, and striking out requirement of total separation.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §2507(1), amended provisions generally, increasing percent of reimbursement of cost of job search from 80 to 90 and maximum amount from $500 to $600, and striking out requirement of total separation.
 
 Subsec. (b)(1). Pub. L. 97–35, §2507(2)(A), inserted “who has been totally separated” after “to assist an adversely affected worker”.
 
@@ -78,7 +78,7 @@ Subsec. (b)(3). Pub. L. 97–35, §2507(2)(B), amended par. (3) generally, subst
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 
 #### Effective Date of 2002 Amendment
 
@@ -90,5 +90,5 @@ Amendment by Pub. L. 97–35 effective for determinations made or filed after Se
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2010, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Feb. 12, 2011, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

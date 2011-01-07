@@ -38,3 +38,15 @@ Outreach.—The Secretary shall make available on the Internet website of the De
 
 (Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2368.)
 
+#### Pat Tillman Veterans’ Scholarship Initiative
+
+Pub. L. 111–275, title I, §107, Oct. 13, 2010, 124 Stat. 2872, provided that:
+
+“(a)
+
+Availability of Scholarship Information.—By not later than June 1, 2011, the Secretary of Veterans Affairs shall include on the Internet website of the Department of Veterans Affairs a list of organizations that provide scholarships to veterans and their survivors and, for each such organization, a link to the Internet website of the organization.
+
+“(b)
+
+Maintenance of Scholarship Information.—The Secretary of Veterans Affairs shall make reasonable efforts to notify schools and other appropriate entities of the opportunity to be included on the Internet website of the Department of Veterans Affairs pursuant to subsection (a).”
+

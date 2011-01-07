@@ -44,5 +44,5 @@ Subsection (b) is substituted for “in accordance with good business methods an
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–181 inserted “vessels,” after “piers,” and substituted “control, except that the prior consent of the Secretary of Defense for such use shall be required with respect to any vessel in the Ready Reserve Force or in the National Defense Reserve Fleet which is maintained in a retention status for the Department of Defense;” for “control;”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–181 inserted “vessels,” after “piers,” and substituted “control, except that the prior consent of the Secretary of Defense for such use shall be required with respect to any vessel in the Ready Reserve Force or in the National Defense Reserve Fleet which is maintained in a retention status for the Department of Defense;” for “control;”.
 

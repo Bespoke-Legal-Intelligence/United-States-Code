@@ -6,5 +6,5 @@ The Secretary may waive, suspend, or reduce the rental or royalty for any lease 
 
 #### Amendments
 
-2005—Pub. L. 109–58 inserted section catchline.
+<b>2005</b>—Pub. L. 109–58 inserted section catchline.
 

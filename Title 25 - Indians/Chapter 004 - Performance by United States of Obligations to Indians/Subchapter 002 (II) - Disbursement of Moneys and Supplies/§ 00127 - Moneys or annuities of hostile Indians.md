@@ -10,5 +10,5 @@ R.S. §2100 derived from act Mar. 2, 1867, ch. 173, §2, 14 Stat. 515.
 
 #### Amendments
 
-1928—Act May 29, 1928, struck out provision requiring the Commissioner of Indian Affairs to make periodic reports to Congress concerning hostilities with any tribes with which the United States has treaty stipulations.
+<b>1928</b>—Act May 29, 1928, struck out provision requiring the Commissioner of Indian Affairs to make periodic reports to Congress concerning hostilities with any tribes with which the United States has treaty stipulations.
 

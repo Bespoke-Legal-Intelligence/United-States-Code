@@ -64,7 +64,7 @@ To the extent provided by regulations prescribed by the Secretary, any transfer 
 
 #### Amendments
 
-1996—Subsec. (e). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
 
 #### Effective Date of 1996 Amendment
 

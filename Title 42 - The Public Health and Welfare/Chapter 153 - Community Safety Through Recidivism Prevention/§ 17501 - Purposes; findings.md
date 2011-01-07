@@ -48,7 +48,7 @@ Congress finds the following:
 
 &emsp;(14) According to the National Institute of Literacy, 70 percent of all prisoners function at the lowest literacy levels.
 
-&emsp;(15) Less than 32 percent of State prison inmates have a high school diploma or a higher level of education, compared to 82 percent of the general population.
+&emsp;(15) Less than 32 percent of State prison inmates have a high school diploma or a higherlevel of education, compared to 82 percent of the general population.
 
 &emsp;(16) Approximately 38 percent of inmates who completed 11 years or less of school were not working before entry into prison.
 

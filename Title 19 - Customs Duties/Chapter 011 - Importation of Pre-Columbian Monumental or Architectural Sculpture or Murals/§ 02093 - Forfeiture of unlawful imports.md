@@ -14,7 +14,3 @@ Any pre-Columbian monumental or architectural sculpture or mural which is forfei
 
 (Pub. L. 92–587, title II, §203, Oct. 27, 1972, 86 Stat. 1297.)
 
-#### References in Text
-
-The customs laws, referred to in text, are classified generally to this title.
-

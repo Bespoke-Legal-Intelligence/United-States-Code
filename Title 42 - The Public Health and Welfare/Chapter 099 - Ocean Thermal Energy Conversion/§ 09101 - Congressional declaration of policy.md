@@ -24,13 +24,13 @@
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b), was in the original a reference to “this Act” meaning Pub.L. 96–320, Aug. 3, 1980, 94 Stat. 974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–320, Aug. 3, 1980, 94 Stat. 974, known as the Ocean Thermal Energy Conversion Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 The Merchant Marine Act, 1936, referred to in subsec. (a)(6), is act June 29, 1936, ch. 858, 49 Stat. 1985, which was classified principally to chapter 27 (§1101 et seq.) of the former Appendix to Title 46, Shipping. Most of this Act was repealed and restated mainly as subtitle V of Title 46, Shipping, by Pub. L. 109–304, §§8, 19, Oct. 6, 2006, 120 Stat. 1555, 1710. For complete classification of this Act to the Code, see Tables. For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding section 101 of Title 46.
 
 #### Amendments
 
-1984—Subsec. (a)(1). Pub. L. 98–623 substituted “located in whole or in part between the highwater mark and the seaward boundary of the territorial sea” for “located in the territorial sea”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–623 substituted “located in whole or in part between the highwater mark and the seaward boundary of the territorial sea” for “located in the territorial sea”.
 
 #### Short Title
 

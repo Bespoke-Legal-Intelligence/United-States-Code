@@ -52,7 +52,7 @@ For purposes of this section—
 
 #### (3) Multi-year grants
 
-&emsp;Upon application of a qualified low-income taxpayer clinic, the Secretary is authorized toaward a multi-year grant not to exceed 3 years.
+&emsp;Upon application of a qualified low-income taxpayer clinic, the Secretary is authorized to award a multi-year grant not to exceed 3 years.
 
 #### (4) Criteria for awards
 

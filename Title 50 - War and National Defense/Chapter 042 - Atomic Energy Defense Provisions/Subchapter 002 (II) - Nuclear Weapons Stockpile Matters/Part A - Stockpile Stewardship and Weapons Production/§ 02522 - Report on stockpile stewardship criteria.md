@@ -18,7 +18,7 @@ The Secretary of Energy, in developing the criteria required by subsection (a), 
 
 &emsp;&emsp;(i) the previous two years; or
 
-&emsp;&emsp;(ii) with respect to the report in 2011, the period beginning on the date of the submission of the report under section 3133 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 117 Stat. 1751; 50 U.S.C. 2523 note) and ending on the date of the submission of the 2011 stockpile stewardship plan required by section 2523 of this title.
+&emsp;&emsp;(ii) with respect to the report in 2011, the period beginning on the date of the submission of the report under section 3133 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 117 Stat. 1751; 50 U.S.C. 2523 note) and ending on thedate of the submission of the 2011 stockpile stewardship plan required by section 2523 of this title.
 
 &emsp;(C) For each science-based tool to collect information needed to determine that the nuclear weapons stockpile is safe, secure, and reliable that is developed or modified by the Department of Energy during the relevant period described in subparagraph (B)—
 
@@ -76,9 +76,9 @@ Section was formerly set out as a note under section 2121 of Title 42, The Publi
 
 #### Amendments
 
-2009—Subsec. (c). Pub. L. 111–84, §3112(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) required submission of report not later than Mar. 1, 2000, to Congressional committees on Department of Energy efforts to develop subsec. (a) criteria.
+<b>2009</b>—Subsec. (c). Pub. L. 111–84, §3112(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) required submission of report not later than Mar. 1, 2000, to Congressional committees on Department of Energy efforts to develop subsec. (a) criteria.
 
 Subsec. (d). Pub. L. 111–84, §3112(b), added subsec. (d).
 
-1999—Subsec. (c). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security” before “of the House of Representatives”.
+<b>1999</b>—Subsec. (c). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security” before “of the House of Representatives”.
 

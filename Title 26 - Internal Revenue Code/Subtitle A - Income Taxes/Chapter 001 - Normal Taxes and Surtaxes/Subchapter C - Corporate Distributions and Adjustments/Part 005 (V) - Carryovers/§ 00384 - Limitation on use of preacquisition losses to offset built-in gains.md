@@ -96,7 +96,7 @@ For purposes of this section—
 
 #### (6) Treatment of members of same group
 
-&emsp;Except as provided in regulations and except for purposes of subsection (b), all corporationswhich are members of the same affiliated group immediately before the acquisition date shall be treated as 1 corporation. To the extent provided in regulations, section 1504 shall be applied without regard to subsection (b) thereof for purposes of the preceding sentence.
+&emsp;Except as provided in regulations and except for purposes of subsection (b), all corporations which are members of the same affiliated group immediately before the acquisition date shall be treated as 1 corporation. To the extent provided in regulations, section 1504 shall be applied without regard to subsection (b) thereof for purposes of the preceding sentence.
 
 #### (7) Treatment of predecessors and successors
 
@@ -138,9 +138,9 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 #### Amendments
 
-1989—Subsec. (e)(1). Pub. L. 101–239 substituted “built-in gain” for “build-in gain”.
+<b>1989</b>—Subsec. (e)(1). Pub. L. 101–239 substituted “built-in gain” for “build-in gain”.
 
-1988—Subsec. (a). Pub. L. 100–647, §2004(m)(1)(A), amended subsec. (a) generally, making changes in substance and structure.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §2004(m)(1)(A), amended subsec. (a) generally, making changes in substance and structure.
 
 Subsec. (b). Pub. L. 100–647, §2004(m)(3), substituted “corporations under common control” for “50 percent of gain corporation held” in heading and amended text generally. Prior to amendment, text read as follows: “Subsection (a) shall not apply if more than 50 percent of the stock (by vote and value) of the gain corporation was held throughout the 5-year period ending on the acquisition date—
 

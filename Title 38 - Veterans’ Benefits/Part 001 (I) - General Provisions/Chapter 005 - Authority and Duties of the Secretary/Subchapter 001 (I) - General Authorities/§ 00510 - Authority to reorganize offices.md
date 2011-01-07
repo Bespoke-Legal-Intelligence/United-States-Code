@@ -50,7 +50,7 @@ Provisions similar to those in this section were contained in section 210(b)(1),
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–262 substituted “a 45-day period following the date of the submission of the report, not less than 30 days of which shall be days during which Congress shall have been in continuous session” for “a 90-day period of continuous session of Congress following the date of the submission of the report” in second sentence and “any period of continuity of session” for “such 90-day period” in third sentence.
+<b>1996</b>—Subsec. (b). Pub. L. 104–262 substituted “a 45-day period following the date of the submission of the report, not less than 30 days of which shall be days during which Congress shall have been in continuous session” for “a 90-day period of continuous session of Congress following the date of the submission of the report” in second sentence and “any period of continuity of session” for “such 90-day period” in third sentence.
 
 #### Authority of Secretary of Veterans Affairs To Carry Out Specified Administrative Reorganization
 

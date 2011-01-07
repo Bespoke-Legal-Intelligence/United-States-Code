@@ -18,5 +18,5 @@ The Secretary of the Treasury shall promulgate regulations under which the trave
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–8 amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of the Treasury shall promulgate regulations under which the travel-related transactions listed in subsection (c) of section 515.560 of title 31, Code of Federal Regulations, may be authorized on a case-by-case basis by a specific license for travel to, from, or within Cuba for the commercial export sale of agricultural commodities pursuant to the provisions of this chapter.”
+<b>2009</b>—Subsec. (a). Pub. L. 111–8 amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of the Treasury shall promulgate regulations under which the travel-related transactions listed in subsection (c) of section 515.560 of title 31, Code of Federal Regulations, may be authorized on a case-by-case basis by a specific license for travel to, from, or within Cuba for the commercial export sale of agricultural commodities pursuant to the provisions of this chapter.”
 

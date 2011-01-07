@@ -50,9 +50,9 @@ Another prior section 338G of act July 1, 1944, was classified to section 254q o
 
 #### Amendments
 
-1990—Subsec. (a)(1). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
 
-1987—Subsec. (a). Pub. L. 100–177, §309(1), substituted subsec. (a) consisting of pars. (1) to (3) for former subsec. (a) consisting of pars. (1) and (2).
+<b>1987</b>—Subsec. (a). Pub. L. 100–177, §309(1), substituted subsec. (a) consisting of pars. (1) to (3) for former subsec. (a) consisting of pars. (1) and (2).
 
 Subsec. (b). Pub. L. 100–177, §309(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “The amount of the grant or loan under subsection (a) of this section to an individual shall be—
 
@@ -64,9 +64,9 @@ Subsec. (c). Pub. L. 100–177, §309(2), struck out “grant or” before “lo
 
 Subsec. (d)(1). Pub. L. 100–177, §309(3), substituted “under this section (as in effect prior to October 1, 1984)” for “under this section”, and made technical amendment to reference to section 254<i>o</i>(b) of this title to reflect renumbering of corresponding section of original act.
 
-1983—Subsec. (d)(1). Pub. L. 97–414 substituted “section 254<i>o</i>(b)” for “section 254<i>o</i>(c)”.
+<b>1983</b>—Subsec. (d)(1). Pub. L. 97–414 substituted “section 254<i>o</i>(b)” for “section 254<i>o</i>(c)”.
 
-1981—Subsec. (a). Pub. L. 97–35, §2709(f)(2)–(4), made numerous changes to reflect renumbering of subpart sections, among them inserting references to section 254k of this title and striking out references to section 294v of this title, and added applicability to loans.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §2709(f)(2)–(4), made numerous changes to reflect renumbering of subpart sections, among them inserting references to section 254k of this title and striking out references to section 294v of this title, and added applicability to loans.
 
 Subsec. (b). Pub. L. 97–35, §2709(f)(5), inserted applicability to loans.
 

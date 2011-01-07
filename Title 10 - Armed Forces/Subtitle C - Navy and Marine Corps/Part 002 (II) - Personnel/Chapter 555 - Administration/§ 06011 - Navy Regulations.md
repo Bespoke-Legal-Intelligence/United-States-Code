@@ -22,7 +22,7 @@ So much as pertains to the “orders, regulations, and instructions issued by th
 
 #### Amendments
 
-1981—Pub. L. 97–60 struck out “with the approval of the President” after “Secretary of the Navy”.
+<b>1981</b>—Pub. L. 97–60 struck out “with the approval of the President” after “Secretary of the Navy”.
 
 #### Navy Regulations Issued Before October 14, 1981
 

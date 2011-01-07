@@ -22,7 +22,7 @@ The court may award any appropriate relief consistent with the provisions of the
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–385, §7(a)(2), inserted “541(a)(1),” after “section”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–385, §7(a)(2), inserted “541(a)(1),” after “section”.
 
 Subsec. (b). Pub. L. 102–385, §24(b), inserted “and with the provisions of subsection (a) of this section” after “subsection (a) of this section”.
 

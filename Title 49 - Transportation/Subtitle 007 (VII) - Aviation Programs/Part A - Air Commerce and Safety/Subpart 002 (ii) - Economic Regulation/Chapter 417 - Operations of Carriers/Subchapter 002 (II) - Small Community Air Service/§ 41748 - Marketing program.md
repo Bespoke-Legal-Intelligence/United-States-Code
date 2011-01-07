@@ -22,7 +22,7 @@ Bonus for 25-percent increase in usage.—Except as provided in paragraph (3), i
 
 &emsp;(3)
 
-Bonus for 50-percent increase in usage.—If, after any 12-month period during which a marketing plan has been in effect under this section with respect to an eligible place, the Secretary determines that the marketing plan has increased average monthly boardings, or the level of passenger usage, at the airport serving the eligible place, by 50 percent or more, then no portion of the publicly financed costs associated with the marketing plan shall be required to come from non-Federal sources under this subsection for the following 12-month period.
+Bonus for 50-percent increase in usage.—If, after any 12-month period during which a marketing plan has been in effect under this section with respect to an eligible place, the Secretary determines that the marketing plan has increased average monthly boardings, or the level of passenger usage, atthe airport serving the eligible place, by 50 percent or more, then no portion of the publicly financed costs associated with the marketing plan shall be required to come from non-Federal sources under this subsection for the following 12-month period.
 
 (Added Pub. L. 108–176, title IV, §410(b), Dec. 12, 2003, 117 Stat. 2548.)
 
@@ -38,7 +38,7 @@ Section applicable only to fiscal years beginning after Sept. 30, 2003, except a
 
 Pub. L. 108–176, title IV, §410(a), Dec. 12, 2003, 117 Stat. 2548, provided that: “The purposes of this section \[enacting this section\] are—
 
-&emsp;“(1) to enable essential air service communities to increase boardings and the level of passenger usage ofairport facilities at an eligible place by providing technical, financial, and other marketing assistance to such communities and to States;
+&emsp;“(1) to enable essential air service communities to increase boardings and the level of passenger usage of airport facilities at an eligible place by providing technical, financial, and other marketing assistance to such communities and to States;
 
 &emsp;“(2) to reduce subsidy costs under subchapter II of this chapter \[probably means chapter 417 of title 49, United States Code\] as a consequence of such increased usage; and
 

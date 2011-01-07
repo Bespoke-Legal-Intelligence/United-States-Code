@@ -26,9 +26,9 @@ Provisions similar to those comprising subsec. (c) of this section were containe
 
 #### Amendments
 
-1979—Subsec. (a). Pub. L. 96–39 substituted “warehouseman, processor” for “bonded warehouseman, rectifier” in two places.
+<b>1979</b>—Subsec. (a). Pub. L. 96–39 substituted “warehouseman, processor” for “bonded warehouseman, rectifier” in two places.
 
-1976—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(B), substituted “Secretary of the Treasury” for “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(B), substituted “Secretary of the Treasury” for “Secretary”.
 
 Subsec. (b). Pub. L. 94–455, §§1905(c)(5), 1906(b)(13)(B), substituted “Secretary of the Treasury” for “Secretary” in provisions preceding par. (1) and struck out “Territory, or” after “State,” in par. (2).
 

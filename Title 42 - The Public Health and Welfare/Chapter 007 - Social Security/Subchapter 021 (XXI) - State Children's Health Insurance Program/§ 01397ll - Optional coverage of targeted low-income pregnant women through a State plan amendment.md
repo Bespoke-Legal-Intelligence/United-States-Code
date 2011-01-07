@@ -38,7 +38,7 @@ A State may only elect the option under subsection (a) if the following conditio
 
 #### (7) No waiting list for children
 
-&emsp;The State does not impose, with respect to the enrollment under the State child healthplan of targeted low-income children during the quarter, any enrollment cap or other numerical limitation on enrollment, any waiting list, any procedures designed to delay the consideration of applications for enrollment, or similar limitation with respect to enrollment.
+&emsp;The State does not impose, with respect to the enrollment under the State child health plan of targeted low-income children during the quarter, any enrollment cap or other numerical limitation on enrollment, any waiting list, any procedures designed to delay the consideration of applications for enrollment, or similar limitation with respect to enrollment.
 
 #### (c) Option to provide presumptive eligibility
 

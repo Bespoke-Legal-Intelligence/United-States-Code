@@ -36,7 +36,7 @@ The Secretary may order any vessel, in a port or place subject to the jurisdicti
 
 #### (c) Port access routes
 
-(1) In order to provide safe access routes for the movement of vessel traffic proceeding to or from ports or places subject to the jurisdiction of the United States, and subject to the requirements of paragraph (3) hereof, the Secretary shall designate necessary fairways and traffic separation schemes for vessels operating in the territorial sea of the United States and in high seas approaches, outside the territorial sea, to such ports or places. Such a designation shall recognize, within the designated area, the paramount right of navigation over all other uses.
+(1) In order to provide safe access routes for the movement of vessel traffic proceeding to or from ports or places subject to the jurisdiction of the United States, and subject to the requirements of paragraph (3) hereof, the Secretary shall designate necessary fairways and traffic separation schemes for vessels operating in theterritorial sea of the United States and in high seas approaches, outside the territorial sea, to such ports or places. Such a designation shall recognize, within the designated area, the paramount right of navigation over all other uses.
 
 (2) No designation may be made by the Secretary pursuant to this subsection, if such a designation, as implemented, would deprive any person of the effective exercise of a right granted by a lease or permit executed or issued under other applicable provisions of law: <i>Provided</i>, That such right has become vested prior to the time of publication of the notice required by clause (A) of paragraph (3) hereof: <i>Provided further</i>, That the determination as to whether the designation would so deprive any such person shall be made by the Secretary, after consultation with the responsible official under whose authority the lease was executed or the permit issued.
 
@@ -44,7 +44,7 @@ The Secretary may order any vessel, in a port or place subject to the jurisdicti
 
 &emsp;(A) within six months after date of enactment of this Act (and may, from time to time thereafter), undertake a study of the potential traffic density and the need for safe access routes for vessels in any area for which fairways or traffic separation schemes are proposed or which may otherwise be considered and shall publish notice of such undertaking in the Federal Register;
 
-&emsp;(B) in consultation with the Secretary of State, the Secretary of the Interior, the Secretary of Commerce, the Secretary of the Army, and the Governors of affected States, as their responsibilities may require, take into account all other uses of the area under consideration (including, as appropriate, the exploration for, or exploitation of, oil, gas, or other mineral resources, the construction or operation of deepwater ports or other structures on or above the seabed or subsoil of thesubmerged lands or the Outer Continental Shelf of the United States, the establishment or operation of marine or estuarine sanctuaries, and activities involving recreational or commercial fishing); and
+&emsp;(B) in consultation with the Secretary of State, the Secretary of the Interior, the Secretary of Commerce, the Secretary of the Army, and the Governors of affected States, as their responsibilities may require, take into account all other uses of the area under consideration (including, as appropriate, the exploration for, or exploitation of, oil, gas, or other mineral resources, the construction or operation of deepwater ports or other structures on or above the seabed or subsoil of the submerged lands or the Outer Continental Shelf of the United States, the establishment or operation of marine or estuarine sanctuaries, and activities involving recreational or commercial fishing); and
 
 &emsp;(C) to the extent practicable, reconcile the need for safe access routes with the needs of all other reasonable uses of the area involved.
 
@@ -82,19 +82,19 @@ Except pursuant to international treaty, convention, or agreement, to which the 
 
 The date of enactment of this Act, referred to in subsec. (c)(3)(A), probably means the date of enactment of Pub. L. 95–474, which was approved Oct. 17, 1978.
 
-The International Regulations for Preventing Collisions at Sea, 1972, referred to in subsec. (c)(5)(A), are maintained and published by the United States Coast Guard, U.S. Department of Homeland Security, in the publication <i>Navigation Rules</i>, which is available for sale by the Superintendent of Documents, U.S. Government Printing Office, Washington, D.C. 20402. See International Regulations for Preventing Collisions at Sea, 1972 note under section 1602 of this title.
+The International Regulations for Preventing Collisions at Sea, 1972, referred to in subsec. (c)(5)(A), came into effect pursuant to the Convention on the International Regulations for Preventing Collisions at Sea, 1972. See International Regulations for Preventing Collisions at Sea, 1972 note under section 1602 of this title.
 
 #### Amendments
 
-2006—Subsecs. (a)(6), (e). Pub. L. 109–241 amended directory language of Pub. L. 108–293, §302. See 2004 Amendment note below.
+<b>2006</b>—Subsecs. (a)(6), (e). Pub. L. 109–241 amended directory language of Pub. L. 108–293, §302. See 2004 Amendment note below.
 
-2004—Subsec. (a)(6). Pub. L. 108–293, §302(1), as amended by Pub. L. 109–241, added par. (6).
+<b>2004</b>—Subsec. (a)(6). Pub. L. 108–293, §302(1), as amended by Pub. L. 109–241, added par. (6).
 
 Subsec. (e). Pub. L. 108–293, §302(2), as amended by Pub. L. 109–241, which directed the addition of subsec. (e) at the end of subsec. (a) of this section, was executed by adding subsec. (e) at the end of this section.
 
-1996—Subsec. (a)(3). Pub. L. 104–324 inserted “as measured under section 14502 of title 46, or an alternate tonnage measured under section 14302 of that title as prescribed by the Secretary under section 14104 of that title” after “300 gross tons”.
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–324 inserted “as measured under section 14502 of title 46, or an alternate tonnage measured under section 14302 of that title as prescribed by the Secretary under section 14104 of that title” after “300 gross tons”.
 
-1990—Subsec. (a). Pub. L. 101–380, §4107(a)(1), substituted “Secretary—” for “Secretary may—”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–380, §4107(a)(1), substituted “Secretary—” for “Secretary may—”.
 
 Subsec. (a)(1). Pub. L. 101–380, §4107(a)(2), substituted “may construct, operate, maintain, improve, or expand” for “establish, operate, and maintain”.
 
@@ -106,7 +106,7 @@ Subsec. (a)(4). Pub. L. 101–380, §4107(a)(5), inserted “may” before “co
 
 Subsec. (a)(5). Pub. L. 101–380, §4107(a)(6), inserted “may” before “require”.
 
-1978—Pub. L. 95–474 substituted provision relating to vessel operating requirements for provision relating to the investigatory powers of the Secretary, productionof witnesses and documents, and fees and allowances for witnesses.
+<b>1978</b>—Pub. L. 95–474 substituted provision relating to vessel operating requirements for provision relating to the investigatory powers of the Secretary, production of witnesses and documents, and fees and allowances for witnesses.
 
 #### Effective Date of 2006 Amendment
 

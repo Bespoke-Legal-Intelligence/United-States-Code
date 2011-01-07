@@ -6,7 +6,7 @@ The Secretary of Education is authorized to pay over semiannually, to the truste
 
 &emsp;First. (A) Such appropriation shall be expended by the trustees of the American Printing House for the Blind each year in manufacturing and furnishing books and other materials specially adapted for instruction of the blind; and the total amount of such books and other materials so manufactured and furnished by such appropriation shall each year be distributed among all the public and private nonprofit institutions in the States, Territories, and possessions of the United States, the Commonwealth of Puerto Rico, and the District of Columbia, in which blind pupils are educated. Each public and private nonprofit institution for the education of the blind shall receive, in books and other materials, upon requisition of its superintendent, that portion of the appropriation as is shown by the ratio between the number of blind pupils in that institution and the total number of blind pupils in all of the public and private nonprofit institutions in which blind pupils are educated. Each chief State school officer shall receive, in books and other materials, upon requisition, that portion of the appropriation as is shown by the ratio between the number of blind pupils in public and private nonprofit institutions (in the State) in which blind pupils are educated, other than institutions to which the preceding sentence is applicable, and the total number of blind pupils in the public and private nonprofit institutions in which blind pupils are educated in all of the States, Territories, and possessions of the United States, the Commonwealth of Puerto Rico, and the District of Columbia. The ratio referred to in each of the two immediately preceding sentences shall be computed upon the first Monday in January of each year; and for purposes of such sentences the number of blind pupils in public and private nonprofit institutions in which blind pupils are educated shall be authenticated in such manner and as often as the trustees of the American Printing House for the Blind shall require. For purposes of sections 101, 102, and 104 of this title, an institution for the education of the blind is any institution which provides education exclusively for the blind, or exclusively for the blind and other handicapped children (in which case special classes are provided for the blind); the chief State school officer of a State is the superintendent of public elementary and secondary schools in such State or, if there is none, such other official as the Governor certifies to have comparable responsibility in the State; and a blind pupil is a blind individual pursuing a course of study in an institution of less than college grade.
 
-&emsp;(B) The portion of the appropriation received by each chief State school officer, in such books and other materials under subparagraph (A) of this paragraph which represents the number of blind pupils in private nonprofit institutions in such State in which blind pupils are educated shall be distributed among such institutions on the basis of the number ofblind pupils in each such institution as compared to the total number of such pupils in all of the private nonprofit institutions in which blind pupils are educated in such State.
+&emsp;(B) The portion of the appropriation received by each chief State school officer, in such books and other materials under subparagraph (A) of this paragraph which represents the number of blind pupils in private nonprofit institutions in such State in which blind pupils are educated shall be distributed among such institutions on the basis of the number of blind pupils in each such institution as compared to the total number of such pupils in all of the private nonprofit institutions in which blind pupils are educated in such State.
 
 &emsp;(C) All books and other materials furnished pursuant to sections 101, 102, and 104 of this title, and control and administration of their use, shall vest only in a public agency. Such books and materials made available pursuant to sections 101, 102 and 104 of this title for use of teachers and blind pupils in any State, Territory, or possession of the United States, the Commonwealth of Puerto Rico, and the District of Columbia in any school shall be limited to those books and materials which have been approved by an appropriate educational authority or agency of such State, Territory, possession, Commonwealth, or District, or any local educational authority thereof, for use, or are used, in a public elementary or secondary school therein.
 
@@ -20,7 +20,7 @@ The Secretary of Education is authorized to pay over semiannually, to the truste
 
 #### (4) Income withheld when not properly used
 
-&emsp;Fourth. The Secretary of the Treasury of the United States shall have the authority to withhold the appropriation whenever he shall receive satisfactory proof that the trustees of said American Printing House for the Blind, located in Louisville, Kentucky, are not using the appropriation for the benefit of the blind in the public and private nonprofit institutions for the education of the blind in the United States.
+&emsp;Fourth. The Secretary of the Treasury of the United States shall have the authority to withhold the appropriation whenever he shallreceive satisfactory proof that the trustees of said American Printing House for the Blind, located in Louisville, Kentucky, are not using the appropriation for the benefit of the blind in the public and private nonprofit institutions for the education of the blind in the United States.
 
 #### (5) Bond of treasurer
 
@@ -38,17 +38,17 @@ For purposes of codification, the provisions of section 3 of act Mar. 3, 1879, w
 
 #### Amendments
 
-1970—Par. First. Pub. L. 91–230, §811(a), designated existing provisions as subpar. (A), made provisions applicable to private nonprofit institutions, and added subpars. (B) and (C).
+<b>1970</b>—Par. First. Pub. L. 91–230, §811(a), designated existing provisions as subpar. (A), made provisions applicable to private nonprofit institutions, and added subpars. (B) and (C).
 
 Par. Fourth. Pub. L. 91–230, §811(b), made provisions applicable to private nonprofit institutions.
 
-1961—Pub. L. 87–294, §1, substituted “Secretary of Health, Education, and Welfare” for “Secretary of the Treasury of the United States” and struck out “permanent” before “annual appropriation” in opening clause.
+<b>1961</b>—Pub. L. 87–294, §1, substituted “Secretary of Health, Education, and Welfare” for “Secretary of the Treasury of the United States” and struck out “permanent” before “annual appropriation” in opening clause.
 
 Par. Second. Pub. L. 87–294, §2, authorized the trustees to use each year a reasonable sum of the annual appropriation for salaries and other expenses of experts and other staff to assist special committees which may be appointed in performance of their functions, and for expenses of such special committees.
 
 Par. Sixth. Pub. L. 87–294, §3, substituted “superintendent of each public institution for the education of the blind (or his designee) and the chief State school officer (or his designee), of each State and possession of the United States, the Commonwealth of Puerto Rico, and the District of Columbia, shall” for “superintendents of the various public institutions for the education of the blind in the United States shall”, and limited the duties of the Board to the administration of sections 101, 102, and 104 of this title.
 
-1956—Par. First. Act Aug. 2, 1956, authorized wider distribution of books and other special instructional material for the blind.
+<b>1956</b>—Par. First. Act Aug. 2, 1956, authorized wider distribution of books and other special instructional material for the blind.
 
 #### Effective Date of 1961 Amendment
 
@@ -58,7 +58,7 @@ Amendment by Pub. L. 87–294 effective immediately after Sept. 22, 1961, see se
 
 “Secretary of Education” substituted for “Secretary of Health, Education, and Welfare” in provision preceding par. (1) pursuant to sections 301(a)(2)(M) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(2)(M) and 3507 of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Secretary of Education.
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education and Welfare and all agencies of Federal Security Agency transferredto Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 Transfer of functions with respect to American Printing House for the Blind to Federal Security Agency, see note set out under section 101 of this title.
 

@@ -92,7 +92,7 @@ This chapter, referred to in subsec. (g), was in the original “this Act”, me
 
 #### Amendments
 
-1996—Subsec. (e). Pub. L. 104–297, §105(f)(1), redesignated pars. (5) and (6) as (3) and (4), respectively, and struck out former pars. (3) and (4) which read as follows:
+<b>1996</b>—Subsec. (e). Pub. L. 104–297, §105(f)(1), redesignated pars. (5) and (6) as (3) and (4), respectively, and struck out former pars. (3) and (4) which read as follows:
 
 “(3) identifying and evaluating the effectiveness of unilateral measures and multilateral measures, including sanctions, that are available to encourage nations to agree to and comply with this section, and recommendations for legislation to authorize any additional measures that are needed if those are considered ineffective;
 
@@ -100,9 +100,9 @@ This chapter, referred to in subsec. (g), was in the original “this Act”, me
 
 Subsec. (f). Pub. L. 104–297, §105(f)(2), substituted “subsection (e)(4) of this section” for “subsection (e)(6) of this section”.
 
-1990—Pub. L. 101–627 amended section generally, substituting provisions relating to large-scale driftnet fishing for provisions relating to transitional provisions.
+<b>1990</b>—Pub. L. 101–627 amended section generally, substituting provisions relating to large-scale driftnet fishing for provisions relating to transitional provisions.
 
-1986—Subsec. (b). Pub. L. 99–659 substituted “exclusive economic zone” for “fishery conservation zone”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–659 substituted “exclusive economic zone” for “fishery conservation zone”.
 
 #### Transfer of Functions
 

@@ -28,9 +28,9 @@ Another prior section 622 of Pub. L. 89–329, title VI, Nov. 8, 1965, 79 Stat. 
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–39 inserted period at end.
+<b>2009</b>—Subsec. (a). Pub. L. 111–39 inserted period at end.
 
-2008—Subsec. (a). Pub. L. 110–315, §613(1), substituted “tribally controlled colleges or universities” for “Tribally Controlled Colleges or Universities” and “international affairs, international business, and foreign language study programs, including the teaching of foreign languages, at such colleges, universities, and institutions, respectively, which may include collaboration with institutions of higher education that receive funding under this subchapter” for “international affairs programs.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §613(1), substituted “tribally controlled colleges or universities” for “Tribally Controlled Colleges or Universities” and “international affairs, international business, and foreign language study programs, including the teaching of foreign languages, at such colleges, universities, and institutions, respectively, which may include collaboration with institutions of higher education that receive funding under this subchapter” for “international affairs programs.”
 
 Subsec. (c)(1) to (4). Pub. L. 110–315, §613(2), redesignated pars. (2) and (4) as (1) and (2), respectively, and struck out former pars. (1) and (3), which defined “historically Black college and university” and “Tribally Controlled College or University”, respectively.
 

@@ -18,13 +18,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pars. (1) to (3). Pub. L. 110–246, §7414, substituted “2012” for “2007”.
+<b>2008</b>—Pars. (1) to (3). Pub. L. 110–246, §7414, substituted “2012” for “2007”.
 
-2002—Pars. (1) to (3). Pub. L. 107–171 substituted “2007” for “2002”.
+<b>2002</b>—Pars. (1) to (3). Pub. L. 107–171 substituted “2007” for “2002”.
 
-1998—Pars. (1) to (3). Pub. L. 105–185 substituted “fiscal years 1991 through 2002” for “the fiscal years 1991, 1992, and 1993”.
+<b>1998</b>—Pars. (1) to (3). Pub. L. 105–185 substituted “fiscal years 1991 through 2002” for “the fiscal years 1991, 1992, and 1993”.
 
-1990—Pars. (1) to (3). Pub. L. 101–624 amended pars. (1) to (3) generally. Prior to amendment, pars. (1) to (3) read as follows:
+<b>1990</b>—Pars. (1) to (3). Pub. L. 101–624 amended pars. (1) to (3) generally. Prior to amendment, pars. (1) to (3) read as follows:
 
 “(1) to the Department of Agriculture, $2,000,000 for each of fiscal years 1984 and 1985, and $1,000,000 for each of fiscal years 1986, 1987, and 1988;
 
@@ -32,9 +32,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 “(3) to the Department of the Interior, $1,000,000 for each of fiscal years 1984 and 1985, and $1,000,000 for each of fiscal years 1986, 1987, and 1988.”
 
-1985—Pars. (1) to (3). Pub. L. 99–198 inserted provisions authorizing appropriations of $1,000,000 for each of fiscal years 1986, 1987, and 1988.
+<b>1985</b>—Pars. (1) to (3). Pub. L. 99–198 inserted provisions authorizing appropriations of $1,000,000 for each of fiscal years 1986, 1987, and 1988.
 
-1984—Pars. (1), (2). Pub. L. 98–623 substituted provisions authorizing appropriations of $2,000,000 for each of fiscal years 1984 and 1985 for provisions which had authorized appropriations of $7,000,000 for fiscal year 1981, $10,000,000 for fiscal year 1982, and $12,000,000 for fiscal year 1983.
+<b>1984</b>—Pars. (1), (2). Pub. L. 98–623 substituted provisions authorizing appropriations of $2,000,000 for each of fiscal years 1984 and 1985 for provisions which had authorized appropriations of $7,000,000 for fiscal year 1981, $10,000,000 for fiscal year 1982, and $12,000,000 for fiscal year 1983.
 
 Par. (3). Pub. L. 98–623 substituted provisions authorizing appropriations of $1,000,000 for each of fiscal years 1984 and 1985 for provisions which had authorized appropriations of $3,000,000 for fiscal year 1981, $4,000,000 for fiscal year 1982, and $5,000,000 for fiscal year 1983.
 

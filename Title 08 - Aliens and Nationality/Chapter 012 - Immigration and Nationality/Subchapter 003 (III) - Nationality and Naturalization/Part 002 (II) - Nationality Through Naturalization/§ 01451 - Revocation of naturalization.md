@@ -6,7 +6,7 @@ It shall be the duty of the United States attorneys for the respective districts
 
 #### (b) Notice to party
 
-The party to whom was granted the naturalization alleged to have been illegally procured or procured by concealment of a material fact or by willful misrepresentation shall, in any such proceedings under subsection (a) of this section, have sixty days’ personal notice, unless waived by such party, in which to make answers to the petition of the United States; and if such naturalized person be absent from the United States or from the judicial district in which such person last had his residence, such notice shall be given either by personal service upon him or by publication in the manner provided for the service of summons by publication or upon absentees by the laws of the State or the place where such suit is brought.
+The party to whom was granted the naturalization alleged to have been illegally procured or procured by concealment of a material fact or by willful misrepresentation shall, in any such proceedings under subsection (a) of this section, have sixty days’ personal notice, unlesswaived by such party, in which to make answers to the petition of the United States; and if such naturalized person be absent from the United States or from the judicial district in which such person last had his residence, such notice shall be given either by personal service upon him or by publication in the manner provided for the service of summons by publication or upon absentees by the laws of the State or the place where such suit is brought.
 
 #### (c) Membership in certain organizations; prima facie evidence
 
@@ -32,7 +32,7 @@ The provisions of this section shall apply not only to any naturalization grante
 
 Nothing contained in this section shall be regarded as limiting, denying, or restricting the power of the Attorney General to correct, reopen, alter, modify, or vacate an order naturalizing the person.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §340, 66 Stat. 260; Sept. 3, 1954, ch. 1263, §18, 68 Stat. 1232; Pub. L. 87–301, §18, Sept. 26, 1961, 75 Stat. 656; Pub. L. 99–653, §17, Nov. 14, 1986, 100 Stat. 3658; Pub. L. 100–525, §9(dd), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §407(d)(18), Nov. 29, 1990, 104 Stat. 5046; Pub. L. 102–232, title III, §305(k), Dec. 12, 1991, 105 Stat. 1750; Pub. L. 103–416, title I, §104(b), (c), Oct. 25, 1994, 108 Stat. 4308.)
+(June 27, 1952, ch. 477, title III, ch. 2, §340, 66 Stat. 260; Sept. 3, 1954, ch. 1263, §18, 68 Stat. 1232; Pub. L. 87–301, §18, Sept. 26, 1961, 75 Stat. 656; Pub. L. 99–653, §17, Nov. 14, 1986, 100 Stat. 3658; Pub. L. 100–525, §9(dd), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §407(d)(18), Nov. 29, 1990, 104 Stat. 5046; Pub. L. 102–232, title III, §305(k), Dec. 12, 1991, 105 Stat. 1750; Pub. L.103–416, title I, §104(b), (c), Oct. 25, 1994, 108 Stat. 4308.)
 
 #### References In Text
 
@@ -56,7 +56,7 @@ Subsec. (i). Pub. L. 101–649, §407(d)(18)(D), substituted “the Attorney Gen
 
 1988—Subsec. (c). Pub. L. 100–525, §9(dd)(1), substituted “December 24, 1952” for “the effective date of this chapter”.
 
-Subsecs. (e) to (j). Pub. L. 100–525, §9(dd)(2), (3), redesignated former subsecs. (f) to (j) as (e) to (i), respectively, and struck out former subsec. (e) which read as follows: “The revocation and setting aside of the order admitting any person to citizenship and canceling his certificate of naturalization under the provisions of subsection (a) of section 338 of the Nationality Act of 1940 shall not, where such action takes place after theeffective date of this chapter, result in the loss of citizenship or any right or privilege of citizenship which would have been derived by or been available to a wife or minor child of the naturalized person had such naturalization not been revoked: <i>Provided</i>, That this subsection shall not apply in any case in which the revocation and setting aside of the order was the result of actual fraud.”
+Subsecs. (e) to (j). Pub. L. 100–525, §9(dd)(2), (3), redesignated former subsecs. (f) to (j) as (e) to (i), respectively, and struck out former subsec. (e) which read as follows: “The revocation and setting aside of the order admitting any person to citizenship and canceling his certificate of naturalization under the provisions of subsection (a) of section 338 of the Nationality Act of 1940 shall not, where such action takes place after the effective date of this chapter, result in the loss of citizenship or any right or privilege of citizenship which would have been derived by or been available to a wife or minor child of the naturalized person had such naturalization not been revoked: <i>Provided</i>, That this subsection shall not apply in any case in which the revocation and setting aside of the order was the result of actual fraud.”
 
 1986—Subsec. (d). Pub. L. 99–653 substituted “one year” for “five years”.
 

@@ -6,7 +6,7 @@ The effective date of the provisions of this subchapter, so far as the same rela
 
 #### Amendments
 
-1987—Pub. L. 100–181 struck out at end of first sentence “: <i>Provided, however</i>, That any such face-amount certificate company may register prior to said date, as provided by section 80a–8 of this title, and such registration shall not operate to change or affect said effective date as to any such company or any face-amount certificates issued by it”.
+<b>1987</b>—Pub. L. 100–181 struck out at end of first sentence “: <i>Provided, however</i>, That any such face-amount certificate company may register prior to said date, as provided by section 80a–8 of this title, and such registration shall not operate to change or affect said effective date as to any such company or any face-amount certificates issued by it”.
 
 #### Effective Date of 1970 Amendment
 

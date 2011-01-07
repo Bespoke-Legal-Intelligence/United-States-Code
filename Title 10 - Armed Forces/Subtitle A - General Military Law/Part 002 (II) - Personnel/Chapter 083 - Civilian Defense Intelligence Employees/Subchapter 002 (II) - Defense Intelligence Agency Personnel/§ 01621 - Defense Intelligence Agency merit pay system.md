@@ -14,13 +14,13 @@ A prior section 1621, added Pub. L. 99–145, title IX, §924(a)(1), Nov. 8, 198
 
 #### Amendments
 
-1996—Pub. L. 104–201 renumbered section 1602 of this title as this section and struck out “and Central Imagery Office” after “Intelligence Agency”.
+<b>1996</b>—Pub. L. 104–201 renumbered section 1602 of this title as this section and struck out “and Central Imagery Office” after “Intelligence Agency”.
 
-1994—Pub. L. 103–359 inserted “and Central Imagery Office” after “Defense Intelligence Agency”.
+<b>1994</b>—Pub. L. 103–359 inserted “and Central Imagery Office” after “Defense Intelligence Agency”.
 
-1993—Pub. L. 103–89 inserted “, as in effect on October 31, 1993”.
+<b>1993</b>—Pub. L. 103–89 inserted “, as in effect on October 31, 1993”.
 
-1984—Pub. L. 98–615 substituted “section 5401 of title 5” for “section 5401(a) of title 5”.
+<b>1984</b>—Pub. L. 98–615 substituted “section 5401 of title 5” for “section 5401(a) of title 5”.
 
 #### Effective Date of 1996 Amendment
 

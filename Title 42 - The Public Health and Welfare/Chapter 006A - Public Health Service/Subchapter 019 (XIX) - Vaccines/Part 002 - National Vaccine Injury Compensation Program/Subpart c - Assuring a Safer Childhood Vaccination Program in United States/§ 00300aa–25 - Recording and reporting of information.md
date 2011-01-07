@@ -48,7 +48,7 @@ In subsec. (b)(1), (3), “December 22, 1987” was substituted for “the effec
 
 #### Amendments
 
-1987—Subsec. (b)(1), (3). Pub. L. 100–203 substituted “effective date of this subpart” for “effective date of this part”.
+<b>1987</b>—Subsec. (b)(1), (3). Pub. L. 100–203 substituted “effective date of this subpart” for “effective date of this part”.
 
 #### Effective Date
 

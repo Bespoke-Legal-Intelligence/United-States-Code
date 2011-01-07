@@ -8,7 +8,7 @@ A husband and wife may make a single return jointly of income taxes under subtit
 
 &emsp;(2) no joint return shall be made if the husband and wife have different taxable years; except that if such taxable years begin on the same day and end on different days because of the death of either or both, then the joint return may be made with respect to the taxable year of each. The above exception shall not apply if the surviving spouse remarries before the close of his taxable year, nor if the taxable year of either spouse is a fractional part of a year under section 443(a)(1);
 
-&emsp;(3) in the case of death of one spouse or both spouses the joint return with respect to thedecedent may be made only by his executor or administrator; except that in the case of the death of one spouse the joint return may be made by the surviving spouse with respect to both himself and the decedent if no return for the taxable year has been made by the decedent, no executor or administrator has been appointed, and no executor or administrator is appointed before the last day prescribed by law for filing the return of the surviving spouse. If an executor or administrator of the decedent is appointed after the making of the joint return by the surviving spouse, the executor or administrator may disaffirm such joint return by making, within 1 year after the last day prescribed by law for filing the return of the surviving spouse, a separate return for the taxable year of the decedent with respect to which the joint return was made, in which case the return made by the survivor shall constitute his separate return.
+&emsp;(3) in the case of death of one spouse or both spouses the joint return with respect to the decedent may be made only by his executor or administrator; except that in the case of the death of one spouse the joint return may be made by the surviving spouse with respect to both himself and the decedent if no return for the taxable year has been made by the decedent, no executor or administrator has been appointed, and no executor or administrator is appointed before the last day prescribed by law for filing the return of the surviving spouse. If an executor or administrator of the decedent is appointed after the making of the joint return by the surviving spouse, the executor or administrator may disaffirm such joint return by making, within 1 year after the last day prescribed by law for filing the return of the surviving spouse, a separate return for the taxable year of the decedent with respect to which the joint return was made, in which case the return made by the survivor shall constitute his separate return.
 
 #### (b) Joint return after filing separate return
 
@@ -54,7 +54,7 @@ A husband and wife may make a single return jointly of income taxes under subtit
 
 #### (A) Coordination with part II of subchapter A of chapter 68
 
-&emsp;&emsp;For purposes of part II of subchapter A of chapter 68, where the sum of the amountsshown as tax on the separate returns of each spouse is less than the amount shown as tax on the joint return made under this subsection—
+&emsp;&emsp;For purposes of part II of subchapter A of chapter 68, where the sum of the amounts shown as tax on the separate returns of each spouse is less than the amount shown as tax on the joint return made under this subsection—
 
 &emsp;&emsp;&emsp;(i) such sum shall be treated as the amount shown on the joint return,
 
@@ -122,7 +122,7 @@ For purposes of this section and subtitle A—
 
 #### (4) Making of election; revocation
 
-&emsp;An election described in this subsection with respect to any taxable year may be made by filing a joint return in accordance with subsection (a) and under such regulations as may be prescribed by the Secretary. Such an election may be revoked by either spouse on or before the due date (including extensions) for such taxable year, and, in the case of an executor or administrator, may be revoked by disaffirming as provided in the last sentence of subsection (a)(3).
+&emsp;An election described in this subsection with respect to any taxable year may be made by filing a joint return in accordance with subsection (a) and under such regulations as may be prescribed by the Secretary. Such an election may be revoked by either spouse on or before the due date (including extensions) for such taxable year, and, in the case of an executor or administrator, may be revoked bydisaffirming as provided in the last sentence of subsection (a)(3).
 
 #### (g) Election to treat nonresident alien individual as resident of the United States
 
@@ -136,7 +136,7 @@ For purposes of this section and subtitle A—
 
 #### (2) Individuals with respect to whom this subsection is in effect
 
-&emsp;This subsection shall be in effect with respect to any individual who, at the close of the taxable year for which an election under thissubsection was made, was a nonresident alien individual married to a citizen or resident of the United States, if both of them made such election to have the benefits of this subsection apply to them.
+&emsp;This subsection shall be in effect with respect to any individual who, at the close of the taxable year for which an election under this subsection was made, was a nonresident alien individual married to a citizen or resident of the United States, if both of them made such election to have the benefits of this subsection apply to them.
 
 #### (3) Duration of election
 
@@ -196,43 +196,43 @@ For purposes of this section and subtitle A—
 
 &emsp;If any election under this subsection applies for any 2 individuals for any taxable year, such 2 individuals shall be ineligible to make an election under this subsection for any subsequent taxable year.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 733; Pub. L. 85–866, title I, §73, Sept. 2, 1958, 72 Stat. 1660; Pub. L. 91–172, title VIII, §801(a)(2), (b)(2), (c)(2), (d)(2), Dec. 30, 1969, 83 Stat. 675, 676; Pub. L. 91–679, §1, Jan. 12, 1971, 84 Stat. 2063; Pub. L. 92–178, title II, §201(a)(2), (b)(2), (c), Dec. 10, 1971, 85 Stat. 510, 511; Pub. L. 93–597, §3(a), Jan. 2, 1975, 88 Stat. 1950; Pub. L. 94–455, title X, §1012(a)(1), title XIX, §1906(a)(1), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1612, 1824, 1834; Pub. L. 94–569, §3(d), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 95–600, title I, §102(b)(2), title VII, §701(u)(15)(A)–(C), (16)(A), Nov. 6, 1978, 92 Stat. 2771, 2919, 2920; Pub. L. 97–34, title I, §104(d)(2), Aug. 13, 1981, 95 Stat. 189; Pub. L. 97–248, title III, §§307(a)(4), (5), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–448, title III, §307(c), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, §§424(a), 474(b)(2), July 18, 1984, 98 Stat. 801, 830; Pub. L. 99–514, title I, §104(a)(2), title XVII, §1708(a)(3), Oct. 22, 1986, 100 Stat. 2104, 2782; Pub. L. 100–647, title I, §1015(b)(1), Nov. 10, 1988, 102 Stat. 3568; Pub. L. 101–239, title VII, §7721(c)(6), Dec. 19, 1989, 103 Stat. 2399; Pub. L. 101–508, title XI, §11704(a)(22), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 104–168, title IV, §402(a), July 30, 1996, 110 Stat. 1459; Pub. L. 105–206, title III, §3201(e)(1), title VI, §6011(e)(2), July 22, 1998, 112 Stat. 740, 818; Pub. L. 107–134, title I, §101(b)(2), Jan. 23, 2002, 115 Stat. 2428; Pub. L. 108–121, title I, §110(a)(2)(B), Nov. 11, 2003, 117 Stat. 1342.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 733; Pub. L. 85–866, title I, §73, Sept. 2, 1958, 72 Stat. 1660; Pub. L. 91–172, title VIII, §801(a)(2), (b)(2), (c)(2), (d)(2), Dec. 30, 1969, 83 Stat. 675, 676; Pub. L. 91–679, §1, Jan. 12, 1971, 84 Stat. 2063; Pub. L. 92–178, title II, §201(a)(2), (b)(2), (c), Dec. 10, 1971, 85 Stat. 510, 511; Pub. L. 93–597, §3(a), Jan. 2, 1975, 88 Stat. 1950; Pub. L. 94–455, title X, §1012(a)(1), title XIX, §1906(a)(1), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1612, 1824, 1834; Pub. L. 94–569, §3(d), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 95–600, title I, §102(b)(2), title VII, §701(u)(15)(A)–(C), (16)(A), Nov. 6, 1978, 92 Stat. 2771, 2919, 2920; Pub. L. 97–34, title I, §104(d)(2), Aug. 13, 1981, 95 Stat. 189; Pub. L. 97–248, title III, §§307(a)(4), (5), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–448, title III, §307(c), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, §§424(a), 474(b)(2), July 18, 1984, 98 Stat. 801, 830; Pub. L. 99–514, title I, §104(a)(2), title XVII, §1708(a)(3), Oct. 22, 1986, 100 Stat. 2104, 2782; Pub. L. 100–647, title I, §1015(b)(1), Nov. 10, 1988, 102 Stat. 3568; Pub. L. 101–239, title VII, §7721(c)(6), Dec. 19, 1989, 103Stat. 2399; Pub. L. 101–508, title XI, §11704(a)(22), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 104–168, title IV, §402(a), July 30, 1996, 110 Stat. 1459; Pub. L. 105–206, title III, §3201(e)(1), title VI, §6011(e)(2), July 22, 1998, 112 Stat. 740, 818; Pub. L. 107–134, title I, §101(b)(2), Jan. 23, 2002, 115 Stat. 2428; Pub. L. 108–121, title I, §110(a)(2)(B), Nov. 11, 2003, 117 Stat. 1342.)
 
 #### Amendments
 
-2003—Subsec. (f)(2)(B). Pub. L. 108–121 inserted “, astronauts,” after “Forces”.
+<b>2003</b>—Subsec. (f)(2)(B). Pub. L. 108–121 inserted “, astronauts,” after “Forces”.
 
-2002—Subsec. (f)(2)(B). Pub. L. 107–134 inserted “and victims of certain terrorist attacks” before “on death”.
+<b>2002</b>—Subsec. (f)(2)(B). Pub. L. 107–134 inserted “and victims of certain terrorist attacks” before “on death”.
 
-1998—Subsec. (e). Pub. L. 105–206, §3201(e)(1), struck out subsec. (e), which had: in par. (1), declared that spouse was relieved of liability for tax where joint return had been made, there was substantial understatement of tax attributable to grossly erroneous items of one spouse, other spouse established that he or she did not know that there was such substantial understatement, and it would be inequitable to hold other spouse liable; in pars. (2) and (3), defined terms “grossly erroneous items” and “substantial understatement”, respectively; in par. (4), directed that understatement had to exceed specified percentage of spouse's income; and in par. (5) declared that determination of spouse, to whom items of gross income were attributable would be made without regard to community property laws.
+<b>1998</b>—Subsec. (e). Pub. L. 105–206, §3201(e)(1), struck out subsec. (e), which had: in par. (1), declared that spouse was relieved of liability for tax where joint return had been made, there was substantial understatement of tax attributable to grossly erroneous items of one spouse, other spouse established that he or she did not know that there was such substantial understatement, and it would be inequitable to hold other spouse liable; in pars. (2) and (3), defined terms “grossly erroneous items” and “substantial understatement”, respectively; in par. (4), directed that understatement had to exceed specified percentage of spouse's income; and in par. (5) declared that determination of spouse, to whom items of gross income were attributable would be made without regard to community property laws.
 
 Subsecs. (g)(1)(A), (5), (h)(1). Pub. L. 105–206, §6011(e)(2), substituted “chapter 1” for “chapters 1 and 5”.
 
-1996—Subsec. (b)(2). Pub. L. 104–168 redesignated subpars. (B) to (E) as (A) to (D), respectively, and struck out former subpar. (A) which read as follows: “unless there is paid in full at or before the time of the filing of the joint return the amount shown as tax upon such joint return; or”.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–168 redesignated subpars. (B) to (E) as (A) to (D), respectively, and struck out former subpar. (A) which read as follows: “unless there is paid in full at or before the time of the filing of the joint return the amount shown as tax upon such joint return; or”.
 
-1990—Subsec. (e)(3). Pub. L. 101–508 substituted “section 6662(d)(2)(A)” for “section 6661(b)(2)(A)”.
+<b>1990</b>—Subsec. (e)(3). Pub. L. 101–508 substituted “section 6662(d)(2)(A)” for “section 6661(b)(2)(A)”.
 
-1989—Subsec. (b)(5)(A). Pub. L. 101–239 substituted “part II of subchapter A of chapter 68” for “section 6653” in heading and in text.
+<b>1989</b>—Subsec. (b)(5)(A). Pub. L. 101–239 substituted “part II of subchapter A of chapter 68” for “section 6653” in heading and in text.
 
-1988—Subsec. (b)(5)(A). Pub. L. 100–647 amended subpar. (A) generally. Prior to amendment, subpar. (A) related to additions to tax when amount shown as tax by husband and wife on joint return exceeds aggregate of amounts shown as tax on separate return of each spouse.
+<b>1988</b>—Subsec. (b)(5)(A). Pub. L. 100–647 amended subpar. (A) generally. Prior to amendment, subpar. (A) related to additions to tax when amount shown as tax by husband and wife on joint return exceeds aggregate of amounts shown as tax on separate return of each spouse.
 
-1986—Subsec. (b)(3)(A). Pub. L. 99–514, §104(a)(2), struck out “(twice the exemption amount in case such spouse was 65 or over)” before “for such taxable year” in cls. (ii) and (iii), substituted “section 151(d)” for “section 151(f)” in concluding provisions, and inserted last sentence.
+<b>1986</b>—Subsec. (b)(3)(A). Pub. L. 99–514, §104(a)(2), struck out “(twice the exemption amount in case such spouse was 65 or over)” before “for such taxable year” in cls. (ii) and (iii), substituted “section 151(d)” for “section 151(f)” in concluding provisions, and inserted last sentence.
 
 Subsec. (f)(1). Pub. L. 99–514, §1708(a)(3), substituted “such election may be made for any taxable year while an individual is in missing status” for “no such election may be made for any taxable year beginning after December 31, 1982”.
 
-1984—Subsec. (c). Pub. L. 98–369, §474(b)(2), substituted “15” for “21”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–369, §474(b)(2), substituted “15” for “21”.
 
 Subsec. (e). Pub. L. 98–369, §424(a), in amending subsec. (e) generally, reenacted as par. (1)(A) part of former par. (1)(A); incorporated in par. (1)(B) part of former par. (1)(A), substituting “there is a substantial understatement of tax attributable to grossly erroneous items of one spouse” for “there was omitted from gross income an amount properly includable therein which is attributable to one spouse and which is in excess of 25 percent of the amount of gross income stated in the return”; redesignated as par. (1)(C) former par. (1)(B), substituting “had no reason to know, that there was such substantial understatement” for “had no reason to know of, such omission”; reenacted as par. (1)(D) former par. (1)(C), substituting preceding “, it is inequitable” the words “all the facts and circumstances” for “whether or not the other spouse significantly benefited directly or indirectly from the items omitted from gross income and taking into account all other facts and circumstances” and “attributable to such substantial understatement” for “attributable to such omission”; substituted in concluding text “attributable to such substantial understatement” for “attributable to such omission from gross income”; added pars. (2) to (4); and incorporated in provisions designated par. (5) similar provisions of former par. (2)(A), substituting as par. heading “Special rule for community property income” for “Special rules” and deleting former par. (2)(B) respecting determination as provided in section 6501(e)(1)(A) of amount omitted from gross income.
 
-1983—Pub. L. 98–67 repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
+<b>1983</b>—Pub. L. 98–67 repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
 
 Subsec. (f)(1). Pub. L. 97–448 substituted “December 31, 1982” for “January 2, 1978”.
 
-1982—Subsecs. (g)(1)(B). (h)(1). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subsec. (g)(1)(B) is amended by substituting “(relating to withholding on wages, interest, dividends, and patronage dividends)” for “(relating to wage withholding)” and by striking out “of wages”, and subsec. (h)(1) is amended by substituting “(relating to withholding on wages, interest, dividends, and patronage dividends)” for “(relating to wage withholding)” and by striking out “of wages”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+<b>1982</b>—Subsecs. (g)(1)(B). (h)(1). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subsec. (g)(1)(B) is amended by substituting “(relating to withholding on wages, interest, dividends, and patronage dividends)” for “(relating to wage withholding)” and by striking out “of wages”, and subsec. (h)(1) is amended by substituting “(relating to withholding on wages, interest, dividends, and patronage dividends)” for “(relating to wage withholding)” and by striking out “of wages”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
-1981—Subsec. (b)(3)(A). Pub. L. 97–34 substituted “the exemption amount” for “$1,000” and “twice the exemption amount” for “$2,000” in cls. (ii) and (iii) and inserted provision following cl. (iii) defining “exemption amount”.
+<b>1981</b>—Subsec. (b)(3)(A). Pub. L. 97–34 substituted “the exemption amount” for “$1,000” and “twice the exemption amount” for “$2,000” in cls. (ii) and (iii) and inserted provision following cl. (iii) defining “exemption amount”.
 
-1978—Subsec. (b)(3)(A). Pub. L. 95–600, §102(b)(2), increased the exemptions wherever appearing from $750 and $1500 to $1,000 and $2,000, respectively, with respect to taxable years beginning after Dec. 31, 1978.
+<b>1978</b>—Subsec. (b)(3)(A). Pub. L. 95–600, §102(b)(2), increased the exemptions wherever appearing from $750 and $1500 to $1,000 and $2,000, respectively, with respect to taxable years beginning after Dec. 31, 1978.
 
 Subsec. (g)(1). Pub. L. 95–600, §701(u)(15)(A), amended par. (1) generally, designating existing provisions as introductory material and par. (A), and in such par. (A) inserting reference to chapter 5, and adding par. (2).
 
@@ -242,7 +242,7 @@ Subsec. (g)(5). Pub. L. 95–600, §701(u)(15)(B), substituted “chapters 1 and
 
 Subsec. (h)(1). Pub. L. 95–600, §701(u)(15)(C), substituted “chapters 1 and 5” for “chapter 1” and inserted provision relating to chapter 24 of this title.
 
-1976—Subsec. (b)(2)(C). Pub. L. 94–455, §1906(a)(1)(A), struck out “of the United States” after “Tax Court”.
+<b>1976</b>—Subsec. (b)(2)(C). Pub. L. 94–455, §1906(a)(1)(A), struck out “of the United States” after “Tax Court”.
 
 Subsec. (d). Pub. L. 94–455, §1906(a)(1)(B), (C), substituted in heading “Special rules” for “Definitions”, in par. (1)(A) “of such year; or” for “of such year; and”, and in par. (1)(B) “of such death;” for “of such death; and”.
 
@@ -254,15 +254,15 @@ Subsec. (f)(4). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegat
 
 Subsecs. (g), (h). Pub. L. 94–455, §1012(a)(1), added subsecs. (g) and (h).
 
-1975—Subsec. (f). Pub. L. 93–597 added subsec. (f).
+<b>1975</b>—Subsec. (f). Pub. L. 93–597 added subsec. (f).
 
-1971—Subsec. (b)(3)(A). Pub. L. 92–178 increased the exemptions wherever appearing from $650 and $1,300 to $675 and $1,350, respectively, with respect to taxable years beginning after Dec. 1970, and before Jan. 1, 1972, and to $750 and $1,500, respectively, with respect to taxable years beginning after Dec. 31, 1971.
+<b>1971</b>—Subsec. (b)(3)(A). Pub. L. 92–178 increased the exemptions wherever appearing from $650 and $1,300 to $675 and $1,350, respectively, with respect to taxableyears beginning after Dec. 1970, and before Jan. 1, 1972, and to $750 and $1,500, respectively, with respect to taxable years beginning after Dec. 31, 1971.
 
 Subsec. (e). Pub. L. 91–679 added subsec. (e).
 
-1969—Subsec. (b)(3)(A). Pub. L. 91–172, §801(a)(2), (b)(2), (c)(2), (d)(2), increased the exemptions wherever appearing from $600 and $1,200 to $625 and $1,250, respectively with respect to taxable years ending Dec. 31, 1970, and to $650 and $1,300, respectively, with respect to taxable years beginning after Dec. 31, 1970, and before Jan. 1, 1972, to $700 and $1,400, respectively, with respect to taxable years beginning after Dec. 31, 1971, and before Jan. 1, 1973, and to $750 and $1,500, respectively, with respect to taxable years beginning after Dec. 31, 1972.
+<b>1969</b>—Subsec. (b)(3)(A). Pub. L. 91–172, §801(a)(2), (b)(2), (c)(2), (d)(2), increased the exemptions wherever appearing from $600 and $1,200 to $625 and $1,250, respectively with respect to taxable years ending Dec. 31, 1970, and to $650 and $1,300, respectively, with respect to taxable years beginning after Dec. 31, 1970, and before Jan. 1, 1972, to $700 and $1,400, respectively, with respect to taxable years beginning after Dec. 31, 1971, and before Jan. 1, 1973, and to $750 and $1,500, respectively, with respect to taxable years beginning after Dec. 31, 1972.
 
-1958—Subsec. (b)(2)(C). Pub. L. 85–866 substituted “section 6213” for “such section”.
+<b>1958</b>—Subsec. (b)(2)(C). Pub. L. 85–866 substituted “section 6213” for “such section”.
 
 #### Effective Date of 2003 Amendment
 
@@ -354,7 +354,7 @@ General rule.—Except as otherwise expressly provided in this section, the amen
 
 “(2)
 
-Amendments relating to income tax.—The amendments made by this section, when relating to atax imposed by chapter 1 or chapter 2 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], shall take effect with respect to taxable years beginning after December 31, 1976.”
+Amendments relating to income tax.—The amendments made by this section, when relating to a tax imposed by chapter 1 or chapter 2 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], shall take effect with respect to taxable years beginning after December 31, 1976.”
 
 Section 2114(b) of Pub. L. 94–455 provided that: “The application permitted under the amendment made by subsection (a) of this section \[amending section 3 of Pub. L. 91–679, set out as an Effective Date of 1971 Amendment note below\] must be filed with the Secretary of the Treasury during the first calendar year beginning after the date of the enactment of this Act \[Oct. 4, 1976\].”
 

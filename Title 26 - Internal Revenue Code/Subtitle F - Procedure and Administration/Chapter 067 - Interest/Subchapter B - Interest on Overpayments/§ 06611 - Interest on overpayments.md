@@ -46,6 +46,10 @@ The provisions of section 6513 (except the provisions of subsection (c) thereof,
 
 &emsp;If an adjustment initiated by the Secretary, results in a refund or credit of an overpayment, interest on such overpayment shall be computed by subtracting 45 days from the number of days interest would otherwise be allowed with respect to such overpayment.
 
+#### (4) Certain withholding taxes
+
+&emsp;In the case of any overpayment resulting from tax deducted and withheld under chapter 3 or 4, paragraphs (1), (2), and (3) shall be applied by substituting “180 days” for “45 days” each place it appears.
+
 #### (f) Refund of income tax caused by carryback or adjustment for certain unused deductions
 
 #### (1) Net operating loss or capital loss carryback
@@ -54,7 +58,7 @@ The provisions of section 6513 (except the provisions of subsection (c) thereof,
 
 #### (2) Foreign tax credit carrybacks
 
-&emsp;For purposes of subsection (a), if any overpayment of tax imposed by subtitle A resultsfrom a carryback of tax paid or accrued to foreign countries or possessions of the United States, such overpayment shall be deemed not to have been made before the filing date for the taxable year in which such taxes were in fact paid or accrued, or, with respect to any portion of such credit carryback from a taxable year attributable to a net operating loss carryback or a capital loss carryback from a subsequent taxable year, such overpayment shall be deemed not to have been made before the filing date for such subsequent taxable year.
+&emsp;For purposes of subsection (a), if any overpayment of tax imposed by subtitle A results from a carryback of tax paid or accrued to foreign countries or possessions of the United States, such overpayment shall be deemed not to have been made before the filing date for the taxable year in which such taxes were in fact paid or accrued, or, with respect to any portion of such credit carryback from a taxable year attributable to a net operating loss carryback or a capital loss carryback from a subsequent taxable year, such overpayment shall be deemed not to have been made before the filing date for such subsequent taxable year.
 
 #### (3) Certain credit carrybacks
 
@@ -120,15 +124,17 @@ The provisions of section 6513 (except the provisions of subsection (c) thereof,
 
 &emsp;&emsp;<b>For prohibition of administrative review, see section 6406.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 819; Pub. L. 85–866, title I, §§42(b), 83(b), (c), Sept. 2, 1958, 72 Stat. 1640, 1664; Pub. L. 87–834, §2(e)(4), Oct. 16, 1962, 76 Stat. 972; Pub. L. 88–571, §3(e), Sept. 2, 1964, 78 Stat. 858; Pub. L. 89–721, §1(a), Nov. 2, 1966, 80 Stat. 1150; Pub. L. 90–225, §2(f), Dec. 27, 1967, 81 Stat. 732; Pub. L. 91–172, title V, §512(e)(4), Dec. 30, 1969, 83 Stat. 641; Pub. L. 92–178, title VI, §601(d)(4), Dec. 10, 1971, 85 Stat. 559; Pub. L. 93–17, §3(i)(2), Apr. 10, 1973, 87 Stat. 19; Pub. L. 93–625, §7(a)(2)(C), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §1904(b)(10)(A)(iv), 1906(b)(13)(A), title XXI, §2107(g)(2)(D), Oct. 4, 1976, 90 Stat. 1817, 1834, 1904; Pub. L. 95–30, title II, §202(d)(4)(D), May 23, 1977, 91 Stat. 150; Pub. L. 95–628, §8(c)(3), Nov. 10, 1978, 92 Stat. 3632; Pub. L. 96–223, title I, §101(h), Apr. 2, 1980, 94 Stat. 254; Pub. L. 97–248, title III, §346(a)–(c)(1), Sept. 3, 1982, 96 Stat. 636, 637; Pub. L. 98–369, div. A, title II, §211(b)(27), title VII, §714(n)(2)(A), July 18, 1984, 98 Stat. 757, 963; Pub. L. 99–514, title XV, §1511(c)(13), Oct. 22, 1986, 100 Stat. 2745; Pub. L. 100–418, title I, §1941(b)(2)(L), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 103–66, titleXIII, §13271(a), Aug. 10, 1993, 107 Stat. 541; Pub. L. 105–34, title X, §1055(b), Aug. 5, 1997, 111 Stat. 944; Pub. L. 105–206, title VI, §6010(<i>l</i>), July 22, 1998, 112 Stat. 816; Pub. L. 106–554, §1(a)(7) \[title III, §319(20)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 819; Pub. L. 85–866, title I, §§42(b), 83(b), (c), Sept. 2, 1958, 72 Stat. 1640, 1664; Pub. L. 87–834, §2(e)(4), Oct. 16, 1962, 76 Stat. 972; Pub. L. 88–571, §3(e), Sept. 2, 1964, 78 Stat. 858; Pub. L. 89–721, §1(a), Nov. 2, 1966, 80 Stat. 1150; Pub. L. 90–225, §2(f), Dec. 27, 1967, 81 Stat. 732; Pub. L. 91–172, title V, §512(e)(4), Dec. 30, 1969, 83 Stat. 641; Pub. L. 92–178, title VI, §601(d)(4), Dec. 10, 1971, 85 Stat. 559; Pub. L. 93–17, §3(i)(2), Apr. 10, 1973, 87 Stat. 19; Pub. L. 93–625, §7(a)(2)(C), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §1904(b)(10)(A)(iv), 1906(b)(13)(A), title XXI, §2107(g)(2)(D), Oct. 4, 1976, 90 Stat. 1817, 1834, 1904; Pub. L. 95–30, title II, §202(d)(4)(D), May 23, 1977, 91 Stat. 150; Pub. L. 95–628, §8(c)(3), Nov. 10, 1978, 92 Stat. 3632; Pub. L. 96–223, title I, §101(h), Apr. 2, 1980, 94 Stat. 254; Pub. L. 97–248, title III, §346(a)–(c)(1), Sept. 3, 1982, 96 Stat. 636, 637; Pub. L. 98–369, div. A, title II, §211(b)(27), title VII, §714(n)(2)(A), July 18, 1984, 98 Stat. 757, 963; Pub. L. 99–514, title XV, §1511(c)(13), Oct. 22, 1986, 100 Stat. 2745; Pub. L. 100–418, title I, §1941(b)(2)(L), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 103–66, title XIII, §13271(a), Aug. 10, 1993, 107 Stat. 541; Pub. L. 105–34, title X, §1055(b), Aug. 5, 1997, 111 Stat. 944; Pub. L. 105–206, title VI, §6010(<i>l</i>), July 22, 1998, 112 Stat. 816; Pub. L. 106–554, §1(a)(7) \[title III, §319(20)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 111–147, title V, §501(b), Mar. 18, 2010, 124 Stat. 105.)
 
 #### Amendments
 
-2000—Subsec. (g)(1). Pub. L. 106–554 struck out comma after “(b)(3)”.
+<b>2010</b>—Subsec. (e)(4). Pub. L. 111–147 added par. (4).
 
-1998—Subsec. (g)(1). Pub. L. 105–206 substituted “and (e)” for “(e), and (h)”.
+<b>2000</b>—Subsec. (g)(1). Pub. L. 106–554 struck out comma after “(b)(3)”.
 
-1997—Subsec. (f)(2), (3). Pub. L. 105–34, §1055(b)(1), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
+<b>1998</b>—Subsec. (g)(1). Pub. L. 105–206 substituted “and (e)” for “(e), and (h)”.
+
+<b>1997</b>—Subsec. (f)(2), (3). Pub. L. 105–34, §1055(b)(1), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
 
 Subsec. (f)(4). Pub. L. 105–34, §1055(b)(1), (2)(A)(i), redesignated par. (3) as (4) and substituted “paragraphs (1), (2), and (3)” for “paragraphs (1) and (2)” in heading.
 
@@ -146,17 +152,17 @@ Subsecs. (g) to (i). Pub. L. 105–34, §1055(b)(2)(D), redesignated subsecs. (h
 
 Refund of Income Tax Caused by Carryback of Foreign Taxes.—For purposes of subsection (a), if any overpayment of tax results from a carryback of tax paid or accrued to foreign countries or possessions of the United States, such overpayment shall be deemed not to have been paid or accrued prior to the filing date (as defined in subsection (f)(3)) for the taxable year under this subtitle in which such taxes were in fact paid or accrued.”
 
-1993—Subsec. (e). Pub. L. 103–66 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “If any overpayment of tax imposed by subtitle A is refunded within 45 days after the last date prescribed for filing the return of such tax (determined without regard to any extension of time for filing the return) or, in case the return is filed after such last date, is refunded within 45 days after the date the return is filed, no interest shall be allowed under subsection (a) on such overpayment.”
+<b>1993</b>—Subsec. (e). Pub. L. 103–66 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “If any overpayment of tax imposed by subtitle A is refunded within 45 days after the last date prescribed for filing the return of such tax (determined without regard to any extension of time for filing the return) or, in case the return is filed after such last date, is refunded within 45 days after the date the return is filed, no interest shall be allowed under subsection (a) on such overpayment.”
 
-1988—Subsecs. (h) to (j). Pub. L. 100–418 redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h) which related to special rule for windfall profit tax.
+<b>1988</b>—Subsecs. (h) to (j). Pub. L. 100–418 redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h) which related to special rule for windfall profit tax.
 
-1986—Subsec. (a). Pub. L. 99–514 substituted “the overpayment rate established under section 6621” for “an annual rate established under section 6621”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514 substituted “the overpayment rate established under section 6621” for “an annual rate established under section 6621”.
 
-1984—Subsec. (f)(3)(C). Pub. L. 98–369, §714(n)(2)(A), added subpar. (C).
+<b>1984</b>—Subsec. (f)(3)(C). Pub. L. 98–369, §714(n)(2)(A), added subpar. (C).
 
 Subsec. (f)(4). Pub. L. 98–369, §211(b)(27), struck out par. (4) which provided that for purposes of subsection (a), if any overpayment of tax imposed by subtitle A arose by operation of section 815(d)(5) (relating to reduction of policyholders surplus account of life insurance companies for certain unused deductions), such overpayment would be deemed not to have been made prior to the close of the last taxable year to which the loss described in section 815(d)(5)(A) was carried under section 812(b)(2).
 
-1982—Subsec. (b)(3). Pub. L. 97–248, §346(a), added par. (3).
+<b>1982</b>—Subsec. (b)(3). Pub. L. 97–248, §346(a), added par. (3).
 
 Subsec. (f)(1). Pub. L. 97–248, §346(c)(1)(A), substituted “the filing date for the taxable year” for “the close of the taxable year”.
 
@@ -168,43 +174,47 @@ Subsec. (g). Pub. L. 97–248, §346(c)(1)(D), substituted “the filing date (a
 
 Subsecs. (i), (j). Pub. L. 97–248, §346(b), added subsec. (i) and redesignated former subsec. (i) as (j).
 
-1980—Subsecs. (h), (i). Pub. L. 96–223 added subsec. (h) and redesignated former subsec. (h) as (i).
+<b>1980</b>—Subsecs. (h), (i). Pub. L. 96–223 added subsec. (h) and redesignated former subsec. (h) as (i).
 
-1978—Subsec. (f)(2). Pub. L. 95–628, §8(c)(3)(A), substituted in heading “Certain credit carrybacks” for “Investment credit carryback”, designated existing provision as subpar. (A), and in subpar. (A) as so designated inserted heading “In general” and extended the application of provision to credit carrybacks, previously limited to investment credit carrybacks, included other credit carrybacks, and added subpar. (B).
+<b>1978</b>—Subsec. (f)(2). Pub. L. 95–628, §8(c)(3)(A), substituted in heading “Certain credit carrybacks” for “Investment credit carryback”, designated existing provision as subpar. (A), and in subpar. (A) as so designated inserted heading “In general” and extended the application of provision to credit carrybacks, previously limited to investment credit carrybacks, included other credit carrybacks, and added subpar. (B).
 
 Subsec. (f)(4), (5). Pub. L. 95–628, §8(c)(3)(B), struck out pars. (4) and (5) which provided for work incentive program credit carrybacks and new employee credit carrybacks, respectively.
 
-1977—Subsec. (f)(5). Pub. L. 95–30 added par. (5).
+<b>1977</b>—Subsec. (f)(5). Pub. L. 95–30 added par. (5).
 
-1976—Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (f)(4). Pub. L. 94–455, §2107(g)(2)(D), inserted “, an investment credit carryback,” after “net operating loss carryback”.
 
 Subsecs. (h), (i). Pub. L. 94–455, §1904(b)(10)(A)(iv), redesignated subsec. (i) as (h). Former subsec. (h), which related to a refund within 45 days after filing claim for refund of interest equalization tax paid on securities sold to foreigners, was struck out.
 
-1975—Subsec. (a). Pub. L. 93–625 substituted “an annual rate established under section 6621” for “the rate of 6 percent per annum”.
+<b>1975</b>—Subsec. (a). Pub. L. 93–625 substituted “an annual rate established under section 6621” for “the rate of 6 percent per annum”.
 
-1973—Subsecs. (h), (i). Pub. L. 93–17 added subsec. (h) and redesignated former subsec. (h) as (i).
+<b>1973</b>—Subsecs. (h), (i). Pub. L. 93–17 added subsec. (h) and redesignated former subsec. (h) as (i).
 
-1971—Subsec. (f)(4). Pub. L. 92–178 added par. (4).
+<b>1971</b>—Subsec. (f)(4). Pub. L. 92–178 added par. (4).
 
-1969—Subsec. (f)(1). Pub. L. 91–172, §512(e)(4)(A), (B), substituted “loss or capital loss carryback” for “loss carryback” in heading, and “net operating loss or net capital loss” for “net operating loss” wherever appearing in text.
+<b>1969</b>—Subsec. (f)(1). Pub. L. 91–172, §512(e)(4)(A), (B), substituted “loss or capital loss carryback” for “loss carryback” in heading, and “net operating loss or net capital loss” for “net operating loss” wherever appearing in text.
 
 Subsec. (f)(2). Pub. L. 91–172, §512(e)(4)(C), substituted “loss carryback or a capital loss carryback” for “loss carryback”.
 
-1967—Subsec. (f)(2). Pub. L. 90–225 inserted “, or, with respect to any portion of an investment credit carryback from a taxable year attributable to a net operating loss carryback from a subsequent taxable year, such overpayment shall be deemed not to have been made prior to the close of such subsequent taxable year” after “such investment credit carryback arises”.
+<b>1967</b>—Subsec. (f)(2). Pub. L. 90–225 inserted “, or, with respect to any portion of an investment credit carryback from a taxable year attributable to a net operating loss carryback from a subsequent taxable year, such overpayment shall be deemed not to have been made prior to the close of such subsequent taxable year” after “such investment credit carryback arises”.
 
-1966—Subsec. (e). Pub. L. 89–721 inserted “or, in case the return is filed after such last date, is refunded within 45 days after the date the return is filed” after “(determined without regard to any extension of time for filing the return)” and changed heading to reflect amendment.
+<b>1966</b>—Subsec. (e). Pub. L. 89–721 inserted “or, in case the return is filed after such last date, is refunded within 45 days after the date the return is filed” after “(determined without regard to any extension of time for filing the return)” and changed heading to reflect amendment.
 
-1964—Subsec. (f). Pub. L. 88–571 added par. (3) and inserted “or adjustment for certain unused deductions” in heading.
+<b>1964</b>—Subsec. (f). Pub. L. 88–571 added par. (3) and inserted “or adjustment for certain unused deductions” in heading.
 
-1962—Subsec. (f). Pub. L. 87–834 designated existing provisions as par. (1) and added par. (2).
+<b>1962</b>—Subsec. (f). Pub. L. 87–834 designated existing provisions as par. (1) and added par. (2).
 
-1958—Subsec. (b)(1). Pub. L. 85–866, §83(b), struck out “, but if the amount against which the credit is taken is an additional assessment, then to the date of the assessment of that amount” after “taken”.
+<b>1958</b>—Subsec. (b)(1). Pub. L. 85–866, §83(b), struck out “, but if the amount against which the credit is taken is an additional assessment, then to the date of the assessment of that amount” after “taken”.
 
 Subsec. (c). Pub. L. 85–866, §83(c), repealed subsec. (c) which defined “additional assessment”.
 
 Subsecs. (g), (h). Pub. L. 85–866, §42(b), added subsec. (g) and redesignated former subsec. (g) as (h).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–147 applicable, with respect to subsec. (e)(1) of this section, to returns due (without regard to extensions) after Mar. 18, 2010; with respect to subsec. (e)(2) of this section, to claims for credit or refund of any overpayment filed after Mar. 18, 2010 (regardless of the taxable period to which such refund relates); and with respect to subsec. (e)(3) of this section, to refunds paid after Mar. 18, 2010 (regardless of the taxable period to which such refund relates), see section 501(d) of Pub. L. 111–147, set out as an Effective Date note under section 1471 of this title.
 
 #### Effective Date of 1998 Amendment
 

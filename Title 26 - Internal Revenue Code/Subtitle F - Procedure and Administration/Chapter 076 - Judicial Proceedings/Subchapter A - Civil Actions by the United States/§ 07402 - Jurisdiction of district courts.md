@@ -2,7 +2,7 @@
 
 #### (a) To issue orders, processes, and judgments
 
-The district courts of the United States at the instance of the United States shall have such jurisdiction to make and issue in civil actions, writs and orders of injunction, and of <i>ne exeat republica</i>, orders appointing receivers, and such other orders and processes, and to render such judgments and decrees as may be necessary or appropriate for the enforcement of the internal revenue laws. The remedies hereby provided are in addition to and not exclusive of any and all other remedies of the United States in such courts or otherwise to enforce such laws.
+The district courts of the United States at the instance of the United States shall have such jurisdiction to make and issue in civil actions, writs and orders of injunction, and of <i>ne exeat republica</i>, orders appointing receivers, and such other orders and processes, and to render such judgments and decrees as may be necessary or appropriate for the enforcement of the internal revenue laws. The remedies hereby provided arein addition to and not exclusive of any and all other remedies of the United States in such courts or otherwise to enforce such laws.
 
 #### (b) To enforce summons
 
@@ -26,9 +26,9 @@ The United States district courts shall have jurisdiction of any action brought 
 
 #### Amendments
 
-1972—Subsec. (d). Pub. L. 92–310 repealed subsec. (d) which granted district courts jurisdiction of actions brought on official bonds.
+<b>1972</b>—Subsec. (d). Pub. L. 92–310 repealed subsec. (d) which granted district courts jurisdiction of actions brought on official bonds.
 
-1966—Subsecs. (e), (f). Pub. L. 89–719 added subsec. (e) and redesignated former subsec. (e) as (f).
+<b>1966</b>—Subsecs. (e), (f). Pub. L. 89–719 added subsec. (e) and redesignated former subsec. (e) as (f).
 
 #### Effective Date of 1966 Amendment
 

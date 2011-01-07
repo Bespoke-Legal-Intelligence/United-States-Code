@@ -26,11 +26,11 @@ The Congress hereby finds and declares that, in keeping with the traditional Ame
 
 #### Amendments
 
-1992—Par. (4). Pub. L. 102–375, §101, inserted “, including support to family members and other persons providing voluntary care to older individuals needing long-term care services” after “homes”.
+<b>1992</b>—Par. (4). Pub. L. 102–375, §101, inserted “, including support to family members and other persons providing voluntary care to older individuals needing long-term care services” after “homes”.
 
 Par. (8). Pub. L. 102–375, §904(a)(1), substituted “vulnerable older individuals” for “the vulnerable elderly”.
 
-1987—Pub. L. 100–175, §101(1), substituted “United States,” for “United States and” and inserted “, and of Indian tribes” after “subdivisions”.
+<b>1987</b>—Pub. L. 100–175, §101(1), substituted “United States,” for “United States and” and inserted “, and of Indian tribes” after “subdivisions”.
 
 Par. (3). Pub. L. 100–175, §101(2), substituted “Obtaining and maintaining suitable” for “Suitable”.
 
@@ -38,17 +38,17 @@ Par. (7). Pub. L. 100–175, §101(3), substituted “Participating in and contr
 
 Par. (10). Pub. L. 100–175, §101(4), substituted “lives,” for “lives and”, and inserted “, and protection against abuse, neglect, and exploitation” before period at end.
 
-1984—Par. (4). Pub. L. 98–459, §102(a), inserted reference to a comprehensive array of community-based, long-term care services adequate to appropriately sustain older people in their communities and in their homes.
+<b>1984</b>—Par. (4). Pub. L. 98–459, §102(a), inserted reference to a comprehensive array of community-based, long-term care services adequate to appropriately sustain older people in their communities and in their homes.
 
 Par. (8). Pub. L. 98–459, §102(b), inserted reference to emphasis on maintaining a continuum of care for the vulnerable elderly.
 
 Par. (10). Pub. L. 98–459, §102(c), inserted reference to full participation in the planning and operation of community-based services and programs provided for the benefit of older people.
 
-1981—Par. (7). Pub. L. 97–115 included a reference to education and training.
+<b>1981</b>—Par. (7). Pub. L. 97–115 included a reference to education and training.
 
-1978—Par. (8). Pub. L. 95–478 included objective of community services which provide a choice in supported living arrangements.
+<b>1978</b>—Par. (8). Pub. L. 95–478 included objective of community services which provide a choice in supported living arrangements.
 
-1973—Par. (8). Pub. L. 93–29 inserted reference to access to low-cost transportation.
+<b>1973</b>—Par. (8). Pub. L. 93–29 inserted reference to access to low-cost transportation.
 
 #### Effective Date of 1992 Amendment
 
@@ -148,7 +148,7 @@ Pub. L. 106–501, §1, Nov. 13, 2000, 114 Stat. 2226, provided that: “This Ac
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–171, §1, Dec. 2, 1993, 107 Stat. 1988, provided that: “This Act \[see Tables for classification\] may becited as the ‘Older Americans Act Technical Amendments of 1993’.”
+Pub. L. 103–171, §1, Dec. 2, 1993, 107 Stat. 1988, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Older Americans Act Technical Amendments of 1993’.”
 
 #### Short Title of 1992 Amendment
 
@@ -204,7 +204,7 @@ Section 902 of Pub. L. 102–375 provided that: “Except as otherwise specifica
 
 #### Study of Effectiveness of State Long-Term Care Ombudsman Programs
 
-Section 211 of Pub. L. 102–375, as amended by Pub. L. 103–171, §4(a)(2), Dec. 2, 1993, 107 Stat. 1991, providedthat not later than Jan. 1, 1995, the Assistant Secretary for Aging, in consultation with State agencies, State Long-Term Care Ombudsmen, the National Ombudsman Resource Center, and professional ombudsmen associations, directly, or by grant or contract, was to conduct a study and submit a report to Congress analyzing separately with respect to each State effectiveness of State long-term care ombudsman programs.
+Section 211 of Pub. L. 102–375, as amended by Pub. L. 103–171, §4(a)(2), Dec. 2, 1993, 107 Stat. 1991, provided that not later than Jan. 1, 1995, the Assistant Secretary for Aging, in consultation with State agencies, State Long-Term Care Ombudsmen, the National Ombudsman Resource Center, and professional ombudsmen associations, directly, or by grant or contract, was to conduct a study and submit a report to Congress analyzing separately with respect to each State effectiveness of State long-term care ombudsman programs.
 
 #### Study on Board and Care Facility Quality
 
@@ -706,7 +706,7 @@ Authorization.—
 
 In general.—There are authorized to be appropriated to carry out this section \[title\]—
 
-&emsp;&emsp;“(A) such sums as may be necessary for the first fiscal year in which the Policy Committee plans the Conference and for the following fiscal year; and
+&emsp;&emsp;“(A) such sums as may be necessary for the first fiscal year in which the Policy Committee plansthe Conference and for the following fiscal year; and
 
 &emsp;&emsp;“(B) such sums as may be necessary for the fiscal year in which the Conference is held.
 

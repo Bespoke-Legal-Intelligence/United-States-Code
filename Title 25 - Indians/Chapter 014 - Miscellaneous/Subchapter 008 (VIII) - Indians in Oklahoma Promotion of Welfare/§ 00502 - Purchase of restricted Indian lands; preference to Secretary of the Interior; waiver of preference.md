@@ -8,5 +8,5 @@ The preference right of the Secretary to purchase shall be considered as waived 
 
 #### Amendments
 
-1947—Act Aug. 4, 1947, provided for waiver of preference by failure to purchase after notice.
+<b>1947</b>—Act Aug. 4, 1947, provided for waiver of preference by failure to purchase after notice.
 

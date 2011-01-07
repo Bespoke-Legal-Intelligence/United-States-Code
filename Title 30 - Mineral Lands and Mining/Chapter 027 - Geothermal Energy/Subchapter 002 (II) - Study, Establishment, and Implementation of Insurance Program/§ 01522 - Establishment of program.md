@@ -18,7 +18,7 @@ For the purpose of this section—
 
 &emsp;(5) the term “other insurance” means any combination of private or public insurance other than investment insurance provided by the Secretary under this section;
 
-&emsp;(6) the term “reservoir” means the physical subsurface geologic structure which forms the natural repository for the undisturbed geothermal resource; and
+&emsp;(6) the term “reservoir” means the physical subsurface geologic structure which forms thenatural repository for the undisturbed geothermal resource; and
 
 &emsp;(7) the term “person” means any public or private agency, institution, association, partnership, corporation, political subdivision, or other legal entity which is a United States citizen as determined by application of the test for United States citizenship contained in section 50501 of title 46, or in the first sentence of section 27A of the Merchant Marine Act, 1920 (46 U.S.C. 883–1(a)–(e)).<sup>1</sup>
 
@@ -36,7 +36,7 @@ Unless the Secretary determines the risk proposed by the applicant is unreasonab
 
 #### (f) Certificate of insurance; issuance, etc.
 
-The Secretary, within ninety days after making and submitting the determinations under subsection (e) of this section, and upon agreement of the applicant to such determinations, shall issue a certificate of insurance containing such terms and conditions as the Secretary shallspecify, which shall not be transferrable without the express approval of the Secretary for good cause shown, and shall execute a contract with the applicant setting forth the terms and conditions of the investment insurance and such other provisions as may be necessary to protect the interests of the United States, including provisions with respect to the ownership, use, and disposition of any currency, credits, assets, or investments on account of which payment under such insurance is to be made and any right, title, claim, or course of action existing in relation thereto.
+The Secretary, within ninety days after making and submitting the determinations under subsection (e) of this section, and upon agreement of the applicant to such determinations, shall issue a certificate of insurance containing such terms and conditions as the Secretary shall specify, which shall not be transferrable without the express approval of the Secretary for good cause shown, and shall execute a contract with the applicant setting forth the terms and conditions of the investment insurance and such other provisions as may be necessary to protect the interests of the United States, including provisions with respect to the ownership, use, and disposition of any currency, credits, assets, or investments on account of which payment under such insurance is to be made and any right, title, claim, or course of action existing in relation thereto.
 
 #### (g) Compensation payable to holder of certificate of insurance; amount, etc.
 
@@ -56,7 +56,7 @@ There may be appropriated to the Geothermal Resources Development Fund (establis
 
 #### (k) Reinsurance agreements; procedures applicable; criteria; report to Congress
 
-The Secretary may enter into agreements to reinsure any private insurer for any risk associated with insurance for the development and utilization of a geothermal resource and associated reservoir, using the procedures set forth in subsections (c) through (i) of this section, to the extent that he deems it appropriate in order to provide an incentive for the participation of the private insurance industry in geothermal development; and he may also use any other available authority to obtain such participation. The Secretary shall submit a report to the Congress, within one year after the enactment of the law referred to in subsection (a) of this section, on the need for any additional authority to obtain such participation.
+The Secretary may enter into agreements to reinsure any private insurer for any risk associated with insurance for the development and utilization of a geothermal resource and associated reservoir, using the procedures set forth in subsections (c) through (i) of this section, to the extent that he deems it appropriate in order to provide an incentive for the participation of the private insurance industry in geothermal development; and he may also use any other available authority to obtain such participation. The Secretary shall submit a report to the Congress, within one year after the enactment of the lawreferred to in subsection (a) of this section, on the need for any additional authority to obtain such participation.
 
 (Pub. L. 96–294, title VI, §622, June 30, 1980, 94 Stat. 765.)
 
@@ -69,4 +69,6 @@ This Act, referred to in subsec. (i), is Pub. L. 96–294, June 30, 1980, 94 Sta
 #### Codification
 
 In subsec. (b)(7), “section 50501 of title 46” substituted for “section 2(a)–(c) of the Shipping Act, 1916 (46 U.S.C. 802)” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 50501 of Title 46, Shipping.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

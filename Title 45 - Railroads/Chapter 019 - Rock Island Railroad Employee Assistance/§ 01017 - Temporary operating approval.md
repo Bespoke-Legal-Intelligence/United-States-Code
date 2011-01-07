@@ -16,11 +16,11 @@ Section 77 of the Bankruptcy Act, referred to in subsec. (a), was classified to 
 
 #### Amendments
 
-1983—Subsec. (a). Pub. L. 97–468, §214(a), substituted “a carrier which, on January 14, 1983, was the subject of a proceeding pending under section 77 of the Bankruptcy Act or under subchapter IV of chapter 11 of title 11” for “the Rock Island Railroad or the Milwaukee Railroad”, and in last sentence substituted “any such carrier which has been ordered by the court having jurisdiction over such a carrier to liquidate its properties until the disposition of the properties of the estate of such carrier” for “the Rock Island Railroad until the disposition of the properties of the estate of the Rock Island Railroad”.
+<b>1983</b>—Subsec. (a). Pub. L. 97–468, §214(a), substituted “a carrier which, on January 14, 1983, was the subject of a proceeding pending under section 77 of the Bankruptcy Act or under subchapter IV of chapter 11 of title 11” for “the Rock Island Railroad or the Milwaukee Railroad”, and in last sentence substituted “any such carrier which has been ordered by the court having jurisdiction over such a carrier to liquidate its properties until the disposition of the properties of the estate of such carrier” for “the Rock Island Railroad until the disposition of the properties of the estate of the Rock Island Railroad”.
 
 Subsec. (c). Pub. L. 97–468, §214(b), struck out subsec. (c) which defined “Milwaukee Railroad”.
 
-1981—Subsec. (a). Pub. L. 97–130 gave the Commission authority to authorize continued rail service under this section over the lines of the Rock Island Railroad until the disposition of the properties of the estate of the Rock Island Railroad.
+<b>1981</b>—Subsec. (a). Pub. L. 97–130 gave the Commission authority to authorize continued rail service under this section over the lines of the Rock Island Railroad until the disposition of the properties of the estate of the Rock Island Railroad.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

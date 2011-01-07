@@ -6,7 +6,7 @@ If a domestic corporation chooses to have the benefits of subpart A of part III 
 
 #### Amendments
 
-1976—Pub. L. 94–455 substituted “section 902(a)” for “section 902(a)(1)” and “section 960(a)(1)” for “section 960(a)(1)(C)”.
+<b>1976</b>—Pub. L. 94–455 substituted “section 902(a)” for “section 902(a)(1)” and “section 960(a)(1)” for “section 960(a)(1)(C)”.
 
 #### Effective Date of 1976 Amendment
 
@@ -14,5 +14,5 @@ Amendment by Pub. L. 94–455 applicable on different dates depending on the dat
 
 #### Effective Date
 
-Section applicable in respect of any distribution received by a domestic corporation after Dec. 31, 1964, and in respect of any distribution received by a domestic corporation before Jan. 1, 1965, in a taxable year of such corporation beginning after Dec. 31, 1962, but only to the extent that such distribution is made out of the accumulated profits of a foreign corporation for a taxable year (of such foreign corporation) beginning after Dec.31, 1962, see section 9(e) of Pub. L. 87–834, set out as an Effective Date of 1962 Amendment note under section 902 of this title.
+Section applicable in respect of any distribution received by a domestic corporation after Dec. 31, 1964, and in respect of any distribution received by a domestic corporation before Jan. 1, 1965, in a taxable year of such corporation beginning after Dec. 31, 1962, but only to the extent that such distribution is made out of the accumulated profits of a foreign corporation for a taxable year (of such foreign corporation) beginning after Dec. 31, 1962, see section 9(e) of Pub. L. 87–834, set out as an Effective Date of 1962 Amendment note under section 902 of this title.
 

@@ -12,7 +12,7 @@ As used in this chapter—
 
 &emsp;(2) “credit elsewhere” means the availability of sufficient credit from non-Federal sources at reasonable rates and terms, taking into consideration prevailing private rates and terms in the community in or near where the concern transacts business for similar purposes and periods of time.
 
-(Pub. L. 85–536, §2\[18\], July 18, 1958, 72 Stat. 396; Pub. L. 93–386, §5, Aug. 23, 1974, 88 Stat. 746; Pub. L. 94–305, title I, §112(e), June 4, 1976, 90 Stat. 667; Pub. L. 96–38, title I, §101(c), July 25, 1979, 93 Stat. 119; Pub. L. 96–302, title I, §119(c), July 2, 1980, 94 Stat. 841; Pub. L. 98–270, title III, §303, Apr. 18, 1984, 98 Stat. 160; Pub. L. 98–369, div. B, title IV, §2401, July 18, 1984, 98 Stat. 1116; Pub. L. 99–272, title XVIII, §18006(a)(3), Apr. 7, 1986, 100 Stat. 366.)
+(Pub. L. 85–536, §2\[18\], July 18, 1958, 72 Stat. 396; Pub. L. 93–386, §5, Aug. 23, 1974, 88 Stat. 746; Pub.L. 94–305, title I, §112(e), June 4, 1976, 90 Stat. 667; Pub. L. 96–38, title I, §101(c), July 25, 1979, 93 Stat. 119; Pub. L. 96–302, title I, §119(c), July 2, 1980, 94 Stat. 841; Pub. L. 98–270, title III, §303, Apr. 18, 1984, 98 Stat. 160; Pub. L. 98–369, div. B, title IV, §2401, July 18, 1984, 98 Stat. 1116; Pub. L. 99–272, title XVIII, §18006(a)(3), Apr. 7, 1986, 100 Stat. 366.)
 
 #### Prior Provisions
 
@@ -20,21 +20,21 @@ Prior similar provisions were contained in section 225, of act July 30, 1953, ch
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–272 struck out agricultural enterprises exception and proviso that, prior to Oct. 1, 1987, an agricultural enterprise not be eligible for loan assistance under section 636(b)(1) of this title to repair or replace property other than residences and/or personal property unless it is declined for, or would be declined for, emergency loan assistance at substantially similar interest rates from the Farmers Home Administration under subchapter III of the Consolidated Farm and Rural Development Act.
+<b>1986</b>—Subsec. (a). Pub. L. 99–272 struck out agricultural enterprises exception and proviso that, prior to Oct. 1, 1987, an agricultural enterprise not be eligible for loan assistance under section 636(b)(1) of this title to repair or replace property other than residences and/or personal property unless it is declined for, or would be declined for, emergency loan assistance at substantially similar interest rates from the Farmers Home Administration under subchapter III of the Consolidated Farm and Rural Development Act.
 
-1984—Subsec. (a). Pub. L. 98–369 substituted “October 1, 1987” for “October 1, 1986”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369 substituted “October 1, 1987” for “October 1, 1986”.
 
 Pub. L. 98–270 substituted “October 1, 1986” for “October 1, 1983”.
 
-1980—Subsec. (a). Pub. L. 96–302, §119(c)(1), inserted proviso relating to eligibility for loan assistance prior to October 1, 1983.
+<b>1980</b>—Subsec. (a). Pub. L. 96–302, §119(c)(1), inserted proviso relating to eligibility for loan assistance prior to October 1, 1983.
 
 Subsec. (b). Pub. L. 96–302, §119(c)(2), added par. (1) and designated as par. (2) existing definition of “credit elsewhere”.
 
-1979—Pub. L. 96–38 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1979</b>—Pub. L. 96–38 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1976—Pub. L. 94–305 inserted reference to those enterprises engaged in the production of food and fiber, ranching, and raising of livestock, aquaculture, and all other farming and agricultural related industries.
+<b>1976</b>—Pub. L. 94–305 inserted reference to those enterprises engaged in the production of food and fiber, ranching, and raising of livestock, aquaculture, and all other farming and agricultural related industries.
 
-1974—Pub. L. 93–386 inserted provision authorizing the refusal of loan applications and the denial of loans, for purposes of this section, to be deemed nonduplication of activities.
+<b>1974</b>—Pub. L. 93–386 inserted provision authorizing the refusal of loan applications and the denial of loans, for purposes of this section, to be deemed nonduplication of activities.
 
 #### Effective Date of 1984 Amendment
 

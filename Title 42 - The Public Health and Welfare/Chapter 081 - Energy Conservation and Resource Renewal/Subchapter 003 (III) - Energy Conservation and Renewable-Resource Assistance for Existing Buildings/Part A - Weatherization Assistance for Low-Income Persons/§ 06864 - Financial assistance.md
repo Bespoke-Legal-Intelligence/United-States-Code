@@ -38,17 +38,17 @@ The Economic Opportunity Act of 1964, referred to in subsec. (b)(4), is Pub. L. 
 
 #### Amendments
 
-1998—Subsec. (b)(3). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(29)\], struck out “the Job Training Partnership Act or” after “pursuant to”.
+<b>1998</b>—Subsec. (b)(3). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(29)\], struck out “the Job Training Partnership Act or” after “pursuant to”.
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(38)\], substituted “the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “the Comprehensive Employment and Training Act of 1973”.
 
-1990—Subsec. (a)(D). Pub. L. 101–440, §7(c)(1), inserted “, such as the cost of heating and cooling,” after “necessary”.
+<b>1990</b>—Subsec. (a)(D). Pub. L. 101–440, §7(c)(1), inserted “, such as the cost of heating and cooling,” after “necessary”.
 
 Subsec. (b)(3). Pub. L. 101–440, §7(g), added cl. (B) and redesignated former cl. (B) as (C).
 
 Subsec. (c). Pub. L. 101–440, §7(c)(2), added subsec. (c).
 
-1980—Subsec. (a). Pub. L. 96–294, §577(2), substituted “Secretary” for “Administrator” wherever appearing.
+<b>1980</b>—Subsec. (a). Pub. L. 96–294, §577(2), substituted “Secretary” for “Administrator” wherever appearing.
 
 Subsec. (b). Pub. L. 96–294, §§573(c), 577(2), substituted “Secretary” for “Administrator” and added par. (4).
 

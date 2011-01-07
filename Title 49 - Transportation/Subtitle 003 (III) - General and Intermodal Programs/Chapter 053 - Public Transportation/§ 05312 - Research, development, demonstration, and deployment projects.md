@@ -6,7 +6,7 @@ Research, Development, Demonstration, and Deployment Projects.—
 
 &emsp;(1)
 
-In general.—The Secretary may make grants, contracts, cooperative agreements, and other agreements (including agreements with departments, agencies, and instrumentalities of the United States Government) for research, development, demonstration, and deployment projects, and evaluation of technology of national significance to public transportation, that the Secretary determines will improve public transportation service or help public transportation service meet the total transportation needs at a minimum cost.
+In general.—The Secretary may make grants, contracts, cooperative agreements, and other agreements (including agreements with departments, agencies, and instrumentalities of the United States Government) for research, development, demonstration, and deployment projects, and evaluation of technology of national significance to public transportation, that the Secretary determineswill improve public transportation service or help public transportation service meet the total transportation needs at a minimum cost.
 
 &emsp;(2)
 
@@ -138,9 +138,9 @@ In subsection (c)(3), before clause (A), the words “public or private training
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–244 substituted “Public Transportation” for “Mass Transportation” in heading.
+<b>2008</b>—Subsec. (c). Pub. L. 110–244 substituted “Public Transportation” for “Mass Transportation” in heading.
 
-2005—Pub. L. 109–59, §3014(e)(1), substituted “deployment” for “training” in section catchline.
+<b>2005</b>—Pub. L. 109–59, §3014(e)(1), substituted “deployment” for “training” in section catchline.
 
 Subsec. (a). Pub. L. 109–59, §3014(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Transportation (or the Secretary of Housing and Urban Development when required by section 5334(i) of this title) may undertake, or make grants or contracts (including agreements with departments, agencies, and instrumentalities of the United States Government) for, research, development, and demonstration projects related to urban mass transportation that the Secretary decides will help reduce urban transportation needs, improve mass transportation service, or help mass transportation service meet the total urban transportation needs at a minimum cost. The Secretary may request and receive appropriate information from any source. This subsection does not limit the authority of the Secretary under another law.”
 
@@ -160,5 +160,5 @@ Subsec. (e). Pub. L. 109–59, §3014(b), redesignated subsec. (e) as (c).
 
 Subsec. (e)(1). Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation” wherever appearing.
 
-1998—Subsecs. (d), (e). Pub. L. 105–178 added subsecs. (d) and (e).
+<b>1998</b>—Subsecs. (d), (e). Pub. L. 105–178 added subsecs. (d) and (e).
 

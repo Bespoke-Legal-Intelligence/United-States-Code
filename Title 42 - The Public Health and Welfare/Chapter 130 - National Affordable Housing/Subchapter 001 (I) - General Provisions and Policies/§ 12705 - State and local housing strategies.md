@@ -16,7 +16,7 @@ The Secretary shall provide assistance directly to a jurisdiction only if—
 
 A housing strategy submitted under this section shall be in a form that the Secretary determines to be appropriate for the assistance the jurisdiction may be provided and shall—
 
-&emsp;(1) describe the jurisdiction's estimated housing needs projected for the ensuing 5-year period, and the jurisdiction's need for assistance for very low-income, low-income, and moderate-income families, specifying such needs for different types of tenure and for different categories of residents, such as very low-income, low-income, and moderate-income families, the elderly, persons with disabilities, single persons, large families, residents of nonmetropolitan areas, families who are participating in an organized program to achieve economic independence and self-sufficiency, persons with acquired immunodeficiency syndrome, victims of domestic violence, dating violence, sexual assault, and stalking and other categories of persons residing in or expected to reside in the jurisdiction that the Secretary determines to be appropriate;
+&emsp;(1) describe the jurisdiction's estimated housing needs projected for the ensuing 5-year period, and the jurisdiction's need for assistance for very low-income, low-income, and moderate-income families, specifying such needs for different types of tenure and for different categories of residents, such as very low-income, low-income, and moderate-income families, the elderly, persons with disabilities, single persons, large families, residents of nonmetropolitan areas, families who are participating in an organized program to achieve economic independence and self-sufficiency, persons with acquired immunodeficiency syndrome, victims of domestic violence, datingviolence, sexual assault, and stalking and other categories of persons residing in or expected to reside in the jurisdiction that the Secretary determines to be appropriate;
 
 &emsp;(2) describe the nature and extent of homelessness, including rural homelessness, within the jurisdiction, providing an estimate of the special needs of various categories of persons who are homeless or threatened with homelessness, including tabular representation of such information, and a description of the jurisdiction's strategy for (A) helping low-income families avoid becoming homeless; (B) addressing the emergency shelter and transitional housing needs of homeless persons (including a brief inventory of facilities and services that meet such needs within that jurisdiction); and (C) helping homeless persons make the transition to permanent housing and independent living;
 
@@ -30,7 +30,7 @@ A housing strategy submitted under this section shall be in a form that the Secr
 
 &emsp;(7) set forth the jurisdiction's plan for investment or other use of housing funds made available under subchapter II of this chapter, the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the Housing and Community Development Act of 1974, and the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11301 et seq.\], during the ensuing year or such longer period as the Secretary determines to be appropriate, indicating the general priorities for allocating investment geographically within the jurisdiction and among different activities and housing needs;
 
-&emsp;(8) describe how the jurisdiction's plan will address the housing needs identified pursuantto subparagraphs <sup>1</sup> (1) and (2), describe the reasons for allocation priorities, and identify any obstacles to addressing underserved needs;
+&emsp;(8) describe how the jurisdiction's plan will address the housing needs identified pursuant to subparagraphs <sup>1</sup> (1) and (2), describe the reasons for allocation priorities, and identify any obstacles to addressing underserved needs;
 
 &emsp;(9) describe the means of cooperation and coordination among the State and any units of general local government in the development, submission, and implementation of their housing strategies;
 
@@ -116,11 +116,11 @@ The effective date of the Quality Housing and Work Responsibility Act of 1998, r
 
 #### Amendments
 
-2006—Subsec. (b)(1). Pub. L. 109–162 inserted “victims of domestic violence, dating violence, sexual assault, and stalking” after “immunodeficiency syndrome,”.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–162 inserted “victims of domestic violence, dating violence, sexual assault, and stalking” after “immunodeficiency syndrome,”.
 
-2000—Subsec. (b)(7). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
+<b>2000</b>—Subsec. (b)(7). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 
-1998—Subsec. (b). Pub. L. 105–276, §583(1), transferred flush provisions relating to abbreviated housing strategies to end of subsection to follow last numbered paragraph.
+<b>1998</b>—Subsec. (b). Pub. L. 105–276, §583(1), transferred flush provisions relating to abbreviated housing strategies to end of subsection to follow last numbered paragraph.
 
 Subsec. (b)(11) to (15). Pub. L. 105–276, §583(6), (7), added par. (11) and redesignated former pars. (11) to (14) as (12) to (15), respectively. Former par. (15) redesignated (16).
 
@@ -140,7 +140,7 @@ Subsec. (b)(20). Pub. L. 105–276, §583(2), redesignated par. (17), relating t
 
 Subsec. (g). Pub. L. 105–276, §568, added subsec. (g).
 
-1992—Subsec. (b)(1). Pub. L. 102–550, §681(1), inserted “persons with disabilities,” after “the elderly,”.
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–550, §681(1), inserted “persons with disabilities,” after “the elderly,”.
 
 Subsec. (b)(2). Pub. L. 102–550, §220(a), inserted “, including rural homelessness,” after “extent of homelessness” and “including tabular representation of such information,” after “with homelessness,”.
 

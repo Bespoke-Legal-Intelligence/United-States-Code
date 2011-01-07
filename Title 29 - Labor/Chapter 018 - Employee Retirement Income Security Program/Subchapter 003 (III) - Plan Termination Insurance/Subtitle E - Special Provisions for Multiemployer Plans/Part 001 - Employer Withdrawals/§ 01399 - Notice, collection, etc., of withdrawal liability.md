@@ -108,5 +108,5 @@ This chapter, referred to in subsec. (c)(7)(A), was in the original “this Act�
 
 #### Amendments
 
-1984—Subsec. (c)(1)(C)(iii). Pub. L. 98–369 substituted “September 26, 1980” for “April 29, 1980”.
+<b>1984</b>—Subsec. (c)(1)(C)(iii). Pub. L. 98–369 substituted “September 26, 1980” for “April 29, 1980”.
 

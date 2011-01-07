@@ -132,7 +132,7 @@ Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections.
 
 #### Amendments
 
-1992—Pub. L. 102–396 amended section generally. Prior to amendment, section related to comprehensive health care master plan for Native Hawaiians.
+<b>1992</b>—Pub. L. 102–396 amended section generally. Prior to amendment, section related to comprehensive health care master plan for Native Hawaiians.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “age”.</i>
 

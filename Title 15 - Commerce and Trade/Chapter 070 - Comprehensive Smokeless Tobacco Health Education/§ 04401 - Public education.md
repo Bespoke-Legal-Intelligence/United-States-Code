@@ -12,7 +12,7 @@
 
 &emsp;(D) collect, analyze, and disseminate information and studies on smokeless tobacco and health.
 
-(2) In developing programs, materials, and announcements under paragraph (1) the Secretaryshall consult with the Secretary of Education, medical and public health entities, consumer groups, representatives of manufacturers of smokeless tobacco products, and other appropriate entities.
+(2) In developing programs, materials, and announcements under paragraph (1) the Secretary shall consult with the Secretary of Education, medical and public health entities, consumer groups, representatives of manufacturers of smokeless tobacco products, and other appropriate entities.
 
 #### (b) Assistance
 

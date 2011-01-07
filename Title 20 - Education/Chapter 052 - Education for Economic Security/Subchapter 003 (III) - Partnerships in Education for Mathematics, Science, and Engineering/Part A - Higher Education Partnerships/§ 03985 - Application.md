@@ -42,7 +42,7 @@ A regional consortium of applicants in two or more States may file a joint appli
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–418 substituted “part” for “subchapter” wherever appearing.
+<b>1988</b>—Subsec. (a). Pub. L. 100–418 substituted “part” for “subchapter” wherever appearing.
 
-1985—Subsec. (a). Pub. L. 99–159 substituted “Secretary” for “Foundation” in two places in provisions preceding par. (1) and in par. (8).
+<b>1985</b>—Subsec. (a). Pub. L. 99–159 substituted “Secretary” for “Foundation” in two places in provisions preceding par. (1) and in par. (8).
 

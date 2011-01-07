@@ -40,19 +40,19 @@ Subsection (a) shall not apply to any transfer, directly or indirectly, between 
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–206, §6005(d)(4), substituted “18 months” for “1 year” in introductory provisions.
+<b>1998</b>—Subsec. (a). Pub. L. 105–206, §6005(d)(4), substituted “18 months” for “1 year” in introductory provisions.
 
 Pub. L. 105–206, §5001(a)(5), substituted “1 year” for “18 months” in introductory provisions.
 
-1984—Subsec. (a). Pub. L. 98–369, §1001(b)(19), (e), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §1001(b)(19), (e), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
 Subsec. (d). Pub. L. 98–369, §174(b)(5)(C), substituted “section 267(b) or persons described in section 707(b)” for “section 267(b)” and “section 267(b) and (c) and section 707(b)” for “section 267(b) and (c)” in introductory provisions, and substituted “section 267(b) or 707(b)” for “section 267(b)” in par. (1).
 
-1976—Subsec. (a). Pub. L. 94–455, §1402(b)(2), provided that “9 months” would be changed to “1 year”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1402(b)(2), provided that “9 months” would be changed to “1 year”.
 
 Pub. L. 94–455, §1402(b)(1)(V), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 
-1958—Subsec. (d). Pub. L. 85–866 substituted provisions set out as subsec. (d) for provisions reading “Subsection (a) shall not apply to any sale or exchange between an individual and any other related person (as defined in section 267(b)), except brothers and sisters, whether by the whole or half blood.”
+<b>1958</b>—Subsec. (d). Pub. L. 85–866 substituted provisions set out as subsec. (d) for provisions reading “Subsection (a) shall not apply to any sale or exchange between an individual and any other related person (as defined in section 267(b)), except brothers and sisters, whether by the whole or half blood.”
 
 #### Effective Date of 1998 Amendment
 

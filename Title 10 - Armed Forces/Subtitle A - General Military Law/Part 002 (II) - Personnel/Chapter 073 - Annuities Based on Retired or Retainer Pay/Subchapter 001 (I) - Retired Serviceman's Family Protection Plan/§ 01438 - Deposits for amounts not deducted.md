@@ -22,5 +22,5 @@ The words “a person who has been retired or has become entitled to retired or 
 
 #### Amendments
 
-1972—Pub. L. 92–425 substituted “subchapter” for “chapter”.
+<b>1972</b>—Pub. L. 92–425 substituted “subchapter” for “chapter”.
 

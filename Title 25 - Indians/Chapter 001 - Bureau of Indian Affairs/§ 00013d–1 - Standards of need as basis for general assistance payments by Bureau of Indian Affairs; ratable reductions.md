@@ -16,7 +16,7 @@ The Social Security Act, referred to in par. (2), is act Aug. 14, 1935, ch. 531,
 
 #### Amendments
 
-1996—Pub. L. 104–193, §110(k), which directed the general amendment of the “4th proviso of chapter VII of title I of Public Law 99–88 (25 U.S.C. 13d–1)”, was executed by amending this section, which is the 4th proviso under heading “
+<b>1996</b>—Pub. L. 104–193, §110(k), which directed the general amendment of the “4th proviso of chapter VII of title I of Public Law 99–88 (25 U.S.C. 13d–1)”, was executed by amending this section, which is the 4th proviso under heading “
 
 Bureau of Indian Affairs” of chapter VII of title I of Pub. L. 99–88, to reflect the probable intent of Congress. Prior to amendment, this section read as follows: “General assistance payments made by the Bureau of Indian Affairs after April 29, 1985, shall be made on the basis of Aid to Families with Dependent Children (AFDC) standards of need except where a State ratably reduces AFDC payments in which event the Bureau shall reduce general assistance payments in such State by the same percentage as the State has reduced the AFDC payment.”
 

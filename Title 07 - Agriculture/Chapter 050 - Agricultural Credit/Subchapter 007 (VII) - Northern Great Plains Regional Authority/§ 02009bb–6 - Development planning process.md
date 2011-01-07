@@ -2,7 +2,7 @@
 
 #### (a) State development plan
 
-In accordance with policies established by the Authority, each State member shall submit a development plan for the area of the region represented by the State member.
+In accordance with policies established by the Authority, each State member shall submit adevelopment plan for the area of the region represented by the State member.
 
 #### (b) Content of plan
 

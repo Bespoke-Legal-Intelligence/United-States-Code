@@ -37,13 +37,13 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 635, 64
 
 #### Amendments
 
-1979—Subsec. (c). Pub. L. 96–39, §807(a)(31)(A), inserted “or on the bonded premises of a distilled spirits plant” after “subchapter D,”.
+<b>1979</b>—Subsec. (c). Pub. L. 96–39, §807(a)(31)(A), inserted “or on the bonded premises of a distilled spirits plant” after “subchapter D,”.
 
 Subsec. (e). Pub. L. 96–39, §807(a)(31)(B), struck out provisions relating to the treatment of the processing of distilled spirits, subsequent to production gauge, in the manufacture of vodka in the production facilities of a distilled spirits plant as a redistillation of the spirits for purposes of this subsection, subsection (a), and sections 5025(d) and 5215.
 
-1976—Subsecs. (a) to (c), (e). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a) to (c), (e). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1965—Pub. L. 89–44, §805(f)(8), substituted “spirits, articles, and residues” for “spirits” in section catchline.
+<b>1965</b>—Pub. L. 89–44, §805(f)(8), substituted “spirits, articles, and residues” for “spirits” in section catchline.
 
 Subsec. (c). Pub. L. 89–44, §805(d), added subsec. (c). Former subsec. (c) redesignated (d).
 

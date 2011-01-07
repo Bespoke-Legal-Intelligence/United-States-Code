@@ -10,7 +10,7 @@ This section is included in this chapter without specific reference to statutory
 
 #### Amendments
 
-1981—Pub. L. 97–60 inserted provision that an appointment is conditional until the midshipman is admitted.
+<b>1981</b>—Pub. L. 97–60 inserted provision that an appointment is conditional until the midshipman is admitted.
 
 #### Effective Date of 1981 Amendment
 

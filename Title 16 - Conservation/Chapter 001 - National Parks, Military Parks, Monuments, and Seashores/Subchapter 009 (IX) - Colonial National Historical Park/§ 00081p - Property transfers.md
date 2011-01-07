@@ -28,7 +28,7 @@ Section was enacted as part of the Omnibus Parks and Public Lands Management Act
 
 #### Amendments
 
-2000—Subsec. (d). Pub. L. 106–176 directed amendment identical to amendment by Pub. L. 106–113. See 1999 Amendment note below.
+<b>2000</b>—Subsec. (d). Pub. L. 106–176 directed amendment identical to amendment by Pub. L. 106–113. See 1999 Amendment note below.
 
-1999—Subsec. (d). Pub. L. 106–113 substituted “depicted on the map dated August 1996, numbered 333/80031B,” for “depicted on the map dated August 1993, numbered 333/80031A,”.
+<b>1999</b>—Subsec. (d). Pub. L. 106–113 substituted “depicted on the map dated August 1996, numbered 333/80031B,” for “depicted on the map dated August 1993, numbered 333/80031A,”.
 

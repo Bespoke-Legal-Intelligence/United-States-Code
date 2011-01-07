@@ -36,7 +36,7 @@ It is the policy of the United States—
 
 &emsp;&emsp;(B) with less than 300 public housing units, if—
 
-&emsp;&emsp;&emsp;(i) the agency has provided reasonable notice to the resident advisory board of the opportunity of not less than 1 resident described in paragraph (1) to serve on the board of directors or similar governingbody of the public housing agency pursuant to such paragraph; and
+&emsp;&emsp;&emsp;(i) the agency has provided reasonable notice to the resident advisory board of the opportunity of not less than 1 resident described in paragraph (1) to serve on the board of directors or similar governing body of the public housing agency pursuant to such paragraph; and
 
 &emsp;&emsp;&emsp;(ii) within a reasonable time after receipt by the resident advisory board established by the agency pursuant to section 1437c–1(e) of this title of notice under clause (i), the public housing agency has not been notified of the intention of any resident to participate on the board of directors.
 
@@ -54,11 +54,11 @@ Prior similar provisions were contained in section 1 of act Sept. 1, 1937, ch. 8
 
 #### Amendments
 
-1998—Pub. L. 105–276 amended section catchline and text generally. Prior to amendment, text read as follows: “It is the policy of the United States to promote the general welfare of the Nation by employing its funds and credit, as provided in this chapter, to assist the several States and their political subdivisions to remedy the unsafe and unsanitary housing conditions and the acute shortage of decent, safe, and sanitary dwellings for families of lower income and, consistent with the objectives of this chapter, to vest in local public housing agencies the maximum amount of responsibility in the administration of their housing programs. No person should be barred from serving on the board of directors or similar governing body of a local public housing agency because of his tenancy in a low-income housing project.”
+<b>1998</b>—Pub. L. 105–276 amended section catchline and text generally. Prior to amendment, text read as follows: “It is the policy of the United States to promote the general welfare of the Nation by employing its funds and credit, as provided in this chapter, to assist the several States and their political subdivisions to remedy the unsafe and unsanitary housing conditions and the acute shortage of decent, safe, and sanitary dwellings for families of lower income and, consistent with the objectives of this chapter, to vest in local public housing agencies the maximum amount of responsibility in the administration of their housing programs. No person should be barred from serving on the board of directors or similar governing body of a local public housing agency because of his tenancy in a low-income housing project.”
 
-1990—Pub. L. 101–625 substituted “low-income housing” for “lower income housing”.
+<b>1990</b>—Pub. L. 101–625 substituted “low-income housing” for “lower income housing”.
 
-1981—Pub. L. 97–35 substituted reference to lower income for reference to low income in two places.
+<b>1981</b>—Pub. L. 97–35 substituted reference to lower income for reference to low income in two places.
 
 #### Effective Date of 1998 Amendment
 
@@ -110,7 +110,7 @@ Pub. L. 110–289, div. B, title VII, §2701, July 30, 2008, 122 Stat. 2863, pro
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–186, title IV, §401, Dec. 16, 2003, 117 Stat. 2693, provided that: “This title \[amending section 1437v of this title and enacting provisions set out as a note under section 1437v of this title\] may be cited as the‘HOPE VI Program Reauthorization and Small Community Mainstreet Rejuvenation and Housing Act of 2003’.”
+Pub. L. 108–186, title IV, §401, Dec. 16, 2003, 117 Stat. 2693, provided that: “This title \[amending section 1437v of this title and enacting provisions set out as a note under section 1437v of this title\] may be cited as the ‘HOPE VI Program Reauthorization and Small Community Mainstreet Rejuvenation and Housing Act of 2003’.”
 
 #### Short Title of 2002 Amendment
 
@@ -176,7 +176,7 @@ Pub. L. 108–7, div. K, title II, §217, Feb. 20, 2003, 117 Stat. 504.
 
 #### Funding of Certain Public Housing
 
-Pub. L. 105–276, title II, §226, Oct. 21, 1998, 112 Stat. 2490, which provided that no funds in this Act or any other Act may hereafter be used by the Secretary of Housing and Urban Development to determine allocations or provide assistance for operating subsidies or modernization for certain State and city funded and locally developed public housing units unless such unit was so assisted before Oct. 1, 1998, was repealed by Pub. L. 108–7, div. K, title II, §212(b), Feb. 20, 2003, 117 Stat. 504.
+Pub. L. 105–276, title II, §226, Oct. 21, 1998, 112 Stat. 2490, which provided that no funds in this Act or any other Act may hereafter be used by the Secretary of Housing and Urban Development to determine allocations or provide assistance for operating subsidies or modernization for certain State and city funded and locally developed public housing units unless such unit was so assisted before Oct. 1, 1998, was repealed by Pub.L. 108–7, div. K, title II, §212(b), Feb. 20, 2003, 117 Stat. 504.
 
 \[Pub. L. 108–7, div. K, title II, §212(d), Feb. 20, 2003, 117 Stat. 504, provided that: “The amendment made by subsection (b) \[repealing section 226 of Pub. L. 105–276, set out above\] shall be deemed to have taken effect on October 21, 1998.”\]
 
@@ -280,7 +280,7 @@ Study.—The Comptroller General of the United States shall conduct a study that
 
 Contents.—The study under this section shall—
 
-&emsp;“(1) analyze the full cost to the Federal Government, public housing agencies, State and local governments, and other parties, per assisted household, of the Federal assisted housing programs, in accordance with generally accepted accounting principles, and shall conduct the analysis on a nationwide and regional basis and in a manner such that accurate per unit cost comparisons may be made between Federal assisted housing programs, including grants, direct subsidies, tax concessions, Federal mortgage insurance liability, periodic renovation and rehabilitation, and modernization costs, demolition costs, and other ancillary costs such as security; and
+&emsp;“(1) analyze the full cost to the Federal Government, public housing agencies, State and local governments, and other parties, per assisted household, of the Federal assisted housing programs, in accordance with generally accepted accounting principles,and shall conduct the analysis on a nationwide and regional basis and in a manner such that accurate per unit cost comparisons may be made between Federal assisted housing programs, including grants, direct subsidies, tax concessions, Federal mortgage insurance liability, periodic renovation and rehabilitation, and modernization costs, demolition costs, and other ancillary costs such as security; and
 
 &emsp;“(2) measure and evaluate qualitative differences among Federal assisted housing programs in accordance with applicable standards of the Department of Housing and Urban Development.
 

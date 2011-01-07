@@ -68,7 +68,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;(1) an agreement that—
 
-&emsp;&emsp;(A) subject to paragraph (2), the Secretary agrees (i) to provide the individual with a scholarship (described in subsection (g) of this section) in each such school year or years for a period of years (not to exceed four school years) determined by the individual, during which period the individual is pursuing a course of study described in subsection (b)(1)(B) of this section, and (ii) to accept (subject to the availability of appropriated funds for carrying out sections 254d through 254h and section 254j of this title) the individual into the Corps (or for equivalent service as otherwise provided in this subpart); and
+&emsp;&emsp;(A) subject to paragraph (2), the Secretary agrees (i) to provide the individual with a scholarship (described in subsection (g) of this section) in each such school year oryears for a period of years (not to exceed four school years) determined by the individual, during which period the individual is pursuing a course of study described in subsection (b)(1)(B) of this section, and (ii) to accept (subject to the availability of appropriated funds for carrying out sections 254d through 254h and section 254j of this title) the individual into the Corps (or for equivalent service as otherwise provided in this subpart); and
 
 &emsp;&emsp;(B) subject to paragraph (2), the individual agrees—
 
@@ -114,7 +114,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 Notwithstanding any other provision of law, individuals who have entered into written contracts with the Secretary under this section, while undergoing academic training, shall not be counted against any employment ceiling affecting the Department.
 
-(July 1, 1944, ch. 373, title III, §338A, formerly title VII, §751, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2281; amended Pub. L. 95–215, §5, Dec. 19, 1977, 91 Stat. 1506; Pub. L. 95–623, §12(c), Nov. 9, 1978, 92 Stat. 3457; Pub. L. 95–626, title I, §113(b), Nov. 10, 1978, 92 Stat. 3563; Pub. L. 96–32, §7(i), July 10, 1979, 93 Stat. 84; renumbered §338A and amended Pub. L. 97–35, title XXVII, §2709(a), (b), Aug. 13, 1981, 95Stat. 908; Pub. L. 99–129, title II, §210(b), Oct. 22, 1985, 99 Stat. 537; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–509, title V, §529 \[title I, §101(b)(4)(K)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 101–597, title II, §201, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3021, 3035; Pub. L. 107–251, title III, §309, Oct. 26, 2002, 116 Stat. 1649; Pub. L. 108–163, §2(j), Dec. 6, 2003, 117 Stat. 2022.)
+(July 1, 1944, ch. 373, title III, §338A, formerly title VII, §751, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2281; amended Pub. L. 95–215, §5, Dec. 19, 1977, 91 Stat. 1506; Pub. L. 95–623, §12(c), Nov. 9, 1978, 92 Stat. 3457; Pub. L. 95–626, title I, §113(b), Nov. 10, 1978, 92 Stat. 3563; Pub. L. 96–32, §7(i), July 10, 1979, 93 Stat. 84; renumbered §338A and amended Pub. L. 97–35, title XXVII, §2709(a), (b), Aug. 13, 1981, 95 Stat. 908; Pub. L. 99–129, title II, §210(b), Oct. 22, 1985, 99 Stat. 537; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–509, title V, §529 \[title I, §101(b)(4)(K)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 101–597, title II, §201, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3021, 3035; Pub. L. 107–251, title III, §309, Oct. 26, 2002, 116 Stat. 1649; Pub. L. 108–163, §2(j), Dec. 6, 2003, 117 Stat. 2022.)
 
 #### References in Text
 
@@ -130,9 +130,9 @@ Section was formerly classified to section 294t of this title prior to its renum
 
 #### Amendments
 
-2003—Subsec. (d)(1)(B). Pub. L. 108–163 realigned margin.
+<b>2003</b>—Subsec. (d)(1)(B). Pub. L. 108–163 realigned margin.
 
-2002—Subsec. (a)(1). Pub. L. 107–251, §309(1), inserted “behavioral and mental health professionals,” after “dentists,”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–251, §309(1), inserted “behavioral and mental health professionals,” after “dentists,”.
 
 Subsec. (b)(1)(B). Pub. L. 107–251, §309(2), inserted “, or an appropriate degree from a graduate program of behavioral and mental health” after “other health profession”.
 
@@ -146,7 +146,7 @@ Subsec. (f)(3). Pub. L. 107–251, §309(5)(B), made technical amendment to refe
 
 Subsec. (i). Pub. L. 107–251, §309(6), struck out subsec. (i), which required an annual report to Congress on the Scholarship Program.
 
-1990—Subsec. (a). Pub. L. 101–597, §201(a)(1), substituted “Corps Scholarship Program to assure, with respect to the provision of primary health services pursuant to section 254d(a)(2) of this title—” and pars. (1) and (2) for “Corps Scholarship Program (hereinafter in this subpart referred to as the ‘Scholarship Program’) to assure an adequate supply of trained physicians, dentists, and nurses for the National Health Service Corps (hereinafter in this subpart referred to as the ‘Corps’) and, if needed by the Corps, podiatrists, optometrists, pharmacists, clinical psychologists, graduates of schools of veterinary medicine, graduates of schools of public health, graduates of programs in health administration, graduates of programs for the training of physician assistants, expanded function dental auxiliaries, and nurse practitioners (as defined in section 296m of this title), and other health professionals.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–597, §201(a)(1), substituted “Corps Scholarship Program to assure, with respect to the provision of primary health services pursuant to section 254d(a)(2) of this title—” and pars. (1) and (2) for “Corps Scholarship Program (hereinafter in this subpart referred to as the ‘Scholarship Program’) to assure an adequate supply of trained physicians, dentists, and nurses for the National Health Service Corps (hereinafter in this subpart referred to as the ‘Corps’) and, if needed by the Corps, podiatrists, optometrists, pharmacists, clinical psychologists, graduates of schools of veterinary medicine, graduates of schools of public health, graduates of programs in health administration, graduates of programs for the training of physician assistants, expanded function dental auxiliaries, and nurse practitioners (as defined in section 296m of this title), and other health professionals.”
 
 Subsec. (b)(4). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
 
@@ -182,11 +182,11 @@ Subsec. (i)(6). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to hea
 
 Pub. L. 101–597, §201(d)(2)(C), added par. (6).
 
-1988—Subsec. (b)(1). Pub. L. 100–607 substituted “osteopathic medicine” for “osteopathy”.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–607 substituted “osteopathic medicine” for “osteopathy”.
 
-1985—Subsec. (g)(1). Pub. L. 99–129 struck out “or under section 294z of this title (relating to scholarships for first-year students of exceptional financial need),” after “Scholarship Program”.
+<b>1985</b>—Subsec. (g)(1). Pub. L. 99–129 struck out “or under section 294z of this title (relating to scholarships for first-year students of exceptional financial need),” after “Scholarship Program”.
 
-1981—Subsec. (a). Pub. L. 97–35, §2709(b)(1), inserted reference to clinical psychologists.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §2709(b)(1), inserted reference to clinical psychologists.
 
 Subsec. (c). Pub. L. 97–35, §2709(b)(2), (3), substituted “254<i>o</i>” for “294w” in par. (1), and inserted provisions relating to information concerning meeting the service obligation in par. (2).
 
@@ -194,13 +194,13 @@ Subsec. (f). Pub. L. 97–35, §2709(b)(4)–(6), in par. (1) substituted refere
 
 Subsec. (j). Pub. L. 97–35, §2709(b)(7), struck out subsec. (j) which related to consultation and participation of schools.
 
-1979—Subsec. (g)(3). Pub. L. 96–32 substituted “section 5305 of title 5” for “section 5303 of title 5”.
+<b>1979</b>—Subsec. (g)(3). Pub. L. 96–32 substituted “section 5305 of title 5” for “section 5303 of title 5”.
 
-1978—Subsec. (f). Pub. L. 95–626 substituted “subpart II of part D” for “subpart II of part C” in pars. (1)(A) and (2).
+<b>1978</b>—Subsec. (f). Pub. L. 95–626 substituted “subpart II of part D” for “subpart II of part C” in pars. (1)(A) and (2).
 
 Subsec. (i). Pub. L. 95–623 substituted March 1 for December 1 as the date for Secretary's annual report to Congress.
 
-1977—Subsec. (d)(2). Pub. L. 95–215 substituted provisions relating to the school years beginning in calendar years 1978 and 1979 for provisions relating to the school year ending in the fiscal year beginning Oct. 1, 1977.
+<b>1977</b>—Subsec. (d)(2). Pub. L. 95–215 substituted provisions relating to the school years beginning in calendar years 1978 and 1979 for provisions relating to the school year ending in the fiscal year beginning Oct. 1, 1977.
 
 #### Effective Date of 2003 Amendment
 

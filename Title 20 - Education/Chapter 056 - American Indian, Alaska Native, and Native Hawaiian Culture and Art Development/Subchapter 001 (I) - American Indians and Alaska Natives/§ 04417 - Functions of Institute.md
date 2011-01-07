@@ -36,7 +36,7 @@ In addition to the centers and programs described in subsection (b) of this sect
 
 #### Amendments
 
-1992—Subsec. (b). Pub. L. 102–325 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There shall be established within the Institute—
+<b>1992</b>—Subsec. (b). Pub. L. 102–325 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There shall be established within the Institute—
 
 &emsp;“(1) a Center for Culture and Art Studies to be administered by a director (appointed by the President of the Institute, with the approval of the Board), which shall include (but not be limited to) Departments of Arts and Sciences, Visual Arts, Performing Arts, Language, Literature, and Museology;
 
@@ -60,7 +60,7 @@ In addition to the centers and programs described in subsection (b) of this sect
 
 &emsp;“(3) a Museum of American Indian and Alaska Native Arts, which shall be under the direction of the President of the Institute.”
 
-1990—Subsec. (b)(2). Pub. L. 101–644, §502(1), redesignated subpars. (B) to (I) as (A) to (H), respectively, andstruck out former subpar. (A) which related to a museum of Indian arts.
+<b>1990</b>—Subsec. (b)(2). Pub. L. 101–644, §502(1), redesignated subpars. (B) to (I) as (A) to (H), respectively, and struck out former subpar. (A) which related to a museum of Indian arts.
 
 Subsec. (b)(3). Pub. L. 101–644, §502(2)–(4), added par. (3).
 

@@ -58,6 +58,8 @@ Subject to the provisions of this chapter, every officer of the Department shall
 
 The Inspector General Act of 1978, referred to in subsec. (b), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+This chapter, referred to in subsecs. (c) and (f), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+
 #### Amendments
 
 2008—Subsec. (d)(3) to (5). Pub. L. 110–388 redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “A Chief Human Capital Officer.”

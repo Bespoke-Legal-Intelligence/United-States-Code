@@ -16,7 +16,7 @@ The Secretary of State is authorized—
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–277, §1223(9)(A)(v), (vi), made technical amendment to reference in original act which appears in text as reference to section 2567 of this title, and struck out “the” after “serve as” in second sentence.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §1223(9)(A)(v), (vi), made technical amendment to reference in original act which appears in text as reference to section 2567 of this title, and struck out “the” after “serve as” in second sentence.
 
 Pub. L. 105–277, §1223(9)(A)(iv), which directed amendment of subsec. (a) by striking “and shall have primary responsibility, whenever directed by the President, for the preparation, conduct, and management of the United States participation in international negotiations and implementation fora in the field of nonproliferation” before period at end of first sentence, was executed by striking language which did not include the word “the” before “United States” to reflect the probable intent of Congress.
 
@@ -36,7 +36,7 @@ Pub. L. 105–277, §1223(9)(B), struck out subsec. (b) which read as follows: �
 
 Subsec. (c). Pub. L. 105–277, §1223(9)(C), redesignated subsec. (c) as (b).
 
-1994—Pub. L. 103–236 amended section generally. Prior to amendment, section related to powers and duties of Director to consult with representatives of the United States and other nations, to provide official United States positions on arms control and disarmament matters to the United States Information Agency, and to formulate and implement plans for arms control inspection and control systems.
+<b>1994</b>—Pub. L. 103–236 amended section generally. Prior to amendment, section related to powers and duties of Director to consult with representatives of the United States and other nations, to provide official United States positions on arms control and disarmament matters to the United States Information Agency, and to formulate and implement plans for arms control inspection and control systems.
 
 #### Effective Date of 1998 Amendment
 

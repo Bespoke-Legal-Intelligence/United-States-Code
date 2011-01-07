@@ -28,7 +28,7 @@ The Safe Drinking Water Act, referred to in subsec. (b)(4)(B)(ii), is title XIV 
 
 #### Amendments
 
-1996—Pub. L. 104–182 substituted “(a) Except as provided in subsection (b) of this section, whenever” for “Whenever” and added subsec. (b).
+<b>1996</b>—Pub. L. 104–182 substituted “(a) Except as provided in subsection (b) of this section, whenever” for “Whenever” and added subsec. (b).
 
 #### Bottled Water Study
 

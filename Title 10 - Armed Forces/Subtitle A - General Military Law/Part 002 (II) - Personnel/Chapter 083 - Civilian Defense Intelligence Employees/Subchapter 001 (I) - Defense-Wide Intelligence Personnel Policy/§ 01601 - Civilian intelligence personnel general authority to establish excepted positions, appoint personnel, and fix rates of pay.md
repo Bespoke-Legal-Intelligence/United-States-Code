@@ -28,7 +28,7 @@ Provisions similar to those in this section were contained in sections 1590(a) a
 
 #### Amendments
 
-2000—Subsec. (a)(1). Pub. L. 106–398, in introductory provisions, substituted “in the Department of Defense” for “in the intelligence components of the Department of Defense and the military departments” and “of the Department” for “of those components and departments”.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–398, in introductory provisions, substituted “in the Department of Defense” for “in the intelligence components of the Department of Defense and the military departments” and “of the Department” for “of those components and departments”.
 
 #### Effective Date
 
@@ -36,7 +36,7 @@ Section effective Oct. 1, 1996, see section 1635 of Pub. L. 104–201, set out a
 
 #### Short Title of 1996 Amendment
 
-Section 1631 of Pub. L. 104–201 provided that: “This subtitle \[subtitle B (§§1631–1635) of title XVI of div. A of Pub. L. 104–201, enacting this section and sections 1602, 1603, 1606 to 1610, and 1612 to 1614 of this title, amending sections 1593, 1596, 1605, 1611, and 1621 of this title and sections 7103 and 7511 of Title 5, Government Organization and Employees, renumbering sections 1599, 1602, 1606, and 1608 of this title as sections 1611, 1621, 1622, and 1623 of this title, respectively, repealing sections 1590, 1601, 1603, and 1604 of this title and section 833 of Title 50, War and National Defense, enacting provisions setout as a note under section 1593 of this title, and repealing provisions set out as a note under section 402 of Title 50\] may be cited as the ‘Department of Defense Civilian Intelligence Personnel Policy Act of 1996’.”
+Section 1631 of Pub. L. 104–201 provided that: “This subtitle \[subtitle B (§§1631–1635) of title XVI of div. A of Pub. L. 104–201, enacting this section and sections 1602, 1603, 1606 to 1610, and 1612 to 1614 of this title, amending sections 1593, 1596, 1605, 1611, and 1621 of this title and sections 7103 and 7511 of Title 5, Government Organization and Employees, renumbering sections 1599, 1602, 1606, and 1608 of this title as sections 1611, 1621, 1622, and 1623 of this title, respectively, repealing sections 1590, 1601, 1603, and 1604 of this title and section 833 of Title 50, War and National Defense, enacting provisions set out as a note under section 1593 of this title, and repealing provisions set out as a note under section 402 of Title 50\] may be cited as the ‘Department of Defense Civilian Intelligence Personnel Policy Act of 1996’.”
 
 #### Delegation of Authority
 

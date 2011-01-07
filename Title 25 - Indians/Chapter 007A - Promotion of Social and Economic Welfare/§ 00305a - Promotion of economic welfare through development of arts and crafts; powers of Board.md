@@ -4,15 +4,11 @@ It shall be the function and the duty of the Secretary of the Interior through t
 
 (Aug. 27, 1935, ch. 748, §2, 49 Stat. 891; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784; Pub. L. 101–644, title I, §102, Nov. 29, 1990, 104 Stat. 4662.)
 
-#### References in Text
-
-The civil-service laws, referred to in text, are set out in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 #### Codification
 
 The proviso in clause (h) originally provided that the Classification Act of 1923, as amended, shall be applicable to all permanent employees except executive officers, and that all employees other than executive officers shall be appointed in accordance with the civil-service laws from lists of eligibles to be supplied by the Civil Service Commission. The exception of “executive officers” has been omitted as obsolete and superseded.
 
-Sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the 1923 Act and all laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect ofcontinuing the exception in clause (h) because of section 1106(b) which provided that the application of the 1949 Act to any position, officers, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632 (of which section 1 revised and enacted Title 5, Government Organization and Employees, into law). Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
+Sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the 1923 Act and all laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exception in clause (h) because of section 1106(b) which provided that the application of the 1949 Act to any position, officers, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632 (of which section 1 revised and enacted Title 5, Government Organization and Employees, into law). Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
 
 Such appointments are subject to the civil service laws unless specifically excepted by such laws or by laws enacted subsequent to Executive Order 8743, Apr. 23, 1941, issued by the President pursuant to the Act of Nov. 26, 1940, ch. 919, title I, §1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5.
 
@@ -20,13 +16,13 @@ Such appointments are subject to the civil service laws unless specifically exce
 
 #### Amendments
 
-1990—Pub. L. 101–644, §102(1), in first sentence, substituted “the Secretary of the Interior through the Board” for “the Board” and “Indian individuals” for “the Indian wards of the Government”.
+<b>1990</b>—Pub. L. 101–644, §102(1), in first sentence, substituted “the Secretary of the Interior through the Board” for “the Board” and “Indian individuals” for “the Indian wards of the Government”.
 
-Pub. L. 101–644, §102(2), in second sentence, amended cl. (g) generally. Prior to amendment, cl. (g) read as follows: “to create Government trade marks of genuineness and quality for Indian products and the products of particular Indian tribes or groups; to establish standards and regulations for the use of such trade marks; to license corporations, associations, or individuals to use them; and to charge a fee for their use; to register them in the United States Patent Office without charge;”.
+Pub. L. 101–644, §102(2), in second sentence, amended cl. (g) generally. Prior to amendment, cl. (g) read asfollows: “to create Government trade marks of genuineness and quality for Indian products and the products of particular Indian tribes or groups; to establish standards and regulations for the use of such trade marks; to license corporations, associations, or individuals to use them; and to charge a fee for their use; to register them in the United States Patent Office without charge;”.
 
 Pub. L. 101–644, §102(3), inserted sentence at end defining “Indian arts and crafts organization”.
 
-1949—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+<b>1949</b>—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
 #### Repeals
 

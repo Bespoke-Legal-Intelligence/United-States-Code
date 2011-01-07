@@ -14,13 +14,13 @@ Enforcement Assistance Outreach Plan.—The Federal Motor Carrier Safety Adminis
 
 (d)
 
-State Authority Defined.—In this section, the term “State authority” means anagency of a State that has authority under the laws of the State to regulate the intrastate movement of household goods.
+State Authority Defined.—In this section, the term “State authority” means an agency of a State that has authority under the laws of the State to regulate the intrastate movement of household goods.
 
 (Added Pub. L. 109–59, title IV, §4206(b)(1), Aug. 10, 2005, 119 Stat. 1754; amended Pub. L. 109–115, div. A, title I, §173(a), (b), Nov. 30, 2005, 119 Stat. 2426.)
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–115, §173(a), (e), temporarily substituted “a State authority other than the attorney general of the state may, as parens patriae,” for “a State authority may” in first sentence and inserted second sentence which read as follows: “Any civil action for injunctive relief to enjoin such delivery or transportation or to compel a person to pay a fine or penalty assessed under chapter 149 shall be brought in an appropriate district court of the United States.” See Termination Date of 2005 Amendment note below.
+<b>2005</b>—Subsec. (a). Pub. L. 109–115, §173(a), (e), temporarily substituted “a State authority other than the attorney general of the state may, as parens patriae,” for “a State authority may” in first sentence and inserted second sentence which read as follows: “Any civil action for injunctive relief to enjoin such delivery or transportation or to compel a person to pay a fine or penalty assessed under chapter 149 shall be brought in an appropriate district court of the United States.” See Termination Date of 2005 Amendment note below.
 
 Subsec. (b). Pub. L. 109–115, §173(b), (e), temporarily amended subsec. (b) to read as follows: “
 
@@ -30,9 +30,13 @@ Exercise of Enforcement Authority.—The authority of this section shall be exer
 
 Pub. L. 109–115, div. A, title I, §173(e), Nov. 30, 2005, 119 Stat. 2426, provided that: “The amendments made by this section \[amending this section and section 14711 of this title\] shall cease to be in effect after September 30, 2006.”
 
+#### Deemed References to Chapters 509 and 511 of Title 51
+
+General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+
 #### Working Group for Development of Practices and Procedures To Enhance Federal-State Relations
 
-Pub. L. 109–59, title IV, §4213, Aug. 10, 2005, 119 Stat. 1759, provided that:
+Pub. L. 109–59, title IV, §4213, Aug. 10, 2005, 119 Stat. 1759, as amended by Pub. L. 111–147, title IV, §422(j), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(j), Dec. 22, 2010, 124 Stat. 3525, provided that:
 
 “(a)
 
@@ -48,7 +52,7 @@ Federal Advisory Committee Act Exemption.—The Federal Advisory Committee Act (
 
 “(d)
 
-Termination Date.—The working group shall remain in effect until September 30, 2009.”
+Termination Date.—The working group shall remain in effect until March 4, 2011.”
 
 \[For definitions of “household goods”, “Secretary”, and “transportation” as used in section 4213 of Pub. L. 109–59, set out above, see section 4202(a) of Pub. L. 109–59, set out as a note under section 13102 of this title.\]
 

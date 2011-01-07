@@ -40,7 +40,7 @@ Payment of a trade readjustment allowance shall be made to an adversely affected
 
 &emsp;&emsp;(ii) the enrollment required under clause (i) occurs no later than the latest of—
 
-&emsp;&emsp;&emsp;(I) in the case of a worker whose most recent total separation from adversely affected employment that meets the requirements of paragraphs (1) and (2) occurs after the date on which the Secretary issues a certification covering the worker, the last day of the 26th week after such total separation,
+&emsp;&emsp;&emsp;(I) in the case of a worker whose most recent total separation from adversely affected employment that meets the requirements of paragraphs (1) and (2) occurs after the date on which the Secretary issues a certification covering the worker, the lastday of the 26th week after such total separation,
 
 &emsp;&emsp;&emsp;(II) in the case of a worker whose most recent total separation from adversely affected employment that meets the requirements of paragraphs (1) and (2) occurs before the date on which the Secretary issues a certification covering the worker, the last day of the 26th week after the date of such certification,
 
@@ -148,13 +148,13 @@ If—
 
 #### References in Text
 
-The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (a)(4), is title II of Pub. L. 91–373, Aug. 10, 1970, 84 Stat. 708, as amended, which is classified generally as a note under section 3304 of Title 26, Internal Revenue Code. Section 202(a)(3) of such Act, referred to in subsec. (a)(4), is set out in the note under section 3304 of Title 26. For complete classification of this Act to the Code, see Tables.
+The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (a)(4), is title II of Pub. L. 91–373, Aug. 10, 1970, 84 Stat. 708, which is classified generally as a note under section 3304 of Title 26, Internal Revenue Code. Section 202(a)(3) of such Act, referred to in subsec. (a)(4), is set out in the note under section 3304 of Title 26. For complete classification of this Act to the Code, see Tables.
 
-The Social Security Act, referred to in subsec. (c)(1)(C)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(1)(C)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–5, §§1821(c)(1)(A), 1893, temporarily substituted “on or after the date of such certification” for “more than 60 days after the date on which the petition that resulted in such certification was filed under section 2271 of this title” in introductory provisions. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Subsec. (a). Pub. L. 111–5, §§1821(c)(1)(A), 1893, temporarily substituted “on or after the date of such certification” for “more than 60 days after the date on which the petition that resulted in such certification was filed under section 2271 of this title” in introductory provisions. See Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (a)(1). Pub. L. 111–5, §§1858(b)(1)(A), 1893, temporarily substituted “the worker's application” for “his application” in introductory provisions. See Effective and Termination Dates of 2009 Amendment note below.
 
@@ -202,9 +202,9 @@ Subsec. (c)(3)(A). Pub. L. 111–5, §§1821(b)(3)(A), 1893, temporarily substit
 
 Subsec. (c)(3)(B), (C). Pub. L. 111–5, §§1821(b)(3)(B), (C), 1893, temporarily added subpar. (B) and redesignated former subpar. (B) as (C). See Effective and Termination Dates of 2009 Amendment note below.
 
-2006—Subsec. (c)(1)(F). Pub. L. 109–270 substituted “area career and technical education schools” for “area vocational education schools” and made technical amendment to reference in original act which appears in text as reference to section 2302 of title 20.
+<b>2006</b>—Subsec. (c)(1)(F). Pub. L. 109–270 substituted “area career and technical education schools” for “area vocational education schools” and made technical amendment to reference in original act which appears in text as reference to section 2302 of title 20.
 
-2002—Subsec. (a)(3)(B). Pub. L. 107–210, §114(a), inserted “, except additional compensation that is funded by a State and is not reimbursed from any Federal funds,” after “any unemployment insurance”.
+<b>2002</b>—Subsec. (a)(3)(B). Pub. L. 107–210, §114(a), inserted “, except additional compensation that is funded by a State and is not reimbursed from any Federal funds,” after “any unemployment insurance”.
 
 Subsec. (a)(5)(A). Pub. L. 107–210, §114(b), designated existing provisions as cl. (i) and added cl. (ii).
 
@@ -212,9 +212,9 @@ Subsec. (a)(5)(C). Pub. L. 107–210, §115(b), struck out “certified” after
 
 Subsec. (c). Pub. L. 107–210, §115(a), inserted heading and amended text generally, substituting provisions relating to issuance and duration of waivers of training requirements for provisions relating to approval of training programs, written certifications, revocation, and reports.
 
-1992—Subsec. (a)(2). Pub. L. 102–318 added subpar. (D) and substituted “subparagraph (A) or (C), or both (and not more than 26 weeks, in the case of weeks described in subparagraph (B) or (D))” for “paragraph (A) or (C), or both” in closing provisions.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–318 added subpar. (D) and substituted “subparagraph (A) or (C), or both (and not more than 26 weeks, in the case of weeks described in subparagraph (B) or (D))” for “paragraph (A) or (C), or both” in closing provisions.
 
-1988—Subsec. (a)(5). Pub. L. 100–418, §1423(a)(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “Such worker, unless the Secretary has determined that no acceptable job search program is reasonably available—
+<b>1988</b>—Subsec. (a)(5). Pub. L. 100–418, §1423(a)(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “Such worker, unless the Secretary has determined that no acceptable job search program is reasonably available—
 
 &emsp;“(A) is enrolled in a job search program approved by the Secretary under section 2297(c) of this title, or
 
@@ -224,19 +224,19 @@ Subsec. (b). Pub. L. 100–418, §1423(a)(2), amended subsec. (b) generally, sub
 
 Subsec. (c). Pub. L. 100–418, §1423(a)(3), amended subsec. (c) generally, substituting provisions relating to approval of training programs, written certifications, revocation of certification, and annual report, for provisions relating to withholding of trade readjustment allowance pending beginning or resumption of participation in job search program.
 
-1986—Subsec. (a)(2). Pub. L. 99–272, §13003(b), substituted provisions restricting to no more than 7 the number of weeks to be treated as weeks of employment under this sentence for provisions designated as clauses (i) to (iii), limiting the weeks that may be treated as weeks of employment to 3, 7, and 7, respectively, under certain conditions.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–272, §13003(b), substituted provisions restricting to no more than 7 the number of weeks to be treated as weeks of employment under this sentence for provisions designated as clauses (i) to (iii), limiting the weeks that may be treated as weeks of employment to 3, 7, and 7, respectively, under certain conditions.
 
 Subsec. (a)(5). Pub. L. 99–272, §13003(a)(1), added par. (5).
 
 Subsec. (c). Pub. L. 99–272, §13003(a)(2), added subsec. (c).
 
-1981—Pub. L. 97–35 designated existing provisions as subsec. (a), substituted provisions respecting applicability of date upon which petition was filed for provisions respecting applicability of date specified in certification under section 2273(a) of this title, substantially revised and reorganized conditions by, among other changes, adding pars. (3) and (4), and added subsec. (b).
+<b>1981</b>—Pub. L. 97–35 designated existing provisions as subsec. (a), substituted provisions respecting applicability of date upon which petition was filed for provisions respecting applicability of date specified in certification under section 2273(a) of this title, substantially revised and reorganized conditions by, among other changes, adding pars. (3) and (4), and added subsec. (b).
 
 #### Effective and Termination Dates of 2009 Amendment
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 
 #### Effective Date of 2002 Amendment
 
@@ -268,7 +268,7 @@ Extension and Authorization.—Chapters 2 and 3 of title II of the Trade Act of 
 
 “(d)
 
-Application of Gramm-Rudman.—Trade readjustment allowances payable under part I \[of subchapter B\] of chapter 2 of title II of the Trade Act of 1974 \[19 U.S.C. 2291 et seq.\] for the period from March 1, 1986, and until October 1, 1986, shall be reduced by a percentage equal to the non-defense sequester percentage applied in the Sequestration Report (submitted under the Balanced Budget and Emergency Deficit Control Act of 1985 \[see Short Title note set out under section 900 of Title 2, The Congress\] and dated January 21, 1986) of the Comptroller General of the United States for fiscal year 1986.”
+Application of Gramm-Rudman.—Trade readjustment allowances payable under part I \[of subchapter B\] of chapter 2 of title II of the Trade Act of 1974 \[19 U.S.C. 2291 et seq.\] for the period from March 1, 1986, and until October 1, 1986, shall be reduced by a percentage equal to the non-defense sequester percentage applied in the Sequestration Report (submitted underthe Balanced Budget and Emergency Deficit Control Act of 1985 \[see Short Title note set out under section 900 of Title 2, The Congress\] and dated January 21, 1986) of the Comptroller General of the United States for fiscal year 1986.”
 
 #### Effective Date of 1981 Amendment and Transition Provisions
 
@@ -306,5 +306,5 @@ Pub. L. 97–35, title XXV, §2514, Aug. 13, 1981, 95 Stat. 889, as amended by P
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2010, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Feb. 12, 2011, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

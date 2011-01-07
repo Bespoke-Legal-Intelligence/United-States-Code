@@ -20,7 +20,7 @@
 
 (d) Grievance procedures prescribed under subsection (a) shall include the following:
 
-&emsp;(1) A right to formal review by an impartial examiner within the Department of Veterans Affairs, who, in the case of an adverse action arising from a question of professional conduct or competence, shall be selected from thepanel designated under section 7464 of this title.
+&emsp;(1) A right to formal review by an impartial examiner within the Department of Veterans Affairs, who, in the case of an adverse action arising from a question of professional conduct or competence, shall be selected from the panel designated under section 7464 of this title.
 
 &emsp;(2) A right to a prompt report of the findings and recommendations by the impartial examiner.
 

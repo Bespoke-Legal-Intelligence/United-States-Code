@@ -12,7 +12,7 @@ Expenditures for technical assistance under this section may be up to $10,000,00
 
 #### Renumbering of Section
 
-For termination of renumbering of section by section 1893 of Pub. L. 111–5, see Termination Date of 2009 Amendment note set out preceding section 2271 of this title.
+<i>For termination of renumbering of section by section 1893 of Pub. L. 111–5, see Termination Date of 2009 Amendment note set out preceding section 2271 of this title.</i>
 
 #### Prior Provisions
 
@@ -20,7 +20,7 @@ A prior section 262 of Pub. L. 93–618 was temporarily renumbered section 260 a
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–369, §2673(1), inserted “or workers” after “of firms” and inserted reference to section 2273 of this title.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §2673(1), inserted “or workers” after “of firms” and inserted reference to section 2273 of this title.
 
 Subsec. (b). Pub. L. 98–369, §2673(2), substituted “$10,000,000” for “$2,000,000”.
 
@@ -30,5 +30,5 @@ Section effective Aug. 13, 1981, except as otherwise provided with respect to ap
 
 #### Termination Date
 
-Except as otherwise provided, technical assistance and grants may not be provided under this part after Dec. 31, 2010, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+Except as otherwise provided, technical assistance and grants may not be provided under this section after Feb. 12, 2011, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

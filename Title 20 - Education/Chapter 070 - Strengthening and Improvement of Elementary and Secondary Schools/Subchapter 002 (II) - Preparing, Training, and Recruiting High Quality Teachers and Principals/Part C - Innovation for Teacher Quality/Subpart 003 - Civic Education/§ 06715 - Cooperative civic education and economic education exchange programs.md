@@ -28,7 +28,7 @@ In carrying out the cooperative education exchange programs assisted under this 
 
 &emsp;(1) provide to the participants from eligible countries—
 
-&emsp;&emsp;(A) seminars on the basic principles of United States constitutional democracy and economic system, including seminars on themajor governmental and economic institutions and systems in the United States, and visits to such institutions;
+&emsp;&emsp;(A) seminars on the basic principles of United States constitutional democracy and economic system, including seminars on the major governmental and economic institutions and systems in the United States, and visits to such institutions;
 
 &emsp;&emsp;(B) visits to school systems, institutions of higher education, and nonprofit organizations conducting exemplary programs in civics and government education, and economic education, in the United States;
 
@@ -60,7 +60,7 @@ In carrying out the cooperative education exchange programs assisted under this 
 
 #### (d) Participants
 
-The primary participants in the cooperative education exchange programs assisted under this section shall be educational leaders in the areas of civics and government education, and economic education, including teachers, curriculum and teacher training specialists, scholars in relevant disciplines, and educational policymakers, and government and private sector leaders from the United States and eligible countries.
+The primary participants in the cooperative education exchange programs assisted underthis section shall be educational leaders in the areas of civics and government education, and economic education, including teachers, curriculum and teacher training specialists, scholars in relevant disciplines, and educational policymakers, and government and private sector leaders from the United States and eligible countries.
 
 #### (e) Consultation
 

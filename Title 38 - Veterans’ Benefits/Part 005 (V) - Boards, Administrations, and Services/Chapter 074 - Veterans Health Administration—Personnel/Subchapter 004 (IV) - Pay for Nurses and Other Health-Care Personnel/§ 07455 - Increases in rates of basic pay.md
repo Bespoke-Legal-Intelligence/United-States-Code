@@ -36,9 +36,9 @@
 
 &emsp;(3) to recruit personnel with specialized skills, especially those with skills which are especially difficult or demanding.
 
-(c)(1) The amount of any increase under subsection (a) in the maximum rate for any grade may not (except in the case of nurse anesthetists, pharmacists, and licensed physical therapists) exceed by two times the amount by which the maximum for such grade (under applicable provisions of law other than this subsection) exceeds the minimum for such grade (under applicable provisions of law other than this subsection), and the maximum rate as so increased may not exceed the rate paid for individuals serving as Assistant Under Secretary for Health.
+(c)(1) Subject to paragraph (2), the amount of any increase under subsection (a) in the minimum rate for any grade may not (except in the case of nurse anesthetists, licensed practical nurses, licensed vocational nurses, nursing positions otherwise covered by title 5, pharmacists, and licensed physical therapists) exceed the maximum rate of basic pay (excluding any locality-based comparability payment under section 5304 of title 5 or similar provision of law) for the grade or level by more than 30 percent.
 
-(2) Whenever the amount of an increase under subsection (a) results in a rate of basic pay for a position being equal to or greater than the amount that is 94 percent of the maximum amount permitted under paragraph (1), the Secretary shall promptly notify the Committees on Veterans’ Affairs of the Senate and House of Representatives of the increase and the amount thereof.
+(2) No rate may be established under this section in excess of the rate of basic pay payable for level IV of the Executive Schedule.
 
 (d)(1) In the exercise of the authority provided in subsection (a) with respect to personnel described in subparagraph (B) or (C) of paragraph (2) of that subsection to increase the rates of basic pay for any category of personnel not appointed under subchapter I, the Secretary shall, not less than 45 days before the effective date of a proposed increase, notify the President of the Secretary's intention to provide such an increase.
 
@@ -46,7 +46,11 @@
 
 (3) If, before that effective date, the President approves such increase, the Secretary may advance the effective date to any date not earlier than the date of the President's approval.
 
-(Added Pub. L. 102–40, title IV, §401(b)(4), May 7, 1991, 105 Stat. 234; amended Pub. L. 102–83, §2(c)(7), Aug. 6, 1991, 105 Stat. 402; Pub. L. 102–405, title II, §201, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984; Pub. L. 106–419, title II, §203, Nov. 1, 2000, 114 Stat. 1841.)
+(Added Pub. L. 102–40, title IV, §401(b)(4), May 7, 1991, 105 Stat. 234; amended Pub. L. 102–83, §2(c)(7), Aug. 6, 1991, 105 Stat. 402; Pub. L. 102–405, title II, §201, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984; Pub. L. 106–419, title II, §203, Nov. 1, 2000, 114 Stat. 1841; Pub. L. 111–163, title VI, §601(<i>l</i>), May 5, 2010, 124 Stat. 1172.)
+
+#### References in Text
+
+Level IV of the Executive Schedule, referred to in subsec. (c)(2), is set out in section 5315 of Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 
@@ -54,13 +58,19 @@ Provisions similar to those in this section were contained in section 4107(g) of
 
 #### Amendments
 
-2000—Subsec. (c)(1). Pub. L. 106–419 inserted “, pharmacists,” after “anesthetists”.
+<b>2010</b>—Subsec. (c). Pub. L. 111–163 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
-1992—Subsec. (c). Pub. L. 102–405, §302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” in par. (1).
+“(c)(1) The amount of any increase under subsection (a) in the maximum rate for any grade may not (except in the case of nurse anesthetists, pharmacists, and licensed physical therapists) exceed by two times the amount by which the maximum for such grade (under applicable provisions of law other than this subsection) exceeds the minimum for such grade (under applicable provisions of law other than this subsection), and the maximum rate as so increased may not exceed the rate paid for individuals serving as Assistant Under Secretary for Health.
+
+“(2) Whenever the amount of an increase under subsection (a) results in a rate of basic pay for a position being equal to or greater than the amount that is 94 percent of the maximum amount permitted under paragraph (1), the Secretary shall promptly notify the Committees on Veterans’ Affairs of the Senate and House of Representatives of the increase and the amount thereof.”
+
+<b>2000</b>—Subsec. (c)(1). Pub. L. 106–419 inserted “, pharmacists,” after “anesthetists”.
+
+<b>1992</b>—Subsec. (c). Pub. L. 102–405, §302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” in par. (1).
 
 Pub. L. 102–405, §201, designated existing provisions as par. (1), inserted “by two times” after first reference to “exceed”, and added par. (2).
 
-1991—Subsec. (a)(2)(C). Pub. L. 102–83 substituted “902” for “218”.
+<b>1991</b>—Subsec. (a)(2)(C). Pub. L. 102–83 substituted “902” for “218”.
 
 #### Ex. Ord. No. 12797. Review of Increases in Rates of Basic Pay for Certain Employees of Department of Veterans Affairs and Other Agencies
 

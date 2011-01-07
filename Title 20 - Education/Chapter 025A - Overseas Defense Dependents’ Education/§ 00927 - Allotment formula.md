@@ -30,7 +30,7 @@ Any regulation under subsection (a) of this section shall be issued, and shall b
 
 #### (2) Infants and toddlers with disabilities
 
-&emsp;The responsibility to provide comparable early intervention services to infants and toddlers with disabilities and their families in accordance with individualized family service plans described in section 636 of the Individuals with Disabilities Education Act \[20 U.S.C.1436\] and to comply with the procedural safeguards set forth in part C of such Act \[20 U.S.C. 1431 et seq.\] shall apply with respect to all eligible dependents overseas.
+&emsp;The responsibility to provide comparable early intervention services to infants and toddlers with disabilities and their families in accordance with individualized family service plans described in section 636 of the Individuals with Disabilities Education Act \[20 U.S.C. 1436\] and to comply with the procedural safeguards set forth in part C of such Act \[20 U.S.C. 1431 et seq.\] shall apply with respect to all eligible dependents overseas.
 
 #### (3) Implementation
 
@@ -44,15 +44,15 @@ The Individuals with Disabilities Education Act, referred to in subsec. (c)(1), 
 
 #### Amendments
 
-2004—Subsec. (c)(2). Pub. L. 108–446 substituted “section 636” for “section 677” and “part C” for “part H”.
+<b>2004</b>—Subsec. (c)(2). Pub. L. 108–446 substituted “section 636” for “section 677” and “part C” for “part H”.
 
-1999—Subsec. (b). Pub. L. 106–65, §354(3)(A), substituted “Secretary of Education” for “Department of Health, Education, and Welfare” and made technical amendment to reference in original act which appears in text as reference to section 1232 of this title.
+<b>1999</b>—Subsec. (b). Pub. L. 106–65, §354(3)(A), substituted “Secretary of Education” for “Department of Health, Education, and Welfare” and made technical amendment to reference in original act which appears in text as reference to section 1232 of this title.
 
 Subsec. (c)(1). Pub. L. 106–65, §354(3)(B), struck out “by academic year 1993–1994” after “public education”.
 
 Subsec. (c)(3). Pub. L. 106–65, §354(3)(C), substituted “Implementation” for “Implementation timelines” in heading, substituted “In carrying out paragraph (2), the Secretary shall have in effect a comprehensive” for “In carrying out the provisions of paragraph (2), the Secretary shall—”, struck out the subpar. (A) designation and “in academic year 1991–1992 and the 2 succeeding academic years, plan and develop a comprehensive” before “, coordinated”, substituted a period for the semicolon after “such individuals”, and struck out subpars. (B) and (C) which related to implementation in academic years 1994–1995, 1995–1996, and succeeding academic years.
 
-1991—Subsec. (c). Pub. L. 102–119 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The provisions of the Education for All Handicapped Children Act of 1975 shall apply with respect to all schools operated by the Department of Defense under this chapter.”
+<b>1991</b>—Subsec. (c). Pub. L. 102–119 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The provisions of the Education for All Handicapped Children Act of 1975 shall apply with respect to all schools operated by the Department of Defense under this chapter.”
 
 #### Effective Date of 1991 Amendment
 

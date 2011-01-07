@@ -60,5 +60,5 @@ The Secretary may accept and use donations to provide assistance under section 6
 
 #### Amendments
 
-2006—Subsec. (b)(2). Pub. L. 109–363 substituted “expend” for “expand” and “$100,000” for “$80,000”.
+<b>2006</b>—Subsec. (b)(2). Pub. L. 109–363 substituted “expend” for “expand” and “$100,000” for “$80,000”.
 

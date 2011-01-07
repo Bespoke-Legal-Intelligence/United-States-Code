@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of the Army is authorized to investigate, study, plan, and implement structural and nonstructural measures for the prevention or mitigation of shore damages attributable to Federal navigation works and shore damage attributable to the Atlantic Intracoastal Waterway and the Gulf Intracoastal Waterway, if a non-Federal public body agrees to operate andmaintain such measures, and, in the case of interests in real property acquired in conjunction with nonstructural measures, to operate and maintain the property for public purposes in accordance with regulations prescribed by the Secretary.
+The Secretary of the Army is authorized to investigate, study, plan, and implement structural and nonstructural measures for the prevention or mitigation of shore damages attributable to Federal navigation works and shore damage attributable to the Atlantic Intracoastal Waterway and the Gulf Intracoastal Waterway, if a non-Federal public body agrees to operate and maintain such measures, and, in the case of interests in real property acquired in conjunction with nonstructural measures, to operate and maintain the property for public purposes in accordance with regulations prescribed by the Secretary.
 
 #### (b) Cost sharing
 
@@ -24,9 +24,9 @@ The Secretary shall—
 
 #### Amendments
 
-1999—Pub. L. 106–53 designated first sentence as subsec. (a), inserted heading, and inserted “and shore damage attributable to the Atlantic Intracoastal Waterway and the Gulf Intracoastal Waterway” after “navigation works”, designated second sentence as subsec. (b) and inserted heading, and designated third sentence as subsec. (c), inserted heading, and substituted “$5,000,000” for “$2,000,000”, and added subsec. (d).
+<b>1999</b>—Pub. L. 106–53 designated first sentence as subsec. (a), inserted heading, and inserted “and shore damage attributable to the Atlantic Intracoastal Waterway and the Gulf Intracoastal Waterway” after “navigation works”, designated second sentence as subsec. (b) and inserted heading, and designated third sentence as subsec. (c), inserted heading, and substituted “$5,000,000” for “$2,000,000”, and added subsec. (d).
 
-1986—Pub. L. 99–662, §940, amended section generally. Prior to amendment, section read as follows: “The Secretary of the Army, acting through the Chief of Engineers, is authorized to investigate, study, and construct projects for the prevention or mitigation of shore damages attributable to Federal navigation works. The cost of installing, operating, and maintaining such projects shall be borne entirely by the United States. No such project shall be constructed without specific authorization by Congress if the estimated first cost exceeds $2,000,000.”
+<b>1986</b>—Pub. L. 99–662, §940, amended section generally. Prior to amendment, section read as follows: “The Secretary of the Army, acting through the Chief of Engineers, is authorized to investigate, study, and construct projects for the prevention or mitigation of shore damages attributable to Federal navigation works. The cost of installing, operating, and maintaining such projects shall be borne entirely by the United States. No such project shall be constructed without specific authorization by Congress if the estimated first cost exceeds $2,000,000.”
 
 Pub. L. 99–662, §915(f), substituted “$2,000,000” for “$1,000,000”.
 

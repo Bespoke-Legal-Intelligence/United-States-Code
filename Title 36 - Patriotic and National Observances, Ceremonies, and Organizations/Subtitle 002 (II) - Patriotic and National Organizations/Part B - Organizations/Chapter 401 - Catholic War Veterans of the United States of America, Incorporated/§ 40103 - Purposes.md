@@ -50,5 +50,5 @@ Before clause (1), the word “objects” is omitted as included in “purposes�
 
 #### Amendments
 
-2006—Par. (13). Pub. L. 109–284 substituted “laws of each State” for “laws of the each State”.
+<b>2006</b>—Par. (13). Pub. L. 109–284 substituted “laws of each State” for “laws of the each State”.
 

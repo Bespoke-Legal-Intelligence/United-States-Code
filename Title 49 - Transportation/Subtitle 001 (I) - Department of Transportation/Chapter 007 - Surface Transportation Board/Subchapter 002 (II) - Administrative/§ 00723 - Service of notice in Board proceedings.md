@@ -10,7 +10,7 @@ Filing and Changing Designations.—A designation under subsection (a) shall be 
 
 (c)
 
-Service of Notice.—Except as otherwise provided, notices of the Board shall be served on its designated agent at the office or usual placeof residence in the District of Columbia of that agent. A notice of action of the Board shall be served immediately on the agent or in another manner provided by law. If that carrier does not have a designated agent, service may be made by posting the notice in the office of the Board.
+Service of Notice.—Except as otherwise provided, notices of the Board shall be served on its designated agent at the office or usual place of residence in the District of Columbia of that agent. A notice of action of the Board shall be served immediately on the agent or in another manner provided by law. If that carrier does not have a designated agent, service may be made by posting the notice in the office of the Board.
 
 (d)
 

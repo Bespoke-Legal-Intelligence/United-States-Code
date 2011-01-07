@@ -46,7 +46,7 @@ Exception.—This section shall not apply to any class action that solely involv
 
 #### Amendments
 
-2009—Subsec. (c)(1). Pub. L. 111–16 substituted “not more than 10 days” for “not less than 7 days”.
+<b>2009</b>—Subsec. (c)(1). Pub. L. 111–16 substituted “not more than 10 days” for “not less than 7 days”.
 
 #### Effective Date of 2009 Amendment
 
@@ -55,4 +55,6 @@ Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 1
 #### Effective Date
 
 Section applicable to any civil action commenced on or after Feb. 18, 2005, see section 9 of Pub. L. 109–2, set out as an Effective Date of 2005 Amendment note under section 1332 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “77p(f)(3)”.</i>
 

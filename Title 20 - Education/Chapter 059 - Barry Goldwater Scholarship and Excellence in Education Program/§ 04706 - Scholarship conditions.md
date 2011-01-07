@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A person awarded a scholarship under this chapter may receive payments authorized under this chapter only during such periods as theFoundation finds that the person is maintaining satisfactory proficiency and devoting full time to study or research and is not engaging in gainful employment other than employment approved by the Foundation pursuant to regulations of the Board.
+A person awarded a scholarship under this chapter may receive payments authorized under this chapter only during such periods as the Foundation finds that the person is maintaining satisfactory proficiency and devoting full time to study or research and is not engaging in gainful employment other than employment approved by the Foundation pursuant to regulations of the Board.
 
 #### (b) Reports
 

@@ -82,7 +82,7 @@ This title, referred to in subsec. (b)(2), probably means title XXXI of Pub. L. 
 
 #### Amendments
 
-2003—Subsec. (b)(1). Pub. L. 108–136, §3141(f)(3)(D), substituted “title XXXI of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65)” for “this title”.
+<b>2003</b>—Subsec. (b)(1). Pub. L. 108–136, §3141(f)(3)(D), substituted “title XXXI of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65)” for “this title”.
 
 <i><sup>1</sup></i><i> So in original. Initial letter probably should be lower case.</i>
 

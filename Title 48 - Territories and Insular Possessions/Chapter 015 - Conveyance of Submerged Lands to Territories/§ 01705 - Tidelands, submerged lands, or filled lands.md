@@ -28,7 +28,7 @@ There are excepted from the transfer made by subsection (a) hereof—
 
 &emsp;(x) all submerged lands within the Virgin Islands National Park established by sections 398 to 398b of title 16, including the lands described in sections 398c and 398d of title 16; and
 
-&emsp;(xi) all submerged lands within the Buck Island Reef National Monument as described in Presidential Proclamation 3448 dated December 28, 1961.
+&emsp;(xi) all submerged lands within the Buck Island Reef National Monument as described inPresidential Proclamation 3448 dated December 28, 1961.
 
 > Upon request of the Governor of Guam, the Virgin Islands, or American Samoa, the Secretary of the Interior may, with or without reimbursement, and subject to the procedure specified in subsection (c) of this section convey all right, title, and interest of the United States in any of the lands described in clauses (ii), (iii), (iv), (v), (vi), (vii), or (viii) of this subsection to the government of Guam, the Virgin Islands, or American Samoa, as the case may be, with the concurrence of the agency having custody thereof.
 
@@ -52,9 +52,9 @@ Section 398b of title 16, referred to in subsec. (b)(x), was repealed by Pub. L.
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–437 substituted “Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate” for “Committees on Interior and Insular Affairs of the House of Representatives and the Senate”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–437 substituted “Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate” for “Committees on Interior and Insular Affairs of the House of Representatives and the Senate”.
 
-1980—Subsec. (c). Pub. L. 96–205, §607(b), inserted “subsection (a) or (b) of” before “this section”.
+<b>1980</b>—Subsec. (c). Pub. L. 96–205, §607(b), inserted “subsection (a) or (b) of” before “this section”.
 
 Subsec. (d). Pub. L. 96–205, §607(a), added subsec. (d).
 
@@ -86,7 +86,7 @@ NOW, THEREFORE, I GERALD R. FORD, President of the United States of America, by 
 
 <i>American Samoa</i>. The submerged lands adjacent to Rose Atoll located 78 miles east-southeast of Tau Island in the Manua Group at latitude 14°32′52″ south and longitude 168°08′34″ west, which lands shall be under the joint administrative jurisdiction of the Department of Commerce and the Department of the Interior.
 
-<i>Guam</i>. (1) The submerged lands of inner and outer Apra Harbor; and, (2) the submerged lands adjacent to the following uplands: (a) Unsurveyed land, Municipality of Machanao, Guam, as delineated on Commander Naval Forces. Marianas Y \& D Drawing Numbered 597–464, lying between the seaward boundaries of Lots Numbered 9992 through 9997 and the mean high tide,containing an undetermined area of land, (b) unsurveyed land, Municipality of Machanao, Guam, as delineated on Commander Naval Forces, Marianas Y \& D Drawing Numbered 597–464, lying between the seaward boundary of Lot Numbered 10080 and the line of mean high tide, containing an undetermined amount of land, and (c) Lot Numbered PO 4.1 in the Municipality of Machanao, Guam, as delineated on Y \& D Drawing Numbered 597–464, more particularly described as surveyed land bordered on the north by Lot Numbered 10080, Machanao, east by Northwest Air Force Base, south by U. S. Naval Communication Station (Finegayan) and west by the sea containing a computed area of 125.50 acres, more or less. All of the above lands within the territory of Guam shall be under the administrative jurisdiction of the Department of the Navy.
+<i>Guam</i>. (1) The submerged lands of inner and outer Apra Harbor; and, (2) the submerged lands adjacent to the following uplands: (a) Unsurveyed land, Municipality of Machanao, Guam, as delineated on Commander Naval Forces. Marianas Y \& D Drawing Numbered 597–464, lying between the seaward boundaries of Lots Numbered 9992 through 9997 and the mean high tide, containing an undetermined area of land, (b) unsurveyed land, Municipality of Machanao, Guam, as delineated on Commander Naval Forces, Marianas Y \& D Drawing Numbered 597–464, lying between the seaward boundary of Lot Numbered 10080 and the line of mean high tide, containing an undetermined amount of land, and (c) Lot Numbered PO 4.1 in the Municipality of Machanao, Guam, as delineated on Y \& D Drawing Numbered 597–464, more particularly described as surveyed land bordered on the north by Lot Numbered 10080, Machanao, east by Northwest Air Force Base, south by U. S. Naval Communication Station (Finegayan) and west by the sea containing a computed area of 125.50 acres, more or less. All of the above lands within the territory of Guam shall be under the administrative jurisdiction of the Department of the Navy.
 
 <i>The Virgin Islands</i>. (1) The submerged lands as described in the Code of Federal Regulations revised as of July 1, 1974, cited as 33 CFR 207.817 areas “A” \& “B”, (2) the submerged lands seaward of the 100 fathom curve off the coast of St. Croix beginning at a point 17°40′30″ N and ending at a point 17°46′30″ North as depicted on Coast and Geodetic Survey Chart Numbered 25250, Third Edition; Title: St. Croix, Virgin Islands Underwater Range, and (3) the submerged lands seaward of the Underwater Range Operational Control Center, St. Croix, Virgin Islands presently leased to the Department of the Navy and described as Plot 1B18 of Estate Sprat Hall subdivision, located in northside Quarter “A”, St. Croix containing 4.84 acres of land. All of the above lands within the territory of the Virgin Islands shall be under the administrative jurisdiction of the Department of the Navy.
 

@@ -2,15 +2,23 @@
 
 It shall be unlawful for any person—
 
-&emsp;(1) to violate any provision of subchapter I or subchapter II of this chapter or this subchapter,
+&emsp;(1) to violate any provision of title I or title II of this Act or this title <sup>1</sup> (other than any provision of such titles which amend <sup>2</sup> another law),
 
-&emsp;(2) to violate any rule, regulation, or order issued pursuant to any such provision or any provision of section 6363 of this title; or
+&emsp;(2) to violate any rule, regulation, or order issued pursuant to any such provision or any provision of section 383 of this Act \[42 U.S.C. 6363\]; or
 
 &emsp;(3) to fail to comply with any provision prescribed in, or pursuant to, an energy conservation contingency plan which is in effect.
 
 (Pub. L. 94–163, title V, §524, Dec. 22, 1975, 89 Stat. 963.)
 
-#### Codification
+#### References in Text
 
-Words “(other than any provision of such titles which amends another law)”, appearing in the original at the end of par. (1), have been omitted as unnecessary. Such titles meant titles I, II, and V of Pub. L. 94–163, which titles are classified to subchapters I, II, and V of this chapter. The provisions of such titles that amended other laws were not classified to subchapters I, II, and V of this chapter.
+Title I of this Act, referred to in par. (1), is title I of Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 875, which is classified principally to subchapter I (§6211 et seq.) of this chapter. For complete classification of title I to the Code, see Tables.
+
+Title II of this Act, referred to in par. (1), is title II of Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 890, which is classified generally to subchapter II (§6271 et seq.) of this chapter. For complete classification of title II to the Code, see Tables.
+
+This title, referred to in par. (1), is title V of Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 956, which is classified principally to this subchapter. For complete classification of title V to the Code, see Tables.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “amends”.</i>
 

@@ -38,6 +38,14 @@ Section 704 of title II of Pub. L. 91–513 provided that:
 
 “(c) Sections 305 (relating to labels and labeling) \[section 825 of this title\], and 306 (relating to manufacturing quotas) \[section 826 of this title\] shall become effective on the date specified in subsection (a) of this section, except that the Attorney General may by order published in the Federal Register postpone the effective date of either or both of these sections for such period as he may determine to be necessary for the efficient administration of this title \[see Short Title note below\].”
 
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–273, §1, Oct. 12, 2010, 124 Stat. 2858, provided that: “This Act \[amending sections 822 and 828 ofthis title and enacting provisions set out as a note under section 822 of this title and listed in a table relating to sentencing guidelines set out under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Secure and Responsible Drug Disposal Act of 2010’.”
+
+Pub. L. 111–268, §1, Oct. 12, 2010, 124 Stat. 2847, provided that: “This Act \[amending sections 830 and 842 of this title and enacting provisions set out as notes under section 830 of this title\] may be cited as the ‘Combat Methamphetamine Enhancement Act of 2010’.”
+
+Pub. L. 111–220, §1, Aug. 3, 2010, 124 Stat. 2372, provided that: “This Act \[amending sections 841, 844, and 960 of this title and enacting provisions listed in a table relating to sentencing guidelines set out under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Fair Sentencing Act of 2010’.”
+
 #### Short Title of 2008 Amendment
 
 Pub. L. 110–425, §1, Oct. 15, 2008, 122 Stat. 4820, provided that: “This Act \[enacting section 831 of this title, amending sections 802, 823, 827, 829, 841, 843, 882, and 960 of this title, and enacting provisions set out as notes under section 802 of this title and listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Ryan Haight Online Pharmacy Consumer Protection Act of 2008’.”
@@ -124,7 +132,7 @@ Pub. L. 99–570, title I, §1991, Oct. 27, 1986, 100 Stat. 3207–59, provided 
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–473, title II, §501, Oct. 12, 1984, 98 Stat. 2068, provided that: “This chapter \[chapter V (§§501–525) of title II of Pub. L. 98–473, enacting section 845a of this title, amending sections 802, 811, 812, 822–824, 827, 841, 843, 845, 873, 881, 952, 953, 957, 958, 960, and 962 of this title, and enacting provisions set out as a note underthis section\] may be cited as the ‘Controlled Substances Penalties Amendments Act of 1984’.”
+Pub. L. 98–473, title II, §501, Oct. 12, 1984, 98 Stat. 2068, provided that: “This chapter \[chapter V (§§501–525) of title II of Pub. L. 98–473, enacting section 845a of this title, amending sections 802, 811, 812, 822–824, 827, 841, 843, 845, 873, 881, 952, 953, 957, 958, 960, and 962 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Controlled Substances Penalties Amendments Act of 1984’.”
 
 Pub. L. 98–473, title II, §506(a), Oct. 12, 1984, 98 Stat. 2070, provided that: “This part \[part B of chapter V (§§506–525) of title II of Pub. L. 98–473, amending sections 802, 811, 812, 822–824, 827, 843, 873, 881, 952, 953, 957, and 958 of this title\] may be cited as the ‘Dangerous Drug Diversion Control Act of 1984’.”
 
@@ -142,7 +150,7 @@ Pub. L. 91–513, in the provisions preceding section 1 immediately following th
 
 Section 100 of title II of Pub. L. 91–513 provided that: “This title \[enacting this subchapter, repealing section 360a of this title, amending sections 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114 and 1952 of Title 18, Crimes and Criminal Procedure, and section 242 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 321 and 822 of this title\] may be cited as the ‘Controlled Substances Act’.”
 
-For short title and complete classification of title III of Pub. L. 91–513, which enacted subchapter II of this chapter, as the “Controlled Substances Import and Export Act”, see section 1000 of Pub. L. 91–513, set out as a note under section 951 of this title.
+For short title and complete classification of title III of Pub. L. 91–513, which enacted subchapter II of thischapter, as the “Controlled Substances Import and Export Act”, see section 1000 of Pub. L. 91–513, set out as a note under section 951 of this title.
 
 #### Severability
 
@@ -228,7 +236,7 @@ Advisory committee.—Not later than 180 days after the date of the enactment of
 
 &emsp;“(2)
 
-Implementation of plan.—Not later than 180 days after the date on which the advisory committee under paragraph (1) is established, the Secretary, in consultation with the Attorney General, shall commence carrying out the national campaign under such paragraph in accordance with the plan developed under such paragraph. The campaign may be carried out directly by the Secretary and through grants and contracts.
+Implementation of plan.—Not later than 180 days after the date on which the advisory committee under paragraph (1) is established, the Secretary, in consultation with the Attorney General, shall commence carrying out the national campaign under such paragraph in accordance with the plan developedunder such paragraph. The campaign may be carried out directly by the Secretary and through grants and contracts.
 
 “(c)
 
@@ -558,7 +566,7 @@ Section 601 of Pub. L. 91–513, as amended by Pub. L. 92–13, May 14, 1971, 85
 
 “(c)
 
-\[Personnel; experts; information from departments and agencies\] (1) The Commission shallhave the power to appoint and fix the compensation of such personnel as it deems advisable, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates.
+\[Personnel; experts; information from departments and agencies\] (1) The Commission shall have the power to appoint and fix the compensation of such personnel as it deems advisable, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates.
 
 “(2) The Commission may procure, in accordance with the provisions of section 3109 of title 5, United States Code, the temporary or intermittent services of experts or consultants. Persons so employed shall receive compensation at a rate to be fixed by the Commission, but not in excess of $75 per diem, including traveltime. While away from his home or regular place of business in the performance of services for the Commission, any such person may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703(b) of title 5, United States Code, for persons in the Government service employed intermittently.
 
@@ -584,7 +592,7 @@ Section 601 of Pub. L. 91–513, as amended by Pub. L. 92–13, May 14, 1971, 85
 
 “(e)
 
-\[Study and investigation of causes of drug abuse; report to the President and the Congress; termination of Commission\] The Commission shall conduct a comprehensive study and investigation of the causes of drug abuse and their relative significance. The Commission shall submit to the President and the Congress such interim reports as it deems advisable and shall within two years after the date on which funds first become available to carry out this section submit to the President and the Congress a final report which shall contain a detailed statement of its findings and conclusions and also such recommendations for legislation and administrative actions as it deems appropriate. The Commission shall cease to exist sixty days after the final report is submitted under this subsection.
+\[Study and investigation of causes of drug abuse; report to the President and the Congress; termination of Commission\] The Commission shall conduct a comprehensive study and investigation of the causes of drug abuse and their relative significance. The Commission shall submit to the President and the Congress such interim reports as it deems advisable and shall within two years after the date on which funds first become available to carry out this section submit to the President and the Congress a final report which shall contain a detailed statement of its findings and conclusions and also such recommendations forlegislation and administrative actions as it deems appropriate. The Commission shall cease to exist sixty days after the final report is submitted under this subsection.
 
 “(f)
 

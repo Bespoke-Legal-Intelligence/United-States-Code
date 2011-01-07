@@ -26,11 +26,11 @@ Section 225 of the Federal Salary Act of 1967, referred to in text, is section 2
 
 #### Amendments
 
-1975—Pub. L. 94–82 substituted provision that each judge of a district court shall receive a salary at an annual rate determined under section 225 of the Federal Salary Act of 1967, as adjusted by section 461 of this title, for provision that each such judge receive a salary of $30,000.
+<b>1975</b>—Pub. L. 94–82 substituted provision that each judge of a district court shall receive a salary at an annual rate determined under section 225 of the Federal Salary Act of 1967, as adjusted by section 461 of this title, for provision that each such judge receive a salary of $30,000.
 
-1964—Pub. L. 88–426 increased the salary of the district court judges from $22,500 to $30,000, and that of the chief judge of the District Court for the District of Columbia from $23,000 to $30,500.
+<b>1964</b>—Pub. L. 88–426 increased the salary of the district court judges from $22,500 to $30,000, and that of the chief judge of the District Court for the District of Columbia from $23,000 to $30,500.
 
-1955—Act Mar. 2, 1955, increased the salaries of the district court judges from $15,000 to $22,500 a year and increased the salary of the chief judge of the District Court for the District of Columbia from $15,500 to $23,000 a year.
+<b>1955</b>—Act Mar. 2, 1955, increased the salaries of the district court judges from $15,000 to $22,500 a year and increased the salary of the chief judge of the District Court for the District of Columbia from $15,500 to $23,000 a year.
 
 #### Effective Date of 1964 Amendment
 

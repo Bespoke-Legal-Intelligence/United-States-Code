@@ -12,7 +12,7 @@ Proc. 2912, 3 C.F.R., 1950 Supp., p. 71, referred to in text, is an erroneous ci
 
 #### Amendments
 
-1990—Pub. L. 101–647 renumbered the second section 798 of this title as this section.
+<b>1990</b>—Pub. L. 101–647 renumbered the second section 798 of this title as this section.
 
 #### Termination of National Emergency
 

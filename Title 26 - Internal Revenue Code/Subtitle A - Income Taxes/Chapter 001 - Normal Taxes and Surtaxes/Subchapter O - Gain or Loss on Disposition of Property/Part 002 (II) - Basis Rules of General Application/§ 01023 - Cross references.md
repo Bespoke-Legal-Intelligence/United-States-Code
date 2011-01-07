@@ -12,11 +12,11 @@ A prior section 1023, added Pub. L. 94–455, title XX, §2005(a)(2), Oct. 4, 19
 
 #### Amendments
 
-2006—Par. (2). Pub. L. 109–304 substituted “chapter 533 of title 46, United States Code” for “section 511 of the Merchant Marine Act, 1936, as amended (46 U.S.C. 1161)”.
+<b>2006</b>—Par. (2). Pub. L. 109–304 substituted “chapter 533 of title 46, United States Code” for “section 511 of the Merchant Marine Act, 1936, as amended (46 U.S.C. 1161)”.
 
-1980—Pub. L. 96–589 redesignated par. (3) as (2). Former par. (2), which provided reference to sections 670, 796, and 922 of Title 11, Bankruptcy, for basis of property in case of certain reorganizations and arrangements under the Bankruptcy Act, was struck out.
+<b>1980</b>—Pub. L. 96–589 redesignated par. (3) as (2). Former par. (2), which provided reference to sections 670, 796, and 922 of Title 11, Bankruptcy, for basis of property in case of certain reorganizations and arrangements under the Bankruptcy Act, was struck out.
 
-1976—Par. (4). Pub. L. 94–455, §1901(a)(127), struck out par. (4) which referred to section 405 of the Defense Production Act of 1950 for rules applicable in case of payments in violation of that Act.
+<b>1976</b>—Par. (4). Pub. L. 94–455, §1901(a)(127), struck out par. (4) which referred to section 405 of the Defense Production Act of 1950 for rules applicable in case of payments in violation of that Act.
 
 #### Effective Date of 1980 Amendments and Revival of Prior Law
 
@@ -24,7 +24,7 @@ Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not to apply to procee
 
 Section 401(b) of Pub. L. 96–223, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Except to the extent necessary to carry out subsection (d) \[set out as a note under section 1014 of this title\], the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be applied and administered as if the provisions repealed by subsection (a), and the amendments made by those provisions \[enacting this section and sections 6039A and 6698A of this title, redesignating former section 1023 as section 1024 of this title, and amending sections 306, 691, 1001, 1014, 1016, 1223, and 1246 of this title\], had not been enacted.”
 
-Section 401(e) of Pub. L. 96–223 provided that: “The amendments made by this section \[amending sections 306, 691, 1001, 1014, 1016, 1040, 1223, 1246, and 2614 of this title, repealing former section 1023 and sections 6039A and 6698A of this title, redesignating former section 1024 of this title as 1023, and enacting provisions set out as notes under this section and section 1014 of this title\] shall apply in respect of decedents dying after December 31, 1976.”
+Section 401(e) of Pub. L. 96–223 provided that: “The amendments made by this section \[amending sections 306, 691, 1001, 1014, 1016, 1040, 1223, 1246, and 2614 of this title, repealing former section 1023 and sections 6039Aand 6698A of this title, redesignating former section 1024 of this title as 1023, and enacting provisions set out as notes under this section and section 1014 of this title\] shall apply in respect of decedents dying after December 31, 1976.”
 
 #### Effective Date of 1976 Amendment
 

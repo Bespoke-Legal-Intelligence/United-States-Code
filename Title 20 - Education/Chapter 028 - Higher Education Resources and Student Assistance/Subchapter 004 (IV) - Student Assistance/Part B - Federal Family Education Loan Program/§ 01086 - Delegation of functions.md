@@ -20,7 +20,7 @@ A prior section 1086, Pub. L. 89–329, title IV, §436, as added Pub. L. 89–7
 
 #### Amendments
 
-1998—Pub. L. 105–244 amended section catchline and text generally. Prior to amendment, section authorized establishment of a District of Columbia student loan insurance program.
+<b>1998</b>—Pub. L. 105–244 amended section catchline and text generally. Prior to amendment, section authorized establishment of a District of Columbia student loan insurance program.
 
 #### Effective Date of 1998 Amendment
 

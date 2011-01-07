@@ -20,7 +20,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-152501D36:461.DAug. 13, 1953, ch. 429, §§1, 2, 67 Stat. 569.
+152501
+
+36:461.
+
+Aug. 13, 1953, ch. 429, §§1, 2, 67 Stat. 569.
 
 &nbsp;
 

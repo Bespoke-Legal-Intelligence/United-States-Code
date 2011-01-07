@@ -36,7 +36,7 @@ The Board shall meet at least four times during each calendar year.
 
 #### Amendments
 
-1977—Subsec. (a). Pub. L. 95–222, §3, inserted provision relating to appointments made after Dec. 28, 1977.
+<b>1977</b>—Subsec. (a). Pub. L. 95–222, §3, inserted provision relating to appointments made after Dec. 28, 1977.
 
 Subsec. (g). Pub. L. 95–222, §4, substituted provisions relating to applicability of section 552b of title 5, for provisions setting forth requirements respecting availability of minutes of public meetings.
 

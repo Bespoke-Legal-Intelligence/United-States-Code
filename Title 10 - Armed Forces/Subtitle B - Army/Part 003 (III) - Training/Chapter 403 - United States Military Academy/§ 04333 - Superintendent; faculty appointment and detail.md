@@ -56,11 +56,11 @@ In subsection (c), the word “appointed” is substituted for the word “assig
 
 #### Amendments
 
-1980—Subsec. (d). Pub. L. 96–513 struck out “regular or temporary” in first sentence, and substituted “active-duty list” for “applicable promotion list” in second sentence.
+<b>1980</b>—Subsec. (d). Pub. L. 96–513 struck out “regular or temporary” in first sentence, and substituted “active-duty list” for “applicable promotion list” in second sentence.
 
-1978—Subsecs. (c), (d). Pub. L. 95–551 substituted “director of admissions” for “registrar” wherever appearing.
+<b>1978</b>—Subsecs. (c), (d). Pub. L. 95–551 substituted “director of admissions” for “registrar” wherever appearing.
 
-1958—Subsecs. (c) to (e). Pub. L. 85–600 added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
+<b>1958</b>—Subsecs. (c) to (e). Pub. L. 85–600 added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
 #### Effective Date of 1980 Amendment
 

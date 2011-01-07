@@ -56,7 +56,7 @@ Regulations.—
 
 &emsp;&emsp;(A)
 
-In general.—In the performance of the functions of the Administrator and the Administration, the Administrator is authorized to issue, rescind, and revise such regulations as are necessary to carry out those functions. The issuance of such regulations shall be governed by the provisions of chapter 5 of title 5. The Administrator shall act upon all petitions for rulemaking no laterthan 6 months after the date such petitions are filed by dismissing such petitions, by informing the petitioner of an intention to dismiss, or by issuing a notice of proposed rulemaking or advanced notice of proposed rulemaking. The Administrator shall issue a final regulation, or take other final action, not later than 16 months after the last day of the public comment period for the regulations or, in the case of an advanced notice of proposed rulemaking, if issued, not later than 24 months after the date of publication in the Federal Register of notice of the proposed rulemaking. On February 1 and August 1 of each year the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a letter listing each deadline the Administrator missed under this subparagraph during the 6-month period ending on such date, including an explanation for missing the deadline and a projected date on which the action that was subject to the deadline will be taken.
+In general.—In the performance of the functions of the Administrator and the Administration, the Administrator is authorized to issue, rescind, and revise such regulations as are necessary to carry out those functions. The issuance of such regulations shall be governed by the provisions of chapter 5 of title 5. The Administrator shall act upon all petitions for rulemaking no later than 6 months after the date such petitions are filed by dismissing such petitions, by informing the petitioner of an intention to dismiss, or by issuing a notice of proposed rulemaking or advanced notice of proposed rulemaking. The Administrator shall issue a final regulation, or take other final action, not later than 16 months after the last day of the public comment period for the regulations or, in the case of an advanced notice of proposed rulemaking, if issued, not later than 24 months after the date of publication in the Federal Register of notice of the proposed rulemaking. On February 1 and August 1 of each year the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a letter listing each deadline the Administrator missed under this subparagraph during the 6-month period ending on such date, including an explanation for missing the deadline and a projected date on which the action that was subject to the deadline will be taken.
 
 &emsp;&emsp;(B)
 
@@ -96,7 +96,7 @@ Definition of political appointee.—For purposes of this subsection, the term �
 
 Duties and Powers of Administrator.—(1) Except as provided in paragraph (2) of this subsection, the Administrator shall carry out—
 
-&emsp;(A) duties and powers of the Secretary of Transportation under subsection (f) of this section related to aviation safety (except those related to transportation, packaging, marking, or description of hazardous material) and stated in sections 308(b), 1132(c) and (d), 40101(c), 40103(b), 40106(a), 40108, 40109(b), 40113(a), 40113(c), 40113(d), 40113(e), 40114(a), and 40119, chapter 445 (except sections 44501(b), 44502(a)(2), 44502(a)(3), 44502(a)(4), 44503, 44506, 44509, 44510, 44514, and 44515), chapter 447 (except sections 44717, 44718(a), 44718(b), 44719, 44720, 44721(b), 44722, and 44723), chapter 449 (except sections 44903(d), 44904, 44905, 44907–44911, 44913, 44915, and 44931–44934), chapter 451, chapter 453, sections 46104, 46301(d) and (h)(2), 46303(c), 46304–46308, 46310, 46311, and 46313–46316, chapter 465, and sections 47504(b) (related to flight procedures), 47508(a), and 48107 of this title; and
+&emsp;(A) duties and powers of the Secretary of Transportation under subsection (f) of thissection related to aviation safety (except those related to transportation, packaging, marking, or description of hazardous material) and stated in sections 308(b), 1132(c) and (d), 40101(c), 40103(b), 40106(a), 40108, 40109(b), 40113(a), 40113(c), 40113(d), 40113(e), 40114(a), and 40119, chapter 445 (except sections 44501(b), 44502(a)(2), 44502(a)(3), 44502(a)(4), 44503, 44506, 44509, 44510, 44514, and 44515), chapter 447 (except sections 44717, 44718(a), 44718(b), 44719, 44720, 44721(b), 44722, and 44723), chapter 449 (except sections 44903(d), 44904, 44905, 44907–44911, 44913, 44915, and 44931–44934), chapter 451, chapter 453, sections 46104, 46301(d) and (h)(2), 46303(c), 46304–46308, 46310, 46311, and 46313–46316, chapter 465, and sections 47504(b) (related to flight procedures), 47508(a), and 48107 of this title; and
 
 &emsp;(B) additional duties and powers prescribed by the Secretary of Transportation.
 
@@ -126,7 +126,7 @@ Salaries, operations, and maintenance.—There is authorized to be appropriated 
 
 &emsp;&emsp;(E) $9,042,467,000 for fiscal year 2009; and
 
-&emsp;&emsp;(F) $4,676,574,750 for the 6-month period beginning on October 1, 2009.
+&emsp;&emsp;(F) $9,350,028,000 for fiscal year 2010.
 
 > &emsp;Such sums shall remain available until expended.
 
@@ -178,7 +178,7 @@ General rule.—In exercising the authority to accept gifts and voluntary servic
 
 &emsp;&emsp;(B)
 
-Incidental expenses.—The Administrator is authorized to provide for incidentalexpenses, including transportation, lodging, and subsistence, for volunteers who provide voluntary services under this subsection.
+Incidental expenses.—The Administrator is authorized to provide for incidental expenses, including transportation, lodging, and subsistence, for volunteers who provide voluntary services under this subsection.
 
 &emsp;&emsp;(C)
 
@@ -342,7 +342,7 @@ Restrictions on post-employment.—For purposes of section 207(c) of title 18, a
 
 &emsp;&emsp;(J)
 
-Chairman; vice chairman.—The Council shall elect a chair and a vice chair from among the members appointed under paragraph (2)(C), each of whom shall serve for aterm of 1 year. The vice chair shall perform the duties of the chairman in the absence of the chairman.
+Chairman; vice chairman.—The Council shall elect a chair and a vice chair from among the members appointed under paragraph (2)(C), each of whom shall serve for a term of 1 year. The vice chair shall perform the duties of the chairman in the absence of the chairman.
 
 &emsp;&emsp;(K)
 
@@ -580,7 +580,7 @@ Compensation.—
 
 &emsp;&emsp;(A)
 
-In general.—The Chief Operating Officer shall be paid at an annual rate of basicpay to be determined by the Administrator, with the approval of the Air Traffic Services Committee. The annual rate may not exceed the annual compensation paid under section 102 of title 3. The Chief Operating Officer shall be subject to the post-employment provisions of section 207 of title 18 as if the position of Chief Operating Officer were described in section 207(c)(2)(A)(i) of that title.
+In general.—The Chief Operating Officer shall be paid at an annual rate of basic pay to be determined by the Administrator, with the approval of the Air Traffic Services Committee. The annual rate may not exceed the annual compensation paid under section 102 of title 3. The Chief Operating Officer shall be subject to the post-employment provisions of section 207 of title 18 as if the position of Chief Operating Officer were described in section 207(c)(2)(A)(i) of that title.
 
 &emsp;&emsp;(B)
 
@@ -632,7 +632,7 @@ Budget.—To—
 
 &emsp;&emsp;&emsp;(iii) ensure that the budget request supports the agency's annual and long-range strategic plans for air traffic control services.
 
-(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2416; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 100–591, §5(a), Nov. 3, 1988, 102 Stat. 3013; Pub. L. 101–508, title IX, §9106, Nov. 5, 1990, 104 Stat. 1388–355; Pub. L. 101–604, title I, §101(c), Nov. 16, 1990, 104 Stat. 3068; Pub. L. 102–581, title I, §104, Oct. 31, 1992, 106 Stat. 4877; Pub. L. 103–272, §§4(j)(3), 5(m)(4), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 103–305, title I, §103, title II, §201, Aug. 23, 1994, 108 Stat. 1571, 1581; Pub. L. 104–264, title I, §103(a), title II, §§223(a), 224–230, 276(c), title XII, §1210, Oct. 9, 1996, 110 Stat. 3216, 3229–3234, 3282; Pub. L. 104–287, §5(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–102, §3(c)(3), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–6, §4, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §103(a), title III, §§302(a)–(c), 303, 305, 306, 307(c)(1), title VII, §701, Apr. 5, 2000, 114 Stat. 66, 115–118, 121, 123, 124, 126, 154; Pub. L. 106–528, §8(a), Nov. 22, 2000, 114 Stat. 2522; Pub. L. 107–71, title I, §101(c)(3), (d), Nov. 19, 2001, 115 Stat. 602, 603; Pub. L. 108–176, title I, §103(a),(b), title II, §§201–204, 224(c), Dec. 12, 2003, 117 Stat. 2495, 2496, 2522–2526, 2528; Pub. L. 110–330, §6, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §6, Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §6, Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §6, Dec. 16, 2009, 123 Stat. 3032.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2416; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 100–591, §5(a), Nov. 3, 1988, 102 Stat. 3013; Pub. L. 101–508, title IX, §9106, Nov. 5, 1990, 104 Stat. 1388–355; Pub. L. 101–604, title I, §101(c), Nov. 16, 1990, 104 Stat. 3068; Pub. L. 102–581, title I, §104, Oct. 31, 1992, 106 Stat. 4877; Pub. L. 103–272, §§4(j)(3), 5(m)(4), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 103–305, title I, §103, title II, §201, Aug. 23, 1994, 108 Stat. 1571, 1581; Pub. L. 104–264, title I, §103(a), title II, §§223(a), 224–230, 276(c), title XII, §1210, Oct. 9, 1996, 110 Stat. 3216, 3229–3234, 3282; Pub. L. 104–287, §5(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–102, §3(c)(3), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–6, §4, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §103(a), title III, §§302(a)–(c), 303, 305, 306, 307(c)(1), title VII, §701, Apr. 5, 2000, 114 Stat. 66, 115–118, 121, 123, 124, 126, 154; Pub. L. 106–528, §8(a), Nov. 22, 2000, 114 Stat. 2522; Pub. L. 107–71, title I, §101(c)(3), (d), Nov. 19, 2001, 115 Stat. 602, 603; Pub. L. 108–176, title I, §103(a),(b), title II, §§201–204, 224(c), Dec. 12, 2003, 117 Stat. 2495, 2496, 2522–2526, 2528; Pub. L. 110–330, §6, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §6, Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §6, Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §6, Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §6, Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §6, Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §6, July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §105, Aug. 1, 2010, 124 Stat. 2350.)
 
 Historical and Revision Notes
 
@@ -764,23 +764,31 @@ The date of the enactment of the Air Traffic Management System Performance Impro
 
 Section 44931 of this title, referred to in subsec. (g)(2), was repealed by Pub. L. 107–71, title I, §101(f)(6), Nov. 19, 2001, 115 Stat. 603.
 
-The Federal Advisory Committee Act, referred to in subsec. (p)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (p)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The date of enactment of the Vision 100—Century of Aviation Reauthorization Act, referred to in subsec. (p)(6)(C), (7)(A), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
 
-The Ethics in Government Act of 1978, referred to in subsec. (p)(6)(I)(i), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
+The Ethics in Government Act of 1978, referred to in subsec. (p)(6)(I)(i), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
 
 #### Amendments
 
-2009—Subsec. (k)(1)(E). Pub. L. 111–12 substituted “$9,042,467,000 for fiscal year 2009” for “$4,516,364,500 for the 6-month period beginning on October 1, 2008”.
+<b>2010</b>—Subsec. (k)(1)(F). Pub. L. 111–216 amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “$7,813,037,096 for the period beginning on October 1, 2009, and ending on August 1, 2010.”
+
+Pub. L. 111–197 amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “$7,070,158,159 for the period beginning on October 1, 2009, and ending on July 3, 2010.”
+
+Pub. L. 111–161 amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “$5,454,183,000 for the 7-month period beginning on October 1, 2009.”
+
+Pub. L. 111–153 amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “$4,676,574,750 for the 6-month period beginning on October 1, 2009.”
+
+<b>2009</b>—Subsec. (k)(1)(E). Pub. L. 111–12 substituted “$9,042,467,000 for fiscal year 2009” for “$4,516,364,500 for the 6-month period beginning on October 1, 2008”.
 
 Subsec. (k)(1)(F). Pub. L. 111–116 amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “$2,338,287,375 for the 3-month period beginning on October 1, 2009.”
 
 Subsec. (k)(1)(F). Pub. L. 111–69 added subpar. (F).
 
-2008—Subsec. (k)(1)(E). Pub. L. 110–330 added subpar. (E).
+<b>2008</b>—Subsec. (k)(1)(E). Pub. L. 110–330 added subpar. (E).
 
-2003—Subsec. (d)(2) to (4). Pub. L. 108–176, §204, added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+<b>2003</b>—Subsec. (d)(2) to (4). Pub. L. 108–176, §204, added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
 Subsec. (f)(2)(A)(ii). Pub. L. 108–176, §224(c), inserted “, services,” after “property”.
 
@@ -930,11 +938,11 @@ Subsec. (r)(5)(C)(ii). Pub. L. 108–176, §203(8), substituted “and the Commi
 
 Subsec. (r)(5)(C)(iii). Pub. L. 108–176, §203(9), inserted “agency's” before “annual” and substituted “for air traffic control services” for “developed under subparagraph (A) of this subsection”.
 
-2001—Subsec. (m). Pub. L. 107–71, §101(d), substituted “supplies, personnel, services, and” for “supplies and” in last sentence.
+<b>2001</b>—Subsec. (m). Pub. L. 107–71, §101(d), substituted “supplies, personnel, services, and” for “supplies and” in last sentence.
 
 Subsec. (r)(2)(A). Pub. L. 107–71, §101(c)(3), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “The Chief Operating Officer shall be paid at an annual rate of basic pay equal to the annual rate of basic pay of the Administrator. The Chief Operating Officer shall be subject to the post-employment provisions of section 207 of title 18 as if this position were described in section 207(c)(2)(A)(i) of that title.”
 
-2000—Subsec. (f)(3)(A). Pub. L. 106–181, §306, inserted at end “On February 1 and August 1 of each year the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a letter listing each deadline the Administrator missed under this subparagraph during the 6-month period ending on such date, including an explanation for missing the deadline and a projected date on which the action that was subject to the deadline will be taken.”
+<b>2000</b>—Subsec. (f)(3)(A). Pub. L. 106–181, §306, inserted at end “On February 1 and August 1 of each year the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a letter listing each deadline the Administrator missed under this subparagraph during the 6-month period ending on such date, including an explanation for missing the deadline and a projected date on which the action that was subject to the deadline will be taken.”
 
 Subsec. (f)(3)(B)(i). Pub. L. 106–181, §305(1), (2), in introductory provisions, substituted “$250,000,000” for “$100,000,000” and “Wendell H. Ford Aviation Investment and Reform Act for the 21st Century” for “Air Traffic Management System Performance Improvement Act of 1996”.
 
@@ -954,7 +962,7 @@ Subsec. (k). Pub. L. 106–181, §103(a), amended heading and text of subsec. (k
 
 Subsec. (<i>l</i>)(1). Pub. L. 106–181, §307(c)(1), substituted “subsections (a) and (g) of section 40122” for “section 40122(a) of this title and section 347 of Public Law 104–50”.
 
-Subsec. (p)(2). Pub. L. 106–528, which directed the substitution of “18” for “15” in section 106(p)(2), without specifying the Code title to be amended, was executed by making the substitution in the introductory provisions of subsec. (p)(2) of this section, to reflect the probable intent of Congress.
+Subsec. (p)(2). Pub. L. 106–528, which directed the substitution of “18” for “15” in section 106(p)(2), without specifying the Code title to be amended, was executedby making the substitution in the introductory provisions of subsec. (p)(2) of this section, to reflect the probable intent of Congress.
 
 Subsec. (p)(2)(C) to (E). Pub. L. 106–181, §302(a)(1), added subpars. (C) to (E) and struck out former subpar. (C) which read as follows: “13 members representing aviation interests, appointed by the President by and with the advice and consent of the Senate.”
 
@@ -966,11 +974,11 @@ Subsec. (p)(7), (8). Pub. L. 106–181, §302(c), added pars. (7) and (8).
 
 Subsec. (r). Pub. L. 106–181, §303, added subsec. (r).
 
-1999—Subsec. (k). Pub. L. 106–6 substituted “$5,632,000,000 for fiscal year 1999.” for “$5,158,000,000 for fiscal year 1997 and $5,344,000,000 for fiscal year 1998.”
+<b>1999</b>—Subsec. (k). Pub. L. 106–6 substituted “$5,632,000,000 for fiscal year 1999.” for “$5,158,000,000 for fiscal year 1997 and $5,344,000,000 for fiscal year 1998.”
 
-1997—Subsec. (g)(1)(A). Pub. L. 105–102 added Pub. L. 104–264, §276(c). See 1996 Amendment note below.
+<b>1997</b>—Subsec. (g)(1)(A). Pub. L. 105–102 added Pub. L. 104–264, §276(c). See 1996 Amendment note below.
 
-1996—Subsec. (b). Pub. L. 104–287 substituted “August 23, 1994,” for “the date of the enactment of this sentence”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–287 substituted “August 23, 1994,” for “the date of the enactment of this sentence”.
 
 Pub. L. 104–264, §223(a)(1), substituted “Except as provided in subsection (f) or in other provisions of law, the Administrator” for “The Administrator”.
 
@@ -998,7 +1006,7 @@ Subsec. (p). Pub. L. 104–264, §230, added subsec. (p).
 
 Subsec. (q). Pub. L. 104–264, §1210, added subsec. (q).
 
-1994—Subsec. (b). Pub. L. 103–305, §201, inserted at end “The term of office for any individual appointed as Administrator after the date of the enactment of this sentence shall be 5 years.”
+<b>1994</b>—Subsec. (b). Pub. L. 103–305, §201, inserted at end “The term of office for any individual appointed as Administrator after the date of the enactment of this sentence shall be 5 years.”
 
 Subsec. (f). Pub. L. 103–272, §4(j)(3)(A), substituted “Secretary of Transportation shall” for “Secretary shall”.
 
@@ -1016,15 +1024,15 @@ Subsec. (k). Pub. L. 103–305, §103, substituted “, $4,576,000,000 for fisc
 
 Pub. L. 103–272, §4(j)(3)(C), inserted “to the Secretary of Transportation” after “appropriated”.
 
-1992—Subsec. (k). Pub. L. 102–581 substituted “1991,” for “1991 and” and inserted before period at end “, $4,716,500,000 for fiscal year 1993, $5,100,000,000 for fiscal year 1994, and $5,520,000,000 for fiscal year 1995”.
+<b>1992</b>—Subsec. (k). Pub. L. 102–581 substituted “1991,” for “1991 and” and inserted before period at end “, $4,716,500,000 for fiscal year 1993, $5,100,000,000 for fiscal year 1994, and $5,520,000,000 for fiscal year 1995”.
 
-1990—Subsec. (g)(1). Pub. L. 101–604 inserted “315–316 (except for the duties and powers vested in the Director of Intelligence and Security by or under section 101 of the Aviation Security Improvement Act of 1990),” after “312–314,”.
+<b>1990</b>—Subsec. (g)(1). Pub. L. 101–604 inserted “315–316 (except for the duties and powers vested in the Director of Intelligence and Security by or under section 101 of the Aviation Security Improvement Act of 1990),” after “312–314,”.
 
 Subsec. (k). Pub. L. 101–508 added subsec. (k).
 
-1988—Subsec. (j). Pub. L. 100–591 added subsec. (j).
+<b>1988</b>—Subsec. (j). Pub. L. 100–591 added subsec. (j).
 
-1984—Subsecs. (g)(1), (h). Pub. L. 98–216 substituted “49 App. U.S.C.” for “49 U.S.C.”.
+<b>1984</b>—Subsecs. (g)(1), (h). Pub. L. 98–216 substituted “49 App. U.S.C.” for “49 U.S.C.”.
 
 #### Effective Date of 2003 Amendment
 
@@ -1054,7 +1062,7 @@ Effect on actions prior to appointment of subcommittee.—Nothing in this sectio
 
 Pub. L. 105–102, §3(c), Nov. 20, 1997, 111 Stat. 2215, provided that the amendment made by section 3(c)(3) is effective Oct. 9, 1996.
 
-Pub. L. 105–102, §3(f), Nov. 20, 1997, 111 Stat. 2216, provided that: “The amendments made by subsections (a) through (d) of this section \[amending this section and sections 5302, 30501 to 30504, 45301, 46301, 46316, 47117, and 47128 of this title, renumbering section 40121 of this title as 40124 of this title, and amending provisions set out as notes under sections 5303 and 47117 of this title\] shall take effect as if included in the provisions of the Acts to which the amendments relate.”
+Pub. L. 105–102, §3(f), Nov. 20, 1997, 111 Stat. 2216, provided that: “The amendments made by subsections (a) through (d) of this section \[amending this section andsections 5302, 30501 to 30504, 45301, 46301, 46316, 47117, and 47128 of this title, renumbering section 40121 of this title as 40124 of this title, and amending provisions set out as notes under sections 5303 and 47117 of this title\] shall take effect as if included in the provisions of the Acts to which the amendments relate.”
 
 #### Effective Date of 1996 Amendment
 
@@ -1069,6 +1077,10 @@ In General.—Except as otherwise specifically provided, this Act \[see Tables f
 Limitation on Statutory Construction.—Nothing in this Act or any amendment made by this Act shall be construed as affecting funds made available for a fiscal year ending before October 1, 1996.”
 
 Section 203 of title II of Pub. L. 104–264 provided that: “The provisions of this title \[enacting sections 40121, 40122, 45301, 45303, 48111, and 48201 of this title, amending this section and section 41742 of this title, renumbering section 45303 of this title as section 45304, repealing section 45301 of this title, and enacting provisions set out as notes under this section and sections 40101, 40110, and 41742 of this title\] and the amendments made by this title shall take effect on the date that is 30 days after the date of the enactment of this Act \[Oct. 9, 1996\].”
+
+#### Deemed References to Chapters 509 and 511 of Title 51
+
+General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 
 #### Federal Aviation Administration Science and Technology Scholarship Program
 
@@ -1192,7 +1204,7 @@ Section 222 of title II of Pub. L. 104–264 provided that: “The purposes of t
 
 #### Preservation of Existing Authority
 
-Section 223(b) of title II of Pub. L. 104–264 provided that: “Nothing in this title \[see Effective Date of 1996 Amendment note set out above\] or the amendments made by this title limits any authority granted to the Administrator by statute or by delegation that was in effect on the day before the date of the enactment of this Act \[Oct. 9, 1996\].”
+Section 223(b) of title II of Pub. L. 104–264 provided that: “Nothing in this title \[see Effective Date of 1996 Amendment note set out above\] or the amendmentsmade by this title limits any authority granted to the Administrator by statute or by delegation that was in effect on the day before the date of the enactment of this Act \[Oct. 9, 1996\].”
 
 #### Personnel Management System for Federal Aviation Administration
 
@@ -1306,7 +1318,7 @@ Pub. L. 102–308, June 26, 1992, 106 Stat. 273, provided: “That notwithstandi
 
 “
 
-Sec. 2. In the performance of his duties as Administrator of the Federal Aviation Administration, General Richards shall be subject to no supervision, control, restriction, or prohibition (military or otherwise) other than would be operative with respect to him if he were not an officer on the retired list of the United States Air Force.
+Sec. 2. In the performance of his duties as Administrator of the Federal Aviation Administration, GeneralRichards shall be subject to no supervision, control, restriction, or prohibition (military or otherwise) other than would be operative with respect to him if he were not an officer on the retired list of the United States Air Force.
 
 “
 

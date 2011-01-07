@@ -72,7 +72,7 @@ The Securities Exchange Act of 1934, referred to in subsec. (d)(4)(A), is act Ju
 
 #### Amendments
 
-2004—Subsec. (c)(5). Pub. L. 108–373, §207(a), added par. (5).
+<b>2004</b>—Subsec. (c)(5). Pub. L. 108–373, §207(a), added par. (5).
 
 Subsec. (d). Pub. L. 108–373, §207(b), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows:
 

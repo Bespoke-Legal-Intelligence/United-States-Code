@@ -82,7 +82,7 @@ Another prior section 1932 of act July 1, 1944, was classified to section 300y�
 
 #### Amendments
 
-2000—Subsec. (a)(1). Pub. L. 106–310, §3303(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the State involved submits the application not later than the date specified by the Secretary;”.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–310, §3303(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the State involved submits the application not later than the date specified by the Secretary;”.
 
 Subsec. (c). Pub. L. 106–310, §3303(e), substituted “except Puerto Rico” for “whose allotment under section 300x–21 of this title for the fiscal year is the amount specified in section 300x–33(c)(2)(B) of this title”.
 

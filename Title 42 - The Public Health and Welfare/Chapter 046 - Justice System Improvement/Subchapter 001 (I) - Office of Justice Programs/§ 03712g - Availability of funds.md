@@ -30,7 +30,7 @@ This section applies to DOJ grant funds for fiscal years beginning with fiscal y
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–271 substituted “be deobligated” for “revert to the Treasury”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–271 substituted “be deobligated” for “revert to the Treasury”.
 
 #### Effective Date
 

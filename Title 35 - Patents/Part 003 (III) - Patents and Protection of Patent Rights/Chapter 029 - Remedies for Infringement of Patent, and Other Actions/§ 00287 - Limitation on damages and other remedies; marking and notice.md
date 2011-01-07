@@ -1,6 +1,6 @@
 ### §287. Limitation on damages and other remedies; marking and notice
 
-(a) Patentees, and persons making, offering for sale, or selling within the United States any patented article for or under them, or importingany patented article into the United States, may give notice to the public that the same is patented, either by fixing thereon the word “patent” or the abbreviation “pat.”, together with the number of the patent, or when, from the character of the article, this can not be done, by fixing to it, or to the package wherein one or more of them is contained, a label containing a like notice. In the event of failure so to mark, no damages shall be recovered by the patentee in any action for infringement, except on proof that the infringer was notified of the infringement and continued to infringe thereafter, in which event damages may be recovered only for infringement occurring after such notice. Filing of an action for infringement shall constitute such notice.
+(a) Patentees, and persons making, offering for sale, or selling within the United States any patented article for or under them, or importing any patented article into the United States, may give notice to the public that the same is patented, either by fixing thereon the word “patent” or the abbreviation “pat.”, together with the number of the patent, or when, from the character of the article, this can not be done, by fixing to it, or to the package wherein one or more of them is contained, a label containing a like notice. In the event of failure so to mark, no damages shall be recovered by the patentee in any action for infringement, except on proof that the infringer was notified of the infringement and continued to infringe thereafter, in which event damages may be recovered only for infringement occurring after such notice. Filing of an action for infringement shall constitute such notice.
 
 (b)(1) An infringer under section 271(g) shall be subject to all the provisions of this title relating to damages and injunctions except to the extent those remedies are modified by this subsection or section 9006 of the Process Patent Amendments Act of 1988. The modifications of remedies provided in this subsection shall not be available to any person who—
 
@@ -44,7 +44,7 @@
 
 (5)(A) For purposes of this subsection, notice of infringement means actual knowledge, or receipt by a person of a written notification, or a combination thereof, of information sufficient to persuade a reasonable person that it is likely that a product was made by a process patented in the United States.
 
-(B) A written notification from the patent holder charging a person with infringement shall specify the patented process alleged to have been used and the reasons for a good faithbelief that such process was used. The patent holder shall include in the notification such information as is reasonably necessary to explain fairly the patent holder's belief, except that the patent holder is not required to disclose any trade secret information.
+(B) A written notification from the patent holder charging a person with infringement shall specify the patented process alleged to have been used and the reasons for a good faith belief that such process was used. The patent holder shall include in the notification such information as is reasonably necessary to explain fairly the patent holder's belief, except that the patent holder is not required to disclose any trade secret information.
 
 (C) A person who receives a written notification described in subparagraph (B) or a written response to a request for disclosure described in paragraph (4) shall be deemed to have notice of infringement with respect to any patent referred to in such written notification or response unless that person, absent mitigating circumstances—
 
@@ -92,7 +92,7 @@ Language is changed. The proviso in the corresponding section of existing statut
 
 #### References in Text
 
-Section 9006 of the Process Patent Amendments Act of 1988, referred to in subsec. (b)(1), is section 9006 oftitle IX of Pub. L. 100–418, which is set out as a note under section 271 of this title.
+Section 9006 of the Process Patent Amendments Act of 1988, referred to in subsec. (b)(1), is section 9006 of title IX of Pub. L. 100–418, which is set out as a note under section 271 of this title.
 
 The effective date of the Process Patent Amendments Act of 1988, referred to in subsec. (b)(4)(C), is the effective date of title IX of Pub. L. 100–418. See section 9006 of Pub. L. 100–418, set out as a note under section 271 of this title.
 
@@ -106,11 +106,11 @@ The Clinical Laboratories Improvement Act, referred to in subsec. (c)(3)(B), pro
 
 #### Amendments
 
-1999—Subsec. (c)(4). Pub. L. 106–113 substituted “based on an application the earliest effective filing date of which is prior to September 30, 1996” for “before the date of enactment of this subsection”.
+<b>1999</b>—Subsec. (c)(4). Pub. L. 106–113 substituted “based on an application the earliest effective filing date of which is prior to September 30, 1996” for “before the date of enactment of this subsection”.
 
-1996—Subsec. (c). Pub. L. 104–208 added subsec. (c).
+<b>1996</b>—Subsec. (c). Pub. L. 104–208 added subsec. (c).
 
-1994—Subsec. (a). Pub. L. 103–465, §533(b)(5)(A), substituted “making, offering for sale, or selling within the United States” for “making or selling” and inserted “or importing any patented article into the United States,” after “under them,”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–465, §533(b)(5)(A), substituted “making, offering for sale, or selling within the United States” for “making or selling” and inserted “or importing any patented article into the United States,” after “under them,”.
 
 Subsec. (b)(1)(C). Pub. L. 103–465, §533(b)(5)(B)(i), substituted “use, offer for sale, or sale” for “use, or sale”.
 
@@ -120,7 +120,7 @@ Subsec. (b)(4)(A)(ii). Pub. L. 103–465, §533(b)(5)(B)(iii), substituted “us
 
 Subsec. (b)(4)(C). Pub. L. 103–465, §533(b)(5)(B)(iv), (v), substituted “have been offered for sale or sold” for “have been sold” and “United States, or imported by the person into the United States, before” for “United States before”.
 
-1988—Pub. L. 100–418 inserted “and other remedies” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
+<b>1988</b>—Pub. L. 100–418 inserted “and other remedies” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
 
 #### Effective Date of 1994 Amendment
 

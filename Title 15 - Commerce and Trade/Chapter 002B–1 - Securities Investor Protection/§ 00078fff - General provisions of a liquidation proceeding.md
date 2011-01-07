@@ -40,9 +40,9 @@ This chapter, referred to in subsecs. (a)(1), (3), (b), (c), and (d), was in the
 
 #### Amendments
 
-2005—Subsec. (e). Pub. L. 109–8 substituted “507(a)(2)” for “507(a)(1)”.
+<b>2005</b>—Subsec. (e). Pub. L. 109–8 substituted “507(a)(2)” for “507(a)(1)”.
 
-1978—Pub. L. 95–283 substituted “General provisions of a liquidation proceeding” for “Liquidation proceedings” in section catchline.
+<b>1978</b>—Pub. L. 95–283 substituted “General provisions of a liquidation proceeding” for “Liquidation proceedings” in section catchline.
 
 Subsec. (a). Pub. L. 95–283 in heading substituted “Purposes” for “General purposes of liquidation proceeding”, in introductory text substituted provisions relating to purposes of liquidation proceedings under this chapter, for provisions relating to purposes of any proceeding in which a trustee has been appointed under section 78eee(b)(3) of this title, in par. (1) substituted provisions requiring execution of authorities to deliver customer name securities and distribute customer property in accordance with this chapter, for provisions requiring execution of authorities to return specifically identifiable property and distribute the single and separate fund in accordance with this section, and in par. (2) substituted provisions authorizing sale, etc., of productive units of the debtor, for provisions authorizing operation of the business of the debtor.
 

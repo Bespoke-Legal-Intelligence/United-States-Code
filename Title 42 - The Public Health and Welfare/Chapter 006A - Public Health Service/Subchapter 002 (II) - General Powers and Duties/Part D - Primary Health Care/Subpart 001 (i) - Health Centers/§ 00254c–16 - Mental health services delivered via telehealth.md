@@ -92,7 +92,7 @@ The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch
 
 #### Amendments
 
-2003—Subsec. (b)(2). Pub. L. 108–163, §2(d)(1), substituted “subsection (a)(3)” for “subsection (a)(4)”.
+<b>2003</b>—Subsec. (b)(2). Pub. L. 108–163, §2(d)(1), substituted “subsection (a)(3)” for “subsection (a)(4)”.
 
 Subsec. (c)(1)(A). Pub. L. 108–163, §2(d)(2)(A), substituted “subsection (a)(3)(A)” for “subsection (a)(4)(A)”.
 

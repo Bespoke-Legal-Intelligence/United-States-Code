@@ -116,13 +116,13 @@ In subsection (c)(2), the words “relating to dissemination of the curriculum�
 
 #### Amendments
 
-2008—Pub. L. 110–244 substituted “Authorization” for “Authorizations” in section catchline.
+<b>2008</b>—Pub. L. 110–244 substituted “Authorization” for “Authorizations” in section catchline.
 
-2005—Pub. L. 109–59, §7125, substituted “Authorizations” for “Authorization” in section catchline and amended text generally, substituting provisions relating to authorization of appropriations for fiscal years 2005 to 2008, consisting of subsecs. (a) to (f), for provisions relating to authorization of appropriations for fiscal years 1993 to 1998, consisting of subsecs. (a) to (g).
+<b>2005</b>—Pub. L. 109–59, §7125, substituted “Authorizations” for “Authorization” in section catchline and amended text generally, substituting provisions relating to authorization of appropriations for fiscal years 2005 to 2008, consisting of subsecs. (a) to (f), for provisions relating to authorization of appropriations for fiscal years 1993 to 1998, consisting of subsecs. (a) to (g).
 
 Pub. L. 109–59, §7123(b), renumbered section 5127 of this title as this section.
 
-1994—Subsec. (a). Pub. L. 103–311, §103, substituted “fiscal year 1993, $18,000,000 for fiscal year 1994, $18,540,000 for fiscal year 1995, $19,100,000 for fiscal year 1996, and $19,670,000 for fiscal year 1997” for “the fiscal year ending September 30, 1993,”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–311, §103, substituted “fiscal year 1993, $18,000,000 for fiscal year 1994, $18,540,000 for fiscal year 1995, $19,100,000 for fiscal year 1996, and $19,670,000 for fiscal year 1997” for “the fiscal year ending September 30, 1993,”.
 
 Subsec. (b). Pub. L. 103–311, §119(c)(4), amended subsec. (b)(1) generally. Prior to amendment, subsec. (b)(1) read as follows:
 

@@ -56,7 +56,7 @@ In this section:
 
 #### (2) Contingent cost
 
-&emsp;The term “contingent cost” means the cost to the United States in the event of a covered incident the amount of which is equal to the amount of funds the United States is obligated to make available under paragraph 1(b) of Article III of the Convention.
+&emsp;The term “contingent cost” means the cost to the United States in the event of a coveredincident the amount of which is equal to the amount of funds the United States is obligated to make available under paragraph 1(b) of Article III of the Convention.
 
 #### (3) Convention
 
@@ -68,7 +68,7 @@ In this section:
 
 #### (5) Covered installation
 
-&emsp;The term “covered installation” means a nuclear installation at which the occurrenceof a nuclear incident could result in a request for funds under Article VII of the Convention.
+&emsp;The term “covered installation” means a nuclear installation at which the occurrence of a nuclear incident could result in a request for funds under Article VII of the Convention.
 
 #### (6) Covered person
 
@@ -182,7 +182,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) the nature and intended purpose of the goods and services supplied by each nuclear supplier to each covered installation outside the United States;
 
-&emsp;&emsp;&emsp;&emsp;(II) the quantity of the goods and services supplied by each nuclear supplier toeach covered installation outside the United States;
+&emsp;&emsp;&emsp;&emsp;(II) the quantity of the goods and services supplied by each nuclear supplier to each covered installation outside the United States;
 
 &emsp;&emsp;&emsp;&emsp;(III) the hazards associated with the supplied goods and services if the goods and services fail to achieve the intended purposes;
 
@@ -256,7 +256,7 @@ Nothing in any other law (including regulations) limits liability for a covered 
 
 #### (ii) Annual payments
 
-&emsp;&emsp;&emsp;A nuclear supplier may elect to prorate payment of the deferred payment required under subparagraph (A) in 5 equal annual payments (including interest on the unpaid balance at the prime rate prevailing at the time the first payment is due).
+&emsp;&emsp;&emsp;A nuclear supplier may elect to prorate payment of the deferred payment required under subparagraph (A) in 5 equal annualpayments (including interest on the unpaid balance at the prime rate prevailing at the time the first payment is due).
 
 #### (C) Vouchers
 
@@ -270,7 +270,7 @@ Nothing in any other law (including regulations) limits liability for a covered 
 
 #### (B) Action by Secretary of Treasury
 
-&emsp;&emsp;The Secretary of the Treasury shall pay the contribution required under the Convention to the court of competent jurisdictionunder Article XIII of the Convention with respect to the applicable covered incident.
+&emsp;&emsp;The Secretary of the Treasury shall pay the contribution required under the Convention to the court of competent jurisdiction under Article XIII of the Convention with respect to the applicable covered incident.
 
 #### (3) Failure to pay
 

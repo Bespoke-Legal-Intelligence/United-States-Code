@@ -28,7 +28,7 @@ If any article or substance sold in commerce is defined as a banned hazardous su
 
 > &emsp;whichever first occurs).
 
-> An order under this subsection may also require the person to whom it applies to submit a plan, satisfactory to the Commission, for taking the action which such person has elected to take.The Commission shall specify in the order the persons to whom refunds must be made if the person to whom the order is directed elects to take the action described in paragraph (3). If an order under this subsection is directed to more than one person, the Commission shall specify which person has the election under this subsection. An order under this subsection may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), or from doing any combination of such actions, with respect to the article or substance with respect to which the order was issued.
+> An order under this subsection may also require the person to whom it applies to submit a plan, satisfactory to the Commission, for taking the action which such person has elected to take. The Commission shall specify in the order the persons to whom refunds must be made if the person to whom the order is directed elects to take the action described in paragraph (3). If an order under this subsection is directed to more than one person, the Commission shall specify which person has the election under this subsection. An order under this subsection may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), or from doing any combination of such actions, with respect to the article or substance with respect to which the order was issued.
 
 #### (c) Discretionary remedial activities available to Commission; orders; contents
 
@@ -42,7 +42,7 @@ If any article or substance sold in commerce is defined as a banned hazardous su
 
 > An order under this paragraph shall specify the form and content of any notice required to be given under the order.
 
-(2) If the Commission determines (after affording interested persons, including consumers and consumer organizations, an opportunity for a hearing in accordance with subsection (e) of this section) that any toy or other article intended for use by children that is not a banned hazardous substance contains a defect which creates a substantial risk of injury to children (because of the pattern of defect, the number of defective toys or such articles distributed in commerce, the severity of the risk, or otherwise) and that action under this paragraph is in the public interest, the Commission may order the manufacturer, distributor, or dealer to take whichever of the following actions the person to whom the order is directed elects:
+(2) If the Commission determines (after affording interested persons, including consumers and consumer organizations, an opportunity for a hearing in accordance with subsection (e) of this section) that any toy or other article intended for use by children that is not a banned hazardous substance contains a defect which creates asubstantial risk of injury to children (because of the pattern of defect, the number of defective toys or such articles distributed in commerce, the severity of the risk, or otherwise) and that action under this paragraph is in the public interest, the Commission may order the manufacturer, distributor, or dealer to take whichever of the following actions the person to whom the order is directed elects:
 
 &emsp;(A) If repairs to or changes in the toy or article can be made so that it will not contain a defect which creates a substantial risk of injury to children, to make such repairs or changes.
 
@@ -64,7 +64,7 @@ An order under subsection (a), (b), or (c) of this section may be issued only af
 
 #### (f) “Manufacturer” defined
 
-For purposes of this section (1) the term “manufacturer” includes an importer for resale,and (2) a dealer who sells at wholesale an article or substance shall with respect to that sale be considered the distributor of that article or substance.
+For purposes of this section (1) the term “manufacturer” includes an importer for resale, and (2) a dealer who sells at wholesale an article or substance shall with respect to that sale be considered the distributor of that article or substance.
 
 #### (g) Cost-benefit analysis of notification or other action not required
 
@@ -78,13 +78,13 @@ The Harmonized Tariff Schedule of the United States, referred to in subsecs. (b)
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–314 substituted “Commission may order” for “Consumer Product Safety Commission may order” in introductory provisions.
+<b>2008</b>—Subsec. (b). Pub. L. 110–314 substituted “Commission may order” for “Consumer Product Safety Commission may order” in introductory provisions.
 
-1990—Subsec. (g). Pub. L. 101–608 added subsec. (g).
+<b>1990</b>—Subsec. (g). Pub. L. 101–608 added subsec. (g).
 
-1988—Subsecs. (b), (c)(2). Pub. L. 100–418 substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 to the Tariff Schedules of the United States”.
+<b>1988</b>—Subsecs. (b), (c)(2). Pub. L. 100–418 substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 to the Tariff Schedules of the United States”.
 
-1984—Subsec. (c). Pub. L. 98–491, §2(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
+<b>1984</b>—Subsec. (c). Pub. L. 98–491, §2(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 98–491, §2(a)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
@@ -96,9 +96,9 @@ Subsec. (e). Pub. L. 98–491, §2(a)(2), (d), redesignated subsec. (d) as (e) a
 
 Subsec. (f). Pub. L. 98–491, §2(a)(1), redesignated subsec. (e) as (f).
 
-1983—Subsec. (e). Pub. L. 97–414 added subsec. (e).
+<b>1983</b>—Subsec. (e). Pub. L. 97–414 added subsec. (e).
 
-1981—Pub. L. 97–35 revised section generally and substituted provisions authorizing the Commission to require the manufacturers, distributors, or dealers as the case may be to notify the public that the article or substance was a banned hazardous one, and to repair, replace or refund the purchase price, when the Commission determines after providing the manufacturer, distributor, or dealer an opportunity for a hearing that banned hazardous substances were sold for provisions requiring the manufacturer, distributor or dealer to repurchase the banned hazardous article or substance.
+<b>1981</b>—Pub. L. 97–35 revised section generally and substituted provisions authorizing the Commission to require the manufacturers, distributors, or dealers as the case may be to notify the public that the article or substance was a banned hazardous one, and to repair, replace or refund the purchase price, when the Commission determines after providing the manufacturer, distributor, or dealer an opportunity for a hearing that banned hazardous substances were sold for provisions requiring the manufacturer, distributor or dealer to repurchase the banned hazardous article or substance.
 
 #### Effective Date of 1988 Amendment
 

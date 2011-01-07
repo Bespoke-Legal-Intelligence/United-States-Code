@@ -62,17 +62,21 @@ An obligor shall have no rescission rights arising solely from the form of writt
 
 &emsp;This subsection shall apply to all consumer credit transactions in existence or consummated on or after September 30, 1995.
 
-(Pub. L. 90–321, title I, §125, May 29, 1968, 82 Stat. 153; Pub. L. 93–495, title IV, §§404, 405, 412, Oct. 28, 1974, 88 Stat. 1517, 1519; Pub. L. 96–221, title VI, §612(a)(1), (3)–(6), Mar. 31, 1980, 94 Stat. 175, 176; Pub. L. 98–479, title II, §205, Oct. 17, 1984, 98 Stat. 2234; Pub. L. 104–29, §§5, 8, Sept. 30, 1995, 109 Stat. 274, 275.)
+(Pub. L. 90–321, title I, §125, May 29, 1968, 82 Stat. 153; Pub. L. 93–495, title IV, §§404, 405, 412, Oct. 28, 1974, 88 Stat. 1517, 1519; Pub. L. 96–221, title VI, §612(a)(1), (3)–(6), Mar. 31, 1980, 94 Stat. 175, 176; Pub. L. 98–479, title II, §205, Oct. 17, 1984, 98 Stat. 2234; Pub. L. 104–29, §§5, 8, Sept. 30, 1995, 109 Stat. 274, 275; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
-1995—Subsec. (h). Pub. L. 104–29, §5, added subsec. (h).
+<b>1995</b>—Subsec. (h). Pub. L. 104–29, §5, added subsec. (h).
 
 Subsec. (i). Pub. L. 104–29, §8, added subsec. (i).
 
-1984—Subsec. (e). Pub. L. 98–479 redesignated par. (1) as subsec. (e), redesignated subpars. (A), (B), (C), and (D) of par. (1) as pars. (1), (2), (3), and (4), respectively, and struck out par. (2) which read as follows: “The provisions of paragraph (1)(D) shall cease to be effective 3 years after the effective date of the Truth in Lending Simplification Reform Act.”
+<b>1984</b>—Subsec. (e). Pub. L. 98–479 redesignated par. (1) as subsec. (e), redesignated subpars. (A), (B), (C), and (D) of par. (1) as pars. (1), (2), (3), and (4), respectively, and struck out par. (2) which read as follows: “The provisions of paragraph (1)(D) shall cease to be effective 3 years after the effective date of the Truth in Lending Simplification Reform Act.”
 
-1980—Subsec. (a). Pub. L. 96–221, §612(a)(1), substituted provisions relating to the right of rescission until midnight of the third business day following the consummation of the transaction or the delivery of the information and rescission forms required together with the statement containing the material disclosures required under this subchapter, whichever is later, for provisions relating to right of rescission until midnightof the third business day following the consummation of the transaction or the delivery of the required disclosures and all other material disclosures required under this part, whichever is later.
+<b>1980</b>—Subsec. (a). Pub. L. 96–221, §612(a)(1), substituted provisions relating to the right of rescission until midnight of the third business day following the consummation of the transaction or the delivery of the information and rescission forms required together with the statement containing the material disclosures required under this subchapter, whichever is later, for provisions relating to right of rescission until midnight of the third business day following the consummation of the transaction or the delivery of the required disclosures and all other material disclosures required under this part, whichever is later.
 
 Subsec. (b). Pub. L. 96–221, §612(a)(3), (4), inserted provisions setting forth applicability of procedures prescribed by this subsection, and substituted “20” for “ten” in two places.
 
@@ -84,11 +88,15 @@ Subsec. (f). Pub. L. 96–221, §612(a)(6), substituted provisions setting forth
 
 Subsec. (g). Pub. L. 96–221, §612(a)(6), added subsec. (g).
 
-1974—Subsecs. (a), (b). Pub. L. 93–495, §404, inserted provisions relating to security interest arising by operation of law.
+<b>1974</b>—Subsecs. (a), (b). Pub. L. 93–495, §404, inserted provisions relating to security interest arising by operation of law.
 
 Subsec. (e). Pub. L. 93–495, §412, inserted exemption for consumer credit transactions where a State agency is the creditor.
 
 Subsec. (f). Pub. L. 93–495, §405, added subsec. (f).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1980 Amendment
 

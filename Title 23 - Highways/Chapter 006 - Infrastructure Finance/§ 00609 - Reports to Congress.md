@@ -12,7 +12,7 @@ On June 1, 2006, and every 2 years thereafter, the Secretary shall submit to Con
 
 #### Amendments
 
-2005—Pub. L. 109–59, §1602(d), renumbered section 189 of this title as this section.
+<b>2005</b>—Pub. L. 109–59, §1602(d), renumbered section 189 of this title as this section.
 
 Pub. L. 109–59, §1601(h), substituted “Reports” for “Report” in section catchline, “On June 1, 2006, and every 2 years thereafter,” for “Not later than 4 years after the date of enactment of this subchapter,” in introductory provisions, and “chapter (other than section 610)” for “subchapter” wherever appearing.
 

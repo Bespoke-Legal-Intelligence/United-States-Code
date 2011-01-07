@@ -13,35 +13,43 @@
 | [2207B.](%C2%A7%2002207B%20-%20Right%20of%20recovery%20where%20decedent%20retained%20interest.md) | Right of recovery where decedent retained interest. |
 | [2208\.](%C2%A7%2002208%20-%20Certain%20residents%20of%20possessions%20considered%20citizens%20of%20the%20United%20States.md) | Certain residents of possessions considered citizens of the United States. |
 | [2209\.](%C2%A7%2002209%20-%20Certain%20residents%20of%20possessions%20considered%20nonresidents%20not%20citizens%20of%20the%20United%20States.md) | Certain residents of possessions considered nonresidents not citizens of the United States. |
-| [2210\.](%C2%A7%2002210%20-%20Termination.md) | Termination. |
+| \[2210. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>For termination of amendment by section 304 of Pub. L. 111–312, see Effective and Termination Dates of 2010 Amendment note set out under section 121 of this title.</i>
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note set out under section 1 of this title.</i>
+
 #### Amendments
 
-2003—Pub. L. 108–121, title I, §110(c)(2)(B), Nov. 11, 2003, 117 Stat. 1342, inserted “, deaths of astronauts,” after “Forces” in item 2201.
+<b>2010</b>—Pub. L. 111–312, title III, §§301(a), 304, Dec. 17, 2010, 124 Stat. 3300, 3304, temporarily amended analysis to read as if amendment by Pub. L. 107–16, §501(c)(1), had never been enacted. See 2001 Amendment note below.
 
-2002—Pub. L. 107–134, title I, §103(c), Jan. 23, 2002, 115 Stat. 2431, substituted “Combat zone-related deaths of members of the Armed Forces and deaths of victims of certain terrorist attacks.” for “Members of the Armed Forces dying in combat zone or by reason of combat-zone-incurred wounds, etc.” in item 2201.
+<b>2003</b>—Pub. L. 108–121, title I, §110(c)(2)(B), Nov. 11, 2003, 117 Stat. 1342, inserted “, deaths of astronauts,” after “Forces” in item 2201.
 
-2001—Pub. L. 107–16, title V, §501(c)(1), June 7, 2001, 115 Stat. 69, added item 2210.
+<b>2002</b>—Pub. L. 107–134, title I, §103(c), Jan. 23, 2002, 115 Stat. 2431, substituted “Combat zone-related deaths of members of the Armed Forces and deaths of victims of certain terrorist attacks.” for “Members of the Armed Forces dying in combat zone or by reason of combat-zone-incurred wounds, etc.” in item 2201.
 
-1989—Pub. L. 101–239, title VII, §7304(b)(2)(C), Dec. 19, 1989, 103 Stat. 2353, struck out item 2210 “Liability for payment in case of transfer of employer securities to an employee stock ownership plan or a worker-owned cooperative”.
+<b>2001</b>—Pub. L. 107–16, title V, §501(c)(1), title IX, §901, June 7, 2001, 115 Stat. 69, 150, temporarily added item 2210 “Termination”.
 
-1988—Pub. L. 100–647, title III, §3031(f)(2), Nov. 10, 1988, 102 Stat. 3638, added item 2207B.
+<b>1989</b>—Pub. L. 101–239, title VII, §7304(b)(2)(C), Dec. 19, 1989, 103 Stat. 2353, struck out item 2210 “Liability for payment in case of transfer of employer securities to an employee stock ownership plan or a worker-owned cooperative”.
 
-1984—Pub. L. 98–369, div. A, title V, §544(b)(2), July 18, 1984, 98 Stat. 894, added item 2210.
+<b>1988</b>—Pub. L. 100–647, title III, §3031(f)(2), Nov. 10, 1988, 102 Stat. 3638, added item 2207B.
 
-1981—Pub. L. 97–34, title IV, §403(d)(4)(B), Aug. 13, 1981, 95 Stat. 305, added item 2207A.
+<b>1984</b>—Pub. L. 98–369, div. A, title V, §544(b)(2), July 18, 1984, 98 Stat. 894, added item 2210.
 
-1976—Pub. L. 94–455, title XIX, §1902(b)(1), Oct. 4, 1976, 90 Stat. 1806, struck out item 2202 “Missionaries in foreign service”.
+<b>1981</b>—Pub. L. 97–34, title IV, §403(d)(4)(B), Aug. 13, 1981, 95 Stat. 305, added item 2207A.
 
-1975—Pub. L. 93–597, §6(b)(3), Jan. 2, 1975, 88 Stat. 1953, substituted “Members of the Armed Forces dying in combat zone or by reason of combat-zone-incurred wounds, etc.” for “Members of the Armed Forces dying during an induction period.” in item 2201.
+<b>1976</b>—Pub. L. 94–455, title XIX, §1902(b)(1), Oct. 4, 1976, 90 Stat. 1806, struck out item 2202 “Missionaries in foreign service”.
 
-1970—Pub. L. 91–614, title I, §101(d)(3), Dec. 31, 1970, 84 Stat. 1837, substituted “Discharge of fiduciary from personal liability” for “Discharge of executor from personal liability” in item 2204.
+<b>1975</b>—Pub. L. 93–597, §6(b)(3), Jan. 2, 1975, 88 Stat. 1953, substituted “Members of the Armed Forces dying in combat zone or by reason of combat-zone-incurred wounds, etc.” for “Members of the Armed Forces dying during an induction period.” in item 2201.
 
-1960—Pub. L. 86–779, §4(b)(2), Sept. 14, 1960, 74 Stat. 1000, added item 2209.
+<b>1970</b>—Pub. L. 91–614, title I, §101(d)(3), Dec. 31, 1970, 84 Stat. 1837, substituted “Discharge of fiduciary from personal liability” for “Discharge of executor from personal liability” in item 2204.
 
-1958—Pub. L. 85–866, title I, §102(c)(4), Sept. 2, 1958, 72 Stat. 1675, added item 2208.
+<b>1960</b>—Pub. L. 86–779, §4(b)(2), Sept. 14, 1960, 74 Stat. 1000, added item 2209.
+
+<b>1958</b>—Pub. L. 85–866, title I, §102(c)(4), Sept. 2, 1958, 72 Stat. 1675, added item 2208.
 
 
 ---
@@ -59,4 +67,4 @@
 - [&sect; 02207B - Right of recovery where decedent retained interest](%C2%A7%2002207B%20-%20Right%20of%20recovery%20where%20decedent%20retained%20interest.md)
 - [&sect; 02208 - Certain residents of possessions considered citizens of the United States](%C2%A7%2002208%20-%20Certain%20residents%20of%20possessions%20considered%20citizens%20of%20the%20United%20States.md)
 - [&sect; 02209 - Certain residents of possessions considered nonresidents not citizens of the United States](%C2%A7%2002209%20-%20Certain%20residents%20of%20possessions%20considered%20nonresidents%20not%20citizens%20of%20the%20United%20States.md)
-- [&sect; 02210 - Termination](%C2%A7%2002210%20-%20Termination.md)
+- [&sect; 02210 - Repealed. Pub. L. 111&#8211;312, title III, &sect;301(a), Dec. 17, 2010, 124 Stat. 3300](%C2%A7%2002210%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93312%2C%20title%20III%2C%20%C2%A7301%28a%29%2C%20Dec.%2017%2C%202010%2C%20124%20Stat.%203300.md)

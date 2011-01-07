@@ -8,11 +8,11 @@
 
 > The official who would be authorized to appoint him shall give him a discharge certificate.
 
-(b) Subject to subsection (a), the appointment of an officer of the National Guard may be terminated or vacated as provided by the laws of the State of whose National Guard he is a member, or by the laws of the Commonwealth of Puerto Rico, or the District of Columbia, Guam, or the Virgin Islands, whose <sup>1</sup> National Guard he is a member.
+(b) Subject to subsection (a), the appointment of an officer of the National Guard may be terminated or vacated as provided by the laws of the State of whose National Guard he is a member, or by the laws of the Commonwealth of Puerto Rico, or the District of Columbia, Guam, or the Virgin Islands, of whose National Guard he is a member.
 
 (c) Notwithstanding subsection (a)(1), an officer of the National Guard serving as a chaplain, medical officer, dental officer, nurse, veterinarian, Medical Service Corps officer, or biomedical sciences officer may be retained, with the officer's consent, until the date on which the officer becomes 68 years of age.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 607; Pub. L. 100–456, div. A, title XII, §1234(b)(6), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, §1057(b)(5), Jan. 6, 2006, 119 Stat. 3441; Pub. L. 110–417, \[div. A\], title V, §516(b), Oct. 14, 2008, 122 Stat. 4442.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 607; Pub. L. 100–456, div. A, title XII, §1234(b)(6), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, §1057(b)(5), Jan. 6, 2006, 119 Stat. 3441; Pub. L. 110–417, \[div. A\], title V, §516(b), Oct. 14, 2008, 122 Stat. 4442; Pub. L. 111–383, div. A, title X, §1075(h)(4)(C), Jan. 7, 2011, 124 Stat. 4377.)
 
 Historical and Revision Notes
 
@@ -38,11 +38,15 @@ In subsection (b), the words “Subject to subsection (a)” are inserted for cl
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–417 added subsec. (c).
+<b>2011</b>—Subsec. (b). Pub. L. 111–383 amended directory language of Pub. L. 109–163, §1057(b)(5). See 2006 Amendment note below.
 
-2006—Subsec. (b). Pub. L. 109–163, which directed substitution of “State of whose National Guard he is a member, or by the laws of the Commonwealth of Puerto Rico, or the District of Columbia, Guam, or the Virgin Islands, whose National Guard he is a member” for “State or Territory of whose National Guard he is a member, or by the laws of Puerto Rico, or the District of Columbia, if he is a member of its National Guard”, was executed by making the substitution for language that did not have a comma after “Puerto Rico”, to reflect the probable intent of Congress.
+<b>2008</b>—Subsec. (c). Pub. L. 110–417 added subsec. (c).
 
-1988—Subsec. (b). Pub. L. 100–456 struck out “, the Canal Zone,” after “Puerto Rico”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–163, §1057(b)(5), as amended by Pub. L. 111–383, substituted “State of whose National Guard he is a member, or by the laws of the Commonwealth of Puerto Rico, or the District of Columbia, Guam, or the Virgin Islands, of whose National Guard he is a member” for “State or Territory of whose National Guard he is a member, or by the laws of Puerto Rico or the District of Columbia, if he is a member of its National Guard”.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of whose”.</i>
+<b>1988</b>—Subsec. (b). Pub. L. 100–456 struck out “, the Canal Zone,” after “Puerto Rico”.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–383, div. A, title X, §1075(h), Jan. 7, 2011, 124 Stat. 4377, provided that the amendment made by section 1075(h)(4)(C) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
 

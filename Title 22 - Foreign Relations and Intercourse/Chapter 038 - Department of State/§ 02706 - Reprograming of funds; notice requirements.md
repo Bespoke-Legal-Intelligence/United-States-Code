@@ -34,15 +34,15 @@ A prior section 34 of act Aug. 1, 1956, was renumbered sections 35 and 36 by sec
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–277, §2243(1), in introductory provisions, substituted “International Relations and the Committee on Appropriations” for “Foreign Affairs” and inserted “and the Committee on Appropriations” after “Foreign Relations”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §2243(1), in introductory provisions, substituted “International Relations and the Committee on Appropriations” for “Foreign Affairs” and inserted “and the Committee on Appropriations” after “Foreign Relations”.
 
 Subsec. (c). Pub. L. 105–277, §2243(2), added subsec. (c).
 
-1994—Subsec. (a)(7). Pub. L. 103–236 substituted “$1,000,000” for “$500,000”.
+<b>1994</b>—Subsec. (a)(7). Pub. L. 103–236 substituted “$1,000,000” for “$500,000”.
 
-1991—Subsec. (a)(7). Pub. L. 102–138 substituted “$500,000” for “$250,000”.
+<b>1991</b>—Subsec. (a)(7). Pub. L. 102–138 substituted “$500,000” for “$250,000”.
 
-1987—Pub. L. 100–204 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1987</b>—Pub. L. 100–204 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Change of Name
 

@@ -18,9 +18,9 @@ Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substanti
 
 #### Amendments
 
-2006—Pub. L. 109–326 amended section generally, substituting provisions authorizing appropriations for fiscal years 2007 to 2012 for provisions authorizing appropriations for fiscal years 1999 to 2004.
+<b>2006</b>—Pub. L. 109–326 amended section generally, substituting provisions authorizing appropriations for fiscal years 2007 to 2012 for provisions authorizing appropriations for fiscal years 1999 to 2004.
 
-1998—Pub. L. 105–265 amended section generally, substituting provisions authorizing appropriations for fiscal years 1999 to 2004 for provisions authorizing appropriations for fiscal years 1991 to 1994 to conduct a study under section 941c of this title and for fiscal years 1991 to 1995 to establish and operate Great Lakes Coordination and Upper and Lower Great Lakes Fishery Resources Offices.
+<b>1998</b>—Pub. L. 105–265 amended section generally, substituting provisions authorizing appropriations for fiscal years 1999 to 2004 for provisions authorizing appropriations for fiscal years 1991 to 1994 to conduct a study under section 941c of this title and for fiscal years 1991 to 1995 to establish and operate Great Lakes Coordination and Upper and Lower Great Lakes Fishery Resources Offices.
 
-1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §2009, which enacted this section.
+<b>1996</b>—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §2009, which enacted this section.
 

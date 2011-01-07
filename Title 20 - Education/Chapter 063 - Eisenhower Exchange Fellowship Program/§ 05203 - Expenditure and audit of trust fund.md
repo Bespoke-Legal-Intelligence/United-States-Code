@@ -12,7 +12,7 @@ The activities of Eisenhower Exchange Fellowships, Incorporated, may be audited 
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading and in two places in text.
+<b>2004</b>—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading and in two places in text.
 
 #### Use of Earned Unused Trust Income for Fellowship Purposes
 

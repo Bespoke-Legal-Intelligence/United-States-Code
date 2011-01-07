@@ -40,13 +40,13 @@ Nothing in this section shall be construed as relieving a television broadcastin
 
 &emsp;&emsp;(B) for which the licensee directly or indirectly receives compensation from a third party in return for transmitting material furnished by such third party (other than commercial advertisements used to support broadcasting for which a subscription fee is not required),
 
-> &emsp;the Commission shall establish a program to assess and collect from the licensee for suchdesignated frequency an annual fee or other schedule or method of payment that promotes the objectives described in subparagraphs (A) and (B) of paragraph (2).
+> &emsp;the Commission shall establish a program to assess and collect from the licensee for such designated frequency an annual fee or other schedule or method of payment that promotes the objectives described in subparagraphs (A) and (B) of paragraph (2).
 
 #### (2) Collection of fees
 
 &emsp;The program required by paragraph (1) shall—
 
-&emsp;&emsp;(A) be designed (i) to recover for the public a portion of the value of the public spectrum resource made available for such commercial use, and (ii) to avoid unjust enrichment through the method employed to permit such uses of that resource;
+&emsp;&emsp;(A) be designed (i) to recover for the public a portion of the value of the public spectrum resource made available for such commercial use, and (ii) to avoid unjust enrichmentthrough the method employed to permit such uses of that resource;
 
 &emsp;&emsp;(B) recover for the public an amount that, to the extent feasible, equals but does not exceed (over the term of the license) the amount that would have been recovered had such services been licensed pursuant to the provisions of section 309(j) of this title and the Commission's regulations thereunder; and
 
@@ -108,7 +108,7 @@ Nothing in this section shall be construed as relieving a television broadcastin
 
 &emsp;&emsp;&emsp;(I) such station broadcast a minimum of 18 hours per day;
 
-&emsp;&emsp;&emsp;(II) such station broadcast an average of at least 3 hours per week of programming that was produced within the market area served by such station, or the market area served by a group of commonly controlled low-power stations that carry common local programming produced within the market area served by such group; and
+&emsp;&emsp;&emsp;(II) such station broadcast an average of at least 3 hours per week of programming that was produced within the market areaserved by such station, or the market area served by a group of commonly controlled low-power stations that carry common local programming produced within the market area served by such group; and
 
 &emsp;&emsp;&emsp;(III) such station was in compliance with the Commission's requirements applicable to low-power television stations; and
 
@@ -164,7 +164,7 @@ Nothing in this section shall be construed as relieving a television broadcastin
 
 #### (8) Priority for displaced low-power stations
 
-&emsp;Low-power stations that are displaced by an application filed under this section shall have priority over other low-power stations in the assignment of available channels.
+&emsp;Low-power stations that are displaced by an application filed under this section shall havepriority over other low-power stations in the assignment of available channels.
 
 #### (g) Evaluation
 
@@ -240,7 +240,7 @@ Within 10 years after the date the Commission first issues additional licenses f
 
 &emsp;(ii) to demonstrate the utility of low-power television stations to provide high-speed 2-way wireless digital data service.
 
-(C) The Commission shall require quarterly reports from each station authorized to provide digital data services under this subsection that include—
+(C) The Commission shall require quarterly reports from each station authorized to providedigital data services under this subsection that include—
 
 &emsp;(i) information on the station's experience with interference complaints and the resolution thereof;
 
@@ -294,9 +294,9 @@ The date of enactment of LPTV Digital Data Services Act, referred to in subsec. 
 
 #### Amendments
 
-2000—Subsecs. (h), (i). Pub. L. 106–554 added subsec. (h) and redesignated former subsec. (h) as (i).
+<b>2000</b>—Subsecs. (h), (i). Pub. L. 106–554 added subsec. (h) and redesignated former subsec. (h) as (i).
 
-1999—Subsecs. (f) to (h). Pub. L. 106–113 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+<b>1999</b>—Subsecs. (f) to (h). Pub. L. 106–113 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
 #### Transition to Digital Television
 
@@ -332,7 +332,7 @@ Construction deadline.—Any licensee or permittee receiving a paired digital ch
 
 &emsp;“(2)
 
-Prohibition of analog operation using digital pair.—Any licensee or permittee receiving a paired digital channel pursuant to this section shall be prohibited from giving up its current paired analog assignment and becoming a single-channel broadcaster and operating in analog on such paired digital channel.
+Prohibition of analog operation using digital pair.—Any licensee or permittee receiving apaired digital channel pursuant to this section shall be prohibited from giving up its current paired analog assignment and becoming a single-channel broadcaster and operating in analog on such paired digital channel.
 
 “(d)
 

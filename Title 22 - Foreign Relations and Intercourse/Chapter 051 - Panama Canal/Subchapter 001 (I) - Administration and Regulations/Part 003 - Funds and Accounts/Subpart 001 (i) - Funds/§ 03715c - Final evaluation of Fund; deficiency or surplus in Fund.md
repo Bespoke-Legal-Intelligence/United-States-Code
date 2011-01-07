@@ -22,9 +22,9 @@ Section was enacted as part of the Panama Canal Commission Compensation Fund Act
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–85 substituted “By March 31, 1998” for “Upon the termination of the Panama Canal Commission”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–85 substituted “By March 31, 1998” for “Upon the termination of the Panama Canal Commission”.
 
-1990—Pub. L. 101–510, §3507(1), struck out “Upon the termination of the Panama Canal Commission:” before subsec. (a).
+<b>1990</b>—Pub. L. 101–510, §3507(1), struck out “Upon the termination of the Panama Canal Commission:” before subsec. (a).
 
 Subsec. (a). Pub. L. 101–510, §3507(2), substituted “Upon the termination of the Panama Canal Commission, the Secretary of Labor” for “The Secretary of Labor” and struck out at end “The Secretary of the Treasury shall, in accordance with such final determination, transfer from the Fund to the Employee Compensation Fund amounts sufficient to meet expenditures for workers compensation benefits and other payments described in section 3715a(a) of this title.”
 

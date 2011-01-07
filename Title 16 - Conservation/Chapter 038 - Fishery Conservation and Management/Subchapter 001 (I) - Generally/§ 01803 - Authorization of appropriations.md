@@ -24,5 +24,5 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-2007—Pub. L. 109–479 reenacted section catchline without change and amended text generally, substituting provisions authorizing appropriations for fiscal years 2007 to 2013 for provisions authorizing appropriations for fiscal years 1996 to 1999.
+<b>2007</b>—Pub. L. 109–479 reenacted section catchline without change and amended text generally, substituting provisions authorizing appropriations for fiscal years 2007 to 2013 for provisions authorizing appropriations for fiscal years 1996 to 1999.
 

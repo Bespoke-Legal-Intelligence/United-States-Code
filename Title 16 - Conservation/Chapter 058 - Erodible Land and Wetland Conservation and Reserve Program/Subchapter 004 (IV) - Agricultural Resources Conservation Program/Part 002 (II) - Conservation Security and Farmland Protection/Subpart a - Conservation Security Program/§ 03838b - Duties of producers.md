@@ -4,7 +4,7 @@ Under a conservation security contract, a producer shall agree, during the term 
 
 &emsp;(1) to implement the applicable conservation security plan approved by the Secretary;
 
-&emsp;(2) to maintain, and make available to the Secretary at such times as the Secretary mayrequest, appropriate records showing the effective and timely implementation of the conservation security plan;
+&emsp;(2) to maintain, and make available to the Secretary at such times as the Secretary may request, appropriate records showing the effective and timely implementation of the conservation security plan;
 
 &emsp;(3) not to engage in any activity that would interfere with the purposes of the conservation security program; and
 

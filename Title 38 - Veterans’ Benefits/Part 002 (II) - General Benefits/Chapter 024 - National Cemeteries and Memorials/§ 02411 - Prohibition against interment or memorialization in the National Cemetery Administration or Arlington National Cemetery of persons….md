@@ -38,7 +38,7 @@
 
 #### Amendments
 
-2006—Subsec. (b)(1). Pub. L. 109–163, §662(a)(1)(A), substituted “and whose conviction is final (other than a person whose sentence was commuted by the President)” for “for which the person was sentenced to death or life imprisonment”.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–163, §662(a)(1)(A), substituted “and whose conviction is final (other than a person whose sentence was commuted by the President)” for “for which the person was sentenced to death or life imprisonment”.
 
 Subsec. (b)(2). Pub. L. 109–163, §662(a)(1)(B), substituted “and whose conviction is final (other than a person whose sentence was commuted by the Governor of a State)” for “for which the person was sentenced to death or life imprisonment without parole”.
 
@@ -46,9 +46,9 @@ Subsec. (d)(1). Pub. L. 109–163, §662(a)(2)(A), substituted “a sentence of 
 
 Subsec. (d)(2). Pub. L. 109–163, §662(a)(2)(B), substituted “a sentence of imprisonment for life or the death penalty may be imposed” for “the death penalty or life imprisonment without parole may be imposed”.
 
-2002—Subsec. (a)(2). Pub. L. 107–330 substituted “In the case of a person described in subsection (b)(1) or (b)(2), the prohibition” for “The prohibition” and “referred to in subsection (b)(1) or (b)(2), as the case may be,” for “or finding under subsection (b)”.
+<b>2002</b>—Subsec. (a)(2). Pub. L. 107–330 substituted “In the case of a person described in subsection (b)(1) or (b)(2), the prohibition” for “The prohibition” and “referred to in subsection (b)(1) or (b)(2), as the case may be,” for “or finding under subsection (b)”.
 
-1998—Pub. L. 105–368, §403(d)(1), substituted “Administration” for “System” in section catchline.
+<b>1998</b>—Pub. L. 105–368, §403(d)(1), substituted “Administration” for “System” in section catchline.
 
 Subsecs. (a)(1)(A), (B), (d)(3)(A). Pub. L. 105–368, §403(d)(1), substituted “Administration” for “System”.
 

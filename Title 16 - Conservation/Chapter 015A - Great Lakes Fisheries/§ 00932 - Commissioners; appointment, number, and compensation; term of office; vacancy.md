@@ -24,9 +24,9 @@
 
 #### Amendments
 
-2000—Subsec. (a)(3). Pub. L. 106–562 added par. (3).
+<b>2000</b>—Subsec. (a)(3). Pub. L. 106–562 added par. (3).
 
-1986—Pub. L. 99–659 amended section generally. Prior to amendment, section read as follows: “The United States shall be represented on the Commission by three Commissioners to be appointed by the President, to serve as such during his pleasure, and to receive no compensation for their services as such Commissioners. Of such Commissioners—
+<b>1986</b>—Pub. L. 99–659 amended section generally. Prior to amendment, section read as follows: “The United States shall be represented on the Commission by three Commissioners to be appointed by the President, to serve as such during his pleasure, and to receive no compensation for their services as such Commissioners. Of such Commissioners—
 
 &emsp;“(a) one shall be an official of the United States Government; and
 

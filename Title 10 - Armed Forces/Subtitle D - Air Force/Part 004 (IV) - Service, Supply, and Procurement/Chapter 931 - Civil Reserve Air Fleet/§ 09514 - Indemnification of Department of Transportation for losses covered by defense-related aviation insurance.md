@@ -12,7 +12,7 @@ Prompt Indemnification Required.—(1) In the event of a loss that is covered by
 
 (b)
 
-Source of Funds for Payment of Indemnity.—The Secretary of Defense may pay an indemnity described in subsection (a) from any funds available to the Department of Defense for operation and maintenance, and such sums as may be necessary for payment of such indemnity are hereby authorized to be transferred to the Secretary of Transportation for such purpose.
+Source of Funds for Payment of Indemnity.—The Secretary of Defense may pay an indemnity described in subsection (a) from anyfunds available to the Department of Defense for operation and maintenance, and such sums as may be necessary for payment of such indemnity are hereby authorized to be transferred to the Secretary of Transportation for such purpose.
 
 (c)
 
@@ -50,7 +50,7 @@ The date of the enactment of this section, referred to in subsec. (e), is the da
 
 #### Amendments
 
-2003—Subsec. (c). Pub. L. 108–136, §1031(a)(60)(A), struck out designation for par. (1) before “notification of the loss”, substituted “Congress” for “Congress—” and “loss.” for “loss; and”, and struck out par. (2) which read as follows: “semiannual reports thereafter updating the information submitted under paragraph (1) and showing with respect to losses arising from suchincident the total amount expended to cover such losses, the source of those funds, pending litigation, and estimated total cost to the Government.”
+<b>2003</b>—Subsec. (c). Pub. L. 108–136, §1031(a)(60)(A), struck out designation for par. (1) before “notification of the loss”, substituted “Congress” for “Congress—” and “loss.” for “loss; and”, and struck out par. (2) which read as follows: “semiannual reports thereafter updating the information submitted under paragraph (1) and showing with respect to losses arising from such incident the total amount expended to cover such losses, the source of those funds, pending litigation, and estimated total cost to the Government.”
 
 Subsec. (f). Pub. L. 108–136, §1031(a)(60)(B), struck out heading and text of subsec. (f). Text read as follows: “Not later than March 1 of each year, the Secretary of Defense shall submit to Congress a report setting forth the current amount of the contingent outstanding liability of the United States under the insurance program under chapter 443 of title 49.”
 

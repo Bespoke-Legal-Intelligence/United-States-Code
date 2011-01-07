@@ -28,5 +28,5 @@ Of the amounts appropriated under subsection (a) of this section, 2 percent shal
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–162 substituted “2006 through 2009” for “2002 through 2005”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–162 substituted “2006 through 2009” for “2002 through 2005”.
 

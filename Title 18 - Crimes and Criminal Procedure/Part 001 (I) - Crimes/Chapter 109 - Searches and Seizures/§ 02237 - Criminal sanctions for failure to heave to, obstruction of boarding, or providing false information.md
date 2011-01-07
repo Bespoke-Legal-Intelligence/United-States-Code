@@ -8,7 +8,25 @@
 
 &emsp;(B) provide materially false information to a Federal law enforcement officer during a boarding of a vessel regarding the vessel's destination, origin, ownership, registration, nationality, cargo, or crew.
 
-(b) Any person who intentionally violates this section shall be fined under this title or imprisoned for not more than 5 years, or both.
+(b)(1) Except as otherwise provided in this subsection, whoever knowingly violates subsection (a) shall be fined under this title or imprisoned for not more than 5 years, or both.
+
+(2)(A) If the offense is one under paragraph (1) or (2)(A) of subsection (a) and has an aggravating factor set forth in subparagraph (B) of this paragraph, the offender shall be fined under this title or imprisoned for any term of years or life, or both.
+
+(B) The aggravating factor referred to in subparagraph (A) is that the offense—
+
+&emsp;(i) results in death; or
+
+&emsp;(ii) involves—
+
+&emsp;&emsp;(I) an attempt to kill;
+
+&emsp;&emsp;(II) kidnapping or an attempt to kidnap; or
+
+&emsp;&emsp;(III) an offense under section 2241.
+
+(3) If the offense is one under paragraph (1) or (2)(A) of subsection (a) and results in serious bodily injury (as defined in section 1365), the offender shall be fined under this title or imprisoned for not more than 15 years, or both.
+
+(4) If the offense is one under paragraph (1) or (2)(A) of subsection (a), involves knowing transportation under inhumane conditions, and is committed in the course of a violation of section 274 of the Immigration and Nationality Act, or chapter 77 or section 113 (other than under subsection (a)(4) or (a)(5) of such section) or 117 of this title, the offender shall be fined under this title or imprisoned for not more than 15 years, or both.
 
 (c) This section does not limit the authority of a customs officer under section 581 of the Tariff Act of 1930 (19 U.S.C. 1581), or any other provision of law enforced or administered by the Secretary of the Treasury or the Secretary of Homeland Security, or the authority of any Federal law enforcement officer under any law of the United States, to order a vessel to stop or heave to.
 
@@ -20,13 +38,35 @@
 
 &emsp;(2) the term “heave to” means to cause a vessel to slow, come to a stop, or adjust its course or speed to account for the weather conditions and sea state to facilitate a law enforcement boarding;
 
-&emsp;(3) the term “vessel subject to the jurisdiction of the United States” has the meaning given the term in section 2 <sup>1</sup> of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903); and
+&emsp;(3) the term “vessel subject to the jurisdiction of the United States” has the meaning given the term in section 70502 of title 46;
 
-&emsp;(4) the term “vessel of the United States” has the meaning given the term in section 2 <sup>1</sup> of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903).
+&emsp;(4) the term “vessel of the United States” has the meaning given the term in section 70502 of title 46; and
 
-(Added Pub. L. 109–177, title III, §303(a), Mar. 9, 2006, 120 Stat. 233.)
+&emsp;(5) the term “transportation under inhumane conditions” means—
+
+&emsp;&emsp;(A) transportation—
+
+&emsp;&emsp;&emsp;(i) of one or more persons in an engine compartment, storage compartment, or other confined space;
+
+&emsp;&emsp;&emsp;(ii) at an excessive speed; or
+
+&emsp;&emsp;&emsp;(iii) of a number of persons in excess of the rated capacity of the vessel; or
+
+&emsp;&emsp;(B) intentional grounding of a vessel in which persons are being transported.
+
+(Added Pub. L. 109–177, title III, §303(a), Mar. 9, 2006, 120 Stat. 233; amended Pub. L. 111–281, title IX, §917, Oct. 15, 2010, 124 Stat. 3021.)
 
 #### References in Text
 
-Section 2 of the Maritime Drug Law Enforcement Act, referred to in subsec. (e)(3), (4), probably means section 3 of the Maritime Drug Law Enforcement Act, Pub. L. 96–350, which was classified to section 1903 of former Title 46, Appendix, Shipping, and was repealed and restated in sections 70502 to 70506 of Title 46, Shipping, by Pub. L. 109–304, §§10(2), 19, Oct. 6, 2006, 120 Stat. 1683, 1710. The terms “vessel of the United States” and “vessel subject to the jurisdiction of the United States” are defined in subsecs. (b) and (c), respectively, of section 70502 of Title 46.
+Section 274 of the Immigration and Nationality Act, referred to in subsec. (b)(4), is classified to section 1324 of Title 8, Aliens and Nationality.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (b). Pub. L. 111–281, §917(a), amended subsec. (b) generally. Prior to amendment subsec. (b) read as follows: “Any person who intentionally violates this section shall be fined under this title or imprisoned for not more than 5 years, or both.”
+
+Subsec. (e)(3). Pub. L. 111–281, §917(b)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the term ‘vessel subject to the jurisdiction of the United States’ has the meaning given the term in section 2 of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903); and”.
+
+Subsec. (e)(4). Pub. L. 111–281, §917(b)(2), substituted “section 70502 of title 46; and” for “section 2 of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903).”
+
+Subsec. (e)(5). Pub. L. 111–281, §917(b)(3), added par. (5).
 

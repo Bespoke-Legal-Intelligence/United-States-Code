@@ -24,7 +24,7 @@
 
 (d)(1) Except as provided in paragraph (2) of this subsection, the Secretary may not make or guarantee a loan under this subchapter to a veterans’ small business concern in which an ownership interest is held by a veteran who also has an ownership interest in another small business concern if such ownership interest was considered in qualifying that other concern for an outstanding loan made or guaranteed under this subchapter or the Small Business Act (15 U.S.C. 631 et seq.).
 
-(2) Paragraph (1) of this subsection shall not apply if 51 percent or more of the business concern seeking a direct or guaranteed loan under this subchapter is owned by veterans of the Vietnam era or disabled veterans without including the ownership interest of the veteran whose ownership interest in another small business concern was previously considered in qualifying that other concern for an outstandingguaranteed or direct business loan under this subchapter or the Small Business Act (15 U.S.C. 631 et seq.).
+(2) Paragraph (1) of this subsection shall not apply if 51 percent or more of the business concern seeking a direct or guaranteed loan under this subchapter is owned by veterans of the Vietnam era or disabled veterans without including the ownership interest of the veteran whose ownership interest in another small business concern was previously considered in qualifying that other concern for an outstanding guaranteed or direct business loan under this subchapter or the Small Business Act (15 U.S.C. 631 et seq.).
 
 (e)(1) In order to protect the interest of the United States, upon application by a veterans’ small business concern which is the recipient of a loan guaranteed under this subchapter, the Secretary (subject to the provisions of this subsection) may undertake the veterans’ small business concern's obligation to make payments under such loan or, if the loan was a direct loan made by the Secretary, may suspend such obligation. While such payments are being made by the Secretary pursuant to the undertaking of such obligation or while such obligation is suspended, no such payment with respect to the loan may be required from the concern.
 
@@ -38,7 +38,7 @@
 
 (3) The period of time for which the Secretary undertakes or suspends the obligation on a loan under this subsection may not exceed five years. The Secretary may extend the maturity of any loan on which the Secretary undertakes or suspends the obligation under this subsection for a corresponding period of time.
 
-(4)(A) Before the Secretary may undertake or suspend a veterans’ small business concern's obligation under this subsection, the Secretary shall require the small business concern to execute an agreement to repay the aggregate amount of the payments which were required under the loan during the period for which the obligation was undertaken or suspended—
+(4)(A) Before the Secretary may undertake or suspend a veterans’ small business concern's obligation under this subsection, the Secretary shall require the small business concern to execute an agreement to repay the aggregateamount of the payments which were required under the loan during the period for which the obligation was undertaken or suspended—
 
 &emsp;(i) by periodic payments not less in amount or less frequently falling due than those which were due under the loan during such period,
 
@@ -56,13 +56,13 @@ The Small Business Act, referred to in subsec. (d), is Pub. L. 85–536, §2(1 e
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1842 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1842 of this title as this section.
 
 Subsec. (b)(1). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
 Subsec. (b)(2). Pub. L. 102–83, §5(c)(1), substituted “3745” for “1845”.
 
-1989—Subsecs. (a), (b), (d), (e). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Subsecs. (a), (b), (d), (e). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-1986—Subsecs. (a)(3)(A), (b)(4), (d)(2). Pub. L. 99–576 substituted “percent” for “per centum” wherever appearing.
+<b>1986</b>—Subsecs. (a)(3)(A), (b)(4), (d)(2). Pub. L. 99–576 substituted “percent” for “per centum” wherever appearing.
 

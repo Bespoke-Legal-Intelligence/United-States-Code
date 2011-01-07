@@ -4,7 +4,7 @@
 
 #### (1) Response action contractors
 
-&emsp;A person who is a response action contractor with respect to any release or threatened release of a hazardous substance or pollutant or contaminant from a vessel or facility shall not be liable under this subchapter or under any other Federal law to any person for injuries, costs, damages, expenses, or other liability (including but not limited to claims for indemnification or contribution and claims by third parties for death, personal injury, illness or loss of or damage to property or economic loss) which results from such release or threatened release.
+&emsp;A person who is a response action contractor with respect to any release or threatened release of a hazardous substance or pollutant or contaminant from a vessel or facility shall not be liable under this subchapter or under any other Federal law to any person for injuries, costs, damages, expenses, or other liability\(including but not limited to claims for indemnification or contribution and claims by third parties for death, personal injury, illness or loss of or damage to property or economic loss) which results from such release or threatened release.
 
 #### (2) Negligence, etc.
 
@@ -32,7 +32,7 @@
 
 #### (1) In general
 
-&emsp;The President may agree to hold harmless and indemnify any response action contractormeeting the requirements of this subsection against any liability (including the expenses of litigation or settlement) for negligence arising out of the contractor's performance in carrying out response action activities under this subchapter, unless such liability was caused by conduct of the contractor which was grossly negligent or which constituted intentional misconduct.
+&emsp;The President may agree to hold harmless and indemnify any response action contractor meeting the requirements of this subsection against any liability (including the expenses of litigation or settlement) for negligence arising out of the contractor's performance in carrying out response action activities under this subchapter, unless such liability was caused by conduct of the contractor which was grossly negligent or which constituted intentional misconduct.
 
 #### (2) Applicability
 
@@ -48,7 +48,7 @@
 
 #### (3) Source of funding
 
-&emsp;This subsection shall not be subject to section 1301 or 1341 of title 31 or section 11 of title 41 or to section 9662 of this title. For purposes of section 9611 of this title, amounts expended pursuant to this subsection for indemnification of any response action contractor (except with respect to federally owned or operated facilities) shall be considered governmental response costs incurred pursuant to section 9604 of this title. If sufficient funds are unavailable in the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26 to make payments pursuant to such indemnification or if the Fund is repealed, there are authorized to be appropriated such amounts as may be necessary to make such payments.
+&emsp;This subsection shall not be subject to section 1301 or 1341 of title 31 or section 6301(a) and (b) of title 41 or to section 9662 of this title. For purposes of section 9611 of this title, amounts expended pursuant to this subsection for indemnification of any response action contractor (except with respect to federally owned or operated facilities) shall be considered governmental response costs incurred pursuant to section 9604 of this title. If sufficient funds are unavailable in the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26 to make payments pursuant to such indemnification or if the Fund is repealed, there are authorized to be appropriated such amounts as may be necessary to make such payments.
 
 #### (4) Requirements
 
@@ -74,7 +74,7 @@
 
 #### (i) Decision to indemnify
 
-&emsp;&emsp;&emsp;In deciding whether to enter into an indemnification agreement with a response action contractor carrying out a written contract or agreement with any potentially responsible party, the President shall determine an amount which the potentially responsible party is able to indemnify the contractor. The President may enter into such an indemnification agreement only if the President determines that such amount of indemnification is inadequate to cover any reasonable potential liability of the contractor arising out of the contractor's negligence in performing the contract or agreement with such party. The President shall make the determinations in the preceding sentences (with respect to the amount and the adequacy of the amount) taking into account the total net assets and resources of potentially responsible parties with respect to the facility at the time of such determinations.
+&emsp;&emsp;&emsp;In deciding whether to enter into an indemnification agreement with a responseaction contractor carrying out a written contract or agreement with any potentially responsible party, the President shall determine an amount which the potentially responsible party is able to indemnify the contractor. The President may enter into such an indemnification agreement only if the President determines that such amount of indemnification is inadequate to cover any reasonable potential liability of the contractor arising out of the contractor's negligence in performing the contract or agreement with such party. The President shall make the determinations in the preceding sentences (with respect to the amount and the adequacy of the amount) taking into account the total net assets and resources of potentially responsible parties with respect to the facility at the time of such determinations.
 
 #### (ii) Conditions
 
@@ -90,7 +90,7 @@
 
 #### (6) Cost recovery
 
-&emsp;For purposes of section 9607 of this title, amounts expended pursuant to this subsectionfor indemnification of any person who is a response action contractor with respect to any release or threatened release shall be considered a cost of response incurred by the United States Government with respect to such release.
+&emsp;For purposes of section 9607 of this title, amounts expended pursuant to this subsection for indemnification of any person who is a response action contractor with respect to any release or threatened release shall be considered a cost of response incurred by the United States Government with respect to such release.
 
 #### (7) Regulations
 
@@ -132,7 +132,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) person, public or nonprofit private entity, conducting a field demonstration pursuant to section 9660(b) of this title; and
 
-&emsp;&emsp;&emsp;(iii) Recipients <sup>2</sup> of grants (including sub-grantees) under section 9660a <sup>3</sup> of this title for the training and education of workers who are or may be engaged in activities related to hazardous waste removal, containment, or emergency response under this chapter; and <sup>1</sup>
+&emsp;&emsp;&emsp;(iii) Recipients <sup>2</sup> of grants (including sub-grantees) under section 9660a <sup>3</sup> of this titlefor the training and education of workers who are or may be engaged in activities related to hazardous waste removal, containment, or emergency response under this chapter; and <sup>1</sup>
 
 &emsp;&emsp;(B) any person who is retained or hired by a person described in subparagraph (A) to provide any services relating to a response action; and
 
@@ -162,6 +162,8 @@ Response action contractors and subcontractors for program management, construct
 
 #### References in Text
 
+This chapter, referred to in subsecs. (b)(1), (e)(1), (2)(A)(iii), and (f), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+
 The Solid Waste Disposal Act, referred to in subsec. (c)(5)(D), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 Section 9660a of this title, referred to in subsec. (e)(2)(A)(iii), was in the original “section 126” probably meaning section 126 of Pub. L. 99–499, title I, Oct. 17, 1986, 100 Stat. 1690. Subsecs. (a) to (f) of section 126, which relate to worker protection standards, are set out as a note under section 655 of Title 29, Labor. Subsec. (g) of section 126, which relates to grants for training and education of workers who are or may be engaged in activities related to hazardous waste removal, etc., is classified to section 9660a of this title.
@@ -170,27 +172,29 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 #### Codification
 
+In subsec. (c)(3), “section 6301(a) and (b) of title 41” substituted for “section 3732 of the Revised Statutes (41 U.S.C. 11)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 In subsec. (g)(1), “sections 3131 and 3133 of title 40” substituted for “the Act of August 24, 1935 (40 U.S.C. 270a–270d), commonly referred to as the ‘Miller Act’ ” and for “such Act of August 24, 1935” and “section 3134 of title 40” substituted for “the Act of April 29, 1941 (40 U.S.C. 270e–270f)”, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
-1998—Subsec. (e)(2)(C). Pub. L. 105–276 struck out “and before January 1, 1996,” after “1990,”.
+<b>1998</b>—Subsec. (e)(2)(C). Pub. L. 105–276 struck out “and before January 1, 1996,” after “1990,”.
 
 Subsec. (g)(5). Pub. L. 105–276 struck out “, or after December 31, 1995” before period at end.
 
-1992—Subsec. (e)(2)(C). Pub. L. 102–484, §321(a)(1)(A), substituted “January 1, 1996,” for “January 1, 1993”.
+<b>1992</b>—Subsec. (e)(2)(C). Pub. L. 102–484, §321(a)(1)(A), substituted “January 1, 1996,” for “January 1, 1993”.
 
 Subsec. (g)(1). Pub. L. 102–484, §331(a)(2), substituted “the Act of August 24, 1935 (40 U.S.C. 270a–270d), commonly referred to as the ‘Miller Act’,” for “the Miller Act, 40 U.S.C. sections 270a–270f,”, inserted “and are not waived pursuant to the Act of April 29, 1941 (40 U.S.C. 270e–270f)”, and substituted “in accordance with such Act of August 24, 1935.” for “in accordance with 40 U.S.C. sections 270a–270d.”
 
 Subsec. (g)(5). Pub. L. 102–484, §331(a)(1)(B), substituted “December 31, 1995” for “December 31, 1992”.
 
-1990—Subsec. (e)(2)(C). Pub. L. 101–584, §1(1), (2), added subpar. (C).
+<b>1990</b>—Subsec. (e)(2)(C). Pub. L. 101–584, §1(1), (2), added subpar. (C).
 
 Subsec. (g). Pub. L. 101–584, §1(3), added subsec. (g).
 
-1987—Subsec. (e)(2)(A)(iii). Pub. L. 100–202 added cl. (iii).
+<b>1987</b>—Subsec. (e)(2)(A)(iii). Pub. L. 100–202 added cl. (iii).
 
-1986—Subsec. (c)(3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (c)(3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 #### Coordination of Titles I to IV of Pub. L. 99–499
 

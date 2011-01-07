@@ -62,7 +62,7 @@ The Director of the Center, in cooperation with the Centers for Disease Control 
 
 #### Amendments
 
-2007—Subsec. (c)(3)(B)(vi). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
+<b>2007</b>—Subsec. (c)(3)(B)(vi). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
 
 #### Change of Name
 

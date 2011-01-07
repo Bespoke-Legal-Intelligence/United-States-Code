@@ -32,10 +32,6 @@ It is the purpose of this subchapter to establish a Senior Executive Service to 
 
 (Added Pub. L. 95–454, title IV, §402(a), Oct. 13, 1978, 92 Stat. 1154.)
 
-#### References in Text
-
-The civil service laws, referred to in par. (11), are set out in this title. See, particularly, section 3301 et seq. of this title.
-
 #### Effective Date
 
 Section 415 of title IV of Pub. L. 95–454 provided that:

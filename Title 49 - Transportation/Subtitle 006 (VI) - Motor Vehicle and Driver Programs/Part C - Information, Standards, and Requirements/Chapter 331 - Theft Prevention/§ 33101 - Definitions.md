@@ -142,9 +142,9 @@ This makes a conforming amendment for consistency with the style of title 49.
 
 #### Amendments
 
-1996—Pub. L. 104–287 made technical amendment to directory language of Pub. L. 103–429, §6(44)(B). See 1994 Amendment note below.
+<b>1996</b>—Pub. L. 104–287 made technical amendment to directory language of Pub. L. 103–429, §6(44)(B). See 1994 Amendment note below.
 
-1994—Par. (2). Pub. L. 103–429, §6(44)(B), as amended by Pub. L. 104–287, inserted “of this title” before period at end.
+<b>1994</b>—Par. (2). Pub. L. 103–429, §6(44)(B), as amended by Pub. L. 104–287, inserted “of this title” before period at end.
 
 Pub. L. 103–429, §6(44)(A), substituted “section 33104” for “sections 33102(c)(1) and 33104”.
 

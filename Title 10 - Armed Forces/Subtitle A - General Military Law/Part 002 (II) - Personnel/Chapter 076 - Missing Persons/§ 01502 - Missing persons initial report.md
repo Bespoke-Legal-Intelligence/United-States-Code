@@ -2,7 +2,7 @@
 
 (a)
 
-Preliminary Assessment and Recommendation by Commander.—After receiving information that the whereabouts and status of a person described in section 1501(c) of this title is uncertain and that the absence of the person may be involuntary, the commander of the unit, facility, or area to or in which the person is assigned shall make a preliminary assessment of the circumstances. If, as a result of that assessment, the commander concludes that the person is missing, the commander shall—
+Preliminary Assessment and Recommendation by Commander.—After receiving information that the whereabouts and status of a person described in section 1501(c) of this title isuncertain and that the absence of the person may be involuntary, the commander of the unit, facility, or area to or in which the person is assigned shall make a preliminary assessment of the circumstances. If, as a result of that assessment, the commander concludes that the person is missing, the commander shall—
 
 &emsp;(1) recommend that the person be placed in a missing status; and
 
@@ -20,9 +20,9 @@ Safeguarding and Forwarding of Records.—A commander making a preliminary asses
 
 #### Amendments
 
-1997—Subsecs. (b), (c). Pub. L. 105–85 added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>1997</b>—Subsecs. (b), (c). Pub. L. 105–85 added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1996—Subsec. (a)(2). Pub. L. 104–201, §578(b)(1)(A), substituted “10 days” for “48 hours” and “Secretary concerned” for “theater component commander with jurisdiction over the missing person”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–201, §578(b)(1)(A), substituted “10 days” for “48 hours” and “Secretary concerned” for “theater component commander with jurisdiction over the missing person”.
 
 Subsec. (b). Pub. L. 104–201, §578(b)(1)(D), struck out at end “The theater component commander through whom the report with respect to the missing person is transmitted under subsection (b) shall ensure that all pertinent information relating to the whereabouts and status of the missing person that results from the preliminary assessment or from actions taken to locate the person is properly safeguarded to avoid loss, damage, or modification.”
 

@@ -24,5 +24,5 @@ The words “as set out herein” are omitted as unnecessary.
 
 #### Amendments
 
-2002—Pub. L. 107–241 substituted “Maryland” for “the District of Columbia” in first and second sentences.
+<b>2002</b>—Pub. L. 107–241 substituted “Maryland” for “the District of Columbia” in first and second sentences.
 

@@ -8,7 +8,7 @@ Duration of Entitlement.—Except as provided in subsection (b), a member remain
 
 &emsp;&emsp;(A) in the Selected Reserve of the Ready Reserve, in the case of a member called or ordered to active service while serving in the Selected Reserve; or
 
-&emsp;&emsp;(B) in the Ready Reserve, in the case of a member ordered to active duty while serving in the Ready Reserve (other than the Selected Reserve); and
+&emsp;&emsp;(B) in the Ready Reserve, in the case of a member ordered to active duty while servingin the Ready Reserve (other than the Selected Reserve); and
 
 &emsp;(2) in the case of a person who separates from the Selected Reserve of the Ready Reserve after completion of a period of active service described in section 16163 of this title and completion of a service contract under honorable conditions, during the 10-year period beginning on the date on which the person separates from the Selected Reserve.
 
@@ -22,7 +22,7 @@ Duration of Entitlement for Disabled Members.—(1) In the case of a person who 
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–181 substituted “this chapter—” and pars. (1) and (2) for “this chapter while serving—
+<b>2008</b>—Subsec. (a). Pub. L. 110–181 substituted “this chapter—” and pars. (1) and (2) for “this chapter while serving—
 
 &emsp;“(1) in the Selected Reserve of the Ready Reserve, in the case of a member called or ordered to active service while serving in the Selected Reserve; or
 

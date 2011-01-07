@@ -58,7 +58,7 @@
 
 &emsp;(III) for any request not described in (I) or (II), fees shall be limited to reasonable standard charges for document search and duplication.
 
-> In this clause, the term “a representative of the news media” means any person or entity that gathers information of potential interest to a segment of the public, uses its editorial skills to turn the raw materials into a distinct work, and distributes that work to an audience. In this clause, the term “news” means information that is about current events or that would be of current interest to the public. Examples of news-media entities are television or radio stations broadcasting to the public at large and publishers of periodicals (but only if such entities qualify as disseminators of “news”) who make their products available for purchase by or subscription by or free distribution to the general public. These examples are not all-inclusive. Moreover, as methods of news delivery evolve (for example, the adoption of the electronic dissemination of newspapers through telecommunications services), such alternative media shall be considered to be news-media entities. A freelance journalist shall be regarded as working for a news-media entity if the journalist can demonstrate a solid basis for expecting publication through that entity, whether or not the journalist is actually employed by the entity. A publication contract would present a solid basis for such an expectation; the Government may also consider the past publication record of the requester in making such a determination.
+> In this clause, the term “a representative of the news media” means any person or entity thatgathers information of potential interest to a segment of the public, uses its editorial skills to turn the raw materials into a distinct work, and distributes that work to an audience. In this clause, the term “news” means information that is about current events or that would be of current interest to the public. Examples of news-media entities are television or radio stations broadcasting to the public at large and publishers of periodicals (but only if such entities qualify as disseminators of “news”) who make their products available for purchase by or subscription by or free distribution to the general public. These examples are not all-inclusive. Moreover, as methods of news delivery evolve (for example, the adoption of the electronic dissemination of newspapers through telecommunications services), such alternative media shall be considered to be news-media entities. A freelance journalist shall be regarded as working for a news-media entity if the journalist can demonstrate a solid basis for expecting publication through that entity, whether or not the journalist is actually employed by the entity. A publication contract would present a solid basis for such an expectation; the Government may also consider the past publication record of the requester in making such a determination.
 
 (iii) Documents shall be furnished without any charge or at a charge reduced below the fees established under clause (ii) if disclosure of the information is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the government and is not primarily in the commercial interest of the requester.
 
@@ -90,7 +90,7 @@
 
 &emsp;(II) a voluntary or unilateral change in position by the agency, if the complainant's claim is not insubstantial.
 
-(F)(i) Whenever the court orders the production of any agency records improperly withheld from the complainant and assesses against the United States reasonable attorney fees and other litigation costs, and the court additionally issues a written finding that the circumstances surrounding the withholding raise questions whether agency personnel acted arbitrarily or capriciously with respect to the withholding, the Special Counsel shall promptly initiate a proceeding to determine whether disciplinary action is warranted against the officer or employee who was primarily responsible for the withholding. The Special Counsel, after investigation and consideration of the evidence submitted, shall submit his findings and recommendations to the administrative authority of the agency concerned and shall send copies of the findings and recommendations to the officer or employee or his representative. The administrative authority shall take the corrective action that the Special Counsel recommends.
+(F)(i) Whenever the court orders the production of any agency records improperly withheld from the complainant and assesses against the United States reasonable attorney fees and other litigation costs, and the court additionally issues a written finding that the circumstances surrounding the withholding raise questions whether agency personnel acted arbitrarily or capriciously with respect to the withholding, the Special Counsel shall promptly initiate a proceeding to determine whether disciplinary action is warranted against the officer or employee who was primarily responsible for the withholding. The Special Counsel, after investigation and consideration of the evidence submitted, shall submit his findings and recommendations to the administrative authority of the agency concerned and shall send copies ofthe findings and recommendations to the officer or employee or his representative. The administrative authority shall take the corrective action that the Special Counsel recommends.
 
 (ii) The Attorney General shall—
 
@@ -130,9 +130,9 @@
 
 (iv) Each agency may promulgate regulations, pursuant to notice and receipt of public comment, providing for the aggregation of certain requests by the same requestor, or by a group of requestors acting in concert, if the agency reasonably believes that such requests actually constitute a single request, which would otherwise satisfy the unusual circumstances specified in this subparagraph, and the requests involve clearly related matters. Multiple requests involving unrelated matters shall not be aggregated.
 
-(C)(i) Any person making a request to any agency for records under paragraph (1), (2), or (3) of this subsection shall be deemed to have exhausted his administrative remedies with respect to such request if the agency fails to comply with the applicable time limit provisions of this paragraph. If the Government can show exceptional circumstances exist and that the agency is exercising due diligence in responding to the request, the court may retain jurisdiction and allow the agency additional time to complete its review of the records. Upon any determination by an agency to comply with a request for records, the records shall be made promptly available to such person making such request. Any notification of denial of any request for records under this subsection shall set forth the names and titles or positions of each person responsible for the denial of such request.
+(C)(i) Any person making a request to any agency for records under paragraph (1), (2), or (3) of this subsection shall be deemed to have exhausted his administrative remedies with respect to such request if the agency fails to comply with the applicable time limit provisions of this paragraph. If the Government can show exceptional circumstances exist and that the agency is exercising due diligence in responding to the request, the court may retain jurisdiction and allow the agency additional time to complete its review of the records. Upon any determination by an agency to comply with a request for records, the records shall be made promptly available to such person making such request. Any notification of denial of any request forrecords under this subsection shall set forth the names and titles or positions of each person responsible for the denial of such request.
 
-(ii) For purposes of this subparagraph, the term “exceptional circumstances” does not include a delay that results from a predictable agency workload of requests under this section, unless the agency demonstrates reasonableprogress in reducing its backlog of pending requests.
+(ii) For purposes of this subparagraph, the term “exceptional circumstances” does not include a delay that results from a predictable agency workload of requests under this section, unless the agency demonstrates reasonable progress in reducing its backlog of pending requests.
 
 (iii) Refusal by a person to reasonably modify the scope of a request or arrange an alternative time frame for processing a request (or a modified request) under clause (ii) after being given an opportunity to do so by the agency to whom the person made the request shall be considered as a factor in determining whether exceptional circumstances exist for purposes of this subparagraph.
 
@@ -198,7 +198,7 @@
 
 &emsp;(6) personnel and medical files and similar files the disclosure of which would constitute a clearly unwarranted invasion of personal privacy;
 
-&emsp;(7) records or information compiled for law enforcement purposes, but only to the extent that the production of such law enforcement records or information (A) could reasonably be expected to interfere with enforcement proceedings, (B) would deprive a person of a right to a fair trial or an impartial adjudication, (C) could reasonably be expected to constitute anunwarranted invasion of personal privacy, (D) could reasonably be expected to disclose the identity of a confidential source, including a State, local, or foreign agency or authority or any private institution which furnished information on a confidential basis, and, in the case of a record or information compiled by criminal law enforcement authority in the course of a criminal investigation or by an agency conducting a lawful national security intelligence investigation, information furnished by a confidential source, (E) would disclose techniques and procedures for law enforcement investigations or prosecutions, or would disclose guidelines for law enforcement investigations or prosecutions if such disclosure could reasonably be expected to risk circumvention of the law, or (F) could reasonably be expected to endanger the life or physical safety of any individual;
+&emsp;(7) records or information compiled for law enforcement purposes, but only to the extent that the production of such law enforcement records or information (A) could reasonably be expected to interfere with enforcement proceedings, (B) would deprive a person of a right to a fair trial or an impartial adjudication, (C) could reasonably be expected to constitute an unwarranted invasion of personal privacy, (D) could reasonably be expected to disclose the identity of a confidential source, including a State, local, or foreign agency or authority or any private institution which furnished information on a confidential basis, and, in the case of a record or information compiled by criminal law enforcement authority in the course of a criminal investigation or by an agency conducting a lawful national security intelligence investigation, information furnished by a confidential source, (E) would disclose techniques and procedures for law enforcement investigations or prosecutions, or would disclose guidelines for law enforcement investigations or prosecutions if such disclosure could reasonably be expected to risk circumvention of the law, or (F) could reasonably be expected to endanger the life or physical safety of any individual;
 
 &emsp;(8) contained in or related to examination, operating, or condition reports prepared by, on behalf of, or for the use of an agency responsible for the regulation or supervision of financial institutions; or
 
@@ -454,7 +454,7 @@ Subsec. (f). Pub. L. 104–231, §3, amended subsec. (f) generally. Prior to ame
 
 Subsec. (g). Pub. L. 104–231, §11, added subsec. (g).
 
-1986—Subsec. (a)(4)(A). Pub. L. 99–570, §1803, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In order to carry out the provisions of this section, each agency shall promulgate regulations, pursuant to notice and receipt of public comment, specifying a uniform schedule of fees applicable to allconstituent units of such agency. Such fees shall be limited to reasonable standard charges for document search and duplication and provide for recovery of only the direct costs of such search and duplication. Documents shall be furnished without charge or at a reduced charge where the agency determines that waiver or reduction of the fee is in the public interest because furnishing the information can be considered as primarily benefiting the general public.”
+1986—Subsec. (a)(4)(A). Pub. L. 99–570, §1803, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In order to carry out the provisions of this section, each agency shall promulgate regulations, pursuant to notice and receipt of public comment, specifying a uniform schedule of fees applicable to all constituent units of such agency. Such fees shall be limited to reasonable standard charges for document search and duplication and provide for recovery of only the direct costs of such search and duplication. Documents shall be furnished without charge or at a reduced charge where the agency determines that waiver or reduction of the fee is in the public interest because furnishing the information can be considered as primarily benefiting the general public.”
 
 Subsec. (b)(7). Pub. L. 99–570, §1802(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “investigatory records compiled for law enforcement purposes, but only to the extent that the production of such records would (A) interfere with enforcement proceedings, (B) deprive a person of a right to a fair trial or an impartial adjudication, (C) constitute an unwarranted invasion of personal privacy, (D) disclose the identity of a confidential source and, in the case of a record compiled by a criminal law enforcement authority in the course of a criminal investigation, or by an agency conducting a lawful national security intelligence investigation, confidential information furnished only by the confidential source, (E) disclose investigative techniques and procedures, or (F) endanger the life or physical safety of law enforcement personnel;”.
 
@@ -498,9 +498,9 @@ Subsec. (c). Pub. L. 90–23 added subsec. (c).
 
 #### Change of Name
 
-Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, bySenate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee onOversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2007 Amendment
 
@@ -606,7 +606,7 @@ In general.—For any photograph described under subsection (c)(1), the Secretar
 
 &emsp;“(2)
 
-Certification expiration.—A certification and a renewal of a certification issued pursuant to subsection (d)(3) shall expire 3 years after the date on which the certification or renewal, \[sic\] is issued by the Secretary of Defense.
+Certification expiration.—A certification and a renewal of a certification issued pursuant to subsection (d)(3) shall expire 3 years after the date onwhich the certification or renewal, \[sic\] is issued by the Secretary of Defense.
 
 &emsp;“(3)
 
@@ -670,7 +670,7 @@ Land Remote Sensing Information Defined.—In this section, the term ‘land rem
 
 &emsp;&emsp;“(A) are collected by land remote sensing; and
 
-&emsp;&emsp;“(B) are prohibited from sale to customers other than the United States Government and United States Government-approved customers for reasons of national security pursuant to the terms of an operating license issued pursuant to the Land Remote Sensing Policy Act of 1992 (15 U.S.C. 5601 et seq.); and
+&emsp;&emsp;“(B) are prohibited from sale to customers other than the United States Government and United States Government-approved customers for reasons of national security pursuant to the terms of an operating license issued pursuant to the Land Remote Sensing Policy Act of 1992 (\[former\] 15 U.S.C. 5601 et seq.) \[now 51 U.S.C. 60101 et seq.\]; and
 
 &emsp;“(2) includes any imagery and other product that is derived from such data and which is prohibited from sale to customers other than the United States Government and United States Government-approved customers for reasons of national security pursuant to the terms of an operating license described in paragraph (1)(B).
 
@@ -684,7 +684,7 @@ Safeguarding Information.—The head of each department or agency of the United 
 
 “(e)
 
-Additional Definition.—In this section, the term ‘land remote sensing’ has the meaning given such term in section 3 of the Land Remote Sensing Policy Act of 1992 (15 U.S.C. 5602).
+Additional Definition.—In this section, the term ‘land remote sensing’ has the meaning given such term in section 3 of the Land Remote Sensing Policy Act of 1992 (\[former\] 15 U.S.C. 5602) \[now 51 U.S.C. 60101\].
 
 “(f)
 
@@ -928,11 +928,11 @@ Application of exemptions.—
 
 &emsp;&emsp;“(A)
 
-In general.—In applying the exemptions listed in subparagraphs (B) through (J) of paragraph (2), there shall be a presumption that the public interest in the release of Nazi war criminal records will be served by disclosure and release of the records. Assertion of such exemption may only be made when the agency head determines that disclosure and release would be harmful to a specific interest identified in the exemption. An agency head who makes such a determination shall promptly report it to the committees of Congress with appropriate jurisdiction, including the Committee on the Judiciary of the Senate and the Committee on Government Reform and Oversight \[now Committee on Oversight and Government Reform\] of the House of Representatives. The exemptions set forth in paragraph (2) shall constitute the only authority pursuant to which an agency head may exempt records otherwise subject to release under paragraph (1).
+In general.—In applying the exemptions listed in subparagraphs (B) through (J) of paragraph (2), there shall be a presumption that the public interest in the release of Nazi war criminal records will be served by disclosure and release of the records. Assertion of such exemption may only be made when the agency head determines that disclosure and release would be harmful to a specific interest identified in the exemption. An agency head who makes such a determination shall promptly report it to the committees of Congress with appropriate jurisdiction, including the Committee on the Judiciary of the Senate and the Committee on Government Reform and Oversight \[now Committee on Oversight and Government Reform\] of the House of Representatives. The exemptions set forth in paragraph (2) shall constitute the only authority pursuant to which an agency head mayexempt records otherwise subject to release under paragraph (1).
 
 &emsp;&emsp;“(B)
 
-Application of title 5.—A determination by an agency head to apply an exemption listed in subparagraphs (B) through (I) of paragraph (2) shall besubject to the same standard of review that applies in the case of records withheld under section 552(b)(1) of title 5, United States Code.
+Application of title 5.—A determination by an agency head to apply an exemption listed in subparagraphs (B) through (I) of paragraph (2) shall be subject to the same standard of review that applies in the case of records withheld under section 552(b)(1) of title 5, United States Code.
 
 &emsp;“(4)
 
@@ -1038,7 +1038,7 @@ Section 1. The head of each Executive department and agency subject to the Freed
 
 Sec. 2. For purposes of this Order, the following definitions apply:
 
-(a) “Confidential commercial information” means records provided to the government by a submitter that arguably contain material exempt from release under Exemption 4 of the Freedom of Information Act, 5 U.S.C. 552(b)(4), because disclosure could reasonably be expected to cause substantial competitive harm.
+(a) “Confidential commercial information” means records provided to the government by a submitter that arguably contain material exempt from releaseunder Exemption 4 of the Freedom of Information Act, 5 U.S.C. 552(b)(4), because disclosure could reasonably be expected to cause substantial competitive harm.
 
 (b) “Submitter” means any person or entity who provides confidential commercial information to the government. The term “submitter” includes, but is not limited to, corporations, state governments, and foreign governments.
 
@@ -1110,7 +1110,7 @@ Sec. 3. <i>Membership</i>. (a) The Working Group shall be composed of the follow
 
 (8) Three other persons appointed by the President.
 
-(b) The Senior Director for Records and Access Management of the National Security Council will serve as the liaison to and attend the meetings of the Working Group. Members of the Working Group who are full-time Federal officials may serve on the Working Group through designees.
+(b) The Senior Director for Records and Access Management of the National Security Council will serve asthe liaison to and attend the meetings of the Working Group. Members of the Working Group who are full-time Federal officials may serve on the Working Group through designees.
 
 Sec. 4. <i>Administration</i>. (a) To the extent permitted by law and subject to the availability of appropriations, the National Archives and Records Administration shall provide the Working Group with funding, administrative services, facilities, staff, and other support services necessary for the performance of the functions of the Working Group.
 
@@ -1162,7 +1162,7 @@ Sec. 2. <i>Agency Chief FOIA Officers.</i>
 
 (v) As determined by the agency Chief FOIA Officer, in consultation with the FOIA Public Liaisons, each agency shall post appropriate information about its Center or Centers on the agency's website, including contact information for its FOIA Public Liaisons. In the case of an agency without a website, the agency shall publish the information on the Firstgov.gov website or, in the case of any agency with neither a website nor the capability to post on the Firstgov.gov website, in the Federal Register; and
 
-(vi) The agency Chief FOIA Officer shall ensure that the agency has in place a method (or methods), including through the use of the Center, to receive and respond promptly and appropriately to inquiries from FOIA requesters about the status of their requests. The Chief FOIA Officer shall also consider, in consultation with the FOIA Public Liaisons, as appropriate, whether the agency's implementation of other means (such as tracking numbers for requests, or an agency telephone or Internet hotline) would be appropriate for responding to status inquiries.
+(vi) The agency Chief FOIA Officer shall ensure that the agency has in place a method (or methods), including through the use of the Center, to receive and respond promptly and appropriately to inquiries from FOIA requesters about the status of their requests. The Chief FOIA Officer shall also consider, in consultation with the FOIA Public Liaisons, as appropriate, whetherthe agency's implementation of other means (such as tracking numbers for requests, or an agency telephone or Internet hotline) would be appropriate for responding to status inquiries.
 
 Sec. 3. <i>Review, Plan, and Report.</i>
 

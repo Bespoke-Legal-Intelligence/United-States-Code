@@ -118,17 +118,17 @@ This amends subsections (f) and (g) of section 151303 of title 36, as enacted by
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–284 substituted “The chairman” for “The Chairman”.
+<b>2006</b>—Subsec. (c). Pub. L. 109–284 substituted “The chairman” for “The Chairman”.
 
-2003—Subsec. (b)(2). Pub. L. 108–169, §206(a)(1), (2), substituted “12” for “9” in introductory provisions and “nine” for “six” in subpar. (D).
+<b>2003</b>—Subsec. (b)(2). Pub. L. 108–169, §206(a)(1), (2), substituted “12” for “9” in introductory provisions and “nine” for “six” in subpar. (D).
 
 Subsec. (b)(3). Pub. L. 108–169, §206(a)(3), substituted “4 members” for “3 members”.
 
-2000—Subsec. (f). Pub. L. 106–503, §113(b)(1), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “Appointment to the board does not constitute appointment as an officer or employee of the United States Government for the purpose of any law of the United States.”
+<b>2000</b>—Subsec. (f). Pub. L. 106–503, §113(b)(1), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “Appointment to the board does not constitute appointment as an officer or employee of the United States Government for the purpose of any law of the United States.”
 
 Subsecs. (g), (h). Pub. L. 106–503, §113(b), redesignated subsec. (h) as (g) and struck out heading and text of former subsec. (g). Text read as follows: “Members of the board serve without compensation.”
 
-1998—Subsecs. (f) to (h). Pub. L. 105–354 amended subsecs. (f) and (g) generally and added subsec. (h). Prior to amendment, subsecs. (f) and (g) read as follows:
+<b>1998</b>—Subsecs. (f) to (h). Pub. L. 105–354 amended subsecs. (f) and (g) generally and added subsec. (h). Prior to amendment, subsecs. (f) and (g) read as follows:
 
 “(f)
 

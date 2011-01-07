@@ -10,7 +10,7 @@
 
 &emsp;(ii) an additional forty-five day period, immediately following the period described in clause (i), during which any committee of the Congress having jurisdiction over the subject matter involved may conduct hearings with respect to the report which the Commission is required to transmit under section 6106(d) of this title, and with respect to the comments and recommendations submitted by Federal departments and agencies under section 6106(e) of this title.
 
-(B) The forty-five day period specified in subparagraph (A)(ii) shall include only days duringwhich both Houses of the Congress are in session.
+(B) The forty-five day period specified in subparagraph (A)(ii) shall include only days during which both Houses of the Congress are in session.
 
 (3) Not later than ninety days after the Secretary publishes proposed regulations under paragraph (1), the Secretary shall publish in the Federal Register final general regulations to carry out the provisions of section 6102 of this title, after taking into consideration any comments received by the Secretary with respect to the regulations proposed under paragraph (1).
 
@@ -42,13 +42,13 @@ The Age Discrimination in Employment Act of 1967 (29 U.S.C. 621–634), as amend
 
 #### Codification
 
-In subsec. (c)(1), “Job Training Partnership Act \[29 U.S.C. 1501 et seq.\]” substituted for “Comprehensive Employment and Training Act of 1974 (29 U.S.C. 801 et seq.), as amended” pursuant to section 183 of the Job Training Partnership Act, Pub. L. 97–300, title I, Oct. 13, 1982, 96 Stat. 1357, which is classified to section 1592 of Title 29, Labor, and which provided in part that references in any other statute to the Comprehensive Employment and Training Act shall be deemed to refer to the Job Training Partnership Act.
+In subsec. (c)(1), “Job Training Partnership Act \[29 U.S.C. 1501 et seq.\]” substituted for “Comprehensive Employment and Training Act of 1974 (29 U.S.C. 801 et seq.), as amended” pursuant to section 183 of the Job Training Partnership Act, Pub. L. 97–300, title I, Oct. 13, 1982, 96 Stat. 1357, which is classified to section 1592of Title 29, Labor, and which provided in part that references in any other statute to the Comprehensive Employment and Training Act shall be deemed to refer to the Job Training Partnership Act.
 
 #### Amendments
 
-1998—Subsec. (c)(1). Pub. L. 105–277 substituted “Nothing” for “Except with respect to any program or activity receiving Federal financial assistance for public service employment under the Job Training Partnership Act, nothing”.
+<b>1998</b>—Subsec. (c)(1). Pub. L. 105–277 substituted “Nothing” for “Except with respect to any program or activity receiving Federal financial assistance for public service employment under the Job Training Partnership Act, nothing”.
 
-1978—Subsec. (a)(4). Pub. L. 95–478, §401(b)(1), provided that the regulations shall not become effective until approved by the Secretary.
+<b>1978</b>—Subsec. (a)(4). Pub. L. 95–478, §401(b)(1), provided that the regulations shall not become effective until approved by the Secretary.
 
 Subsec. (a)(5). Pub. L. 95–478, §401(b)(2), substituted “July 1, 1979” for “January 1, 1979”.
 

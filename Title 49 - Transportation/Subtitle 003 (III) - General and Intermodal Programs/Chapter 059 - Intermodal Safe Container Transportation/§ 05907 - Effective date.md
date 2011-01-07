@@ -34,7 +34,7 @@ The date of enactment of the Intermodal Safe Container Transportation Amendments
 
 #### Amendments
 
-1996—Pub. L. 104–291 substituted “Effective date” for “Regulations and effective date” in section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>1996</b>—Pub. L. 104–291 substituted “Effective date” for “Regulations and effective date” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a)
 

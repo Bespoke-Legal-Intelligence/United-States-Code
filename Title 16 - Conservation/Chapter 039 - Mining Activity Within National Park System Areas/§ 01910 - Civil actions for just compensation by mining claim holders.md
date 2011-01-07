@@ -10,7 +10,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-1984—Pub. L. 98–620 struck out provision which required the court to expedite its consideration of any claim brought pursuant to this section.
+<b>1984</b>—Pub. L. 98–620 struck out provision which required the court to expedite its consideration of any claim brought pursuant to this section.
 
 #### Effective Date of 1984 Amendment
 

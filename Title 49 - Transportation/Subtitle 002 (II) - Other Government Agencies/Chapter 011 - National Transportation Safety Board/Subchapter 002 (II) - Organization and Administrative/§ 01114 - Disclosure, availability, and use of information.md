@@ -140,11 +140,11 @@ In subsection (d)(3), the words “laboratory record made available under paragr
 
 #### References in Text
 
-Section 503(e) of the Supplemental Appropriations Act, 1987, referred to in subsec. (e)(1), is section 503(e)of Pub. L. 100–71, which is set out as a note under section 7301 of Title 5, Government Organization and Employees.
+Section 503(e) of the Supplemental Appropriations Act, 1987, referred to in subsec. (e)(1), is section 503(e) of Pub. L. 100–71, which is set out as a note under section 7301 of Title 5, Government Organization and Employees.
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–424, §§3(b)(2), 5(b)(2), designated existing provisions as par. (1), substituted “(d), and (f)” for “and (e)” in first sentence, and added par. (2).
+<b>2000</b>—Subsec. (a). Pub. L. 106–424, §§3(b)(2), 5(b)(2), designated existing provisions as par. (1), substituted “(d), and (f)” for “and (e)” in first sentence, and added par. (2).
 
 Subsec. (c). Pub. L. 106–424, §5(a)(1), struck out “Voice” after “Cockpit” in heading.
 
@@ -156,7 +156,7 @@ Subsec. (d). Pub. L. 106–424, §5(b)(1)(B), which directed the addition of sub
 
 Subsecs. (e), (f). Pub. L. 106–424, §5(b)(1)(A), redesignated subsecs. (d) and (e) as (e) and (f), respectively.
 
-1996—Subsec. (a). Pub. L. 104–291, §102(1), substituted “(b), (c), and (e)” for “(b) and (c)”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–291, §102(1), substituted “(b), (c), and (e)” for “(b) and (c)”.
 
 Subsec. (b)(3). Pub. L. 104–291, §103, added par. (3).
 

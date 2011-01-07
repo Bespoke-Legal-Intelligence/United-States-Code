@@ -6,7 +6,7 @@ Any covered person subject to section 13251 of this title and any State subject 
 
 #### (b) Grant of waiver
 
-The Secretary shall grant a waiver of the requirements of section 13251 or 13257(<i>o</i>) of thistitle on a showing that the fleet owned, operated, leased, or otherwise controlled by the State or covered person—
+The Secretary shall grant a waiver of the requirements of section 13251 or 13257(<i>o</i>) of this title on a showing that the fleet owned, operated, leased, or otherwise controlled by the State or covered person—
 
 &emsp;(1) will achieve a reduction in the annual consumption of petroleum fuels by the fleet equal to—
 

@@ -106,15 +106,15 @@ The Secretary of the Interior is authorized to acquire approximately 159 acres o
 
 #### Amendments
 
-2002—Pub. L. 107–340 designated existing provisions as subsec. (a), substituted “When” for “That, when”, and added subsecs. (b) and (c).
+<b>2002</b>—Pub. L. 107–340 designated existing provisions as subsec. (a), substituted “When” for “That, when”, and added subsecs. (b) and (c).
 
-2000—Pub. L. 106–510 substituted “Pu‘uhonua o Hōnaunau National Historical Park” for “Puuhonua o Honaunau National Historical Park” in introductory provisions.
+<b>2000</b>—Pub. L. 106–510 substituted “Pu‘uhonua o Hōnaunau National Historical Park” for “Puuhonua o Honaunau National Historical Park” in introductory provisions.
 
-1978—Pub. L. 95–625 redesignated as “Puuhonua o Honaunau National Historical Park” the Park previously designated “City of Refuge National Historical Park”.
+<b>1978</b>—Pub. L. 95–625 redesignated as “Puuhonua o Honaunau National Historical Park” the Park previously designated “City of Refuge National Historical Park”.
 
 #### Change of Name
 
-Pub. L. 106–510, §3(d)(2), Nov. 13, 2000, 114 Stat. 2364, provided that: “Any reference in any law (other than this Act \[see Short Title of 2000 Amendments note set out under section 1 of this title\]), regulation, document, record, map, or other paper of the United States to ‘Puuhonua o Honaunau National Historical Park\[’\] shall be considered a reference to ‘Pu‘uhonua o Hōnaunau National Historical Park’.”
+Pub. L. 106–510, §3(d)(2), Nov. 13, 2000, 114 Stat. 2364, provided that: “Any reference in any law (other than this Act \[see Short Title of 2000 Amendments note setout under section 1 of this title\]), regulation, document, record, map, or other paper of the United States to ‘Puuhonua o Honaunau National Historical Park\[’\] shall be considered a reference to ‘Pu‘uhonua o Hōnaunau National Historical Park’.”
 
 #### Short Title of 2002 Amendment
 

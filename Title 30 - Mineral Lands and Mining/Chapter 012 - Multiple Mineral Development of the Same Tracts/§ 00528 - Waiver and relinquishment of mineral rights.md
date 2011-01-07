@@ -4,7 +4,3 @@ The owner or owners of any mining claim heretofore located may, at any time prio
 
 (Aug. 13, 1954, ch. 730, §8, 68 Stat. 715.)
 
-#### References in Text
-
-For definition of “Leasing Act minerals”, referred to in text, see section 530 of this title.
-

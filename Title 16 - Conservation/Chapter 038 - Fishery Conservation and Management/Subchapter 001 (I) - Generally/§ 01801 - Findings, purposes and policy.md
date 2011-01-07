@@ -78,11 +78,11 @@ Presidential Proclamation 5030, referred to in subsec. (b)(1), is set out under 
 
 #### Amendments
 
-2007—Subsec. (a)(11). Pub. L. 109–479, §3(a), added par. (11).
+<b>2007</b>—Subsec. (a)(11). Pub. L. 109–479, §3(a), added par. (11).
 
 Subsec. (a)(12). Pub. L. 109–479, §402, added par. (12).
 
-1996—Subsec. (a)(2). Pub. L. 104–297, §101(1), added par. (2) and struck out former par. (2) which read as follows: “As a consequence of increased fishing pressure and because of the inadequacy of fishery conservation and management practices and controls (A) certain stocks of such fish have been overfished to the point where their survival is threatened, and (B) other such stocks have been so substantially reduced in number that they could become similarly threatened.”
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–297, §101(1), added par. (2) and struck out former par. (2) which read as follows: “As a consequence of increased fishing pressure and because of the inadequacy of fishery conservation and management practices and controls (A) certain stocks of such fish have been overfished to the point where their survival is threatened, and (B) other such stocks have been so substantially reduced in number that they could become similarly threatened.”
 
 Subsec. (a)(6). Pub. L. 104–297, §101(2), inserted “to facilitate long-term protection of essential fish habitats,” after “to insure conservation,”.
 
@@ -100,7 +100,7 @@ Subsec. (c)(3). Pub. L. 104–297, §101(8), substituted “considers efficiency
 
 Subsec. (c)(7). Pub. L. 104–297, §101(9)–(11), added par. (7).
 
-1990—Subsec. (a)(8). Pub. L. 101–627, §101(a), added par. (8).
+<b>1990</b>—Subsec. (a)(8). Pub. L. 101–627, §101(a), added par. (8).
 
 Subsec. (b)(1)(A). Pub. L. 101–627, §101(b)(1), struck out “except highly migratory species” after “fish”.
 
@@ -112,13 +112,13 @@ Subsec. (c)(5). Pub. L. 101–627, §101(c)(3), substituted “, and to secure 
 
 Subsec. (c)(6). Pub. L. 101–627, §101(c)(4), added par. (6).
 
-1986—Subsec. (b)(1). Pub. L. 99–659, §101(c)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to take immediate action to conserve and manage the fishery resources found off the coasts of the United States, and the anadromous species and Continental Shelf fishery resources of the United States, by establishing (A) a fishery conservation zone within which the United States will assume exclusive fishery management authority over all fish, except highly migratory species, and (B) exclusive fishery management authority beyond such zone over such anadromous species and Continental Shelf fishery resources;”.
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–659, §101(c)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to take immediate action to conserve and manage the fishery resources found off the coasts of the United States, and the anadromous species and Continental Shelf fishery resources of the United States, by establishing (A) a fishery conservation zone within which the United States will assume exclusive fishery management authority over all fish, except highly migratory species, and (B) exclusive fishery management authority beyond such zone over such anadromous species and Continental Shelf fishery resources;”.
 
 Subsec. (c)(5). Pub. L. 99–659, §101(c)(1)(B), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “to support and encourage continued active United States efforts to obtain an internationally acceptable treaty, at the Third United Nations Conference on the Law of the Sea, which provides for effective conservation and management of fishery resources.”
 
-1980—Subsec. (b)(6). Pub. L. 96–561 inserted “, and to that end, to ensure that optimum yield determinations promote such development” after “fish off Alaska”.
+<b>1980</b>—Subsec. (b)(6). Pub. L. 96–561 inserted “, and to that end, to ensure that optimum yield determinations promote such development” after “fish off Alaska”.
 
-1978—Subsec. (a)(7). Pub. L. 95–354, §2(a), substituted “the United States fishing industry” for “United States fishermen”.
+<b>1978</b>—Subsec. (a)(7). Pub. L. 95–354, §2(a), substituted “the United States fishing industry” for “United States fishermen”.
 
 Subsec. (b)(6). Pub. L. 95–354, §2(b), inserted requirement for development by the United States fishing industry.
 
@@ -137,6 +137,10 @@ Section 238(b) of title II of Pub. L. 96–561 provided that: “Effective 15 da
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
+
+#### Short Title of 2011 Amendment
+
+Pub. L. 111–348, title I, §101, Jan. 4, 2011, 124 Stat. 3668, provided that: “This title \[amending sections 1826i to 1826k, 1857, and 4107 of this title and enacting provisions set out as notes under sections 1826k and 1857 of this title\] may be cited as the ‘Shark Conservation Act of 2010’.”
 
 #### Short Title of 2007 Amendment
 

@@ -44,13 +44,13 @@ The Peace Corps Act, referred to in par. (3), is Pub. L. 87–293, Sept. 22, 196
 
 #### Amendments
 
-1988—Par. (2). Pub. L. 100–647 inserted “(or in the case of judicial officers or employees of the United States, in accordance with rules similar to such regulations)” after “President”.
+<b>1988</b>—Par. (2). Pub. L. 100–647 inserted “(or in the case of judicial officers or employees of the United States, in accordance with rules similar to such regulations)” after “President”.
 
-1980—Par. (1)(A). Pub. L. 96–465 substituted reference to chapter 9 of title I of the Foreign Service Act of 1980 for reference to title IX of the Foreign Service Act of 1946.
+<b>1980</b>—Par. (1)(A). Pub. L. 96–465 substituted reference to chapter 9 of title I of the Foreign Service Act of 1980 for reference to title IX of the Foreign Service Act of 1946.
 
-1961—Par. (3). Pub. L. 87–293 added par. (3).
+<b>1961</b>—Par. (3). Pub. L. 87–293 added par. (3).
 
-1960—Pub. L. 86–707 exempted foreign areas allowances received under section 4 of the Central Intelligence Agency Act of 1949, title II of the Overseas Differentials and Allowances Act, subsection (e) or (f) of the first section of the Administrative Expenses Act of 1946, or section 22 of such Act, provided that amounts received as post differentials shall not be exempt and in provisions relating to cost-of-living allowances excluded Alaska from term “continental United States” and amounts received under title II of the Overseas Differentials and Allowances Act.
+<b>1960</b>—Pub. L. 86–707 exempted foreign areas allowances received under section 4 of the Central Intelligence Agency Act of 1949, title II of the Overseas Differentials and Allowances Act, subsection (e) or (f) of the first section of the Administrative Expenses Act of 1946, or section 22 of such Act, provided that amounts received as post differentials shall not be exempt and in provisions relating to cost-of-living allowances excluded Alaska from term “continental United States” and amounts received under title II of the Overseas Differentials and Allowances Act.
 
 #### Effective Date of 1988 Amendment
 
@@ -72,7 +72,7 @@ Section 523(b) of Pub. L. 86–707, as amended by Pub. L. 99–514, §2, Oct. 22
 
 #### Repeals; Amendments and Application of Amendments Unaffected
 
-Section 201(a) of Pub. L. 87–293, cited as a credit to this section, was repealed by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts, agreements, and other actions issued undertaken, or entered into under authority of the repealed provisions, see section 5(b) of Pub. L. 89–572, set out as a note under former section 2515 of Title 22, Foreign Relations and Intercourse.
+Section 201(a) of Pub. L. 87–293, cited as a credit to this section, was repealed by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts,agreements, and other actions issued undertaken, or entered into under authority of the repealed provisions, see section 5(b) of Pub. L. 89–572, set out as a note under former section 2515 of Title 22, Foreign Relations and Intercourse.
 
 #### Delegation of Functions
 

@@ -58,7 +58,7 @@ The requirements of subsection (a) of this section shall not apply—
 
 (2) The assets of a welfare plan which terminates shall be distributed in accordance with the terms of the plan, except as otherwise provided in regulations of the Secretary.
 
-(Pub. L. 93–406, title I, §403, Sept. 2, 1974, 88 Stat. 876; Pub. L. 96–364, title III, §310, title IV,§§402(b)(2), 410(a), 411(c), Sept. 26, 1980, 94 Stat. 1296, 1299, 1308; Pub. L. 100–203, title IX, §9343(c), Dec. 22, 1987, 101 Stat. 1330–372; Pub. L. 101–239, title VII, §§7881(k), 7891(a)(1), 7894(e)(1)(A), (3), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(a), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(B), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 106–170, title V, §535(a)(2)(B), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 108–218, title II, §204(b)(2), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(a)(2), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §107(a)(11), Aug. 17, 2006, 120 Stat. 819.)
+(Pub. L. 93–406, title I, §403, Sept. 2, 1974, 88 Stat. 876; Pub. L. 96–364, title III, §310, title IV,§§402(b)(2), 410(a), 411(c), Sept. 26, 1980, 94 Stat. 1296, 1299, 1308; Pub. L. 100–203, title IX, §9343(c), Dec. 22, 1987, 101 Stat. 1330–372; Pub. L. 101–239, title VII, §§7881(k), 7891(a)(1), 7894(e)(1)(A), (3), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(a), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(B), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 106–170, title V, §535(a)(2)(B), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 108–218, title II, §204(b)(2), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(a)(2), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §108(a)(11), formerly §107(a)(11), Aug. 17, 2006, 120 Stat. 819, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297.)
 
 #### References in Text
 
@@ -66,19 +66,19 @@ This chapter, referred to in subsecs. (a)(1) and (b)(4), (6), was in the origina
 
 #### Amendments
 
-2006—Subsec. (c)(1). Pub. L. 109–280 substituted “August 17, 2006” for “October 22, 2004”.
+<b>2006</b>—Subsec. (c)(1). Pub. L. 109–280 substituted “August 17, 2006” for “October 22, 2004”.
 
-2004—Subsec. (c)(1). Pub. L. 108–357 substituted “October 22, 2004” for “April 10, 2004”.
+<b>2004</b>—Subsec. (c)(1). Pub. L. 108–357 substituted “October 22, 2004” for “April 10, 2004”.
 
 Pub. L. 108–218 substituted “April 10, 2004” for “December 17, 1999”.
 
-1999—Subsec. (c)(1). Pub. L. 106–170 substituted “December 17, 1999” for “January 1, 1995”.
+<b>1999</b>—Subsec. (c)(1). Pub. L. 106–170 substituted “December 17, 1999” for “January 1, 1995”.
 
-1994—Subsec. (c)(1). Pub. L. 103–465 substituted “1995” for “1991”.
+<b>1994</b>—Subsec. (c)(1). Pub. L. 103–465 substituted “1995” for “1991”.
 
-1990—Subsec. (c)(1). Pub. L. 101–508 inserted “, or under section 420 of title 26 (as in effect on January 1, 1991)” after “insured plans”.
+<b>1990</b>—Subsec. (c)(1). Pub. L. 101–508 inserted “, or under section 420 of title 26 (as in effect on January 1, 1991)” after “insured plans”.
 
-1989—Subsecs. (b)(3), (5), (c)(2)(A)(ii), (C). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1989</b>—Subsecs. (b)(3), (5), (c)(2)(A)(ii), (C). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Subsec. (b)(3). Pub. L. 101–239, §7894(e)(3), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, struck out “, to the extent that such plan's assets are held in one or more custodial accounts which qualify under section 401(f) or 408(h) of title 26, whichever is applicable” before the semicolon in subpar. (B), and inserted concluding provision “to the extent that such plan's assets are held in one or more custodial accounts which qualify under section 401(f) or 408(h) of title 26, whichever is applicable.”
 
@@ -86,11 +86,11 @@ Subsec. (c)(2)(A). Pub. L. 101–239, §7894(e)(1)(A), in introductory provision
 
 Subsec. (c)(3), (4). Pub. L. 101–239, §7881(k), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “In the case of a contribution which would otherwise be an excess contribution (as defined in section 4979(c) of title 26) paragraph (1) shall not prohibit a correcting distribution with respect to such contribution from the plan to the employer to the extent permitted in such section to avoid payment of an excise tax on excess contributions under such section.”
 
-1987—Subsec. (c)(2)(B). Pub. L. 100–203, §9343(c)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “If a contribution is conditioned on qualification of the plan under section 401, 403(a), or 405(a) of title 26, and if the plan does not qualify, then paragraph (1) shall not prohibit the return of such contributions to the employer within one year after the date of denial of qualification of the plan.”
+<b>1987</b>—Subsec. (c)(2)(B). Pub. L. 100–203, §9343(c)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “If a contribution is conditioned on qualification of the plan under section 401, 403(a), or 405(a) of title 26, and if the plan does not qualify, then paragraph (1) shall not prohibit the return of such contributions to the employer within one year after the date of denial of qualification of the plan.”
 
 Subsec. (c)(3). Pub. L. 100–203, §9343(c)(2), substituted “section 4979(c) of title 26” for “section 4972(b) of title 26”.
 
-1980—Subsec. (a)(1). Pub. L. 96–364, §402(b)(2), substituted “chapter” for “subchapter”.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–364, §402(b)(2), substituted “chapter” for “subchapter”.
 
 Subsec. (b)(6). Pub. L. 96–364, §411(c), added par. (6).
 
@@ -102,7 +102,7 @@ Subsec. (c)(4). Pub. L. 96–364, §310(2), added par. (4).
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–280 applicable to plan years beginning after 2007, see section 107(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
+Amendment by Pub. L. 109–280 applicable to plan years beginning after 2007, see section 108(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -134,5 +134,5 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub.L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub.L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
 

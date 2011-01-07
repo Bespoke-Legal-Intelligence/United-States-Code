@@ -20,9 +20,15 @@ Eligibility.—(1) A member of a reserve component is entitled to a payment unde
 
 &emsp;(B) is retained on active duty under subparagraph (A) or (B) of section 12301(h)(1) of title 10 because of an injury or illness incurred or aggravated while the member was assigned to duty in an area for which special pay under section 310 of this title is available.
 
+(3) A civilian employee of the Federal Government who is also a member of a reserve component is not entitled to a payment under this section for any period for which the employee is entitled to—
+
+&emsp;(A) a differential payment under section 5538 of title 5; or
+
+&emsp;(B) a comparable benefit under an administratively established program for civilian employees absent from a position of employment with the Federal Government in order to perform active duty in the uniformed services.
+
 (c)
 
-Minimum and Maximum Payment Amounts.—(1) A payment under this sectionshall be made to a member for a month only if the amount of the monthly active-duty income differential for the month is greater than $50.
+Minimum and Maximum Payment Amounts.—(1) A payment under this section shall be made to a member for a month only if the amount of the monthly active-duty income differential for the month is greater than $50.
 
 (2) Notwithstanding the amount determined under subsection (d) for a member for a month, the monthly payment to a member under this section may not exceed $3,000.
 
@@ -52,15 +58,19 @@ Regulations.—This section shall be administered under regulations to be prescr
 
 (g)
 
-Termination.—No payment shall be made to a member under this section for months beginning after December 31, 2010, unless the entitlement of the member to payments under this section commenced on or before that date.
+Termination.—No payment shall be made to a member under this section for months beginning after December 31, 2011, unless the entitlement of the member to payments under this section commenced on or before that date.
 
-(Added Pub. L. 109–163, div. A, title VI, §614(a), Jan. 6, 2006, 119 Stat. 3292; amended Pub. L. 110–181, div. A, title VI, §604, Jan. 28, 2008, 122 Stat. 145; Pub. L. 110–417, \[div. A\], title VI, §605, Oct. 14, 2008, 122 Stat. 4483; Pub. L. 111–84, div. A, title VI, §611(7), Oct. 28, 2009, 123 Stat. 2352.)
+(Added Pub. L. 109–163, div. A, title VI, §614(a), Jan. 6, 2006, 119 Stat. 3292; amended Pub. L. 110–181, div. A, title VI, §604, Jan. 28, 2008, 122 Stat. 145; Pub. L. 110–417, \[div. A\], title VI, §605, Oct. 14, 2008, 122 Stat. 4483; Pub. L. 111–84, div. A, title VI, §611(7), Oct. 28, 2009, 123 Stat. 2352; Pub. L. 111–383, div. A, title VI, §§601(a), 611(7), Jan. 7, 2011, 124 Stat. 4235, 4236.)
 
 #### Amendments
 
-Subsec. (g). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+<b>2011</b>—Subsec. (b)(3). Pub. L. 111–383, §601(a), added par. (3).
 
-2008—Subsec. (a). Pub. L. 110–181, §604(a), inserted before period at end of first sentence “, when the total monthly military compensation of the member is less than the average monthly civilian income of the member”.
+Subsec. (g). Pub. L. 111–383, §611(7), substituted “December 31, 2011” for “December 31, 2010”.
+
+<b>2009</b>—Subsec. (g). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §604(a), inserted before period at end of first sentence “, when the total monthly military compensation of the member is less than the average monthly civilian income of the member”.
 
 Subsec. (b). Pub. L. 110–181, §604(b), amended subsec. (b) generally. Prior to amendment, text read as follows: “Subject to subsection (c), a reserve component member is entitled to a payment under this section for any full month of active duty of the member, while on active duty under an involuntary mobilization order, following the date on which the member—
 
@@ -73,6 +83,10 @@ Subsec. (b). Pub. L. 110–181, §604(b), amended subsec. (b) generally. Prior t
 Subsec. (g). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
 
 Pub. L. 110–181, §604(c), amended subsec. (g) generally. Prior to amendment, text read as follows: “No payment shall be made under this section after December 31, 2008.”
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–383, div. A, title VI, §601(b), Jan. 7, 2011, 124 Stat. 4235, provided that: “Subsection (b)(3) of section 910 of title 37, United States Code, as added by subsection (a), shall apply with respect to payments under such section for months beginning on or after the date of the enactment of this Act \[Jan. 7, 2011\].”
 
 #### Effective Date
 

@@ -14,11 +14,11 @@ Subject to sections 107 through 122, the owner of copyright under this title has
 
 &emsp;(6) in the case of sound recordings, to perform the copyrighted work publicly by means of a digital audio transmission.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2546; Pub. L. 101–318, §3(d), July 3, 1990, 104 Stat.288; Pub. L. 101–650, title VII, §704(b)(2), Dec. 1, 1990, 104 Stat. 5134; Pub. L. 104–39, §2, Nov. 1, 1995, 109 Stat. 336; Pub. L. 106–44, §1(g)(2), Aug. 5, 1999, 113 Stat. 222; Pub. L. 107–273, div. C, title III, §13210(4)(A), Nov. 2, 2002, 116 Stat. 1909.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2546; Pub. L. 101–318, §3(d), July 3, 1990, 104 Stat. 288; Pub. L. 101–650, title VII, §704(b)(2), Dec. 1, 1990, 104 Stat. 5134; Pub. L. 104–39, §2, Nov. 1, 1995, 109 Stat. 336; Pub. L. 106–44, §1(g)(2), Aug. 5, 1999, 113 Stat. 222; Pub. L. 107–273, div. C, title III, §13210(4)(A), Nov. 2, 2002, 116 Stat. 1909.)
 
 #### Historical and Revision Notes
 
-I74house report no. 94–1476
+#### house report no. 94–1476
 
 <b>General Scope of Copyright.</b> The five fundamental rights that the bill gives to copyright owners—the exclusive rights of reproduction, adaptation, publication, performance, and display—are stated generally in section 106. These exclusive rights, which comprise the so-called “bundle of rights” that is a copyright, are cumulative and may overlap in some cases. Each of the five enumerated rights may be subdivided indefinitely and, as discussed below in connection with section 201, each subdivision of an exclusive right may be owned and enforced separately.
 
@@ -34,7 +34,7 @@ The exclusive rights accorded to a copyright owner under section 106 are “to d
 
 <i>Preparation of Derivative Works</i>.—The exclusive right to prepare derivative works, specified separately in clause (2) of section 106, overlaps the exclusive right of reproduction to some extent. It is broader than that right, however, in the sense that reproduction requires fixation in copies or phonorecords, whereas the preparation of a derivative work, such as a ballet, pantomime, or improvised performance, may be an infringement even though nothing is ever fixed in tangible form.
 
-To be an infringement the “derivative work” must be “based upon the copyrighted work,” and the definition in section 101 refers to “a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be recast, transformed, or adapted.” Thus, to constitute a violation of section 106(2), the infringing work must incorporate a portion of the copyrighted work in some form; for example, a detailed commentary on a work or a programmatic musical composition inspired by a novel would not normally constitute infringements under this clause.
+To be an infringement the “derivative work” must be “based upon the copyrighted work,” and the definition in section 101 refers to “a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be recast, transformed, or adapted.” Thus, to constitute a violation of section 106(2), the infringing work must incorporate a portion of the copyrighted work insome form; for example, a detailed commentary on a work or a programmatic musical composition inspired by a novel would not normally constitute infringements under this clause.
 
 <i>Use in Information Storage and Retrieval Systems</i>.—As section 117 declares explicitly, the bill is not intended to alter the present law with respect to the use of copyrighted works in computer systems.
 
@@ -58,19 +58,19 @@ The corresponding definition of “display” covers any showing of a “copy”
 
 Under clause (1) of the definition of “publicly” in section 101, a performance or display is “public” if it takes place “at a place open to the public or at any place where a substantial number of persons outside of a normal circle of a family and its social acquaintances is gathered.” One of the principal purposes of the definition was to make clear that, contrary to the decision in <i>Metro-Goldwyn-Mayer Distributing Corp. v. Wyatt</i>, 21 C.O.Bull. 203 (D.Md.1932), performances in “semipublic” places such as clubs, lodges, factories, summer camps, and schools are “public performances” subject to copyright control. The term “a family” in this context would include an individual living alone, so that a gathering confined to the individual's social acquaintances would normally be regarded as private. Routine meetings of businesses and governmental personnel would be excluded because they do not represent the gathering of a “substantial number of persons.”
 
-Clause (2) of the definition of “publicly” in section 101 makes clear that the concepts of public performance and public display include not only performances and displays that occur initially in a public place, but also acts that transmit or otherwise communicate a performance or display of the work to the public by means of any device or process. The definition of “transmit”—to communicate a performance or display “by any device or process whereby images or sound are received beyond the place from which they are sent”—is broad enough to include all conceivable forms and combinations of wired or wireless communications media, including but by no means limited to radio and television broadcasting as we know them. Each and every method by which the images or sounds comprising a performance or display are picked up and conveyed is a “transmission,” and if the transmission reaches the public in my \[any\] form, the case comes within the scope of clauses (4) or (5) of section 106.
+Clause (2) of the definition of “publicly” in section 101 makes clear that the concepts of public performance and public display include not only performances and displays that occur initially in a public place, but also acts that transmit or otherwise communicate aperformance or display of the work to the public by means of any device or process. The definition of “transmit”—to communicate a performance or display “by any device or process whereby images or sound are received beyond the place from which they are sent”—is broad enough to include all conceivable forms and combinations of wired or wireless communications media, including but by no means limited to radio and television broadcasting as we know them. Each and every method by which the images or sounds comprising a performance or display are picked up and conveyed is a “transmission,” and if the transmission reaches the public in my \[any\] form, the case comes within the scope of clauses (4) or (5) of section 106.
 
 Under the bill, as under the present law, a performance made available by transmission to the public at large is “public” even though the recipients are not gathered in a single place, and even if there is no proof that any of the potential recipients was operating his receiving apparatus at the time of the transmission. The same principles apply whenever the potential recipients of the transmission represent a limited segment of the public, such as the occupants of hotel rooms or the subscribers of a cable television service. Clause (2) of the definition of “publicly” is applicable “whether the members of the public capable of receiving the performance or display receive it in the same place or in separate places and at the same time or at different times.”
 
 #### Amendments
 
-2002—Pub. L. 107–273 substituted “122” for “121” in introductory provisions.
+<b>2002</b>—Pub. L. 107–273 substituted “122” for “121” in introductory provisions.
 
-1999—Pub. L. 106–44 substituted “121” for “120” in introductory provisions.
+<b>1999</b>—Pub. L. 106–44 substituted “121” for “120” in introductory provisions.
 
-1995—Par. (6). Pub. L. 104–39 added par. (6).
+<b>1995</b>—Par. (6). Pub. L. 104–39 added par. (6).
 
-1990—Pub. L. 101–650 substituted “120” for “119” in introductory provisions.
+<b>1990</b>—Pub. L. 101–650 substituted “120” for “119” in introductory provisions.
 
 Pub. L. 101–318 substituted “119” for “118” in introductory provisions.
 

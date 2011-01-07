@@ -12,7 +12,7 @@ The following shall apply with respect to the standard of the American Society f
 
 &emsp;(2) The standard referred to in subsection (a) of this section as modified by this subsection applies to art materials intended for users of any age.
 
-&emsp;(3) Each producer or repackager of art materials shall describe in writing the criteria used to determine whether an art material has the potential for producing chronic adverse health effects. Each producer or repackager shall be responsible for submitting to the Commission these criteria and a list of art materials that require hazard warning labels under this section.
+&emsp;(3) Each producer or repackager of art materials shall describe in writing the criteria used to determine whether an art material has the potential for producing chronic adverse health effects. Each producer or repackager shall be responsible for submitting to the Commissionthese criteria and a list of art materials that require hazard warning labels under this section.
 
 &emsp;(4) Upon the request of the Commission, a producer or repackager of art materials shall submit to the Commission product formulations and the criteria used to determine whether the art material or its ingredients have the potential for producing chronic adverse health effects.
 

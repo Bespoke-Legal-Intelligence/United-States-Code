@@ -80,25 +80,25 @@ The work “appropriations” is substituted for “funds appropriated” for co
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, or the District of Columbia”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, or the District of Columbia”.
 
-2003—Subsec. (a)(2). Pub. L. 108–136 substituted “members” for “officers”, “Army Staff” for “Army General Staff”, and “the Enlisted Association of the National Guard of the United States, the National Guard Association of the United States,” for “the National Guard Association of the United States”.
+<b>2003</b>—Subsec. (a)(2). Pub. L. 108–136 substituted “members” for “officers”, “Army Staff” for “Army General Staff”, and “the Enlisted Association of the National Guard of the United States, the National Guard Association of the United States,” for “the National Guard Association of the United States”.
 
-1997—Subsec. (b). Pub. L. 105–85 substituted “and housing” for “and quarters”.
+<b>1997</b>—Subsec. (b). Pub. L. 105–85 substituted “and housing” for “and quarters”.
 
-1994—Subsec. (c). Pub. L. 103–337 substituted “12402” for “3496 or 8496”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–337 substituted “12402” for “3496 or 8496”.
 
-1988—Subsec. (b). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 
-1982—Subsec. (c). Pub. L. 97–258 added subsec. (c).
+<b>1982</b>—Subsec. (c). Pub. L. 97–258 added subsec. (c).
 
-1971—Pub. L. 92–119, §1(a)(1), substituted “Availability” for “Apportionment” in section catchline.
+<b>1971</b>—Pub. L. 92–119, §1(a)(1), substituted “Availability” for “Apportionment” in section catchline.
 
 Subsec. (a). Pub. L. 92–119, §1(a)(2), (3), (4), redesignated subsec. (b) as (a) and substituted “appropriation for the National Guard” for “apportioned appropriation”. Former subsec. (a), which provided for apportionment of appropriations for Army National Guard and Air National Guard under prescribed formulas among States, territories, Puerto Rico, Canal Zone, District of Columbia, was struck out.
 
 Subsecs. (b), (c). Pub. L. 92–119, §1(a)(4), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a) and amended.
 
-1967—Subsec. (c). Pub. L. 90–83 substituted “402 and 403” for “251 and 252”.
+<b>1967</b>—Subsec. (c). Pub. L. 90–83 substituted “402 and 403” for “251 and 252”.
 
 #### Effective Date of 2003 Amendment
 

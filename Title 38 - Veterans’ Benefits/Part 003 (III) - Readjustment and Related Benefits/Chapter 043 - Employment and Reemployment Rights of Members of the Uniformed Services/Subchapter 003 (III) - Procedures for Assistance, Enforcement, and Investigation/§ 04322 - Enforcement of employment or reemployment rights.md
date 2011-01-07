@@ -28,7 +28,7 @@
 
 (g) This subchapter does not apply to any action relating to benefits to be provided under the Thrift Savings Plan under title 5.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3164; amended Pub. L. 104–275, title III,§311(9), Oct. 9, 1996, 110 Stat. 3335; Pub. L. 110–389, title III, §311(a)–(c), Oct. 10, 2008, 122 Stat. 4162.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3164; amended Pub. L. 104–275, title III, §311(9), Oct. 9, 1996, 110 Stat. 3335; Pub. L. 110–389, title III, §311(a)–(c), Oct. 10, 2008, 122 Stat. 4162.)
 
 #### Prior Provisions
 
@@ -36,13 +36,13 @@ A prior section 4322 was renumbered section 7622 of this title.
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–389, §311(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary shall, upon request, provide technical assistance to a potential claimant with respect to a complaint under this subsection, and when appropriate, to such claimant's employer.”
+<b>2008</b>—Subsec. (c). Pub. L. 110–389, §311(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary shall, upon request, provide technical assistance to a potential claimant with respect to a complaint under this subsection, and when appropriate, to such claimant's employer.”
 
 Subsec. (e). Pub. L. 110–389, §311(b), inserted “in writing” after “submitted the complaint” in introductory provisions.
 
 Subsecs. (f), (g). Pub. L. 110–389, §311(c), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1996—Subsec. (d). Pub. L. 104–275, §311(9)(A), inserted “attempt to” before “resolve”.
+<b>1996</b>—Subsec. (d). Pub. L. 104–275, §311(9)(A), inserted “attempt to” before “resolve”.
 
 Subsec. (e). Pub. L. 104–275, §311(9)(B)(i), substituted “with respect to any complaint filed under subsection (a) do not resolve the complaint,” for “with respect to a complaint under subsection (d) are unsuccessful,” in introductory provisions.
 

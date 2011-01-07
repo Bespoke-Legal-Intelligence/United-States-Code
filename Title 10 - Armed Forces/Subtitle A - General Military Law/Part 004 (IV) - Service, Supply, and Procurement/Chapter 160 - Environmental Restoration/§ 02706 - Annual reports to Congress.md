@@ -18,7 +18,7 @@ Report on Environmental Restoration Activities.—(1) The Secretary of Defense s
 
 &emsp;&emsp;(ii) any deviation in the schedule (including a milestone schedule specified in an agreement, order, or mandate) for such response actions of more than 180 days.
 
-&emsp;(E) A statement of the amount of funds allocated by the Secretary for, and the anticipated progress in implementing, such responseactions during the fiscal year in which the report is submitted.
+&emsp;(E) A statement of the amount of funds allocated by the Secretary for, and the anticipated progress in implementing, such response actions during the fiscal year in which the report is submitted.
 
 &emsp;(F) A statement of the amount of funds requested for such response actions for the five fiscal years following the fiscal year in which the report is submitted, and the anticipated progress in implementing such response actions for the fiscal year for which the budget is submitted.
 
@@ -98,9 +98,9 @@ Definitions.—In this section:
 
 #### Amendments
 
-2006—Subsec. (b)(2)(D) to (F). Pub. L. 109–163 added subpar. (D), struck out former subpars. (D) and (E) which related to a list of the planned or ongoing projects necessary to support the environmental quality programs and a statement of the fines and penalties imposed or assessed against the Department of Defense and the military departments under environmental laws, redesignated subpar. (F) as (E) and struck out “and amounts for conferences, meetings, and studies for pilot programs, and for travel related to such activities” before period.
+<b>2006</b>—Subsec. (b)(2)(D) to (F). Pub. L. 109–163 added subpar. (D), struck out former subpars. (D) and (E) which related to a list of the planned or ongoing projects necessary to support the environmental quality programs and a statement of the fines and penalties imposed or assessed against the Department of Defense and the military departments under environmental laws, redesignated subpar. (F) as (E) and struck out “and amounts for conferences, meetings, and studies for pilot programs, and for travel related to such activities” before period.
 
-2001—Subsec. (c). Pub. L. 107–107, §315(a), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows:
+<b>2001</b>—Subsec. (c). Pub. L. 107–107, §315(a), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows:
 
 “(c)
 
@@ -116,7 +116,7 @@ Subsec. (d). Pub. L. 107–107, §315(a)(2), (b), redesignated subsec. (e) as (d
 
 Subsec. (e). Pub. L. 107–107, §315(a)(2), redesignated subsec. (e) as (d).
 
-1999—Subsec. (b). Pub. L. 106–65, §322(a), amended heading and text of subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) and (2) relating to reports on environmental compliance activities.
+<b>1999</b>—Subsec. (b). Pub. L. 106–65, §322(a), amended heading and text of subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) and (2) relating to reports on environmental compliance activities.
 
 Subsec. (d). Pub. L. 106–65, §323(c)(1), added subsec. (d).
 
@@ -124,19 +124,19 @@ Pub. L. 106–65, §322(b), struck out subsec. (d) which required the Secretary 
 
 Subsec. (e)(4), (5). Pub. L. 106–65, §322(c), added pars. (4) and (5).
 
-1998—Subsecs. (a)(1), (b)(1), (c)(1), (d)(1). Pub. L. 105–261 substituted “not later than 45 days” for “not later than 30 days”.
+<b>1998</b>—Subsecs. (a)(1), (b)(1), (c)(1), (d)(1). Pub. L. 105–261 substituted “not later than 45 days” for “not later than 30 days”.
 
-1997—Subsec. (b)(2)(H). Pub. L. 105–85, §344(a), added subpar. (H).
+<b>1997</b>—Subsec. (b)(2)(H). Pub. L. 105–85, §344(a), added subpar. (H).
 
 Subsecs. (d), (e). Pub. L. 105–85, §345, added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1996—Subsec. (a)(2)(J). Pub. L. 104–106 added subpar. (J).
+<b>1996</b>—Subsec. (a)(2)(J). Pub. L. 104–106 added subpar. (J).
 
 Subsec. (d)(1)(A). Pub. L. 104–201 substituted “20 entities” for “100 entities”.
 
-1994—Subsec. (a). Pub. L. 103–337 made technical correction to Pub. L. 103–160, §1001(a). See 1993 Amendment note below.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337 made technical correction to Pub. L. 103–160, §1001(a). See 1993 Amendment note below.
 
-1993—Subsec. (a). Pub. L. 103–160, §1001(a), as amended by Pub. L. 103–337, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
+<b>1993</b>—Subsec. (a). Pub. L. 103–160, §1001(a), as amended by Pub. L. 103–337, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
 “(1)
 
@@ -156,7 +156,7 @@ Subsec. (b). Pub. L. 103–160, §1001(b), inserted “Activities” in heading 
 
 Subsecs. (c), (d). Pub. L. 103–160, §1001(c), (d), added subsecs. (c) and (d).
 
-1990—Subsec. (b). Pub. L. 101–510, §342(a), added subpar. (G) at end of par. (1).
+<b>1990</b>—Subsec. (b). Pub. L. 101–510, §342(a), added subpar. (G) at end of par. (1).
 
 Pub. L. 101–510, §341, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “
 
@@ -168,7 +168,7 @@ Environmental Budget Report.—(1) Each year, at the same time the President sub
 
 “(2) The Secretary shall include in the report an explanation of any differences in the funding level requirements and the funding level requests in the budget.”
 
-1989—Pub. L. 101–189 substituted “reports” for “report” in section catchline, designated subsec. (a) as subsec. (a)(1), struck out subsec. (b) heading “
+<b>1989</b>—Pub. L. 101–189 substituted “reports” for “report” in section catchline, designated subsec. (a) as subsec. (a)(1), struck out subsec. (b) heading “
 
 Matters To Be Included”, redesignated subsec. (b) as subsec. (a)(2) and pars. (1) to (4) as subpars. (A) to (D), respectively, and added subsec. (b).
 

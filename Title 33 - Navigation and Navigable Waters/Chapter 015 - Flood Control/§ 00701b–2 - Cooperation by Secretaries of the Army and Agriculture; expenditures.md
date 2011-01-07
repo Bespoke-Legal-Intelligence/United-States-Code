@@ -10,7 +10,7 @@ Act of June 22, 1936 (49 Stat. 1570), as amended and supplemented, referred to i
 
 #### Amendments
 
-1941—Act Aug. 18, 1941, changed the reference near the beginning of section and inserted sentence at end.
+<b>1941</b>—Act Aug. 18, 1941, changed the reference near the beginning of section and inserted sentence at end.
 
 #### Change of Name
 

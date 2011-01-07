@@ -16,9 +16,9 @@
 
 #### Amendments
 
-1982—Par. (6). Pub. L. 97–258 substituted “section 3713(a) of title 31, United States Code” for “R.S. 3466 (31 U.S.C. 191)”.
+<b>1982</b>—Par. (6). Pub. L. 97–258 substituted “section 3713(a) of title 31, United States Code” for “R.S. 3466 (31 U.S.C. 191)”.
 
-1980—Par. (2). Pub. L. 96–589, §6(i)(10)(A), substituted “cases under title 11 of the United States Code, see section 523 of such title 11” for “bankruptcy, see section 17 of the Bankruptcy Act, as amended (11 U.S.C. 35)”.
+<b>1980</b>—Par. (2). Pub. L. 96–589, §6(i)(10)(A), substituted “cases under title 11 of the United States Code, see section 523 of such title 11” for “bankruptcy, see section 17 of the Bankruptcy Act, as amended (11 U.S.C. 35)”.
 
 Par. (3). Pub. L. 96–589, §6(i)(10)(A), redesignated par. (4) as (3) and substituted “cases under title 11 of the United States Code, see sections 545 and 724 of such title 11” for “proceedings under the Bankruptcy Act, see section 67(b) and (c) of that act, as amended (11 U.S.C. 107)”. Former par. (3), which provided cross reference to section 93 of title 11 for limit on amount allowed in bankruptcy proceedings on debts owing to the United States, was struck out.
 
@@ -26,7 +26,7 @@ Par. (4). Pub. L. 96–589, §6(i)(10)(A), redesignated par. (5) as (4) and subs
 
 Pars. (5) to (7). Pub. L. 96–589, §6(i)(10)(A), (B), redesignated pars. (6) and (7) as (5) and (6), respectively. Former par. (5) redesignated (4).
 
-1976—Pars. (2) to (5). Pub. L. 94–455 struck out parenthetical references to “52 Stat. 851;”, “52 Stat. 867;”, “52 Stat. 867–877;” and “52 Stat. 938;” preceding parenthetical references to sections of title 11.
+<b>1976</b>—Pars. (2) to (5). Pub. L. 94–455 struck out parenthetical references to “52 Stat. 851;”, “52 Stat. 867;”, “52 Stat. 867–877;” and “52 Stat. 938;” preceding parenthetical references to sections of title 11.
 
 #### Effective Date of 1980 Amendment
 

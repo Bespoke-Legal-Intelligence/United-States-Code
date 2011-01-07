@@ -12,7 +12,7 @@ The Secretary, through the Administrator and subject to the availability of fund
 
 #### (2) Waiver
 
-&emsp;The Administrator may waive all or part of the matching requirement under paragraph (1)if the Administrator determines that no reasonable means are available through which applicants can meet the matching requirement and the probable benefit of such project outweighs the public interest in such matching requirement.
+&emsp;The Administrator may waive all or part of the matching requirement under paragraph (1) if the Administrator determines that no reasonable means are available through which applicants can meet the matching requirement and the probable benefit of such project outweighs the public interest in such matching requirement.
 
 #### (c) Eligibility
 
@@ -52,7 +52,7 @@ Each proposal for a grant under this section shall include the following:
 
 #### (1) In general
 
-&emsp;The Administrator shall review each coral conservation project proposal to determine if it meets the criteria set forth in subsection (g) of this section.
+&emsp;The Administrator shall review each coral conservation project proposal to determine ifit meets the criteria set forth in subsection (g) of this section.
 
 #### (2) Review; approval or disapproval
 

@@ -6,7 +6,7 @@ The Secretary shall establish an Agricultural Council on Environmental Quality i
 
 #### (b) Membership
 
-Membership of the Council shall consist of the Secretary, the Deputy Secretary, the AssistantSecretary for Natural Resources and Environment, the Assistant Secretary for Science and Education, other under and assistant secretaries as may be designated by the Secretary, and the Director of the Office of Agricultural Environmental Quality, established in section 5402 of this title, who shall serve as the Executive Director of the Council. The Secretary shall designate a member of the Council, other than the Executive Director, as chair of the Council.
+Membership of the Council shall consist of the Secretary, the Deputy Secretary, the Assistant Secretary for Natural Resources and Environment, the Assistant Secretary for Science and Education, other under and assistant secretaries as may be designated by the Secretary, and the Director of the Office of Agricultural Environmental Quality, established in section 5402 of this title, who shall serve as the Executive Director of the Council. The Secretary shall designate a member of the Council, other than the Executive Director, as chair of the Council.
 
 (Pub. L. 101–624, title XIV, §1471, Nov. 28, 1990, 104 Stat. 3619.)
 

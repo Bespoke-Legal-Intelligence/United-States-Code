@@ -26,3 +26,5 @@ Pub. L. 103–465, title II, §234, Dec. 8, 1994, 108 Stat. 4901, provided that:
 
 The North American Free Trade Agreement entered into force on Jan. 1, 1994, see note set out under section 3311 of this title.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

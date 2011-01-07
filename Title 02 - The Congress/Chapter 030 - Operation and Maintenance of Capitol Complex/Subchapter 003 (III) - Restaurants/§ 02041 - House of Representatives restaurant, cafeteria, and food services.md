@@ -10,7 +10,7 @@ The Architect of the Capitol is hereby authorized and directed to transfer, as t
 
 #### (c) Special deposit account
 
-All authority, responsibility, and functions vested in or imposed upon the Architect of the Capitol in connection with the special deposit account established by section 208 of the First Supplemental Civil Functions Appropriation Act, 1941, shall be vested in or imposed uponsuch other official, authority, or authorities as the Committee on House Oversight may designate.
+All authority, responsibility, and functions vested in or imposed upon the Architect of the Capitol in connection with the special deposit account established by section 208 of the First Supplemental Civil Functions Appropriation Act, 1941, shall be vested in or imposed upon such other official, authority, or authorities as the Committee on House Oversight may designate.
 
 #### (d) Effective date
 

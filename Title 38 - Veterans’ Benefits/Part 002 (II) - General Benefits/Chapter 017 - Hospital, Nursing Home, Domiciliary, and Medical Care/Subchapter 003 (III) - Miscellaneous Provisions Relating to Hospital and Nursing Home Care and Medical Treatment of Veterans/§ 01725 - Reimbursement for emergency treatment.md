@@ -64,7 +64,7 @@ Independent Right of Recovery.—(1) In accordance with regulations prescribed b
 
 (e)
 
-Waiver.—The Secretary, in the Secretary's discretion, may waive recovery of a payment made to a veteran under this section that is otherwise required by subsection (d)(1) when the Secretary determines that such waiver would be in the best interest of the United States, as defined by regulations prescribed by the Secretary.
+Waiver.—The Secretary, in the Secretary's discretion, may waive recovery of a payment made to a veteran under this section that isotherwise required by subsection (d)(1) when the Secretary determines that such waiver would be in the best interest of the United States, as defined by regulations prescribed by the Secretary.
 
 (f)
 
@@ -116,13 +116,13 @@ The Social Security Act, referred to in subsec. (f)(2), is act Aug. 14, 1935, ch
 
 #### Amendments
 
-2010—Subsec. (b)(3)(C). Pub. L. 111–137, §1(a)(1), struck out “or in part” after “in whole”.
+<b>2010</b>—Subsec. (b)(3)(C). Pub. L. 111–137, §1(a)(1), struck out “or in part” after “in whole”.
 
 Subsec. (c)(4). Pub. L. 111–137, §1(b), added par. (4).
 
 Subsec. (f)(2)(E). Pub. L. 111–137, §1(a)(2), struck out subpar. (E) which read as follows: “A law of a State or political subdivision described in section 1729(a)(2)(B) of this title.”
 
-2008—Subsec. (a)(1). Pub. L. 110–387, §402(a)(1), substituted “shall reimburse” for “may reimburse”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–387, §402(a)(1), substituted “shall reimburse” for “may reimburse”.
 
 Subsec. (f)(1)(C). Pub. L. 110–387, §402(a)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “until such time as the veteran can be transferred safely to a Department facility or other Federal facility”.
 

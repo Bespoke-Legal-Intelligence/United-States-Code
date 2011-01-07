@@ -50,13 +50,13 @@ The word “regulations” is added for consistency. The word “persons” is o
 
 #### Amendments
 
-2002—Subsec. (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1993—Subsec. (a)(3). Pub. L. 103–160 substituted “within 72 hours of such appointment” for “during the physical examination given the applicant before such appointment” and “before such an appointment is executed” for “during the precommissioning physical examination given such person”.
+<b>1993</b>—Subsec. (a)(3). Pub. L. 103–160 substituted “within 72 hours of such appointment” for “during the physical examination given the applicant before such appointment” and “before such an appointment is executed” for “during the precommissioning physical examination given such person”.
 
-1990—Subsec. (c)(3). Pub. L. 101–510 struck out “a” before “whose enlistment”.
+<b>1990</b>—Subsec. (c)(3). Pub. L. 101–510 struck out “a” before “whose enlistment”.
 
-1989—Subsec. (a)(1). Pub. L. 101–189, §513(a)(2), added par. (1) and struck out former par. (1) which read as follows: “Except as provided in paragraph (2), the Secretary concerned shall require each member of the armed forces under the Secretary's jurisdiction, within72 hours after the member's initial entry on active duty after enlistment or appointment, to—
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–189, §513(a)(2), added par. (1) and struck out former par. (1) which read as follows: “Except as provided in paragraph (2), the Secretary concerned shall require each member of the armed forces under the Secretary's jurisdiction, within 72 hours after the member's initial entry on active duty after enlistment or appointment, to—
 
 &emsp;“(A) undergo testing (by practicable, scientifically supported means) for drug and alcohol use; and
 
@@ -74,7 +74,7 @@ Subsec. (c)(3). Pub. L. 101–189, §513(b)(2)(A), (D), redesignated par. (2) as
 
 Subsec. (c)(4). Pub. L. 101–189, §513(c), added par. (4).
 
-1988—Pub. L. 100–456 substituted “Drug and alcohol abuse and dependency: testing of new entrants” for “Mandatory testing for drug, chemical, and alcohol abuse” in section catchline, and amended text generally. Prior to amendment, text read as follows:
+<b>1988</b>—Pub. L. 100–456 substituted “Drug and alcohol abuse and dependency: testing of new entrants” for “Mandatory testing for drug, chemical, and alcohol abuse” in section catchline, and amended text generally. Prior to amendment, text read as follows:
 
 “(a) Before a person becomes a member of the armed forces, such person shall be required to undergo testing for drug, chemical, and alcohol use and dependency.
 
@@ -88,7 +88,7 @@ Subsec. (c)(4). Pub. L. 101–189, §513(c), added par. (4).
 
 “(d) The testing required by subsection (a) shall be carried out under regulations prescribed by the Secretary of Defense in consultation with the Secretary of Transportation. Those regulations shall apply uniformly throughout the armed forces.”
 
-1987—Pub. L. 100–180 substituted “Mandatory testing for drug, chemical, and alcohol abuse” for “Denial of entrance into the armed forces of persons dependent on drugs or alcohol” in section catchline, and amended text generally, revising and restating as subsecs. (a) to (d) provisions formerly contained in subsecs. (a) and (b).
+<b>1987</b>—Pub. L. 100–180 substituted “Mandatory testing for drug, chemical, and alcohol abuse” for “Denial of entrance into the armed forces of persons dependent on drugs or alcohol” in section catchline, and amended text generally, revising and restating as subsecs. (a) to (d) provisions formerly contained in subsecs. (a) and (b).
 
 #### Effective Date of 2002 Amendment
 

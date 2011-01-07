@@ -92,7 +92,7 @@ Employment Backfill Prevention.—
 
 &emsp;“(1)
 
-In general.—The total number of funded employee positions in all agencies (excluding the Department of Defense and the Central Intelligence Agency) shall be reduced by one position for each vacancy created by the separation of any employee who has received, or is due to receive, a voluntary separation incentive payment under section 3(a)–(e) \[5 U.S.C. 5597 note\]. For purposes of this subsection, positions and vacancies shall be counted on a full-time-equivalent basis.
+In general.—The total number of funded employee positions in all agencies (excluding the Department of Defense and the Central Intelligence Agency) shall be reduced by one position for each vacancy created by the separation of any employee whohas received, or is due to receive, a voluntary separation incentive payment under section 3(a)–(e) \[5 U.S.C. 5597 note\]. For purposes of this subsection, positions and vacancies shall be counted on a full-time-equivalent basis.
 
 &emsp;“(2)
 
@@ -284,7 +284,7 @@ Exceptions to citizenship requirement for—
 
 &emsp;&emsp;Library of Congress positions, see section 169 of Title 2, The Congress.
 
-&emsp;&emsp;National Aeronautics and Space Administration employees, see section 2473 of Title 42, The Public Health and Welfare.
+&emsp;&emsp;National Aeronautics and Space Administration employees, see section 20113 of Title 51, National and Commercial Space Programs.
 
 #### Employment of Personnel During National Emergency Proclaimed on Dec. 16, 1950
 

@@ -38,5 +38,5 @@ The Indian Self-Determination Act, referred to in subsec. (b)(1), is title I of 
 
 #### Amendments
 
-1992—Subsec. (a)(3). Pub. L. 102–573 struck out par. (3) which directed Secretary to submit report to Congress no later than Sept. 30, 1989.
+<b>1992</b>—Subsec. (a)(3). Pub. L. 102–573 struck out par. (3) which directed Secretary to submit report to Congress no later than Sept. 30, 1989.
 

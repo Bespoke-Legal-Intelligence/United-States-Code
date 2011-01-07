@@ -24,7 +24,7 @@ Minor changes in phraseology were also made.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-1991—Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+<b>1991</b>—Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 

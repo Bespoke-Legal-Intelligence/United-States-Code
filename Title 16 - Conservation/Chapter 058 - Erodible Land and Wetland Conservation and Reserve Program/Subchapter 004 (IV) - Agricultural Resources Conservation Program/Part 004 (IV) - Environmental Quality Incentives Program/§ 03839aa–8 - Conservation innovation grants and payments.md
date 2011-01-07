@@ -36,11 +36,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Prior Provisions
 
-A prior section 3839aa–8, Pub. L. 99–198, title XII, §1240H, as added Pub. L. 104–127, title III, §334, Apr. 4,1996, 110 Stat. 1002, related to temporary administration of environmental quality incentives program, prior to the general amendment of this part by Pub. L. 107–171.
+A prior section 3839aa–8, Pub. L. 99–198, title XII, §1240H, as added Pub. L. 104–127, title III, §334, Apr. 4, 1996, 110 Stat. 1002, related to temporary administration of environmental quality incentives program, prior to the general amendment of this part by Pub. L. 107–171.
 
 #### Amendments
 
-2008—Pub. L. 110–246, §2509, amended section generally. Prior to amendment, section related to conservation innovation grants.
+<b>2008</b>—Pub. L. 110–246, §2509, amended section generally. Prior to amendment, section related to conservation innovation grants.
 
 #### Effective Date of 2008 Amendment
 

@@ -24,7 +24,7 @@ Any loan made under this section shall be of such sound value, or so secured, as
 
 Any company which has made a loan to a small-business concern under this section is authorized to extend the maturity of or renew such loan for additional periods, not exceeding ten years, if the company finds that such extension or renewal will aid in the orderly liquidation of such loan.
 
-(Pub. L. 85–699, title III, §305, Aug. 21, 1958, 72 Stat. 693; Pub. L. 87–341, §6, Oct. 3, 1961, 75 Stat.753; Pub. L. 94–305, title I, §105, June 4, 1976, 90 Stat. 666; Pub. L. 102–366, title IV, §411, Sept. 4, 1992, 106 Stat. 1018.)
+(Pub. L. 85–699, title III, §305, Aug. 21, 1958, 72 Stat. 693; Pub. L. 87–341, §6, Oct. 3, 1961, 75 Stat. 753; Pub. L. 94–305, title I, §105, June 4, 1976, 90 Stat. 666; Pub. L. 102–366, title IV, §411, Sept. 4, 1992, 106 Stat. 1018.)
 
 #### References in Text
 
@@ -32,11 +32,11 @@ For definition of “this chapter”, referred to in subsec. (c), see References
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102–366 inserted before period at end “: <i>Provided</i>, That the Administration also shall permit those companies which have issued debentures pursuant to this chapter to charge a maximum rate of interest based upon the coupon rate of interest on the outstanding debentures, determined on an annual basis, plus such other expenses of the company as may be approved by the Administration”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–366 inserted before period at end “: <i>Provided</i>, That the Administration also shall permit those companies which have issued debentures pursuant to this chapter to charge a maximum rate of interest based upon the coupon rate of interest on the outstanding debentures, determined on an annual basis, plus such other expenses of the company as may be approved by the Administration”.
 
-1976—Subsec. (b). Pub. L. 94–305 struck out provision that in agreements to participate in loans on a deferred basis, the participation by the company shall not be in excess of 90 percentum of the balance of the loan outstanding at the time of disbursement.
+<b>1976</b>—Subsec. (b). Pub. L. 94–305 struck out provision that in agreements to participate in loans on a deferred basis, the participation by the company shall not be in excess of 90 percentum of the balance of the loan outstanding at the time of disbursement.
 
-1961—Subsec. (b). Pub. L. 87–341 substituted “other lenders, incorporated or unincorporated” for “other lending institutions”.
+<b>1961</b>—Subsec. (b). Pub. L. 87–341 substituted “other lenders, incorporated or unincorporated” for “other lending institutions”.
 
 #### Effect of Small Business Equity Enhancement Act of 1992 on Securities Laws
 

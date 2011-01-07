@@ -96,11 +96,11 @@ For purposes of this part, the term “sport fishing equipment” means—
 
 &emsp;Except to the extent provided in regulations, rules similar to the rules of this subsection shall also apply in cases (not described in paragraph (1)) in which intermediaries or other devices are used for purposes of reducing the amount of the tax imposed by section 4161(a).
 
-(Added Pub. L. 98–369, div. A, title X, §1015(b), July 18, 1984, 98 Stat. 1017; amended Pub. L. 99–514, title II, §201(d)(7)(C), (12), title XVIII,§1878(b), Oct. 22, 1986, 100 Stat. 2141, 2142, 2903; Pub. L. 108–357, title III, §334(a), (b), Oct. 22, 2004, 118 Stat. 1478.)
+(Added Pub. L. 98–369, div. A, title X, §1015(b), July 18, 1984, 98 Stat. 1017; amended Pub. L. 99–514, title II, §201(d)(7)(C), (12), title XVIII, §1878(b), Oct. 22, 1986, 100 Stat. 2141, 2142, 2903; Pub. L. 108–357, title III, §334(a), (b), Oct. 22, 2004, 118 Stat. 1478.)
 
 #### Amendments
 
-2004—Subsec. (a)(8) to (10). Pub. L. 108–357, §334(a), inserted “and” at end of par. (8), substituted a period for “, and” at end of par. (9), and struck out par. (10) which read as follows: “sonar devices suitable for finding fish.”
+<b>2004</b>—Subsec. (a)(8) to (10). Pub. L. 108–357, §334(a), inserted “and” at end of par. (8), substituted a period for “, and” at end of par. (9), and struck out par. (10) which read as follows: “sonar devices suitable for finding fish.”
 
 Subsecs. (b), (c). Pub. L. 108–357, §334(b), redesignated subsec. (c) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “For purposes of this part, the term ‘sonar device suitable for finding fish’ shall not include any sonar device which is—
 
@@ -112,7 +112,7 @@ Subsecs. (b), (c). Pub. L. 108–357, §334(b), redesignated subsec. (c) as (b) 
 
 &emsp;“(4) a combination graph recorder or combination meter readout.”
 
-1986—Subsec. (a)(6)(I). Pub. L. 99–514, §1878(b), amended subpar. (I) generally, substituting “hook” for “hood”.
+<b>1986</b>—Subsec. (a)(6)(I). Pub. L. 99–514, §1878(b), amended subpar. (I) generally, substituting “hook” for “hood”.
 
 Subsec. (c)(3). Pub. L. 99–514, §201(d)(7)(C), (12), made identical amendments, substituting “section 465(b)(3)(C)” for “section 168(e)(4)(D)”.
 

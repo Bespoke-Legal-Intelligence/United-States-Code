@@ -14,7 +14,7 @@ The Commission shall have power to appoint, fix the compensation of, and remove 
 
 #### (d) Appointment and compensation of other personnel; temporary and intermittent services
 
-Subject to such rules and regulations as may be adopted by the Commission, the Chairman,without regard to the civil service laws and chapter 51 and subchapter III of chapter 53 of title 5, and without reference to political affiliation, shall have the power—
+Subject to such rules and regulations as may be adopted by the Commission, the Chairman, without regard to the civil service laws and chapter 51 and subchapter III of chapter 53 of title 5, and without reference to political affiliation, shall have the power—
 
 &emsp;(1) to appoint, fix the compensation of, and remove such other personnel as he deems necessary,
 
@@ -38,12 +38,6 @@ No individual employed in the service of the Commission shall be paid compensati
 
 (Pub. L. 86–380, §6, Sept. 24, 1959, 73 Stat. 705; Pub. L. 88–426, title III, §306(e), Aug. 14, 1964, 78 Stat. 429; Pub. L. 89–733, §§3, 4, Nov. 2, 1966, 80 Stat. 1162.)
 
-#### References in Text
-
-The civil service laws, referred to in subsecs. (c) and (d), are set out in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
-Annual and sick leave, referred to in subsec. (e)(3), is covered generally by section 6301 et seq. of Title 5.
-
 #### Codification
 
 The following substitutions were made on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees:
@@ -60,11 +54,11 @@ Section was formerly classified to section 2376 of Title 5 prior to the general 
 
 #### Amendments
 
-1966—Subsec. (c). Pub. L. 89–733, §3, substituted “executive director” for “staff director”.
+<b>1966</b>—Subsec. (c). Pub. L. 89–733, §3, substituted “executive director” for “staff director”.
 
 Subsec. (f). Pub. L. 89–733, §4, authorized the executive director of the Commission to be paid compensation at any rate not exceeding the rate prescribed for level V in the Federal Executive Salary Schedule.
 
-1964—Subsec. (f). Pub. L. 88–426 substituted “at a rate in excess of the highest rate of grade 18 of the General Schedule of the Classification Act of 1949, as amended” for “at a rate in excess of $20,000 per annum”.
+<b>1964</b>—Subsec. (f). Pub. L. 88–426 substituted “at a rate in excess of the highest rate of grade 18 of the General Schedule of the Classification Act of 1949, as amended” for “at a rate in excess of $20,000 per annum”.
 
 #### Effective Date of 1964 Amendment
 

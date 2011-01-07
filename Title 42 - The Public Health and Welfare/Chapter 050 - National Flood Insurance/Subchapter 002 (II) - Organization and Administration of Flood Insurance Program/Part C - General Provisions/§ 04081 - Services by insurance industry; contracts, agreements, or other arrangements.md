@@ -1,8 +1,8 @@
 ### §4081. Services by insurance industry; contracts, agreements, or other arrangements
 
-(a) In administering the flood insurance program under this subchapter, the Director is authorized to enter into any contracts, agreements, or other appropriate arrangements which may, from time to time, be necessary for the purpose of utilizing, on such terms and conditions as may be agreed upon, the facilities and services of any insurance companies or other insurers, insurance agents and brokers, or insurance adjustment organizations; and such contracts, agreements, or arrangements may include provision for payment of applicable operating costs and allowances for such facilitiesand services as set forth in the schedules prescribed under section 4018 of this title.
+(a) In administering the flood insurance program under this subchapter, the Director is authorized to enter into any contracts, agreements, or other appropriate arrangements which may, from time to time, be necessary for the purpose of utilizing, on such terms and conditions as may be agreed upon, the facilities and services of any insurance companies or other insurers, insurance agents and brokers, or insurance adjustment organizations; and such contracts, agreements, or arrangements may include provision for payment of applicable operating costs and allowances for such facilities and services as set forth in the schedules prescribed under section 4018 of this title.
 
-(b) Any such contracts, agreements, or other arrangements may be entered into without regard to the provisions of section 5 of title 41 or any other provision of law requiring competitive bidding and without regard to the provisions of the Federal Advisory Committee Act (5 U.S.C. App.).
+(b) Any such contracts, agreements, or other arrangements may be entered into without regard to the provisions of section 6101 of title 41 or any other provision of law requiring competitive bidding and without regard to the provisions of the Federal Advisory Committee Act (5 U.S.C. App.).
 
 (c) The Administrator of the Federal Emergency Management Agency shall hold any agent or broker selling or undertaking to sell flood insurance under this chapter harmless from any judgment for damages against such agent or broker as a result of any court action by a policyholder or applicant arising out of an error or omission on the part of the Federal Emergency Management Agency, and shall provide any such agent or broker with indemnification, including court costs and reasonable attorney fees, arising out of and caused by an error or omission on the part of the Federal Emergency Management Agency and its contractors. The Administrator of the Federal Emergency Management Agency may not hold harmless or indemnify an agent or broker for his or her error or omission.
 
@@ -14,13 +14,17 @@ The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–
 
 This chapter, referred to in subsec. (c), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
+#### Codification
+
+In subsec. (b), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–325 inserted before period at end “and without regard to the provisions of the Federal Advisory Committee Act (5 U.S.C. App.)”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–325 inserted before period at end “and without regard to the provisions of the Federal Advisory Committee Act (5 U.S.C. App.)”.
 
-1983—Subsec. (a). Pub. L. 98–181 substituted “Director” for “Secretary”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–181 substituted “Director” for “Secretary”.
 
-1981—Subsec. (c). Pub. L. 97–35 added subsec. (c).
+<b>1981</b>—Subsec. (c). Pub. L. 97–35 added subsec. (c).
 
 #### Effective Date of 1981 Amendment
 

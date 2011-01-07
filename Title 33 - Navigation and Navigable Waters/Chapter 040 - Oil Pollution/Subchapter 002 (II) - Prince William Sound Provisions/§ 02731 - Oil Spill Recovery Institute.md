@@ -24,7 +24,7 @@ The Institute shall conduct research and carry out educational and demonstration
 
 &emsp;&emsp;(C) Two representatives from the fishing industry appointed by the Governor of the State of Alaska from among residents of communities in Alaska that were affected by the EXXON VALDEZ oil spill, who shall serve terms of 2 years each. Interested organizations from within the fishing industry may submit the names of qualified individuals for consideration by the Governor.
 
-&emsp;&emsp;(D) Two Alaska Natives who represent Native entities affected by the EXXON VALDEZ oil spill, at least one of whom represents an entity located in Prince William Sound, appointed by the Governor of Alaska from a list of 4 qualified individuals submitted by the Alaska Federation of Natives, who shall serve terms of 2 years each.
+&emsp;&emsp;(D) Two Alaska Natives who represent Native entities affected by the EXXONVALDEZ oil spill, at least one of whom represents an entity located in Prince William Sound, appointed by the Governor of Alaska from a list of 4 qualified individuals submitted by the Alaska Federation of Natives, who shall serve terms of 2 years each.
 
 &emsp;&emsp;(E) Two representatives from the oil and gas industry to be appointed by the Governor of the State of Alaska who shall serve terms of 2 years each. Interested organizations from within the oil and gas industry may submit the names of qualified individuals for consideration by the Governor.
 
@@ -92,13 +92,13 @@ In this section, the term “Prince William Sound and its adjacent waters” mea
 
 #### Amendments
 
-2006—Subsec. (c)(1)(B). Pub. L. 109–241 substituted “Commerce and the Interior and the Commandant of the Coast Guard,” for “Commerce, the Interior, and Transportation,”.
+<b>2006</b>—Subsec. (c)(1)(B). Pub. L. 109–241 substituted “Commerce and the Interior and the Commandant of the Coast Guard,” for “Commerce, the Interior, and Transportation,”.
 
-2005—Subsec. (i). Pub. L. 109–58 substituted “1 year after the date on which the Secretary, in consultation with the Secretary of the Interior, determines that oil and gas exploration, development, and production in the State of Alaska have ceased” for “September 30, 2012”.
+<b>2005</b>—Subsec. (i). Pub. L. 109–58 substituted “1 year after the date on which the Secretary, in consultation with the Secretary of the Interior, determines that oil and gas exploration, development, and production in the State of Alaska have ceased” for “September 30, 2012”.
 
-2002—Subsec. (i). Pub. L. 107–295 substituted “September 30, 2012” for “10 years after October 19, 1996”.
+<b>2002</b>—Subsec. (i). Pub. L. 107–295 substituted “September 30, 2012” for “10 years after October 19, 1996”.
 
-1996—Subsec. (a). Pub. L. 104–324, §1102(a)(1), (2), struck out “to be administered by the Secretary of Commerce” after “as the ‘Institute’)” and substituted “located” for “and located”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–324, §1102(a)(1), (2), struck out “to be administered by the Secretary of Commerce” after “as the ‘Institute’)” and substituted “located” for “and located”.
 
 Subsec. (b)(2). Pub. L. 104–324, §1102(a)(3), substituted “Arctic or Subarctic oil spills” for “the EXXON VALDEZ oil spill” in two places.
 

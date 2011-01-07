@@ -24,7 +24,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Nonqualified preferred stock (as defined in section 351(g)(2)) received in exchangefor stock other than nonqualified preferred stock (as so defined) shall not be treated as stock or securities.
+&emsp;&emsp;&emsp;Nonqualified preferred stock (as defined in section 351(g)(2)) received in exchange for stock other than nonqualified preferred stock (as so defined) shall not be treated as stock or securities.
 
 #### (ii) Recapitalizations of family-owned corporations
 
@@ -68,19 +68,19 @@ Notwithstanding any other provision of this subchapter, subsection (a)(1) (and s
 
 #### Amendments
 
-1998—Subsec. (a)(2)(C)(ii)(III). Pub. L. 105–206 added subcl. (III).
+<b>1998</b>—Subsec. (a)(2)(C)(ii)(III). Pub. L. 105–206 added subcl. (III).
 
-1997—Subsec. (a)(2)(B). Pub. L. 105–34, §1014(e)(1), inserted “(including nonqualified preferred stock, as defined in section 351(g)(2))” after “stock”.
+<b>1997</b>—Subsec. (a)(2)(B). Pub. L. 105–34, §1014(e)(1), inserted “(including nonqualified preferred stock, as defined in section 351(g)(2))” after “stock”.
 
 Subsec. (a)(2)(C). Pub. L. 105–34, §1014(b), added subpar. (C).
 
 Subsec. (a)(3)(A). Pub. L. 105–34, §1014(e)(2), inserted “nonqualified preferred stock and” after “subsection (including”.
 
-1995—Subsec. (c). Pub. L. 104–88 struck out “or approved by the Interstate Commerce Commission under subchapter IV of chapter 113 of title 49,” after “Code,”.
+<b>1995</b>—Subsec. (c). Pub. L. 104–88 struck out “or approved by the Interstate Commerce Commission under subchapter IV of chapter 113 of title 49,” after “Code,”.
 
-1990—Subsec. (d). Pub. L. 101–508 struck out subsec. (d) “Exchanges under the final system plan for ConRail” which read as follows: “No gain or loss shall be recognized if stock or securities in a corporation are, in pursuance of an exchange to which paragraph (1) or (2) of section 374(c) applies, exchanged solely for stock of the Consolidated Rail Corporation, securities of such Corporation, certificates of value of the United States Railway Association, or any combination thereof.”
+<b>1990</b>—Subsec. (d). Pub. L. 101–508 struck out subsec. (d) “Exchanges under the final system plan for ConRail” which read as follows: “No gain or loss shall be recognized if stock or securities in a corporation are,in pursuance of an exchange to which paragraph (1) or (2) of section 374(c) applies, exchanged solely for stock of the Consolidated Rail Corporation, securities of such Corporation, certificates of value of the United States Railway Association, or any combination thereof.”
 
-1980—Subsec. (a)(2). Pub. L. 96–589, §4(e)(1), redesignated existing pars. (A) and (B) as par. (A)(i), (ii), and added par. (B).
+<b>1980</b>—Subsec. (a)(2). Pub. L. 96–589, §4(e)(1), redesignated existing pars. (A) and (B) as par. (A)(i), (ii), and added par. (B).
 
 Subsec. (a)(3). Pub. L. 96–589, §4(e)(1), designated existing provisions as subpar. (A), inserted provisions excluding property to which paragraph (2)(B) applies, and added subpar. (B).
 
@@ -88,9 +88,9 @@ Subsec. (b). Pub. L. 96–589, §4(h)(1), substituted “subparagraph (D) or (G)
 
 Subsec. (c). Pub. L. 96–589, §6(i)(2), substituted “confirmed under section 1173 of title 11 of the United States Code, or approved by the Interstate Commerce Commission” for “approved by the Interstate Commerce Commission under section 77 of the Bankruptcy Act, or”.
 
-1978—Subsec. (c). Pub. L. 95–473 substituted “subchapter IV of chapter 113 of title 49” for “section 20b of the Interstate Commerce Act”.
+<b>1978</b>—Subsec. (c). Pub. L. 95–473 substituted “subchapter IV of chapter 113 of title 49” for “section 20b of the Interstate Commerce Act”.
 
-1976—Subsec. (d). Pub. L. 94–253 added subsec. (d).
+<b>1976</b>—Subsec. (d). Pub. L. 94–253 added subsec. (d).
 
 #### Effective Date of 1998 Amendment
 

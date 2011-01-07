@@ -14,5 +14,5 @@ Exceptions.—(1) Subsection (a) does not apply to a golf course at a facility o
 
 #### Amendments
 
-2004—Pub. L. 108–375 renumbered section 2246 of this title as this section.
+<b>2004</b>—Pub. L. 108–375 renumbered section 2246 of this title as this section.
 

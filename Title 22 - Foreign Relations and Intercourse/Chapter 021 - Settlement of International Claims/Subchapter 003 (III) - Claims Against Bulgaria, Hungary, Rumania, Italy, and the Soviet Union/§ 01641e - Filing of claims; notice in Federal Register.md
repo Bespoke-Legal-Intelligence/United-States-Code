@@ -20,9 +20,9 @@ Notwithstanding any other provision of this section, any national of the United 
 
 #### Amendments
 
-1974—Subsec. (a). Pub. L. 93–460, §1(4)(A), substituted “paragraph (1), (2), or (3) of section 1641b of this title” for “this subchapter”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–460, §1(4)(A), substituted “paragraph (1), (2), or (3) of section 1641b of this title” for “this subchapter”.
 
 Subsecs. (c), (d). Pub. L. 93–460, §1(4)(B), added subsecs. (c) and (d).
 
-1968—Pub. L. 90–421 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1968</b>—Pub. L. 90–421 designated existing provisions as subsec. (a) and added subsec. (b).
 

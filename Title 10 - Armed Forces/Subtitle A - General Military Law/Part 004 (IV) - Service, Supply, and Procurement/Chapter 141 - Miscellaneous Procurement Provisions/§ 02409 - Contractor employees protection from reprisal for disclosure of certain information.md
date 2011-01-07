@@ -22,7 +22,7 @@ Remedy and Enforcement Authority.—(1) Not later than 30 days after receiving a
 
 &emsp;(C) Order the contractor to pay the complainant an amount equal to the aggregate amount of all costs and expenses (including attorneys’ fees and expert witnesses’ fees) that were reasonably incurred by the complainant for, or in connection with, bringing the complaint regarding the reprisal, as determined by the head of the agency.
 
-(2) If the head of an executive agency issues an order denying relief under paragraph (1) or has not issued an order within 210 days after the submission of a complaint under subsection (b), or in the case of an extension of time under paragraph (b)(2)(B), not later than 30 days after the expiration of the extension of time, and there is no showing that such delay is due to the bad faith of the complainant, the complainant shall be deemed to have exhausted all administrative remedies with respect to the complaint,and the complainant may bring a de novo action at law or equity against the contractor to seek compensatory damages and other relief available under this section in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy. Such an action shall, at the request of either party to the action, be tried by the court with a jury.
+(2) If the head of an executive agency issues an order denying relief under paragraph (1) or has not issued an order within 210 days after the submission of a complaint under subsection (b), or in the case of an extension of time under paragraph (b)(2)(B), not later than 30 days after the expiration of the extension of time, and there is no showing that such delay is due to the bad faith of the complainant, the complainant shall be deemed to have exhausted all administrative remedies with respect to the complaint, and the complainant may bring a de novo action at law or equity against the contractor to seek compensatory damages and other relief available under this section in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy. Such an action shall, at the request of either party to the action, be tried by the court with a jury.
 
 (3) An Inspector General determination and an agency head order denying relief under paragraph (2) shall be admissible in evidence in any de novo action at law or equity brought pursuant to this subsection.
 
@@ -62,7 +62,7 @@ Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical section
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–181, §846(a), substituted “disclosing to a Member of Congress, a representative of a committee of Congress, an Inspector General, the Government Accountability Office, a Department of Defense employee responsible for contract oversight or management,” for “disclosing to a Member of Congress” and “information that the employee reasonably believes is evidence of gross mismanagement of a Department of Defense contract or grant, a gross waste of Department of Defense funds, a substantial and specific danger to public health or safety, or a violation of law related to a Department of Defense contract (including the competition for or negotiation of a contract) or grant” for “information relating to a substantial violation of law related to a contract (including the competition for or negotiation of a contract)”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §846(a), substituted “disclosing to a Member of Congress, a representative of a committee of Congress, an Inspector General, the Government Accountability Office, a Department of Defense employee responsible for contract oversight or management,” for “disclosing to a Member of Congress” and “information that the employee reasonably believes is evidence of gross mismanagement of a Department of Defense contract or grant, a gross waste of Department of Defense funds, a substantial and specific danger to public health or safety, or a violation of law related to a Department of Defense contract (including the competition for or negotiation of a contract) or grant” for “information relating to a substantial violation of law related to a contract (including the competition for or negotiation of a contract)”.
 
 Subsec. (b). Pub. L. 110–181, §846(b), designated existing provisions as par. (1), substituted “the Department of Defense, or the Inspector General of the National Aeronautics and Space Administration in the case of a complaint regarding the National Aeronautics and Space Administration” for “an agency”, and added par. (2).
 
@@ -74,15 +74,15 @@ Subsec. (e)(4). Pub. L. 110–181, §846(d)(1), inserted “or a grant” after 
 
 Subsec. (e)(5). Pub. L. 110–181, §846(d)(2), inserted “and any Inspector General that receives funding from, or has oversight over contracts awarded for or on behalf of, the Secretary of Defense” before period at end.
 
-1996—Pub. L. 104–106 made technical correction to Pub. L. 103–355, §6005(a). See 1994 Amendment note below.
+<b>1996</b>—Pub. L. 104–106 made technical correction to Pub. L. 103–355, §6005(a). See 1994 Amendment note below.
 
-1994—Pub. L. 103–355, §6005(a), as amended by Pub. L. 104–106, amended section generally. Prior to amendment, subsec. (a) related to prohibition of reprisals, subsec. (b) to investigation of complaints, subsec. (c) to construction of section, and subsec. (d) to coordination of section with former section 2409a of this title.
+<b>1994</b>—Pub. L. 103–355, §6005(a), as amended by Pub. L. 104–106, amended section generally. Prior to amendment, subsec. (a) related to prohibition of reprisals, subsec. (b) to investigation of complaints, subsec. (c) to construction of section, and subsec. (d) to coordination of section with former section 2409a of this title.
 
-1992—Subsec. (d). Pub. L. 102–484 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “
+<b>1992</b>—Subsec. (d). Pub. L. 102–484 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “
 
 Effective Date.—This section shall not be in effect during the period when section 2409a of this title is in effect.”
 
-1991—Subsec. (d). Pub. L. 102–25 added subsec. (d).
+<b>1991</b>—Subsec. (d). Pub. L. 102–25 added subsec. (d).
 
 #### Effective Date of 1996 Amendment
 
@@ -90,7 +90,7 @@ Section 4321(a) of Pub. L. 104–106 provided that the amendment made by that se
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, setout as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of this title.
 
 #### Effective Date of 1992 Amendment
 

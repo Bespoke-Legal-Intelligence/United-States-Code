@@ -42,7 +42,7 @@ When a comparable program produced by United States public or commercial broadca
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–277, §1335(a)(1)(A), substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §1335(a)(1)(A), substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency”.
 
 Subsec. (b). Pub. L. 105–277, §1335(a)(1)(B), (C)(i), in introductory provisions, substituted “Broadcasting Board of Governors” for “United States Information Agency” and “television broadcasts of the United States International Television Service” for “Agency's television broadcasts (hereinafter in this section referred to as ‘USIA–TV’)”.
 

@@ -20,9 +20,9 @@ Section is based on subsecs. (b) to (d) of section 7 of act July 31, 1945. Subse
 
 #### Amendments
 
-1962—Pub. L. 87–490 included in the limitation of face amount of special notes issued to the Fund the dollar equivalent of currencies and gold which the United States shall have purchased from the Fund in accordance with the Articles of Agreement.
+<b>1962</b>—Pub. L. 87–490 included in the limitation of face amount of special notes issued to the Fund the dollar equivalent of currencies and gold which the United States shall have purchased from the Fund in accordance with the Articles of Agreement.
 
-1959—Pub. L. 86–48 struck out “of $950,000,000” after “is authorized to pay the balance”, and substituted “$8,675,000,000” for “not to exceed $4,125,000,000”.
+<b>1959</b>—Pub. L. 86–48 struck out “of $950,000,000” after “is authorized to pay the balance”, and substituted “$8,675,000,000” for “not to exceed $4,125,000,000”.
 
 #### Increase in Quota of United States; Appropriation Requirements; Transfers and Credits; Restrictions
 

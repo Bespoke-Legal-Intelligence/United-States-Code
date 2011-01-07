@@ -110,7 +110,7 @@ In general.—If a financial institution or any director, officer, employee, or 
 
 &emsp;&emsp;&emsp;(i) the financial institution, director, officer, employee, or agent may not notify any person involved in the transaction that the transaction has been reported; and
 
-&emsp;&emsp;&emsp;(ii) no officer or employee of the Federal Government or of any State, local, tribal, or territorial government within the United States, who has any knowledge that such report was made may disclose to any person involved in the transaction that the transaction has been reported, other than as necessary to fulfill the official duties of such officer or employee.
+&emsp;&emsp;&emsp;(ii) no officer or employee of the Federal Government or of any State, local, tribal,or territorial government within the United States, who has any knowledge that such report was made may disclose to any person involved in the transaction that the transaction has been reported, other than as necessary to fulfill the official duties of such officer or employee.
 
 &emsp;&emsp;(B)
 
@@ -186,7 +186,7 @@ Regulations.—The Secretary of the Treasury, after consultation with the approp
 
 Concentration accounts.—The Secretary may prescribe regulations under this subsection that govern maintenance of concentration accounts by financial institutions, in order to ensure that such accounts are not used to prevent association of the identity of an individual customer with the movement of funds of which the customer is the direct or beneficial owner, which regulations shall, at a minimum—
 
-&emsp;&emsp;(A) prohibit financial institutions from allowing clients to direct transactions that move their funds into, out of, or through the concentration accounts of the financial institution;
+&emsp;&emsp;(A) prohibit financial institutions from allowing clients to direct transactions that move their funds into, out of, or through theconcentration accounts of the financial institution;
 
 &emsp;&emsp;(B) prohibit financial institutions and their employees from informing customers of the existence of, or the means of identifying, the concentration accounts of the institution; and
 
@@ -262,7 +262,7 @@ In general.—A financial institution described in subparagraphs (A) through (G)
 
 &emsp;(2)
 
-Prevention of indirect service to foreign shell banks.—A covered financial institution shall take reasonable steps to ensure that any correspondent account established, maintained, administered, or managed by that covered financial institution in the United States for a foreign bank is not being used by that foreign bank to indirectly provide banking services to another foreign bank that does not have a physical presence in any country. The Secretary of the Treasury shall, by regulation, delineate the reasonable steps necessary to comply with this paragraph.
+Prevention of indirect service to foreign shell banks.—A covered financial institution shall take reasonable steps to ensure that any correspondent account established, maintained, administered, or managed by that covered financial institution in the United States for a foreign bank is not being used bythat foreign bank to indirectly provide banking services to another foreign bank that does not have a physical presence in any country. The Secretary of the Treasury shall, by regulation, delineate the reasonable steps necessary to comply with this paragraph.
 
 &emsp;(3)
 
@@ -410,7 +410,7 @@ Limitation on reporting requirements.—Information required to be reported by t
 
 &emsp;&emsp;(A) the Board of Governors of the Federal Reserve System and the Secretary jointly determine that a particular item or items of information are not currently required to be retained under such section or such regulations; and
 
-&emsp;&emsp;(B) the Secretary determines, after consultation with the Board of Governors of the Federal Reserve System, that the reporting of such information is reasonably necessary to conduct the efforts of the Secretary toidentify cross-border money laundering and terrorist financing.
+&emsp;&emsp;(B) the Secretary determines, after consultation with the Board of Governors of the Federal Reserve System, that the reporting of such information is reasonably necessary to conduct the efforts of the Secretary to identify cross-border money laundering and terrorist financing.
 
 &emsp;(3)
 
@@ -496,9 +496,9 @@ For provisions relating to the Bank Secrecy Act Advisory Group, referred to in s
 
 #### Amendments
 
-2006—Subsec. (n)(4)(A). Pub. L. 109–177 substituted “Intelligence Reform and Terrorism Prevention Act of 2004” for “National Intelligence Reform Act of 2004” in introductory provisions.
+<b>2006</b>—Subsec. (n)(4)(A). Pub. L. 109–177 substituted “Intelligence Reform and Terrorism Prevention Act of 2004” for “National Intelligence Reform Act of 2004” in introductory provisions.
 
-2004—Subsec. (h)(3). Pub. L. 108–458, §6202(h), made technical correction to directory language of Pub. L. 107–56, §325. See 2001 Amendment note below.
+<b>2004</b>—Subsec. (h)(3). Pub. L. 108–458, §6202(h), made technical correction to directory language of Pub. L. 107–56, §325. See 2001 Amendment note below.
 
 Subsec. (i)(3)(B). Pub. L. 108–458, §6203(c)(1), inserted comma before “that is reasonably designed”.
 
@@ -508,9 +508,9 @@ Subsec. (k)(1)(B). Pub. L. 108–458, §6203(d), substituted “section 5318A(e)
 
 Subsec. (n). Pub. L. 108–458, §6302, added subsec. (n).
 
-2003—Subsecs. (<i>l</i>), (m). Pub. L. 108–159 redesignated subsec. (<i>l</i>), relating to applicability of rules, as (m).
+<b>2003</b>—Subsecs. (<i>l</i>), (m). Pub. L. 108–159 redesignated subsec. (<i>l</i>), relating to applicability of rules, as (m).
 
-2001—Subsec. (a)(2), (3). Pub. L. 107–56, §365(c)(2)(B)(ii), inserted “or nonfinancial trades or businesses” after “financial institutions”.
+<b>2001</b>—Subsec. (a)(2), (3). Pub. L. 107–56, §365(c)(2)(B)(ii), inserted “or nonfinancial trades or businesses” after “financial institutions”.
 
 Subsec. (a)(4). Pub. L. 107–56, §365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” in two places.
 
@@ -554,7 +554,7 @@ Subsec. (<i>l</i>). Pub. L. 107–56, §359(c), added subsec. (<i>l</i>) relatin
 
 Pub. L. 107–56, §326(a), added subsec. (<i>l</i>) relating to identification and verification of accountholders.
 
-1994—Subsec. (a)(5). Pub. L. 103–325, §410(a), added par. (5). Former par. (5) redesignated (6).
+<b>1994</b>—Subsec. (a)(5). Pub. L. 103–325, §410(a), added par. (5). Former par. (5) redesignated (6).
 
 Subsec. (a)(6). Pub. L. 103–325, §410(b), inserted “under this paragraph or paragraph (5)” after “revoke an exemption” in penultimate sentence.
 
@@ -566,17 +566,17 @@ Subsec. (g)(4). Pub. L. 103–325, §403(a), added par. (4).
 
 Subsec. (h). Pub. L. 103–322, §330017(b)(1), and Pub. L. 103–325, §413(b)(1), amended directory language of Pub. L. 102–550, §1517(b), identically. See 1992 Amendment note below.
 
-1992—Subsec. (a)(1). Pub. L. 102–550, §1504(d)(1), substituted “supervising agency and the United States Postal Service” for “supervising agency or the Postal Inspection Service and the Postal Service”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–550, §1504(d)(1), substituted “supervising agency and the United States Postal Service” for “supervising agency or the Postal Inspection Service and the Postal Service”.
 
 Subsec. (a)(2). Pub. L. 102–550, §1513, inserted before semicolon “or to guard against money laundering”.
 
 Subsecs. (g), (h). Pub. L. 102–550, §1517(b), as amended by Pub. L. 103–322, §330017(b)(1), and Pub. L. 103–325, §413(b)(1), added subsecs. (g) and (h).
 
-1988—Subsec. (a)(1). Pub. L. 100–690, §6469(c), inserted “or the Postal Inspection Service” after “appropriate supervising agency”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–690, §6469(c), inserted “or the Postal Inspection Service” after “appropriate supervising agency”.
 
 Pub. L. 100–690, §6185(e), inserted “and the Postal Service” after “appropriate supervising agency”.
 
-1986—Pub. L. 99–570, §1356(c)(2), substituted “Compliance, exemptions, and summons authority” for “Compliance and exemptions” in section catchline.
+<b>1986</b>—Pub. L. 99–570, §1356(c)(2), substituted “Compliance, exemptions, and summons authority” for “Compliance and exemptions” in section catchline.
 
 Subsec. (a). Pub. L. 99–570, §1356(a)(1)–(5), designated existing provisions as subsec. (a), added subsec. heading, inserted “except as provided in subsection (b)(2),” in par. (1), added pars. (3) and (4), and redesignated former par. (3) as (5).
 
@@ -594,7 +594,7 @@ Amendment by Pub. L. 108–159 subject to joint regulations establishing effecti
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–56, title III, §312(b)(2), Oct. 26, 2001, 115 Stat. 306, provided that: “Section 5318(i) of title 31,United States Code, as added by this section, shall take effect 270 days after the date of enactment of this Act \[Oct. 26, 2001\], whether or not final regulations are issued under paragraph (1) \[set out below\], and the failure to issue such regulations shall in no way affect the enforceability of this section \[amending this section and enacting provisions set out as a note below\] or the amendments made by this section. Section 5318(i) of title 31, United States Code, as added by this section, shall apply with respect to accounts covered by that section 5318(i), that are opened before, on, or after the date of enactment of this Act.”
+Pub. L. 107–56, title III, §312(b)(2), Oct. 26, 2001, 115 Stat. 306, provided that: “Section 5318(i) of title 31, United States Code, as added by this section, shall take effect 270 days after the date of enactment of this Act \[Oct. 26, 2001\], whether or not final regulations are issued under paragraph (1) \[set out below\], and the failure to issue such regulations shall in no way affect the enforceability of this section \[amending this section and enacting provisions set out as a note below\] or the amendments made by this section. Section 5318(i) of title 31, United States Code, as added by this section, shall apply with respect to accounts covered by that section 5318(i), that are opened before, on, or after the date of enactment of this Act.”
 
 Pub. L. 107–56, title III, §313(b), Oct. 26, 2001, 115 Stat. 307, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect at the end of the 60-day period beginning on the date of enactment of this Act \[Oct. 26, 2001\].”
 
@@ -608,7 +608,7 @@ Section 330017(b)(1) of Pub. L. 103–322 and section 413(b)(1) of Pub. L. 103�
 
 #### Regulations
 
-Pub. L. 107–56, title III, §312(b)(1), Oct. 26, 2001, 115 Stat. 305, provided that: “Not later than 180 days after the date of enactment of this Act \[Oct. 26, 2001\], the Secretary \[of the Treasury\], in consultation with the appropriate Federal functional regulators (as defined in section 509 of the Gramm-Leach-Bliley Act \[15 U.S.C. 6809\]) of the affected financial institutions, shall further delineate, by regulation, the due diligence policies, procedures, and controls required under section 5318(i)(1) of title 31, United States Code, as added by this section.”
+Pub. L. 107–56, title III, §312(b)(1), Oct. 26, 2001, 115 Stat. 305, provided that: “Not later than 180 days afterthe date of enactment of this Act \[Oct. 26, 2001\], the Secretary \[of the Treasury\], in consultation with the appropriate Federal functional regulators (as defined in section 509 of the Gramm-Leach-Bliley Act \[15 U.S.C. 6809\]) of the affected financial institutions, shall further delineate, by regulation, the due diligence policies, procedures, and controls required under section 5318(i)(1) of title 31, United States Code, as added by this section.”
 
 Pub. L. 107–56, title III, §352(c), Oct. 26, 2001, 115 Stat. 322, provided that: “Before the end of the 180-day period beginning on the date of enactment of this Act \[Oct. 26, 2001\], the Secretary \[of the Treasury\] shall prescribe regulations that consider the extent to which the requirements imposed under this section \[amending this section and enacting provisions set out as a note above\] are commensurate with the size, location, and activities of the financial institutions to which such regulations apply.”
 
@@ -670,7 +670,7 @@ Report to Congress.—The Financial Institutions Examination Council shall submi
 
 “(d)
 
-Definition.—For purposes of this section, the term ‘appropriate Federal banking agency’ has thesame meaning as in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\].”
+Definition.—For purposes of this section, the term ‘appropriate Federal banking agency’ has the same meaning as in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

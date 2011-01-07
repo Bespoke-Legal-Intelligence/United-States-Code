@@ -10,7 +10,7 @@ The Council may, for the purpose of carrying out the provisions of this chapter,
 
 (B) Subparagraph (A) does not apply to matters that are specifically authorized under criteria established by an Executive order to be kept secret in the interest of national defense or foreign policy and are in fact properly classified pursuant to such Executive order.
 
-(2) In any case in which the Council receives any information from a Federal agency, the Council shall not disclose such information to the public unless such agency is authorized todisclose such information pursuant to Federal law.
+(2) In any case in which the Council receives any information from a Federal agency, the Council shall not disclose such information to the public unless such agency is authorized to disclose such information pursuant to Federal law.
 
 #### (c) Consultation with President and Congress
 
@@ -64,7 +64,7 @@ The Federal Advisory Committee Act, referred to in subsecs. (g)(6) and (h), is P
 
 #### Amendments
 
-1990—Subsec. (c). Pub. L. 101–382 redesignated subsec. (d) as (c), and substituted “120” for “60”.
+<b>1990</b>—Subsec. (c). Pub. L. 101–382 redesignated subsec. (d) as (c), and substituted “120” for “60”.
 
 Subsecs. (d) to (i). Pub. L. 101–382, §133(c)(1), redesignated subsecs. (e) to (i) as (d) to (h), respectively. Former subsec. (d) redesignated (c).
 

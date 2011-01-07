@@ -16,5 +16,5 @@ Mail addressed to the Canal Zone from or through the continental United States m
 
 #### Amendments
 
-1996—Pub. L. 104–201 reenacted section catchline without change and amended text generally. Prior to amendment, text was comprised of subsecs. (a) to (d) of section 1331 of Pub. L. 96–70 which provided for discontinuation of postal service under former Canal Zone Code, savings provision, possession and administration of postal funds by Commission, and handling of mail addressed to the Canal Zone. Prior to amendment, section 1331 also contained a subsec. (e) which amended sections 403, 3401, 3402, and 3682 of Title 39, Postal Service.
+<b>1996</b>—Pub. L. 104–201 reenacted section catchline without change and amended text generally. Prior to amendment, text was comprised of subsecs. (a) to (d) of section 1331 of Pub. L. 96–70 which provided for discontinuation of postal service under former Canal Zone Code, savings provision, possession and administration of postal funds by Commission, and handling of mail addressed to the Canal Zone. Prior to amendment, section 1331 also contained a subsec. (e) which amended sections 403, 3401, 3402, and 3682 of Title 39, Postal Service.
 

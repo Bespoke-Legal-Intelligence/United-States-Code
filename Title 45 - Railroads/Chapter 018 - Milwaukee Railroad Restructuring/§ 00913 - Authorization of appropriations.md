@@ -22,9 +22,9 @@ Section 825 of this title, referred to in subsec. (d), was repealed by Pub. L. 1
 
 #### Amendments
 
-1983—Subsec. (b). Pub. L. 97–468 struck out provision that, effective Oct. 1, 1980, there was authorized to be appropriated an additional $1,500,000 for new career training assistance under section 911 of this title and section 1014 of this title.
+<b>1983</b>—Subsec. (b). Pub. L. 97–468 struck out provision that, effective Oct. 1, 1980, there was authorized to be appropriated an additional $1,500,000 for new career training assistance under section 911 of this title and section 1014 of this title.
 
-1980—Subsec. (b). Pub. L. 96–254, §109(b), inserted provisions authorizing an appropriation of an additional $1,500,000, effective Oct. 1, 1980, for career training assistance under section 911 of this title and section 1014 of this title.
+<b>1980</b>—Subsec. (b). Pub. L. 96–254, §109(b), inserted provisions authorizing an appropriation of an additional $1,500,000, effective Oct. 1, 1980, for career training assistance under section 911 of this title and section 1014 of this title.
 
 Subsec. (c). Pub. L. 96–254, §109(a), inserted provisions authorizing the use of previously appropriated funds to carry out administrative expenses under the Rock Island Railroad Transition and Employee Assistance Act and authorizing an appropriation of an additional $1,000,000, effective Oct. 1, 1980, to carry out administrative expenses under this chapter and the Rock Island Railroad Transition and Employee Assistance Act.
 

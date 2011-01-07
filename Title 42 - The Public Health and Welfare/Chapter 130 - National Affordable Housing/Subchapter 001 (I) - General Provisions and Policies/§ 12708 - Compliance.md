@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(A) suspended until a report satisfactory to the Secretary is submitted; or
 
-&emsp;&emsp;(B) withdrawn and reallocated if the Secretary finds, after notice and opportunity fora hearing, that the jurisdiction will not submit a satisfactory report.
+&emsp;&emsp;(B) withdrawn and reallocated if the Secretary finds, after notice and opportunity for a hearing, that the jurisdiction will not submit a satisfactory report.
 
 #### (b) Performance review by Secretary
 
@@ -46,7 +46,7 @@ The adequacy of information submitted under section 12705(b)(4) of this title sh
 
 Section 12705(b)(15) of this title, referred to in subsec. (a)(1), was redesignated section 12705(b)(16) of this title by Pub. L. 102–550, title II, §220(c)(1), Oct. 28, 1992, 106 Stat. 3762, and was subsequently redesignated section 12705(b)(18) of this title by Pub. L. 105–276, title V, §583(4)(A), Oct. 21, 1998, 112 Stat. 2644.
 
-This Act, referred to in subsecs. (a)(2) and (c), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, known as the Cranston-Gonzalez National Affordable Housing Act. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
+This Act, referred to in subsecs. (a)(2) and (c), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, known as the Cranston-Gonzalez National Affordable Housing Act. For complete classification of this Act to the Code, seeShort Title note set out under section 12701 of this title and Tables.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

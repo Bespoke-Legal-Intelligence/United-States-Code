@@ -2,21 +2,27 @@
 
 #### (a) Establishment; membership
 
-There is established a Towing Safety Advisory Committee (hereinafter referred to as the “Committee”). The Committee shall consist of sixteen members with particular expertise, knowledge, and experience regarding shallow-draft inland and coastal waterway navigation and towing safety as follows:
+There is established a Towing Safety Advisory Committee (hereinafter referred to as the “Committee”). The Committee shall consist of eighteen members with particular expertise, knowledge, and experience regarding shallow-draft inland and coastal waterway navigation and towing safety as follows:
 
-&emsp;(1) seven members from the barge and towing industry, reflecting a regional geographic balance;
+&emsp;(1) Seven members representing the barge and towing industry, reflecting a regional geographic balance.
 
-&emsp;(2) one member from the offshore mineral and oil supply vessel industry; and
+&emsp;(2) One member representing the offshore mineral and oil supply vessel industry.
 
-&emsp;(3) two members from each of the following—
+&emsp;(3) One member representing holders of active licensed Masters or Pilots of towing vessels with experience on the Western Rivers and the Gulf Intracoastal Waterway.
 
-&emsp;&emsp;(A) port districts, authorities, or terminal operators;
+&emsp;(4) One member representing the holders of active licensed Masters of towing vessels in offshore service.
 
-&emsp;&emsp;(B) maritime labor;
+&emsp;(5) One member representing Masters who are active ship-docking or harbor towing vessel.<sup>1</sup>
 
-&emsp;&emsp;(C) shippers (of whom at least one shall be engaged in the shipment of oil or hazardous materials by barge); and
+&emsp;(6) One member representing licensed or unlicensed towing vessel engineers with formal training and experience.
 
-&emsp;&emsp;(D) the general public.
+&emsp;(7) Two members representing each of the following groups:
+
+&emsp;&emsp;(A) Port districts, authorities, or terminal operators.
+
+&emsp;&emsp;(B) Shippers (of whom at least one shall be engaged in the shipment of oil or hazardous materials by barge).
+
+&emsp;(8) Two members representing the general public.
 
 #### (b) Appointments; Chairman, Vice Chairman, and observers; publication in Federal Register
 
@@ -32,9 +38,9 @@ Members of the Committee who are not officers or employees of the United States 
 
 #### (e) Termination
 
-Unless extended by subsequent Act of Congress, the Committee shall terminate on September 30, 2010.
+Unless extended by subsequent Act of Congress, the Committee shall terminate on September 30, 2020.
 
-(Pub. L. 96–380, Oct. 6, 1980, 94 Stat. 1521; Pub. L. 97–322, title I, §118(d), Oct. 15, 1982, 96 Stat. 1587; Pub. L. 98–557, §16(a), Oct. 30, 1984, 98 Stat. 2866; Pub. L. 101–225, title I, §105(b), Dec. 12, 1989, 103 Stat. 1910; Pub. L. 104–324, title III, §304(c), Oct. 19, 1996, 110 Stat. 3917; Pub. L. 107–295, title III, §336, Nov. 25, 2002, 116 Stat. 2105; Pub. L. 108–293, title IV, §418(g), Aug. 9, 2004, 118 Stat. 1049.)
+(Pub. L. 96–380, Oct. 6, 1980, 94 Stat. 1521; Pub. L. 97–322, title I, §118(d), Oct. 15, 1982, 96 Stat. 1587; Pub. L. 98–557, §16(a), Oct. 30, 1984, 98 Stat. 2866; Pub. L. 101–225, title I, §105(b), Dec. 12, 1989, 103 Stat. 1910; Pub. L. 104–324, title III, §304(c), Oct. 19, 1996, 110 Stat. 3917; Pub. L. 107–295, title III, §336, Nov. 25, 2002, 116 Stat. 2105; Pub. L. 108–293, title IV, §418(g), Aug. 9, 2004, 118 Stat. 1049; Pub. L. 111–281, title VI, §621(e), Oct. 15, 2010, 124 Stat. 2976.)
 
 #### Codification
 
@@ -42,17 +48,21 @@ Section was not enacted as part of the Ports and Waterways Safety Act which comp
 
 #### Amendments
 
-2004—Subsec. (e). Pub. L. 108–293 substituted “September 30, 2010” for “September 30, 2005”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–281, §621(e)(1), added subsec. (a) and struck out former subsec. (a) which established the Towing Safety Advisory Committee and its membership requirements.
 
-2002—Subsec. (e). Pub. L. 107–295 substituted “September 30, 2005” for “September 30, 2000”.
+Subsec. (e). Pub. L. 111–281, §621(e)(2), substituted “September 30, 2020” for “September 30, 2010”.
 
-1996—Subsec. (e). Pub. L. 104–324 substituted “September 30, 2000” for “September 30, 1995”.
+<b>2004</b>—Subsec. (e). Pub. L. 108–293 substituted “September 30, 2010” for “September 30, 2005”.
 
-1989—Subsec. (e). Pub. L. 101–225 substituted “September 30, 1995” for “September 30, 1990”.
+<b>2002</b>—Subsec. (e). Pub. L. 107–295 substituted “September 30, 2005” for “September 30, 2000”.
 
-1984—Subsec. (e). Pub. L. 98–557 substituted “on September 30, 1990” for “five years from the date of enactment of this Act”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–324 substituted “September 30, 2000” for “September 30, 1995”.
 
-1982—Subsec. (b). Pub. L. 97–322, §118(d)(1), required the Secretary, not less often than once a year, to publish notice in the Federal Register for solicitation of nominations for membership on the Committee.
+<b>1989</b>—Subsec. (e). Pub. L. 101–225 substituted “September 30, 1995” for “September 30, 1990”.
+
+<b>1984</b>—Subsec. (e). Pub. L. 98–557 substituted “on September 30, 1990” for “five years from the date of enactment of this Act”.
+
+<b>1982</b>—Subsec. (b). Pub. L. 97–322, §118(d)(1), required the Secretary, not less often than once a year, to publish notice in the Federal Register for solicitation of nominations for membership on the Committee.
 
 Subsec. (c). Pub. L. 97–322, §118(d)(2), authorized the Committee to make available to Congress any information, advice, and recommendations which the Committee is authorized to give to the Secretary.
 
@@ -60,5 +70,7 @@ Subsec. (d). Pub. L. 97–322, §118(d)(3), inserted introductory provisions res
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

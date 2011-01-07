@@ -8,9 +8,9 @@ In order to be eligible for payment under this subpart, a State must have a plan
 
 Each plan for child welfare services under this subpart shall—
 
-&emsp;(1) provide that (A) the individual or agency that administers or supervises the administration of the State's services program under subchapter XX of this chapter will administer or supervise the administration of the plan (except as otherwise provided in section 103(d) of the Adoption Assistance and Child Welfare Actof 1980), and (B) to the extent that child welfare services are furnished by the staff of the State agency or local agency administering the plan, a single organizational unit in such State or local agency, as the case may be, will be responsible for furnishing such child welfare services;
+&emsp;(1) provide that (A) the individual or agency that administers or supervises the administration of the State's services program under division A <sup>1</sup> of subchapter XX of this chapter will administer or supervise the administration of the plan (except as otherwise provided in section 103(d) of the Adoption Assistance and Child Welfare Act of 1980), and (B) to the extent that child welfare services are furnished by the staff of the State agency or local agency administering the plan, a single organizational unit in such State or local agency, as the case may be, will be responsible for furnishing such child welfare services;
 
-&emsp;(2) provide for coordination between the services provided for children under the plan and the services and assistance provided under subchapter XX of this chapter, under the State program funded under part A of this subchapter, under the State plan approved under subpart 2 of this part, under the State plan approved under the State plan approved <sup>1</sup> under part E of this subchapter, and under other State programs having a relationship to the program under this subpart, with a view to provision of welfare and related services which will best promote the welfare of such children and their families;
+&emsp;(2) provide for coordination between the services provided for children under the plan and the services and assistance provided under division A <sup>1</sup> of subchapter XX of this chapter, under the State program funded under part A of this subchapter, under the State plan approved under subpart 2 of this part, under the State plan approved under the State plan approved <sup>2</sup> under part E of this subchapter, and under other State programs having a relationship to the program under this subpart, with a view to provision of welfare and related services which will best promote the welfare of such children and their families;
 
 &emsp;(3) include a description of the services and activities which the State will fund under the State program carried out pursuant to this subpart, and how the services and activities will achieve the purpose of this subpart;
 
@@ -56,7 +56,7 @@ Each plan for child welfare services under this subpart shall—
 
 &emsp;(14) not later than October 1, 2007, include assurances that not more than 10 percent of the expenditures of the State with respect to activities funded from amounts provided under this subpart will be for administrative costs;
 
-&emsp;(15)(A) provides <sup>2</sup> that the State will develop, in coordination and collaboration with the State agency referred to in paragraph (1) and the State agency responsible for administering the State plan approved under subchapter XIX, and in consultation with pediatricians, other experts in health care, and experts in and recipients of child welfare services, a plan for the ongoing oversight and coordination ofhealth care services for any child in a foster care placement, which shall ensure a coordinated strategy to identify and respond to the health care needs of children in foster care placements, including mental health and dental health needs, and shall include an outline of—
+&emsp;(15)(A) provides <sup>3</sup> that the State will develop, in coordination and collaboration with the State agency referred to in paragraph (1) and the State agency responsible for administering the State plan approved under subchapter XIX, and in consultation with pediatricians, other experts in health care, and experts in and recipients of child welfare services, a plan for the ongoing oversight and coordination of health care services for any child in a foster care placement, which shall ensure a coordinated strategy to identify and respond to the health care needs of children in foster care placements, including mental health and dental health needs, and shall include an outline of—
 
 &emsp;&emsp;(i) a schedule for initial and follow-up health screenings that meet reasonable standards of medical practice;
 
@@ -66,9 +66,11 @@ Each plan for child welfare services under this subpart shall—
 
 &emsp;&emsp;(iv) steps to ensure continuity of health care services, which may include the establishment of a medical home for every child in care;
 
-&emsp;&emsp;(v) the oversight of prescription medicines; and
+&emsp;&emsp;(v) the oversight of prescription medicines;
 
 &emsp;&emsp;(vi) how the State actively consults with and involves physicians or other appropriate medical or non-medical professionals in assessing the health and well-being of children in foster care and in determining appropriate medical treatment for the children; and
+
+&emsp;&emsp;(vii) steps to ensure that the components of the transition plan development process required under section 675(5)(H) of this title that relate to the health care needs of children aging out of foster care, including the requirements to include options for health insurance, information about a health care power of attorney, health care proxy, or other similar document recognized under State law, and to provide the child with the option to execute such a document, are met; and
 
 &emsp;(B) subparagraph (A) shall not be construed to reduce or limit the responsibility of the State agency responsible for administering the State plan approved under subchapter XIX to administer and provide care and services for children with respect to whom services are provided under the State plan developed pursuant to this subpart;
 
@@ -98,25 +100,31 @@ In this subpart:
 
 &emsp;For definitions of other terms used in this part, see section 675 of this title.
 
-(Aug. 14, 1935, ch. 531, title IV, §422, as added and amended Pub. L. 90–248, title II, §240(c), (d), Jan. 2, 1968, 81 Stat. 912, 915; Pub. L. 93–647, §3(a)(6), (7), (h), Jan. 4, 1975, 88 Stat. 2348, 2349; Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 517; Pub. L. 101–239, title X, §10403(b)(1), Dec. 19, 1989, 103 Stat. 2488; Pub. L. 103–66, title XIII, §13711(b)(1), Aug. 10, 1993, 107 Stat. 655; Pub. L. 103–382, title V, §554, Oct. 20, 1994, 108 Stat. 4057; Pub. L. 103–432, title II, §§202(a), 204(a), Oct. 31, 1994, 108 Stat. 4453, 4456; Pub. L. 104–193, title I, §108(b), Aug. 22, 1996, 110 Stat. 2165; Pub. L. 105–33, title V, §5592(a)(1)(A), (2), Aug. 5, 1997, 111 Stat. 644; Pub. L. 105–89, title I, §102(1), title II, §202(a), Nov. 19, 1997, 111 Stat. 2117, 2125; Pub. L. 105–200, title IV, §410(b), July 16, 1998, 112 Stat. 673; Pub. L. 106–279, title II, §205, Oct. 6, 2000, 114 Stat. 837; Pub. L. 109–171, title VII, §7401(b), Feb. 8, 2006, 120 Stat. 150; Pub. L. 109–239, §13, July 3, 2006, 120 Stat. 514; Pub. L. 109–288, §§6(c), 7(a), Sept. 28, 2006, 120 Stat. 1244, 1248; Pub. L. 110–351, title II, §205, Oct. 7, 2008, 122 Stat. 3961.)
+(Aug. 14, 1935, ch. 531, title IV, §422, as added and amended Pub. L. 90–248, title II, §240(c), (d), Jan. 2, 1968, 81 Stat. 912, 915; Pub. L. 93–647, §3(a)(6), (7), (h), Jan. 4, 1975, 88 Stat. 2348, 2349; Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 517; Pub. L. 101–239, title X, §10403(b)(1), Dec. 19, 1989, 103 Stat. 2488; Pub. L. 103–66, title XIII, §13711(b)(1), Aug. 10, 1993, 107 Stat. 655; Pub. L. 103–382, title V, §554, Oct. 20, 1994, 108 Stat. 4057; Pub. L. 103–432, title II, §§202(a), 204(a), Oct. 31, 1994, 108 Stat. 4453, 4456; Pub. L. 104–193, title I, §108(b), Aug. 22, 1996, 110 Stat. 2165; Pub. L. 105–33, title V, §5592(a)(1)(A), (2), Aug. 5, 1997, 111 Stat. 644; Pub. L. 105–89, title I, §102(1), title II, §202(a), Nov. 19, 1997, 111 Stat. 2117, 2125; Pub. L. 105–200, title IV, §410(b), July 16, 1998, 112 Stat. 673; Pub. L. 106–279, title II, §205, Oct. 6, 2000, 114 Stat. 837; Pub. L. 109–171, title VII, §7401(b), Feb. 8, 2006, 120 Stat. 150; Pub. L. 109–239, §13, July 3, 2006, 120 Stat. 514; Pub. L. 109–288, §§6(c), 7(a), Sept. 28, 2006, 120 Stat. 1244, 1248; Pub. L. 110–351, title II, §205, Oct. 7, 2008, 122 Stat. 3961; Pub. L. 111–148, title II, §2955(c), title VI, §6703(d)(2)(B), Mar. 23, 2010, 124 Stat. 352, 803.)
 
 #### References in Text
+
+Division A of subchapter XX, referred to in subsec. (b)(1), (2), was in the original a reference to subtitle 1 of title XX, which was translated as if referring to subtitle A of title XX of the Social Security Act, to reflect the probable intent of Congress. Title XX of the Act, enacting subchapter XX of this chapter, does not contain a subtitle 1.
 
 Section 103(d) of the Adoption Assistance and Child Welfare Act of 1980, referred to in subsec. (b)(1), is section 103(d) of Pub. L. 96–272, which is set out as a note below.
 
 Parts A and E of this subchapter, referred to in subsec. (b)(2), (13), (16), are classified to sections 601 et seq. and 670 et seq. of this title.
 
-The Indian Child Welfare Act, referred to in subsec. (b)(9), probably means the Indian Child Welfare Act of 1978, Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, as amended, which is classified principally to chapter 21 (§1901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 25 and Tables.
+The Indian Child Welfare Act, referred to in subsec. (b)(9), probably means the Indian Child Welfare Act of 1978, Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, which is classified principally to chapter 21 (§1901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 25 and Tables.
 
 #### Amendments
 
-2008—Subsec. (b)(15). Pub. L. 110–351 amended par. (15) generally. Prior to amendment, par. (15) read as follows: “describe how the State actively consults with and involves physicians or other appropriate medical professionals in—
+<b>2010</b>—Subsec. (b)(1), (2). Pub. L. 111–148, §6703(d)(2)(B), inserted “division A of” before “subchapter XX”.
+
+Subsec. (b)(15)(A)(vii). Pub. L. 111–148, §2955(c), added cl. (vii).
+
+<b>2008</b>—Subsec. (b)(15). Pub. L. 110–351 amended par. (15) generally. Prior to amendment, par. (15) read as follows: “describe how the State actively consults with and involves physicians or other appropriate medical professionals in—
 
 &emsp;“(A) assessing the health and well-being of children in foster care under the responsibility of the State; and
 
 &emsp;“(B) determining appropriate medical treatment for the children;”.
 
-2006—Subsec. (b)(3). Pub. L. 109–288, §6(c)(1)(A), added par. (3) and struck out former par. (3) which read as follows: “provide that the standards and requirements imposed with respect to child day care under subchapter XX of this chapter shall apply with respect to day care services under this subpart, except insofar as eligibility for such services is involved;”.
+<b>2006</b>—Subsec. (b)(3). Pub. L. 109–288, §6(c)(1)(A), added par. (3) and struck out former par. (3) which read as follows: “provide that the standards and requirements imposed with respect to child day care under subchapter XX of this chapter shall apply with respect to day care services under this subpart, except insofar as eligibility for such services is involved;”.
 
 Subsec. (b)(4). Pub. L. 109–288, §6(c)(1)(A), (B), added par. (4) and struck out former par. (4) which read as follows: “provide for the training and effective use of paid paraprofessional staff, with particular emphasis on the full-time or part-time employment of persons of low income, as community service aides, in the administration of the plan, and for the use of nonpaid or partially paid volunteers in providing services and in assisting any advisory committees established by the State agency;”.
 
@@ -176,11 +184,11 @@ Subsec. (b)(17). Pub. L. 109–288, §7(a), added par. (17).
 
 Subsec. (c). Pub. L. 109–288, §6(c)(2), added subsec. (c).
 
-2000—Subsec. (b)(13), (14). Pub. L. 106–279 added pars. (13) and (14).
+<b>2000</b>—Subsec. (b)(13), (14). Pub. L. 106–279 added pars. (13) and (14).
 
-1998—Subsec. (b)(2). Pub. L. 105–200 struck out “under” before “the State plan approved under part E of this subchapter”.
+<b>1998</b>—Subsec. (b)(2). Pub. L. 105–200 struck out “under” before “the State plan approved under part E of this subchapter”.
 
-1997—Subsec. (b)(9). Pub. L. 105–33, §5592(a)(2), made technical amendment to directory language of Pub. L. 103–432, §204(a)(2). See 1994 Amendment note below.
+<b>1997</b>—Subsec. (b)(9). Pub. L. 105–33, §5592(a)(2), made technical amendment to directory language of Pub. L. 103–432, §204(a)(2). See 1994 Amendment note below.
 
 Pub. L. 105–33, §5592(a)(1)(A)(iii), redesignated par. (9), relating to providing assurances that the State has met certain requirements to protect foster children, as (10).
 
@@ -194,9 +202,9 @@ Subsec. (b)(11). Pub. L. 105–33, §5592(a)(1)(A)(ii), redesignated par. (10) a
 
 Subsec. (b)(12). Pub. L. 105–89, §202(a), added par. (12).
 
-1996—Subsec. (b)(2). Pub. L. 104–193 substituted “program funded under part A of this subchapter” for “plan approved under part A of this subchapter” and “under the State plan approved under part E of this subchapter” for “part E of this subchapter”.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–193 substituted “program funded under part A of this subchapter” for “plan approved under part A of this subchapter” and “under the State plan approved under part E of this subchapter” for “part E of this subchapter”.
 
-1994—Subsec. (b)(7). Pub. L. 103–432, §202(a)(1), which directed amendment of par. (7) by striking out “and” at end, could not be executed because “and” did not appear at end subsequent to amendment by Pub. L. 103–382, §554(1). See below.
+<b>1994</b>—Subsec. (b)(7). Pub. L. 103–432, §202(a)(1), which directed amendment of par. (7) by striking out “and” at end, could not be executed because “and” did not appear at end subsequent to amendment by Pub. L. 103–382, §554(1). See below.
 
 Pub. L. 103–382, §554(1), struck out “and” at end.
 
@@ -214,7 +222,7 @@ Pub. L. 103–382, §554(3), added par. (9) relating to diligent recruitment of 
 
 Subsec. (b)(10). Pub. L. 103–432, §204(a)(3), added par. (10).
 
-1993—Subsec. (a). Pub. L. 103–66, §13711(b)(1)(A), substituted “under this subpart” for “under this part”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–66, §13711(b)(1)(A), substituted “under this subpart” for “under this part”.
 
 Subsec. (b). Pub. L. 103–66, §13711(b)(1)(B), substituted “this subpart” for “this part” in introductory provisions.
 
@@ -222,17 +230,21 @@ Subsec. (b)(2). Pub. L. 103–66, §13711(b)(1)(B), (C), inserted “under the S
 
 Subsec. (b)(3). Pub. L. 103–66, §13711(b)(1)(B), substituted “under this subpart” for “under this part”.
 
-1989—Subsec. (b)(1)(A). Pub. L. 101–239 substituted “the individual or agency that administers or supervises the administration of the State's services program under subchapter XX of this chapter” for “the individual or agency designated pursuant to section 1397b(d)(1)(C) of this title to administer or supervise the administration of the State's services program”.
+<b>1989</b>—Subsec. (b)(1)(A). Pub. L. 101–239 substituted “the individual or agency that administers or supervises the administration of the State's services program under subchapter XX of this chapter” for “the individual or agency designated pursuant to section 1397b(d)(1)(C) of this title to administer or supervise the administration of the State's services program”.
 
-1980—Pub. L. 96–272 substituted provisions relating to State plans covering child welfare services for provisions relating to the payments to States and the computation of amounts.
+<b>1980</b>—Pub. L. 96–272 substituted provisions relating to State plans covering child welfare services for provisions relating to the payments to States and the computation of amounts.
 
-1975—Subsec. (a)(1)(A)(i). Pub. L. 93–647, §3(a)(6), substituted “the individual or agency designated pursuant to section 1397b(d)(1)(C) of this title to administer or supervise the administration of the State's services program” for “the State agency designated pursuant to section 602(a)(3) of this title to administer or supervise the administration of the plan of the State approved under part A of this subchapter”.
+<b>1975</b>—Subsec. (a)(1)(A)(i). Pub. L. 93–647, §3(a)(6), substituted “the individual or agency designated pursuant to section 1397b(d)(1)(C) of this title to administer or supervise the administration of the State's services program” for “the State agency designated pursuant to section 602(a)(3) of this title to administer or supervise the administration of the plan of the State approved under part A of this subchapter”.
 
 Subsec. (a)(i)(A)(ii). Pub. L. 93–647, §3(a)(7), substituted “a single organizational unit in such State or local agency, as the case may be,” for “the organizational unit in such State or local agency established pursuant to section 602(a)(15) of this title”.
 
 Subsec. (c). Pub. L. 93–647, §3(h), added subsec. (c).
 
-1968—Subsec. (a)(1). Pub. L. 90–248, §240(d), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
+<b>1968</b>—Subsec. (a)(1). Pub. L. 90–248, §240(d), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–148, title II, §2955(d), Mar. 23, 2010, 124 Stat. 353, provided that: “The amendments made by this section \[amending this section and sections 675 and 677 of this title\] take effect on October 1, 2010.”
 
 #### Effective Date of 2008 Amendment
 
@@ -240,7 +252,7 @@ Amendment by Pub. L. 110–351 effective Oct. 7, 2008, and applicable to payment
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
+Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under this part and part Eof this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
 
 Pub. L. 109–239, §14, July 3, 2006, 120 Stat. 514, provided that:
 
@@ -280,7 +292,7 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 Section 202(e) of Pub. L. 103–432 provided that: “The amendments and repeal made by this section \[amending this section and sections 623 to 625 and 672 of this title and repealing section 627 of this title\] shall be effective with respect to fiscal years beginning on or after April 1, 1996.”
 
-Section 204(b) of Pub. L. 103–432 provided that: “The amendments made by subsection (a) \[amending thissection\] shall be effective with respect to fiscal years beginning on or after October 1, 1995.”
+Section 204(b) of Pub. L. 103–432 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective with respect to fiscal years beginning on or after October 1, 1995.”
 
 #### Effective Date of 1993 Amendment
 
@@ -340,7 +352,9 @@ Section 103(d) of Pub. L. 96–272 provided that: “Notwithstanding section 422
 
 Section 240(f)(3) of Pub. L. 90–248 provided that in the case of any State which has a plan developed as provided in part 3 of this subchapter as in effect prior to Jan. 2, 1968, sections 721 to 728 of this title, “any overpayment or underpayment which the Secretary determines was made to the State under section 523 of the Social Security Act \[section 723 of this title\] and with respect to which adjustment has not then already been made under subsection (b) of such section shall, for purposes of section 422 of such Act \[this section\], be considered an overpayment or underpayment (as the case may be) made under section 422 of such Act.”
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “provide”.</i>
+<i><sup>2</sup></i><i> So in original.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “provide”.</i>
 

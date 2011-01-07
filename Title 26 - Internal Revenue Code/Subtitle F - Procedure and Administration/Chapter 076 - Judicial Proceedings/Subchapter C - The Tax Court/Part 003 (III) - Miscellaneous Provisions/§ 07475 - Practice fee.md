@@ -12,7 +12,7 @@ The fees described in subsection (a) shall be available to the Tax Court to empl
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–280 inserted “and to provide services to pro se taxpayers” before period at end.
+<b>2006</b>—Subsec. (b). Pub. L. 109–280 inserted “and to provide services to pro se taxpayers” before period at end.
 
 #### Effective Date of 2006 Amendment
 

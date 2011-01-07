@@ -88,11 +88,11 @@ The date of the enactment of the General Accounting Office Personnel Amendments 
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
+<b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
 
-1994—Subsec. (a)(1). Pub. L. 103–283 inserted “or of the Architect of the Capitol, the Botanic Garden, or the Senate Restaurants,” after “Office”. See Application of Provisions Amended by Pub. L. 103–283 note below.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–283 inserted “or of the Architect of the Capitol, the Botanic Garden, or the Senate Restaurants,” after “Office”. See Application of Provisions Amended by Pub. L. 103–283 note below.
 
-1988—Subsec. (a). Pub. L. 100–426, §101(a), struck out par. (1) which required that Board appointees have 3 years full-time or part-time experience in adjudicating or arbitrating personnel matters, and redesignated pars. (2), (3), and (4) as (1), (2), and (3), respectively.
+<b>1988</b>—Subsec. (a). Pub. L. 100–426, §101(a), struck out par. (1) which required that Board appointees have 3 years full-time or part-time experience in adjudicating or arbitrating personnel matters, and redesignated pars. (2), (3), and (4) as (1), (2), and (3), respectively.
 
 Subsec. (b)(1). Pub. L. 100–426, §101(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “from a written list of candidates, submitted to the Comptroller General in a way and at the time the Comptroller General requires, by any organization the Comptroller General believes is composed primarily of individuals experienced in adjudicating or arbitrating personnel matters; and”.
 

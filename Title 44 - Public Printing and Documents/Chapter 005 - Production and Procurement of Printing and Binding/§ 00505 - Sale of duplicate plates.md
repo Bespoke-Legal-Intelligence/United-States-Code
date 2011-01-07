@@ -10,7 +10,7 @@ Based on 44 U.S. Code, 1964 ed., §58 (Jan. 12, 1895, ch. 23, §52, 28 Stat. 608
 
 #### Amendments
 
-1976—Pub. L. 94–553 struck out provision that a publication could not be copyrighted if it was reprinted from additional or duplicate plates purchased from the Government from which Government publications had been printed or if it was reprinted from other Government publications.
+<b>1976</b>—Pub. L. 94–553 struck out provision that a publication could not be copyrighted if it was reprinted from additional or duplicate plates purchased from the Government from which Government publications had been printed or if it was reprinted from other Government publications.
 
 #### Effective Date of 1976 Amendment
 

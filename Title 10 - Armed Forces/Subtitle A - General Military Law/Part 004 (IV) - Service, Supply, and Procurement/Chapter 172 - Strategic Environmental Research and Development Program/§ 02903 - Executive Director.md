@@ -10,17 +10,17 @@
 
 (2) The Executive Director, with the concurrence of the Council and without regard to the provisions of chapter 51 of title 5 and subchapter III of chapter 53 of such title, may establish the rates of basic pay for professional, scientific, and technical employees appointed pursuant to paragraph (1).
 
-(Added Pub. L. 101–510, div. A, title XVIII, §1801(a)(1), Nov. 5, 1990, 104 Stat. 1755; amended Pub. L. 102–25, title VII, §701(h)(2), Apr. 6, 1991,105 Stat. 115; Pub. L. 103–160, div. A, title II, §265(b), Nov. 30, 1993, 107 Stat. 1611; Pub. L. 104–106, div. A, title II, §203(d), (e)(1), Feb. 10, 1996, 110 Stat. 218.)
+(Added Pub. L. 101–510, div. A, title XVIII, §1801(a)(1), Nov. 5, 1990, 104 Stat. 1755; amended Pub. L. 102–25, title VII, §701(h)(2), Apr. 6, 1991, 105 Stat. 115; Pub. L. 103–160, div. A, title II, §265(b), Nov. 30, 1993, 107 Stat. 1611; Pub. L. 104–106, div. A, title II, §203(d), (e)(1), Feb. 10, 1996, 110 Stat. 218.)
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–106, §203(d), substituted “contracts using competitive procedures. The Executive Director may enter into” for “contracts or” and “law. In either case,” for “law, except that”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–106, §203(d), substituted “contracts using competitive procedures. The Executive Director may enter into” for “contracts or” and “law. In either case,” for “law, except that”.
 
 Subsec. (d)(2). Pub. L. 104–106, §203(e)(1), struck out at end “The authority provided in the preceding sentence shall expire on September 30, 1995.”
 
-1993—Subsec. (d)(2). Pub. L. 103–160 substituted “September 30, 1995” for “November 5, 1992”.
+<b>1993</b>—Subsec. (d)(2). Pub. L. 103–160 substituted “September 30, 1995” for “November 5, 1992”.
 
-1991—Subsec. (d)(2). Pub. L. 102–25 substituted “on November 5, 1992” for “two years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1991”.
+<b>1991</b>—Subsec. (d)(2). Pub. L. 102–25 substituted “on November 5, 1992” for “two years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1991”.
 
 #### Effective Date of 1996 Amendment
 

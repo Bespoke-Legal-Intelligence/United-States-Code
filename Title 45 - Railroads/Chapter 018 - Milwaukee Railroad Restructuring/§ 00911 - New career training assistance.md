@@ -28,7 +28,7 @@ As used in this section—
 
 #### Amendments
 
-1980—Subsec. (e)(2). Pub. L. 96–254 inserted reference to State-accredited institutions which have been in existence for not less than two years.
+<b>1980</b>—Subsec. (e)(2). Pub. L. 96–254 inserted reference to State-accredited institutions which have been in existence for not less than two years.
 
 #### Change of Name
 

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(ii) in the case of a loan made for purposes of subparagraph (A)(i), supplying the organization carrying out the project with working capital relative to the project.
 
-&emsp;(2) The loan is made in connection with funding or the provision of substantial property or services for such project by either a State or local government or a nongovernmental entity, or both.
+&emsp;(2) The loan is made in connection with funding or the provision of substantial property or services for such project by either aState or local government or a nongovernmental entity, or both.
 
 &emsp;(3) The maximum loan amount does not exceed the lesser of—
 
@@ -68,9 +68,9 @@ Section 107 of Public Law 102–405, referred to in subsec. (d)(2), is set out a
 
 #### Amendments
 
-2004—Subsec. (c)(1). Pub. L. 108–454 substituted “services, other commercial activities,” for “services”.
+<b>2004</b>—Subsec. (c)(1). Pub. L. 108–454 substituted “services, other commercial activities,” for “services”.
 
-2001—Pub. L. 107–95, §5(d)(1), renumbered section 3773 of this title as this section.
+<b>2001</b>—Pub. L. 107–95, §5(d)(1), renumbered section 3773 of this title as this section.
 
 Subsec. (a). Pub. L. 107–95, §5(d)(2)(C), substituted “section 2051 of this title” for “section 3772 of this title” in introductory provisions.
 

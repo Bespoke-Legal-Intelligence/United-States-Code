@@ -46,9 +46,9 @@
 
 #### Amendments
 
-1989—Subsec. (g). Pub. L. 101–189, in introductory provisions, substituted “In this section:” for “For the purposes of this section—”, in par. (1), inserted “The term” before “ ‘rotation’ ” and substituted the period for “; and”, and in par. (2), inserted “The term” before “ ‘grade’ ”.
+<b>1989</b>—Subsec. (g). Pub. L. 101–189, in introductory provisions, substituted “In this section:” for “For the purposes of this section—”, in par. (1), inserted “The term” before “ ‘rotation’ ” and substituted the period for “; and”, and in par. (2), inserted “The term” before “ ‘grade’ ”.
 
-1984—Subsec. (b). Pub. L. 98–525, §1405(29)(A)(iii), in provisions following par. (3) struck out “of this subsection” after “paragraphs (2) and (3)”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–525, §1405(29)(A)(iii), in provisions following par. (3) struck out “of this subsection” after “paragraphs (2) and (3)”.
 
 Subsec. (b)(3). Pub. L. 98–525, §1405(29)(A)(i), (ii), substituted “30” for “thirty” and struck out “of this section” after “subsection (c)”.
 
@@ -70,15 +70,15 @@ Subsec. (e)(2). Pub. L. 98–525, §1405(29)(D), struck out “of this subsectio
 
 Subsec. (g)(1). Pub. L. 98–525, §1405(29)(C), struck out “of this section” after “subsection (b)”.
 
-1982—Subsecs. (d), (e)(1). Pub. L. 97–295 substituted “pay” for “compensation” wherever appearing.
+<b>1982</b>—Subsecs. (d), (e)(1). Pub. L. 97–295 substituted “pay” for “compensation” wherever appearing.
 
-1980—Subsecs. (c)(5), (e)(2). Pub. L. 96–513 substituted “Office of Personnel Management” for “United States Civil Service Commission”.
+<b>1980</b>—Subsecs. (c)(5), (e)(2). Pub. L. 96–513 substituted “Office of Personnel Management” for “United States Civil Service Commission”.
 
 Subsec. (h). Pub. L. 96–600 added subsec. (h).
 
-1967—Subsec. (g)(2). Pub. L. 90–83 substituted “General Schedule as prescribed in section 5104 of title 5” for “compensation schedule for the General Schedule of the Classification Act of 1949, as amended,”.
+<b>1967</b>—Subsec. (g)(2). Pub. L. 90–83 substituted “General Schedule as prescribed in section 5104 of title 5” for “compensation schedule for the General Schedule of the Classification Act of 1949, as amended,”.
 
-1966—Pub. L. 89–718 substituted “sections 3501–3503 of title 5” for “section 12 of the Act of June 27, 1944 (5 U.S.C. 861)” wherever appearing.
+<b>1966</b>—Pub. L. 89–718 substituted “sections 3501–3503 of title 5” for “section 12 of the Act of June 27, 1944 (5 U.S.C. 861)” wherever appearing.
 
 #### Effective Date of 1980 Amendment
 

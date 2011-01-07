@@ -24,7 +24,7 @@
 
 (B) No amount may be held available under this paragraph for a State from a prior fiscal year to the extent such amount exceeds 10 percent of the amount payable to such State for such prior fiscal year. For purposes of the preceding sentence, the amount payable to a State for a fiscal year shall be determined without regard to any amount held available under this paragraph for such State for such fiscal year from the prior fiscal year.
 
-(C) The Secretary shall reallot amounts made available under this paragraph for the fiscalyear following the fiscal year of the original allotment in accordance with paragraph (1) of this subsection.
+(C) The Secretary shall reallot amounts made available under this paragraph for the fiscal year following the fiscal year of the original allotment in accordance with paragraph (1) of this subsection.
 
 (3) During the 30-day period described in paragraph (1)(B), comments may be submitted to the Secretary. After considering such comments, the Secretary shall notify the chief executive officer of the State of any decision to reallot funds, and shall publish such decision in the Federal Register.
 
@@ -36,13 +36,13 @@ In subsec. (a)(1), “section 6503(a) of title 31” substituted for “section 
 
 #### Amendments
 
-1998—Subsec. (b)(2)(B). Pub. L. 105–285 struck out “and not transferred pursuant to section 8623(f) of this title” after “such prior fiscal year” in first sentence and “but not transferred by the State” after “the amount payable to a State” in second sentence.
+<b>1998</b>—Subsec. (b)(2)(B). Pub. L. 105–285 struck out “and not transferred pursuant to section 8623(f) of this title” after “such prior fiscal year” in first sentence and “but not transferred by the State” after “the amount payable to a State” in second sentence.
 
-1994—Subsec. (a). Pub. L. 103–252 designated existing provisions as par. (1) and added par. (2).
+<b>1994</b>—Subsec. (a). Pub. L. 103–252 designated existing provisions as par. (1) and added par. (2).
 
-1990—Subsec. (b)(2)(B). Pub. L. 101–501 substituted “10 percent” for “15 percent”.
+<b>1990</b>—Subsec. (b)(2)(B). Pub. L. 101–501 substituted “10 percent” for “15 percent”.
 
-1984—Subsec. (b)(2)(A). Pub. L. 98–558, §606(a), inserted “Such request shall include a statement of the reasons that the amount allotted to such State for a fiscal year will not be used by such State during such fiscal year and a description of the types of assistance to be provided with the amount held available for the following fiscal year.” and “or the amount payable to” after “computing the allotment of”.
+<b>1984</b>—Subsec. (b)(2)(A). Pub. L. 98–558, §606(a), inserted “Such request shall include a statement of the reasons that the amount allotted to such State for a fiscal year will not be used by such State during such fiscal year and a description of the types of assistance to be provided with the amount held available for the following fiscal year.” and “or the amount payable to” after “computing the allotment of”.
 
 Subsec. (b)(2)(B). Pub. L. 98–558, §606(b), substituted “15 percent” for “25 percent”, “payable to such State for such prior fiscal year and not transferred pursuant to section 8623(f) of this title” for “allotted to such State for such prior fiscal year”, and “payable to a State but not transferred by the State” for “allotted to a State” in second sentence.
 

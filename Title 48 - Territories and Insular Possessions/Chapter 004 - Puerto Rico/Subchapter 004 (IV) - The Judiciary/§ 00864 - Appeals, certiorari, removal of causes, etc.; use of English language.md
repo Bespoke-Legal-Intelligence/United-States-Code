@@ -22,11 +22,11 @@ Provisions similar to those in this section were contained in act Apr. 12, 1900,
 
 #### Amendments
 
-1948—Act June 25, 1948, amended section generally, and struck out provisions relating to the term of district court and appeals to the circuit court.
+<b>1948</b>—Act June 25, 1948, amended section generally, and struck out provisions relating to the term of district court and appeals to the circuit court.
 
-1928—Act Jan. 31, 1928, abolished writ of error in civil and criminal cases and made all relief formerly obtained by writ of error obtainable by appeal.
+<b>1928</b>—Act Jan. 31, 1928, abolished writ of error in civil and criminal cases and made all relief formerly obtained by writ of error obtainable by appeal.
 
-1925—Act Feb. 13, 1925, ch. 229, §13, repealed provisions of this section permitting a direct review by the Supreme Court of cases in the courts in Puerto Rico.
+<b>1925</b>—Act Feb. 13, 1925, ch. 229, §13, repealed provisions of this section permitting a direct review by the Supreme Court of cases in the courts in Puerto Rico.
 
 #### Change of Name
 

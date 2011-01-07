@@ -50,7 +50,7 @@ Deployment Defined.—(1) For the purposes of this section, a member of the arme
 
 (c)
 
-Recordkeeping.—The Secretary of each military department shall establish a system fortracking and recording the number of days that each member of the armed forces under the jurisdiction of the Secretary is deployed.
+Recordkeeping.—The Secretary of each military department shall establish a system for tracking and recording the number of days that each member of the armed forces under the jurisdiction of the Secretary is deployed.
 
 (d)
 
@@ -64,7 +64,7 @@ Inapplicability to Coast Guard.—This section does not apply to a member of the
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–136 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
+<b>2003</b>—Subsec. (a). Pub. L. 108–136 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
 “(1) The deployment (or potential deployment) of a member of the armed forces shall be managed, during any period when the member is a high-deployment days member, by the officer in the chain of command of that member who is the lowest-ranking general or flag officer in that chain of command. That officer shall ensure that the member is not deployed, or continued in a deployment, on any day on which the total number of days on which the member has been deployed out of the preceding 365 days would exceed 220. However, the member may be deployed, or continued in a deployment, without regard to the preceding sentence if such deployment, or continued deployment, is approved—
 
@@ -76,7 +76,7 @@ Inapplicability to Coast Guard.—This section does not apply to a member of the
 
 “(3) In paragraph (1)(B), the term ‘service chief’ means the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, or the Commandant of the Marine Corps.”
 
-2001—Subsec. (b)(2). Pub. L. 107–107 amended par. (2) generally. Prior to amendment, par. (2) read as follows:
+<b>2001</b>—Subsec. (b)(2). Pub. L. 107–107 amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
 “(2) In the case of a member of a reserve component performing active service, the member shall be considered deployed or in a deployment for the purposes of paragraph (1) on any day on which, pursuant to orders that do not establish a permanent change of station, the member is performing the active service at a location that—
 
@@ -88,7 +88,7 @@ Inapplicability to Coast Guard.—This section does not apply to a member of the
 
 &emsp;&emsp;“(ii) a lesser distance from the member's permanent residence that, under the circumstances applicable to the member's travel, is a distance that requires at least three hours of travel to traverse.”
 
-2000—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title V, §574(a)(1)\], substituted “. However, the member may be deployed, or continued in a deployment, without regard to the preceding sentence if such deployment, or continued deployment, is approved—” and subpars. (A) and (B) for “unless an officer in the grade of general or admiral in the member's chain of command approves the deployment, or continued deployment, of the member.”
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title V, §574(a)(1)\], substituted “. However, the member may be deployed, or continued in a deployment, without regard to the preceding sentence if such deployment, or continued deployment, is approved—” and subpars. (A) and (B) for “unless an officer in the grade of general or admiral in the member's chain of command approves the deployment, or continued deployment, of the member.”
 
 Subsec. (a)(3). Pub. L. 106–398, §1 \[\[div. A\], title V, §574(a)(2)\], added par. (3).
 
@@ -120,7 +120,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Family Care Plans and Deferment of Deployment of Single Parent or Dual Military Couples With Minor Dependents
 
-Pub. L. 110–181, div. A, title V, §586, Jan. 28, 2008, 122 Stat. 132, provided that: “The Secretary of Defense shall establish appropriate procedures to ensure that an adequate family care plan is in place for a member of the Armed Forces with minor dependents who is a single parent or whose spouse is also a member of the Armed Forces when the member may be deployed in an area for which imminent danger pay is authorized under section 310 of title 37, United States Code. Such procedures should allow the member to request a deferment of deployment due to unforeseen circumstances,and the request for such a deferment should be considered and responded to promptly.”
+Pub. L. 110–181, div. A, title V, §586, Jan. 28, 2008, 122 Stat. 132, provided that: “The Secretary of Defense shall establish appropriate procedures to ensure that an adequate family care plan is in place for a member of the Armed Forces with minor dependents who is a single parent or whose spouse is also a member of the Armed Forces when the member may be deployed in an area for which imminent danger pay is authorized under section 310 of title 37, United States Code. Such procedures should allow the member to request a deferment of deployment due to unforeseen circumstances, and the request for such a deferment should be considered and responded to promptly.”
 
 #### Policy on Concurrent Deployment to Combat Zones of Both Military Spouses of Military Families With Minor Children
 

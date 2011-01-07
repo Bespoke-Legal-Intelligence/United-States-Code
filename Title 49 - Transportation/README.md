@@ -1,5 +1,5 @@
 
-49 U.S.C.<br>United States Code, 2009 Edition<br>Title 49 - TRANSPORTATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+49 U.S.C.<br>United States Code, 2010 Edition<br>Title 49 - TRANSPORTATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 49—TRANSPORTATION
 
@@ -15,18 +15,20 @@
 | <b>VI.</b> | <b>MOTOR VEHICLE AND DRIVER PROGRAMS</b> | <b>30101</b> |
 | <b>VII.</b> | <b>AVIATION PROGRAMS</b> | <b>40101</b> |
 | <b>VIII.</b> | <b>PIPELINES</b> | <b>60101</b> |
-| <b>IX.</b> | <b>COMMERCIAL SPACE TRANSPORTATION</b> | <b>70101</b> |
+| <b>IX.</b> | <b>\[TRANSFERRED\]</b> |  |
 | <b>X.</b> | <b>MISCELLANEOUS</b> | <b>80101</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-1995—Pub. L. 104–88, title I, §102(b), Dec. 29, 1995, 109 Stat. 852, as amended by Pub. L. 104–287, §6(f)(1), Oct. 11, 1996, 110 Stat. 3399, substituted “TRANSPORTATION” for “COMMERCE” in item for subtitle IV.
+<b>2010</b>—Pub. L. 111–314, §4(d)(1)(A), Dec. 18, 2010, 124 Stat. 3440, substituted “\[TRANSFERRED\]” for “COMMERCIAL SPACE TRANSPORTATION . . .70101” in item for subtitle IX.
 
-1994—Pub. L. 103–272, §1(b), July 5, 1994, 108 Stat. 745, amended subtitle analysis generally, substituting “OTHER GOVERNMENT AGENCIES . . .1101” for “TRANSPORTATION PROGRAMS . . .3101” in item for subtitle II, “GENERAL AND INTERMODAL PROGRAMS . . .5101” for “\[RESERVED—AIR TRANSPORTATION\]” in item for subtitle III, and “RAIL PROGRAMS . . .20101” for “\[RESERVED—MISCELLANEOUS\]” in item for subtitle V, and adding items for subtitles VI, VII, VIII, IX, and X.
+<b>1995</b>—Pub. L. 104–88, title I, §102(b), Dec. 29, 1995, 109 Stat. 852, as amended by Pub. L. 104–287, §6(f)(1), Oct. 11, 1996, 110 Stat. 3399, substituted “TRANSPORTATION” for “COMMERCE” in item for subtitle IV.
 
-1983—Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2413, amended subtitle analysis generally, substituting “DEPARTMENT OF TRANSPORTATION . . .101” for “\[RESERVED—DEPARTMENT OF TRANSPORTATION\]” in item for subtitle I and “TRANSPORTATION PROGRAMS . . .3101” for “\[RESERVED—TRANSPORTATION PROGRAMS\]” in item for subtitle II.
+<b>1994</b>—Pub. L. 103–272, §1(b), July 5, 1994, 108 Stat. 745, amended subtitle analysis generally, substituting “OTHER GOVERNMENT AGENCIES . . .1101” for “TRANSPORTATION PROGRAMS . . .3101” in item for subtitle II, “GENERAL AND INTERMODAL PROGRAMS . . .5101” for “\[RESERVED—AIR TRANSPORTATION\]” in item for subtitle III, and “RAIL PROGRAMS . . .20101” for “\[RESERVED—MISCELLANEOUS\]” in item for subtitle V, and adding items for subtitles VI, VII, VIII, IX, and X.
+
+<b>1983</b>—Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2413, amended subtitle analysis generally, substituting “DEPARTMENT OF TRANSPORTATION . . .101” for “\[RESERVED—DEPARTMENT OF TRANSPORTATION\]” in item for subtitle I and “TRANSPORTATION PROGRAMS . . .3101” for “\[RESERVED—TRANSPORTATION PROGRAMS\]” in item for subtitle II.
 
 Table Showing Disposition of Former Sections of Title 49
 
@@ -86,7 +88,7 @@ Table Showing Disposition of Former Sections of Title 49
 
 Rep.
 
-1(51/2)
+1(5½)
 
 10749
 
@@ -7661,5 +7663,5 @@ Section 4(d) of Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1470, as amended by Pu
 - [Subtitle 006 (VI) - Motor Vehicle and Driver Programs](Subtitle%20006%20%28VI%29%20-%20Motor%20Vehicle%20and%20Driver%20Programs/README.md)
 - [Subtitle 007 (VII) - Aviation Programs](Subtitle%20007%20%28VII%29%20-%20Aviation%20Programs/README.md)
 - [Subtitle 008 (VIII) - Pipelines](Subtitle%20008%20%28VIII%29%20-%20Pipelines/README.md)
-- [Subtitle 009 (IX) - Commercial Space Transportation](Subtitle%20009%20%28IX%29%20-%20Commercial%20Space%20Transportation/README.md)
+- [Subtitle 009 (IX) - \[Transferred](Subtitle%20009%20%28IX%29%20-%20%5BTransferred/README.md)
 - [Subtitle 010 (X) - Miscellaneous](Subtitle%20010%20%28X%29%20-%20Miscellaneous/README.md)

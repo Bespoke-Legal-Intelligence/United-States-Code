@@ -30,7 +30,7 @@ Section 2153b of this title, referred to in subsec. (b), was in the original “
 
 #### Amendments
 
-1994—Subsec. (d). Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations”.
 
 #### Effective Date
 
@@ -38,7 +38,7 @@ Section effective Mar. 10, 1978, except as otherwise provided and regardless of 
 
 #### Delegation of Functions
 
-Secretary of State responsible for performing functions vested in President under this section, see section 2(a) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under section 3201 of Title 22, Foreign Relations and Intercourse.
+Secretary of State responsible for performing functions vested in President under this section, see section 2(a) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, setout under section 3201 of Title 22, Foreign Relations and Intercourse.
 
 #### Supply of Additional Low-Enriched Uranium Under International Agreements for Cooperation in Civil Uses of Nuclear Energy
 

@@ -32,7 +32,7 @@ The Trading With the Enemy Act, referred to in subsec. (b)(4), is act Oct. 6, 19
 
 #### Amendments
 
-1988—Subsec. (b)(3). Pub. L. 100–418 substituted “notes of the Harmonized Tariff Schedule of the United States” for “headnotes of the Tariff Schedules of the United States”.
+<b>1988</b>—Subsec. (b)(3). Pub. L. 100–418 substituted “notes of the Harmonized Tariff Schedule of the United States” for “headnotes of the Tariff Schedules of the United States”.
 
 #### Effective Date of 1988 Amendment
 

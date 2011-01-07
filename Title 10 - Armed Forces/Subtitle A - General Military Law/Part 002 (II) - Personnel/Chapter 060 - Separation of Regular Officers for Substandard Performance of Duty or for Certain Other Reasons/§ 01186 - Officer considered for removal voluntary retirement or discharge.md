@@ -22,5 +22,5 @@
 
 #### Amendments
 
-1990—Subsec. (c). Pub. L. 101–510 substituted “section 1174(a)(2)” for “section 1174(b)”.
+<b>1990</b>—Subsec. (c). Pub. L. 101–510 substituted “section 1174(a)(2)” for “section 1174(b)”.
 

@@ -36,9 +36,9 @@
 
 #### Amendments
 
-1993—Subsec. (h). Pub. L. 103–199 substituted “Russia (except that as used in subsection (b) of this section, ‘party’ and ‘parties’ refer to the Union of Soviet Socialist Republics)” for “the Union of Soviet Socialist Republics”.
+<b>1993</b>—Subsec. (h). Pub. L. 103–199 substituted “Russia (except that as used in subsection (b) of this section, ‘party’ and ‘parties’ refer to the Union of Soviet Socialist Republics)” for “the Union of Soviet Socialist Republics”.
 
-1983—Pub. L. 98–129 amended section generally, substituting provisions defining terms, previously defined in former sections 1159 and 1186 of this title, for provisions enumerating the activities prohibited under this chapter. See section 1152 of this title.
+<b>1983</b>—Pub. L. 98–129 amended section generally, substituting provisions defining terms, previously defined in former sections 1159 and 1186 of this title, for provisions enumerating the activities prohibited under this chapter. See section 1152 of this title.
 
 #### Effective Date of 1992 Amendment
 

@@ -12,7 +12,7 @@
 
 #### Amendments
 
-1994—Pub. L. 103–337, §1662(e)(2), renumbered section 687 of this title as this section.
+<b>1994</b>—Pub. L. 103–337, §1662(e)(2), renumbered section 687 of this title as this section.
 
 Subsec. (d). Pub. L. 103–337, §1675(c)(10), substituted “1223” for “67”.
 

@@ -2,7 +2,7 @@
 
 #### (a) Application
 
-A person seeking assistance under this part shall submit an application to the Attorney General in such form and containing such information as the Attorney General reasonably may require.
+A person seeking assistance under this part shall submit an application to the AttorneyGeneral in such form and containing such information as the Attorney General reasonably may require.
 
 #### (b) Approval
 

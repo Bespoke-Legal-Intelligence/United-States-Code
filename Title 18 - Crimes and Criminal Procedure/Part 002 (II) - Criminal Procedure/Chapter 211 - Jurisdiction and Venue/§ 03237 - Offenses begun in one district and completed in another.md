@@ -28,15 +28,15 @@ Section 7201 or 7206(1), (2), or (5) of such Code, referred to in subsec. (b), a
 
 #### Amendments
 
-1986—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1984—Subsec. (a). Pub. L. 98–473 inserted “or the importation of an object or person into the United States” and “, or imported object or person” in second par.
+<b>1984</b>—Subsec. (a). Pub. L. 98–473 inserted “or the importation of an object or person into the United States” and “, or imported object or person” in second par.
 
 Subsec. (b). Pub. L. 98–369 substituted “venue for prosecution of an offense” for “an offense involves use of the mails and is an offense” and inserted “is based solely on a mailing to the Internal Revenue Service”.
 
-1966—Subsec. (b). Pub. L. 89–713 inserted reference to offenses described in section 7203 of the Internal Revenue Code of 1954.
+<b>1966</b>—Subsec. (b). Pub. L. 89–713 inserted reference to offenses described in section 7203 of the Internal Revenue Code of 1954.
 
-1958—Pub. L. 85–595 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1958</b>—Pub. L. 85–595 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1966 Amendment
 

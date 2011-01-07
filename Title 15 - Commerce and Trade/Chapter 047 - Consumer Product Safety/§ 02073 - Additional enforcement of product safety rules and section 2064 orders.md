@@ -14,7 +14,7 @@ Any interested person (including any individual or nonprofit, business, or other
 
 #### (A) Notice to Commission required in all cases
 
-&emsp;&emsp;A State shall provide written notice to the Commission regarding any civil action underparagraph (1). Except when proceeding under subparagraph (C), the State shall provide the notice at least 30 days before the date on which the State intends to initiate the civil action by filing a complaint.
+&emsp;&emsp;A State shall provide written notice to the Commission regarding any civil action under paragraph (1). Except when proceeding under subparagraph (C), the State shall provide the notice at least 30 days before the date on which the State intends to initiate the civil action by filing a complaint.
 
 #### (B) Filing of complaint
 
@@ -72,11 +72,11 @@ Any interested person (including any individual or nonprofit, business, or other
 
 #### Amendments
 
-2008—Pub. L. 110–314 substituted “Additional” for “Private” in section catchline, designated existing provisions as subsec. (a), inserted subsec. heading, and added subsec. (b).
+<b>2008</b>—Pub. L. 110–314 substituted “Additional” for “Private” in section catchline, designated existing provisions as subsec. (a), inserted subsec. heading, and added subsec. (b).
 
-1981—Pub. L. 97–35 substituted “Any interested person (including any individual or nonprofit, business, or other entity)” for “Any interested person”, and “section 2060(f) of this title” for “2059(e)(4) of this title”.
+<b>1981</b>—Pub. L. 97–35 substituted “Any interested person (including any individual or nonprofit, business, or other entity)” for “Any interested person”, and “section 2060(f) of this title” for “2059(e)(4) of this title”.
 
-1976—Pub. L. 94–284 substituted provision permitting the court to award costs in the interest of justice for the provision which permitted costs to be demanded as part of the complaint and the court to award them to the prevailing party.
+<b>1976</b>—Pub. L. 94–284 substituted provision permitting the court to award costs in the interest of justice for the provision which permitted costs to be demanded as part of the complaint and the court to award them to the prevailing party.
 
 #### Effective Date of 1981 Amendment
 

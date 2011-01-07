@@ -80,7 +80,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) any trade or business consisting of the operation of any facility described in section 144(c)(6)(B), and
 
-&emsp;&emsp;(B) any trade or business the principal activity of which is farming (within the meaning of subparagraphs <sup>1</sup> (A) or (B) of section 2032A(e)(5)), but only if, as of the close of the taxable year, the sum of—
+&emsp;&emsp;(B) any trade or business the principal activity of which is farming (within the meaning of subparagraphs <sup>1</sup> (A) or (B) of section2032A(e)(5)), but only if, as of the close of the taxable year, the sum of—
 
 &emsp;&emsp;&emsp;(i) the aggregate unadjusted bases (or, if greater, the fair market value) of the assets owned by the taxpayer which are used in such a trade or business, and
 
@@ -120,11 +120,11 @@ A prior section 1397C was renumbered section 1397D of this title.
 
 #### Amendments
 
-2000—Pub. L. 106–554 renumbered section 1397B of this title as this section.
+<b>2000</b>—Pub. L. 106–554 renumbered section 1397B of this title as this section.
 
-1999—Subsec. (e)(2). Pub. L. 106–170 substituted “section 1221(a)(4)” for “section 1221(4)”.
+<b>1999</b>—Subsec. (e)(2). Pub. L. 106–170 substituted “section 1221(a)(4)” for “section 1221(4)”.
 
-1997—Subsec. (b)(2). Pub. L. 105–34, §956(a)(1), substituted “50 percent” for “80 percent”.
+<b>1997</b>—Subsec. (b)(2). Pub. L. 105–34, §956(a)(1), substituted “50 percent” for “80 percent”.
 
 Subsec. (b)(3). Pub. L. 105–34, §956(a)(2), substituted “a substantial portion” for “substantially all”.
 
@@ -146,7 +146,7 @@ Subsec. (d)(3). Pub. L. 105–34, §956(a)(5), substituted “at least 50 percen
 
 Subsec. (f). Pub. L. 105–34, §956(a)(6), added subsec. (f).
 
-1996—Subsec. (d)(5)(B). Pub. L. 104–188 struck out “preceding” before “taxable year” in introductory provisions.
+<b>1996</b>—Subsec. (d)(5)(B). Pub. L. 104–188 struck out “preceding” before “taxable year” in introductory provisions.
 
 #### Effective Date of 1999 Amendment
 
@@ -162,7 +162,7 @@ In general.—The amendments made by this section \[amending this section\] shal
 
 “(2)
 
-Special rule for enterprise zone facility bonds.—For purposes of section 1394(b) of the InternalRevenue Code of 1986, the amendments made by this section shall apply to obligations issued after the date of the enactment of this Act.”
+Special rule for enterprise zone facility bonds.—For purposes of section 1394(b) of the Internal Revenue Code of 1986, the amendments made by this section shall apply to obligations issued after the date of the enactment of this Act.”
 
 #### Effective Date of 1996 Amendment
 

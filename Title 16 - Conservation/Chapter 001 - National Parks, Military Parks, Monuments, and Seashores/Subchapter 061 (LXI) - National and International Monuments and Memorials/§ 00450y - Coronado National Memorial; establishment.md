@@ -8,7 +8,7 @@ Gila and Salt River meridian: Township 24 south, range 20 east, section 10, sout
 
 #### Amendments
 
-1952—Act July 9, 1952, changed “Coronado International Memorial” to “Coronado National Memorial”, and struck out proviso which required action of Mexican Government prior to establishment of the Memorial.
+<b>1952</b>—Act July 9, 1952, changed “Coronado International Memorial” to “Coronado National Memorial”, and struck out proviso which required action of Mexican Government prior to establishment of the Memorial.
 
 #### Establishment of Memorial; Boundaries
 

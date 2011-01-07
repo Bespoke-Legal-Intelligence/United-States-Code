@@ -22,7 +22,7 @@ Another prior section 1501 of Pub. L. 90–351, title X, June 19, 1968, 82 Stat.
 
 #### Amendments
 
-1994—Subsec. (a)(2)(A). Pub. L. 103–322, §180101(b), substituted “$250,000” for “$100,000”.
+<b>1994</b>—Subsec. (a)(2)(A). Pub. L. 103–322, §180101(b), substituted “$250,000” for “$100,000”.
 
 Subsec. (b). Pub. L. 103–322, §180101(c), inserted before period at end “, based on the decennial census of 1990 through fiscal year 1997”.
 

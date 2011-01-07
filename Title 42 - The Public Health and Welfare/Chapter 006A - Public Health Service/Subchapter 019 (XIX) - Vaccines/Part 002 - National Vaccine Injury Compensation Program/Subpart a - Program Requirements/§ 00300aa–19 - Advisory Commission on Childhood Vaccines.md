@@ -54,11 +54,11 @@ In subsec. (a), “October 1, 1988” substituted for “the effective date of t
 
 #### Amendments
 
-1992—Subsec. (a)(2). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
-1991—Subsec. (c). Pub. L. 102–168 inserted “present at the meeting” before period at end.
+<b>1991</b>—Subsec. (c). Pub. L. 102–168 inserted “present at the meeting” before period at end.
 
-1987—Subsec. (a). Pub. L. 100–203 substituted “effective date of this subpart” for “effective date of this part” in last sentence.
+<b>1987</b>—Subsec. (a). Pub. L. 100–203 substituted “effective date of this subpart” for “effective date of this part” in last sentence.
 
 #### Termination of Advisory Commissions
 

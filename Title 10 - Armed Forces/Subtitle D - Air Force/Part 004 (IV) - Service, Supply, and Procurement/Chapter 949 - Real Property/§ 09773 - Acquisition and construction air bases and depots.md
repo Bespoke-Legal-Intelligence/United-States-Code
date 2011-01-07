@@ -86,7 +86,7 @@ In subsection (a), the word “shall” is substituted for the words “is autho
 
 In subsection (b), the words “to provide”, “to permit”, “in addition”, and “incident to the concentration of” are omitted as surplusage.
 
-In subsection (c), the introductory clause is substituted for 10:1343a (1st 41 words of 3d sentence). The words “to locate” are substituted for the words “there shall be provided”. The words “aviation of the United States” are substituted for the words “our own aviation”. The words, “Territories, Commonwealths,” are inserted to conform to subsection (a). The words “The stations shall be suitably located”, “of the set-up”, “by responsible personnel”, “there shall be provided”, “General Headquarters”, “in peace and war”, “such close and distant over land and sea”, and “The stations and depots shall be located with a view”, and 10:1343a (4th clause of 3d sentence) are omitted as surplusage.
+In subsection (c), the introductory clause is substituted for 10:1343a (1st 41 words of 3d sentence). The words “to locate” are substituted for the words “there shall be provided”. The words “aviation of the United States” are substituted for the words “our own aviation”. The words, “Territories, Commonwealths,” areinserted to conform to subsection (a). The words “The stations shall be suitably located”, “of the set-up”, “by responsible personnel”, “there shall be provided”, “General Headquarters”, “in peace and war”, “such close and distant \* \* \* over land and sea”, and “The stations and depots shall be located with a view”, and 10:1343a (4th clause of 3d sentence) are omitted as surplusage.
 
 In subsection (d), clause (3) is substituted for 10: 1343b (last 26 words). 10:1043b (24 words before 1st proviso) is omitted as surplusage.
 
@@ -94,5 +94,5 @@ In subsection (f), the word “shall” is substituted for the words “is furth
 
 #### Amendments
 
-2006—Subsecs. (a), (c)(4). Pub. L. 109–163 struck out “Territories,” before “Commonwealths, possessions,”.
+<b>2006</b>—Subsecs. (a), (c)(4). Pub. L. 109–163 struck out “Territories,” before “Commonwealths, possessions,”.
 

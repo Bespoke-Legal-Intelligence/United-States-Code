@@ -42,7 +42,7 @@ Salmon Survival Activities.—
 
 &emsp;“(1)
 
-In general.—In conjunction with the Secretary of Commerce and the Secretary of the Interior, the Secretary shall accelerate ongoing research and development activities, and may carry out or participate in additional research and development activities, for the purpose of developing innovative methods and technologies for improving the survivalof salmon, especially salmon in the Columbia/Snake River Basin.
+In general.—In conjunction with the Secretary of Commerce and the Secretary of the Interior, the Secretary shall accelerate ongoing research and development activities, and may carry out or participate in additional research and development activities, for the purpose of developing innovative methods and technologies for improving the survival of salmon, especially salmon in the Columbia/Snake River Basin.
 
 &emsp;“(2)
 

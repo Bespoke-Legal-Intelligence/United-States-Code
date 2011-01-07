@@ -30,7 +30,7 @@ No funds may be paid under this subchapter to a residential program (excluding a
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–273 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+<b>2002</b>—Subsec. (c). Pub. L. 107–273 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
 “(1) Funds paid pursuant to section 5633(a)(10)(D) of this title and section 5665(a)(3) of this title to any public or private agency, organization, or institution or to any individual shall not be used to pay for any personal service, advertisement, telegram, telephone communication, letter, printed or written matter, or other device intended or designed to influence a Member of Congress or any other Federal, State, or local elected official to favor or oppose any Acts, bills, resolutions, or similar legislation, or any referendum, initiative, constitutional amendment, or any similar procedure of the Congress, any State legislature, any local council, or any similar governing body, except that this paragraph shall not preclude such funds from being used in connection with communications to Federal, State, or local elected officials, upon the request of such officials through proper official channels, pertaining to authorization, appropriation, or oversight measures directly affecting the operation of the program involved.
 
@@ -38,7 +38,7 @@ No funds may be paid under this subchapter to a residential program (excluding a
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal yearthat begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, as amended, set out as a note under section 5601 of this title.
+Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, as amended, set out as a note under section 5601 of this title.
 
 #### Effective Date
 

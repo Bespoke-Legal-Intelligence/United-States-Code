@@ -12,9 +12,9 @@ If at any time during any taxable year an employer maintains a plan to which sec
 
 If—
 
-&emsp;(1) a tax is imposed under subsection (a)(1) on any unpaid minimum required contributionand such amount remains unpaid as of the close of the taxable period, or
+&emsp;(1) a tax is imposed under subsection (a)(1) on any unpaid minimum required contribution and such amount remains unpaid as of the close of the taxable period, or
 
-&emsp;(2) a tax is imposed under subsection (a)(2) on any accumulated funding deficiency and the accumulated funding deficiency is not corrected within the taxable period,
+&emsp;(2) a tax is imposed under subsection (a)(2) on any accumulated funding deficiency andthe accumulated funding deficiency is not corrected within the taxable period,
 
 > there is hereby imposed a tax equal to 100 percent of the unpaid minimum required contribution or accumulated funding deficiency, whichever is applicable, to the extent not so paid or corrected.
 
@@ -184,9 +184,9 @@ Before issuing a notice of deficiency with respect to the tax imposed by subsect
 
 &emsp;&emsp;<b>For liability for tax in case of an employer party to collective bargaining agreement, see section 413(b)(6).</b>
 
-&emsp;&emsp;<b>For provisions concerning notification of Secretary of Labor of imposition of tax under this section, waiver of the tax imposed by subsection (b),</b><b>and other coordination between Secretary of the Treasury and Secretary of Labor with respect to compliance with this section, see section 3002(b) of title III of the Employee Retirement Income Security Act of 1974.</b>
+&emsp;&emsp;<b>For provisions concerning notification of Secretary of Labor of imposition of tax under this section, waiver of the tax imposed by subsection (b), and other coordination between Secretary of the Treasury and Secretary of Labor with respect to compliance with this section, see section 3002(b) of title III of the Employee Retirement Income Security Act of 1974.</b>
 
-(Added Pub. L. 93–406, title II, §1013(b), Sept. 2, 1974, 88 Stat. 920; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–364, title II, §204, Sept. 26, 1980, 94 Stat. 1287; Pub. L. 96–596, §2(a)(1)(J), (2)(H), Dec. 24, 1980, 94 Stat. 3469, 3471; Pub. L. 100–203, title IX, §§9304(c)(1), 9305(a), Dec. 22, 1987, 101 Stat. 1330–348, 1330–351; Pub. L. 103–465, title VII, §751(a)(9)(B), Dec. 8, 1994, 108 Stat. 5020; Pub. L. 104–188, title I, §1464(a), Aug. 20, 1996, 110 Stat. 1824; Pub. L. 109–280, title I, §114(e)(1)–(4), title II, §212(b), Aug. 17, 2006, 120 Stat. 854, 855, 915; Pub. L. 110–458, title I, §§101(d)(2)(F), 102(b)(2)(I), (3)(A), Dec. 23, 2008, 122 Stat. 5099, 5103.)
+(Added Pub. L. 93–406, title II, §1013(b), Sept. 2, 1974, 88 Stat. 920; amended Pub. L. 94–455, titleXIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–364, title II, §204, Sept. 26, 1980, 94 Stat. 1287; Pub. L. 96–596, §2(a)(1)(J), (2)(H), Dec. 24, 1980, 94 Stat. 3469, 3471; Pub. L. 100–203, title IX, §§9304(c)(1), 9305(a), Dec. 22, 1987, 101 Stat. 1330–348, 1330–351; Pub. L. 103–465, title VII, §751(a)(9)(B), Dec. 8, 1994, 108 Stat. 5020; Pub. L. 104–188, title I, §1464(a), Aug. 20, 1996, 110 Stat. 1824; Pub. L. 109–280, title I, §114(e)(1)–(4), title II, §212(b), Aug. 17, 2006, 120 Stat. 854, 855, 915; Pub. L. 110–458, title I, §§101(d)(2)(F), 102(b)(2)(I), (3)(A), Dec. 23, 2008, 122 Stat. 5099, 5103.)
 
 #### Amendment of Section
 
@@ -200,7 +200,7 @@ Section 3002(b) of title III of the Employee Retirement Income Security Act of 1
 
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–458, §101(d)(2)(F)(i), substituted “minimum required” for “required minimum”.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–458, §101(d)(2)(F)(i), substituted “minimum required” for “required minimum”.
 
 Subsec. (c)(3). Pub. L. 110–458, §101(d)(2)(F)(ii), inserted “or unpaid minimum required contribution, whichever is applicable” after “accumulated funding deficiency” in two places in introductory provisions.
 
@@ -214,7 +214,7 @@ Subsec. (g)(4)(B)(ii). Pub. L. 110–458, §102(b)(2)(I)(i), substituted “day 
 
 Subsec. (g)(4)(C)(ii). Pub. L. 110–458, §102(b)(2)(I)(ii), added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: “For purposes of clause (i), the term ‘plan sponsor’ in the case of a multiemployer plan means the association, committee, joint board of trustees, or other similar group of representatives of the parties who establish or maintain the plan.”
 
-2006—Subsecs. (a), (b). Pub. L. 109–280, §114(e)(1), amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) and (b) read as follows:
+<b>2006</b>—Subsecs. (a), (b). Pub. L. 109–280, §114(e)(1), amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) and (b) read as follows:
 
 “(a)
 
@@ -236,13 +236,13 @@ Subsec. (f)(1). Pub. L. 109–280, §114(e)(4), substituted “section 430(j)(4)
 
 Subsecs. (g), (h). Pub. L. 109–280, §§212(b)(1), 221(c), temporarily added subsec. (g) and redesignated former subsec. (g) as (h). See Effective and Termination Dates of 2006 Amendment note below.
 
-1996—Subsec. (f)(4). Pub. L. 104–188 added par. (4).
+<b>1996</b>—Subsec. (f)(4). Pub. L. 104–188 added par. (4).
 
-1994—Subsec. (e)(1), (2)(A). Pub. L. 103–465, §751(a)(9)(B)(i), substituted “(a), (b), or (f)” for “(a) or (b)”.
+<b>1994</b>—Subsec. (e)(1), (2)(A). Pub. L. 103–465, §751(a)(9)(B)(i), substituted “(a), (b), or (f)” for “(a) or (b)”.
 
 Subsecs. (f), (g). Pub. L. 103–465, §751(a)(9)(B)(ii), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1987—Subsec. (a). Pub. L. 100–203, §9305(a)(2)(A), struck out at end “The tax imposed by this subsection shall be paid by the employer responsible for contributing to or under the plan the amount described in section 412(b)(3)(A).”
+<b>1987</b>—Subsec. (a). Pub. L. 100–203, §9305(a)(2)(A), struck out at end “The tax imposed by this subsection shall be paid by the employer responsible for contributing to or under the plan the amount described in section 412(b)(3)(A).”
 
 Pub. L. 100–203, §9304(c)(1), substituted “10 percent (5 percent in the case of a multiemployer plan)” for “5 percent”.
 
@@ -250,7 +250,7 @@ Subsec. (b). Pub. L. 100–203, §9305(a)(2)(B), struck out at end “The tax im
 
 Subsecs. (e), (f). Pub. L. 100–203, §9305(a)(1), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1980—Subsec. (b). Pub. L. 96–596, §2(a)(1)(J), substituted “taxable period” for “correction period”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–596, §2(a)(1)(J), substituted “taxable period” for “correction period”.
 
 Subsec. (c)(1). Pub. L. 96–364, §204(1), substituted “last two sentences” for “last sentence”.
 
@@ -258,7 +258,7 @@ Subsec. (c)(3). Pub. L. 96–596, §2(a)(2)(H), substituted provision defining t
 
 Subsec. (d). Pub. L. 96–364, §204(2), inserted provisions relating to a multiemployer plan in reorganization.
 
-1976—Subsecs. (c), (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (c), (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date of 2008 Amendment
 
@@ -266,7 +266,7 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 #### Effective and Termination Dates of 2006 Amendment
 
-Amendment by section 114(e)(1)–(4) of Pub. L. 109–280 applicable to taxable years beginning after 2007, butonly with respect to plan years beginning after 2007 which end with or within any such taxable year, see section 114(g) of Pub. L. 109–280, as added by Pub. L. 110–458, set out as an Effective Date of 2006 Amendment note under section 401 of this title.
+Amendment by section 114(e)(1)–(4) of Pub. L. 109–280 applicable to taxable years beginning after 2007, but only with respect to plan years beginning after 2007 which end with or within any such taxable year, see section 114(g) of Pub. L. 109–280, as added by Pub. L. 110–458, set out as an Effective Date of 2006 Amendment note under section 401 of this title.
 
 Amendment by section 212(b) of Pub. L. 109–280 applicable with respect to taxable years beginning after 2007, but only with respect to plan years beginning after 2007 which end with or within such taxable year, with special rules for certain notices and certain restored benefits, see section 212(e) of Pub. L. 109–280, set out as a note under section 412 of this title.
 
@@ -298,7 +298,7 @@ Section applicable, except as otherwise provided in section 1017(c) through (i) 
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
 
 #### Special Rule for Certain Benefits Funded Under an Agreement Approved by the Pension Benefit Guaranty Corporation
 

@@ -10,7 +10,7 @@ Eligibility.—On or after September 11, 2001, a member of a reserve component i
 
 (b)
 
-Disabled Members.—Notwithstanding the eligibility requirements in subsection (a), a member who was ordered to active service as prescribed under subsection (a)(1) or (a)(2) but is released from duty before completing 90 consecutive days because of an injury, illness or disease incurred or aggravated in the line of duty shall be entitled to educational assistance under this chapter at the rate prescribed in section 16162(c)(4)(A) of this title.
+Disabled Members.—Notwithstanding the eligibility requirements in subsection (a), a member who was ordered to active service asprescribed under subsection (a)(1) or (a)(2) but is released from duty before completing 90 consecutive days because of an injury, illness or disease incurred or aggravated in the line of duty shall be entitled to educational assistance under this chapter at the rate prescribed in section 16162(c)(4)(A) of this title.
 
 (c)
 
@@ -20,7 +20,7 @@ Written Notification.—(1) Each member who becomes entitled to educational assi
 
 (d)
 
-Bar From Dual Eligibility.—A member who qualifies for educational assistance underthis chapter may not receive credit for such service under both the program established by chapter 30 of title 38 and the program established by this chapter but shall make an irrevocable election (in such form and manner as the Secretary of Veterans Affairs may prescribe) as to the program to which such service is to be credited.
+Bar From Dual Eligibility.—A member who qualifies for educational assistance under this chapter may not receive credit for such service under both the program established by chapter 30 of title 38 and the program established by this chapter but shall make an irrevocable election (in such form and manner as the Secretary of Veterans Affairs may prescribe) as to the program to which such service is to be credited.
 
 (e)
 
@@ -36,11 +36,11 @@ The Hostage Relief Act of 1980, referred to in subsec. (e)(1), is Pub. L. 96–4
 
 #### Amendments
 
-2009—Subsec. (e)(1). Pub. L. 111–84 substituted “such program” for “such programs”.
+<b>2009</b>—Subsec. (e)(1). Pub. L. 111–84 substituted “such program” for “such programs”.
 
-2008—Subsec. (e)(1). Pub. L. 110–252 inserted “33,” after “32,”.
+<b>2008</b>—Subsec. (e)(1). Pub. L. 110–252 inserted “33,” after “32,”.
 
-2006—Subsec. (e)(1). Pub. L. 109–163 substituted “Secretary of Veterans Affairs” for “Secretary concerned”.
+<b>2006</b>—Subsec. (e)(1). Pub. L. 109–163 substituted “Secretary of Veterans Affairs” for “Secretary concerned”.
 
 #### Effective Date of 2008 Amendment
 

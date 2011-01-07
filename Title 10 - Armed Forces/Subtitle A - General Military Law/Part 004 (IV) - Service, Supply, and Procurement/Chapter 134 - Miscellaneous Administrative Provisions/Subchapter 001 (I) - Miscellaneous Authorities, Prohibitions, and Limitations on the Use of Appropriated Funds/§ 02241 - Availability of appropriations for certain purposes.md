@@ -40,7 +40,7 @@ Section 705 of Public Law 98–212, to be codified as 10 U.S.C. 2241(b), provide
 
 #### Amendments
 
-2003—Subsec. (c). Pub. L. 108–136 added subsec. (c).
+<b>2003</b>—Subsec. (c). Pub. L. 108–136 added subsec. (c).
 
 #### Limitation on Source of Funds for Certain Joint Cargo Aircraft Expenditures
 
@@ -52,7 +52,7 @@ Limitation.—Of the amounts appropriated pursuant to an authorization of approp
 
 “(b)
 
-Relevant Expenditures for the Joint Cargo Aircraft Defined.—In this section, the term ‘relevant expenditures for the Joint Cargo Aircraft’ means expenditures relating to—
+Relevant Expenditures for the Joint Cargo Aircraft Defined.—In this section, the term ‘relevantexpenditures for the Joint Cargo Aircraft’ means expenditures relating to—
 
 &emsp;“(1) support equipment;
 
@@ -264,7 +264,7 @@ Pub. L. 101–511, title VIII, §8080, Nov. 5, 1990, 104 Stat. 1893, provided th
 
 &emsp;“(2) on September 30th of the 5th fiscal year after the period of availability of an appropriation account of the Department of Defense available for obligation for a definite period ends or has ended, with respect to those accounts which, upon the date of enactment of this section have expired for obligation but whose obligated balances have not been transferred pursuant to the provisions of section 1552(a)(1) of title 31, United States Code; and
 
-&emsp;“(3) with respect to any appropriation account made available to the Department of Defense for an indefinite period against which no obligations havebeen made for two consecutive years and upon a determination by the Secretary of Defense or the President that the purposes of such indefinite appropriation have been carried out,
+&emsp;“(3) with respect to any appropriation account made available to the Department of Defense for an indefinite period against which no obligations have been made for two consecutive years and upon a determination by the Secretary of Defense or the President that the purposes of such indefinite appropriation have been carried out,
 
 > any remaining obligated or unobligated balance of such accounts are closed and thereafter shall not be available for obligation or expenditure for any purpose: <i>Provided</i>, That collections authorized to be credited to an account which were not credited to the account before it was closed shall be deposited in the Treasury as miscellaneous receipts: <i>Provided further</i>, That, without prior action by the Comptroller General but without relieving the Comptroller General of the duty to make decisions under any law or to settle claims and accounts, when an account is closed (including accounts covered by subsection (a) of this section) and currently applicable appropriations of the Department of Defense are not chargeable, obligations and adjustments to obligations that would have been chargeable to an account prior to closing, may be chargeable to currently applicable appropriations of the Department of Defense available for the same purpose in amounts equal to one percent of the total appropriation for the current account or the amount of the original appropriation, whichever is less: <i>Provided further</i>, That after the end of the period of availability of an appropriation account available for a definite period and before closing of that account under this section such account shall be available for recording, adjusting, and liquidating obligations properly chargeable to such account in amounts not to exceed the unobligated expired balances of such appropriation: <i>Provided further</i>, That with respect to a change to a contract under which the contractor is required to perform additional work, other than adjustments to pay claims or increases under an escalation clause (hereinafter referred to as a contract change), if such a charge for such a contract change with respect to a program, project or activity would cause the total amount of such obligations to exceed $4,000,000 in any single fiscal year for a program, project, or activity, the obligation may only be made if the obligation is approved by the Secretary of Defense or, if such a change would cause the total amount of such obligations to exceed $25,000,000 in any single fiscal year for a program, project or activity, the obligation may be made only after 30 days have elapsed after the Secretary of Defense submits to the Committees on Appropriations and Armed Services of the Senate and the House of Representatives a notice of the intention to obligate such funds, together with the legal basis and the policy reasons for making such an obligation.
 

@@ -12,7 +12,7 @@ The President shall study the desirability of entering into trade agreements wit
 
 #### Amendments
 
-1979—Pub. L. 96–39 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1979</b>—Pub. L. 96–39 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1979 Amendment
 

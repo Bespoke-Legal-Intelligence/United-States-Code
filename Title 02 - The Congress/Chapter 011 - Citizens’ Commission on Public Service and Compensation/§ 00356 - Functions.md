@@ -6,7 +6,7 @@ The Commission shall conduct, in each of the respective fiscal years referred to
 
 &emsp;(B) offices and positions in the legislative branch referred to in subsections (a), (b), (c), and (d) of section 203 of the Federal Legislative Salary Act of 1964 (78 Stat. 415; Public Law 88–426);
 
-&emsp;(C) justices, judges, and other personnel in the judicial branch referred to in section 403 ofthe Federal Judicial Salary Act of 1964 (78 Stat. 434; Public Law 88–426) except bankruptcy judges, but including the judges of the United States Court of Federal Claims;
+&emsp;(C) justices, judges, and other personnel in the judicial branch referred to in section 403 of the Federal Judicial Salary Act of 1964 (78 Stat. 434; Public Law 88–426) except bankruptcy judges, but including the judges of the United States Court of Federal Claims;
 
 &emsp;(D) offices and positions under the Executive Schedule in subchapter II of chapter 53 of title 5; and
 
@@ -68,5 +68,5 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 #### Effective Rates of Pay Pending Changes in Rates Pursuant to Federal Salary Act of 1967
 
-Section 206(b) of Pub. L. 94–82 provided that: “Until such time as a change in the rate of pay of the offices referred to in the amendment made by subsection (a) of this section \[amending par. (A) of this section\] occurs under the provisions of the Federal Salary Act of 1967\(2 U.S.C. 351–361), as amended by subsection (a) of this section, such rates of pay shall be the rates of pay in effect immediately prior to the date of enactment of this Act \[Aug. 9, 1975\], as adjusted under sections 203 and 204 of this title \[amending sections 31, 60a note, 136a and 136a–1 of this title, section 104 of Title 3, The President, sections 42a and 51a of former Title 31, Money and Finance, sections 162a and 166b of former Title 40, Public Buildings, Property, and Works, and section 303 of Title 44, Public Printing and Documents\].”
+Section 206(b) of Pub. L. 94–82 provided that: “Until such time as a change in the rate of pay of the offices referred to in the amendment made by subsection (a) of this section \[amending par. (A) of this section\] occurs under the provisions of the Federal Salary Act of 1967 (2 U.S.C. 351–361), as amended by subsection (a) of this section, such rates of pay shall be the rates of pay in effect immediately prior to the date of enactment of this Act \[Aug. 9, 1975\], as adjusted under sections 203 and 204 of this title \[amending sections 31, 60a note, 136a and 136a–1 of this title, section 104 of Title 3, The President, sections 42a and 51a of former Title 31, Money and Finance, sections 162a and 166b of formerTitle 40, Public Buildings, Property, and Works, and section 303 of Title 44, Public Printing and Documents\].”
 

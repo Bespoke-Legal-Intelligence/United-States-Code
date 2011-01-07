@@ -24,9 +24,11 @@
 
 #### Amendments
 
-2009—Pub. L. 111–84, div. C, title XXXV, §3503(b)(1), Oct. 28, 2009, 123 Stat. 2719, added item 51317.
+<b>2011</b>—Pub. L. 111–383, div. A, title X, §1075(d)(25), Jan. 7, 2011, 124 Stat. 4374, amended Pub. L. 111–84, §3503(b)(1). See 2009 Amendment note below.
 
-2008—Pub. L. 110–417, div. C, title XXXV, §3506(g)(2), (h)(2), Oct. 14, 2008, 122 Stat. 4765, added items 51315 and 51316.
+<b>2009</b>—Pub. L. 111–84, div. C, title XXXV, §3503(b)(1), Oct. 28, 2009, 123 Stat. 2719, as amended by Pub. L. 111–383, div. A, title X, §1075(d)(25), Jan. 7, 2011, 124 Stat. 4374, added item 51317.
+
+<b>2008</b>—Pub. L. 110–417, div. C, title XXXV, §3506(g)(2), (h)(2), Oct. 14, 2008, 122 Stat. 4765, added items 51315 and 51316.
 
 Pub. L. 110–181, div. C, title XXXV, §3523(a)(1), Jan. 28, 2008, 122 Stat. 598, substituted “Navy Reserve” for “Naval Reserve” in item 51311.
 

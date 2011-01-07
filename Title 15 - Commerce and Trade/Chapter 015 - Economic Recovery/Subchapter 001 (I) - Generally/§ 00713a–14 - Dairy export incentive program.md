@@ -38,7 +38,7 @@ The program shall be operated under such rules and regulations issued by the Sec
 
 #### (e) Payment rates; publication in Federal Register or other public announcement
 
-(1) The payments made under the program shall be made at a rate or rates established or approved by the Secretary, taking into consideration, among other things the type of product to be exported, the domestic price of dairy products, the world price of the dairy products, and any additional amount that may be required to assist in the development of world markets for United States dairy products.
+(1) The payments made under the program shall be made at a rate or rates established orapproved by the Secretary, taking into consideration, among other things the type of product to be exported, the domestic price of dairy products, the world price of the dairy products, and any additional amount that may be required to assist in the development of world markets for United States dairy products.
 
 (2) Any such rate established or approved by the Secretary shall be published in the Federal Register or publicly announced through other appropriate means, and shall be at a level or levels as will encourage the exportation of United States dairy products by entities.
 
@@ -46,7 +46,7 @@ The program shall be operated under such rules and regulations issued by the Sec
 
 #### (1) Funds and commodities
 
-&emsp;Except as provided in paragraph (2), the Commodity Credit Corporation shall in eachyear use money and commodities for the program under this section in the maximum amount consistent with the obligations of the United States under the Uruguay Round Agreements approved under section 3511 of title 19, minus the amount expended under section 1163 of this Act during that year.
+&emsp;Except as provided in paragraph (2), the Commodity Credit Corporation shall in each year use money and commodities for the program under this section in the maximum amount consistent with the obligations of the United States under the Uruguay Round Agreements approved under section 3511 of title 19, minus the amount expended under section 1163 of this Act during that year.
 
 #### (2) Volume limitations
 
@@ -64,15 +64,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §1503(a), substituted “2012” for “2007”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §1503(a), substituted “2012” for “2007”.
 
 Subsec. (c)(3). Pub. L. 110–246, §1503(b)(1), added par. (3) and struck out former par. (3) which read as follows: “the maximum volume of dairy product exports allowable consistent with the obligations of the United States as a member of the World Trade Organization is exported under the program each year (minus the volume sold under section 1163 of the Food Security Act of 1985 (Public Law 99–198; 7 U.S.C. 1731 note) during that year), except to the extent that the export of such a volume under the program would, in the judgment of the Secretary, exceed the limitations on the value set forth in subsection (f) of this section; and”
 
 Subsec. (f)(1). Pub. L. 110–246, §1503(b)(2), added par. (1) and struck out former par. (1). Text read as follows: “Except as provided in paragraph (2), the Commodity Credit Corporation shall in each year use money and commodities for the program under this section in the maximum amount consistent with the obligations of the United States as a member of the World Trade Organization, minus the amount expended under section 1163 of the Food Security Act of 1985 (Public Law 99–198; 7 U.S.C. 1731 note) during that year.”
 
-2002—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”.
 
-1996—Subsec. (a). Pub. L. 104–127, §148(a), substituted “2002” for “2001”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–127, §148(a), substituted “2002” for “2001”.
 
 Subsec. (b). Pub. L. 104–127, §148(b), inserted “sole” before “discretion”.
 
@@ -82,11 +82,11 @@ Subsec. (e)(1). Pub. L. 104–127, §148(d), substituted “the world price” f
 
 Subsec. (f). Pub. L. 104–127, §148(e), added subsec. (f).
 
-1994—Subsec. (a). Pub. L. 103–465 substituted “2001” for “1995”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–465 substituted “2001” for “1995”.
 
-1990—Subsec. (a). Pub. L. 101–624 substituted “December 31, 1995” for “September 30, 1990”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–624 substituted “December 31, 1995” for “September 30, 1990”.
 
-1988—Subsec. (a). Pub. L. 100–435 substituted “1990” for “1989”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–435 substituted “1990” for “1989”.
 
 Subsec. (d)(2), (3). Pub. L. 100–418 amended pars. (2) and (3) generally. Prior to amendment pars. (2) and (3) read as follows:
 

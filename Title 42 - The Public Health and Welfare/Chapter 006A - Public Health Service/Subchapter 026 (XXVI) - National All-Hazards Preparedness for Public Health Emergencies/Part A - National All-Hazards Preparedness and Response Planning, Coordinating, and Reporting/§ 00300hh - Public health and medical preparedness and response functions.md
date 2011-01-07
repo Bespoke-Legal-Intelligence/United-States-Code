@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Health and Human Services shall lead all Federal public health and medical response to public health emergencies and incidents covered by the National Response Plan developed pursuant to section 314(6) <sup>1</sup> of title 6, or any successor plan.
+The Secretary of Health and Human Services shall lead all Federal public health and medicalresponse to public health emergencies and incidents covered by the National Response Plan developed pursuant to section 314(6) <sup>1</sup> of title 6, or any successor plan.
 
 #### (b) Interagency agreement
 
@@ -16,7 +16,7 @@ Section 314(6) of title 6, referred to in subsec. (a), was in the original “se
 
 #### Amendments
 
-2006—Pub. L. 109–417 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to a national preparedness plan for carrying out health-related activities to prepare for and respond effectively to bioterrorism and other public health emergencies.
+<b>2006</b>—Pub. L. 109–417 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to a national preparedness plan for carrying out health-related activities to prepare for and respond effectively to bioterrorism and other public health emergencies.
 
 #### Government Accountability Office Report
 

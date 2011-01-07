@@ -10,7 +10,7 @@ Based on 44 U.S. Code, 1964 ed., §117 (Jan. 12, 1895, ch. 23, §93, 28 Stat. 62
 
 #### Amendments
 
-1982—Pub. L. 97–164 struck out the Court of Claims from the enumeration of entities for which printing or binding may be done for the public service and struck out the chief judge of the Court of Claims from the enumeration of officials who make requisitions upon the Public Printer for printing or binding.
+<b>1982</b>—Pub. L. 97–164 struck out the Court of Claims from the enumeration of entities for which printing or binding may be done for the public service and struck out the chief judge of the Court of Claims from the enumeration of officials who make requisitions upon the Public Printer for printing or binding.
 
 #### Effective Date of 1982 Amendment
 

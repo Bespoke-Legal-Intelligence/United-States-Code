@@ -50,9 +50,9 @@ A prior section 2102 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-2003—Subsec. (a)(7). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
+<b>2003</b>—Subsec. (a)(7). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
 
-1992—Subsec. (a)(1), (3), (6), (7). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Subsec. (a)(1), (3), (6), (7). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
 #### Grants for Research on Vaccine Against Valley Fever
 

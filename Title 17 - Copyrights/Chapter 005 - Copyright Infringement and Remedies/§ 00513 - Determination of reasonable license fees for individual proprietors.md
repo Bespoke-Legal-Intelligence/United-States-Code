@@ -24,7 +24,7 @@ In the case of any performing rights society subject to a consent decree which p
 
 #### Amendments
 
-1999—Pub. L. 106–44 renumbered section 512 of this title as this section.
+<b>1999</b>—Pub. L. 106–44 renumbered section 512 of this title as this section.
 
 #### Effective Date
 

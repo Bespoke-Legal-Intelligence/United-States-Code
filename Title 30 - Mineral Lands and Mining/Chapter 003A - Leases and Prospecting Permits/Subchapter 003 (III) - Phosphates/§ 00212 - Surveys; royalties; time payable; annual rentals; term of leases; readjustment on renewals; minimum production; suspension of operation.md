@@ -6,5 +6,5 @@ Each lease shall describe the leased lands by the legal subdivisions of the publ
 
 #### Amendments
 
-1948—Act June 3, 1948, amended section generally, omitting provisions relating to amount of lands in lease, and inserting provisions regarding royalties.
+<b>1948</b>—Act June 3, 1948, amended section generally, omitting provisions relating to amount of lands in lease, and inserting provisions regarding royalties.
 

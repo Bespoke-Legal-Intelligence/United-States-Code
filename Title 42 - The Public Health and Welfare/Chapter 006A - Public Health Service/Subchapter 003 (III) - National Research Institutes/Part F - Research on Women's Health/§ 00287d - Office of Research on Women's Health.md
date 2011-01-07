@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established within the Office of the Director of NIH an office to be known as the Office of Research on Women's Health (in this part referred to as the “Office”). The Office shall be headed by a director, who shall be appointed by the Director of NIH.
+There is established within the Office of the Director of NIH an office to be known as the Office of Research on Women's Health (in this part referred to as the “Office”). The Office shall be headed by a director, who shall be appointed by the Director of NIH and who shall report directly to the Director.
 
 #### (b) Purpose
 
@@ -86,7 +86,7 @@ The Director of the Office shall—
 
 #### (e) Representation of women among researchers
 
-The Secretary, acting through the Assistant Secretary for Personnel and in collaboration with the Director of the Office, shall determine the extent to which women are representedamong senior physicians and scientists of the national research institutes and among physicians and scientists conducting research with funds provided by such institutes, and as appropriate, carry out activities to increase the extent of such representation.
+The Secretary, acting through the Assistant Secretary for Personnel and in collaboration with the Director of the Office, shall determine the extent to which women are represented among senior physicians and scientists of the national research institutes and among physicians and scientists conducting research with funds provided by such institutes, and as appropriate, carry out activities to increase the extent of such representation.
 
 #### (f) Definitions
 
@@ -98,15 +98,17 @@ For purposes of this part:
 
 &emsp;&emsp;(B) for which the factors of medical risk or types of medical intervention are different for women, or for which it is unknown whether such factors or types are different for women; or
 
-&emsp;&emsp;(C) with respect to which there has been insufficient clinical research involving women as subjects or insufficient clinical data on women.
+&emsp;&emsp;(C) with respect to which there has been insufficient clinical research involvingwomen as subjects or insufficient clinical data on women.
 
 &emsp;(2) The term “research on women's health” means research on women's health conditions, including research on preventing such conditions.
 
-(July 1, 1944, ch. 373, title IV, §486, as added Pub. L. 103–43, title I, §141(a)(3), June 10, 1993, 107 Stat. 136; amended Pub. L. 105–340, title I, §106, Oct. 31, 1998, 112 Stat. 3193.)
+(July 1, 1944, ch. 373, title IV, §486, as added Pub. L. 103–43, title I, §141(a)(3), June 10, 1993, 107 Stat. 136; amended Pub. L. 105–340, title I, §106, Oct. 31, 1998, 112 Stat. 3193; Pub. L. 111–148, title III, §3509(c), Mar. 23, 2010, 124 Stat. 534.)
 
 #### Amendments
 
-1998—Subsec. (d)(2). Pub. L. 105–340 substituted “NIH” for “the Office”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–148 inserted “and who shall report directly to the Director” before period at end.
+
+<b>1998</b>—Subsec. (d)(2). Pub. L. 105–340 substituted “NIH” for “the Office”.
 
 #### Termination of Advisory Committees
 

@@ -1,20 +1,38 @@
 ### §1693p. Reports to Congress
 
-(a) Not later than twelve months after the effective date of this subchapter and at one-year intervals thereafter, the Board shall make reports to the Congress concerning the administration of its functions under this subchapter, including such recommendations as the Board deems necessary and appropriate. In addition, each report of the Board shall include its assessment of the extent to which compliance with this subchapter is being achieved, and a summary of the enforcement actions taken under section 1693<i>o</i> of this title. In such report, the Board shall particularly address the effects of this subchapter on the costs and benefits to financial institutions and consumers, on competition, on the introduction of new technology, onthe operations of financial institutions, and on the adequacy of consumer protection.
+(a) Not later than twelve months after the effective date of this subchapter and at one-year intervals thereafter, the Board shall make reports to the Congress concerning the administration of its functions under this subchapter, including such recommendations as the Board deems necessary and appropriate. In addition, each report of the Board shall include its assessment of the extent to which compliance with this subchapter is being achieved, and a summary of the enforcement actions taken under section 1693<i>o</i> <sup>1</sup> of this title. In such report, the Board shall particularly address the effects of this subchapter on the costs and benefits to financial institutions and consumers, on competition, on the introduction of new technology, on the operations of financial institutions, and on the adequacy of consumer protection.
 
 (b) In the exercise of its functions under this subchapter, the Board may obtain upon request the views of any other Federal agency which, in the judgment of the Board, exercises regulatory or supervisory functions with respect to any class of persons subject to this subchapter.
 
-(Pub. L. 90–321, title IX, §918, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3740; amended Pub. L. 97–375, title II, §209(a), Dec. 21, 1982, 96 Stat. 1825.)
+(Pub. L. 90–321, title IX, §921, formerly §918, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3740; amended Pub. L. 97–375, title II, §209(a), Dec. 21, 1982, 96 Stat. 1825; renumbered §919, Pub. L. 111–24, title IV, §401(1), May 22, 2009, 123 Stat. 1751; renumbered §920, renumbered §921, and amended Pub. L. 111–203, title X, §§1073(a)(3), 1075(a)(1), 1084(1), July 21, 2010, 124 Stat. 2060, 2068, 2081.)
 
-#### Renumbering of Section
+#### Amendment of Section
 
-<i>Pub. L. 111–24, title IV, §§401(1), 403, May 22, 2009, 123 Stat. 1751, 1754, provided that, effective 15 months after May 22, 2009, section 918 of Pub. L. 90–321, which is classified to this section, is renumbered section 919 of Pub. L. 90–321.</i>
+<i>Pub. L. 111–203, title X, §§1084(1), 1100H, July 21, 2010, 124 Stat. 2081, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
 For effective date of this subchapter, referred to in subsec. (a), see section 921 of Pub. L. 90–321, set out as an Effective Date note under section 1693 of this title.
 
+Section 1693<i>o</i> of this title, referred to in subsec. (a), was in the original “section 917 of this title”, and was translated as meaning section 918 of title I of Pub. L. 90–321 to reflect the probable intent of Congress and the renumbering of section 917 of title I of Pub. L. 90–321 as section 918 by Pub. L. 111–24, title IV, §401(1), May 22, 2009, 123 Stat. 1751.
+
+#### Codification
+
+Renumbering of section 918 of Pub. L. 90–321 as section 919 by section 401(1) of Pub. L. 111–24 was executed prior to the renumberings of section 919 of Pub. L. 90–321 as section 920 and then as section 921 by sections 1073(a)(3) and 1075(a)(1) of Pub. L. 111–203 as the probable intent of Congress, notwithstanding section 403 of Pub. L. 111–24, set out as an Effective Date note under section 1693<i>l</i>–1 of this title and section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking, which provided that the renumbering by Pub. L. 111–24 was effective 15 months after May 22, 2009, and the renumberings by Pub. L. 111–203 were effective 1 day after July 21, 2010.
+
+#### Prior Provisions
+
+Two prior sections 921 of Pub. L. 90–321 were renumbered section 922 and are classified to sections 1693q and 1693r of this title.
+
+Another prior section 921 of Pub. L. 90–321 was renumbered section 923 and is classified as an Effective Date note under section 1693 of this title.
+
 #### Amendments
 
-1982—Subsec. (a). Pub. L. 97–375 struck out requirement that the Attorney General make a report on the same terms as the Board, and that such report also contain an analysis of the impact of this subchapter on the operation, workload, and efficiency of the Federal courts, and substituted “necessary and appropriate” for “necessary or appropriate”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–375 struck out requirement that the Attorney General make a report on the same terms as the Board, and that such report also contain an analysis of the impact of this subchapter on the operation, workload, and efficiency of the Federal courts, and substituted “necessary and appropriate” for “necessary or appropriate”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 1084(1) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

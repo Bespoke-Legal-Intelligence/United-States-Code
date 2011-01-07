@@ -6,7 +6,7 @@ Withholding of Apportionments for Noncompliance.—
 
 &emsp;(1)
 
-Beginning in fiscal year 1994.—For each fiscal year the Secretary shall withhold 5 percent of the amount required to be apportioned to any State under each of paragraphs (1), (3), and (5) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century) of section 104(b) on the first day of each fiscal year which begins after the second calendar year following the effective date of this section if the State doesnot meet the requirements of paragraph (3) on such date.
+Beginning in fiscal year 1994.—For each fiscal year the Secretary shall withhold 5 percent of the amount required to be apportioned to any State under each of paragraphs (1), (3), and (5) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century) of section 104(b) on the first day of each fiscal year which begins after the second calendar year following the effective date of this section if the State does not meet the requirements of paragraph (3) on such date.
 
 &emsp;(2)
 
@@ -62,7 +62,7 @@ Apportionment of withheld funds after compliance.—If, before the last day of t
 
 Period of availability of subsequently apportioned funds.—Any funds apportioned pursuant to paragraph (2) shall remain available for expenditure as follows:
 
-&emsp;&emsp;(A) Funds which would have been originally apportioned under section 104(b)(5)(A) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century) shall remain available until the end of the fiscal year succeeding the fiscal year in which such funds are apportioned under paragraph (2).
+&emsp;&emsp;(A) Funds which would have been originally apportioned under section 104(b)(5)(A)\(as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century) shall remain available until the end of the fiscal year succeeding the fiscal year in which such funds are apportioned under paragraph (2).
 
 &emsp;&emsp;(B) Funds which would have been originally apportioned under paragraph (1), (3), or (5)(B) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century) of section 104(b) shall remain available until the end of the third fiscal year succeeding the fiscal year in which such funds are so apportioned.
 
@@ -70,7 +70,7 @@ Period of availability of subsequently apportioned funds.—Any funds apportione
 
 &emsp;(4)
 
-Effect of noncompliance.—If, at the end of the period for which funds withheld under subsection (a) from apportionment are available for apportionment to a State under paragraph (1), the State does not meet the requirements of subsection (a)(3), such funds shalllapse or, in the case of funds withheld from apportionment under section 104(b)(5) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century), such funds shall lapse and be made available by the Secretary for projects in accordance with section 118(b).
+Effect of noncompliance.—If, at the end of the period for which funds withheld under subsection (a) from apportionment are available for apportionment to a State under paragraph (1), the State does not meet the requirements of subsection (a)(3), such funds shall lapse or, in the case of funds withheld from apportionment under section 104(b)(5) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century), such funds shall lapse and be made available by the Secretary for projects in accordance with section 118(b).
 
 (c)
 
@@ -104,7 +104,7 @@ The Controlled Substances Act, referred to in subsecs. (a)(3)(A)(i)(I) and (c)(2
 
 #### Amendments
 
-1998—Subsec. (a)(1), (2). Pub. L. 105–178, §1103(<i>l</i>)(3)(E)(i), substituted “(5) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century) of” for “(5) of” before “section 104(b)”.
+<b>1998</b>—Subsec. (a)(1), (2). Pub. L. 105–178, §1103(<i>l</i>)(3)(E)(i), substituted “(5) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century) of” for “(5) of” before “section 104(b)”.
 
 Subsec. (b)(1)(A)(i). Pub. L. 105–178, §1103(<i>l</i>)(3)(E)(ii)(I), substituted “section 104(b)(5)(A) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century)” for “section 104(b)(5)(A)”.
 
@@ -120,7 +120,7 @@ Subsec. (b)(3)(B). Pub. L. 105–178, §1103(<i>l</i>)(3)(E)(ii)(III), substitut
 
 Subsec. (b)(4). Pub. L. 105–178, §1103(<i>l</i>)(3)(E)(ii)(IV), substituted “section 104(b)(5) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century)” for “section 104(b)(5)”.
 
-1992—Pub. L. 102–388 amended section generally, substituting “Beginning in fiscal year 1994” for “After second calendar year” as subsec. (a)(1) heading, “paragraphs (1), (3), and (5)” for “paragraphs (1), (2), (5), and (6)” in subsec. (a)(1) and (2), “Beginning in fiscal year 1996” for “After fourth calendar year” as subsec. (a)(2) heading, “paragraph (1), (3), or (5)” for “paragraph (1), (2), or (6)” in subsec. (b)(1)(A)(iii), and “paragraph (1), (3), or (5)(B)” for “paragraph (1), (2), (5)(B), or (6)” in subsec. (b)(3)(B).
+<b>1992</b>—Pub. L. 102–388 amended section generally, substituting “Beginning in fiscal year 1994” for “After second calendar year” as subsec. (a)(1) heading, “paragraphs (1), (3), and (5)” for “paragraphs (1), (2), (5), and (6)” in subsec. (a)(1) and (2), “Beginning in fiscal year 1996” for “After fourth calendar year” as subsec. (a)(2) heading, “paragraph (1), (3), or (5)” for “paragraph (1), (2), or (6)” in subsec. (b)(1)(A)(iii), and “paragraph (1), (3), or (5)(B)” for “paragraph (1), (2), (5)(B), or (6)” in subsec. (b)(3)(B).
 
 #### Effective Date of 1992 Amendment
 

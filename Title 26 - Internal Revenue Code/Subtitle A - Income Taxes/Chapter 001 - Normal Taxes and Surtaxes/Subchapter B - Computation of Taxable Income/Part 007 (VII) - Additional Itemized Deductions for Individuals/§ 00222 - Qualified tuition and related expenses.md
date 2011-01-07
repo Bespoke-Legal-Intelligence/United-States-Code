@@ -94,9 +94,9 @@ For purposes of this section—
 
 #### (e) Termination
 
-This section shall not apply to taxable years beginning after December 31, 2009.
+This section shall not apply to taxable years beginning after December 31, 2011.
 
-(Added Pub. L. 107–16, title IV, §431(a), June 7, 2001, 115 Stat. 66; amended Pub. L. 108–357, title I, §102(d)(3), Oct. 22, 2004, 118 Stat. 1429; Pub. L. 109–432, div. A, title I, §101(a), (b), Dec. 20, 2006, 120 Stat. 2933; Pub. L. 110–343, div. C, title II, §202(a), Oct. 3, 2008, 122 Stat. 3864.)
+(Added Pub. L. 107–16, title IV, §431(a), June 7, 2001, 115 Stat. 66; amended Pub. L. 108–357, title I, §102(d)(3), Oct. 22, 2004, 118 Stat. 1429; Pub. L. 109–432, div. A, title I, §101(a), (b), Dec. 20, 2006, 120 Stat. 2933; Pub. L. 110–343, div. C, title II, §202(a), Oct. 3, 2008, 122 Stat. 3864; Pub. L. 111–312, title VII, §724(a), Dec. 17, 2010, 124 Stat. 3316.)
 
 #### Termination of Section
 
@@ -110,13 +110,19 @@ Another prior section 222, added Pub. L. 97–34, title I, §125(a), Aug. 13, 19
 
 #### Amendments
 
-2008—Subsec. (e). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2007”.
+<b>2010</b>—Subsec. (e). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”.
 
-2006—Subsec. (b)(2)(B). Pub. L. 109–432, §101(b), substituted “After 2003” for “2004 and 2005” in heading and “any taxable year beginning after 2003” for “a taxableyear beginning in 2004 or 2005” in introductory provisions.
+<b>2008</b>—Subsec. (e). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2007”.
+
+<b>2006</b>—Subsec. (b)(2)(B). Pub. L. 109–432, §101(b), substituted “After 2003” for “2004 and 2005” in heading and “any taxable year beginning after 2003” for “a taxable year beginning in 2004 or 2005” in introductory provisions.
 
 Subsec. (e). Pub. L. 109–432, §101(a), substituted “2007” for “2005”.
 
-2004—Subsec. (b)(2)(C)(i). Pub. L. 108–357 inserted “199,” before “911”.
+<b>2004</b>—Subsec. (b)(2)(C)(i). Pub. L. 108–357 inserted “199,” before “911”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–312, title VII, §724(b), Dec. 17, 2010, 124 Stat. 3316, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009.”
 
 #### Effective Date of 2008 Amendment
 
@@ -134,5 +140,5 @@ Amendment by Pub. L. 108–357 applicable to taxable years beginning after Dec. 
 
 Section applicable to payments made in taxable years beginning after Dec. 31, 2001, see section 431(d) of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 62 of this title.
 
-Section inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if it had never been enacted, see section 901 of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
+Section inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if it had never been enacted, see section 901 of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
 

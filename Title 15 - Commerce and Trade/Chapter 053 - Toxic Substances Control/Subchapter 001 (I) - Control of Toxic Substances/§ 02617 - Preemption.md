@@ -12,7 +12,7 @@
 
 #### (b) Exemption
 
-Upon application of a State or political subdivision of a State the Administrator may by rule exempt from subsection (a)(2) of this section, under such conditions as may be prescribed in such rule, a requirement of such State or political subdivision designed to protect against a risk of injury to health or the environment associated with a chemical substance, mixture, or article containing a chemical substance or mixture if—
+Upon application of a State or political subdivision of a State the Administrator may by rule exempt from subsection (a)(2) of this section, under such conditions as may be prescribedin such rule, a requirement of such State or political subdivision designed to protect against a risk of injury to health or the environment associated with a chemical substance, mixture, or article containing a chemical substance or mixture if—
 
 &emsp;(1) compliance with the requirement would not cause the manufacturing, processing, distribution in commerce, or use of the substance, mixture, or article to be in violation of the applicable requirement under this chapter described in subsection (a)(2) of this section, and
 

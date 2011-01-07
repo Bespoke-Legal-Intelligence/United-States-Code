@@ -10,7 +10,7 @@ The Secretary of Commerce shall direct the United States and Foreign Commercial 
 
 #### (b) Report
 
-The Secretary of Commerce shall submit to the appropriate congressional committees an annual report on the implementation of this section for each of the fiscal years 2008 through 2012.
+The Secretary of Commerce shall submit to the appropriate congressional committees anannual report on the implementation of this section for each of the fiscal years 2008 through 2012.
 
 #### (c) Authorization of appropriations
 

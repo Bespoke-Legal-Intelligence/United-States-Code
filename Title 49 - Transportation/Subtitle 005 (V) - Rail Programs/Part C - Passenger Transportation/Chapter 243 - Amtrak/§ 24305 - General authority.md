@@ -206,13 +206,13 @@ In subsection (f)(4)(A)(i), the words “imposing” and “with respect to such
 
 #### Amendments
 
-1997—Subsec. (a)(3). Pub. L. 105–134, §107(a), added par. (3).
+<b>1997</b>—Subsec. (a)(3). Pub. L. 105–134, §107(a), added par. (3).
 
 Subsec. (d)(3). Pub. L. 105–134, §107(b), added par. (3).
 
 #### Amtrak Security Evaluation and Development of Procedures for Firearm Storage and Carriage in Checked Baggage Cars and Stations
 
-Pub. L. 111–117, div. A, title I, §159, Dec. 16, 2009, 123 Stat. 3061, provided that:
+Pub. L. 111–117, div. A, title I, §159, Dec. 16, 2009, 123 Stat. 3061, as amended by Pub. L. 111–212, title III, §3009, July 29, 2010, 124 Stat. 2340, provided that:
 
 “(a)
 
@@ -254,9 +254,9 @@ Scope.—The guidance and procedures developed under paragraph (1) shall—
 
 &emsp;&emsp;“(C) include any other measures needed to ensure the safety and security of Amtrak employees, passengers, and infrastructure, including—
 
-&emsp;&emsp;&emsp;“(i) in fiber, wood, or metal boxes; or \[sic\]
+&emsp;&emsp;&emsp;“(i) requiring inspections of any container containing a firearm or ammunition; and
 
-&emsp;&emsp;&emsp;“(ii) in other packaging specifically designed to carry small amounts of ammunition; and \[sic\]
+&emsp;&emsp;&emsp;“(ii) the temporary suspension of firearm carriage service if credible intelligence information indicates a threat related to the national rail system or specific routes or trains.
 
 “(c)
 

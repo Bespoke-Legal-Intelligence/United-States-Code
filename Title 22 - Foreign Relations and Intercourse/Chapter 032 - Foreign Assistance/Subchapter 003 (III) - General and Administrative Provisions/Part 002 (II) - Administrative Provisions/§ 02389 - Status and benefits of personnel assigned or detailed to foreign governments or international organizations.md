@@ -18,11 +18,11 @@ Section 2384(d) of this title, referred to in subsec. (b), was repealed by Pub. 
 
 #### Amendments
 
-1980—Subsec. (b). Pub. L. 96–465 substituted “section 4085 of this title” for “section 1131 of this title”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–465 substituted “section 4085 of this title” for “section 1131 of this title”.
 
-1967—Subsec. (b). Pub. L. 90–137 substituted reference to section 5536 of title 5 for former section 70 of title 5.
+<b>1967</b>—Subsec. (b). Pub. L. 90–137 substituted reference to section 5536 of title 5 for former section 70 of title 5.
 
-1962—Subsec. (b). Pub. L. 87–565 substituted “2384(d)” for “2384(e)”.
+<b>1962</b>—Subsec. (b). Pub. L. 87–565 substituted “2384(d)” for “2384(e)”.
 
 #### Effective Date of 1980 Amendment
 

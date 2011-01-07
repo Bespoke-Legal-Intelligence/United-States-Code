@@ -6,7 +6,7 @@ For purposes of carrying out his responsibilities under this chapter, the Secret
 
 #### (b) Authority of President and Federal Energy Regulatory Commission
 
-In the case of responsibilities expressly given by this chapter to the President or the FederalEnergy Regulatory Commission, subsection (a) of this section shall be applied as if the references to the Secretary were references to the President or the Federal Energy Regulatory Commission, as the case may be.
+In the case of responsibilities expressly given by this chapter to the President or the Federal Energy Regulatory Commission, subsection (a) of this section shall be applied as if the references to the Secretary were references to the President or the Federal Energy Regulatory Commission, as the case may be.
 
 #### (c) Natural gas usage by electric utilities
 
@@ -20,13 +20,17 @@ In the case of responsibilities expressly given by this chapter to the President
 
 (Pub. L. 95–620, title VII, §711, Nov. 9, 1978, 92 Stat. 3332; Pub. L. 97–35, title X, §1021(b), Aug. 13, 1981, 95 Stat. 615; Pub. L. 100–42, §1(c)(17), May 21, 1987, 101 Stat. 313; Pub. L. 104–66, title I, §1051(e), Dec. 21, 1995, 109 Stat. 716.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
+
 #### Amendments
 
-1995—Subsec. (c)(2). Pub. L. 104–66 struck out par. (2) which read as follows: “The Secretary shall include in each annual report to the Congress under section 8482 of this title a summary of information received by the Secretary under this subsection.”
+<b>1995</b>—Subsec. (c)(2). Pub. L. 104–66 struck out par. (2) which read as follows: “The Secretary shall include in each annual report to the Congress under section 8482 of this title a summary of information received by the Secretary under this subsection.”
 
-1987—Subsec. (a). Pub. L. 100–42 struck out “or major fuel-burning installation” after “powerplant”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–42 struck out “or major fuel-burning installation” after “powerplant”.
 
-1981—Subsec. (c). Pub. L. 97–35 added subsec. (c).
+<b>1981</b>—Subsec. (c). Pub. L. 97–35 added subsec. (c).
 
 #### Effective Date of 1981 Amendment
 

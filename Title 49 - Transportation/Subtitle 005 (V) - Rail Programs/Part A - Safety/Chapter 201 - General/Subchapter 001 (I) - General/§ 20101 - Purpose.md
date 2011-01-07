@@ -84,5 +84,5 @@ Report to congress.—Beginning in 2009, not later than November 1 of each year,
 
 Pub. L. 110–432, div. A, title I, §106, Oct. 16, 2008, 122 Stat. 4859, provided that: “Not later than December 31, 2008, and annually thereafter, the Secretary shall transmit a report to the House of Representatives Committee on Transportation and Infrastructure and the Senate Committee on Commerce, Science, and Transportation on the specific actions taken to implement unmet statutory mandates regarding railroad safety and each open railroad safety recommendation made by the National Transportation Safety Board or the Department's Inspector General.”
 
-\[For definitions of “Secretary”, “railroad”, and “Department”, as used in section 106 of Pub. L. 110–432, setout above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
+\[For definitions of “Secretary”, “railroad”, and “Department”, as used in section 106 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
 

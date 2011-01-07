@@ -14,7 +14,7 @@ The term “wife” means the wife of an individual, but only if she (1) is the 
 
 #### (c) Widow
 
-(1) The term “widow” (except when used in the first sentence of section 402(i) of this title) means the surviving wife of an individual, but only if (A) she is the mother of his son or daughter, (B) she legally adopted his son or daughter while she was married to him and while such son or daughter was under the age of eighteen, (C) he legally adopted her son or daughter while she was married to him and while such son or daughter was under the age of eighteen, (D) she was married to him at the time both of them legally adopted a child under the age of eighteen, (E) except as provided in paragraph (2), she was married to him for a period of not less than nine months immediately prior to the day on which he died, or (F) in the month prior to the month of her marriage to him (i) she was entitled to, or on application therefor and attainment of age 62 in such prior month would have been entitled to, benefits under subsection (b), (e), or (h) of section 402 of this title, (ii) she had attained age eighteen and was entitled to, or on application therefor would have been entitled to, benefits under subsection (d) of such section (subject, however, to section 402(s) of this title), or (iii) she was entitled to, or upon application therefor and attainment of the required age (if any) would have been entitled to, a widow's, child's (after attainment of age 18), or parent's insurance annuity under section 231a of title 45.
+(1) The term “widow” (except when used in the first sentence of section 402(i) of this title) means the surviving wife of an individual, but only if (A) she is the mother of his son or daughter, (B) she legally adopted his son or daughter while she was married to him and while such son or daughter was under the age of eighteen, (C) he legally adopted her son or daughter while she was married to him and while such son or daughter was under the age of eighteen, (D) she was married to him at the time both of them legally adopted a child under the age of eighteen, (E) except as provided in paragraph (2), she wasmarried to him for a period of not less than nine months immediately prior to the day on which he died, or (F) in the month prior to the month of her marriage to him (i) she was entitled to, or on application therefor and attainment of age 62 in such prior month would have been entitled to, benefits under subsection (b), (e), or (h) of section 402 of this title, (ii) she had attained age eighteen and was entitled to, or on application therefor would have been entitled to, benefits under subsection (d) of such section (subject, however, to section 402(s) of this title), or (iii) she was entitled to, or upon application therefor and attainment of the required age (if any) would have been entitled to, a widow's, child's (after attainment of age 18), or parent's insurance annuity under section 231a of title 45.
 
 (2) The requirements of paragraph (1)(E) in connection with the surviving wife of an individual shall be treated as satisfied if—
 
@@ -34,7 +34,7 @@ The term “wife” means the wife of an individual, but only if she (1) is the 
 
 (2) The term “surviving divorced wife” means a woman divorced from an individual who has died, but only if she had been married to the individual for a period of 10 years immediately before the date the divorce became effective.
 
-(3) The term “surviving divorced mother” means a woman divorced from an individual whohas died, but only if (A) she is the mother of his son or daughter, (B) she legally adopted his son or daughter while she was married to him and while such son or daughter was under the age of 18, (C) he legally adopted her son or daughter while she was married to him and while such son or daughter was under the age of 18, or (D) she was married to him at the time both of them legally adopted a child under the age of 18.
+(3) The term “surviving divorced mother” means a woman divorced from an individual who has died, but only if (A) she is the mother of his son or daughter, (B) she legally adopted his son or daughter while she was married to him and while such son or daughter was under the age of 18, (C) he legally adopted her son or daughter while she was married to him and while such son or daughter was under the age of 18, or (D) she was married to him at the time both of them legally adopted a child under the age of 18.
 
 (4) The term “divorced husband” means a man divorced from an individual, but only if he had been married to such individual for a period of 10 years immediately before the date the divorce became effective.
 
@@ -76,7 +76,7 @@ The term “husband” means the husband of an individual, but only if (1) he is
 
 (ii) If such courts would not find that such applicant and such insured individual were validly married at such time, such applicant shall, nevertheless be deemed to be the wife, husband, widow, or widower, as the case may be, of such insured individual if such applicant would, under the laws applied by such courts in determining the devolution of intestate personal property, have the same status with respect to the taking of such property as a wife, husband, widow, or widower of such insured individual.
 
-(B)(i) In any case where under subparagraph (A) an applicant is not (and is not deemed to be) the wife, widow, husband, or widower of a fully or currently insured individual, or where under subsection (b), (c), (d), (f), or (g) of this section such applicant is not the wife, divorced wife, widow, surviving divorced wife, husband, divorced husband, widower, or surviving divorced husband of such individual, but it is established to the satisfaction of the Commissioner of Social Security that such applicant in good faith went through a marriage ceremony with such individual resulting in a purported marriage between them which, but for a legal impediment not known to the applicant at the time of such ceremony, would have been a valid marriage, then, for purposes of subparagraph (A) and subsections (b), (c), (d), (f), and (g) of this section, such purported marriage shall be deemed to be a valid marriage. Notwithstanding the preceding sentence, in the case of any person who would be deemed under the preceding sentence a wife, widow, husband, or widower of the insured individual, such marriage shall not be deemed to be a valid marriage unless the applicant and the insured individual were living in the same household at the time of the death of the insured individual or (if the insured individual is living) at the time the applicant files the application. A marriage that is deemed to be a valid marriage by reason of the preceding sentence shall continue to be deemed a valid marriage if the insured individual and the person entitled to benefits as the wife or husband of the insured individual are no longer living in the same household at the time of the death of such insured individual.
+(B)(i) In any case where under subparagraph (A) an applicant is not (and is not deemed to be) the wife, widow, husband, or widower of a fully or currently insured individual, or where under subsection (b), (c), (d), (f), or (g) of this section such applicant is not the wife, divorced wife, widow, surviving divorced wife, husband, divorced husband, widower, or surviving divorced husband of such individual, but it is establishedto the satisfaction of the Commissioner of Social Security that such applicant in good faith went through a marriage ceremony with such individual resulting in a purported marriage between them which, but for a legal impediment not known to the applicant at the time of such ceremony, would have been a valid marriage, then, for purposes of subparagraph (A) and subsections (b), (c), (d), (f), and (g) of this section, such purported marriage shall be deemed to be a valid marriage. Notwithstanding the preceding sentence, in the case of any person who would be deemed under the preceding sentence a wife, widow, husband, or widower of the insured individual, such marriage shall not be deemed to be a valid marriage unless the applicant and the insured individual were living in the same household at the time of the death of the insured individual or (if the insured individual is living) at the time the applicant files the application. A marriage that is deemed to be a valid marriage by reason of the preceding sentence shall continue to be deemed a valid marriage if the insured individual and the person entitled to benefits as the wife or husband of the insured individual are no longer living in the same household at the time of the death of such insured individual.
 
 (ii) The provisions of clause (i) shall not apply if the Commissioner of Social Security determines, on the basis of information brought to the Commissioner's attention, that such applicant entered into such purported marriage with such insured individual with knowledge that it would not be a valid marriage.
 
@@ -170,7 +170,7 @@ The term “husband” means the husband of an individual, but only if (1) he is
 
 (3) The requirements referred to in clauses (i) and (ii) of paragraph (2)(C) of this subsection are satisfied by an individual with respect to any quarter only if—
 
-&emsp;(A) he would have been a fully insured individual (as defined in section 414 of this title) had he attained age 62 and filed application forbenefits under section 402(a) of this title on the first day of such quarter; and
+&emsp;(A) he would have been a fully insured individual (as defined in section 414 of this title) had he attained age 62 and filed application for benefits under section 402(a) of this title on the first day of such quarter; and
 
 &emsp;(B)(i) he had not less than 20 quarters of coverage during the 40-quarter period which ends with such quarter, or
 
@@ -186,7 +186,7 @@ Where this subchapter, any provision of another law of the United States (other 
 
 #### (k) Waiver of nine-month requirement for widow, stepchild, or widower in case of accidental death or in case of serviceman dying in line of duty, or in case of remarriage to same individual
 
-The requirement in clause (E) of subsection (c)(1) of this section or clause (E) of subsection (g)(1) of this section that the surviving spouse of an individual have been married to such individual for a period of not less than nine months immediately prior to the day on which such individual died in order to qualify as such individual's widow or widower, and the requirement in subsection (e) of this section that the stepchild of a deceased individual have been such stepchild for not less than nine months immediately preceding the day on which such individual died in order to qualify as such individual's child, shall be deemed to be satisfied, where such individual dies within the applicable nine-month period, if—
+The requirement in clause (E) of subsection (c)(1) of this section or clause (E) of subsection (g)(1) of this section that the surviving spouse of an individual have been married to such individual for a period of not less than nine months immediately prior to the day on which such individual died in order to qualify as such individual's widow or widower, and the requirement in subsection (e) of this section that the stepchildof a deceased individual have been such stepchild for not less than nine months immediately preceding the day on which such individual died in order to qualify as such individual's child, shall be deemed to be satisfied, where such individual dies within the applicable nine-month period, if—
 
 &emsp;(1) his death—
 
@@ -224,7 +224,7 @@ The requirement in clause (E) of subsection (c)(1) of this section or clause (E)
 
 &emsp;(B) With respect to an individual who attains early retirement age in the 5-year period consisting of the calendar years 2017 through 2021, the age increase factor shall be equal to two-twelfths of the number of months in the period beginning with January 2017 and ending with December of the year in which the individual attains early retirement age.
 
-(Aug. 14, 1935, ch. 531, title II, §216, as added Aug. 28, 1950, ch. 809, title I, §104(a), 64 Stat. 492, 510; amended July 18, 1952, ch. 945, §3(d), 66 Stat. 771; Sept. 1, 1954, ch. 1206, title I, §106(d), 68 Stat. 1080; Aug. 1, 1956, ch. 836, title I, §§102(a), (d)(12), 103(c)(6), 70 Stat. 809, 815, 818; Pub. L. 85–109, §1, July 17, 1957, 71 Stat. 308; Pub. L. 85–238, §3(h), Aug. 30, 1957, 71 Stat. 519; Pub. L. 85–840, title II, §§201, 203, 204(a), title III, §§301(a)(2), (b)(2), (c)(2), (d), (e), 302(a), 305(b), Aug. 28, 1958, 72 Stat. 1020, 1021, 1026–1028, 1030; Pub. L. 86–778, title II, §§207(a)–(c), 208(a)–(c), title IV, §§402(e), 403(c), title VII, §703, Sept. 13, 1960, 74 Stat. 950–952, 968, 969, 994; Pub. L. 87–64, title I, §§102(b)(2)(D), (c)(1), (2)(B), (3)(C), 105, June 30, 1961, 75 Stat. 134, 135, 139; Pub. L. 88–650, §1(a)–(c), Oct. 13, 1964, 78 Stat. 1075; Pub. L. 89–97, title III, §§303(a)(1), (b)(1), (2), 304(<i>l</i>), 306(c)(13), 308(c), (d)(2)(B), 328(b), 334(a)–(d), 339(a), 344(a), July 30, 1965, 79 Stat. 366, 367, 370, 373, 377, 378, 400, 404, 405, 409, 412; Pub. L. 90–248, title I, §§104(d)(2), 105(a), 111(a), 150(a), 156(a)–(d), 158(d), 172(a), (b), Jan. 2, 1968, 81 Stat. 832, 833, 837, 860, 866, 869, 877; Pub. L. 92–603, title I, §§104(g), 113(a), 115(b), 116(d), 117(a), 118(b), 145(a), Oct. 30, 1972, 86 Stat. 1341, 1347, 1349–1351, 1370; Pub. L. 93–445, title III, §304, Oct. 16, 1974, 88 Stat. 1358; Pub. L. 95–216, title III, §337(a), Dec. 20, 1977, 91 Stat. 1548; Pub. L. 96–265, title III, §§303(b)(2)(B), 306(b), June 9, 1980, 94 Stat. 453, 457; Pub. L. 96–473, §5(a)(2), Oct. 19, 1980, 94 Stat. 2265; Pub. L. 97–35, title XXII, §§2202(a)(2), 2203(b)(2), (c)(2), (d)(3), (4), Aug. 13, 1981, 95 Stat. 835–837; Pub. L. 98–21, title II, §201(a), (c)(1)(D), title III, §§301(c), 303, 304(c), 306(c), 309(j), (k), 332(a), 333(a), Apr. 20, 1983, 97 Stat. 107, 109, 111, 112, 114, 117, 129; Pub. L. 98–369, div. B, title VI, §§2661(<i>l</i>), 2662(c)(1), 2663(a)(11), July 18, 1984, 98 Stat. 1158, 1159, 1164; Pub. L. 98–460, §§2(b), 4(a)(2), Oct. 9, 1984, 98 Stat. 1796, 1800; Pub. L. 100–203, title IX, §9010(e)(1), Dec. 22, 1987, 101 Stat. 1330–294; Pub. L. 101–508, title V, §§5103(b)(1), 5104(a), 5119(a), (b), Nov. 5, 1990, 104 Stat. 1388–251, 1388–254, 1388–278, 1388–279; Pub. L. 103–296, title I, §107(a)(4), title III, §321(c)(6)(H), Aug. 15, 1994, 108 Stat. 1478, 1538; Pub. L. 108–203, title IV, §414(a)–(c), Mar. 2, 2004, 118 Stat. 529, 530.)
+(Aug. 14, 1935, ch. 531, title II, §216, as added Aug. 28, 1950, ch. 809, title I, §104(a), 64 Stat. 492, 510; amended July 18, 1952, ch. 945, §3(d), 66 Stat. 771; Sept. 1, 1954, ch. 1206, title I, §106(d), 68 Stat. 1080; Aug. 1, 1956, ch. 836, title I, §§102(a), (d)(12), 103(c)(6), 70 Stat. 809, 815, 818; Pub. L. 85–109, §1, July 17, 1957, 71 Stat. 308; Pub. L. 85–238, §3(h), Aug. 30, 1957, 71 Stat. 519; Pub. L. 85–840, title II, §§201, 203, 204(a), title III, §§301(a)(2), (b)(2), (c)(2), (d), (e), 302(a), 305(b), Aug. 28, 1958, 72 Stat. 1020, 1021, 1026–1028, 1030; Pub. L. 86–778, title II, §§207(a)–(c), 208(a)–(c), title IV, §§402(e), 403(c), title VII, §703, Sept. 13, 1960, 74 Stat. 950–952, 968, 969, 994; Pub. L. 87–64, title I, §§102(b)(2)(D), (c)(1), (2)(B), (3)(C), 105, June 30, 1961, 75 Stat. 134, 135, 139; Pub. L. 88–650, §1(a)–(c), Oct. 13, 1964, 78 Stat. 1075; Pub. L. 89–97, title III, §§303(a)(1), (b)(1), (2), 304(<i>l</i>), 306(c)(13), 308(c), (d)(2)(B), 328(b), 334(a)–(d), 339(a), 344(a), July 30, 1965, 79 Stat. 366, 367, 370, 373, 377, 378, 400, 404, 405, 409, 412; Pub. L. 90–248, title I, §§104(d)(2), 105(a), 111(a), 150(a), 156(a)–(d), 158(d), 172(a), (b), Jan. 2, 1968, 81 Stat. 832, 833, 837, 860, 866, 869, 877; Pub. L. 92–603, title I, §§104(g), 113(a), 115(b), 116(d), 117(a), 118(b), 145(a), Oct. 30, 1972, 86 Stat. 1341, 1347, 1349–1351, 1370; Pub. L. 93–445, title III, §304, Oct. 16, 1974, 88 Stat. 1358; Pub. L. 95–216, title III, §337(a), Dec. 20, 1977, 91 Stat. 1548; Pub. L. 96–265, title III, §§303(b)(2)(B), 306(b), June 9, 1980, 94 Stat. 453, 457; Pub. L. 96–473, §5(a)(2), Oct. 19, 1980, 94 Stat. 2265; Pub. L. 97–35, title XXII, §§2202(a)(2), 2203(b)(2), (c)(2), (d)(3), (4), Aug. 13, 1981, 95 Stat. 835–837; Pub. L. 98–21, title II, §201(a), (c)(1)(D), title III, §§301(c), 303, 304(c), 306(c), 309(j), (k), 332(a), 333(a), Apr. 20, 1983, 97 Stat. 107, 109, 111, 112, 114, 117, 129; Pub. L. 98–369, div. B, title VI, §§2661(<i>l</i>), 2662(c)(1), 2663(a)(11), July 18, 1984, 98 Stat. 1158, 1159, 1164; Pub. L. 98–460, §§2(b), 4(a)(2), Oct. 9, 1984, 98 Stat. 1796, 1800; Pub. L. 100–203, title IX, §9010(e)(1), Dec. 22, 1987, 101 Stat. 1330–294; Pub. L. 101–508, title V, §§5103(b)(1), 5104(a), 5119(a), (b), Nov. 5, 1990, 104 Stat. 1388–251, 1388–254, 1388–278, 1388–279; Pub. L. 103–296, title I, §107(a)(4), title III, §321(c)(6)(H), Aug. 15, 1994, 108 Stat. 1478, 1538; Pub. L. 108–203,title IV, §414(a)–(c), Mar. 2, 2004, 118 Stat. 529, 530.)
 
 #### References in Text
 
@@ -232,13 +232,13 @@ The Internal Revenue Code of 1986, referred to in subsec. (j), is classified gen
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–203, §414(a), designated existing provisions as par. (1), redesignated former cls. (1) to (6) as cls. (A) to (F), respectively, of par. (1), in cl. (E) inserted “except as provided in paragraph (2),” before “she was married”, in cl. (F) redesignated former subcls. (A) to (C) as subcls. (i) to (iii), respectively, and added par. (2).
+<b>2004</b>—Subsec. (c). Pub. L. 108–203, §414(a), designated existing provisions as par. (1), redesignated former cls. (1) to (6) as cls. (A) to (F), respectively, of par. (1), in cl. (E) inserted “except as provided in paragraph (2),” before “she was married”, in cl. (F) redesignated former subcls. (A) to (C) as subcls. (i) to (iii), respectively, and added par. (2).
 
 Subsec. (g). Pub. L. 108–203, §414(b), designated existing provisions as par. (1), redesignated former cls. (1) to (6) as cls. (A) to (F), respectively, of par. (1), in cl. (E) inserted “except as provided in paragraph (2),” before “he was married”, in cl. (F) redesignated former subcls. (A) to (C) as subcls. (i) to (iii), respectively, and added par. (2).
 
 Subsec. (k). Pub. L. 108–203, §414(c), substituted “clause (E) of subsection (c)(1) of this section or clause (E) of subsection (g)(1) of this section” for “clause (5) of subsection (c) of this section or clause (5) of subsection (g) of this section” in introductory provisions.
 
-1994—Subsecs. (h), (i). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing, “the Commissioner's” for “his” in subsec. (h)(1)(B)(ii), and “prescribed by the Commissioner” for “prescribed by him” in subsec. (i)(2)(F)(i), (ii)(III).
+<b>1994</b>—Subsecs. (h), (i). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing, “the Commissioner's” for “his” in subsec. (h)(1)(B)(ii), and “prescribed by the Commissioner” for “prescribed by him” in subsec. (i)(2)(F)(i), (ii)(III).
 
 Subsec. (j). Pub. L. 103–296, §321(c)(6)(H), substituted “1986” for “1954” after “Code of”.
 
@@ -246,11 +246,11 @@ Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security�
 
 Subsec. (k). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” in two places.
 
-1990—Subsec. (e). Pub. L. 101–508, §5104(a), substituted “either living with or receiving at least one-half of his support from such individual at the time of such individual's death” for “at the time of such individual's death living in such individual's household” and struck out before period at end of second sentence “; except that this sentence shall not apply if at the time of such individual's death such person was receiving regular contributions toward his support from someone other than such individual or his spouse, or from any public or private welfare organization which furnishes services or assistance for children”.
+<b>1990</b>—Subsec. (e). Pub. L. 101–508, §5104(a), substituted “either living with or receiving at least one-half of his support from such individual at the time of such individual's death” for “at the time of such individual's death living in such individual's household” and struck out before period at end of second sentence “; except that this sentence shall not apply if at the time of such individual's death such person was receiving regular contributions toward his support from someone other than such individual or his spouse, or from any public or private welfare organization which furnishes services or assistance for children”.
 
 Subsec. (h)(1)(A). Pub. L. 101–508, §5119(a)(1), designated first and second sentences as cls. (i) and (ii), respectively.
 
-Subsec. (h)(1)(B)(i). Pub. L. 101–508, §5119(b), substituted “where under subsection (b), (c), (d), (f), or (g) of this section such applicant is not the wife, divorced wife, widow, surviving divorced wife, husband, divorced husband, widower, or surviving divorced husband ofsuch individual” for “where under subsection (b), (c), (f), or (g) of this section such applicant is not the wife, widow, husband, or widower of such individual”, struck out “and such applicant and the insured individual were living in the same household at the time of the death of such insured individual or (if such insured individual is living) at the time such applicant files the application,” after “valid marriage,”, substituted “subsections (b), (c), (d), (f), and (g)” for “subsections (b), (c), (f), and (g)”, and inserted at end “Notwithstanding the preceding sentence, in the case of any person who would be deemed under the preceding sentence a wife, widow, husband, or widower of the insured individual, such marriage shall not be deemed to be a valid marriage unless the applicant and the insured individual were living in the same household at the time of the death of the insured individual or (if the insured individual is living) at the time the applicant files the application. A marriage that is deemed to be a valid marriage by reason of the preceding sentence shall continue to be deemed a valid marriage if the insured individual and the person entitled to benefits as the wife or husband of the insured individual are no longer living in the same household at the time of the death of such insured individual.”
+Subsec. (h)(1)(B)(i). Pub. L. 101–508, §5119(b), substituted “where under subsection (b), (c), (d), (f), or (g) of this section such applicant is not the wife, divorced wife, widow, surviving divorced wife, husband, divorced husband, widower, or surviving divorced husband of such individual” for “where under subsection (b), (c), (f), or (g) of this section such applicant is not the wife, widow, husband, or widower of such individual”, struck out “and such applicant and the insured individual were living in the same household at the time of the death of such insured individual or (if such insured individual is living) at the time such applicant files the application,” after “valid marriage,”, substituted “subsections (b), (c), (d), (f), and (g)” for “subsections (b), (c), (f), and (g)”, and inserted at end “Notwithstanding the preceding sentence, in the case of any person who would be deemed under the preceding sentence a wife, widow, husband, or widower of the insured individual, such marriage shall not be deemed to be a valid marriage unless the applicant and the insured individual were living in the same household at the time of the death of the insured individual or (if the insured individual is living) at the time the applicant files the application. A marriage that is deemed to be a valid marriage by reason of the preceding sentence shall continue to be deemed a valid marriage if the insured individual and the person entitled to benefits as the wife or husband of the insured individual are no longer living in the same household at the time of the death of such insured individual.”
 
 Pub. L. 101–508, §5119(a)(2)(A), inserted “(i)” after “(B)”.
 
@@ -262,9 +262,9 @@ Subsec. (h)(1)(B)(iv). Pub. L. 101–508, §5119(a)(2)(H), (I), inserted “(iv)
 
 Subsec. (i)(1). Pub. L. 101–508, §5103(b)(1), substituted “(2)(B)” for “(2)(C)”.
 
-1987—Subsec. (i)(2)(D)(ii)(II). Pub. L. 100–203 substituted “36-month period” for “15-month period”.
+<b>1987</b>—Subsec. (i)(2)(D)(ii)(II). Pub. L. 100–203 substituted “36-month period” for “15-month period”.
 
-1984—Subsec. (f). Pub. L. 98–369, §2661(<i>l</i>)(1), inserted provision that for purposes of subparagraph (C) of section 402(c)(1) of this title, a divorced husband shall be deemed not to be married throughout the month which he becomes divorced.
+<b>1984</b>—Subsec. (f). Pub. L. 98–369, §2661(<i>l</i>)(1), inserted provision that for purposes of subparagraph (C) of section 402(c)(1) of this title, a divorced husband shall be deemed not to be married throughout the month which he becomes divorced.
 
 Subsec. (h)(3). Pub. L. 98–369, §2663(a)(11)(A), made technical amendment to directory language of Pub. L. 97–35, §2203(d)(4). See 1981 Amendment Note below.
 
@@ -282,7 +282,7 @@ Pub. L. 98–369, §2661(<i>l</i>)(3), substituted “subsection (<i>l</i>) of t
 
 Subsec. (i)(2)(F)(ii). Pub. L. 98–369, §2663(a)(11)(B), substituted a dash for a comma after “before January 1968” in provisions preceding subcl. (I).
 
-1983—Subsec. (a). Pub. L. 98–21, §304(c), added subsec. (a).
+<b>1983</b>—Subsec. (a). Pub. L. 98–21, §304(c), added subsec. (a).
 
 Subsec. (d)(4), (5). Pub. L. 98–21, §301(c)(1), added pars. (4) and (5). Former par. (4) redesignated (6).
 
@@ -338,7 +338,7 @@ Subsec. (i)(3)(B)(iii). Pub. L. 98–21, §332(a), added cl. (iii).
 
 Subsec. (<i>l</i>). Pub. L. 98–21, §201(a), added subsec. (<i>l</i>).
 
-1981—Subsec. (b). Pub. L. 97–35, §2203(b)(2), inserted provisions that for purposes of cl. (2), a wife be deemed to have been married to an individual for a period of one year throughout the month in which occurs the first anniversary of her marriage to such individual and for purposes of section 402(b)(1)(C) of this title, a divorced wife be deemed not to be married throughout the month in which she becomes divorced.
+<b>1981</b>—Subsec. (b). Pub. L. 97–35, §2203(b)(2), inserted provisions that for purposes of cl. (2), a wife be deemed to have been married to an individual for a period of one year throughout the month in which occurs the first anniversary of her marriage to such individual and for purposes of section 402(b)(1)(C) of this title, a divorced wife be deemed not to be married throughout the month in which she becomes divorced.
 
 Subsec. (c). Pub. L. 97–35, §2202(a)(2)(A), inserted “the first sentence of” before “section 402(i) of this title”.
 
@@ -350,17 +350,17 @@ Subsec. (g). Pub. L. 97–35, §2202(a)(2)(B), inserted “the first sentence of
 
 Subsec. (h)(3). Pub. L. 97–35, §2203(d)(4), as amended by Pub. L. 98–369, §2663(a)(11)(A), inserted provision that for purposes of subpar. (A)(i), an acknowledgement, court decree, or court order be deemed to have occurred on the first day of the month in which it actually occurred.
 
-1980—Subsec. (i)(1). Pub. L. 96–473 inserted reference to section 423(d)(6) of this title.
+<b>1980</b>—Subsec. (i)(1). Pub. L. 96–473 inserted reference to section 423(d)(6) of this title.
 
 Subsec. (i)(2)(D)(ii). Pub. L. 96–265, §303(b)(2)(B), substituted “(ii) the month preceding (I) the termination month (as defined in section 423(a)(1) of this title), or, if earlier (II) the first month for which no benefit is payable by reason of section 423(e) of this title, where no benefit is payable for any of the succeeding months during the 15-month period referred to in such section” for “(ii) the second month following the month in which the disability ceases”.
 
 Subsec. (i)(2)(G). Pub. L. 96–265, §306(b), inserted provisions placing limitations on the prospective effect of applications.
 
-1977—Subsec. (d)(1), (2). Pub. L. 95–216 substituted “10” for “20” wherever appearing.
+<b>1977</b>—Subsec. (d)(1), (2). Pub. L. 95–216 substituted “10” for “20” wherever appearing.
 
-1974—Subsecs. (b), (c), (f), (g). Pub. L. 93–445 substituted “section 231a of title 45” for “section 228e of title 45”.
+<b>1974</b>—Subsecs. (b), (c), (f), (g). Pub. L. 93–445 substituted “section 231a of title 45” for “section 228e of title 45”.
 
-1972—Subsec. (e). Pub. L. 92–603, §113(a), extended definition of “child” to include grandchildren and stepgrandchildren of an individual or his spouse.
+<b>1972</b>—Subsec. (e). Pub. L. 92–603, §113(a), extended definition of “child” to include grandchildren and stepgrandchildren of an individual or his spouse.
 
 Subsec. (i)(2)(A). Pub. L. 92–603, §116(d), substituted “five” for “6”.
 
@@ -370,13 +370,13 @@ Subsec. (i)(3). Pub. L. 92–603, §§104(g), 117(a), struck out “(if a woman)
 
 Subsec. (k). Pub. L. 92–603, §§115(b), 145(a), designated existing pars. (1) and (2) as subpars. (A) and (B) of par. (1), added par. (2), in par. (1), as so redesignated, substituted “unless the Secretary determines that at the time of the marriage involved the individual could not have reasonably been expected to live for nine months” for “and he would satisfy such requirement if a three-month period were substituted for the nine-month period”, and in material following par. (2) substituted “except that paragraph (2) of this subsection shall not apply” for “except that this subsection shall not apply”.
 
-1968—Subsec. (c)(5). Pub. L. 90–248, §156(a), substituted “not less than nine months” for “not less than one year”.
+<b>1968</b>—Subsec. (c)(5). Pub. L. 90–248, §156(a), substituted “not less than nine months” for “not less than one year”.
 
 Subsec. (e). Pub. L. 90–248, §§150(a), 156(b), inserted in first sentence “not less than nine months immediately preceding” before “the day on which such individual died”, and added, in second sentence, cl. (A) and incorporated existing provisions in cl. (B).
 
 Subsec. (g)(5). Pub. L. 90–248, §156(c), substituted “not less than nine months” for “not less than one year”.
 
-Subsec. (i)(1). Pub. L. 90–248, §§104(d)(2), 158(d), 172(a), (b), inserted “402(e), 402(f),” after “402(d),”, redefined “blindness” to mean central visual acuity of 20/200 rather than 5/200 or less in the better eye and substituted provision deeming an eye accompanied by a limitation in the fields of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees as having a central visual acuity of 20/200 or less for former provision deeming an eye in which visual field is reduced to five degrees or less concentric contraction as having a central visual acuity of 5/200 or less, respectively, and deleted former third sentence which provided that an individual was not deemed under a disability unless he furnished proof as required and added third sentence making section 423(d)(2)(A), (3), (4), and (5) of this title applicable to determine if an individual is under a disability.
+Subsec. (i)(1). Pub. L. 90–248, §§104(d)(2), 158(d), 172(a), (b), inserted “402(e), 402(f),” after “402(d),”, redefined“blindness” to mean central visual acuity of 20/200 rather than 5/200 or less in the better eye and substituted provision deeming an eye accompanied by a limitation in the fields of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees as having a central visual acuity of 20/200 or less for former provision deeming an eye in which visual field is reduced to five degrees or less concentric contraction as having a central visual acuity of 5/200 or less, respectively, and deleted former third sentence which provided that an individual was not deemed under a disability unless he furnished proof as required and added third sentence making section 423(d)(2)(A), (3), (4), and (5) of this title applicable to determine if an individual is under a disability.
 
 Subsec. (i)(2)(E) to (G). Pub. L. 90–248, §111(a), inserted introductory exception phrase, added subpar. (F), and redesignated former subpar. (F) as (G).
 
@@ -384,7 +384,7 @@ Subsec. (i)(3)(B)(ii). Pub. L. 90–248, §105(a), struck out “and he is under
 
 Subsec. (k). Pub. L. 90–248, §156(d), added subsec. (k).
 
-1965—Subsec. (b). Pub. L. 89–97, §§306(c)(13), 308(d)(2)(B), 334(a), inserted “(subject, however, to section 402(s) of this title)”, included reference to subsec. (b) of section 402 of this title, and added cl. (3)(C), respectively.
+<b>1965</b>—Subsec. (b). Pub. L. 89–97, §§306(c)(13), 308(d)(2)(B), 334(a), inserted “(subject, however, to section 402(s) of this title)”, included reference to subsec. (b) of section 402 of this title, and added cl. (3)(C), respectively.
 
 Subsec. (c). Pub. L. 89–97, §§306(c)(13), 308(d)(2)(B), 334(b), inserted “(subject, however, to section 402(s) of this title)”, included reference to subsec. (b) of section 402 of this title, and added cl. (6)(C), respectively.
 
@@ -414,13 +414,13 @@ Subsec. (i)(2)(F). Pub. L. 89–97, §328(b), added subpar. (F).
 
 Subsec. (i)(3). Pub. L. 89–97, §§303(b)(2), 344(a), substituted “clauses (i) and (ii) of paragraph (2)(C)” for “clauses (A) and (B) of paragraph (2)”, removed from existing subpar. (B) provision prohibiting the inclusion, as part of such 40-quarter period, of any quarter any part of which was included in a prior period of disability unless such quarter was a quarter of coverage, and designated such subpar., as so amended, as subpar. (B)(i), added subpar. (B)(ii), and, in the material following subpar. (B)(ii), inserted provision prohibiting inclusion of any quarter as part of any period if any part of such quarter was included in a prior period of disability unless such quarter was a quarter of coverage and calling for reduction by one of the number of quarters in any period whenever such number of quarters is an odd number, respectively.
 
-1964—Subsec. (i)(2). Pub. L. 88–650, §1(a), struck out provisions which directed that a period of disability shall begin if the individual satisfies the requirements of par. (3) of this subsection on such day, on the first day of the eighteen-month period which ends with the day before the day on which the individual files such application.
+<b>1964</b>—Subsec. (i)(2). Pub. L. 88–650, §1(a), struck out provisions which directed that a period of disability shall begin if the individual satisfies the requirements of par. (3) of this subsection on such day, on the first day of the eighteen-month period which ends with the day before the day on which the individual files such application.
 
 Subsec. (i)(3). Pub. L. 88–650, §1(b), substituted “paragraph (2) of this subsection” for “paragraphs (2) and (4) of this subsection”.
 
 Subsec. (i)(4). Pub. L. 88–650, §1(c), repealed par. (4) which related to the beginning of the period of disability for individuals who filed an application for a disability determination after Dec. 1954, and before July 1962, with respect to a disability which began before January 1961.
 
-1961—Subsec. (a). Pub. L. 87–64, §102(c)(1), repealed subsec. (a) which defined retirement age.
+<b>1961</b>—Subsec. (a). Pub. L. 87–64, §102(c)(1), repealed subsec. (a) which defined retirement age.
 
 Subsecs. (b), (c), (f), (g). Pub. L. 87–64, §102(c)(2)(B), substituted “attainment of age 62” for “attainment of retirement age”.
 
@@ -430,7 +430,7 @@ Subsec. (i)(3)(A). Pub. L. 87–64, §102(c)(3)(C), substituted “attainment ag
 
 Subsec. (i)(4). Pub. L. 87–64, §105, substituted “July 1962” for “July 1961”, and “January 1961” for “July 1960”.
 
-1960—Subsec. (b). Pub. L. 86–778, §207(a), substituted “one year” for “three years”.
+<b>1960</b>—Subsec. (b). Pub. L. 86–778, §207(a), substituted “one year” for “three years”.
 
 Subsec. (e). Pub. L. 86–778, §§207(b), 208(c), in first sentence, reduced the period for eligibility of a stepchild of a living individual from three years immediately preceding the day on which application for child's benefits is filed to one year immediately preceding the day on which application for child's benefits is filed, and inserted the last sentence requiring, for purposes of clause (2), that a person who is not the stepchild of an individual shall be deemed the stepchild of such individual if such individual was not the mother or adopting mother or the father or adopting father of such person and such individual and the mother or adopting mother, or the father or adopting father, as the case may be, of such person went through a marriage ceremony resulting in a purported marriage between them which, but for a legal impediment described in last sentence of subsec. (h)(1)(B) of this section, would have been a valid marriage.
 
@@ -444,7 +444,7 @@ Subsec. (i)(2). Pub. L. 86–778, §§402(e), 403(c), redefined “period of dis
 
 Subsec. (j). Pub. L. 86–778, §703, added subsec. (j).
 
-1958—Subsec. (b). Pub. L. 85–840, §301(d), included within definition of “wife” a woman who, in the month prior to the month of her marriage, was entitled to, or on application therefor and attainment of retirement age in such prior month would have been entitled to, benefits under subsection (e) or (h) of section 402 of this title, or had attained age eighteen and was entitled to, or on application therefor would have been entitled to, benefits under subsection (d) of section 402 of this title.
+<b>1958</b>—Subsec. (b). Pub. L. 85–840, §301(d), included within definition of “wife” a woman who, in the month prior to the month of her marriage, was entitled to, or on application therefor and attainment of retirement age in such prior month would have been entitled to, benefits under subsection (e) or (h) of section 402 of this title, or had attained age eighteen and was entitled to, or on application therefor would have been entitled to, benefits under subsection (d) of section 402 of this title.
 
 Subsec. (c). Pub. L. 85–840, §301(b)(2) included within definition of “widow” a woman whose husband had legally adopted her son or daughter while she was married to him and while such son or daughter was under the age of eighteen, and a woman who, in the month prior to the month of her marriage, was entitled to, or on application therefor and attainment of retirement age in such prior month would have been entitled to, benefits under subsection (e) or (h) of section 402 of this title, or had attained age eighteen and was entitled to, or on application therefor would have been entitled to, benefits under subsection (d) of section 402 of this title.
 
@@ -464,19 +464,19 @@ Subsec. (i)(3). Pub. L. 85–840, §204(a), struck out provisions that required,
 
 Subsec. (i)(4). Pub. L. 85–840, §203, substituted “July 1961” for “July 1958” and “July 1960” for “July 1957”, and struck out provisions which required the applicant to be alive on July 1, 1955.
 
-1957—Subsec. (h). Pub. L. 85–238 amended subsec. (h) generally to provide that the applicant is the wife, husband, widow, or widower if there is a finding that the applicant and the insured individual were validly married at the time the application for benefits is filed, or at the time the insured individual died, and to eliminate provisions which prescribed certain conditions under which a wife or husband would be deemed to have been living with his or her spouse, and which related to determination of status of parent.
+<b>1957</b>—Subsec. (h). Pub. L. 85–238 amended subsec. (h) generally to provide that the applicant is the wife, husband, widow, or widower if there is a finding that the applicant and the insured individual were validly married at the time the application for benefits is filed, or at the time the insured individual died, and to eliminate provisions which prescribed certain conditions under which a wife or husband would be deemed to have been living with his or her spouse, and which related to determination of status of parent.
 
 Subsec. (i)(4). Pub. L. 85–109, substituted “July 1958” for “July 1957” and “July 1957” for “July 1956”.
 
-1956—Subsec. (a). Act Aug. 1, 1956, §102(a), reduced the retirement age in the case of a woman from age sixty-five to age sixty-two.
+<b>1956</b>—Subsec. (a). Act Aug. 1, 1956, §102(a), reduced the retirement age in the case of a woman from age sixty-five to age sixty-two.
 
 Subsec. (i)(1). Act Aug. 1, 1956, §103(c)(6), inserted “Except for purposes of sections 402(d), 423, and 425 of this title”.
 
 Subsec. (i)(2). Act Aug. 1, 1956, §102(d)(12), substituted “the age of sixty-five” for “retirement age” in two places.
 
-1954—Subsec. (i). Act Sept. 1, 1954, §106(d), added subsec. (i). Former subsec. (i), which was added by act July 18, 1952, §3(d), ceased to be in effect at the close of June 30, 1953. See Effective and Termination Date of 1952 Amendment note set out under section 413 of this title.
+<b>1954</b>—Subsec. (i). Act Sept. 1, 1954, §106(d), added subsec. (i). Former subsec. (i), which was added by act July 18, 1952, §3(d), ceased to be in effect at the close of June 30, 1953. See Effective and Termination Date of 1952 Amendment note set out under section 413 of this title.
 
-1952—Subsec. (i). Act July 18, 1952, added subsec. (i).
+<b>1952</b>—Subsec. (i). Act July 18, 1952, added subsec. (i).
 
 #### Effective Date of 2004 Amendment
 
@@ -512,7 +512,7 @@ Amendment by section 2663(a)(11) of Pub. L. 98–369 effective July 18, 1984, bu
 
 Amendment by sections 301(c), 303, 304(c), 306(c), and 309(j), (k) of Pub. L. 98–21 applicable only with respect to monthly payments payable under this subchapter for months after April 1983, see section 310 of Pub. L. 98–21, set out as a note under section 402 of this title.
 
-Section 332(c) of Pub. L. 98–21 provided that: “The amendments made by this section \[amending this section and section 423 of this title\] shall be effective with respect to applications for disability insurance benefits under section 223 of the Social Security Act \[section 423 of this title\], and for disability determinations under section 216(i) of such Act \[subsec. (i) of this section\],filed after the date of the enactment of this Act \[Apr. 20, 1983\], except that no monthly benefits under title II of the Social Security Act \[this subchapter\] shall be payable or increased by reason of the amendments made by this section for months before the month following the month of enactment of this Act.”
+Section 332(c) of Pub. L. 98–21 provided that: “The amendments made by this section \[amending this section and section 423 of this title\] shall be effective with respect to applications for disability insurance benefits under section 223 of the Social Security Act \[section 423 of this title\], and for disability determinations under section 216(i) of such Act \[subsec. (i) of this section\], filed after the date of the enactment of this Act \[Apr. 20, 1983\], except that no monthly benefits under title II of the Social Security Act \[this subchapter\] shall be payable or increased by reason of the amendments made by this section for months before the month following the month of enactment of this Act.”
 
 Section 333(b) of Pub. L. 98–21 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective on the date of the enactment of this Act \[Apr. 20, 1983\].”
 
@@ -550,7 +550,7 @@ Amendment by section 116(d) of Pub. L. 92–603 effective with respect to applic
 
 Amendment by section 117(a) of Pub. L. 92–603 effective with respect to applications for disability determinations under subsec. (i) of this section filed in or after October 1972 or before October 1972 under specified conditions, see section 117(c) of Pub. L. 92–603, set out as a note under section 423 of this title.
 
-Section 118(c) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section and section 423 of this title\] shall apply in the case of deaths occurring after December 31, 1969. For purposes of such amendments (and for purposes of sections 202(j)(1) and 223(b) of the Social Security Act \[sections 402(j)(1) and 423(b) of this title\], any application with respect to an individual whose death occurred after December 31, 1969, but before the date of the enactment of this Act \[Oct. 30, 1972\] which is filed in, or within 3 months after the month in which this Act is enacted \[October 1972\] shall be deemed to have been filed in the month in which such death occurred.”
+Section 118(c) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section and section 423 of this title\] shall apply in the case of deaths occurring after December 31, 1969. For purposes of such amendments (and for purposes of sections202(j)(1) and 223(b) of the Social Security Act \[sections 402(j)(1) and 423(b) of this title\], any application with respect to an individual whose death occurred after December 31, 1969, but before the date of the enactment of this Act \[Oct. 30, 1972\] which is filed in, or within 3 months after the month in which this Act is enacted \[October 1972\] shall be deemed to have been filed in the month in which such death occurred.”
 
 Section 145(b) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section\] shall apply only with respect to benefits payable under title II of the Social Security Act \[this subchapter\] for months after December 1972 on the basis of applications filed in or after the month in which this Act is enacted \[October 1972\].”
 
@@ -568,7 +568,7 @@ Section 156(e) of Pub. L. 90–248 provided that: “The amendments made by this
 
 Amendment by section 158(d) of Pub. L. 90–248 applicable with respect to applications for disability insurance benefits under section 423 of this title and to disability determinations under subsec. (i) of this section, see section 158(e) of Pub. L. 90–248, set out as a note under section 423 of this title.
 
-Section 172(c) of Pub. L. 90–248 provided that: “The amendments made by this section \[amending this section\] shall be effective with respect to benefits under section 223 of the Social Security Act \[section 423 ofthis title\] for months after January 1968 based on applications filed after the date of enactment of this Act \[Jan. 2, 1968\] and with respect to disability determinations under section 216(i) of the Social Security Act \[subsec. (i) of this section\] based on applications filed after the date of enactment of this Act.”
+Section 172(c) of Pub. L. 90–248 provided that: “The amendments made by this section \[amending this section\] shall be effective with respect to benefits under section 223 of the Social Security Act \[section 423 of this title\] for months after January 1968 based on applications filed after the date of enactment of this Act \[Jan. 2, 1968\] and with respect to disability determinations under section 216(i) of the Social Security Act \[subsec. (i) of this section\] based on applications filed after the date of enactment of this Act.”
 
 #### Effective Date of 1965 Amendment
 
@@ -688,7 +688,7 @@ Section applicable (1) in case of monthly benefits for months after August 1950,
 
 #### Retroactive Benefits
 
-For provisions relating to entitlement to retroactive benefits under section 2 of Pub. L. 98–460 (which amended subsec. (i)(2)(D) of this section), see section 2(f) of Pub. L. 98–460, set out as a note under section 423 of this title.
+For provisions relating to entitlement to retroactive benefits under section 2 of Pub. L. 98–460 (which amended subsec. (i)(2)(D) of this section), see section 2(f) ofPub. L. 98–460, set out as a note under section 423 of this title.
 
 #### Promulgation of Regulations
 

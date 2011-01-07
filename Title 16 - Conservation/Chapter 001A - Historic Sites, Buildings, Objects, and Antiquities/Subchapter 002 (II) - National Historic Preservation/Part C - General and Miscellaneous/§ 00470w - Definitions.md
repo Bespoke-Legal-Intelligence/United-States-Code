@@ -80,9 +80,9 @@ As used in this subchapter, the term—
 
 #### Amendments
 
-2000—Par. (12)(C)(iii). Pub. L. 106–208 substituted semicolon for comma after “Officer”.
+<b>2000</b>—Par. (12)(C)(iii). Pub. L. 106–208 substituted semicolon for comma after “Officer”.
 
-1992—Par. (1). Pub. L. 102–575, §4019(a)(1), struck out “, except that in the case of any Federal program exempted under section 470v of this title, the agency administering such program shall not be treated as an agency with respect to such program” after “title 5”.
+<b>1992</b>—Par. (1). Pub. L. 102–575, §4019(a)(1), struck out “, except that in the case of any Federal program exempted under section 470v of this title, the agency administering such program shall not be treated as an agency with respect to such program” after “title 5”.
 
 Par. (2). Pub. L. 102–575, §4019(a)(2), substituted “the Trust Territory of the Pacific Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and, upon termination of the Trusteeship Agreement for the Trust Territory of the Pacific Islands, the Republic of Palau” for “the Trust Territories of the Pacific Islands”.
 

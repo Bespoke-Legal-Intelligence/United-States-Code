@@ -50,7 +50,7 @@ Suspension of Agents and Attorneys.—The Secretary, after notice and opportunit
 
 &emsp;(9) has failed to comply with any other condition specified in regulations prescribed by the Secretary for purposes of this subsection.
 
-(c)(1) Except as provided in paragraph (4), in connection with a proceeding before the Department with respect to benefits under laws administered by the Secretary, a fee may not be charged, allowed, or paid for services of agents and attorneys with respect to services provided before the date on which a notice of disagreement is filed with respect to the case. The limitation in the preceding sentence does not applyto fees charged, allowed, or paid for services provided with respect to proceedings before a court.
+(c)(1) Except as provided in paragraph (4), in connection with a proceeding before the Department with respect to benefits under laws administered by the Secretary, a fee may not be charged, allowed, or paid for services of agents and attorneys with respect to services provided before the date on which a notice of disagreement is filed with respect to the case. The limitation in the preceding sentence does not apply to fees charged, allowed, or paid for services provided with respect to proceedings before a court.
 
 (2) A person who, acting as agent or attorney in a case referred to in paragraph (1) of this subsection, represents a person before the Department or the Board of Veterans’ Appeals after a notice of disagreement is filed with respect to the case shall file a copy of any fee agreement between them with the Secretary pursuant to regulations prescribed by the Secretary.
 
@@ -80,7 +80,7 @@ Payment of Fees Out of Past-Due Benefits.—(1) When a claimant and an agent or 
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–461, §101(a)(1)(A), inserted heading.
+<b>2006</b>—Subsec. (a). Pub. L. 109–461, §101(a)(1)(A), inserted heading.
 
 Subsec. (a)(1). Pub. L. 109–461, §101(a)(1)(A)–(C), designated existing provisions as par. (1), substituted “Except as provided in paragraph (4), the Secretary may recognize” for “The Secretary may recognize”, and struck out last sentence which read as follows: “The Secretary may require that individuals, before being recognized under this section, show that they are of good moral character and in good repute, are qualified to render claimants valuable service, and otherwise are competent to assist claimants in presenting claims.”
 
@@ -108,15 +108,15 @@ Subsec. (d)(2)(B). Pub. L. 109–461, §101(f)(4), struck out “of this paragra
 
 Subsec. (d)(3). Pub. L. 109–461, §101(f)(5), substituted “fee to an agent or attorney” for “attorneys’ fee” and struck out “of this subsection” after “paragraph (1)”.
 
-1998—Subsecs. (c)(2), (d)(3). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals” wherever appearing.
+<b>1998</b>—Subsecs. (c)(2), (d)(3). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals” wherever appearing.
 
-1994—Subsec. (d)(2)(A). Pub. L. 103–446 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “A fee agreement referred to in paragraph (1) of this subsection is one under which (i) the amount of the fee payable to the attorney is to be paid to the attorney by the Secretary directly from any past-due benefits awarded on the basis of the claim, and (ii) the amount of the fee is contingent on whether or not the matter is resolved in a manner favorable to the claimant.”
+<b>1994</b>—Subsec. (d)(2)(A). Pub. L. 103–446 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “A fee agreement referred to in paragraph (1) of this subsection is one under which (i) the amount of the fee payable to the attorney is to be paid to the attorney by the Secretary directly from any past-due benefits awarded on the basis of the claim, and (ii) the amount of the fee is contingent on whether or not the matter is resolved in a manner favorable to the claimant.”
 
-1992—Subsec. (c)(1). Pub. L. 102–405, §303(a)(1), substituted “Except as provided in paragraph (3), in” for “In”.
+<b>1992</b>—Subsec. (c)(1). Pub. L. 102–405, §303(a)(1), substituted “Except as provided in paragraph (3), in” for “In”.
 
 Subsec. (c)(3). Pub. L. 102–405, §303(a)(2), added par. (3).
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 3404 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 3404 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
@@ -138,7 +138,7 @@ Pub. L. 102–40, §402(d)(1), substituted “7263(d)” for “4063(d)”.
 
 Subsec. (d)(2)(A), (3). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-1988—Subsecs. (c), (d). Pub. L. 100–687 added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: “The Administrator shall determine and pay fees to agents or attorneys recognized under this section in allowed claims for monetary benefits under laws administered by the Veterans’ Administration. Such fees—
+<b>1988</b>—Subsecs. (c), (d). Pub. L. 100–687 added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: “The Administrator shall determine and pay fees to agents or attorneys recognized under this section in allowed claims for monetary benefits under laws administered by the Veterans’ Administration. Such fees—
 
 &emsp;“(1) shall be determined and paid as prescribed by the Administrator;
 
@@ -146,7 +146,7 @@ Subsec. (d)(2)(A), (3). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secr
 
 &emsp;“(3) shall be deducted from monetary benefits claimed and allowed.”
 
-1986—Subsec. (b). Pub. L. 99–576 substituted “the Administrator” for “he” in introductory text.
+<b>1986</b>—Subsec. (b). Pub. L. 99–576 substituted “the Administrator” for “he” in introductory text.
 
 #### Effective Date of 2006 Amendment
 

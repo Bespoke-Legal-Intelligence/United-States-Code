@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may use the authorities set forth in this section with respect to any procurement made during the period beginning on the effective date of this chapter and ending September 30, 2007, if the Secretary determines in writing that the mission of the Department (as described in section 111 of this title) would be seriously impaired without the use of such authorities.
+&emsp;The Secretary may use the authorities set forth in this section with respect to any procurement made during the period beginning onthe effective date of this chapter and ending September 30, 2007, if the Secretary determines in writing that the mission of the Department (as described in section 111 of this title) would be seriously impaired without the use of such authorities.
 
 #### (2) Delegation
 
@@ -22,13 +22,13 @@
 
 #### (1) In general
 
-&emsp;The Secretary may designate certain employees of the Department to make procurements described in subsection (a) of this section for which in the administration of section 428 of title 41 the amount specified in subsections (c), (d), and (f) of such section 428 shall be deemed to be $7,500.
+&emsp;The Secretary may designate certain employees of the Department to make procurements described in subsection (a) of this section for which in the administration of section 1902 of title 41 the amount specified in subsections (a), (d), and (e) of such section 1902 shall be deemed to be $7,500.
 
 #### (2) Number of employees
 
 &emsp;The number of employees designated under paragraph (1) shall be—
 
-&emsp;&emsp;(A) fewer than the number of employees of the Department who are authorized to make purchases without obtaining competitive quotations, pursuant to section 428(c) of title 41;
+&emsp;&emsp;(A) fewer than the number of employees of the Department who are authorized to make purchases without obtaining competitive quotations, pursuant to section 1902(d) of title 41;
 
 &emsp;&emsp;(B) sufficient to ensure the geographic dispersal of the availability of the use of the procurement authority under such paragraph at locations reasonably considered to be potential terrorist targets; and
 
@@ -42,7 +42,7 @@
 
 #### (1) In general
 
-&emsp;With respect to a procurement described in subsection (a) of this section, the Secretary may deem the simplified acquisition threshold referred to in section 403(11) of title 41 to be—
+&emsp;With respect to a procurement described in subsection (a) of this section, the Secretary may deem the simplified acquisition threshold referred to in section 134 of title 41 to be—
 
 &emsp;&emsp;(A) in the case of a contract to be awarded and performed, or purchase to be made, within the United States, $200,000; and
 
@@ -58,7 +58,7 @@
 
 #### (2) Limitation
 
-&emsp;The $5,000,000 limitation provided in section 427(a)(2) of title 41 and section 253(g)(1)(B) of title 41 shall be deemed to be $7,500,000 for purposes of property or services under the authority of this subsection.
+&emsp;The $5,000,000 limitation provided in section 1901(a)(2) of title 41 and section 3305(a)(2) of title 41 shall be deemed to be $7,500,000 for purposes of property or services under the authority of this subsection.
 
 #### (3) Certain authority
 
@@ -88,7 +88,15 @@ Section 4202(e) of the Clinger-Cohen Act of 1996, referred to in subsec. (d)(3),
 
 #### Codification
 
-Section is comprised of section 833 of Pub. L. 107–296. Subsec. (c)(2) of section 833 of Pub. L. 107–296 amended section 416 of Title 41, Public Contracts.
+In subsec. (b)(1), “section 1902 of title 41” substituted for “section 32 of the Office of Federal Procurement Policy Act (41 U.S.C. 428)” and “subsections (a), (d), and (e) of such section 1902” substituted for “subsections (c), (d), and (f) of such section 32” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (b)(2)(A), “section 1902(d) of title 41” substituted for “section 32(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 428(c))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (c)(1), “section 134 of title 41” substituted for “section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (d)(2), “section 1901(a)(2) of title 41” substituted for “section 31(a)(2) of the Office of Federal Procurement Policy Act (41 U.S.C. 427(a)(2))” and “section 3305(a)(2) of title 41” substituted for “section 303(g)(1)(B) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)(B))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+Section is comprised of section 833 of Pub. L. 107–296. Subsec. (c)(2) of section 833 of Pub. L. 107–296 amended section 416 of former Title 41, Public Contracts.
 
 #### Change of Name
 

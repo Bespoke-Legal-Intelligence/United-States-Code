@@ -6,7 +6,7 @@ The head of each Federal agency and department shall design and implement a comp
 
 &emsp;(1) a review of existing programs to identify and expand the opportunities for such employees to be adult volunteers in schools and for students and out-of-school youth;
 
-&emsp;(2) the designation of a senior official in each such agency and department who will beresponsible for establishing partnership and youth service programs in each such agency and department and for developing partnership and youth service programs;
+&emsp;(2) the designation of a senior official in each such agency and department who will be responsible for establishing partnership and youth service programs in each such agency and department and for developing partnership and youth service programs;
 
 &emsp;(3) the encouragement of employees of such agencies and departments to participate in partnership programs and other service projects;
 
@@ -28,9 +28,9 @@ The head of each Federal agency and department shall design and implement a comp
 
 #### Amendments
 
-2009—Subsec. (b). Pub. L. 111–13 amended subsec. (b) generally. Prior to amendment, text read as follows: “Not later than 180 days after November 16, 1990, and on a regular basis thereafter, the head of each Federal agency and department shall prepare and submit, to the appropriate Committees of Congress, a report concerning the implementation of this section.”
+<b>2009</b>—Subsec. (b). Pub. L. 111–13 amended subsec. (b) generally. Prior to amendment, text read as follows: “Not later than 180 days after November 16, 1990, and on a regular basis thereafter, the head of each Federal agency and department shall prepare and submit, to the appropriate Committees of Congress, a report concerning the implementation of this section.”
 
-1993—Subsec. (a)(2), (3). Pub. L. 103–82 substituted “partnership” for “adult volunteer and partnership” wherever appearing.
+<b>1993</b>—Subsec. (a)(2), (3). Pub. L. 103–82 substituted “partnership” for “adult volunteer and partnership” wherever appearing.
 
 #### Effective Date of 2009 Amendment
 

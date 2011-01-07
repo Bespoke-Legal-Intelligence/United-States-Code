@@ -1,6 +1,6 @@
 ### §2350f. Procurement of communications support and related supplies and services
 
-(a) As an alternative means of obtaining communications support and related supplies and services, the Secretary of Defense, subject to the approval of the Secretary of State, may enter into a bilateral arrangement with any allied country or allied international organization or may enter into a multilateral arrangement with allied countries and allied international organizations, under which, in return for being provided communications support and related supplies and services, the United States would agree to provide to the allied country or countries or allied international organization or allied international organizations, as the case may be, an equivalent value of communications support and related supplies and services. The term of an arrangement entered into under this subsection may not exceed five years.
+(a) As an alternative means of obtaining communications support and related supplies and services, the Secretary of Defense, subject to the approval of the Secretary of State, may enter into a bilateral arrangement with any allied country or allied international organization or may enter into a multilateral arrangement with allied countries and allied international organizations, under which, in return for being provided communications support and related supplies and services, the United States would agree to provide to the allied country or countries or allied international organization or allied international organizations, as the case may be, an equivalent value of communications support and related supplies and services. Theterm of an arrangement entered into under this subsection may not exceed five years.
 
 (b)(1) Any arrangement entered into under this section shall require that any accrued credits and liabilities resulting from an unequal exchange of communications support and related supplies and services during the term of such arrangement would be liquidated by direct payment to the party having provided the greater amount of communications support and related supplies and services. Liquidations may be made at such times as the parties in an arrangement may agree upon, but in no case may final liquidation in the case of an arrangement be made later than 30 days after the end of the term for which the arrangement was entered into.
 
@@ -26,15 +26,15 @@
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–314 struck out subsec. (c) which read as follows: “The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives copies of all documents evidencing an arrangement entered into under subsection (a) not later than 45 days after entering into such an arrangement.”
+<b>2002</b>—Subsec. (c). Pub. L. 107–314 struck out subsec. (c) which read as follows: “The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives copies of all documents evidencing an arrangement entered into under subsection (a) not later than 45 days after entering into such an arrangement.”
 
-1999—Subsec. (c). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+<b>1999</b>—Subsec. (c). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-1996—Subsec. (c). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
 
-1990—Subsec. (d)(1)(A). Pub. L. 101–510 substituted a semicolon for “, or” at end.
+<b>1990</b>—Subsec. (d)(1)(A). Pub. L. 101–510 substituted a semicolon for “, or” at end.
 
-1989—Pub. L. 101–189, §933(a), renumbered section 2401a of this title as this section.
+<b>1989</b>—Pub. L. 101–189, §933(a), renumbered section 2401a of this title as this section.
 
 Subsec. (a). Pub. L. 101–189, §933(b), substituted “a bilateral arrangement with any allied country or allied international organization or may enter into a multilateral arrangement with allied countries and allied international organizations” for “an arrangement with the Minister of Defense or other appropriate official of any allied country or with the North Atlantic Treaty Organization (NATO),” and “the allied country or countries or allied international organization or allied international organizations, as the case may be,” for “such country or NATO” and inserted “The term of an arrangement entered into under this subsection may not exceed five years.”
 
@@ -48,5 +48,5 @@ Subsec. (d)(1)(B). Pub. L. 101–189, §933(d)(4), substituted “; or” for p
 
 Subsec. (d)(1)(C), (2). Pub. L. 101–189, §933(d)(5), added cl. (C) and par. (2).
 
-1987—Subsec. (d). Pub. L. 100–26 inserted “the term” after “In this section,”.
+<b>1987</b>—Subsec. (d). Pub. L. 100–26 inserted “the term” after “In this section,”.
 

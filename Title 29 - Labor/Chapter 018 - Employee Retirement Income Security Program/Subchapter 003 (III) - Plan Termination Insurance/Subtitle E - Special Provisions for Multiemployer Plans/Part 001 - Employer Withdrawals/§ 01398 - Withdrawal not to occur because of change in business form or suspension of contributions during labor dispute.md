@@ -18,11 +18,11 @@ Notwithstanding any other provision of this part, an employer shall not be consi
 
 #### Amendments
 
-1989—Par. (1)(A). Pub. L. 101–239, §7893(f), made identical amendment to that of Pub. L. 99–514, §1879(u)(4), as added by Pub. L. 101–239, §7862(b)(1)(C), see below.
+<b>1989</b>—Par. (1)(A). Pub. L. 101–239, §7893(f), made identical amendment to that of Pub. L. 99–514, §1879(u)(4), as added by Pub. L. 101–239, §7862(b)(1)(C), see below.
 
 Pub. L. 101–239, §7862(b)(1)(C), added Pub. L. 99–514, §1879(u)(4), see 1986 Amendment note below.
 
-1986—Par. (1)(A). Pub. L. 99–514, §1879(u)(4), as added by Pub. L. 101–239, §7862(b)(1)(C), substituted “section 1369(b) of this title” for “section 1362(d) of this title”.
+<b>1986</b>—Par. (1)(A). Pub. L. 99–514, §1879(u)(4), as added by Pub. L. 101–239, §7862(b)(1)(C), substituted “section 1369(b) of this title” for “section 1362(d) of this title”.
 
 #### Effective Date of 1989 Amendment
 
@@ -32,5 +32,5 @@ Amendment by section 7893(f) of Pub. L. 101–239 effective as if included in th
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 

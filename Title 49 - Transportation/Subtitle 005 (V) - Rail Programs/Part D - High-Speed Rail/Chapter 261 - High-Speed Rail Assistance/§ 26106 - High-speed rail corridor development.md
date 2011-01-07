@@ -18,7 +18,7 @@ Corridor.—The term “corridor” means a corridor designated by the Secretary
 
 &emsp;(3)
 
-Capital project.—The term “capital project” means a project or program in a State rail plan developed under chapter 227 of this title for acquiring, constructing, improving, or inspecting equipment, track, and track structures, or a facility of use in or for the primary benefit of high-speed rail service, expenses incidental to the acquisition or construction (including designing, engineering, location surveying, mapping, environmental studies, and acquiring rights-of-way), payments for the capital portions of rail trackage rights agreements, highway-rail grade crossing improvements related to high-speed rail service, mitigating environmental impacts, communication and signalization improvements, relocation assistance, acquiring replacement housing sites, and acquiring, constructing, relocating, and rehabilitating replacement housing.
+Capital project.—The term “capital project” means a project or program in aState rail plan developed under chapter 227 of this title for acquiring, constructing, improving, or inspecting equipment, track, and track structures, or a facility of use in or for the primary benefit of high-speed rail service, expenses incidental to the acquisition or construction (including designing, engineering, location surveying, mapping, environmental studies, and acquiring rights-of-way), payments for the capital portions of rail trackage rights agreements, highway-rail grade crossing improvements related to high-speed rail service, mitigating environmental impacts, communication and signalization improvements, relocation assistance, acquiring replacement housing sites, and acquiring, constructing, relocating, and rehabilitating replacement housing.
 
 &emsp;(4)
 
@@ -214,7 +214,7 @@ Performance standard.—Proposals submitted under paragraph (2) must meet any st
 
 Contents.—A proposal submitted under this subsection shall include—
 
-&emsp;&emsp;“(A) the names and qualifications of the persons submitting the proposal and the entities proposedto finance, design, construct, operate, and maintain the railroad, railroad equipment, and related facilities, stations, and infrastructure;
+&emsp;&emsp;“(A) the names and qualifications of the persons submitting the proposal and the entities proposed to finance, design, construct, operate, and maintain the railroad, railroad equipment, and related facilities, stations, and infrastructure;
 
 &emsp;&emsp;“(B) a detailed description of the proposed rail service, including possible routes, required infrastructure investments and improvements, equipment needs and type, train frequencies, peak and average operating speeds, and trip times;
 
@@ -344,7 +344,7 @@ Verbal presentation.—Proposers shall be given an opportunity to make a verbal 
 
 &emsp;“(3)
 
-Authorization of appropriations.—There are authorized to be appropriated to the Secretary forthe use of each commission established under subsection (b)(2) such sums as are necessary to carry out this section.
+Authorization of appropriations.—There are authorized to be appropriated to the Secretary for the use of each commission established under subsection (b)(2) such sums as are necessary to carry out this section.
 
 “(e)
 
@@ -356,7 +356,7 @@ Selection by Secretary.—
 
 &emsp;&emsp;“(B) issue a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate containing any proposal with respect to subsection (a)(1)(A) that is selected by the Secretary under subparagraph (A) of this paragraph, all the information regarding the proposal provided to the Secretary under subsection (d), and any other relevant information deemed appropriate.
 
-&emsp;“(2) Following the submission of the report under paragraph (1)(B), the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing any proposal with respect to subparagraphs (B) through (K) of subsection (a)(1) that are selected by the Secretary under paragraph (1) of this subsection, all the information regarding the proposal provided to the Secretary under subsection (d), and any other relevant information deemed appropriate.
+&emsp;“(2) Following the submission of the report under paragraph (1)(B), the Secretary shall transmit to theCommittee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing any proposal with respect to subparagraphs (B) through (K) of subsection (a)(1) that are selected by the Secretary under paragraph (1) of this subsection, all the information regarding the proposal provided to the Secretary under subsection (d), and any other relevant information deemed appropriate.
 
 &emsp;“(3) The report required under paragraph (2) shall not be submitted by the Secretary until the report submitted under paragraph (1) has been considered through a hearing by the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the report submitted under paragraph (1)(B).
 
@@ -387,4 +387,6 @@ Northeast corridor.—The term ‘Northeast Corridor’ has the meaning given un
 &emsp;“(4)
 
 High-speed rail corridor.—The terms ‘high-speed rail corridor’ and ‘corridor’ mean a corridor designated by the Secretary pursuant to section 104(d)(2) of title 23, United States Code, and the Northeast Corridor.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

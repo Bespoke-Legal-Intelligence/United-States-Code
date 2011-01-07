@@ -6,7 +6,7 @@ The Secretary, within one year following April 3, 1980, shall accept the real pr
 
 #### (b) Exercise of civil and criminal jurisdiction by Utah
 
-The State of Utah shall exercise civil and criminal jurisdiction with respect to the reservation and persons on the reservation as if it had assumed jurisdiction pursuant to the Act of August 15, 1953 (67 Stat. 588), as amended by the Act of April 11, 1968 (82 Stat. 79), and pursuant to sections 63–36–9 through 63–36–21 of the Utah State Code.
+The State of Utah shall exercise civil and criminal jurisdiction with respect to the reservation and persons on the reservation as if it had assumed jurisdiction pursuant to the Act of August 15, 1953 (67 Stat. 588), as amended by theAct of April 11, 1968 (82 Stat. 79), and pursuant to sections 63–36–9 through 63–36–21 of the Utah State Code.
 
 #### (c) Plan for enlargement of reservation; negotiation; development; scope and approval
 
@@ -38,7 +38,7 @@ Any plan developed under this section for the enlargement of the reservation for
 
 &emsp;(3) the transfer of any real property to the Secretary in trust for the benefit of the tribe or bands as an addition to the reservation shall be exempt from all Federal, State, and local taxation, and all such real property shall, as of the date of such transfer, be exempt from Federal, State, and local taxation; and
 
-&emsp;(4) the State of Utah shall exercise civil and criminal jurisdiction with respect to the addition to the reservation and persons on such lands as if it had assumed jurisdiction pursuant to the Act of August 15, 1953 (67 Stat. 588), as amended by the Act of April 11, 1968 (82Stat. 79), and pursuant to sections 63–36–9 through 63–36–21 of the Utah State Code.
+&emsp;(4) the State of Utah shall exercise civil and criminal jurisdiction with respect to the addition to the reservation and persons on such lands as if it had assumed jurisdiction pursuant to the Act of August 15, 1953 (67 Stat. 588), as amended by the Act of April 11, 1968 (82 Stat. 79), and pursuant to sections 63–36–9 through 63–36–21 of the Utah State Code.
 
 #### (f) Statement appended to enlargement plan respecting implementation of notification and consultative requirements
 
@@ -52,7 +52,7 @@ Act of August 15, 1953 (67 Stat. 588), as amended by the Act of April 11, 1968 (
 
 #### Amendments
 
-2005—Subsec. (c). Pub. L. 109–126 substituted “Cedar” for “Cedar City”.
+<b>2005</b>—Subsec. (c). Pub. L. 109–126 substituted “Cedar” for “Cedar City”.
 
 #### Transfer of Land Into Trust for Shivwits Band of Paiute Indian Tribe of Utah
 
@@ -94,7 +94,7 @@ Survey; legal description.—
 
 &emsp;&emsp;“(A)
 
-Survey.—Not later than 180 days after the date of enactment of this Act \[Mar. 30, 2009\], the Secretary, acting through the Director of the Bureau of Land Management, shall complete a survey of Parcel A to establish the boundary of Parcel A.
+Survey.—Not later than 180 days after the date of enactment of this Act \[Mar. 30, 2009\], theSecretary, acting through the Director of the Bureau of Land Management, shall complete a survey of Parcel A to establish the boundary of Parcel A.
 
 &emsp;&emsp;“(B)
 
@@ -214,7 +214,7 @@ Pub. L. 98–219, Feb. 17, 1984, 98 Stat. 11, as amended by Pub. L. 109–126, �
 
 &emsp;“(3) To be held in trust for the Cedar Band of the Paiute Tribe of Utah: That portion of parcel numbered 1, figure 4, page 85, containing approximately two thousand forty-four acres.
 
-&emsp;“(4) To be held in trust for the Indian Peaks Band of the Paiute Indian Tribe of Utah: That portion of parcel numbered 1, figure 4, page 85, containing approximately four hundred and twenty-four acres.
+&emsp;“(4) To be held in trust for the Indian Peaks Band of the Paiute Indian Tribe of Utah: That portion ofparcel numbered 1, figure 4, page 85, containing approximately four hundred and twenty-four acres.
 
 “(c) Nothing in this section shall deprive any person of any existing legal right-of-way, mining claim, grazing permit, water right, or other right or interest which such person may have in the lands described in subsection (b).
 
@@ -238,7 +238,7 @@ Pub. L. 98–219, Feb. 17, 1984, 98 Stat. 11, as amended by Pub. L. 109–126, �
 
 “Sec. 3. (a) The Secretary of Agriculture shall not deny the tribe or any member of the tribe the right to use and occupy, on a nonexclusive basis, the national forest land described in subsection (b) for religious and ceremonial purposes for such periods of time and under such reasonable terms and conditions as the Secretary may prescribe: <i>Provided</i>, That the Secretary shall permit the tribe to use and occupy, on an exclusive basis, so much of the national forest land in subsection (b) abutting Fish Lake as is necessary for such religious and ceremonial purposes during and including the second and third weeks of June and the first and second weeks of September of each year, under such reasonable terms and conditions as the Secretary may prescribe.
 
-“(b) The land referred to in subsection (a) is the parcel of land depicted on the map contained in the document entitled ‘Proposed Paiute Indian Tribe of Utah Reservation Plan’, dated January 24, 1982, and published by the United States Department of the Interior,Bureau of Indian Affairs, as follows: Parcel numbered 6: Fish Lake; figure 9, page 117.
+“(b) The land referred to in subsection (a) is the parcel of land depicted on the map contained in the document entitled ‘Proposed Paiute Indian Tribe of Utah Reservation Plan’, dated January 24, 1982, and published by the United States Department of the Interior, Bureau of Indian Affairs, as follows: Parcel numbered 6: Fish Lake; figure 9, page 117.
 
 “Sec. 4. (a) There is hereby established in the Treasury of the United States a fund to be known as the Paiute Indian Tribe of Utah Economic Development and Tribal Government Fund. This Fund shall be held in trust for the benefit of the tribe and administered in accordance with this Act.
 

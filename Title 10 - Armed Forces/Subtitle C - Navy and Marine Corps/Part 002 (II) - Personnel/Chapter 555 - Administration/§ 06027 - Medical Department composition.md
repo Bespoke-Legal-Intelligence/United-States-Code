@@ -42,9 +42,9 @@ The words “effective August 4, 1947” and the words “establishing the Medic
 
 #### Amendments
 
-1986—Pub. L. 99–433 substituted “section 5150(b)” for “section 5155(b)”.
+<b>1986</b>—Pub. L. 99–433 substituted “section 5150(b)” for “section 5155(b)”.
 
-1980—Pub. L. 96–513 authorized the Secretary of the Navy to designate staff corps as being in the Medical Department of the Navy and deleted specific references to the Medical Service Corps, the Nurse Corps, and the Hospital Corps as being in such Medical Department.
+<b>1980</b>—Pub. L. 96–513 authorized the Secretary of the Navy to designate staff corps as being in the Medical Department of the Navy and deleted specific references to the Medical Service Corps, the Nurse Corps, and the Hospital Corps as being in such Medical Department.
 
 #### Effective Date of 1980 Amendment
 

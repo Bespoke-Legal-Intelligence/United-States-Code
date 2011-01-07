@@ -46,11 +46,11 @@ Annual Report.—(1) The Chief of Air Force Reserve shall submit to the Secretar
 
 #### Amendments
 
-2004—Subsec. (b)(4). Pub. L. 108–375 substituted “December 31, 2006” for “December 31, 2004”.
+<b>2004</b>—Subsec. (b)(4). Pub. L. 108–375 substituted “December 31, 2006” for “December 31, 2004”.
 
-2002—Subsec. (b)(4). Pub. L. 107–314 substituted “December 31, 2004” for “October 1, 2003”.
+<b>2002</b>—Subsec. (b)(4). Pub. L. 107–314 substituted “December 31, 2004” for “October 1, 2003”.
 
-2000—Subsec. (b). Pub. L. 106–398 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The President, by and with the advice and consent of the Senate, shall appoint the Chief of Air Force Reserve from officers of the Air Force Reserve not on active duty, or on active duty under section 10211 of this title, who—
+<b>2000</b>—Subsec. (b). Pub. L. 106–398 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The President, by and with the advice and consent of the Senate, shall appoint the Chief of Air Force Reserve from officers of the Air Force Reserve not on active duty, or on active duty under section 10211 of this title, who—
 
 &emsp;“(1) have had at least 10 years of commissioned service in the Air Force;
 
@@ -60,19 +60,19 @@ Annual Report.—(1) The Chief of Air Force Reserve shall submit to the Secretar
 
 Subsec. (c). Pub. L. 106–398 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Chief of Air Force Reserve holds office for four years, but may be removed for cause at any time. He is eligible to succeed himself. If he holds a lower reserve grade, he shall be appointed in the grade of major general for service in the Air Force Reserve. However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general.”
 
-1999—Subsec. (c). Pub. L. 106–65 inserted at end “However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general.”
+<b>1999</b>—Subsec. (c). Pub. L. 106–65 inserted at end “However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general.”
 
-1997—Subsec. (e). Pub. L. 105–85 struck out “(1)” before “The Chief of Air Force”.
+<b>1997</b>—Subsec. (e). Pub. L. 105–85 struck out “(1)” before “The Chief of Air Force”.
 
-1996—Subsecs. (d) to (f). Pub. L. 104–201 added subsecs. (d) to (f).
+<b>1996</b>—Subsecs. (d) to (f). Pub. L. 104–201 added subsecs. (d) to (f).
 
-1994—Subsec. (b). Pub. L. 103–337 substituted “10211” for “265”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–337 substituted “10211” for “265”.
 
-1986—Subsec. (a). Pub. L. 99–433, §522(g)(3), struck out the comma after “Chief of Staff”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–433, §522(g)(3), struck out the comma after “Chief of Staff”.
 
 #### Effective Date of 1999 Amendment; Applicability to Incumbents
 
-Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special provision for an officer who is a covered position incumbent who is appointed under that amendment to the grade of lieutenant general or vice admiral, see section 554(g), (h) of Pub. L. 106–65, set out as a note under section 3038 of this title.
+Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special provision for an officer who isa covered position incumbent who is appointed under that amendment to the grade of lieutenant general or vice admiral, see section 554(g), (h) of Pub. L. 106–65, set out as a note under section 3038 of this title.
 
 #### Effective Date of 1994 Amendment
 

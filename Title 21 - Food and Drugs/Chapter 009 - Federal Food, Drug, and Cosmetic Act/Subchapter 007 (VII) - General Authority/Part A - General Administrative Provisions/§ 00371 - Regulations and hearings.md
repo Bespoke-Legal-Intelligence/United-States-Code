@@ -26,7 +26,7 @@ The definitions and standards of identity promulgated in accordance with the pro
 
 #### (f) Review of order
 
-(1) In a case of actual controversy as to the validity of any order under subsection (e) of this section, any person who will be adversely affected by such order if placed in effect may at any time prior to the ninetieth day after such order is issued file a petition with the United States court of appeals for the circuit wherein such person resides or has his principal place of business, for a judicial review of such order. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Secretary or other officer designated by him for that purpose. The Secretary thereupon shall file in the court the record of the proceedings on which the Secretary based his order, as provided in section 2112 of title 28.
+(1) In a case of actual controversy as to the validity of any order under subsection (e) of thissection, any person who will be adversely affected by such order if placed in effect may at any time prior to the ninetieth day after such order is issued file a petition with the United States court of appeals for the circuit wherein such person resides or has his principal place of business, for a judicial review of such order. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Secretary or other officer designated by him for that purpose. The Secretary thereupon shall file in the court the record of the proceedings on which the Secretary based his order, as provided in section 2112 of title 28.
 
 (2) If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Secretary, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Secretary, and to be adduced upon the hearing, in such manner and upon such terms and conditions as to the court may seem proper. The Secretary may modify his findings as to the facts, or make new findings, by reason of the additional evidence so taken, and he shall file such modified or new findings, and his recommendation, if any, for the modification or setting aside of his original order, with the return of such additional evidence.
 
@@ -60,15 +60,15 @@ A certified copy of the transcript of the record and proceedings under subsectio
 
 (5) Not later than July 1, 2000, the Secretary after evaluating the effectiveness of the Good Guidance Practices document, published in the Federal Register at 62 Fed. Reg. 8961, shall promulgate a regulation consistent with this subsection specifying the policies and procedures of the Food and Drug Administration for the development, issuance, and use of guidance documents.
 
-(June 25, 1938, ch. 675, §701, 52 Stat. 1055; June 25, 1948, ch. 646, §32, 62 Stat. 991; Apr. 15, 1954, ch. 143, §2, 68 Stat. 55; Aug. 1, 1956, ch. 861, §2, 70 Stat. 919; Pub. L. 85–791, §21, Aug. 28, 1958, 72 Stat. 948; Pub. L. 86–618, title I, §103(a)(4), July 12, 1960, 74 Stat. 398; Pub. L. 101–535, §8, Nov. 8, 1990, 104 Stat. 2365; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §§3(y), (dd)(1), 4(c), Aug. 13, 1993, 107 Stat. 778, 779; Pub. L. 103–396, §3(b), Oct. 22, 1994, 108 Stat. 4155; Pub. L. 105–115, title IV, §405, Nov. 21, 1997, 111 Stat. 2368.)
+(June 25, 1938, ch. 675, §701, 52 Stat. 1055; June 25, 1948, ch. 646, §32, 62 Stat. 991; Apr. 15, 1954, ch. 143, §2, 68 Stat. 55; Aug. 1, 1956, ch. 861, §2, 70 Stat. 919; Pub. L. 85–791, §21, Aug. 28, 1958, 72Stat. 948; Pub. L. 86–618, title I, §103(a)(4), July 12, 1960, 74 Stat. 398; Pub. L. 101–535, §8, Nov. 8, 1990, 104 Stat. 2365; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §§3(y), (dd)(1), 4(c), Aug. 13, 1993, 107 Stat. 778, 779; Pub. L. 103–396, §3(b), Oct. 22, 1994, 108 Stat. 4155; Pub. L. 105–115, title IV, §405, Nov. 21, 1997, 111 Stat. 2368.)
 
 #### Amendments
 
-1997—Subsec. (h). Pub. L. 105–115 added subsec. (h).
+<b>1997</b>—Subsec. (h). Pub. L. 105–115 added subsec. (h).
 
-1994—Subsec. (e)(1). Pub. L. 103–396 which directed the amendment of par. (1) by striking out “or maple syrup (regulated under section 168.140 of title 21, Code of Federal Regulations).”, was executed by striking out “or maple sirup (regulated under section 168.140 of title 21, Code of Federal Regulations)” before “shall be begun by a proposal”, to reflect the probable intent of Congress.
+<b>1994</b>—Subsec. (e)(1). Pub. L. 103–396 which directed the amendment of par. (1) by striking out “or maple syrup (regulated under section 168.140 of title 21, Code of Federal Regulations).”, was executed by striking out “or maple sirup (regulated under section 168.140 of title 21, Code of Federal Regulations)” before “shall be begun by a proposal”, to reflect the probable intent of Congress.
 
-1993—Subsec. (b). Pub. L. 103–80, §3(dd)(1), substituted “Health and Human Services” for “Agriculture” in two places.
+<b>1993</b>—Subsec. (b). Pub. L. 103–80, §3(dd)(1), substituted “Health and Human Services” for “Agriculture” in two places.
 
 Subsec. (e)(1). Pub. L. 103–80, §4(c), made technical correction to directory language of Pub. L. 101–535, §8. See 1990 Amendment note below.
 
@@ -76,19 +76,19 @@ Pub. L. 103–80, §3(y)(1), struck out period after second reference to “Regu
 
 Subsec. (f)(4). Pub. L. 103–80, §3(y)(2), substituted reference to section 1254 of title 28 for “sections 239 and 240 of the Judicial Code, as amended”.
 
-1992—Subsec. (b). Pub. L. 102–300, which directed the substitution of “Health and Human Services” for “Health, Education, and Welfare”, could not be executed because such words did not appear in the original statutory text. See 1993 Amendment note above and Transfer of Functions note below.
+<b>1992</b>—Subsec. (b). Pub. L. 102–300, which directed the substitution of “Health and Human Services” for “Health, Education, and Welfare”, could not be executed because such words did not appear in the original statutory text. See 1993 Amendment note above and Transfer of Functions note below.
 
-1990—Subsec. (e)(1). Pub. L. 101–535, §8, as amended by Pub. L. 103–80, §4(c), substituted “Any action for the issuance, amendment, or repeal of any regulation under section 343(j), 344(a), 346, 351(b), or 352(d) or (h) of this title, and any action for the amendment or repeal of any definition and standard of identity under section 341 of this title for any dairy product (including products regulated under parts 131, 133 and 135 of title 21, Code of Federal Regulations) or maple sirup (regulated under section 168.140 of title 21, Code of Federal Regulations)” for “Any action for the issuance, amendment, or repeal of any regulation under section 341, 343(j), 344(a), 346, 351(b), or 352(d) or (h) of this title”.
+<b>1990</b>—Subsec. (e)(1). Pub. L. 101–535, §8, as amended by Pub. L. 103–80, §4(c), substituted “Any action for the issuance, amendment, or repeal of any regulation under section 343(j), 344(a), 346, 351(b), or 352(d) or (h) of this title, and any action for the amendment or repeal of any definition and standard of identity under section 341 of this title for any dairy product (including products regulated under parts 131, 133 and 135 of title 21, Code of Federal Regulations) or maple sirup (regulated under section 168.140 of title 21, Code of Federal Regulations)” for “Any action for the issuance, amendment, or repeal of any regulation under section 341, 343(j), 344(a), 346, 351(b), or 352(d) or (h) of this title”.
 
-1960—Subsec. (e). Pub. L. 86–618 substituted “section 341, 343(j), 344(a), 346, 351(b), or 352(d) or (h), of this title” for “section 341, 343(j), 344(a), 346(a) or (b), 351(b), 352(d) or (h), 354 or 364 of this title”.
+<b>1960</b>—Subsec. (e). Pub. L. 86–618 substituted “section 341, 343(j), 344(a), 346, 351(b), or 352(d) or (h), of this title” for “section 341, 343(j), 344(a), 346(a) or (b), 351(b), 352(d) or (h), 354 or 364 of this title”.
 
-1958—Subsec. (f)(1). Pub. L. 85–791, §21(a), substituted provisions requiring transmission of a copy of the petition by clerk to Secretary, and filing of the record by Secretary, for provisions which permitted service of summons and petition any place in United States and required Secretary to certify and file transcript of the proceedings and record upon service.
+<b>1958</b>—Subsec. (f)(1). Pub. L. 85–791, §21(a), substituted provisions requiring transmission of a copy of the petition by clerk to Secretary, and filing of the record by Secretary, for provisions which permitted service of summons and petition any place in United States and required Secretary to certify and file transcript of the proceedings and record upon service.
 
 Subsec. (f)(3). Pub. L. 85–791, §21(b), inserted “Upon the filing of the petition referred to in paragraph (1) of this subsection”.
 
-1956—Subsec. (e). Act Aug. 1, 1956, simplified procedures governing prescribing of regulations under certain provisions of this chapter.
+<b>1956</b>—Subsec. (e). Act Aug. 1, 1956, simplified procedures governing prescribing of regulations under certain provisions of this chapter.
 
-1954—Subsec. (e). Act Apr. 15, 1954, struck out reference to section 341 of this title, before “343(j)”, such section 341 now containing its own provisions with respect to hearings regarding the establishment of food standards.
+<b>1954</b>—Subsec. (e). Act Apr. 15, 1954, struck out reference to section 341 of this title, before “343(j)”, such section 341 now containing its own provisions with respect to hearings regarding the establishment of food standards.
 
 #### Change of Name
 
@@ -126,7 +126,7 @@ Standards.—Not later than 180 days after the date of enactment of this Act \[N
 
 “(b)
 
-Guidance to Industry.—Not later than 180 days after the date of enactment of this Act \[Nov. 21, 1997\], the Secretary shall issue final guidances to clarify therequirements for, and facilitate the submission of data to support, the approval of supplemental applications for the approved articles described in subsection (a). The guidances shall—
+Guidance to Industry.—Not later than 180 days after the date of enactment of this Act \[Nov. 21, 1997\], the Secretary shall issue final guidances to clarify the requirements for, and facilitate the submission of data to support, the approval of supplemental applications for the approved articles described in subsection (a). The guidances shall—
 
 &emsp;“(1) clarify circumstances in which published matter may be the basis for approval of a supplemental application;
 
@@ -144,7 +144,7 @@ Responsibilities of Centers.—The Secretary shall designate an individual in ea
 
 “(d)
 
-Collaboration.—The Secretary shall implement programs and policies that will foster collaboration between the Food and Drug Administration, the National Institutes of Health, professional medical and scientific societies, and other persons, to identify published and unpublished studies that may support a supplemental application, and to encourage sponsors to make supplemental applications or conduct further research in support of a supplemental application based, in whole or in part, on such studies.”
+Collaboration.—The Secretary shall implement programs and policies that will foster collaboration between the Food and Drug Administration, the National Institutes of Health, professional medical and scientific societies, and other persons, to identify published andunpublished studies that may support a supplemental application, and to encourage sponsors to make supplemental applications or conduct further research in support of a supplemental application based, in whole or in part, on such studies.”
 
 #### Hearings Pending on April 15, 1954, With Respect to Food Standards
 

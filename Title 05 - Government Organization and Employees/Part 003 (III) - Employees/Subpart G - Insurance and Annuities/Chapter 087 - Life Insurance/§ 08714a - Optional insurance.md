@@ -1,6 +1,6 @@
 ### §8714a. Optional insurance
 
-(a) Under the conditions, directives, and terms specified in sections 8709–8712 of this title, the Office of Personnel Management, without regard to section 5 of title 41, may purchase a policy which shall make available to each insured employee equal amounts of optional life insurance and accidental death and dismemberment insurance in addition to the amounts provided in section 8704(a) of this title.
+(a) Under the conditions, directives, and terms specified in sections 8709–8712 of this title, the Office of Personnel Management, without regard to section 6101(b) to (d) of title 41, may purchase a policy which shall make available to each insured employee equal amounts of optional life insurance and accidental death and dismemberment insurance in addition to the amounts provided in section 8704(a) of this title.
 
 (b)(1) An employee who is deployed in support of a contingency operation (as that term is defined in section 101(a)(13) of title 10) or an employee of the Department of Defense who is designated as emergency essential under section 1580 of title 10 shall be insured under the policy of insurance under this section if the employee, within 60 days after the date of notification of deployment or designation, elects to be insured under the policy of insurance. An election under this paragraph shall be effective when provided to the Office in writing, in the form prescribed by the Office, within such 60-day period.
 
@@ -26,7 +26,7 @@
 
 (C) The amount of optional life insurance continued under subparagraph (A) or subparagraph (B) of this paragraph shall be reduced by 2 percent at the end of each full calendar month after the date the employee becomes 65 years of age and is retired or is receiving compensation for disease or injury. The Office shall prescribe minimum amounts, not less than 25 percent of the amount of life insurance in force before the first reduction, to which the insurance may be reduced.
 
-(3) Notwithstanding paragraph (c)(1) of this section,<sup>1</sup> a justice or judge of the United States as defined by section 8701(a)(5) of this title who resigns his office without meeting the requirements of section 371(a) of title 28, United States Code, for continuation of the judicial salary shall have the right to convert regular optional life insurance coverage issued under this section during his judicial service to an individual policy of life insurance under the same conditions approved by the Office governing conversion of basic life insurance coverage for employees eligible as provided in section 8706(a) of this title.
+(3) Notwithstanding paragraph (c)(1) of this section,<sup>1</sup> a justice or judge of the United States as defined by section 8701(a)(5) of this title whoresigns his office without meeting the requirements of section 371(a) of title 28, United States Code, for continuation of the judicial salary shall have the right to convert regular optional life insurance coverage issued under this section during his judicial service to an individual policy of life insurance under the same conditions approved by the Office governing conversion of basic life insurance coverage for employees eligible as provided in section 8706(a) of this title.
 
 (d)(1) During each period in which an employee has the optional insurance the full cost thereof shall be withheld from his pay. During each period in which an employee continues optional life insurance after retirement or while in receipt of compensation for work injuries, as provided in section 8706(b) of this title, the full cost thereof shall be withheld from his annuity or compensation, except that, at the end of the calendar month in which he becomes 65 years of age, the optional life insurance shall be without cost to him. Amounts so withheld shall be deposited, used, and invested as provided in section 8714 of this title and shall be reported and accounted for separately from amounts withheld and contributed under sections 8707 and 8708 of this title.
 
@@ -38,9 +38,11 @@
 
 (f) The amount of optional life, or life and accidental death, insurance in force on an employee at the date of his death shall be paid as provided in section 8705 of this title.
 
-(Added Pub. L. 90–206, title IV, §404(1), Dec. 16, 1967, 81 Stat. 647; amended Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §1(c), Nov. 2, 1978, 92 Stat. 2481; Pub. L. 96–427, §6, Oct. 10, 1980, 94 Stat. 1834; Pub. L. 98–353, title II, §206, July 10, 1984, 98 Stat. 351, as amended by Pub. L. 99–336, §7(1), June 19, 1986, 100 Stat. 639; Pub. L. 99–335, title II, §207(k)(3), June 6, 1986, 100 Stat. 597; Pub. L. 99–336, §7(1), June 19, 1986, 100 Stat. 639; Pub. L. 105–311, §6(2), Oct. 30, 1998, 112 Stat. 2951; Pub. L. 110–417, \[div. A\], title XI, §1103(b), Oct. 14, 2008, 122 Stat. 4616.)
+(Added Pub. L. 90–206, title IV, §404(1), Dec. 16, 1967, 81 Stat. 647; amended Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §1(c), Nov. 2, 1978, 92 Stat. 2481; Pub. L. 96–427, §6, Oct. 10, 1980, 94 Stat. 1834; Pub. L. 98–353, title II, §206, July 10, 1984, 98 Stat. 351, as amended by Pub. L. 99–336, §7(1), June 19, 1986, 100 Stat. 639; Pub. L. 99–335, title II, §207(k)(3), June 6, 1986, 100 Stat. 597; Pub. L. 99–336, §7(1), June 19, 1986, 100 Stat. 639; Pub. L. 105–311, §6(2), Oct. 30, 1998, 112 Stat. 2951; Pub. L. 110–417, \[div. A\], title XI, §1103(b), Oct. 14, 2008, 122 Stat. 4616; Pub. L. 111–350, §5(a)(12), Jan. 4, 2011, 124 Stat. 3841.)
 
 #### Amendments
+
+2011—Subsec. (a). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 5 of title 41”.
 
 2008—Subsec. (b). Pub. L. 110–417 designated existing provisions as par. (2) and added par. (1).
 
@@ -90,7 +92,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353, §206, as amended generally by Pub. L. 99–336, §7(1), applicable to any justiceor judge who retires under 28 U.S.C. 371(a) or (b) or 372(a) on or after January 1, 1982, see section 207 of Pub. L. 98–353, as amended generally by Pub. L. 99–336, §7(2), set out as a note under section 8706 of this title.
+Amendment by Pub. L. 98–353, §206, as amended generally by Pub. L. 99–336, §7(1), applicable to any justice or judge who retires under 28 U.S.C. 371(a) or (b) or 372(a) on or after January 1, 1982, see section 207 of Pub. L. 98–353, as amended generally by Pub. L. 99–336, §7(2), set out as a note under section 8706 of this title.
 
 #### Effective Date of 1980 Amendment
 

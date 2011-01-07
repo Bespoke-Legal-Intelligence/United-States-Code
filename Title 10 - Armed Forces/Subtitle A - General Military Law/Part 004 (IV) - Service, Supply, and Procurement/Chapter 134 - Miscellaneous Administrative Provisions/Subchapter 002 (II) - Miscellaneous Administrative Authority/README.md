@@ -18,21 +18,21 @@
 
 #### Amendments
 
-2008—Pub. L. 110–417, \[div. A\], title X, §1004(a)(2), Oct. 14, 2008, 122 Stat. 4583, added item 2263.
+<b>2008</b>—Pub. L. 110–417, \[div. A\], title X, §1004(a)(2), Oct. 14, 2008, 122 Stat. 4583, added item 2263.
 
-2006—Pub. L. 109–364, div. A, title X, §1051(b), Oct. 17, 2006, 120 Stat. 2396, added item 2262.
+<b>2006</b>—Pub. L. 109–364, div. A, title X, §1051(b), Oct. 17, 2006, 120 Stat. 2396, added item 2262.
 
 Pub. L. 109–163, div. A, title V, §589(a)(2), Jan. 6, 2006, 119 Stat. 3279, added item 2261.
 
-2004—Pub. L. 108–375, div. A, title X, §1004(b), Oct. 28, 2004, 118 Stat. 2036, added item 2260.
+<b>2004</b>—Pub. L. 108–375, div. A, title X, §1004(b), Oct. 28, 2004, 118 Stat. 2036, added item 2260.
 
-2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1082(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–285, added item 2259.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title X, §1082(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–285, added item 2259.
 
-1999—Pub. L. 106–65, div. A, title V, §574(b), Oct. 5, 1999, 113 Stat. 624, added item 2257.
+<b>1999</b>—Pub. L. 106–65, div. A, title V, §574(b), Oct. 5, 1999, 113 Stat. 624, added item 2257.
 
-1996—Pub. L. 104–201, div. A, title IX, §911(a)(2), Sept. 23, 1996, 110 Stat. 2622, added item 2255.
+<b>1996</b>—Pub. L. 104–201, div. A, title IX, §911(a)(2), Sept. 23, 1996, 110 Stat. 2622, added item 2255.
 
-1992—Pub. L. 102–484, div. A, title X, §1071(a)(2), Oct. 23, 1992, 106 Stat. 2508, added item 2254.
+<b>1992</b>—Pub. L. 102–484, div. A, title X, §1071(a)(2), Oct. 23, 1992, 106 Stat. 2508, added item 2254.
 
 
 ---

@@ -16,7 +16,7 @@ In subsec. (b), “section 3324(a) and (b) of title 31” substituted for “sec
 
 #### Amendments
 
-1967—Pub. L. 90–19 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1967</b>—Pub. L. 90–19 substituted “Secretary” for “Administrator” wherever appearing.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -20,15 +20,15 @@
 
 #### Amendments
 
-2009—Pub. L. 111–84, div. A, title V, §563(a)(2), Oct. 28, 2009, 123 Stat. 2307, added item 1781c.
+<b>2009</b>—Pub. L. 111–84, div. A, title V, §563(a)(2), Oct. 28, 2009, 123 Stat. 2307, added item 1781c.
 
-2008—Pub. L. 110–417, \[div. A\], title V, §582(b), Oct. 14, 2008, 122 Stat. 4474, added item 1784a.
+<b>2008</b>—Pub. L. 110–417, \[div. A\], title V, §582(b), Oct. 14, 2008, 122 Stat. 4474, added item 1784a.
 
 Pub. L. 110–181, div. A, title V, §581(d), Jan. 28, 2008, 122 Stat. 122, added items 1781a and 1781b.
 
-2003—Pub. L. 108–136, div. A, title V, §582(a)(2), Nov. 24, 2003, 117 Stat. 1490, added item 1789.
+<b>2003</b>—Pub. L. 108–136, div. A, title V, §582(a)(2), Nov. 24, 2003, 117 Stat. 1490, added item 1789.
 
-2002—Pub. L. 107–314, div. A, title VI, §652(a)(2), Dec. 2, 2002, 116 Stat. 2581, added item 1788.
+<b>2002</b>—Pub. L. 107–314, div. A, title VI, §652(a)(2), Dec. 2, 2002, 116 Stat. 2581, added item 1788.
 
 
 ---

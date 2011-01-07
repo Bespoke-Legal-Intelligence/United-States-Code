@@ -20,7 +20,7 @@ Another prior section 4301 was renumbered section 7601 of this title.
 
 #### Amendments
 
-1996—Subsec. (a)(2). Pub. L. 104–275 struck out “under honorable conditions” after “upon their completion of such service”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–275 struck out “under honorable conditions” after “upon their completion of such service”.
 
 #### Effective Date of 1996 Amendment
 
@@ -90,69 +90,101 @@ Definition.—For the purposes of this section, the term ‘service in the unifo
 
 #### Demonstration Project for Referral of USERRA Claims Against Federal Agencies to the Office of Special Counsel
 
-Pub. L. 108–454, title II, §204, Dec. 10, 2004, 118 Stat. 3606, provided that:
+Pub. L. 111–275, title I, §105, Oct. 13, 2010, 124 Stat. 2868, provided that:
 
 “(a)
 
-Establishment of Project.—The Secretary of Labor and the Office of Special Counsel shall carry out a demonstration project under which certain claims against Federal executive agencies under the Uniformed Services Employment and Reemployment Rights Act \[of 1994, Pub. L. 103–353, see Tables for classification\] under chapter 43 of title 38, United States Code, are referred to, or otherwise received by, the Office of Special Counsel for assistance, including investigation and resolution of the claim as well as enforcement of rights with respect to the claim.
+Establishment of Project.—The Secretary of Labor and the Office of Special Counsel shall carry out a 36-month demonstration project under which certain claims against Federal executive agencies under chapter 43 of title 38, United States Code, are referred to, or otherwise received by, the Office of Special Counsel for assistance, including investigation and resolution of the claim as well as enforcement of rights with respect to the claim. The demonstration program shall begin not later than 60 days after the Comptroller General of the United States submits the report required under subsection (e)(3).
 
 “(b)
 
-Referral of All Prohibited Personnel Action Claims to the Office of Special Counsel.—(1) Under the demonstration project, the Office of Special Counsel shall receive and investigate all claims under the Uniformed Services Employment and Reemployment Rights Act \[of 1994\] with respect to Federal executive agencies in cases where the Office of Special Counsel has jurisdiction over related claims pursuant to section 1212 of title 5, United States Code.
+Referral of All Prohibited Personnel Practice Claims to the Office of Special Counsel.—
 
-“(2) For purposes of paragraph (1), a related claim is a claim involving the same Federal executive agency and the same or similar factual allegations or legal issues as those being pursued under a claim under the Uniformed Services Employment and Reemployment Rights Act \[of 1994\].
+&emsp;“(1)
+
+In general.—Under the demonstration project, the Office of Special Counsel shall receive and investigate all claims under chapter 43 of title 38, United States Code, with respect to Federal executive agencies in cases where the Office of Special Counsel has jurisdiction over related claims pursuant to section 1212 of title 5, United States Code.
+
+&emsp;“(2)
+
+Related claims.—For purposes of paragraph (1), a related claim is a claim involving the same Federal executive agency and the same or similar factual allegations or legal issues as those being pursued under a claim under chapter 43 of title 38, United States Code.
 
 “(c)
 
-Referral of Other Claims Against Federal Executive Agencies.—(1) Under the demonstration project, the Secretary—
+Referral of Other Claims Against Federal Executive Agencies.—
 
-&emsp;“(A) shall refer to the Office of Special Counsel all claims described in paragraph (2) made during the period of the demonstration project; and
+&emsp;“(1)
 
-&emsp;“(B) may refer any claim described in paragraph (2) filed before the demonstration project that is pending before the Secretary at the beginning of the demonstration project.
+In general.—Under the demonstration project, the Secretary—
 
-“(2) A claim referred to in paragraph (1) is a claim under chapter 43 of title 38, United States Code, against a Federal executive agency by a claimant with a social security account number with an odd number as its terminal digit, or, in the case of a claim that does not contain a social security account number, a case number assigned to the claim with an odd number as its terminal digit.
+&emsp;&emsp;“(A) shall refer to the Office of Special Counsel all claims described in paragraph (2) made during the period of the demonstration project; and
+
+&emsp;&emsp;“(B) may refer any claim described in paragraph (2) filed before the demonstration project that is pending before the Secretary at the beginning of the demonstration project.
+
+&emsp;“(2)
+
+Claims described.—A claim described in this paragraph is a claim under chapter 43 of title 38, United States Code, against a Federal executive agency by a claimant with a social security account number with an odd number as its terminal digit or, in the case of a claim that does not contain a social security account number, a case number assigned to the claim with an odd number as its terminal digit.
 
 “(d)
 
-Administration of Demonstration Project.—(1) The Office of Special Counsel shall administer the demonstration project. The Secretary shall cooperate with the Office of Special Counsel in carrying out the demonstration project.
+Administration of Demonstration Project.—
 
-“(2) In the case of any claim referred \[to\], or otherwise received by, to \[sic\] the Office of Special Counsel under the demonstration project, any reference to the ‘Secretary’ in sections 4321, 4322, and 4326 of title 38, United States Code, is deemed a reference to the ‘Office of Special Counsel’.
+&emsp;“(1)
 
-“(3) In the case of any claim referred to, or otherwise received by, the Office of Special Counsel under thedemonstration project, the Office of Special Counsel shall retain administrative jurisdiction over the claim.
+In general.—The Office of Special Counsel shall administer the demonstration project. The Secretary shall cooperate with the Office of Special Counsel in carrying out the demonstration project.
+
+&emsp;“(2)
+
+Treatment of certain terms in chapter 43 of title 38, united states code.—In the case of any claim referred to, or otherwise received by, the Office of Special Counsel under the demonstration project, any reference to the ‘Secretary’ in sections 4321, 4322, and 4326 of title 38, United States Code, is deemed to be a reference to the ‘Office of Special Counsel’.
+
+&emsp;“(3)
+
+Administrative jurisdiction.—In the case of any claim referred to, or otherwise received by, the Office of Special Counsel under the demonstration project, the Office of Special Counsel shall retain administrative jurisdiction over the claim.
 
 “(e)
 
-Period of Project.—The demonstration project shall be carried out during the period beginning on the date that is 60 days after the date of the enactment of this Act \[Dec. 10, 2004\], and ending on September 30, 2007.
+Data Comparability for Reviewing Agency Performance.—
+
+&emsp;“(1)
+
+In general.—To facilitate the review of the relative performance of the Office of Special Counsel and the Department of Labor during the demonstration project, the Office of Special Counsel and the Department of Labor shall jointly establish methods and procedures to be used by both the Office and the Department during the demonstration project. Such methods and procedures shall include each of the following:
+
+&emsp;&emsp;“(A) Definitions of performance measures, including—
+
+&emsp;&emsp;&emsp;“(i) customer satisfaction;
+
+&emsp;&emsp;&emsp;“(ii) cost (such as, but not limited to, average cost per claim);
+
+&emsp;&emsp;&emsp;“(iii) timeliness (such as, but not limited to, average processing time, case age);
+
+&emsp;&emsp;&emsp;“(iv) capacity (such as, but not limited to, staffing levels, education, grade level, training received, caseload); and
+
+&emsp;&emsp;&emsp;“(v) case outcomes.
+
+&emsp;&emsp;“(B) Definitions of case outcomes.
+
+&emsp;&emsp;“(C) Data collection methods and timing of collection.
+
+&emsp;&emsp;“(D) Data quality assurance processes.
+
+&emsp;“(2)
+
+Joint report to congress.—Not later than 90 days after the date of the enactment of this Act \[Oct. 13, 2010\], the Special Counsel and the Secretary of Labor shall jointly submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives and to the Comptroller General of the United States a report describing the methods and procedures established under paragraph (1).
+
+&emsp;“(3)
+
+Comptroller general report.—Not later than 30 days after the date of the submittal of the report under paragraph (2), the Comptroller General shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the report submitted under paragraph (2) and may provide recommendations for improving the methods and procedures described therein.
 
 “(f)
 
-Evaluations and Report.—(1) The Comptroller General of the United States shall conduct periodic evaluations of the demonstration project under this section.
-
-“(2) Not later than April 1, 2007, the Comptroller General shall submit to Congress a report on the evaluations conducted under paragraph (1). The report shall include the following information and recommendations:
-
-&emsp;“(A) A description of the operation and results of the demonstration program, including—
-
-&emsp;&emsp;“(i) the number of claims described in subsection (c) referred to, or otherwise received by, the Office of Special Counsel, and the number of such claims referred to the Secretary of Labor; and
-
-&emsp;&emsp;“(ii) for each Federal executive agency, the number of claims resolved, the type of corrective action obtained, the period of time for final resolution of the claim, and the results obtained.
-
-&emsp;“(B) An assessment of whether referral to the \[O\]ffice of \[S\]pecial \[C\]ounsel of claims under the demonstration project—
-
-&emsp;&emsp;“(i) improved services to servicemembers and veterans; or
-
-&emsp;&emsp;“(ii) significantly reduced or eliminated duplication of effort and unintended delays in resolving meritorious claims of those servicemembers and veterans.
-
-&emsp;“(C) An assessment of the feasibility and advisability of referring all claims under chapter 43 of title 38, United States Code, against Federal executive agencies to the Office of Special Counsel for investigation and resolution.
-
-&emsp;“(D) Such other recommendations for administrative action or legislation as the Comptroller General determines appropriate.
+Agency Data to Government Accountability Office.—The Office of Special Counsel and the Secretary of Labor shall submit to the Comptroller General such information and data about the demonstration project as may be required by the Comptroller General, from time to time during the course of the demonstration project and at the conclusion, in order for the Comptroller General to assess the reliability of the demonstration data maintained by both the Office of Special Counsel and the Department of Labor and to review the relative performance of the Office and Department under the demonstration project.
 
 “(g)
 
-Definitions.—In this section:
+Government Accountability Office Report.—The Comptroller General shall review the relative performance of the Office of Special Counsel and the Department of Labor under the demonstration project and—
 
-&emsp;“(1) The term ‘Office of Special Counsel’ means the Office of Special Counsel established by section 1211 of title 5, United States Code.
+&emsp;“(1) not later than one year after the commencement of the demonstration project, and annually thereafter during the period when the demonstration project is conducted, submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives an interim report on the demonstration project; and
 
-&emsp;“(2) The term ‘Secretary’ means the Secretary of Labor.
+&emsp;“(2) not later than 90 days after the conclusion of the demonstration project, submit to such committees a final report that includes the findings and conclusions of the Comptroller General regarding the relative performance of the Office and the Department under the demonstration project and such recommendations as the Comptroller General determines are appropriate.”
 
-&emsp;“(3) The term ‘Federal executive agency’ has the meaning given that term in section 4303(5) of title 38, United States Code.”
+Pub. L. 108–454, title II, §204, Dec. 10, 2004, 118 Stat. 3606, required the Secretary of Labor and the Office of Special Counsel to carry out a demonstration project during the period beginning 60 days after Dec. 10, 2004, and ending on September 30, 2007, under which certain claims against Federal executive agencies under the Uniformed Services Employment and Reemployment Rights Act of 1994, Pub. L. 103–353, under this chapter were referred to, or otherwise received by, the Office of Special Counsel for assistance.
 

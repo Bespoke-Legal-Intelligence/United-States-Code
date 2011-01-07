@@ -6,5 +6,5 @@ The Secretary shall establish and carry out a program within the Indian Health S
 
 #### Codification
 
-Another section 502 of Pub. L. 93–638, as added by Pub. L. 106–568, title XIII, §1302, Dec. 27, 2000, 114 Stat. 2938, is classified to section 458bbb–1 of this title.
+Another section 502 of Pub. L. 93–638 was renumbered section 802 and is classified to section 458ddd–1 of this title.
 

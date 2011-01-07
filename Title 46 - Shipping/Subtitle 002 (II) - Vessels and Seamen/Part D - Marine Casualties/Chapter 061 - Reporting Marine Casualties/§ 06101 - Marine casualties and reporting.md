@@ -82,7 +82,7 @@ Section 6101(a) requires the Secretary to prescribe regulations on the types and
 
 Subsection (b) requires the owner, charterer, agent, master, operator, or individual in charge of a vessel to report within 5 days, any casualty required in subsection (a) or by regulation.
 
-Subsection (c) requires the owner, charterer, managing operator, or agent of a U.S. vessel to immediately determine the status of their vessel if they have not heard from the vessel, if it has not passed a scheduled point, or for any other reason which may indicate the vessel may have been lost or imperiled. If the owner, charterer, managing operator, or agent cannot reach the vessel and determine that it is operating safely, then they shall immediately notify the Coast Guard and provide the Coast Guard with the name and number of the vessel, the names of individuals on board, and any other information that the Coast Guard may request. If communication with the vessel indicates the vessel was involved in a casualty, then the owner, charterer, or agent of the vessel must immediately notify the Coast Guard under subsection (b). Notification to the Coast Guard does not impose or create any additional responsibility for the Coast Guard to take search and rescue action beyond those already existing under title 14, United States Code.
+Subsection (c) requires the owner, charterer, managing operator, or agent of a U.S. vessel to immediatelydetermine the status of their vessel if they have not heard from the vessel, if it has not passed a scheduled point, or for any other reason which may indicate the vessel may have been lost or imperiled. If the owner, charterer, managing operator, or agent cannot reach the vessel and determine that it is operating safely, then they shall immediately notify the Coast Guard and provide the Coast Guard with the name and number of the vessel, the names of individuals on board, and any other information that the Coast Guard may request. If communication with the vessel indicates the vessel was involved in a casualty, then the owner, charterer, or agent of the vessel must immediately notify the Coast Guard under subsection (b). Notification to the Coast Guard does not impose or create any additional responsibility for the Coast Guard to take search and rescue action beyond those already existing under title 14, United States Code.
 
 Subsection (d) makes it clear that the reporting requirements under subsection (b) are applicable to foreign vessels involved in a marine casualty when operating on the navigable waters of the United States, whether in innocent passage or not.
 
@@ -90,13 +90,13 @@ Subsection (e) provides for the classification of marine casualties by regulatio
 
 #### Amendments
 
-2008—Subsecs. (g) to (i). Pub. L. 110–181 repealed Pub. L. 109–304, §15(21). See 2006 Amendment notes below.
+<b>2008</b>—Subsecs. (g) to (i). Pub. L. 110–181 repealed Pub. L. 109–304, §15(21). See 2006 Amendment notes below.
 
-2006—Subsecs. (g) to (i). Pub. L. 109–304, §15(21), which directed amendment identical to that made by Pub. L. 109–241, was repealed by Pub. L. 110–181. See Construction of 2006 Amendment note below.
+<b>2006</b>—Subsecs. (g) to (i). Pub. L. 109–304, §15(21), which directed amendment identical to that made by Pub. L. 109–241, was repealed by Pub. L. 110–181. See Construction of 2006 Amendment note below.
 
 Pub. L. 109–241 redesignated the second subsec. (g), relating to electronic publishing of marine casualty reports, and subsec. (h) as subsecs. (h) and (i), respectively.
 
-2002—Subsecs. (e), (f). Pub. L. 107–295, §423(1), redesignated subsec. (e), relating to passenger vessel investigations, as subsec. (f).
+<b>2002</b>—Subsecs. (e), (f). Pub. L. 107–295, §423(1), redesignated subsec. (e), relating to passenger vessel investigations, as subsec. (f).
 
 Subsec. (g). Pub. L. 107–295, §442(a), added subsec. (g) relating to electronic publishing of marine casualty reports.
 
@@ -104,13 +104,13 @@ Pub. L. 107–295, §423(2), added subsec. (g) relating to applicability of this
 
 Subsec. (h). Pub. L. 107–295, §442(a), added subsec. (h).
 
-1991—Subsec. (e). Pub. L. 102–241 added subsec. (e) relating to passenger vessel investigations.
+<b>1991</b>—Subsec. (e). Pub. L. 102–241 added subsec. (e) relating to passenger vessel investigations.
 
-1990—Subsec. (a)(5). Pub. L. 101–380, §4106(b)(1), added par. (5).
+<b>1990</b>—Subsec. (a)(5). Pub. L. 101–380, §4106(b)(1), added par. (5).
 
 Subsec. (d). Pub. L. 101–380, §4106(b)(2), designated existing provisions as par. (1) and added par. (2).
 
-1984—Subsec. (a). Pub. L. 98–498, §212(b)(1)(A), struck out “and incidents” after “marine casualties” in provisions preceding par. (1).
+<b>1984</b>—Subsec. (a). Pub. L. 98–498, §212(b)(1)(A), struck out “and incidents” after “marine casualties” in provisions preceding par. (1).
 
 Subsec. (b). Pub. L. 98–557 inserted provisions relating to alcohol as a contributing factor to the casualty.
 

@@ -72,7 +72,7 @@ In order to receive an allotment under section 7111(b) of this title for any fis
 
 #### (1) Deemed approval
 
-&emsp;An application submitted by a State pursuant to this section shall undergo peer review by the Secretary and shall be deemed to be approved by the Secretary unless the Secretary makes a written determination, prior to the expiration of the 120-day period beginning on the date on which the Secretary received the application, that the application is not in compliance with this subpart.
+&emsp;An application submitted by a State pursuant to this section shall undergo peer review by the Secretary and shall be deemed to be approved by the Secretary unless the Secretary makes a written determination, prior to theexpiration of the 120-day period beginning on the date on which the Secretary received the application, that the application is not in compliance with this subpart.
 
 #### (2) Disapproval
 

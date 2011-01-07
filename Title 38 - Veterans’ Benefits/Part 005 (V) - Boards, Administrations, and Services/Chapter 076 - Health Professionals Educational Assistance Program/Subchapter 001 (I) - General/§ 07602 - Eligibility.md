@@ -6,17 +6,17 @@
 
 (b) An individual is not eligible to apply to participate in the Educational Assistance Program under subchapter II, III, or VI of this chapter if the individual is obligated under any other Federal program to perform service after completion of the course of education or training of such individual referred to in subsection (a) of this section.
 
-(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 518, §4302; amended Pub. L.101–366, title II, §205(c)(2), Aug. 15, 1990, 104 Stat. 441; renumbered §7602, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 105–368, title VIII, §805(2), Nov. 11, 1998, 112 Stat. 3358.)
+(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 518, §4302; amended Pub. L. 101–366, title II, §205(c)(2), Aug. 15, 1990, 104 Stat. 441; renumbered §7602, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 105–368, title VIII, §805(2), Nov. 11, 1998, 112 Stat. 3358.)
 
 #### Amendments
 
-1998—Subsec. (a)(1). Pub. L. 105–368, §805(2)(A), substituted “subchapter II, III, or VI” for “subchapter I or II”, substituted “, for which” for “or for which”, and inserted before period at end “, or for which a scholarship may be awarded under subchapter VI of this chapter, as the case may be”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–368, §805(2)(A), substituted “subchapter II, III, or VI” for “subchapter I or II”, substituted “, for which” for “or for which”, and inserted before period at end “, or for which a scholarship may be awarded under subchapter VI of this chapter, as the case may be”.
 
 Subsec. (b). Pub. L. 105–368, §805(2)(B), substituted “subchapter II, III, or VI” for “subchapter I or II”.
 
-1991—Pub. L. 102–40 renumbered section 4302 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 4302 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83 substituted “Secretary” for “Administrator” in pars. (1) and (2).
 
-1990—Subsecs. (a)(1), (b). Pub. L. 101–366 inserted “under subchapter I or II of this chapter” after “Educational Assistance Program”.
+<b>1990</b>—Subsecs. (a)(1), (b). Pub. L. 101–366 inserted “under subchapter I or II of this chapter” after “Educational Assistance Program”.
 

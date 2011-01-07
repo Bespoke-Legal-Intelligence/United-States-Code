@@ -8,7 +8,7 @@ There are transferred to and vested in the Secretary all functions vested by cha
 
 &emsp;(3) Naval Petroleum Reserve Numbered 3 (Teapot Dome), located in Wyoming, established by Executive order of the President, dated April 30, 1915;
 
-&emsp;(4) Oil Shale Reserve Numbered 1, located in Colorado, established by Executive order ofthe President, dated December 6, 1916, as amended by Executive order dated June 12, 1919;
+&emsp;(4) Oil Shale Reserve Numbered 1, located in Colorado, established by Executive order of the President, dated December 6, 1916, as amended by Executive order dated June 12, 1919;
 
 &emsp;(5) Oil Shale Reserve Numbered 2, located in Utah, established by Executive order of the President, dated December 6, 1916; and
 

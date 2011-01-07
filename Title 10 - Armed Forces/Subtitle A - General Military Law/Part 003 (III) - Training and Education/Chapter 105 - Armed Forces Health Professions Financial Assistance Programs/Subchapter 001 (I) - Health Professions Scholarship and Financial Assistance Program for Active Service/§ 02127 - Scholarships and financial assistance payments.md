@@ -10,7 +10,7 @@
 
 (e) A person participating as a member of the program in specialized training shall be paid an annual grant in an amount not to exceed $45,000 in addition to the stipend under section 2121(d) of this title. The maximum amount of the grant shall be increased annually by the Secretary of Defense, effective July 1 of each year, in the same manner as provided for stipends.
 
-(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 718; amended Pub. L. 96–513, title V,§511(67), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–258, §3(b)(3), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 98–525, title XIV, §1405(56)(A), Oct. 19, 1984, 98 Stat. 2626; Pub. L. 100–180, div. A, title VII, §711(a)(2), Dec. 4, 1987, 101 Stat. 1108; Pub. L. 101–189, div. A, title VII, §725(d)(1), (2), Nov. 29, 1989, 103 Stat. 1479; Pub. L. 109–364, div. A, title V, §538(b), Oct. 17, 2006, 120 Stat. 2209; Pub. L. 111–84, div. A, title X, §1073(a)(19), Oct. 28, 2009, 123 Stat. 2473.)
+(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 718; amended Pub. L. 96–513, title V, §511(67), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–258, §3(b)(3), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 98–525, title XIV, §1405(56)(A), Oct. 19, 1984, 98 Stat. 2626; Pub. L. 100–180, div. A, title VII, §711(a)(2), Dec. 4, 1987, 101 Stat. 1108; Pub. L. 101–189, div. A, title VII, §725(d)(1), (2), Nov. 29, 1989, 103 Stat. 1479; Pub. L. 109–364, div. A, title V, §538(b), Oct. 17, 2006, 120 Stat. 2209; Pub. L. 111–84, div. A, title X, §1073(a)(19), Oct. 28, 2009, 123 Stat. 2473.)
 
 #### Prior Provisions
 
@@ -18,21 +18,21 @@ Prior sections 2128 to 2130 were renumbered sections 16201 to 16203 of this titl
 
 #### Amendments
 
-2009—Subsec. (e). Pub. L. 111–84 struck out “of” after “an annual grant”.
+<b>2009</b>—Subsec. (e). Pub. L. 111–84 struck out “of” after “an annual grant”.
 
-2006—Subsec. (e). Pub. L. 109–364 substituted “in an amount not to exceed $45,000” for “$15,000” and “The maximum amount” for “The amount”.
+<b>2006</b>—Subsec. (e). Pub. L. 109–364 substituted “in an amount not to exceed $45,000” for “$15,000” and “The maximum amount” for “The amount”.
 
-1989—Pub. L. 101–189, §725(d)(2), substituted “Scholarships and financial assistance” for “Contracts for scholarships” in section catchline.
+<b>1989</b>—Pub. L. 101–189, §725(d)(2), substituted “Scholarships and financial assistance” for “Contracts for scholarships” in section catchline.
 
 Subsec. (e). Pub. L. 101–189, §725(d)(1), added subsec. (e).
 
-1987—Subsecs. (b), (d). Pub. L. 100–180 substituted “subchapter” for “chapter”.
+<b>1987</b>—Subsecs. (b), (d). Pub. L. 100–180 substituted “subchapter” for “chapter”.
 
-1984—Subsec. (b). Pub. L. 98–525 substituted “subsections (a) and (b) of section 3324” for “section 3324(a) and (b)”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–525 substituted “subsections (a) and (b) of section 3324” for “section 3324(a) and (b)”.
 
-1982—Subsec. (b). Pub. L. 97–258 substituted “section 3324(a) and (b) of title 31” for “section 3648 of the Revised Statutes (31 U.S.C. 529)”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–258 substituted “section 3324(a) and (b) of title 31” for “section 3648 of the Revised Statutes (31 U.S.C. 529)”.
 
-1980—Subsec. (d). Pub. L. 96–513 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+<b>1980</b>—Subsec. (d). Pub. L. 96–513 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
 #### Effective Date of 2006 Amendment
 

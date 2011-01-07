@@ -24,7 +24,7 @@
 
 &emsp;(C) govern the placement of such position in its appropriate class.
 
-(c) The Clerk, the Sergeant at Arms, the Chief Administrative Officer, and the Inspector General of the House of Representatives, shall transmit to the committee, at such times and in such form as the committee deems appropriate, all position descriptions required by subsection (b) of this section to be prepared, provided, and currently maintained by them, together with such other pertinent information as the committee may require, in order that the committeeshall have, at all times, current information with respect to such position descriptions, the positions to which such descriptions apply, and related personnel matters within the purview of this chapter. Such information so transmitted shall be kept on file in the committee.
+(c) The Clerk, the Sergeant at Arms, the Chief Administrative Officer, and the Inspector General of the House of Representatives, shall transmit to the committee, at such times and in such form as the committee deems appropriate, all position descriptions required by subsection (b) of this section to be prepared, provided, and currently maintained by them, together with such other pertinent information as the committee may require, in order that the committee shall have, at all times, current information with respect to such position descriptions, the positions to which such descriptions apply, and related personnel matters within the purview of this chapter. Such information so transmitted shall be kept on file in the committee.
 
 (d) Notwithstanding any other provision of this chapter, the committee shall have authority, which may be exercised at any time in its discretion, to—
 
@@ -45,6 +45,10 @@
 > All such actions of the committee shall be binding on the House officer and organization unit concerned and shall be the basis for payment of compensation and for other personnel benefits and transactions until otherwise changed by the committee.
 
 (Pub. L. 88–652, §5, Oct. 13, 1964, 78 Stat. 1080; Pub. L. 104–53, title I, §108(3), (4), Nov. 19, 1995, 109 Stat. 522; Pub. L. 104–186, title II, §209(2), Aug. 20, 1996, 110 Stat. 1743.)
+
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which enacted this chapter and amended sections 88c and 123b of this title. For complete classification of this Act to the Code, see Short Title note set out under section 291 of this title and Tables.
 
 #### Amendments
 

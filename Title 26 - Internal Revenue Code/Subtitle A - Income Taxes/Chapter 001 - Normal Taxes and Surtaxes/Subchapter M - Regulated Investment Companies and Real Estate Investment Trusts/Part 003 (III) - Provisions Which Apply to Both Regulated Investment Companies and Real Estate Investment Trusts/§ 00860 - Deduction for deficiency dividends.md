@@ -50,7 +50,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the real estate investment trust taxable income of the real estate investment trust (determined without regard to the deduction for dividends paid (as defined in section 561) and by excluding any net capital gain), and
 
-&emsp;&emsp;&emsp;(ii) the excess of the net income from foreclosure property (as defined in section 857(b)(4)(B)) over the tax on such income imposed by section 857(b)(4)(A),
+&emsp;&emsp;&emsp;(ii) the excess of the net income from foreclosure property (as defined in section857(b)(4)(B)) over the tax on such income imposed by section 857(b)(4)(A),
 
 &emsp;&emsp;(B) any increase in the amount of the excess described in section 857(b)(3)(A)(ii) (relating to the excess of the net capital gain over the deduction for capital gains dividends paid), and
 
@@ -72,7 +72,7 @@ For purposes of this section, the term “determination” means—
 
 #### (1) Definition
 
-&emsp;For purposes of this section, the term “deficiency dividends” means a distribution of property made by the qualified investment entity on or after the date of the determinationand before filing claim under subsection (g), which would have been includible in the computation of the deduction for dividends paid under section 561 for the taxable year with respect to which the liability for tax resulting from the determination exists if distributed during such taxable year. No distribution of property shall be considered as deficiency dividends for purposes of subsection (a) unless distributed within 90 days after the determination, and unless a claim for a deficiency dividend deduction with respect to such distribution is filed pursuant to subsection (g).
+&emsp;For purposes of this section, the term “deficiency dividends” means a distribution of property made by the qualified investment entity on or after the date of the determination and before filing claim under subsection (g), which would have been includible in the computation of the deduction for dividends paid under section 561 for the taxable year with respect to which the liability for tax resulting from the determination exists if distributed during such taxable year. No distribution of property shall be considered as deficiency dividends for purposes of subsection (a) unless distributed within 90 days after the determination, and unless a claim for a deficiency dividend deduction with respect to such distribution is filed pursuant to subsection (g).
 
 #### (2) Limitations
 
@@ -86,7 +86,7 @@ For purposes of this section, the term “determination” means—
 
 #### (B) Capital gain dividends
 
-&emsp;&emsp;The amount of deficiency dividends qualifying as capital gain dividends paid by a qualified investment entity for the taxable year with respect to which the liability for tax resulting from the determination exists shall not exceed the amount by which (i) the increase referred to in subparagraph (B) of paragraph (1) or (2) of subsection (d) (whichever applies), exceeds (ii) the amount of any dividends paid during such taxable year which are designated as capital gain dividends after such determination.
+&emsp;&emsp;The amount of deficiency dividends qualifying as capital gain dividends paid by a qualified investment entity for the taxable year with respect to which the liability for tax resulting from the determination exists shall not exceed the amount by which (i) the increase referred to in subparagraph (B) of paragraph (1) or (2) of subsection (d) (whichever applies), exceeds (ii) the amount of any dividends paid during such taxable year which are designated or reported (as the case may be) as capital gain dividends after such determination.
 
 #### (3) Effect on dividends paid deduction
 
@@ -122,11 +122,7 @@ No deficiency dividend deduction shall be allowed under subsection (a) unless (u
 
 No deficiency dividend deduction shall be allowed under subsection (a) if the determination contains a finding that any part of any deficiency attributable to an adjustment with respect to the taxable year is due to fraud with intent to evade tax or to willfull <sup>2</sup> failure to file an income tax return within the time prescribed by law or prescribed by the Secretary in pursuance of law.
 
-#### (j) Penalty
-
-&emsp;&emsp;<b>For assessable penalty with respect to liability for tax of a regulated investment company which is allowed a deduction under subsection (a), see section 6697.</b>
-
-(Added Pub. L. 95–600, title III, §362(a), Nov. 6, 1978, 92 Stat. 2848; amended Pub. L. 96–222, title I, §103(a)(11)(B), (C), Apr. 1, 1980, 94 Stat. 213; Pub. L. 99–514, title VI, §667(b)(1), Oct. 22, 1986, 100 Stat. 2306; Pub. L. 108–357, title II, §243(f)(5), Oct. 22, 2004, 118 Stat. 1445.)
+(Added Pub. L. 95–600, title III, §362(a), Nov. 6, 1978, 92 Stat. 2848; amended Pub. L. 96–222, title I, §103(a)(11)(B), (C), Apr. 1, 1980, 94 Stat. 213; Pub. L. 99–514, title VI, §667(b)(1), Oct. 22, 1986, 100 Stat. 2306; Pub. L. 108–357, title II, §243(f)(5), Oct. 22, 2004, 118 Stat. 1445; Pub. L. 111–325, title III, §301(a)(2), title V, §501(b), Dec. 22, 2010, 124 Stat. 3542, 3554.)
 
 #### Prior Provisions
 
@@ -134,11 +130,21 @@ A prior section 860 was renumbered section 859 of this title.
 
 #### Amendments
 
-2004—Subsec. (e)(4). Pub. L. 108–357 added par. (4).
+<b>2010</b>—Subsec. (f)(2)(B). Pub. L. 111–325, §301(a)(2), inserted “or reported (as the case may be)” after “designated”.
 
-1986—Subsec. (j). Pub. L. 99–514 substituted “regulated investment company” for “qualified investment entity”.
+Subsec. (j). Pub. L. 111–325, §501(b), struck out subsec. (j). Text read as follows: “For assessable penalty with respect to liability for tax of a regulated investment company which is allowed a deduction under subsection (a), see section 6697.”
 
-1980—Subsec. (f). Pub. L. 96–222 substituted in heading “Deficiency” for “Efficiency” and in par. (2)(A)(i) “(computed without regard” for “computed without regard”.
+<b>2004</b>—Subsec. (e)(4). Pub. L. 108–357 added par. (4).
+
+<b>1986</b>—Subsec. (j). Pub. L. 99–514 substituted “regulated investment company” for “qualified investment entity”.
+
+<b>1980</b>—Subsec. (f). Pub. L. 96–222 substituted in heading “Deficiency” for “Efficiency” and in par. (2)(A)(i) “(computed without regard” for “computed without regard”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 301(a)(2) of Pub. L. 111–325 applicable to taxable years beginning after Dec. 22, 2010, see section 301(h) of Pub. L. 111–325, set out as a note under section 852 of this title.
+
+Pub. L. 111–325, title V, §501(c), Dec. 22, 2010, 124 Stat. 3554, provided that: “The amendments made by this section \[amending this section and repealing section 6697 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Dec. 22, 2010\].”
 
 #### Effective Date of 2004 Amendment
 
@@ -151,4 +157,8 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 #### Effective Date
 
 Section 362(e) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §103(a)(11)(A), Apr. 1, 1980, 94 Stat. 212; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting this section, amending sections 316, 381, 852, 857, 6422, 6503, 6515, and 6697 of this title, repealing section 859 of this title, and redesignating prior section 860 as 859 of this title\] shall apply with respect to determinations (as defined in section 860(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) after the date of the enactment of this Act \[Nov. 6, 1978\].”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “decrease”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “willful”.</i>
 

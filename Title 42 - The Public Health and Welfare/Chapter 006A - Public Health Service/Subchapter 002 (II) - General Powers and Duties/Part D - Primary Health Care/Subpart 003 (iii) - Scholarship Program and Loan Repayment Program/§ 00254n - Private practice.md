@@ -2,7 +2,7 @@
 
 #### (a) Application for release of obligations; conditions
 
-The Secretary shall, to the extent permitted by, and consistent with, the requirements of applicable State law, release an individual from all or part of his service obligation under section 254m(a) of this title or under section 234 <sup>1</sup> of this title (as in effect on September 30, 1977) if the individual applies for such a release under this section and enters into a written agreement with the Secretary under which the individual agrees to engage for a period equal to the remaining period of his service obligation in thefull-time private clinical practice (including service as a salaried employee in an entity directly providing health services) of his health profession—
+The Secretary shall, to the extent permitted by, and consistent with, the requirements of applicable State law, release an individual from all or part of his service obligation under section 254m(a) of this title or under section 234 <sup>1</sup> of this title (as in effect on September 30, 1977) if the individual applies for such a release under this section and enters into a written agreement with the Secretary under which the individual agrees to engage for a period equal to the remaining period of his service obligation in the full-time private clinical practice (including service as a salaried employee in an entity directly providing health services) of his health profession—
 
 &emsp;(1) in the case of an individual who received a scholarship under the Scholarship Program or a loan repayment under the Loan Repayment Program and who is performing obligated service as a member of the Corps in a health professional shortage area on the date of his application for such a release, in the health professional shortage area in which such individual is serving on such date or in the case of an individual for whom a loan payment was made under the Loan Repayment Program and who is performing obligated service as a member of the Corps in a health professional shortage area on the date of the application of the individual for such a release, in the health professional shortage area selected by the Secretary; or
 
@@ -64,11 +64,11 @@ A prior section 338D of act July 1, 1944, was renumbered section 338E by section
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–251 added subsec. (b) and struck out former subsec. (b) which related to written agreements, regulations, and actions to ensure compliance.
+<b>2002</b>—Subsec. (b). Pub. L. 107–251 added subsec. (b) and struck out former subsec. (b) which related to written agreements, regulations, and actions to ensure compliance.
 
-1990—Subsec. (a)(1), (2). Pub. L. 101–597 substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing.
+<b>1990</b>—Subsec. (a)(1), (2). Pub. L. 101–597 substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing.
 
-1987—Subsec. (a). Pub. L. 100–177, §307(1)–(3), made technical amendment to reference to section 254m of this title to reflect renumbering of corresponding section of original act, in introductory provisions, in par.\(1) inserted “who received a scholarship under the Scholarship Program or a loan repayment under the Loan Repayment Program and” after “individual” the first time it appeared as the probable intent of Congress, and inserted “or in the case of an individual for whom a loan payment was made under the Loan Repayment Program and who is performing obligated service as a member of the Corps in a health manpower shortage area on the date of the application of the individual for such a release, in the health manpower shortage area selected by the Secretary”, and in par. (2) inserted “selected by the Secretary”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–177, §307(1)–(3), made technical amendment to reference to section 254m of this title to reflect renumbering of corresponding section of original act, in introductory provisions, in par. (1) inserted “who received a scholarship under the Scholarship Program or a loan repayment under the Loan Repayment Program and” after “individual” the first time it appeared as the probable intent of Congress, and inserted “or in the case of an individual for whom a loan payment was made under the Loan Repayment Program and who is performing obligated service as a member of the Corps in a health manpower shortage area on the date of the application of the individual for such a release, in the health manpower shortage area selected by the Secretary”, and in par. (2) inserted “selected by the Secretary”.
 
 Subsec. (b). Pub. L. 100–177, §307(4), inserted at end “The Secretary shall take such action as may be appropriate to ensure that the conditions of the written agreement prescribed by this subsection are adhered to.”
 
@@ -76,13 +76,13 @@ Subsec. (c). Pub. L. 100–177, §307(5), inserted reference to section 254<i>l<
 
 Subsec. (e). Pub. L. 100–177, §307(b), designated par. (2) as entire subsection and struck out par. (1) which read as follows: “The Secretary may make such arrangements as he determines are necessary for the individual for the use of equipment and supplies and for the lease or acquisition of other equipment and supplies.”
 
-1981—Subsec. (a). Pub. L. 97–35, §2709(d)(1), inserted provision respecting requirements of applicable State law, substituted references to sections 254m(a) and 234 of this title, for reference to section 294u(a) of this title, and in cl. (2) struck out priority requirement under section 254f(c) of this title.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §2709(d)(1), inserted provision respecting requirements of applicable State law, substituted references to sections 254m(a) and 234 of this title, for reference to section 294u(a) of this title, and in cl. (2) struck out priority requirement under section 254f(c) of this title.
 
 Subsec. (b)(1)(B). Pub. L. 97–35, §2709(d)(2), inserted “(i)” before “shall not” and added cl. (ii).
 
 Subsecs. (c) to (g). Pub. L. 97–35, §2709(d)(3), added subsecs. (c) to (g).
 
-1980—Subsec. (a). Pub. L. 96–538 substituted in par. (2) “which has” for “which (A) has” and struck out subpar. (B) which referred to a health manpower shortage area which has a sufficient financial base to substain private practice and provide the individual with income of not less than the income of members of the Corps, and struck out provision following par. (2) which provided that in the case of an individual described in par. (1), the Secretary release the individual from his service obligation under this subsection only if the Secretary determines that the area in which the individual is serving met the requirements of cl. (B) of par. (2).
+<b>1980</b>—Subsec. (a). Pub. L. 96–538 substituted in par. (2) “which has” for “which (A) has” and struck out subpar. (B) which referred to a health manpower shortage area which has a sufficient financial base to substain private practice and provide the individual with income of not less than the income of members of the Corps, and struck out provision following par. (2) which provided that in the case of an individual described in par. (1), the Secretary release the individual from his service obligation under this subsection only if the Secretary determines that the area in which the individual is serving met the requirements of cl. (B) of par. (2).
 
 #### Effective Date
 

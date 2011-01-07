@@ -30,7 +30,7 @@ The purposes of this chapter are to help ensure the continued leadership of the 
 
 #### Amendments
 
-1998—Pub. L. 105–305, §3(b)(1), substituted “Purposes” for “Purpose” as section catchline.
+<b>1998</b>—Pub. L. 105–305, §3(b)(1), substituted “Purposes” for “Purpose” as section catchline.
 
 Pub. L. 105–305, §3(b)(2), substituted “purposes of this chapter are” for “purpose of this chapter is” in introductory provisions.
 

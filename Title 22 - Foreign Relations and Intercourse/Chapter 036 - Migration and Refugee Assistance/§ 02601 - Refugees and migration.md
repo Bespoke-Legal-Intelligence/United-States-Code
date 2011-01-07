@@ -48,23 +48,23 @@ Sections 405(a), 405(c), 405(d), and 451(c) of the Mutual Security Act of 1954, 
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–228 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The President is authorized to continue membership for the United States in the International Organization for Migration in accordance with its constitution approved in Venice, Italy, on October 19, 1953, as amended in Geneva, Switzerland, on May 20, 1987. For the purpose of assisting in the movement of refugees and migrants and to enhance the economic progress of the developing countries by providing for a coordinated supply of selected manpower, there are authorized to be appropriated such amounts as may be necessary from time to time for the payment by the United States of its contributions to the Organization and all necessary salaries and expenses incident to United States participation in the Organization.”
+<b>2002</b>—Subsec. (a). Pub. L. 107–228 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The President is authorized to continue membership for the United States in the International Organization for Migration in accordance with its constitution approved in Venice, Italy, on October 19, 1953, as amended in Geneva, Switzerland, on May 20, 1987. For the purpose of assisting in the movement of refugees and migrants and to enhance the economic progress of the developing countries by providing for a coordinated supply of selected manpower, there are authorized to be appropriated such amounts as may be necessary from time to time for the payment by the United States of its contributions to the Organization and all necessary salaries and expenses incident to United States participation in the Organization.”
 
-1994—Subsec. (a). Pub. L. 103–236, §430(a)(1)–(3), substituted “the International Organization for Migration” for “the Intergovernmental Committee for European Migration”, inserted “, as amended in Geneva, Switzerland, on May 20, 1987” before period at end of first sentence, and substituted “the Organization” for “the Committee” in two places.
+<b>1994</b>—Subsec. (a). Pub. L. 103–236, §430(a)(1)–(3), substituted “the International Organization for Migration” for “the Intergovernmental Committee for European Migration”, inserted “, as amended in Geneva, Switzerland, on May 20, 1987” before period at end of first sentence, and substituted “the Organization” for “the Committee” in two places.
 
 Subsec. (b)(1). Pub. L. 103–236, §430(a)(1), substituted “the International Organization for Migration” for “the Intergovernmental Committee for European Migration”.
 
 Subsec. (c)(2). Pub. L. 103–236, §430(a)(4), substituted “$100,000,000” for “$50,000,000”.
 
-1985—Subsec. (f). Pub. L. 99–93 added subsec. (f).
+<b>1985</b>—Subsec. (f). Pub. L. 99–93 added subsec. (f).
 
-1980—Subsec. (b). Pub. L. 96–212, §312(b)(1), in par. (1) inserted provisions respecting contributions to the Intergovernmental Committee for European Migration, etc., in par. (2) inserted provisions requiring refugees to be outside of the United States, and struck out requirement that the assistance contribute to the defense or security of the United States, and struck out pars. (3) to (6), which related to assistance when determined by the President to be in the interest of the United States, assistance to State and local agencies, assistance for transportation and resettlement, and assistance for employment and professional refresher training projects, respectively.
+<b>1980</b>—Subsec. (b). Pub. L. 96–212, §312(b)(1), in par. (1) inserted provisions respecting contributions to the Intergovernmental Committee for European Migration, etc., in par. (2) inserted provisions requiring refugees to be outside of the United States, and struck out requirement that the assistance contribute to the defense or security of the United States, and struck out pars. (3) to (6), which related to assistance when determined by the President to be in the interest of the United States, assistance to State and local agencies, assistance for transportation and resettlement, and assistance for employment and professional refresher training projects, respectively.
 
 Subsec. (c)(2). Pub. L. 96–212, §312(b)(2), inserted provisions increasing amount from $25,000,000 to $50,000,000.
 
-1975—Subsec. (c). Pub. L. 94–141 designated existing provision as par. (1), substituted provisions authorizing the President to furnish assistance on such terms and conditions as he determines, for provisions authorizing President to transfer not more than $10,000,000 in any fiscal year of the funds made available under the Foreign Assistance Act of 1961 for the purposes of this chapter, and added pars. (2) and (3).
+<b>1975</b>—Subsec. (c). Pub. L. 94–141 designated existing provision as par. (1), substituted provisions authorizing the President to furnish assistance on such terms and conditions as he determines, for provisions authorizing President to transfer not more than $10,000,000 in any fiscal year of the funds made available under the Foreign Assistance Act of 1961 for the purposes of this chapter, and added pars. (2) and (3).
 
-1964—Subsec. (e). Pub. L. 88–634 struck out last sentence “Funds appropriated for the purposes of this section shall remain available until expended.”
+<b>1964</b>—Subsec. (e). Pub. L. 88–634 struck out last sentence “Funds appropriated for the purposes of this section shall remain available until expended.”
 
 #### Effective Date of 1980 Amendment
 

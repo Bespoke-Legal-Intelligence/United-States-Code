@@ -6,5 +6,5 @@ As part of the Educational Assistance Program, the Secretary may carry out a sch
 
 #### Amendments
 
-2001—Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
+<b>2001</b>—Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
 

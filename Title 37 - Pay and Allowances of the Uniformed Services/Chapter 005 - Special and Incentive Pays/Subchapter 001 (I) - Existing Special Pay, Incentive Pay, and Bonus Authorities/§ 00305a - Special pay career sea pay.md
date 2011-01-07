@@ -14,7 +14,7 @@ Premium.—A member of a uniformed service entitled to career sea pay under this
 
 (d)
 
-Regulations.—The Secretary concerned shall prescribe regulations for the administration of this section for the armed force or armed forces under the jurisdiction of the Secretary. The entitlements under this section shall be subject to the regulations.
+Regulations.—The Secretary concerned shall prescribe regulations for the administration of this section for the armed force or armedforces under the jurisdiction of the Secretary. The entitlements under this section shall be subject to the regulations.
 
 (e)
 
@@ -46,9 +46,9 @@ Definition of Sea Duty.—(1) In this section, the term “sea duty” means dut
 
 #### Amendments
 
-2008—Subsec. (e)(1)(A)(iv). Pub. L. 110–181 added cl. (iv).
+<b>2008</b>—Subsec. (e)(1)(A)(iv). Pub. L. 110–181 added cl. (iv).
 
-2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VI, §630(a)(1)\], inserted heading and substituted “A member” for “Under regulations prescribed by the President, a member” in text.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VI, §630(a)(1)\], inserted heading and substituted “A member” for “Under regulations prescribed by the President, a member” in text.
 
 Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title VI, §630(a)(3)\], added subsec. (b) and struck out former subsec. (b) which contained tables specifying the monthly rates for special pay under subsec. (a) for enlisted members, warrant officers, and commissioned officers.
 
@@ -58,25 +58,25 @@ Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title VI, §630(a)(3)\], added
 
 Subsec. (e). Pub. L. 106–398, §1 \[\[div. A\], title VI, §630(a)(2), (b)\], redesignated subsec. (d) as (e) and inserted heading.
 
-1997—Subsec. (d)(1)(A). Pub. L. 105–85, §620(1), struck out “, ship-based staff, or ship-based aviation unit” after “assigned to a ship”.
+<b>1997</b>—Subsec. (d)(1)(A). Pub. L. 105–85, §620(1), struck out “, ship-based staff, or ship-based aviation unit” after “assigned to a ship”.
 
 Subsec. (d)(1)(B). Pub. L. 105–85, §620(2), struck out “or ship-based staff” after “assigned to a ship”.
 
 Subsec. (d)(2) to (4). Pub. L. 105–85, §620(3), (4), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-1996—Subsec. (d)(1)(A). Pub. L. 104–106 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “while permanently or temporarily assigned to a ship, ship-based staff, or ship-based aviation unit and while serving on a ship the primary mission of which is accomplished while under way or while serving as a member of the off-crew of a two-crewed submarine; or”.
+<b>1996</b>—Subsec. (d)(1)(A). Pub. L. 104–106 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “while permanently or temporarily assigned to a ship, ship-based staff, or ship-based aviation unit and while serving on a ship the primary mission of which is accomplished while under way or while serving as a member of the off-crew of a two-crewed submarine; or”.
 
-1991—Subsec. (a). Pub. L. 102–25 struck out “of this section” after “subsection (b)”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–25 struck out “of this section” after “subsection (b)”.
 
 Subsec. (b). Pub. L. 102–190, in table pertaining to warrant officers, added provisions relating to pay grade W–5 in three places.
 
-1989—Subsec. (b). Pub. L. 101–189 inserted “COMMISSIONED” before “OFFICERS” in heading of table relating to officers in pay grades O–1 through O–6.
+<b>1989</b>—Subsec. (b). Pub. L. 101–189 inserted “COMMISSIONED” before “OFFICERS” in heading of table relating to officers in pay grades O–1 through O–6.
 
-1988—Subsec. (d)(2). Pub. L. 100–456 substituted “after December 31, 1988,” for “on or after the effective date specified in section 621(e)(1) of the National Defense Authorization Act for Fiscal Year 1988”.
+<b>1988</b>—Subsec. (d)(2). Pub. L. 100–456 substituted “after December 31, 1988,” for “on or after the effective date specified in section 621(e)(1) of the National Defense Authorization Act for Fiscal Year 1988”.
 
-1987—Subsec. (b). Pub. L. 100–224 substituted “Over 14” for “Over 13” in table relating to warrant officers.
+<b>1987</b>—Subsec. (b). Pub. L. 100–224 substituted “Over 14” for “Over 13” in table relating to warrant officers.
 
-Pub. L. 100–180, §621(a), in amending subsec. (b) generally, struck out “of this section” after “subsection (a)” in introductory provisions and amended table pertaining to enlisted members so as to reflect downward adjustment in monthly special pay rates for persons in pay grade E–4 having over 2 years of sea duty and for persons in pay grades E–5 through E–9 having less than 5 years of sea duty, and amended table so as to reflect upward adjustment for persons in pay grades E–5 through E–9 having over 5 years of sea duty, amended table pertaining to warrant officers so as to reflect upward adjustment for persons in pay grades W–1 through W–3 having over 9 years of sea duty and for persons in pay grade W–4 having over 10 years of sea duty, and in table pertaining to officers for pay grade O–4 substituted “220” for “215” in the column for “Over 8”.
+Pub. L. 100–180, §621(a), in amending subsec. (b) generally, struck out “of this section” after “subsection (a)” in introductory provisions and amended table pertaining to enlisted members so as to reflect downward adjustment in monthly special pay rates for persons in pay grade E–4 having over 2 years of sea duty and for persons in pay grades E–5 through E–9 having less than 5 years of sea duty, and amended table so as to reflect upward adjustment for persons in pay grades E–5 through E–9 having over 5 years of sea duty, amended table pertaining to warrant officers so as to reflect upward adjustment for persons in pay grades W–1 through W–3 having over 9 years of sea duty and for persons in pay grade W–4 having over 10 years of sea duty, and intable pertaining to officers for pay grade O–4 substituted “220” for “215” in the column for “Over 8”.
 
 Subsec. (c). Pub. L. 100–180, §621(b), inserted “(other than an enlisted member in a pay grade above E–4 with more than five years of sea duty)” after first reference to “sea duty”.
 
@@ -90,15 +90,15 @@ Subsec. (d). Pub. L. 100–180, §621(c), amended subsec. (d) generally. Prior t
 
 Pub. L. 100–26 substituted “In this section,” for “For the purposes of this section,”.
 
-1985—Subsec. (b). Pub. L. 99–145 amended table for warrant officers for pay grade W–3 by substituting “330” for “310” in column for “Over 12”, and for pay grade W–4, substituted “320” for “310” in column for “Over 10”, substituted “330” for “310” in column for “Over 11”, and “350” for “310” in column for “Over 12”, inserted columns for “Over 14”, “Over 16”, “Over 18”, and “Over 20”, and in table for commissioned officers inserted columns for “Over 14”, “Over 16”, “Over 18”, and “Over 20”, and struck out the subscript qualifier for pay grades O–1 and O–2, which read: “Commissioned officers with at least four years of active service as enlisted members or as noncommissioned warrant officers”.
+<b>1985</b>—Subsec. (b). Pub. L. 99–145 amended table for warrant officers for pay grade W–3 by substituting “330” for “310” in column for “Over 12”, and for pay grade W–4, substituted “320” for “310” in column for “Over 10”, substituted “330” for “310” in column for “Over 11”, and “350” for “310” in column for “Over 12”, inserted columns for “Over 14”, “Over 16”, “Over 18”, and “Over 20”, and in table for commissioned officers inserted columns for “Over 14”, “Over 16”, “Over 18”, and “Over 20”, and struck out the subscript qualifier for pay grades O–1 and O–2, which read: “Commissioned officers with at least four years of active service as enlisted members or as noncommissioned warrant officers”.
 
-1984—Subsec. (b). Pub. L. 98–525 amended table relating to rates of pay for enlisted members by substituting “265” for “255” and “320” for “310” in column for “Over 10”, “265” for “255” and “330” for “310” in column for “Over 11”, “280” for “255”, “320” for “310”, and “350” for “310” in column for “Over 12”, and inserted columns for “Over 13”, “Over 14”, “Over 16”, and “Over 18”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–525 amended table relating to rates of pay for enlisted members by substituting “265” for “255” and “320” for “310” in column for “Over 10”, “265” for “255” and “330” for “310” in column for “Over 11”, “280” for “255”, “320” for “310”, and “350” for “310” in column for “Over 12”, and inserted columns for “Over 13”, “Over 14”, “Over 16”, and “Over 18”.
 
-1982—Subsec. (d). Pub. L. 97–295 substituted “clause (2)” for “clause (B)” after “for purposes of”.
+<b>1982</b>—Subsec. (d). Pub. L. 97–295 substituted “clause (2)” for “clause (B)” after “for purposes of”.
 
-1981—Subsec. (d)(1). Pub. L. 97–60 inserted provisions relating to service as a member of the off crew of a two-crewed submarine.
+<b>1981</b>—Subsec. (d)(1). Pub. L. 97–60 inserted provisions relating to service as a member of the off crew of a two-crewed submarine.
 
-1980—Subsec. (a). Pub. L. 96–579 substituted provision declaring a member of a uniformed service entitled to basic pay as eligible for special pay for prior provision for eligibility to such pay of an enlisted member of a uniformed service entitled to basic pay, in pay grade E–4 or above, with three years of sea duty.
+<b>1980</b>—Subsec. (a). Pub. L. 96–579 substituted provision declaring a member of a uniformed service entitled to basic pay as eligible for special pay for prior provision for eligibility to such pay of an enlisted member of a uniformed service entitled to basic pay, in pay grade E–4 or above, with three years of sea duty.
 
 Subsec. (b). Pub. L. 96–579 substituted special monthly pay table for enlisted members, warrant officers, and commissioned officers for prior special monthly rate for enlisted members for sea duty above prescribed number of years: $29, 3 yrs.; $40, 5 yrs.; $52, 7 yrs.; $63, 9 yrs.; $75, 10 yrs.; $86, 11 yrs.; and $115, 12 yrs.
 
@@ -148,7 +148,7 @@ Section 623(c) of Pub. L. 98–525 provided that: “The amendments made by this
 
 #### Effective Date of 1980 Amendments
 
-Section 4(b) of Pub. L. 96–579 provided: “The amendment made by this section \[amending this section\] shall be effective with respect to special pay payable under section 305a of title 37, United States Code, for months after the month in which this section is enacted \[December 1980\].”
+Section 4(b) of Pub. L. 96–579 provided: “The amendment made by this section \[amending this section\]shall be effective with respect to special pay payable under section 305a of title 37, United States Code, for months after the month in which this section is enacted \[December 1980\].”
 
 Section 3(c) of Pub. L. 96–343 provided that: “The amendments made by this section \[amending this section and repealing section 804(a)(2) of Pub. L. 95–485, formerly set out as a note below\] shall be effective with respect to special pay payable under section 305a of title 37, United States Code, for months after August 1980.”
 
@@ -162,5 +162,5 @@ Pub. L. 95–485, title VIII, §804(a)(2), Oct. 20, 1978, 92 Stat. 1620, which a
 
 #### Determination of Amount of Sea Credit; Periods Prior to October 1, 1978
 
-Section 804(a)(3) of Pub. L. 95–485 provided that: “In determining the amount of sea duty to be credited toan enlisted member of a uniformed service for purposes of section 305a of title 37, United States Code (as added by paragraph (1)), the Secretary concerned shall credit such member with all periods of service by such member before October 1, 1978, during which such member served in a sea duty status.”
+Section 804(a)(3) of Pub. L. 95–485 provided that: “In determining the amount of sea duty to be credited to an enlisted member of a uniformed service for purposes of section 305a of title 37, United States Code (as added by paragraph (1)), the Secretary concerned shall credit such member with all periods of service by such member before October 1, 1978, during which such member served in a sea duty status.”
 

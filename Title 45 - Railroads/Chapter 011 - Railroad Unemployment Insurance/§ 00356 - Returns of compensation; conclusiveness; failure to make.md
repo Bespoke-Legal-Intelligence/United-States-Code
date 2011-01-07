@@ -6,13 +6,13 @@ Employers shall file with the Board, in such manner and at such times as the Boa
 
 #### Amendments
 
-1966—Pub. L. 89–700 struck out provisions which required returns of compensation of employees to be under oath.
+<b>1966</b>—Pub. L. 89–700 struck out provisions which required returns of compensation of employees to be under oath.
 
-1946—Act July 31, 1946, changed references to compensation earned by an employee to refer to compensation paid to an employee.
+<b>1946</b>—Act July 31, 1946, changed references to compensation earned by an employee to refer to compensation paid to an employee.
 
-1940—Act Oct. 10, 1940, inserted provisions relating to conclusiveness of returns for purpose of determining eligibility for and amount of benefits, and struck out requirements that returns relate to monthly compensation and that distributed statements of compensation be prepared by Board.
+<b>1940</b>—Act Oct. 10, 1940, inserted provisions relating to conclusiveness of returns for purpose of determining eligibility for and amount of benefits, and struck out requirements that returns relate to monthly compensation and that distributed statements of compensation be prepared by Board.
 
-1939—Act June 20, 1939, struck out requirement that return shall be in form required by Board, inserted proviso relating to return containing duplicative information, and substituted provisions relating to conclusiveness of returns not questioned within eighteen months after last return is filed, for provisions relating to conclusiveness of returns not questioned within four years after last date on which return was required to be made.
+<b>1939</b>—Act June 20, 1939, struck out requirement that return shall be in form required by Board, inserted proviso relating to return containing duplicative information, and substituted provisions relating to conclusiveness of returns not questioned within eighteen months after last return is filed, for provisions relating to conclusiveness of returns not questioned within four years after last date on which return was required to be made.
 
 #### Effective Date of 1946 Amendment
 

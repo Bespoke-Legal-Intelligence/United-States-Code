@@ -2,7 +2,7 @@
 
 (a) As used in this section:
 
-&emsp;(1) The term “criminal justice agency” means (A) any Federal, State, or local court, and (B) any Federal, State, or local agency, orany subunit thereof, which performs the administration of criminal justice pursuant to a statute or Executive order, and which allocates a substantial part of its annual budget to the administration of criminal justice.
+&emsp;(1) The term “criminal justice agency” means (A) any Federal, State, or local court, and (B) any Federal, State, or local agency, or any subunit thereof, which performs the administration of criminal justice pursuant to a statute or Executive order, and which allocates a substantial part of its annual budget to the administration of criminal justice.
 
 &emsp;(2) The term “criminal history record information” means information collected by criminal justice agencies on individuals consisting of identifiable descriptions and notations of arrests, indictments, informations, or other formal criminal charges, and any disposition arising therefrom, sentencing, correction supervision, and release. The term does not include identification information such as fingerprint records to the extent that such information does not indicate involvement of the individual in the criminal justice system. The term does not include those records of a State or locality sealed pursuant to law from access by State and local criminal justice agencies of that State or locality.
 
@@ -54,7 +54,7 @@
 
 (4) Information provided through such systems shall be the full and complete criminal history record.
 
-(5) Criminal justice agencies shall accept and respond to requests for criminal history record information through such systems with printed or photocopied records when requested.
+(5) Criminal justice agencies shall accept and respond to requests for criminal history recordinformation through such systems with printed or photocopied records when requested.
 
 (f) The authority provided under this section with respect to the Department of State may be exercised only so long as the Department of State continues to extend to its employees and applicants for employment, at a minimum, those procedural safeguards provided for as part of the security clearance process that were made available, as of May 1, 1987, pursuant to section 163.4 of volume 3 of the Foreign Affairs Manual.
 
@@ -66,7 +66,7 @@
 
 Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title X, §1076(e)(1)\], substituted “means (A) any Federal, State, or local court, and (B) any Federal, State, or local agency, or any subunit thereof, which” for “includes Federal, State, and local agencies and means: (A) courts, or (B) a Government agency or any subunit thereof which”.
 
-Subsec. (a)(4). Pub. L. 106–398, §1 \[\[div. A\], title X, §1076(e)(2)\], inserted “the Commonwealth of” before “the Northern Mariana Islands” and struck out “theTrust Territory of the Pacific Islands,” after “American Samoa,”.
+Subsec. (a)(4). Pub. L. 106–398, §1 \[\[div. A\], title X, §1076(e)(2)\], inserted “the Commonwealth of” before “the Northern Mariana Islands” and struck out “the Trust Territory of the Pacific Islands,” after “American Samoa,”.
 
 Subsec. (a)(6). Pub. L. 106–398, §1 \[\[div. A\], title X, §1076(a)(1)\], added par. (6).
 

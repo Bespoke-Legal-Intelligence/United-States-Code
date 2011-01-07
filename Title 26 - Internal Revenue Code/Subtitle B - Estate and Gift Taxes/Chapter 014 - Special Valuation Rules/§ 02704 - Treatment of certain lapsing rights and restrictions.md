@@ -58,7 +58,7 @@
 
 #### (4) Other restrictions
 
-&emsp;The Secretary may by regulations provide that other restrictions shall be disregarded in determining the value of the transfer of any interest in a corporation or partnership to a member of the transferor's family if such restriction has the effect of reducing the value of the transferred interest for purposes of this subtitle but does not ultimately reduce the value of such interest to the transferee.
+&emsp;The Secretary may by regulations provide that other restrictions shall be disregarded indetermining the value of the transfer of any interest in a corporation or partnership to a member of the transferor's family if such restriction has the effect of reducing the value of the transferred interest for purposes of this subtitle but does not ultimately reduce the value of such interest to the transferee.
 
 #### (c) Definitions and special rules
 
@@ -88,7 +88,7 @@ For purposes of this section—
 
 #### Amendments
 
-1996—Subsec. (c)(3). Pub. L. 104–188 substituted “section 2701(e)(3)” for “section 2701(e)(3)(A)”.
+<b>1996</b>—Subsec. (c)(3). Pub. L. 104–188 substituted “section 2701(e)(3)” for “section 2701(e)(3)(A)”.
 
 #### Effective Date of 1996 Amendment
 

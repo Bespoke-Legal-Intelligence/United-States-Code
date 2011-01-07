@@ -10,7 +10,7 @@ For the purposes of this subchapter—
 
 #### Amendments
 
-1987—Par. (1). Pub. L. 100–139 substituted “Umpqua Tribe of Indians” for “Umpqua Tribe of Oregon”.
+<b>1987</b>—Par. (1). Pub. L. 100–139 substituted “Umpqua Tribe of Indians” for “Umpqua Tribe of Oregon”.
 
 #### Short Title of 1987 Amendment
 

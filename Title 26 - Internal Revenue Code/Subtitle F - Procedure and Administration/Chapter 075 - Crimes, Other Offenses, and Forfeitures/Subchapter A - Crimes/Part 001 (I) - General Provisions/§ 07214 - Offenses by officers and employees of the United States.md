@@ -36,9 +36,9 @@ Any internal revenue officer or employee interested, directly or indirectly, in 
 
 #### Amendments
 
-1976—Subsec. (a)(8). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a)(8). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1958—Subsec. (c). Pub. L. 85–859 struck out a cross reference that related to penalty imposed for unlawfully removing or permitting to be removed distilled spirits from a bonded warehouse.
+<b>1958</b>—Subsec. (c). Pub. L. 85–859 struck out a cross reference that related to penalty imposed for unlawfully removing or permitting to be removed distilled spirits from a bonded warehouse.
 
 #### Effective Date of 1958 Amendment
 

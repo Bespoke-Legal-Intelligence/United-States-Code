@@ -12,7 +12,7 @@ Essential Airport Facility Defined.—In this section, the term “essential air
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–176 struck out “(as defined in section 41731)” after “large hub airport”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–176 struck out “(as defined in section 41731)” after “large hub airport”.
 
 #### Effective Date of 2003 Amendment
 

@@ -6,7 +6,7 @@ For purposes of this chapter, the taxable amount in the case of any taxable dist
 
 &emsp;(1) the value of the property received by the transferee, reduced by
 
-&emsp;(2) any expense incurred by the transferee in connection with the determination, collection, or refund of the tax imposed by this chapter with respect to such distribution.
+&emsp;(2) any expense incurred by the transferee in connection with the determination, collection,or refund of the tax imposed by this chapter with respect to such distribution.
 
 #### (b) Payment of GST tax treated as taxable distribution
 
@@ -16,9 +16,9 @@ For purposes of this chapter, if any of the tax imposed by this chapter with res
 
 #### Amendments
 
-1986—Pub. L. 99–514 amended section generally, substituting provisions relating to taxable amount in case of a taxable distribution for former provisions which related generally to administration of this chapter. See section 2661 of this title.
+<b>1986</b>—Pub. L. 99–514 amended section generally, substituting provisions relating to taxable amount in case of a taxable distribution for former provisions which related generally to administration of this chapter. See section 2661 of this title.
 
-1981—Subsec. (b). Pub. L. 97–34 substituted “Section 6166” for “Sections 6166 and 6166A” in heading and “section 6166 (relating to extension of time” for “sections 6166 and 6166A (relating to extensions of time” in text.
+<b>1981</b>—Subsec. (b). Pub. L. 97–34 substituted “Section 6166” for “Sections 6166 and 6166A” in heading and “section 6166 (relating to extension of time” for “sections 6166 and 6166A (relating to extensions of time” in text.
 
 #### Effective Date of 1986 Amendment
 

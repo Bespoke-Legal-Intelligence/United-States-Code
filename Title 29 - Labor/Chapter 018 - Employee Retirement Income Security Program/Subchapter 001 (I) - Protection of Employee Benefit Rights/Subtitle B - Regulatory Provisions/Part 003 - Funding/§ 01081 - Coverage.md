@@ -2,7 +2,7 @@
 
 #### (a) Plans excepted from applicability of this part
 
-This part shall apply to any employee pension benefit plan described in section 1003(a) of thistitle, (and not exempted under section 1003(b) of this title), other than—
+This part shall apply to any employee pension benefit plan described in section 1003(a) of this title, (and not exempted under section 1003(b) of this title), other than—
 
 &emsp;(1) an employee welfare benefit plan;
 
@@ -58,9 +58,9 @@ This chapter, referred to in subsec. (a)(10), was in the original “this Act”
 
 #### Amendments
 
-2006—Subsec. (d). Pub. L. 109–280 struck out heading and text of subsec. (d). Text read as follows: “Any amount of any financial assistance from the Pension Benefit Guaranty Corporation to any plan, and any repayment of such amount, shall be taken into account under this section in such manner as determined by the Secretary of the Treasury.”
+<b>2006</b>—Subsec. (d). Pub. L. 109–280 struck out heading and text of subsec. (d). Text read as follows: “Any amount of any financial assistance from the Pension Benefit Guaranty Corporation to any plan, and any repayment of such amount, shall be taken into account under this section in such manner as determined by the Secretary of the Treasury.”
 
-1989—Subsec. (a)(4)(A), (6). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1989</b>—Subsec. (a)(4)(A), (6). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Subsec. (a)(7). Pub. L. 101–239, §7894(d)(4)(A), substituted “section 409 of title 26 (as effective for obligations issued before January 1, 1984)” for “section 409 of title 26”.
 
@@ -70,7 +70,7 @@ Subsec. (a)(9). Pub. L. 101–239, §7894(d)(1)(A)(ii), substituted “; or” 
 
 Subsec. (a)(10). Pub. L. 101–239, §7894(d)(1)(A)(iii), substituted “any” for “Any”.
 
-1980—Subsec. (a)(10). Pub. L. 96–364, §411(b), added par. (10).
+<b>1980</b>—Subsec. (a)(10). Pub. L. 96–364, §411(b), added par. (10).
 
 Subsecs. (c), (d). Pub. L. 96–364, §304(a), added subsecs. (c) and (d).
 

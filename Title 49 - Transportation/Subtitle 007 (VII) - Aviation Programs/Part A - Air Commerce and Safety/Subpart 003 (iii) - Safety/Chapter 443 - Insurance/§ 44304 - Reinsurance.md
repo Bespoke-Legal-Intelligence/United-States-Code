@@ -30,7 +30,7 @@ In subsection (b), the word “same” is omitted as being included in “simila
 
 #### Amendments
 
-2001—Pub. L. 107–42 struck out subsec. (a) designation and heading “General Authority” and struck out subsec. (b) which read as follows:
+<b>2001</b>—Pub. L. 107–42 struck out subsec. (a) designation and heading “General Authority” and struck out subsec. (b) which read as follows:
 
 “(b)
 

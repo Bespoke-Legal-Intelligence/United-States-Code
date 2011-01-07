@@ -92,7 +92,7 @@ In accordance with section 233 of the Compact, the President of the United State
 
 #### (6) Cooperation by Federated States of Micronesia
 
-&emsp;The Government of the Federated States of Micronesia will cooperate fully with theComptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller General to fully discharge his responsibilities under this joint resolution.
+&emsp;The Government of the Federated States of Micronesia will cooperate fully with the Comptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller General to fully discharge his responsibilities under this joint resolution.
 
 (Pub. L. 99–239, title I, §102, Jan. 14, 1986, 99 Stat. 1775.)
 

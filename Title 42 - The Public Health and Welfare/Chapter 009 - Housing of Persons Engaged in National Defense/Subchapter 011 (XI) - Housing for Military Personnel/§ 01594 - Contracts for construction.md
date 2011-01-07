@@ -26,13 +26,13 @@ Section 1594a(g) of this title, referred to in subsec. (d), was repealed by Pub.
 
 #### Codification
 
-In subsec. (a), “section 3131 of title 40” substituted for “section 1 of the Act of August 24, 1935 (49 Stat.793)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (a), “section 3131 of title 40” substituted for “section 1 of the Act of August 24, 1935 (49 Stat. 793)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
-In subsec. (a), “section 2305 of title 10” substituted for “section 3 of the Armed Forces Procurement Act of 1947” on authority of act Aug. 10, 1956, ch. 1041, §49(b), 70A Stat. 640, the first section of which enacted Title 10, Armed Forces. Prior to enactment of Title 10, section 3 of the Armed Forces Procurement Act of 1947 was classified to section 152 of Title 41, Public Contracts.
+In subsec. (a), “section 2305 of title 10” substituted for “section 3 of the Armed Forces Procurement Act of 1947” on authority of act Aug. 10, 1956, ch. 1041, §49(b), 70A Stat. 640, the first section of which enacted Title 10, Armed Forces. Prior to enactment of Title 10, section 3 of the Armed Forces Procurement Act of 1947 was classified to section 152 of former Title 41, Public Contracts.
 
 #### Amendments
 
-1967—Subsecs. (a) to (c). Pub. L. 90–19, §12(d), substituted “Secretary of Housing and Urban Development” for “Commissioner” wherever appearing.
+<b>1967</b>—Subsecs. (a) to (c). Pub. L. 90–19, §12(d), substituted “Secretary of Housing and Urban Development” for “Commissioner” wherever appearing.
 
 Subsec. (a). Pub. L. 90–19, §12(h)(1), substituted “Secretary of Defense” for “Secretary” in fourth and sixth sentences.
 
@@ -40,9 +40,9 @@ Subsec. (b). Pub. L. 90–19, §12(h)(2), substituted “Secretary of Defense”
 
 Subsec. (d). Pub. L. 90–19, §12(h)(3), substituted “Secretary of Defense” for “Secretary” in last three sentences.
 
-1959—Subsec. (d). Pub. L. 86–149 added subsec. (d).
+<b>1959</b>—Subsec. (d). Pub. L. 86–149 added subsec. (d).
 
-1956—Subsec. (a). Act Aug. 7, 1956, §§506(b), (c), (d), 507, substituted “eligible bidder” for “eligible builder” in first sentence; substituted “the mortgagor” for “the builder” in two places in third sentence; inserted provision before last sentence, relating to furnishing by contractor of a performance bond and a payment bond with surety satisfactory to Secretary; and struck out from last sentence “with any builder” after “Before the Secretary shall enter into any contract”.
+<b>1956</b>—Subsec. (a). Act Aug. 7, 1956, §§506(b), (c), (d), 507, substituted “eligible bidder” for “eligible builder” in first sentence; substituted “the mortgagor” for “the builder” in two places in third sentence; inserted provision before last sentence, relating to furnishing by contractor of a performance bond and a payment bond with surety satisfactory to Secretary; and struck out from last sentence “with any builder” after “Before the Secretary shall enter into any contract”.
 
 Subsec. (b). Act Aug. 7, 1956, §506(b), substituted “eligible bidder” for “eligible builder”.
 

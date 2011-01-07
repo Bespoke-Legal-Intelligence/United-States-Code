@@ -124,7 +124,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Nothing in this paragraph shall be construed to limit the use, or release, for immigration enforcement purposes or law enforcement purposes of information contained in files or records of the Service pertaining to an application filed underthis section, other than information furnished by an applicant pursuant to the application, or any other information derived from the application, that is not available from any other source.
+&emsp;&emsp;&emsp;Nothing in this paragraph shall be construed to limit the use, or release, for immigration enforcement purposes or law enforcement purposes of information contained in files or records of the Service pertaining to an application filed under this section, other than information furnished by an applicant pursuant to the application, or any other information derived from the application, that is not available from any other source.
 
 #### (ii) Criminal convictions
 
@@ -206,7 +206,7 @@
 
 #### (3) Use of application fees to offset program costs
 
-&emsp;No application fees collected by the Service pursuant to this subsection may be used by the Service to offset the costs of the special agricultural worker legalization program untilthe Service implements the program consistent with the statutory mandate as follows:
+&emsp;No application fees collected by the Service pursuant to this subsection may be used by the Service to offset the costs of the special agricultural worker legalization program until the Service implements the program consistent with the statutory mandate as follows:
 
 &emsp;&emsp;(A) During the application period described in subsection (a)(1)(A) of this section the Service may grant temporary admission to the United States, work authorization, and provide an “employment authorized” endorsement or other appropriate work permit to any alien who presents a preliminary application for adjustment of status under subsection (a) of this section at a designated port of entry on the southern land border. An alien who does not enter through a port of entry is subject to deportation and removal as otherwise provided in this chapter.
 
@@ -242,7 +242,7 @@
 
 #### (f) Temporary disqualification of newly legalized aliens from receiving aid to families with dependent children
 
-During the five-year period beginning on the date an alien was granted lawful temporary resident status under subsection (a) of this section, and notwithstanding any other provision of law, the alien is not eligible for assistance under a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]. Notwithstanding the previous sentence, in the case of an alien who would be eligible for assistance under a State program funded under part A of title IV of the Social Security Act but for the previous sentence, the provisions of paragraph (3) of section 1255a(h) of this title shall apply in the same manner as they apply with respect to paragraph (1) of such section and, for this purpose, any reference in section 1255a(h)(3) of this title to paragraph (1) is deemed a reference to the previous sentence.
+During the five-year period beginning on the date an alien was granted lawful temporary resident status under subsection (a) of this section, and notwithstanding any other provision of law, the alien is not eligible for assistance under a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]. Notwithstanding the previous sentence, in the case of an alien who would be eligible for assistance under a State program funded under part A of title IV of the Social Security Act but for the previous sentence, the provisions of paragraph\(3) of section 1255a(h) of this title shall apply in the same manner as they apply with respect to paragraph (1) of such section and, for this purpose, any reference in section 1255a(h)(3) of this title to paragraph (1) is deemed a reference to the previous sentence.
 
 #### (g) Treatment of special agricultural workers
 
@@ -256,9 +256,11 @@ In this section, the term “seasonal agricultural services” means the perform
 
 #### References in Text
 
+This chapter, referred to in subsecs. (a)(3)(A) and (d)(3)(A), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+
 Public Law 89–732, referred to in subsec. (b)(2)(B), is Pub. L. 89–732, Nov. 2, 1966, 80 Stat. 1161, as amended, which is set out as a note under section 1255 of this title.
 
-Public Law 95–145, referred to in subsec. (b)(2)(B), is Pub. L. 95–145, Oct. 28, 1977, 91 Stat. 1223, as amended.Title I of Pub. L. 95–145 is set out as a note under section 1255 of this title. Title II of Pub. L. 95–145 amended Pub. L. 94–23, which was set out as a note under section 2601 of Title 22, Foreign Relations and Intercourse, and was repealed by Pub. L. 96–212, title III, §312(c), Mar. 17, 1980, 94 Stat. 117.
+Public Law 95–145, referred to in subsec. (b)(2)(B), is Pub. L. 95–145, Oct. 28, 1977, 91 Stat. 1223, as amended. Title I of Pub. L. 95–145 is set out as a note under section 1255 of this title. Title II of Pub. L. 95–145 amended Pub. L. 94–23, which was set out as a note under section 2601 of Title 22, Foreign Relations and Intercourse, and was repealed by Pub. L. 96–212, title III, §312(c), Mar. 17, 1980, 94 Stat. 117.
 
 Section 1105a of this title, referred to in subsec. (e)(3)(A), was repealed by Pub. L. 104–208, div. C, title III, §306(b), Sept. 30, 1996, 110 Stat. 3009–612.
 

@@ -128,3 +128,5 @@ Subsec. (i) of this section, which required the Secretary to transmit annually t
 
 Section was enacted as part of title I of the Energy Policy Act, and not as part of title XXI of that Act which comprises this subchapter.
 
+<i><sup>1</sup></i><i> So in original. The word “from” probably should not appear.</i>
+

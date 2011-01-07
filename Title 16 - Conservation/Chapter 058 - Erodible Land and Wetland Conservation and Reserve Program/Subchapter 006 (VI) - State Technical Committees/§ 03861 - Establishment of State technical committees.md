@@ -58,17 +58,17 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §2711, which directed the general amendment of section 1261 of the “Farm Security Act of 1985”, was executed by making the amendment to this section, which is section 1261 of the Food Security Act of 1985, to reflect the probable intent of Congress. Prior to amendment, section related to the establishment in each State of a technical committee to assist the Secretary in the technical considerations relating to implementation of conservation provisions under this chapter, composition of each such committee, and development of standards to be used in the development of guidelines under former section 3862(b) of this title.
+<b>2008</b>—Pub. L. 110–246, §2711, which directed the general amendment of section 1261 of the “Farm Security Act of 1985”, was executed by making the amendment to this section, which is section 1261 of the Food Security Act of 1985, to reflect the probable intent of Congress. Prior to amendment, section related to the establishment in each State of a technical committee to assist the Secretary in the technical considerations relating to implementation of conservation provisions under this chapter, composition of each such committee, and development of standards to be used in the development of guidelines under former section 3862(b) of this title.
 
 Subsec. (c)(4). Pub. L. 110–246, §7511(c)(38), which directed amendment of par. (4) by substituting “National Institute of Food and Agriculture” for “Extension Service”, could not be executed because “Extension Service” did not appear subsequent to amendment by Pub. L. 110–246, §2711. See above.
 
-1996—Subsec. (c)(9) to (12). Pub. L. 104–127 added pars. (9) to (12).
+<b>1996</b>—Subsec. (c)(9) to (12). Pub. L. 104–127 added pars. (9) to (12).
 
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Amendment by section 7511(c)(38) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of Title 7, Agriculture.
+Amendment by section 7511(c)(38) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L.110–246, set out as a note under section 1522 of Title 7, Agriculture.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

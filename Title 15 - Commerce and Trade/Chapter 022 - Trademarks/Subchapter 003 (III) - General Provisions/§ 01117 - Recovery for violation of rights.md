@@ -38,37 +38,37 @@ Acts Feb. 20, 1905, ch. 592, §§16, 19, 33 Stat. 728, 729; Mar. 19, 1920, ch. 1
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–403, §103, amended subsec. (b) generally. Prior to amendment, text read as follows: “In assessing damages under subsection (a) of this section, the court shall, unless the court finds extenuating circumstances, enter judgment for three times such profits or damages, whichever is greater, together with a reasonable attorney's fee, in the case of any violation of section 1114(1)(a) of this title or section 220506 of title 36 that consists of intentionally using a mark or designation, knowing such mark or designation is a counterfeit mark (as defined in section 1116(d) of this title), in connection with the sale, offering for sale, or distribution of goods or services. In such cases, the court may in its discretion award prejudgment interest on such amount at an annual interest rate established under section 6621(a)(2) of title 26, commencing on the date of the service of the claimant's pleadings setting forth the claim for such entry and ending on the date such entry is made, or for such shorter time as the court deems appropriate.”
+<b>2008</b>—Subsec. (b). Pub. L. 110–403, §103, amended subsec. (b) generally. Prior to amendment, text read as follows: “In assessing damages under subsection (a) of this section, the court shall, unless the court finds extenuating circumstances, enter judgment for three times such profits or damages, whichever is greater, together with a reasonable attorney's fee, in the case of any violation of section 1114(1)(a) of this title or section 220506 of title 36 that consists of intentionally using a mark or designation, knowing such mark or designation is a counterfeit mark (as defined in section 1116(d) of this title), in connection with the sale, offering for sale, or distribution of goods or services. In such cases, the court may in its discretion award prejudgment interest on such amount at an annual interest rate established under section 6621(a)(2) of title 26, commencing on the date of the service of the claimant's pleadings setting forth the claim for such entry and ending on the date such entry is made, or for such shorter time as the court deems appropriate.”
 
 Subsec. (c)(1). Pub. L. 110–403, §104(1), substituted “$1,000” for “$500” and “$200,000” for “$100,000”.
 
 Subsec. (c)(2). Pub. L. 110–403, §104(2), substituted “$2,000,000” for “$1,000,000”.
 
-2004—Subsec. (e). Pub. L. 108–482 added subsec. (e).
+<b>2004</b>—Subsec. (e). Pub. L. 108–482 added subsec. (e).
 
-2002—Subsec. (a). Pub. L. 107–273, §13207(a), substituted “a violation under section 1125(a) or (d) of this title,” for “a violation under section 1125(a), (c), or (d) of this title,”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273, §13207(a), substituted “a violation under section 1125(a) or (d) of this title,” for “a violation under section 1125(a), (c), or (d) of this title,”.
 
 Subsec. (b). Pub. L. 107–273, §13207(b)(11), substituted “section 220506 of title 36” for “section 110 of the Act entitled ‘An Act to incorporate the United States Olympic Association’, approved September 21, 1950 (36 U.S.C. 380)” and “6621(a)(2) of title 26” for “6621 of title 26”.
 
-1999—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title III, §3003(a)(2)\], inserted “, (c), or (d)” after “section 1125(a)” in first sentence.
+<b>1999</b>—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title III, §3003(a)(2)\], inserted “, (c), or (d)” after “section 1125(a)” in first sentence.
 
-Pub. L. 106–43 substituted “a violation under section 1125(a) of this title, or a willful violation under section1125(c) of this title,” for “or a violation under section 1125(a) of this title,” in first sentence.
+Pub. L. 106–43 substituted “a violation under section 1125(a) of this title, or a willful violation under section 1125(c) of this title,” for “or a violation under section 1125(a) of this title,” in first sentence.
 
 Subsec. (d). Pub. L. 106–113, §1000(a)(9) \[title III, §3003(b)\], added subsec. (d).
 
-1996—Subsec. (c). Pub. L. 104–153 added subsec. (c).
+<b>1996</b>—Subsec. (c). Pub. L. 104–153 added subsec. (c).
 
-1988—Subsec. (a). Pub. L. 100–667 inserted “, or a violation under section 1125(a) of this title,” after “Office” in first sentence.
+<b>1988</b>—Subsec. (a). Pub. L. 100–667 inserted “, or a violation under section 1125(a) of this title,” after “Office” in first sentence.
 
-1986—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1984—Pub. L. 98–473 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1984</b>—Pub. L. 98–473 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1975—Pub. L. 93–600 inserted provisions relating to awarding of attorney fees in exceptional cases.
+<b>1975</b>—Pub. L. 93–600 inserted provisions relating to awarding of attorney fees in exceptional cases.
 
 Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
-1962—Pub. L. 87–772 substituted “1114” for “1113(1)(b)”.
+<b>1962</b>—Pub. L. 87–772 substituted “1114” for “1113(1)(b)”.
 
 #### Effective Date of 1999 Amendment
 
@@ -106,5 +106,5 @@ Discretion of Courts in Determining Terms of Imprisonment.—Nothing in this tit
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certainexceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 

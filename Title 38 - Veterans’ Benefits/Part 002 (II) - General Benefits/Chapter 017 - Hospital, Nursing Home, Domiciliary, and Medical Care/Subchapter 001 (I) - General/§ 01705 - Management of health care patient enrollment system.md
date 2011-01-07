@@ -6,7 +6,7 @@
 
 &emsp;(2) Veterans with service-connected disabilities rated 30 percent or 40 percent.
 
-&emsp;(3) Veterans who are former prisoners of war or who were awarded the Purple Heart, veterans with service-connected disabilities rated 10 percent or 20 percent, and veterans described in subparagraphs (B) and (C) of section 1710(a)(2) of this title.
+&emsp;(3) Veterans who are former prisoners of war or who were awarded the Purple Heart, veterans who were awarded the medal of honor under section 3741, 6241, or 8741 of title 10 or section 491 of title 14, veterans with service-connected disabilities rated 10 percent or 20 percent, and veterans described in subparagraphs (B) and (C) of section 1710(a)(2) of this title.
 
 &emsp;(4) Veterans who are in receipt of increased pension based on a need of regular aid and attendance or by reason of being permanently housebound and other veterans who are catastrophically disabled.
 
@@ -30,15 +30,17 @@
 
 (2) The Secretary shall provide hospital care and medical services under section 1710(a)(1) of this title, and under subparagraph (B) of section 1710(a)(2) of this title, for the 12-month period following such veteran's discharge or release from service, to any veteran referred to in such sections for a disability specified in the applicable subparagraph of such section, notwithstanding the failure of the veteran to enroll in the system of patient enrollment referred to in subsection (a) of this section.
 
-(Added Pub. L. 104–262, title I, §104(a)(1), Oct. 9, 1996, 110 Stat. 3182; amended Pub. L. 106–117, title I, §112(2), Nov. 30, 1999, 113 Stat. 1556; Pub. L. 107–135, title II, §202(a), Jan. 23, 2002, 115 Stat. 2457; Pub. L. 107–330, title III, §308(g)(4), Dec. 6, 2002, 116 Stat. 2828.)
+(Added Pub. L. 104–262, title I, §104(a)(1), Oct. 9, 1996, 110 Stat. 3182; amended Pub. L. 106–117, title I, §112(2), Nov. 30, 1999, 113 Stat. 1556; Pub. L. 107–135, title II, §202(a), Jan. 23, 2002, 115 Stat. 2457; Pub. L. 107–330, title III, §308(g)(4), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 111–163, title V, §512, May 5, 2010, 124 Stat. 1164.)
 
 #### Amendments
 
-2002—Subsec. (a)(7), (8). Pub. L. 107–135 added pars. (7) and (8) and struck out former par. (7) which read as follows: “Veterans described in section 1710(a)(3) of this title.”
+<b>2010</b>—Subsec. (a)(3). Pub. L. 111–163 inserted “veterans who were awarded the medal of honor under section 3741, 6241, or 8741 of title 10 or section 491 of title 14,” after “the Purple Heart,”.
+
+<b>2002</b>—Subsec. (a)(7), (8). Pub. L. 107–135 added pars. (7) and (8) and struck out former par. (7) which read as follows: “Veterans described in section 1710(a)(3) of this title.”
 
 Subsec. (c)(1). Pub. L. 107–330 substituted “The Secretary” for “Effective on October 1, 1998, the Secretary”.
 
-1999—Subsec. (a)(3). Pub. L. 106–117 inserted “or who were awarded the Purple Heart” after “former prisoners of war”.
+<b>1999</b>—Subsec. (a)(3). Pub. L. 106–117 inserted “or who were awarded the Purple Heart” after “former prisoners of war”.
 
 #### Effective Date of 2002 Amendment
 

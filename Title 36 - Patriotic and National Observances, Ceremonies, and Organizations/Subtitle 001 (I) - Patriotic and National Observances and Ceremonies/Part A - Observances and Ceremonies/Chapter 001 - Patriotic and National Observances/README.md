@@ -51,9 +51,9 @@
 
 #### Amendments
 
-2004—Pub. L. 108–447, div. J, title I, §111(c)(2), Dec. 8, 2004, 118 Stat. 3345, inserted “Constitution Day and” before “Citizenship Day” in item 106.
+<b>2004</b>—Pub. L. 108–447, div. J, title I, §111(c)(2), Dec. 8, 2004, 118 Stat. 3345, inserted “Constitution Day and” before “Citizenship Day” in item 106.
 
-2001—Pub. L. 107–89, §2, Dec. 18, 2001, 115 Stat. 877, added item 144.
+<b>2001</b>—Pub. L. 107–89, §2, Dec. 18, 2001, 115 Stat. 877, added item 144.
 
 #### Ronald Reagan Centennial Commission
 
@@ -299,239 +299,19 @@ Pub. L. 106–550, Dec. 19, 2000, 114 Stat. 2745, known as the James Madison Com
 
 #### Abraham Lincoln Bicentennial Commission
 
-Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, title II, §2804, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title II, §209, Nov. 12, 2001, 115 Stat. 588; Pub. L. 107–117, div. B, §917(a), Jan. 10, 2002, 115 Stat. 2324; Pub. L. 108–7, div. H, title I, §1304, Feb. 20, 2003, 117 Stat. 379; Pub. L. 108–59, §1, July 14, 2003, 117 Stat. 860; Pub. L. 111–8, div. G, title I, §1204, Mar. 11, 2009, 123 Stat. 826, provided that:
+Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, title II, §2804, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title II, §209, Nov. 12, 2001, 115 Stat. 588; Pub. L. 107–117, div. B, §917(a), Jan. 10, 2002, 115 Stat. 2324; Pub. L. 108–7, div. H, title I, §1304, Feb. 20, 2003, 117 Stat. 379; Pub. L. 108–59, §1, July 14, 2003, 117 Stat. 860; Pub. L. 111–8, div. G, title I, §1204, Mar. 11, 2009, 123 Stat. 826, known as the Abraham Lincoln Bicentennial Commission Act, established the Abraham Lincoln Bicentennial Commission to plan and carry out various activities to honor the bicentennial anniversary of Lincoln's birth and provided for a final report by the Commission not later than Apr. 30, 2010, and termination of the Commission 120 days after submission of the report.
 
-#### “SECTION 1. SHORT TITLE.
+#### Proc. No. 8522. Armed Forces Day
 
-“This Act may be cited as the ‘Abraham Lincoln Bicentennial Commission Act’.
+Proc. No. 8522, May 14, 2010, 75 F.R. 28185, provided:
 
-#### “SEC. 2. FINDINGS.
+America's Armed Forces represent the very best of our national character. They have answered the call to defend our Nation, and their service and sacrifice humble us all. On Armed Forces Day, we pay tribute to these patriots who risk their lives, sometimes giving their last full measure of devotion, to preserve the vision of our forebears and the freedoms we enjoy.
 
-“Congress makes the following findings:
+Our service members carry on the proud traditions of duty and valor that have sustained us from our earliest days of independence. Today, we have the greatest military force in the history of the world because we have the finest personnel in the world. Wherever they are needed, from Iraq and Afghanistan to right here at home, they are serving and protecting our Nation.
 
-&emsp;“(1) Abraham Lincoln, the 16th President, was one of the Nation's most prominent leaders, demonstrating true courage during the Civil War, one of the greatest crises in the Nation's history.
+We owe our Soldiers, Sailors, Airmen, Marines, and Coast Guardsmen more than our gratitude; we owe them our support. That is why my Administration is committed to ensuring they have the strategy, clear mission, and equipment they need to get the job done, and the resources they deserve when they come home. We are also increasing support for military spouses and families who must deal with the stress and separation of war.
 
-&emsp;“(2) Born of humble roots in Hardin County, Kentucky, on February 12, 1809, Abraham Lincoln rose to the Presidency through a legacy of honesty, integrity, intelligence, and commitment to the United States.
-
-&emsp;“(3) With the belief that all men were created equal, Abraham Lincoln led the effort to free all slaves in the United States.
-
-&emsp;“(4) Abraham Lincoln had a generous heart, with malice toward none and with charity for all.
-
-&emsp;“(5) Abraham Lincoln gave the ultimate sacrifice for the country Lincoln loved, dying from an assassin's bullet on April 15, 1865.
-
-&emsp;“(6) All Americans could benefit from studying the life of Abraham Lincoln, for Lincoln's life is a model for accomplishing the ‘American Dream’ through honesty, integrity, loyalty, and a lifetime of education.
-
-&emsp;“(7) The year 2009 will be the bicentennial anniversary of the birth of Abraham Lincoln, and a commission should be established to study and recommend to Congress activities that are fitting and proper to celebrate that anniversary in a manner that appropriately honors Abraham Lincoln.
-
-#### “SEC. 3. ESTABLISHMENT.
-
-“There is established a commission to be known as the Abraham Lincoln Bicentennial Commission (referred to in this Act as the ‘Commission’).
-
-#### “SEC. 4. DUTIES.
-
-“The Commission shall have the following duties:
-
-&emsp;“(1) To study activities that may be carried out by the Federal Government to determine whether the activities are fitting and proper to honor Abraham Lincoln on the occasion of the bicentennial anniversary of Lincoln's birth, including—
-
-&emsp;&emsp;“(A) the minting of an Abraham Lincoln bicentennial penny;
-
-&emsp;&emsp;“(B) the issuance of an Abraham Lincoln bicentennial postage stamp;
-
-&emsp;&emsp;“(C) the convening of a joint meeting or joint session of Congress for ceremonies and activities relating to Abraham Lincoln;
-
-&emsp;&emsp;“(D) a rededication of the Lincoln Memorial, or other activity with respect to the Memorial; and
-
-&emsp;&emsp;“(E) the acquisition and preservation of artifacts associated with Abraham Lincoln.
-
-&emsp;“(2) To recommend to Congress the activities that the Commission considers most fitting and proper to honor Abraham Lincoln on such occasion, and the entity or entities in the Federal Government that the Commission considers most appropriate to carry out such activities.
-
-&emsp;“(3) To recommend to Congress a plan to carry out the activities recommended under paragraph (2).
-
-&emsp;“(4) To carry out other related activities in support of the duties carried out under paragraphs (1) through (3).
-
-#### “SEC. 5. MEMBERSHIP.
-
-“(a)
-
-Number and Appointment.—The Commission shall be composed of 15 members appointed as follows:
-
-&emsp;“(1) Two members, each of whom shall be a qualified citizen described in subsection (b), appointed by the President.
-
-&emsp;“(2) One member, who shall be a qualified citizen described in subsection (b), appointed by the President on the recommendation of the Governor of Illinois.
-
-&emsp;“(3) One member, who shall be a qualified citizen described in subsection (b), appointed by the President on the recommendation of the Governor of Indiana.
-
-&emsp;“(4) One member, who shall be a qualified citizen described in subsection (b), appointed by the President on the recommendation of the Governor of Kentucky.
-
-&emsp;“(5) Three members, at least one of whom shall be a Member of the House of Representatives, appointed by the Speaker of the House of Representatives.
-
-&emsp;“(6) Three members, at least one of whom shall be a Senator, appointed by the majority leader of the Senate.
-
-&emsp;“(7) Two members, at least one of whom shall be a Member of the House of Representatives, appointed by the minority leader of the House of Representatives.
-
-&emsp;“(8) Two members, at least one of whom shall be a Senator, appointed by the minority leader of the Senate.
-
-“(b)
-
-Qualified Citizen.—A qualified citizen described in this subsection is a private citizen of the United States with—
-
-&emsp;“(1) a demonstrated dedication to educating others about the importance of historical figures and events; and
-
-&emsp;“(2) substantial knowledge and appreciation of Abraham Lincoln.
-
-“(c)
-
-Time of Appointment.—Each initial appointment of a member of the Commission shall be made before the expiration of the 120-day period beginning on the date of the enactment of this Act \[Feb. 25, 2000\].
-
-“(d)
-
-Continuation of Membership.—If a member of the Commission was appointed to the Commission as a Member of Congress, and ceases to be a Member of Congress, that member may continue to serve on the Commission for the life of the Commission.
-
-“(e)
-
-Terms.—Each member shall be appointed for the life of the Commission.
-
-“(f)
-
-Vacancies.—A vacancy in the Commission shall not affect the powers of the Commission but shall be filled in the manner in which the original appointment was made.
-
-“(g)
-
-Basic Pay.—Members shall serve on the Commission without pay.
-
-“(h)
-
-Travel Expenses.—Each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code.
-
-“(i)
-
-Quorum.—Five members of the Commission shall constitute a quorum but a lesser number may hold hearings.
-
-“(j)
-
-Chair.—The Commission shall select a Chair from among the members of the Commission.
-
-“(k)
-
-Meetings.—The Commission shall meet at the call of the Chair. Periodically, the Commission shall hold a meeting in Springfield, Illinois.
-
-#### “SEC. 6. DIRECTOR AND STAFF.
-
-“(a)
-
-Director.—The Commission may appoint and fix the pay of a Director and such additional personnel as the Commission considers to be appropriate.
-
-“(b)
-
-Applicability of Certain Civil Service Laws.—
-
-&emsp;“(1)
-
-Director.—The Director of the Commission may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates.
-
-&emsp;“(2)
-
-Staff.—Consistent with all other applicable Federal laws governing appointments and compensation, the staff of the Commission may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates.
-
-#### “SEC. 7. POWERS.
-
-“(a)
-
-Hearings and Sessions.—The Commission may, for the purpose of carrying out this Act, hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers to be appropriate.
-
-“(b)
-
-Powers of Members and Agents.—Any member or agent of the Commission may, if authorized by the Commission, take any action that the Commission is authorized to take by this Act.
-
-“(c)
-
-Obtaining Official Data.—The Commission may secure directly from any department or agency of the United States information necessary to enable the Commission to carry out this Act. Upon request of the Chair of the Commission, the head of that department or agency shall furnish that information to the Commission.
-
-“(d)
-
-Mails.—The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
-
-“(e)
-
-Administrative Support Services.—Upon the request of the Commission, the Librarian of Congress shall provide to the Commission, on a reimbursable basis, administrative support services necessary for the Commission to carry out its responsibilities under this Act, including disbursing funds available to the Commission, and computing and disbursing the basic pay for Commission personnel.
-
-“(f)
-
-Gifts.—The Commission may, for the purpose of carrying out this Act, accept and use gifts of money, property, and services, and, notwithstanding section 1342 of title 31, United States Code, may accept and use voluntary services as the Commission deems necessary.
-
-“(g)
-
-Detail of Federal Employees.—On the request of the Commission, the head of a Federal agency or other Federal appointing authority may detail, on a reimbursable or nonreimbursable basis, any of its employees to the Commission to assist the Commission in carrying out the duties of the Commission under this Act. Any such detail of an employee shall be without interruption or loss of civil service status or privilege. Any reimbursement under this subsection shall be credited to the appropriation, fund, or account used for paying the amounts reimbursed.
-
-“(h)
-
-Employment Benefits.—
-
-&emsp;“(1)
-
-In general.—The Commission shall fix employment benefits for the Director and for additional personnel appointed under section 6(a), in accordance with paragraphs (2) and (3).
-
-&emsp;“(2)
-
-Employment benefits for the director.—
-
-&emsp;&emsp;“(A)
-
-In general.—The Commission shall determine whether or not to treat the Director as a Federal employee for purposes of employment benefits. If the Commission determines that the Director is to be treated as a Federal employee, then he or she is deemed to be an employee as that term is defined by section 2105 of title 5, United States Code, for purposes of chapters 63, 83, 84, 87, 89, and 90 of that title, and is deemed to be an employee for purposes of chapter 81 of that title. If the Commission determines that the Director is not to be treated as a Federal employee for purposes of employment benefits, then the Commission or its administrative support service provider shall establish appropriate alternative employment benefits for the Director. The Commission's determination shall be irrevocable with respect to each individual appointed as Director, and the Commission shall notify the Office of Personnel Management and the Department of Labor of its determination. Notwithstanding the Commission's determination, the Director's service is deemed to be Federal service for purposes of section 8501 of title 5, United States Code.
-
-&emsp;&emsp;“(B)
-
-Detailee serving as director.—Subparagraph (A) shall not apply to a detailee who is serving as Director.
-
-&emsp;“(3)
-
-Employment benefits for additional personnel.—A person appointed to the Commission staff under section 6(b)(2) is deemed to be an employee as that term is defined by section 2105 of title 5, United States Code, for purposes of chapters 63, 83, 84, 87, 89,and 90 of that title, and is deemed to be an employee for purposes of chapter 81 of that title.
-
-#### “SEC. 8. REPORTS.
-
-“(a)
-
-Interim Reports.—In addition to the interim report required under subsection (b), the Commission may submit to Congress such interim reports as the Commission considers to be appropriate.
-
-“(b)
-
-Required Interim Report.—Not later than June 24, 2004, the Commission shall submit an interim report to Congress. The report shall contain—
-
-&emsp;“(1) a detailed statement of the findings and conclusions of the Commission;
-
-&emsp;“(2) the recommendations of the Commission; and
-
-&emsp;“(3) any other information that the Commission considers to be appropriate.
-
-“(c)
-
-Final Report.—Not later than April 30, 2010, the Commission shall submit a final report to Congress. The final report shall contain final statements, recommendations, and information described under subsection (b)(1), (2), and (3).
-
-#### “SEC. 9. BUDGET ACT COMPLIANCE.
-
-“Any spending authority provided under this Act shall be effective only to such extent and in such amounts as are provided in appropriation Acts.
-
-#### “SEC. 10. TERMINATION.
-
-“The Commission shall terminate 120 days after submitting the final report of the Commission pursuant to section 8.
-
-#### “SEC. 11. AUTHORIZATION OF APPROPRIATIONS.
-
-“There are authorized to be appropriated such sums as may be necessary to carry out this Act.”
-
-\[Pub. L. 107–117, div. B, §917(b), Jan. 10, 2002, 115 Stat. 2325, provided that: “The amendments made by this section \[amending section 209 of Pub. L. 107–68, which amended section 7 of Pub. L. 106–173, set out above\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2002 (Public Law 107–68).”\]
-
-#### Proc. No. 8380. Armed Forces Day
-
-Proc. No. 8380, May 14, 2009, 74 F.R. 23603, provided:
-
-On Armed Forces Day, 1961, President Kennedy connected civic engagement and our Nation's security. He stated, “the strength of our armed forces rests not alone upon their active and reserve members, our industrial productivity, and our human resources, but also upon the understanding and support of an informed American people.” Based on this perspective, I call upon all Americans to learn more about, and express gratitude for, the heroic efforts of our men and women in uniform.
-
-Today, the United States military serves across the world to keep us safe. They are working here at home to protect America from threats foreign and domestic; they are risking their lives in the deserts of Iraq and the mountains of Afghanistan; and they are also serving bravely in many other parts of the world to ensure our security and provide humanitarian assistance. Members of the Armed Forces are forging a better future for our Nation and the world.
-
-As they carry out their missions, military families endure the sacrifice of their absence. Worrying about their safety, moving to new duty stations, and managing a home without a loved one, these families shoulder great burdens as they help sustain our men and women in uniform. I thank military families for their vital contributions.
-
-The Soldiers, Sailors, Airmen, Marines, and Coastguardsmen who have answered the call to service deserve recognition and gratitude. They have endured the most difficult of conditions to protect America and her highest ideals. Today, I ask all Americans to know their sacrifice and join me in humble thanks.
+Today, let us raise our flags high to honor the service members who keep us safe, as we reaffirm our commitment to fulfill our duty to them.
 
 NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, and Commander in Chief of the Armed Forces of the United States, continuing the precedent of my predecessors in office, do hereby proclaim the third Saturday of each May as Armed Forces Day.
 
@@ -539,17 +319,19 @@ I direct the Secretary of Defense on behalf of the Army, Navy, Air Force, Marine
 
 I invite the Governors of the States, the Commonwealth of Puerto Rico, and other areas subject to the jurisdiction of the United States, to provide for the observance of Armed Forces Day within their jurisdiction each year in an appropriate manner designed to increase public understanding and appreciation of the Armed Forces of the United States.
 
-I also invite national and local veterans, civic and other organizations to join in the observance of Armed Forces Day each year.
+I also invite veterans, civic, and other organizations to join in the observance of Armed Forces Day each year.
 
-Finally, I call upon all Americans to display the flag of the United States at their homes on Armed Forces Day and urge citizens to learn more about military service by attending and participating in the local observances of the day. I also encourage Americans to volunteer at organizations that provide support to our troops.
+Finally, I call upon all Americans to display the flag of the United States at their homes on Armed Forces Day, and I urge citizens to learn more about military service by attending and participating in the local observances of the day. I also encourage Americans to volunteer at organizations that provide support to our troops.
 
-Proclamation 7562 of May 16, 2002, is hereby superseded.
+Proclamation 8380 of May 14, 2009, is hereby superseded.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this fourteenth day of May, in the year of our Lord two thousand nine, and of the Independence of the United States of America the two hundred and thirty-third.
+IN WITNESS WHEREOF, I have hereunto set my hand this fourteenth day of May, in the year of our Lord two thousand ten, and of the Independence of the United States of America the two hundred and thirty-fourth.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior similar proclamations were contained in the following:
+
+Proc. No. 8380, May 14, 2009, 74 F.R. 23603, superseded by Proc. No. 8522, May 14, 2010, 75 F.R. 28185.
 
 Proc. No. 7562, May 16, 2002, 67 F.R. 35707, superseded by Proc. No. 8380, May 14, 2009, 74 F.R. 23603.
 
@@ -579,7 +361,7 @@ Proc. No. 8455, Nov. 20, 2009, 74 F.R. 61261, provided:
 
 Our Nation's farm and ranch families supply many of the basic necessities of our daily life. They manage a large portion of our country's fertile land base, and they are caretakers of our valuable natural resources and diverse ecosystems. Their connections with urban and suburban communities are critical to our economy and to the nourishment of our people. During National Farm-City Week, we express gratitude for the contributions of our Nation's farmers and ranchers, and we rededicate ourselves to providing all Americans with access to healthy food, and thus, a healthy future.
 
-Pioneered by Native Americans, agriculture was our Nation's first industry. For agriculture to thrive in the 21st century, we must continue to cultivate the relationships between farmers and rural businesses and their partners and customers in cities and towns.American farmers and ranchers are proud to grow the food, feed, fuel, and fiber that enhance our national security and prosperity, and remain steadfast stewards of the land they love. We must ensure that farming is maintained as an economically, socially, and environmentally sustainable way of life for future generations.
+Pioneered by Native Americans, agriculture was our Nation's first industry. For agriculture to thrive in the 21st century, we must continue to cultivate the relationships between farmers and rural businesses and their partners and customers in cities and towns. American farmers and ranchers are proud to grow the food, feed, fuel, and fiber that enhance our national security and prosperity, and remain steadfast stewards of the land they love. We must ensure that farming is maintained as an economically, socially, and environmentally sustainable way of life for future generations.
 
 This Thanksgiving season, we celebrate farms of every size that produce fruits, vegetables, dairy, and livestock indispensable to the health of our families. We also recognize the vital ties between our urban and suburban communities and their local farmers through regional food systems, farmers markets, and community gardens. During National Farm-City Week, we celebrate the bounty of America, and we honor the commitment of those who grow, harvest, and deliver agricultural goods to feed our country and grow our economy.
 

@@ -8,7 +8,7 @@
 
 (c) Members of the National Guard participating in an exercise under subsection (a) may, after being mustered, be paid for the period beginning with the date of leaving home and ending with the date of return, as determined in advance. If otherwise correct, such a payment passes to the credit of the disbursing officer.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 610; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 104–106, div. A, titleV, §517, Feb. 10, 1996, 110 Stat. 309; Pub. L. 109–163, div. A, title X, §1057(b)(3), Jan. 6, 2006, 119 Stat. 3441.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 610; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 104–106, div. A, title V, §517, Feb. 10, 1996, 110 Stat. 309; Pub. L. 109–163, div. A, title X, §1057(b)(3), Jan. 6, 2006, 119 Stat. 3441.)
 
 Historical and Revision Notes
 
@@ -40,9 +40,9 @@ In subsection (c), the words “Members of the National Guard participating in a
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, or the District of Columbia”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, or the District of Columbia”.
 
-1996—Subsec. (a). Pub. L. 104–106 designated existing provisions as par. (1) and added par. (2).
+<b>1996</b>—Subsec. (a). Pub. L. 104–106 designated existing provisions as par. (1) and added par. (2).
 
-1988—Subsec. (b). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 

@@ -20,21 +20,25 @@ The President may waive the requirements of this section (and in the case of an 
 
 The certification required by subsection (a) of this section shall be transmitted—
 
-&emsp;(1) not less than 15 calendar days before the agreement is entered into or renewed in the case of an agreement with the North Atlantic Treaty Organization, any member country of that Organization or Australia, Japan, the Republic of Korea, or New Zealand; and
+&emsp;(1) not less than 15 calendar days before the agreement is entered into or renewed in the case of an agreement with the North Atlantic Treaty Organization, any member country of that Organization or Australia, Japan, the Republic of Korea, Israel, or New Zealand; and
 
 &emsp;(2) not less than 30 calendar days before the agreement is entered into or renewed in the case of an agreement with any other organization or country.
 
-(Pub. L. 90–629, ch. 6, §62, as added Pub. L. 97–113, title I, §109(a), Dec. 29, 1981, 95 Stat. 1525; amended Pub. L. 104–164, title I, §141(e)(1), July 21, 1996, 110 Stat. 1432; Pub. L. 110–429, title II, §203(b)(1), Oct. 15, 2008, 122 Stat. 4845.)
+(Pub. L. 90–629, ch. 6, §62, as added Pub. L. 97–113, title I, §109(a), Dec. 29, 1981, 95 Stat. 1525; amended Pub. L. 104–164, title I, §141(e)(1), July 21, 1996, 110 Stat. 1432; Pub. L. 110–429, title II, §203(b)(1), Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title III, §301(1), Oct. 8, 2010, 124 Stat. 2804.)
 
 #### References in Text
 
 The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 2 of part II of that Act is classified generally to part II (§2311 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
+This chapter, referred to in subsec. (a)(4), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+
 #### Amendments
 
-2008—Subsec. (c)(1). Pub. L. 110–429 inserted “the Republic of Korea,” before “or New Zealand”.
+<b>2010</b>—Subsec. (c)(1). Pub. L. 111–266 inserted “Israel,” before “or New Zealand”.
 
-1996—Subsec. (a). Pub. L. 104–164, §141(e)(1)(A), substituted “Before” for “Not less than 30 days before”.
+<b>2008</b>—Subsec. (c)(1). Pub. L. 110–429 inserted “the Republic of Korea,” before “or New Zealand”.
+
+<b>1996</b>—Subsec. (a). Pub. L. 104–164, §141(e)(1)(A), substituted “Before” for “Not less than 30 days before”.
 
 Subsec. (b). Pub. L. 104–164, §141(e)(1)(B), substituted “states in his certification” for “determines, and immediately reports to the Congress” and inserted at end “If the President states in his certification that such an emergency exists, he shall set forth in the certification a detailed justification for his determination, including a description of the emergency circumstances which necessitate that the lease be entered into immediately and a discussion of the national security interests involved.”
 

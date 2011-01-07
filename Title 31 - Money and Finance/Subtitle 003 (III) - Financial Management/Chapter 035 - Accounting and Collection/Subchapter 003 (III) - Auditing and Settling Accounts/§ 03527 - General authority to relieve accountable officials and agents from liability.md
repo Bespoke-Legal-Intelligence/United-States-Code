@@ -92,7 +92,7 @@ Aug. 11, 1955, ch. 803, §1, 69 Stat. 687.
 
 In the section, the word “official” is substituted for “officer”, and the words “Comptroller General” are substituted for “General Accounting Office” for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a), before clause (1), the words “Except as provided in subsection (b) of this section” are added for clarity. The words “disbursing or other” are omitted as surplus. The words “public money, vouchers, checks, securities, or records” are substituted for “Government funds, vouchers, records, checks, securities, or papers” for consistency in the revised title and with other titles of the Code. The words “subsequent to August 1, 1947” are omitted as executed. In clause (1)(A), the words “carrying out” are substituted for “acting in the discharge of” for consistency. The words “failure to act” are substituted for “omission” for clarity. Clause (2) is substituted for 31:82a–1(a)(2d sentence), and clause (3) is substituted for 31:82a–1(1st sentence words between 1st and 2d commas), to eliminate unnecessary words.
+In subsection (a), before clause (1), the words “Except as provided in subsection (b) of this section” are added for clarity. The words “disbursing or other” are omitted as surplus. The words “public money, vouchers, checks, securities, or records” are substituted for“Government funds, vouchers, records, checks, securities, or papers” for consistency in the revised title and with other titles of the Code. The words “subsequent to August 1, 1947” are omitted as executed. In clause (1)(A), the words “carrying out” are substituted for “acting in the discharge of” for consistency. The words “failure to act” are substituted for “omission” for clarity. Clause (2) is substituted for 31:82a–1(a)(2d sentence), and clause (3) is substituted for 31:82a–1(1st sentence words between 1st and 2d commas), to eliminate unnecessary words.
 
 In subsection (b)(1), before clause (A), the words “armed forces” are substituted for “Army, Navy, Air Force, or Marine Corps” for consistency with title 10. The words “responsible for” are substituted for “Whenever . . . incurs or has incurred” for consistency. The words “public money, vouchers, or records” are substituted for “Government funds, vouchers, records, or papers” for consistency in the revised title and with other titles of the Code. The word “reimbursement” is substituted for “that purpose” for clarity. In clause (A), the words “the Secretary of Defense, or” are added for clarity because of Comptroller General decision B–201579 (Apr. 1, 1981). The words “appropriate Secretary of the military department of the Department of Defense” are substituted for “the Secretary of the department concerned”, for clarity. The words “carrying out official” are substituted for “in line of his” for consistency. In clause (B), the words “the loss or deficiency was not the result of an illegal or incorrect payment” are substituted for 31:95a(3d sentence) to eliminate unnecessary words.
 
@@ -106,9 +106,9 @@ Subsection (e) is substituted for 31:82a–2(b)(last sentence) and 95a(last sent
 
 #### Amendments
 
-2006—Subsec. (b)(1)(A)(i), (B). Pub. L. 109–241 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
+<b>2006</b>—Subsec. (b)(1)(A)(i), (B). Pub. L. 109–241 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
-1996—Subsec. (b)(1). Pub. L. 104–106, §913(c)(4)(C)–(F), inserted “(A) in the case of a physical loss or deficiency—”, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and added subpar. (B).
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–106, §913(c)(4)(C)–(F), inserted “(A) in the case of a physical loss or deficiency—”, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and added subpar. (B).
 
 Pub. L. 104–106, §913(c)(4)(A), (B), in introductory provisions, substituted “an official of the armed forces referred to in subsection (a)” for “a disbursing official of the armed forces” and “records, or a payment described in section 3528(a)(4)(A) of this title,” for “records,”.
 

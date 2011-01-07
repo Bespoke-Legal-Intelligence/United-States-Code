@@ -22,5 +22,5 @@ Section 2304 requires a master or individual in charge of a vessel to render ass
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–304 designated existing provisions as par. (1) and added par. (2).
+<b>2006</b>—Subsec. (a). Pub. L. 109–304 designated existing provisions as par. (1) and added par. (2).
 

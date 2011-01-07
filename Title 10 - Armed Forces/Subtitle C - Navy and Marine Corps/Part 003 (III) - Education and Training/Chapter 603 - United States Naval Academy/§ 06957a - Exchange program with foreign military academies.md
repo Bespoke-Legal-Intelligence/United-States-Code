@@ -30,13 +30,13 @@ Regulations.—The Secretary shall prescribe regulations to implement this secti
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–364, §531(b)(1), substituted “100” for “24”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–364, §531(b)(1), substituted “100” for “24”.
 
 Subsec. (c)(3). Pub. L. 109–364, §531(b)(2)(A), substituted “for the Academy and such additional funds as may be available to the Academy from a source other than appropriated funds to support cultural immersion, regional awareness, or foreign language training activities in connection with the exchange program.” for “for the Academy. Expenditures in support of the exchange program may not exceed $120,000 during any fiscal year.”
 
 Subsec. (c)(4). Pub. L. 109–364, §531(b)(2)(B), added par. (4).
 
-1999—Subsec. (b). Pub. L. 106–65, §535(b)(1), substituted “24 midshipmen” for “10 midshipmen”.
+<b>1999</b>—Subsec. (b). Pub. L. 106–65, §535(b)(1), substituted “24 midshipmen” for “10 midshipmen”.
 
 Subsec. (c)(3). Pub. L. 106–65, §535(b)(2), substituted “$120,000” for “$50,000”.
 

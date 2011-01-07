@@ -14,7 +14,7 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322 inserted “or attempts to take” after “takes”.
+<b>1994</b>—Pub. L. 103–322 inserted “or attempts to take” after “takes”.
 
 #### Short Title of 1996 Amendment
 

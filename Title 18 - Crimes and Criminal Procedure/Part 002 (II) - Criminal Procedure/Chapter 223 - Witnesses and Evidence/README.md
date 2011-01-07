@@ -40,35 +40,35 @@
 
 #### Amendments
 
-2009—Pub. L. 111–79, §2(5), Oct. 19, 2009, 123 Stat. 2089, added item 3512.
+<b>2009</b>—Pub. L. 111–79, §2(5), Oct. 19, 2009, 123 Stat. 2089, added item 3512.
 
-2006—Pub. L. 109–177, title I, §115(1), Mar. 9, 2006, 120 Stat. 211, added item 3511.
+<b>2006</b>—Pub. L. 109–177, title I, §115(1), Mar. 9, 2006, 120 Stat. 211, added item 3511.
 
-2002—Pub. L. 107–273, div. B, title IV, §4002(c)(3)(B), Nov. 2, 2002, 116 Stat. 1809, struck out item 3503 “Depositions to preserve testimony”.
+<b>2002</b>—Pub. L. 107–273, div. B, title IV, §4002(c)(3)(B), Nov. 2, 2002, 116 Stat. 1809, struck out item 3503 “Depositions to preserve testimony”.
 
-2000—Pub. L. 106–544, §5(b)(2), (3), Dec. 19, 2000, 114 Stat. 2718, struck out “in Federal health care investigations” after “subpoenas” in item 3486 and struck out item 3486A “Administrative subpoenas in cases involving child abuse and child sexual exploitation”.
+<b>2000</b>—Pub. L. 106–544, §5(b)(2), (3), Dec. 19, 2000, 114 Stat. 2718, struck out “in Federal health care investigations” after “subpoenas” in item 3486 and struck out item 3486A “Administrative subpoenas in cases involving child abuse and child sexual exploitation”.
 
-1998—Pub. L. 105–314, title VI, §606(b), Oct. 30, 1998, 112 Stat. 2985, added items 3486 and 3486A and struck out former item 3486 “Authorized investigative demand procedures”.
+<b>1998</b>—Pub. L. 105–314, title VI, §606(b), Oct. 30, 1998, 112 Stat. 2985, added items 3486 and 3486A and struck out former item 3486 “Authorized investigative demand procedures”.
 
-1997—Pub. L. 105–6, §2(b), Mar. 19, 1997, 111 Stat. 12, added item 3510.
+<b>1997</b>—Pub. L. 105–6, §2(b), Mar. 19, 1997, 111 Stat. 12, added item 3510.
 
-1996—Pub. L. 104–294, title VI, §604(a)(4), Oct. 11, 1996, 110 Stat. 3506, substituted “victims’ ” for “Victims’ ” in item 3509.
+<b>1996</b>—Pub. L. 104–294, title VI, §604(a)(4), Oct. 11, 1996, 110 Stat. 3506, substituted “victims’ ” for “Victims’ ” in item 3509.
 
 Pub. L. 104–191, title II, §248(b), Aug. 21, 1996, 110 Stat. 2019, added item 3486.
 
-1994—Pub. L. 103–322, title XXXIII, §330002(j), Sept. 13, 1994, 108 Stat. 2140, added item 3509.
+<b>1994</b>—Pub. L. 103–322, title XXXIII, §330002(j), Sept. 13, 1994, 108 Stat. 2140, added item 3509.
 
-1988—Pub. L. 100–690, title VI, §6484(b), Nov. 18, 1988, 102 Stat. 4384, added item 3508.
+<b>1988</b>—Pub. L. 100–690, title VI, §6484(b), Nov. 18, 1988, 102 Stat. 4384, added item 3508.
 
-1984—Pub. L. 98–473, title II, §1217(b), Oct. 12, 1984, 98 Stat. 2166, added items 3505, 3506, and 3507.
+<b>1984</b>—Pub. L. 98–473, title II, §1217(b), Oct. 12, 1984, 98 Stat. 2166, added items 3505, 3506, and 3507.
 
-1970—Pub. L. 91–452, title II, §228(b), title VI, §601(b), title VII, §702(b), Oct. 15, 1970, 84 Stat. 930, 935, 936, added items 3503 and 3504, and struck out item 3486 “Compelled testimony tending to incriminate witnesses; immunity”.
+<b>1970</b>—Pub. L. 91–452, title II, §228(b), title VI, §601(b), title VII, §702(b), Oct. 15, 1970, 84 Stat. 930, 935, 936, added items 3503 and 3504, and struck out item 3486 “Compelled testimony tending to incriminate witnesses; immunity”.
 
-1968—Pub. L. 90–351, title II, §701(b), June 19, 1968, 82 Stat. 211, added items 3501 and 3502.
+<b>1968</b>—Pub. L. 90–351, title II, §701(b), June 19, 1968, 82 Stat. 211, added items 3501 and 3502.
 
-1957—Pub. L. 85–269, Sept. 2, 1957, 71 Stat. 596, added item 3500.
+<b>1957</b>—Pub. L. 85–269, Sept. 2, 1957, 71 Stat. 596, added item 3500.
 
-1954—Act Aug. 20, 1954, ch. 769, §2, 68 Stat. 746, rephrased item 3486.
+<b>1954</b>—Act Aug. 20, 1954, ch. 769, §2, 68 Stat. 746, rephrased item 3486.
 
 #### Protected Facilities for Housing Government Witnesses
 

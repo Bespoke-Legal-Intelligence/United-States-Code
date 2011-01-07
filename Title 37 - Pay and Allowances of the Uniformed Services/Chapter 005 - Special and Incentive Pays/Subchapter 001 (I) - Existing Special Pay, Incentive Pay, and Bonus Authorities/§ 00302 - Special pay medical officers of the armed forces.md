@@ -138,19 +138,19 @@ In subsection (c), the words “disability retirement pay” are omitted as cove
 
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–181 substituted “$75,000” for “$50,000”.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–181 substituted “$75,000” for “$50,000”.
 
-2006—Subsec. (c)(2). Pub. L. 109–163, §687(b)(4)(A), added second sentence and struck out former second sentence which read as follows: “If such entitlement is terminated, the officer concerned is entitled to be paid such special pay only for the part of the period of active duty that he served, and he may be required to refund any amount in excess of that entitlement.”
+<b>2006</b>—Subsec. (c)(2). Pub. L. 109–163, §687(b)(4)(A), added second sentence and struck out former second sentence which read as follows: “If such entitlement is terminated, the officer concerned is entitled to be paid such special pay only for the part of the period of active duty that he served, and he may be required to refund any amount in excess of that entitlement.”
 
 Subsec. (f). Pub. L. 109–163, §687(b)(4)(B), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “An officer who voluntarily terminates service on active duty before the end of the period for which a payment was made to such officer under subsection (a)(4) or (b)(1) shall refund to the United States an amount which bears the same ratio to the amount paid to such officer as the unserved part of such period bears to the total period for which the payment was made.”
 
-2002—Subsec. (b)(1). Pub. L. 107–314 inserted second sentence and struck out former second sentence which read as follows: “No payment to an officer under this subsection may exceed $16,000 for any twelve-month period beginning in fiscal year 1990, $22,000 for any twelve-month period beginning in fiscal year 1991, $29,000 for any twelve-month period beginning in fiscal year 1992, and $36,000 for any twelve-month period beginning after fiscal year 1992.”
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–314 inserted second sentence and struck out former second sentence which read as follows: “No payment to an officer under this subsection may exceed $16,000 for any twelve-month period beginning in fiscal year 1990, $22,000 for any twelve-month period beginning in fiscal year 1991, $29,000 for any twelve-month period beginning in fiscal year 1992, and $36,000 for any twelve-month period beginning after fiscal year 1992.”
 
-2000—Subsec. (h)(1). Pub. L. 106–398 inserted before period at end “, including active duty in the form of annual training, active duty for training, and active duty for special work”.
+<b>2000</b>—Subsec. (h)(1). Pub. L. 106–398 inserted before period at end “, including active duty in the form of annual training, active duty for training, and active duty for special work”.
 
-1990—Subsec. (a)(3). Pub. L. 101–510 substituted “$7,000” for “$1,000”.
+<b>1990</b>—Subsec. (a)(3). Pub. L. 101–510 substituted “$7,000” for “$1,000”.
 
-1989—Subsec. (a). Pub. L. 101–189, §702(f)(1), inserted heading.
+<b>1989</b>—Subsec. (a). Pub. L. 101–189, §702(f)(1), inserted heading.
 
 Subsec. (a)(2). Pub. L. 101–189, §702(f)(9), struck out “of this subsection” after “paragraph (1)” in introductory provisions.
 
@@ -212,33 +212,33 @@ Subsec. (i). Pub. L. 101–189, §702(f)(9), struck out “of this section” af
 
 Pub. L. 101–189, §702(f)(8), inserted heading.
 
-1987—Subsec. (b)(1). Pub. L. 100–180, §716(a)(1), (2), struck out “in an amount not to exceed $8,000” after “incentive special pay” and inserted at end “No payment to an officer under this subsection may exceed $8,000 for any twelve-month period unless the Secretary concerned determines that the officer is qualified and serving in a health profession skill which has been designated by the Secretary concerned as a critically needed wartime skill.”
+<b>1987</b>—Subsec. (b)(1). Pub. L. 100–180, §716(a)(1), (2), struck out “in an amount not to exceed $8,000” after “incentive special pay” and inserted at end “No payment to an officer under this subsection may exceed $8,000 for any twelve-month period unless the Secretary concerned determines that the officer is qualified and serving in a health profession skill which has been designated by the Secretary concerned as a critically needed wartime skill.”
 
 Subsec. (b)(3). Pub. L. 100–180, §716(a)(3), struck out par. (3) which read as follows: “The amount that may be paid for incentive special pay under this subsection in any fiscal year may not exceed an amount equal to 6 percent of the total amount paid in such year for special pay under subsection (a) of this section and paragraph (1) of this subsection.”
 
-1986—Subsec. (h)(1)(B). Pub. L. 99–661, §1342(d), amended subpar. (B) generally, substituting “period of less than one year” for “period of not less than one year”.
+<b>1986</b>—Subsec. (h)(1)(B). Pub. L. 99–661, §1342(d), amended subpar. (B) generally, substituting “period of less than one year” for “period of not less than one year”.
 
 Subsec. (i). Pub. L. 99–661, §1343(b)(1), substituted “subsection (c)(2) or (f) of this section” for “paragraph (1) of this subsection”.
 
-1985—Subsec. (h)(1)(B). Pub. L. 99–145, §640(1), substituted “who is” for “is not”.
+<b>1985</b>—Subsec. (h)(1)(B). Pub. L. 99–145, §640(1), substituted “who is” for “is not”.
 
 Subsec. (i). Pub. L. 99–145, §640(2), added subsec. (i).
 
-1980—Pub. L. 96–284, in revising text, added subsecs. (a) to (g) provisions covering special pay for medical officers of the armed forces, and struck out former provision for special pay of physicians in the Army, Navy, Air Force, and Public Health Service, amounting to $100 or $350 a month for each month of active duty in cases of active duty in named category of less than two years or two years or more of duty, now covered as to Public Health Service in section 302c of this title, and struck out prohibition against inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in any other provision of this title or in computation of retired pay or severance pay.
+<b>1980</b>—Pub. L. 96–284, in revising text, added subsecs. (a) to (g) provisions covering special pay for medical officers of the armed forces, and struck out former provision for special pay of physicians in the Army, Navy, Air Force, and Public Health Service, amounting to $100 or $350 a month for each month of active duty in cases of active duty in named category of less than two years or two years or more of duty, now covered as to Public Health Service in section 302c of this title, and struck out prohibition against inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in any other provision of this title or in computation of retired pay or severance pay.
 
 Subsec. (h). Pub. L. 96–513 added subsec. (h).
 
-1974—Pub. L. 93–274 reduced for uniformed services physicians the present four steps of special pay, which require the completion of ten years of active duty before attaining eligibility for the $350 per month maximum down to two steps, with the maximum being reached upon completion of two years of active duty, and repealed provisions relating to special pay for dentists. See section 302b of this title.
+<b>1974</b>—Pub. L. 93–274 reduced for uniformed services physicians the present four steps of special pay, which require the completion of ten years of active duty before attaining eligibility for the $350 per month maximum down to two steps, with the maximum being reached upon completion of two years of active duty, and repealed provisions relating to special pay for dentists. See section 302b of this title.
 
-1973—Subsec. (a). Pub. L. 93–64 substituted “July 1, 1975” for “July 1, 1973” wherever appearing.
+<b>1973</b>—Subsec. (a). Pub. L. 93–64 substituted “July 1, 1975” for “July 1, 1973” wherever appearing.
 
-1971—Subsec. (a). Pub. L. 92–129 substituted “July 1, 1973” for “July 1, 1971” wherever appearing.
+<b>1971</b>—Subsec. (a). Pub. L. 92–129 substituted “July 1, 1973” for “July 1, 1971” wherever appearing.
 
-1967—Subsec. (a). Pub. L. 90–40 substituted “July 1, 1971” for “July 1, 1967” wherever appearing.
+<b>1967</b>—Subsec. (a). Pub. L. 90–40 substituted “July 1, 1971” for “July 1, 1967” wherever appearing.
 
-1966—Subsec. (b). Pub. L. 89–718 substituted “or” for “and” at end of par. (3).
+<b>1966</b>—Subsec. (b). Pub. L. 89–718 substituted “or” for “and” at end of par. (3).
 
-1963—Subsec. (a). Pub. L. 88–2 substituted “July 1, 1967” for “July 1, 1963” wherever appearing.
+<b>1963</b>—Subsec. (a). Pub. L. 88–2 substituted “July 1, 1967” for “July 1, 1963” wherever appearing.
 
 Subsec. (b)(3), (4). Pub. L. 88–132 increased monthly special pay of officers completing at least six years of active duty from $200 to $250 in par. (3), and officers completing at least 10 years of active duty from $250 to $350 in par. (4).
 

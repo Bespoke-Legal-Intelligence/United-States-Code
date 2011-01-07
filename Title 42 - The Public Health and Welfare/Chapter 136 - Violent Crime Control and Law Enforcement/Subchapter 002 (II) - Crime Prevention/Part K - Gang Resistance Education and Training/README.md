@@ -1,7 +1,5 @@
 Part K—Gang Resistance Education and Training
 
-<i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the comma.</i>
-
 
 ---
 

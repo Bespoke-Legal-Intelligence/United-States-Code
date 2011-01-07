@@ -88,9 +88,9 @@ The Federal Rules of Civil Procedure, referred to in subsec. (d)(1), are set out
 
 #### Amendments
 
-2007—Subsecs. (a), (b)(1), (d)(1)(B). Pub. L. 110–140 substituted “2802, 2803, or 2807” for “2802 or 2803” wherever appearing.
+<b>2007</b>—Subsecs. (a), (b)(1), (d)(1)(B). Pub. L. 110–140 substituted “2802, 2803, or 2807” for “2802 or 2803” wherever appearing.
 
-1994—Subsec. (f). Pub. L. 103–371 added subsec. (f).
+<b>1994</b>—Subsec. (f). Pub. L. 103–371 added subsec. (f).
 
 #### Effective Date of 2007 Amendment
 

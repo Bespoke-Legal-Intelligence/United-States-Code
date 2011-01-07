@@ -40,7 +40,7 @@ This chapter, referred to in subsec. (a)(4), was in the original “this title�
 
 #### Amendments
 
-2005—Subsec. (a)(5). Pub. L. 109–58, §1252(c), added par. (5).
+<b>2005</b>—Subsec. (a)(5). Pub. L. 109–58, §1252(c), added par. (5).
 
 Subsec. (d). Pub. L. 109–58, §1252(d), added subsec. (d).
 

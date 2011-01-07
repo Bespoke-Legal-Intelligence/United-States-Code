@@ -10,7 +10,7 @@ When used in this subchapter—
 
 #### Amendments
 
-1960—Subsec. (b). Pub. L. 86–624 substituted “means the fifty States and the District of Columbia” for “means continental United States, including Alaska”.
+<b>1960</b>—Subsec. (b). Pub. L. 86–624 substituted “means the fifty States and the District of Columbia” for “means continental United States, including Alaska”.
 
-1959—Subsec. (b). Pub. L. 86–70 inserted “, including Alaska” after “continental United States”.
+<b>1959</b>—Subsec. (b). Pub. L. 86–70 inserted “, including Alaska” after “continental United States”.
 

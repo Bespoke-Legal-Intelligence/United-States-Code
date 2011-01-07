@@ -4,7 +4,7 @@
 
 Each eligible agency receiving a grant under this part for a fiscal year—
 
-&emsp;(1) shall use not less than 82.5 percent of the grant funds to award grants and contracts under section 9241 of this title and to carry out section 9225 of this title, of which not morethan 10 percent of the 82.5 percent shall be available to carry out section 9225 of this title;
+&emsp;(1) shall use not less than 82.5 percent of the grant funds to award grants and contracts under section 9241 of this title and to carry out section 9225 of this title, of which not more than 10 percent of the 82.5 percent shall be available to carry out section 9225 of this title;
 
 &emsp;(2) shall use not more than 12.5 percent of the grant funds to carry out State leadership activities under section 9223 of this title; and
 

@@ -118,7 +118,9 @@ Except as provided in regulations—
 
 For purposes of section 851(b)(2), any amount included in gross income under subsection (a) shall be treated as a dividend.
 
-#### \[(i) Repealed. Pub. L. 107–16, §542(e)(5)(C), June 7, 2001, 115 Stat. 85\]
+#### (i) Stock acquired from a decedent
+
+In the case of stock of a passive foreign investment company which is acquired by bequest, devise, or inheritance (or by the decedent's estate) and with respect to which an election under this section was in effect as of the date of the decedent's death, notwithstanding section 1014, the basis of such stock in the hands of the person so acquiring it shall be the adjusted basis of such stock in the hands of the decedent immediately before his death (or, if lesser, the basis which would have been determined under section 1014 without regard to this subsection).
 
 #### (j) Coordination with section 1291 for first year of election
 
@@ -144,7 +146,7 @@ For purposes of section 851(b)(2), any amount included in gross income under sub
 
 &emsp;&emsp;&emsp;(i) section 1291 shall not apply to such stock with respect to any distribution or disposition during, or amount included in gross income under this section for, such first taxable year, but
 
-&emsp;&emsp;&emsp;(ii) such regulated investment company's tax under this chapter for such first taxable year shall be increased by the aggregate amount of interest which would have been determined under section 1291(c)(3) if section 1291 were applied without regard to this subparagraph.
+&emsp;&emsp;&emsp;(ii) such regulated investment company's tax under this chapter for such firsttaxable year shall be increased by the aggregate amount of interest which would have been determined under section 1291(c)(3) if section 1291 were applied without regard to this subparagraph.
 
 > &emsp;&emsp;Clause (ii) shall not apply if for the preceding taxable year the company elected to mark to market the stock held by such company as of the last day of such preceding taxable year.
 
@@ -164,9 +166,11 @@ This section shall apply to marketable stock in a passive foreign investment com
 
 If any individual becomes a United States person in a taxable year beginning after December 31, 1997, solely for purposes of this section, the adjusted basis (before adjustments under subsection (b)) of any marketable stock in a passive foreign investment company owned by such individual on the first day of such taxable year shall be treated as being the greater of its fair market value on such first day or its adjusted basis on such first day.
 
-(Added Pub. L. 105–34, title XI, §1122(a), Aug. 5, 1997, 111 Stat. 972; amended Pub. L. 105–206, title VI, §6011(c)(3), July 22, 1998, 112 Stat. 818; Pub. L. 107–16, title V, §542(e)(5)(C), June 7, 2001, 115 Stat. 85; Pub. L. 108–311, title IV, §408(a)(19), Oct. 4, 2004, 118 Stat. 1192.)
+(Added Pub. L. 105–34, title XI, §1122(a), Aug. 5, 1997, 111 Stat. 972; amended Pub. L. 105–206, title VI, §6011(c)(3), July 22, 1998, 112 Stat. 818; Pub. L. 107–16, title V, §542(e)(5)(C), June 7, 2001, 115 Stat. 85; Pub. L. 108–311, title IV, §408(a)(19), Oct. 4, 2004, 118 Stat. 1192; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300.)
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 304 of Pub. L. 111–312, see Effective and Termination Dates of 2010 Amendment note below.</i>
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
@@ -180,17 +184,25 @@ A prior section 1296 was renumbered section 1297 of this title.
 
 #### Amendments
 
-2004—Subsec. (h). Pub. L. 108–311 substituted “section 851(b)(2)” for “paragraphs (2) and (3) of section 851(b)”.
+<b>2010</b>—Subsec. (i). Pub. L. 111–312, §§301(a), 304, temporarily amended subsec. (i) to read as if amendment by Pub. L. 107–16, §542(e)(5)(C), had never been enacted. See 2001 Amendment note and Effective and Termination Dates of 2010 Amendment note below.
 
-2001—Subsec. (i). Pub. L. 107–16, §§542(e)(5)(C), 901, temporarily struck out subsec. (i). Text read as follows: “In the case of stock of a passive foreign investment company which is acquired by bequest, devise, or inheritance (or by the decedent's estate) and with respect to which an election under this section was in effect as of the date of the decedent's death, notwithstanding section 1014, the basis of such stock in the hands of the person so acquiring it shall be the adjusted basis of such stock in the hands of the decedent immediately before his death (or, if lesser, the basis which would have been determined under section 1014 without regard to this subsection).” See Effective and Termination Dates of 2001 Amendment note below.
+<b>2004</b>—Subsec. (h). Pub. L. 108–311 substituted “section 851(b)(2)” for “paragraphs (2) and (3) of section 851(b)”.
 
-1998—Subsec. (d). Pub. L. 105–206 inserted at end “In the case of a regulated investment company which elected to mark to market the stock held by such company as of the last day of the taxable year preceding such company's first taxable year for which such company elects the application of this section, the amount referred to in paragraph (1) shall include amounts included in gross income under such mark to market with respect to such stock for prior taxable years.”
+<b>2001</b>—Subsec. (i). Pub. L. 107–16, §§542(e)(5)(C), 901, temporarily struck out subsec. (i). Text read as follows: “In the case of stock of a passive foreign investment company which is acquired by bequest, devise, or inheritance (or by the decedent's estate) and with respect to which an election under this section was in effect as of the date of the decedent's death, notwithstanding section 1014, the basis of such stock in the hands of the person so acquiring it shall be the adjusted basis of such stock in the hands of the decedent immediately before his death (or, if lesser, the basis which would have been determined under section 1014 without regard to this subsection).” See Effective and Termination Dates of 2001 Amendment note below.
+
+<b>1998</b>—Subsec. (d). Pub. L. 105–206 inserted at end “In the case of a regulated investment company which elected to mark to market the stock held by such company as of the last day of the taxable year preceding such company's first taxable year for which such company elects the application of this section, the amount referred to in paragraph (1) shall include amounts included in gross income under such mark to market with respect to such stock for prior taxable years.”
+
+#### Effective and Termination Dates of 2010 Amendment
+
+Amendment by Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31, 2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as a note under section 121 of this title.
+
+Section 901 of Pub. L. 107–16 applicable to amendments by section 301(a) of Pub. L. 111–312, see section 304 of Pub. L. 111–312, set out as a note under section 121 of this title.
 
 #### Effective and Termination Dates of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to estates of decedents dying after Dec. 31, 2009, see section 542(f)(1) of Pub. L. 107–16, set out as a note under section 121 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 

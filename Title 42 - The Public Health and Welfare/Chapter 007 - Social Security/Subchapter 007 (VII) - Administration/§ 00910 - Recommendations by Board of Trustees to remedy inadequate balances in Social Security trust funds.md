@@ -20,9 +20,9 @@ The Internal Revenue Code of 1986, referred to in subsec. (a), is classified gen
 
 #### Amendments
 
-1994—Subsec. (b)(2). Pub. L. 103–296 substituted “(for amounts which will be paid from the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund, as estimated by the Commissioner, and for amounts which will be paid from the Federal Hospital Insurance Trust and the Federal Supplementary Medical Insurance Trust Fund, as estimated by the Secretary)” for “(as estimated by the Secretary)”.
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–296 substituted “(for amounts which will be paid from the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund, as estimated by the Commissioner, and for amounts which will be paid from the Federal Hospital Insurance Trust and the Federal Supplementary Medical Insurance Trust Fund, as estimated by the Secretary)” for “(as estimated by the Secretary)”.
 
-1986—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 Subsec. (b)(1). Pub. L. 99–272 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the balance in such Trust Fund, reduced by the outstanding amount of any loan (including interest thereon) theretofore made to such Trust Fund under section 401(<i>l</i>) or 1395i(j) of this title, as of the beginning of such year, to”.
 

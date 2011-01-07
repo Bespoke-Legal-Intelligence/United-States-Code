@@ -6,7 +6,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (b) Investment of fund assets
 
-It shall be the duty of the Secretary of the Treasury to invest in full the amounts appropriated to the fund. Such investments may be made only in public debt securities of the United States with maturities suitable to the fund. For such purpose, such obligations may be acquired (1) on original issue at the issue price, or (2) by purchase of outstanding obligations at the market place. The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are hereby extended to authorize the issuance at par of special obligations exclusively to the fund. Such special obligations shall bear interest at a rate equal to the average rate of interest, computed as to the end of the calendar month next preceding the date of such issue, borne by all marketable interest-bearing obligations of the United States then forming a part of the public debt, except that where such average rate is not a multiple of 1/8 of 1 percent, the rate of interest of such special obligations shall be the multiple of 1/8 of 1 percent next lower than such average rate. Such special obligations shall be issued only if the Secretary determines that the purchases of other interest-bearing obligations of the United States, or of obligations guaranteed as to both principal and interest by the United States or original issue or at the market price, is not in the public interest.
+It shall be the duty of the Secretary of the Treasury to invest in full the amounts appropriated to the fund. Such investments may be made only in public debt securities of the United States with maturities suitable to the fund. For such purpose, such obligations may be acquired (1) on original issue at the issue price, or (2) by purchase of outstanding obligations at the market place. The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are hereby extended to authorizethe issuance at par of special obligations exclusively to the fund. Such special obligations shall bear interest at a rate equal to the average rate of interest, computed as to the end of the calendar month next preceding the date of such issue, borne by all marketable interest-bearing obligations of the United States then forming a part of the public debt, except that where such average rate is not a multiple of 1/8 of 1 percent, the rate of interest of such special obligations shall be the multiple of 1/8 of 1 percent next lower than such average rate. Such special obligations shall be issued only if the Secretary determines that the purchases of other interest-bearing obligations of the United States, or of obligations guaranteed as to both principal and interest by the United States or original issue or at the market price, is not in the public interest.
 
 #### (c) Authority to sell obligations
 
@@ -24,9 +24,9 @@ In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liber
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102–484 struck out “(except special obligations issued exclusively to the fund)” after “by the fund”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–484 struck out “(except special obligations issued exclusively to the fund)” after “by the fund”.
 
-1991—Subsec. (b). Pub. L. 102–190, §1089(2)(A), substituted “public debt securities of the United States with maturities suitable to the fund.” for “interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.”
+<b>1991</b>—Subsec. (b). Pub. L. 102–190, §1089(2)(A), substituted “public debt securities of the United States with maturities suitable to the fund.” for “interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.”
 
 Subsec. (c). Pub. L. 102–190, §1089(2)(B)(ii), struck out “, and such special obligations may be redeemed at par plus accrued interest” after “market price”.
 

@@ -40,5 +40,5 @@ The Department will use its best endeavors to expedite security clearance proced
 
 #### Amendments
 
-1999—Subsec. (d)(1). Pub. L. 106–113 inserted at end “Nothing in this subsection shall prevent a grievant from placing a rebuttal to accompany a record of disciplinary action in such grievant's personnel records nor prevent the Department from including a response to such rebuttal, including documenting those cases in which the Board has reviewed and upheld the discipline.”
+<b>1999</b>—Subsec. (d)(1). Pub. L. 106–113 inserted at end “Nothing in this subsection shall prevent a grievant from placing a rebuttal to accompany a record of disciplinary action in such grievant's personnel records nor prevent the Department from including a response to such rebuttal, including documenting those cases in which the Board has reviewed and upheld the discipline.”
 

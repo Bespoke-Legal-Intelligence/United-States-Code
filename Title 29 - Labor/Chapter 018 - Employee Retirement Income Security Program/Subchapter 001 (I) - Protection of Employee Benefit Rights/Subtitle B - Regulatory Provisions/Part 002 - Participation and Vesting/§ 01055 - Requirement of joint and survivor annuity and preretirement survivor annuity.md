@@ -18,7 +18,7 @@ Each pension plan to which this section applies shall provide that—
 
 &emsp;(C) any participant under any other individual account plan unless—
 
-&emsp;&emsp;(i) such plan provides that the participant's nonforfeitable accrued benefit (reduced by any security interest held by the plan by reason of a loan outstanding to such participant) is payable in full, on the death of the participant, to the participant's surviving spouse (or, if there is no surviving spouse or the surviving spouse consents inthe manner required under subsection (c)(2) of this section, to a designated beneficiary),
+&emsp;&emsp;(i) such plan provides that the participant's nonforfeitable accrued benefit (reduced by any security interest held by the plan by reason of a loan outstanding to such participant) is payable in full, on the death of the participant, to the participant's surviving spouse (or, if there is no surviving spouse or the surviving spouse consents in the manner required under subsection (c)(2) of this section, to a designated beneficiary),
 
 &emsp;&emsp;(ii) such participant does not elect the payment of benefits in the form of a life annuity, and
 
@@ -38,7 +38,7 @@ Each pension plan to which this section applies shall provide that—
 
 (4) <sup>2</sup> This section shall not apply to a plan which the Secretary of the Treasury or his delegate has determined is a plan described in section 404(c) of title 26 (or a continuation thereof) in which participation is substantially limited to individuals who, before January 1, 1976, ceased employment covered by the plan.
 
-(4) <sup>2</sup> A plan shall not be treated as failing to meet the requirements of paragraph (1)(C) or (2) merely because the plan provides that benefits will not be payable to the surviving spouse of the participant unless the participant and such spouse had been married throughout the 1-year period ending on the earlier of the participant's annuity starting date or the date of the participant's death.
+(4) <sup>2</sup> A plan shall not be treated as failing to meet the requirements of paragraph (1)(C) or (2) merely because the plan provides that benefits will not be payable to the surviving spouse of the participant unless the participant and suchspouse had been married throughout the 1-year period ending on the earlier of the participant's annuity starting date or the date of the participant's death.
 
 #### (c) Plans meeting requirements of section
 
@@ -110,7 +110,7 @@ Each pension plan to which this section applies shall provide that—
 
 &emsp;(B) in the case of an election to waive the qualified preretirement survivor annuity, the period which begins on the first day of the plan year in which the participant attains age 35 and ends on the date of the participant's death.
 
-> In the case of a participant who is separated from service, the applicable election period under subparagraph (B) with respect to benefits accrued before the date of such separation from service shall not begin later than such date.
+> In the case of a participant who is separated from service, the applicable election periodunder subparagraph (B) with respect to benefits accrued before the date of such separation from service shall not begin later than such date.
 
 (8) Notwithstanding any other provision of this subsection—
 
@@ -260,13 +260,13 @@ No consent of a spouse shall be effective for purposes of subsection (g)(1) or (
 
 In prescribing regulations under this section, the Secretary of the Treasury shall consult with the Secretary of Labor.
 
-(Pub. L. 93–406, title I, §205, Sept. 2, 1974, 88 Stat. 862; Pub. L. 98–397, title I, §103(a), Aug. 23, 1984, 98 Stat. 1429; Pub. L. 99–514, title XI, §§1139(c)(2), 1145(b), title XVIII, §1898(b)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (7)(B), (8)(B), (9)(B), (10)(B), (11)(B), (12)(B), (13)(B), (14)(B), Oct. 22, 1986, 100 Stat. 2488, 2491, 2945–2951; Pub. L. 101–239, title VII, §§7861(d)(2), 7862(d)(1)(B), (3), (6)–(9), 7891(a)(1), (b)(3), (c), (e), 7894(c)(7)(A), Dec. 19, 1989, 103 Stat. 2431, 2434, 2445, 2447, 2449; Pub. L. 103–465, title VII, §767(c)(2), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1451(b), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(b)(2), title XVI, §1601(d)(5), Aug. 5, 1997, 111 Stat. 948, 1089; Pub. L. 107–147, title IV, §411(r)(2), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title III, §302(a), title X, §1004(b), title XI, §1102(a)(2)(A), Aug. 17, 2006, 120 Stat. 920, 1054, 1056; Pub. L. 110–458, title I, §103(b)(1), Dec. 23, 2008, 122 Stat. 5103.)
+(Pub. L. 93–406, title I, §205, Sept. 2, 1974, 88 Stat. 862; Pub. L. 98–397, title I, §103(a), Aug. 23, 1984, 98 Stat. 1429; Pub. L. 99–514, title XI, §§1139(c)(2), 1145(b), title XVIII, §1898(b)(1)(B), (2)(B), (3)(B),\(4)(B), (5)(B), (6)(B), (7)(B), (8)(B), (9)(B), (10)(B), (11)(B), (12)(B), (13)(B), (14)(B), Oct. 22, 1986, 100 Stat. 2488, 2491, 2945–2951; Pub. L. 101–239, title VII, §§7861(d)(2), 7862(d)(1)(B), (3), (6)–(9), 7891(a)(1), (b)(3), (c), (e), 7894(c)(7)(A), Dec. 19, 1989, 103 Stat. 2431, 2434, 2445, 2447, 2449; Pub. L. 103–465, title VII, §767(c)(2), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1451(b), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(b)(2), title XVI, §1601(d)(5), Aug. 5, 1997, 111 Stat. 948, 1089; Pub. L. 107–147, title IV, §411(r)(2), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title III, §302(a), title X, §1004(b), title XI, §1102(a)(2)(A), Aug. 17, 2006, 120 Stat. 920, 1054, 1056; Pub. L. 110–458, title I, §103(b)(1), Dec. 23, 2008, 122 Stat. 5103.)
 
 #### Amendments
 
-2008—Subsec. (g)(3)(B)(iii)(II). Pub. L. 110–458 substituted “section 1055(g)(3)(A)(ii)(II)” for “section 1055(g)(3)(B)(iii)(II)”.
+<b>2008</b>—Subsec. (g)(3)(B)(iii)(II). Pub. L. 110–458 substituted “section 1055(g)(3)(A)(ii)(II)” for “section 1055(g)(3)(B)(iii)(II)”.
 
-2006—Subsec. (c)(1)(A). Pub. L. 109–280, §1004(b)(1), substituted comma for “, and” at end of cl. (i), added cl. (ii), and redesignated former cl. (ii) as (iii).
+<b>2006</b>—Subsec. (c)(1)(A). Pub. L. 109–280, §1004(b)(1), substituted comma for “, and” at end of cl. (i), added cl. (ii), and redesignated former cl. (ii) as (iii).
 
 Subsec. (c)(3)(A)(i). Pub. L. 109–280, §1004(b)(3), inserted “and of the qualified optional survivor annuity” before comma at end.
 
@@ -276,17 +276,17 @@ Subsec. (d). Pub. L. 109–280, §1004(b)(2), designated existing provisions as 
 
 Subsec. (g)(3). Pub. L. 109–280, §302(a), struck out heading and amended text of par. (3) generally. Prior to amendment, par. (3) stated general rule for determination of present value, defined “applicable mortality table” and “applicable interest rate”, and set forth exception from general rule in the case of a distribution from a plan that was adopted and in effect prior to Dec. 8, 1994.
 
-2002—Subsec. (g)(1). Pub. L. 107–147, §411(r)(2)(A), substituted “exceed the amount that can be distributed without the participant's consent under section 1053(e) of this title” for “exceed the dollar limit under section 1053(e)(1) of this title”.
+<b>2002</b>—Subsec. (g)(1). Pub. L. 107–147, §411(r)(2)(A), substituted “exceed the amount that can be distributed without the participant's consent under section 1053(e) of this title” for “exceed the dollar limit under section 1053(e)(1) of this title”.
 
 Subsec. (g)(2)(A). Pub. L. 107–147, §411(r)(2)(B), substituted “exceeds the amount that can be distributed without the participant's consent under section 1053(e) of this title” for “exceeds the dollar limit under section 1053(e)(1) of this title”.
 
-1997—Subsec. (c)(8)(A)(ii). Pub. L. 105–34, §1601(d)(5), substituted “Secretary of the Treasury” for “Secretary”.
+<b>1997</b>—Subsec. (c)(8)(A)(ii). Pub. L. 105–34, §1601(d)(5), substituted “Secretary of the Treasury” for “Secretary”.
 
 Subsec. (g)(1), (2)(A). Pub. L. 105–34, §1071(b)(2), substituted “the dollar limit under section 1053(e)(1) of this title” for “$3,500”.
 
-1996—Subsec. (c)(8). Pub. L. 104–188 added par. (8).
+<b>1996</b>—Subsec. (c)(8). Pub. L. 104–188 added par. (8).
 
-1994—Subsec. (g)(3). Pub. L. 103–465 amended par. (3) generally. Prior to amendment, par. (3) read as follows:
+<b>1994</b>—Subsec. (g)(3). Pub. L. 103–465 amended par. (3) generally. Prior to amendment, par. (3) read as follows:
 
 “(3)(A) For purposes of paragraphs (1) and (2), the present value shall be calculated—
 
@@ -298,7 +298,7 @@ Subsec. (g)(1), (2)(A). Pub. L. 105–34, §1071(b)(2), substituted “the dolla
 
 “(B) For purposes of subparagraph (A), the term ‘applicable interest rate’ means the interest rate which would be used (as of the date of the distribution) by the Pension Benefit Guaranty Corporation for purposes of determining the present value of a lump sum distribution on plan termination.”
 
-1989—Subsec. (b)(1)(C)(i). Pub. L. 101–239, §7862(d)(7), made technical correction to directory language of Pub. L. 99–514, §1898(b)(7)(B), see 1986 Amendment note below.
+<b>1989</b>—Subsec. (b)(1)(C)(i). Pub. L. 101–239, §7862(d)(7), made technical correction to directory language of Pub. L. 99–514, §1898(b)(7)(B), see 1986 Amendment note below.
 
 Subsec. (b)(2)(A)(i). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -322,7 +322,7 @@ Subsec. (h)(1). Pub. L. 101–239, §§7862(d)(3)(A), 7891(e)(1), amended par. (
 
 Subsec. (h)(3). Pub. L. 101–239, §§7862(d)(3)B), 7891(e)(2), amended par. (3) identically, substituting “The term” for “the term”.
 
-1986—Subsec. (a)(1). Pub. L. 99–514, §1898(b)(3)(B), substituted “who does not die before the annuity starting date” for “who retires under the plan”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §1898(b)(3)(B), substituted “who does not die before the annuity starting date” for “who retires under the plan”.
 
 Subsec. (b)(1). Pub. L. 99–514, §1898(b)(2)(B)(ii), inserted at end “Clause (iii) of subparagraph (C) shall apply only with respect to the transferred assets (and income therefrom) if the plan separately accounts for such assets and any income therefrom.”
 
@@ -370,7 +370,7 @@ Pub. L. 99–514, §1898(b)(4)(B)(iii), redesignated subsec. (j) as (k).
 
 Subsec. (<i>l</i>). Pub. L. 99–514, §1898(b)(10)(B), redesignated subsec. (k) as (<i>l</i>).
 
-1984—Subsec. (a). Pub. L. 98–397 substituted provisions relating to provisions to be included in applicable plans for former provisions relating to form of payment of annuity benefits.
+<b>1984</b>—Subsec. (a). Pub. L. 98–397 substituted provisions relating to provisions to be included in applicable plans for former provisions relating to form of payment of annuity benefits.
 
 Subsec. (b). Pub. L. 98–397 substituted provisions relating to applicable plans under this section for former provisions relating to plans providing for payment of benefits before normal retirement age.
 
@@ -396,7 +396,7 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 #### Effective Date of 2006 Amendment
 
-Amendment by section 302(a) of Pub. L. 109–280 applicable with respect to plan years beginning after Dec. 31,2007, see section 302(c) of Pub. L. 109–280, set out as a note under section 417 of Title 26, Internal Revenue Code.
+Amendment by section 302(a) of Pub. L. 109–280 applicable with respect to plan years beginning after Dec. 31, 2007, see section 302(c) of Pub. L. 109–280, set out as a note under section 417 of Title 26, Internal Revenue Code.
 
 Amendment by section 1004(b) of Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2007, with special rule for collectively bargained plans, see section 1004(c) of Pub. L. 109–280, set out as a note under section 417 of Title 26, Internal Revenue Code.
 
@@ -410,7 +410,7 @@ Amendment by Pub. L. 107–147 effective as if included in the provisions of the
 
 Amendment by section 1071(b)(2) of Pub. L. 105–34 applicable to plan years beginning after Aug. 5, 1997, see section 1071(c) of Pub. L. 105–34, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
-Amendment by section 1601(d)(5) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of Title 26, Internal Revenue Code.
+Amendment by section 1601(d)(5) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1996 Amendment
 

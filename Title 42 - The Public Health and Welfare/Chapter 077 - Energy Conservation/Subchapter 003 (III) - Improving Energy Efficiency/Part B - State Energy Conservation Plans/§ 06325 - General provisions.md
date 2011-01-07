@@ -40,7 +40,7 @@ For the purpose of carrying out this part, there are authorized to be appropriat
 
 &emsp;(A) make recommendations to the Assistant Secretary for Conservation and Renewable Energy within the Department of Energy with respect to—
 
-&emsp;&emsp;(i) the energy efficiency goals and objectives of the programs carried out under this part, part E of this subchapter, and under part A of title IV of the Energy Conservationand Production Act \[42 U.S.C. 6861 et seq.\]; and
+&emsp;&emsp;(i) the energy efficiency goals and objectives of the programs carried out under this part, part E of this subchapter, and under part A of title IV of the Energy Conservation and Production Act \[42 U.S.C. 6861 et seq.\]; and
 
 &emsp;&emsp;(ii) programmatic and administrative policies designed to strengthen and improve the programs referred to in clause (i), including actions that should be considered to encourage non-Federal resources (including private resources) to supplement Federal financial assistance;
 
@@ -72,29 +72,29 @@ The Energy Conservation and Production Act, referred to in subsec. (g)(2)(A)(i),
 
 #### Amendments
 
-2007—Subsec. (f). Pub. L. 110–140 substituted “$125,000,000 for each of fiscal years 2007 through 2012” for “$100,000,000 for each of the fiscal years 2006 and 2007 and $125,000,000 for fiscal year 2008”.
+<b>2007</b>—Subsec. (f). Pub. L. 110–140 substituted “$125,000,000 for each of fiscal years 2007 through 2012” for “$100,000,000 for each of the fiscal years 2006 and 2007 and $125,000,000 for fiscal year 2008”.
 
-2005—Subsec. (f). Pub. L. 109–58 substituted “$100,000,000 for each of the fiscal years 2006 and 2007 and $125,000,000 for fiscal year 2008” for “for fiscal years 1999 through 2003 such sums as may be necessary”.
+<b>2005</b>—Subsec. (f). Pub. L. 109–58 substituted “$100,000,000 for each of the fiscal years 2006 and 2007 and $125,000,000 for fiscal year 2008” for “for fiscal years 1999 through 2003 such sums as may be necessary”.
 
-1998—Subsec. (f). Pub. L. 105–388 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
+<b>1998</b>—Subsec. (f). Pub. L. 105–388 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
 
 “(f)(1) Except as provided in paragraph (2), for the purpose of carrying out this part, there are authorized to be appropriated not to exceed $25,000,000 for fiscal year 1991, $35,000,000 for fiscal year 1992, and $45,000,000 for fiscal year 1993.
 
 “(2) For the purposes of carrying out section 6323(f) of this title, there is authorized to be appropriated for fiscal year 1994 and each fiscal year thereafter such sums as may be necessary, to remain available until expended.”
 
-1995—Subsec. (c). Pub. L. 104–66 substituted “, as part of the report required under section 7267 of this title, report” for “report annually” in first sentence.
+<b>1995</b>—Subsec. (c). Pub. L. 104–66 substituted “, as part of the report required under section 7267 of this title, report” for “report annually” in first sentence.
 
-1992—Subsec. (f). Pub. L. 102–486 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), for the purpose” for “For the purpose”, and added par. (2).
+<b>1992</b>—Subsec. (f). Pub. L. 102–486 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), for the purpose” for “For the purpose”, and added par. (2).
 
-1990—Subsec. (f). Pub. L. 101–440, §8(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “There are authorized to be appropriated for carrying out the provisions of this part (other than section 6327 of this title) $50,000,000 for fiscal year 1976, $50,000,000 for fiscal year 1977, $50,000,000 for fiscal year 1978, and $50,000,000 for fiscal year 1979.”
+<b>1990</b>—Subsec. (f). Pub. L. 101–440, §8(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “There are authorized to be appropriated for carrying out the provisions of this part (other than section 6327 of this title) $50,000,000 for fiscal year 1976, $50,000,000 for fiscal year 1977, $50,000,000 for fiscal year 1978, and $50,000,000 for fiscal year 1979.”
 
 Subsec. (g). Pub. L. 101–440, §5, added subsec. (g).
 
-1978—Subsecs. (a) to (c), (e). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+<b>1978</b>—Subsecs. (a) to (c), (e). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
 Subsec. (f). Pub. L. 95–619, §621, authorized to be appropriated $50,000,000 for fiscal year 1979.
 
-1976—Subsec. (d). Pub. L. 94–385, §432(d)(1), (2), added subsec. (d). Former subsec. (d) redesignated (f).
+<b>1976</b>—Subsec. (d). Pub. L. 94–385, §432(d)(1), (2), added subsec. (d). Former subsec. (d) redesignated (f).
 
 Subsec. (e). Pub. L. 94–385, §432(d)(2), added subsec. (e).
 
@@ -106,5 +106,5 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 16th item on page 87 identifies a reporting provision which, as subsequently amended, is contained in subsec. (c) of this section and in which the 14th item on page 91 identifies a reporting provision in subsec. (g)(8) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 16th item on page 87 identifies a reporting provision which, as subsequently amended, is contained in subsec. (c) of this section and in which the 14th item on page 91 identifies a reporting provision in subsec. (g)(8) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 

@@ -6,9 +6,9 @@ In order to preserve for the benefit, education, and inspiration of the people o
 
 #### Amendments
 
-1982—Pub. L. 97–250 substituted “numbered 106–80–001–A, and dated March 1981” for “numbered 106–80,001, and dated February 1980”.
+<b>1982</b>—Pub. L. 97–250 substituted “numbered 106–80–001–A, and dated March 1981” for “numbered 106–80,001, and dated February 1980”.
 
-1980—Pub. L. 96–553 substituted provisions relating to establishment and map depicting boundaries of Crater Lake National Park for provisions setting out latitude and longitude of Crater Lake National Park and dedication of such Park.
+<b>1980</b>—Pub. L. 96–553 substituted provisions relating to establishment and map depicting boundaries of Crater Lake National Park for provisions setting out latitude and longitude of Crater Lake National Park and dedication of such Park.
 
 #### Disposition of Excluded Lands, Water, and Interests
 

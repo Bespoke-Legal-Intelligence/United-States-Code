@@ -78,7 +78,7 @@
 
 #### (2) Donations
 
-&emsp;Any money or other property donated, bequeathed, or devised to the Center under the authority of this section shall be credited to the Fund.
+&emsp;Any money or other property donated, bequeathed, or devised to the Center under theauthority of this section shall be credited to the Fund.
 
 #### (3) Fund management
 
@@ -240,7 +240,7 @@ In general.—Subject to the availability of appropriations, the head of the adm
 
 &emsp;&emsp;“(B)
 
-Waiver of competitive bidding.—The Librarian of Congress, after consultation with the Joint Committee on the Library of Congress, may enter into contracts under subparagraph (A)(i) to carry out the pilot program during fiscal years 2000 and 2001 without regard to section 3709 of the Revised Statutes \[41 U.S.C. 5\] or any other requirement for competitive contracting or the providing of notice of contracting opportunities.
+Waiver of competitive bidding.—The Librarian of Congress, after consultation with the Joint Committee on the Library of Congress, may enter into contracts under subparagraph (A)(i) to carry out the pilot program during fiscal years 2000 and 2001 without regard to section 3709 of the Revised Statutes \[now 41 U.S.C. 6101\] or any other requirement for competitive contracting or the providing of notice of contracting opportunities.
 
 “(c)
 
@@ -290,7 +290,7 @@ Membership.—The Advisory Board under paragraph (1) shall consist of—
 
 &emsp;&emsp;“(A) two members appointed by the Speaker of the House of Representatives, of whom one shall be designated by the Majority Leader of the House of Representatives and one shall be designated by the Minority Leader of the House of Representatives;
 
-&emsp;&emsp;“(B) two members appointed by the President pro tempore of the Senate, of whom one shall be designated by the Majority Leader of the Senate and one shall be designated by the Minority Leader of the Senate;
+&emsp;&emsp;“(B) two members appointed by the President pro tempore of the Senate, of whom one shall be designated by the Majority Leader of the Senate andone shall be designated by the Minority Leader of the Senate;
 
 &emsp;&emsp;“(C) the Librarian of Congress;
 

@@ -40,7 +40,7 @@ Assistance From Expert Firms.—The Secretary may retain the services of expert 
 
 #### Amendments
 
-2005—Pub. L. 109–59, §1602(d), renumbered section 185 of this title as this section.
+<b>2005</b>—Pub. L. 109–59, §1602(d), renumbered section 185 of this title as this section.
 
 Pub. L. 109–59, §1601(f), amended section catchline and text generally, substituting provisions relating to establishment by the Secretary of a uniform system to service the Federal credit instruments made available under this subchapter for provisions authorizing a State to identify a local servicer to assist the Secretary in servicing the Federal credit instrument made available under this subchapter.
 

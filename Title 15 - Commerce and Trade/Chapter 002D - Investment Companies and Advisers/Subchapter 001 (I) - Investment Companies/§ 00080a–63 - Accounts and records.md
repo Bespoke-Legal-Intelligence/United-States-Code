@@ -14,5 +14,5 @@ Notwithstanding the exemption set forth in section 80a–6(f) of this title, sec
 
 #### Amendments
 
-1996—Subsec. (b)(1). Pub. L. 104–290 inserted “and capital structure” after “portfolio”.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–290 inserted “and capital structure” after “portfolio”.
 

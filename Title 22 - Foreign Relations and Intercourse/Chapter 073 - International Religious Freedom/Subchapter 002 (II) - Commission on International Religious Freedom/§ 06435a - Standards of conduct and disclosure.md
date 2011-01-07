@@ -46,7 +46,7 @@ The Commission shall seek to effectively and freely cooperate with all entities 
 
 #### (1) In general
 
-&emsp;In order to preserve its independence, the Commission may not accept, use, or dispose of gifts or donations of services or property. An individual Commissioner or employee of the Commission may not, in his or her capacity as a Commissioner or employee, knowingly accept, use or dispose of gifts or donations of services or property, unless he or she in good faith believes such gifts or donations to have a value of less than $50 and a cumulative value during a calendar year of less than $100.
+&emsp;In order to preserve its independence, the Commission may not accept, use, or dispose of gifts or donations of services or property. An individual Commissioner or employee of the Commission may not, in his or her capacity as a Commissioner or employee, knowingly accept, use or dispose of gifts or donations of services or property, unless he or she in good faith believes such gifts or donations to havea value of less than $50 and a cumulative value during a calendar year of less than $100.
 
 #### (2) Exceptions
 
@@ -78,7 +78,7 @@ The Foreign Gifts and Decorations Act of 1966, referred to in subsec. (d)(2)(E),
 
 #### Amendments
 
-2002—Subsec. (c)(1). Pub. L. 107–228 substituted “The Commission may procure temporary and intermittent services under the authority of section 3109(b) of title 5, except that the Commission may not expend more than $100,000 in any fiscal year to procure such services.” for “The Commission may not procure temporary and intermittent services under section 3109(b) of title 5 or under other contracting authority other than that allowed under this subchapter.”
+<b>2002</b>—Subsec. (c)(1). Pub. L. 107–228 substituted “The Commission may procure temporary and intermittent services under the authority of section 3109(b) of title 5, except that the Commission may not expend more than $100,000 in any fiscal year to procure such services.” for “The Commission may not procure temporary and intermittent services under section 3109(b) of title 5 or under other contracting authority other than that allowed under this subchapter.”
 
 #### Change of Name
 

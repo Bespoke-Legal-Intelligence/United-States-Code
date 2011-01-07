@@ -4,7 +4,7 @@
 
 Allowances Authorized.—(1) The Secretary concerned may provide round trip travel and transportation allowances to eligible relatives of a member of the uniformed services who dies while on active duty or inactive duty in order that the eligible relatives may attend the burial ceremony of the deceased member at the location determined under subsection (a)(8) of section 1482 of title 10 or attend a memorial service for the deceased member, under circumstances covered by subsection (d) of such section.
 
-(2) The Secretary concerned may provide round trip travel and transportation allowances to eligible relatives of a member of the uniformed services who dies while on active duty in order that the eligible relatives may attend a memorial service for the deceased member that occurs at a location other than the location of the burial ceremony for which travel and transportation allowances are provided under paragraph (1). Travel and transportation allowances may be provided under this paragraph for travel of eligible relatives to only one memorial service for the deceased member concerned.
+(2) The Secretary concerned may provide round trip travel and transportation allowances to eligible relatives of a member of the uniformed services who dies while on active duty in order that the eligible relatives may attend a memorial service for the deceased member thatoccurs at a location other than the location of the burial ceremony for which travel and transportation allowances are provided under paragraph (1). Travel and transportation allowances may be provided under this paragraph for travel of eligible relatives to only one memorial service for the deceased member concerned.
 
 (3) The Secretary concerned may also provide round trip travel and transportation allowances to an attendant who accompanies an eligible relative provided travel and transportation allowances under paragraph (1) for travel to the burial ceremony if the Secretary concerned determines that—
 
@@ -86,7 +86,7 @@ Regulations.—The Secretaries concerned shall prescribe uniform regulations to 
 
 #### Amendments
 
-2009—Pub. L. 111–84, §542(b)(2)(A), substituted “member's burial ceremonies; transportation for survivors of member dying overseas to attend transfer ceremonies” for “the member's burial ceremonies” in section catchline.
+<b>2009</b>—Pub. L. 111–84, §542(b)(2)(A), substituted “member's burial ceremonies; transportation for survivors of member dying overseas to attend transfer ceremonies” for “the member's burial ceremonies” in section catchline.
 
 Subsec. (a)(2), (3). Pub. L. 111–84, §631(a), added par. (2) and redesignated former par. (2) as (3).
 
@@ -94,7 +94,7 @@ Subsec. (c). Pub. L. 111–84, §631(b), in introductory provisions of par. (1),
 
 Subsecs. (e) to (g). Pub. L. 111–84, §542(b)(1), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
-2008—Subsec. (c)(1)(B). Pub. L. 110–181, §632(a)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “The unmarried child or children of the deceased member referred to in section 401(a)(2) of this title.”
+<b>2008</b>—Subsec. (c)(1)(B). Pub. L. 110–181, §632(a)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “The unmarried child or children of the deceased member referred to in section 401(a)(2) of this title.”
 
 Subsec. (c)(1)(D), (E). Pub. L. 110–181, §632(a)(2), added subpars. (D) and (E).
 
@@ -104,7 +104,7 @@ Subsec. (c)(2). Pub. L. 110–181, §632(b), amended par. (2) generally. Prior t
 
 &emsp;“(B) up to two additional persons closely related to the deceased member who are selected by the person referred to in subparagraph (A).”
 
-2004—Subsec. (a)(1). Pub. L. 108–375, §631(a), inserted before period at end “at the location determined under subsection (a)(8) of section 1482 of title 10 or attend a memorial service for the deceased member, under circumstances covered by subsection (d) of such section”.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–375, §631(a), inserted before period at end “at the location determined under subsection (a)(8) of section 1482 of title 10 or attend a memorial service for the deceased member, under circumstances covered by subsection (d) of such section”.
 
 Subsec. (b). Pub. L. 108–375, §631(b), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows:
 
@@ -116,7 +116,7 @@ Subsec. (b). Pub. L. 108–375, §631(b), amended heading and text of subsec. (b
 
 Subsec. (c)(1)(C). Pub. L. 108–375, §631(c), substituted “The” for “If no person described in subparagraph (A) or (B) is provided travel and transportation allowances under subsection (a)(1), the”.
 
-2001—Pub. L. 107–107 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
+<b>2001</b>—Pub. L. 107–107 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
 “(a) Under uniform regulations prescribed by the Secretaries concerned, round trip travel and transportation allowances may be provided the dependents of a member who dies while on active duty or inactive duty in order that such dependents may attend the burial ceremonies of the deceased member.
 
@@ -124,11 +124,11 @@ Subsec. (c)(1)(C). Pub. L. 108–375, §631(c), substituted “The” for “If 
 
 “(2) If a deceased member was ordered or called to active duty from a place outside the United States, Puerto Rico, or the possessions of the United States, the allowances authorized under this section may be provided to and from such place and may be extended to accommodate the time necessary for such travel.
 
-“(c) In this section, the term ‘dependents’ includes the dependents specified in paragraphs (1) and (2) of section 401(a) of this title. However, if no person qualifies under such paragraphs, the parents of a member (including stepparent or parent by adoption, or any person, including a former stepparent, who has stood inloco parentis to the member at any time for a continuous period of at least 5 years before the member became 21 years of age) may be paid the travel and transportation allowances authorized under this section.”
+“(c) In this section, the term ‘dependents’ includes the dependents specified in paragraphs (1) and (2) of section 401(a) of this title. However, if no person qualifies under such paragraphs, the parents of a member (including stepparent or parent by adoption, or any person, including a former stepparent, who has stood in loco parentis to the member at any time for a continuous period of at least 5 years before the member became 21 years of age) may be paid the travel and transportation allowances authorized under this section.”
 
-1993—Subsec. (c). Pub. L. 103–35 substituted “section 401(a) of this title” for “section 401 of this title”.
+<b>1993</b>—Subsec. (c). Pub. L. 103–35 substituted “section 401(a) of this title” for “section 401 of this title”.
 
-1988—Subsec. (a). Pub. L. 100–456 substituted “or inactive duty in order that such dependents may” for “for a period of 30 days or more in order to”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–456 substituted “or inactive duty in order that such dependents may” for “for a period of 30 days or more in order to”.
 
 #### Effective Date of 2009 Amendment
 

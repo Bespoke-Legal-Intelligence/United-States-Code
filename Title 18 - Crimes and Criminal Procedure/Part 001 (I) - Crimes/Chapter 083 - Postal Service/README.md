@@ -32,6 +32,7 @@
 | [1716B.](%C2%A7%2001716B%20-%20Nonmailable%20plants.md) | Nonmailable plants. |
 | [1716C.](%C2%A7%2001716C%20-%20Forged%20agricultural%20certifications.md) | Forged agricultural certifications. |
 | [1716D.](%C2%A7%2001716D%20-%20Nonmailable%20injurious%20animals%2C%20plant%20pests%2C%20plants%2C%20and%20illegally%20taken%20fish%2C%20wildlife%2C%20and%20plants.md) | Nonmailable injurious animals, plant pests, plants, and illegally taken fish, wildlife, and plants. |
+| [1716E.](%C2%A7%2001716E%20-%20Tobacco%20products%20as%20nonmailable.md) | Tobacco products as nonmailable. |
 | [1717\.](%C2%A7%2001717%20-%20Letters%20and%20writings%20as%20nonmailable.md) | Letters and writings as nonmailable. |
 | \[1718. | Repealed.\] |
 | [1719\.](%C2%A7%2001719%20-%20Franking%20privilege.md) | Franking privilege. |
@@ -59,25 +60,27 @@
 
 #### Amendments
 
-2000—Pub. L. 106–578, §4, Dec. 28, 2000, 114 Stat. 3076, struck out item 1738 “Mailing private identification documents without a disclaimer”.
+<b>2010</b>—Pub. L. 111–154, §3(b), Mar. 31, 2010, 124 Stat. 1109, added item 1716E.
 
-1994—Pub. L. 103–322, title XXXII, §320108(b)(2), Sept. 13, 1994, 108 Stat. 2113, added item 1716D.
+<b>2000</b>—Pub. L. 106–578, §4, Dec. 28, 2000, 114 Stat. 3076, struck out item 1738 “Mailing private identification documents without a disclaimer”.
 
-1990—Pub. L. 101–647, title XII, §1210(b), (c), title XXXV, §3552(b), Nov. 29, 1990, 104 Stat. 4832, 4926, struck out item 1714 “Foreign divorce information as nonmailable”, struck out “; opening letters” after “nonmailable” in item 1717, and struck out item 1718 “Libelous matter on wrappers or envelopes”.
+<b>1994</b>—Pub. L. 103–322, title XXXII, §320108(b)(2), Sept. 13, 1994, 108 Stat. 2113, added item 1716D.
 
-1988—Pub. L. 100–690, title VII, §7090(d), Nov. 18, 1988, 102 Stat. 4410, inserted “locksmithing devices and” before “motor” in item 1716A.
+<b>1990</b>—Pub. L. 101–647, title XII, §1210(b), (c), title XXXV, §3552(b), Nov. 29, 1990, 104 Stat. 4832, 4926, struck out item 1714 “Foreign divorce information as nonmailable”, struck out “; opening letters” after “nonmailable” in item 1717, and struck out item 1718 “Libelous matter on wrappers or envelopes”.
+
+<b>1988</b>—Pub. L. 100–690, title VII, §7090(d), Nov. 18, 1988, 102 Stat. 4410, inserted “locksmithing devices and” before “motor” in item 1716A.
 
 Pub. L. 100–574, §§1(b)(2), 2(b), Oct. 31, 1988, 102 Stat. 2893, added items 1716B and 1716C.
 
-1982—Pub. L. 97–398, §4(b), Dec. 31, 1982, 96 Stat. 2011, added item 1738.
+<b>1982</b>—Pub. L. 97–398, §4(b), Dec. 31, 1982, 96 Stat. 2011, added item 1738.
 
-1970—Pub. L. 91–375, §6(j)(19)(B), (36)(B), (37)(B), Aug. 12, 1970, 84 Stat. 778, 780, 781, substituted “officer” for “postmaster” in item 1709 and “Mailing periodical publications without prepayment of postage” for “Affidavits relating to second class mail” in item 1733, and added items 1735 to 1737.
+<b>1970</b>—Pub. L. 91–375, §6(j)(19)(B), (36)(B), (37)(B), Aug. 12, 1970, 84 Stat. 778, 780, 781, substituted “officer” for “postmaster” in item 1709 and “Mailing periodical publications without prepayment of postage” for “Affidavits relating to second class mail” in item 1733, and added items 1735 to 1737.
 
-1968—Pub. L. 90–560, §2(2), Oct. 12, 1968, 82 Stat. 997, added item 1716A.
+<b>1968</b>—Pub. L. 90–560, §2(2), Oct. 12, 1968, 82 Stat. 997, added item 1716A.
 
 Pub. L. 90–384, §1(b), July 5, 1968, 82 Stat. 292, struck out item 1727 “Postage accounting”.
 
-1960—Pub. L. 86–682, §8, Sept. 2, 1960, 74 Stat. 706, added items 1733 and 1734.
+<b>1960</b>—Pub. L. 86–682, §8, Sept. 2, 1960, 74 Stat. 706, added items 1733 and 1734.
 
 
 ---
@@ -114,6 +117,7 @@ Pub. L. 90–384, §1(b), July 5, 1968, 82 Stat. 292, struck out item 1727 “Po
 - [&sect; 01716B - Nonmailable plants](%C2%A7%2001716B%20-%20Nonmailable%20plants.md)
 - [&sect; 01716C - Forged agricultural certifications](%C2%A7%2001716C%20-%20Forged%20agricultural%20certifications.md)
 - [&sect; 01716D - Nonmailable injurious animals, plant pests, plants, and illegally taken fish, wildlife, and plants](%C2%A7%2001716D%20-%20Nonmailable%20injurious%20animals%2C%20plant%20pests%2C%20plants%2C%20and%20illegally%20taken%20fish%2C%20wildlife%2C%20and%20plants.md)
+- [&sect; 01716E - Tobacco products as nonmailable](%C2%A7%2001716E%20-%20Tobacco%20products%20as%20nonmailable.md)
 - [&sect; 01717 - Letters and writings as nonmailable](%C2%A7%2001717%20-%20Letters%20and%20writings%20as%20nonmailable.md)
 - [&sect; 01718 - Repealed. Pub. L. 101&#8211;647, title XII, &sect;1210(c), Nov. 29, 1990, 104 Stat. 4832](%C2%A7%2001718%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93647%2C%20title%20XII%2C%20%C2%A71210%28c%29%2C%20Nov.%2029%2C%201990%2C%20104%20Stat.%204832.md)
 - [&sect; 01719 - Franking privilege](%C2%A7%2001719%20-%20Franking%20privilege.md)

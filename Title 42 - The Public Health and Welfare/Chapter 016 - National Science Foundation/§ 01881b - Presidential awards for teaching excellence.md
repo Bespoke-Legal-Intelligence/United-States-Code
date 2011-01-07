@@ -28,7 +28,7 @@ Section was enacted as part of the National Science Foundation Authorization Act
 
 #### Amendments
 
-1998—Par. (1)(B)(v). Pub. L. 105–207, §202(c)(1), added cl. (v) and struck out former cl. (v) which read as follows: “from the United States Department of Defense Dependents’ School.”
+<b>1998</b>—Par. (1)(B)(v). Pub. L. 105–207, §202(c)(1), added cl. (v) and struck out former cl. (v) which read as follows: “from the United States Department of Defense Dependents’ School.”
 
 Par. (3)(A). Pub. L. 105–207, §202(c)(2), substituted “Education and Human Resources” for “Science and Engineering Education”.
 

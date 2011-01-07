@@ -96,7 +96,7 @@ Grazing.—
 
 &emsp;“(1)
 
-In general.—The Secretary shall permit the continuation of grazing on land transferred to the Secretary under this Act, subject to applicable laws, regulations, and Executive orders.
+In general.—The Secretary shall permit the continuation of grazing on land transferred to theSecretary under this Act, subject to applicable laws, regulations, and Executive orders.
 
 &emsp;“(2)
 

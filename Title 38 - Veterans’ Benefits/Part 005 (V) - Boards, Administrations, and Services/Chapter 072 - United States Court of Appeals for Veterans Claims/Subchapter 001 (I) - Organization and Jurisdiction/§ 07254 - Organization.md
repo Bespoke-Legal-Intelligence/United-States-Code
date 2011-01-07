@@ -18,15 +18,15 @@ Precedence of Judges.—The chief judge of the Court shall have precedence and p
 
 #### Amendments
 
-1999—Subsec. (d). Pub. L. 106–117 inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “In the event of a vacancy in the position of chief judge of the Court, the associate judge senior in service on the Court shall serve as acting chief judge unless the President designates one of the other associate judges to serve as acting chief judge, in which case the judge so designated shall serve as acting chief judge.”
+<b>1999</b>—Subsec. (d). Pub. L. 106–117 inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “In the event of a vacancy in the position of chief judge of the Court, the associate judge senior in service on the Court shall serve as acting chief judge unless the President designates one of the other associate judges to serve as acting chief judge, in which case the judge so designated shall serve as acting chief judge.”
 
-1998—Subsec. (a). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-1991—Pub. L. 102–40 renumbered section 4054 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 4054 of this title as this section.
 
 Subsecs. (d), (e). Pub. L. 102–54 amended section as in effect immediately before the enactment of Pub. L. 102–40, and Pub. L. 102–82 amended section, identically, by redesignating the second subsec. (d), relating to authority to administer oaths as, (e).
 
-1989—Subsec. (d). Pub. L. 101–237 added subsec. (d) relating to authority to administer oaths.
+<b>1989</b>—Subsec. (d). Pub. L. 101–237 added subsec. (d) relating to authority to administer oaths.
 
 Pub. L. 101–94 added subsec. (d) relating to acting chief judge in event of vacancy.
 

@@ -20,13 +20,13 @@ The Indian Claims Commission, referred to in text, terminated Sept. 30, 1978. Se
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1987—Subsec. (a). Pub. L. 100–153, §4(1), (2), designated existing provision as subsec. (a) and substituted “any investment income” for “any interest”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–153, §4(1), (2), designated existing provision as subsec. (a) and substituted “any investment income” for “any interest”.
 
 Subsecs. (b), (c). Pub. L. 100–153, §4(3), added subsecs. (b) and (c).
 
-1982—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+<b>1982</b>—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
 #### Effective Date of 1992 Amendment
 

@@ -14,7 +14,7 @@ Subsequent to the leasing and developing of any area or region, the Secretary sh
 
 #### (c) Procedural regulations for conduct of studies; cooperation with affected States; utilization of information from Federal, State and local governments and agencies
 
-The Secretary shall, by regulation, establish procedures for carrying out his duties under this section, and shall plan and carry out such duties in full cooperation with affected States. To the extent that other Federal agencies have prepared environmental impact statements, are conducting studies, or are monitoring the affected human, marine, or coastal environment, the Secretary may utilize the information derived therefrom in lieu of directly conducting such activities. The Secretary may also utilize information obtained from any State or local government, or from any person, for the purposes of this section. For the purpose of carrying out his responsibilities under this section, the Secretary may by agreement utilize, with or without reimbursement, the services, personnel, or facilities of any Federal, State, or local government agency.
+The Secretary shall, by regulation, establish procedures for carrying out his duties under this section, and shall plan and carry out such duties in full cooperation with affected States. To the extent that other Federal agencies have prepared environmental impact statements, areconducting studies, or are monitoring the affected human, marine, or coastal environment, the Secretary may utilize the information derived therefrom in lieu of directly conducting such activities. The Secretary may also utilize information obtained from any State or local government, or from any person, for the purposes of this section. For the purpose of carrying out his responsibilities under this section, the Secretary may by agreement utilize, with or without reimbursement, the services, personnel, or facilities of any Federal, State, or local government agency.
 
 #### (d) Consideration of relevant environmental information in developing regulations, lease conditions and operating orders
 
@@ -32,9 +32,9 @@ In executing his responsibilities under this section, the Secretary shall, to th
 
 #### Amendments
 
-1995—Subsec. (e). Pub. L. 104–66 substituted “every 3 fiscal years” for “each fiscal year”.
+<b>1995</b>—Subsec. (e). Pub. L. 104–66 substituted “every 3 fiscal years” for “each fiscal year”.
 
-1994—Subsec. (a)(1). Pub. L. 103–426, §1(b)(1), inserted “or other lease” after “any oil and gas lease sale” and “or other mineral” after “affected by oil and gas”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–426, §1(b)(1), inserted “or other lease” after “any oil and gas lease sale” and “or other mineral” after “affected by oil and gas”.
 
 Subsec. (a)(2). Pub. L. 103–426, §1(b)(2), inserted before last sentence “In the case of an agreement under section 1337(k)(2) of this title, each study required by paragraph (1) of this subsection shall be commenced not later than 6 months prior to commencing negotiations for such agreement or the entering into the memorandum of agreement as the case may be.”
 

@@ -6,7 +6,7 @@ Any vessel not documented under the laws of the United States, acquired by or ma
 
 #### (b) Waiver of compliance
 
-The President may, notwithstanding any other provisions of law, by rules and regulationsor orders, waive compliance with any provision of law relating to masters, officers, members of the crew, or crew accommodations on any vessel documented under authority of this section to such extent and upon such terms as he finds necessary because of the lack of physical facilities on such vessels, and because of the need to employ aliens for their operation. No vessel shall cease to enjoy the benefits and privileges of a vessel of the United States by reason of the employment of any person in accordance with the provisions of this subsection.
+The President may, notwithstanding any other provisions of law, by rules and regulations or orders, waive compliance with any provision of law relating to masters, officers, members of the crew, or crew accommodations on any vessel documented under authority of this section to such extent and upon such terms as he finds necessary because of the lack of physical facilities on such vessels, and because of the need to employ aliens for their operation. No vessel shallcease to enjoy the benefits and privileges of a vessel of the United States by reason of the employment of any person in accordance with the provisions of this subsection.
 
 #### (c) Coastwise trade; inspection
 
@@ -14,7 +14,7 @@ Any vessel while documented under the provisions of this section, when chartered
 
 #### (d) Reconditioning of vessels
 
-The Secretary of Transportation without regard to the provisions of section 5 of title 41 may repair, reconstruct, or recondition any vessels to be utilized under sections 196 to 198 of this title. The Secretary of Transportation and any other Government department or agency by which any vessel is acquired or chartered, or to which any vessel is transferred or made available under sections 196 to 198 of this title may, with the aid of any funds available and without regard to the provisions of said section 5 of title 41, repair, reconstruct, or recondition any such vessels to meet the needs of the services intended, or provide facilities for such repair, reconstruction, or reconditioning. The Secretary of Transportation may operate or charter for operation any vessel to be utilized under sections 196 to 198 of this title to private operators, citizens of the United States, or to any department or agency of the United States Government, without regard to the provisions of chapter 575 of title 46, and any department or agency of the United States Government is authorized to enter into such charters.
+The Secretary of Transportation without regard to the provisions of section 6101 of title 41 may repair, reconstruct, or recondition any vessels to be utilized under sections 196 to 198 of this title. The Secretary of Transportation and any other Government department or agency by which any vessel is acquired or chartered, or to which any vessel is transferred or made available under sections 196 to 198 of this title may, with the aid of any funds available and without regard to the provisions of said section 6101, repair, reconstruct, or recondition any such vessels to meet the needs of the services intended, or provide facilities for such repair, reconstruction, or reconditioning. The Secretary of Transportation may operate or charter for operation any vessel to be utilized under sections 196 to 198 of this title to private operators, citizens of the United States, or to any department or agency of the United States Government, without regard to the provisions of chapter 575 of title 46, and any department or agency of the United States Government is authorized to enter into such charters.
 
 #### (e) Effective period
 
@@ -28,11 +28,13 @@ When used in sections 196 to 198 of this title, the term “documented” means 
 
 #### Codification
 
-“Section 57109 of title 46” substituted in subsec. (c) for “The second paragraph of section 9 of the Shipping Act, 1916, as amended,” and “chapter 575 of title 46” substituted in subsec. (d) for “title VII of the Merchant Marine Act, 1936” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 57109 and chapter 575 of Title 46, Shipping.
+In subsec. (c), “Section 57109 of title 46” substituted for “The second paragraph of section 9 of the Shipping Act, 1916, as amended,” and, in subsec. (d), “chapter 575 of title 46” substituted for “title VII of the Merchant Marine Act, 1936” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 57109 and chapter 575 of Title 46, Shipping.
+
+In subsec. (d), “provisions of section 6101 of title 41” substituted for “provisions of section 3709 of the Revised Statutes” and “said section 6101” substituted for “said section 3709” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-1981—Subsecs. (a), (c), (d). Pub. L. 97–31 substituted references to Secretary of Transportation for references to Secretary of Commerce wherever appearing.
+<b>1981</b>—Subsecs. (a), (c), (d). Pub. L. 97–31 substituted references to Secretary of Transportation for references to Secretary of Commerce wherever appearing.
 
 #### Transfer of Functions
 

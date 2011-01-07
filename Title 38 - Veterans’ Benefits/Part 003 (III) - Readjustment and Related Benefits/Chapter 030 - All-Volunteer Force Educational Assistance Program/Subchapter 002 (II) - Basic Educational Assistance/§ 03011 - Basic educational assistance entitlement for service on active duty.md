@@ -116,17 +116,17 @@ Another prior section 3011, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1227; Pub.
 
 #### Amendments
 
-2008—Subsec. (a)(1)(A)(ii), (B)(ii), (C)(iii)(II). Pub. L. 110–317 inserted “by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10),” after “service-connected disability,”.
+<b>2008</b>—Subsec. (a)(1)(A)(ii), (B)(ii), (C)(iii)(II). Pub. L. 110–317 inserted “by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10),” after “service-connected disability,”.
 
-2006—Subsec. (a)(1)(A)(ii)(III). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+<b>2006</b>—Subsec. (a)(1)(A)(ii)(III). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Pub. L. 109–461, §1004(b)(2), made technical amendment to directory language of Pub. L. 107–296. See 2002 Amendment note below.
 
 Pub. L. 109–444, which made amendment identical to the amendment made by Pub. L. 109–461, §1004(b)(2), was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
-2004—Subsec. (b). Pub. L. 108–454 substituted “(1) Except as provided in paragraph (2), the basic pay” for “The basic pay”, added par. (2), and designated second sentence of existing provisions as par. (3) and substituted “this subsection” for “this chapter”.
+<b>2004</b>—Subsec. (b). Pub. L. 108–454 substituted “(1) Except as provided in paragraph (2), the basic pay” for “The basic pay”, added par. (2), and designated second sentence of existing provisions as par. (3) and substituted “this subsection” for “this chapter”.
 
-2002—Subsec. (a)(1)(A)(ii)(I). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (a)(1)(A)(ii)(I). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 Subsec. (a)(1)(A)(ii)(III). Pub. L. 107–296, as amended by Pub. L. 109–461, §1004(b)(2), substituted “of Homeland Security” for “of Transportation”.
 
@@ -136,7 +136,7 @@ Subsec. (a)(1)(C)(ii). Pub. L. 107–330 struck out “on or” after “active 
 
 Subsec. (a)(1)(C)(iii)(II)(cc). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-2001—Subsec. (a)(1)(A)(i). Pub. L. 107–14, §7(a)(1), substituted “(I) in the case of an individual whose obligated period of active duty is three years or more, serves at least three years of continuous active duty in the Armed Forces, or (II) in the case of an individual whose obligated period of active duty is less than three years, serves” for “serves an obligated period of active duty of”.
+<b>2001</b>—Subsec. (a)(1)(A)(i). Pub. L. 107–14, §7(a)(1), substituted “(I) in the case of an individual whose obligated period of active duty is three years or more, serves at least three years of continuous active duty in the Armed Forces, or (II) in the case of an individual whose obligated period of active duty is less than three years, serves” for “serves an obligated period of active duty of”.
 
 Subsec. (a)(1)(C). Pub. L. 107–103, §105(a), added subpar. (C).
 
@@ -148,7 +148,7 @@ Subsec. (e)(3). Pub. L. 107–14, §7(c)(1)(B), substituted “multiples of $20�
 
 Subsec. (e)(4). Pub. L. 107–14, §7(c)(1)(C), substituted “Secretary of the military department concerned. That” for “Secretary. The” and struck out “by the Secretary” after “any amounts received”.
 
-2000—Subsec. (a)(1)(A)(i). Pub. L. 106–419, §103(a)(1)(A), added cl. (i) and struck out former cl. (i) which read as follows: “who (I) serves, as the individual's initial obligated period of active duty, at least three years of continuous active duty in the Armed Forces, or (II) in the case of an individual whose initial period of active duty is less than three years, serves at least two years of continuous active duty in the Armed Forces; or”.
+<b>2000</b>—Subsec. (a)(1)(A)(i). Pub. L. 106–419, §103(a)(1)(A), added cl. (i) and struck out former cl. (i) which read as follows: “who (I) serves, as the individual's initial obligated period of active duty, at least three years of continuous active duty in the Armed Forces, or (II) in the case of an individual whose initial period of active duty is less than three years, serves at least two years of continuous active duty in the Armed Forces; or”.
 
 Subsec. (a)(1)(A)(ii)(II). Pub. L. 106–419, §103(a)(1)(B), substituted “if, in the case of an individual with an obligated period of service of two years, the individual completes not less than 20 months of continuous active duty under that period of obligated service, or, in the case of an individual with an obligated period of service of at least three years, the individual completes not less than 30 months of continuous active duty under that period of obligated service” for “in the case of an individual who completed not less than 20 months of continuous active duty, if the initial obligated period of active duty of the individual was less than three years, or in the case of an individual who completed not less than 30 months of continuous active duty if the initial obligated period of active duty of the individual was at least three years”.
 
@@ -170,27 +170,27 @@ Subsec. (h)(2)(A). Pub. L. 106–419, §103(a)(3), substituted “during the obl
 
 Subsec. (i). Pub. L. 106–419, §103(a)(4), struck out “initial” before “obligated period”.
 
-1999—Subsec. (f)(1). Pub. L. 106–117, §702(a)(1), substituted “paragraph (2) or (3)” for “paragraph (2)”.
+<b>1999</b>—Subsec. (f)(1). Pub. L. 106–117, §702(a)(1), substituted “paragraph (2) or (3)” for “paragraph (2)”.
 
 Subsec. (f)(3). Pub. L. 106–117, §702(a)(2), added par. (3).
 
 Subsec. (i). Pub. L. 106–117, §704, struck out “Federal” before “Government”.
 
-1998—Subsec. (a)(2). Pub. L. 105–368, §203(a), substituted “successfully completed (or otherwise received academic credit for)” for “successfully completed” in two places in concluding provisions.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–368, §203(a), substituted “successfully completed (or otherwise received academic credit for)” for “successfully completed” in two places in concluding provisions.
 
 Subsec. (i). Pub. L. 105–368, §207(a), added subsec. (i).
 
-1996—Subsec. (c)(2). Pub. L. 104–201, §556(a)(1), struck out “or upon completion of a program of educational assistance under section 2107 of title 10” after “Coast Guard Academy”.
+<b>1996</b>—Subsec. (c)(2). Pub. L. 104–201, §556(a)(1), struck out “or upon completion of a program of educational assistance under section 2107 of title 10” after “Coast Guard Academy”.
 
 Subsec. (c)(3). Pub. L. 104–201, §556(a)(2), added par. (3).
 
 Subsec. (d)(3). Pub. L. 104–106 substituted “section 12301, 12302, 12304, 12306, or 12307 of title 10” for “section 672, 673, 673b, 674, or 675 of title 10”.
 
-1994—Subsec. (e). Pub. L. 103–446, §1201(f)(2), substituted “October 28, 1994,” for “the end of the 24-month period beginning on the date of the enactment of this subsection”.
+<b>1994</b>—Subsec. (e). Pub. L. 103–446, §1201(f)(2), substituted “October 28, 1994,” for “the end of the 24-month period beginning on the date of the enactment of this subsection”.
 
 Subsec. (f)(1). Pub. L. 103–446, §1201(e)(10), substituted “the length of which” for “whose length”.
 
-1992—Subsec. (a)(1)(B). Pub. L. 102–568, §302(a)(1), substituted “at any time during the period beginning on October 19, 1984, and ending on July 1, 1985, continued on active duty without a break in service” for “on October 19, 1984, and without a break in service since October 19, 1984,”.
+<b>1992</b>—Subsec. (a)(1)(B). Pub. L. 102–568, §302(a)(1), substituted “at any time during the period beginning on October 19, 1984, and ending on July 1, 1985, continued on active duty without a break in service” for “on October 19, 1984, and without a break in service since October 19, 1984,”.
 
 Subsec. (a)(2). Pub. L. 102–568, §303(a)(1)(A), inserted “, except as provided in subsection (e) of this section,” after “who”.
 
@@ -202,7 +202,7 @@ Subsec. (g). Pub. L. 102–568, §305(a), added subsec. (g).
 
 Subsec. (h). Pub. L. 102–568, §306(a), added subsec. (h).
 
-1991—Pub. L. 102–83 renumbered section 1411 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1411 of this title as this section.
 
 Subsec. (a)(3). Pub. L. 102–16 added cls. (A) to (C), redesignated former cl. (C) as (D), and struck out former cls. (A) and (B) which read as follows:
 
@@ -210,7 +210,7 @@ Subsec. (a)(3). Pub. L. 102–16 added cls. (A) to (C), redesignated former cl. 
 
 “(B) continues on active duty; or”.
 
-1990—Subsec. (a)(1)(A)(ii)(I). Pub. L. 101–510, §562(a)(1), substituted “for” for “or for” and inserted “, or for a physical or mental condition that was not characterized as a disability and did not result from the individual's own willful misconduct but did interfere with the individual's performance of duty, as determined by the Secretary of each military department in accordance with regulations prescribed by the Secretary of Defense or by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy” after “hardship”.
+<b>1990</b>—Subsec. (a)(1)(A)(ii)(I). Pub. L. 101–510, §562(a)(1), substituted “for” for “or for” and inserted “, or for a physical or mental condition that was not characterized as a disability and did not result from the individual's own willful misconduct but did interfere with the individual's performance of duty, as determined by the Secretary of each military department in accordance with regulations prescribed by the Secretary of Defense or by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy” after “hardship”.
 
 Subsec. (a)(1)(B)(ii)(I). Pub. L. 101–510, §562(a)(2), substituted “for” for “or for” and inserted “, or for a physical or mental condition that was not characterized as a disability, as described in subparagraph (A)(ii)(I) of this paragraph” after “hardship”.
 
@@ -218,11 +218,11 @@ Subsec. (d)(1). Pub. L. 101–510, §562(b)(1), substituted “paragraphs (2) an
 
 Subsec. (d)(3). Pub. L. 101–510, §562(b)(2), added par. (3).
 
-1989—Subsec. (a)(1)(A)(ii), (B)(ii). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator”.
+<b>1989</b>—Subsec. (a)(1)(A)(ii), (B)(ii). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator”.
 
 Subsec. (a)(2). Pub. L. 101–237, §409, in concluding provisions, inserted cl. (i) designation and added cl. (ii).
 
-1988—Subsec. (a)(1)(A)(i)(I). Pub. L. 100–689, §111(a)(2)(A), inserted “, as the individual's initial obligated period of active duty,” after “serves”.
+<b>1988</b>—Subsec. (a)(1)(A)(i)(I). Pub. L. 100–689, §111(a)(2)(A), inserted “, as the individual's initial obligated period of active duty,” after “serves”.
 
 Subsec. (a)(1)(A)(ii). Pub. L. 100–689, §102(a), inserted in subcl. (I) “, for a medical condition which preexisted such service on active duty and which the Administrator determines is not service connected,”, substituted a semicolon for “, or” before subcl. (II), and added subcl. (III).
 
@@ -234,9 +234,9 @@ Subsec. (b). Pub. L. 100–689, §103(b)(1), substituted “reduced under this c
 
 Subsec. (d). Pub. L. 100–689, §111(a)(3), added subsec. (d).
 
-1987—Subsec. (a)(1)(A). Pub. L. 100–48 substituted “after June 30, 1985” for “during the period beginning on July 1, 1985, and ending on June 30, 1988”.
+<b>1987</b>—Subsec. (a)(1)(A). Pub. L. 100–48 substituted “after June 30, 1985” for “during the period beginning on July 1, 1985, and ending on June 30, 1988”.
 
-1986—Subsec. (a). Pub. L. 99–576, §702(8), inserted a comma after “of this section”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–576, §702(8), inserted a comma after “of this section”.
 
 Subsec. (a)(1)(A)(ii)(II). Pub. L. 99–576, §321(1)(A), inserted “continuous” after “months of” in two places.
 
@@ -246,7 +246,7 @@ Subsec. (a)(1)(B)(ii)(II). Pub. L. 99–576, §321(1)(B), inserted “continuous
 
 Subsec. (b). Pub. L. 99–576, §303(a)(1), substituted “Any amount by which the basic pay of an individual is reduced under this subsection shall revert to the Treasury and shall not, for purposes of any Federal law, be considered to have been received by or to be within the control of such individual” for “Amounts withheld from basic pay under this subsection shall revert to the Treasury”.
 
-1985—Subsec. (a)(1)(B). Pub. L. 99–145 struck out “and without a break in service on active duty since December 31, 1976,” after “chapter 34 of this title”.
+<b>1985</b>—Subsec. (a)(1)(B). Pub. L. 99–145 struck out “and without a break in service on active duty since December 31, 1976,” after “chapter 34 of this title”.
 
 #### Effective Date of 2008 Amendment
 

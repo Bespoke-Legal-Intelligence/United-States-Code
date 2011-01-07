@@ -24,11 +24,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-1996—Par. (5). Pub. L. 104–147, §2(1), struck out “to” before “promote” and “and” after “program;”.
+<b>1996</b>—Par. (5). Pub. L. 104–147, §2(1), struck out “to” before “promote” and “and” after “program;”.
 
 Par. (6). Pub. L. 104–147, §2(2), substituted “; and” for period at end.
 
 Par. (7). Pub. L. 104–147, §2(3), added par. (7).
 
-1990—Par. (5). Pub. L. 101–397 substituted “to promote more effective coordination of” for “coordinate more effectively”.
+<b>1990</b>—Par. (5). Pub. L. 101–397 substituted “to promote more effective coordination of” for “coordinate more effectively”.
 

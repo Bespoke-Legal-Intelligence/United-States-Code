@@ -30,7 +30,7 @@ A prior section 199H of Pub. L. 101–610 was classified to section 12655g of th
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–82, §101(e)(1), (7), in introductory provisions, substituted “Corporation” for “Commission” and “section 12655b” for “section 12543”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–82, §101(e)(1), (7), in introductory provisions, substituted “Corporation” for “Commission” and “section 12655b” for “section 12543”.
 
 Subsec. (b). Pub. L. 103–82, §101(e)(1), substituted “Corporation” for “Commission”.
 

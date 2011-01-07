@@ -12,7 +12,7 @@ Section 460<i>l</i>–6a(i)(1) of this title, referred to in text, was repealed,
 
 #### Amendments
 
-1987—Pub. L. 100–203 amended last sentence generally. Prior to amendment, last sentence read as follows: “Moneys covered into this fund not subsequently authorized by the Congress for expenditures within two fiscal years following the fiscal year in which such moneys had been credited to the fund, shall be transferred to miscellaneous receipts of the Treasury.”
+<b>1987</b>—Pub. L. 100–203 amended last sentence generally. Prior to amendment, last sentence read as follows: “Moneys covered into this fund not subsequently authorized by the Congress for expenditures within two fiscal years following the fiscal year in which such moneys had been credited to the fund, shall be transferred to miscellaneous receipts of the Treasury.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

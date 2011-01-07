@@ -12,7 +12,7 @@ Notice to Congress of Regulations.—The Secretary of Defense shall notify Congr
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–85 substituted “1603” for “1604”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–85 substituted “1603” for “1604”.
 
 #### Effective Date
 

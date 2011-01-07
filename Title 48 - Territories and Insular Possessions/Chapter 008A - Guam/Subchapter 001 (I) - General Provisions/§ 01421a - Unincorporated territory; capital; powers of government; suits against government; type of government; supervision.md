@@ -6,9 +6,9 @@ Guam is declared to be an unincorporated territory of the United States and the 
 
 #### Amendments
 
-1968—Pub. L. 90–497 substituted provisions that all matters concerning Guam which are not the program responsibility of other Federal departments or agencies be under the general administrative supervision of the Secretary of the Interior for provisions that the general administrative supervision of matters concerning Guam be under the head of such civilian department or agency of the Government of the United States as the President might direct.
+<b>1968</b>—Pub. L. 90–497 substituted provisions that all matters concerning Guam which are not the program responsibility of other Federal departments or agencies be under the general administrative supervision of the Secretary of the Interior for provisions that the general administrative supervision of matters concerning Guam be under the head of such civilian department or agency of the Government of the United States as the President might direct.
 
-1959—Pub. L. 86–316 permitted government of Guam, with consent of legislature, to be sued.
+<b>1959</b>—Pub. L. 86–316 permitted government of Guam, with consent of legislature, to be sued.
 
 #### Effective Date of 1968 Amendment
 

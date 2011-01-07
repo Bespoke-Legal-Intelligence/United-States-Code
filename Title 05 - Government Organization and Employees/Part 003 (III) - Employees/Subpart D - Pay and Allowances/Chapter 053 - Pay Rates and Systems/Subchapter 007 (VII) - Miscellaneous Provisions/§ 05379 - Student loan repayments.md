@@ -16,7 +16,7 @@
 
 (b)(1) The head of an agency may, in order to recruit or retain highly qualified personnel, establish a program under which the agency may agree to repay (by direct payments on behalf of the employee) any student loan previously taken out by such employee.
 
-(2) Payments under this section shall be made subject to such terms, limitations, or conditions as may be mutually agreed to by the agency and employee concerned, except that the amountpaid by an agency under this section may not exceed—
+(2) Payments under this section shall be made subject to such terms, limitations, or conditions as may be mutually agreed to by the agency and employee concerned, except that the amount paid by an agency under this section may not exceed—
 
 &emsp;(A) $10,000 for any employee in any calendar year; or
 

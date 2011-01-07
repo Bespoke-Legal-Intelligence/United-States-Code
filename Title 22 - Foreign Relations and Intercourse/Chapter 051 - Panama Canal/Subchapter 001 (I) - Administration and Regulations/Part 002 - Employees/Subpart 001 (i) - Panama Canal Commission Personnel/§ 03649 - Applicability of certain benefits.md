@@ -12,7 +12,7 @@ Chapter 81 of title 5, relating to compensation for work injuries, chapters 83 a
 
 #### Amendments
 
-1996—Pub. L. 104–201 substituted “Applicability of certain benefits” for “Inapplicability of certain benefits to certain noncitizens” in section catchline and amended text generally. Prior to amendment, text was comprised of subsec. (a) of section 1209 of Pub. L. 96–70 which read as follows: “Chapter 81 of title 5, relating to compensation for work injuries, chapter 83 of such title 5, relating to civil service retirement, chapter 87 of such title 5, relating to life insurance, and chapter 89 of such title 5, relating to health insurance, are inapplicable to any individual—
+<b>1996</b>—Pub. L. 104–201 substituted “Applicability of certain benefits” for “Inapplicability of certain benefits to certain noncitizens” in section catchline and amended text generally. Prior to amendment, text was comprised of subsec. (a) of section 1209 of Pub. L. 96–70 which read as follows: “Chapter 81 of title 5, relating to compensation for work injuries, chapter 83 of such title 5, relating to civil service retirement, chapter 87 of such title 5, relating to life insurance, and chapter 89 of such title 5, relating to health insurance, are inapplicable to any individual—
 
 &emsp;“(1) who is not a citizen of the United States;
 

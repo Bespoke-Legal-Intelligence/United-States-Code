@@ -1,6 +1,6 @@
 ### §505. Penalty for violating regulation or order
 
-A person convicted of knowingly and willfully violating a regulation or order of the Federal Maritime Commission or the Secretary of Transportation under subtitle IV or V of this title, for which no penalty is expressly provided, shall be fined not more than $500. Each day of a continuing violation is a separate offense.
+A person convicted of knowingly and willfully violating a regulation or order of the FederalMaritime Commission or the Secretary of Transportation under subtitle IV or V of this title, for which no penalty is expressly provided, shall be fined not more than $500. Each day of a continuing violation is a separate offense.
 
 (Pub. L. 109–304, §4, Oct. 6, 2006, 120 Stat. 1491.)
 

@@ -6,7 +6,7 @@ Automatic Enrollment of Certain Dependents.—Each dependent of a member of the 
 
 (b)
 
-Automatic Renewal of Enrollments of Covered Beneficiaries.—(1) An enrollment of a covered beneficiary in TRICARE Prime shall be automatically renewed upon the expiration of the enrollment unless the renewal is declined.
+Automatic Renewal of Enrollments of Covered Beneficiaries.—(1) An enrollment of acovered beneficiary in TRICARE Prime shall be automatically renewed upon the expiration of the enrollment unless the renewal is declined.
 
 (2) Not later than 15 days before the expiration date for an enrollment of a covered beneficiary in TRICARE Prime, the Secretary concerned shall—
 
@@ -16,7 +16,7 @@ Automatic Renewal of Enrollments of Covered Beneficiaries.—(1) An enrollment o
 
 (c)
 
-Payment Options for Retirees.—A member or former member of the uniformed serviceseligible for medical care and dental care under section 1074(b) of this title may elect to have any fee payable by the member or former member for an enrollment in TRICARE Prime withheld from the member's retired pay, retainer pay, or equivalent pay, as the case may be, or to be paid from a financial institution through electronic transfers of funds. The fee shall be paid in accordance with the election. A member may elect under this section to pay the fee in full at the beginning of the enrollment period or to make payments on a monthly or quarterly basis.
+Payment Options for Retirees.—A member or former member of the uniformed services eligible for medical care and dental care under section 1074(b) of this title may elect to have any fee payable by the member or former member for an enrollment in TRICARE Prime withheld from the member's retired pay, retainer pay, or equivalent pay, as the case may be, or to be paid from a financial institution through electronic transfers of funds. The fee shall be paid in accordance with the election. A member may elect under this section to pay the fee in full at the beginning of the enrollment period or to make payments on a monthly or quarterly basis.
 
 (d)
 
@@ -38,9 +38,9 @@ Definitions.—In this section:
 
 #### Amendments
 
-2001—Subsec. (e). Pub. L. 107–107 substituted “section 1072(2)” for “section 1072”.
+<b>2001</b>—Subsec. (e). Pub. L. 107–107 substituted “section 1072(2)” for “section 1072”.
 
-2000—Subsecs. (e), (f). Pub. L. 106–398 added subsec. (e) and redesignated former subsec. (e) as (f).
+<b>2000</b>—Subsecs. (e), (f). Pub. L. 106–398 added subsec. (e) and redesignated former subsec. (e) as (f).
 
 #### Effective Date of 2000 Amendment
 

@@ -8,15 +8,15 @@
 
 #### References in Text
 
-The Inspector General Act of 1978, referred to in text, is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended,which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in text, is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 
-A prior section 141 was renumbered section 142 of this title.
+A prior section 141 was renumbered section 138d of this title.
 
 Another prior section 141 of this title was contained in chapter 5 of this title, prior to amendment by Pub. L. 99–433. See note preceding section 151 of this title.
 
 #### Amendments
 
-1993—Pub. L. 103–160 renumbered section 140 of this title as this section.
+<b>1993</b>—Pub. L. 103–160 renumbered section 140 of this title as this section.
 

@@ -28,7 +28,7 @@ The Congress finds and declares the following:
 
 #### Amendments
 
-1990—Pars. (5) to (11). Pub. L. 101–614 added pars. (5) to (7), struck out former pars. (5) and (6), and redesignated former pars. (7) to (10) as (8) to (11), respectively. Prior to amendment, pars. (5) and (6) read as follows:
+<b>1990</b>—Pars. (5) to (11). Pub. L. 101–614 added pars. (5) to (7), struck out former pars. (5) and (6), and redesignated former pars. (7) to (10) as (8) to (11), respectively. Prior to amendment, pars. (5) and (6) read as follows:
 
 “(5) An operational earthquake prediction system can produce significant social, economic, legal, and political consequences.
 

@@ -40,7 +40,7 @@ Except as otherwise provided in this section, the period for assessing any tax i
 
 #### (2) Substantial omission of income
 
-&emsp;If any partnership omits from gross income an amount properly includible therein which is in excess of 25 percent of the amount of gross income stated in its return, subsection (a) shall be applied by substituting “6 years” for “3 years”.
+&emsp;If any partnership omits from gross income an amount properly includible therein and such amount is described in clause (i) or (ii) of section 6501(e)(1)(A), subsection (a) shall be applied by substituting “6 years” for “3 years”.
 
 #### (3) No return
 
@@ -92,13 +92,15 @@ If a petition is filed naming a partner as a debtor in a bankruptcy proceeding u
 
 &emsp;(2) for 60 days thereafter.
 
-(Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 659; amended Pub. L. 99–514, title XVIII, §1875(d)(1), Oct. 22, 1986, 100 Stat. 2896; Pub. L. 100–647, title I, §1018(<i>o</i>)(3), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 105–34, title XII, §§1233(a)–(c), 1235(a), Aug. 5, 1997, 111 Stat. 1023, 1024; Pub. L. 107–147, title IV, §416(d)(1)(B), Mar. 9, 2002, 116 Stat. 55.)
+(Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 659; amended Pub. L. 99–514, title XVIII, §1875(d)(1), Oct. 22, 1986, 100 Stat. 2896; Pub. L. 100–647, title I, §1018(<i>o</i>)(3), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 105–34, title XII, §§1233(a)–(c), 1235(a), Aug. 5, 1997, 111 Stat. 1023, 1024; Pub. L. 107–147, title IV, §416(d)(1)(B), Mar. 9, 2002, 116 Stat. 55; Pub. L. 111–147, title V, §513(a)(2)(B), Mar. 18, 2010, 124 Stat. 112.)
 
 #### Amendments
 
-2002—Subsec. (f)(2). Pub. L. 107–147 inserted “or the Attorney General (or his delegate)” after “Secretary”.
+<b>2010</b>—Subsec. (c)(2). Pub. L. 111–147 substituted “and such amount is described in clause (i) or (ii) of section 6501(e)(1)(A)” for “which is in excess of 25 percent of the amount of gross income stated in its return”.
 
-1997—Subsec. (b)(2), (3). Pub. L. 105–34, §1233(c), added par. (2) and redesignated former par. (2) as (3).
+<b>2002</b>—Subsec. (f)(2). Pub. L. 107–147 inserted “or the Attorney General (or his delegate)” after “Secretary”.
+
+<b>1997</b>—Subsec. (b)(2), (3). Pub. L. 105–34, §1233(c), added par. (2) and redesignated former par. (2) as (3).
 
 Subsec. (d)(1). Pub. L. 105–34, §1233(a), substituted “(and, if a petition is filed under section 6226 with respect to such administrative adjustment, until the decision of the court becomes final), and” for “(and, if an action with respect to such administrative adjustment is brought during such period, until the decision of the court in such action becomes final), and”.
 
@@ -106,9 +108,17 @@ Subsec. (f). Pub. L. 105–34, §1235(a), substituted “Special rules” for �
 
 Subsec. (h). Pub. L. 105–34, §1233(b), added subsec. (h).
 
-1988—Subsec. (f). Pub. L. 100–647 inserted sentence at end relating to extension of period with respect to any partner by agreement entered into by Secretary and such partner.
+<b>1988</b>—Subsec. (f). Pub. L. 100–647 inserted sentence at end relating to extension of period with respect to any partner by agreement entered into by Secretary and such partner.
 
-1986—Subsec. (g). Pub. L. 99–514 added subsec. (g).
+<b>1986</b>—Subsec. (g). Pub. L. 99–514 added subsec. (g).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–147, title V, §513(d), Mar. 18, 2010, 124 Stat. 112, provided that: “The amendments made by this section \[amending this section and section 6501 of this title\] shall apply to—
+
+&emsp;“(1) returns filed after the date of the enactment of this Act \[Mar. 18, 2010\]; and
+
+&emsp;“(2) returns filed on or before such date if the period specified in section 6501 of the Internal Revenue Code of 1986 (determined without regard to such amendments) for assessment of such taxes has not expired as of such date.”
 
 #### Effective Date of 2002 Amendment
 

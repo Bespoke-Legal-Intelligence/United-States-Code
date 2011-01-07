@@ -1,6 +1,6 @@
 ### §3324. Appointments to positions classified above GS–15
 
-(a) An appointment to a position classified above GS–15 pursuant to section 5108 may be made only on approval of the qualifications of the proposed appointee by the Director of the Office of Personnel Management on the basis of qualification standards developed by the agency involved in accordance with criteria specified in regulations prescribed by the Director. This section does not apply to a position—
+(a) An appointment to a position classified above GS–15 pursuant to section 5108 may be made only on approval of the qualifications of the proposed appointee by the Director of the Office of Personnel Management on the basis of qualification standards developed by the agency involved in accordance with criteria specified inregulations prescribed by the Director. This section does not apply to a position—
 
 &emsp;(1) to which appointment is made by the Chief Judge of the United States Tax Court;
 
@@ -74,7 +74,7 @@ Subsec. (a). Pub. L. 101–509, §529 \[title I, §101(b)(9)(C)(i)\], substitute
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–372 effective on the first day of the first pay period beginning on or after the180th day following Oct. 8, 2008, see section 2(d) of Pub. L. 110–372, set out as a note under section 5376 of this title.
+Amendment by Pub. L. 110–372 effective on the first day of the first pay period beginning on or after the 180th day following Oct. 8, 2008, see section 2(d) of Pub. L. 110–372, set out as a note under section 5376 of this title.
 
 #### Effective Date of 1992 Amendment
 

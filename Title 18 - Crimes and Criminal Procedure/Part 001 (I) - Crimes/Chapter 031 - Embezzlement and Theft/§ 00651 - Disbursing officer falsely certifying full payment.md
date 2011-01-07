@@ -16,11 +16,11 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1996—Pub. L. 104–294 substituted “$1,000” for “$100”.
+<b>1996</b>—Pub. L. 104–294 substituted “$1,000” for “$100”.
 
-1994—Pub. L. 103–322, §330016(2)(G), substituted “shall be fined under this title or in double the amount so withheld, whichever is greater, or imprisoned” for “shall be fined in double the amount so withheld or imprisoned”.
+<b>1994</b>—Pub. L. 103–322, §330016(2)(G), substituted “shall be fined under this title or in double the amount so withheld, whichever is greater, or imprisoned” for “shall be fined in double the amount so withheld or imprisoned”.
 
 Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” after “he shall be”.
 

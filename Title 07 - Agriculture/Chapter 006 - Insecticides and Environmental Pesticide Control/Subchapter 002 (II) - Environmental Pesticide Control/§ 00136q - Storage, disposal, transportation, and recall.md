@@ -48,7 +48,7 @@
 
 #### (3) Mandatory recall
 
-&emsp;If, after determining under paragraph (1) that a recall is necessary, the Administrator does not request the submission of a plan under paragraph (2) or finds such a plan to be inadequate, the Administrator shall issue a regulation that prescribes a plan for the recall of the pesticide. A regulation issued under this paragraph may apply to any person who is or was a registrant, distributor, or seller of the pesticide, or any successor in interest to such a person.
+&emsp;If, after determining under paragraph (1) that a recall is necessary, the Administrator does not request the submission of a plan under paragraph (2) or finds such a plan to be inadequate, the Administrator shall issue aregulation that prescribes a plan for the recall of the pesticide. A regulation issued under this paragraph may apply to any person who is or was a registrant, distributor, or seller of the pesticide, or any successor in interest to such a person.
 
 #### (4) Recall procedure
 

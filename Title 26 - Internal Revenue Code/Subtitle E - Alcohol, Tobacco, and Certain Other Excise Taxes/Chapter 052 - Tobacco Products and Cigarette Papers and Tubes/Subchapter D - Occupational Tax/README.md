@@ -17,7 +17,7 @@ Another prior subchapter D, which consisted of sections 5731 and 5732 of this ti
 
 #### Amendments
 
-2005—Pub. L. 109–59, title XI, §11125(b)(20)(D), Aug. 10, 2005, 119 Stat. 1957, added items 5732 to 5734.
+<b>2005</b>—Pub. L. 109–59, title XI, §11125(b)(20)(D), Aug. 10, 2005, 119 Stat. 1957, added items 5732 to 5734.
 
 
 ---

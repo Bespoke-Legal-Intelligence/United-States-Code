@@ -10,7 +10,7 @@ Commercial purposes.—The term “commercial purposes” means the transportati
 
 &emsp;(2)
 
-Governmental function.—The term “governmental function” means an activity undertaken by a government, such as national defense, intelligence missions, firefighting, search and rescue, law enforcement (including transport of prisoners, detainees, and illegal aliens), aeronautical research, or biological or geological resource management.
+Governmental function.—The term “governmental function” means an activity undertaken by a government, such as national defense, intelligence missions, firefighting,search and rescue, law enforcement (including transport of prisoners, detainees, and illegal aliens), aeronautical research, or biological or geological resource management.
 
 &emsp;(3)
 
@@ -50,7 +50,7 @@ Limitation.—An aircraft that meets the criteria set forth in paragraph (1) and
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–181, §1078(c)(1), substituted “section 40102(a)(41)” for “section 40102(a)(37)”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–181, §1078(c)(1), substituted “section 40102(a)(41)” for “section 40102(a)(37)”.
 
 Subsec. (c)(1). Pub. L. 110–181, §1078(c)(2), substituted “section 40102(a)(41)(E)” for “section 40102(a)(37)(E)” in introductory provisions.
 

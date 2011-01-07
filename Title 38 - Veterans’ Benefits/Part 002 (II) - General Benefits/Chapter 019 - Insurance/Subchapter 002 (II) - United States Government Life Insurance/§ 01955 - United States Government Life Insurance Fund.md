@@ -2,7 +2,7 @@
 
 (a) All premiums paid on account of United States Government life insurance shall be deposited and covered into the Treasury to the credit of the United States Government Life Insurance Fund and shall be available for the payment of losses, dividends, refunds, and other benefits provided for under such insurance, including such liabilities as shall have been or shall hereafter be reduced to judgment in a district court of the United States or the United States District Court for the District of Columbia, and for the reimbursement of administrative costs under subsection (c). Payments from this fund shall be made upon and in accordance with awards by the Secretary.
 
-(b) The Secretary is authorized to set aside out of the funds so collected such reserve funds as may be required, under accepted actuarialprinciples, to meet all liabilities under such insurance; and the Secretary of the Treasury is authorized to invest and reinvest the said United States Government Life Insurance Fund, or any part thereof, in interest-bearing obligations of the United States or bonds of the Federal farm-loan banks and to sell said obligations of the United States or the bonds of the Federal farm-loan banks for the purposes of such Fund.
+(b) The Secretary is authorized to set aside out of the funds so collected such reserve funds as may be required, under accepted actuarial principles, to meet all liabilities under such insurance; and the Secretary of the Treasury is authorized to invest and reinvest the said United States Government Life Insurance Fund, or any part thereof, in interest-bearing obligations of the United States or bonds of the Federal farm-loan banks and to sell said obligations of the United States or the bonds of the Federal farm-loan banks for the purposes of such Fund.
 
 (c)(1) For each fiscal year for which this subsection is in effect, the Secretary shall, from the United States Government Life Insurance Fund, reimburse the “General operating expenses” account of the Department for the amount of administrative costs determined under paragraph (2) for that fiscal year. Such reimbursement shall be made from any surplus earnings for that fiscal year that are available for dividends on such insurance after claims have been paid and actuarially determined reserves have been set aside. However, if the amount of such administrative costs exceeds the amount of such surplus earnings, such reimbursement shall be made only to the extent of such surplus earnings.
 
@@ -18,9 +18,9 @@ Amendment by Pub. L. 104–99 is based on section 107(3) of H.R. 2099, One Hundr
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–99 inserted “, and for the reimbursement of administrative costs under subsection (c)” after “District of Columbia”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–99 inserted “, and for the reimbursement of administrative costs under subsection (c)” after “District of Columbia”.
 
 Subsec. (c). Pub. L. 104–99 added subsec. (c).
 
-1991—Pub. L. 102–83 renumbered section 755 of this title as this section and substituted “Secretary” for “Administrator” in subsecs. (a) and (b).
+<b>1991</b>—Pub. L. 102–83 renumbered section 755 of this title as this section and substituted “Secretary” for “Administrator” in subsecs. (a) and (b).
 

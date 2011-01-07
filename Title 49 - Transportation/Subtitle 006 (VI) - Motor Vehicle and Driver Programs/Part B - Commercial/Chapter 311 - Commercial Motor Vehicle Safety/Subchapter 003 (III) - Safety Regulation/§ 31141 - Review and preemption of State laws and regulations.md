@@ -6,7 +6,7 @@ Preemption After Decision.—A State may not enforce a State law or regulation o
 
 (b)
 
-Submission of Regulation.—A State receiving funds made available under section 31104that enacts a State law or issues a regulation on commercial motor vehicle safety shall submit a copy of the law or regulation to the Secretary immediately after the enactment or issuance.
+Submission of Regulation.—A State receiving funds made available under section 31104 that enacts a State law or issues a regulation on commercial motor vehicle safety shall submit a copy of the law or regulation to the Secretary immediately after the enactment or issuance.
 
 (c)
 
@@ -136,7 +136,7 @@ In subsection (h), the text of 49 App.:2507(h) and the words “After the last d
 
 #### Amendments
 
-1998—Subsecs. (b), (c). Pub. L. 105–178, §4008(e)(1), added subsecs. (b) and (c) and struck out headings and text of former subsecs. (b) and (c) which related to analysis and decisions by Commercial Motor Vehicle Safety Regulatory Review Panel and to review and decisions by Secretary, respectively.
+<b>1998</b>—Subsecs. (b), (c). Pub. L. 105–178, §4008(e)(1), added subsecs. (b) and (c) and struck out headings and text of former subsecs. (b) and (c) which related to analysis and decisions by Commercial Motor Vehicle Safety Regulatory Review Panel and to review and decisions by Secretary, respectively.
 
 Subsecs. (e) to (h). Pub. L. 105–178, §4008(e)(2), (3), redesignated subsecs. (f) to (h) as (e) to (g), respectively, and struck out heading and text of former subsec. (e). Text read as follows: “The Secretary may consolidate regulatory proceedings under this section if the Secretary decides that the consolidation will not adversely affect a party to a proceeding.”
 

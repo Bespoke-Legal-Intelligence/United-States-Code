@@ -16,21 +16,23 @@ The Secretary, acting through the Centers for Medicare \& Medicaid Services, sha
 
 #### (c) Definition of Indian; Indian Tribe; Indian Health Program; Tribal Organization; Urban Indian Organization
 
-In this section, the terms “Indian”, “Indian Tribe”, “Indian Health Program”, “Tribal Organization”, and “Urban Indian Organization” have the meanings given those terms in section 1603 of title 25.
+For purposes of this section, subchapter XIX, and subchapter XXI, the terms “Indian”, “Indian Tribe”, “Indian Health Program”, “Tribal Organization”, and “Urban Indian Organization” have the meanings given those terms in section 1603 of title 25.
 
-(Aug. 14, 1935, ch. 531, title XI, §1139, as added Pub. L. 100–203, title IX, §9136, Dec. 22, 1987, 101 Stat. 1330–316; amended Pub. L. 100–647, title VIII, §8201, Nov. 10, 1988, 102 Stat. 3798; Pub. L. 101–45, title IV, §409, June 30, 1989, 103 Stat. 130; Pub. L. 101–239, title VI, §6221, Dec. 19, 1989, 103 Stat. 2255; Pub. L. 101–508, title IV, §4207(k)(6), formerly §4027(k)(6), title V, §5057, Nov. 5, 1990, 104 Stat. 1388–125, 1388–230; Pub. L. 103–432, title I, §160(d)(4), title II, §264(d), Oct. 31, 1994, 108 Stat. 4444, 4468; Pub. L. 111–3, title II, §202(a), Feb. 4, 2009, 123 Stat. 39.)
+(Aug. 14, 1935, ch. 531, title XI, §1139, as added Pub. L. 100–203, title IX, §9136, Dec. 22, 1987, 101 Stat. 1330–316; amended Pub. L. 100–647, title VIII, §8201, Nov. 10, 1988, 102 Stat. 3798; Pub. L. 101–45, title IV, §409, June 30, 1989, 103 Stat. 130; Pub. L. 101–239, title VI, §6221, Dec. 19, 1989, 103 Stat. 2255; Pub. L. 101–508, title IV, §4207(k)(6), formerly §4027(k)(6), title V, §5057, Nov. 5, 1990, 104 Stat. 1388–125, 1388–230; Pub. L. 103–432, title I, §160(d)(4), title II, §264(d), Oct. 31, 1994, 108 Stat. 4444, 4468; Pub. L. 111–3, title II, §202(a), Feb. 4, 2009, 123 Stat. 39; Pub. L. 111–148, title II, §2901(d), Mar. 23, 2010, 124 Stat. 333.)
 
 #### Amendments
 
-2009—Pub. L. 111–3 amended section generally. Prior to amendment, section related to the National Commission on Children.
+<b>2010</b>—Subsec. (c). Pub. L. 111–148 substituted “For purposes of this section, subchapter XIX, and subchapter XXI” for “In this section”.
 
-1994—Subsec. (d). Pub. L. 103–432, §264(d), repealed Pub. L. 101–508, §5057. See 1990 Amendment note below.
+<b>2009</b>—Pub. L. 111–3 amended section generally. Prior to amendment, section related to the National Commission on Children.
 
-1990—Subsec. (d). Pub. L. 101–508, §5057, which directed amendment of subsec. (d) by substituting “an interim report no later than September 30, 1990, and a final report no later than March 31, 1991” for “an interim report no later than March 31, 1991, and a final report no later than September 30, 1990”, and could not be executed, was repealed by Pub. L. 103–432, §264(d). See Construction of 1990 Amendment note below.
+<b>1994</b>—Subsec. (d). Pub. L. 103–432, §264(d), repealed Pub. L. 101–508, §5057. See 1990 Amendment note below.
+
+<b>1990</b>—Subsec. (d). Pub. L. 101–508, §5057, which directed amendment of subsec. (d) by substituting “an interim report no later than September 30, 1990, and a final report no later than March 31, 1991” for “an interim report no later than March 31, 1991, and a final report no later than September 30, 1990”, and could not be executed, was repealed by Pub. L. 103–432, §264(d). See Construction of 1990 Amendment note below.
 
 Pub. L. 101–508, §4207(k)(6), formerly §4027(k)(6), as renumbered by Pub. L. 103–432, §160(d)(4), substituted “interim report no later than March 31, 1990, and a final report no later than March 31, 1991, setting forth” for “interim report no later than March 31, 1991, and a final report no later than September 30, 1990, setting forth”.
 
-1989—Subsec. (d). Pub. L. 101–239, §6221(1), which directed the substitution of “March 31, 1990” for “September 30, 1988” and “March 31, 1991” for “March 31, 1990 \[1989\]”, could only be executed in part by substituting “March 31, 1991” for “March 30, 1990” in viewof amendment by Pub. L. 100–647. See 1990 Amendment note above.
+<b>1989</b>—Subsec. (d). Pub. L. 101–239, §6221(1), which directed the substitution of “March 31, 1990” for “September 30, 1988” and “March 31, 1991” for “March 31, 1990 \[1989\]”, could only be executed in part by substituting “March 31, 1991” for “March 30, 1990” in view of amendment by Pub. L. 100–647. See 1990 Amendment note above.
 
 Subsec. (e)(1)(A), (4)(B). Pub. L. 101–239, §6221(2), substituted “March 31, 1991” for “September 30, 1990”.
 
@@ -44,7 +46,7 @@ Subsec. (j). Pub. L. 101–239, §6221(3), substituted “through fiscal year 19
 
 Subsecs. (k), (<i>l</i>). Pub. L. 101–239, §6221(4), added subsecs. (k) and (<i>l</i>).
 
-1988—Subsec. (d). Pub. L. 100–647, §8201(1), (2), substituted “March 31, 1990” for “September 30, 1988” and “September 30, 1990” for “March 31, 1989” in introductory provisions.
+<b>1988</b>—Subsec. (d). Pub. L. 100–647, §8201(1), (2), substituted “March 31, 1990” for “September 30, 1988” and “September 30, 1990” for “March 31, 1989” in introductory provisions.
 
 Subsec. (e)(1)(A), (4)(B). Pub. L. 100–647, §8201(3), (4), substituted “September 30, 1990” for “March 31, 1989”.
 

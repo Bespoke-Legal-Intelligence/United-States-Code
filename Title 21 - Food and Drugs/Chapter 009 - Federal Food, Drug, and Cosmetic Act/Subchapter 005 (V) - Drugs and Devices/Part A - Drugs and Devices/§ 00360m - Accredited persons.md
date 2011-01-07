@@ -34,7 +34,7 @@
 
 #### (B) Adjustment
 
-&emsp;&emsp;In determining for a year the ratio described in subparagraph (A)(iii), the Secretary shall not include in the numerator class III devices that the Secretary reclassified into class II, and the Secretary shall include in the denominator class II devices for which reports under section 360(k) of this title were not required to be submitted byreason of the operation of section 360(m) of this title.
+&emsp;&emsp;In determining for a year the ratio described in subparagraph (A)(iii), the Secretary shall not include in the numerator class III devices that the Secretary reclassified into class II, and the Secretary shall include in the denominator class II devices for which reports under section 360(k) of this title were not required to be submitted by reason of the operation of section 360(m) of this title.
 
 #### (b) Accreditation
 
@@ -112,7 +112,7 @@ Not later than January 10, 2007, the Secretary shall conduct a study based on th
 
 &emsp;(4) the average time period for a review under this section (including the time it takes for the Secretary to review a recommendation of an accredited person under subsection (a) of this section and determine the initial device classification);
 
-&emsp;(5) the average time period identified in paragraph (4) compared to the average timeperiod for review of devices solely by the Secretary pursuant to section 360(k) of this title;
+&emsp;(5) the average time period identified in paragraph (4) compared to the average time period for review of devices solely by the Secretary pursuant to section 360(k) of this title;
 
 &emsp;(6) if there is a difference in the average time period under paragraph (4) and the average time period under paragraph (5), the reasons for such difference;
 
@@ -130,11 +130,11 @@ Not later than January 10, 2007, the Secretary shall conduct a study based on th
 
 #### Amendments
 
-2009—Subsec. (b)(2)(D). Pub. L. 111–31 made technical amendment to reference in original act which appears in text as reference to section 393(g) of this title.
+<b>2009</b>—Subsec. (b)(2)(D). Pub. L. 111–31 made technical amendment to reference in original act which appears in text as reference to section 393(g) of this title.
 
-2007—Subsec. (c). Pub. L. 110–85 substituted “2012” for “2007”.
+<b>2007</b>—Subsec. (c). Pub. L. 110–85 substituted “2012” for “2007”.
 
-2002—Subsec. (c). Pub. L. 107–250, §202(1), substituted “The authority provided by this section terminates October 1, 2007.” for “The authority provided by this section terminates—
+<b>2002</b>—Subsec. (c). Pub. L. 107–250, §202(1), substituted “The authority provided by this section terminates October 1, 2007.” for “The authority provided by this section terminates—
 
 &emsp;“(1) 5 years after the date on which the Secretary notifies Congress that at least 2 persons accredited under subsection (b) of this section are available to review at least 60 percent of the submissions under section 360(k) of this title, or
 

@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized and directed to issue to the State o
 
 (Mar. 3, 1925, ch. 465, 43 Stat. 1185.)
 
-#### References in Text
-
-The United States general mining laws, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
-

@@ -28,7 +28,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-20105D36:974(2)–(9).DAug. 31, 1960, Pub. L. 86–680, §§4(2)–(9), 17, 74 Stat. 574, 577.
+20105
+
+36:974(2)–(9).
+
+Aug. 31, 1960, Pub. L. 86–680, §§4(2)–(9), 17, 74 Stat. 574, 577.
 
 &nbsp;
 

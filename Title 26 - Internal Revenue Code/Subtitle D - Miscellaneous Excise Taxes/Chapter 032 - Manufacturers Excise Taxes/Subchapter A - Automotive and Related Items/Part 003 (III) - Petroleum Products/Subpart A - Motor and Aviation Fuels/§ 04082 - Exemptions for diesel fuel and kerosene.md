@@ -84,7 +84,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 &emsp;&emsp;<b>For tax on train and certain bus uses of fuel purchased tax-free, see subsections (a)(1) and (d)(3) of section 4041.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 483; Pub. L. 86–342, title II, §201(e)(1), (2), Sept. 21, 1959, 73 Stat. 615; Pub. L. 89–44, title VIII, §802(a)(1), (b)(1), June 21, 1965, 79 Stat. 159; Pub. L. 91–258, title II, §205(c)(6), May 21, 1970, 84 Stat. 242; Pub. L. 98–369, div. A, title VII, §§733(a), 734(c)(1), July 18, 1984, 98 Stat. 977, 979; Pub. L. 99–514, title XVII, §1703(a), Oct. 22, 1986, 100 Stat. 2775; Pub. L. 103–66, title XIII, §13242(a), Aug. 10, 1993, 107 Stat. 517; Pub. L. 104–188, title I, §1801(a), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 105–34, title X, §1032(c)(1), (2), (e)(3)(A), Aug. 5, 1997, 111 Stat. 933, 935; Pub. L. 105–206, title VI, §6010(h)(3), (4), July 22, 1998, 112 Stat. 815; Pub. L. 108–357, title II, §241(a)(2)(B), title VIII, §§851(d)(2), 853(a)(5), 854(a), 857(a), Oct. 22, 2004, 118 Stat. 1438, 1608, 1611, 1615, 1617; Pub. L. 109–58, title XIII, §1362(b)(1), Aug. 8, 2005, 119 Stat. 1059; Pub. L. 109–59, title XI, §11161(a)(4)(A), (E), (b)(3)(C), Aug. 10, 2005, 119 Stat. 1970, 1971; Pub. L. 109–432, div. A, title IV, §420(b)(2), Dec. 20, 2006, 120 Stat. 2969; Pub. L. 110–172, §§6(d)(2)(B), (C), 11(a)(28), Dec. 29, 2007, 121 Stat. 2480, 2481, 2487.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 483; Pub. L. 86–342, title II, §201(e)(1), (2), Sept. 21, 1959, 73 Stat. 615; Pub. L. 89–44, title VIII, §802(a)(1), (b)(1), June 21, 1965, 79 Stat. 159; Pub. L. 91–258, title II, §205(c)(6), May 21, 1970, 84 Stat. 242; Pub. L. 98–369, div. A, title VII, §§733(a), 734(c)(1), July 18, 1984, 98 Stat. 977, 979; Pub. L. 99–514, title XVII, §1703(a), Oct. 22, 1986, 100 Stat. 2775; Pub. L. 103–66, title XIII, §13242(a), Aug. 10, 1993, 107 Stat. 517; Pub. L. 104–188, title I, §1801(a), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 105–34, title X, §1032(c)(1), (2), (e)(3)(A), Aug. 5, 1997, 111 Stat. 933, 935; Pub. L. 105–206, title VI, §6010(h)(3), (4), July 22, 1998, 112 Stat. 815; Pub. L. 108–357, title II, §241(a)(2)(B), title VIII, §§851(d)(2), 853(a)(5),854(a), 857(a), Oct. 22, 2004, 118 Stat. 1438, 1608, 1611, 1615, 1617; Pub. L. 109–58, title XIII, §1362(b)(1), Aug. 8, 2005, 119 Stat. 1059; Pub. L. 109–59, title XI, §11161(a)(4)(A), (E), (b)(3)(C), Aug. 10, 2005, 119 Stat. 1970, 1971; Pub. L. 109–432, div. A, title IV, §420(b)(2), Dec. 20, 2006, 120 Stat. 2969; Pub. L. 110–172, §§6(d)(2)(B), (C), 11(a)(28), Dec. 29, 2007, 121 Stat. 2480, 2481, 2487.)
 
 #### References in Text
 
@@ -94,7 +94,7 @@ The date of the enactment of this subsection, referred to in subsec. (c)(1), is 
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–172, §6(d)(2)(B)(i), struck out “(other than such tax at the Leaking Underground Storage Tank Trust Fund financing rate imposed in all cases other than for export)” after “section 4081” in introductory provisions.
+<b>2007</b>—Subsec. (a). Pub. L. 110–172, §6(d)(2)(B)(i), struck out “(other than such tax at the Leaking Underground Storage Tank Trust Fund financing rate imposed in all cases other than for export)” after “section 4081” in introductory provisions.
 
 Subsec. (b). Pub. L. 110–172, §11(a)(28), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘nontaxable use’ means—
 
@@ -112,9 +112,9 @@ Pub. L. 110–172, §6(d)(2)(C)(i), substituted “an aircraft—” and pars. (
 
 Subsecs. (f) to (h). Pub. L. 110–172, §6(d)(2)(B)(ii), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
-2006—Subsec. (d)(2)(B). Pub. L. 109–432 substituted “6427(<i>l</i>)(5)(B)” for “6427(<i>l</i>)(6)(B)”.
+<b>2006</b>—Subsec. (d)(2)(B). Pub. L. 109–432 substituted “6427(<i>l</i>)(5)(B)” for “6427(<i>l</i>)(6)(B)”.
 
-2005—Subsec. (a). Pub. L. 109–58 inserted “(other than such tax at the Leaking Underground Storage Tank Trust Fund financing rate imposed in all cases other than for export)” after “section 4081” in introductory provisions.
+<b>2005</b>—Subsec. (a). Pub. L. 109–58 inserted “(other than such tax at the Leaking Underground Storage Tank Trust Fund financing rate imposed in all cases other than for export)” after “section 4081” in introductory provisions.
 
 Subsec. (b). Pub. L. 109–59, §11161(a)(4)(A), struck out “aviation-grade” before “kerosene” in concluding provisions.
 
@@ -122,7 +122,7 @@ Subsec. (d)(2)(B). Pub. L. 109–59, §11161(b)(3)(C), substituted “section 64
 
 Subsec. (e). Pub. L. 109–59, §11161(a)(4)(E), in heading substituted “Kerosene removed into an aircraft” for “Aviation-grade kerosene” and in text struck out “aviation-grade” before “kerosene”, substituted “section 4081(a)(2)(A)(iii)” for “section 4081(a)(2)(A)(iv)”, and inserted at end “For purposes of this subsection, any removal described in section 4081(a)(3)(A) shall be treated as a removal from a terminal but only if such terminal is located within a secure area of an airport.”
 
-2004—Subsec. (a)(2). Pub. L. 108–357, §854(a), inserted “by mechanical injection” after “indelibly dyed”.
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–357, §854(a), inserted “by mechanical injection” after “indelibly dyed”.
 
 Subsec. (b). Pub. L. 108–357, §853(a)(5)(B)(i), inserted at end “The term ‘nontaxable use’ does not include the use of aviation-grade kerosene in an aircraft.”
 
@@ -140,11 +140,11 @@ Subsec. (g). Pub. L. 108–357, §853(a)(5)(A), redesignated subsec. (f) as (g).
 
 Pub. L. 108–357, §241(a)(2)(B), which directed substitution of “subsections (a)(1) and (d)(3) of section 4041” for “section 4041(a)(1)” in subsec. (f), was executed by making the substitution in subsec. (g) to reflect the probable intent of Congress and the amendment by Pub. L. 108–357, §853(a)(5)(A). See Amendment note above and Effective Date of 2004 Amendment notes below.
 
-1998—Subsec. (d)(1). Pub. L. 105–206, §6010(h)(3), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “Subsection (a)(2) shall not apply to a removal, entry, or sale of aviation-grade kerosene (as determined under regulations prescribed by the Secretary) if the person receiving the kerosene is registered under section 4101 with respect to the tax imposed by section 4091.”
+<b>1998</b>—Subsec. (d)(1). Pub. L. 105–206, §6010(h)(3), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “Subsection (a)(2) shall not apply to a removal, entry, or sale of aviation-grade kerosene (as determined under regulations prescribed by the Secretary) if the person receiving the kerosene is registered under section 4101 with respect to the tax imposed by section 4091.”
 
 Subsec. (d)(3). Pub. L. 105–206, §6010(h)(4), substituted “kerosene received by” for “a removal, entry, or sale of kerosene to” in introductory provisions.
 
-1997—Pub. L. 105–34, §1032(e)(3)(A), inserted “and kerosene” after “diesel fuel” in section catchline.
+<b>1997</b>—Pub. L. 105–34, §1032(e)(3)(A), inserted “and kerosene” after “diesel fuel” in section catchline.
 
 Subsecs. (a), (c). Pub. L. 105–34, §1032(c)(1), substituted “diesel fuel and kerosene” for “diesel fuel” in introductory provisions.
 
@@ -154,9 +154,9 @@ Pub. L. 105–34, §1032(c)(1), substituted “diesel fuel and kerosene” for �
 
 Subsecs. (e), (f). Pub. L. 105–34, §1032(c)(2), redesignated subsecs. (d) and (e) as (e) and (f), respectively.
 
-1996—Subsecs. (c) to (e). Pub. L. 104–188 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+<b>1996</b>—Subsecs. (c) to (e). Pub. L. 104–188 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-1993—Pub. L. 103–66 amended heading and text generally. Prior to amendment, text read as follows:
+<b>1993</b>—Pub. L. 103–66 amended heading and text generally. Prior to amendment, text read as follows:
 
 “(a)
 
@@ -172,23 +172,23 @@ Gasoline.—For purposes of this subpart, the term ‘gasoline’ includes, to t
 
 Certain Uses Defined as Removal.—If a refiner, importer, terminal operator, blender, or compounder uses (other than in the production of gasoline or special fuels referred to in section 4041) gasoline refined, imported, blended, or compounded by him, such use shall for the purposes of this chapter be considered a removal.”
 
-1986—Subsec. (a). Pub. L. 99–514 amended subsec. (a) generally, substituting definitions of “gasoline” and “gasoline blended stocks” for definition of “producer”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514 amended subsec. (a) generally, substituting definitions of “gasoline” and “gasoline blended stocks” for definition of “producer”.
 
 Subsec. (b). Pub. L. 99–514 amended subsec. (b) generally, substituting provisions that certain use of gasoline be considered removal for provisions defining “gasoline”.
 
 Subsecs. (c) to (e). Pub. L. 99–514, in amending section generally, struck out subsecs. (c) to (e) which defined “sales”, “wholesale distributor”, and “producer”, respectively.
 
-1984—Subsec. (d). Pub. L. 98–369, §733(a), in amending subsec. (d) generally, redesignated existing provisions of par. (1) as subpar. (A) and added subpar. (B), and in par. (2) inserted “but only if such person” before “elects”.
+<b>1984</b>—Subsec. (d). Pub. L. 98–369, §733(a), in amending subsec. (d) generally, redesignated existing provisionsof par. (1) as subpar. (A) and added subpar. (B), and in par. (2) inserted “but only if such person” before “elects”.
 
 Subsec. (e). Pub. L. 98–369, §734(c)(1), added subpar. (e).
 
-1970—Subsec. (c). Pub. L. 91–258 substituted “special fuels referred to in section 4041” for “special motor fuels referred to in section 4041(b)”.
+<b>1970</b>—Subsec. (c). Pub. L. 91–258 substituted “special fuels referred to in section 4041” for “special motor fuels referred to in section 4041(b)”.
 
-1965—Subsec. (b). Pub. L. 89–44, §802(a)(1), substituted “gasoline which are suitable for use as a motor fuel” for “gasoline (including casinghead and natural gasoline”.
+<b>1965</b>—Subsec. (b). Pub. L. 89–44, §802(a)(1), substituted “gasoline which are suitable for use as a motor fuel” for “gasoline (including casinghead and natural gasoline”.
 
 Subsec. (d)(2). Pub. L. 89–44, §802(b)(1), struck out “and give a bond” after “elects to register”.
 
-1959—Subsec. (a). Pub. L. 86–342, §201(e)(1), inserted reference to wholesale distributor.
+<b>1959</b>—Subsec. (a). Pub. L. 86–342, §201(e)(1), inserted reference to wholesale distributor.
 
 Subsec. (d). Pub. L. 86–342, §201(e)(2), added subsec. (d).
 

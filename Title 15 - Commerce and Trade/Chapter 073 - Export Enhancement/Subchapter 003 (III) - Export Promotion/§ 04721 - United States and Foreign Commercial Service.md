@@ -142,7 +142,7 @@ Section is comprised of section 2301 of Pub. L. 100–418. Subsec. (i) of sectio
 
 #### Amendments
 
-1992—Subsec. (b)(8), (9). Pub. L. 102–429, §§202, 203(a), added pars. (8) and (9).
+<b>1992</b>—Subsec. (b)(8), (9). Pub. L. 102–429, §§202, 203(a), added pars. (8) and (9).
 
 Subsec. (d)(1). Pub. L. 102–429, §205, substituted “16” for “8”.
 

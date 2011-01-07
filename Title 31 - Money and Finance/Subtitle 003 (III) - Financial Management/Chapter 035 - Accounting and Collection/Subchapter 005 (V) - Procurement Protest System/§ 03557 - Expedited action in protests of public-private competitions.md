@@ -10,5 +10,5 @@ Another section 3557, added Pub. L. 110–161, div. D, title VII, §739(c)(1)(B)
 
 #### Amendments
 
-2008—Pub. L. 110–417 substituted “public-private” for “Public-Private” in section catchline.
+<b>2008</b>—Pub. L. 110–417 substituted “public-private” for “Public-Private” in section catchline.
 

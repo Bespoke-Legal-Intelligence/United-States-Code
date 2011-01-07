@@ -10,7 +10,7 @@ The Secretary is authorized to make—
 
 #### Amendments
 
-1992—Pub. L. 102–550 struck out “(a)
+<b>1992</b>—Pub. L. 102–550 struck out “(a)
 
 In General” before “The Secretary is authorized” and subsec. (b) which read as follows: “
 

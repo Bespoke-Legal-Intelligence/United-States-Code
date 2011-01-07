@@ -68,7 +68,7 @@ Any data collection system developed and implemented under this section shall—
 
 &emsp;(1) avoid unnecessary diversion of resources from agencies responsible for adoption and foster care;
 
-&emsp;(2) assure that any data that is collected is reliable and consistent over time and among jurisdictions through the use of uniform definitions and methodologies;
+&emsp;(2) assure that any data that is collected is reliable and consistent over time and amongjurisdictions through the use of uniform definitions and methodologies;
 
 &emsp;(3) provide comprehensive national information with respect to—
 
@@ -92,7 +92,7 @@ Any data collection system developed and implemented under this section shall—
 
 #### Amendments
 
-1994—Subsec. (c)(3)(C)(iii). Pub. L. 103–432 added cl. (iii).
+<b>1994</b>—Subsec. (c)(3)(C)(iii). Pub. L. 103–432 added cl. (iii).
 
 #### Effective Date of 1994 Amendment
 

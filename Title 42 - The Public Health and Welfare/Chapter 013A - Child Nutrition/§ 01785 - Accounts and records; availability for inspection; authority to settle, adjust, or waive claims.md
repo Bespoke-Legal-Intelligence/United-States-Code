@@ -1,6 +1,6 @@
 ### §1785. Accounts and records; availability for inspection; authority to settle, adjust, or waive claims
 
-(a) States, State educational agencies, schools, and nonprofit institutions participating in programs under this chapter shall keep such accounts and records as may be necessary to enable the Secretary to determine whether there has been compliance with this chapter and the regulations hereunder. Such accounts and records shall be available at any reasonable time for inspection and audit by representatives of the Secretary and shall be preserved for such period of time, not in excess of three years, as the Secretary determines is necessary.
+(a) States, State educational agencies, schools, and nonprofit institutions participatingin programs under this chapter shall keep such accounts and records as may be necessary to enable the Secretary to determine whether there has been compliance with this chapter and the regulations hereunder. Such accounts and records shall be available at any reasonable time for inspection and audit by representatives of the Secretary and shall be preserved for such period of time, not in excess of three years, as the Secretary determines is necessary.
 
 (b) With regard to any claim arising under this chapter or under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\], the Secretary shall have the authority to determine the amount of, to settle and to adjust any such claim, and to compromise or deny such claim or any part thereof. The Secretary shall also have the authority to waive such claims if the Secretary determines that to do so would serve the purposes of either this chapter or the Richard B. Russell National School Lunch Act. Nothing contained in this subsection shall be construed to diminish the authority of the Attorney General of the United States under section 516 of title 28 to conduct litigation on behalf of the United States.
 
@@ -12,11 +12,11 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (b), is
 
 #### Amendments
 
-1999—Subsec. (b). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act” in two places.
+<b>1999</b>—Subsec. (b). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act” in two places.
 
-1996—Subsec. (a). Pub. L. 104–193 substituted “be available at any reasonable time” for “at all times be available”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–193 substituted “be available at any reasonable time” for “at all times be available”.
 
-1981—Pub. L. 97–35 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1981</b>—Pub. L. 97–35 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1981 Amendment
 

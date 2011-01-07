@@ -20,7 +20,7 @@
 
 #### (4) Commission determination
 
-&emsp;Notwithstanding any provision of the Tariff Act of 1930 \[19 U.S.C. 1202 et seq.\] or title II ofthe Trade Act of 1974 \[19 U.S.C. 2251 et seq.\], if a majority of the Commissioners issues an affirmative report under paragraph (1), the Commission, upon the written request of the Trade Representative, shall issue a determination in connection with the particular proceeding that would render the Commission's action described in paragraph (1) not inconsistent with the findings of the panel or Appellate Body. The Commission shall issue its determination not later than 120 days after the request from the Trade Representative is made.
+&emsp;Notwithstanding any provision of the Tariff Act of 1930 \[19 U.S.C. 1202 et seq.\] or title II of the Trade Act of 1974 \[19 U.S.C. 2251 et seq.\], if a majority of the Commissioners issues an affirmative report under paragraph (1), the Commission, upon the written request of the Trade Representative, shall issue a determination in connection with the particular proceeding that would render the Commission's action described in paragraph (1) not inconsistent with the findings of the panel or Appellate Body. The Commission shall issue its determination not later than 120 days after the request from the Trade Representative is made.
 
 #### (5) Consultations on implementation of Commission determination
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(A) in the case of a determination by the Commission under subsection (a)(4) of this section, the date on which the Trade Representative directs the administering authority under subsection (a)(6) of this section to revoke an order pursuant to that determination, and
 
-&emsp;&emsp;(B) in the case of a determination by the administering authority under subsection (b)(2) of this section, the date on which the Trade Representative directs the administering authority under subsection (b)(4) of this section to implement that determination.
+&emsp;&emsp;(B) in the case of a determination by the administering authority under subsection (b)(2) of this section, the date on which the Trade Representative directs the administering authority under subsection (b)(4) ofthis section to implement that determination.
 
 #### (2) Notice of implementation
 
@@ -78,5 +78,5 @@ The Trade Act of 1974, referred to in subsecs. (a)(1), (4) and (c)(2)(B), is Pub
 
 #### Codification
 
-Section is comprised of section 129 of Pub. L. 103–465. Subsecs. (a)(7) and (e) of section 129 of Pub. L. 103–465amended sections 2254 and 1516a, respectively, of this title.
+Section is comprised of section 129 of Pub. L. 103–465. Subsecs. (a)(7) and (e) of section 129 of Pub. L. 103–465 amended sections 2254 and 1516a, respectively, of this title.
 

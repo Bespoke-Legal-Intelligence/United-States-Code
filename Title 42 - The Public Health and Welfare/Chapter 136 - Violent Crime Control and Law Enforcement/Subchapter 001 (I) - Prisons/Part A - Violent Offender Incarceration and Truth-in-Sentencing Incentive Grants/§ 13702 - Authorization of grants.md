@@ -38,7 +38,7 @@ A prior section 13702, Pub. L. 103–322, title II, §20102, Sept. 13, 1994, 108
 
 #### Amendments
 
-2008—Subsec. (a)(4). Pub. L. 110–199 added par. (4).
+<b>2008</b>—Subsec. (a)(4). Pub. L. 110–199 added par. (4).
 
 #### Construction of 2008 Amendment
 

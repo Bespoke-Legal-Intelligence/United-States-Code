@@ -16,7 +16,7 @@ The Secretary of the Treasury shall deposit into the Fund—
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Secretary may use amounts in the Account,<sup>1</sup> without furtherAct of appropriation, to carry out this chapter.
+&emsp;Subject to paragraph (2), the Secretary may use amounts in the Account,<sup>1</sup> without further Act of appropriation, to carry out this chapter.
 
 #### (2) Administrative expenses
 
@@ -30,7 +30,7 @@ The Secretary may accept and use donations to carry out this chapter. Amounts re
 
 #### Amendments
 
-2006—Pub. L. 109–363, §302(h)(1), substituted “Neotropical Migratory Bird Conservation Fund” for “Neotropical Migratory Bird Conservation Account” in section catchline.
+<b>2006</b>—Pub. L. 109–363, §302(h)(1), substituted “Neotropical Migratory Bird Conservation Fund” for “Neotropical Migratory Bird Conservation Account” in section catchline.
 
 Subsecs. (a), (b). Pub. L. 109–363, §302(h)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to the establishment of and deposits into the Neotropical Migratory Bird Conservation Account.
 

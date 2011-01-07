@@ -10,7 +10,7 @@ The Secretary of Commerce may transfer the Liberty Ship SS Jeremiah O'Brien to t
 
 #### (c) State and local lands
 
-Lands, and interests in lands, within the boundaries of the park which are owned by the State of California or any political subdivision thereof, may be acquired only by donation. Notwithstanding any other provision of law, the Secretary is authorized to enter into an agreement with the State of California or any political subdivision thereof under which the Secretary may improve and may use appropriatedfunds for the improvement of berthing facilities if the State or any political subdivision thereof makes available to the Secretary, in accordance with terms and conditions acceptable to the Secretary, lands and interests in land for the purpose of berthing the ships and providing visitor access to the historic ships.
+Lands, and interests in lands, within the boundaries of the park which are owned by the State of California or any political subdivision thereof, may be acquired only by donation. Notwithstanding any other provision of law, the Secretary is authorized to enter into an agreement with the State of California or any political subdivision thereof under which the Secretary may improve and may use appropriated funds for the improvement of berthing facilities if the State or any political subdivision thereof makes available to the Secretary, in accordance with terms and conditions acceptable to the Secretary, lands and interests in land for the purpose of berthing the ships and providing visitor access to the historic ships.
 
 #### (d) Property to carry out subchapter
 
@@ -26,5 +26,5 @@ Acquisition Limitation.—The Secretary shall not acquire any historic vessel pu
 
 #### Amendments
 
-1994—Subsec. (d)(1). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Subsec. (d)(1). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 

@@ -34,13 +34,13 @@ It appears that the rule was never in doubt until after the enactment of the two
 
 #### Amendments
 
-1980—Pub. L. 96–513 struck out provisions formerly set out as subsec. (a) which authorized each retired member of the naval service, when called to active duty, to be recalled in the grade held by him on the retired list and deleted subsec. (b) designation from remaining provisions.
+<b>1980</b>—Pub. L. 96–513 struck out provisions formerly set out as subsec. (a) which authorized each retired member of the naval service, when called to active duty, to be recalled in the grade held by him on the retired list and deleted subsec. (b) designation from remaining provisions.
 
-1968—Subsec. (b). Pub. L. 90–623 inserted “former” before “section 6150”.
+<b>1968</b>—Subsec. (b). Pub. L. 90–623 inserted “former” before “section 6150”.
 
-1963—Subsec. (c). Pub. L. 88–132 repealed subsec. (c) which provided for recomputation of retired pay of retired members of the naval service, recalled to active duty in the higher grade for officers specially commended and released from such duty, on basis of the then monthly basic pay of the grade held on the retired list after continuous 2-year period of service. See section 1402 of this title.
+<b>1963</b>—Subsec. (c). Pub. L. 88–132 repealed subsec. (c) which provided for recomputation of retired pay of retired members of the naval service, recalled to active duty in the higher grade for officers specially commended and released from such duty, on basis of thethen monthly basic pay of the grade held on the retired list after continuous 2-year period of service. See section 1402 of this title.
 
-1958—Subsec. (c). Pub. L. 85–422 added subsec. (c).
+<b>1958</b>—Subsec. (c). Pub. L. 85–422 added subsec. (c).
 
 #### Effective Date of 1980 Amendment
 

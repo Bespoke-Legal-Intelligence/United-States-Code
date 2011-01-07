@@ -10,7 +10,7 @@ In making such electronic health record technology publicly available, the Natio
 
 #### (c) Authorization to charge a nominal fee
 
-The National Coordinator may impose a nominal fee for the adoption by a health care provider of the health information technology system developed or approved under subsection <sup>1</sup> (a)and (b). Such fee shall take into account the financial circumstances of smaller providers, low income providers, and providers located in rural or other medically underserved areas.
+The National Coordinator may impose a nominal fee for the adoption by a health care provider of the health information technology system developed or approved under subsection <sup>1</sup> (a) and (b). Such fee shall take into account the financial circumstances of smaller providers, low income providers, and providers located in rural or other medically underserved areas.
 
 #### (d) Rule of construction
 

@@ -78,7 +78,7 @@ For purposes of this section—
 
 #### (B) Nondeferral period
 
-&emsp;&emsp;The term “nondeferral period” means the portion of the taxable year of the personal service corporation which occurs after theportion of such year constituting the deferral period.
+&emsp;&emsp;The term “nondeferral period” means the portion of the taxable year of the personal service corporation which occurs after the portion of such year constituting the deferral period.
 
 #### (4) Adjusted taxable income
 
@@ -96,7 +96,7 @@ For purposes of this section—
 
 #### Amendments
 
-1988—Subsecs. (c)(1)(A)(i), (d)(1). Pub. L. 100–647, §2004(e)(14)(C), substituted “amounts paid” for “amounts paid or incurred”.
+<b>1988</b>—Subsecs. (c)(1)(A)(i), (d)(1). Pub. L. 100–647, §2004(e)(14)(C), substituted “amounts paid” for “amounts paid or incurred”.
 
 Subsec. (f)(2). Pub. L. 100–647, §2004(e)(3), substituted “section 269A(b)(2) (as modified by section 441(i)(2))” for “section 296A(b)(2)”.
 

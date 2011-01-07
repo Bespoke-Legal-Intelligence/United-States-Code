@@ -32,7 +32,7 @@ The Director of the National Institute of Mental Health shall—
 
 &emsp;&emsp;(G) improved methods to deliver services for individuals with Alzheimer's disease and related dementias and their families, including services such as outreach services, comprehensive assessment and care management services, outpatient treatment services, home care services, respite care services, adult day care services, partial hospitalization services, nursing home services, and other residential services and care; and
 
-&emsp;(2) ensure that the research is coordinated with, and uses, to the maximum extent feasible, resources of, other Federal programs relating to Alzheimer's disease and dementia, including centers supported under section 285e–2 of this title, centers supported by the National Institute of Mental Health on the psychopathology of the elderly, relevant activities of the Administration on Aging, other programs and centers involved in research on Alzheimer's disease and related dementias supported by the Department, and other programs relating to Alzheimer's disease and related dementias which are planned or conducted by Federal agencies other than the Department, State or local agencies, community organizations, or private foundations.
+&emsp;(2) ensure that the research is coordinated with, and uses, to the maximum extent feasible, resources of, other Federal programs relating to Alzheimer's disease and dementia, including centers supported under section 285e–2 of this title, centers supported by theNational Institute of Mental Health on the psychopathology of the elderly, relevant activities of the Administration on Aging, other programs and centers involved in research on Alzheimer's disease and related dementias supported by the Department, and other programs relating to Alzheimer's disease and related dementias which are planned or conducted by Federal agencies other than the Department, State or local agencies, community organizations, or private foundations.
 
 (Pub. L. 99–660, title IX, §931, formerly §944, Nov. 14, 1986, 100 Stat. 3809; renumbered §931, Pub. L. 100–607, title I, §142(c)(2)(B), Nov. 4, 1988, 102 Stat. 3057; Pub. L. 102–507, §7(a)(1), (2), Oct. 24, 1992, 106 Stat. 3284.)
 
@@ -42,7 +42,7 @@ A prior section 931 of Pub. L. 99–660, which was classified to section 11231 o
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–507, §7(a)(1)(B), inserted “and specialized care” after “services”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–507, §7(a)(1)(B), inserted “and specialized care” after “services”.
 
 Subsec. (b). Pub. L. 102–507, §7(a)(2), designated par. (1) as entire subsec. and redesignated former par. (1)(A) as par. (1), former par. (1)(A)(i) to (vii) as par. (1)(A) to (G), respectively, former par. (1)(A)(iii)(I) to (IV) as par. (1)(C)(i) to (iv), respectively, and former par. (1)(B) as par. (2).
 

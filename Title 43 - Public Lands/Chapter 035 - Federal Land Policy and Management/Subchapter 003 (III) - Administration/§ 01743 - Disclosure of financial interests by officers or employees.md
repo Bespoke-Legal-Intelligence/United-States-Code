@@ -28,13 +28,13 @@ In the rules prescribed in subsection (b) of this section, the Secretary may ide
 
 #### (d) Violations; criminal penalties
 
-Any officer or employee who is subject to, and knowingly violates, this section, shall be fined not more than $2,500 or imprisoned not more than one year, or both.
+Any officer or employee who is subject to, and knowingly violates, this section, shall be finednot more than $2,500 or imprisoned not more than one year, or both.
 
 (Pub. L. 94–579, title III, §313, Oct. 21, 1976, 90 Stat. 2768.)
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(1), (2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known asthe Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (a)(1), (2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 #### Termination of Reporting Requirements
 

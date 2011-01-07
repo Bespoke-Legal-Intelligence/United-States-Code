@@ -12,7 +12,7 @@ As used in chapters 227 and 229—
 
 #### Amendments
 
-1986—Pub. L. 99–646 redesignated pars. (a) to (c) as (1) to (3), respectively, and inserted “the term” after “(1)”, “(2)”, and “(3)”.
+<b>1986</b>—Pub. L. 99–646 redesignated pars. (a) to (c) as (1) to (3), respectively, and inserted “the term” after “(1)”, “(2)”, and “(3)”.
 
 #### Effective Date of 1986 Amendment
 

@@ -26,7 +26,7 @@ Except as provided in subsection (b) of this section and in section 1675 of this
 
 &emsp;(B) where such individual is not supporting such a spouse or dependent child described in clause (A), 60 per centum of such individual's disposable earnings for that week;
 
-> except that, with respect to the disposable earnings of any individual for any workweek, the 50 per centum specified in clause (A) shall be deemed to be 55 per centum and the 60 per centum specified in clause (B) shall be deemed to be 65 per centum, if and to the extent that such earnings are subject to garnishment to enforce a support order with respect to a period which is prior to the twelve-week period which ends with the beginning of such workweek.
+> except that, with respect to the disposable earnings of any individual for any workweek, the 50per centum specified in clause (A) shall be deemed to be 55 per centum and the 60 per centum specified in clause (B) shall be deemed to be 65 per centum, if and to the extent that such earnings are subject to garnishment to enforce a support order with respect to a period which is prior to the twelve-week period which ends with the beginning of such workweek.
 
 #### (c) Execution or enforcement of garnishment order or process prohibited
 
@@ -36,9 +36,9 @@ No court of the United States or any State, and no State (or officer or agency t
 
 #### Amendments
 
-1978—Subsec. (b)(1)(B). Pub. L. 95–598 substituted “court of the United States having jurisdiction over cases under chapter 13 of title 11” for “court of bankruptcy under chapter XIII of the Bankruptcy Act”.
+<b>1978</b>—Subsec. (b)(1)(B). Pub. L. 95–598 substituted “court of the United States having jurisdiction over cases under chapter 13 of title 11” for “court of bankruptcy under chapter XIII of the Bankruptcy Act”.
 
-1977—Subsec. (b). Pub. L. 95–30, §501(e)(1), (2), designated existing provisions as par. (1) and existing pars. (1), (2), and (3) as subpars. (A), (B), and (C) thereof, substituted “for the support of any person issued by a court of competent jurisdiction or in accordance with an administrative procedure, which is established by State law, which affords substantial due process, and which is subject to judicial review” for “of any court for the support of any person” in subpar. (A) as so redesignated, and added par. (2).
+<b>1977</b>—Subsec. (b). Pub. L. 95–30, §501(e)(1), (2), designated existing provisions as par. (1) and existing pars. (1), (2), and (3) as subpars. (A), (B), and (C) thereof, substituted “for the support of any person issued by a court of competent jurisdiction or in accordance with an administrative procedure, which is established by State law, which affords substantial due process, and which is subject to judicial review” for “of any court for the support of any person” in subpar. (A) as so redesignated, and added par. (2).
 
 Subsec. (c). Pub. L. 95–30, §501(e)(3), inserted “, and no State (or officer or agency thereof),” after “or any State”.
 

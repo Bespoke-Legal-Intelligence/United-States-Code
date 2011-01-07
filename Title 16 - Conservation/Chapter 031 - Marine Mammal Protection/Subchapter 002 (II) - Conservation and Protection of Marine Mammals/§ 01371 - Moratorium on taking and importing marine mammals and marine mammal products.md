@@ -46,7 +46,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;(4)(A) Except as provided in subparagraphs (B) and (C), the provisions of this chapter shall not apply to the use of measures—
 
-&emsp;&emsp;(i) by the owner of fishing gear or catch, or an employee or agent of such owner, to deter a marine mammal from damaging the gear or catch;
+&emsp;&emsp;(i) by the owner of fishing gear or catch, or an employee or agent of such owner, to detera marine mammal from damaging the gear or catch;
 
 &emsp;&emsp;(ii) by the owner of other private property, or an agent, bailee, or employee of such owner, to deter a marine mammal from damaging private property;
 
@@ -56,7 +56,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 > &emsp;so long as such measures do not result in the death or serious injury of a marine mammal.
 
-&emsp;(B) The Secretary shall, through consultation with appropriate experts, and after notice and opportunity for public comment, publish in the Federal Register a list of guidelines foruse in safely deterring marine mammals. In the case of marine mammals listed as endangered species or threatened species under the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\], the Secretary shall recommend specific measures which may be used to nonlethally deter marine mammals. Actions to deter marine mammals consistent with such guidelines or specific measures shall not be a violation of this chapter.
+&emsp;(B) The Secretary shall, through consultation with appropriate experts, and after notice and opportunity for public comment, publish in the Federal Register a list of guidelines for use in safely deterring marine mammals. In the case of marine mammals listed as endangered species or threatened species under the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\], the Secretary shall recommend specific measures which may be used to nonlethally deter marine mammals. Actions to deter marine mammals consistent with such guidelines or specific measures shall not be a violation of this chapter.
 
 &emsp;(C) If the Secretary determines, using the best scientific information available, that certain forms of deterrence have a significant adverse effect on marine mammals, the Secretary may prohibit such deterrent methods, after notice and opportunity for public comment, through regulation under this chapter.
 
@@ -120,13 +120,13 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;(ii) Upon a determination by the Secretary that the requirements of clause (i) have been met, the Secretary shall publish in the Federal Register a list of those fisheries for which such determination was made, and, for vessels required to register under section 1387 of this title, shall issue an appropriate permit for each authorization granted under such section to vessels to which this paragraph applies. Vessels engaged in a fishery included in the notice published by the Secretary under this clause which are not required to register under section 1387 of this title shall not be subject to the penalties of this chapter for the incidental taking of marine mammals to which this paragraph applies, so long as the owner or master of such vessel reports any incidental mortality or injury of such marine mammals to the Secretary in accordance with section 1387 of this title.
 
-&emsp;(iii) If, during the course of the commercial fishing season, the Secretary determines that the level of incidental mortality or serious injury from commercial fisheries for which a determination was made under clause (i) has resulted or is likely to result in an impact that is more than negligible on the endangered or threatened species or stock, the Secretary shall use the emergency authority granted under section 1387 of this title to protect such species or stock, and may modify any permit granted under this paragraph as necessary.
+&emsp;(iii) If, during the course of the commercial fishing season, the Secretary determines that the level of incidental mortality or serious injury from commercial fisheries for which a determination was made under clause (i) has resulted or is likely to result in an impact that is more than negligible on the endangered or threatened species or stock, the Secretary shall use the emergency authority granted under section 1387 of this title to protect suchspecies or stock, and may modify any permit granted under this paragraph as necessary.
 
 &emsp;(iv) The Secretary may suspend for a time certain or revoke a permit granted under this subparagraph only if the Secretary determines that the conditions or limitations set forth in such permit are not being complied with. The Secretary may amend or modify, after notice and opportunity for public comment, the list of fisheries published under clause (ii) whenever the Secretary determines there has been a significant change in the information or conditions used to determine such list.
 
 &emsp;(v) Sections 1373 and 1374 of this title shall not apply to the taking of marine mammals under the authority of this subparagraph.
 
-&emsp;(vi) This subparagraph shall not govern the incidental taking of California sea otters andshall not be deemed to amend or repeal the Act of November 7, 1986 (Public Law 99–625; 100 Stat. 3500).
+&emsp;(vi) This subparagraph shall not govern the incidental taking of California sea otters and shall not be deemed to amend or repeal the Act of November 7, 1986 (Public Law 99–625; 100 Stat. 3500).
 
 &emsp;(F) Notwithstanding the provisions of this subsection, any authorization affecting a military readiness activity (as defined in section 315(f) of Public Law 107–314; 16 U.S.C. 703 note) shall not be subject to the following requirements:
 
@@ -218,7 +218,7 @@ Act of November 7, 1986, referred to in subsec. (a)(5)(E)(vi), is Pub. L. 99–6
 
 #### Amendments
 
-2003—Subsec. (a)(5)(A). Pub. L. 108–136, §319(c)(1), designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, redesignated former subcls. (I) and (II) of former cl. (ii) as items (aa) and (bb) of subcl. (II), respectively, and added cls. (ii) and (iii).
+<b>2003</b>—Subsec. (a)(5)(A). Pub. L. 108–136, §319(c)(1), designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, redesignated former subcls. (I) and (II) of former cl. (ii) as items (aa) and (bb) of subcl. (II), respectively, and added cls. (ii) and (iii).
 
 Subsec. (a)(5)(D)(vi), (vii). Pub. L. 108–136, §319(c)(2), added cls. (vi) and (vii).
 
@@ -226,7 +226,7 @@ Subsec. (a)(5)(F). Pub. L. 108–136, §319(c)(3), added subpar. (F).
 
 Subsec. (f). Pub. L. 108–136, §319(b), added subsec. (f).
 
-1997—Subsec. (a)(2). Pub. L. 105–42, §4(a), (b)(4), in introductory provisions, inserted after first sentence “Such authorizations may be granted under subchapter IV of this chapter with respect to purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean, subject to regulations prescribed under that subchapter by the Secretary without regard to section 1373 of this title.” and struck out “; provided that this goal shall be satisfied in the case of the incidental taking of marine mammals in the course of purse seine fishing for yellowfin tuna by a continuation of the application of the best marine mammal safety techniques and equipment that are economically and technologically practicable” after “serious injury rate” and, in closing provisions, substituted “For purposes of subparagraph (F)” for “For purposes of subparagraph (E)”.
+<b>1997</b>—Subsec. (a)(2). Pub. L. 105–42, §4(a), (b)(4), in introductory provisions, inserted after first sentence “Such authorizations may be granted under subchapter IV of this chapter with respect to purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean, subject to regulations prescribed under that subchapter by the Secretary without regard to section 1373 of this title.” and struck out “; provided that this goal shall be satisfied in the case of the incidental taking of marine mammals in the course of purse seine fishing for yellowfin tuna by a continuation of the application of the best marine mammal safety techniques and equipment that are economically and technologically practicable” after “serious injury rate” and, in closing provisions, substituted “For purposes of subparagraph (F)” for “For purposes of subparagraph (E)”.
 
 Subsec. (a)(2)(B). Pub. L. 105–42, §4(b)(1), added subpar. (B) and struck out former subpar. (B) which contained requirement that nations exporting yellowfin tuna harvested with purse seines in eastern tropical Pacific Ocean provide documentary evidence of adoption of regulatory program governing incidental taking of other mammals and comparison of the average rates of incidental taking between harvesting nation and United States.
 
@@ -236,9 +236,9 @@ Subsec. (d). Pub. L. 105–18 added subsec. (d).
 
 Subsec. (e). Pub. L. 105–42, §4(c), added subsec. (e).
 
-1996—Subsec. (a)(5)(E)(i). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1824(b) of this title.
+<b>1996</b>—Subsec. (a)(5)(E)(i). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1824(b) of this title.
 
-1994—Subsec. (a)(1). Pub. L. 103–238, §4(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Consistent with the provisions of section 1374 of this title, permits may be issued by the Secretary for taking and importation for purposes of scientific research, public display, or enhancing the survival or recovery of a species or stock if—
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–238, §4(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Consistent with the provisions of section 1374 of this title, permits may be issued by the Secretary for taking and importation for purposes of scientific research, public display, or enhancing the survival or recovery of a species or stock if—
 
 &emsp;“(A) the taking proposed in the application for any such permit, or
 
@@ -274,29 +274,29 @@ Subsec. (b). Pub. L. 103–238, §4(b), inserted at end “In promulgating any r
 
 Subsec. (c). Pub. L. 103–238, §4(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “In order to minimize undue economic hardship to persons subject to this chapter, other than those engaged in commercial fishing operations referred to in subsection (a)(2) of this section, the Secretary, upon any such person filing an application with him and upon filing such information as the Secretary may require showing, to his satisfaction, such hardship, may exempt such person or class of persons from provisions of this chapter for no more than one year from October 21, 1972, as he determines to be appropriate.”
 
-1992—Subsec. (a)(2). Pub. L. 102–582, §103(2), inserted before period at end “, except that, until January 1, 1994, the term ‘driftnet’ does not include the use in the northeast Atlantic Ocean of gillnets with a total length not to exceed five kilometers if the use is in accordance with regulations adopted by the European Community pursuant to the October 28, 1991, decision by the Council of Fisheries Ministers of the Community”.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–582, §103(2), inserted before period at end “, except that, until January 1, 1994, the term ‘driftnet’ does not include the use in the northeast Atlantic Ocean of gillnets with a total length not to exceed five kilometers if the use is in accordance with regulations adopted by the European Community pursuant to the October 28, 1991, decision by the Council of Fisheries Ministers of the Community”.
 
 Subsec. (a)(2)(C). Pub. L. 102–582, §401(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “shall require the government of any intermediary nation from which yellowfin tuna or tuna products will be exported to the United States to certify and provide reasonable proof that it has acted to prohibit the importation of such tuna and tuna products from any nation from which direct export to the United States of such tuna and tuna products is banned under this section within sixty days following the effective date of such ban on importation to the United States;”.
 
 Subsec. (a)(2)(E)(i). Pub. L. 102–582, §103(1), substituted “January 1, 1993” for “July 1, 1992”.
 
-1990—Subsec. (a)(2). Pub. L. 101–627 added subpar. (E) and concluding provisions.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–627 added subpar. (E) and concluding provisions.
 
-1988—Subsec. (a)(1). Pub. L. 100–711, §5(c), which directed that par. (1) be amended generally to read as follows: “(1) Consistent with the provisions of section 1374 of this title, permits may be issued by the Secretary for taking and importation for purposes of scientific research, public display, or enhancing the survival or recovery of a species or stock if—”, was executed as the probable intent of Congress by substituting such provisions for provisions of par. (1) before subpar. (A) which read as follows: “Permits may be issued by the Secretary for taking and importation for purposes of scientific research and for public display if—”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–711, §5(c), which directed that par. (1) be amended generally to read as follows: “(1) Consistent with the provisions of section 1374 of this title, permits may be issued by the Secretary for taking and importation for purposes of scientific research, public display, or enhancing the survival or recovery of a species or stock if—”, was executed as the probable intent of Congress by substituting such provisions for provisions of par. (1) before subpar. (A) which read as follows: “Permits may be issued by the Secretary for taking and importation for purposes of scientific research and for public display if—”.
 
 Subsec. (a)(2). Pub. L. 100–711, §4(a), inserted provisions at end of subpar. (B) relating to finding by Secretary that regulatory program, or average rate of incidental taking by vessels, of harvesting nation is comparable to that of United States, and added subpars. (C) and (D).
 
 Subsec. (a)(3)(B). Pub. L. 100–711, §5(e)(1), inserted “or enhancing the survival or recovery of a species or stock” after “scientific research purposes”.
 
-1986—Subsec. (a)(5)(A). Pub. L. 99–659, §411(a)(1), in provisions preceding cl. (i) struck out “that is not depleted” after “population stock”.
+<b>1986</b>—Subsec. (a)(5)(A). Pub. L. 99–659, §411(a)(1), in provisions preceding cl. (i) struck out “that is not depleted” after “population stock”.
 
 Subsec. (a)(5)(A)(i). Pub. L. 99–659, §411(a)(2), substituted “will not have an unmitigable adverse impact” for “its habitat, and”, and inserted “or, in the case of a cooperative agreement under both this chapter and the Whaling Convention Act of 1949 (16 U.S.C. 916 et seq.), pursuant to section 1382(c) of this title”.
 
 Subsec. (a)(5)(A)(ii)(I). Pub. L. 99–659, §411(a)(3), inserted “, and on the availability of such species or stock for subsistence uses”.
 
-1984—Subsec. (a)(2). Pub. L. 98–364 amended last sentence generally, restating existing provisions in cl. (A) and adding cl. (B).
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–364 amended last sentence generally, restating existing provisions in cl. (A) and adding cl. (B).
 
-1981—Subsec. (a)(2). Pub. L. 97–58, §2(1)(A), provided that the immediate goal of reducing to insignificant levels approaching a zero mortality and serious injury rate the incidental kill or serious injury of marinemammals permitted in the course of commercial fishing operations be satisfied in the case of purse seine fishing for yellowfin tuna by a continuation of the application of the best marine mammal safety techniques and equipment that are economically and technologically practicable.
+<b>1981</b>—Subsec. (a)(2). Pub. L. 97–58, §2(1)(A), provided that the immediate goal of reducing to insignificant levels approaching a zero mortality and serious injury rate the incidental kill or serious injury of marine mammals permitted in the course of commercial fishing operations be satisfied in the case of purse seine fishing for yellowfin tuna by a continuation of the application of the best marine mammal safety techniques and equipment that are economically and technologically practicable.
 
 Subsec. (a)(3)(B). Pub. L. 97–58, §2(1)(B), struck out “is classified as belonging to an endangered species or threatened species pursuant to the Endangered Species Act of 1973 or” after “the taking of any marine mammal which”.
 
@@ -304,7 +304,7 @@ Subsec. (a)(4), (5). Pub. L. 97–58, §2(1)(C), added pars. (4) and (5).
 
 Subsec. (b). Pub. L. 97–58, §2(2), substituted “Except as provided in section 1379 of this title, the provisions of this chapter shall not apply with respect to the taking of any marine mammal by any Indian, Aleut, or Eskimo who resides in Alaska and” for “The provisions of this chapter shall not apply with respect to the taking of any marine mammal by any Indian, Aleut, or Eskimo” in provisions preceding par. (1) and, in par. (1), substituted “is for subsistence purposes; or” for “is for subsistence purposes by Alaskan natives who reside in Alaska, or”.
 
-1973—Subsec. (a)(3)(B). Pub. L. 93–205 substituted “or threatened species pursuant to the Endangered Species Act of 1973” for “pursuant to the Endangered Species Conservation Act of 1969”.
+<b>1973</b>—Subsec. (a)(3)(B). Pub. L. 93–205 substituted “or threatened species pursuant to the Endangered Species Act of 1973” for “pursuant to the Endangered Species Conservation Act of 1969”.
 
 #### Effective Date of 1997 Amendment
 

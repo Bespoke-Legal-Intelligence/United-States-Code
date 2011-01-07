@@ -4,7 +4,7 @@ In this chapter, the following definitions apply:
 
 &emsp;(1)
 
-One-call notification system.—The term “one-call notification system” means a system operated by an organization that has as 1 of its purposes to receive notification from excavators of intended excavation in aspecified area in order to disseminate such notification to underground facility operators that are members of the system so that such operators can locate and mark their facilities in order to prevent damage to underground facilities in the course of such excavation.
+One-call notification system.—The term “one-call notification system” means a system operated by an organization that has as 1 of its purposes to receive notification from excavators of intended excavation in a specified area in order to disseminate such notification to underground facility operators that are members of the system so that such operators can locate and mark their facilities in order to prevent damage to underground facilities in the course of such excavation.
 
 &emsp;(2)
 

@@ -30,7 +30,7 @@ The Director of the Office may carry out the authorities established in subsecti
 
 #### Amendments
 
-2007—Subsec. (e). Pub. L. 109–482 struck out heading and text of subsec. (e). Text read as follows: “Not later than February 1, 1993, and each fiscal year thereafter, the Director shall submit to the Subcommittee on Health and the Environment of the Committee on Energy and Commerce (of the House of Representatives), and to the Committee on Labor and Human Resources (of the Senate), a report describing the activities of the Office during the preceding fiscal year, including a summary of the activities of demonstration projects and a summary of evaluations of the projects.”
+<b>2007</b>—Subsec. (e). Pub. L. 109–482 struck out heading and text of subsec. (e). Text read as follows: “Not later than February 1, 1993, and each fiscal year thereafter, the Director shall submit to the Subcommittee on Health and the Environment of the Committee on Energy and Commerce (of the House of Representatives), and to the Committee on Labor and Human Resources (of the Senate), a report describing the activities of the Office during the preceding fiscal year, including a summary of the activities of demonstration projects and a summary of evaluations of the projects.”
 
 #### Effective Date of 2007 Amendment
 

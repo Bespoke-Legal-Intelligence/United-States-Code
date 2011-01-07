@@ -26,7 +26,7 @@ Authority to conduct demonstration program.—
 
 &emsp;“(A)
 
-In general.—The Administrator, through the Bureau of Primary Health Care and the Maternal and Child Health Bureau, shall conduct a demonstration program by making grants to up to 40 eligible entities for each fiscal year in which the program is conducted under this section \[probably means this subsection\] for the purpose of developing and establishing systemic mechanisms to improve the prevention and treatment of Sickle Cell Disease, including through—
+In general.—The Administrator, through the Bureau of Primary Health Care and the Maternal and Child Health Bureau, shall conduct a demonstration program by making grants to up to 40 eligible entities for each fiscal year in which the program is conducted under this section \[probably means this subsection\] for the purpose of developing and establishing systemic mechanisms to improve the preventionand treatment of Sickle Cell Disease, including through—
 
 &emsp;&emsp;“(i) the coordination of service delivery for individuals with Sickle Cell Disease;
 
@@ -44,7 +44,7 @@ Grant award requirements.—
 
 &emsp;&emsp;“(i)
 
-Geographic diversity.—The Administrator shall, to the extent practicable, award grants underthis section \[probably means this subsection\] to eligible entities located in different regions of the United States.
+Geographic diversity.—The Administrator shall, to the extent practicable, award grants under this section \[probably means this subsection\] to eligible entities located in different regions of the United States.
 
 &emsp;&emsp;“(ii)
 
@@ -126,5 +126,7 @@ Authorization of appropriations.—There is authorized to be appropriated to car
 
 #### Congressional Declaration of Purpose
 
-Section 402 of Pub. L. 94–278, as amended by Pub. L. 95–626, title II, §205(a), Nov. 10, 1978, 92 Stat. 3583, provided that: “In order to preserve and protect the health and welfare of all citizens, it is the purpose of this title \[see section 401 of Pub. L. 94–278, set out as a Short Title of 1976 Amendment note under section 201 of this title\] to establish a national program to provide for basic and applied research, research training, testing, counseling, and information and education programs with respect to genetic diseases, and genetic conditions, such as Sickle Cell anemia, Cooley's Anemia, Tay–Sachs disease, cystic fibrosis, dysautonomia, hemophilia, retinitis pigmentosa, Huntington's chorea, muscular dystrophy, and genetic conditions leading to mental retardation or genetically caused mental disorders.”
+Pub. L. 94–278, title IV, §402, Apr. 22, 1976, 90 Stat. 407, as amended by Pub. L. 95–626, title II, §205(a), Nov. 10, 1978, 92 Stat. 3583; Pub. L. 111–256, §2(i), Oct. 5, 2010, 124 Stat. 2644, provided that: “In order to preserve and protect the health and welfare of all citizens, it is the purpose of this title \[see section 401 of Pub. L. 94–278, set out as a Short Title of 1976 Amendment note under section 201 of this title\] to establish a national program to provide for basic and applied research, research training, testing, counseling, and information and education programs with respect to genetic diseases, and genetic conditions, such as Sickle Cell anemia, Cooley's Anemia, Tay–Sachs disease, cystic fibrosis, dysautonomia, hemophilia, retinitis pigmentosa, Huntington's chorea, muscular dystrophy, and genetic conditions leading to intellectual disabilities or genetically caused mental disorders.”
+
+\[For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under section 1400 of Title 20, Education.\]
 

@@ -34,7 +34,7 @@ Notwithstanding any other provision of law, no order issued under section 902 of
 
 #### References in Text
 
-This Act, referred to in subsec. (c)(3), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended, known as the Food Security Act of 1985. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
+This Act, referred to in subsec. (c)(3), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended, known asthe Food Security Act of 1985. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 
 The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (c)(3), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, as amended. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 1421 of Title 7 and Tables.
 
@@ -46,11 +46,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (c)(1). Pub. L. 110–246, §2208, substituted “The total amount of payments that a person or legal entity may receive, directly or indirectly,” for “The total amount of easement payments made to a person” and inserted “or under 30-year contracts” before period at end.
+<b>2008</b>—Subsec. (c)(1). Pub. L. 110–246, §2208, substituted “The total amount of payments that a person or legal entity may receive, directly or indirectly,” for “The total amount of easement payments made to a person” and inserted “or under 30-year contracts” before period at end.
 
 Subsec. (c)(4). Pub. L. 110–246, §2209, struck out par. (4). Text read as follows: “The provisions of this subsection that limit payments to any person, and section 1305(d) of the Agricultural Reconciliation Act of 1987 (7 U.S.C. 1308 note), shall not be applicable to payments received by a State, political subdivision, or agency thereof in connection with agreements entered into under a special wetland and environmental easement enhancement program carried out by that entity that has been approved by the Secretary. The Secretary may enter into such agreements for payments to States, political subdivisions, or agencies thereof that the Secretary determines will advance the purposes of this subpart.”
 
-1998—Subsec. (c)(1). Pub. L. 105–277 inserted “or 30-year” after “perpetual”.
+<b>1998</b>—Subsec. (c)(1). Pub. L. 105–277 inserted “or 30-year” after “perpetual”.
 
 #### Effective Date of 2008 Amendment
 

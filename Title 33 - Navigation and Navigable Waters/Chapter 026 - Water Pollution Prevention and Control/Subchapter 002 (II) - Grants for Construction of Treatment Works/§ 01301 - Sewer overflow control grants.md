@@ -40,7 +40,7 @@ The Federal share of the cost of activities carried out using amounts from a gra
 
 #### (e) Administrative reporting requirements
 
-If a project receives grant assistance under subsection (a) of this section and loan assistancefrom a State water pollution control revolving fund and the loan assistance is for 15 percent or more of the cost of the project, the project may be administered in accordance with State water pollution control revolving fund administrative reporting requirements for the purposes of streamlining such requirements.
+If a project receives grant assistance under subsection (a) of this section and loan assistance from a State water pollution control revolving fund and the loan assistance is for 15 percent or more of the cost of the project, the project may be administered in accordance with State water pollution control revolving fund administrative reporting requirements for the purposes of streamlining such requirements.
 
 #### (f) Authorization of appropriations
 
@@ -82,7 +82,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title I, §112(d)\], Dec. 21, 2000, 114 S
 
 Report to congress.—Not later than 3 years after the date of enactment of this Act \[Dec. 21, 2000\], the Administrator of the Environmental Protection Agency shall transmit to Congress a report summarizing—
 
-&emsp;“(A) the extent of the human health and environmental impacts caused by municipal combined sewer overflows and sanitary sewer overflows, including the location of discharges causing such impacts, the volume of pollutants discharged, and the constituents discharged;
+&emsp;“(A) the extent of the human health and environmental impacts caused by municipal combined sewer overflows and sanitary sewer overflows, including thelocation of discharges causing such impacts, the volume of pollutants discharged, and the constituents discharged;
 
 &emsp;“(B) the resources spent by municipalities to address these impacts; and
 

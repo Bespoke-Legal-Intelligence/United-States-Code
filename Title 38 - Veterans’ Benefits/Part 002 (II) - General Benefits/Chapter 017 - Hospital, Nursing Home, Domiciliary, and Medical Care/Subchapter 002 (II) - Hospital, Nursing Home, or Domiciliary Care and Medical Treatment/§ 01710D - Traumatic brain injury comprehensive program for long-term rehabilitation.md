@@ -6,7 +6,7 @@ Comprehensive Program.—In developing plans for the rehabilitation and reintegr
 
 (b)
 
-Location of Program.—The Secretary shall carry out the program developed under subsection (a) in each Department polytrauma rehabilitation center designated by the Secretary.
+Location of Program.—The Secretary shall carry out the program developed undersubsection (a) in each Department polytrauma rehabilitation center designated by the Secretary.
 
 (c)
 

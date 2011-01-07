@@ -2,7 +2,7 @@
 
 (a)(1) When the report of a selection board convened under section 611(a) of this title is approved by the President, the Secretary of the military department concerned shall place the names of all officers approved for promotion within a competitive category on a single list for that competitive category, to be known as a promotion list, in the order of the seniority of such officers on the active-duty list. A promotion list is considered to be established under this section as of the date of the approval of the report of the selection board under the preceding sentence.
 
-(2) Except as provided in subsection (d), officers on a promotion list for a competitive category shall be promoted to the next higher grade when additional officers in that grade andcompetitive category are needed. Promotions shall be made in the order in which the names of officers appear on the promotion list and after officers previously selected for promotion in that competitive category have been promoted. Officers to be promoted to the grade of first lieutenant or lieutenant (junior grade) shall be promoted in accordance with regulations prescribed by the Secretary concerned.
+(2) Except as provided in subsection (d), officers on a promotion list for a competitive category shall be promoted to the next higher grade when additional officers in that grade and competitive category are needed. Promotions shall be made in the order in which the names of officers appear on the promotion list and after officers previously selected for promotion in that competitive category have been promoted. Officers to be promoted to the grade of first lieutenant or lieutenant (junior grade) shall be promoted in accordance with regulations prescribed by the Secretary concerned.
 
 (3)(A) Except as provided in subsection (d), officers on the active-duty list in the grade of first lieutenant or, in the case of the Navy, lieutenant (junior grade) who are on an approved all-fully-qualified-officers list shall be promoted to the next higher grade in accordance with regulations prescribed by the Secretary concerned.
 
@@ -20,7 +20,7 @@
 
 (2) The date of rank of an officer appointed to a higher grade under this section is determined under section 741(d) of this title.
 
-(c) Appointments under this section shall be made by the President, by and with the advice and consent of the Senate, except that appointments under this section in the grade of first lieutenant or captain, in the case of officers of the Army, Air Force, or Marine Corps, or lieutenant (junior grade) or lieutenant, in the case of officers of the Navy, shall be made by the President alone.
+(c) Appointments under this section shall be made by the President, by and with the advice and consent of the Senate, except that appointments under this section in the grade of first lieutenant or captain, in the case of officers ofthe Army, Air Force, or Marine Corps, or lieutenant (junior grade) or lieutenant, in the case of officers of the Navy, shall be made by the President alone.
 
 (d)(1) Under regulations prescribed by the Secretary of Defense, the appointment of an officer under this section may be delayed if—
 
@@ -38,7 +38,7 @@
 
 (2) Under regulations prescribed by the Secretary of Defense, the appointment of an officer under this section may also be delayed in any case in which there is cause to believe that the officer has not met the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, or is mentally, physically, morally, or professionally unqualified to perform the duties of the grade for which he was selected for promotion. If it is later determined by a civilian official of the Department of Defense (not below the level of Secretary of a military department) that the officer is qualified for promotion to such grade and, after a review of adverse information regarding the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion to such grade, the officer shall be retained on the promotion list (including an approved all-fully-qualified-officers list, if applicable) and shall, upon such promotion, have the same date of rank, the same effective date for pay and allowances in the higher grade to which appointed, and the same position on the active-duty list as he would have had if no delay had intervened, unless the Secretary concerned determines that the officer was unqualified for promotion for any part of the delay. If the Secretary makes such a determination, the Secretary may adjust such date of rank, effective date of pay and allowances, and position on the active-duty list as the Secretary considers appropriate under the circumstances.
 
-(3) The appointment of an officer may not be delayed under this subsection unless the officerhas been given written notice of the grounds for the delay, unless it is impracticable to give such written notice before the effective date of the appointment, in which case such written notice shall be given as soon as practicable. An officer whose promotion has been delayed under this subsection shall be afforded an opportunity to make a written statement to the Secretary concerned in response to the action taken. Any such statement shall be given careful consideration by the Secretary.
+(3) The appointment of an officer may not be delayed under this subsection unless the officer has been given written notice of the grounds for the delay, unless it is impracticable to give such written notice before the effective date of the appointment, in which case such written notice shall be given as soon as practicable. An officer whose promotion has been delayed under this subsection shall be afforded an opportunity to make a written statement to the Secretary concerned in response to the action taken. Any such statement shall be given careful consideration by the Secretary.
 
 (4) An appointment of an officer may not be delayed under this subsection for more than six months after the date on which the officer would otherwise have been appointed unless the Secretary concerned specifies a further period of delay. An officer's appointment may not be delayed more than 90 days after final action has been taken in any criminal case against such officer in a Federal or State court, more than 90 days after final action has been taken in any court-martial case against such officer, or more than 18 months after the date on which such officer would otherwise have been appointed, whichever is later.
 
@@ -46,9 +46,9 @@
 
 #### Amendments
 
-2008—Subsec. (d)(1). Pub. L. 110–181 amended directory language of Pub. L. 109–364, §511(a)(2)(D)(i). See 2006 Amendment note below.
+<b>2008</b>—Subsec. (d)(1). Pub. L. 110–181 amended directory language of Pub. L. 109–364, §511(a)(2)(D)(i). See 2006 Amendment note below.
 
-2006—Subsec. (a)(1). Pub. L. 109–364, §511(d)(1), inserted at end “A promotion list is considered to be established under this section as of the date of the approval of the report of the selection board under the preceding sentence.”
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–364, §511(d)(1), inserted at end “A promotion list is considered to be established under this section as of the date of the approval of the report of the selection board under the preceding sentence.”
 
 Subsec. (d)(1). Pub. L. 109–364, §511(a)(2)(D)(ii), inserted “or if, after a review of substantiated adverse information about the officer regarding the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion,” after “brought against him,” in concluding provisions.
 
@@ -62,9 +62,9 @@ Subsec. (d)(2). Pub. L. 109–364, §511(a)(3), in first sentence inserted “ha
 
 Pub. L. 109–364, §511(a)(1), substituted “prescribed by the Secretary of Defense” for “prescribed by the Secretary concerned”.
 
-2002—Subsec. (d)(1). Pub. L. 107–314 substituted “paragraph (2)” for “subsection (d)(2)” in concluding provisions.
+<b>2002</b>—Subsec. (d)(1). Pub. L. 107–314 substituted “paragraph (2)” for “subsection (d)(2)” in concluding provisions.
 
-2001—Subsec. (a)(3). Pub. L. 107–107, §505(a)(1), added par. (3).
+<b>2001</b>—Subsec. (a)(3). Pub. L. 107–107, §505(a)(1), added par. (3).
 
 Subsec. (c). Pub. L. 107–107, §505(d)(1), inserted “, in the case of officers of the Army, Air Force, or Marine Corps,” after “captain” and “, in the case of officers of the Navy,” after “(junior grade) or lieutenant”.
 
@@ -72,11 +72,11 @@ Subsec. (d)(1). Pub. L. 107–107, §505(c)(2)(A)(i), inserted “(including an 
 
 Subsec. (d)(2). Pub. L. 107–107, §505(c)(2)(A)(ii), inserted “shall be retained on the promotion list (including an approved all-fully-qualified-officers list, if applicable) and” after “to such grade, the officer” in second sentence.
 
-1984—Subsec. (d)(1), (2). Pub. L. 98–525 inserted provision for a determination by the Secretary concerned that the officer was unqualified for promotion for any part of the delay in the officer's promotion, with the inserted provision that if the Secretary made such a determination, the Secretary could adjust such date of rank, effective date of pay and allowances, and position on the active-duty list as the Secretary considered appropriate under the circumstances.
+<b>1984</b>—Subsec. (d)(1), (2). Pub. L. 98–525 inserted provision for a determination by the Secretary concerned that the officer was unqualified for promotion for any part of the delay in the officer's promotion, with the inserted provision that if the Secretary made such a determination, the Secretary could adjust such date of rank, effective date of pay and allowances, and position on the active-duty list as the Secretary considered appropriate under the circumstances.
 
-1982—Subsec. (d)(4). Pub. L. 97–295 substituted “this subsection” for “the subsection”.
+<b>1982</b>—Subsec. (d)(4). Pub. L. 97–295 substituted “this subsection” for “the subsection”.
 
-1981—Subsec. (a)(1). Pub. L. 97–22, §4(d)(1)(A), struck out “or in the case of officers selected for promotion to the grade of first lieutenant or lieutenant (junior grade), when a list of officers selected for promotion is approved by the President,” after “by the President,”.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–22, §4(d)(1)(A), struck out “or in the case of officers selected for promotion to the grade of first lieutenant or lieutenant (junior grade), when a list of officers selected for promotion is approved by the President,” after “by the President,”.
 
 Subsec. (a)(2). Pub. L. 97–22, §4(d)(1)(B), inserted provision that officers to be promoted to grade of first lieutenant or lieutenant (junior grade) shall be promoted in accordance with regulations prescribed by the Secretary concerned.
 

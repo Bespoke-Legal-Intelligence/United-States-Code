@@ -1,6 +1,6 @@
 ### §1862f. Research center consortia
 
-In Foundation programs making grants to research centers, the Director shall encourage the formation of consortia that include research universities, two-year and four-year colleges, and the private sector.
+In Foundation programs making grants to research centers, the Director shall encourage theformation of consortia that include research universities, two-year and four-year colleges, and the private sector.
 
 (Pub. L. 100–570, title I, §110, Oct. 31, 1988, 102 Stat. 2869.)
 

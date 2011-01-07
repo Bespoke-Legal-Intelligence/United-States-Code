@@ -18,5 +18,5 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000” in first par.
+<b>1996</b>—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000” in first par.
 

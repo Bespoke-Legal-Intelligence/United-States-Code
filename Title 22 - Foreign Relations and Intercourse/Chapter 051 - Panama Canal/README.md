@@ -33,7 +33,7 @@
 
 #### Part 2—Employees
 
-I74subpart i—panama canal commission personnel
+#### subpart i—panama canal commission personnel
 
 |  |  |
 | :--- | ---: |
@@ -109,7 +109,7 @@ I74subpart i—panama canal commission personnel
 
 #### Part 3—Funds and Accounts
 
-I74subpart i—funds
+#### subpart i—funds
 
 |  |  |
 | :--- | ---: |
@@ -167,7 +167,7 @@ I74subpart i—funds
 
 #### Part 4—Claims for Injuries to Persons or Property
 
-I74subpart i—general provisions
+#### subpart i—general provisions
 
 |  |  |
 | :--- | ---: |
@@ -224,7 +224,7 @@ I74subpart i—general provisions
 
 #### Part 8—Shipping and Navigation
 
-I74subpart i—operation of canal
+#### subpart i—operation of canal
 
 |  |  |
 | :--- | ---: |

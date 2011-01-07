@@ -10,7 +10,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-1994—Pub. L. 103–296 substituted “Secretary of Health and Human Services, the Commissioner of Social Security” for “Secretary of Health, Education, and Welfare”.
+<b>1994</b>—Pub. L. 103–296 substituted “Secretary of Health and Human Services, the Commissioner of Social Security” for “Secretary of Health, Education, and Welfare”.
 
 #### Effective Date of 1994 Amendment
 

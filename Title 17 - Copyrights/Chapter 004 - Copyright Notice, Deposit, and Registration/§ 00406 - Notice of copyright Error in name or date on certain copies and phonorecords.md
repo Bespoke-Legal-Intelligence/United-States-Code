@@ -22,7 +22,7 @@ Omission of Name or Date.—Where copies or phonorecords publicly distributed be
 
 #### Historical and Revision Notes
 
-I74house report no. 94–1476
+#### house report no. 94–1476
 
 In addition to cases where notice has been omitted entirely, it is common under the present law for a copyright notice to be fatally defective because the name or date has been omitted or wrongly stated. Section 406 is intended to avoid technical forfeitures in these cases, while at the same time inducing use of the correct name and date and protecting users who rely on erroneous information.
 
@@ -30,7 +30,7 @@ In addition to cases where notice has been omitted entirely, it is common under 
 
 The situation dealt with in section 406(a) presupposes a contractual relation between the copyright owner and the person named in the notice. The copies or phonorecords bearing the defective notice have been “distributed by authority of the copyright owner” and, unless the publication can be considered unauthorized because of breach of an express condition in the contract or other reasons, the owner must be presumed to have acquiesced in the use of the wrong name. If the person named in the notice grants a license for use of the work in good faith or under a misapprehension, that person should not be liable as a copyright infringer, but the last sentence of section 406(a) would make the person named in the notice liable to account to the copyright owner for “all receipts, from transfers or licenses purportedly made under the copyright” by that person.
 
-<b>Error in Date.</b> The familiar problems of antedated and postdated notices are dealt with in subsection (b) of section 406. In the case of an antedated notice, where the year in the notice is earlier than the year of firstpublication, the bill adopts the established judicial principle that any statutory term measured from the year of publication will be computed from the year given in the notice. This provision would apply not only to the copyright terms of anonymous works, pseudonymous works, and works made for hire under section 302(c), but also to the presumptive periods set forth in section 302(e).
+<b>Error in Date.</b> The familiar problems of antedated and postdated notices are dealt with in subsection (b) of section 406. In the case of an antedated notice, where the year in the notice is earlier than the year of first publication, the bill adopts the established judicial principle that any statutory term measured from the year of publication will be computed from the year given in the notice. This provision would apply not only to the copyright terms of anonymous works, pseudonymous works, and works made for hire under section 302(c), but also to the presumptive periods set forth in section 302(e).
 
 As for postdated notices, subsection (b) provides that, where the year in the notice is more than one year later than the year of first publication the case is treated as if the notice had been omitted and is governed by section 405. Notices postdated by one year are quite common on works published near the end of a year, and it would be unnecessarily strict to equate cases of that sort with works published without notice of any sort.
 
@@ -42,7 +42,7 @@ The effective date of the Berne Convention Implementation Act of 1988, referred 
 
 #### Amendments
 
-1988—Pub. L. 100–568, §7(f)(4), substituted “date on certain copies and phonorecords” for “date” in section catchline.
+<b>1988</b>—Pub. L. 100–568, §7(f)(4), substituted “date on certain copies and phonorecords” for “date” in section catchline.
 
 Subsec. (a). Pub. L. 100–568, §7(f)(1), substituted “With respect to copies and phonorecords publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, where” for “Where”.
 

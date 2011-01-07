@@ -18,7 +18,7 @@ Any master, person in charge of a vehicle, or aircraft pilot who commits any vio
 
 #### (c) Criminal penalty
 
-In addition to being liable for a civil penalty under subsection (b) of this section, any master, person in charge of a vehicle, or aircraft pilot who intentionally commits any violation listed in subsection (a) of this section is, upon conviction, liable for a fine of not more than $2,000 or imprisonment for 1 year, or both; except that if the conveyance has, or is discovered to have had, on board any merchandise (other than sea stores or the equivalent for conveyances other than vessels) the importation of which into the United States is prohibited, such individual is liable for an additional fine of not more than $10,000 or imprisonment for not more than 5 years, or both.
+In addition to being liable for a civil penalty under subsection (b) of this section, any master, person in charge of a vehicle, or aircraft pilot who intentionally commits any violation listed in subsection (a) of this section is, upon conviction, liable for a fine of not more than $2,000 or imprisonment for 1 year, or both; except that if the conveyance has, or is discovered to have had, on board any merchandise (other than sea stores or the equivalent for conveyances other than vessels) the importation of which into theUnited States is prohibited, such individual is liable for an additional fine of not more than $10,000 or imprisonment for not more than 5 years, or both.
 
 #### (d) Additional civil penalty
 
@@ -38,9 +38,9 @@ Provisions similar to those in this section were contained in R.S. §2834, as am
 
 #### Amendments
 
-1996—Subsec. (a)(2). Pub. L. 104–295 substituted “1431” for “1431(e)” and struck out “or” after semicolon at end.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–295 substituted “1431” for “1431(e)” and struck out “or” after semicolon at end.
 
-1993—Pub. L. 103–182, §611(2), substituted “entry, and clearance” for “and entry” in section catchline.
+<b>1993</b>—Pub. L. 103–182, §611(2), substituted “entry, and clearance” for “and entry” in section catchline.
 
 Subsec. (a)(1). Pub. L. 103–182, §611(1)(A), substituted “section 1431, 1433, or 1434 of this title or section 91 of title 46, Appendix” for “section 1433 of this title”.
 
@@ -50,11 +50,11 @@ Subsec. (a)(2), (3). Pub. L. 103–182, §611(1)(B), (C), amended pars. (2) and 
 
 “(3) to fail to make entry as required by section 1434, 1435, or 1644 of this title or section 1509 of title 49, Appendix; or”.
 
-1986—Pub. L. 99–570 amended section generally. Prior to amendment, section read as follows: “Every master who fails to make the report or entry provided for in sections 1433, 1434, or 1435 of this title shall, for each offense, be liable to a fine of not more than $1,000 and, if the vessel have, or be discovered to have had, on board any merchandise (sea stores excepted), the importation of which into the United States is prohibited, or any spirits, wines, or other alcoholic liquors, such master shall be subject to an additional fine of not more than $2,000 or to imprisonment for not more than one year, or to both such fine and imprisonment.
+<b>1986</b>—Pub. L. 99–570 amended section generally. Prior to amendment, section read as follows: “Every master who fails to make the report or entry provided for in sections 1433, 1434, or 1435 of this title shall, for each offense, be liable to a fine of not more than $1,000 and, if the vessel have, or be discovered to have had, on board any merchandise (sea stores excepted), the importation of which into the United States is prohibited, or any spirits, wines, or other alcoholic liquors, such master shall be subject to an additional fine of not more than $2,000 or to imprisonment for not more than one year, or to both such fine and imprisonment.
 
 “Every master who presents a forged, altered, or false document or paper on making entry of a vessel as required by section 1434 or 1435 of this title, knowing the same to be forged, altered, or false and without revealing the fact, shall, in addition to any forfeiture to which in consequence the vessel may be subject, be liable to a fine of not more than $5,000 nor less than $50 or to imprisonment for not more than two years, or to both such fine and imprisonment.”
 
-1935—Act Aug. 5, 1935, inserted provisions relating to additional penalty for vessel carrying nonimportable merchandise or liquor and added second par.
+<b>1935</b>—Act Aug. 5, 1935, inserted provisions relating to additional penalty for vessel carrying nonimportable merchandise or liquor and added second par.
 
 #### Transfer of Functions
 

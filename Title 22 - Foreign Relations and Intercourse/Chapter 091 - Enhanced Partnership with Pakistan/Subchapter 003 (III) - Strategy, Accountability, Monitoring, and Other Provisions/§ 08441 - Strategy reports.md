@@ -60,7 +60,7 @@ Not later than 45 days after October 15, 2009, the Secretary of State shall subm
 
 #### (2) Comprehensive regional security strategy
 
-&emsp;The President shall develop a comprehensive interagency regional security strategy to eliminate terrorist threats and close safe havens in Pakistan, including by working with the Government of Pakistan and other relevant governments and organizations in the region and elsewhere, as appropriate, to best implement effective counterinsurgency and counterterrorism efforts in and near the border areas of Pakistan and Afghanistan, including the FATA, the NWFP, parts of Balochistan, and parts of Punjab.
+&emsp;The President shall develop a comprehensive interagency regional security strategy toeliminate terrorist threats and close safe havens in Pakistan, including by working with the Government of Pakistan and other relevant governments and organizations in the region and elsewhere, as appropriate, to best implement effective counterinsurgency and counterterrorism efforts in and near the border areas of Pakistan and Afghanistan, including the FATA, the NWFP, parts of Balochistan, and parts of Punjab.
 
 #### (3) Report
 
@@ -85,4 +85,16 @@ Not later than 45 days after October 15, 2009, the Secretary of State shall subm
 Not later than 180 days after October 15, 2009, the Secretary of State shall submit to the appropriate congressional committees a plan for the proposed use of amounts authorized for security-related assistance for each of the fiscal years 2010 through 2014. Such plan shall include an assessment of how the use of such amounts complements or otherwise is related to amounts described in section 8424 of this title.
 
 (Pub. L. 111–73, title III, §301, Oct. 15, 2009, 123 Stat. 2075.)
+
+#### Delegation of a Reporting Authority
+
+Memorandum of President of the United States, Apr. 7, 2010, 75 F.R. 19533, provided:
+
+Memorandum for the Secretary of State
+
+By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions and authority conferred upon the President by section 301 of the Enhanced Partnership with Pakistan Act of 2009, Public Law 111–73, to make the specified report to the Congress.
+
+You are authorized and directed to notify the appropriate congressional committees and publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

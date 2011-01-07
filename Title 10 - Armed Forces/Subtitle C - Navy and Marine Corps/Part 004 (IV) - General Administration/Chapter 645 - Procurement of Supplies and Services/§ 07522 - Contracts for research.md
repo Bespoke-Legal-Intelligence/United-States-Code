@@ -26,17 +26,17 @@ In subsection (c) the words “This section does not authorize” are substitute
 
 #### Amendments
 
-1994—Subsecs. (b), (c). Pub. L. 103–355 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Subsections (a) and (b) of section 3324 of title 31 do not apply to advance, progress, or other payments made with respect to a contract under this section.”
+<b>1994</b>—Subsecs. (b), (c). Pub. L. 103–355 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Subsections (a) and (b) of section 3324 of title 31 do not apply to advance, progress, or other payments made with respect to a contract under this section.”
 
-1984—Subsec. (b). Pub. L. 98–525 substituted “Subsections (a) and (b) of section 3324 of title 31 do” for “Section 3324(a) and (b) of title 31 does”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–525 substituted “Subsections (a) and (b) of section 3324 of title 31 do” for “Section 3324(a) and (b) of title 31 does”.
 
-1982—Subsec. (b). Pub. L. 97–258 substituted “section 3324(a) and (b) of title 31” for “section 3648 of the Revised Statutes (31 U.S.C. 529)”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–258 substituted “section 3324(a) and (b) of title 31” for “section 3648 of the Revised Statutes (31 U.S.C. 529)”.
 
-1980—Subsec. (b). Pub. L. 96–513 substituted “Section 3648 of the Revised Statutes (31 U.S.C. 529)” for “Section 529 of title 31”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–513 substituted “Section 3648 of the Revised Statutes (31 U.S.C. 529)” for “Section 529 of title 31”.
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of this title.
 
 #### Effective Date of 1980 Amendment
 

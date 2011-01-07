@@ -6,7 +6,7 @@ If no beneficiary of insurance is designated by the insured, either while alive 
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 750 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 750 of this title as this section.
 
-1986—Pub. L. 99–576 substituted “while alive or by last will” for “in his lifetime or by his last will and testament”.
+<b>1986</b>—Pub. L. 99–576 substituted “while alive or by last will” for “in his lifetime or by his last will and testament”.
 

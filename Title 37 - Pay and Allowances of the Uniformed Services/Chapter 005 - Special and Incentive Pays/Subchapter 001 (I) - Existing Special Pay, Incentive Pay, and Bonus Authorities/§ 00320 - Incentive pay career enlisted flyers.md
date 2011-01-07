@@ -26,7 +26,7 @@ Operational Flying Duty Requirements.—(1) An eligible career enlisted flyer mu
 
 (3) For the needs of the service, the Secretary concerned may permit, on a case-by-case basis, a member to continue to receive continuous monthly incentive pay despite the member's failure to perform the operational flying duty required during the first 10, 15, or 20 years of aviation service, but only if the member otherwise meets the definition in subsection (a) and has performed at least 5 years of operational flying duties during the first 10 years of aviation service, 8 years of operational flying duties during the first 15 years of aviation service, or 12 years of operational flying duty during the first 20 years of aviation service. The authority of the Secretary concerned under this paragraph may not be delegated below the level of the Service Personnel Chief.
 
-(4) If the eligibility of an eligible career enlisted flyer to continuous monthly incentive payceases under subsection (b)(2) or paragraph (2), the member may still receive month-to-month incentive pay for subsequent frequent and regular performance of operational flying duty. The rate payable is the same rate authorized by the Secretary concerned under subsection (d) for a member of corresponding years of aviation service.
+(4) If the eligibility of an eligible career enlisted flyer to continuous monthly incentive pay ceases under subsection (b)(2) or paragraph (2), the member may still receive month-to-month incentive pay for subsequent frequent and regular performance of operational flying duty. The rate payable is the same rate authorized by the Secretary concerned under subsection (d) for a member of corresponding years of aviation service.
 
 (d)
 

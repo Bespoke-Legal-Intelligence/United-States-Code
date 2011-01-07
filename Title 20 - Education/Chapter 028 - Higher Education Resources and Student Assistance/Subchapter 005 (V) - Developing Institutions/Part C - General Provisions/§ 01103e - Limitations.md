@@ -22,5 +22,5 @@ Another prior section 526 of Pub. L. 89–329 was classified to section 1116 of 
 
 #### Amendments
 
-2008—Pub. L. 110–315, §502(b)(3), made technical amendment to reference in original act which appears in text as reference to section 1103g of this title.
+<b>2008</b>—Pub. L. 110–315, §502(b)(3), made technical amendment to reference in original act which appears in text as reference to section 1103g of this title.
 

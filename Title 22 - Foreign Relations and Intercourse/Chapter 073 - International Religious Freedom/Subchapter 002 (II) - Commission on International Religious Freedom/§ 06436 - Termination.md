@@ -6,7 +6,7 @@ The Commission shall terminate on September 30, 2011.
 
 #### Amendments
 
-2002—Pub. L. 107–228 substituted “September 30, 2011” for “May 14, 2003”.
+<b>2002</b>—Pub. L. 107–228 substituted “September 30, 2011” for “May 14, 2003”.
 
-1999—Pub. L. 106–55, §1(c), which directed substitution of “on May 14, 2003” for “4 years after the initial appointment of all the Commissioners”, was executed by making the substitution for “4 years after the initial appointment of all of the Commissioners”, to reflect the probable intent of Congress.
+<b>1999</b>—Pub. L. 106–55, §1(c), which directed substitution of “on May 14, 2003” for “4 years after the initial appointment of all the Commissioners”, was executed by making the substitution for “4 years after the initial appointment of all of the Commissioners”, to reflect the probable intent of Congress.
 

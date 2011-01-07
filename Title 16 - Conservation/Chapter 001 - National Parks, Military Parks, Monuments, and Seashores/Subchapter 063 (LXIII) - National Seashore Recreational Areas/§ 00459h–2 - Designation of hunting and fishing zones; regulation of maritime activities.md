@@ -16,7 +16,7 @@ Sections 459h to 459h–10 of this title, referred to in subsec. (b), was in the
 
 #### Amendments
 
-2000—Pub. L. 106–554 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2000</b>—Pub. L. 106–554 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

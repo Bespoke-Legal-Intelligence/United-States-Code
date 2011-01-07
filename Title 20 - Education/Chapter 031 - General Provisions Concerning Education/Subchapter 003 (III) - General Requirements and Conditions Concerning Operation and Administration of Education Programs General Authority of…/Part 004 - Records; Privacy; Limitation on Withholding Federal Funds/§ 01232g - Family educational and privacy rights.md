@@ -40,7 +40,7 @@
 
 &emsp;(iii) in the case of persons who are employed by an educational agency or institution but who are not in attendance at such agency or institution, records made and maintained in the normal course of business which relate exclusively to such person in that person's capacity as an employee and are not available for use for any other purpose; or
 
-&emsp;(iv) records on a student who is eighteen years of age or older, or is attending an institution of postsecondary education, which are made or maintained by a physician, psychiatrist, psychologist, or other recognized professional or paraprofessional acting in his professional or paraprofessional capacity, or assisting in that capacity, and which are made, maintained, or used only in connection with the provision of treatment to the student, and are not available to anyone other than persons providing such treatment, except that such records can be personally reviewed by a physician or other appropriate professional of the student's choice.
+&emsp;(iv) records on a student who is eighteen years of age or older, or is attending an institution of postsecondary education, which are made or maintained by a physician, psychiatrist, psychologist, or other recognized professional or paraprofessional acting in his professional or paraprofessional capacity, or assisting in that capacity, and which are made, maintained, or used only in connection with the provision of treatment to the student, and are not available to anyone other than persons providing such treatment, except that suchrecords can be personally reviewed by a physician or other appropriate professional of the student's choice.
 
 (5)(A) For the purposes of this section the term “directory information” relating to a student includes the following: the student's name, address, telephone listing, date and place of birth, major field of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, and the most recent previous educational agency or institution attended by the student.
 
@@ -76,11 +76,17 @@
 
 &emsp;(H) parents of a dependent student of such parents, as defined in section 152 of title 26;
 
-&emsp;(I) subject to regulations of the Secretary, in connection with an emergency, appropriate persons if the knowledge of such information is necessary to protect the health or safety of the student or other persons; and
+&emsp;(I) subject to regulations of the Secretary, in connection with an emergency, appropriate persons if the knowledge of such information is necessary to protect the health or safety of the student or other persons;
 
 &emsp;(J)(i) the entity or persons designated in a Federal grand jury subpoena, in which case the court shall order, for good cause shown, the educational agency or institution (and any officer, director, employee, agent, or attorney for such agency or institution) on which the subpoena is served, to not disclose to any person the existence or contents of the subpoena or any information furnished to the grand jury in response to the subpoena; and
 
-&emsp;(ii) the entity or persons designated in any other subpoena issued for a law enforcement purpose, in which case the court or other issuing agency may order, for good cause shown, the educational agency or institution (and any officer, director, employee, agent, or attorney for such agency or institution) on which the subpoena is served, to not disclose to any person the existence or contents of the subpoena or any information furnished in response to the subpoena.
+&emsp;(ii) the entity or persons designated in any other subpoena issued for a law enforcement purpose, in which case the court or other issuing agency may order, for good cause shown, the educational agency or institution (and any officer, director, employee, agent, or attorney for such agency or institution) on which the subpoena is served, to not disclose to any person the existence or contents of the subpoena or any information furnished in response to the subpoena; and
+
+&emsp;(K) the Secretary of Agriculture, or authorized representative from the Food and Nutrition Service or contractors acting on behalf ofthe Food and Nutrition Service, for the purposes of conducting program monitoring, evaluations, and performance measurements of State and local educational and other agencies and institutions receiving funding or providing benefits of 1 or more programs authorized under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) for which the results will be reported in an aggregate form that does not identify any individual, on the conditions that—
+
+&emsp;&emsp;(i) any data collected under this subparagraph shall be protected in a manner that will not permit the personal identification of students and their parents by other than the authorized representatives of the Secretary; and
+
+&emsp;&emsp;(ii) any personally identifiable data shall be destroyed when the data are no longer needed for program monitoring, evaluations, and performance measurements.
 
 > Nothing in subparagraph (E) of this paragraph shall prevent a State from further limiting the number or type of State or local officials who will continue to have access thereunder.
 
@@ -108,7 +114,7 @@
 
 &emsp;(ii) may include the name of any other student, such as a victim or witness, only with the written consent of that other student.
 
-(7)(A) Nothing in this section may be construed to prohibit an educational institution from disclosing information provided to the institution under section 14071 of title 42 concerning registered sex offenders who are required to register under such section.
+(7)(A) Nothing in this section may be construed to prohibit an educational institutionfrom disclosing information provided to the institution under section 14071 <sup>2</sup> of title 42 concerning registered sex offenders who are required to register under such section.
 
 (B) The Secretary shall take appropriate steps to notify educational institutions that disclosure of information described in subparagraph (A) is permitted.
 
@@ -144,7 +150,7 @@ Nothing in this section shall prohibit an educational agency or institution from
 
 #### (1) In general
 
-&emsp;Nothing in this Act or the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] shall be construed to prohibit an institution of higher education from disclosing, to a parent or legal guardian of a student, information regarding any violation of any Federal, State, or local law, or of any rule or policy of the institution, governing the use or possession of alcohol or acontrolled substance, regardless of whether that information is contained in the student's education records, if—
+&emsp;Nothing in this Act or the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.\] shall be construed to prohibit an institution of higher education from disclosing, to a parent or legal guardian of a student, information regarding any violation of any Federal, State, or local law, or of any rule or policy of the institution, governing the use or possession of alcohol or a controlled substance, regardless of whether that information is contained in the student's education records, if—
 
 &emsp;&emsp;(A) the student is under the age of 21; and
 
@@ -168,7 +174,7 @@ Nothing in this section shall prohibit an educational agency or institution from
 
 &emsp;(A)
 
-In general.—An application under paragraph (1) shall certify that there are specific and articulable facts giving reason to believe that the education records are likely to contain information described in paragraph (1)(A).
+In general.—An application under paragraph (1) shall certify that there are specificand articulable facts giving reason to believe that the education records are likely to contain information described in paragraph (1)(A).
 
 &emsp;(B) The court shall issue an order described in paragraph (1) if the court finds that the application for the order includes the certification described in subparagraph (A).
 
@@ -180,13 +186,19 @@ In general.—An application under paragraph (1) shall certify that there are sp
 
 &emsp;Subsection (b)(4) of this section does not apply to education records subject to a court order under this subsection.
 
-(Pub. L. 90–247, title IV, §444, formerly §438, as added Pub. L. 93–380, title V, §513(a), Aug. 21, 1974, 88 Stat. 571; amended Pub. L. 93–568, §2(a), Dec. 31, 1974, 88 Stat. 1858; Pub. L. 96–46, §4(c), Aug. 6, 1979, 93 Stat. 342; Pub. L. 101–542, title II, §203, Nov. 8, 1990, 104 Stat. 2385; Pub. L. 102–325, title XV, §1555(a), July 23, 1992, 106 Stat. 840; renumbered §444 and amended Pub. L. 103–382, title II, §§212(b)(1), 249, 261(h), Oct. 20, 1994, 108 Stat. 3913, 3924, 3928; Pub. L. 105–244, title IX, §§951, 952, Oct. 7, 1998, 112 Stat. 1835, 1836; Pub. L. 106–386, div. B, title VI, §1601(d), Oct. 28, 2000, 114 Stat. 1538; Pub. L. 107–56, title V, §507, Oct. 26, 2001, 115 Stat. 367; Pub. L. 107–110, title X, §1062(3), Jan. 8, 2002, 115 Stat. 2088.)
+(Pub. L. 90–247, title IV, §444, formerly §438, as added Pub. L. 93–380, title V, §513(a), Aug. 21, 1974, 88 Stat. 571; amended Pub. L. 93–568, §2(a), Dec. 31, 1974, 88 Stat. 1858; Pub. L. 96–46, §4(c), Aug. 6, 1979, 93 Stat. 342; Pub. L. 101–542, title II, §203, Nov. 8, 1990, 104 Stat. 2385; Pub. L. 102–325, title XV, §1555(a), July 23, 1992, 106 Stat. 840; renumbered §444 and amended Pub. L. 103–382, title II, §§212(b)(1), 249, 261(h), Oct. 20, 1994, 108 Stat. 3913, 3924, 3928; Pub. L. 105–244, title IX, §§951, 952, Oct. 7, 1998, 112 Stat. 1835, 1836; Pub. L. 106–386, div. B, title VI, §1601(d), Oct. 28, 2000, 114 Stat. 1538; Pub. L. 107–56, title V, §507, Oct. 26, 2001, 115 Stat. 367; Pub. L. 107–110, title X, §1062(3), Jan. 8, 2002, 115 Stat. 2088; Pub. L. 111–296, title I, §103(d), Dec. 13, 2010, 124 Stat. 3192.)
 
 #### References in Text
 
-This Act, referred to in subsec. (i)(1), is Pub. L. 90–247, Jan. 2, 1968, 80 Stat. 783, as amended, known as the Elementary and Secondary Education Amendments of 1967. Title IV of the Act, known as the General Education Provisions Act, is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under section 6301 of this title and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(1)(K), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (i)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, which is classified principally to chapter 28 (§1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Child Nutrition Act of 1966, referred to in subsec. (b)(1)(K), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
+
+Section 14071 of title 42, referred to in subsec. (b)(7)(A), was repealed by Pub. L. 109–248, title I, §129(a), July 27, 2006, 120 Stat. 600.
+
+This Act, referred to in subsec. (i)(1), is Pub. L. 90–247, Jan. 2, 1968, 80 Stat. 783, known as the Elementary and Secondary Education Amendments of 1967. Title IV of the Act, known as the General Education Provisions Act, is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under section 6301 of this title and Tables.
+
+The Higher Education Act of 1965, referred to in subsec. (i)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of this title and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Prior Provisions
 
@@ -194,7 +206,9 @@ A prior section 444 of Pub. L. 90–247 was classified to section 1233c of this 
 
 #### Amendments
 
-2002—Subsec. (a)(1)(B). Pub. L. 107–110, §1062(3)(A), realigned margins.
+<b>2010</b>—Subsec. (b)(1)(K). Pub. L. 111–296, which directed that par. (1) be amended by adding subpar. (K) “at the end”, was executed by adding subpar. (K) after subpar. (J), to reflect the probable intent of Congress.
+
+<b>2002</b>—Subsec. (a)(1)(B). Pub. L. 107–110, §1062(3)(A), realigned margins.
 
 Subsec. (b)(1). Pub. L. 107–110, §1062(3)(C), substituted “subparagraph (E)” for “clause (E)” in concluding provisions.
 
@@ -202,17 +216,17 @@ Subsec. (b)(1)(J). Pub. L. 107–110, §1062(3)(B), realigned margins.
 
 Subsec. (b)(7). Pub. L. 107–110, §1062(3)(D), realigned margins.
 
-2001—Subsec. (j). Pub. L. 107–56 added subsec. (j).
+<b>2001</b>—Subsec. (j). Pub. L. 107–56 added subsec. (j).
 
-2000—Subsec. (b)(7). Pub. L. 106–386 added par. (7).
+<b>2000</b>—Subsec. (b)(7). Pub. L. 106–386 added par. (7).
 
-1998—Subsec. (b)(1)(C). Pub. L. 105–244, §951(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “authorized representatives of (i) the Comptroller General of the United States, (ii) the Secretary, or (iii) State educational authorities, under the conditions set forth in paragraph (3) of this subsection;”.
+<b>1998</b>—Subsec. (b)(1)(C). Pub. L. 105–244, §951(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “authorized representatives of (i) the Comptroller General of the United States, (ii) the Secretary, or (iii) State educational authorities, under the conditions set forth in paragraph (3) of this subsection;”.
 
 Subsec. (b)(6). Pub. L. 105–244, §951(2), designated existing provisions as subpar. (A), substituted “or a nonforcible sex offense, the final results” for “the results”, substituted “such crime or offense” for “such crime” in two places, and added subpars. (B) and (C).
 
 Subsec. (i). Pub. L. 105–244, §952, added subsec. (i).
 
-1994—Subsec. (a)(1)(B). Pub. L. 103–382, §249(1)(A)(ii), added subpar. (B). Former subpar. (B) redesignated (C).
+<b>1994</b>—Subsec. (a)(1)(B). Pub. L. 103–382, §249(1)(A)(ii), added subpar. (B). Former subpar. (B) redesignated (C).
 
 Subsec. (a)(1)(C). Pub. L. 103–382, §249(1)(A)(i), (iii), redesignated subpar. (B) as (C) and substituted “subparagraph (D)” for “subparagraph (C)” in cl. (iii). Former subpar. (C) redesignated (D).
 
@@ -238,7 +252,7 @@ Subsec. (b)(2)(B). Pub. L. 103–382, §249(2)(B)(ii), inserted “except as pro
 
 Subsec. (b)(3). Pub. L. 103–382, §261(h)(2)(C), substituted “or (C)” for “(C) an administrative head of an education agency or (D)” and “education programs” for “education program”.
 
-Subsec. (b)(4). Pub. L. 103–382, §249(2)(C), inserted at end “If a third party outside the educational agency or institution permits access to information in violation of paragraph (2)(A), or fails to destroy information in violation of paragraph (1)(F), the educational agency or institution shall be prohibited from permitting access to information from education records to that third party for a period of not less than five years.”
+Subsec. (b)(4). Pub. L. 103–382, §249(2)(C), inserted at end “If a third party outside the educational agency or institution permits access to information in violation of paragraph (2)(A), or fails to destroy information inviolation of paragraph (1)(F), the educational agency or institution shall be prohibited from permitting access to information from education records to that third party for a period of not less than five years.”
 
 Subsec. (c). Pub. L. 103–382, §249(3), substituted “Not later than 240 days after October 20, 1994, the Secretary shall adopt appropriate regulations or procedures, or identify existing regulations or procedures, which” for “The Secretary shall adopt appropriate regulations to”.
 
@@ -252,13 +266,13 @@ Subsec. (g). Pub. L. 103–382, §261(h)(5), struck out “of Health, Education,
 
 Subsec. (h). Pub. L. 103–382, §249(5), added subsec. (h).
 
-1992—Subsec. (a)(4)(B)(ii). Pub. L. 102–325 amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “if the personnel of a law enforcement unit do not have access to education records under subsection (b)(1) of this section, the records and documents of such law enforcement unit which (I) are kept apart from records described in subparagraph (A), (II) are maintained solely for law enforcement purposes, and (III) are not made available to persons other than law enforcement officials of the same jurisdiction;”.
+<b>1992</b>—Subsec. (a)(4)(B)(ii). Pub. L. 102–325 amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “if the personnel of a law enforcement unit do not have access to education records under subsection (b)(1) of this section, the records and documents of such law enforcement unit which (I) are kept apart from records described in subparagraph (A), (II) are maintained solely for law enforcement purposes, and (III) are not made available to persons other than law enforcement officials of the same jurisdiction;”.
 
-1990—Subsec. (b)(6). Pub. L. 101–542 added par. (6).
+<b>1990</b>—Subsec. (b)(6). Pub. L. 101–542 added par. (6).
 
-1979—Subsec. (b)(5). Pub. L. 96–46 added par. (5).
+<b>1979</b>—Subsec. (b)(5). Pub. L. 96–46 added par. (5).
 
-1974—Subsec. (a)(1). Pub. L. 93–568, §2(a)(1)(A)–(C), (2)(A)–(C), (3), designated existing par. (1) as subpar. (A), substituted reference to educational agencies and institutions for reference to state or local educational agencies, institutions of higher education, community colleges, schools, agencies offering preschool programs, and other educational institutions, substituted the generic term education records for the enumeration of such records, and extended the right to inspect and review such records to parents of children who have been in attendance, and added subpars. (B) and (C).
+<b>1974</b>—Subsec. (a)(1). Pub. L. 93–568, §2(a)(1)(A)–(C), (2)(A)–(C), (3), designated existing par. (1) as subpar. (A), substituted reference to educational agencies and institutions for reference to state or local educational agencies, institutions of higher education, community colleges, schools, agencies offering preschool programs, and other educational institutions, substituted the generic term education records for the enumeration of such records, and extended the right to inspect and review such records to parents of children who have been in attendance, and added subpars. (B) and (C).
 
 Subsec. (a)(2). Pub. L. 93–568, §2(a)(4), substituted provisions making the availability of funds to educational agencies and institutions conditional on the granting of an opportunity for a hearing to parents of students who are or have been in attendance at such institution or agency to challenge the contents of the student's education records for provisions granting the parents an opportunity for such hearing, and inserted provisions authorizing insertion into the records a written explanation of the parents respecting the content of such records.
 
@@ -275,6 +289,10 @@ Subsec. (b)(4). Pub. L. 93–568, §2(a)(9), substituted provisions that each ed
 Subsec. (e). Pub. L. 93–568, §2(a)(1)(F), substituted “to any educational agency or institution unless such agency or institution” for “unless the recipient of such funds”.
 
 Subsec. (g). Pub. L. 93–568, §2(a)(7), (10)(B), struck out reference to sections 1232c and 1232f of this title and inserted provisions that except for the conduct of hearings, none of the functions of the Secretary under this section shall be carried out in any of the regional offices of such Department.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as a note under section 1751 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 2002 Amendment
 
@@ -301,4 +319,6 @@ Section 2(b) of Pub. L. 93–568 provided that: “The amendments made by subsec
 Section 513(b)(1) of Pub. L. 93–380 provided that: “The provisions of this section \[enacting this section and provisions set out as a note under section 1221 of this title\] shall become effective ninety days after the date of enactment \[Aug. 21, 1974\] of section 438 \[now 444\] of the General Education Provisions Act \[this section\].”
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

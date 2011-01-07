@@ -34,7 +34,7 @@ Reference to the pay grades corresponding to the military grades is omitted as u
 
 #### Amendments
 
-1991—Pub. L. 102–190 added par. (1) and redesignated former pars. (1) to (4) as (2) to (5), respectively.
+<b>1991</b>—Pub. L. 102–190 added par. (1) and redesignated former pars. (1) to (4) as (2) to (5), respectively.
 
 #### Effective Date of 1991 Amendment
 

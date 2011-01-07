@@ -10,7 +10,7 @@
 
 #### Amendments
 
-1988—Pub. L. 100–456 amended section generally, designating existing provisions as subsec. (a), inserting reference to military training, and adding subsecs. (b) and (c).
+<b>1988</b>—Pub. L. 100–456 amended section generally, designating existing provisions as subsec. (a), inserting reference to military training, and adding subsecs. (b) and (c).
 
 #### Short Title of 1986 Amendment
 
@@ -18,7 +18,7 @@ Pub. L. 99–570, title III, §3051, Oct. 27, 1986, 100 Stat. 3207–74, provide
 
 #### Authority for Joint Task Forces to Provide Support to Law Enforcement Agencies Conducting Counter-Terrorism Activities
 
-Pub. L. 108–136, div. A, title X, §1022, Nov. 24, 2003, 117 Stat. 1594, as amended by Pub. L. 109–163, div. A, title X, §1022, Jan. 6, 2006, 119 Stat. 3427; Pub. L. 110–181, div. A, title X, §1021, Jan. 28, 2008, 122 Stat. 304; Pub. L. 110–417, \[div. A\], title X, §1022, Oct. 14, 2008, 122 Stat. 4586; Pub. L. 111–84, div. A, title X, §1012, Oct. 28, 2009, 123 Stat. 2441, provided that:
+Pub. L. 108–136, div. A, title X, §1022, Nov. 24, 2003, 117 Stat. 1594, as amended by Pub. L. 109–163, div. A, title X, §1022, Jan. 6, 2006, 119 Stat. 3427; Pub. L. 110–181, div. A, title X, §1021, Jan. 28, 2008, 122 Stat. 304; Pub. L. 110–417, \[div. A\], title X, §1022, Oct. 14, 2008, 122 Stat. 4586; Pub. L. 111–84, div. A, title X, §1012, Oct. 28, 2009, 123 Stat. 2441; Pub. L. 111–383, div. A, title X, §1012(a)–(b)(2), Jan. 7, 2011, 124 Stat. 4346, 4347, provided that:
 
 “(a)
 
@@ -26,7 +26,7 @@ Authority.—A joint task force of the Department of Defense that provides suppo
 
 “(b)
 
-Availability of Funds.—During fiscal years 2006 through 2010, funds available to a joint task force to support counter-drug activities may also be used to provide the counter-terrorism support authorized by subsection (a).
+Availability of Funds.—During fiscal years 2006 through 2011, funds available to a joint task force to support counter-drug activities may also be used to provide the counter-terrorism support authorized by subsection (a).
 
 “(c)
 
@@ -38,7 +38,15 @@ Annual Report.—Not later than December 31 of each year after 2008 in which the
 
 &emsp;“(3) A list of current joint task forces conducting counter-drug operations.
 
+&emsp;“(4) A certification by the Secretary of Defense that any support provided under subsection (a) during such one-year period was provided in compliance with the requirements of subsection (d).
+
 “(d)
 
-Conditions.—Any support provided under subsection (a) may only be provided in the geographic area of responsibility of the joint task force.”
+Conditions.—(1) Any support provided under subsection (a) may only be provided in the geographic area of responsibility of the joint task force.
+
+“(2)(A) Support for counter-terrorism activities provided under subsection (a) may only be provided if the Secretary of Defense determines that the objectives of using the counter-drug funds of any joint task force to provide such support relate significantly to the objectives of providing support for counter-drug activities by that joint task force or any other joint task force.
+
+“(B) The Secretary of Defense may waive the requirements of subparagraph (A) if the Secretary determines that such a waiver is vital to the national security interests of the United States. The Secretary shall promptly submit to Congress notice in writing of any waiver issued under this subparagraph.
+
+“(C) The Secretary of Defense may delegate any responsibility of the Secretary under subparagraph (B) to the Deputy Secretary of Defense or to the Under Secretary of Defense for Policy. Except as provided in the preceding sentence, such a responsibility may not be delegated to any official of the Department of Defense or any other official.”
 

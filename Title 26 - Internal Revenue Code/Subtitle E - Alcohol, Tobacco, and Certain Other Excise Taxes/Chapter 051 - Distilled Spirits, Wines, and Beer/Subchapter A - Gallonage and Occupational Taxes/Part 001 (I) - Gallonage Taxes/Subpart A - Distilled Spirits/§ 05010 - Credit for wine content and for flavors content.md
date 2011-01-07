@@ -24,7 +24,7 @@
 
 &emsp;The credit allowable by subsection (a)—
 
-&emsp;&emsp;(A) shall be determined at the same time the tax is determined under section 5006 (or 7652) on the distilled spirits containing the wine or flavors, and
+&emsp;&emsp;(A) shall be determined at the same time the tax is determined under section 5006 (or7652) on the distilled spirits containing the wine or flavors, and
 
 &emsp;&emsp;(B) shall be allowable at the time the tax imposed by section 5001 (or 7652) on such distilled spirits is payable as if the credit allowable by this section constituted a reduction in the rate of tax.
 
@@ -74,13 +74,13 @@ A prior section 5010, act Aug. 16, 1954, ch. 736, 68A Stat. 603, related to misc
 
 #### Amendments
 
-2005—Subsec. (c)(2)(A). Pub. L. 109–59 substituted “section 5114” for “section 5134”.
+<b>2005</b>—Subsec. (c)(2)(A). Pub. L. 109–59 substituted “section 5114” for “section 5134”.
 
-1990—Subsec. (a)(1), (2). Pub. L. 101–508 substituted “$13.50” for “$12.50”.
+<b>1990</b>—Subsec. (a)(1), (2). Pub. L. 101–508 substituted “$13.50” for “$12.50”.
 
-1988—Subsec. (c)(2)(B). Pub. L. 100–647 added cl. (ii) and redesignated former cl. (ii) as (iii).
+<b>1988</b>—Subsec. (c)(2)(B). Pub. L. 100–647 added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-1984—Subsec. (a)(1), (2). Pub. L. 98–369 substituted “$12.50” for “$10.50”.
+<b>1984</b>—Subsec. (a)(1), (2). Pub. L. 98–369 substituted “$12.50” for “$10.50”.
 
 #### Effective Date of 2005 Amendment
 

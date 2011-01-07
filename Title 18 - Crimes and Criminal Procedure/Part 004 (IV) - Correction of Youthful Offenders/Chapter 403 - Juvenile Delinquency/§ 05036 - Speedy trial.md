@@ -16,5 +16,5 @@ Another section 506 of title V of Pub. L. 93–415, as added by Pub. L. 102–58
 
 #### Amendments
 
-1974—Pub. L. 93–415 amended section generally, substituting “Speedy trial” for “Contracts for support; payment” in section catchline, and substituting provisions relating to dismissal of information due to delay, for provisions relating to contracts with public or private agencies for custody and care of juvenile delinquents.
+<b>1974</b>—Pub. L. 93–415 amended section generally, substituting “Speedy trial” for “Contracts for support; payment” in section catchline, and substituting provisions relating to dismissal of information due to delay, for provisions relating to contracts with public or private agencies for custody and care of juvenile delinquents.
 

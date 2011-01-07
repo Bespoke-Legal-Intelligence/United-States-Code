@@ -28,7 +28,7 @@ Provisions similar to those in subsecs. (a) and (b) of this section were contain
 
 #### Amendments
 
-1996—Subsec. (c)(5). Pub. L. 104–201 struck out par. (5) which read as follows: “The Secretary shall coordinate the Program with the National Defense Technology and Industrial Base Council.”
+<b>1996</b>—Subsec. (c)(5). Pub. L. 104–201 struck out par. (5) which read as follows: “The Secretary shall coordinate the Program with the National Defense Technology and Industrial Base Council.”
 
 #### National Action Plan on Advanced Superconductivity Research and Development
 
@@ -38,7 +38,7 @@ Superconductivity research and development activities by Secretary of Defense an
 
 Pub. L. 100–180, div. A, title II, §218(c), Dec. 4, 1987, 101 Stat. 1053, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that:
 
-“(1) The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall take appropriate action to ensure that high-temperature superconductivity technology resulting from the research activities of the Department of Defense is transferred to the private sector. Such transfer shall be made in accordance with section 10(e) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710(e)), other applicable provisions of law, and Executive Order Number 12591, dated April 10, 1987 \[set out as a note under 15 U.S.C. 3710\].
+“(1) The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall take appropriate action to ensure that high-temperature superconductivity technology resulting from the research activities of the Department of Defense is transferred to the private sector. Such transfer shall be made in accordance with section 10(e) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710(e)), other applicableprovisions of law, and Executive Order Number 12591, dated April 10, 1987 \[set out as a note under 15 U.S.C. 3710\].
 
 “(2) The Secretary of Energy, in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall ensure that the national laboratories of the Department of Energy participate, to the maximum appropriate extent, in the transfer to the private sector of technology developed under the Department of Defense superconductivity program in the national laboratories.”
 

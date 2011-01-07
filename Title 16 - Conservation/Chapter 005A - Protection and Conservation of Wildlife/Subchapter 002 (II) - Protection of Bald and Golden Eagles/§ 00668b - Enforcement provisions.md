@@ -16,7 +16,7 @@ All provisions of law relating to the seizure, forfeiture, and condemnation of a
 
 #### Amendments
 
-1972—Pub. L. 92–535 substituted provisions relating to enforcement of this subchapter including arrest, without warrant, issuance and execution of warrants and process, search, forfeiture, and applicability of certain customs laws, for provisions incorporating provisions of section 706 in haec verba.
+<b>1972</b>—Pub. L. 92–535 substituted provisions relating to enforcement of this subchapter including arrest, without warrant, issuance and execution of warrants and process, search, forfeiture, and applicability of certain customs laws, for provisions incorporating provisions of section 706 in haec verba.
 
 #### Change of Name
 

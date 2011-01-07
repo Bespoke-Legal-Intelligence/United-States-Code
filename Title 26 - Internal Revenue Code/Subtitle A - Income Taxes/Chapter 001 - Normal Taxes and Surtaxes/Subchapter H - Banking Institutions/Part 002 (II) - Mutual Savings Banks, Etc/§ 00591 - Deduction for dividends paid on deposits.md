@@ -16,9 +16,9 @@ For purposes of this part, the term “mutual savings bank” includes any bank�
 
 #### Amendments
 
-1981—Pub. L. 97–34 designated existing provisions as subsec. (a), inserted heading “In general”, and added subsec. (b).
+<b>1981</b>—Pub. L. 97–34 designated existing provisions as subsec. (a), inserted heading “In general”, and added subsec. (b).
 
-1962—Pub. L. 87–834 included other savings institutions chartered and supervised as savings and loan or similar associations under Federal or State law, and authorized amounts paid as interest as a deduction.
+<b>1962</b>—Pub. L. 87–834 included other savings institutions chartered and supervised as savings and loan or similar associations under Federal or State law, and authorized amounts paid as interest as a deduction.
 
 #### Effective Date of 1981 Amendment
 

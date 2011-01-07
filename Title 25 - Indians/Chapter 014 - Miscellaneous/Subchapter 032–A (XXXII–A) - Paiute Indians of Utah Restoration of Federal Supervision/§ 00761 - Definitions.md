@@ -16,7 +16,7 @@ For the purposes of this subchapter—
 
 #### Amendments
 
-2005—Par. (1). Pub. L. 109–126 substituted “Cedar” for “Cedar City”.
+<b>2005</b>—Par. (1). Pub. L. 109–126 substituted “Cedar” for “Cedar City”.
 
 #### Short Title
 

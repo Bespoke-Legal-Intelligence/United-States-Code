@@ -22,7 +22,7 @@ For purposes of this section—
 
 #### (2) Highly erodible cropland
 
-&emsp;The term “highly erodible cropland” means any highly erodible cropland (as defined in section 1201(6) <sup>1</sup> of the Food Security Act of1985 (16 U.S.C. 3801(6))), if at any time the taxpayer used such land for farming purposes (other than the grazing of animals).
+&emsp;The term “highly erodible cropland” means any highly erodible cropland (as defined in section 1201(6) <sup>1</sup> of the Food Security Act of 1985 (16 U.S.C. 3801(6))), if at any time the taxpayer used such land for farming purposes (other than the grazing of animals).
 
 #### (3) Treatment of successors
 
@@ -44,13 +44,13 @@ Section 1201(4) of the Food Security Act of 1985 (16 U.S.C. 3801(4)) and section
 
 #### Amendments
 
-2003—Subsec. (d). Pub. L. 108–27, §§302(e)(4)(B)(ii), 303, temporarily struck out “, 341(e)(12),” after “170(e)”. See Effective and Termination Dates of 2003 Amendment note below.
+<b>2003</b>—Subsec. (d). Pub. L. 108–27, §§302(e)(4)(B)(ii), 303, temporarily struck out “, 341(e)(12),” after “170(e)”. See Effective and Termination Dates of 2003 Amendment note below.
 
 #### Effective and Termination Dates of 2003 Amendment
 
 Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as a note under section 1 of this title.
 
-Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
+Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
 
 #### Effective Date
 

@@ -8,7 +8,7 @@
 
 (3) For purposes of paragraphs (1) and (2), any reference to a provision of this chapter or to a section of this chapter shall be treated as including any regulation issued to carry out any such provision or section.
 
-(4) No civil penalty may be assessed under this subsection unless the person accused of the violation is given notice and opportunity for a hearing with respect to the violation. Each violation shall be a separate offense and the offense shall be deemed to have been committed not only in the district where the violation first occurred, but also in any district in which a person may have taken or been in possession of the said fish or wildlife or plants.
+(4) No civil penalty may be assessed under this subsection unless the person accused of the violation is given notice and opportunity for a hearing with respect to the violation. Each violation shall be a separate offense and the offense shall be deemed to have been committed not only in the district where the violation first occurred, but also in any district in which a personmay have taken or been in possession of the said fish or wildlife or plants.
 
 (5) Any civil penalty assessed under this subsection may be remitted or mitigated by the Secretary.
 
@@ -34,7 +34,7 @@ Any person against whom a civil penalty is assessed under this section may obtai
 
 (2) Any person who knowingly engages in conduct prohibited by any provision of this chapter (other than subsections (b), (d), and (f) of section 3372 of this title) and in the exercise of due care should know that the fish or wildlife or plants were taken, possessed, transported, or sold in violation of, or in a manner unlawful under, any underlying law, treaty or regulation shall be fined not more than $10,000, or imprisoned for not more than one year, or both. Each violation shall be a separate offense and the offense shall be deemed to have been committed not only in the district where the violation first occurred, but also in any district in which the defendant may have taken or been in possession of the said fish or wildlife or plants.
 
-(3) Any person who knowingly violates section subsection (d) or (f) of section 3372 of this title—
+(3) Any person who knowingly violates subsection (d) or (f) of section 3372 of this title—
 
 &emsp;(A) shall be fined under title 18 or imprisoned for not more than 5 years, or both, if the offense involves—
 
@@ -64,7 +64,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–246, §8204(f), made technical corrections to directory language of Pub. L. 100–653, §102(c). See 1988 Amendment note below.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §8204(f), made technical corrections to directory language of Pub. L. 100–653, §102(c). See 1988 Amendment note below.
 
 Pub. L. 110–246, §8204(c)(1), (2), substituted “subsections (b), (d), and (f) of section 3372” for “subsections (b) and (d) of section 3372” and “subsection (d) or (f) of section 3372” for “section 3372(d)”.
 
@@ -76,7 +76,7 @@ Pub. L. 110–246, §8204(c)(1), substituted “subsections (b), (d), and (f) of
 
 Subsec. (d)(3). Pub. L. 110–246, §8204(c)(2), substituted “subsection (d) or (f) of section 3372” for “section 3372(d)” in introductory provisions.
 
-1988—Subsec. (a)(1). Pub. L. 100–653, §102(c), as amended by Pub. L. 110–246, §8204(f), substituted “(other than subsections (b) and (d) of section 3372 of this title)” for “(other than subsection 3372(b) of this title)”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–653, §102(c), as amended by Pub. L. 110–246, §8204(f), substituted “(other than subsections (b) and (d) of section 3372 of this title)” for “(other than subsection 3372(b) of this title)”.
 
 Pub. L. 100–653, §102(a), inserted “and any person who knowingly violates section 3372(d) of this title,” after “any underlying law, treaty, or regulation,”.
 

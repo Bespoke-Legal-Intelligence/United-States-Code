@@ -54,7 +54,7 @@ A prior section 624, act Aug. 14, 1935, ch. 531, title IV, §424, as added Pub. 
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–288, §11(a)(2), substituted “percent” for “per centum”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–288, §11(a)(2), substituted “percent” for “per centum”.
 
 Subsecs. (c), (d). Pub. L. 109–288, §6(e)(1), added subsecs. (c) and (d) struck out former subsecs. (c) and (d) which related to prohibited payments and minimum State expenditures, respectively.
 
@@ -62,13 +62,13 @@ Subsec. (e). Pub. L. 109–288, §7(b), added subsec. (e) relating to caseworker
 
 Pub. L. 109–288, §6(e)(2)(A), added subsec. (e) relating to limitation on reimbursement for administrative costs.
 
-1994—Subsec. (a). Pub. L. 103–432 struck out “and in section 627 of this title” after “set forth in this section”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–432 struck out “and in section 627 of this title” after “set forth in this section”.
 
-1993—Subsec. (a). Pub. L. 103–66 substituted “under this subpart” for “under this part”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–66 substituted “under this subpart” for “under this part”.
 
-1980—Pub. L. 96–272 substituted provisions covering payments to States for provisions relating to allotment percentages and Federal share.
+<b>1980</b>—Pub. L. 96–272 substituted provisions covering payments to States for provisions relating to allotment percentages and Federal share.
 
-1976—Subsec. (c). Pub. L. 94–273 substituted “October” for “July” wherever appearing and “November 30” for “August 31”.
+<b>1976</b>—Subsec. (c). Pub. L. 94–273 substituted “October” for “July” wherever appearing and “November 30” for “August 31”.
 
 #### Effective Date of 2006 Amendment
 

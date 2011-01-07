@@ -18,7 +18,7 @@ Office of the Secretary”, for amounts used from such account to pay the salari
 
 (2) The Secretary of the Senate may transfer from the fund to the Capitol Preservation Fund the net profits (as determined by the Secretary) from sales of items by the Senate Gift Shop which are intended to benefit the Capitol Visitor Center.
 
-(3) The Secretary of the Senate may transfer from the fund to the Senate Employee ChildCare Center proceeds from the sale of holiday ornaments by the Senate Gift Shop for the purpose of funding necessary activities and expenses of the Center, including scholarships, educational supplies, and equipment.
+(3) The Secretary of the Senate may transfer from the fund to the Senate Employee Child Care Center proceeds from the sale of holiday ornaments by the Senate Gift Shop for the purpose of funding necessary activities and expenses of the Center, including scholarships, educational supplies, and equipment.
 
 #### (d) Exception to prohibition of sale or solicitation on Capitol Grounds
 
@@ -40,7 +40,7 @@ Disbursements from the fund shall be made upon vouchers approved by the Secretar
 
 The Secretary of the Senate is authorized to prescribe such regulations as may be necessary to carry out the provisions of this section.
 
-(Pub. L. 102–392, title I, §2, Oct. 6, 1992, 106 Stat. 1706; Pub. L. 107–68, title I, §107(a), Nov. 12, 2001, 115 Stat. 568; Pub. L. 110–39, §1, June 21, 2007, 121 Stat. 231.)
+(Pub. L. 102–392, title I, §2, Oct. 6, 1992, 106 Stat. 1706; Pub. L. 107–68, title I, §107(a), Nov. 12, 2001,115 Stat. 568; Pub. L. 110–39, §1, June 21, 2007, 121 Stat. 231.)
 
 #### References in Text
 

@@ -28,7 +28,7 @@ The Task Force shall carry out the following activities:
 
 &emsp;(6) Engage in consultation and advocacy with governmental and nongovernmental organizations, among other entities, to advance the purposes of this chapter.
 
-&emsp;(7) Not later than May 1, 2004, and annually thereafter, the Attorney General shall submit to the Committee on Ways and Means, the Committee on Foreign Affairs, and the Committee on the Judiciary of the House of Representatives and the Committee on Finance, the Committee on Foreign Relations, and the Committee on the Judiciary of the Senate, areport on Federal agencies that are implementing any provision of this chapter, or any amendment made by this chapter, which shall include, at a minimum, information on—
+&emsp;(7) Not later than May 1, 2004, and annually thereafter, the Attorney General shall submit to the Committee on Ways and Means, the Committee on Foreign Affairs, and the Committee on the Judiciary of the House of Representatives and the Committee on Finance, the Committee on Foreign Relations, and the Committee on the Judiciary of the Senate, a report on Federal agencies that are implementing any provision of this chapter, or any amendment made by this chapter, which shall include, at a minimum, information on—
 
 &emsp;&emsp;(A) the number of persons who received benefits or other services under subsections (b) and (f) <sup>1</sup> of section 7105 of this title in connection with programs or activities funded or administered by the Secretary of Health and Human Services, the Secretary of Labor, the Attorney General, the Board of Directors of the Legal Services Corporation, and other appropriate Federal agencies during the preceding fiscal year;
 
@@ -134,7 +134,7 @@ Executive Order No. 13257, referred to in subsec. (f)(2)(A), is set out as a not
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–457, §101, inserted “the Secretary of Education,” after “the Secretary of Homeland Security,”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–457, §101, inserted “the Secretary of Education,” after “the Secretary of Homeland Security,”.
 
 Subsec. (d)(7). Pub. L. 110–457, §304(a), substituted “Committee on Foreign Affairs” for “Committee on International Relations” in introductory provisions.
 
@@ -144,11 +144,11 @@ Subsec. (d)(7)(H) to (J). Pub. L. 110–457, §231(2)–(4), added subpars. (H) 
 
 Subsec. (e). Pub. L. 110–457, §102, substituted “Office To Monitor and Combat Trafficking” for “Support for the Task Force” in subsec. heading, designated existing provisions as par. (1) and inserted par. heading, substituted “The Secretary of State shall” for “The Secretary of State is authorized to”, and added par. (2).
 
-2006—Subsec. (b). Pub. L. 109–164, §104(a), substituted “the Director of National Intelligence, the Secretary of Defense, the Secretary of Homeland Security” for “the Director of Central Intelligence”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–164, §104(a), substituted “the Director of National Intelligence, the Secretary of Defense, the Secretary of Homeland Security” for “the Director of Central Intelligence”.
 
 Subsec. (d)(7)(G), (H). Pub. L. 109–164, §205, added subpar. (G) and redesignated former subpar. (G) as (H).
 
-2003—Subsec. (d)(7). Pub. L. 108–193, §6(a)(1), added par. (7).
+<b>2003</b>—Subsec. (d)(7). Pub. L. 108–193, §6(a)(1), added par. (7).
 
 Subsec. (e). Pub. L. 108–193, §6(b)(1), inserted before period at end of second sentence “, who shall be appointed by the President, by and with the advice and consent of the Senate, with the rank of Ambassador-at-Large”.
 

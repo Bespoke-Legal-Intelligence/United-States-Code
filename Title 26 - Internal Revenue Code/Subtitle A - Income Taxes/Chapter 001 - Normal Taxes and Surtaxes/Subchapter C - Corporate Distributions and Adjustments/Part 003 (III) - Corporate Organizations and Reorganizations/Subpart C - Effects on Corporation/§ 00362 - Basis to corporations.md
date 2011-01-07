@@ -34,7 +34,7 @@ If property was acquired by a corporation in connection with a reorganization to
 
 &emsp;&emsp;(B) is not contributed by a shareholder as such,
 
-> &emsp;then the basis of any property acquired with such money during the 12-month period beginning on the day the contribution is received shall be reduced by the amount of such contribution. The excess (if any) of the amount ofsuch contribution over the amount of the reduction under the preceding sentence shall be applied to the reduction (as of the last day of the period specified in the preceding sentence) of the basis of any other property held by the taxpayer. The particular properties to which the reductions required by this paragraph shall be allocated shall be determined under regulations prescribed by the Secretary.
+> &emsp;then the basis of any property acquired with such money during the 12-month period beginning on the day the contribution is received shall be reduced by the amount of such contribution. The excess (if any) of the amount of such contribution over the amount of the reduction under the preceding sentence shall be applied to the reduction (as of the last day of the period specified in the preceding sentence) of the basis of any other property held by the taxpayer. The particular properties to which the reductions required by this paragraph shall be allocated shall be determined under regulations prescribed by the Secretary.
 
 #### (d) Limitation on basis increase attributable to assumption of liability
 
@@ -88,7 +88,7 @@ If property was acquired by a corporation in connection with a reorganization to
 
 #### (B) Allocation of basis reduction
 
-&emsp;&emsp;The aggregate reduction in basis by reason of subparagraph (A) shall be allocated among the property so transferred in proportion to their respective built-in losses immediately before the transaction.
+&emsp;&emsp;The aggregate reduction in basis by reason of subparagraph (A) shall be allocatedamong the property so transferred in proportion to their respective built-in losses immediately before the transaction.
 
 #### (C) Election to apply limitation to transferor's stock basis
 
@@ -108,19 +108,19 @@ If property was acquired by a corporation in connection with a reorganization to
 
 #### Amendments
 
-2005—Subsec. (e)(2)(C)(ii). Pub. L. 109–135 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “An election under clause (i) shall be included with the return of tax for the taxable year in which the transaction occurred, shall be in such form and manner as the Secretary may prescribe, and, once made, shall be irrevocable.”
+<b>2005</b>—Subsec. (e)(2)(C)(ii). Pub. L. 109–135 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “An election under clause (i) shall be included with the return of tax for the taxable year in which the transaction occurred, shall be in such form and manner as the Secretary may prescribe, and, once made, shall be irrevocable.”
 
-2004—Subsec. (e). Pub. L. 108–357 added subsec. (e).
+<b>2004</b>—Subsec. (e). Pub. L. 108–357 added subsec. (e).
 
-1999—Subsec. (d). Pub. L. 106–36 added subsec. (d).
+<b>1999</b>—Subsec. (d). Pub. L. 106–36 added subsec. (d).
 
-1986—Subsec. (c)(3). Pub. L. 99–514 struck out par. (3) relating to exceptions for contributions in aid of construction.
+<b>1986</b>—Subsec. (c)(3). Pub. L. 99–514 struck out par. (3) relating to exceptions for contributions in aid of construction.
 
-1976—Subsec. (c)(2)(B). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (c)(2)(B). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (c)(3). Pub. L. 94–455, §2120(b), added par. (3).
 
-1968—Subsec. (b). Pub. L. 90–621 substituted the exchange of stock or securities of the transferee (or of a corporation which is in control of the transferee) for the issuance of stock or securities of the transferee as the transaction rendering the subsection applicable.
+<b>1968</b>—Subsec. (b). Pub. L. 90–621 substituted the exchange of stock or securities of the transferee (or of a corporation which is in control of the transferee) for the issuance of stock or securities of the transferee as the transaction rendering the subsection applicable.
 
 #### Effective Date of 2005 Amendment
 

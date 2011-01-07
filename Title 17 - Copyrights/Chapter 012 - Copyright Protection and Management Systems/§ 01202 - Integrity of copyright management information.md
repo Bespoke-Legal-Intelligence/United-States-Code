@@ -94,5 +94,5 @@ The effective date of this chapter, referred to in subsec. (e)(2)(B)(ii)(II), is
 
 #### Amendments
 
-1999—Subsec. (e)(2)(B). Pub. L. 106–44 substituted “category of works” for “category or works” in introductory provisions.
+<b>1999</b>—Subsec. (e)(2)(B). Pub. L. 106–44 substituted “category of works” for “category or works” in introductory provisions.
 

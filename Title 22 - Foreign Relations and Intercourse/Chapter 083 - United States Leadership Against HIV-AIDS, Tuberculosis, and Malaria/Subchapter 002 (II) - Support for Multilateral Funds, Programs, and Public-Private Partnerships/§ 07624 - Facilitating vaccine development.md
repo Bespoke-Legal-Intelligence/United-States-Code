@@ -24,7 +24,7 @@ The Administrator of the United States Agency for International Development, uti
 
 &emsp;In negotiating the United States participation in programs for advanced market commitments, the Secretary of the Treasury shall take into account whether programs for advance market commitments include—
 
-&emsp;&emsp;(A) legally binding contracts for product purchase that include a fair market price forup to a maximum number of treatments, creating a strong market incentive;
+&emsp;&emsp;(A) legally binding contracts for product purchase that include a fair market price for up to a maximum number of treatments, creating a strong market incentive;
 
 &emsp;&emsp;(B) clearly defined and transparent rules of program participation for qualified developers and suppliers of the product;
 

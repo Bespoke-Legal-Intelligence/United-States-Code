@@ -58,7 +58,7 @@ For purposes of this section—
 
 &emsp;(E) the name of the person responsible for making notifications under subsection (d), who shall be an individual whose primary responsibility is overseeing the program.
 
-(3) For the major program for which a Baseline Report has been submitted, subsequentMajor Program Annual Reports shall describe any changes to the information that had been provided in the Baseline Report, and the reasons for those changes.
+(3) For the major program for which a Baseline Report has been submitted, subsequent Major Program Annual Reports shall describe any changes to the information that had been provided in the Baseline Report, and the reasons for those changes.
 
 #### (d) Notification to Under Secretary of excess development costs
 
@@ -70,7 +70,7 @@ For purposes of this section—
 
 #### (e) Determination by Under Secretary of excess development costs
 
-Not later than 30 days after receiving a written notification under subsection (d)(2), the Under Secretary shall determine whether the development cost of the program has exceeded the estimate provided in the Baseline Report of the program by 20 percent or more. If the determination is affirmative, the Under Secretary shall—
+Not later than 30 days after receiving a written notification under subsection (d)(2), the Under Secretary shall determine whether the development cost of the program has exceeded the estimate provided in the Baseline Report ofthe program by 20 percent or more. If the determination is affirmative, the Under Secretary shall—
 
 &emsp;(1) transmit to the appropriate congressional committees, not later than 15 days after making the determination, a report that includes—
 

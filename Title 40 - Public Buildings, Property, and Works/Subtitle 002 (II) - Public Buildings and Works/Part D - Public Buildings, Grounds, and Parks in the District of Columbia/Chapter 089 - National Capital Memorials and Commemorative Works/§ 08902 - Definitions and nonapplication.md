@@ -60,7 +60,7 @@ Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (a)(4),
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–126 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “In this chapter, the following definitions apply:
+<b>2003</b>—Subsec. (a). Pub. L. 108–126 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “In this chapter, the following definitions apply:
 
 &emsp;“(1)
 

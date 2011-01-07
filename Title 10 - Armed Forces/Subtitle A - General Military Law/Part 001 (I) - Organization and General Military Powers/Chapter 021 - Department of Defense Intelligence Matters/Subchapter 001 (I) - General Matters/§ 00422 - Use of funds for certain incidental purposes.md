@@ -2,7 +2,7 @@
 
 (a)
 
-Counterintelligence Official Reception and Representation Expenses.—The Secretary of Defense may use funds available to the Department of Defense for counterintelligence programs to pay the expenses of hosting foreign officials in the United States under the auspices of the Department of Defense for consultation on counterintelligence matters.
+Counterintelligence Official Reception and Representation Expenses.—The Secretaryof Defense may use funds available to the Department of Defense for counterintelligence programs to pay the expenses of hosting foreign officials in the United States under the auspices of the Department of Defense for consultation on counterintelligence matters.
 
 (b)
 
@@ -12,7 +12,7 @@ Promotional Items for Recruitment Purposes.—The Secretary of Defense may use f
 
 #### Amendments
 
-2001—Pub. L. 107–108 substituted “Use of funds for certain incidental purposes” for “Counterintelligence official reception and representation expenses” in section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2001</b>—Pub. L. 107–108 substituted “Use of funds for certain incidental purposes” for “Counterintelligence official reception and representation expenses” in section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-1987—Pub. L. 100–26 renumbered section 140a of this title as this section.
+<b>1987</b>—Pub. L. 100–26 renumbered section 140a of this title as this section.
 

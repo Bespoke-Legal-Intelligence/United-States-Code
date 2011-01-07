@@ -12,9 +12,9 @@
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–446 substituted “Veterans Health Administration” for “Department of Medicine and Surgery” wherever appearing.
+<b>1994</b>—Subsec. (a). Pub. L. 103–446 substituted “Veterans Health Administration” for “Department of Medicine and Surgery” wherever appearing.
 
-1991—Pub. L. 102–40 renumbered section 4335 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 4335 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83 substituted “Secretary” for “Administrator” in introductory provisions.
 

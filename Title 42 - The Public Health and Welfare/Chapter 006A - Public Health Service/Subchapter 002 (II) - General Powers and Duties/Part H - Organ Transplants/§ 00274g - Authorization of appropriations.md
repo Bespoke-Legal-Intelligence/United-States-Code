@@ -6,5 +6,5 @@ For the purpose of carrying out this part, there are authorized to be appropriat
 
 #### Amendments
 
-1998—Pub. L. 105–196 made technical amendment relating to placement of section within part H of this subchapter.
+<b>1998</b>—Pub. L. 105–196 made technical amendment relating to placement of section within part H of this subchapter.
 

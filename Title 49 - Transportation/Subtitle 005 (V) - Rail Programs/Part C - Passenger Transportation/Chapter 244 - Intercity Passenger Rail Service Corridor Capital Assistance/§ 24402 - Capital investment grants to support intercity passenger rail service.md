@@ -120,7 +120,7 @@ Federal Share of Net Project Cost.—
 
 &emsp;(2) Up to an additional 20 percent of the required non-Federal funds may be funded from amounts appropriated to or made available to a department or agency of the Federal Government that are eligible to be expended for transportation.
 
-&emsp;(3) The following amounts, not to exceed $15,000,000 per fiscal year, shall be available toeach applicant as a credit toward an applicant's matching requirement for a grant awarded under this section—
+&emsp;(3) The following amounts, not to exceed $15,000,000 per fiscal year, shall be available to each applicant as a credit toward an applicant's matching requirement for a grant awarded under this section—
 
 &emsp;&emsp;(A) in each of fiscal years 2009, 2010, and 2011—
 
@@ -193,6 +193,10 @@ Section 22506 of this title, referred to in subsec. (d), probably should be a re
 Section 22504(a)(5) of this title, referred to in subsec. (e), probably should be a reference to section 22705(a)(5) of this title, which requires each State rail plan to contain a long-range rail investment program that includes a list of any rail capital projects expected to be undertaken or supported in whole or in part by the State. Section 22504(a) of this title does not contain a par. (5).
 
 Section 101 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsecs. (e) and (k), is section 101 of title I of div. B of Pub. L. 110–432, Oct. 16, 2008, 122 Stat. 4908, which is not classified to the Code.
+
+#### Deemed References to Chapters 509 and 511 of Title 51
+
+General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “of”.</i>
 

@@ -6,9 +6,9 @@ The President is authorized from time to time, as the exigencies of the service 
 
 #### Amendments
 
-1970—Pub. L. 91–271 struck out provisions limiting the number of customs-collection districts and ports of entry to those established and authorized as of Aug. 1, 1914, except as thereafter provided by law, and provisions requiring the collector of customs of each customs-collection district to be officially designated by the number of the district for which appointed.
+<b>1970</b>—Pub. L. 91–271 struck out provisions limiting the number of customs-collection districts and ports of entry to those established and authorized as of Aug. 1, 1914, except as thereafter provided by law, and provisions requiring the collector of customs of each customs-collection district to be officially designated by the number of the district for which appointed.
 
-1928—Act May 29, 1928, provided for discontinuance of the statement or report as required by a proviso at end of section which read as follows: “That the President shall, at the beginning of each regular session, submit to Congress a statement of all acts, if any, done under the provisions of this section and the reasons therefor.”
+<b>1928</b>—Act May 29, 1928, provided for discontinuance of the statement or report as required by a proviso at end of section which read as follows: “That the President shall, at the beginning of each regular session, submit to Congress a statement of all acts, if any, done under the provisions of this section and the reasons therefor.”
 
 #### Effective Date of 1970 Amendment
 

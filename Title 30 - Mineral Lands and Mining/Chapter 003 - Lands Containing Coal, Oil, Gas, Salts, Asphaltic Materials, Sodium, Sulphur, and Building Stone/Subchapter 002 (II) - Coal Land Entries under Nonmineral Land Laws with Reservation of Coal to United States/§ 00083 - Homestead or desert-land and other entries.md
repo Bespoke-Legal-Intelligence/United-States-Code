@@ -6,11 +6,11 @@ Unreserved public lands of the United States exclusive of Alaska which have been
 
 #### References in Text
 
-The Act approved June seventeenth, nineteen hundred and two, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
+The Act approved June seventeenth, nineteen hundred and two, referred to in text, is act June 17, 1902,ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
 
 #### Amendments
 
-1955—Act June 16, 1955, removed 160-acre limitation on desert entry.
+<b>1955</b>—Act June 16, 1955, removed 160-acre limitation on desert entry.
 
 #### Additional Desert-Land Entry
 

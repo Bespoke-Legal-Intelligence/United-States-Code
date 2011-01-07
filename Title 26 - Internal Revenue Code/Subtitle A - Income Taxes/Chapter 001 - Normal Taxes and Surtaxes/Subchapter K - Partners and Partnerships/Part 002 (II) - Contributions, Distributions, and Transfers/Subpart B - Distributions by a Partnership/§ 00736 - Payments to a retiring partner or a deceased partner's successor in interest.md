@@ -34,13 +34,13 @@ Payments made in liquidation of the interest of a retiring partner or a deceased
 
 #### Amendments
 
-1993—Subsec. (b)(3). Pub. L. 103–66, §13262(a), added par. (3).
+<b>1993</b>—Subsec. (b)(3). Pub. L. 103–66, §13262(a), added par. (3).
 
 Subsec. (c). Pub. L. 103–66, §13262(b)(2)(B), struck out heading and text of subsec. (c). Text read as follows: “For limitation on the tax attributable to certain gain connected with section 1248 stock, see section 751(e).”
 
-1978—Subsec. (c). Pub. L. 95–600 added subsec. (c).
+<b>1978</b>—Subsec. (c). Pub. L. 95–600 added subsec. (c).
 
-1976—Subsec. (b)(1). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b)(1). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 1993 Amendment
 

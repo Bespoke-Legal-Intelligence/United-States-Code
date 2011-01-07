@@ -24,7 +24,7 @@ Administrative Fees.—(1) The Secretary of Defense shall charge a fee for each 
 
 #### Amendments
 
-2000—Subsec. (d). Pub. L. 106–398 designated existing provisions as par. (1) and added par. (2).
+<b>2000</b>—Subsec. (d). Pub. L. 106–398 designated existing provisions as par. (1) and added par. (2).
 
 #### Effective Date of 2000 Amendment
 

@@ -4,17 +4,13 @@ There is hereby established in and as a part of the Department of Commerce a Com
 
 (Pub. L. 88–352, title X, §1001(a), July 2, 1964, 78 Stat. 267; Pub. L. 95–624, §5, Nov. 9, 1978, 92 Stat. 3462.)
 
-#### References in Text
-
-The civil service laws, referred to in text, are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 #### Codification
 
 References to “chapter 51 and subchapter III of chapter 53 of title 5” and “section 3109 of title 5” substituted in text for “the Classification Act of 1949, as amended” and “section 15 of the Act of August 2, 1946 (60 Stat. 810; 5 U.S.C. 55a)”, respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 
-1978—Pub. L. 95–624 struck out provision authorizing the Director to procure the services of experts and consultants at rates for individuals not in excess of $75 per diem.
+<b>1978</b>—Pub. L. 95–624 struck out provision authorizing the Director to procure the services of experts and consultants at rates for individuals not in excess of $75 per diem.
 
 #### <b>REORGANIZATION PLAN NO. 1 OF 1966</b>
 

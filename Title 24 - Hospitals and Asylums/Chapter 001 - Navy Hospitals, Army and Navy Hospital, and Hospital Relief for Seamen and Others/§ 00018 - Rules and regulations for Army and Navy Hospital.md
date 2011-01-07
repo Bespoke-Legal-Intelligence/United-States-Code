@@ -6,7 +6,7 @@ The Army and Navy General Hospital at Hot Springs, Arkansas, shall be subject to
 
 #### Amendments
 
-1930—Act June 18, 1930, provided that the hospital was to be subject to the jurisdiction and control of the Department of War.
+<b>1930</b>—Act June 18, 1930, provided that the hospital was to be subject to the jurisdiction and control of the Department of War.
 
 #### Change of Name
 

@@ -32,9 +32,9 @@ The Secretary shall award grants under this section in the same manner, and with
 
 &emsp;(1) the award rules and determination of need applicable to the calculation of Federal Pell Grants, shall not apply to grants made under this section;
 
-&emsp;(2) the provisions of subsection (a)(3), subsection (b)(1), the matter following subsection (b)(2)(A)(v), subsection (b)(3), and subsection (f), of section 1070a of this title shall not apply; and
+&emsp;(2) the provisions of subsection (a)(3), subsection (b)(1), the matter following subsection (b)(2)(A)(v),<sup>1</sup> subsection (b)(3), and subsection (f), of section 1070a of this title shall not apply; and
 
-&emsp;(3) a grant made under this section to an eligible veteran's dependent for any award year shall equal the maximum Federal Pell Grant available for that award year, except that such a grant under this section—
+&emsp;(3) a grant made under this section to an eligible veteran's dependent for any award yearshall equal the maximum Federal Pell Grant available for that award year, except that such a grant under this section—
 
 &emsp;&emsp;(A) shall not exceed the cost of attendance of the eligible veteran's dependent for that award year; and
 
@@ -50,7 +50,13 @@ There are authorized to be appropriated, and there are appropriated, out of any 
 
 (Pub. L. 89–329, title IV, §420R, as added Pub. L. 111–39, title IV, §401(a)(9), July 1, 2009, 123 Stat. 1939.)
 
+#### References in Text
+
+Section 1070a(b)(2)(A) of this title, referred to in subsec. (d)(2), as originally enacted, contained cls. (i) to (vi) followed by concluding provisions. Section 1070a(b)(2)(A) of this title was amended generally by section 2101(a)(1) of Pub. L. 111–152 and, as so amended, no longer contains either a cl. (v) or concluding provisions.
+
 #### Effective Date
 
 Pub. L. 111–39, title IV, §401(b), July 1, 2009, 123 Stat. 1940, provided that: “The amendment made by subsection (a)(9) \[enacting this subpart\] shall take effect on July 1, 2010.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

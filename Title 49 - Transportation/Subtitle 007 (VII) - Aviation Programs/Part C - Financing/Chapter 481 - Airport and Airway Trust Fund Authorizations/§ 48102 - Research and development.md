@@ -228,7 +228,7 @@ Authorization of Appropriations.—Not more than the following amounts may be ap
 
 &emsp;(13) $171,000,000 for fiscal year 2009; and
 
-&emsp;(14) $92,500,000 for the 6-month period beginning on October 1, 2009.
+&emsp;(14) $190,500,000 for fiscal year 2010.
 
 (b)
 
@@ -268,7 +268,7 @@ Research Grants Program Involving Undergraduate Students.—
 
 &emsp;(1)
 
-Establishment.—The Administrator of the Federal Aviation Administration shall establish a program to utilize undergraduate and technical colleges, including Historically Black Colleges and Universities and Hispanic Serving Institutions, in research on subjects of relevance to the Federal Aviation Administration. Grants may be awarded under this subsection for—
+Establishment.—The Administrator of the Federal Aviation Administration shall establish a program to utilize undergraduate and technical colleges, including Historically Black Colleges and Universities and Hispanic Serving Institutions, in research on subjectsof relevance to the Federal Aviation Administration. Grants may be awarded under this subsection for—
 
 &emsp;&emsp;(A) research projects to be carried out at primarily undergraduate institutions and technical colleges;
 
@@ -296,7 +296,7 @@ Principal criteria.—The principal criteria for the awarding of grants under th
 
 Competitive, merit-based evaluation.—Grants shall be awarded under this subsection on the basis of evaluation of proposals through a competitive, merit-based process.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title III, §302, Aug. 23, 1994, 108 Stat. 1589; Pub. L. 104–264, title XI, §§1102, 1103, Oct. 9, 1996, 110 Stat. 3278; Pub. L. 104–287, §5(9), (74), Oct. 11, 1996, 110 Stat. 3389, 3396; Pub. L. 105–155, §§2, 3, Feb. 11, 1998, 112 Stat. 5; Pub. L. 106–181, title IX, §901, Apr. 5, 2000, 114 Stat. 194; Pub. L. 108–176, title VII, §§701, 707, Dec. 12, 2003, 117 Stat. 2574, 2582; Pub. L. 110–330, §8, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §8, Mar. 30, 2009, 123 Stat. 1459; Pub. L. 111–69, §8, Oct. 1, 2009, 123 Stat. 2056; Pub. L. 111–116, §8, Dec. 16, 2009, 123 Stat. 3033.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title III, §302, Aug. 23, 1994, 108 Stat. 1589; Pub. L. 104–264, title XI, §§1102, 1103, Oct. 9, 1996, 110 Stat. 3278; Pub. L. 104–287, §5(9), (74), Oct. 11, 1996, 110 Stat. 3389, 3396; Pub. L. 105–155, §§2, 3, Feb. 11, 1998, 112 Stat. 5; Pub. L. 106–181, title IX, §901, Apr. 5, 2000, 114 Stat. 194; Pub. L. 108–176, title VII, §§701, 707, Dec. 12, 2003, 117 Stat. 2574, 2582; Pub. L. 110–330, §8, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §8, Mar. 30, 2009, 123 Stat. 1459; Pub. L. 111–69, §8, Oct. 1, 2009, 123 Stat. 2056; Pub. L. 111–116, §8, Dec. 16, 2009, 123 Stat. 3033; Pub. L. 111–153, §8, Mar. 31, 2010, 124 Stat. 1086; Pub. L. 111–161, §8, Apr. 30, 2010, 124 Stat. 1128; Pub. L. 111–197, §8, July 2, 2010, 124 Stat. 1355; Pub. L. 111–216, title I, §107, Aug. 1, 2010, 124 Stat. 2350.)
 
 Historical and Revision Notes
 
@@ -360,23 +360,31 @@ The date of the enactment of the FAA Research, Engineering, and Development Auth
 
 #### Amendments
 
-2009—Subsec. (a)(13). Pub. L. 111–12 substituted “$171,000,000 for fiscal year 2009” for “$85,507,500 for the 6-month period beginning on October 1, 2008”.
+<b>2010</b>—Subsec. (a)(14). Pub. L. 111–216 amended par. (14) generally. Prior to amendment, par. (14) read as follows: “$159,184,932 for the period beginning on October 1, 2009, and ending on August 1, 2010.”
+
+Pub. L. 111–197 amended par. (14) generally. Prior to amendment, par. (14) read as follows: “$144,049,315 for the period beginning on October 1, 2009, and ending on July 3, 2010.”
+
+Pub. L. 111–161 amended par. (14) generally. Prior to amendment, par. (14) read as follows: “$111,125,000 for the 7-month period beginning on October 1, 2009.”
+
+Pub. L. 111–153 amended par. (14) generally. Prior to amendment, par. (14) read as follows: “$92,500,000 for the 6-month period beginning on October 1, 2009.”
+
+<b>2009</b>—Subsec. (a)(13). Pub. L. 111–12 substituted “$171,000,000 for fiscal year 2009” for “$85,507,500 for the 6-month period beginning on October 1, 2008”.
 
 Subsec. (a)(14). Pub. L. 111–116 amended par. (14) generally. Prior to amendment, par. (14) read as follows: “$46,250,000 for the 3-month period beginning on October 1, 2009.”
 
 Pub. L. 111–69 added par. (14).
 
-2008—Subsec. (a)(11) to (13). Pub. L. 110–330 struck out “and” at end of subpar. (K) of par. (11), substituted “; and” for period at end of subpar. (L) of par. (12), and added par. (13).
+<b>2008</b>—Subsec. (a)(11) to (13). Pub. L. 110–330 struck out “and” at end of subpar. (K) of par. (11), substituted “; and” for period at end of subpar. (L) of par. (12), and added par. (13).
 
-2003—Subsec. (a). Pub. L. 108–176, §701(1), substituted “for conducting civil aviation research and development under sections 44504” for “to carry out sections 44504” in introductory provisions.
+<b>2003</b>—Subsec. (a). Pub. L. 108–176, §701(1), substituted “for conducting civil aviation research and development under sections 44504” for “to carry out sections 44504” in introductory provisions.
 
 Subsec. (a)(9) to (12). Pub. L. 108–176, §701(2)–(4), added pars. (9) to (12).
 
 Subsec. (h)(1)(D). Pub. L. 108–176, §707, added subpar. (D).
 
-2000—Subsec. (a)(6) to (8). Pub. L. 106–181 added pars. (6) to (8).
+<b>2000</b>—Subsec. (a)(6) to (8). Pub. L. 106–181 added pars. (6) to (8).
 
-1998—Subsec. (a)(4). Pub. L. 105–155, §2, added par. (4).
+<b>1998</b>—Subsec. (a)(4). Pub. L. 105–155, §2, added par. (4).
 
 Subsec. (a)(4)(J). Pub. L. 105–155, §3(b), inserted “, of which $750,000 shall be for carrying out the grant program established under subsection (h)” after “projects and activities”.
 
@@ -384,7 +392,7 @@ Subsec. (a)(5). Pub. L. 105–155, §2, added par. (5).
 
 Subsec. (h). Pub. L. 105–155, §3(a), added subsec. (h).
 
-1996—Subsec. (a)(3). Pub. L. 104–264, §1102, added par. (3).
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–264, §1102, added par. (3).
 
 Subsec. (b). Pub. L. 104–264, §1103, substituted “
 
@@ -398,7 +406,7 @@ Subsec. (d)(2). Pub. L. 104–287, §5(74), substituted “Committees on Science
 
 Pub. L. 104–287, §5(9), substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
 
-1994—Subsec. (a)(1), (2). Pub. L. 103–305 inserted pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+<b>1994</b>—Subsec. (a)(1), (2). Pub. L. 103–305 inserted pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
 “(1) for the fiscal year ending September 30, 1993—
 

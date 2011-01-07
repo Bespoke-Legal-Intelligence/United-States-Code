@@ -14,11 +14,11 @@ Section was formerly classified to section 381 of Title 48, Territories and Insu
 
 #### Amendments
 
-1958—Pub. L. 85–662 substituted “fish and game” for “fisheries” in three places, and inserted provisions permitting mining for all metals in Chilkat River, and its tributaries, within two and three-tenths miles of United States survey numbered 991.
+<b>1958</b>—Pub. L. 85–662 substituted “fish and game” for “fisheries” in three places, and inserted provisions permitting mining for all metals in Chilkat River, and its tributaries, within two and three-tenths miles of United States survey numbered 991.
 
-1947—Act Aug. 8, 1947, permitted exploration for and mining of gold and other precious metals in beds of navigable streams.
+<b>1947</b>—Act Aug. 8, 1947, permitted exploration for and mining of gold and other precious metals in beds of navigable streams.
 
-1938—Act May 31, 1938, extended waters subject to exploration and mining for gold to include all water on shores, bays, and inlets of Alaska, and substituted Secretary of the Interior for Secretary of War, among other changes.
+<b>1938</b>—Act May 31, 1938, extended waters subject to exploration and mining for gold to include all water on shores, bays, and inlets of Alaska, and substituted Secretary of the Interior for Secretary of War, among other changes.
 
 #### Admission of Alaska as State
 

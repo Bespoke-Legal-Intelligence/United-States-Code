@@ -22,9 +22,9 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;“Copies” are material objects, other than phonorecords, in which a work is fixed by any method now known or later developed, and from which the work can be perceived, reproduced, or otherwise communicated, either directly or with the aid of a machine or device. The term “copies” includes the material object, other than a phonorecord, in which the work is first fixed.
 
-&emsp;A “Copyright Royalty Judge” is a Copyright Royalty Judge appointed under section 802 of this title, and includes any individual serving as an interim Copyright Royalty Judge under such section.
-
 &emsp;“Copyright owner”, with respect to any one of the exclusive rights comprised in a copyright, refers to the owner of that particular right.
+
+&emsp;A “Copyright Royalty Judge” is a Copyright Royalty Judge appointed under section 802 of this title, and includes any individual serving as an interim Copyright Royalty Judge under such section.
 
 &emsp;A work is “created” when it is fixed in a copy or phonorecord for the first time; where a work is prepared over a period of time, the portion of it that has been fixed at any particular time constitutes the work as of that time, and where the work has been prepared in different versions, each version constitutes a separate work.
 
@@ -38,11 +38,11 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;An “establishment” is a store, shop, or any similar place of business open to the general public for the primary purpose of selling goods or services in which the majority of the gross square feet of space that is nonresidential is used for that purpose, and in which nondramatic musical works are performed publicly.
 
-&emsp;A “food service or drinking establishment” is a restaurant, inn, bar, tavern, or any othersimilar place of business in which the public or patrons assemble for the primary purpose of being served food or drink, in which the majority of the gross square feet of space that is nonresidential is used for that purpose, and in which nondramatic musical works are performed publicly.
-
 &emsp;The term “financial gain” includes receipt, or expectation of receipt, of anything of value, including the receipt of other copyrighted works.
 
 &emsp;A work is “fixed” in a tangible medium of expression when its embodiment in a copy or phonorecord, by or under the authority of the author, is sufficiently permanent or stable to permit it to be perceived, reproduced, or otherwise communicated for a period of more than transitory duration. A work consisting of sounds, images, or both, that are being transmitted, is “fixed” for purposes of this title if a fixation of the work is being made simultaneously with its transmission.
+
+&emsp;A “food service or drinking establishment” is a restaurant, inn, bar, tavern, or any other similar place of business in which the public or patrons assemble for the primary purpose of being served food or drink, in which the majority of the gross square feet of space that is nonresidential is used for that purpose, and in which nondramatic musical works are performed publicly.
 
 &emsp;The “Geneva Phonograms Convention” is the Convention for the Protection of Producers of Phonograms Against Unauthorized Duplication of Their Phonograms, concluded at Geneva, Switzerland, on October 29, 1971.
 
@@ -70,9 +70,9 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;“Literary works” are works, other than audiovisual works, expressed in words, numbers, or other verbal or numerical symbols or indicia, regardless of the nature of the material objects, such as books, periodicals, manuscripts, phonorecords, film, tapes, disks, or cards, in which they are embodied.
 
-&emsp;“Motion pictures” are audiovisual works consisting of a series of related images which, when shown in succession, impart an impression of motion, together with accompanying sounds, if any.
-
 &emsp;The term “motion picture exhibition facility” means a movie theater, screening room, or other venue that is being used primarily for the exhibition of a copyrighted motion picture, if such exhibition is open to the public or is made to an assembled group of viewers outside of a normal circle of a family and its social acquaintances.
+
+&emsp;“Motion pictures” are audiovisual works consisting of a series of related images which, when shown in succession, impart an impression of motion, together with accompanying sounds, if any.
 
 &emsp;To “perform” a work means to recite, render, play, dance, or act it, either directly or by means of any device or process or, in the case of a motion picture or other audiovisual work, to show its images in any sequence or to make the sounds accompanying it audible.
 
@@ -86,7 +86,7 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;A “pseudonymous work” is a work on the copies or phonorecords of which the author is identified under a fictitious name.
 
-&emsp;“Publication” is the distribution of copies or phonorecords of a work to the public by sale or other transfer of ownership, or by rental, lease, or lending. The offering to distribute copies or phonorecords to a group of persons for purposes of further distribution, public performance, or public display, constitutes publication. A public performance or display of a work does not of itself constitute publication.
+&emsp;“Publication” is the distribution of copies or phonorecords of a work to the public by sale or other transfer of ownership, or by rental, lease, or lending. The offering to distribute copies or phonorecords to a group of personsfor purposes of further distribution, public performance, or public display, constitutes publication. A public performance or display of a work does not of itself constitute publication.
 
 &emsp;To perform or display a work “publicly” means—
 
@@ -152,13 +152,13 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;&emsp;(C) any work not subject to copyright protection under this title.
 
-&emsp;A “work of the United States Government” is a work prepared by an officer or employee of the United States Government as part of that person's official duties.
+&emsp;A “work of the United States Government” is a work prepared by an officer or employee ofthe United States Government as part of that person's official duties.
 
 &emsp;A “work made for hire” is—
 
 &emsp;&emsp;(1) a work prepared by an employee within the scope of his or her employment; or
 
-&emsp;&emsp;(2) a work specially ordered or commissioned for use as a contribution to a collective work, as a part of a motion picture orother audiovisual work, as a translation, as a supplementary work, as a compilation, as an instructional text, as a test, as answer material for a test, or as an atlas, if the parties expressly agree in a written instrument signed by them that the work shall be considered a work made for hire. For the purpose of the foregoing sentence, a “supplementary work” is a work prepared for publication as a secondary adjunct to a work by another author for the purpose of introducing, concluding, illustrating, explaining, revising, commenting upon, or assisting in the use of the other work, such as forewords, afterwords, pictorial illustrations, maps, charts, tables, editorial notes, musical arrangements, answer material for tests, bibliographies, appendixes, and indexes, and an “instructional text” is a literary, pictorial, or graphic work prepared for publication and with the purpose of use in systematic instructional activities.
+&emsp;&emsp;(2) a work specially ordered or commissioned for use as a contribution to a collective work, as a part of a motion picture or other audiovisual work, as a translation, as a supplementary work, as a compilation, as an instructional text, as a test, as answer material for a test, or as an atlas, if the parties expressly agree in a written instrument signed by them that the work shall be considered a work made for hire. For the purpose of the foregoing sentence, a “supplementary work” is a work prepared for publication as a secondary adjunct to a work by another author for the purpose of introducing, concluding, illustrating, explaining, revising, commenting upon, or assisting in the use of the other work, such as forewords, afterwords, pictorial illustrations, maps, charts, tables, editorial notes, musical arrangements, answer material for tests, bibliographies, appendixes, and indexes, and an “instructional text” is a literary, pictorial, or graphic work prepared for publication and with the purpose of use in systematic instructional activities.
 
 > &emsp;In determining whether any work is eligible to be considered a work made for hire under paragraph (2), neither the amendment contained in section 1011(d) of the Intellectual Property and Communications Omnibus Reform Act of 1999, as enacted by section 1000(a)(9) of Public Law 106–113, nor the deletion of the words added by that amendment—
 
@@ -170,11 +170,11 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;The terms “WTO Agreement” and “WTO member country” have the meanings given those terms in paragraphs (9) and (10), respectively, of section 2 of the Uruguay Round Agreements Act.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2541; Pub. L. 96–517, §10(a), Dec. 12, 1980, 94 Stat. 3028; Pub. L. 100–568, §4(a)(1), Oct. 31, 1988, 102 Stat. 2854; Pub. L. 101–650, title VI, §602, title VII, §702, Dec. 1, 1990, 104 Stat. 5128, 5133; Pub. L. 102–307, title I, §102(b)(2), June 26, 1992, 106 Stat. 266; Pub. L. 102–563, §3(b), Oct. 28, 1992, 106 Stat. 4248; Pub. L. 104–39, §5(a), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §12(a)(3), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–147, §2(a), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 105–298, title II, §205, Oct. 27, 1998, 112 Stat. 2833; Pub. L. 105–304, title I, §102(a), Oct. 28, 1998, 112 Stat. 2861; Pub. L. 106–44, §1(g)(1), Aug. 5, 1999, 113 Stat. 222; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1011(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–544; Pub. L. 106–379, §2(a), Oct. 27, 2000, 114 Stat. 1444; Pub. L. 107–273, div. C, title III, §13210(5), Nov. 2, 2002, 116 Stat. 1909; Pub. L. 108–419, §4, Nov. 30, 2004, 118 Stat. 2361; Pub. L. 109–9, title I, §102(c), Apr. 27, 2005, 119 Stat. 220.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2541; Pub. L. 96–517, §10(a), Dec. 12, 1980, 94 Stat. 3028; Pub. L. 100–568, §4(a)(1), Oct. 31, 1988, 102 Stat. 2854; Pub. L. 101–650, title VI, §602, title VII, §702, Dec. 1, 1990, 104 Stat. 5128, 5133; Pub. L. 102–307, title I, §102(b)(2), June 26, 1992, 106 Stat. 266; Pub. L. 102–563, §3(b), Oct. 28, 1992, 106 Stat. 4248; Pub. L. 104–39, §5(a), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §12(a)(3), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–147, §2(a), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 105–298, title II, §205, Oct. 27, 1998, 112 Stat. 2833; Pub. L. 105–304, title I, §102(a), Oct. 28, 1998, 112 Stat. 2861; Pub. L. 106–44, §1(g)(1), Aug. 5, 1999, 113 Stat. 222; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1011(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–544; Pub. L. 106–379, §2(a), Oct. 27, 2000, 114 Stat. 1444; Pub. L. 107–273, div. C, title III, §13210(5), Nov. 2, 2002, 116 Stat. 1909; Pub. L. 108–419, §4, Nov. 30, 2004, 118 Stat. 2361; Pub. L. 109–9, title I, §102(c), Apr. 27, 2005, 119 Stat. 220; Pub. L. 111–295, §6(a), Dec. 9, 2010, 124 Stat. 3181.)
 
 #### Historical and Revision Notes
 
-I74house report no. 94–1476
+#### house report no. 94–1476
 
 The significant definitions in this section will be mentioned or summarized in connection with the provisions to which they are most relevant.
 
@@ -188,25 +188,31 @@ Section 2 of the Uruguay Round Agreements Act, referred to in definitions of “
 
 #### Amendments
 
-2005—Pub. L. 109–9 inserted definition of “motion picture exhibition facility” after definition of “Motion pictures”.
+<b>2010</b>—Pub. L. 111–295, §6(a)(3), transferred the definition of “food service or drinking establishment” to appear after the definition of “fixed”.
 
-2004—Pub. L. 108–419 inserted definition of “Copyright Royalty Judge” after definition of “Copies”.
+Pub. L. 111–295, §6(a)(2), transferred the definition of “motion picture exhibition facility” to appear after the definition of “Literary works”.
 
-2002—Pub. L. 107–273, §13210(5)(B), transferred definition of “Registration” to appear after definition of “publicly”.
+Pub. L. 111–295, §6(a)(1), which directed transfer of the definition of “Copyright Royalty Judges” to appear after the definition of “Copyright owner”, was executed by so transferring the definition of “Copyright Royalty Judge”, to reflect the probable intent of Congress.
+
+<b>2005</b>—Pub. L. 109–9 inserted definition of “motion picture exhibition facility” after definition of “Motion pictures”.
+
+<b>2004</b>—Pub. L. 108–419 inserted definition of “Copyright Royalty Judge” after definition of “Copies”.
+
+<b>2002</b>—Pub. L. 107–273, §13210(5)(B), transferred definition of “Registration” to appear after definition of “publicly”.
 
 Pub. L. 107–273, §13210(5)(A), transferred definition of “computer program” to appear after definition of “compilation”.
 
-2000—Pub. L. 106–379, §2(a)(2), in definition of “work made for hire”, inserted after par. (2) provisions relating to considerations and interpretations to be used in determining whether any work is eligible to be considered a work made for hire under par. (2).
+<b>2000</b>—Pub. L. 106–379, §2(a)(2), in definition of “work made for hire”, inserted after par. (2) provisions relating to considerations and interpretations to be used in determining whether any work is eligible to be considered a work made for hire under par. (2).
 
 Pub. L. 106–379, §2(a)(1), in definition of “work made for hire”, struck out “as a sound recording,” after “motion picture or other audiovisual work,” in par. (2).
 
-1999—Pub. L. 106–113, which directed the insertion of “as a sound recording,” after “audiovisual work” in par. (2) of definition relating to work made for hire, was executed by making the insertion after “audiovisual work,” to reflect the probable intent of Congress.
+<b>1999</b>—Pub. L. 106–113, which directed the insertion of “as a sound recording,” after “audiovisual work” in par. (2) of definition relating to work made for hire, was executed by making the insertion after “audiovisual work,” to reflect the probable intent of Congress.
 
 Pub. L. 106–44, §1(g)(1)(B), in definition of “proprietor”, substituted “For purposes of section 513, a ‘proprietor’ ” for “A ‘proprietor’ ”.
 
 Pub. L. 106–44, §1(g)(1)(A), transferred definition of “United States work” to appear after definition of “United States”.
 
-1998—Pub. L. 105–304, §102(a)(1), struck out definition of “Berne Convention work”.
+<b>1998</b>—Pub. L. 105–304, §102(a)(1), struck out definition of “Berne Convention work”.
 
 Pub. L. 105–304, §102(a)(2), in definition of “country of origin”, substituted “For purposes of section 411, a work is a ‘United States work’ only if” for “The ‘country of origin’ of a Berne Convention work, for purposes of section 411, is the United States if” in introductory provisions, substituted “treaty party or parties” for “nation or nations adhering to the Berne Convention” in par. (1)(B) and “is not a treaty party” for “does not adhere to the Berne Convention” in par. (1)(C), (D), and struck out at end “For the purposes of section 411, the ‘country of origin’ of any other Berne Convention work is not the United States.”
 
@@ -228,29 +234,29 @@ Pub. L. 105–304, §102(a)(7), inserted definition of term “WIPO Performances
 
 Pub. L. 105–304, §102(a)(8), inserted definitions of terms “WTO Agreement” and “WTO member country”.
 
-1997—Pub. L. 105–147 inserted definition of “financial gain”.
+<b>1997</b>—Pub. L. 105–147 inserted definition of “financial gain”.
 
 Pub. L. 105–80, in definition of to perform or to display a work “publicly”, substituted “process” for “processs” in par. (2).
 
-1995—Pub. L. 104–39 inserted definition of “digital transmission”.
+<b>1995</b>—Pub. L. 104–39 inserted definition of “digital transmission”.
 
-1992—Pub. L. 102–563 substituted “Except as otherwise provided in this title, as used” for “As used” in introductory provisions.
+<b>1992</b>—Pub. L. 102–563 substituted “Except as otherwise provided in this title, as used” for “As used” in introductory provisions.
 
 Pub. L. 102–307 inserted definition of “registration”.
 
-1990—Pub. L. 101–650, §702(a), inserted definition of “architectural work”.
+<b>1990</b>—Pub. L. 101–650, §702(a), inserted definition of “architectural work”.
 
 Pub. L. 101–650, §702(b), in definition of “Berne Convention work” added par. (5).
 
 Pub. L. 101–650, §602, inserted definition of “work of visual art”.
 
-1988—Pub. L. 100–568, §4(a)(1)(B), inserted definitions of “The Berne Convention” and “Berne Convention work”.
+<b>1988</b>—Pub. L. 100–568, §4(a)(1)(B), inserted definitions of “The Berne Convention” and “Berne Convention work”.
 
 Pub. L. 100–568, §4(a)(1)(C), inserted definition of “country of origin”.
 
 Pub. L. 100–568, §4(a)(1)(A), in definition of “Pictorial, graphic, and sculptural works” substituted “diagrams, models, and technical drawings, including architectural plans” for “technical drawings, diagrams, and models”.
 
-1980—Pub. L. 96–517 inserted definition of “computer program”.
+<b>1980</b>—Pub. L. 96–517 inserted definition of “computer program”.
 
 #### Effective Date of 2004 Amendment
 
@@ -316,7 +322,7 @@ Section 102(g) of Pub. L. 102–307, as amended by Pub. L. 105–298, title I, �
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 602 of Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L.101–650, set out as an Effective Date note under section 106A of this title.
+Amendment by section 602 of Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, set out as an Effective Date note under section 106A of this title.
 
 Section 706 of title VII of Pub. L. 101–650 provided that: “The amendments made by this title \[enacting section 120 of this title and amending this section and sections 102, 106, and 301 of this title\], apply to—
 
@@ -335,6 +341,14 @@ Effective Date.—This Act and the amendments made by this Act \[enacting sectio
 “(b)
 
 Effect on Pending Cases.—Any cause of action arising under title 17, United States Code, before the effective date of this Act shall be governed by the provisions of such title as in effect when the cause of action arose.”
+
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–295, §1, Dec. 9, 2010, 124 Stat. 3180, provided that: “This Act \[amending this section and sections 114, 115, 119, 205, 303, 409, 503, 504, 512, 602, 704, 803, 1203, and 1204 of this title and section 2318 of Title 18, Crimes and Criminal Procedure, and repealing section 601 of this title\] may be cited as the ‘Copyright Cleanup, Clarification, and Corrections Act of 2010’.”
+
+Pub. L. 111–175, §1(a), May 27, 2010, 124 Stat. 1218, provided that: “This Act \[enacting section 342 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, amending sections 111, 119, 122, 708, and 804 of this title and sections 325, 335, and 338 to 340 of Title 47, enacting provisions set out as notes under sections 111 and 119 of this title and sections 325, 338, and 340 of Title 47, and repealing provisions set out as a note under section 119 of this title\] may be cited as the ‘Satellite Television Extension and Localism Act of 2010’.”
+
+Pub. L. 111–151, §1, Mar. 26, 2010, 124 Stat. 1027, provided that: “This Act \[amending section 119 of this title and section 325 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and amending provisions set out as a note under section 119 of this title\] may be cited as the ‘Satellite Televison \[sic\] Extension Act of 2010’.”
 
 #### Short Title of 2009 Amendment
 
@@ -384,7 +398,7 @@ Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1001\], Nov. 29, 1999, 113 
 
 #### Short Title of 1998 Amendments
 
-Pub. L. 105–304, §1, Oct. 28, 1998, 112 Stat. 2860, provided that: “This Act \[enacting section 512 and chapters 12 and 13 of this title and section 4001 of Title 28,Judiciary and Judicial Procedure, amending this section, sections 104, 104A, 108, 112, 114, 117, 411, 507, 701, and 801 to 803 of this title, section 5314 of Title 5, Government Organization and Employees, sections 1338, 1400, and 1498 of Title 28, and section 3 of Title 35, Patents, and enacting provisions set out as notes under this section and sections 108, 109, 112, 114, 512, and 1301 of this title\] may be cited as the ‘Digital Millennium Copyright Act’.”
+Pub. L. 105–304, §1, Oct. 28, 1998, 112 Stat. 2860, provided that: “This Act \[enacting section 512 and chapters 12 and 13 of this title and section 4001 of Title 28, Judiciary and Judicial Procedure, amending this section, sections 104, 104A, 108, 112, 114, 117, 411, 507, 701, and 801 to 803 of this title, section 5314 of Title 5, Government Organization and Employees, sections 1338, 1400, and 1498 of Title 28, and section 3 of Title 35, Patents, and enacting provisions set out as notes under this section and sections 108, 109, 112, 114, 512, and 1301 of this title\] may be cited as the ‘Digital Millennium Copyright Act’.”
 
 Pub. L. 105–304, title I, §101, Oct. 28, 1998, 112 Stat. 2861, provided that: “This title \[enacting chapter 12 of this title, amending this section and sections 104, 104A, 411, and 507 of this title, and enacting provisions set out as notes under this section and section 109 of this title\] may be cited as the ‘WIPO Copyright and Performances and Phonograms Treaties Implementation Act of 1998’.”
 
@@ -448,6 +462,10 @@ Pub. L. 98–620, title III, §301, Nov. 8, 1984, 98 Stat. 3347, provided that: 
 
 Pub. L. 98–450, §1, Oct. 4, 1984, 98 Stat. 1727, provided that: “This Act \[amending sections 109 and 115 of this title and enacting provisions set out as a note under section 109 of this title\] may be cited as the ‘Record Rental Amendment of 1984’.”
 
+#### Short Title of 1976 Act
+
+Pub. L. 94–553, Oct. 19, 1976, 90 Stat. 2541, which enacted this title and section 170 of Title 2, The Congress, amended section 131 of Title 2, section 290e of Title 15, Commerce and Trade, section 2318 of Title 18, Crimes and Criminal Procedure, section 543 of Title 26, Internal Revenue Code, section 1498 of Title 28, Judiciary and Judicial Procedure, sections 3202 and 3206 of Title 39, Postal Service, and sections 505 and 2117 of Title 44, Public Printing and Documents, and enacted provisions set out as notes preceding this section and under sections 104, 115, 304, 401, 407, 410, and 501 of this title, is popularly known as the “Copyright Act of 1976”.
+
 #### Severability
 
 Pub. L. 106–379, §2(b)(2), Oct. 27, 2000, 114 Stat. 1444, provided that: “If the provisions of paragraph (1) \[see Effective Date of 2000 Amendment note above\], or any application of such provisions to any person or circumstance, is held to be invalid, the remainder of this section \[amending this section and enacting provisions set out as a note above\], the amendments made by this section, and the application of this section to any other person or circumstance shall not be affected by such invalidation.”
@@ -496,7 +514,7 @@ Section 12 of Pub. L. 100–568 provided that: “Title 17, United States Code, 
 
 #### Definitions
 
-Pub. L. 103–465, title V, §501, Dec. 8, 1994, 108 Stat. 4973, provided that: “For purposes of this title \[enacting section 1101 of this title and section 2319A of Title 18, Crimes and Criminal Procedure, amending sections 104A and 109 of this title, sections 1052 and 1127 of Title 15, Commerce and Trade, and sections 41, 104, 111, 119, 154, 156, 172, 173, 252, 262, 271, 272, 287, 292, 295, 307, 365, and 373 of Title 35, Patents, enacting provisions set out as notes under section 1052 of Title 15 and sections 104 and 154 of Title 35, and amending provisions set out as a note under section 109 of this title\]—
+Pub. L. 103–465, title V, §501, Dec. 8, 1994, 108 Stat. 4973, provided that: “For purposes of this title \[enacting section 1101 of this title and section 2319A of Title 18, Crimes and Criminal Procedure, amending sections 104A and 109 of this title, sections 1052 and 1127 of Title 15, Commerce and Trade, and sections 41, 104, 111, 119, 154, 156, 172, 173, 252, 262, 271, 272, 287, 292, 295, 307, 365,and 373 of Title 35, Patents, enacting provisions set out as notes under section 1052 of Title 15 and sections 104 and 154 of Title 35, and amending provisions set out as a note under section 109 of this title\]—
 
 &emsp;“(1) the term ‘WTO Agreement’ has the meaning given that term in section 2(9) of the Uruguay Round Agreements Act \[19 U.S.C. 3501(9)\]; and
 

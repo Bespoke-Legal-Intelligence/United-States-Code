@@ -14,7 +14,7 @@ Pub. L. 110–96, §1, Oct. 16, 2007, 121 Stat. 1011, provided that: “This Act
 
 Pub. L. 109–353, §1, Oct. 13, 2006, 120 Stat. 2015, provided that: “This Act \[amending provisions set out as a note below\] may be cited as the ‘North Korea Nonproliferation Act of 2006’.”
 
-Pub. L. 109–293, §1, Sept. 30, 2006, 120 Stat. 1344, provided that: “This Act \[amending section 5318A of Title 31, Money and Finance, enacting provisions set out as notes under this section and section 2151 of Title 22,Foreign Relations and Intercourse, and amending provisions set out as a note under this section\] may be cited as the ‘Iran Freedom Support Act’.”
+Pub. L. 109–293, §1, Sept. 30, 2006, 120 Stat. 1344, provided that: “This Act \[amending section 5318A of Title 31, Money and Finance, enacting provisions set out as notes under this section and section 2151 of Title 22, Foreign Relations and Intercourse, and amending provisions set out as a note under this section\] may be cited as the ‘Iran Freedom Support Act’.”
 
 #### Short Title of 2005 Amendment
 
@@ -34,7 +34,7 @@ Section 208 of Pub. L. 95–223 provided that: “If any provision of this Act \
 
 #### Sudan Accountability and Divestment
 
-Pub. L. 110–174, Dec. 31, 2007, 121 Stat. 2516, provided that:
+Pub. L. 110–174, Dec. 31, 2007, 121 Stat. 2516, as amended by Pub. L. 111–195, title II, §205(a), July 1, 2010, 124 Stat. 1344, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -54,11 +54,11 @@ Appropriate congressional committees.—The term ‘appropriate congressional co
 
 &emsp;“(2)
 
-Business operations.—The term ‘business operations’ means engaging in commerce in any form in Sudan, including by acquiring, developing, maintaining, owning, selling, possessing, leasing, or operating equipment, facilities, personnel, products, services, personal property, real property, or any other apparatus of business or commerce.
+Business operations.—The term ‘business operations’ means engaging in commerce in any form in Sudan, including by acquiring, developing, maintaining, owning, selling, possessing, leasing, or operatingequipment, facilities, personnel, products, services, personal property, real property, or any other apparatus of business or commerce.
 
 &emsp;“(3)
 
-Executive agency.—The term ‘executive agency’ has the meaning given the term in section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403).
+Executive agency.—The term ‘executive agency’ has the meaning given the term in section 4 of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 403) \[see 41 U.S.C. 133\].
 
 &emsp;“(4)
 
@@ -142,7 +142,7 @@ State or local government.—The term ‘State or local government’ includes�
 
 “(a)
 
-Sense of Congress.—It is the sense of Congress that the United States Government should support thedecision of any State or local government to divest from, or to prohibit the investment of assets of the State or local government in, a person that the State or local government determines poses a financial or reputational risk.
+Sense of Congress.—It is the sense of Congress that the United States Government should support the decision of any State or local government to divest from, or to prohibit the investment of assets of the State or local government in, a person that the State or local government determines poses a financial or reputational risk.
 
 “(b)
 
@@ -250,11 +250,15 @@ Regulations.—Not later than 120 days after the date of the enactment of this A
 
 #### “SEC. 5. SENSE OF CONGRESS REGARDING CERTAIN ERISA PLAN INVESTMENTS.
 
-“It is the sense of Congress that a fiduciary of an employee benefit plan, as defined in section 3(3) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002(3)), may divest plan assets from, or avoid investing plan assets in, any person the fiduciary determines is conducting or has direct investments in business operations in Sudan described in section 3(d) of this Act, without breaching the responsibilities, obligations, or duties imposed upon the fiduciary by section 404 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1104), if—
+“It is the sense of Congress that a fiduciary of an employee benefit plan, as defined in section 3(3) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002(3)), may divest plan assets from, or avoid investing plan assets in, any person the fiduciary determines is conducting or has direct investments in business operations in Sudan described in section 3(d) of this Act, without breaching the responsibilities, obligations, or duties imposed upon the fiduciary by subparagraph (A) or (B) of section 404(a)(1) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1104(a)(1)), if—
 
 &emsp;“(1) the fiduciary makes such determination using credible information that is available to the public; and
 
-&emsp;“(2) such divestment or avoidance of investment is conducted in accordance with section 2509.94–1 of title 29, Code of Federal Regulations (as in effect on the day before the date of the enactment of this Act \[Dec. 31, 2007\]).
+&emsp;“(2) the fiduciary prudently determines that the result of such divestment or avoidance of investment would not be expected to provide the employee benefit plan with—
+
+&emsp;&emsp;“(A) a lower rate of return than alternative investments with commensurate degrees of risk; or
+
+&emsp;&emsp;“(B) a higher degree of risk than alternative investments with commensurate rates of return.
 
 #### “SEC. 6. PROHIBITION ON UNITED STATES GOVERNMENT CONTRACTS.
 
@@ -276,11 +280,11 @@ Termination.—The head of an executive agency may terminate a covered contract 
 
 &emsp;“(3)
 
-Suspension and debarment.—The head of an executive agency may debar or suspend a contractorfrom eligibility for Federal contracts upon the determination of a false certification under paragraph (1). The debarment period may not exceed 3 years.
+Suspension and debarment.—The head of an executive agency may debar or suspend a contractor from eligibility for Federal contracts upon the determination of a false certification under paragraph (1). The debarment period may not exceed 3 years.
 
 &emsp;“(4)
 
-Inclusion on list of parties excluded from federal procurement and nonprocurement programs.—The Administrator of General Services shall include on the List of Parties Excluded from Federal Procurement and Nonprocurement Programs maintained by the Administrator under part 9 of the Federal Acquisition Regulation issued under section 25 of the Office of Federal Procurement Policy Act (41 U.S.C. 421) each contractor that is debarred, suspended, proposed for debarment or suspension, or declared ineligible by the head of an executive agency on the basis of a determination of a false certification under paragraph (1).
+Inclusion on list of parties excluded from federal procurement and nonprocurement programs.—The Administrator of General Services shall include on the List of Parties Excluded from Federal Procurement and Nonprocurement Programs maintained by the Administrator under part 9 of the Federal Acquisition Regulation issued under section 25 of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 421) \[see 41 U.S.C. 1303\] each contractor that is debarred, suspended, proposed for debarment or suspension, or declared ineligible by the head of an executive agency on the basis of a determination of a false certification under paragraph (1).
 
 &emsp;“(5)
 
@@ -300,7 +304,7 @@ Reporting requirement.—Not later than April 15, 2008, and semi-annually therea
 
 “(d)
 
-Implementation Through the Federal Acquisition Regulation.—Not later than 120 days after the date of the enactment of this Act \[Dec. 31, 2007\], the Federal Acquisition Regulatory Council shall amend the Federal Acquisition Regulation issued pursuant to section 25 of the Office of Federal Procurement Policy Act (41 U.S.C. 421) to provide for the implementation of the requirements of this section.
+Implementation Through the Federal Acquisition Regulation.—Not later than 120 days after the date of the enactment of this Act \[Dec. 31, 2007\], the Federal Acquisition Regulatory Council shall amend the Federal Acquisition Regulation issued pursuant to section 25 of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 421) \[see 41 U.S.C. 1303\] to provide for the implementation of the requirements of this section.
 
 “(e)
 
@@ -392,7 +396,7 @@ Table of Contents.—\[Omitted.\]
 
 &emsp;“(2)
 
-Appropriate congressional committees.—The term ‘appropriate congressional committees’ meansthe Committee on Foreign Relations of the Senate and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives.
+Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committee on Foreign Relations of the Senate and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives.
 
 &emsp;“(3)
 
@@ -432,7 +436,7 @@ Officials of the government of sudan.—The term ‘official of the Government o
 
 &emsp;“(2) On September 9, 2004, Secretary of State Colin L. Powell stated before the Committee on Foreign Relations of the Senate, ‘genocide has occurred and may still be occurring in Darfur’, and ‘the Government of Sudan and the Janjaweed bear responsibility’.
 
-&emsp;“(3) On September 21, 2004, in an address before the United Nations General Assembly, President George W. Bush affirmed the Secretary of State's finding and stated, ‘\[a\]t this hour, the world is witnessing terrible suffering and horrible crimes in the Darfur region of Sudan, crimes my government has concluded are genocide’.
+&emsp;“(3) On September 21, 2004, in an address before the United Nations General Assembly, President George W. Bush affirmed the Secretary of State's finding andstated, ‘\[a\]t this hour, the world is witnessing terrible suffering and horrible crimes in the Darfur region of Sudan, crimes my government has concluded are genocide’.
 
 &emsp;“(4) On July 30, 2004, the United Nations Security Council passed Security Council Resolution 1556 (2004), calling upon the Government of Sudan to disarm the Janjaweed militias and to apprehend and bring to justice Janjaweed leaders and their associates who have incited and carried out violations of human rights and international humanitarian law, and establishing a ban on the sale or supply of arms and related materiel of all types, including the provision of related technical training or assistance, to all nongovernmental entities and individuals, including the Janjaweed.
 
@@ -498,7 +502,7 @@ Officials of the government of sudan.—The term ‘official of the Government o
 
 &emsp;&emsp;“(B) calls upon those member states of the United Nations that continue to undermine efforts to foster peace in Sudan by providing military assistance to the Government of Sudan, government supported militias, or any rebel group operating in Darfur in violation of the embargo on such assistance and equipment, as called for in United Nations Security Council Resolutions 1556 (2004) and 1591 (2005), to immediately cease and desist.
 
-&emsp;“(9) the United States should not provide assistance to the Government of Sudan, other than assistance necessary for the implementation of the Comprehensive Peace Agreement for Sudan and the Darfur Peace Agreement, the support of the regional Government of Southern Sudan, the Transitional Darfur Regional Authority, and marginalized areas in Northern Sudan (including the Nuba Mountains, Southern Blue Nile, Abyei, Eastern Sudan (Beja), Darfur, and Nubia), or for humanitarian purposes in Sudan, untilthe Government of Sudan has honored pledges to cease attacks upon civilians, demobilize and demilitarize the Janjaweed and associated militias, grant free and unfettered access for deliveries of humanitarian assistance in the Darfur region, and allow for the safe and voluntary return of refugees and internally displaced persons;
+&emsp;“(9) the United States should not provide assistance to the Government of Sudan, other than assistance necessary for the implementation of the Comprehensive Peace Agreement for Sudan and the Darfur Peace Agreement, the support of the regional Government of Southern Sudan, the Transitional Darfur Regional Authority, and marginalized areas in Northern Sudan (including the Nuba Mountains, Southern Blue Nile, Abyei, Eastern Sudan (Beja), Darfur, and Nubia), or for humanitarian purposes in Sudan, until the Government of Sudan has honored pledges to cease attacks upon civilians, demobilize and demilitarize the Janjaweed and associated militias, grant free and unfettered access for deliveries of humanitarian assistance in the Darfur region, and allow for the safe and voluntary return of refugees and internally displaced persons;
 
 &emsp;“(10) the President should seek to assist members of the Sudanese diaspora in the United States by establishing a student loan forgiveness program for those individuals who commit to return to Southern Sudan for a period of not less than 5 years for the purpose of contributing professional skills needed for the reconstruction of Southern Sudan;
 
@@ -774,7 +778,7 @@ Pub. L. 110–286, July 29, 2008, 122 Stat. 2632, provided that:
 
 &emsp;“(8) The SPDC seeks to evade the sanctions imposed in the Burmese Freedom and Democracy Act of 2003 \[Pub. L. 108–61, set out below\]. Millions of dollars in gemstones that are exported from Burma ultimately enter the United States, but the Burmese regime attempts to conceal the origin of the gemstones in an effort to evade sanctions. For example, according to gem industry experts, over 90 percent of the world's ruby supply originates in Burma but only 3 percent of the rubies entering the United States are claimed to be of Burmese origin. The value of Burmese gemstones is predominantly based on their original quality and geological origin, rather than the labor involved in cutting and polishing the gemstones.
 
-&emsp;“(9) According to hardwood industry experts, Burma is home to approximately 60 percent of the world's native teak reserves. More than 1/4 of the world's internationally traded teak originates from Burma, and hardwood sales, mainly of teak, represent more than 11 percent of Burma's official foreign exchange earnings.
+&emsp;“(9) According to hardwood industry experts, Burma is home to approximately 60 percent of the world's native teak reserves. More than ¼ of the world's internationally traded teak originates from Burma, and hardwood sales, mainly of teak, represent more than 11 percent of Burma's official foreign exchange earnings.
 
 &emsp;“(10) The SPDC owns a majority stake in virtually all enterprises responsible for the extraction and trade of Burmese natural resources, including all mining operations, the Myanmar Timber Enterprise, the Myanmar Gems Enterprise, the Myanmar Pearl Enterprise, and the Myanmar Oil and Gas Enterprise. Virtually all profits from these enterprises enrich the SPDC.
 
@@ -866,7 +870,7 @@ Waiver.—The President may waive the visa ban described in paragraph (1) only i
 
 &emsp;“(3)
 
-Rule of construction.—Nothing in this subsection shall be construed to conflict with the provisions of section 694 of the Consolidated Appropriations Act, 2008 (Public Law 110–161) \[121 Stat. 2366\], nor shall this subsection be construed to make ineligible for a visa members of ethnic groups in Burmanow or previously opposed to the regime who were forced to provide labor or other support to the Burmese military and who are otherwise eligible for admission into the United States.
+Rule of construction.—Nothing in this subsection shall be construed to conflict with the provisions of section 694 of the Consolidated Appropriations Act, 2008 (Public Law 110–161) \[121 Stat. 2366\], nor shall this subsection be construed to make ineligible for a visa members of ethnic groups in Burma now or previously opposed to the regime who were forced to provide labor or other support to the Burmese military and who are otherwise eligible for admission into the United States.
 
 “(b)
 
@@ -1024,7 +1028,7 @@ Rank.—The Special Representative and Policy Coordinator for Burma appointed un
 
 Duties and Responsibilities.—The Special Representative and Policy Coordinator for Burma shall—
 
-&emsp;“(1) promote a comprehensive international effort, including multilateral sanctions, direct dialogue with the SPDC and democracy advocates, and support for nongovernmental organizations operating in Burma and neighboring countries, designed to restore civilian democratic rule to Burma and address the urgent humanitarian needs of the Burmese people;
+&emsp;“(1) promote a comprehensive international effort, including multilateral sanctions, direct dialogue withthe SPDC and democracy advocates, and support for nongovernmental organizations operating in Burma and neighboring countries, designed to restore civilian democratic rule to Burma and address the urgent humanitarian needs of the Burmese people;
 
 &emsp;“(2) consult broadly, including with the Governments of the People's Republic of China, India, Thailand, and Japan, and the member states of ASEAN and the European Union to coordinate policies toward Burma;
 
@@ -1216,7 +1220,7 @@ Statement of Policy.—
 
 Sense of Congress.—It is the sense of Congress that so long as Yadana investors remain invested in Burma, such investors should—
 
-&emsp;“(1) communicate to the Burmese Government, military and business officials, at the highest levels,concern about the lack of genuine consultation between the Burmese Government and its people, the failure of the Burmese Government to use its natural resources to benefit the Burmese people, and the military's use of forced labor;
+&emsp;“(1) communicate to the Burmese Government, military and business officials, at the highest levels, concern about the lack of genuine consultation between the Burmese Government and its people, the failure of the Burmese Government to use its natural resources to benefit the Burmese people, and the military's use of forced labor;
 
 &emsp;“(2) publicly disclose and deal with in a transparent manner, consistent with legal obligations, its role in any ongoing investment in Burma, including its financial involvement in any joint production agreement or other joint ventures and the amount of their direct or indirect support of the Burmese Government; and
 
@@ -1430,7 +1434,7 @@ Measures described.—The measures referred to in subparagraph (A) are the follo
 
 &emsp;&emsp;&emsp;“(iv) Verifiable recordkeeping by all entities and individuals engaged in mining, importation, and exportation of non-Burmese covered articles in the country, and subject to inspection and verification by authorized authorities of the government of the country in accordance with applicable law.
 
-&emsp;&emsp;&emsp;“(v) Implementation by the government of the country of proportionate and dissuasive penalties against any persons who violate laws and regulations designed to prevent trade in Burmese covered articles.
+&emsp;&emsp;&emsp;“(v) Implementation by the government of the country of proportionate and dissuasive penaltiesagainst any persons who violate laws and regulations designed to prevent trade in Burmese covered articles.
 
 &emsp;&emsp;&emsp;“(vi) Full cooperation by the country with the United Nations or other official international organizations that seek to prevent trade in Burmese covered articles.
 
@@ -1628,13 +1632,13 @@ Expedited consideration.—The provisions of section 152(b), (c), (d), (e), and 
 
 \[For effective date of amendment by Pub. L. 110–286, §6(b)(1), (2), see section 6(b)(3) of Pub. L. 110–286, set out above.\]
 
-\[Certain powers of President under section 4 of Pub. L. 108–61, set out above, delegated to Secretary of the Treasury by section 6 of Ex. Ord. No. 13448, Oct. 18, 2007, 72 F.R. 60225, listed in a table below.\]
-
 \[Pub. L. 109–251, §3, Aug. 1, 2006, 120 Stat. 654, provided that: “This Act \[enacting note below and amending Pub. L. 108–61 set out above\] and the amendments made by this Act shall take effect on the date of the enactment of this Act \[Aug. 1, 2006\] or July 26, 2006, whichever occurs first.”\]
 
 \[Proc. No. 8294, Sept. 26, 2008, 73 F.R. 57223, provided: in par. (2), that beginning on Sept. 27, 2008, importation of Burmese covered articles into the United States is prohibited, subject to certain exceptions; in par. (3), that beginning on Sept. 27, 2008, importation of non-Burmese covered articles into the United States is subject to certain conditions, with certain exceptions; in par. (4), that the Secretary of the Treasury and the Secretary of Homeland Security are authorized to issue regulations, licenses, and orders and to conduct necessary investigations to implement the prohibition on Burmese covered articles and the conditions for importation of non-Burmese covered articles set forth in section 3A(b), (c) of Pub. L. 108–61, set out above, and also to redelegate those functions as necessary; in par. (5), that the Secretary of the Treasury, in consultation with the Secretary of State, is authorized to perform the functions set forth in section 3A(c)(2)(A) of Pub. L. 108–61 relating to the issuance of waivers and may redelegate those functions; in par. (6), that the United States Trade Representative is authorized to perform the functions specified in section 3A(b)(3)(A) of Pub. L. 108–61; and, in pars. (7) to (9), that the Secretary of State is authorized to perform the functions specified in sections 3(b) and 3A(b)(3)(B) of Pub. L. 108–61, as well as the functions in section 3A(g) of that Act, in consultation with the United States Trade Representative.\]
 
 \[Certain powers of President under sections 3(a) and 4 of Pub. L. 108–61, set out above, delegated to Secretary of the Treasury and functions and authorities of President under section 3(b) of Pub. L. 108–61 delegated to Secretary of State by section 9 of Ex. Ord. No. 13310, July 28, 2003, 68 F.R. 44854, listed in a table below.\]
+
+\[Certain powers of President under section 4 of Pub. L. 108–61, set out above, delegated to Secretary of the Treasury by section 6 of Ex. Ord. No. 13448, Oct. 18, 2007, 72 F.R. 60225, listed in a table below.\]
 
 Provisions similar to those contained in section 5(a) of Pub. L. 108–61, set out above, were contained in the following appropriation acts:
 
@@ -1650,7 +1654,7 @@ Pub. L. 108–447, div. D, title V, §531(a), Dec. 8, 2004, 118 Stat. 3004.
 
 Pub. L. 108–199, div. D, title V, §531(a), Jan. 23, 2004, 118 Stat. 180.
 
-Pub. L. 111–42, title I, §102, July 28, 2009, 123 Stat. 1963, provided that:
+Pub. L. 111–210, §1, July 27, 2010, 124 Stat. 2256, provided that:
 
 “(a)
 
@@ -1661,6 +1665,8 @@ In General.—Congress approves the renewal of the import restrictions contained
 Rule of Construction.—This joint resolution shall be deemed to be a ‘renewal resolution’ for purposes of section 9 of the Burmese Freedom and Democracy Act of 2003.”
 
 Prior similar provisions were contained in the following Acts:
+
+Pub. L. 111–42, title I, §102, July 28, 2009, 123 Stat. 1963.
 
 Pub. L. 110–287, §1, July 29, 2008, 122 Stat. 2649.
 
@@ -1766,7 +1772,7 @@ Actions To Address the Conflict.—It is the sense of Congress that—
 
 &emsp;“(1) a legitimate countrywide peace in Sudan will only be possible if those principles enumerated in the 1948 Universal Declaration of Human Rights, that are affirmed in the Machakos Protocol of 2002 and the Nairobi Declaration on the Final Phase of Peace in the Sudan signed on June 5, 2004, are applied to all of Sudan, including the Darfur region;
 
-&emsp;“(2) the parties to the N'Djamena Agreement (the Government of Sudan, the JEM, and the SLA) must meet their obligations under that Agreement to allowsafe and immediate delivery of all humanitarian assistance throughout the Darfur region and must expedite the conclusion of a political agreement to end the genocide and conflict in the Darfur region;
+&emsp;“(2) the parties to the N'Djamena Agreement (the Government of Sudan, the JEM, and the SLA) must meet their obligations under that Agreement to allow safe and immediate delivery of all humanitarian assistance throughout the Darfur region and must expedite the conclusion of a political agreement to end the genocide and conflict in the Darfur region;
 
 &emsp;“(3) the United States should continue to provide humanitarian assistance to the areas of Sudan to which the United States has access and, at the same time, implement a plan to provide assistance to the areas of Sudan to which access has been obstructed or denied;
 
@@ -1872,7 +1878,7 @@ Pub. L. 107–245, Oct. 21, 2002, 116 Stat. 1504, as amended by Pub. L. 108–49
 
 &emsp;“(6) Through the manipulation of traditional rivalries among peoples in areas outside of its full control, the Government of Sudan has used divide-and-conquer techniques effectively to subjugate its population. However, internationally sponsored reconciliation efforts have played a critical role in reducing human suffering and the effectiveness of this tactic.
 
-&emsp;“(7) The Government of Sudan utilizes and organizes militias, Popular Defense Forces, and other irregular units for raiding and enslaving parties in areas outside of the control of the Government of Sudan in an effort to disrupt severely the ability of the populations in those areas to sustain themselves. The tactic helps minimize the Government of Sudan's accountability internationally.
+&emsp;“(7) The Government of Sudan utilizes and organizes militias, Popular Defense Forces, and other irregular units for raiding and enslaving parties inareas outside of the control of the Government of Sudan in an effort to disrupt severely the ability of the populations in those areas to sustain themselves. The tactic helps minimize the Government of Sudan's accountability internationally.
 
 &emsp;“(8) The Government of Sudan has repeatedly stated that it intends to use the expected proceeds from future oil sales to increase the tempo and lethality of the war against the areas outside of its control.
 
@@ -1976,7 +1982,7 @@ Measures of Certain Conditions Not Met.—
 
 Presidential determination.—
 
-&emsp;&emsp;“(A) The President shall make a determination and certify in writing to the appropriate congressional committees within 6 months after the date of enactment of this Act \[Oct. 21, 2002\], and each 6 months thereafter, that the Government of Sudan and the Sudan People's Liberation Movement are negotiating in good faith and that negotiations should continue.
+&emsp;&emsp;“(A) The President shall make a determination and certify in writing to the appropriate congressional committees within 6 months after the date of enactment of this Act \[Oct. 21, 2002\], and each 6months thereafter, that the Government of Sudan and the Sudan People's Liberation Movement are negotiating in good faith and that negotiations should continue.
 
 &emsp;&emsp;“(B) If, under subparagraph (A) the President determines and certifies in writing to the appropriate congressional committees that the Government of Sudan has not engaged in good faith negotiations to achieve a permanent, just, and equitable peace agreement, or has unreasonably interfered with humanitarian efforts, then the President, after consultation with the Congress, shall implement the measures set forth in paragraph (2).
 
@@ -2028,7 +2034,7 @@ Definition.—In this section, the term ‘international financial institution�
 
 “(a)
 
-Report on Commercial Activity.—Not later than 30 days after the date of the enactment of theComprehensive Peace in Sudan Act of 2004 \[Dec. 23, 2004\], and annually thereafter until the completion of the interim period outlined in the Machakos Protocol of 2002, the Secretary of State, in consultation with relevant United States Government departments and agencies, shall submit to the appropriate congressional committees a report regarding commercial activity in Sudan that includes—
+Report on Commercial Activity.—Not later than 30 days after the date of the enactment of the Comprehensive Peace in Sudan Act of 2004 \[Dec. 23, 2004\], and annually thereafter until the completion of the interim period outlined in the Machakos Protocol of 2002, the Secretary of State, in consultation with relevant United States Government departments and agencies, shall submit to the appropriate congressional committees a report regarding commercial activity in Sudan that includes—
 
 &emsp;“(1) a description of the sources and current status of Sudan's financing and construction of infrastructure and pipelines for oil exploitation, the effects of such financing and construction on the inhabitants of the regions in which the oil fields are located and the ability of the Government of Sudan to finance the war in Sudan with the proceeds of the oil exploitation;
 
@@ -2046,7 +2052,7 @@ Report on the Conflict in Sudan, Including the Darfur Region.—Not later than 3
 
 “(c)
 
-Report on African Union Mission in Sudan.—Until such time as AMIS concludes its mission in Darfur, in conjunction with the other reports required under this section, the Secretary of State, in consultation with all relevant Federal departments and agencies, shall prepare and submit a report, to the appropriate congressional committees, regarding—
+Report on African Union Mission in Sudan.—Until such time as AMIS concludes its mission in Darfur, in conjunction with the other reports requiredunder this section, the Secretary of State, in consultation with all relevant Federal departments and agencies, shall prepare and submit a report, to the appropriate congressional committees, regarding—
 
 &emsp;“(1) a detailed description of all United States assistance provided to the African Union Mission in Sudan (referred to in this subsection as ‘AMIS’) since the establishment of AMIS, reported by fiscal year and the type and purpose of such assistance; and
 
@@ -2120,7 +2126,7 @@ Assistance.—
 
 Authority.—Notwithstanding any other provision of law, the President is authorized to provide assistance for Sudan as authorized in paragraph (5) of this section—
 
-&emsp;&emsp;“(A) subject to the requirements of this section, to support the implementation of a comprehensivepeace agreement that applies to all regions of Sudan, including the Darfur region; and
+&emsp;&emsp;“(A) subject to the requirements of this section, to support the implementation of a comprehensive peace agreement that applies to all regions of Sudan, including the Darfur region; and
 
 &emsp;&emsp;“(B) to address the humanitarian and human rights crisis in the Darfur region and eastern Chad, including to support the African Union mission in the Darfur region, provided that no assistance may be made available to the Government of Sudan.
 
@@ -2234,7 +2240,7 @@ Exceptions.—Any foreign person who—
 
 “(d)
 
-Submission in Classified Form.—When the President considers it appropriate, reports submitted under subsection (a), or appropriate parts thereof, may be submitted in classified form.
+Submission in Classified Form.—When the President considers it appropriate, reports submittedunder subsection (a), or appropriate parts thereof, may be submitted in classified form.
 
 “(e)
 
@@ -2300,7 +2306,7 @@ In General.—Sections 3 and 4 shall not apply to a foreign person 15 days after
 
 &emsp;“(2) the goods, services, or technology the transfer of which caused that person to be identified in a report submitted pursuant to section 2(a) did not materially contribute to the efforts of Iran, North Korea, or Syria, as the case may be, to develop nuclear, biological, or chemical weapons, or ballistic or cruise missile systems, or weapons listed on the Wassenaar Arrangement Munitions List of July 12, 1996, or any subsequent revision of that list;
 
-&emsp;“(3) the person is subject to the primary jurisdiction of a government that is an adherent to one or more relevant nonproliferation regimes, the person was identified in a report submitted pursuant to section 2(a) with respect to a transfer of goods, services,or technology described in section 2(a)(1), and such transfer was made consistent with the guidelines and parameters of all such relevant regimes of which such government is an adherent; or
+&emsp;“(3) the person is subject to the primary jurisdiction of a government that is an adherent to one or more relevant nonproliferation regimes, the person was identified in a report submitted pursuant to section 2(a) with respect to a transfer of goods, services, or technology described in section 2(a)(1), and such transfer was made consistent with the guidelines and parameters of all such relevant regimes of which such government is an adherent; or
 
 &emsp;“(4) the government with primary jurisdiction over the person has imposed meaningful penalties on that person on account of the transfer of the goods, services, or technology which caused that person to be identified in a report submitted pursuant to section 2(a).
 
@@ -2320,7 +2326,7 @@ Submission in Classified Form.—When the President considers it appropriate, th
 
 “(a)
 
-Restriction on Extraordinary Payments in Connection With the International Space Station.—Notwithstanding any other provision of law, no agency of the United States Government may make extraordinary payments in connection with the International Space Station to the Russian Aviation and Space Agency, any organization or entity under the jurisdiction or control of the Russian Aviation and Space Agency, or any other organization, entity, or element of the Government of the Russian Federation, unless, during the fiscal year in which the extraordinary payments in connection with the International Space Station are to be made, the President has made the determination described in subsection (b), and reported such determination to the Committee on International Relations \[now Committee on Foreign Affairs\] and the Committee on Science \[now Committee on Science and Technology\] of the House of Representatives and the Committee on Foreign Relations and the Committee on Commerce, Science, and Transportation of the Senate.
+Restriction on Extraordinary Payments in Connection With the International Space Station.—Notwithstanding any other provision of law, no agency of the United States Government may make extraordinary payments in connection with the International Space Station to the Russian Aviation and Space Agency, any organization or entity under the jurisdiction or control of the Russian Aviation and Space Agency, or any other organization, entity, or element of the Government of the Russian Federation, unless, during the fiscal year in which the extraordinary payments in connection with the International Space Station are to bemade, the President has made the determination described in subsection (b), and reported such determination to the Committee on International Relations \[now Committee on Foreign Affairs\] and the Committee on Science \[now Committee on Science and Technology\] of the House of Representatives and the Committee on Foreign Relations and the Committee on Commerce, Science, and Transportation of the Senate.
 
 “(b)
 
@@ -2550,7 +2556,7 @@ People's Liberation Army.—For purposes of this section, the term ‘People's L
 
 #### Iran Sanctions
 
-Pub. L. 104–172, Aug. 5, 1996, 110 Stat. 1541, as amended by Pub. L. 107–24, §§2(a), 3–5, Aug. 3, 2001, 115 Stat. 199, 200; Pub. L. 109–267, §1, Aug. 4, 2006, 120 Stat. 680; Pub. L. 109–293, title II, §§201–202(b), 203–205(g)(1), Sept. 30, 2006, 120 Stat. 1345–1347, provided that:
+Pub. L. 104–172, Aug. 5, 1996, 110 Stat. 1541, as amended by Pub. L. 107–24, §§2(a), 3–5, Aug. 3, 2001, 115 Stat. 199, 200; Pub. L. 109–267, §1, Aug. 4, 2006, 120 Stat. 680; Pub. L. 109–293, title II, §§201–202(b), 203–205(g)(1), Sept. 30, 2006, 120 Stat. 1345–1347; Pub. L. 111–195, title I, §102(a)–(g), July 1, 2010, 124 Stat. 1317–1324, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -2568,7 +2574,7 @@ Pub. L. 104–172, Aug. 5, 1996, 110 Stat. 1541, as amended by Pub. L. 107–24,
 
 #### “SEC. 3. DECLARATION OF POLICY.
 
-“The Congress declares that it is the policy of the United States to deny Iran the ability to support acts of international terrorism and to fund the developmentand acquisition of weapons of mass destruction and the means to deliver them by limiting the development of Iran's ability to explore for, extract, refine, or transport by pipeline petroleum resources of Iran.
+“The Congress declares that it is the policy of the United States to deny Iran the ability to support acts of international terrorism and to fund the development and acquisition of weapons of mass destruction and the means to deliver them by limiting the development of Iran's ability to explore for, extract, refine, or transport by pipeline petroleum resources of Iran.
 
 #### “SEC. 4. MULTILATERAL REGIME.
 
@@ -2582,7 +2588,7 @@ Reports to Congress.—The President shall report to the appropriate congression
 
 &emsp;“(1) the countries that have agreed to undertake measures to further the objectives of section 3 with respect to Iran, and a description of those measures; and
 
-&emsp;“(2) the countries that have not agreed to measures described in paragraph (1), and, with respect to those countries, other measures (in addition to that provided in subsection (d)) the President recommends that the United States take to further the objectives of section 3 with respect to Iran.
+&emsp;“(2) the countries that have not agreed to measures described in paragraph (1), and, with respect to those countries, other measures the President recommends that the United States take to further the objectives of section 3 with respect to Iran.
 
 “(c)
 
@@ -2590,25 +2596,43 @@ Waiver.—
 
 &emsp;“(1)
 
-In general.—The President may, on a case by case basis, waive for a period of not more than six months the application of section 5(a) with respect to a national of a country, if the President certifies to the appropriate congressional committees at least 30 days before such waiver is to take effect that such waiver is vital to the national security interests of the United States.
+In general.—
+
+&emsp;&emsp;“(A)
+
+General waiver.—The President may, on a case by case basis, waive for a period of not more than six months the application of section 5(a) with respect to a national of a country, if the President certifies to the appropriate congressional committees at least 30 days before such waiver is to take effect that such waiver is vital to the national security interests of the United States.
+
+&emsp;&emsp;“(B)
+
+Waiver with respect to persons in countries that cooperate in multilateral efforts with respect to iran.—The President may, on a case by case basis, waive for a period of not more than 12 months the application of section 5(a) with respect to a person if the President, at least 30 days before the waiver is to take effect—
+
+&emsp;&emsp;&emsp;“(i) certifies to the appropriate congressional committees that—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the government with primary jurisdiction over the person is closely cooperating with the United States in multilateral efforts to prevent Iran from—
+
+&emsp;&emsp;&emsp;“(aa) acquiring or developing chemical, biological, or nuclear weapons or related technologies; or
+
+&emsp;&emsp;&emsp;“(bb) acquiring or developing destabilizing numbers and types of advanced conventional weapons; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) such a waiver is vital to the national security interests of the United States; and
+
+&emsp;&emsp;&emsp;“(ii) submits to the appropriate congressional committees a report identifying—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the person with respect to which the President waives the application of sanctions; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the actions taken by the government described in clause (i)(I) to cooperate in multilateral efforts described in that clause.
 
 &emsp;“(2)
 
-Subsequent renewal of waiver.—If the President determines that, in accordance with paragraph (1), such a waiver is appropriate, the President may, at the conclusion of the period of a waiver under paragraph (1), renew such waiver for subsequent periods of not more than six months each.
+Subsequent renewal of waiver.—At the conclusion of the period of a waiver under subparagraph (A) or (B) of paragraph (1), the President may renew the waiver—
+
+&emsp;&emsp;“(A) if the President determines, in accordance with subparagraph (A) or (B) of that paragraph (as the case may be), that the waiver is appropriate; and
+
+&emsp;&emsp;“(B)(i) in the case of a waiver under subparagraph (A) of paragraph (1), for subsequent periods of not more than six months each; and
+
+&emsp;&emsp;&emsp;“(ii) in the case of a waiver under subparagraph (B) of paragraph (1), for subsequent periods of not more than 12 months each.
 
 “(d)
-
-Enhanced Sanction.—
-
-&emsp;“(1)
-
-Sanction.—With respect to nationals of countries except those with respect to which the President has exercised the waiver authority of subsection (c), at any time after the first report is required to be submitted under subsection (b), section 5(a) shall be applied by substituting ‘$20,000,000’ for ‘$40,000,000’ each place it appears, and by substituting ‘$5,000,000’ for ‘$10,000,000’.
-
-&emsp;“(2)
-
-Report to congress.—The President shall report to the appropriate congressional committees any country with respect to which paragraph (1) applies.
-
-“(e)
 
 Interim Report on Multilateral Sanctions; Monitoring.—The President, not later than 90 days after the date of the enactment of this Act, shall report to the appropriate congressional committees on—
 
@@ -2618,45 +2642,159 @@ Interim Report on Multilateral Sanctions; Monitoring.—The President, not later
 
 &emsp;“(3) the disposition of any decision with respect to such sanctions by the World Trade Organization or its predecessor organization.
 
-“(f)
+“(e)
 
 Investigations.—
 
 &emsp;“(1)
 
-In general.—The President should initiate an investigation into the possible imposition of sanctions under section 5(a) against a person upon receipt by the United States of credible information indicating that such person is engaged in investment activity in Iran as described in such section.
+In general.—The President shall initiate an investigation into the possible imposition of sanctions under section 5(a) against a person upon receipt by the United States of credible information indicating that such person is engaged in an activity described in such section.
 
 &emsp;“(2)
 
-Determination and notification.—Not later than 180 days after an investigation is initiated in accordance with paragraph (1), the President should determine, pursuant to section 5(a), if a person has engaged in investment activity in Iran as described in such section and shall notify the appropriate congressional committees of the basis for any such determination.
+Determination and notification.—Not later than 180 days after an investigation is initiated in accordance with paragraph (1), the President shall (unless paragraph (3) applies) determine, pursuant to section 5(a), if a person has engaged in an activity described in such section and shall notify the appropriate congressional committees of the basis for any such determination.
+
+&emsp;“(3)
+
+Special rule.—The President need not initiate an investigation, and may terminate an investigation, under this subsection if the President certifies in writing to the appropriate congressional committees that—
+
+&emsp;&emsp;“(A) the person whose activity was the basis for the investigation is no longer engaging in the activity or has taken significant verifiable steps toward stopping the activity; and
+
+&emsp;&emsp;“(B) the President has received reliable assurances that the person will not knowingly engage in an activity described in section 5(a) in the future.
 
 #### “SEC. 5. IMPOSITION OF SANCTIONS.
 
 “(a)
 
-Sanctions With Respect to the Development of Petroleum Resources of Iran.—Except as provided in subsection (f), the President shall impose 2 or more of the sanctions described in paragraphs (1) through (6) of section 6 if the President determines that a person has, with actual knowledge, on or after the date of the enactment of this Act \[Aug. 5, 1996\], made an investment of $40,000,000 or more (or any combination of investments of at least $10,000,000 each, which in the aggregate equals or exceeds $40,000,000 in any 12-month period), that directly and significantly contributed to the enhancement of Iran's ability to develop petroleum resources of Iran.
+Sanctions With Respect to the Development of Petroleum Resources of Iran, Production of Refined Petroleum Products in Iran, and Exportation of Refined Petroleum Products to Iran.—
+
+&emsp;“(1)
+
+Development of petroleum resources of iran.—
+
+&emsp;&emsp;“(A)
+
+In general.—Except as provided in subsection (f), the President shall impose 3 or more of the sanctions described in section 6(a) with respect to a person if the President determines that the person knowingly, on or after the date of the enactment of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 \[July 1, 2010\]—
+
+&emsp;&emsp;&emsp;“(i) makes an investment described in subparagraph (B) of $20,000,000 or more; or
+
+&emsp;&emsp;&emsp;“(ii) makes a combination of investments described in subparagraph (B) in a 12-month period if each such investment is of at least $5,000,000 and such investments equal or exceed $20,000,000 in the aggregate.
+
+&emsp;&emsp;“(B)
+
+Investment described.—An investment described in this subparagraph is an investment that directly and significantly contributes to the enhancement of Iran's ability to develop petroleum resources.
+
+&emsp;“(2)
+
+Production of refined petroleum products.—
+
+&emsp;&emsp;“(A)
+
+In general.—Except as provided in subsection (f), the President shall impose 3 or more of the sanctions described in section 6(a) with respect to a person if the President determines that the person knowingly, on or after the date of the enactment of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, sells, leases, or provides to Iran goods, services, technology, information, or support described in subparagraph (B)—
+
+&emsp;&emsp;&emsp;“(i) any of which has a fair market value of $1,000,000 or more; or
+
+&emsp;&emsp;&emsp;“(ii) that, during a 12-month period, have an aggregate fair market value of $5,000,000 or more.
+
+&emsp;&emsp;“(B)
+
+Goods, services, technology, information, or support described.—Goods, services, technology, information, or support described in this subparagraph are goods, services, technology, information, or support that could directly and significantly facilitate the maintenance or expansion of Iran's domestic production of refined petroleum products, including any direct and significant assistance with respect to the construction, modernization, or repair of petroleum refineries.
+
+&emsp;“(3)
+
+Exportation of refined petroleum products to iran.—
+
+&emsp;&emsp;“(A)
+
+In general.—Except as provided in subsection (f), the President shall impose 3 or more of the sanctions described in section 6(a) with respect to a person if the President determines that the person knowingly, on or after the date of the enactment of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010—
+
+&emsp;&emsp;&emsp;“(i) sells or provides to Iran refined petroleum products—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) that have a fair market value of $1,000,000 or more; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) that, during a 12-month period, have an aggregate fair market value of $5,000,000 or more; or
+
+&emsp;&emsp;&emsp;“(ii) sells, leases, or provides to Iran goods, services, technology, information, or support described in subparagraph (B)—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) any of which has a fair market value of $1,000,000 or more; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) that, during a 12-month period, have an aggregate fair market value of $5,000,000 or more.
+
+&emsp;&emsp;“(B)
+
+Goods, services, technology, information, or support described.—Goods, services, technology, information, or support described in this subparagraph are goods, services, technology, information, or support that could directly and significantly contribute to the enhancement of Iran'sability to import refined petroleum products, including—
+
+&emsp;&emsp;&emsp;“(i) except as provided in subparagraph (C), underwriting or entering into a contract to provide insurance or reinsurance for the sale, lease, or provision of such goods, services, technology, information, or support;
+
+&emsp;&emsp;&emsp;“(ii) financing or brokering such sale, lease, or provision; or
+
+&emsp;&emsp;&emsp;“(iii) providing ships or shipping services to deliver refined petroleum products to Iran.
+
+&emsp;&emsp;“(C)
+
+Exception for underwriters and insurance providers exercising due diligence.—The President may not impose sanctions under this paragraph with respect to a person that provides underwriting services or insurance or reinsurance if the President determines that the person has exercised due diligence in establishing and enforcing official policies, procedures, and controls to ensure that the person does not underwrite or enter into a contract to provide insurance or reinsurance for the sale, lease, or provision of goods, services, technology, information, or support described in subparagraph (B).
 
 “(b)
 
-Mandatory Sanctions With Respect to Development of Weapons of Mass Destruction or Other Military Capabilities.—The President shall impose two or more of the sanctions described in paragraphs (1) through (6) of section 6 if the President determines that a person has, on or after the date of the enactment of this Act \[Aug. 5, 1996\], exported, transferred, or otherwise provided to Iran any goods, services, technology, or other items knowing that the provision of such goods, services, technology, or other items would contribute materially to the ability of Iran to—
+Mandatory Sanctions With Respect to Development of Weapons of Mass Destruction or Other Military Capabilities.—
 
-&emsp;“(1) acquire or develop chemical, biological, or nuclear weapons or related technologies; or
+&emsp;“(1)
 
-&emsp;“(2) acquire or develop destabilizing numbers and types of advanced conventional weapons.
+In general.—The President shall impose 3 or more of the sanctions described in section 6(a) if the President determines that a person has, on or after the date of the enactment of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 \[July 1, 2010\], exported, transferred, or otherwise provided to Iran any goods, services, technology, or other items knowing that the provision of such goods, services, technology, or other items would contribute materially to the ability of Iran to—
+
+&emsp;&emsp;“(A) acquire or develop chemical, biological, or nuclear weapons or related technologies; or
+
+&emsp;&emsp;“(B) acquire or develop destabilizing numbers and types of advanced conventional weapons.
+
+&emsp;“(2)
+
+Additional mandatory sanctions relating to transfer of nuclear technology.—
+
+&emsp;&emsp;“(A)
+
+In general.—Except as provided in subparagraphs (B) and (C), in any case in which a person is subject to sanctions under paragraph (1) because of an activity described in that paragraph that relates to the acquisition or development of nuclear weapons or related technology or of missiles or advanced conventional weapons that are designed or modified to deliver a nuclear weapon, no license may be issued for the export, and no approval may be given for the transfer or retransfer, directly or indirectly, to the country the government of which has primary jurisdiction over the person, of any nuclear material, facilities, components, or other goods, services, or technology that are or would be subject to an agreement for cooperation between the United States and that government.
+
+&emsp;&emsp;“(B)
+
+Exception.—The sanctions described in subparagraph (A) shall not apply with respect to a country the government of which has primary jurisdiction over a person that engages in an activity described in that subparagraph if the President determines and notifies the appropriate congressional committees that the government of the country—
+
+&emsp;&emsp;&emsp;“(i) does not know or have reason to know about the activity; or
+
+&emsp;&emsp;&emsp;“(ii) has taken, or is taking, all reasonable steps necessary to prevent a recurrence of the activity and to penalize the person for the activity.
+
+&emsp;&emsp;“(C)
+
+Individual approval.—Notwithstanding subparagraph (A), the President may, on a case-by-case basis, approve the issuance of a license for the export, or approve the transfer or retransfer, of any nuclear material, facilities, components, or other goods, services, or technology that are or would be subject to an agreement for cooperation, to a person in a country to which subparagraph (A) applies (other than a person that is subject to the sanctions under paragraph (1)) if the President—
+
+&emsp;&emsp;&emsp;“(i) determines that such approval is vital to the national security interests of the United States; and
+
+&emsp;&emsp;&emsp;“(ii) not later than 15 days before issuing such license or approving such transfer or retransfer, submits to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate the justification for approving such license, transfer, or retransfer.
+
+&emsp;&emsp;“(D)
+
+Construction.—The restrictions in subparagraph (A) shall apply in addition to all other applicable procedures, requirements, and restrictions contained in the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\] and other related laws.
+
+&emsp;&emsp;“(E)
+
+Definition.—In this paragraph, the term ‘agreement for cooperation’ has the meaning given that term in section 11 b. of the Atomic Energy Act of 1954 (42 U.S.C. 2014(b)).
+
+&emsp;&emsp;“(F)
+
+Applicability.—The sanctions under subparagraph (A) shall apply only in a case in which a person is subject to sanctions under paragraph (1) because of an activity described in that paragraph in which the person engages on or after the date of the enactment of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 \[July 1, 2010\].
 
 “(c)
 
-Persons Against Which the Sanctions Are To Be Imposed.—The sanctions described in subsections (a) and (b) shall be imposed on—
+Persons Against Which the Sanctions Are To Be Imposed.—The sanctions described in subsections (a) and (b)(1) shall be imposed on—
 
-&emsp;“(1) any person the President determines has carried out the activities described in subsection (a) or (b); and
+&emsp;“(1) any person the President determines has carried out the activities described in subsection (a) or (b)(1); and
 
-&emsp;“(2) any person the President determines—
+&emsp;“(2) any person that—
 
 &emsp;&emsp;“(A) is a successor entity to the person referred to in paragraph (1);
 
-&emsp;&emsp;“(B) is a parent or subsidiary of the person referred to in paragraph (1) if that parent or subsidiary, with actual knowledge, engaged in the activities referred to in paragraph (1); or
+&emsp;&emsp;“(B) owns or controls the person referred to in paragraph (1), if the person that owns or controls the person referred to in paragraph (1) had actual knowledge or should have known that the person referred to in paragraph (1) engaged in the activities referred to in that paragraph; or
 
-&emsp;&emsp;“(C) is an affiliate of the person referred to in paragraph (1) if that affiliate, with actual knowledge, engaged in the activities referred to in paragraph (1) and if that affiliate is controlled in fact by the person referred to in paragraph (1).
+&emsp;&emsp;“(C) is owned or controlled by, or under common ownership or control with, the person referred to in paragraph (1), if the person owned or controlled by, or under common ownership or control with (as the case may be), the person referred to in paragraph (1) knowingly engaged in the activities referred to in that paragraph.
 
 > For purposes of this Act, any person or entity described in this subsection shall be referred to as a ‘sanctioned person’.
 
@@ -2670,17 +2808,17 @@ Publication of Projects.—The President shall cause to be published in the Fede
 
 “(f)
 
-Exceptions.—The President shall not be required to apply or maintain the sanctions under subsection (a) or (b)—
+Exceptions.—The President shall not be required to apply or maintain the sanctions under subsection (a) or (b)(1)—
 
 &emsp;“(1) in the case of procurement of defense articles or defense services—
 
 &emsp;&emsp;“(A) under existing contracts or subcontracts, including the exercise of options for production quantities to satisfy requirements essential to the national security of the United States;
 
-&emsp;&emsp;“(B) if the President determines in writing that the person to which the sanctions would otherwisebe applied is a sole source supplier of the defense articles or services, that the defense articles or services are essential, and that alternative sources are not readily or reasonably available; or
+&emsp;&emsp;“(B) if the President determines in writing that the person to which the sanctions would otherwise be applied is a sole source supplier of the defense articles or services, that the defense articles or services are essential, and that alternative sources are not readily or reasonably available; or
 
 &emsp;&emsp;“(C) if the President determines in writing that such articles or services are essential to the national security under defense coproduction agreements;
 
-&emsp;“(2) in the case of procurement, to eligible products, as defined in section 308(4) of the Trade Agreements Act of 1979 (19 U.S.C. 2518(4)), of any foreign country or instrumentality designated under section 301(b)(1) of that Act (19 U.S.C. 2511(b)(1));
+&emsp;“(2) in the case of procurement, to eligible products, as defined in section 308(4) of the Trade Agreements Act of 1979 (19 U.S.C. 2518(4)), of any foreign country or instrumentality designated under section 301(b) of that Act (19 U.S.C. 2511(b));
 
 &emsp;“(3) to products, technology, or services provided under contracts entered into before the date on which the President publishes in the Federal Register the name of the person on whom the sanctions are to be imposed;
 
@@ -2698,7 +2836,9 @@ Exceptions.—The President shall not be required to apply or maintain the sanct
 
 #### “SEC. 6. DESCRIPTION OF SANCTIONS.
 
-“The sanctions to be imposed on a sanctioned person under section 5 are as follows:
+“(a)
+
+In General.—The sanctions to be imposed on a sanctioned person under section 5 are as follows:
 
 &emsp;“(1)
 
@@ -2740,7 +2880,65 @@ Procurement sanction.—The United States Government may not procure, or enter i
 
 &emsp;“(6)
 
+Foreign exchange.—The President may, pursuant to such regulations as the President may prescribe, prohibit any transactions in foreign exchange that are subject to the jurisdiction of the United States and in which the sanctioned person has any interest.
+
+&emsp;“(7)
+
+Banking transactions.—The President may, pursuant to such regulations as the President may prescribe, prohibit any transfers of credit or payments between financial institutions or by, through, or to any financial institution, to the extent that such transfers or payments are subject to the jurisdiction of the United States and involve any interest of the sanctioned person.
+
+&emsp;“(8)
+
+Property transactions.—The President may, pursuant to such regulations as the President may prescribe, prohibit any person from—
+
+&emsp;&emsp;“(A) acquiring, holding, withholding, using, transferring, withdrawing, transporting, importing, or exporting any property that is subject to the jurisdiction of the United States and with respect to which the sanctioned person has any interest;
+
+&emsp;&emsp;“(B) dealing in or exercising any right, power, or privilege with respect to such property; or
+
+&emsp;&emsp;“(C) conducting any transaction involving such property.
+
+&emsp;“(9)
+
 Additional sanctions.—The President may impose sanctions, as appropriate, to restrict imports with respect to a sanctioned person, in accordance with the International Emergency Economic Powers Act (50 U.S.C. 1701 and following).
+
+“(b)
+
+Additional Measure Relating to Government Contracts.—
+
+&emsp;“(1)
+
+Modification of federal acquisition regulation.—Not later than 90 days after the date of the enactment of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 \[July 1, 2010\], the Federal Acquisition Regulation issued pursuant to section 25 of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 421) \[see 41 U.S.C. 1303\] shall be revised to require a certification from each person that is a prospective contractor that the person, and any person owned or controlled by the person, does not engage in any activity for which sanctions may be imposed under section 5.
+
+&emsp;“(2)
+
+Remedies.—
+
+&emsp;&emsp;“(A)
+
+In general.—If the head of an executive agency determines that a person has submitted a false certification under paragraph (1) on or after the date on which the revision of the Federal Acquisition Regulation required by this subsection becomes effective, the head of that executive agency shall terminate a contract with such person or debar or suspend such person from eligibility for Federal contracts for a period of not more than 3 years. Any such debarment or suspension shall be subject to the procedures that apply to debarment and suspension under the Federal Acquisition Regulation under subpart 9.4 of part 9 of title 48, Code of Federal Regulations.
+
+&emsp;&emsp;“(B)
+
+Inclusion on list of parties excluded from federal procurement and nonprocurement programs.—The Administrator of General Services shall include on the List of Parties Excluded from Federal Procurement and Nonprocurement Programs maintained by the Administrator under part 9 of the Federal Acquisition Regulation issued pursuant to section 25 of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 421) \[see 41 U.S.C. 1303\] each person that is debarred, suspended, or proposed for debarment or suspension by the head of an executive agency on the basis of a determination of a false certification under subparagraph (A).
+
+&emsp;“(3)
+
+Clarification regarding certain products.—The remedies set forth in paragraph (2) shall not apply with respect to the procurement of eligible products, as defined in section 308(4) of the Trade Agreements Act of 1974 \[1979\] (19 U.S.C. 2518(4)), of any foreign country or instrumentality designated under section 301(b) of that Act (19 U.S.C. 2511(b)).
+
+&emsp;“(4)
+
+Rule of construction.—This subsection shall not be construed to limit the use of other remedies available to the head of an executive agency or any other official of the Federal Government on the basis of a determination of a false certification under paragraph (1).
+
+&emsp;“(5)
+
+Waivers.—The President may on a case-by-case basis waive the requirement that a person make a certification under paragraph (1) if the President determines and certifies in writing to the appropriate congressional committees, the Committee on Armed Services of the Senate, and the Committee on Armed Services of the House of Representatives, that it is in the national interest of the United States to do so.
+
+&emsp;“(6)
+
+Executive agency defined.—In this subsection, the term ‘executive agency’ has the meaning given that term in section 4 of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 403) \[see 41 U.S.C. 133\].
+
+&emsp;“(7)
+
+Applicability.—The revisions to the Federal Acquisition Regulation required under paragraph (1) shall apply with respect to contracts for which solicitations are issued on or after the date that is 90 days after the date of the enactment of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 \[July 1, 2010\].
 
 #### “SEC. 7. ADVISORY OPINIONS.
 
@@ -2770,11 +2968,11 @@ Delay of Sanctions.—
 
 &emsp;“(1)
 
-Consultations.—If the President makes a determination described in section 5(a) or 5(b) with respect to a foreign person, the Congress urges the President to initiate consultations immediately with the government with primary jurisdiction over that foreign person with respect to the imposition of sanctions under this Act.
+Consultations.—If the President makes a determination described in section 5(a) or 5(b)(1) with respect to a foreign person, the Congress urges the President to initiate consultations immediately with the government with primary jurisdiction over that foreign person with respect to the imposition of sanctions under this Act.
 
 &emsp;“(2)
 
-Actions by government of jurisdiction.—In order to pursue consultations under paragraph (1) with the government concerned, the President may delay imposition of sanctions under this Act for up to 90 days. Following such consultations, the President shall immediately impose sanctions unless the President determines and certifies to the Congress that the government has taken specific and effective actions, including, as appropriate, the imposition of appropriate penalties, to terminate the involvement of the foreign person in the activities that resulted in the determination by the President under section 5(a) or 5(b) concerning such person.
+Actions by government of jurisdiction.—In order to pursue consultations under paragraph (1) with the government concerned, the President may delay imposition of sanctions under this Act for up to 90 days. Following such consultations, the President shall immediately impose sanctions unless the President determines and certifies to the Congress that the government has taken specific and effective actions, including, as appropriate, the imposition of appropriate penalties, to terminate the involvement of the foreign person in the activities that resulted in the determination by the President under section 5(a) or 5(b)(1) concerning such person.
 
 &emsp;“(3)
 
@@ -2782,7 +2980,7 @@ Additional delay in imposition of sanctions.—The President may delay the impos
 
 &emsp;“(4)
 
-Report to congress.—Not later than 90 days after making a determination under section 5(a) or 5(b), the President shall submit to the appropriate congressional committees a report on the status of consultations with the appropriate foreign government under this subsection, and the basis for any determination under paragraph (3).
+Report to congress.—Not later than 90 days after making a determination under section 5(a) or 5(b)(1), the President shall submit to the appropriate congressional committees a report on the status of consultations with the appropriate foreign government under this subsection, and the basis for any determination under paragraph (3).
 
 “(b)
 
@@ -2798,23 +2996,31 @@ Presidential Waiver.—
 
 &emsp;“(1)
 
-Authority.—The President may waive the requirement in section 5 to impose a sanction or sanctions on a person described in section 5(c), and may waive the continued imposition of a sanction or sanctions under subsection (b) of this section, 30 days or more after the President determines and so reports to the appropriate congressional committees that it is important to the national interest of the United States to exercise such waiver authority.
+Authority.—The President may waive the requirement in section 5 to impose a sanction or sanctions on a person described in section 5(c), and may waive the continued imposition of a sanction or sanctions under subsection (b) of this section, 30 days or more after the President determines and so reports to the appropriate congressional committees that it is necessary to the national interest of the United States to exercise such waiver authority.
 
 &emsp;“(2)
 
 Contents of report.—Any report under paragraph (1) shall provide a specific and detailed rationale for the determination under paragraph (1), including—
 
-&emsp;&emsp;“(A) a description of the conduct that resulted in the determination under section 5(a) or (b), as the case may be;
+&emsp;&emsp;“(A) a description of the conduct that resulted in the determination under section 5(a) or 5(b)(1), as the case may be;
 
-&emsp;&emsp;“(B) in the case of a foreign person, an explanation of the efforts to secure the cooperation of the government with primary jurisdiction over the sanctioned person to terminate or, as appropriate, penalize the activities that resulted in the determination under section 5(a) or (b), as the case may be;
+&emsp;&emsp;“(B) in the case of a foreign person, an explanation of the efforts to secure the cooperation of the government with primary jurisdiction over the sanctioned person to terminate or, as appropriate, penalize the activities that resulted in the determination under section 5(a) or 5(b)(1), as the case may be;
 
-&emsp;&emsp;“(C) an estimate of the significance of the provision of the items described in section 5(a) or section 5(b) to Iran's ability to, respectively, develop its petroleum resources or its weapons of mass destruction or other military capabilities; and
+&emsp;&emsp;“(C) an estimate of the significance of the conduct of the person in contributing to the ability of Iran to, as the case may be—
 
-&emsp;&emsp;“(D) a statement as to the response of the United States in the event that the person concerned engages in other activities that would be subject to section 5(a) or (b).
+&emsp;&emsp;&emsp;“(i) develop petroleum resources, produce refined petroleum products, or import refined petroleum products; or
+
+&emsp;&emsp;&emsp;“(ii) acquire or develop—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) chemical, biological, or nuclear weapons or related technologies; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) destabilizing numbers and types of advanced conventional weapons; and
+
+&emsp;&emsp;“(D) a statement as to the response of the United States in the event that the person concerned engages in other activities that would be subject to section 5(a) or 5(b)(1).
 
 &emsp;“(3)
 
-Effect of report on waiver.—If the President makes a report under paragraph (1) with respect to a waiver of sanctions on a person described in section 5(c), sanctions need not be imposed under section 5(a) or (b) on that person during the 30-day period referred to in paragraph (1).
+Effect of report on waiver.—If the President makes a report under paragraph (1) with respect to a waiver of sanctions on a person described in section 5(c), sanctions need not be imposed under section 5(a) or 5(b)(1) on that person during the 30-day period referred to in paragraph (1).
 
 #### “SEC. 10. REPORTS REQUIRED.
 
@@ -2852,6 +3058,10 @@ Other Reports.—The President shall ensure the continued transmittal to the Con
 
 &emsp;“(2) the support provided by Iran for acts of international terrorism, as part of the Department of State's annual report on international terrorism.
 
+“(d)
+
+Reports on Global Trade Relating to Iran.—Not later than 90 days after the date of the enactment of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 \[July 1, 2010\], and annually thereafter, the President shall submit to the appropriate congressional committees a report, with respect to the most recent 12-month period for which data are available, on the dollar value amount of trade, including in the energy sector, between Iran and each country maintaining membership in the Group of 20 Finance Ministers and Central Bank Governors.
+
 #### “SEC. 11. DETERMINATIONS NOT REVIEWABLE.
 
 “A determination to impose sanctions under this Act shall not be reviewable in any court.
@@ -2868,7 +3078,7 @@ Effective Date.—This Act shall take effect on the date of the enactment of thi
 
 “(b)
 
-Sunset.—This Act shall cease to be effective on December 31, 2011.
+Sunset.—This Act shall cease to be effective on December 31, 2016.
 
 #### “SEC. 14. DEFINITIONS.
 
@@ -2890,7 +3100,7 @@ Act of international terrorism.—The term ‘act of international terrorism’ 
 
 &emsp;“(2)
 
-Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committee on Finance, the Committee on Banking, Housing, and Urban Affairs, and the Committee on Foreign Relations of the Senate and the Committee on Ways and Means, the Committee on Banking and Financial Services \[now Committee on Financial Services\], and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives.
+Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committee on Finance, the Committee on Banking, Housing, and Urban Affairs, and the Committee on Foreign Relations of the Senate and the Committee on Ways and Means, the Committee on Financial Services, and the Committee on Foreign Affairs of the House of Representatives.
 
 &emsp;“(3)
 
@@ -2940,7 +3150,7 @@ Investment.—The term ‘investment’ means any of the following activities if
 
 &emsp;&emsp;“(C) The entry into a contract providing for the participation in royalties, earnings, or profits in that development, without regard to the form of the participation.
 
-> &emsp;The term ‘investment’ does not include the entry into, performance, or financing of a contract to sell or purchase goods, services, or technology. For purposes of this paragraph, an amendment or other modification that is made, on or after June 13, 2001, to an agreement or contract shall be treated as the entry of an agreement or contract.
+> &emsp;For purposes of this paragraph, an amendment or other modification that is made, on or after June 13, 2001, to an agreement or contract shall be treated as the entry of an agreement or contract.
 
 &emsp;“(10)
 
@@ -2976,27 +3186,43 @@ Iranian diplomats and representatives of other government and military or quasi-
 
 &emsp;“(12)
 
-Nuclear explosive device.—The term ‘nuclear explosive device’ means any device, whether assembled or disassembled, that is designed to produce an instantaneous release of an amount of nuclear energy from special nuclear material (as defined in section 11(aa) of the Atomic Energy Act of 1954 \[42 U.S.C. 2014(aa)\]) that is greater than the amount of energy that would be released from the detonation of one pound of trinitrotoluene (TNT).
+Knowingly.—The term ‘knowingly’, with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
 
 &emsp;“(13)
 
-Person.—The term ‘person’ means—
-
-&emsp;&emsp;“(A) a natural person;
-
-&emsp;&emsp;“(B) a corporation, business association, partnership, society, trust, any other nongovernmental entity, organization, or group, and any governmental entity operating as a business enterprise; and
-
-&emsp;&emsp;“(C) any successor to any entity described in subparagraph (B).
+Nuclear explosive device.—The term ‘nuclear explosive device’ means any device, whether assembled or disassembled, that is designed to produce an instantaneous release of an amount of nuclear energy from special nuclear material (as defined in section 11(aa) of the Atomic Energy Act of 1954 \[42 U.S.C. 2014(aa)\]) that is greater than the amount of energy that would be released from the detonation of one pound of trinitrotoluene (TNT).
 
 &emsp;“(14)
 
-Petroleum resources.—The term ‘petroleum resources’ includes petroleum and natural gas resources.
+Person.—
+
+&emsp;&emsp;“(A)
+
+In general.—The term ‘person’ means—
+
+&emsp;&emsp;&emsp;“(i) a natural person;
+
+&emsp;&emsp;&emsp;“(ii) a corporation, business association, partnership, society, trust, financial institution, insurer, underwriter, guarantor, and any other business organization, any other nongovernmental entity, organization, or group, and any governmental entity operating as a business enterprise; and
+
+&emsp;&emsp;&emsp;“(iii) any successor to any entity described in clause (ii).
+
+&emsp;&emsp;“(B)
+
+Application to governmental entities.—The term ‘person’ does not include a government or governmental entity that is not operating as a business enterprise.
 
 &emsp;“(15)
 
-United states or state.—The term ‘United States’ or ‘State’ means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, the United States Virgin Islands, and any other territory or possession of the United States.
+Petroleum resources.—The term ‘petroleum resources’ includes petroleum, refined petroleum products, oil or liquefied natural gas, natural gas resources, oil or liquefied natural gas tankers, and products used to construct or maintain pipelines used to transport oil or liquefied natural gas.
 
 &emsp;“(16)
+
+Refined petroleum products.—The term ‘refined petroleum products’ means diesel, gasoline, jet fuel (including naphtha-type and kerosene-type jet fuel), and aviation gasoline.
+
+&emsp;“(17)
+
+United states or state.—The term ‘United States’ or ‘State’ means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, the United States Virgin Islands, and any other territory or possession of the United States.
+
+&emsp;“(18)
 
 United states person.—The term ‘United States person’ means—
 
@@ -3004,13 +3230,103 @@ United states person.—The term ‘United States person’ means—
 
 &emsp;&emsp;“(B) a corporation or other legal entity which is organized under the laws of the United States, any State or territory thereof, or the District of Columbia, if natural persons described in subparagraph (A) own, directly or indirectly, more than 50 percent of the outstanding capital stock or other beneficial interest in such legal entity.”
 
+\[Pub. L. 111–195, title I, §102(h), July 1, 2010, 124 Stat. 1325, provided that:
+
+\[“(1)
+
+In general.—The amendments made by this section \[amending Pub. L. 104–172, set out above\] shall—
+
+&emsp;\[“(A) take effect on the date of the enactment of this Act \[July 1, 2010\]; and
+
+&emsp;\[“(B) except as provided in this subsection or section 6(b)(7) of the Iran Sanctions Act of 1996 \[Pub. L. 104–172, set out above\], as amended by subsection (b) of this section, apply with respect to an investment or activity described in subsection (a) or (b) of section 5 of the Iran Sanctions Act of 1996, as amended by this section, that is commenced on or after such date of enactment.
+
+\[“(2)
+
+Applicability to ongoing investments prohibited under prior law.—A person that makes an investment described in section 5(a) of the Iran Sanctions Act of 1996, as in effect on the day before the date of the enactment of this Act, that is commenced before such date of enactment and continues on or after such date of enactment, shall, except as provided in paragraph (4), be subject to the provisions of the Iran Sanctions Act of 1996, as in effect on the day before such date of enactment.
+
+\[“(3)
+
+Applicability to ongoing activities relating to chemical, biological, or nuclear weapons or related technologies.—A person that, before the date of the enactment of this Act, commenced an activity described in section 5(b) of the Iran Sanctions Act of 1996, as in effect on the day before such date of enactment, and continues the activity on or after such date of enactment, shall be subject to the provisions of the Iran Sanctions Act of 1996, as amended by this Act.
+
+\[“(4)
+
+Applicability of mandatory investigations to investments.—The amendments made by subsection (g)(5) of this section \[amending section 4 of Pub. L. 104–172, set out above\] shall apply on and after the date of the enactment of this Act—
+
+&emsp;\[“(A) with respect to an investment described in section 5(a)(1) of the Iran Sanctions Act of 1996, as amended by subsection (a) of this section, that is commenced on or after such date of enactment; and
+
+&emsp;\[“(B) with respect to an investment described in section 5(a) of the Iran Sanctions Act of 1996, as in effect on the day before the date of the enactment of this Act, that is commenced before such date of enactment and continues on or after such date of enactment.
+
+\[“(5)
+
+Applicability of mandatory investigations to activities relating to petroleum.—
+
+&emsp;\[“(A)
+
+In general.—Except as provided in subparagraph (B), the amendments made by subsection (g)(5) of this section shall apply on and after the date that is 1 year after the date of the enactment of this Act with respect to an activity described in paragraph (2) or (3) of section 5(a) of the Iran Sanctions Act of 1996, as amended by subsection (a) of this section, that is commenced on or after the date that is 1 year after the date of the enactment of this Act or the date on which the President fails to submit a certification that is required under subparagraph (B) (whichever is applicable).
+
+&emsp;\[“(B)
+
+Special rule for delay of effective date.—
+
+&emsp;&emsp;\[“(i)
+
+Reporting requirement.—Not later than 30 days before the date that is 1 year after the date of the enactment of this Act, the President shall submit to the appropriate congressional committees a report describing—
+
+&emsp;&emsp;&emsp;\[“(I) the diplomatic and other efforts of the President—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\[“(aa) to dissuade foreign persons from engaging in activities described in paragraph (2) or (3) of section 5(a) of the Iran Sanctions Act of 1996,as amended by subsection (a) of this section; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\[“(bb) to encourage other governments to dissuade persons over which those governments have jurisdiction from engaging in such activities;
+
+&emsp;&emsp;&emsp;\[“(II) the successes and failures of the efforts described in subclause (I); and
+
+&emsp;&emsp;&emsp;\[“(III) each investigation under section 4(e) of the Iran Sanctions Act of 1996, as amended by subsection (g)(5) of this section and as in effect pursuant to subparagraph (C) of this paragraph, or any other review of an activity described in paragraph (2) or (3) of section 5(a) of the Iran Sanctions Act of 1996, as amended by subsection (a) of this section, that is initiated or ongoing during the period beginning on the date of the enactment of this Act and ending on the date on which the President is required to submit the report.
+
+&emsp;&emsp;\[“(ii)
+
+Certification.—If the President submits to the appropriate congressional committees, with the report required by clause (i), a certification that there was a substantial reduction in activities described in paragraphs (2) and (3) of section 5(a) of the Iran Sanctions Act of 1996, as amended by subsection (a) of this section, during the period described in clause (i)(III), the effective date provided for in subparagraph (A) shall be delayed for a 180-day period beginning after the date provided for in that subparagraph.
+
+&emsp;&emsp;\[“(iii)
+
+Subsequent reports and delays.—The effective date provided for in subparagraph (A) shall be delayed for additional 180-day periods occurring after the end of the 180-day period provided for under clause (ii), if, not later than 30 days before the 180-day period preceding such additional 180-day period expires, the President submits to the appropriate congressional committees—
+
+&emsp;&emsp;&emsp;\[“(I) a report containing the matters required in the report under clause (i) for the period beginning on the date on which the preceding report was required to be submitted under clause (i) or this clause (as the case may be) and ending on the date on which the President is required to submit the most recent report under this clause; and
+
+&emsp;&emsp;&emsp;\[“(II) a certification that, during the period described in subclause (I), there was (as compared to the period for which the preceding report was submitted under this subparagraph) a progressive reduction in activities described in paragraphs (2) and (3) of section 5(a) of the Iran Sanctions Act of 1996, as amended by subsection (a) of this section.
+
+&emsp;&emsp;\[“(iv)
+
+Consequence of failure to certify.—If the President does not make a certification at a time required by this subparagraph—
+
+&emsp;&emsp;&emsp;\[“(I) the amendments made by subsection (g)(5) of this section shall apply on and after the date on which the certification was required to be submitted by this subparagraph, with respect to an activity described in paragraph (2) or (3) of section 5(a) of the Iran Sanctions Act of 1996, as amended by subsection (a) of this section, that—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\[“(aa) is referenced in the most recent report required to be submitted under this subparagraph; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\[“(bb) is commenced on or after the date on which such most recent report is required to be submitted; and
+
+&emsp;&emsp;&emsp;\[“(II) not later than 45 days after the date on which the certification was required to be submitted by this subparagraph, the President shall make a determination under paragraph (2) or (3) of section 5(a) of the Iran Sanctions Act of 1996 (as the case may be), as amended by subsection (a) of this section, with respect to relevant activities described in subclause (I)(aa).
+
+&emsp;\[“(C)
+
+Applicability of permissive investigations.—During the 1-year period beginning on the date of the enactment of this Act and during any 180-day period during which the effective date provided for in subparagraph (A) is delayed pursuant to subparagraph (B), section 4(e) of the Iran Sanctions Act of 1996, as amended by subsection (g)(5) of this section, shall be applied, with respect to an activity described in paragraph (2) or (3) of section 5(a) of the Iran Sanctions Act of 1996, as amended by subsection (a) of this section, by substituting ‘should’ for ‘shall’ each place it appears.
+
+\[“(6)
+
+Waiver authority.—The amendments made by subsection (c) \[amending section 9 of Pub. L. 104–172, set out above\] shall not be construed to affect any exercise of the authority under section 9(c) of the Iran Sanctions Act of 1996, as in effect on the day before the date of the enactment of this Act.”\]
+
+\[For definition of “appropriate congressional committees” as used in section 102(h) of Pub. L. 111–195, set out above, see section 8511 of Title 22, Foreign Relations and Intercourse.\]
+
+\[Functions of President under section 102(h)(5) of Pub. L. 111–195, set out above, delegated to Secretary of State by Memorandum of President of the United States, Sept. 23, 2010, 75 F.R. 67025, set out as a note under section 8501 of Title 22, Foreign Relations and Intercourse.\]
+
 \[Pub. L. 109–293, title II, §202(c), Sept. 30, 2006, 120 Stat. 1346, provided that: “The amendments made by this section \[amending section 5 of Pub. L. 104–172, set out above\] shall apply with respect to actions taken on or after June 6, 2006.”\]
 
 \[Pub. L. 109–293, title II, §205(g)(2), Sept. 30, 2006, 120 Stat. 1347, provided that: “Any reference in any other provision of law, regulation, document, or other record of the United States to the ‘Iran and Libya Sanctions Act of 1996’ shall be deemed to be a reference to the ‘Iran Sanctions Act of 1996’ \[Pub. L. 104–172, set out above\].”\]
 
 \[Pub. L. 107–24, §2(b), Aug. 3, 2001, 115 Stat. 199, provided that: “The amendments made by subsection (a) \[amending section 5 of Pub. L. 104–172, set out above\] shall apply to investments made on or after June 13, 2001.”\]
 
-\[Memorandum of President of the United States, Nov. 21, 1996, 61 F.R. 64249, delegated to the Secretary of State, in consultation with the Departments of the Treasury and Commerce and the United States Trade Representative, and with the Export-Import Bank and Federal Reserve Board and other interested agencies as appropriate functions vested in the President by sections 4(c), 5(a), (b), (c), (f), 6(1), (2), and 9(c) of Pub. L. 104–172, set out above, delegated to the Secretary of State functions vested in the President by sections 4(a), (b), (d), (e), 5(d), (e), 9(a), (b), and 10 of Pub. L. 104–172, provided that any reference to provisions of any Act related to the subject of the memorandum be deemed to include references to any subsequent provision of law that is the same or substantially the same as such provisions, and provided that only the functions vested in the President by sections 4(a), (b), (d), (e), 5(d), (e), and 10 of Pub. L. 104–172 and delegated by the memorandum could be redelegated.\]
+\[For delegation of certain functions of President under sections 4, 5, 6, 9, and 10 of Pub. L. 104–172, set out above, see Memorandum of President of the United States, Sept. 23, 2010, 75 F.R. 67025, set out as a note under section 8501 of Title 22, Foreign Relations and Intercourse.\]
+
+\[Memorandum of President of the United States, Nov. 21, 1996, 61 F.R. 64249, delegated to the Secretary of State, in consultation with the Departments of the Treasury and Commerce and the United States Trade Representative, and with the Export-Import Bank and Federal Reserve Board and other interested agencies as appropriate functions vested in the President by section 4(c), former section 5(a), section 5(b), (c), (f), former section 6(1), (2) (now section 6(a)(1), (2)), and section 9(c) of Pub. L. 104–172, set out above, delegated to the Secretary of State functions vested in the President by section 4(a), (b), former section 4(d), (e) (now (d)), and sections 5(d), (e), 9(a), (b), and 10 of Pub. L. 104–172, provided that any reference to provisions of any Act related to the subject of the memorandum be deemed to include references to any subsequent provision of law that is the same or substantially the same as such provisions, and provided that only the functions vested in the President by section 4(a), (b), former section 4(d), (e) (now (d)), and sections 5(d), (e) and 10 of Pub. L. 104–172 and delegated by the memorandum could be redelegated.\]
 
 #### Determination and Certification under Section 8(b) of the Iran and Libya Sanctions Act
 
@@ -3018,7 +3334,7 @@ Determination of President of the United States, No. 2004–30, Apr. 23, 2004, 6
 
 Memorandum for the Secretary of State
 
-Pursuant to section 8(b) of the Iran and Libya Sanctions Act of 1996 \[now Iran Sanctions Act of 1996\] (Public Law 104–172; 50 U.S.C. 1701 note), as amended (Public Law 107–24), I hereby determine and certify that Libya has fulfilled the requirements of United Nations Security Council Resolution 731, adopted January 21, 1992, United Nations Security Council Resolution 748, adopted March 31, 1992, and United Nations Security Council Resolution 883, adopted November 11, 1993.
+Pursuant to section 8(b) of the Iran and Libya Sanctions Act of 1996 \[now Iran Sanctions Act of 1996\] (Public Law 104–172; 50 U.S.C. 1701 note), as amended (Public Law 107–24), I hereby determine and certify that Libyahas fulfilled the requirements of United Nations Security Council Resolution 731, adopted January 21, 1992, United Nations Security Council Resolution 748, adopted March 31, 1992, and United Nations Security Council Resolution 883, adopted November 11, 1993.
 
 You are authorized and directed to transmit this determination and certification to the appropriate congressional committees and to arrange for its publication in the Federal Register.
 
@@ -3318,7 +3634,7 @@ Form of Transmittal.—Reports required by this section may be submitted in clas
 
 #### Payment of Claims by United States Nationals Against Iraq
 
-Pub. L. 101–519, §131, Nov. 5, 1990, 104 Stat. 2249, which authorized President to vest title in a portion of property in which transactions were blocked pursuant to Executive Order 12722, listed in a table below, in order to satisfy obligations owed to United States Government and United States nationals for which Iraq had suspended repayment, was repealed by Pub. L. 102–27, title IV, §402(a), Apr. 10, 1991, 105 Stat. 155, as amended by Pub. L. 102–136, §126, Oct. 25, 1991, 105 Stat. 643, effective Nov. 5, 1990.
+Pub. L. 101–519, §131, Nov. 5, 1990, 104 Stat. 2249, which authorized President to vest title in a portion of property in which transactions were blocked pursuant to Executive Order 12722, listed in a table below, in orderto satisfy obligations owed to United States Government and United States nationals for which Iraq had suspended repayment, was repealed by Pub. L. 102–27, title IV, §402(a), Apr. 10, 1991, 105 Stat. 155, as amended by Pub. L. 102–136, §126, Oct. 25, 1991, 105 Stat. 643, effective Nov. 5, 1990.
 
 #### Iraq Sanctions
 
@@ -3502,11 +3818,11 @@ NRC licenses.—The Nuclear Regulatory Commission shall not issue any license or
 
 &emsp;&emsp;“(B)
 
-Distribution of nuclear materials.—The authority of the Atomic Energy Act of 1954 shallnot be used to distribute any special nuclear material, source material, or byproduct material to Iraq.
+Distribution of nuclear materials.—The authority of the Atomic Energy Act of 1954 shall not be used to distribute any special nuclear material, source material, or byproduct material to Iraq.
 
 &emsp;&emsp;“(C)
 
-DOE authorizations.—The Secretary of Energy shall not provide a specific authorization under section 57b.(2) of the Atomic Energy Act of 1954 (42 U.S.C. 2077(b)(2)) for any activity that would constitute directly or indirectly engaging in Iraq in activities that require a specific authorization under that section.
+DOE authorizations.—The Secretary of Energy shall not provide a specific authorization under section 57b.(2) of the Atomic Energy Act of1954 (42 U.S.C. 2077(b)(2)) for any activity that would constitute directly or indirectly engaging in Iraq in activities that require a specific authorization under that section.
 
 &emsp;“(5)
 
@@ -3604,7 +3920,7 @@ Study and Report on the International Export to Iraq of Nuclear, Biological, Che
 
 &emsp;“(C) a recommendation of standards and procedures against which to measure and verify a decision of the Government of Iraq to terminate the development, production, coproduction, and deployment of nuclear, biological, chemical, and offensive ballistic missile technology as well as the destruction of all existing facilities associated with such technologies.
 
-“(2) The President shall include in the study required by paragraph (1) specific recommendations on new mechanisms, to include, but not be limited to, legal, political, economic and regulatory, whereby the United States might contribute, in conjunction with its friends, allies, and the international community, to the management, control, or elimination of the threat of nuclear, biological, chemical, and ballistic missile proliferation.
+“(2) The President shall include in the study required by paragraph (1) specific recommendations on new mechanisms, to include, but not be limited to, legal, political, economic and regulatory, whereby the UnitedStates might contribute, in conjunction with its friends, allies, and the international community, to the management, control, or elimination of the threat of nuclear, biological, chemical, and ballistic missile proliferation.
 
 “(3) Not later than March 30, 1991, the President shall submit to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives, a report, in both classified and unclassified form, setting forth the findings of the study required by paragraph (1) of this subsection.
 
@@ -3738,6 +4054,8 @@ Ex. Ord. No. 13405, June 16, 2006, 71 F.R. 35485.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13405 were contained in the following:
 
+&emsp;Notice of President of the United States, dated June 8, 2010, 75 F.R. 32841.
+
 &emsp;Notice of President of the United States, dated June 12, 2009, 74 F.R. 28437.
 
 &emsp;Notice of President of the United States, dated June 6, 2008, 73 F.R. 32981.
@@ -3749,6 +4067,8 @@ Ex. Ord. No. 13405, June 16, 2006, 71 F.R. 35485.
 Ex. Ord. No. 13047, May 20, 1997, 62 F.R. 28301, sections 1 to 7 of which were revoked by Ex. Ord. No. 13310, §12, July 28, 2003, 68 F.R. 44855, to the extent inconsistent with Ex. Ord. No. 13310.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13047 were contained in the following:
+
+&emsp;Notice of President of the United States, dated May 13, 2010, 75 F.R. 27629.
 
 &emsp;Notice of President of the United States, dated May 14, 2009, 74 F.R. 23287.
 
@@ -3786,6 +4106,8 @@ Ex. Ord. No. 12978, Oct. 21, 1995, 60 F.R. 54579, as amended by Ex. Ord. No. 132
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 12978 were contained in the following:
 
+&emsp;Notice of President of the United States, dated Oct. 14, 2010, 75 F.R. 64109.
+
 &emsp;Notice of President of the United States, dated Oct. 16, 2009, 74 F.R. 53879.
 
 &emsp;Notice of President of the United States, dated Oct. 16, 2008, 73 F.R. 62433.
@@ -3820,6 +4142,8 @@ Ex. Ord. No. 13396, Feb. 7, 2006, 71 F.R. 7389.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13396 were contained in the following:
 
+&emsp;Notice of President of the United States, dated Feb. 2, 2010, 75 F.R. 5675.
+
 &emsp;Notice of President of the United States, dated Feb. 4, 2009, 74 F.R. 6349.
 
 &emsp;Notice of President of the United States, dated Feb. 5, 2008, 73 F.R. 7185.
@@ -3831,6 +4155,8 @@ Ex. Ord. No. 13396, Feb. 7, 2006, 71 F.R. 7389.
 Ex. Ord. No. 12947, Jan. 23, 1995, 60 F.R. 5079, as amended by Ex. Ord. No. 13099, §§1, 2, Aug. 20, 1998, 63 F.R. 45167; Ex. Ord. No. 13372, §2, Feb. 16, 2005, 70 F.R. 8499.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 12947 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Jan. 20, 2010, 75 F.R. 3845.
 
 &emsp;Notice of President of the United States, dated Jan. 15, 2009, 74 F.R. 3961.
 
@@ -3863,6 +4189,8 @@ Ex. Ord. No. 12947, Jan. 23, 1995, 60 F.R. 5079, as amended by Ex. Ord. No. 1309
 Ex. Ord. No. 13224, Sept. 23, 2001, 66 F.R. 49079, as amended by Ex. Ord. No. 13268, §1, July 2, 2002, 67 F.R. 44751; Ex. Ord. No. 13284, §4, Jan. 23, 2003, 68 F.R. 4075; Ex. Ord. No. 13372, §1, Feb. 16, 2005, 70 F.R. 8499.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13224 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Sept. 16, 2010, 75 F.R. 57159.
 
 &emsp;Notice of President of the United States, dated Sept. 21, 2009, 74 F.R. 48359.
 
@@ -3982,6 +4310,8 @@ Ex. Ord. No. 13222, Aug. 17, 2001, 66 F.R. 44025.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13222 were contained in the following:
 
+&emsp;Notice of President of the United States, dated Aug. 12, 2010, 75 F.R. 50681.
+
 &emsp;Notice of President of the United States, dated Aug. 13, 2009, 74 F.R. 41325.
 
 &emsp;Notice of President of the United States, dated July 23, 2008, 73 F.R. 43603.
@@ -4003,6 +4333,8 @@ Ex. Ord. No. 13222, Aug. 17, 2001, 66 F.R. 44025.
 Ex. Ord. No. 13413, Oct. 27, 2006, 71 F.R. 64105.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13413 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Oct. 22, 2010, 75 F.R. 65935.
 
 &emsp;Notice of President of the United States, dated Oct. 20, 2009, 74 F.R. 54741.
 
@@ -4043,6 +4375,8 @@ Ex. Ord. No. 12932, Oct. 14, 1994, 59 F.R. 52403.
 Ex. Ord. No. 12170, Nov. 14, 1979, 44 F.R. 65729.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 12170 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Nov. 10, 2010, 75 F.R. 69569.
 
 &emsp;Notice of President of the United States, dated Nov. 12, 2009, 74 F.R. 58841.
 
@@ -4130,6 +4464,8 @@ Ex. Ord. No. 12957, Mar. 15, 1995, 60 F.R. 14615, sections 1 and 2 of which were
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 12957 were contained in the following:
 
+&emsp;Notice of President of the United States, dated Mar. 10, 2010, 75 F.R. 12117.
+
 &emsp;Notice of President of the United States, dated Mar. 11, 2009, 74 F.R. 10999.
 
 &emsp;Notice of President of the United States, dated Mar. 11, 2008, 73 F.R. 13727.
@@ -4161,6 +4497,8 @@ Ex. Ord. No. 12957, Mar. 15, 1995, 60 F.R. 14615, sections 1 and 2 of which were
 Ex. Ord. No. 12959, May 6, 1995, 60 F.R. 24757, as amended by Ex. Ord. No. 13059, §7, Aug. 19, 1997, 62 F.R. 44533.
 
 Ex. Ord. No. 13059, Aug. 19, 1997, 62 F.R. 44531.
+
+Ex. Ord. No. 13553, Sept. 28, 2010, 75 F.R. 60567.
 
 #### Iraq
 
@@ -4202,6 +4540,8 @@ Ex. Ord. No. 13303, May 22, 2003, 68 F.R. 31931, as amended by Ex. Ord. No. 1336
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13303 were contained in the following:
 
+&emsp;Notice of President of the United States, dated May 12, 2010, 75 F.R. 27399.
+
 &emsp;Notice of President of the United States, dated May 19, 2009, 74 F.R. 23935.
 
 &emsp;Notice of President of the United States, dated May 20, 2008, 73 F.R. 29683.
@@ -4236,6 +4576,8 @@ Ex. Ord. No. 13441, Aug. 1, 2007, 72 F.R. 43499.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13441 were contained in the following:
 
+&emsp;Notice of President of the United States, dated July 29, 2010, 75 F.R. 45045.
+
 &emsp;Notice of President of the United States, dated July 30, 2009, 74 F.R. 38321.
 
 &emsp;Notice of President of the United States, dated July 30, 2008, 73 F.R. 44895.
@@ -4249,6 +4591,8 @@ Ex. Ord. No. 13324, Jan. 15, 2004, 69 F.R. 2823.
 Ex. Ord. No. 13348, July 22, 2004, 69 F.R. 44885.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13348 were contained in the following:
+
+&emsp;Notice of President of the United States, dated July 19, 2010, 75 F.R. 42281.
 
 &emsp;Notice of President of the United States, dated July 16, 2009, 74 F.R. 35763.
 
@@ -4330,7 +4674,11 @@ Ex. Ord. No. 13466, June 26, 2008, 73 F.R. 36787.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13466 were contained in the following:
 
+&emsp;Notice of President of the United States, dated June 14, 2010, 75 F.R. 34317.
+
 &emsp;Notice of President of the United States, dated June 24, 2009, 74 F.R. 30457.
+
+Ex. Ord. No. 13551, Aug. 30, 2010, 75 F.R. 53837.
 
 #### Panama
 
@@ -4347,6 +4695,8 @@ Ex. Ord. No. 12710, Apr. 5, 1990, 55 F.R. 13099.
 Ex. Ord. No. 13159, June 21, 2000, 65 F.R. 39279.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13159 were contained in the following:
+
+&emsp;Notice of President of the United States, dated June 17, 2010, 75 F.R. 34921.
 
 &emsp;Notice of President of the United States, dated June 18, 2009, 74 F.R. 29391.
 
@@ -4379,6 +4729,10 @@ Ex. Ord. No. 13194, Jan. 18, 2001, 66 F.R. 7389, as amended by Ex. Ord. No. 1331
 Ex. Ord. No. 13213, May 22, 2001, 66 F.R. 28829, as amended by Ex. Ord. No. 13312, §3(d), July 29, 2003, 68 F.R. 45152, revoked by Ex. Ord. No. 13324, Jan. 15, 2004, 69 F.R. 2823.
 
 Ex. Ord. No. 13324, Jan. 15, 2004, 69 F.R. 2823.
+
+#### Somalia
+
+Ex. Ord. No. 13536, Apr. 12, 2010, 75 F.R. 19869.
 
 #### South Africa
 
@@ -4429,6 +4783,8 @@ Ex. Ord. No. 13412, Oct. 13, 2006, 71 F.R. 61369.
 Ex. Ord. No. 13338, May 11, 2004, 69 F.R. 26751, as amended by Ex. Ord. No. 13460, §2, Feb. 13, 2008, 73 F.R. 8991.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13338 were contained in the following:
+
+&emsp;Notice of President of the United States, dated May 3, 2010, 75 F.R. 24779.
 
 &emsp;Notice of President of the United States, dated May 7, 2009, 74 F.R. 21765.
 
@@ -4519,6 +4875,8 @@ Ex. Ord. No. 13304, May 28, 2003, 68 F.R. 32315.
 Ex. Ord. No. 13288, Mar. 6, 2003, 68 F.R. 11457, as amended by Ex. Ord. No. 13391, Nov. 22, 2005, 70 F.R. 71201.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13288 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Feb. 26, 2010, 75 F.R. 10157.
 
 &emsp;Notice of President of the United States, dated Mar. 3, 2009, 74 F.R. 9751.
 

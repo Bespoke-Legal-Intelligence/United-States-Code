@@ -40,11 +40,11 @@ Provisions similar to those in this section were contained in section 221 of thi
 
 #### Amendments
 
-2004—Subsec. (c)(1). Pub. L. 108–454 substituted “2009” for “2003”.
+<b>2004</b>—Subsec. (c)(1). Pub. L. 108–454 substituted “2009” for “2003”.
 
-2000—Subsec. (c)(1). Pub. L. 106–419 inserted “through 2003” after “each odd-numbered year” in introductory provisions.
+<b>2000</b>—Subsec. (c)(1). Pub. L. 106–419 inserted “through 2003” after “each odd-numbered year” in introductory provisions.
 
-1992—Subsec. (a)(2)(B). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” and “Under Secretary for Benefits” for “Chief Benefits Director”.
+<b>1992</b>—Subsec. (a)(2)(B). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” and “Under Secretary for Benefits” for “Chief Benefits Director”.
 
 #### Termination of Advisory Committees
 

@@ -132,7 +132,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) evidence that the organization is financially sound;
 
-&emsp;&emsp;&emsp;&emsp;(III) an assurance that the organization will provide training and leadership development to the eligible Encore Fellowship recipient if placed with the organization as an Encore Fellow, to assist the Encore Fellow in obtaining a publicservice job in the nonprofit sector or government after the period of the Encore Fellowship; and
+&emsp;&emsp;&emsp;&emsp;(III) an assurance that the organization will provide training and leadership development to the eligible Encore Fellowship recipient if placed with the organization as an Encore Fellow, to assist the Encore Fellow in obtaining a public service job in the nonprofit sector or government after the period of the Encore Fellowship; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) a description of the training and leadership development to be provided to the Encore Fellowship recipient if so placed.
 
@@ -156,7 +156,7 @@
 
 #### (8) Leadership development
 
-&emsp;Each year, the Corporation shall convene current and former Encore Fellows to discuss the Encore Fellows’ experiences related to service under this subsection and discuss strategies for increasing leadership and careers in public service in the nonprofit sector or government.
+&emsp;Each year, the Corporation shall convene current and former Encore Fellows to discussthe Encore Fellows’ experiences related to service under this subsection and discuss strategies for increasing leadership and careers in public service in the nonprofit sector or government.
 
 #### (c) Evaluations
 

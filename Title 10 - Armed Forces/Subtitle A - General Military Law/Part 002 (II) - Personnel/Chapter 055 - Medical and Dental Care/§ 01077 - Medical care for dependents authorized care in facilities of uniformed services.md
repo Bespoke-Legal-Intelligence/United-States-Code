@@ -142,9 +142,9 @@ A prior section 1077, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to dist
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–375 designated existing provisions as par. (1), substituted “Except as specified in paragraph (2), a” for “A”, and added par. (2).
+<b>2004</b>—Subsec. (c). Pub. L. 108–375 designated existing provisions as par. (1), substituted “Except as specified in paragraph (2), a” for “A”, and added par. (2).
 
-2001—Subsec. (a)(12). Pub. L. 107–107, §703(a)(1), substituted “which” for “such as wheelchairs, iron lungs, and hospital beds”.
+<b>2001</b>—Subsec. (a)(12). Pub. L. 107–107, §703(a)(1), substituted “which” for “such as wheelchairs, iron lungs, and hospital beds”.
 
 Subsec. (a)(16). Pub. L. 107–107, §702(1), added par. (16).
 
@@ -156,7 +156,7 @@ Subsec. (e). Pub. L. 107–107, §702(3), added subsec. (e).
 
 Subsec. (f). Pub. L. 107–107, §703(a)(2), added subsec. (f).
 
-1997—Subsec. (a)(15). Pub. L. 105–85, §702(a), added cl. (15).
+<b>1997</b>—Subsec. (a)(15). Pub. L. 105–85, §702(a), added cl. (15).
 
 Subsec. (b)(2). Pub. L. 105–85, §702(b), added par. (2) and struck out former par. (2) which read as follows: “Prosthetic devices, hearing aids, orthopedic footwear, and spectacles except that—
 
@@ -164,21 +164,21 @@ Subsec. (b)(2). Pub. L. 105–85, §702(b), added par. (2) and struck out former
 
 &emsp;“(B) artificial limbs, voice prostheses, and artificial eyes may be provided.”
 
-1996—Subsec. (a)(14). Pub. L. 104–201 added cl. (14).
+<b>1996</b>—Subsec. (a)(14). Pub. L. 104–201 added cl. (14).
 
-1994—Subsec. (b)(2)(B). Pub. L. 103–337, §705, inserted “, voice prostheses,” after “artificial limbs”.
+<b>1994</b>—Subsec. (b)(2)(B). Pub. L. 103–337, §705, inserted “, voice prostheses,” after “artificial limbs”.
 
 Subsec. (c). Pub. L. 103–337, §703(b), substituted “, dental care provided outside the United States, and dental care” for “and care”.
 
-1993—Subsec. (a)(13). Pub. L. 103–160 added cl. (13).
+<b>1993</b>—Subsec. (a)(13). Pub. L. 103–160 added cl. (13).
 
-1991—Subsec. (a)(8). Pub. L. 102–190, §703, inserted before period at end “, including well-baby care that includes one screening of an infant for the level of lead in the blood of the infant”.
+<b>1991</b>—Subsec. (a)(8). Pub. L. 102–190, §703, inserted before period at end “, including well-baby care that includes one screening of an infant for the level of lead in the blood of the infant”.
 
 Subsec. (d). Pub. L. 102–190, §702(a), added subsec. (d).
 
-1985—Subsec. (c). Pub. L. 99–145 added subsec. (c).
+<b>1985</b>—Subsec. (c). Pub. L. 99–145 added subsec. (c).
 
-1984—Pub. L. 98–525, §1405(22), substituted a colon for the semicolon in section catchline.
+<b>1984</b>—Pub. L. 98–525, §1405(22), substituted a colon for the semicolon in section catchline.
 
 Subsec. (a)(10). Pub. L. 98–525, §633(a)(1), added cl. (10). Former cl. (10) “Emergency dental care worldwide.” was struck out.
 
@@ -190,7 +190,7 @@ Subsec. (a)(13), (14). Pub. L. 98–525, §633(a)(2), redesignated cls. (13) and
 
 Subsec. (b)(3). Pub. L. 98–525, §1401(e)(3), added par. (3).
 
-1966—Pub. L. 89–614 authorized an improved health benefits program for dependents of active duty members of the uniformed services in facilities of such services, expanding health care to be provided to include: hospitalization, outpatient care, and drugs in clauses (1) to (3) of subsec. (a) (hospitalization being limited byformer subsec. (b) to treatment of nervous or mental disturbances or chronic diseases or for elective medical and surgical treatment to one year period in special cases); treatment of mental and surgical conditions in clause (4) minus acute condition restriction of former subsec. (a)(2); treatment of nervous, mental, and chronic conditions in clause (5) formerly restricted as stated above; clause (6) reenactment of former subsec. (a)(3); physical, including eye, examinations in clause (7) reenacting former subsec. (a)(4) immunization provisions; clause (8) reenactment of former subsec. (a)(5); diagnostic tests and services, including laboratory and X-ray examinations (diagnosis being covered in former subsec. (a)(1)); dental care provisions in clauses (10) to (12) (provided in former subsec. (d)) as (1) emergency care to relieve pain and suffering, but not including permanent restorative work or dental prosthesis, (2) care as a necessary adjunct to medical or surgical treatment, and care outside the United States, and in remote areas inside the United States, where adequate civilian facilities are unavailable; ambulance service and home calls in clause 13 (covering former subsec. (c)(2), (3)); durable equipment on loan basis in clause (14); and to exclude in subsec. (b)(1) (incorporating last sentence of former subsec. (b)) custodial care; subsec. (b)(2)(A) reenactment of former subsec. (e)(1); and permitted in subsec. (b)(2)(B) artificial limbs and eyes to be provided.
+<b>1966</b>—Pub. L. 89–614 authorized an improved health benefits program for dependents of active duty members of the uniformed services in facilities of such services, expanding health care to be provided to include: hospitalization, outpatient care, and drugs in clauses (1) to (3) of subsec. (a) (hospitalization being limited byformer subsec. (b) to treatment of nervous or mental disturbances or chronic diseases or for elective medical and surgical treatment to one year period in special cases); treatment of mental and surgical conditions in clause (4) minus acute condition restriction of former subsec. (a)(2); treatment of nervous, mental, and chronic conditions in clause (5) formerly restricted as stated above; clause (6) reenactment of former subsec. (a)(3); physical, including eye, examinations in clause (7) reenacting former subsec. (a)(4) immunization provisions; clause (8) reenactment of former subsec. (a)(5); diagnostic tests and services, including laboratory and X-ray examinations (diagnosis being covered in former subsec. (a)(1)); dental care provisions in clauses (10) to (12) (provided in former subsec. (d)) as (1) emergency care to relieve pain and suffering, but not including permanent restorative work or dental prosthesis, (2) care as a necessary adjunct to medical or surgical treatment, and care outside the United States, and in remote areas inside the United States, where adequate civilian facilities are unavailable; ambulance service and home calls in clause 13 (covering former subsec. (c)(2), (3)); durable equipment on loan basis in clause (14); and to exclude in subsec. (b)(1) (incorporating last sentence of former subsec. (b)) custodial care; subsec. (b)(2)(A) reenactment of former subsec. (e)(1); and permitted in subsec. (b)(2)(B) artificial limbs and eyes to be provided.
 
 #### Effective Date of 1984 Amendment
 

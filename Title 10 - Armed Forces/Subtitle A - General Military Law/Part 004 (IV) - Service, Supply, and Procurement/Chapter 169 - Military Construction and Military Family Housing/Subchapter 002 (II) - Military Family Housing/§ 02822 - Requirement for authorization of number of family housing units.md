@@ -20,21 +20,21 @@
 
 #### Amendments
 
-2003—Subsec. (b)(6). Pub. L. 108–136 added par. (6).
+<b>2003</b>—Subsec. (b)(6). Pub. L. 108–136 added par. (6).
 
-1992—Subsec. (b)(5). Pub. L. 102–484 added par. (5).
+<b>1992</b>—Subsec. (b)(5). Pub. L. 102–484 added par. (5).
 
-1991—Subsec. (b)(4). Pub. L. 102–25 realigned margin of par. (4).
+<b>1991</b>—Subsec. (b)(4). Pub. L. 102–25 realigned margin of par. (4).
 
-1990—Subsec. (b)(4). Pub. L. 101–510 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Housing units acquired without consideration, if—
+<b>1990</b>—Subsec. (b)(4). Pub. L. 101–510 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Housing units acquired without consideration, if—
 
 &emsp;“(A) the Secretary concerned provides to the appropriate committees of Congress written notification of the facts concerning the proposed acquisition; and
 
 &emsp;“(B) a period of 21 days elapses after the notification is received by those committees.”
 
-1987—Subsec. (b)(4). Pub. L. 100–180 added par. (4).
+<b>1987</b>—Subsec. (b)(4). Pub. L. 100–180 added par. (4).
 
-1984—Subsec. (b)(3). Pub. L. 98–525 substituted “section 2832” for “section 2833”.
+<b>1984</b>—Subsec. (b)(3). Pub. L. 98–525 substituted “section 2832” for “section 2833”.
 
 #### Effective Date
 

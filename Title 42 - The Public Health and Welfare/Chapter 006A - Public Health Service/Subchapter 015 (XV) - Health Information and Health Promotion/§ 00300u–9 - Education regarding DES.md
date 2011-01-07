@@ -20,9 +20,11 @@ A prior section 300u–9, act July 1, 1944, ch. 373, title XVII, §1710, as adde
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 109–482 substituted “section 283a–3” for “section 283a”.
+<b>2007</b>—Subsec. (a). Pub. L. 109–482 substituted “section 283a–3” for “section 283a”.
 
 #### Effective Date of 2007 Amendment
 
 Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

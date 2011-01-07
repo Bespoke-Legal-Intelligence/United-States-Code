@@ -76,9 +76,9 @@ Executive Order 12788, referred to in subsec. (c), is set out below.
 
 #### Amendments
 
-2008—Subsec. (d)(1). Pub. L. 110–417 inserted “the Commonwealth of the Northern Mariana Islands,” after “Guam,”.
+<b>2008</b>—Subsec. (d)(1). Pub. L. 110–417 inserted “the Commonwealth of the Northern Mariana Islands,” after “Guam,”.
 
-2006—Subsec. (b)(3). Pub. L. 109–163, §2832(a), substituted “realignment of a military installation” for “significantly reduced operations of a defense facility”, “closure or realignment, cancellation or” for “cancellation,”, and “community or its residents.” for “community and will result in the loss of—
+<b>2006</b>—Subsec. (b)(3). Pub. L. 109–163, §2832(a), substituted “realignment of a military installation” for “significantly reduced operations of a defense facility”, “closure or realignment, cancellation or” for “cancellation,”, and “community or its residents.” for “community and will result in the loss of—
 
 &emsp;“(A) 2,500 or more employee positions, in the case of a Metropolitan Statistical Area or similar area (as defined by the Director of the Office of Management and Budget);
 
@@ -90,29 +90,29 @@ Subsec. (c). Pub. L. 109–364, §2861, added subsec. (c).
 
 Subsec. (d)(1). Pub. L. 109–364, §2862, inserted at end “For purposes of subsection (b)(1)(D), the term ‘military installation’ includes a military facility owned and operated by any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, or the Virgin Islands, even though the facility is not under the jurisdiction of the Department of Defense, if the Secretary of Defense determines that the military facility is subject to significant use for training by the armed forces.”
 
-Pub. L. 109–163, §2832(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term‘military installation’ means any camp, post, station, base, yard, or other installation under the jurisdiction of a military department that is located within any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, or Guam.”
+Pub. L. 109–163, §2832(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘military installation’ means any camp, post, station, base, yard, or other installation under the jurisdiction of a military department that is located within any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, or Guam.”
 
-2002—Subsec. (c). Pub. L. 107–314 struck out heading and text of subsec. (c). Text read as follows: “The Secretary of Defense shall submit a report not later than December 1 of each year to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives concerning the operation of this section during the preceding fiscal year. Each such report shall identify each State, unit of local government, and regional organization that received a grant under this section during such fiscal year and the total amount granted under this section during such year to each such State, unit of local government, and regional organization.”
+<b>2002</b>—Subsec. (c). Pub. L. 107–314 struck out heading and text of subsec. (c). Text read as follows: “The Secretary of Defense shall submit a report not later than December 1 of each year to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives concerning the operation of this section during the preceding fiscal year. Each such report shall identify each State, unit of local government, and regional organization that received a grant under this section during such fiscal year and the total amount granted under this section during such year to each such State, unit of local government, and regional organization.”
 
-1999—Subsec. (c). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+<b>1999</b>—Subsec. (c). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-1997—Subsec. (b)(5)(C). Pub. L. 105–85 added subpar. (C).
+<b>1997</b>—Subsec. (b)(5)(C). Pub. L. 105–85 added subpar. (C).
 
-1996—Subsec. (b)(5). Pub. L. 104–201 designated existing provisions as subpar. (A) and added subpar. (B).
+<b>1996</b>—Subsec. (b)(5). Pub. L. 104–201 designated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (c). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
-1994—Subsec. (b)(5) to (7). Pub. L. 103–337, §1123(a), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
+<b>1994</b>—Subsec. (b)(5) to (7). Pub. L. 103–337, §1123(a), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
 
 Subsec. (b)(8). Pub. L. 103–337, §1123(a)(1), (b), redesignated par. (7) as (8) and substituted “paragraph (7)” for “paragraph (6)” in subpars. (A) and (B).
 
 Subsec. (d)(3). Pub. L. 103–337, §1122(a), added par. (3).
 
-1993—Subsec. (b)(1). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–484, §4301(b)(1)(C). See 1992 Amendment note below.
+<b>1993</b>—Subsec. (b)(1). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–484, §4301(b)(1)(C). See 1992 Amendment note below.
 
 Subsec. (b)(6), (7). Pub. L. 103–160 added pars. (6) and (7).
 
-1992—Subsec. (a). Pub. L. 102–484, §4301(c)(1), inserted heading.
+<b>1992</b>—Subsec. (a). Pub. L. 102–484, §4301(c)(1), inserted heading.
 
 Subsec. (b). Pub. L. 102–484, §4301(c)(2), inserted heading.
 
@@ -130,9 +130,9 @@ Subsec. (d). Pub. L. 102–484, §4301(b)(3), amended subsec. (d) generally. Pri
 
 Subsec. (e). Pub. L. 102–484, §4301(c)(4), inserted heading.
 
-1991—Subsec. (b)(3). Pub. L. 102–25 substituted “publicly announced” for “publicly-announced” and inserted a comma after “only if the reduction”.
+<b>1991</b>—Subsec. (b)(3). Pub. L. 102–25 substituted “publicly announced” for “publicly-announced” and inserted a comma after “only if the reduction”.
 
-1990—Subsec. (b)(3) to (6). Pub. L. 101–510 added par. (3), redesignated par. (5) as (4), and struck out former pars. (3), (4), and (6), which read as follows:
+<b>1990</b>—Subsec. (b)(3) to (6). Pub. L. 101–510 added par. (3), redesignated par. (5) as (4), and struck out former pars. (3), (4), and (6), which read as follows:
 
 “(3) In the case of the cancellation or termination of a Department of Defense contract or the failure to proceed with an approved major weapon system program, assistance may be made under paragraph (1) only if the cancellation, termination, or failure to proceed involves the loss of 2,500 or more full-time Department of Defense and contractor employee positions in the locality of the affected community.
 
@@ -140,13 +140,13 @@ Subsec. (e). Pub. L. 102–484, §4301(c)(4), inserted heading.
 
 “(6) Not more than $2,000,000 in assistance may be provided under this subsection in any fiscal year.”
 
-1988—Subsec. (b)(1). Pub. L. 100–456, §2805(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds made available under Federal programs administered by agencies other than the Department of Defense in order to assist State and local governments, and regional organizations composed of State and local governments, in planning community adjustments required (A) by the proposed or actual establishment, realignment, or closure of a military installation, or (B) by the cancellation or termination of a Department of Defense contract or the failure to proceed with an approved major weapon system program, if the Secretary of Defense determines that the action is likely to impose a significant impact on the affected community.”
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–456, §2805(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds made available under Federal programs administered by agencies other than the Department of Defense in order to assist State and local governments, and regional organizations composed of State and local governments, in planning community adjustments required (A) by the proposed or actual establishment, realignment, or closure of a military installation, or (B) by the cancellation or termination of a Department of Defense contract or the failure to proceed with an approved major weapon system program, if the Secretary of Defense determines that the action is likely to impose a significant impact on the affected community.”
 
 Subsec. (b)(4) to (6). Pub. L. 100–456, §2805(b), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
-1987—Subsec. (d). Pub. L. 100–26 inserted “the term” after “In this section,”.
+<b>1987</b>—Subsec. (d). Pub. L. 100–26 inserted “the term” after “In this section,”.
 
-1983—Subsec. (b)(2). Pub. L. 98–115 substituted “2,000” for “2,500”.
+<b>1983</b>—Subsec. (b)(2). Pub. L. 98–115 substituted “2,000” for “2,500”.
 
 #### Effective Date of 1993 Amendment
 
@@ -366,7 +366,7 @@ Transition to nondefense production required to be considered.—In determining 
 
 “(b)
 
-SBA Use of Authority for Export Financing Assistance.—In determining whether to provide financial or other assistance under the Small Business Act \[15 U.S.C. 631 et seq.\], title VIII of the Omnibus Trade and Competitiveness Act of 1988 \[Pub. L. 100–418, see Short Title of 1988 Amendments note set out under section 631 of Title 15, Commerce and Trade\], or any program referred to in section 4301 to any small business involved in, or attempting to become involved in, the export of any product or service, the Administrator of the Small Business Administration shall take into account the fact that such product or service is produced or provided by any business or group of workers which—
+SBA Use of Authority for Export Financing Assistance.—In determining whether to provide financial or other assistance under the Small Business Act \[15 U.S.C. 631 et seq.\], title VIII of the Omnibus Trade and Competitiveness Act of 1988 \[Pub. L. 100–418, seeShort Title of 1988 Amendments note set out under section 631 of Title 15, Commerce and Trade\], or any program referred to in section 4301 to any small business involved in, or attempting to become involved in, the export of any product or service, the Administrator of the Small Business Administration shall take into account the fact that such product or service is produced or provided by any business or group of workers which—
 
 &emsp;“(1) has been substantially and seriously affected by defense budget reductions; and
 
@@ -548,7 +548,7 @@ Sec. 5. <i>Responsibilities of Executive Agencies.</i>
 
 (b) All executive agencies shall:
 
-(1) Support, to the extent permitted by law, the economic adjustment assistance activities of the Secretary of Defense. Such support may include the use and application of personnel, technical expertise, legal authorities, and available financial resources. This support may be used, to the extent permitted by law, toprovide a coordinated Federal response to the needs of individual States, regions, municipalities, and communities adversely affected by necessary Defense changes;
+(1) Support, to the extent permitted by law, the economic adjustment assistance activities of the Secretary of Defense. Such support may include the use and application of personnel, technical expertise, legal authorities, and available financial resources. This support may be used, to the extent permitted by law, to provide a coordinated Federal response to the needs of individual States, regions, municipalities, and communities adversely affected by necessary Defense changes;
 
 (2) Afford priority consideration to requests from Defense-affected communities for Federal technical assistance, financial resources, excess or surplus property, or other requirements, that are part of a comprehensive plan used by the Committee.
 

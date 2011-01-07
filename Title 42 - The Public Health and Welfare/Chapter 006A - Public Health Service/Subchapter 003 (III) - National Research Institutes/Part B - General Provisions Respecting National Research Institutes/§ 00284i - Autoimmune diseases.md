@@ -38,7 +38,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 1 year after October 17, 2000, the Coordinating Committee shall develop a plan for conducting and supporting research and education on autoimmune diseases through the national research institutes and shall periodically review and revise the plan. The plan shall—
+&emsp;Not later than 1 year after October 17, 2000, the Coordinating Committee shall develop a plan for conducting and supporting research and education on autoimmune diseasesthrough the national research institutes and shall periodically review and revise the plan. The plan shall—
 
 &emsp;&emsp;(A) provide for a broad range of research and education activities relating to biomedical, psychosocial, and rehabilitative issues, including studies of the disproportionate impact of such diseases on women;
 
@@ -70,7 +70,7 @@
 
 #### Amendments
 
-2007—Subsec. (d). Pub. L. 109–482, §104(b)(1)(E), struck out heading and text of subsec. (d). Text read as follows: “The Coordinating Committee under subsection (b)(1) of this section shall biennially submit to the Committee on Commerce of the House of Representatives, and the Committee on Health, Education, Labor and Pensions of the Senate, a report that describes the research, education, and other activities on autoimmune diseases being conducted or supported through the national research institutes, and that in addition includes the following:
+<b>2007</b>—Subsec. (d). Pub. L. 109–482, §104(b)(1)(E), struck out heading and text of subsec. (d). Text read as follows: “The Coordinating Committee under subsection (b)(1) of this section shall biennially submit to the Committee on Commerce of the House of Representatives, and the Committee on Health, Education, Labor and Pensions of the Senate, a report that describes the research, education, and other activities on autoimmune diseases being conducted or supported through the national research institutes, and that in addition includes the following:
 
 &emsp;“(1) The plan under subsection (c)(1) of this section (or revisions to the plan, as the case may be).
 

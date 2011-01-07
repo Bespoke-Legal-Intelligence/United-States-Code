@@ -54,13 +54,13 @@ An individual who is treated as an employee of an American employer under subsec
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–188, §1401(b)(7), struck out subsec. (c) which related to treatment of termination of status as deemed employee.
+<b>1996</b>—Subsec. (c). Pub. L. 104–188, §1401(b)(7), struck out subsec. (c) which related to treatment of termination of status as deemed employee.
 
 Subsec. (e)(2), (3). Pub. L. 104–188, §1402(b)(2), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Section 101(b) (relating to employees’ death benefits).”
 
-1992—Subsec. (c). Pub. L. 102–318 substituted “402(d)” for “402(e)”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–318 substituted “402(d)” for “402(e)”.
 
-1989—Subsec. (a). Pub. L. 101–239, §10201(b)(1), substituted “3121(<i>l</i>)(6)” for “3121(<i>l</i>)(8)”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §10201(b)(1), substituted “3121(<i>l</i>)(6)” for “3121(<i>l</i>)(8)”.
 
 Subsec. (b)(1)(A). Pub. L. 101–239, §7831(f), made technical correction to Pub. L. 99–514, §1114(b)(9)(A), see 1986 Amendment note below.
 
@@ -68,11 +68,11 @@ Subsec. (c). Pub. L. 101–239, §7811(g)(3), substituted “purposes of limitat
 
 Subsec. (c)(3). Pub. L. 101–239, §10201(b)(2), substituted “3121(<i>l</i>)(6)(B)” for “3121(<i>l</i>)(8)(B)”.
 
-1988—Subsec. (c). Pub. L. 100–647, §1011A(b)(16), struck out “of capital gain provisions and” after “service for purposes” in heading and substituted “applying section 402(e)” for “applying subsections (a)(2) and (e) of section 402, and section 403(a)(2)” in text.
+<b>1988</b>—Subsec. (c). Pub. L. 100–647, §1011A(b)(16), struck out “of capital gain provisions and” after “service for purposes” in heading and substituted “applying section 402(e)” for “applying subsections (a)(2) and (e) of section 402, and section 403(a)(2)” in text.
 
 Subsec. (e). Pub. L. 100–647, §1011A(b)(1)(C), redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: “Section 72(d) (relating to employees’ annuities).”
 
-1986—Subsec. (b)(1). Pub. L. 99–514, §1112(d)(3), struck out “(without regard to paragraph (1)(A) thereof)” after “section 410(b)” in introductory text.
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–514, §1112(d)(3), struck out “(without regard to paragraph (1)(A) thereof)” after “section 410(b)” in introductory text.
 
 Subsec. (b)(1)(A). Pub. L. 99–514, §1114(b)(9)(A), as amended by Pub. L. 101–239, §7831(f), substituted “a highly compensated employee (within the meaning of section 414(q))” for “an officer, shareholder, or person whose principal duties consist in supervising the work of other employees of a foreign affiliate of such American employer”.
 
@@ -80,7 +80,7 @@ Subsec. (b)(1)(B). Pub. L. 99–514, §1114(b)(9)(C), inserted “(as so defined
 
 Subsec. (e)(5). Pub. L. 99–514, §1852(e)(2)(C), struck out par. (5) which read as follows: “Section 2517 (relating to certain annuities under qualified plans).”
 
-1984—Subsec. (a). Pub. L. 98–369, §491(d)(13), substituted in introductory provision “or an annuity plan described in section 403(a)” for “, an annuity plan described in section 403(a), or a bond purchase plan described in section 405(a)”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §491(d)(13), substituted in introductory provision “or an annuity plan described in section 403(a)” for “, an annuity plan described in section 403(a), or a bond purchase plan described in section 405(a)”.
 
 Subsec. (a)(3). Pub. L. 98–369, §491(d)(14), substituted “or 403(a)” for “, 403(a), or 405(a)”.
 
@@ -88,7 +88,7 @@ Subsec. (d). Pub. L. 98–369, §491(d)(15)(A), (B), substituted in introductory
 
 Subsec. (d)(2). Pub. L. 98–369, §491(d)(15)(C), struck out “(or section 405(c))” after “section 404”.
 
-1983—Pub. L. 98–21, §321(e)(2)(D)(i), substituted “Employees of foreign affiliates covered by section 3121(<i>l</i>) agreements” for “Certain employees of foreign subsidiaries” in section catchline.
+<b>1983</b>—Pub. L. 98–21, §321(e)(2)(D)(i), substituted “Employees of foreign affiliates covered by section 3121(<i>l</i>) agreements” for “Certain employees of foreign subsidiaries” in section catchline.
 
 Subsec. (a). Pub. L. 98–21, §321(c), amended subsec. (a) generally, substituting “American employer” for “domestic corporation” in heading and in text wherever appearing, inserting reference to section 3121(h) of this title, inserting “or resident” after “citizen” wherever appearing, substituting “foreign affiliate” for “foreign subsidiary” wherever appearing, and “foreign affiliates” for “foreign subsidiaries”.
 
@@ -102,13 +102,13 @@ Subsec. (d). Pub. L. 98–21, §321(e)(2)(A), (C), substituted references to an 
 
 Subsec. (e). Pub. L. 98–21, §321(e)(2)(A), substituted reference to an American employer for reference to a domestic corporation wherever appearing in provisions preceding par. (1).
 
-1976—Subsec. (b)(2)(A). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b)(2)(A). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1974—Subsec. (b)(1). Pub. L. 93–406, §1016(a)(4), substituted “section 401(a)(4) and section 410(b) (without regard to paragraph (1)(A) thereof)” for “paragraphs (3)(B) and (4) of section 401(a)”.
+<b>1974</b>—Subsec. (b)(1). Pub. L. 93–406, §1016(a)(4), substituted “section 401(a)(4) and section 410(b) (without regard to paragraph (1)(A) thereof)” for “paragraphs (3)(B) and (4) of section 401(a)”.
 
 Subsec. (c). Pub. L. 93–406, §2005(c)(12), substituted “subsections (a)(2) and (e) of section 402” for “section 72(n), section 402(a)(2)”.
 
-1969—Subsec. (c). Pub. L. 91–172 substituted “provisions and limitation of tax” for “provisions” in heading, and substituted “section 72(n), section 402(a)(2),” for “section 402(a)(2)” in text.
+<b>1969</b>—Subsec. (c). Pub. L. 91–172 substituted “provisions and limitation of tax” for “provisions” in heading, and substituted “section 72(n), section 402(a)(2),” for “section 402(a)(2)” in text.
 
 #### Effective Date of 1996 Amendment
 

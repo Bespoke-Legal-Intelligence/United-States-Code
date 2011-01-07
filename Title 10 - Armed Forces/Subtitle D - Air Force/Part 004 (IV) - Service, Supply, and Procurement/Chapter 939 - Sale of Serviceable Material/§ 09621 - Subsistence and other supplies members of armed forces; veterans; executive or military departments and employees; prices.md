@@ -132,7 +132,7 @@ Mar. 3, 1875, ch. 131 (proviso of 1st sentence of 1st par. under “War Departme
 
 In subsection (a), the word “members” is substituted for the words “officers and enlisted men”, in 10:1237. Clause (2) is substituted for 10:904. Reference to the Secretary of the Air Force is substituted for reference to branch, office, or officers of the Army, in 10:1237, since the functions which, for the Army are assigned to subordinate officers, are, for the Air Force assigned to the Secretary of the Air Force. 32:156 is omitted as covered by 10:904, since the words “officers of the Air Force” necessarily cover all persons named in 32:156. The words “Except for articles and items acquired through the use of working capital funds under sections 172–172j of title 5” are inserted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
 
-In subsection (b), the first sentence states expressly the rule which is implicit in 10:1238. The word “members” is substituted for the words “officers and enlisted men”. The words “shall be understood, in all cases of such sales” are omitted as surplusage. The last sentence is inserted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Deputy General Counsel of the Office of the Secretary of Defense, March 28, 1956.)
+In subsection (b), the first sentence states expressly the rule which is implicit in 10:1238. The word “members” is substituted for the words “officers and enlisted men”. The words “shall be understood, in all cases ofsuch sales” are omitted as surplusage. The last sentence is inserted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Deputy General Counsel of the Office of the Secretary of Defense, March 28, 1956.)
 
 In subsection (c), the word “members” is substituted for the words “officers and enlisted men”. The words “prices at which like property is sold to” are substituted for the words “same price as is charged the”.
 
@@ -140,15 +140,15 @@ In subsections (c) and (d), the words “other armed forces” are substituted f
 
 In subsection (d), the words “other than subsistence supplies” are inserted, since the sale of subsistence supplies is covered by subsection (c).
 
-In subsection (e), the words “a person who has been discharged” are substituted for the words “discharged officers and enlisted men”. The words “Navy or Marine Corps”, omitted from the 1952 edition of the United States Code, are inserted to conform to the source statute. The words “may buy” are substituted for the words “shall be permitted to purchase”. The words “at the prices at which like property is sold” are substituted for the words “at the same price as charged”. The word “member” is substituted for the words “officers and enlisted men”. The words “while undergoing such care and treatment” are omitted as surplusage.
+In subsection (e), the words “a person who has been discharged” are substituted for the words “discharged officers and enlisted men”. The words “Navy \* \* \* or Marine Corps”, omitted from the 1952 edition of the United States Code, are inserted to conform to the source statute. The words “may buy” are substituted for the words “shall \* \* \* be permitted to purchase”. The words “at the prices at which like property is sold” are substituted for the words “at the same price as charged”. The word “member” is substituted for the words “officers and enlisted men”. The words “while undergoing such care and treatment” are omitted as surplusage.
 
-In subsection (f), the words “person who has been discharged” are substituted for the words “former members who have been separated therefrom”. The words “at the prices at which like articles are sold to members” are inserted to conform to the last sentence of subsection (a) and subsection (e).
+In subsection (f), the words “person who has been discharged” are substituted for the words “former members \* \* \* who have been separated therefrom”. The words “at the prices at which like articles are sold to members” are inserted to conform to the last sentence of subsection (a) and subsection (e).
 
 In subsection (g), the words “regulations to be prescribed by the Secretary” are substituted for the words “Army Regulations”. The words “of the Government” are omitted as surplusage. 10:1253 (last 22 words of 1st sentence) is omitted as surplusage. The words “or to another executive department of the Government” are omitted as superseded by section 7 of the act of May 21, 1920, ch. 194, as amended (31 U.S.C. 686). The provisions of 10:1253 relating to the computation of cost are omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
 
 In subsection (h), the word “outside” is substituted for the words “beyond the continental limitations”. The words “or in Alaska” are omitted, since, under section 101(1) of this title, the words “United States” are defined to include only the States and the District of Columbia. The word “continental”, after the words “within the”, is omitted for the same reason. The last sentence is substituted for 10:1241 (proviso).
 
-In subsection (i), 10:1196 (last 30 words) is omitted as superseded by the Act of April 27, 1914, ch. 72 (last proviso under “Subsistence of the Army”), 38 Stat. 361. The words “So much of the” and “as may be necessary” are omitted as surplusage. The words “members on active duty, for the use of themselves and their families” are substituted for the words “officers for the use of themselves and their families, and to commanders of companies or other organizations, for the use of the enlisted men of their companies or organizations”, to conform to 10:1237 and 1238. Those sections provide the basic authority for procurement and sale of subsistence supplies to all members. This interpretation conforms to established administrative practice under those sections. The word “supplies” is substituted for the word “stores”.
+In subsection (i), 10:1196 (last 30 words) is omitted as superseded by the Act of April 27, 1914, ch. 72 (last proviso under “Subsistence of the Army”), 38 Stat. 361. The words “So much of the” and “as may be necessary” are omitted as surplusage. The words “members \* \* \* on active duty, for the use of themselves and their families” are substituted for the words “officers for the use of themselves and their families, and to commanders of companies or other organizations, for the use of the enlisted men of their companies or organizations”, to conform to 10:1237 and 1238. Those sections provide the basic authority for procurement and sale of subsistence supplies to all members. This interpretation conforms to established administrative practice under those sections. The word “supplies” is substituted for the word “stores”.
 
 #### 1962 Act
 
@@ -156,19 +156,19 @@ The change corrects an internal reference.
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–106, §375(b)(2)(A), substituted “The Secretary shall” for “The Air Force shall”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–106, §375(b)(2)(A), substituted “The Secretary shall” for “The Air Force shall”.
 
 Subsec. (f). Pub. L. 104–106, §375(b)(2)(B), inserted “or by commercial credit” before period at end.
 
-1989—Subsec. (d). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1989</b>—Subsec. (d). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1987—Subsecs. (b) to (i). Pub. L. 100–180 redesignated subsecs. (c) to (i) as (b) to (h), respectively, and struck out former subsec. (b) which read as follows: “Subsistence supplies may be sold to members of the Air Force. The selling price of each article sold under this subsection is the invoice price of the last lot of that article that the officer making the sale received before the first day of the month in which the sale is made. Activities conducted under this subsection shall be consistent with section 2208 of this title.”
+<b>1987</b>—Subsecs. (b) to (i). Pub. L. 100–180 redesignated subsecs. (c) to (i) as (b) to (h), respectively, and struck out former subsec. (b) which read as follows: “Subsistence supplies may be sold to members of the Air Force. The selling price of each article sold under this subsection is the invoice price of the last lot of that article that the officer making the sale received before the first day of the month in which the sale is made. Activities conducted under this subsection shall be consistent with section 2208 of this title.”
 
-1981—Subsec. (f). Pub. L. 97–22 struck out a comma after “section 772”.
+<b>1981</b>—Subsec. (f). Pub. L. 97–22 struck out a comma after “section 772”.
 
-1980—Subsec. (f). Pub. L. 96–513 struck out reference to section 8612 of this title.
+<b>1980</b>—Subsec. (f). Pub. L. 96–513 struck out reference to section 8612 of this title.
 
-1962—Subsecs. (a), (b). Pub. L. 87–651 substituted “section 2208 of this title” for “sections 172–172j of title 5”.
+<b>1962</b>—Subsecs. (a), (b). Pub. L. 87–651 substituted “section 2208 of this title” for “sections 172–172j of title 5”.
 
 #### Effective Date of 1980 Amendment
 

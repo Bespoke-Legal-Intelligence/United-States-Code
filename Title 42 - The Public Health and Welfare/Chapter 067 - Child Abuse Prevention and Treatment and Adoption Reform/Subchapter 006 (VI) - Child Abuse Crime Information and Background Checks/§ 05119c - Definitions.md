@@ -40,15 +40,15 @@ For the purposes of this subchapter—
 
 &emsp;(11) the term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, Guam, and the Trust Territories of the Pacific.
 
-(Pub. L. 103–209, §5, Dec. 20, 1993, 107 Stat. 2493; Pub. L. 103–322, title XXXII, §320928(a)(3), (j),Sept. 13, 1994, 108 Stat. 2132, 2133; Pub. L. 107–110, title X, §1075, Jan. 8, 2002, 115 Stat. 2090.)
+(Pub. L. 103–209, §5, Dec. 20, 1993, 107 Stat. 2493; Pub. L. 103–322, title XXXII, §320928(a)(3), (j), Sept. 13, 1994, 108 Stat. 2132, 2133; Pub. L. 107–110, title X, §1075, Jan. 8, 2002, 115 Stat. 2090.)
 
 #### Amendments
 
-2002—Par. (9)(A)(i). Pub. L. 107–110, §1075(1), inserted before semicolon at end “(including an individual who is employed by a school in any capacity, including as a child care provider, a teacher, or another member of school personnel)”.
+<b>2002</b>—Par. (9)(A)(i). Pub. L. 107–110, §1075(1), inserted before semicolon at end “(including an individual who is employed by a school in any capacity, including as a child care provider, a teacher, or another member of school personnel)”.
 
 Par. (9)(B)(i). Pub. L. 107–110, §1075(2), inserted before semicolon at end “(including an individual who seeks to be employed by a school in any capacity, including as a child care provider, a teacher, or another member of school personnel)”.
 
-1994—Par. (5). Pub. L. 103–322, §320928(a)(3)(A), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “the term ‘child care’ means the provision of care, treatment, education, training, instruction, supervision, or recreation to children by persons having unsupervised access to a child;”.
+<b>1994</b>—Par. (5). Pub. L. 103–322, §320928(a)(3)(A), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “the term ‘child care’ means the provision of care, treatment, education, training, instruction, supervision, or recreation to children by persons having unsupervised access to a child;”.
 
 Pars. (6), (7). Pub. L. 103–322, §320928(j)(2), added pars. (6) and (7). Former pars. (6) and (7) redesignated (8) and (9), respectively.
 

@@ -8,27 +8,27 @@
 
 #### Amendments
 
-2000—Pub. L. 106–419 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>2000</b>—Pub. L. 106–419 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1992—Pub. L. 102–585 substituted “If, within the 20-year period beginning on the date of the approval by the Secretary of the final architectural and engineering inspection of any project” for “If, within 20 years after completion of any project” and “the facilities covered by the project cease” for “such facilities cease”.
+<b>1992</b>—Pub. L. 102–585 substituted “If, within the 20-year period beginning on the date of the approval by the Secretary of the final architectural and engineering inspection of any project” for “If, within 20 years after completion of any project” and “the facilities covered by the project cease” for “such facilities cease”.
 
-1991—Pub. L. 102–40 renumbered section 5036 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5036 of this title as this section.
 
 Pub. L. 102–83 substituted “Secretary” for “Administrator” in two places.
 
-1984—Pub. L. 98–528 struck out “for construction” after “completion of any project”; inserted “acquisition,” after “in the case of the”; substituted “value of such project” for “value of such construction”; struck out “for such construction” after “assistance provided for”, which amendment was executed by striking out “for such construction” after “assistance provided” as the probable intent of Congress, because “for” appeared only once after “assistance provided”; and substituted “20” for “twenty” in two places.
+<b>1984</b>—Pub. L. 98–528 struck out “for construction” after “completion of any project”; inserted “acquisition,” after “in the case of the”; substituted “value of such project” for “value of such construction”; struck out “for such construction” after “assistance provided for”, which amendment was executed by striking out “for such construction” after “assistance provided” as the probable intent of Congress, because “for” appeared only once after “assistance provided”; and substituted “20” for “twenty” in two places.
 
-1982—Pub. L. 97–295 substituted “percent” for “per centum”.
+<b>1982</b>—Pub. L. 97–295 substituted “percent” for “per centum”.
 
-1977—Pub. L. 95–62 substituted “If, within twenty years after completion of any project for construction with respect to which a grant has been made under this subchapter (except that the Administrator, pursuant to regulations which the Administrator shall prescribe, may at the time of such grant provide for a shorter period than twenty, but not less than seven, years, based on the magnitude of the project and the grant amount involved, in the case of the expansion, remodeling, or alteration of existing facilities), such facilities cease to be operated by a State, a State home, or an agency or instrumentality of a State principally for furnishing domiciliary, nursing home, or hospital care to veterans, the United States shall be entitled to recover from the State which was the recipient of the grant under this subchapter, or from the then owner of such facilities, 65 per centum of the then value of such construction (but in no event an amount greater than the amount of assistance provided for such construction under this subchapter)” for “If, within twenty years after completion of any project for construction of facilities for furnishing nursing home care with respect to which a grant has been made under this subchapter, such facilities cease to be operated by a State, a State home, or an agency or instrumentality of a State principally for furnishing nursing home care to veterans, the United States shall be entitled to recover from the State which was the recipient of the grant under this subchapter, or from the then owner of such facilities, 65 per centum of the then value of such facilities”.
+<b>1977</b>—Pub. L. 95–62 substituted “If, within twenty years after completion of any project for construction with respect to which a grant has been made under this subchapter (except that the Administrator, pursuant to regulations which the Administrator shall prescribe, may at the time of such grant provide for a shorter period than twenty, but not less than seven, years, based on the magnitude of the project and the grant amount involved, in the case of the expansion, remodeling, or alteration of existing facilities), such facilities cease to be operated by a State, a State home, or an agency or instrumentality of a State principally for furnishing domiciliary, nursing home, or hospital care to veterans, the United States shall be entitled to recover from the State which was the recipient of the grant under this subchapter, or from the then owner of such facilities, 65 per centum of the then value of such construction (but in no event an amount greater than the amount of assistance provided for such construction under this subchapter)” for “If, within twenty years after completion of any project for construction of facilities for furnishing nursing home care with respect to which a grant has been made under this subchapter, such facilities cease to be operated by a State, a State home, or an agency or instrumentality of a State principally for furnishing nursing home care to veterans, the United States shall be entitled to recover from the State which was the recipient of the grant under this subchapter, or from the then owner of such facilities, 65 per centum of the then value of such facilities”.
 
-1976—Pub. L. 94–581 substituted “veterans” for “war veterans”.
+<b>1976</b>—Pub. L. 94–581 substituted “veterans” for “war veterans”.
 
-1973—Pub. L. 93–82 substituted “65 per centum” for “50 per centum”.
+<b>1973</b>—Pub. L. 93–82 substituted “65 per centum” for “50 per centum”.
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–62 effective Oct. 1, 1977, with provision for the continuing force and effect of the terms and conditions of grants made prior to Oct. 1, 1977, under former section 644 of this title and with additional provision for the modification of the terms and conditions of both grants made under former section 644 of this title prior to Oct. 1, 1977, and of grants made under this subchapter prior to Oct. 1, 1977, see section 5 of Pub. L. 95–62, set out as a note under section 8131 of this title.
+Amendment by Pub. L. 95–62 effective Oct. 1, 1977, with provision for the continuing force and effect of theterms and conditions of grants made prior to Oct. 1, 1977, under former section 644 of this title and with additional provision for the modification of the terms and conditions of both grants made under former section 644 of this title prior to Oct. 1, 1977, and of grants made under this subchapter prior to Oct. 1, 1977, see section 5 of Pub. L. 95–62, set out as a note under section 8131 of this title.
 
 #### Effective Date of 1976 Amendment
 

@@ -22,7 +22,7 @@
 
 &emsp;(7) Major Presidential and Vice Presidential candidates and, within 120 days of the general Presidential election, the spouses of such candidates. As used in this paragraph, the term “major Presidential and Vice Presidential candidates” means those individuals identified as such by the Secretary of Homeland Security after consultation with an advisory committee consisting of the Speaker of the House of Representatives, the minority leader of the House of Representatives, the majority and minority leaders of the Senate, and one additional member selected by the other members of the committee. The Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App. 2).
 
-&emsp;(8) Former Vice Presidents, their spouses, and their children who are under 16 years of age, for a period of not more than six months after the date the former Vice President leaves office. The Secretary of Homeland Security shall have the authority to direct the Secret Service to provide temporary protection for any of these individuals at any time thereafter if the Secretary of Homeland Security or designee determines that information or conditions warrant such protection.
+&emsp;(8) Former Vice Presidents, their spouses, and their children who are under 16 years of age, for a period of not more than six months after the date the former Vice Presidentleaves office. The Secretary of Homeland Security shall have the authority to direct the Secret Service to provide temporary protection for any of these individuals at any time thereafter if the Secretary of Homeland Security or designee determines that information or conditions warrant such protection.
 
 > The protection authorized in paragraphs (2) through (8) may be declined.
 
@@ -40,7 +40,7 @@
 
 &emsp;(B) carry firearms;
 
-&emsp;(C) make arrests without warrant for any offense against the United States committed in their presence, or for any felony cognizable under the laws of the United States if theyhave reasonable grounds to believe that the person to be arrested has committed or is committing such felony;
+&emsp;(C) make arrests without warrant for any offense against the United States committed in their presence, or for any felony cognizable under the laws of the United States if they have reasonable grounds to believe that the person to be arrested has committed or is committing such felony;
 
 &emsp;(D) offer and pay rewards for services and information leading to the apprehension of persons involved in the violation or potential violation of those provisions of law which the Secret Service is authorized to enforce;
 
@@ -68,7 +68,7 @@
 
 #### Historical and Revision Notes
 
-Based on title 18, U.S.C., 1940 ed., §148, and on sections 264(x) and 986 of title 12, U.S.C., 1940 ed., Banks and Banking (Dec. 23, 1913, ch. 6, §12B, subsection (x), as added June 16, 1933, ch. 89, §8, 48 Stat. 178; July 17, 1916, ch. 245, §31, sixth paragraph, 39 Stat. 382 (384); Dec. 11, 1926, ch. 2, §3, 44 Stat. 918; Aug. 23, 1935, ch. 614, §101, 49 Stat. 684, 703).
+Based on title 18, U.S.C., 1940 ed., §148, and on sections 264(x) and 986 of title 12, U.S.C., 1940 ed., Banksand Banking (Dec. 23, 1913, ch. 6, §12B, subsection (x), as added June 16, 1933, ch. 89, §8, 48 Stat. 178; July 17, 1916, ch. 245, §31, sixth paragraph, 39 Stat. 382 (384); Dec. 11, 1926, ch. 2, §3, 44 Stat. 918; Aug. 23, 1935, ch. 614, §101, 49 Stat. 684, 703).
 
 Section consolidates said section 148 of title 18, U.S.C., 1940 ed., and said sections 264(x) and 986 of title 12, U.S.C., 1940 ed., Banks and Banking.
 
@@ -84,33 +84,33 @@ Changes were made in phraseology.
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (a)(7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (a)(7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 Section 216 of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 98–473, title II, §1107(b), Oct. 12, 1984, 98 Stat. 2146.
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–326, §102(2), substituted “(8)” for “(7)” in concluding provisions.
+<b>2008</b>—Subsec. (a). Pub. L. 110–326, §102(2), substituted “(8)” for “(7)” in concluding provisions.
 
 Subsec. (a)(8). Pub. L. 110–326, §102(1), added par. (8).
 
-2006—Subsec. (a)(7). Pub. L. 109–177, §608(a), which directed amendment of subsec. (a)(7) by inserting “The Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App. 2).” after “other members of the Committee.”, was executed by making the insertion after “other members of the committee.”, to reflect the probable intent of Congress.
+<b>2006</b>—Subsec. (a)(7). Pub. L. 109–177, §608(a), which directed amendment of subsec. (a)(7) by inserting “The Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App. 2).” after “other members of the Committee.”, was executed by making the insertion after “other members of the committee.”, to reflect the probable intent of Congress.
 
 Subsec. (f). Pub. L. 109–177, §604, substituted “the Secret Service is” for “officers and agents of the Secret Service are”.
 
 Subsec. (g). Pub. L. 109–177, §607, added subsec. (g).
 
-2003—Subsec. (f). Pub. L. 108–21 added subsec. (f).
+<b>2003</b>—Subsec. (f). Pub. L. 108–21 added subsec. (f).
 
-2002—Subsecs. (a) to (c)(1), (e)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of the Treasury” wherever appearing.
+<b>2002</b>—Subsecs. (a) to (c)(1), (e)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of the Treasury” wherever appearing.
 
-2001—Subsec. (b)(3). Pub. L. 107–56 substituted “access device frauds, false identification documents or devices, and any fraud or other criminal or unlawful activity in or against any federally insured financial institution” for “credit and debit card frauds, and false identification documents or devices”.
+<b>2001</b>—Subsec. (b)(3). Pub. L. 107–56 substituted “access device frauds, false identification documents or devices, and any fraud or other criminal or unlawful activity in or against any federally insured financial institution” for “credit and debit card frauds, and false identification documents or devices”.
 
-2000—Subsec. (e). Pub. L. 106–544 added subsec. (e).
+<b>2000</b>—Subsec. (e). Pub. L. 106–544 added subsec. (e).
 
-1996—Subsec. (a)(3). Pub. L. 104–294 redesignated subpars. (1) and (2) as (A) and (B), respectively, and realigned margins.
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–294 redesignated subpars. (1) and (2) as (A) and (B), respectively, and realigned margins.
 
-1994—Subsec. (a)(3). Pub. L. 103–329, §530(a), inserted before period at end “unless the former President did not serve as President prior to January 1, 1997, in which case, former Presidents and their spouses for a period of not more than ten years from the date a former President leaves office, except that—
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–329, §530(a), inserted before period at end “unless the former President did not serve as President prior to January 1, 1997, in which case, former Presidents and their spouses for a period of not more than ten years from the date a former President leaves office, except that—
 
 &emsp;“(1) protection of a spouse shall terminate in the event of remarriage or the divorce from, or death of a former President; and
 
@@ -120,41 +120,41 @@ Subsec. (g). Pub. L. 109–177, §607, added subsec. (g).
 
 Subsec. (a)(4). Pub. L. 103–329, §530(b), inserted before period at end “for a period not to exceed ten years or upon the child becoming 16 years of age, whichever comes first”.
 
-1984—Pub. L. 98–587 amended section generally, providing authority for the Secret Service to conduct criminal investigations of, make arrests in, and present for prosecutorial consideration, cases relating to electronic fund transfer frauds, and providing the Secret Service with authority to conduct investigations and make arrests relating to credit and debit card frauds, and false identification documents and devices, to be exercised subject to the agreement of the Attorney General and the Secretary of the Treasury.
+<b>1984</b>—Pub. L. 98–587 amended section generally, providing authority for the Secret Service to conduct criminal investigations of, make arrests in, and present for prosecutorial consideration, cases relating to electronic fund transfer frauds, and providing the Secret Service with authority to conduct investigations and make arrests relating to credit and debit card frauds, and false identification documents and devices, to be exercised subject to the agreement of the Attorney General and the Secretary of the Treasury.
 
-1983—Subsec. (a). Pub. L. 98–151 inserted reference to section 510 of this section in fifth clause.
+<b>1983</b>—Subsec. (a). Pub. L. 98–151 inserted reference to section 510 of this section in fifth clause.
 
-1982—Subsec. (a). Pub. L. 97–297, §3(1), substituted “871, and 879 of this title” for “and 871 of this title”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–297, §3(1), substituted “871, and 879 of this title” for “and 871 of this title”.
 
 Pub. L. 97–297, §3(2), substituted “and Federal land bank associations are concerned, of sections 213, 216” for “, joint-stock land banks and Federal land bank associations are concerned, of sections 218, 221”.
 
 Subsec. (b). Pub. L. 97–308 increased the limitation on fines to $1,000 from $300.
 
-1976—Subsec. (a). Pub. L. 94–408 substituted “, and the members of their immediate families unless the members decline such protection;” for “; protect the members of the immediate family of the Vice-President, unless such protection is declined;”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–408 substituted “, and the members of their immediate families unless the members decline such protection;” for “; protect the members of the immediate family of the Vice-President, unless such protection is declined;”.
 
 Subsec. (b). Pub. L. 94–408 inserted reference to other Federal law enforcement agents.
 
-1974—Subsec. (a). Pub. L. 93–552 inserted provisions relating to the protection of the immediate family of the Vice President unless declined, and the payment of expenses for unforeseen emergencies of a confidential nature under the direction of the Secretary of the Treasury and accounted for solely on his certificate.
+<b>1974</b>—Subsec. (a). Pub. L. 93–552 inserted provisions relating to the protection of the immediate family of the Vice President unless declined, and the payment of expenses for unforeseen emergencies of a confidential nature under the direction of the Secretary of the Treasury and accounted for solely on his certificate.
 
-1971—Pub. L. 91–651 authorized the Secret Service to protect the person of a visiting head of a foreign state or foreign government and, at the direction of the President, other distinguished foreign visitors to the United States and official representatives of the United States performing special missions abroad, and substituted “Director, Deputy Director, Assistant Directors, Assistants to the Director” for “Chief, Deputy Chief, Assistant Chief”.
+<b>1971</b>—Pub. L. 91–651 authorized the Secret Service to protect the person of a visiting head of a foreign state or foreign government and, at the direction of the President, other distinguished foreign visitors to the United States and official representatives of the United States performing special missions abroad, and substituted “Director, Deputy Director, Assistant Directors, Assistants to the Director” for “Chief, Deputy Chief, Assistant Chief”.
 
 Pub. L. 91–644 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1968—Pub. L. 90–608 substituted the death or remarriage of a former President's widow and the attainment by his minor children of age 16 for the passage of a period of four years after he leaves or dies in office as the events terminating Secret Service protection for the widow and minor children, respectively, of a former President.
+<b>1968</b>—Pub. L. 90–608 substituted the death or remarriage of a former President's widow and the attainment by his minor children of age 16 for the passage of a period of four years after he leaves or dies in office as the events terminating Secret Service protection for thewidow and minor children, respectively, of a former President.
 
-1965—Pub. L. 89–218 authorized the Chief, Deputy Chief, Assistant Chief, inspectors, and agents of the Secret Service to make arrests without warrant for offenses committed against the United States in their presence or for any felony cognizable under the laws of the United States if they have reasonable grounds to believe that the person to be arrested has committed or is committing the felony and substituted “508, 509, and 871” for “508 and 509”.
+<b>1965</b>—Pub. L. 89–218 authorized the Chief, Deputy Chief, Assistant Chief, inspectors, and agents of the Secret Service to make arrests without warrant for offenses committed against the United States in their presence or for any felony cognizable under the laws of the United States if they have reasonable grounds to believe that the person to be arrested has committed or is committing the felony and substituted “508, 509, and 871” for “508 and 509”.
 
 Pub. L. 89–186 substituted provision for the protection of the person of a former President and his wife during his lifetime and the person of a widow and minor children of a former President for a period of four years after he leaves or dies in office, unless the protection is declined, for provision calling for the protection of a former President, at his request, for a reasonable period after he leaves office.
 
-1962—Pub. L. 87–829 authorized the protection of the Vice President, without requiring his request therefor, and any officer next in the order of succession to the office of President, the Vice-President-elect, and of a former president, at his request, for a reasonable period after he leaves office.
+<b>1962</b>—Pub. L. 87–829 authorized the protection of the Vice President, without requiring his request therefor, and any officer next in the order of succession to the office of President, the Vice-President-elect, and of a former president, at his request, for a reasonable period after he leaves office.
 
 Pub. L. 87–791 required moneys expended from Secret Service appropriations for the purchase of counterfeits and subsequently recovered to be reimbursed to the appropriation current at the time of deposit.
 
-1959—Pub. L. 86–168 substituted “Federal land bank associations” for “national farm loan associations”.
+<b>1959</b>—Pub. L. 86–168 substituted “Federal land bank associations” for “national farm loan associations”.
 
-1954—Act Aug. 31, 1954, struck out “detect, and arrest any person violating any laws of the United States directly concerning official matters administered by and under the direct control of the Treasury Department”.
+<b>1954</b>—Act Aug. 31, 1954, struck out “detect, and arrest any person violating any laws of the United States directly concerning official matters administered by and under the direct control of the Treasury Department”.
 
-1951—Act July 16, 1951, provided basic authority for the Secret Service to perform certain functions and activities heretofore carried out by virtue of authority contained in appropriation acts.
+<b>1951</b>—Act July 16, 1951, provided basic authority for the Secret Service to perform certain functions and activities heretofore carried out by virtue of authority contained in appropriation acts.
 
 #### Effective Date of 2008 Amendment
 
@@ -162,7 +162,7 @@ Pub. L. 110–326, title I, §103, Sept. 26, 2008, 122 Stat. 3560, provided that
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–296, title XVII, §1703(b), Nov. 25, 2002, 116 Stat. 2314, provided that: “The amendments made bythis section \[amending this section and former sections 202 and 208 of Title 3, The President\] shall take effect on the date of transfer of the United States Secret Service to the Department \[of Homeland Security\].”
+Pub. L. 107–296, title XVII, §1703(b), Nov. 25, 2002, 116 Stat. 2314, provided that: “The amendments made by this section \[amending this section and former sections 202 and 208 of Title 3, The President\] shall take effect on the date of transfer of the United States Secret Service to the Department \[of Homeland Security\].”
 
 #### Effective Date of 1974 Amendment
 
@@ -218,7 +218,7 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[De
 
 #### Telecommunications Support to United States Secret Service by White House Communications Agency
 
-Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8100\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–108, as amended by Pub. L. 106–92, §2, Nov. 9, 1999, 113 Stat. 1309, provided that: “Beginning in fiscal year 1997 and thereafter, and notwithstanding any other provision of law, fixed and mobile telecommunications support shall be provided by the White House Communications Agency (WHCA) to the United States Secret Service (USSS), without reimbursement, in connection with the Secret Service's duties directly related to the protection of the President or the Vice President or other officer immediately next in order of succession to the office of the President at the White House Security Complex in the Washington, D.C. Metropolitan Area and Camp David, Maryland. For these purposes, the White House Security Complex includes the White House, the White House grounds, the Dwight D. Eisenhower Executive Office Building, the New Executive Office Building, the Blair House, the Treasury Building, and the Vice President's Residence at the Naval Observatory.”
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8100\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–108, asamended by Pub. L. 106–92, §2, Nov. 9, 1999, 113 Stat. 1309, provided that: “Beginning in fiscal year 1997 and thereafter, and notwithstanding any other provision of law, fixed and mobile telecommunications support shall be provided by the White House Communications Agency (WHCA) to the United States Secret Service (USSS), without reimbursement, in connection with the Secret Service's duties directly related to the protection of the President or the Vice President or other officer immediately next in order of succession to the office of the President at the White House Security Complex in the Washington, D.C. Metropolitan Area and Camp David, Maryland. For these purposes, the White House Security Complex includes the White House, the White House grounds, the Dwight D. Eisenhower Executive Office Building, the New Executive Office Building, the Blair House, the Treasury Building, and the Vice President's Residence at the Naval Observatory.”
 
 #### Off-Set of Costs of Protecting Former Presidents and Spouses
 
@@ -342,7 +342,7 @@ Pub. L. 90–331, June 6, 1968, 82 Stat. 170, as amended by Pub. L. 94–408, §
 
 #### Extension of Protection of President's Widow and Children
 
-Pub. L. 90–145, Nov. 17, 1967, 81 Stat. 466, extended until Mar. 1, 1969, the authority vested in the United States Secret Service by section 3056 of this title, as it existed prior to the amendment in 1968 by Pub. L. 90–608, to protect the widow and minor children of a former President who were receiving such protection on Nov. 17, 1967.
+Pub. L. 90–145, Nov. 17, 1967, 81 Stat. 466, extended until Mar. 1, 1969, the authority vested in the UnitedStates Secret Service by section 3056 of this title, as it existed prior to the amendment in 1968 by Pub. L. 90–608, to protect the widow and minor children of a former President who were receiving such protection on Nov. 17, 1967.
 
 #### Applicability of Reorg. Plan No. 26 of 1950
 

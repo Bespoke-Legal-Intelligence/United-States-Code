@@ -24,7 +24,7 @@ The tribe or tribal organization shall agree that a student performing services 
 
 #### (1) Waiver
 
-&emsp;An Indian tribe or tribal organization may, by formal action, waive the service agreementof an Indian student for just cause, as determined in accordance with regulations prescribed by the Secretary. The tribe or organization shall notify the Secretary in writing of any waiver granted under this subsection.
+&emsp;An Indian tribe or tribal organization may, by formal action, waive the service agreement of an Indian student for just cause, as determined in accordance with regulations prescribed by the Secretary. The tribe or organization shall notify the Secretary in writing of any waiver granted under this subsection.
 
 #### (2) Suspension
 

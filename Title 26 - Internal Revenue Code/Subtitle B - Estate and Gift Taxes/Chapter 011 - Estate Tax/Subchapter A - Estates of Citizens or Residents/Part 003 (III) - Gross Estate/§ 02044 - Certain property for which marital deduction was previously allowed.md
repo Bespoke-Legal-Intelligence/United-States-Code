@@ -28,7 +28,7 @@ A prior section 2044 was renumbered section 2045 of this title.
 
 #### Amendments
 
-1983—Subsec. (c). Pub. L. 97–448 added subsec. (c).
+<b>1983</b>—Subsec. (c). Pub. L. 97–448 added subsec. (c).
 
 #### Effective Date of 1983 Amendment
 

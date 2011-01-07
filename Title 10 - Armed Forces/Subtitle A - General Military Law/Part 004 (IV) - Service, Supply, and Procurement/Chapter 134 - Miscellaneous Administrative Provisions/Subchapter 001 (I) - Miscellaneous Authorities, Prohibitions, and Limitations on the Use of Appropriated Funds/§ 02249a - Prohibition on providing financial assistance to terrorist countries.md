@@ -36,9 +36,9 @@ Definition.—In this section, the term “international terrorism” has the me
 
 #### Amendments
 
-1999—Subsec. (b)(2)(A). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+<b>1999</b>—Subsec. (b)(2)(A). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-1997—Subsec. (a)(1). Pub. L. 105–85 substituted “50 U.S.C. App. 2405(j)(1)(A)” for “50 App. 2405(j)”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–85 substituted “50 U.S.C. App. 2405(j)(1)(A)” for “50 App. 2405(j)”.
 
 #### Change of Name
 

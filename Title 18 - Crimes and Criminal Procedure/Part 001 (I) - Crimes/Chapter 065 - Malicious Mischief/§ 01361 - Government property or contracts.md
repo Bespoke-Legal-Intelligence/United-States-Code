@@ -24,11 +24,11 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1996—Pub. L. 104–294, §605(e), inserted comma after “foregoing offenses” in first par.
+<b>1996</b>—Pub. L. 104–294, §605(e), inserted comma after “foregoing offenses” in first par.
 
 Pub. L. 104–294, §§601(a)(3), 606(a), in second par., substituted “fine under this title” for “fine of under this title” in two places and “$1,000” for “$100” in two places.
 
-1994—Pub. L. 103–322, §320903(d)(1)(A), inserted “or attempts to commit any of the foregoing offenses” before “shall be punished” in first par.
+<b>1994</b>—Pub. L. 103–322, §320903(d)(1)(A), inserted “or attempts to commit any of the foregoing offenses” before “shall be punished” in first par.
 
 Pub. L. 103–322, §330016(1)(H), (L), in second par., substituted “under this title” for “not more than $10,000” before “or imprisonment for not more than ten years” and for “not more than $1,000” before “or by imprisonment for not more than one year”.
 

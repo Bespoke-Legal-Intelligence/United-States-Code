@@ -84,7 +84,7 @@
 
 (4) An employer may not delay or attempt to defeat a reemployment obligation by demanding documentation that does not then exist or is not then readily available.
 
-(g) The right of a person to reemployment under this section shall not entitle such person to retention, preference, or displacement rights over any person with a superior claim under the provisions of title 5, United States Code, relating to veterans and other preference eligibles.
+(g) The right of a person to reemployment under this section shall not entitle such person to retention, preference, or displacement rights over any person with a superior claim under theprovisions of title 5, United States Code, relating to veterans and other preference eligibles.
 
 (h) In any determination of a person's entitlement to protection under this chapter, the timing, frequency, and duration of the person's training or service, or the nature of such training or service (including voluntary service) in the uniformed services, shall not be a basis for denying protection of this chapter if the service does not exceed the limitations set forth in subsection (c) and the notice requirements established in subsection (a)(1) and the notification requirements established in subsection (e) are met.
 
@@ -96,7 +96,7 @@ A prior section 4312 was renumbered section 7612 of this title.
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–275, §311(4)(A), substituted “whose absence from a position of employment is necessitated” for “who is absent from a position of employment”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–275, §311(4)(A), substituted “whose absence from a position of employment is necessitated” for “who is absent from a position of employment”.
 
 Subsec. (c)(3). Pub. L. 104–275, §311(4)(B)(i), substituted “section 10147” for “section 270”.
 

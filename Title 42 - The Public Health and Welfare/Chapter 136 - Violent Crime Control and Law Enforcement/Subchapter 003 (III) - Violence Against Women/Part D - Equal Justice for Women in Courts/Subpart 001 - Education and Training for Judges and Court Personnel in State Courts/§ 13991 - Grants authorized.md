@@ -6,7 +6,7 @@ The State Justice Institute may award grants for the purpose of developing, test
 
 #### Amendments
 
-2000—Pub. L. 106–386 inserted “dating violence,” after “domestic violence,” and “Nothing shall preclude the attendance of tribal judges and court personnel at programs funded under this section for States to train judges and court personnel on the laws of the States.” at end.
+<b>2000</b>—Pub. L. 106–386 inserted “dating violence,” after “domestic violence,” and “Nothing shall preclude the attendance of tribal judges and court personnel at programs funded under this section for States to train judges and court personnel on the laws of the States.” at end.
 
 #### Short Title
 

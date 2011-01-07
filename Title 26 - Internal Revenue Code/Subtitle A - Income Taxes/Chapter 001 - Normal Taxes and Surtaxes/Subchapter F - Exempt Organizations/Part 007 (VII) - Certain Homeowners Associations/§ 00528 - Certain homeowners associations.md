@@ -38,7 +38,7 @@ For purposes of this section—
 
 #### (3) Residential real estate management association
 
-&emsp;The term “residential real estate management association” means any organization meeting the requirements of subparagraph (A) of paragraph (1) with respect to a subdivision, development, or similar area substantially all the lots or buildings of which may only be used by individuals for residences.
+&emsp;The term “residential real estate management association” means any organizationmeeting the requirements of subparagraph (A) of paragraph (1) with respect to a subdivision, development, or similar area substantially all the lots or buildings of which may only be used by individuals for residences.
 
 #### (4) Timeshare association
 
@@ -92,7 +92,7 @@ For purposes of this section—
 
 #### Amendments
 
-1997—Subsec. (b). Pub. L. 105–34, §966(d), which directed amendment of subsec. (b) by inserting before the period “(32 percent of such income in the case of a timeshare association)”, was executed by making the insertion before the period at end to reflect the probable intent of Congress.
+<b>1997</b>—Subsec. (b). Pub. L. 105–34, §966(d), which directed amendment of subsec. (b) by inserting before the period “(32 percent of such income in the case of a timeshare association)”, was executed by making the insertion before the period at end to reflect the probable intent of Congress.
 
 Subsec. (c)(1). Pub. L. 105–34, §966(a)(1)(A), substituted “, a residential real estate management association, or a timeshare association” for “or a residential real estate management association” in introductory provisions.
 
@@ -108,9 +108,9 @@ Pub. L. 105–34, §966(a)(2), redesignated par. (4) as (5).
 
 Subsec. (d)(3)(C). Pub. L. 105–34, §966(b), added subpar. (C).
 
-1980—Subsec. (b). Pub. L. 96–605 substituted provision that all income of a homeowners association be taxed at a rate of 30 per cent for provision that all income of a homeowners association be taxed a sum computed by multiplying the homeowners association taxable income by the highest rate of tax specified in section 11(b) of this title and struck out provision providing for alternative tax in case of capital gains.
+<b>1980</b>—Subsec. (b). Pub. L. 96–605 substituted provision that all income of a homeowners association be taxed at a rate of 30 per cent for provision that all income of a homeowners association be taxed a sum computed by multiplying the homeowners association taxable income by the highest rate of tax specified in section 11(b) of this title and struck out provision providing for alternative tax in case of capital gains.
 
-1978—Subsec. (b)(1). Pub. L. 95–600, §301(b)(7), substituted “Such tax shall be computed by multiplying the homeowners association taxable income by the highest rate of tax specified in section 11(b)” for “Such tax shall consist of a normal tax and a surtax computed as provided in section 11 as though the homeowners association were a corporation and as though the homeowners association taxable income were the taxable income referred to in section 11” and struck out provision that for purposes of this subsection, the surtax exemption provided by section 11(d) not be allowed.
+<b>1978</b>—Subsec. (b)(1). Pub. L. 95–600, §301(b)(7), substituted “Such tax shall be computed by multiplying the homeowners association taxable income by the highest rate of tax specified in section 11(b)” for “Such tax shall consist of a normal tax and a surtax computed as provided in section 11 as though the homeowners association were a corporation and as though the homeowners association taxable income were the taxable income referred to in section 11” and struck out provision that for purposes of this subsection, the surtax exemption provided by section 11(d) not be allowed.
 
 Subsec. (b)(2)(B). Pub. L. 95–600, §403(c)(2), substituted provision related to amount being determined according to section 1201(a) for provision requiring an amount of 30 percent.
 
@@ -126,7 +126,7 @@ Section 105(b) of Pub. L. 96–605 provided that: “The amendment made by subse
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 301(b)(7) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
+Amendment by section 301(b)(7) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978,see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
 
 Section 403(d)(3) of Pub. L. 95–600 provided that: “The amendments made by paragraphs (2), (3), and (4) of subsection (c) \[amending this section and sections 857 and 904 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 6, 1978\].”
 

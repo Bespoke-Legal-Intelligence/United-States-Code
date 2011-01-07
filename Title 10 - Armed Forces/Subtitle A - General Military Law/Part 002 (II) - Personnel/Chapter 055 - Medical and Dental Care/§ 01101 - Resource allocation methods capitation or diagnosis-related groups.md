@@ -24,7 +24,7 @@ Content of Regulations.—Such regulations may establish a system of diagnosis-r
 
 #### Amendments
 
-1993—Pub. L. 103–160, §714(b)(1), substituted “Resource allocation methods: capitation or diagnosis-related groups” for “Diagnosis-related groups” as section catchline.
+<b>1993</b>—Pub. L. 103–160, §714(b)(1), substituted “Resource allocation methods: capitation or diagnosis-related groups” for “Diagnosis-related groups” as section catchline.
 
 Subsec. (a). Pub. L. 103–160, §714(a)(1), substituted “Capitation or DRG Method” for “DRGs” in heading and inserted “capitation or” before “diagnosis-related groups” in text.
 
@@ -32,13 +32,13 @@ Subsec. (b). Pub. L. 103–160, §714(a)(2), substituted “Capitation or diagno
 
 Subsec. (c). Pub. L. 103–160, §714(a)(3), substituted “may” for “shall” in two places in introductory provisions and added par. (4).
 
-1988—Subsec. (c). Pub. L. 100–456 struck out “(1)” before “Such regulations” in introductory provisions.
+<b>1988</b>—Subsec. (c). Pub. L. 100–456 struck out “(1)” before “Such regulations” in introductory provisions.
 
 #### Regulations
 
 Pub. L. 101–189, div. A, title VII, §724, Nov. 29, 1989, 103 Stat. 1478, as amended by Pub. L. 102–190, div. A, title VII, §719, Dec. 5, 1991, 105 Stat. 1404, provided that: “The regulations required by section 1101(a) of title 10, United States Code, to establish the use of diagnosis-related groups as the primary criteria for the allocation of resources to health care facilities of the uniformed services shall be prescribed to take effect not later than October 1, 1993, in the case of outpatient treatments.”
 
-Section 701(d)(4) of Pub. L. 99–661, as amended by Pub. L. 100–180, div. A, title VII, §724, Dec. 4, 1987, 101 Stat. 1116, provided that: “The Secretary of Defense shall prescribe regulations as required by section 1101(a) of such title (as added by subsection (a)(1)) to take effect—
+Section 701(d)(4) of Pub. L. 99–661, as amended by Pub. L. 100–180, div. A, title VII, §724, Dec. 4, 1987, 101 Stat.1116, provided that: “The Secretary of Defense shall prescribe regulations as required by section 1101(a) of such title (as added by subsection (a)(1)) to take effect—
 
 &emsp;“(A) in the case of inpatient treatments, not later than October 1, 1988; and
 

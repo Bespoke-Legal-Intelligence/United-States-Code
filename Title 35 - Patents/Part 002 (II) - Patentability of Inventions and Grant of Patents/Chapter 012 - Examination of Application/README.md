@@ -12,7 +12,7 @@
 
 #### Amendments
 
-1984—Pub. L. 98–622, title II, §204(b)(2), Nov. 8, 1984, 98 Stat. 3388, substituted “Patent Appeals and Interferences” for “Appeals” in item 134.
+<b>1984</b>—Pub. L. 98–622, title II, §204(b)(2), Nov. 8, 1984, 98 Stat. 3388, substituted “Patent Appeals and Interferences” for “Appeals” in item 134.
 
 
 ---

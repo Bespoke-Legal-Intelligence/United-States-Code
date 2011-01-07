@@ -30,7 +30,17 @@
 
 (c) Not less than 30 days before obligating funds for a major medical facility project approved by a law described in subsection (a)(2) of this section in an amount that would cause the total amount obligated for that project to exceed the amount specified in the law for that project (or would add to total obligations exceeding such specified amount) by more than 10 percent, the Secretary shall provide the committees with notice of the Secretary's intention to do so and the reasons for the specified amount being exceeded.
 
-(d) In any case in which the Secretary proposes that funds be used for a purpose other than the purpose for which such funds were appropriated, the Secretary shall promptly notify each committee, in writing, of the particulars involved and the reasons why such funds were not used for the purpose for which appropriated.
+(d)(1) Except as provided in paragraph (2), in any case in which the Secretary proposes that funds be used for a purpose other than the purpose for which such funds were appropriated, the Secretary shall promptly notify each committee, in writing, of the particulars involved and the reasons why such funds were not used for the purpose for which appropriated.
+
+(2)(A) In any fiscal year, unobligated amounts in the Construction, Major Projects account that are a direct result of bid savings from a major medical facility project may only be obligated for major medical facility projects authorized for that fiscal year or a previous fiscal year.
+
+(B) Whenever the Secretary obligates amounts for a major medical facility under subparagraph (A), the Secretary shall submit to the Committee on Veterans’ Affairs and the Committee on Appropriations of the Senate and the Committee on Veterans’ Affairs and the Committee on Appropriations of the House of Representatives notice of the following:
+
+&emsp;(i) The major medical facility project that is the source of the bid savings.
+
+&emsp;(ii) The other major medical facility project for which the amounts are being obligated.
+
+&emsp;(iii) The amounts being obligated for such other major medical facility project.
 
 (e) The Secretary may accept gifts or donations for any of the purposes of this subchapter.
 
@@ -42,21 +52,23 @@
 
 (g) The limitation in subsection (f) does not apply to a project for which funds have been authorized by law in accordance with subsection (a)(2).
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 56, §5004; amended Pub. L. 99–166, title III, §§301, 303, Dec. 3, 1985, 99 Stat. 954, 955; Pub. L. 99–576, title II, §221(b), Oct. 28, 1986, 100 Stat. 3259; Pub. L. 100–322, title IV, §422, May 20, 1988, 102 Stat. 553; renumbered §8104 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §301(a), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–79, §3(a), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, §§205(a), 206(a), (c), Oct. 9, 1996, 110 Stat. 3189, 3190; Pub. L. 105–368, title VII, §704, Nov. 11, 1998, 112 Stat. 3350; Pub. L. 108–170, title II, §201, Dec. 6, 2003, 117 Stat. 2047; Pub. L. 108–422, title IV, §416, Nov. 30, 2004, 118 Stat. 2393; Pub. L. 109–461, title VIII, §812, Dec. 22, 2006, 120 Stat. 3447; Pub. L. 110–387, title VII, §705, Oct. 10, 2008, 122 Stat. 4138.)
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 56, §5004; amended Pub. L. 99–166, title III, §§301, 303, Dec. 3, 1985, 99 Stat. 954, 955; Pub. L. 99–576, title II, §221(b), Oct. 28, 1986, 100 Stat. 3259; Pub. L. 100–322, title IV, §422, May 20, 1988, 102 Stat. 553; renumbered §8104 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §301(a), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–79, §3(a), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, §§205(a), 206(a), (c), Oct. 9, 1996, 110 Stat. 3189, 3190; Pub. L. 105–368,title VII, §704, Nov. 11, 1998, 112 Stat. 3350; Pub. L. 108–170, title II, §201, Dec. 6, 2003, 117 Stat. 2047; Pub. L. 108–422, title IV, §416, Nov. 30, 2004, 118 Stat. 2393; Pub. L. 109–461, title VIII, §812, Dec. 22, 2006, 120 Stat. 3447; Pub. L. 110–387, title VII, §705, Oct. 10, 2008, 122 Stat. 4138; Pub. L. 111–275, title IX, §905, Oct. 13, 2010, 124 Stat. 2895.)
 
 #### Amendments
 
-2008—Subsec. (a)(3)(B). Pub. L. 110–387 substituted “$1,000,000” for “$600,000”.
+<b>2010</b>—Subsec. (d). Pub. L. 111–275 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), in any case” for “In any case”, and added par. (2).
 
-2006—Subsec. (a)(3)(A). Pub. L. 109–461 substituted “$10,000,000” for “$7,000,000”.
+<b>2008</b>—Subsec. (a)(3)(B). Pub. L. 110–387 substituted “$1,000,000” for “$600,000”.
 
-2004—Subsec. (g). Pub. L. 108–422 added subsec. (g).
+<b>2006</b>—Subsec. (a)(3)(A). Pub. L. 109–461 substituted “$10,000,000” for “$7,000,000”.
 
-2003—Subsec. (a)(3)(A). Pub. L. 108–170 substituted “$7,000,000” for “$4,000,000”.
+<b>2004</b>—Subsec. (g). Pub. L. 108–422 added subsec. (g).
 
-1998—Subsec. (a)(3)(B). Pub. L. 105–368 substituted “$600,000” for “$300,000”.
+<b>2003</b>—Subsec. (a)(3)(A). Pub. L. 108–170 substituted “$7,000,000” for “$4,000,000”.
 
-1996—Subsec. (a)(3)(A). Pub. L. 104–262, §206(a), substituted “$4,000,000” for “$3,000,000”.
+<b>1998</b>—Subsec. (a)(3)(B). Pub. L. 105–368 substituted “$600,000” for “$300,000”.
+
+<b>1996</b>—Subsec. (a)(3)(A). Pub. L. 104–262, §206(a), substituted “$4,000,000” for “$3,000,000”.
 
 Subsec. (b). Pub. L. 104–262, §205(a)(1), inserted introductory provisions and struck out former introductory provisions which read as follows: “In the event that the President or the Secretary proposes to the Congress the funding of any construction, alteration, lease, or other acquisition to which subsection (a) of this section is applicable, the Secretary shall submit to each committee, on the same day, a prospectus of the proposed medical facility. Such prospectus shall include—”.
 
@@ -66,9 +78,9 @@ Subsec. (b)(4) to (8). Pub. L. 104–262, §205(a)(5), added pars. (4) to (8).
 
 Subsec. (f). Pub. L. 104–262, §206(c), added subsec. (f).
 
-1993—Subsec. (a)(3)(A). Pub. L. 103–79 substituted “$3,000,000” for “$2,000,000”.
+<b>1993</b>—Subsec. (a)(3)(A). Pub. L. 103–79 substituted “$3,000,000” for “$2,000,000”.
 
-1992—Subsec. (a)(2). Pub. L. 102–405, §301(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “It shall not be in order in the Senate or in the House of Representatives to consider a bill, resolution, or amendment which would make an appropriation for any fiscal year which may be expended for amajor medical facility project or a major medical facility lease unless—
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–405, §301(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “It shall not be in order in the Senate or in the House of Representatives to consider a bill, resolution, or amendment which would make an appropriation for any fiscal year which may be expended for a major medical facility project or a major medical facility lease unless—
 
 &emsp;“(A) such bill, resolution, or amendment specifies the amount to be appropriated for that project or lease,
 
@@ -80,7 +92,7 @@ Subsec. (a)(3)(B). Pub. L. 102–405, §301(a)(2), inserted “new” after “a
 
 Subsec. (c). Pub. L. 102–405, §301(a)(3), substituted “law” for “resolution” in two places.
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 5004 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 5004 of this title as this section.
 
 Subsec. (b). Pub. L. 102–83 substituted “Secretary” for “Administrator” in two places in introductory provisions.
 
@@ -90,7 +102,7 @@ Subsec. (c). Pub. L. 102–83 substituted “Secretary” for “Administrator�
 
 Subsecs. (d), (e). Pub. L. 102–83 substituted “Secretary” for “Administrator” wherever appearing.
 
-1988—Subsec. (a)(2). Pub. L. 100–322, §422(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “After the adoption by the committees during a fiscal year of resolutions with identical texts approving major medical facility projects, it shall not be in order in the House of Representatives or in the Senate to consider a bill, resolution, or amendment making an appropriation for that fiscal year or for the next fiscal year which may be expended for a major medical facility project—
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–322, §422(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “After the adoption by the committees during a fiscal year of resolutions with identical texts approving major medical facility projects, it shall not be in order in the House of Representatives or in the Senate to consider a bill, resolution, or amendment making an appropriation for that fiscal year or for the next fiscal year which may be expended for a major medical facility project—
 
 &emsp;“(A) if the project for which the appropriation is proposed to be made is not approved in those resolutions; or
 
@@ -114,9 +126,9 @@ Subsec. (c). Pub. L. 100–322, §422(c), amended subsec. (c) generally. Prior t
 
 Subsecs. (d) to (f). Pub. L. 100–322, §422(d), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows: “In the case of any medical facility approved for construction, alteration, lease, or other acquisition by each committee under subsection (a) of this section for which funds have not been appropriated within one year after the date of such approval, either such committee may by resolution rescind its approval at any time thereafter before such funds are appropriated.”
 
-1986—Subsec. (b)(1). Pub. L. 99–576 inserted “and to the sharing of health-care resources with the Department of Defense under section 5011 of this title” at end.
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–576 inserted “and to the sharing of health-care resources with the Department of Defense under section 5011 of this title” at end.
 
-1985—Subsec. (a). Pub. L. 99–166, §301, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “In order to ensure the equitable distribution of medical facilities throughout the United States, taking into consideration the comparative urgency of the need for the services to be provided in the case of each particular facility—
+<b>1985</b>—Subsec. (a). Pub. L. 99–166, §301, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “In order to ensure the equitable distribution of medical facilities throughout the United States, taking into consideration the comparative urgency of the need for the services to be provided in the case of each particular facility—
 
 &emsp;“(1) no appropriation may be made for the construction, alteration, or acquisition (not including exchanges) of any medical facility which involves a total expenditure of more than $2,000,000 unless each committee has first adopted a resolution approving such construction, alteration, or acquisition and setting forth the estimated cost thereof; and
 

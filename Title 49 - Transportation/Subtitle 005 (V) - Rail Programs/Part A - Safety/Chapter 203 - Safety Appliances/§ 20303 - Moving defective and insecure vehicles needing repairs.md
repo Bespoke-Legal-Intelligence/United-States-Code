@@ -2,7 +2,7 @@
 
 (a)
 
-General.—A vehicle that is equipped in compliance with this chapter whose equipment becomes defective or insecure nevertheless may be moved when necessary to make repairs, without a penalty being imposed under section 21302 of this title, from the place at which the defect or insecurity was first discovered to the nearest available place at which the repairs can be made—
+General.—A vehicle that is equipped in compliance with this chapter whose equipment becomes defective or insecure nevertheless maybe moved when necessary to make repairs, without a penalty being imposed under section 21302 of this title, from the place at which the defect or insecurity was first discovered to the nearest available place at which the repairs can be made—
 
 &emsp;(1) on the railroad line on which the defect or insecurity was discovered; or
 
@@ -48,5 +48,5 @@ In subsection (a), before clause (1), the words “A vehicle that is equipped in
 
 In subsection (b), the words “A vehicle . . . may be moved under this section . . . only when” are substituted for “and nothing in this proviso shall be construed to permit the hauling of defective cars . . . unless” for clarity and to eliminate unnecessary words.
 
-In subsection (c), the word “hauling” is omitted for consistency in this section. The word “proceeding” is substituted for “remedial action” for consistency in the revised title and to ensure that administrative, as well as court proceedings, are included. The words “to recover damages” are added for clarity. The words“arising from” are substituted for “caused . . . by reason of or in connection with” to eliminate unnecessary words.
+In subsection (c), the word “hauling” is omitted for consistency in this section. The word “proceeding” is substituted for “remedial action” for consistency in the revised title and to ensure that administrative, as well as court proceedings, are included. The words “to recover damages” are added for clarity. The words “arising from” are substituted for “caused . . . by reason of or in connection with” to eliminate unnecessary words.
 

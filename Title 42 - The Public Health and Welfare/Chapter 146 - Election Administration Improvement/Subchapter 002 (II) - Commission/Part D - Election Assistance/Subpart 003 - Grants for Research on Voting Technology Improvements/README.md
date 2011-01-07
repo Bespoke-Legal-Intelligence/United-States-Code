@@ -1,7 +1,5 @@
 subpart 3—grants for research on voting technology improvements
 
-<i><sup>1</sup></i><i> So in original.</i>
-
 
 ---
 

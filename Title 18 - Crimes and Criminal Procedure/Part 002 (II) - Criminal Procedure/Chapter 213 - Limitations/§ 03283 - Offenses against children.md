@@ -26,9 +26,9 @@ Changes were made in phraseology.
 
 #### Amendments
 
-2006—Pub. L. 109–162 inserted “, or for ten years after the offense, whichever is longer” after “of the child”.
+<b>2006</b>—Pub. L. 109–162 inserted “, or for ten years after the offense, whichever is longer” after “of the child”.
 
-2003—Pub. L. 108–21 substituted “Offenses against children” for “Child abuse offenses” in section catchline and amended text generally. Prior to amendment, text read as follows: “No statute of limitations that would otherwise preclude prosecution for an offense involving the sexual or physical abuse of a child under the age of 18 years shall preclude such prosecution before the child reaches the age of 25 years.”
+<b>2003</b>—Pub. L. 108–21 substituted “Offenses against children” for “Child abuse offenses” in section catchline and amended text generally. Prior to amendment, text read as follows: “No statute of limitations that would otherwise preclude prosecution for an offense involving the sexual or physical abuse of a child under the age of 18 years shall preclude such prosecution before the child reaches the age of 25 years.”
 
-1994—Pub. L. 103–322 substituted “Child abuse offenses” for “Customs and slave trade violations” as section catchline and amended text generally. Prior to amendment, text read as follows: “No person shall be prosecuted, tried or punished for any violation of the customs laws or the slave trade laws of the United States unless the indictment is found or the information is instituted within five years next after the commission of the offense.”
+<b>1994</b>—Pub. L. 103–322 substituted “Child abuse offenses” for “Customs and slave trade violations” as section catchline and amended text generally. Prior to amendment, text read as follows: “No person shall be prosecuted, tried or punished for any violation of the customs laws or the slave trade laws of the United States unless the indictment is found or the information is instituted within five years next after the commission of the offense.”
 

@@ -146,17 +146,17 @@ For purposes of subsection (a), taxable income shall be adjusted as follows:
 
 #### Amendments
 
-2005—Subsec. (b)(10). Pub. L. 109–135 added par. (10).
+<b>2005</b>—Subsec. (b)(10). Pub. L. 109–135 added par. (10).
 
-2004—Subsec. (d)(2). Pub. L. 108–357 substituted “section 904(h)(6)” for “section 904(g)(6)”.
+<b>2004</b>—Subsec. (d)(2). Pub. L. 108–357 substituted “section 904(h)(6)” for “section 904(g)(6)”.
 
-1990—Subsec. (c)(5). Pub. L. 101–508 substituted “section 1561” for “sections 1561 and 1564”.
+<b>1990</b>—Subsec. (c)(5). Pub. L. 101–508 substituted “section 1561” for “sections 1561 and 1564”.
 
-1986—Subsec. (b)(5)(C)(i), (8)(C). Pub. L. 99–514, §1899A(17), substituted “July 18, 1984” for “the date of the enactment of the Tax Reform Act of 1984”.
+<b>1986</b>—Subsec. (b)(5)(C)(i), (8)(C). Pub. L. 99–514, §1899A(17), substituted “July 18, 1984” for “the date of the enactment of the Tax Reform Act of 1984”.
 
 Subsec. (b)(9). Pub. L. 99–514, §1225(a), added par. (9).
 
-1984—Subsec. (b)(5). Pub. L. 98–369, §58(b), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), there shall be allowed as a deduction an amount equal to the net capital loss for the taxable year (determined without regard to paragraph (7)(A)” for “There shall be allowed as deductions losses from sales or exchanges of capital assets during the taxable year which are disallowed as deductions under section 1211(a) in subpar. (A) as so redesignated, and added subpars. (B) and (C).
+<b>1984</b>—Subsec. (b)(5). Pub. L. 98–369, §58(b), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), there shall be allowed as a deduction an amount equal to the net capital loss for the taxable year (determined without regard to paragraph (7)(A)” for “There shall be allowed as deductions losses from sales or exchanges of capital assets during the taxable year which are disallowed as deductions under section 1211(a) in subpar. (A) as so redesignated, and added subpars. (B) and (C).
 
 Subsec. (b)(6). Pub. L. 98–369, §58(b), divided existing par. (6) into subpars. (A) and (B) and substituted references to the application of paragraph (7) for references to capital loss carryback and carryover provided in section 1212.
 
@@ -166,11 +166,11 @@ Subsec. (b)(8). Pub. L. 98–369, §58(b), added par. (8).
 
 Subsec. (d). Pub. L. 98–369, §125(a), added subsec. (d).
 
-1981—Subsec. (c)(2). Pub. L. 97–34, §232(a), designated existing provisions as subpar. (A), substituted “$250,000” for “$150,000”, and added subpar. (B).
+<b>1981</b>—Subsec. (c)(2). Pub. L. 97–34, §232(a), designated existing provisions as subpar. (A), substituted “$250,000” for “$150,000”, and added subpar. (B).
 
 Subsec. (c)(3). Pub. L. 97–34, §232(b)(1), substituted “$250,000” for “$150,000”.
 
-1976—Subsec. (b)(1). Pub. L. 94–455, §§1033(b)(3), 1901(a)(74), struck out “(other than the excess profits tax imposed by subchapter E of chapter 2 of the Internal Revenue Code of 1939 for taxable years beginning after December 31, 1940)” after “income and excess profits taxes”, and substituted “section 902(a) or 960(a)(1)” for “section 902(a)(1) or 960(a)(1)(C)” after “domestic corporation under”.
+<b>1976</b>—Subsec. (b)(1). Pub. L. 94–455, §§1033(b)(3), 1901(a)(74), struck out “(other than the excess profits tax imposed by subchapter E of chapter 2 of the Internal Revenue Code of 1939 for taxable years beginning after December 31, 1940)” after “income and excess profits taxes”, and substituted “section 902(a) or 960(a)(1)” for “section 902(a)(1) or 960(a)(1)(C)” after “domestic corporation under”.
 
 Subsec. (b)(6). Pub. L. 94–455, §1901(b)(33)(D), substituted “Net” for “Long-term” after “(6)”.
 
@@ -178,21 +178,21 @@ Subsec. (b)(8). Pub. L. 94–455, §1901(b)(20)(A), struck out par. (8) relating
 
 Subsec. (b)(9), (10). Pub. L. 94–455, §1901(b)(32)(C), struck out par. (9) relating to allowance of deduction for distributions of divested stock, and struck out par. (10) relating to special adjustment on disposition of antitrust stock received as a dividend.
 
-1975—Subsec. (c)(2), (3). Pub. L. 94–12 substituted “$150,000” for “$100,000”.
+<b>1975</b>—Subsec. (c)(2), (3). Pub. L. 94–12 substituted “$150,000” for “$100,000”.
 
-1969—Subsec. (b)(6). Pub. L. 91–172, §512(f)(5), substituted “capital loss carryback or carryover” for “capital loss carryover” and “capital loss carryback and carryover” for “capital loss carryover” in subpar. (B).
+<b>1969</b>—Subsec. (b)(6). Pub. L. 91–172, §512(f)(5), substituted “capital loss carryback or carryover” for “capital loss carryover” and “capital loss carryback and carryover” for “capital loss carryover” in subpar. (B).
 
 Subsec. (b)(7). Pub. L. 91–172, §512(f)(6), substituted “Capital loss” for “Capital loss carryover” in heading and “capital loss carryback or carryover” for “capital loss carryover” in text.
 
 Subsec. (c)(5). Pub. L. 91–172, §401(b)(2)(C), substituted “section 1551, and for limitation on such credit in the case of certain controlled corporations, see sections 1561 and 1564” for “section 1551”.
 
-1964—Subsec. (b)(1). Pub. L. 88–272 substituted “section 275(a)(4)” for “section 164(b)(6)”.
+<b>1964</b>—Subsec. (b)(1). Pub. L. 88–272 substituted “section 275(a)(4)” for “section 164(b)(6)”.
 
-1962—Subsec. (b)(1). Pub. L. 87–834 substituted “accrued during the taxable year or deemed to be paid by a domestic corporation under section 902(a)(1) or 960(a)(1)(C) for the taxable year” for “accrued during the taxable year”.
+<b>1962</b>—Subsec. (b)(1). Pub. L. 87–834 substituted “accrued during the taxable year or deemed to be paid by a domestic corporation under section 902(a)(1) or 960(a)(1)(C) for the taxable year” for “accrued during the taxable year”.
 
 Subsec. (b)(9), (10). Pub. L. 87–403 added pars. (9) and (10).
 
-1958—Subsec. (b)(2). Pub. L. 85–866, §31(a), struck out “the limitation in” after “without regard to”.
+<b>1958</b>—Subsec. (b)(2). Pub. L. 85–866, §31(a), struck out “the limitation in” after “without regard to”.
 
 Subsec. (b)(6)(B). Pub. L. 85–866, §31(a), substituted “in taxable income the excess of the net long-term capital gain for the taxable year over the net short-term capital loss for such year (determined without regard to the capital loss carryover provided in section 1212)” for “such excess in taxable income”.
 

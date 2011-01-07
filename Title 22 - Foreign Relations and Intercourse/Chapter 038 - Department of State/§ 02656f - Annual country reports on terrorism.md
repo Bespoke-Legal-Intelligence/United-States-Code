@@ -14,7 +14,7 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 &emsp;(B) detailed assessments with respect to each foreign country whose territory is being used as a sanctuary for terrorists or terrorist organizations;
 
-&emsp;(2) all relevant information about the activities during the preceding year of any terrorist group, and any umbrella group under which such terrorist group falls, known to be responsible for the kidnapping or death of an American citizen during the preceding five years, any terrorist group known to have obtained or developed, or to have attempted to obtain or develop, weapons of mass destruction, any terrorist group known to be financed by countries about which Congress was notified during the preceding year pursuant to section 2405(j) of the Appendix to title 50, any group designatedby the Secretary as a foreign terrorist organization under section 1189 of title 8, and any other known international terrorist group which the Secretary determines should be the subject of such report;
+&emsp;(2) all relevant information about the activities during the preceding year of any terrorist group, and any umbrella group under which such terrorist group falls, known to be responsible for the kidnapping or death of an American citizen during the preceding five years, any terrorist group known to have obtained or developed, or to have attempted to obtain or develop, weapons of mass destruction, any terrorist group known to be financed by countries about which Congress was notified during the preceding year pursuant to section 2405(j) of the Appendix to title 50, any group designated by the Secretary as a foreign terrorist organization under section 1189 of title 8, and any other known international terrorist group which the Secretary determines should be the subject of such report;
 
 &emsp;(3) with respect to each foreign country from which the United States Government has sought cooperation during the previous five years in the investigation or prosecution of an act of international terrorism against United States citizens or interests, information on—
 
@@ -86,7 +86,7 @@ The report required under subsection (a) of this section should to the extent fe
 
 &emsp;(3) <sup>4</sup> to the extent practicable, complete statistical information on the number of individuals, including United States citizens and dual nationals, killed, injured, or kidnapped by each terrorist group during the preceding calendar year; and
 
-&emsp;(4) <sup>4</sup> an analysis, as appropriate, of trends in international terrorism, including changes intechnology used, methods and targets of attack, demographic information on terrorists, and other appropriate information.
+&emsp;(4) <sup>4</sup> an analysis, as appropriate, of trends in international terrorism, including changes in technology used, methods and targets of attack, demographic information on terrorists, and other appropriate information.
 
 #### (c) Classification of report
 
@@ -136,7 +136,7 @@ As used in this section—
 
 #### Amendments
 
-2004—Subsec. (a)(1). Pub. L. 108–458, §7102(d)(1), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), and added subpar. (B).
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–458, §7102(d)(1), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), and added subpar. (B).
 
 Subsec. (a)(2). Pub. L. 108–487, §701(a)(1), inserted “any terrorist group known to have obtained or developed, or to have attempted to obtain or develop, weapons of mass destruction,” after “during the preceding five years,” and “any group designated by the Secretary as a foreign terrorist organization under section 1189 of title 8,” after “section 2405(j) of the Appendix to title 50”.
 
@@ -162,17 +162,17 @@ Subsec. (b)(5). Pub. L. 108–458, §7102(d)(2)(E), added par. (5).
 
 Subsec. (d)(4), (5). Pub. L. 108–458, §7102(d)(3), added pars. (4) and (5).
 
-1996—Subsec. (a)(3), (4). Pub. L. 104–208, §101(c) \[title V, §578(1)\], added pars. (3) and (4).
+<b>1996</b>—Subsec. (a)(3), (4). Pub. L. 104–208, §101(c) \[title V, §578(1)\], added pars. (3) and (4).
 
 Subsec. (c). Pub. L. 104–208, §101(c) \[title V, §578(2)\], designated existing provisions as par. (1), realigned margins, substituted “Except as provided in paragraph (2), the report” for “The report”, and added par. (2).
 
-1994—Subsec. (b)(2)(E). Pub. L. 103–236 added subpar. (E).
+<b>1994</b>—Subsec. (b)(2)(E). Pub. L. 103–236 added subpar. (E).
 
-1990—Subsec. (a). Pub. L. 101–246 substituted “April 30” for “March 31”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–246 substituted “April 30” for “March 31”.
 
 #### Effective Date of 2004 Amendments
 
-Pub. L. 108–487, title VII, §701(b), Dec. 23, 2004, 118 Stat. 3962, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply beginning with the first report under section 140 of theForeign Relations Authorization Act, Fiscal Years 1988 and 1989 \[this section\] that is submitted more than one year after the date of the enactment of this Act \[Dec. 23, 2004\].”
+Pub. L. 108–487, title VII, §701(b), Dec. 23, 2004, 118 Stat. 3962, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply beginning with the first report under section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 \[this section\] that is submitted more than one year after the date of the enactment of this Act \[Dec. 23, 2004\].”
 
 Pub. L. 108–487, title VIII, §801, Dec. 23, 2004, 118 Stat. 3962, provided that: “Except as otherwise expressly provided in this Act, this Act \[enacting sections 403–3g, 403w, 441j to 441j–4, 441m, and 1912 of Title 50, War and National Defense, amending this section and sections 403–4a, 403x, 404n, 1902, 1903, 1910, and 1911 of Title 50, enacting provisions set out as notes under this section, section 873 of Title 21, Food and Drugs, and sections 401, 403–1b, 403–3g, 403–4a, 415b, and 1902 of Title 50, and amending provisions set out as notes under section 8331 of Title 5, Government Organization and Employees, and section 402 of Title 50\] (and the amendments made by this Act) shall take effect on the date of the enactment of this Act \[Dec. 23, 2004\].”
 

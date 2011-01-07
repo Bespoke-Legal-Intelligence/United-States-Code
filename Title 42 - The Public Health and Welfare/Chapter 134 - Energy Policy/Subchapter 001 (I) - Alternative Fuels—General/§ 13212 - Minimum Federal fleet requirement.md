@@ -66,7 +66,7 @@ The Administrator of General Services shall take all feasible steps to ensure th
 
 #### (B) Medium duty passenger vehicle
 
-&emsp;&emsp;The term “medium duty passenger vehicle” has the meaning given that term <sup>1</sup> section 523.2 of title 49 of the Code of FederalRegulations, as in effect on December 19, 2007.
+&emsp;&emsp;The term “medium duty passenger vehicle” has the meaning given that term <sup>1</sup> section 523.2 of title 49 of the Code of Federal Regulations, as in effect on December 19, 2007.
 
 #### (C) Member's Representational Allowance
 
@@ -116,9 +116,9 @@ There are authorized to be appropriated for carrying out this section, such sums
 
 #### Amendments
 
-2007—Subsecs. (f), (g). Pub. L. 110–140 added subsec. (f) and redesignated former subsec. (f) as (g).
+<b>2007</b>—Subsecs. (f), (g). Pub. L. 110–140 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-2005—Subsec. (c). Pub. L. 109–58 substituted “shall” for “may”.
+<b>2005</b>—Subsec. (c). Pub. L. 109–58 substituted “shall” for “may”.
 
 #### Effective Date of 2007 Amendment
 

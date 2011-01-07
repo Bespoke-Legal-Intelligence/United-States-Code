@@ -10,7 +10,7 @@ There is established in the general fund of the Treasury a separate account whic
 
 &emsp;(C) Fees charged by the Drug Enforcement Administration under its diversion control program shall be set at a level that ensures the recovery of the full costs of operating the various aspects of that program.
 
-&emsp;(D) The amount required to be refunded from the Diversion Control Fee Account for fiscal year 1994 and thereafter shall be refunded in accordance with estimates made in the budget request of the Attorney General for those fiscal years. Any proposed changes in the amounts designated in said budget requests shall only be made after notification to theCommittees on Appropriations of the House of Representatives and the Senate fifteen days in advance.
+&emsp;(D) The amount required to be refunded from the Diversion Control Fee Account for fiscal year 1994 and thereafter shall be refunded in accordance with estimates made in the budget request of the Attorney General for those fiscal years. Any proposed changes in the amounts designated in said budget requests shall only be made after notification to the Committees on Appropriations of the House of Representatives and the Senate fifteen days in advance.
 
 #### (2) Definitions
 
@@ -32,9 +32,9 @@ Section was enacted as part of the Departments of Commerce, Justice, and State, 
 
 #### Amendments
 
-2004—Pub. L. 108–447, §633(a)(2) to (4), designated existing provisions as par. (1) and inserted heading, substituted “program. Such reimbursements shall be made without distinguishing between expenses related to controlled substance activities and expenses related to chemical activities” for “program” in par. (1)(B), and added par. (2).
+<b>2004</b>—Pub. L. 108–447, §633(a)(2) to (4), designated existing provisions as par. (1) and inserted heading, substituted “program. Such reimbursements shall be made without distinguishing between expenses related to controlled substance activities and expenses related to chemical activities” for “program” in par. (1)(B), and added par. (2).
 
 Pub. L. 108–447, §633(a)(1), which directed redesignation of pars. (1) to (5) as subpars. (A) to (E) and adjustment of margins, was executed by redesignating pars. (1) to (4) as (A) to (D), respectively, to reflect the probable intent of Congress, because Pub. L. 105–362 struck out par. (5). See 1998 Amendment note below.
 
-1998—Par. (5). Pub. L. 105–362 struck out par. (5) which read as follows: “The Attorney General shall prepare and submit annually to the Congress, statements of financial condition of the account, including the beginning balance, receipts, refunds to appropriations, transfers to the general fund, and the ending balance.”
+<b>1998</b>—Par. (5). Pub. L. 105–362 struck out par. (5) which read as follows: “The Attorney General shall prepare and submit annually to the Congress, statements of financial condition of the account, including the beginning balance, receipts, refunds to appropriations, transfers to the general fund, and the ending balance.”
 

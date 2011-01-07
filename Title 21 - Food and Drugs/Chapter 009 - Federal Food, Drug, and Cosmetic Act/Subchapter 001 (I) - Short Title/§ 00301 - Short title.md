@@ -10,7 +10,7 @@ Act June 23, 1939, ch. 242, §§1, 2, 53 Stat. 853, 854, provided that:
 
 “\[Sec. 1\] (a) The effective date of the following provisions of the Federal Food, Drug, and Cosmetic Act is hereby postponed until January 1, 1940: Sections 402(c) \[342(c) of this title\]; 403(e)(1) \[343(e)(1) of this title\]; 403(g), (h), (i), (j), and (k) \[343(g) to (k) of this title\]; 501(a), (4) \[351(a)(4) of this title\]; 502(b), (d), (e), (f), (g), and (h) \[352(b), (d) to (h) of this title\]; 601(e) \[361(e) of this title\]; and 602(b) \[362(b) of this title\].
 
-“(b) The Secretary of Agriculture shall promulgate regulations further postponing to July 1, 1940\[,\] the effective date of the provisions of sections 403(e)(1) \[343(e)(1) of this title\]; 403(g), (h), (i), (j), and (k) \[343(g) to (k)\]; 502(b), (d), (e), (f), (g), and (h) \[352(b), (d) to (h) of this title\]; and 602(b) \[362(b) of this title\] of such Act with respect to lithographed labeling which was manufactured prior to February 1, 1939, and to containers bearing labeling which, prior to February 1, 1939, was lithographed, etched, stamped, pressed, printed, fused or blown on or in such containers, where compliance with such provisions would be unduly burdensome by reason of causing the loss of valuable stocks of such labeling or containers, and where such postponement would not prevent the public interest being adequately served: Provided, That in no case shall such regulations apply to labeling which would not have complied with the requirements of the Food and Drugs Act of June 30, 1906, as amended.
+“(b) The Secretary of Agriculture shall promulgate regulations further postponing to July 1, 1940\[,\] the effective date of the provisions of sections 403(e)(1) \[343(e)(1) of this title\]; 403(g), (h), (i), (j), and (k) \[343(g) to (k)\]; 502(b), (d), (e), (f), (g), and (h) \[352(b), (d) to (h) of this title\]; and 602(b) \[362(b) of this title\] of such Act with respect to lithographed labeling which was manufactured prior to February 1, 1939, and to containers bearing labeling which, prior to February 1, 1939, was lithographed, etched, stamped, pressed, printed, fused or blown on or in such containers, where compliance with such provisions would be unduly burdensome by reason of causing the loss of valuable stocks of such labeling or containers, and where such postponement would not prevent the public interest being adequately served: Provided, That in no case shall such regulations apply to labeling which would not have complied withthe requirements of the Food and Drugs Act of June 30, 1906, as amended.
 
 “Sec. 2. (a) The provisions of section 8 \[section 10 of this title\], paragraph fifth, under the heading ‘In the case of food:’, of the Food and Drugs Act of June 30, 1906, as amended, and regulations promulgated thereunder, and all other provisions of such Act to the extent that they may relate to the enforcement of such section 8 \[section 10 of this title\] and of such regulations, shall remain in force until January 1, 1940.
 
@@ -18,7 +18,7 @@ Act June 23, 1939, ch. 242, §§1, 2, 53 Stat. 853, 854, provided that:
 
 “(c) Notwithstanding the provisions of section 1 of this Act, such section shall not apply—
 
-&emsp;“(1) to the provisions of section 502(d) and (e) of the Federal Food, Drug, and Cosmetic Act \[352(d), (e) ofthis title\], insofar as such provisions relate to any substance named in section 8 \[section 10 of this title\], paragraph second, under the heading ‘In the case of drugs:’, of the Food and Drugs Act of June 30, 1906, as amended, or a derivative of any such substance; or
+&emsp;“(1) to the provisions of section 502(d) and (e) of the Federal Food, Drug, and Cosmetic Act \[352(d), (e) of this title\], insofar as such provisions relate to any substance named in section 8 \[section 10 of this title\], paragraph second, under the heading ‘In the case of drugs:’, of the Food and Drugs Act of June 30, 1906, as amended, or a derivative of any such substance; or
 
 &emsp;“(2) to the provisions of section 502(b), (d), (e), (f), (g), and (h) of the Federal Food, Drug, and Cosmetic Act \[352(b), (d) to (h) of this title\], insofar as such provisions relate to drugs to which section 505 \[355 of this title\] of such Act applies.”
 
@@ -48,7 +48,7 @@ Pub. L. 110–85, title III, §301, Sept. 27, 2007, 121 Stat. 859, provided that
 
 Pub. L. 110–85, title IV, §401, Sept. 27, 2007, 121 Stat. 866, provided that: “This title \[enacting section 355d of this title, amending section 355c of this title, and enacting provisions set out as a note under section 355c of this title\] may be cited as the ‘Pediatric Research Equity Act of 2007’.”
 
-Pub. L. 110–85, title V, §501, Sept. 27, 2007, 121 Stat. 876, provided that: “This title \[amending section 355a of this title and sections 284m, 285g–10, 288–6, and 290b of Title 42, The Public Health and Welfare, enacting provisions set out as a note under section 355a of this title, and amending provisions set out as a note under section 284m of Title 42\] may be cited as the ‘Best Pharmaceuticals for Children Act of 2007’.”
+Pub. L. 110–85, title V, §501, Sept. 27, 2007, 121 Stat. 876, provided that: “This title \[amending section 355a ofthis title and sections 284m, 285g–10, 288–6, and 290b of Title 42, The Public Health and Welfare, enacting provisions set out as a note under section 355a of this title, and amending provisions set out as a note under section 284m of Title 42\] may be cited as the ‘Best Pharmaceuticals for Children Act of 2007’.”
 
 #### Short Title of 2006 Amendment
 
@@ -162,7 +162,7 @@ Pub. L. 98–417, §1, Sept. 24, 1984, 98 Stat. 1585, provided: “That this Act
 
 #### Short Title of 1983 Amendments
 
-Pub. L. 98–22, §1, Apr. 22, 1983, 97 Stat. 173, provided: “That this Act \[amending provisions set out as a note under section 348 of this title\] may be cited as the ‘Saccharin Study and Labeling Act Amendment of 1983’.”
+Pub. L. 98–22, §1, Apr. 22, 1983, 97 Stat. 173, provided: “That this Act \[amending provisions set out as a noteunder section 348 of this title\] may be cited as the ‘Saccharin Study and Labeling Act Amendment of 1983’.”
 
 Pub. L. 97–414, §1(a), Jan. 4, 1983, 96 Stat. 2049, provided that: “This Act \[enacting part B of subchapter V of chapter 9 of this title, section 44H of Title 26, Internal Revenue Code, section 155 of Title 35, Patents, and sections 236, 255, and 298b–4 of Title 42, The Public Health and Welfare, amending sections 1274, 1472, 2055, 2060, 2064, 2068, and 2080 of Title 15, Commerce and Trade, section 904 of this title, sections 280C and 6096 of Title 26, and sections 209, 231, 242k, 242m, 243, 254c, 254j, 254m, 254<i>o</i>, 254p, 256, 294j, 295g–1, 295g–4, 295h, 295h–1a, 297–1, 300, 300a–1, 300a–3, 300b, 300e–1, 300m, 300n–5, 300q–2, 300u–5, 300w–3, 300x–1, 300x–4, 300y–11, 4577, and 4588 of Title 42, enacting provisions set out as notes under section 360aa of this title, section 44H of Title 26, and sections 241, 255, 287i, and 300x–1 of Title 42, and repealing provisions set out as a note under section 300t–11 of Title 42\] may be cited as the ‘Orphan Drug Act’.”
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In determining the tax under this chapter of a shareholder for the shareholder's taxable year in which the taxable year of the S corporation ends (or for the final taxable year ofa shareholder who dies, or of a trust or estate which terminates, before the end of the corporation's taxable year), there shall be taken into account the shareholder's pro rata share of the corporation's—
+&emsp;In determining the tax under this chapter of a shareholder for the shareholder's taxable year in which the taxable year of the S corporation ends (or for the final taxable year of a shareholder who dies, or of a trust or estate which terminates, before the end of the corporation's taxable year), there shall be taken into account the shareholder's pro rata share of the corporation's—
 
 &emsp;&emsp;(A) items of income (including tax-exempt income), loss, deduction, or credit the separate treatment of which could affect the liability for tax of any shareholder, and
 
@@ -52,7 +52,7 @@ In any case where it is necessary to determine the gross income of a shareholder
 
 #### (B) Cannot exceed shareholder's basis in stock
 
-&emsp;&emsp;The aggregate amount of losses and deductions taken into account by a shareholder under subparagraph (A) shall not exceed the adjusted basis of the shareholder's stock in the corporation (determined at the close of the last day of the post-termination transition period and without regard to this paragraph).
+&emsp;&emsp;The aggregate amount of losses and deductions taken into account by a shareholder under subparagraph (A) shall not exceed the adjusted basis of the shareholder's stock inthe corporation (determined at the close of the last day of the post-termination transition period and without regard to this paragraph).
 
 #### (C) Adjustment in basis of stock
 
@@ -96,11 +96,11 @@ If an individual who is a member of the family (within the meaning of section 70
 
 #### Amendments
 
-2007—Subsec. (d)(4). Pub. L. 110–172 added par. (4).
+<b>2007</b>—Subsec. (d)(4). Pub. L. 110–172 added par. (4).
 
-2004—Subsec. (d)(2). Pub. L. 108–357 reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: “Any loss or deduction which is disallowed for any taxable year by reason of paragraph (1) shall be treated as incurred by the corporation in the succeeding taxable year with respect to that shareholder.”
+<b>2004</b>—Subsec. (d)(2). Pub. L. 108–357 reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: “Any loss or deduction which is disallowed for any taxable year by reason of paragraph (1) shall be treated as incurred by the corporation in the succeeding taxable year with respect to that shareholder.”
 
-1996—Subsec. (a)(1). Pub. L. 104–188, §1302(e), inserted “, or of a trust or estate which terminates,” after “who dies” in introductory provisions.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–188, §1302(e), inserted “, or of a trust or estate which terminates,” after “who dies” in introductory provisions.
 
 Subsec. (d)(1)(A). Pub. L. 104–188, §1309(a)(1), substituted “paragraphs (1) and (2)(A)” for “paragraph (1)”.
 
@@ -108,11 +108,11 @@ Subsec. (d)(3)(D). Pub. L. 104–188, §1312, added subpar. (D).
 
 Subsec. (g). Pub. L. 104–188, §1307(c)(3)(A), struck out subsec. (g) which provided a cross reference to subchapter D of chapter 63 of this title.
 
-1989—Subsec. (f)(2). Pub. L. 101–239 substituted “Treatment of tax imposed on built-in gains” for “Reduction in pass-thru for tax imposed on built-in gains” in heading and amended text generally. Prior to amendment, text read as follows: “If any tax is imposed under section 1374 for any taxable year on an S corporation, for purposes of subsection (a), the amount of each recognized built-in gain (within the meaning of section 1374) for such taxable year shall be reduced by its proportionate share of such tax.”
+<b>1989</b>—Subsec. (f)(2). Pub. L. 101–239 substituted “Treatment of tax imposed on built-in gains” for “Reduction in pass-thru for tax imposed on built-in gains” in heading and amended text generally. Prior to amendment, text read as follows: “If any tax is imposed under section 1374 for any taxable year on an S corporation, for purposes of subsection (a), the amount of each recognized built-in gain (within the meaning of section 1374) for such taxable year shall be reduced by its proportionate share of such tax.”
 
-1988—Subsec. (f)(2). Pub. L. 100–647 substituted “within the meaning of section 1374” for “as defined in section 1374(d)(2)”.
+<b>1988</b>—Subsec. (f)(2). Pub. L. 100–647 substituted “within the meaning of section 1374” for “as defined in section 1374(d)(2)”.
 
-1986—Subsec. (f)(2). Pub. L. 99–514, §632(c)(2), amended par. (2) generally. Prior to amendment, par. (2), reduction in pass-thru for tax imposed on capital gain, read as follows: “If any tax is imposed under section 1374 for any taxable year on an S corporation, for purposes of subsection (a)—
+<b>1986</b>—Subsec. (f)(2). Pub. L. 99–514, §632(c)(2), amended par. (2) generally. Prior to amendment, par. (2), reduction in pass-thru for tax imposed on capital gain, read as follows: “If any tax is imposed under section 1374 for any taxable year on an S corporation, for purposes of subsection (a)—
 
 &emsp;“(A) the amount of the corporation's long-term capital gains for the taxable year shall be reduced by the amount of such tax, and
 
@@ -122,13 +122,13 @@ Subsec. (g). Pub. L. 104–188, §1307(c)(3)(A), struck out subsec. (g) which pr
 
 Pub. L. 99–514, §701(e)(4)(K), struck out “56 or” before “1374”.
 
-1984—Subsec. (f). Pub. L. 98–369, §474(r)(26), substituted “section 34” for “section 39” in heading and text.
+<b>1984</b>—Subsec. (f). Pub. L. 98–369, §474(r)(26), substituted “section 34” for “section 39” in heading and text.
 
 Subsec. (f)(1). Pub. L. 98–369, §735(c)(16), substituted “and special fuels” for “, special fuels, and lubricating oil”.
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–172 effective as if included in the provisions of the Pension Protection Act of 2006, Pub. L. 109–280, to which such amendment relates, see section 3(j) of Pub. L. 110–172, set out as a note under section 170 of this title.
+Amendment by Pub. L. 110–172 effective as if included in the provisions of the Pension Protection Act of 2006,Pub. L. 109–280, to which such amendment relates, see section 3(j) of Pub. L. 110–172, set out as a note under section 170 of this title.
 
 #### Effective Date of 2004 Amendment
 

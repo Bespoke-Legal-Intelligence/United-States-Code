@@ -2,7 +2,7 @@
 
 #### (a) Benefits; applicability of Longshore and Harbor Workers’ Compensation Act; promulgation of regulations
 
-Subject to section 28(h)(1) of the Longshore and Harbor Workers’ Compensation Act Amendments of 1984, during any period after December 31, 1973, in which a State workmen's compensation law is not included on the list published by the Secretary under section 931(b) of this title, the provisions of Public Law 803, 69th Congress (44 Stat. 1424, approved March 4, 1927), as amended \[33 U.S.C. 901 et seq.\], and as it may be amended from time to time (other than the provisions contained in sections 1, 2, 3, 4,,<sup>1</sup> 8, 9, 10, 12, 13, 29, 30, 31, 32, 33, 37, 38, 41, 43, 44, 45, 46, 47, 48, 49, 50, and 51 thereof) \[33 U.S.C. 901, 902, 903, 904, 908, 909, 910, 912, 913, 929, 930, 931, 932, 933, 937, 938, 941, 943, 944, 945, 946, 947, 948, 948a, 949, 950\], shall (except as otherwise provided in this subsection or by regulations of the Secretary and except that references in such Act to the employer shall be considered to refer to the trustees of the fund, as the Secretary considers appropriate and as is consistent with the provisions of section 9501(d) of title 26), be applicable to each operator of a coal mine in such State with respect to death or total disability due to pneumoconiosis arising out of employment in such mine, or with respect to entitlements established in paragraph (5) of section 921(c) of this title. In administering this part, the Secretary is authorized to prescribe in the Federal Register such additional provisions, not inconsistent with those specifically excluded by this subsection, as he deems necessary to provide for the payment of benefits by such operator to persons entitled thereto as provided in this part and thereafter those provisions shall be applicable to such operator.
+Subject to section 28(h)(1) of the Longshore and Harbor Workers’ Compensation Act Amendments of 1984, during any period after December 31, 1973, in which a State workmen's compensation law is not included on the list published by the Secretary under section 931(b) of this title, the provisions of Public Law 803, 69th Congress (44 Stat. 1424, approved March 4, 1927), as amended \[33 U.S.C. 901 et seq.\], and as it may beamended from time to time (other than the provisions contained in sections 1, 2, 3, 4,,<sup>1</sup> 8, 9, 10, 12, 13, 29, 30, 31, 32, 33, 37, 38, 41, 43, 44, 45, 46, 47, 48, 49, 50, and 51 thereof) \[33 U.S.C. 901, 902, 903, 904, 908, 909, 910, 912, 913, 929, 930, 931, 932, 933, 937, 938, 941, 943, 944, 945, 946, 947, 948, 948a, 949, 950\], shall (except as otherwise provided in this subsection or by regulations of the Secretary and except that references in such Act to the employer shall be considered to refer to the trustees of the fund, as the Secretary considers appropriate and as is consistent with the provisions of section 9501(d) of title 26), be applicable to each operator of a coal mine in such State with respect to death or total disability due to pneumoconiosis arising out of employment in such mine, or with respect to entitlements established in paragraph (5) of section 921(c) of this title. In administering this part, the Secretary is authorized to prescribe in the Federal Register such additional provisions, not inconsistent with those specifically excluded by this subsection, as he deems necessary to provide for the payment of benefits by such operator to persons entitled thereto as provided in this part and thereafter those provisions shall be applicable to such operator.
 
 #### (b) Liability of operators
 
@@ -42,7 +42,7 @@ The Secretary of Labor shall by regulation establish standards, which may includ
 
 #### (i) Subsequent operators’ liability for benefit payments
 
-(1) During any period in which this section is applicable to the operator of a coal mine who on or after January 1, 1970, acquired such mine or substantially all the assets thereof, from a person (hereinafter in this subsection referred to as a “prior operator”) who was an operator of such mine, or owner of such assets on or after January 1, 1970, such operator shall be liable for and shall, in accordance with section 933 of this title, secure the payment of all benefits which would have been payable by the prior operator under this section with respect to miners previously employed by such prior operator as if the acquisition had not occurred and the prior operator had continued to be an operator of a coal mine.
+(1) During any period in which this section is applicable to the operator of a coal mine who on or after January 1, 1970, acquired such mine or substantially all the assets thereof, from a person (hereinafter in this subsection referred to as a “prior operator”) who was an operator of such mine, or owner of such assets on or after January 1, 1970, such operator shall be liable for and shall, in accordance with section 933 of this title, secure the payment of all benefits which would have been payable by the prior operator under this section with respect to miners previously employed by such prior operator as if the acquisition had not occurred and the prioroperator had continued to be an operator of a coal mine.
 
 (2) Nothing in this subsection shall relieve any prior operator of any liability under this section.
 
@@ -72,9 +72,9 @@ The Secretary shall be a party in any proceeding relative to a claim for benefit
 
 #### (<i>l</i>) Filing of new claims or refiling or revalidation of claims of miners already determined eligible at time of death
 
-In no case shall the eligible survivors of a miner who was determined to be eligible to receive benefits under this subchapter at the time of his or her death be required to file a new claim for benefits, or refile or otherwise revalidate the claim of such miner, except with respect to a claim filed under this part on or after the effective date of the Black Lung Benefits Amendments of 1981,.<sup>3</sup>
+In no case shall the eligible survivors of a miner who was determined to be eligible to receive benefits under this subchapter at the time of his or her death be required to file a new claim for benefits, or refile or otherwise revalidate the claim of such miner,.<sup>3</sup>
 
-(Pub. L. 91–173, title IV, §422, Dec. 30, 1969, 83 Stat. 796; Pub. L. 92–303, §§3(a), (b), 5(2)–(4), (9), 8, May 19, 1972, 86 Stat. 153, 155–157; Pub. L. 95–239, §§3(b)(4), 7(a)–(h), Mar. 1, 1978, 92 Stat. 97–99; Pub. L. 97–119, title I, §104(b)(3)–(5), title II, §§203(a)(6), (b), 204, 205(a), Dec. 29, 1981, 95 Stat. 1639, 1644, 1645; Pub. L. 98–426, §28(h)(2), Sept. 28, 1984, 98 Stat. 1655; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 91–173, title IV, §422, Dec. 30, 1969, 83 Stat. 796; Pub. L. 92–303, §§3(a), (b), 5(2)–(4), (9), 8, May 19, 1972, 86 Stat. 153, 155–157; Pub. L. 95–239, §§3(b)(4), 7(a)–(h), Mar. 1, 1978, 92 Stat. 97–99; Pub. L. 97–119, title I, §104(b)(3)–(5), title II, §§203(a)(6), (b), 204, 205(a), Dec. 29, 1981, 95 Stat. 1639, 1644, 1645; Pub. L. 98–426, §28(h)(2), Sept. 28, 1984, 98 Stat. 1655; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 111–148, title I, §1556(b), Mar. 23, 2010, 124 Stat. 260.)
 
 #### References in Text
 
@@ -90,15 +90,17 @@ Sections 45, 46, and 47 of Public Law 803, referred to in subsec. (a), were repe
 
 Section 945 of this title, referred to in subsecs. (c), (j)(3), was repealed by Pub. L. 107–275, §2(c)(1), Nov. 2, 2002, 116. Stat. 1926.
 
-The effective date of the Black Lung Benefits Amendments of 1981, referred to in subsecs. (d), (g), and (<i>l</i>), is Jan. 1, 1982, except as otherwise provided. See section 206(a) of Pub. L. 97–119, set out as an Effective Date of 1981 Amendment note under section 901 of this title.
+The effective date of the Black Lung Benefits Amendments of 1981, referred to in subsecs. (d) and (g), is Jan. 1, 1982, except as otherwise provided. See section 206(a) of Pub. L. 97–119, set out as an Effective Date of 1981 Amendment note under section 901 of this title.
 
 #### Amendments
 
-1986—Subsecs. (a), (i)(4), (j). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>2010</b>—Subsec. (<i>l</i>). Pub. L. 111–148 struck out “, except with respect to a claim filed under this part on or after the effective date of the Black Lung Benefits Amendments of 1981” after “claim of such miner”.
 
-1984—Subsec. (a). Pub. L. 98–426 substituted “Subject to section 28(h)(1) of the Longshore and Harbor Workers’ Compensation Act Amendments of 1984, during” for “During”.
+<b>1986</b>—Subsecs. (a), (i)(4), (j). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1981—Subsec. (a). Pub. L. 97–119, §104(b)(3), substituted “section 9501(d) of title 26” for “section 934 of this title”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–426 substituted “Subject to section 28(h)(1) of the Longshore and Harbor Workers’ Compensation Act Amendments of 1984, during” for “During”.
+
+<b>1981</b>—Subsec. (a). Pub. L. 97–119, §104(b)(3), substituted “section 9501(d) of title 26” for “section 934 of this title”.
 
 Subsec. (c). Pub. L. 97–119, §205(a)(1), substituted “due to pneumoconiosis (1)” for “due to pneumoconiosis” and added cl. (2).
 
@@ -112,7 +114,7 @@ Subsec. (j). Pub. L. 97–119, §§104(b)(5), 205(a)(2), substituted in provisio
 
 Subsec. (<i>l</i>). Pub. L. 97–119, §203(a)(6), inserted before period at end “, except with respect to a claim filed under this part on or after the effective date of the Black Lung Benefits Amendments of 1981,”.
 
-1978—Subsec. (a). Pub. L. 95–239, §§3(b)(4), 7(a), inserted “, and as it may be amended from time to time” after “as amended”, inserted a comma after “and 51 thereof)”, substituted “or by regulations of the Secretary and except that references in such Act to the employer shall be considered to refer to the trustees of the fund, as the Secretary considers appropriate and as is consistent with the provisions of section 934 of this title)” for “and except as the Secretary shall by regulation otherwise provide)”, and inserted “, or with respect to entitlements established in paragraph (5) of section 921(c) of this title” after “with respect to death or total disability due to pneumoconiosis arising out of employment in such mine”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–239, §§3(b)(4), 7(a), inserted “, and as it may be amended from time to time” after “as amended”, inserted a comma after “and 51 thereof)”, substituted “or by regulations of the Secretary and except that references in such Act to the employer shall be considered to refer to the trustees of the fund, as the Secretary considers appropriate and as is consistent with the provisions of section 934 of this title)” for “and except as the Secretary shall by regulation otherwise provide)”, and inserted “, or with respect to entitlements established in paragraph (5) of section 921(c) of this title” after “with respect to death or total disability due to pneumoconiosis arising out of employment in such mine”.
 
 Subsec. (b). Pub. L. 95–239, §7(b), provided that an employer, other than an operator of a coal mine, shall not be required to secure the payment of benefits with respect to any employee of that employer to the extent that the employee is engaged in the transportation of coal or in coal mine construction and authorized the Secretary to require an employer to secure a bond or otherwise guarantee the payment of benefits.
 
@@ -132,7 +134,7 @@ Subsec. (i)(3), (4). Pub. L. 95–239, §7(g), added pars. (3) and (4).
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 95–239, §7(h), added subsecs. (j) to (<i>l</i>).
 
-1972—Subsec. (a). Pub. L. 92–303, §§3(b), 5(2), (9), substituted “a coal mine” for “an underground coal mine”, “1973” for “1972” and struck out reference to section 7 of Pub. L. 803, 69th Congress (44 Stat. 1424, approved March 4, 1927), respectively,
+<b>1972</b>—Subsec. (a). Pub. L. 92–303, §§3(b), 5(2), (9), substituted “a coal mine” for “an underground coal mine”, “1973” for “1972” and struck out reference to section 7 of Pub. L. 803, 69th Congress (44 Stat. 1424, approved March 4, 1927), respectively,
 
 Subsec. (e)(2). Pub. L. 92–303, §5(3), substituted “January 1, 1974” for “January 1, 1973”.
 
@@ -141,6 +143,10 @@ Subsec. (e)(3). Pub. L. 92–303, §5(4), substituted “twelve years” for “
 Subsec. (f). Pub. L. 92–303, §8, designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (h). Pub. L. 92–303, §3(a), substituted “coal mine” for “underground coal mine”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–148 applicable with respect to claims filed under parts B and C of this subchapter after Jan. 1, 2005, that are pending on or after Mar. 23, 2010, see section 1556(c) of Pub. L. 111–148, set out as a note under section 921 of this title.
 
 #### Effective Date of 1984 Amendment
 

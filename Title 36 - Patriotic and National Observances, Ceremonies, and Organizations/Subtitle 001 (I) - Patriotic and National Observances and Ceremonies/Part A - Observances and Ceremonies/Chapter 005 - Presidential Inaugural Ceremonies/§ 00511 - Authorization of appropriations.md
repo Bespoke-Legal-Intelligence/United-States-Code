@@ -40,7 +40,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-510(a)D36:723 (less words between 1st and 2d commas and between next-to-last and last commas).DAug. 6, 1956, ch. 974, §3, 70 Stat. 1049; Jan. 30, 1968, Pub. L. 90–251, §2, 82 Stat. 4.
+510(a)
+
+36:723 (less words between 1st and 2d commas and between next-to-last and last commas).
+
+Aug. 6, 1956, ch. 974, §3, 70 Stat. 1049; Jan. 30, 1968, Pub. L. 90–251, §2, 82 Stat. 4.
 
 &nbsp;
 
@@ -58,7 +62,7 @@ In subsection (a)(1)(A), the words “chapters 33 and 51 and subchapter III of c
 
 #### Amendments
 
-2002—Pub. L. 107–155 renumbered section 510 of this title as this section.
+<b>2002</b>—Pub. L. 107–155 renumbered section 510 of this title as this section.
 
 #### Effective Date of 2002 Amendment
 

@@ -14,7 +14,7 @@ General.—To carry out this chapter and the Regional Rail Reorganization Act of
 
 &emsp;(5) acquire, build, improve, and install passenger stations, communications and electric power facilities and equipment, public and private highway and pedestrian crossings, and other facilities and equipment necessary to provide improved high-speed rail passenger transportation over rights of way improved under clause (4) of this subsection;
 
-&emsp;(6) make agreements with other carriers and commuter authorities to grant, acquire, or make arrangements for rail freight or commuter rail passenger transportation over, rights of way and facilities acquired under the Regional Rail Reorganization Act of 1973 (45 U.S.C. 701 et seq.) and the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 801 et seq.); and
+&emsp;(6) make agreements with other carriers and commuter authorities to grant, acquire, or make arrangements for rail freight or commuter rail passenger transportation over, rights of way and facilities acquired under the Regional Rail Reorganization Act of 1973 (45U.S.C. 701 et seq.) and the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 801 et seq.); and
 
 &emsp;(7) appoint a general manager of the Northeast Corridor improvement program.
 
@@ -130,17 +130,17 @@ This amends 49:24904(a)(2) to correct an error in the codification enacted by se
 
 #### References in Text
 
-The Regional Rail Reorganization Act of 1973, referred to in subsecs. (a) and (c)(2), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, as amended, which is classified principally to chapter 16 (§701 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 45 and Tables.
+The Regional Rail Reorganization Act of 1973, referred to in subsecs. (a) and (c)(2), is Pub. L. 93–236, Jan.2, 1974, 87 Stat. 985, as amended, which is classified principally to chapter 16 (§701 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 45 and Tables.
 
 The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsecs. (a)(6) and (c)(2), is Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 45 and Tables.
 
 #### Amendments
 
-2008—Subsec. (c)(2). Pub. L. 110–432 inserted “commuter rail passenger and” after “between” in first sentence and struck out “freight” after “rail” in second sentence.
+<b>2008</b>—Subsec. (c)(2). Pub. L. 110–432 inserted “commuter rail passenger and” after “between” in first sentence and struck out “freight” after “rail” in second sentence.
 
-1997—Subsec. (a)(6) to (8). Pub. L. 105–134 inserted “and” at end of par. (6), substituted a period for “; and” at end of par. (7), and struck out par. (8) which read as follows: “make agreements with telecommunications common carriers, subject to the Communications Act of 1934 (47 U.S.C. 151 et seq.), to continue existing, and establish new and improved, passenger radio mobile telephone service in the high-speed rail passenger transportation area specified in section 24902(a)(1) and (2).”
+<b>1997</b>—Subsec. (a)(6) to (8). Pub. L. 105–134 inserted “and” at end of par. (6), substituted a period for “; and” at end of par. (7), and struck out par. (8) which read as follows: “make agreements with telecommunications common carriers, subject to the Communications Act of 1934 (47 U.S.C. 151 et seq.), to continue existing, and establish new and improved, passenger radio mobile telephone service in the high-speed rail passenger transportation area specified in section 24902(a)(1) and (2).”
 
-1994—Subsec. (a)(2). Pub. L. 103–429 inserted “, by condemnation or otherwise,” after “acquire”.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–429 inserted “, by condemnation or otherwise,” after “acquire”.
 
 #### Effective Date of 1994 Amendment
 

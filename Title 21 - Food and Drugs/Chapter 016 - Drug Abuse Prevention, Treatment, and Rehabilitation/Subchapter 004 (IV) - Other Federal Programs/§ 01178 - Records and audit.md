@@ -12,5 +12,5 @@ The Secretary and Comptroller General of the United States, or any of their duly
 
 #### Amendments
 
-1981—Subsec. (a). Pub. L. 97–35 struck out reference to section 1176 of this title.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 struck out reference to section 1176 of this title.
 

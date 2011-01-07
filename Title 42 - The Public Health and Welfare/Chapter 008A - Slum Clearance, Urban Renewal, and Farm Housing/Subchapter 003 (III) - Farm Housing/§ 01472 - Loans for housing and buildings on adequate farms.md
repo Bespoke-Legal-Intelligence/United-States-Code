@@ -102,7 +102,7 @@ Qualified nonprofit organizations and public agencies.—
 
 Local nonprofit organization or public agency.—A local nonprofit organization or public agency may purchase housing and related facilities under this paragraph only if—
 
-&emsp;&emsp;(I) the organization or agency is determined by the Secretary to be capable of managing the housing and related facilities (either directly or through a contract) forthe remaining useful life of the housing and related facilities; and
+&emsp;&emsp;(I) the organization or agency is determined by the Secretary to be capable of managing the housing and related facilities (either directly or through a contract) for the remaining useful life of the housing and related facilities; and
 
 &emsp;&emsp;(II) the organization or agency has entered into an agreement that obligates it (and successors in interest thereof) to maintain the housing and related facilities as affordable for very low-income families or persons and low income families or persons for the remaining useful life of the housing and related facilities.
 
@@ -292,15 +292,19 @@ On and after November 30, 1983—
 
 &emsp;&emsp;&emsp;(i) for a first-time homebuyer, in any amount not in excess of 100 percent of the appraised value of the property as of the date the loan is accepted or the acquisition cost of the property, whichever is less, plus the guarantee fee as authorized by subsection (h)(7) <sup>2</sup> of this section; and
 
-&emsp;&emsp;&emsp;(ii) for any borrower other than a first-time homebuyer, in an amount not in excess of the percentage of the property or the acquisition cost of the property that the Secretary shall determine, such percentage or cost in any event not to exceed 100 percent of the appraised value of the property as of the date the loan is accepted or the acquisition cost of the property, whichever is less, plus the guarantee fee as authorized by subsection (h)(7) <sup>2</sup> of this section.
+&emsp;&emsp;&emsp;(ii) for any borrower other than a first-time homebuyer, in an amount not in excess of the percentage of the property or the acquisition cost of the property that the Secretary shall determine, such percentage or cost in any event not to exceed 100 percent of the appraised value of the property as of the date the loan is accepted or the acquisition cost of the property, whichever is less, plus the guarantee fee asauthorized by subsection (h)(7) <sup>2</sup> of this section.
 
-#### (8) Guarantee fee
+#### (8) Fees
 
-&emsp;With respect to a guaranteed loan under this subsection, the Secretary may collect from the lender at the time of issuance of the guarantee a fee equal to not more than 1 percent of the principal obligation of the loan.
+&emsp;Notwithstanding paragraph (14)(D), with respect to a guaranteed loan issued or modified under this subsection, the Secretary may collect from the lender—
+
+&emsp;&emsp;(A) at the time of issuance of the guarantee or modification, a fee not to exceed 3.5 percent of the principal obligation of the loan; and
+
+&emsp;&emsp;(B) an annual fee not to exceed 0.5 percent of the outstanding principal balance of the loan for the life of the loan.
 
 #### (9) Refinancing
 
-&emsp;Any guaranteed loan under this subsection may be refinanced and extended in accordancewith terms and conditions that the Secretary shall prescribe, but in no event for an additional amount or term which exceeds the limitations under this subsection.
+&emsp;Any guaranteed loan under this subsection may be refinanced and extended in accordance with terms and conditions that the Secretary shall prescribe, but in no event for an additional amount or term which exceeds the limitations under this subsection.
 
 #### (10) Nonassumption
 
@@ -356,7 +360,7 @@ On and after November 30, 1983—
 
 &emsp;&emsp;&emsp;&emsp;(I) the mortgage is in default or facing imminent default;
 
-&emsp;&emsp;&emsp;&emsp;(II) the mortgagee has modified the mortgage or qualified the mortgage for modification sufficient to cure the default and provide for mortgage payments the mortgagor is reasonably able to pay, at interest rates not exceeding current market interest rates; and
+&emsp;&emsp;&emsp;&emsp;(II) the mortgagee has modified the mortgage or qualified the mortgage formodification sufficient to cure the default and provide for mortgage payments the mortgagor is reasonably able to pay, at interest rates not exceeding current market interest rates; and
 
 &emsp;&emsp;&emsp;&emsp;(III) the Secretary arranges for servicing of the assigned mortgage by a mortgagee (which may include the assigning mortgagee) through procedures that the Secretary has determined to be in the best interests of the appropriate guaranty fund.
 
@@ -422,7 +426,7 @@ On and after November 30, 1983—
 
 #### (D) Amount
 
-&emsp;&emsp;To be eligible for a guarantee under this paragraph, the principal obligation under the refinancing loan shall not exceed an amount equal to the sum of the balance of the loan being refinanced and such closing costs as may be authorized by the Secretary, which shall include a discount not exceeding 200 basis points and an origination fee not exceeding such amount as the Secretary shall prescribe.
+&emsp;&emsp;To be eligible for a guarantee under this paragraph, the principal obligation underthe refinancing loan shall not exceed an amount equal to the sum of the balance of the loan being refinanced and such closing costs as may be authorized by the Secretary, which shall include a discount not exceeding 200 basis points and an origination fee not exceeding such amount as the Secretary shall prescribe.
 
 #### (E) Other requirements
 
@@ -432,7 +436,7 @@ On and after November 30, 1983—
 
 &emsp;&emsp;The Secretary may establish limitations on the number of loans guaranteed under this paragraph, which shall be based on market conditions and other factors as the Secretary considers appropriate.
 
-(July 15, 1949, ch. 338, title V, §502, 63 Stat. 433; Pub. L. 87–70, title VIII, §801(b), June 30, 1961, 75 Stat. 186; Pub. L. 87–723, §4(a)(2), Sept. 28, 1962, 76 Stat. 671; Pub. L. 89–117, title X, §1002, Aug. 10, 1965, 79 Stat. 497; Pub. L. 89–754, title VIII, §802, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 93–383, title V, §505(b), Aug. 22, 1974, 88 Stat. 693; Pub. L. 95–128, title V, §502(a), Oct. 12, 1977, 91 Stat. 1139; Pub. L. 96–153, title V, §503, Dec. 21, 1979, 93 Stat. 1134; Pub. L. 96–399, title V, §514(a), Oct. 8, 1980, 94 Stat. 1671; Pub. L. 98–181, title V, §503(a), (d), Nov. 30, 1983, 97 Stat. 1240, 1241; Pub. L. 98–479, title I, §105(b)(1), Oct. 17, 1984, 98 Stat. 2226; Pub. L. 100–242, title II, §241, title III, §314, Feb. 5, 1988, 101 Stat. 1886, 1897; Pub. L. 100–628, title X, §1028, Nov. 7, 1988, 102 Stat. 3271; Pub. L. 101–235, title II, §206, Dec. 15, 1989, 103 Stat. 2041; Pub. L. 101–625, title VII, §§704(a), 705(a), 706(b), 719(b), Nov. 28, 1990, 104 Stat. 4283, 4284, 4297; Pub. L. 102–142, title VII, §743(b), Oct. 28, 1991, 105 Stat. 915; Pub. L. 102–550, title VII, §§701(g), 702(a), 703, 704, 712(a), (b), Oct. 28, 1992, 106 Stat. 3834, 3835, 3841; Pub. L. 104–180, title VII, §734(c)(3)(A), (B), Aug. 6, 1996, 110 Stat. 1602; Pub. L. 105–276, title V, §599C(e)(2)(A), (f), Oct. 21, 1998, 112 Stat. 2662, 2663; Pub. L. 106–569, title VII, §701, Dec. 27, 2000, 114 Stat. 3013; Pub. L. 108–285, §3(b), (c), Aug. 2, 2004, 118 Stat. 917, 918; Pub. L. 108–447, div. A, title VII, §726(b), Dec. 8, 2004, 118 Stat. 2842; Pub. L. 111–22, div. A, title I, §101(a), (b), May 20, 2009, 123 Stat. 1633, 1635.)
+(July 15, 1949, ch. 338, title V, §502, 63 Stat. 433; Pub. L. 87–70, title VIII, §801(b), June 30, 1961, 75 Stat. 186; Pub. L. 87–723, §4(a)(2), Sept. 28, 1962, 76 Stat. 671; Pub. L. 89–117, title X, §1002, Aug. 10, 1965, 79 Stat. 497; Pub. L. 89–754, title VIII, §802, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 93–383, title V, §505(b), Aug. 22, 1974, 88 Stat. 693; Pub. L. 95–128, title V, §502(a), Oct. 12, 1977, 91 Stat. 1139; Pub. L. 96–153, title V, §503, Dec. 21, 1979, 93 Stat. 1134; Pub. L. 96–399, title V, §514(a), Oct. 8, 1980, 94 Stat. 1671; Pub. L. 98–181, title V, §503(a), (d), Nov. 30, 1983, 97 Stat. 1240, 1241; Pub. L. 98–479, title I, §105(b)(1), Oct. 17, 1984, 98 Stat. 2226; Pub. L. 100–242, title II, §241, title III, §314, Feb. 5, 1988, 101 Stat. 1886, 1897; Pub. L. 100–628, title X, §1028, Nov. 7, 1988, 102 Stat. 3271; Pub. L. 101–235, title II, §206, Dec. 15, 1989, 103 Stat. 2041; Pub. L. 101–625, title VII, §§704(a), 705(a), 706(b), 719(b), Nov. 28, 1990, 104 Stat. 4283, 4284, 4297; Pub. L. 102–142, title VII, §743(b), Oct. 28, 1991, 105 Stat. 915; Pub. L. 102–550, title VII, §§701(g), 702(a), 703, 704, 712(a), (b), Oct. 28, 1992, 106 Stat. 3834, 3835, 3841; Pub. L. 104–180, title VII, §734(c)(3)(A), (B), Aug. 6, 1996, 110 Stat. 1602; Pub. L. 105–276, title V, §599C(e)(2)(A), (f), Oct. 21, 1998, 112 Stat. 2662, 2663; Pub. L. 106–569, title VII, §701, Dec. 27, 2000, 114 Stat. 3013; Pub. L. 108–285, §3(b), (c), Aug. 2, 2004, 118 Stat. 917, 918; Pub. L. 108–447, div. A, title VII, §726(b), Dec. 8, 2004, 118 Stat. 2842; Pub. L. 111–22, div. A, title I, §101(a), (b), May 20, 2009, 123 Stat. 1633, 1635; Pub. L. 111–212, title I, §102(a), July 29, 2010, 124 Stat. 2303.)
 
 #### References in Text
 
@@ -442,13 +446,15 @@ The Housing and Community Development Act of 1974, referred to in subsec. (e)(1)
 
 The National Housing Act, referred to in subsec. (e)(1)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the National Housing Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
-Section 502, referred to in subsec. (h), means section 502 of act July 15, 1949, ch. 338, which is classifed to this section.
+Section 502, referred to in subsec. (h), means section 502 of act July 15, 1949, ch. 338, which is classified to this section.
 
 This chapter, referred to in subsec. (h)(15)(A), appearing in the original is unidentifiable because title V of act July 15, 1949, does not contain chapters.
 
 #### Amendments
 
-2009—Subsec. (h)(5)(A). Pub. L. 111–22, §101(b)(1), substituted “(as defined in paragraph (17))” for “(as defined in paragraph (13))”.
+<b>2010</b>—Subsec. (h)(8). Pub. L. 111–212 amended par. (8) generally. Prior to amendment, text read as follows: “With respect to a guaranteed loan under this subsection, the Secretary may collect from the lender at the time of issuance of the guarantee a fee equal to not more than 1 percent of the principal obligation of the loan.”
+
+<b>2009</b>—Subsec. (h)(5)(A). Pub. L. 111–22, §101(b)(1), substituted “(as defined in paragraph (17))” for “(as defined in paragraph (13))”.
 
 Subsec. (h)(13) to (16). Pub. L. 111–22, §101(a), added pars. (13) to (15) and redesignated former par. (13) as (16). Former par. (14) redesignated (17).
 
@@ -456,7 +462,7 @@ Subsec. (h)(17). Pub. L. 111–22, §101(a)(1), redesignated par. (14) as (17).
 
 Subsec. (h)(17)(E). Pub. L. 111–22, §101(b)(2), which directed amendment of “paragraph (18)(E)\[ \](as so redesignated by subsection (a)(2))” by substituting “paragraphs (3), (6), (7)(A), (8), (10), (13), and (14)” for “paragraphs (3), (6), (7)(A), (8), and (10)” and “paragraphs (2) through (15)” for “paragraphs (2) through (13)”, was executed by making the substitutions in par. (17)(E) to reflect the probable intent of Congress.
 
-2004—Subsec. (h). Pub. L. 108–285, §3(b)(3), substituted “Doug Bereuter section 502 single family housing loan guarantee program” for “Guaranteed loans” in heading.
+<b>2004</b>—Subsec. (h). Pub. L. 108–285, §3(b)(3), substituted “Doug Bereuter section 502 single family housing loan guarantee program” for “Guaranteed loans” in heading.
 
 Subsec. (h)(1) to (4). Pub. L. 108–285, §3(b)(1), (2), added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively. Former par. (4) redesignated (5).
 
@@ -478,9 +484,9 @@ Subsec. (h)(14)(A). Pub. L. 108–285, §3(c)(2)(A), made technical amendment to
 
 Subsec. (h)(14)(E). Pub. L. 108–285, §3(c)(2)(B), substituted “paragraph (2) and paragraphs (3), (6), (7)(A), (8), and (10)” for “paragraph (1) and paragraphs (2), (5), (6)(A), (7), and (9)” and “paragraphs (2) through (13)” for “paragraphs (1) through (12)”.
 
-2000—Subsec. (h)(13). Pub. L. 106–569 added par. (13).
+<b>2000</b>—Subsec. (h)(13). Pub. L. 106–569 added par. (13).
 
-1998—Subsec. (c)(1)(A)(i). Pub. L. 105–276, §599C(e)(2)(A)(i), substituted “, (a)(2), or (5)” for “or (a)(2)”.
+<b>1998</b>—Subsec. (c)(1)(A)(i). Pub. L. 105–276, §599C(e)(2)(A)(i), substituted “, (a)(2), or (5)” for “or (a)(2)”.
 
 Subsec. (c)(4)(B)(ii). Pub. L. 105–276, §599C(e)(2)(A)(ii), inserted before period at end “, or additional assistance or an increase in assistance provided under section 1490a(a)(5) of this title”.
 
@@ -494,11 +500,11 @@ Subsec. (c)(5)(D). Pub. L. 105–276, §599C(e)(2)(A)(vi), inserted before perio
 
 Subsec. (h)(6)(C). Pub. L. 105–276, §599C(f), which directed the striking out of “, subject to the maximum dollar amount limitation of section 203(b)(2) of the National Housing Act” each place it appeared, was executed by striking out “, subject to the maximum dollar limitation of section 203(b)(2) of the National Housing Act” after “whichever is less” in cl. (i) and after “Secretary shall determine” in cl. (ii), to reflect the probable intent of Congress.
 
-1996—Subsec. (c)(4)(B)(iv). Pub. L. 104–180, §734(c)(3)(A), inserted before period at end “or under paragraphs (1) and (2) of section 1484(j) of this title, except that an equity loan referred to in this clause may not be made available after August 6, 1996, unless the Secretary determines that the other incentives available under this subparagraph are not adequate to provide a fair return on the investment of the borrower, to prevent prepayment of the loan insured under section1484 or 1485 of this title, or to prevent the displacement of tenants of the housing for which the loan was made”.
+<b>1996</b>—Subsec. (c)(4)(B)(iv). Pub. L. 104–180, §734(c)(3)(A), inserted before period at end “or under paragraphs (1) and (2) of section 1484(j) of this title, except that an equity loan referred to in this clause may not be made available after August 6, 1996, unless the Secretary determines that the other incentives available under this subparagraph are not adequate to provide a fair return on the investment of the borrower, to prevent prepayment of the loan insured under section 1484 or 1485 of this title, or to prevent the displacement of tenants of the housing for which the loan was made”.
 
 Subsec. (c)(4)(C). Pub. L. 104–180, §734(c)(3)(B), in introductory provisions substituted “The Secretary may approve assistance under subparagraph (B) for assisted housing only if the restrictive period has expired for any loan for the housing made or insured under section 1484 or 1485 of this title pursuant to a contract entered into after December 21, 1979, but before December 15, 1989, and the Secretary determines that the combination of assistance provided—” for “The Secretary may approve assistance under subparagraph (B) only if the Secretary determines that the combination of assistance provided—”.
 
-1992—Subsec. (a)(3). Pub. L. 102–550, §702(a), added par. (3).
+<b>1992</b>—Subsec. (a)(3). Pub. L. 102–550, §702(a), added par. (3).
 
 Subsec. (c)(2), (4)(A). Pub. L. 102–550, §712(a)(1), (2), substituted “prior to December 15, 1989” for “before December 21, 1979”.
 
@@ -512,9 +518,9 @@ Subsec. (g)(3). Pub. L. 102–550, §701(g), substituted “1993 and 1994” for
 
 Subsec. (h)(2). Pub. L. 102–550, §703, inserted “115 percent of” after “exceed”.
 
-1991—Subsec. (h)(3)(C). Pub. L. 102–142 struck out before period at end “that is more than 25 miles from an urban area or densely populated area”.
+<b>1991</b>—Subsec. (h)(3)(C). Pub. L. 102–142 struck out before period at end “that is more than 25 miles from an urban area or densely populated area”.
 
-1990—Subsec. (c)(1)(B). Pub. L. 101–625, §719(b), inserted “initial” after “any”.
+<b>1990</b>—Subsec. (c)(1)(B). Pub. L. 101–625, §719(b), inserted “initial” after “any”.
 
 Subsec. (f). Pub. L. 101–625, §704(a), added subsec. (f).
 
@@ -522,9 +528,9 @@ Subsec. (g). Pub. L. 101–625, §705(a), added subsec. (g).
 
 Subsec. (h). Pub. L. 101–625, §706(b), added subsec. (h).
 
-1989—Subsec. (c)(1). Pub. L. 101–235, §206, designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, inserted “but before December 15, 1989,” after “December 21, 1979,” in introductory provisions and cl. (i), and added subpar. (B).
+<b>1989</b>—Subsec. (c)(1). Pub. L. 101–235, §206, designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, inserted “but before December 15, 1989,” after “December 21, 1979,” in introductory provisions and cl. (i), and added subpar. (B).
 
-1988—Subsec. (c)(3). Pub. L. 100–242, §241, added par. (3).
+<b>1988</b>—Subsec. (c)(3). Pub. L. 100–242, §241, added par. (3).
 
 Subsec. (c)(4). Pub. L. 100–242, §241, added par. (4).
 
@@ -542,33 +548,33 @@ Subsec. (c)(5)(I). Pub. L. 100–628, §1028(c), substituted “Definitions” f
 
 Subsec. (e)(3). Pub. L. 100–242, §314, added par. (3).
 
-1984—Subsec. (d)(1). Pub. L. 98–479 substituted “percent of the funds approved in appropriation Acts for use under this section shall be set aside and made available only for very low-income families or persons” for “per centum of the dwelling units financed under this section shall be available only for occupancy by very low-income families or persons”.
+<b>1984</b>—Subsec. (d)(1). Pub. L. 98–479 substituted “percent of the funds approved in appropriation Acts for use under this section shall be set aside and made available only for very low-income families or persons” for “per centum of the dwelling units financed under this section shall be available only for occupancy by very low-income families or persons”.
 
 Subsec. (d)(2). Pub. L. 98–479 substituted “percent of the funds allocated to each State under this section shall be available only for very low-income families or persons” for “per centum of the dwelling units in each State financed under this section shall be available only for occupancy by very low-income families or persons”.
 
-1983—Subsec. (a)(1). Pub. L. 98–181, §503(d)(1), (2), designated existing provisions as par. (1) and substituted “The Secretary may accept the personal liability of any person with adequate repayment ability who will cosign the applicant's note to compensate for any deficiency in the applicant's repayment ability. At the borrower's option, the borrower may prepay to the Secretary as escrow agent, on terms and conditions prescribed by him, such taxes, insurance, and other expenses as the Secretary may require in accordance with section 1471(e) of this title” for “in the case of applicants described in clauses (1) and (2) of section 1471(a) of this title, at a rate not to exceed 5 per centum per annum on the unpaid balance of principal, and, in the case of applicants described in clause (3) of section 1471(a) of this title and applicants under sections 1473 and 1474 of this title, at a rate not to exceed 4 per centum per annum on such unpaid balance. Loans made or insured under this subchapter shall be conditioned on the borrower paying such fees and other charges as the Secretary may require and on the borrower prepaying to the Secretary as escrow agent, on terms and conditions prescribed by him, such taxes, insurance, and other expenses as the Secretary may require in accordance with section 1471(e) of this title. The Secretary may accept the personal liability of any person with adequate repayment ability who will cosign the applicant's note to compensate for any deficiency in the applicant's repayment ability”.
+<b>1983</b>—Subsec. (a)(1). Pub. L. 98–181, §503(d)(1), (2), designated existing provisions as par. (1) and substituted “The Secretary may accept the personal liability of any person with adequate repayment ability who will cosign the applicant's note to compensate for any deficiency in the applicant's repayment ability. At the borrower's option, the borrower may prepay to the Secretary as escrow agent, on terms and conditions prescribed by him, such taxes, insurance, and other expenses as the Secretary may require in accordance with section 1471(e) of this title” for “in the case of applicants described in clauses (1) and (2) of section 1471(a) of this title, at a rate not to exceed 5 per centum per annum on the unpaid balance of principal, and, in the case of applicants described in clause (3) of section 1471(a) of this title and applicants under sections 1473 and 1474 of this title, at a rate not to exceed 4 per centum per annum on such unpaid balance. Loans made or insured under this subchapter shall be conditioned on the borrower paying such fees and other charges as the Secretary may require and on the borrower prepaying to the Secretary as escrow agent, on terms and conditions prescribed by him, such taxes, insurance, and other expenses as the Secretary may require in accordance with section 1471(e) of this title. The Secretary may accept the personal liability of any person with adequate repayment ability who will cosign the applicant's note to compensate for any deficiency in the applicant's repayment ability”.
 
 Subsec. (a)(2). Pub. L. 98–181, §503(d)(3), added par. (2).
 
 Subsecs. (d), (e). Pub. L. 98–181, §503(a), added subsecs. (d) and (e).
 
-1980—Subsec. (c). Pub. L. 96–399, in par. (1), substituted “The Secretary may not accept” for “Except as provided in paragraph (2), the Secretary may not accept”, and “entered into after” for “entered into before or after” in two places, and in par. (2) substituted provisions granting priority for relocation to tenants displaced by virtue of prepayment or refinancing of loans on or after Oct. 8, 1980, for provisions relating to acceptance of an offer to prepay unless, after examination of the consequences of such offer, the Secretary determines that prepayment will result in displacement of tenants, and in the case of facilities containing more than ten units, will have an adverse effect on the supply of affordable and decent housing for low and moderate income and elderly persons.
+<b>1980</b>—Subsec. (c). Pub. L. 96–399, in par. (1), substituted “The Secretary may not accept” for “Except as provided in paragraph (2), the Secretary may not accept”, and “entered into after” for “entered into before or after” in two places, and in par. (2) substituted provisions granting priority for relocation to tenants displaced by virtue of prepayment or refinancing of loans on or after Oct. 8, 1980, for provisions relating to acceptance of an offer to prepay unless, after examination of the consequences of such offer, the Secretary determines that prepayment will result in displacement of tenants, and in the case of facilities containing more than ten units, will have an adverse effect on the supply of affordable and decent housing for low and moderate income and elderly persons.
 
-1979—Subsec. (b)(2). Pub. L. 96–153, §503(a), inserted provisions that prepayment of loans made or insured under section 1484 or 1485 of this title shall be subject to the provisions of subsec. (c) of this section.
+<b>1979</b>—Subsec. (b)(2). Pub. L. 96–153, §503(a), inserted provisions that prepayment of loans made or insured under section 1484 or 1485 of this title shall be subject to the provisions of subsec. (c) of this section.
 
 Subsec. (c). Pub. L. 96–153, §503(b), added subsec. (c).
 
-1977—Subsec. (b)(3). Pub. L. 95–128 inserted introductory phrase “except for guaranteed loans,”.
+<b>1977</b>—Subsec. (b)(3). Pub. L. 95–128 inserted introductory phrase “except for guaranteed loans,”.
 
-1974—Subsec. (a). Pub. L. 93–383 inserted provisions relating to the borrower prepaying to the Secretary as escrow agent taxes, insurance, and other expenses required by the Secretary in accordance with section 1471(e) of this title.
+<b>1974</b>—Subsec. (a). Pub. L. 93–383 inserted provisions relating to the borrower prepaying to the Secretary as escrow agent taxes, insurance, and other expenses required by the Secretary in accordance with section 1471(e) of this title.
 
-1966—Subsec. (a). Pub. L. 89–754 substituted “The” for “In cases of applicants who are elderly persons, the” in third sentence.
+<b>1966</b>—Subsec. (a). Pub. L. 89–754 substituted “The” for “In cases of applicants who are elderly persons, the” in third sentence.
 
-1965—Subsec. (a). Pub. L. 89–117 increased to 5 per centum the interest rate in the case of applicants described in clauses (1) and (2) of section 1471(a) of this title and also authorized the Secretary to charge fees on loans made or insured under this subchapter.
+<b>1965</b>—Subsec. (a). Pub. L. 89–117 increased to 5 per centum the interest rate in the case of applicants described in clauses (1) and (2) of section 1471(a) of this title and also authorized the Secretary to charge fees on loans made or insured under this subchapter.
 
-1962—Subsec. (a). Pub. L. 87–723 authorized the Secretary to accept, in the case of applicant's who are elderly persons, the personal liability of any person with adequate repayment ability who will cosign the applicant's note to compensate for any deficiency in the applicant's repayment ability.
+<b>1962</b>—Subsec. (a). Pub. L. 87–723 authorized the Secretary to accept, in the case of applicant's who are elderly persons, the personal liability of any person with adequate repayment ability who will cosign the applicant's note to compensate for any deficiency in the applicant's repayment ability.
 
-1961—Subsec. (b)(1). Pub. L. 87–70 substituted “or such other security” for “and such additional security”.
+<b>1961</b>—Subsec. (b)(1). Pub. L. 87–70 substituted “or such other security” for “and such additional security”.
 
 #### Effective Date of 1998 Amendment
 
@@ -654,7 +660,7 @@ Pub. L. 108–199, div. A, title VII, §763, Jan. 23, 2004, 118 Stat. 39.
 
 #### Fee for Guaranteed Loans
 
-Pub. L. 106–387, §1(a) \[title VII, §739\], Oct. 28, 2000, 114 Stat. 1549, 1549A–34, provided that: “Hereafter, notwithstanding section 502(h)(7) of the Housing Act of 1949 (42 U.S.C. 1472(h)(7)), the fee collected by the Secretary of Agriculture with respect to a guaranteed loan under such section 502(h) at the time of the issuance of such guarantee may be in an amount equal to not more than 2 percent of the principal obligation of the loan.”
+Pub. L. 106–387, §1(a) \[title VII, §739\], Oct. 28, 2000, 114 Stat. 1549, 1549A–34, which provided that, notwithstanding subsec. (h)(7) of this section, the fee collected by the Secretary of Agriculture for a guaranteed loan under such subsec. (h) at the time of the issuance of such guarantee could be in an amount equal to not more than 2 percent of the principal obligation of the loan, was repealed by Pub. L. 111–212, title I, §102(b), July 29, 2010, 124 Stat. 2303.
 
 #### Income Limit for Borrowers
 
@@ -668,7 +674,7 @@ Section 706(a) of Pub. L. 101–625 provided that:
 
 Findings.—The Congress finds that—
 
-&emsp;“(A) the Federal Government should encourage support for homeownership through nonsubsidized mortgage loans guaranteed by the Secretary of Agriculture for the purchase of modest homes located inrural areas and small communities of the country that are not adequately served by private conventional, federally insured, or guaranteed mortgage credit providers; and
+&emsp;“(A) the Federal Government should encourage support for homeownership through nonsubsidized mortgage loans guaranteed by the Secretary of Agriculture for the purchase of modest homes located in rural areas and small communities of the country that are not adequately served by private conventional, federally insured, or guaranteed mortgage credit providers; and
 
 &emsp;“(B) many rural areas contain disproportionate amounts of substandard housing in need of repair, but lack the necessary funding and support to modernize such housing through preservation.
 

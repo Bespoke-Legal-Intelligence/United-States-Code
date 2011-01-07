@@ -86,7 +86,7 @@ June 26, 1946, ch. 495, §§1 (less proviso), 2, 3 (1st 20 words), 60 Stat. 312.
 
 In subsection (a), reference to the senior instructors of artillery, cavalry, and infantry, and the master of the sword, in 10:1061, are omitted as obsolete. The duties of the former master of the sword are presently performed by the director of physical education, detailed to that duty by the superintendent of the Academy from officers assigned to duty at that installation by the Secretary under section 3012(e) of this title. The words “and one assistant professor”, in 10:1061, are omitted as superseded by section 4333 of this title. The words “shall be constituted” are omitted as surplusage. The Act of June 8, 1926, ch. 492 (last proviso of 1st par.), 44 Stat. 703, is not contained in 10:1077a. It is also omitted from the revised section as executed.
 
-The word “permanent” is inserted in subsection (a)(4), pursuant to 10:1087, which, by adding one permanent professor for each of the subjects of instruction named in clauses (A)–(I), inclusive, implies that there already was a permanent professor for each of those subjects. The subjects of instruction set forth in clauses (A)–(I), inclusive, are those for which a professor was authorized before the enactment of the source statute for 10:1087. The names of the subjects to be taught at the Academy are changed, where necessary, to conform to the names of those presently taught, pursuant to regulations and orders issued under the general authority for the change of titles of departments of instruction, contained in section 4332 of this title. These changes, published in general orders by authority of the Secretary of War and the Secretary of the Army, are as follows:
+The word “permanent” is inserted in subsection (a)(4), pursuant to 10:1087, which, by adding one permanent professor for each of the subjects of instruction named in clauses (A)–(I), inclusive, implies that there already was a permanent professor for each of those subjects. The subjects of instruction set forth inclauses (A)–(I), inclusive, are those for which a professor was authorized before the enactment of the source statute for 10:1087. The names of the subjects to be taught at the Academy are changed, where necessary, to conform to the names of those presently taught, pursuant to regulations and orders issued under the general authority for the change of titles of departments of instruction, contained in section 4332 of this title. These changes, published in general orders by authority of the Secretary of War and the Secretary of the Army, are as follows:
 
 In clause (4)(A), the word “Electricity” is substituted for the words “chemistry, mineralogy, and geology”, in 10:1061, pursuant to General Orders 38, Hq USMA, 29 June 1946.
 
@@ -110,9 +110,9 @@ In subsection (a)(9), the word “director” is substituted for the word “tea
 
 #### Amendments
 
-2008—Subsec. (b)(4). Pub. L. 110–181 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Twenty-two permanent professors.”
+<b>2008</b>—Subsec. (b)(4). Pub. L. 110–181 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Twenty-two permanent professors.”
 
-1993—Subsec. (c). Pub. L. 103–160 struck out subsec. (c) which read as follows:
+<b>1993</b>—Subsec. (c). Pub. L. 103–160 struck out subsec. (c) which read as follows:
 
 “(1) The Secretary of the Army may employ as many civilians as professors, instructors, and lecturers at the Academy as the Secretary considers necessary.
 
@@ -120,17 +120,17 @@ In subsection (a)(9), the word “director” is substituted for the word “tea
 
 “(3) The Secretary may delegate the authority conferred by this subsection to any person in the Department of the Army to the extent the Secretary considers proper. Such delegation may be made with or without the authority to make successive redelegations.”
 
-1992—Subsec. (c). Pub. L. 102–484 added subsec. (c).
+<b>1992</b>—Subsec. (c). Pub. L. 102–484 added subsec. (c).
 
-1980—Pub. L. 96–513 substituted “New York (hereinafter in this chapter referred to as the ‘Academy’)” for “New York, in this chapter called the ‘Academy’ ”.
+<b>1980</b>—Pub. L. 96–513 substituted “New York (hereinafter in this chapter referred to as the ‘Academy’)” for “New York, in this chapter called the ‘Academy’ ”.
 
-1978—Pub. L. 95–551 substituted “Establishment; Superintendent; faculty” for “Superintendent; faculty; adjutant; chaplain” in section catchline.
+<b>1978</b>—Pub. L. 95–551 substituted “Establishment; Superintendent; faculty” for “Superintendent; faculty; adjutant; chaplain” in section catchline.
 
 Subsec. (a). Pub. L. 95–551 substituted provision establishing in the Department of the Army a Military Academy located at West Point, New York, for instruction and preparation of cadets for military service and providing that the organization of the Academy be prescribed by the Secretary of the Army for provision describing the faculty of the Academy as consisting of a Superintendent, a Dean of the Academic Board, a Commandant of Cadets, two permanent professors in each of nine enumerated academic fields, one permanent professor in each of the fields of Law, Ordnance, and Physical education, a professor of Military Hygiene, an adjutant, a registrar, a chaplain, and a director of music.
 
 Subsec. (b). Pub. L. 95–551 substituted provision describing the faculty of the Academy as consisting of a Superintendent, a Dean of the Academic Board, a Commandant of Cadets, twenty-two permanent professors, a chaplain, and a director of admissions for provision making an officer, upon becoming the senior commissioned officer of the Medical Corps on active duty at the Academy, the professor of Military Hygiene.
 
-1958—Subsec. (a)(5). Pub. L. 85–723 authorized a permanent professor of physical education.
+<b>1958</b>—Subsec. (a)(5). Pub. L. 85–723 authorized a permanent professor of physical education.
 
 Subsec. (a)(8) to (10). Pub. L. 85–600 added par. (8) and redesignated existing pars. (8) and (9) as (9) and (10), respectively.
 
@@ -236,7 +236,7 @@ Establishment.—The Secretary of Defense shall establish a Department of Defens
 
 “(b)
 
-Recommendations.—Not later than 12 months after the date on which all members of the task force have been appointed, the task force shall submit to the Secretary of Defense a report recommending ways by which the Department of Defense and the Department of the Army and the Department of the Navy may more effectively address matters relating to sexual harassment and violence at the United States Military Academy and the United States Naval Academy, respectively. The report shall include an assessment of, and recommendations (including any recommended changes in law) for measures to improve, with respect to sexualharassment and violence at those academies, the following:
+Recommendations.—Not later than 12 months after the date on which all members of the task force have been appointed, the task force shall submit to the Secretary of Defense a report recommending ways by which the Department of Defense and the Department of the Army and the Department of the Navy may more effectively address matters relating to sexual harassment and violence at the United States Military Academy and the United States Naval Academy, respectively. The report shall include an assessment of, and recommendations (including any recommended changes in law) for measures to improve, with respect to sexual harassment and violence at those academies, the following:
 
 &emsp;“(1) Victims’ safety programs.
 
@@ -280,7 +280,7 @@ Report.—(1) The task force shall submit to the Secretary of Defense and the Se
 
 “(e)
 
-Report on Air Force Academy.—Simultaneously with the submission of the report under subsection (d)(3), the Secretary of Defense, in coordination with the Secretary of the Air Force, shall submit to the committees specified in that subsection the Secretary's assessment of the effectiveness of corrective actions being taken at the United States Air Force Academy as a result of various investigations conducted at that Academy into matters involving sexual assault and harassment.
+Report on Air Force Academy.—Simultaneously with the submission of the report under subsection (d)(3), the Secretary of Defense, in coordination with the Secretary of the Air Force, shall submit to the committees specified in that subsection the Secretary's assessment of the effectiveness of corrective actions being taken at the United States Air Force Academy asa result of various investigations conducted at that Academy into matters involving sexual assault and harassment.
 
 “(f)
 

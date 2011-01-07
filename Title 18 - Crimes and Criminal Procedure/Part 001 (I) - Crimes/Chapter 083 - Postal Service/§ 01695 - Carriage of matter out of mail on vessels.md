@@ -14,7 +14,7 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $50”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $50”.
 
 #### Study of Private Carriage of Mail; Reports to President and Congress
 

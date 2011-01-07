@@ -106,25 +106,25 @@ For purposes of those provisions of this subchapter to which the rules contained
 
 #### Amendments
 
-2005—Subsec. (b)(8). Pub. L. 109–135 substituted “section 6038(e)(2)” for “section 6038(d)(2)”.
+<b>2005</b>—Subsec. (b)(8). Pub. L. 109–135 substituted “section 6038(e)(2)” for “section 6038(d)(2)”.
 
-1997—Subsec. (b)(8). Pub. L. 105–34 substituted “6038(d)(2)” for “6038(d)(1)”.
+<b>1997</b>—Subsec. (b)(8). Pub. L. 105–34 substituted “6038(d)(2)” for “6038(d)(1)”.
 
-1986—Subsec. (b)(5). Pub. L. 99–514 substituted “382(<i>l</i>)(3)” for “382(a)(3)”.
+<b>1986</b>—Subsec. (b)(5). Pub. L. 99–514 substituted “382(<i>l</i>)(3)” for “382(a)(3)”.
 
-1984—Subsec. (a)(5)(E). Pub. L. 98–369, §721(j), added subpar. (E).
+<b>1984</b>—Subsec. (a)(5)(E). Pub. L. 98–369, §721(j), added subpar. (E).
 
 Subsec. (b)(4). Pub. L. 98–369, §712(k)(5)(E), substituted “section 338(h)(3) (defining purchase)” for “section 338(h)(3)(B) (relating to purchase of stock from subsidiaries, etc.)”.
 
-1982—Subsec. (b)(4). Pub. L. 97–248 substituted “section 338(h)(3)(B) (relating to purchase of stock from subsidiaries, etc.)” for “section 334(b)(3)(C) (relating to basis of property received in certain liquidations of subsidiaries)”.
+<b>1982</b>—Subsec. (b)(4). Pub. L. 97–248 substituted “section 338(h)(3)(B) (relating to purchase of stock from subsidiaries, etc.)” for “section 334(b)(3)(C) (relating to basis of property received in certain liquidations of subsidiaries)”.
 
-1964—Subsec. (a). Pub. L. 88–554, §4(a), struck out sidewise attribution by providing that when stock is attributed to a partnership, estate, trust, or corporation from a partner, shareholder, or beneficiary, this stock is not to be attributed again to another partner, beneficiary, or shareholder.
+<b>1964</b>—Subsec. (a). Pub. L. 88–554, §4(a), struck out sidewise attribution by providing that when stock is attributed to a partnership, estate, trust, or corporation from a partner, shareholder, or beneficiary, this stock is not to be attributed again to another partner, beneficiary, or shareholder.
 
 Subsec. (b)(7), (8). Pub. L. 88–554, §4(b)(2), added par. (7) and redesignated former par. (7) as (8).
 
-1962—Subsec. (b)(7). Pub. L. 87–834 added par. (7).
+<b>1962</b>—Subsec. (b)(7). Pub. L. 87–834 added par. (7).
 
-1960—Subsec. (b)(6). Pub. L. 86–779 added par. (6).
+<b>1960</b>—Subsec. (b)(6). Pub. L. 86–779 added par. (6).
 
 #### Effective Date of 1997 Amendment
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 97–248 applicable to any target corporation with respect 
 
 #### Effective Date of 1964 Amendment
 
-Section 4(c) of Pub. L. 88–554, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and sections 304, 382, 856, 958, and 6038 of this title\] shall take effect on the date of the enactment ofthis Act, \[Aug. 31, 1964\], except that, for purposes of sections 302 and 304 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], such amendments shall not apply with respect to distributions in payment for stock acquisitions or redemptions, if such acquisitions or redemptions occurred before the date of the enactment of this Act.”
+Section 4(c) of Pub. L. 88–554, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and sections 304, 382, 856, 958, and 6038 of this title\] shall take effect on the date of the enactment of this Act, \[Aug. 31, 1964\], except that, for purposes of sections 302 and 304 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], such amendments shall not apply with respect to distributions in payment for stock acquisitions or redemptions, if such acquisitions or redemptions occurred before the date of the enactment of this Act.”
 
 #### Effective Date of 1960 Amendment
 

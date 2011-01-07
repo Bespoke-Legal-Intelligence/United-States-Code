@@ -10,7 +10,7 @@ Such suit or proceeding may be maintained whether or not such tax, penalty, or s
 
 #### (c) Suits against collection officer a bar
 
-A suit against any officer or employee of the United States (or former officer or employee) or his personal representative for the recovery of any internal revenue tax alleged to have been erroneously or illegally assessed or collected, or of any penalty claimed to have been collected without authority, or of any sum alleged to have been excessive or in any manner wrongfully collected shall be treated as if the United States had been a party to such suit in applying the doctrine of res judicata in all suits in respect of any internal revenue tax, and in all proceedings in the Tax Court and on review of decisions of the Tax Court.
+A suit against any officer or employee of the United States (or former officer or employee) or his personal representative for the recovery of any internal revenue tax alleged to have been erroneously or illegally assessed or collected, or of any penalty claimed to have been collected without authority, or of any sum alleged to have been excessive or in any manner wrongfully collected shall be treated as if the United States had been a party to such suit in applying the doctrine of res judicata in all suits in respect of any internal revenue tax, and in all proceedingsin the Tax Court and on review of decisions of the Tax Court.
 
 #### (d) Credit treated as payment
 
@@ -56,7 +56,7 @@ No action may be brought for a refund attributable to partnership items (as defi
 
 #### (i) Special rule for actions with respect to tax shelter promoter and understatement penalties
 
-No action or proceeding may be brought in the United States Court of Federal Claims for any refund or credit of a penalty imposed by section 6700 (relating to penalty for promoting abusive tax shelters, etc.) or section 6701 (relating to penalties for aiding and abetting understatement of tax liability).
+No action or proceeding may be brought in the United States Court of Federal Claims for any refund or credit of a penalty imposed by section 6700 (relating to penalty for promoting abusivetax shelters, etc.) or section 6701 (relating to penalties for aiding and abetting understatement of tax liability).
 
 #### (j) Special rule for actions with respect to estates for which an election under section 6166 is made
 
@@ -98,51 +98,51 @@ The date of enactment of this title, referred to in subsec. (e), is Aug. 16, 195
 
 #### Amendments
 
-1998—Subsecs. (j), (k). Pub. L. 105–206 added subsec. (j) and redesignated former subsec. (j) as (k).
+<b>1998</b>—Subsecs. (j), (k). Pub. L. 105–206 added subsec. (j) and redesignated former subsec. (j) as (k).
 
-1996—Subsec. (g)(2), (3). Pub. L. 104–168 inserted “4958,” after “4955,”.
+<b>1996</b>—Subsec. (g)(2), (3). Pub. L. 104–168 inserted “4958,” after “4955,”.
 
-1992—Subsecs. (e), (i). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” wherever appearing.
+<b>1992</b>—Subsecs. (e), (i). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” wherever appearing.
 
-1988—Subsec. (e). Pub. L. 100–418 substituted “or 44” for “44, or 45”.
+<b>1988</b>—Subsec. (e). Pub. L. 100–418 substituted “or 44” for “44, or 45”.
 
-1987—Subsec. (g)(2), (3). Pub. L. 100–203 inserted “4955,” after “4952,”.
+<b>1987</b>—Subsec. (g)(2), (3). Pub. L. 100–203 inserted “4955,” after “4952,”.
 
-1986—Subsec. (g)(1)(B). Pub. L. 99–514 substituted “section 4963” for “section 4962”.
+<b>1986</b>—Subsec. (g)(1)(B). Pub. L. 99–514 substituted “section 4963” for “section 4962”.
 
-1984—Subsec. (h). Pub. L. 98–369, §714(p)(2)(H), substituted “section 6231(a)(3)” for “section 6131(a)(3)”.
+<b>1984</b>—Subsec. (h). Pub. L. 98–369, §714(p)(2)(H), substituted “section 6231(a)(3)” for “section 6131(a)(3)”.
 
 Subsecs. (i), (j). Pub. L. 98–369, §714(g)(1), added subsec. (i) and redesignated former subsec. (i) as (j).
 
-1982—Subsec. (e). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims” wherever appearing.
+<b>1982</b>—Subsec. (e). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims” wherever appearing.
 
 Subsecs. (h), (i). Pub. L. 97–248 added subsec. (h) and redesignated former subsec. (h) as (i).
 
-1980—Subsec. (e). Pub. L. 96–223 inserted reference to chapter 45.
+<b>1980</b>—Subsec. (e). Pub. L. 96–223 inserted reference to chapter 45.
 
 Subsec. (g). Pub. L. 96–596 substituted in par. (1) provision authorizing, with respect to any taxable event, payment of the full amount of the first tier tax as constituting sufficient payment in order to maintain an action under this section with respect to the second tier tax and defining the terms “taxable event”, “first tier tax”, and “second tier tax” as having the respective meanings given to such terms by section 4962 of this title for provision authorizing, with respect to any act or failure to act giving rise to liability under sections 4941, 4942, 4943, 4944, 4945, 4951, 4952, 4971, or 4975 of this title, payment of the full amount of tax imposed under specified subsections of those sections as constituting sufficient payment in order to maintain an action under this section with respect to such act or failure to act.
 
 Pub. L. 96–222 substituted in pars. (1) to (3) “4944, 4945, 4951, 4952” for “4944, 4945” and in par. (1) “section 4945(a) (relating to initial taxes on taxable expenditures), section 4951(a) (relating to initial taxes on self dealing), 4952(a) (relating to initial taxes on taxable expenditures)” for “section 4945(a) (relating to initial taxes on taxable expenditures)” and “section 4945(b) (relating to additional taxes on taxable expenditures), section 4951(b) (relating to additional taxes on self-dealing), 4952(b) (relating to additional taxes on taxable expenditures)” for “section 4945(b) (relating to additional taxes on taxable expenditures)”.
 
-1976—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (c). Pub. L. 94–455, §1906(a)(44), struck out “instituted after June 15, 1942,” after “res judicata in all suits” and “where the petition to the Tax Court was filed after such date” after “decisions of the Tax Court”.
 
 Subsec. (e). Pub. L. 94–455, §§1307(d)(2)(F)(viii), 1605(b)(11), 1906(b)(13)(A), struck out “or his delegate” after “Secretary” and substituted “chapter 41, 42,” for “chapter 42” and “43, or 44” for “or 43”.
 
-1974—Subsec. (e). Pub. L. 93–406, §1016(a)(26)(A), substituted “chapter 42 or 43” for “chapter 42”.
+<b>1974</b>—Subsec. (e). Pub. L. 93–406, §1016(a)(26)(A), substituted “chapter 42 or 43” for “chapter 42”.
 
 Subsec. (g). Pub. L. 93–406, §1016(a)(26)(B)–(F), substituted “chapter 42 or 43” for “chapter 42” in heading, substituted “4945, 4971, or 4975” for “or 4945”, “section 4945(a) (relating to initial taxes on taxable expenditures), 4971(a) (relating to initial tax on failure to meet minimum funding standard), 4975(a) (relating to initial tax on prohibited transactions)” for “section 4945(a) (relating to initial taxes on taxable expenditures)”, and “section 4945(b) (relating to additional taxes on taxable expenditures), section 4971(b) (relating to additional tax on failure to meet minimum funding standard), or section 4975(b) (relating to additional tax on prohibited transactions)” for “or section 4945(b) (relating to additional taxes on taxable expenditures)” in par. (1), and substituted “4945, 4971, or 4975” for “or 4945” in pars. (2) and (3).
 
-1971—Subsec. (f)(1). Pub. L. 92–178 authorized maintenance of suit or proceeding against the United States notwithstanding provisions of section 1502 of Title 28 (relating to certain treaty cases).
+<b>1971</b>—Subsec. (f)(1). Pub. L. 92–178 authorized maintenance of suit or proceeding against the United States notwithstanding provisions of section 1502 of Title 28 (relating to certain treaty cases).
 
-1969—Subsec. (e). Pub. L. 91–172, §101(j)(56), inserted reference to chapter 42 taxes.
+<b>1969</b>—Subsec. (e). Pub. L. 91–172, §101(j)(56), inserted reference to chapter 42 taxes.
 
 Subsecs. (g), (h). Pub. L. 91–172, §101(i), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-1966—Subsecs. (f), (g). Pub. L. 89–713 added subsec. (f) and redesignated former subsec. (f) as (g).
+<b>1966</b>—Subsecs. (f), (g). Pub. L. 89–713 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1958—Subsec. (f)(2). Pub. L. 85–866 struck out “district” before “attorneys”.
+<b>1958</b>—Subsec. (f)(2). Pub. L. 85–866 struck out “district” before “attorneys”.
 
 #### Effective Date of 1998 Amendment
 
@@ -182,7 +182,7 @@ For effective date of amendment by Pub. L. 96–596 with respect to any first ti
 
 Amendment by Pub. L. 96–223 applicable to periods after Feb. 29, 1980, see section 101(i) of Pub. L. 96–223, set out as a note under section 6161 of this title.
 
-Amendment by Pub. L. 96–222 effective as if included in the provisions of the Black Lung Benefits RevenueAct of 1977, Pub. L. 95–227, see section 108(b)(4) of Pub. L. 96–222, set out as a note under section 192 of this title.
+Amendment by Pub. L. 96–222 effective as if included in the provisions of the Black Lung Benefits Revenue Act of 1977, Pub. L. 95–227, see section 108(b)(4) of Pub. L. 96–222, set out as a note under section 192 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -206,7 +206,7 @@ Amendment by Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of P
 
 #### Effective Date of 1966 Amendment
 
-Section 3(d) of Pub. L. 89–713 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 2502 of Title 28, Judiciary and Judicial Procedure\] shall apply to suits brought against officers, employees, or personal representatives referred to therein which are instituted 90 days or more after the date of the enactment of this Act \[Nov. 2, 1966\]. The amendment made by subsection (c) \[amending section 7482 of this title\] shall apply to all decisions of the Tax Court entered after the date of enactment of this Act.”
+Section 3(d) of Pub. L. 89–713 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 2502 of Title 28, Judiciary andJudicial Procedure\] shall apply to suits brought against officers, employees, or personal representatives referred to therein which are instituted 90 days or more after the date of the enactment of this Act \[Nov. 2, 1966\]. The amendment made by subsection (c) \[amending section 7482 of this title\] shall apply to all decisions of the Tax Court entered after the date of enactment of this Act.”
 
 #### Effective Date of 1958 Amendment
 

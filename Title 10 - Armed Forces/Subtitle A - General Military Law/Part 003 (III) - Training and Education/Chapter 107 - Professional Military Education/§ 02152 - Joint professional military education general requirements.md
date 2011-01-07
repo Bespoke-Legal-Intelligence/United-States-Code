@@ -6,7 +6,7 @@ In General.—The Secretary of Defense shall implement a comprehensive framework
 
 (b)
 
-Joint Military Education Schools.—The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall periodically review and revise the curriculum of each school of the National Defense University (and of any other joint professional military education school) to enhance the education and training of officers in joint matters. The Secretary shall require such schools to maintain rigorous standards for the military education of officers with the joint specialty.
+Joint Military Education Schools.—The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall periodically review and revise the curriculum of each school of the National Defense University (and of any other joint professional military education school) to enhance theeducation and training of officers in joint matters. The Secretary shall require such schools to maintain rigorous standards for the military education of officers with the joint specialty.
 
 (c)
 
@@ -24,5 +24,5 @@ Subsecs. (b) and (c) of section 663 of this title, which were transferred to thi
 
 #### Amendments
 
-2004—Subsecs. (b), (c). Pub. L. 108–375, §532(b), transferred subsecs. (b) and (c) of section 663 of this title to end of this section. See Codification note above.
+<b>2004</b>—Subsecs. (b), (c). Pub. L. 108–375, §532(b), transferred subsecs. (b) and (c) of section 663 of this title to end of this section. See Codification note above.
 

@@ -20,7 +20,7 @@
 
 #### (2) Report
 
-&emsp;Not later than 18 months after the date on which section 15483(b)(2) of this title takes effect, the Commission shall submit a report to the President and Congress on the study conducted under paragraph (1)(A) together with such recommendations for administrative and legislative action as the Commission determines is appropriate.
+&emsp;Not later than 18 months after the date on which section 15483(b)(2) of this title takes effect, the Commission shall submit a report tothe President and Congress on the study conducted under paragraph (1)(A) together with such recommendations for administrative and legislative action as the Commission determines is appropriate.
 
 #### (b) Use of Social Security information
 

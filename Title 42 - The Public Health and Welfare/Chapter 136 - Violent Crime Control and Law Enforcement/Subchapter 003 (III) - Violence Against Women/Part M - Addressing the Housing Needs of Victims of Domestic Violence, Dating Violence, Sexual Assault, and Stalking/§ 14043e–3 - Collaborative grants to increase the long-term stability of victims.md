@@ -112,7 +112,7 @@ There are authorized to be appropriated $10,000,000 for each of fiscal years 200
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–271, §5(a)(1), substituted “for Children” for “of Children”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–271, §5(a)(1), substituted “for Children” for “of Children”.
 
 Subsec. (d). Pub. L. 109–271, §5(a)(2), struck out “(1)
 

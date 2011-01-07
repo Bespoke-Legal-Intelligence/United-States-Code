@@ -14,7 +14,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;(5) to ensure that trade and environmental policies are mutually supportive and to seek to protect and preserve the environment and enhance the international means of doing so, while optimizing the use of the world's resources;
 
-&emsp;(6) to promote respect for worker rights and the rights of children consistent with corelabor standards of the ILO (as defined in section 3813(6) of this title) and an understanding of the relationship between trade and worker rights;
+&emsp;(6) to promote respect for worker rights and the rights of children consistent with core labor standards of the ILO (as defined in section 3813(6) of this title) and an understanding of the relationship between trade and worker rights;
 
 &emsp;(7) to seek provisions in trade agreements under which parties to those agreements strive to ensure that they do not weaken or reduce the protections afforded in domestic environmental and labor laws as an encouragement for trade;
 
@@ -60,7 +60,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;&emsp;(iii) procedures to enhance opportunities for public input into the formulation of government positions; and
 
-&emsp;&emsp;&emsp;(iv) providing for an appellate body or similar mechanism to provide coherence to the interpretations of investment provisions in trade agreements; and
+&emsp;&emsp;&emsp;(iv) providing for an appellate body or similar mechanism to provide coherence tothe interpretations of investment provisions in trade agreements; and
 
 &emsp;&emsp;(H) ensuring the fullest measure of transparency in the dispute settlement mechanism, to the extent consistent with the need to protect information that is classified or business confidential, by—
 
@@ -154,7 +154,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 #### (10) Reciprocal trade in agriculture
 
-&emsp;(A) The principal negotiating objective of the United States with respect to agricultureis to obtain competitive opportunities for United States exports of agricultural commodities in foreign markets substantially equivalent to the competitive opportunities afforded foreign exports in United States markets and to achieve fairer and more open conditions of trade in bulk, specialty crop, and value-added commodities by—
+&emsp;(A) The principal negotiating objective of the United States with respect to agriculture is to obtain competitive opportunities for United States exports of agricultural commodities in foreign markets substantially equivalent to the competitive opportunities afforded foreign exports in United States markets and to achieve fairer and more open conditions of trade in bulk, specialty crop, and value-added commodities by—
 
 &emsp;&emsp;(i) reducing or eliminating, by a date certain, tariffs or other charges that decrease market opportunities for United States exports—
 
@@ -196,7 +196,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;(xiii) otherwise ensuring that countries that accede to the World Trade Organization have made meaningful market liberalization commitments in agriculture;
 
-&emsp;&emsp;(xiv) taking into account the impact that agreements covering agriculture to which the United States is a party, including the North American Free Trade Agreement, have on the United States agricultural industry;
+&emsp;&emsp;(xiv) taking into account the impact that agreements covering agriculture to whichthe United States is a party, including the North American Free Trade Agreement, have on the United States agricultural industry;
 
 &emsp;&emsp;(xv) maintaining bona fide food assistance programs and preserving United States market development and export credit programs; and
 
@@ -206,7 +206,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;(ii) During any negotiations on agricultural subsidies, the United States Trade Representative shall seek to establish the common base year for calculating the Aggregated Measurement of Support (as defined in the Agreement on Agriculture) as the end of each country's Uruguay Round implementation period, as reported in each country's Uruguay Round market access schedule.
 
-&emsp;(iii) The negotiating objective provided in subparagraph (A) applies with respect to agricultural matters to be addressed in any trade agreement entered into under section 3803(a) or (b) of this title, including any trade agreement entered into under section 3803(a) or (b) of this title that provides for accession to atrade agreement to which the United States is already a party, such as the North American Free Trade Agreement and the United States-Canada Free Trade Agreement.
+&emsp;(iii) The negotiating objective provided in subparagraph (A) applies with respect to agricultural matters to be addressed in any trade agreement entered into under section 3803(a) or (b) of this title, including any trade agreement entered into under section 3803(a) or (b) of this title that provides for accession to a trade agreement to which the United States is already a party, such as the North American Free Trade Agreement and the United States-Canada Free Trade Agreement.
 
 #### (11) Labor and the environment
 
@@ -338,7 +338,7 @@ This chapter, referred to in subsec. (c)(8), was in the original “this title�
 
 #### Amendments
 
-2004—Subsec. (c)(8). Pub. L. 108–429, §2004(a)(16)(A), substituted “this chapter” for “this Act”.
+<b>2004</b>—Subsec. (c)(8). Pub. L. 108–429, §2004(a)(16)(A), substituted “this chapter” for “this Act”.
 
 Subsec. (c)(12). Pub. L. 108–429, §2004(a)(16)(B), substituted “government is engaged” for “government engaged”.
 

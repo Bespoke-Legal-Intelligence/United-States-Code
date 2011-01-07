@@ -1,6 +1,6 @@
 ### §3714. Assumptions; release from liability
 
-(a)(1) Except as provided in subsection (f) of this section, if a veteran or any other person disposes of residential property securing a loan guaranteed, insured, or made under this chapter and the veteran or other person notifies the holder of the loan in writing before the property is disposed of, the veteran or other person, as the case may be, shall be relieved of all further liability to the Secretary with respect to the loan (including liability for any loss resulting from any default of the purchaser or any subsequent owner of the property) and the applicationfor assumption shall be approved if the holder determines that—
+(a)(1) Except as provided in subsection (f) of this section, if a veteran or any other person disposes of residential property securing a loan guaranteed, insured, or made under this chapter and the veteran or other person notifies the holder of the loan in writing before the property is disposed of, the veteran or other person, as the case may be, shall be relieved of all further liability to the Secretary with respect to the loan (including liability for any loss resulting from any default of the purchaser or any subsequent owner of the property) and the application for assumption shall be approved if the holder determines that—
 
 &emsp;(A) the loan is current; and
 
@@ -60,11 +60,11 @@
 
 #### Amendments
 
-2001—Subsec. (d). Pub. L. 107–103 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Secretary shall provide that the mortgage or deed of trust and any other instrument evidencing the loan entered into by a person with respect to a loan guaranteed, insured, or made under this chapter shall contain provisions, in such form as the Secretary shall specify, implementing the requirements of this section, and shall bear in conspicuous position in capital letters on the first page of the document in type at least 2 and 1/2 times larger than the regular type on such page the following: ‘This loan is not assumable without the approval of the Department of Veterans Affairs or its authorized agent.’.”
+<b>2001</b>—Subsec. (d). Pub. L. 107–103 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Secretary shall provide that the mortgage or deed of trust and any other instrument evidencing the loan entered into by a person with respect to a loan guaranteed, insured, or made under this chapter shall contain provisions, in such form as the Secretary shall specify, implementing the requirements of this section, and shall bear in conspicuous position in capital letters on the first page of the document in type at least 2 and ½ times larger than the regular type on such page the following: ‘This loan is not assumable without the approval of the Department of Veterans Affairs or its authorized agent.’.”
 
-1998—Subsec. (f)(1)(B). Pub. L. 105–368 substituted “after January 1, 1989” for “more than 45 days after the date of the enactment of the Veterans’ Benefits and Programs Improvement Act of 1988”.
+<b>1998</b>—Subsec. (f)(1)(B). Pub. L. 105–368 substituted “after January 1, 1989” for “more than 45 days after the date of the enactment of the Veterans’ Benefits and Programs Improvement Act of 1988”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1814 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1814 of this title as this section.
 
 Subsec. (a)(1)(B)(ii). Pub. L. 102–83, §5(c)(1), substituted “3710” for “1810”.
 
@@ -76,9 +76,9 @@ Subsec. (d). Pub. L. 102–83, §4(a)(2)(B)(iv), substituted “Department of Ve
 
 Subsec. (f)(1)(A). Pub. L. 102–83, §5(c)(1), substituted “3733(a)(1)” for “1833(a)(1)”.
 
-1989—Subsecs. (a), (c) to (f). Pub. L. 101–237, §313(b)(1), substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Subsecs. (a), (c) to (f). Pub. L. 101–237, §313(b)(1), substituted “Secretary” for “Administrator” wherever appearing.
 
-1988—Pub. L. 100–322, §415(b)(2)(B), renumbered section 1817A of this title as this section.
+<b>1988</b>—Pub. L. 100–322, §415(b)(2)(B), renumbered section 1817A of this title as this section.
 
 Subsec. (a)(1). Pub. L. 100–689, §302(1), substituted “Except as provided in subsection (f) of this section, if” for “If” and “loan guaranteed, insured, or made” for “guaranteed, insured, or direct housing loan obtained by a veteran”.
 

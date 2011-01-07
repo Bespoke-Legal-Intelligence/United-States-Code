@@ -10,7 +10,7 @@ Part D of this subchapter, referred to in text, is classified to section 651 et 
 
 The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in text, is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 1305 of this title and Tables.
 
-Section 103 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in text, is section 103 of Pub. L. 104–193, which enacted this part, amended sections 602, 603, and 1308 of this title, and repealed provisions formerly set out as this part. For complete classification of section 103 to the Code, see Tables.
+Section 103 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in text, is section 103 of Pub. L. 104–193, which enacted this part, amended sections 602, 603, and 1308 of thistitle, and repealed provisions formerly set out as this part. For complete classification of section 103 to the Code, see Tables.
 
 #### Prior Provisions
 
@@ -18,9 +18,9 @@ A prior section 616, act Aug. 14, 1935, ch. 531, title IV, §416, as added Dec. 
 
 #### Amendments
 
-1999—Pub. L. 106–169 substituted “Opportunity Reconciliation Act” for “Opportunity Act” the first two places appearing.
+<b>1999</b>—Pub. L. 106–169 substituted “Opportunity Reconciliation Act” for “Opportunity Act” the first two places appearing.
 
-1997—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
+<b>1997</b>—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 
 Pub. L. 105–33, §5514(d), substituted “amendments made by section 103 of the Personal Responsibility and Work Opportunity Reconciliation” for “amendment made by section 2103 of the Personal Responsibility and Work Opportunity”.
 

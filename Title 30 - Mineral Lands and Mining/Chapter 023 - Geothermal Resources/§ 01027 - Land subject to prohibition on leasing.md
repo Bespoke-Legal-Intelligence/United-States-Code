@@ -6,5 +6,5 @@ The Secretary shall not issue any lease under this chapter on those lands subjec
 
 #### Amendments
 
-2005—Pub. L. 109–58 inserted section catchline.
+<b>2005</b>—Pub. L. 109–58 inserted section catchline.
 

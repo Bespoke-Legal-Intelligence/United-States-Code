@@ -24,7 +24,7 @@ The determination proceedings required to be prescribed under subsection (b) of 
 
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–465, §§233(a)(5)(Z), 270(a)(1)(J), inserted “countervailable” before “subsidy” in two places and substituted “subject merchandise” for “merchandise subject to the agreement”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–465, §§233(a)(5)(Z), 270(a)(1)(J), inserted “countervailable” before “subsidy” in two places and substituted “subject merchandise” for “merchandise subject to the agreement”.
 
 Subsec. (b)(2). Pub. L. 103–465, §233(a)(5)(AA), substituted “subject merchandise” for “merchandise subject to the order”.
 

@@ -16,7 +16,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-1981—Pub. L. 97–35 redesignated former par. (5) as (3). Former pars. (3), (4), (6), and (7), which defined “State mental health authority”, “mental health service area”, “priority population group”, and “Governor”, respectively, were struck out.
+<b>1981</b>—Pub. L. 97–35 redesignated former par. (5) as (3). Former pars. (3), (4), (6), and (7), which defined “State mental health authority”, “mental health service area”, “priority population group”, and “Governor”, respectively, were struck out.
 
 #### Effective Date of 1981 Amendment
 

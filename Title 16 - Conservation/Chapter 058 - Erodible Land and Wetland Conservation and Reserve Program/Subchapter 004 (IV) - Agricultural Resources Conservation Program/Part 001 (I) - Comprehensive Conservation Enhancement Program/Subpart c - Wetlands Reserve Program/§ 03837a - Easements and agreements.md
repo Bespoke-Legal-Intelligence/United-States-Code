@@ -130,15 +130,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (b)(2)(B). Pub. L. 110–246, §2204, struck out “or” at end of cl. (i), substituted “; or” for “; and” at end of cl. (ii), and added cl. (iii).
+<b>2008</b>—Subsec. (b)(2)(B). Pub. L. 110–246, §2204, struck out “or” at end of cl. (i), substituted “; or” for “; and” at end of cl. (ii), and added cl. (iii).
 
 Subsec. (f). Pub. L. 110–246, §2205, amended subsec. (f) generally. Prior to amendment, text read as follows: “Compensation for easements acquired by the Secretary under this subpart shall be made in cash in such amount as is agreed to and specified in the easement agreement, but not to exceed the fair market value of the land less the fair market value of such land encumbered by the easement. Lands may be enrolled through the submission of bids under a procedure established by the Secretary. Compensation may be provided in not less than 5, nor more than 30, annual payments of equal or unequal size, as agreed to by the owner and the Secretary.”
 
 Subsec. (h). Pub. L. 110–246, §2206, added subsec. (h).
 
-2002—Subsec. (h). Pub. L. 107–171 struck out heading and text of subsec. (h). Text read as follows: “The Secretary may enroll land into the wetlands reserve program through an agreement that requires the landowner to restore wetlands on the land, if the agreement does not provide the Secretary with an easement.”
+<b>2002</b>—Subsec. (h). Pub. L. 107–171 struck out heading and text of subsec. (h). Text read as follows: “The Secretary may enroll land into the wetlands reserve program through an agreement that requires the landowner to restore wetlands on the land, if the agreement does not provide the Secretary with an easement.”
 
-1996—Pub. L. 104–127, §333(d)(1), inserted “and agreements” after “Easements” in section catchline.
+<b>1996</b>—Pub. L. 104–127, §333(d)(1), inserted “and agreements” after “Easements” in section catchline.
 
 Subsec. (c). Pub. L. 104–127, §333(d)(2), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows:
 

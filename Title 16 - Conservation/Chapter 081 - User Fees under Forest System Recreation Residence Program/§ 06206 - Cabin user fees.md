@@ -12,7 +12,7 @@ The Secretary shall establish the cabin user fee as the amount that is equal to 
 
 #### (b) Fee for caretaker cabin
 
-The base cabin user fee for a lot on which a caretaker cabin is located shall not be greater than the base cabin user fee charged for the authorized use of a similar typical lot in the tract.
+The base cabin user fee for a lot on which a caretaker cabin is located shall not be greaterthan the base cabin user fee charged for the authorized use of a similar typical lot in the tract.
 
 #### (c) Annual cabin user fee in the event of determination not to reissue authorization
 

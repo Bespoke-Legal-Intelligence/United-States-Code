@@ -6,7 +6,7 @@ The Secretary of Defense may exercise the authority provided in section 1013 of 
 
 #### Amendments
 
-2001—Pub. L. 107–107 struck out “(a)” before “The Secretary of Defense” and struck out subsec. (b) which read as follows:
+<b>2001</b>—Pub. L. 107–107 struck out “(a)” before “The Secretary of Defense” and struck out subsec. (b) which read as follows:
 
 “(b)(1) Subject to paragraph (2) and notwithstanding subsection (i) of section 1013 of the Act referred to in subsection (a)—
 
@@ -16,9 +16,9 @@ The Secretary of Defense may exercise the authority provided in section 1013 of 
 
 “(2) Amounts may be transferred under paragraph (1) only after the date on which the appropriate committees of Congress receive from the Secretary written notice of, and justification for, the transfer.”
 
-1996—Subsec. (b)(2). Pub. L. 104–106 substituted “appropriate committees of Congress” for “Committees on Armed Services and the Committees on Appropriations of the Senate and of the House of Representatives”.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–106 substituted “appropriate committees of Congress” for “Committees on Armed Services and the Committees on Appropriations of the Senate and of the House of Representatives”.
 
-1989—Pub. L. 101–189 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1989</b>—Pub. L. 101–189 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1989 Amendment
 

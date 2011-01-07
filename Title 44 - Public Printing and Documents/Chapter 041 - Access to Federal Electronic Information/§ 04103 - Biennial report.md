@@ -1,6 +1,6 @@
 ### §4103. Biennial report
 
-Not later than December 31 of each odd-numbered year, the Public Printer shall submit to the Congress, with respect to the two preceding fiscal years, a report on the directory, the system of access, and the electronic storage facility referred to in section 4101(a). The report shall include a description of the functions involved, including a statement of cost savings in comparison with traditional forms of information distribution.
+Not later than December 31 of each odd-numbered year, the Public Printer shall submit to the Congress, with respect to the two preceding fiscal years, a report on the directory, the system of access, and the electronic storage facility referred to in section 4101(a). The report shallinclude a description of the functions involved, including a statement of cost savings in comparison with traditional forms of information distribution.
 
 (Added Pub. L. 103–40, §2(a), June 8, 1993, 107 Stat. 113.)
 

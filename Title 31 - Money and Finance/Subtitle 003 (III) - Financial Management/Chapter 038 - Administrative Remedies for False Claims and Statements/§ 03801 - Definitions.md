@@ -110,7 +110,7 @@
 
 &emsp;&emsp;&emsp;(ii) a grant, loan, or benefit from,
 
-> &emsp;&emsp;an authority, or any State, political subdivision of a State, or other party, if the United States Government provides any portion of the money or property under such contractor for such grant, loan, or benefit, or if the Government will reimburse such State, political subdivision, or party for any portion of the money or property under such contract or for such grant, loan, or benefit,
+> &emsp;&emsp;an authority, or any State, political subdivision of a State, or other party, if the United States Government provides any portion of the money or property under such contract or for such grant, loan, or benefit, or if the Government will reimburse such State, political subdivision, or party for any portion of the money or property under such contract or for such grant, loan, or benefit,
 
 > &emsp;except that such term does not include any statement made in any return of tax imposed by the Internal Revenue Code of 1986.
 
@@ -138,13 +138,13 @@ The Internal Revenue Code of 1986, referred to in subsec. (a)(3), (9), is classi
 
 #### Amendments
 
-2008—Subsec. (a)(1)(F). Pub. L. 110–409 added subpar. (F).
+<b>2008</b>—Subsec. (a)(1)(F). Pub. L. 110–409 added subpar. (F).
 
-2007—Subsec. (a)(1)(E). Pub. L. 110–69 added subpar. (E).
+<b>2007</b>—Subsec. (a)(1)(E). Pub. L. 110–69 added subpar. (E).
 
-1994—Subsec. (a)(7)(B)(ii). Pub. L. 103–272 substituted “section 3803 of this title” for “section 3803 of such title”.
+<b>1994</b>—Subsec. (a)(7)(B)(ii). Pub. L. 103–272 substituted “section 3803 of this title” for “section 3803 of such title”.
 
-1986—Subsec. (a)(3), (9). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (a)(3), (9). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 #### Effective Date
 

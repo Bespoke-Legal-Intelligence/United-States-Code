@@ -34,15 +34,15 @@ This chapter, referred to in subsecs. (a) to (c), was in the original “this Ac
 
 #### Amendments
 
-1999—Subsec. (b). Pub. L. 106–30 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated to carry out the purposes of this chapter $218,146,000 for fiscal year 1993, which are authorized to remain available until September 30, 1994.”
+<b>1999</b>—Subsec. (b). Pub. L. 106–30 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated to carry out the purposes of this chapter $218,146,000 for fiscal year 1993, which are authorized to remain available until September 30, 1994.”
 
-1992—Subsec. (b). Pub. L. 102–565 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated to carry out the purposes of this chapter $130,000,000 for the fiscal year 1986 and $137,200,000 for the fiscal year 1987.”
+<b>1992</b>—Subsec. (b). Pub. L. 102–565 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated to carry out the purposes of this chapter $130,000,000 for the fiscal year 1986 and $137,200,000 for the fiscal year 1987.”
 
-1986—Subsec. (b). Pub. L. 99–399 in amending subsec. (b) generally, substituted provision authorizing appropriations of $130,000,000 for fiscal year 1986 and $137,200,000 for fiscal year 1987 for provision authorizing appropriations of $130,000,000 for fiscal years 1986 and 1987, providing that unobligated balances continue to be made available for the general purposes for which appropriated, and prohibiting the use of funds to carry out this chapter for the Volunteers to America Program or any similar program involving the service or training of foreign nationals in the United States.
+<b>1986</b>—Subsec. (b). Pub. L. 99–399 in amending subsec. (b) generally, substituted provision authorizing appropriations of $130,000,000 for fiscal year 1986 and $137,200,000 for fiscal year 1987 for provision authorizing appropriations of $130,000,000 for fiscal years 1986 and 1987, providing that unobligated balances continue to be made available for the general purposes for which appropriated, and prohibiting the use of funds to carry out this chapter for the Volunteers to America Program or any similar program involving the service or training of foreign nationals in the United States.
 
-1985—Subsec. (b). Pub. L. 99–83 substituted provisions authorizing appropriations of $130,000,000 for fiscal years 1986 and 1987 for provisions authorizing appropriations of not to exceed $105,000,000 for fiscal years 1982 and 1983, and struck out provisos limiting use of funds in fiscal year 1967, and limiting contracts and agreements for research.
+<b>1985</b>—Subsec. (b). Pub. L. 99–83 substituted provisions authorizing appropriations of $130,000,000 for fiscal years 1986 and 1987 for provisions authorizing appropriations of not to exceed $105,000,000 for fiscal years 1982 and 1983, and struck out provisos limiting use of funds in fiscal year 1967, and limiting contracts and agreements for research.
 
-1981—Subsec. (b). Pub. L. 97–113, §602(a), substituted “the fiscal year 1982 not to exceed $105,000,000 and for the fiscal year 1983 not to exceed $105,000,000” for “fiscal year 1981 not to exceed $118,000,000”.
+<b>1981</b>—Subsec. (b). Pub. L. 97–113, §602(a), substituted “the fiscal year 1982 not to exceed $105,000,000 and for the fiscal year 1983 not to exceed $105,000,000” for “fiscal year 1981 not to exceed $118,000,000”.
 
 Subsec. (c). Pub. L. 97–113, §602(b), substituted “each fiscal year” for “fiscal year 1981”.
 
@@ -56,61 +56,61 @@ Subsec. (g). Pub. L. 97–113, §601(e)(1), redesignated subsec. (g) as (d).
 
 Subsec. (h). Pub. L. 97–113, §603, added subsec. (h).
 
-1980—Subsec. (b). Pub. L. 96–533, §601(a), substituted appropriations authorization of $118,000,000 for fiscal year 1981 for such authorization of $105,404,000 for fiscal year 1980.
+<b>1980</b>—Subsec. (b). Pub. L. 96–533, §601(a), substituted appropriations authorization of $118,000,000 for fiscal year 1981 for such authorization of $105,404,000 for fiscal year 1980.
 
 Subsec. (c). Pub. L. 96–533, §601(b), substituted “1981” for “1980”.
 
-1979—Subsec. (b). Pub. L. 96–53, §301(1), substituted provisions authorizing to be appropriated for fiscal year 1980 not to exceed $105,404,000, for provisions authorizing to be appropriated for fiscal year 1978 not to exceed $86,544,000, and for fiscal year 1979 not to exceed $112,424,000, and setting forth availability of funds for the United Nations contributions by the Corps.
+<b>1979</b>—Subsec. (b). Pub. L. 96–53, §301(1), substituted provisions authorizing to be appropriated for fiscal year 1980 not to exceed $105,404,000, for provisions authorizing to be appropriated for fiscal year 1978 not to exceed $86,544,000, and for fiscal year 1979 not to exceed $112,424,000, and setting forth availability of funds for the United Nations contributions by the Corps.
 
 Subsec. (c). Pub. L. 96–53, §301(2), substituted “1980” for “1978, $1,069,000, and for fiscal year 1979”.
 
-1978—Subsec. (b). Pub. L. 95–331, §3(1), substituted provisions authorizing to be appropriated for fiscal year 1978 not to exceed $86,544,000 and for fiscal year 1979 not to exceed $112,424,000 and limitation with respect to volunteer program, for provisions authorizing to be appropriated for fiscal year 1978 not to exceed $82,900,000.
+<b>1978</b>—Subsec. (b). Pub. L. 95–331, §3(1), substituted provisions authorizing to be appropriated for fiscal year 1978 not to exceed $86,544,000 and for fiscal year 1979 not to exceed $112,424,000 and limitation with respect to volunteer program, for provisions authorizing to be appropriated for fiscal year 1978 not to exceed $82,900,000.
 
 Subsec. (c). Pub. L. 95–331, §3(2), inserted provisions increasing 1978 appropriation from $1,000,000 to$1,069,000, and provisions authorizing to be appropriated such sums as necessary for fiscal year 1979.
 
 Subsec. (g). Pub. L. 95–331, §3(3), added subsec. (g).
 
-1977—Subsec. (b). Pub. L. 95–102, §1, substituted provisions authorizing appropriations for fiscal year 1978 not to exceed $82,900,000 for provisions authorizing appropriations for fiscal year 1976 not to exceed $88,468,000, for the period July 1, 1976, through Sept. 30, 1976, not to exceed $27,887,800, for fiscal year 1977 not to exceed $81,000,000.
+<b>1977</b>—Subsec. (b). Pub. L. 95–102, §1, substituted provisions authorizing appropriations for fiscal year 1978 not to exceed $82,900,000 for provisions authorizing appropriations for fiscal year 1976 not to exceed $88,468,000, for the period July 1, 1976, through Sept. 30, 1976, not to exceed $27,887,800, for fiscal year 1977 not to exceed $81,000,000.
 
 Subsec. (c). Pub. L. 95–102, §2, substituted provisions authorizing additional appropriations for fiscal year 1978 of $1,000,000 for increases in salary, pay, etc., for provisions authorizing additional appropriations for fiscal year 1976 and the period July 1, 1976, through Sept. 30, 1976, not in excess of $1,000,000, and for fiscal year 1977 such sums as may be necessary for increases in salary, pay, etc.
 
-1976—Subsec. (b). Pub. L. 94–281, §1, authorized appropriation of not to exceed $81,000,000 for fiscal year 1977.
+<b>1976</b>—Subsec. (b). Pub. L. 94–281, §1, authorized appropriation of not to exceed $81,000,000 for fiscal year 1977.
 
 Subsec. (c). Pub. L. 94–281, §2, inserted provisions relating to fiscal year 1977 and authorization of such sums as may be necessary for such year.
 
-1975—Subsec. (b). Pub. L. 94–130, §1, authorized appropriation of $88,468,000 for fiscal year 1976, and $27,887,800 for period July 1, 1976, through Sept. 30, 1976, and struck out appropriation authorization of $82,256,000 for fiscal year 1975.
+<b>1975</b>—Subsec. (b). Pub. L. 94–130, §1, authorized appropriation of $88,468,000 for fiscal year 1976, and $27,887,800 for period July 1, 1976, through Sept. 30, 1976, and struck out appropriation authorization of $82,256,000 for fiscal year 1975.
 
 Subsec. (c). Pub. L. 94–130, §2, authorized appropriation of $1,000,000 for fiscal year 1976, for increase in employee benefits, in addition to amounts authorized for fiscal year 1976, and for period July 1, 1976, through Sept. 30, 1976, and deleted prior appropriation authorization of $1,000,000 for fiscal year 1975, for increase in employee benefits, in addition to amounts authorized for fiscal year 1975.
 
 Subsec. (d). Pub. L. 94–130, §3, substituted “shall transfer”, “no later than December 31, 1975, not to exceed $315,000 from any sums available to carry out the purposes of this chapter in fiscal year 1976” for “is authorized to transfer” and “from any sums appropriated to carry out the purposes of this chapter in fiscal year 1975 not to exceed $315,000”.
 
-1974—Subsec. (b). Pub. L. 93–302, §1, substituted “There are authorized to be appropriated for fiscal year 1975 not to exceed $82,256,000 to carry out the purposes of this chapter” for “There are authorized to be appropriated to the President for the fiscal year 1974 not to exceed $77,001,000 to carry out the purposes of this chapter”.
+<b>1974</b>—Subsec. (b). Pub. L. 93–302, §1, substituted “There are authorized to be appropriated for fiscal year 1975 not to exceed $82,256,000 to carry out the purposes of this chapter” for “There are authorized to be appropriated to the President for the fiscal year 1974 not to exceed $77,001,000 to carry out the purposes of this chapter”.
 
 Subsecs. (c) to (f). Pub. L. 93–302, §2, added subsecs. (c) to (f).
 
-1973—Subsec. (b). Pub. L. 93–49 substituted “1974” for “1973” and “$77,001,000” for “$88,027,000”.
+<b>1973</b>—Subsec. (b). Pub. L. 93–49 substituted “1974” for “1973” and “$77,001,000” for “$88,027,000”.
 
-1972—Subsec. (b). Pub. L. 92–352 substituted “1973” for “1972” and “$88,027,000” for “$77,200,000”.
+<b>1972</b>—Subsec. (b). Pub. L. 92–352 substituted “1973” for “1972” and “$88,027,000” for “$77,200,000”.
 
-1971—Subsec. (b). Pub. L. 92–135 substituted “1972” for “1971” and “$77,200,000” for “$98,800,000”.
+<b>1971</b>—Subsec. (b). Pub. L. 92–135 substituted “1972” for “1971” and “$77,200,000” for “$98,800,000”.
 
-1970—Subsec. (b). Pub. L. 91–352 substituted “1971” for “1970” and “$98,800,000” for “$98,450,000”.
+<b>1970</b>—Subsec. (b). Pub. L. 91–352 substituted “1971” for “1970” and “$98,800,000” for “$98,450,000”.
 
-1969—Subsec. (b). Pub. L. 91–99 substituted “1970” for “1969” and “$98,450,000” for “$112,800,000”, and inserted provision prohibiting funds authorized to carry out the purposes of this chapter to be used to carry out the Volunteers to America Program conducted under the Mutual Educational and Cultural Exchange Act of 1961, or any similar program.
+<b>1969</b>—Subsec. (b). Pub. L. 91–99 substituted “1970” for “1969” and “$98,450,000” for “$112,800,000”, and inserted provision prohibiting funds authorized to carry out the purposes of this chapter to be used to carry out the Volunteers to America Program conducted under the Mutual Educational and Cultural Exchange Act of 1961, or any similar program.
 
-1968—Subsec. (b). Pub. L. 90–362 substituted “1969” for “1968” and “$112,800,000” for “$115,700,000”.
+<b>1968</b>—Subsec. (b). Pub. L. 90–362 substituted “1969” for “1968” and “$112,800,000” for “$115,700,000”.
 
-1967—Subsec. (b). Pub. L. 90–175 substituted “1968” for “1967” and “$115,700,000” for “$110,000,000”.
+<b>1967</b>—Subsec. (b). Pub. L. 90–175 substituted “1968” for “1967” and “$115,700,000” for “$110,000,000”.
 
-1966—Subsec. (b). Pub. L. 89–572 authorized an appropriation of $110,000,000 for the fiscal year 1967 and provided for obligation of limited amount of funds under contracts or agreements to carry out research relating to the basic responsibilities of the Peace Corps and for continuing availability of unobligated balances of funds.
+<b>1966</b>—Subsec. (b). Pub. L. 89–572 authorized an appropriation of $110,000,000 for the fiscal year 1967 and provided for obligation of limited amount of funds under contracts or agreements to carry out research relating to the basic responsibilities of the Peace Corps and for continuing availability of unobligated balances of funds.
 
-1965—Subsec. (b). Pub. L. 89–134 substituted “1966” for “1965” and inserted $500,000 limit on funds available for research.
+<b>1965</b>—Subsec. (b). Pub. L. 89–134 substituted “1966” for “1965” and inserted $500,000 limit on funds available for research.
 
-1964—Subsec. (b). Pub. L. 88–285 authorized an appropriation of $115,000,000 for fiscal year 1965.
+<b>1964</b>—Subsec. (b). Pub. L. 88–285 authorized an appropriation of $115,000,000 for fiscal year 1965.
 
-1963—Subsec. (b). Pub. L. 88–200 substituted “1964” and “$102,000,000” for “1963” and “$63,750,000”, respectively.
+<b>1963</b>—Subsec. (b). Pub. L. 88–200 substituted “1964” and “$102,000,000” for “1963” and “$63,750,000”, respectively.
 
-1962—Subsec. (b). Pub. L. 87–442 authorized an appropriation of $63,750,000 for the fiscal year 1963.
+<b>1962</b>—Subsec. (b). Pub. L. 87–442 authorized an appropriation of $63,750,000 for the fiscal year 1963.
 
 #### Effective Date of 1985 Amendment
 

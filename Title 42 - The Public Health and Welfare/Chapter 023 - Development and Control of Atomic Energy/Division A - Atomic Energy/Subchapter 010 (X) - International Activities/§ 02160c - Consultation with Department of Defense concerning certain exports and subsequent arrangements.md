@@ -14,7 +14,7 @@
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–236 substituted “5 kilograms” for “20 kilograms”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–236 substituted “5 kilograms” for “20 kilograms”.
 
 #### Effective Date of 1994 Amendment
 

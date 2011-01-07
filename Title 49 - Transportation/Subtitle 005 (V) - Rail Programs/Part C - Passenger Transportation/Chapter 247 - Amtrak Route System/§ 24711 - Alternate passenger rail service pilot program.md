@@ -42,7 +42,7 @@ Performance Standards; Access to Facilities; Employees.—If the Administration 
 
 &emsp;(3) the employees of any person used by a rail carrier or rail carriers (as defined in section 10102(5) of this title) in the operation of a route under this section shall be considered an employee of that carrier or carriers and subject to the applicable Federal laws and regulations governing similar crafts or classes of employees of Amtrak, including provisions under section 121 of the Amtrak Reform and Accountability Act of 1997 relating to employees that provide food and beverage service; and
 
-&emsp;(4) the winning bidder shall provide hiring preference to qualified Amtrak employees displaced by the award of the bid, consistent with the staffing plan submitted by the bidder andshall be subject to the grant conditions under section 24405 of this title.
+&emsp;(4) the winning bidder shall provide hiring preference to qualified Amtrak employees displaced by the award of the bid, consistent with the staffing plan submitted by the bidder and shall be subject to the grant conditions under section 24405 of this title.
 
 (d)
 
@@ -62,7 +62,11 @@ Section 207 of the Passenger Rail Investment and Improvement Act of 2008, referr
 
 Section 217 of that Act, referred to in subsec. (c)(2), is section 217 of Pub. L. 110–432, which is set out as a note under section 24702 of this title.
 
-Section 121 of the Amtrak Reform and Accountability Act of 1997, referred to in subsec. (c)(3), is section 121 of Pub. L. 105–134, which amended section 24312 of this title and enacted provisions set out as a note under section 24312 of this title.
+Section 121 of the Amtrak Reform and Accountability Act of 1997, referred to in subsec. (c)(3), is section 121 ofPub. L. 105–134, which amended section 24312 of this title and enacted provisions set out as a note under section 24312 of this title.
+
+#### Deemed References to Chapters 509 and 511 of Title 51
+
+General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 
 #### Employee Transition Assistance
 

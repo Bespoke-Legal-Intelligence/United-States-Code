@@ -6,7 +6,7 @@ Leave may not be charged to the account of an employee for absence, not to excee
 
 &emsp;(2) not due to vicious habits, intemperance, or willful misconduct on the part of the employee.
 
-> The preceding provisions of this section shall apply in the case of an alien employee referred to in section 6301(2)(viii) of this title with respect to any leave granted to such alien employee under section 6310 of this title or section 408 of the Foreign Service Act of 1980.
+> The preceding provisions of this section shall apply in the case of an alien employee referredto in section 6301(2)(viii) of this title with respect to any leave granted to such alien employee under section 6310 of this title or section 408 of the Foreign Service Act of 1980.
 
 (Added Pub. L. 90–221, §3(a), Dec. 23, 1967, 81 Stat. 671; amended Pub. L. 96–54, §2(a)(41), Aug. 14, 1979, 93 Stat. 383; Pub. L. 99–399, title VIII, §804, Aug. 27, 1986, 100 Stat. 883.)
 

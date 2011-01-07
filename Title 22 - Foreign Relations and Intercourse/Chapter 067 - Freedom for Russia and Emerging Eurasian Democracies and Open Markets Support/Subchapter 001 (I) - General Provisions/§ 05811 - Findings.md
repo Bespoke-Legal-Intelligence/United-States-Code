@@ -54,7 +54,7 @@ Pub. L. 108–347, Oct. 20, 2004, 118 Stat. 1383, as amended by Pub. L. 109–48
 
 &emsp;“(10) The Lukashenka regime has increasingly subjected leaders and members of minority and unregistered religious communities to harassment, including the imposition of heavy fines, denying permission to meet for religious services, prosecutions, and jail terms for activities in the practice of their faith.
 
-&emsp;“(11) The Belarusian authorities have further attempted to silence dissent through retribution against human rights and pro-democracy activists through threats, firings, expulsions, beatings and other forms of intimidation.
+&emsp;“(11) The Belarusian authorities have further attempted to silence dissent through retributionagainst human rights and pro-democracy activists through threats, firings, expulsions, beatings and other forms of intimidation.
 
 #### “SEC. 3. STATEMENT OF POLICY.
 

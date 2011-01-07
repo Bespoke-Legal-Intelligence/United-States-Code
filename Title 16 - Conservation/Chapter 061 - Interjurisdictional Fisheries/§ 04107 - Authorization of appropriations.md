@@ -2,7 +2,7 @@
 
 #### (a) General appropriations
 
-There are authorized to be appropriated to the Secretary of Commerce for apportionment to carry out the purposes of this chapter $5,000,000 for each of fiscal years 2007 through 2012.
+There are authorized to be appropriated to the Secretary of Commerce for apportionment tocarry out the purposes of this chapter $5,000,000 for each of fiscal years 2007 through 2010, and $2,500,000 for each of fiscal years 2011 and 2012.
 
 #### (b) Additional appropriations
 
@@ -28,7 +28,7 @@ In addition to the amounts authorized under subsections (a) and (b) of this sect
 
 #### (d) Assistance to commercial fishermen
 
-(1) In addition to the amounts authorized under subsections (a), (b), and (c) of this section, there are authorized to be appropriated to the Department of Commerce $65,000,000 for fiscal year 1992 to enable the Secretary to help persons engaged in commercial fisheries, either by providing assistance directly to those persons or by providing assistance indirectly through States and local government agencies and nonprofit organizations, for projects or other measures to alleviate harm determined by the Secretary to have been incurred as a direct result of a fisheryresource disaster arising from Hurricane Hugo, Hurricane Andrew, Hurricane Iniki, or any other natural disaster. Amounts appropriated under this subsection shall remain available until expended.
+(1) In addition to the amounts authorized under subsections (a), (b), and (c) of this section, there are authorized to be appropriated to the Department of Commerce $65,000,000 for fiscal year 1992 to enable the Secretary to help persons engaged in commercial fisheries, either by providing assistance directly to those persons or by providing assistance indirectly through States and local government agencies and nonprofit organizations, for projects or other measures to alleviate harm determined by the Secretary to have been incurred as a direct result of a fishery resource disaster arising from Hurricane Hugo, Hurricane Andrew, Hurricane Iniki, or any other natural disaster. Amounts appropriated under this subsection shall remain available until expended.
 
 (2) The Secretary shall determine the extent, and the beginning and ending dates, of any fishery resource disaster under this subsection.
 
@@ -64,7 +64,7 @@ In addition to the amounts authorized under subsections (a) and (b) of this sect
 
 &emsp;(D) an estimate of conservation benefits (such as reduction in fishing mortality) directly attributable to the fishing capacity reduction program.
 
-(Pub. L. 99–659, title III, §308, Nov. 14, 1986, 100 Stat. 3736; Pub. L. 101–627, title V, §§502, 503, Nov. 28, 1990, 104 Stat. 4463; Pub. L. 102–396, title IX, §9135, Oct. 6, 1992, 106 Stat. 1937; Pub. L. 103–206, title VIII, §811, Dec. 20, 1993, 107 Stat. 2454; Pub. L. 103–238, §21, Apr. 30, 1994, 108 Stat. 561; Pub. L. 104–134, title I, §101\[(a)\] \[title II, §211\], Apr. 26, 1996, 110 Stat. 1321, 1321–31; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–297, title IV, §402, Oct. 11, 1996, 110 Stat. 3618; Pub. L. 107–372, title III, §302(a), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 109–479, title III, §302(g), Jan. 12, 2007, 120 Stat. 3624.)
+(Pub. L. 99–659, title III, §308, Nov. 14, 1986, 100 Stat. 3736; Pub. L. 101–627, title V, §§502, 503, Nov. 28, 1990, 104 Stat. 4463; Pub. L. 102–396, title IX, §9135, Oct. 6, 1992, 106 Stat. 1937; Pub. L. 103–206, title VIII, §811, Dec. 20, 1993, 107 Stat. 2454; Pub. L. 103–238, §21, Apr. 30, 1994, 108 Stat. 561; Pub. L. 104–134, title I, §101\[(a)\] \[title II, §211\], Apr. 26, 1996, 110 Stat. 1321, 1321–31; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–297, title IV, §402, Oct. 11, 1996, 110 Stat. 3618; Pub. L. 107–372, title III, §302(a), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 109–479, title III, §302(g), Jan. 12, 2007, 120 Stat. 3624; Pub. L. 111–348, title I, §104, Jan. 4, 2011, 124 Stat. 3671.)
 
 #### References in Text
 
@@ -82,7 +82,9 @@ In subsec. (d)(4)(C), “section 12113(a) of title 46” substituted for “sect
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 109–479, §302(g)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “There are authorized to be appropriated to the Department of Commerce for apportionment to carry out the purposes of this chapter—
+<b>2011</b>—Subsec. (a). Pub. L. 111–348 substituted “2010, and $2,500,000 for each of fiscal years 2011 and 2012.” for “2012.”
+
+<b>2007</b>—Subsec. (a). Pub. L. 109–479, §302(g)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “There are authorized to be appropriated to the Department of Commerce for apportionment to carry out the purposes of this chapter—
 
 &emsp;“(1) $5,400,000 for each of fiscal years 2003 and 2004; and
 
@@ -90,7 +92,7 @@ In subsec. (d)(4)(C), “section 12113(a) of title 46” substituted for “sect
 
 Subsec. (c). Pub. L. 109–479, §302(g)(2), substituted “$900,000 for each of fiscal years 2007 through 2012” for “$850,000 for each of fiscal years 2003 and 2004, and $900,000 for each of fiscal years 2005 and 2006” in introductory provisions.
 
-2002—Subsec. (a). Pub. L. 107–372, §302(a)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to the Department of Commerce for apportionment to carry out the purposes of this chapter—
+<b>2002</b>—Subsec. (a). Pub. L. 107–372, §302(a)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to the Department of Commerce for apportionment to carry out the purposes of this chapter—
 
 &emsp;“(1) $3,400,000 for fiscal year 1996;
 
@@ -100,7 +102,7 @@ Subsec. (c). Pub. L. 109–479, §302(g)(2), substituted “$900,000 for each of
 
 Subsec. (c). Pub. L. 107–372, §302(a)(2), substituted “$850,000 for each of fiscal years 2003 and 2004, and $900,000 for each of fiscal years 2005 and 2006” for “$700,000 for fiscal year 1997, and $750,000 for each of the fiscal years 1998, 1999, and 2000” in introductory provisions.
 
-1996—Subsec. (a). Pub. L. 104–297, §402(a)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to the Department of Commerce for apportionment to carry out the purposes of this chapter $5,000,000 for each of the fiscal years 1989, 1990, 1991, 1992, 1993, 1994, and 1995.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–297, §402(a)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to the Department of Commerce for apportionment to carry out the purposes of this chapter $5,000,000 for each of the fiscal years 1989, 1990, 1991, 1992, 1993, 1994, and 1995.”
 
 Subsec. (c). Pub. L. 104–297, §402(a)(2), substituted “$700,000 for fiscal year 1997, and $750,000 for each of the fiscal years 1998, 1999, and 2000,” for “$350,000 for each of the fiscal years 1989, 1990, 1991, 1992, and 1993, and $600,000 for each of the fiscal years 1994 and 1995,”.
 
@@ -116,13 +118,13 @@ Subsec. (d)(5). Pub. L. 104–134, §101\[(a)\] \[title II, §211(6)\], substitu
 
 Subsec. (d)(7). Pub. L. 104–297, §402(b), added par. (7).
 
-1994—Subsec. (b). Pub. L. 103–238 substituted “$65,000,000 for each of the fiscal years 1994 and 1995” for “$2,500,000 for each of the fiscal years 1989, 1990, 1991, 1992, 1993, 1994, and 1995”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–238 substituted “$65,000,000 for each of the fiscal years 1994 and 1995” for “$2,500,000 for each of the fiscal years 1989, 1990, 1991, 1992, 1993, 1994, and 1995”.
 
-1993—Subsec. (c). Pub. L. 103–206 inserted “, and $600,000 for each of the fiscal years 1994 and 1995,” after “and 1993”.
+<b>1993</b>—Subsec. (c). Pub. L. 103–206 inserted “, and $600,000 for each of the fiscal years 1994 and 1995,” after “and 1993”.
 
-1992—Subsec. (d). Pub. L. 102–396 added subsec. (d).
+<b>1992</b>—Subsec. (d). Pub. L. 102–396 added subsec. (d).
 
-1990—Subsec. (a). Pub. L. 101–627, §503(1), substituted “the fiscal years 1989, 1990, 1991, 1992, 1993, 1994, and 1995” for “fiscal years 1987, 1988, and 1989”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–627, §503(1), substituted “the fiscal years 1989, 1990, 1991, 1992, 1993, 1994, and 1995” for “fiscal years 1987, 1988, and 1989”.
 
 Subsec. (b). Pub. L. 101–627, §§502, 503(2), in introductory provisions substituted “the fiscal years 1989, 1990, 1991, 1992, 1993, 1994, and 1995” for “fiscal years 1988 and 1989” and added par. (3).
 

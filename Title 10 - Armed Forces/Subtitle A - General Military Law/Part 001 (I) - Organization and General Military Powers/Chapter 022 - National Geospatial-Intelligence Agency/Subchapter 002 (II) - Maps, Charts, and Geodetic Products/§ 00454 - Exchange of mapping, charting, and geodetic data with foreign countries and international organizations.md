@@ -6,9 +6,9 @@ The Secretary of Defense may authorize the National Geospatial-Intelligence Agen
 
 #### Amendments
 
-2003—Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+<b>2003</b>—Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-1996—Pub. L. 104–201 renumbered section 2795 of this title as this section and substituted “National Imagery and Mapping Agency” for “Defense Mapping Agency”.
+<b>1996</b>—Pub. L. 104–201 renumbered section 2795 of this title as this section and substituted “National Imagery and Mapping Agency” for “Defense Mapping Agency”.
 
 #### Effective Date of 1996 Amendment
 

@@ -88,7 +88,7 @@ Effective July 1, 1974, no defense article shall be furnished to any country on 
 
 (ii) Any such resolution shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
 
-(iii) The term “certification”, as used in section 601 of such Act, means, for the purposes ofthis paragraph, a statement transmitted under subparagraph (A) of this paragraph.
+(iii) The term “certification”, as used in section 601 of such Act, means, for the purposes of this paragraph, a statement transmitted under subparagraph (A) of this paragraph.
 
 (Pub. L. 87–195, pt. II, §505, formerly §506, Sept. 4, 1961, 75 Stat. 436; Pub. L. 87–565, pt. II, §201(a), Aug. 1, 1962, 76 Stat. 259; Pub. L. 89–583, pt. II, §201(b), Sept. 19, 1966, 80 Stat. 803; renumbered §505, Pub. L. 90–137, pt. II, §201(e), Nov. 14, 1967, 81 Stat. 456 and amended Pub. L. 92–226, pt. II, §201(b), (c), Feb. 7, 1972, 86 Stat. 25; Pub. L. 93–189, §12(b)(3), Dec. 17, 1973, 87 Stat. 721; Pub. L. 94–329, title II, §§203(b), 204(b)(2), title III, §§302(a), 304(a), June 30, 1976, 90 Stat. 735, 736, 751, 754; Pub. L. 95–105, title I, §109(a)(4), Aug. 17, 1977, 91 Stat. 846; Pub. L. 99–83, title I, §123(b), Aug. 8, 1985, 99 Stat. 205; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–513, title III, Nov. 5, 1990, 104 Stat. 1998; Pub. L. 103–236, title I, §162(e)(2), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588.)
 
@@ -104,19 +104,19 @@ Section 601 of the International Security Assistance and Arms Export Control Act
 
 #### Amendments
 
-1994—Subsec. (g)(4)(A). Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations” in introductory provisions.
+<b>1994</b>—Subsec. (g)(4)(A). Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations” in introductory provisions.
 
 Pub. L. 103–236 substituted “Democracy, Human Rights, and Labor” for “Human Rights and Humanitarian Affairs” in introductory provisions.
 
-1990—Subsec. (f). Pub. L. 101–513 substituted “1985” for “1975” in second sentence.
+<b>1990</b>—Subsec. (f). Pub. L. 101–513 substituted “1985” for “1975” in second sentence.
 
-1986—Subsec. (g)(1), (3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (g)(1), (3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1985—Subsec. (f). Pub. L. 99–83 inserted provisions relating to waiver for items delivered prior to 1975.
+<b>1985</b>—Subsec. (f). Pub. L. 99–83 inserted provisions relating to waiver for items delivered prior to 1975.
 
-1977—Subsec. (g)(4)(A). Pub. L. 95–105 substituted “Assistant Secretary of State” for “Coordinator” in provisions preceding cl. (i).
+<b>1977</b>—Subsec. (g)(4)(A). Pub. L. 95–105 substituted “Assistant Secretary of State” for “Coordinator” in provisions preceding cl. (i).
 
-1976—Subsec. (a). Pub. L. 94–329, §203(b), inserted “or related training or other defense service” after “articles” wherever appearing.
+<b>1976</b>—Subsec. (a). Pub. L. 94–329, §203(b), inserted “or related training or other defense service” after “articles” wherever appearing.
 
 Subsec. (d). Pub. L. 94–329, §304(a), provided that either the President, by so stating in a writing to Congress, or Congress, by joint resolution, terminate assistance upon determining a violation, specified conditions for reinstatement of assistance, and denied the President the power, where a violation has been determined, of granting assistance on the basis of national security.
 
@@ -124,15 +124,15 @@ Subsec. (e). Pub. L. 94–329, §204(b)(2), struck out provisions relating to th
 
 Subsec. (g). Pub. L. 94–329 added subsec. (g).
 
-1973—Subsecs. (e), (f). Pub. L. 93–189 added subsecs. (e) and (f).
+<b>1973</b>—Subsecs. (e), (f). Pub. L. 93–189 added subsecs. (e) and (f).
 
-1972—Subsec. (b)(2). Pub. L. 92–226, §201(b), substituted “or” for “and”.
+<b>1972</b>—Subsec. (b)(2). Pub. L. 92–226, §201(b), substituted “or” for “and”.
 
 Subsec. (e). Pub. L. 92–226, §201(c), repealed provisions respecting conditions of eligibility requiring agreements for use of foreign currencies from sale of surplus commodities for common defense including internal security.
 
-1966—Subsec. (e). Pub. L. 89–583 added subsec. (e).
+<b>1966</b>—Subsec. (e). Pub. L. 89–583 added subsec. (e).
 
-1962—Subsecs. (c), (d). Pub. L. 87–565 added subsecs. (c) and (d).
+<b>1962</b>—Subsecs. (c), (d). Pub. L. 87–565 added subsecs. (c) and (d).
 
 #### Effective Date of 1994 Amendment
 

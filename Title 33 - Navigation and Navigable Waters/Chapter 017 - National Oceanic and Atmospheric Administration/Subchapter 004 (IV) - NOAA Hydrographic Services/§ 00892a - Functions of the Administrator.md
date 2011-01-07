@@ -50,13 +50,13 @@ Subchapter VI of chapter 10 of title 40, referred to in subsec. (b)(6), probably
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–386, §3(1), substituted “the Coast and Geodetic Survey Act, promote safe, efficient and environmentally sound marine transportation, and otherwise fulfill the purposes of this subchapter,” for “the Act of 1947,” in introductory provisions.
+<b>2008</b>—Subsec. (a). Pub. L. 110–386, §3(1), substituted “the Coast and Geodetic Survey Act, promote safe, efficient and environmentally sound marine transportation, and otherwise fulfill the purposes of this subchapter,” for “the Act of 1947,” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 110–386, §3(2), substituted “data and provide hydrographic services;” for “data;”.
 
 Subsec. (b). Pub. L. 110–386, §3(3), added subsec. (b) and struck out former subsec. (b) which related to actions of Administrator to fulfill data gathering and dissemination duties of the Administration under the Act of 1947.
 
-2002—Subsec. (b)(4). Pub. L. 107–372, §103(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “may design and install where appropriate Physical Oceanographic Real-Time Systems to enhance navigation safety and efficiency.”
+<b>2002</b>—Subsec. (b)(4). Pub. L. 107–372, §103(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “may design and install where appropriate Physical Oceanographic Real-Time Systems to enhance navigation safety and efficiency.”
 
 Subsec. (c). Pub. L. 107–372, §103(b), added subsec. (c).
 

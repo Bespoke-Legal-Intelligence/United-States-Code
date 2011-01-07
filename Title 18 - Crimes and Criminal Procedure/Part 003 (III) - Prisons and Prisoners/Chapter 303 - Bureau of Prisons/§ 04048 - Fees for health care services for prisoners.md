@@ -76,7 +76,7 @@ Restitution of specific victims.—Amounts collected by the Director under this 
 
 &emsp;(2)
 
-Allocation of other amounts.—Of amounts collected by the Director under this section from prisoners not subject to an order of restitution issued pursuant to section 3663 or 3663A—
+Allocation of other amounts.—Of amounts collected by the Director under this section from prisoners not subject to an orderof restitution issued pursuant to section 3663 or 3663A—
 
 &emsp;&emsp;(A) 75 percent shall be deposited in the Crime Victims Fund established under section 1402 of the Victims of Crime Act of 1984 (42 U.S.C. 10601); and
 

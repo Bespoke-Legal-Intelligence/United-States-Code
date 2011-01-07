@@ -16,7 +16,7 @@
 
 #### (4) Competitive procedures
 
-&emsp;Competitive procedures (as defined in section 403(5) of title 41) shall be used to enter into a contract under paragraph (1).
+&emsp;Competitive procedures (as defined in section 132 of title 41) shall be used to enter into a contract under paragraph (1).
 
 #### (b) Duties
 
@@ -66,9 +66,15 @@ The duties described in this subsection are the following:
 
 &emsp;&emsp;&emsp;(i) the implementation of quality measurement initiatives under this chapter and the coordination of such initiatives with quality initiatives implemented by other payers;
 
-&emsp;&emsp;&emsp;(ii) the recommendations made under paragraph (1); and
+&emsp;&emsp;&emsp;(ii) the recommendations made under paragraph (1);
 
-&emsp;&emsp;&emsp;(iii) the performance by the entity of the duties required under the contract entered into with the Secretary under subsection (a).
+&emsp;&emsp;&emsp;(iii) the performance by the entity of the duties required under the contract entered into with the Secretary under subsection (a);
+
+&emsp;&emsp;&emsp;(iv) gaps in endorsed quality measures, which shall include measures that are within priority areas identified by the Secretary under the national strategy established under section 280j of this title, and where quality measures are unavailable or inadequate to identify or address such gaps;
+
+&emsp;&emsp;&emsp;(v) areas in which evidence is insufficient to support endorsement of quality measures in priority areas identified by the Secretary under the national strategy established under section 280j of this title and where targeted research may address such gaps; and
+
+&emsp;&emsp;&emsp;(vi) the matters described in clauses (i) and (ii) of paragraph (7)(A).
 
 #### (B) Secretarial review and publication of annual report
 
@@ -77,6 +83,58 @@ The duties described in this subsection are the following:
 &emsp;&emsp;&emsp;(i) review such report; and
 
 &emsp;&emsp;&emsp;(ii) publish such report in the Federal Register, together with any comments of the Secretary on such report.
+
+#### (6) Review and endorsement of episode grouper under the physician feedback program
+
+&emsp;The entity shall provide for the review and, as appropriate, the endorsement of the episode grouper developed by the Secretary under section 1395w–4(n)(9)(A) of this title. Such review shall be conducted on an expedited basis.
+
+#### (7) Convening multi-stakeholder groups
+
+#### (A) In general
+
+&emsp;&emsp;The entity shall convene multi-stakeholder groups to provide input on—
+
+&emsp;&emsp;&emsp;(i) the selection of quality and efficiency measures described in subparagraph (B), from among—
+
+&emsp;&emsp;&emsp;&emsp;(I) such measures that have been endorsed by the entity; and
+
+&emsp;&emsp;&emsp;&emsp;(II) such measures that have not been considered for endorsement by such entity but are used or proposed to be used by the Secretary for the collection or reporting of quality and efficiency measures; and
+
+&emsp;&emsp;&emsp;(ii) national priorities (as identified under section 280j of this title) for improvement in population health and in the delivery of health care services for consideration under the national strategy established under section 280j of this title.
+
+#### (B) Quality and efficiency measures
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Subject to clause (ii), the quality and efficiency measures described in this subparagraph are quality and efficiency measures—
+
+&emsp;&emsp;&emsp;&emsp;(I) for use pursuant to sections 1395f(i)(5)(D), 1395<i>l</i>(i)(7), 1395<i>l</i>(t)(17), 1395w–4(k)(2)(C), 1395cc(k)(3), 1395rr(h)(2)(A)(iii), 1395ww(b)(3)(B)(viii), 1395ww(j)(7)(D), 1395ww(m)(5)(D), 1395ww(<i>o</i>)(2), 1395ww(s)(4)(D), and 1395fff(b)(3)(B)(v) of this title;
+
+&emsp;&emsp;&emsp;&emsp;(II) for use in reporting performance information to the public; and
+
+&emsp;&emsp;&emsp;&emsp;(III) for use in health care programs other than for use under this chapter.
+
+#### (ii) Exclusion
+
+&emsp;&emsp;&emsp;Data sets (such as the outcome and assessment information set for home health services and the minimum data set for skilled nursing facility services) that are used for purposes of classification systems used in establishing payment rates under this subchapter shall not be quality and efficiency measures described in this subparagraph.
+
+#### (C) Requirement for transparency in process
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In convening multi-stakeholder groups under subparagraph (A) with respect to the selection of quality and efficiency measures, the entity shall provide for an open and transparent process for the activities conducted pursuant to such convening.
+
+#### (ii) Selection of organizations participating in multi-stakeholder groups
+
+&emsp;&emsp;&emsp;The process described in clause (i) shall ensure that the selection of representatives comprising such groups provides for public nominations for, and the opportunity for public comment on, such selection.
+
+#### (D) Multi-stakeholder group defined
+
+&emsp;&emsp;In this paragraph, the term “multi-stakeholder group” means, with respect to a quality and efficiency measure, a voluntary collaborative of organizations representing a broad group of stakeholders interested in or affected by the use of such quality and efficiency measure.
+
+#### (8) Transmission of multi-stakeholder input
+
+&emsp;Not later than February 1 of each year (beginning with 2012), the entity shall transmit to the Secretary the input of multi-stakeholder groups provided under paragraph (7).
 
 #### (c) Requirements described
 
@@ -128,13 +186,33 @@ The requirements described in this subsection are the following:
 
 For purposes of carrying out this section, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title (in such proportion as the Secretary determines appropriate), of $10,000,000 to the Centers for Medicare \& Medicaid Services Program Management Account for each of fiscal years 2009 through 2012.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1890, as added Pub. L. 110–275, title I, §183(a)(1), July 15, 2008, 122 Stat. 2583.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1890, as added Pub. L. 110–275, title I, §183(a)(1), July 15, 2008, 122 Stat. 2583; amended Pub. L. 111–148, title III, §§3003(b), 3014(a), title X, §§10304, 10322(b), Mar. 23, 2010, 124 Stat. 367, 384, 938, 954.)
 
 #### References in Text
 
 Section 12(d) of the National Technology Transfer and Advancement Act of 1995, referred to in subsec. (c)(5), is section 12(d) of Pub. L. 104–113, which is set out as a note under section 272 of Title 15, Commerce and Trade.
 
+#### Codification
+
+In subsec. (a)(4), “section 132 of title 41” substituted for “section 4(5) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(5))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Prior Provisions
 
 A prior section 1395aaa, act Aug. 14, 1935, ch. 531, title XVIII, §1890, as added Aug. 18, 1987, Pub. L. 100–93, §10, 101 Stat. 696, which related to limitation of liability of beneficiaries with respect to services furnished by excluded individuals and entities, was amended and transferred to section 1862(e)(2) of act Aug. 14, 1935, by Pub. L. 100–360, title IV, §411(i)(4)(D)(ii), July 1, 1988, 102 Stat. 790, as amended by Pub. L. 100–485, title VI, §608(d)(24)(C)(ii), Oct. 13, 1988, 102 Stat. 2421, and is classified to section 1395y(e)(2) of this title.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (b)(5)(A)(iv) to (vi). Pub. L. 111–148, §3014(a)(2), added cls. (iv) to (vi).
+
+Subsec. (b)(6). Pub. L. 111–148, §3003(b), added par. (6).
+
+Subsec. (b)(7). Pub. L. 111–148, §10304, substituted “quality and efficiency” for “quality” wherever appearing in text.
+
+Pub. L. 111–148, §3014(a)(1), added par. (7).
+
+Subsec. (b)(7)(B). Pub. L. 111–148, §10304, which directed substitution of “quality and efficiency” for “quality” wherever appearing, was executed by substituting “Quality and efficiency” for “Quality” in subpar. heading to reflect the probable intent of Congress.
+
+Subsec. (b)(7)(B)(i)(I). Pub. L. 111–148, §10322(b), inserted “1395ww(s)(4)(D),” after “1395ww(<i>o</i>)(2),”.
+
+Subsec. (b)(8). Pub. L. 111–148, §3014(a)(1), added par. (8).
 

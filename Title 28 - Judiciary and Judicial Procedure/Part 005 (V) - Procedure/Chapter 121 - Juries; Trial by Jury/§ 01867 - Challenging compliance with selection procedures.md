@@ -1,6 +1,6 @@
 ### §1867. Challenging compliance with selection procedures
 
-(a) In criminal cases, before the voir dire examination begins, or within seven days after thedefendant discovered or could have discovered, by the exercise of diligence, the grounds therefor, whichever is earlier, the defendant may move to dismiss the indictment or stay the proceedings against him on the ground of substantial failure to comply with the provisions of this title in selecting the grand or petit jury.
+(a) In criminal cases, before the voir dire examination begins, or within seven days after the defendant discovered or could have discovered, by the exercise of diligence, the grounds therefor, whichever is earlier, the defendant may move to dismiss the indictment or stay the proceedings against him on the ground of substantial failure to comply with the provisions of this title in selecting the grand or petit jury.
 
 (b) In criminal cases, before the voir dire examination begins, or within seven days after the Attorney General of the United States discovered or could have discovered, by the exercise of diligence, the grounds therefor, whichever is earlier, the Attorney General may move to dismiss the indictment or stay the proceedings on the ground of substantial failure to comply with the provisions of this title in selecting the grand or petit jury.
 
@@ -34,9 +34,9 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1968—Pub. L. 90–274 substituted provisions by which a defendant may assert noncompliance with the selection procedures of the jury for provisions covering the issuance of summonses for jurors and service thereof upon jurors.
+<b>1968</b>—Pub. L. 90–274 substituted provisions by which a defendant may assert noncompliance with the selection procedures of the jury for provisions covering the issuance of summonses for jurors and service thereof upon jurors.
 
-1957—Pub. L. 85–259 inserted “or certified” in second and third sentences.
+<b>1957</b>—Pub. L. 85–259 inserted “or certified” in second and third sentences.
 
 #### Effective Date of 1968 Amendment
 

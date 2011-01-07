@@ -104,7 +104,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;&emsp;(ii) meets equivalent requirements (as prescribed by the Office).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 600; Pub. L. 90–83, §1(95), Sept. 11, 1967, 81 Stat. 219; Pub. L. 91–418, §§2, 3(b), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–160, §1(b), Nov. 27, 1973, 87 Stat. 635; Pub. L. 95–368, §2, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §2, Nov. 2, 1978, 92 Stat. 2482; Pub. L. 96–54, §2(a)(52), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, §1209(c), Sept. 27, 1979, 93 Stat. 463; Pub. L. 96–179, §2, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, §3(1), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–53, §1(a), June 17, 1985, 99 Stat. 93; Pub. L. 99–251, title I, §105(a), Feb. 27, 1986, 100 Stat. 15; Pub. L. 99–335, title II, §207(<i>l</i>), June 6, 1986, 100 Stat. 598; Pub. L. 99–556, title V, §503, Oct. 27, 1986, 100 Stat. 3141; Pub. L. 100–679, §13(c), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–508, title VII, §7202(<i>l</i>), Nov. 5, 1990, 104 Stat. 1388–339; Pub. L. 102–378, §2(75), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 105–266, §3(a), Oct. 19, 1998, 112 Stat. 2366; Pub. L. 110–74, §1, Aug. 9, 2007, 121 Stat. 723.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 600; Pub. L. 90–83, §1(95), Sept. 11, 1967, 81 Stat. 219; Pub. L. 91–418, §§2, 3(b), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–160, §1(b), Nov. 27, 1973, 87 Stat. 635; Pub. L. 95–368, §2, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §2, Nov. 2, 1978, 92 Stat. 2482; Pub. L. 96–54, §2(a)(52), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, §1209(c), Sept. 27, 1979, 93 Stat. 463; Pub. L. 96–179, §2, Jan. 2, 1980,93 Stat. 1299; Pub. L. 98–615, §3(1), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–53, §1(a), June 17, 1985, 99 Stat. 93; Pub. L. 99–251, title I, §105(a), Feb. 27, 1986, 100 Stat. 15; Pub. L. 99–335, title II, §207(<i>l</i>), June 6, 1986, 100 Stat. 598; Pub. L. 99–556, title V, §503, Oct. 27, 1986, 100 Stat. 3141; Pub. L. 100–679, §13(c), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–508, title VII, §7202(<i>l</i>), Nov. 5, 1990, 104 Stat. 1388–339; Pub. L. 102–378, §2(75), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 105–266, §3(a), Oct. 19, 1998, 112 Stat. 2366; Pub. L. 110–74, §1, Aug. 9, 2007, 121 Stat. 723.)
 
 Historical and Revision Notes<br>1966
 
@@ -224,7 +224,7 @@ Pub. L. 95–368 substituted “after December 31, 1978, and before January 1, 1
 
 1970—Par. (1)(ii). Pub. L. 91–418, §3(b), excluded from definition of “employee” a noncitizen employee whose permanent duty station is outside Panama Canal Zone.
 
-Par. (3)(B). Pub. L. 91–418, §2(a), redefined “annuitant” to be a member of a family who receives an immediate annuity as the survivor of an employee rather than as the survivor of an employee who dies after completing 5 or more years of service.
+Par. (3)(B). Pub. L. 91–418, §2(a), redefined “annuitant” to be a member of a family who receives an immediate annuity as the survivor of an employee ratherthan as the survivor of an employee who dies after completing 5 or more years of service.
 
 Par. (3)(D)(i). Pub. L. 91–418, §2(b), redefined “annuitant” to be a member of a family who receives monthly compensation as the surviving beneficiary of an employee who dies as a result of a compensable injury or illness rather than as the survivor of an employee who, having completed 5 or more years of service, so dies.
 
@@ -234,7 +234,7 @@ Gallaudet College, referred to in par. (1)(F), was redesignated Gallaudet Univer
 
 #### Effective Date of 1992 Amendment
 
-Amendment by section 2(75)(A) of Pub. L. 102–378 effective Nov. 5, 1990, and amendment by section 2(75)(B)of Pub. L. 102–378 effective Oct. 2, 1992, see section 9(a), (b)(6) of Pub. L. 102–378, set out as a note under section 6303 of this title.
+Amendment by section 2(75)(A) of Pub. L. 102–378 effective Nov. 5, 1990, and amendment by section 2(75)(B) of Pub. L. 102–378 effective Oct. 2, 1992, see section 9(a), (b)(6) of Pub. L. 102–378, set out as a note under section 6303 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -408,7 +408,7 @@ Pub. L. 104–37, title VI, §601, Oct. 21, 1995, 109 Stat. 328, provided that:
 
 “(a) For purposes of the administration of chapter 89 of title 5, United States Code, any period of enrollment under a health benefits plan administered by the Farm Credit Administration prior to the effective date of this Act \[Oct. 21, 1995\] shall be deemed to be a period of enrollment in a health benefits plan under chapter 89 of such title.
 
-“(b)(1) An individual who, on September 30, 1995, is covered by a health benefits plan administered by theFarm Credit Administration may enroll in an approved health benefits plan described under section 8903 or 8903a of title 5, United States Code—
+“(b)(1) An individual who, on September 30, 1995, is covered by a health benefits plan administered by the Farm Credit Administration may enroll in an approved health benefits plan described under section 8903 or 8903a of title 5, United States Code—
 
 &emsp;“(A) either as an individual or for self and family, if such individual is an employee, annuitant, or former spouse as defined under section 8901 of such title; and
 

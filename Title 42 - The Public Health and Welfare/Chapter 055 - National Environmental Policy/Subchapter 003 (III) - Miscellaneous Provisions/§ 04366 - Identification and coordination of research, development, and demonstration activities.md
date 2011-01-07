@@ -14,7 +14,7 @@ The Administrator of the Environmental Protection Agency, in consultation and co
 
 #### (b) Coordination of programs by Administrator
 
-The Administrator of the Environmental Protection Agency shall coordinate environmentalresearch, development, and demonstration programs of such Agency with the heads of other Federal agencies in order to minimize unnecessary duplication of programs, projects, and research facilities.
+The Administrator of the Environmental Protection Agency shall coordinate environmental research, development, and demonstration programs of such Agency with the heads of other Federal agencies in order to minimize unnecessary duplication of programs, projects, and research facilities.
 
 #### (c) Joint study by Council on Environmental Quality in consultation with Office of Science and Technology Policy for coordination of activities; report to President and Congress; report by President to Congress on implementation of joint study and report
 

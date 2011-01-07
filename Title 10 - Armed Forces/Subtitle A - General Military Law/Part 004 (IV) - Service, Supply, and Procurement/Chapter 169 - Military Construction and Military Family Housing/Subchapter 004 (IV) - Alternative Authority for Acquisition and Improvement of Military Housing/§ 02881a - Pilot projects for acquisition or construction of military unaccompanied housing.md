@@ -30,17 +30,19 @@ Reports.—(1) The Secretary of the Navy shall transmit to the appropriate commi
 
 &emsp;(C) the proposed partial basic allowance for housing rates for each contract as they vary by grade of the member and how they compare to basic allowance for housing rates for other contracts written under the authority of the pilot programs.
 
-(2) The report shall describe the proposed contract, conveyance, or lease and the intended method of participation of the United States in the contract, conveyance, or lease and provide a justification of such method of participation. The report shall be submitted not later than 30 days before the date on which the Secretary issues the contract solicitation or offers the conveyance or lease.
+(2) The report shall describe the proposed contract, conveyance, or lease and the intended method of participation of the United States in the contract, conveyance, or lease and provide a justification of such method of participation. The report shall be submitted not later than 30 days before the date on which the Secretary issues the contract solicitation or offers the conveyance or lease or, if earlier, a period of 20 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title.
 
 (f)
 
 Expiration.—The authority of the Secretary of the Navy to enter into a contract under the pilot programs shall expire September 30, 2009.
 
-(Added Pub. L. 107–314, div. B, title XXVIII, §2803(a)(1), Dec. 2, 2002, 116 Stat. 2703; amended Pub. L. 109–163, div. A, title X, §1056(c)(10), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 109–364, div. B, title XXVIII, §2812, Oct. 17, 2006, 120 Stat. 2473.)
+(Added Pub. L. 107–314, div. B, title XXVIII, §2803(a)(1), Dec. 2, 2002, 116 Stat. 2703; amended Pub. L. 109–163, div. A, title X, §1056(c)(10), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 109–364, div. B, title XXVIII, §2812, Oct. 17, 2006, 120 Stat. 2473; Pub. L. 111–383, div. B, title XXVIII, §2803(f), Jan. 7, 2011, 124 Stat. 4459.)
 
 #### Amendments
 
-2006—Subsecs. (d)(2), (e)(2). Pub. L. 109–364, §2812(a), substituted “30 days” for “90 days”.
+<b>2011</b>—Subsec. (e)(2). Pub. L. 111–383 inserted before period at end “or, if earlier, a period of 20 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title”.
+
+<b>2006</b>—Subsecs. (d)(2), (e)(2). Pub. L. 109–364, §2812(a), substituted “30 days” for “90 days”.
 
 Subsec. (f). Pub. L. 109–364, §2812(b), substituted “2009” for “2007”.
 

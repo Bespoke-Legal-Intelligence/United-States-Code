@@ -34,7 +34,7 @@ September 23, 1994, referred to in subsec. (e), was in the original “the date 
 
 #### Amendments
 
-2004—Subsec. (b)(1). Pub. L 108–264, §103(d)(1), added par. (1) and struck out former par. (1) which read as follows: “amounts from the National Flood Insurance Fund, in amounts not exceeding—
+<b>2004</b>—Subsec. (b)(1). Pub. L 108–264, §103(d)(1), added par. (1) and struck out former par. (1) which read as follows: “amounts from the National Flood Insurance Fund, in amounts not exceeding—
 
 &emsp;“(A) $10,000,000 in the fiscal year ending September 30, 1994;
 

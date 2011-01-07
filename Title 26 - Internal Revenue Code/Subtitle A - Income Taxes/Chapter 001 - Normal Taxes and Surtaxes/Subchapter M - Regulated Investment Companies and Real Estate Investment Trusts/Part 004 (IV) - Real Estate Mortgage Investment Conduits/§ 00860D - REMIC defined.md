@@ -52,9 +52,9 @@ For purposes of this title, the terms “real estate mortgage investment conduit
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–508 inserted closing parenthesis before period at end.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508 inserted closing parenthesis before period at end.
 
-1988—Subsec. (a). Pub. L. 100–647, §1006(t)(19), inserted at end “In the case of a qualified liquidation (as defined in section 860F(a)(4)(A)), paragraph (4) shall not apply during the liquidation period (as defined in section 860F(a)(4)(B).”
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §1006(t)(19), inserted at end “In the case of a qualified liquidation (as defined in section 860F(a)(4)(A)), paragraph (4) shall not apply during the liquidation period (as defined in section 860F(a)(4)(B).”
 
 Subsec. (a)(4). Pub. L. 100–647, §1006(t)(2)(A)(i), substituted “3rd month beginning after” for “4th month ending after”.
 

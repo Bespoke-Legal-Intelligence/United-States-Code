@@ -48,23 +48,23 @@ The Arms Export Control Act, referred to in subsecs. (a) and (d), is Pub. L. 90�
 
 #### Amendments
 
-1996—Subsec. (a)(6). Pub. L. 104–164 struck out “among members of the North Atlantic Treaty Organization and with the Armed Forces of Japan, Australia, and New Zealand” after “defense cooperation measures”.
+<b>1996</b>—Subsec. (a)(6). Pub. L. 104–164 struck out “among members of the North Atlantic Treaty Organization and with the Armed Forces of Japan, Australia, and New Zealand” after “defense cooperation measures”.
 
-1992—Subsec. (d). Pub. L. 102–391, which directed the substitution of “(excluding salaries of the United States military personnel other than the Coast Guard)” for “(excluding salaries of the United States military personnel)”, was executed by making the substitution for “(excluding salaries of United States military personnel)”, to reflect the probable intent of Congress.
+<b>1992</b>—Subsec. (d). Pub. L. 102–391, which directed the substitution of “(excluding salaries of the United States military personnel other than the Coast Guard)” for “(excluding salaries of the United States military personnel)”, was executed by making the substitution for “(excluding salaries of United States military personnel)”, to reflect the probable intent of Congress.
 
-1989—Subsec. (d). Pub. L. 101–167 inserted “or the Arms Export Control Act” after “this part”.
+<b>1989</b>—Subsec. (d). Pub. L. 101–167 inserted “or the Arms Export Control Act” after “this part”.
 
 Pub. L. 101–165 changed effective date from Oct. 1, 1982, to Oct. 1, 1989, and provided that costs would exclude rather than include salaries of U.S. military personnel.
 
-1988—Subsec. (c)(1). Pub. L. 100–690 inserted “Colombia,” after “Honduras,”.
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–690 inserted “Colombia,” after “Honduras,”.
 
-1985—Subsec. (c)(1). Pub. L. 99–83 substituted “Pakistan, Tunisia, El Salvador, Honduras” for “For the fiscal year 1982 and the fiscal year 1983”.
+<b>1985</b>—Subsec. (c)(1). Pub. L. 99–83 substituted “Pakistan, Tunisia, El Salvador, Honduras” for “For the fiscal year 1982 and the fiscal year 1983”.
 
 1981—Subsec. (a). Pub. L. 97–113 substituted provision authorizing the President to assign members of the Armed Forces of the United States to a foreign country to perform one or more enumerated functions for provision requiring specific Congressional authorization for military assistance groups, etc., to operate in a foreign country, with exception of regular units of the Armed Forces of the United States engaged in routine functions designed to bring about standardization of military operation and procedures between United States forces and defense treaty allies.
 
 Subsec. (b). Pub. L. 97–113 substituted provision directing that advisory and training assistance conducted by military personnel assigned under this section be kept to an absolute minimum for provision authorizing the President to assign military personnel under international security programs to Portugal, Spain, Jordan, the Philippines, the Republic of Korea, Panama, Greece, Turkey, Indonesia, Thailand, Morocco, Egypt, and Saudi Arabia to perform logistics management, transportation, fiscal management, and contract administration of country programs, designated the maximum number assignable, and provided for reimbursement from Saudi Arabia. See subsec. (a) of this section.
 
-Subsec. (c). Pub. L. 97–113 substituted provision designating the maximum number of personnel assignable, waiver of this limitation, and the procedures applicablefor provision relating to assignment of military personnel to countries not specified in former subsec. (b) of this section for performance of accounting and other management functions, the maximum number assignable, and an exception to that number if the Chief of the Diplomatic Mission so requests.
+Subsec. (c). Pub. L. 97–113 substituted provision designating the maximum number of personnel assignable, waiver of this limitation, and the procedures applicable for provision relating to assignment of military personnel to countries not specified in former subsec. (b) of this section for performance of accounting and other management functions, the maximum number assignable, and an exception to that number if the Chief of the Diplomatic Mission so requests.
 
 Subsec. (d). Pub. L. 97–113 substituted provision directing that, effective Oct. 1, 1982, the entire costs of overseas management of international security assistance programs be charged or reimbursed from funds made available to carry out this part, other than costs paid directly for defense services under section 2761(a) of this title or reimbursed from charges for services collected from foreign governments pursuant to sections 2761(e) and 2792(b) of this title, for provision that the maximum number of members of the Armed Forces assignable for fiscal year 1979 to all countries not exceed 790.
 
@@ -76,17 +76,17 @@ Subsec. (g). Pub. L. 97–113 struck out subsec. (g) which provided that the ent
 
 Subsec. (h). Pub. L. 97–113 redesignated subsec. (h) as (f).
 
-1980—Subsec. (b)(1). Pub. L. 96–533, §114(1), substituted “fiscal year 1981” for “fiscal year 1980”, substituted “Portugal, Spain, Jordan, the Philippines,” for “the countries specified in section 2312(a) of this title and in”, authorized assignment of military personnel for programs in Egypt, and deleted from the list of countries eligible for such programs Iran and Kuwait.
+<b>1980</b>—Subsec. (b)(1). Pub. L. 96–533, §114(1), substituted “fiscal year 1981” for “fiscal year 1980”, substituted “Portugal, Spain, Jordan, the Philippines,” for “the countries specified in section 2312(a) of this title and in”, authorized assignment of military personnel for programs in Egypt, and deleted from the list of countries eligible for such programs Iran and Kuwait.
 
 Subsec. (b)(3). Pub. L. 96–533, §114(2), substituted “assigned to Saudi Arabia” for “assigned to Iran, Kuwait, and Saudi Arabia”, “assigned to such country” for “assigned to such countries” and “assigned to such country exceeds” for “assigned to each such country exceeds”.
 
 Subsec. (f). Pub. L. 96–533, §114(3), substituted “may not exceed six more than the number of defense attache�AE1s” for “may not exceed the number of defense attache�AE1s” and “December 31, 1979” for “December 31, 1978”, and inserted “such countries and countries to which military personnel have been assigned pursuant to subsection (c) of this section” after “such countries”.
 
-1979—Subsec. (b)(1). Pub. L. 96–92, §7(1), substituted “fiscal year 1980” for “fiscal year 1979” and authorized assignment of military personnel for programs in Greece.
+<b>1979</b>—Subsec. (b)(1). Pub. L. 96–92, §7(1), substituted “fiscal year 1980” for “fiscal year 1979” and authorized assignment of military personnel for programs in Greece.
 
 Subsec. (f). Pub. L. 96–92, §7(2), substituted “December 31, 1978” for “December 31, 1977”.
 
-1978—Subsec. (b)(1). Pub. L. 95–384, §9(a), substituted “fiscal year 1979” for “fiscal year 1978” and “Turkey, Indonesia, Thailand” for “Brazil”.
+<b>1978</b>—Subsec. (b)(1). Pub. L. 95–384, §9(a), substituted “fiscal year 1979” for “fiscal year 1978” and “Turkey, Indonesia, Thailand” for “Brazil”.
 
 Subsec. (d). Pub. L. 95–384, §9(b), substituted “, including any such members serving on a reimbursable basis pursuant to subsection (b)(3) of this section, may not exceed 790 for the fiscal year 1979” for “may not exceed 865 for the fiscal year 1978”.
 
@@ -96,7 +96,7 @@ Subsec. (g). Pub. L. 95–384, §9(d), inserted “for fixed” after “for spe
 
 Subsec. (h). Pub. L. 95–384, §9(e), added subsec. (h).
 
-1977—Subsec. (a). Pub. L. 95–92 substituted provisions requiring specific Congressional authorization for a military assistance advisory group, etc., to operate in any foreign country and set forth exceptions to such requirement, for provisions authorizing deductions of expenditures from military assistance appropriations during the period beginning July 1, 1976, and ending Sept. 30, 1977, under section 2312 of this title where under this section reimbursement is requested by the expending government agency or if the available funds are deposited in the Treasury as miscellaneous receipts.
+<b>1977</b>—Subsec. (a). Pub. L. 95–92 substituted provisions requiring specific Congressional authorization for a military assistance advisory group, etc., to operate in any foreign country and set forth exceptions to such requirement, for provisions authorizing deductions of expenditures from military assistance appropriations during the period beginning July 1, 1976, and ending Sept. 30, 1977, under section 2312 of this title where under this section reimbursement is requested by the expending government agency or if the available funds are deposited in the Treasury as miscellaneous receipts.
 
 Subsec. (b). Pub. L. 95–92 substituted provisions relating to assignment of military personnel to specified countries by President for implementation of management responsibilities during fiscal year 1978 under international security assistance programs, for provisions requiring specific Congressional authority for assignment of any military assistance advisory group, etc., to operate in any foreign country after Sept. 30, 1977, and provisions relating to assignment by the President of military personnel to diplomatic missions of the United States.
 
@@ -106,7 +106,7 @@ Subsec. (d). Pub. L. 95–92 substituted provisions setting forth maximum number
 
 Subsecs. (e) to (g). Pub. L. 95–92 added subsecs. (e) to (g).
 
-1976—Subsec. (a). Pub. L. 94–329, §104(1), designated existing provisions as subsec. (a) and substituted “During the period beginning July 1, 1976, and ending September 30, 1977” for “Effective July 1, 1976”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–329, §104(1), designated existing provisions as subsec. (a) and substituted “During the period beginning July 1, 1976, and ending September 30, 1977” for “Effective July 1, 1976”.
 
 Subsecs. (b) to (d). Pub. L. 94–329, §104(2), added subsecs. (b) to (d).
 

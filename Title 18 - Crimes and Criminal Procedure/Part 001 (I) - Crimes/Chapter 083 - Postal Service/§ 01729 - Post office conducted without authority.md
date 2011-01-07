@@ -12,9 +12,9 @@ Minor verbal changes were made.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
 
-1970—Pub. L. 91–375 substituted “Postal Service” for “Postmaster General”.
+<b>1970</b>—Pub. L. 91–375 substituted “Postal Service” for “Postmaster General”.
 
 #### Effective Date of 1970 Amendment
 

@@ -86,5 +86,5 @@ The date of enactment of this paragraph, referred to in subsec. (a)(2), is the d
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–59, which directed amendment of section 30112(a), without specifying the title to be amended, by designating existing provisions as par. (1) and adding par. (2), was executed to this section, to reflect the probable intent of Congress.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, which directed amendment of section 30112(a), without specifying the title to be amended, by designating existing provisions as par. (1) and adding par. (2), was executed to this section, to reflect the probable intent of Congress.
 

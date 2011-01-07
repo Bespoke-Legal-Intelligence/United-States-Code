@@ -2,7 +2,7 @@
 
 #### (a) Entitlement to share in benefits; conditions; remarriage; payments as income to former spouse; disability annuitants; election regarding method of payment; maximum amount payable
 
-(1)(A) Unless otherwise expressly provided by any spousal agreement or court order governingdisposition of benefits under this part, a former spouse of a participant or former participant is entitled, during the period described in subparagraph (B), to a share (determined under paragraph (2)) of all benefits otherwise payable to such participant under this part if such former spouse was married to the participant for at least 10 years during service of the participant which is creditable under this subchapter with at least 5 of such years occurring while the participant was a member of the Foreign Service.
+(1)(A) Unless otherwise expressly provided by any spousal agreement or court order governing disposition of benefits under this part, a former spouse of a participant or former participant is entitled, during the period described in subparagraph (B), to a share (determined under paragraph (2)) of all benefits otherwise payable to such participant under this part if such former spouse was married to the participant for at least 10 years during service of the participant which is creditable under this subchapter with at least 5 of such years occurring while the participant was a member of the Foreign Service.
 
 (B) The period referred to in subparagraph (A) is the period which begins on the first day of the month following the month in which the divorce or annulment becomes final and ends on the last day of the month before the former spouse dies or remarries before 55 years of age.
 
@@ -62,7 +62,7 @@ If a participant dies after completing at least 18 months of service or a former
 
 #### Amendments
 
-1986—Subsec. (a)(4)(A). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (a)(4)(A). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Subsec. (b)(3). Pub. L. 99–556 added par. (3).
 

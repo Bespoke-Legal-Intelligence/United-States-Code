@@ -4,8 +4,6 @@ Part J—Privacy Protections for Victims of Domestic Violence, Dating Violence, 
 
 This part was, in the original, subtitle K of title IV of Pub. L. 103–322, as added by Pub. L. 109–162, and has been redesignated as part J of this subchapter for purposes of codification.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
-
 
 ---
 

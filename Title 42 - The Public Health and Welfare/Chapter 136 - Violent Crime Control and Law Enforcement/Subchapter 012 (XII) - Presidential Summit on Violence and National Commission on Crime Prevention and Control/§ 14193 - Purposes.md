@@ -16,7 +16,7 @@ The purposes of the Commission are as follows:
 
 &emsp;(7) To examine distinctive crime problems and the impact of crime on members of minority groups, Indians living on reservations, and other groups defined by race, ethnicity, religion, age, disability, or other characteristics, and to recommend specific responses to the distinctive crime problems of such groups.
 
-&emsp;(8) To examine the problem of sexual assaults, domestic violence, and other criminaland unlawful acts that particularly affect women, and to recommend Federal, State, and local strategies for more effectively preventing and punishing such crimes and acts.
+&emsp;(8) To examine the problem of sexual assaults, domestic violence, and other criminal and unlawful acts that particularly affect women, and to recommend Federal, State, and local strategies for more effectively preventing and punishing such crimes and acts.
 
 &emsp;(9) To examine the treatment of victims in Federal, State, and local criminal justice systems, and to develop recommendations to enhance and protect the rights of victims.
 

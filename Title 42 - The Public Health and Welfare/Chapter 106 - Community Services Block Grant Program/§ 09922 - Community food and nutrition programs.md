@@ -42,7 +42,7 @@ The Secretary may, through grants to public and private, nonprofit agencies, pro
 
 #### (3) Eligibility for allotments for statewide programs
 
-&emsp;To be eligible to receive an allotment under paragraph (1)(A) or (2)(A), an eligible agencyshall demonstrate that the proposed program is statewide in scope and represents a comprehensive and coordinated effort to alleviate hunger within the State.
+&emsp;To be eligible to receive an allotment under paragraph (1)(A) or (2)(A), an eligible agency shall demonstrate that the proposed program is statewide in scope and represents a comprehensive and coordinated effort to alleviate hunger within the State.
 
 #### (4) Minimum allotments for statewide programs
 

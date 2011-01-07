@@ -52,7 +52,7 @@
 
 &emsp;&emsp;&emsp;(i) a description of the consumer product (or other product or substance regulated by the Commission) concerned;
 
-&emsp;&emsp;&emsp;(ii) identification of the manufacturer or private labeler of the consumer product (or other product or substance regulated by the Commission);
+&emsp;&emsp;&emsp;(ii) identification of the manufacturer or private labeler of the consumer product (orother product or substance regulated by the Commission);
 
 &emsp;&emsp;&emsp;(iii) a description of the harm relating to the use of the consumer product (or other product or substance regulated by the Commission);
 

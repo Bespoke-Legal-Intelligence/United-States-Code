@@ -54,7 +54,7 @@ No advertisement described in subsection (a) of this section with respect to any
 
 #### (e) Balloon payment
 
-If any advertisement described in subsection (a) of this section contains a statement regarding the minimum monthly payment under theplan, the advertisement shall also disclose, if applicable, the fact that the plan includes a balloon payment.
+If any advertisement described in subsection (a) of this section contains a statement regarding the minimum monthly payment under the plan, the advertisement shall also disclose, if applicable, the fact that the plan includes a balloon payment.
 
 #### (f) “Balloon payment” defined
 
@@ -64,11 +64,19 @@ For purposes of this section and section 1637a of this title, the term “balloo
 
 &emsp;(2) the aggregate amount of the minimum periodic payments required would not fully amortize such outstanding balance by such date or at the end of such period.
 
-(Pub. L. 90–321, title I, §147, as added Pub. L. 100–709, §2(c), Nov. 23, 1988, 102 Stat. 4730; amended Pub. L. 109–8, title XIII, §1302(a)(2), Apr. 20, 2005, 119 Stat. 208.)
+(Pub. L. 90–321, title I, §147, as added Pub. L. 100–709, §2(c), Nov. 23, 1988, 102 Stat. 4730; amended Pub. L. 109–8, title XIII, §1302(a)(2), Apr. 20, 2005, 119 Stat. 208; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
-2005—Subsec. (b). Pub. L. 109–8 designated existing provisions as par. (1), inserted par. heading, and added par. (2).
+<b>2005</b>—Subsec. (b). Pub. L. 109–8 designated existing provisions as par. (1), inserted par. heading, and added par. (2).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2005 Amendment
 

@@ -16,9 +16,9 @@ The Surgeon General, pursuant to regulations, shall—
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–622 struck out “, and tobacco” after “orthopedic devices”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–622 struck out “, and tobacco” after “orthopedic devices”.
 
-1948—Subsec. (a). Act June 25, 1948, §2(a), amended subsec. (a) generally, continuing authority of Service to furnish tobacco to patients being treated by it.
+<b>1948</b>—Subsec. (a). Act June 25, 1948, §2(a), amended subsec. (a) generally, continuing authority of Service to furnish tobacco to patients being treated by it.
 
 Subsec. (e). Act June 25, 1948, §2(b), added subsec. (e).
 

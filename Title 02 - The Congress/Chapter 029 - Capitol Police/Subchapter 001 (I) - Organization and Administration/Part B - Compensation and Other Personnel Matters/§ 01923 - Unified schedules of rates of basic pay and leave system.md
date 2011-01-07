@@ -12,7 +12,7 @@
 
 #### (b) Leave system
 
-(1) The Capitol Police Board shall prescribe, by regulation, a unified leave system for members and civilian employees of the Capitol Policewhich shall apply to both members and employees whose appointing authority is an officer of the Senate and members and employees whose appointing authority is an officer of the House of Representatives. The leave system shall include provisions for—
+(1) The Capitol Police Board shall prescribe, by regulation, a unified leave system for members and civilian employees of the Capitol Police which shall apply to both members and employees whose appointing authority is an officer of the Senate and members and employees whose appointing authority is an officer of the House of Representatives. The leave system shall include provisions for—
 
 &emsp;(A) annual leave, based on years of service;
 

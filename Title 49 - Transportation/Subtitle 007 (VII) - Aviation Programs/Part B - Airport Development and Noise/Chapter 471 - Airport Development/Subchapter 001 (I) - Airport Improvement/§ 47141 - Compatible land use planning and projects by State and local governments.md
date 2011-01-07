@@ -42,25 +42,51 @@ Guidelines.—The Secretary shall establish guidelines to administer this sectio
 
 (e)
 
-Eligible Projects.—The Secretary may approve a grant under this section to a State or unit of local government for a project resulting from a land use compatibility plan only if the Secretary is satisfied that the project is consistent with the guidelines established by the Secretary under this section, the State or unit of local government has provided the assurances required by this section, the State or unit of local government has implemented (or has made provision to implement) those elements of the plan that are not eligible for Federal financial assistance, and that the project is not inconsistent with applicable Federal Aviation Administration standards.
+Eligible Projects.—The Secretary may approve a grant under this section to a State or unit of local government for a project resulting from a land use compatibility plan only if the Secretary is satisfied that the project is consistent with the guidelines established by the Secretary under this section, the State or unit of local government has provided the assurancesrequired by this section, the State or unit of local government has implemented (or has made provision to implement) those elements of the plan that are not eligible for Federal financial assistance, and that the project is not inconsistent with applicable Federal Aviation Administration standards.
 
 (f)
 
-Sunset.—This section shall not be in effect after March 31, 2010.
+Sunset.—This section shall not be in effect after March 31, 2011.
 
-(Added Pub. L. 108–176, title I, §160(a), Dec. 12, 2003, 117 Stat. 2511; amended Pub. L. 110–253, §3(c)(2), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §5(g), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(f), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(g), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(f), Dec. 16, 2009, 123 Stat. 3032.)
+(Added Pub. L. 108–176, title I, §160(a), Dec. 12, 2003, 117 Stat. 2511; amended Pub. L. 110–253, §3(c)(2), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §5(g), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(f), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(g), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(f), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(f), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(f), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(f), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(f), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(g), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(f), Dec. 22, 2010, 124 Stat. 3567.)
 
 #### Amendments
 
-2009—Subsec. (f). Pub. L. 111–116 substituted “March 31, 2010.” for “December 31, 2009.”
+<b>2010</b>—Subsec. (f). Pub. L. 111–329 substituted “March 31, 2011.” for “December 31, 2010.”
+
+Pub. L. 111–249 substituted “December 31, 2010.” for “September 30, 2010.”
+
+Pub. L. 111–216 substituted “September 30, 2010.” for “August 1, 2010.”
+
+Pub. L. 111–197 substituted “August 1, 2010.” for “July 3, 2010.”
+
+Pub. L. 111–161 substituted “July 3, 2010.” for “April 30, 2010.”
+
+Pub. L. 111–153 substituted “April 30, 2010.” for “March 31, 2010.”
+
+<b>2009</b>—Subsec. (f). Pub. L. 111–116 substituted “March 31, 2010.” for “December 31, 2009.”
 
 Pub. L. 111–69 substituted “December 31, 2009.” for “September 30, 2009.”
 
 Pub. L. 111–12 substituted “September 30, 2009.” for “March 31, 2009.”
 
-2008—Subsec. (f). Pub. L. 110–330 substituted “March 31, 2009” for “September 30, 2008”.
+<b>2008</b>—Subsec. (f). Pub. L. 110–330 substituted “March 31, 2009” for “September 30, 2008”.
 
 Pub. L. 110–253 substituted “September 30, 2008” for “September 30, 2007”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–329 effective Jan. 1, 2011, see section 5(j) of Pub. L. 111–329, set out as a note under section 40117 of this title.
+
+Amendment by Pub. L. 111–249 effective Oct. 1, 2010, see section 5(<i>l</i>) of Pub. L. 111–249, set out as a note under section 40117 of this title.
+
+Amendment by Pub. L. 111–216 effective Aug. 2, 2010, see section 104(j) of Pub. L. 111–216, set out as a note under section 40117 of this title.
+
+Amendment by Pub. L. 111–197 effective July 4, 2010, see section 5(j) of Pub. L. 111–197, set out as a note under section 40117 of this title.
+
+Amendment by Pub. L. 111–161 effective May 1, 2010, see section 5(j) of Pub. L. 111–161, set out as a note under section 40117 of this title.
+
+Amendment by Pub. L. 111–153 effective Apr. 1, 2010, see section 5(j) of Pub. L. 111–153, set out as a note under section 40117 of this title.
 
 #### Effective Date of 2009 Amendment
 

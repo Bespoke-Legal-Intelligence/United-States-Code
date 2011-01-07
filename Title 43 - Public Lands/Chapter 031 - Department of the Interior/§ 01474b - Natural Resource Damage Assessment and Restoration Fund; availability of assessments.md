@@ -14,7 +14,7 @@ natural resource damage assessment and restoration fund” of the annual Departm
 
 Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §350\], Nov. 29, 1999, 113 Stat. 1535, 1501A–207, provided that:
 
-“(1) Notwithstanding any other provision of law and subject to the provisions of paragraphs (5) and (7), upon the joint motion of the United States and the State of Alaska and the issuance of an appropriate order by the United States District Court for the District of Alaska, the joint trust funds, or any portion thereof, including any interest accrued thereon, previously received or to be received by the United States and the State of Alaska pursuant to the Agreement and Consent Decree issued in United States v. Exxon Corporation, et al. (No. A91–082 CIV) and State of Alaska v. Exxon Corporation, et al. (No. A91–083 CIV) (hereafter referred to as the ‘Consent Decree’), may be deposited in—
+“(1) Notwithstanding any other provision of law and subject to the provisions of paragraphs (5) and (7), upon the joint motion of the United States and the State of Alaska and the issuance of an appropriate order by the United States District Court for the District of Alaska,the joint trust funds, or any portion thereof, including any interest accrued thereon, previously received or to be received by the United States and the State of Alaska pursuant to the Agreement and Consent Decree issued in United States v. Exxon Corporation, et al. (No. A91–082 CIV) and State of Alaska v. Exxon Corporation, et al. (No. A91–083 CIV) (hereafter referred to as the ‘Consent Decree’), may be deposited in—
 
 &emsp;“(A) the Natural Resource Damage Assessment and Restoration Fund (hereafter referred to as the ‘Fund’) established in title I of the Department of the Interior and Related Agencies Appropriations Act, 1992 (Public Law 102–154; 43 U.S.C. 1474b);
 
@@ -36,7 +36,7 @@ Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §350\], Nov. 29, 1999, 113
 
 &emsp;&emsp;“(i) the amount of any payments made after the date of enactment of this Act \[Nov. 29, 1999\] from the Joint Trust Funds pursuant to an agreement between the Trustee Council and Koniag, Inc., which includes those lands which are presently subject to the Koniag Non-Development Easement, including, but not limited to, the continuation or modification of such Easement; and
 
-&emsp;&emsp;“(ii) payments in excess of $6.32 million for any habitat acquisition or protection from the joint trust funds after the date of enactment of this Actand prior to October 1, 2002, other than payments for which the Council is currently obligated through purchase agreements with the Kodiak Island Borough, Afognak Joint Venture and the Eyak Corporation.
+&emsp;&emsp;“(ii) payments in excess of $6.32 million for any habitat acquisition or protection from the joint trust funds after the date of enactment of this Act and prior to October 1, 2002, other than payments for which the Council is currently obligated through purchase agreements with the Kodiak Island Borough, Afognak Joint Venture and the Eyak Corporation.
 
 &emsp;“(B) All other funds remaining on October 1, 2002, and the associated earnings shall be used to fund a program, consisting of—
 

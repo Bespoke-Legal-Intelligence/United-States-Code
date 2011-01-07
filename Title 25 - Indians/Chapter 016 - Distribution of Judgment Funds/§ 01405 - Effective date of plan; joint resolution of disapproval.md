@@ -6,7 +6,7 @@ The plan prepared by the Secretary shall become effective, and he shall take imm
 
 #### (b) Proposed legislation and report to Congress following Congressional disapproval
 
-Within thirty calendar days after the date of enactment of a joint resolution disapproving aplan, the Secretary shall submit to the Congress proposed legislation, together with a report thereon, authorizing use or distribution of such funds.
+Within thirty calendar days after the date of enactment of a joint resolution disapproving a plan, the Secretary shall submit to the Congress proposed legislation, together with a report thereon, authorizing use or distribution of such funds.
 
 #### (c) Successor plan previously withdrawn or amended prior to Congressional action; consent to amendments
 
@@ -24,7 +24,7 @@ Upon the introduction of the first such resolution of disapproval in either the 
 
 #### Amendments
 
-1983—Subsec. (a). Pub. L. 97–458, §3(a), substituted “unless during such sixty-day period a joint resolution is enacted” for “unless during such sixty-day period either House adopts a resolution disapproving such plans”.
+<b>1983</b>—Subsec. (a). Pub. L. 97–458, §3(a), substituted “unless during such sixty-day period a joint resolution is enacted” for “unless during such sixty-day period either House adopts a resolution disapproving such plans”.
 
 Subsec. (b). Pub. L. 97–458, §3(b), substituted “date of enactment of a joint resolution disapproving a plan” for “date of adoption of a resolution disapproving a plan”.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Agreements under this subchapter may provide that the Secretary shall use payments made in local currencies by the developing country or private entity in accordance with this section.
+Agreements under this subchapter may provide that the Secretary shall use paymentsmade in local currencies by the developing country or private entity in accordance with this section.
 
 #### (b) Special account
 
@@ -68,7 +68,7 @@ The proceeds from the payments referred to in subsection (a) of this section may
 
 #### References in Text
 
-Section 2152h of title 22, referred to in subsec. (c)(8), was in the original “section 135 of the Foreign Assistance Act of 1961” which was translated as meaning the section 135 of the Act which is classified to section 2152h of Title 22, Foreign Relations and Intercourse, rather than to the section 135 of the Act which is classified to section 2152f of Title 22, to reflect the probable intent of Congress.
+Section 2152h of title 22, referred to in subsec. (c)(8), was in the original “section 135 of the Foreign Assistance Act of 1961” which was translated as meaning the section 135 of the Act which is classified to section 2152h of Title 22, Foreign Relations and Intercourse,rather than to the section 135 of the Act which is classified to section 2152f of Title 22, to reflect the probable intent of Congress.
 
 #### Amendments
 
@@ -150,7 +150,7 @@ Subsec. (m). Pub. L. 89–808 struck out subsec. (m) which provided for financin
 
 Subsec. (n). Pub. L. 89–808 redesignated subsec. (n) as (b)(5).
 
-Subsecs. (<i>o</i>), (p). Pub. L. 89–808 struck out subsec. (<i>o</i>) which provided for assistance, in such amounts as may be specified from time to time in appropriation acts, inexpansions or operation in foreign countries of schools, colleges, or universities founded or sponsored by United States citizens for carrying out programs of vocational, professional, scientific, technological, or general education, and subsec. (p) which provided for supporting workshops in American studies or American educational techniques, and supporting chairs in American studies.
+Subsecs. (<i>o</i>), (p). Pub. L. 89–808 struck out subsec. (<i>o</i>) which provided for assistance, in such amounts as may be specified from time to time in appropriation acts, in expansions or operation in foreign countries of schools, colleges, or universities founded or sponsored by United States citizens for carrying out programs of vocational, professional, scientific, technological, or general education, and subsec. (p) which provided for supporting workshops in American studies or American educational techniques, and supporting chairs in American studies.
 
 Subsec. (q). Pub. L. 89–808 redesignated subsec. (q) as (d).
 
@@ -196,7 +196,7 @@ Subsec. (s). Pub. L. 87–128, §201(3)(c), added subsec. (s).
 
 Pub. L. 87–128, §201(3)(b), substituted in final proviso “pursuant to” for “for the purpose of subsection (p) of this section, except in such amounts as may be specified from time to time in appropriation Acts, and no foreign currencies shall be allocated under any provision of this chapter after June 30, 1960, for the purposes specified in”.
 
-1959—Subsec. (a). Pub. L. 86–341, §4, provided that from sale proceeds and loan repayments under this subchapter not less than the equivalent of 5 per centum of the total sales made under this subchapter after September 21, 1959, shall be made available in advance for use as provided by this subsection over such period of years as the Secretary of Agriculture determines will most effectively carry out the purposes of this subsection, prohibited the allocation of such funds after June 30, 1960, except as may be specified in appropriation acts, required particular regard to be given for provisions in sale and loan agreements for the convertibility of such amount of the proceeds thereof as may be needed to carry out the purpose of this subsection in those countries which are or offer reasonable potential of becoming dollar markets for United States agricultural commodities, and permitted the entering intoagreements for the sale of surplus agricultural commodities in such amounts as the Secretary of Agriculture determines to be adequate and for the use of the proceeds to carry out the purpose of this subsection in cases where sufficient foreign currencies for carrying out the purpose of this subsection in such countries are not otherwise available.
+1959—Subsec. (a). Pub. L. 86–341, §4, provided that from sale proceeds and loan repayments under this subchapter not less than the equivalent of 5 per centum of the total sales made under this subchapter after September 21, 1959, shall be made available in advance for use as provided by this subsection over such period of years as the Secretary of Agriculture determines will most effectively carry out the purposes of this subsection, prohibited the allocation of such funds after June 30, 1960, except as may be specified in appropriation acts, required particular regard to be given for provisions in sale and loan agreements for the convertibility of such amount of the proceeds thereof as may be needed to carry out the purpose of this subsection in those countries which are or offer reasonable potential of becoming dollar markets for United States agricultural commodities, and permitted the entering into agreements for the sale of surplus agricultural commodities in such amounts as the Secretary of Agriculture determines to be adequate and for the use of the proceeds to carry out the purpose of this subsection in cases where sufficient foreign currencies for carrying out the purpose of this subsection in such countries are not otherwise available.
 
 Subsec. (b). Pub. L. 86–341, §5, among other changes, substituted “strategic or other materials” for “strategic and critical materials” in two places, limited purchases or contracts to purchase to such amounts as may be specified from time to time in appropriation acts, and eliminated provisions which authorized contracts, including advance payment contracts, for supply extending over periods up to ten years, and which permitted the strategic and critical materials acquired under authority of this subchapter to be additional to the amounts acquired under authority of the Strategic and Critical Materials Stockpile Act.
 
@@ -270,7 +270,7 @@ Pub. L. 86–500, title V, §509, June 8, 1960, 74 Stat. 186, as amended by Pub.
 
 #### Limitation on Use of Foreign Currencies for Participation in Trade, Agricultural and Horticultural Fairs
 
-Pub. L. 86–30, title I, §101, May 20, 1959, 73 Stat. 35, as amended by Pub. L. 110–246, title III, §3001(c), June 18, 2008, 122 Stat. 1821, provided that: “Subject to allocation in such manner as may now or hereafter be prescribed by the President, foreign currencies which have accrued under title I of the Food for Peace Act, as amended (7 U.S.C. 1704) \[this section\] may be used without fiscal year limitation for the purposes of section 104(m) of that Act \[former subsec. (m) of this section\],including administrative expenses directly related thereto, in an amount not to exceed the equivalent of $1,275,000.”
+Pub. L. 86–30, title I, §101, May 20, 1959, 73 Stat. 35, as amended by Pub. L. 110–246, title III, §3001(c), June 18, 2008, 122 Stat. 1821, provided that: “Subject to allocation in such manner as may now or hereafter be prescribed by the President, foreign currencies which have accrued under title I of the Food for Peace Act, as amended (7 U.S.C. 1704) \[this section\] may be used without fiscal year limitation for the purposes of section 104(m) of that Act \[former subsec. (m) of this section\], including administrative expenses directly related thereto, in an amount not to exceed the equivalent of $1,275,000.”
 
 #### International Cooperation in Health Research, Research Training, and Research Planning
 

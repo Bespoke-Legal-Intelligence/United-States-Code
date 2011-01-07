@@ -16,7 +16,7 @@
 
 #### (4) Effect on claims
 
-&emsp;Except as otherwise provided in this section, and without limiting the powers and duties of the trustee to discharge obligations promptly as specified in this section, nothing in this section shall limit the right of any person, including any subrogee, to establish by formal proof or otherwise as the court may provide such claims as such person may have against the debtor, including claims for the paymentof money and the delivery of specific securities, without resort to moneys advanced by SIPC to the trustee.
+&emsp;Except as otherwise provided in this section, and without limiting the powers and duties of the trustee to discharge obligations promptly as specified in this section, nothing in this section shall limit the right of any person, including any subrogee, to establish by formal proof or otherwise as the court may provide such claims as such person may have against the debtor, including claims for the payment of money and the delivery of specific securities, without resort to moneys advanced by SIPC to the trustee.
 
 #### (b) Payments to customers
 
@@ -24,7 +24,7 @@ After receipt of a written statement of claim pursuant to subsection (a)(2), of 
 
 &emsp;(1) with respect to net equity claims, authorize the trustee to satisfy claims out of moneys made available to the trustee by SIPC notwithstanding the fact that there has not been any showing or determination that there are sufficient funds of the debtor available to satisfy such claims; and
 
-&emsp;(2) with respect to claims relating to, or net equities based upon, securities of a class and series of an issuer which are ascertainable from the books and records of the debtor or are otherwise established to the satisfaction of the trustee, authorize the trustee to deliver securities of such class and series if and to the extent available to satisfy such claims in whole or in part, with partial deliveries to be made pro rata to the greatest extent considered practicable by the trustee.
+&emsp;(2) with respect to claims relating to, or net equities based upon, securities of a class and series of an issuer which are ascertainable from the books and records of the debtor orare otherwise established to the satisfaction of the trustee, authorize the trustee to deliver securities of such class and series if and to the extent available to satisfy such claims in whole or in part, with partial deliveries to be made pro rata to the greatest extent considered practicable by the trustee.
 
 > Any payment or delivery of property pursuant to this subsection may be conditioned upon the trustee requiring claimants to execute, in a form to be determined by the trustee, appropriate receipts, supporting affidavits, releases, and assignments, but shall be without prejudice to any right of a claimant to file formal proof of claim within the period specified in subsection (a)(3) of this section for any balance of securities or cash to which such claimant considers himself entitled.
 
@@ -60,7 +60,7 @@ The trustee shall, to the extent that securities can be purchased in a fair and 
 
 #### (1) In general
 
-&emsp;Any contract of the debtor for the purchase or sale of securities in the ordinary course ofits business with other brokers or dealers which is wholly executory on the filing date shall not be completed by the trustee, except to the extent permitted by SIPC rule. Upon the adoption by SIPC of rules with respect to the closeout of such a contract but prior to the adoption of rules with respect to the completion of such a contract, the other broker or dealer shall close out such contract, without unnecessary delay, in the best available market and pursuant to such SIPC rules. Until such time as SIPC adopts rules with respect to the completion or closeout of such a contract, such a contract shall be closed out in accordance with Commission Rule S6(d)–1 as in effect on May 21, 1978, or any comparable rule of the Commission subsequently adopted, to the extent not inconsistent with the provisions of this subsection.
+&emsp;Any contract of the debtor for the purchase or sale of securities in the ordinary course of its business with other brokers or dealers which is wholly executory on the filing date shall not be completed by the trustee, except to the extent permitted by SIPC rule. Upon the adoption by SIPC of rules with respect to the closeout of such a contract but prior to the adoption of rules with respect to the completion of such a contract, the other broker or dealer shall close out such contract, without unnecessary delay, in the best available market and pursuant to such SIPC rules. Until such time as SIPC adopts rules with respect to the completion or closeout of such a contract, such a contract shall be closed out in accordance with Commission Rule S6(d)–1 as in effect on May 21, 1978, or any comparable rule of the Commission subsequently adopted, to the extent not inconsistent with the provisions of this subsection.
 
 #### (2) Net profit or loss
 
@@ -106,7 +106,7 @@ A prior section 8 of Pub. L. 91–598 was renumbered section 12 and is classifie
 
 #### Amendments
 
-1978—Subsecs. (a)(1), (c)(3). Pub. L. 95–598 substituted “title 11” for “the Bankruptcy Act”.
+<b>1978</b>—Subsecs. (a)(1), (c)(3). Pub. L. 95–598 substituted “title 11” for “the Bankruptcy Act”.
 
 #### Effective Date of 1978 Amendment
 

@@ -72,7 +72,11 @@
 
 #### Amendments
 
-1992—Pub. L. 102–390, title II, §§221(d), 225(b)(6), 229(b), Oct. 6, 1992, 106 Stat. 1629, 1630, 1632, substituted “UNITED STATES MINT” for “BUREAU OF THE MINT” in subchapter III heading and added items 5134 and 5135.
+<b>1992</b>—Pub. L. 102–390, title II, §§221(d), 225(b)(6), 229(b), Oct. 6, 1992, 106 Stat. 1629, 1630, 1632, substituted “UNITED STATES MINT” for “BUREAU OF THE MINT” in subchapter III heading and added items 5134 and 5135.
+
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+
+<i><sup>2</sup></i><i> Editorially supplied. Section added by Pub. L. 104–52 without corresponding amendment of chapter analysis.</i>
 
 
 ---

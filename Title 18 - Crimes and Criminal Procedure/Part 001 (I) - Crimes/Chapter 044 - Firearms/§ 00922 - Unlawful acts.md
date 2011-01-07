@@ -20,7 +20,7 @@
 
 &emsp;(4) for any person, other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector, to transport in interstate or foreign commerce any destructive device, machinegun (as defined in section 5845 of the Internal Revenue Code of 1986), short-barreled shotgun, or short-barreled rifle, except as specifically authorized by the Attorney General consistent with public safety and necessity;
 
-&emsp;(5) for any person (other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector) to transfer, sell, trade, give, transport, or deliver any firearm to any person (other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector) who the transferor knows or has reasonable cause to believe does not residein (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the transferor resides; except that this paragraph shall not apply to (A) the transfer, transportation, or delivery of a firearm made to carry out a bequest of a firearm to, or an acquisition by intestate succession of a firearm by, a person who is permitted to acquire or possess a firearm under the laws of the State of his residence, and (B) the loan or rental of a firearm to any person for temporary use for lawful sporting purposes;
+&emsp;(5) for any person (other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector) to transfer, sell, trade, give, transport, or deliver any firearm to any person (other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector) who the transferor knows or has reasonable cause to believe does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the transferor resides; except that this paragraph shall not apply to (A) the transfer, transportation, or delivery of a firearm made to carry out a bequest of a firearm to, or an acquisition by intestate succession of a firearm by, a person who is permitted to acquire or possess a firearm under the laws of the State of his residence, and (B) the loan or rental of a firearm to any person for temporary use for lawful sporting purposes;
 
 &emsp;(6) for any person in connection with the acquisition or attempted acquisition of any firearm or ammunition from a licensed importer, licensed manufacturer, licensed dealer, or licensed collector, knowingly to make any false or fictitious oral or written statement or to furnish or exhibit any false, fictitious, or misrepresented identification, intended or likely to deceive such importer, manufacturer, dealer, or collector with respect to any fact material to the lawfulness of the sale or other disposition of such firearm or ammunition under the provisions of this chapter;
 
@@ -60,7 +60,7 @@
 
 &emsp;(1) the transferee submits to the transferor a sworn statement in the following form:
 
-&emsp;&emsp;“Subject to penalties provided by law, I swear that, in the case of any firearm other than a shotgun or a rifle, I am twenty-one years or more of age, or that, in the case of a shotgun or a rifle, I am eighteen years or more of age; that I am not prohibited by the provisions of chapter 44 of title 18, United States Code, from receiving a firearm in interstate or foreign commerce; and that myreceipt of this firearm will not be in violation of any statute of the State and published ordinance applicable to the locality in which I reside. Further, the true title, name, and address of the principal law enforcement officer of the locality to which the firearm will be delivered are \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+&emsp;&emsp;“Subject to penalties provided by law, I swear that, in the case of any firearm other than a shotgun or a rifle, I am twenty-one years or more of age, or that, in the case of a shotgun or a rifle, I am eighteen years or more of age; that I am not prohibited by the provisions of chapter 44 of title 18, United States Code, from receiving a firearm in interstate or foreign commerce; and that my receipt of this firearm will not be in violation of any statute of the State and published ordinance applicable to the locality in which I reside. Further, the true title, name, and address of the principal law enforcement officer of the locality to which the firearm will be delivered are \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 > &emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -140,7 +140,7 @@
 
 &emsp;&emsp;(C)(i) includes a finding that such person represents a credible threat to the physical safety of such intimate partner or child; or
 
-&emsp;&emsp;(ii) by its terms explicitly prohibits the use, attempted use, or threatened use of physical force against such intimate partner or child that would reasonably be expected to cause bodily injury; or
+&emsp;&emsp;(ii) by its terms explicitly prohibits the use, attempted use, or threatened use of physical force against such intimate partneror child that would reasonably be expected to cause bodily injury; or
 
 &emsp;(9) who has been convicted in any court of a misdemeanor crime of domestic violence,
 
@@ -260,7 +260,7 @@
 
 (4) Nothing in this subsection shall be construed as preempting or preventing a State or local government from enacting a statute establishing gun free school zones as provided in this subsection.
 
-(r) It shall be unlawful for any person to assemble from imported parts any semiautomatic rifle or any shotgun which is identical to any rifle or shotgun prohibited from importation under section 925(d)(3) of this chapter as not being particularly suitable for or readily adaptable to sporting purposes except that this subsection shall not apply to—
+(r) It shall be unlawful for any person to assemble from imported parts any semiautomatic rifle or any shotgun which is identical to any rifle or shotgun prohibited from importationunder section 925(d)(3) of this chapter as not being particularly suitable for or readily adaptable to sporting purposes except that this subsection shall not apply to—
 
 &emsp;(1) the assembly of any such rifle or shotgun for sale or distribution by a licensed manufacturer to the United States or any department or agency thereof or to any State or any department, agency, or political subdivision thereof; or
 
@@ -392,7 +392,7 @@
 
 &emsp;&emsp;(II) was issued not more than 5 years earlier by the State in which the transfer is to take place; and
 
-&emsp;(ii) the law of the State provides that such a permit is to be issued only after an authorized government official has verified that the information available to such official does not indicate that possession of a firearm by such other person would be in violation of law;
+&emsp;(ii) the law of the State provides that such a permit is to be issued only after an authorizedgovernment official has verified that the information available to such official does not indicate that possession of a firearm by such other person would be in violation of law;
 
 &emsp;(B) the Attorney General has approved the transfer under section 5812 of the Internal Revenue Code of 1986; or
 
@@ -546,7 +546,7 @@ Liability for use.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding any other provision of law, a person who has lawful possession and control of a handgun, and who uses a secure gun storage or safety device with the handgun, shall be entitled to immunity from a qualified civil liability action.
+In general.—Notwithstanding any other provision of law, a person who has lawful possession and control of a handgun, and who uses a secure gun storage or safety device with the handgun, shall be entitled toimmunity from a qualified civil liability action.
 
 &emsp;&emsp;(B)
 
@@ -594,11 +594,11 @@ Section 103 of the Brady Handgun Violence Prevention Act, referred to in subsec.
 
 #### Amendments
 
-2005—Subsec. (a)(7), (8). Pub. L. 109–92, §6(a), added pars. (7) and (8) and struck out former pars. (7) and (8) which related to prohibitions on the manufacture, importation, sale, and delivery of armor piercing ammunition.
+<b>2005</b>—Subsec. (a)(7), (8). Pub. L. 109–92, §6(a), added pars. (7) and (8) and struck out former pars. (7) and (8) which related to prohibitions on the manufacture, importation, sale, and delivery of armor piercing ammunition.
 
 Subsec. (z). Pub. L. 109–92, §5(c)(1), added subsec. (z).
 
-2002—Subsecs. (a) to (c), (p)(2) to (4). Pub. L. 107–296, §1112(f)(6), substituted “Attorney General” for “Secretary” wherever appearing.
+<b>2002</b>—Subsecs. (a) to (c), (p)(2) to (4). Pub. L. 107–296, §1112(f)(6), substituted “Attorney General” for “Secretary” wherever appearing.
 
 Subsec. (p)(5)(A). Pub. L. 107–296, §1112(f)(4), substituted “after consultation with the Attorney General” for “after consultation with the Secretary”.
 
@@ -608,7 +608,7 @@ Subsec. (t)(1)(C). Pub. L. 107–273 substituted “1028(d)” for “1028(d)(1)
 
 Subsecs. (t)(3), (5), (v), (w). Pub. L. 107–296, §1112(f)(6), substituted “Attorney General” for “Secretary” wherever appearing.
 
-1998—Subsec. (d)(5). Pub. L. 105–277, §101(b) \[title I, §121(1)\], added par. (5) and struck out former par. (5) which read as follows: “who, being an alien, is illegally or unlawfully in the United States;”.
+<b>1998</b>—Subsec. (d)(5). Pub. L. 105–277, §101(b) \[title I, §121(1)\], added par. (5) and struck out former par. (5) which read as follows: “who, being an alien, is illegally or unlawfully in the United States;”.
 
 Subsec. (g)(5). Pub. L. 105–277, §101(b) \[title I, §121(2)\], added par. (5) and struck out former par. (5) which read as follows: “who, being an alien, is illegally or unlawfully in the United States;”.
 
@@ -616,7 +616,7 @@ Subsec. (s)(3)(B)(v). Pub. L. 105–277, §101(b) \[title I, §121(3)\], added c
 
 Subsec. (y). Pub. L. 105–277, §101(b) \[title I, §121(4)\], added subsec. (y).
 
-1996—Pub. L. 104–294, §603(g), amended Appendix A by substituting “Uberti 1866 Sporting Rifle” for “Uberti 1866 Sporting Rilfe” in category designated “Centerfire Rifles—Lever \& Slide”, “Sako FiberClass Sporter” for “Sako Fiberclass Sporter” in category designated “Centerfire Rifles—Bolt Action”, “Remington 870 SPS Special Purpose Magnum” for “Remington 879 SPS Special Purpose Magnum” in category designated “Shotguns—Slide Actions”, and “E.A.A./Sabatti Falcon-Mon Over/Under” for “E.A.A/Sabatti Falcon-Mon Over/Under” in category designated “Shotguns—Over/Unders”.
+<b>1996</b>—Pub. L. 104–294, §603(g), amended Appendix A by substituting “Uberti 1866 Sporting Rifle” for “Uberti 1866 Sporting Rilfe” in category designated “Centerfire Rifles—Lever \& Slide”, “Sako FiberClass Sporter” for “Sako Fiberclass Sporter” in category designated “Centerfire Rifles—Bolt Action”, “Remington 870 SPS Special Purpose Magnum” for “Remington 879 SPS Special Purpose Magnum” in category designated “Shotguns—Slide Actions”, and “E.A.A./Sabatti Falcon-Mon Over/Under” for “E.A.A/Sabatti Falcon-Mon Over/Under” in category designated “Shotguns—Over/Unders”.
 
 Subsec. (d)(9). Pub. L. 104–208, §101(f) \[§658(b)(1)\], added par. (9).
 
@@ -640,7 +640,7 @@ Subsec. (w)(4). Pub. L. 104–294, §603(e), substituted “section 923(i) of th
 
 Subsec. (x). Pub. L. 104–294, §603(f)(1), amended directory language of Pub. L. 103–322, §110201(a). See 1994 Amendment note below.
 
-1994—Pub. L. 103–322, §110106, which added Appendix A specifying firearms that were not prohibited by subsec. (v)(1) at end of section, was repealed by Pub. L. 103–322, §110105(2). See Effective and Termination Dates of 1994 Amendment note below.
+<b>1994</b>—Pub. L. 103–322, §110106, which added Appendix A specifying firearms that were not prohibited by subsec. (v)(1) at end of section, was repealed by Pub. L. 103–322, §110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
 Subsec. (a)(9). Pub. L. 103–322, §110514, added par. (9).
 
@@ -662,7 +662,7 @@ Subsec. (w). Pub. L. 103–322, §110103(a), which added subsec. (w) prohibiting
 
 Subsec. (x). Pub. L. 103–322, §110201(a), as amended by Pub. L. 104–294, §603(f)(1), added subsec. (x).
 
-1993—Subsec. (e). Pub. L. 103–159, §302(a), inserted at end “No common or contract carrier shall require or cause any label, tag, or other written notice to be placed on the outside of any package, luggage, or other container that such package, luggage, or other container contains a firearm.”
+<b>1993</b>—Subsec. (e). Pub. L. 103–159, §302(a), inserted at end “No common or contract carrier shall require or cause any label, tag, or other written notice to be placed on the outside of any package, luggage, or other container that such package, luggage, or other container contains a firearm.”
 
 Subsec. (f). Pub. L. 103–159, §302(b), designated existing provisions as par. (1) and added par. (2).
 
@@ -672,7 +672,7 @@ Subsec. (t). Pub. L. 103–159, §102(b), added subsec. (t).
 
 Subsec. (u). Pub. L. 103–159, §302(c), added subsec. (u).
 
-1990—Subsec. (a)(5). Pub. L. 101–647, §2201, substituted “does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the transferor resides;” for “resides in any State other than that in which the transferor resides (or other than that in which its place of business is located if the transferor is a corporation or other business entity);”.
+<b>1990</b>—Subsec. (a)(5). Pub. L. 101–647, §2201, substituted “does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the transferor resides;” for “resides in any State other than that in which the transferor resides (or other than that in which its place of business is located if the transferor is a corporation or other business entity);”.
 
 Subsec. (b)(1). Pub. L. 101–647, §3524, as amended by Pub. L. 103–322, §330011(i), substituted semicolon for period at end.
 
@@ -684,11 +684,11 @@ Subsec. (q). Pub. L. 101–647, §1702(b)(1), added subsec. (q).
 
 Subsec. (r). Pub. L. 101–647, §2204(b), added subsec. (r).
 
-1988—Subsec. (g)(3). Pub. L. 100–690 inserted “who” before “is”.
+<b>1988</b>—Subsec. (g)(3). Pub. L. 100–690 inserted “who” before “is”.
 
 Subsec. (p). Pub. L. 100–649 added subsec. (p).
 
-1986—Subsec. (a)(1). Pub. L. 99–308, §102(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “for any person, except a licensed importer, licensed manufacturer, or licensed dealer, to engage in the business of importing, manufacturing, or dealing in firearms or ammunition, or in the course of such business to ship, transport, or receive any firearm or ammunition in interstate or foreign commerce;”
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–308, §102(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “for any person, except a licensed importer, licensed manufacturer, or licensed dealer, to engage in the business of importing, manufacturing, or dealing in firearms or ammunition, or in the course of such business to ship, transport, or receive any firearm or ammunition in interstate or foreign commerce;”
 
 Subsec. (a)(2). Pub. L. 99–308, §102(2)(A), in provision preceding subpar. (A) struck out “or ammunition” after “any firearm”.
 
@@ -704,7 +704,7 @@ Subsec. (b)(2). Pub. L. 99–308, §102(4)(A), struck out “or ammunition” af
 
 Subsec. (b)(3)(A). Pub. L. 99–308, §102(4)(B), inserted a new cl. (A) and struck out former cl. (A) which provided that par. (3) “shall not apply to the sale or delivery of a rifle or shotgun to a resident of a State contiguous to the State in which the licensee's place of business is located if the purchaser's State of residence permits such sale or delivery by law, the sale fully complies with the legal conditions of sale in both such contiguous States, and the purchaser and the licensee have, prior to the sale, or delivery for sale, of the rifle or shotgun, complied with all of the requirements of section 922(c) applicable to intrastate transactions other than at the licensee's business premises,”.
 
-Subsec. (b)(3)(B), (C). Pub. L. 99–308, §102(4)(C), (D), inserted “and” before “(B)” and struck out cl. (C), which provided that par. (3) “shall not preclude any person who is participating in any organized rifle or shotgun match or contest, or is engaged in hunting, in a State other than his State of residence and whose rifle or shotgun has been lost or stolen or has become inoperative in such other State, from purchasing a rifle or shotgun in such other State from a licensed dealer if such person presents to such dealer a sworn statement (i) that his rifle or shotgun was lost or stolen or became inoperative while participating in such a match or contest, or while engaged in hunting, in such other State, and (ii) identifying the chief law enforcement officer of the locality in which such person resides, to whom such licensed dealer shall forward such statement by registered mail”.
+Subsec. (b)(3)(B), (C). Pub. L. 99–308, §102(4)(C), (D), inserted “and” before “(B)” and struck out cl. (C), which provided that par. (3) “shall not preclude any person who is participating in any organized rifle or shotgun match or contest, or is engaged in hunting, in a State other than his State of residence and whose rifle or shotgun has been lost or stolen or has become inoperative in such other State, from purchasing a rifle or shotgun in such other State from a licensed dealer if such person presents to such dealer a sworn statement (i) that his rifle or shotgun was lost or stolen or became inoperative while participating in such a match or contest, or while engaged in hunting, in such otherState, and (ii) identifying the chief law enforcement officer of the locality in which such person resides, to whom such licensed dealer shall forward such statement by registered mail”.
 
 Subsec. (b)(4). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
@@ -740,9 +740,9 @@ Subsec. (n). Pub. L. 99–308, §102(8), added subsec. (n).
 
 Subsec. (<i>o</i>). Pub. L. 99–308, §102(9), added subsec. (<i>o</i>).
 
-1982—Subsec. (b)(5). Pub. L. 97–377 inserted “except .22 caliber rimfire ammunition” after “or ammunition”.
+<b>1982</b>—Subsec. (b)(5). Pub. L. 97–377 inserted “except .22 caliber rimfire ammunition” after “or ammunition”.
 
-1968—Subsec. (a)(1). Pub. L. 90–618 reenacted par. (1) without change.
+<b>1968</b>—Subsec. (a)(1). Pub. L. 90–618 reenacted par. (1) without change.
 
 Subsec. (a)(2). Pub. L. 90–618 added licensed collectors to the enumerated list of licensees subject to the provisions of this chapter, struck out exemption for the shipment or transportation in interstate or foreign commerce for rifles or shotguns, and inserted exemption authorizing an individual to mail a lawfully owned firearm to the specified licensees for the sole purpose of repair or customizing.
 
@@ -1076,7 +1076,7 @@ Record defined.—For purposes of subparagraph (A), a record is the following:
 
 &emsp;&emsp;&emsp;“(iv) A record that identifies a person who has been adjudicated as a mental defective or committed to a mental institution, consistent with section 922(g)(4) of title 18, United States Code, and whose record is not protected from disclosure to the Attorney General under any provision of State or Federal law.
 
-&emsp;&emsp;&emsp;“(v) A record that is electronically available and that identifies a person who, as of the date ofsuch estimate, is subject to a court order described in section 922(g)(8) of title 18, United States Code.
+&emsp;&emsp;&emsp;“(v) A record that is electronically available and that identifies a person who, as of the date of such estimate, is subject to a court order described in section 922(g)(8) of title 18, United States Code.
 
 &emsp;&emsp;&emsp;“(vi) A record that is electronically available and that identifies a person convicted in any court of a misdemeanor crime of domestic violence, as defined in section 921(a)(33) of title 18, United States Code.
 
@@ -1106,7 +1106,7 @@ updates.—The State, on being made aware that the basis under which a record wa
 
 &emsp;&emsp;&emsp;“(i) update, correct, modify, or remove the record from any database that the Federal or State government maintains and makes available to the National Instant Criminal Background Check System, consistent with the rules pertaining to that database; and
 
-&emsp;&emsp;&emsp;“(ii) notify the Attorney General that such basis no longer applies so that the record system in which the record is maintained is kept up to date.
+&emsp;&emsp;&emsp;“(ii) notify the Attorney General that such basis no longer applies so that the record systemin which the record is maintained is kept up to date.
 
 &nbsp;&nbsp;The Attorney General upon receiving notice pursuant to clause (ii) shall ensure that the record in the National Instant Criminal Background Check System is updated, corrected, modified, or removed within 30 days of receipt.
 
@@ -1164,7 +1164,7 @@ Use of Grant Amounts.—Grants awarded to States or Indian tribes under this sec
 
 &emsp;“(6) collect and analyze data needed to demonstrate levels of State compliance with this Act; and
 
-&emsp;“(7) maintain the relief from disabilities program in accordance with section 105, but not less than 3percent, and no more than 10 percent of each grant shall be used for this purpose.
+&emsp;“(7) maintain the relief from disabilities program in accordance with section 105, but not less than 3 percent, and no more than 10 percent of each grant shall be used for this purpose.
 
 “(c)
 
@@ -1184,7 +1184,7 @@ In general.—There are authorized to be appropriated to carry out this section 
 
 &emsp;“(2)
 
-Allocations.—For fiscal years 2009 and 2010, the Attorney General shall endeavor to allocate at least 1/2 of the authorized appropriations to those States providing more than 50 percent of the records required to be provided under sections 102 and 103. For fiscal years 2011, 2012, and 2013, the Attorney General shall endeavor to allocate at least 1/2 of the authorized appropriations to those States providing more than 70 percent of the records required to be provided under section 102 and 103. The allocations in this paragraph shall be subject to the discretion of the Attorney General, who shall have the authority to make adjustments to the distribution of the authorized appropriations as necessary to maximize incentives for State compliance.
+Allocations.—For fiscal years 2009 and 2010, the Attorney General shall endeavor to allocate at least ½ of the authorized appropriations to those States providing more than 50 percent of the records required to be provided under sections 102 and 103. For fiscal years 2011, 2012, and 2013, the Attorney General shall endeavor to allocate at least ½ of the authorized appropriations to those States providing more than 70 percent of the records required to be provided under section 102 and 103. The allocations in this paragraph shall be subject to the discretion of the Attorney General, who shall have the authority to make adjustments to the distribution of the authorized appropriations as necessary to maximize incentives for State compliance.
 
 “(f)
 
@@ -1264,7 +1264,7 @@ Regulations.—The Attorney General, at his or her discretion, shall promulgate 
 
 “(a)
 
-Evaluation Required.—The Director of the Bureau of Justice Statistics (referred to in this section asthe ‘Director’) shall study and evaluate the operations of the National Instant Criminal Background Check System. Such study and evaluation shall include compilations and analyses of the operations and record systems of the agencies and organizations necessary to support such System.
+Evaluation Required.—The Director of the Bureau of Justice Statistics (referred to in this section as the ‘Director’) shall study and evaluate the operations of the National Instant Criminal Background Check System. Such study and evaluation shall include compilations and analyses of the operations and record systems of the agencies and organizations necessary to support such System.
 
 “(b)
 
@@ -1284,7 +1284,7 @@ Authorization of Appropriations.—There are authorized to be appropriated such 
 
 “(a)
 
-Grants Authorized.—From amounts made available to carry out this section, the Attorney General shall make grants to each State, consistent with State plans for the integration, automation, and accessibility of criminal history records, for use by the State court system to improve the automation and transmittal of criminal history dispositions, records relevant to determining whether a person has been convicted of a misdemeanor crime of domestic violence, court orders, and mental health adjudications or commitments, to Federal and State record repositories in accordance with sections 102 and 103 and the National Criminal History Improvement Program.
+Grants Authorized.—From amounts made available to carry out this section, the Attorney General shall make grants to each State, consistent with State plans for the integration, automation, and accessibility of criminal history records, for use by the State court system to improve the automation and transmittal of criminal history dispositions, records relevant to determining whether a person has been convicted of a misdemeanor crime of domestic violence, court orders, and mental health adjudications or commitments, toFederal and State record repositories in accordance with sections 102 and 103 and the National Criminal History Improvement Program.
 
 “(b)
 
@@ -1388,7 +1388,7 @@ Other authority.—The Attorney General shall develop such computer software, de
 
 “(f)
 
-Written Reasons Provided on Request.—If the national instant criminal background check system determines that an individual is ineligible to receive a firearm and the individual requests the system to provide the reasons for the determination, the system shall provide such reasons to the individual, in writing, within 5 business days after the date of the request.
+Written Reasons Provided on Request.—If the national instant criminal background check system determines that an individual is ineligible to receive a firearm and the individual requests the system to provide the reasons for the determination, the systemshall provide such reasons to the individual, in writing, within 5 business days after the date of the request.
 
 “(g)
 
@@ -1454,7 +1454,7 @@ Identification of Felons Ineligible To Purchase Handguns.—The Attorney General
 
 “(b)
 
-Report to Congress.—Not later than 1 year after the date of the enactment of this Act \[Nov. 18, 1988\], the Attorney General shall report to the Congressa description of the system referred to in subsection (a) and a plan (including a cost analysis of the proposed system) for implementation of the system. Such report may include, if appropriate, recommendations for modifications of the system and legislation necessary in order to fully implement such system.
+Report to Congress.—Not later than 1 year after the date of the enactment of this Act \[Nov. 18, 1988\], the Attorney General shall report to the Congress a description of the system referred to in subsection (a) and a plan (including a cost analysis of the proposed system) for implementation of the system. Such report may include, if appropriate, recommendations for modifications of the system and legislation necessary in order to fully implement such system.
 
 “(c)
 
@@ -1466,7 +1466,7 @@ Definitions.—As used in this section, the terms ‘firearm’ and ‘dealer’
 
 #### Studies To Identify Equipment Capable of Distinguishing Security Exemplar From Other Metal Objects Likely To Be Carried on One's Person
 
-Section 2(e) of Pub. L. 100–649 provided that: “The Attorney General, the Secretary of the Treasury, and the Secretary of Transportation shall each conduct studies to identify available state-of-the-art equipment capable of detecting the Security Exemplar (as defined in section 922(p)(2)(C) of title 18, United States Code) and distinguishing the Security Exemplar from innocuous metal objects likely to be carried on one's person. Such studies shall be completed within 6 months after the date of the enactment of this Act \[Nov. 10, 1988\] and shall include a schedule providing for the installation of such equipment at the earliest practicable time at security checkpoints maintained or regulated by the agency conducting the study. Such equipment shall be installed in accordance with each schedule. In addition, such studies may include recommendations, where appropriate, concerning the use of secondary security equipment and procedures to enhance detection capability at security checkpoints.”
+Section 2(e) of Pub. L. 100–649 provided that: “The Attorney General, the Secretary of the Treasury, and the Secretary of Transportation shall each conduct studies to identify available state-of-the-art equipment capable of detecting the Security Exemplar (as defined in section 922(p)(2)(C) of title 18, United States Code) and distinguishing the Security Exemplar from innocuous metal objects likely to be carried on one's person. Such studies shall be completed within 6 months after the date of the enactment of this Act \[Nov. 10, 1988\] and shall include a schedule providing for the installation of such equipment at the earliest practicable time at security checkpoints maintained or regulated by the agency conducting the study. Such equipment shall beinstalled in accordance with each schedule. In addition, such studies may include recommendations, where appropriate, concerning the use of secondary security equipment and procedures to enhance detection capability at security checkpoints.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed with “and”.</i>
 

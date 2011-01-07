@@ -2,7 +2,7 @@
 
 Section 1651, Pub. L. 97–300, title III, §301, as added Pub. L. 100–418, title VI, §6302(a), Aug. 23, 1988, 102 Stat. 1524, defined terms.
 
-A prior section 1651, Pub. L. 97–300, title III, §301, Oct. 13, 1982, 96 Stat. 1364; Pub. L. 99–496, §10, Oct. 16, 1986,100 Stat. 1264, related to allocation of funds, prior to the general revision of this subchapter by Pub. L. 100–418.
+A prior section 1651, Pub. L. 97–300, title III, §301, Oct. 13, 1982, 96 Stat. 1364; Pub. L. 99–496, §10, Oct. 16, 1986, 100 Stat. 1264, related to allocation of funds, prior to the general revision of this subchapter by Pub. L. 100–418.
 
 Section 1652, Pub. L. 97–300, title III, §302, as added Pub. L. 100–418, title VI, §6302(a), Aug. 23, 1988, 102 Stat. 1525; amended Pub. L. 102–367, title I, §102(b), title VII, §702(a)(11), Sept. 7, 1992, 106 Stat. 1024, 1112, related to allotment.
 

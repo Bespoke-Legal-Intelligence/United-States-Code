@@ -56,7 +56,7 @@ In this subchapter:
 
 #### (8) Hazardous substance
 
-&emsp;The term “hazardous substance” has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601).
+&emsp;The term “hazardous substance” has the meaning given the term in section 101 of the Comprehensive Environmental Response,Compensation, and Liability Act of 1980 (42 U.S.C. 9601).
 
 #### (9) Person
 

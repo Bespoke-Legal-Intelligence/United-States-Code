@@ -34,7 +34,7 @@ In the case of penalties and interest attributable to additional taxes described
 
 #### Amendments
 
-1997—Subsec. (a)(2). Pub. L. 105–34 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Paragraph (1) shall not apply if the decedent otherwise directs by will.”
+<b>1997</b>—Subsec. (a)(2). Pub. L. 105–34 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Paragraph (1) shall not apply if the decedent otherwise directs by will.”
 
 #### Effective Date of 1997 Amendment
 

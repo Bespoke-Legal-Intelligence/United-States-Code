@@ -26,7 +26,7 @@ A teacher certification program under subsection (b) of this section shall—
 
 #### (1) In general
 
-&emsp;A State educational agency or institution of higher education (or a consortium of State educational agencies or institutions of higher education) that desires to enter into a memorandum under subsection (b) of this section shall prepare and submit to the Secretary a proposal, at such time, in such manner, and containing such information as the Secretary may require, including an assurance that the State educational agency, institution, or consortium is operating a program leading to State approved teacher certification.
+&emsp;A State educational agency or institution of higher education (or a consortium of Stateeducational agencies or institutions of higher education) that desires to enter into a memorandum under subsection (b) of this section shall prepare and submit to the Secretary a proposal, at such time, in such manner, and containing such information as the Secretary may require, including an assurance that the State educational agency, institution, or consortium is operating a program leading to State approved teacher certification.
 
 #### (2) Preference
 

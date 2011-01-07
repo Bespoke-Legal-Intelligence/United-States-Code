@@ -26,7 +26,7 @@ When used in this chapter—
 
 > &emsp;if individuals described in clauses (A) through (F) are subject to coverage under a State workers’ compensation law.
 
-&emsp;(4) The term “employer” means an employer any of whose employees are employed in maritime employment, in whole or in part, upon the navigable waters of the United States (including any adjoining pier, wharf, dry dock, terminal, building way, marine railway, or other adjoining area customarily used by an employer in loading, unloading, repairing, or building a vessel).
+&emsp;(4) The term “employer” means an employer any of whose employees are employed in maritime employment, in whole or in part, upon the navigable waters of the United States (including any adjoining pier, wharf, dry dock, terminal, building way, marine railway, or other adjoining area customarily used by anemployer in loading, unloading, repairing, or building a vessel).
 
 &emsp;(5) The term “carrier” means any person or fund authorized under section 932 of this title to insure under this chapter and includes self-insurers.
 
@@ -70,7 +70,7 @@ When used in this chapter—
 
 &emsp;(20) The term “Board” shall mean the Benefits Review Board.
 
-&emsp;(21) Unless the context requires otherwise, the term “vessel” means any vessel upon which or in connection with which any person entitled to benefits under this chapter suffers injury or death arising out of or in the course of his employment, and said vessel's owner, owner pro hac vice, agent, operator, charter or bare boat charterer, master, officer, or crew member.
+&emsp;(21) Unless the context requires otherwise, the term “vessel” means any vessel uponwhich or in connection with which any person entitled to benefits under this chapter suffers injury or death arising out of or in the course of his employment, and said vessel's owner, owner pro hac vice, agent, operator, charter or bare boat charterer, master, officer, or crew member.
 
 &emsp;(22) The singular includes the plural and the masculine includes the feminine and neuter.
 
@@ -82,11 +82,11 @@ The phrase “a student as defined in paragraph (19) of this section”, referre
 
 #### Amendments
 
-2009—Par. (3)(F). Pub. L. 111–5, §803(2), substituted “, or individuals employed to repair any recreational vessel, or to dismantle any part of a recreational vessel in connection with the repair of such vessel;” for semicolon at end.
+<b>2009</b>—Par. (3)(F). Pub. L. 111–5, §803(2), substituted “, or individuals employed to repair any recreational vessel, or to dismantle any part of a recreational vessel in connection with the repair of such vessel;” for semicolon at end.
 
 Pub. L. 111–5, §803(1), which directed the striking out of “, repair or dismantle”, was executed by striking out “, repair, or dismantle” after “build” to reflect the probable intent of Congress.
 
-1984—Par. (3). Pub. L. 98–426, §2(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘employee’ means any person engaged in maritime employment, including any longshoreman or other person engaged in longshoring operations, and any harborworker including a ship repairman, shipbuilder, and shipbreaker, but such term does not include a master or member of a crew of any vessel, or any person engaged by the master to load or unload or repair any small vessel under eighteen tons net.”
+<b>1984</b>—Par. (3). Pub. L. 98–426, §2(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘employee’ means any person engaged in maritime employment, including any longshoreman or other person engaged in longshoring operations, and any harborworker including a ship repairman, shipbuilder, and shipbreaker, but such term does not include a master or member of a crew of any vessel, or any person engaged by the master to load or unload or repair any small vessel under eighteen tons net.”
 
 Par. (6). Pub. L. 98–426, §27(a)(1), substituted “The term ‘Secretary’ means the Secretary of Labor” for “The term ‘commission’ means the United States Employees’ Compensation Commission”.
 
@@ -96,7 +96,7 @@ Par. (13). Pub. L. 98–426, §2(c), amended par. (13) generally. Prior to amend
 
 Par. (21). Pub. L. 98–426, §5(a)(2), substituted “Unless the context requires otherwise, the” for “The”.
 
-1972—Par. (3). Pub. L. 92–576, §2(a), defined “employee” to mean any person engaged in maritime employment, including any longshoreman or other person engaged in longshoring operations, and any harborworker including a ship repairman, shipbuilder, and shipbreaker and substituted “or” for “nor” before “any person engaged by the master”.
+<b>1972</b>—Par. (3). Pub. L. 92–576, §2(a), defined “employee” to mean any person engaged in maritime employment, including any longshoreman or other person engaged in longshoring operations, and any harborworker including a ship repairman, shipbuilder, and shipbreaker and substituted “or” for “nor” before “any person engaged by the master”.
 
 Par. (4). Pub. L. 92–576, §2(b), defined “employer” to include an employer any of whose employees are employed in maritime employment upon the navigable waters of the United States, including any adjoining pier, wharf, dry dock, terminal, building way, marine railway, or other adjoining area customarily used by an employer in loading, unloading, repairing, or building a vessel.
 
@@ -116,7 +116,7 @@ Par. (21). Pub. L. 92–576, §§18(b), 20(c)(1), added par. (22) definition of 
 
 Par. (22). Pub. L. 92–576, §§3(a), 5(b), 15(c), 18(b), 20(c)(1), redesignated former par. (19) definition of “singular” as pars. (20), (21), (22), (23), and (22) again. Former par. (22) definition of “vessel” redesignated par. (21).
 
-1938—Par. (14). Act June 25, 1938, included within definition of child, “a child in relation to whom the deceased employee stood in loco parentis for at least one year prior to the time of injury” and within definition of child, grandchild, brother, and sister “persons who though eighteen years of age or over, are wholly dependent upon the deceased employee and incapable of self-support by reason of mental or physical disability”.
+<b>1938</b>—Par. (14). Act June 25, 1938, included within definition of child, “a child in relation to whom the deceased employee stood in loco parentis for at least one year prior to the time of injury” and within definition of child, grandchild, brother, and sister “persons who though eighteen years of age or over, are wholly dependent upon the deceased employee and incapable of self-support by reason of mental or physical disability”.
 
 #### Effective Date of 1984 Amendment
 
@@ -130,5 +130,5 @@ Section 22 of Pub. L. 92–576 provided that: “The amendments made by this Act
 
 #### Transfer of Functions
 
-Prior to the amendment of this chapter by Pub. L. 98–426 the word “Secretary” meaning the Secretary of Labor had been substituted for the word “commission” meaning the United States Employees’ Compensation Commission throughout this chapter even when not expressly so directed by statute in view of the transfer of the functions of the commission first to the Federal Security Administrator by Reorg. Plan No. 2 of 1946, §3, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, and later to the Secretary of Labor by Reorg. Plan No. 19 of 1950, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271. Where such substitution had thus been made the statutory substitution of terms by Pub. L. 98–426 required no change in text.
+Prior to the amendment of this chapter by Pub. L. 98–426 the word “Secretary” meaning the Secretary of Labor had been substituted for the word “commission” meaning the United States Employees’ CompensationCommission throughout this chapter even when not expressly so directed by statute in view of the transfer of the functions of the commission first to the Federal Security Administrator by Reorg. Plan No. 2 of 1946, §3, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, and later to the Secretary of Labor by Reorg. Plan No. 19 of 1950, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271. Where such substitution had thus been made the statutory substitution of terms by Pub. L. 98–426 required no change in text.
 

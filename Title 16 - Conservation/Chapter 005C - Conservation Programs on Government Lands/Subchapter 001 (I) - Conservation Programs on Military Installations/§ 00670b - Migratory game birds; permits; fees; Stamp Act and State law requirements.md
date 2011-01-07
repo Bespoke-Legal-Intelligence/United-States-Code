@@ -12,7 +12,7 @@ Public Law 85–337, referred to in text, is Pub. L. 85–337, Feb. 28, 1958, 72
 
 #### Amendments
 
-1997—Pub. L. 105–85 substituted “military installations” for “military reservations” and “an integrated natural resources management plan” for “a cooperative plan”.
+<b>1997</b>—Pub. L. 105–85 substituted “military installations” for “military reservations” and “an integrated natural resources management plan” for “a cooperative plan”.
 
-1974—Pub. L. 93–452, §3(3), substituted “title” for “Act” which for purposes of codification was translated as “subchapter”.
+<b>1974</b>—Pub. L. 93–452, §3(3), substituted “title” for “Act” which for purposes of codification was translated as “subchapter”.
 

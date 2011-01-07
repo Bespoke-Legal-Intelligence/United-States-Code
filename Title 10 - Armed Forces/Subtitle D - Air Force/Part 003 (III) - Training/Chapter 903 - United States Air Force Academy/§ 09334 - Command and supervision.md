@@ -32,7 +32,7 @@ In subsection (b), reference to assimilated rank is omitted as superseded by sec
 
 #### Amendments
 
-1989—Subsec. (b). Pub. L. 101–189 substituted “director of admissions” for “registrar”.
+<b>1989</b>—Subsec. (b). Pub. L. 101–189 substituted “director of admissions” for “registrar”.
 
-1958—Subsec. (b). Pub. L. 85–600 inserted reference to registrar.
+<b>1958</b>—Subsec. (b). Pub. L. 85–600 inserted reference to registrar.
 

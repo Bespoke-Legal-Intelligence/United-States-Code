@@ -54,17 +54,17 @@ The date of the enactment of this section, referred to in subsec. (e), is the da
 
 #### Amendments
 
-2007—Subsec. (h). Pub. L. 110–150 substituted “2011” for “2007”.
+<b>2007</b>—Subsec. (h). Pub. L. 110–150 substituted “2011” for “2007”.
 
-2005—Subsec. (h). Pub. L. 109–100 substituted “2007” for “2005”.
+<b>2005</b>—Subsec. (h). Pub. L. 109–100 substituted “2007” for “2005”.
 
-2004—Subsec. (h). Pub. L. 108–199 substituted “2005” for “2003”.
+<b>2004</b>—Subsec. (h). Pub. L. 108–199 substituted “2005” for “2003”.
 
-2001—Subsec. (b). Pub. L. 107–67, §650(c), substituted “of not less than 15 percent” for “of not to exceed 25 percent” in par. (1) and inserted at end of concluding provisions “The special rate of postage of an individual stamp under this section shall be an amount that is evenly divisible by 5.”
+<b>2001</b>—Subsec. (b). Pub. L. 107–67, §650(c), substituted “of not less than 15 percent” for “of not to exceed 25percent” in par. (1) and inserted at end of concluding provisions “The special rate of postage of an individual stamp under this section shall be an amount that is evenly divisible by 5.”
 
 Subsec. (g), (h). Pub. L. 107–67, §650(b)(1), added subsecs. (g) and (h) and struck out former subsec. (g) which read as follows: “This section shall cease to be effective after July 29, 2002, or the end of the 2-year period beginning on the date of the enactment of the Semipostal Authorization Act, whichever is later.”
 
-2000—Subsec. (g). Pub. L. 106–253 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “This section shall cease to be effective at the end of the 2-year period beginning on the date on which special postage stamps under this section are first made available to the public.”
+<b>2000</b>—Subsec. (g). Pub. L. 106–253 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “This section shall cease to be effective at the end of the 2-year period beginning on the date on which special postage stamps under this section are first made available to the public.”
 
 #### Effective Date of 2001 Amendment
 

@@ -6,11 +6,11 @@ Nothing in this chapter shall affect the jurisdiction or responsibilities of the
 
 #### (b) Compensation for water rights
 
-The jurisdiction of the States and the United States over waters of any stream included in a national wild, scenic or recreation river area shall be determined by established principles of law. Under the provisions of this chapter, any taking by the United States of a water right which is vested under either State or Federal law at the time such river is included in the national wild and scenic rivers system shall entitle the owner thereof to just compensation. Nothing in this chapter shall constitute an express or implied claim or denial on the part of the Federal Government as to exemption from State water laws.
+The jurisdiction of the States and the United States over waters of any stream included in a national wild, scenic or recreational river area shall be determined by established principles of law. Under the provisions of this chapter, any taking by the United States of a water right which is vested under either State or Federal law at the time such river is included in the national wild and scenic rivers system shall entitle the owner thereof to just compensation. Nothing in this chapter shall constitute an express or implied claim or denial on the part of the Federal Government as to exemption from State water laws.
 
 #### (c) Reservation of waters for other purposes or in unnecessary quantities prohibited
 
-Designation of any stream or portion thereof as a national wild, scenic or recreational riverarea shall not be construed as a reservation of the waters of such streams for purposes other than those specified in this chapter, or in quantities greater than necessary to accomplish these purposes.
+Designation of any stream or portion thereof as a national wild, scenic or recreational river area shall not be construed as a reservation of the waters of such streams for purposes other than those specified in this chapter, or in quantities greater than necessary to accomplish these purposes.
 
 #### (d) State jurisdiction over included streams
 

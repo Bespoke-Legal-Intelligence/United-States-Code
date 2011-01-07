@@ -34,9 +34,9 @@ The words “the Chief of Ordnance” are omitted, since the functions which, fo
 
 #### Amendments
 
-2002—Pub. L. 107–217 substituted “section 121 of title 40” for “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)” in introductory provisions.
+<b>2002</b>—Pub. L. 107–217 substituted “section 121 of title 40” for “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)” in introductory provisions.
 
-1980—Pub. L. 96–513 substituted “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)” for “section 486 of title 40”.
+<b>1980</b>—Pub. L. 96–513 substituted “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)” for “section 486 of title 40”.
 
 #### Effective Date of 1980 Amendment
 

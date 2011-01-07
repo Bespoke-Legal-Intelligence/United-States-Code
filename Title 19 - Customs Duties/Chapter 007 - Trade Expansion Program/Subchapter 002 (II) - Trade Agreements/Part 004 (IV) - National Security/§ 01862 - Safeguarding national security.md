@@ -96,7 +96,7 @@ Subsection (d)(2), which required the President to submit an annual report to Co
 
 #### Amendments
 
-1988—Subsec. (b). Pub. L. 100–418, §1501(a)(3), in adding subsec. (b) and striking out former subsec. (b) relating to similar subject matter, changed structure of subsec. (b) from a single unnumbered par. to one consisting of pars. (1) to (4).
+<b>1988</b>—Subsec. (b). Pub. L. 100–418, §1501(a)(3), in adding subsec. (b) and striking out former subsec. (b) relating to similar subject matter, changed structure of subsec. (b) from a single unnumbered par. to one consisting of pars. (1) to (4).
 
 Subsec. (c). Pub. L. 100–418, §1501(a)(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
@@ -110,9 +110,9 @@ Pub. L. 100–418, §1501(a)(2), redesignated subsec. (d), relating to reports o
 
 Subsec. (f). Pub. L. 100–418, §1501(a)(1), (2), redesignated subsec. (e) as (f), and substituted reference to subsec. (c) of this section for reference to subsec. (b) of this section in pars. (1) and (2)(B).
 
-1980—Subsec. (e). Pub. L. 96–223 added subsec. (e).
+<b>1980</b>—Subsec. (e). Pub. L. 96–223 added subsec. (e).
 
-1975—Subsec. (b). Pub. L. 93–618, §127(d)(1)–(3), substituted “Secretary of the Treasury (hereinafter referred to as the ‘Secretary’)” for “Director of the Office of Emergency Planning (hereinafter in this section referred to as the ‘Director’)”, substituted “advice from, and shall consult with, the Secretary of Defense, the Secretary of Commerce, and other appropriate officers of the United States” for “advice from other appropriate departments and agencies”, inserted provision for public hearings by the Secretary as part of his investigation, inserted requirement that the Secretary report to the President when he recommends inaction in the same way that a report to the President is required when he recommends action under this section, and placed a 1-year time limit on the Secretary's investigation before making his recommendation to the President.
+<b>1975</b>—Subsec. (b). Pub. L. 93–618, §127(d)(1)–(3), substituted “Secretary of the Treasury (hereinafter referred to as the ‘Secretary’)” for “Director of the Office of Emergency Planning (hereinafter in this section referred to as the ‘Director’)”, substituted “advice from, and shall consult with, the Secretary of Defense, the Secretary of Commerce, and other appropriate officers of the United States” for “advice from other appropriate departments and agencies”, inserted provision for public hearings by the Secretary as part of his investigation, inserted requirement that the Secretary report to the President when he recommends inaction in the same way that a report to the President is required when he recommends action under this section, and placed a 1-year time limit on the Secretary's investigation before making his recommendation to the President.
 
 Subsecs. (c), (d). Pub. L. 93–618, §127(d)(4), substituted “Secretary” for “Director”.
 

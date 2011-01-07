@@ -10,5 +10,5 @@ The Natural Gas Policy Act of 1978, referred to in text, is Pub. L. 95–621, No
 
 #### Amendments
 
-1998—Pub. L. 105–388 substituted “(15 U.S.C. 717c” for “(17 U.S.C. 717c”.
+<b>1998</b>—Pub. L. 105–388 substituted “(15 U.S.C. 717c” for “(17 U.S.C. 717c”.
 

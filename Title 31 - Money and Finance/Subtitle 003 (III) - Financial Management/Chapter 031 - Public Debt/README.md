@@ -39,7 +39,7 @@
 
 #### Amendments
 
-1993—Pub. L. 103–202, title II, §201(b), Dec. 17, 1993, 107 Stat. 2356, added item 3130.
+<b>1993</b>—Pub. L. 103–202, title II, §201(b), Dec. 17, 1993, 107 Stat. 2356, added item 3130.
 
 
 ---

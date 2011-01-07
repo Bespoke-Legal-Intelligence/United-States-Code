@@ -22,7 +22,7 @@ Section 764 permits the trustee to void any transfer of property that, except fo
 
 #### house report no. 95–595
 
-Section 764 indicates the extent to which the avoiding powers may be used by the trustee under subchapter IV of chapter 7. If property recovered would have been customer property if never transferred, thensubsection (a) indicates that it will be so treated when recovered.
+Section 764 indicates the extent to which the avoiding powers may be used by the trustee under subchapter IV of chapter 7. If property recovered would have been customer property if never transferred, then subsection (a) indicates that it will be so treated when recovered.
 
 Subsection (b) prohibits avoiding any transaction that occurs before or within five days after the petition if the transaction is approved by the Commission and concerns an open contractual commitment. This enables the Commission to exercise its discretion to protect the integrity of the market by insuring that transactions cleared with other brokers will not be undone on a preference or a fraudulent transfer theory.
 

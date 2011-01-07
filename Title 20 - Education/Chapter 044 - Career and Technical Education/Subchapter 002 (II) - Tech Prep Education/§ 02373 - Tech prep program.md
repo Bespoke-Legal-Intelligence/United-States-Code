@@ -182,5 +182,5 @@ Another prior section 203 of Pub. L. 88–210 was classified to section 2333 of 
 
 #### Amendments
 
-2008—Subsec. (a)(1)(B)(i)(I)(bb)(AA). Pub. L. 110–315 substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
+<b>2008</b>—Subsec. (a)(1)(B)(i)(I)(bb)(AA). Pub. L. 110–315 substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
 

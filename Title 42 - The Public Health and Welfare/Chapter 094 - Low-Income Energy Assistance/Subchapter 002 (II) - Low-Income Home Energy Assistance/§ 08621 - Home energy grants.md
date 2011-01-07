@@ -32,9 +32,9 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 
 #### Amendments
 
-2005—Subsec. (b). Pub. L. 109–58 substituted “and $5,100,000,000 for each of fiscal years 2005 through 2007” for “and $2,000,000,000 for each of fiscal years 2002 through 2004”.
+<b>2005</b>—Subsec. (b). Pub. L. 109–58 substituted “and $5,100,000,000 for each of fiscal years 2005 through 2007” for “and $2,000,000,000 for each of fiscal years 2002 through 2004”.
 
-1998—Subsec. (b). Pub. L. 105–285, §302(a), inserted “, such sums as may be necessary for each of fiscal years 2000 and 2001, and $2,000,000,000 for each of fiscal years 2002 through 2004” after “1995 through 1999”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–285, §302(a), inserted “, such sums as may be necessary for each of fiscal years 2000 and 2001, and $2,000,000,000 for each of fiscal years 2002 through 2004” after “1995 through 1999”.
 
 Subsec. (c). Pub. L. 105–285, §302(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
@@ -48,9 +48,9 @@ Subsec. (d). Pub. L. 105–285, §302(c), designated existing provisions as par.
 
 Subsec. (e). Pub. L. 105–285, §302(d), substituted “There is authorized” for “There are authorized” and “(other than subsection (e) of such section)” for “(other than subsection (g))”.
 
-1994—Subsec. (a). Pub. L. 103–252, §302, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of Health and Human Services is authorized to make grants, in accordance with the provisions of this subchapter, to States to assist eligible households to meet the costs of home energy.”
+<b>1994</b>—Subsec. (a). Pub. L. 103–252, §302, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of Health and Human Services is authorized to make grants, in accordance with the provisions of this subchapter, to States to assist eligible households to meet the costs of home energy.”
 
-Subsec. (b). Pub. L. 103–252, §§303(a)(1), 311(c)(1)(A), substituted “this subchapter (other than section 8626a of this title), $2,000,000,000 for each of fiscal years 1995 through 1999” for “this subchapter (other than section 8626a of this title) $2,307,000,000 for fiscal year 1990, $2,150,000,000 for fiscal year 1991, $2,230,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993, 1994, and 1995” and struck out second period at end.
+Subsec. (b). Pub. L. 103–252, §§303(a)(1), 311(c)(1)(A), substituted “this subchapter (other than section 8626a of this title), $2,000,000,000 for each of fiscal years 1995 through 1999” for “this subchapter (other than section 8626a of this title) $2,307,000,000 for fiscal year 1990,$2,150,000,000 for fiscal year 1991, $2,230,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993, 1994, and 1995” and struck out second period at end.
 
 Subsec. (c)(1). Pub. L. 103–252, §311(c)(1)(B), made technical amendment to reference to this subchapter to correct reference to corresponding provision of original act.
 
@@ -60,11 +60,11 @@ Subsec. (d). Pub. L. 103–252, §303(b), amended subsec. (d) generally. Prior t
 
 Subsec. (e). Pub. L. 103–252, §304(a), added subsec. (e).
 
-1993—Subsec. (b). Pub. L. 103–43, §2011(1), substituted “1993, 1994, and 1995” for “1993 and 1994”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–43, §2011(1), substituted “1993, 1994, and 1995” for “1993 and 1994”.
 
 Subsec. (d). Pub. L. 103–43, §2011(2), substituted “for each of the fiscal years 1993, 1994, and 1995” for “in each of the fiscal years 1993 and 1994”.
 
-1990—Subsec. (b). Pub. L. 101–501, §707(b)(1), which directed the amendment of this section by inserting “(other than section 8626a of this title)” after “subchapter”, was executed to subsec. (b) to reflect the probable intent of Congress.
+<b>1990</b>—Subsec. (b). Pub. L. 101–501, §707(b)(1), which directed the amendment of this section by inserting “(other than section 8626a of this title)” after “subchapter”, was executed to subsec. (b) to reflect the probable intent of Congress.
 
 Pub. L. 101–501, §702, struck out “$2,050,000,000 for fiscal year 1987, $2,132,000,000 for fiscal year 1988, $2,218,000,000 for fiscal year 1989, and” before “$2,307,000,000” and inserted “, $2,150,000,000 for fiscal year 1991, $2,230,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 and 1994. The authorizations of appropriations contained in this subsection are subject to the program year provisions of subsection (c) of this section.” after “1990”.
 
@@ -72,9 +72,9 @@ Subsec. (c). Pub. L. 101–501, §701, added subsec. (c).
 
 Subsec. (d). Pub. L. 101–501, §707(b)(2), added subsec. (d).
 
-1986—Subsec. (b). Pub. L. 99–425 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There is authorized to be appropriated to carry out the provisions of this subchapter $2,140,000,000 for the fiscal year 1985, and $2,275,000,000 for the fiscal year 1986.”
+<b>1986</b>—Subsec. (b). Pub. L. 99–425 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There is authorized to be appropriated to carry out the provisions of this subchapter $2,140,000,000 for the fiscal year 1985, and $2,275,000,000 for the fiscal year 1986.”
 
-1984—Subsec. (b). Pub. L. 98–558 substituted “$2,140,000,000 for fiscal year 1985, and $2,275,000,000 for fiscal year 1986” for “$1,875,000,000 for each of fiscal years 1982, 1983, and 1984”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–558 substituted “$2,140,000,000 for fiscal year 1985, and $2,275,000,000 for fiscal year 1986” for “$1,875,000,000 for each of fiscal years 1982, 1983, and 1984”.
 
 #### Effective Date of 1994 Amendment
 

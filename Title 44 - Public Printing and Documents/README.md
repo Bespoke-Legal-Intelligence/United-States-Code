@@ -1,5 +1,5 @@
 
-44 U.S.C.<br>United States Code, 2009 Edition<br>Title 44 - PUBLIC PRINTING AND DOCUMENTS<br>From the U.S. Government Publishing Office, www.gpo.gov
+44 U.S.C.<br>United States Code, 2010 Edition<br>Title 44 - PUBLIC PRINTING AND DOCUMENTS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 44—PUBLIC PRINTING AND DOCUMENTS
 
@@ -35,23 +35,23 @@
 
 #### Amendments
 
-2002—Pub. L. 107–347, title I, §101(b), Dec. 17, 2002, 116 Stat. 2910, added item 36.
+<b>2002</b>—Pub. L. 107–347, title I, §101(b), Dec. 17, 2002, 116 Stat. 2910, added item 36.
 
-1993—Pub. L. 103–40, §2(b), June 8, 1993, 107 Stat. 113, added item 41.
+<b>1993</b>—Pub. L. 103–40, §2(b), June 8, 1993, 107 Stat. 113, added item 41.
 
-1990—Pub. L. 101–509, title IV, §1(d)(2), Nov. 5, 1990, 104 Stat. 1419, added item 27.
+<b>1990</b>—Pub. L. 101–509, title IV, §1(d)(2), Nov. 5, 1990, 104 Stat. 1419, added item 27.
 
-1988—Pub. L. 100–504, title II, §204, Oct. 18, 1988, 102 Stat. 2531, added item 39.
+<b>1988</b>—Pub. L. 100–504, title II, §204, Oct. 18, 1988, 102 Stat. 2531, added item 39.
 
-1984—Pub. L. 98–497, title I, §§102(c)(2), 107(b)(18)(B), Oct. 19, 1984, 98 Stat. 2283, 2290, substituted “National Archives and Records Administration” for “Archival Administration” in item 21, and inserted “the Archivist of the United States and by the” in item 29.
+<b>1984</b>—Pub. L. 98–497, title I, §§102(c)(2), 107(b)(18)(B), Oct. 19, 1984, 98 Stat. 2283, 2290, substituted “National Archives and Records Administration” for “Archival Administration” in item 21, and inserted “the Archivist of the United States and by the” in item 29.
 
-1980—Pub. L. 96–511, §2(b), Dec. 11, 1980, 94 Stat. 2825, substituted “Information Policy” for “Reporting Services” in item 35.
+<b>1980</b>—Pub. L. 96–511, §2(b), Dec. 11, 1980, 94 Stat. 2825, substituted “Information Policy” for “Reporting Services” in item 35.
 
-1978—Pub. L. 95–591, §2(b)(1), Nov. 4, 1978, 92 Stat. 2528, added item 22.
+<b>1978</b>—Pub. L. 95–591, §2(b)(1), Nov. 4, 1978, 92 Stat. 2528, added item 22.
 
 Pub. L. 95–378, §2(b), Sept. 22, 1978, 92 Stat. 723, struck out item 27 “Federal Records Council”.
 
-1974—Pub. L. 93–536, §2, Dec. 22, 1974, 88 Stat. 1735, substituted “National Historical Publications and Records Commission” for “National Historical Publications Commission” in item 25.
+<b>1974</b>—Pub. L. 93–536, §2, Dec. 22, 1974, 88 Stat. 1735, substituted “National Historical Publications and Records Commission” for “National Historical Publications Commission” in item 25.
 
 Table Showing Disposition of All Sections of Former Title 44
 

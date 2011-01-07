@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—There is in the Office of the Secretary of Defense an Office of Family Policy (hereinafter in this section referred to as the “Office”). The Office shall be under the Assistant Secretary of Defense for Force Management and Personnel.
+Establishment.—There is in the Director <sup>1</sup> of the Secretary of Defense an Office of Family Policy (hereinafter in this section referred to as the “Office”). The office <sup>2</sup> shall be headed by the Director of Family Policy, who shall serve within the office <sup>2</sup> of the Under Secretary of Defense for Personnel and Readiness.
 
 (b)
 
@@ -16,11 +16,19 @@ Duties.—The Office—
 
 Staff.—The Office shall have not less than five professional staff members.
 
-(Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 330.)
+(Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 330; amended Pub. L. 111–383, div. A, title IX, §901(h), Jan. 7, 2011, 124 Stat. 4323.)
 
 #### Prior Provisions
 
 Provisions similar to those in this subchapter were contained in Pub. L. 99–145, title VIII, Nov. 8, 1985, 99 Stat. 678, as amended, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 104–106, §568(e)(1).
+
+#### Amendments
+
+Subsec. (a). Pub. L. 111–383 substituted “the Director” for “the Office” before “of the Secretary” and “The office shall be headed by the Director of Family Policy, who shall serve within the office of the Under Secretary of Defense for Personnel and Readiness.” for “The Office shall be under the Assistant Secretary of Defense for Force Management and Personnel.”
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as a note under section 131 of this title.
 
 #### Establishment of Online Resources To Provide Information About Benefits and Services Available to Members of the Armed Forces and Their Families
 
@@ -76,7 +84,7 @@ Covered Benefits and Services.—The information provided through the online res
 
 “(c)
 
-Dissemination of Information on Availability on Online Resources.—The Secretaries of the military departments shall use public service announcements, publications, and such other announcements through the general media as the Secretaries consider appropriate to inform members of the Armed Forces andtheir families and the general public about the information available through the online resources established pursuant to subsection (a).
+Dissemination of Information on Availability on Online Resources.—The Secretaries of the military departments shall use public service announcements, publications, and such other announcements through the general media as the Secretaries consider appropriate to inform members of the Armed Forces and their families and the general public about the information available through the online resources established pursuant to subsection (a).
 
 “(d)
 
@@ -88,7 +96,7 @@ Pub. L. 110–181, div. A, title V, §587, Jan. 28, 2008, 122 Stat. 133, which r
 
 #### Joint Family Support Assistance Program
 
-Pub. L. 109–364, div. A, title VI, §675, Oct. 17, 2006, 120 Stat. 2273, provided that:
+Pub. L. 109–364, div. A, title VI, §675, Oct. 17, 2006, 120 Stat. 2273, as amended by Pub. L. 111–383, div. A, title V, §584, Jan. 7, 2011, 124 Stat. 4228, provided that:
 
 “(a)
 
@@ -108,7 +116,7 @@ Program Required.—The Secretary of Defense shall carry out a joint family supp
 
 “(b)
 
-Locations.—The Secretary of Defense shall carry out the program in not more than six areas of the United States selected by the Secretary. Up to three of the areas selected for the program shall be areas that are geographically isolated from military installations.
+Locations.—The Secretary of Defense shall carry out the program in not less than six areas of the United States selected by the Secretary. At least three of the areas selected for the program shall be areas that are geographically isolated from military installations.
 
 “(c)
 
@@ -160,7 +168,7 @@ Elements.—The report shall include the following:
 
 “(h)
 
-Duration.—The authority to carry out the program shall expire at the end of the three-year period beginning on the date on which funds are first obligated for the program.”
+Duration.—The authority to carry out the program shall expire on December 31, 2012.”
 
 #### Recognition of Military Families
 
@@ -191,4 +199,8 @@ Department of Defense Programs and Activities.—The Secretary of Defense shall�
 &emsp;“(2) focus the celebration of the American military family during a specific period of each year to give full and proper recognition to those families; and
 
 &emsp;“(3) seek the assistance and support of appropriate civilian organizations, associations, and other entities (A) in carrying out the annual celebration of the American military family, and (B) in sustaining other, longer-term efforts to support the American military family.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Office”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 

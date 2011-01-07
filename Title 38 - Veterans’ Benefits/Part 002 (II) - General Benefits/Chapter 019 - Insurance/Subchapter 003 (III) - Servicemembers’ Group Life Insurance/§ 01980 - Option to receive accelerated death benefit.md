@@ -2,7 +2,7 @@
 
 (a) For the purpose of this section, a person shall be considered to be terminally ill if the person has a medical prognosis such that the life expectancy of the person is less than a period prescribed by the Secretary. The maximum length of such period may not exceed 12 months.
 
-(b)(1) A terminally ill person insured under Servicemembers’ Group Life Insurance or Veterans’ Group Life Insurance may elect to receive in a lump-sum payment a portion of the face value of the insurance as an accelerated death benefit reduced by an amount necessary to assure that there is no increase in the actuarial value of the benefit paid, as determined by the Secretary.
+(b)(1) A terminally ill person insured under Servicemembers’ Group Life Insurance or Veterans’ Group Life Insurance may elect to receive in a lump-sum payment a portion of the face value of the insurance as an accelerated death benefit.
 
 (2) The Secretary shall prescribe the maximum amount of the accelerated death benefit available under this section that the Secretary finds to be administratively practicable and actuarially sound, but in no event may the amount of the benefit exceed the amount equal to 50 percent of the face value of the person's insurance in force on the date the election of the person to receive the benefit is approved.
 
@@ -26,7 +26,15 @@
 
 (h) Notwithstanding any other provision of law, the amount of the accelerated death benefit received by a person under this section shall not be considered income or resources for purposes of determining eligibility for or the amount of benefits under any Federal or federally-assisted program or for any other purpose.
 
-(Added Pub. L. 105–368, title III, §302(a)(1), Nov. 11, 1998, 112 Stat. 3332.)
+(Added Pub. L. 105–368, title III, §302(a)(1), Nov. 11, 1998, 112 Stat. 3332; amended Pub. L. 111–275, title IV, §405(a), Oct. 13, 2010, 124 Stat. 2880.)
+
+#### Amendments
+
+<b>2010</b>—Subsec. (b)(1). Pub. L. 111–275 struck out “reduced by an amount necessary to assure that there is no increase in the actuarial value of the benefit paid, as determined by the Secretary” after “death benefit”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–275, title IV, §405(b), Oct. 13, 2010, 124 Stat. 2880, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to a payment of an accelerated death benefit under section 1980 of title 38, United States Code, made on or after the date of the enactment of this Act \[Oct. 13, 2010\].”
 
 #### Effective Date
 

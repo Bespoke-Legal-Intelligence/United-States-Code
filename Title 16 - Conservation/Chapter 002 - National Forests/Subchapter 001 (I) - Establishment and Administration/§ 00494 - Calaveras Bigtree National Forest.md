@@ -10,7 +10,7 @@ A proviso of the section as originally enacted “That nothing contained in this
 
 #### Amendments
 
-1912—Act May 7, 1912, changed provisions of original act as to modes of reimbursement of owners of lands taken.
+<b>1912</b>—Act May 7, 1912, changed provisions of original act as to modes of reimbursement of owners of lands taken.
 
 #### Transfer of Lands in Calaveras Big Trees National Forest to State of California
 
@@ -40,7 +40,7 @@ Conveyance.—Subject to valid existing rights and the provisions of this Act, t
 
 “(b)
 
-Map and Description.—As soon as practicable after the enactment of this Act \[Oct. 17, 1990\], the Secretary shall submit a map and legal description of the lands referred to in subsection (a) to the Committee on Interior and Insular Affairs \[now Committee on Natural Resources\] of the United States House of Representatives, and the Committee on Energy and Natural Resources of the Senate. Such map and legal description shall have the same force and effect as if included inthis Act, except that any clerical or typographical errors in such map or legal description may be corrected. The Secretary shall place such map and legal description on file, and make them available for public inspection, in the Office of the Chief of the Forest Service.
+Map and Description.—As soon as practicable after the enactment of this Act \[Oct. 17, 1990\], the Secretary shall submit a map and legal description of the lands referred to in subsection (a) to the Committee on Interior and Insular Affairs \[now Committee on Natural Resources\] of the United States House of Representatives, and the Committee on Energy and Natural Resources of the Senate. Such map and legal description shall have the same force and effect as if included in this Act, except that any clerical or typographical errors in such map or legal description may be corrected. The Secretary shall place such map and legal description on file, and make them available for public inspection, in the Office of the Chief of the Forest Service.
 
 “(c)
 

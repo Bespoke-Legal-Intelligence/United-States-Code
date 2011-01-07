@@ -8,9 +8,9 @@
 
 > The existence of facts upon which the Secretary makes findings under clause (1) may be reviewed by any competent court.
 
-(b) This section does not apply to a contract that is for an amount not greater than the simplified acquisition threshold (as defined in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))).
+(b) This section does not apply to a contract that is for an amount not greater than the simplified acquisition threshold (as defined in section 134 of title 41).
 
-(Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 520; amended Pub. L. 104–106, div. A, title VIII, §801, Feb. 10, 1996, 110 Stat. 389.)
+(Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 520; amended Pub. L. 104–106, div. A, title VIII, §801, Feb. 10, 1996, 110 Stat. 389; Pub. L. 111–350, §5(b)(5), Jan. 4, 2011, 124 Stat. 3842.)
 
 Historical and Revision Notes
 
@@ -30,5 +30,7 @@ The following substitutions are made: “spent” for “expended”; “United 
 
 #### Amendments
 
-1996—Pub. L. 104–106 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>2011</b>—Subsec. (b). Pub. L. 111–350 substituted “section 134 of title 41” for “section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))”.
+
+<b>1996</b>—Pub. L. 104–106 designated existing provisions as subsec. (a) and added subsec. (b).
 

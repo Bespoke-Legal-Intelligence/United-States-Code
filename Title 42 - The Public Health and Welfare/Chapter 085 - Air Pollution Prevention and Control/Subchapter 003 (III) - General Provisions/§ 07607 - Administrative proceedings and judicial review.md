@@ -152,7 +152,7 @@ Another prior section 307 of act July 14, 1955, ch. 360, title III, formerly §1
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–549, §703, struck out par. (1) designation at beginning, inserted provisions authorizing issuance of subpoenas and administration of oaths for purposes of investigations, monitoring, reporting requirements, entries, compliance inspections, or administrative enforcement proceedings under this chapter, and struck out “or section 7521(b)(5)” after “section 7410(f)”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–549, §703, struck out par. (1) designation at beginning, inserted provisions authorizing issuance of subpoenas and administration of oaths for purposes of investigations, monitoring, reporting requirements, entries, compliance inspections, or administrative enforcement proceedings under this chapter, and struck out “or section 7521(b)(5)” after “section 7410(f)”.
 
 Subsec. (b)(1). Pub. L. 101–549, §706(2), which directed amendment of second sentence by striking “under section 7413(d) of this title” immediately before “under section 7419 of this title”, was executed by striking “under section 7413(d) of this title,” before “under section 7419 of this title”, to reflect the probable intent of Congress.
 
@@ -196,7 +196,7 @@ Subsec. (d)(1)(V). Pub. L. 101–549, §302(h), redesignated subpar. (U) as (V).
 
 Subsec. (h). Pub. L. 101–549, §108(p), added subsec. (h).
 
-1977—Subsec. (b)(1). Pub. L. 95–190 in text relating to filing of petitions for review in the United States Court of Appeals for the District of Columbia inserted provision respecting requirements under sections 7411 and 7412 of this title, and substituted provisions authorizing review of any rule issued under section 7413, 7419, or 7420 of this title, for provisions authorizing review of any rule or order issued under section 7420 of this title, relating to noncompliance penalties, and in text relating to filing of petitions for review in the United States Court of Appeals for the appropriate circuit inserted provision respecting review under section 7411(j), 7412(c), 7413(d), or 7419 of this title, provision authorizing review under section 1857c–10(c)(2)(A), (B), or (C) to the period prior to Aug. 7, 1977, and provisions authorizing review of denials or disapprovals by the Administrator under subchapter I of this chapter.
+<b>1977</b>—Subsec. (b)(1). Pub. L. 95–190 in text relating to filing of petitions for review in the United States Court of Appeals for the District of Columbia inserted provision respecting requirements under sections 7411 and 7412 of this title, and substituted provisions authorizing review of any rule issued under section 7413, 7419, or 7420 of this title, for provisions authorizing review of any rule or order issued under section 7420 of this title, relating to noncompliance penalties, and in text relating to filing of petitions for review in the United States Court of Appeals for the appropriate circuit inserted provision respecting review under section 7411(j), 7412(c), 7413(d), or 7419 of this title, provision authorizing review under section 1857c–10(c)(2)(A), (B), or (C) to the period prior to Aug. 7, 1977, and provisions authorizing review of denials or disapprovals by the Administrator under subchapter I of this chapter.
 
 Pub. L. 95–95, §305(c), (h), inserted rules or orders issued under section 7420 of this title (relating to noncompliance penalties) and any other nationally applicable regulations promulgated, or final action taken, by the Administrator under this chapter to the enumeration of actions of the Administrator for which a petition for review may be filed only in the United States Court of Appeals for the District of Columbia, added the approval or promulgation by the Administrator of orders under section 7420 of this title, or any other final action of the Administrator under this chapter which is locally or regionally applicable to the enumeration of actions by the Administrator for which a petition for review may be filed only in the United States Court of Appeals for the appropriate circuit, inserted provision that petitions otherwise capable of being filed in the Court of Appeals for the appropriate circuit may be filed only in the Court of Appeals for the District of Columbia if the action is based on a determination of nationwide scope, and increased from 30 days to 60 days the period during which the petition must be filed.
 
@@ -208,9 +208,9 @@ Subsec. (f). Pub. L. 95–95, §305(f), added subsec. (f).
 
 Subsec. (g). Pub. L. 95–95, §305(g), added subsec. (g).
 
-1974—Subsec. (b)(1). Pub. L. 93–319 inserted reference to the Administrator's action under section 1857c–10(c)(2)(A), (B), or (C) of this title or under regulations thereunder and substituted reference to the filing of a petition within 30 days from the date of promulgation, approval, or action for reference to the filing of a petition within 30 days from the date of promulgation or approval.
+<b>1974</b>—Subsec. (b)(1). Pub. L. 93–319 inserted reference to the Administrator's action under section 1857c–10(c)(2)(A), (B), or (C) of this title or under regulations thereunder and substituted reference to the filing of a petition within 30 days from the date of promulgation, approval, or action for reference to the filing of a petition within 30 days from the date of promulgation or approval.
 
-1971—Subsec. (a)(1). Pub. L. 92–157 substituted reference to section “7545(c)(3)” for “7545(c)(4)” of this title.
+<b>1971</b>—Subsec. (a)(1). Pub. L. 92–157 substituted reference to section “7545(c)(3)” for “7545(c)(4)” of this title.
 
 #### Effective Date of 1977 Amendment
 

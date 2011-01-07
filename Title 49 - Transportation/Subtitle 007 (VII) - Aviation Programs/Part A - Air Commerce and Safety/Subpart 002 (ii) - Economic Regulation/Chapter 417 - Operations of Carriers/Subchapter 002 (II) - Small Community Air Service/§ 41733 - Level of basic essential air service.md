@@ -16,7 +16,7 @@ Availability of Compensation.—(1) If the Secretary decides that basic essentia
 
 &emsp;(A) the demonstrated reliability of the applicant in providing scheduled air service;
 
-&emsp;(B) the contractual and marketing arrangements the applicant has made with a largercarrier to ensure service beyond the hub airport;
+&emsp;(B) the contractual and marketing arrangements the applicant has made with a larger carrier to ensure service beyond the hub airport;
 
 &emsp;(C) the interline arrangements that the applicant has made with a larger carrier to allow passengers and cargo of the applicant at the hub airport to be transported by the larger carrier through one reservation, ticket, and baggage check-in;
 
@@ -86,7 +86,7 @@ Section 419 of the Federal Aviation Act of 1958, referred to in subsec. (a), is 
 
 #### Amendments
 
-2000—Subsec. (e). Pub. L. 106–181 inserted before period at end “, to the extent such adjustments are to a level not less than the basic essential air service level established under subsection (a) for the airport that serves the community”.
+<b>2000</b>—Subsec. (e). Pub. L. 106–181 inserted before period at end “, to the extent such adjustments are to a level not less than the basic essential air service level established under subsection (a) for the airport that serves the community”.
 
 #### Effective Date of 2000 Amendment
 

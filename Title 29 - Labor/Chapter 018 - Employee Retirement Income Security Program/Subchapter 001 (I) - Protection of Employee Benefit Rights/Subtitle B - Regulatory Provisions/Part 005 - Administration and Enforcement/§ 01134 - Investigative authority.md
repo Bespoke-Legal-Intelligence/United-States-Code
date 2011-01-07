@@ -18,15 +18,41 @@ The Secretary may not under the authority of this section require any plan to su
 
 For the purposes of any investigation provided for in this subchapter, the provisions of sections 49 and 50 of title 15 (relating to the attendance of witnesses and the production of books, records, and documents) are hereby made applicable (without regard to any limitation in such sections respecting persons, partnerships, banks, or common carriers) to the jurisdiction, powers, and duties of the Secretary or any officers designated by him. To the extent he considers appropriate, the Secretary may delegate his investigative functions under this section with respect to insured banks acting as fiduciaries of employee benefit plans to the appropriate Federal banking agency (as defined in section 1813(q) of title 12).
 
-(Pub. L. 93–406, title I, §504, Sept. 2, 1974, 88 Stat. 893; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445.)
+#### (d) Evidentiary privilege; confidentiality of communications
+
+The Secretary may promulgate a regulation that provides an evidentiary privilege for, and provides for the confidentiality of communications between or among, any of the following entities or their agents, consultants, or employees:
+
+&emsp;(1) A State insurance department.
+
+&emsp;(2) A State attorney general.
+
+&emsp;(3) The National Association of Insurance Commissioners.
+
+&emsp;(4) The Department of Labor.
+
+&emsp;(5) The Department of the Treasury.
+
+&emsp;(6) The Department of Justice.
+
+&emsp;(7) The Department of Health and Human Services.
+
+&emsp;(8) Any other Federal or State authority that the Secretary determines is appropriate for the purposes of enforcing the provisions of this subchapter.
+
+#### (e) Application of privilege
+
+The privilege established under subsection (d) shall apply to communications related to any investigation, audit, examination, or inquiry conducted or coordinated by any of the agencies. A communication that is privileged under subsection (d) shall not waive any privilege otherwise available to the communicating agency or to any person who provided the information that is communicated.
+
+(Pub. L. 93–406, title I, §504, Sept. 2, 1974, 88 Stat. 893; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 111–148, title VI, §6607, Mar. 23, 2010, 124 Stat. 781.)
 
 #### Amendments
 
-1989—Subsec. (a). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>2010</b>—Subsecs. (d), (e). Pub. L. 111–148 added subsecs. (d) and (e).
+
+<b>1989</b>—Subsec. (a). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 #### Regulations
 

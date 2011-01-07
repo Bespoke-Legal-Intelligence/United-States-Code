@@ -14,7 +14,7 @@ Maintenance of effort.—No grant may be made to a State under this section in a
 
 &emsp;(3)
 
-Maximum period of eligibility.—No State may receive grants under this section in more than 6 fiscal years beginning after September 30, 2003.
+Maximum period of eligibility.—No State may receive grants under this section in more than 8 fiscal years beginning after September 30, 2003.
 
 &emsp;(4)
 
@@ -24,7 +24,7 @@ Federal share.—The Federal share of the cost of implementing and enforcing, as
 
 &emsp;&emsp;(B) in each of the third and fourth fiscal years beginning after September 30, 2003, in which the State receives a grant under this section, 50 percent; and
 
-&emsp;&emsp;(C) in each of the fifth and sixth fiscal years beginning after September 30, 2003, in which the State receives a grant under this section, 25 percent.
+&emsp;&emsp;(C) in each of the fifth through eighth fiscal years beginning after September 30, 2003, in which the State receives a grant under this section, 25 percent.
 
 (b)
 
@@ -48,7 +48,7 @@ Minimum fine or penalty points.—The State imposes a minimum fine or provides f
 
 &emsp;(4)
 
-Special traffic enforcement program.—The State has implemented a statewide special traffic enforcement program foroccupant protection that emphasizes publicity for the program.
+Special traffic enforcement program.—The State has implemented a statewide special traffic enforcement program for occupant protection that emphasizes publicity for the program.
 
 &emsp;(5)
 
@@ -100,7 +100,7 @@ Safety belt.—The term “safety belt” means—
 
 &emsp;&emsp;(B) with respect to other passenger vehicles, an occupant restraint system consisting of integrated lap and shoulder belts.
 
-(Added Pub. L. 105–178, title II, §2003(a)(1), June 9, 1998, 112 Stat. 325; amended Pub. L. 109–59, title II, §§2002(e), 2004, Aug. 10, 2005, 119 Stat. 1522, 1524.)
+(Added Pub. L. 105–178, title II, §2003(a)(1), June 9, 1998, 112 Stat. 325; amended Pub. L. 109–59, title II, §§2002(e), 2004, Aug. 10, 2005, 119 Stat. 1522, 1524; Pub. L. 111–147, title IV, §421(c)(1), Mar. 18, 2010, 124 Stat. 84.)
 
 #### References in Text
 
@@ -112,7 +112,11 @@ A prior section 405, added Pub. L. 93–87, title II, §230(a), Aug. 13, 1973, 8
 
 #### Amendments
 
-2005—Subsec. (a)(2). Pub. L. 109–59, §2004(a)(1), substituted “SAFETEA–LU” for “Transportation Equity Act for the 21st Century”.
+<b>2010</b>—Subsec. (a)(3). Pub. L. 111–147, §421(c)(1)(A), substituted “8” for “6”.
+
+Subsec. (a)(4)(C). Pub. L. 111–147, §421(c)(1)(B), substituted “fifth through eighth” for “fifth and sixth”.
+
+<b>2005</b>—Subsec. (a)(2). Pub. L. 109–59, §2004(a)(1), substituted “SAFETEA–LU” for “Transportation Equity Act for the 21st Century”.
 
 Subsec. (a)(3). Pub. L. 109–59, §2004(a)(2), substituted “2003” for “1997”.
 
@@ -128,7 +132,7 @@ Amendment by Pub. L. 109–59 effective Oct. 1, 2005, see section 2022 of Pub. L
 
 #### Child Safety and Child Booster Seat Incentive Grants
 
-Pub. L. 109–59, title II, §2011, Aug. 10, 2005, 119 Stat. 1538, provided that:
+Pub. L. 109–59, title II, §2011, Aug. 10, 2005, 119 Stat. 1538, as amended by Pub. L. 111–147, title IV, §421(j)(1), Mar. 18, 2010, 124 Stat. 85, provided that:
 
 “(a)
 
@@ -144,7 +148,7 @@ Federal Share.—The Federal share of the costs of activities funded using amoun
 
 &emsp;“(1) for the first 3 fiscal years for which a State receives a grant under this section, 75 percent; and
 
-&emsp;“(2) for the fourth fiscal year for which a State receives a grant under this section, 50 percent.
+&emsp;“(2) for the fourth, fifth, and sixth fiscal years for which a State receives a grant under this section, 50 percent.
 
 “(d)
 

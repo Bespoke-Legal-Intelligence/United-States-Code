@@ -36,25 +36,25 @@ In subsection (a), the words “combatant vessels” are substituted for “wars
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–484, §1016(a), (b)(1), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “The distribution of assignments and contracts for the construction of combatant vessels and escort vessels is subject to the Act of March 27, 1934 (ch. 95, 48 Stat. 503), requiring that the first and each succeeding alternate vessel be constructed in a Navy yard. However, the President may direct that a vessel be constructed in a Navy or private yard if the requirement of this subsection is inconsistent with the public interest.”
+<b>1992</b>—Subsec. (a). Pub. L. 102–484, §1016(a), (b)(1), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “The distribution of assignments and contracts for the construction of combatant vessels and escort vessels is subject to the Act of March 27, 1934 (ch. 95, 48 Stat. 503), requiring that the first and each succeeding alternate vessel be constructed in a Navy yard. However, the President may direct that a vessel be constructed in a Navy or private yard if the requirement of this subsection is inconsistent with the public interest.”
 
 Subsec. (b). Pub. L. 102–484, §1016(b)(1), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
 
 Subsecs. (c), (d). Pub. L. 102–484, §1016(b), redesignated subsec. (d) as (c) and substituted “subsection (a)” for “subsection (b)” in par. (2). Former subsec. (c) redesignated (b).
 
-1990—Subsec. (d)(3). Pub. L. 101–510 substituted “apply in the case of voyage repairs.” for “apply—
+<b>1990</b>—Subsec. (d)(3). Pub. L. 101–510 substituted “apply in the case of voyage repairs.” for “apply—
 
 &emsp;“(A) in the case of voyage repairs; or
 
 &emsp;“(B) in the case of a vessel that is assigned to the Naval Reserve force and homeported on the West Coast of the United States.”
 
-1987—Subsec. (d). Pub. L. 100–180 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
+<b>1987</b>—Subsec. (d). Pub. L. 100–180 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
 “(1) Notwithstanding subsections (b) and (c), the Secretary may award a contract for short-term work for the overhaul, repair, or maintenance of a naval vessel only to a contractor that is able to perform the work at the homeport of the vessel, if the Secretary determines that adequate competition is available among firms able to perform the work at the homeport of the vessel.
 
 “(2) In this subsection, the term ‘short-term work’ means work that will be for a period of six months or less.”
 
-1986—Subsecs. (c), (d). Pub. L. 99–661 added subsecs. (c) and (d).
+<b>1986</b>—Subsecs. (c), (d). Pub. L. 99–661 added subsecs. (c) and (d).
 
 #### Delegation of Authority
 

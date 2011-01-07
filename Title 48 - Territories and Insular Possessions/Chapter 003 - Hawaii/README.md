@@ -834,7 +834,7 @@ Sec. 27. \[Federal Property and Administrative Services Act; amendment.\] The Fe
 
 “
 
-Sec. 28. \[Buy American Act; amendment.\] Section 1(b) of title III of the Act of March 3, 1933 (47 Stat. 1520), as amended, is amended by striking out the word ‘Hawaii,’.
+Sec. 28. \[Buy American Act; amendment.\] Section 1(b) of title III of the Act of March 3, 1933 (47 Stat. 1520) \[now 41 U.S.C. 8301(1)\], as amended, is amended by striking out the word ‘Hawaii,’.
 
 “
 

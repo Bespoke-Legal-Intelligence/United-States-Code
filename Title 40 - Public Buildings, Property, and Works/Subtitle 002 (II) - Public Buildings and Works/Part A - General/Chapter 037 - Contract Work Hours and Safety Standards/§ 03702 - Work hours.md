@@ -58,5 +58,5 @@ In subsection (a). the words “Notwithstanding any other provision of law” ar
 
 #### Amendments
 
-2006—Subsec. (d). Pub. L. 109–284 substituted “To” for “to” in heading.
+<b>2006</b>—Subsec. (d). Pub. L. 109–284 substituted “To” for “to” in heading.
 

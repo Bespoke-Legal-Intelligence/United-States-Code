@@ -22,9 +22,9 @@ The text of this section was changed by Senate amendment in view of the act of J
 
 #### Amendments
 
-1996—Pub. L. 104–132 substituted “5 years” for “two years”.
+<b>1996</b>—Pub. L. 104–132 substituted “5 years” for “two years”.
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000” after “escape, shall be” and for “fined not more than $500” after “he shall be”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000” after “escape, shall be” and for “fined not more than $500” after “he shall be”.
 
 #### Change of Name
 

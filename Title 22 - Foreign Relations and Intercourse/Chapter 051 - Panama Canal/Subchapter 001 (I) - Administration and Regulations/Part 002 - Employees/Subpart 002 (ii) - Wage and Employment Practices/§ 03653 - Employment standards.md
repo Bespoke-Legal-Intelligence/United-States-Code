@@ -12,7 +12,7 @@ The Commission shall establish written standards for—
 
 #### Amendments
 
-1996—Pub. L. 104–201 substituted “The Commission” for “The head of each agency” in introductory provisions.
+<b>1996</b>—Pub. L. 104–201 substituted “The Commission” for “The head of each agency” in introductory provisions.
 
 #### Coordination of Pay and Employment Practices
 

@@ -96,7 +96,7 @@ For purposes of this subchapter and part C of subchapter I of chapter 34 of titl
 
 For purposes of parts B, C, and D, the term “educational service agency” has the meaning given the term in section 7801 of this title.
 
-(Pub. L. 89–329, title IV, §481, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1476; amended Pub. L. 100–50, §15(1), June 3, 1987, 101 Stat. 355; Pub. L. 101–239, title II, §2007(b), (c), Dec. 19, 1989, 103 Stat. 2120, 2121; Pub. L. 101–508, title III, §3005(b), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–26, §2(a)(2), (3), (d)(2)(A), Apr. 9, 1991, 105 Stat. 123, 124; Pub. L. 102–325, title IV, §481, July 23, 1992, 106 Stat. 609; Pub. L. 103–208, §2(h)(1)–(6), Dec. 20, 1993, 107 Stat. 2475, 2476; Pub. L. 105–216, §12, July 29, 1998, 112 Stat. 908; Pub. L. 105–244, title I, §101(c), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 109–171, title VIII, §§8007(d), 8020(a), (b), Feb. 8, 2006, 120 Stat. 161, 177; Pub. L. 110–315, title IV, §481, Aug. 14, 2008, 122 Stat. 3271; Pub. L. 111–39, title IV, §407(b)(1), July 1, 2009, 123 Stat. 1950.)
+(Pub. L. 89–329, title IV, §481, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat.1476; amended Pub. L. 100–50, §15(1), June 3, 1987, 101 Stat. 355; Pub. L. 101–239, title II, §2007(b), (c), Dec. 19, 1989, 103 Stat. 2120, 2121; Pub. L. 101–508, title III, §3005(b), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–26, §2(a)(2), (3), (d)(2)(A), Apr. 9, 1991, 105 Stat. 123, 124; Pub. L. 102–325, title IV, §481, July 23, 1992, 106 Stat. 609; Pub. L. 103–208, §2(h)(1)–(6), Dec. 20, 1993, 107 Stat. 2475, 2476; Pub. L. 105–216, §12, July 29, 1998, 112 Stat. 908; Pub. L. 105–244, title I, §101(c), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 109–171, title VIII, §§8007(d), 8020(a), (b), Feb. 8, 2006, 120 Stat. 161, 177; Pub. L. 110–315, title IV, §481, Aug. 14, 2008, 122 Stat. 3271; Pub. L. 111–39, title IV, §407(b)(1), July 1, 2009, 123 Stat. 1950.)
 
 #### Prior Provisions
 
@@ -106,25 +106,25 @@ Another prior section 1088, Pub. L. 89–329, title IV, §491, formerly §461, a
 
 #### Amendments
 
-2009—Subsec. (c). Pub. L. 111–39 substituted “any State, or any private, for-profit or nonprofit organization,” for “or any State, or private, profit or nonprofit organization” in introductory provisions.
+<b>2009</b>—Subsec. (c). Pub. L. 111–39 substituted “any State, or any private, for-profit or nonprofit organization,” for “or any State, or private, profit or nonprofit organization” in introductory provisions.
 
-2008—Subsec. (a)(2)(B). Pub. L. 110–315, §481(1), inserted “and that measures program length in credit hours or clock hours” after “baccalaureate degree”.
+<b>2008</b>—Subsec. (a)(2)(B). Pub. L. 110–315, §481(1), inserted “and that measures program length in credit hours or clock hours” after “baccalaureate degree”.
 
 Subsecs. (e), (f). Pub. L. 110–315, §481(2), added subsecs. (e) and (f).
 
-2006—Subsec. (a)(2). Pub. L. 109–171, §8020(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For the purpose of any program under this subchapter and part C of subchapter I of chapter 34 of title 42, the term ‘academic year’ shall require a minimum of 30 weeks of instructional time, and, with respect to an undergraduate course of study, shall require that during such minimum period of instructional time a full-time student is expected to complete at least 24 semester or trimester hours or 36 quarter hours at an institution that measures program length in credit hours, or at least 900 clock hours at an institution that measures program length in clock hours. The Secretary may reduce such minimum of 30 weeks to not less than 26 weeks for good cause, as determined by the Secretary on a case-by-case basis, in the case of an institution of higher education that provides a 2-year or 4-year program of instruction for which the institution awards an associate or baccalaureate degree.”
+<b>2006</b>—Subsec. (a)(2). Pub. L. 109–171, §8020(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For the purpose of any program under this subchapter and part C of subchapter I of chapter 34 of title 42, the term ‘academic year’ shall require a minimum of 30 weeks of instructional time, and, with respect to an undergraduate course of study, shall require that during such minimum period of instructional time a full-time student is expected to complete at least 24 semester or trimester hours or 36 quarter hours at an institution that measures program length in credit hours, or at least 900 clock hours at an institution that measures program length in clock hours. The Secretary may reduce such minimum of 30 weeks to not less than 26 weeks for good cause, as determined by the Secretary on a case-by-case basis, in the case of an institution of higher education that provides a 2-year or 4-year program of instruction for which the institution awards an associate or baccalaureate degree.”
 
 Subsec. (b)(3), (4). Pub. L. 109–171, §8020(b), added pars. (3) and (4).
 
 Subsec. (d). Pub. L. 109–171, §8007(d), added subsec. (d).
 
-1998—Pub. L. 105–244 redesignated subsecs. (d) to (f) as (a) to (c), respectively, and struck out former subsecs. (a) to (c) which defined the terms “institution of higher education”, “proprietary institution of higher education”, and “postsecondary vocational institution”. See section 1002 of this title.
+<b>1998</b>—Pub. L. 105–244 redesignated subsecs. (d) to (f) as (a) to (c), respectively, and struck out former subsecs. (a) to (c) which defined the terms “institution of higher education”, “proprietary institution of higher education”, and “postsecondary vocational institution”. See section 1002 of this title.
 
 Subsec. (a)(4). Pub. L. 105–216, which directed the amendment of par. (4), effective 1 year after July 29, 1998, by designating existing provisions as subpar. (A), redesignating former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and by adding subpar. (B) to read as follows: “Subparagraph (A)(i) shall not apply to a nonprofit institution whose primary function is to provide health care educational services (or an affiliate of such an institution that has the power, by contract or ownership interest, to direct or cause the direction of the institution's management or policies) that files for bankruptcy under chapter 11 of title 11 between July 1, and December 31, 1998.”, could not be executed because subsec. (a) did not contain a par. (4) subsequent to amendment by Pub. L. 105–244. See above.
 
-1993—Subsec. (a)(3)(B). Pub. L. 103–208, §2(h)(1), inserted before semicolon at end “, except that the Secretary, at the request of such institution, may waive the applicability of this subparagraph to such institution for good cause, as determined by the Secretary in the case of an institution of higher education that provides a 2-year or 4-year program of instruction for which the institution awards an associate or baccalaureate degree”.
+<b>1993</b>—Subsec. (a)(3)(B). Pub. L. 103–208, §2(h)(1), inserted before semicolon at end “, except that the Secretary, at the request of such institution, may waive the applicability of this subparagraph to such institution for good cause, as determined by the Secretary in the case of an institution of higher education that provides a 2-year or 4-year program of instruction for which the institution awards an associate or baccalaureate degree”.
 
-Subsec. (a)(3)(D). Pub. L. 103–208, §2(h)(2), substituted “do not have a high school diploma or its recognizedequivalent” for “are admitted pursuant to section 1091(d) of this title” and inserted before period at end “, except that the Secretary may waive the limitation contained in this subparagraph if a nonprofit institution demonstrates to the satisfaction of the Secretary that it exceeds such limitation because it serves, through contracts with Federal, State, or local government agencies, significant numbers of students who do not have a high school diploma or its recognized equivalent”.
+Subsec. (a)(3)(D). Pub. L. 103–208, §2(h)(2), substituted “do not have a high school diploma or its recognized equivalent” for “are admitted pursuant to section 1091(d) of this title” and inserted before period at end “, except that the Secretary may waive the limitation contained in this subparagraph if a nonprofit institution demonstrates to the satisfaction of the Secretary that it exceeds such limitation because it serves, through contracts with Federal, State, or local government agencies, significant numbers of students who do not have a high school diploma or its recognized equivalent”.
 
 Subsec. (a)(4)(A). Pub. L. 103–208, §2(h)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “such institution has filed for bankruptcy; or”.
 
@@ -134,7 +134,7 @@ Subsec. (e)(2). Pub. L. 103–208, §2(h)(5), amended par. (2) generally. Prior 
 
 Subsec. (f). Pub. L. 103–208, §2(h)(6), substituted “individual, or any State,” for “State” in introductory provisions.
 
-1992—Pub. L. 102–325, §481(a), amended section catchline.
+<b>1992</b>—Pub. L. 102–325, §481(a), amended section catchline.
 
 Subsec. (a). Pub. L. 102–325, §481(a), added subsec. (a) and struck out former subsec. (a) which contained pars. (1) and (2) defining “institution of higher education” and “accredited” and par. (3) which related to recognition of accreditation of eligible institutions of higher education.
 
@@ -154,21 +154,21 @@ Subsec. (e). Pub. L. 102–325, §481(e), amended subsec. (e) generally, substit
 
 Subsec. (f). Pub. L. 102–325, §481(f), added subsec. (f).
 
-1991—Subsec. (b). Pub. L. 102–26, §2(d)(2)(A), repealed Pub. L. 101–508, §3005(b). See 1990 Amendment note below.
+<b>1991</b>—Subsec. (b). Pub. L. 102–26, §2(d)(2)(A), repealed Pub. L. 101–508, §3005(b). See 1990 Amendment note below.
 
 Pub. L. 102–26, §2(a)(2), struck out “and who have the ability to benefit (as determined by the institution under section 1091(d) of this title) from the training offered by the institution” before period at end of second sentence, and struck out at end “The Secretary shall not promulgate regulations defining the admissions procedures or remediation programs that must be used by an institution in admitting students on the basis of their ability to benefit from the training offered and shall not, as a condition of recognition under section 413(e) of this Act, impose upon any accrediting body or bodies standards which are different or more restrictive than the standards provided in this subsection.”
 
 Subsec. (c). Pub. L. 102–26, §2(a)(3), struck out before period at end “and who have the ability to benefit (as determined by the institution under section 1091(d) of this title) from the training offered by the institution”.
 
-1990—Subsec. (b). Pub. L. 101–508, which inserted “, except in accordance with section 1091(d) of this title,” after “shall not” in fourth sentence, was repealed by Pub. L. 102–26, §2(d)(2)(A). See Construction of 1991 Amendment note below.
+<b>1990</b>—Subsec. (b). Pub. L. 101–508, which inserted “, except in accordance with section 1091(d) of this title,” after “shall not” in fourth sentence, was repealed by Pub. L. 102–26, §2(d)(2)(A). See Construction of 1991 Amendment note below.
 
-1989—Subsec. (a)(1). Pub. L. 101–239, §2007(b)(1), substituted “Subject to subsection (e) of this section, for the purpose” for “For the purpose”.
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–239, §2007(b)(1), substituted “Subject to subsection (e) of this section, for the purpose” for “For the purpose”.
 
 Subsec. (a)(3). Pub. L. 101–239, §2007(c), added par. (3).
 
 Subsec. (e). Pub. L. 101–239, §2007(b)(2), added subsec. (e).
 
-1987—Subsec. (c). Pub. L. 100–50 substituted “section 1091(d) of this title” for “subsection (d) of this section”.
+<b>1987</b>—Subsec. (c). Pub. L. 100–50 substituted “section 1091(d) of this title” for “subsection (d) of this section”.
 
 #### Effective Date of 2009 Amendment
 
@@ -226,7 +226,7 @@ Nothing in amendment by section 8007(d) of Pub. L. 109–171 to be construed to 
 
 #### Construction of 1991 Amendment
 
-Section 2(d)(2)(A) of Pub. L. 102–26 provided that: “Section 3005 of the Omnibus Reconciliation Act of 1990 \[Pub. L. 101–508, amending this section and section 1091 of this title and enacting provisions set out as a note above\] is repealed. Sections 484(d) and 481(b) of the Act \[20 U.S.C. 1091(d), 1088(b)\] shall be applied as if such section 3005 had not been enacted.”
+Section 2(d)(2)(A) of Pub. L. 102–26 provided that: “Section 3005 of the Omnibus Reconciliation Act of 1990 \[Pub. L. 101–508, amending this section and section 1091of this title and enacting provisions set out as a note above\] is repealed. Sections 484(d) and 481(b) of the Act \[20 U.S.C. 1091(d), 1088(b)\] shall be applied as if such section 3005 had not been enacted.”
 
 #### Need-Based Aid
 

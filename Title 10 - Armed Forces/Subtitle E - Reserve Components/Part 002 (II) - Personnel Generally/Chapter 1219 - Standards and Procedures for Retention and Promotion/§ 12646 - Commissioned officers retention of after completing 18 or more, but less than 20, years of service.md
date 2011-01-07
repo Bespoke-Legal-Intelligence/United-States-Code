@@ -90,7 +90,7 @@ The change reflects the repeal of section 611 of the Reserve Officer Personnel A
 
 #### Amendments
 
-1994—Pub. L. 103–337, §1662(h)(2), renumbered section 1006 of this title as this section.
+<b>1994</b>—Pub. L. 103–337, §1662(h)(2), renumbered section 1006 of this title as this section.
 
 Subsecs. (a), (b). Pub. L. 103–337, §1675(d)(3)(B), substituted “573, 1407, or 1409” for “337, 361, 363, 573, 837, 861, or 863”.
 
@@ -98,21 +98,21 @@ Pub. L. 103–337, §1675(d)(3)(A), substituted “12732” for “1332” where
 
 Subsec. (e). Pub. L. 103–337, §1675(d)(3)(C), added subsec. (e) and struck out former subsec. (e) which read as follows: “A reserve commissioned officer on active duty (other than for training) who, on the date on which he would otherwise be removed from an active status under section 3846, 3848, 3851, 3852, 6389, 6397, 6403, 6410, 8846, 8848, 8851, or 8852 of this title or section 740 of title 14, and who is within two years of qualifying for retirement under section 3911, 6323, or 8911 of this title, may, in the discretion of the Secretary concerned, be retained on active duty for a period of not more than two years, if at the end of that period he will be qualified for retirement under one of those sections and will not, before the end of that period, reach the age at which transfer from an active status or discharge is required by this title or title 14. An officer who is retained on active duty under this section may not be removed from an active status while he is on that duty. For officers covered by section 3846, 3848, 3851, or 3852 of this title, the ages at which transfer from an active status or discharge is required are those set forth in section 3843, 3844, or 3845 of this title, or section 21(e) of Public Law 85–861, as the case may be.”
 
-1980—Subsec. (e). Pub. L. 96–513 substituted “Public Law 85–861” for “the Act enacting this section”.
+<b>1980</b>—Subsec. (e). Pub. L. 96–513 substituted “Public Law 85–861” for “the Act enacting this section”.
 
 Pub. L. 96–322 substituted “section 740 of title 14” for “section 787 of title 14”.
 
-1975—Subsecs. (a), (b). Pub. L. 93–586, §3(1), inserted reference to chapter 21 of title 14.
+<b>1975</b>—Subsecs. (a), (b). Pub. L. 93–586, §3(1), inserted reference to chapter 21 of title 14.
 
 Subsec. (c). Pub. L. 93–586, §3(2), substituted “An officer who is retained” for “An officer of the Army or the Air Force who is retained”.
 
 Subsec. (e). Pub. L. 93–586, §3(3), substituted “discharge is required by this title or title 14” for “discharge is required by this title”.
 
-1967—Subsec. (e). Pub. L. 90–130 struck out references to sections 3847 and 8847 of this title.
+<b>1967</b>—Subsec. (e). Pub. L. 90–130 struck out references to sections 3847 and 8847 of this title.
 
-1962—Subsec. (e). Pub. L. 87—651 substituted “section 787 of title 14” for “section 1391 of title 50”.
+<b>1962</b>—Subsec. (e). Pub. L. 87—651 substituted “section 787 of title 14” for “section 1391 of title 50”.
 
-1960—Subsec. (e). Pub. L. 86–559 struck out references to sections 3849 and 8849 of this title.
+<b>1960</b>—Subsec. (e). Pub. L. 86–559 struck out references to sections 3849 and 8849 of this title.
 
 #### Effective Date of 1994 Amendment
 

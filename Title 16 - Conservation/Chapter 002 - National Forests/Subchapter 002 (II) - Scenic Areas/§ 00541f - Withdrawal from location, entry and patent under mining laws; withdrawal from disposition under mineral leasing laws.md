@@ -4,7 +4,3 @@ The lands within the Area, subject to valid existing rights, are hereby withdraw
 
 (Pub. L. 93–535, §7, Dec. 22, 1974, 88 Stat. 1733.)
 
-#### References in Text
-
-The United States mining laws, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
-

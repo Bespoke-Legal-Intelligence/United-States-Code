@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A person that knowingly violates this chapter, or knowingly forges, counterfeits, or, without authority from the Secretary, uses, alters, defaces, or destroys any certificate, permit, or other document provided for in this chapter shall be fined under title 18, imprisoned not more than 1 year, or both.
+&emsp;&emsp;A person that knowingly violates this chapter, or knowingly forges, counterfeits, or, without authority from the Secretary, uses, alters, defaces, or destroys any certificate, permit, or other document provided forin this chapter shall be fined under title 18, imprisoned not more than 1 year, or both.
 
 #### (B) Movement
 

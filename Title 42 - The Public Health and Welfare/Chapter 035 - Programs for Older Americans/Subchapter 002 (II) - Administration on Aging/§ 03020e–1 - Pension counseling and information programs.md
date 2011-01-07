@@ -140,7 +140,7 @@ A prior section 215 of Pub. L. 89–73 was renumbered section 216 and is classif
 
 #### Amendments
 
-2006—Subsec. (e)(1)(J). Pub. L. 109–365, §209(1), substituted “, low-income retirees, and older individuals with limited English proficiency” for “and low income retirees”.
+<b>2006</b>—Subsec. (e)(1)(J). Pub. L. 109–365, §209(1), substituted “, low-income retirees, and older individuals with limited English proficiency” for “and low income retirees”.
 
 Subsec. (f)(2). Pub. L. 109–365, §209(2), added par. (2) and struck out former par. (2) which read as follows: “The ability of the entity to perform effective outreach to affected populations, particularly populations that are identified in need of special outreach.”
 

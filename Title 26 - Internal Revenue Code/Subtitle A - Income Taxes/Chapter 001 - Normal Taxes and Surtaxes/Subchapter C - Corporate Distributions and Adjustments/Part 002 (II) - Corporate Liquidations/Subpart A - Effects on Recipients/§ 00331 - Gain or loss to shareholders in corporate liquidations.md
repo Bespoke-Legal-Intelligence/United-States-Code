@@ -16,13 +16,13 @@ Section 301 (relating to effects on shareholder of distributions of property) sh
 
 #### Amendments
 
-1982—Subsec. (a). Pub. L. 97–248, §222(a), substituted provisions that amounts received by a shareholder in a distribution in complete liquidation of a corporation shall be treated as in full payment in exchange for the stock for provisions that, in complete liquidations, amounts distributed shall be treated as in full payment in exchange for the stock, while amounts distributed in partial liquidation shall be treated as in part or full payment in exchange for the stock.
+<b>1982</b>—Subsec. (a). Pub. L. 97–248, §222(a), substituted provisions that amounts received by a shareholder in a distribution in complete liquidation of a corporation shall be treated as in full payment in exchange for the stock for provisions that, in complete liquidations, amounts distributed shall be treated as in full payment in exchange for the stock, while amounts distributed in partial liquidation shall be treated as in part or full payment in exchange for the stock.
 
 Subsec. (b). Pub. L. 97–248, §222(e)(1)(B), struck out “partial or” before “complete liquidation”.
 
-1976—Subsec. (c). Pub. L. 94–455 substituted “reference” for “references” in heading and struck out cross reference relating to general rule for determination of the amount of gain or loss to the distributee and substituted “section 1001” for “section 1002”.
+<b>1976</b>—Subsec. (c). Pub. L. 94–455 substituted “reference” for “references” in heading and struck out cross reference relating to general rule for determination of the amount of gain or loss to the distributee and substituted “section 1001” for “section 1002”.
 
-1964—Subsec. (b). Pub. L. 88–272 inserted “(other than a distribution referred to in paragraph (2)(B) of section 316(b))”.
+<b>1964</b>—Subsec. (b). Pub. L. 88–272 inserted “(other than a distribution referred to in paragraph (2)(B) of section 316(b))”.
 
 #### Effective Date of 1982 Amendment
 

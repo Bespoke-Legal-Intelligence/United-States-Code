@@ -94,7 +94,7 @@ Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical section
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–417, §251(b), designated existing provisions as par. (1) and added par. (2).
+<b>2008</b>—Subsec. (d). Pub. L. 110–417, §251(b), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (e)(1). Pub. L. 110–417, §251(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘covered system’ means a vehicle, weapon platform, or conventional weapon system—
 
@@ -102,25 +102,25 @@ Subsec. (e)(1). Pub. L. 110–417, §251(a), amended par. (1) generally. Prior t
 
 &emsp;“(B) that is a major system within the meaning of that term in section 2302(5) of this title.”
 
-2003—Subsec. (e)(7) to (9). Pub. L. 108–136 redesignated pars. (8) and (9) as (7) and (8), respectively, and struck out former par. (7) which read as follows: “The term ‘congressional defense committees’ means—
+<b>2003</b>—Subsec. (e)(7) to (9). Pub. L. 108–136 redesignated pars. (8) and (9) as (7) and (8), respectively, and struck out former par. (7) which read as follows: “The term ‘congressional defense committees’ means—
 
 &emsp;“(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
 
 &emsp;“(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
 
-2002—Subsec. (c)(1). Pub. L. 107–314, §818(a), amended par. (1) generally. Prior to amendment par. (1) read as follows: “The Secretary of Defense may waive the application of the survivability and lethality tests of this section to a covered system, munitions program, missile program, or covered product improvement program if the Secretary, before the system or program enters system development and demonstration, certifies to Congress that live-fire testing of such system or program would be unreasonably expensive and impractical.”
+<b>2002</b>—Subsec. (c)(1). Pub. L. 107–314, §818(a), amended par. (1) generally. Prior to amendment par. (1) read as follows: “The Secretary of Defense may waive the application of the survivability and lethality tests of this section to a covered system, munitions program, missile program, or covered product improvement program if the Secretary, before the system or program enters system development and demonstration, certifies to Congress that live-fire testing of such system or program would be unreasonably expensive and impractical.”
 
 Subsec. (e)(8), (9). Pub. L. 107–314, §818(b), added pars. (8) and (9).
 
-2001—Subsec. (c)(1), (2). Pub. L. 107–107 substituted “system development and demonstration” for “engineering and manufacturing development”.
+<b>2001</b>—Subsec. (c)(1), (2). Pub. L. 107–107 substituted “system development and demonstration” for “engineering and manufacturing development”.
 
-1999—Subsec. (e)(7)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
+<b>1999</b>—Subsec. (e)(7)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
-1996—Subsec. (d). Pub. L. 104–106, §1502(a)(18)(A), substituted “the congressional defense committees” for “the Committees on Armed Services and on Appropriations of the Senate and House of Representatives”.
+<b>1996</b>—Subsec. (d). Pub. L. 104–106, §1502(a)(18)(A), substituted “the congressional defense committees” for “the Committees on Armed Services and on Appropriations of the Senate and House of Representatives”.
 
 Subsec. (e)(7). Pub. L. 104–106, §1502(a)(18)(B), added par. (7).
 
-1994—Subsec. (c)(1). Pub. L. 103–355, §3014(a)(2), (b), substituted “engineering and manufacturing development” for “full-scale engineering development” in first sentence and redesignated second sentence as par. (3).
+<b>1994</b>—Subsec. (c)(1). Pub. L. 103–355, §3014(a)(2), (b), substituted “engineering and manufacturing development” for “full-scale engineering development” in first sentence and redesignated second sentence as par. (3).
 
 Subsec. (c)(2). Pub. L. 103–355, §3014(a)(1), (3), added par. (2) and redesignated former par. (2) as (4).
 
@@ -128,11 +128,11 @@ Subsec. (c)(3). Pub. L. 103–355, §3014(a)(2), redesignated second sentence of
 
 Subsec. (c)(4). Pub. L. 103–355, §3014(a)(1), redesignated par. (2) as (4).
 
-1993—Subsec. (d). Pub. L. 103–160 substituted “to the Committees on Armed Services and on Appropriations of the Senate and House of Representatives” for “to the defense committees of Congress (as defined in section 2362(e)(3) of this title)”.
+<b>1993</b>—Subsec. (d). Pub. L. 103–160 substituted “to the Committees on Armed Services and on Appropriations of the Senate and House of Representatives” for “to the defense committees of Congress (as defined in section 2362(e)(3) of this title)”.
 
-1990—Subsec. (a)(1)(A), (B). Pub. L. 101–510 made technical correction to directory language of Pub. L. 101–189, §804(a), see 1989 Amendment note below.
+<b>1990</b>—Subsec. (a)(1)(A), (B). Pub. L. 101–510 made technical correction to directory language of Pub. L. 101–189, §804(a), see 1989 Amendment note below.
 
-1989—Pub. L. 101–189, §802(c)(4)(A), substituted “testing and lethality testing required before full-scale production” for “and lethality testing; operational testing” in section catchline.
+<b>1989</b>—Pub. L. 101–189, §802(c)(4)(A), substituted “testing and lethality testing required before full-scale production” for “and lethality testing; operational testing” in section catchline.
 
 Subsec. (a)(1)(A). Pub. L. 101–189, §§802(c)(1)(A), 804(a), as amended by Pub. L. 101–510, substituted “this section and the report required by subsection (d) with respect to that testing is submitted in accordance with that subsection; and” for “this section;”.
 
@@ -146,9 +146,9 @@ Subsec. (d). Pub. L. 101–189, §804(b), inserted at end “Each such report sh
 
 Subsec. (e)(3) to (8). Pub. L. 101–189, §802(c)(3), redesignated pars. (4), (5), (6), and (8) as (3), (4), (5), and (6), respectively, and struck out former par. (3) which defined “major defense acquisition program” and former par. (7) which defined “operational test and evaluation”.
 
-1988—Subsec. (a)(2). Pub. L. 100–456 made technical correction to directory language of Pub. L. 100–180, §802(a)(1)(C). See 1987 Amendment note below.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–456 made technical correction to directory language of Pub. L. 100–180, §802(a)(1)(C). See 1987 Amendment note below.
 
-1987—Subsec. (a). Pub. L. 100–180, §802(a)(1), as amended by Pub. L. 100–456, designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), and added par. (2).
+<b>1987</b>—Subsec. (a). Pub. L. 100–180, §802(a)(1), as amended by Pub. L. 100–456, designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), and added par. (2).
 
 Subsec. (b)(1). Pub. L. 100–180, §802(a)(2), inserted “(including a covered product improvement program)” after “system or program” and “(or in the product modification or upgrade to the system, munition, or missile)” after “or missile”.
 

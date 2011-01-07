@@ -10,7 +10,7 @@ This chapter, referred to in text, was in the original “this title” meaning 
 
 #### Change of Name
 
-References to the food stamp program established under the Food and Nutrition Act of 2008 considered to refer to the supplemental nutrition assistance program established under that Act, see section 4002(c) of Pub. L. 110–246, set out as a note under section 2012 of Title 7, Agriculture.
+References to the food stamp program established under the Food and Nutrition Act of 2008 considered torefer to the supplemental nutrition assistance program established under that Act, see section 4002(c) of Pub. L. 110–246, set out as a note under section 2012 of Title 7, Agriculture.
 
 #### Effective Date
 

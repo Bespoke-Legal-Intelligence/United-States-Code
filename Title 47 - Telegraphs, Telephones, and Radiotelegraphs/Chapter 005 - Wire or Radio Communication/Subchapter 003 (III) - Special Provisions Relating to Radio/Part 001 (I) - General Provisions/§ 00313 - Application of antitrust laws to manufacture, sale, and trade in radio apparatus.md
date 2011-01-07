@@ -12,7 +12,7 @@ The Commission is hereby directed to refuse a station license and/or the permit 
 
 #### Amendments
 
-1960—Pub. L. 86–752 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1960</b>—Pub. L. 86–752 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Transfer of Functions
 

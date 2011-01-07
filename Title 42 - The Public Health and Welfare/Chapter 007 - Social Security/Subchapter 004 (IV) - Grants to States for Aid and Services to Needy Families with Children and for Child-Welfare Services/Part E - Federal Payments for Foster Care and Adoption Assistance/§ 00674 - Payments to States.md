@@ -64,7 +64,7 @@ For each quarter beginning after September 30, 1980, each State which has a plan
 
 #### (c) Automated data collection expenditures
 
-The Secretary shall treat as necessary for the proper and efficient administration of the State plan all expenditures of a State necessary in order for the State to plan, design, develop, install, and operate data collection and information retrieval systems described in subsection (a)(3)(C) of this section, without regard to whether the systems may be used with respectto foster or adoptive children other than those on behalf of whom foster care maintenance payments or adoption assistance payments may be made under this part.
+The Secretary shall treat as necessary for the proper and efficient administration of the State plan all expenditures of a State necessary in order for the State to plan, design, develop, install, and operate data collection and information retrieval systems described in subsection\(a)(3)(C) of this section, without regard to whether the systems may be used with respect to foster or adoptive children other than those on behalf of whom foster care maintenance payments or adoption assistance payments may be made under this part.
 
 #### (d) Reduction for violation of plan requirement
 
@@ -102,13 +102,13 @@ From amounts appropriated pursuant to section 677(h)(2) of this title, the Secre
 
 &emsp;(A) 1/6 of 1 percent of the total amount expended by the State for administration of foster care activities under the State plan approved under this part in the quarter so ending, in the case of the 1st 6-month period during which the failure continues; or
 
-&emsp;(B) 1/4 of 1 percent of the total amount so expended, in the case of the 2nd or any subsequent such 6-month period.
+&emsp;(B) ¼ of 1 percent of the total amount so expended, in the case of the 2nd or any subsequent such 6-month period.
 
 #### (g) Continued services under waiver
 
 For purposes of this part, after the termination of a demonstration project relating to guardianship conducted by a State under section 1320a–9 of this title, the expenditures of the State for the provision, to children who, as of September 30, 2008, were receiving assistance or services under the project, of the same assistance and services under the same terms and conditions that applied during the conduct of the project, are deemed to be expenditures under the State plan approved under this part.
 
-(Aug. 14, 1935, ch. 531, title IV, §474, as added Pub. L. 96–272, title I, §101(a)(1), June 17, 1980, 94 Stat. 506; amended Pub. L. 96–611, §3, Dec. 28, 1980, 94 Stat. 3567; Pub. L. 98–369, div. B, title VI, §2663(c)(18), July 18, 1984, 98 Stat. 1167; Pub. L. 98–617, §4(a), (b), Nov. 8, 1984, 98 Stat. 3296, 3297; Pub. L. 99–272, title XII, §§12306(a), (b), 12307(c), Apr. 7, 1986, 100 Stat. 294, 296; Pub. L. 99–514, title XVIII, §1883(b)(9), Oct. 22, 1986, 100 Stat. 2917; Pub. L. 100–203, title IX, §9132(a), Dec. 22, 1987, 101 Stat. 1330–313; Pub. L. 101–239, title VIII, §§8001(a), 8002(c), 8006(a), title X, §§10401(a), 10402(a), 10403(c)(1), Dec. 19, 1989, 103 Stat. 2452, 2453, 2461, 2487, 2488; Pub. L. 101–508, title V, §5071(a), Nov. 5, 1990, 104 Stat. 1388–233; Pub. L. 103–66, title XIII, §13713(a)(1), (2), (b)(1), Aug. 10, 1993, 107 Stat. 656, 657; Pub. L. 103–432, title II, §§207(a), (b), 210(a), Oct. 31, 1994, 108 Stat. 4457, 4460; Pub. L. 104–188, title I, §1808(b), Aug. 20,1996, 110 Stat. 1903; Pub. L. 105–89, title II, §202(b), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–200, title III, §301(b), (c), title IV, §410(g), July 16, 1998, 112 Stat. 658, 674; Pub. L. 106–169, title I, §101(c), Dec. 14, 1999, 113 Stat. 1828; Pub. L. 107–133, title II, §201(f), Jan. 17, 2002, 115 Stat. 2424; Pub. L. 108–145, §4, Dec. 2, 2003, 117 Stat. 1881; Pub. L. 109–171, title VII, §7403(b), Feb. 8, 2006, 120 Stat. 151; Pub. L. 110–275, title III, §302(a), July 15, 2008, 122 Stat. 2594; Pub. L. 110–351, title I, §101(c)(3), (d), title II, §203(a), title III, §301(c)(2), Oct. 7, 2008, 122 Stat. 3952, 3953, 3959, 3970.)
+(Aug. 14, 1935, ch. 531, title IV, §474, as added Pub. L. 96–272, title I, §101(a)(1), June 17, 1980, 94 Stat. 506; amended Pub. L. 96–611, §3, Dec. 28, 1980, 94 Stat. 3567; Pub. L. 98–369, div. B, title VI, §2663(c)(18), July 18, 1984, 98 Stat. 1167; Pub. L. 98–617, §4(a), (b), Nov. 8, 1984, 98 Stat. 3296, 3297; Pub. L. 99–272, title XII, §§12306(a), (b), 12307(c), Apr. 7, 1986, 100 Stat. 294, 296; Pub. L. 99–514, title XVIII, §1883(b)(9), Oct. 22, 1986, 100 Stat. 2917; Pub. L. 100–203, title IX, §9132(a), Dec. 22, 1987, 101 Stat. 1330–313; Pub. L. 101–239, title VIII, §§8001(a), 8002(c), 8006(a), title X, §§10401(a), 10402(a), 10403(c)(1), Dec. 19, 1989, 103 Stat. 2452, 2453, 2461, 2487, 2488; Pub. L. 101–508, title V, §5071(a), Nov. 5, 1990, 104 Stat. 1388–233; Pub. L. 103–66, title XIII, §13713(a)(1), (2), (b)(1), Aug. 10, 1993, 107 Stat. 656, 657; Pub. L. 103–432, title II,§§207(a), (b), 210(a), Oct. 31, 1994, 108 Stat. 4457, 4460; Pub. L. 104–188, title I, §1808(b), Aug. 20, 1996, 110 Stat. 1903; Pub. L. 105–89, title II, §202(b), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–200, title III, §301(b), (c), title IV, §410(g), July 16, 1998, 112 Stat. 658, 674; Pub. L. 106–169, title I, §101(c), Dec. 14, 1999, 113 Stat. 1828; Pub. L. 107–133, title II, §201(f), Jan. 17, 2002, 115 Stat. 2424; Pub. L. 108–145, §4, Dec. 2, 2003, 117 Stat. 1881; Pub. L. 109–171, title VII, §7403(b), Feb. 8, 2006, 120 Stat. 151; Pub. L. 110–275, title III, §302(a), July 15, 2008, 122 Stat. 2594; Pub. L. 110–351, title I, §101(c)(3), (d), title II, §203(a), title III, §301(c)(2), Oct. 7, 2008, 122 Stat. 3952, 3953, 3959, 3970.)
 
 #### References in Text
 
@@ -118,7 +118,7 @@ The Indian Child Welfare Act of 1978, referred to in subsec. (d)(4), is Pub. L. 
 
 #### Amendments
 
-2008—Subsec. (a)(1), (2). Pub. L. 110–351, §301(c)(2), inserted “(or, with respect to such payments made during such quarter under a cooperative agreement or contract entered into by the State and an Indian tribe, tribal organization, or tribal consortium for the administration or payment of funds under this part, an amount equal to the Federal medical assistance percentage that would apply under section 679c(d) of this title (in this paragraph referred to as the ‘tribal FMAP’) if such Indian tribe, tribal organization, or tribal consortium made such payments under a program operated under that section, unless the tribal FMAP is less than the Federal medical assistance percentage that applies to the State)” before semicolon.
+<b>2008</b>—Subsec. (a)(1), (2). Pub. L. 110–351, §301(c)(2), inserted “(or, with respect to such payments made during such quarter under a cooperative agreement or contract entered into by the State and an Indian tribe, tribal organization, or tribal consortium for the administration or payment of funds under this part, an amount equal to the Federal medical assistance percentage that would apply under section 679c(d) of this title (in this paragraph referred to as the ‘tribal FMAP’) if such Indian tribe, tribal organization, or tribal consortium made such payments under a program operated under that section, unless the tribal FMAP is less than the Federal medical assistance percentage that applies to the State)” before semicolon.
 
 Pub. L. 110–275 substituted “(which shall be as defined in section 1396d(b) of this title, in the case of a State other than the District of Columbia, or 70 percent, in the case of the District of Columbia)” for “(as defined in section 1396d(b) of this title)”.
 
@@ -130,11 +130,11 @@ Subsec. (a)(5). Pub. L. 110–351, §101(c)(3)(B), added par. (5).
 
 Subsec. (g). Pub. L. 110–351, §101(d), added subsec. (g).
 
-2006—Subsec. (a)(3). Pub. L. 109–171 inserted “subject to section 672(i) of this title” before “an amount equal to” in introductory provisions.
+<b>2006</b>—Subsec. (a)(3). Pub. L. 109–171 inserted “subject to section 672(i) of this title” before “an amount equal to” in introductory provisions.
 
-2003—Subsec. (f). Pub. L. 108–145 added subsec. (f).
+<b>2003</b>—Subsec. (f). Pub. L. 108–145 added subsec. (f).
 
-2002—Subsec. (a)(4). Pub. L. 107–133, §201(f)(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the lesser of—
+<b>2002</b>—Subsec. (a)(4). Pub. L. 107–133, §201(f)(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the lesser of—
 
 &emsp;“(A) 80 percent of the amount (if any) by which—
 
@@ -146,7 +146,7 @@ Subsec. (g). Pub. L. 110–351, §101(d), added subsec. (g).
 
 Subsec. (e). Pub. L. 107–133, §201(f)(2), added subsec. (e).
 
-1999—Subsec. (a)(4). Pub. L. 106–169 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “an amount equal to the sum of—
+<b>1999</b>—Subsec. (a)(4). Pub. L. 106–169 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “an amount equal to the sum of—
 
 &emsp;“(A) so much of the amounts expended by such State to carry out programs under section 677 of this title as do not exceed the basic amount for such State determined under section 677(e)(1) of this title; and
 
@@ -156,7 +156,7 @@ Subsec. (e). Pub. L. 107–133, §201(f)(2), added subsec. (e).
 
 &emsp;&emsp;“(ii) the maximum additional amount for such State under such section 677(e)(1) of this title.”
 
-1998—Subsec. (a). Pub. L. 105–200, §410(g), struck out “(subject to the limitations imposed by subsection (b) of this section)” after “this part” in introductory provisions.
+<b>1998</b>—Subsec. (a). Pub. L. 105–200, §410(g), struck out “(subject to the limitations imposed by subsection (b) of this section)” after “this part” in introductory provisions.
 
 Subsec. (d)(1), (2). Pub. L. 105–200, §301(b), substituted “paragraph (18) or (23) of section 671(a) of this title” for “section 671(a)(18) of this title”.
 
@@ -166,11 +166,11 @@ Subsec. (e). Pub. L. 105–200, §301(c), struck out subsec. (e) which read as f
 
 &emsp;“(2) failed to grant an opportunity for a fair hearing, as described in section 671(a)(12) of this title, to an individual whose allegation of a violation of paragraph (1) of this subsection is denied by the State or not acted upon by the State with reasonable promptness.”
 
-1997—Subsec. (e). Pub. L. 105–89 added subsec. (e).
+<b>1997</b>—Subsec. (e). Pub. L. 105–89 added subsec. (e).
 
-1996—Subsec. (d). Pub. L. 104–188 added subsec. (d).
+<b>1996</b>—Subsec. (d). Pub. L. 104–188 added subsec. (d).
 
-1994—Subsec. (b). Pub. L. 103–432, §207(a), (b)(2), redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to maximum aggregate sums payable to any State and State allotments for fiscal years 1981 to 1992.
+<b>1994</b>—Subsec. (b). Pub. L. 103–432, §207(a), (b)(2), redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to maximum aggregate sums payable to any State and State allotments for fiscal years 1981 to 1992.
 
 Subsec. (b)(4). Pub. L. 103–432, §210(a), added par. (4).
 
@@ -182,7 +182,7 @@ Subsec. (d)(1). Pub. L. 103–432, §207(b)(1), substituted “subsection (a) of
 
 Subsec. (e). Pub. L. 103–432, §207(b)(2), redesignated subsec. (e) as (c).
 
-1993—Subsec. (a)(3)(B). Pub. L. 103–66, §13713(a)(1)(A), struck out “and” at end.
+<b>1993</b>—Subsec. (a)(3)(B). Pub. L. 103–66, §13713(a)(1)(A), struck out “and” at end.
 
 Subsec. (a)(3)(C). Pub. L. 103–66, §13713(b)(1), substituted “50 percent” for “75 percent” in two places in introductory provisions.
 
@@ -192,9 +192,9 @@ Subsec. (a)(3)(D), (E). Pub. L. 103–66, §13713(a)(1)(B), (C), added subpar. (
 
 Subsec. (e). Pub. L. 103–66, §13713(a)(2), added subsec. (e).
 
-1990—Subsec. (a)(3). Pub. L. 101–508 inserted “provision of child placement services and for the” before “proper and efficient”.
+<b>1990</b>—Subsec. (a)(3). Pub. L. 101–508 inserted “provision of child placement services and for the” before “proper and efficient”.
 
-1989—Subsec. (a)(3)(B), (C). Pub. L. 101–239, §8006(a), added subpar. (B) and redesignated former subpar. (B) as (C).
+<b>1989</b>—Subsec. (a)(3)(B), (C). Pub. L. 101–239, §8006(a), added subpar. (B) and redesignated former subpar. (B) as (C).
 
 Subsec. (a)(4). Pub. L. 101–239, §8002(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “an amount for transitional independent living programs as provided in section 677 of this title.”
 
@@ -218,13 +218,13 @@ Subsec. (c)(1), (2). Pub. L. 101–239, §8001(a), substituted “through 1992�
 
 Subsec. (c)(4)(B), (C). Pub. L. 101–239, §10401(a), substituted “$325,000,000” for “$266,000,000”.
 
-1987—Subsec. (b)(1), (2)(A)(iii), (B), (4)(B). Pub. L. 100–203, §9132(a)(1), substituted “through 1989” for “through 1987”.
+<b>1987</b>—Subsec. (b)(1), (2)(A)(iii), (B), (4)(B). Pub. L. 100–203, §9132(a)(1), substituted “through 1989” for “through 1987”.
 
 Subsec. (b)(5)(A). Pub. L. 100–203, §9132(a)(1), (2), substituted “October 1, 1989” for “October 1, 1987” in introductory provisions and “through 1989” for “through 1987” in cl. (ii).
 
 Subsec. (c)(1), (2). Pub. L. 100–203, §9132(a)(3), substituted “through 1989” for “through 1987”.
 
-1986—Subsec. (a)(3). Pub. L. 99–272, §12307(c)(1), substituted “; plus” for period at end.
+<b>1986</b>—Subsec. (a)(3). Pub. L. 99–272, §12307(c)(1), substituted “; plus” for period at end.
 
 Subsec. (a)(4). Pub. L. 99–514 realigned margins of par. (4).
 
@@ -240,7 +240,7 @@ Subsec. (b)(5)(A). Pub. L. 99–272, §12306(a)(3), substituted “October 1, 19
 
 Subsec. (c)(1), (2). Pub. L. 99–272, §12306(b), substituted “1987” for “1985”.
 
-1984—Subsec. (b)(1). Pub. L. 98–617, §4(a)(1)(A), formerly §4(a)(1), as redesignated and amended by Pub. L. 101–239, §10403(c)(1), substituted “1985” for “1984” after “1981 through”.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–617, §4(a)(1)(A), formerly §4(a)(1), as redesignated and amended by Pub. L. 101–239, §10403(c)(1), substituted “1985” for “1984” after “1981 through”.
 
 Subsec. (b)(2)(A)(v). Pub. L. 98–617, §4(a)(2), added cl. (v).
 
@@ -260,7 +260,7 @@ Pub. L. 98–369, §2663(c)(18)(B), substituted “relevant” for “relvant”
 
 Subsec. (d)(1). Pub. L. 98–369, §2663(c)(18)(C), substituted “and (C) such” for “and (c) such” and “Secretary may find” for “secretary may find”.
 
-1980—Subsec. (d). Pub. L. 96–611 added subsec. (d).
+<b>1980</b>—Subsec. (d). Pub. L. 96–611 added subsec. (d).
 
 #### Effective Date of 2008 Amendment
 
@@ -300,7 +300,7 @@ Section 210(b) of Pub. L. 103–432 provided that: “The amendment made by subs
 
 Section 13713(a)(3) of Pub. L. 103–66 provided that: “The amendments made by this subsection \[amending this section\] shall take effect on October 1, 1993.”
 
-Section 13713(b)(2) of Pub. L. 103–66, as amended by Pub. L. 104–193, title V, §502, Aug. 22, 1996, 110 Stat. 2277,provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to expenditures during fiscal years beginning on or after October 1, 1997.”
+Section 13713(b)(2) of Pub. L. 103–66, as amended by Pub. L. 104–193, title V, §502, Aug. 22, 1996, 110 Stat. 2277, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to expenditures during fiscal years beginning on or after October 1, 1997.”
 
 #### Effective Date of 1990 Amendment
 

@@ -42,7 +42,7 @@ A former spouse is not entitled to an annuity under this section if—
 
 &emsp;&emsp;(A) the annuity of the former spouse shall commence on the date on which the participant would qualify on the basis of the participant's creditable service for an annuity under this subchapter (other than disability annuity) or the date the disability annuity begins, whichever is later; and
 
-&emsp;&emsp;(B) the amount of the annuity of the former spouse shall be calculated on thebasis of the annuity for which the participant would otherwise so qualify.
+&emsp;&emsp;(B) the amount of the annuity of the former spouse shall be calculated on the basis of the annuity for which the participant would otherwise so qualify.
 
 #### (3) Election of benefits
 
@@ -60,7 +60,7 @@ A former spouse is not entitled to an annuity under this section if—
 
 #### (d) Restoration of annuities
 
-Notwithstanding subsection (c)(4)(A) of this section, the deadline by which an application for a retirement annuity must be submitted shall not apply in cases in which a former spouse's entitlement to such annuity is restored under subsection (b)(1) or (c)(1)(B) of this section.
+Notwithstanding subsection (c)(4)(A) of this section, the deadline by which an application fora retirement annuity must be submitted shall not apply in cases in which a former spouse's entitlement to such annuity is restored under subsection (b)(1) or (c)(1)(B) of this section.
 
 #### (e) Savings provision
 
@@ -74,7 +74,7 @@ A prior section 225 of Pub. L. 88–643, as added Pub. L. 100–178, title IV, �
 
 #### Amendments
 
-1993—Subsec. (c)(3). Pub. L. 103–178, §202(a)(7)(A), substituted “any survivor annuity” for “any other annuity”.
+<b>1993</b>—Subsec. (c)(3). Pub. L. 103–178, §202(a)(7)(A), substituted “any survivor annuity” for “any other annuity”.
 
 Subsec. (c)(4)(A). Pub. L. 103–178, §202(a)(7)(B), substituted “June 2, 1990” for “June 2, 1991”.
 

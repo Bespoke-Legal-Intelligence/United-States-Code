@@ -38,7 +38,7 @@ Regulations.—This section shall be administered under regulations prescribed b
 
 Inapplicability to Coast Guard.—This section does not apply to the Coast Guard.
 
-(Added Pub. L. 101–510, div. A, title XIV, §1481(c)(1), Nov. 5, 1990, 104 Stat. 1705; amended Pub. L. 104–106, div. A, title IX, §903(d), title X, §1062(a), Feb. 10, 1996, 110 Stat. 402, 443; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 107–107, div. A, title X, §1048(a)(9), Dec. 28, 2001, 115 Stat. 1223.)
+(Added Pub. L. 101–510, div. A, title XIV, §1481(c)(1), Nov. 5, 1990, 104 Stat. 1705; amended Pub. L. 104–106, div. A, title IX, §903(d), title X, §1062(a), Feb. 10, 1996, 110 Stat. 402, 443; Pub. L.104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 107–107, div. A, title X, §1048(a)(9), Dec. 28, 2001, 115 Stat. 1223.)
 
 #### Prior Provisions
 
@@ -46,9 +46,9 @@ Provisions similar to those in this section were contained in Pub. L. 101–189,
 
 #### Amendments
 
-2001—Subsec. (c)(2). Pub. L. 107–107 struck out “, not later than September 30, 1991,” before “information available”.
+<b>2001</b>—Subsec. (c)(2). Pub. L. 107–107 struck out “, not later than September 30, 1991,” before “information available”.
 
-1996—Subsec. (d). Pub. L. 104–106, §903(a), (d), which directed repeal of subsec. (d), eff. Jan. 31, 1997, was repealed by Pub. L. 104–201.
+<b>1996</b>—Subsec. (d). Pub. L. 104–106, §903(a), (d), which directed repeal of subsec. (d), eff. Jan. 31, 1997, was repealed by Pub. L. 104–201.
 
 Subsecs. (f), (g). Pub. L. 104–106, §1062(a), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “
 

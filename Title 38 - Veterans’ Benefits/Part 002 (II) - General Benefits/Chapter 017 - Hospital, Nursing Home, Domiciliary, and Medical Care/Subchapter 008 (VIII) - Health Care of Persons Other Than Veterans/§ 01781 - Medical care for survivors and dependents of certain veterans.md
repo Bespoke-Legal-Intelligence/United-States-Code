@@ -4,13 +4,15 @@
 
 &emsp;(1) the spouse or child of a veteran who has a total disability, permanent in nature, resulting from a service-connected disability,
 
-&emsp;(2) the surviving spouse or child of a veteran who (A) died as a result of a service-connected disability, or (B) at the time of death had a total disability permanent in nature, resulting from a service-connected disability, and
+&emsp;(2) the surviving spouse or child of a veteran who (A) died as a result of a service-connected disability, or (B) at the time of death had a total disability permanent in nature, resulting from a service-connected disability,
 
-&emsp;(3) the surviving spouse or child of a person who died in the active military, naval, or air service in the line of duty and not due to such person's own misconduct,
+&emsp;(3) the surviving spouse or child of a person who died in the active military, naval, or air service in the line of duty and not due to such person's own misconduct, and
+
+&emsp;(4) an individual designated as a primary provider of personal care services under section 1720G(a)(7)(A) of this title who is not entitled to care or services under a health-plan contract (as defined in section 1725(f) of this title); <sup>1</sup>
 
 > who are not otherwise eligible for medical care under chapter 55 of title 10 (CHAMPUS).
 
-(b) In order to accomplish the purposes of subsection (a) of this section, the Secretary shall provide for medical care in the same or similar manner and subject to the same or similar limitations as medical care is furnished to certain dependents and survivors of active duty and retired members of the Armed Forces under chapter 55 of title 10 (CHAMPUS), by—
+(b) In order to accomplish the purposes of subsection (a) of this section, the Secretary shallprovide for medical care in the same or similar manner and subject to the same or similar limitations as medical care is furnished to certain dependents and survivors of active duty and retired members of the Armed Forces under chapter 55 of title 10 (CHAMPUS), by—
 
 &emsp;(1) entering into an agreement with the Secretary of Defense under which that Secretary shall include coverage for such medical care under the contract, or contracts, that Secretary enters into to carry out such chapter 55, and under which the Secretary of Veterans Affairs shall fully reimburse the Secretary of Defense for all costs and expenditures made for the purposes of affording the medical care authorized pursuant to this section; or
 
@@ -42,11 +44,13 @@
 
 &emsp;(B) The term “third party” has the meaning given that term in section 1729(i)(3) of this title.
 
-(Added Pub. L. 93–82, title I, §103(b), Aug. 2, 1973, 87 Stat. 181, §613; amended Pub. L. 94–581, title I, §104, title II, §210(a)(4), Oct. 21, 1976, 90 Stat. 2845, 2862; Pub. L. 96–151, title II, §205(a), Dec. 20, 1979, 93 Stat. 1094; Pub. L. 97–72, title I, §105, Nov. 3, 1981, 95 Stat. 1050; Pub. L. 97–251, §5(a), Sept. 8, 1982, 96 Stat. 716; renumbered §1713 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(B), (E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–190, div. A, title VII, §704(b)(2), Dec. 5, 1991, 105 Stat. 1402; Pub. L. 107–14, §3, June 5, 2001, 115 Stat. 25; renumbered §1781 and amended Pub. L. 107–135, title II, §208(c), Jan. 23, 2002, 115 Stat. 2463; Pub. L. 107–330, title III, §308(g)(8), Dec. 6, 2002, 116 Stat. 2829.)
+(e) Payment by the Secretary under this section on behalf of a covered beneficiary for medical care shall constitute payment in full and extinguish any liability on the part of the beneficiary for that care.
+
+(Added Pub. L. 93–82, title I, §103(b), Aug. 2, 1973, 87 Stat. 181, §613; amended Pub. L. 94–581, title I, §104, title II, §210(a)(4), Oct. 21, 1976, 90 Stat. 2845, 2862; Pub. L. 96–151, title II, §205(a), Dec. 20, 1979, 93 Stat. 1094; Pub. L. 97–72, title I, §105, Nov. 3, 1981, 95 Stat. 1050; Pub. L. 97–251, §5(a), Sept. 8, 1982, 96 Stat. 716; renumbered §1713 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(B), (E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–190, div. A, title VII, §704(b)(2), Dec. 5, 1991, 105 Stat. 1402; Pub. L. 107–14, §3, June 5, 2001, 115 Stat. 25; renumbered §1781 and amended Pub. L. 107–135, title II, §208(c), Jan. 23, 2002, 115 Stat. 2463; Pub. L. 107–330, title III, §308(g)(8), Dec. 6, 2002, 116 Stat. 2829; Pub. L. 111–163, title I, §102, title V, §503, May 5, 2010, 124 Stat. 1139, 1157.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d)(4)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(4)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -54,7 +58,11 @@ A prior section 1781 was renumbered section 3681 of this title.
 
 #### Amendments
 
-2002—Pub. L. 107–135, §208(c)(1), (2), renumbered section 1713 of this title as this section.
+<b>2010</b>—Subsec. (a)(4). Pub. L. 111–163, §102, added par. (4).
+
+Subsec. (e). Pub. L. 111–163, §503, added subsec. (e).
+
+<b>2002</b>—Pub. L. 107–135, §208(c)(1), (2), renumbered section 1713 of this title as this section.
 
 Subsec. (b). Pub. L. 107–135, §208(c)(3), inserted at end “A dependent or survivor receiving care under the preceding sentence shall be eligible for the same medical services as a veteran, including services under sections 1782 and 1783 of this title.”
 
@@ -62,9 +70,9 @@ Subsec. (d)(1)(B)(i). Pub. L. 107–330, §308(g)(8)(A), substituted “as of Ju
 
 Subsec. (d)(4). Pub. L. 107–330, §308(g)(8)(B), substituted “subsection” for “paragraph” in introductory provisions.
 
-2001—Subsec. (d). Pub. L. 107–14 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Notwithstanding section 1086(d)(1) of title 10 or any other provision of law, any spouse, surviving spouse, or child who, after losing eligibility for medical care under this section by virtue of becoming entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.), has exhausted any such benefits shall become eligible for medical care under this section and shall not thereafter lose such eligibility under this section by virtue of becoming again eligible for such hospital insurance benefits.”
+<b>2001</b>—Subsec. (d). Pub. L. 107–14 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Notwithstanding section 1086(d)(1) of title 10 or any other provision of law, any spouse, surviving spouse, or child who, after losing eligibility for medical care under this section by virtue of becoming entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.), has exhausted any such benefits shall become eligible for medical care under this section and shall not thereafter lose such eligibility under this section by virtue of becoming again eligible for such hospital insurance benefits.”
 
-1991—Pub. L. 102–83, §5(a), renumbered section 613 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 613 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
@@ -76,15 +84,15 @@ Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans�
 
 Subsec. (d). Pub. L. 102–190 substituted “section 1086(d)(1)” for “the second sentence of section 1086(c)”.
 
-1982—Subsec. (d). Pub. L. 97–251 added subsec. (d).
+<b>1982</b>—Subsec. (d). Pub. L. 97–251 added subsec. (d).
 
-1981—Subsec. (b). Pub. L. 97–72 substituted “equipped to provide the care and treatment” for “particularly equipped to provide the most effective care and treatment” in provisions following par. (2).
+<b>1981</b>—Subsec. (b). Pub. L. 97–72 substituted “equipped to provide the care and treatment” for “particularly equipped to provide the most effective care and treatment” in provisions following par. (2).
 
-1979—Subsec. (a). Pub. L. 96–151, §205(a)(1), in cl. (1) substituted reference to spouse for reference to wife, in cl. (2) substituted reference to surviving spouse for reference to widow, and added cl. (3).
+<b>1979</b>—Subsec. (a). Pub. L. 96–151, §205(a)(1), in cl. (1) substituted reference to spouse for reference to wife, in cl. (2) substituted reference to surviving spouse for reference to widow, and added cl. (3).
 
 Subsec. (c). Pub. L. 96–151, §205(a)(2), added subsec. (c).
 
-1976—Subsec. (a)(2). Pub. L. 94–581, §104, designated existing provisions as cl. (A) and added cl. (B).
+<b>1976</b>—Subsec. (a)(2). Pub. L. 94–581, §104, designated existing provisions as cl. (A) and added cl. (B).
 
 Subsec. (b)(1). Pub. L. 94–581, §210(a)(4)(A), substituted “the Secretary enters” for “he enters”.
 
@@ -105,4 +113,6 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 #### Effective Date
 
 Section effective Sept. 1, 1973, see section 501 of Pub. L. 93–82, set out as an Effective Date of 1973 Amendment note under section 1701 of this title.
+
+<i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

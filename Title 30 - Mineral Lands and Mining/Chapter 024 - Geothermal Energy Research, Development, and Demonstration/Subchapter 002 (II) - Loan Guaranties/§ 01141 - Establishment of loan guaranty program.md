@@ -36,7 +36,7 @@ Loan guaranties under this subchapter shall be on such terms and conditions as t
 
 #### (e) Limitations on amount of guaranty; exceptions; procedures applicable
 
-The amount of the guaranty for any loan for a project shall not exceed $100,000,000: <i>Provided</i>, That in the case of a guaranty under subsection (b)(5) of this section, the amount of the guaranty for any loan for a project shall not exceed $50,000,000 and the amount of the guaranty for any combination of loans for any single qualified borrower shall not exceed $200,000,000, unless the Secretary of Energy determines in writing that a guaranty in excess of these amounts is in the national interest. Any such determination shall be submitted to the Speaker of the House and the Committee on Science, Space, and Technology of the House of Representatives, and to the President of the Senate and the Committee on Energy and Natural Resources of the Senate, accompanied by a full and complete report on the proposed project and guaranty. The proposed guaranty or commitment to guarantee shall not be finalized under authority granted by this chapter prior to the expiration of thirty calendar days (not including any date on which either House of Congress is not in session) from the date on which such report is received by the Speaker of the House and the President of the Senate.
+The amount of the guaranty for any loan for a project shall not exceed $100,000,000: <i>Provided</i>, That in the case of a guaranty under subsection (b)(5) of this section, the amount of the guaranty for any loan for a project shall not exceed $50,000,000 and the amount of the guaranty for any combination of loans for any single qualified borrower shall not exceed $200,000,000, unless the Secretary of Energy determines in writing that a guaranty in excess of these amounts is in the national interest. Any such determination shall be submitted to the Speaker of the House and the Committee on Science, Space, and Technology of the House of Representatives, and to the President of the Senate and the Committeeon Energy and Natural Resources of the Senate, accompanied by a full and complete report on the proposed project and guaranty. The proposed guaranty or commitment to guarantee shall not be finalized under authority granted by this chapter prior to the expiration of thirty calendar days (not including any date on which either House of Congress is not in session) from the date on which such report is received by the Speaker of the House and the President of the Senate.
 
 #### (f) “Qualified borrower” defined
 
@@ -62,13 +62,13 @@ The Secretary of the Treasury shall insure to the maximum extent feasible that t
 
 #### Amendments
 
-1994—Subsec. (e). Pub. L. 103–437 substituted “Science, Space, and Technology” for “Science and Technology”.
+<b>1994</b>—Subsec. (e). Pub. L. 103–437 substituted “Science, Space, and Technology” for “Science and Technology”.
 
-1986—Subsec. (g). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (g). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1980—Subsec. (c). Pub. L. 96–294 inserted provisions relating to guarantees for loans to an electric, housing, or other cooperative, or to a municipality (as defined in section 796(7) of title 16).
+<b>1980</b>—Subsec. (c). Pub. L. 96–294 inserted provisions relating to guarantees for loans to an electric, housing, or other cooperative, or to a municipality (as defined in section 796(7) of title 16).
 
-1978—Subsec. (b)(4). Pub. L. 95–238, §506, substituted “using” for “from”.
+<b>1978</b>—Subsec. (b)(4). Pub. L. 95–238, §506, substituted “using” for “from”.
 
 Subsec. (b)(5). Pub. L. 95–238, §505, added par. (5).
 

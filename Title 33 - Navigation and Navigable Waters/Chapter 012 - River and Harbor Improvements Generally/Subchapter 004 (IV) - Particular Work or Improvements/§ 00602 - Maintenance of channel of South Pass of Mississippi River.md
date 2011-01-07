@@ -22,7 +22,7 @@ The provisions of that act and of act Aug. 11, 1888, with regard to examinations
 
 #### Amendments
 
-1954—Act Aug. 30, 1954, repealed proviso requiring that an itemized statement of expenses incurred for maintenance of the channel through, and securing uninterrupted examinations and surveys of, the South Pass of the Mississippi River, as provided in this section, should accompany the annual report of the Chief of Engineers.
+<b>1954</b>—Act Aug. 30, 1954, repealed proviso requiring that an itemized statement of expenses incurred for maintenance of the channel through, and securing uninterrupted examinations and surveys of, the South Pass of the Mississippi River, as provided in this section, should accompany the annual report of the Chief of Engineers.
 
 #### Change of Name
 

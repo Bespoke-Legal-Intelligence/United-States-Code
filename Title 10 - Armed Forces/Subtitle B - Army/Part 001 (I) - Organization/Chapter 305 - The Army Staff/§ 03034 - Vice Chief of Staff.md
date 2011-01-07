@@ -42,7 +42,7 @@ A prior section 3034 was renumbered section 3033 of this title.
 
 #### Amendments
 
-1986—Pub. L. 99–433, §502(d), renumbered section 3035 of this title as this section.
+<b>1986</b>—Pub. L. 99–433, §502(d), renumbered section 3035 of this title as this section.
 
 Pub. L. 99–433, §502(d)(3), substituted “Vice Chief of Staff” for “Vice Chief of Staff, Deputy Chiefs of Staff, and Assistant Chiefs of Staff: succession to duties of Chief of Staff” in section catchline.
 
@@ -58,5 +58,5 @@ Subsecs. (a), (b). Pub. L. 99–433, §502(d)(1), amended subsecs. (a) and (b) g
 
 Subsec. (d). Pub. L. 99–433, §502(d)(2), added subsec. (d).
 
-1958—Subsec. (c). Pub. L. 85–599 added subsec. (c).
+<b>1958</b>—Subsec. (c). Pub. L. 85–599 added subsec. (c).
 

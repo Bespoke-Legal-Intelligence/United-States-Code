@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Any loss with respect to 1 or more positions shall be taken into account for any taxable year only to the extent that the amount of such loss exceeds the unrecognized gain (if any) with respect to 1 or more positions which were offsetting positionswith respect to 1 or more positions from which the loss arose.
+&emsp;&emsp;Any loss with respect to 1 or more positions shall be taken into account for any taxable year only to the extent that the amount of such loss exceeds the unrecognized gain (if any) with respect to 1 or more positions which were offsetting positions with respect to 1 or more positions from which the loss arose.
 
 #### (B) Carryover of loss
 
@@ -374,7 +374,7 @@ Section 246(c)(3) of this title, referred to in subsec. (c)(4)(E), was amended b
 
 #### Amendments
 
-2007—Subsec. (a)(2)(A)(i). Pub. L. 110–172, §7(d)(2)(B)(i), substituted “positions” for “identified positions”.
+<b>2007</b>—Subsec. (a)(2)(A)(i). Pub. L. 110–172, §7(d)(2)(B)(i), substituted “positions” for “identified positions”.
 
 Subsec. (a)(2)(A)(ii). Pub. L. 110–172, §7(d)(2)(B)(ii), (iii), substituted “any position” for “any identified position” and “the offsetting positions” for “the identified offsetting positions”.
 
@@ -388,9 +388,9 @@ Subsec. (a)(2)(C), (D). Pub. L. 110–172, §7(d)(3), (4), added subpar. (C), re
 
 Subsec. (a)(3)(B). Pub. L. 110–172, §7(d)(2)(C), substituted “offsetting position” for “identified offsetting position”.
 
-2005—Subsec. (a)(2). Pub. L. 109–135 added subpar. (C) and struck out concluding provisions of subpar. (B) which read as follows: “The Secretary shall prescribe regulations which specify the proper methods for clearly identifying a straddle as an identified straddle (and the positions comprising such straddle), which specify the rules for the application of this section for a taxpayer which fails to properly identify the positions of an identified straddle, and which specify the ordering rules in cases where a taxpayer disposes of less than an entire position which is part of an identified straddle.”
+<b>2005</b>—Subsec. (a)(2). Pub. L. 109–135 added subpar. (C) and struck out concluding provisions of subpar. (B) which read as follows: “The Secretary shall prescribe regulations which specify the proper methods for clearly identifying a straddle as an identified straddle (and the positions comprising such straddle), which specify the rules for the application of this section for a taxpayer which fails to properly identify the positions of an identified straddle, and which specify the ordering rules in cases where a taxpayer disposes of less than an entire position which is part of an identified straddle.”
 
-2004—Subsec. (a)(2)(A). Pub. L. 108–357, §888(a)(1), reenacted heading without change and amended text of subpar. (A) generally. Prior to amendment, text read as follows: “In the case of any straddle which is an identified straddle as of the close of any taxable year—
+<b>2004</b>—Subsec. (a)(2)(A). Pub. L. 108–357, §888(a)(1), reenacted heading without change and amended text of subpar. (A) generally. Prior to amendment, text read as follows: “In the case of any straddle which is an identified straddle as of the close of any taxable year—
 
 &emsp;“(i) paragraph (1) shall not apply for such taxable year, and
 
@@ -412,15 +412,15 @@ Subsec. (d)(3). Pub. L. 108–357, §888(c)(1), reenacted heading without change
 
 Subsec. (d)(8). Pub. L. 108–357, §888(b), added par. (8).
 
-2000—Subsec. (d)(3)(B)(i)(II), (III). Pub. L. 106–554 added subcl. (II) and redesignated former subcl. (II) as (III).
+<b>2000</b>—Subsec. (d)(3)(B)(i)(II), (III). Pub. L. 106–554 added subcl. (II) and redesignated former subcl. (II) as (III).
 
-1999—Subsec. (a)(3)(B)(ii)(II). Pub. L. 106–170 substituted “1221(a)” for “1221”.
+<b>1999</b>—Subsec. (a)(3)(B)(ii)(II). Pub. L. 106–170 substituted “1221(a)” for “1221”.
 
-1997—Subsec. (f)(2). Pub. L. 105–34 substituted “The” for “Except for purposes of section 851(b)(3), the”.
+<b>1997</b>—Subsec. (f)(2). Pub. L. 105–34 substituted “The” for “Except for purposes of section 851(b)(3), the”.
 
-1988—Subsec. (b)(2)(D). Pub. L. 100–647 added subpar. (D).
+<b>1988</b>—Subsec. (b)(2)(D). Pub. L. 100–647 added subpar. (D).
 
-1986—Subsec. (c)(4)(E). Pub. L. 99–514, §331(a), in cl. (i), inserted “or the stock is disposed of at a loss”, in cl. (ii), substituted “or gains on such options are” for “is”, and in cl. (iii), inserted “or option” and “or the disposition of such stock”.
+<b>1986</b>—Subsec. (c)(4)(E). Pub. L. 99–514, §331(a), in cl. (i), inserted “or the stock is disposed of at a loss”, in cl. (ii), substituted “or gains on such options are” for “is”, and in cl. (iii), inserted “or option” and “or the disposition of such stock”.
 
 Subsec. (d)(3)(A). Pub. L. 99–514, §1808(c), inserted at end “The preceding sentence shall not apply to any interest in stock.”
 
@@ -428,7 +428,7 @@ Subsec. (d)(5), (6). Pub. L. 99–514, §1899A(66), amended directory language o
 
 Subsec. (d)(7). Pub. L. 99–514, §1261(b), added par. (7).
 
-1984—Subsec. (a)(2)(B)(i). Pub. L. 98–369, §107(a), designated existing provisions as subcl. (I) and added subcl. (II).
+<b>1984</b>—Subsec. (a)(2)(B)(i). Pub. L. 98–369, §107(a), designated existing provisions as subcl. (I) and added subcl. (II).
 
 Subsec. (b). Pub. L. 98–369, §103(a), amended subsec. (b) generally, substituting provisions dealing with regulations for provisions dealing with character of gain or loss and wash sales.
 
@@ -440,7 +440,7 @@ Subsec. (d)(2). Pub. L. 98–369, §101(a)(1), redesignated former subpar. (A) a
 
 Subsec. (d)(3), (4). Pub. L. 98–369, §101(b)(2), as amended by Pub. L. 99–514, §1899A(66), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
-Subsec. (d)(5). Pub. L. 98–369, §101(d), amended par. (4) generally, substituting provisions relating to specialrules for section 1256 contracts for provisions relating to special rules for regulated futures contracts.
+Subsec. (d)(5). Pub. L. 98–369, §101(d), amended par. (4) generally, substituting provisions relating to special rules for section 1256 contracts for provisions relating to special rules for regulated futures contracts.
 
 Pub. L. 98–369, §101(b)(2), as amended by Pub. L. 99–514, §1899A(66), redesignated former par. (4) as (5). Former par. (5) redesignated (6).
 
@@ -450,7 +450,7 @@ Pub. L. 98–369, §101(b)(2), as amended by Pub. L. 99–514, §1899A(66), rede
 
 Subsecs. (f), (g). Pub. L. 98–369, §101(c), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1983—Subsec. (a)(1)(A). Pub. L. 97–448, §105(a)(1)(A), (2), substituted “unrecognized gain” for “unrealized gain” and “which were offsetting positions with respect to 1 or more positions from which the loss arose” for “which— (i) were acquired by the taxpayer before the disposition giving rise to such loss, (ii) were offsetting positions with respect to the 1 or more positions from which the loss arose, and (iii) were not part of an identified straddle as of the close of the taxable year”.
+<b>1983</b>—Subsec. (a)(1)(A). Pub. L. 97–448, §105(a)(1)(A), (2), substituted “unrecognized gain” for “unrealized gain” and “which were offsetting positions with respect to 1 or more positions from which the loss arose” for “which— (i) were acquired by the taxpayer before the disposition giving rise to such loss, (ii) were offsetting positions with respect to the 1 or more positions from which the loss arose, and (iii) were not part of an identified straddle as of the close of the taxable year”.
 
 Subsec. (a)(3). Pub. L. 97–448, §105(a)(1)(B), substituted “Unrecognized gain” for “Unrealized gain” in heading.
 
@@ -623,4 +623,8 @@ Regulated Futures Contracts.—For purposes of this section, the term ‘regulat
 “(h)
 
 Syndicates.—For purposes of this section, any loss incurred by a person (other than a commodities dealer) with respect to an interest in a syndicate (within the meaning of section 1256(e)(3)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) shall not be considered to be a loss incurred in a trade or business.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “to”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

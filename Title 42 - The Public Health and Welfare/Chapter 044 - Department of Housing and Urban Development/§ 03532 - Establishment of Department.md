@@ -26,7 +26,7 @@ The Secretary shall—
 
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 89–174, Sept. 9, 1965, 79 Stat. 667, as amended, known as the Department of Housing and Urban Development Act, which enacted this chapter, amended section 1451 of this title, sections 1 and 2211 of former Title 5, Executive Departments and Government Officers and Employees, section 19 of Title 3, The President, and section 1723 of Title 12, Banks and Banking, and enacted provisions set out as notes under section 3531 of this title. Section 1 of former Title 5 was repealed and reenacted as section 101 of Title 5, Government Organization and Employees, and section 2211 of former Title 5 was repealed and reenacted as sections 5312 to 5317 of Title 5 by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378. For complete classification of this Act to the Code, see Short Title note set out under section 3531 of this title and Tables.
+This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 89–174, Sept. 9, 1965, 79 Stat. 667, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3531 of this title and Tables.
 
 #### Codification
 
@@ -34,13 +34,13 @@ Section was formerly classified to section 624a of former Title 5, Executive Dep
 
 #### Amendments
 
-1988—Subsec. (d). Pub. L. 100–242 added subsec. (d).
+<b>1988</b>—Subsec. (d). Pub. L. 100–242 added subsec. (d).
 
-1967—Subsec. (a). Pub. L. 90–83 struck out provision for compensation of Secretary.
+<b>1967</b>—Subsec. (a). Pub. L. 90–83 struck out provision for compensation of Secretary.
 
 #### Effective Date; Interim Appointments
 
-Nomination and appointment of Secretary of Housing and Urban Development any time after Sept. 9, 1965, and interim designation and compensation of officer of Housing and Home Finance Agency for that office upon nonentry upon the office upon expiration of first period of sixty calendar days following Sept. 9, 1965, or on earlier date specified by Executive order, see section 11 of Pub. L. 89–174, set out as a note under section 3531 of this title.
+Nomination and appointment of Secretary of Housing and Urban Development any time after Sept. 9, 1965, and interim designation and compensation of officer of Housing and Home Finance Agency for that office uponnonentry upon the office upon expiration of first period of sixty calendar days following Sept. 9, 1965, or on earlier date specified by Executive order, see section 11 of Pub. L. 89–174, set out as a note under section 3531 of this title.
 
 #### Order of Succession
 

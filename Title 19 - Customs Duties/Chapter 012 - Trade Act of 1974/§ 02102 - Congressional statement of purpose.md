@@ -40,3 +40,5 @@ Pub. L. 98–573, title III, §302, Oct. 30, 1984, 98 Stat. 3000, provided that:
 
 &emsp;“(4) to enhance the free flow of foreign direct investment through the negotiation of agreements (both bilateral and multilateral) which reduce or eliminate the trade distortive effects of certain investment-related measures.”
 
+<i><sup>1</sup></i><i> So in original.</i>
+

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Beginning with implementation under section 1722 of this title of the law enforcement and intelligence data system, not later than 72 hours after receiving notification of the loss or theft of a United States or foreign passport, the Attorney General and the Secretary of State, as appropriate, shall enter into such system the corresponding identification number for the lost or stolen passport.
+&emsp;Beginning with implementation under section 1722 of this title of the law enforcement and intelligence data system, not later than 72 hours after receiving notification of the lossor theft of a United States or foreign passport, the Attorney General and the Secretary of State, as appropriate, shall enter into such system the corresponding identification number for the lost or stolen passport.
 
 #### (2) Entry of information on previously lost or stolen passports
 

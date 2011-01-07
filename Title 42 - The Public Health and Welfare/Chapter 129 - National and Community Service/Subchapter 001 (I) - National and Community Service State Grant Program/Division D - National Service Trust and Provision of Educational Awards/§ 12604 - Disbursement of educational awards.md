@@ -78,7 +78,7 @@ Amounts in the Trust shall be available—
 
 #### (2) Submission of requests for payment by institutions
 
-&emsp;An institution of higher education that receives one or more applications that comply with paragraph (1) shall submit to the Corporation a statement, in a manner prescribed by the Corporation, that—
+&emsp;An institution of higher education that receives one or more applications that complywith paragraph (1) shall submit to the Corporation a statement, in a manner prescribed by the Corporation, that—
 
 &emsp;&emsp;(A) identifies each eligible individual filing an application under paragraph (1) for a disbursement of the individual's national service educational award, summer of service educational award, or silver scholar educational award, as applicable, under this subsection;
 
@@ -100,7 +100,7 @@ Amounts in the Trust shall be available—
 
 #### (4) Multiple disbursements required
 
-&emsp;The total amount required to be disbursed to an institution of higher education under paragraph (3) for any period of enrollment shall be disbursed by the Corporation in 2 or more installments, none of which exceeds 1/2 of such total amount. The interval between the first and second such installment shall not be less than 1/2 of such period of enrollment, except as necessary to permit the second installment to be paid at the beginning of the second semester, quarter, or similar division of such period of enrollment.
+&emsp;The total amount required to be disbursed to an institution of higher education under paragraph (3) for any period of enrollment shall be disbursed by the Corporation in 2 or more installments, none of which exceeds ½ of such total amount. The interval between the first and second such installment shall not be less than ½ of such period of enrollment, except as necessary to permit the second installment to be paid at the beginning of the second semester, quarter, or similar division of such period of enrollment.
 
 #### (5) Refund rules
 
@@ -126,7 +126,7 @@ The Corporation shall provide by regulation for the payment on behalf of an elig
 
 #### (1) In general
 
-&emsp;An individual who is eligible to receive a national service educational award or silver scholar educational award due to service in a program described in paragraph (2) may elect to receive the award (in the amount described in the corresponding provision of section 12603 of this title) and transfer the award to a designated individual. Subsections (b), (c), and (d) shall apply to the designated individual in lieu of the individual who is eligible to receive the national service educational award or silver scholar educational award, except that amounts refunded to the account under subsection (c)(5) on behalf of a designated individual may be used by the Corporation to fund additional placements in the national service program in which the eligible individual who transferred the national service educational award or silver scholar educational award participated for such award.
+&emsp;An individual who is eligible to receive a national service educational award or silver scholar educational award due to service in a program described in paragraph (2) may elect to receive the award (in the amount described in the corresponding provision of section 12603 of this title) and transfer the award to a designated individual. Subsections (b), (c), and (d) shall apply to the designated individual in lieu of the individual who is eligible to receive thenational service educational award or silver scholar educational award, except that amounts refunded to the account under subsection (c)(5) on behalf of a designated individual may be used by the Corporation to fund additional placements in the national service program in which the eligible individual who transferred the national service educational award or silver scholar educational award participated for such award.
 
 #### (2) Conditions for transfer
 
@@ -180,7 +180,7 @@ With the approval of the Chief Executive Officer, an approved national service p
 
 #### (h) “Institution of higher education” defined
 
-Notwithstanding section 12511 of this title, for purposes of this section the term “institution of higher education” has the meaning provided bysection 102 of the Higher Education Act of 1965 \[20 U.S.C. 1002\].
+Notwithstanding section 12511 of this title, for purposes of this section the term “institution of higher education” has the meaning provided by section 102 of the Higher Education Act of 1965 \[20 U.S.C. 1002\].
 
 (Pub. L. 101–610, title I, §148, as added Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 820; amended Pub. L. 105–244, title I, §102(c)(2), Oct. 7, 1998, 112 Stat. 1622; Pub. L. 111–13, title I, §1405, Apr. 21, 2009, 123 Stat. 1515.)
 
@@ -196,11 +196,11 @@ A prior section 148 of Pub. L. 101–610 was classified to section 12578 of this
 
 #### Amendments
 
-2009—Pub. L. 111–13, §1405(1), substituted section catchline for former section catchline.
+<b>2009</b>—Pub. L. 111–13, §1405(1), substituted section catchline for former section catchline.
 
 Subsec. (a)(2) to (5). Pub. L. 111–13, §1405(2), substituted “cost of attendance or other educational expenses” for “cost of attendance” in par. (2), added par. (4), and redesignated former par. (4) as (5).
 
-Subsec. (b)(1). Pub. L. 111–13, §1405(3)(A), inserted “, an eligible individual under section 12602(a) of this title who served in a summer of service program and desires to apply that individual's summer of service educational award, or an eligible individual under section 12602(a) of this title who served in a silver scholar program and desires to apply that individual's silver scholar educational award,” after “the national service educational award of the individual” in introductory provisions.
+Subsec. (b)(1). Pub. L. 111–13, §1405(3)(A), inserted “, an eligible individual under section 12602(a) of this title who served in a summer of service program and desires to apply that individual's summer of serviceeducational award, or an eligible individual under section 12602(a) of this title who served in a silver scholar program and desires to apply that individual's silver scholar educational award,” after “the national service educational award of the individual” in introductory provisions.
 
 Subsec. (b)(2). Pub. L. 111–13, §1405(3)(B), inserted “, the summer of service educational award, or the silver scholar educational award, as applicable,” after “the national service educational award”.
 
@@ -238,7 +238,7 @@ Pub. L. 111–13, §1405(7), substituted “Chief Executive Officer” for “Di
 
 Subsecs. (g), (h). Pub. L. 111–13, §1405(8), redesignated subsecs. (f) and (g) as (g) and (h), respectively.
 
-1998—Subsec. (g). Pub. L. 105–244 substituted “section 102 of the Higher Education Act of 1965” for “section 481(a) of the Higher Education Act of 1965 (20 U.S.C. 1088(a))”.
+<b>1998</b>—Subsec. (g). Pub. L. 105–244 substituted “section 102 of the Higher Education Act of 1965” for “section 481(a) of the Higher Education Act of 1965 (20 U.S.C. 1088(a))”.
 
 #### Effective Date of 2009 Amendment
 

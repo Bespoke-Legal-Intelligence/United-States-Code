@@ -178,7 +178,7 @@ The Commissioner shall evaluate the impact of the training programs conducted un
 
 #### (2) Compensation
 
-&emsp;An expert or consultant appointed or serving under contract pursuant to this section shall be compensated at a rate, subject to approval of the Commissioner, that shall not exceed the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382 of title 5. Such an expert or consultant may be allowed travel and transportation expenses in accordance with section 5703 of title 5.
+&emsp;An expert or consultant appointed or serving under contract pursuant to this section shall be compensated at a rate, subject to approval of the Commissioner, that shall not exceed the daily equivalent of the rate of pay for level 4of the Senior Executive Service Schedule under section 5382 of title 5. Such an expert or consultant may be allowed travel and transportation expenses in accordance with section 5703 of title 5.
 
 #### (3) In-service training of rehabilitation personnel
 
@@ -228,5 +228,5 @@ A prior section 302 of Pub. L. 93–112 was classified to section 771a of this t
 
 #### Amendments
 
-2004—Subsec. (f)(1)(D)(ii). Pub. L. 108–446 made technical amendment to reference in original act which appears in text as reference to section 1402 of title 20.
+<b>2004</b>—Subsec. (f)(1)(D)(ii). Pub. L. 108–446 made technical amendment to reference in original act which appears in text as reference to section 1402 of title 20.
 

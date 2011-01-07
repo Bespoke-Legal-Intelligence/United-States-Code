@@ -2,7 +2,7 @@
 
 (a)(1) There is a Secretary of the Air Force, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Secretary is the head of the Department of the Air Force.
 
-(2) A person may not be appointed as Secretary of the Air Force within five years after relief from active duty as a commissioned officer of a regular component of an armed force.
+(2) A person may not be appointed as Secretary of the Air Force within five years afterrelief from active duty as a commissioned officer of a regular component of an armed force.
 
 (b) Subject to the authority, direction, and control of the Secretary of Defense and subject to the provisions of chapter 6 of this title, the Secretary of the Air Force is responsible for, and has the authority necessary to conduct, all affairs of the Department of the Air Force, including the following functions:
 
@@ -70,9 +70,9 @@ Another prior section 8013 was renumbered section 8014 of this title and subsequ
 
 #### Amendments
 
-2003—Subsec. (c)(4). Pub. L. 108–136 struck out “(to the maximum extent practicable)” after “fulfill”.
+<b>2003</b>—Subsec. (c)(4). Pub. L. 108–136 struck out “(to the maximum extent practicable)” after “fulfill”.
 
-1986—Subsec. (a)(2). Pub. L. 99–661 substituted “five years” for “10 years”.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–661 substituted “five years” for “10 years”.
 
 #### Order of Succession
 

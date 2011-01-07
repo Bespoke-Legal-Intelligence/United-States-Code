@@ -26,9 +26,9 @@ A prior section 1083, act Aug. 10, 1956, ch. 1041, 70A Stat. 87, related to tran
 
 #### Amendments
 
-1984—Pub. L. 98–557 substituted reference to other administering Secretaries for reference to Secretary of Health and Human Services.
+<b>1984</b>—Pub. L. 98–557 substituted reference to other administering Secretaries for reference to Secretary of Health and Human Services.
 
-1980—Pub. L. 96–513 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+<b>1980</b>—Pub. L. 96–513 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
 #### Effective Date of 1980 Amendment
 

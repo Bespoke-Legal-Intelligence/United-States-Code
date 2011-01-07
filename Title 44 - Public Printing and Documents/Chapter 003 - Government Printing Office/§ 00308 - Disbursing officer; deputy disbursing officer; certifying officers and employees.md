@@ -1,6 +1,6 @@
 ### §308. Disbursing officer; deputy disbursing officer; certifying officers and employees
 
-(a) The Public Printer shall appoint from time to time a disbursing officer of the Government Printing Office (including the Office of the Superintendent of Documents) who shall be under the direction of the Public Printer. The disbursing officer shall (1) disburse moneys of the Government Printing Office only upon, and in strict accordance with, vouchers certified by the Public Printer or by an officer or employee of the Government Printing Office authorized in writing by the Public Printer to certify such vouchers, (2) make such examination of vouchers as may be necessary to ascertain whether they are in proper form, certified, and approved, and (3) be held accountable accordingly. However, thedisbursing officer shall not be held accountable or responsible for any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate, the responsibility for which, under subsection (c) of this section, is imposed upon a certifying officer or employee of the Government Printing Office.
+(a) The Public Printer shall appoint from time to time a disbursing officer of the Government Printing Office (including the Office of the Superintendent of Documents) who shall be under the direction of the Public Printer. The disbursing officer shall (1) disburse moneys of the Government Printing Office only upon, and in strict accordance with, vouchers certified by the Public Printer or by an officer or employee of the Government Printing Office authorized in writing by the Public Printer to certify such vouchers, (2) make such examination of vouchers as may be necessary to ascertain whether they are in proper form, certified, and approved, and (3) be held accountable accordingly. However, the disbursing officer shall not be held accountable or responsible for any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate, the responsibility for which, under subsection (c) of this section, is imposed upon a certifying officer or employee of the Government Printing Office.
 
 (b)(1) Upon the death, resignation, or separation from office of the disbursing officer, his accounts may be continued, and payments and collection may be made in his name, by any individual designated as a deputy disbursing officer by the Public Printer, for a period of time not to extend beyond the last day of the second month following the month in which the death, resignation, or separation occurred. Accounts and payments shall be allowed, audited, and settled, and checks signed in the name of the former disbursing officer by a deputy disbursing officer shall be honored in the same manner as if the former disbursing officer had continued in office.
 
@@ -22,11 +22,11 @@ Paragraph (a) deleted as executed.
 
 #### Amendments
 
-1982—Subsec. (c)(1). Pub. L. 97–258 substituted “section 3726 of title 31” for “section 244 of title 31”.
+<b>1982</b>—Subsec. (c)(1). Pub. L. 97–258 substituted “section 3726 of title 31” for “section 244 of title 31”.
 
-1978—Subsec. (c)(1). Pub. L. 95–473 substituted “section 244 of title 31” for “section 66 of title 49”.
+<b>1978</b>—Subsec. (c)(1). Pub. L. 95–473 substituted “section 244 of title 31” for “section 66 of title 49”.
 
-1974—Pub. L. 93–459 substituted “Disbursing officer; deputy disbursing officer; certifying officers and employees” for “Disbursing officer: continuation and settlement of accounts during vacancy in office; responsibility for accounts; disbursements for Superintendent of Documents” in section catchline.
+<b>1974</b>—Pub. L. 93–459 substituted “Disbursing officer; deputy disbursing officer; certifying officers and employees” for “Disbursing officer: continuation and settlement of accounts during vacancy in office; responsibility for accounts; disbursements for Superintendent of Documents” in section catchline.
 
 Subsec. (a). Pub. L. 93–459 added subsec. (a). Former subsec. (a) redesignated (b)(1).
 
@@ -36,5 +36,5 @@ Subsec. (b)(2). Pub. L. 93–459 redesignated provisions of former subsec. (b) a
 
 Subsec. (c). Pub. L. 93–459 added subsec. (c). Former subsec. (c), relating to disbursements on account of salaries or other expenses of the office of the Superintendent of Documents, was struck out.
 
-1972—Subsec. (b). Pub. L. 92–310 struck out provisions which related to sureties on official bonds.
+<b>1972</b>—Subsec. (b). Pub. L. 92–310 struck out provisions which related to sureties on official bonds.
 

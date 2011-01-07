@@ -12,7 +12,7 @@ For purposes of this chapter, the term—
 
 #### Amendments
 
-1987—Par. (2). Pub. L. 100–153 inserted proviso that “unauthorized disbursement” includes specifically identified reimbursements for welfare payments.
+<b>1987</b>—Par. (2). Pub. L. 100–153 inserted proviso that “unauthorized disbursement” includes specifically identified reimbursements for welfare payments.
 
 #### Short Title
 

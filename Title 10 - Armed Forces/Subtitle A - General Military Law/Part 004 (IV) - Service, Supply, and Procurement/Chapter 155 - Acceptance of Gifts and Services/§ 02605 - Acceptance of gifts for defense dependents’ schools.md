@@ -32,7 +32,7 @@ The Defense Dependents’ Education Act of 1978, referred to in subsec. (g)(1), 
 
 #### Amendments
 
-1994—Pub. L. 103–337, §353(c)(1), substituted “schools” for “education system” in section catchline.
+<b>1994</b>—Pub. L. 103–337, §353(c)(1), substituted “schools” for “education system” in section catchline.
 
 Subsec. (a). Pub. L. 103–337, §353(a)(1), substituted “a defense dependents’ school” for “the defense dependents’ education system provided for under the Defense Dependents’ Education Act of 1978 (20 U.S.C. 921 et seq.)”.
 

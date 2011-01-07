@@ -42,7 +42,7 @@ Historical and Revision Notes
 
 June 5, 1920, ch. 250, §27 (2d–6th sentences, last sentence less provisos), 41 Stat. 999; July 2, 1935, ch. 355, 49 Stat. 442; Pub. L. 97–389, title V, §502, Dec. 29, 1982, 96 Stat. 1954.
 
-In subsection (a), the words “after December 31, 1983” are omitted as obsolete. The words “transportation of merchandise under section 55102 of this title” are substituted for “For the purposes of this section” and “transportation by water of merchandise between points in the United States” for consistency with section 55102.
+In subsection (a), the words “after December 31, 1983” are omitted as obsolete. The words “transportation ofmerchandise under section 55102 of this title” are substituted for “For the purposes of this section” and “transportation by water of merchandise between points in the United States” for consistency with section 55102.
 
 In subsection (b)(2), the words “all current” are omitted as surplus.
 
@@ -54,9 +54,9 @@ Section 1004(5) of the Resource Conservation and Recovery Act of 1976 (42 U.S.C.
 
 #### Amendments
 
-2008—Pub. L. 110–181, §3525(b), repealed Pub. L. 109–241, §902(<i>o</i>). See 2006 Amendment note below.
+<b>2008</b>—Pub. L. 110–181, §3525(b), repealed Pub. L. 109–241, §902(<i>o</i>). See 2006 Amendment note below.
 
 Subsec. (b)(3). Pub. L. 110–181, §3525(a)(4), incorporated the substance of the amendment by Pub. L. 109–241, §902(<i>o</i>), into this section by substituting “Secretary of Homeland Security” for “Secretary of the department in which the Coast Guard is operating”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-2006—Pub. L. 109–241, §902(<i>o</i>), which directed the amendment of section 883 of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3525(b). See 2008 Amendment note for subsec. (b)(3) and Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–241, §902(<i>o</i>), which directed the amendment of section 883 of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3525(b). See 2008 Amendment note for subsec. (b)(3) and Historical and Revision notes above.
 

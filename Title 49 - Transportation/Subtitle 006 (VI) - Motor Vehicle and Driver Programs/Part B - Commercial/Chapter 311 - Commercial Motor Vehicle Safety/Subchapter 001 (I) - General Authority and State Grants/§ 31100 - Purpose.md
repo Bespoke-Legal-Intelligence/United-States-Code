@@ -2,7 +2,7 @@
 
 The purpose of this subchapter is to ensure that the Secretary, States, and other political jurisdictions work in partnership to establish programs to improve motor carrier, commercial motor vehicle, and driver safety to support a safe and efficient transportation system by—
 
-&emsp;(1) focusing resources on strategic safety investments to promote safe for-hire and private transportation, including transportation of passengers and hazardous materials, to identify high-risk carriers and drivers, and to invest in activities likely to generate maximum reductions in the number and severity of commercial motor vehicle crashes;
+&emsp;(1) focusing resources on strategic safety investments to promote safe for-hire and privatetransportation, including transportation of passengers and hazardous materials, to identify high-risk carriers and drivers, and to invest in activities likely to generate maximum reductions in the number and severity of commercial motor vehicle crashes;
 
 &emsp;(2) increasing administrative flexibility and developing and enforcing effective, compatible, and cost-beneficial motor carrier, commercial motor vehicle, and driver safety regulations and practices, including improving enforcement of State and local traffic safety laws and regulations;
 
@@ -40,7 +40,7 @@ Verification.—Not later than 18 months after the date of the enactment of this
 
 #### Outreach and Education
 
-Pub. L. 109–59, title IV, §4127, Aug. 10, 2005, 119 Stat. 1741, provided that:
+Pub. L. 109–59, title IV, §4127, Aug. 10, 2005, 119 Stat. 1741, as amended by Pub. L. 111–147, title IV, §422(g), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(g), Dec. 22, 2010, 124 Stat. 3525, provided that:
 
 “(a)
 
@@ -66,11 +66,11 @@ Annual Report.—The Secretary shall prepare and transmit to Congress an annual 
 
 “(e)
 
-Funding.—From amounts made available under section 31104(i) of title 49, United States Code, the Secretary shall make available $1,000,000 to the Federal Motor Carrier Safety Administration, and $3,000,000 to the National Highway Traffic Safety Administration, for each of fiscal years 2006, 2007, 2008, and 2009 to carry out this section (other than subsection (f)).
+Funding.—From amounts made available under section 31104(i) of title 49, United States Code, the Secretary shall make available $1,000,000 to the Federal Motor Carrier Safety Administration, and $3,000,000 to the National Highway Traffic Safety Administration, for each of fiscal years 2006, 2007, 2008, 2009, 2010, and $425,545 to the Federal Motor Carrier Safety Administration, and $1,274,000 to the National Highway Traffic Safety Administration, for the period beginning on October 1, 2010, and ending on March 4, 2011, to carry out this section (other than subsection (f)).
 
 “(f)
 
-Study.—The Comptroller General shall update the Government Accountability Office's evaluation ofthe ‘Share the Road Safely’ program to determine if it has achieved reductions in the number and severity of commercial motor vehicle crashes, including reductions in the number of deaths and the severity of injuries sustained in these crashes and shall report its updated evaluation to Congress no later than June 30, 2006.”
+Study.—The Comptroller General shall update the Government Accountability Office's evaluation of the ‘Share the Road Safely’ program to determine if it has achieved reductions in the number and severity of commercial motor vehicle crashes, including reductions in the number of deaths and the severity of injuries sustained in these crashes and shall report its updated evaluation to Congress no later than June 30, 2006.”
 
 #### Safety Data Improvement Program
 
@@ -112,7 +112,7 @@ Assessment.—The Inspector General of the Department of Transportation may peri
 
 #### Motor Carrier Safety Advisory Committee
 
-Pub. L. 109–59, title IV, §4144, Aug. 10, 2005, 119 Stat. 1748, provided that:
+Pub. L. 109–59, title IV, §4144, Aug. 10, 2005, 119 Stat. 1748, as amended by Pub. L. 111–147, title IV, §422(i), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(i), Dec. 22, 2010, 124 Stat. 3525, provided that:
 
 “(a)
 
@@ -144,7 +144,7 @@ Support Staff, Information, and Services.—The Administrator shall provide supp
 
 “(d)
 
-Termination Date.—Notwithstanding the Federal Advisory Committee Act (5 U.S.C. App.), the advisory committee shall terminate on September 30, 2010.”
+Termination Date.—Notwithstanding the Federal Advisory Committee Act (5 U.S.C. App.), the advisory committee shall terminate on March 4, 2011.”
 
 #### Motor Carrier Safety Strategy
 

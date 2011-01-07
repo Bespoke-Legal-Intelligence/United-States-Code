@@ -1,6 +1,6 @@
 ### §3674. Reimbursement of expenses
 
-(a)(1) Subject to paragraphs (2) through (4) of this subsection, the Secretary is authorized to enter into contracts or agreements with State and local agencies to pay such State and localagencies for reasonable and necessary expenses of salary and travel incurred by employees of such agencies and an allowance for administrative expenses in accordance with the formula contained in subsection (b) of this section in (A) rendering necessary services in ascertaining the qualifications of educational institutions for furnishing courses of education to eligible persons or veterans under this chapter and chapters 30 through 35 of this title and chapter 106 of title 10, and in the supervision of such educational institutions, and (B) furnishing, at the request of the Secretary, any other services in connection with such chapters. Each such contract or agreement shall be conditioned upon compliance with the standards and provisions of such chapters. The Secretary may also reimburse such agencies for work performed by their subcontractors where such work has a direct relationship to the requirements of such chapters, and has had the prior approval of the Secretary.
+(a)(1) Subject to paragraphs (2) through (4) of this subsection, the Secretary is authorized to enter into contracts or agreements with State and local agencies to pay such State and local agencies for reasonable and necessary expenses of salary and travel incurred by employees of such agencies and an allowance for administrative expenses in accordance with the formula contained in subsection (b) of this section in (A) rendering necessary services in ascertaining the qualifications of educational institutions for furnishing courses of education to eligible persons or veterans under this chapter and chapters 30 through 35 of this title and chapter 106 of title 10, and in the supervision of such educational institutions, and (B) furnishing, at the request of the Secretary, any other services in connection with such chapters. Each such contract or agreement shall be conditioned upon compliance with the standards and provisions of such chapters. The Secretary may also reimburse such agencies for work performed by their subcontractors where such work has a direct relationship to the requirements of such chapters, and has had the prior approval of the Secretary.
 
 (2)(A) The Secretary shall make payments to State and local agencies, out of amounts available for the payment of readjustment benefits, for the reasonable and necessary expenses of salary and travel incurred by employees of such agencies in carrying out contracts or agreements entered into under this section, for expenses approved by the Secretary that are incurred in carrying out activities described in section 3674A(a)(3) of this title (except for administrative overhead expenses allocated to such activities), and for the allowance for administrative expenses described in subsection (b).
 
@@ -32,11 +32,11 @@
 
 #### Amendments
 
-2008—Subsec. (a)(4). Pub. L. 110–252 substituted “shall be $19,000,000.” for “may not exceed $13,000,000 or, for each of fiscal years 2001 and 2002, $14,000,000, for fiscal year 2003, $14,000,000, for fiscal year 2004, $18,000,000, for fiscal year 2005, $18,000,000, for fiscal year 2006, $19,000,000, and for fiscal year 2007, $19,000,000. For any fiscal year in which the total amount that would be made available under this section would exceed the amount applicable to that fiscal year under the preceding sentence except for the provisions of this paragraph, the Secretary shall provide that each agency shall receive the same percentage of the amount applicable to that fiscal year under the preceding sentence as the agency would have received of the total amount that would have been made available without the limitation of this paragraph.”
+<b>2008</b>—Subsec. (a)(4). Pub. L. 110–252 substituted “shall be $19,000,000.” for “may not exceed $13,000,000 or, foreach of fiscal years 2001 and 2002, $14,000,000, for fiscal year 2003, $14,000,000, for fiscal year 2004, $18,000,000, for fiscal year 2005, $18,000,000, for fiscal year 2006, $19,000,000, and for fiscal year 2007, $19,000,000. For any fiscal year in which the total amount that would be made available under this section would exceed the amount applicable to that fiscal year under the preceding sentence except for the provisions of this paragraph, the Secretary shall provide that each agency shall receive the same percentage of the amount applicable to that fiscal year under the preceding sentence as the agency would have received of the total amount that would have been made available without the limitation of this paragraph.”
 
-2002—Subsec. (a)(4). Pub. L. 107–330 inserted “, for fiscal year 2003, $14,000,000, for fiscal year 2004, $18,000,000, for fiscal year 2005, $18,000,000, for fiscal year 2006, $19,000,000, and for fiscal year 2007, $19,000,000” before period at end of first sentence.
+<b>2002</b>—Subsec. (a)(4). Pub. L. 107–330 inserted “, for fiscal year 2003, $14,000,000, for fiscal year 2004, $18,000,000, for fiscal year 2005, $18,000,000, for fiscal year 2006, $19,000,000, and for fiscal year 2007, $19,000,000” before period at end of first sentence.
 
-2001—Subsec. (a)(2)(A). Pub. L. 107–14, §8(a)(7)(A)(i), struck out “, effective at the beginning of fiscal year 1988,” after “The Secretary shall” and substituted “section 3674A(a)(3)” for “section 3674A(a)(4)”.
+<b>2001</b>—Subsec. (a)(2)(A). Pub. L. 107–14, §8(a)(7)(A)(i), struck out “, effective at the beginning of fiscal year 1988,” after “The Secretary shall” and substituted “section 3674A(a)(3)” for “section 3674A(a)(4)”.
 
 Subsec. (a)(2)(B). Pub. L. 107–14, §8(a)(7)(A)(ii), substituted “paragraph (3)” for “paragraph (3)(A)”.
 
@@ -44,9 +44,9 @@ Subsec. (a)(2)(C). Pub. L. 107–14, §8(a)(7)(A)(iii), substituted “section 3
 
 Subsec. (c). Pub. L. 107–14, §8(a)(7)(B), struck out “on September 30, 1978, and” before “periodically,” and “thereafter,” before “as determined by the Secretary,”.
 
-2000—Subsec. (a)(4). Pub. L. 106–419 inserted “or, for each of fiscal years 2001 and 2002, $14,000,000” before period at end of first sentence and substituted “the amount applicable to that fiscal year under the preceding sentence” for “$13,000,000” in two places in second sentence.
+<b>2000</b>—Subsec. (a)(4). Pub. L. 106–419 inserted “or, for each of fiscal years 2001 and 2002, $14,000,000” before period at end of first sentence and substituted “the amount applicable to that fiscal year under the preceding sentence” for “$13,000,000” in two places in second sentence.
 
-1994—Subsec. (a)(3). Pub. L. 103–446, §606(b), struck out “(A)” before “Each State” and struck out subpar. (B) which read as follows: “The Secretary shall transmit a report to the Congress on a quarterly basis which summarizes—
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–446, §606(b), struck out “(A)” before “Each State” and struck out subpar. (B) which read as follows: “The Secretary shall transmit a report to the Congress on a quarterly basis which summarizes—
 
 &emsp;“(i) the amounts for which certifications were made by State and local agencies in the reports submitted under subparagraph (A) of this paragraph with respect to the quarter for which the report is made; and
 
@@ -54,13 +54,13 @@ Subsec. (c). Pub. L. 107–14, §8(a)(7)(B), struck out “on September 30, 1978
 
 Subsec. (a)(4). Pub. L. 103–446, §606(a)(1), substituted “$13,000,000” for “$12,000,000” wherever appearing.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1774 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1774 of this title as this section.
 
 Subsec. (a)(1)(A). Pub. L. 102–16 substituted “chapter 106” for “chapters 106 and 107”.
 
 Subsec. (a)(2)(A), (C). Pub. L. 102–83, §5(c)(1), substituted “3674A(a)(4)” for “1774A(a)(4)”.
 
-1989—Subsec. (a). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Subsec. (a). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
 Subsec. (a)(2)(A). Pub. L. 101–237, §414(1), substituted “section, for expenses approved by the Secretary that are incurred in carrying out activities described in section 1774A(a)(4) of this title (except for administrative overhead expenses allocated to such activities), and for” for “section and for”.
 
@@ -68,35 +68,35 @@ Subsec. (a)(2)(C). Pub. L. 101–237, §414(2), inserted before period at end �
 
 Subsec. (c). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
-1988—Subsec. (a)(1). Pub. L. 100–323, §13(b)(5), in subpar. (A) substituted “chapters 30 through 35 of this title and chapters 106 and 107 of title 10” for “chapters 34 and 35 of this title”, in subpar. (B) substituted “such chapters” for “chapters 34 and 35 of this title”, and in provisions following subpar. (B) substituted “provisions of such chapters” for “provisions of chapters 34 and 35 of this title” and “requirements of such chapters” for “requirements of chapter 32, 34, 35, or 36 of this title”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–323, §13(b)(5), in subpar. (A) substituted “chapters 30 through 35 of this title and chapters 106 and 107 of title 10” for “chapters 34 and 35 of this title”, in subpar. (B) substituted “such chapters” for “chapters 34 and 35 of this title”, and in provisions following subpar. (B) substituted “provisions of such chapters” for “provisions of chapters 34 and 35 of this title” and “requirements of such chapters” for “requirements of chapter 32, 34, 35, or 36 of this title”.
 
 Pub. L. 100–323, §13(a)(1)(A), (B), substituted “(1) Subject to paragraphs (2) through (4) of this subsection, the Administrator is” for “The Administrator is”, and redesignated pars. (1) and (2) as subpars. (A) and (B), respectively.
 
 Subsec. (a)(2) to (4). Pub. L. 100–323, §13(a)(1)(C), added pars. (2) to (4).
 
-1982—Subsec. (a). Pub. L. 97–295 inserted “of this title” after “34 and 35” wherever appearing.
+<b>1982</b>—Subsec. (a). Pub. L. 97–295 inserted “of this title” after “34 and 35” wherever appearing.
 
-1980—Subsec. (b). Pub. L. 96–466, §213(1), increased allowance for administrative expenses by substituting “$693” for “$662”, “$1,247” for “$1,191” in two places, “$1,155” for “$1,103”, “$7,548” for “$7,205” in two places, “$999” for “$953”, “$14,969” for “$14,288” in two places, and “$872” for “$833”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–466, §213(1), increased allowance for administrative expenses by substituting “$693” for “$662”, “$1,247” for “$1,191” in two places, “$1,155” for “$1,103”, “$7,548” for “$7,205” in two places, “$999” for “$953”, “$14,969” for “$14,288” in two places, and “$872” for “$833”.
 
 Pub. L. 96–466, §203(1), increased allowance for administrative expenses by substituting “$662” for “$630”, “$1,191” for “$1,134” in two places, “$1,103” for “$1,050”, “$7,205” for “$6,862” in two places, “$953” for “$908”, “$14,288” for “$13,608” in two places, and “$833” for “$793”.
 
-1977—Subsec. (b). Pub. L. 95–202, §303(1), increased allowance for administrative expenses by substituting “$630” for “$600”, “$1,134” for “$1,080” in two places, “$1,050” for “$1,000”, “$6,862” for “$6,535” in two places, “$908” for “$865”, “$13,608” for “$12,960” in two places, and “$793” for “$755”.
+<b>1977</b>—Subsec. (b). Pub. L. 95–202, §303(1), increased allowance for administrative expenses by substituting “$630” for “$600”, “$1,134” for “$1,080” in two places, “$1,050” for “$1,000”, “$6,862” for “$6,535” in two places, “$908” for “$865”, “$13,608” for “$12,960” in two places, and “$793” for “$755”.
 
 Subsec. (c). Pub. L. 95–202, §303(2), added subsec. (c).
 
-1976—Subsec. (a). Pub. L. 94–502, §503(1), inserted provision authorizing Administrator to reimburse State and local agencies for work performed by their subcontractors, where the work performed has a direct relationship to the requirements of this chapter, chapters 32, 34, and 35, and has prior approval of the Administrator.
+<b>1976</b>—Subsec. (a). Pub. L. 94–502, §503(1), inserted provision authorizing Administrator to reimburse State and local agencies for work performed by their subcontractors, where the work performed has a direct relationship to the requirements of this chapter, chapters 32, 34, and 35, and has prior approval of the Administrator.
 
 Subsec. (b). Pub. L. 94–502, §503(2), increased allowance for administrative expenses from “$550” to “$600”; “$1000” to “$1080”; “$1000 for the first $10,000 plus $925 for each additional $5,000 or fraction thereof” to “$1,080 for the first $10,000 plus $1,000 for each additional $5,000 or fraction thereof”; “$6,050” to “$6,535”; “$6,050 for the first $40,000 plus $800 for each additional $5,000 or fraction thereof” to “$6,535 for the first $40,000 plus $865 for each additional $5,000 or fraction thereof”; “$12,000” to “$12,960”; “$12,000 for the first $80,000 plus $700 for each additional $5,000 or fraction thereof” to “$12,960 for the first $80,000 plus $755 for each additional $5,000 or fraction thereof”.
 
-1974—Subsec. (b). Pub. L. 93–508 increased allowance for administrative expenses from “$500” to “$550”; “$900” to “$1,000”; “$900 for the first $10,000 plus $800 for each additional $5,000 or fraction thereof” to “$1,000 for the first $10,000 plus $925 for each additional $5,000 or fraction thereof”; “$5,250” to “$6,050”; “$5,250 for the first $40,000 plus $700 for each additional $5,000 or fraction thereof” to “$6,050 for the first $40,000 plus $800 for each additional $5,000 or fraction thereof”; “$10,450” to “$12,000”; and “$10,450 for the first $80,000 plus $600 for each additional $5,000 or fraction thereof” to “$12,000 for the first $80,000 plus $700 for each additional $5,000 or fraction thereof”.
+<b>1974</b>—Subsec. (b). Pub. L. 93–508 increased allowance for administrative expenses from “$500” to “$550”; “$900” to “$1,000”; “$900 for the first $10,000 plus $800 for each additional $5,000 or fraction thereof” to “$1,000 for the first $10,000 plus $925 for each additional $5,000 or fraction thereof”; “$5,250” to “$6,050”; “$5,250 for the first $40,000 plus $700 for each additional $5,000 or fraction thereof” to “$6,050 for the first $40,000 plus $800 for each additional $5,000 or fraction thereof”; “$10,450” to “$12,000”; and “$10,450 for the first $80,000 plus $600 for each additional $5,000 or fraction thereof” to “$12,000 for the first $80,000 plus $700 for each additional $5,000 or fraction thereof”.
 
-1972—Subsec. (a). Pub. L. 92–540, §403(7), inserted “this chapter and” before “chapters 34 and 35” in cl. (1).
+<b>1972</b>—Subsec. (a). Pub. L. 92–540, §403(7), inserted “this chapter and” before “chapters 34 and 35” in cl. (1).
 
 Subsec. (b). Pub. L. 92–540, §411, provided for recomputation of formula for reimbursement of expenses by doubling amounts paid as allowance for administrative expenses.
 
-1968—Pub. L. 90–631 designated existing provisions as subsec. (a), inserted “and an allowance for administrative expenses in accordance with the formula contained in subsection (b) of this section” after “employees of such agencies”, and added subsec. (b).
+<b>1968</b>—Pub. L. 90–631 designated existing provisions as subsec. (a), inserted “and an allowance for administrative expenses in accordance with the formula contained in subsection (b) of this section” after “employees of such agencies”, and added subsec. (b).
 
-1966—Pub. L. 89–358, §3(a)(7), (11), substituted “chapters 34 and 35” for “this chapter” in three places and inserted “or veterans” after “eligible persons” in cl. (1).
+<b>1966</b>—Pub. L. 89–358, §3(a)(7), (11), substituted “chapters 34 and 35” for “this chapter” in three places and inserted “or veterans” after “eligible persons” in cl. (1).
 
 #### Effective Date of 1994 Amendment
 

@@ -12,7 +12,7 @@ Effect on Position Held by Reason of Temporary Appointment or Assignment.—An o
 
 #### Amendments
 
-1996—Pub. L. 104–106 inserted “lists” in section catchline.
+<b>1996</b>—Pub. L. 104–106 inserted “lists” in section catchline.
 
 #### Effective Date of 1996 Amendment
 

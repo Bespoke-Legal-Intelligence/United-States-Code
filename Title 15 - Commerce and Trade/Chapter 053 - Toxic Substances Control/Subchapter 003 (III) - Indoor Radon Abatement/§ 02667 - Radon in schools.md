@@ -32,11 +32,11 @@
 
 #### (6) Diagnostic and remedial efforts
 
-&emsp;The Administrator is authorized to select, from high-risk areas identified in paragraph (2), school buildings for purposes of enabling the Administrator to undertake diagnostic and remedial efforts to reduce the levels of radon in such school buildings. Such diagnostic and remedial efforts shall be carried out with a view to developing technology and expertise for the purpose of making such technology and expertise available to any local educational agency and the several States.
+&emsp;The Administrator is authorized to select, from high-risk areas identified in paragraph (2), school buildings for purposes of enablingthe Administrator to undertake diagnostic and remedial efforts to reduce the levels of radon in such school buildings. Such diagnostic and remedial efforts shall be carried out with a view to developing technology and expertise for the purpose of making such technology and expertise available to any local educational agency and the several States.
 
 #### (7) Status report
 
-&emsp;On or before October 1, 1989, the Administrator shall submit to the Congress a status report with respect to action taken by the Administrator in conducting the study required by this section, including the results of the Administrator's diagnostic and remedial work. On or before October 1, 1989, the Administratorshall submit a final report setting forth the results of the study conducted pursuant to this section, including the results of the Administrator's diagnostic and remedial work, and the recommendations of the Administrator.
+&emsp;On or before October 1, 1989, the Administrator shall submit to the Congress a status report with respect to action taken by the Administrator in conducting the study required by this section, including the results of the Administrator's diagnostic and remedial work. On or before October 1, 1989, the Administrator shall submit a final report setting forth the results of the study conducted pursuant to this section, including the results of the Administrator's diagnostic and remedial work, and the recommendations of the Administrator.
 
 #### (b) Authorization
 

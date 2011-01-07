@@ -44,7 +44,7 @@
 
 #### Amendments
 
-1994—Subsec. (b)(4). Pub. L. 103–238 added par. (4).
+<b>1994</b>—Subsec. (b)(4). Pub. L. 103–238 added par. (4).
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

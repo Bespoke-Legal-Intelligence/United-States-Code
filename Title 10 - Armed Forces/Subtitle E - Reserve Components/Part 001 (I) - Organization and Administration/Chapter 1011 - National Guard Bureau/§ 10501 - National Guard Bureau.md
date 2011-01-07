@@ -16,7 +16,7 @@ Provisions similar to those in this section were contained in section 3040(a) of
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–181 substituted “joint activity of the Department of Defense” for “joint bureau of the Department of the Army and the Department of the Air Force”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181 substituted “joint activity of the Department of Defense” for “joint bureau of the Department of the Army and the Department of the Air Force”.
 
 #### Effective Date
 

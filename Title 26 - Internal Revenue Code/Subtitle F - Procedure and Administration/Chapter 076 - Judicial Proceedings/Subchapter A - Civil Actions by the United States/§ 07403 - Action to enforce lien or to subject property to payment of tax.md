@@ -10,7 +10,7 @@ All persons having liens upon or claiming any interest in the property involved 
 
 #### (c) Adjudication and decree
 
-The court shall, after the parties have been duly notified of the action, proceed to adjudicate all matters involved therein and finally determine the merits of all claims to and liens upon the property, and, in all cases where a claim or interest of the United States therein is established, may decree a sale of such property, by the proper officer of the court, and a distribution of the proceeds of such sale according to the findings of the court in respect to the interests of the parties and of the United States. Ifthe property is sold to satisfy a first lien held by the United States, the United States may bid at the sale such sum, not exceeding the amount of such lien with expenses of sale, as the Secretary directs.
+The court shall, after the parties have been duly notified of the action, proceed to adjudicate all matters involved therein and finally determine the merits of all claims to and liens upon the property, and, in all cases where a claim or interest of the United States therein is established, may decree a sale of such property, by the proper officer of the court, and a distribution of the proceeds of such sale according to the findings of the court in respect to the interests of the parties and of the United States. If the property is sold to satisfy a first lien held by the United States, the United States may bid at the sale such sum, not exceeding the amount of such lien with expenses of sale, as the Secretary directs.
 
 #### (d) Receivership
 
@@ -20,13 +20,13 @@ In any such proceeding, at the instance of the United States, the court may appo
 
 #### Amendments
 
-1981—Subsec. (a). Pub. L. 97–34 struck out “or 6166A(h)” after “section 6166(g)”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–34 struck out “or 6166A(h)” after “section 6166(g)”.
 
-1976—Subsec. (a). Pub. L. 94–455, §§1906(b)(13)(A), 2004(f)(2), struck out “or his delegate” after “Secretary” and inserted provisions relating to the acceleration of payment under section 6166(g) or 6166A(h).
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1906(b)(13)(A), 2004(f)(2), struck out “or his delegate” after “Secretary” and inserted provisions relating to the acceleration of payment under section 6166(g) or 6166A(h).
 
 Subsecs. (c), (d). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1966—Subsec. (c). Pub. L. 89–719 inserted sentence permitting the United States, if the property is sold to satisfy a first lien held by the United States, to bid at the sale such sum, not more than the amount of such lien with expenses of sale, as the Secretary or his delegate directs.
+<b>1966</b>—Subsec. (c). Pub. L. 89–719 inserted sentence permitting the United States, if the property is sold to satisfy a first lien held by the United States, to bid at the sale such sum, not more than the amount of such lien with expenses of sale, as the Secretary or his delegate directs.
 
 #### Effective Date of 1981 Amendment
 

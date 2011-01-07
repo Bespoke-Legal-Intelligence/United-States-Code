@@ -22,7 +22,7 @@ Upon the expiration of the assignment of all Corps members to a health professio
 
 (1)(A) It shall be unlawful for any hospital to deny an authorized Corps member admitting privileges when such Corps member otherwise meets the professional qualifications established by the hospital for granting such privileges and agrees to abide by the published bylaws of the hospital and the published bylaws, rules, and regulations of its medical staff.
 
-(B) Any hospital which is found by the Secretary, after notice and an opportunity for a hearing on the record, to have violated this subsection shall upon such finding cease, for a period to be determined by the Secretary, to receive and to be eligible to receive any Federal funds under this chapter or under titles XVIII,XIX, or XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\].
+(B) Any hospital which is found by the Secretary, after notice and an opportunity for a hearing on the record, to have violated this subsection shall upon such finding cease, for a period to be determined by the Secretary, to receive and to be eligible to receive any Federal funds under this chapter or under titles XVIII, XIX, or XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\].
 
 (2) For purposes of this subsection, the term “hospital” includes a State or local public hospital, a private profit hospital, a private nonprofit hospital, a general or special hospital, and any other type of hospital (excluding a hospital owned or operated by an agency of the Federal Government), and any related facilities.
 
@@ -30,17 +30,17 @@ Upon the expiration of the assignment of all Corps members to a health professio
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (e)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (e)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 ofthis title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
 
-2002—Subsec. (e)(1)(B). Pub. L. 107–251 substituted “titles XVIII, XIX, or XXI of the Social Security Act” for “titles XVIII or XIX of the Social Security Act”.
+<b>2002</b>—Subsec. (e)(1)(B). Pub. L. 107–251 substituted “titles XVIII, XIX, or XXI of the Social Security Act” for “titles XVIII or XIX of the Social Security Act”.
 
-1990—Subsecs. (a), (b)(1)(A), (2), (d). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing.
+<b>1990</b>—Subsecs. (a), (b)(1)(A), (2), (d). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing.
 
 Subsec. (e)(1)(A). Pub. L. 101–597, §106, substituted “authorized Corps member admitting privileges” for “authorized physician or dentist member of the Corps admitting privileges”.
 
-1981—Subsec. (a)(2). Pub. L. 97–35, §2705(a), substituted provisions respecting cooperation with other health care providers, for provisions respecting direct health services programs.
+<b>1981</b>—Subsec. (a)(2). Pub. L. 97–35, §2705(a), substituted provisions respecting cooperation with other health care providers, for provisions respecting direct health services programs.
 
 Subsec. (c)(4). Pub. L. 97–35, §2705(b), struck out cl. (4) relating to appropriate continuing education programs.
 

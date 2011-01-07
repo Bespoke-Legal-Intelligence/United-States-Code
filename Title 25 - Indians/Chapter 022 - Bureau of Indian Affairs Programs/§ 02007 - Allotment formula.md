@@ -4,7 +4,7 @@
 
 #### (1) Formula
 
-&emsp;The Secretary shall establish, by regulation adopted in accordance with section 2017 of thistitle, a formula for determining the minimum annual amount of funds necessary to sustain each Bureau-funded school. In establishing such formula, the Secretary shall consider—
+&emsp;The Secretary shall establish, by regulation adopted in accordance with section 2017 of this title, a formula for determining the minimum annual amount of funds necessary to sustain each Bureau-funded school. In establishing such formula, the Secretary shall consider—
 
 &emsp;&emsp;(A) the number of eligible Indian students served and total student population of the school;
 

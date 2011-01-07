@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 1997” for “calendar year 1992” in subparagraph (B) thereof.
 
-> &emsp;If any amount as adjusted under the preceding sentence is not a multiple of $10,000, suchamount shall be rounded to the next lowest multiple of $10,000.
+> &emsp;If any amount as adjusted under the preceding sentence is not a multiple of $10,000, such amount shall be rounded to the next lowest multiple of $10,000.
 
 #### (b) Qualified real property
 
@@ -172,7 +172,7 @@
 
 &emsp;&emsp;(A) such property ceases to be used for the qualified use set forth in subparagraph (A) or (B) of subsection (b)(2) under which the property qualified under subsection (b), or
 
-&emsp;&emsp;(B) during any period of 8 years ending after the date of the decedent's death andbefore the date of the death of the qualified heir, there had been periods aggregating more than 3 years during which—
+&emsp;&emsp;(B) during any period of 8 years ending after the date of the decedent's death and before the date of the death of the qualified heir, there had been periods aggregating more than 3 years during which—
 
 &emsp;&emsp;&emsp;(i) in the case of periods during which the property was held by the decedent, there was no material participation by the decedent or any member of his family in the operation of the farm or other business, and
 
@@ -426,7 +426,7 @@ If qualified real property is disposed of or ceases to be used for a qualified u
 
 #### (g) Application of this section and section 6324B to interests in partnerships, corporations, and trusts
 
-The Secretary shall prescribe regulations setting forth the application of this section andsection 6324B in the case of an interest in a partnership, corporation, or trust which, with respect to the decedent, is an interest in a closely held business (within the meaning of paragraph (1) of section 6166(b)). For purposes of the preceding sentence, an interest in a discretionary trust all the beneficiaries of which are qualified heirs shall be treated as a present interest.
+The Secretary shall prescribe regulations setting forth the application of this section and section 6324B in the case of an interest in a partnership, corporation, or trust which, with respect to the decedent, is an interest in a closely held business (within the meaning of paragraph (1) of section 6166(b)). For purposes of the preceding sentence, an interest in a discretionary trust all the beneficiaries of which are qualified heirs shall be treated as a present interest.
 
 #### (h) Special rules for involuntary conversions of qualified real property
 
@@ -528,9 +528,9 @@ The Social Security Act, referred to in subsec. (b)(4)(A)(i), is act Aug. 14, 19
 
 #### Amendments
 
-2004—Subsec. (c)(7)(D). Pub. L. 108–311 substituted “section 152(f)(2)” for “section 151(c)(4)”.
+<b>2004</b>—Subsec. (c)(7)(D). Pub. L. 108–311 substituted “section 152(f)(2)” for “section 151(c)(4)”.
 
-1997—Subsec. (a)(3). Pub. L. 105–34, §501(b), added par. (3).
+<b>1997</b>—Subsec. (a)(3). Pub. L. 105–34, §501(b), added par. (3).
 
 Subsec. (b)(5)(A). Pub. L. 105–34, §504(b), struck out at end “For purposes of subsection (c), such surviving spouse shall not be treated as failing to use such property in a qualified use solely because such spouse rents such property to a member of such spouse's family on a net cash basis.”
 
@@ -550,21 +550,21 @@ Subsec. (d)(3). Pub. L. 105–34, §1313(a), amended heading and text of par. (3
 
 > the executor will have a reasonable period of time (not exceeding 90 days) after notification of such failures to provide such information or agreements.”
 
-1990—Subsec. (a)(2). Pub. L. 101–508 amended par. (2) generally, substituting present provisions for provisions which established graduated increase in applicable limit on aggregate reduction in fair market value from $600,000 in the case of decedents dying in 1981 to $750,000 in the case of decedents dying in 1983 or thereafter.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–508 amended par. (2) generally, substituting present provisions for provisions which established graduated increase in applicable limit on aggregate reduction in fair market value from $600,000 in the case of decedents dying in 1981 to $750,000 in the case of decedents dying in 1983 or thereafter.
 
-1988—Subsec. (b)(5)(A). Pub. L. 100–647 inserted at end “For purposes of subsection (c), such surviving spouse shall not be treated as failing to use such property in a qualified use solely because such spouse rents such property to a member of such spouse's family on a net cash basis.”
+<b>1988</b>—Subsec. (b)(5)(A). Pub. L. 100–647 inserted at end “For purposes of subsection (c), such surviving spouse shall not be treated as failing to use such property in a qualified use solely because such spouse rents such property to a member of such spouse's family on a net cash basis.”
 
-1986—Subsec. (c)(7)(D). Pub. L. 99–514 substituted “section 151(c)(4)” for “section 151(e)(4)”.
+<b>1986</b>—Subsec. (c)(7)(D). Pub. L. 99–514 substituted “section 151(c)(4)” for “section 151(e)(4)”.
 
-1984—Subsec. (d)(3). Pub. L. 98–369 added par. (3).
+<b>1984</b>—Subsec. (d)(3). Pub. L. 98–369 added par. (3).
 
-1983—Subsec. (b)(5)(C). Pub. L. 97–448, §104(b)(1), added subpar. (C).
+<b>1983</b>—Subsec. (b)(5)(C). Pub. L. 97–448, §104(b)(1), added subpar. (C).
 
 Subsec. (i)(1)(B)(ii). Pub. L. 97–448, §104(b)(2)(A), substituted “the qualified exchange property” for “the other property”.
 
 Subsec. (i)(3). Pub. L. 97–448, §104(b)(2)(B), substituted “subparagraph (A) or (B)” for “subparagraph (A), (B), or (C)”.
 
-1981—Subsec. (a)(2). Pub. L. 97–34, §421(a), substituted “Limit on aggregate reduction in fair market value” for “Limitation” in heading “shall not exceed the applicable limit set forth in the following table:” for “shall not exceed $500,000” in text, and inserted table.
+<b>1981</b>—Subsec. (a)(2). Pub. L. 97–34, §421(a), substituted “Limit on aggregate reduction in fair market value” for “Limitation” in heading “shall not exceed the applicable limit set forth in the following table:” for “shall not exceed $500,000” in text, and inserted table.
 
 Subsec. (b)(1). Pub. L. 97–34, §421(b)(1), substituted “qualified use by the decedent or a member of the decedent's family” for “qualified use” in provision preceding subpar. (A), and in subpars. (A)(i) and (C)(i).
 
@@ -590,7 +590,7 @@ Subsec. (e)(2). Pub. L. 97–34, §421(i), substituted provisions designated sub
 
 Subsec. (e)(7). Pub. L. 97–34, §421(f), added subpar. (B), redesignated former subpar. (B) as (C), and inserted “and that there is no comparable land from which the average net share rental may be determined” after “determined” in subpar. (C), without specifying whether the language was to be inserted in cl. (i) or (ii) of subpar. (C). In view of H. Rept. No. 97–201, 97th Cong., July 14, 1981, p. 492, the language was inserted in cl. (ii) as the probable intent of Congress.
 
-Subsec. (e)(9). Pub. L. 97–34, §421(j)(2)(A), struck out from subpar. (B) “in satisfaction of the right of such person to a pecuniary bequest” after “from the estate”and in subpar. (C) substituted “(to the extent such property is includible in the gross estate of the decedent)” for “in satisfaction of a right (which such person has by reason of the death of the decedent) to receive from the trust a specific dollar amount which is the equivalent of a pecuniary bequest”.
+Subsec. (e)(9). Pub. L. 97–34, §421(j)(2)(A), struck out from subpar. (B) “in satisfaction of the right of such person to a pecuniary bequest” after “from the estate” and in subpar. (C) substituted “(to the extent such property is includible in the gross estate of the decedent)” for “in satisfaction of a right (which such person has by reason of the death of the decedent) to receive from the trust a specific dollar amount which is the equivalent of a pecuniary bequest”.
 
 Subsec. (e)(12). Pub. L. 97–34, §421(c)(2)(B)(i), added par. (12).
 
@@ -612,7 +612,7 @@ Subsec. (h)(5). Pub. L. 97–34, §421(e)(1)(B), struck out par. (5) which provi
 
 Subsec. (i). Pub. L. 97–34, §421(d)(1), added subsec. (i).
 
-1978—Subsec. (b)(1). Pub. L. 95–600, §702(d)(1), inserted “which was acquired from or passed from the decedent to a qualified heir of the decedent and” after “located in the United States”.
+<b>1978</b>—Subsec. (b)(1). Pub. L. 95–600, §702(d)(1), inserted “which was acquired from or passed from the decedent to a qualified heir of the decedent and” after “located in the United States”.
 
 Subsec. (c)(6). Pub. L. 95–600, §702(d)(5)(A), inserted “unless the heir has furnished bond which meets the requirements of subsection (e)(11)” after “respect to his interest”.
 
@@ -698,7 +698,7 @@ Certain amendments made retroactive to 1976.—
 
 &emsp;“(A)
 
-In general.—The amendments made by subsections (b)(1), (j)(1), and (j)(2) \[amending this section and section 1040 of this title\] and the provisions of subparagraph (A) of section 2032A(c)(7) of the InternalRevenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (c)(2)) shall apply with respect to the estates of decedents dying after December 31, 1976.
+In general.—The amendments made by subsections (b)(1), (j)(1), and (j)(2) \[amending this section and section 1040 of this title\] and the provisions of subparagraph (A) of section 2032A(c)(7) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (c)(2)) shall apply with respect to the estates of decedents dying after December 31, 1976.
 
 &emsp;“(B)
 

@@ -38,7 +38,7 @@ Limitation.—The Secretary may not accept a gift or donation under subsection (
 
 (d)
 
-Criteria for Acceptance.—The Secretary shall prescribe written guidance setting forth the criteria to be used in determining whether the acceptance of a gift or donation would have a result described in subsection (c).
+Criteria for Acceptance.—The Secretary shall prescribe written guidance setting forth the criteria to be used in determining whetherthe acceptance of a gift or donation would have a result described in subsection (c).
 
 (e)
 
@@ -48,15 +48,15 @@ Crediting of Funds.—Funds accepted by the Secretary under section (a) shall be
 
 Gift or Donation Defined.—In this section, the term “gift or donation” means any gift or donation of funds, materials (including research materials), real or personal property, or services (including lecture services and faculty services).
 
-(Added Pub. L. 106–65, div. A, title IX, §915(a), Oct. 5, 1999, 113 Stat. 721; amended Pub. L.107–314, div. A, title X, §1041(a)(17), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–136, div. A, title IX, §931(a), (b)(1), (c), Nov. 24, 2003, 117 Stat. 1580, 1581; Pub. L. 108–375, div. A, title X, §1084(f)(2), Oct. 28, 2004, 118 Stat. 2064; Pub. L. 109–163, div. A, title IX, §903(a)(1), Jan. 6, 2006, 119 Stat. 3397.)
+(Added Pub. L. 106–65, div. A, title IX, §915(a), Oct. 5, 1999, 113 Stat. 721; amended Pub. L. 107–314, div. A, title X, §1041(a)(17), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–136, div. A, title IX, §931(a), (b)(1), (c), Nov. 24, 2003, 117 Stat. 1580, 1581; Pub. L. 108–375, div. A, title X, §1084(f)(2), Oct. 28, 2004, 118 Stat. 2064; Pub. L. 109–163, div. A, title IX, §903(a)(1), Jan. 6, 2006, 119 Stat. 3397.)
 
 #### Amendments
 
-2006—Pub. L. 109–163 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (f) relating to acceptance of gifts and donations for the Asia-Pacific Center for Security Studies.
+<b>2006</b>—Pub. L. 109–163 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (f) relating to acceptance of gifts and donations for the Asia-Pacific Center for Security Studies.
 
-2004—Subsec. (a)(1). Pub. L. 108–375 amended directory language of Pub. L. 108–136, §931(a)(1). See 2003 Amendment note below.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–375 amended directory language of Pub. L. 108–136, §931(a)(1). See 2003 Amendment note below.
 
-2003—Pub. L. 108–136, §931(c), struck out “foreign” before “gifts” in section catchline.
+<b>2003</b>—Pub. L. 108–136, §931(c), struck out “foreign” before “gifts” in section catchline.
 
 Subsec. (a). Pub. L. 108–136, §931(b)(1)(A), struck out “Foreign” before “Gifts” in heading.
 
@@ -68,7 +68,7 @@ Subsec. (c). Pub. L. 108–136, §931(b)(1)(B), struck out “foreign” before 
 
 Subsec. (f). Pub. L. 108–136, §931(b)(1)(A), (C), in heading, struck out “Foreign” before “Gift” and in text, struck out “foreign” after “section, a” and “from a foreign government, a foundation or other charitable organization in a foreign country, or an individual in a foreign country” before period at end.
 
-2002—Subsec. (e). Pub. L. 107–314 struck out heading and text of subsec. (e). Text read as follows: “If the total amount of funds accepted under subsection (a) in any fiscal year exceeds $2,000,000, the Secretary shall notify Congress of the amount of those donations for that fiscal year. Any such notice shall list each of the contributors of such amounts and the amount of each contribution in that fiscal year.”
+<b>2002</b>—Subsec. (e). Pub. L. 107–314 struck out heading and text of subsec. (e). Text read as follows: “If the total amount of funds accepted under subsection (a) in any fiscal year exceeds $2,000,000, the Secretary shall notify Congress of the amount of those donations for that fiscal year. Any such notice shall list each of the contributors of such amounts and the amount of each contribution in that fiscal year.”
 
 #### Effective Date of 2004 Amendment
 

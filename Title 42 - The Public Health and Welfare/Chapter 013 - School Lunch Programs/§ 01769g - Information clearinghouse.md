@@ -32,17 +32,23 @@ The Secretary shall establish fair and reasonable auditing procedures regarding 
 
 #### (d) Funding
 
-Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall pay to the Secretary to provide to the organization selected under this section, to establish and maintain the information clearinghouse, $200,000 for each of fiscal years 1995 and 1996, $150,000 for fiscal year 1997, $100,000 for fiscal year 1998, $166,000 for each of fiscal years 1999 through 2004, and $250,000 for each of fiscal years 2005 through 2010. The Secretary shall be entitled to receive the funds and shall accept the funds, without further appropriation.
+Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall pay to the Secretary to provide to the organization selected under this section, to establish and maintain the information clearinghouse, $200,000 for each of fiscal years 1995 and 1996, $150,000 for fiscal year 1997, $100,000 for fiscal year 1998, $166,000 for each of fiscal years 1999 through 2004, and $250,000 for each of fiscal years 2010 through 2015. The Secretary shall be entitled to receive the funds and shall accept the funds, without further appropriation.
 
-(June 4, 1946, ch. 281, §26, as added Pub. L. 103–448, title I, §123, Nov. 2, 1994, 108 Stat. 4731; amended Pub. L. 105–336, title I, §§103(c)(2), 112, Oct. 31, 1998, 112 Stat. 3147, 3157; Pub. L. 108–265, title I, §128, June 30, 2004, 118 Stat. 767; Pub. L. 111–80, title VII, §749(f), Oct. 21, 2009, 123 Stat. 2132.)
+(June 4, 1946, ch. 281, §26, as added Pub. L. 103–448, title I, §123, Nov. 2, 1994, 108 Stat. 4731; amended Pub. L. 105–336, title I, §§103(c)(2), 112, Oct. 31, 1998, 112 Stat. 3147, 3157; Pub. L. 108–265, title I, §128, June 30, 2004, 118 Stat. 767; Pub. L. 111–80, title VII, §749(f), Oct. 21, 2009, 123 Stat. 2132; Pub. L. 111–296, title IV, §409, Dec. 13, 2010, 124 Stat. 3260.)
 
 #### Amendments
 
-2009—Subsec. (d). Pub. L. 111–80 substituted “2010” for “2009”.
+<b>2010</b>—Subsec. (d). Pub. L. 111–296 substituted “2010 through 2015” for “2005 through 2010” in first sentence.
 
-2004—Subsec. (d). Pub. L. 108–265, in first sentence, substituted “1998,” for “1998, and” and “through 2004, and $250,000 for each of fiscal years 2005 through 2009” for “through 2003”.
+<b>2009</b>—Subsec. (d). Pub. L. 111–80 substituted “2010” for “2009”.
 
-1998—Subsec. (d). Pub. L. 105–336 substituted “$100,000 for fiscal year 1998, and $166,000 for each of fiscal years 1999 through 2003” for “and $100,000 for fiscal year 1998” in first sentence and inserted “, without further appropriation” before period at end of second sentence.
+<b>2004</b>—Subsec. (d). Pub. L. 108–265, in first sentence, substituted “1998,” for “1998, and” and “through 2004, and $250,000 for each of fiscal years 2005 through 2009” for “through 2003”.
+
+<b>1998</b>—Subsec. (d). Pub. L. 105–336 substituted “$100,000 for fiscal year 1998, and $166,000 for each of fiscal years 1999 through 2003” for “and $100,000 for fiscal year 1998” in first sentence and inserted “, without further appropriation” before period at end of second sentence.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as a note under section 1751 of this title.
 
 #### Effective Date of 1998 Amendment
 

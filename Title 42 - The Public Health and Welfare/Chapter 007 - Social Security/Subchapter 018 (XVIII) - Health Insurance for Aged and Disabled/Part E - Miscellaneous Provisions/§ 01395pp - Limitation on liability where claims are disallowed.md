@@ -8,7 +8,7 @@ Where—
 
 &emsp;(2) both such individual and such provider of services or such other person, as the case may be, did not know, and could not reasonably have been expected to know, that payment would not be made for such items or services under such part A or part B of this subchapter,
 
-> then to the extent permitted by this subchapter, payment shall, notwithstanding such determination, be made for such items or services (and for such period of time as the Secretary finds will carry out the objectives of this subchapter), as though section 1395y(a)(1) and section 1395y(a)(9) of this title did not apply and as though the coverage denial described in subsection (g) of this section had not occurred. In each such case the Secretary shall notify both such individual and such provider of services or such other person, as the case may be, of the conditions under which payment for such items or services was made and in the case of comparable situations arising thereafter with respect to such individual or such provider or such other person, each shall, by reason of such notice (or similar notices provided before the enactment of this section), be deemed to have knowledge that payment cannot be made for such items or services or reasonably comparable items or services. Any provider or other person furnishing items or services for which payment may not be made by reason of section 1395y(a)(1) or (9) of this title or by reason of a coverage denial described in subsection (g) of this section shall be deemed to have knowledge that payment cannot be made for such items or services if the claim relating to such items or services involves a case, provider or other person furnishing services, procedure, or test, with respect to which such provider or other person has been notified by theSecretary (including notification by a utilization and quality control peer review organization) that a pattern of inappropriate utilization has occurred in the past, and such provider or other person has been allowed a reasonable time to correct such inappropriate utilization.
+> then to the extent permitted by this subchapter, payment shall, notwithstanding such determination, be made for such items or services (and for such period of time as the Secretary finds will carry out the objectives of this subchapter), as though section 1395y(a)(1) and section 1395y(a)(9) of this title did not apply and as though the coverage denial described in subsection (g) of this section had not occurred. In each such case the Secretary shall notify both such individual and such provider of services or such other person, as the case may be, of the conditions under which payment for such items or services was made and in the case of comparable situations arising thereafter with respect to such individual or such provider or such other person, each shall, by reason of such notice (or similar notices provided before the enactment of this section), be deemed to have knowledge that payment cannot be made for such items or services or reasonably comparable items or services. Any provider or other person furnishing items or services for which payment may not be made by reason of section 1395y(a)(1) or (9) of this title or by reason of a coverage denial described in subsection (g) of this section shall be deemed to have knowledge that payment cannot be madefor such items or services if the claim relating to such items or services involves a case, provider or other person furnishing services, procedure, or test, with respect to which such provider or other person has been notified by the Secretary (including notification by a utilization and quality control peer review organization) that a pattern of inappropriate utilization has occurred in the past, and such provider or other person has been allowed a reasonable time to correct such inappropriate utilization.
 
 #### (b) Knowledge of person or provider that payment could not be made; indemnification of individual
 
@@ -44,7 +44,7 @@ Where payment for inpatient hospital services or extended care services may not 
 
 (4)(A) The requirement of this paragraph is that, on the basis of bills submitted by a home health agency during the previous quarter, the rate of denial of bills for the agency by reason of a coverage denial described in subsection (g) of this section does not exceed 2.5 percent, computed based on visits for home health services billed.
 
-(B) For purposes of determining the rate of denial of bills for a home health agency under subparagraph (A), a bill shall not be considered to be denied until the expiration of the 60-day period that begins on the date such bill is deniedby the fiscal intermediary, or, with respect to such a denial for which the agency requests reconsideration, until the fiscal intermediary issues a decision denying payment for such bill.
+(B) For purposes of determining the rate of denial of bills for a home health agency under subparagraph (A), a bill shall not be considered to be denied until the expiration of the 60-day period that begins on the date such bill is denied by the fiscal intermediary, or, with respect to such a denial for which the agency requests reconsideration, until the fiscal intermediary issues a decision denying payment for such bill.
 
 (5) In this subsection, the term “fiscal intermediary” means, with respect to a home health agency, an agency or organization with an agreement under section 1395h of this title with respect to the agency.
 
@@ -82,19 +82,19 @@ Parts A and B of this subchapter, referred to in text, are classified to section
 
 #### Amendments
 
-1997—Subsec. (g). Pub. L. 105–33 substituted “subsection is—” for “subsection is,”, redesignated remaining text as par. (1) and former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, substituted “; and” for period at end, and added par. (2).
+<b>1997</b>—Subsec. (g). Pub. L. 105–33 substituted “subsection is—” for “subsection is,”, redesignated remaining text as par. (1) and former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, substituted “; and” for period at end, and added par. (2).
 
-1994—Subsec. (h). Pub. L. 103–432 added subsec. (h).
+<b>1994</b>—Subsec. (h). Pub. L. 103–432 added subsec. (h).
 
-1989—Subsec. (f)(1). Pub. L. 101–239, §6214(a)(1), struck out “with respect to any coverage denial described in subsection (g) of this section” before period at end.
+<b>1989</b>—Subsec. (f)(1). Pub. L. 101–239, §6214(a)(1), struck out “with respect to any coverage denial described in subsection (g) of this section” before period at end.
 
 Subsec. (f)(4). Pub. L. 101–239, §6214(a)(2), designated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (f)(6). Pub. L. 101–239, §6214(b), added par. (6).
 
-1987—Subsec. (b). Pub. L. 100–203 struck out “, subject to the deductible and coinsurance provisions of this subchapter,” after “(referred to in such paragraphs)” and inserted at end “No item or service for which an individual is indemnified under this subsection shall be taken into account in applying any limitation on the amount of items and services for which payment may be made to or on behalf of the individual under this subchapter.”
+<b>1987</b>—Subsec. (b). Pub. L. 100–203 struck out “, subject to the deductible and coinsurance provisions of this subchapter,” after “(referred to in such paragraphs)” and inserted at end “No item or service for which an individual is indemnified under this subsection shall be taken into account in applying any limitation on the amount of items and services for which payment may be made to or on behalf of the individual under this subchapter.”
 
-1986—Subsec. (a). Pub. L. 99–509, §9305(g)(1)(A)–(C), inserted in par. (1) “or by reason of a coverage denial described in subsection (g) of this section”, and in concluding provisions inserted “and as though the coverage denial described in subsection (g) of this section had not occurred” and “or by reason of a coverage denial described in subsection (g) of this section”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–509, §9305(g)(1)(A)–(C), inserted in par. (1) “or by reason of a coverage denial described in subsection (g) of this section”, and in concluding provisions inserted “and as though the coverage denial described in subsection (g) of this section had not occurred” and “or by reason of a coverage denial described in subsection (g) of this section”.
 
 Subsec. (c). Pub. L. 99–509, §9305(g)(1)(D), inserted “or by reason of a coverage denial described in subsection (g) of this section”.
 
@@ -102,11 +102,11 @@ Subsec. (d). Pub. L. 99–509, §9341(a)(3), substituted “sections 1395ff(b) a
 
 Subsecs. (f), (g). Pub. L. 99–509, §9305(g)(1)(E), added subsecs. (f) and (g).
 
-1982—Subsec. (a). Pub. L. 97–248, §145, inserted provisions relating to imputing knowledge to provider or other person furnishing items or services for which payment may not be made that payment may not be made if the provider or other person has been notified that a pattern of inappropriate utilization has occurred in the past and there has been a reasonable time for correction of such utilization.
+<b>1982</b>—Subsec. (a). Pub. L. 97–248, §145, inserted provisions relating to imputing knowledge to provider or other person furnishing items or services for which payment may not be made that payment may not be made if the provider or other person has been notified that a pattern of inappropriate utilization has occurred in the past and there has been a reasonable time for correction of such utilization.
 
 Subsec. (e). Pub. L. 97–248, §148(e), substituted “quality control and peer review organization” for “professional standards review organization”.
 
-1980—Subsec. (e). Pub. L. 96–499 added subsec. (e).
+<b>1980</b>—Subsec. (e). Pub. L. 96–499 added subsec. (e).
 
 #### Effective Date of 1997 Amendment
 
@@ -118,11 +118,11 @@ Amendment by Pub. L. 103–432 applicable to items or services furnished on or a
 
 #### Effective Date of 1989 Amendment
 
-Section 6214(c) of Pub. L. 101–239 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to determinations for quarters beginning on or after the date of the enactment of this Act \[Dec. 19, 1989\].”
+Section 6214(c) of Pub. L. 101–239 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply to determinations for quarters beginning on or after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to services furnished on or after Jan. 1, 1988, see section 4096(d) ofPub. L. 100–203, set out as a note under section 1320c–3 of this title.
+Amendment by Pub. L. 100–203 applicable to services furnished on or after Jan. 1, 1988, see section 4096(d) of Pub. L. 100–203, set out as a note under section 1320c–3 of this title.
 
 #### Effective Date of 1986 Amendment
 

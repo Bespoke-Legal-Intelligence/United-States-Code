@@ -206,7 +206,7 @@ The provisions of this subsection shall apply in lieu of subsection (e) to a fis
 
 &emsp;(2) within 1 year after the Secretary's determination, the appropriate Council, or Secretary, for fisheries under section 1852(a)(3) of this title shall—
 
-&emsp;&emsp;(A) develop recommendations for domestic regulations to address the relative impact of fishing vessels of the United States on the stock and, if developed by a Council, theCouncil shall submit such recommendations to the Secretary; and
+&emsp;&emsp;(A) develop recommendations for domestic regulations to address the relative impact of fishing vessels of the United States on the stock and, if developed by a Council, the Council shall submit such recommendations to the Secretary; and
 
 &emsp;&emsp;(B) develop and submit recommendations to the Secretary of State, and to the Congress, for international actions that will end overfishing in the fishery and rebuild the affected stocks, taking into account the relative impact of vessels of other nations and vessels of the United States on the relevant stock.
 
@@ -220,13 +220,13 @@ Paragraph (3), referred to in subsec. (f)(1), was repealed by Pub. L. 104–297,
 
 The Atlantic Tunas Convention Act of 1975, referred to in subsec. (g)(2), is Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, as amended, which is classified generally to chapter 16A (§971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 971 of this title and Tables.
 
-The Western and Central Pacific Fisheries Convention Implementation Act, referred to in subsec. (g)(2), is title V of Pub. L. 109–479, Jan. 12, 2007, 120 Stat. 3635, which is classified generally to chapter 88 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+The Western and Central Pacific Fisheries Convention Implementation Act, referred to in subsec. (g)(2), is title V of Pub. L. 109–479, Jan. 12, 2007, 120 Stat. 3635, which is classified generally to chapter 88 (§6901 et seq.) of this title. For complete classification of this Act tothe Code, see Short Title note set out under section 6901 of this title and Tables.
 
 The National Environmental Policy Act, referred to in subsec. (i)(1), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
 
-2007—Subsec. (c)(3). Pub. L. 109–479, §3(d)(2)(A), substituted “limited access privilege” for “individual fishing quota”.
+<b>2007</b>—Subsec. (c)(3). Pub. L. 109–479, §3(d)(2)(A), substituted “limited access privilege” for “individual fishing quota”.
 
 Subsec. (d)(2)(A). Pub. L. 109–479, §106(b), substituted “management, data collection, and enforcement” for “management and enforcement” in introductory provisions.
 
@@ -248,7 +248,7 @@ Subsec. (i). Pub. L. 109–479, §406(a), added subsec. (i) relating to internat
 
 Pub. L. 109–479, §107, added subsec. (i) relating to environmental review process.
 
-1996—Subsecs. (a), (b). Pub. L. 104–297, §109(a), added subsecs. (a) and (b) and struck out former subsecs. (a) which related to actions by Secretary after receipt of a fishery management plan or amendment to a plan and (b) which related to implementation of approved plans and amendments and submission and review of revised plans and amendments.
+<b>1996</b>—Subsecs. (a), (b). Pub. L. 104–297, §109(a), added subsecs. (a) and (b) and struck out former subsecs. (a) which related to actions by Secretary after receipt of a fishery management plan or amendment to a plan and (b) which related to implementation of approved plans and amendments and submission and review of revised plans and amendments.
 
 Subsec. (c). Pub. L. 104–297, §109(b)(1), amended heading to read “Preparation and review of Secretarial plans”.
 
@@ -270,9 +270,9 @@ Subsec. (g). Pub. L. 104–297, §109(g), added subsec. (g) and struck out forme
 
 Subsec. (h). Pub. L. 104–297, §109(i), added subsec. (h).
 
-1993—Subsec. (g)(6)(B). Pub. L. 103–206 substituted “April 1, 1994” for “January 1, 1994”.
+<b>1993</b>—Subsec. (g)(6)(B). Pub. L. 103–206 substituted “April 1, 1994” for “January 1, 1994”.
 
-1992—Subsec. (e)(1). Pub. L. 102–567 added par. (1). Former par. (1) redesignated (2).
+<b>1992</b>—Subsec. (e)(1). Pub. L. 102–567 added par. (1). Former par. (1) redesignated (2).
 
 Subsec. (e)(2). Pub. L. 102–567 redesignated par. (1) as (2) and substituted “(3)” for “(2)” in subpar. (A). Former par. (2) redesignated (3).
 
@@ -280,7 +280,7 @@ Subsec. (e)(3). Pub. L. 102–567 redesignated par. (2) as (3) and substituted �
 
 Subsec. (e)(4). Pub. L. 102–567 redesignated par. (3) as (4) and substituted “(2)” for “(1)”.
 
-1990—Subsec. (b)(1), (3)(D). Pub. L. 101–627, §111(a)(2)(A), (B), substituted “section 1855(a)” for “section 1855(c)”.
+<b>1990</b>—Subsec. (b)(1), (3)(D). Pub. L. 101–627, §111(a)(2)(A), (B), substituted “section 1855(a)” for “section 1855(c)”.
 
 Subsec. (c)(2)(B). Pub. L. 101–627, §120(d), substituted “appropriate Council” for “appropriate council”.
 
@@ -292,7 +292,7 @@ Subsec. (f). Pub. L. 101–627, §110(b)(1), in heading substituted “Fisheries
 
 Subsec. (g). Pub. L. 101–627, §110(c), added subsec. (g).
 
-1986—Subsec. (a)(1). Pub. L. 99–659, §106(1)(A), struck out “(the date of receipt of which is hereafter in this section referred to as the ‘receipt date’)” after “by a Council” in introductory provisions.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–659, §106(1)(A), struck out “(the date of receipt of which is hereafter in this section referred to as the ‘receipt date’)” after “by a Council” in introductory provisions.
 
 Subsec. (a)(1)(A), (B). Pub. L. 99–659, §106(1)(B), (C), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
@@ -322,7 +322,7 @@ Subsec. (c)(2)(B). Pub. L. 99–659, §106(3)(C), substituted “60-day” for �
 
 Subsec. (e). Pub. L. 99–659, §106(4), inserted “, in cooperation with the Councils,”, “and on the economics of the fisheries”, and “The Secretary shall annually review and update the comprehensive program and make the results of the review and update available to the Councils.”
 
-1983—Subsec. (a). Pub. L. 97–453, §7(a)(1), amended subsec. (a) generally, which had provided that within 60 days after the Secretary received any fishery management plan, or any amendment to any such plan, which was prepared by any Council, the Secretary was to review such plan or amendment pursuant to subsection (b) of this section, notify such Council in writing of his approval, disapproval, or partial disapproval of such plan or amendment, and that in the case of disapproval or partial disapproval, the Secretary was to include in such notification a statement and explanation of the Secretary's objections and the reasons therefor, suggestions for improvement, a request to such Council to change such plan or amendment to satisfy the objections, and a request to resubmit the plan or amendment, as so modified, to the Secretary within 45 days after the date on which the Council received such notification.
+<b>1983</b>—Subsec. (a). Pub. L. 97–453, §7(a)(1), amended subsec. (a) generally, which had provided that within 60 days after the Secretary received any fishery management plan, or any amendment to any such plan, which was prepared by any Council, the Secretary was to review such plan or amendment pursuant to subsection (b) of this section, notify such Council in writing of his approval, disapproval, or partial disapproval of such plan or amendment, and that in the case of disapproval or partial disapproval, the Secretary was to include in such notification a statement and explanation of the Secretary's objections and the reasons therefor, suggestions for improvement, a request to such Council to change such plan or amendment to satisfy the objections, and a request to resubmit the plan or amendment, as so modified, to the Secretary within 45 days after the date on which the Council received such notification.
 
 Subsec. (b). Pub. L. 97–453, §7(a)(1), amended subsec. (b) generally, which had provided that the Secretary was to review any fishery management plan, and any amendment to any such plan, prepared by any Council and submitted to him to determine whether it was consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that in carrying out such review, the Secretary was to consult with the Secretary of State with respect to foreign fishing, and the Secretary of the department in which the Coast Guard was operating with respect to enforcement at sea.
 
@@ -338,7 +338,7 @@ Pub. L. 109–479, title I, §104(d), Jan. 12, 2007, 120 Stat. 3585, provided th
 
 #### Effective Date of 1983 Amendment
 
-Section 7(b) of Pub. L. 97–453 provided that: “The amendments made by subsection (a) \[amending this section\] shall only apply with respect to fishery management plans and amendments thereto that are initially submitted to the Secretary of Commerce on orafter the date of the enactment of this Act \[Jan. 12, 1983\] for action under section 304 \[this section\].”
+Section 7(b) of Pub. L. 97–453 provided that: “The amendments made by subsection (a) \[amending this section\] shall only apply with respect to fishery management plans and amendments thereto that are initially submitted to the Secretary of Commerce on or after the date of the enactment of this Act \[Jan. 12, 1983\] for action under section 304 \[this section\].”
 
 #### Transfer of Functions
 
@@ -347,6 +347,44 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### International Fisheries Agreement
+
+Pub. L. 111–348, title II, Jan. 4, 2011, 124 Stat. 3671, provided that:
+
+#### “SEC. 201. SHORT TITLE.
+
+“This title may be cited as the ‘International Fisheries Agreement Clarification Act’.
+
+#### “SEC. 202. INTERNATIONAL FISHERY AGREEMENT.
+
+“Consistent with the intent of provisions of the Magnuson-Stevens Fishery and Conservation and Management Act \[Magnuson-Stevens Fishery Conservation and Management Act, 16 U.S.C. 1801 et seq.\] relating to international agreements, the Secretary of Commerce and the New England Fishery Management Council may, for the purpose of rebuilding those portions of fish stocks covered by the United States-Canada Transboundary Resource Sharing Understanding on the date of enactment of this Act \[Jan. 4, 2011\]—
+
+&emsp;“(1) take into account the Understanding and decisions made under that Understanding in the application of section 304(e)(4)(A)(i) of the Act (16 U.S.C. 1854(e)(4)(A)(i));
+
+&emsp;“(2) consider decisions made under that Understanding as ‘management measures under an international agreement’ that ‘dictate otherwise’ for purposes of section 304(e)(4)(A)(ii) of the Act (16 U.S.C. 1854(e)(4)(A)(ii)\[)\]; and
+
+&emsp;“(3) establish catch levels for those portions of fish stocks within their respective geographic areas covered by the Understanding on the date of enactment of this Act that exceed the catch levels otherwise required under the Northeast Multispecies Fishery Management Plan if—
+
+&emsp;&emsp;“(A) overfishing is ended immediately;
+
+&emsp;&emsp;“(B) the fishing mortality level ensures rebuilding within a time period for rebuilding specified taking into account the Understanding pursuant to paragraphs (1) and (2) of this subsection; and
+
+&emsp;&emsp;“(C) such catch levels are consistent with that Understanding.
+
+#### “SEC. 203. APPLICATION WITH OTHER LAWS.
+
+“Nothing in this title shall be construed to amend the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1851 \[1801\] et seq.) or to limit or otherwise alter the authority of the Secretary of Commerce under that Act concerning other species.
+
+#### “SEC. 204. EFFECTIVE DATE.
+
+“(a)
+
+In General.—Except as provided in subsection (b), section 202 shall apply with respect to fishing years beginning after April 30, 2010.
+
+“(b)
+
+Special Rule.—Section 202(3)(B) shall only apply with respect to fishing years beginning after April 30, 2012.”
 
 #### Delay of Collection of Fees in Quahog and Wreckfish Fisheries
 

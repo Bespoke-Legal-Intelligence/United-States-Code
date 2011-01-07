@@ -106,7 +106,7 @@ For purposes of this section—
 
 #### Amendments
 
-2004—Subsec. (d)(1). Pub. L. 108–357 struck out “; except that the term ‘personal property’ shall include stock” before period at end.
+<b>2004</b>—Subsec. (d)(1). Pub. L. 108–357 struck out “; except that the term ‘personal property’ shall include stock” before period at end.
 
 #### Effective Date of 2004 Amendment
 

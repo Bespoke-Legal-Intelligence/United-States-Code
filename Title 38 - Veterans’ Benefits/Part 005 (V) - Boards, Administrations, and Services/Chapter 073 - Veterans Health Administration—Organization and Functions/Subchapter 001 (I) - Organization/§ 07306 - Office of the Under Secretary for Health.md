@@ -18,7 +18,13 @@
 
 &emsp;(8) The Director of the National Center for Preventive Health, who shall be responsible to the Under Secretary for Health for the operation of the Center.
 
-&emsp;(9) The Advisor on Physician Assistants, who shall be a physician assistant with appropriate experience and who shall advise the Under Secretary for Health on all matters relating to the utilization and employment of physician assistants in the Administration.
+&emsp;(9) The Director of Physician Assistant Services, who shall—
+
+&emsp;&emsp;(A) serve in a full-time capacity at the Central Office of the Department;
+
+&emsp;&emsp;(B) be a qualified physician assistant; and
+
+&emsp;&emsp;(C) be responsible and report directly to the Chief Patient Care Services Officer of the Veterans Health Administration on all matters relating to the education and training, employment, appropriate use, and optimal participation of physician assistants within the programs and initiatives of the Administration.
 
 &emsp;(10) Such other personnel as may be authorized by this chapter.
 
@@ -54,17 +60,19 @@
 
 &emsp;(2) with respect to the programs established under section 1712A of this title, a clinician with appropriate expertise in those programs is responsible to the Under Secretary for the management of those programs.
 
-(Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 212; amended Pub. L. 102–405, title II, §205, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984; Pub. L. 102–585, title V, §511(b), Nov. 4, 1992, 106 Stat. 4956; Pub. L. 103–446, title XII, §1201(c)(3), Nov. 2, 1994, 108 Stat. 4683; Pub. L. 104–262, title III, §344, Oct. 9, 1996, 110 Stat. 3207; Pub. L. 106–419, title II, §206, Nov. 1, 2000, 114 Stat. 1842; Pub. L. 107–135, title I, §131, Jan. 23, 2002, 115 Stat. 2454.)
+(Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 212; amended Pub. L. 102–405, title II, §205, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984; Pub. L. 102–585, title V, §511(b), Nov. 4, 1992, 106 Stat. 4956; Pub. L. 103–446, title XII, §1201(c)(3), Nov. 2, 1994, 108 Stat. 4683; Pub. L. 104–262, title III, §344, Oct. 9, 1996, 110 Stat. 3207; Pub. L. 106–419, title II, §206, Nov. 1, 2000, 114 Stat. 1842; Pub. L. 107–135, title I, §131, Jan. 23, 2002, 115 Stat. 2454; Pub. L. 111–163, title V, §514(a), May 5, 2010, 124 Stat. 1165.)
 
 #### Amendments
 
-2002—Subsec. (a)(5). Pub. L. 107–135 inserted “, and report directly to,” after “responsible to”.
+<b>2010</b>—Subsec. (a)(9). Pub. L. 111–163 added par. (9) and struck out former par. (9) which read as follows: “The Advisor on Physician Assistants, who shall be a physician assistant with appropriate experience and who shall advise the Under Secretary for Health on all matters relating to the utilization and employment of physician assistants in the Administration.”
 
-2000—Subsec. (a)(9), (10). Pub. L. 106–419 added par. (9) and redesignated former par. (9) as (10).
+<b>2002</b>—Subsec. (a)(5). Pub. L. 107–135 inserted “, and report directly to,” after “responsible to”.
 
-1996—Subsec. (f). Pub. L. 104–262 added subsec. (f).
+<b>2000</b>—Subsec. (a)(9), (10). Pub. L. 106–419 added par. (9) and redesignated former par. (9) as (10).
 
-1994—Subsec. (a)(3). Pub. L. 103–446, §1201(c)(3)(A)(i), substituted “Assistant Under Secretaries for Health” for “Assistant Chief Medical Directors”.
+<b>1996</b>—Subsec. (f). Pub. L. 104–262 added subsec. (f).
+
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–446, §1201(c)(3)(A)(i), substituted “Assistant Under Secretaries for Health” for “Assistant Chief Medical Directors”.
 
 Pars. (7) to (9). Pub. L. 103–446, §1201(c)(3)(A)(ii)–(iv), redesignated par. (8), relating to such directors, as (7), par. (7) as (8), and par. (8), relating to such other personnel, as (9), and in par. (8), as so redesignated, substituted “Under Secretary for Health” for “Chief Medical Director”.
 
@@ -72,7 +80,7 @@ Subsec. (b). Pub. L. 103–446, §1201(c)(3)(B), substituted “Assistant Under 
 
 Subsec. (c). Pub. L. 103–446, §1201(c)(3)(C), substituted “and (8)” for “and (7)”.
 
-1992—Pub. L. 102–405, §302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” in section catchline.
+<b>1992</b>—Pub. L. 102–405, §302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” in section catchline.
 
 Subsec. (a). Pub. L. 102–405, §302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
 
@@ -89,4 +97,8 @@ Subsec. (b)(2), (3). Pub. L. 102–405, §302(c)(1), substituted “Under Secret
 Subsec. (c). Pub. L. 102–585, §511(b)(2), substituted “(4), and (7)” for “and (4)”.
 
 Pub. L. 102–405, §302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director”.
+
+#### Deadline for Implementation of 2010 Amendment
+
+Pub. L. 111–163, title V, §514(b), May 5, 2010, 124 Stat. 1165, provided that: “The Secretary of Veterans Affairs shall ensure that an individual is serving as the Director of Physician Assistant Services under paragraph (9) of section 7306(a) of title 38, United States Code, as amended by subsection (a), by not later than 120 days after the date of the enactment of this Act \[May 5, 2010\].”
 

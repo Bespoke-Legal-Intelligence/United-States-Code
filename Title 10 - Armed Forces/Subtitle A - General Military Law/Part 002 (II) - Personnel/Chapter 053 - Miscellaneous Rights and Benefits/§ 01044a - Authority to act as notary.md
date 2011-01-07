@@ -4,7 +4,7 @@
 
 &emsp;(1) Members of any of the armed forces.
 
-&emsp;(2) Other persons eligible for legal assistance under the provisions of section 1044 of thistitle or regulations of the Department of Defense.
+&emsp;(2) Other persons eligible for legal assistance under the provisions of section 1044 of this title or regulations of the Department of Defense.
 
 &emsp;(3) Persons serving with, employed by, or accompanying the armed forces outside the United States and outside the Commonwealth of Puerto Rico, Guam, and the Virgin Islands.
 
@@ -30,11 +30,11 @@
 
 #### Amendments
 
-2001—Subsec. (b)(2). Pub. L. 107–107, §1103(a), substituted “legal assistance attorneys” for “legal assistance officers”.
+<b>2001</b>—Subsec. (b)(2). Pub. L. 107–107, §1103(a), substituted “legal assistance attorneys” for “legal assistance officers”.
 
 Subsec. (b)(5). Pub. L. 107–107, §1103(b), added par. (5).
 
-1996—Subsec. (b)(1). Pub. L. 104–201, §573(1), substituted “, including reserve judge advocates when not in a duty status” for “on active duty or performing inactive-duty training”.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–201, §573(1), substituted “, including reserve judge advocates when not in a duty status” for “on active duty or performing inactive-duty training”.
 
 Subsec. (b)(3). Pub. L. 104–201, §573(2), substituted “adjutants, including reserve members when not in a duty status” for “adjutants on active duty or performing inactive-duty training”.
 

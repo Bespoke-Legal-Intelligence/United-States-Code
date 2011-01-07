@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 3502 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 3502 of this title as this section.
 
 Pub. L. 102–83 substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in subsecs. (a) and (b).
 

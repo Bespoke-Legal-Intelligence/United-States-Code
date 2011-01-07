@@ -8,7 +8,7 @@ To be designated as a Head Start agency under this subchapter, an agency shall h
 
 To be so designated, a Head Start agency shall, at a minimum, do all the following to involve and serve families and communities:
 
-&emsp;(1) Provide for the regular and direct participation of parents and community residents in the implementation of the Head Start program, including decisions that influence the character of such program, consistent with paragraphs (2)(D) and (3)(C) of subsection (c).
+&emsp;(1) Provide for the regular and direct participation of parents and community residents inthe implementation of the Head Start program, including decisions that influence the character of such program, consistent with paragraphs (2)(D) and (3)(C) of subsection (c).
 
 &emsp;(2) Seek the involvement of parents, community residents, and local business in the design and implementation of the program.
 
@@ -18,7 +18,7 @@ To be so designated, a Head Start agency shall, at a minimum, do all the followi
 
 &emsp;&emsp;(B) to afford such parents the opportunity to participate in the development and overall conduct of the program at the local level, including transportation assistance as appropriate.
 
-&emsp;(4) Offer (directly or through referral to local entities, such as entities carrying out Even Start programs under subpart 3 of part B of title I of the Elementary and SecondaryEducation Act of 1965 (20 U.S.C. 6381 et seq.), public and school libraries, and entities carrying out family support programs) to such parents—
+&emsp;(4) Offer (directly or through referral to local entities, such as entities carrying out Even Start programs under subpart 3 of part B of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6381 et seq.), public and school libraries, and entities carrying out family support programs) to such parents—
 
 &emsp;&emsp;(A) family literacy services; and
 
@@ -98,7 +98,7 @@ Upon receiving designation as a Head Start agency, the agency shall establish an
 
 &emsp;&emsp;&emsp;(iv) Additional members shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) reflect the community to be served and include parents of children who arecurrently, or were formerly, enrolled in Head Start programs; and
+&emsp;&emsp;&emsp;&emsp;(I) reflect the community to be served and include parents of children who are currently, or were formerly, enrolled in Head Start programs; and
 
 &emsp;&emsp;&emsp;&emsp;(II) are selected for their expertise in education, business administration, or community affairs.
 
@@ -172,7 +172,7 @@ Upon receiving designation as a Head Start agency, the agency shall establish an
 
 &emsp;&emsp;&emsp;&emsp;(X) establishing, adopting, and periodically updating written standards of conduct that establish standards and formal procedures for disclosing, addressing, and resolving—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) any conflict of interest, and any appearance of a conflict of interest, bymembers of the governing body, officers and employees of the Head Start agency, and consultants and agents who provide services or furnish goods to the Head Start agency; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) any conflict of interest, and any appearance of a conflict of interest, by members of the governing body, officers and employees of the Head Start agency, and consultants and agents who provide services or furnish goods to the Head Start agency; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) complaints, including investigations, when appropriate; and
 
@@ -244,7 +244,7 @@ Upon receiving designation as a Head Start agency, the agency shall establish an
 
 #### (2) Conduct of responsibilities
 
-&emsp;Each Head Start agency shall ensure the sharing of accurate and regular information for use by the governing body and the policy council, about program planning, policies, and Head Start agency operations, including—
+&emsp;Each Head Start agency shall ensure the sharing of accurate and regular information for use by the governing body and the policycouncil, about program planning, policies, and Head Start agency operations, including—
 
 &emsp;&emsp;(A) monthly financial statements, including credit card expenditures;
 
@@ -284,7 +284,7 @@ To be so designated, a Head Start agency shall collaborate and coordinate with p
 
 &emsp;&emsp;(iii) ensure a smooth transition to school for such children.
 
-&emsp;(3) Coordinate activities and collaborate with programs under the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.), the agencies responsible for administering section 5106a of this title and parts B and E of title IV of the Social Security Act (42 U.S.C. 621 et seq., 670 et seq.), programs under subtitle B of title VII of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11431 et seq.), Even Start programs under subpart 3 of part B of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6381 et seq.), programs under section 619 and part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.), and other entities providing early childhood education and development programs or services, serving the children and families served by the Head Start agency.
+&emsp;(3) Coordinate activities and collaborate with programs under the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.), the agencies responsible for administering section 5106a of this title and parts B and E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\], programs under subtitle B of title VII of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11431 et seq.), Even Start programs under subpart 3 of part B of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6381 et seq.), programs under section 619 and part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.), and other entities providing early childhood education and development programs or services, serving the children and families served by the Head Start agency.
 
 &emsp;(4) Take steps to coordinate activities with the local educational agency serving the community involved and with schools in which children participating in the Head Start program will enroll following the program, including—
 
@@ -320,7 +320,7 @@ To be so designated, a Head Start agency shall collaborate and coordinate with p
 
 &emsp;&emsp;&emsp;(X) other elements mutually agreed to by the parties to such memorandum;
 
-&emsp;&emsp;(B) be submitted to the Secretary and the State Director of Head Start Collaboration not later than 30 days after the parties enter into such memorandum, except that—
+&emsp;&emsp;(B) be submitted to the Secretary and the State Director of Head Start Collaborationnot later than 30 days after the parties enter into such memorandum, except that—
 
 &emsp;&emsp;&emsp;(i) where there is an absence of publicly funded preschool programs in the service area of a Head Start agency, this paragraph shall not apply; or
 
@@ -380,7 +380,7 @@ In order to receive funds under this subchapter, a Head Start agency shall docum
 
 The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(4) and (e)(3), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Subpart 3 of part B of title I of the Act is classified generally to subpart 3 (§6381 et seq.) of part B of subchapter I of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (b)(14), (15), and (e)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (b)(14), (15), and (e)(3), is title VI ofPub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 The Child Care and Development Block Grant Act of 1990, referred to in subsec. (e)(3), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
 
@@ -390,11 +390,11 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (e)(3), is Pu
 
 #### Amendments
 
-2007—Pub. L. 110–134 amended section generally. Prior to amendment, section related to, in subsec. (a), receipt, administration, and transfer of funds, sponsorship of projects, and delegation of authority, in subsec. (b), participation of parents in decisionmaking and implementation of programs, in subsec. (c), coordination with other agencies, in subsec. (d), transition coordination with schools, and, in subsec. (e), assessment when hiring or evaluating classroom teachers.
+<b>2007</b>—Pub. L. 110–134 amended section generally. Prior to amendment, section related to, in subsec. (a), receipt, administration, and transfer of funds, sponsorship of projects, and delegation of authority, in subsec. (b), participation of parents in decisionmaking and implementation of programs, in subsec. (c), coordination with other agencies, in subsec. (d), transition coordination with schools, and, in subsec. (e), assessment when hiring or evaluating classroom teachers.
 
-2004—Subsec. (c). Pub. L. 108–446 substituted “1431–1444” for “1431–1445”.
+<b>2004</b>—Subsec. (c). Pub. L. 108–446 substituted “1431–1444” for “1431–1445”.
 
-1998—Subsec. (a). Pub. L. 105–285, §109(1), inserted “or for-profit” after “nonprofit”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–285, §109(1), inserted “or for-profit” after “nonprofit”.
 
 Subsec. (b)(6). Pub. L. 105–285, §109(2)(E), added par. (6). Former par. (6) redesignated (7).
 
@@ -428,21 +428,21 @@ Subsec. (d)(5). Pub. L. 105–285, §109(4)(C), redesignated par. (5) as (4).
 
 Subsec. (e). Pub. L. 105–285, §109(5), added subsec. (e).
 
-1994—Subsec. (b). Pub. L. 103–252, §109(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In order to be so designated, a Head Start agency must also (1) establish effective procedures by which parents and area residents concerned will be enabled to directly participate in decisions that influence the character of programs affecting their interests; (2) provide for their regular participation in the implementation of such programs; (3) provide technical and other support needed to enable parents and area residents to secure on their own behalf available assistance from public and private sources; (4) involve parents of children participating in its Head Start program in appropriate educational services (in accordance with the performance standards in effect upon section 9846(b) of this title or through referral of such parents to educational services available in the community) in order to aid their children to attain their full potential; (5) establish procedures to seek reimbursement, to the extent feasible, from other agencies for services for which any such other agency is responsible, which are provided to a Head Start participant by the Head Start agency; (6) provide (directly or through referral to educational services available in the community) parents of children participating in its Head Start program with child development and literacy skills training in order to aid their children to attain their full potential; and (7) consider providing services to assist younger siblings of children participating in its Head Start program to obtain health services from other sources.”
+<b>1994</b>—Subsec. (b). Pub. L. 103–252, §109(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In order to be so designated, a Head Start agency must also (1) establish effective procedures by which parents and area residents concerned will be enabled to directly participate in decisions that influence the character of programs affecting their interests; (2) provide for their regular participation in the implementation of such programs; (3) provide technical and other support needed to enable parents and area residents to secure on their own behalf available assistance from public and private sources; (4) involve parents of children participating in its Head Start program in appropriate educational services (in accordance with the performance standards in effect upon section 9846(b) of this title or through referral of such parents to educational services available in the community) in order to aid their children to attain their full potential; (5) establish procedures to seek reimbursement, to the extent feasible, from other agencies for services for which any such other agency is responsible, which are provided to a Head Start participant by the Head Start agency; (6) provide (directly or through referral to educational services available in the community) parents of children participating in its Head Start program with child development and literacy skills training in order to aid their children to attain their full potential; and (7) consider providing services to assist younger siblings of children participating in its Head Start program to obtain health services from other sources.”
 
 Subsec. (c). Pub. L. 103–252, §109(2), struck out “schools that will subsequently serve children in Head Start programs,” after “coordinate with” and inserted “, including Even Start programs under part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2741 et seq.),” after “other programs”.
 
 Subsec. (d). Pub. L. 103–252, §109(3), added subsec. (d).
 
-1992—Subsec. (b)(6), (7). Pub. L. 102–401, §2(i), added cls. (6) and (7).
+<b>1992</b>—Subsec. (b)(6), (7). Pub. L. 102–401, §2(i), added cls. (6) and (7).
 
 Subsec. (c). Pub. L. 102–401, §2(k)(3), substituted “subchapter” for “subtitle”.
 
-1990—Subsec. (b)(4), (5). Pub. L. 101–501, §109(1), added cl. (4) and redesignated former cl. (4) as (5).
+<b>1990</b>—Subsec. (b)(4), (5). Pub. L. 101–501, §109(1), added cl. (4) and redesignated former cl. (4) as (5).
 
 Subsec. (c). Pub. L. 101–501, §109(2), substituted “with schools that will subsequently serve children in Head Start programs, the State agency responsible for administering section 602(g) of this title, and other programs serving the children and families served by the Head Start agency to carry out the provisions of this subtitle” for “with other State and local programs serving the children in the Head Start agency to carry out the provisions of this subsection”.
 
-1986—Subsec. (c). Pub. L. 99–425 inserted “State and local” before “programs”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–425 inserted “State and local” before “programs”.
 
 #### Effective Date of 1994 Amendment
 

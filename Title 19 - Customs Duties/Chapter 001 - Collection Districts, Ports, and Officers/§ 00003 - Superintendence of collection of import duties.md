@@ -14,7 +14,7 @@ Section, prior to its incorporation into the Code, contained the words “and to
 
 Pub. L. 100–203, title IX, §9501(c), Dec. 22, 1987, 101 Stat. 1330–380, as amended by Pub. L. 103–182, title VI, §691(b)(1), Dec. 8, 1993, 107 Stat. 2224, provided that:
 
-“(1) The Comptroller General of the United States shall conduct a comprehensive analysis, including a cost-benefit study, of the centralized cargo examination station (CES) concept from the perspective of both the United States Customs Service and business community users. The analysis shall be submitted on the same day to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate (hereinafter in this subsection referred to as the ‘Committees’) not later than March 30, 1988, and shall include recommendations as to how best to implement cargo inspection procedures.
+“(1) The Comptroller General of the United States shall conduct a comprehensive analysis, including acost-benefit study, of the centralized cargo examination station (CES) concept from the perspective of both the United States Customs Service and business community users. The analysis shall be submitted on the same day to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate (hereinafter in this subsection referred to as the ‘Committees’) not later than March 30, 1988, and shall include recommendations as to how best to implement cargo inspection procedures.
 
 “(2) The United States Customs Service—
 

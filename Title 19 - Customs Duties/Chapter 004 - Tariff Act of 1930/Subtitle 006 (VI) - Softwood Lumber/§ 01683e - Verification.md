@@ -16,7 +16,7 @@ The Secretary of Treasury shall periodically verify the declarations made by a U
 
 #### (2) Examination of records
 
-&emsp;The Secretary of the Treasury is authorized to take such action, and examine such records, under section 1509 of this title, as the Secretary determines necessary to verify the declarations made pursuant to section 1683a(c) of this title are true and accurate.
+&emsp;The Secretary of the Treasury is authorized to take such action, and examine such records,under section 1509 of this title, as the Secretary determines necessary to verify the declarations made pursuant to section 1683a(c) of this title are true and accurate.
 
 (June 17, 1930, ch. 497, title VIII, §807, as added Pub. L. 110–246, title III, §3301(a), June 18, 2008, 122 Stat. 1851.)
 

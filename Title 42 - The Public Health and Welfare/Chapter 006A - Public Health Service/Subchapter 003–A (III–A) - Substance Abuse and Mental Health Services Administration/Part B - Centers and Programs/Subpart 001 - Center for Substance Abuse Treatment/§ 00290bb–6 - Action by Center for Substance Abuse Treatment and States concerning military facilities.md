@@ -46,7 +46,7 @@ Another prior section 513 of act July 1, 1944, which was classified to section 2
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–321, §112(b)(1), substituted provisions relating to Center for Substance Abuse Treatment for provisions relating to National Institute on Drug Abuse in heading and text.
+<b>1992</b>—Subsec. (a). Pub. L. 102–321, §112(b)(1), substituted provisions relating to Center for Substance Abuse Treatment for provisions relating to National Institute on Drug Abuse in heading and text.
 
 #### Effective Date of 1992 Amendment
 

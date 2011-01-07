@@ -22,7 +22,7 @@ The words “members of” are inserted for clarity. The words “Government”,
 
 #### Amendments
 
-1996—Pub. L. 104–316 substituted “of the forwarding” for “, or may file a claim with the General Accounting Office for the forwarding” in second sentence.
+<b>1996</b>—Pub. L. 104–316 substituted “of the forwarding” for “, or may file a claim with the General Accounting Office for the forwarding” in second sentence.
 
-1982—Pub. L. 97–258 substituted “official” for “officer”.
+<b>1982</b>—Pub. L. 97–258 substituted “official” for “officer”.
 

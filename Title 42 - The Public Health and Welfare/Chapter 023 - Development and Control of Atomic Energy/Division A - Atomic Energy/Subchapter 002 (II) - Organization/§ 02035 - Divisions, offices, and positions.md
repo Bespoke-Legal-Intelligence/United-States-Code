@@ -26,9 +26,9 @@ Provisions similar to this section were contained in section 1802(a)(4)(B) of th
 
 #### Amendments
 
-1967—Subsec. (a). Pub. L. 90–190 substituted an Assistant General Manager for Military Application, who would be appointed by the Commission, for the Director of the Division of Military Application as the head of the Division of Military Application, inserted requirement that the Assistant General Manager be a commissioned officer of the Armed Forces serving in general or flag officer rank or grade, as appropriate, and substituted “other program division” for “such division”.
+<b>1967</b>—Subsec. (a). Pub. L. 90–190 substituted an Assistant General Manager for Military Application, who would be appointed by the Commission, for the Director of the Division of Military Application as the head of the Division of Military Application, inserted requirement that the Assistant General Manager be a commissioned officer of the Armed Forces serving in general or flag officer rank or grade, as appropriate, and substituted “other program division” for “such division”.
 
-1964—Subsec. (a). Pub. L. 88–426, §306(f)(4), struck out provisions which prescribed the compensation of directors of program divisions.
+<b>1964</b>—Subsec. (a). Pub. L. 88–426, §306(f)(4), struck out provisions which prescribed the compensation of directors of program divisions.
 
 Subsec. (b). Pub. L. 88–426, §306(f)(5), struck out provisions which prescribed compensation of General Counsel. Such compensation is now prescribed by section 5316 of Title 5, Government Organization and Employees.
 
@@ -36,7 +36,7 @@ Subsec. (c). Pub. L. 88–426, §306(f)(6), struck out provisions which prescrib
 
 Subsec. (d). Pub. L. 88–426, §306(f)(7), struck out provisions which prescribed compensation of executive management positions.
 
-1957—Pub. L. 85–287 substituted “Divisions, offices, and positions” for “Divisions and offices” in section catchline.
+<b>1957</b>—Pub. L. 85–287 substituted “Divisions, offices, and positions” for “Divisions and offices” in section catchline.
 
 Subsec. (a). Pub. L. 85–287 increased compensation of Director from $16,000 to $19,000 per annum.
 

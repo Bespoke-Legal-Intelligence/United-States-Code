@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(v) enable the Head Start agencies to better conduct outreach to eligible families;
 
-&emsp;(C) promote partnerships between Head Start agencies, State and local governments,and the private sector to help ensure that children from low-income families, who are in Head Start programs or are preschool age, are receiving comprehensive services to prepare the children for elementary school;
+&emsp;(C) promote partnerships between Head Start agencies, State and local governments, and the private sector to help ensure that children from low-income families, who are in Head Start programs or are preschool age, are receiving comprehensive services to prepare the children for elementary school;
 
 &emsp;(D) consult with the chief State school officer, local educational agencies, and providers of early childhood education and development, at both the State and local levels;
 
@@ -152,9 +152,9 @@
 
 The Child Care and Development Block Grant Act of 1990, referred to in subsecs. (a)(2)(B)(ii) and (b)(2)(A)(iii), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(B)(iv) and (b)(1)(C)(viii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(B)(iv) and (b)(1)(C)(viii), istitle VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 #### Amendments
 
-2007—Subsec. (b). Pub. L. 110–134, §11(b), added subsec. (b).
+<b>2007</b>—Subsec. (b). Pub. L. 110–134, §11(b), added subsec. (b).
 

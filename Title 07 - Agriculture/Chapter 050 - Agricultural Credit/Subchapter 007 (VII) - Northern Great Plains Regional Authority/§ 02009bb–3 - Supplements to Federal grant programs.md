@@ -2,7 +2,7 @@
 
 #### (a) Finding
 
-Congress finds that certain States and local communities of the region may be unable totake maximum advantage of Federal grant programs for which the States and communities are eligible because—
+Congress finds that certain States and local communities of the region may be unable to take maximum advantage of Federal grant programs for which the States and communities are eligible because—
 
 &emsp;(1) they lack the economic resources to provide the required matching share; or
 

@@ -48,5 +48,5 @@ Section was formerly set out as a note under section 7256 of Title 42, The Publi
 
 #### Amendments
 
-2003—Subsec. (d). Pub. L. 108–136, §3141(k)(13)(D), substituted “subchapter II of chapter 5 and section 549 of title 40” for “sections 202 and 203(j) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483 and 484(j))”.
+<b>2003</b>—Subsec. (d). Pub. L. 108–136, §3141(k)(13)(D), substituted “subchapter II of chapter 5 and section 549 of title 40” for “sections 202 and 203(j) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483 and 484(j))”.
 

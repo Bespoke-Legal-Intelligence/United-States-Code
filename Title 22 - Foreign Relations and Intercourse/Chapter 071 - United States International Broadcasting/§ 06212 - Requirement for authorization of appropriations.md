@@ -24,7 +24,7 @@ The provisions of this section—
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–228 struck out “the direction and” after “broadcasting subject to” in introductory provisions.
+<b>2002</b>—Subsec. (a). Pub. L. 107–228 struck out “the direction and” after “broadcasting subject to” in introductory provisions.
 
 #### Continued Availability of Funds Following Repeal of Board for International Broadcasting Act of 1973
 

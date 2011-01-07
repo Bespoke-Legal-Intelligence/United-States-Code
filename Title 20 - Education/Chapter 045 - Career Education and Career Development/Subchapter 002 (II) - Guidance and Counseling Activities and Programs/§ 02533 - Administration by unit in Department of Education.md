@@ -18,7 +18,7 @@ The Secretary of Education may reserve an amount not to exceed 5 per centum of t
 
 #### Amendments
 
-1977—Subsec. (a)(1). Pub. L. 95–43 substituted “this subchapter” for “this section”.
+<b>1977</b>—Subsec. (a)(1). Pub. L. 95–43 substituted “this subchapter” for “this section”.
 
 #### Transfer of Functions
 

@@ -12,7 +12,7 @@ For purposes of this chapter—
 
 &emsp;(5) the term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands.
 
-(June 6, 1933, ch. 49, §2, 48 Stat. 114; Pub. L. 97–300, title VI, §601(a), formerly title V, §501(a), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, §601(a), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 105–220, title III, §301, Aug. 7, 1998, 112 Stat. 1080.)
+(June 6, 1933, ch. 49, §2, 48 Stat. 114; Pub. L. 97–300, title VI, §601(a), formerly title V, §501(a), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, §601(a), Pub. L. 100–628, title VII, §712(a)(1), (2),Nov. 7, 1988, 102 Stat. 3248; Pub. L. 105–220, title III, §301, Aug. 7, 1998, 112 Stat. 1080.)
 
 #### References in Text
 
@@ -22,7 +22,7 @@ The Workforce Investment Act of 1998, referred to in par. (1), is Pub. L. 105–
 
 #### Amendments
 
-1998—Par. (1). Pub. L. 105–220, §301(1), struck out “or officials” after “elected official” and substituted “Workforce Investment Act of 1998” for “Job Training Partnership Act”.
+<b>1998</b>—Par. (1). Pub. L. 105–220, §301(1), struck out “or officials” after “elected official” and substituted “Workforce Investment Act of 1998” for “Job Training Partnership Act”.
 
 Par. (2). Pub. L. 105–220, §301(2), (4), added par. (2) and struck out former par. (2) which read as follows: “the term ‘private industry council’ has the same meaning given that term under the Job Training Partnership Act;”.
 
@@ -30,7 +30,7 @@ Par. (3). Pub. L. 105–220, §301(4), added par. (3). Former par. (3) redesigna
 
 Par. (4). Pub. L. 105–220, §301(2), (3), (5), redesignated par. (3) as (4), substituted “Labor; and” for “Labor;”, and struck out former par. (4) which read as follows: “the term ‘service delivery area’ has the same meaning given that term under the Job Training Partnership Act; and”.
 
-1982—Pub. L. 97–300 amended section generally, substituting provisions relating to definitions for provisions which authorized appointment of personnel and payment of office expenses.
+<b>1982</b>—Pub. L. 97–300 amended section generally, substituting provisions relating to definitions for provisions which authorized appointment of personnel and payment of office expenses.
 
 #### Effective Date of 1998 Amendment
 

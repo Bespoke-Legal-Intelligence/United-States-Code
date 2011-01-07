@@ -4,7 +4,7 @@
 
 &emsp;(1) provide that, as a condition of eligibility for medical assistance under the State plan to an individual who has the legal capacity to execute an assignment for himself, the individual is required—
 
-&emsp;&emsp;(A) to assign the State any rights, of the individual or of any other person who is eligible for medical assistance under this subchapter and on whose behalf the individual has the legal authority to execute an assignment of such rights, to support (specified as support for the purpose of medical care by a court or administrative order) and to payment for medical care from any third party;
+&emsp;&emsp;(A) to assign the State any rights, of the individual or of any other person who is eligible for medical assistance under this subchapter and on whose behalf the individual has the legal authority to execute an assignment of such rights, to support (specified as support for the purpose of medical care by acourt or administrative order) and to payment for medical care from any third party;
 
 &emsp;&emsp;(B) to cooperate with the State (i) in establishing the paternity of such person (referred to in subparagraph (A)) if the person is a child born out of wedlock, and (ii) in obtaining support and payments (described in subparagraph (A)) for himself and for such person, unless (in either case) the individual is described in section 1396a(<i>l</i>)(1)(A) of this title or the individual is found to have good cause for refusing to cooperate as determined by the State agency in accordance with standards prescribed by the Secretary, which standards shall take into consideration the best interests of the individuals involved; and
 
@@ -18,11 +18,11 @@
 
 #### Amendments
 
-1990—Subsec. (a)(1)(B). Pub. L. 101–508 inserted “the individual is described in section 1396a(<i>l</i>)(1)(A) of this title or” after “unless (in either case)”.
+<b>1990</b>—Subsec. (a)(1)(B). Pub. L. 101–508 inserted “the individual is described in section 1396a(<i>l</i>)(1)(A) of this title or” after “unless (in either case)”.
 
-1986—Subsec. (a)(1)(C). Pub. L. 99–272 added subpar. (C).
+<b>1986</b>—Subsec. (a)(1)(C). Pub. L. 99–272 added subpar. (C).
 
-1984—Subsec. (a). Pub. L. 98–369 substituted “State plan for medical assistance shall” for “State plan for medical assistance may”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369 substituted “State plan for medical assistance shall” for “State plan for medical assistance may”.
 
 #### Effective Date of 1990 Amendment
 

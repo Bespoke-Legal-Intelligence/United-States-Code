@@ -54,13 +54,13 @@ The National Urban Policy Report shall, when transmitted to Congress, be referre
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–550, §921(2)(A), substituted “, not later than June 1, 1993, and not later than the first day of June of every odd-numbered year thereafter,” for “during February 1978, and during February of every even-numbered year thereafter,” in introductory provisions.
+<b>1992</b>—Subsec. (a). Pub. L. 102–550, §921(2)(A), substituted “, not later than June 1, 1993, and not later than the first day of June of every odd-numbered year thereafter,” for “during February 1978, and during February of every even-numbered year thereafter,” in introductory provisions.
 
 Subsec. (a)(8). Pub. L. 102–550, §921(2)(B), which directed the substitution of “legislative or administrative proposals—” and subpars. (A) to (I) for “ ‘such’ and all that follows through the end of the sentence”, was executed by making the substitution for “such legislation and administrative actions as may be deemed necessary and desirable.” which followed “such” the second place it appeared to reflect the probable intent of Congress.
 
 Subsec. (d). Pub. L. 102–550, §921(3), added subsec. (d).
 
-1977—Subsec. (a). Pub. L. 95–128, §601(c)(1), inserted provisions in introductory text respecting transmittal of a Report on National Urban Policy to the Congress and struck out prior similar provisions which required the President to utilize the capacity of his office, adequately organized and staffed for the purpose, through an identified unit of the Domestic Council, and of the departments and agencies within the executive branch to collect, analyze, and evaluate such statistics, data, and other information (including demographic, economic, social, land use, environmental, and governmental information) as would enable the President to transmit to the Congress during the month of February 1972 and every other year thereafter a Report on Urban Growth for the preceding two calendar years.
+<b>1977</b>—Subsec. (a). Pub. L. 95–128, §601(c)(1), inserted provisions in introductory text respecting transmittal of a Report on National Urban Policy to the Congress and struck out prior similar provisions which required the President to utilize the capacity of his office, adequately organized and staffed for the purpose, through an identified unit of the Domestic Council, and of the departments and agencies within the executive branch to collect, analyze, and evaluate such statistics, data, and other information (including demographic, economic, social, land use, environmental, and governmental information) as would enable the President to transmit to the Congress during the month of February 1972 and every other year thereafter a Report on Urban Growth for the preceding two calendar years.
 
 Subsec. (a)(1) to (8). Pub. L. 95–128, §601(c)(2)–(6), in amending paragraphs, provided as follows:
 

@@ -36,15 +36,15 @@ Provisions similar to those in this section were contained in section 3(c) of Pu
 
 #### Amendments
 
-2006—Subsecs. (c), (d). Pub. L. 109–461 redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “The Under Secretary for Benefits shall be appointed for a period of four years, with reappointment permissible for successive like periods. If the President removes the Under Secretary for Benefits before the completion of the term for which the Under Secretary for Benefits was appointed, the President shall communicate the reasons for the removal to Congress.”
+<b>2006</b>—Subsecs. (c), (d). Pub. L. 109–461 redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “The Under Secretary for Benefits shall be appointed for a period of four years, with reappointment permissible for successive like periods. If the President removes the Under Secretary for Benefits before the completion of the term for which the Under Secretary for Benefits was appointed, the President shall communicate the reasons for the removal to Congress.”
 
-1994—Subsec. (a). Pub. L. 103–446, §1201(c)(2)(A), substituted “an Under Secretary” for “a Under Secretary”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–446, §1201(c)(2)(A), substituted “an Under Secretary” for “a Under Secretary”.
 
 Subsec. (d)(2)(F). Pub. L. 103–446, §1201(c)(2)(B), (e)(2), substituted “Chief Benefits Director of the Veterans’ Administration)” for “Under Secretary for Benefits of the Department)” and “commission” for “Commission”.
 
-1992—Pub. L. 102–405 substituted “Under Secretary for Benefits” for “Chief Benefits Director” wherever appearing.
+<b>1992</b>—Pub. L. 102–405 substituted “Under Secretary for Benefits” for “Chief Benefits Director” wherever appearing.
 
-1991—Subsec. (d)(2)(F). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+<b>1991</b>—Subsec. (d)(2)(F). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
 #### Change of Name
 

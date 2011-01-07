@@ -96,7 +96,7 @@ For purposes of this section—
 
 For purposes of this subchapter, the term “applicable tax-exempt organization” means—
 
-&emsp;(1) any organization which (without regard to any excess benefit) would be described in paragraph (3) or (4) of section 501(c) and exempt from tax under section 501(a), and
+&emsp;(1) any organization which (without regard to any excess benefit) would be described in paragraph (3), (4), or (29) of section 501(c) and exempt from tax under section 501(a), and
 
 &emsp;(2) any organization which was described in paragraph (1) at any time during the 5-year period ending on the date of the transaction.
 
@@ -186,7 +186,7 @@ For purposes of this section—
 
 &emsp;&emsp;For purposes of subparagraph (A), the term “investment advisor” means, with respect to any sponsoring organization (as defined in section 4966(d)(1)), any person (other than an employee of such organization) compensated by such organization for managing the investment of, or providing investment advice with respect to, assets maintained in donor advised funds (as defined in section 4966(d)(2)) owned by such organization.
 
-(Added Pub. L. 104–168, title XIII, §1311(a), July 30, 1996, 110 Stat. 1475; amended Pub. L. 109–280, title XII, §§1212(a)(3), 1232(a), (b), 1242(a), (b), Aug. 17, 2006, 120 Stat. 1074, 1098, 1099, 1104; Pub. L. 110–172, §3(i), Dec. 29, 2007, 121 Stat. 2475.)
+(Added Pub. L. 104–168, title XIII, §1311(a), July 30, 1996, 110 Stat. 1475; amended Pub. L. 109–280, title XII, §§1212(a)(3), 1232(a), (b), 1242(a), (b), Aug. 17, 2006, 120 Stat. 1074, 1098, 1099, 1104; Pub. L. 110–172, §3(i), Dec. 29, 2007, 121 Stat. 2475; Pub. L. 111–148, title I, §1322(h)(3), Mar. 23, 2010, 124 Stat. 192.)
 
 #### Codification
 
@@ -194,11 +194,13 @@ Sections 1212(a)(3), 1232(a), (b), and 1242(a), (b) of Pub. L. 109–280, which 
 
 #### Amendments
 
-2007—Subsec. (c)(3)(A)(i)(II). Pub. L. 110–172, §3(i)(1), substituted “subparagraph (C)(ii)” for “paragraph (1), (2), or (4) of section 509(a)”.
+<b>2010</b>—Subsec. (e)(1). Pub. L. 111–148 substituted “paragraph (3), (4), or (29)” for “paragraph (3) or (4)”.
+
+<b>2007</b>—Subsec. (c)(3)(A)(i)(II). Pub. L. 110–172, §3(i)(1), substituted “subparagraph (C)(ii)” for “paragraph (1), (2), or (4) of section 509(a)”.
 
 Subsec. (c)(3)(C)(ii). Pub. L. 110–172, §3(i)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Such term shall not include any organization described in paragraph (1), (2), or (4) of section 509(a).”
 
-2006—Subsec. (c)(2). Pub. L. 109–280, §1232(b)(1), added par. (2). Former par. (2) redesignated (3). See Codification note above.
+<b>2006</b>—Subsec. (c)(2). Pub. L. 109–280, §1232(b)(1), added par. (2). Former par. (2) redesignated (3). See Codification note above.
 
 Subsec. (c)(3). Pub. L. 109–280, §1242(b), added par. (3). Former par. (3) redesignated (4). See Codification note above.
 
@@ -245,4 +247,6 @@ Subsection (b).—The amendments made by subsection (a) \[probably should be “
 #### Effective Date
 
 Section applicable to excess benefit transactions occurring on or after Sept. 14, 1995, and not applicable to any benefit arising from a transaction pursuant to any written contract which was binding on Sept. 13, 1995, and at all times thereafter before such transaction occurred, see section 1311(d)(1), (2) of Pub. L. 104–168, set out as an Effective Date of 1996 Amendment note under section 4955 of this title.
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

@@ -12,5 +12,5 @@ Word “moreover” was deleted as surplusage and minor changes were made in phr
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 

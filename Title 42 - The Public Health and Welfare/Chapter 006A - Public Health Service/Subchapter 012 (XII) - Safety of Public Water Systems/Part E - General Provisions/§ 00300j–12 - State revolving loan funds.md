@@ -36,11 +36,11 @@
 
 #### (i) New system capacity
 
-&emsp;&emsp;&emsp;Beginning in fiscal year 1999, the Administrator shall withhold 20 percent of each capitalization grant made pursuant to this section to a State unless the State has met the requirements of section 300g–9(a) of this title (relating to capacity development) and shall withhold 10 percent for fiscal year 2001, 15 percent for fiscal year 2002, and 20 percent for fiscal year 2003 if the State has not complied with the provisions of section 300g–9(c) of this title (relating to capacity development strategies). Not more than a total of 20 percent of the capitalization grants made to a State in any fiscal year may be withheld under the preceding provisions of this clause. All funds withheld by the Administrator pursuant to this clause shall be reallotted by the Administrator on the basis of the same ratio as is applicable to funds allotted under subparagraph (D). None of the funds reallotted by the Administrator pursuant to this paragraph shall be allotted to a State unless the State has met the requirements of section 300g–9 of this title (relating to capacity development).
+&emsp;&emsp;&emsp;Beginning in fiscal year 1999, the Administrator shall withhold 20 percent of eachcapitalization grant made pursuant to this section to a State unless the State has met the requirements of section 300g–9(a) of this title (relating to capacity development) and shall withhold 10 percent for fiscal year 2001, 15 percent for fiscal year 2002, and 20 percent for fiscal year 2003 if the State has not complied with the provisions of section 300g–9(c) of this title (relating to capacity development strategies). Not more than a total of 20 percent of the capitalization grants made to a State in any fiscal year may be withheld under the preceding provisions of this clause. All funds withheld by the Administrator pursuant to this clause shall be reallotted by the Administrator on the basis of the same ratio as is applicable to funds allotted under subparagraph (D). None of the funds reallotted by the Administrator pursuant to this paragraph shall be allotted to a State unless the State has met the requirements of section 300g–9 of this title (relating to capacity development).
 
 #### (ii) Operator certification
 
-&emsp;&emsp;&emsp;The Administrator shall withhold 20 percent of each capitalization grant madepursuant to this section unless the State has met the requirements of 300g–8 <sup>1</sup> of this title (relating to operator certification). All funds withheld by the Administrator pursuant to this clause shall be reallotted by the Administrator on the basis of the same ratio as applicable to funds allotted under subparagraph (D). None of the funds reallotted by the Administrator pursuant to this paragraph shall be allotted to a State unless the State has met the requirements of section 300g–8 of this title (relating to operator certification).
+&emsp;&emsp;&emsp;The Administrator shall withhold 20 percent of each capitalization grant made pursuant to this section unless the State has met the requirements of 300g–8 <sup>1</sup> of this title (relating to operator certification). All funds withheld by the Administrator pursuant to this clause shall be reallotted by the Administrator on the basis of the same ratio as applicable to funds allotted under subparagraph (D). None of the funds reallotted by the Administrator pursuant to this paragraph shall be allotted to a State unless the State has met the requirements of section 300g–8 of this title (relating to operator certification).
 
 #### (2) Use of funds
 
@@ -98,7 +98,7 @@
 
 #### (B) List of projects
 
-&emsp;&emsp;Each State shall, after notice and opportunity for public comment, publish and periodically update a list of projects in the State that are eligible for assistance under thissection, including the priority assigned to each project and, to the extent known, the expected funding schedule for each project.
+&emsp;&emsp;Each State shall, after notice and opportunity for public comment, publish and periodically update a list of projects in the State that are eligible for assistance under this section, including the priority assigned to each project and, to the extent known, the expected funding schedule for each project.
 
 #### (c) Fund management
 
@@ -196,7 +196,7 @@ The Administrator shall conduct an assessment of water system capital improvemen
 
 #### (1) In general
 
-&emsp;11/2 percent of the amounts appropriated annually to carry out this section may be used by the Administrator to make grants to Indian Tribes and Alaska Native villages that have not otherwise received either grants from the Administrator under this section or assistance from State loan funds established under this section. The grants may only be used for expenditures by tribes and villages for public water system expenditures referred to in subsection (a)(2) of this section.
+&emsp;1½ percent of the amounts appropriated annually to carry out this section may be used by the Administrator to make grants to Indian Tribes and Alaska Native villages that have not otherwise received either grants from the Administrator under this section or assistance from State loan funds established under this section. The grants may only be used for expenditures by tribes and villages for public water system expenditures referred to in subsection (a)(2) of this section.
 
 #### (2) Use of funds
 
@@ -212,7 +212,7 @@ The Administrator shall conduct an assessment of water system capital improvemen
 
 #### (j) Other areas
 
-Of the funds annually available under this section for grants to States, the Administrator shall make allotments in accordance with section 300j–2(a)(4) of this title for the Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, and Guam. The grants allotted as provided in this subsection may be provided by the Administrator to the governments of such areas, to public water systems in such areas, or to both, to be used for the public water system expenditures referred to in subsection (a)(2) of this section. The grants, and grants for the District of Columbia, shall not be deposited in State loan funds. The total allotment of grants under this section for all areas described in this subsection in any fiscal yearshall not exceed 0.33 percent of the aggregate amount made available to carry out this section in that fiscal year.
+Of the funds annually available under this section for grants to States, the Administrator shall make allotments in accordance with section 300j–2(a)(4) of this title for the Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, and Guam. The grants allotted as provided in this subsection may be provided by the Administrator to the governments of such areas, to public water systems in such areas, or to both, to be used for the public water system expenditures referred to in subsection (a)(2) of this section. The grants, and grants for the District of Columbia, shall not be deposited in State loan funds. The total allotment of grants under this section for all areas described in this subsection in any fiscal year shall not exceed 0.33 percent of the aggregate amount made available to carry out this section in that fiscal year.
 
 #### (k) Other authorized activities
 
@@ -262,7 +262,7 @@ There are authorized to be appropriated to carry out the purposes of this sectio
 
 #### (n) Health effects studies
 
-From funds appropriated pursuant to this section for each fiscal year, the Administrator shall reserve $10,000,000 for health effects studies on drinking water contaminants authorized by the Safe Drinking Water Act Amendments of 1996. In allocating funds made available under this subsection, the Administrator shall give priority to studies concerning the health effects of cryptosporidium (as authorized by section 300j–18(c) of this title), disinfection byproducts (as authorized by section 300j–18(c) of this title), and arsenic (as authorized by section 300g–1(b)(12)(A) of this title), and the implementation of a plan for studies of subpopulations at greater risk of adverse effects (as authorized by section 300j–18(a) of this title).
+From funds appropriated pursuant to this section for each fiscal year, the Administrator shall reserve $10,000,000 for health effects studies on drinking water contaminants authorized by the Safe Drinking Water Act Amendments of 1996. In allocating funds made available under this subsection, the Administrator shall give priority to studies concerning the health effects of cryptosporidium (as authorized by section 300j–18(c) of this title), disinfection byproducts (as authorized by section 300j–18(c) of this title),and arsenic (as authorized by section 300g–1(b)(12)(A) of this title), and the implementation of a plan for studies of subpopulations at greater risk of adverse effects (as authorized by section 300j–18(a) of this title).
 
 #### (<i>o</i>) Monitoring for unregulated contaminants
 
@@ -270,7 +270,7 @@ From funds appropriated pursuant to this section for each fiscal year beginning 
 
 #### (p) Demonstration project for State of Virginia
 
-Notwithstanding the other provisions of this section limiting the use of funds deposited in a State loan fund from any State allotment, the State of Virginia may, as a single demonstration and with the approval of the Virginia General Assembly and the Administrator, conduct a program to demonstrate alternative approaches to intergovernmental coordination to assist in the financing of new drinking water facilities in the following rural communities in southwestern Virginia where none exists on August 6, 1996, and where such communities are experiencingeconomic hardship: Lee County, Wise County, Scott County, Dickenson County, Russell County, Buchanan County, Tazewell County, and the city of Norton, Virginia. The funds allotted to that State and deposited in the State loan fund may be loaned to a regional endowment fund for the purpose set forth in this subsection under a plan to be approved by the Administrator. The plan may include an advisory group that includes representatives of such counties.
+Notwithstanding the other provisions of this section limiting the use of funds deposited in a State loan fund from any State allotment, the State of Virginia may, as a single demonstration and with the approval of the Virginia General Assembly and the Administrator, conduct a program to demonstrate alternative approaches to intergovernmental coordination to assist in the financing of new drinking water facilities in the following rural communities in southwestern Virginia where none exists on August 6, 1996, and where such communities are experiencing economic hardship: Lee County, Wise County, Scott County, Dickenson County, Russell County, Buchanan County, Tazewell County, and the city of Norton, Virginia. The funds allotted to that State and deposited in the State loan fund may be loaned to a regional endowment fund for the purpose set forth in this subsection under a plan to be approved by the Administrator. The plan may include an advisory group that includes representatives of such counties.
 
 #### (q) Small system technical assistance
 

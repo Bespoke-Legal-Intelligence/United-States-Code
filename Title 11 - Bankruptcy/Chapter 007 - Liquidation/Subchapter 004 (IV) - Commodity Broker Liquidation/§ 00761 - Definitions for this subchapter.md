@@ -46,7 +46,7 @@ In this subchapter—
 
 &emsp;&emsp;&emsp;(ii) entity that holds a claim against such futures commission merchant arising out of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the making, liquidation, or change in the value of a commodity contract of a kind specified in clause (i) of this subparagraph;
+&emsp;&emsp;&emsp;&emsp;(I) the making, liquidation, or change in the value of a commodity contract ofa kind specified in clause (i) of this subparagraph;
 
 &emsp;&emsp;&emsp;&emsp;(II) a deposit or payment of cash, a security, or other property with such futures commission merchant for the purpose of making or margining such a commodity contract; or
 
@@ -58,7 +58,7 @@ In this subchapter—
 
 &emsp;&emsp;&emsp;(ii) entity that holds a claim against such foreign futures commission merchant arising out of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the making, liquidation, or change in value of a commodity contract of akind specified in clause (i) of this subparagraph;
+&emsp;&emsp;&emsp;&emsp;(I) the making, liquidation, or change in value of a commodity contract of a kind specified in clause (i) of this subparagraph;
 
 &emsp;&emsp;&emsp;&emsp;(II) a deposit or payment of cash, a security, or other property with such foreign futures commission merchant for the purpose of making or margining such a commodity contract; or
 
@@ -140,7 +140,19 @@ In this subchapter—
 
 &emsp;&emsp;&emsp;(ii) any cash, security, or other property of such customer transferred to such other person under section 766 of this title to margin or secure such transferred commodity contract.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2615; Pub. L. 97–222, §16, July 27, 1982, 96 Stat. 238; Pub. L. 98–353, title III, §485, July 10, 1984, 98 Stat. 383; Pub. L. 103–394, title V, §501(d)(29), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–395; Pub. L. 109–8, title IX, §907(a)(3), Apr. 20, 2005, 119 Stat. 174.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2615; Pub. L. 97–222, §16, July 27, 1982, 96 Stat. 238; Pub. L. 98–353, title III, §485, July 10, 1984, 98 Stat. 383; Pub. L. 103–394, title V, §501(d)(29), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–395; Pub. L. 109–8, title IX, §907(a)(3), Apr. 20, 2005, 119 Stat. 174; Pub. L. 111–203, title VII, §724(b), July 21, 2010, 124 Stat. 1684.)
+
+#### Amendment of Paragraphs (4)(F) and (9)(A)(i)
+
+<i>Pub. L. 111–203, title VII, §§724(b), 754, July 21, 2010, 124 Stat. 1684, 1754, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, this section is amended as follows:</i>
+
+<i>(1) in paragraph (4), by striking subparagraph (F) and inserting the following:</i>
+
+&emsp;&emsp;<i>“(F)(i) any other contract, option, agreement, or transaction that is similar to a contract, option, agreement, or transaction referred to in this paragraph; and</i>
+
+&emsp;&emsp;<i>“(ii) with respect to a futures commission merchant or a clearing organization, any other contract, option, agreement, or transaction, in each case, that is cleared by a clearing organization;”; and</i>
+
+<i>(2) in paragraph (9)(A)(i), by striking “the commodity futures account” and inserting “a commodity contract account”.</i>
 
 #### Historical and Revision Notes
 
@@ -166,7 +178,7 @@ Paragraph (10) \[enacted as (9)\] defines the term “customer” to mean with r
 
 The definition of “customer” serves to isolate that class of persons entitled to the protection subchapter IV provides to customers. In addition, section 101(5) defines “commodity broker” to mean a futures commission merchant, foreign futures commission merchant, clearing organization, leverage transaction merchant, or commodity options dealer, with respect to which there is a customer. Accordingly, the definition of customer also serves to designate those entities which must utilize chapter 7 and are precluded from reorganizing under chapter 11.
 
-Paragraph (11) \[enacted as (10)\] defines “customer property” to mean virtually all property or proceedsthereof, received, acquired, or held by or for the account of the debtor for a customer arising out of or in connection with a transaction involving a commodity contract.
+Paragraph (11) \[enacted as (10)\] defines “customer property” to mean virtually all property or proceeds thereof, received, acquired, or held by or for the account of the debtor for a customer arising out of or in connection with a transaction involving a commodity contract.
 
 Paragraph (12) defines “distribution share” to mean the amount to which a customer is entitled under section 765(a).
 
@@ -190,7 +202,7 @@ Paragraph (15) \[enacted as (17)\] defines “net equity” to include the value
 
 #### References in Text
 
-The Commodity Exchange Act, referred to in pars. (1), (2), (8), and (17), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. Sections 4c(b) and 19 of the Act are classified to sections 6c(b) and 23, respectively, of Title 7. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in pars. (1), (2), (8), and (17), is act Sept. 21, 1922, ch. 369, 42 Stat.998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. Sections 4c(b) and 19 of the Act are classified to sections 6c(b) and 23, respectively, of Title 7. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 #### Amendments
 
@@ -229,6 +241,10 @@ Par. (15). Pub. L. 97–222, §16(8), substituted “mark-to-market payments, se
 Par. (16). Pub. L. 97–222, §16(9), struck out “at any time” after “customer property”.
 
 Par. (17). Pub. L. 97–222, §16(10), in provisions preceding subpar. (A) substituted “has” for “holds”, in subpar. (A) inserted “the” after “(A)” in provisions preceding cl. (i), and “in such capacity” after “customer” in cl. (ii).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of Title 7, Agriculture.
 
 #### Effective Date of 2005 Amendment
 

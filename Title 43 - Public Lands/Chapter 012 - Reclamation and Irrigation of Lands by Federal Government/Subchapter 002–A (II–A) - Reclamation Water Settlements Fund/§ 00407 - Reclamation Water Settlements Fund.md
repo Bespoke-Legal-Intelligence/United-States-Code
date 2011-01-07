@@ -70,7 +70,7 @@ There is established in the Treasury of the United States a fund, to be known as
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Subject to subclause (II), effective beginning January 1, 2020, if, in the judgment of the Secretary on an annual basis the deadline described in section 10701(e)(1)(A)(ix) <sup>1</sup> is unlikely to be met because a sufficient amount of funding is not otherwise available through appropriations made available pursuant to section 10609(a),<sup>1</sup> the Secretary shall expend from the Fund such amounts on an annual basis consistent with paragraphs (1) and (2), as are necessary to pay the Federal share of the costs, and substantially complete as expeditiously as practicable, the construction of the water supply infrastructure authorized as part of the Project.
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (II), effective beginning January 1, 2020, if, in the judgment of the Secretary on an annual basis the deadline described in section 10701(e)(1)(A)(ix) <sup>1</sup> is unlikely to be met because a sufficient amount of funding is not otherwise available through appropriations made available pursuant to section 10609(a),<sup>1</sup> the Secretary shall expend from the Fund such amounts on an annual basis consistent with paragraphs (1) and (2), as are necessary to pay theFederal share of the costs, and substantially complete as expeditiously as practicable, the construction of the water supply infrastructure authorized as part of the Project.
 
 #### (II) Maximum amount
 
@@ -116,7 +116,7 @@ There is established in the Treasury of the United States a fund, to be known as
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Subject to subclause (II), effective beginning January 1, 2020, in addition to funding made available pursuant to clauses (i), (ii), and (iii), if in the judgment of the Secretary on an annual basis a sufficient amount of funding is not otherwise available through annual appropriations, the Secretary shall expend from the Fund such amounts on an annual basis consistent with paragraphs (1) and (2), as are necessary to pay the Federal share of the remaining costs of implementing an Indian water rights settlement agreement entered into by theState of Arizona with the Navajo Nation to resolve the water rights claims of the Nation in the Lower Colorado River basin in Arizona, if a settlement is subsequently approved and authorized by an Act of Congress and the implementation period has not already expired.
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (II), effective beginning January 1, 2020, in addition to funding made available pursuant to clauses (i), (ii), and (iii), if in the judgment of the Secretary on an annual basis a sufficient amount of funding is not otherwise available through annual appropriations, the Secretary shall expend from the Fund such amounts on an annual basis consistent with paragraphs (1) and (2), as are necessary to pay the Federal share of the remaining costs of implementing an Indian water rights settlement agreement entered into by the State of Arizona with the Navajo Nation to resolve the water rights claims of the Nation in the Lower Colorado River basin in Arizona, if a settlement is subsequently approved and authorized by an Act of Congress and the implementation period has not already expired.
 
 #### (II) Maximum amount
 
@@ -130,7 +130,7 @@ There is established in the Treasury of the United States a fund, to be known as
 
 #### (cc) Other funding
 
-&emsp;&emsp;&emsp;&emsp;&emsp;The Secretary shall ensure that any funding under this clause shall be provided in a manner that does not limit the funding available pursuant to clauses (i) and (ii).
+&emsp;&emsp;&emsp;&emsp;&emsp;The Secretary shall ensure that any funding under this clause shall be provided in a manner that does not limitthe funding available pursuant to clauses (i) and (ii).
 
 #### (C) Reversion
 
@@ -323,4 +323,6 @@ Trust fund.—The term ‘Trust Fund’ means the Navajo Nation Water Resources 
 &emsp;“(30)
 
 Upper basin.—The term ‘Upper Basin’ has the same meaning given the term in Article II(f) of the Colorado River Compact.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -10,7 +10,7 @@ The application of nondiscriminatory treatment shall be limited to the period of
 
 #### (c) Suspension or withdrawal of extensions of nondiscriminatory treatment
 
-The President may at any time suspend or withdraw any extension of nondiscriminatory treatment to any country pursuant to subsection (a) of this section and thereby cause allproducts of such country to be dutiable at the rates set forth in rate column numbered 2 of the Harmonized Tariff Schedule of the United States.
+The President may at any time suspend or withdraw any extension of nondiscriminatory treatment to any country pursuant to subsection (a) of this section and thereby cause all products of such country to be dutiable at the rates set forth in rate column numbered 2 of the Harmonized Tariff Schedule of the United States.
 
 (Pub. L. 93–618, title IV, §404, Jan. 3, 1975, 88 Stat. 2060; Pub. L. 96–39, title XI, §1106(f)(2), July 26, 1979, 93 Stat. 312; Pub. L. 100–418, title I, §1214(j)(3), Aug. 23, 1988, 102 Stat. 1158.)
 
@@ -20,9 +20,9 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (c),
 
 #### Amendments
 
-1988—Subsec. (c). Pub. L. 100–418 substituted “Harmonized Tariff Schedule of the United States” for “Tariff Schedules for the United States”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–418 substituted “Harmonized Tariff Schedule of the United States” for “Tariff Schedules for the United States”.
 
-1979—Subsec. (c). Pub. L. 96–39 struck out the comma after “subsection (a) of this section”.
+<b>1979</b>—Subsec. (c). Pub. L. 96–39 struck out the comma after “subsection (a) of this section”.
 
 #### Effective Date of 1988 Amendment
 
@@ -96,7 +96,7 @@ Presidential Determinations and Extensions of Nondiscriminatory Treatment.—Not
 
 &emsp;“(1) determine that such title should no longer apply to Armenia; and
 
-&emsp;“(2) after making a determination under paragraph (1) with respect to Armenia, proclaim the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of that country.
+&emsp;“(2) after making a determination under paragraph (1) with respect to Armenia, proclaim the extensionof nondiscriminatory treatment (normal trade relations treatment) to the products of that country.
 
 “(c)
 
@@ -394,7 +394,7 @@ Pub. L. 102–363, Aug. 26, 1992, 106 Stat. 969, provided: “That the Congress 
 
 #### Extension of Nondiscriminatory Treatment to Products of Union of Soviet Socialist Republics
 
-Pub. L. 102–197, Dec. 9, 1991, 105 Stat. 1622, provided: “That the Congress approves the extension of nondiscriminatory treatment to the products of the Unionof Soviet Socialist Republics transmitted by the President to the Congress on October 9, 1991.”
+Pub. L. 102–197, Dec. 9, 1991, 105 Stat. 1622, provided: “That the Congress approves the extension of nondiscriminatory treatment to the products of the Union of Soviet Socialist Republics transmitted by the President to the Congress on October 9, 1991.”
 
 #### Extension of Nondiscriminatory Treatment to Products of Czechoslovakia and Hungary
 

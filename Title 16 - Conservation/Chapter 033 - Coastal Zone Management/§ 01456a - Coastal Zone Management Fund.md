@@ -40,7 +40,7 @@ Subsec. (b)(3) of this section, which required the Secretary to transmit to Cong
 
 #### Amendments
 
-1996—Subsec. (b)(2)(A). Pub. L. 104–150, §5(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Expenses incident to the administration of this chapter, in an amount not to exceed—
+<b>1996</b>—Subsec. (b)(2)(A). Pub. L. 104–150, §5(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Expenses incident to the administration of this chapter, in an amount not to exceed—
 
 &emsp;“(i) $5,000,000 for fiscal year 1991;
 
@@ -56,25 +56,25 @@ Subsec. (b)(2)(B)(iv) to (vi). Pub. L. 104–150, §2(b)(2), inserted “and” 
 
 Subsec. (b)(2)(B)(v). Pub. L. 104–150, §5(b), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “program development grants as authorized by section 1454 of this title; and”.
 
-1992—Pub. L. 102–587, §2205(b)(15), made technical amendment to Pub. L. 101–508. See 1990 Amendment note below.
+<b>1992</b>—Pub. L. 102–587, §2205(b)(15), made technical amendment to Pub. L. 101–508. See 1990 Amendment note below.
 
 Subsec. (a)(1). Pub. L. 102–587, §2205(b)(16), in first sentence, made technical amendment to reference to this chapter to reflect change in corresponding provision of original act.
 
 Pub. L. 102–587, §2205(b)(1)(A), substituted “coastal state” for “coastal State” in two places.
 
-Subsec. (b)(1). Pub. L. 102–587, §2205(b)(17), (18), struck out “(hereinafter in this section referred to as the ‘Fund’)” after “Management Fund’ ” and inserted “and fees deposited into the Fund under section 1456(i)(3) of this title” after “subsection (a) of this section”.
+Subsec. (b)(1). Pub. L. 102–587, §2205(b)(17), (18), struck out “(hereinafter in this section referred to as the‘Fund’)” after “Management Fund’ ” and inserted “and fees deposited into the Fund under section 1456(i)(3) of this title” after “subsection (a) of this section”.
 
 Subsec. (b)(2)(B)(vi). Pub. L. 102–587, §2205(b)(1)(B), substituted “coastal states” for “coastal States”.
 
-1990—Pub. L. 101–508, as amended by Pub. L. 102–587, §2205(b)(15), amended section generally, substituting present provisions for provisions authorizing a coastal energy impact program, providing for administration of program, audit, financial assistance, rules and regulations and guarantees, establishing eligibility requirements for assistance, creating a Coastal Energy Impact Fund, prohibiting interference in any land or water use decision of any coastal state, requiring reports to Congress, and providing for definitions for the section.
+<b>1990</b>—Pub. L. 101–508, as amended by Pub. L. 102–587, §2205(b)(15), amended section generally, substituting present provisions for provisions authorizing a coastal energy impact program, providing for administration of program, audit, financial assistance, rules and regulations and guarantees, establishing eligibility requirements for assistance, creating a Coastal Energy Impact Fund, prohibiting interference in any land or water use decision of any coastal state, requiring reports to Congress, and providing for definitions for the section.
 
-1986—Subsec. (h). Pub. L. 99–272 substituted “subsections (c)” for “subsections (c)(1)” wherever appearing.
+<b>1986</b>—Subsec. (h). Pub. L. 99–272 substituted “subsections (c)” for “subsections (c)(1)” wherever appearing.
 
-1980—Subsec. (c)(3). Pub. L. 96–464, §7(1), added par. (3).
+<b>1980</b>—Subsec. (c)(3). Pub. L. 96–464, §7(1), added par. (3).
 
 Subsec. (d)(4). Pub. L. 96–464, §7(2), struck out par. (4) which provided that the Secretary shall make grants to any coastal state to enable such state to prevent, reduce, or ameliorate any unavoidable loss in such state's coastal zone of any valuable environmental or recreational resource, if such loss results from coastal energy activity, if the Secretary finds that such state has not received amounts under subsec. (b) of this section which are sufficient to prevent, reduce, or ameliorate such loss.
 
-1978—Subsec. (a)(1)(A). Pub. L. 95–372, §501(b)(1), substituted “subsection (b)(5) of this section” for “subsection (b)(4) of this section”.
+<b>1978</b>—Subsec. (a)(1)(A). Pub. L. 95–372, §501(b)(1), substituted “subsection (b)(5) of this section” for “subsection (b)(4) of this section”.
 
 Subsec. (a)(1)(B). Pub. L. 95–372, §503(b)(1), substituted “subsection (c)(1) of this section” for “subsection (c) of this section”.
 

@@ -30,7 +30,7 @@ Annual Report.—Not later than June 30 of each year, the Secretary of Defense s
 
 &emsp;(1) An estimate of the percentage of functions (other than functions that are inherently governmental) that Department of Defense civilian employees will perform and an estimate of the percentage of such functions that contractors will perform during the fiscal year during which the report is submitted.
 
-&emsp;(2) The results of public-private competitions conducted under section 2461 of this title that were completed during the preceding fiscal year, including each of the following:
+&emsp;(2) The results of public-private competitions conducted under section 2461 of this titlethat were completed during the preceding fiscal year, including each of the following:
 
 &emsp;&emsp;(A) The number of such competitions completed during such fiscal year and the number of Department of Defense civilian employees performing functions for which such a competition was conducted.
 
@@ -56,5 +56,5 @@ Section is based on Pub. L. 99–661, div. A, title XII, §1223, Nov. 14, 1986, 
 
 #### Amendments
 
-2006—Pub. L. 109–163, amended section catchline and text generally. Prior to amendment, section required the Secretary of Defense to contract for certain supplies and services when cost was lower than cost at which Department of Defense could provide same.
+<b>2006</b>—Pub. L. 109–163, amended section catchline and text generally. Prior to amendment, section required the Secretary of Defense to contract for certain supplies and services when cost was lower than cost at which Department of Defense could provide same.
 

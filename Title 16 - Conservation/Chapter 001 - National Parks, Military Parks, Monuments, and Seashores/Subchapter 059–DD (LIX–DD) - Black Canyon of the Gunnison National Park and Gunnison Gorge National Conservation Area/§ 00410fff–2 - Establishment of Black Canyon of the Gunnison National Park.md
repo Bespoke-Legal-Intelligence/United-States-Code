@@ -46,13 +46,7 @@ Subject to valid existing rights, all Federal lands within the park <sup>1</sup
 
 Upon enactment of this subchapter, referred to in subsec. (b), was in the original “upon enactment of this title”, which was translated as reading “upon enactment of this act”, meaning upon enactment of Pub. L. 106–76, which was approved Oct. 21, 1999, to reflect the probable intent of Congress.
 
-The public land laws, referred to in subsec. (d), are classified generally to Title 43, Public Lands.
-
-The mining laws and the mineral leasing laws, referred to in subsec. (d), are classified generally to Title 30, Mineral Lands and Mining.
-
-Geothermal leasing laws, referred to in subsec. (d), are classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining.
-
-The Wilderness Act, referred to in subsec. (e)(2), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
+The Wilderness Act, referred to in subsec. (e)(2), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
 #### Codification
 
@@ -60,7 +54,7 @@ Section 4 of Pub. L. 108–128, which directed the amendment of section 4 of the
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–128, §2(a), designated existing provisions as par. (1) and added par. (2).
+<b>2003</b>—Subsec. (a). Pub. L. 108–128, §2(a), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (e)(1)(D). Pub. L. 108–128, §4(a), added subpar. (D). See Codification note above.
 

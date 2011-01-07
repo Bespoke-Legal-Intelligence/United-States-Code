@@ -6,5 +6,5 @@ The Secretary may cancel, adjust, compromise, or reduce the amount of any loan o
 
 #### Amendments
 
-1984—Pub. L. 98–449 struck out proviso at end of first sentence which provided that proceedings pursuant to this section would be effective only after following the procedure set out in section 386a of this title.
+<b>1984</b>—Pub. L. 98–449 struck out proviso at end of first sentence which provided that proceedings pursuant tothis section would be effective only after following the procedure set out in section 386a of this title.
 

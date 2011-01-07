@@ -2,7 +2,7 @@
 
 #### (a) Provider parity
 
-A wireless carrier, IP-enabled voice service provider, or other emergency communications provider, and their officers, directors, employees, vendors, and agents, shall have immunity or other protection from liability in a State of a scope and extent that is not less than the scope and extent of immunity or other protection from liability that any local exchange company, and its officers, directors, employees, vendors, or agents, have under Federal and State law (whether through statute, judicial decision, tariffs filed by such local exchange company, or otherwise) applicable in such State, including in connection with an act or omission involving the release to a PSAP, emergency medical service provider or emergency dispatch provider,public safety, fire service or law enforcement official, or hospital emergency or trauma care facility of subscriber information related to emergency calls, emergency services, or other emergency communications services.
+A wireless carrier, IP-enabled voice service provider, or other emergency communications provider, and their officers, directors, employees, vendors, and agents, shall have immunity or other protection from liability in a State of a scope and extent that is not less than the scope and extent of immunity or other protection from liability that any local exchange company, and its officers, directors, employees, vendors, or agents, have under Federal and State law (whether through statute, judicial decision, tariffs filed by such local exchange company, or otherwise) applicable in such State, including in connection with an act or omission involving the release to a PSAP, emergency medical service provider or emergency dispatch provider, public safety, fire service or law enforcement official, or hospital emergency or trauma care facility of subscriber information related to emergency calls, emergency services, or other emergency communications services.
 
 #### (b) User parity
 
@@ -10,7 +10,7 @@ A person using wireless 9–1–1 service, or making 9–1–1 communications vi
 
 #### (c) PSAP parity
 
-In matters related to 9–1–1 communications via wireless 9–1–1 service, IP-enabled voice service, or other emergency communications service, a PSAP, and its employees, vendors, agents, and authorizing government entity (if any) shall have immunity or other protection from liability of a scope and extent that is not less than the scope and extent of immunity or other protection from liability under applicable law accorded to such PSAP, employees, vendors, agents, and authorizing government entity, respectively, in matters related to 9–1–1 communications that are not via wireless 9–1–1 service, IP-enabled voice service, or other emergency communications service.
+In matters related to 9–1–1 communications via wireless 9–1–1 service, IP-enabled voice service, or other emergency communications service, a PSAP, and its employees, vendors, agents, and authorizing government entity (if any) shall have immunity or other protection from liability of a scope and extent that is not less than the scope and extent of immunity or other protection from liability under applicable law accorded to such PSAP, employees, vendors, agents, and authorizing government entity, respectively, in matters related to 9–1–1 communications that are not via wireless 9–1–1 service,IP-enabled voice service, or other emergency communications service.
 
 #### (d) Basis for enactment
 
@@ -24,7 +24,7 @@ Section was enacted as part of the Wireless Communications and Public Safety Act
 
 #### Amendments
 
-2008—Pub. L. 110–283, §201(a)(1), substituted “Service provider parity of protection” for “Parity of protection for provision or use of wireless service” in section catchline.
+<b>2008</b>—Pub. L. 110–283, §201(a)(1), substituted “Service provider parity of protection” for “Parity of protection for provision or use of wireless service” in section catchline.
 
 Subsec. (a). Pub. L. 110–283, §201(a)(2), substituted “wireless carrier, IP-enabled voice service provider, or other emergency communications provider, and their officers” for “wireless carrier, and its officers” and “emergency calls, emergency services, or other emergency communications services” for “emergency calls or emergency services”.
 

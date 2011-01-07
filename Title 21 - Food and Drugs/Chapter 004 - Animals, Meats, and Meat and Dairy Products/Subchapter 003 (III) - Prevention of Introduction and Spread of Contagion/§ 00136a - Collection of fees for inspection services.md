@@ -138,7 +138,7 @@ Section is comprised of section 2509 of Pub. L. 101–624. Subsec. (b) and anoth
 
 #### Amendments
 
-2002—Subsec. (c)(2). Pub. L. 107–171, §10418(b)(5)(A), added par. (2) relating to veterinary diagnostics.
+<b>2002</b>—Subsec. (c)(2). Pub. L. 107–171, §10418(b)(5)(A), added par. (2) relating to veterinary diagnostics.
 
 Subsec. (f)(1)(B) to (O). Pub. L. 107–171, §10418(b)(5)(B), added subpars. (B) to (D) and struck out former subpars. (B) to (O), which read as follows:
 
@@ -170,15 +170,15 @@ Subsec. (f)(1)(B) to (O). Pub. L. 107–171, §10418(b)(5)(B), added subpars. (B
 
 “(O) any other Act administered by the Secretary relating to plant or animal diseases or pests, other than the first section of Public Law 91–239 (21 U.S.C. 135).”
 
-1996—Subsec. (a). Pub. L. 104–127 added subsec. (a) and struck out heading and text of former subsec. (a) which consisted of pars. (1) to (4) relating to quarantine, inspection, and transportation fees.
+<b>1996</b>—Subsec. (a). Pub. L. 104–127 added subsec. (a) and struck out heading and text of former subsec. (a) which consisted of pars. (1) to (4) relating to quarantine, inspection, and transportation fees.
 
-1991—Subsec. (a)(1). Pub. L. 102–237, §1015(1), designated existing provisions as subpar. (A), realigned margin, added heading, and added subpars. (B) to (D).
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–237, §1015(1), designated existing provisions as subpar. (A), realigned margin, added heading, and added subpars. (B) to (D).
 
 Subsec. (a)(3)(B)(ii). Pub. L. 102–237, §1015(2), added cl. (ii) and struck out former cl. (ii) which read as follows: “The Secretary of Treasury shall use the Account to provide reimbursements to any appropriations accounts that incur the costs associated with the services authorized in paragraph (1). Any such reimbursement shall be subject to appropriations under clause (v).”
 
 Subsec. (a)(4). Pub. L. 102–237, §1015(3), substituted “Subject to the limits set forth in paragraph (1), the” for “The”.
 
-1990—Subsec. (a)(1). Pub. L. 101–508, §1203(1), substituted “an international passenger, commercial vessel, commercial aircraft, commercial truck, or railroad car.” for “a commercial vessel, commercial aircraft, commercial truck, or railroad car,”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–508, §1203(1), substituted “an international passenger, commercial vessel, commercial aircraft, commercial truck, or railroad car.” for “a commercial vessel, commercial aircraft, commercial truck, or railroad car,”.
 
 Subsec. (a)(3)(B)(ii). Pub. L. 101–508, §1203(2)(A), inserted at end “Any such reimbursement shall be subject to appropriations under clause (v).”
 
@@ -191,4 +191,10 @@ Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub.
 #### Report on Agricultural Quarantine Inspection Fund
 
 Pub. L. 104–66, title I, §1012(c), Dec. 21, 1995, 109 Stat. 712, provided that: “The Secretary of Agriculture shall not be required to submit a report to the appropriate committees of Congress on the status of the Agricultural Quarantine Inspection fund more frequently than annually.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Liens”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “makes”.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

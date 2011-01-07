@@ -20,7 +20,7 @@ This legislation, referred to in fourth paragraph, means Pub. L. 87–195, Sept.
 
 #### References to Subchapter II Deemed To Exclude Certain Parts of Subchapter II
 
-References to subchapter II of this chapter are deemed to exclude parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II, and references to subchapter I of this chapter are deemed to include such parts. See section 202(b) of Pub. L. 92–226,set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+References to subchapter II of this chapter are deemed to exclude parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II, and references to subchapter I of this chapter are deemed to include such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Prior Provisions
 
@@ -28,13 +28,13 @@ A prior section 501 of Pub. L. 87–195, provided that part II of Pub. L. 87–1
 
 #### Amendments
 
-1993—Pub. L. 103–199, §705(1)(A), in second par., substituted “hostile countries” for “international communism and the countries it controls”.
+<b>1993</b>—Pub. L. 103–199, §705(1)(A), in second par., substituted “hostile countries” for “international communism and the countries it controls”.
 
 Pub. L. 103–199, §705(1)(B), in fourth par., struck out “Communist or Communist-supported” after “if necessary, defeat”.
 
 Pub. L. 103–199, §705(1)(C), in fifth par., substituted “aggression or in which the internal security is threatened by internal subversion inspired or supported by hostile countries.” for “active Communist or Communist-supported aggression or those countries in which the internal security is threatened by Communist-inspired or Communist-supported internal subversion.”
 
-1967—Pub. L. 90–137 inserted par. to indicate that priority shall be given in the use of the funds available to defend against Communist aggression or Communist-inspired internal subversion.
+<b>1967</b>—Pub. L. 90–137 inserted par. to indicate that priority shall be given in the use of the funds available to defend against Communist aggression or Communist-inspired internal subversion.
 
 #### Transfer of Proscribed Weapons to Persons or Entities in the West Bank and Gaza
 

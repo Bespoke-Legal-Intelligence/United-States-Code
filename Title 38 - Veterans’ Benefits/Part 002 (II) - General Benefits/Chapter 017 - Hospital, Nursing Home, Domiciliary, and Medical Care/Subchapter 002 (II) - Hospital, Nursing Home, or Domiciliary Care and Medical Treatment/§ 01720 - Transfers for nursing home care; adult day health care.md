@@ -50,7 +50,7 @@
 
 (B) In entering into an agreement under subparagraph (A) with a provider of services described in clause (i) of that subparagraph or a provider described in clause (ii) of that subparagraph, the Secretary may use the procedures available for entering into provider agreements under section 1866(a) of the Social Security Act.
 
-(2) In applying the provisions of section 2(b)(1) of the Service Contract Act of 1965 (41 U.S.C. 351(b)(1)) with respect to any contract entered into under this section to provide nursing home care of veterans, the payment of wages not less than those specified in section 6(b) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(b)) shall be deemed to constitute compliance with such provisions.
+(2) In applying the provisions of section 6704(a) of title 41 with respect to any contract entered into under this section to provide nursing home care of veterans, the payment of wages not less than those specified in section 6(b) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(b)) shall be deemed to constitute compliance with such provisions.
 
 (d)(1) Subject to subsection (b) of this section, the Secretary may authorize for any veteran requiring nursing home care for a service-connected disability direct admission for such care at the expense of the United States to any non-Department nursing home. The Secretary may also authorize a direct admission to such a nursing home for nursing home care for any veteran who has been discharged from a hospital under the direct jurisdiction of the Secretary and who is currently receiving medical services as part of home health services from the Department.
 
@@ -74,11 +74,13 @@
 
 (2) The Secretary may conduct, at facilities over which the Secretary has direct jurisdiction, programs for the furnishing of adult day health care to veterans who are eligible for such care under paragraph (1) of this subsection, except that necessary travel and incidental expenses (or transportation in lieu thereof) may be furnished under such a program only under the terms and conditions set forth in section 111 of this title. The furnishing of care under any such program shall be subject to the limitations that are applicable to the duration of adult day health care furnished under paragraph (1) of this subsection.
 
-(Added Pub. L. 88–450, §2(a), Aug. 19, 1964, 78 Stat. 500, §620; amended Pub. L. 90–429, July 26, 1968, 82 Stat. 446; Pub. L. 90–612, §§1, 3, Oct. 21, 1968, 82 Stat. 1202; Pub. L. 91–101, Oct. 30, 1969, 83 Stat. 167; Pub. L. 93–82, title I, §104, Aug. 2, 1973, 87 Stat. 182; Pub. L. 94–581, title I, §106, title II, §§202(h), 210(a)(7), Oct. 21, 1976, 90 Stat. 2847, 2856, 2863; Pub. L. 97–295, §4(19), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 98–160, title I, §103(a)(1), (2), Nov. 21, 1983, 97 Stat. 995; Pub. L. 99–166, title I, §108(a)–(c), Dec. 3, 1985, 99 Stat. 946, 947; Pub. L. 99–272, title XIX, §19011(d)(5), Apr. 7, 1986, 100 Stat. 379; Pub. L. 100–322, title I, §§103(b), 111(a), May 20, 1988, 102 Stat. 493, 499; renumbered §1720 and amended Pub. L. 102–83, §§4(a)(2)(A)(ii), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(d)(8), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 105–114, title IV, §402(c), Nov. 21, 1997, 111 Stat. 2294; Pub. L. 106–117, title I, §101(d), Nov. 30, 1999, 113 Stat. 1549; Pub. L. 108–170, title I, §105, Dec. 6, 2003, 117 Stat. 2045.)
+(g) The Secretary may contract with appropriate entities to provide specialized residential care and rehabilitation services to a veteran of Operation Enduring Freedom or Operation Iraqi Freedom who the Secretary determines suffers from a traumatic brain injury, has an accumulation of deficits in activities of daily living and instrumental activities of daily living, and because of these deficits, would otherwise require admission to a nursing home even though such care would generally exceed the veteran's nursing needs.
+
+(Added Pub. L. 88–450, §2(a), Aug. 19, 1964, 78 Stat. 500, §620; amended Pub. L. 90–429, July 26, 1968, 82 Stat. 446; Pub. L. 90–612, §§1, 3, Oct. 21, 1968, 82 Stat. 1202; Pub. L. 91–101, Oct. 30, 1969, 83 Stat. 167; Pub. L. 93–82, title I, §104, Aug. 2, 1973, 87 Stat. 182; Pub. L. 94–581, title I, §106, title II, §§202(h), 210(a)(7), Oct. 21, 1976, 90 Stat. 2847, 2856, 2863; Pub. L. 97–295, §4(19), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 98–160, title I, §103(a)(1), (2), Nov. 21, 1983, 97 Stat. 995; Pub. L. 99–166, title I, §108(a)–(c), Dec. 3, 1985, 99 Stat. 946, 947; Pub. L. 99–272, title XIX, §19011(d)(5), Apr. 7, 1986, 100 Stat. 379; Pub. L. 100–322, title I, §§103(b), 111(a), May 20, 1988, 102 Stat. 493, 499; renumbered §1720 and amended Pub. L. 102–83, §§4(a)(2)(A)(ii), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(d)(8), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 105–114, title IV, §402(c), Nov. 21, 1997, 111 Stat. 2294; Pub. L. 106–117, title I, §101(d), Nov. 30, 1999, 113 Stat. 1549; Pub. L. 108–170, title I, §105, Dec. 6, 2003, 117 Stat. 2045; Pub. L. 111–163, title V, §507, May 5, 2010, 124 Stat. 1161; Pub. L. 111–350, §5(j)(1), Jan. 4, 2011, 124 Stat. 3850.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c)(1)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(1)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -86,25 +88,29 @@ Prior section 1720 was renumbered section 3520 of this title.
 
 #### Amendments
 
-2003—Subsec. (c). Pub. L. 108–170, §105(a), designated existing provisions as par. (2) and added par. (1).
+<b>2011</b>—Subsec. (c)(2). Pub. L. 111–350 substituted “section 6704(a) of title 41” for “section 2(b)(1) of the Service Contract Act of 1965 (41 U.S.C. 351(b)(1))”.
+
+<b>2010</b>—Subsec. (g). Pub. L. 111–163 added subsec. (g).
+
+<b>2003</b>—Subsec. (c). Pub. L. 108–170, §105(a), designated existing provisions as par. (2) and added par. (1).
 
 Subsec. (f)(1)(B). Pub. L. 108–170, §105(b), inserted “or agreement” after “contract” in two places.
 
-1999—Subsec. (f)(1)(A). Pub. L. 106–117 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The Secretary is authorized to furnish adult day health care as provided for in this subsection. For the purpose only of authorizing the furnishing of such care and specifying the terms and conditions under which it may be furnished to veterans needing such care—
+<b>1999</b>—Subsec. (f)(1)(A). Pub. L. 106–117 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The Secretary is authorized to furnish adult day health care as provided for in this subsection. For the purpose only of authorizing the furnishing of such care and specifying the terms and conditions under which it may be furnished to veterans needing such care—
 
 &emsp;“(i) references to ‘nursing home care’ in subsections (a) through (d) of this section shall be deemed to be references to ‘adult day health care’; and
 
 &emsp;“(ii) a veteran who is eligible for medical services under paragraph (1), (2), or (3) of section 1710(a) of this title shall be deemed to be a veteran described in subsection (a)(1) of this section.”
 
-1997—Subsec. (a)(1)(A)(i). Pub. L. 105–114 substituted “care” for “hospital care, nursing home care, or domiciliary care”.
+<b>1997</b>—Subsec. (a)(1)(A)(i). Pub. L. 105–114 substituted “care” for “hospital care, nursing home care, or domiciliary care”.
 
-1996—Subsec. (f)(1)(A)(ii). Pub. L. 104–262, §101(d)(8)(A), substituted “paragraph (1), (2), or (3) of section 1710(a)” for “section 1712(a)(1)(B)”.
+<b>1996</b>—Subsec. (f)(1)(A)(ii). Pub. L. 104–262, §101(d)(8)(A), substituted “paragraph (1), (2), or (3) of section 1710(a)” for “section 1712(a)(1)(B)”.
 
 Subsec. (f)(3). Pub. L. 104–262, §101(d)(8)(B), struck out par. (3) which read as follows: “Adult day health care may not be furnished under this section after September 30, 1991.”
 
-1992—Subsec. (a)(2)(B). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
+<b>1992</b>—Subsec. (a)(2)(B). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 620 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 620 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing in par. (1) introductory provisions and subpar. (A) and pars. (2) to (4).
 
@@ -138,13 +144,13 @@ Pub. L. 102–83, §4(a)(2)(A)(ii), substituted “Secretary” for “Veterans�
 
 Subsec. (f)(2). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-1988—Subsec. (e)(1). Pub. L. 100–322, §103(b), struck out “For the purposes of this section, the term ‘nursing home care’ includes intermediate care, as determined by the Administrator in accordance with regulations which the Administrator shall prescribe.” at beginning and struck out “(as defined in section 101(28) of this title)” after “provided for nursing home care”.
+<b>1988</b>—Subsec. (e)(1). Pub. L. 100–322, §103(b), struck out “For the purposes of this section, the term ‘nursing home care’ includes intermediate care, as determined by the Administrator in accordance with regulations which the Administrator shall prescribe.” at beginning and struck out “(as defined in section 101(28) of this title)” after “provided for nursing home care”.
 
 Subsec. (f)(3). Pub. L. 100–322, §111(a), substituted “September 30, 1991” for “September 30, 1988”.
 
-1986—Subsec. (f)(1)(A)(ii). Pub. L. 99–272 substituted “612(a)(1)(B)” for “612(f)(2)”.
+<b>1986</b>—Subsec. (f)(1)(A)(ii). Pub. L. 99–272 substituted “612(a)(1)(B)” for “612(f)(2)”.
 
-1985—Subsec. (a). Pub. L. 99–166, §108(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Subject to subsection (b) and except as provided in subsection (e) of this section, the Administrator may transfer—
+<b>1985</b>—Subsec. (a). Pub. L. 99–166, §108(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Subject to subsection (b) and except as provided in subsection (e) of this section, the Administrator may transfer—
 
 &emsp;“(1) Any veteran who has been furnished care by the Administrator in a hospital under the direct jurisdiction of the Administrator, and
 
@@ -162,29 +168,29 @@ Subsec. (d). Pub. L. 99–166, §108(b), designated existing first sentence as p
 
 Subsec. (e). Pub. L. 99–166, §108(c), designated existing provisions as par. (1), substituted “subsection (a)(2)(B)” for “subsection (a)(ii)” in second sentence, and added par. (2).
 
-1983—Pub. L. 98–160, §103(a)(2), inserted “; adult day health care” in section catchline.
+<b>1983</b>—Pub. L. 98–160, §103(a)(2), inserted “; adult day health care” in section catchline.
 
 Subsec. (f). Pub. L. 98–160, §103(a)(1), added subsec. (f).
 
-1982—Subsec. (a)(ii) Pub. L. 97–295, §4(19)(A), substituted “percent” for “per centum” wherever appearing.
+<b>1982</b>—Subsec. (a)(ii) Pub. L. 97–295, §4(19)(A), substituted “percent” for “per centum” wherever appearing.
 
 Subsec. (c). Pub. L. 97–295, §4(19)(B), inserted “(41 U.S.C. 351(b)(1))” after “the Service Contract Act of 1965” and substituted “(29 U.S.C. 206(b))” for “, as amended,”.
 
-1976—Subsec. (a). Pub. L. 94–581, §§106(1)–(3), 202(h), inserted “and except as provided in subsection (e)” after “subsection (b)” in provisions preceding par. (1), substituted “direct jurisdiction” for “direct and exclusive jurisdiction” in par. (1), substituted “45 per centum” for “40 per centum” and “annually” for “from time to time” in cl. (ii) and inserted “, or not to exceed 50 per centum of such cost where determined necessary by the Administrator, upon recommendation of the Chief Medical Director, to provide adequate care” at the end thereof, and substituted “direct jurisdiction” for “direct and exclusive jurisdiction” in provisions following cl. (ii).
+<b>1976</b>—Subsec. (a). Pub. L. 94–581, §§106(1)–(3), 202(h), inserted “and except as provided in subsection (e)” after“subsection (b)” in provisions preceding par. (1), substituted “direct jurisdiction” for “direct and exclusive jurisdiction” in par. (1), substituted “45 per centum” for “40 per centum” and “annually” for “from time to time” in cl. (ii) and inserted “, or not to exceed 50 per centum of such cost where determined necessary by the Administrator, upon recommendation of the Chief Medical Director, to provide adequate care” at the end thereof, and substituted “direct jurisdiction” for “direct and exclusive jurisdiction” in provisions following cl. (ii).
 
 Subsec. (b). Pub. L. 94–581, §210(a)(7), substituted “such standards as the Administrator may prescribe” for “such standards as he may prescribe”.
 
 Subsec. (e). Pub. L. 94–581, §106(4), added subsec. (e).
 
-1973—Subsec. (a). Pub. L. 93–82, §104(a), (b), designated cls. (1) and (2) as (i) and (ii), respectively, and in provisions preceding cl. (i) as so designated, substituted authority of the Administrator to transfer veterans and other persons under pars. (1) and (2), for authority of the Administrator to transfer veterans who have been furnished care by the Administrator in a hospital under the direct and exclusive jurisdiction of the Administrator, to any public or private institution not under the jurisdiction of the Administrator which furnishes nursing home care for care at the expense of the United States, and in the provisions following cl. (ii) as so designated, substituted designations (I) and (II) for designations (A) and (B).
+<b>1973</b>—Subsec. (a). Pub. L. 93–82, §104(a), (b), designated cls. (1) and (2) as (i) and (ii), respectively, and in provisions preceding cl. (i) as so designated, substituted authority of the Administrator to transfer veterans and other persons under pars. (1) and (2), for authority of the Administrator to transfer veterans who have been furnished care by the Administrator in a hospital under the direct and exclusive jurisdiction of the Administrator, to any public or private institution not under the jurisdiction of the Administrator which furnishes nursing home care for care at the expense of the United States, and in the provisions following cl. (ii) as so designated, substituted designations (I) and (II) for designations (A) and (B).
 
-Subsec. (b). Pub. L. 93–82, §104(c), inserted provisions relating to the admissions of veterans to institutionsfor nursing home care and for the furnishing of standards and reports to Federal, State and local agencies charged with the responsibility of licensing or otherwise regulating or inspecting such institutions.
+Subsec. (b). Pub. L. 93–82, §104(c), inserted provisions relating to the admissions of veterans to institutions for nursing home care and for the furnishing of standards and reports to Federal, State and local agencies charged with the responsibility of licensing or otherwise regulating or inspecting such institutions.
 
 Subsec. (d). Pub. L. 93–82, §104(d), added subsec. (d).
 
-1969—Subsec. (a). Pub. L. 91–101 inserted provision authorizing the furnishing of nursing home care for more than six months in the aggregate in connection with any one transfer in the case of a veteran whose hospitalization was primarily for a service-connected disability.
+<b>1969</b>—Subsec. (a). Pub. L. 91–101 inserted provision authorizing the furnishing of nursing home care for more than six months in the aggregate in connection with any one transfer in the case of a veteran whose hospitalization was primarily for a service-connected disability.
 
-1968—Subsec. (a). Pub. L. 90–612, §1, authorized furnishing of nursing home care to veterans who are being furnished care by the Administrator in hospitals in Alaska or Hawaii even if the hospitals involved are not under the direct and exclusive jurisdiction of the Administrator.
+<b>1968</b>—Subsec. (a). Pub. L. 90–612, §1, authorized furnishing of nursing home care to veterans who are being furnished care by the Administrator in hospitals in Alaska or Hawaii even if the hospitals involved are not under the direct and exclusive jurisdiction of the Administrator.
 
 Subsec. (a)(2). Pub. L. 90–429 substituted “40 per centum” for “one-third”.
 

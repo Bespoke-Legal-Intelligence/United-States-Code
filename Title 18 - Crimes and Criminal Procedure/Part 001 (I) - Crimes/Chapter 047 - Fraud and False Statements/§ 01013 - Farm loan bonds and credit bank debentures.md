@@ -18,9 +18,9 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322, §330016(1)(G), substituted “fined under this title” for “fined not more than $500”.
+<b>1994</b>—Pub. L. 103–322, §330016(1)(G), substituted “fined under this title” for “fined not more than $500”.
 
 Pub. L. 103–322, §330004(8), struck out “, or by any National Agricultural Credit Corporation” after “credit bank or banks”.
 
-1982—Pub. L. 97–297 struck out “, or by any joint-stock land bank or banks” after “issued by any Federal land bank or banks”.
+<b>1982</b>—Pub. L. 97–297 struck out “, or by any joint-stock land bank or banks” after “issued by any Federal land bank or banks”.
 

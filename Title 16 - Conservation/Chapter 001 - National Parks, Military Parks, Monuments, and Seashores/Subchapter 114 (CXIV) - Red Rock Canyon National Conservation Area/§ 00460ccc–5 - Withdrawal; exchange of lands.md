@@ -6,15 +6,7 @@
 
 (Pub. L. 101–621, §7, Nov. 16, 1990, 104 Stat. 3344; Pub. L. 103–450, §2(b), Nov. 2, 1994, 108 Stat. 4766.)
 
-#### References in Text
-
-The public land laws, referred to in subsec. (a), are classified generally to Title 43, Public Lands.
-
-The mining laws and the mineral leasing laws, referred to in subsec. (a), are classified generally to Title 30, Mineral Lands and Mining.
-
-Geothermal leasing laws, referred to in subsec. (a), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
-
 #### Amendments
 
-1994—Pub. L. 103–450 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1994</b>—Pub. L. 103–450 designated existing provisions as subsec. (a) and added subsec. (b).
 

@@ -34,7 +34,7 @@ Chairman and Officers.—The President shall designate the Chairman of the Natio
 
 (d)
 
-Personnel.—The National Capital Planning Commission may employ a Director, an executive officer, and other technical and administrative personnel as it considers necessary. Without regard to section 3709 of the Revised Statues (41 U.S.C. 5) and section 3109, chapters 33 and 51, and subchapter III of chapter 53, of title 5, the Commission may employ, by contract or otherwise, the temporary or intermittent (not more than one year) services of city planners, architects, engineers, appraisers, and other experts or organizations of experts, as may be necessary to carry out its functions. The Commission shall fix the rate of compensation so as not to exceed the rate usual for similar services.
+Personnel.—The National Capital Planning Commission may employ a Director, an executive officer, and other technical and administrative personnel as it considers necessary. Without regard to section 6101(b) to (d) of title 41 and section 3109, chapters 33 and 51, and subchapter III of chapter 53, of title 5, the Commission may employ, by contract or otherwise, the temporary or intermittent (not more than one year) services of city planners, architects, engineers, appraisers, and other experts or organizations of experts, as may be necessary to carry out its functions. The Commission shall fix the rate of compensation so as not to exceed the rate usual for similar services.
 
 (e)
 
@@ -56,7 +56,7 @@ Estimate.—The National Capital Planning Commission shall submit to the Office 
 
 Fees.—The National Capital Planning Commission may charge fees to cover the full cost of Geographic Information System products and services the Commission supplies. The fees shall be credited to the applicable appropriation account as an offsetting collection and remain available until expended.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1217; Pub. L. 109–284, §6(27), Sept. 27, 2006, 120 Stat. 1213.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1217; Pub. L. 109–284, §6(27), Sept. 27, 2006, 120 Stat. 1213; Pub. L. 111–350, §5(<i>l</i>)(23), Jan. 4, 2011, 124 Stat. 3852.)
 
 Historical and Revision Notes
 
@@ -110,7 +110,7 @@ In subsection (b)(1)(A), the words “the Chairman of the Committee on Governmen
 
 In subsection (b)(2), the words “bona fide” are omitted as unnecessary.
 
-In subsection (b)(3), the words “except that of the members first appointed, the President shall designate one to serve two years and one to serve four years” and “The members first appointed under this section shall assume their office on January 2, 1975” are omitted as obsolete.
+In subsection (b)(3), the words “except that of the members first appointed, the President shall designate one to serve two years and one to serve four years” and“The members first appointed under this section shall assume their office on January 2, 1975” are omitted as obsolete.
 
 In subsection (b)(4), the words “are entitled to $100 a day when performing duties” are substituted for “shall each receive compensation at the rate of $100 for each day such member is engaged in the actual performance of duties” to eliminate unnecessary words.
 
@@ -132,7 +132,9 @@ Act of June 6, 1924, referred to in subsec. (f), is act June 6, 1924, ch. 270, 4
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–284 inserted “of this title” after “sections 5101 and 5102”.
+<b>2011</b>—Subsec. (d). Pub. L. 111–350, which directed substitution of “section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes (41 U.S.C. 5)”, was executed by making the substitution for “section 3709 of the Revised Statues (41 U.S.C. 5)” to reflect the probable intent of Congress.
+
+<b>2006</b>—Subsec. (a). Pub. L. 109–284 inserted “of this title” after “sections 5101 and 5102”.
 
 #### Change of Name
 

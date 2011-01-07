@@ -26,11 +26,11 @@ In subsection (b), the words “is not” are substituted for “shall not be”
 
 #### Amendments
 
-1991—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 
-1982—Pub. L. 97–295 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1982</b>—Pub. L. 97–295 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1980—Pub. L. 96–513 struck out “(a)” before “The Secretary”.
+<b>1980</b>—Pub. L. 96–513 struck out “(a)” before “The Secretary”.
 
 #### Effective Date of 1980 Amendment
 

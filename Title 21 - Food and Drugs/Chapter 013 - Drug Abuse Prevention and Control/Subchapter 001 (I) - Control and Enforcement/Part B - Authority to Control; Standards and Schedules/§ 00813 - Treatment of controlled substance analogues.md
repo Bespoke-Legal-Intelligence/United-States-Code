@@ -10,5 +10,5 @@ Schedule I, referred to in text, is set out in section 812(c) of this title.
 
 #### Amendments
 
-1988—Pub. L. 100–690 substituted “any Federal law” for “this subchapter and subchapter II of this chapter”.
+<b>1988</b>—Pub. L. 100–690 substituted “any Federal law” for “this subchapter and subchapter II of this chapter”.
 

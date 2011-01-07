@@ -30,7 +30,7 @@ The eligible candidates of a political party shall be entitled to payments under
 
 #### (d) Expenditures from personal funds
 
-In order to be eligible to receive any payment under section 9006, the candidate of a major, minor, or new party in an election for the office of President shall certify to the Commission, under penalty of perjury, that such candidate will not knowingly make expenditures from his personal funds, or the personal funds of his immediate family, in connection with his campaign for election to the office of President inexcess of, in the aggregate, $50,000. For purposes of this subsection, expenditures from personal funds made by a candidate of a major, minor, or new party for the office of Vice President shall be considered to be expenditures by the candidate of such party for the office of President.
+In order to be eligible to receive any payment under section 9006, the candidate of a major, minor, or new party in an election for the office of President shall certify to the Commission, under penalty of perjury, that such candidate will not knowingly make expenditures from his personal funds, or the personal funds of his immediate family, in connection with his campaign for election to the office of President in excess of, in the aggregate, $50,000. For purposes of this subsection, expenditures from personal funds made by a candidate of a major, minor, or new party for the office of Vice President shall be considered to be expenditures by the candidate of such party for the office of President.
 
 #### (e) Definition of immediate family
 
@@ -44,13 +44,13 @@ Section 315(b)(1)(B) of the Federal Election Campaign Act of 1971, referred to i
 
 #### Amendments
 
-2007—Subsec. (a)(1). Pub. L. 110–172 substituted “section 315(b)(1)(B)” for “section 320(b)(1)(B)”.
+<b>2007</b>—Subsec. (a)(1). Pub. L. 110–172 substituted “section 315(b)(1)(B)” for “section 320(b)(1)(B)”.
 
-1976—Subsec. (a)(1). Pub. L. 94–283, §307(d), substituted “section 320(b)(1)(B) of the Federal Election Campaign Act of 1971” for “section 608(c)(1)(B) of title 18, United States Code”.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–283, §307(d), substituted “section 320(b)(1)(B) of the Federal Election Campaign Act of 1971” for “section 608(c)(1)(B) of title 18, United States Code”.
 
 Subsecs. (d), (e). Pub. L. 94–283, §301(a), added subsecs. (d) and (e).
 
-1974—Subsec. (a)(1). Pub. L. 93–443, §404(a), substituted provision which limited aggregate amount of payments to eligible candidates to an amount not exceeding the expenditure limitations applicable to such candidates under section 608(c)(1)(B) of title 18 for prior provision which determined the amount by multiplying 15 cents by the total number of residents within the United States who attained the age of 18, determined by the Bureau of the Census, as of the first day of June of the year preceding the year of the presidential election.
+<b>1974</b>—Subsec. (a)(1). Pub. L. 93–443, §404(a), substituted provision which limited aggregate amount of payments to eligible candidates to an amount not exceeding the expenditure limitations applicable to such candidates under section 608(c)(1)(B) of title 18 for prior provision which determined the amount by multiplying 15 cents by the total number of residents within the United States who attained the age of 18, determined by the Bureau of the Census, as of the first day of June of the year preceding the year of the presidential election.
 
 Subsec. (a)(2)(A). Pub. L. 93–443, §404(b)(1), substituted “allowed” for “computed”.
 

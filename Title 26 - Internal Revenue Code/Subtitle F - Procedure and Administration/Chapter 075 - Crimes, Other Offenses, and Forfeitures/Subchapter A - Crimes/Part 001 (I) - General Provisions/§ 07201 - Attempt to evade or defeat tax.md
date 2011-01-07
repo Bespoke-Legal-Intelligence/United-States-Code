@@ -6,7 +6,7 @@ Any person who willfully attempts in any manner to evade or defeat any tax impos
 
 #### Amendments
 
-1982—Pub. L. 97–248 substituted “$100,000 ($500,000 in the case of a corporation)” for “$10,000”.
+<b>1982</b>—Pub. L. 97–248 substituted “$100,000 ($500,000 in the case of a corporation)” for “$10,000”.
 
 #### Effective Date of 1982 Amendment
 

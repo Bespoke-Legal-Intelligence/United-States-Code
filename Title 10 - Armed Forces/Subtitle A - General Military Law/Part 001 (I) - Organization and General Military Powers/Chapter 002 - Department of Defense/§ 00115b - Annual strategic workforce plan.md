@@ -4,7 +4,7 @@
 
 Annual Plan Required.—(1) The Secretary of Defense shall submit to the congressional defense committees on an annual basis a strategic workforce plan to shape and improve the civilian employee workforce of the Department of Defense.
 
-(2) The Under Secretary of Defense for Personnel and Readiness shall have overall responsibility for developing and implementing the strategic workforce plan, in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+(2) The Under Secretary of Defense for Personnel and Readiness shall have overall responsibility for developing and implementing the strategic workforce plan, in consultation with theUnder Secretary of Defense for Acquisition, Technology, and Logistics.
 
 (b)
 
@@ -22,7 +22,7 @@ Contents.—Each strategic workforce plan under subsection (a) shall include, at
 
 &emsp;(2) A plan of action for developing and reshaping the civilian employee workforce of the Department to address the gaps in critical skills and competencies identified under paragraph (1)(D), including—
 
-&emsp;&emsp;(A) specific recruiting and retention goals, especially in areas identified as criticalskills and competencies under paragraph (1), including the program objectives of the Department to be achieved through such goals and the funding needed to achieve such goals;
+&emsp;&emsp;(A) specific recruiting and retention goals, especially in areas identified as critical skills and competencies under paragraph (1), including the program objectives of the Department to be achieved through such goals and the funding needed to achieve such goals;
 
 &emsp;&emsp;(B) specific strategies for developing, training, deploying, compensating, and motivating the civilian employee workforce of the Department, including the program objectives of the Department to be achieved through such strategies and the funding needed to implement such strategies;
 

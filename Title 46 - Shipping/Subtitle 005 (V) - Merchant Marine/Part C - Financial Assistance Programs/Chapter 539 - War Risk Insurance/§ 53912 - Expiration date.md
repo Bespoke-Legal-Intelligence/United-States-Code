@@ -22,5 +22,5 @@ June 29, 1936, ch. 858, title XII, §1214, as added Sept. 7, 1950, ch. 906, 64 S
 
 #### Amendments
 
-2008—Pub. L. 110–417 substituted “December 31, 2015.” for “December 31, 2010.”
+<b>2008</b>—Pub. L. 110–417 substituted “December 31, 2015.” for “December 31, 2010.”
 

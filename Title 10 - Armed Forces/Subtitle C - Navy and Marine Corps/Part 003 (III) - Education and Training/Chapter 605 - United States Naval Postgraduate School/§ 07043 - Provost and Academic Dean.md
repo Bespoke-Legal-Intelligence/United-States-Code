@@ -4,7 +4,7 @@
 
 (b) The Provost and Academic Dean is entitled to such compensation for his services as the Secretary prescribes, but not more than the rate of compensation authorized for level IV of the Executive Schedule.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 437; Pub. L. 85–861, §1(148), Sept. 2, 1958, 72 Stat. 1513; Pub. L. 89–536, Aug. 11, 1966, 80 Stat. 346; Pub. L. 96–513, title V, §513(22), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 105–85, div. A, title V, §551(c), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 108–375, div. A, title V, §557(b)(3), (4), Oct. 28, 2004, 118 Stat. 1915, 1916.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 437; Pub. L. 85–861, §1(148), Sept. 2, 1958, 72 Stat. 1513; Pub. L. 89–536, Aug. 11, 1966, 80 Stat. 346; Pub. L. 96–513, title V, §513(22), Dec. 12, 1980, 94 Stat. 2932; Pub.L. 105–85, div. A, title V, §551(c), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 108–375, div. A, title V, §557(b)(3), (4), Oct. 28, 2004, 118 Stat. 1915, 1916.)
 
 Historical and Revision Notes<br>1956
 
@@ -52,19 +52,19 @@ Level IV of the Executive Schedule, referred to in subsec. (b), is set out in se
 
 #### Amendments
 
-2004—Pub. L. 108–375, §557(b)(3)(B), substituted “Provost and Academic Dean” for “Academic Dean” in section catchline.
+<b>2004</b>—Pub. L. 108–375, §557(b)(3)(B), substituted “Provost and Academic Dean” for “Academic Dean” in section catchline.
 
 Subsec. (a). Pub. L. 108–375, §557(b)(3)(A), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There is at the Naval Postgraduate School the civilian position of Academic Dean. The Academic Dean shall be appointed, to serve for periods of not more than five years, by the Secretary of the Navy upon the recommendation of the Postgraduate School Council consisting of the Superintendent, the Deputy Superintendent, and the directors of the Technical, Administrative, and Professional Divisions of the school.”
 
 Subsec. (b). Pub. L. 108–375, §557(b)(4), substituted “Provost and Academic Dean” for “Academic Dean”.
 
-1997—Subsec. (b). Pub. L. 105–85 substituted “level IV of the Executive Schedule” for “grade GS–18 of the General Schedule under section 5332 of title 5”.
+<b>1997</b>—Subsec. (b). Pub. L. 105–85 substituted “level IV of the Executive Schedule” for “grade GS–18 of the General Schedule under section 5332 of title 5”.
 
-1980—Subsec. (b). Pub. L. 96–513 substituted “authorized for grade GS–18 of the General Schedule under section 5332 of title 5” for “provided for grade 18 of the general schedule of the Classification Act of 1949, as amended”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–513 substituted “authorized for grade GS–18 of the General Schedule under section 5332 of title 5” for “provided for grade 18 of the general schedule of the Classification Act of 1949, as amended”.
 
-1966—Subsec. (b). Pub. L. 89–536 substituted for a limit of $13,500 per annum a rate of compensation comparable to grade 18 of the general schedule of the Classification Act of 1949, as amended.
+<b>1966</b>—Subsec. (b). Pub. L. 89–536 substituted for a limit of $13,500 per annum a rate of compensation comparable to grade 18 of the general schedule of the Classification Act of 1949, as amended.
 
-1958—Pub. L. 85–861, among other changes, increased the maximum compensation of the Academic Dean from $12,000 to $13,500 a year.
+<b>1958</b>—Pub. L. 85–861, among other changes, increased the maximum compensation of the Academic Dean from $12,000 to $13,500 a year.
 
 #### Change of Name
 
@@ -72,7 +72,7 @@ Pub. L. 108–375, div. A, title V, §557(b)(1), (2), Oct. 28, 2004, 118 Stat. 1
 
 “(1) The position of Academic Dean of the Naval Postgraduate School is redesignated as Provost and Academic Dean of the Naval Postgraduate School.
 
-“(2) Any reference to the Academic Dean of the Naval Postgraduate School in any law, rule, regulation, document, record, or other paper of the United States shallbe deemed to be a reference to the Provost and Academic Dean of the Naval Postgraduate School.”
+“(2) Any reference to the Academic Dean of the Naval Postgraduate School in any law, rule, regulation, document, record, or other paper of the United States shall be deemed to be a reference to the Provost and Academic Dean of the Naval Postgraduate School.”
 
 #### Effective Date of 1980 Amendment
 

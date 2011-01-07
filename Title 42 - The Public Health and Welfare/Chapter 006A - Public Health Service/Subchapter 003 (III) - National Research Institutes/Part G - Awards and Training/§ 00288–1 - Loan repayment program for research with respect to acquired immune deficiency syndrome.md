@@ -12,13 +12,13 @@ With respect to the National Health Service Corps Loan Repayment Program establi
 
 #### Amendments
 
-2007—Subsec. (c). Pub. L. 109–482 struck out heading and text of subsec. (c). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1994 through 2001.”
+<b>2007</b>—Subsec. (c). Pub. L. 109–482 struck out heading and text of subsec. (c). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1994 through 2001.”
 
-1998—Subsec. (a). Pub. L. 105–392, §410(a)(1), substituted “$35,000” for “$20,000”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–392, §410(a)(1), substituted “$35,000” for “$20,000”.
 
 Subsec. (c). Pub. L. 105–392, §410(a)(2), substituted “2001” for “1996”.
 
-1993—Pub. L. 103–43 amended section generally, in subsec. (a) redesignating former par. (1) as entire subsec., striking out provisions setting a deadline for implementation of the program and former par. (2) containing a limitation that the health professional have a substantial amount of educational loans relative to income and not have been employed at the National Institutes of Health during the 1-year period preceding Nov. 4, 1988, reenacting subsec. (b) without change, and in subsec. (c) redesignating former par. (1) as entire subsec., substituting authorization of appropriations for fiscal years 1994 through 1996 for authorization of appropriations for fiscal years 1989 through 1991, and striking out former par. (2) relating to continued availability of appropriated amounts.
+<b>1993</b>—Pub. L. 103–43 amended section generally, in subsec. (a) redesignating former par. (1) as entire subsec., striking out provisions setting a deadline for implementation of the program and former par. (2) containing a limitation that the health professional have a substantial amount of educational loans relative to income and not have been employed at the National Institutes of Health during the 1-year period preceding Nov. 4, 1988, reenacting subsec. (b) without change, and in subsec. (c) redesignating former par. (1) as entire subsec., substituting authorization of appropriations for fiscal years 1994 through 1996 for authorization of appropriations for fiscal years 1989 through 1991, and striking out former par. (2) relating to continued availability of appropriated amounts.
 
 #### Effective Date of 2007 Amendment
 

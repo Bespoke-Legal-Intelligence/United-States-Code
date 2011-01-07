@@ -22,7 +22,7 @@ Annual Certification.—(1) A State authority's annual certification must includ
 
 &emsp;&emsp;(ii) each accident or incident reported during the prior 12 months by a railroad carrier involving a fatality, personal injury requiring hospitalization, or property damage of more than $750 (or a higher amount prescribed by the Secretary concerned), and a summary of the authority's investigation of the cause and circumstances surrounding the accident or incident;
 
-&emsp;&emsp;(iii) the record maintenance, reporting, and inspection practices conducted by the authority to aid the Secretary concerned in enforcing railroad safety regulations prescribed and orders issued by the Secretary concerned, including the number of inspections made of railroad equipment, facilities, rolling stock, and operations by the authority during the prior 12 months; and
+&emsp;&emsp;(iii) the record maintenance, reporting, and inspection practices conducted by theauthority to aid the Secretary concerned in enforcing railroad safety regulations prescribed and orders issued by the Secretary concerned, including the number of inspections made of railroad equipment, facilities, rolling stock, and operations by the authority during the prior 12 months; and
 
 &emsp;&emsp;(iv) other information the Secretary concerned requires.
 
@@ -46,7 +46,7 @@ Payment.—On application by a State authority that has submitted a certificatio
 
 (f)
 
-Monitoring.—The Secretary concerned may monitor State investigative and surveillance practices and carry out other inspections and investigations necessary to help enforce thischapter (in the case of the Secretary of Transportation) and duties under section 114 of this title (in the case of the Secretary of Homeland Security).
+Monitoring.—The Secretary concerned may monitor State investigative and surveillance practices and carry out other inspections and investigations necessary to help enforce this chapter (in the case of the Secretary of Transportation) and duties under section 114 of this title (in the case of the Secretary of Homeland Security).
 
 (g)
 
@@ -132,7 +132,7 @@ In subsection (e), the words “out of funds appropriated pursuant to this subch
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–296, §1710(a)(2), substituted “the Secretary concerned” for “the Secretary” in second sentence.
+<b>2002</b>—Subsec. (a). Pub. L. 107–296, §1710(a)(2), substituted “the Secretary concerned” for “the Secretary” in second sentence.
 
 Pub. L. 107–296, §1710(a)(1), substituted “The Secretary concerned” for “The Secretary of Transportation” in first sentence.
 

@@ -74,7 +74,7 @@ Congress finds the following:
 
 &emsp;(B) More minority children continue to be served in special education than would be expected from the percentage of minority students in the general school population.
 
-&emsp;(C) African-American children are identified as having mental retardation and emotional disturbance at rates greater than their White counterparts.
+&emsp;(C) African-American children are identified as having intellectual disabilities and emotional disturbance at rates greater than their White counterparts.
 
 &emsp;(D) In the 1998–1999 school year, African-American children represented just 14.8 percent of the population aged 6 through 21, but comprised 20.2 percent of all children with disabilities.
 
@@ -102,13 +102,13 @@ The purposes of this chapter are—
 
 &emsp;(4) to assess, and ensure the effectiveness of, efforts to educate children with disabilities.
 
-(Pub. L. 91–230, title VI, §601, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2647.)
+(Pub. L. 91–230, title VI, §601, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2647; amended Pub. L. 111–256, §2(b)(1), Oct. 5, 2010, 124 Stat. 2643.)
 
 #### References in Text
 
-The Education for All Handicapped Children Act of 1975, referred to in subsec. (c)(2), (3), is Pub. L. 94–142, Nov. 29, 1975, 89 Stat. 773, as amended. For complete classification of this Act to the Code, see Short Title of 1975 Amendment note set out below and Tables.
+The Education for All Handicapped Children Act of 1975, referred to in subsec. (c)(2), (3), is Pub. L. 94–142, Nov. 29, 1975, 89 Stat. 773. For complete classification of this Act to the Code, see Short Title of 1975 Amendment note set out below and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(5)(C), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(5)(C), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Codification
 
@@ -119,6 +119,10 @@ Section is comprised of section 601 of Pub. L. 91–230. Subsec. (b) of section 
 A prior section 1400, Pub. L. 91–230, title VI, §601, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37, contained short title for this chapter and related to congressional findings and purposes, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1400, Pub. L. 91–230, title VI, §601, Apr. 13, 1970, 84 Stat. 175; Pub. L. 94–142, §3, Nov. 29, 1975, 89 Stat. 774; Pub. L. 101–476, title IX, §901(a)(1), (b)(1)–(9), Oct. 30, 1990, 104 Stat. 1141, 1142; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, contained short title for this chapter and related to congressional statements and declarations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17. This section had been classified as a note under former section 1401 of this title prior to being amended by Pub. L. 94–142.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (c)(12)(C). Pub. L. 111–256 substituted “having intellectual disabilities” for “having mental retardation”.
 
 #### Effective Date
 
@@ -145,6 +149,10 @@ Subparts 2, 3,
 and 4
 
 of part D.—Subparts 2, 3, and 4 of part D of the Individuals with Disabilities Education Act \[parts B, C, and D of subchapter IV of this chapter\], as amended by title I, shall take effect on the date of enactment of this Act \[Dec. 3, 2004\].”
+
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–256, §1, Oct. 5, 2010, 124 Stat. 2643, provided that: “This Act \[amending this section, sections 1140, 1401, and 7512 of this title, sections 705, 764, and 791 of Title 29, Labor, and sections 217a–1, 247b–4, 285g, 285g–2, 291k, 294c, and 300d–52 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section, and amending provisions set out as notes under sections 280f, 285g, 300b–1, and 2000ff of Title 42\] may be cited as ‘Rosa's Law’.”
 
 #### Short Title of 2004 Amendment
 
@@ -188,6 +196,30 @@ Pub. L. 94–142, §1, Nov. 29, 1975, 89 Stat. 773, provided: “That this Act \
 
 Pub. L. 93–380, title VI, §611, Aug. 21, 1974, 88 Stat. 579, provided that: “This title \[enacting section 1424a of this title, amending sections 1402, 1403, 1411 to 1413, 1426, 1436, 1444, 1452, 1454, and 1461 of this title, and enacting provisions set out as notes under sections 1402 and 1411 to 1413 of this title\] may be cited as the ‘Education of the Handicapped Amendments of 1974’.”
 
+#### Regulations
+
+Pub. L. 111–256, §3, Oct. 5, 2010, 124 Stat. 2645, provided that: “For purposes of regulations issued to carry out a provision amended by this Act \[see Short Title of 2010 Amendment note above\]—
+
+&emsp;“(1) before the regulations are amended to carry out this Act—
+
+&emsp;&emsp;“(A) a reference in the regulations to mental retardation shall be considered to be a reference to an intellectual disability; and
+
+&emsp;&emsp;“(B) a reference in the regulations to the mentally retarded, or individuals who are mentally retarded, shall be considered to be a reference to individuals with intellectual disabilities; and
+
+&emsp;“(2) in amending the regulations to carry out this Act, a Federal agency shall ensure that the regulations clearly state—
+
+&emsp;&emsp;“(A) that an intellectual disability was formerly termed mental retardation; and
+
+&emsp;&emsp;“(B) that individuals with intellectual disabilities were formerly termed individuals who are mentally retarded.”
+
+#### Construction of 2010 Amendment
+
+Pub. L. 111–256, §4, Oct. 5, 2010, 124 Stat. 2645, provided that: “This Act \[see Short Title of 2010 Amendment note above\] shall be construed to make amendments to provisions of Federal law to substitute the term ‘an intellectual disability’ for ‘mental retardation’, and ‘individuals with intellectual disabilities’ for ‘the mentally retarded’ or ‘individuals who are mentally retarded’, without any intent to—
+
+&emsp;“(1) change the coverage, eligibility, rights, responsibilities, or definitions referred to in the amended provisions; or
+
+&emsp;“(2) compel States to change terminology in State laws for individuals covered by a provision amended by this Act.”
+
 #### Transition
 
 Pub. L. 108–446, title III, §303, Dec. 3, 2004, 118 Stat. 2803, provided that:
@@ -219,4 +251,12 @@ Institute of Education Sciences’ in accordance with sections 672 and 674 of th
 #### References to Education of the Handicapped Act
 
 Pub. L. 101–476, title IX, §901(a)(3), Oct. 30, 1990, 104 Stat. 1142, provided that: “Any other Act and any regulation which refers to the Education of the Handicapped Act shall be considered to refer to the Individuals with Disabilities Education Act.”
+
+#### Definitions
+
+Pub. L. 111–256, §2(k), Oct. 5, 2010, 124 Stat. 2644, provided that: “For purposes of each provision amended by this section \[amending this section, sections 1140, 1401, and 7512 of this title, sections 705, 764, and 791 of Title 29, Labor, and sections 217a–1, 247b–4, 285g, 285g–2, 291k, 294c, and 300d–52 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under sections 280f, 285g, 300b–1, and 2000ff of Title 42\]—
+
+&emsp;“(1) a reference to ‘an intellectual disability’ shall mean a condition previously referred to as ‘mental retardation’, or a variation of this term, and shall have the same meaning with respect to programs, or qualifications for programs, for individuals with such a condition; and
+
+&emsp;“(2) a reference to individuals with intellectual disabilities shall mean individuals who were previously referred to as individuals who are ‘individuals with mental retardation’ or ‘the mentally retarded’, or variations of those terms.”
 

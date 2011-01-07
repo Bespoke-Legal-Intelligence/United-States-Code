@@ -6,5 +6,5 @@ The Secretary of the Interior may do all things and make all expenditures necess
 
 #### Transfer of Functions
 
-Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939,see Transfer of Functions note set out under section 671 of this title.
+Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 671 of this title.
 

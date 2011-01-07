@@ -24,7 +24,7 @@ The State of Oregon shall exercise criminal and civil jurisdiction over the rese
 
 #### Amendments
 
-1998—Subsec. (b)(4). Pub. L. 105–256 added par. (4).
+<b>1998</b>—Subsec. (b)(4). Pub. L. 105–256 added par. (4).
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

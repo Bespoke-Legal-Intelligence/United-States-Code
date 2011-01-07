@@ -1,11 +1,5 @@
 ### SUBCHAPTER I—ANTI-DOPING AGENCY
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
-
-<i><sup>2</sup></i><i> So in original. Section 5703 of title 5 does not contain a subsec. (b).</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “Commission”.</i>
-
 
 ---
 

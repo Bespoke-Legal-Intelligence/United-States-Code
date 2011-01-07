@@ -10,7 +10,7 @@
 
 &emsp;(B) certify that funds shall be made available for grants to programs which serve previously underserved populations of victims of violent crime. The Director, after consultation with State and local officials and representatives from private organizations, shall issue guidelines to implement this section that provide flexibility to the States in determining the populations of victims of violent crimes that may be underserved in their respective States;
 
-&emsp;(C) certify that funds awarded to eligible crime victim assistance programs will not be used to supplant State and local funds otherwise available for crime victim assistance; and
+&emsp;(C) certify that funds awarded to eligible crime victim assistance programs will not beused to supplant State and local funds otherwise available for crime victim assistance; and
 
 &emsp;(D) provide such other information and assurances related to the purposes of this section as the Director may reasonably require.
 
@@ -94,7 +94,7 @@
 
 As used in this section—
 
-&emsp;(1) the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, and any other territory or possession of the United States; and
+&emsp;(1) the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, and anyother territory or possession of the United States; and
 
 &emsp;(2) the term “services to victims of crime” includes—
 
@@ -126,15 +126,15 @@ As used in this section—
 
 #### References in Text
 
-Section 10601(d)(2) of this title, referred to in subsec. (a)(1), was repealed and a new section 10601(d)(2) was added by Pub. L. 103–322, title XXIII, §230201(a)(1), Sept. 13, 1994, 108 Stat. 2079. The new section 10601(d)(2) doesnot contain provisions relating to availability of Fund money for grants under this section or section 10602 of this title. See section 10601(d)(4) of this title.
+Section 10601(d)(2) of this title, referred to in subsec. (a)(1), was repealed and a new section 10601(d)(2) was added by Pub. L. 103–322, title XXIII, §230201(a)(1), Sept. 13, 1994, 108 Stat. 2079. The new section 10601(d)(2) does not contain provisions relating to availability of Fund money for grants under this section or section 10602 of this title. See section 10601(d)(4) of this title.
 
 This title, referred to in subsec. (c)(3)(D), means title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 1976, known as the Comprehensive Crime Control Act of 1984. For complete classification of title II to the Code, see Short Title of 1984 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
 
 #### Amendments
 
-2009—Subsec. (c)(3)(E)(i). Pub. L. 111–8 inserted “and for grants under subparagraphs (1)(A) and (B), pursuant to rules or guidelines that generally establish a publicly-announced, competitive process” after “internships”.
+<b>2009</b>—Subsec. (c)(3)(E)(i). Pub. L. 111–8 inserted “and for grants under subparagraphs (1)(A) and (B), pursuant to rules or guidelines that generally establish a publicly-announced, competitive process” after “internships”.
 
-2006—Subsec. (b)(3). Pub. L. 109–162, §1133(b), inserted “training purposes and” after “may be used for”.
+<b>2006</b>—Subsec. (b)(3). Pub. L. 109–162, §1133(b), inserted “training purposes and” after “may be used for”.
 
 Subsec. (c)(1). Pub. L. 109–162, §1131(1)(A), struck out comma after “Director” in introductory provisions.
 
@@ -144,7 +144,7 @@ Subsec. (c)(2)(A). Pub. L. 109–162, §1131(2)(A)(i), substituted “paragraphs
 
 Subsec. (c)(2)(C). Pub. L. 109–162, §1131(2)(A)(ii)–(2)(C), added subpar. (C).
 
-2001—Subsec. (a)(6). Pub. L. 107–56, §623(a), added par. (6).
+<b>2001</b>—Subsec. (a)(6). Pub. L. 107–56, §623(a), added par. (6).
 
 Subsec. (b)(1)(F). Pub. L. 107–56, §623(b), added subpar. (F).
 
@@ -156,13 +156,13 @@ Subsec. (c)(2)(B). Pub. L. 107–56, §623(d)(2), substituted “not more than 5
 
 Subsec. (c)(3)(E). Pub. L. 107–56, §623(e), added subpar. (E).
 
-1996—Subsec. (a)(5). Pub. L. 104–132 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “As used in this subsection, the term ‘base amount’ means—
+<b>1996</b>—Subsec. (a)(5). Pub. L. 104–132 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “As used in this subsection, the term ‘base amount’ means—
 
 &emsp;“(A) $150,000 for fiscal years 1989 through 1991; and
 
 &emsp;“(B) $200,000 thereafter.”
 
-1994—Subsec. (a)(5)(B). Pub. L. 103–322, §230208, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “$200,000 thereafter through fiscal year 1995.”
+<b>1994</b>—Subsec. (a)(5)(B). Pub. L. 103–322, §230208, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “$200,000 thereafter through fiscal year 1995.”
 
 Pub. L. 103–317 substituted “1995” for “1994”.
 
@@ -172,7 +172,7 @@ Subsec. (b)(3). Pub. L. 103–322, §230205(b), added par. (3).
 
 Subsec. (c)(1)(A). Pub. L. 103–322, §230204, inserted “demonstration projects and” before “training”.
 
-1988—Subsec. (a)(1). Pub. L. 100–690, §7123(b)(4), substituted “Director” for “Attorney General”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–690, §7123(b)(4), substituted “Director” for “Attorney General”.
 
 Subsec. (a)(2)(B). Pub. L. 100–690, §7122(1), added subpar. (B). Former subpar. (B) redesignated (C).
 
@@ -194,7 +194,7 @@ Subsec. (d)(1). Pub. L. 100–690, §9306(a), struck out “, except for the pu
 
 Pub. L. 100–690, §7127, inserted reference to the United States Virgin Islands.
 
-1986—Subsec. (a)(1). Pub. L. 99–401, §102(b)(5), substituted “made available by section 10601(d)(2) of this title for the purpose of grants under this subsection, or for the purpose of grants under section 10602 of this title but not used for that purpose” for “not used for grants under section 10602 of this title with respect to a particular fiscal year, and after any deduction under subsection (c) of this section”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–401, §102(b)(5), substituted “made available by section 10601(d)(2) of this title for the purpose of grants under this subsection, or for the purpose of grants under section 10602 of this title but not used for that purpose” for “not used for grants under section 10602 of this title with respect to a particular fiscal year, and after any deduction under subsection (c) of this section”.
 
 Subsec. (c)(1), (2). Pub. L. 99–401, §102(b)(4), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 

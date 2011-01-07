@@ -6,7 +6,7 @@ It shall be the province and duty of the Bureau of Foreign and Domestic Commerce
 
 #### Amendments
 
-1946—Act Aug. 13, 1946, repealed last sentence relating to duties of consular officers with respect to the Bureau.
+<b>1946</b>—Act Aug. 13, 1946, repealed last sentence relating to duties of consular officers with respect to the Bureau.
 
 #### Change of Name
 

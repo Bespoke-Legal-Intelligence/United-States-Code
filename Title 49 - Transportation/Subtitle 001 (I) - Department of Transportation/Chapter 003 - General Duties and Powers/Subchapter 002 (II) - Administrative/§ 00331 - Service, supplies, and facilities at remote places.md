@@ -60,5 +60,5 @@ Section 4(j)(8) amends 49:331(b) to follow more closely the language in former 4
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–272 substituted “medical treatment provided under subsection (a)(1) of this section and for supplies and services provided under subsection (a)(2) and (3) of this section” for “services, supplies, and facilities provided under subsection (a)(1), (2), and (3) of this section”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–272 substituted “medical treatment provided under subsection (a)(1) of this section and for supplies and services provided under subsection (a)(2) and (3) of this section” for “services, supplies, and facilities provided under subsection (a)(1), (2), and (3) of this section”.
 

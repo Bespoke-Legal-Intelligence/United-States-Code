@@ -68,7 +68,7 @@ Any State agency that desires to receive funds to carry out a program under this
 
 &emsp;(8) describes how the programs will be coordinated with other appropriate State and Federal programs, such as programs under title I of Public Law 105–220 \[29 U.S.C. 2801 et seq.\], vocational and technical education programs, State and local dropout prevention programs, and special education programs;
 
-&emsp;(9) describes how the State agency will encourage correctional facilities receiving funds under this subpart to coordinate with localeducational agencies or alternative education programs attended by incarcerated children and youth prior to their incarceration to ensure that student assessments and appropriate academic records are shared jointly between the correctional facility and the local educational agency or alternative education program;
+&emsp;(9) describes how the State agency will encourage correctional facilities receiving funds under this subpart to coordinate with local educational agencies or alternative education programs attended by incarcerated children and youth prior to their incarceration to ensure that student assessments and appropriate academic records are shared jointly between the correctional facility and the local educational agency or alternative education program;
 
 &emsp;(10) describes how appropriate professional development will be provided to teachers and other staff;
 
@@ -92,7 +92,7 @@ Any State agency that desires to receive funds to carry out a program under this
 
 &emsp;(18) describes any additional services to be provided to children and youth, such as career counseling, distance learning, and assistance in securing student loans and grants; and
 
-&emsp;(19) provides an assurance that the program under this subpart will be coordinated with any programs operated under the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5601 et seq.) or other comparable programs, if applicable.
+&emsp;(19) provides an assurance that the program under this subpart will be coordinated with any programs operated under the JuvenileJustice and Delinquency Prevention Act of 1974 (42 U.S.C. 5601 et seq.) or other comparable programs, if applicable.
 
 (Pub. L. 89–10, title I, §1414, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1582.)
 

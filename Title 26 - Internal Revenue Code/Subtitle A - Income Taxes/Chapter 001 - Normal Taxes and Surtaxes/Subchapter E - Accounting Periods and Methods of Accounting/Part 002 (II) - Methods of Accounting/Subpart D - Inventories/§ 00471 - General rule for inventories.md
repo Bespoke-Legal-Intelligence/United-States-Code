@@ -20,11 +20,11 @@ A method of determining inventories shall not be treated as failing to clearly r
 
 #### Amendments
 
-1997—Subsecs. (b), (c). Pub. L. 105–34 added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>1997</b>—Subsecs. (b), (c). Pub. L. 105–34 added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1986—Pub. L. 99–514 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1986</b>—Pub. L. 99–514 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date of 1997 Amendment
 

@@ -54,7 +54,7 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par
 
 #### Amendments
 
-1998—Par. (6). Pub. L. 105–384 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+<b>1998</b>—Par. (6). Pub. L. 105–384 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Articles”.</i>
 

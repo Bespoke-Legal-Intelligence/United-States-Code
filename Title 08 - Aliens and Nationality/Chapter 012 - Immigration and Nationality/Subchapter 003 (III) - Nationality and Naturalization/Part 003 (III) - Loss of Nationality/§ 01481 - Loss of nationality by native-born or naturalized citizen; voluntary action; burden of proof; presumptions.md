@@ -6,7 +6,7 @@
 
 &emsp;(2) taking an oath or making an affirmation or other formal declaration of allegiance to a foreign state or a political subdivision thereof, after having attained the age of eighteen years; or
 
-&emsp;(3) entering, or serving in, the armed forces of a foreign state if (A) such armed forces are engaged in hostilities against the United States, or (B) such persons serve as a commissioned or non-commissioned officer; or
+&emsp;(3) entering, or serving in, the armed forces of a foreign state if (A) such armed forces are engaged in hostilities against the UnitedStates, or (B) such persons serve as a commissioned or non-commissioned officer; or
 
 &emsp;(4)(A) accepting, serving in, or performing the duties of any office, post, or employment under the government of a foreign state or a political subdivision thereof, after attaining the age of eighteen years if he has or acquires the nationality of such foreign state; or (B) accepting, serving in, or performing the duties of any office, post, or employment under the government of a foreign state or a political subdivision thereof, after attaining the age of eighteen years for which office, post, or employment an oath, affirmation, or declaration of allegiance is required; or
 
@@ -22,7 +22,7 @@
 
 #### References in Text
 
-The effective date of this chapter, referred to in subsec. (a), is the 180th day immediately following June 27, 1952. See section 407 of act June 27, 1952, set out as an Effective Date note under section 1101 of this title.
+This chapter, referred to in subsec. (b), was in the original a reference to this Act, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 
@@ -32,7 +32,7 @@ Subsecs. (a) to (c). Pub. L. 100–525, §8(m), (n), amended Pub. L. 99–653. S
 
 1986—Subsec. (a). Pub. L. 99–653, §18(a), as amended by Pub. L. 100–525, §8(m)(1), inserted “voluntarily performing any of the following acts with the intention of relinquishing United States nationality” after “his nationality by”.
 
-Subsec. (a)(1). Pub. L. 99–653, §18(b), substituted “or upon an application filed by a duly authorized agent,after having attained the age of eighteen years” for “upon an application filed in his behalf by a parent, guardian, or duly authorized agent, or through the naturalization of a parent having legal custody of such person: <i>Provided</i> That nationality shall not be lost by any person under this section as the result of the naturalization of a parent or parents while such person is under the age of twenty-one years, or as the result of a naturalization obtained on behalf of a person under twenty-one years of age by a parent, guardian, or duly authorized agent, unless such person shall fail to enter the United States to establish a permanent residence prior to his twenty-fifth birthday: <i>And provided further</i>, That a person who shall have lost nationality prior to January 1, 1948, through the naturalization in a foreign state of a parent or parents, may, within one year from the effective date of this chapter, apply for a visa and for admission to the United States as a special immigrant under the provisions of section 1101(a)(27)(E) of this title”.
+Subsec. (a)(1). Pub. L. 99–653, §18(b), substituted “or upon an application filed by a duly authorized agent, after having attained the age of eighteen years” for “upon an application filed in his behalf by a parent, guardian, or duly authorized agent, or through the naturalization of a parent having legal custody of such person: <i>Provided</i> That nationality shall not be lost by any person under this section as the result of the naturalization of a parent or parents while such person is under the age of twenty-one years, or as the result of a naturalization obtained on behalf of a person under twenty-one years of age by a parent, guardian, or duly authorized agent, unless such person shall fail to enter the United States to establish a permanent residence prior to his twenty-fifth birthday: <i>And provided further</i>, That a person who shall have lost nationality prior to January 1, 1948, through the naturalization in a foreign state of a parent or parents, may, within one year from the effective date of this chapter, apply for a visa and for admission to the United States as a special immigrant under the provisions of section 1101(a)(27)(E) of this title”.
 
 Subsec. (a)(2). Pub. L. 99–653, §18(c), inserted “, after having attained the age of eighteen years” after “political subdivision thereof”.
 

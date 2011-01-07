@@ -12,7 +12,7 @@ A prior section 255 was renumbered section 257 of this title.
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
+<b>1980</b>—Subsec. (a). Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
 #### Effective Date of 1980 Amendment
 

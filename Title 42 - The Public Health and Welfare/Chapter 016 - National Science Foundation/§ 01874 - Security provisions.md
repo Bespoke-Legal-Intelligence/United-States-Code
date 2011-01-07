@@ -20,23 +20,23 @@ The Atomic Energy Act of 1954, referred to in subsec. (a), is act Aug. 1, 1946, 
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–207 substituted “Secretary of Energy” for “Atomic Energy Commission”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–207 substituted “Secretary of Energy” for “Atomic Energy Commission”.
 
-1988—Subsec. (c). Pub. L. 100–570 struck out subsec. (c) which related to oath and statement prerequisite to acceptance of scholarship or fellowship, ineligibility of Communist organization members, and penalties for violation.
+<b>1988</b>—Subsec. (c). Pub. L. 100–570 struck out subsec. (c) which related to oath and statement prerequisite to acceptance of scholarship or fellowship, ineligibility of Communist organization members, and penalties for violation.
 
-1985—Subsec. (b)(1). Pub. L. 99–159, §§109(e)(2), 110(a)(19)(A), substituted “engineering” for “technical” and “1873(f)” for “1873(g)”.
+<b>1985</b>—Subsec. (b)(1). Pub. L. 99–159, §§109(e)(2), 110(a)(19)(A), substituted “engineering” for “technical” and “1873(f)” for “1873(g)”.
 
 Subsec. (b)(2). Pub. L. 99–159, §110(a)(19)(B), inserted applicability to engineering.
 
-1980—Subsecs. (c), (d). Pub. L. 96–516 redesignated subsec. (d) as (c), and struck out former subsec. (c) relating to clearance of personnel by the Civil Service Commission.
+<b>1980</b>—Subsecs. (c), (d). Pub. L. 96–516 redesignated subsec. (d) as (c), and struck out former subsec. (c) relating to clearance of personnel by the Civil Service Commission.
 
-1968—Subsec. (a). Pub. L. 90–407, §13, substituted “1954” for “1946”.
+<b>1968</b>—Subsec. (a). Pub. L. 90–407, §13, substituted “1954” for “1946”.
 
 Subsec. (b)(1). Pub. L. 90–407, §13, substituted “section 1873(g) of this title” for section 1873(h) of this title”.
 
-1962—Subsec. (d). Pub. L. 87–835 designated existing provisions as par. (1), inserted reference to section 1869 of this title, and substituted the requirement, for applications made on or after Oct. 1, 1962, of a full statement regarding convictions for crimes, other than any committed before age 16 or for minor traffic violations, and any criminal charges punishable by thirty days confinement, or more, pending at time of application for scholarship or fellowship, for the requirement of an affidavit stating the affiant did not believe in, and was not a member or supporter of any organization believing in, or teaching, the violent overthrow of the United States Government, or by any illegal means, in such par. (1), and added par. (2).
+<b>1962</b>—Subsec. (d). Pub. L. 87–835 designated existing provisions as par. (1), inserted reference to section 1869 of this title, and substituted the requirement, for applications made on or after Oct. 1, 1962, of a full statement regarding convictions for crimes, other than any committed before age 16 or for minor traffic violations, and any criminal charges punishable by thirty days confinement, or more, pending at time of application for scholarship or fellowship, for the requirement of an affidavit stating the affiant did not believe in, and was not a member or supporter of any organization believing in, or teaching, the violent overthrow of the United States Government, or by any illegal means, in such par. (1), and added par. (2).
 
-1952—Subsec. (c). Act Apr. 5, 1952, substituted “Civil Service Commission” for “Federal Bureau of Investigation”.
+<b>1952</b>—Subsec. (c). Act Apr. 5, 1952, substituted “Civil Service Commission” for “Federal Bureau of Investigation”.
 
 #### Subversive Activities Control Board
 

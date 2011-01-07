@@ -6,7 +6,7 @@ The purposes of this chapter are—
 
 &emsp;(2) to synthesize and adapt scientific findings from conventional research programs to the implementation of forest and woodland restoration on a landscape scale;
 
-&emsp;(3) to facilitate the transfer of interdisciplinary knowledge required to understand thesocioeconomic and environmental impacts of wildfire on ecosystems and landscapes;
+&emsp;(3) to facilitate the transfer of interdisciplinary knowledge required to understand the socioeconomic and environmental impacts of wildfire on ecosystems and landscapes;
 
 &emsp;(4) to require the Institutes established under this chapter to collaborate with Federal agencies—
 

@@ -66,7 +66,7 @@ The date of the enactment of this paragraph, referred to in subsec. (d)(2), is t
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–252, §5004(a), added subpar. (A), redesignated subpar. (D) as (B), and struck out former subpars. (A) to (C) which read as follows:
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–252, §5004(a), added subpar. (A), redesignated subpar. (D) as (B), and struck out former subpars. (A) to (C) which read as follows:
 
 “(A) for months beginning on or after January 1, 2002, $800;
 
@@ -88,13 +88,13 @@ Subsec. (h)(1). Pub. L. 110–252, §5004(c), added subpars. (A) and (B) and str
 
 “(B) such Consumer Price Index for the 12-month period preceding the 12-month period described in subparagraph (A).”
 
-2003—Subsec. (h). Pub. L. 108–183, §304(a)(1), (2), (5), inserted “(1)” after “(h)”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+<b>2003</b>—Subsec. (h). Pub. L. 108–183, §304(a)(1), (2), (5), inserted “(1)” after “(h)”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
 Subsec. (h)(1). Pub. L. 108–183, §304(a)(3), struck out “(rounded to the nearest dollar)” after “increase” in introductory provisions.
 
 Subsec. (h)(1)(B). Pub. L. 108–183, §304(a)(4), substituted “subparagraph (A)” for “paragraph (1)”.
 
-2001—Subsec. (a)(1). Pub. L. 107–103, §101(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “at the monthly rate of $650 (as increased from time to time under subsection (h)) for an approved program of education pursued on a full-time basis; or”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–103, §101(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “at the monthly rate of $650 (as increased from time to time under subsection (h)) for an approved program of education pursued on a full-time basis; or”.
 
 Pub. L. 107–14, §7(b)(2)(A)(i), inserted “subsection (h)” after “from time to time under”.
 
@@ -112,7 +112,7 @@ Subsec. (h). Pub. L. 107–14, §7(b)(2)(A)(ii), struck out subsec. (h) which re
 
 &emsp;“(2) 36.”
 
-2000—Subsec. (a). Pub. L. 106–419, §103(d)(1), inserted “in the case of an individual entitled to an educational assistance allowance under this chapter whose obligated period of active duty on which such entitlement is based is three years,” before “a basic educational assistance allowance” in introductory provisions.
+<b>2000</b>—Subsec. (a). Pub. L. 106–419, §103(d)(1), inserted “in the case of an individual entitled to an educational assistance allowance under this chapter whose obligated period of active duty on which such entitlement is based is three years,” before “a basic educational assistance allowance” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 106–419, §105(b)(1), which directed substitution of “subsection (h)” for “subsection (g)” wherever appearing, could not be executed because the words “subsection (g)” did not appear subsequent to the amendment by Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(b)(3)(A)\]. See below.
 
@@ -142,7 +142,7 @@ Subsec. (h). Pub. L. 106–419, §105(b)(2), redesignated subsec. (g) relating t
 
 Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(b)(3)(B)\], redesignated subsec. (g) relating to a percentage increase in the rates payable under subsections (a)(1) and (b)(1) as (h).
 
-1998—Subsec. (a). Pub. L. 105–178, §8203(a)(3)(A), struck out “subsections (b), (c), (d), (e), (f), and (g) of” before “this section” in introductory provisions.
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §8203(a)(3)(A), struck out “subsections (b), (c), (d), (e), (f), and (g) of” before “this section” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 105–178, §8203(a)(1)(A), substituted “$528 (as increased from time to time under subsection (g))” for “$400”.
 
@@ -156,17 +156,17 @@ Pub. L. 105–261, §565(a), inserted “, at the time the individual first bec
 
 Subsec. (g). Pub. L. 105–178, §8203(a)(2), substituted “, the Secretary shall provide a percentage increase (rounded to the nearest dollar) in the rates payable under subsections (a)(1) and (b)(1)” for “beginning on or after October 1, 1994, the Secretary shall continue to pay, in lieu of the rates payable under subsection (a)(1) or (b)(1) of this section, the monthly rates payable under this subsection for the previous fiscal year and shall provide, for any such fiscal year, a percentage increase in such rates”.
 
-1997—Subsec. (e)(1)(A). Pub. L. 105–114, §401(b)(1), substituted “(1)(A) Except as provided in subparagraph (B) of this paragraph and subject to paragraph (2)” for “(1) Subject to paragraph (2)”.
+<b>1997</b>—Subsec. (e)(1)(A). Pub. L. 105–114, §401(b)(1), substituted “(1)(A) Except as provided in subparagraph (B) of this paragraph and subject to paragraph (2)” for “(1) Subject to paragraph (2)”.
 
 Subsec. (e)(1)(B). Pub. L. 105–114, §401(b)(2), added subpar. (B).
 
-1996—Subsec. (f). Pub. L. 104–275 inserted “, 3018B, or 3018C” after “section 3018A”.
+<b>1996</b>—Subsec. (f). Pub. L. 104–275 inserted “, 3018B, or 3018C” after “section 3018A”.
 
-1993—Subsecs. (c) to (g). Pub. L. 103–66, §12009(d)(1), (2), made technical amendments to directory language of Pub. L. 102–568, §§301(c), 307(a). See 1992 Amendment note below.
+<b>1993</b>—Subsecs. (c) to (g). Pub. L. 103–66, §12009(d)(1), (2), made technical amendments to directory language of Pub. L. 102–568, §§301(c), 307(a). See 1992 Amendment note below.
 
 Subsec. (g). Pub. L. 103–66, §12009(a), struck out par. (1) and par. (2) designation, redesignated subpars. (A) and (B) of former par. (2) as pars. (1) and (2), respectively, and substituted “paragraph (1)” for “subparagraph (A)” in par. (2). Prior to amendment, par. (1) read as follows: “With respect to the fiscal year beginning on October 1, 1993, the Secretary shall provide a percentage increase in the monthly rates payable under subsections (a)(1) and (b)(1) of this section equal to the percentage by which the Consumer Price Index (all items, United States city average, published by the Bureau of Labor Statistics) for the 12-month period ending June 30, 1993, exceeds such Consumer Price Index for the 12-month period ending June 30, 1992.”
 
-1992—Subsec. (a). Pub. L. 102–568, §307(b)(1), substituted “(f), and (g)” for “and (f)” in introductory provisions.
+<b>1992</b>—Subsec. (a). Pub. L. 102–568, §307(b)(1), substituted “(f), and (g)” for “and (f)” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 102–568, §301(a)(1), substituted “$400” for “$300”.
 
@@ -186,7 +186,7 @@ Pub. L. 102–568, §301(c), as amended by Pub. L. 103–66, §12009(d)(1), rede
 
 Subsec. (g). Pub. L. 102–568, §307(a)(1), as amended by Pub. L. 103–66, §12009(d)(2), redesignated subsec. (f) as (g).
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1415 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1415 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “3032” for “1432” in introductory provisions.
 
@@ -202,15 +202,15 @@ Subsec. (e). Pub. L. 102–83, §5(c)(1), substituted “3222(c)” for “1622(
 
 Subsec. (f). Pub. L. 102–25, §337(a)(3), added subsec. (f).
 
-1990—Subsec. (e). Pub. L. 101–510 added subsec. (e).
+<b>1990</b>—Subsec. (e). Pub. L. 101–510 added subsec. (e).
 
-1989—Subsecs. (a)(2), (b)(2). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator”.
+<b>1989</b>—Subsecs. (a)(2), (b)(2). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator”.
 
 Subsec. (c). Pub. L. 101–237, §423(b)(5), inserted “of Defense” after “prescribed by the Secretary” and after “of this section as the Secretary”.
 
 Pub. L. 101–189 inserted “, in the case of an individual who first became a member of the Armed Forces before the date of the enactment of the National Defense Authorization Act for Fiscal Years 1990 and 1991, or $700 per month, in the case of an individual who first became a member of the Armed Forces on or after that date” before period at end.
 
-1988—Subsec. (a). Pub. L. 100–689, §111(a)(5)(A), substituted “The amount of payment of educational assistance under this chapter is subject to section 1432 of this title. Except” for “Subject to section 1432 of this title and except”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–689, §111(a)(5)(A), substituted “The amount of payment of educational assistance under this chapter is subject to section 1432 of this title. Except” for “Subject to section 1432 of this title and except”.
 
 Subsec. (b). Pub. L. 100–689, §103(b)(3), inserted reference to section 1418 of this title.
 

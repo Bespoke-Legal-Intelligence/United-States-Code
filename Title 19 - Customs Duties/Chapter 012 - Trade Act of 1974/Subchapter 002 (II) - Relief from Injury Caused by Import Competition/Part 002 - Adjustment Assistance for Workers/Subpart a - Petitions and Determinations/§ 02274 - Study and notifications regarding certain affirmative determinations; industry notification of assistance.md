@@ -86,7 +86,7 @@ For purposes of subsection (f), the term “representatives of the domestic indu
 
 &emsp;(3) any safeguard investigation described in subsection (d)(2) or (d)(3).
 
-(Pub. L. 93–618, title II, §224, Jan. 3, 1975, 88 Stat. 2020; Pub. L. 97–35, title XXV, §2513(a), Aug. 13, 1981, 95 Stat. 889; Pub. L. 100–418, title I, §1401(b)(1)(B), Aug. 23, 1988, 102 Stat. 1239; Pub. L. 111–5, div. B, title I, §1811(a), Feb. 17, 2009, 123 Stat. 373.)
+(Pub. L. 93–618, title II, §224, Jan. 3, 1975, 88 Stat. 2020; Pub. L. 97–35, title XXV, §2513(a), Aug. 13,1981, 95 Stat. 889; Pub. L. 100–418, title I, §1401(b)(1)(B), Aug. 23, 1988, 102 Stat. 1239; Pub. L. 111–5, div. B, title I, §1811(a), Feb. 17, 2009, 123 Stat. 373.)
 
 #### Amendment of Section
 
@@ -94,7 +94,7 @@ For purposes of subsection (f), the term “representatives of the domestic indu
 
 #### Amendments
 
-2009—Pub. L. 111–5, §§1811(a)(1), 1893, temporarily substituted “Study and notifications regarding certain affirmative determinations; industry notification of assistance” for “Study by Secretary of Labor when International Trade Commission begins investigation” in section catchline. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Pub. L. 111–5, §§1811(a)(1), 1893, temporarily substituted “Study and notifications regarding certain affirmative determinations; industry notification of assistance” for “Study by Secretary of Labor when International Trade Commission begins investigation” in section catchline. See Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (a). Pub. L. 111–5, §§1811(a)(2), 1893, temporarily inserted heading. See Effective and Termination Dates of 2009 Amendment note below.
 
@@ -102,17 +102,17 @@ Subsec. (b). Pub. L. 111–5, §§1811(a)(3), 1893, temporarily inserted heading
 
 Subsecs. (c) to (g). Pub. L. 111–5, §§1811(a)(4), 1893, temporarily added subsecs. (c) to (g). See Effective and Termination Dates of 2009 Amendment note below.
 
-1988—Subsec. (a). Pub. L. 100–418 substituted “section 2252” for “section 2251”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–418 substituted “section 2252” for “section 2251”.
 
 Subsec. (b). Pub. L. 100–418 substituted “section 2252(f)” for “section 2251”.
 
-1981—Subsec. (c). Pub. L. 97–35 struck out subsec. (c) which related to availability of information to workers.
+<b>1981</b>—Subsec. (c). Pub. L. 97–35 struck out subsec. (c) which related to availability of information to workers.
 
 #### Effective and Termination Dates of 2009 Amendment
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -124,7 +124,7 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, with transition provisions
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2010, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Feb. 12, 2011, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “1671a(b) and 1673a(b)”.</i>
 

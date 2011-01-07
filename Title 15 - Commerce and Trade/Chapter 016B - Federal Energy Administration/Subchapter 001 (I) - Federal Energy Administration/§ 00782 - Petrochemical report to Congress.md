@@ -22,7 +22,7 @@ As used in this section, the term “petrochemical” includes organic chemicals
 
 #### Amendments
 
-1975—Subsec. (a). Pub. L. 93–618 substituted “United States International Trade Commission” for “United States Tariff Commission”.
+<b>1975</b>—Subsec. (a). Pub. L. 93–618 substituted “United States International Trade Commission” for “United States Tariff Commission”.
 
 #### Transfer of Functions
 

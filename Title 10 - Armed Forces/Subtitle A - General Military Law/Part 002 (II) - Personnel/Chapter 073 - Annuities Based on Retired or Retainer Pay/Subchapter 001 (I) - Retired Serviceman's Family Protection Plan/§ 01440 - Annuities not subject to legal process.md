@@ -22,9 +22,9 @@ The words “either in law or equity” are omitted as surplusage.
 
 #### Amendments
 
-1985—Pub. L. 99–145 substituted “1437(c)(3)(B)” for “1437(c)(3)”.
+<b>1985</b>—Pub. L. 99–145 substituted “1437(c)(3)(B)” for “1437(c)(3)”.
 
-1984—Pub. L. 98–525 substituted “Except as provided in section 1437(c)(3) of this title, no” for “No”.
+<b>1984</b>—Pub. L. 98–525 substituted “Except as provided in section 1437(c)(3) of this title, no” for “No”.
 
-1972—Pub. L. 92–425 substituted “subchapter” for “chapter”.
+<b>1972</b>—Pub. L. 92–425 substituted “subchapter” for “chapter”.
 

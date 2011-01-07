@@ -20,13 +20,13 @@ Section 3012(a)(24) of this title, referred to in subsec. (b), does not relate t
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–365, §210(1), substituted “2007, 2008, 2009, 2010, and 2011.” for “2001, 2002, 2003, 2004, and 2005”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–365, §210(1), substituted “2007, 2008, 2009, 2010, and 2011.” for “2001, 2002, 2003, 2004, and 2005”.
 
 Subsec. (b). Pub. L. 109–365, §210(2), substituted “years 2007, 2008, 2009, 2010, and 2011” for “year 2001, and such sums as may be necessary for each of the 4 succeeding fiscal years”.
 
 Subsec. (c). Pub. L. 109–365, §210(2), substituted “years 2007, 2008, 2009, 2010, and 2011” for “year 2001 and for each of the 4 succeeding fiscal years”.
 
-2000—Subsec. (a). Pub. L. 106–501, §205(1), in heading, substituted “In general” for “Administration”, and in text, inserted “administration, salaries, and expenses of” after “appropriated for” and substituted “2001, 2002, 2003, 2004, and 2005” for “1992, 1993, 1994, and 1995.”
+<b>2000</b>—Subsec. (a). Pub. L. 106–501, §205(1), in heading, substituted “In general” for “Administration”, and in text, inserted “administration, salaries, and expenses of” after “appropriated for” and substituted “2001, 2002, 2003, 2004, and 2005” for “1992, 1993, 1994, and 1995.”
 
 Subsecs. (b), (c). Pub. L. 106–501, §205(2), added subsecs. (b) and (c) and struck out heading and text of former subsec. (b). Text read as follows: “There are authorized to be appropriated for salaries and expenses of the Administration on Aging—
 
@@ -34,5 +34,7 @@ Subsecs. (b), (c). Pub. L. 106–501, §205(2), added subsecs. (b) and (c) and s
 
 &emsp;“(2) such additional sums as may be necessary for each such fiscal year to enable the Assistant Secretary to provide for not fewer than 300 full-time employees (or the equivalent thereof) in the Administration on Aging.”
 
-1993—Subsec. (b)(2). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
+<b>1993</b>—Subsec. (b)(2). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

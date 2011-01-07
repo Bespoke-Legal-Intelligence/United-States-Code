@@ -44,43 +44,43 @@ This section shall not apply to any change in rates under subsection (i) of sect
 
 #### Amendments
 
-2001—Subsec. (f). Pub. L. 107–16, §§101(c)(3), 901, temporarily added subsec. (f). See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (f). Pub. L. 107–16, §§101(c)(3), 901, temporarily added subsec. (f). See Effective and Termination Dates of 2001 Amendment note below.
 
-1988—Subsec. (e). Pub. L. 100–647 added subsec. (e).
+<b>1988</b>—Subsec. (e). Pub. L. 100–647 added subsec. (e).
 
-1986—Subsec. (d). Pub. L. 99–514 amended subsec. (d) generally, substituting “apply to inflation adjustments” for “apply to section 1 rate changes made by Economic Recovery Tax Act of 1981” in heading and struck out “section 1 attributable to the amendments made by section 101 of the Economic Tax Act of 1981 or” before “subsection (f)” in text.
+<b>1986</b>—Subsec. (d). Pub. L. 99–514 amended subsec. (d) generally, substituting “apply to inflation adjustments” for “apply to section 1 rate changes made by Economic Recovery Tax Act of 1981” in heading and struck out “section 1 attributable to the amendments made by section 101 of the Economic Tax Act of 1981 or” before “subsection (f)” in text.
 
-1984—Pub. L. 98–369 renumbered section 21 of this title as this section.
+<b>1984</b>—Pub. L. 98–369 renumbered section 21 of this title as this section.
 
-1981—Subsec. (d). Pub. L. 97–34 substituted provisions that this section shall not apply to any change in rates under section 1 attributable to the amendments made by section 101 of the Economic Recovery Tax Act of 1981 or subsec. (f) of section 1 for provisions that had related to the changes made by section 303(b) of the Tax Reduction Act of 1975 in the surtax exemption.
+<b>1981</b>—Subsec. (d). Pub. L. 97–34 substituted provisions that this section shall not apply to any change in rates under section 1 attributable to the amendments made by section 101 of the Economic Recovery Tax Act of 1981 or subsec. (f) of section 1 for provisions that had related to the changes made by section 303(b) of the Tax Reduction Act of 1975 in the surtax exemption.
 
 Subsecs. (e), (f). Pub. L. 97–34 struck out subsecs. (e) and (f) which had related, respectively, to changes made by the Tax Reduction and Simplification Act of 1977 and to changes made by Revenue Act of 1978.
 
-1978—Subsec. (f). Pub. L. 95–600 added subsec. (f).
+<b>1978</b>—Subsec. (f). Pub. L. 95–600 added subsec. (f).
 
-1977—Subsec. (d). Pub. L. 95–30, §101(d)(2)(A), (B), redesignated subsec. (f) as (d). Former subsec. (d), which directed that, in applying subsec. (a) to a taxable year of an individual which was not a calendar year, each change made by the Tax Reform Act of 1969 in part I or in the application of part IV or V of subchapter B for purposes of the determination of taxable income should be treated as a change in a rate of tax, was struck out.
+<b>1977</b>—Subsec. (d). Pub. L. 95–30, §101(d)(2)(A), (B), redesignated subsec. (f) as (d). Former subsec. (d), which directed that, in applying subsec. (a) to a taxable year of an individual which was not a calendar year, each change made by the Tax Reform Act of 1969 in part I or in the application of part IV or V of subchapter B for purposes of the determination of taxable income should be treated as a change in a rate of tax, was struck out.
 
 Subsec. (e). Pub. L. 95–30, §101(d)(2)(A), (C), added subsec. (e). Former subsec. (e), which directed that, in applying subsec. (a) to a taxable year of an individual which was not a calendar year, each change made by the Revenue Act of 1971 in section 141 (relating to the standard deduction) and section 151 (relating to personal exemptions) should be treated as a change in a rate of tax, was struck out.
 
 Subsec. (f). Pub. L. 95–30, §101(d)(2)(B), redesignated subsec. (f) as (d).
 
-1976—Subsec. (f). Pub. L. 94–455 substituted “in the surtax exemption and any change under section 11(d) in the surtax exemption” for “and the change made by section 3(c) of the Revenue Adjustment Act of 1975 in section 11(d) (relating to corporate surtax exemption)”.
+<b>1976</b>—Subsec. (f). Pub. L. 94–455 substituted “in the surtax exemption and any change under section 11(d) in the surtax exemption” for “and the change made by section 3(c) of the Revenue Adjustment Act of 1975 in section 11(d) (relating to corporate surtax exemption)”.
 
-1975—Subsec. (f). Pub. L. 94–164 inserted reference to change made by section 3(c) of the Revenue Adjustment Act of 1975.
+<b>1975</b>—Subsec. (f). Pub. L. 94–164 inserted reference to change made by section 3(c) of the Revenue Adjustment Act of 1975.
 
 Pub. L. 94–12 added subsec. (f).
 
-1971—Subsec. (e). Pub. L. 92–178 added subsec. (e).
+<b>1971</b>—Subsec. (e). Pub. L. 92–178 added subsec. (e).
 
-1969—Subsec. (d). Pub. L. 91–172 substituted provisions covering changes made by the Tax Reform Act of1969 in case of individuals for provisions covering changes made by Revenue Act of 1964.
+<b>1969</b>—Subsec. (d). Pub. L. 91–172 substituted provisions covering changes made by the Tax Reform Act of 1969 in case of individuals for provisions covering changes made by Revenue Act of 1964.
 
-1964—Subsec. (d). Pub. L. 88–272 amended subsection generally by substituting provisions relating to changes made by the Revenue Act of 1964, for provisions relating to taxable years beginning before Jan. 1, 1954, and ending after Dec. 31, 1953.
+<b>1964</b>—Subsec. (d). Pub. L. 88–272 amended subsection generally by substituting provisions relating to changes made by the Revenue Act of 1964, for provisions relating to taxable years beginning before Jan. 1, 1954, and ending after Dec. 31, 1953.
 
 #### Effective and Termination Dates of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2000, see section 101(d)(1) of Pub. L. 107–16, set out as a note under section 1 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 

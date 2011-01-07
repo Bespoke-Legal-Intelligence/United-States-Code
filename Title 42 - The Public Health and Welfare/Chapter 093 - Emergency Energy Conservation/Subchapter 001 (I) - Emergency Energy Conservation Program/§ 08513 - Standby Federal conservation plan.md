@@ -30,7 +30,7 @@ Any finding under subsection (b) of this section shall be accompanied by such in
 
 #### (d) Submission of State emergency conservation plan
 
-(1) <sup>2</sup> The Governor of a State in which all or any portion of the standby Federal conservation plan is or will be in effect may submit at any time a State emergency conservation plan, and if it is approved under section 8512(c) of this title, all or such portion of the standby Federalconservation plan shall cease to be effective in that State. Nothing in this paragraph shall affect any action or pending proceedings, administrative or civil, not finally determined on such date, nor any administrative or civil action or proceeding, whether or not pending, based upon any act committed or liability incurred prior to such cessation of effectiveness.
+(1) <sup>2</sup> The Governor of a State in which all or any portion of the standby Federal conservation plan is or will be in effect may submit at any time a State emergency conservation plan, and if it is approved under section 8512(c) of this title, all or such portion of the standby Federal conservation plan shall cease to be effective in that State. Nothing in this paragraph shall affect any action or pending proceedings, administrative or civil, not finally determined on such date, nor any administrative or civil action or proceeding, whether or not pending, based upon any act committed or liability incurred prior to such cessation of effectiveness.
 
 #### (e) State substitute emergency conservation measures
 
@@ -92,7 +92,7 @@ The plan established under subsection (a) of this section shall—
 
 #### References in Text
 
-Section 753 of title 15, referred to in subsec. (a)(2), was omitted from the Code pursuant to section 760g ofTitle 15, Commerce and Trade, which provided for the expiration of the President's authority under that section on Sept. 30, 1981.
+Section 753 of title 15, referred to in subsec. (a)(2), was omitted from the Code pursuant to section 760g of Title 15, Commerce and Trade, which provided for the expiration of the President's authority under that section on Sept. 30, 1981.
 
 Section 6263 of this title, referred to in subsec. (h)(3)(D), was repealed by Pub. L. 106–469, title I, §104(1), Nov. 9, 2000, 114 Stat. 2033.
 

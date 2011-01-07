@@ -48,7 +48,7 @@ Each online pharmacy shall post in a visible and clear manner on the homepage of
 
 #### (e) Declaration of compliance
 
-On and after the date on which it makes the notification under subsection (d), each onlinepharmacy shall display on the homepage of its Internet site, in such form as the Attorney General shall by regulation require, a declaration that it has made such notification to the Attorney General.
+On and after the date on which it makes the notification under subsection (d), each online pharmacy shall display on the homepage of its Internet site, in such form as the Attorney General shall by regulation require, a declaration that it has made such notification to the Attorney General.
 
 #### (f) Reports
 
@@ -58,7 +58,7 @@ Any statement, declaration, notification, or disclosure required under this sect
 
 #### (1) In general
 
-&emsp;For purposes of sections 802(52) and 882(c)(6)(B) of this title, the Secretary shall notify the Attorney General, at such times and in such manner as the Secretary and the Attorney General determine appropriate, of the Indian tribes or tribal organizations with which the Secretary has contracted or compacted under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] for the tribes or tribal organizations to provide pharmacy services.
+&emsp;For purposes of sections 802(52) and 882(c)(6)(B) of this title, the Secretary shallnotify the Attorney General, at such times and in such manner as the Secretary and the Attorney General determine appropriate, of the Indian tribes or tribal organizations with which the Secretary has contracted or compacted under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] for the tribes or tribal organizations to provide pharmacy services.
 
 #### (2) Designations
 

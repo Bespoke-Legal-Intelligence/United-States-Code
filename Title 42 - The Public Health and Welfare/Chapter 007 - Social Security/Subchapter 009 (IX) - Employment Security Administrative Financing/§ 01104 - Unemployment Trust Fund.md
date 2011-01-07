@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established in the Treasury of the United States a trust fund to be known as the “Unemployment Trust Fund”, hereinafter in this subchapter called the “Fund”. The Secretary of the Treasury is authorized and directed to receive and hold in the Fund all moneys deposited therein by a State agency from a State unemployment fund, or by the Railroad Retirement Board to the credit of the railroad unemployment insurance account or the railroad unemployment insurance administration fund, or otherwise deposited in or credited to the Fund or any account therein. Such deposit may be made directly with the Secretary of the Treasury, with any depositary designated by him for such purpose, or with any Federal Reserve Bank.
+There is hereby established in the Treasury of the United States a trust fund to be known as the “Unemployment Trust Fund”, hereinafter in this subchapter called the “Fund”. The Secretary of the Treasury is authorized and directed to receive and hold in the Fund all moneys deposited therein by a State agency from a State unemployment fund, or by the Railroad Retirement Board to the credit of the railroad unemployment insurance account or the railroad unemployment insurance administrationfund, or otherwise deposited in or credited to the Fund or any account therein. Such deposit may be made directly with the Secretary of the Treasury, with any depositary designated by him for such purpose, or with any Federal Reserve Bank.
 
 #### (b) Investments
 
@@ -40,11 +40,11 @@ There is hereby established in the Unemployment Trust Fund a Federal unemploymen
 
 #### Amendments
 
-1992—Subsec. (g). Pub. L. 102–318 struck out after the first sentence the following: “There is hereby authorized to be appropriated to such Federal unemployment account a sum equal to (1) the excess of taxes collected prior to July 1, 1946, under title IX of this Act or under the Federal Unemployment Tax Act, over the total unemployment administrative expenditures made prior to July 1, 1946, plus (2) the excess of taxes collected under the Federal Unemployment Tax Act after June 30, 1946, and prior to July 1, 1953, over the unemployment administrative expenditures made after June 30, 1946, and prior to July 1, 1953. As used in this subsection, the term ‘unemployment administrative expenditures’ means expenditures for grants under subchapter III of this chapter, expenditures for the administration of that subchapter by the Secretary of Health and Human Services, or the Secretary of Labor, and expenditures for the administration of title IX of this Act, or of the Federal Unemployment Tax Act, by the Department of the Treasury, the Secretary of Health and Human Services, or the Secretary of Labor. For the purposes of this subsection, there shall be deducted from the total amount of taxes collected prior to July 1, 1943, under title IX of this Act, the sum of $40,561,886.43 which was authorized to be appropriated by the Act of August 24, 1937 (50 Stat. 754), and the sum of $18,451,846 which was authorized to be appropriated by section 361(b) of title 45.”
+<b>1992</b>—Subsec. (g). Pub. L. 102–318 struck out after the first sentence the following: “There is hereby authorized to be appropriated to such Federal unemployment account a sum equal to (1) the excess of taxes collected prior to July 1, 1946, under title IX of this Act or under the Federal Unemployment Tax Act, over the total unemployment administrative expenditures made prior to July 1, 1946, plus (2) the excess of taxes collected under the Federal Unemployment Tax Act after June 30, 1946, and prior to July 1, 1953, over the unemployment administrative expenditures made after June 30, 1946, and prior to July 1, 1953. As used in this subsection, the term ‘unemployment administrative expenditures’ means expenditures for grants under subchapter III of this chapter, expenditures for the administration of that subchapter by the Secretary of Health and Human Services, or the Secretary of Labor, and expenditures for the administration of title IX of this Act, or of the Federal Unemployment Tax Act, by the Department of the Treasury, the Secretary of Health and Human Services, or the Secretary of Labor. For the purposes of this subsection, there shall be deducted from the total amount of taxes collected prior to July 1, 1943, under title IX of this Act, the sum of $40,561,886.43 which was authorized to be appropriated by the Act of August 24,1937 (50 Stat. 754), and the sum of $18,451,846 which was authorized to be appropriated by section 361(b) of title 45.”
 
-1984—Subsec. (b). Pub. L. 98–369 substituted “chapter 31 of title 31” for “the Second Liberty Bond Act, as amended”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–369 substituted “chapter 31 of title 31” for “the Second Liberty Bond Act, as amended”.
 
-1960—Subsec. (a). Pub. L. 86–778 substituted “with any depositary designated by him for such purpose, or with any Federal Reserve Bank” for “or with any Federal Reserve bank or member bank of the Federal Reserve System designated by him for such purpose”.
+<b>1960</b>—Subsec. (a). Pub. L. 86–778 substituted “with any depositary designated by him for such purpose, or with any Federal Reserve Bank” for “or with any Federal Reserve bank or member bank of the Federal Reserve System designated by him for such purpose”.
 
 Subsec. (b). Pub. L. 86–778 substituted “Second Liberty Bond Act, as amended” and “section 1323” for “section 752 of title 31” and “section 1322(c)”, respectively, and inserted “made” after “Advances”.
 
@@ -52,15 +52,15 @@ Subsec. (e). Pub. L. 86–778 provided for the maintenance of a separate book ac
 
 Subsec. (g). Pub. L. 86–778 redesignated former subsec. (h) as (g).
 
-1959—Subsec. (b). Pub. L. 86–346 substituted “on original issue at the issue price” for “on original issue at par”.
+<b>1959</b>—Subsec. (b). Pub. L. 86–346 substituted “on original issue at the issue price” for “on original issue at par”.
 
-1958—Subsec. (a). Pub. L. 85–927, §204(a), inserted “or the railroad unemployment insurance administration fund”.
+<b>1958</b>—Subsec. (a). Pub. L. 85–927, §204(a), inserted “or the railroad unemployment insurance administration fund”.
 
 Subsec. (e). Pub. L. 85–927, §204(b), substituted “the railroad unemployment insurance account, and the railroad unemployment insurance administration fund” for “and the railroad unemployment insurance account”.
 
 Subsec. (f). Pub. L. 85–927, §204(c), substituted “railroad unemployment insurance account for the payment of benefits, and out of the railroad unemployment insurance administration fund for the payment of administrative expenses, as the Railroad Retirement Board may duly certify, not exceeding the amount standing to the credit of such account or such fund, as the case may be, at the time of such payment” for “fund as the Railroad Retirement Board may duly certify, not exceeding the amount standing to the railroad unemployment insurance account at the time of such payment”.
 
-1954—Subsec. (a). Act Aug. 5, 1954, §5(b), substituted “or otherwise deposited in or credited to the Fund or any account therein” for “or deposited pursuant to appropriations to the Federal unemployment account”.
+<b>1954</b>—Subsec. (a). Act Aug. 5, 1954, §5(b), substituted “or otherwise deposited in or credited to the Fund or any account therein” for “or deposited pursuant to appropriations to the Federal unemployment account”.
 
 Subsec. (b). Act Aug. 5, 1954, §5(c), inserted provision that advances to the Federal unemployment account pursuant to section 1323 of this title shall not be invested.
 
@@ -74,17 +74,17 @@ Subsec. (g). Act Aug. 5, 1954, §5(e), repealed subsec. (g) which authorized Sec
 
 Subsec. (h). Act Aug. 5, 1954, §5(f), substituted a new cl. (2) in second sentence and repealed the third sentence: “Any amounts in the Federal unemployment account on April 1952, and any amounts repaid to such account after such date, shall be covered into the general fund of the Treasury.”
 
-1950—Subsec. (h). Act Aug. 28, 1950, substituted “prior to July 1, 1951” for “prior to July 1, 1949”, “on July 1, 1951, and ending on December 31, 1951” for “on July 1, 1949, and ending on December 31, 1949” in cl. (2) of second sentence, and “April 1, 1952” for “April 1, 1950” in third sentence.
+<b>1950</b>—Subsec. (h). Act Aug. 28, 1950, substituted “prior to July 1, 1951” for “prior to July 1, 1949”, “on July 1, 1951, and ending on December 31, 1951” for “on July 1, 1949, and ending on December 31, 1949” in cl. (2) of second sentence, and “April 1, 1952” for “April 1, 1950” in third sentence.
 
-1947—Subsec. (h). Act Aug. 6, 1947, amended subsec. (h) generally, and, among other changes, changed the periods for which excess of tax collections over administrative expenditures could be appropriated to the unemployment account, limited authorized appropriations for the unemployment account to the excess collections for the period ending Dec. 31, 1949, provided for amounts in such account on Apr. 1, 1950, and any repayments to the account after such date be covered into the general fund of the Treasury, and provided for an additional deduction of $18,451,846 from the total amount of taxes collected prior to July 1, 1943.
+<b>1947</b>—Subsec. (h). Act Aug. 6, 1947, amended subsec. (h) generally, and, among other changes, changed the periods for which excess of tax collections over administrative expenditures could be appropriated to the unemployment account, limited authorized appropriations for the unemployment account to the excess collections for the period ending Dec. 31, 1949, provided for amounts in such account on Apr. 1, 1950, and any repayments to the account after such date be covered into the general fund of the Treasury, and provided for an additional deduction of $18,451,846 from the total amount of taxes collected prior to July 1, 1943.
 
-1944—Subsec. (a). Act Oct. 3, 1944, §401(a), inserted “, or deposited pursuant to appropriations to the Federal unemployment account” after “unemployment insurance account” in second sentence.
+<b>1944</b>—Subsec. (a). Act Oct. 3, 1944, §401(a), inserted “, or deposited pursuant to appropriations to the Federal unemployment account” after “unemployment insurance account” in second sentence.
 
 Subsec. (e). Act Oct. 3, 1944, §401(b), inserted “, the Federal unemployment account” after “a separate book account for each State agency”.
 
 Subsecs. (g), (h). Act Oct. 3, 1944, §401(c), added subsecs. (g) and (h).
 
-1938—Subsec. (a). Act June 25, 1938, §10(e), inserted “or by the Railroad Retirement Board to the credit of the railroad unemployment insurance account”.
+<b>1938</b>—Subsec. (a). Act June 25, 1938, §10(e), inserted “or by the Railroad Retirement Board to the credit of the railroad unemployment insurance account”.
 
 Subsec. (e). Act June 25, 1938, §10(f), inserted “and the railroad unemployment insurance account”.
 

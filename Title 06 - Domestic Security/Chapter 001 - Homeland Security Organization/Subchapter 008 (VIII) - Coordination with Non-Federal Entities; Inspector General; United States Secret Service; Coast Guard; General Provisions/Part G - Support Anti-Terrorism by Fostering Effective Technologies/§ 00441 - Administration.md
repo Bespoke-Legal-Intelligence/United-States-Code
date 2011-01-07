@@ -14,7 +14,7 @@ The Secretary may designate anti-terrorism technologies that qualify for protect
 
 &emsp;(3) Existence of extraordinarily large or extraordinarily unquantifiable potential third party liability risk exposure to the Seller or other provider of such anti-terrorism technology.
 
-&emsp;(4) Substantial likelihood that such anti-terrorism technology will not be deployed unless protections under the system of risk management provided under this part are extended.
+&emsp;(4) Substantial likelihood that such anti-terrorism technology will not be deployed unlessprotections under the system of risk management provided under this part are extended.
 
 &emsp;(5) Magnitude of risk exposure to the public if such anti-terrorism technology is not deployed.
 

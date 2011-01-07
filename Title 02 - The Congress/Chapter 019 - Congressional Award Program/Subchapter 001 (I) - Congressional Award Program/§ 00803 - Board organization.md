@@ -22,21 +22,15 @@
 
 #### (b) Terms of appointed members; reappointment
 
-(1) Appointed members of the Board shall continue to serve at the pleasure of the officer by whom they are appointed, and (unless reappointed under paragraph (3)) shall serve for a term of 4 years.
+(1) Appointed members of the Board shall continue to serve at the pleasure of the officer by whom they are appointed, and (unless reappointed under paragraph (2)) shall serve for a term of 4 years.
 
-(2) For the purpose of adjusting the terms of Board members to allow for staggered appointments, the following distribution of Board terms shall take effect at the first meeting of the Board occurring after November 6, 1990:
+(2)(A) Subject to the limitations in subparagraph (B), members of the Board may be reappointed, except that no member may serve more than 2 full consecutive terms. Members may be reappointed to 2 full consecutive terms after being appointed to fill a vacancy on the Board.
 
-&emsp;(A) Those members who have served 10 years or more, as of the date of such meeting, shall have an appointment expiring on a date 2 years from October 1, 1990.
+(B) Members of the Board shall not be subject to the limitation on reappointment in subparagraph (A) during their period of service as Chairman of the Board and may be reappointed to an additional full term after termination of such Chairmanship.
 
-&emsp;(B) Those members who have served for 6 months or less, as of the date of such meeting, shall have an appointment expiring on a date 6 years from October 11, 1990.
+(3)(A) Notwithstanding paragraph (1) or (2), the term of each member of the Board shall begin on October 1 of the even numbered year which would otherwise apply with one-half of the Board positions having terms which begin in each even numbered year.
 
-&emsp;(C) All other members shall apportion the remaining Board positions between equal numbers of 2 and 4 year terms (providing that if there are an unequal number of remaining members, there shall be a predominance of 4 year terms), such apportionment to be made by lot.
-
-(3)(A) Subject to the limitations in subparagraphs (B) and (C) of this paragraph, members of the Board may be reappointed, provided that no member may serve more than 2 consecutive terms.
-
-(B) Members of the Board covered under paragraph (2)(A) of this subsection shall not be eligible for reappointment to the Board. Members of the Board covered under subparagraphs (B) and (C) of paragraph (2) of this subsection may be reappointed for 1 additional consecutive 4 year term.
-
-(C) Members of the Board who serve as chairman of the Board shall not have the time during which they serve as chairman used in the computation of their period of service for purposes of this paragraph and paragraph (2).
+(B) Subparagraph (A) shall apply to appointments made to the Board on or after July 7, 2010.
 
 #### (c) Vacancies in membership
 
@@ -66,7 +60,7 @@ The Board shall meet at least twice a year at the call of the Chairman (with at 
 
 #### (g) Chairman and Vice Chairman
 
-The Chairman and the Vice Chairman of the Board shall be elected from among the membersof the Board by a majority vote of the Board for such terms as the Board determines. The Vice Chairman shall perform the duties of the Chairman in his absence.
+The Chairman and the Vice Chairman of the Board shall be elected from among the members of the Board by a majority vote of the Board for such terms as the Board determines. The Vice Chairman shall perform the duties of the Chairman in his absence.
 
 #### (h) Appointment, functions, etc., of committees; membership
 
@@ -82,9 +76,11 @@ The Board shall establish such bylaws and other regulations as may be appropriat
 
 Any member of the Board who fails to attend 4 consecutive Board meetings scheduled pursuant to the bylaws of the Board and for which proper notice has been given under such bylaws, or to send a designee of such member (approved in advance by the Board under provisions of its bylaws), is, by operation of this subsection, removed, for cause, from the Board as of the date of the last meeting from which they are absent. The Chairman of the Board shall take such steps as are necessary to inform members who have 3 absences of this subsection. The Chairman shall notify the House and the Senate, including the appropriate committees of each body, whenever there is a vacancy created by the operation of this subsection.
 
-(Pub. L. 96–114, title I, §103, formerly §4, Nov. 16, 1979, 93 Stat. 852; Pub. L. 98–33, §1, May 25, 1983, 97 Stat. 194; Pub. L. 99–161, §§2, 4(d), (e), Nov. 25, 1985, 99 Stat. 934, 935; Pub. L. 100–674, §2(b), Nov. 17, 1988, 102 Stat. 3996; Pub. L. 101–525, §§4–6, Nov. 6, 1990, 104 Stat. 2305, 2306; Pub. L. 106–63, §1(b), Oct. 1, 1999, 113 Stat. 510; renumbered title I, §103, and amended Pub. L. 106–533, §1(b)(1), (2), (5), Nov. 22, 2000, 114 Stat. 2553, 2554; Pub. L. 109–143, §1(c)(1), Dec. 22, 2005, 119 Stat. 2659.)
+(Pub. L. 96–114, title I, §103, formerly §4, Nov. 16, 1979, 93 Stat. 852; Pub. L. 98–33, §1, May 25, 1983, 97 Stat. 194; Pub. L. 99–161, §§2, 4(d), (e), Nov. 25, 1985, 99 Stat. 934, 935; Pub. L. 100–674, §2(b), Nov. 17, 1988, 102 Stat. 3996; Pub. L. 101–525, §§4–6, Nov. 6, 1990, 104 Stat. 2305, 2306; Pub. L. 106–63, §1(b), Oct. 1, 1999, 113 Stat. 510; renumbered title I, §103, and amended Pub. L. 106–533, §1(b)(1), (2), (5), Nov. 22, 2000, 114 Stat. 2553, 2554; Pub. L. 109–143, §1(c)(1), Dec. 22, 2005, 119 Stat. 2659; Pub. L. 111–200, §2(b), July 7, 2010, 124 Stat. 1368.)
 
 #### Amendments
+
+2010—Subsec. (b). Pub. L. 111–200 added subsec. (b) and struck out former subsec. (b) which related to terms of appointed members and reappointment of members.
 
 2005—Subsec. (a)(1)(B), (C). Pub. L. 109–143, §1(c)(1)(A), substituted “a local” for “a a local”.
 
@@ -126,7 +122,7 @@ Subsec. (b). Pub. L. 98–33, §1(b), designated existing provisions as par. (1)
 
 #### Transition Provisions
 
-Section 3 of Pub. L. 100–674 provided that: “Not later than 120 days after the date of the enactment of this Act \[Nov. 17, 1988\], the congressional leadership shall appoint members to fill vacancies on the CongressionalAward Board in accordance with section 4(a) of the Congressional Award Act \[2 U.S.C. 803(a)\] (as amended by section 2(b)). In filling such vacancies, the congressional leadership shall first appoint members from the Congressional Award Association and local Congressional Award Councils in accordance with section 4(a) of the Congressional Award Act (as amended by section 2(b)).”
+Section 3 of Pub. L. 100–674 provided that: “Not later than 120 days after the date of the enactment of this Act \[Nov. 17, 1988\], the congressional leadership shall appoint members to fill vacancies on the Congressional Award Board in accordance with section 4(a) of the Congressional Award Act \[2 U.S.C. 803(a)\] (as amended by section 2(b)). In filling such vacancies, the congressional leadership shall first appoint members from the Congressional Award Association and local Congressional Award Councils in accordance with section 4(a) of the Congressional Award Act (as amended by section 2(b)).”
 
 #### Exceptional Terms for Certain Board Members
 

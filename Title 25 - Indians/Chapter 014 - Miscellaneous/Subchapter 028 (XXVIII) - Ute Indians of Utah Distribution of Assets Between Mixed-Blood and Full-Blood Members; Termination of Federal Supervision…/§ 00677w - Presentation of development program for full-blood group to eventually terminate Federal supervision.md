@@ -6,5 +6,5 @@ Within three months after August 27, 1954, the business committee of the tribe r
 
 #### Amendments
 
-1975—Pub. L. 93–608 struck out requirement of an annual progress report, through the Secretary, by the tribal business committee representing the full-blood group.
+<b>1975</b>—Pub. L. 93–608 struck out requirement of an annual progress report, through the Secretary, by thetribal business committee representing the full-blood group.
 

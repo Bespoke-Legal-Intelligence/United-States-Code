@@ -62,6 +62,22 @@ Qualified areas.—In this paragraph, the term “qualified area” means—
 
 &emsp;&emsp;(iii) any foreign country which included a combat zone, as that term is defined in section 112(c)(2) of title 26, at the time of performance of the relevant Federal contract or subcontract.
 
+(5)
+
+Alternative Size Standard.—
+
+&emsp;(A)
+
+In general.—The Administrator shall establish an alternative size standard for applicants for business loans under section 636(a) of this title and applicants for development company loans under title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.), that uses maximum tangible net worth and average net income as an alternative to the use of industry standards.
+
+&emsp;(B)
+
+Interim rule.—Until the date on which the alternative size standard established under subparagraph (A) is in effect, an applicant for a business loan under section 636(a) of this title or an applicant for a development company loan under title V of the Small Business Investment Act of 1958 may be eligible for such a loan if—
+
+&emsp;&emsp;(i) the maximum tangible net worth of the applicant is not more than $15,000,000; and
+
+&emsp;&emsp;(ii) the average net income after Federal income taxes (excluding any carry-over losses) of the applicant for the 2 full fiscal years before the date of the application is not more than $5,000,000.
+
 #### (b) “Agency” defined
 
 For purposes of this chapter, any reference to an agency or department of the United States, and the term “Federal agency”, shall have the meaning given the term “agency” by section 551(1) of title 5, but does not include the United States Postal Service or the Government Accountability Office.
@@ -106,7 +122,7 @@ For purposes of this chapter, any reference to an agency or department of the Un
 
 #### (d) “Qualified Indian tribe” defined
 
-For purposes of section 636 of this title, the term “qualified Indian tribe” means an Indian tribe as defined in section 450b(e) of title 25,which owns and controls 100 per centum of a small business concern.
+For purposes of section 636 of this title, the term “qualified Indian tribe” means an Indian tribe as defined in section 450b(e) of title 25, which owns and controls 100 per centum of a small business concern.
 
 #### (e) “Public or private organization for the handicapped” defined
 
@@ -182,13 +198,13 @@ For purposes of this chapter—
 
 #### (m) “Simplified acquisition threshold” defined
 
-For purposes of this chapter, the term “simplified acquisition threshold” has the meaning given such term in section 403(11) of title 41.
+For purposes of this chapter, the term “simplified acquisition threshold” has the meaning given such term in section 134 of title 41.
 
 #### (n) “Small business concern owned and controlled by women” defined
 
 For the purposes of this chapter, a small business concern is a small business concern owned and controlled by women if—
 
-&emsp;(1) at least 51 percent of small business concern is owned by one or more women or, in the case of any publicly owned business, at least 51 percent of the stock of which is owned by one or more women; and
+&emsp;(1) at least 51 percent of small business concern is owned by one or more women or, in thecase of any publicly owned business, at least 51 percent of the stock of which is owned by one or more women; and
 
 &emsp;(2) the management and daily business operations of the business are controlled by one or more women.
 
@@ -346,7 +362,7 @@ In this chapter:
 
 #### (C) Construction and other contracts
 
-&emsp;&emsp;The Administrator shall promulgate final regulations imposing requirements that aresimilar to those specified in items (aa) and (bb) of subparagraph (A)(i)(III) on contracts for general and specialty construction, and on contracts for any other industry category that would not otherwise be subject to those requirements. The percentage applicable to any such requirement shall be determined in accordance with subparagraph (B).
+&emsp;&emsp;The Administrator shall promulgate final regulations imposing requirements that are similar to those specified in items (aa) and\(bb) of subparagraph (A)(i)(III) on contracts for general and specialty construction, and on contracts for any other industry category that would not otherwise be subject to those requirements. The percentage applicable to any such requirement shall be determined in accordance with subparagraph (B).
 
 #### (D) List of qualified small business concerns
 
@@ -460,13 +476,83 @@ As used in section 650 of this title:
 
 In this chapter, the term “major disaster” has the meaning given that term in section 5122 of title 42.
 
-(Pub. L. 85–536, §2\[3\], July 18, 1958, 72 Stat. 384; Pub. L. 94–305, title I, §112(b), June 4, 1976, 90 Stat. 667; Pub. L. 95–507, title II, §224(b), Oct. 24, 1978, 92 Stat. 1772; Pub. L. 96–302, title V, §504, July 2, 1980, 94 Stat. 851; Pub. L. 96–481, title I, §108, Oct. 21, 1980, 94 Stat. 2323; Pub. L. 97–35, title XIX, §1903, Aug. 13, 1981, 95 Stat. 771; Pub. L. 98–270, title III, §310, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–362, §6, July 16, 1984, 98 Stat. 434; Pub. L. 98–473, title I, §111A(b), Oct. 12, 1984, 98 Stat. 1966; Pub. L. 99–272, title XVIII, §18016, Apr. 7, 1986, 100 Stat. 371; Pub. L. 99–500, §101(c) \[title X, §921(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–149, and Pub. L. 99–591, §101(c) \[title X, §921(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–149; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–661, div. A, title IX, formerly title IV, §921(f), Nov. 14, 1986, 100 Stat. 3929, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(2), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–456, div. A, title VIII, §845, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 100–590, title I, §119(b), Nov. 3, 1988, 102 Stat. 2999; Pub. L. 100–656, title VII, §732, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 101–510, div. A, title VIII, §806(e)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–366, title II, §222(a), Sept. 4, 1992, 106 Stat. 999; Pub. L. 103–355, title IV, §4404(a), title VII, §7106(d), Oct. 13, 1994, 108 Stat. 3349, 3376; Pub. L. 103–403, title III, §301, Oct. 22, 1994, 108 Stat. 4187; Pub. L. 104–208, div. D, title I, §104(b)(1), Sept. 30, 1996, 110 Stat. 3009–730; Pub. L. 105–135, title IV, §412, title VI, §602(a), Dec. 2, 1997, 111 Stat. 2617, 2627; Pub. L. 106–50, title I, §103(a), title IV, §401(a), Aug. 17, 1999, 113 Stat. 234, 243; Pub. L. 106–554, §1(a)(9) \[title VI, §§602–604, 611, 612(b)–615(a), title VIII, §806(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–697 to 2763A–701, 2763A–706; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–447, div. K, title I, §§151, 152(a)(1), (3)–(c)(1), 162, Dec. 8, 2004, 118 Stat. 3456, 3457, 3465; Pub. L. 109–59, title X, §10203, Aug. 10, 2005, 119 Stat. 1933; Pub. L. 109–163, div. A, title VIII, §§844, 845(a)(1), Jan. 6, 2006, 119 Stat. 3389, 3390; Pub. L. 110–186, title II, §205, Feb. 14, 2008, 122 Stat. 629; Pub. L. 110–234, title XII, §§12063(c)(1), 12071, May 22, 2008, 122 Stat. 1408, 1411; Pub. L. 110–246, §4(a), title XII, §§12063(c)(1), 12071, June 18, 2008, 122 Stat. 1664, 2170, 2173.)
+#### (t) Small business development center
+
+In this chapter, the term “small business development center” means a small business development center described in section 648 of this title.
+
+#### (u) Region of the Administration
+
+In this chapter, the term “region of the Administration” means the geographic area served by a regional office of the Administration established under section 633(a) of this title.
+
+#### (v) Multiple award contract
+
+In this chapter, the term “multiple award contract” means—
+
+&emsp;(1) a multiple award task order contract or delivery order contract that is entered into under the authority of sections 4101, 4103, 4105, and 4106 of title 41; and
+
+&emsp;(2) any other indefinite delivery, indefinite quantity contract that is entered into by the head of a Federal agency with 2 or more sources pursuant to the same solicitation.
+
+#### (w) Presumption
+
+#### (1) In general
+
+&emsp;In every contract, subcontract, cooperative agreement, cooperative research and development agreement, or grant which is set aside, reserved, or otherwise classified as intended for award to small business concerns, there shall be a presumption of loss to the United States based on the total amount expended on the contract, subcontract, cooperative agreement, cooperative research and development agreement, or grant whenever it is established that a business concern other than a small business concern willfully sought and received the award by misrepresentation.
+
+#### (2) Deemed certifications
+
+&emsp;The following actions shall be deemed affirmative, willful, and intentional certifications of small business size and status:
+
+&emsp;&emsp;(A) Submission of a bid or proposal for a Federal grant, contract, subcontract, cooperative agreement, or cooperative research and development agreement reserved, set aside, or otherwise classified as intended for award to small business concerns.
+
+&emsp;&emsp;(B) Submission of a bid or proposal for a Federal grant, contract, subcontract, cooperative agreement, or cooperative research and development agreement which in any way encourages a Federal agency to classify the bid or proposal, if awarded, as an award to a small business concern.
+
+&emsp;&emsp;(C) Registration on any Federal electronic database for the purpose of being considered for award of a Federal grant, contract, subcontract, cooperative agreement, or cooperative research agreement, as a small business concern.
+
+#### (3) Certification by signature of responsible official
+
+#### (A) In general
+
+&emsp;&emsp;Each solicitation, bid, or application for a Federal contract, subcontract, or grant shall contain a certification concerning the small business size and status of a business concern seeking the Federal contract, subcontract, or grant.
+
+#### (B) Content of certifications
+
+&emsp;&emsp;A certification that a business concern qualifies as a small business concern of the exact size and status claimed by the business concern for purposes of bidding on a Federal contract or subcontract, or applying for a Federal grant, shall contain the signature of an authorized official on the same page on which the certification is contained.
+
+#### (4) Regulations
+
+&emsp;The Administrator shall promulgate regulations to provide adequate protections to individuals and business concerns from liability under this subsection in cases of unintentional errors, technical malfunctions, and other similar situations.
+
+#### (x) Annual certification
+
+#### (1) In general
+
+&emsp;Each business certified as a small business concern under this chapter shall annually certify its small business size and, if appropriate, its small business status, by means of a confirming entry on the Online Representations and Certifications Application database of the Administration, or any successor thereto.
+
+#### (2) Regulations
+
+&emsp;Not later than 1 year after September 27, 2010, the Administrator, in consultation with the Inspector General and the Chief Counsel for Advocacy of the Administration, shall promulgate regulations to ensure that—
+
+&emsp;&emsp;(A) no business concern continues to be certified as a small business concern on the Online Representations and Certifications Application database of the Administration, or any successor thereto, without fulfilling the requirements for annual certification under this subsection; and
+
+&emsp;&emsp;(B) the requirements of this subsection are implemented in a manner presenting the least possible regulatory burden on small business concerns.
+
+#### (y) Policy on prosecutions of small business size and status fraud
+
+Not later than 1 year after September 27, 2010, the Administrator, in consultation with the Attorney General, shall issue a Government-wide policy on prosecution of small business size and status fraud, which shall direct Federal agencies to appropriately publicize the policy.
+
+#### (z) Aquaculture business disaster assistance
+
+Subject to section 647(a) of this title and notwithstanding section 647(b)(1) of this title, the Administrator may provide disaster assistance under section 636(b)(2) of this title to aquaculture enterprises that are small businesses.
+
+(Pub. L. 85–536, §2\[3\], July 18, 1958, 72 Stat. 384; Pub. L. 94–305, title I, §112(b), June 4, 1976, 90 Stat. 667; Pub. L. 95–507, title II, §224(b), Oct. 24, 1978, 92 Stat. 1772; Pub. L. 96–302, title V, §504, July 2, 1980, 94 Stat. 851; Pub. L. 96–481, title I, §108, Oct. 21, 1980, 94 Stat. 2323; Pub. L. 97–35, title XIX, §1903, Aug. 13, 1981, 95 Stat. 771; Pub. L. 98–270, title III, §310, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–362, §6, July 16, 1984, 98 Stat. 434; Pub. L. 98–473, title I, §111A(b), Oct. 12, 1984, 98 Stat. 1966; Pub. L. 99–272, title XVIII, §18016, Apr. 7, 1986, 100 Stat. 371; Pub. L. 99–500, §101(c) \[title X, §921(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–149, and Pub. L. 99–591, §101(c) \[title X, §921(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–149; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–661, div. A, title IX, formerly title IV, §921(f), Nov. 14, 1986, 100 Stat. 3929, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(2), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–456, div. A, title VIII, §845, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 100–590, title I, §119(b), Nov. 3, 1988, 102 Stat. 2999; Pub. L. 100–656, title VII, §732, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 101–510, div. A, title VIII, §806(e)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–366, title II, §222(a), Sept. 4, 1992, 106 Stat. 999; Pub. L. 103–355, title IV, §4404(a), title VII, §7106(d), Oct. 13, 1994, 108 Stat. 3349, 3376; Pub. L. 103–403, title III, §301, Oct. 22, 1994, 108 Stat. 4187; Pub. L. 104–208, div. D, title I, §104(b)(1), Sept. 30, 1996, 110 Stat. 3009–730; Pub. L. 105–135, title IV, §412, title VI, §602(a), Dec. 2, 1997, 111 Stat. 2617, 2627; Pub. L. 106–50, title I, §103(a), title IV, §401(a), Aug. 17, 1999, 113 Stat. 234, 243; Pub. L. 106–554, §1(a)(9) \[title VI, §§602–604, 611, 612(b)–615(a), title VIII, §806(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–697 to 2763A–701, 2763A–706; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–447, div. K, title I, §§151, 152(a)(1), (3)–(c)(1), 162, Dec. 8, 2004, 118 Stat. 3456, 3457, 3465; Pub. L. 109–59, title X, §10203, Aug. 10, 2005, 119 Stat. 1933; Pub. L. 109–163, div. A, title VIII, §§844, 845(a)(1), Jan. 6, 2006, 119 Stat. 3389, 3390; Pub. L. 110–186, title II, §205, Feb. 14, 2008, 122 Stat. 629; Pub. L. 110–234, title XII, §§12063(c)(1), 12071, May 22, 2008, 122 Stat. 1408, 1411; Pub. L. 110–246, §4(a), title XII, §§12063(c)(1), 12071, June 18, 2008, 122 Stat. 1664, 2170, 2173; Pub. L. 111–240, title I, §§1116, 1202(b)(1), 1311, 1341, 1342, 1343(b), 1501, Sept. 27, 2010, 124 Stat. 2509, 2521, 2536, 2543–2545, 2550.)
 
 #### References in Text
 
+The Small Business Investment Act of 1958, referred to in subsec. (a)(5), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689. Title V of the Act is classified generally to subchapter V (§695 et seq.) of chapter 14B of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
+
 The Agricultural Marketing Act (12 U.S.C. 1141j), referred to in subsec. (j), is act June 15, 1929, ch. 24, 46 Stat. 11, which is classified generally to chapter 7A (§1141 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1141j(e) of Title 12 and Tables.
 
-The Community Economic Development Act of 1981, referred to in subsec. (p)(3)(D)(i), is subchapter A (§§611–633) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 489, as amended. Part 1 of subchapter A of the Act is classified generally to part A (§9805 et seq.) of subchapter I of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+The Community Economic Development Act of 1981, referred to in subsec. (p)(3)(D)(i), is subchapter A (§§611–633) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 489. Part 1 of subchapter A of the Act is classified generally to part A (§9805 et seq.) of subchapter I of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
 Subpar. (C) of section 42(d)(5) of title 26, referred to in subsec. (p)(4)(A), (B)(i), (ii)(III), was redesignated (B) by Pub. L. 110–289, div. C, title I, §3003(g)(3), July 30, 2008, 122 Stat. 2882.
 
@@ -476,29 +562,47 @@ The Federal Credit Reform Act of 1990, referred to in subsec. (q)(5)(C), is titl
 
 “Section 450b(e) of title 25”, referred to in subsec. (d), was in the original “section 4(a) of the Indian Self-Determination and Education Assistance Act” which is classified to section 450b(a) of Title 25, Indians, but has been editorially translated as section 450b(e) of Title 25 as the probable intent of Congress, in that the definition of “Indian Tribes” is set out in subsec. (e) of section 450b of Title 25.
 
+In subsec. (m), “section 134 of title 41” substituted for “section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (v)(1), “sections 4101, 4103, 4105, and 4106 of title 41” substituted for “sections 303H through 303K of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253h through 253k)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Prior Provisions
 
-Prior similar provisions were contained in section 203 of act July 30, 1953, ch. 282, title II, 67 Stat. 233, which was previously classified to this section. See Codification note set out under section 631 of this title.
+Prior similar provisions were contained in section 203 of act July 30, 1953, ch. 282, title II, 67 Stat. 233, whichwas previously classified to this section. See Codification note set out under section 631 of this title.
 
 #### Amendments
 
-2008—Subsec. (k)(2)(C). Pub. L. 110–246, §12071, added subpar. (C).
+<b>2010</b>—Subsec. (a)(5). Pub. L. 111–240, §1116, added par. (5).
+
+Subsecs. (t), (u). Pub. L. 111–240, §1202(b)(1), added subsecs. (t) and (u).
+
+Subsec. (v). Pub. L. 111–240, §1311, added subsec. (v).
+
+Subsec. (w). Pub. L. 111–240, §1341, added subsec. (w).
+
+Subsec. (x). Pub. L. 111–240, §1342, added subsec. (x).
+
+Subsec. (y). Pub. L. 111–240, §1343(b), added subsec. (y).
+
+Subsec. (z). Pub. L. 111–240, §1501, added subsec. (z).
+
+<b>2008</b>—Subsec. (k)(2)(C). Pub. L. 110–246, §12071, added subpar. (C).
 
 Subsec. (q)(5). Pub. L. 110–186 added par. (5).
 
 Subsec. (s). Pub. L. 110–246, §12063(c)(1), added subsec. (s).
 
-2006—Subsec. (a)(4). Pub. L. 109–163, §844, added par. (4).
+<b>2006</b>—Subsec. (a)(4). Pub. L. 109–163, §844, added par. (4).
 
 Subsec. (k). Pub. L. 109–163, §845(a)(1), designated existing provisions as par. (1) and added par. (2).
 
-2005—Subsec. (p)(4)(B)(ii)(III). Pub. L. 109–59 added subcl. (III).
+<b>2005</b>—Subsec. (p)(4)(B)(ii)(III). Pub. L. 109–59 added subcl. (III).
 
-2004—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 Subsec. (j). Pub. L. 108–447, §151(b), struck out “of section 636(b)(2)” after “For the purposes”.
 
@@ -524,7 +628,7 @@ Subsec. (p)(5)(A)(i)(I)(aa). Pub. L. 108–447, §151(a)(2), substituted “(C),
 
 Subsec. (r). Pub. L. 108–447, §162, added subsec. (r).
 
-2000—Subsec. (a)(1). Pub. L. 106–554, §1(a)(9) \[title VIII, §806(b)\], substituted “$750,000” for “$500,000”.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–554, §1(a)(9) \[title VIII, §806(b)\], substituted “$750,000” for “$500,000”.
 
 Subsec. (p)(1)(D). Pub. L. 106–554, §1(a)(9) \[title VI, §613(1)\], added subpar. (D).
 
@@ -562,17 +666,17 @@ Subsec. (p)(6). Pub. L. 106–554, §1(a)(9) \[title VI, §604\], added par. (6)
 
 Subsec. (p)(7). Pub. L. 106–554, §1(a)(9) \[title VI, §612(b)(2)\], added par. (7).
 
-1999—Subsec. (f). Pub. L. 106–50, §401(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “For purposes of section 636 of this title, the term ‘handicapped individual’ means a person who has a physical, mental, or emotional impairment, defect, ailment, disease, or disability of a permanent nature which in any way limits the selection of any type of employment for which the person would otherwise be qualified or qualifiable.”
+<b>1999</b>—Subsec. (f). Pub. L. 106–50, §401(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “For purposes of section 636 of this title, the term ‘handicapped individual’ means a person who has a physical, mental, or emotional impairment, defect, ailment, disease, or disability of a permanent nature which in any way limits the selection of any type of employment for which the person would otherwise be qualified or qualifiable.”
 
 Subsec. (q). Pub. L. 106–50, §103(a), added subsec. (q).
 
-1997—Subsec. (<i>o</i>). Pub. L. 105–135, §412, added subsec. (<i>o</i>).
+<b>1997</b>—Subsec. (<i>o</i>). Pub. L. 105–135, §412, added subsec. (<i>o</i>).
 
 Subsec. (p). Pub. L. 105–135, §602(a), added subsec. (p).
 
-1996—Subsec. (k). Pub. L. 104–208 inserted “commercial fishery failures or fishery resource disasters (as determined by the Secretary of Commerce under section 4107(b) of title 16),” after “tidal waves,”.
+<b>1996</b>—Subsec. (k). Pub. L. 104–208 inserted “commercial fishery failures or fishery resource disasters (as determined by the Secretary of Commerce under section 4107(b) of title 16),” after “tidal waves,”.
 
-1994—Subsec. (a)(2). Pub. L. 103–403 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In addition to the criteria specified in paragraph (1), the Administrator may specify detailed definitions or standards (by number of employees or dollar volume of business) by which a business concern is to be recognized as a small business concern for the purposes of this chapter or any other Act. Unless specifically authorized by statute, the Secretary of a department or the head of a Federal agency may not prescribe for the use of such department or agency a size standard for categorizing a business concern as a small business concern, unless such proposed size standard—
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–403 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In addition to the criteria specified in paragraph (1), the Administrator may specify detailed definitions or standards (by number of employees or dollar volume of business) by which a business concern is to be recognized as a small business concern for the purposes of this chapter or any other Act. Unless specifically authorized by statute, the Secretary of a department or the head of a Federal agency may not prescribe for the use of such department or agency a size standard for categorizing a business concern as a small business concern, unless such proposed size standard—
 
 &emsp;“(A) is being proposed after an opportunity for public notice and comment;
 
@@ -588,43 +692,43 @@ Subsec. (m). Pub. L. 103–355, §4404(a), substituted “ ‘simplified acquis
 
 Subsec. (n). Pub. L. 103–355, §7106(d), added subsec. (n).
 
-1992—Subsec. (a). Pub. L. 102–366 added pars. (2) and (3) and struck out at end of par. (1) “In addition to theforegoing criteria the Administrator, in making a detailed definition, may use these criteria, among others: Number of employees and dollar volume of business: <i>Provided</i>, That the Administration shall not promulgate, amend, or rescind any rule \[or\] regulation with respect to size standards prior to March 31, 1981. Where the number of employees is used as one of the criteria in making such definition for any of the purposes of this chapter, the maximum number of employees which a small-business concern may have under the definition shall vary from industry to industry to the extent necessary to reflect differing characteristics of such industries and to take proper account of other relevant factors.”
+<b>1992</b>—Subsec. (a). Pub. L. 102–366 added pars. (2) and (3) and struck out at end of par. (1) “In addition to the foregoing criteria the Administrator, in making a detailed definition, may use these criteria, among others: Number of employees and dollar volume of business: <i>Provided</i>, That the Administration shall not promulgate, amend, or rescind any rule \[or\] regulation with respect to size standards prior to March 31, 1981. Where the number of employees is used as one of the criteria in making such definition for any of the purposes of this chapter, the maximum number of employees which a small-business concern may have under the definition shall vary from industry to industry to the extent necessary to reflect differing characteristics of such industries and to take proper account of other relevant factors.”
 
-1990—Subsec. (m). Pub. L. 101–510 added subsec. (m).
+<b>1990</b>—Subsec. (m). Pub. L. 101–510 added subsec. (m).
 
-1988—Subsec. (a). Pub. L. 100–656 struck out pars. (2) to (5) which established a program for review of size standards for eligibility of business concerns in certain industry categories for a procurement restricted to small business concerns under section 637(a) or 644(a) of this title and provided for adjustment of those standards and periodic review of the program.
+<b>1988</b>—Subsec. (a). Pub. L. 100–656 struck out pars. (2) to (5) which established a program for review of size standards for eligibility of business concerns in certain industry categories for a procurement restricted to small business concerns under section 637(a) or 644(a) of this title and provided for adjustment of those standards and periodic review of the program.
 
 Pub. L. 100–456 inserted provisions in par. (4)(C) respecting applicability of regulations to contracts entered into on or after Oct. 1, 1988.
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 100–590 added subsec. (k) and redesignated subsec. (j), defining “computer crime”, as (<i>l</i>).
 
-1987—Subsec. (a)(3). Pub. L. 100–26, §10(b)(2)(A), substituted “dollar value of the contracts to be awarded in that industry category” for “value of contracts to be awarded under such sections”.
+<b>1987</b>—Subsec. (a)(3). Pub. L. 100–26, §10(b)(2)(A), substituted “dollar value of the contracts to be awarded in that industry category” for “value of contracts to be awarded under such sections”.
 
 Subsec. (a)(4)(A)(i). Pub. L. 100–26, §10(b)(2)(B), substituted “paragraph (3)” for “paragraph (3)(A)”.
 
 Subsec. (a)(5). Pub. L. 100–26, §10(b)(2)(C), substituted “shall be made not later than 180 days after the end of each such” for “made with the expiration of 180 days after each”.
 
-1986—Subsec. (a). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended subsec. (a) identically designating existing provision as par. (1) and adding pars. (2) to (5).
+<b>1986</b>—Subsec. (a). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended subsec. (a) identically designating existing provision as par. (1) and adding pars. (2) to (5).
 
 Pub. L. 99–272 inserted proviso that notwithstanding any other provision of law, an agricultural enterprise shall be deemed to be a small business concern if it, including its affiliates, has annual receipts not in excess of $500,000.
 
 Subsec. (c)(2)(A), (3)(B)(i), (iv). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1984—Subsec. (j). Pub. L. 98–473 in subsec. (j) added by Pub. L. 98–270 substituted “as a business concern and shall not include the income or employees of any member shareholder of such cooperative” for “as an entity and shall not include the income or employees of any member shareholder of such cooperative: <i>Provided</i>, That such an association shall not be deemed to be a small agricultural cooperative unless each member of the board of directors of the association, or each member of the governing body of the association if it is not incorporated, also individually qualifies as a small business concern”.
+<b>1984</b>—Subsec. (j). Pub. L. 98–473 in subsec. (j) added by Pub. L. 98–270 substituted “as a business concern and shall not include the income or employees of any member shareholder of such cooperative” for “as an entity and shall not include the income or employees of any member shareholder of such cooperative: <i>Provided</i>, That such an association shall not be deemed to be a small agricultural cooperative unless each member of the board of directors of the association, or each member of the governing body of the association if it is not incorporated, also individually qualifies as a small business concern”.
 
 Pub. L. 98–362 added subsec. (j) defining “computer crime”.
 
 Pub. L. 98–270 added subsec. (j) defining “small agricultural cooperative”.
 
-1981—Subsecs. (d) to (i). Pub. L. 97–35 added subsecs. (d) to (i).
+<b>1981</b>—Subsecs. (d) to (i). Pub. L. 97–35 added subsecs. (d) to (i).
 
-1980—Subsec. (a). Pub. L. 96–481, in the additional criteria inserted proviso that the Administration shall not promulgate, amend, or rescind any rule or regulation with respect to size standards prior to March 31, 1981.
+<b>1980</b>—Subsec. (a). Pub. L. 96–481, in the additional criteria inserted proviso that the Administration shall not promulgate, amend, or rescind any rule or regulation with respect to size standards prior to March 31, 1981.
 
 Subsec. (c). Pub. L. 96–302 added subsec. (c).
 
-1978—Pub. L. 95–507 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1978</b>—Pub. L. 95–507 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1976—Pub. L. 94–305 inserted reference to enterprises that are engaged in business of production of food and fiber, ranching and raising of livestock, aquaculture, and all other farming and agricultural related industries.
+<b>1976</b>—Pub. L. 94–305 inserted reference to enterprises that are engaged in business of production of food and fiber, ranching and raising of livestock, aquaculture, and all other farming and agricultural related industries.
 
 #### Effective Date of 2008 Amendment
 
@@ -640,7 +744,7 @@ Section 104(b)(2) of div. D of Pub. L. 104–208 provided that: “The amendment
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of Title 10, Armed Forces.
 
 #### Effective Date of 1987 Amendment
 
@@ -660,7 +764,7 @@ Initial Review of Size Standards.—(1) Paragraph (2) of section 3(a) of the Sma
 
 “(2) The first review conducted by the Administrator under such paragraph shall review the periods beginning on October 1, 1983, and ending on September 30, 1986, and shall be completed not later than 180 days after the date of the enactment of this Act.
 
-“(3) If the Administrator of the Small Business Administration determines, on the basis of the review referred to in paragraph (2), that contracts awarded under the set-aside programs under sections 8(a) and 15(a) of the Small Business Act \[15 U.S.C. 637(a), 644(a)\] in any industry category subject to that review exceed 30 percent of the dollar value of the total contract awards for that industry category, as determined in accordance with the last sentence of section 15(a)(3) of such Act, the Administrator shall propose adjustments to the size standards for such industry category establishing eligibility for a set-aside program to a size that will likely reduce the number of contracts which maybe set aside to approximately 30 percent of the dollar value of the contracts to be awarded in that industry category. The Administrator shall publish proposed regulations, including any revised size standards, in the Federal Register by November 30, 1987, or the date of enactment of the National Defense Authorization Act for Fiscal Years 1988 and 1989 \[Pub. L. 100–180, Dec. 4, 1987\], whichever is later. The proposed regulations shall provide not less than 60 days for public comment. The Administrator shall issue final regulations not later than May 31, 1988.
+“(3) If the Administrator of the Small Business Administration determines, on the basis of the review referred to in paragraph (2), that contracts awarded under the set-aside programs under sections 8(a) and 15(a) of the Small Business Act \[15 U.S.C. 637(a), 644(a)\] in any industry category subject to that review exceed 30 percent of the dollar value of the total contract awards for that industry category, as determined in accordance with the last sentence of section 15(a)(3) of such Act, the Administrator shall propose adjustments to the size standards for such industry category establishing eligibility for a set-aside program to a size that will likely reduce the number of contracts which may be set aside to approximately 30 percent of the dollar value of the contracts to be awarded in that industry category. The Administrator shall publish proposed regulations, including any revised size standards, in the Federal Register by November 30, 1987, or the date of enactment of the National Defense Authorization Act for Fiscal Years 1988 and 1989 \[Pub. L. 100–180, Dec. 4, 1987\], whichever is later. The proposed regulations shall provide not less than 60 days for public comment. The Administrator shall issue final regulations not later than May 31, 1988.
 
 #### Effective Date of 1984 Amendments
 
@@ -702,17 +806,87 @@ In general.—Not later than 180 days after the date of enactment of this Act \[
 
 Listing of additional size standards.—The regulations required by paragraph (1) shall include a listing of all small business size standards prescribed by statute or by individual Federal departments and agencies, identifying the programs or purposes to which such size standards apply.”
 
+#### Prohibition on Using TARP Funds or Tax Increases
+
+Pub. L. 111–240, title I, §1136, Sept. 27, 2010, 124 Stat. 2520, provided that:
+
+“(a)
+
+In General.—Except as provided in subsection (b), nothing in section 1111 \[amending section 636 of this title and enacting provisions set out as a note under section 636 of this title\], 1112 \[amending section 696 of this title\], 1113 \[amending section 636 of this title\], 1114 \[124 Stat. 2508\], 1115 \[amending section 689d of this title\], 1116 \[amending this section\], 1117 \[amending section 634 of this title\], 1118 \[124 Stat. 2509\], 1122 \[amending section 696 of this title and enacting provisions set out as a note under section 696 of this title\], or 1131 \[amending section 636 of this title and enacting provisions set out as notes under section 636 of this title\], or an amendment made by such sections, shall be construed to limit the ability of Congress to appropriate funds.
+
+“(b)
+
+TARP Funds and Tax Increases.—
+
+&emsp;“(1)
+
+In general.—Any covered amounts may not be used to carry out section 1111, 1112, 1113, 1114, 1115, 1116, 1117, 1118, 1122, or 1131, or an amendment made by such sections.
+
+&emsp;“(2)
+
+Definition.—In this subsection, the term ‘covered amounts’ means—
+
+&emsp;&emsp;“(A) the amounts made available to the Secretary of the Treasury under title I of the Emergency Economic Stabilization Act of 2008 S.C. \[sic\] 5201 et seq.) \[12 U.S.C. 5211 et seq.\] to purchase (under section 101 \[12 U.S.C. 5211\]) or guarantee (under section 102 \[12 U.S.C. 5212\]) assets under that Act \[12 U.S.C. 5201 et seq.\]; and
+
+&emsp;&emsp;“(B) any revenue increase attributable to any amendment to the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\] made during the period beginning on the date of enactment of this Act \[Sept. 27, 2010\] and ending on December 31, 2010.”
+
+#### Updated Size Standards
+
+Pub. L. 111–240, title I, §1344, Sept. 27, 2010, 124 Stat. 2545, provided that:
+
+“(a)
+
+Rolling Review.—
+
+&emsp;“(1)
+
+In general.—The Administrator shall—
+
+&emsp;&emsp;“(A) during the 18-month period beginning on the date of enactment of this Act \[Sept. 27, 2010\], and during every 18-month period thereafter, conduct a detailed review of not less than 1/3 of the size standards for small business concerns established under section 3(a)(2) of the Small Business Act (15 U.S.C. 632(a)(2)), which shall include holding not less than 2 public forums located in different geographic regions of the United States;
+
+&emsp;&emsp;“(B) after completing each review under subparagraph (A) make appropriate adjustments to the sizestandards established under section 3(a)(2) of the Small Business Act to reflect market conditions;
+
+&emsp;&emsp;“(C) make publicly available—
+
+&emsp;&emsp;&emsp;“(i) information regarding the factors evaluated as part of each review conducted under subparagraph (A); and
+
+&emsp;&emsp;&emsp;“(ii) information regarding the criteria used for any revised size standards promulgated under subparagraph (B); and
+
+&emsp;&emsp;“(D) not later than 30 days after the date on which the Administrator completes each review under subparagraph (A), submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives and make publicly available a report regarding the review, including why the Administrator—
+
+&emsp;&emsp;&emsp;“(i) used the factors and criteria described in subparagraph (C); and
+
+&emsp;&emsp;&emsp;“(ii) adjusted or did not adjust each size standard that was reviewed under the review.
+
+&emsp;“(2)
+
+Complete review of size standards.—The Administrator shall ensure that each size standard for small business concerns established under section 3(a)(2) of the Small Business Act (15 U.S.C. 632(a)(2)) is reviewed under paragraph (1) not less frequently than once every 5 years.
+
+“(b)
+
+Rules.—Not later than 1 year after the date of enactment of this Act \[Sept. 27, 2010\], the Administrator shall promulgate rules for conducting the reviews required under subsection (a).”
+
+\[For definitions of “Administrator” and “small business concern” as used in section 1344 of Pub. L. 111–240, set out above, see section 1001 of Pub. L. 111–240, set out under this section.\]
+
 #### HUBZone Status Time Line and Commencement
 
 Pub. L. 108–447, div. K, title I, §152(a)(2), Dec. 8, 2004, 118 Stat. 3457, provided that: “A base closure area that has undergone final closure shall be treated as a HUBZone for purposes of the Small Business Act \[15 U.S.C. 631 et seq.\] for a period of 5 years.”
 
 #### Continued Effectiveness of Numerical Size Standards in Effect on September 30, 1988
 
-The last sentence of section 732 of Pub. L. 100–656 which provided that any numerical size standard that pertained to any of the designated industry groups, and that was in effect on Sept. 30, 1988, was to remain in effect for the duration of the Program, was repealed by Pub. L. 103–160, div. A, title VIII, §850(1), Nov. 30, 1993, 107 Stat. 1726. See section 717(f) of Pub. L. 100–656, set out as a note under section 644 of this title.
+The last sentence of section 732 of Pub. L. 100–656 which provided that any numerical size standard that pertained to any of the designated industry groups, and that was in effect on Sept. 30, 1988, was to remain in effect for the duration of the Program, was repealed by Pub. L. 103–160, div. A, title VIII, §850(1), Nov. 30, 1993, 107 Stat. 1726.
 
 #### Report on Effect of 1986 Amendments
 
 Section 101(c) \[title X, §921(i)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 921(i) of title IX, formerly title IV, of Pub. L. 99–661; renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, directed Administrator of the Small Business Administration, not later than July 15, 1987, to submit to Congress a report on the amendments to sections 632, 637, and 644 of this title made by this section which was to include Administrator's views on the advisability and feasibility of implementing such amendments, Administrator's findings and determinations under the review of size standards for businesses that qualify as small businesses carried out pursuant to 15 U.S.C. 632(a)(2)(B), a determination of whether or not the amendments to section 632 of this title would further the interests of the set-aside program, and recommendations for furthering certain interests in a more efficient or effective manner than provided in such amendments.
+
+#### Definitions
+
+Pub. L. 111–240, title I, §1001, Sept. 27, 2010, 124 Stat. 2507, provided that: “In this title \[enacting sections 634g, 648b, and 657q of this title and section 4713a of Title 12, Banks and Banking, amending this section, sections 631, 633, 634, 634c, 636, 637, 644, 648, 649, 656, 657a, 689d, 695, and 696 of this title, section 604 of Title 5, Government Organization and Employees, and section 2382 of Title 10, Armed Forces, repealing former section 634g of this title, enacting provisions set out as notes under this section and sections 631, 636, 637, 644, 649, 649b, and 696 of this title, and sections 428 and 433 of Title 41, Public Contracts, amending provisions set out as notes under section 631 of this title, and repealing provisions set out as notes under section 644 of this title\]—
+
+&emsp;“(1) the terms ‘Administration’ and ‘Administrator’ mean the Small Business Administration and the Administrator thereof, respectively; and
+
+&emsp;“(2) the term ‘small business concern’ has the meaning given that term under section 3 of the Small Business Act (15 U.S.C. 632).”
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

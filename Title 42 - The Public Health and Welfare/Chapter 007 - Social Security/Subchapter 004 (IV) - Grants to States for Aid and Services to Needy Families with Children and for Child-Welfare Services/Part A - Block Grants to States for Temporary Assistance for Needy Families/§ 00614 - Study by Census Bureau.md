@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Bureau of the Census shall continue to collect data on the 1992 and 1993 panels of the Survey of Income and Program Participation as necessary to obtain such information as will enable interested persons to evaluate the impact of the amendments made by title I of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 on a random national sample of recipients of assistance under State programs funded under this part and (as appropriate) other low-income families, and in doing so, shall pay particular attention to the issues of out-of-wedlock birth, welfare dependency, the beginning and end of welfare spells, and the causes of repeat welfare spells, and shall obtain information about the status of children participating in such panels.
+The Bureau of the Census shall continue to collect data on the 1992 and 1993 panels of the Survey of Income and Program Participation as necessary to obtain such information as will enable interested persons to evaluate the impact of the amendments made by title I of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 on a random national sample of recipients of assistance under State programs funded under this part and (as appropriate) other low-income families, and in doing so, shall pay particular attention to the issues of out-of-wedlock birth, welfare dependency, the beginning and end of welfare spells, and the causes of repeat welfare spells, and shall obtaininformation about the status of children participating in such panels.
 
 #### (b) Appropriation
 
@@ -20,9 +20,9 @@ A prior section 614, act Aug. 14, 1935, ch. 531, title IV, §414, as added Aug. 
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–40 substituted “2002, and 2003” for “and 2002”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–40 substituted “2002, and 2003” for “and 2002”.
 
-1997—Pub. L. 105–33 made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
+<b>1997</b>—Pub. L. 105–33 made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 
 #### Effective Date of 2003 Amendment
 

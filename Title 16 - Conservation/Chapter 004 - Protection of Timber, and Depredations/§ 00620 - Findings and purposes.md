@@ -46,7 +46,7 @@ Sections 620 to 620j of this title, referred to in subsec. (b), was in the origi
 
 #### Amendments
 
-1999—Subsec. (b)(3). Pub. L. 106–36, §1002(a)(1)(A), substituted “GATT 1994 (as defined in section 3501(1)(B) of title 19)” for “General Agreement on Tariffs and Trade”.
+<b>1999</b>—Subsec. (b)(3). Pub. L. 106–36, §1002(a)(1)(A), substituted “GATT 1994 (as defined in section 3501(1)(B) of title 19)” for “General Agreement on Tariffs and Trade”.
 
 Subsec. (b)(5). Pub. L. 106–36, §1002(a)(1)(B), substituted “WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of section 3501 of title 19)” for “General Agreement on Tariffs and Trade”.
 
@@ -64,5 +64,5 @@ Pub. L. 103–45, §1, July 1, 1993, 107 Stat. 223, provided that: “This Act \
 
 #### Short Title
 
-Section 487 of title IV of Pub. L. 101–382 provided that: “This title \[enacting this section and sections620a to 620j of this title and provisions set out as a note above\] may be cited as the ‘Forest Resources Conservation and Shortage Relief Act of 1990’.”
+Section 487 of title IV of Pub. L. 101–382 provided that: “This title \[enacting this section and sections 620a to 620j of this title and provisions set out as a note above\] may be cited as the ‘Forest Resources Conservation and Shortage Relief Act of 1990’.”
 

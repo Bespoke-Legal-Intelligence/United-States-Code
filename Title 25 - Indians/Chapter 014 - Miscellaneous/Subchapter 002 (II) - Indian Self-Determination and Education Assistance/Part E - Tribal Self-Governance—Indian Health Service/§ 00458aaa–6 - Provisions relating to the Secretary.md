@@ -44,7 +44,7 @@
 
 #### (D) Hearings
 
-&emsp;&emsp;In any hearing or appeal involving a decision to reassume operation of a program, service, function, or activity (or portion thereof), the Secretary shall have the burden of proof of demonstrating by clear and convincing evidence the validity of the grounds for the reassumption.
+&emsp;&emsp;In any hearing or appeal involving a decision to reassume operation of a program, service, function, or activity (or portion thereof), the Secretary shall have the burdenof proof of demonstrating by clear and convincing evidence the validity of the grounds for the reassumption.
 
 #### (b) Final offer
 
@@ -62,7 +62,7 @@ In the event the Secretary and a participating Indian tribe are unable to agree,
 
 &emsp;&emsp;&emsp;(ii) the program, function, service, or activity (or portion thereof) that is the subject of the final offer is an inherent Federal function that cannot legally be delegated to an Indian tribe;
 
-&emsp;&emsp;&emsp;(iii) the Indian tribe cannot carry out the program, function, service, or activity (or portion thereof) in a manner thatwould not result in significant danger or risk to the public health; or
+&emsp;&emsp;&emsp;(iii) the Indian tribe cannot carry out the program, function, service, or activity (or portion thereof) in a manner that would not result in significant danger or risk to the public health; or
 
 &emsp;&emsp;&emsp;(iv) the Indian tribe is not eligible to participate in self-governance under section 458aaa–2 of this title;
 

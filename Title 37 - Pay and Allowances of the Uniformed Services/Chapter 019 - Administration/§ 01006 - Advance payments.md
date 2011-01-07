@@ -8,7 +8,7 @@
 
 (b) Under regulations prescribed by the Secretary concerned, a member of a uniformed service who is on duty at a distant station where the pay and emoluments to which he is entitled cannot be disbursed regularly, may be paid in advance.
 
-(c) Under regulations prescribed by the Secretary concerned, an advance of pay to a member of a uniformed service who is on duty outside the United States, or other place designated by the Secretary of Defense, of not more than two months’ basic pay may be made to a member if the member or the dependents of the member are ordered evacuated by competent authority. An advance of pay under this subsection is not subject to the conditions under which advances of pay may be made under subsection (a) or (b). An advance may be made on the basis of the evacuation of a member's dependents only if all dependents of members of the uniformed services are ordered evacuated from the place where the member's dependents are located. In the case of a member with dependents, the payment may be made directly to dependents previously designated by the member. The Secretary concerned or his designee may waive any right of recovery of not more than one month's basic pay advanced under this subsection if he finds that recovery of the advance would beagainst equity and good conscience or against the public interest.
+(c) Under regulations prescribed by the Secretary concerned, an advance of pay to a member of a uniformed service who is on duty outside the United States, or other place designated by the Secretary of Defense, of not more than two months’ basic pay may be made to a member if the member or the dependents of the member are ordered evacuated by competent authority. An advance of pay under this subsection is not subject to the conditions under which advances of pay may be made under subsection (a) or (b). An advance may be made on the basis of the evacuation of a member's dependents only if all dependents of members of the uniformed services are ordered evacuated from the place where the member's dependents are located. In the case of a member with dependents, the payment may be made directly to dependents previously designated by the member. The Secretary concerned or his designee may waive any right of recovery of not more than one month's basic pay advanced under this subsection if he finds that recovery of the advance would be against equity and good conscience or against the public interest.
 
 (d) If a person to whom an advance of pay is made under subsection (a), (b), or (c) dies or is separated from his uniformed service, before liquidation of that advance, the amount remaining unliquidated at the time of his death or separation shall be credited to the account of the disbursing officer concerned. However, the unliquidated amount remains a debt of that person or his estate to the United States.
 
@@ -22,7 +22,7 @@
 
 (g) Under regulations prescribed by the Secretary concerned, the dislocation allowance authorized by section 407 of this title for a member of a uniformed service whose dependents are covered by section 405a(a) of this title may be paid in advance of the evacuation of the dependents and to the dependents designated by the member.
 
-(h) Notwithstanding subsections (a) and (b) of section 3324 of title 31, the Secretary concerned may, when the last day of the pay period falls on a Saturday, Sunday, or legal holiday, authorize the payment of pay and allowances to members of uniformed service under his jurisdiction on the preceding workday but not more than three days before the last day of that pay period. If a member dies after he has received an advance payment under this subsection, but before the last day of the pay period for which the payment is made, no part of the amount so advance is recoverable by the United States.
+(h) Notwithstanding subsections (a) and (b) of section 3324 of title 31, the Secretary concerned may, when the last day of the pay period falls on a Saturday, Sunday, or legal holiday, authorizethe payment of pay and allowances to members of uniformed service under his jurisdiction on the preceding workday but not more than three days before the last day of that pay period. If a member dies after he has received an advance payment under this subsection, but before the last day of the pay period for which the payment is made, no part of the amount so advance is recoverable by the United States.
 
 (i) Under regulations prescribed by the Secretary concerned, not more than one month's pay may be paid in advance to a member of the Armed Forces Health Professions Scholarship program upon reporting for a period of active duty required by section 2121(c) of title 10.
 
@@ -80,29 +80,29 @@ In subsection (d), the words “If a” are substituted for the words “In the 
 
 #### Amendments
 
-2002—Subsec. (f). Pub. L. 107–296 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
+<b>2002</b>—Subsec. (f). Pub. L. 107–296 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
-1998—Subsec. (e). Pub. L. 105–261 designated existing provisions as par. (1) and added par. (2).
+<b>1998</b>—Subsec. (e). Pub. L. 105–261 designated existing provisions as par. (1) and added par. (2).
 
-1993—Subsec. (c). Pub. L. 103–160 substituted “the Secretary of Defense” for “the President” in first sentence.
+<b>1993</b>—Subsec. (c). Pub. L. 103–160 substituted “the Secretary of Defense” for “the President” in first sentence.
 
-1992—Subsec. (c). Pub. L. 102–484 inserted first four sentences and struck out former first and second sentences which read as follows: “Under regulations prescribed by the Secretary concerned, an advance of pay to a member of a uniformed service who is on duty outside the United States, or other place designated by the President, of not more than two months’ basic pay may be made directly to his previously designated dependents who are ordered evacuated by competent authority. An advance of pay under this subsection is not subject to the conditions under which advances of pay may be made under subsection (a) or (b), and may be made only if all dependents of members of the uniformed services are ordered evacuated from the place where the member's dependents are located.”
+<b>1992</b>—Subsec. (c). Pub. L. 102–484 inserted first four sentences and struck out former first and second sentences which read as follows: “Under regulations prescribed by the Secretary concerned, an advance of pay to a member of a uniformed service who is on duty outside the United States, or other place designated by the President, of not more than two months’ basic pay may be made directly to his previously designated dependents who are ordered evacuated by competent authority. An advance of pay under this subsection is not subject to the conditions under which advances of pay may be made under subsection (a) or (b), and may be made only if all dependents of members of the uniformed services are ordered evacuated from the place where the member's dependents are located.”
 
-1991—Subsec. (c). Pub. L. 102–25 struck out “of this section” after “subsection (a) or (b)”.
+<b>1991</b>—Subsec. (c). Pub. L. 102–25 struck out “of this section” after “subsection (a) or (b)”.
 
 Subsec. (d). Pub. L. 102–25 struck out “of this section” after “subsection (a), (b), or (c)”.
 
 Subsec. (e). Pub. L. 102–25 struck out “of this section” after “subsections (a)–(d)”.
 
-1986—Subsec. (j). Pub. L. 99–661 added subsec. (j).
+<b>1986</b>—Subsec. (j). Pub. L. 99–661 added subsec. (j).
 
-1985—Subsec. (h). Pub. L. 99–145 substituted “subsections (a) and (b) of section 3324” for “section 3324(a) and (b)”.
+<b>1985</b>—Subsec. (h). Pub. L. 99–145 substituted “subsections (a) and (b) of section 3324” for “section 3324(a) and (b)”.
 
-1982—Subsec. (h). Pub. L. 97–258 substituted “section 3324(a) and (b) of title 31” for “section 3648 of the Revised Statutes (31 U.S.C. 529)” after “Notwithstanding”.
+<b>1982</b>—Subsec. (h). Pub. L. 97–258 substituted “section 3324(a) and (b) of title 31” for “section 3648 of the Revised Statutes (31 U.S.C. 529)” after “Notwithstanding”.
 
-1981—Subsec. (i). Pub. L. 97–60 added subsec. (i).
+<b>1981</b>—Subsec. (i). Pub. L. 97–60 added subsec. (i).
 
-1980—Subsec. (a). Pub. L. 96–343 inserted provision authorizing an advance payment of the amount of an allotment made from the pay of a member of the uniformed services to a dependent if the member is scheduled for duty with a unit deployed outside the United States and the allotment is made not more than 60 days before the scheduled date of the assignment.
+<b>1980</b>—Subsec. (a). Pub. L. 96–343 inserted provision authorizing an advance payment of the amount of an allotment made from the pay of a member of the uniformed services to a dependent if the member is scheduled for duty with a unit deployed outside the United States and the allotment is made not more than 60 days before the scheduled date of the assignment.
 
 Pub. L. 96–215, §3(1), substituted “a uniformed service” for “an armed force or of the Public Health Service”.
 
@@ -118,15 +118,15 @@ Subsec. (h). Pub. L. 96–513 substituted “3648 of the Revised Statutes (31 U.
 
 Pub. L. 96–215, §3(5), substituted “a uniformed service” for “an armed force or of the Public Health Service”.
 
-1979—Subsecs. (a) to (d) and (h). Pub. L. 96–76 inserted reference to the Public Health Service.
+<b>1979</b>—Subsecs. (a) to (d) and (h). Pub. L. 96–76 inserted reference to the Public Health Service.
 
-1968—Subsec. (a). Pub. L. 90–623, §3(9), substituted “change of permanent station” for “permanent change of station”.
+<b>1968</b>—Subsec. (a). Pub. L. 90–623, §3(9), substituted “change of permanent station” for “permanent change of station”.
 
 Subsec. (f). Pub. L. 90–623, §3(1), substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 
-1966—Subsec. (h). Pub. L. 89–718 redesignated as subsec. (h) the subsection relating to advance payment of pay and allowances when the last day of the pay period falls on a Saturday, Sunday, or legal holiday, formerly designated as subsec. (g).
+<b>1966</b>—Subsec. (h). Pub. L. 89–718 redesignated as subsec. (h) the subsection relating to advance payment of pay and allowances when the last day of the pay period falls on a Saturday, Sunday, or legal holiday, formerly designated as subsec. (g).
 
-1965—Subsec. (c). Pub. L. 89–26, §1(6)(A), empowered the Secretary concerned or his designee to waive any right of recovery of not more than one month's basic pay advanced if he finds that recovery of the advance would be against equity and good conscience or against the public interest.
+<b>1965</b>—Subsec. (c). Pub. L. 89–26, §1(6)(A), empowered the Secretary concerned or his designee to waive any right of recovery of not more than one month's basic pay advanced if he finds that recovery of the advance would be against equity and good conscience or against the public interest.
 
 Subsec. (g). Pub. L. 89–193 added subsec. (g) relating to the payment of pay and allowances when the last day of the pay period falls on a Saturday, Sunday, or legal holiday.
 

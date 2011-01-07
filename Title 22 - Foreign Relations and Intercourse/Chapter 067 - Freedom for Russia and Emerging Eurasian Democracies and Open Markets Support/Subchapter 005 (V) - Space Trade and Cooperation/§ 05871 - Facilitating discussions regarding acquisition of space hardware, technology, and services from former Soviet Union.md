@@ -10,7 +10,7 @@ If any United States Government agency denies a request for a license or other a
 
 #### (c) Description of discussions
 
-This section applies to a request for any license or other approval that may be necessaryto conduct discussions with an independent state of the former Soviet Union with respect to the possible acquisition of any space hardware, space technology, or space service for integration into—
+This section applies to a request for any license or other approval that may be necessary to conduct discussions with an independent state of the former Soviet Union with respect to the possible acquisition of any space hardware, space technology, or space service for integration into—
 
 &emsp;(1) United States space projects that have been approved by the Congress, or
 

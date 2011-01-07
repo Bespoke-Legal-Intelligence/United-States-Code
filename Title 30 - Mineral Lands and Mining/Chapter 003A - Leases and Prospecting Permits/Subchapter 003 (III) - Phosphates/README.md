@@ -1,7 +1,5 @@
 ### SUBCHAPTER III—PHOSPHATES
 
-<i><sup>1</sup></i><i> So in original. The period probably should be a colon.</i>
-
 
 ---
 

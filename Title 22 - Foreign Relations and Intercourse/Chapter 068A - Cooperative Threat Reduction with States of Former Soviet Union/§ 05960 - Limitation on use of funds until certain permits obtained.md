@@ -18,7 +18,7 @@ With respect to an incomplete construction project carried out by the Department
 
 #### (d) Use of funds for certain incomplete construction projects
 
-Except as provided in subsection (e) of this section, with respect to an incomplete construction project carried out by the Department of Defense under Cooperative Threat Reduction programs for which construction has not yet commenced as of November 24, 2003, not more than 40 percent of the total costs of the project may be obligated from Cooperative Threat Reduction funds for any fiscal year until the Secretary obtains from the State in which the project is located the permits required to commence construction on the project.
+Except as provided in subsection (e) of this section, with respect to an incomplete construction project carried out by the Department of Defense under Cooperative Threat Reduction programs for which construction has not yet commenced as of November 24, 2003, not morethan 40 percent of the total costs of the project may be obligated from Cooperative Threat Reduction funds for any fiscal year until the Secretary obtains from the State in which the project is located the permits required to commence construction on the project.
 
 #### (e) Exception to limitations on use of funds
 

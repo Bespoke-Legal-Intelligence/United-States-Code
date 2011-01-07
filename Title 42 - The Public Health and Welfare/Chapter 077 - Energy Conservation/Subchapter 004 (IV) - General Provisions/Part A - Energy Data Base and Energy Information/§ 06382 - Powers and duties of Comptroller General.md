@@ -46,9 +46,9 @@ Section 754 of title 15, referred to in subsec. (e)(2), was omitted from the Cod
 
 #### Amendments
 
-2004—Subsec. (e)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (e)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1996—Subsec. (f). Pub. L. 104–316 struck out subsec. (f) which read as follows: “The Comptroller General shall prepare and submit to the Congress an annual report with respect to the exercise of its authorities under this part, which report shall specifically identify any deficiencies in energy information or financial information reviewed by the Comptroller General and include a discussion of action taken by the person or company so examined, if any, to correct any such deficiencies.”
+<b>1996</b>—Subsec. (f). Pub. L. 104–316 struck out subsec. (f) which read as follows: “The Comptroller General shall prepare and submit to the Congress an annual report with respect to the exercise of its authorities under this part, which report shall specifically identify any deficiencies in energy information or financial information reviewed by the Comptroller General and include a discussion of action taken by the person or company so examined, if any, to correct any such deficiencies.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A taxpayer may elect to treat the cost of any qualified film or television production as an expense which is not chargeable to capital account. Any cost so treated shall be allowed as a deduction.
+&emsp;A taxpayer may elect to treat the cost of any qualified film or television production asan expense which is not chargeable to capital account. Any cost so treated shall be allowed as a deduction.
 
 #### (2) Dollar limitation
 
@@ -60,7 +60,7 @@ For purposes of this section—
 
 #### (C) Exception
 
-&emsp;&emsp;A production is not described in this paragraph if records are required under section2257 of title 18, United States Code, to be maintained with respect to any performer in such production.
+&emsp;&emsp;A production is not described in this paragraph if records are required under section 2257 of title 18, United States Code, to be maintained with respect to any performer in such production.
 
 #### (3) Qualified compensation
 
@@ -80,9 +80,9 @@ For purposes of this section, rules similar to the rules of subsections (b)(2) a
 
 #### (f) Termination
 
-This section shall not apply to qualified film and television productions commencing after December 31, 2009.
+This section shall not apply to qualified film and television productions commencing after December 31, 2011.
 
-(Added Pub. L. 108–357, title II, §244(a), Oct. 22, 2004, 118 Stat. 1445; amended Pub. L. 109–135, title IV, §403(e)(1), Dec. 21, 2005, 119 Stat. 2623; Pub. L. 110–343, div. C, title V, §502(a), (b), (d), Oct. 3, 2008, 122 Stat. 3876, 3877.)
+(Added Pub. L. 108–357, title II, §244(a), Oct. 22, 2004, 118 Stat. 1445; amended Pub. L. 109–135, title IV, §403(e)(1), Dec. 21, 2005, 119 Stat. 2623; Pub. L. 110–343, div. C, title V, §502(a), (b), (d), Oct. 3, 2008, 122 Stat. 3876, 3877; Pub. L. 111–312, title VII, §744(a), Dec. 17, 2010, 124 Stat. 3319.)
 
 #### Prior Provisions
 
@@ -90,13 +90,19 @@ A prior section 181, Pub. L. 87–834, §2(c), Oct. 16, 1962, 76 Stat. 970, rela
 
 #### Amendments
 
-2008—Subsec. (a)(2)(A). Pub. L. 110–343, §502(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Paragraph (1) shall not apply to any qualified film or television production the aggregate cost of which exceeds $15,000,000.”
+<b>2010</b>—Subsec. (f). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”.
+
+<b>2008</b>—Subsec. (a)(2)(A). Pub. L. 110–343, §502(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Paragraph (1) shall not apply to any qualified film or television production the aggregate cost of which exceeds $15,000,000.”
 
 Subsec. (d)(3)(A). Pub. L. 110–343, §502(d), substituted “actors, production personnel, directors, and producers.” for “actors, directors, producers, and other relevant production personnel.”
 
 Subsec. (f). Pub. L. 110–343, §502(a), substituted “December 31, 2009” for “December 31, 2008”.
 
-2005—Subsec. (d)(2). Pub. L. 109–135 struck out “For purposes of a television series, only the first 44 episodes of such series may be taken into account.” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
+<b>2005</b>—Subsec. (d)(2). Pub. L. 109–135 struck out “For purposes of a television series, only the first 44 episodes of such series may be taken into account.” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–312, title VII, §744(b), Dec. 17, 2010, 124 Stat. 3319, provided that: “The amendment made by this section \[amending this section\] shall apply to productions commencing after December 31, 2009.”
 
 #### Effective Date of 2008 Amendment
 
@@ -104,7 +110,7 @@ Pub. L. 110–343, div. C, title V, §502(e), Oct. 3, 2008, 122 Stat. 3877, prov
 
 “(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and section 199 of this title\] shall apply to qualified film and television productions commencing after December 31, 2007.
+In general.—Except as otherwise provided in this subsection, the amendments made by this section\[amending this section and section 199 of this title\] shall apply to qualified film and television productions commencing after December 31, 2007.
 
 “(2)
 

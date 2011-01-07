@@ -110,9 +110,9 @@ A prior section 20 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and i
 
 #### Amendments
 
-2004—Subsec. (c)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (c)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-2002—Pub. L. 107–347 added text of section and struck out former text which read as follows:
+<b>2002</b>—Pub. L. 107–347 added text of section and struck out former text which read as follows:
 
 “(a) The Institute shall—
 
@@ -140,7 +140,7 @@ A prior section 20 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and i
 
 &emsp;“(2) as requested, to provide to operators of Federal computer systems technical assistance in implementing the standards and guidelines promulgated pursuant to section 1441 of title 40;
 
-&emsp;“(3) to assist, as appropriate, the Office of Personnel Management in developing regulations pertaining to training, as required by section 5 of the Computer Security Act of 1987;
+&emsp;“(3) to assist, as appropriate, the Office of Personnel Management in developing regulations pertainingto training, as required by section 5 of the Computer Security Act of 1987;
 
 &emsp;“(4) to perform research and to conduct studies, as needed, to determine the nature and extent of the vulnerabilities of, and to devise techniques for the cost-effective security and privacy of sensitive information in Federal computer systems; and
 
@@ -302,9 +302,9 @@ Subsec. (d)(1)(B)(i). Pub. L. 107–305, §8(b), substituted “computers and co
 
 Subsecs. (e), (f). Pub. L. 107–305, §§9, 10, added subsecs. (e) and (f).
 
-1997—Subsecs. (a)(4), (b)(2). Pub. L. 105–85 made technical amendment to reference in original act which appears in text as reference to section 1441 of title 40.
+<b>1997</b>—Subsecs. (a)(4), (b)(2). Pub. L. 105–85 made technical amendment to reference in original act which appears in text as reference to section 1441 of title 40.
 
-1996—Subsec. (a)(2), (3)(A). Pub. L. 104–106, §5607(a)(1)(A), substituted “section 3502(9) of title 44” for “section 3502(2) of title 44”.
+<b>1996</b>—Subsec. (a)(2), (3)(A). Pub. L. 104–106, §5607(a)(1)(A), substituted “section 3502(9) of title 44” for “section 3502(2) of title 44”.
 
 Subsec. (a)(4). Pub. L. 104–106, §5607(a)(1)(B), substituted “section 1441 of title 40” for “section 759(d) of title 40”.
 
@@ -320,7 +320,7 @@ Subsec. (d)(1)(B)(v). Pub. L. 104–106, §5607(a)(3)(A), struck out “as defin
 
 Subsec. (d)(2). Pub. L. 104–106, §5607(a)(3)(B), substituted “system’ ” for “system’—”, struck out “(A)” before “means”, substituted “function;” for “function; and”, and struck out subpar. (B) which read as follows: “includes automatic data processing equipment as that term is defined in section 759(a)(2) of title 40;”.
 
-1988—Pub. L. 100–418 substituted “Institute” for “National Bureau of Standards” in introductory provisions of subsecs. (a) and (b) and wherever appearing in closing provisions of subsec. (c).
+<b>1988</b>—Pub. L. 100–418 substituted “Institute” for “National Bureau of Standards” in introductory provisions of subsecs. (a) and (b) and wherever appearing in closing provisions of subsec. (c).
 
 #### Effective Date of 2002 Amendments
 

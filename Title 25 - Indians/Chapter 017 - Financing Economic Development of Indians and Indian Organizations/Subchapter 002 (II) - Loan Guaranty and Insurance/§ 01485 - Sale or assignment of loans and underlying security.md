@@ -74,7 +74,7 @@ Subsection (i), referred to in subsec. (g)(2), was redesignated as subsection (h
 
 #### Amendments
 
-2006—Pub. L. 109–221, §401(b)(1), inserted section catchline.
+<b>2006</b>—Pub. L. 109–221, §401(b)(1), inserted section catchline.
 
 Subsecs. (a), (b). Pub. L. 109–221, §401(b)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b), which authorized loan sale or assignment and set forth parameters for initial transfers.
 
@@ -94,9 +94,9 @@ Pub. L. 109–221, §401(b)(3), redesignated subsec. (g) as (f). Former subsec. 
 
 Subsec. (g) to (i). Pub. L. 109–221, §401(b)(3), redesignated subsecs. (h) and (i) as (g) and (h), respectively. Former subsec. (g) redesignated (f).
 
-2002—Pub. L. 107–331 designated existing provisions as subsec. (a), inserted heading and substituted “Any loan guaranteed or insured” for “Any loan guaranteed”, and added subsecs. (b) to (i).
+<b>2002</b>—Pub. L. 107–331 designated existing provisions as subsec. (a), inserted heading and substituted “Any loan guaranteed or insured” for “Any loan guaranteed”, and added subsecs. (b) to (i).
 
-1988—Pub. L. 100–442 amended section generally. Prior to amendment, section read as follows: “Any loan guaranteed hereunder, including the security given therefor, may be sold or assigned by the lender to any financial institution subject to examination and supervision by an agency of the United States or of any State or the District of Columbia.”
+<b>1988</b>—Pub. L. 100–442 amended section generally. Prior to amendment, section read as follows: “Any loan guaranteed hereunder, including the security given therefor, may be sold or assigned by the lender to any financial institution subject to examination and supervision by an agency of the United States or of any State or the District of Columbia.”
 
 #### Findings and Purpose
 

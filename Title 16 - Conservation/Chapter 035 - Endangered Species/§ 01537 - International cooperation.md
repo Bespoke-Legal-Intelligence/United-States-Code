@@ -2,7 +2,7 @@
 
 #### (a) Financial assistance
 
-As a demonstration of the commitment of the United States to the worldwide protection of endangered species and threatened species, the President may, subject to the provisions of section 1306 of title 31, use foreign currencies accruing to the United States Government under the Food for Peace Act \[7 U.S.C. 1691 et seq.\] or any other law to provide to any foreign country (with its consent) assistance in the development and management of programs in that country which the Secretary determines to be necessary or useful for the conservation of any endangered species or threatened species listed by the Secretary pursuant to section 1533 of this title. The President shall provide assistance (which includes, but is not limited to, the acquisition, by lease or otherwise, of lands, waters, or interests therein) to foreign countries under this section under such terms and conditions as he deems appropriate. Whenever foreign currencies are available for the provision of assistance underthis section, such currencies shall be used in preference to funds appropriated under the authority of section 1542 of this title.
+As a demonstration of the commitment of the United States to the worldwide protection of endangered species and threatened species, the President may, subject to the provisions of section 1306 of title 31, use foreign currencies accruing to the United States Government under the Food for Peace Act \[7 U.S.C. 1691 et seq.\] or any other law to provide to any foreign country (with its consent) assistance in the development and management of programs in that countrywhich the Secretary determines to be necessary or useful for the conservation of any endangered species or threatened species listed by the Secretary pursuant to section 1533 of this title. The President shall provide assistance (which includes, but is not limited to, the acquisition, by lease or otherwise, of lands, waters, or interests therein) to foreign countries under this section under such terms and conditions as he deems appropriate. Whenever foreign currencies are available for the provision of assistance under this section, such currencies shall be used in preference to funds appropriated under the authority of section 1542 of this title.
 
 #### (b) Encouragement of foreign programs
 
@@ -38,9 +38,9 @@ In subsec. (a), “section 1306 of title 31” substituted for “section 1415 o
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
-1979—Subsec. (b)(1). Pub. L. 96–159, §5(1), encouraged conservation of plants.
+<b>1979</b>—Subsec. (b)(1). Pub. L. 96–159, §5(1), encouraged conservation of plants.
 
 Subsec. (b)(3). Pub. L. 96–159, §5(2), encouraged conservation practices for enhancement of plants taken for importation into the United States.
 
@@ -84,11 +84,11 @@ In General.—The importation of shrimp or products from shrimp which have been 
 
 “(2)
 
-Certification Procedure.—The ban on importation of shrimp or products from shrimp pursuant to paragraph (1) shall not apply if the President shall determine and certify to the Congress not later than May 1, 1991, and annually thereafter that—
+Certification Procedure.—The ban on importation of shrimp or products from shrimp pursuant toparagraph (1) shall not apply if the President shall determine and certify to the Congress not later than May 1, 1991, and annually thereafter that—
 
 &emsp;“(A) the government of the harvesting nation has provided documentary evidence of the adoption of a regulatory program governing the incidental taking of such sea turtles in the course of such harvesting that is comparable to that of the United States; and
 
-&emsp;“(B) the average rate of that incidental taking by the vessels of the harvesting nation is comparable tothe average rate of incidental taking of sea turtles by United States vessels in the course of such harvesting; or
+&emsp;“(B) the average rate of that incidental taking by the vessels of the harvesting nation is comparable to the average rate of incidental taking of sea turtles by United States vessels in the course of such harvesting; or
 
 &emsp;“(C) the particular fishing environment of the harvesting nation does not pose a threat of the incidental taking of such sea turtles in the course of such harvesting.”
 

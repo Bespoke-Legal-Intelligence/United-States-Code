@@ -46,7 +46,7 @@ The reference to a certificate, permit, or licence is omitted as not applicable 
 
 #### Amendments
 
-1994—Pub. L. 103–272 substituted “a provision of this chapter, subchapter III of chapter 311 (except sections 31138 and 31139), or section 31502 of this title, a person that knowingly and willfully violates any of those provisions or a regulation or order of the Secretary of Transportation under any of those provisions” for “this chapter, section 3102 of this title, or the Motor Carrier Safety Act of 1984, a person that knowingly and willfully violates a provision of this chapter or such section or Act, or a regulation or order of the Secretary of Transportation under this chapter or such section or Act”.
+<b>1994</b>—Pub. L. 103–272 substituted “a provision of this chapter, subchapter III of chapter 311 (except sections 31138 and 31139), or section 31502 of this title, a person that knowingly and willfully violates any of those provisions or a regulation or order of the Secretary of Transportation under any of those provisions” for “this chapter, section 3102 of this title, or the Motor Carrier Safety Act of 1984, a person that knowingly and willfully violates a provision of this chapter or such section or Act, or a regulation or order of the Secretary of Transportation under this chapter or such section or Act”.
 
-1984—Pub. L. 98–554 inserted “, section 3102 of this title, or the Motor Carrier Safety Act of 1984” after “chapter” the first place it appears and inserted “orsuch section or Act” after “chapter” the second and third places it appears.
+<b>1984</b>—Pub. L. 98–554 inserted “, section 3102 of this title, or the Motor Carrier Safety Act of 1984” after “chapter” the first place it appears and inserted “or such section or Act” after “chapter” the second and third places it appears.
 

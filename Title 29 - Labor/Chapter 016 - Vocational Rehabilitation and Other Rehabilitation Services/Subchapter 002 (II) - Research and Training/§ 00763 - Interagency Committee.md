@@ -62,9 +62,9 @@ A prior section 763, Pub. L. 93–112, title II, §203, Sept. 26, 1973, 87 Stat.
 
 #### Amendments
 
-2004—Subsec. (e). Pub. L. 108–364 added subsec. (e) and struck out former subsec. (e) which read as follows: “In this section, the terms ‘assistive technology’, ‘targeted individuals’, and ‘universal design’ have the meanings given the terms in section 3002 of this title.”
+<b>2004</b>—Subsec. (e). Pub. L. 108–364 added subsec. (e) and struck out former subsec. (e) which read as follows: “In this section, the terms ‘assistive technology’, ‘targeted individuals’, and ‘universal design’ have the meanings given the terms in section 3002 of this title.”
 
-1998—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, §405, which enacted this section.
+<b>1998</b>—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, §405, which enacted this section.
 
 Subsec. (a)(1). Pub. L. 105–394, §201(1), inserted “including programs relating to assistive technology research and research that incorporates the principles of universal design,” after “programs,”.
 

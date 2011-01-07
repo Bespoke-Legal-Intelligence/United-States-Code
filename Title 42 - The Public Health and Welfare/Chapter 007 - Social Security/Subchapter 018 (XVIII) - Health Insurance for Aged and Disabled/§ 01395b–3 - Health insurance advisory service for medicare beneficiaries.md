@@ -72,11 +72,11 @@ Section was enacted as part of the Omnibus Budget Reconciliation Act of 1990, an
 
 #### Amendments
 
-2003—Subsec. (d). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
+<b>2003</b>—Subsec. (d). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
 
 #### Medicare Enrollment Assistance
 
-Pub. L. 110–275, title I, §119, July 15, 2008, 122 Stat. 2508, provided that:
+Pub. L. 110–275, title I, §119, July 15, 2008, 122 Stat. 2508, as amended by Pub. L. 111–148, title III, §3306, Mar. 23, 2010, 124 Stat. 470, provided that:
 
 “(a)
 
@@ -92,7 +92,13 @@ In general.—The Secretary of Health and Human Services (in this section referr
 
 &emsp;&emsp;“(B)
 
-Funding.—For purposes of making grants under this subsection, the Secretary shall providefor the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t), in the same proportion as the Secretary determines under section 1853(f) of such Act (42 U.S.C. 1395w–23(f)), of $7,500,000 to the Centers for Medicare \& Medicaid Services Program Management Account for fiscal year 2009, to remain available until expended.
+Funding.—For purposes of making grants under this subsection, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t), in the same proportion as the Secretary determines under section 1853(f) of such Act (42 U.S.C. 1395w–23(f)), to the Centers for Medicare \& Medicaid Services Program Management Account—
+
+&emsp;&emsp;&emsp;“(i) for fiscal year 2009, of $7,500,000; and
+
+&emsp;&emsp;&emsp;“(ii) for the period of fiscal years 2010 through 2012, of $15,000,000.
+
+&nbsp;&nbsp;Amounts appropriated under this subparagraph shall remain available until expended.
 
 &emsp;“(2)
 
@@ -128,7 +134,13 @@ In general.—The Secretary, acting through the Assistant Secretary for Aging, s
 
 &emsp;&emsp;“(B)
 
-Funding.—For purposes of making grants under this subsection, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t), in the same proportion as the Secretary determines under section 1853(f) of such Act (42 U.S.C. 1395w–23(f)), of $7,500,000 to the Administration on Aging for fiscal year 2009, to remain available until expended.
+Funding.—For purposes of making grants under this subsection, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t), in the same proportion as the Secretary determines under section 1853(f) of such Act (42 U.S.C. 1395w–23(f)), to the Administration on Aging—
+
+&emsp;&emsp;&emsp;“(i) for fiscal year 2009, of $7,500,000; and
+
+&emsp;&emsp;&emsp;“(ii) for the period of fiscal years 2010 through 2012, of $15,000,000.
+
+&nbsp;&nbsp;Amounts appropriated under this subparagraph shall remain available until expended.
 
 &emsp;“(2)
 
@@ -160,7 +172,13 @@ In general.—The Secretary shall make grants to Aging and Disability Resource C
 
 &emsp;&emsp;“(B)
 
-Funding.—For purposes of making grants under this subsection, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t), in the same proportion as the Secretary determines under section 1853(f) of such Act (42 U.S.C. 1395w–23(f)), of $5,000,000 to the Administration on Aging for fiscal year 2009, to remain available until expended.
+Funding.—For purposes of making grants under this subsection, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t), in the same proportion as the Secretary determines under section 1853(f) of such Act (42 U.S.C. 1395w–23(f)), to the Administration on Aging—
+
+&emsp;&emsp;&emsp;“(i) for fiscal year 2009, of $5,000,000; and
+
+&emsp;&emsp;&emsp;“(ii) for the period of fiscal years 2010 through 2012, of $10,000,000.
+
+&nbsp;&nbsp;Amounts appropriated under this subparagraph shall remain available until expended.
 
 &emsp;“(2)
 
@@ -184,15 +202,25 @@ In general.—The Secretary, acting through the Assistant Secretary for Aging, i
 
 &emsp;“(2)
 
-Funding.—For purposes of making a grant or entering into a contract under paragraph (1), the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t), in the same proportion as the Secretary determines under section 1853(f) of such Act (42 U.S.C. 1395w–23(f)), of $5,000,000 to the Administration on Aging for fiscal year 2009, to remain available until expended.
+Funding.—For purposes of making a grant or entering into a contract under paragraph (1), the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t), in the same proportion as the Secretary determines under section 1853(f) of such Act (42 U.S.C. 1395w–23(f)), to the Administration on Aging—
+
+&emsp;&emsp;“(i) for fiscal year 2009, of $5,000,000; and
+
+&emsp;&emsp;“(ii) for the period of fiscal years 2010 through 2012, of $5,000,000.
+
+> &emsp;Amounts appropriated under this subparagraph shall remain available until expended.
 
 “(e)
 
-Reprogramming Funds From Medicare, Medicaid, and SCHIP Extension Act of 2007.—The Secretaryshall only use the $5,000,000 in funds allocated to make grants to States for Area Agencies on Aging and Aging Disability and Resource Centers for the period of fiscal years 2008 through 2009 under section 118 of the Medicare, Medicaid, and SCHIP Extension Act of 2007 (Public Law 110–173) \[121 Stat. 2508\] for the sole purpose of providing outreach to individuals regarding the benefits available under the Medicare prescription drug benefit under part D of title XVIII of the Social Security Act \[part D of this subchapter\]. The Secretary shall republish the request for proposals issued on April 17, 2008, in order to comply with the preceding sentence.
+Reprogramming Funds From Medicare, Medicaid, and SCHIP Extension Act of 2007.—The Secretary shall only use the $5,000,000 in funds allocated to make grants to States for Area Agencies on Aging and Aging Disability and Resource Centers for the period of fiscal years 2008 through 2009 under section 118 of the Medicare, Medicaid, and SCHIP Extension Act of 2007 (Public Law 110–173) \[121 Stat. 2508\] for the sole purpose of providing outreach to individuals regarding the benefits available under the Medicare prescription drug benefit under part D of title XVIII of the Social Security Act \[part D of this subchapter\]. The Secretary shall republish the request for proposals issued on April 17, 2008, in order to comply with the preceding sentence.
 
 “(f)
 
-Medicare Savings Program Defined.—For purposes of this section, the term ‘Medicare Savings Program’ means the program of medical assistance for payment of the cost of medicare cost-sharing under the Medicaid program pursuant to sections 1902(a)(10)(E) and 1933 of the Social Security Act (42 U.S.C. 1396a(a)(10)(E), 1396u–3).”
+Medicare Savings Program Defined.—For purposes of this section, the term ‘Medicare Savings Program’ means the program of medical assistance for payment of the cost of medicare cost-sharing under the Medicaid program pursuant to sections 1902(a)(10)(E) and 1933 of the Social Security Act (42 U.S.C. 1396a(a)(10)(E), 1396u–3).
+
+“(g)
+
+Secretarial Authority To Enlist Support in Conducting Certain Outreach Activities.—The Secretary may request that an entity awarded a grant under this section support the conduct of outreach activities aimed at preventing disease and promoting wellness. Notwithstanding any other provision of this section, an entity may use a grant awarded under this subsection \[probably should be “section”\] to support the conduct of activities described in the preceding sentence.”
 
 #### Beneficiary Outreach Demonstration Program
 

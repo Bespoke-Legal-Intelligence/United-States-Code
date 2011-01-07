@@ -13,9 +13,9 @@
 
 #### Amendments
 
-1986—Pub. L. 99–514, title XII, §1235(g), Oct. 22, 1986, 100 Stat. 2576, added item for part VI.
+<b>1986</b>—Pub. L. 99–514, title XII, §1235(g), Oct. 22, 1986, 100 Stat. 2576, added item for part VI.
 
-1984—Pub. L. 98–369, div. A, title I, §42(b)(1), July 18, 1984, 98 Stat. 557, added item for part V.
+<b>1984</b>—Pub. L. 98–369, div. A, title I, §42(b)(1), July 18, 1984, 98 Stat. 557, added item for part V.
 
 
 ---

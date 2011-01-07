@@ -8,5 +8,5 @@
 
 #### Effective Date
 
-Section effective Nov. 3, 1988, but not applicable to any case commenced under this title before that date, see section 12 of Pub. L. 100–597, set out as an Effective Date of 1988 Amendment note under section 101 of this title.
+Section effective Nov. 3, 1988, but not applicable to any case commenced under this title before that date,see section 12 of Pub. L. 100–597, set out as an Effective Date of 1988 Amendment note under section 101 of this title.
 

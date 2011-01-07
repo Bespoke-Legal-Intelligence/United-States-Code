@@ -16,11 +16,11 @@ Reference to persons causing or procuring was omitted as unnecessary in view of 
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–386 substituted “20 years” for “10 years” and inserted at end “If death results from the violation of this section, or if the violation includes kidnapping or an attempt to kidnap, aggravated sexual abuse or the attempt to commit aggravated sexual abuse, or an attempt to kill, the defendant shall be fined under this title or imprisoned for any term of years or life, or both.”
+<b>2000</b>—Subsec. (a). Pub. L. 106–386 substituted “20 years” for “10 years” and inserted at end “If death results from the violation of this section, or if the violation includes kidnapping or an attempt to kidnap, aggravated sexual abuse or the attempt to commit aggravated sexual abuse, or an attempt to kill, the defendant shall be fined under this title or imprisoned for any term of years or life, or both.”
 
-1996—Subsec. (a). Pub. L. 104–208 substituted “10 years” for “five years”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208 substituted “10 years” for “five years”.
 
-1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
 #### Effective Date of 1996 Amendment
 

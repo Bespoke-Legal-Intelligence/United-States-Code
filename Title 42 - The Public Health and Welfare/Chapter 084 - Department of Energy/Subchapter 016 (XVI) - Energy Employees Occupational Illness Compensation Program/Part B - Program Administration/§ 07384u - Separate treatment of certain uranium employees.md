@@ -2,7 +2,7 @@
 
 #### (a) Compensation provided
 
-An individual who receives, or has received, $100,000 under section 5 of the Radiation Exposure Compensation Act (42 U.S.C. 2210 note) for a claim made under that Act (hereafter in thissection referred to as a “covered uranium employee”), or the survivor of that covered uranium employee if the employee is deceased, shall receive compensation under this section in the amount of $50,000.
+An individual who receives, or has received, $100,000 under section 5 of the Radiation Exposure Compensation Act (42 U.S.C. 2210 note) for a claim made under that Act (hereafter in this section referred to as a “covered uranium employee”), or the survivor of that covered uranium employee if the employee is deceased, shall receive compensation under this section in the amount of $50,000.
 
 #### (b) Medical benefits
 
@@ -20,7 +20,7 @@ The compensation provided under this section and the compensation provided under
 
 (1) In the case of a covered employee who is deceased at the time of payment of compensation under this section, whether or not the death is the result of the covered employee's occupational illness, such payment may be made only as follows:
 
-&emsp;(A) If the covered employee is survived by a spouse who is living at the time of payment, such payment shall be made to such surviving spouse.
+&emsp;(A) If the covered employee is survived by a spouse who is living at the time of payment,such payment shall be made to such surviving spouse.
 
 &emsp;(B) If there is no surviving spouse described in subparagraph (A), such payment shall be made in equal shares to all children of the covered employee who are living at the time of payment.
 
@@ -68,9 +68,9 @@ The Radiation Exposure Compensation Act, referred to in subsecs. (a) to (d), is 
 
 #### Amendments
 
-2004—Subsec. (d). Pub. L. 108–375 inserted “and the compensation provided under section 5 of the Radiation Exposure Compensation Act” after “The compensation provided under this section”.
+<b>2004</b>—Subsec. (d). Pub. L. 108–375 inserted “and the compensation provided under section 5 of the Radiation Exposure Compensation Act” after “The compensation provided under this section”.
 
-2001—Subsec. (e). Pub. L. 107–107 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows:
+<b>2001</b>—Subsec. (e). Pub. L. 107–107 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows:
 
 “(1) Subject to the provisions of this section, if a covered uranium employee dies before the effective date specified in subsection (g) of this section, whether or not the death is a result of the illness specified in subsection (b) of this section, a survivor of that employee may, on behalf of that survivor and any other survivors of that employee, receive the compensation provided for under this section.
 

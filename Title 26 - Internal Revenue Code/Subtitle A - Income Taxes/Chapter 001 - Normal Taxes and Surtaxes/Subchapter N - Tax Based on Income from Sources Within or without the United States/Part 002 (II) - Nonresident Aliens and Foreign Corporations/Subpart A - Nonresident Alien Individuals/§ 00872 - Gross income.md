@@ -48,7 +48,7 @@ The following items shall not be included in gross income of a nonresident alien
 
 &emsp;To the extent provided in regulations, a possession of the United States shall be treated as a foreign country for purposes of this subsection.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 280; Pub. L. 87–256, §110(c), Sept. 21, 1961, 75 Stat. 536; Pub. L. 89–809, title I, §103(b), Nov. 13, 1966, 80 Stat. 1550; Pub. L. 99–514, title XII, §1212(c)(1), (2), Oct. 22, 1986, 100 Stat. 2538; Pub. L. 100–647, title I, §1012(e)(2)(B), (5), (s)(2)(A), Nov. 10, 1988, 102 Stat. 3500, 3527; Pub. L. 101–239, title VII, §7811(i)(8)(C), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 103–296, title III, §320(a)(2), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 108–357, title IV, §419(a), Oct. 22, 2004, 118 Stat. 1513.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 280; Pub. L. 87–256, §110(c), Sept. 21, 1961, 75 Stat. 536; Pub. L. 89–809, title I, §103(b), Nov. 13, 1966, 80 Stat. 1550; Pub. L. 99–514, title XII, §1212(c)(1), (2), Oct. 22,1986, 100 Stat. 2538; Pub. L. 100–647, title I, §1012(e)(2)(B), (5), (s)(2)(A), Nov. 10, 1988, 102 Stat. 3500, 3527; Pub. L. 101–239, title VII, §7811(i)(8)(C), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 103–296, title III, §320(a)(2), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 108–357, title IV, §419(a), Oct. 22, 2004, 118 Stat. 1513.)
 
 #### References in Text
 
@@ -56,29 +56,29 @@ Section 101 of the Immigration and Nationality Act, referred to in subsec. (b)(3
 
 #### Amendments
 
-2004—Subsec. (b)(5) to (8). Pub. L. 108–357 added par. (5) and redesignated former pars. (5) to (7) as (6) to (8), respectively.
+<b>2004</b>—Subsec. (b)(5) to (8). Pub. L. 108–357 added par. (5) and redesignated former pars. (5) to (7) as (6) to (8), respectively.
 
-1994—Subsec. (b)(3). Pub. L. 103–296 substituted “(F), (J), or (Q)” for “(F) or (J)”.
+<b>1994</b>—Subsec. (b)(3). Pub. L. 103–296 substituted “(F), (J), or (Q)” for “(F) or (J)”.
 
-1989—Subsec. (b)(7). Pub. L. 101–239 added par. (7).
+<b>1989</b>—Subsec. (b)(7). Pub. L. 101–239 added par. (7).
 
-1988—Subsec. (a). Pub. L. 100–647, §1012(s)(2)(A), inserted “, except where the context clearly indicates otherwise” after “individual”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §1012(s)(2)(A), inserted “, except where the context clearly indicates otherwise” after “individual”.
 
 Subsec. (b)(1), (2). Pub. L. 100–647, §1012(e)(2)(B), (5), substituted “to individual residents of the United States” for “to citizens of the United States and to corporations organized in the United States” and “international operation” for “operation”.
 
-1986—Subsec. (b)(1). Pub. L. 99–514, §1212(c)(1), added par. (1) and struck out former par. (1), ships under foreign flag, which read as follows: “Earnings derived from the operation of a ship or ships documented under the laws of a foreign country which grants an equivalent exemption to citizens of the United States and to corporations organized in the United States.”
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–514, §1212(c)(1), added par. (1) and struck out former par. (1), ships under foreign flag, which read as follows: “Earnings derived from the operation of a ship or ships documented under the laws of a foreign country which grants an equivalent exemption to citizens of the United States and to corporations organized in the United States.”
 
 Subsec. (b)(2). Pub. L. 99–514, §1212(c)(1), added par. (2) and struck out former par. (2), aircraft of foreign registry, which read as follows: “Earnings derived from the operation of aircraft registered under the laws of a foreign country which grants an equivalent exemption to citizens of the United States and to corporations organized in the United States.”
 
 Subsec. (b)(5), (6). Pub. L. 99–514, §1212(c)(2), added pars. (5) and (6).
 
-1966—Subsec. (a). Pub. L. 89–809, §103(b)(1), limited the inclusion of gross income which is derived from sources within the United States to such income which is not effectively connected with the conduct of a trade or business within the United States and inserted provision including gross income without the limitation as to source which is effectively connected with the conduct of a trade or business within the United States.
+<b>1966</b>—Subsec. (a). Pub. L. 89–809, §103(b)(1), limited the inclusion of gross income which is derived from sources within the United States to such income which is not effectively connected with the conduct of a trade or business within the United States and inserted provision including gross income without the limitation as to source which is effectively connected with the conduct of a trade or business within the United States.
 
 Subsec. (b)(3)(B). Pub. L. 89–809, §103(b)(2), substituted “by a domestic corporation, a domestic partnership, or an individual who is a citizen or resident of the United States” for “by a domestic corporation”.
 
 Subsec. (b)(4). Pub. L. 89–809, §102(b)(3), added par. (4).
 
-1961—Subsec. (b)(3). Pub. L. 87–256 added par. (3).
+<b>1961</b>—Subsec. (b)(3). Pub. L. 87–256 added par. (3).
 
 #### Effective Date of 2004 Amendment
 

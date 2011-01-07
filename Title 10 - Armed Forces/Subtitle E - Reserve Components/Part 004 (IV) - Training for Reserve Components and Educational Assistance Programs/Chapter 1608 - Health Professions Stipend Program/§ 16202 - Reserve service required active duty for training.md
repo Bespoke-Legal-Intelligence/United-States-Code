@@ -16,7 +16,7 @@ IRR Service.—A person who is required under an agreement under section 16201 o
 
 #### Amendments
 
-1994—Pub. L. 103–337, §1663(c)(3), renumbered section 2129 of this title as this section.
+<b>1994</b>—Pub. L. 103–337, §1663(c)(3), renumbered section 2129 of this title as this section.
 
 Subsecs. (a), (b). Pub. L. 103–337, §1663(c)(6), substituted “16201” for “2128”.
 

@@ -6,11 +6,13 @@ In General.—(1) The Secretary of Defense may, at the discretion of the Secreta
 
 (2)(A) For purposes of sections 3304, 5333, and 5753 of title 5, the Secretary of Defense may—
 
-&emsp;(i) designate any category of medical or health professional positions within the Department of Defense as shortage category positions; and
+&emsp;(i) designate any category of medical or health professional positions within the Department of Defense as a shortage category occupation or critical need occupation; and
 
-&emsp;(ii) utilize the authorities in such sections to recruit and appoint highly qualified persons directly to positions so designated.
+&emsp;(ii) utilize the authorities in such sections to recruit and appoint qualified persons directly in the competitive service to positions so designated.
 
-(B) In using the authority provided by this paragraph, the Secretary shall apply the principles of preference for the hiring of veterans and other persons established in subchapter 1<sup>1</sup> of chapter 33 of title 5.
+(B) In using the authority provided by this paragraph, the Secretary shall apply the principles of preference for the hiring of veterans and other persons established in subchapter I of chapter 33 of title 5.
+
+(C) Any designation by the Secretary for purposes of subparagraph (A)(i) shall be based on an analysis of current and future Department of Defense workforce requirements.
 
 (b)
 
@@ -24,11 +26,11 @@ Recruitment of Personnel.—(1) The Secretaries of the military departments shal
 
 (c)
 
-Termination of Authority.—(1) The authority of the Secretary of Defense to exercise authorities available under chapter 74 of title 38 for purposes of the recruitment, employment, and retention of civilian health care professionals for the Department of Defense expires September 30, 2012.
+Termination of Authority.—(1) The authority of the Secretary of Defense under subsection (a)(1) to exercise authorities availableunder chapter 74 of title 38 for purposes of the recruitment, employment, and retention of civilian health care professionals for the Department of Defense expires December 31, 2015.
 
-(2) The Secretary may not appoint a person to a position of employment under subsection (a)(2) after September 30, 2012.
+(2) The Secretary may not appoint a person to a position of employment under subsection (a)(2) after December 31, 2015.
 
-(Added Pub. L. 107–107, div. A, title XI, §1104(a), Dec. 28, 2001, 115 Stat. 1236; amended Pub. L. 110–181, div. A, title XVI, §1636(a), Jan. 28, 2008, 122 Stat. 463; Pub. L. 110–417, \[div. A\], title XI, §1107, Oct. 14, 2008, 122 Stat. 4617.)
+(Added Pub. L. 107–107, div. A, title XI, §1104(a), Dec. 28, 2001, 115 Stat. 1236; amended Pub. L. 110–181, div. A, title XVI, §1636(a), Jan. 28, 2008, 122 Stat. 463; Pub. L. 110–417, \[div. A\], title XI, §1107, Oct. 14, 2008, 122 Stat. 4617; Pub. L. 111–383, div. A, title X, §1075(b)(22), title XI, §1104, Jan. 7, 2011, 124 Stat. 4370, 4383.)
 
 #### Prior Provisions
 
@@ -36,11 +38,21 @@ A prior section 1599c, added Pub. L. 104–201, div. A, title XVI, §1615(a)(1),
 
 #### Amendments
 
-2008—Pub. L. 110–181 amended section generally. Prior to amendment, section related to appointment in excepted service of certain health care professionals.
+<b>2011</b>—Subsec. (a)(2)(A)(i). Pub. L. 111–383, §1104(a)(1)(A), substituted “a shortage category occupation or critical need occupation” for “shortage category positions”.
+
+Subsec. (a)(2)(A)(ii). Pub. L. 111–383, §1104(a)(1)(B), substituted “qualified persons directly in the competitive service” for “highly qualified persons directly”.
+
+Subsec. (a)(2)(B). Pub. L. 111–383, §1075(b)(22), substituted “subchapter I” for “subchapter 1”.
+
+Subsec. (a)(2)(C). Pub. L. 111–383, §1104(a)(2), added subpar. (C).
+
+Subsec. (c)(1). Pub. L. 111–383, §1104(b)(1), inserted “under subsection (a)(1)” after “Secretary of Defense” and substituted “December 31, 2015” for “September 30, 2012”.
+
+Subsec. (c)(2). Pub. L. 111–383, §1104(b)(2), substituted “December 31, 2015” for “September 30, 2012”.
+
+<b>2008</b>—Pub. L. 110–181 amended section generally. Prior to amendment, section related to appointment in excepted service of certain health care professionals.
 
 Subsec. (a). Pub. L. 110–417, §1107(a), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (c). Pub. L. 110–417, §1107(b), designated existing provisions as par. (1), substituted “September 30, 2012” for “September 30, 2010”, and added par. (2).
-
-<i><sup>1</sup></i><i> So in original. Probably should be “subchapter I”.</i>
 

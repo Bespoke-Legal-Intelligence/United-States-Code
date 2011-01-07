@@ -72,7 +72,7 @@ In making the adjustments to the earnings and profits of a corporation under sub
 
 &emsp;(1) If any increase or decrease in the earnings and profits for any period beginning after February 28, 1913, with respect to any matter would be different had the adjusted basis of the property involved been determined without regard to its March 1, 1913, value, then, except as provided in paragraph (2), an increase (properly reflecting such difference) shall be made in that part of the earnings and profits consisting of increase in value of property accrued before March 1, 1913.
 
-&emsp;(2) If the application of subsection (f) to a sale or other disposition after February 28, 1913, results in a loss which is to be applied in decrease of earnings and profits for any period beginning after February 28, 1913, then, notwithstanding subsection (f) and in lieu of the rule provided in paragraph (1) of this subsection, the amount of such loss so to be applied shall be reduced by the amount, if any, by which the adjusted basis of the property used in determining the loss exceeds the adjusted basis computed without regard to the value of the property on March 1, 1913, and if such amount so applied in reduction of the decrease exceeds such loss, the excess over such loss shall increase that part of the earnings and profits consisting of increase in value of property accrued before March 1, 1913.
+&emsp;(2) If the application of subsection (f) to a sale or other disposition after February 28, 1913, results in a loss which is to be applied in decrease of earnings and profits for any period beginning after February 28, 1913, then, notwithstanding subsection (f) and in lieu of the rule provided in paragraph (1) of this subsection, the amount of such loss so to be applied shall be reduced by the amount, if any, by which the adjusted basis of the property used in determining the loss exceeds the adjusted basis computed without regard to thevalue of the property on March 1, 1913, and if such amount so applied in reduction of the decrease exceeds such loss, the excess over such loss shall increase that part of the earnings and profits consisting of increase in value of property accrued before March 1, 1913.
 
 #### (h) Allocation in certain corporate separations and reorganizations
 
@@ -244,7 +244,7 @@ For purposes of computing the earnings and profits of a corporation, the followi
 
 #### (7) Redemptions
 
-&emsp;If a corporation distributes amounts in a redemption to which section 302(a) or 303 applies, the part of such distribution which is properly chargeable to earnings and profits shall be an amount which is not in excess of the ratable share of the earnings and profits of such corporation accumulated after February 28, 1913, attributable to the stock so redeemed.
+&emsp;If a corporation distributes amounts in a redemption to which section 302(a) or 303 applies, the part of such distribution which is properly chargeable to earnings and profitsshall be an amount which is not in excess of the ratable share of the earnings and profits of such corporation accumulated after February 28, 1913, attributable to the stock so redeemed.
 
 #### (8) Special rule for certain foreign corporations
 
@@ -266,21 +266,21 @@ Section 115(h) of the Internal Revenue Code of 1939, referred to in subsec. (d)(
 
 #### Amendments
 
-2006—Subsec. (k)(3)(B). Pub. L. 109–432 substituted “179D, or 179E” for “or 179D” in heading and two places in text.
+<b>2006</b>—Subsec. (k)(3)(B). Pub. L. 109–432 substituted “179D, or 179E” for “or 179D” in heading and two places in text.
 
-2005—Subsec. (k)(3)(B). Pub. L. 109–58, §1331(b)(5), substituted “179, 179A, 179B, 179C, or 179D” for “179, 179A, 179B, or 179C” in heading and two places in text.
+<b>2005</b>—Subsec. (k)(3)(B). Pub. L. 109–58, §1331(b)(5), substituted “179, 179A, 179B, 179C, or 179D” for “179, 179A, 179B, or 179C” in heading and two places in text.
 
 Pub. L. 109–58, §1323(b)(3), substituted “179, 179A, 179B, or 179C” for “179 179A, or 179B” in heading and two places in text.
 
-2004—Subsec. (j). Pub. L. 108–357, §413(c)(4), struck out subsec. (j) which related to earnings and profits of foreign investment companies.
+<b>2004</b>—Subsec. (j). Pub. L. 108–357, §413(c)(4), struck out subsec. (j) which related to earnings and profits of foreign investment companies.
 
 Subsec. (k)(3)(B). Pub. L. 108–357, §338(b)(3), substituted “179A, or 179B” for “or 179A” in heading and two places in text.
 
 Subsec. (m). Pub. L. 108–357, §413(c)(5), struck out “, a foreign investment company (within the meaning of section 1246(b)), or a foreign personal holding company (within the meaning of section 552)” before “and the issuance”.
 
-1997—Subsec. (k)(3)(B). Pub. L. 105–34, in heading substituted “179 or 179A” for “179” and in text substituted “section 179 or 179A shall” for “section 179 shall” and “section 179 or 179A, as the case may be)” for “section 179)”.
+<b>1997</b>—Subsec. (k)(3)(B). Pub. L. 105–34, in heading substituted “179 or 179A” for “179” and in text substituted “section 179 or 179A shall” for “section 179 shall” and “section 179 or 179A, as the case may be)” for “section 179)”.
 
-1990—Subsec. (k)(2). Pub. L. 101–508, §11812(b)(5), substituted heading for one which read: “Exceptions” and amended text generally. Prior to amendment, text read as follows: “If for any taxable year beginning after June 30, 1972, a method of depreciation was used by the taxpayer which the Secretary has determined results in a reasonable allowance under section 167(a), and which is not—
+<b>1990</b>—Subsec. (k)(2). Pub. L. 101–508, §11812(b)(5), substituted heading for one which read: “Exceptions” and amended text generally. Prior to amendment, text read as follows: “If for any taxable year beginning after June 30, 1972, a method of depreciation was used by the taxpayer which the Secretary has determined results in a reasonable allowance under section 167(a), and which is not—
 
 &emsp;“(A) a declining balance method,
 
@@ -292,17 +292,17 @@ Subsec. (m). Pub. L. 108–357, §413(c)(5), struck out “, a foreign investme
 
 Subsec. (k)(5). Pub. L. 101–508, §11813(b)(14), substituted “section 50(c)” for “section 48(q)”.
 
-1989—Subsec. (b). Pub. L. 101–239, §7811(m)(2), made clarifying amendment to directory language of Pub. L. 100–647, §1018(d)(4), see 1988 Amendment note below.
+<b>1989</b>—Subsec. (b). Pub. L. 101–239, §7811(m)(2), made clarifying amendment to directory language of Pub. L. 100–647, §1018(d)(4), see 1988 Amendment note below.
 
 Subsec. (n)(2)(A)(ii). Pub. L. 101–239, §7611(f)(5)(A), substituted “in which such amount was paid or incurred” for “in which the production from the well begins”.
 
-1988—Subsec. (b). Pub. L. 100–647, §1018(d)(4), as amended by Pub. L. 101–239, §7811(m)(2), substituted “of any property (other than an obligation of such corporation)” for “of any property” in introductory provisions.
+<b>1988</b>—Subsec. (b). Pub. L. 100–647, §1018(d)(4), as amended by Pub. L. 101–239, §7811(m)(2), substituted “of any property (other than an obligation of such corporation)” for “of any property” in introductory provisions.
 
 Subsec. (k)(4). Pub. L. 100–647, §1002(a)(3), substituted “paragraph (1)” for “paragraphs (1) and (3)”.
 
 Subsec. (n)(1)(B). Pub. L. 100–647, §1018(u)(4), made technical amendment to directory language of Pub. L. 99–514, §803(b)(3)(A). See 1986 Amendment note below.
 
-1986—Subsec. (b). Pub. L. 99–514, §1804(f)(1)(A), amended subsec. (b) generally, substituting provisions relating to distributions of appreciated property for provisions relating to distribution of certain inventory assets.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514, §1804(f)(1)(A), amended subsec. (b) generally, substituting provisions relating to distributions of appreciated property for provisions relating to distribution of certain inventory assets.
 
 Subsec. (c). Pub. L. 99–514, §1804(f)(1)(B), (C), struck out “, etc.” after “liabilities” in heading and struck out par. (3) which read as follows: “any gain recognized to the corporation on the distribution.”
 
@@ -326,9 +326,9 @@ Subsec. (n)(5) to (7). Pub. L. 99–514, §1804(f)(1)(D), redesignated pars. (6)
 
 Subsec. (n)(8), (9). Pub. L. 99–514, §1804(f)(1)(D), (E), redesignated par. (9) as (8) and substituted provisions of subpars. (A) and (B) for “paragraphs (5), (6), and (7) shall apply only in the case of taxable years beginning after December 31, 1985.” Former par. (8) redesignated (7).
 
-1985—Subsec. (k)(3)(A). Pub. L. 99–121 substituted “19-year real property” for “18-year real property” wherever appearing.
+<b>1985</b>—Subsec. (k)(3)(A). Pub. L. 99–121 substituted “19-year real property” for “18-year real property” wherever appearing.
 
-1984—Subsec. (a)(2). Pub. L. 98–369, §61(c)(1)(A), inserted “(or, in the case of obligations having original issue discount, the aggregate issue price of such obligations)”.
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–369, §61(c)(1)(A), inserted “(or, in the case of obligations having original issue discount, the aggregate issue price of such obligations)”.
 
 Subsec. (e). Pub. L. 98–369, §61(a)(2)(B), struck out subsec. (e) which provided: “In the case of amounts distributed in a redemption to which section 302(a) or 303 applies, the part of such distribution which is properly chargeable to capital account shall not be treated as a distribution of earnings and profits.”
 
@@ -344,21 +344,21 @@ Subsec. (n). Pub. L. 98–369, §61(a)(1), added subsec. (n).
 
 Subsec. (<i>o</i>). Pub. L. 98–369, §61(c)(1)(B), added subsec. (<i>o</i>).
 
-1983—Subsec. (j)(3). Pub. L. 97–448 substituted “Redemptions” for “Partial liquidations and redemptions” in heading, and in text struck out “in partial liquidation or” after “distributes amounts”.
+<b>1983</b>—Subsec. (j)(3). Pub. L. 97–448 substituted “Redemptions” for “Partial liquidations and redemptions” in heading, and in text struck out “in partial liquidation or” after “distributes amounts”.
 
-1982—Subsec. (e). Pub. L. 97–248, §222(e)(3), struck out “partial liquidations and” in heading, and in text struck out “in partial liquidation (whether before, on, or after June 22, 1954) or” after “amounts distributed”.
+<b>1982</b>—Subsec. (e). Pub. L. 97–248, §222(e)(3), struck out “partial liquidations and” in heading, and in text struck out “in partial liquidation (whether before, on, or after June 22, 1954) or” after “amounts distributed”.
 
 Subsec. (k)(5). Pub. L. 97–248, §205(a)(3), added par. (5).
 
 Subsec. (m). Pub. L. 97–248, §310(b)(3), added subsec. (m).
 
-1981—Subsec. (k)(3), (4). Pub. L. 97–34 added par. (3), redesignated former par. (3) as (4) substituted “The provisions of paragraphs (1) and (3)” for “The provisions of paragraph (1)”, and inserted provision that the rules of section 168(f)(2) shall apply in determining the earnings and profits of the corporation in the case of recovery property (within the meaning of section 168).
+<b>1981</b>—Subsec. (k)(3), (4). Pub. L. 97–34 added par. (3), redesignated former par. (3) as (4) substituted “The provisions of paragraphs (1) and (3)” for “The provisions of paragraph (1)”, and inserted provision that the rules of section 168(f)(2) shall apply in determining the earnings and profits of the corporation in the case of recovery property (within the meaning of section 168).
 
-1980—Subsec. (<i>l</i>). Pub. L. 96–589 added subsec. (<i>l</i>).
+<b>1980</b>—Subsec. (<i>l</i>). Pub. L. 96–589 added subsec. (<i>l</i>).
 
-1978—Subsec. (c)(3). Pub. L. 95–628 substituted “gain recognized to the corporation on the distribution” for “gain to the corporation recognized under subsection (b), (c), or (d) of section 311, under section 341(f), or under section 617(d)(1), 1245(a), 1250(a), 1251(c), 1252(a), or 1254(a)”.
+<b>1978</b>—Subsec. (c)(3). Pub. L. 95–628 substituted “gain recognized to the corporation on the distribution” for “gain to the corporation recognized under subsection (b), (c), or (d) of section 311, under section 341(f), or under section 617(d)(1), 1245(a), 1250(a), 1251(c), 1252(a), or 1254(a)”.
 
-1976—Subsec. (c)(3). Pub. L. 94–455, §205(c)(1)(D), substituted “1252(a), or 1254(a)” for “or 1252(a)”.
+<b>1976</b>—Subsec. (c)(3). Pub. L. 94–455, §205(c)(1)(D), substituted “1252(a), or 1254(a)” for “or 1252(a)”.
 
 Subsec. (d)(1). Pub. L. 94–455, §1901(a)(43)(A), substituted “this title” for “this Code” wherever appearing.
 
@@ -374,17 +374,17 @@ Subsec. (<i>l</i>). Pub. L. 94–455, §1901(b)(32)(B)(i), redesignated subsec. 
 
 Subsec. (m). Pub. L. 94–455, §1901(b)(32)(B)(i), redesignated subsec. (m) as (k).
 
-1969—Subsec. (c)(3). Pub. L. 91–172, §§211(b)(3), 905(b)(2), substituted “1250(a), 1251(c), or 1252(a)”, for “or 1250(a)” and inserted reference to section 311(d).
+<b>1969</b>—Subsec. (c)(3). Pub. L. 91–172, §§211(b)(3), 905(b)(2), substituted “1250(a), 1251(c), or 1252(a)”, for “or 1250(a)” and inserted reference to section 311(d).
 
 Subsec. (m). Pub. L. 91–172, §442(a), added subsec. (m).
 
-1966—Subsec. (c)(3). Pub. L. 89–570 inserted reference to section 617(d)(1).
+<b>1966</b>—Subsec. (c)(3). Pub. L. 89–570 inserted reference to section 617(d)(1).
 
-1964—Subsec. (c)(3). Pub. L. 88–484 authorized adjustment for amount of gain recognized under section 341(f).
+<b>1964</b>—Subsec. (c)(3). Pub. L. 88–484 authorized adjustment for amount of gain recognized under section 341(f).
 
 Pub. L. 88–272 inserted reference to section 1250(a).
 
-1962—Subsec. (c)(3). Pub. L. 87–834, §13(f)(3), included any gain recognized under section 1245(a).
+<b>1962</b>—Subsec. (c)(3). Pub. L. 87–834, §13(f)(3), included any gain recognized under section 1245(a).
 
 Subsec. (k). Pub. L. 87–403 added subsec. (k).
 
@@ -398,7 +398,7 @@ Amendment by Pub. L. 109–432 applicable to costs paid or incurred after Dec. 2
 
 Amendment by section 1323(b)(3) of Pub. L. 109–58 applicable to properties placed in service after Aug. 8, 2005, see section 1323(c) of Pub. L. 109–58, set out as an Effective Date note under section 179C of this title.
 
-Amendment by section 1331(b)(5) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005,see section 1331(d) of Pub. L. 109–58, set out as an Effective Date note under section 179D of this title.
+Amendment by section 1331(b)(5) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, see section 1331(d) of Pub. L. 109–58, set out as an Effective Date note under section 179D of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -554,5 +554,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+
+<i><sup>1</sup></i><i> Subsec. (m) was enacted without a period at the end.</i>
 

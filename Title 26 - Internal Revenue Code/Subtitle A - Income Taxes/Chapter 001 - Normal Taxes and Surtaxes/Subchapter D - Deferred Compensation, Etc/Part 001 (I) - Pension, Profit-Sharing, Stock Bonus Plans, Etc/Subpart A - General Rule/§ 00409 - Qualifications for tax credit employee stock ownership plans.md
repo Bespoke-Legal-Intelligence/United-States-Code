@@ -18,7 +18,7 @@ Except as otherwise provided in this title, for purposes of this title, the term
 
 &emsp;&emsp;(A) the plan provides for the allocation for the plan year of all employer securities transferred to it or purchased by it (because of the requirements of section 41(c)(1)(B)) <sup>1</sup> to the accounts of all participants who are entitled to share in such allocation, and
 
-&emsp;&emsp;(B) for the plan year the allocation to each participant so entitled is an amount whichbears substantially the same proportion to the amount of all such securities allocated to all such participants in the plan for that year as the amount of compensation paid to such participant during that year bears to the compensation paid to all such participants during that year.
+&emsp;&emsp;(B) for the plan year the allocation to each participant so entitled is an amount which bears substantially the same proportion to the amount of all such securities allocated to all such participants in the plan for that year as the amount of compensation paid to such participant during that year bears to the compensation paid to all such participants during that year.
 
 #### (2) Compensation in excess of $100,000 disregarded
 
@@ -82,7 +82,7 @@ A plan meets the requirements of this subsection only if it provides that no emp
 
 #### (1) In general
 
-&emsp;A plan meets the requirements of this subsection only if it is established on or before the due date (including any extension of such date) for the filing of the employer's tax return for the first taxable year of the employer for which an employee plan credit is claimed by the employer with respect to the plan.
+&emsp;A plan meets the requirements of this subsection only if it is established on or beforethe due date (including any extension of such date) for the filing of the employer's tax return for the first taxable year of the employer for which an employee plan credit is claimed by the employer with respect to the plan.
 
 #### (2) Special rule for first year
 
@@ -90,7 +90,7 @@ A plan meets the requirements of this subsection only if it provides that no emp
 
 #### (g) Transferred amounts must stay in plan even though investment credit is redetermined or recaptured
 
-A plan meets the requirement of this subsection only if it provides that amounts whichare transferred to the plan (because of the requirements of section 48(n)(1) or 41(c)(1)(B)) <sup>2</sup> shall remain in the plan (and, if allocated under the plan, shall remain so allocated) even though part or all of the employee plan credit or the credit allowed under section 41 <sup>2</sup> (relating to employee stock ownership credit) is recaptured or redetermined. For purposes of the preceding sentence, the references to section 48(n)(1) <sup>2</sup> and the employee plan credit shall refer to such section and credit as in effect before the enactment of the Tax Reform Act of 1984.
+A plan meets the requirement of this subsection only if it provides that amounts which are transferred to the plan (because of the requirements of section 48(n)(1) or 41(c)(1)(B)) <sup>2</sup> shall remain in the plan (and, if allocated under the plan, shall remain so allocated) even though part or all of the employee plan credit or the credit allowed under section 41 <sup>2</sup> (relating to employee stock ownership credit) is recaptured or redetermined. For purposes of the preceding sentence, the references to section 48(n)(1) <sup>2</sup> and the employee plan credit shall refer to such section and credit as in effect before the enactment of the Tax Reform Act of 1984.
 
 #### (h) Right to demand employer securities; put option
 
@@ -216,7 +216,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, the term “controlled group of corporations” has the meaning given to such term by section 1563(a) (determined without regard to subsections (a)(4) and (e)(3)(C) of section 1563).
+&emsp;&emsp;For purposes of this subsection, the term “controlled group of corporations” has themeaning given to such term by section 1563(a) (determined without regard to subsections (a)(4) and (e)(3)(C) of section 1563).
 
 #### (B) Where common parent owns at least 50 percent of first tier subsidiary
 
@@ -304,7 +304,7 @@ A plan meets the requirements of this subsection if—
 
 #### (A) In general
 
-&emsp;&emsp;The plan provides that, if the participant and, if applicable pursuant to sections401(a)(11) and 417, with the consent of the participant's spouse elects, the distribution of the participant's account balance in the plan will commence not later than 1 year after the close of the plan year—
+&emsp;&emsp;The plan provides that, if the participant and, if applicable pursuant to sections 401(a)(11) and 417, with the consent of the participant's spouse elects, the distribution of the participant's account balance in the plan will commence not later than 1 year after the close of the plan year—
 
 &emsp;&emsp;&emsp;(i) in which the participant separates from service by reason of the attainment of normal retirement age under the plan, disability, or death, or
 
@@ -382,7 +382,7 @@ A plan meets the requirements of this subsection if—
 
 &emsp;&emsp;&emsp;(i) the aggregate number of deemed-owned shares of such person and the members of such person's family is at least 20 percent of the number of deemed-owned shares of stock in the S corporation, or
 
-&emsp;&emsp;&emsp;(ii) in the case of a person not described in clause (i), the number of deemed-owned shares of such person is at least 10 percent of the number of deemed-owned shares of stock in such corporation.
+&emsp;&emsp;&emsp;(ii) in the case of a person not described in clause (i), the number of deemed-ownedshares of such person is at least 10 percent of the number of deemed-owned shares of stock in such corporation.
 
 #### (B) Treatment of family members
 
@@ -396,7 +396,7 @@ A plan meets the requirements of this subsection if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the stock in the S corporation constituting employer securities of an employee stock ownership plan which is allocated to such person under the plan, and
 
-&emsp;&emsp;&emsp;&emsp;(II) such person's share of the stock in such corporation which is held by suchplan but which is not allocated under the plan to participants.
+&emsp;&emsp;&emsp;&emsp;(II) such person's share of the stock in such corporation which is held by such plan but which is not allocated under the plan to participants.
 
 #### (ii) Person's share of unallocated stock
 
@@ -460,7 +460,7 @@ A plan meets the requirements of this subsection if—
 
 &emsp;&emsp;<b>(3) For requirements for allowance of an employee stock ownership credit, see section 41.</b><b><sup>6</sup></b>
 
-(Added Pub. L. 95–600, title I, §141(a), Nov. 6, 1978, 92 Stat. 2787, §409A; amended Pub. L. 96–222, title I, §101(a)(7)(D)–(F), (I), (J), (L)(i)(VI), (ii)(I), (II), (iii)(V), (v)(VI), (VII), Apr. 1, 1980, 94 Stat. 198–200; Pub. L. 96–605, title II, §224(a), Dec. 28, 1980, 94 Stat. 3528; Pub. L. 97–34, title III, §§331(c)(1), 334, 336, 337(a), Aug. 13, 1981, 95 Stat. 293, 297, 298; Pub. L. 97–448, title I, §103(h), (i), Jan. 12, 1983, 96 Stat. 2379; renumbered §409 and amended Pub. L. 98–369, div. A, title IV, §§474(r)(15), 491(e)(1), July 18, 1984, 98 Stat. 843, 852; Pub. L. 99–514, title XI, §§1172(b)(1), 1174(a)(1), (b)(1), (2), (c)(1)(A), 1176(b), title XVIII, §§1852(a)(4)(B), 1854(a)(3)(A), (f)(1), (3)(C), 1899A(11), Oct. 22, 1986, 100 Stat. 2514, 2516, 2517, 2520, 2865, 2873, 2881, 2882, 2958; Pub. L. 100–647, title I, §§1011B(g)(1), (2), (i)(1), (3), (j)(3), (5), (k)(3), 1018(t)(4)(B), (C), (H), Nov. 10, 1988, 102 Stat. 3490, 3492, 3493, 3588, 3589; Pub. L. 101–239, title VII, §§7304(a)(2)(A), (B), 7811(h)(1), Dec. 19, 1989, 103 Stat. 2352, 2353, 2409; Pub. L. 105–34, title XV, §1506(a), Aug. 5, 1997, 111 Stat. 1064; Pub. L. 107–16, title VI, §656(a), June 7, 2001, 115 Stat. 131; Pub. L. 107–147, title IV, §411(j)(2), Mar. 9, 2002, 116 Stat. 47; Pub. L. 109–280, title IX, §901(a)(2)(B), Aug. 17, 2006, 120 Stat. 1029.)
+(Added Pub. L. 95–600, title I, §141(a), Nov. 6, 1978, 92 Stat. 2787, §409A; amended Pub. L. 96–222, title I, §101(a)(7)(D)–(F), (I), (J), (L)(i)(VI), (ii)(I), (II), (iii)(V), (v)(VI), (VII), Apr. 1, 1980, 94 Stat. 198–200; Pub. L. 96–605, title II, §224(a), Dec. 28, 1980, 94 Stat. 3528; Pub. L. 97–34, title III, §§331(c)(1), 334, 336, 337(a), Aug. 13, 1981, 95 Stat. 293, 297, 298; Pub. L. 97–448, title I, §103(h), (i), Jan. 12, 1983, 96 Stat. 2379; renumbered §409 and amended Pub. L. 98–369, div. A, title IV, §§474(r)(15), 491(e)(1), July 18, 1984, 98 Stat. 843, 852; Pub. L. 99–514, title XI, §§1172(b)(1),1174(a)(1), (b)(1), (2), (c)(1)(A), 1176(b), title XVIII, §§1852(a)(4)(B), 1854(a)(3)(A), (f)(1), (3)(C), 1899A(11), Oct. 22, 1986, 100 Stat. 2514, 2516, 2517, 2520, 2865, 2873, 2881, 2882, 2958; Pub. L. 100–647, title I, §§1011B(g)(1), (2), (i)(1), (3), (j)(3), (5), (k)(3), 1018(t)(4)(B), (C), (H), Nov. 10, 1988, 102 Stat. 3490, 3492, 3493, 3588, 3589; Pub. L. 101–239, title VII, §§7304(a)(2)(A), (B), 7811(h)(1), Dec. 19, 1989, 103 Stat. 2352, 2353, 2409; Pub. L. 105–34, title XV, §1506(a), Aug. 5, 1997, 111 Stat. 1064; Pub. L. 107–16, title VI, §656(a), June 7, 2001, 115 Stat. 131; Pub. L. 107–147, title IV, §411(j)(2), Mar. 9, 2002, 116 Stat. 47; Pub. L. 109–280, title IX, §901(a)(2)(B), Aug. 17, 2006, 120 Stat. 1029.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -468,7 +468,7 @@ A plan meets the requirements of this subsection if—
 
 #### References in Text
 
-Section 41, referred to in subsecs. (b)(1)(A), (4), (g), (i)(1)(A), (m), and (p), which related to employee stockownership credit, was repealed by Pub. L. 99–514, title XI, §1171(a), Oct. 22, 1986, 100 Stat. 2513. Section 30 of this title, relating to credit for increasing research activities, was renumbered section 41.
+Section 41, referred to in subsecs. (b)(1)(A), (4), (g), (i)(1)(A), (m), and (p), which related to employee stock ownership credit, was repealed by Pub. L. 99–514, title XI, §1171(a), Oct. 22, 1986, 100 Stat. 2513. Section 30 of this title, relating to credit for increasing research activities, was renumbered section 41.
 
 Section 12 of the Securities Exchange Act of 1934, referred to in subsec. (e)(4), is classified to section 78<i>l</i> of Title 15, Commerce and Trade.
 
@@ -486,15 +486,15 @@ A prior section 409, added Pub. L. 93–406, title II, §2002(c), Sept. 2, 1974,
 
 #### Amendments
 
-2006—Subsec. (h)(7). Pub. L. 109–280 inserted “or subparagraph (B) or (C) of section 401(a)(35)” before period at end.
+<b>2006</b>—Subsec. (h)(7). Pub. L. 109–280 inserted “or subparagraph (B) or (C) of section 401(a)(35)” before period at end.
 
-2002—Subsec. (<i>o</i>)(1)(C)(ii). Pub. L. 107–147 substituted “$800,000” for “$500,000” in two places and “$160,000” for “$100,000”.
+<b>2002</b>—Subsec. (<i>o</i>)(1)(C)(ii). Pub. L. 107–147 substituted “$800,000” for “$500,000” in two places and “$160,000” for “$100,000”.
 
-2001—Subsecs. (p), (q). Pub. L. 107–16 added subsec. (p) and redesignated former subsec. (p) as (q).
+<b>2001</b>—Subsecs. (p), (q). Pub. L. 107–16 added subsec. (p) and redesignated former subsec. (p) as (q).
 
-1997—Subsec. (h)(2). Pub. L. 105–34 designated existing provisions as subpar. (A), inserted subpar. heading, struck out “In the case of an employer whose charter or bylaws restrict the ownership of substantially all outstanding employer securities to employees or to a trust described in section 401(a), a plan which otherwise meets the requirements of this subsection or section 4975(e)(7) shall not be considered to have failed to meet the requirements of this subsection or of section 401(a) merely because it does not permit a participant to exercise the right described in paragraph (1)(A) if such plan provides that participants entitled to a distribution from the plan shall have a right to receive such distribution in cash, except that such plan may distribute employer securities subject to a requirement that such securities may be resold to the employer under terms which meet the requirements of paragraph (1)(B).” after “employer securities.”, and added subpar. (B).
+<b>1997</b>—Subsec. (h)(2). Pub. L. 105–34 designated existing provisions as subpar. (A), inserted subpar. heading, struck out “In the case of an employer whose charter or bylaws restrict the ownership of substantially all outstanding employer securities to employees or to a trust described in section 401(a), a plan which otherwise meets the requirements of this subsection or section 4975(e)(7) shall not be considered to have failed to meet the requirements of this subsection or of section 401(a) merely because it does not permit a participant to exercise the right described in paragraph (1)(A) if such plan provides that participants entitled to a distribution from the plan shall have a right to receive such distribution in cash, except that such plan may distribute employer securities subject to a requirement that such securities may be resold to the employer under terms which meet the requirements of paragraph (1)(B).” after “employer securities.”, and added subpar. (B).
 
-1989—Subsec. (<i>l</i>)(5). Pub. L. 101–239, §7811(h)(1), substituted “the second sentence” for “the last sentence”.
+<b>1989</b>—Subsec. (<i>l</i>)(5). Pub. L. 101–239, §7811(h)(1), substituted “the second sentence” for “the last sentence”.
 
 Subsec. (n)(1). Pub. L. 101–239, §7304(a)(2)(A)(i), struck out “or section 2057” after “section 1042” in two places in introductory provisions.
 
@@ -504,7 +504,7 @@ Subsec. (n)(1)(A)(ii). Pub. L. 101–239, §7304(a)(2)(A)(iii), struck out “or
 
 Subsec. (n)(2)(C)(i), (3)(A)(ii). Pub. L. 101–239, §7304(a)(2)(B), struck out “or section 2057” after “section 1042”.
 
-1988—Subsec. (d). Pub. L. 100–647, §1011B(j)(3), inserted “or to any distribution or reinvestment required under section 401(a)(28)” after “under section 401(a)(9)”.
+<b>1988</b>—Subsec. (d). Pub. L. 100–647, §1011B(j)(3), inserted “or to any distribution or reinvestment required under section 401(a)(28)” after “under section 401(a)(9)”.
 
 Subsec. (e)(5). Pub. L. 100–647, §1018(t)(4)(H), substituted “paragraph (3)” for “paragraph (2) or (3)”.
 
@@ -528,7 +528,7 @@ Subsec. (<i>o</i>)(1)(A). Pub. L. 100–647, §1011B(i)(3), substituted “if th
 
 Subsec. (<i>o</i>)(1)(A)(ii). Pub. L. 100–647, §1011B(i)(1), substituted “distribution is required to begin under this clause” for “such year”.
 
-1986—Subsec. (a)(3). Pub. L. 99–514, §1174(b)(2), inserted reference to subsec. (<i>o</i>).
+<b>1986</b>—Subsec. (a)(3). Pub. L. 99–514, §1174(b)(2), inserted reference to subsec. (<i>o</i>).
 
 Subsec. (d). Pub. L. 99–514, §1899A(11), substituted “participant's” for “participants's”.
 
@@ -538,7 +538,7 @@ Subsec. (d)(1). Pub. L. 99–514, §1174(a)(1), substituted “separation from s
 
 Subsec. (e)(2). Pub. L. 99–514, §1854(f)(1)(C), (D), inserted “or beneficiary” after “participant” in two places and substituted “securities of the employer” for “employer securities”.
 
-Subsec. (e)(3). Pub. L. 99–514, §1854(f)(1)(B)–(D), inserted “or beneficiary” after “participant” in two places and substituted “securities of the employer” for “employer securities” and “any corporate matter which involves the voting of such shares with respect to the approval or disapproval of any corporate merger or consolidation, recapitalization, reclassification, liquidation, dissolution, sale of substantially all assets of a trade or business, or such similar transaction as the Secretary may prescribe in regulations” for “a corporate matter which (by law or charter) must be decided by more than a majority vote of outstanding common shares voted”.
+Subsec. (e)(3). Pub. L. 99–514, §1854(f)(1)(B)–(D), inserted “or beneficiary” after “participant” in two places and substituted “securities of the employer” for“employer securities” and “any corporate matter which involves the voting of such shares with respect to the approval or disapproval of any corporate merger or consolidation, recapitalization, reclassification, liquidation, dissolution, sale of substantially all assets of a trade or business, or such similar transaction as the Secretary may prescribe in regulations” for “a corporate matter which (by law or charter) must be decided by more than a majority vote of outstanding common shares voted”.
 
 Subsec. (e)(5). Pub. L. 99–514, §1854(f)(1)(A), added par. (5).
 
@@ -550,7 +550,7 @@ Subsec. (<i>l</i>)(4). Pub. L. 99–514, §1176(b), added par. (4) relating to a
 
 Subsec. (n). Pub. L. 99–514, §1854(a)(3)(A), added subsec. (n). Former subsec. (n) redesignated (<i>o</i>).
 
-Subsec. (n)(1). Pub. L. 99–514, §1172(b)(1), as amended by Pub. L. 100–647, §1011B(g)(1), inserted “or section 2057” in two places in introductory provisions, “or any decedent if the executor of the estate of such decedentmakes a qualified sale to which section 2057 applies,” in subpar. (A)(i), and “or the decedent” in subpar. (A)(ii).
+Subsec. (n)(1). Pub. L. 99–514, §1172(b)(1), as amended by Pub. L. 100–647, §1011B(g)(1), inserted “or section 2057” in two places in introductory provisions, “or any decedent if the executor of the estate of such decedent makes a qualified sale to which section 2057 applies,” in subpar. (A)(i), and “or the decedent” in subpar. (A)(ii).
 
 Subsec. (<i>o</i>). Pub. L. 99–514, §1174(b)(1), added subsec. (<i>o</i>). Former subsec. (<i>o</i>) redesignated (p).
 
@@ -558,7 +558,7 @@ Pub. L. 99–514, §1854(a)(3)(A), redesignated former subsec. (n) as (<i>o</i>)
 
 Subsec. (p). Pub. L. 99–514, §1174(b)(1), redesignated former subsec. (<i>o</i>) as (p).
 
-1984—Subsec. (b)(1)(A). Pub. L. 98–369, §474(r)(15)(A), (B), substituted “41” for “44G” and struck out “48(n)(1)(A) or” after “requirements of section”.
+<b>1984</b>—Subsec. (b)(1)(A). Pub. L. 98–369, §474(r)(15)(A), (B), substituted “41” for “44G” and struck out “48(n)(1)(A) or” after “requirements of section”.
 
 Subsec. (b)(4). Pub. L. 98–369, §474(r)(15)(A), substituted “41” for “44G”.
 
@@ -572,11 +572,11 @@ Subsec. (m). Pub. L. 98–369, §474(r)(15)(A), substituted “41” for “44G�
 
 Subsec. (n)(3). Pub. L. 98–369, §474(r)(15)(A), substituted “41” for “44G”.
 
-1983—Subsec. (d)(2). Pub. L. 97–448, §103(i), struck out provisions covering the sale of substantially all of the stock of a subsidiary of the employer.
+<b>1983</b>—Subsec. (d)(2). Pub. L. 97–448, §103(i), struck out provisions covering the sale of substantially all of the stock of a subsidiary of the employer.
 
 Subsec. (h)(2). Pub. L. 97–448, §103(h), substituted “the requirements of this subsection or of section 401(a)” for “the requirements of section 401(a)”.
 
-1981—Subsec. (b). Pub. L. 97–34, §331(c)(1)(A), (B), inserted in par. (1)(A) reference to section 44G(c)(1)(B), and inserted in par. (4) “or the credit allowed under section 44G (relating to the employee stock ownership credit)” after “basic employee plan credit”.
+<b>1981</b>—Subsec. (b). Pub. L. 97–34, §331(c)(1)(A), (B), inserted in par. (1)(A) reference to section 44G(c)(1)(B), and inserted in par. (4) “or the credit allowed under section 44G (relating to the employee stock ownership credit)” after “basic employee plan credit”.
 
 Subsec. (d). Pub. L. 97–34, §337, designated provision relating to death, disability, or separation from service as par. (1) and added pars. (2) and (3).
 
@@ -592,7 +592,7 @@ Subsec. (m). Pub. L. 97–34, §331(c)(1)(F), inserted reference to section 44G(
 
 Subsec. (n)(2), (3). Pub. L. 97–34, §331(c)(1)(G), (H), inserted “or employee stock ownership credit” after “employee plan credit” in par. (2) and added par. (3).
 
-1980—Pub. L. 96–222, §101(a)(7)(L)(v)(VII), substituted “tax credit employee stock ownership plans” for “ESOPS” in section catchline.
+<b>1980</b>—Pub. L. 96–222, §101(a)(7)(L)(v)(VII), substituted “tax credit employee stock ownership plans” for “ESOPS” in section catchline.
 
 Subsec. (a). Pub. L. 96–222, §101(a)(7)(L)(ii)(I), (v)(VI), substituted in heading and in text “tax credit employee stock ownership plan” for “ESOP”.
 
@@ -622,7 +622,7 @@ Subsec. (n). Pub. L. 96–222, §101(a)(7)(L)(iii)(V), substituted “employee p
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2006, with special rules for collectively bargained agreements and certain employer securities held in an ESOP, see section 901(c) of Pub. L. 109–280, set out as a note under section 401 of this title.
+Amendment by Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2006, with special rules for collectively bargained agreements and certain employer securities held in an ESOP, see section 901(c) ofPub. L. 109–280, set out as a note under section 401 of this title.
 
 #### Effective Date of 2002 Amendment
 

@@ -24,7 +24,7 @@ Funds credited to the Capital Investment Fund shall not be available for obligat
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–277, §2209(1), inserted “and enhancement” after “procurement”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §2209(1), inserted “and enhancement” after “procurement”.
 
 Subsec. (c). Pub. L. 105–277, §2209(2), substituted “shall” for “are authorized to”.
 

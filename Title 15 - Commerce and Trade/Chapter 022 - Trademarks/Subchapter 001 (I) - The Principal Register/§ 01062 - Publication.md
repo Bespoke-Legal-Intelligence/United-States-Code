@@ -24,15 +24,15 @@ Acts Feb. 20, 1905, ch. 592, §6, 33 Stat. 726; Mar. 2, 1907, ch. 2573, §2, 34 
 
 #### Amendments
 
-1999—Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
+<b>1999</b>—Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
 
-1998—Subsec. (b). Pub. L. 105–330 substituted “unintentional” for “unavoidable” in last sentence.
+<b>1998</b>—Subsec. (b). Pub. L. 105–330 substituted “unintentional” for “unavoidable” in last sentence.
 
-1988—Subsec. (a). Pub. L. 100–667 substituted “prescribed fee” for “fee herein provided”, and “entitled to registration, or would be entitled to registration upon the acceptance of the statement of use required by section 1051(d) of this title, the” for “entitled to registration, the”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–667 substituted “prescribed fee” for “fee herein provided”, and “entitled to registration, or would be entitled to registration upon the acceptance of the statement of use required by section 1051(d) of this title, the” for “entitled to registration, the”.
 
-1975—Subsec. (a). Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1975</b>—Subsec. (a). Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
-1962—Subsec. (a). Pub. L. 87–772 inserted proviso permitting publication of the mark in the case of an applicant claiming concurrent use, or an application to be placed in an interference, if such mark is otherwise registrable, subject to the determination of the rights of the parties.
+<b>1962</b>—Subsec. (a). Pub. L. 87–772 inserted proviso permitting publication of the mark in the case of an applicant claiming concurrent use, or an application to be placed in an interference, if such mark is otherwise registrable, subject to the determination of the rights of the parties.
 
 Subsec. (c). Pub. L. 87–772 inserted “Marks published under” before “this subsection shall not be subject”.
 

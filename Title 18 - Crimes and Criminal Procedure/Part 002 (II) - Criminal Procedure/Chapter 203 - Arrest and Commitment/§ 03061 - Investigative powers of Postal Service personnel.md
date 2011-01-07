@@ -42,9 +42,9 @@
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–435 added subsec. (c).
+<b>2006</b>—Subsec. (c). Pub. L. 109–435 added subsec. (c).
 
-1988—Pub. L. 100–690 substituted “Investigative powers of Postal Service personnel” for “Powers of postal personnel” in section catchline, and amended text generally. Prior to amendment, text read as follows:
+<b>1988</b>—Pub. L. 100–690 substituted “Investigative powers of Postal Service personnel” for “Powers of postal personnel” in section catchline, and amended text generally. Prior to amendment, text read as follows:
 
 “(a) Subject to subsection (b) of this section, officers and employees of the Postal Service performing duties related to the inspection of postal matters may, to the extent authorized by the Board of Governors—
 
@@ -56,7 +56,7 @@
 
 “(b) The powers granted by subsection (a) of this section shall be exercised only in the enforcement of laws regarding property of the United States in the custody of the Postal Service, including property of the Postal Service, the use of the mails, and other postal offenses.”
 
-1970—Pub. L. 91–375, §6(j)(38)(A)(i), substituted “postal personnel” for “postal inspectors” in section catchline.
+<b>1970</b>—Pub. L. 91–375, §6(j)(38)(A)(i), substituted “postal personnel” for “postal inspectors” in section catchline.
 
 Subsec. (a). Pub. L. 91–375, §6(j)(38)(A)(ii), substituted “officers and employees of the Postal Service performing duties related to the inspection of postal matters may, to the extent authorized by the Board of Governors—” for “postal inspectors may, to the extent authorized by the Postmaster General—”.
 

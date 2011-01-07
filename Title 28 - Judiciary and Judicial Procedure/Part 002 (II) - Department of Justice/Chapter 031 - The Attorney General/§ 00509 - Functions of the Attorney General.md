@@ -34,11 +34,11 @@ A prior section 509, act June 25, 1948, ch. 646, 62 Stat. 910, related to expens
 
 #### Amendments
 
-2002—Par. (3). Pub. L. 107–273, §§204(d), 4003(b)(1), amended par. (3) identically, striking out second period at end.
+<b>2002</b>—Par. (3). Pub. L. 107–273, §§204(d), 4003(b)(1), amended par. (3) identically, striking out second period at end.
 
-1984—Pub. L. 98–473 inserted “and” at end of par. (2), substituted a period for “; and” at end of par. (3), and struck out par. (4) which related to functions of Board of Parole.
+<b>1984</b>—Pub. L. 98–473 inserted “and” at end of par. (2), substituted a period for “; and” at end of par. (3), and struck out par. (4) which related to functions of Board of Parole.
 
-1978—Par. (1). Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners”.
+<b>1978</b>—Par. (1). Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners”.
 
 #### Effective Date of 1984 Amendment
 
@@ -46,7 +46,7 @@ Section 235(a)(1)(B)(ii)(IV) of Pub. L. 98–473 provided that the amendment mad
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Domestic Emergency Support Teams of the Department of Justice, including the functions of the Attorney General relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(4) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Domestic Emergency Support Teams of the Department of Justice, including the functions of the Attorney General relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(4) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
 
 #### Emergency Preparedness Functions
 
@@ -264,13 +264,13 @@ Pub. L. 109–162, title XI, §1176, Jan. 5, 2006, 119 Stat. 3125, provided that
 
 #### Federal Bureau of Investigation Use of Translators
 
-Pub. L. 108–458, title II, §2006, Dec. 17, 2004, 118 Stat. 3704, provided that: “Not later than 30 days after the date of the enactment of this Act \[Dec. 17, 2004\], and annually thereafter, the Attorney General of the United States shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that contains, with respect to each preceding 12-month period—
+Pub. L. 108–458, title II, §2006, Dec. 17, 2004, 118 Stat. 3704, as amended by Pub. L. 111–259, title VIII, §806(b)(2), Oct. 7, 2010, 124 Stat. 2749, provided that: “Not later than 30 days after the date of the enactment of this Act \[Dec. 17, 2004\], and annually thereafter, the Attorney General of the United States shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that contains, with respect to each preceding 12-month period—
 
 &emsp;“(1) the number of translators employed, or contracted for, by the Federal Bureau of Investigation or other components of the Department of Justice;
 
-&emsp;“(2) any legal or practical impediments to using translators employed by the Federal, State, or local agencies on a full-time, part-time, or shared basis;
+&emsp;“(2) any legal or practical impediments to using translators employed by Federal, State, or local agencies on a full-time, part-time, or shared basis;
 
-&emsp;“(3) the needs of the Federal Bureau of Investigation for the specific translation services in certain languages, and recommendations for meeting those needs;
+&emsp;“(3) the needs of the Federal Bureau of Investigation for specific translation services in certain languages, and recommendations for meeting those needs;
 
 &emsp;“(4) the status of any automated statistical reporting system, including implementation and future viability;
 
@@ -418,7 +418,7 @@ Pub. L. 104–208, div. A, title I, §101(a) \[title I, §115\], Sept. 30, 1996,
 
 #### Overseas Law Enforcement Training Activities
 
-Pub. L. 104–132, title VIII, §801, Apr. 24, 1996, 110 Stat. 1304, provided that: “The Attorney General and theSecretary of the Treasury are authorized to support law enforcement training activities in foreign countries, in consultation with the Secretary of State, for the purpose of improving the effectiveness of the United States in investigating and prosecuting transnational offenses.”
+Pub. L. 104–132, title VIII, §801, Apr. 24, 1996, 110 Stat. 1304, provided that: “The Attorney General and the Secretary of the Treasury are authorized to support law enforcement training activities in foreign countries, in consultation with the Secretary of State, for the purpose of improving the effectiveness of the United States in investigating and prosecuting transnational offenses.”
 
 #### Reimbursement by Other Government Agencies of Department of Justice Salaries and Expenses in High-Cost Litigation
 
@@ -430,11 +430,11 @@ Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1830, provided in part: “T
 
 #### Procurement of Expert Witnesses Without Regard to Competitive Procurement Procedures
 
-Pub. L. 102–140, title VI, §611(a), Oct. 28, 1991, 105 Stat. 832, provided that, notwithstanding any other provision of law: “For fiscal year 1992 and thereafter, the Department of Justice may procure the services of expert witnesses for use in preparing or prosecuting a civil or criminal action, without regard to competitive procurement procedures, including the Commerce Business Daily publication requirements: <i>Provided</i>, That no witness shall be paid more than one attendance fee for any calendar day.”
+Pub. L. 102–140, title VI, §611(a), Oct. 28, 1991, 105 Stat. 832, provided that, notwithstanding any other provision of law: “For fiscal year 1992 and thereafter, the Department of Justice may procure the services of expert witnesses for use in preparing or prosecuting a civil orcriminal action, without regard to competitive procurement procedures, including the Commerce Business Daily publication requirements: <i>Provided</i>, That no witness shall be paid more than one attendance fee for any calendar day.”
 
 #### Structural Reforms To Improve Federal Response to Crimes Affecting Financial Institutions
 
-Pub. L. 101–647, title XXV, §§2536–2539, Nov. 29, 1990, 104 Stat. 4883, 4884, provided that:
+Pub. L. 101–647, title XXV, §§2536–2539, Nov. 29, 1990, 104 Stat. 4883, 4884, as amended by Pub. L. 111–203, title III, §359(1), July 21, 2010, 124 Stat. 1548, provided that:
 
 #### “SEC. 2536. ESTABLISHMENT OF FINANCIAL INSTITUTIONS CRIME UNIT AND OFFICE OF SPECIAL COUNSEL FOR FINANCIAL INSTITUTIONS CRIME UNIT.
 
@@ -516,9 +516,11 @@ Membership.—The senior interagency group shall be chaired by the Special Couns
 
 Duties.—This senior interagency group shall enhance interagency coordination and assist in accelerating the investigations and prosecution of financial institutions fraud.”
 
+\[Pub. L. 111–203, title III, §§351, 359(1), July 21, 2010, 124 Stat. 1546, 1548, provided that, effective on the transfer date, section 2539(c)(2) of Pub. L. 101–647, set out above, is amended by striking subparagraphs (C) and (D) and by redesignating subparagraphs (E) through (H) as subparagraphs (C) through (G), respectively. See Effective Date of 2010 Amendment note set out under section 906 of Title 2, The Congress.\]
+
 #### Authorization of Appropriations for Humanitarian Expenses Incurred by Federal Bureau of Investigation and Drug Enforcement Administration
 
-Pub. L. 101–647, title XXXII, §3201, Nov. 29, 1990, 104 Stat. 4916, as amended by Pub. L. 105–277, div. A, §101(b) \[title I, §109(a)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–67, provided that: “Appropriations in this or any other Act hereafter for the Federal Bureau of Investigation, the Drug Enforcement Administration, or the Immigrationand Naturalization Service are available, in an amount of not to exceed $25,000 each per fiscal year, to pay humanitarian expenses incurred by or for any employee thereof (or any member of the employee's immediate family) that results from or is incident to serious illness, serious injury, or death occurring to the employee while on official duty or business.”
+Pub. L. 101–647, title XXXII, §3201, Nov. 29, 1990, 104 Stat. 4916, as amended by Pub. L. 105–277, div. A, §101(b) \[title I, §109(a)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–67, provided that: “Appropriations in this or any other Act hereafter for the Federal Bureau of Investigation, the Drug Enforcement Administration, or the Immigration and Naturalization Service are available, in an amount of not to exceed $25,000 each per fiscal year, to pay humanitarian expenses incurred by or for any employee thereof (or any member of the employee's immediate family) that results from or is incident to serious illness, serious injury, or death occurring to the employee while on official duty or business.”
 
 \[For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.\]
 
@@ -528,7 +530,7 @@ Pub. L. 101–509, title V, §528, Nov. 5, 1990, 104 Stat. 1427, as amended by P
 
 “(a) Notwithstanding any other law and in any fiscal year—
 
-&emsp;“(1) The Attorney General shall accept, and Federal departments and agencies, including the United States Secret Service, the Internal Revenue Service, the Resolution Trust Corporation, and the appropriate Federal banking agency, may provide, without reimbursement, the services of attorneys, law enforcement personnel, and other employees of any other departments or agencies of the Federal Government to assist the Department of Justice, subject to the supervision of the Attorney General, in the investigation and prosecution of fraud or other criminal or unlawful activity in or against any federally insured financial institution or the Resolution Trust Corporation;
+&emsp;“(1) The Attorney General shall accept, and Federal departments and agencies, including the United States Secret Service, the Internal Revenue Service, the Resolution Trust Corporation, and the appropriate Federal banking agency, may provide, without reimbursement, the services of attorneys, law enforcement personnel, and other employees of any other departments or agencies of the Federal Government to assist the Department of Justice, subject to the supervision of the Attorney General, in the investigation and prosecution of fraud or other criminal orunlawful activity in or against any federally insured financial institution or the Resolution Trust Corporation;
 
 &emsp;“(2) any attorney of a department or agency whose services are accepted pursuant to paragraph (1) may, subject to the supervision of the Attorney General, conduct any kind of legal proceeding, civil or criminal, including grand jury proceedings and proceedings before committing magistrate judges, and perform any other investigative or prosecutorial function, which United States attorneys are authorized by law to conduct or perform whether or not the attorney is a resident of the district in which the proceeding is brought; and
 
@@ -758,7 +760,7 @@ The Attorney General may from time to time make such provisions as he shall deem
 
 (b) There shall be transferred to the Department of Justice, at such time or times as the Director of the Bureau of the Budget shall direct, so much as the Director shall determine of other positions, personnel, property, records and unexpended balances of appropriations, allocations, and other funds of the Department of the Treasury and of the Department of Health, Education, and Welfare employed, used, held, available or to be made available in connection with functions transferred by the provisions of this reorganization plan.
 
-(c) Such further measures and dispositions as the Director of the Bureau of the Budget shall deem to be necessary in order to effectuate the transfers provided in this section shall be carried out in such manner as he may direct and by such agencies as he shall designate.
+(c) Such further measures and dispositions as the Director of the Bureau of the Budget shall deem to be necessary in order to effectuate the transfers providedin this section shall be carried out in such manner as he may direct and by such agencies as he shall designate.
 
 #### Message of the President
 
@@ -830,11 +832,11 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Section 1. Transfers to the Attorney General
 
-There are hereby transferred from the Secretary of the Treasury, the Department of the Treasury, and any other officer or any agency of the Department of the Treasury, to the Attorney General all intelligence, investigative, and law enforcement functions, vested by law in the Secretary, the Department, officers, or agencies which relate to the suppression of illicit traffic in narcotics, dangerous drugs, or marihuana, except that the Secretary shall retain, and continue to perform, those functions, to the extent that they relate tosearches and seizures of illicit narcotics, dangerous drugs, or marihuana or to the apprehension or detention of persons in connection therewith, at regular inspection locations at ports of entry or anywhere along the land or water borders of the United States: <i>Provided</i>, that any illicit narcotics, dangerous drugs, marihuana, or related evidence seized, and any person apprehended or detained by the Secretary or any officer of the Department of the Treasury, pursuant to the authority retained in them by virtue of this section, shall be turned over forthwith to the jurisdiction of the Attorney General: <i>Provided further</i>, that nothing in this section shall be construed as limiting in any way any authority vested by law in the Secretary of the Treasury, the Department of the Treasury, or any other officer or any agency of that Department on the effective date of this Plan with respect to contraband other than illicit narcotics, dangerous drugs, and marihuana: and <i>Provided further</i>, that nothing in this section shall be construed as limiting in any way any authority the Attorney General, the Department of Justice, or any other officer or any agency of that Department may otherwise have to make investigations or engage in law enforcement activities, including activities relating to the suppression of illicit traffic in narcotics, dangerous drugs, and marihuana, at ports of entry or along the land and water borders of the United States.
+There are hereby transferred from the Secretary of the Treasury, the Department of the Treasury, and any other officer or any agency of the Department of the Treasury, to the Attorney General all intelligence, investigative, and law enforcement functions, vested by law in the Secretary, the Department, officers, or agencies which relate to the suppression of illicit traffic in narcotics, dangerous drugs, or marihuana, except that the Secretary shall retain, and continue to perform, those functions, to the extent that they relate to searches and seizures of illicit narcotics, dangerous drugs, or marihuana or to the apprehension or detention of persons in connection therewith, at regular inspection locations at ports of entry or anywhere along the land or water borders of the United States: <i>Provided</i>, that any illicit narcotics, dangerous drugs, marihuana, or related evidence seized, and any person apprehended or detained by the Secretary or any officer of the Department of the Treasury, pursuant to the authority retained in them by virtue of this section, shall be turned over forthwith to the jurisdiction of the Attorney General: <i>Provided further</i>, that nothing in this section shall be construed as limiting in any way any authority vested by law in the Secretary of the Treasury, the Department of the Treasury, or any other officer or any agency of that Department on the effective date of this Plan with respect to contraband other than illicit narcotics, dangerous drugs, and marihuana: and <i>Provided further</i>, that nothing in this section shall be construed as limiting in any way any authority the Attorney General, the Department of Justice, or any other officer or any agency of that Department may otherwise have to make investigations or engage in law enforcement activities, including activities relating to the suppression of illicit traffic in narcotics, dangerous drugs, and marihuana, at ports of entry or along the land and water borders of the United States.
 
 #### Sec. 2. Transfers to the Secretary of the Treasury
 
-\[Repealed. Pub. L. 93–253, §1(a)(1), (b), Mar. 16, 1974, 88 Stat. 50, eff. July 1, 1973. Section provided for transfer to Secretary of the Treasury of functions vested in Attorney General, Department of Justice, or any other officer of such Department respecting inspection at ports of entry of persons, and documents of persons, entering or leaving the United States.\]
+\[Repealed. Pub. L. 93–253, §1(a)(1), (b), Mar. 16, 1974, 88 Stat. 50, eff. July 1, 1973. Section provided for transferto Secretary of the Treasury of functions vested in Attorney General, Department of Justice, or any other officer of such Department respecting inspection at ports of entry of persons, and documents of persons, entering or leaving the United States.\]
 
 #### Sec. 3. Abolition
 
@@ -944,7 +946,7 @@ The Attorney General, working closely with the Administrator of this new agency,
 
 My proposals would make possible a more effective antidrug role for the FBI, especially in dealing with the relationship between drug trafficking and organized crime. I intend to see that the resources of the FBI are fully committed to assist in supporting the new Drug Enforcement Administration.
 
-The consolidation effected under Reorganization Plan No. 2 would reinforce the basic law enforcement and criminal justice mission of the Department of Justice. With worldwide drug law enforcement responsibilities no longer divided among several organizations in two different Cabinet departments, more complete and cumulative drug law enforcement intelligence could becompiled. Patterns of international and domestic illicit drug production, distribution, and sale could be more directly compared and interpreted. Case-by-case drug law enforcement activities could be more comprehensively linked, cross-referenced, and coordinated into a single, organic enforcement operation. In short, drug law enforcement officers would be able to spend more time going after the traffickers and less time coordinating with one another.
+The consolidation effected under Reorganization Plan No. 2 would reinforce the basic law enforcement and criminal justice mission of the Department of Justice. With worldwide drug law enforcement responsibilities no longer divided among several organizations in two different Cabinet departments, more complete and cumulative drug law enforcement intelligence could be compiled. Patterns of international and domestic illicit drug production, distribution, and sale could be more directly compared and interpreted. Case-by-case drug law enforcement activities could be more comprehensively linked, cross-referenced, and coordinated into a single, organic enforcement operation. In short, drug law enforcement officers would be able to spend more time going after the traffickers and less time coordinating with one another.
 
 Such progress could be especially helpful on the international front. Narcotics control action plans, developed under the leadership of the Cabinet Committee on International Narcotics Control, are now being carried out by U.S. officials in cooperation with host governments in 59 countries around the world. This wide-ranging effort to cut off drug supplies before they ever reach U.S. borders or streets is just now beginning to bear fruit. We can enhance its effectiveness, with little disruption of ongoing enforcement activities, by merging both the highly effective narcotics force of overseas Customs agents and the rapidly developing international activities of the Bureau of Narcotics and Dangerous Drugs into the Drug Enforcement Administration. The new agency would work closely with the Cabinet Committee under the active leadership of the U.S. Ambassador in each country where anti-drug programs are underway.
 
@@ -1210,7 +1212,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13519, Nov. 17, 2009, 74 F.R. 60123, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, and in order to strengthen the efforts of the Department of Justice, in conjunction with Federal, State, tribal, territorial, and local agencies, to investigate and prosecute significant financial crimes and other violations relating to the current financial crisis and economic recovery efforts, recover the proceeds of such crimes and violations, and ensure just and effective punishment of those who perpetrate financial crimes and violations, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to strengthen the efforts of the Department of Justice, in conjunction with Federal, State, tribal, territorial, and local agencies, to investigate and prosecute significant financial crimes and other violations relating to the current financial crisis and economic recovery efforts, recover the proceeds of such crimes and violations, and ensure just and effective punishment of those who perpetrate financial crimes and violations, it is hereby ordered as follows:
 
 Section 1. <i>Establishment</i>. There is hereby established an interagency Financial Fraud Enforcement Task Force (Task Force) led by the Department of Justice.
 

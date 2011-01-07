@@ -16,5 +16,5 @@ No property may be acquired under this section without the consent of the owner 
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–352 substituted “subsection (a)” for “subsection (a)(1)”.
+<b>2004</b>—Subsec. (b). Pub. L. 108–352 substituted “subsection (a)” for “subsection (a)(1)”.
 

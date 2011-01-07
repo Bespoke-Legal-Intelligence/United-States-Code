@@ -100,11 +100,13 @@ Section 2621(d)(17) of title 16, referred to in subsec. (c)(3), was redesignated
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–5, §405(5), substituted “grants of up to one-half (50 percent)” for “reimbursement of one-fifth (20 percent)”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–5, §405(5), substituted “grants of up to one-half (50 percent)” for “reimbursement of one-fifth (20 percent)”.
 
 Subsec. (b)(9). Pub. L. 111–5, §405(6), struck out last sentence which read as follows: “In making such grants, the Secretary shall seek to reward innovation and early adaptation, even if success is not complete, rather than deployment of proven and commercially viable technologies.”
 
 Subsec. (c)(1). Pub. L. 111–5, §405(7), substituted “utilize” for “are eligible for”.
 
 Subsec. (e). Pub. L. 111–5, §405(8), amended subsec. (e) generally. Prior to amendment, text related to establishment of procedures by which applicants who have made qualifying Smart Grid investments can seek and obtain reimbursement of one-fifth of documented expenditures.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -46,7 +46,7 @@ Provisions similar to those in this section were contained in sections 4(a), (b)
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–287, §5(a), substituted “seven” for “six” in first sentence.
+<b>2002</b>—Subsec. (a). Pub. L. 107–287, §5(a), substituted “seven” for “six” in first sentence.
 
 Subsec. (b)(11). Pub. L. 107–287, §5(b), added par. (11).
 

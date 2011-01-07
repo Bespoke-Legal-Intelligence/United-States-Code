@@ -24,9 +24,9 @@ Prior similar provisions were also contained in former section 42a of this title
 
 #### Amendments
 
-1992—Par. (1). Pub. L. 102–569, §908(a), substituted “individuals who are deaf-blind” for “deaf-blind individuals”.
+<b>1992</b>—Par. (1). Pub. L. 102–569, §908(a), substituted “individuals who are deaf-blind” for “deaf-blind individuals”.
 
-Par. (2). Pub. L. 102–569, §§901(1), 908(a), inserted “, the rapidly increasing number of older persons manyof whom are experiencing significant losses of both vision and hearing,” after “1960's” and substituted “individuals who are deaf-blind” for “deaf-blind individuals” in two places.
+Par. (2). Pub. L. 102–569, §§901(1), 908(a), inserted “, the rapidly increasing number of older persons many of whom are experiencing significant losses of both vision and hearing,” after “1960's” and substituted “individuals who are deaf-blind” for “deaf-blind individuals” in two places.
 
 Par. (3). Pub. L. 102–569, §908(a), substituted “individuals who are deaf-blind” for “deaf-blind individuals”.
 
@@ -36,5 +36,5 @@ Par. (5). Pub. L. 102–569, §901(2), substituted “made a substantial investm
 
 #### Short Title
 
-Section 201 of Pub. L. 98–221 provided that: “This title \[enacting this chapter, amending section 777 of this title, and repealing section 777c of this title\] may be cited as the ‘Helen Keller National Center Act’.”
+Section 201 of Pub. L. 98–221 provided that: “This title \[enacting this chapter, amending section 777 of thistitle, and repealing section 777c of this title\] may be cited as the ‘Helen Keller National Center Act’.”
 

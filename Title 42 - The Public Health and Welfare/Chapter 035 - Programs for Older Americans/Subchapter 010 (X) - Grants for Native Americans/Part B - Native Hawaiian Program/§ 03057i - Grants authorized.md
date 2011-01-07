@@ -6,5 +6,5 @@ The Assistant Secretary may make grants to public and nonprofit private organiza
 
 #### Amendments
 
-1993—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
+<b>1993</b>—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
 

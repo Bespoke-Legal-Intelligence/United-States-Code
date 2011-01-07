@@ -22,7 +22,7 @@ A State or local agency head may nominate for a State and Local Law Enforcement 
 
 A nomination under subsection (a) shall include—
 
-&emsp;(1) a written narrative, of not more than 2 pages, describing the circumstances underwhich the nominee performed the act of bravery described in subsection (a) and how the circumstances meet the criteria described in such subsection;
+&emsp;(1) a written narrative, of not more than 2 pages, describing the circumstances under which the nominee performed the act of bravery described in subsection (a) and how the circumstances meet the criteria described in such subsection;
 
 &emsp;(2) the full name of the nominee;
 

@@ -54,7 +54,7 @@ Section 3101(a)(1) of the National Defense Authorization Act for Fiscal Year 199
 
 #### Amendments
 
-2003—Subsec. (a)(1). Pub. L. 108–136, §3141(i)(9)(D)(i), substituted “section 2521 of this title” for “section 3138 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 107 Stat. 1946; 42 U.S.C. 2121 note)”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136, §3141(i)(9)(D)(i), substituted “section 2521 of this title” for “section 3138 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 107 Stat. 1946; 42 U.S.C. 2121 note)”.
 
 Subsec. (b)(2). Pub. L. 108–136, §3141(i)(9)(D)(ii), inserted “of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337)” after “section 3101(a)(1)”.
 

@@ -30,7 +30,11 @@ Historical and Revision Notes
 
 Sept. 2, 1958, Pub. L. 85–870, §1, 72 Stat. 1691; Nov. 11, 1977, Pub. L. 95–167, §1(a), 91 Stat. 1347.
 
-&nbsp;D36:882.DSept. 2, 1958, Pub. L. 85–870, §§2, 4(1), 72 Stat. 1691.
+&nbsp;
+
+36:882.
+
+Sept. 2, 1958, Pub. L. 85–870, §§2, 4(1), 72 Stat. 1691.
 
 &nbsp;
 

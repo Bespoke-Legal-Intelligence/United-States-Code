@@ -44,7 +44,7 @@ In subsection (a), the words “or counselor” are omitted as redundant. The wo
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–273 struck out “at not more than $12,000” before period at end.
+<b>2002</b>—Subsec. (b). Pub. L. 107–273 struck out “at not more than $12,000” before period at end.
 
 #### Change of Name
 

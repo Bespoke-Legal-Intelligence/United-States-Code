@@ -14,11 +14,7 @@ No personal medical record in the possession of the Government Accountability Of
 
 (Aug. 14, 1935, ch. 531, title XI, §1125, as added Pub. L. 95–142, §6, Oct. 25, 1977, 91 Stat. 1192; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
-#### References in Text
-
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (b), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 #### Amendments
 
-2004—Subsecs. (b) and (c). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
+<b>2004</b>—Subsecs. (b) and (c). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
 

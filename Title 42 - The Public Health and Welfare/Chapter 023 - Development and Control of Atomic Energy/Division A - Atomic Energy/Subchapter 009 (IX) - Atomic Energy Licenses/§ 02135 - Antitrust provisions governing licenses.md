@@ -2,7 +2,7 @@
 
 #### (a) Violations of antitrust laws
 
-Nothing contained in this chapter shall relieve any person from the operation of the following Acts, as amended, “An Act to protect trade and commerce against unlawful restraints and monopolies” approved July second, eighteen hundred and ninety; sections seventy-three to seventy-six, inclusive, of an Act entitled “An Act to reduce taxation, to provide revenue for theGovernment, and for other purposes” approved August twenty-seven, eighteen hundred and ninety-four; “An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes” approved October fifteen, nineteen hundred and fourteen; and “An Act to create a Federal Trade Commission, to defined its powers and duties, and for other purposes” approved September twenty-six, nineteen hundred and fourteen. In the event a licensee is found by a court of competent jurisdiction, either in an original action in that court or in a proceeding to enforce or review the findings or orders of any Government agency having jurisdiction under the laws cited above, to have violated any of the provisions of such laws in the conduct of the licensed activity, the Commission may suspend, revoke, or take such other action as it may deem necessary with respect to any license issued by the Commission under the provisions of this chapter.
+Nothing contained in this chapter shall relieve any person from the operation of the following Acts, as amended, “An Act to protect trade and commerce against unlawful restraints and monopolies” approved July second, eighteen hundred and ninety; sections seventy-three to seventy-six, inclusive, of an Act entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes” approved August twenty-seven, eighteen hundred and ninety-four; “An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes” approved October fifteen, nineteen hundred and fourteen; and “An Act to create a Federal Trade Commission, to defined its powers and duties, and for other purposes” approved September twenty-six, nineteen hundred and fourteen. In the event a licensee is found by a court of competent jurisdiction, either in an original action in that court or in a proceeding to enforce or review the findings or orders of any Government agency having jurisdiction under the laws cited above, to have violated any of the provisions of such laws in the conduct of the licensed activity, the Commission may suspend, revoke, or take such other action as it may deem necessary with respect toany license issued by the Commission under the provisions of this chapter.
 
 #### (b) Reports to Attorney General
 
@@ -48,13 +48,13 @@ Provisions similar to this section were contained in section 1807(c) of this tit
 
 #### Amendments
 
-2005—Subsec. (c)(9). Pub. L. 109–58 added par. (9).
+<b>2005</b>—Subsec. (c)(9). Pub. L. 109–58 added par. (9).
 
-2002—Subsec. (a). Pub. L. 107–273 substituted “seventy-six” for “seventy-seven”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273 substituted “seventy-six” for “seventy-seven”.
 
-1970—Subsec. (c). Pub. L. 91–560 designated existing provisions as pars. (1), (2), (4), and (5) and amended such provisions by extending the time for the Attorney General to give advice from 90 to 180 days and provided for review of licenses once granted under section 2133 of this title, and when the Attorney General recommends that there be a hearing, authorized the Commission to hold hearings and permit the Attorney General to appear as a party and to make a finding as to whether the activities under the license would be inconsistent with the antitrust laws, and in par. (3), provided for a review of the permit issued under section 2134(b) of this title, and added pars. (6) to (8).
+<b>1970</b>—Subsec. (c). Pub. L. 91–560 designated existing provisions as pars. (1), (2), (4), and (5) and amended such provisions by extending the time for the Attorney General to give advice from 90 to 180 days and provided for review of licenses once granted under section 2133 of this title, and when the Attorney General recommends that there be a hearing, authorized the Commission to hold hearings and permit the Attorney General to appear as a party and to make a finding as to whether the activities under the license would be inconsistent with the antitrust laws, and in par. (3), provided for a review of the permit issued under section 2134(b) of this title, and added pars. (6) to (8).
 
-1964—Subsec. (a). Pub. L. 88–489 struck out “, including the provisions which vest title to all special nuclear material in the United States,” before “shall relieve any person”.
+<b>1964</b>—Subsec. (a). Pub. L. 88–489 struck out “, including the provisions which vest title to all special nuclear material in the United States,” before “shall relieve any person”.
 
 #### Effective Date of 2002 Amendment
 

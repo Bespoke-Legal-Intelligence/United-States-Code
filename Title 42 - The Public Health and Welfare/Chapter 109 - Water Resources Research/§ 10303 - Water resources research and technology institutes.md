@@ -60,7 +60,7 @@ The Secretary shall conduct a careful and detailed evaluation of each institute 
 
 &emsp;&emsp;(B) shall encourage cooperation and coordination with other Federal programs concerned with water resources problems and issues;
 
-&emsp;&emsp;(C) may enter into contracts, cooperative agreements, and other transactions without regard to section 5 of title 41;
+&emsp;&emsp;(C) may enter into contracts, cooperative agreements, and other transactions without regard to section 6101 of title 41;
 
 &emsp;&emsp;(D) may accept funds from other Federal departments, agencies (including agencies within the Department of the Interior), and instrumentalities to pay for and add to grants made, and contracts entered into, by the Secretary;
 
@@ -88,11 +88,17 @@ The Secretary shall conduct a careful and detailed evaluation of each institute 
 
 #### References in Text
 
-Act approved July 2, 1862, referred to in subsec. (a), is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 301 of Title 7 and Tables.
+This chapter, referred to in subsecs. (a) and (h), was in the original “this Act”, meaning Pub. L. 98–242, Mar. 22, 1984, 98 Stat. 97, known as the Water Resources Research Act of 1984, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 10301 of this title and Tables.
+
+Act approved July 2, 1862, referred to in subsec. (a), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 301 of Title 7 and Tables.
+
+#### Codification
+
+In subsec. (h)(1)(C), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-2007—Subsec. (b)(1). Pub. L. 109–471, §2(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “plan, conduct, or otherwise arrange for competent research that fosters (A) the entry of new research scientists into the water resources fields, (B) the training and education of future water scientists, engineers, and technicians, (C) the preliminary exploration of new ideas that address water problems or expand understanding of water and water-related phenomena, and (D) the dissemination of research results to water managers and the public, and”.
+<b>2007</b>—Subsec. (b)(1). Pub. L. 109–471, §2(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “plan, conduct, or otherwise arrange for competent research that fosters (A) the entry of new research scientists into the water resources fields, (B) the training and education of future water scientists, engineers, and technicians, (C) the preliminary exploration of new ideas that address water problems or expand understanding of water and water-related phenomena, and (D) the dissemination of research results to water managers and the public, and”.
 
 Subsec. (e). Pub. L. 109–471, §2(b), substituted “3” for “5” and inserted “at producing measured results and applied water supply research” after “effectiveness”.
 
@@ -102,11 +108,11 @@ Subsec. (g)(1). Pub. L. 109–471, §2(d), substituted “$6,000,000 for each of
 
 Subsec. (h)(2). Pub. L. 109–471, §2(e), substituted “Reports” for “Report” in heading and inserted after first sentence “As part of the annual budget submission to Congress, the Secretary shall also provide a crosscut budget detailing the expenditures on activities listed under subsection (a)(1) and a report which details the level of applied research and the results of the activities authorized by this chapter, including potential and actual—” and subpars. (A) to (D).
 
-2000—Subsec. (f)(1). Pub. L. 106–374, §1, substituted “$9,000,000 for fiscal year 2001, $10,000,000 for each of fiscal years 2002 and 2003, and $12,000,000 for each of fiscal years 2004 and 2005” for “$5,000,000 for fiscal year 1996, $7,000,000 for each of fiscal years 1997 and 1998, and $9,000,000 for each of fiscal years 1999 and 2000”.
+<b>2000</b>—Subsec. (f)(1). Pub. L. 106–374, §1, substituted “$9,000,000 for fiscal year 2001, $10,000,000 for each of fiscal years 2002 and 2003, and $12,000,000 for each of fiscal years 2004 and 2005” for “$5,000,000 for fiscal year 1996, $7,000,000 for each of fiscal years 1997 and 1998, and $9,000,000 for each of fiscal years 1999 and 2000”.
 
 Subsec. (g)(1). Pub. L. 106–374, §2, in first sentence, substituted “$3,000,000 for fiscal year 2001, $4,000,000 for each of fiscal years 2002 and 2003, and $6,000,000 for each of fiscal years 2004 and 2005” for “$3,000,000 for each of fiscal years 1996 through 2000”.
 
-1996—Subsec. (c). Pub. L. 104–147, §3, substituted “2 non-Federal dollars for every 1 Federal dollar” for “one non-Federal dollar for every Federal dollar during the fiscal years ending September 30, 1985, and September 30, 1986, one and one-half non-Federal dollars for each Federal dollar during the fiscal years ending September 30, 1987, and September 30, 1988, and two non-Federal dollars for each Federal dollar during the fiscal year ending September 30, 1989 and thereafter”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–147, §3, substituted “2 non-Federal dollars for every 1 Federal dollar” for “one non-Federal dollar for every Federal dollar during the fiscal years ending September 30, 1985, and September 30, 1986, one and one-half non-Federal dollars for each Federal dollar during the fiscal years ending September 30, 1987, and September 30, 1988, and two non-Federal dollars for each Federal dollar during the fiscal year ending September 30, 1989 and thereafter”.
 
 Subsec. (f)(1). Pub. L. 104–147, §4, substituted “of $5,000,000 for fiscal year 1996, $7,000,000 for each of fiscal years 1997 and 1998, and $9,000,000 for each of fiscal years 1999 and 2000” for “of $10,000,000 for each of the fiscal years ending September 30, 1989, through September 30, 1995,”.
 
@@ -114,7 +120,7 @@ Subsec. (g)(1). Pub. L. 104–147, §5, substituted “of $3,000,000 for each of
 
 Subsec. (h). Pub. L. 104–147, §6, added subsec. (h).
 
-1990—Subsec. (a). Pub. L. 101–397, §1(b), substituted “Federated States of Micronesia” for “Trust Territory of the Pacific Islands”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–397, §1(b), substituted “Federated States of Micronesia” for “Trust Territory of the Pacific Islands”.
 
 Subsec. (b). Pub. L. 101–397, §1(c), inserted “promoting” after “for the purpose of” in last sentence.
 

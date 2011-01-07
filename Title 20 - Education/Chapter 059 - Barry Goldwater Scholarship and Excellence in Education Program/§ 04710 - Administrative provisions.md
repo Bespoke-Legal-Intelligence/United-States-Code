@@ -14,7 +14,7 @@ In order to carry out this chapter, the Foundation may—
 
 &emsp;(5) accept and use the services of voluntary and noncompensated personnel and for travel expenses, including per diem, as authorized by section 5703 of title 5;
 
-&emsp;(6) enter into contracts or other arrangements, or make grants, to carry out the provisions of this chapter, and enter into such contracts or other arrangements, or make such grants, with the concurrence of two-thirds of the members of the Board, without performance or other bonds and without regard to section 5 of title 41;
+&emsp;(6) enter into contracts or other arrangements, or make grants, to carry out the provisions of this chapter, and enter into such contracts or other arrangements, or make such grants, with the concurrence of two-thirds of the members of the Board, without performance or other bonds and without regard to section 6101 of title 41;
 
 &emsp;(7) rent office space in the Washington, District of Columbia, metropolitan area; and
 
@@ -26,9 +26,13 @@ The Foundation shall submit to the President and to Congress an annual report of
 
 (Pub. L. 99–661, div. A, title XIV, §1411, Nov. 14, 1986, 100 Stat. 4011; Pub. L. 103–160, div. A, title XI, §1179(b), Nov. 30, 1993, 107 Stat. 1770.)
 
+#### Codification
+
+In subsec. (a)(6), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-1993—Subsec. (a)(7). Pub. L. 103–160 substituted “the Washington, District of Columbia, metropolitan area” for “the District of Columbia”.
+<b>1993</b>—Subsec. (a)(7). Pub. L. 103–160 substituted “the Washington, District of Columbia, metropolitan area” for “the District of Columbia”.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

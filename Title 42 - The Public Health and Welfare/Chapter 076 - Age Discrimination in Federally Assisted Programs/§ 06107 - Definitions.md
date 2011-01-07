@@ -34,13 +34,13 @@ For purposes of this chapter—
 
 #### Amendments
 
-2006—Par. (3). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+<b>2006</b>—Par. (3). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
-2002—Par. (4)(B)(ii). Pub. L. 107–110 substituted “7801” for “8801”.
+<b>2002</b>—Par. (4)(B)(ii). Pub. L. 107–110 substituted “7801” for “8801”.
 
-1994—Par. (4)(B)(ii). Pub. L. 103–382 substituted “section 8801 of title 20” for “section 198(a)(10), of the Elementary and Secondary Education Act of 1965”.
+<b>1994</b>—Par. (4)(B)(ii). Pub. L. 103–382 substituted “section 8801 of title 20” for “section 198(a)(10), of the Elementary and Secondary Education Act of 1965”.
 
-1988—Par. (4). Pub. L. 100–259 added par. (4).
+<b>1988</b>—Par. (4). Pub. L. 100–259 added par. (4).
 
 #### Change of Name
 

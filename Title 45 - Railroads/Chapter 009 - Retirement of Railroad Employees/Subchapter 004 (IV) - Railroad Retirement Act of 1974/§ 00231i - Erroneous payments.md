@@ -26,7 +26,7 @@ The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 5
 
 #### Amendments
 
-1981—Subsec. (a). Pub. L. 97–35 inserted provisions authorizing Board to recover from any payment whichwould be made to an individual by Board under section 231f(b)(2) of this title amount of annuity payments made to such individual which are erroneous because of such individual's entitlement to monthly insurance benefits under title II of the Social Security Act.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 inserted provisions authorizing Board to recover from any payment which would be made to an individual by Board under section 231f(b)(2) of this title amount of annuity payments made to such individual which are erroneous because of such individual's entitlement to monthly insurance benefits under title II of the Social Security Act.
 
 #### Effective Date of 1981 Amendment
 

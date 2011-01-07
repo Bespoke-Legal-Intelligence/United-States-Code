@@ -32,5 +32,5 @@ Section 3708 requires compliance with certain minimum standards by a self-propel
 
 #### Amendments
 
-1996—Pub. L. 104–324 inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “10,000 gross tons”.
+<b>1996</b>—Pub. L. 104–324 inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “10,000 gross tons”.
 

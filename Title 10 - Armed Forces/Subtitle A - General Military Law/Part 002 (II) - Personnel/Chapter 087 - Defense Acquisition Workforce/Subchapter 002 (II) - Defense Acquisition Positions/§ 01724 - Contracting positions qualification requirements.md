@@ -2,7 +2,7 @@
 
 (a)
 
-Contracting Officers.—The Secretary of Defense shall require that, in order to qualify to serve in an acquisition position as a contracting officer with authority to award or administer contracts for amounts above the simplified acquisition threshold referred to in section 2304(g) of this title, an employee of the Department of Defense or member of the armed forces (other than the Coast Guard) must, except as provided in subsections (c) and (d)—
+Contracting Officers.—The Secretary of Defense shall require that, in order to qualify toserve in an acquisition position as a contracting officer with authority to award or administer contracts for amounts above the simplified acquisition threshold referred to in section 2304(g) of this title, an employee of the Department of Defense or member of the armed forces (other than the Coast Guard) must, except as provided in subsections (c) and (d)—
 
 &emsp;(1) have completed all contracting courses required for a contracting officer (A) in the case of an employee, serving in the position within the grade of the General Schedule in which the employee is serving, and (B) in the case of a member of the armed forces, in the member's grade;
 
@@ -58,7 +58,7 @@ Contingency Contracting Force.—The Secretary shall establish qualification req
 
 &emsp;(2) passing an examination that demonstrates skills, knowledge, or abilities comparable to that of an individual who has completed at least 24 semester credit hours or the equivalent of study in any of the disciplines described in paragraph (1).
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1642; amended Pub. L. 103–35, title I, §101, May 31, 1993, 107 Stat. 97; Pub. L. 104–201, div. A, title X, §1074(a)(9)(B), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §808(a)–(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–208; Pub. L. 107–107, div. A, title VIII, §824(a), Dec. 28, 2001, 115 Stat. 1183; Pub. L. 108–136, div. A, title VIII, §831(b)(1), Nov. 24, 2003, 117 Stat. 1549; Pub. L. 108–375, div. A, title X, §1084(d)(14), (h)(1), Oct. 28, 2004, 118 Stat. 2062, 2064.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1642; amended Pub. L. 103–35, title I, §101, May 31, 1993, 107 Stat. 97;Pub. L. 104–201, div. A, title X, §1074(a)(9)(B), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §808(a)–(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–208; Pub. L. 107–107, div. A, title VIII, §824(a), Dec. 28, 2001, 115 Stat. 1183; Pub. L. 108–136, div. A, title VIII, §831(b)(1), Nov. 24, 2003, 117 Stat. 1549; Pub. L. 108–375, div. A, title X, §1084(d)(14), (h)(1), Oct. 28, 2004, 118 Stat. 2062, 2064.)
 
 #### References in Text
 
@@ -66,13 +66,13 @@ The General Schedule, referred to in subsec. (a)(1)(A), is set out under section
 
 #### Amendments
 
-2004—Subsec. (a)(3)(B). Pub. L. 108–375, §1084(h)(1), amended directory language of Pub. L. 107–107, §824(a)(1)(C). See 2001 Amendment note below.
+<b>2004</b>—Subsec. (a)(3)(B). Pub. L. 108–375, §1084(h)(1), amended directory language of Pub. L. 107–107, §824(a)(1)(C). See 2001 Amendment note below.
 
 Subsec. (d). Pub. L. 108–375, §1084(d)(14), substituted “the decision of the Secretary” for “its decision” before “to waive such requirements”.
 
-2003—Subsec. (d). Pub. L. 108–136 substituted “The Secretary of Defense may waive any or all of the requirements of subsections (a) and (b) with respect to an employee of the Department of Defense or member of the armed forces if the Secretary determines” for “The acquisition career program board concerned may waive any or all of the requirements of subsections (a) and (b) with respect to an employee of the Department of Defense or member of the armed forces if the board certifies” in first sentence and “the Secretary” for “the board” in second sentence, and struck out third sentence which read “Such document shall be submitted to and retained by the Director of Acquisition Education, Training, and Career Development.”
+<b>2003</b>—Subsec. (d). Pub. L. 108–136 substituted “The Secretary of Defense may waive any or all of the requirements of subsections (a) and (b) with respect to an employee of the Department of Defense or member of the armed forces if the Secretary determines” for “The acquisition career program board concerned may waive any or all of the requirements of subsections (a) and (b) with respect to an employee of the Department of Defense or member of the armed forces if the board certifies” in first sentence and “the Secretary” for “the board” in second sentence, and struck out third sentence which read “Such document shall be submitted to and retained by the Director of Acquisition Education, Training, and Career Development.”
 
-2001—Subsec. (a). Pub. L. 107–107, §824(a)(1)(A), reenacted heading without change and substituted introductory provisions for provisions which read “The Secretary of Defense shall require that in order to qualify to serve in an acquisition position as a contracting officer with authority to award or administer contracts for amounts above the simplified acquisition threshold referred to in section 2304(g) of this title, a person must—”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–107, §824(a)(1)(A), reenacted heading without change and substituted introductory provisions for provisions which read “The Secretary of Defense shall require that in order to qualify to serve in an acquisition position as a contracting officer with authority to award or administer contracts for amounts above the simplified acquisition threshold referred to in section 2304(g) of this title, a person must—”.
 
 Subsec. (a)(1). Pub. L. 107–107, §824(a)(1)(B), struck out “mandatory” before “contracting courses” and substituted cls. (A) and (B) for “at the grade level, or in the position within the grade of the General Schedule (in the case of an employee), that the person is serving in;”.
 
@@ -90,7 +90,7 @@ Series Positions and Similar Military Positions.—The Secretary of Defense shal
 
 Subsecs. (c) to (f). Pub. L. 107–107, §824(a)(3), added subsecs. (c) to (f) and struck out former subsecs. (c) and (d) which related to exception to requirements of subsecs. (a) and (b) and waiver of such requirements, respectively.
 
-2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §808(d)\], struck out “(except as provided in subsections (c) and (d))” after “a person must” in introductory provisions.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §808(d)\], struck out “(except as provided in subsections (c) and (d))” after “a person must” in introductory provisions.
 
 Subsec. (a)(3). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §808(b)(1)\], inserted “and” before “(B) have completed” and struck out “, or (C) have passed an examination considered by the Secretary of Defense to demonstrate skills, knowledge, or abilities comparable to that of an individual who has completed at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education in any of the disciplines listed in subparagraph (B)” after “organization and management”.
 
@@ -104,11 +104,11 @@ Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §808(c)\], amende
 
 Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §808(a)\], in first sentence, substituted “employee or member of” for “employee of” and “employee or member possesses” for “employee possesses”.
 
-1996—Subsec. (a). Pub. L. 104–201, in introductory provisions, struck out “, beginning on October 1, 1993,” after “require that” and substituted “simplified acquisition threshold” for “small purchase threshold”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201, in introductory provisions, struck out “, beginning on October 1, 1993,” after “require that” and substituted “simplified acquisition threshold” for “small purchase threshold”.
 
 Subsec. (b). Pub. L. 104–201, §1074(a)(9)(B)(ii), struck out “, beginning on October 1, 1993,” after “require that”.
 
-1993—Subsec. (c)(2). Pub. L. 103–35 inserted “or lower” before “grade” and before “level”.
+<b>1993</b>—Subsec. (c)(2). Pub. L. 103–35 inserted “or lower” before “grade” and before “level”.
 
 #### Effective Date of 2004 Amendment
 

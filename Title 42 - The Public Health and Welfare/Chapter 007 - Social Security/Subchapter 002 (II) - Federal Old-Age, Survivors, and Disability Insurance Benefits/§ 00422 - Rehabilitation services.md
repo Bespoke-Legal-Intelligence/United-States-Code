@@ -8,7 +8,7 @@
 
 (2) For purposes of sections 416(i) and 423 of this title, any services rendered by an individual during a period of trial work shall be deemed not to have been rendered by such individual in determining whether his disability has ceased in a month during such period. For purposes of this subsection the term “services” means activity (whether legal or illegal) which is performed for remuneration or gain or is determined by the Commissioner of Social Security to be of a type normally performed for remuneration or gain.
 
-(3) A period of trial work for any individual shall begin with the month in which he becomes entitled to disability insurance benefits, or, in the case of an individual entitled to benefits under section 402(d) of this title who has attained the age of eighteen, with the month in which he becomes entitled to such benefits or the month in which he attains the age of eighteen, whichever is later, or, in the case of an individual entitled to widow's or widower's insurance benefits under section 402(e) or (f) of this title who became entitled to such benefits prior to attaining age 60, with the month in which such individual becomes so entitled. Notwithstanding the preceding sentence, no period of trial work may begin for any individual prior to the beginning of the month following September 1960; and no such period may begin for an individual in a period of disability of such individual in which he had a previous period of trial work.
+(3) A period of trial work for any individual shall begin with the month in which he becomes entitled to disability insurance benefits, or, in the case of an individual entitled to benefits under section 402(d) of this title who has attained the age of eighteen, with the month in which he becomes entitled to such benefits orthe month in which he attains the age of eighteen, whichever is later, or, in the case of an individual entitled to widow's or widower's insurance benefits under section 402(e) or (f) of this title who became entitled to such benefits prior to attaining age 60, with the month in which such individual becomes so entitled. Notwithstanding the preceding sentence, no period of trial work may begin for any individual prior to the beginning of the month following September 1960; and no such period may begin for an individual in a period of disability of such individual in which he had a previous period of trial work.
 
 (4) A period of trial work for any individual shall end with the close of whichever of the following months is the earlier:
 
@@ -56,7 +56,7 @@
 
 In the case of any individual whose benefits under this subchapter are paid to a representative payee pursuant to section 405(j)(1)(B) of this title, the Commissioner of Social Security shall refer such individual to the appropriate State agency administering the State plan for substance abuse treatment services approved under subpart II of part B of title XIX of the Public Health Service Act (42 U.S.C. 300x–21 et seq.).
 
-(Aug. 14, 1935, ch. 531, title II, §222, as added Sept. 1, 1954, ch. 1206, title I, §106(g) 68 Stat. 1081; amended Aug. 1, 1956, ch. 836, title I, §103(b), 70 Stat. 817; Pub. L. 85–840, title II, §205(n), title III, §307(g), Aug. 28, 1958, 72 Stat. 1025, 1032; Pub. L. 86–778, title IV, §403(a), Sept. 13, 1960, 74 Stat. 968; Pub. L. 89–97, title III, §§306(c)(14), 308(d)(11), 336, July 30, 1965, 79 Stat. 373, 379, 408; Pub. L.90–248, title I, §§104(d)(3), (4), 158(c)(5), Jan. 2, 1968, 81 Stat. 832, 869; Pub. L. 92–603, title I, §§107(b)(3), (4), 131, Oct. 30, 1972, 86 Stat. 1343, 1360; Pub. L. 96–265, title III, §303(a), June 9, 1980, 94 Stat. 451; Pub. L. 97–35, title XXII, §2209(a), Aug. 13, 1981, 95 Stat. 840; Pub. L. 98–21, title III, §309(<i>l</i>)–(n), Apr. 20, 1983, 97 Stat. 117; Pub. L. 98–369, div. B, title VI, §2663(a)(15), July 18, 1984, 98 Stat. 1165; Pub. L. 98–460, §11(a), Oct. 9, 1984, 98 Stat. 1805; Pub. L. 101–508, title V, §5112(a), Nov. 5, 1990, 104 Stat. 1388–273; Pub. L. 103–296, title I, §107(a)(4), title II, §201(a)(4)(B), Aug. 15, 1994, 108 Stat. 1478, 1499; Pub. L. 104–121, title I, §105(a)(3), Mar. 29, 1996, 110 Stat. 852; Pub. L. 106–170, title I, §101(b)(1)(B), (C), Dec. 17, 1999, 113 Stat. 1873; Pub. L. 108–203, title II, §208(a), Mar. 2, 2004, 118 Stat. 513.)
+(Aug. 14, 1935, ch. 531, title II, §222, as added Sept. 1, 1954, ch. 1206, title I, §106(g) 68 Stat. 1081; amended Aug. 1, 1956, ch. 836, title I, §103(b), 70 Stat. 817; Pub. L. 85–840, title II, §205(n), title III, §307(g), Aug. 28, 1958, 72 Stat. 1025, 1032; Pub. L. 86–778, title IV, §403(a), Sept. 13, 1960, 74 Stat. 968; Pub. L. 89–97, title III, §§306(c)(14), 308(d)(11), 336, July 30, 1965, 79 Stat. 373, 379, 408; Pub. L. 90–248, title I, §§104(d)(3), (4), 158(c)(5), Jan. 2, 1968, 81 Stat. 832, 869; Pub. L. 92–603, title I, §§107(b)(3), (4), 131, Oct. 30, 1972, 86 Stat. 1343, 1360; Pub. L. 96–265, title III, §303(a), June 9, 1980, 94 Stat. 451; Pub. L. 97–35, title XXII, §2209(a), Aug. 13, 1981, 95 Stat. 840; Pub. L. 98–21, title III, §309(<i>l</i>)–(n), Apr. 20, 1983, 97 Stat. 117; Pub. L. 98–369, div. B, title VI, §2663(a)(15), July 18, 1984, 98 Stat. 1165; Pub. L. 98–460, §11(a), Oct. 9, 1984, 98 Stat. 1805; Pub. L. 101–508, title V, §5112(a), Nov. 5, 1990, 104 Stat. 1388–273; Pub. L. 103–296, title I, §107(a)(4), title II, §201(a)(4)(B), Aug. 15, 1994, 108 Stat. 1478, 1499; Pub. L. 104–121, title I, §105(a)(3), Mar. 29, 1996, 110 Stat. 852; Pub. L. 106–170, title I, §101(b)(1)(B), (C), Dec. 17, 1999, 113 Stat. 1873; Pub. L. 108–203, title II, §208(a), Mar. 2, 2004, 118 Stat. 513.)
 
 #### References in Text
 
@@ -66,15 +66,15 @@ The Public Health Service Act, referred to in subsec. (e), is act July 1, 1944, 
 
 #### Amendments
 
-2004—Subsec. (c)(5). Pub. L. 108–203 added par. (5).
+<b>2004</b>—Subsec. (c)(5). Pub. L. 108–203 added par. (5).
 
-1999—Subsec. (a). Pub. L. 106–170, §101(b)(1)(B), struck out heading and text of subsec. (a). Text read as follows: “It is declared to be the policy of the Congress that disabled individuals applying for a determination of disability, and disabled individuals who are entitled to child's insurance benefits, widow's insurance benefits, or widower's insurance benefits, shall be promptly referred to the State agency or agencies administering or supervising the administration of the State plan approved under title I of the Rehabilitation Act of 1973 for necessary vocational rehabilitation services, to the end that the maximum number of such individuals may be rehabilitated into productive activity.”
+<b>1999</b>—Subsec. (a). Pub. L. 106–170, §101(b)(1)(B), struck out heading and text of subsec. (a). Text read as follows: “It is declared to be the policy of the Congress that disabled individuals applying for a determination of disability, and disabled individuals who are entitled to child's insurance benefits, widow's insurance benefits, or widower's insurance benefits, shall be promptly referred to the State agency or agencies administering or supervising the administration of the State plan approved under title I of the Rehabilitation Act of 1973 for necessary vocational rehabilitation services, to the end that the maximum number of such individuals may be rehabilitated into productive activity.”
 
 Subsec. (b). Pub. L. 106–170, §101(b)(1)(C), struck out heading and text of subsec. (b), which authorized deductions from payments under this subchapter up to amount of benefits on account of refusal without good cause to accept rehabilitation services, and authorized deductions from payments to husbands, wives, or children of individuals who refuse to accept such services with exception for children between 18 and 22 who are full-time students.
 
-1996—Subsec. (e). Pub. L. 104–121 added subsec. (e).
+<b>1996</b>—Subsec. (e). Pub. L. 104–121 added subsec. (e).
 
-1994—Subsec. (b)(1). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary”.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary”.
 
 Subsec. (c)(2). Pub. L. 103–296, §201(a)(4)(B), inserted “(whether legal or illegal)” after “activity”.
 
@@ -88,11 +88,11 @@ Subsec. (d)(4). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of S
 
 Subsec. (d)(5). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary”.
 
-1990—Subsec. (c)(4)(A). Pub. L. 101–508, §5112(a)(1), substituted “in any period of 60 consecutive months” for “beginning on or after the first day of such period”.
+<b>1990</b>—Subsec. (c)(4)(A). Pub. L. 101–508, §5112(a)(1), substituted “in any period of 60 consecutive months” for “beginning on or after the first day of such period”.
 
 Subsec. (c)(5). Pub. L. 101–508, §5112(a)(2), struck out par. (5) which read as follows: “In the case of an individual who becomes entitled to benefits under section 423 of this title for any month as provided in clause (ii) of subsection (a)(1) of such section, the preceding provisions of this subsection shall not apply with respect to services in any month beginning with the first month for which he is so entitled and ending with the first month thereafter for which he is not entitled to benefits under section 423 of this title.”
 
-1984—Subsecs. (a), (b)(1). Pub. L. 98–369, §2663(a)(15)(A), substituted “title I of the Rehabilitation Act of 1973” for “the Vocational Rehabilitation Act”.
+<b>1984</b>—Subsecs. (a), (b)(1). Pub. L. 98–369, §2663(a)(15)(A), substituted “title I of the Rehabilitation Act of 1973” for “the Vocational Rehabilitation Act”.
 
 Subsec. (b)(3). Pub. L. 98–369, §2663(a)(15)(B), substituted “equals” for “equal”.
 
@@ -100,23 +100,23 @@ Subsec. (b)(4). Pub. L. 98–369, §2663(a)(15)(C), substituted “full-time ele
 
 Subsec. (d)(1). Pub. L. 98–460, §11(a), in provisions following subpar. (D) struck out “into substantial gainful activity” after “rehabilitating such individuals”, designated existing provisions as cl. (i), added cls. (ii) and (iii), and substituted “of an individual to substantial gainful activity, the determination that an individual, without good cause, refused to continue to accept vocational rehabilitation services or failed to cooperate in such a manner as to preclude successful rehabilitation,” for “of such individuals to substantial gainful activity” after cl. (iii).
 
-1983—Subsec. (b)(1). Pub. L. 98–21, §309(<i>l</i>), substituted “, surviving divorced wife, or surviving divorced husband” for “or surviving divorced wife”.
+<b>1983</b>—Subsec. (b)(1). Pub. L. 98–21, §309(<i>l</i>), substituted “, surviving divorced wife, or surviving divorced husband” for “or surviving divorced wife”.
 
 Subsec. (b)(2). Pub. L. 98–21, §309(m), inserted “or father's” after “mother's” wherever appearing.
 
 Subsec. (b)(3). Pub. L. 98–21, §309(n), inserted “divorced husband,” after “husband,”.
 
-1981—Subsec. (d). Pub. L. 97–35 substituted provisions authorizing the transfer of funds as may be necessary to enable the Secretary to reimburse the State for the reasonable and necessary costs of vocational rehabilitation, under a State plan approved under title I of the Rehabilitation Act of 1973, which results in performance of substantial gainful activity for a continuous period of nine months, with the determination that the vocational rehabilitation services contributed to the successful return to substantial gainful activity and the amount of costs to be reimbursed made by the Commissioner of Social Security for provisions authorizing the transfer of funds as may be necessary to enable the Secretary to pay the cost of vocational rehabilitation services, restricting the amount of such cost that may be expended in any one fiscal year, establishing specific criteria which a State plan must meet, and providing that the selection of individuals to receive services be made in conformance with criteria formulated by the Secretary.
+<b>1981</b>—Subsec. (d). Pub. L. 97–35 substituted provisions authorizing the transfer of funds as may be necessary to enable the Secretary to reimburse the State for the reasonable and necessary costs of vocational rehabilitation, under a State plan approved under title I of the Rehabilitation Act of 1973, which results in performance of substantial gainful activity for a continuous period of nine months, with the determination that the vocational rehabilitation services contributed to the successful return to substantial gainful activity and the amount of costs to be reimbursed made by the Commissioner of Social Security for provisions authorizing the transfer of funds as may be necessary to enable the Secretary to pay the cost of vocational rehabilitation services, restricting the amount of such cost that may be expended in any one fiscal year, establishing specific criteria which a State plan must meet, and providing that the selection of individuals to receive services be made in conformance with criteria formulated by the Secretary.
 
-1980—Subsec. (c)(1). Pub. L. 96–265, §303(a)(1), inserted references to sections 402(e) and 402(f) of this title.
+<b>1980</b>—Subsec. (c)(1). Pub. L. 96–265, §303(a)(1), inserted references to sections 402(e) and 402(f) of this title.
 
 Subsec. (c)(3). Pub. L. 96–265, §303(a)(2), inserted reference to individuals entitled to widow's or widower's insurance benefits under section 402(e) or (f) of this title who became entitled to such benefits prior to attaining age 60.
 
-1972—Subsec. (b)(1). Pub. L. 92–603, §107(b)(3), substituted “a widow, widower or surviving divorced wife who has not attained age 60” or “a widow or surviving divorced wife who has not attained age 60, a widower who has not attained age 62”.
+<b>1972</b>—Subsec. (b)(1). Pub. L. 92–603, §107(b)(3), substituted “a widow, widower or surviving divorced wife who has not attained age 60” or “a widow or surviving divorced wife who has not attained age 60, a widower who has not attained age 62”.
 
-Subsec. (d)(1). Pub. L. 92–603, §§107(b)(4), 131, substituted “age 60” for “age 62”, and inserted provisions increasing applicable percentages so that the totalamount made available pursuant to subsec. (d) may not exceed 1.25 percent, in fiscal year ending June 30, 1973, and 1.5 percent, in fiscal year ending June 30, 1974, and thereafter, of the total of the benefits under section 402(d) of this title for children who have attained age 18 and are under a disability.
+Subsec. (d)(1). Pub. L. 92–603, §§107(b)(4), 131, substituted “age 60” for “age 62”, and inserted provisions increasing applicable percentages so that the total amount made available pursuant to subsec. (d) may not exceed 1.25 percent, in fiscal year ending June 30, 1973, and 1.5 percent, in fiscal year ending June 30, 1974, and thereafter, of the total of the benefits under section 402(d) of this title for children who have attained age 18 and are under a disability.
 
-1968—Subsec. (a). Pub. L. 90–248, §104(d)(3)(A), inserted “widow's insurance benefits, or widower's insurance benefits,” after “benefits,”.
+<b>1968</b>—Subsec. (a). Pub. L. 90–248, §104(d)(3)(A), inserted “widow's insurance benefits, or widower's insurance benefits,” after “benefits,”.
 
 Subsec. (b)(1). Pub. L. 90–248, §104(d)(3)(B), substituted “child's insurance benefits, a widow or surviving divorced wife who has not attained age 60, a widower who has not attained age 62, or” for “child's insurance benefits or if”.
 
@@ -124,17 +124,17 @@ Subsec. (c)(4)(B). Pub. L. 90–248, §158(c)(5), substituted reference to “42
 
 Subsec. (d)(1). Pub. L. 90–248, §104(d)(4), added subpars. (C) and (D), and inserted “the benefits under section 402(e) of this title for widows and surviving divorced wives who have not attained age 60 and are under a disability, the benefits under section 402(f) of this title for widowers who have not attained age 62,” after “disability,” in text following subpar. (D).
 
-1965—Subsec. (b)(3). Pub. L. 89–97, §308(d)(11), inserted “divorced wife,” after “wife,”.
+<b>1965</b>—Subsec. (b)(3). Pub. L. 89–97, §308(d)(11), inserted “divorced wife,” after “wife,”.
 
 Subsec. (b)(4). Pub. L. 89–97, §306(c)(14), added par. (4).
 
 Subsec. (d). Pub. L. 89–97, §336, added subsec. (d).
 
-1960—Subsec. (c). Pub. L. 86–778 amended subsection generally by substituting provisions relating to period of trial work for provisions which related to services performed pursuant to a State-approved rehabilitation program.
+<b>1960</b>—Subsec. (c). Pub. L. 86–778 amended subsection generally by substituting provisions relating to period of trial work for provisions which related to services performed pursuant to a State-approved rehabilitation program.
 
-1958—Subsec. (b). Pub. L. 85–840 designated existing provisions thereof as par. (1) and added pars. (2) and (3).
+<b>1958</b>—Subsec. (b). Pub. L. 85–840 designated existing provisions thereof as par. (1) and added pars. (2) and (3).
 
-1956—Subsec. (a). Act Aug. 1, 1956, designated existing provisions as subsec. (a), authorized referral of disabled individuals who are entitled to child's insurance benefits, and substituted “rehabilitated into productive activity” for “restored to productive activity”.
+<b>1956</b>—Subsec. (a). Act Aug. 1, 1956, designated existing provisions as subsec. (a), authorized referral of disabled individuals who are entitled to child's insurance benefits, and substituted “rehabilitated into productive activity” for “restored to productive activity”.
 
 Subsecs. (b), (c). Act Aug. 1, 1956, added subsecs. (b) and (c).
 

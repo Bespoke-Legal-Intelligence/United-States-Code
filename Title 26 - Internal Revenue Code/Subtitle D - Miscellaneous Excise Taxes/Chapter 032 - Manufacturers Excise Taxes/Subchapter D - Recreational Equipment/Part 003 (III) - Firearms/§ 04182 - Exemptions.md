@@ -16,7 +16,7 @@ No firearms, pistols, revolvers, shells, and cartridges purchased with funds app
 
 #### (2) Controlled groups
 
-&emsp;All persons treated as a single employer for purposes of subsection (a) or (b) of section 52shall be treated as one person for purposes of paragraph (1).
+&emsp;All persons treated as a single employer for purposes of subsection (a) or (b) of section 52 shall be treated as one person for purposes of paragraph (1).
 
 #### (d) Records
 
@@ -26,9 +26,9 @@ Notwithstanding the provisions of sections 922(b)(5) and 923(g) of title 18, Uni
 
 #### Amendments
 
-2005—Subsecs. (c), (d). Pub. L. 109–59 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>2005</b>—Subsecs. (c), (d). Pub. L. 109–59 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1969—Subsec. (c). Pub. L. 91–128 added subsec. (c).
+<b>1969</b>—Subsec. (c). Pub. L. 91–128 added subsec. (c).
 
 #### Effective Date of 2005 Amendment
 

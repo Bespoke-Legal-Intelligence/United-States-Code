@@ -76,7 +76,7 @@ Scope of application.—Paragraph (1) shall not apply to any amount received by 
 
 (d)
 
-Rolling Grant Application Periods.—In establishing the program under this part, the Secretary shall take such action as may be necessary to ensure, to the extent practicable, that—
+Rolling Grant Application Periods.—In establishing the program under this part, theSecretary shall take such action as may be necessary to ensure, to the extent practicable, that—
 
 &emsp;(1) applications for grants under this part may be filed at any time during a fiscal year; and
 

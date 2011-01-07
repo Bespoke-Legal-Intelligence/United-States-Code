@@ -6,7 +6,7 @@
 
 #### (A) Process
 
-&emsp;&emsp;Except as provided in subsection (b) of this section, and consistent with paragraphs (2), (3), and (4), in order for a State to receive an allotment under section 2852 or 2862 of this title, the Governor of the State shall designate local workforce investment areas within the State—
+&emsp;&emsp;Except as provided in subsection (b) of this section, and consistent with paragraphs (2),\(3), and (4), in order for a State to receive an allotment under section 2852 or 2862 of this title, the Governor of the State shall designate local workforce investment areas within the State—
 
 &emsp;&emsp;&emsp;(i) through consultation with the State board; and
 
@@ -126,5 +126,5 @@ This chapter, referred to in subsec. (b), was in the original “this title” m
 
 #### Amendments
 
-1998—Subsec. (a)(3)(D)(ii)(I)(aa). Pub. L. 105–277 substituted “; and” for “; or”.
+<b>1998</b>—Subsec. (a)(3)(D)(ii)(I)(aa). Pub. L. 105–277 substituted “; and” for “; or”.
 

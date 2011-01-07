@@ -98,25 +98,25 @@ There are authorized to be appropriated, out of the Federal Disability Insurance
 
 Level IV of the Executive Schedule, referred to in subsec. (f), is set out under section 5315 of Title 5, Government Organization and Employees.
 
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The provisions of title 5 relating to the competitive service, referred to in subsec. (i), are classified generally to section 3301 et seq. of Title 5.
 
 #### Amendments
 
-2004—Subsec. (f). Pub. L. 108–203 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “Members of the Board shall serve without compensation, except that, while serving on business of the Board away from their homes or regular places of business, members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government employed intermittently.”
+<b>2004</b>—Subsec. (f). Pub. L. 108–203 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “Members of the Board shall serve without compensation, except that, while serving on business of the Board away from their homes or regular places of business, members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government employed intermittently.”
 
-1999—Subsec. (b). Pub. L. 106–169 substituted “subchapter II of this chapter, the program of special benefits for certain World War II veterans under title VIII of this chapter,” for “subchapter II of this chapter” in introductory provisions.
+<b>1999</b>—Subsec. (b). Pub. L. 106–169 substituted “subchapter II of this chapter, the program of special benefits for certain World War II veterans under subchapter VIII of this chapter,” for “subchapter II of this chapter” in introductory provisions.
 
-1997—Subsec. (i). Pub. L. 105–33 struck out “, and three professional staff members one of whom shall be appointed from among individuals approved by the members of the Board who are not members of the political party represented by the majority of the Board,” after “Staff Director” and “clerical” after “provide adequate”.
+<b>1997</b>—Subsec. (i). Pub. L. 105–33 struck out “, and three professional staff members one of whom shall be appointed from among individuals approved by the members of the Board who are not members of the political party represented by the majority of the Board,” after “Staff Director” and “clerical” after “provide adequate”.
 
-1996—Subsec. (i). Pub. L. 104–121 inserted “, and three professional staff members one of whom shall be appointed from among individuals approved by the members of the Board who are not members of the political party represented by the majority of the Board,” after “Staff Director”.
+<b>1996</b>—Subsec. (i). Pub. L. 104–121 inserted “, and three professional staff members one of whom shall be appointed from among individuals approved by the members of the Board who are not members of the political party represented by the majority of the Board,” after “Staff Director”.
 
-1994—Pub. L. 103–296 amended section generally. Prior to amendment, section read as follows: “The Secretary is authorized to appoint and fix the compensation of such officers and employees, and to make such expenditures, as may be necessary for carrying out his functions under this chapter. Appointments of attorneys and experts may be made without regard to the civil-service laws.”
+<b>1994</b>—Pub. L. 103–296 amended section generally. Prior to amendment, section read as follows: “The Secretary is authorized to appoint and fix the compensation of such officers and employees, and to make such expenditures, as may be necessary for carrying out his functions under this chapter. Appointments of attorneys and experts may be made without regard to the civil-service laws.”
 
-1984—Pub. L. 98–369 substituted “Secretary” for “Administrator”.
+<b>1984</b>—Pub. L. 98–369 substituted “Secretary” for “Administrator”.
 
-1950—Act Aug. 28, 1950, substituted “Administrator” for “Board” and “his” for “its”.
+<b>1950</b>—Act Aug. 28, 1950, substituted “Administrator” for “Board” and “his” for “its”.
 
 #### Effective Date of 2004 Amendment
 
@@ -162,5 +162,5 @@ Section 5227.—Section 5227 \[probably means section 5527 of this Act which is 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed\(under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 

@@ -66,7 +66,7 @@ Section 202 of this title, referred to in pars. (1) and (3), is section 202 of t
 
 #### Amendments
 
-1996—Par. (2)(A). Pub. L. 104–303, §201(e)(1), inserted “Federal” after “means all” and “(i)” after “including”, and inserted before period at end a semicolon and cls. (ii) to (v).
+<b>1996</b>—Par. (2)(A). Pub. L. 104–303, §201(e)(1), inserted “Federal” after “means all” and “(i)” after “including”, and inserted before period at end a semicolon and cls. (ii) to (v).
 
 Par. (2)(C). Pub. L. 104–303, §201(e)(2), substituted “or rights-of-way,” for “rights-of-way, or dredged material disposal areas,”.
 

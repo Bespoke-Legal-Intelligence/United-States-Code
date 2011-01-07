@@ -74,19 +74,19 @@ In subsection (c), the word “pilot” is added for consistency with section 47
 
 #### Amendments
 
-2003—Subsec. (b)(1). Pub. L. 108–176 struck out “(as defined in section 41731 of this title)” after “small hub airports”.
+<b>2003</b>—Subsec. (b)(1). Pub. L. 108–176 struck out “(as defined in section 41731 of this title)” after “small hub airports”.
 
-2000—Subsec. (d). Pub. L. 106–181, §128(c), designated existing provisions as par. (1), inserted heading, realigned margins, and added par. (2).
+<b>2000</b>—Subsec. (d). Pub. L. 106–181, §128(c), designated existing provisions as par. (1), inserted heading, realigned margins, and added par. (2).
 
 Subsec. (e). Pub. L. 106–181, §128(a), added subsec. (e).
 
 Subsec. (f). Pub. L. 106–181, §128(b), added subsec. (f).
 
-1999—Subsec. (a). Pub. L. 106–6, §8(b)(1), substituted “87.5” for “75”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–6, §8(b)(1), substituted “87.5” for “75”.
 
 Subsec. (b). Pub. L. 106–6, §8(b)(2), added pars. (1) and (2) and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (2).
 
-1996—Subsec. (d). Pub. L. 104–264 added subsec. (d).
+<b>1996</b>—Subsec. (d). Pub. L. 104–264 added subsec. (d).
 
 #### Effective Date of 2003 Amendment
 

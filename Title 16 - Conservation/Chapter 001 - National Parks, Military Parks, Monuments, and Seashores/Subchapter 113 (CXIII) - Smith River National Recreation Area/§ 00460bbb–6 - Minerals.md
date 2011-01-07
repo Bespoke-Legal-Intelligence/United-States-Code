@@ -18,9 +18,3 @@ The Secretary is authorized and directed to issue supplementary regulations to p
 
 (Pub. L. 101–612, §8, Nov. 16, 1990, 104 Stat. 3214.)
 
-#### References in Text
-
-The United States mining laws and the mineral leasing laws, referred to in subsecs. (a) and (b), are classified generally to Title 30, Mineral Lands and Mining.
-
-Geothermal leasing laws, referred to in subsec. (a), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
-

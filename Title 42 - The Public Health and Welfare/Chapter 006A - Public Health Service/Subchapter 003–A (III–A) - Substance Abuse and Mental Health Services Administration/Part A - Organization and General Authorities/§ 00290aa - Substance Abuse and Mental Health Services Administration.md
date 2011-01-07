@@ -18,7 +18,7 @@ The following entities are agencies of the Administration:
 
 #### (1) Administrator
 
-&emsp;The Administration shall be headed by an Administrator (hereinafter in this subchapterreferred to as the “Administrator”) who shall be appointed by the President, by and with the advice and consent of the Senate.
+&emsp;The Administration shall be headed by an Administrator (hereinafter in this subchapter referred to as the “Administrator”) who shall be appointed by the President, by and with the advice and consent of the Senate.
 
 #### (2) Deputy Administrator
 
@@ -44,7 +44,7 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;(8) conduct programs, and assure the coordination of such programs with activities of the National Institutes of Health and the Agency for Healthcare Research and Quality, as appropriate, to evaluate the process, outcomes and community impact of treatment and prevention services and systems of care in order to identify the manner in which such services can most effectively be provided;
 
-&emsp;(9) collaborate with the Director of the National Institutes of Health in the development of a system by which the relevant research findings of the National Institute on Drug Abuse, the National Institute on Alcohol Abuse and Alcoholism, the National Institute of Mental Health, and, as appropriate, the Agency for Healthcare Research and Quality are disseminated to service providers in a manner designed to improve the delivery and effectiveness of treatment and prevention services;
+&emsp;(9) collaborate with the Director of the National Institutes of Health in the development of a system by which the relevant research findings of the National Institute on Drug Abuse, the National Institute on Alcohol Abuse and Alcoholism, the National Institute of Mental Health, and, as appropriate, the Agency for Healthcare Research and Qualityare disseminated to service providers in a manner designed to improve the delivery and effectiveness of treatment and prevention services;
 
 &emsp;(10) encourage public and private entities that provide health insurance to provide benefits for substance abuse and mental health services;
 
@@ -96,13 +96,13 @@ The Secretary, acting through the Administrator, shall—
 
 #### (1) Appointment
 
-&emsp;The Administrator, with the approval of the Secretary, shall appoint an Associate Administrator for Women's Services.
+&emsp;The Administrator, with the approval of the Secretary, shall appoint an Associate Administrator for Women's Services who shall report directly to the Administrator.
 
 #### (2) Duties
 
 &emsp;The Associate Administrator appointed under paragraph (1) shall—
 
-&emsp;&emsp;(A) establish a committee to be known as the Coordinating Committee for Women's Services (hereafter in this subparagraph referred to as the “Coordinating Committee”), which shall be composed of the Directors of the agencies of the Administration (or the designees of the Directors);
+&emsp;&emsp;(A) establish a committee to be known as the Coordinating Committee for Women'sServices (hereafter in this subparagraph referred to as the “Coordinating Committee”), which shall be composed of the Directors of the agencies of the Administration (or the designees of the Directors);
 
 &emsp;&emsp;(B) acting through the Coordinating Committee, with respect to women's substance abuse and mental health services—
 
@@ -144,7 +144,11 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;(C) The Secretary shall prepare and provide to the Advisory Committee for Women's Services any additional data as requested.
 
-#### (4) Definition
+#### (4) Office
+
+&emsp;Nothing in this subsection shall be construed to preclude the Secretary from establishing within the Substance Abuse and Mental Health Administration an Office of Women's Health.
+
+#### (5) Definition
 
 &emsp;For purposes of this subsection, the term “women's substance abuse and mental health conditions”, with respect to women of all age, ethnic, and racial groups, means all aspects of substance abuse and mental illness—
 
@@ -160,7 +164,7 @@ The Secretary, acting through the Administrator, shall—
 
 #### (2) Compensation and expenses
 
-&emsp;(A) Experts and consultants whose services are obtained under paragraph (1) shall be paid or reimbursed for their expenses associated with traveling to and from their assignment location in accordance with sections 5724, 5724a(a), 5724a(c), and 5726(c) of title 5.
+&emsp;(A) Experts and consultants whose services are obtained under paragraph (1) shall be paidor reimbursed for their expenses associated with traveling to and from their assignment location in accordance with sections 5724, 5724a(a), 5724a(c), and 5726(c) of title 5.
 
 &emsp;(B) Expenses specified in subparagraph (A) may not be allowed in connection with the assignment of an expert or consultant whose services are obtained under paragraph (1), unless and until the expert or consultant agrees in writing to complete the entire period of assignment or one year, whichever is shorter, unless separated or reassigned for reasons beyond the control of the expert or consultant that are acceptable to the Secretary. If the expert or consultant violates the agreement, the money spent by the United States for the expenses specified in subparagraph (A) is recoverable from the expert or consultant as a debt of the United States. The Secretary may waive in whole or in part a right of recovery under this subparagraph.
 
@@ -220,11 +224,9 @@ No information, if an establishment or person supplying the information or descr
 
 For the purpose of providing grants, cooperative agreements, and contracts under this section, there are authorized to be appropriated $25,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
 
-(July 1, 1944, ch. 373, title V, §501, formerly Pub. L. 93–282, title II, §201, May 14, 1974, 88 Stat. 134, as amended Pub. L. 94–371, §8, July 26, 1976, 90 Stat. 1040; renumbered §501 of act July 1, 1944, and amended Pub. L. 98–24, §2(b)(2), Apr. 26, 1983, 97 Stat. 176; Pub. L. 98–509, title II, §201, title III, §301(c)(1), Oct. 19, 1984, 98 Stat. 2359, 2364; Pub. L. 99–570, title IV, §4003, Oct. 27, 1986, 100 Stat. 3207–106; Pub. L. 100–690, title II, §2058(a)(2), Nov. 18, 1988, 102 Stat. 4213; Pub. L. 101–93, §3(f), Aug. 16, 1989, 103 Stat. 611; Pub. L. 102–321, title I, §101(a), July 10, 1992, 106 Stat. 324; Pub. L. 104–201, div. A, title XVII, §1723(a)(3)(A), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670; Pub. L. 106–310, div. B, title XXXI, §3102, title XXXIV, §3401(a), Oct. 17, 2000, 114 Stat. 1170, 1218; Pub. L. 108–173, title IX, §900(e)(2)(A), Dec. 8, 2003, 117 Stat. 2372.)
+(July 1, 1944, ch. 373, title V, §501, formerly Pub. L. 93–282, title II, §201, May 14, 1974, 88 Stat. 134, as amended Pub. L. 94–371, §8, July 26, 1976, 90 Stat. 1040; renumbered §501 of act July 1, 1944, and amended Pub. L. 98–24, §2(b)(2), Apr. 26, 1983, 97 Stat. 176; Pub. L. 98–509, title II, §201, title III, §301(c)(1), Oct. 19, 1984, 98 Stat. 2359, 2364; Pub. L. 99–570, title IV, §4003, Oct. 27, 1986, 100 Stat. 3207–106; Pub. L. 100–690, title II, §2058(a)(2), Nov. 18, 1988, 102 Stat. 4213; Pub. L. 101–93, §3(f), Aug. 16, 1989, 103 Stat. 611; Pub. L. 102–321, title I, §101(a), July 10, 1992, 106 Stat. 324; Pub. L. 104–201, div. A, title XVII, §1723(a)(3)(A), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670; Pub. L. 106–310, div. B, title XXXI, §3102, title XXXIV, §3401(a), Oct. 17, 2000, 114 Stat. 1170, 1218; Pub. L. 108–173, title IX, §900(e)(2)(A), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 111–148, title III, §3509(d), Mar. 23, 2010, 124 Stat. 534.)
 
 #### References in Text
-
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (h), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
 
@@ -238,23 +240,27 @@ A prior section 501 of act July 1, 1944, which was classified to section 219 of 
 
 #### Amendments
 
-2003—Subsec. (d)(18). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
+<b>2010</b>—Subsec. (f)(1). Pub. L. 111–148, §3509(d)(1), inserted “who shall report directly to the Administrator” before period at end.
 
-2000—Subsec. (e)(1). Pub. L. 106–310, §3401(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “There shall be in the Administration an Associate Administrator for Alcohol Prevention and Treatment Policy to whom the Administrator shall delegate the functions of promoting, monitoring, and evaluating service programs for the prevention and treatment of alcoholism and alcohol abuse within the Center for Substance Abuse Prevention, the Center for Substance Abuse Treatment, and the Center for Mental Health Services, and coordinating such programs among the Centers, and among the Centers and other public and private entities. The Associate Administrator also shall ensure that alcohol prevention, education, and policy strategies are integrated into all programs of the Centers that address substance abuse prevention, education, and policy, and that the Center for Substance Abuse Prevention addresses the Healthy People 2000 goals and the National Dietary Guidelines of the Department of Health and Human Services and the Department of Agriculture related to alcohol consumption.”
+Subsec. (f)(4), (5). Pub. L. 111–148, §3509(d)(2), (3), added par. (4) and redesignated former par. (4) as (5).
+
+<b>2003</b>—Subsec. (d)(18). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
+
+<b>2000</b>—Subsec. (e)(1). Pub. L. 106–310, §3401(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “There shall be in the Administration an Associate Administrator for Alcohol Prevention and Treatment Policy to whom the Administrator shall delegate the functions of promoting, monitoring, and evaluating service programs for the prevention and treatment of alcoholism and alcohol abuse within the Center for Substance Abuse Prevention, the Center for Substance Abuse Treatment, and the Center for Mental Health Services, and coordinating such programs among the Centers, and among the Centers and other public and private entities. The Associate Administrator also shall ensure that alcohol prevention, education, and policy strategies are integrated into all programs of the Centers that address substance abuse prevention, education, and policy, and that the Center for Substance Abuse Prevention addresses the Healthy People 2000 goals and the National Dietary Guidelines of the Department of Health and Human Services and the Department of Agriculture related to alcohol consumption.”
 
 Subsecs. (m) to (<i>o</i>). Pub. L. 106–310, §3102, added subsecs. (m) and (n), redesignated former subsec. (m) as (<i>o</i>), and substituted “2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003” for “1993, and such sums as may be necessary for fiscal year 1994” before period at end.
 
-1999—Subsec. (d)(8), (9). Pub. L. 106–129, which directed the substitution of “Agency for Healthcare Research and Quality” for “Agency for Health Care Policy and Research”, was executed by making the substitution for “Agency for Health Care Policy Research”, to reflect the probable intent of Congress.
+<b>1999</b>—Subsec. (d)(8), (9). Pub. L. 106–129, which directed the substitution of “Agency for Healthcare Research and Quality” for “Agency for Health Care Policy and Research”, was executed by making the substitution for “Agency for Health Care Policy Research”, to reflect the probable intent of Congress.
 
-1996—Subsec. (g)(2)(A). Pub. L. 104–201 substituted “5724a(a), 5724a(c)” for “5724a(a)(1), 5724a(a)(3)”.
+<b>1996</b>—Subsec. (g)(2)(A). Pub. L. 104–201 substituted “5724a(a), 5724a(c)” for “5724a(a)(1), 5724a(a)(3)”.
 
-1992—Pub. L. 102–321 amended section generally, substituting provisions relating to the Substance Abuse and Mental Health Services Administration for provisions relating to the Alcohol, Drug Abuse, and Mental Health Administration.
+<b>1992</b>—Pub. L. 102–321 amended section generally, substituting provisions relating to the Substance Abuse and Mental Health Services Administration for provisions relating to the Alcohol, Drug Abuse, and Mental Health Administration.
 
-1989—Subsec. (b)(4). Pub. L. 101–93, §3(f)(1), substituted “for” for “of”.
+<b>1989</b>—Subsec. (b)(4). Pub. L. 101–93, §3(f)(1), substituted “for” for “of”.
 
 Subsec. (j). Pub. L. 101–93, §3(f)(2), substituted “section 290aa–5 of this title, establish program advisory committees, and pay members of such groups and committees” for “section 290aa–5 of this title and appoint and pay members of such groups” and “as members of such groups or committees” for “as members of such groups”.
 
-1988—Subsec. (b)(4). Pub. L. 100–690, §2058(a)(2)(A), added par. (4).
+<b>1988</b>—Subsec. (b)(4). Pub. L. 100–690, §2058(a)(2)(A), added par. (4).
 
 Subsec. (e)(2). Pub. L. 100–690, §2058(a)(2)(B), substituted “Not less than once each three years, the Administrator” for “The Administrator” and “shall submit” for “shall annually submit”.
 
@@ -262,15 +268,15 @@ Subsec. (f). Pub. L. 100–690, §2058(a)(2)(C), substituted “misconduct” fo
 
 Subsecs. (k) to (m). Pub. L. 100–690, §2058(a)(2)(D), (E), added subsecs. (k) to (m) and struck out former subsec. (k), which related to Alcohol, Drug Abuse, and Mental Health Advisory Board, including its duties, membership, terms of office, compensation, personnel, chairman, meetings, and reports to Congress.
 
-1986—Pub. L. 99–570 amended section generally, revising and restating former subsecs. (a), (b), (c), (d), (e), (f), (g), and (h) as (c), (d), (k), (h), (e), (f), (g), and (i), respectively, and adding new subsecs. (a), (b), and (j).
+<b>1986</b>—Pub. L. 99–570 amended section generally, revising and restating former subsecs. (a), (b), (c), (d), (e), (f), (g), and (h) as (c), (d), (k), (h), (e), (f), (g), and (i), respectively, and adding new subsecs. (a), (b), and (j).
 
-1984—Pub. L. 98–509, §301(c)(1), amended directory language of Pub. L. 98–24, §2(b)(2). See 1983 Amendment note below.
+<b>1984</b>—Pub. L. 98–509, §301(c)(1), amended directory language of Pub. L. 98–24, §2(b)(2). See 1983 Amendment note below.
 
 Subsec. (c). Pub. L. 98–509, §201(a), substituted provisions relating to the Alcohol, Drug Abuse, and Mental Health Advisory Board for provisions relating to the National Panel on Alcohol, Drug Abuse, and Mental Health.
 
 Subsecs. (g), (h). Pub. L. 98–509, §201(b), added subsecs. (g) and (h).
 
-1983—Pub. L. 98–24, §2(b)(2), as amended by Pub. L. 98–509, §301(c)(1), renumbered section 3511 of this title as this section.
+<b>1983</b>—Pub. L. 98–24, §2(b)(2), as amended by Pub. L. 98–509, §301(c)(1), renumbered section 3511 of this title as this section.
 
 Subsec. (a). Pub. L. 98–24, §2(b)(2)(A), struck out “of Health, Education, and Welfare” after “The Secretary” and “Department”.
 
@@ -280,13 +286,13 @@ Subsec. (d). Pub. L. 98–24, §2(b)(2)(C), substituted provisions directing the
 
 Subsecs. (e), (f). Pub. L. 98–24, §2(b)(2)(D), added subsecs. (e) and (f).
 
-1976—Subsec. (d). Pub. L. 94–371 added subsec. (d).
+<b>1976</b>—Subsec. (d). Pub. L. 94–371 added subsec. (d).
 
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a)of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.
 
@@ -302,7 +308,7 @@ Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for progra
 
 #### Transfer Provisions
 
-Subtitle D of title I of Pub. L. 102–321, as amended by Pub. L. 102–352, §2(b)(1), Aug. 26, 1992, 106 Stat. 939, provided that:
+Pub. L. 102–321, title I, subtitle D, July 10, 1992, 106 Stat. 370, as amended by Pub. L. 102–352, §2(b)(1), Aug. 26, 1992, 106 Stat. 939, provided that:
 
 #### “SEC. 141. TRANSFERS.
 
@@ -322,7 +328,7 @@ Adequate Personnel and Resources.—The transfers required under this subtitle s
 
 “(a)
 
-Substance Abuse and Mental Health Services Administration.—Except as otherwise provided in the Public Health Service Act \[this chapter\], all personnel employed in connection with, and all assets, liabilities,contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, used, held, arising from, available to, or to be made available in connection with the functions transferred to the Administrator of the Substance Abuse and Mental Health Services Administration by this subtitle, subject to section 1531 of title 31, United States Code, shall be transferred to the Substance Abuse and Mental Health Services Administration. Unexpended funds transferred pursuant to this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated.
+Substance Abuse and Mental Health Services Administration.—Except as otherwise provided in the Public Health Service Act \[this chapter\], all personnel employed in connection with, and all assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, used, held, arising from, available to, or to be made available in connection with the functions transferred to the Administrator of the Substance Abuse and Mental Health Services Administration by this subtitle, subject to section 1531 of title 31, United States Code, shall be transferred to the Substance Abuse and Mental Health Services Administration. Unexpended funds transferred pursuant to this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated.
 
 “(b)
 

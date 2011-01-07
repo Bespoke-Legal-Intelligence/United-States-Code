@@ -54,7 +54,7 @@ Section 410cc–11(a)(3) of this title, referred to in subsec. (a)(2)(G), was in
 
 #### Amendments
 
-2008—Subsec. (a)(2)(G). Pub. L. 110–229 added subpar. (G).
+<b>2008</b>—Subsec. (a)(2)(G). Pub. L. 110–229 added subpar. (G).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

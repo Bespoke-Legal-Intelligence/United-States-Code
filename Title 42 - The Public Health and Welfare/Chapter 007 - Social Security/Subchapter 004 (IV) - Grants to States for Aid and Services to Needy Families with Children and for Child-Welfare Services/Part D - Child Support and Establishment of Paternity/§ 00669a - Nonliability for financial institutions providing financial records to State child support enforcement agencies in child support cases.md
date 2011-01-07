@@ -16,7 +16,7 @@ A State child support enforcement agency which obtains a financial record of an 
 
 #### (2) No liability for good faith but erroneous interpretation
 
-&emsp;No liability shall arise under this subsection with respect to any disclosure which results from a good faith, but erroneous, interpretation of subsection (b) of this section.
+&emsp;No liability shall arise under this subsection with respect to any disclosure which resultsfrom a good faith, but erroneous, interpretation of subsection (b) of this section.
 
 #### (3) Damages
 
@@ -58,7 +58,7 @@ For purposes of this section—
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–200 inserted “, or for disclosing any such record to the Federal Parent Locator Service pursuant to section 666(a)(17)(A) of this title” before period at end.
+<b>1998</b>—Subsec. (a). Pub. L. 105–200 inserted “, or for disclosing any such record to the Federal Parent Locator Service pursuant to section 666(a)(17)(A) of this title” before period at end.
 
 #### Effective Date
 

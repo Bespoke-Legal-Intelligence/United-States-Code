@@ -42,7 +42,7 @@ In this section—
 
 #### (A) Submission
 
-&emsp;&emsp;Information maintained in the registry shall be submitted on a voluntary basis and be kept current by the submitting business concerns.
+&emsp;&emsp;Information maintained in the registry shall be submitted on a voluntary basis andbe kept current by the submitting business concerns.
 
 #### (B) Attestation
 

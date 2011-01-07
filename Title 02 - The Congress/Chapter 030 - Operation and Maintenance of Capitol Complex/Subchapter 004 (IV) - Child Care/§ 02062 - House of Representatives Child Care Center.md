@@ -2,7 +2,7 @@
 
 #### (a) Maintenance and operation; admission of children
 
-(1) The Chief Administrative Officer of the House of Representatives shall maintain and operate a child care center (to be known as the “House of Representatives Child Care Center”) to furnish pre-school child care and (subject to the approval of regulations by the Committee on House Administration) child care for school agechildren other than during the course of the ordinary school day—
+(1) The Chief Administrative Officer of the House of Representatives shall maintain and operate a child care center (to be known as the “House of Representatives Child Care Center”) to furnish pre-school child care and (subject to the approval of regulations by the Committee on House Administration) child care for school age children other than during the course of the ordinary school day—
 
 &emsp;(A) for children of individuals whose pay is disbursed by the Chief Administrative Officer of the House of Representatives and children of support personnel of the House of Representatives;
 
@@ -40,7 +40,7 @@ In carrying out subsection (a) of this section, the Chief Administrative Officer
 
 #### (d) Salaries and expenses; funding limits
 
-(1) There is established an account which, subject to appropriation, and except as provided in paragraphs (2) and (3), shall be the exclusive source for all salaries and expenses for activities carried out under this section. The Chief Administrative Officer shall deposit in the account any amounts received under subsection (c) of this section.
+(1) There is established in the Treasury of the United States a revolving fund for the House of Representatives to be known as the “House Child Care Center Revolving Fund” (hereafter in this section referred to as the “Fund”), consisting of the amounts received under subsection (c) and any other funds deposited by the Chief Administrative Officer of the House of Representatives from amounts received by the House of Representatives with respect to the operation of the center. Except as provided in paragraphs (2) and (3), the Fund shall be the exclusive sourcefor all salaries and expenses for activities carried out under this section.
 
 (2) With respect to employees of the center, the House of Representatives shall make Government contributions and payments for health insurance, retirement, employment taxes, and similar benefits and programs in the same manner as such contributions and payments are made for other employees of the House of Representatives.
 
@@ -50,7 +50,11 @@ In carrying out subsection (a) of this section, the Chief Administrative Officer
 
 &emsp;(B) The reimbursement of individuals employed by the center for the cost of training classes and conferences in connection with the provision of child care services, together with the cost of travel (including transportation and subsistence) incurred in connection with such classes and conferences.
 
-#### (e) Definitions
+#### (e) Fund as category of allowances and expenses
+
+The Fund shall be treated as a category of allowances and expenses for purposes of section 95b(a) of this title.
+
+#### (f) Definitions
 
 As used in this section—
 
@@ -60,15 +64,19 @@ As used in this section—
 
 &emsp;(3) the term “support personnel” means, with respect to the House of Representatives, any employee of a credit union or of the Architect of the Capitol, whose principal duties are to support the functions of the House of Representatives.
 
-(Pub. L. 102–90, title III, §312, Aug. 14, 1991, 105 Stat. 467; Pub. L. 102–392, title III, §319(a), Oct. 6, 1992, 106 Stat. 1725; Pub. L. 104–186, title II, §221(5), (6), Aug. 20, 1996, 110 Stat. 1749; Pub. L. 106–100, §1(a), Nov. 12, 1999, 113 Stat. 1332; Pub. L. 108–7, div. H, title I, §108(a), Feb. 20, 2003, 117 Stat. 355; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–8, div. G, title I, §106, Mar. 11, 2009, 123 Stat. 818.)
+(Pub. L. 102–90, title III, §312, Aug. 14, 1991, 105 Stat. 467; Pub. L. 102–392, title III, §319(a), Oct. 6, 1992, 106 Stat. 1725; Pub. L. 104–186, title II, §221(5), (6), Aug. 20, 1996, 110 Stat. 1749; Pub. L. 106–100, §1(a), Nov. 12, 1999, 113 Stat. 1332; Pub. L. 108–7, div. H, title I, §108(a), Feb. 20, 2003, 117 Stat. 355; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–8, div. G, title I, §106, Mar. 11, 2009, 123 Stat. 818; Pub. L. 111–248, §2(a)(1), (b), Sept. 30, 2010, 124 Stat. 2625.)
 
 #### Codification
 
 Section was classified to section 184g of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
-Section is comprised of section 312 of Pub. L. 102–90. Subsec. (f) of section 312 of Pub. L. 102–90 repealed sections 184b to 184f of former Title 40, Public Buildings, Property, and Works.
+Section is comprised of section 312 of Pub. L. 102–90. Another subsec. (f) of section 312 of Pub. L. 102–90 repealed sections 184b to 184f of former Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+
+2010—Subsec. (d)(1). Pub. L. 111–248, §2(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There is established an account which, subject to appropriation, and except as provided in paragraphs (2) and (3), shall be the exclusive source for all salaries and expenses for activities carried out under this section. The Chief Administrative Officer shall deposit in the account any amounts received under subsection (c) of this section.”
+
+Subsecs. (e), (f). Pub. L. 111–248, §2(b), added subsec. (e) and redesignated former subsec. (e) as (f).
 
 2009—Subsec. (a)(1). Pub. L. 111–8 substituted “pre-school child care and (subject to the approval of regulations by the Committee on House Administration) child care for school age children other than during the course of the ordinary school day” for “pre-school child care” in introductory provisions.
 
@@ -100,6 +108,10 @@ Salaries and Expenses’, not more than $45,000 may be expended to carry out thi
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–248, §2(c), Sept. 30, 2010, 124 Stat. 2626, provided that: “This section \[amending this section and enacting provisions set out as a note under this section\] and the amendments made by this section shall take effect October 1, 2010, and shall apply with respect to fiscal year 2011 and each succeeding fiscal year.”
+
 #### Effective Date of 2003 Amendment
 
 Pub. L. 108–7, div. H, title I, §108(b), Feb. 20, 2003, 117 Stat. 355, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal year 2003 and each succeeding fiscal year.”
@@ -111,6 +123,10 @@ Pub. L. 106–100, §1(b), Nov. 12, 1999, 113 Stat. 1332, provided that: “The 
 #### Effective Date of 1992 Amendment
 
 Section 319(b) of Pub. L. 102–392 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to fiscal years beginning after September 30, 1992.”
+
+#### Transfer of Existing Account
+
+Pub. L. 111–248, §2(a)(2), Sept. 30, 2010, 124 Stat. 2625, provided that: “Any amounts in the account established by section 312(d)(1) of such Act \[2 U.S.C. 2062(d)(1)\] as of the day before the effective date of this section \[see Effective Date of 2010 Amendment note above\], together with any amounts in the House Services Revolving Fund as of the effective date of this section which, at the time of deposit into the House Services Revolving Fund, were designated for purposes of the House Child Care Center, shall be transferred to the House Child Care Center Revolving Fund established by such section, as amended by paragraph (1).”
 
 #### Retirement Credit for Certain Prior Service With House Child Care Center
 

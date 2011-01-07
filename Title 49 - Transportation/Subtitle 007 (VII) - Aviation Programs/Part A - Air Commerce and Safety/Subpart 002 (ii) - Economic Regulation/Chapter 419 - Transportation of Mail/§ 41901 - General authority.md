@@ -8,7 +8,7 @@ Title 39.—The United States Postal Service may provide for the transportation 
 
 Authority To Prescribe Prices.—Except as provided in section 5402 of title 39, on the initiative of the Secretary of Transportation or on petition by the Postal Service or an air carrier, the Secretary shall prescribe and publish—
 
-&emsp;(1) after notice and an opportunity for a hearing on the record, reasonable prices to be paid by the Postal Service for the transportation of mail by aircraft between places in Alaska, the facilities used in and useful for the transportation of mail, and the services related to the transportation of mail for each carrier holding a certificate that authorizes that transportation;
+&emsp;(1) after notice and an opportunity for a hearing on the record, reasonable prices to bepaid by the Postal Service for the transportation of mail by aircraft between places in Alaska, the facilities used in and useful for the transportation of mail, and the services related to the transportation of mail for each carrier holding a certificate that authorizes that transportation;
 
 &emsp;(2) the methods used, whether by aircraft-mile, pound-mile, weight, space, or a combination of those or other methods, to determine the prices for each air carrier or class of air carriers; and
 
@@ -20,7 +20,7 @@ Other Transportation.—In prescribing prices under subsection (b) of this secti
 
 (d)
 
-Authority To Prescribe Different Prices.—Considering conditions peculiar to transportation by aircraft and to particular aircarriers or classes of air carriers, the Secretary may prescribe different prices under this section for different air carriers or classes of air carriers and for different classes of service. In prescribing a price for a carrier under this section, the Secretary shall consider, among other factors, the following:
+Authority To Prescribe Different Prices.—Considering conditions peculiar to transportation by aircraft and to particular air carriers or classes of air carriers, the Secretary may prescribe different prices under this section for different air carriers or classes of air carriers and for different classes of service. In prescribing a price for a carrier under this section, the Secretary shall consider, among other factors, the following:
 
 &emsp;(1) the condition that the carrier may hold and operate under a certificate authorizing the transportation of mail only by providing necessary and adequate facilities and service for the transportation of mail.
 
@@ -160,19 +160,19 @@ Section 4(k) reflects amendments to the restatement required by section 1601(a)(
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–405, §2(b)(1), substituted “39, and in foreign air transportation under section 5402(b) and (c) of title 39.” for “39.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–405, §2(b)(1), substituted “39, and in foreign air transportation under section 5402(b) and (c) of title 39.” for “39.”
 
 Subsec. (b)(1). Pub. L. 110–405, §2(b)(2), struck out “in foreign air transportation or” after “aircraft”.
 
-2002—Subsec. (a). Pub. L. 107–206 substituted “5402(e)” for “5402(d)”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–206 substituted “5402(e)” for “5402(d)”.
 
-1999—Subsecs. (b)(1), (g). Pub. L. 106–31 repealed Pub. L. 103–272, §4(k). See 1994 Amendment notes below.
+<b>1999</b>—Subsecs. (b)(1), (g). Pub. L. 106–31 repealed Pub. L. 103–272, §4(k). See 1994 Amendment notes below.
 
-1995—Subsec. (g). Pub. L. 104–52 struck out subsec. (g) which read as follows: “
+<b>1995</b>—Subsec. (g). Pub. L. 104–52 struck out subsec. (g) which read as follows: “
 
 Expiration Date.—The authority of the Secretary under this part and section 5402 of title 39 providing for the transportation of mail by aircraft between places in Alaska expires on the date specified in section 5402(f) of title 39.”
 
-1994—Subsec. (b)(1). Pub. L. 103–272, §4(k)(1), which directed the amendment of this section by substituting “foreign air transportation,” for “foreign air transportation or between places in Alaska,”, effective Jan. 1, 1999, was repealed by Pub. L. 106–31, §6003, effective Dec. 31, 1998.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–272, §4(k)(1), which directed the amendment of this section by substituting “foreign air transportation,” for “foreign air transportation or between places in Alaska,”, effective Jan. 1, 1999, was repealed by Pub. L. 106–31, §6003, effective Dec. 31, 1998.
 
 Subsec. (g). Pub. L. 103–272, §4(k)(2), which directed the amendment of this section by striking out subsec. (g), effective Jan. 1, 1999, was repealed by Pub. L. 106–31, §6003, effective Dec. 31, 1998.
 

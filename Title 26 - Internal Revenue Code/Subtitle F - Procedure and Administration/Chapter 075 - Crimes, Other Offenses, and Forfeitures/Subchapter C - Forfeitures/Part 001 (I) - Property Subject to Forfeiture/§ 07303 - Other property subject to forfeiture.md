@@ -18,7 +18,7 @@ There may be seized and forfeited to the United States the following:
 
 #### Amendments
 
-1976—Par. (2). Pub. L. 94–455, §1904(b)(9)(D), redesignated par. (7) as (2). Former par. (2), which related to oleomargarine or filled cheese adjudged to contain deleterious ingredients, was repealed. See 1958 Amendment note below.
+<b>1976</b>—Par. (2). Pub. L. 94–455, §1904(b)(9)(D), redesignated par. (7) as (2). Former par. (2), which related to oleomargarine or filled cheese adjudged to contain deleterious ingredients, was repealed. See 1958 Amendment note below.
 
 Par. (3). Pub. L. 94–455, §1904(b)(9)(D), redesignated par. (8) as (3). Former par. (3), relating to offenses by manufacturers or importers of or wholesale dealers in oleomargarine or adulterated butter, was struck out.
 
@@ -30,11 +30,11 @@ Par. (6). Pub. L. 94–455, §1904(b)(8)(G), struck out par. (6) which related t
 
 Pars. (7), (8). Pub. L. 94–455, §1904(b)(9)(D), redesignated pars. (7) and (8) as (2) and (3), respectively.
 
-1974—Par. (4). Pub. L. 93–490 substituted provisions relating to purchase or receipt of adulterated butter and payment of tax under section 4821 of this title for provisions relating to purchase or receipt of filled cheese or adulterated butter and payment of tax under section 4821 or 4841 of this title.
+<b>1974</b>—Par. (4). Pub. L. 93–490 substituted provisions relating to purchase or receipt of adulterated butter and payment of tax under section 4821 of this title for provisions relating to purchase or receipt of filled cheese or adulterated butter and payment of tax under section 4821 or 4841 of this title.
 
 Par. (5). Pub. L. 93–490 substituted provisions relating to packages of oleomargarine subject to tax under subchapter F of chapter 38 of this title for provisions relating to oleomargarine or filled cheese subject to tax under subchapter F of chapter 38 or part II of subchapter C of chapter 39 of this title.
 
-1958—Pub. L. 85–881 repealed par. (2) which related to oleomargarine or filled cheese adjudged to contain deleterious ingredients.
+<b>1958</b>—Pub. L. 85–881 repealed par. (2) which related to oleomargarine or filled cheese adjudged to contain deleterious ingredients.
 
 #### Effective Date of 1976 Amendment
 

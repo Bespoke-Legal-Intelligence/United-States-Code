@@ -1,7 +1,5 @@
 subpart 2—emerging community development corporations
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “13852(b)(1)”.</i>
-
 
 ---
 

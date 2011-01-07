@@ -6,7 +6,7 @@ The National Institute of Standards and Technology shall give particular attenti
 
 #### Amendments
 
-1988—Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards” in two places.
+<b>1988</b>—Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards” in two places.
 
 #### Transfer of Functions
 

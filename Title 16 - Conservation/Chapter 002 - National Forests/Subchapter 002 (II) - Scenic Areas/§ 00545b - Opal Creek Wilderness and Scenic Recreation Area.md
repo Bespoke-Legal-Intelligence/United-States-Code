@@ -62,7 +62,7 @@ The purposes of this section are—
 
 &emsp;&emsp;(B) a binding agreement has been executed by the Secretary and the owners of record as of March 29, 1996, of the following interests, specifying the terms and conditions for the disposition of such interests to the United States Government—
 
-&emsp;&emsp;&emsp;(i) The lode mining claims known as Princess Lode, Black Prince Lode, and King Number 4 Lode, embracing portions of sections 29 and 32, township 8 south, range 5 east, Willamette Meridian, Marion County, Oregon, the claims being more particularly described in the field notesand depicted on the plat of mineral survey number 887, Oregon; and
+&emsp;&emsp;&emsp;(i) The lode mining claims known as Princess Lode, Black Prince Lode, and King Number 4 Lode, embracing portions of sections 29 and 32, township 8 south, range 5 east, Willamette Meridian, Marion County, Oregon, the claims being more particularly described in the field notes and depicted on the plat of mineral survey number 887, Oregon; and
 
 &emsp;&emsp;&emsp;(ii) Ruth Quartz Mine Number 1, mineral survey number 994, as described in patent number 39–91–0012, dated February 12, 1991.
 
@@ -322,7 +322,7 @@ The purposes of this section are—
 
 #### (1) Authorization
 
-&emsp;Notwithstanding any other law, if the Rosboro Lumber Company (referred to in this subsection as “Rosboro”) offers and conveys marketable title to the United States to the land described in paragraph (2), the Secretary of Agriculture shall convey all right, title and interest held by the United States to sufficient lands described in paragraph (3) to Rosboro, in the order in which they appear in this subsection, as necessary to satisfy the equal value requirements of paragraph (4).
+&emsp;Notwithstanding any other law, if the Rosboro Lumber Company (referred to in this subsection as “Rosboro”) offers and conveys marketable title to the United States to the land described in paragraph (2), the Secretary of Agriculture shall convey all right, title andinterest held by the United States to sufficient lands described in paragraph (3) to Rosboro, in the order in which they appear in this subsection, as necessary to satisfy the equal value requirements of paragraph (4).
 
 #### (2) Land to be offered by Rosboro
 
@@ -336,15 +336,15 @@ The purposes of this section are—
 
 &emsp;&emsp;(B) Section 2, Township 17 South, Range 4 East, Lot 3 (29.28 acres);
 
-&emsp;&emsp;(C) Section 13, Township 17 South, Range 4 East, S1/2SE1/4 (80 acres);
+&emsp;&emsp;(C) Section 13, Township 17 South, Range 4 East, S½SE¼ (80 acres);
 
-&emsp;&emsp;(D) Section 2, Township 17 South, Range 4 East, SW1/4SW1/4 (40 acres);
+&emsp;&emsp;(D) Section 2, Township 17 South, Range 4 East, SW¼SW¼ (40 acres);
 
-&emsp;&emsp;(E) Section 2, Township 17 South, Range 4 East, NW1/4SE1/4 (40 acres);
+&emsp;&emsp;(E) Section 2, Township 17 South, Range 4 East, NW¼SE¼ (40 acres);
 
-&emsp;&emsp;(F) Section 8, Township 17 South, Range 4 East, SE1/4SW1/4 (40 acres);
+&emsp;&emsp;(F) Section 8, Township 17 South, Range 4 East, SE¼SW¼ (40 acres);
 
-&emsp;&emsp;(G) Section 11, Township 17 South, Range 4 East, W1/2NW1/4 (80 acres);<sup>5</sup>
+&emsp;&emsp;(G) Section 11, Township 17 South, Range 4 East, W½NW¼ (80 acres);<sup>5</sup>
 
 #### (4) Equal value
 
@@ -390,23 +390,17 @@ The purposes of this section are—
 
 #### References in Text
 
-The Wilderness Act, referred to in subsec. (c)(1)(A), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
+The Wilderness Act, referred to in subsec. (c)(1)(A), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
-The Endangered Species Act, referred to in subsec. (d)(2)(B), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act, referred to in subsec. (d)(2)(B), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The National Forest Management Act, referred to in subsec. (d)(2)(B), probably means the National Forest Management Act of 1976, Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables.
+The National Forest Management Act, referred to in subsec. (d)(2)(B), probably means the National Forest Management Act of 1976, Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables.
 
-The Oregon Wilderness Act of 1984, referred to in subsec. (d)(3)(A), is Pub. L. 98–328, June 26, 1984, 98 Stat. 272, which enacted subchapter C (§460<i>oo</i>) of chapter 1 of this title and provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
+The Oregon Wilderness Act of 1984, referred to in subsec. (d)(3)(A), is Pub. L. 98–328, June 26, 1984, 98 Stat. 272, which enacted subchapter C (§460<i>oo</i>) of chapter 1 of this title and provisions listed in a table of WildernessAreas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
 
-The public land laws, referred to in subsec. (d)(7)(A)(i), are classified generally to Title 43, Public Lands.
+The Federal Power Act, referred to in subsec. (d)(9), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
-The mining laws and the mineral leasing laws, referred to in subsec. (d)(7)(A)(ii), (iii), (8)(D), are classified generally to Title 30, Mineral Lands and Mining.
-
-The geothermal leasing laws, referred to in subsec. (d)(7)(A)(iii), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
-
-The Federal Power Act, referred to in subsec. (d)(9), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
-
-The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (f)(2)(A), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (f)(2)(A), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
 #### Codification
 
@@ -416,7 +410,7 @@ Provisions substantially identical to the text of this section were enacted by t
 
 #### Amendments
 
-2000—Subsec. (c)(1)(A). Pub. L. 106–176 struck out “of 1964” after “Wilderness Act”.
+<b>2000</b>—Subsec. (c)(1)(A). Pub. L. 106–176 struck out “of 1964” after “Wilderness Act”.
 
 #### Change of Name
 

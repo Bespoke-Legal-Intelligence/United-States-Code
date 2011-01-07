@@ -6,11 +6,11 @@ For the purposes of section 1131 of this title, the compensation payable for the
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 334 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 334 of this title as this section.
 
 Pub. L. 102–83, §5(c)(1), substituted “1131” for “331” and “1114” for “314”.
 
-1972—Pub. L. 92–328 substituted provisions that compensation payable for the disability be that specified in section 314 of this title, for provisions that compensation payable for the disability be equal to 80% of the compensation payable for such disability under section 314 of this title, adjusted upward or downward to the nearest dollar.
+<b>1972</b>—Pub. L. 92–328 substituted provisions that compensation payable for the disability be that specified in section 314 of this title, for provisions that compensation payable for the disability be equal to 80% of the compensation payable for such disability under section 314 of this title, adjusted upward or downward to the nearest dollar.
 
 #### Effective Date of 1972 Amendment
 

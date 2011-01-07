@@ -10,7 +10,7 @@ Travel Benefit Defined.—In this section, the term “travel benefit” means f
 
 (c)
 
-Condition on Authority to Accept Donation.—The Secretary may accept a donation of a travel benefit under this section only if the air or surface carrier that is the source of the benefit consents to such donation. Any such donation shall be under such terms and conditions as the surface carrier may specify, and the travel benefit so donated may be used only in accordance with the rules established by the carrier.
+Condition on Authority to Accept Donation.—The Secretary may accept a donation of atravel benefit under this section only if the air or surface carrier that is the source of the benefit consents to such donation. Any such donation shall be under such terms and conditions as the surface carrier may specify, and the travel benefit so donated may be used only in accordance with the rules established by the carrier.
 
 (d)
 
@@ -22,7 +22,7 @@ Use of Donated Travel Benefits.—A travel benefit accepted under this section m
 
 &emsp;&emsp;(B) is granted, during such deployment, rest and recuperative leave, emergency leave, convalescent leave, or another form of leave authorized for the member; or
 
-&emsp;(2) in the case of a member of the armed forces recuperating from an injury or illnessincurred or aggravated in the line of duty during such a deployment, facilitating the travel of family members of the member in order to be reunited with the member.
+&emsp;(2) in the case of a member of the armed forces recuperating from an injury or illness incurred or aggravated in the line of duty during such a deployment, facilitating the travel of family members of the member in order to be reunited with the member.
 
 (e)
 
@@ -58,5 +58,5 @@ Another section 2613 was renumbered section 2614 of this title.
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–364 substituted “In this” for “In the”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–364 substituted “In this” for “In the”.
 

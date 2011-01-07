@@ -12,7 +12,7 @@ A prior section 2151e, Pub. L. 87–195, pt. I, §107, as added Pub. L. 93–189
 
 #### Amendments
 
-1978—Pub. L. 95–424 designated existing provisions as subsec. (a), substituted provisions mandating that the President place special emphasis on the use of relatively smaller, cost-saving, labor-using technologies generally more appropriate for small farms, small businesses and small incomes of the poor, for provisions authorizing the use of $20,000,000 for activities in the field of intermediate technology, directing the Agency for International Development to prepare a proposal to carry out this section and to keep Congress informed, and to implement such proposal, and added subsec. (b).
+<b>1978</b>—Pub. L. 95–424 designated existing provisions as subsec. (a), substituted provisions mandating that the President place special emphasis on the use of relatively smaller, cost-saving, labor-using technologies generally more appropriate for small farms, small businesses and small incomes of the poor, for provisions authorizing the use of $20,000,000 for activities in the field of intermediate technology, directing the Agency for International Development to prepare a proposal to carry out this section and to keep Congress informed, and to implement such proposal, and added subsec. (b).
 
 #### Effective Date of 1978 Amendment
 

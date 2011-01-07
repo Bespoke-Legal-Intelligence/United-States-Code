@@ -100,9 +100,9 @@ In subsection (g), the words “members in his retired grade traveling in connec
 
 #### Amendments
 
-1989—Subsecs. (c) to (e). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration” wherever appearing.
+<b>1989</b>—Subsecs. (c) to (e). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration” wherever appearing.
 
-1985—Subsecs. (b) to (d). Pub. L. 99–145, §513(a)(2)(A), inserted “and stable” after “permanent nature”.
+<b>1985</b>—Subsecs. (b) to (d). Pub. L. 99–145, §513(a)(2)(A), inserted “and stable” after “permanent nature”.
 
 Subsec. (f). Pub. L. 99–145, §513(a)(2)(B), designated existing provisions as par. (1), substituted “or rating, the Secretary shall—” for “and rating, the Secretary shall treat him as provided in section 1211 of this title”, added subpars. (A) and (B), and added par. (2).
 

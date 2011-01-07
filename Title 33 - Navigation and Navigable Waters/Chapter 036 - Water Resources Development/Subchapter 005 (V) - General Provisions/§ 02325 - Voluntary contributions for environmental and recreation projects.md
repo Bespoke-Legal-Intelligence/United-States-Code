@@ -16,7 +16,7 @@ Section was enacted as part of the Water Resources Development Act of 1992, and 
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–303 substituted “(8862)” for “(8662)”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–303 substituted “(8862)” for “(8662)”.
 
 #### “Secretary” Defined
 

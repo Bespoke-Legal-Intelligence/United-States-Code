@@ -10,9 +10,9 @@
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–236 inserted before period at end of first sentence “, if the request for judicial review is filed not later than 180 days after the final action of the Secretary or the Board (or in the case of an aggrieved party who is posted abroad at the time of the final action of the Secretary or the Board, if the request for judicial review is filed not later than 180 days after the aggrieved party's return to the United States)”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–236 inserted before period at end of first sentence “, if the request for judicial review is filed not later than 180 days after the final action of the Secretary or the Board (or in the case of an aggrieved party who is posted abroad at the time of the final action of the Secretary or the Board, if the request for judicial review is filed not later than 180 days after the aggrieved party's return to the United States)”.
 
-1991—Pub. L. 102–138 designated existing provisions as subsec. (a), inserted provision that subsec. (a) not apply to any grievance with respect to which subsec. (b) applies, and added subsec. (b).
+<b>1991</b>—Pub. L. 102–138 designated existing provisions as subsec. (a), inserted provision that subsec. (a) not apply to any grievance with respect to which subsec. (b) applies, and added subsec. (b).
 
 #### Effective Date of 1991 Amendment
 

@@ -30,7 +30,3 @@ Whenever any article entered under section 1752 of this title is transferred pur
 
 (Pub. L. 86–14, §4, Apr. 22, 1959, 73 Stat. 18.)
 
-#### References in Text
-
-The customs laws, referred to in subsec. (a)(1), are classified generally to this title.
-

@@ -12,7 +12,7 @@
 
 #### (3) Notice of establishment
 
-&emsp;The Secretaries shall publish a notice in the Federal Register when the National Parks and Federal Recreational Lands Pass is first established and available for purchase.
+&emsp;The Secretaries shall publish a notice in the Federal Register when the National Parks andFederal Recreational Lands Pass is first established and available for purchase.
 
 #### (4) Duration
 
@@ -52,7 +52,7 @@
 
 #### (1) Age discount
 
-&emsp;The Secretary shall make the National Parks and Federal Recreational Lands Pass available, at a cost of $10.00, to any United States citizen or person domiciled in the United States who is 62 years of age or older,if the citizen or person provides adequate proof of such age and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this subsection shall be valid for the lifetime of the pass holder.
+&emsp;The Secretary shall make the National Parks and Federal Recreational Lands Pass available, at a cost of $10.00, to any United States citizen or person domiciled in the United States who is 62 years of age or older, if the citizen or person provides adequate proof of such age and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this subsection shall be valid for the lifetime of the pass holder.
 
 #### (2) Disability discount
 
@@ -80,7 +80,7 @@ The Secretary may provide for a discounted or free admission day or use of Feder
 
 #### (1) Existing passports
 
-&emsp;A passport issued under section 460<i>l</i>–6a of this title or title VI of the National Parks Omnibus Management Act of 1998 (Public Law 105–391; 16 U.S.C. 5991–5995), such as the Golden Eagle Passport, the Golden Age Passport, the Golden Access Passport, and the National Parks Passport, that was valid on the day before the publication of the Federal Register notice required under subsection (a)(3) shall be valid in accordance with the terms agreed to at the time of issuance of the passport, to the extent practicable, and remain in effect until expired, lost, or stolen.
+&emsp;A passport issued under section 460<i>l</i>–6a of this title or title VI of the National Parks Omnibus Management Act of 1998 (Public Law 105–391; 16 U.S.C. 5991–5995), such as the Golden Eagle Passport, the Golden Age Passport, the Golden Access Passport, and the National Parks Passport, that was valid on the day before the publication of the Federal Registernotice required under subsection (a)(3) shall be valid in accordance with the terms agreed to at the time of issuance of the passport, to the extent practicable, and remain in effect until expired, lost, or stolen.
 
 #### (2) Permits
 

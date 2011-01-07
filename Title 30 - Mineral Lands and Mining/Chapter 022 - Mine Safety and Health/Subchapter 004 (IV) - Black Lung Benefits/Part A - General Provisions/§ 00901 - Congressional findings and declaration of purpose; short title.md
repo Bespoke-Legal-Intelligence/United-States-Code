@@ -1,6 +1,6 @@
 ### §901. Congressional findings and declaration of purpose; short title
 
-(a) Congress finds and declares that there are a significant number of coal miners living todaywho are totally disabled due to pneumoconiosis arising out of employment in one or more of the Nation's coal mines; that there are a number of survivors of coal miners whose deaths were due to this disease; and that few States provide benefits for death or disability due to this disease to coal miners or their surviving dependents. It is, therefore, the purpose of this subchapter to provide benefits, in cooperation with the States, to coal miners who are totally disabled due to pneumoconiosis and to the surviving dependents of miners whose death was due to such disease; and to ensure that in the future adequate benefits are provided to coal miners and their dependents in the event of their death or total disability due to pneumoconiosis.
+(a) Congress finds and declares that there are a significant number of coal miners living today who are totally disabled due to pneumoconiosis arising out of employment in one or more of the Nation's coal mines; that there are a number of survivors of coal miners whose deaths were due to this disease; and that few States provide benefits for death or disability due to this disease to coal miners or their surviving dependents. It is, therefore, the purpose of this subchapter to provide benefits, in cooperation with the States, to coal miners who are totally disabled due to pneumoconiosis and to the surviving dependents of miners whose death was due to such disease; and to ensure that in the future adequate benefits are provided to coal miners and their dependents in the event of their death or total disability due to pneumoconiosis.
 
 (b) This subchapter may be cited as the “Black Lung Benefits Act”.
 
@@ -8,11 +8,11 @@
 
 #### Amendments
 
-1981—Subsec. (a). Pub. L. 97–119 struck out “or who were totally disabled by this disease at the time of their deaths” after “due to this disease” and “due to such disease”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–119 struck out “or who were totally disabled by this disease at the time of their deaths” after “due to this disease” and “due to such disease”.
 
-1978—Pub. L. 95–239 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1978</b>—Pub. L. 95–239 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1972—Pub. L. 92–303, §3(a), inserted “or who were totally disabled by this disease at the time of their deaths” after “disease” the first and third times it appeared and struck out “underground” before “coal mines”.
+<b>1972</b>—Pub. L. 92–303, §3(a), inserted “or who were totally disabled by this disease at the time of their deaths” after “disease” the first and third times it appeared and struck out “underground” before “coal mines”.
 
 #### Effective Date of 1981 Amendment
 

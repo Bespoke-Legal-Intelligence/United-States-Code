@@ -124,7 +124,7 @@ The Airport and Airway Improvement Act of 1982, referred to in subsec. (b)(2), i
 
 #### Amendments
 
-2003—Subsec. (b)(1)(A). Pub. L. 108–176, §155(a)(1), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+<b>2003</b>—Subsec. (b)(1)(A). Pub. L. 108–176, §155(a)(1), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
 “(i) by at least 65 percent of the air carriers serving the airport; and
 
@@ -139,4 +139,8 @@ Pub. L. 108–176, title I, §155(b), Dec. 12, 2003, 117 Stat. 2508, provided th
 #### Effective Date
 
 Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
+
+#### Deemed References to Chapters 509 and 511 of Title 51
+
+General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 

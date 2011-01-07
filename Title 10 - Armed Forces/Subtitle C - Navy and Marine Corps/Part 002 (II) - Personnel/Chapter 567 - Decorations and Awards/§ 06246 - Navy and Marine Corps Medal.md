@@ -28,5 +28,5 @@ The word “award” is substituted for the word “present” to cover the dete
 
 #### Amendments
 
-1997—Pub. L. 105–85 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1997</b>—Pub. L. 105–85 designated existing provisions as subsec. (a) and added subsec. (b).
 

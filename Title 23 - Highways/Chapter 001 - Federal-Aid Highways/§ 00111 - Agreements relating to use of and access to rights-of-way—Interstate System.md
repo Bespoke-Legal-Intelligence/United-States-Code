@@ -48,19 +48,19 @@ Nonsafety hazards.—The call boxes and their location, posts, foundations, and 
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–244 struck out subsec. (d) which related to idling reduction facilities in rights-of-way of Interstate System.
+<b>2008</b>—Subsec. (d). Pub. L. 110–244 struck out subsec. (d) which related to idling reduction facilities in rights-of-way of Interstate System.
 
-2005—Subsec. (d). Pub. L. 109–59 added subsec. (d).
+<b>2005</b>—Subsec. (d). Pub. L. 109–59 added subsec. (d).
 
-1998—Subsecs. (a), (b). Pub. L. 105–178 substituted “State transportation department” for “State highway department”.
+<b>1998</b>—Subsecs. (a), (b). Pub. L. 105–178 substituted “State transportation department” for “State highway department”.
 
-1995—Subsec. (c). Pub. L. 104–59 added subsec. (c).
+<b>1995</b>—Subsec. (c). Pub. L. 104–59 added subsec. (c).
 
-1987—Pub. L. 100–17 designated existing provision as subsec. (a), inserted heading for subsec. (a), and added subsec. (b).
+<b>1987</b>—Pub. L. 100–17 designated existing provision as subsec. (a), inserted heading for subsec. (a), and added subsec. (b).
 
-1978—Pub. L. 95–599 inserted provision listing situations which would not require the discontinuance, obstruction, or removal of any establishment for serving motor vehicle users.
+<b>1978</b>—Pub. L. 95–599 inserted provision listing situations which would not require the discontinuance, obstruction, or removal of any establishment for serving motor vehicle users.
 
-1961—Pub. L. 87–61 substituted “to use or permit the use of the airspace above and below the established grade line of the highway pavement for such purposes as will not impair the full use and safety of the highway, as will not require or permit vehicular access to such space directly from such established grade line of the highway, or otherwise interfere” for “to use the airspace above and below the established grade line of the highway pavement for the parking of motor vehicles provided such use does not interfere”.
+<b>1961</b>—Pub. L. 87–61 substituted “to use or permit the use of the airspace above and below the established grade line of the highway pavement for such purposes as will not impair the full use and safety of the highway, as will not require or permit vehicular access to such space directly from such established grade line of the highway, or otherwise interfere” for “to use the airspace above and below the established grade line of the highway pavement for the parking of motor vehicles provided such use does not interfere”.
 
 #### Interstate Oasis Program
 

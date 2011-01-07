@@ -20,23 +20,31 @@ Except as specified in sections 1635, 1640, and 1666e of this title, this subcha
 
 #### (e) Certain credit and charge card application and solicitation disclosure provisions
 
-The provisions of subsection (c) of section 1632 of this title and subsections (c), (d), (e), and (f) of section 1637 of this title shall supersede any provision of the law of any State relating to the disclosure of information in any credit or charge card application or solicitation which is subject to the requirements of section 1637(c) of this title or any renewal notice which is subject to the requirements of section 1637(d) of this title, except that any State may employ or establish State laws for the purpose of enforcing the requirements of such sections.
+The provisions of subsection (c) of section 1632 of this title and subsections (c), (d), (e), and (f) of section 1637 of this title shall supersede any provision of the law of any State relating to the disclosure of information in any credit or charge card application or solicitation which is subject to the requirements of section 1637(c) of this title or any renewal notice which is subject tothe requirements of section 1637(d) of this title, except that any State may employ or establish State laws for the purpose of enforcing the requirements of such sections.
 
-(Pub. L. 90–321, title I, §111, May 29, 1968, 82 Stat. 151; Pub. L. 93–495, title III, §307(b), Oct. 28, 1974, 88 Stat. 1516; Pub. L. 96–221, title VI, §609, Mar. 31, 1980, 94 Stat. 173; Pub. L. 100–583, §4, Nov. 3, 1988, 102 Stat. 2967; Pub. L. 103–325, title I, §152(e)(2)(B), (C), Sept. 23, 1994, 108 Stat. 2194.)
+(Pub. L. 90–321, title I, §111, May 29, 1968, 82 Stat. 151; Pub. L. 93–495, title III, §307(b), Oct. 28, 1974, 88 Stat. 1516; Pub. L. 96–221, title VI, §609, Mar. 31, 1980, 94 Stat. 173; Pub. L. 100–583, §4, Nov. 3, 1988, 102 Stat. 2967; Pub. L. 103–325, title I, §152(e)(2)(B), (C), Sept. 23, 1994, 108 Stat. 2194; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
-1994—Subsec. (a)(2). Pub. L. 103–325, §152(e)(2)(B), which directed the amendment of par. (2) by inserting“, and such State-required disclosure may not be made in lieu of the disclosures applicable to certain mortgages under section 1639 of this title” before period, was executed by making the insertion before period at end of par. (2), to reflect the probable intent of Congress.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–325, §152(e)(2)(B), which directed the amendment of par. (2) by inserting “, and such State-required disclosure may not be made in lieu of the disclosures applicable to certain mortgages under section 1639 of this title” before period, was executed by making the insertion before period at end of par. (2), to reflect the probable intent of Congress.
 
 Subsec. (b). Pub. L. 103–325, §152(e)(2)(C), substituted “Except as provided in section 1639 of this title, this subchapter” for “This subchapter” and inserted at end “The provisions of section 1639 of this title do not annul, alter, or affect the applicability of the laws of any State or exempt any person subject to the provisions of section 1639 of this title from complying with the laws of any State, with respect to the requirements for mortgages referred to in section 1602(aa) of this title, except to the extent that those State laws are inconsistent with any provisions of section 1639 of this title, and then only to the extent of the inconsistency.”
 
-1988—Subsec. (a)(1). Pub. L. 100–583, §4(1), substituted “Except as provided in subsection (e) of this section, this part” for “This part”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–583, §4(1), substituted “Except as provided in subsection (e) of this section, this part” for “This part”.
 
 Subsec. (e). Pub. L. 100–583, §4(2), added subsec. (e).
 
-1980—Subsec. (a). Pub. L. 96–221 designated existing provisions as par. (1), substituted provisions respecting the effect of this part and parts B and C of this subchapter, and procedures applicable for determination, for provisions respecting the effect of this subchapter, and added par. (2).
+<b>1980</b>—Subsec. (a). Pub. L. 96–221 designated existing provisions as par. (1), substituted provisions respecting the effect of this part and parts B and C of this subchapter, and procedures applicable for determination, for provisions respecting the effect of this subchapter, and added par. (2).
 
-1974—Subsec. (d). Pub. L. 93–495 inserted reference to section 1666e of this title.
+<b>1974</b>—Subsec. (d). Pub. L. 93–495 inserted reference to section 1666e of this title.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1980 Amendment
 

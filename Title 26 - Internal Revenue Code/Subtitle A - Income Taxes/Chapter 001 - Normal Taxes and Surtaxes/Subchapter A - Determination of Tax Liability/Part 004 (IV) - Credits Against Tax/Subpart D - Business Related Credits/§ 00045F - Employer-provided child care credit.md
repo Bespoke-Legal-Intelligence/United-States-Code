@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For purposes of section 38, the employer-provided child care credit determined under this section for the taxable year is an amount equal to the sum of—
+For purposes of section 38, the employer-provided child care credit determined under thissection for the taxable year is an amount equal to the sum of—
 
 &emsp;(1) 25 percent of the qualified child care expenditures, and
 
@@ -58,7 +58,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) enrollment in the facility is open to employees of the taxpayer during the taxable year,
 
-&emsp;&emsp;&emsp;(ii) if the facility is the principal trade or business of the taxpayer, at least 30 percent of the enrollees of such facility aredependents of employees of the taxpayer, and
+&emsp;&emsp;&emsp;(ii) if the facility is the principal trade or business of the taxpayer, at least 30 percent of the enrollees of such facility are dependents of employees of the taxpayer, and
 
 &emsp;&emsp;&emsp;(iii) the use of such facility (or the eligibility to use such facility) does not discriminate in favor of employees of the taxpayer who are highly compensated employees (within the meaning of section 414(q)).
 
@@ -212,7 +212,7 @@ For purposes of this section—
 
 #### Amendments
 
-2002—Subsec. (d)(4)(B). Pub. L. 107–147 substituted “this chapter or for purposes of section 55” for “subpart A, B, or D of this part”.
+<b>2002</b>—Subsec. (d)(4)(B). Pub. L. 107–147 substituted “this chapter or for purposes of section 55” for “subpart A, B, or D of this part”.
 
 #### Effective Date of 2002 Amendment
 
@@ -222,5 +222,5 @@ Amendment by Pub. L. 107–147 effective as if included in the provisions of the
 
 Section applicable to taxable years beginning after Dec. 31, 2001, see section 205(c) of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 38 of this title.
 
-Section inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if it had never been enacted, see section 901 of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
+Section inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if it had never been enacted, see section 901 of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
 

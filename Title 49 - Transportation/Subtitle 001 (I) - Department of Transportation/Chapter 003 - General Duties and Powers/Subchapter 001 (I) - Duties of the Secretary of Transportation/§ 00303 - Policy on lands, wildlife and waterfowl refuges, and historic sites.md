@@ -94,11 +94,11 @@ In subsection (c), before clause (1), the words “After August 23, 1968” afte
 
 #### Amendments
 
-2005—Subsec. (c). Pub. L. 109–59, §6009(a)(2)(A), inserted heading and substituted “Subject to subsection (d), the Secretary” for “The Secretary” in introductory provisions.
+<b>2005</b>—Subsec. (c). Pub. L. 109–59, §6009(a)(2)(A), inserted heading and substituted “Subject to subsection (d), the Secretary” for “The Secretary” in introductory provisions.
 
 Subsec. (d). Pub. L. 109–59, §6009(a)(2)(B), added subsec. (d).
 
-1987—Subsec. (c). Pub. L. 100–17 inserted “(other than any project for a park road or parkway under section 204 of title 23)” after “program or project”.
+<b>1987</b>—Subsec. (c). Pub. L. 100–17 inserted “(other than any project for a park road or parkway under section 204 of title 23)” after “program or project”.
 
 #### Treatment of Military Flight Operations
 

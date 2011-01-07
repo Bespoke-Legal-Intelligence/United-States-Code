@@ -14,7 +14,7 @@ The President, by and with the advice and consent of the Senate, shall designate
 
 #### (d) Additional appointees; conditions governing certain appointments; designation of certain State Department officers to sit on Security Council
 
-The President may also appoint from time to time such other persons as he may deem necessary to represent the United States in organs and agencies of the United Nations. The President may, without the advice and consent of the Senate, designate any officer of the United States to act without additional compensation as the representative of the United States in either the Economic and Social Council or the Trusteeship Council (1) at any specified sessionthereof where the position is vacant or in the absence or disability of the regular representative or (2) in connection with a specified subject matter at any specified session of either such Council in lieu of the regular representative. The President may designate any officer of the Department of State, whose appointment is subject to confirmation by the Senate, to act, without additional compensation, for temporary periods as the representative of the United States in the Security Council of the United Nations in the absence or disability of the representatives provided for under subsections (a) and (b) of this section or in lieu of such representatives in connection with a specified subject matter.
+The President may also appoint from time to time such other persons as he may deem necessary to represent the United States in organs and agencies of the United Nations. The President may, without the advice and consent of the Senate, designate any officer of the United States to act without additional compensation as the representative of the United States in either the Economic and Social Council or the Trusteeship Council (1) at any specified session thereof where the position is vacant or in the absence or disability of the regular representative or (2) in connection with a specified subject matter at any specified session of either such Council in lieu of the regular representative. The President may designate any officer of the Department of State, whose appointment is subject to confirmation by the Senate, to act, without additional compensation, for temporary periods as the representative of the United States in the Security Council of the United Nations in the absence or disability of the representatives provided for under subsections (a) and (b) of this section or in lieu of such representatives in connection with a specified subject matter.
 
 #### (e) Appointment of representative to European office of United Nations; rank, status, and tenure; duties
 
@@ -40,13 +40,13 @@ This Act, as amended, referred to in subsec. (b), is Pub. L. 89–206, Sept. 28,
 
 #### Amendments
 
-1999—Subsec. (h). Pub. L. 106–113 inserted at end “The representative of the United States to the Vienna office of the United Nations shall also serve as representative of the United States to the International Atomic Energy Agency.”
+<b>1999</b>—Subsec. (h). Pub. L. 106–113 inserted at end “The representative of the United States to the Vienna office of the United Nations shall also serve as representative of the United States to the International Atomic Energy Agency.”
 
-1982—Subsec. (h). Pub. L. 97–241 added subsec. (h).
+<b>1982</b>—Subsec. (h). Pub. L. 97–241 added subsec. (h).
 
-1980—Subsec. (g). Pub. L. 96–465 substituted “sections 3961, 3962, and 3963 of this title for chiefs of mission, members of the Senior Foreign Service,” for “sections 866 and 867 of this title for chiefs of mission”.
+<b>1980</b>—Subsec. (g). Pub. L. 96–465 substituted “sections 3961, 3962, and 3963 of this title for chiefs of mission, members of the Senior Foreign Service,” for “sections 866 and 867 of this title for chiefs of mission”.
 
-1965—Subsec. (a). Pub. L. 89–206, §1(a), struck out provisions which related to the appointment, rank and status, tenure and duties of a deputy representative of the United States to the United Nations.
+<b>1965</b>—Subsec. (a). Pub. L. 89–206, §1(a), struck out provisions which related to the appointment, rank and status, tenure and duties of a deputy representative of the United States to the United Nations.
 
 Subsec. (b). Pub. L. 89–206, §1(a), substituted provisions that the President, by and with the advice and consent of the Senate, shall appoint additional persons with appropriate titles, rank, and status to represent the United States in the principal organs of the United Nations and in such organs, commissions, or other bodies as may be created by the United Nations with respect to nuclear energy or disarmament, that they shall serve at the pleasure of the President and subject to the direction of the Representative of the United States to the United Nations, that they shall, at the direction of the Representative of the United States to the United Nations, represent the United States in any organ, commission, or other body of the United Nations, including the Security Council, the Economic and Social Council, and the Trusteeship Council, and perform such other functions as the Representative of the United States is authorized to perform in connection with the participation of the United States in the United Nations, and that any Deputy Representative or any other officer holding office at the time the provisions of this Act, as amended, become effective shall not be required to be reappointed by reason of the enactment of this Act, as amended, for provisions which authorized the President, by and with the advice and consent of the Senate, to appoint an additional deputy representative of the United States to the Security Council who shall hold office at the pleasure of the President, and which required the deputy representative to represent the United States in the Security Council of the United Nations in the event of the absence or disability of both the representative and the deputy representative of the United States to the United Nations.
 
@@ -54,7 +54,7 @@ Subsec. (d). Pub. L. 89–206, §1(b), struck out provisions which required the 
 
 Subsecs. (e) to (g). Pub. L. 89–206, §2, added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
-1949—Subsec. (a). Act Oct. 10, 1949, §1, created new post of deputy representative, and allowed the principal and deputy representatives to serve ex officio on any organ, commission, or body, other than specialized agencies, of the United Nations.
+<b>1949</b>—Subsec. (a). Act Oct. 10, 1949, §1, created new post of deputy representative, and allowed the principal and deputy representatives to serve ex officio on any organ, commission, or body, other than specialized agencies, of the United Nations.
 
 Subsec. (b). Act Oct. 10, 1949, §1, amended subsec. (b) generally, to provide for appointment of an additional deputy representative.
 
@@ -84,7 +84,7 @@ Pub. L. 107–228, div. A, title IV, §408, Sept. 30, 2002, 116 Stat. 1391, prov
 
 &emsp;“(2) to secure a seat for a United States national on the United Nations International Narcotics Control Board; and
 
-&emsp;“(3) to prevent membership on the Human Rights Commission by any member nation the government of which, in the judgment of the Secretary, based on the Department's Annual Country Reports on Human Rights and the Annual Report on International Report on Religious Freedom, consistently violates internationally recognized human rights or has engaged in or tolerated particularly severe violations of religious freedom in that country.”
+&emsp;“(3) to prevent membership on the Human Rights Commission by any member nation the government of which, in the judgment of the Secretary, based onthe Department's Annual Country Reports on Human Rights and the Annual Report on International Report on Religious Freedom, consistently violates internationally recognized human rights or has engaged in or tolerated particularly severe violations of religious freedom in that country.”
 
 \[For definitions of “Secretary” and “Department” as used in section 408 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 
@@ -226,7 +226,7 @@ Who have agreed as follows:
 
 #### “Article I—Definitions
 
-I74section 1
+#### section 1
 
 In this agreement:
 
@@ -242,7 +242,7 @@ In this agreement:
 
 #### “Article II—The Headquarters District
 
-I74section 2
+#### section 2
 
 The seat of the United Nations shall be the headquarters district.
 
@@ -266,7 +266,7 @@ The appropriate American authorities shall take whatever action may be necessary
 
 (b) The United Nations shall make arrangements for the operation of the services referred to in this section with the International Telecommunication Union, the appropriate agencies of the Government of the United States and the appropriate agencies of other affected governments with regard to all frequencies and similar matters.
 
-(c) The facilities provided for in this section may, to the extent necessary for efficient operation, be established and operated outside the headquarters district. The appropriate American authorities will, on request of the United Nations, make arrangements, on suchterms and in such manner as may be agreed upon by supplemental agreement, for the acquisition or use by the United Nations of appropriate premises for such purposes and the inclusion of such premises in the headquarters district.
+(c) The facilities provided for in this section may, to the extent necessary for efficient operation, be established and operated outside the headquarters district. The appropriate American authorities will, on request of the United Nations, make arrangements, on such terms and in such manner as may be agreed upon by supplemental agreement, for the acquisition or use by the United Nations of appropriate premises for such purposes and the inclusion of such premises in the headquarters district.
 
 #### section 5
 
@@ -278,7 +278,7 @@ In the event that the United Nations should propose to organize its own postal s
 
 #### “Article III—Law and Authority in the Headquarters District
 
-I74section 7
+#### section 7
 
 (a) The headquarters district shall be under the control and authority of the United Nations as provided in this agreement.
 
@@ -304,7 +304,7 @@ The United Nations may expel or exclude persons from the headquarters district f
 
 #### “Article IV—Communications and Transit
 
-I74section 11
+#### section 11
 
 The federal, state or local authorities of the United States shall not impose any impediments to transit to or from the headquarters district of (1) representatives of Members or officials of the United Nations, or of specialized agencies as defined in Article 57, paragraph 2, of the Charter, or the families of such representatives or officials, (2) experts performing missions for the United Nations or for such specialized agencies, (3) representatives of the press, or of radio, film or other information agencies, who have been accredited by the United Nations (or by such a specialized agency) in its discretion after consultation with the United States, (4) representatives of nongovernmental organizations recognized by the United Nations for the purpose of consultation under Article 71 of the Charter, or (5) other persons invited to the headquarters district by the United Nations or by such specialized agency on official business. The appropriate American authorities shall afford any necessary protection to such persons while in transit to or from the headquarters district. This section does not apply to general interruptions of transportation which are to be dealt with as provided in Section 17, and does not impair the effectiveness of generally applicable laws and regulations as to the operation of means of transportation.
 
@@ -318,7 +318,7 @@ The provisions of Section 11 shall be applicable irrespective of the relations e
 
 (b) Laws and regulations in force in the United States regarding the residence of aliens shall not be applied in such manner as to interfere with the privileges referred to in Section 11 and, specifically, shall not be applied in such manner as to require any such person to leave the United States on account of any activities performed by him in his official capacity. In case of abuse of such privileges of residence by any such person in activities in the United States outside his official capacity, it is understood that the privileges referred to in Section 11 shall not be construed to grant him exemption from the laws and regulations of the United States regarding the continued residence of aliens, provided that:
 
-(1) No proceedings shall be instituted under such laws or regulations to require any such person to leave the United States except with the prior approval of theSecretary of State of the United States. Such approval shall be given only after consultation with the appropriate Member in the case of a representative of a Member (or a member of his family) or with the Secretary-General or the principal executive officer of the appropriate specialized agency in the case of any other person referred to in Section 11;
+(1) No proceedings shall be instituted under such laws or regulations to require any such person to leave the United States except with the prior approval of the Secretary of State of the United States. Such approval shall be given only after consultation with the appropriate Member in the case of a representative of a Member (or a member of his family) or with the Secretary-General or the principal executive officer of the appropriate specialized agency in the case of any other person referred to in Section 11;
 
 (2) A representative of the Member concerned, the Secretary-General, or the principal executive officer of the appropriate specialized agency, as the case may be, shall have the right to appear in any such proceedings on behalf of the person against whom they are instituted;
 
@@ -338,19 +338,19 @@ The Secretary-General and the appropriate American authorities shall, at the req
 
 #### “Article V—Resident Representatives to the United Nations
 
-I74section 15
+#### section 15
 
 (1) Every person designated by a Member as the principal resident representative to the United Nations of such Member or as a resident representative with the rank of ambassador or minister plenipotentiary,
 
 (2) such resident members of their staffs as may be agreed upon between the Secretary-General, the Government of the United States and the Government of the Member concerned,
 
-(3) every person designated by a Member of a specialized agency, as defined in Article 57, paragraph 2, of the Charter, as its principal resident representative, with the rank of ambassador or minister plenipotentiary, at the headquarters of such agency in the United States, and
+(3) every person designated by a Member of a specialized agency, as defined in Article 57, paragraph 2, of the Charter, as its principal resident representative, with the rank of ambassador or minister plenipotentiary, atthe headquarters of such agency in the United States, and
 
 (4) such other principal resident representatives of members to a specialized agency and such resident members of the staffs of representatives to a specialized agency as may be agreed upon between the principal executive officer of the specialized agency, the Government of the United States and the Government of the Member concerned, shall, whether residing inside or outside the headquarters district, be entitled in the territory of the United States to the same privileges and immunities, subject to corresponding conditions and obligations, as it accords to diplomatic envoys accredited to it. In the case of Members whose governments are not recognized by the United States, such privileges and immunities need be extended to such representatives, or persons on the staffs of such representatives, only within the headquarters district, at their residences and offices outside the district, in transit between the district and such residences and offices, and in transit on official business to or from foreign countries.
 
 #### “Article VI—Police Protection of the Headquarters District
 
-I74section 16
+#### section 16
 
 (a) The appropriate American authorities shall exercise due diligence to ensure that the tranquility of the headquarters district is not disturbed by the unauthorized entry of groups of persons from outside or by disturbances in its immediate vicinity and shall cause to be provided on the boundaries of the headquarters district such police protection as is required for these purposes.
 
@@ -358,7 +358,7 @@ I74section 16
 
 #### “Article VII—Public Services and Protection of the Headquarters District
 
-I74section 17
+#### section 17
 
 (a) The appropriate American authorities will exercise to the extent requested by the Secretary-General the powers which they possess with respect to the supplying of public services to ensure that the headquarters district shall be supplied on equitable terms with the necessary public services, including electricity, water, gas, post, telephone, telegraph, transportation, drainage, collection of refuse, fire protection, snow removal, et cetera. In case of any interruption or threatened interruption of any such services, the appropriate American authorities will consider the needs of the United Nations as being of equal importance with the similar needs of essential agencies of the Government of the United States, and will take steps accordingly, to ensure that the work of the United Nations is not prejudiced.
 
@@ -374,9 +374,9 @@ It is agreed that no form of racial or religious discrimination shall be permitt
 
 #### “Article VIII—Matters Relating to the Operation of This Agreement
 
-I74section 20
+#### section 20
 
-The Secretary-General and the appropriate American authorities shall settle by agreement the channelsthrough which they will communicate regarding the application of the provisions of this agreement and other questions affecting the headquarters district, and may enter into such supplemental agreements as may be necessary to fulfill the purposes of this agreement. In making supplemental agreements with the Secretary-General, the United States shall consult with the appropriate state and local authorities. If the Secretary-General so requests, the Secretary of State of the United States shall appoint a special representative for the purpose of liaison with the Secretary-General.
+The Secretary-General and the appropriate American authorities shall settle by agreement the channels through which they will communicate regarding the application of the provisions of this agreement and other questions affecting the headquarters district, and may enter into such supplemental agreements as may be necessary to fulfill the purposes of this agreement. In making supplemental agreements with the Secretary-General, the United States shall consult with the appropriate state and local authorities. If the Secretary-General so requests, the Secretary of State of the United States shall appoint a special representative for the purpose of liaison with the Secretary-General.
 
 #### section 21
 
@@ -386,7 +386,7 @@ The Secretary-General and the appropriate American authorities shall settle by a
 
 #### “Article IX—Miscellaneous Provisions
 
-I74section 22
+#### section 22
 
 (a) The United Nations shall not dispose of all or any part of the land owned by it in the headquarters district without the consent of the United States. If the United States is unwilling to consent to a disposition which the United Nations wishes to make of all or any part of such land, the United States shall buy the same from the United Nations at a price to be determined as provided in paragraph (d) of this section.
 
@@ -444,7 +444,7 @@ The area referred to in Section 1(a)(1) consists of (a) the premises bounded on 
 
 #### “Annex 2—Maintenance of Utilities and Underground Construction
 
-I74section 1
+#### section 1
 
 The Secretary-General agrees to provide passes to duly authorized employees of The City of New York, the State of New York, or any of their agencies or subdivisions, for the purpose of enabling them to inspect, repair, maintain, reconstruct and relocate utilities, conduits, mains and sewers within the headquarters district.
 
@@ -520,7 +520,7 @@ Ex. Ord. No. 10108, Feb. 9, 1950, 15 F.R. 757, provided:
 
 By virtue of the authority vested in me by the United Nations Participation Act of 1945 (59 Stat. 619) \[this subchapter\], as amended by the act of October 10, 1949, 63 Stat. 734, and as President of the United States, it is hereby ordered as follows:
 
-1\. The Representative of the United States to the United Nations, the Deputy Representative of the United States to the United Nations, the Deputy Representative of the United States to the Security Council of the United Nations, representatives of the United States in the Economic and Social Council of the United Nations and its Commissions, representatives of the United States in the Trusteeship Council, the Atomic Energy Commission, the Commission for Conventional Armaments, and the Military Staff Committee of the United Nations, and representatives to organs and agencies of the United Nations appointed ordesignated and included within the United States Mission to the United Nations as herein designated, together with their deputies, staffs, and offices—shall constitute and be known as the United States Mission to the United Nations.
+1\. The Representative of the United States to the United Nations, the Deputy Representative of the United States to the United Nations, the Deputy Representative of the United States to the Security Council of the United Nations, representatives of the United States in the Economic and Social Council of the United Nations and its Commissions, representatives of the United States in the Trusteeship Council, the Atomic Energy Commission, the Commission for Conventional Armaments, and the Military Staff Committee of the United Nations, and representatives to organs and agencies of the United Nations appointed or designated and included within the United States Mission to the United Nations as herein designated, together with their deputies, staffs, and offices—shall constitute and be known as the United States Mission to the United Nations.
 
 2\. The Representative of the United States to the United Nations shall be the Chief of Mission in charge of the United States Mission to the United Nations. The Chief of Mission shall coordinate at the seat of the United Nations the activities of the Mission in carrying out the instructions of the President transmitted either by the Secretary of State or by other means of transmission as directed by the President. Instructions to the representatives of the United States Joint Chiefs of Staff in the Military Staff Committee of the United Nations shall be transmitted by the Joint Chiefs of Staff. On request of the Chief of Mission, such representatives shall, in addition to their responsibilities under the Charter of the United Nations, serve as advisers in the United States Mission to the United Nations.
 
@@ -536,7 +536,7 @@ Ex. Ord. No. 10422, Jan. 9, 1953, 18 F.R. 239, as amended by Ex. Ord. No. 10459,
 
 #### part i—investigation of united states citizens employed or being considered for employment on the secretariat of the united nations
 
-1\. Whenever the Secretary of State receives, from the Secretary General of the United Nations, the name of and other necessary identifying data concerning each United States citizen employed or being considered for employment by the United Nations, the Secretary of State shall, consistent with the Privacy Act of 1974 (5 U.S.C. 552a) and other applicable law, cause an investigation to be conducted as provided in paragraph 2 of this Part, or forward the information received from the Secretary General to the Office of Personnel Management, which shall conduct an investigation, consistent with the Privacy Act of 1974 (5 U.S.C. 552a) and other applicable law, as provided in paragraphs 3 and 4 of this Part.
+1\. Whenever the Secretary of State receives, from the Secretary General of the United Nations, the name of and other necessary identifying data concerning each United States citizen employed or being considered for employment by the United Nations, the Secretary of State shall, consistent with the Privacy Act of 1974 (5 U.S.C. 552a) and other applicable law, cause an investigation to be conducted as provided in paragraph 2 of this Part, or forward the information received from theSecretary General to the Office of Personnel Management, which shall conduct an investigation, consistent with the Privacy Act of 1974 (5 U.S.C. 552a) and other applicable law, as provided in paragraphs 3 and 4 of this Part.
 
 2\. With respect to all applicants for short term appointments which will not exceed six months and which are not appointments to United Nations Secretariat professional posts or posts subject to geographical distribution, the Secretary of State shall cause an investigation to be conducted, which investigation shall be limited to a search of the files of the Department of State. If the investigation reveals any derogatory information within the meaning of the standard set forth in Part II of this order, the information received from the Secretary General of the United Nations shall be forwarded to the Office of Personnel Management, which shall conduct an investigation.
 
@@ -554,7 +554,7 @@ Ex. Ord. No. 10422, Jan. 9, 1953, 18 F.R. 239, as amended by Ex. Ord. No. 10459,
 
 #### part ii—standard
 
-1\. The standard to be used by the Board in making an advisory determination as provided for in paragraph 5 of Part I of this order with respect to a United States citizen who is an employee of, or is being considered for employment by, the United Nations, shall be whetheror not on all the evidence there is a reasonable doubt as to the loyalty of the person involved to the Government of the United States.
+1\. The standard to be used by the Board in making an advisory determination as provided for in paragraph 5 of Part I of this order with respect to a United States citizen who is an employee of, or is being considered for employment by, the United Nations, shall be whether or not on all the evidence there is a reasonable doubt as to the loyalty of the person involved to the Government of the United States.
 
 2\. Activities and associations of a United States citizen who is an employee or being considered for employment by the United Nations which may be considered in connection with the determination whether or not on all the evidence there is a reasonable doubt as to the loyalty of the person involved to the Government of the United States may include one or more of the following:
 

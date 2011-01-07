@@ -78,13 +78,13 @@ In subsection (e), the words “Comptroller General” are substituted for “pe
 
 #### Amendments
 
-2004—Subsec. (d)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
+<b>2004</b>—Subsec. (d)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
 
-1988—Subsec. (a). Pub. L. 100–426, §203(1), substituted “retires under section 703(e)(1) of this title” for “is retired for age under section 703(e)(1) of this title after serving at least 10 years”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–426, §203(1), substituted “retires under section 703(e)(1) of this title” for “is retired for age under section 703(e)(1) of this title after serving at least 10 years”.
 
 Subsec. (c). Pub. L. 100–426, §203(2), substituted “subchapter III of chapter 83 or chapter 84 of title 5 remains subject to such subchapter III or such chapter 84 (as the case may be)” for “subchapter III of chapter 83 of title 5 remains subject to subchapter III”.
 
 #### Effective Date of 1988 Amendment
 
-Section 208 of title II of Pub. L. 100–426 provided that: “The amendments made by this title \[amending this section and sections 703, 771, 773, 774, 776, and 777 of this title\] shall be effective after the end of the 60-day period beginning on the date of enactment of this Act \[Sept. 9, 1988\], except that an individual who, as of suchdate of enactment, is receiving an annuity under subchapter V of chapter 7 of title 31, United States Code, as a retired Comptroller General (and the spouse and any dependent children of such individual who may survive such individual) shall remain subject to the provisions of such subchapter, as in effect immediately before such date, if the retired Comptroller General makes an election under this section. An election under this section shall be ineffective unless it is made in writing and received by the General Counsel of the General Accounting Office \[now Government Accountability Office\] before the end of the 60-day period referred to in the preceding sentence.”
+Section 208 of title II of Pub. L. 100–426 provided that: “The amendments made by this title \[amending this section and sections 703, 771, 773, 774, 776, and 777 of this title\] shall be effective after the end of the 60-day period beginning on the date of enactment of this Act \[Sept. 9, 1988\], except that an individual who, as of such date of enactment, is receiving an annuity under subchapter V of chapter 7 of title 31, United States Code, as a retired Comptroller General (and the spouse and any dependent children of such individual who may survive such individual) shall remain subject to the provisions of such subchapter, as in effect immediately before such date, if the retired Comptroller General makes an election under this section. An election under this section shall be ineffective unless it is made in writing and received by the General Counsel of the General Accounting Office \[now Government Accountability Office\] before the end of the 60-day period referred to in the preceding sentence.”
 

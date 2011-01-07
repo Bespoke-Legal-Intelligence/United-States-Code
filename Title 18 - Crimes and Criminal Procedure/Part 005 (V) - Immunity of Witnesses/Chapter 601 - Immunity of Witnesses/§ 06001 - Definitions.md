@@ -14,9 +14,9 @@ As used in this chapter—
 
 #### Amendments
 
-1995—Par. (1). Pub. L. 104–88 substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
+<b>1995</b>—Par. (1). Pub. L. 104–88 substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
 
-1994—Pub. L. 103–322, §330013(3), substituted “chapter” for “part” in introductory provisions.
+<b>1994</b>—Pub. L. 103–322, §330013(3), substituted “chapter” for “part” in introductory provisions.
 
 Par. (1). Pub. L. 103–322, §330013(2), substituted “Nuclear Regulatory Commission” for “Atomic Energy Commission” and struck out “the Subversive Activities Control Board,” after “Securities and Exchange Commission,”.
 
@@ -24,15 +24,15 @@ Pub. L. 103–272 struck out “the Civil Aeronautics Board,” before “the Co
 
 Par. (4). Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals”.
 
-1992—Par. (1). Pub. L. 102–550 inserted “the Board of Governors of the Federal Reserve System,” after “the Atomic Energy Commission,”.
+<b>1992</b>—Par. (1). Pub. L. 102–550 inserted “the Board of Governors of the Federal Reserve System,” after “the Atomic Energy Commission,”.
 
 Par. (4). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Par. (4). Pub. L. 97–164 substituted “the United States Claims Court” for “the United States Court of Claims, the United States Court of Customs and Patent Appeals”.
+<b>1982</b>—Par. (4). Pub. L. 97–164 substituted “the United States Claims Court” for “the United States Court of Claims, the United States Court of Customs and Patent Appeals”.
 
-1980—Par. (4). Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
+<b>1980</b>—Par. (4). Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
-1978—Par. (1). Pub. L. 95–405 inserted “the Commodity Futures Trading Commission,” after “Civil Aeronautics Board,”.
+<b>1978</b>—Par. (1). Pub. L. 95–405 inserted “the Commodity Futures Trading Commission,” after “Civil Aeronautics Board,”.
 
 Par. (4). Pub. L. 95–598 inserted “a United States bankruptcy court established under chapter 6, title 28, United States Code,” after “title 28, United States Code,”.
 

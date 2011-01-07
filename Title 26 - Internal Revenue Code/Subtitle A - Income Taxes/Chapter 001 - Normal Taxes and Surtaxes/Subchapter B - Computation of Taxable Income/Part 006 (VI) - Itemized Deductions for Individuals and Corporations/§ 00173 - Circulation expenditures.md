@@ -12,15 +12,15 @@ Notwithstanding section 263, all expenditures (other than expenditures for the p
 
 #### Amendments
 
-1988—Subsec. (b). Pub. L. 100–647 substituted “section 59(e)” for “section 59(d)”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–647 substituted “section 59(e)” for “section 59(d)”.
 
-1986—Subsec. (b). Pub. L. 99–514 substituted “section 59(d)” for “section 58(i)”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514 substituted “section 59(d)” for “section 58(i)”.
 
-1984—Subsec. (b). Pub. L. 98–369 substituted “3-year” for “10-year”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–369 substituted “3-year” for “10-year”.
 
-1982—Pub. L. 97–248, §201(d)(9)(A), designated existing provisions as subsec. (a), added subsec. (a) heading, and added subsec. (b).
+<b>1982</b>—Pub. L. 97–248, §201(d)(9)(A), designated existing provisions as subsec. (a), added subsec. (a) heading, and added subsec. (b).
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” in two places.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” in two places.
 
 #### Effective Date of 1988 Amendment
 
@@ -40,5 +40,5 @@ Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 3
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For applicability of amendment by Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For applicability of amendment by Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that forsuch purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 

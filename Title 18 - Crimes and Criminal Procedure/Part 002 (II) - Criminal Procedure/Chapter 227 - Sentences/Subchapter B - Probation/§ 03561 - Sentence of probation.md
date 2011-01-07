@@ -32,15 +32,15 @@ For a prior section 3561, applicable to offenses committed prior to Nov. 1, 1987
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–294 struck out “or any relative defendant, child, or former child of the defendant,” before “or any other relative of the defendant”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–294 struck out “or any relative defendant, child, or former child of the defendant,” before “or any other relative of the defendant”.
 
-1994—Subsec. (a)(3). Pub. L. 103–322, §280004, inserted before period at end “that is not a petty offense”.
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–322, §280004, inserted before period at end “that is not a petty offense”.
 
 Subsecs. (b), (c). Pub. L. 103–322, §320921(a), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1987—Subsec. (a)(1). Pub. L. 100–182 inserted “and the defendant is an individual” after “Class B felony”.
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–182 inserted “and the defendant is an individual” after “Class B felony”.
 
-1986—Subsec. (a). Pub. L. 99–646 struck out at end “The liability of a defendant for any unexecuted fine or other punishment imposed as to which probation is granted shall be fully discharged by the fulfillment of the terms and conditions of probation.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–646 struck out at end “The liability of a defendant for any unexecuted fine or other punishment imposed as to which probation is granted shall be fully discharged by the fulfillment of the terms and conditions of probation.”
 
 #### Effective Date of 1996 Amendment
 

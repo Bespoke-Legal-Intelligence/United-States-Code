@@ -22,5 +22,5 @@ Section 2103 provides the Secretary with the authority to superintend the mercha
 
 #### Amendments
 
-1986—Pub. L. 99–307 substituted “subtitle. The Secretary may prescribe regulations to carry out the provisions of this subtitle” for “subtitle and regulations prescribed under this subtitle”.
+<b>1986</b>—Pub. L. 99–307 substituted “subtitle. The Secretary may prescribe regulations to carry out the provisions of this subtitle” for “subtitle and regulations prescribed under this subtitle”.
 

@@ -6,7 +6,7 @@ Contracts for Transportation.—Amtrak may enter into a contract with a State, a
 
 (b)
 
-Discontinuance.—Upon termination of a contract entered into under this section, or thecessation of financial support under such a contract by either party, Amtrak may discontinue such service or route, notwithstanding any other provision of law.
+Discontinuance.—Upon termination of a contract entered into under this section, or the cessation of financial support under such a contract by either party, Amtrak may discontinue such service or route, notwithstanding any other provision of law.
 
 (Added Pub. L. 110–432, div. B, title II, §201(b)(1), Oct. 16, 2008, 122 Stat. 4910.)
 

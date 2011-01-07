@@ -14,7 +14,7 @@ Section was formerly classified to section 624 of former Title 5, Executive Depa
 
 Section 11 of Pub. L. 89–174 provided that:
 
-“(a) The provisions of this Act \[enacting this chapter and amending sections 1 and 2211 of former Title 5, Executive Departments and Government Officers and Employees, section 19(d)(1) of Title 3, the President, section 1723 of Title 12, Banks and Banking and section 1451(c) of this title\] shall take effect upon the expiration of the first period of sixty calendar days following the date on which this Act is approved by the President \[Sept. 9, 1965\], or on such earlier date as the President shall specify by Executive order published in the Federal Register, except that any of the officers provided for in sections 3(a), 4(a), and 4(b) of this Act \[sections 3532(a), 3533(a), and 3533(b) of this title\] may be nominated and appointed, as provided in such sections, at any time after the date this Act is approved by the President \[Sept. 9, 1965\].
+“(a) The provisions of this Act \[see Short Title note below\] shall take effect upon the expiration of the first period of sixty calendar days following the date on which this Act is approved by the President \[Sept. 9, 1965\], or on such earlier date as the President shall specify by Executive order published in the Federal Register, except that any of the officers provided for in sections 3(a), 4(a), and 4(b) of this Act \[sections 3532(a), 3533(a), and 3533(b) of this title\] may be nominated and appointed, as provided in such sections, at any time after the date this Act is approved by the President \[Sept. 9, 1965\].
 
 “(b) In the event that one or more officers required by this Act, to be appointed, by and with the advice and consent of the Senate, shall not have entered upon office on the effective date of this Act, the President may designate any person who was an officer of the Housing and Home Finance Agency immediately prior to said effective date to act in such office until the office is filled as provided in this Act or until the expiration of the first period of sixty days following said effective date, whichever shall first occur. While so acting such persons shall receive compensation at the rates provided by this Act for the respective offices in which they act.”
 
@@ -24,7 +24,7 @@ Pub. L. 101–235, §1(a), Dec. 15, 1989, 103 Stat. 1987, provided that: “This
 
 #### Short Title
 
-Section 1 of Pub. L. 89–174 provided: “That this Act \[enacting this chapter, amending section 1451 of this title, sections 1 and 2211 of former Title 5, Executive Departments and Government Officers and Employees (see sections 101 and 5312 of Title 5, Government Organization and Employees), section 19 of Title 3, The President, and section 1723 of Title 12, Banks and Banking\] may be cited as the ‘Department of Housing and Urban Development Act’.”
+Section 1 of Pub. L. 89–174 provided: “That this Act \[enacting this chapter, amending section 1451 of this title, sections 1 and 2211 of former Title 5, Executive Departments and Government Officers and Employees (see sections 101 and 5312 of Title 5, Government Organization and Employees), section 19 of Title 3, The President, and section 1723 of Title 12, Banks and Banking, and enacting provisions set out as notes under this section\] may be cited as the ‘Department of Housing and Urban Development Act’.”
 
 #### Savings Provision: Abatement of Actions; Continuation of Rules, Regulations, Etc.; References in Other Laws to Housing and Home Finance Agency; Lapse of Agencies
 
@@ -52,7 +52,7 @@ This expansion also creates a need for a growing supply of new management manpow
 
 Sec. 2. <i>Establishment of a National Center for Housing Management</i>. (a) The Secretary of Housing and Urban Development is directed to call upon public-spirited citizens, dedicated and experienced in the appropriate disciplines, to create, in accordance with existing laws, a new, non-governmental, not-for-profit institution to serve as a National Center for Housing Management (referred to herein as the Center).
 
-(b) The Center should be designed to provide objective and independent leadership at the national level in helping meet the Nation's housing management and training needs and should work cooperatively with theDepartment of Housing and Urban Development and with the public and private organizations and institutions involved in, or affected by, its activities.
+(b) The Center should be designed to provide objective and independent leadership at the national level in helping meet the Nation's housing management and training needs and should work cooperatively with the Department of Housing and Urban Development and with the public and private organizations and institutions involved in, or affected by, its activities.
 
 Sec. 3. <i>Activities of the Center</i>. The activities of the Center should be developed along lines that include the following objectives:
 

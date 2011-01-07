@@ -12,7 +12,7 @@ The new section 1168 of title 10 is transferred from section 1218(a) and (c) of 
 
 #### Amendments
 
-1989—Subsec. (b). Pub. L. 101–189 substituted “facility of the Department of Veterans Affairs” for “Veterans’ Administration facility”.
+<b>1989</b>—Subsec. (b). Pub. L. 101–189 substituted “facility of the Department of Veterans Affairs” for “Veterans’ Administration facility”.
 
 #### Modification of Certificate of Release or Discharge From Active Duty (DD Form 214)
 

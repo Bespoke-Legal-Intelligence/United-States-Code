@@ -22,5 +22,5 @@ Clause (2)(A) is omitted as unnecessary since the revised section applies to the
 
 #### Amendments
 
-1966—Pub. L. 89–718 substituted “8301” for “47a”.
+<b>1966</b>—Pub. L. 89–718 substituted “8301” for “47a”.
 

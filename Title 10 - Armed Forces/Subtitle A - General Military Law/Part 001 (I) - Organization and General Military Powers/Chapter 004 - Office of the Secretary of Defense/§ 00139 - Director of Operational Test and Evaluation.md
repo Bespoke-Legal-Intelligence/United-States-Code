@@ -50,7 +50,7 @@
 
 (3) If the Director submits the report to Congress in a classified form, the Director shall concurrently submit an unclassified version of the report to Congress.
 
-(4) The report shall include such comments and recommendations as the Director considers appropriate, including comments and recommendations on resources and facilities available for operational test and evaluation and levels of funding made available for operational test and evaluation activities. The report for a fiscal year shall also include an assessment of the waivers of and deviations from requirements in test and evaluation master plans and other testing requirements that occurred during the fiscal year, any concerns raised by the waivers or deviations, and the actions that have been taken or are planned to be taken to address the concerns.
+(4) The report shall include such comments and recommendations as the Director considers appropriate, including comments and recommendations on resources and facilities available for operational test and evaluation and levels of funding made available for operational test and evaluation activities. The report for a fiscal year shall also include an assessment of the waivers of and deviations from requirements in test and evaluation master plans and other testing requirements that occurred during the fiscalyear, any concerns raised by the waivers or deviations, and the actions that have been taken or are planned to be taken to address the concerns.
 
 (5) The Secretary may comment on any report of the Director to Congress under this subsection.
 
@@ -74,17 +74,17 @@ Another prior section 139 was renumbered section 2431 of this title.
 
 #### Amendments
 
-2008—Subsec. (b)(3) to (7). Pub. L. 110–417 redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which required the Director to provide guidance to and consult with the officials described in par. (2) of subsec. (b) with respect to operational test and evaluation or survivability testing (or both) within the Department of Defense of force protection equipment.
+<b>2008</b>—Subsec. (b)(3) to (7). Pub. L. 110–417 redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which required the Director to provide guidance to and consult with the officials described in par. (2) of subsec. (b) with respect to operational test and evaluation or survivability testing (or both) within the Department of Defense of force protection equipment.
 
 Subsecs. (f) to (k). Pub. L. 110–181 added subsec. (f) and redesignated former subsecs. (f) to (j) as (g) to (k), respectively.
 
-2006—Subsec. (b)(3) to (7). Pub. L. 109–364 added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively.
+<b>2006</b>—Subsec. (b)(3) to (7). Pub. L. 109–364 added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively.
 
-2002—Subsec. (g). Pub. L. 107–314, §235(b), designated first sentence as par. (1), second sentence as par. (2), third sentence as par. (3), fourth and fifth sentences as par. (4), and sixth sentence as par. (5).
+<b>2002</b>—Subsec. (g). Pub. L. 107–314, §235(b), designated first sentence as par. (1), second sentence as par. (2), third sentence as par. (3), fourth and fifth sentences as par. (4), and sixth sentence as par. (5).
 
 Pub. L. 107–314, §235(a), inserted after fourth sentence “The report for a fiscal year shall also include an assessment of the waivers of and deviations from requirements in test and evaluation master plans and other testing requirements that occurred during the fiscal year, any concerns raised by the waivers or deviations, and the actions that have been taken or are planned to be taken to address the concerns.”
 
-2001—Subsec. (c). Pub. L. 107–107, §1048(b)(2), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+<b>2001</b>—Subsec. (c). Pub. L. 107–107, §1048(b)(2), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
 Subsec. (f). Pub. L. 107–107, §263(2), added subsec. (f). Former subsec. (f) redesignated (g).
 
@@ -94,15 +94,15 @@ Pub. L. 107–107, §263(1), redesignated subsec. (f) as (g). Former subsec. (g)
 
 Subsecs. (h) to (j). Pub. L. 107–107, §263(1), redesignated subsecs. (g) to (i) as (h) to (j), respectively.
 
-1999—Subsec. (b). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology” in introductory provisions and in par. (2).
+<b>1999</b>—Subsec. (b). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology” in introductory provisions and in par. (2).
 
-1994—Subsec. (b)(6). Pub. L. 103–355, §3012(a), added par. (6).
+<b>1994</b>—Subsec. (b)(6). Pub. L. 103–355, §3012(a), added par. (6).
 
 Subsec. (c). Pub. L. 103–355, §3011, inserted “The Director may communicate views on matters within the responsibility of the Director directly to the Secretary of Defense and the Deputy Secretary of Defense without obtaining the approval or concurrence of any other official within the Department of Defense.” after “(c)”.
 
 Subsec. (f). Pub. L. 103–355, §§3012(b), 3013, in first sentence inserted “(including live fire testing activities)” after “operational test and evaluation activities” and after second sentence inserted “If the Director submits the report to Congress in a classified form, the Director shall concurrently submit an unclassified version of the report to Congress.”
 
-1993—Pub. L. 103–160, §901(a)(1), renumbered section 138 of this title as this section.
+<b>1993</b>—Pub. L. 103–160, §901(a)(1), renumbered section 138 of this title as this section.
 
 Subsec. (b). Pub. L. 103–160, §904(d)(1), substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition” in introductory provisions and in par. (2).
 
@@ -110,17 +110,17 @@ Subsec. (c). Pub. L. 103–160, §907, struck out “The Director reports direct
 
 Subsec. (f). Pub. L. 103–160, §904(d)(1), substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
 
-1990—Subsec. (a)(2)(A). Pub. L. 101–510, §1484(k)(1)(A), substituted “(A) The term ‘operational test and evaluation” for “(A) ‘Operational test and evaluation”.
+<b>1990</b>—Subsec. (a)(2)(A). Pub. L. 101–510, §1484(k)(1)(A), substituted “(A) The term ‘operational test and evaluation” for “(A) ‘Operational test and evaluation”.
 
 Subsec. (a)(2)(B). Pub. L. 101–510, §1484(k)(1)(B), substituted “(B) The term ‘major defense acquisition program” for “(B) ‘Major defense acquisition program”.
 
-1989—Subsec. (a)(2)(A). Pub. L. 101–189, §1622(e)(1)(A), which directed amendment of subpar. (A) by substituting “(A) The term ‘operational’ ” for “(A) ‘Operational’ ”, could not be executed because a closing quotation mark did not follow “Operational”.
+<b>1989</b>—Subsec. (a)(2)(A). Pub. L. 101–189, §1622(e)(1)(A), which directed amendment of subpar. (A) by substituting “(A) The term ‘operational’ ” for “(A) ‘Operational’ ”, could not be executed because a closing quotation mark did not follow “Operational”.
 
 Subsec. (a)(2)(B). Pub. L. 101–189, §1622(e)(1)(B), which directed amendment of subpar. (B) by substituting “(B) The term ‘major’ ” for “(B) ‘Major’ ”, could not be executed because a closing quotation mark did not follow “Major”.
 
 Subsec. (b)(4). Pub. L. 101–189, §802(b)(1)(A), inserted “and” after “defense agency;”.
 
-Subsec. (b)(5), (6). Pub. L. 101–189, §802(b)(1)(B), (C), redesignated par. (6) as (5) and struck out former par.\(5) which read as follows: “analyze the results of the operational test and evaluation conducted for each major defense acquisition program and, at the conclusion of such operational test and evaluation, report to the Secretary of Defense, to the Under Secretary of Defense for Acquisition, and to the Committees on Armed Services and on Appropriations of the Senate and House of Representatives as provided in subsection (c) on—
+Subsec. (b)(5), (6). Pub. L. 101–189, §802(b)(1)(B), (C), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “analyze the results of the operational test and evaluation conducted for each major defense acquisition program and, at the conclusion of such operational test and evaluation, report to the Secretary of Defense, to the Under Secretary of Defense for Acquisition, and to the Committees on Armed Services and on Appropriations of the Senate and House of Representatives as provided in subsection (c) on—
 
 &emsp;“(A) whether the test and evaluation performed was adequate; and
 
@@ -138,13 +138,13 @@ Subsec. (f). Pub. L. 101–189, §802(b)(5)–(7), redesignated subsec. (g)(1) a
 
 Subsec. (g). Pub. L. 101–189, §802(b)(6), (8), redesignated former par. (2) of subsec. (g) as entire subsec. (g), and redesignated former par. (1) of subsec. (g) as subsec. (f).
 
-1987—Subsec. (a)(2)(B). Pub. L. 100–26, §7(c)(2), substituted “section 2430” for “section 2432(a)(1)”.
+<b>1987</b>—Subsec. (a)(2)(B). Pub. L. 100–26, §7(c)(2), substituted “section 2430” for “section 2432(a)(1)”.
 
 Subsec. (c). Pub. L. 100–26, §7(a)(1), substituted “to the Secretary of Defense and the Under Secretary of Defense for Acquisition and shall be accompanied by such comments as the Secretary may wish to make on the report.” for “to the Secretary, to the Under Secretary of Defense for Acquisition, and shall be accompanied by such comments as the Secretary of Defense may wish to make on such report.”
 
 Subsec. (d). Pub. L. 100–180 designated existing provisions as par. (1) and added par. (2).
 
-1986—Pub. L. 99–433, §§101(a)(7), 110(d)(10), renumbered section 136a of this title as this section, and struck out “: appointment; powers and duties” at end of section catchline.
+<b>1986</b>—Pub. L. 99–433, §§101(a)(7), 110(d)(10), renumbered section 136a of this title as this section, and struck out “: appointment; powers and duties” at end of section catchline.
 
 Subsec. (a)(2)(B). Pub. L. 99–433, §110(g)(1), substituted “section 2432(a)(1)” for “section 139a(a)(1)”.
 
@@ -192,11 +192,11 @@ Issues To Be Addressed.—In carrying out subsection (b), the Under Secretary sh
 
 &emsp;&emsp;“(A) items that are acquired pursuant to the authority for rapid acquisition and deployment of items in section 806 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 \[Pub. L. 107–314\] (10 U.S.C. 2302 note);
 
-&emsp;&emsp;“(B) programs that are conducted pursuant to the authority for spiral development in section 803 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314; 116 Stat. 2603; 10 U.S.C. 2430 note), or other authority for the conduct of incremental acquisition programs;
+&emsp;&emsp;“(B) programs that are conducted pursuant to the authority for spiral development in section 803 ofthe Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314; 116 Stat. 2603; 10 U.S.C. 2430 note), or other authority for the conduct of incremental acquisition programs;
 
 &emsp;&emsp;“(C) systems that are acquired pursuant to other emerging acquisition approaches, as approved by the Under Secretary; and
 
-&emsp;&emsp;“(D) equipment that is not subject to the operational test and evaluation requirements in sections 2366 and 2399 of title 10, United States Code, but that may require limited operational test and evaluation for the purpose of ensuring the safetyand survivability of such equipment and personnel using such equipment; and
+&emsp;&emsp;“(D) equipment that is not subject to the operational test and evaluation requirements in sections 2366 and 2399 of title 10, United States Code, but that may require limited operational test and evaluation for the purpose of ensuring the safety and survivability of such equipment and personnel using such equipment; and
 
 &emsp;“(2) ensure the appropriate use, if any, of operational test and evaluation resources to assess technology readiness levels for the purpose of section 2366a of title 10, United States Code, and other applicable technology readiness requirements.
 

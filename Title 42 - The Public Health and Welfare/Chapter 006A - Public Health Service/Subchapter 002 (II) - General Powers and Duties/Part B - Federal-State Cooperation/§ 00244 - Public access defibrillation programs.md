@@ -18,7 +18,7 @@ The Secretary shall award grants to States, political subdivisions of States, In
 
 #### (b) Preference
 
-In awarding grants under subsection (a) of this section, the Secretary shall give a preference toa State, political subdivision of a State, Indian tribe, or tribal organization that—
+In awarding grants under subsection (a) of this section, the Secretary shall give a preference to a State, political subdivision of a State, Indian tribe, or tribal organization that—
 
 &emsp;(1) has a particularly low local survival rate for cardiac arrests, or a particularly low local response rate for cardiac arrest victims; or
 
@@ -38,7 +38,7 @@ A State, political subdivision of a State, Indian tribe, or tribal organization 
 
 &emsp;(5) produce materials to encourage private companies, including small businesses, to purchase automated external defibrillators;
 
-&emsp;(6) establish an information clearinghouse that provides information to increase public access to defibrillation in schools; and
+&emsp;(6) establish an information clearinghouse, that shall be administered by an organization that has substantial expertise in pediatric education, pediatric medicine, and electrophysiology and sudden death, that provides information to increase public access to defibrillation in schools; and
 
 &emsp;(7) further develop strategies to improve access to automated external defibrillators in public places.
 
@@ -66,9 +66,9 @@ A State, political subdivision of a State, Indian tribe, or tribal organization 
 
 #### (e) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated $25,000,000 for fiscal year 2003, and such sums as may be necessary for each of the fiscal years 2004 through 2006. Not more than 10 percent of amounts received under a grant awarded under this section may be used for administrative expenses.
+For the purpose of carrying out this section, there are authorized to be appropriated $25,000,000 for for <sup>1</sup> each of fiscal years 2003 through 2014. Not more than 10 percent of amounts received under a grant awarded under this section may be used for administrative expenses.
 
-(July 1, 1944, ch. 373, title III, §312, as added Pub. L. 107–188, title I, §159(c), June 12, 2002, 116 Stat. 634; amended Pub. L. 108–41, §2, July 1, 2003, 117 Stat. 839.)
+(July 1, 1944, ch. 373, title III, §312, as added Pub. L. 107–188, title I, §159(c), June 12, 2002, 116 Stat. 634; amended Pub. L. 108–41, §2, July 1, 2003, 117 Stat. 839; Pub. L. 111–148, title X, §10412, Mar. 23, 2010, 124 Stat. 990.)
 
 #### Prior Provisions
 
@@ -78,7 +78,11 @@ A prior section 312 of act July 1, 1944, was classified to section 244–1 of th
 
 #### Amendments
 
-2003—Subsec. (c)(6), (7). Pub. L. 108–41 added par. (6) and redesignated former par. (6) as (7).
+<b>2010</b>—Subsec. (c)(6). Pub. L. 111–148, §10412(1), inserted “, that shall be administered by an organization that has substantial expertise in pediatric education, pediatric medicine, and electrophysiology and sudden death,” after “clearinghouse”.
+
+Subsec. (e). Pub. L. 111–148, §10412(2), substituted “for each of fiscal years 2003 through 2014” for “fiscal year 2003, and such sums as may be necessary for each of the fiscal years 2004 through 2006”.
+
+<b>2003</b>—Subsec. (c)(6), (7). Pub. L. 108–41 added par. (6) and redesignated former par. (6) as (7).
 
 #### Findings
 
@@ -97,4 +101,6 @@ Pub. L. 107–188, title I, §159(b), June 12, 2002, 116 Stat. 634, provided tha
 &emsp;“(6) According to the American Heart Association, wide use of defibrillators could save as many as 50,000 lives nationally each year.
 
 &emsp;“(7) Successful public access defibrillation programs ensure that cardiac arrest victims have access to early 911 notification, early cardiopulmonary resuscitation, early defibrillation, and early advanced care.”
+
+<i><sup>1</sup></i><i> So in original.</i>
 

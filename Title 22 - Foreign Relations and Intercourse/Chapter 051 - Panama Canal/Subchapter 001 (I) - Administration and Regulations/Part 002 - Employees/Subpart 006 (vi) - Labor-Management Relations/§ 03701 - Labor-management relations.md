@@ -42,9 +42,9 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 #### Amendments
 
-1997—Subsec. (c). Pub. L. 105–85 added subsec. (c).
+<b>1997</b>—Subsec. (c). Pub. L. 105–85 added subsec. (c).
 
-1993—Subsec. (a)(3). Pub. L. 103–160 added par. (3).
+<b>1993</b>—Subsec. (a)(3). Pub. L. 103–160 added par. (3).
 
 #### Effective Date of 1993 Amendment
 

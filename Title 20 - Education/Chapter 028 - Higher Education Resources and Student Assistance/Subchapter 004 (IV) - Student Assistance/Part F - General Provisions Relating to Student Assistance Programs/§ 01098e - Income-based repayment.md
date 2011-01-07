@@ -26,9 +26,9 @@ In this section:
 
 #### (b) Income-based repayment program authorized
 
-Notwithstanding any other provision of this chapter, the Secretary shall carry out a program under which—
+Notwithstanding any other provision of this chapter and part C of subchapter I of chapter 34 of title 42, the Secretary shall carry out a program under which—
 
-&emsp;(1) a borrower of any loan made, insured, or guaranteed under part B or C (other than an excepted PLUS loan or excepted consolidation loan) who has a partial financial hardship (whether or not the borrower's loan has been submitted to a guaranty agency for default aversion or had been in default) may elect, during any period the borrower has the partial financial hardship, to have the borrower's aggregate monthly payment for all such loans not exceed the result described in subsection (a)(3)(B) divided by 12;
+&emsp;(1) a borrower of any loan made, insured, or guaranteed under part B or C (other than an excepted PLUS loan or excepted consolidationloan) who has a partial financial hardship (whether or not the borrower's loan has been submitted to a guaranty agency for default aversion or had been in default) may elect, during any period the borrower has the partial financial hardship, to have the borrower's aggregate monthly payment for all such loans not exceed the result described in subsection (a)(3)(B) divided by 12;
 
 &emsp;(2) the holder of such a loan shall apply the borrower's monthly payment under this subsection first toward interest due on the loan, next toward any fees due on the loan, and then toward the principal of the loan;
 
@@ -88,17 +88,23 @@ The Secretary shall establish procedures for annually determining the borrower's
 
 In the case of a married borrower who files a separate Federal income tax return, the Secretary shall calculate the amount of the borrower's income-based repayment under this section solely on the basis of the borrower's student loan debt and adjusted gross income.
 
-(Pub. L. 89–329, title IV, §493C, as added Pub. L. 110–84, title II, §203(a), Sept. 27, 2007, 121 Stat. 792; amended Pub. L. 110–153, §2, Dec. 21, 2007, 121 Stat. 1824; Pub. L. 110–315, title IV, §494F, Aug. 14, 2008, 122 Stat. 3324.)
+#### (e) Special terms for new borrowers on and after July 1, 2014
 
-#### References in Text
+With respect to any loan made to a new borrower on or after July 1, 2014—
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+&emsp;(1) subsection (a)(3)(B) shall be applied by substituting “10 percent” for “15 percent”; and
+
+&emsp;(2) subsection (b)(7)(B) shall be applied by substituting “20 years” for “25 years”.
+
+(Pub. L. 89–329, title IV, §493C, as added Pub. L. 110–84, title II, §203(a), Sept. 27, 2007, 121 Stat. 792; amended Pub. L. 110–153, §2, Dec. 21, 2007, 121 Stat. 1824; Pub. L. 110–315, title IV, §494F, Aug. 14, 2008, 122 Stat. 3324; Pub. L. 111–152, title II, §2213, Mar. 30, 2010, 124 Stat. 1081.)
 
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–315 substituted “or had been in default” for “or is already in default”.
+<b>2010</b>—Subsec. (e). Pub. L. 111–152 added subsec. (e).
 
-2007—Subsec. (d). Pub. L. 110–153 added subsec. (d).
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–315 substituted “or had been in default” for “or is already in default”.
+
+<b>2007</b>—Subsec. (d). Pub. L. 110–153 added subsec. (d).
 
 #### Effective Date
 

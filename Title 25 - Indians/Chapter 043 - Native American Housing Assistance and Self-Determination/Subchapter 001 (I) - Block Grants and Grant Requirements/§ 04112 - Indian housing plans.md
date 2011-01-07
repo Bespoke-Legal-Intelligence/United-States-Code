@@ -70,7 +70,7 @@ The Secretary shall provide—
 
 &emsp;&emsp;&emsp;(iii) a certification that policies are in effect and are available for review by the Secretary and the public governing the eligibility, admission, and occupancy of families for housing assisted with grant amounts provided under this chapter;
 
-&emsp;&emsp;&emsp;(iv) a certification that policies are in effect and are available for review by the Secretary and the public governing rents and homebuyer payments charged, including the methods by which the rents or homebuyer payments are determined, for housing assisted with grant amounts provided under this chapter;
+&emsp;&emsp;&emsp;(iv) a certification that policies are in effect and are available for review by theSecretary and the public governing rents and homebuyer payments charged, including the methods by which the rents or homebuyer payments are determined, for housing assisted with grant amounts provided under this chapter;
 
 &emsp;&emsp;&emsp;(v) a certification that policies are in effect and are available for review by the Secretary and the public governing the management and maintenance of housing assisted with grant amounts provided under this chapter; and
 
@@ -100,11 +100,11 @@ This chapter, referred to in subsec. (b)(2), was in the original “this Act”,
 
 The United States Housing Act of 1937, referred to in subsec. (b)(2)(A)(v), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
-The Civil Rights Act of 1968, referred to in subsec. (b)(2)(D)(i), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73.Title II of the Act, popularly known as the Indian Civil Rights Act of 1968, is classified generally to subchapter I (§1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42, The Public Health and Welfare, and Tables.
+The Civil Rights Act of 1968, referred to in subsec. (b)(2)(D)(i), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73. Title II of the Act, popularly known as the Indian Civil Rights Act of 1968, is classified generally to subchapter I (§1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42, The Public Health and Welfare, and Tables.
 
 #### Amendments
 
-2008—Subsec. (a)(1)(A). Pub. L. 110–411, §102(1)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “for an Indian tribe to submit to the Secretary, for each fiscal year, a housing plan under this section for the tribe; or”.
+<b>2008</b>—Subsec. (a)(1)(A). Pub. L. 110–411, §102(1)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “for an Indian tribe to submit to the Secretary, for each fiscal year, a housing plan under this section for the tribe; or”.
 
 Subsec. (a)(1)(B). Pub. L. 110–411, §102(1)(B), substituted “subsection (c)” for “subsection (d)”.
 
@@ -114,7 +114,7 @@ Subsec. (d). Pub. L. 110–411, §102(3), (4), redesignated subsec. (e) as (d) a
 
 Subsecs. (e), (f). Pub. L. 110–411, §102(3), redesignated subsecs. (e) and (f) as (d) and (e), respectively.
 
-2000—Subsec. (c)(6). Pub. L. 106–568, §1003(b), and Pub. L. 106–569, §503(b), amended subsec. (c) identically, adding par. (6).
+<b>2000</b>—Subsec. (c)(6). Pub. L. 106–568, §1003(b), and Pub. L. 106–569, §503(b), amended subsec. (c) identically, adding par. (6).
 
 Subsecs. (f), (g). Pub. L. 106–568, §1003(c), and Pub. L. 106–569, §503(c), amended section identically, redesignating subsec. (g) as (f) and striking out heading and text of former subsec. (f). Text read as follows:
 
@@ -130,7 +130,7 @@ Separate requirements.—The Secretary may—
 
 Small tribes.—The Secretary may define small Indian tribes and small tribally designated housing entities based on the number of dwelling units assisted under this subchapter by the tribe or housing entity or owned or operated pursuant to a contract under the United States Housing Act of 1937 between the Secretary and the Indian housing authority for the tribe.”
 
-1998—Subsec. (a). Pub. L. 105–276 redesignated par. (1) as (1)(A), par. (2) as (1)(B), and par. (3) as (2), and inserted “or” at end of par. (1)(A).
+<b>1998</b>—Subsec. (a). Pub. L. 105–276 redesignated par. (1) as (1)(A), par. (2) as (1)(B), and par. (3) as (2), and inserted “or” at end of par. (1)(A).
 
 #### Effective Date
 

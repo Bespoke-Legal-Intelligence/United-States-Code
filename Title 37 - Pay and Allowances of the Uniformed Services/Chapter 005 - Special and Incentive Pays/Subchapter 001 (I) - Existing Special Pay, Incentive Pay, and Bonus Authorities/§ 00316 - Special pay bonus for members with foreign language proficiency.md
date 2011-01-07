@@ -14,7 +14,7 @@ Availability of Bonus.—Subject to subsection (c), the Secretary concerned may 
 
 (b)
 
-Bonus Amount; Time for Payment.—A bonus under subsection (a) may not exceed $12,000 per one-year certification period under subsection (c). The Secretary concerned maypay the bonus in a single lump sum at the beginning of the certification period or in installments during the certification period. The bonus is in addition to any other pay or allowance payable to a member under any other provision of law.
+Bonus Amount; Time for Payment.—A bonus under subsection (a) may not exceed $12,000 per one-year certification period under subsection (c). The Secretary concerned may pay the bonus in a single lump sum at the beginning of the certification period or in installments during the certification period. The bonus is in addition to any other pay or allowance payable to a member under any other provision of law.
 
 (c)
 
@@ -48,7 +48,7 @@ Regulations.—This section shall be administered under regulations prescribed b
 
 #### Amendments
 
-2006—Pub. L. 109–163, §639(e)(1), substituted “Special pay: bonus for members with foreign language proficiency” for “Special pay and bonus for members with foreign language proficiency” in section catchline.
+<b>2006</b>—Pub. L. 109–163, §639(e)(1), substituted “Special pay: bonus for members with foreign language proficiency” for “Special pay and bonus for members with foreign language proficiency” in section catchline.
 
 Subsec. (a). Pub. L. 109–163, §639(a), substituted “Bonus” for “Special Pay” in heading and, in introductory provisions, substituted “a bonus” for “monthly special pay” and struck out “is entitled to basic pay under section 204 of this title and who” after “uniformed services who”.
 
@@ -96,13 +96,13 @@ Subsec. (g). Pub. L. 109–163, §639(b)(1), struck out heading and text of subs
 
 Subsec. (h). Pub. L. 109–163, §639(b)(2), redesignated subsec. (h) as (f).
 
-2004—Pub. L. 108–375 amended section catchline and text generally, substituting provisions relating to special pay and bonus for members with foreign language proficiency for former provisions which related to: in subsec. (a) requirements for payment of special pay to member of uniformed services who is entitled to basic pay under section 204 of this title for foreign language proficiency; in subsec. (b) determination of monthly rate for special pay; in subsec. (c) increased compensation for member of reserve component who is entitled to compensation under section 206 of this title and who generally meets requirements in subsec. (a); and in subsec. (d) administration of section.
+<b>2004</b>—Pub. L. 108–375 amended section catchline and text generally, substituting provisions relating to special pay and bonus for members with foreign language proficiency for former provisions which related to: in subsec. (a) requirements for payment of special pay to member of uniformed services who is entitled to basic pay under section 204 of this title for foreign language proficiency; in subsec. (b) determination of monthly rate for special pay; in subsec. (c) increased compensation for member of reserve component who is entitled to compensation under section 206 of this title and who generally meets requirements in subsec. (a); and in subsec. (d) administration of section.
 
-2002—Subsec. (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1999—Subsec. (b). Pub. L. 106–65 substituted “$300” for “$100”.
+<b>1999</b>—Subsec. (b). Pub. L. 106–65 substituted “$300” for “$100”.
 
-1996—Subsec. (a). Pub. L. 104–201, §616(a)(1), substituted “uniformed services” for “armed forces” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201, §616(a)(1), substituted “uniformed services” for “armed forces” in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 104–201, §616(a)(2), substituted “Secretary concerned as being” for “Secretary of Defense as being” and inserted “or public health” after “national defense”.
 

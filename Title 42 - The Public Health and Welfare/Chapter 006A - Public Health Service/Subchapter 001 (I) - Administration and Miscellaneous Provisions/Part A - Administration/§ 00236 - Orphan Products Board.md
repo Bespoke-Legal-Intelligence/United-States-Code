@@ -44,7 +44,7 @@ The Board shall submit to the Committee on Labor and Human Resources of the Sena
 
 &emsp;(3) containing the results of the evaluations carried out by the Board.
 
-> The Director of the National Institutes of Health shall submit to the Board for inclusion in the annual report a report on the rare disease and condition research activities of the Institutes of the National Institutes of Health; the Secretary of the Treasury shall submit to the Board for inclusion in the annual report a report on the use of the credit against tax provided by section 44H <sup>2</sup> of title 26; and the Secretary ofHealth and Human Services shall submit to the Board for inclusion in the annual report a report on the program of assistance under section 360ee of title 21 for the development of drugs for rare diseases and conditions. Each annual report shall be submitted by June 1 of each year for the preceding calendar year.
+> The Director of the National Institutes of Health shall submit to the Board for inclusion in the annual report a report on the rare disease and condition research activities of the Institutes of the National Institutes of Health; the Secretary of the Treasury shall submit to the Board for inclusion in the annual report a report on the use of the credit against tax provided by section 44H <sup>2</sup> of title 26; and the Secretary of Health and Human Services shall submit to the Board for inclusion in the annual report a report on the program of assistance under section 360ee of title 21 for the development of drugs for rare diseases and conditions. Each annual report shall be submitted by June 1 of each year for the preceding calendar year.
 
 (July 1, 1944, ch. 373, title II, §227, as added Pub. L. 97–414, §3, Jan. 4, 1983, 96 Stat. 2051; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–321, title I, §163(b)(1), July 10, 1992, 106 Stat. 375; Pub. L. 102–531, title III, §312(d)(1), Oct. 27, 1992, 106 Stat. 3504.)
 
@@ -52,7 +52,7 @@ The Board shall submit to the Committee on Labor and Human Resources of the Sena
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(1)(A), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended. Subchapter B of the Federal Food, Drug, and Cosmetic Act probably means subchapter B of chapter V of the Federal Food, Drug, and Cosmetic Act which is classified generally to part B (section 360aa et seq.) of subchapter V of chapter 9 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-Section 44H of title 26, referred to in subsec. (e), was renumbered section 28 of title 26, by Pub. L. 98–369, div. A, title IV, §471(c)(1), July 18, 1984, 98 Stat. 826, and subsequently renumbered section 45C of title 26 by Pub. L. 104–188, title I, §1205(a)(1), Aug. 20, 1996, 110 Stat. 1775.
+Section 44H of title 26, referred to in subsec. (e), was renumbered section 28 of title 26, by Pub. L. 98–369, div.A, title IV, §471(c)(1), July 18, 1984, 98 Stat. 826, and subsequently renumbered section 45C of title 26 by Pub. L. 104–188, title I, §1205(a)(1), Aug. 20, 1996, 110 Stat. 1775.
 
 #### Prior Provisions
 
@@ -60,7 +60,7 @@ A prior section 236, act July 1, 1944, ch. 373, title II, §227, formerly title 
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
 Subsec. (c)(2). Pub. L. 102–321, §163(b)(1)(A), which directed the striking out of “, and the Alcohol, Drug Abuse, and Mental Health Administration”, was executed by striking “and the Alcohol, Drug Abuse, and Mental Health Administration” after “National Institutes of Health” to reflect the probable intent of Congress.
 
@@ -70,7 +70,7 @@ Pub. L. 102–321, §163(b)(1)(B), struck out “, the Alcohol, Drug Abuse, and
 
 Subsec. (e). Pub. L. 102–321, §163(b)(1)(C), (D), in concluding provisions, struck out “and the Administrator of the Alcohol, Drug Abuse, and Mental Health Administration” after “National Institutes of Health” the first place appearing and “and the Alcohol, Drug Abuse, and Mental Health Administration” after “National Institutes of Health” the second place appearing.
 
-1986—Subsec. (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 #### Change of Name
 
@@ -80,7 +80,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### Effective Date of 1992 Amendment
 
-Section 801 of Pub. L. 102–321 provided that:
+Pub. L. 102–321, title VIII, §801, July 10, 1992, 106 Stat. 441, provided that:
 
 “(a)
 
@@ -120,7 +120,7 @@ Section 312(i) of Pub. L. 102–531 provided that: “The amendments made by thi
 
 #### National Commission on Orphan Diseases
 
-Pub. L. 99–91, §4, Aug. 15, 1985, 99 Stat. 388, as amended by Pub. L. 100–290, §4, Apr. 18, 1988, 102 Stat. 92; Pub.L. 102–321, title I, §163(c)(1), July 10, 1992, 106 Stat. 376, provided that:
+Pub. L. 99–91, §4, Aug. 15, 1985, 99 Stat. 388, as amended by Pub. L. 100–290, §4, Apr. 18, 1988, 102 Stat. 92; Pub. L. 102–321, title I, §163(c)(1), July 10, 1992, 106 Stat. 376, provided that:
 
 “(a)
 

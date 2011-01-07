@@ -66,7 +66,7 @@ For purposes of subsection (a)(1), a person furnishing typing, reproducing, or o
 
 #### Amendments
 
-1989—Subsec. (a)(1). Pub. L. 101–239, §7735(a)(1), struck out “in connection with any matter arising under the internal revenue laws” after “other document”.
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–239, §7735(a)(1), struck out “in connection with any matter arising under the internal revenue laws” after “other document”.
 
 Subsec. (a)(2). Pub. L. 101–239, §7735(a)(2), inserted “(or has reason to believe)” after “who knows”.
 

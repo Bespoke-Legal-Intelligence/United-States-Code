@@ -36,7 +36,7 @@ Resolution of Disputes Over Status of Common Carrier or Contract Carrier.—If a
 
 #### Historical and Revision Notes
 
-I74Pub. L. 104–287, §5(30)(A)
+#### Pub. L. 104–287, §5(30)(A)
 
 This sets out the effective date of 49:13710.
 
@@ -54,7 +54,7 @@ Provisions similar to those in this section were contained in sections 10762 and
 
 #### Amendments
 
-1996—Subsec. (a)(4). Pub. L. 104–287, §5(30)(A), substituted “January 1, 1996,” for “the effective date of this section”.
+<b>1996</b>—Subsec. (a)(4). Pub. L. 104–287, §5(30)(A), substituted “January 1, 1996,” for “the effective date of this section”.
 
 Subsec. (b). Pub. L. 104–287, §5(30)(B), substituted “December 31, 1995” for “the day before the effective date of this section” and “January 1, 1996,” for “the effective date of this section”.
 

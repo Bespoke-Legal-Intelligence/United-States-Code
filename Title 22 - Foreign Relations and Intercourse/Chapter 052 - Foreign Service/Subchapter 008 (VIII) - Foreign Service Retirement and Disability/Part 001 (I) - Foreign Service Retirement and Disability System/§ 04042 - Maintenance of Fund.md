@@ -10,7 +10,7 @@ Section 18 of the Act of May 24, 1924 (43 Stat. 144), referred to in text, which
 
 #### Amendments
 
-1986—Pub. L. 99–335 substituted “part” for “subchapter”.
+<b>1986</b>—Pub. L. 99–335 substituted “part” for “subchapter”.
 
 #### Effective Date of 1986 Amendment
 

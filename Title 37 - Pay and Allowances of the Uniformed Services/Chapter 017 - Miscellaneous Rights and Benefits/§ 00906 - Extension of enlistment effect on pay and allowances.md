@@ -34,7 +34,7 @@ In subsection (a), the words “who extends his enlistment” are substituted fo
 
 #### Amendments
 
-1968—Pub. L. 90–235 struck out provisions formerly set out as subsec. (a) which provided that a member of the Army or Air Force who had extended his enlistment was entitled to the same pay as though he had reenlisted, redesignated as entire section provisions formerly set out as subsec. (b) and substituted “Army, Navy, Air Force, Marine Corps, or Coast Guard” for “Regular Navy or the Regular Marine Corps” and “section 509 of title 10” for “section 5539 of title 10”.
+<b>1968</b>—Pub. L. 90–235 struck out provisions formerly set out as subsec. (a) which provided that a member of the Army or Air Force who had extended his enlistment was entitled to the same pay as though he had reenlisted, redesignated as entire section provisions formerly set out as subsec. (b) and substituted “Army, Navy, Air Force, Marine Corps, or Coast Guard” for “Regular Navy or the Regular Marine Corps” and “section 509 of title 10” for “section 5539 of title 10”.
 
 #### Transfer of Functions
 

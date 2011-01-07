@@ -36,8 +36,6 @@ The Board should use, to the maximum extent possible, the resources, data, board
 
 #### References in Text
 
-The civil-service laws, referred to in subsec. (a), are set out in Title 5, Government Organization and Employees. See, particularly section 3301 et seq. of Title 5.
-
 In subsec. (a), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 Provisions that authorized personnel paid by the hour, day, or month when actually employed, and county crop insurance committeemen to have their compensation fixed without regard to “the Classification Act of 1923, as amended” were omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973 repealed the 1923 Act and all laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act it did not have the effect of continuing the exceptions contained in this subsection because of section 1106(b) which provided that the application of the 1949 Act to any position, officer, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by Act Sept. 6, 1966, Pub. L. 89–554, §8(a), 80 Stat. 632 (of which section 1 revised and enacted Title 5, U.S.C., into law). Section 5102 of Title 5, now contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
@@ -76,7 +74,7 @@ Subsec. (f). Pub. L. 96–365, §104(2), added subsec. (f).
 
 1949—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
-Act Aug. 25, 1949, inserted requirement that officers and employees be appointed subject to civil service laws and regulations, and exempted personnel paid by hour, day, or month when employed, and county crop-insurance committeemen from civil-service laws and regulations or the Classification Act of 1923.
+Act Aug. 25, 1949, inserted requirement that officers and employees be appointed subject to civil service laws and regulations, and exempted personnel paid byhour, day, or month when employed, and county crop-insurance committeemen from civil-service laws and regulations or the Classification Act of 1923.
 
 1947—Act Aug. 1, 1947, provided for selection and designation of county employees and agencies and their direct responsibility.
 

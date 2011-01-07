@@ -28,7 +28,7 @@ Disposition of Assets.—On the date of enactment of this Act \[May 13, 2002\]�
 
 &emsp;“(1) the assets, both tangible and intangible, of the Alternative Agricultural Research and Commercialization Corporation (referred to in this section as the ‘Corporation’), including the funds in the Alternative Agricultural Research and Commercialization Revolving Fund as of the date of enactment of this Act, are transferred to the Secretary of Agriculture; and
 
-&emsp;“(2) notwithstanding the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) \[now chapters 1 to 11 of Title 40, Public Buildings, Property, and Works and title III of the Act of June 30, 1949 (41 U.S.C. 251 et seq.)\] and any other law that prescribes procedures for procurement, use, and disposal of property by a Federal agency, the Secretary shall have authority to manage and dispose of the assets transferred under paragraph (1) in a manner that, to the maximum extent practicable, provides the best value to the Federal Government.
+&emsp;“(2) notwithstanding the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) \[now chapters 1 to 11 of Title 40, Public Buildings, Property, and Works and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\] and any other law that prescribes procedures for procurement, use, and disposal of property by a Federal agency, the Secretary shall have authority to manage and dispose of the assets transferred under paragraph (1) in a manner that, to the maximum extent practicable, provides the best value to the Federal Government.
 
 “(c)
 

@@ -16,7 +16,7 @@
 
 #### Amendments
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 5002 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 5002 of this title as this section.
 
 Subsecs. (a), (c). Pub. L. 102–83 substituted “Secretary” for “Administrator”.
 
@@ -26,5 +26,5 @@ Pub. L. 102–54 amended subsec. (d) as in effect immediately before the enactme
 
 Pub. L. 102–40, §402(d)(1), amended subsec. (d), as amended by Pub. L. 102–54, by substituting “8111” for “5011”. See above.
 
-1986—Subsec. (d). Pub. L. 99–576 added subsec. (d).
+<b>1986</b>—Subsec. (d). Pub. L. 99–576 added subsec. (d).
 

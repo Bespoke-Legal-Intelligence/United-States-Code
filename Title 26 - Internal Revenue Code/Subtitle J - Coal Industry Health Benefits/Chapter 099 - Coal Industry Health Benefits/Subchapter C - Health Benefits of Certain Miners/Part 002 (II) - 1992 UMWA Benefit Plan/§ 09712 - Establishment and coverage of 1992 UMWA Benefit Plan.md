@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;As soon as practicable after the enactment date, the settlors shall create a separate private plan which shall be known as the United Mine Workers of America 1992 Benefit Plan. For purposes of this title, the 1992 UMWA Benefit Plan shall be treated as an organization exempt from taxation under section 501(a). The settlors shall be responsible for designing the structure, administration and terms of the 1992 UMWA Benefit Plan, and for appointment and removal of the members of the board of trustees. The board of trustees shall initiallyconsist of five members and shall thereafter be the number set by the settlors.
+&emsp;As soon as practicable after the enactment date, the settlors shall create a separate private plan which shall be known as the United Mine Workers of America 1992 Benefit Plan. For purposes of this title, the 1992 UMWA Benefit Plan shall be treated as an organization exempt from taxation under section 501(a). The settlors shall be responsible for designing the structure, administration and terms of the 1992 UMWA Benefit Plan, and for appointment and removal of the members of the board of trustees. The board of trustees shall initially consist of five members and shall thereafter be the number set by the settlors.
 
 #### (2) Treatment of plan
 
@@ -24,7 +24,7 @@
 
 #### (B) Use of funds
 
-&emsp;&emsp;Any amount transferred under subparagraph (A) for any fiscal year shall be used to provide the health benefits described in subsection (c) with respect to any beneficiary for whom no monthly per beneficiary premium is paid pursuant to paragraph (1)(A) or (3) of subsection (d).
+&emsp;&emsp;Any amount transferred under subparagraph (A) for any fiscal year shall be used toprovide the health benefits described in subsection (c) with respect to any beneficiary for whom no monthly per beneficiary premium is paid pursuant to paragraph (1)(A) or (3) of subsection (d).
 
 #### (4) Special rule for 1993 plan
 
@@ -98,13 +98,13 @@
 
 #### (1) In general
 
-&emsp;All 1988 last signatory operators shall be responsible for financing the benefits described in subsection (c), in accordance with contribution requirements established in the 1992 UMWA Benefit Plan. Such contribution requirements, which shall be applied uniformly to each 1988 last signatory operator, on the basis of the number of eligible and potentially eligible beneficiaries attributable to each operator, shall include:
+&emsp;All 1988 last signatory operators shall be responsible for financing the benefits describedin subsection (c) by meeting the following requirements in accordance with the contribution requirements established in the 1992 UMWA Benefit Plan:
 
-&emsp;&emsp;(A) the payment of an annual prefunding premium for all eligible and potentially eligible beneficiaries attributable to a 1988 last signatory operator,
+&emsp;&emsp;(A) The payment of a monthly per beneficiary premium by each 1988 last signatory operator for each eligible beneficiary of such operator who is described in subsection (b)(2) and who is receiving benefits under the 1992 UMWA Benefit Plan.
 
-&emsp;&emsp;(B) the payment of a monthly per beneficiary premium by each 1988 last signatory operator for each eligible beneficiary of such operator who is described in subsection (b)(2) and who is receiving benefits under the 1992 UMWA Benefit Plan, and
+&emsp;&emsp;(B) The provision of a security (in the form of a bond, letter of credit, or cash escrow) in an amount equal to a portion of the projected future cost to the 1992 UMWA Benefit Plan of providing health benefits for eligible and potentially eligible beneficiaries attributable to the 1988 last signatory operator.
 
-&emsp;&emsp;(C) the provision of security (in the form of a bond, letter of credit or cash escrow) in an amount equal to a portion of the projected future cost to the 1992 UMWA Benefit Plan of providing health benefits for eligible and potentially eligible beneficiaries attributable to the 1988 last signatory operator. If a 1988 last signatory operator is unable to provide the security required, the 1992 UMWA Benefit Plan shall require the operator to pay an annual prefunding premium that is greater than the premium otherwise applicable.
+&emsp;&emsp;(C) If the amounts transferred under subsection (a)(3) are less than the amounts required to be transferred to the 1992 UMWA Benefit Plan under subsections (h) and (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232), the payment of an additional backstop premium by each 1988 last signatory operator which is equal to such operator's share of the amounts required to be so transferred but which were not so transferred, determined on the basis of the number of eligible and potentially eligible beneficiaries attributable to the operator.
 
 #### (2) Adjustments
 
@@ -112,11 +112,11 @@
 
 &emsp;&emsp;(A) annual adjustments of the per beneficiary premium to cover changes in the cost of providing benefits to eligible beneficiaries, and
 
-&emsp;&emsp;(B) adjustments as necessary to the annual prefunding premium to reflect changes in the cost of providing benefits to eligible beneficiaries for whom per beneficiary premiums are not paid.
+&emsp;&emsp;(B) adjustments as necessary to the annual backstop premium to reflect changes in the cost of providing benefits to eligible beneficiaries for whom per beneficiary premiums are not paid.
 
 #### (3) Additional liability
 
-&emsp;Any last signatory operator who is not a 1988 last signatory operator shall pay the monthly per beneficiary premium under paragraph (1)(B) for each eligible beneficiary described in such paragraph attributable to that operator.
+&emsp;Any last signatory operator who is not a 1988 last signatory operator shall pay the monthly per beneficiary premium under paragraph (1)(A) for each eligible beneficiary described in such paragraph attributable to that operator.
 
 #### (4) Joint and several liability
 
@@ -132,33 +132,19 @@
 
 (Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3053; amended Pub. L. 109–432, div. C, title II, §§211(c), 212(b)(1)–(2)(B), Dec. 20, 2006, 120 Stat. 3023, 3025, 3026.)
 
-#### Amendment of Subsection (d)
-
-<i>Pub. L. 109–432, div. C, title II, §212(b)(2), Dec. 20, 2006, 120 Stat. 3026, provided that, applicable to fiscal years beginning on or after Oct. 1, 2010, subsection (d) of this section is amended as follows:</i>
-
-<i>(1) by amending paragraph (1) to read as follows:</i>
-
-#### <i>“(1) In general</i>
-
-&emsp;<i>“All 1988 last signatory operators shall be responsible for financing the benefits described in subsection (c) by meeting the following requirements in accordance with the contribution requirements established in the 1992 UMWA Benefit Plan:</i>
-
-&emsp;&emsp;<i>“(A) The payment of a monthly per beneficiary premium by each 1988 last signatory operator for each eligible beneficiary of such operator who is described in subsection (b)(2) and who is receiving benefits under the 1992 UMWA Benefit Plan.</i>
-
-&emsp;&emsp;<i>“(B) The provision of a security (in the form of a bond, letter of credit, or cash escrow) in an amount equal to a portion of the projected future cost to the 1992 UMWA Benefit Plan of providing health benefits for eligible and potentially eligible beneficiaries attributable to the 1988 last signatory operator.</i>
-
-&emsp;&emsp;<i>“(C) If the amounts transferred under subsection (a)(3) are less than the amounts required to be transferred to the 1992 UMWA Benefit Plan under subsections (h) and (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232), the payment of an additional backstop premium by each 1988 last signatory operator which is equal to such operator's share of the amounts required to be so transferred but which were not so transferred, determined on the basis of the number of eligible and potentially eligible beneficiaries attributable to the operator.”;</i>
-
-<i>(2) in paragraph (2)(B), by substituting “backstop” for “prefunding”; and</i>
-
-<i>(3) in paragraph (3), by substituting “paragraph (1)(A)” for “paragraph (1)(B)”.</i>
-
 #### References in Text
 
 The Social Security Act, referred to in subsec. (c)(3)(C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
-2006—Subsec. (a)(3), (4). Pub. L. 109–432, §212(b)(1), added pars. (3) and (4).
+<b>2006</b>—Subsec. (a)(3), (4). Pub. L. 109–432, §212(b)(1), added pars. (3) and (4).
+
+Subsec. (d)(1). Pub. L. 109–432, §212(b)(2)(A), amended text of par. (1) generally. Prior to amendment, par. (1) provided that the contribution requirements of all 1988 last signatory operators include the payment of an annual prefunding premium for all eligible and potentially eligible beneficiaries, payment of a monthly per beneficiary premium, and provision of security.
+
+Subsec. (d)(2)(B). Pub. L. 109–432, §212(b)(2)(B)(i), substituted “backstop” for “prefunding”.
+
+Subsec. (d)(3). Pub. L. 109–432, §212(b)(2)(B)(ii), substituted “paragraph (1)(A)” for “paragraph (1)(B)”.
 
 Subsec. (d)(4). Pub. L. 109–432, §211(c), inserted at end “The provisions of section 9711(c)(2) shall apply to any last signatory operator described in such section (without regard to whether security is provided under such section, a payment is made under section 9704(j), or both) and if security meeting the requirements of section 9711(c)(3) is provided, the common parent described in section 9711(c)(2)(B) shall be exclusively responsible for any liability for premiums under this section which, but for this sentence, would be required to be paid by the last signatory operator or any related person.”
 

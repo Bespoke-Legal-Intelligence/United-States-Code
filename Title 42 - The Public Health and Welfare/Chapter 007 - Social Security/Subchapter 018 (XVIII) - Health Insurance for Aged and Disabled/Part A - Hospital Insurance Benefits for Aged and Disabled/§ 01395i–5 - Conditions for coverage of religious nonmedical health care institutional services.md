@@ -128,7 +128,7 @@ At the beginning of each fiscal year (beginning with fiscal year 1999), the Secr
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–173, §706(a)(1), inserted “and for home health services furnished an individual by a religious nonmedical health care institution” after “religious nonmedical health care institution” in introductory provisions.
+<b>2003</b>—Subsec. (a). Pub. L. 108–173, §706(a)(1), inserted “and for home health services furnished an individual by a religious nonmedical health care institution” after “religious nonmedical health care institution” in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 108–173, §706(a)(2), substituted “, extended care services, or home health services” for “or extended care services” and inserted “, or receiving services from a home health agency,” after “skilled nursing facility”.
 

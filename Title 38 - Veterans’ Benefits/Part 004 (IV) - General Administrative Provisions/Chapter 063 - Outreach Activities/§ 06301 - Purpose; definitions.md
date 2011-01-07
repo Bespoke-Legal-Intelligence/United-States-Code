@@ -26,7 +26,7 @@ Provisions similar to those in this section were contained in section 7721 of th
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–181, §1710(a), inserted “, or from a reserve component,” after ”active military, naval, or air service”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–181, §1710(a), inserted “, or from a reserve component,” after ”active military, naval, or air service”.
 
 Subsec. (b). Pub. L. 110–181, §1710(b), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 

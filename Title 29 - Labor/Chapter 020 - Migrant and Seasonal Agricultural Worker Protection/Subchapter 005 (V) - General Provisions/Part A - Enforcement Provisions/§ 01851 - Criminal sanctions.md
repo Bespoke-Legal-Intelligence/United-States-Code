@@ -12,9 +12,9 @@ If a farm labor contractor who commits a violation of paragraph (1) or (2) of se
 
 #### Amendments
 
-1986—Subsec. (b). Pub. L. 99–603 substituted “paragraph (1) or (2) of section 1324a(a) of title 8” for “section 1816 of this title”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–603 substituted “paragraph (1) or (2) of section 1324a(a) of title 8” for “section 1816 of this title”.
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–603 applicable to employment, recruitment, referral, or utilization of services of an individual occurring on or after first day of seventhmonth beginning after Nov. 6, 1986, see section 101(b)(2) of Pub. L. 99–603, as amended, set out as a note under section 1802 of this title.
+Amendment by Pub. L. 99–603 applicable to employment, recruitment, referral, or utilization of services of an individual occurring on or after first day of seventh month beginning after Nov. 6, 1986, see section 101(b)(2) of Pub. L. 99–603, as amended, set out as a note under section 1802 of this title.
 

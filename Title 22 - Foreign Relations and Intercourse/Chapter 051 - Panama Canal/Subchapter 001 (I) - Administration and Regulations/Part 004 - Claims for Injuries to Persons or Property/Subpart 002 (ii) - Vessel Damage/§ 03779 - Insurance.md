@@ -12,9 +12,9 @@
 
 #### Amendments
 
-1998—Pub. L. 105–261 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1998</b>—Pub. L. 105–261 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1987—Pub. L. 100–203 inserted “or other unpredictable events” after “marine accidents”.
+<b>1987</b>—Pub. L. 100–203 inserted “or other unpredictable events” after “marine accidents”.
 
 #### Effective Date
 

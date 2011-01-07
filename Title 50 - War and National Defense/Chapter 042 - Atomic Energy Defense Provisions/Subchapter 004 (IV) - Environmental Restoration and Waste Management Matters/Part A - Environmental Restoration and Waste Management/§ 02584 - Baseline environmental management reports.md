@@ -60,7 +60,7 @@ A report required under subsection (a) or (b) shall be based on compliance with 
 
 &emsp;&emsp;(iv) An explanation of the reasons for any projected cost variance between actual and estimated expenditures of more than 15 percent or $10,000,000, or any schedule delay of more than six months, for the activity or project.
 
-&emsp;(B) For the fiscal year during which the report is submitted, a disaggregation of the funds appropriated for Department of Energy defense environmental restoration and waste management into the activities and projects (including discrete parts of multiyear activities and projects) that the Secretary of Energy expects to accomplish during that fiscal year.
+&emsp;(B) For the fiscal year during which the report is submitted, a disaggregation of thefunds appropriated for Department of Energy defense environmental restoration and waste management into the activities and projects (including discrete parts of multiyear activities and projects) that the Secretary of Energy expects to accomplish during that fiscal year.
 
 &emsp;(C) For the fiscal year for which the budget is submitted, a disaggregation of the Department of Energy defense environmental restoration and waste management budget request into the activities and projects (including discrete parts of multiyear activities and projects) that the Secretary of Energy expects to accomplish during that fiscal year.
 
@@ -70,7 +70,7 @@ In preparing a report under this section, the Secretary of Energy shall provide,
 
 #### (f) Public participation in development of information
 
-(1) The Secretary of Energy shall consult with the Administrator of the Environmental Protection Agency, the Attorney General, Governorsand Attorneys General of affected States, appropriate representatives of affected Indian tribes, and interested members of the public in the development of information necessary to complete the reports required by subsections (a), (b), and (d).
+(1) The Secretary of Energy shall consult with the Administrator of the Environmental Protection Agency, the Attorney General, Governors and Attorneys General of affected States, appropriate representatives of affected Indian tribes, and interested members of the public in the development of information necessary to complete the reports required by subsections (a), (b), and (d).
 
 (2) Consultation under paragraph (1) shall not interfere with the timely submission to Congress of the budget for a fiscal year.
 
@@ -84,13 +84,13 @@ Section was formerly classified to section 7274k of Title 42, The Public Health 
 
 #### Amendments
 
-1997—Subsec. (b)(2)(B). Pub. L. 105–85 substituted “1997” for “1995”.
+<b>1997</b>—Subsec. (b)(2)(B). Pub. L. 105–85 substituted “1997” for “1995”.
 
-1996—Subsec. (b). Pub. L. 104–201, §3152(1), substituted “Biennial” for “Annual” in heading and “each odd-numbered year after 1995” for “each year after 1995” in par. (2)(B).
+<b>1996</b>—Subsec. (b). Pub. L. 104–201, §3152(1), substituted “Biennial” for “Annual” in heading and “each odd-numbered year after 1995” for “each year after 1995” in par. (2)(B).
 
 Subsec. (d). Pub. L. 104–201, §3152(2), substituted “Biennial” for “Annual” in heading, “each odd-numbered year” for “each year” in par. (1)(B), “two fiscal years immediately” for “the fiscal year immediately” in introductory provisions of par. (2)(A), and “prior fiscal years” for “prior fiscal year” in par. (2)(A)(ii).
 
-1994—Subsec. (b)(1). Pub. L. 103–337, §3160(b), inserted “including pollution prevention and” after “waste management,” and struck out “and technology research and development related to such activities and projects” after “shutdown status,”.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–337, §3160(b), inserted “including pollution prevention and” after “waste management,” and struck out “and technology research and development related to such activities and projects” after “shutdown status,”.
 
 Subsec. (c)(2)(F). Pub. L. 103–337, §3160(c)(2)–(4), added subpar. (F).
 

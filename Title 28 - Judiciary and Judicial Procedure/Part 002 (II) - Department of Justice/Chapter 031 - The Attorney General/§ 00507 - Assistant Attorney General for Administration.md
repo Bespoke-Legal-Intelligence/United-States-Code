@@ -36,5 +36,5 @@ A prior section 507, acts June 25, 1948, ch. 646, 62 Stat. 910; May 24, 1949, ch
 
 #### Amendments
 
-1999—Subsec. (c). Pub. L. 106–113 added subsec. (c).
+<b>1999</b>—Subsec. (c). Pub. L. 106–113 added subsec. (c).
 

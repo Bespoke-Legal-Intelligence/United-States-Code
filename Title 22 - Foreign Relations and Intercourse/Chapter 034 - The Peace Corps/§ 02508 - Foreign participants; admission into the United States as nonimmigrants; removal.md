@@ -12,9 +12,9 @@ The Immigration and Nationality Act, referred to in text, is act June 27, 1952, 
 
 #### Amendments
 
-1996—Pub. L. 104–208 substituted “removed pursuant to chapter 4 of title II of the Immigration and Nationality Act” for “deported pursuant to sections 1251, 1252, and 1253 of title 8. Deportation”.
+<b>1996</b>—Pub. L. 104–208 substituted “removed pursuant to chapter 4 of title II of the Immigration and Nationality Act” for “deported pursuant to sections 1251, 1252, and 1253 of title 8. Deportation”.
 
-1981—Pub. L. 97–113 substituted reference to section “2509(a)(5)” for “2509(a)(4)” of this title.
+<b>1981</b>—Pub. L. 97–113 substituted reference to section “2509(a)(5)” for “2509(a)(4)” of this title.
 
 #### Effective Date of 1996 Amendment
 

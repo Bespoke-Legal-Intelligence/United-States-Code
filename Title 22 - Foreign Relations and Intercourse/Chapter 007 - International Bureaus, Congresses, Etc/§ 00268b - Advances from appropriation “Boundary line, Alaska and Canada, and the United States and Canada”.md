@@ -14,11 +14,11 @@ Section was formerly classified to section 535 of Title 31 prior to the general 
 
 #### Amendments
 
-1996—Pub. L. 104–316 substituted “chiefs of parties” for “chiefs of parties and accounts arising under advances shall be rendered through and by the commissioner on the part of the United States to the General Accounting Office as under advances made to chiefs of parties”.
+<b>1996</b>—Pub. L. 104–316 substituted “chiefs of parties” for “chiefs of parties and accounts arising under advances shall be rendered through and by the commissioner on the part of the United States to the General Accounting Office as under advances made to chiefs of parties”.
 
-1972—Pub. L. 92–310 struck out provisions that required chiefs of parties to give bonds.
+<b>1972</b>—Pub. L. 92–310 struck out provisions that required chiefs of parties to give bonds.
 
-1966—Pub. L. 89–554 struck out provisions that related to traveling expenses of the commissioner.
+<b>1966</b>—Pub. L. 89–554 struck out provisions that related to traveling expenses of the commissioner.
 
 #### Transfer of Functions
 

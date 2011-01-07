@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director is authorized to expend up to 1.5 percent of the funds appropriated for activities of the Institute in any fiscal year, as the Director may deem desirable, for awards of research fellowships and other forms of financial assistance to students at institutions of higher learning within the United States who show promise as present or future contributors to the mission of the Institute, and to United States citizens for research and technical activities on Institute programs. The selection of persons to receive such fellowships and assistance shall be made on the basis of ability and of the relevance of the proposed work to the mission and programs of the Institute.
+The Director is authorized to expend funds appropriated for activities of the Institute in any fiscal year, as the Director may deem desirable, for awards of research fellowships and other forms of financial assistance to students at institutions of higher learning within the United States who show promise as present or future contributors to the mission of the Institute, and to United States citizens for research and technical activities on Institute programs. The selection of persons to receive such fellowships and assistance shall be made on the basis of ability and of the relevance of the proposed work to the mission and programs of the Institute.
 
 #### (b) Manufacturing fellowship program
 
@@ -22,7 +22,11 @@ The Director is authorized to expend up to 1.5 percent of the funds appropriated
 
 &emsp;Under this subsection, the Director shall provide stipends for postdoctoral research fellowships at a level consistent with the National Institute of Standards and Technology Postdoctoral Research Fellowship Program, and senior research fellowships at levels consistent with support for a faculty member in a sabbatical position.
 
-(Mar. 3, 1901, ch. 872, §18, as added Pub. L. 99–574, §6(a), Oct. 28, 1986, 100 Stat. 3237; amended Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–245, title I, §104(h)(1), Feb. 14, 1992, 106 Stat. 11; Pub. L. 110–69, title III, §§3008, 3013(a), Aug. 9, 2007, 121 Stat. 591, 598.)
+#### (c) Underrepresented minorities
+
+In evaluating applications for fellowships under this section, the Director shall give consideration to the goal of promoting the participation of underrepresented minorities in research areas supported by the Institute.
+
+(Mar. 3, 1901, ch. 872, §18, as added Pub. L. 99–574, §6(a), Oct. 28, 1986, 100 Stat. 3237; amended Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–245, title I, §104(h)(1), Feb. 14, 1992, 106 Stat. 11; Pub. L. 110–69, title III, §§3008, 3013(a), Aug. 9, 2007, 121 Stat. 591, 598; Pub. L. 111–358, title IV, §§406(a), §407(b), Jan. 4, 2011, 124 Stat. 4003, 4004.)
 
 #### Prior Provisions
 
@@ -30,11 +34,15 @@ A prior section 18 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and i
 
 #### Amendments
 
-2007—Pub. L. 110–69 designated existing provisions as subsec. (a), inserted heading, substituted “up to 1.5 percent of the” for “up to 1 per centum of the”, and added subsec. (b).
+<b>2011</b>—Subsec. (a). Pub. L. 111–358, §407(b), struck out “up to 1.5 percent of the” after “expend”.
 
-1992—Pub. L. 102–245 inserted before period at end of first sentence “, and to United States citizens for research and technical activities on Institute programs”.
+Subsec. (c). Pub. L. 111–358, §406(a), added subsec. (c).
 
-1988—Pub. L. 100–418 substituted “Institute” for “National Bureau of Standards” the first place appearing, and for “Bureau” wherever subsequently appearing.
+<b>2007</b>—Pub. L. 110–69 designated existing provisions as subsec. (a), inserted heading, substituted “up to 1.5 percent of the” for “up to 1 per centum of the”, and added subsec. (b).
+
+<b>1992</b>—Pub. L. 102–245 inserted before period at end of first sentence “, and to United States citizens for research and technical activities on Institute programs”.
+
+<b>1988</b>—Pub. L. 100–418 substituted “Institute” for “National Bureau of Standards” the first place appearing, and for “Bureau” wherever subsequently appearing.
 
 #### Effective Date
 

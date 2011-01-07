@@ -56,13 +56,13 @@ In subsection (b)(1), before clause (A), the words “as is necessary” are omi
 
 #### Amendments
 
-2006—Subsec. (c)(1). Pub. L. 109–304 substituted “Secretary of Homeland Security” and “section 60105 of title 46” for “Secretary of the Treasury” and “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)”, respectively.
+<b>2006</b>—Subsec. (c)(1). Pub. L. 109–304 substituted “Secretary of Homeland Security” and “section 60105 of title 46” for “Secretary of the Treasury” and “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)”, respectively.
 
-2005—Subsec. (a). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation”.
 
 Pub. L. 109–59, §7119(a), substituted “this chapter or a regulation prescribed or order, special permit, or approval” for “this chapter or a regulation prescribed or order” and “The court may award appropriate relief, including a temporary or permanent injunction, punitive damages, and assessment of civil penalties considering the same penalty amounts and factors as prescribed for the Secretary in an administrative case under section 5123” for “The court may award appropriate relief, including punitive damages”.
 
 Subsec. (b)(1)(B). Pub. L. 109–59, §7119(b), substituted “or mitigate the hazard” for “or ameliorate the hazard”.
 
-1996—Subsec. (c). Pub. L. 104–324 added subsec. (c).
+<b>1996</b>—Subsec. (c). Pub. L. 104–324 added subsec. (c).
 

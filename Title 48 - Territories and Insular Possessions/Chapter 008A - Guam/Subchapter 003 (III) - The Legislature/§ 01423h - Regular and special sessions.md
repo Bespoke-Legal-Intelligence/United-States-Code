@@ -6,7 +6,7 @@ Regular sessions of the legislature shall be held annually, commencing on the se
 
 #### Amendments
 
-1968—Pub. L. 90–497 removed 60-day limitation on the length of regular sessions and 14-day limitation on the length of special sessions of the legislature.
+<b>1968</b>—Pub. L. 90–497 removed 60-day limitation on the length of regular sessions and 14-day limitation on the length of special sessions of the legislature.
 
 #### Effective Date of 1968 Amendment
 

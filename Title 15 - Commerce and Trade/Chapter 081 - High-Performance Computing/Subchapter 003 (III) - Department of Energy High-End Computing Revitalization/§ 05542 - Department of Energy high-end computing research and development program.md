@@ -68,5 +68,5 @@ This subchapter, referred to in subsecs. (c)(1) and (d)(1), was in the original 
 
 #### Codification
 
-This section was enacted as part of the Department of Energy High-End Computing Revitalization Act of2004 which comprises this subchapter, and not as part of the High-Performance Computing Act of 1991 which comprises this chapter.
+This section was enacted as part of the Department of Energy High-End Computing Revitalization Act of 2004 which comprises this subchapter, and not as part of the High-Performance Computing Act of 1991 which comprises this chapter.
 

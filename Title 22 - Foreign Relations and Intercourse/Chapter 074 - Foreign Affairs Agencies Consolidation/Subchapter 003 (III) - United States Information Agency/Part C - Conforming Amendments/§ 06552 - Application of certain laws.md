@@ -42,5 +42,5 @@ This chapter, referred to in subsecs. (a), (b), and (d), was in the original “
 
 #### Amendments
 
-1999—Subsec. (c). Pub. L. 106–113 designated existing provisions as par. (1), inserted “, identified as public diplomacy funds in any Congressional Presentation Document described in subsection (e) of this section, or reprogrammed for public diplomacy purposes,” after “diplomacy programs”, and added par. (2).
+<b>1999</b>—Subsec. (c). Pub. L. 106–113 designated existing provisions as par. (1), inserted “, identified as public diplomacy funds in any Congressional Presentation Document described in subsection (e) of this section, or reprogrammed for public diplomacy purposes,” after “diplomacy programs”, and added par. (2).
 

@@ -6,7 +6,7 @@ To carry out this subchapter, there are authorized to be appropriated $16,000,00
 
 #### Amendments
 
-1991—Pub. L. 102–132 amended section generally. Prior to amendment, section read as follows:
+<b>1991</b>—Pub. L. 102–132 amended section generally. Prior to amendment, section read as follows:
 
 “(a)
 

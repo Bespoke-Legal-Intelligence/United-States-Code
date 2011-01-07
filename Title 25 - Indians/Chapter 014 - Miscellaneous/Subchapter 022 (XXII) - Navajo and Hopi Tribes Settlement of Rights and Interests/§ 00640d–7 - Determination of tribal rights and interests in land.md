@@ -22,7 +22,7 @@ Nothing in this section shall be deemed to be a Congressional determination of t
 
 #### (e) Payment of legal fees, court costs and other expenses
 
-The Secretary of the Interior is authorized to pay any or all appropriate legal fees, courtcosts, and other related expenses arising out of, or in connection with, the commencing of, or defending against, any action brought by the Navajo, San Juan Southern Paiute or Hopi Tribe under this section.
+The Secretary of the Interior is authorized to pay any or all appropriate legal fees, court costs, and other related expenses arising out of, or in connection with, the commencing of, or defending against, any action brought by the Navajo, San Juan Southern Paiute or Hopi Tribe under this section.
 
 #### (f) Provision of attorney fees for San Juan Southern Paiute Tribe
 
@@ -42,9 +42,9 @@ The Indian Claims Commission, referred to in subsec. (d), terminated Sept. 30, 1
 
 #### Amendments
 
-1988—Subsec. (e). Pub. L. 100–666, §9(a), inserted “, San Juan Southern Paiute” after “Navajo”.
+<b>1988</b>—Subsec. (e). Pub. L. 100–666, §9(a), inserted “, San Juan Southern Paiute” after “Navajo”.
 
 Subsec. (f). Pub. L. 100–666, §9(b), added subsec. (f).
 
-1980—Subsec. (c). Pub. L. 96–305 substituted provision authorizing, as part of the determination of tribal rights and interests in land, actions for accounting, fair value of grazing, and claims for damages, specifying the formula for determining recovery, and limiting defenses for provision authorizing exchange of reservation lands.
+<b>1980</b>—Subsec. (c). Pub. L. 96–305 substituted provision authorizing, as part of the determination of tribal rights and interests in land, actions for accounting, fair value of grazing, and claims for damages, specifying the formula for determining recovery, and limiting defenses for provision authorizing exchange of reservation lands.
 

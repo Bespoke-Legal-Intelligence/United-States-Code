@@ -44,9 +44,9 @@ In addition to the land described in subsections (a) and (c), the land identifie
 
 #### Amendments
 
-2006—Subsec. (d). Pub. L. 109–362 added subsec. (d).
+<b>2006</b>—Subsec. (d). Pub. L. 109–362 added subsec. (d).
 
-1976—Subsec. (c). Pub. L. 94–579 added subsec. (c).
+<b>1976</b>—Subsec. (c). Pub. L. 94–579 added subsec. (c).
 
 #### Savings Provision
 

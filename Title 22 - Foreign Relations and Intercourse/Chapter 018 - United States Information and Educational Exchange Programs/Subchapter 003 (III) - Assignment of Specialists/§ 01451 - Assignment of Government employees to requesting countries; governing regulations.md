@@ -6,7 +6,7 @@ The Director of the United States Information Agency is authorized, when the gov
 
 #### Amendments
 
-1982—Pub. L. 97–241 substituted “person in the employ” for “citizen of the United States in the employ”, “Director of the United States Information Agency” for “Secretary”, and “Director finds” for “Secretary finds”.
+<b>1982</b>—Pub. L. 97–241 substituted “person in the employ” for “citizen of the United States in the employ”, “Director of the United States Information Agency” for “Secretary”, and “Director finds” for “Secretary finds”.
 
 #### Transfer of Functions
 

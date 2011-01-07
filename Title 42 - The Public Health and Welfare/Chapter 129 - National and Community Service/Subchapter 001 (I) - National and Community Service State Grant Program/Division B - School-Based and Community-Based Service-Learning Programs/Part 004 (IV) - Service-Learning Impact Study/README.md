@@ -1,11 +1,5 @@
 Part IV—Service-Learning Impact Study
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
-
-<i><sup>2</sup></i><i> So in original. Clause (v) does not contain subclauses.</i>
-
-<i><sup>3</sup></i><i> So in original. Comma probably should not appear.</i>
-
 
 ---
 

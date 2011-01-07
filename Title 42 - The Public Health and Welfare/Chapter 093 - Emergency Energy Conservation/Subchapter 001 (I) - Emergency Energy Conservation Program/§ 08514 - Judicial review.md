@@ -26,7 +26,7 @@ With respect to judicial review under subsection (a)(1)(A) of this section, the 
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–620 struck out subsec. (b) which required the court of appeals to advance on the docket and to expedite to the greatest possible extent the disposition of any matter certified under subsec. (a)(2).
+<b>1984</b>—Subsec. (b). Pub. L. 98–620 struck out subsec. (b) which required the court of appeals to advance on the docket and to expedite to the greatest possible extent the disposition of any matter certified under subsec. (a)(2).
 
 #### Effective Date of 1984 Amendment
 

@@ -16,7 +16,7 @@ Formula.—The monthly retired pay of a member entitled to recompute that pay un
 
 Rounding to Next Lower Dollar.—The amount computed under subsection (b), if not a multiple of $1, shall be rounded to the next lower multiple of $1.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 233; Pub. L. 96–342, title VIII, §813(c), Sept. 8, 1980, 94 Stat. 1104; Pub. L. 96–513, title V, §512(10), Dec. 12, 1980, 94 Stat. 2929; Pub. L. 97–295, §1(40), Oct. 12, 1982, 96 Stat. 1297; Pub. L. 98–94, title IX, §§922(a)(8),923(a)(1), (2)(G), Sept. 24, 1983, 97 Stat. 641–643; Pub. L. 99–348, title II, §202(b), July 1, 1986, 100 Stat. 695; Pub. L. 103–337, div. A, title VI, §635(a)(3), Oct. 5, 1994, 108 Stat. 2788.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 233; Pub. L. 96–342, title VIII, §813(c), Sept. 8, 1980, 94 Stat. 1104; Pub. L. 96–513, title V, §512(10), Dec. 12, 1980, 94 Stat. 2929; Pub. L. 97–295, §1(40), Oct. 12, 1982, 96 Stat. 1297; Pub. L. 98–94, title IX, §§922(a)(8), 923(a)(1), (2)(G), Sept. 24, 1983, 97 Stat. 641–643; Pub. L. 99–348, title II, §202(b), July 1, 1986, 100 Stat. 695; Pub. L. 103–337, div. A, title VI, §635(a)(3), Oct. 5, 1994, 108 Stat. 2788.)
 
 Historical and Revision Notes<br>1956
 
@@ -40,7 +40,7 @@ Aug. 21, 1941, ch. 384, §5 (last 39 words of 1st proviso); restated June 29, 19
 
 June 29, 1948, ch. 708, §203(e) (30 words before proviso), 62 Stat. 1086.
 
-The words “basic pay as the case may be” are inserted to conform to the terminology of the Career Compensation Act of 1949, 63 Stat. 802 (37 U.S.C. 231 et seq.). The words “at the rate prescribed by law for his length of service”, in 10:1004, are omitted as covered by the words “base and longevity pay”. The words “base and longevity pay” are retained to cover the cases of members retired before the enactment of the Career Compensation Act of 1949, and advanced on the retired list after the enactment of that act. The words “and disregard a part of a year that is less than six months” are inserted to conform to footnote 4 of section 3991 of this title.
+The words “basic pay \* \* \* as the case may be” are inserted to conform to the terminology of the Career Compensation Act of 1949, 63 Stat. 802 (37 U.S.C. 231 et seq.). The words “at the rate prescribed by law for his length of service”, in 10:1004, are omitted as covered by the words “base and longevity pay”. The words “base and longevity pay” are retained to cover the cases of members retired before the enactment of the Career Compensation Act of 1949, and advanced on the retired list after the enactment of that act. The words “and disregard a part of a year that is less than six months” are inserted to conform to footnote 4 of section 3991 of this title.
 
 #### 1982 Act
 
@@ -48,17 +48,17 @@ This amends 10:3992 to correct an inadvertent error in the codification of title
 
 #### Amendments
 
-1994—Pub. L. 103–337 amended section generally. Prior to amendment, section contained table with two formulas for recomputing retired pay of enlisted members and warrant officers of Army to reflect advancement on retired list.
+<b>1994</b>—Pub. L. 103–337 amended section generally. Prior to amendment, section contained table with two formulas for recomputing retired pay of enlisted members and warrant officers of Army to reflect advancement on retired list.
 
-1986—Pub. L. 99–348 revised table generally by striking out provision in column 1 that for a person who first became a member of a uniformed service, as defined in section 1407(a)(2), after Sept. 7, 1980, one multiplier is the monthly retired pay base as computed under section 1407(c), substituting in formulas A and B provision that the retired pay base as computed under section 1406(c) or 1407 of this title be multiplied by the retired pay multiplier prescribed in section 1409 of this title for the number of years credited for provisions that the monthly basic pay or base and longevity pay, as the case may be, subject to footnote 1, of the grade to which the member is advanced on the retired list be multiplied by 21/2% of years of service credited, subject to footnote 2, and have subtracted from it the excess over 75% of pay upon which the computation is based, struck out footnote 1, which provided that the computation be at the rate applicable on the date of retirement, and redesignated footnote 2 as 1 and substituted “In determining retired pay multiplier” for “Before applying percentage factor” and “1/12” for “one-twelfth”.
+<b>1986</b>—Pub. L. 99–348 revised table generally by striking out provision in column 1 that for a person who first became a member of a uniformed service, as defined in section 1407(a)(2), after Sept. 7, 1980, one multiplier is the monthly retired pay base as computed under section 1407(c), substituting in formulas A and B provision that the retired pay base as computed undersection 1406(c) or 1407 of this title be multiplied by the retired pay multiplier prescribed in section 1409 of this title for the number of years credited for provisions that the monthly basic pay or base and longevity pay, as the case may be, subject to footnote 1, of the grade to which the member is advanced on the retired list be multiplied by 21/2% of years of service credited, subject to footnote 2, and have subtracted from it the excess over 75% of pay upon which the computation is based, struck out footnote 1, which provided that the computation be at the rate applicable on the date of retirement, and redesignated footnote 2 as 1 and substituted “In determining retired pay multiplier” for “Before applying percentage factor” and “1/12” for “one-twelfth”.
 
-1983—Pub. L. 98–94, §922(a)(8), inserted “The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.”
+<b>1983</b>—Pub. L. 98–94, §922(a)(8), inserted “The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.”
 
 Pub. L. 98–94, §923(a)(1), (2)(G), in footnote 2 of table, substituted “Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month” for “Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months”.
 
-1982—Pub. L. 97–295 added formula B, applicable to warrant officers.
+<b>1982</b>—Pub. L. 97–295 added formula B, applicable to warrant officers.
 
-1980—Pub. L. 96–513 in heading for column 1 of table substituted “after September 7, 1980” for “on or after the date of the enactment of the Department of Defense Authorization Act, 1981”.
+<b>1980</b>—Pub. L. 96–513 in heading for column 1 of table substituted “after September 7, 1980” for “on or after the date of the enactment of the Department of Defense Authorization Act, 1981”.
 
 Pub. L. 96–342 in heading for column 1 of table inserted provisions respecting applicability to persons becoming members after the date of the enactment of the Department of Defense Authorization Act, 1981.
 

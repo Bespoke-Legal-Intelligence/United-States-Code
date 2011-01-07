@@ -54,9 +54,7 @@
 
 &emsp;(3) for want of prosecution.
 
-\[(k) Repealed. Pub. L. 109–8, title VIII, §802(d)(2), Apr. 20, 2005, 119 Stat. 146.\]
-
-(<i>l</i>)(1) If—
+(k)(1) If—
 
 &emsp;(A) the petition under this section is false or contains any materially false, fictitious, or fraudulent statement;
 
@@ -70,7 +68,11 @@
 
 (3) Upon the expiration of the statute of limitations described in section 3282 of title 18, for a violation of section 152 or 157 of such title, the court, upon the motion of the debtor and for good cause, may expunge any records relating to a petition filed under this section.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2559; Pub. L. 98–353, title III, §§426, 427, July 10, 1984, 98 Stat. 369; Pub. L. 99–554, title II, §§204, 254, 283(b), Oct. 27, 1986, 100 Stat. 3097, 3105, 3116; Pub. L. 103–394, title I, §108(b), Oct. 22, 1994, 108 Stat. 4112; Pub. L. 109–8, title III, §332(b), title VIII, §802(d)(2), title XII, §1234(a), Apr. 20, 2005, 119 Stat. 103, 146, 204.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2559; Pub. L. 98–353, title III, §§426, 427, July 10, 1984, 98 Stat. 369; Pub. L. 99–554, title II, §§204, 254, 283(b), Oct. 27, 1986, 100 Stat. 3097, 3105, 3116; Pub. L. 103–394, title I, §108(b), Oct. 22, 1994, 108 Stat. 4112; Pub. L. 109–8, title III, §332(b), title VIII, §802(d)(2), title XII, §1234(a), Apr. 20, 2005, 119 Stat. 103, 146, 204; Pub. L. 111–327, §2(a)(9), Dec. 22, 2010, 124 Stat. 3558.)
+
+#### Adjustment of Dollar Amounts
+
+<i>For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.</i>
 
 #### Historical and Revision Notes
 
@@ -94,13 +96,13 @@ The provisions for involuntary chapter 11 cases is a slight change from present 
 
 Subsection (b) of the section specifies who may file an involuntary petition. As under current law, if the debtor has more than 12 creditors, three creditors must join in the involuntary petition. The dollar amount limitation is changed from current law to $5,000. The new amount applies both to liquidation and reorganization cases in order that there not be an artificial difference between the two chapters that would provide an incentive for one or the other. Subsection (b)(1) makes explicit the right of an indenture trustee to be one of the three petitioning creditors on behalf of the creditors the trustee represents under the indenture. If all of the general partners in a partnership are in bankruptcy, then the trustee of a single general partner may file an involuntary petition against the partnership. Finally, a foreign representative may file an involuntary case concerning the debtor in the foreign proceeding, in order to administer assets in this country. This subsection is not intended to overrule Bankruptcy Rule 104(d), which places certain restrictions on the transfer of claims for the purpose of commencing an involuntary case. That Rule will be continued under section 405(d) of this bill.
 
-Subsection (c) permits creditors other than the original petitioning creditors to join in the petition with the same effect as if the joining creditor had been one of the original petitioning creditors. Thus, if the claim of one of the original petitioning creditors is disallowed, the case will not be dismissed for want of three creditors or want of $5,000 in petitioning claims ifthe joining creditor suffices to fulfill the statutory requirements.
+Subsection (c) permits creditors other than the original petitioning creditors to join in the petition with the same effect as if the joining creditor had been one of the original petitioning creditors. Thus, if the claim of one of the original petitioning creditors is disallowed, the case will not be dismissed for want of three creditors or want of $5,000 in petitioning claims if the joining creditor suffices to fulfill the statutory requirements.
 
 Subsection (d) permits the debtor to file an answer to an involuntary petition. The subsection also permits a general partner in a partnership debtor to answer an involuntary petition against the partnership if he did not join in the petition. Thus, a partnership petition by less than all of the general partners is treated as an involuntary, not a voluntary, petition.
 
 The court may, under subsection (e), require the petitioners to file a bond to indemnify the debtor for such amounts as the court may later allow under subsection (i). Subsection (i) provides for costs, attorneys fees, and damages in certain circumstances. The bonding requirement will discourage frivolous petitions as well as spiteful petitions based on a desire to embarrass the debtor (who may be a competitor of a petitioning creditor) or to put the debtor out of business without good cause. An involuntary petition may put a debtor out of business even if it is without foundation and is later dismissed.
 
-Subsection (f) is both a clarification and a change from existing law. It permits the debtor to continue to operate any business of the debtor and to dispose of property as if the case had not been commenced. The court is permitted, however, to control the debtor's powers under this subsection by appropriate orders, such as where there is a fear that the debtor may attempt to abscond with assets, dispose of them at less than their fair value, or dismantle his business, all to the detriment of the debtor's creditors.
+Subsection (f) is both a clarification and a change from existing law. It permits the debtor to continue tooperate any business of the debtor and to dispose of property as if the case had not been commenced. The court is permitted, however, to control the debtor's powers under this subsection by appropriate orders, such as where there is a fear that the debtor may attempt to abscond with assets, dispose of them at less than their fair value, or dismantle his business, all to the detriment of the debtor's creditors.
 
 The court may also, under subsection (g), appoint an interim trustee to take possession of the debtor's property and to operate any business of the debtor, pending trial on the involuntary petition. The court may make such an order only on the request of a party in interest, and after notice to the debtor and a hearing. There must be a showing that a trustee is necessary to preserve the property of the estate or to prevent loss to the estate. The debtor may regain possession by posting a sufficient bond.
 
@@ -115,6 +117,8 @@ Under subsection (j), the court may dismiss the petition by consent only after g
 Subsection (k) governs involuntary cases against foreign banks that are not engaged in business in the United States but that have assets located here. The subsection prevents a foreign bank from being placed into bankruptcy in this country unless a foreign proceeding against the bank is pending. The special protection afforded by this section is needed to prevent creditors from effectively closing down a foreign bank by the commencement of an involuntary bankruptcy case in this country unless that bank is involved in a proceeding under foreign law. An involuntary case commenced under this subsection gives the foreign representative an alternative to commencing a case ancillary to a foreign proceeding under section 304.
 
 #### Amendments
+
+2010—Subsecs. (k), (<i>l</i>). Pub. L. 111–327 redesignated subsec. (<i>l</i>) as (k).
 
 2005—Subsec. (b)(1). Pub. L. 109–8, §1234(a)(1), inserted “as to liability or amount” after “bona fide dispute” and substituted “if such noncontingent, undisputed claims” for “if such claims”.
 
@@ -152,7 +156,7 @@ Amendment by sections 332(b) and 802(d)(2) of Pub. L. 109–8 effective 180 days
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commencedunder this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -168,5 +172,15 @@ Amendment by sections 426(a) and 427 of Pub. L. 98–353 effective with respect 
 
 #### Adjustment of Dollar Amounts
 
-For adjustment of dollar amounts specified in subsec. (b)(1), (2) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
+The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
+
+By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (b)(1), (2), dollar amount “13,475” was adjusted to “14,425”. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (b)(1), (2), dollar amount “12,300” was adjusted to “13,475”.
+
+By notice dated Feb. 18, 2004, 69 F.R. 8482, effective Apr. 1, 2004, in subsec. (b)(1), (2), dollar amount “11,625” was adjusted to “12,300”.
+
+By notice dated Feb. 13, 2001, 66 F.R. 10910, effective Apr. 1, 2001, in subsec. (b)(1), (2), dollar amount “10,775” was adjusted to “11,625”.
+
+By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (b)(1), (2), dollar amount “10,000” was adjusted to “10,775”.
 

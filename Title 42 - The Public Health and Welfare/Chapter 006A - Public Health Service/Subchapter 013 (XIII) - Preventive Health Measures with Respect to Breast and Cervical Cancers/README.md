@@ -1,7 +1,5 @@
 ### SUBCHAPTER XIII—PREVENTIVE HEALTH MEASURES WITH RESPECT TO BREAST AND CERVICAL CANCERS
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section.”</i>
-
 
 ---
 

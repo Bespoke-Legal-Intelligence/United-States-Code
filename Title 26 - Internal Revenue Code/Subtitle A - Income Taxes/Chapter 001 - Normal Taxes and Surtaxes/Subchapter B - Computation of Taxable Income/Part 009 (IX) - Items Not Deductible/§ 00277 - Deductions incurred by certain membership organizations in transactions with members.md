@@ -20,15 +20,15 @@ Subsection (a) shall not apply to any organization—
 
 #### References in Text
 
-The Securities Exchange Act of 1934, referred to in subsec. (b)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (b)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, asamended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 The Commodity Exchange Act, referred to in subsec. (b)(3), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 #### Amendments
 
-1986—Subsec. (b)(4). Pub. L. 99–514 added par. (4).
+<b>1986</b>—Subsec. (b)(4). Pub. L. 99–514 added par. (4).
 
-1976—Subsec. (a). Pub. L. 94–568 provided that the deductions provided by sections 243, 244, and 245 (relating to dividends received by corporations) shall not be allowed to any organization to which this section applies for the taxable year.
+<b>1976</b>—Subsec. (a). Pub. L. 94–568 provided that the deductions provided by sections 243, 244, and 245 (relating to dividends received by corporations) shall not be allowed to any organization to which this section applies for the taxable year.
 
 #### Effective Date of 1986 Amendment
 

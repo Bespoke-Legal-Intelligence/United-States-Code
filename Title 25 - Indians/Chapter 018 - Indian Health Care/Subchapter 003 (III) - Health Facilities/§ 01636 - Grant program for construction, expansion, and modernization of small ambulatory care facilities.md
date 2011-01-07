@@ -52,5 +52,5 @@ The Indian Self-Determination Act, referred to in subsecs. (a)(2) and (b)(1)(C)(
 
 #### Amendments
 
-1992—Pub. L. 102–573 amended section generally, substituting provisions relating to grant program for construction, expansion, and modernization of small ambulatory care facilities for provisions relating to conveyance of certain real property under Alaska Native Claims Settlement Act.
+<b>1992</b>—Pub. L. 102–573 amended section generally, substituting provisions relating to grant program for construction, expansion, and modernization of small ambulatory care facilities for provisions relating to conveyance of certain real property under Alaska Native Claims Settlement Act.
 

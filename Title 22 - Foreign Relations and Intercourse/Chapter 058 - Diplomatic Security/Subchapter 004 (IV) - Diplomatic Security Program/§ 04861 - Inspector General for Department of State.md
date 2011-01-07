@@ -30,7 +30,7 @@ Section is comprised of section 413 of Pub. L. 99–399, as amended. Subsec. (e)
 
 #### Amendments
 
-1987—Pub. L. 100–204 struck out former subsec. (a) designation and heading “Inspector General of Department of State”, redesignated former pars. (1) to (5) as subsecs. (a) to (e), respectively, and struck out former subsec. (b) which related to establishment of the Office of Policy and Program Review. See Codification note above.
+<b>1987</b>—Pub. L. 100–204 struck out former subsec. (a) designation and heading “Inspector General of Department of State”, redesignated former pars. (1) to (5) as subsecs. (a) to (e), respectively, and struck out former subsec. (b) which related to establishment of the Office of Policy and Program Review. See Codification note above.
 
 #### Evaluation of Policies and Procedures of Department of State on Protection of Classified Information at Department Headquarters
 

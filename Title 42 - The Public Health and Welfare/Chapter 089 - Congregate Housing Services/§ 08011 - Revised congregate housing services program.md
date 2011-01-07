@@ -126,7 +126,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 #### (4) Service coordinator
 
-&emsp;Assistance under this section may be provided with respect to the employment of one or more individuals (hereinafter referred to as “service coordinator”) who may be responsible for—
+&emsp;Assistance under this section may be provided with respect to the employment of oneor more individuals (hereinafter referred to as “service coordinator”) who may be responsible for—
 
 &emsp;&emsp;(A) working with the professional assessment committee established under subsection (f) <sup>2</sup> of this section on an ongoing basis to assess the service needs of eligible residents;
 
@@ -142,7 +142,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 #### (5) Other services
 
-&emsp;Congregate services programs assisted under this section may include services for transportation, personal care, dressing, bathing, toileting, housekeeping, chore assistance, nonmedical counseling, assessment of the safetyof housing units, group and socialization activities, assistance with medications (in accordance with any applicable State law), case management, personal emergency response, and other services to prevent premature and unnecessary institutionalization of eligible project residents.
+&emsp;Congregate services programs assisted under this section may include services for transportation, personal care, dressing, bathing, toileting, housekeeping, chore assistance, nonmedical counseling, assessment of the safety of housing units, group and socialization activities, assistance with medications (in accordance with any applicable State law), case management, personal emergency response, and other services to prevent premature and unnecessary institutionalization of eligible project residents.
 
 #### (6) Determination of needs
 
@@ -292,7 +292,7 @@ The funds made available under this section shall be allocated by the Secretary 
 
 #### (D) Prohibition of substitution of funds
 
-&emsp;&emsp;The Secretary concerned shall require each State, Indian tribe, unit of general local government, and local nonprofit housing sponsor, that receives assistance under this section to maintain the same dollar amount of annual contribution that such State, Indian tribe, local government, or sponsor was making, if any, in support of services eligible for assistance under this section before the date of the submission of the application for such assistance.
+&emsp;&emsp;The Secretary concerned shall require each State, Indian tribe, unit of general local government, and local nonprofit housing sponsor, that receives assistance under this section to maintain the same dollar amount of annual contribution that such State, Indian tribe, local government, or sponsor was making, if any, in support of services eligible for assistance under thissection before the date of the submission of the application for such assistance.
 
 #### (E) Limitation
 
@@ -316,7 +316,7 @@ The funds made available under this section shall be allocated by the Secretary 
 
 #### (2) Effect of services
 
-&emsp;Except for wages paid under paragraph (1) of this subsection, services provided to a residentof an eligible housing project under a congregate services program under this section may not be considered as income for the purpose of determining eligibility for or the amount of assistance or aid furnished under any Federal, federally assisted, or State program based on need.
+&emsp;Except for wages paid under paragraph (1) of this subsection, services provided to a resident of an eligible housing project under a congregate services program under this section may not be considered as income for the purpose of determining eligibility for or the amount of assistance or aid furnished under any Federal, federally assisted, or State program based on need.
 
 #### (3) Eligibility and priority for 1978 Act recipients
 
@@ -456,11 +456,11 @@ Section was enacted as part of the Cranston-Gonzalez National Affordable Housing
 
 Section is comprised of section 802 of Pub. L. 101–625. Subsec. (p) of section 802 of Pub. L. 101–625 amended section 1437g of this title.
 
-November 28, 1990, referred to in subsecs. (i)(1)(B)(i) and (m), was in the original “the date of the enactment of this Act” and November 5, 1990, referred to in subsec. (j)(3), was in the original “the date of the enactment of this section”, see Effective Date note below.
+November 28, 1990, referred to in subsecs. (i)(1)(B)(i) and (m), was in the original “the date of the enactmentof this Act” and November 5, 1990, referred to in subsec. (j)(3), was in the original “the date of the enactment of this section”, see Effective Date note below.
 
 #### Amendments
 
-2008—Subsec. (d)(2)(A). Pub. L. 110–246, §4002(b)(1)(N), (2)(LL), substituted “Supplemental nutrition assistance program benefits” for “Food stamps” in heading.
+<b>2008</b>—Subsec. (d)(2)(A). Pub. L. 110–246, §4002(b)(1)(N), (2)(LL), substituted “Supplemental nutrition assistance program benefits” for “Food stamps” in heading.
 
 Subsec. (d)(2)(A)(i)(I). Pub. L. 110–246, §4002(b)(1)(B), (2)(LL), made technical amendment to reference in original act which appears in text as reference to section 2018 of title 7.
 
@@ -468,7 +468,7 @@ Subsec. (d)(2)(A)(i)(II). Pub. L. 110–246, §4115(c)(2)(I), struck out “(as 
 
 Pub. L. 110–246, §4115(c)(1)(A)(i), (B)(vi), substituted “benefits” for “coupons”.
 
-1992—Subsec. (d)(4). Pub. L. 102–550, §672, inserted after first sentence of concluding provisions “Such qualifications and standards shall include requiring each service coordinator to be trained in the aging process, elder services, disability services, eligibility for and procedures of Federal and applicable State entitlement programs, legal liability issues relating to providing service coordination, drug and alcohol use and abuse by the elderly, and mental health issues.”
+<b>1992</b>—Subsec. (d)(4). Pub. L. 102–550, §672, inserted after first sentence of concluding provisions “Such qualifications and standards shall include requiring each service coordinator to be trained in the aging process, elder services, disability services, eligibility for and procedures of Federal and applicable State entitlement programs, legal liability issues relating to providing service coordination, drug and alcohol use and abuse by the elderly, and mental health issues.”
 
 Subsec. (i)(1)(B)(i). Pub. L. 102–550, §604(b), substituted “6-year” for “3-year” in two places.
 
@@ -486,7 +486,7 @@ Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102�
 
 #### Effective Date
 
-This section was enacted as part of Pub. L. 101–625, which was approved Nov. 28, 1990. However, this sectionwas deemed enacted as of Nov. 5, 1990, by Pub. L. 101–507, title II, Nov. 5, 1990, 104 Stat. 1358, set out as an Effective Date of 1990 Amendment note under section 1701q of Title 12, Banks and Banking.
+This section was enacted as part of Pub. L. 101–625, which was approved Nov. 28, 1990. However, this section was deemed enacted as of Nov. 5, 1990, by Pub. L. 101–507, title II, Nov. 5, 1990, 104 Stat. 1358, set out as an Effective Date of 1990 Amendment note under section 1701q of Title 12, Banks and Banking.
 
 #### Regulations
 

@@ -12,7 +12,7 @@
 
 #### Amendments
 
-1988—Subsec. (b). Pub. L. 100–690 inserted “, or is deemed by the verifying officer to be mentally incompetent or otherwise incapable of knowingly and voluntarily consenting to the transfer,” after “under eighteen years of age”, “, guardian ad litem,” after “guardian”, and “The appointment of a guardian ad litem shall be independent of the appointment of counsel under section 4109 of this title.”
+<b>1988</b>—Subsec. (b). Pub. L. 100–690 inserted “, or is deemed by the verifying officer to be mentally incompetent or otherwise incapable of knowingly and voluntarily consenting to the transfer,” after “under eighteen years of age”, “, guardian ad litem,” after “guardian”, and “The appointment of a guardian ad litem shall be independent of the appointment of counsel under section 4109 of this title.”
 
 #### Authorization of Appropriations
 

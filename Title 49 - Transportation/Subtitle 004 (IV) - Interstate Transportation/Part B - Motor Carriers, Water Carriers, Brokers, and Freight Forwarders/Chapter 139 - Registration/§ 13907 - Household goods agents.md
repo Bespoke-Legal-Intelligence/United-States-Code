@@ -22,7 +22,7 @@ Right to defend.—The agent shall have the right to appear at such hearing and 
 
 &emsp;(3)
 
-Order.—If the agent does not appear at the hearing or if the Secretary finds that the agent has violated section 14901(e) or 14912 or is consistently not fit, willing, and able to provide adequate household goods transportation services (including accessorial and terminal services), the Secretary may issue an order to compel compliance with the requirement that the agent be fit, willing, and able. Thereafter, the Secretary may issue an order to limit, condition, or prohibit such agent from any involvement in the transportation or provision of services incidental to the transportation of household goods if, after notice and an opportunity for a hearing, the Secretary finds that such agent, within a reasonable time after the date of issuance of a compliance order under this section, but in no event less than 30 days after such date of issuance, has willfully failed to comply with such order.
+Order.—If the agent does not appear at the hearing or if the Secretary finds that the agent has violated section 14901(e) or 14912 or is consistently not fit, willing, and able to provide adequate household goods transportation services (including accessorial and terminal services), the Secretary may issue an order to compel compliance with the requirement that the agent be fit, willing, and able. Thereafter, the Secretary may issue an order to limit, condition, or prohibit such agent from any involvement in the transportation or provision of services incidental to the transportation ofhousehold goods if, after notice and an opportunity for a hearing, the Secretary finds that such agent, within a reasonable time after the date of issuance of a compliance order under this section, but in no event less than 30 days after such date of issuance, has willfully failed to comply with such order.
 
 &emsp;(4)
 
@@ -68,7 +68,7 @@ Transportation.—The term “transportation” means transportation that would 
 
 #### Historical and Revision Notes
 
-I74Pub. L. 104–287
+#### Pub. L. 104–287
 
 This amends 49:13907(e)(1) and (2) for clarity and consistency.
 
@@ -84,7 +84,7 @@ Provisions similar to those in this section were contained in section 10934 of t
 
 #### Amendments
 
-1996—Subsec. (e)(1). Pub. L. 104–287, §5(35)(A), substituted “December 31, 1995” for “the day before the effective date of this section”.
+<b>1996</b>—Subsec. (e)(1). Pub. L. 104–287, §5(35)(A), substituted “December 31, 1995” for “the day before the effective date of this section”.
 
 Subsec. (e)(2). Pub. L. 104–287, §5(35)(B), substituted “December 31, 1995” for “the day before such effective date”.
 

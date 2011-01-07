@@ -16,27 +16,27 @@
 
 (d) No report shall be required under this section after January 1, 2011.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2563, §1436; amended Pub. L. 101–237, title IV, §423(b)(1)(A), (4)(D), Dec. 18, 1989, 103 Stat. 2092; renumbered §3036, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title II, §207(c), Nov. 11, 1998, 112 Stat. 3328; Pub. L. 106–419, title IV, §403(c)(4), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 109–444, §4(b), Dec. 21, 2006, 120 Stat. 3308; Pub. L. 109–461, title III, §305(b), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3428, 3468.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2563, §1436; amended Pub. L. 101–237, title IV, §423(b)(1)(A), (4)(D), Dec. 18, 1989, 103 Stat. 2092; renumbered §3036, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title II, §207(c), Nov. 11, 1998, 112 Stat. 3328; Pub. L. 106–419, title IV, §403(c)(4), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 109–444, §4(b), Dec. 21, 2006, 120 Stat. 3308; Pub. L. 109–461, title III,§305(b), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3428, 3468.)
 
 #### Amendments
 
-2006—Subsec. (d). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+<b>2006</b>—Subsec. (d). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Pub. L. 109–461, §305(b), substituted “January 1, 2011” for “January 1, 2005”.
 
 Pub. L. 109–444, which struck out subsec. (d), was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
-2000—Subsec. (d). Pub. L. 106–419 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
+<b>2000</b>—Subsec. (d). Pub. L. 106–419 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
 “(d)(1) The first report by the Secretary of Defense under this section shall be submitted not later than January 1, 1986.
 
 “(2) The first report by the Secretary under this section shall be submitted not later than January 1, 1988.”
 
-1998—Subsec. (b)(1)(C). Pub. L. 105–368 added cl. (C).
+<b>1998</b>—Subsec. (b)(1)(C). Pub. L. 105–368 added cl. (C).
 
-1991—Pub. L. 102–83 renumbered section 1436 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1436 of this title as this section.
 
-1989—Subsec. (a). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary shall” for “Administrator shall”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary shall” for “Administrator shall”.
 
 Subsec. (b). Pub. L. 101–237, §423(b)(4)(D), inserted “of Defense” after “Secretary” in introductory provisions and par. (2).
 

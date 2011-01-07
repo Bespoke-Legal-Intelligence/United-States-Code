@@ -24,7 +24,7 @@ This subchapter, referred to in text, was in the original “this subtitle”, m
 
 #### Amendments
 
-1981—Subsec. (b)(1). Pub. L. 97–98 substituted “Subcommittee on Food, Agricultural, and Forestry Research” for “Subcommittee on Food and Renewable Resources”.
+<b>1981</b>—Subsec. (b)(1). Pub. L. 97–98 substituted “Subcommittee on Food, Agricultural, and Forestry Research” for “Subcommittee on Food and Renewable Resources”.
 
 #### Effective Date of 1981 Amendment
 

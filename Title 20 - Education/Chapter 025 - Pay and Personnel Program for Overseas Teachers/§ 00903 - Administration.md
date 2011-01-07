@@ -32,11 +32,11 @@ Section was formerly classified to section 2353 of Title 5 prior to the general 
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–85, §1073(c)(9)(B), made technical correction to Pub. L. 104–201, §1606(b)(1)(A). See 1996 Amendment note below.
+<b>1997</b>—Subsec. (a). Pub. L. 105–85, §1073(c)(9)(B), made technical correction to Pub. L. 104–201, §1606(b)(1)(A). See 1996 Amendment note below.
 
 Subsec. (b)(1). Pub. L. 105–85, §1073(c)(9)(C), made technical correction to Pub. L. 104–201, §1606(b)(2)(B). See 1996 Amendment note below.
 
-1996—Subsec. (a). Pub. L. 104–201, §1606(b)(1)(B), substituted “the Department of Defense” for “his military department”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201, §1606(b)(1)(B), substituted “the Department of Defense” for “his military department”.
 
 Pub. L. 104–201, §1606(b)(1)(A), as amended by Pub. L. 105–85, §1073(c)(9)(B), substituted “Secretary of Defense shall” for “secretary of each military department in the Department of Defense shall”.
 
@@ -48,13 +48,13 @@ Subsec. (c). Pub. L. 104–201, §1606(b)(3), substituted “Secretary of Defens
 
 Subsec. (d). Pub. L. 104–201, §1606(b)(4), substituted “Secretary of Defense” for “Secretary of each military department”.
 
-1980—Subsec. (e). Pub. L. 96–470 struck out subsec. (e) which required the Secretary of Defense, on or before the 15th day of January in each calendar year beginning after Apr. 14, 1966, to report to the respective Committees on Post Office and Civil Service of the Senate and House of Representatives information on teachers separated from teaching positions subsequent to the close of the immediately preceding full school year and the number of new teachers appointed to teaching positions at the beginning of the school year current at time of the report, including the number of such new teachers obtained through voluntary reciprocal interchange agreements with school jurisdictions in the United States.
+<b>1980</b>—Subsec. (e). Pub. L. 96–470 struck out subsec. (e) which required the Secretary of Defense, on or before the 15th day of January in each calendar year beginning after Apr. 14, 1966, to report to the respective Committees on Post Office and Civil Service of the Senate and House of Representatives information on teachers separated from teaching positions subsequent to the close of the immediately preceding full school year and the number of new teachers appointed to teaching positions at the beginning of the school year current at time of the report, including the number of such new teachers obtained through voluntary reciprocal interchange agreements with school jurisdictions in the United States.
 
-1966—Subsec. (c). Pub. L. 89–391, §1(b), substituted provisions for fixing the basic compensation for teachers and teaching positions at rates equal to the average of the range of rates of basic compensation for similar positions of a comparable level of duties and responsibilities in urban school jurisdictions in the United States of 100,000 or more population for former provisions fixing such rates in relation to the rates of basic compensation for similar positions in the United States but not exceeding the highest rate of basic compensation for similar positions of a comparable level of duties and responsibilities under the municipal government of the District of Columbia.
+<b>1966</b>—Subsec. (c). Pub. L. 89–391, §1(b), substituted provisions for fixing the basic compensation for teachers and teaching positions at rates equal to the average of the range of rates of basic compensation for similar positions of a comparable level of duties and responsibilities in urban school jurisdictions in the United States of 100,000 or more population for former provisions fixing such rates in relation to the rates of basic compensation for similar positions in the United States but not exceeding the highest rate of basic compensation for similar positions of a comparable level of duties and responsibilities under the municipal government of the District of Columbia.
 
 Subsec. (e). Pub. L. 89–391, §1(c), inserted provisions designated as subsec. (c) to section 5 of Pub. L. 86–91, but codified as subsec. (e) of this section.
 
-1959—Subsec. (b). Pub. L. 86–370 substituted “(33)” for “(32)” in two places.
+<b>1959</b>—Subsec. (b). Pub. L. 86–370 substituted “(33)” for “(32)” in two places.
 
 #### Effective Date of 1997 Amendment
 

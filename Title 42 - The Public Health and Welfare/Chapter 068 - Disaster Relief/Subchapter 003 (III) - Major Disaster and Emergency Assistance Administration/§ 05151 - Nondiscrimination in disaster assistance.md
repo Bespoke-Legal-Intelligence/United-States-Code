@@ -10,13 +10,17 @@ As a condition of participation in the distribution of assistance or supplies un
 
 (Pub. L. 93–288, title III, §308, formerly §311, May 22, 1974, 88 Stat. 150; renumbered §308 and amended Pub. L. 100–707, title I, §105(f), Nov. 23, 1988, 102 Stat. 4691; Pub. L. 109–295, title VI, §689a, Oct. 4, 2006, 120 Stat. 1449.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+
 #### Prior Provisions
 
 A prior section 308 of Pub. L. 93–288 was renumbered section 305 by Pub. L. 100–707 and is classified to section 5148 of this title.
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–295 inserted “disability, English proficiency,” after “age,”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–295 inserted “disability, English proficiency,” after “age,”.
 
-1988—Subsec. (b). Pub. L. 100–707 substituted “this chapter” for “section 5172 or 5174 of this title” after “assistance under”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–707 substituted “this chapter” for “section 5172 or 5174 of this title” after “assistance under”.
 

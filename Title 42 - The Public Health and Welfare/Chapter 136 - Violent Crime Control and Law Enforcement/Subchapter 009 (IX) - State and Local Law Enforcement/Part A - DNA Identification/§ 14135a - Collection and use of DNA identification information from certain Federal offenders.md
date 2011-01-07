@@ -76,7 +76,7 @@ Section was enacted as part of the DNA Analysis Backlog Elimination Act of 2000,
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–162, §1004(a)(1), added subpar. (A) and designated existing provisions as subpar. (B).
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–162, §1004(a)(1), added subpar. (A) and designated existing provisions as subpar. (B).
 
 Subsec. (a)(1)(A). Pub. L. 109–248 substituted “arrested, facing charges, or convicted” for “arrested”.
 
@@ -84,7 +84,7 @@ Subsec. (a)(3), (4). Pub. L. 109–162, §1004(a)(1)(B), substituted “Attorney
 
 Subsec. (b). Pub. L. 109–162, §1004(a)(2), substituted “Attorney General, the Director of the Bureau of Prisons,” for “Director of the Bureau of Prisons”.
 
-2004—Subsec. (d). Pub. L. 108–405 reenacted heading without change and amended text generally, substituting pars. (1) to (4) for former pars. (1) and (2) with multiple subpars. listing specific offenses.
+<b>2004</b>—Subsec. (d). Pub. L. 108–405 reenacted heading without change and amended text generally, substituting pars. (1) to (4) for former pars. (1) and (2) with multiple subpars. listing specific offenses.
 
-2001—Subsec. (d)(2). Pub. L. 107–56 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The initial determination of qualifying Federal offenses shall be made not later than 120 days after December 19, 2000.”
+<b>2001</b>—Subsec. (d)(2). Pub. L. 107–56 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The initial determination of qualifying Federal offenses shall be made not later than 120 days after December 19, 2000.”
 

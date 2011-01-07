@@ -6,7 +6,7 @@ The purposes of this subpart are as follows:
 
 &emsp;(1) To support local efforts to enhance the early language, literacy, and prereading development of preschool age children, particularly those from low-income families, through strategies and professional development that are based on scientifically based reading research.
 
-&emsp;(2) To provide preschool age children with cognitive learning opportunities in high-quality language and literature-rich environments, so that the children can attain the fundamental knowledge and skills necessary for optimal reading development in kindergarten and beyond.
+&emsp;(2) To provide preschool age children with cognitive learning opportunities in high-quality language and literature-rich environments, so that the children can attain the fundamental knowledge and skills necessary for optimalreading development in kindergarten and beyond.
 
 &emsp;(3) To demonstrate language and literacy activities based on scientifically based reading research that supports the age-appropriate development of—
 

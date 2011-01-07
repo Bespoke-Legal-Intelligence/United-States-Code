@@ -34,5 +34,5 @@ Section 1135g, Pub. L. 89–329, title X, §1091, as added Pub. L. 103–382, ti
 
 #### Amendments
 
-2008—Pub. L. 110–315 substituted “fiscal year 2009 and each of the five succeeding fiscal years to carry out this subpart” for “fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years to carry out this subpart”.
+<b>2008</b>—Pub. L. 110–315 substituted “fiscal year 2009 and each of the five succeeding fiscal years to carry out this subpart” for “fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years to carry out this subpart”.
 

@@ -2,7 +2,7 @@
 
 If it is determined that, upon the admission of a new class to the Academy, the number of cadets at the Academy will be below the authorized number, the Secretary of the Army may fill the vacancies by nominating additional cadets from qualified candidates designated as alternates and from other qualified candidates who competed for nomination and are recommended and found qualified by the Academic Board. At least three-fourths of those nominated under this section shall be selected from qualified alternates nominated by the persons named in clauses (2) through (8) of section 4342(a) of this title, and the remainder from qualified candidates holding competitive nominations under any other provision of law. An appointment under this section is an additional appointment and is not in place of an appointment otherwise authorized by law.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 242; Pub. L. 88–276, §1(2), Mar. 3, 1964, 78 Stat. 150; Pub. L. 93–171, §1(5), Nov. 29, 1973, 87 Stat. 690; Pub. L. 102–25, title VII, §701(f)(5), Apr. 6, 1991, 105 Stat. 115.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 242; Pub. L. 88–276, §1(2), Mar. 3, 1964, 78 Stat. 150; Pub. L.93–171, §1(5), Nov. 29, 1973, 87 Stat. 690; Pub. L. 102–25, title VII, §701(f)(5), Apr. 6, 1991, 105 Stat. 115.)
 
 Historical and Revision Notes
 
@@ -22,11 +22,11 @@ The words “If it is determined” are substituted for the words “When upon d
 
 #### Amendments
 
-1991—Pub. L. 102–25 substituted “clauses (2) through (8)” for “clauses (2)–(9)”.
+<b>1991</b>—Pub. L. 102–25 substituted “clauses (2) through (8)” for “clauses (2)–(9)”.
 
-1973—Pub. L. 93–171 substituted “clauses (2)–(9) of section 4342(a)” for “clauses (2)–(8) of section 4342(a)”.
+<b>1973</b>—Pub. L. 93–171 substituted “clauses (2)–(9) of section 4342(a)” for “clauses (2)–(8) of section 4342(a)”.
 
-1964—Pub. L. 88–276, among other changes, increased the percentage of nominees to be selected from two-thirds to three-fourths, and struck out “as are necessary to meet the needs of the Army and Air Force, but not more than the authorized strength of the Corps of Cadets” after “Academic Board”.
+<b>1964</b>—Pub. L. 88–276, among other changes, increased the percentage of nominees to be selected from two-thirds to three-fourths, and struck out “as are necessary to meet the needs of the Army and Air Force, but not more than the authorized strength of the Corps of Cadets” after “Academic Board”.
 
 #### Effective Date of 1973 Amendment
 

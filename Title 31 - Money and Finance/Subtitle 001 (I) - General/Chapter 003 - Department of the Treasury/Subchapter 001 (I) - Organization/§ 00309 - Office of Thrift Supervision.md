@@ -10,9 +10,9 @@ Section 3(a) of the Home Owners’ Loan Act, referred to in text, is classified 
 
 #### Prior Provisions
 
-A prior section 309 was renumbered section 312 of this title.
+A prior section 309 was renumbered section 315 of this title.
 
 #### Amendments
 
-1994—Pub. L. 103–272 substituted “section 3(a)” for “section 2A(a)”.
+<b>1994</b>—Pub. L. 103–272 substituted “section 3(a)” for “section 2A(a)”.
 

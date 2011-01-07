@@ -16,7 +16,7 @@
 
 (c) If such a board finds a person qualified, the Chief of the National Guard Bureau may issue to him a certificate of eligibility for Federal recognition for the office for which he was found qualified. If he is originally appointed or promoted within two years to that office, he is entitled to Federal recognition without further examination, except as to physical condition.
 
-(d) Subject to subsection (a)(1) and (2) and to such physical examination as may be prescribed, Federal recognition shall be extended to each officer of the Army Reserve who has qualified forappointment as an officer of the Army National Guard in his reserve grade. Similarly, Federal recognition shall be extended to each officer of the Air Force Reserve who has qualified for appointment as an officer of the Air National Guard. Federal recognition extended under this subsection is effective from the date of appointment in the Army National Guard or the Air National Guard, as the case may be.
+(d) Subject to subsection (a)(1) and (2) and to such physical examination as may be prescribed, Federal recognition shall be extended to each officer of the Army Reserve who has qualified for appointment as an officer of the Army National Guard in his reserve grade. Similarly, Federal recognition shall be extended to each officer of the Air Force Reserve who has qualified for appointment as an officer of the Air National Guard. Federal recognition extended under this subsection is effective from the date of appointment in the Army National Guard or the Air National Guard, as the case may be.
 
 (e) Subject to subsection (a)(1) and (2), Federal recognition shall be extended to each officer of the Air Force Reserve who is appointed in a commissioned grade in the Air National Guard to fill a vacancy, if on the date on which he is appointed his reserve grade is the same as the grade in which he is appointed or his name is on a recommended list for promotion to that reserve grade.
 
@@ -108,13 +108,13 @@ In subsection (e), the words “to subsection (a)(1) and (2)” are inserted, si
 
 #### Amendments
 
-1994—Subsec. (a)(3). Pub. L. 103–337 struck out “and sections 8365 and 8366 of title 10” after “of this section”.
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–337 struck out “and sections 8365 and 8366 of title 10” after “of this section”.
 
-1980—Subsec. (g). Pub. L. 96–535 struck out subsec. (g) which prohibited extension of Federal recognition to members of the Virgin Islands National Guard in any grade above colonel.
+<b>1980</b>—Subsec. (g). Pub. L. 96–535 struck out subsec. (g) which prohibited extension of Federal recognition to members of the Virgin Islands National Guard in any grade above colonel.
 
-1972—Subsec. (g). Pub. L. 92–492 added subsec. (g).
+<b>1972</b>—Subsec. (g). Pub. L. 92–492 added subsec. (g).
 
-1958—Subsec. (a)(3). Pub. L. 85–861, §2(6)(A), substituted “subsections (d) and (e) of this section and sections 8365 and 8366 of title 10” for “subsection (d)”.
+<b>1958</b>—Subsec. (a)(3). Pub. L. 85–861, §2(6)(A), substituted “subsections (d) and (e) of this section and sections 8365 and 8366 of title 10” for “subsection (d)”.
 
 Subsecs. (e), (f). Pub. L. 85–861, §2(6)(B), added subsecs. (e) and (f).
 

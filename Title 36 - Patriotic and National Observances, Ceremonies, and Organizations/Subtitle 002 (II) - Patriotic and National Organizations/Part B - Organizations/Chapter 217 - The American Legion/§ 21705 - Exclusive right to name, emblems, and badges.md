@@ -14,7 +14,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-21705D36:44 (words between 4th and 5th semicolons).DSept. 16, 1919, ch. 59, §§4 (words between 4th and 5th semicolons), 8, 41 Stat. 285; June 26, 1953, ch. 153, 67 Stat. 82.
+21705
+
+36:44 (words between 4th and 5th semicolons).
+
+Sept. 16, 1919, ch. 59, §§4 (words between 4th and 5th semicolons), 8, 41 Stat. 285; June 26, 1953, ch. 153, 67 Stat. 82.
 
 &nbsp;
 
@@ -22,5 +26,5 @@ Historical and Revision Notes
 
 &nbsp;
 
-The word “sole” is omitted as included in “exclusive”. The words “to have and”, “in carrying out its purposes”, and “in carrying out the purposes of the corporation” are omitted as unnecessary.
+The word “sole” is omitted as included in “exclusive”. The words “to have and”, “in carrying out itspurposes”, and “in carrying out the purposes of the corporation” are omitted as unnecessary.
 

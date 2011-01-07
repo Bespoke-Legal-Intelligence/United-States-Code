@@ -146,7 +146,7 @@ In this chapter:
 
 #### (18) Labor market area
 
-&emsp;The term “labor market area” means an economically integrated geographic area within which individuals can reside and find employment within a reasonable distance or can readily change employment without changing their place of residence. Such an area shall be identified in accordance with criteria used by the Bureau of Labor Statistics of the Department of Labor in defining such areas or similar criteria established by a Governor.
+&emsp;The term “labor market area” means an economically integrated geographic area within which individuals can reside and find employment within a reasonable distance or can readily change employment without changing their place of residence. Such an area shall be identified in accordance with criteria used bythe Bureau of Labor Statistics of the Department of Labor in defining such areas or similar criteria established by a Governor.
 
 #### (19) Literacy
 
@@ -186,7 +186,7 @@ In this chapter:
 
 &emsp;&emsp;(C) is a member of a household that receives (or has been determined within the 6-month period prior to application for the program involved to be eligible to receive) supplemental nutrition assistance program benefits pursuant to the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.);
 
-&emsp;&emsp;(D) qualifies as a homeless individual, as defined in subsections (a) and (c) of section 11302 of title 42;
+&emsp;&emsp;(D) qualifies as a homeless individual, as defined in subsections (a) and (c) <sup>1</sup> of section 11302 of title 42;
 
 &emsp;&emsp;(E) is a foster child on behalf of whom State or local government payments are made; or
 
@@ -232,7 +232,7 @@ In this chapter:
 
 #### (32) Outlying area
 
-&emsp;The term “outlying area” means the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the MarshallIslands, the Federated States of Micronesia, and the Republic of Palau.
+&emsp;The term “outlying area” means the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
 
 #### (33) Out-of-school youth
 
@@ -320,7 +320,7 @@ In this chapter:
 
 #### (A) Veteran
 
-&emsp;&emsp;The term “veteran” means an individual who served in the active military, naval, orair service, and who was discharged or released from such service under conditions other than dishonorable.
+&emsp;&emsp;The term “veteran” means an individual who served in the active military, naval, or air service, and who was discharged or released from such service under conditions other than dishonorable.
 
 #### (B) Recently separated veteran
 
@@ -346,11 +346,13 @@ In this chapter:
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in text, was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 The Food and Nutrition Act of 2008, referred to in par. (25)(C), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
-This Act, referred to in par. (27)(A), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+Subsection (c) of section 11302 of title 42, referred to in par. (25)(D), was redesignated (d) by Pub. L. 111–22, div. B, §1003(a)(1), May 20, 2009, 123 Stat. 1664.
+
+This Act, referred to in par. (27)(A), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Codification
 
@@ -362,17 +364,17 @@ Provisions similar to this section were contained in section 1503 of this title 
 
 #### Amendments
 
-2008—Par. (25)(C). Pub. L. 110–246, §4002(b)(1)(B), (E), (2)(R), substituted “supplemental nutrition assistance program benefits” for “food stamps” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+<b>2008</b>—Par. (25)(C). Pub. L. 110–246, §4002(b)(1)(B), (E), (2)(R), substituted “supplemental nutrition assistance program benefits” for “food stamps” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
-2006—Par. (3). Pub. L. 109–270, §2(h)(1), substituted “given the term ‘area career and technical education school’ ” for “given the term” and made technical amendment to reference in original act which appears in text as reference to section 2302 of title 20.
+<b>2006</b>—Par. (3). Pub. L. 109–270, §2(h)(1), substituted “given the term ‘area career and technical education school’ ” for “given the term” and made technical amendment to reference in original act which appears in text as reference to section 2302 of title 20.
 
 Par. (50). Pub. L. 109–270, §2(h)(2), substituted “given the term ‘career and technical education’ in section 2302 of title 20.” for “given the term in section 2471 of title 20.”
 
-2002—Pars. (23), (40). Pub. L. 107–110 substituted “section 7801 of title 20” for “section 8801 of title 20”.
+<b>2002</b>—Pars. (23), (40). Pub. L. 107–110 substituted “section 7801 of title 20” for “section 8801 of title 20”.
 
-2000—Par. (25)(D). Pub. L. 106–400 made technical amendment to reference in original act which appears in text as reference to section 11302 of title 42.
+<b>2000</b>—Par. (25)(D). Pub. L. 106–400 made technical amendment to reference in original act which appears in text as reference to section 11302 of title 42.
 
-1998—Par. (3). Pub. L. 105–332 substituted “section 2302 of title 20” for “section 2471 of title 20”.
+<b>1998</b>—Par. (3). Pub. L. 105–332 substituted “section 2302 of title 20” for “section 2471 of title 20”.
 
 Par. (35). Pub. L. 105–244 substituted “section 1002 of title 20” for “section 1088 of title 20”.
 
@@ -469,4 +471,78 @@ Sec. 3. <i>Effect on Prior Orders.</i>
 (b) <i>Revocation of Executive Order 13174</i>. Executive Order 13174 of October 27, 2000, relating to the establishment of the Commission on Workers, Communities, and Economic Change in the New Economy, is revoked.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Establishing a Task Force on Skills for America's Future
+
+Memorandum of President of the United States, Oct. 4, 2010, 75 F.R. 62309, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+In order to compete in the global economy, the United States needs the most educated workforce in the world. The high-wage jobs of the 21st century will require more knowledge and skills than the jobs of the past. We therefore must develop innovative strategies to train more Americans with the skills that businesses and the economy will need to ensure American competitiveness.
+
+Community colleges are a key part of our education system, providing a flexible and affordable place to sharpen relevant workforce skills and align them with the needs of employers in their communities. Traditional four-year colleges, on-line institutions, and nontraditional educational outlets also can play an essential role in providing training opportunities. To prepare students for 21st-century jobs, these institutions need to develop flexible, affordable, and responsive training programs that meet regional and national economic needs. An important way to ensure that training programs meet such needs is through partnerships between these institutions and labor unions, small businesses, and other regional employers. As educational institutions develop these innovative programs, we should assess what works and what does not, so that we reward excellent outcomes and true innovation that meets the needs of entrepreneurs and other employers in every part of the country, from rural communities to urban centers.
+
+Therefore, I am establishing a task force to develop skills for America's future by identifying, developing, and increasing the scale of promising approaches to improving the skills of our Nation's workers. By coordinating the work of relevant agencies with that of nonprofits, labor unions, and private sector organizations, and by leveraging the assets of these entities, this effort will build better partnerships between businesses, community colleges, and other training providers to get Americans trained for the jobs of today and tomorrow.
+
+Section 1. <i>Establishment</i>. There is established an interagency Task Force on Skills for America's Future (Task Force) to ensure that Federal policies promote innovative training programs and curricula, including successful public-private partnerships, at community colleges as well as in other settings, that will prepare the American workforce for 21st-century jobs. The Chair of the Council of Economic Advisers, the Assistant to the President for Economic Policy, and the Assistant to the President for Domestic Policy shall serve as Co-Chairs of the Task Force.
+
+Sec. 2. <i>Membership</i>. In addition to the Co-Chairs, the Task Force shall consist of the following members, or any senior official designated by one of the following members who is a part of the member's department, agency, or office, and who is a full time employee of the Federal Government:
+
+(a) the Secretary of Defense;
+
+(b) the Secretary of Agriculture;
+
+(c) the Secretary of Commerce;
+
+(d) the Secretary of Labor;
+
+(e) the Secretary of Health and Human Services;
+
+(f) the Secretary of Transportation;
+
+(g) the Secretary of Energy;
+
+(h) the Secretary of Education;
+
+(i) the Secretary of Veterans Affairs;
+
+(j) the Director of the Office of Management and Budget;
+
+(k) the Administrator of the Small Business Administration;
+
+(l) the Director of the Office of Science and Technology Policy; and
+
+(m) the heads of other executive departments, agencies, or offices as the Co-Chairs may designate.
+
+Sec. 3. <i>Administration</i>. The Council of Economic Advisers shall provide administrative support for the Task Force to the extent permitted by law and within existing appropriations.
+
+Sec. 4. <i>Mission and Functions</i>. The Task Force shall work across executive departments and agencies to ensure that Federal policies facilitate, and offer incentives for, innovative career-training and education opportunities at community colleges as well as in other settings, and that these opportunities are directly related to skills and job requirements across a range of industries. Using the best evidence available regarding effective practice, the Task Force shall develop recommendations and options for meeting the following objectives:
+
+(a) improved public-private collaboration to develop career pathway and training programs with effective curricula, certifiable skills, and industry-recognized credentials and degrees;
+
+(b) identification of opportunities to amplify, accelerate, or increase the scale of, successful public-private partnerships that match trained workers with prospective employers;
+
+(c) identification and development of stackable credentials that provide entry to and advancement along a career pathway in an in-demand occupation;
+
+(d) outreach to relevant stakeholders—including industry, the adult workforce, younger students, educational institutions, labor unions, policymakers, and community leaders—with expertise in skill development;
+
+(e) alignment of workforce training programs funded by the Departments of Education and Labor, as well as other Federal agencies, with innovative practices and regional market demands, to build on effective skills-based training for adult workers and younger students, including individuals with disabilities;
+
+(f) partnership with appropriate non-profit entities to engage the private sector in developing effective training programs that provide students with recognizable and portable skills that are needed in the marketplace; and
+
+(g) greater use of technology to improve training, skills assessment, and labor market information.
+
+Sec. 5. <i>General Provisions.</i>
+
+(a) This memorandum shall be implemented consistent with applicable law and subject to the availability of any necessary appropriations.
+
+(b) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(c) The heads of executive departments and agencies shall assist and provide information to the Task Force, consistent with applicable law, as may be necessary to carry out the functions of the Task Force. Each executive department, agency, and office shall bear its own expenses of participating in the Task Force.
+
+(d) The Chair of the Council of Economic Advisers is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

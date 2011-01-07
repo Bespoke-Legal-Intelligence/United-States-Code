@@ -2,7 +2,7 @@
 
 #### (a) Composition; appointment; establishment of policies of the Foundation
 
-The Board shall consist of twenty-four members to be appointed by the President, by and with the advice and consent of the Senate, and of the Director ex officio. In addition to any powers and functions otherwise granted to it by this chapter, the Board shall establish the policies of the Foundation, within the framework ofapplicable national policies as set forth by the President and the Congress.
+The Board shall consist of twenty-four members to be appointed by the President, by and with the advice and consent of the Senate, and of the Director ex officio. In addition to any powers and functions otherwise granted to it by this chapter, the Board shall establish the policies of the Foundation, within the framework of applicable national policies as set forth by the President and the Congress.
 
 #### (b) Executive Committee; delegation of powers and functions
 
@@ -26,7 +26,7 @@ The election of the Chairman and Vice Chairman of the Board shall take place at 
 
 #### (g) Appointment and assignment of staff; compensation; security requirements
 
-The Board may, with the concurrence of a majority of its members, permit the appointment of a staff consisting of not more than 5 professional staff members, technical and professional personnel on leave of absence from academic, industrial, or research institutions for a limited term, and such operations and support staff members as may be necessary. Such staff shall be appointed by the Chairman and assigned at the direction of the Board. The professional members and limited term technical and professional personnel of such staff may be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and the provisions of chapter 51 of such title relating to classification, and shall be compensated at a rate not exceeding the maximum rate payable under section 5376 of such title, as may be necessary to provide for the performance of such duties as may be prescribed by the Board in connection with the exercise of its powers and functions under this chapter. Section 1873(a)(3) of this title shall apply to each limited term appointment of technical and professional personnel under this subsection. Each appointment under this subsection shall be subject to the same security requirements as those required for personnel of the Foundation appointed under section 1873(a) of this title.
+The Board may, with the concurrence of a majority of its members, permit the appointmentof a staff consisting of professional staff members, technical and professional personnel on leave of absence from academic, industrial, or research institutions for a limited term, and such operations and support staff members as may be necessary. Such staff shall be appointed by the Chairman and assigned at the direction of the Board. The professional members and limited term technical and professional personnel of such staff may be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and the provisions of chapter 51 of such title relating to classification, and shall be compensated at a rate not exceeding the maximum rate payable under section 5376 of such title, as may be necessary to provide for the performance of such duties as may be prescribed by the Board in connection with the exercise of its powers and functions under this chapter. Section 1873(a)(3) of this title shall apply to each limited term appointment of technical and professional personnel under this subsection. Each appointment under this subsection shall be subject to the same security requirements as those required for personnel of the Foundation appointed under section 1873(a) of this title.
 
 #### (h) Special commissions
 
@@ -40,7 +40,7 @@ The Board is also authorized to appoint from among its members such committees a
 
 (1) The Board shall render to the President and the Congress no later than January 15 of each even numbered year, a report on indicators of the state of science and engineering in the United States.
 
-(2) The Board shall render to the President and the Congress reports on specific, individual policy matters related to science and engineering and education in science and engineering, as the Board, the President, or the Congress determines the need for such reports.
+(2) The Board shall render to the President and the Congress reports on specific, individual policy matters within the authority of the Foundation (or otherwise as requested by the Congress or the President) related to science and engineering and education in science and engineering, as the Board, the President, or the Congress determines the need for such reports.
 
 #### (k) Closed meetings
 
@@ -48,45 +48,47 @@ Portions of Board meetings in which the Board considers proposed Foundation budg
 
 #### (<i>l</i>) Financial disclosure report for Board members
 
-Members of the Board shall be required to file a financial disclosure report under title II of theEthics in Government Act of 1978 (5 U.S.C. App.; 92 Stat. 1836), except that such reports shall be held confidential and exempt from any law otherwise requiring their public disclosure.
+Members of the Board shall be required to file a financial disclosure report under title II of the Ethics in Government Act of 1978 (5 U.S.C. App.; 92 Stat. 1836), except that such reports shall be held confidential and exempt from any law otherwise requiring their public disclosure.
 
-(May 10, 1950, ch. 171, §4, 64 Stat. 150; Pub. L. 86–232, §2, Sept. 8, 1959, 73 Stat. 467; Pub. L. 86–507, §1(36), June 11, 1960, 74 Stat. 202; Pub. L. 90–407, §2, July 18, 1968, 82 Stat. 361; Pub. L. 94–273, §11(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 94–282, title V, §503, May 11, 1976, 90 Stat. 473; Pub. L. 94–471, §9, Oct. 11, 1976, 90 Stat. 2057; Pub. L. 95–99, §12(b), formerly §14(b), Aug. 15, 1977, 91 Stat. 835, renumbered §12(b), Pub. L. 99–159, title I, §109(h), Nov. 22, 1985, 99 Stat. 890; Pub. L. 96–516, §21(a), Dec. 12, 1980, 94 Stat. 3010; Pub. L. 97–375, title II, §214, Dec. 21, 1982, 96 Stat. 1826; Pub. L. 99–159, title I, §§109(a), 110(a)(12), Nov. 22, 1985, 99 Stat. 889, 891; Pub. L. 100–570, title I, §§105(a), 108, Oct. 31, 1988, 102 Stat. 2868, 2869; Pub. L. 105–207, title II, §202(a)(1), July 29, 1998, 112 Stat. 873; Pub. L. 107–368, §15(a)(1), (c), Dec. 19, 2002, 116 Stat. 3058, 3059; Pub. L. 110–69, title VII, §§7015(b), 7016, Aug. 9, 2007, 121 Stat. 683, 684.)
+(May 10, 1950, ch. 171, §4, 64 Stat. 150; Pub. L. 86–232, §2, Sept. 8, 1959, 73 Stat. 467; Pub. L. 86–507, §1(36), June 11, 1960, 74 Stat. 202; Pub. L. 90–407, §2, July 18, 1968, 82 Stat. 361; Pub. L. 94–273, §11(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 94–282, title V, §503, May 11, 1976, 90 Stat. 473; Pub. L. 94–471, §9, Oct. 11, 1976, 90 Stat. 2057; Pub. L. 95–99, §12(b), formerly §14(b), Aug. 15, 1977, 91 Stat. 835, renumbered §12(b), Pub. L. 99–159, title I, §109(h), Nov. 22, 1985, 99 Stat. 890; Pub. L. 96–516, §21(a), Dec. 12, 1980, 94 Stat. 3010; Pub. L. 97–375, title II, §214, Dec. 21, 1982, 96 Stat. 1826; Pub. L. 99–159, title I, §§109(a), 110(a)(12), Nov. 22, 1985, 99 Stat. 889, 891; Pub. L. 100–570, title I, §§105(a), 108, Oct. 31, 1988, 102 Stat. 2868, 2869; Pub. L. 105–207, title II, §202(a)(1), July 29, 1998, 112 Stat. 873; Pub. L. 107–368, §15(a)(1), (c), Dec. 19, 2002, 116 Stat. 3058, 3059; Pub. L. 110–69, title VII, §§7015(b), 7016, Aug. 9, 2007, 121 Stat. 683, 684; Pub. L. 111–358, title V, §504(a), (b), Jan. 4, 2011, 124 Stat. 4006.)
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (g), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
-
-The Ethics in Government Act of 1978, referred to in subsec. (<i>l</i>), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. Title II of the Ethics in Government Act of 1978 was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 101–194, title II, §201, Nov. 30, 1989, 103 Stat. 1724. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
+The Ethics in Government Act of 1978, referred to in subsec. (<i>l</i>), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title II of the Ethics in Government Act of 1978 was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 101–194, title II, §201, Nov. 30, 1989, 103 Stat. 1724. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
 
 #### Amendments
 
-2007—Subsec. (g). Pub. L. 110–69, §7015(b), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to the appointment of a Board staff of not more than five professional staff members and any necessary clerical staff members and the compensation and security requirements for such staff.
+<b>2011</b>—Subsec. (g). Pub. L. 111–358, §504(a), struck out “not more than 5” before “professional staff members”.
+
+Subsec. (j)(2). Pub. L. 111–358, §504(b), inserted “within the authority of the Foundation (or otherwise as requested by the Congress or the President)” after “individual policy matters”.
+
+<b>2007</b>—Subsec. (g). Pub. L. 110–69, §7015(b), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to the appointment of a Board staff of not more than five professional staff members and any necessary clerical staff members and the compensation and security requirements for such staff.
 
 Subsec. (j). Pub. L. 110–69, §7016, substituted “President and” for “President, for submission to” in par. (1) and for “President for submission to” in par. (2).
 
-2002—Subsec. (e). Pub. L. 107–368, §15(a)(1), substituted “The Board shall adopt procedures governing the conduct of its meetings, including delivery of notice and a definition of a quorum, which in no case shall be less than one-half plus one of the confirmed members of the Board.” for “A majority of the members of the Board shall constitute a quorum. Each member shall be given notice, not less than fifteen days prior to any meeting, of the call of such meeting.”
+<b>2002</b>—Subsec. (e). Pub. L. 107–368, §15(a)(1), substituted “The Board shall adopt procedures governing the conduct of its meetings, including delivery of notice and a definition of a quorum, which in no case shall be less than one-half plus one of the confirmed members of the Board.” for “A majority of the members of the Board shall constitute a quorum. Each member shall be given notice, not less than fifteen days prior to any meeting, of the call of such meeting.”
 
 Subsec. (g). Pub. L. 107–368, §15(c), substituted “Such staff shall be appointed by the Chairman and assigned at the direction of the Board.” for “Such staff shall be appointed by the Director, after consultation with the chairman of the Board and assigned at the direction of the Board.”
 
-1998—Subsec. (g). Pub. L. 105–207, §202(a)(1)(A), substituted “the maximum rate payable under section 5376” for “the appropriate rate provided for individuals in grade GS–18 of the General Schedule under section 5332”.
+<b>1998</b>—Subsec. (g). Pub. L. 105–207, §202(a)(1)(A), substituted “the maximum rate payable under section 5376” for “the appropriate rate provided for individuals in grade GS–18 of the General Schedule under section 5332”.
 
 Subsecs. (k), (<i>l</i>). Pub. L. 105–207, §202(a)(1)(B), redesignated subsec. (k), relating to requirement of Board members to file financial disclosure report, as (<i>l</i>).
 
-1988—Subsec. (k). Pub. L. 100–570, §108, added subsec. (k) relating to requirement of Board members to file financial disclosure report.
+<b>1988</b>—Subsec. (k). Pub. L. 100–570, §108, added subsec. (k) relating to requirement of Board members to file financial disclosure report.
 
 Pub. L. 100–570, §105(a), added subsec. (k) relating to closed meetings.
 
-1985—Subsec. (c). Pub. L. 99–159, §110(a)(12), inserted “and engineering”, “and engineers”, and “the National Academy of Engineering,” and inserted “, engineering,” after “other scientific”.
+<b>1985</b>—Subsec. (c). Pub. L. 99–159, §110(a)(12), inserted “and engineering”, “and engineers”, and “the NationalAcademy of Engineering,” and inserted “, engineering,” after “other scientific”.
 
 Subsec. (e). Pub. L. 99–159, §109(a), struck out requirement that notice be made to members by registered or certified mail mailed to the last known address of record.
 
-1982—Subsec. (j). Pub. L. 97–375 substituted provisions requiring a report in each even numbered year on the state of science and engineering, and reports on specific policy matters, as needed, for provisions requiring the Board to render an annual report to the President, for submission to the Congress on or before March 31 in each year, to deal essentially, though not necessarily exclusively, with policy issues or matters affecting the Foundation or with which the Board in its official role as the policymaking body of the Foundation was concerned.
+<b>1982</b>—Subsec. (j). Pub. L. 97–375 substituted provisions requiring a report in each even numbered year on the state of science and engineering, and reports on specific policy matters, as needed, for provisions requiring the Board to render an annual report to the President, for submission to the Congress on or before March 31 in each year, to deal essentially, though not necessarily exclusively, with policy issues or matters affecting the Foundation or with which the Board in its official role as the policymaking body of the Foundation was concerned.
 
-1980—Subsec. (c). Pub. L. 96–516 inserted provisions respecting nominations of women and minority groups.
+<b>1980</b>—Subsec. (c). Pub. L. 96–516 inserted provisions respecting nominations of women and minority groups.
 
-1977—Subsec. (j). Pub. L. 95–99 added subsec. (j).
+<b>1977</b>—Subsec. (j). Pub. L. 95–99 added subsec. (j).
 
-1976—Subsec. (a). Pub. L. 94–471, §9(a), inserted reference to the framework of applicable national policies as set forth by the President and the Congress.
+<b>1976</b>—Subsec. (a). Pub. L. 94–471, §9(a), inserted reference to the framework of applicable national policies as set forth by the President and the Congress.
 
 Subsec. (g). Pub. L. 94–471, §9(b), inserted reference to consultation of the Director with the Chairman of the Board and substituted “GS–18” for “GS–15”.
 
@@ -96,7 +98,7 @@ Pub. L. 94–273 substituted “April” for “January”.
 
 Subsecs. (h) to (j). Pub. L. 94–282 redesignated subsecs. (h) to (j) as (g) to (i), respectively.
 
-1968—Subsec. (a). Pub. L. 90–407 substituted provisions which authorized the Board to establish the policies of the Foundation in addition to any powers and functions otherwise granted to it by this chapter, for provisions which authorized the Board, except as otherwise provided by this chapter, to exercise the authority granted to the Foundation by this chapter. Provisions of this subsection, which enumerated the qualifications of persons nominated for appointment to the Board and provided for the specified organizations to make recommendations to the President of individuals qualified for nomination, were designated as subsec. (c).
+<b>1968</b>—Subsec. (a). Pub. L. 90–407 substituted provisions which authorized the Board to establish the policies of the Foundation in addition to any powers and functions otherwise granted to it by this chapter, for provisions which authorized the Board, except as otherwise provided by this chapter, to exercise the authority granted to the Foundation by this chapter. Provisions of this subsection, which enumerated the qualifications of persons nominated for appointment to the Board and provided for the specified organizations to make recommendations to the President of individuals qualified for nomination, were designated as subsec. (c).
 
 Subsec. (b). Pub. L. 90–407 added subsec. (b). Former subsec. (b) redesignated (d).
 
@@ -104,15 +106,15 @@ Subsec. (c). Pub. L. 90–407 redesignated provisions of former subsec. (a) as (
 
 Subsec. (d). Pub. L. 90–407 redesignated former subsec. (b) as (d), substituted “term of office of each member” for “term of office of each voting member”, struck out “the terms of office of the members first taking office after May 10, 1950, shall expire, as designated by the President at the time of appointment, eight at the end of two years, eight at the end of four years, and eight at the end of six years, after May 10, 1950”, and provided for exemption of Director from prohibition against reappointment within two years following twelve consecutive years of Board membership. Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 90–407 redesignated former subsec. (d) as (e) and substituted “A majority of the membersof the Board shall constitute a quorum” for “A majority of the voting members of the Board shall constitute a quorum”. Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 90–407 redesignated former subsec. (d) as (e) and substituted “A majority of the members of the Board shall constitute a quorum” for “A majority of the voting members of the Board shall constitute a quorum”. Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 90–407 redesignated former subsec. (e) as (f) and substituted provisions that the election of the Chairman and Vice Chairman take place at each annual meeting occurring in an even-numbered year for provisions that their election take place at the first meeting of the National Science Board following the enactment of Pub. L. 86–232, and that thereafter such election take place at the second annual meeting occurring after each such election.
 
 Subsecs. (g) to (j). Pub. L. 90–407 added subsecs. (g) to (j).
 
-1960—Subsec. (d). Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
+<b>1960</b>—Subsec. (d). Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
 
-1959—Subsec. (d). Pub. L. 86–232 changed annual meeting of Board from first Monday in December to third Monday or other designated day in May.
+<b>1959</b>—Subsec. (d). Pub. L. 86–232 changed annual meeting of Board from first Monday in December to third Monday or other designated day in May.
 
 Subsec. (e). Pub. L. 86–232 substituted provision for an election of a Chairman and Vice Chairman of the Board at first meeting of Board following enactment of Pub. L. 86–232 and at each second annual meeting thereafter in place of provision for election of the first Chairman and Vice Chairman to serve until first Monday in December next succeeding date of election and for election of subsequent officers for terms of two years thereafter.
 

@@ -6,7 +6,7 @@ This chapter may be cited as “Longshore and Harbor Workers’ Compensation Act
 
 #### Amendments
 
-1984—Pub. L. 98–426 substituted “Longshore” for “Longshoremen's”.
+<b>1984</b>—Pub. L. 98–426 substituted “Longshore” for “Longshoremen's”.
 
 #### Effective Date of 1984 Amendment
 

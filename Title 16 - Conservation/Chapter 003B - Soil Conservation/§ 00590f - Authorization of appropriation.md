@@ -8,5 +8,5 @@ Appropriations for carrying out this chapter allocated for the production or pro
 
 #### Amendments
 
-1944—Act Sept. 21, 1944, inserted second par.
+<b>1944</b>—Act Sept. 21, 1944, inserted second par.
 

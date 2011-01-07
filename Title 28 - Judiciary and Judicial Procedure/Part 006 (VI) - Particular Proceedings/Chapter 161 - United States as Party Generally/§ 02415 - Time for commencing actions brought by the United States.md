@@ -12,7 +12,7 @@
 
 (f) The provisions of this section shall not prevent the assertion, in an action against the United States or an officer or agency thereof, of any claim of the United States or an officer or agency thereof against an opposing party, a co-party, or a third party that arises out of the transaction or occurrence that is the subject matter of the opposing party's claim. A claim of the United States or an officer or agency thereof that does not arise out of the transaction or occurrence that is the subject matter of the opposing party's claim may, if time-barred, be asserted only by way of offset and may be allowed in an amount not to exceed the amount of the opposing party's recovery.
 
-(g) Any right of action subject to the provisions of this section which accrued prior to the date of enactment of this Act shall, for purposesof this section, be deemed to have accrued on the date of enactment of this Act.
+(g) Any right of action subject to the provisions of this section which accrued prior to the date of enactment of this Act shall, for purposes of this section, be deemed to have accrued on the date of enactment of this Act.
 
 (h) Nothing in this Act shall apply to actions brought under the Internal Revenue Code or incidental to the collection of taxes imposed by the United States.
 
@@ -30,21 +30,21 @@ This Act, referred to in subsec. (h), probably means Pub. L. 89–505, July 18, 
 
 #### Amendments
 
-1984—Subsecs. (a), (b). Pub. L. 98–250 substituted “Indian Claims Limitation Act of 1982” for “Indian Claims Act of 1982” wherever appearing.
+<b>1984</b>—Subsecs. (a), (b). Pub. L. 98–250 substituted “Indian Claims Limitation Act of 1982” for “Indian Claims Act of 1982” wherever appearing.
 
-1983—Subsec. (i). Pub. L. 97–452 substituted “section 3716 of title 31” for “section 5 of the Federal Claims Collection Act of 1966”.
+<b>1983</b>—Subsec. (i). Pub. L. 97–452 substituted “section 3716 of title 31” for “section 5 of the Federal Claims Collection Act of 1966”.
 
-1982—Subsec. (a). Pub. L. 97–394, §2(a), substituted “sixty days after the date of publication of the list required by section 4(c) of the Indian Claims Act of 1982: <i>Provided</i>, That, for those claims that are on either of the two lists published pursuant to the Indian Claims Act of 1982, any right of action shall be barred unless the complaint is filed within (1) one year after the Secretary of the Interior has published in the Federal Register a notice rejecting such claim or (2) three years after the date the Secretary of the Interior has submitted legislation or legislative report to Congress to resolve such claim” for “after December 31, 1982” in third proviso.
+<b>1982</b>—Subsec. (a). Pub. L. 97–394, §2(a), substituted “sixty days after the date of publication of the list required by section 4(c) of the Indian Claims Act of 1982: <i>Provided</i>, That, for those claims that are on either of the two lists published pursuant to the Indian Claims Act of 1982, any right of action shall be barred unless the complaint is filed within (1) one year after the Secretary of the Interior has published in the Federal Register a notice rejecting such claim or (2) three years after the date the Secretary of the Interior has submitted legislation or legislative report to Congress to resolve such claim” for “after December 31, 1982” in third proviso.
 
 Subsec. (b). Pub. L. 97–394, §2(b), substituted “sixty days after the date of the publication of the list required by section 4(c) of the Indian Claims Act of 1982: <i>Provided</i>, That, for those claims that are on either of the two lists published pursuant to the Indian Claims Act of 1982, any right of action shall be barred unless the complaint is filed within (1) one year after the Secretary of the Interior has published in the Federal Register a notice rejecting such claim or (2) three years after the Secretary of the Interior has submitted legislation or legislative report to Congress to resolve such claim” for “December 31, 1982” at end of proviso.
 
 Subsec. (i). Pub. L. 97–365 added subsec. (i).
 
-1980—Subsec. (a). Pub. L. 96–217, §1(a), substituted “December 31, 1982” for “April 30, 1980”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–217, §1(a), substituted “December 31, 1982” for “April 30, 1980”.
 
 Subsec. (b). Pub. L. 96–217, §1(b), substituted “December 31, 1982” for “April 1, 1980”.
 
-1977—Subsec. (a). Pub. L. 95–103, §1(a), substituted “after April 1, 1980” for “after August 18, 1977”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–103, §1(a), substituted “after April 1, 1980” for “after August 18, 1977”.
 
 Pub. L. 95–64, §1(a), substituted “unless the complaint is filed after August 18, 1977” for “unless the complaint is filed more than eleven years after the right of action accrued” in proviso covering actions for money damages brought by the United States for or on behalf of a recognized tribe, band, or group of American Indians, or on behalf of an individual Indian whose land is held in trust or restricted status based upon rights of action which accrued on July 18, 1966, in accordance with subsec. (g).
 
@@ -52,7 +52,7 @@ Subsec. (b). Pub. L. 95–103, §1(b), substituted “on or before April 1, 1980
 
 Pub. L. 95–64, §1(b), substituted “may be brought on or before August 18, 1977” for “may be brought within eleven years after the right of action accrues” in proviso covering actions for or on behalf of recognized tribes, bands, or groups of American Indians, including actions related to allotted trust or restricted Indian lands, or on behalf of an individual Indian whose land is held in trust or restricted status based upon rights of action which accrued on July 18, 1966, in accordance with subsec. (g).
 
-1972—Subsec. (a). Pub. L. 92–485, §1(a), inserted proviso relating to actions for money damages brought by the United States for or on behalf of a recognized tribe, band, or group of American Indians, or on behalf of an individual Indian whose land is held in trust or restricted status.
+<b>1972</b>—Subsec. (a). Pub. L. 92–485, §1(a), inserted proviso relating to actions for money damages brought by the United States for or on behalf of a recognized tribe, band, or group of American Indians, or on behalf of an individual Indian whose land is held in trust or restricted status.
 
 Pub. L. 92–353, §1(a), inserted proviso that an action for money damages brought by the United States on behalf of American Indians shall not be barred unless the complaint is filed more than six years and ninety days after the right of action accrued.
 
@@ -74,7 +74,7 @@ Sec. 3. (a) Within ninety days after the enactment of this Act \[Dec. 30, 1982\]
 
 “(b) Such list shall group the claims on a reservation-by-reservation, tribe-by-tribe, or State-by-State basis, as appropriate, and shall state the nature and geographic location of each claim and only such other additional information as may be needed to identify specifically such claims.
 
-“(c) Within thirty days after the publication of this list, the Secretary shall provide a copy of the Indian Claims Limitation Act of 1982 \[see Short Title of 1982Amendment note above\] and a copy of the Federal Register containing this list, or such parts as may be pertinent, to each Indian tribe, band or group whose rights or the rights of whose members could be affected by the provisions of section 2415 of title 28, United States Code.
+“(c) Within thirty days after the publication of this list, the Secretary shall provide a copy of the Indian Claims Limitation Act of 1982 \[see Short Title of 1982 Amendment note above\] and a copy of the Federal Register containing this list, or such parts as may be pertinent, to each Indian tribe, band or group whose rights or the rights of whose members could be affected by the provisions of section 2415 of title 28, United States Code.
 
 “
 

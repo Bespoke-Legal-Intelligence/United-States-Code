@@ -18,13 +18,13 @@
 
 #### Amendments
 
-1990—Pub. L. 101–508 struck out par. (2) and redesignated the succeeding pars. accordingly, which was executed with respect to the succeeding pars. (consisting of pars. (3) to (7)) by redesignating such pars. as (2) to (6), respectively. Prior to amendment, par. (2) provided a cross reference to section 1481 for overpayment in certain renegotiations of war contracts.
+<b>1990</b>—Pub. L. 101–508 struck out par. (2) and redesignated the succeeding pars. accordingly, which was executed with respect to the succeeding pars. (consisting of pars. (3) to (7)) by redesignating such pars. as (2) to (6), respectively. Prior to amendment, par. (2) provided a cross reference to section 1481 for overpayment in certain renegotiations of war contracts.
 
-1982—Par. (7). Pub. L. 97–248 added par. (7).
+<b>1982</b>—Par. (7). Pub. L. 97–248 added par. (7).
 
-1978—Par. (6). Pub. L. 95–600 inserted “regulated investment company or” before “real estate investment trust” and substituted “section 860” for “section 859”. Notwithstanding the directory language that the amendment be made to par. (5), the amendment was executed to par. (6) to reflect the probable intent of Congress.
+<b>1978</b>—Par. (6). Pub. L. 95–600 inserted “regulated investment company or” before “real estate investment trust” and substituted “section 860” for “section 859”. Notwithstanding the directory language that the amendment be made to par. (5), the amendment was executed to par. (6) to reflect the probable intent of Congress.
 
-1976—Par. (1). Pub. L. 94–455, §1901(b)(36)(D), (b)(37)(E), redesignated par. (3) as (1). Former par. (1), which referred to section 1321 for adjustments incident to involuntary liquidation of inventory, was struck out.
+<b>1976</b>—Par. (1). Pub. L. 94–455, §1901(b)(36)(D), (b)(37)(E), redesignated par. (3) as (1). Former par. (1), which referred to section 1321 for adjustments incident to involuntary liquidation of inventory, was struck out.
 
 Par. (2). Pub. L. 94–455, §1901(b)(37)(E), redesignated par. (4) as (2). Former par. (2), which referred to section 1335 for war loss recoveries where the prior benefit rule was elected, was struck out.
 
@@ -38,7 +38,7 @@ Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 applicable with respect to determinations (as defined in section 860(e) of thistitle) after Nov. 6, 1978, see section 362(e) of Pub. L. 95–600, set out as an Effective Date note under section 860 of this title.
+Amendment by Pub. L. 95–600 applicable with respect to determinations (as defined in section 860(e) of this title) after Nov. 6, 1978, see section 362(e) of Pub. L. 95–600, set out as an Effective Date note under section 860 of this title.
 
 #### Effective Date of 1976 Amendment
 

@@ -6,7 +6,7 @@ The Secretary of Labor shall, during the 2–year period beginning on September 
 
 #### (b) Consultation
 
-In the course of conducting the study and investigation described in subsection (a) of this section, and in developing the regulations referred to in subsection (c) of this section, the Secretary of Labor shall consult—
+In the course of conducting the study and investigation described in subsection (a) of thissection, and in developing the regulations referred to in subsection (c) of this section, the Secretary of Labor shall consult—
 
 &emsp;(1) with appropriate professional societies, business organizations, and labor organizations, and
 

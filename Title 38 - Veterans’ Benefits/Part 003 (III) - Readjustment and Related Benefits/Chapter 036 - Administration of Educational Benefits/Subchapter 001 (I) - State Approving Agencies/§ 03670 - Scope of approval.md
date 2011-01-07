@@ -16,11 +16,11 @@ Section 1656 of this title, as in effect prior to February 1, 1965, referred to 
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1770 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1770 of this title as this section.
 
 Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “3483” for “1683” and “3679” for “1779”.
 
-1982—Subsec. (b). Pub. L. 97–295 substituted “March 3, 1966” and “section 1779” for “the date of enactment of this chapter” and “section 1778”, respectively.
+<b>1982</b>—Subsec. (b). Pub. L. 97–295 substituted “March 3, 1966” and “section 1779” for “the date of enactment of this chapter” and “section 1778”, respectively.
 
-1972—Subsec. (b). Pub. L. 92–540 substituted “1683” for “1686”.
+<b>1972</b>—Subsec. (b). Pub. L. 92–540 substituted “1683” for “1686”.
 

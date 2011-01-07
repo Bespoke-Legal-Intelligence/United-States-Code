@@ -52,7 +52,7 @@ The Foreign Service Act of 1980, referred to in subsec. (d)(11), is Pub. L. 96�
 
 #### Amendments
 
-1999—Subsec. (c). Pub. L. 106–30, §2(b)(5), substituted “subchapter VI of chapter 33 of title 5” for “sections 1881 to 1888 of title 7”.
+<b>1999</b>—Subsec. (c). Pub. L. 106–30, §2(b)(5), substituted “subchapter VI of chapter 33 of title 5” for “sections 1881 to 1888 of title 7”.
 
 Subsec. (d)(2). Pub. L. 106–30, §2(b)(6), substituted “section 1346 of title 31” for “section 9 of Public Law 60–328 (31 U.S.C. 673)”.
 
@@ -62,17 +62,17 @@ Subsec. (d)(11). Pub. L. 106–30, §2(b)(8), substituted “Foreign Service Act
 
 Subsec. (d)(13). Pub. L. 106–30, §2(a), added par. (13).
 
-1987—Subsec. (d)(4). Pub. L. 100–202 substituted “the applicable cost limitation described in section 2396(a)(5) of this title” for “$2,500” and inserted proviso that section 1343 of title 31 not apply to the purchase of vehicles for the transportation, maintenance, or direct support of volunteers overseas.
+<b>1987</b>—Subsec. (d)(4). Pub. L. 100–202 substituted “the applicable cost limitation described in section 2396(a)(5) of this title” for “$2,500” and inserted proviso that section 1343 of title 31 not apply to the purchase of vehicles for the transportation, maintenance, or direct support of volunteers overseas.
 
-1980—Subsec. (a). Pub. L. 96–465 substituted “members of the Foreign Service” for “Foreign Service personnel”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–465 substituted “members of the Foreign Service” for “Foreign Service personnel”.
 
 Subsec. (d)(7). Pub. L. 96–533 increased to $20,000 from $5,000 fiscal year expenditures limitation.
 
-1966—Subsec. (c). Pub. L. 89–572, §3(a), substituted “2506(a)(2)” for “2506(c)(2)”.
+<b>1966</b>—Subsec. (c). Pub. L. 89–572, §3(a), substituted “2506(a)(2)” for “2506(c)(2)”.
 
 Subsec. (d)(4). Pub. L. 89–572, §3(b), substituted “2506(c)” for “2506(e)”.
 
-1965—Subsec. (c). Pub. L. 89–134 struck out provision that training not be considered employment or holding of office under section 2 of the Act of July 31, 1894, as amended (5 U.S.C. 62).
+<b>1965</b>—Subsec. (c). Pub. L. 89–134 struck out provision that training not be considered employment or holding of office under section 2 of the Act of July 31, 1894, as amended (5 U.S.C. 62).
 
 #### Effective Date of 1980 Amendment
 

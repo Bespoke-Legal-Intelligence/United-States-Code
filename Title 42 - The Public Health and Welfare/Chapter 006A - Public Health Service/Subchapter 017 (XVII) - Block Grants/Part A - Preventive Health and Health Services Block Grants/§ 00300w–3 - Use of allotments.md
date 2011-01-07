@@ -50,21 +50,21 @@ Of the amount paid to any State under section 300w–2 of this title, not more t
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title V of the Social Security Act is classified generally tosubchapter V (§701 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title V of the Social Security Act is classified generally to subchapter V (§701 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
 
-2000—Subsec. (a)(1)(E). Pub. L. 106–310, §511(3), added subpar. (E). Former subpar. (E) redesignated (F).
+<b>2000</b>—Subsec. (a)(1)(E). Pub. L. 106–310, §511(3), added subpar. (E). Former subpar. (E) redesignated (F).
 
 Subsec. (a)(1)(F). Pub. L. 106–310, §511(1), (4), redesignated subpar. (E) as (F) and substituted “subparagraphs (A) through (E)” for “subparagraphs (A) through (D)”. Former subpar. (F) redesignated (G).
 
 Subsec. (a)(1)(G). Pub. L. 106–310, §511(1), (2), (5), redesignated subpar. (F) as (G) and substituted “subparagraphs (A) through (F).” for “subparagraphs (A) through (E)”.
 
-1992—Subsec. (a)(1). Pub. L. 102–531, §102(a), amended par. (1) generally, substituting present provisions for provisions authorizing, except as provided in subsecs. (b) and (c), use of the amounts paid to a State under section 300w–2 of this title from its allotment under section 300w–1(a) of this title and amounts transferred by the State, for use in preventive health service programs, including hypertension and high cholesterol services, health-risk reduction programs, immunization services, home health agencies, emergency medical services, services to victims of sex offenses, and uterine cancer and breast cancer services.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–531, §102(a), amended par. (1) generally, substituting present provisions for provisions authorizing, except as provided in subsecs.\(b) and (c), use of the amounts paid to a State under section 300w–2 of this title from its allotment under section 300w–1(a) of this title and amounts transferred by the State, for use in preventive health service programs, including hypertension and high cholesterol services, health-risk reduction programs, immunization services, home health agencies, emergency medical services, services to victims of sex offenses, and uterine cancer and breast cancer services.
 
 Subsec. (c). Pub. L. 102–531, §102(b), substituted “part B” for “parts B and C”.
 
-1988—Subsec. (a)(1)(B). Pub. L. 100–607, §301(b)(1), inserted “and elevated serum cholesterol” before period at end.
+<b>1988</b>—Subsec. (a)(1)(B). Pub. L. 100–607, §301(b)(1), inserted “and elevated serum cholesterol” before period at end.
 
 Subsec. (a)(1)(C). Pub. L. 100–607, §301(b)(2), inserted “, including programs designed to reduce the incidence of chronic diseases” before period at end.
 
@@ -74,9 +74,9 @@ Subsec. (a)(1)(F). Pub. L. 100–607, §301(b)(4), substituted “systems, excep
 
 Subsec. (a)(1)(H). Pub. L. 100–607, §301(b)(5), added subpar. (H).
 
-1986—Subsec. (a)(1)(G). Pub. L. 99–646 and Pub. L. 99–654 amended subpar. (G) identically, substituting “victims of sex offenses and for prevention of sex offenses” for “rape victims and for rape prevention”.
+<b>1986</b>—Subsec. (a)(1)(G). Pub. L. 99–646 and Pub. L. 99–654 amended subpar. (G) identically, substituting “victims of sex offenses and for prevention of sex offenses” for “rape victims and for rape prevention”.
 
-1983—Subsec. (a)(1)(F). Pub. L. 97–414 inserted “(other than systems with respect to which grants were made as prescribed by section 300w–4(c)(2) of this title)” after “equipment for the systems”.
+<b>1983</b>—Subsec. (a)(1)(F). Pub. L. 97–414 inserted “(other than systems with respect to which grants were made as prescribed by section 300w–4(c)(2) of this title)” after “equipment for the systems”.
 
 #### Effective Date of 1986 Amendments
 

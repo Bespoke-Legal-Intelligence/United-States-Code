@@ -168,7 +168,7 @@ Taxicab service.—The term “taxicab service” means passenger transportation
 
 Transportation.—The term “transportation” includes—
 
-&emsp;&emsp;(A) a motor vehicle, vessel, warehouse, wharf, pier, dock, yard, property, facility, instrumentality, or equipment of any kindrelated to the movement of passengers or property, or both, regardless of ownership or an agreement concerning use; and
+&emsp;&emsp;(A) a motor vehicle, vessel, warehouse, wharf, pier, dock, yard, property, facility, instrumentality, or equipment of any kind related to the movement of passengers or property, or both, regardless of ownership or an agreement concerning use; and
 
 &emsp;&emsp;(B) services related to that movement, including arranging for, receipt, delivery, elevation, transfer in transit, refrigeration, icing, ventilation, storage, handling, packing, unpacking, and interchange of passengers and property.
 
@@ -192,7 +192,7 @@ Over-the-road bus.—The term “over-the-road bus” means a bus characterized 
 
 #### Historical and Revision Notes
 
-I74Pub. L. 104–287, §5(27)(A)
+#### Pub. L. 104–287, §5(27)(A)
 
 This amends 49:13102(4)(A) by setting out the effective date of the ICC Termination Act of 1995 (Public Law 104–88, 109 Stat. 803) and the day before that date.
 
@@ -212,11 +212,11 @@ Provisions similar to those in this section were contained in section 10102 of t
 
 #### Amendments
 
-2008—Pars. (6)(B), (7)(B), (14), (15). Pub. L. 110–244 substituted “motor vehicle” for “commercial motor vehicle (as defined in section 31132)”.
+<b>2008</b>—Pars. (6)(B), (7)(B), (14), (15). Pub. L. 110–244 substituted “motor vehicle” for “commercial motor vehicle (as defined in section 31132)”.
 
 Par. (27). Pub. L. 110–291 added par. (27).
 
-2005—Pars. (6)(B), (7)(B). Pub. L. 109–59, §4142(a), substituted “commercial motor vehicle (as defined in section 31132)” for “motor vehicle”.
+<b>2005</b>—Pars. (6)(B), (7)(B). Pub. L. 109–59, §4142(a), substituted “commercial motor vehicle (as defined in section 31132)” for “motor vehicle”.
 
 Par. (12). Pub. L. 109–59, §4202(b), added par. (12). Former par. (12) redesignated (14).
 
@@ -228,11 +228,11 @@ Pub. L. 109–59, §4142(a), substituted “commercial motor vehicle (as defined
 
 Pars. (14) to (26). Pub. L. 109–59, §4202(b), redesignated pars. (12) to (24) as (14) to (26), respectively.
 
-2002—Pars. (17) to (24). Pub. L. 107–298 added pars. (17) and (20) and redesignated former pars. (17), (18), (19), (20), (21), and (22) as pars. (18), (19), (21), (22), (23), and (24), respectively.
+<b>2002</b>—Pars. (17) to (24). Pub. L. 107–298 added pars. (17) and (20) and redesignated former pars. (17), (18), (19), (20), (21), and (22) as pars. (18), (19), (21), (22), (23), and (24), respectively.
 
-1999—Par. (10)(A). Pub. L. 106–159 substituted “, except such term does not include property moving from a factory or store, other than property that the householder has purchased with the intent to use in his or her dwelling and is transported at the request of, and the transportation charges are paid to the carrier by, the householder;” for “, including transportation of property from a factory or store when the property is purchased by the householder with intent to use in his or her dwelling,”.
+<b>1999</b>—Par. (10)(A). Pub. L. 106–159 substituted “, except such term does not include property moving from a factory or store, other than property that the householder has purchased with the intent to use in his or her dwelling and is transported at the request of, and the transportation charges are paid to the carrier by, the householder;” for “, including transportation of property from a factory or store when the property is purchased by the householder with intent to use in his or her dwelling,”.
 
-1996—Par. (4)(A). Pub. L. 104–287, §5(27)(A), substituted “January 1, 1996” for “the effective date of this section” and “December 31, 1995” for “the day before the effective date of this section”.
+<b>1996</b>—Par. (4)(A). Pub. L. 104–287, §5(27)(A), substituted “January 1, 1996” for “the effective date of this section” and “December 31, 1995” for “the day before the effective date of this section”.
 
 Par. (4)(B). Pub. L. 104–287, §5(27)(B), substituted “after December 31, 1995” for “on or after such date”.
 

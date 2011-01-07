@@ -4,7 +4,7 @@
 
 (1) On public lands within the boundaries of any unit of the National Park System created or enlarged by this Act, cabins or other structures existing prior to December 18, 1973, may be occupied and used by the claimant to these structures pursuant to a renewable, nontransferable permit. Such use and occupancy shall be for terms of five years each: <i>Provided</i>, That the claimant of the structure by application:
 
-&emsp;(A) Reasonably demonstrates by affidavit, bill of sale or other documentation, proof ofpossessory interest or right of occupancy in the cabin or structure;
+&emsp;(A) Reasonably demonstrates by affidavit, bill of sale or other documentation, proof of possessory interest or right of occupancy in the cabin or structure;
 
 &emsp;(B) Submits a sketch or photograph of the cabin or structure and a map showing its geographic location;
 
@@ -14,7 +14,7 @@
 
 (2) On public lands within the boundaries of any unit of the National Park System created or enlarged by this Act, cabins or other structures, the occupancy or use of which commenced between December 18, 1973, and December 1, 1978, may be used and occupied by the claimant of such structure pursuant to a nontransferable, nonrenewable permit. Such use and occupancy shall be for a maximum term of one year: <i>Provided, however</i>, That the claimant, by application:
 
-&emsp;(A) Reasonably demonstrates by affidavit, bill of sale, or other documentation, proof of possessory interest or right of occupancy in the cabin or structure;
+&emsp;(A) Reasonably demonstrates by affidavit, bill of sale, or other documentation proof of possessory interest or right of occupancy in the cabin or structure;
 
 &emsp;(B) Submits a sketch or photograph of the cabin or structure and a map showing its geographic location;
 
@@ -24,7 +24,7 @@
 
 > The Secretary may, on a case by case basis, subject to reasonable regulations, extend such permit term beyond one year for such reasons as the Secretary deems equitable and just.
 
-(3) Cabins or other structure not under permit as specified herein shall be used only for official government business: <i>Provided however</i>, That during emergencies involving the safety of human life or where designated for public use by the Secretary, these cabins may be used by the general public.
+(3) Cabins or other structures not under permit as specified herein shall be used only for official government business: <i>Provided however</i>, That during emergencies involving the safety of human life or where designated for public use by the Secretary, these cabins may be used by the general public.
 
 (4) The Secretary may issue a permit under such conditions as he may prescribe for the temporary use, occupancy, construction and maintenance of new cabins or other structures if he determines that the use is necessary to reasonably accommodate subsistence uses or is otherwise authorized by law.
 
@@ -32,7 +32,7 @@
 
 The following conditions shall apply regarding the construction, use and occupancy of cabins and related structures on Federal lands within conservation system units or areas not provided for in subsection (a) of this section:
 
-&emsp;(1) The construction of new cabins is prohibited except as may be authorized pursuant to a nontransferable, five-year special use permit issued by the Secretary. Such special use permit shall only be issued upon a determination that the proposed use, construction, and maintenance of a cabin is compatible with the purposes for which the unit or area was established and that the use of the cabin is either directly related to the administration of the unit or area or is necessary to provide for a continuation of an ongoing activity or use otherwise allowed within the unit or area where the permit applicant has no reasonable alternative site for constructing a cabin. No special use permit shall be issued to authorize the construction of a cabin for private recreational use.
+&emsp;(1) The construction of new cabins is prohibited except as may be authorized pursuant to a nontransferable, five-year special use permit issued by the Secretary. Such special use permit shall only be issued upon a determination that the proposed use, construction, and maintenance of a cabin is compatible with the purposes for which the unit or area was established and that the use of the cabin is either directly related to the administration of the unit or area or is necessary to provide for a continuation of an ongoing activity or use otherwise allowed within the unit or areawhere the permit applicant has no reasonable alternative site for constructing a cabin. No special use permit shall be issued to authorize the construction of a cabin for private recreational use.
 
 &emsp;(2) Traditional and customary uses of existing cabins and related structures on Federal lands within a unit or area may be allowed to continue in accordance with a nontransferable, renewable five-year special use permit issued by the Secretary. Such special use permit shall be issued only upon a determination that the traditional and customary uses are compatible with the purposes for which the unit or area was established. No special use permits shall be issued to authorize the use of an existing cabin constructed for private recreational use.
 
@@ -42,7 +42,7 @@ The following conditions shall apply regarding the construction, use and occupan
 
 &emsp;&emsp;(B) Submits a sketch or photograph of the existing or proposed cabin or structure and a map showing its geographic location;
 
-&emsp;&emsp;(C) Agrees to vacate the cabin or structure and to remove within a reasonable time period established by the Secretary, all personal property from it upon nonrenewal or revocation of the permit; and
+&emsp;&emsp;(C) Agrees to vacate the cabin or structure and remove, within a reasonable time period established by the Secretary, all personal property from it upon nonrenewal or revocation of the permit; and
 
 &emsp;&emsp;(D) Acknowledges in the permit application that the applicant has no interest in the real property on which the cabin or structure is located or will be constructed.
 
@@ -52,7 +52,7 @@ The following conditions shall apply regarding the construction, use and occupan
 
 (1) Whenever issuance of a nontransferable renewable five-year special use permit is authorized by subsections (a) or (b) of this section, said permit shall be renewed every five years until the death of the last immediate family member of the claimant residing in the cabin or structure, or unless the Secretary has revoked the special use permit in accordance with the criteria established in this section.
 
-(2) Notwithstanding any other provision of this section, the Secretary, after notice andhearing, may revoke a permit provided for in this section if he determines, on the basis of substantial evidence in the administrative record as a whole, that the use under the permit is causing or may cause significant detriment to the principal purposes for which the unit was established.
+(2) Notwithstanding any other provision of this section, the Secretary, after notice and hearing, may revoke a permit provided for in this section if he determines, on the basis of substantial evidence in the administrative record as a whole, that the use under the permit is causing or may cause significant detriment to the principal purposes for which the unit was established.
 
 #### (d) Existing cabin leases or permits
 
@@ -62,5 +62,5 @@ Nothing in this Act shall preclude the renewal or continuation of valid leases o
 
 #### References in Text
 
-This Act, referred to in subsecs. (a)(1), (2), (b), and (d), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsecs. (a)(1), (2), (b), and (d), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 

@@ -20,7 +20,7 @@
 
 &emsp;(A) is entitled, on correction of the personnel action, to receive for the period for which the personnel action was in effect—
 
-&emsp;&emsp;(i) an amount equal to all or any part of the pay, allowances, or differentials, as applicable which the employee normally would have earned or received during the period if the personnel action had not occurred, less any amounts earned by the employee through other employment during that period; and
+&emsp;&emsp;(i) an amount equal to all or any part of the pay, allowances, or differentials, as applicable which the employee normally wouldhave earned or received during the period if the personnel action had not occurred, less any amounts earned by the employee through other employment during that period; and
 
 &emsp;&emsp;(ii) reasonable attorney fees related to the personnel action which, with respect to any decision relating to an unfair labor practice or a grievance processed under a procedure negotiated in accordance with chapter 71 of this title, or under chapter 11 of title I of the Foreign Service Act of 1980, shall be awarded in accordance with standards established under section 7701(g) of this title; and
 
@@ -46,7 +46,7 @@
 
 (4) The pay, allowances, or differentials granted under this section for the period for which an unjustified or unwarranted personnel action was in effect shall not exceed that authorized by the applicable law, rule, regulations, or collective bargaining agreement under which the unjustified or unwarranted personnel action is found, except that in no case may pay, allowances, or differentials be granted under this section for a period beginning more than 6 years before the date of the filing of a timely appeal or, absent such filing, the date of the administrative determination.
 
-(5) For the purpose of this subsection, “grievance” and “collective bargaining agreement”have the meanings set forth in section 7103 of this title and (with respect to members of the Foreign Service) in sections 1101 and 1002 of the Foreign Service Act of 1980, “unfair labor practice” means an unfair labor practice described in section 7116 of this title and (with respect to members of the Foreign Service) in section 1015 of the Foreign Service Act of 1980, and “personnel action” includes the omission or failure to take an action or confer a benefit.
+(5) For the purpose of this subsection, “grievance” and “collective bargaining agreement” have the meanings set forth in section 7103 of this title and (with respect to members of the Foreign Service) in sections 1101 and 1002 of the Foreign Service Act of 1980, “unfair labor practice” means an unfair labor practice described in section 7116 of this title and (with respect to members of the Foreign Service) in section 1015 of the Foreign Service Act of 1980, and “personnel action” includes the omission or failure to take an action or confer a benefit.
 
 (c) The Office of Personnel Management shall prescribe regulations to carry out this section. However, the regulations are not applicable to the Tennessee Valley Authority and its employees, or to the agencies specified in subsection (a)(2) of this section.
 

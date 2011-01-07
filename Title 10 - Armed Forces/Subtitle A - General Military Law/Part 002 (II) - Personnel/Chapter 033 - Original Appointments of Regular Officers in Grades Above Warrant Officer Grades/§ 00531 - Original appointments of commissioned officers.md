@@ -1,8 +1,8 @@
 ### §531. Original appointments of commissioned officers
 
-(a)(1) Original appointments in the grades of second lieutenant, first lieutenant, and captain in the Regular Army, Regular Air Force, and Regular Marine Corps and in the grades of ensign, lieutenant (junior grade), and lieutenant in the Regular Navy shall be made by the President alone.
+(a)(1) Original appointments in the grades of second lieutenant, first lieutenant, and captainin the Regular Army, Regular Air Force, and Regular Marine Corps and in the grades of ensign, lieutenant (junior grade), and lieutenant in the Regular Navy shall be made by the President alone.
 
-(2) Original appointments in the grades of major, lieutenant colonel, and colonel in theRegular Army, Regular Air Force, and Regular Marine Corps and in the grades of lieutenant commander, commander, and captain in the Regular Navy shall be made by the President, by and with the advice and consent of the Senate.
+(2) Original appointments in the grades of major, lieutenant colonel, and colonel in the Regular Army, Regular Air Force, and Regular Marine Corps and in the grades of lieutenant commander, commander, and captain in the Regular Navy shall be made by the President, by and with the advice and consent of the Senate.
 
 (b) The grade of a person receiving an appointment under this section who at the time of appointment (1) is credited with service under section 533 of this title, and (2) is not a commissioned officer of a reserve component shall be determined under regulations prescribed by the Secretary of Defense based upon the amount of service credited. The grade of a person receiving an appointment under this section who at the time of the appointment is a commissioned officer of a reserve component is determined under section 533(f) of this title.
 
@@ -12,11 +12,11 @@
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–375, §501(a)(4), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Original appointments in the grades of second lieutenant through colonel in the Regular Army, Regular Air Force, and Regular Marine Corps and in the grades of ensign through captain in the Regular Navy shall be made by the President, by and with the advice and consent of the Senate.”
+<b>2004</b>—Subsec. (a). Pub. L. 108–375, §501(a)(4), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Original appointments in the grades of second lieutenant through colonel in the Regular Army, Regular Air Force, and Regular Marine Corps and in the grades of ensign through captain in the Regular Navy shall be made by the President, by and with the advice and consent of the Senate.”
 
 Subsec. (c). Pub. L. 108–375, §501(c)(5), added subsec. (c).
 
-1981—Pub. L. 97–22 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1981</b>—Pub. L. 97–22 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 2004 Amendment
 

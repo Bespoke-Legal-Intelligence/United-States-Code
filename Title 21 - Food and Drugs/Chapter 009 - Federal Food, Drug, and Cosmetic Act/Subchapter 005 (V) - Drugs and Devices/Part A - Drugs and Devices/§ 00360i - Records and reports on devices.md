@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Every person who is a manufacturer or importer of a device intended for human use shall establish and maintain such records, make such reports, and provide such information, as the Secretary may by regulation reasonably require to assure that such device is not adulterated or misbranded and to otherwise assure its safety and effectiveness. Regulations prescribed under the preceding sentence—
+Every person who is a manufacturer or importer of a device intended for human use shall establish and maintain such records, make such reports, and provide such information, as theSecretary may by regulation reasonably require to assure that such device is not adulterated or misbranded and to otherwise assure its safety and effectiveness. Regulations prescribed under the preceding sentence—
 
 &emsp;(1) shall require a device manufacturer or importer to report to the Secretary whenever the manufacturer or importer receives or otherwise becomes aware of information that reasonably suggests that one of its marketed devices—
 
@@ -56,7 +56,7 @@ Every person who is a manufacturer or importer of a device intended for human us
 
 #### (b) User reports
 
-(1)(A) Whenever a device user facility receives or otherwise becomes aware of information that reasonably suggests that a device has or may have caused or contributed to the death of a patient of the facility, the facility shall, as soon as practicable but not later than 10 working days after becoming aware of the information, report the information to the Secretary and, if the identity of the manufacturer is known, to the manufacturer of the device. In the case of deaths, the Secretary may by regulation prescribe a shorter period for the reporting of such information.
+(1)(A) Whenever a device user facility receives or otherwise becomes aware of information that reasonably suggests that a device has or may have caused or contributed to the death of a patient of the facility, the facility shall, as soon as practicable but not later than 10 working days after becoming aware of the information, report the information to the Secretary and, if the identity of the manufacturer is known, to the manufacturer of the device. In the case ofdeaths, the Secretary may by regulation prescribe a shorter period for the reporting of such information.
 
 (B) Whenever a device user facility receives or otherwise becomes aware of—
 
@@ -170,11 +170,11 @@ The Secretary shall promulgate regulations establishing a unique device identifi
 
 #### Amendments
 
-2007—Subsec. (a)(1)(B). Pub. L. 110–85, §227, substituted “were to recur, which report under this subparagraph—” for “were to recur;” and added cls. (i) to (iii).
+<b>2007</b>—Subsec. (a)(1)(B). Pub. L. 110–85, §227, substituted “were to recur, which report under this subparagraph—” for “were to recur;” and added cls. (i) to (iii).
 
 Subsecs. (f), (g). Pub. L. 110–85, §226(a), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1997—Subsec. (a). Pub. L. 105–115, §213(a)(1)(A), (F), in introductory provisions, substituted “manufacturer or importer” for “manufacturer, importer, or distributor” and, in closing provisions, inserted at end “The Secretary shall by regulation require distributors to keep records and make such records available to the Secretary upon request. Paragraphs (4) and (8) apply to distributors to the same extent and in the same manner as such paragraphs apply to manufacturers and importers.”
+<b>1997</b>—Subsec. (a). Pub. L. 105–115, §213(a)(1)(A), (F), in introductory provisions, substituted “manufacturer or importer” for “manufacturer, importer, or distributor” and, in closing provisions, inserted at end “The Secretary shall by regulation require distributors to keep records and make such records available to the Secretary upon request. Paragraphs (4) and (8) apply to distributors to the same extent and in the same manner as such paragraphs apply to manufacturers and importers.”
 
 Subsec. (a)(4). Pub. L. 105–115, §213(a)(1)(B), substituted “manufacturer or importer” for “manufacturer, importer, or distributor”.
 
@@ -184,7 +184,7 @@ Subsec. (a)(8). Pub. L. 105–115, §213(a)(1)(D), substituted “manufacturer o
 
 Subsec. (a)(9). Pub. L. 105–115, §213(a)(1)(E), struck out par. (9) which read as follows: “shall require distributors who submit such reports to submit copies of the reports to the manufacturer of the device for which the report was made.”
 
-Subsec. (b)(1)(C). Pub. L. 105–115, §213(c)(1)(A), in introductory provisions, substituted “on an annualbasis” for “on a semi-annual basis” and struck out “and July 1” after “January 1” and struck out closing provisions which read as follows: “The Secretary may by regulation alter the frequency and timing of reports required by this subparagraph.”
+Subsec. (b)(1)(C). Pub. L. 105–115, §213(c)(1)(A), in introductory provisions, substituted “on an annual basis” for “on a semi-annual basis” and struck out “and July 1” after “January 1” and struck out closing provisions which read as follows: “The Secretary may by regulation alter the frequency and timing of reports required by this subparagraph.”
 
 Subsec. (b)(2)(A). Pub. L. 105–115, §213(c)(1)(B)(i), inserted “or” after comma at end.
 
@@ -210,9 +210,9 @@ Subsec. (e). Pub. L. 105–115, §211, amended heading and text of subsec. (e) g
 
 Subsec. (f)(1). Pub. L. 105–115, §213(a)(3), substituted “or importer” for “, importer, or distributor” wherever appearing.
 
-1993—Subsec. (a). Pub. L. 103–80 substituted “paragraph (7)” for “paragraph (4)” in last sentence.
+<b>1993</b>—Subsec. (a). Pub. L. 103–80 substituted “paragraph (7)” for “paragraph (4)” in last sentence.
 
-1992—Subsec. (a). Pub. L. 102–300, §5(a)(1), added pars. (1) to (3) and redesignated former pars. (1) to (6) as (4) to (9), respectively.
+<b>1992</b>—Subsec. (a). Pub. L. 102–300, §5(a)(1), added pars. (1) to (3) and redesignated former pars. (1) to (6) as (4) to (9), respectively.
 
 Subsec. (b)(1)(A). Pub. L. 102–300, §5(a)(2)(A), substituted “a device has or may have” for “there is a probability that a device has”.
 
@@ -220,7 +220,7 @@ Subsec. (b)(1)(B). Pub. L. 102–300, §5(a)(2)(A), (B), substituted “a device
 
 Subsec. (b)(5)(B)(iii). Pub. L. 102–300, §5(a)(2)(C), struck out “immediate” before “medical”.
 
-1990—Subsec. (a)(6). Pub. L. 101–629, §3(a)(1), added par. (6).
+<b>1990</b>—Subsec. (a)(6). Pub. L. 101–629, §3(a)(1), added par. (6).
 
 Subsecs. (b), (c). Pub. L. 101–629, §2(a), added subsec. (b) and redesignated former subsec. (b) as (c).
 

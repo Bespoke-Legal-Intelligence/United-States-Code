@@ -10,7 +10,7 @@ The Final Act of the Conference on Security and Cooperation in Europe, referred 
 
 #### Amendments
 
-1985—Pub. L. 99–7 inserted “human rights and” after “relating to”.
+<b>1985</b>—Pub. L. 99–7 inserted “human rights and” after “relating to”.
 
 #### Change of Name
 

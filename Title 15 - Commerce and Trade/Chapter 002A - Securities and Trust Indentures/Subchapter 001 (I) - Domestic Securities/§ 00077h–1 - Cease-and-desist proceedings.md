@@ -50,11 +50,57 @@ In any cease-and-desist proceeding under subsection (a) of this section, the Com
 
 In any cease-and-desist proceeding under subsection (a) of this section, the Commission may issue an order to prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who has violated section 77q(a)(1) of this title or the rules or regulations thereunder, from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78<i>l</i> of this title, or that is required to file reports pursuant to section 78<i>o</i>(d) of this title, if the conduct of that person demonstrates unfitness to serve as an officer or director of any such issuer.
 
-(May 27, 1933, ch. 38, title I, §8A, as added Pub. L. 101–429, title I, §102, Oct. 15, 1990, 104 Stat. 933; amended Pub. L. 107–204, title XI, §1105(b), July 30, 2002, 116 Stat. 809.)
+#### (g) Authority to impose money penalties
+
+#### (1) Grounds
+
+&emsp;In any cease-and-desist proceeding under subsection (a), the Commission may impose a civil penalty on a person if the Commission finds, on the record, after notice and opportunity for hearing, that—
+
+&emsp;&emsp;(A) such person—
+
+&emsp;&emsp;&emsp;(i) is violating or has violated any provision of this subchapter, or any rule or regulation issued under this subchapter; or
+
+&emsp;&emsp;&emsp;(ii) is or was a cause of the violation of any provision of this subchapter, or any rule or regulation thereunder; and
+
+&emsp;&emsp;(B) such penalty is in the public interest.
+
+#### (2) Maximum amount of penalty
+
+#### (A) First tier
+
+&emsp;&emsp;The maximum amount of a penalty for each act or omission described in paragraph (1) shall be $7,500 for a natural person or $75,000 for any other person.
+
+#### (B) Second tier
+
+&emsp;&emsp;Notwithstanding subparagraph (A), the maximum amount of penalty for each such act or omission shall be $75,000 for a natural person or $375,000 for any other person, if the act or omission described in paragraph (1) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement.
+
+#### (C) Third tier
+
+&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), the maximum amount of penalty for each such act or omission shall be $150,000 for a natural person or $725,000 for any other person, if—
+
+&emsp;&emsp;&emsp;(i) the act or omission described in paragraph (1) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement; and
+
+&emsp;&emsp;&emsp;(ii) such act or omission directly or indirectly resulted in—
+
+&emsp;&emsp;&emsp;&emsp;(I) substantial losses or created a significant risk of substantial losses to other persons; or
+
+&emsp;&emsp;&emsp;&emsp;(II) substantial pecuniary gain to the person who committed the act or omission.
+
+#### (3) Evidence concerning ability to pay
+
+&emsp;In any proceeding in which the Commission may impose a penalty under this section, a respondent may present evidence of the ability of the respondent to pay such penalty. The Commission may, in its discretion, consider such evidence in determining whether such penalty is in the public interest. Such evidence may relate to the extent of the ability of the respondent to continue in business and the collectability of a penalty, taking into account any other claims of the United States or third parties upon the assets of the respondent and the amount of the assets of the respondent.
+
+(May 27, 1933, ch. 38, title I, §8A, as added Pub. L. 101–429, title I, §102, Oct. 15, 1990, 104 Stat. 933; amended Pub. L. 107–204, title XI, §1105(b), July 30, 2002, 116 Stat. 809; Pub. L. 111–203, title IX, §929P(a)(1), July 21, 2010, 124 Stat. 1862.)
 
 #### Amendments
 
-2002—Subsec. (f). Pub. L. 107–204 added subsec. (f).
+<b>2010</b>—Subsec. (g). Pub. L. 111–203 added subsec. (g).
+
+<b>2002</b>—Subsec. (f). Pub. L. 107–204 added subsec. (f).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Effective Date
 

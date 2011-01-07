@@ -42,7 +42,7 @@ A State educational agency may apply for a grant under this part for a grant per
 
 &emsp;&emsp;(L) public agencies with jurisdiction in the areas of health, mental health, social services, and juvenile justice;
 
-&emsp;&emsp;(M) other providers of professional development that work with infants, toddlers, preschoolers, and children with disabilities; and
+&emsp;&emsp;(M) other providers of professional development that work with infants, toddlers,preschoolers, and children with disabilities; and
 
 &emsp;&emsp;(N) other individuals.
 

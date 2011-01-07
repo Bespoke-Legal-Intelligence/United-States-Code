@@ -200,7 +200,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 In this section, the word “Administrator” in section 313(c) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 753) is retained on authority of 49:106(g).
 
-Subsection (a)(1) is substituted for “sign and issue subpenas”, “shall have the power to require by subpenathe attendance and testimony of witnesses and the production of all books, papers, and documents relating to any matter under investigation”, and “The attendance of witnesses, and the production of books, papers, and documents, may be required from any place in the United States, at any designated place of hearing” in 49 App.:1484 for clarity and consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words.
+Subsection (a)(1) is substituted for “sign and issue subpenas”, “shall have the power to require by subpena the attendance and testimony of witnesses and the production of all books, papers, and documents relating to any matter under investigation”, and “The attendance of witnesses, and the production of books, papers, and documents, may be required from any place in the United States, at any designated place of hearing” in 49 App.:1484 for clarity and consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words.
 
 In subsection (b), the words “petition a court of the United States to enforce the subpena” are substituted for “invoke the aid of any court of the United States in requiring attendance and testimony of witnesses and the production of such books, papers, and documents under the provisions of this section” in 49 App.:1484(c) to eliminate unnecessary words. The words “to enforce a subpena under this section” are substituted for “in case of contumacy or refusal to obey a subpena issued to any person, issue an order requiring such person to appear before the Board (and produce books, papers, or documents if so ordered) and give evidence touching the matter in question” in 49 App.:1484(d) to eliminate unnecessary words.
 
@@ -214,7 +214,7 @@ In subsection (e), the words “duly . . . for such purpose” are omitted as 
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–71, §140(b)(1), in introductory provisions inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–71, §140(b)(1), in introductory provisions inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
 
 Subsec. (a)(4). Pub. L. 107–71, §140(b)(2), substituted “, Under Secretary, or Administrator” for “or Administrator”.
 

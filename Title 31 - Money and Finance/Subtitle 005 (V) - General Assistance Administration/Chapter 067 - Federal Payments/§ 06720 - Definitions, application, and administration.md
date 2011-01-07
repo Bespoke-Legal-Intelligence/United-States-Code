@@ -28,7 +28,7 @@ Definitions.—In this chapter—
 
 &emsp;(7) “finding of discrimination” means a decision by the Secretary about a complaint described in section 6716(b), a decision by a State or local administrative agency, or other information (under regulations prescribed by the Secretary) that it is more likely than not that a unit of general local government has not complied with section 6711(a) or (b);
 
-&emsp;(8) “holding of discrimination” means a holding by a United States court, a State court, or an administrative law judge appointed under section 3105 of title 5, United States Code, that a unit of general local government expending amounts received under this chapter has—
+&emsp;(8) “holding of discrimination” means a holding by a United States court, a Statecourt, or an administrative law judge appointed under section 3105 of title 5, United States Code, that a unit of general local government expending amounts received under this chapter has—
 
 &emsp;&emsp;(A) excluded a person in the United States from participating in, denied the person the benefits of, or subjected the person to discrimination under, a program or activity because of race, color, national origin, or sex; or
 

@@ -58,7 +58,7 @@ The application shall include a plan ensuring that the unit—
 
 #### (1) In general
 
-&emsp;No tenant residing in a dwelling unit in a property on the date the Secretary approves an application for an implementation grant may be evicted by reason of a homeownership program approved under this part.
+&emsp;No tenant residing in a dwelling unit in a property on the date the Secretary approvesan application for an implementation grant may be evicted by reason of a homeownership program approved under this part.
 
 #### (2) Rental assistance
 

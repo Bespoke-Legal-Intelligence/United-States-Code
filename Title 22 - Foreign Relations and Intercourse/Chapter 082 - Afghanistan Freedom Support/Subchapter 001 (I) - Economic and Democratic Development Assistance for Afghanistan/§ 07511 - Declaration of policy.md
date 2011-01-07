@@ -54,7 +54,7 @@ Statements of Policy.—The following shall be the policies of the United States
 
 &emsp;“(1) The United States shall vigorously support the people and Government of Afghanistan as they continue to commit to the path toward a government representing and protecting the rights of all Afghans, and shall maintain its long-term commitment to the people of Afghanistan by increased assistance and the continued deployment of United States troops in Afghanistan as long as the Government of Afghanistan supports such United States involvement.
 
-&emsp;“(2) In order to reduce the ability of the Taliban and al Qaeda to finance their operations through the opium trade, the President shall engage aggressivelywith the Government of Afghanistan, countries in the region or otherwise influenced by the trade and transit of narcotics, as well as North Atlantic Treaty Organization (NATO) partners of the United States, and in consultation with Congress, to assess the success of the current Afghan counter-narcotics strategy and to explore additional options for addressing the narcotics crisis in Afghanistan, including possible changes in rules of engagement for NATO and Coalition forces for participation in actions against narcotics trafficking and kingpins, and the provision of comprehensive assistance to farmers who rely on opium for their livelihood, including through the promotion of alternative crops and livelihoods.
+&emsp;“(2) In order to reduce the ability of the Taliban and al Qaeda to finance their operations through the opium trade, the President shall engage aggressively with the Government of Afghanistan, countries in the region or otherwise influenced by the trade and transit of narcotics, as well as North Atlantic Treaty Organization (NATO) partners of the United States, and in consultation with Congress, to assess the success of the current Afghan counter-narcotics strategy and to explore additional options for addressing the narcotics crisis in Afghanistan, including possible changes in rules of engagement for NATO and Coalition forces for participation in actions against narcotics trafficking and kingpins, and the provision of comprehensive assistance to farmers who rely on opium for their livelihood, including through the promotion of alternative crops and livelihoods.
 
 &emsp;“(3) The United States shall continue to work with and provide assistance to the Government of Afghanistan to strengthen local and national government institutions and the rule of law, including the training of judges and prosecutors, and to train and equip the Afghan National Security Forces.
 
@@ -76,7 +76,7 @@ Emergency Increase in Effective Police Training and Policing Operations.—
 
 &emsp;“(1)
 
-Congressional finding.—Congress finds that police training programs in Afghanistan have achieved far less return on substantial investment to date and require a substantive review and justification of the means and purposes of such assistance, consequent to any provision of additional resources.
+Congressional finding.—Congress finds that police training programs in Afghanistan have achieved far less return on substantial investment todate and require a substantive review and justification of the means and purposes of such assistance, consequent to any provision of additional resources.
 
 &emsp;“(2)
 

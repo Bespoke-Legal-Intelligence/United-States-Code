@@ -52,7 +52,7 @@ For purposes of this section—
 
 #### Amendments
 
-1976—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 Subsec. (b). Pub. L. 94–455, §1906(a)(29)(A), among other changes, struck out provisions allowing any claimant who has on or before Apr. 30, 1958, filed a claim for any amount to which subsec. (a) applies, may file a superseding claim after Apr. 30, 1958, conforming to the requirements of this section and covering the amount claimed in such prior claim.
 

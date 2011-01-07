@@ -4,7 +4,7 @@
 
 #### (1) Directors, officers, and principal stockholders required to file
 
-&emsp;Every person who is directly or indirectly the beneficial owner of more than 10 percent of any class of any equity security (other than an exempted security) which is registered pursuant to section 78<i>l</i> of this title, or who is a director or an officer of the issuer of such security, shall file the statements required by this subsection with the Commission (and, if such security is registered on a national securities exchange, also with the exchange).
+&emsp;Every person who is directly or indirectly the beneficial owner of more than 10 percent of any class of any equity security (other than an exempted security) which is registered pursuant to section 78<i>l</i> of this title, or who is a director or an officer of the issuer of such security, shall file the statements required by this subsection with the Commission.
 
 #### (2) Time of filing
 
@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) at the time of the registration of such security on a national securities exchange or by the effective date of a registration statement filed pursuant to section 78<i>l</i>(g) of this title;
 
-&emsp;&emsp;(B) within 10 days after he or she becomes such beneficial owner, director, or officer;
+&emsp;&emsp;(B) within 10 days after he or she becomes such beneficial owner, director, or officer, or within such shorter time as the Commission may establish by rule;
 
 &emsp;&emsp;(C) if there has been a change in such ownership, or if such person shall have purchased or sold a security-based swap agreement (as defined in section 206(b) <sup>1</sup> of the Gramm-Leach-Bliley Act (15 U.S.C. 78c note)) involving such equity security, before the end of the second business day following the day on which the subject transaction has been executed, or at such other time as the Commission shall establish, by rule, in any case in which the Commission determines that such 2-day period is not feasible.
 
@@ -40,7 +40,7 @@ For the purpose of preventing the unfair use of information which may have been 
 
 #### (c) Conditions for sale of security by beneficial owner, director, or officer
 
-It shall be unlawful for any such beneficial owner, director, or officer, directly or indirectly, to sell any equity security of such issuer (other than an exempted security), if the person selling the security or his principal (1) does not own the security sold, or (2) if owning the security, does not deliver it against such sale within twenty days thereafter, or does not within five days after such sale deposit it in the mails or other usual channels of transportation; but no person shall be deemed to have violated this subsection if he proves that notwithstanding the exercise of good faith he was unable to make such delivery or deposit within such time, or that to do so would cause undue inconvenience or expense.
+It shall be unlawful for any such beneficial owner, director, or officer, directly or indirectly, to sell any equity security of such issuer (otherthan an exempted security), if the person selling the security or his principal (1) does not own the security sold, or (2) if owning the security, does not deliver it against such sale within twenty days thereafter, or does not within five days after such sale deposit it in the mails or other usual channels of transportation; but no person shall be deemed to have violated this subsection if he proves that notwithstanding the exercise of good faith he was unable to make such delivery or deposit within such time, or that to do so would cause undue inconvenience or expense.
 
 #### (d) Securities held in investment account, transactions in ordinary course of business, and establishment of primary or secondary market
 
@@ -58,7 +58,21 @@ The provisions of this section shall apply to ownership of and transactions in s
 
 The authority of the Commission under this section with respect to security-based swap agreements (as defined in section 206B of the Gramm-Leach-Bliley Act) shall be subject to the restrictions and limitations of section 78c–1(b) of this title.
 
-(June 6, 1934, ch. 404, title I, §16, 48 Stat. 896; Pub. L. 88–467, §8, Aug. 20, 1964, 78 Stat. 579; Pub. L. 106–554, §1(a)(5) \[title II, §208(b)(3), title III, §303(g), (h)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–435, 2763A–455, 2763A–456; Pub. L. 107–204, title IV, §403(a), July 30, 2002, 116 Stat. 788.)
+(June 6, 1934, ch. 404, title I, §16, 48 Stat. 896; Pub. L. 88–467, §8, Aug. 20, 1964, 78 Stat. 579; Pub. L. 106–554, §1(a)(5) \[title II, §208(b)(3), title III, §303(g), (h)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–435, 2763A–455, 2763A–456; Pub. L. 107–204, title IV, §403(a), July 30, 2002, 116 Stat. 788; Pub. L. 111–203, title VII, §762(d)(5), title IX, §929R(b), July 21, 2010, 124 Stat. 1761, 1867.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title VII, §§762(d)(5), 774, July 21, 2010, 124 Stat. 1761, 1802, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, this section is amended as follows:</i>
+
+<i>(1) in subsection (a)(2)(C), by striking “(as defined in section 206(b) of the Gramm-Leach-Bliley Act (15 U.S.C. 78c note))”;</i>
+
+<i>(2) in subsection (a)(3)(B), by inserting “or security-based swaps” after “security-based swap agreement”;</i>
+
+<i>(3) in the first sentence of subsection (b), by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act)”;</i>
+
+<i>(4) in the third sentence of subsection (b), by striking “(as defined in section 206B of the Gramm-Leach Bliley Act)” and inserting “or a security-based swap”; and</i>
+
+<i>(5) in subsection (g), by striking “(as defined in section 206B of the Gramm-Leach-Bliley Act)”.</i>
 
 #### References in Text
 
@@ -68,17 +82,27 @@ Section 206B of the Gramm-Leach-Bliley Act, referred to in subsecs. (b) and (g),
 
 #### Amendments
 
-2002—Pub. L. 107–204 reenacted section catchline without change, added heading and text of subsec. (a), and struck out former subsec. (a) which read as follows: “Every person who is directly or indirectly the beneficial owner of more than 10 per centum of any class of any equity security (other than an exempted security) which is registered pursuant to section 78<i>l</i> of this title, or who is a director or an officer of the issuer of such security, shall file, at the time of the registration of such security on a national securities exchange or by the effective date of a registration statement filed pursuant to section 78<i>l</i>(g) of this title, or within ten days after he becomes such beneficial owner, director, or officer, a statement with the Commission (and, if such security is registered on a national securities exchange, also with the exchange) of the amount of all equity securities of such issuer of which he is the beneficial owner, and within ten days after the close of each calendar month thereafter, if there has been a change in such ownership or if such person shall have purchased or sold a security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) involving such equity security during such month, shall file with the Commission (and if such security is registered on a national securities exchange, shall also file with the exchange), a statement indicating his ownership at the close of the calendar month and such changes in his ownership and such purchases and sales of such security-based swap agreements as have occurred during such calendar month.”
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §929R(b)(1), struck out “(and, if such security is registered on a national securities exchange, also with the exchange)” after “Commission”.
 
-2000—Subsecs. (a), (b). Pub. L. 106–554, §1(a)(5) \[title III, §303(g)\], amended subsecs. (a) and (b) generally, revising provisions to extend application to security-based swap agreements.
+Subsec. (a)(2)(B). Pub. L. 111–203, §929R(b)(2), inserted “, or within such shorter time as the Commission may establish by rule” after “officer”.
+
+<b>2002</b>—Pub. L. 107–204 reenacted section catchline without change, added heading and text of subsec. (a), and struck out former subsec. (a) which read as follows: “Every person who is directly or indirectly the beneficial owner of more than 10 per centum of any class of any equity security (other than an exempted security) which is registered pursuant to section 78<i>l</i> of this title, or who is a director or an officer of the issuer of such security, shall file, at the time of the registration of such security on a national securities exchange or by the effective date of a registration statement filed pursuant to section 78<i>l</i>(g) of this title, or within ten days after he becomes such beneficial owner, director, or officer, a statement with the Commission (and, if such security is registered on a national securities exchange, also with the exchange) of the amount of all equity securities of such issuer of which he is the beneficial owner, and within ten days after the close of each calendar month thereafter, if there has been a change in such ownership or if such person shall have purchased or sold a security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) involving such equity security during such month, shall file with the Commission (and if such security is registered on a national securities exchange, shall also file with the exchange), a statement indicating his ownership at the close of the calendar month and such changes in his ownership and such purchases and sales of such security-based swap agreements as have occurred during such calendar month.”
+
+<b>2000</b>—Subsecs. (a), (b). Pub. L. 106–554, §1(a)(5) \[title III, §303(g)\], amended subsecs. (a) and (b) generally, revising provisions to extend application to security-based swap agreements.
 
 Subsec. (f). Pub. L. 106–554, §1(a)(5) \[title II, §208(b)(3)\], added subsec. (f).
 
 Subsec. (g). Pub. L. 106–554, §1(a)(5) \[title III, §303(h)\], added subsec. (g).
 
-1964—Subsec. (a). Pub. L. 88–467, §8(a), substituted “registered pursuant to section 78<i>l</i> of this title” for “registered on a national securities exchange”, “Commission (and, if such security is registered on a national securities exchange, also with the exchange)” for“exchange (and a duplicate original thereof with the Commission)”, “a change” for “any change”, and “Commission (and if such security is registered on a national securities exchange, shall also file with the exchange) a statement” for “exchange a statement (and a duplicate original thereof with the Commission)”, and inserted “on a national securities exchange or by the effective date of a registration statement filed pursuant to section 78<i>l</i>(g) of this title” after “registration of such security”.
+<b>1964</b>—Subsec. (a). Pub. L. 88–467, §8(a), substituted “registered pursuant to section 78<i>l</i> of this title” for “registered on a national securities exchange”, “Commission (and, if such security is registered on a national securities exchange, also with the exchange)” for “exchange (and a duplicate original thereof with the Commission)”, “a change” for “any change”, and “Commission (and if such security is registered on a national securities exchange, shall also file with the exchange) a statement” for “exchange a statement (and a duplicate original thereof with the Commission)”, and inserted “on a national securities exchange or by the effective date of a registration statement filed pursuant to section 78<i>l</i>(g) of this title” after “registration of such security”.
 
 Subsecs. (d), (e). Pub. L. 88–467, §8(b), added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 929R(b) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+
+Amendment by section 762(d)(5) of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
 
 #### Effective Date of 2002 Amendment
 

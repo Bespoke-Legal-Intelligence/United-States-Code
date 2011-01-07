@@ -14,5 +14,5 @@ There is established as a unit of the National Park System the Marsh-Billings-Ro
 
 #### Amendments
 
-1998—Subsecs. (a), (b)(1). Pub. L. 105–277 substituted “Marsh-Billings-Rockefeller” for “Marsh-Billings” wherever appearing.
+<b>1998</b>—Subsecs. (a), (b)(1). Pub. L. 105–277 substituted “Marsh-Billings-Rockefeller” for “Marsh-Billings” wherever appearing.
 

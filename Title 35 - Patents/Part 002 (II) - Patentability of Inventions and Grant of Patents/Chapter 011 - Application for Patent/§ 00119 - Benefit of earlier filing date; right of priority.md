@@ -42,9 +42,9 @@ The Stockholm Revision of the Paris Convention, referred to in subsec. (d), mean
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4802(1)\]. See 1999 Amendment note below.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4802(1)\]. See 1999 Amendment note below.
 
-1999—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title IV, §4802(1)\], as amended by Pub. L. 107–273, inserted “or in a WTO member country,” after “or to citizens of the United States,”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title IV, §4802(1)\], as amended by Pub. L. 107–273, inserted “or in a WTO member country,” after “or to citizens of the United States,”.
 
 Subsec. (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4503(a)\], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “No application for patent shall be entitled to this right of priority unless a claim therefor and a certified copy of the original foreign application, specification and drawings upon which it is based are filed in the Patent and Trademark Office before the patent is granted, or at such time during the pendency of the application as required by the Commissioner not earlier than six months after the filing of the application in this country. Such certification shall be made by the patent office of the foreign country in which filed and show the date of the application and of the filing of the specification and other papers. The Commissioner may require a translation of the papers filed if not in the English language and such other information as he deems necessary.”
 
@@ -56,13 +56,13 @@ Subsec. (e)(3). Pub. L. 106–113, §1000(a)(9) \[title IV, §4801(b)\], added p
 
 Subsecs. (f), (g). Pub. L. 106–113, §1000(a)(9) \[title IV, §4802(2)\], added subsecs. (f) and (g).
 
-1994—Pub. L. 103–465, in section catchline, struck out “in foreign country” after “date”, designated four undesignated paragraphs as subsecs. (a) to (d), and added subsec. (e).
+<b>1994</b>—Pub. L. 103–465, in section catchline, struck out “in foreign country” after “date”, designated four undesignated paragraphs as subsecs. (a) to (d), and added subsec. (e).
 
-1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
-1972—Pub. L. 92–358 inserted last paragraph providing that under certain circumstances, applications for inventors’ certificate filed in a foreign country would be given the same priority as applications for patents, if the applicants are entitled to the benefits of the Stockholm Revision of the Paris Convention at the time of filing.
+<b>1972</b>—Pub. L. 92–358 inserted last paragraph providing that under certain circumstances, applications for inventors’ certificate filed in a foreign country would be given the same priority as applications for patents, if the applicants are entitled to the benefits of the Stockholm Revision of the Paris Convention at the time of filing.
 
-1961—Pub. L. 87–333 authorized the right provided by this section to be based upon a subsequent application in the same foreign country, instead of the first application, provided that any foreign application filed prior to such subsequent one was withdrawn, or otherwise disposed of, without having been open to public inspection and without leaving any rights outstanding, nor any basis for claiming priority.
+<b>1961</b>—Pub. L. 87–333 authorized the right provided by this section to be based upon a subsequent application in the same foreign country, instead of the first application, provided that any foreign application filed prior to such subsequent one was withdrawn, or otherwise disposed of, without having been open to public inspection and without leaving any rights outstanding, nor any basis for claiming priority.
 
 #### Effective Date of 1999 Amendment
 

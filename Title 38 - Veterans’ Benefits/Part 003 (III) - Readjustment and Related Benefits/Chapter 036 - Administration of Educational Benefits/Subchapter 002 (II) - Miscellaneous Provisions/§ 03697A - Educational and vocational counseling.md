@@ -24,9 +24,9 @@
 
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–252 substituted “32, or 33” for “or 32”.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–252 substituted “32, or 33” for “or 32”.
 
-1991—Pub. L. 102–83 renumbered section 1797A of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1797A of this title as this section.
 
 #### Effective Date of 2008 Amendment
 

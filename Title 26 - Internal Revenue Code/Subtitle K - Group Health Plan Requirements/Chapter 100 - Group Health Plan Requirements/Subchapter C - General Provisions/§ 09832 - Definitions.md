@@ -184,9 +184,9 @@ The Public Health Service Act, referred to in subsec. (d)(1)(C), is act July 1, 
 
 #### Amendments
 
-2008—Subsec. (d)(6) to (10). Pub. L. 110–233 added pars. (6) to (10).
+<b>2008</b>—Subsec. (d)(6) to (10). Pub. L. 110–233 added pars. (6) to (10).
 
-1997—Pub. L. 105–34 renumbered section 9805 of this title as this section.
+<b>1997</b>—Pub. L. 105–34 renumbered section 9805 of this title as this section.
 
 #### Effective Date of 2008 Amendment
 

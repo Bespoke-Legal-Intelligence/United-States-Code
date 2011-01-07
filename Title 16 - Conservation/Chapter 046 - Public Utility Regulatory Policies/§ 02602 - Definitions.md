@@ -26,7 +26,7 @@ As used in this Act, except as otherwise specifically provided—
 
 &emsp;(9) The term “nonregulated electric utility” means any electric utility other than a State regulated electric utility.
 
-&emsp;(10) The term “rate” means (A) any price, rate, charge, or classification made, demanded, observed, or received with respect tosale of electric energy by an electric utility to an electric consumer, (B) any rule, regulation, or practice respecting any such rate, charge, or classification, and (C) any contract pertaining to the sale of electric energy to an electric consumer.
+&emsp;(10) The term “rate” means (A) any price, rate, charge, or classification made, demanded, observed, or received with respect to sale of electric energy by an electric utility to an electric consumer, (B) any rule, regulation, or practice respecting any such rate, charge, or classification, and (C) any contract pertaining to the sale of electric energy to an electric consumer.
 
 &emsp;(11) The term “ratemaking authority” means authority to fix, modify, approve, or disapprove rates.
 
@@ -60,7 +60,7 @@ The Sherman Antitrust Act (15 U.S.C. 1 and following), referred to in par. (1), 
 
 The Clayton Act (15 U.S.C. 12 and following), referred to in par. (1), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, Commerce and Trade, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
 
-The Federal Trade Commission Act (15 U.S.C. 14 and following), referred to in par. (1), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
+The Federal Trade Commission Act (15 U.S.C. 14 and following), referred to in par. (1), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification ofthis Act to the Code, see section 58 of Title 15 and Tables.
 
 The Wilson Tariff Act (15 U.S.C. 8 and 9), referred to in par. (1), is sections 73 to 77 of act Aug. 27, 1894, ch. 349, 28 Stat. 570. Sections 73 to 76 enacted sections 8 to 11 of Title 15, Commerce and Trade. Section 77 of said Act was not classified to the Code. For complete classification of this Act to the Code, see Short Title note under section 8 of Title 15 and Tables.
 
@@ -72,5 +72,5 @@ This section was not enacted as part of title I of Pub. L. 95–617 which compri
 
 #### Amendments
 
-1992—Pars. (19) to (21). Pub. L. 102–486 added pars. (19) to (21).
+<b>1992</b>—Pars. (19) to (21). Pub. L. 102–486 added pars. (19) to (21).
 

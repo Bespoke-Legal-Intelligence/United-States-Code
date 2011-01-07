@@ -4,7 +4,7 @@ A food shall be deemed to be adulterated—
 
 #### (a) Poisonous, insanitary, etc., ingredients
 
-(1) If it bears or contains any poisonous or deleterious substance which may render it injurious to health; but in case the substance is not an added substance such food shall not be considered adulterated under this clause if the quantity of such substance in such food does not ordinarily render it injurious to health.<sup>1</sup> (2)(A) if it bears or contains any added poisonous or added deleterious substance (other than a substance that is a pesticide chemical residue in or on a raw agricultural commodity or processed food, a food additive, a color additive, or a new animal drug) that is unsafe within the meaning of section 346 of this title; or (B) if it bears or contains a pesticide chemical residue that is unsafe within the meaning of section 346a(a) of this title; or (C) if it is or if it bears or contains (i) any food additive that is unsafe within the meaning of section 348 of this title; or (ii) a new animal drug (or conversion product thereof) that is unsafe within the meaning of section 360b of this title; or (3) if it consists in whole or in part of any filthy, putrid, or decomposed substance, or if it is otherwise unfit for food; or (4) if it hasbeen prepared, packed, or held under insanitary conditions whereby it may have become contaminated with filth, or whereby it may have been rendered injurious to health; or (5) if it is, in whole or in part, the product of a diseased animal or of an animal which has died otherwise than by slaughter; or (6) if its container is composed, in whole or in part, of any poisonous or deleterious substance which may render the contents injurious to health; or (7) if it has been intentionally subjected to radiation, unless the use of the radiation was in conformity with a regulation or exemption in effect pursuant to section 348 of this title.
+(1) If it bears or contains any poisonous or deleterious substance which may render it injurious to health; but in case the substance is not an added substance such food shall not be considered adulterated under this clause if the quantity of such substance in such food does not ordinarily render it injurious to health.<sup>1</sup> (2)(A) if it bears or contains any added poisonous or added deleterious substance (other than a substance that is a pesticide chemical residue in or on a raw agricultural commodity or processed food, a food additive, a color additive, or a new animal drug) that is unsafe within the meaning of section 346 of this title; or (B) if it bears or contains a pesticide chemical residue that is unsafe within the meaning of section 346a(a) of this title; or (C) if it is or if it bears or contains (i) any food additive that is unsafe within the meaning of section 348 of this title; or (ii) a new animal drug (or conversion product thereof) that is unsafe within the meaning of section 360b of this title; or (3) if it consists in whole or in part of any filthy, putrid, or decomposed substance, or if it is otherwise unfit for food; or (4) if it has been prepared, packed, or held under insanitary conditions whereby it may have become contaminated with filth, or whereby it may have been rendered injurious to health; or (5) if it is, in whole or in part, the product of a diseased animal or of an animal which has died otherwise than by slaughter; or (6) if its container is composed, in whole or in part, of any poisonous or deleterious substance which may render the contents injurious to health; or (7) if it has been intentionally subjected to radiation, unless the use of the radiation was in conformity with a regulation or exemption in effect pursuant to section 348 of this title.
 
 #### (b) Absence, substitution, or addition of constituents
 
@@ -66,45 +66,45 @@ If it is transported or offered for transport by a shipper, carrier by motor veh
 
 #### Amendments
 
-2005—Par. (i). Pub. L. 109–59 added par. (i).
+<b>2005</b>—Par. (i). Pub. L. 109–59 added par. (i).
 
-2002—Par. (h). Pub. L. 107–188 added par. (h).
+<b>2002</b>—Par. (h). Pub. L. 107–188 added par. (h).
 
-1996—Par. (a). Pub. L. 104–170 added subpar. (2) and struck out former subpar. (2) which read as follows: “(2)(A) if it bears or contains any added poisonous or added deleterious substance (other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive; (iii) a color additive; or (iv) a new animal drug) which is unsafe within the meaning of section 346 of this title, or (B) if it is a raw agricultural commodity and it bears or contains a pesticide chemical which is unsafe within the meaning of section 346a(a) of this title, or (C) if it is, or if it bears or contains, any food additive which is unsafe within the meaning of section 348 of this title: <i>Provided</i>, That where a pesticide chemical has been used in or on a raw agricultural commodity in conformity with an exemption granted or a tolerance prescribed under section 346a of this title and such raw agricultural commodity has been subjected to processing such as canning, cooking, freezing, dehydrating, or milling, the residue of such pesticide chemical remaining in or on such processed food shall, notwithstanding the provisions of sections 346 and 348 of this title, not be deemed unsafe if such residue in or on the raw agricultural commodity has been removed to the extent possible in good manufacturing practice and the concentration of such residue in the processed food when ready to eat is not greater than the tolerance prescribed for the raw agricultural commodity, or (D) if it is, or it bears or contains, a new animal drug (or conversion product thereof) which is unsafe within the meaning of section 360b of this title;”. That part of Pub. L. 104–170 which directed the substitution of “or (3) if it consists” for “(3) if it consists” was executed by making the substitution for “(3) If it consists” to reflect the probable intent of Congress.
+<b>1996</b>—Par. (a). Pub. L. 104–170 added subpar. (2) and struck out former subpar. (2) which read as follows: “(2)(A) if it bears or contains any added poisonous or added deleterious substance (other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive; (iii) a color additive; or (iv) a new animal drug) which is unsafe within the meaning of section 346 of this title, or (B) if it is a raw agricultural commodity and it bears or contains a pesticide chemical which is unsafe within the meaning of section 346a(a) of this title, or (C) if it is, or if it bears or contains, any food additive which is unsafe within the meaning of section 348 of this title: <i>Provided</i>, That where a pesticide chemical has been used in or on a raw agricultural commodity in conformity with an exemption granted or a tolerance prescribed under section 346a of this title and such raw agricultural commodity has been subjected to processing such as canning, cooking, freezing, dehydrating, or milling, the residue of such pesticide chemical remaining in or on such processed food shall, notwithstanding the provisions of sections 346 and 348 of this title, not be deemed unsafe if such residue in or on the raw agricultural commodity has been removed to the extent possible in good manufacturing practice and the concentration of such residue in the processed food when ready to eat is not greater than the tolerance prescribed for the raw agricultural commodity, or (D) if it is, or it bears or contains, a new animal drug (or conversion product thereof) which is unsafe within the meaning of section 360b of this title;”. That part of Pub. L. 104–170 which directed the substitution of “or (3) if it consists” for “(3) if it consists” was executed by making the substitution for “(3) If it consists” to reflect the probable intent of Congress.
 
-1994—Par. (f). Pub. L. 103–417, §4, added par. (f).
+<b>1994</b>—Par. (f). Pub. L. 103–417, §4, added par. (f).
 
 Par. (g). Pub. L. 103–417, §9, added par. (g).
 
-1993—Par. (a). Pub. L. 103–80, §3(i)(1), substituted a period for “; or” at end of subpar. (1) and “If it” for “if it” at beginning of par. (3). That part of Pub. L. 103–80, §3(i)(1), which directed the substitution of a period for “; or” at end of subpar. (2) could not be executed because “; or” did not appear.
+<b>1993</b>—Par. (a). Pub. L. 103–80, §3(i)(1), substituted a period for “; or” at end of subpar. (1) and “If it” for “if it” at beginning of par. (3). That part of Pub. L. 103–80, §3(i)(1), which directed the substitution of a period for “; or” at end of subpar. (2) could not be executed because “; or” did not appear.
 
 Par. (d)(1). Pub. L. 103–80, §3(i)(2), substituted “, except that this subparagraph” for “: <i>Provided</i>, That this clause”.
 
 Par. (d)(3). Pub. L. 103–80, §3(i)(3), substituted “, except that this subparagraph shall not apply” for “: <i>Provided</i>, That this clause shall not apply” and “, except that the Secretary may, for the purpose of avoiding or resolving uncertainty as to the application of this subparagraph” for “: <i>And provided further</i>, That the Secretary may, for the purpose of avoiding or resolving uncertainty as to the application of this clause”.
 
-1992—Par. (c). Pub. L. 102–571 substituted “379e(a)” for “376(a)”.
+<b>1992</b>—Par. (c). Pub. L. 102–571 substituted “379e(a)” for “376(a)”.
 
-1986—Par. (d)(2). Pub. L. 99–252 inserted provision that this clause not apply to confectionery introduced or delivered for introduction into or received or held for sale in, interstate commerce if the sale is permitted under the laws of the State in which the confectionery is intended to be offered for sale.
+<b>1986</b>—Par. (d)(2). Pub. L. 99–252 inserted provision that this clause not apply to confectionery introduced or delivered for introduction into or received or held for sale in, interstate commerce if the sale is permitted under the laws of the State in which the confectionery is intended to be offered for sale.
 
-1968—Par. (a)(2). Pub. L. 90–399 added cls. (A)(iv) and (D).
+<b>1968</b>—Par. (a)(2). Pub. L. 90–399 added cls. (A)(iv) and (D).
 
-1966—Par. (d). Pub. L. 89–477 permitted the imbedding of nonnutritive objects in confectionery foods if in the judgment of the Secretary of Health, Education, and Welfare, as provided by regulation, the imbedding of the object is of practical functional value to the confectionery product and would not render it injurious or hazardous to health, raised to one-half of 1 per centum by volume the upper limit for the allowable use of alcohol derived solely from the use of flavoring extracts, allowed the use of safe nonnutritive substances in and on confectionery foods by reason of their use for some practical and functional purpose in the manufacture, packaging, or storage of the confectionery foods if the use of the substances does not promote deception of the consumer or otherwise result in adulteration or misbranding, authorized the Secretary to issue regulations on the use of particular nonnutritive substances, and removed reference to nonnutritive masticatory substances added to chewing gum and harmless flavoring, harmless resinous glaze not in excess of four-tenths of 1 per centum, natural gum, authorized coloring, and pectin.
+<b>1966</b>—Par. (d). Pub. L. 89–477 permitted the imbedding of nonnutritive objects in confectionery foods if in the judgment of the Secretary of Health, Education, and Welfare, as provided by regulation, the imbedding of the object is of practical functional value to the confectionery product and would not render it injurious or hazardous to health, raised to one-half of 1 per centum by volume the upper limit for the allowable use of alcohol derived solely from the use of flavoring extracts, allowed the use of safe nonnutritive substances in and on confectionery foods by reason of their use for some practical and functional purpose in the manufacture, packaging, or storage of the confectionery foods if the use of the substances does not promote deception of the consumer or otherwise result in adulteration or misbranding, authorized the Secretary to issue regulations on the use of particular nonnutritive substances, and removed reference to nonnutritive masticatory substances added to chewing gum and harmless flavoring, harmless resinous glaze not in excess of four-tenths of 1 per centum, natural gum, authorized coloring, and pectin.
 
-1960—Par. (a). Pub. L. 86–618, §102(a)(1), substituted “other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive; or (iii) a color additive” for “(except a pesticide chemical in or on a raw agricultural commodity and except a food additive)” in cl. (2)(A).
+<b>1960</b>—Par. (a). Pub. L. 86–618, §102(a)(1), substituted “other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive; or (iii) a color additive” for “(except a pesticide chemical in or on a raw agricultural commodity and except a food additive)” in cl. (2)(A).
 
 Par. (c). Pub. L. 86–618, §102(a)(2), amended par. (c) generally, substituting provisions deeming a food adulterated if it is, or it bears or contains, a color additive which is unsafe within the meaning of section 376 of this title for provisions which related to food that bears or contains a coal-tar color other than one from a batch that has been certified in accordance with regulations as provided by section 346 of this title, and struck out provisos which related to the use of color on oranges.
 
 Par. (d). Pub. L. 86–618, §105(c), substituted “authorized coloring” for “harmless coloring”.
 
-1959—Par. (c). Pub. L. 86–2 extended from Mar. 1, 1959, to May 1, 1959, the period during which subsection is inapplicable to oranges which have been colored with F.D. \& C. Red 32, and inserted proviso requiring Secretary to establish regulations prescribing the conditions under which Citrus Red No. 2 may be safely used in coloring certain mature oranges, and providing forseparately listing and for certification of batches of such color.
+<b>1959</b>—Par. (c). Pub. L. 86–2 extended from Mar. 1, 1959, to May 1, 1959, the period during which par. is inapplicable to oranges which have been colored with F.D. \& C. Red 32, and inserted proviso requiring Secretary to establish regulations prescribing the conditions under which Citrus Red No. 2 may be safely used in coloring certain mature oranges, and providing for separately listing and for certification of batches of such color.
 
-1958—Par. (a). Pub. L. 85–929, among other changes, inserted cl. (2)(C) relating to food additive unsafe within the meaning of section 348 of this title, and to pesticide chemical, and added cl. (7) relating to radiated food.
+<b>1958</b>—Par. (a). Pub. L. 85–929, among other changes, inserted cl. (2)(C) relating to food additive unsafe within the meaning of section 348 of this title, and to pesticide chemical, and added cl. (7) relating to radiated food.
 
-1956—Par. (c). Act July 9, 1956, inserted second proviso relating to coloring of oranges.
+<b>1956</b>—Par. (c). Act July 9, 1956, inserted second proviso relating to coloring of oranges.
 
-1954—Par. (a)(2). Act July 22, 1954, provided in the case of any raw agricultural commodity bearing or containing a pesticide chemical, that such commodity shall be deemed to be adulterated if such pesticide chemical is unsafe within the meaning of section 346a of this title.
+<b>1954</b>—Par. (a)(2). Act July 22, 1954, provided in the case of any raw agricultural commodity bearing or containing a pesticide chemical, that such commodity shall be deemed to be adulterated if such pesticide chemical is unsafe within the meaning of section 346a of this title.
 
-1950—Par. (e). Act Mar. 16, 1950, added par. (e).
+<b>1950</b>—Par. (e). Act Mar. 16, 1950, added par. (e).
 
 #### Effective Date of 2005 Amendment
 
@@ -160,7 +160,55 @@ Pub. L. 88–625, §1, Oct. 3, 1964, 78 Stat. 1002, provided: “That this Act \
 
 #### Transfer of Functions
 
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare\[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
+
+#### Updating Guidance Relating to Fish and Fisheries Products Hazards and Controls
+
+Pub. L. 111–353, title I, §103(h), Jan. 4, 2011, 124 Stat. 3898, provided that: “The Secretary shall, not later than 180 days after the date of enactment of this Act \[Jan. 4, 2011\], update the Fish and Fisheries Products Hazards and Control Guidance to take into account advances in technology that have occurred since the previous publication of such Guidance by the Secretary.”
+
+#### Guidance Relating to Post Harvest Processing of Raw Oysters
+
+Pub. L. 111–353, title I, §114, Jan. 4, 2011, 124 Stat. 3921, provided that:
+
+“(a)
+
+In General.—Not later than 90 days prior to the issuance of any guidance, regulation, or suggestedamendment by the Food and Drug Administration to the National Shellfish Sanitation Program's Model Ordinance, or the issuance of any guidance or regulation by the Food and Drug Administration relating to the Seafood Hazard Analysis Critical Control Points Program of the Food and Drug Administration (parts 123 and 1240 of title 21, Code of Federal Regulations (or any successor regulations)\[)\], where such guidance, regulation or suggested amendment relates to post harvest processing for raw oysters, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report which shall include—
+
+&emsp;“(1) an assessment of how post harvest processing or other equivalent controls feasibly may be implemented in the fastest, safest, and most economical manner;
+
+&emsp;“(2) the projected public health benefits of any proposed post harvest processing;
+
+&emsp;“(3) the projected costs of compliance with such post harvest processing measures;
+
+&emsp;“(4) the impact post harvest processing is expected to have on the sales, cost, and availability of raw oysters;
+
+&emsp;“(5) criteria for ensuring post harvest processing standards will be applied equally to shellfish imported from all nations of origin;
+
+&emsp;“(6) an evaluation of alternative measures to prevent, eliminate, or reduce to an acceptable level the occurrence of foodborne illness; and
+
+&emsp;“(7) the extent to which the Food and Drug Administration has consulted with the States and other regulatory agencies, as appropriate, with regard to post harvest processing measures.
+
+“(b)
+
+Limitation.—Subsection (a) shall not apply to the guidance described in section 103(h) \[section 103(h) of Pub. L. 111–353, set out as a note above\].
+
+“(c)
+
+Review and Evaluation.—Not later than 30 days after the Secretary issues a proposed regulation or guidance described in subsection (a), the Comptroller General of the United States shall—
+
+&emsp;“(1) review and evaluate the report described in (a) and report to Congress on the findings of the estimates and analysis in the report;
+
+&emsp;“(2) compare such proposed regulation or guidance to similar regulations or guidance with respect to other regulated foods, including a comparison of risks the Secretary may find associated with seafood and the instances of those risks in such other regulated foods; and
+
+&emsp;“(3) evaluate the impact of post harvest processing on the competitiveness of the domestic oyster industry in the United States and in international markets.
+
+“(d)
+
+Waiver.—The requirement of preparing a report under subsection (a) shall be waived if the Secretary issues a guidance that is adopted as a consensus agreement between Federal and State regulators and the oyster industry, acting through the Interstate Shellfish Sanitation Conference.
+
+“(e)
+
+Public Access.—Any report prepared under this section shall be made available to the public.”
 
 #### Domestic Fish or Fish Product Compliance With Food Safety Standards or Procedures Deemed To Have Met Requirements for Federal Commodity Purchase Programs
 

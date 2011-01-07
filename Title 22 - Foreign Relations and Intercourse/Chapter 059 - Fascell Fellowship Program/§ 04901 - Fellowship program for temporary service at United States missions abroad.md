@@ -24,9 +24,9 @@ In carrying out this section, the Secretary of State shall actively recruit wome
 
 #### Amendments
 
-1993—Pub. L. 103–199 substituted “abroad” for “in the Soviet Union and Eastern Europe” in section catchline.
+<b>1993</b>—Pub. L. 103–199 substituted “abroad” for “in the Soviet Union and Eastern Europe” in section catchline.
 
-1990—Subsec. (a). Pub. L. 101–454, §9(b)(1), substituted “which would otherwise be” for “formerly” and “abroad” for “in the Soviet Union or Eastern European countries”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–454, §9(b)(1), substituted “which would otherwise be” for “formerly” and “abroad” for “in the Soviet Union or Eastern European countries”.
 
 Subsec. (c). Pub. L. 101–454, §9(b)(2), substituted “abroad” for “in the Soviet Union or an Eastern European country” and “that country's” for “Soviet or Eastern European”.
 
@@ -34,7 +34,7 @@ Subsec. (d). Pub. L. 101–454, §9(b)(3), substituted “international affairs,
 
 #### Short Title of 1990 Amendment
 
-Section 9(a) of Pub. L. 101–454 provided that: “This section \[amending this section and sections 4902 and4904 of this title, and enacting provisions set out as a note under section 4902 of this title\] may be cited as the ‘Fascell Fellowship Amendments Act of 1990’.”
+Section 9(a) of Pub. L. 101–454 provided that: “This section \[amending this section and sections 4902 and 4904 of this title, and enacting provisions set out as a note under section 4902 of this title\] may be cited as the ‘Fascell Fellowship Amendments Act of 1990’.”
 
 #### Short Title
 

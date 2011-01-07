@@ -48,13 +48,13 @@ Subject to subsection (b) of this section and in accordance with regulations iss
 
 #### Amendments
 
-2003—Pub. L. 108–136, §563(b), substituted “Space-available enrollment of students; tuition” for “Tuition-paying students” in section catchline.
+<b>2003</b>—Pub. L. 108–136, §563(b), substituted “Space-available enrollment of students; tuition” for “Tuition-paying students” in section catchline.
 
 Subsec. (c). Pub. L. 108–136, §563(a), designated existing provisions as par. (1) and added par. (2).
 
-1989—Subsec. (d)(1)(A). Pub. L. 101–189 substituted “(other than civilian officers and employees who are sponsors under section 932(2) of this title)” for “(including employees of nonappropriated fund activities of the Department of Defense)”.
+<b>1989</b>—Subsec. (d)(1)(A). Pub. L. 101–189 substituted “(other than civilian officers and employees who are sponsors under section 932(2) of this title)” for “(including employees of nonappropriated fund activities of the Department of Defense)”.
 
-1985—Subsec. (d). Pub. L. 99–145 added subsec. (d).
+<b>1985</b>—Subsec. (d). Pub. L. 99–145 added subsec. (d).
 
 #### Effective Date of 1989 Amendment
 

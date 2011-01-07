@@ -14,7 +14,7 @@ In order to carry out the provisions of this chapter, the Center may—
 
 &emsp;(5) accept and utilize the services of voluntary and noncompensated personnel and reimburse them for travel expenses, including per diem, as authorized by section 5703 of title 5;
 
-&emsp;(6) enter into contracts, grants, or other arrangements, or modifications thereof, to carry out the provisions of this chapter, and such contracts or modifications thereof may, with the concurrence of two-thirds of the members of the Board, be entered into without performance or other bonds, and without regard to section 5 of title 41;
+&emsp;(6) enter into contracts, grants, or other arrangements, or modifications thereof, to carry out the provisions of this chapter, and such contracts or modifications thereof may, with the concurrence of two-thirds of the members of the Board, be entered into without performance or other bonds, and without regard to section 6101 of title 41;
 
 &emsp;(7) make expenditures for official reception and representation expenses as well as expenditures for meals, entertainment and refreshments in connection with official training sessions or other authorized programs or activities;
 
@@ -32,6 +32,8 @@ In order to carry out the provisions of this chapter, the Center may—
 
 #### Codification
 
+In subsec. (a)(6), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 Subsection (b), which required the Center to submit an annual report to Congress on its operations under this chapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 143 of House Document No. 103–7.
 
 #### Amendments
@@ -42,5 +44,5 @@ Subsection (b), which required the Center to submit an annual report to Congress
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

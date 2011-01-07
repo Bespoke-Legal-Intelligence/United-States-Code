@@ -36,23 +36,23 @@ Provisions similar to this section were contained in section 2756a of this title
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–315 substituted “$75,000” for “$50,000”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–315 substituted “$75,000” for “$50,000”.
 
-1992—Pub. L. 102–325 amended section generally, restating subsecs. (a) and (b) with changes in substance and structure and striking out subsec. (c) which defined “community services”.
+<b>1992</b>—Pub. L. 102–325 amended section generally, restating subsecs. (a) and (b) with changes in substance and structure and striking out subsec. (c) which defined “community services”.
 
-1987—Subsec. (b)(3) to (7). Pub. L. 100–50 redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which read as follows: “provide satisfactory assurance that the institution will continue to spend in its own job location and development programs, from sources other than funds received under this section, not less than the average expenditures per year made during the most recent 3 fiscal years preceding the effective date of the agreement;”.
+<b>1987</b>—Subsec. (b)(3) to (7). Pub. L. 100–50 redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which read as follows: “provide satisfactory assurance that the institution will continue to spend in its own job location and development programs, from sources other than funds received under this section, not less than the average expenditures per year made during the most recent 3 fiscal years preceding the effective date of the agreement;”.
 
-1986—Pub. L. 99–498 amended section generally, substituting provisions relating to job location and development programs for provisions relating to equitable distribution of assistance.
+<b>1986</b>—Pub. L. 99–498 amended section generally, substituting provisions relating to job location and development programs for provisions relating to equitable distribution of assistance.
 
-1980—Subsec. (a). Pub. L. 96–374, §§435(a), 1391(a)(1), substituted “Secretary” for “Commissioner” and inserted provision that criteria established under this subsection not result in institution's receiving an amount less than institution used under this section for fiscal year 1979, unless there has been a substantial decline in student enrollment of institution.
+<b>1980</b>—Subsec. (a). Pub. L. 96–374, §§435(a), 1391(a)(1), substituted “Secretary” for “Commissioner” and inserted provision that criteria established under this subsection not result in institution's receiving an amount less than institution used under this section for fiscal year 1979, unless there has been a substantial decline in student enrollment of institution.
 
 Subsec. (b). Pub. L. 96–374, §435(b), inserted provision that, of sums granted to an eligible institution under this part for any fiscal year, 10 per centum may, at discretion of institution, remain available for expenditure during succeeding fiscal year to carry out programs under this part, and substituted “close of the second fiscal year next succeeding the fiscal year for which funds were appropriated” for “close of the fiscal year next succeeding the fiscal year for which such funds were appropriated” in provision covering available time period during which funds not used remain available to Secretary for making grants to other institutions in same State.
 
 Subsec. (c). Pub. L. 96–374, §435(b), added subsec. (c).
 
-1975—Pub. L. 94–43 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1975</b>—Pub. L. 94–43 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1968—Pub. L. 90–575, §133(a), substituted “eligible institutions” for “institutions of higher education”.
+<b>1968</b>—Pub. L. 90–575, §133(a), substituted “eligible institutions” for “institutions of higher education”.
 
 #### Effective Date of 1992 Amendment
 

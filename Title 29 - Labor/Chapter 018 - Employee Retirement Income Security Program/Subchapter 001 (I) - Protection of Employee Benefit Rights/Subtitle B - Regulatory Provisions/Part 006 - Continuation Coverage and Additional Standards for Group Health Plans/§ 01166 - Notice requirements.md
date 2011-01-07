@@ -4,7 +4,7 @@
 
 In accordance with regulations prescribed by the Secretary—
 
-&emsp;(1) the group health plan shall provide, at the time of commencement of coverage under the plan, written notice to each covered employee and spouse of the employee (if any) of the rights provided under this subsection,
+&emsp;(1) the group health plan shall provide, at the time of commencement of coverage underthe plan, written notice to each covered employee and spouse of the employee (if any) of the rights provided under this subsection,
 
 &emsp;(2) the employer of an employee under a plan must notify the administrator of a qualifying event described in paragraph (1), (2), (4), or (6) of section 1163 of this title within 30 days (or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan) of the date of the qualifying event,
 
@@ -24,7 +24,7 @@ The requirements of subsection (a)(2) of this section shall be considered satisf
 
 #### (c) Rules relating to notification of qualified beneficiaries by plan administrator
 
-For purposes of subsection (a)(4) of this section, any notification shall be made within 14days (or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan) of the date on which the administrator is notified under paragraph (2) or (3), whichever is applicable, and any such notification to an individual who is a qualified beneficiary as the spouse of the covered employee shall be treated as notification to all other qualified beneficiaries residing with such spouse at the time such notification is made.
+For purposes of subsection (a)(4) of this section, any notification shall be made within 14 days (or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan) of the date on which the administrator is notified under paragraph (2) or (3), whichever is applicable, and any such notification to an individual who is a qualified beneficiary as the spouse of the covered employee shall be treated as notification to all other qualified beneficiaries residing with such spouse at the time such notification is made.
 
 (Pub. L. 93–406, title I, §606, as added Pub. L. 99–272, title X, §10002(a), Apr. 7, 1986, 100 Stat. 230; amended Pub. L. 99–509, title IX, §9501(d)(2), Oct. 21, 1986, 100 Stat. 2077; Pub. L. 99–514, title XVIII, §1895(d)(6)(B), Oct. 22, 1986, 100 Stat. 2939; Pub. L. 101–239, title VI, §6703(c), title VII, §7891(d)(1)(A), Dec. 19, 1989, 103 Stat. 2296, 2445; Pub. L. 104–191, title IV, §421(b)(2), Aug. 21, 1996, 110 Stat. 2088.)
 
@@ -34,9 +34,9 @@ The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch
 
 #### Amendments
 
-1996—Subsec. (a)(3). Pub. L. 104–191 substituted “at any time during the first 60 days of continuation coverage under this part” for “at the time of a qualifying event described in section 1163(2) of this title”.
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–191 substituted “at any time during the first 60 days of continuation coverage under this part” for “at the time of a qualifying event described in section 1163(2) of this title”.
 
-1989—Pub. L. 101–239, §7891(d)(1)(A)(ii), designated first sentence as subsec. (a), added subsec. (b), designated second sentence as subsec. (c), and substituted “For purposes of subsection (a)(4) of this section” for “For purposes of paragraph (4)”.
+<b>1989</b>—Pub. L. 101–239, §7891(d)(1)(A)(ii), designated first sentence as subsec. (a), added subsec. (b), designated second sentence as subsec. (c), and substituted “For purposes of subsection (a)(4) of this section” for “For purposes of paragraph (4)”.
 
 Pub. L. 101–239, §7891(d)(1)(A)(i)(II), inserted in last sentence “(or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan)” after “14 days”.
 
@@ -44,7 +44,7 @@ Pub. L. 101–239, §7891(d)(1)(A)(i)(I), inserted “(or, in the case of a grou
 
 Pub. L. 101–239, §6703(c), inserted “and each qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in section 1163(2) of this title is responsible for notifying the plan administrator of such determination within 60 days after the date of the determination and for notifying the plan administrator within 30 days after the date of any final determination under such title or titles that the qualified beneficiary is no longer disabled” before comma in par. (3).
 
-1986—Par. (2). Pub. L. 99–509 substituted “(4), or (6)” for “or (4)”.
+<b>1986</b>—Par. (2). Pub. L. 99–509 substituted “(4), or (6)” for “or (4)”.
 
 Par. (3). Pub. L. 99–514 inserted “within 60 days after the date of the qualifying event”.
 
@@ -62,7 +62,7 @@ Amendment by section 7891(d)(1)(A) of Pub. L. 101–239 applicable with respect 
 
 #### Effective Date of 1986 Amendments
 
-Amendment by Pub. L. 99–514 applicable only with respect to qualifying events occurring after Oct. 22, 1986, see section 1895(d)(6)(D) of Pub. L. 99–514, set out as a note under section 162 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 99–514 applicable only with respect to qualifying events occurring after Oct. 22, 1986,see section 1895(d)(6)(D) of Pub. L. 99–514, set out as a note under section 162 of Title 26, Internal Revenue Code.
 
 Amendment by Pub. L. 99–509 effective, except as otherwise provided, as if included in title X of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 9501(e) of Pub. L. 99–509, set out as a note under section 162 of Title 26.
 

@@ -68,9 +68,9 @@ Exclusion of Coast Guard.—This section does not apply to the Coast Guard.
 
 #### Amendments
 
-2006—Subsec. (a)(2). Pub. L. 109–364 substituted “card” for “care”.
+<b>2006</b>—Subsec. (a)(2). Pub. L. 109–364 substituted “card” for “care”.
 
-2003—Subsec. (a)(1). Pub. L. 108–136, §1009(a)(1), substituted “The Secretary of Defense shall require” for “The Secretary of Defense may require”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136, §1009(a)(1), substituted “The Secretary of Defense shall require” for “The Secretary of Defense may require”.
 
 Subsec. (a)(2), (3). Pub. L. 108–136, §1009(a)(2), (3), added par. (2) and redesignated former par. (2) as (3).
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization of assistance
 
-The Congress, recognizing that prompt United States assistance is necessary to alleviate thehuman suffering arising from recent earthquakes in Romania, authorizes the President to furnish assistance, on such terms and conditions as he may determine, for the relief and rehabilitation of refugees and other earthquake victims in Romania.
+The Congress, recognizing that prompt United States assistance is necessary to alleviate the human suffering arising from recent earthquakes in Romania, authorizes the President to furnish assistance, on such terms and conditions as he may determine, for the relief and rehabilitation of refugees and other earthquake victims in Romania.
 
 #### (b) Authorization of appropriations
 
@@ -30,7 +30,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Amendments
 
-1981—Subsec. (e). Pub. L. 97–113 repealed subsec. (e) which required quarterly reports on the programming and obligation of funds under this section.
+<b>1981</b>—Subsec. (e). Pub. L. 97–113 repealed subsec. (e) which required quarterly reports on the programming and obligation of funds under this section.
 
 #### Delegation of Functions
 

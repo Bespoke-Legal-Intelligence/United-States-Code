@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-With respect to each type of service described in subsection (b) of this section, the Secretaryshall collect and maintain up-to-date statistics, by State, and on a fiscal year basis, on—
+With respect to each type of service described in subsection (b) of this section, the Secretary shall collect and maintain up-to-date statistics, by State, and on a fiscal year basis, on—
 
 &emsp;(1) the number of cases in the caseload of the State agency administering the plan approved under this part in which the service is needed; and
 
@@ -32,13 +32,13 @@ Parts A and E of this subchapter, referred to in subsec. (c)(1), are classified 
 
 #### Amendments
 
-1998—Pub. L. 105–200 reenacted section catchline without change, added subsecs. (a) to (c), redesignated former subsec. (c) as (d) and inserted heading, and struck out former subsec. (a) relating to statistics on need for and actual provision of services and subsec. (b) relating to types of services.
+<b>1998</b>—Pub. L. 105–200 reenacted section catchline without change, added subsecs. (a) to (c), redesignated former subsec. (c) as (d) and inserted heading, and struck out former subsec. (a) relating to statistics on need for and actual provision of services and subsec. (b) relating to types of services.
 
-1996—Subsec. (a). Pub. L. 104–193, §108(c)(16), substituted “assistance under State programs funded under part A of this subchapter and for families not receiving such assistance)” for “aid under plans approved under part A of this subchapter and for families not receiving such aid)”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–193, §108(c)(16), substituted “assistance under State programs funded under part A of this subchapter and for families not receiving such assistance)” for “aid under plans approved under part A of this subchapter and for families not receiving such aid)”.
 
 Subsec. (b)(2), (4). Pub. L. 104–193, §395(d)(2)(E), substituted “a noncustodial parent” for “an absent parent”.
 
-1988—Subsec. (a). Pub. L. 100–647 made technical amendment to references to part A of this subchapter and to this part involving underlying provisions of original act and requiring no change in text.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647 made technical amendment to references to part A of this subchapter and to this part involving underlying provisions of original act and requiring no change in text.
 
 #### Effective Date of 1998 Amendment
 

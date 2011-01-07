@@ -12,5 +12,5 @@ The Secretary of the Air Force shall establish and implement policies and proced
 
 #### Amendments
 
-2004—Pub. L. 108–375 substituted “capability” for “capabilty”.
+<b>2004</b>—Pub. L. 108–375 substituted “capability” for “capabilty”.
 

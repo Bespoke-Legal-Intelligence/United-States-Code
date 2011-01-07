@@ -16,7 +16,7 @@
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 5083 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5083 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
@@ -24,9 +24,9 @@ Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans�
 
 Subsec. (b). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary's” for “Administrator's” wherever appearing.
 
-1979—Subsec. (b)(1). Pub. L. 96–151 struck out provisions relating to requirement that a substantial increase in number of medical students attending such school result from approval of grant.
+<b>1979</b>—Subsec. (b)(1). Pub. L. 96–151 struck out provisions relating to requirement that a substantial increase in number of medical students attending such school result from approval of grant.
 
-1976—Subsec. (a). Pub. L. 94–581, §207, substituted “pursuant to this title” for “pursuant to subchapter IV of chapter 81 of this title”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–581, §207, substituted “pursuant to this title” for “pursuant to subchapter IV of chapter 81 of this title”.
 
 Subsec. (b). Pub. L. 94–581, §210(f)(4), substituted “the Administrator's” for “his” in provisions preceding par. (1) and in par. (4).
 

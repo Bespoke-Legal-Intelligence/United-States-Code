@@ -160,5 +160,5 @@ With respect to taxable years beginning in 2005 or 2006, the Secretary may make 
 
 #### Amendments
 
-2007—Subsec. (a)(2)(A)(i). Pub. L. 110–172 substituted “subparagraph (G)” for “subparagraph (F)”.
+<b>2007</b>—Subsec. (a)(2)(A)(i). Pub. L. 110–172 substituted “subparagraph (G)” for “subparagraph (F)”.
 

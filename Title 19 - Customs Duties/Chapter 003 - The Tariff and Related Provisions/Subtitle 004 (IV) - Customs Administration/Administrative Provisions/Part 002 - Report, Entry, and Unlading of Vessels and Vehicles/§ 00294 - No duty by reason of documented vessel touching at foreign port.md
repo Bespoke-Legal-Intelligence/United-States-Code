@@ -10,7 +10,7 @@ R.S. §3127 derived from act May 27, 1848, ch. 48, §2, 9 Stat. 232.
 
 #### Amendments
 
-1996—Pub. L. 104–295 substituted “conveyed in a United” for “conveyed a United”.
+<b>1996</b>—Pub. L. 104–295 substituted “conveyed in a United” for “conveyed a United”.
 
-1993—Pub. L. 103–182 substituted “a United States documented vessel with a registry or coastwise endorsement, or both,” for “in registered vessels”.
+<b>1993</b>—Pub. L. 103–182 substituted “a United States documented vessel with a registry or coastwise endorsement, or both,” for “in registered vessels”.
 

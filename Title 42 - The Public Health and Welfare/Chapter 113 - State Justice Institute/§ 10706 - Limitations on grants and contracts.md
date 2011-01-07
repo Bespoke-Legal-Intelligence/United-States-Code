@@ -36,7 +36,7 @@ This chapter, referred to in text, was in the original “this title”, except 
 
 #### Amendments
 
-1988—Subsec. (a)(3). Pub. L. 100–702 struck out par. (3) which read as follows: “ensure that each recipient that files with the Institute a timely application for refunding is provided interim funding necessary to maintain its current level of activities until—
+<b>1988</b>—Subsec. (a)(3). Pub. L. 100–702 struck out par. (3) which read as follows: “ensure that each recipient that files with the Institute a timely application for refunding is provided interim funding necessary to maintain its current level of activities until—
 
 &emsp;“(A) the application for refunding has been approved and funds pursuant thereto received; or
 

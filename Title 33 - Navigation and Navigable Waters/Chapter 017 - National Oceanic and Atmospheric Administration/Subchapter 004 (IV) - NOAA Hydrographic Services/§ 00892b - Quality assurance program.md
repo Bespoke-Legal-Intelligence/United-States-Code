@@ -54,7 +54,7 @@ After November 13, 1998, the Administrator may not—
 
 #### Amendments
 
-2002—Subsec. (b)(1). Pub. L. 107–372 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Administrator may—
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–372 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Administrator may—
 
 &emsp;“(A) develop and implement a quality assurance program that is equally available to all applicants, under which the Administrator may certify hydrographic products that satisfy the standards promulgated by the Administrator under section 892a(a)(3) of this title;
 

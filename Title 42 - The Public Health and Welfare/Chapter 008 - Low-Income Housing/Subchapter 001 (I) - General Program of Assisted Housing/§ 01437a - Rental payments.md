@@ -24,7 +24,7 @@ In general.—A family residing in a public housing dwelling shall pay as monthl
 
 &emsp;&emsp;(ii)
 
-Authority to retain flat and ceiling rents.—Notwithstanding clause (i) or anyother provision of law, any public housing agency that is administering flat rents or ceiling rents pursuant to any authority referred to in section 519(d) of the Quality Housing and Work Responsibility Act of 1998 before the effective day of such Act may continue to charge rent in accordance with such rent provisions after such effective date, except that the agency shall provide for families residing in public housing dwelling units owned or operated by the agency to elect annually whether to pay rent under such provisions or in accordance with one of the rent options referred to in subparagraph (A).
+Authority to retain flat and ceiling rents.—Notwithstanding clause (i) or any other provision of law, any public housing agency that is administering flat rents or ceiling rents pursuant to any authority referred to in section 519(d) of the Quality Housing and Work Responsibility Act of 1998 before the effective day of such Act may continue to charge rent in accordance with such rent provisions after such effective date, except that the agency shall provide for families residing in public housing dwelling units owned or operated by the agency to elect annually whether to pay rent under such provisions or in accordance with one ofthe rent options referred to in subparagraph (A).
 
 &emsp;(B)
 
@@ -94,7 +94,7 @@ Exception for hardship circumstances.—
 
 &emsp;&emsp;(i)
 
-In general.—Notwithstanding subparagraph (A), a public housing agency (or the Secretary, in the case of a family described in subparagraph (A)(ii)) shall immediately grant an exemption from application of the minimum monthly rental under such subparagraph to any family unable to pay such amount because of financial hardship, which shall include situations in which (I) the family has lost eligibility for or is awaiting an eligibility determination for a Federal, State, or local assistance program, including a family that includes a member who is an alien lawfully admitted for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] who would be entitled to public benefits but for title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[8 U.S.C. 1601 et seq.\]; (II) the family would be evicted as a result of the imposition of the minimum rent requirement under subparagraph (A); (III) the income of the family has decreased because of changed circumstance, including loss of employment; (IV) a death in the family has occurred; and (V) other situations as may be determined by the agency (or the Secretary, in the case of a family described in subparagraph (A)(ii)).
+In general.—Notwithstanding subparagraph (A), a public housing agency (or the Secretary, in the case of a family described in subparagraph (A)(ii)) shall immediately grant an exemption from application of the minimum monthly rental under such subparagraph to any family unable to pay such amount because of financial hardship, which shall include situations in which (I) the family has lost eligibility for or is awaiting aneligibility determination for a Federal, State, or local assistance program, including a family that includes a member who is an alien lawfully admitted for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] who would be entitled to public benefits but for title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[8 U.S.C. 1601 et seq.\]; (II) the family would be evicted as a result of the imposition of the minimum rent requirement under subparagraph (A); (III) the income of the family has decreased because of changed circumstance, including loss of employment; (IV) a death in the family has occurred; and (V) other situations as may be determined by the agency (or the Secretary, in the case of a family described in subparagraph (A)(ii)).
 
 &emsp;&emsp;(ii)
 
@@ -144,7 +144,7 @@ When used in this chapter:
 
 (1) The term “low-income housing” means decent, safe, and sanitary dwellings assisted under this chapter. The term “public housing” means low-income housing, and all necessary appurtenances thereto, assisted under this chapter other than under section 1437f of this title. The term “public housing” includes dwelling units in a mixed finance project that are assisted by a public housing agency with capital or operating assistance. When used in reference to public housing, the term “low-income housing project” or “project” means (A) housing developed, acquired, or assisted by a public housing agency under this chapter, and (B) the improvement of any such housing.
 
-(2) The term “low-income families” means those families whose incomes do not exceed 80 per centum of the median income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 80 per centum of themedian for the area on the basis of the Secretary's findings that such variations are necessary because of prevailing levels of construction costs or unusually high or low family incomes. The term “very low-income families” means low-income families whose incomes do not exceed 50 per centum of the median family income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 50 per centum of the median for the area on the basis of the Secretary's findings that such variations are necessary because of unusually high or low family incomes. Such ceilings shall be established in consultation with the Secretary of Agriculture for any rural area, as defined in section 1490 of this title, taking into account the subsidy characteristics and types of programs to which such ceilings apply. In determining median incomes (of persons, families, or households) for an area or establishing any ceilings or limits based on income under this chapter, the Secretary shall determine or establish area median incomes and income ceilings and limits for Westchester and Rockland Counties, in the State of New York, as if each such county were an area not contained within the metropolitan statistical area in which it is located. In determining such area median incomes or establishing such income ceilings or limits for the portion of such metropolitan statistical area that does not include Westchester or Rockland Counties, the Secretary shall determine or establish area median incomes and income ceilings and limits as if such portion included Westchester and Rockland Counties. In determining areas that are designated as difficult development areas for purposes of the low-income housing tax credit, the Secretary shall include Westchester and Rockland Counties, New York, in the New York City metropolitan area.
+(2) The term “low-income families” means those families whose incomes do not exceed 80 per centum of the median income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 80 per centum of the median for the area on the basis of the Secretary's findings that such variations are necessary because of prevailing levels of construction costs or unusually high or low family incomes. The term “very low-income families” means low-income families whose incomes do not exceed 50 per centum of the median family income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 50 per centum of the median for the area on the basisof the Secretary's findings that such variations are necessary because of unusually high or low family incomes. Such ceilings shall be established in consultation with the Secretary of Agriculture for any rural area, as defined in section 1490 of this title, taking into account the subsidy characteristics and types of programs to which such ceilings apply. In determining median incomes (of persons, families, or households) for an area or establishing any ceilings or limits based on income under this chapter, the Secretary shall determine or establish area median incomes and income ceilings and limits for Westchester and Rockland Counties, in the State of New York, as if each such county were an area not contained within the metropolitan statistical area in which it is located. In determining such area median incomes or establishing such income ceilings or limits for the portion of such metropolitan statistical area that does not include Westchester or Rockland Counties, the Secretary shall determine or establish area median incomes and income ceilings and limits as if such portion included Westchester and Rockland Counties. In determining areas that are designated as difficult development areas for purposes of the low-income housing tax credit, the Secretary shall include Westchester and Rockland Counties, New York, in the New York City metropolitan area.
 
 (3)
 
@@ -358,7 +358,7 @@ When used in reference to public housing:
 
 #### (2) Deposits to account
 
-&emsp;The public housing agency shall deposit in any savings account established under this subsection an amount equal to the total amount that otherwise would be applied to the family's rent payment under subsection (a) of this section as a result of employment.
+&emsp;The public housing agency shall deposit in any savings account established under thissubsection an amount equal to the total amount that otherwise would be applied to the family's rent payment under subsection (a) of this section as a result of employment.
 
 #### (3) Withdrawal from account
 
@@ -414,21 +414,21 @@ Section 811, referred to in subsec. (f)(2)(C), means section 811 of the United S
 
 #### Prior Provisions
 
-A prior section 3 of act Sept. 1, 1937, ch. 896, 50 Stat. 889, as amended, established the United States HousingAuthority and was classified to section 1403 of this title, prior to the general revision of this chapter by Pub. L. 93–383.
+A prior section 3 of act Sept. 1, 1937, ch. 896, 50 Stat. 889, as amended, established the United States Housing Authority and was classified to section 1403 of this title, prior to the general revision of this chapter by Pub. L. 93–383.
 
 Prior similar provisions were contained in section 2 of act Sept. 1, 1937, ch. 896, 50 Stat. 888, which was classified to section 1402 of this title prior to the general revision of this chapter by Pub. L. 93–383.
 
 #### Amendments
 
-2008—Subsec. (b)(4). Pub. L. 110–289 inserted “or any deferred Department of Veterans Affairs disability benefits that are received in a lump sum amount or in prospective monthly amounts” before “may not be considered”.
+<b>2008</b>—Subsec. (b)(4). Pub. L. 110–289 inserted “or any deferred Department of Veterans Affairs disability benefits that are received in a lump sum amount or in prospective monthly amounts” before “may not be considered”.
 
-2000—Subsec. (b)(3)(E)(iii). Pub. L. 106–402 substituted “section 15002 of this title” for “section 6001 of this title”.
+<b>2000</b>—Subsec. (b)(3)(E)(iii). Pub. L. 106–402 substituted “section 15002 of this title” for “section 6001 of this title”.
 
-1999—Subsec. (f)(1). Pub. L. 106–74, §214(a)(1), inserted “, or the owner responsible for determining the participant's eligibility or level of benefits,” after “A public housing agency” and “, or to the owner responsible for determining the participant's eligibility or level of benefits” before period at end.
+<b>1999</b>—Subsec. (f)(1). Pub. L. 106–74, §214(a)(1), inserted “, or the owner responsible for determining the participant's eligibility or level of benefits,” after “A public housing agency” and “, or to the owner responsible for determining the participant's eligibility or level of benefits” before period at end.
 
 Subsec. (f)(2)(C). Pub. L. 106–74, §214(a)(2), added subpar. (C).
 
-1998—Subsec. (a)(1). Pub. L. 105–276, §507(c), inserted “and subject to the requirement under paragraph (3)” after “paragraph (2)” in third sentence.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–276, §507(c), inserted “and subject to the requirement under paragraph (3)” after “paragraph (2)” in third sentence.
 
 Subsec. (a)(2). Pub. L. 105–276, §523, amended par. (2) generally. For prior text, see 1996 Amendment note below.
 
@@ -472,7 +472,7 @@ Subsecs. (d), (e). Pub. L. 105–276, §508(b)(1)(B), added subsecs. (d) and (e)
 
 Subsec. (f). Pub. L. 105–276, §508(d)(1), added subsec. (f).
 
-1996—Subsec. (a)(2). Pub. L. 104–99, §402(b)(1), (f), temporarily amended par. (2) generally, substituting
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–99, §402(b)(1), (f), temporarily amended par. (2) generally, substituting
 
 “(2) Notwithstanding paragraph (1), a public housing agency may—
 
@@ -524,9 +524,9 @@ Subsec. (b)(9) to (12). Pub. L. 104–330, §501(b)(1)(D), struck out pars. (9) 
 
 “(12) The term ‘Indian tribe’ means any tribe, band, pueblo, group, community, or nation of Indians or Alaska Natives.”
 
-1994—Subsec. (b)(3)(B). Pub. L. 103–233 substituted “includes families with children and” for “means families with children”.
+<b>1994</b>—Subsec. (b)(3)(B). Pub. L. 103–233 substituted “includes families with children and” for “means families with children”.
 
-1992—Subsec. (a)(1). Pub. L. 102–550, §185(c)(4), substituted “section 1437f(<i>o</i>) or (y) of this title or paying rent under section 1437f(c)(3)(B) of this title” for “section 1437f(<i>o</i>) of this title”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–550, §185(c)(4), substituted “section 1437f(<i>o</i>) or (y) of this title or paying rent under section 1437f(c)(3)(B) of this title” for “section 1437f(<i>o</i>) of this title”.
 
 Subsec. (a)(2)(A). Pub. L. 102–550, §102(a), struck out “for not more than a 5-year period” after “monthly rent”.
 
@@ -544,7 +544,7 @@ Subsec. (b)(5)(G). Pub. L. 102–550, §103(a)(2)(B)–(D), added subpar. (G).
 
 Subsec. (c)(4), (5). Pub. L. 102–550, §622(c), which directed the amendment of subsec. (c) by inserting pars. (4) and (5) after “project.”, was executed by making the insertion after “project.” at the end of par. (3), to reflect the probable intent of Congress.
 
-1990—Pub. L. 101–625, §515(b), added concluding undesignated par. directing that earnings and benefits to public housing residents resulting from participation in programs providing employment training and supportive services not be considered as income.
+<b>1990</b>—Pub. L. 101–625, §515(b), added concluding undesignated par. directing that earnings and benefits to public housing residents resulting from participation in programs providing employment training and supportive services not be considered as income.
 
 Subsec. (a)(1). Pub. L. 101–625, §572(1), substituted “low-income families” for “lower income families” in introductory provisions.
 
@@ -568,13 +568,13 @@ Subsec. (b)(5)(E), (F). Pub. L. 101–625, §573(c)(3), added subpars. (E) and (
 
 Subsecs. (b)(6), (10), (11)(A), (c). Pub. L. 101–625, §572(2), substituted “low-income housing” for “lower income housing” wherever appearing.
 
-1989—Subsec. (a)(2)(A). Pub. L. 101–235, §302(1), substituted “5-year period” for “3-year period”.
+<b>1989</b>—Subsec. (a)(2)(A). Pub. L. 101–235, §302(1), substituted “5-year period” for “3-year period”.
 
-Subsec. (a)(2)(B). Pub. L. 101–235, §302(2), substituted “5-year limitation” for “3-year limitation” and inserted at end “The terms of all ceiling rents establishedprior to December 15, 1989, shall be extended for the 5-year period beginning on December 15, 1989.”
+Subsec. (a)(2)(B). Pub. L. 101–235, §302(2), substituted “5-year limitation” for “3-year limitation” and inserted at end “The terms of all ceiling rents established prior to December 15, 1989, shall be extended for the 5-year period beginning on December 15, 1989.”
 
-1988—Subsec. (a). Pub. L. 100–242, §102(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), a” for “A”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
+<b>1988</b>—Subsec. (a). Pub. L. 100–242, §102(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), a” for “A”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
 
-Subsec. (b)(3). Pub. L. 100–242, §170(c), in cl. (A), substituted “sixty-two years of age,” for “sixty-two years of age or”, and “, has a developmental disability as defined in section 6001(7) of this title” for “or in section 102 of the Developmental Disabilities Services and Facilities Construction Amendments of 1970”.
+Subsec. (b)(3). Pub. L. 100–242, §170(c), in cl. (A), substituted “sixty-two years of age,” for “sixty-two years of age or”, and “, has a developmental disability as defined in section 6001(7) of this title” for “or in section102 of the Developmental Disabilities Services and Facilities Construction Amendments of 1970”.
 
 Pub. L. 100–242, §111, inserted provisions relating to determination of priority admission to public housing projects designed for elderly families.
 
@@ -586,13 +586,13 @@ Subsec. (b)(7). Pub. L. 100–358, §4(c), struck out “, bands, groups, and N
 
 Subsec. (b)(9) to (12). Pub. L. 100–358, §4(d)–(g), added pars. (9) to (12).
 
-1984—Subsec. (b)(2). Pub. L. 98–479, §102(b)(1), inserted provision at end that such ceilings shall be established in consultation with the Secretary of Agriculture for any rural area, as defined in section 1490 of this title, taking into account the subsidy characteristics and types of programs to which such ceilings apply.
+<b>1984</b>—Subsec. (b)(2). Pub. L. 98–479, §102(b)(1), inserted provision at end that such ceilings shall be established in consultation with the Secretary of Agriculture for any rural area, as defined in section 1490 of this title, taking into account the subsidy characteristics and types of programs to which such ceilings apply.
 
 Subsec. (b)(4). Pub. L. 98–479, §102(b)(2), inserted “, in consultation with the Secretary of Agriculture” at end.
 
 Subsec. (b)(5)(C). Pub. L. 98–479, §102(b)(3), designated existing provision as cl. (i), added cl. (ii), and inserted “the amount by which the aggregate of the following expenses of the family” in provisions preceding cl. (i).
 
-1983—Subsec. (a). Pub. L. 98–181, §206(a), in provisions preceding par. (1), inserted provision requiring annual review of family income, and inserted “(other than a family assisted under section 1437f(<i>o</i>) of this title)”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–181, §206(a), in provisions preceding par. (1), inserted provision requiring annual review of family income, and inserted “(other than a family assisted under section 1437f(<i>o</i>) of this title)”.
 
 Subsec. (b)(2). Pub. L. 98–181, §206(b), qualified the term “very low-income families” in authorizing the Secretary to establish, where necessary, variations in income ceilings higher or lower than 50 per centum of the median for the area.
 
@@ -600,13 +600,13 @@ Subsec. (b)(3). Pub. L. 98–181, §202, inserted provision at end of par. (3) a
 
 Subsec. (b)(5). Pub. L. 98–181, §206(c), amended par. (5) generally, substituting provisions designating cls. (A) to (D) for prior exclusion from “adjusted income” of such amounts or types of income as the Secretary might prescribe, taking into account the number of minor children and other appropriate factors.
 
-1981—Pub. L. 97–35 added subsecs. (a) and (c) and designated provisions constituting former section as subsec. (b), and in subsec. (b) as so designated, substituted provisions defining “lower income housing”, “lower income families”, “families”, “income”, “adjusted income”, “public housing agency”, “State”, and “Secretary” for provisions defining “low-income housing”, “low-income families”, “development”, “operation”, “acquisition cost”, “public housing agency”, “State”, “Secretary”, and “low-income housing project”.
+<b>1981</b>—Pub. L. 97–35 added subsecs. (a) and (c) and designated provisions constituting former section as subsec. (b), and in subsec. (b) as so designated, substituted provisions defining “lower income housing”, “lower income families”, “families”, “income”, “adjusted income”, “public housing agency”, “State”, and “Secretary” for provisions defining “low-income housing”, “low-income families”, “development”, “operation”, “acquisition cost”, “public housing agency”, “State”, “Secretary”, and “low-income housing project”.
 
-1979—Par. (1). Pub. L. 96–153 substituted provisions that the rental for a dwelling shall not exceed certain portion of the resident family's income to be established by the Secretary, and that in the case of a very low income family 25 per centum and in other cases 30 per centum of family income for provisions that such rental shall not exceed one-fourth of the family's income as defined by the Secretary.
+<b>1979</b>—Par. (1). Pub. L. 96–153 substituted provisions that the rental for a dwelling shall not exceed certain portion of the resident family's income to be established by the Secretary, and that in the case of a very low income family 25 per centum and in other cases 30 per centum of family income for provisions that such rental shall not exceed one-fourth of the family's income as defined by the Secretary.
 
-1978—Par. (2)(D). Pub. L. 95–557 substituted “15 per cent” for “10 per cent”.
+<b>1978</b>—Par. (2)(D). Pub. L. 95–557 substituted “15 per cent” for “10 per cent”.
 
-1976—Par. (2). Pub. L. 94–375 struck out “and” before cl. (C), added cl. (D), and two provisos relating to the percentage of units to be occupied by single persons and the priority to be given to single persons who are elderly, handicapped, or displaced, following cl. (D).
+<b>1976</b>—Par. (2). Pub. L. 94–375 struck out “and” before cl. (C), added cl. (D), and two provisos relating to the percentage of units to be occupied by single persons and the priority to be given to single persons who are elderly, handicapped, or displaced, following cl. (D).
 
 #### Effective Date of 1998 Amendment
 
@@ -720,7 +720,7 @@ Ceiling rents from balanced budget act, I.—An agency may utilize the authority
 
 &emsp;“(3)
 
-Transitional ceiling rents for balanced budget act, I.—An agency may utilize the authority with respect to ceiling rents under section 402(b)(2) of The Balanced Budget Downpayment Act, I \[Pub. L. 104–99\] (42 U.S.C. 1437a note), notwithstanding any other provision of law (including the expiration of the applicability of such section or the repeal of such section).”
+Transitional ceiling rents for balanced budget act, I.—An agency may utilize the authoritywith respect to ceiling rents under section 402(b)(2) of The Balanced Budget Downpayment Act, I \[Pub. L. 104–99\] (42 U.S.C. 1437a note), notwithstanding any other provision of law (including the expiration of the applicability of such section or the repeal of such section).”
 
 #### Certain Payments Made to Victims of Nazi Persecution Disregarded in Determining Eligibility for and Amount of Need-Based Benefits and Services
 

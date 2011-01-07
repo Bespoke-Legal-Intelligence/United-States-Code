@@ -16,5 +16,5 @@ For purposes of this section—
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–236 substituted “Secretary of the Treasury, in consultation with the Attorney General and appropriate investigative agencies,” for “Secretary of the Treasury” and inserted at end “Each such report shall provide a detailed list and description of specific assets.”
+<b>1994</b>—Subsec. (a). Pub. L. 103–236 substituted “Secretary of the Treasury, in consultation with the Attorney General and appropriate investigative agencies,” for “Secretary of the Treasury” and inserted at end “Each such report shall provide a detailed list and description of specific assets.”
 

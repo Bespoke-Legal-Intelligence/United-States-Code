@@ -64,7 +64,7 @@ For the purpose of this section—
 
 &emsp;&emsp;(E) recognizes the educational role of work-learning-service supervisors; and
 
-&emsp;&emsp;(F) includes consequences for nonperformance or failure in the work-learning-service program similar to the consequences for failure in the regular academic program.
+&emsp;&emsp;(F) includes consequences for nonperformance or failure in the work-learning-serviceprogram similar to the consequences for failure in the regular academic program.
 
 #### (f) Authorization of appropriations
 
@@ -82,13 +82,13 @@ A prior section 2756b, Pub. L. 89–329, title IV, §448, as added Pub. L. 96–
 
 #### Amendments
 
-2008—Subsecs. (a), (b)(2)(A), (D). Pub. L. 110–315, §447(1), substituted “work-learning-service” for “work-learning” wherever appearing.
+<b>2008</b>—Subsecs. (a), (b)(2)(A), (D). Pub. L. 110–315, §447(1), substituted “work-learning-service” for “work-learning” wherever appearing.
 
 Subsec. (e). Pub. L. 110–315, §447(2), added subsec. (e) and struck out former subsec. (e) which defined “work-college” and “comprehensive student work-learning program”.
 
 Subsec. (f). Pub. L. 110–315, §447(3), substituted “such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years” for “$5,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years”.
 
-1998—Subsec. (b)(2)(E), (F). Pub. L. 105–244, §445(1), added subpars. (E) and (F).
+<b>1998</b>—Subsec. (b)(2)(E), (F). Pub. L. 105–244, §445(1), added subpars. (E) and (F).
 
 Subsec. (f). Pub. L. 105–244, §445(2), substituted “1999” for “1993”.
 

@@ -6,7 +6,7 @@ Subject to the approval of the Secretary or head of the affected department or a
 
 &emsp;(1) enter into a contract or memorandum of understanding with a partnership intermediary that provides for the partnership intermediary to perform services for the Federal laboratory that increase the likelihood of success in the conduct of cooperative or joint activities of such Federal laboratory with small business firms, institutions of higher education as defined in section 1141(a) <sup>1</sup> of title 20, or educational institutions within the meaning of section 2194 of title 10; and
 
-&emsp;(2) pay the Federal costs of such contract or memorandum of understanding out of funds available for the support of the technology transfer function pursuant to section 3710(b) of this title.
+&emsp;(2) pay the Federal costs of such contract or memorandum of understanding out of fundsavailable for the support of the technology transfer function pursuant to section 3710(b) of this title.
 
 #### (b) Omitted
 
@@ -26,17 +26,17 @@ Subsec. (b) of this section, which required the Secretary to include in each tri
 
 #### Amendments
 
-2000—Subsec. (a)(1). Pub. L. 106–404, §9(1), inserted “, institutions of higher education as defined in section 1141(a) of title 20, or educational institutions within the meaning of section 2194 of title 10” after “small business firms”.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–404, §9(1), inserted “, institutions of higher education as defined in section 1141(a) of title 20, or educational institutions within the meaning of section 2194 of title 10” after “small business firms”.
 
 Subsec. (c). Pub. L. 106–404, §9(2), inserted “, institutions of higher education as defined in section 1141(a) of title 20, or educational institutions within the meaning of section 2194 of title 10,” after “small business firms”.
 
-1991—Subsec. (a). Pub. L. 102–190 inserted “that is not a laboratory (as defined in section 3710a(d)(2) of this title)” after “center” in introductory provisions.
+<b>1991</b>—Subsec. (a). Pub. L. 102–190 inserted “that is not a laboratory (as defined in section 3710a(d)(2) of this title)” after “center” in introductory provisions.
 
 #### Participation in Programs Promoting Research, Development, Demonstration, or Transfer of Technology
 
 Pub. L. 103–337, div. A, title II, §217(f), Oct. 5, 1994, 108 Stat. 2695, as amended by Pub. L. 105–261, div. C, title XXXI, §3136, Oct. 17, 1998, 112 Stat. 2248; Pub. L. 111–84, div. A, title II, §254, Oct. 28, 2009, 123 Stat. 2243, provided that:
 
-“(1)(A) A federally funded research and development center of the Department of Defense, of the NationalAeronautics and Space Administration, or of the Department of Energy that functions primarily as a research laboratory may respond to solicitations and announcements under programs authorized by the Federal Government for the purpose of promoting the research, development, demonstration, or transfer of technology in a manner consistent with the terms and conditions of such program.
+“(1)(A) A federally funded research and development center of the Department of Defense, of the National Aeronautics and Space Administration, or of the Department of Energy that functions primarily as a research laboratory may respond to solicitations and announcements under programs authorized by the Federal Government for the purpose of promoting the research, development, demonstration, or transfer of technology in a manner consistent with the terms and conditions of such program.
 
 “(B) A federally funded research and development center of the Department of Energy described in subparagraph (A) may respond to solicitations and announcements described in that subparagraph only for activities conducted by the center under contract with or on behalf of the Department of Defense.
 

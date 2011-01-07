@@ -22,7 +22,7 @@ As used in this subchapter:
 
 &emsp;(3) The term “energy crisis” means weather-related and supply shortage emergencies and other household energy-related emergencies.
 
-&emsp;(4) The term “highest home energy needs” means the home energy requirements of a household determined by taking into account both the energy burden of such household and the unique situation of such household thatresults from having members of vulnerable populations, including very young children, individuals with disabilities, and frail older individuals.
+&emsp;(4) The term “highest home energy needs” means the home energy requirements of a household determined by taking into account both the energy burden of such household and the unique situation of such household that results from having members of vulnerable populations, including very young children, individuals with disabilities, and frail older individuals.
 
 &emsp;(5) The term “household” means any individual or group of individuals who are living together as one economic unit for whom residential energy is customarily purchased in common or who make undesignated payments for energy in the form of rent.
 
@@ -54,9 +54,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Par. (1)(E). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(EE), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+<b>2008</b>—Par. (1)(E). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(EE), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
-1998—Pars. (1) to (3). Pub. L. 105–285, §304(a)(3), (4), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively. Former par. (3) redesignated (4).
+<b>1998</b>—Pars. (1) to (3). Pub. L. 105–285, §304(a)(3), (4), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively. Former par. (3) redesignated (4).
 
 Par. (4). Pub. L. 105–285, §304(a)(3), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
@@ -66,7 +66,7 @@ Pars. (5), (6). Pub. L. 105–285, §304(a)(3), redesignated pars. (4) and (5) a
 
 Pars. (7) to (11). Pub. L. 105–285, §304(a)(1), (2), added par. (7) and redesignated formers pars. (6) to (9) as (8) to (11), respectively.
 
-1994—Par. (1). Pub. L. 103–252, §304(b)(1), (2), added par. (1). Former par. (1) redesignated (2).
+<b>1994</b>—Par. (1). Pub. L. 103–252, §304(b)(1), (2), added par. (1). Former par. (1) redesignated (2).
 
 Par. (2). Pub. L. 103–252, §311(c)(2), which directed the substitution of “The” for “the” and a period for the semicolon at end, could not be executed because the word “the” and a semicolon did not appear in par. (2) after the redesignations by Pub. L. 103–252, §304(b)(1). See below.
 
@@ -78,11 +78,11 @@ Par. (4). Pub. L. 103–252, §304(b)(1), redesignated par. (2) as (4). Former p
 
 Pars. (5) to (9). Pub. L. 103–252, §304(b)(1), redesignated pars. (3) to (7) as (5) to (9), respectively.
 
-1984—Par. (1). Pub. L. 98–558, §602(a), struck out “intervention” after “energy crisis” and inserted “and other household energy-related emergencies” at the end.
+<b>1984</b>—Par. (1). Pub. L. 98–558, §602(a), struck out “intervention” after “energy crisis” and inserted “andother household energy-related emergencies” at the end.
 
 Par. (4). Pub. L. 98–558, §602(b), substituted “the income poverty line as prescribed and revised at least annually pursuant to section 9902(2) of this title,” for “the income poverty guidelines for the nonfarm population of the United States as prescribed by the Office of Management and Budget (and as adjusted annually pursuant to section 9902(2) of this title)”.
 
-1981—Pub. L. 97–115 designated par. (2)(A) as par. (2), substituted provisions including individuals and groups of individuals who are living together as one economic unit for whom residential energy is customarily purchased in the form of rent in the definition of household, for provisions including individuals who occupy a housing unit in such definition, and struck out par. (2)(B), which provided that for purposes of subpar. (A), one or more rooms shall be treated as a housing unit when occupied as a separate living quarters.
+<b>1981</b>—Pub. L. 97–115 designated par. (2)(A) as par. (2), substituted provisions including individuals and groups of individuals who are living together as one economic unit for whom residential energy is customarily purchased in the form of rent in the definition of household, for provisions including individuals who occupy a housing unit in such definition, and struck out par. (2)(B), which provided that for purposes of subpar. (A), one or more rooms shall be treated as a housing unit when occupied as a separate living quarters.
 
 #### Effective Date of 2008 Amendment
 

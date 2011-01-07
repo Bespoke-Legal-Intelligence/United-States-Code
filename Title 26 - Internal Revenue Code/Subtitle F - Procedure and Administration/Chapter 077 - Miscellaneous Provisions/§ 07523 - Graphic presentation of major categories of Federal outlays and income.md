@@ -68,9 +68,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (b)(3)(C). Pub. L. 110–246, §4002(b)(1)(E), (2)(O), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
+<b>2008</b>—Subsec. (b)(3)(C). Pub. L. 110–246, §4002(b)(1)(E), (2)(O), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
 
-1996—Subsec. (b)(3)(C). Pub. L. 104–193, §110(<i>l</i>)(4), formerly §110(<i>l</i>)(8), as renumbered by Pub. L. 105–33, substituted “assistance under a State program funded under part A of title IV of the Social Security Act” for “aid to families with dependent children”.
+<b>1996</b>—Subsec. (b)(3)(C). Pub. L. 104–193, §110(<i>l</i>)(4), formerly §110(<i>l</i>)(8), as renumbered by Pub. L. 105–33, substituted “assistance under a State program fundedunder part A of title IV of the Social Security Act” for “aid to families with dependent children”.
 
 #### Effective Date of 2008 Amendment
 

@@ -14,7 +14,7 @@ Provisions similar to those in this section were contained in act Apr. 12, 1900,
 
 #### Amendments
 
-1980—Pub. L. 96–205 inserted provisions defining “control”.
+<b>1980</b>—Pub. L. 96–205 inserted provisions defining “control”.
 
 #### Change of Name
 

@@ -28,15 +28,15 @@ The words “four months of basic training or its equivalent” are substituted 
 
 #### Amendments
 
-2002—Subsec. (c)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (c)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1993—Subsec. (b). Pub. L. 103–160, §511(1), inserted “(except as provided in subsection (c))” after “may not”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–160, §511(1), inserted “(except as provided in subsection (c))” after “may not”.
 
 Subsec. (c). Pub. L. 103–160, §511(2), added subsec. (c).
 
-1986—Pub. L. 99–661 amended section generally. Prior to amendment, section read as follows: “No member of an armed force may be assigned to active duty on land outside the United States and its Territories and possessions, until he has had twelve weeks of basic training or its equivalent.”
+<b>1986</b>—Pub. L. 99–661 amended section generally. Prior to amendment, section read as follows: “No member of an armed force may be assigned to active duty on land outside the United States and its Territories and possessions, until he has had twelve weeks of basic training or its equivalent.”
 
-1975—Pub. L. 94–106 reduced minimum period of basic training from four months to twelve weeks.
+<b>1975</b>—Pub. L. 94–106 reduced minimum period of basic training from four months to twelve weeks.
 
 #### Effective Date of 2002 Amendment
 

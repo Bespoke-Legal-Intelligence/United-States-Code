@@ -86,7 +86,7 @@ Each pension plan shall provide that an employee's right to his normal retiremen
 
 &emsp;&emsp;(ii) in the case of a multiemployer plan, in the same industry, in the same trade or craft, and the same geographic area covered by the plan, as when such benefits commenced.
 
-> &emsp;The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subparagraph, including regulations with respect to the meaning of the term “employed”.
+> &emsp;The Secretary shall prescribe such regulations as may be necessary to carry out the purposesof this subparagraph, including regulations with respect to the meaning of the term “employed”.
 
 &emsp;(C) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because plan amendments may be given retroactive application as provided in section 1082(d)(2) of this title.
 
@@ -134,7 +134,7 @@ Each pension plan shall provide that an employee's right to his normal retiremen
 
 &emsp;&emsp;&emsp;(I) a complete withdrawal of such employer from the plan (within the meaning of section 1383 of this title), or
 
-&emsp;&emsp;&emsp;(II) to the extent permitted by regulations prescribed by the Secretary of the Treasury, a partial withdrawal described in section 1385(b)(2)(A)(i) of this title in connection with the decertification of the collective bargaining representative; and
+&emsp;&emsp;&emsp;(II) to the extent permitted by regulations prescribed by the Secretary of the Treasury, a partial withdrawal described in section 1385(b)(2)(A)(i) of this title inconnection with the decertification of the collective bargaining representative; and
 
 &emsp;&emsp;(ii) with any employer under the plan after the termination date of the plan under section 1348 of this title.
 
@@ -252,15 +252,15 @@ A pension plan may allow for nonforfeitable benefits after a lesser period and i
 
 &emsp;&emsp;The Secretary of the Treasury shall issue regulations which include in the definition of an applicable defined benefit plan any defined benefit plan (or any portion of such a plan) which has an effect similar to an applicable defined benefit plan.
 
-(Pub. L. 93–406, title I, §203, Sept. 2, 1974, 88 Stat. 854; Pub. L. 96–364, title III, §303, Sept. 26, 1980, 94 Stat. 1292; Pub. L. 98–397, title I, §§102(b), (c), (d)(2), (e)(2), 105(a), Aug. 23, 1984, 98 Stat. 1426–1428, 1436; Pub. L. 99–514, title XI, §§1113(e)(1), (2), (4)(A), 1139(c)(1), title XVIII, §1898(a)(1)(B), (4)(B)(i), (d)(1)(B), (2)(B), Oct. 22, 1986, 100 Stat. 2447, 2448, 2487, 2942, 2944, 2955; Pub. L. 101–239, title VII, §§7861(a)(1), (5)(B), (6)(B), 7862(d)(4), (5), (10), 7891(a)(1), (b)(1), (2), 7894(c)(3), Dec. 19, 1989, 103 Stat. 2430, 2434, 2445, 2449; Pub. L. 103–465, title VII, §767(c)(1), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1442(b), Aug. 20, 1996, 110 Stat. 1808; Pub. L. 105–34, title X, §1071(b)(1), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§633(b), 648(a)(2), June 7, 2001, 115 Stat. 116, 127; Pub. L. 108–311, title IV, §408(b)(8), Oct. 4, 2004, 118 Stat. 1193; Pub. L. 109–280, title I, §107(a)(4), title VII, §701(a)(2), title IX, §§902(d)(2)(E), 904(b), Aug. 17, 2006, 120 Stat. 819, 984, 1038, 1049; Pub. L. 110–458, title I, §107(a)(1), Dec. 23, 2008, 122 Stat. 5107.)
+(Pub. L. 93–406, title I, §203, Sept. 2, 1974, 88 Stat. 854; Pub. L. 96–364, title III, §303, Sept. 26, 1980, 94 Stat. 1292; Pub. L. 98–397, title I, §§102(b), (c), (d)(2), (e)(2), 105(a), Aug. 23, 1984, 98 Stat. 1426–1428, 1436; Pub. L. 99–514, title XI, §§1113(e)(1), (2), (4)(A), 1139(c)(1), title XVIII, §1898(a)(1)(B), (4)(B)(i), (d)(1)(B), (2)(B), Oct. 22, 1986, 100 Stat. 2447, 2448, 2487, 2942, 2944, 2955; Pub. L. 101–239, title VII, §§7861(a)(1), (5)(B), (6)(B), 7862(d)(4), (5), (10), 7891(a)(1), (b)(1), (2), 7894(c)(3), Dec. 19, 1989, 103 Stat. 2430, 2434, 2445, 2449; Pub. L. 103–465, title VII, §767(c)(1), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1442(b), Aug. 20, 1996, 110 Stat. 1808; Pub. L. 105–34, title X, §1071(b)(1), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§633(b), 648(a)(2), June 7, 2001, 115 Stat. 116, 127; Pub. L. 108–311, title IV, §408(b)(8), Oct. 4, 2004, 118 Stat. 1193; Pub. L. 109–280, title I, §108(a)(4), formerly §107(a)(4), title VII, §701(a)(2), title IX, §§902(d)(2)(E), 904(b), Aug. 17, 2006, 120 Stat. 819, 984, 1038, 1049, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §107(a)(1), Dec. 23, 2008, 122 Stat. 5107.)
 
 #### Amendments
 
-2008—Subsec. (f)(1)(B). Pub. L. 110–458 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the requirements of section 1054(c) of this title or section 1055(g) of this title with respect to contributions other than employee contributions,”.
+<b>2008</b>—Subsec. (f)(1)(B). Pub. L. 110–458 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the requirements of section 1054(c) of this title or section 1055(g) of this title with respect to contributions other than employee contributions,”.
 
-2006—Subsec. (a)(2). Pub. L. 109–280, §904(b)(1), amended par. (2) generally, substituting provisions relating to satisfaction of requirements in the case of a defined benefit plan and in the case of an individual account plan for provisions relating to satisfaction of requirements if an employee who has completed at least 5 years of service has a nonforfeitable right to 100 percent of the employee's accrued benefit derived from employer contributions or if an employee has a nonforfeitable right to a percentage of such benefit based upon number of years of service.
+<b>2006</b>—Subsec. (a)(2). Pub. L. 109–280, §904(b)(1), amended par. (2) generally, substituting provisions relating to satisfaction of requirements in the case of a defined benefit plan and in the case of an individual account plan for provisions relating to satisfaction of requirements if an employee who has completed at least 5 years of service has a nonforfeitable right to 100 percent of the employee's accrued benefit derived from employer contributions or if an employee has a nonforfeitable right to a percentage of such benefit based upon number of years of service.
 
-Subsec. (a)(3)(C). Pub. L. 109–280, §107(a)(4), substituted “1082(d)(2)” for “1082(c)(8)”.
+Subsec. (a)(3)(C). Pub. L. 109–280, §108(a)(4), formerly §107(a)(4), as renumbered by Pub. L. 111–192, substituted “1082(d)(2)” for “1082(c)(8)”.
 
 Subsec. (a)(3)(F). Pub. L. 109–280, §902(d)(2)(E), inserted “an erroneous automatic contribution under section 414(w) of title 26,” before “or an excess aggregate contribution”.
 
@@ -268,17 +268,17 @@ Subsec. (a)(4). Pub. L. 109–280, §904(b)(2), struck out par. (4), which relat
 
 Subsec. (f). Pub. L. 109–280, §701(a)(2), added subsec. (f).
 
-2004—Subsec. (a)(4)(B). Pub. L. 108–311 substituted “6 or more” for “6” in table.
+<b>2004</b>—Subsec. (a)(4)(B). Pub. L. 108–311 substituted “6 or more” for “6” in table.
 
-2001—Subsec. (a)(2). Pub. L. 107–16, §633(b)(1), substituted “Except as provided in paragraph (4), a plan” for “A plan” in introductory provisions.
+<b>2001</b>—Subsec. (a)(2). Pub. L. 107–16, §633(b)(1), substituted “Except as provided in paragraph (4), a plan” for “A plan” in introductory provisions.
 
 Subsec. (a)(4). Pub. L. 107–16, §633(b)(2), added par. (4).
 
 Subsec. (e)(4). Pub. L. 107–16, §648(a)(2), added par. (4).
 
-1997—Subsec. (e)(1). Pub. L. 105–34 substituted “$5,000” for “$3,500”.
+<b>1997</b>—Subsec. (e)(1). Pub. L. 105–34 substituted “$5,000” for “$3,500”.
 
-1996—Subsec. (a)(2). Pub. L. 104–188, §1442(b)(1), substituted “subparagraph (A) or (B)” for “subparagraph (A), (B), or (C)” in introductory provisions.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–188, §1442(b)(1), substituted “subparagraph (A) or (B)” for “subparagraph (A), (B), or (C)” in introductory provisions.
 
 Subsec. (a)(2)(C). Pub. L. 104–188, §1442(b)(2), struck out subpar. (C) which read as follows: “A plan satisfies the requirements of this subparagraph if—
 
@@ -290,7 +290,7 @@ Subsec. (a)(2)(C). Pub. L. 104–188, §1442(b)(2), struck out subpar. (C) which
 
 &emsp;&emsp;“(II) the requirements of subparagraph (A) or (B) are met with respect to employees not described in subclause (I).”
 
-1994—Subsec. (e)(2). Pub. L. 103–465 amended par. (2) generally. Prior to amendment, par. (2) read as follows:
+<b>1994</b>—Subsec. (e)(2). Pub. L. 103–465 amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
 “(2)(A) For purposes of paragraph (1), the present value shall be calculated—
 
@@ -302,7 +302,7 @@ Subsec. (a)(2)(C). Pub. L. 104–188, §1442(b)(2), struck out subpar. (C) which
 
 “(B) For purposes of subparagraph (A), the term ‘applicable interest rate’ means the interest rate which would be used (as of the date of the distribution) by the Pension Benefit Guaranty Corporation for purposes of determining the present value of a lump sum distribution on plan termination.”
 
-1989—Subsec. (a)(2). Pub. L. 101–239, §7861(a)(1)(A), substituted “satisfies the requirements” for “satisfies the following requirements” in introductory provisions.
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–239, §7861(a)(1)(A), substituted “satisfies the requirements” for “satisfies the following requirements” in introductory provisions.
 
 Subsec. (a)(2)(C)(ii)(I). Pub. L. 101–239, §7861(a)(1)(B), substituted “section 1002(37)(A)(ii) of this title” for “section 414(f)(1)(B)”.
 
@@ -324,7 +324,7 @@ Subsec. (e)(2). Pub. L. 101–239, §7891(b)(1), (2), realigned margins of subpa
 
 Subsec. (e)(3). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1986—Subsec. (a)(2). Pub. L. 99–514, §1113(e)(1), amended par. (2) generally, substituting provisions covering 5-year vesting, 3- to 7-year vesting, and multiemployer plans, for former provisions which covered 10-year vesting, 5- to 15-year vesting, and the “rule of 45” underwhich a plan satisfied the requirements of this paragraph if an employee who had completed at least 5 years of service and with respect to whom the sum of his age and years of service equalled or exceeded 45 had a right to a percentage of his accrued benefits derived from employer contributions.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514, §1113(e)(1), amended par. (2) generally, substituting provisions covering 5-year vesting, 3- to 7-year vesting, and multiemployer plans, for former provisions which covered 10-year vesting, 5- to 15-year vesting, and the “rule of 45” under which a plan satisfied the requirements of this paragraph if an employee who had completed at least 5 years of service and with respect to whom the sum of his age and years of service equalled or exceeded 45 had a right to a percentage of his accrued benefits derived from employer contributions.
 
 Subsec. (a)(3)(D)(ii). Pub. L. 99–514, §1898(a)(4)(B)(i), inserted last sentence and struck out former last sentence which read as follows: “In the case of a defined contribution plan the plan provision required under this clause may provide that such repayment must be made before the participant has any 1-year break in service commencing after the withdrawal.”
 
@@ -340,17 +340,17 @@ Subsec. (e)(2). Pub. L. 99–514, §1139(c)(1), amended par. (2) generally. Prio
 
 Pub. L. 99–514, §1898(d)(2)(B), added par. (3).
 
-1984—Subsec. (b)(1)(A). Pub. L. 98–397, §102(b), substituted “18” for “22”.
+<b>1984</b>—Subsec. (b)(1)(A). Pub. L. 98–397, §102(b), substituted “18” for “22”.
 
 Subsec. (b)(3)(C). Pub. L. 98–397, §102(c), substituted “5 consecutive 1-year breaks in service” for “any 1-year break in service” and substituted “such 5-year period” for “such break” in two places.
 
-Subsec. (b)(3)(D). Pub. L. 98–397, §102(d)(2), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “For purposes of paragraph (1), in the case of a participant who, under the plan, does not have any nonforfeitable right to an accrued benefit derived from employer contributions, years of service before any 1-year break in service shall not be required to be taken into account if the number of consecutive 1-year breaks in service equals or exceeds the aggregate number of such years of service prior to such break. Such aggregate number of years of service before such break shall be deemed not to include any years of service not required to be taken into account under this subparagraph by reason of any prior break in service.”
+Subsec. (b)(3)(D). Pub. L. 98–397, §102(d)(2), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “For purposes of paragraph (1), in thecase of a participant who, under the plan, does not have any nonforfeitable right to an accrued benefit derived from employer contributions, years of service before any 1-year break in service shall not be required to be taken into account if the number of consecutive 1-year breaks in service equals or exceeds the aggregate number of such years of service prior to such break. Such aggregate number of years of service before such break shall be deemed not to include any years of service not required to be taken into account under this subparagraph by reason of any prior break in service.”
 
 Subsec. (b)(3)(E). Pub. L. 98–397, §102(e)(2), added subpar. (E).
 
 Subsec. (e). Pub. L. 98–397, §105(a), added subsec. (e).
 
-1980—Subsec. (a)(3)(E). Pub. L. 96–364, §303(1), added subpar. (E).
+<b>1980</b>—Subsec. (a)(3)(E). Pub. L. 96–364, §303(1), added subpar. (E).
 
 Subsec. (b)(1)(G). Pub. L. 96–364, §303(2)–(4), added subpar. (G).
 
@@ -360,7 +360,7 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 #### Effective Date of 2006 Amendment
 
-Amendment by section 107(a)(4) of Pub. L. 109–280 applicable to plan years beginning after 2007, see section 107(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
+Amendment by section 108(a)(4) of Pub. L. 109–280 applicable to plan years beginning after 2007, see section 108(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
 
 Amendment by section 701(a)(2) of Pub. L. 109–280 applicable to periods beginning on or after June 29, 2005, and to distributions made after Aug. 17, 2006, with provisions relating to vesting and interest credit requirements for plans in existence on June 29, 2005, special rule for collectively bargained plans, and provisions relating to conversions of plan amendments adopted after, and taking effect after, June 29, 2005, see section 701(e) of Pub. L. 109–280, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
@@ -420,7 +420,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 #### Plan Amendments Not Required Until January 1, 1998
 

@@ -32,7 +32,7 @@ The Federal Hazardous Substances Act, referred to in subsec. (b), is Pub. L. 86�
 
 #### Amendments
 
-2008—Pub. L. 110–314, which directed the substitution of “Commission” for “Consumer Product Safety Commission” in this section, was executed by making the substitution in subsec. (a), before “shall transmit”, but not in subsec. (b)(1), to reflect the probable intent of Congress.
+<b>2008</b>—Pub. L. 110–314, which directed the substitution of “Commission” for “Consumer Product Safety Commission” in this section, was executed by making the substitution in subsec. (a), before “shall transmit”, but not in subsec. (b)(1), to reflect the probable intent of Congress.
 
 #### Effective Date
 

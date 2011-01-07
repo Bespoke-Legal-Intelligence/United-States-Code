@@ -48,7 +48,9 @@ The Advisory Commission shall terminate on the date ten years after October 30, 
 
 #### Amendments
 
-1999—Subsec. (a). Pub. L. 106–154, §2(e)(5), substituted “this subchapter” for “this subchapter and chapter 43 of this title” in introductory provisions.
+<b>1999</b>—Subsec. (a). Pub. L. 106–154, §2(e)(5), substituted “this subchapter” for “this subchapter and chapter 43 of this title” in introductory provisions.
 
 Subsec. (d). Pub. L. 106–154, §2(e)(6), substituted “this subchapter” for “this subchapter and chapter 43 of this title”.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “within”.</i>
 

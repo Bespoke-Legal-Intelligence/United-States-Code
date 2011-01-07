@@ -22,9 +22,9 @@ Provisions similar to those in subsec. (a) of this section were contained in sec
 
 #### Amendments
 
-1970—Subsec. (a). Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary”.
 
-1967—Subsec. (b). Pub. L. 90–148 substituted reference to section 246 of this title for reference to section 246(c) of this title.
+<b>1967</b>—Subsec. (b). Pub. L. 90–148 substituted reference to section 246 of this title for reference to section 246(c) of this title.
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 

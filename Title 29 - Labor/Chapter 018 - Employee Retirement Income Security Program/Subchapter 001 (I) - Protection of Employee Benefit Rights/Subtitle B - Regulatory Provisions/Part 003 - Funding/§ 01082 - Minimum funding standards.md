@@ -38,7 +38,7 @@
 
 &emsp;&emsp;If—
 
-&emsp;&emsp;&emsp;(i) an employer is (or in the case of a multiemployer plan, 10 percent or more of the number of employers contributing to or under the plan are) unable to satisfy the minimum funding standard for a plan year without temporary substantial business hardship (substantial business hardship in the case of a multiemployer plan), and
+&emsp;&emsp;&emsp;(i) an employer is (or in the case of a multiemployer plan, 10 percent or more of the number of employers contributing to or under the plan are) unable to satisfy the minimum funding standard for a plan yearwithout temporary substantial business hardship (substantial business hardship in the case of a multiemployer plan), and
 
 &emsp;&emsp;&emsp;(ii) application of the standard would be adverse to the interests of plan participants in the aggregate,
 
@@ -116,7 +116,7 @@
 
 #### (ii) Treatment of waivers for which applications are pending
 
-&emsp;&emsp;&emsp;The amount described in clause (i)(I) shall include any increase in such amount which would result if all applications for waivers of the minimum funding standard under this subsection which are pending with respect to such plan were denied.
+&emsp;&emsp;&emsp;The amount described in clause (i)(I) shall include any increase in such amountwhich would result if all applications for waivers of the minimum funding standard under this subsection which are pending with respect to such plan were denied.
 
 #### (iii) Unpaid minimum required contribution
 
@@ -128,11 +128,11 @@
 
 #### (II) Ordering rule
 
-&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), any payment to or under a plan for any plan year shall be allocated first to unpaid minimum required contributions for allpreceding plan years on a first-in, first-out basis and then to the minimum required contribution under section 1083 of this title for the plan year.
+&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), any payment to or under a plan for any plan year shall be allocated first to unpaid minimum required contributions for all preceding plan years on a first-in, first-out basis and then to the minimum required contribution under section 1083 of this title for the plan year.
 
 #### (5) Special rules for single-employer plans
 
-#### (A) Application must be submitted before date 21/2 months after close of year
+#### (A) Application must be submitted before date 2½ months after close of year
 
 &emsp;&emsp;In the case of a single-employer plan, no waiver may be granted under this subsection with respect to any plan for any plan year unless an application therefor is submitted to the Secretary of the Treasury not later than the 15th day of the 3rd month beginning after the close of such plan year.
 
@@ -186,13 +186,13 @@
 
 &emsp;For purposes of this section, any amendment applying to a plan year which—
 
-&emsp;&emsp;(A) is adopted after the close of such plan year but no later than 21/2 months after the close of the plan year (or, in the case of a multiemployer plan, no later than 2 years after the close of such plan year),
+&emsp;&emsp;(A) is adopted after the close of such plan year but no later than 2½ months after the close of the plan year (or, in the case of a multiemployer plan, no later than 2 years after the close of such plan year),
 
 &emsp;&emsp;(B) does not reduce the accrued benefit of any participant determined as of the beginning of the first plan year to which the amendment applies, and
 
-&emsp;&emsp;(C) does not reduce the accrued benefit of any participant determined as of the time of adoption except to the extent required by the circumstances,
+&emsp;&emsp;(C) does not reduce the accrued benefit of any participant determined as of the time ofadoption except to the extent required by the circumstances,
 
-> &emsp;shall, at the election of the plan administrator, be deemed to have been made on the first day of such plan year. No amendment described in this paragraph which reduces the accrued benefits of any participant shall take effect unless the plan administrator files a notice with the Secretary of the Treasury notifying him of such amendment and such Secretary has approved such amendment, or within 90 days after the date on which such notice was filed, failed to disapprove such amendment. No amendment described in this subsection shall be approved by the Secretary of the Treasury unless such Secretary determines that such amendment is necessary because of a temporary substantial business hardship (as determined under subsection (c)(2)) or a substantial business hardship (as so determined) in the case of a multiemployer plan and that a waiver under subsection (c) (or, in the case of a multiemployer plan, anyextension of the amortization period under section 1084(d) of this title) is unavailable or inadequate.
+> &emsp;shall, at the election of the plan administrator, be deemed to have been made on the first day of such plan year. No amendment described in this paragraph which reduces the accrued benefits of any participant shall take effect unless the plan administrator files a notice with the Secretary of the Treasury notifying him of such amendment and such Secretary has approved such amendment, or within 90 days after the date on which such notice was filed, failed to disapprove such amendment. No amendment described in this subsection shall be approved by the Secretary of the Treasury unless such Secretary determines that such amendment is necessary because of a temporary substantial business hardship (as determined under subsection (c)(2)) or a substantial business hardship (as so determined) in the case of a multiemployer plan and that a waiver under subsection (c) (or, in the case of a multiemployer plan, any extension of the amortization period under section 1084(d) of this title) is unavailable or inadequate.
 
 #### (3) Controlled group
 
@@ -210,7 +210,7 @@ A prior section 1082, Pub. L. 93–406, title I, §302, Sept. 2, 1974, 88 Stat. 
 
 #### Amendments
 
-2008—Subsec. (b)(3). Pub. L. 110–458, §102(b)(1)(A), substituted “the plan sponsor adopts” for “the plan adopts”.
+<b>2008</b>—Subsec. (b)(3). Pub. L. 110–458, §102(b)(1)(A), substituted “the plan sponsor adopts” for “the plan adopts”.
 
 Subsec. (c)(1)(A)(i). Pub. L. 110–458, §101(a)(1)(A), substituted “the plan are” for “the plan is”.
 
@@ -218,7 +218,7 @@ Subsec. (c)(7)(A). Pub. L. 110–458, §101(a)(1)(B), inserted “which reduces 
 
 Subsec. (d)(1). Pub. L. 110–458, §101(a)(1)(C), struck out “, the valuation date,” after “funding method”.
 
-2006—Subsec. (b)(3). Pub. L. 109–280, §§202(d), 221(c), temporarily added par. (3). See Effective and Termination Dates of 2006 Amendment note below.
+<b>2006</b>—Subsec. (b)(3). Pub. L. 109–280, §§202(d), 221(c), temporarily added par. (3). See Effective and Termination Dates of 2006 Amendment note below.
 
 #### Effective Date of 2008 Amendment
 
@@ -258,7 +258,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub.L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 #### Special Rule for Certain Benefits Funded Under an Agreement Approved by the Pension Benefit Guaranty Corporation
 

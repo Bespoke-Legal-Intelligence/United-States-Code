@@ -18,7 +18,7 @@
 
 #### Amendments
 
-1983—Subsec. (b)(i), (ii). Pub. L. 98–11, §204(1), substituted “appropriate Secretary” for “Secretary of the Interior”.
+<b>1983</b>—Subsec. (b)(i), (ii). Pub. L. 98–11, §204(1), substituted “appropriate Secretary” for “Secretary of the Interior”.
 
 Subsec. (b)(iii). Pub. L. 98–11, §204(2)–(4), added cl. (iii).
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Gross income of an employee does not include amounts paid or expenses incurred by the employer for educational assistance to the employee if the assistance is furnished pursuant to a program which is described in subsection (b).
+&emsp;Gross income of an employee does not include amounts paid or expenses incurred bythe employer for educational assistance to the employee if the assistance is furnished pursuant to a program which is described in subsection (b).
 
 #### (2) $5,250 maximum exclusion
 
@@ -26,7 +26,7 @@
 
 #### (4) Other benefits as an alternative
 
-&emsp;A program must not provide eligible employees with a choice between educational assistance and other remuneration includible ingross income. For purposes of this section, the business practices of the employer (as well as the written program) will be taken into account.
+&emsp;A program must not provide eligible employees with a choice between educational assistance and other remuneration includible in gross income. For purposes of this section, the business practices of the employer (as well as the written program) will be taken into account.
 
 #### (5) No funding required
 
@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (7) Disallowance of excluded amounts as credit or deduction
 
-&emsp;No deduction or credit shall be allowed to the employee under any other section of this chapter for any amount excluded from income by reason of this section.
+&emsp;No deduction or credit shall be allowed to the employee under any other section of thischapter for any amount excluded from income by reason of this section.
 
 #### (d) Cross reference
 
@@ -100,27 +100,27 @@ A prior section 127 was renumbered section 140 of this title.
 
 #### Amendments
 
-2001—Subsec. (c)(1). Pub. L. 107–16, §§411(b), 901, temporarily struck out before period at end “, and such term also does not include any payment for, or the provision of any benefits with respect to, any graduate level course of a kind normally taken by an individual pursuing a program leading to a law, business, medical, or other advanced academic or professional degree”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (c)(1). Pub. L. 107–16, §§411(b), 901, temporarily struck out before period at end “, and such term also does not include any payment for, or the provision of any benefits with respect to, any graduate level course of a kind normally taken by an individual pursuing a program leading to a law, business, medical, or other advanced academic or professional degree”. See Effective and Termination Dates of 2001 Amendment note below.
 
 Subsecs. (d), (e). Pub. L. 107–16, §§411(a), 901, temporarily redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “This section shall not apply to expenses paid with respect to courses beginning after December 31, 2001.” See Effective and Termination Dates of 2001 Amendment note below.
 
-1999—Subsec. (d). Pub. L. 106–170 substituted “December 31, 2001” for “May 31, 2000”.
+<b>1999</b>—Subsec. (d). Pub. L. 106–170 substituted “December 31, 2001” for “May 31, 2000”.
 
-1997—Subsec. (d). Pub. L. 105–34 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “This section shall not apply to taxable years beginning after May 31, 1997. In the case of any taxable year beginning in 1997, only expenses paid with respect to courses beginning before July 1, 1997, shall be taken into account in determining the amount excluded under this section.”
+<b>1997</b>—Subsec. (d). Pub. L. 105–34 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “This section shall not apply to taxable years beginning after May 31, 1997. In the case of any taxable year beginning in 1997, only expenses paid with respect to courses beginning before July 1, 1997, shall be taken into account in determining the amount excluded under this section.”
 
-1996—Subsec. (c)(1). Pub. L. 104–188, §1202(b), in closing provisions, inserted before period at end “, and such term also does not include any payment for, or the provision of any benefits with respect to, any graduate level course of a kind normally taken by an individual pursuing a program leading to a law, business, medical, or other advanced academic or professional degree”.
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–188, §1202(b), in closing provisions, inserted before period at end “, and such term also does not include any payment for, or the provision of any benefits with respect to, any graduate level course of a kind normally taken by an individual pursuing a program leading to a law, business, medical, or other advanced academic or professional degree”.
 
 Subsec. (d). Pub. L. 104–188, §1202(a), substituted “May 31, 1997. In the case of any taxable year beginning in 1997, only expenses paid with respect to courses beginning before July 1, 1997, shall be taken into account in determining the amount excluded under this section.” for “December 31, 1994.”
 
-1993—Subsec. (d). Pub. L. 103–66 substituted “December 31, 1994” for “June 30, 1992”.
+<b>1993</b>—Subsec. (d). Pub. L. 103–66 substituted “December 31, 1994” for “June 30, 1992”.
 
-1991—Subsec. (d). Pub. L. 102–227 substituted “June 30, 1992” for “December 31, 1991”.
+<b>1991</b>—Subsec. (d). Pub. L. 102–227 substituted “June 30, 1992” for “December 31, 1991”.
 
-1990—Subsec. (c)(1). Pub. L. 101–508, §11403(b), struck out at end “The term ‘educational assistance’ also does not include any payment for, or the provision of any benefits with respect to, any graduate level course of a kind normally taken by an individual pursuing a program leading to a law, business, medical, or other advanced academic or professional degree.”
+<b>1990</b>—Subsec. (c)(1). Pub. L. 101–508, §11403(b), struck out at end “The term ‘educational assistance’ also does not include any payment for, or the provision of any benefits with respect to, any graduate level course of a kind normally taken by an individual pursuing a program leading to a law, business, medical, or other advanced academic or professional degree.”
 
 Subsec. (d). Pub. L. 101–508, §11403(a), substituted “December 31, 1991” for “September 30, 1990”.
 
-1989—Subsec. (b)(1). Pub. L. 101–140, §203(a)(1), amended par. (1) to read as if amendments by Pub. L. 99–514, §1151(c)(4)(A), had not been enacted, see 1986 Amendment note below.
+<b>1989</b>—Subsec. (b)(1). Pub. L. 101–140, §203(a)(1), amended par. (1) to read as if amendments by Pub. L. 99–514, §1151(c)(4)(A), had not been enacted, see 1986 Amendment note below.
 
 Subsec. (b)(2). Pub. L. 101–140, §203(a)(2), amended par. (2) to read as if amendments by Pub. L. 100–647, §1011B(a)(31)(B), had not been enacted, see 1988 Amendment note below.
 
@@ -134,13 +134,13 @@ Coordination with section 117(d).—In the case of the education of an individua
 
 Subsec. (d). Pub. L. 101–239, §7101(a)(1), substituted “September 30, 1990” for “December 31, 1988”.
 
-1988—Subsec. (b)(2). Pub. L. 100–647, §1011B(a)(31)(B), substituted “there shall” for “there may” and “who are” for “who may be” in last sentence.
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–647, §1011B(a)(31)(B), substituted “there shall” for “there may” and “who are” for “who may be” in last sentence.
 
 Subsec. (c)(1). Pub. L. 100–647, §4001(b)(1), inserted at end “The term ‘educational assistance’ also does not include any payment for, or the provision of any benefits with respect to, any graduate level course of a kind normally taken by an individual pursuing a program leading to a law, business, medical, or other advanced academic or professional degree.”
 
 Subsec. (d). Pub. L. 100–647, §4001(a), substituted “1988” for “1987”.
 
-1986—Subsec. (a)(2). Pub. L. 99–514, §1162(a)(2), substituted “$5,250” for “$5,000” in heading and twice in text.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514, §1162(a)(2), substituted “$5,250” for “$5,000” in heading and twice in text.
 
 Subsec. (b)(1). Pub. L. 99–514, §1151(c)(4)(A), added par. (1) and struck out former par (1) which read as follows: “For purposes of this section an educational assistance program is a separate written plan of an employer for the exclusive benefit of his employees to provide such employees with educational assistance. The program must meet the requirements of paragraphs (2) through (6) of this subsection.”
 
@@ -150,11 +150,11 @@ Pub. L. 99–514, §1114(b)(4), substituted “highly compensated employees (wit
 
 Subsec. (b)(6). Pub. L. 99–514, §1151(c)(4)(B), struck out par. (6) which read as follows: “
 
-Notification of employees.—Reasonable notification of the availability and terms of the program must be provided to eligible employees.”
+Notification of employees.—Reasonable notification of the availabilityand terms of the program must be provided to eligible employees.”
 
 Subsec. (d). Pub. L. 99–514, §1162(a)(1), substituted “December 31, 1987” for “December 31, 1985”.
 
-1984—Subsec. (a). Pub. L. 98–611, §1(b), amended subsec. generally, substituting “Exclusion from gross income” for “General rule” in heading, designating existing provision as par. “(1) In general” and adding par. (2).
+<b>1984</b>—Subsec. (a). Pub. L. 98–611, §1(b), amended subsec. generally, substituting “Exclusion from gross income” for “General rule” in heading, designating existing provision as par. “(1) In general” and adding par. (2).
 
 Subsec. (c)(7). Pub. L. 98–611, §1(e), substituted “allowed to the employee” for “allowed”.
 
@@ -168,7 +168,7 @@ Subsec. (e). Pub. L. 98–611, §1(d)(3)(B), added subsec. (e).
 
 Pub. L. 107–16, title IV, §411(d), June 7, 2001, 115 Stat. 63, provided that: “The amendments made by this section \[amending this section and former section 51A of this title\] shall apply with respect to expenses relating to courses beginning after December 31, 2001.”
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1999 Amendment
 

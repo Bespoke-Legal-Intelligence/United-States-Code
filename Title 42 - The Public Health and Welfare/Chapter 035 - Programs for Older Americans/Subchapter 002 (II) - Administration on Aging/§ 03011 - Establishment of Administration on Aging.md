@@ -12,7 +12,7 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 (1) There is established in the Administration an Office for American Indian, Alaskan Native, and Native Hawaiian Programs.
 
-(2) The Office shall be headed by a Director of the Office for American Indian, Alaskan Native,and Native Hawaiian Aging appointed by the Assistant Secretary.
+(2) The Office shall be headed by a Director of the Office for American Indian, Alaskan Native, and Native Hawaiian Aging appointed by the Assistant Secretary.
 
 (3) The Director of the Office for American Indian, Alaskan Native, and Native Hawaiian Aging shall—
 
@@ -82,7 +82,7 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 &emsp;&emsp;(i) policies designed to assist State Long-Term Care Ombudsmen; and
 
-&emsp;&emsp;(ii) methods to periodically monitor and evaluate the operation of State Long-TermCare Ombudsman programs, to ensure that the programs satisfy the requirements of section 3027(a)(9) of this title and section 3058g of this title, including provision of service to residents of board and care facilities and of similar adult care facilities;
+&emsp;&emsp;(ii) methods to periodically monitor and evaluate the operation of State Long-Term Care Ombudsman programs, to ensure that the programs satisfy the requirements of section 3027(a)(9) of this title and section3058g of this title, including provision of service to residents of board and care facilities and of similar adult care facilities;
 
 &emsp;(D) keep the Assistant Secretary and the Secretary fully and currently informed about—
 
@@ -148,7 +148,7 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 (2) It shall be the duty of the Assistant Secretary, acting through the individual designated under paragraph (1), to develop objectives, priorities, and a long-term plan for supporting State and local efforts involving education about and prevention, detection, and treatment of mental disorders, including age-related dementia, depression, and Alzheimer's disease and related neurological disorders with neurological and organic brain dysfunction.
 
-(Pub. L. 89–73, title II, §201, July 14, 1965, 79 Stat. 220; Pub. L. 93–29, title II, §201(a), May 3, 1973, 87Stat. 30; Pub. L. 93–351, §2(a), July 12, 1974, 88 Stat. 357; Pub. L. 95–478, title V, §503(b)(1), Oct. 18, 1978, 92 Stat. 1559; Pub. L. 98–459, title II, §201, Oct. 9, 1984, 98 Stat. 1767; Pub. L. 100–175, title I, §§102, 107(a), 182(c), Nov. 29, 1987, 101 Stat. 928, 931, 964; Pub. L. 102–375, title I, §102(b)(1)(A), (2), title II, §201, title IX, §904(a)(3), Sept. 30, 1992, 106 Stat. 1200, 1201, 1202, 1306; Pub. L. 103–171, §3(a)(2), Dec. 2, 1993, 107 Stat. 1989; Pub. L. 106–501, title VIII, §801(b)(1), Nov. 13, 2000, 114 Stat. 2291; Pub. L. 109–365, title II, §201, Oct. 17, 2006, 120 Stat. 2527.)
+(Pub. L. 89–73, title II, §201, July 14, 1965, 79 Stat. 220; Pub. L. 93–29, title II, §201(a), May 3, 1973, 87 Stat. 30; Pub. L. 93–351, §2(a), July 12, 1974, 88 Stat. 357; Pub. L. 95–478, title V, §503(b)(1), Oct. 18, 1978, 92 Stat. 1559; Pub. L. 98–459, title II, §201,Oct. 9, 1984, 98 Stat. 1767; Pub. L. 100–175, title I, §§102, 107(a), 182(c), Nov. 29, 1987, 101 Stat. 928, 931, 964; Pub. L. 102–375, title I, §102(b)(1)(A), (2), title II, §201, title IX, §904(a)(3), Sept. 30, 1992, 106 Stat. 1200, 1201, 1202, 1306; Pub. L. 103–171, §3(a)(2), Dec. 2, 1993, 107 Stat. 1989; Pub. L. 106–501, title VIII, §801(b)(1), Nov. 13, 2000, 114 Stat. 2291; Pub. L. 109–365, title II, §201, Oct. 17, 2006, 120 Stat. 2527.)
 
 #### References in Text
 
@@ -156,11 +156,11 @@ Section 3012(a)(21) of this title, referred to in subsec. (d)(3)(H), was redesig
 
 #### Amendments
 
-2006—Subsecs. (e), (f). Pub. L. 109–365 added subsecs. (e) and (f).
+<b>2006</b>—Subsecs. (e), (f). Pub. L. 109–365 added subsecs. (e) and (f).
 
-2000—Subsec. (d)(3)(C)(ii), (J). Pub. L. 106–501 substituted “3027(a)(9)” for “3027(a)(12)”.
+<b>2000</b>—Subsec. (d)(3)(C)(ii), (J). Pub. L. 106–501 substituted “3027(a)(9)” for “3027(a)(12)”.
 
-1993—Subsec. (a). Pub. L. 103–171, §3(a)(2)(A), (D), substituted “an Assistant Secretary for Aging” for “a Commissioner on Aging” and substituted “the Assistant Secretary” for “the Commissioner” wherever appearing.
+<b>1993</b>—Subsec. (a). Pub. L. 103–171, §3(a)(2)(A), (D), substituted “an Assistant Secretary for Aging” for “a Commissioner on Aging” and substituted “the Assistant Secretary” for “the Commissioner” wherever appearing.
 
 Subsec. (b). Pub. L. 103–171, §3(a)(2)(D), substituted “Assistant Secretary” for “Commissioner”.
 
@@ -172,7 +172,7 @@ Subsec. (d)(2). Pub. L. 103–171, §3(a)(2)(C), (D), substituted “a Director 
 
 Subsec. (d)(3). Pub. L. 103–171, §3(a)(2)(C)(ii), (D), substituted “Director” for “Associate Commissioner” in introductory provisions and “Assistant Secretary” for “Commissioner” in subpars. (B) to (F) and (H).
 
-1992—Subsec. (a). Pub. L. 102–375, §§102(b)(2), 201(a), struck out “(hereinafter in this chapter referred to as the ‘Administration’)” after “Administration on Aging” and “(hereinafter in this chapter referred to as the ‘Commissioner’)” after “Commissioner on Aging” and inserted “(including the functions of the Commissioner carried out through regional offices)” after “functions of the Commissioner”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–375, §§102(b)(2), 201(a), struck out “(hereinafter in this chapter referred to as the ‘Administration’)” after “Administration on Aging” and “(hereinafter in this chapter referred to as the ‘Commissioner’)” after “Commissioner on Aging” and inserted “(including the functions of the Commissioner carried out through regional offices)” after “functions of the Commissioner”.
 
 Subsec. (c)(1). Pub. L. 102–375, §102(b)(1)(A), substituted “Administration” for “Administration on Aging”.
 
@@ -190,21 +190,21 @@ Subsec. (c)(3)(I), (J). Pub. L. 102–375, §201(b)(3)–(5), added subpars. (I)
 
 Subsec. (d). Pub. L. 102–375, §201(c), added subsec. (d).
 
-1987—Subsec. (a). Pub. L. 100–175, §182(c), substituted “the functions of the Commissioner” for “his functions”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–175, §182(c), substituted “the functions of the Commissioner” for “his functions”.
 
 Pub. L. 100–175, §102, substituted “between the Commissioner and the Secretary” for “between the Commissioner and the Office of the Secretary” and “responsible to the Secretary” for “responsible to the Office of the Secretary”.
 
 Subsec. (c). Pub. L. 100–175, §107(a), added subsec. (c).
 
-1984—Subsec. (a). Pub. L. 98–459, §201(1), (3), (4), substituted “the agency” for “the principal agency”, inserted provision requiring establishment of a direct reporting relationship between Commissioner and Office of the Secretary, and substituted “approve or require” for “approve”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–459, §201(1), (3), (4), substituted “the agency” for “the principal agency”, inserted provision requiring establishment of a direct reporting relationship between Commissioner and Office of the Secretary, and substituted “approve or require” for “approve”.
 
 Pub. L. 98–459, §201(2), which directed that “the functions of the Administration” be substituted for “his functions” in second sentence could not be executed because “his functions” appeared only in third sentence.
 
-1978—Subsec. (a). Pub. L. 95–478 substituted “subchapter IX of this chapter” for “subchapter VI of this chapter and as otherwise specifically provided by the Older Americans Comprehensive Services Amendments of 1973”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–478 substituted “subchapter IX of this chapter” for “subchapter VI of this chapter and as otherwise specifically provided by the Older Americans Comprehensive Services Amendments of 1973”.
 
-1974—Subsec. (a). Pub. L. 93–351 struck out provisions which had authorized the Secretary of Health, Education, and Welfare, under certain conditions, to approve a delegation of the functions of the Commissioner on Aging to officers not directly responsible to the Commissioner.
+<b>1974</b>—Subsec. (a). Pub. L. 93–351 struck out provisions which had authorized the Secretary of Health, Education, and Welfare, under certain conditions, to approve a delegation of the functions of the Commissioner on Aging to officers not directly responsible to the Commissioner.
 
-1973—Subsec. (a). Pub. L. 93–29 added subsec. (a). Former provision established the Administration on Aging in the Department of Health, Education, and Welfare.
+<b>1973</b>—Subsec. (a). Pub. L. 93–29 added subsec. (a). Former provision established the Administration on Aging in the Department of Health, Education, and Welfare.
 
 Subsec. (b). Pub. L. 93–29 struck out provision respecting the direction of the Administration by a Commissioner on Aging, now incorporated in subsec. (a) of this section.
 
@@ -226,7 +226,7 @@ Amendment by Pub. L. 95–478 effective at close of Sept. 30, 1978, see section 
 
 #### Modification of Delegation of Functions of Commissioner on Aging in Effect on July 12, 1974
 
-Section 2(b) of Pub. L. 93–351 provided that: “Any delegation of the functions of the Commissioner onAging \[now Assistant Secretary for Aging\] in effect on the date of enactment of this Act \[July 12, 1974\], issued pursuant to section 201(a) of such Act \[subsec. (a) of this section\], shall be modified by the Commissioner to comply with the provisions of the amendment made by this section \[amending this section\].”
+Section 2(b) of Pub. L. 93–351 provided that: “Any delegation of the functions of the Commissioner on Aging \[now Assistant Secretary for Aging\] in effect onthe date of enactment of this Act \[July 12, 1974\], issued pursuant to section 201(a) of such Act \[subsec. (a) of this section\], shall be modified by the Commissioner to comply with the provisions of the amendment made by this section \[amending this section\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

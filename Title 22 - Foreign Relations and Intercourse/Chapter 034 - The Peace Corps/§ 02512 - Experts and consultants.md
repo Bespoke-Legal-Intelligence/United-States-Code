@@ -6,7 +6,7 @@ Experts and consultants or organizations thereof may, as authorized by section 3
 
 #### (b) Exemption from restrictions upon receipt of retirement benefits
 
-Service of an individual as a member of the Council authorized to be established by section 2511 <sup>1</sup> of this title or as an expert or consultant under subsection (a) of this section shall not be considered as employment or holding of office or position bringing such individual within the provisions of sections 3323(b) and 8344 of title 5, section 4064 of this title, or any other law limiting the reemployment of retired officers or employees or governing the simultaneous receipt of compensation and retired pay or annuities.
+Service of an individual as a member of the Council authorized to be established by section 2511 <sup>1</sup> of this title or as an expert or consultantunder subsection (a) of this section shall not be considered as employment or holding of office or position bringing such individual within the provisions of sections 3323(b) and 8344 of title 5, section 4064 of this title, or any other law limiting the reemployment of retired officers or employees or governing the simultaneous receipt of compensation and retired pay or annuities.
 
 (Pub. L. 87–293, title I, §13, Sept. 22, 1961, 75 Stat. 619; Pub. L. 88–200, §6, Dec. 13, 1963, 77 Stat. 360; Pub. L. 88–448, title IV, §401(c), Aug. 19, 1964, 78 Stat. 490; Pub. L. 91–352, §6, July 24, 1970, 84 Stat. 465; Pub. L. 96–465, title II, §2202(c), Oct. 17, 1980, 94 Stat. 2158; Pub. L. 107–107, div. A, title X, §1048(i)(9), Dec. 28, 2001, 115 Stat. 1229.)
 
@@ -18,17 +18,17 @@ Section 2511 of this title, referred to in subsec. (b), was repealed by Pub. L. 
 
 #### Amendments
 
-2001—Subsec. (b). Pub. L. 107–107 struck out “, subject to section 5532 of title 5” before period at end.
+<b>2001</b>—Subsec. (b). Pub. L. 107–107 struck out “, subject to section 5532 of title 5” before period at end.
 
-1980—Subsec. (b). Pub. L. 96–465 substituted “section 4064 of this title” for “section 1112 of this title”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–465 substituted “section 4064 of this title” for “section 1112 of this title”.
 
-1970—Subsec. (a). Pub. L. 91–352, §6(a), substituted “section 3109 of title 5” for “section 55a of title 5” and “the per diem equivalent of the highest rate payable under section 5332 of title 5” for “$75 per diem”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–352, §6(a), substituted “section 3109 of title 5” for “section 55a of title 5” and “the per diem equivalent of the highest rate payable under section 5332 of title 5” for “$75 per diem”.
 
 Subsec. (b). Pub. L. 91–352, §6(b), substituted “sections 3323(b) and 8344 of title 5” and “section 5532 of title 5” for “section 2263 of title 5” and “section 3102 of title 5”, respectively.
 
-1964—Subsec. (b). Pub. L. 88–448 struck out provisions providing that such service shall not be considered as employment or holding of office or position bringing such individual within the provisions of section 59a of title 5, and inserted “, subject to section 3102 of title 5”.
+<b>1964</b>—Subsec. (b). Pub. L. 88–448 struck out provisions providing that such service shall not be considered as employment or holding of office or position bringing such individual within the provisions of section 59a of title 5, and inserted “, subject to section 3102 of title 5”.
 
-1963—Subsec. (a). Pub. L. 88–200, §6(a), substituted “President” for “Peace Corps”.
+<b>1963</b>—Subsec. (a). Pub. L. 88–200, §6(a), substituted “President” for “Peace Corps”.
 
 Subsec. (b). Pub. L. 88–200, §6(b), struck out provisions for exemption from conflict-of-interest laws and restrictions upon receipt of compensation.
 

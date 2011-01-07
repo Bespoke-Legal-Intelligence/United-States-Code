@@ -10,17 +10,23 @@ The Secretary shall establish under this subchapter a Medicaid Improvement Fund 
 
 &emsp;There shall be available to the Fund, for expenditures from the Fund—
 
-&emsp;&emsp;(A) for fiscal year 2014, $100,000,000; and
+&emsp;&emsp;(A) for fiscal year 2014, $0; and
 
-&emsp;&emsp;(B) for each of fiscal years 2015 through 2018, $150,000,000.
+&emsp;&emsp;(B) for each of fiscal years 2015 through 2018, $0.
 
 #### (2) Funding limitation
 
 &emsp;Amounts in the Fund shall be available in advance of appropriations but only if the total amount obligated from the Fund does not exceed the amount available to the Fund under paragraph (1). The Secretary may obligate funds from the Fund only if the Secretary determines (and the Chief Actuary of the Centers for Medicare \& Medicaid Services and the appropriate budget officer certify) that there are available in the Fund sufficient amounts to cover all such obligations incurred consistent with the previous sentence.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1941, as added Pub. L. 110–252, title VII, §7002(b), June 30, 2008, 122 Stat. 2395; amended Pub. L. 111–8, div. F, title II, §226, Mar. 11, 2009, 123 Stat. 784.)
+(Aug. 14, 1935, ch. 531, title XIX, §1941, as added Pub. L. 110–252, title VII, §7002(b), June 30, 2008, 122 Stat. 2395; amended Pub. L. 111–8, div. F, title II, §226, Mar. 11, 2009, 123 Stat. 784; Pub. L. 111–127, §4, Jan. 27, 2010, 124 Stat. 5; Pub. L. 111–148, title II, §2007(b), Mar. 23, 2010, 124 Stat. 285.)
 
 #### Amendments
 
-2009—Subsec. (b)(1)(B). Pub. L. 111–8 inserted “each of” after “for”.
+<b>2010</b>—Subsec. (b)(1)(A). Pub. L. 111–148, §2007(b)(1), which directed substitution of “$0” for “$100,000,000”, was executed by making the substitution for “$10,000,000”, to reflect the probable intent of Congress and intervening amendment by Pub. L. 111–127. See below.
+
+Pub. L. 111–127 substituted “$10,000,000” for “$100,000,000”.
+
+Subsec. (b)(1)(B). Pub. L. 111–148, §2007(b)(2), substituted “$0” for “$150,000,000”.
+
+<b>2009</b>—Subsec. (b)(1)(B). Pub. L. 111–8 inserted “each of” after “for”.
 

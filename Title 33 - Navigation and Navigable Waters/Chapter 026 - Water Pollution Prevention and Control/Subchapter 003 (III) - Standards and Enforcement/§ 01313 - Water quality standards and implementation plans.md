@@ -44,7 +44,7 @@
 
 (1)(A) Each State shall identify those waters within its boundaries for which the effluent limitations required by section 1311(b)(1)(A) and section 1311(b)(1)(B) of this title are not stringent enough to implement any water quality standard applicable to such waters. The State shall establish a priority ranking for such waters, taking into account the severity of the pollution and the uses to be made of such waters.
 
-(B) Each State shall identify those waters or parts thereof within its boundaries for whichcontrols on thermal discharges under section 1311 of this title are not stringent enough to assure protection and propagation of a balanced indigenous population of shellfish, fish, and wildlife.
+(B) Each State shall identify those waters or parts thereof within its boundaries for which controls on thermal discharges under section 1311 of this title are not stringent enough to assure protection and propagation of a balanced indigenous population of shellfish, fish, and wildlife.
 
 (C) Each State shall establish for the waters identified in paragraph (1)(A) of this subsection, and in accordance with the priority ranking, the total maximum daily load, for those pollutants which the Administrator identifies under section 1314(a)(2) of this title as suitable for such calculation. Such load shall be established at a level necessary to implement the applicable water quality standards with seasonal variations and a margin of safety which takes into account any lack of knowledge concerning the relationship between effluent limitations and water quality.
 
@@ -136,9 +136,9 @@ This Act, referred to in subsecs. (a)(1), (2), (3)(B), (C) and (b)(1), means act
 
 #### Amendments
 
-2000—Subsec. (i). Pub. L. 106–284 added subsec. (i).
+<b>2000</b>—Subsec. (i). Pub. L. 106–284 added subsec. (i).
 
-1987—Subsec. (c)(2). Pub. L. 100–4, §308(d), designated existing provision as subpar. (A) and added subpar. (B).
+<b>1987</b>—Subsec. (c)(2). Pub. L. 100–4, §308(d), designated existing provision as subpar. (A) and added subpar. (B).
 
 Subsec. (d)(4). Pub. L. 100–4, §404(b), added par. (4).
 

@@ -16,13 +16,13 @@ Nothing contained in this chapter shall be construed to authorize any policy or 
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–277, §1223(8), substituted “Secretary of State” for “Director” and struck out “the Secretary of State,” after “the President,”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §1223(8), substituted “Secretary of State” for “Director” and struck out “the Secretary of State,” after “the President,”.
 
 Subsec. (c). Pub. L. 105–277, §2602, added subsec. (c).
 
-1994—Pub. L. 103–236 amended section generally. Prior to amendment, section read as follows: “The Directoris authorized and directed to prepare for the President, the Secretary of State, and the heads of such other Government agencies, as the President may determine, recommendations concerning United States arms control and disarmament policy: <i>Provided, however</i>, That no action shall be taken under this chapter or any other law that will obligate the United States to disarm or to reduce or to limit the Armed Forces or armaments of the United States, except pursuant to the treaty making power of the President under the Constitution or unless authorized by further affirmative legislation by the Congress of the United States. Nothing contained in this chapter shall be construed to authorize any policy or action by any Government agency which would interfere with, restrict, or prohibit the acquisition, possession, or use of firearms by an individual for the lawful purpose of personal defense, sport, recreation, education, or training.”
+<b>1994</b>—Pub. L. 103–236 amended section generally. Prior to amendment, section read as follows: “The Directoris authorized and directed to prepare for the President, the Secretary of State, and the heads of such other Government agencies, as the President may determine, recommendations concerning United States arms control and disarmament policy: <i>Provided, however</i>, That no action shall be taken under this chapter or any other law that will obligate the United States to disarm or to reduce or to limit the Armed Forces or armaments of the United States, except pursuant to the treaty making power of the President under the Constitution or unless authorized by further affirmative legislation by the Congress of the United States. Nothing contained in this chapter shall be construed to authorize any policy or action by any Government agency which would interfere with, restrict, or prohibit the acquisition, possession, or use of firearms by an individual for the lawful purpose of personal defense, sport, recreation, education, or training.”
 
-1963—Pub. L. 88–186 inserted provision precluding construction of this chapter to authorize the regulation of the possession of firearms by an individual.
+<b>1963</b>—Pub. L. 88–186 inserted provision precluding construction of this chapter to authorize the regulation of the possession of firearms by an individual.
 
 #### Effective Date of 1998 Amendment
 

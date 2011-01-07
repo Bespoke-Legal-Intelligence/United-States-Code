@@ -18,7 +18,7 @@ Any utilization and quality control peer review organization entering into a con
 
 &emsp;&emsp;(A) such payment is allowed by reason of section 1395pp of this title;
 
-&emsp;&emsp;(B) in the case of inpatient hospital services or extended care services, the peer review organization determines that additional time is required in order to arrange for postdischarge care, but payment may be continued under this subparagraph for not more than two days, but only in the casewhere the provider of such services did not know and could not reasonably have been expected to know (as determined under section 1395pp of this title) that payment would not otherwise be made for such services under subchapter XVIII of this chapter prior to notification by the organization under paragraph (3);
+&emsp;&emsp;(B) in the case of inpatient hospital services or extended care services, the peer review organization determines that additional time is required in order to arrange for postdischarge care, but payment may be continued under this subparagraph for not more than two days, but only in the case where the provider of such services did not know and could not reasonably have been expected to know (as determined under section 1395pp of this title) that payment would not otherwise be made for such services under subchapter XVIII of this chapter prior to notification by the organization under paragraph (3);
 
 &emsp;&emsp;(C) such determination is changed as the result of any hearing or review of the determination under section 1320c–4 of this title; or
 
@@ -50,7 +50,7 @@ Any utilization and quality control peer review organization entering into a con
 
 &emsp;(4)(A) The organization shall, after consultation with the Secretary, determine the types and kinds of cases (whether by type of health care or diagnosis involved, or whether in terms of other relevant criteria relating to the provision of health care services) with respect to which such organization will, in order to most effectively carry out the purposes of this part, exercise review authority under the contract. The organization shall notify the Secretary periodically with respect to such determinations. Each peer review organization shall provide that a reasonable proportion of its activities are involved with reviewing, under paragraph (1)(B), the quality of services and that a reasonable allocation of such activities is made among the different cases and settings (including post-acute-care settings, ambulatory settings, and health maintenance organizations). In establishing such allocation, the organization shall consider (i) whether there is reason to believe that there is a particular need for reviews of particular cases or settings because of previous problems regarding quality of care, (ii) the cost of such reviews and the likely yield of such reviews in terms of number and seriousness of quality of care problems likely to be discovered as a result of such reviews, and (iii) the availability and adequacy of alternative quality review and assurance mechanisms.
 
-&emsp;(B) The contract of each organization shall provide for the review of services (including both inpatient and outpatient services) provided by eligible organizations pursuant to a risk-sharing contract under section 1395mm of this title (or that is subject to review under section 1395ss(t)(3) of this title) for the purpose of determining whether the quality of such services meets professionally recognized standards of health care, including whether appropriate health care services have not been provided or have been provided in inappropriate settings and whether individuals enrolled with an eligible organization have adequate access to health care services provided by or through such organization (as determined, in part, by a survey of individuals enrolled with the organization who have not yet used the organization to receive such services). The contract of each organization shall also provide that with respect to health care provided by a health maintenance organization or competitive medical plan under section 1395mm of this title, the organization shall maintain a beneficiary outreach program designed to apprise individuals receiving care under such section of the role of the peer review system, of the rights of the individual under such system,and of the method and purposes for contacting the organization. The previous two sentences shall not apply with respect to a contract year if another entity has been awarded a contract under subparagraph (C). Under the contract the level of effort expended by the organization on reviews under this subparagraph shall be equivalent, on a per enrollee basis, to the level of effort expended by the organization on utilization and quality reviews performed with respect to individuals not enrolled with an eligible organization.
+&emsp;(B) The contract of each organization shall provide for the review of services (including both inpatient and outpatient services) provided by eligible organizations pursuant to a risk-sharing contract under section 1395mm of this title (or that is subject to review under section 1395ss(t)(3) of this title) for the purpose of determining whether the quality of such services meets professionally recognized standards of health care, including whether appropriate health care services have not been provided or have been provided in inappropriate settings and whether individuals enrolled with an eligible organization have adequate access to health care services provided by or through such organization (as determined, in part, by a survey of individuals enrolled with the organization who have not yet used the organization to receive such services). The contract of each organization shall also provide that with respect to health care provided by a health maintenance organization or competitive medical plan under section 1395mm of this title, the organization shall maintain a beneficiary outreach program designed to apprise individuals receiving care under such section of the role of the peer review system, of the rights of the individual under such system, and of the method and purposes for contacting the organization. The previous two sentences shall not apply with respect to a contract year if another entity has been awarded a contract under subparagraph (C). Under the contract the level of effort expended by the organization on reviews under this subparagraph shall be equivalent, on a per enrollee basis, to the level of effort expended by the organization on utilization and quality reviews performed with respect to individuals not enrolled with an eligible organization.
 
 &emsp;(C) The Secretary may provide, by contract under competitive procurement procedures on a State-by-State basis in up to 25 States, for the review described in subparagraph (B) by an appropriate entity (which may be a peer review organization described in that subparagraph). In selecting among States in which to conduct such competitive procurement procedures, the Secretary may not select States which, as a group, have more than 50 percent of the total number of individuals enrolled with eligible organizations under section 1395mm of this title. Under a contract with an entity under this subparagraph—
 
@@ -124,7 +124,7 @@ Any utilization and quality control peer review organization entering into a con
 
 &emsp;(B) health care services provided in or by an institution, organization, or agency, if he or any member of his family has, directly or indirectly, a significant financial interest in such institution, organization, or agency.
 
-(2) For purposes of this subsection, a physician's family includes only his spouse (other than a spouse who is legally separated from himunder a decree of divorce or separate maintenance), children (including legally adopted children), grandchildren, parents, and grandparents.
+(2) For purposes of this subsection, a physician's family includes only his spouse (other than a spouse who is legally separated from him under a decree of divorce or separate maintenance), children (including legally adopted children), grandchildren, parents, and grandparents.
 
 #### (c) Utilization of services of physicians to make final determinations of denial decisions with respect to professional conduct of other physicians
 
@@ -150,7 +150,7 @@ Each contract under this part shall require that the utilization and quality con
 
 The Secretary, in consultation with appropriate experts, shall identify methods that would be available to assist peer review organizations (under subsection (a)(4) of this section) in identifying those cases which are more likely than others to be associated with a quality of services which does not meet professionally recognized standards of health care.
 
-(Aug. 14, 1935, ch. 531, title XI, §1154, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 385; amended Pub. L. 97–448, title III, §309(b)(3), (4), Jan. 12, 1983, 96 Stat. 2408, 2409; Pub. L. 99–272, title IX, §§9307(b), 9401(a), 9403(a), 9405(a), Apr. 7, 1986, 100 Stat. 193, 196, 200, 201; Pub. L. 99–509, title IX, §§9343(d), 9351(a), 9352(b), 9353(a)(1)–(3), (c)(1), Oct. 21, 1986, 100 Stat. 2040, 2043, 2044–2047; Pub. L. 100–203, title IV, §§4039(h)(3), (4), 4093(a), 4094(a)–(c)(1)(A), (2)(A), (B), 4096(c), Dec. 22, 1987, 101 Stat. 1330–135 to 1330–137, 1330–139, as amended Pub. L. 100–360, title IV, §411(e)(3), (j)(3)(A), July 1, 1988, 102 Stat. 775, 791; Pub. L. 100–360, title II, §203(d)(2), title IV, §411(j)(2), (3)(B), (4)(C), July 1, 1988, 102 Stat. 724, 775, 791; Pub. L. 100–485, title VI, §608(d)(25)(B), Oct. 13, 1988, 102 Stat. 2421; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §6224(a)(1), (b)(1), Dec. 19, 1989, 103 Stat. 2257; Pub. L. 101–508, title IV, §§4205(b)(1), (d)(1)(A), (g)(1)(A), (2)(A), 4207(a)(1)(B), formerly 4027(a)(1)(B), 4358(b)(3), Nov. 5, 1990, 104 Stat. 1388–113 to 1388–115, 1388–117, 1388–137; Pub. L. 103–432, title I, §§156(a)(2)(A), (b)(2)(A), 160(d)(4), 171(h)(2), Oct. 31, 1994, 108 Stat. 4440, 4441, 4444, 4450; Pub. L. 106–554, §1(a)(6) \[title V, §521(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–543; Pub. L. 108–173, title I, §109(a), (b), title IX, §948(d), Dec. 8, 2003, 117 Stat. 2173, 2426.)
+(Aug. 14, 1935, ch. 531, title XI, §1154, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 385; amended Pub. L. 97–448, title III, §309(b)(3),\(4), Jan. 12, 1983, 96 Stat. 2408, 2409; Pub. L. 99–272, title IX, §§9307(b), 9401(a), 9403(a), 9405(a), Apr. 7, 1986, 100 Stat. 193, 196, 200, 201; Pub. L. 99–509, title IX, §§9343(d), 9351(a), 9352(b), 9353(a)(1)–(3), (c)(1), Oct. 21, 1986, 100 Stat. 2040, 2043, 2044–2047; Pub. L. 100–203, title IV, §§4039(h)(3), (4), 4093(a), 4094(a)–(c)(1)(A), (2)(A), (B), 4096(c), Dec. 22, 1987, 101 Stat. 1330–135 to 1330–137, 1330–139, as amended Pub. L. 100–360, title IV, §411(e)(3), (j)(3)(A), July 1, 1988, 102 Stat. 775, 791; Pub. L. 100–360, title II, §203(d)(2), title IV, §411(j)(2), (3)(B), (4)(C), July 1, 1988, 102 Stat. 724, 775, 791; Pub. L. 100–485, title VI, §608(d)(25)(B), Oct. 13, 1988, 102 Stat. 2421; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §6224(a)(1), (b)(1), Dec. 19, 1989, 103 Stat. 2257; Pub. L. 101–508, title IV, §§4205(b)(1), (d)(1)(A), (g)(1)(A), (2)(A), 4207(a)(1)(B), formerly 4027(a)(1)(B), 4358(b)(3), Nov. 5, 1990, 104 Stat. 1388–113 to 1388–115, 1388–117, 1388–137; Pub. L. 103–432, title I, §§156(a)(2)(A), (b)(2)(A), 160(d)(4), 171(h)(2), Oct. 31, 1994, 108 Stat. 4440, 4441, 4444, 4450; Pub. L. 106–554, §1(a)(6) \[title V, §521(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–543; Pub. L. 108–173, title I, §109(a), (b), title IX, §948(d), Dec. 8, 2003, 117 Stat. 2173, 2426.)
 
 #### References in Text
 
@@ -162,23 +162,23 @@ A prior section 1320c–3, act Aug. 14, 1935, ch. 531, title XI, §1154, as adde
 
 #### Amendments
 
-2003—Subsec. (a)(1). Pub. L. 108–173, §109(a), inserted “, to Medicare Advantage organizations pursuant to contracts under part C, and to prescription drug sponsors pursuant to contracts under part D” after “under section 1395mm of this title”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–173, §109(a), inserted “, to Medicare Advantage organizations pursuant to contracts under part C, and to prescription drug sponsors pursuant to contracts under part D” after “under section 1395mm of this title”.
 
 Subsec. (a)(17). Pub. L. 108–173, §109(b), added par. (17).
 
 Subsec. (e)(5). Pub. L. 108–173, §948(d), struck out par. (5) which read as follows: “In any review conducted under paragraph (2) or (3), the organization shall solicit the views of the patient involved (or the patient's representative).”
 
-2000—Subsec. (e)(2) to (4). Pub. L. 106–554 struck out pars. (2) to (4), which had: in par. (2), authorized peer review organization review of validity of hospital's determination that a patient no longer required inpatient hospital care but attending physician had not agreed with the hospital's determination; in par. (3), authorized review of the determination where patient or patient's representative had received a notice under par. (1) and requested the review; and in par. (4), directed that hospital could not charge patient for inpatient services furnished before noon of the day after the date the patient or representative received notice of the decision where request for review had been made not later than noon of the first working day after notice under par. (1) had been received and section 1395pp(a)(2) conditions had been met.
+<b>2000</b>—Subsec. (e)(2) to (4). Pub. L. 106–554 struck out pars. (2) to (4), which had: in par. (2), authorized peer review organization review of validity of hospital's determination that a patient no longer required inpatient hospital care but attending physician had not agreed with the hospital's determination; in par. (3), authorized review of the determination where patient or patient's representative had received a notice under par. (1) and requested the review; and in par. (4), directed that hospital could not charge patient for inpatient services furnished before noon of the day after the date the patient or representative received notice of the decision where request for review had been made not later than noon of the first working day after notice under par. (1) had been received and section 1395pp(a)(2) conditions had been met.
 
-1994—Subsec. (a)(4)(B). Pub. L. 103–432, §171(h)(2), substituted “(or that is subject to review under section 1395ss(t)(3) of this title)” for “(or subject to review under section 1395ss(t) of this title)”.
+<b>1994</b>—Subsec. (a)(4)(B). Pub. L. 103–432, §171(h)(2), substituted “(or that is subject to review under section 1395ss(t)(3) of this title)” for “(or subject to review under section 1395ss(t) of this title)”.
 
 Subsec. (a)(9)(B). Pub. L. 103–432, §156(b)(2)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “If the organization finds, after notice and hearing, that a physician has furnished services in violation of this subsection, the organization shall notify the State board or boards responsible for the licensing or disciplining of the physician of its finding and decision.”
 
-Subsec. (a)(12). Pub. L. 103–432, §156(a)(2)(A)(i), struck out par. (12) which read as follows: “The organizationshall perform the review, referral, and other functions required under section 1320c–13 of this title.”
+Subsec. (a)(12). Pub. L. 103–432, §156(a)(2)(A)(i), struck out par. (12) which read as follows: “The organization shall perform the review, referral, and other functions required under section 1320c–13 of this title.”
 
 Subsec. (d). Pub. L. 103–432, §156(a)(2)(A)(ii), struck out “(and except as provided in section 1320c–13 of this title)” after “discretion of the Secretary”.
 
-1990—Subsec. (a)(2). Pub. L. 101–508, §4205(g)(2)(A), inserted third sentence and struck out former third sentence which read as follows: “Determinations that payment should not be made by reason of subparagraph (B) of paragraph (1) shall be made only on the basis of criteria which are consistent with guidelines established by the Secretary.”
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–508, §4205(g)(2)(A), inserted third sentence and struck out former third sentence which read as follows: “Determinations that payment should not be made by reason of subparagraph (B) of paragraph (1) shall be made only on the basis of criteria which are consistent with guidelines established by the Secretary.”
 
 Subsec. (a)(3)(E). Pub. L. 101–508, §4205(g)(1)(A), designated existing provisions as cl. (i), inserted “provided by a physician that were” after “items”, substituted “physician.” for “physician and hospital.”, and added cl. (ii).
 
@@ -192,7 +192,7 @@ Subsec. (a)(16). Pub. L. 101–508, §4207(a)(1)(B), formerly §4027(a)(1)(B), a
 
 Subsec. (c). Pub. L. 101–508, §4205(b)(1)(B), substituted “dentistry, optometry, or podiatry” for “or dentistry” in three places.
 
-1989—Subsec. (a)(1). Pub. L. 101–239, §6224(a)(1), inserted at end “If the organization performs such reviews with respect to a type of health care practitioner other than medical doctors, the organization shall establish procedures for the involvement of health care practitioners of that type in such reviews.”
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–239, §6224(a)(1), inserted at end “If the organization performs such reviews with respect to a type of health care practitioner other than medical doctors, the organization shall establish procedures for the involvement of health care practitioners of that type in such reviews.”
 
 Subsec. (a)(3)(A). Pub. L. 101–239, §6224(b)(1)(A), substituted “subparagraphs (B) and (D)” for “subparagraph (B)”.
 
@@ -202,7 +202,7 @@ Subsec. (a)(3)(D), (E). Pub. L. 101–239, §6224(b)(1)(C), added subpars. (D) a
 
 Subsec. (a)(16). Pub. L. 101–234, repealed Pub. L. 100–360, §203(d)(2), and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment note below.
 
-1988—Subsec. (a)(3)(C). Pub. L. 100–360, §411(j)(2), designated last sentence of par. (3) as subpar. (C).
+<b>1988</b>—Subsec. (a)(3)(C). Pub. L. 100–360, §411(j)(2), designated last sentence of par. (3) as subpar. (C).
 
 Subsec. (a)(4). Pub. L. 100–360, §411(e)(3), added Pub. L. 100–203, §4039(h)(3), see 1987 Amendment note below.
 
@@ -218,7 +218,7 @@ Subsec. (e)(3)(A)(i). Pub. L. 100–360, §411(j)(4)(C), as amended by Pub. L. 1
 
 Subsec. (e)(3)(B). Pub. L. 100–360, §411(j)(4)(C), as amended by Pub. L. 100–485, §608(d)(25)(B), substituted “paragraph (1)” for “paragraph (1) or (2)” in introductory provisions.
 
-1987—Subsec. (a)(3). Pub. L. 100–203, §4093(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Whenever the organization makes a determination that any health care services or items furnished or to be furnished to a patient by any practitioner or provider are disapproved, the organization shall promptly notify such practitioner or provider, such patient, and the agency or organization responsible for the payment of claims under subchapter XVIII of this chapter. In the case of practitioners and providers of services, the organization shall provide an opportunity for discussion and review of the determination.”
+<b>1987</b>—Subsec. (a)(3). Pub. L. 100–203, §4093(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Whenever the organization makes a determination that any health care services or items furnished or to be furnished to a patient by any practitioner or provider are disapproved, the organization shall promptly notify such practitioner or provider, such patient, and the agency or organization responsible for the payment of claims under subchapter XVIII of this chapter. In the case of practitioners and providers of services, the organization shall provide an opportunity for discussion and review of the determination.”
 
 Subsec. (a)(4). Pub. L. 100–203, §4039(h)(3), as added by Pub. L. 100–360, §411(e)(3), realigned margins for subpars. (B) and (C) and cls. (i) to (iii) of subpar. (C), in subpar. (B), substituted “risk sharing contract under section 1395mm” for “contract under section 1395mm”, and in subpar. (C), inserted “(other than the ability to perform review functions under this section that are not described in subparagraph (B))”.
 
@@ -238,13 +238,13 @@ Subsec. (e)(2). Pub. L. 100–203, §4096(c)(1), inserted provision at end requi
 
 Subsec. (e)(3)(A)(i), (B). Pub. L. 100–203, §4096(c)(2), inserted “or (2)” after “paragraph (1)”.
 
-1986—Subsec. (a)(1). Pub. L. 99–509, §9343(d)(1), inserted “and subject to the requirements of subsection (d) of this section” after “subject to the terms of the contract” in introductory provisions.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–509, §9343(d)(1), inserted “and subject to the requirements of subsection (d) of this section” after “subject to the terms of the contract” in introductory provisions.
 
 Pub. L. 99–272, §9405(a), inserted “(including where payment is made for such services to eligible organizations pursuant to contracts under section 1395mm of this title)” after “subchapter XVIII of this chapter” in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 99–272, §9403(a), in introductory provisions substituted “subparagraphs (A), (B), and (C)” for “subparagraphs (A) and (C)”, and following subpar. (D) inserted provision that determinations that payment should not be made by reason of subpar. (B) of par. (1) shall be made only on the basis of criteria which are consistent with guidelines established by the Secretary.
 
-Subsec. (a)(4)(A). Pub. L. 99–509, §9353(a)(1), inserted at end “Each peer review organization shall providethat a reasonable proportion of its activities are involved with reviewing, under paragraph (1)(B), the quality of services and that a reasonable allocation of such activities is made among the different cases and settings (including post-acute-care settings, ambulatory settings, and health maintenance organizations). In establishing such allocation, the organization shall consider (i) whether there is reason to believe that there is a particular need for reviews of particular cases or settings because of previous problems regarding quality of care, (ii) the cost of such reviews and the likely yield of such reviews in terms of number and seriousness of quality of care problems likely to be discovered as a result of such reviews, and (iii) the availability and adequacy of alternative quality review and assurance mechanisms.”
+Subsec. (a)(4)(A). Pub. L. 99–509, §9353(a)(1), inserted at end “Each peer review organization shall provide that a reasonable proportion of its activities are involved with reviewing, under paragraph (1)(B), the quality of services and that a reasonable allocation of such activities is made among the different cases and settings (including post-acute-care settings, ambulatory settings, and health maintenance organizations). In establishing such allocation, the organization shall consider (i) whether there is reason to believe that there is a particular need for reviews of particular cases or settings because of previous problems regarding quality of care, (ii) the cost of such reviews and the likely yield of such reviews in terms of number and seriousness of quality of care problems likely to be discovered as a result of such reviews, and (iii) the availability and adequacy of alternative quality review and assurance mechanisms.”
 
 Pub. L. 99–509, §9353(a)(2)(A), inserted “(A)” after “(4)”.
 
@@ -268,7 +268,7 @@ Subsec. (e). Pub. L. 99–509, §9351(a), added subsec. (e).
 
 Subsec. (f). Pub. L. 99–509, §9353(a)(3), added subsec. (f).
 
-1983—Subsec. (a)(1)(A). Pub. L. 97–448, §309(b)(3), substituted “and whether such services and items are not allowable under subsection (a)(1) or (a)(9) of section 1395y of this title” for “or otherwise allowable under section 1395y(a)(1) of this title”.
+<b>1983</b>—Subsec. (a)(1)(A). Pub. L. 97–448, §309(b)(3), substituted “and whether such services and items are not allowable under subsection (a)(1) or (a)(9) of section 1395y of this title” for “or otherwise allowable under section 1395y(a)(1) of this title”.
 
 Subsec. (a)(2)(B). Pub. L. 97–448, §309(b)(4), struck out “posthospital” before “extended care services”.
 
@@ -306,7 +306,7 @@ Section 4358(c) of Pub. L. 101–508, as amended by Pub. L. 103–432, title I, 
 
 &emsp;“(A) in 15 States (as determined by the Secretary of Health and Human Services) and such other States as elect such amendments to apply to them, and
 
-&emsp;“(B) subject to paragraph (2), during the 61/2-year period beginning with 1992.
+&emsp;“(B) subject to paragraph (2), during the 6½-year period beginning with 1992.
 
 > For purposes of this paragraph, the term ‘State’ has the meaning given such term by section 210(h) of the Social Security Act (42 U.S.C. 410(h)).
 
@@ -320,9 +320,9 @@ Section 4358(c) of Pub. L. 101–508, as amended by Pub. L. 103–432, title I, 
 
 &emsp;“(iii) Access to and quality of care has been significantly diminished as a result of such amendments.
 
-“(C) The amendments made by this section shall remain in effect beyond the 61/2-year period described in paragraph (1)(B) unless the Secretary determines that any of the findings described in clause (i), (ii), or (iii) of subparagraph (B) are true.
+“(C) The amendments made by this section shall remain in effect beyond the 6½-year period described in paragraph (1)(B) unless the Secretary determines that any of the findings described in clause (i), (ii), or (iii) of subparagraph (B) are true.
 
-“(3) The Comptroller General shall conduct a study to determine the extent to which individuals who arecontinuously covered under a medicare supplemental policy are subject to medical underwriting if they change the policy under which they are covered, and to identify options, if necessary, for modifying the medicare supplemental insurance market to make sure that continuously insured beneficiaries are able to switch plans without medical underwriting. By not later than June 30, 1996, the Comptroller General shall submit to the Congress a report on the study. The report shall include a description of the potential impact on the cost and availability of medicare supplemental policies of each option identified in the study.”
+“(3) The Comptroller General shall conduct a study to determine the extent to which individuals who are continuously covered under a medicare supplemental policy are subject to medical underwriting if they change the policy under which they are covered, and to identify options, if necessary, for modifying the medicare supplemental insurance market to make sure that continuously insured beneficiaries are able to switch plans without medical underwriting. By not later than June 30, 1996, the Comptroller General shall submit to the Congress a report on the study. The report shall include a description of the potential impact on the cost and availability of medicare supplemental policies of each option identified in the study.”
 
 \[Section 172(b) of Pub. L. 103–432 provided that: “The amendment made by subsection (a) \[amending section 4358(c) of Pub. L. 101–508, set out above\] shall take effect as if included in the enactment of the Omnibus Budget Reconciliation Act of 1990 \[Pub. L. 101–508\].”\]
 
@@ -346,7 +346,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 Section 4093(b) of Pub. L. 100–203 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to determinations made on or after April 1, 1988.”
 
-Section 4094(c)(1)(B) of Pub. L. 100–203 provided that: “The amendments made by subparagraph (A) \[amending this section\] shall apply to contracts under part B of title XI of the Social Security Act \[42 U.S.C. 1320c et seq.\] entered into or renewed more than 6 months after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Section 4094(c)(1)(B) of Pub. L. 100–203 provided that: “The amendments made by subparagraph (A) \[amending this section\] shall apply to contracts under part B of title XI of the Social Security Act \[42 U.S.C. 1320c etseq.\] entered into or renewed more than 6 months after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
 Section 4094(c)(2)(C) of Pub. L. 100–203 provided that: “The amendments made by this paragraph \[amending this section\] shall apply with respect to contracts entered into or renewed on or after the date of enactment of this Act \[Dec. 22, 1987\].”
 
@@ -388,7 +388,7 @@ Section 9405(b) of Pub. L. 99–272, as amended by Pub. L. 99–509, title IX, �
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective as if originally included as a part of this section as this section wasadded by the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, see section 309(c)(2) of Pub. L. 97–448, set out as a note under section 426–1 of this title.
+Amendment by Pub. L. 97–448 effective as if originally included as a part of this section as this section was added by the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, see section 309(c)(2) of Pub. L. 97–448, set out as a note under section 426–1 of this title.
 
 #### State Regulatory Programs
 

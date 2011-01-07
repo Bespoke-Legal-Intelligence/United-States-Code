@@ -1,6 +1,6 @@
 ### §2365. Amount of indemnity
 
-The indemnity obligation of the Commission specified in section 2363 of this title shall be for such amount, less the sales price of the property, as would have remained unpaid under a loan entered into on the date of the execution of the original deed by the Commission—
+The indemnity obligation of the Commission specified in section 2363 of this title shall be forsuch amount, less the sales price of the property, as would have remained unpaid under a loan entered into on the date of the execution of the original deed by the Commission—
 
 &emsp;(1) which was in the amount of the purchase price from the Commission and provided for equal monthly payments of principal and interest over a period of twenty years computed on the basis of the average interest and other charges recorded for property of the same class at the community; and
 
@@ -10,5 +10,5 @@ The indemnity obligation of the Commission specified in section 2363 of this tit
 
 #### Transfer of Functions
 
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. Seealso Transfer of Functions notes set out under those sections.
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 

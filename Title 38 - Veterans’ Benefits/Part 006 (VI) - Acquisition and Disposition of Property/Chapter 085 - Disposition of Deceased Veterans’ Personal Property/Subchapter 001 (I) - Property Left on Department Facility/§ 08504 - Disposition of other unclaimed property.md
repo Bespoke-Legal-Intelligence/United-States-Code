@@ -6,9 +6,9 @@ Any other unclaimed property found on the premises under the control of the Depa
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 5204 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5204 of this title as this section.
 
 Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Department” for “Veterans’ Administration”.
 
-1986—Pub. L. 99–576 substituted “such person's” for “his” in three places.
+<b>1986</b>—Pub. L. 99–576 substituted “such person's” for “his” in three places.
 

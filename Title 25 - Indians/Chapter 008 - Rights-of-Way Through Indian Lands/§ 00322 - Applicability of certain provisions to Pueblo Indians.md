@@ -16,7 +16,7 @@ The provisions of the following statutes:
 
 #### Amendments
 
-1976—Pub. L. 94–416 inserted reference to sections 323 to 328 and 357 of this title with respect to the enumeration of statutes, struck out reference to section 935 of title 43 with respect to the enumeration of statutes, and inserted “whether owned by the Pueblo Indians or held in trust or set aside for their use and occupancy by Executive order or otherwise,” after “New Mexico and their lands”.
+<b>1976</b>—Pub. L. 94–416 inserted reference to sections 323 to 328 and 357 of this title with respect to the enumeration of statutes, struck out reference to section 935 of title 43 with respect to the enumeration of statutes, and inserted “whether owned by the Pueblo Indians or held in trust or set aside for their use and occupancy by Executive order or otherwise,” after “New Mexico and their lands”.
 
 #### Transfer of Functions
 

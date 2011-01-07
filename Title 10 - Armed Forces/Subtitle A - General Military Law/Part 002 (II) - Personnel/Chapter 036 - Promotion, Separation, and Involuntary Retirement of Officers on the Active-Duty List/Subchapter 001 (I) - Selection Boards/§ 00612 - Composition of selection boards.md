@@ -14,21 +14,35 @@
 
 (b) No officer may be a member of two successive selection boards convened under section 611(a) of this title for the consideration of officers of the same competitive category and grade.
 
-(c) Each selection board convened under section 611(a) of this title that will consider officers who are serving in, or have served in, joint duty assignments shall include at least one officer designated by the Chairman of the Joint Chiefs of Staff who is currently serving in a joint duty assignment. The Secretary of Defense maywaive the preceding sentence in the case of any selection board of the Marine Corps.
+(c)(1) Each selection board convened under section 611(a) of this title that will consider an officer described in paragraph (2) shall include at least one officer designated by the Chairman of the Joint Chiefs of Staff who is a joint qualified officer.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2851; amended Pub. L. 97–22, §4(a), July 10, 1981, 95 Stat. 125; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title IV, §402(a), Oct. 1, 1986, 100 Stat. 1030; Pub. L. 106–398, §1 \[\[div. A\], title V, §504(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–101.)
+(2) Paragraph (1) applies with respect to an officer who—
+
+&emsp;(A) is serving on, or has served on, the Joint Staff; or
+
+&emsp;(B) is a joint qualified officer.
+
+(3) The Secretary of Defense may waive the requirement in paragraph (1) in the case of—
+
+&emsp;(A) any selection board of the Marine Corps; or
+
+&emsp;(B) any selection board that is considering officers in specialties identified in paragraph (2) or (3) of section 619a(b) of this title.
+
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2851; amended Pub. L. 97–22, §4(a), July 10, 1981, 95 Stat. 125; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title IV, §402(a), Oct. 1, 1986, 100 Stat. 1030; Pub. L. 106–398, §1 \[\[div. A\], title V, §504(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–101; Pub. L. 111–383, div. A, title V, §522(a), Jan. 7, 2011, 124 Stat. 4214.)
 
 #### Amendments
 
-2000—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title V, §504(a)(1)\], struck out “who are on the active-duty list” after “five or more officers” in second sentence and inserted after second sentence “Each member of a selection board (except as provided in paragraphs (2), (3), and (4)) shall be an officer on the active-duty list.”
+<b>2011</b>—Subsec. (c). Pub. L. 111–383 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Each selection board convened under section 611(a) of this title that will consider officers who are serving in, or have served in, joint duty assignments shall include at least one officer designated by the Chairman of the Joint Chiefs of Staff who is currently serving in a joint duty assignment. The Secretary of Defense may waive the preceding sentence in the case of any selection board of the Marine Corps.”
+
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title V, §504(a)(1)\], struck out “who are on the active-duty list” after “five or more officers” in second sentence and inserted after second sentence “Each member of a selection board (except as provided in paragraphs (2), (3), and (4)) shall be an officer on the active-duty list.”
 
 Subsec. (a)(3). Pub. L. 106–398, §1 \[\[div. A\], title V, §504(a)(2)\], substituted “of that armed force on active duty (whether or not on the active-duty list). The actual number of reserve officers shall be” for “of that armed force, with the exact number of reserve officers to be” and “the Secretary's discretion. Notwithstanding the first sentence of this paragraph,” for “his discretion, except that”.
 
-1986—Subsec. (c). Pub. L. 99–433 added subsec. (c).
+<b>1986</b>—Subsec. (c). Pub. L. 99–433 added subsec. (c).
 
-1985—Subsec. (a)(3). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
+<b>1985</b>—Subsec. (a)(3). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
 
-1981—Subsec. (a)(2). Pub. L. 97–22, §4(a)(1), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), a selection board” for “A selection board”, and added subpar. (B).
+<b>1981</b>—Subsec. (a)(2). Pub. L. 97–22, §4(a)(1), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), a selection board” for “A selection board”, and added subpar. (B).
 
 Subsec. (a)(3). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
 

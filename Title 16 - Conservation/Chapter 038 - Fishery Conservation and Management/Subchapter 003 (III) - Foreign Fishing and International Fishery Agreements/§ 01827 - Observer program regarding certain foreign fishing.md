@@ -66,9 +66,9 @@ Section was not enacted as part of the Magnuson-Stevens Fishery Conservation and
 
 #### Amendments
 
-1996—Subsec. (a)(1). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
-1980—Subsec. (a)(1). Pub. L. 96–561 substituted “Magnuson Fishery Conservation and Management Act” for “Fishery Conservation and Management Act of 1976”.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–561 substituted “Magnuson Fishery Conservation and Management Act” for “Fishery Conservation and Management Act of 1976”.
 
 #### Effective Date of 1996 Amendment
 

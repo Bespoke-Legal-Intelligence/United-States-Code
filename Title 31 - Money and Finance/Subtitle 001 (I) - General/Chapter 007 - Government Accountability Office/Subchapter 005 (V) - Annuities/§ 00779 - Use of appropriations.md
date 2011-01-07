@@ -28,5 +28,5 @@ The words “of deposits” in 31:43b(r) are omitted as surplus.
 
 #### Amendments
 
-2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

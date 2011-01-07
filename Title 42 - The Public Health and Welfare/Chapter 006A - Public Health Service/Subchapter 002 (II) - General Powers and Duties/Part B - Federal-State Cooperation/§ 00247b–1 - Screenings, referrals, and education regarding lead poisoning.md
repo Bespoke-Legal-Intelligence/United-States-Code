@@ -22,7 +22,7 @@
 
 #### (3) Provision of all services and activities through each grantee
 
-&emsp;In making grants under paragraph (1), the Secretary shall ensure that each of the activities described in such paragraph is provided through each grantee under such paragraph. The Secretary may authorize such a granteeto provide the services and activities directly, or through arrangements with other providers.
+&emsp;In making grants under paragraph (1), the Secretary shall ensure that each of the activities described in such paragraph is provided through each grantee under such paragraph. The Secretary may authorize such a grantee to provide the services and activities directly, or through arrangements with other providers.
 
 #### (b) Status as medicaid provider
 
@@ -146,7 +146,7 @@ For purposes of this section, the term “political subdivision” includes Indi
 
 The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall develop national guidelines for the uniform reporting of all blood lead test results to State and local health departments.
 
-(July 1, 1944, ch. 373, title III, §317A, as added Pub. L. 100–572, §3, Oct. 31, 1988, 102 Stat. 2887; amended Pub. L. 102–531, title III, §303(a), Oct. 27, 1992, 106 Stat. 3484; Pub. L. 103–183, title VII, §705(a), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–392, title IV, §404, Nov. 13, 1998, 112 Stat. 3588; Pub. L. 106–310, div. A, title XXV, §§2501(a), (b), 2504, Oct. 17, 2000, 114 Stat. 1161, 1164; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat.1664; Pub. L. 108–163, §2(m)(1), Dec. 6, 2003, 117 Stat. 2023.)
+(July 1, 1944, ch. 373, title III, §317A, as added Pub. L. 100–572, §3, Oct. 31, 1988, 102 Stat. 2887; amended Pub. L. 102–531, title III, §303(a), Oct. 27, 1992, 106 Stat. 3484; Pub. L. 103–183, title VII, §705(a), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–392, title IV, §404, Nov. 13, 1998, 112 Stat. 3588; Pub. L. 106–310, div. A, title XXV, §§2501(a), (b), 2504, Oct. 17, 2000, 114 Stat. 1161, 1164; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 108–163, §2(m)(1), Dec. 6, 2003, 117 Stat. 2023.)
 
 #### References in Text
 
@@ -162,11 +162,11 @@ A prior section 247b–1, Pub. L. 95–626, title IV, §401, Nov. 10, 1978, 92 S
 
 #### Amendments
 
-2003—Subsec. (a)(2). Pub. L. 108–163 substituted “254b” for “254c, 254b(h)” before “, or”.
+<b>2003</b>—Subsec. (a)(2). Pub. L. 108–163 substituted “254b” for “254c, 254b(h)” before “, or”.
 
-2002—Subsec. (a)(2). Pub. L. 107–251 substituted “254b(h)” for “256”.
+<b>2002</b>—Subsec. (a)(2). Pub. L. 107–251 substituted “254b(h)” for “256”.
 
-2000—Subsec. (d)(7), (8). Pub. L. 106–310, §2501(a)(1), added par. (7) and redesignated former par. (7) as (8).
+<b>2000</b>—Subsec. (d)(7), (8). Pub. L. 106–310, §2501(a)(1), added par. (7) and redesignated former par. (7) as (8).
 
 Subsec. (j)(2)(F), (G). Pub. L. 106–310, §2501(a)(2), added subpar. (F), redesignated former subpar. (F) as (G), and substituted “(F)” for “(E)”.
 
@@ -174,11 +174,11 @@ Subsec. (<i>l</i>)(1). Pub. L. 106–310, §2504, substituted “1994 through 20
 
 Subsec. (m). Pub. L. 106–310, §2501(b), added subsec. (m).
 
-1998—Subsec. (<i>l</i>)(1). Pub. L. 105–392 substituted “2002” for “1998”.
+<b>1998</b>—Subsec. (<i>l</i>)(1). Pub. L. 105–392 substituted “2002” for “1998”.
 
-1993—Subsec. (<i>l</i>)(1). Pub. L. 103–183 substituted “through 1998” for “through 1997”.
+<b>1993</b>—Subsec. (<i>l</i>)(1). Pub. L. 103–183 substituted “through 1998” for “through 1997”.
 
-1992—Pub. L. 102–531 amended section generally, substituting present provisions for provisions relating to grants to States for lead poisoning prevention, grant applications, conditions for approval, method and amount of payment, reduction of amount, recordkeeping and audits, inclusion of Indian tribes as grant recipients, and authorization of appropriations.
+<b>1992</b>—Pub. L. 102–531 amended section generally, substituting present provisions for provisions relating to grants to States for lead poisoning prevention, grant applications, conditions for approval, method and amount of payment, reduction of amount, recordkeeping and audits, inclusion of Indian tribes as grant recipients, and authorization of appropriations.
 
 #### Effective Date of 2003 Amendment
 
@@ -196,7 +196,7 @@ In general.—The Director of the Centers for Disease Control and Prevention sha
 
 &emsp;“(B) assist States with the development of flexible, comprehensive State-based data management systems for the surveillance of children with lead poisoning that have the capacity to contribute to a national data set;
 
-&emsp;“(C) assist with the improvement of the ability of State-based data management systems and federally-funded means-tested public benefit programs (including the special supplemental food program for women, infants and children (WIC) under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786) and the early head start program under section 645A of the Head Start Act (42 U.S.C. 9840a(h)) to respond to ad hoc inquiries and generate progress reports regarding the lead blood level screening of children enrolled in those programs;
+&emsp;“(C) assist with the improvement of the ability of State-based data management systems and federally-funded means-tested public benefit programs (including the special supplemental food program forwomen, infants and children (WIC) under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786) and the early head start program under section 645A of the Head Start Act (42 U.S.C. 9840a(h)) to respond to ad hoc inquiries and generate progress reports regarding the lead blood level screening of children enrolled in those programs;
 
 &emsp;“(D) assist States with the establishment of a capacity for assessing how many children enrolled in the Medicaid, WIC, early head start, and other federally-funded means-tested public benefit programs are being screened for lead poisoning at age-appropriate intervals;
 

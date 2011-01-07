@@ -10,7 +10,7 @@ The President may not authorize the conduct of a covert action by departments, a
 
 &emsp;(3) Each finding shall specify each department, agency, or entity of the United States Government authorized to fund or otherwise participate in any significant way in such action. Any employee, contractor, or contract agent of a department, agency, or entity of the United States Government other than the Central Intelligence Agency directed to participate in any way in a covert action shall be subject either to the policies and regulations of the Central Intelligence Agency, or to written policies or regulations adopted by such department, agency, or entity, to govern such participation.
 
-&emsp;(4) Each finding shall specify whether it is contemplated that any third party which is not an element of, or a contractor or contract agent of, the United States Government, or is not otherwise subject to United States Government policies and regulations, will be used to fund or otherwise participate in any significant way in the covert action concerned, or be used to undertake the covert action concerned on behalf of the United States.
+&emsp;(4) Each finding shall specify whether it is contemplated that any third party which isnot an element of, or a contractor or contract agent of, the United States Government, or is not otherwise subject to United States Government policies and regulations, will be used to fund or otherwise participate in any significant way in the covert action concerned, or be used to undertake the covert action concerned on behalf of the United States.
 
 &emsp;(5) A finding may not authorize any action that would violate the Constitution or any statute of the United States.
 
@@ -20,21 +20,43 @@ To the extent consistent with due regard for the protection from unauthorized di
 
 &emsp;(1) shall keep the congressional intelligence committees fully and currently informed of all covert actions which are the responsibility of, are engaged in by, or are carried out for or on behalf of, any department, agency, or entity of the United States Government, including significant failures; and
 
-&emsp;(2) shall furnish to the congressional intelligence committees any information or material concerning covert actions which is in the possession, custody, or control of any department, agency, or entity of the United States Government and which is requested by either of the congressional intelligence committees in order to carry out its authorized responsibilities.
+&emsp;(2) shall furnish to the congressional intelligence committees any information or material concerning covert actions (including the legal basis under which the covert action is being or was conducted) which is in the possession, custody, or control of any department, agency, or entity of the United States Government and which is requested by either of the congressional intelligence committees in order to carry out its authorized responsibilities.
 
 #### (c) Timing of reports; access to finding
 
-(1) The President shall ensure that any finding approved pursuant to subsection (a) of this section shall be reported to the congressional intelligence committees as soon as possible after such approval and before the initiation of the covert action authorized by the finding, except as otherwise provided in paragraph (2) and paragraph (3).
+(1) The President shall ensure that any finding approved pursuant to subsection (a) of this section shall be reported in writing to the congressional intelligence committees as soon as possible after such approval and before the initiation of the covert action authorized by the finding, except as otherwise provided in paragraph (2) and paragraph (3).
 
 (2) If the President determines that it is essential to limit access to the finding to meet extraordinary circumstances affecting vital interests of the United States, the finding may be reported to the chairmen and ranking minority members of the congressional intelligence committees, the Speaker and minority leader of the House of Representatives, the majority and minority leaders of the Senate, and such other member or members of the congressional leadership as may be included by the President.
 
 (3) Whenever a finding is not reported pursuant to paragraph (1) or (2) of this section,<sup>1</sup> the President shall fully inform the congressional intelligence committees in a timely fashion and shall provide a statement of the reasons for not giving prior notice.
 
-(4) In a case under paragraph (1), (2), or (3), a copy of the finding, signed by the President, shall be provided to the chairman of each congressional intelligence committee. When access to a finding is limited to the Members of Congress specified in paragraph (2), a statement of the reasons for limiting such access shall also be provided.
+(4) In a case under paragraph (1), (2), or (3), a copy of the finding, signed by the President, shall be provided to the chairman of each congressional intelligence committee.
+
+(5)(A) When access to a finding, or a notification provided under subsection (d)(1), is limited to the Members of Congress specified in paragraph (2), a written statement of the reasons for limiting such access shall also be provided.
+
+(B) Not later than 180 days after a statement of reasons is submitted in accordance with subparagraph (A) or this subparagraph, the President shall ensure that—
+
+&emsp;(i) all members of the congressional intelligence committees are provided access to the finding or notification; or
+
+&emsp;(ii) a statement of reasons that it is essential to continue to limit access to such finding or such notification to meet extraordinary circumstances affecting vital interests of the United States is submitted to the Members of Congress specified in paragraph (2).
 
 #### (d) Changes in previously approved actions
 
-The President shall ensure that the congressional intelligence committees, or, if applicable, the Members of Congress specified in subsection (c)(2) of this section, are notified of any significant change in a previously approved covert action, or any significant undertaking pursuant to a previously approved finding, in the same manner as findings are reported pursuant to subsection (c) of this section.
+(1) The President shall ensure that the congressional intelligence committees, or, if applicable, the Members of Congress specified in subsection (c)(2) of this section, are notified in writing of any significant change in a previously approved covert action, or any significant undertaking pursuant to a previously approved finding, in the same manner as findings are reported pursuant to subsection (c) of this section.
+
+(2) In determining whether an activity constitutes a significant undertaking for purposes of paragraph (1), the President shall consider whether the activity—
+
+&emsp;(A) involves significant risk of loss of life;
+
+&emsp;(B) requires an expansion of existing authorities, including authorities relating to research, development, or operations;
+
+&emsp;(C) results in the expenditure of significant funds or other resources;
+
+&emsp;(D) requires notification under section 414 of this title;
+
+&emsp;(E) gives rise to a significant risk of disclosing intelligence sources or methods; or
+
+&emsp;(F) presents a reasonably foreseeable risk of serious damage to the diplomatic relations of the United States if such activity were disclosed without authorization.
 
 #### (e) “Covert action” defined
 
@@ -52,7 +74,19 @@ As used in this subchapter, the term “covert action” means an activity or ac
 
 No covert action may be conducted which is intended to influence United States political processes, public opinion, policies, or media.
 
-(July 26, 1947, ch. 343, title V, §503, as added Pub. L. 102–88, title VI, §602(a)(2), Aug. 14, 1991, 105 Stat. 442; amended Pub. L. 107–306, title III, §353(b)(3)(C), (8), Nov. 27, 2002, 116 Stat. 2402; Pub. L. 108–458, title I, §1071(a)(1)(Y), Dec. 17, 2004, 118 Stat. 3689.)
+#### (g) Notice and general description where access to finding or notification limited; maintenance of records and written statements
+
+(1) In any case where access to a finding reported under subsection (c) or notification provided under subsection (d)(1) is not made available to all members of a congressional intelligence committee in accordance with subsection (c)(2), the President shall notify all members of such committee that such finding or such notification has been provided only to the members specified in subsection (c)(2).
+
+(2) In any case where access to a finding reported under subsection (c) or notification provided under subsection (d)(1) is not made available to all members of a congressional intelligence committee in accordance with subsection (c)(2), the President shall provide to all members of such committee a general description regarding the finding or notification, as applicable, consistent with the reasons for not yet fully informing all members of such committee.
+
+(3) The President shall maintain—
+
+&emsp;(A) a record of the members of Congress to whom a finding is reported under subsection (c) or notification is provided under subsection (d)(1) and the date on which each member of Congress receives such finding or notification; and
+
+&emsp;(B) each written statement provided under subsection (c)(5).
+
+(July 26, 1947, ch. 343, title V, §503, as added Pub. L. 102–88, title VI, §602(a)(2), Aug. 14, 1991, 105 Stat. 442; amended Pub. L. 107–306, title III, §353(b)(3)(C), (8), Nov. 27, 2002, 116 Stat. 2402; Pub. L. 108–458, title I, §1071(a)(1)(Y), Dec. 17, 2004, 118 Stat. 3689; Pub. L. 111–259, title III, §331(c), Oct. 7, 2010, 124 Stat. 2685.)
 
 #### Prior Provisions
 
@@ -60,9 +94,25 @@ A prior section 503 of act July 26, 1947, ch. 343, was renumbered section 505 an
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions.
+<b>2010</b>—Subsec. (b)(2). Pub. L. 111–259, §331(c)(1), inserted “(including the legal basis under which the covert action is being or was conducted)” before “which is in the possession”.
 
-2002—Subsecs. (b), (c)(1) to (3). Pub. L. 107–306, §353(b)(3)(C), substituted “congressional intelligence committees” for “intelligence committees” wherever appearing.
+Subsec. (c)(1). Pub. L. 111–259, §331(c)(2)(A), inserted “in writing” after “be reported”.
+
+Subsec. (c)(4). Pub. L. 111–259, §331(c)(2)(B), redesignated second sentence of par. (4) as (5)(A).
+
+Subsec. (c)(5)(A). Pub. L. 111–259, §331(c)(2)(C)(i), inserted “, or a notification provided under subsection (d)(1),” before “is limited” and “written” before “statement”.
+
+Pub. L. 111–259, §331(c)(2)(B), redesignated second sentence of par. (4) as (5)(A).
+
+Subsec. (c)(5)(B). Pub. L. 111–259, §331(c)(2)(C)(ii), added subpar. (B).
+
+Subsec. (d). Pub. L. 111–259, §331(c)(3), designated existing provisions as par. (1), inserted “in writing” after “notified”, and added par. (2).
+
+Subsec. (g). Pub. L. 111–259, §331(c)(4), added subsec. (g).
+
+<b>2004</b>—Subsec. (b). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions.
+
+<b>2002</b>—Subsecs. (b), (c)(1) to (3). Pub. L. 107–306, §353(b)(3)(C), substituted “congressional intelligence committees” for “intelligence committees” wherever appearing.
 
 Subsec. (c)(4). Pub. L. 107–306, §353(b)(8), substituted “congressional intelligence committee” for “intelligence committee”.
 

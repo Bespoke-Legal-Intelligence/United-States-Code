@@ -20,9 +20,9 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-2004—Pub. L. 108–455 and 108–482 amended section identically, inserting “Colorado Springs,” after “Boulder,”.
+<b>2004</b>—Pub. L. 108–455 and 108–482 amended section identically, inserting “Colorado Springs,” after “Boulder,”.
 
-1984—Pub. L. 98–620 provided for holding court at Boulder.
+<b>1984</b>—Pub. L. 98–620 provided for holding court at Boulder.
 
 #### Effective Date of 1984 Amendment
 

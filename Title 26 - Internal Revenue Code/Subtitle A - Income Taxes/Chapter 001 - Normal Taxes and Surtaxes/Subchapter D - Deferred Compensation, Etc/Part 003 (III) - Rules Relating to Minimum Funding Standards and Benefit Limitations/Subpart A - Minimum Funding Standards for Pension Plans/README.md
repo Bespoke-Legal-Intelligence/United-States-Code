@@ -19,7 +19,7 @@ Subpart A—Minimum Funding Standards for Pension Plans
 
 #### Amendments
 
-2006—Pub. L. 109–280, title II, §§212(d), 221(c), Aug. 17, 2006, 120 Stat. 917, 919, temporarily added item 432. See Effective and Termination Dates of 2006 Amendment note set out under section 412 of this title.
+<b>2006</b>—Pub. L. 109–280, title II, §§212(d), 221(c), Aug. 17, 2006, 120 Stat. 917, 919, temporarily added item 432. See Effective and Termination Dates of 2006 Amendment note set out under section 412 of this title.
 
 <i><sup>1</sup></i><i> Editorially supplied. Section 431 added by Pub. L. 109–280 without corresponding amendment of subpart analysis.</i>
 

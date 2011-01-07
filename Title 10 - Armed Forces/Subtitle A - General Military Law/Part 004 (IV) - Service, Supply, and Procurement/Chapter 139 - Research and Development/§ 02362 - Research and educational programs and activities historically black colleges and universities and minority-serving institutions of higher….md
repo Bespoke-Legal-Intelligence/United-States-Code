@@ -2,7 +2,7 @@
 
 (a)
 
-Program Established.—The Secretary of Defense, acting through the Director of Defense Research and Engineering and the Secretary of each military department, shall carry out a program to provide assistance to covered educational institutions to assist the Department in defense-related research, development, testing, and evaluation activities.
+Program Established.—The Secretary of Defense, acting through the Assistant Secretary of Defense for Research and Engineering and the Secretary of each military department, shall carry out a program to provide assistance to covered educational institutions to assist the Department in defense-related research, development, testing, and evaluation activities.
 
 (b)
 
@@ -36,17 +36,25 @@ Priority for Funding.—The Secretary of Defense may establish procedures under 
 
 Definition of Covered Educational Institution.—In this section the term “covered educational institution” means—
 
-&emsp;(1) an institution of higher education eligible for assistance under title III or IV of the Higher Education Act of 1965 (20 U.S.C. 1051 et seq.); or
+&emsp;(1) an institution of higher education eligible for assistance under title III or V of the Higher Education Act of 1965 (20 U.S.C. 1051 et seq.); or
 
 &emsp;(2) an accredited postsecondary minority institution.
 
-(Added Pub. L. 111–84, div. A, title II, §252(a), Oct. 28, 2009, 123 Stat. 2242.)
+(Added Pub. L. 111–84, div. A, title II, §252(a), Oct. 28, 2009, 123 Stat. 2242; amended Pub. L. 111–383, div. A, title IX, §901(a)(2), title X, §1075(b)(32), Jan. 7, 2011, 124 Stat. 4317, 4370.)
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (e)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Titles III and IV of the Act are classified generally to subchapters III (§1051 et seq.) and IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (e)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Titles III and V of the Act are classified generally to subchapters III (§1051 et seq.) and V (§1101 et seq.), respectively, of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Prior Provisions
 
 A prior section 2362, added Pub. L. 99–145, title I, §123(a)(1), Nov. 8, 1985, 99 Stat. 599; amended Pub. L. 99–433, title I, §110(g)(4), Oct. 1, 1986, 100 Stat. 1004; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284, which related to testing requirements for wheeled or tracked armored vehicles, was repealed by Pub. L. 103–160, div. A, title VIII, §821(a)(3), Nov. 30, 1993, 107 Stat. 1704.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (e)(1). Pub. L. 111–383, §1075(b)(32), substituted “title III or V” for “title III or IV”.
+
+#### Change of Name
+
+“Assistant Secretary of Defense for Research and Engineering” substituted for “Director of Defense Research and Engineering” in subsec. (a) on authority of section 901(a)(2) of Pub. L. 111–383, set out as a note under section 131 of this title.
 

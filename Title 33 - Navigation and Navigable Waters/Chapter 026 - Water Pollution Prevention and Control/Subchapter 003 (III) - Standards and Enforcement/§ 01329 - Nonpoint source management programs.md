@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(C) A schedule containing annual milestones for (i) utilization of the program implementation methods identified in subparagraph (B), and (ii) implementation of the best management practices identified in subparagraph (A) by the categories, subcategories, or particular nonpoint sources designated under paragraph (1)(B). Such schedule shall provide for utilization of the best management practices at the earliest practicable date.
 
-&emsp;&emsp;(D) A certification of the attorney general of the State or States (or the chief attorney of any State water pollution control agency which has independent legal counsel) that the laws of the State or States, as the case may be, provide adequate authority to implement such management program or, if there is not such adequate authority, a list of such additional authorities as will be necessary to implement such management program. A schedule and commitment by the State or States to seek such additional authorities as expeditiously as practicable.
+&emsp;&emsp;(D) A certification of the attorney general of the State or States (or the chief attorney of any State water pollution control agencywhich has independent legal counsel) that the laws of the State or States, as the case may be, provide adequate authority to implement such management program or, if there is not such adequate authority, a list of such additional authorities as will be necessary to implement such management program. A schedule and commitment by the State or States to seek such additional authorities as expeditiously as practicable.
 
 &emsp;&emsp;(E) Sources of Federal and other assistance and funding (other than assistance provided under subsections (h) and (i) of this section) which will be available in each of such fiscal years for supporting implementation of such practices and measures and the purposes for which such assistance will be used in each of such fiscal years.
 
@@ -80,7 +80,7 @@
 
 #### (3) Failure of State to submit report
 
-&emsp;If a Governor of a State does not submit the report required by subsection (a) of this section within the period specified by subsection (c)(2) of this section, the Administrator shall, within 30 months after February 4, 1987, prepare a report for such State which makes the identifications required by paragraphs (1)(A) and (1)(B) of subsection (a) of this section. Upon completion of the requirement of the preceding sentence and after notice and opportunity for comment, the Administrator shall report to Congress on his actions pursuant to this section.
+&emsp;If a Governor of a State does not submit the report required by subsection (a) of this section within the period specified by subsection (c)(2) of this section, the Administrator shall, within 30 months after February 4, 1987, prepare a report for such State which makes the identifications required by paragraphs (1)(A) and (1)(B) of subsection (a) of this section. Upon completion of the requirement of the preceding sentence and after notice and opportunity for comment, the Administrator shallreport to Congress on his actions pursuant to this section.
 
 #### (e) Local management programs; technical assistance
 
@@ -88,7 +88,7 @@ If a State fails to submit a management program under subsection (b) of this sec
 
 #### (f) Technical assistance for States
 
-Upon request of a State, the Administrator may provide technical assistance to such Statein developing a management program approved under subsection (b) of this section for those portions of the navigable waters requested by such State.
+Upon request of a State, the Administrator may provide technical assistance to such State in developing a management program approved under subsection (b) of this section for those portions of the navigable waters requested by such State.
 
 #### (g) Interstate management conference
 
@@ -132,7 +132,7 @@ Upon request of a State, the Administrator may provide technical assistance to s
 
 #### (6) Availability for obligation
 
-&emsp;The funds granted to each State pursuant to this subsection in a fiscal year shall remain available for obligation by such State for the fiscal year for which appropriated. The amount of any such funds not obligated by theend of such fiscal year shall be available to the Administrator for granting to other States under this subsection in the next fiscal year.
+&emsp;The funds granted to each State pursuant to this subsection in a fiscal year shall remain available for obligation by such State for the fiscal year for which appropriated. The amount of any such funds not obligated by the end of such fiscal year shall be available to the Administrator for granting to other States under this subsection in the next fiscal year.
 
 #### (7) Limitation on use of funds
 
@@ -182,7 +182,7 @@ There is authorized to be appropriated to carry out subsections (h) and (i) of t
 
 #### (k) Consistency of other programs and projects with management programs
 
-The Administrator shall transmit to the Office of Management and Budget and the appropriate Federal departments and agencies a list of those assistance programs and development projects identified by each State under subsection (b)(2)(F) of this section for which individual assistance applications and projects will be reviewed pursuant to the procedures set forth in Executive Order 12372 as in effect on September 17, 1983. Beginning not later than sixty days after receiving notification by the Administrator, each Federal department and agency shall modify existing regulations to allow States to review individual development projects and assistance applications under the identified Federal assistance programs and shall accommodate, according to the requirementsand definitions of Executive Order 12372, as in effect on September 17, 1983, the concerns of the State regarding the consistency of such applications or projects with the State nonpoint source pollution management program.
+The Administrator shall transmit to the Office of Management and Budget and the appropriate Federal departments and agencies a list of those assistance programs and development projects identified by each State under subsection (b)(2)(F) of this section for which individual assistance applications and projects will be reviewed pursuant to the procedures set forth in Executive Order 12372 as in effect on September 17, 1983. Beginning not later than sixty days after receiving notification by the Administrator, each Federal department and agency shall modify existing regulations to allow States to review individual development projects and assistance applications under the identified Federal assistance programs and shall accommodate, according to the requirements and definitions of Executive Order 12372, as in effect on September 17, 1983, the concerns of the State regarding the consistency of such applications or projects with the State nonpoint source pollution management program.
 
 #### (<i>l</i>) Collection of information
 
@@ -226,9 +226,9 @@ The Colorado River Basin Salinity Control Act, referred to in subsec. (g)(1), is
 
 #### Amendments
 
-2002—Subsecs. (i)(4), (m), (n). Pub. L. 107–303 repealed Pub. L. 105–362, §501(c). See 1998 Amendment note below.
+<b>2002</b>—Subsecs. (i)(4), (m), (n). Pub. L. 107–303 repealed Pub. L. 105–362, §501(c). See 1998 Amendment note below.
 
-1998—Subsec. (i)(4). Pub. L. 105–362, §501(c)(1), which directed the striking out of heading and text of par. (4), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
+<b>1998</b>—Subsec. (i)(4). Pub. L. 105–362, §501(c)(1), which directed the striking out of heading and text of par. (4), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
 
 Subsecs. (m), (n). Pub. L. 105–362, §501(c)(2), (3), which directed the redesignation of subsec. (n) as (m) and striking out of heading and text of former subsec. (m), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
 

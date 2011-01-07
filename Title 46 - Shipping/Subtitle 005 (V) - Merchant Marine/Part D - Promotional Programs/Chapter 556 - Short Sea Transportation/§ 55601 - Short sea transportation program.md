@@ -78,7 +78,7 @@ Non-federal share.—An applicant shall provide at least 20 percent of the proje
 
 #### Amendments
 
-2009—Subsec. (g). Pub. L. 111–84 added subsec. (g).
+<b>2009</b>—Subsec. (g). Pub. L. 111–84 added subsec. (g).
 
 #### Effective Date
 

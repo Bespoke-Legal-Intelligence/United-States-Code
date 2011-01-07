@@ -1,6 +1,6 @@
 ### §2641. Transportation of certain veterans on Department of Defense aeromedical evacuation aircraft
 
-(a) The Secretary of Defense may provide transportation on an aircraft operating under the aeromedical evacuation system of the Department of Defense for the purpose of transporting a veteran to or from a Department of Veterans Affairs medical facility or of transporting the remains of a deceased veteran who died at such a facility after being transported to the facility under this subsection. Transportation of the remains of a deceased veteran under this subsection may be provided to the place from which the veteran was transported to the facility or to any other destination which is not farther away from the facility than such place.
+(a) The Secretary of Defense may provide transportation on an aircraft operating under the aeromedical evacuation system of the Department of Defense for the purpose of transporting a veteran to or from a Department of Veterans Affairs medical facility or of transporting the remains of a deceased veteran who died at such a facility after being transported tothe facility under this subsection. Transportation of the remains of a deceased veteran under this subsection may be provided to the place from which the veteran was transported to the facility or to any other destination which is not farther away from the facility than such place.
 
 (b) Transportation under this section shall be provided in accordance with an agreement entered into between the Secretary of Defense and the Secretary of Veterans Affairs. Such an agreement shall provide that transportation may be furnished to a veteran (or for the remains of a veteran) on an aircraft referred to in subsection (a) only if—
 
@@ -22,7 +22,7 @@
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–337, §652(b)(1), inserted before period “or of transporting the remains of a deceased veteran who died at such a facility after being transported to the facility under this subsection. Transportation of the remains of a deceased veteran under this subsection may be provided to the place from which the veteran was transported to the facility or to any other destination which is not farther away from the facility than such place”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337, §652(b)(1), inserted before period “or of transporting the remains of a deceased veteran who died at such a facility after being transported to the facility under this subsection. Transportation of the remains of a deceased veteran under this subsection may be provided to the place from which the veteran was transported to the facility or to any other destination which is not farther away from the facility than such place”.
 
 Subsec. (b). Pub. L. 103–337, §652(b)(2)(A)(i), inserted “(or for the remains of a veteran)” after “furnished to a veteran” in introductory provisions.
 
@@ -36,7 +36,7 @@ Subsec. (d)(1). Pub. L. 103–337, §652(b)(2)(B), inserted “(or on the surviv
 
 Subsec. (d)(2). Pub. L. 103–337, §652(b)(2)(C), inserted “(or for the remains of veterans)” after “to veterans”.
 
-1989—Subsec. (a). Pub. L. 101–189, §1621(a)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–189, §1621(a)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
 Subsec. (b). Pub. L. 101–189, §1621(a)(2), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” in introductory provisions and in par. (1).
 

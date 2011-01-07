@@ -16,5 +16,5 @@ Subsec. (c) directed the Secretary to review all laws and regulations relating t
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–295 inserted “or natural gas” after “oil”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–295 inserted “or natural gas” after “oil”.
 

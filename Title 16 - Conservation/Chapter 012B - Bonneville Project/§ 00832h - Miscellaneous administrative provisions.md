@@ -12,13 +12,13 @@ The administrator may make such expenditures for offices, vehicles, furnishings,
 
 #### References in Text
 
-Federal Power Act, referred to in subsec. (a), was in the original the “Federal Water Power Act”, and was redesignated the Federal Power Act by section 791a of this title. The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§791a et seq.) of this title. Forcomplete classification of this Act to the Code, see section 791a of this title and Tables.
+Federal Power Act, referred to in subsec. (a), was in the original the “Federal Water Power Act”, and was redesignated the Federal Power Act by section 791a of this title. The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
 #### Amendments
 
-1966—Subsec. (c). Pub. L. 89–448 repealed subsec. (c) which provided for annual financial statement to Congress. See section 835j of this title.
+<b>1966</b>—Subsec. (c). Pub. L. 89–448 repealed subsec. (c) which provided for annual financial statement to Congress. See section 835j of this title.
 
-1945—Subsec. (a). Act Oct. 23, 1945, inserted provisions relating to obligations for annual and sick leave of absence, annual commercial-type audits and forms, systems and procedures for the Administrator's appropriation and fund accounting.
+<b>1945</b>—Subsec. (a). Act Oct. 23, 1945, inserted provisions relating to obligations for annual and sick leave of absence, annual commercial-type audits and forms, systems and procedures for the Administrator's appropriation and fund accounting.
 
 #### Transfer of Functions
 

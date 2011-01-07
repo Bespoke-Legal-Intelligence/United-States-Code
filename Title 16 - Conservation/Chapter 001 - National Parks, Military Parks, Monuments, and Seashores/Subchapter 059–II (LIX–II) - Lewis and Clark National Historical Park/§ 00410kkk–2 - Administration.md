@@ -6,7 +6,7 @@ The park shall be administered by the Secretary in accordance with this subchapt
 
 #### (b) Management plan
 
-Not later than 3 years after funds are made available for this purpose, the Secretary shall prepare an amendment to the General Management Plan for Fort Clatsop National Memorial to guide the management of the park.
+Not later than 3 years after funds are made available for this purpose, the Secretary shallprepare an amendment to the General Management Plan for Fort Clatsop National Memorial to guide the management of the park.
 
 #### (c) Cooperative management
 

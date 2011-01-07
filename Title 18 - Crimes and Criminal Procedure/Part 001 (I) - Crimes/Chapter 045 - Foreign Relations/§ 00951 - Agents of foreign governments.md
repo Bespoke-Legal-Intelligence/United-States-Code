@@ -42,15 +42,15 @@ Section 11 of the Export Administration Act of 1979, referred to in subsec. (e)(
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $75,000”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $75,000”.
 
-1993—Subsec. (e)(2)(A). Pub. L. 103–199 substituted “Cuba or any other country that the President determines (and so reports to the Congress) poses a threat to the national security interest of the United States for purposes of this section” for “the Soviet Union, the German Democratic Republic, Hungary, Czechoslovakia, Poland, Bulgaria, Romania, or Cuba”.
+<b>1993</b>—Subsec. (e)(2)(A). Pub. L. 103–199 substituted “Cuba or any other country that the President determines (and so reports to the Congress) poses a threat to the national security interest of the United States for purposes of this section” for “the Soviet Union, the German Democratic Republic, Hungary, Czechoslovakia, Poland, Bulgaria, Romania, or Cuba”.
 
-1986—Subsec. (e). Pub. L. 99–569 added subsec. (e).
+<b>1986</b>—Subsec. (e). Pub. L. 99–569 added subsec. (e).
 
-1984—Pub. L. 98–473 designated existing provisions as subsec. (a), substituted “Attorney General if required in subsection (b)” for “Secretary of State”, and added subsecs. (b) to (d).
+<b>1984</b>—Pub. L. 98–473 designated existing provisions as subsec. (a), substituted “Attorney General if required in subsection (b)” for “Secretary of State”, and added subsecs. (b) to (d).
 
-1983—Pub. L. 97–462 increased limitation on fines to $75,000 from $5,000.
+<b>1983</b>—Pub. L. 97–462 increased limitation on fines to $75,000 from $5,000.
 
 #### Effective Date of 1983 Amendment
 

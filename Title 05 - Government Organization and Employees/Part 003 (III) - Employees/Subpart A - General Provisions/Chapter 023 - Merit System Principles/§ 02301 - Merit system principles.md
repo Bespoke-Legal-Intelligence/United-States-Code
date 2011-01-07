@@ -304,7 +304,7 @@ In general.—Not later than 18 months after the date of enactment of this Act \
 
 &emsp;&emsp;“(A) a study on the effects of section 201 on the operations of Federal agencies; and
 
-&emsp;&emsp;“(B) a study on the effects of section 13 of the Contract Disputes Act of 1978 (41 U.S.C. 612) on the operations of Federal agencies.
+&emsp;&emsp;“(B) a study on the effects of section 13 of the Contract Disputes Act of 1978 (41 U.S.C. 612) \[now 41 U.S.C. 7108\] on the operations of Federal agencies.
 
 &emsp;“(2)
 
@@ -340,7 +340,7 @@ In general.—Not later than 1 year after the date of enactment of this Act \[Ma
 
 &emsp;&emsp;“(A) this Act; and
 
-&emsp;&emsp;“(B) the Contracts Dispute Act of 1978 (41 U.S.C. 601 note \[41 U.S.C. 601 et seq.\]; Public Law 95–563).
+&emsp;&emsp;“(B) the Contracts Dispute \[Contract Disputes\] Act of 1978 (41 U.S.C. 601 note \[see 41 U.S.C. 7101 et seq.\]; Public Law 95–563).
 
 &emsp;“(2)
 

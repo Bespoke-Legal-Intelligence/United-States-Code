@@ -36,13 +36,13 @@ Section 11 of that act, formerly classified to section 111 of Title 29, was repe
 
 Section 12 of that act, formerly classified to section 112 of Title 29, was repealed by act June 25, 1948, and is covered by rule 42(b) of the Federal Rules of Criminal Procedure, set out in Appendix to this title.
 
-Section 164 of Title 45, included within the reference in subsec. (c) to sections 151–188 of Title 45, was repealed by act Oct. 10, 1940, ch. 851, §4, 54 Stat. 1111. See section 5 of Title 41, Public Contracts.
+Section 164 of Title 45, included within the reference in subsec. (c) to sections 151–188 of Title 45, was repealed by act Oct. 10, 1940, ch. 851, §4, 54 Stat. 1111.
 
 Section 186 of Title 45, included within the reference in subsec. (c) to sections 151–188 of Title 45, was omitted from the Code.
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
 #### Short Title
 

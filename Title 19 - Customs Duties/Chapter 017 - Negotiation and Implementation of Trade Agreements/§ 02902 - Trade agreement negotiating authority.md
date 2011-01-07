@@ -124,7 +124,7 @@ This Act, referred to in subsec. (c)(5), is Pub. L. 100–418, Aug. 23, 1988, 10
 
 #### Amendments
 
-1993—Subsec. (e). Pub. L. 103–49 added subsec. (e).
+<b>1993</b>—Subsec. (e). Pub. L. 103–49 added subsec. (e).
 
-1990—Subsec. (c)(4). Pub. L. 101–382 substituted “paragraph (3)(C)” for “paragraph (3)(B)” and “2903(e)” for “2903(f)”.
+<b>1990</b>—Subsec. (c)(4). Pub. L. 101–382 substituted “paragraph (3)(C)” for “paragraph (3)(B)” and “2903(e)” for “2903(f)”.
 

@@ -150,13 +150,13 @@ If, at any time after the initiation of an investigation under this part, the ad
 
 #### Amendments
 
-1996—Subsec. (a)(2)(B). Pub. L. 104–295, §20(b)(9), amended directory language of Pub. L. 103–465, §233(a)(6)(C). See 1994 Amendment note below.
+<b>1996</b>—Subsec. (a)(2)(B). Pub. L. 104–295, §20(b)(9), amended directory language of Pub. L. 103–465, §233(a)(6)(C). See 1994 Amendment note below.
 
 Subsec. (c)(5). Pub. L. 104–295, §20(b)(4), substituted “(b)(1)” for “(b)(1)(A)”.
 
 Subsec. (e)(1). Pub. L. 104–295, §20(b)(8), substituted “the” for “the the” before “subject merchandise”.
 
-1994—Subsec. (a)(1). Pub. L. 103–465, §233(a)(6)(A)(v), substituted “initiated” for “commenced”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–465, §233(a)(6)(A)(v), substituted “initiated” for “commenced”.
 
 Subsec. (a)(2)(B). Pub. L. 103–465, §233(a)(6)(C), as amended by Pub. L. 104–295, §20(b)(9), substituted “initiate” for “commerce” in two places.
 
@@ -180,13 +180,13 @@ Subsec. (e)(1). Pub. L. 103–465, §233(a)(5)(P), substituted “the subject me
 
 Subsec. (e)(2). Pub. L. 103–465, §233(a)(5)(Q), substituted “subject merchandise” for “merchandise which is the subject of the investigation”.
 
-1988—Subsec. (b)(1). Pub. L. 100–418, §1326(d)(1), substituted “(F), or (G)” for “or (F)”.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–418, §1326(d)(1), substituted “(F), or (G)” for “or (F)”.
 
 Subsec. (e). Pub. L. 100–418, §1324(b)(1), added subsec. (e).
 
-1986—Subsec. (b)(1). Pub. L. 99–514 inserted reference to subpar. (F) of section 1677(9) of this title.
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–514 inserted reference to subpar. (F) of section 1677(9) of this title.
 
-1984—Subsec. (a). Pub. L. 98–573 designated existing provisions as par. (1) and added par. (2).
+<b>1984</b>—Subsec. (a). Pub. L. 98–573 designated existing provisions as par. (1) and added par. (2).
 
 #### Effective Date of 1994 Amendment
 

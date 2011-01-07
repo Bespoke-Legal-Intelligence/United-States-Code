@@ -64,7 +64,7 @@ The President shall, not later than December 31 of each year, submit to the Comm
 
 #### (2) Independent audit
 
-&emsp;An independent certified public accountant shall perform a financial and compliance audit of the financial statements of the Trade and Development Agency each year, in accordance with generally accepted Government auditing standards for a financial and compliance audit, taking into consideration any standards recommended by the Comptroller General. The independent certified public accountant shall report the results of such audit to the Director of the Trade and Development Agency. The financial statements of the Trade and Development Agency shall be presented in accordance with generally accepted accounting principles. These financial statements and the report of the accountant shall be included in a report which contains, to the extent applicable, the information identified in section 3512 of title 31, and which the Trade and Development Agency shall submit to the Congress not later than 61/2 months after the end of the last fiscal year covered by the audit. The Comptroller General may review the audit conducted by the accountant and the report to the Congress in the manner and at such times as the Comptroller General considers necessary.
+&emsp;An independent certified public accountant shall perform a financial and compliance audit of the financial statements of the Trade and Development Agency each year, in accordance with generally accepted Government auditing standards for a financial and compliance audit, taking into consideration any standards recommended by the Comptroller General. The independent certified public accountant shall report the results of such audit to the Director of the Trade and Development Agency. The financial statements of the Trade and Development Agency shall be presented in accordance with generally accepted accounting principles. These financial statements and the report of the accountant shall be included in a report which contains, to the extent applicable, the information identified in section 3512 of title 31, and which the Trade and Development Agency shall submit to the Congress not later than 6½ months after the end of the last fiscal year covered by the audit. The Comptroller General may review the audit conducted by the accountant and the report to the Congress in the manner and at such times as the Comptroller General considers necessary.
 
 #### (3) Audit by Comptroller General
 
@@ -94,19 +94,15 @@ The President shall, not later than December 31 of each year, submit to the Comm
 
 (Pub. L. 87–195, pt. III, §661, as added Pub. L. 93–559, §31, Dec. 30, 1974, 88 Stat. 1804; amended Pub. L. 94–161, title III, §316, Dec. 20, 1975, 89 Stat. 867; Pub. L. 95–88, title I, §128, Aug. 3, 1977, 91 Stat. 543; Pub. L. 95–424, title I, §121, Oct. 6, 1978, 92 Stat. 954; Pub. L. 96–53, title I, §119, Aug. 14, 1979, 93 Stat. 365; Pub. L. 96–533, title III, §311, Dec. 16, 1980, 94 Stat. 3148; Pub. L. 97–113, title III, §312, Dec. 29, 1981, 95 Stat. 1536; Pub. L. 99–83, title IV, §405, Aug. 8, 1985, 99 Stat. 219; Pub. L. 100–418, title II, §2204(b)(1), (2), Aug. 23, 1988, 102 Stat. 1329; Pub. L. 102–549, title II, §201, Oct. 28, 1992, 106 Stat. 3655; Pub. L. 103–392, title II, §201, Oct. 22, 1994, 108 Stat. 4099; Pub. L. 106–158, §5, Dec. 9, 1999, 113 Stat. 1746; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
-#### References in Text
-
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (c)(2)(C), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
 References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Amendments
 
-2004—Subsec. (e)(4). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (e)(4). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1999—Subsec. (a). Pub. L. 106–158, §5(a), inserted before period at end: “, with special emphasis on economic sectors with significant United States export potential, such as energy, transportation, telecommunications, and environment”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–158, §5(a), inserted before period at end: “, with special emphasis on economic sectors with significant United States export potential, such as energy, transportation, telecommunications, and environment”.
 
 Subsec. (b)(5). Pub. L. 106–158, §5(b), added par. (5).
 
@@ -114,27 +110,27 @@ Subsec. (f)(1)(A). Pub. L. 106–158, §5(c)(1), substituted “$48,000,000 for 
 
 Subsec. (f)(2)(A). Pub. L. 106–158, §5(c)(2), substituted “in carrying out its program, provide, as appropriate, funds” for “in fiscal years 1993 and 1994, substantially increase the amount of funds it provides”.
 
-1994—Subsec. (f)(1). Pub. L. 103–392 redesignated existing provisions as subpar. (A), substituted “$77,000,000 for fiscal year 1995 and such sums as are necessary for fiscal year 1996.” for “$55,000,000 for fiscal year 1993 and $65,000,000 for fiscal year 1994.”, and added subpar. (B).
+<b>1994</b>—Subsec. (f)(1). Pub. L. 103–392 redesignated existing provisions as subpar. (A), substituted “$77,000,000 for fiscal year 1995 and such sums as are necessary for fiscal year 1996.” for “$55,000,000 for fiscal year 1993 and $65,000,000 for fiscal year 1994.”, and added subpar. (B).
 
-1992—Pub. L. 102–549 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) which authorized a trade and development program to facilitate access to natural resources of interest to the United States and to stimulate reimbursable aid programs, established an agency called the Trade and Development Program to carry out the program, established an advisory board, and authorized appropriations for purposes of section.
+<b>1992</b>—Pub. L. 102–549 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) which authorized a trade and development program to facilitate access to natural resources of interest to the United States and to stimulate reimbursable aid programs, established an agency called the Trade and Development Program to carry out the program, established an advisory board, and authorized appropriations for purposes of section.
 
-1988—Subsec. (a). Pub. L. 100–418, §2204(b)(1), inserted sentence providing for use of funds for project planning, development, management, and procurement for bilateral and multilateral projects, for purpose of promoting use of United States exports in such projects.
+<b>1988</b>—Subsec. (a). Pub. L. 100–418, §2204(b)(1), inserted sentence providing for use of funds for project planning, development, management, and procurement for bilateral and multilateral projects, for purpose of promoting use of United States exports in such projects.
 
 Subsecs. (b) to (d). Pub. L. 100–418, §2204(b)(2), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
-1985—Subsec. (b). Pub. L. 99–83 amended subsec. (b) generally, substituting provisions authorizing appropriations of $20,000,000 for fiscal years 1986 and 1987, for provisions authorizing appropriations of $6,907,000 for fiscal years 1982 and 1983.
+<b>1985</b>—Subsec. (b). Pub. L. 99–83 amended subsec. (b) generally, substituting provisions authorizing appropriations of $20,000,000 for fiscal years 1986 and 1987, for provisions authorizing appropriations of $6,907,000 for fiscal years 1982 and 1983.
 
-1981—Pub. L. 97–113, §312(b), designated existing provisions as subsec. (a), struck out provision for use of $4,000,000 of funds made available for fiscal year 1981 for purposes of this chapter, and added subsec. (b).
+<b>1981</b>—Pub. L. 97–113, §312(b), designated existing provisions as subsec. (a), struck out provision for use of $4,000,000 of funds made available for fiscal year 1981 for purposes of this chapter, and added subsec. (b).
 
-1980—Pub. L. 96–533 substituted authorization for use of $4,000,000 of available funds for fiscal year 1981 for such authorization for use of $3,800,000 of available funds for fiscal year 1980 for reimbursable development programs.
+<b>1980</b>—Pub. L. 96–533 substituted authorization for use of $4,000,000 of available funds for fiscal year 1981 for such authorization for use of $3,800,000 of available funds for fiscal year 1980 for reimbursable development programs.
 
-1979—Pub. L. 96–53 substituted “$3,800,000” for “$3,000,000” and “1980” for “1979”.
+<b>1979</b>—Pub. L. 96–53 substituted “$3,800,000” for “$3,000,000” and “1980” for “1979”.
 
-1978—Pub. L. 95–424 substituted “$3,000,000 of the funds made available for the purposes of this chapter for the fiscal year 1979” for “$2,000,000 of the funds made available for the purposes of this chapter. In the fiscal year 1977 and $2,000,000 of the funds made available for the purposes of this chapter in the fiscal year 1978,”.
+<b>1978</b>—Pub. L. 95–424 substituted “$3,000,000 of the funds made available for the purposes of this chapter for the fiscal year 1979” for “$2,000,000 of the funds made available for the purposes of this chapter. In the fiscal year 1977 and $2,000,000 of the funds made available for the purposes of this chapter in the fiscal year 1978,”.
 
-1977—Pub. L. 95–88 struck out provisions authorizing the President to use up to $1,000,000 of the funds made available for the purposes of this chapter in the fiscal year 1975 and $2,000,000 in the fiscal year 1976, and inserted provisions authorizing the President to use $2,000,000 of the funds made available for the purposes of this chapter in the fiscal year 1978.
+<b>1977</b>—Pub. L. 95–88 struck out provisions authorizing the President to use up to $1,000,000 of the funds made available for the purposes of this chapter in the fiscal year 1975 and $2,000,000 in the fiscal year 1976, and inserted provisions authorizing the President to use $2,000,000 of the funds made available for the purposes of this chapter in the fiscal year 1978.
 
-1975—Pub. L. 94–161 increased usable funds in fiscal year 1976 to $2,000,000 from $1,000,000 and authorized use of $2,000,000 in fiscal year 1977.
+<b>1975</b>—Pub. L. 94–161 increased usable funds in fiscal year 1976 to $2,000,000 from $1,000,000 and authorized use of $2,000,000 in fiscal year 1977.
 
 Section 202(a), (e) of Pub. L. 102–549 provided that:
 

@@ -12,7 +12,7 @@ Engineering Cost Reimbursement.—If on-site construction of, or acquisition of 
 
 #### Amendments
 
-2005—Pub. L. 109–59 redesignated subsecs. (b) and (c) as (a) and (b), respectively, and struck out heading and text of former subsec. (a). Text read as follows:
+<b>2005</b>—Pub. L. 109–59 redesignated subsecs. (b) and (c) as (a) and (b), respectively, and struck out heading and text of former subsec. (a). Text read as follows:
 
 “(1)
 
@@ -22,7 +22,7 @@ In general.—A State transportation department shall establish the occupancy re
 
 Exception for inherently low-emission vehicles.—Notwithstanding paragraph (1), before September 30, 2003, a State may permit a vehicle with fewer than 2 occupants to operate in high occupancy vehicle lanes if the vehicle is certified as an Inherently Low-Emission Vehicle pursuant to title 40, Code of Federal Regulations, and is labeled in accordance with, section 88.312–93(c) of such title. Such permission may be revoked by the State should the State determine it necessary.”
 
-1998—Subsec. (a). Pub. L. 105–178, §1209, designated existing provisions as par. (1), inserted heading, realigned margins, and added par. (2).
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §1209, designated existing provisions as par. (1), inserted heading, realigned margins, and added par. (2).
 
 Subsec. (a)(1). Pub. L. 105–178, §1212(a)(2)(A)(i), substituted “State transportation department” for “State highway department”.
 
@@ -32,7 +32,7 @@ Subsec. (c). Pub. L. 105–178, §1304, which directed insertion of “(or such 
 
 Pub. L. 105–178, §1206, redesignated subsec. (b) as (c).
 
-1991—Pub. L. 102–240 substituted section catchline for one which read: “Authorizations” and amended text generally. Prior to amendment, text read as follows: “The provisions of this title apply to all unappropriated authorizations contained in prior Acts, and also to all unexpended appropriations, heretofore made, providing for the expenditure of Federal funds upon the Federal-aid systems. All such authorizations and appropriations shall continue in full force and effect, but hereafter obligations entered into and expenditures made pursuant thereto shall be subject to the provisions of this title.”
+<b>1991</b>—Pub. L. 102–240 substituted section catchline for one which read: “Authorizations” and amended text generally. Prior to amendment, text read as follows: “The provisions of this title apply to all unappropriated authorizations contained in prior Acts, and also to all unexpended appropriations, heretofore made, providing for the expenditure of Federal funds upon the Federal-aid systems. All such authorizations and appropriations shall continue in full force and effect, but hereafter obligations entered into and expenditures made pursuant thereto shall be subject to the provisions of this title.”
 
 #### Effective Date of 1991 Amendment
 

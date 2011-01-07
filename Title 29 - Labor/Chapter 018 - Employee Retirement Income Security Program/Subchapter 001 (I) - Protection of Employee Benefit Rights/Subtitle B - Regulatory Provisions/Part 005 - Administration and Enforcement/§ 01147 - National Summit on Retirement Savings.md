@@ -30,7 +30,7 @@ The purpose of the National Summit shall be—
 
 &emsp;(5) to identify the barriers which employers, especially small employers, face in assisting their workers in accumulating retirement savings;
 
-&emsp;(6) to examine the impact and effectiveness of individual employers to promote personal savings for retirement among their workersand to promote participation in company savings options;
+&emsp;(6) to examine the impact and effectiveness of individual employers to promote personal savings for retirement among their workers and to promote participation in company savings options;
 
 &emsp;(7) to examine the impact and effectiveness of government programs at the Federal, State, and local levels to educate the public about, and to encourage, retirement income savings;
 
@@ -118,7 +118,7 @@ The scope of the National Summit shall consist of issues relating to individual 
 
 #### (2) Duties
 
-&emsp;The Secretary shall, in carrying out the responsibilities and functions of the Secretaryunder this section, and as part of the National Summit, ensure that—
+&emsp;The Secretary shall, in carrying out the responsibilities and functions of the Secretary under this section, and as part of the National Summit, ensure that—
 
 &emsp;&emsp;(A) the National Summit shall be conducted in a manner that ensures broad participation of Federal, State, and local agencies and private organizations, professionals, and others involved in retirement income savings and provides a strong basis for assistance to be provided under paragraph (1)(B);
 
@@ -166,11 +166,9 @@ The Secretary may enter into contracts to carry out the Secretary's responsibili
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (f)(1)(E), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-
-The Federal Advisory Committee Act, referred to in subsec. (f)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (f)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Change of Name
 

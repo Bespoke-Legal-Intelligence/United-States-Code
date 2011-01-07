@@ -20,9 +20,9 @@
 
 #### Amendments
 
-2001—Pub. L. 107–71, title I, §114(b), Nov. 19, 2001, 115 Stat. 623, added item 46503 “Interference with security screening personnel”.
+<b>2001</b>—Pub. L. 107–71, title I, §114(b), Nov. 19, 2001, 115 Stat. 623, added item 46503 “Interference with security screening personnel”.
 
-1994—Pub. L. 103–322, title VI, §60003(b)(1), Sept. 13, 1994, 108 Stat. 1970, substituted “Repealed” for “Death penalty sentencing procedure for aircraft piracy” in item 46503.
+<b>1994</b>—Pub. L. 103–322, title VI, §60003(b)(1), Sept. 13, 1994, 108 Stat. 1970, substituted “Repealed” for “Death penalty sentencing procedure for aircraft piracy” in item 46503.
 
 <i><sup>1</sup></i><i> So in original. This item probably should not appear.</i>
 

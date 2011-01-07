@@ -10,5 +10,5 @@ Section was not enacted as part of the Organic Act of Guam which comprises this 
 
 #### Amendments
 
-1980—Pub. L. 96–470 substituted provision requiring the Governor of Guam to include in his report to Congress under section 1422 of this title a report on the administration of this subchapter for provision requiring the Governor of Guam to make an annual report to the Secretary of the Interior on administration of this subchapter, copies of which were to be forwarded to the Speaker of the House of Representatives and the President of the Senate.
+<b>1980</b>—Pub. L. 96–470 substituted provision requiring the Governor of Guam to include in his report to Congress under section 1422 of this title a report on the administration of this subchapter for provision requiring the Governor of Guam to make an annual report to the Secretary of the Interior on administration of this subchapter, copies of which were to be forwarded to the Speaker of the House of Representatives and the President of the Senate.
 

@@ -80,7 +80,7 @@
 
 #### (iv) Assistance to investigations
 
-&emsp;&emsp;&emsp;In making the certification described in this subparagraph with respect to the assistance to investigation or prosecution described in clause (i)(I), the Secretary ofHealth and Human Services shall consider statements from State and local law enforcement officials that the person referred to in subparagraph (C)(ii)(II) has been willing to assist in every reasonable way with respect to the investigation and prosecution of State and local crimes such as kidnapping, rape, slavery, or other forced labor offenses, where severe forms of trafficking appear to have been involved.
+&emsp;&emsp;&emsp;In making the certification described in this subparagraph with respect to the assistance to investigation or prosecution described in clause (i)(I), the Secretary of Health and Human Services shall consider statements from State and local law enforcement officials that the person referred to in subparagraph (C)(ii)(II) has been willing to assist in every reasonable way with respect to the investigation and prosecution of State and local crimes such as kidnapping, rape, slavery, or other forced labor offenses, where severe forms of trafficking appear to have been involved.
 
 #### (F) Eligibility for interim assistance of children
 
@@ -154,7 +154,7 @@ Not later than 180 days after October 28, 2000, the Attorney General, the Secret
 
 #### (2) Access to information
 
-&emsp;Victims of severe forms of trafficking shall have access to information about their rights and translation services. To the extent practicable, victims of severe forms of trafficking shall have access to information about federally funded or administered anti-trafficking programs that provide services to victims of severe forms of trafficking.
+&emsp;Victims of severe forms of trafficking shall have access to information about their rights and translation services. To the extent practicable, victims of severe forms of trafficking shall have access to information about federally funded or administered anti-traffickingprograms that provide services to victims of severe forms of trafficking.
 
 #### (3) Authority to permit continued presence in the United States
 
@@ -218,7 +218,7 @@ Nothing in subsection (c) of this section shall be construed as creating any pri
 
 &emsp;&emsp;(B) provide a means to identify such providers; and
 
-&emsp;&emsp;(C) provide a means to make referrals to programs for which such victims are already eligible, including programs administered by the Department of Justice and the Department of Health and Human Services.
+&emsp;&emsp;(C) provide a means to make referrals to programs for which such victims are alreadyeligible, including programs administered by the Department of Justice and the Department of Health and Human Services.
 
 #### (3) Grants
 
@@ -252,7 +252,7 @@ Section is comprised of section 107 of Pub. L. 106–386. Subsec. (e)(1)–(4) o
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–457, §104(1)(A), inserted “, and shall be carried out in a manner which takes into account the cross-border, regional, and transnational aspects of trafficking in persons” after “as identified by the Task Force” in introductory provisions.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–457, §104(1)(A), inserted “, and shall be carried out in a manner which takes into account the cross-border, regional, and transnational aspects of trafficking in persons” after “as identified by the Task Force” in introductory provisions.
 
 Subsec. (a)(1)(F). Pub. L. 110–457, §104(1)(B), added subpar. (F).
 
@@ -270,7 +270,7 @@ Subsec. (c)(4). Pub. L. 110–457, §212(b), inserted “, the Department of Ho
 
 Subsec. (f). Pub. L. 110–457, §213(a)(1), added subsec. (f) relating to assistance for United States citizens and lawful permanent residents.
 
-2006—Subsec. (b)(1)(E). Pub. L. 109–162, §804(b)(1), (2), which directed amendment of cl. (i) by inserting “and the Secretary of Homeland Security” after “Attorney General” in introductory provisions and in subcl. (II)(bb) and the amendment of cl. (ii) by inserting “Secretary of Homeland Security” after “Attorney General”, could not be executed because the words “Attorney General” did not appear subsequent to the amendment by Pub. L. 109–162, §804(a)(1). See below.
+<b>2006</b>—Subsec. (b)(1)(E). Pub. L. 109–162, §804(b)(1), (2), which directed amendment of cl. (i) by inserting “and the Secretary of Homeland Security” after “Attorney General” in introductory provisions and in subcl. (II)(bb) and the amendment of cl. (ii) by inserting “Secretary of Homeland Security” after “Attorney General”, could not be executed because the words “Attorney General” did not appear subsequent to the amendment by Pub. L. 109–162, §804(a)(1). See below.
 
 Pub. L. 109–162, §804(a)(1), substituted “Secretary of Homeland Security” for “Attorney General” wherever appearing.
 
@@ -282,11 +282,11 @@ Subsec. (c)(2). Pub. L. 109–164 inserted at end “To the extent practicable, 
 
 Subsec. (e)(5). Pub. L. 109–162, §804(a)(1), (c), made identical amendments, substituting “Secretary of Homeland Security” for “Attorney General” in two places.
 
-Subsec. (g). Pub. L. 109–162, §804(d), which directed the insertion of “or the Secretary of Homeland Security” after “Attorney General”, could not be executed because the words “Attorney General” did not appear subsequent to the amendment by Pub. L. 109–162, §804(a)(1). See below.
+Subsec. (g). Pub. L. 109–162, §804(d), which directed the insertion of “or the Secretary of Homeland Security” after “Attorney General”, could not be executedbecause the words “Attorney General” did not appear subsequent to the amendment by Pub. L. 109–162, §804(a)(1). See below.
 
 Pub. L. 109–162, §804(a)(1) substituted “Secretary of Homeland Security” for “Attorney General”.
 
-2003—Subsec. (a)(1)(B). Pub. L. 108–193, §4(a)(1), inserted before period at end “, and by facilitating contact between relevant foreign government agencies and such nongovernmental organizations to facilitate cooperation between the foreign governments and such organizations”.
+<b>2003</b>—Subsec. (a)(1)(B). Pub. L. 108–193, §4(a)(1), inserted before period at end “, and by facilitating contact between relevant foreign government agencies and such nongovernmental organizations to facilitate cooperation between the foreign governments and such organizations”.
 
 Subsec. (b)(1)(A). Pub. L. 108–193, §4(a)(2)(A), inserted “, or an alien classified as a nonimmigrant under section 1101(a)(15)(T)(ii) of title 8,” after “in persons”.
 
@@ -298,7 +298,7 @@ Subsec. (b)(1)(E)(iv). Pub. L. 108–193, §4(a)(3), added cl. (iv).
 
 Subsec. (g). Pub. L. 108–193, §8(b)(2), substituted “1184(<i>o</i>)(2)” for “1184(n)(1)”.
 
-2002—Subsec. (a)(1). Pub. L. 107–228 inserted “In addition, such programs and initiatives shall, to the maximum extent practicable, include the following:” at end of introductory provisions and added subpars. (A) to (E).
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–228 inserted “In addition, such programs and initiatives shall, to the maximum extent practicable, include the following:” at end of introductory provisions and added subpars. (A) to (E).
 
 #### Effective Date of 2008 Amendment
 

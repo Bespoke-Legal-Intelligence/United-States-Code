@@ -1,9 +1,5 @@
 subpart 2—other provisions
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
-
 
 ---
 

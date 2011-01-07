@@ -6,9 +6,9 @@ Amounts paid under the laws of a State, the District of Columbia, a possession o
 
 #### Amendments
 
-1976—Pub. L. 94–455 struck out reference to amounts paid under laws of a Territory.
+<b>1976</b>—Pub. L. 94–455 struck out reference to amounts paid under laws of a Territory.
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) ofPub. L. 94–455, set out as a note under section 2 of this title.
 

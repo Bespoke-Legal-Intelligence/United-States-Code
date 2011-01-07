@@ -32,11 +32,29 @@ As used in this subchapter—
 
 &emsp;(9) the term “preauthorized electronic fund transfer” means an electronic fund transfer authorized in advance to recur at substantially regular intervals;
 
-&emsp;(10) the term “State” means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any political subdivision of any of the foregoing; and
+&emsp;(10) the term “State” means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth ofPuerto Rico, or any political subdivision of any of the foregoing; and
 
-&emsp;(11) the term “unauthorized electronic fund transfer” means an electronic fund transfer from a consumer's account initiated by a person other than the consumer without actual authority to initiate such transfer and fromwhich the consumer receives no benefit, but the term does not include any electronic fund transfer (A) initiated by a person other than the consumer who was furnished with the card, code, or other means of access to such consumer's account by such consumer, unless the consumer has notified the financial institution involved that transfers by such other person are no longer authorized, (B) initiated with fraudulent intent by the consumer or any person acting in concert with the consumer, or (C) which constitutes an error committed by a financial institution.
+&emsp;(11) the term “unauthorized electronic fund transfer” means an electronic fund transfer from a consumer's account initiated by a person other than the consumer without actual authority to initiate such transfer and from which the consumer receives no benefit, but the term does not include any electronic fund transfer (A) initiated by a person other than the consumer who was furnished with the card, code, or other means of access to such consumer's account by such consumer, unless the consumer has notified the financial institution involved that transfers by such other person are no longer authorized, (B) initiated with fraudulent intent by the consumer or any person acting in concert with the consumer, or (C) which constitutes an error committed by a financial institution.
 
-(Pub. L. 90–321, title IX, §903, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3728.)
+(Pub. L. 90–321, title IX, §903, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3728; amended Pub. L. 111–203, title X, §1084(1), (2), July 21, 2010, 124 Stat. 2081.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1084(1), (2), 1100H, July 21, 2010, 124 Stat. 2081, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
+
+<i>(1) by striking “Board” each place that term appears and inserting “Bureau”;</i>
+
+<i>(2) by redesignating paragraphs (3) through (11) as paragraphs (4) through (12), respectively; and</i>
+
+<i>(3) by inserting after paragraph (3) the following:</i>
+
+&emsp;<i>“(4) the term ‘Bureau’ means the Bureau of Consumer Financial Protection;”.</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. The colon probably should be a semicolon.</i>
 

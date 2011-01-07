@@ -76,7 +76,7 @@ In carrying out the program established under subsection (a) of this section, th
 
 &emsp;&emsp;(iii) costs of insurance, fuel, water, and utilities for such properties;
 
-&emsp;&emsp;(E) expenses of preparing and transporting to their former homes or places of burial the remains of foreign participants or membersof the family of foreign participants, who may die while such participants are away from their homes participating in activities carried out with funds covered by this section;
+&emsp;&emsp;(E) expenses of preparing and transporting to their former homes or places of burial the remains of foreign participants or members of the family of foreign participants, who may die while such participants are away from their homes participating in activities carried out with funds covered by this section;
 
 &emsp;&emsp;(F) notwithstanding any other provision of law, transportation and payment of per diem in lieu of subsistence to foreign participants engaged in activities of the program under this section while such participants are away from their homes in countries other than the United States, at rates not in excess of those prescribed by the standardized Government travel regulations;
 
@@ -170,7 +170,7 @@ Another section 129 of Pub. L. 87–195 was renumbered section 130 and is classi
 
 #### Amendments
 
-2000—Subsec. (b)(3). Pub. L. 106–309 added par. (3).
+<b>2000</b>—Subsec. (b)(3). Pub. L. 106–309 added par. (3).
 
 #### Change of Name
 

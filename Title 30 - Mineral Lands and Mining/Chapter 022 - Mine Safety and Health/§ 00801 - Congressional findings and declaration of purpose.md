@@ -24,7 +24,7 @@ This chapter, referred to in par. (g), was in the original “this Act”, meani
 
 #### Amendments
 
-1977—Pars. (a) to (d), (f). Pub. L. 95–164, §102(a)(1), inserted “or other” after “coal” wherever appearing.
+<b>1977</b>—Pars. (a) to (d), (f). Pub. L. 95–164, §102(a)(1), inserted “or other” after “coal” wherever appearing.
 
 Par. (g). Pub. L. 95–164, §102(a)(1), (2), inserted “or other” after “coal” wherever appearing and substituted “Secretary of Labor” for “Secretary of the Interior”.
 
@@ -34,7 +34,7 @@ Par. (g). Pub. L. 95–164, §102(a)(1), (2), inserted “or other” after “c
 
 #### Effective Date of 1977 Amendment
 
-Section 307 of Pub. L. 95–164 provided that: “Except as otherwise provided, this Act and the amendments made by this Act \[see Short Title of 1977 Amendment note below\] shall take effect 120 days after the date of enactment of this Act \[Nov. 9, 1977\]. The Secretary of Labor and the Secretary of the Interior are authorized to establish such rules and regulations as may be necessary for the efficient transfer of functions provided under this Act. The amendment to the Federal Coal Mine Health and Safety Act of 1969 made by section 202 of this Act \[amending section 842(e) of this title and repealing subsec. (k) of section 878 of this title\] shall be effective on the date of enactment \[Nov. 9, 1977\].”
+Section 307 of Pub. L. 95–164 provided that: “Except as otherwise provided, this Act and the amendments madeby this Act \[see Short Title of 1977 Amendment note below\] shall take effect 120 days after the date of enactment of this Act \[Nov. 9, 1977\]. The Secretary of Labor and the Secretary of the Interior are authorized to establish such rules and regulations as may be necessary for the efficient transfer of functions provided under this Act. The amendment to the Federal Coal Mine Health and Safety Act of 1969 made by section 202 of this Act \[amending section 842(e) of this title and repealing subsec. (k) of section 878 of this title\] shall be effective on the date of enactment \[Nov. 9, 1977\].”
 
 #### Effective Date
 

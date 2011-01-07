@@ -24,13 +24,9 @@ Affirmative Defense.—It is an affirmative defense against a forfeiture under s
 
 (Added Pub. L. 101–298, §3(a), May 22, 1990, 104 Stat. 202; amended Pub. L. 103–322, title XXXIII, §330010(16), Sept. 13, 1994, 108 Stat. 2144; Pub. L. 107–188, title II, §231(c)(3), June 12, 2002, 116 Stat. 661.)
 
-#### References in Text
-
-The customs laws, referred to in subsec. (b), are classified generally to Title 19, Customs Duties.
-
 #### Amendments
 
-2002—Subsec. (a)(1)(A). Pub. L. 107–188 substituted “pertains to” for “exists by reason of”.
+<b>2002</b>—Subsec. (a)(1)(A). Pub. L. 107–188 substituted “pertains to” for “exists by reason of”.
 
-1994—Subsec. (b). Pub. L. 103–322 substituted “the Government” for “the government”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–322 substituted “the Government” for “the government”.
 

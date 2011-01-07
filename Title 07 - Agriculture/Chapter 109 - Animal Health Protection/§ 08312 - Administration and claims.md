@@ -24,6 +24,10 @@ To carry out this chapter, the Secretary may—
 
 (Pub. L. 107–171, title X, §10413, May 13, 2002, 116 Stat. 503.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a) and (b)(1), was in the original “this subtitle”, meaning subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
+
 #### Transfer of Functions
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.

@@ -46,7 +46,7 @@ A prior section 406 of Pub. L. 100–533, title IV, Oct. 25, 1988, 102 Stat. 269
 
 #### Amendments
 
-1997—Subsec. (c). Pub. L. 105–135, §303(1), inserted “(through the Assistant Administrator of the Office of Women's Business Ownership)” after “Administrator”.
+<b>1997</b>—Subsec. (c). Pub. L. 105–135, §303(1), inserted “(through the Assistant Administrator of the Office of Women's Business Ownership)” after “Administrator”.
 
 Subsec. (d)(6). Pub. L. 105–135, §303(2), added par. (6).
 

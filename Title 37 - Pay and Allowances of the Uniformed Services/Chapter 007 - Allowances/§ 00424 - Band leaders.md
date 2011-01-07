@@ -52,9 +52,9 @@ Historical and Revision Notes
 
 #### Amendments
 
-1978—Subsecs. (b) to (f). Pub. L. 95–551 redesignated subsecs. (c) to (f) as (b) to (e), respectively. Former subsec. (b), which provided that the director of music at the United States Military Academy be entitled to allowances of a commissioned officer of the rank prescribed for the director by the Secretary of the Army, was struck out.
+<b>1978</b>—Subsecs. (b) to (f). Pub. L. 95–551 redesignated subsecs. (c) to (f) as (b) to (e), respectively. Former subsec. (b), which provided that the director of music at the United States Military Academy be entitled to allowances of a commissioned officer of the rank prescribed for the director by the Secretary of the Army, was struck out.
 
-1965—Subsec. (f). Pub. L. 89–189 added subsec. (f).
+<b>1965</b>—Subsec. (f). Pub. L. 89–189 added subsec. (f).
 
 #### Transfer of Functions
 

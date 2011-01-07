@@ -4,21 +4,17 @@
 
 &emsp;(A) with intent to defraud, does not disclose an obligation on a vessel as required by section 31323(a) of this title;
 
-&emsp;(B) with intent to defraud, incurs a contractual obligation in violation of section 31323(b) of this title;
+&emsp;(B) with intent to defraud, incurs a contractual obligation in violation of section 31323(b) of this title; or
 
-&emsp;(C) with intent to hinder or defraud an existing or future creditor of the mortgagor or a lienor of the vessel, files a mortgage with the Secretary of Transportation; or
-
-&emsp;(D) with intent to defraud, does not comply with section 31321(h) of this title.
+&emsp;(C) with intent to hinder or defraud an existing or future creditor of the mortgagor or a lienor of the vessel, files a mortgage with the Secretary.
 
 (2) A mortgagor is liable to the United States Government for a civil penalty of not more than $10,000 if the mortgagor—
 
 &emsp;(A) does not disclose an obligation on a vessel as required by section 31323(a) of this title;
 
-&emsp;(B) incurs a contractual obligation in violation of section 31323(b) of this title;
+&emsp;(B) incurs a contractual obligation in violation of section 31323(b) of this title; or
 
-&emsp;(C) files with the Secretary a mortgage made not in good faith; or
-
-&emsp;(D) does not comply with section 31321(h) of this title.
+&emsp;(C) files with the Secretary a mortgage made not in good faith.
 
 (b)(1) A person that knowingly violates section 31329 of this title shall be fined under title 18, imprisoned for not more than 3 years, or both.
 
@@ -28,7 +24,7 @@
 
 (c) If a person not an individual violates this section, the president or chief executive of the person also is subject to any penalty provided under this section.
 
-(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4747; Pub. L. 104–324, title XI, §1113(b)(2), Oct. 19, 1996, 110 Stat. 3970.)
+(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4747; Pub. L. 104–324, title XI, §1113(b)(2), Oct. 19, 1996, 110 Stat. 3970; Pub. L. 111–281, title IX, §913(a)(1), (d), Oct. 15, 2010, 124 Stat. 3017.)
 
 Historical and Revision Notes
 
@@ -60,5 +56,15 @@ Subsection (a) of this section adds criminal and civil penalties for a preferred
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–324 struck out “31328 or” before “31329” in pars. (1) to (3).
+<b>2010</b>—Subsec. (a)(1)(B). Pub. L. 111–281, §913(d)(1)(A), inserted “or” after semicolon.
+
+Subsec. (a)(1)(C). Pub. L. 111–281, §913(d)(1)(B), substituted “Secretary.” for “Secretary; or”.
+
+Pub. L. 111–281, §913(a)(1), struck out “of Transportation” after “Secretary”.
+
+Subsec. (a)(1)(D). Pub. L. 111–281, §913(d)(1)(C), struck out subpar. (D) which read as follows: “with intent to defraud, does not comply with section 31321(h) of this title.”
+
+Subsec. (a)(2)(B) to (D). Pub. L. 111–281, §913(d)(2), inserted “or” at end of subpar. (B), substituted “faith.” for “faith; or” at end of subpar. (C), and struck out subpar. (D) which read as follows: “does not comply with section 31321(h) of this title.”
+
+<b>1996</b>—Subsec. (b). Pub. L. 104–324 struck out “31328 or” before “31329” in pars. (1) to (3).
 

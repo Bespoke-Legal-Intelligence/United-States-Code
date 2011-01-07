@@ -24,7 +24,7 @@ For purposes of subsection (a) of this section, the appropriate program offices 
 
 #### (c) Report to Congress; contents
 
-The Administrator shall submit to the President and the Congress a report concerning the most appropriate means of assuring, on a continuing basis, that the research efforts of the Agency reflect the needs and priorities of theregulatory program offices, while maintaining a high level of scientific quality. Such report shall be submitted on or before March 31, 1978.
+The Administrator shall submit to the President and the Congress a report concerning the most appropriate means of assuring, on a continuing basis, that the research efforts of the Agency reflect the needs and priorities of the regulatory program offices, while maintaining a high level of scientific quality. Such report shall be submitted on or before March 31, 1978.
 
 (Pub. L. 95–155, §7, Nov. 8, 1977, 91 Stat. 1259.)
 

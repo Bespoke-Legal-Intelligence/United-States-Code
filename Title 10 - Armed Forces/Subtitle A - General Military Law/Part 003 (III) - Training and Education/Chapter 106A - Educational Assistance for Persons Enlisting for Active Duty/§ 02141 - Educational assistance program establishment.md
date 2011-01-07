@@ -1,6 +1,6 @@
 ### §2141. Educational assistance program: establishment
 
-(a) To encourage enlistments and reenlistments for service on active duty in the armed forces, the Secretary of each military department may establish a program in accordance with this chapter to provide educational assistance to persons enlisting or reenlisting in an armed force under his jurisdiction. The costs of any such program shall be borne by the Department of Defense, and a person participating inany such program may not be required to make any contribution to the program.
+(a) To encourage enlistments and reenlistments for service on active duty in the armed forces, the Secretary of each military department may establish a program in accordance with this chapter to provide educational assistance to persons enlisting or reenlisting in an armed force under his jurisdiction. The costs of any such program shall be borne by the Department of Defense, and a person participating in any such program may not be required to make any contribution to the program.
 
 (b) The Secretary of Defense shall prescribe regulations for the administration of this chapter. Such regulations shall take account of the differences among the several armed forces.
 
@@ -10,9 +10,9 @@
 
 #### Amendments
 
-1988—Subsec. (c). Pub. L. 100–456 inserted “the term” after “In this chapter,”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–456 inserted “the term” after “In this chapter,”.
 
-1987—Pub. L. 100–180, which directed that subsec. (c) be amended by inserting “the term” after “In this section,”, could not be executed because that phrase did not appear. See 1988 Amendment note above.
+<b>1987</b>—Pub. L. 100–180, which directed that subsec. (c) be amended by inserting “the term” after “In this section,”, could not be executed because that phrase did not appear. See 1988 Amendment note above.
 
 #### Repayment of Loans for Service in the Armed Forces; Authorization, Criteria, Etc.
 
@@ -50,7 +50,7 @@ Section 904 of Pub. L. 96–342 provided that:
 
 “(a) There is hereby authorized to be appropriated to carry out chapter 107 of title 10, United States Code (as added by section 901), and sections 902 and 903 \[set out above\] a total of $75,000,000.
 
-“(b) The Secretary of Defense shall equitably allocate the amount appropriated under this section among the educational assistance program provided for under chapter 107 of title 10, United States Code (as added by section 901), the repayment as authorized by section 902 \[set out above\] of loans made, insured, or guaranteed under part B of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq.\] and of loans made under part E of such Act \[20 U.S.C. 1087aa et seq.\], and the educational assistance program provided for under section 903 \[set out above\].”
+“(b) The Secretary of Defense shall equitably allocate the amount appropriated under this section among the educational assistance program provided for under chapter 107 of title 10, United States Code (as added by section 901), the repayment as authorized by section 902 \[set out above\] of loans made, insured, or guaranteedunder part B of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq.\] and of loans made under part E of such Act \[20 U.S.C. 1087aa et seq.\], and the educational assistance program provided for under section 903 \[set out above\].”
 
 #### Reports on Educational Assistance Programs; Submission, Contents, Etc.
 

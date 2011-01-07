@@ -4,7 +4,7 @@
 
 (1) There are authorized to be appropriated to the corporation to carry out this subchapter $29,476,000 for fiscal year 1993 and $30,713,992 for fiscal year 1994. Not more than 15 percent of any amount appropriated under this paragraph for any fiscal year may be used for administrative expenses.
 
-(2) Of the amount appropriated pursuant to this subsection for any fiscal year, amounts appropriated in excess of the amount necessary to continue existing services of the Neighborhood Reinvestment Corporation in revitalizing declining neighborhoods shall be available—
+(2) Of the amount appropriated pursuant to this subsection for any fiscal year, amounts appropriated in excess of the amount necessary to continue existing services of the NeighborhoodReinvestment Corporation in revitalizing declining neighborhoods shall be available—
 
 &emsp;(A) to expand the national neighborhood housing services network and to assist network capacity development, including expansion of rental housing resources;
 
@@ -36,23 +36,23 @@ The Low-Income Housing Preservation and Resident Ownership Act of 1990, referred
 
 #### Amendments
 
-1992—Subsec. (a)(1). Pub. L. 102–550, §831(a), amended first sentence generally, substituting present provisions for provisions authorizing appropriations of $35,000,000 for fiscal year 1991 and $36,500,000 for fiscal year 1992.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–550, §831(a), amended first sentence generally, substituting present provisions for provisions authorizing appropriations of $35,000,000 for fiscal year 1991 and $36,500,000 for fiscal year 1992.
 
 Subsec. (a)(2). Pub. L. 102–550, §831(b), substituted “any fiscal year” for “each of the fiscal years 1991 and 1992” in introductory provisions.
 
-1990—Subsec. (a). Pub. L. 101–625 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There are authorized to be appropriated to the corporation to carry out this subchapter $19,000,000 for fiscal year 1988, and $19,000,000 for fiscal year 1989.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–625 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There are authorized to be appropriated to the corporation to carry out this subchapter $19,000,000 for fiscal year 1988, and $19,000,000 for fiscal year 1989.”
 
-1988—Subsec. (a). Pub. L. 100–242 amended subsec. (a) generally, substituting appropriations authorization of $19,000,000 for fiscal years 1988 and 1989 for prior authorizations not to exceed $16,512,000 for fiscal year 1984, and such sums as may be necessary for fiscal year 1985.
+<b>1988</b>—Subsec. (a). Pub. L. 100–242 amended subsec. (a) generally, substituting appropriations authorization of $19,000,000 for fiscal years 1988 and 1989 for prior authorizations not to exceed $16,512,000 for fiscal year 1984, and such sums as may be necessary for fiscal year 1985.
 
-1984—Subsec. (d). Pub. L. 98–479 substituted “chapter 11 of title 31” for “the Budget and Accounting Act, 1921”.
+<b>1984</b>—Subsec. (d). Pub. L. 98–479 substituted “chapter 11 of title 31” for “the Budget and Accounting Act, 1921”.
 
-1983—Subsec. (a). Pub. L. 98–181 substituted appropriations authorization not in excess of $16,512,000 for fiscal year 1984, and such sums as may be necessary for fiscal year 1985 for prior authorization not to exceed $12,500,000, $12,000,000, $13,426,000, and $14,950,000 for fiscal years 1979, 1980, 1981, and 1982, respectively.
+<b>1983</b>—Subsec. (a). Pub. L. 98–181 substituted appropriations authorization not in excess of $16,512,000 for fiscal year 1984, and such sums as may be necessary for fiscal year 1985 for prior authorization not to exceed $12,500,000, $12,000,000, $13,426,000, and $14,950,000 for fiscal years 1979, 1980, 1981, and 1982, respectively.
 
-1981—Subsec. (a). Pub. L. 97–35 inserted authorized of appropriations for fiscal year 1982.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 inserted authorized of appropriations for fiscal year 1982.
 
-1980—Subsec. (a). Pub. L. 96–399 authorized appropriations of not to exceed $13,426,000 for fiscal year 1981.
+<b>1980</b>—Subsec. (a). Pub. L. 96–399 authorized appropriations of not to exceed $13,426,000 for fiscal year 1981.
 
-1979—Subsec. (a). Pub. L. 96–153 authorized appropriation of $12,000,000 for fiscal year 1980.
+<b>1979</b>—Subsec. (a). Pub. L. 96–153 authorized appropriation of $12,000,000 for fiscal year 1980.
 
 #### Effective Date of 1981 Amendment
 

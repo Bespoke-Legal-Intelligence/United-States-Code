@@ -28,5 +28,5 @@ In subsec. (b), “section 1110 of title 31” substituted for “section 607 of
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–333 substituted “October 1, 2002” for “October 1, 1978”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–333 substituted “October 1, 2002” for “October 1, 1978”.
 

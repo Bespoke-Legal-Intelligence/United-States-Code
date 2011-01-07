@@ -64,7 +64,7 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;(6) Any company primarily engaged, directly or through majority-owned subsidiaries, in one or more of the businesses described in paragraphs (3), (4), and (5) of this subsection, or in one or more of such businesses (from which not less than 25 per centum of such company's gross income during its last fiscal year was derived) together with an additional business or businesses other than investing, reinvesting, owning, holding, or trading in securities.
 
-&emsp;(7)(A) Any issuer, the outstanding securities of which are owned exclusively by persons who, at the time of acquisition of such securities, are qualified purchasers, and which is not making and does not at that time propose to make a public offering of such securities. Securities that are owned by persons who received the securities from a qualified purchaser as a gift or bequest, or in a case in which the transfer was caused by legal separation, divorce, death, or other involuntary event, shall be deemed to be owned by a qualified purchaser, subject to such rules, regulations, and orders as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors.
+&emsp;(7)(A) Any issuer, the outstanding securities of which are owned exclusively by persons who, at the time of acquisition of such securities, are qualified purchasers, and which is not making and does not at that time propose tomake a public offering of such securities. Securities that are owned by persons who received the securities from a qualified purchaser as a gift or bequest, or in a case in which the transfer was caused by legal separation, divorce, death, or other involuntary event, shall be deemed to be owned by a qualified purchaser, subject to such rules, regulations, and orders as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors.
 
 &emsp;(B) Notwithstanding subparagraph (A), an issuer is within the exception provided by this paragraph if—
 
@@ -86,7 +86,7 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;(E) For purposes of determining compliance with this paragraph and paragraph (1), an issuer that is otherwise excepted under this paragraph and an issuer that is otherwise excepted under paragraph (1) shall not be treated by the Commission as being a single issuer for purposes of determining whether the outstanding securities of the issuer excepted under paragraph (1) are beneficially owned by not more than 100 persons or whether the outstanding securities of the issuer excepted under this paragraph are owned by persons that are not qualified purchasers. Nothing in this subparagraph shall be construed to establish that a person is a bona fide qualified purchaser for purposes of this paragraph or a bona fide beneficial owner for purposes of paragraph (1).
 
-&emsp;(8) Any company subject to regulation under the Public Utility Holding Company Act of 1935.<sup>1</sup>
+&emsp;(8) \[Repealed\] Pub. L. 111–203, title IX, §986(c)(2), July 21, 2010, 124 Stat. 1936.
 
 &emsp;(9) Any person substantially all of whose business consists of owning or holding oil, gas, or other mineral royalties or leases, or fractional interests therein, or certificates of interest or participation in or investment contracts relative to such royalties, leases, or fractional interests.
 
@@ -144,7 +144,7 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;(12) Any voting trust the assets of which consist exclusively of securities of a single issuer which is not an investment company.
 
-&emsp;(13) Any security holders’ protective committee or similar issuer having outstandingand issuing no securities other than certificates of deposit and short-term paper.
+&emsp;(13) Any security holders’ protective committee or similar issuer having outstanding and issuing no securities other than certificates of deposit and short-term paper.
 
 &emsp;(14) Any church plan described in section 414(e) of title 26, if, under any such plan, no part of the assets may be used for, or diverted to, purposes other than the exclusive benefit of plan participants or beneficiaries, or any company or account that is—
 
@@ -156,27 +156,25 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;&emsp;&emsp;(ii) administering or providing benefits pursuant to church plans.
 
-(Aug. 22, 1940, ch. 686, title I, §3, 54 Stat. 797; Oct. 21, 1942, ch. 619, title I, §162(e), 56 Stat. 867; Pub. L. 89–485, §13(i), July 1, 1966, 80 Stat. 243; Pub. L. 91–547, §3(a), (b), Dec. 14, 1970, 84 Stat. 1414; Pub. L. 94–210, title III, §308(c), Feb. 5, 1976, 90 Stat. 57; Pub. L. 96–477, title I, §102, title VII, §703, Oct. 21, 1980, 94 Stat. 2276, 2295; Pub. L. 100–181, title VI, §§604–606, Dec. 4, 1987, 101 Stat. 1260; Pub. L. 104–62, §2(a), Dec. 8, 1995, 109 Stat. 682; Pub. L. 104–290, title II, §209(a), (c), title V, §508(a), Oct. 11, 1996, 110 Stat. 3432, 3435, 3447; Pub. L. 105–353, title III, §301(c)(2), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §221(c), Nov. 12, 1999, 113 Stat. 1401; Pub. L. 108–359, §1(a), Oct. 25, 2004, 118 Stat. 1666.)
-
-#### References in Text
-
-The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(8), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§79 et seq.) of this title, prior to repeal by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
+(Aug. 22, 1940, ch. 686, title I, §3, 54 Stat. 797; Oct. 21, 1942, ch. 619, title I, §162(e), 56 Stat. 867; Pub. L. 89–485, §13(i), July 1, 1966, 80 Stat. 243; Pub. L. 91–547, §3(a), (b), Dec. 14, 1970, 84 Stat. 1414; Pub. L. 94–210, title III, §308(c), Feb. 5, 1976, 90 Stat. 57; Pub. L. 96–477, title I, §102, title VII, §703, Oct. 21, 1980, 94 Stat. 2276, 2295; Pub. L. 100–181, title VI, §§604–606, Dec. 4, 1987, 101 Stat. 1260; Pub. L. 104–62, §2(a), Dec. 8, 1995, 109 Stat. 682; Pub. L. 104–290, title II, §209(a), (c), title V, §508(a), Oct. 11, 1996, 110 Stat. 3432, 3435, 3447; Pub. L. 105–353, title III, §301(c)(2), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §221(c), Nov. 12, 1999, 113 Stat. 1401; Pub. L. 108–359, §1(a), Oct. 25, 2004, 118 Stat. 1666; Pub. L. 111–203, title IX, §986(c)(2), July 21, 2010, 124 Stat. 1936.)
 
 #### Amendments
 
-2004—Subsec. (c)(11). Pub. L. 108–359, which directed the substitution of “one or more of such trusts, government plans, or church plans, companies or accounts that are excluded from the definition of an investment company under paragraph (14) of this subsection” for “such trusts or government plans, or both”, was executed by making the substitution for “such trusts or governmental plans, or both”, to reflect the probable intent of Congress.
+<b>2010</b>—Subsec. (c)(8). Pub. L. 111–203 substituted “\[Repealed\]” for text of par. (8) which read as follows: “Any company subject to regulation under the Public Utility Holding Company Act of 1935.”
 
-1999—Subsec. (c)(3). Pub. L. 106–102 inserted “, if—” and subpars. (A) to (C) before period at end.
+<b>2004</b>—Subsec. (c)(11). Pub. L. 108–359, which directed the substitution of “one or more of such trusts, government plans, or church plans, companies or accounts that are excluded from the definition of an investment company under paragraph (14) of this subsection” for “such trusts or government plans, or both”, was executed by making the substitution for “such trusts or governmental plans, or both”, to reflect the probable intent of Congress.
 
-1998—Subsec. (b). Pub. L. 105–353 substituted “paragraph (1)(C)” for “paragraph (3)” in introductory provisions.
+<b>1999</b>—Subsec. (c)(3). Pub. L. 106–102 inserted “, if—” and subpars. (A) to (C) before period at end.
 
-1996—Subsec. (a). Pub. L. 104–290, §209(c)(1)–(5), designated existing introductory provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and designated existing concluding provisions as par. (2).
+<b>1998</b>—Subsec. (b). Pub. L. 105–353 substituted “paragraph (1)(C)” for “paragraph (3)” in introductory provisions.
+
+<b>1996</b>—Subsec. (a). Pub. L. 104–290, §209(c)(1)–(5), designated existing introductory provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and designated existing concluding provisions as par. (2).
 
 Subsec. (a)(2)(C). Pub. L. 104–290, §209(c)(6), substituted “which (i) are” for “which are” and added cl. (ii).
 
 Subsec. (c)(1). Pub. L. 104–290, §209(a)(1), inserted after first sentence “Such issuer shall be deemed to be an investment company for purposes of the limitations set forth in subparagraphs (A)(i) and (B)(i) of section 80a–12(d)(1) of this title governing the purchase or other acquisition by such issuer of any security issued by any registered investment company and the sale of any security issued by any registered open-end investment company to any such issuer.”
 
-Subsec. (c)(1)(A). Pub. L. 104–290, §209(a)(2), inserted “and is or, but for the exception provided for in this paragraph or paragraph (7), would be an investment company,” after “voting securities of the issuer,” and struck out “unless, as of the date of the most recent acquisition by such company of securities of that issuer, the value of all securities owned by such company of all issuers which are or would, but for the exception set forth in this subparagraph, be excluded from the definition of investment company solely by this paragraph, does not exceed 10 per centum of the value of the company's total assets. Such issuer nonetheless is deemed to be an investment company for purposes of section 80a–12(d)(1) of this title” after “(other than short-term paper)”.
+Subsec. (c)(1)(A). Pub. L. 104–290, §209(a)(2), inserted “and is or, but for the exception provided for in thisparagraph or paragraph (7), would be an investment company,” after “voting securities of the issuer,” and struck out “unless, as of the date of the most recent acquisition by such company of securities of that issuer, the value of all securities owned by such company of all issuers which are or would, but for the exception set forth in this subparagraph, be excluded from the definition of investment company solely by this paragraph, does not exceed 10 per centum of the value of the company's total assets. Such issuer nonetheless is deemed to be an investment company for purposes of section 80a–12(d)(1) of this title” after “(other than short-term paper)”.
 
 Subsec. (c)(2). Pub. L. 104–290, §209(a)(3), designated existing provisions as subpar. (A), substituted “acting as broker, and acting as market intermediary,” for “and acting as broker,”, and added subpar. (B).
 
@@ -184,9 +182,9 @@ Subsec. (c)(7). Pub. L. 104–290, §209(a)(4), added par. (7) and struck out fo
 
 Subsec. (c)(14). Pub. L. 104–290, §508(a), added par. (14).
 
-1995—Subsec. (c)(10). Pub. L. 104–62 amended par. (10) generally. Prior to amendment, par. (10) read as follows: “Any company organized and operated exclusively for religious, educational, benevolent, fraternal, charitable, or reformatory purposes, no part of the net earnings of which inures to the benefit of any private shareholder or individual.”
+<b>1995</b>—Subsec. (c)(10). Pub. L. 104–62 amended par. (10) generally. Prior to amendment, par. (10) read as follows: “Any company organized and operated exclusively for religious, educational, benevolent, fraternal, charitable, or reformatory purposes, no part of the net earnings of which inures to the benefit of any private shareholder or individual.”
 
-1987—Subsec. (c)(3). Pub. L. 100–181, §604, inserted “or” after “therefor;” and struck out “; or any common trust fund or similar fund, established before June 22, 1936, by a corporation which is supervised or examined by State or Federal authority having supervision over banks, if a majority of the units of beneficial interest in such fund, other than units owned by charitable or educational institutions, are held under instruments providing for payment of income to one or more persons and of principal to another or others” after “guardian”.
+<b>1987</b>—Subsec. (c)(3). Pub. L. 100–181, §604, inserted “or” after “therefor;” and struck out “; or any common trust fund or similar fund, established before June 22, 1936, by a corporation which is supervised or examined by State or Federal authority having supervision over banks, if a majority of the units of beneficial interest in such fund, other than units owned by charitable or educational institutions, are held under instruments providing for payment of income to one or more persons and of principal to another or others” after “guardian”.
 
 Subsec. (c)(7). Pub. L. 100–181, §605, substituted “Reserved.” for “Any company (A) which is subject to regulation under section 314 of title 49, except that this exception shall not apply to a company which the Commission finds and by order declares to be primarily engaged, directly or indirectly, in the business of investing, reinvesting, owning, holding, or trading in securities, or (B) whose entire outstanding stock is owned or controlled by a company excepted under clause (A) hereof, if the assets of the controlled company consist substantially of securities issued by companies which are subject to regulation under section 314 of title 49.”
 
@@ -194,13 +192,13 @@ Subsec. (c)(11). Pub. L. 100–181, §606(1), substituted “Internal Revenue Co
 
 Pub. L. 100–181, §606(2), (3), substituted “; or any governmental plan” for “or which holds only assets of governmental plans” and “trusts or governmental plans, or both” for “trusts”.
 
-1980—Subsec. (c)(1). Pub. L. 96–477, §102, designated existing provisions as subpar. (A), provided that beneficial ownership was to be deemed to be that of the holders of ten per cent of company's outstanding securities, other than short term paper, unless, as of the date of the most recent acquisition by such company of securities of that issuer, the value of all securities owned by such company of all issuers which were or would, but for the exception set forth in subpar. (A), be excluded from the definition of investment company solely by par. (1), did not exceed ten per cent of the value of the company's total assets, that such issuer nonetheless was deemed to be an investment company for purposes of section 80a–12(d)(1) of this title, and added subpar. (B).
+<b>1980</b>—Subsec. (c)(1). Pub. L. 96–477, §102, designated existing provisions as subpar. (A), provided that beneficial ownership was to be deemed to be that of the holders of ten per cent of company's outstanding securities, other than short term paper, unless, as of the date of the most recent acquisition by such company of securities of that issuer, the value of all securities owned by such company of all issuers which were or would, but for the exception set forth in subpar. (A), be excluded from the definition of investment company solely by par. (1), did not exceed ten per cent of the value of the company's total assets, that such issuer nonetheless was deemed to be an investment company for purposes of section 80a–12(d)(1) of this title, and added subpar. (B).
 
-Subsec. (c)(11). Pub. L. 96–477, §703, excluded from consideration as an investment company for purposesof this subchapter any employee's stock bonus, pension, or profit-sharing trust which holds only assets of governmental plans described in section 77c(a)(2)(C) of this title, redesignated former cl. (B) as (C), and added cl. (B).
+Subsec. (c)(11). Pub. L. 96–477, §703, excluded from consideration as an investment company for purposes of this subchapter any employee's stock bonus, pension, or profit-sharing trust which holds only assets of governmental plans described in section 77c(a)(2)(C) of this title, redesignated former cl. (B) as (C), and added cl. (B).
 
-1976—Subsec. (c)(7). Pub. L. 94–210 designated existing provisions as cls. (A) and (B) and, as so designated, in cl. (A) provided for applicability to section 314 of title 49 and inserted exception to exception, in cl. (B) inserted provisions relating to companies regulated under section 314 of title 49 and made changes in phraseology to conform cl. to cl. (A), and struck out proviso relating to assets of controlled company.
+<b>1976</b>—Subsec. (c)(7). Pub. L. 94–210 designated existing provisions as cls. (A) and (B) and, as so designated, in cl. (A) provided for applicability to section 314 of title 49 and inserted exception to exception, in cl. (B) inserted provisions relating to companies regulated under section 314 of title 49 and made changes in phraseology to conform cl. to cl. (A), and struck out proviso relating to assets of controlled company.
 
-1970—Subsec. (b)(2). Pub. L. 91–547, §3(a), inserted “in good faith” after “paragraph” in second sentence.
+<b>1970</b>—Subsec. (b)(2). Pub. L. 91–547, §3(a), inserted “in good faith” after “paragraph” in second sentence.
 
 Subsec. (c). Pub. L. 91–547, §3(b)(1), struck out reference to subsec. (b) in introductory text.
 
@@ -220,9 +218,13 @@ Subsec. (c)(11). Pub. L. 91–547, §3(b)(2), (5), redesignated par. (13) as (11
 
 Subsecs. (c)(12) to (15). Pub. L. 91–547, §3(b)(2), redesignated pars. (14) and (15) as (12) and (13), respectively. Former pars. (12) and (13) redesignated (10) and (11).
 
-1966—Subsec. (c)(4). Pub. L. 89–485 repealed provisions which exempt holding company affiliates granted a general voting permit by the Board of Governors of the Federal Reserve System before 1940 and any such affiliates with a later voting permit concerning which determinations were made of being primarily engaged, directly or indirectly, in the business of holding the stock of, and managing or controlling, banks, banking associations, savings banks, or trust companies.
+<b>1966</b>—Subsec. (c)(4). Pub. L. 89–485 repealed provisions which exempt holding company affiliates granted a general voting permit by the Board of Governors of the Federal Reserve System before 1940 and any such affiliates with a later voting permit concerning which determinations were made of being primarily engaged, directly or indirectly, in the business of holding the stock of, and managing or controlling, banks, banking associations, savings banks, or trust companies.
 
-1942—Subsec. (c)(13). Act Oct. 31, 1942, inserted “as amended”.
+<b>1942</b>—Subsec. (c)(13). Act Oct. 31, 1942, inserted “as amended”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Effective Date of 1999 Amendment
 
@@ -291,6 +293,4 @@ Registration requirements.—Any security issued by or any interest or participa
 “(2)
 
 Treatment of church plans.—No church plan described in section 414(e) of the Internal Revenue Code of 1986 \[26 U.S.C. 414(e)\], no person or entity eligible to establish and maintain such a plan under the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\], no company or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\], as added by subsection (a) of this section, and no trustee, director, officer, or employee of or volunteer for any such plan, person, entity, company, or account shall be required to qualify, register, or be subject to regulation as an investment company or as a broker, dealer, investment adviser, or agent under the laws of any State solely because such plan, person, entity, company, or account buys, holds, sells, or trades in securities for its own account or in its capacity as a trustee or administrator of or otherwise on behalf of, or for the account of, or provides investment advice to, for, or on behalf of, any such plan, person, or entity or any company or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940, as added by subsection (a) of this section.”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

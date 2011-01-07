@@ -6,7 +6,7 @@ The words “flood control” as used in section 701a of this title, shall be co
 
 #### Amendments
 
-1986—Pub. L. 99–662 inserted “and flood prevention improvements for protection from groundwater-induced damages” after “drainage improvements”.
+<b>1986</b>—Pub. L. 99–662 inserted “and flood prevention improvements for protection from groundwater-induced damages” after “drainage improvements”.
 
 #### Change of Name
 

@@ -4,7 +4,7 @@
 
 #### (1) Establishment of program
 
-&emsp;The Secretary shall establish a program of entering into contracts with individuals described in paragraph (2) under which the individuals agree to serve as members of the faculties of schools described in paragraph (3) in consideration of the Federal Government agreeing to pay, for each year of such service, not more than $20,000 of the principal and interest of the educational loans of such individuals.
+&emsp;The Secretary shall establish a program of entering into contracts with individuals described in paragraph (2) under which the individuals agree to serve as members of the faculties of schools described in paragraph (3) in consideration of the Federal Government agreeing to pay, for each year of such service, not more than $30,000 of the principal and interest of the educational loans of such individuals.
 
 #### (2) Eligible individuals
 
@@ -22,7 +22,7 @@
 
 #### (3) Eligible health professions schools
 
-&emsp;The schools described in this paragraph are schools of medicine, nursing (as schools of nursing are defined in section 296 of this title), osteopathic medicine, dentistry, pharmacy, allied health, podiatric medicine, optometry, veterinary medicine, or public health, or schools offering graduate programs in behavioral and mental health.
+&emsp;The schools described in this paragraph are schools of medicine, nursing (as schools of nursing are defined in section 296 of this title), osteopathic medicine, dentistry, pharmacy, allied health, podiatric medicine, optometry, veterinary medicine, or public health, schools offering physician assistant education programs, or schools offering graduate programs in behavioral and mental health.
 
 #### (4) Requirements regarding faculty positions
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(ii) the payments made by the school pursuant to clause (i) on behalf of the individual will be in addition to the pay that the individual would otherwise receive for serving as a member of such faculty; and
 
-&emsp;&emsp;&emsp;(iii) the school, in making a determination of the amount of compensation to be provided by the school to the individualfor serving as a member of the faculty, will make the determination without regard to the amount of payments made (or to be made) to the individual by the Federal Government under paragraph (1).
+&emsp;&emsp;&emsp;(iii) the school, in making a determination of the amount of compensation to beprovided by the school to the individual for serving as a member of the faculty, will make the determination without regard to the amount of payments made (or to be made) to the individual by the Federal Government under paragraph (1).
 
 #### (5) Applicability of certain provisions
 
@@ -92,7 +92,7 @@
 
 &emsp;For purposes of this subsection, the term “underrepresented minority individuals” means individuals who are members of racial or ethnic minority groups that are underrepresented in the health professions including nursing.
 
-(July 1, 1944, ch. 373, title VII, §738, as added Pub. L. 105–392, title I, §101(a), Nov. 13, 1998, 112 Stat. 3532.)
+(July 1, 1944, ch. 373, title VII, §738, as added Pub. L. 105–392, title I, §101(a), Nov. 13, 1998, 112 Stat. 3532; amended Pub. L. 111–148, title V, §5402(a), title X, §10501(d), Mar. 23, 2010, 124 Stat. 644, 995.)
 
 #### References in Text
 
@@ -105,4 +105,10 @@ A prior section 293b, act July 1, 1944, ch. 373, title VII, §738, as added Pub.
 Another prior section 293b, act July 1, 1944, ch. 373, title VII, §722, as added Sept. 24, 1963, Pub. L. 88–129, §2(b), 77 Stat. 168; amended Aug. 16, 1968, Pub. L. 90–490, title I, §§102(a), 104(a), 82 Stat. 773, 774; Nov. 18, 1971, Pub. L. 92–157, title I, §102(b), (j)(4), (7), 85 Stat. 431, 436, 437; Oct. 12, 1976, Pub. L. 94–484, title III, §304, 90 Stat. 2255; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2723(e), 95 Stat. 916, related to amounts of grants and grants for multipurpose facilities, prior to the general revision of this subchapter by Pub. L. 102–408.
 
 A prior section 738 of act July 1, 1944, was classified to section 294k of this title prior to the general revision of this subchapter by Pub. L. 102–408.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §5402(a), substituted “$30,000” for “$20,000”.
+
+Subsec. (a)(3). Pub. L. 111–148, §10501(d), inserted “schools offering physician assistant education programs,” after “public health,”.
 

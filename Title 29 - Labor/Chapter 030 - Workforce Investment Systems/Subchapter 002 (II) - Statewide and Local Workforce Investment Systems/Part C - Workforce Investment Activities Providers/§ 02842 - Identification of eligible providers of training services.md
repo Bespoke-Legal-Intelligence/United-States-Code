@@ -46,11 +46,11 @@
 
 #### (D) Requirements
 
-&emsp;&emsp;In establishing the procedure, the Governor shall require that, to be initially eligible to receive funds as described in subsection (a) of this section for a program, aprovider described in subsection (a)(2)(C) of this section—
+&emsp;&emsp;In establishing the procedure, the Governor shall require that, to be initially eligible to receive funds as described in subsection (a) of this section for a program, a provider described in subsection (a)(2)(C) of this section—
 
 &emsp;&emsp;&emsp;(i) shall submit an application, to the local board for the local area in which the provider desires to provide training services, at such time and in such manner as may be required, and containing a description of the program;
 
-&emsp;&emsp;&emsp;(ii) if the provider provides training services through a program on the date of application, shall include in the application an appropriate portion of the performance information and program cost information described in subsection (d) of this section for the program, as specified in the procedure, and shall meet appropriate levels of performance for the program, as specified in the procedure; and
+&emsp;&emsp;&emsp;(ii) if the provider provides training services through a program on the date of application, shall include in the application an appropriate portion of the performance information and program cost information described in subsection (d) of this section for the program, as specified in the procedure, and shall meet appropriate levels ofperformance for the program, as specified in the procedure; and
 
 &emsp;&emsp;&emsp;(iii) if the provider does not provide training services on such date, shall meet appropriate requirements, as specified in the procedure.
 
@@ -172,7 +172,7 @@
 
 #### (5) Acceptance of individual training accounts by other States
 
-&emsp;States may enter into agreements, on a reciprocal basis, to permit eligible providers oftraining services in a State to accept individual training accounts provided in another State.
+&emsp;States may enter into agreements, on a reciprocal basis, to permit eligible providers of training services in a State to accept individual training accounts provided in another State.
 
 #### (f) Enforcement
 

@@ -18,7 +18,7 @@ In order to effectuate the purposes of this chapter, the Federal coordinating of
 
 #### (c) State coordinating officer
 
-When the President determines assistance under this chapter is necessary, he shall request that the Governor of the affected State designate a State coordinating officer for the purpose of coordinating State and local disaster assistance efforts with those of the Federal Government.
+When the President determines assistance under this chapter is necessary, he shall requestthat the Governor of the affected State designate a State coordinating officer for the purpose of coordinating State and local disaster assistance efforts with those of the Federal Government.
 
 #### (d) Single Federal coordinating officer for multistate area
 
@@ -40,7 +40,7 @@ A prior section 302 of Pub. L. 93–288 was classified to section 5142 of this t
 
 #### Amendments
 
-2006—Subsec. (d). Pub. L. 109–295 added subsec. (d).
+<b>2006</b>—Subsec. (d). Pub. L. 109–295 added subsec. (d).
 
-1988—Subsec. (a). Pub. L. 100–707 inserted “or emergency” after “major disaster”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–707 inserted “or emergency” after “major disaster”.
 

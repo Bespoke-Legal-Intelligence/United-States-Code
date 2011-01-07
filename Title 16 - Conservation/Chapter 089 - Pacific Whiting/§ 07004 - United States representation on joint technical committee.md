@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with the Secretary of State, shall appoint at least 6 but not more than 12 individuals to serve as scientific experts on the joint technical committee, at least 1 of whom shall be an official of the National Oceanic and Atmospheric Administration.
+&emsp;The Secretary, in consultation with the Secretary of State, shall appoint no more than 2 individuals to serve as scientific experts on the joint technical committee, at least 1 of whom shall be an official of the National Oceanic and Atmospheric Administration.
 
 #### (2) Term of office
 
@@ -14,5 +14,9 @@
 
 In addition to individuals appointed under subsection (a), the Secretary, jointly with the Government of Canada, shall appoint 1 independent member to the joint technical committee selected from a list of names provided by the advisory panel.
 
-(Pub. L. 109–479, title VI, §605, Jan. 12, 2007, 120 Stat. 3646.)
+(Pub. L. 109–479, title VI, §605, Jan. 12, 2007, 120 Stat. 3646; Pub. L. 111–348, title III, §302(a), Jan. 4, 2011, 124 Stat. 3672.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (a)(1). Pub. L. 111–348 substituted “no more than 2” for “at least 6 but not more than 12”.
 

@@ -34,7 +34,7 @@
 
 #### (ii) Claims for asylum
 
-&emsp;&emsp;&emsp;If an immigration officer determines that an alien (other than an alien described in subparagraph (F)) who is arriving in the United States or is described in clause (iii) is inadmissible under section 1182(a)(6)(C) or 1182(a)(7) of this title and the alien indicates either an intention to apply for asylum under section 1158 of this title or a fear of persecution, the officer shall refer the alien for an interview by an asylum officer under subparagraph (B).
+&emsp;&emsp;&emsp;If an immigration officer determines that an alien (other than an alien described in subparagraph (F)) who is arriving in the United States or is described in clause (iii) is inadmissible under section 1182(a)(6)(C) or 1182(a)(7) of this title and the alien indicates either an intention toapply for asylum under section 1158 of this title or a fear of persecution, the officer shall refer the alien for an interview by an asylum officer under subparagraph (B).
 
 #### (iii) Application to certain other aliens
 
@@ -186,11 +186,15 @@
 
 (June 27, 1952, ch. 477, title II, ch. 4, §235, 66 Stat. 198; Pub. L. 101–649, title VI, §603(a)(11), Nov. 29, 1990, 104 Stat. 5083; Pub. L. 104–132, title IV, §§422(a), 423(b), Apr. 24, 1996, 110 Stat. 1270, 1272; Pub. L. 104–208, div. C, title III, §§302(a), 308(d)(5), 371(b)(4), Sept. 30, 1996, 110 Stat. 3009–579, 3009–619, 3009–645; Pub. L. 110–229, title VII, §702(j)(5), May 8, 2008, 122 Stat. 867.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a)(1) and (d)(3), (4)(A), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+
 #### Amendments
 
 2008—Subsec. (b)(1)(G). Pub. L. 110–229 added subpar. (G).
 
-1996—Pub. L. 104–208, §302(a), amended section generally, revising and restating former subsecs. (a) to (d) relating to inspection of aliens arriving in the United States, powers of immigration officers, detention of aliens for further inquiry, temporary and permanentexclusion of aliens, and collateral attacks on orders of exclusion and deportation.
+1996—Pub. L. 104–208, §302(a), amended section generally, revising and restating former subsecs. (a) to (d) relating to inspection of aliens arriving in the United States, powers of immigration officers, detention of aliens for further inquiry, temporary and permanent exclusion of aliens, and collateral attacks on orders of exclusion and deportation.
 
 Pub. L. 104–208, §371(b)(4), substituted “an immigration judge” for “a special inquiry officer”, “immigration judge” for “special inquiry officer”, and “immigration judges” for “special inquiry officers”, wherever appearing in subsecs. (a) to (c).
 

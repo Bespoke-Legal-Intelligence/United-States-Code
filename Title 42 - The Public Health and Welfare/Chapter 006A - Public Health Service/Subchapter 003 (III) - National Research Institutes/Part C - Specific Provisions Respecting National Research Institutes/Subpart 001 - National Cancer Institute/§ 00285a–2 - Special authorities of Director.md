@@ -2,7 +2,7 @@
 
 #### (a) Information and education program
 
-(1) The Director of the Institute shall establish an information and education program to collect, identify, analyze, and disseminate on a timely basis, through publications and other appropriate means, to cancer patients and their families, physicians and other health professionals, and the general public, information on cancer research, diagnosis, prevention, and treatment (including information respecting nutrition programs for cancer patients and the relationship between nutrition and cancer). The Director of the Institute may take such actionas may be necessary to insure that all channels for the dissemination and exchange of scientific knowledge and information are maintained between the Institute and the public and between the Institute and other scientific, medical, and biomedical disciplines and organizations nationally and internationally.
+(1) The Director of the Institute shall establish an information and education program to collect, identify, analyze, and disseminate on a timely basis, through publications and other appropriate means, to cancer patients and their families, physicians and other health professionals, and the general public, information on cancer research, diagnosis, prevention, and treatment (including information respecting nutrition programs for cancer patients and the relationship between nutrition and cancer). The Director of the Institute may take such action as may be necessary to insure that all channels for the dissemination and exchange of scientific knowledge and information are maintained between the Institute and the public and between the Institute and other scientific, medical, and biomedical disciplines and organizations nationally and internationally.
 
 (2) In carrying out paragraph (1), the Director of the Institute shall—
 
@@ -38,7 +38,7 @@ The Director of the Institute in carrying out the National Cancer Program—
 
 &emsp;(7) may, in consultation with the advisory council for the Institute, appoint one or more advisory committees composed of such private citizens and officials of Federal, State, and local governments to advise the Director with respect to the Director's functions;
 
-&emsp;(8) may, subject to section 284(b)(2) of this title and without regard to section 3324 of title 31 and section 5 of title 41, enter into such contracts, leases, cooperative agreements, as may be necessary in the conduct of functions of the Director, with any public agency, or with any person, firm, association, corporation, or educational institution; and
+&emsp;(8) may, subject to section 284(b)(2) of this title and without regard to section 3324 of title 31 and section 6101 of title 41, enter into such contracts, leases, cooperative agreements, as may be necessary in the conduct of functions of the Director, with any public agency, or with any person, firm, association, corporation, or educational institution; and
 
 &emsp;(9) shall, notwithstanding section 284(a) of this title, prepare and submit, directly to the President for review and transmittal to Congress, an annual budget estimate (including an estimate of the number and type of personnel needs for the Institute) for the National Cancer Program, after reasonable opportunity for comment (but without change) by the Secretary, the Director of NIH, and the Institute's advisory council.
 
@@ -60,21 +60,21 @@ The Director of the Institute in carrying out the National Cancer Program—
 
 Section 284b of this title, referred to in subsec. (a)(2)(C), was repealed by Pub. L. 109–482, title I, §104(b)(1)(C), Jan. 15, 2007, 120 Stat. 3693.
 
-The provisions of title 5 relating to reimbursement for travel expenses, referred to in subsec. (b), are classified generally to section 5701 et seq. of Title 5, Government Organization and Employees.
-
 #### Codification
 
 In subsec. (b)(6)(C), “section 8141 of title 40” substituted for “the Act of March 3, 1877 (40 U.S.C. 34)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
+In subsec. (b)(8), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–109 added subsec. (c).
+<b>2002</b>—Subsec. (c). Pub. L. 107–109 added subsec. (c).
 
-1993—Subsec. (b)(9). Pub. L. 103–43 struck out subpar. (A) designation and subpar. (B) which permitted Director to receive from President and Office of Management and Budget directly all funds appropriated by Congress for obligation and expenditure by Institute.
+<b>1993</b>—Subsec. (b)(9). Pub. L. 103–43 struck out subpar. (A) designation and subpar. (B) which permitted Director to receive from President and Office of Management and Budget directly all funds appropriated by Congress for obligation and expenditure by Institute.
 
-1989—Subsec. (a)(1). Pub. L. 101–93 substituted “Institute and” for “Institute and and”.
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–93 substituted “Institute and” for “Institute and and”.
 
-1988—Subsec. (a). Pub. L. 100–607, §122(1), designated existing provisions as par. (1), substituted “education program” for “education center”, inserted “and the public and between the Institute and” after “between the Institute”, and added par. (2).
+<b>1988</b>—Subsec. (a). Pub. L. 100–607, §122(1), designated existing provisions as par. (1), substituted “education program” for “education center”, inserted “and the public and between the Institute and” after “between the Institute”, and added par. (2).
 
 Subsec. (b)(5). Pub. L. 100–607, §122(2)(A), substituted “after consultation with” for “with the approval of”.
 

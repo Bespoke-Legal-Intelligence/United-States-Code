@@ -4,7 +4,7 @@
 
 Congress finds the following:
 
-&emsp;(1) Although medical researchers in recent years have demonstrated that there are several naturally occurring compounds in many vegetables and fruits that can aid in the prevention of certain forms of cancer, coronary heart disease, stroke, and atherosclerosis, there has been almost no research conducted to enhance these compounds in food plants bymodern breeding and molecular genetic methods.
+&emsp;(1) Although medical researchers in recent years have demonstrated that there are several naturally occurring compounds in many vegetables and fruits that can aid in the prevention of certain forms of cancer, coronary heart disease, stroke, and atherosclerosis, there has been almost no research conducted to enhance these compounds in food plants by modern breeding and molecular genetic methods.
 
 &emsp;(2) By linking the appropriate medical and agricultural research scientists in a highly-focused, targeted research program, it should be possible to develop new varieties of vegetables and fruits that would provide greater prevention of diet-related diseases that are a major cause of death in the United States.
 

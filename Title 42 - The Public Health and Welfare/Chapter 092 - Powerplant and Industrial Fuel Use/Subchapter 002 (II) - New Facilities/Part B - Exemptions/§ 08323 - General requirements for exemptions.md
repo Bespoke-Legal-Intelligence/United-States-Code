@@ -22,7 +22,7 @@ If the appropriate State regulatory authority has not approved a powerplant for 
 
 #### Amendments
 
-1987—Subsec. (a). Pub. L. 100–42, §1(c)(7)(A), (B), in introductory provisions struck out “or (g)” after “8322(d)” and “or installation” after “powerplant”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–42, §1(c)(7)(A), (B), in introductory provisions struck out “or (g)” after “8322(d)” and “or installation” after “powerplant”.
 
 Subsec. (b). Pub. L. 100–42, §1(c)(7)(C), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If the appropriate State regulatory authority has not approved a powerplant for which a petition has been filed, such exemption—
 

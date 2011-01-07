@@ -34,11 +34,11 @@ The change makes clear that the Secretary of the Army is required to prescribe r
 
 #### Amendments
 
-1994—Pub. L. 103–337 struck out at end “A regular enlisted member then becomes a member of the Army Reserve. A member retired under this section shall perform such active duty as may be prescribed by law until his service computed under section 3925 of this title, plus his inactive service as a member of the Army Reserve, equals 30 years.”
+<b>1994</b>—Pub. L. 103–337 struck out at end “A regular enlisted member then becomes a member of the Army Reserve. A member retired under this section shall perform such active duty as may be prescribed by law until his service computed under section 3925 of this title, plus his inactive service as a member of the Army Reserve, equals 30 years.”
 
-1980—Pub. L. 96–343 struck out “regular” before “enlisted members” in section catchline and substituted in section “an enlisted member” for “a regular enlisted member”, “A regular enlisted member” for “He”, and “Army Reserve. A member retired under this section” for “Army Reserve, and”.
+<b>1980</b>—Pub. L. 96–343 struck out “regular” before “enlisted members” in section catchline and substituted in section “an enlisted member” for “a regular enlisted member”, “A regular enlisted member” for “He”, and “Army Reserve. A member retired under this section” for “Army Reserve, and”.
 
-1958—Pub. L. 85–861 substituted “regulations to be prescribed” for “regulations prescribed”.
+<b>1958</b>—Pub. L. 85–861 substituted “regulations to be prescribed” for “regulations prescribed”.
 
 #### Effective Date of 1980 Amendment
 

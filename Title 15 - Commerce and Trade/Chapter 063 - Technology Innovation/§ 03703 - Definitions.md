@@ -32,19 +32,19 @@ The Plant Variety Protection Act, referred to in par. (7), is Pub. L. 91–577, 
 
 #### Amendments
 
-2007—Pub. L. 110–69 redesignated pars. (2) and (4) to (13) as (1) and (2) to (11), respectively, and struck out pars. (1) and (3) which defined “Office” and “Under Secretary”, respectively.
+<b>2007</b>—Pub. L. 110–69 redesignated pars. (2) and (4) to (13) as (1) and (2) to (11), respectively, and struck out pars. (1) and (3) which defined “Office” and “Under Secretary”, respectively.
 
-2000—Pars. (4), (6). Pub. L. 106–404 made technical amendments to references in original act which appear in text as references to sections 3705 and 3707 of this title.
+<b>2000</b>—Pars. (4), (6). Pub. L. 106–404 made technical amendments to references in original act which appear in text as references to sections 3705 and 3707 of this title.
 
-1992—Par. (8). Pub. L. 102–245 inserted before period at end “, as well as any agency of the legislative branch of the Federal Government”.
+<b>1992</b>—Par. (8). Pub. L. 102–245 inserted before period at end “, as well as any agency of the legislative branch of the Federal Government”.
 
-1988—Par. (1). Pub. L. 100–519, §201(d)(1)(A), substituted “Technology Policy” for “Productivity, Technology, and Innovation”.
+<b>1988</b>—Par. (1). Pub. L. 100–519, §201(d)(1)(A), substituted “Technology Policy” for “Productivity, Technology, and Innovation”.
 
 Par. (3). Pub. L. 100–519, §201(d)(1)(B), amended par. (3) generally, substituting provisions defining “Under Secretary” for provisions defining “Assistant Secretary”.
 
 Par. (13). Pub. L. 100–418 added par. (13).
 
-1986—Par. (1). Pub. L. 99–502, §9(b)(2)(A), substituted “Productivity, Technology, and Innovation” for “Industrial Technology”.
+<b>1986</b>—Par. (1). Pub. L. 99–502, §9(b)(2)(A), substituted “Productivity, Technology, and Innovation” for “Industrial Technology”.
 
 Par. (3). Pub. L. 99–502, §9(b)(2)(B), substituted “ ‘Assistant Secretary’ means the Assistant Secretary for Productivity, Technology, and Innovation” for “ ‘Director’ means the Director of the Office of Industrial Technology”.
 

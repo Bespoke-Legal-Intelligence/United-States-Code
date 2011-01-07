@@ -16,7 +16,7 @@ Provisions similar to those in this section were contained in section 270(a) of 
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” in introductory provisions.
+<b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” in introductory provisions.
 
 #### Effective Date of 2002 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Program authorized
 
-From amounts appropriated under section 6302(b)(2) of this title, the Secretary shall awardgrants, on a competitive basis, for periods of not more than 6 years, to eligible applicants to enable the eligible applicants to carry out the authorized activities described in subsection (d) of this section.
+From amounts appropriated under section 6302(b)(2) of this title, the Secretary shall award grants, on a competitive basis, for periods of not more than 6 years, to eligible applicants to enable the eligible applicants to carry out the authorized activities described in subsection (d) of this section.
 
 #### (b) Applications
 

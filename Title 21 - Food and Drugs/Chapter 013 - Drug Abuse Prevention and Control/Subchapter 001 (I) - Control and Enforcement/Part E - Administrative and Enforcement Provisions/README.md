@@ -1,7 +1,5 @@
 Part E—Administrative and Enforcement Provisions
 
-<i><sup>1</sup></i><i> So in original. A second closing parenthesis probably should precede the comma.</i>
-
 
 ---
 

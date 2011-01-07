@@ -30,11 +30,11 @@ This Act, referred to in subsec. (a), is Pub. L. 107–84, Dec. 18, 2001, 115 St
 
 #### Codification
 
-Section was enacted as part of the Muscular Dystrophy Community Assistance, Research and EducationAmendments of 2001, also known as the MD–CARE Act, and not as part of the Public Health Service Act which comprises this chapter.
+Section was enacted as part of the Muscular Dystrophy Community Assistance, Research and Education Amendments of 2001, also known as the MD–CARE Act, and not as part of the Public Health Service Act which comprises this chapter.
 
 #### Amendments
 
-2008—Subsecs. (c), (d). Pub. L. 110–361 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>2008</b>—Subsecs. (c), (d). Pub. L. 110–361 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 <i><sup>1</sup></i><i> So in original. Probably should be “to provide”.</i>
 

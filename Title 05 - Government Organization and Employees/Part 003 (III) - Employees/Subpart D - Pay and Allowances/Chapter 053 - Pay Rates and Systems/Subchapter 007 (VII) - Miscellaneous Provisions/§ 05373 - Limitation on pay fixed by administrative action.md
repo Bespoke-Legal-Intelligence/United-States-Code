@@ -14,7 +14,7 @@
 
 (b) Subsection (a) shall not affect the authority of the Secretary of Defense or the Secretary of a military department to fix the pay of a civilian employee paid from nonappropriated funds, except that the annual rate of basic pay (including any portion of such pay attributable to comparability with private-sector pay in a locality) of such an employee may not be fixed at a rate greater than the rate for level III of the Executive Schedule.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, §5363; renumbered §5373, Pub. L. 95–454, title VIII, §801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221; Pub. L. 96–70, title III, §3302(e)(4), Sept. 27, 1979, 93 Stat. 498; Pub. L. 101–73, title VII, §742(b), title XII, §1209, Aug. 9, 1989, 103 Stat. 437, 523; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(H)\], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 104–201, div. C, title XXXV, §3548(a)(4), Sept. 23, 1996, 110 Stat. 2868; Pub. L. 106–65, div. A, title XI, §1102, Oct. 5,1999, 113 Stat. 776; Pub. L. 107–123, §8(d)(1)(C), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 107–171, title X, §10702(c)(3), May 13, 2002, 116 Stat. 517.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, §5363; renumbered §5373, Pub. L. 95–454, title VIII, §801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221; Pub. L. 96–70, title III, §3302(e)(4), Sept. 27, 1979, 93 Stat. 498; Pub. L. 101–73, title VII, §742(b), title XII, §1209, Aug. 9, 1989, 103 Stat. 437, 523; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(H)\], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 104–201, div. C, title XXXV, §3548(a)(4), Sept. 23, 1996, 110 Stat. 2868; Pub. L. 106–65, div. A, title XI, §1102, Oct. 5, 1999, 113 Stat. 776; Pub. L. 107–123, §8(d)(1)(C), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 107–171, title X, §10702(c)(3), May 13, 2002, 116 Stat. 517.)
 
 Historical and Revision Notes
 
@@ -38,7 +38,7 @@ Standard changes are made to conform to the definitions applicable and the style
 
 #### References in Text
 
-The Government Employees Salary Reform Act of 1964 (78 Stat. 400), referred to in subsec. (a), is Pub. L. 88–426, Aug. 14, 1964, 78 Stat. 400, as amended. For complete classification of this Act to the Code, see Tables.
+The Government Employees Salary Reform Act of 1964 (78 Stat. 400), referred to in subsec. (a), is Pub. L.88–426, Aug. 14, 1964, 78 Stat. 400. For complete classification of this Act to the Code, see Tables.
 
 Level IV of the Executive Schedule, referred to in subsec. (a), is set out in section 5315 of this title.
 
@@ -46,7 +46,7 @@ Section 206 of the Bank Conservation Act, referred to in subsec. (a)(1), is clas
 
 Sections 2B(b) and 21A(e)(4) of the Federal Home Loan Bank Act, referred to in subsec. (a)(1), are classified to sections 1422b(b) and 1441a(e)(4), respectively, of Title 12, Banks and Banking. Section 1422b of Title 12 was repealed by Pub. L. 110–289, div. A, title II, §1204(1), July 30, 2008, 122 Stat. 2786.
 
-Section 2A(i) of the Home Owners’ Loan Act, referred to in subsec. (a)(1), probably should be a reference to section 3(g) of the Home Owners’ Loan Act, act June 13, 1933, ch. 64, as amended by Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 278, which is classified to section 1462a(g) of Title 12, Banks and Banking.
+Section 2A(i) of the Home Owners’ Loan Act, referred to in subsec. (a)(1), probably should be a reference to section 3(g) of the Home Owners’ Loan Act, act June 13, 1933, ch. 64, as amended by Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 278, which was classified to section 1462a(g) of Title 12, Banks and Banking, prior to repeal by Pub. L. 111–203, title III, §369(3)(B), July 21, 2010, 124 Stat. 1558.
 
 Sections 5.11 and 5.58 of the Farm Credit Act of 1971, referred to in subsec. (a)(1), are classified to sections 2245 and 2277a–7, respectively, of Title 12, Banks and Banking.
 

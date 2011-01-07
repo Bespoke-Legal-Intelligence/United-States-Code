@@ -12,7 +12,7 @@
 
 (3)(A) Except as provided in subparagraph (C), an individual shall be considered to be disabled for purposes of this subchapter if he is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment which can be expected to result in death or which has lasted or can be expected to last for a continuous period of not less than twelve months.
 
-(B) For purposes of subparagraph (A), an individual shall be determined to be under a disability only if his physical or mental impairment orimpairments are of such severity that he is not only unable to do his previous work but cannot, considering his age, education, and work experience, engage in any other kind of substantial gainful work which exists in the national economy, regardless of whether such work exists in the immediate area in which he lives, or whether a specific job vacancy exists for him, or whether he would be hired if he applied for work. For purposes of the preceding sentence (with respect to any individual), “work which exists in the national economy” means work which exists in significant numbers either in the region where such individual lives or in several regions of the country.
+(B) For purposes of subparagraph (A), an individual shall be determined to be under a disability only if his physical or mental impairment or impairments are of such severity that he is not only unable to do his previous work but cannot, considering his age, education, and work experience, engage in any other kind of substantial gainful work which exists in the national economy, regardless of whether such work exists in the immediate area in which he lives, or whether a specific job vacancy exists for him, or whether he would be hired if he applied for work. For purposes of the preceding sentence (with respect to any individual), “work which exists in the national economy” means work which exists in significant numbers either in the region where such individual lives or in several regions of the country.
 
 (C)(i) An individual under the age of 18 shall be considered disabled for the purposes of this subchapter if that individual has a medically determinable physical or mental impairment, which results in marked and severe functional limitations, and which can be expected to result in death or which has lasted or can be expected to last for a continuous period of not less than 12 months.
 
@@ -24,7 +24,7 @@
 
 (F) Notwithstanding the provisions of subparagraphs (A) through (E), an individual shall also be considered to be disabled for purposes of this subchapter if he is permanently and totally disabled as defined under a State plan approved under subchapter XIV or XVI of this chapter as in effect for October 1972 and received aid under such plan (on the basis of disability) for December 1973 (and for at least one month prior to July 1973), so long as he is continuously disabled as so defined.
 
-(G) In determining whether an individual's physical or mental impairment or impairments are of a sufficient medical severity that such impairment or impairments could be the basis of eligibility under this section, the Commissioner of Social Security shall consider the combined effect of all of the individual's impairments without regard to whether any such impairment, if considered separately, would be of such severity. If the Commissioner of Social Security does find a medically severe combination of impairments, the combined impact of the impairments shall be considered throughout the disability determination process.
+(G) In determining whether an individual's physical or mental impairment or impairments are of a sufficient medical severity that suchimpairment or impairments could be the basis of eligibility under this section, the Commissioner of Social Security shall consider the combined effect of all of the individual's impairments without regard to whether any such impairment, if considered separately, would be of such severity. If the Commissioner of Social Security does find a medically severe combination of impairments, the combined impact of the impairments shall be considered throughout the disability determination process.
 
 (H)(i) In making determinations with respect to disability under this subchapter, the provisions of sections 421(h), 421(k), and 423(d)(5) of this title shall apply in the same manner as they apply to determinations of disability under subchapter II of this chapter.
 
@@ -88,7 +88,7 @@
 
 &emsp;(B) in the case of an individual who is under the age of 18—
 
-&emsp;&emsp;(i) substantial evidence which demonstrates that there has been medical improvement in the individual's impairment orcombination of impairments, and that such impairment or combination of impairments no longer results in marked and severe functional limitations; or
+&emsp;&emsp;(i) substantial evidence which demonstrates that there has been medical improvement in the individual's impairment or combination of impairments, and that such impairment or combination of impairments no longer results in marked and severe functional limitations; or
 
 &emsp;&emsp;(ii) substantial evidence which demonstrates that, as determined on the basis of new or improved diagnostic techniques or evaluations, the individual's impairment or combination of impairments, is not as disabling as it was considered to be at the time of the most recent prior decision that the individual was under a disability or continued to be under a disability, and such impairment or combination of impairments does not result in marked and severe functional limitations; or
 
@@ -122,7 +122,7 @@
 
 &emsp;(iv) but for this subparagraph, would not be eligible for benefits under this subchapter.
 
-(3) For purposes of determining eligibility for and the amount of benefits for any individualwho is an alien, such individual's income and resources shall be deemed to include the income and resources of his sponsor and such sponsor's spouse (if such alien has a sponsor) as provided in section 1382j of this title. Any such income deemed to be income of such individual shall be treated as unearned income of such individual.
+(3) For purposes of determining eligibility for and the amount of benefits for any individual who is an alien, such individual's income and resources shall be deemed to include the income and resources of his sponsor and such sponsor's spouse (if such alien has a sponsor) as provided in section 1382j of this title. Any such income deemed to be income of such individual shall be treated as unearned income of such individual.
 
 (4) For purposes of paragraphs (1) and (2), a spouse or parent (or spouse of such a parent) who is absent from the household in which the individual lives due solely to a duty assignment as a member of the Armed Forces on active duty shall, in the absence of evidence to the contrary, be deemed to be living in the same household as the individual.
 
@@ -130,9 +130,9 @@
 
 #### Amendments
 
-2004—Subsec. (a)(1)(B)(ii). Pub. L. 108–203 inserted “and” after “citizen of the United States,” and struck out “, and who, for the month before the parent reported for such assignment, received a benefit under this subchapter” before period at end.
+<b>2004</b>—Subsec. (a)(1)(B)(ii). Pub. L. 108–203 inserted “and” after “citizen of the United States,” and struck out “, and who, for the month before the parent reported for such assignment, received a benefit under this subchapter” before period at end.
 
-1997—Subsec. (a)(3)(H)(iii). Pub. L. 105–33, §5522(a)(1), added subcls. (I) and (II) and concluding provisions and struck out former subcls. (I) and (II) and concluding provisions which read as follows:
+<b>1997</b>—Subsec. (a)(3)(H)(iii). Pub. L. 105–33, §5522(a)(1), added subcls. (I) and (II) and concluding provisions and struck out former subcls. (I) and (II) and concluding provisions which read as follows:
 
 &emsp;“(I) during the 1-year period beginning on the individual's 18th birthday; and
 
@@ -144,7 +144,7 @@ Subsec. (a)(3)(H)(iv). Pub. L. 105–33, §5522(a)(2), substituted “Except as 
 
 Subsec. (a)(4). Pub. L. 105–33, §5522(d), made technical correction to directory language of Pub. L. 104–193, §211(c). See 1996 Amendment notes below.
 
-1996—Subsec. (a)(3)(A). Pub. L. 104–193, §211(a)(1), (2), substituted “Except as provided in subparagraph (C), an individual” for “An individual” and struck out “(or, in the case of an individual under the age of 18, if he suffers from any medically determinable physical or mental impairment of comparable severity)” before period at end.
+<b>1996</b>—Subsec. (a)(3)(A). Pub. L. 104–193, §211(a)(1), (2), substituted “Except as provided in subparagraph (C), an individual” for “An individual” and struck out “(or, in the case of an individual under the age of 18, if he suffers from any medically determinable physical or mental impairment of comparable severity)” before period at end.
 
 Subsec. (a)(3)(C). Pub. L. 104–193, §211(a)(4), added subpar. (C). Former subpar. (C) redesignated (D).
 
@@ -170,7 +170,7 @@ Pub. L. 104–193, §211(c)(1)–(6), as amended by Pub. L. 105–33, §5522(d),
 
 Subsec. (b). Pub. L. 104–193, §204(c)(1), substituted “, on the first day of the month following the date the application is filed, or, in any case in which either spouse requests” for “or requests” and struck out “application or” before “request is filed.”
 
-1994—Subsec. (a)(3)(A). Pub. L. 103–432, §221(a)(1), substituted “an individual” for “a child” before “under the age of 18”.
+<b>1994</b>—Subsec. (a)(3)(A). Pub. L. 103–432, §221(a)(1), substituted “an individual” for “a child” before “under the age of 18”.
 
 Subsec. (a)(3)(D). Pub. L. 103–296, §201(b)(4)(A), inserted at end “The Secretary shall make determinations under this subchapter with respect to substantial gainful activity, without regard to the legality of the activity.”
 
@@ -184,21 +184,21 @@ Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security�
 
 Subsecs. (a)(4), (c), (f)(1), (2)(A). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
-1993—Subsec. (a)(1)(B)(ii). Pub. L. 103–66, §13734(a), substituted “and who, for the month before the parent reported for such assignment, received a benefit under this subchapter” for “the District of Columbia, Puerto Rico, and the territories and possessions of the United States, and who, during the month before the parent reported for such assignment, was receiving benefits under this subchapter”.
+<b>1993</b>—Subsec. (a)(1)(B)(ii). Pub. L. 103–66, §13734(a), substituted “and who, for the month before the parent reported for such assignment, received a benefit under this subchapter” for “the District of Columbia, Puerto Rico, and the territories and possessions of the United States, and who, during the month before the parent reported for such assignment, was receiving benefits under this subchapter”.
 
 Subsec. (f)(4). Pub. L. 103–66, §13733(a), added par. (4).
 
-1990—Subsec. (a)(1)(B)(i). Pub. L. 101–649 struck out “section 1153(a)(7) or” after “the provisions of”.
+<b>1990</b>—Subsec. (a)(1)(B)(i). Pub. L. 101–649 struck out “section 1153(a)(7) or” after “the provisions of”.
 
 Subsec. (a)(3)(H). Pub. L. 101–508 added subpar. (H).
 
-1989—Subsec. (a)(1)(B). Pub. L. 101–239, §8009(b), designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, substituted “, or” for period at end, and added cl. (ii).
+<b>1989</b>—Subsec. (a)(1)(B). Pub. L. 101–239, §8009(b), designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, substituted “, or” for period at end, and added cl. (ii).
 
 Subsec. (b). Pub. L. 101–239, §8012(a), amended first sentence generally. Prior to amendment, first sentence read as follows: “For purposes of this subchapter, the term ‘eligible spouse’ means an aged, blind, or disabled individual who is the husband or wife of another aged, blind, or disabled individual and who has not been living apart from such other aged, blind, or disabled individual for more than six months.”
 
 Subsec. (f)(2). Pub. L. 101–239, §8010(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
-1986—Subsec. (a)(3)(D). Pub. L. 99–643, §4(d)(2)(A), struck out “, except for purposes of subparagraph (F) or paragraph (4),” after “such criteria”.
+<b>1986</b>—Subsec. (a)(3)(D). Pub. L. 99–643, §4(d)(2)(A), struck out “, except for purposes of subparagraph (F) or paragraph (4),” after “such criteria”.
 
 Subsec. (a)(3)(F) to (H). Pub. L. 99–643, §4(d)(2)(B), redesignated subpars. (G) and (H) as (F) and (G), respectively, and struck out former subpar. (F) which read as follows: “For purposes of this subchapter, an individual whose trial work period has ended by application of paragraph (4)(D)(i) shall, subject to section 1382(e)(4) of this title, nonetheless be considered (except for purposes of section 1383(a)(5) of this title) to be disabled through the end of the month preceding the termination month. For purposes of the preceding sentence, the termination month for any individual shall be the earlier of (i) the earliest month after the end of such period of trial work with respect to which such individual is determined to no longer be suffering from a disabling physical or mental impairment, or (ii) the first month, after the period of 15 consecutive months following the end of such period of trial work, in which such individual engages in or is determined to be able to engage in substantial gainful activity.”
 
@@ -216,7 +216,7 @@ Subsec. (a)(4), (5). Pub. L. 99–643, §4(d)(3)(A), redesignated par. (5) as (4
 
 &emsp;“(ii) the month in which his disability (as determined under paragraph (3) of this subsection) ceases (as determined after the application of subparagraph (A) of this paragraph).”
 
-1984—Subsec. (a)(3)(E). Pub. L. 98–369, §2663(g)(6), realigned margin of subpar. (E).
+<b>1984</b>—Subsec. (a)(3)(E). Pub. L. 98–369, §2663(g)(6), realigned margin of subpar. (E).
 
 Subsec. (a)(3)(G). Pub. L. 98–460, §4(b), added subpar. (G).
 
@@ -230,7 +230,7 @@ Subsec. (a)(5). Pub. L. 98–460, §2(c), added par. (5).
 
 Subsec. (d)(1). Pub. L. 98–369, §2663(g)(7), substituted “man and woman” for “man and women”.
 
-1980—Subsec. (a)(3)(D). Pub. L. 96–265, §302(a)(2), inserted provisions relating to extraordinary work expenses due to severe disability.
+<b>1980</b>—Subsec. (a)(3)(D). Pub. L. 96–265, §302(a)(2), inserted provisions relating to extraordinary work expenses due to severe disability.
 
 Pub. L. 96–265, §303(c)(1)(B), substituted reference to subparagraph (F) or paragraph (4) for reference to paragraph (4).
 
@@ -240,7 +240,7 @@ Subsec. (f)(2). Pub. L. 96–265, §203(a), substituted “under age 18” for �
 
 Subsec. (f)(3). Pub. L. 96–265, §504(a), added par. (3).
 
-1973—Subsec. (a)(3)(A). Pub. L. 93–233, §9(1), struck out last sentence defining a disabled individual as one permanently and totally disabled as defined under a State plan approved under subchapter XIV or XVI of this chapter as in effect for 1972 and receiving aid under such plan (on the basis of disability for December 1973, so long as the individual is continuously disabled as so defined, which provisions were covered in subsec. (a)(3)(E) of this section.
+<b>1973</b>—Subsec. (a)(3)(A). Pub. L. 93–233, §9(1), struck out last sentence defining a disabled individual as one permanently and totally disabled as defined under a State plan approved under subchapter XIV or XVI of this chapter as in effect for 1972 and receiving aid under such plan (on the basis of disability for December 1973, so long as the individual is continuously disabled as so defined, which provisions were covered in subsec. (a)(3)(E) of this section.
 
 Subsec. (a)(3)(E). Pub. L. 93–233, §9(2), incorporated provisions of last sentence of subpar. (A) in provisions designated as subpar. (E) and inserted introductory text “Notwithstanding the provisions of subparagraphs (A) through (D)” and parenthetical phrase “(and for at least one month prior to July 1973)” after “December 1973”.
 
@@ -400,7 +400,7 @@ Section 301 of Pub. L. 92–603 provided that this section is effective Jan. 1, 
 
 #### Regulations
 
-For provisions requiring Secretary of Health and Human Services to prescribe regulations necessary to implement amendment to this section \[adding subsec. (a)(5)\] by section 2(c) of Pub. L. 98–460 not later than 180 days after Oct. 9, 1984, see section 2(g) of Pub. L. 98–460, set out as a note under section 423 of this title.
+For provisions requiring Secretary of Health and Human Services to prescribe regulations necessary to implement amendment to this section \[adding subsec.\(a)(5)\] by section 2(c) of Pub. L. 98–460 not later than 180 days after Oct. 9, 1984, see section 2(g) of Pub. L. 98–460, set out as a note under section 423 of this title.
 
 #### Retroactive Benefits
 

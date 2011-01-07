@@ -28,9 +28,9 @@ This chapter, referred to in subsec. (a), was in the original “this title”. 
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–204 substituted “$5,000,000, or imprisoned not more than 20 years” for “$1,000,000, or imprisoned not more than 10 years” and “$25,000,000” for “$2,500,000”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–204 substituted “$5,000,000, or imprisoned not more than 20 years” for “$1,000,000, or imprisoned not more than 10 years” and “$25,000,000” for “$2,500,000”.
 
-1998—Subsec. (c)(1). Pub. L. 105–366, §2(d)(1), (2), substituted “subsection (a) or (g) of section 78dd–1” for “section 78dd–1(a)” in subpars. (A) and (B).
+<b>1998</b>—Subsec. (c)(1). Pub. L. 105–366, §2(d)(1), (2), substituted “subsection (a) or (g) of section 78dd–1” for “section 78dd–1(a)” in subpars. (A) and (B).
 
 Subsec. (c)(2). Pub. L. 105–366, §2(d)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
@@ -40,7 +40,7 @@ Subsec. (c)(2). Pub. L. 105–366, §2(d)(3), amended par. (2) generally. Prior 
 
 “(C) Any officer, director, employee, or agent of an issuer, or stockholder acting on behalf of such issuer, who violates section 78dd–1(a) of this title shall be subject to a civil penalty of not more than $10,000 imposed in an action brought by the Commission.”
 
-1988—Subsec. (a). Pub. L. 100–704 substituted “$1,000,000” for “$100,000”, “10 years” for “five years”, “is a person other than a natural person” for “is an exchange”, and “$2,500,000” for “$500,000”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–704 substituted “$1,000,000” for “$100,000”, “10 years” for “five years”, “is a person other than a natural person” for “is an exchange”, and “$2,500,000” for “$500,000”.
 
 Subsec. (c). Pub. L. 100–418 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
@@ -52,21 +52,21 @@ Subsec. (c). Pub. L. 100–418 amended subsec. (c) generally. Prior to amendment
 
 “(4) Whenever a fine is imposed under paragraph (2) or (3) of this subsection upon any officer, director, stockholder, employee, or agent of an issuer, such fine shall not be paid, directly or indirectly, by such issuer.”
 
-1984—Subsec. (a). Pub. L. 98–376 substituted “$100,000” for “$10,000”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–376 substituted “$100,000” for “$10,000”.
 
-1977—Subsec. (a). Pub. L. 95–213, §103(b)(1), inserted “(other than section 78dd–1 of this title)” after “Any person who willfully violates any provision of this chapter”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–213, §103(b)(1), inserted “(other than section 78dd–1 of this title)” after “Any person who willfully violates any provision of this chapter”.
 
 Subsec. (c). Pub. L. 95–213, §103(b)(2), added subsec. (c).
 
-1975—Subsec. (a). Pub. L. 94–29, §§23(1), 27(b), inserted “or by any self-regulatory organization in connection with an application for membership or participation therein or to become associated with a member thereof,” and substituted “or imprisoned not more than five years” for “or imprisoned not more than two years”.
+<b>1975</b>—Subsec. (a). Pub. L. 94–29, §§23(1), 27(b), inserted “or by any self-regulatory organization in connection with an application for membership or participation therein or to become associated with a member thereof,” and substituted “or imprisoned not more than five years” for “or imprisoned not more than two years”.
 
 Subsec. (c). Pub. L. 94–29, §23(2), struck out subsec. (c) which rendered this section inapplicable to violations of any rule or regulation prescribed pursuant to paragraph (3) of subsection (c) of section 78<i>o</i> of this title.
 
-1964—Subsec. (b). Pub. L. 88–467 substituted “required to be filed under” for “pursuant to an undertaking contained in a registration statement as provided in” and inserted “or any rule or regulation thereunder” after “section 78<i>o</i> of this title.”
+<b>1964</b>—Subsec. (b). Pub. L. 88–467 substituted “required to be filed under” for “pursuant to an undertaking contained in a registration statement as provided in” and inserted “or any rule or regulation thereunder” after “section 78<i>o</i> of this title.”
 
-1938—Subsec. (c). Act June 25, 1938, added subsec. (c).
+<b>1938</b>—Subsec. (c). Act June 25, 1938, added subsec. (c).
 
-1936—Subsec. (a). Act May 27, 1936, inserted “or any undertaking contained in a registration statement as provided in subsection (d) of section 78<i>o</i> of this title”.
+<b>1936</b>—Subsec. (a). Act May 27, 1936, inserted “or any undertaking contained in a registration statement as provided in subsection (d) of section 78<i>o</i> of this title”.
 
 Subsec. (b). Act May 27, 1936, added subsec. (b).
 

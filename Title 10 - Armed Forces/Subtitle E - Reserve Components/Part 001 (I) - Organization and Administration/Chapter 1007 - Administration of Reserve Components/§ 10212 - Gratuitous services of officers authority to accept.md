@@ -16,11 +16,11 @@ Provisions similar to those in this section were contained in section 279 of thi
 
 #### Amendments
 
-1994—Pub. L. 103–355 added subsec. (a) and designated existing provisions as subsec. (b).
+<b>1994</b>—Pub. L. 103–355 added subsec. (a) and designated existing provisions as subsec. (b).
 
 #### Effective Date of 1994 Amendment
 
-Section 3021(b) of Pub. L. 103–355 provided that: “Notwithstanding section 10001 \[set out as a note under section 251 of Title 41, Public Contracts\], the amendments made by subsection (a) \[amending this section\] shall take effect on December 1, 1994, immediately after the amendments made by the Reserve Officer Personnel Management Act \[Pub. L. 103–337, see Tables for classification\].”
+Pub. L. 103–355, title III, §3021(b), Oct. 13, 1994, 108 Stat. 3333, provided that: “Notwithstanding section 10001 \[set out as a note under section 2302 of this title\], the amendments made by subsection (a) \[amending this section\] shall take effect on December 1, 1994, immediately after the amendments made by the Reserve Officer Personnel Management Act \[Pub. L. 103–337, see Tables for classification\].”
 
 #### Effective Date
 

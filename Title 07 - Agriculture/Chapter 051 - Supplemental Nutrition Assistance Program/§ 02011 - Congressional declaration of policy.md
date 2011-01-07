@@ -44,7 +44,7 @@ Pub. L. 103–66, title XIII, §13901(a), Aug. 10, 1993, 107 Stat. 672, provided
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–624, title XVII, §1701, Nov. 28, 1990, 104 Stat. 3783, provided that: “This title \[enacting section 2032 of this title, amending sections 1431, 1431e, 2012, 2014 to 2018, 2020 to 2022, 2024 to 2028, 3175, and 3175e of this title, section 6109 of Title 26, Internal Revenue Code, and sections 405 and 9904 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 612c, 2012, 2014,2020, 2025, and 2028 of this title and section 1751 of Title 42, and amending provisions set out as notes under sections 612c and 2012 of this title\] may be cited as the ‘Mickey Leland Memorial Domestic Hunger Relief Act’.”
+Pub. L. 101–624, title XVII, §1701, Nov. 28, 1990, 104 Stat. 3783, provided that: “This title \[enacting section 2032 of this title, amending sections 1431, 1431e, 2012, 2014 to 2018, 2020 to 2022, 2024 to 2028, 3175, and 3175e of this title, section 6109 of Title 26, Internal Revenue Code, and sections 405 and 9904 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 612c, 2012, 2014, 2020, 2025, and 2028 of this title and section 1751 of Title 42, and amending provisions set out as notes under sections 612c and 2012 of this title\] may be cited as the ‘Mickey Leland Memorial Domestic Hunger Relief Act’.”
 
 #### Short Title of 1988 Amendments
 
@@ -74,7 +74,7 @@ Pub. L. 94–339, §1, July 5, 1976, 90 Stat. 799, provided: “That this Act \[
 
 #### Short Title
 
-Pub. L. 88–525, §1, Aug. 31, 1964, 78 Stat. 703, as amended by Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958; Pub. L. 110–234, title IV, §4001(a), May 22, 2008, 122 Stat. 1092; Pub. L. 110–246, §4(a), title IV, §4001(a), June 18, 2008, 122 Stat. 1664, 1853, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Food and Nutrition Act of 2008’.”
+Pub. L. 88–525, §1, Aug. 31, 1964, 78 Stat. 703, as amended by Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91Stat. 958; Pub. L. 110–234, title IV, §4001(a), May 22, 2008, 122 Stat. 1092; Pub. L. 110–246, §4(a), title IV, §4001(a), June 18, 2008, 122 Stat. 1664, 1853, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Food and Nutrition Act of 2008’.”
 
 #### Study of National Database for Federal Means-Tested Public Assistance Programs
 
@@ -124,7 +124,7 @@ Establisment \[sic\].—There is established an Advisory Committee on Welfare Si
 
 &emsp;“(2)
 
-Qualifications.—The members of the Committee shall be individuals who are familiar with the rules, goals, and limitations of Federal supplemental nutrition assistance program benefits, cash, medical,and housing assistance programs for low-income families and individuals, and may include individuals who have demonstrated expertise in evaluating the operations of and interaction among such programs as they affect administrators and recipients, persons who have experience in administering such programs at the Federal, State, or local level, and representatives of administrators and recipients affected by such programs.
+Qualifications.—The members of the Committee shall be individuals who are familiar with the rules, goals, and limitations of Federal supplemental nutrition assistance program benefits, cash, medical, and housing assistance programs for low-income families and individuals, and may include individuals who have demonstrated expertise in evaluating the operations of and interaction among such programs as they affect administrators and recipients, persons who have experience in administering such programs at the Federal, State, or local level, and representatives of administrators and recipients affected by such programs.
 
 “(b)
 

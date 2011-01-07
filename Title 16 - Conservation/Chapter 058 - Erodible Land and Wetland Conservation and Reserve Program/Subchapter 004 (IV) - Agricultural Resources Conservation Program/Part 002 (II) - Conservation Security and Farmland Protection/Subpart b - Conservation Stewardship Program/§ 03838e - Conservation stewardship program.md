@@ -28,7 +28,7 @@ During each of fiscal years 2009 through 2012, the Secretary shall carry out a c
 
 #### (3) Agricultural operation
 
-&emsp;Eligible land shall include all acres of an agricultural operation of a producer, whether or not contiguous, that are under the effective control of the producer at the time the producer enters into a stewardship contract, and is operated by the producer with equipment,labor, management, and production or cultivation practices that are substantially separate from other agricultural operations, as determined by the Secretary.
+&emsp;Eligible land shall include all acres of an agricultural operation of a producer, whether or not contiguous, that are under the effective control of the producer at the time the producer enters into a stewardship contract, and is operated by the producer with equipment, labor, management, and production or cultivation practices that are substantially separate from other agricultural operations, as determined by the Secretary.
 
 #### (c) Exclusions
 

@@ -48,7 +48,7 @@ The Secretary shall not use the results of enforcement activities, such as the n
 
 #### Amendments
 
-1998—Subsec. (h). Pub. L. 105–198 added subsec. (h).
+<b>1998</b>—Subsec. (h). Pub. L. 105–198 added subsec. (h).
 
 #### Change of Name
 

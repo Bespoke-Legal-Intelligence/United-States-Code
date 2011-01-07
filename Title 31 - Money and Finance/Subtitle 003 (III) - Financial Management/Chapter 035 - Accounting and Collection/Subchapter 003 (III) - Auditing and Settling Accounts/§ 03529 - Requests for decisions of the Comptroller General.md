@@ -58,5 +58,5 @@ This Act, referred to in subsec. (b)(2), probably means Pub. L. 104–316, Oct. 
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–316 designated existing provisions as par. (1) and substituted “Except as provided in paragraph (2), the Comptroller General” for “The Comptroller General”, and added par. (2).
+<b>1996</b>—Subsec. (b). Pub. L. 104–316 designated existing provisions as par. (1) and substituted “Except as provided in paragraph (2), the Comptroller General” for “The Comptroller General”, and added par. (2).
 

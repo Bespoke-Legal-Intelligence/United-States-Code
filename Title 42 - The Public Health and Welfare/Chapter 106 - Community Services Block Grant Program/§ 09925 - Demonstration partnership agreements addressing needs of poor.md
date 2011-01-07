@@ -72,7 +72,7 @@ As used in this section—
 
 #### (h) Authorization of appropriations
 
-(1) There are authorized to be appropriated $30,000,000 for fiscal year 1995, and such sums asmay be necessary for fiscal years 1996, 1997, and 1998, to carry out this section.
+(1) There are authorized to be appropriated $30,000,000 for fiscal year 1995, and such sums as may be necessary for fiscal years 1996, 1997, and 1998, to carry out this section.
 
 (2) Of the amounts appropriated for this section, not less than 30 percent and not more than 40 percent shall be used to carry out the programs authorized under subsection (c) of this section.
 
@@ -96,7 +96,7 @@ Section was enacted as part of the Human Services Reauthorization Act of 1986, a
 
 #### Amendments
 
-1994—Subsec. (a)(3). Pub. L. 103–252, §207(1), added par. (3).
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–252, §207(1), added par. (3).
 
 Subsec. (b)(1)(B). Pub. L. 103–252, §207(2), substituted “After the first funding period” for “After the first fiscal year”.
 
@@ -110,15 +110,15 @@ Subsec. (h). Pub. L. 103–252, §207(4), amended heading and text of subsec. (h
 
 “(2) There are authorized to be appropriated $10,000,000 for fiscal year 1991 and such sums as may be necessary in each of the fiscal years 1992 through 1994, to carry out subsection (c) of this section.”
 
-1990—Subsecs. (c) to (e). Pub. L. 101–501, §601(2), (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively. Former subsec. (e) redesignated (f).
+<b>1990</b>—Subsecs. (c) to (e). Pub. L. 101–501, §601(2), (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively. Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 101–501, §601(1), (2), redesignated subsec. (e) as (f) and substituted “subsection (d)” for “subsection (c)” in par. (2) and “subsection (e)(2)” for “subsection (d)(2)” in par. (4). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 101–501, §601(1), (2), redesignated subsec. (e) as (f) and substituted “subsection (d)” for “subsection (c)” in par. (2) and “subsection (e)(2)” for“subsection (d)(2)” in par. (4). Former subsec. (f) redesignated (g).
 
 Subsec. (g). Pub. L. 101–501, §601(2), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
 Subsec. (h). Pub. L. 101–501, §§601(2), 602, redesignated subsec. (g) as (h), designated existing provisions as par. (1), substituted “$10,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992, 1993, and 1994” for “$5,000,000 for each of the fiscal years 1987, 1988, and 1989, and $7,000,000 for fiscal year 1990”, inserted “(other than subsection (c) of this section)” before period at end, and added par. (2).
 
-1989—Subsec. (a)(1). Pub. L. 101–204, §705(a)(1), substituted “stimulate the development of new approaches to provide for greater self-sufficiency of the poor, to test and evaluate such new approaches, to disseminate project results and evaluation findings so that such approaches can be replicated, and to strengthen the integration, coordination, and redirection of activities to promote maximum self-sufficiency among the poor” for “provide for the self-sufficiency of the Nation's poor”.
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–204, §705(a)(1), substituted “stimulate the development of new approaches to provide for greater self-sufficiency of the poor, to test and evaluate such new approaches, to disseminate project results and evaluation findings so that such approaches can be replicated, and to strengthen the integration, coordination, and redirection of activities to promote maximum self-sufficiency among the poor” for “provide for the self-sufficiency of the Nation's poor”.
 
 Subsec. (a)(1)(D). Pub. L. 101–204, §705(a)(2), added subpar. (D).
 
@@ -126,7 +126,7 @@ Subsec. (b)(1). Pub. L. 101–204, §705(b)(1), designated existing provisions a
 
 Subsec. (b)(3). Pub. L. 101–204, §705(b)(2), inserted “in each fiscal year” after “than one grant”, substituted “$350,000” for “$250,000”, and inserted at end “Not more than 2 grants may be made under this section to an eligible entity to carry out a particular program.”
 
-Subsec. (c). Pub. L. 101–204, §705(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “As soon as practicable, but no later than 90days after the expiration of the fiscal year for which any grant is awarded under this section, the Secretary shall prepare and make available upon request to each State and eligible entity descriptions of the demonstration programs assisted under this section, and any relevant information developed and results achieved, so as to provide models for innovative programs to other eligible entities.”
+Subsec. (c). Pub. L. 101–204, §705(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “As soon as practicable, but no later than 90 days after the expiration of the fiscal year for which any grant is awarded under this section, the Secretary shall prepare and make available upon request to each State and eligible entity descriptions of the demonstration programs assisted under this section, and any relevant information developed and results achieved, so as to provide models for innovative programs to other eligible entities.”
 
 Subsecs. (d), (e). Pub. L. 101–204, §705(f)(2), added subsecs. (d) and (e). Former subsecs. (d) and (e) redesignated (f) and (g), respectively.
 

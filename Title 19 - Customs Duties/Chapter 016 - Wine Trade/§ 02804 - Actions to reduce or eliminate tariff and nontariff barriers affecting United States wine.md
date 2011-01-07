@@ -6,7 +6,7 @@ The President shall direct the Trade Representative to enter into consultations 
 
 #### (b) Reports to Congress on actions taken to expand export opportunities
 
-(1) the <sup>1</sup> President shall notify each of the Committees regarding the extent and effect of the efforts undertaken since the submission of the report required under section 854(a) of the Trade Agreements Act of 1979 \[19 U.S.C. 2135 note\], and during the 12-month period beginningon October 30, 1984, to expand opportunities in each major wine trading country for exports of United States wine. Such notification, which shall be in the form of a separate written report (that must be submitted within 30 days after the close of that 12-month period) for each major wine trading country, shall include—
+(1) the <sup>1</sup> President shall notify each of the Committees regarding the extent and effect of the efforts undertaken since the submission of the report required under section 854(a) of the Trade Agreements Act of 1979 \[19 U.S.C. 2135 note\], and during the 12-month period beginning on October 30, 1984, to expand opportunities in each major wine trading country for exports of United States wine. Such notification, which shall be in the form of a separate written report (that must be submitted within 30 days after the close of that 12-month period) for each major wine trading country, shall include—
 
 &emsp;(A) a description of each act, policy, and practice (and of its legal basis and operation) in that country that constitutes a tariff barrier or nontariff barrier to (or other distortion of) trade in United States wine (and that description shall be based upon an updating of the report that was submitted to the Congress under section 854(a) of the Trade Agreements Act of 1979);
 
@@ -46,7 +46,7 @@ The Trade Act of 1974, referred to in subsecs. (b)(1)(C)(i) and (c), is Pub. L. 
 
 Pub. L. 100–418, title I, §1125, Aug. 23, 1988, 102 Stat. 1147, provided that: “Before the close of the 13-month period beginning on the date of the enactment of this Act \[Aug. 23, 1988\], the President shall update each report that the President submitted to the Committee on Ways and Means and the Committee on Finance under section 905(b) of the Wine Equity and Export Expansion Act of 1984 (19 U.S.C. 2804 \[(b)\]) and submit the updated report to both of such committees. Each updated report shall contain, with respect to the major wine trading country concerned—
 
-&emsp;“(1) a description of each tariff or nontariff barrier to (or other distortion of) trade in United States wine of that country with respect to which the United States Trade Representative has carried out consultations since the report required under such section 905(b) was submitted;
+&emsp;“(1) a description of each tariff or nontariff barrier to (or other distortion of) trade in United States wineof that country with respect to which the United States Trade Representative has carried out consultations since the report required under such section 905(b) was submitted;
 
 &emsp;“(2) the status of the consultations described under paragraph (1); and
 

@@ -18,5 +18,5 @@ Another prior section 810 of Pub. L. 88–452, title VIII, as added Pub. L. 90�
 
 #### Amendments
 
-1992—Pub. L. 102–375 substituted “Commissioner” for “Secretary”, designated existing provisions as subsec. (a), and added subsec. (b).
+<b>1992</b>—Pub. L. 102–375 substituted “Commissioner” for “Secretary”, designated existing provisions as subsec. (a), and added subsec. (b).
 

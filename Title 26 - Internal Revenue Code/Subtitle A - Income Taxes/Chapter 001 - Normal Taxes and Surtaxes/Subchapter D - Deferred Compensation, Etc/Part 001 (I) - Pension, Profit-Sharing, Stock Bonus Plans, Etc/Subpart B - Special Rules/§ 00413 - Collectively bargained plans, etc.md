@@ -78,7 +78,7 @@ In the case of a plan maintained by more than one employer—
 
 #### (B) Other plans
 
-&emsp;&emsp;In the case of a plan not described in subparagraph (A), the requirements of section 412 shall be determined as if all participants in the plan were employed by a single employer unless the plan administrator elects not later than the close of the first plan year of the plan beginning after the date of enactment of the Technical and Miscellaneous Revenue Act of 1988 to have the provisions of subparagraph (A) apply. An election under the preceding sentence shall take effect for the plan year in which made and, once made, may be revoked only with the consent of the Secretary.
+&emsp;&emsp;In the case of a plan not described in subparagraph (A), the requirements of section 412 shall be determined as if all participants in the plan were employed by a single employer unless the plan administrator elects not later than the close of the first plan yearof the plan beginning after the date of enactment of the Technical and Miscellaneous Revenue Act of 1988 to have the provisions of subparagraph (A) apply. An election under the preceding sentence shall take effect for the plan year in which made and, once made, may be revoked only with the consent of the Secretary.
 
 #### (5) Liability for funding tax
 
@@ -92,7 +92,7 @@ In the case of a plan maintained by more than one employer—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a plan established after December 31, 1988, each applicable limitationprovided by section 404(a) shall be determined as if each employer were maintaining a separate plan.
+&emsp;&emsp;In the case of a plan established after December 31, 1988, each applicable limitation provided by section 404(a) shall be determined as if each employer were maintaining a separate plan.
 
 #### (B) Other plans
 
@@ -126,9 +126,9 @@ The date of enactment of the Technical and Miscellaneous Revenue Act of 1988, re
 
 #### Amendments
 
-1990—Subsec. (c)(7)(B). Pub. L. 101–508 substituted “Assets” for “Asset” in heading.
+<b>1990</b>—Subsec. (c)(7)(B). Pub. L. 101–508 substituted “Assets” for “Asset” in heading.
 
-1988—Subsec. (b)(9). Pub. L. 100–647, §1011(h)(10), added par. (9).
+<b>1988</b>—Subsec. (b)(9). Pub. L. 100–647, §1011(h)(10), added par. (9).
 
 Subsec. (c). Pub. L. 100–647, §6058(c), struck out at end “Allocations of amounts under paragraphs (4), (5), and (6), among the employers maintaining the plan, shall not be inconsistent with regulations prescribed for this purpose by the Secretary.”
 
@@ -138,15 +138,15 @@ Subsec. (c)(6). Pub. L. 100–647, §6058(b), amended par. (6) generally. Prior 
 
 Subsec. (c)(7). Pub. L. 100–647, §6058(c), added par. (7).
 
-1980—Subsec. (b)(6). Pub. L. 96–364 inserted provisions relating to withdrawal liability of employer.
+<b>1980</b>—Subsec. (b)(6). Pub. L. 96–364 inserted provisions relating to withdrawal liability of employer.
 
-1976—Subsecs. (b), (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (b), (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 1988 Amendment
 
 Amendment by section 1011(h)(10) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 6058(d) of Pub. L. 100–647 provided that: “Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to plan years beginning after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Section 6058(d) of Pub. L. 100–647 provided that: “Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shallapply to plan years beginning after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 #### Effective Date of 1980 Amendment
 

@@ -122,7 +122,7 @@ The Special Trustee shall report to the Secretary and the Committee on Natural R
 
 #### Amendments
 
-1996—Subsec. (c)(5)(D). Pub. L. 104–109 substituted “subparagraph (C)” for “paragraph (3)(B)”.
+<b>1996</b>—Subsec. (c)(5)(D). Pub. L. 104–109 substituted “subparagraph (C)” for “paragraph (3)(B)”.
 
 #### Lands Title Report Commission
 
@@ -194,7 +194,7 @@ Powers.—
 
 &emsp;“(1)
 
-Hearings and sessions.—The Commission may, for the purpose of carrying out this section, hold hearings, sit and act at times and places, taketestimony, and receive evidence as the Commission considers appropriate.
+Hearings and sessions.—The Commission may, for the purpose of carrying out this section, hold hearings, sit and act at times and places, take testimony, and receive evidence as the Commission considers appropriate.
 
 &emsp;“(2)
 

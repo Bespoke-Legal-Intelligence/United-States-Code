@@ -24,11 +24,11 @@ Other provisions of said section 983 of title 12, U.S.C., 1940 ed., were incorpo
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-1982—Pub. L. 97–297 substituted “or Federal land bank” for “, Federal land bank, or joint-stock land bank”.
+<b>1982</b>—Pub. L. 97–297 substituted “or Federal land bank” for “, Federal land bank, or joint-stock land bank”.
 
-1959—Pub. L. 86–168 substituted “Federal land bank associations” for “national farm loan association”.
+<b>1959</b>—Pub. L. 86–168 substituted “Federal land bank associations” for “national farm loan association”.
 
 #### Effective Date of 1959 Amendment
 

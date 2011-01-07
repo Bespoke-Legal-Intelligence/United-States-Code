@@ -1,6 +1,6 @@
 ### §5546a. Differential pay for certain employees of the Federal Aviation Administration and the Department of Defense
 
-(a) The Administrator of the Federal Aviation Administration (hereafter in this section referred to as the “Administrator”) and the Secretary of Defense (hereafter in this section referred to as the “Secretary”) may pay premiumpay at the rate of 5 per centum of the applicable rate of basic pay to—
+(a) The Administrator of the Federal Aviation Administration (hereafter in this section referred to as the “Administrator”) and the Secretary of Defense (hereafter in this section referred to as the “Secretary”) may pay premium pay at the rate of 5 per centum of the applicable rate of basic pay to—
 
 &emsp;(1) any employee of the Federal Aviation Administration or the Department of Defense who is—
 

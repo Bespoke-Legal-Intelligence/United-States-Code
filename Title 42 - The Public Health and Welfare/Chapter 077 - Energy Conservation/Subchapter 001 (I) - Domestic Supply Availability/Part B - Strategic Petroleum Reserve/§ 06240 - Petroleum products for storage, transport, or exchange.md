@@ -50,7 +50,7 @@ If the Secretary finds that a severe energy supply interruption may be imminent,
 
 #### (h) Purchase from stripper well properties
 
-(1) If the President finds that declines in the production of oil from domestic resources pose a threat to national energy security, the President may direct the Secretary to acquire oil from domestic production of stripper well properties for storage in the Strategic Petroleum Reserve. Except as provided in paragraph (2), the Secretary may set such terms and conditions as he deems necessary for such acquisition.
+(1) If the President finds that declines in the production of oil from domestic resources pose athreat to national energy security, the President may direct the Secretary to acquire oil from domestic production of stripper well properties for storage in the Strategic Petroleum Reserve. Except as provided in paragraph (2), the Secretary may set such terms and conditions as he deems necessary for such acquisition.
 
 (2) Crude oil purchased by the Secretary pursuant to this subsection shall be by competitive bid. The price paid by the Secretary—
 
@@ -62,9 +62,9 @@ If the Secretary finds that a severe energy supply interruption may be imminent,
 
 #### Amendments
 
-2005—Subsec. (c). Pub. L. 109–58 added subsec. (c).
+<b>2005</b>—Subsec. (c). Pub. L. 109–58 added subsec. (c).
 
-2000—Subsec. (a). Pub. L. 106–469, §103(14)(A), in introductory provisions, substituted “The Secretary may acquire, place in storage, transport, or exchange” for “The Secretary is authorized, for purposes of implementing the Strategic Petroleum Reserve Plan or the Early Storage Reserve Plan, to place in storage, transport, or exchange”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–469, §103(14)(A), in introductory provisions, substituted “The Secretary may acquire, place in storage, transport, or exchange” for “The Secretary is authorized, for purposes of implementing the Strategic Petroleum Reserve Plan or the Early Storage Reserve Plan, to place in storage, transport, or exchange”.
 
 Subsec. (a)(1). Pub. L. 106–469, §103(14)(B), struck out “, including crude oil produced from the Naval Petroleum Reserves to the extent that such production is authorized by law;” after “Federal lands”.
 
@@ -76,13 +76,13 @@ Subsecs. (c) to (e). Pub. L. 106–469, §103(14)(D), struck out subsecs. (c) to
 
 Subsec. (g). Pub. L. 106–469, §103(14)(D), struck out subsec. (g) which required the Secretary to conduct a test program of storage of refined petroleum products within the Reserve.
 
-1995—Subsec. (g)(7). Pub. L. 104–66 struck out par. (7) which read as follows: “No later than January 31, 1994, the Secretary shall transmit to the Congress a report on the test program. The report shall evaluate the mechanisms demonstrated under the test program, other potential mechanisms, and the purchase of facilities. The report shall include an assessment of the costs and benefits of the various mechanisms. The report shall also make recommendations with regard to future storage of refined petroleum products and contain drafts of any legislative provisions which the Secretary wishes to recommend.”
+<b>1995</b>—Subsec. (g)(7). Pub. L. 104–66 struck out par. (7) which read as follows: “No later than January 31, 1994, the Secretary shall transmit to the Congress a report on the test program. The report shall evaluate the mechanisms demonstrated under the test program, other potential mechanisms, and the purchase of facilities. The report shall include an assessment of the costs and benefits of the various mechanisms. The report shall also make recommendations with regard to future storage of refined petroleum products and contain drafts of any legislative provisions which the Secretary wishes to recommend.”
 
-1992—Subsec. (d)(2). Pub. L. 102–486, §1405, redesignated cls. (i) to (iii) as pars. (A) to (C), respectively, and struck out former par. (A) designation after “(2)”.
+<b>1992</b>—Subsec. (d)(2). Pub. L. 102–486, §1405, redesignated cls. (i) to (iii) as pars. (A) to (C), respectively, and struck out former par. (A) designation after “(2)”.
 
 Subsec. (h). Pub. L. 102–486, §1404(a), added subsec. (h).
 
-1990—Subsec. (c)(3). Pub. L. 101–383, §4(b)(1), substituted “fiscal year 1994” for “fiscal years 1988 and 1989” and “1,000,000,000” for “at least 750,000,000”.
+<b>1990</b>—Subsec. (c)(3). Pub. L. 101–383, §4(b)(1), substituted “fiscal year 1994” for “fiscal years 1988 and 1989” and “1,000,000,000” for “at least 750,000,000”.
 
 Subsec. (d)(1)(A). Pub. L. 101–383, §4(c), inserted “Government owned facilities of” after “within”.
 
@@ -96,7 +96,7 @@ Subsec. (g). Pub. L. 101–548 inserted “with regard to future storage of refi
 
 Pub. L. 101–383, §7, added subsec. (g).
 
-1986—Subsec. (c)(3). Pub. L. 99–509, §3202(a), substituted “fiscal year 1987 and continuing through fiscal years 1988 and 1989” for “fiscal year 1986 and continuing through fiscal years 1987 and 1988”, “750,000,000 barrels” for “527,000,000 barrels”, and “at the highest practicable fill rate achievable, subject to the availability of appropriated funds” for “at a level sufficient to assure a minimum average annual fill-rate of at least 35,000 barrels per day in addition to any petroleum products acquired for the Reserve to replace petroleum products withdrawn from the Reserve as a result of a test drawdown and distribution”.
+<b>1986</b>—Subsec. (c)(3). Pub. L. 99–509, §3202(a), substituted “fiscal year 1987 and continuing through fiscal years 1988 and 1989” for “fiscal year 1986 and continuing through fiscal years 1987 and 1988”, “750,000,000 barrels” for “527,000,000 barrels”, and “at the highest practicable fill rate achievable, subject to the availability of appropriated funds” for “at a level sufficient to assure a minimum average annual fill-rate of at least 35,000 barrels per day in addition to any petroleum products acquired for the Reserve to replace petroleum products withdrawn from the Reserve as a result of a test drawdown and distribution”.
 
 Pub. L. 99–272, §7102(a), added par. (3).
 
@@ -110,7 +110,7 @@ Subsec. (d)(1)(C). Pub. L. 99–509, §3202(b)(3), struck out subpar. (C) which 
 
 Pub. L. 99–272, §7102(b)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “the fill rate is sufficient to attain a level of 500,000,000 barrels by the end of the fiscal year during which the fill rate falls below the rate established in (B).”
 
-1985—Subsec. (d)(1)(C). Pub. L. 99–88 added subpar. (C).
+<b>1985</b>—Subsec. (d)(1)(C). Pub. L. 99–88 added subpar. (C).
 
 Subsec. (d)(3). Pub. L. 99–58, §103(b)(1), added par. (3).
 
@@ -120,19 +120,19 @@ Subsec. (e)(2). Pub. L. 99–58, §102(b)(3), substituted “may become effectiv
 
 Subsec. (e)(3), (4). Pub. L. 99–58, §102(b)(3), (4), redesignated par. (4) as (3). Former par. (3), which related to application of section 6422 of this title for purposes of par. (1)(B), was struck out.
 
-1982—Subsec. (c). Pub. L. 97–229, §4(a)(1), substituted provisions directing the President to fill the Strategic Petroleum Reserve with petroleum products at a level sufficient to assure an increase at an annual rate of at least the minimum required fill rate, 300,000 barrels per day, until the quantity of petroleum products stored is at least 500,000,000 barrels, allowing for a lower minimum required fill rate of 220,000 barrels per day if the President finds that compliance with the 300,000 barrels per day rate would not be in the national interest, specifying the effective period of such a Presidential finding, authorizing a higher minimum required rate than the 220,000 barrels per day if funds are available in any fiscal year after fiscal year 1982, making the Impoundment Control Act of 1974 applicable to funds available under section 6247(b) and (e) of this title, and providing that, after the Strategic Petroleum Reserve reaches 500,000,000 barrels, the President shall seek to fill the Reserve at an annual rate of at least 300,000 barrels per day of petroleum products until the Reserve reaches 750,000,000 barrels for provisions directing the President to seek to fill the Strategic Petroleum Reserve with crude oil at a level sufficient to assure that crude oil in storage will be increased at an average annual rate of at least 300,000 barrels per day until the Reserve is at least 750,000,000 barrels.
+<b>1982</b>—Subsec. (c). Pub. L. 97–229, §4(a)(1), substituted provisions directing the President to fill the Strategic Petroleum Reserve with petroleum products at a level sufficient to assure an increase at an annual rate of at least the minimum required fill rate, 300,000 barrels per day, until the quantity of petroleum products stored is at least 500,000,000 barrels, allowing for a lower minimum required fill rate of 220,000 barrels per day if the President finds that compliance with the 300,000 barrels per day rate would not be in the national interest, specifying the effective period of such a Presidential finding, authorizing a higher minimum required rate than the 220,000 barrels per day if funds are available in any fiscal year after fiscal year 1982, making the Impoundment Control Act of 1974 applicable to funds available under section 6247(b) and (e) of this title, and providing that, after the Strategic Petroleum Reserve reaches 500,000,000 barrels, the President shall seek to fill the Reserve at an annual rate of at least 300,000 barrels per day of petroleum products until the Reserve reaches 750,000,000 barrels for provisions directing the President to seek to fill the Strategic Petroleum Reserve with crude oil at a level sufficient to assure that crude oil in storage will be increased at an average annual rate of at least 300,000 barrels per day until the Reserve is at least 750,000,000 barrels.
 
 Subsec. (e)(4). Pub. L. 97–229, §4(b)(2)(C), substituted “petroleum product” for “crude oil”.
 
-1981—Subsec. (c). Pub. L. 97–35 substituted provisions respecting fill operation at a rate of 300,000 barrels per day for provisions respecting fill operation at a rate of 100,000 barrels per day.
+<b>1981</b>—Subsec. (c). Pub. L. 97–35 substituted provisions respecting fill operation at a rate of 300,000 barrels per day for provisions respecting fill operation at a rate of 100,000 barrels per day.
 
-1980—Subsec. (c). Pub. L. 96–294, §801(a), added subsec. (c).
+<b>1980</b>—Subsec. (c). Pub. L. 96–294, §801(a), added subsec. (c).
 
 Subsec. (d). Pub. L. 96–294, §802(a), added subsec. (d).
 
 Subsec. (e). Pub. L. 96–294, §803, added subsec. (e).
 
-1978—Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+<b>1978</b>—Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
 #### Effective Date of 1982 Amendment
 
@@ -180,7 +180,7 @@ Pub. L. 101–46, §2, June 30, 1989, 103 Stat. 132, directed Secretary of Energ
 
 #### Exchange of Agricultural Products for Crude Oil To Be Delivered to Strategic Petroleum Reserve
 
-Pub. L. 99–190, §101(d) \[title II\], Dec. 19, 1985, 99 Stat. 1224, 1254, provided that: “Notwithstanding any other provision of law, the Secretary of Agriculture, at the request of the Secretary of Energy, may exchange agricultural products owned by the Commodity Credit Corporation for crude oil to be delivered to the Strategic Petroleum Reserve: <i>Provided</i>, That the Secretary of Energy shall approve the quantity, quality, delivery method, scheduling, market value and other aspects of the exchange of such agricultural products: <i>Provided further</i>, That if the volume of agricultural products to be exchanged has a value in excess of the market value of the crude oil acquired by such exchange, then the Secretary of Agriculture shall require as part of the terms and conditions of the exchange that the party or entity providing such crude oil shall agree to purchase, within six months following the exchange, current crop commodities or value-added food products from United States producers or processors in an amount equal to at least one-half the difference between the value of the commodities received in exchange and the market value of the crude oil acquired for the Strategic Petroleum Reserve.”
+Pub. L. 99–190, §101(d) \[title II\], Dec. 19, 1985, 99 Stat. 1224, 1254, provided that: “Notwithstanding any other provision of law, the Secretary of Agriculture, at the request of the Secretary of Energy, may exchange agricultural products owned by the Commodity Credit Corporation for crude oil to be delivered to the Strategic Petroleum Reserve: <i>Provided</i>, That the Secretary of Energy shall approve the quantity, quality, delivery method, scheduling, market value and other aspects of the exchange of such agricultural products: <i>Provided further</i>, That if the volume of agricultural products tobe exchanged has a value in excess of the market value of the crude oil acquired by such exchange, then the Secretary of Agriculture shall require as part of the terms and conditions of the exchange that the party or entity providing such crude oil shall agree to purchase, within six months following the exchange, current crop commodities or value-added food products from United States producers or processors in an amount equal to at least one-half the difference between the value of the commodities received in exchange and the market value of the crude oil acquired for the Strategic Petroleum Reserve.”
 
 #### Allocation to Strategic Petroleum Reserve of Lower Tier Crude Oil and Federal Royalty Oil; Procedures Applicable, Authorities, Etc.
 

@@ -34,9 +34,9 @@ Minor changes in phraseology were made.
 
 #### Amendments
 
-1994—Pub. L. 103–322, in eighth par., substituted “fined under this title” for “fined not more than $5,000” after “thereof, shall be” and for “fined not more than $10,000” after “offense, and shall be”.
+<b>1994</b>—Pub. L. 103–322, in eighth par., substituted “fined under this title” for “fined not more than $5,000” after “thereof, shall be” and for “fined not more than $10,000” after “offense, and shall be”.
 
-1971—Pub. L. 91–662, §3(1), in second par., struck out “preventing conception or” before “producing abortion”.
+<b>1971</b>—Pub. L. 91–662, §3(1), in second par., struck out “preventing conception or” before “producing abortion”.
 
 Pub. L. 91–662, §3(1), in third par., struck out “preventing conception or” after “apply it for”.
 
@@ -46,9 +46,9 @@ Pub. L. 91–662, §3(1), in fifth par., struck out “preventing conception or�
 
 Pub. L. 91–662, §6(3), in eighth par., inserted “or section 3001(e) of title 39” after “this section”. Section 5(b) of Pub. L. 91–662 inserted reference to section 4001(d) of Title 39, The Postal Service, which reflected provisions of Title 39 prior to the effective date of Title 39, Postal Service, as enacted by the Postal Reorganization Act. Said section 4001(d) was repealed by section 6(2) of Pub. L. 91–662, effective on the date that the Board of Governors of the Postal Service establish as the effective date for section 3001 of Title 39, Postal Service.
 
-1958—Pub. L. 85–796 provided in eighth par. for continuing offenses by use of the mails instead of by deposits for mailing and for punishment for subsequent offenses.
+<b>1958</b>—Pub. L. 85–796 provided in eighth par. for continuing offenses by use of the mails instead of by deposits for mailing and for punishment for subsequent offenses.
 
-1955—Act June 28, 1955, §1, in first par., substituted “indecent, filthy or vile article, matter, thing, device or substance” for “or filthy book, pamphlet, picture paper, letter, writing, print, or other publication of an indecent character”.
+<b>1955</b>—Act June 28, 1955, §1, in first par., substituted “indecent, filthy or vile article, matter, thing, device or substance” for “or filthy book, pamphlet, picture paper, letter, writing, print, or other publication of an indecent character”.
 
 Act June 28, 1955, §2, struck out fifth par., which read as follows: “Every letter, packet, or package, or other mail matter containing any filthy, vile, or indecent thing, device or substance; and”.
 

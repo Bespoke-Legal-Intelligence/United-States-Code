@@ -12,5 +12,5 @@ This chapter, referred to in subsec. (a), was in the original “this subtitle�
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–382 struck out subsec. (b) which related to termination of duty-free treatment. Notwithstanding directory language repealing “section 218 of the Caribbean Basin Economic Recovery Act (19 U.S.C. 2706(b))”, amendment was executed by repealing subsec. (b) to reflect the probable intent of Congress in view of catchline for section 211 of Pub. L. 101–382 which read “Repeal of termination date on duty-free treatment under the Act”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–382 struck out subsec. (b) which related to termination of duty-free treatment. Notwithstanding directory language repealing “section 218 of the Caribbean Basin Economic Recovery Act (19 U.S.C. 2706(b))”, amendment was executed by repealing subsec. (b) to reflect the probable intent of Congress in view of catchline for section 211 of Pub. L. 101–382 which read “Repeal of termination date on duty-free treatment under the Act”.
 

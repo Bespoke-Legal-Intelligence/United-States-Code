@@ -14,7 +14,7 @@ A prior section 5403, act Aug. 16, 1954, ch. 736, 68A Stat. 674, consisted of pr
 
 #### Amendments
 
-1982—Par. (3). Pub. L. 97–258 substituted “section 9303 of title 31, United States Code” for “6 U.S.C. 15”.
+<b>1982</b>—Par. (3). Pub. L. 97–258 substituted “section 9303 of title 31, United States Code” for “6 U.S.C. 15”.
 
-1976—Par. (1). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Par. (1). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 

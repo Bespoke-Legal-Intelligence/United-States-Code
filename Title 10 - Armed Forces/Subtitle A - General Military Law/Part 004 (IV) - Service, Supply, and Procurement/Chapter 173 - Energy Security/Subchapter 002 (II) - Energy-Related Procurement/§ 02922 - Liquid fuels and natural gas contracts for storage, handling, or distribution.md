@@ -52,11 +52,11 @@ In 10:2388(c), the title 31 citation is substituted on authority of Pub. L. 97�
 
 #### Amendments
 
-2006—Pub. L. 109–364 renumbered section 2388 of this title as this section.
+<b>2006</b>—Pub. L. 109–364 renumbered section 2388 of this title as this section.
 
-1994—Subsec. (a). Pub. L. 103–355 substituted “liquid fuels or natural gas” for “liquid fuels and natural gas”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–355 substituted “liquid fuels or natural gas” for “liquid fuels and natural gas”.
 
-1993—Pub. L. 103–160, §825(b), substituted “Liquid fuels and natural gas: contracts for storage, handling, or distribution” for “Liquid fuels: contracts for storage, handling, and distribution” as section catchline.
+<b>1993</b>—Pub. L. 103–160, §825(b), substituted “Liquid fuels and natural gas: contracts for storage, handling, or distribution” for “Liquid fuels: contracts for storage, handling, and distribution” as section catchline.
 
 Subsecs. (a), (b). Pub. L. 103–160, §825(a)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 
@@ -66,11 +66,11 @@ Subsecs. (a), (b). Pub. L. 103–160, §825(a)(1), added subsecs. (a) and (b) an
 
 Subsec. (c). Pub. L. 103–160, §825(a)(2), inserted heading.
 
-1990—Subsec. (d). Pub. L. 101–510 struck out subsec. (d) which read as follows: “The Secretary concerned shall report to the Committees on Armed Services of the Senate and the House of Representatives the terms of the contracts made under this section and the names of the contractors. The reports shall be made at such times and in such form as may be agreed upon by the Secretary and those Committees.”
+<b>1990</b>—Subsec. (d). Pub. L. 101–510 struck out subsec. (d) which read as follows: “The Secretary concerned shall report to the Committees on Armed Services of the Senate and the House of Representatives the terms of the contracts made under this section and the names of the contractors. The reports shall be made at such times and in such form as may be agreed upon by the Secretary and those Committees.”
 
-1984—Subsec. (c). Pub. L. 98–525 substituted “subsections (a) and (b) of section 3324” for “section 3324(a) and (b)”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–525 substituted “subsections (a) and (b) of section 3324” for “section 3324(a) and (b)”.
 
-1982—Subsec. (c). Pub. L. 97–295, §1(27), substituted “section 3324(a) and (b) of title 31” for “section 3648 of the Revised Statutes (31 U.S.C. 529)”, clarifying the ambiguity created by previous amendments by Pub. L. 97–214 and Pub. L. 97–258.
+<b>1982</b>—Subsec. (c). Pub. L. 97–295, §1(27), substituted “section 3324(a) and (b) of title 31” for “section 3648 of the Revised Statutes (31 U.S.C. 529)”, clarifying the ambiguity created by previous amendments by Pub. L. 97–214 and Pub. L. 97–258.
 
 Pub. L. 97–258, §3(b)(6), directed the substitution of “section 3324(a) and (b) of title 31” for “section 529 of title 31”, which could not be executed in view of prior substitution of language by Pub. L. 97–214.
 

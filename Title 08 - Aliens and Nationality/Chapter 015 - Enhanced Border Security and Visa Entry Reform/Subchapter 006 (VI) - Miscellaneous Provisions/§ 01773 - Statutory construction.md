@@ -4,3 +4,7 @@ Nothing in this chapter shall be construed to impose requirements that are incon
 
 (Pub. L. 107–173, title VI, §604, May 14, 2002, 116 Stat. 565.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 107–173, May 14, 2002, 116 Stat. 543, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
+

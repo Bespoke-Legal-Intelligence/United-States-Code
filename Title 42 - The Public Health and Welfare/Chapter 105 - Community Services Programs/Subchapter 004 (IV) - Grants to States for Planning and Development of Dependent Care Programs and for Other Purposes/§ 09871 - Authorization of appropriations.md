@@ -6,11 +6,11 @@ For the purpose of making allotments to States to carry out the activities descr
 
 #### Amendments
 
-1994—Pub. L. 103–252 substituted “is authorized to be appropriated $13,000,000 for fiscal year 1995” for “are authorized to be appropriated $20,000,000 for each of the fiscal years 1990 and 1991, and such sums as may be necessary for fiscal years 1992, 1993, and 1994”.
+<b>1994</b>—Pub. L. 103–252 substituted “is authorized to be appropriated $13,000,000 for fiscal year 1995” for “are authorized to be appropriated $20,000,000 for each of the fiscal years 1990 and 1991, and such sums as may be necessary for fiscal years 1992, 1993, and 1994”.
 
-1990—Pub. L. 101–501 substituted “are authorized” for “is authorized”, struck out “1987, 1988, 1989, and” before “1990”, and inserted “and 1991, and such sums as may be necessary for fiscal years 1992, 1993, and 1994” after “1990”.
+<b>1990</b>—Pub. L. 101–501 substituted “are authorized” for “is authorized”, struck out “1987, 1988, 1989, and” before “1990”, and inserted “and 1991, and such sums as may be necessary for fiscal years 1992, 1993, and 1994” after “1990”.
 
-1986—Pub. L. 99–425 amended section generally. Prior to amendment, section read as follows: “For the purpose of allotments to States to carry out the activities described in section 9874 of this title, there are authorized to be appropriated $20,000,000 for each of the fiscal years 1985 and 1986.”
+<b>1986</b>—Pub. L. 99–425 amended section generally. Prior to amendment, section read as follows: “For the purpose of allotments to States to carry out the activities described in section 9874 of this title, there are authorized to be appropriated $20,000,000 for each of the fiscal years 1985 and 1986.”
 
 #### Effective Date of 1994 Amendment
 

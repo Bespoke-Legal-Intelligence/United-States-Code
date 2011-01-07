@@ -102,7 +102,7 @@ The Uniform Code of Military Justice, referred to in subsec. (j), is classified 
 
 #### Amendments
 
-2006—Pub. L. 109–248, §302(3)(A), substituted “, 4246, or 4248” for “, or 4246” wherever appearing.
+<b>2006</b>—Pub. L. 109–248, §302(3)(A), substituted “, 4246, or 4248” for “, or 4246” wherever appearing.
 
 Subsec. (a)(1)(C). Pub. L. 109–248, §302(3)(C)(i), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “drug, alcohol, and other treatment programs that will assist the individual in overcoming his psychological or physical dependence; and”.
 
@@ -120,17 +120,17 @@ Subsec. (h). Pub. L. 109–248, §302(3)(F), substituted “committed” for “
 
 Subsec. (i)(B). Pub. L. 109–248, §302(3)(B), substituted “4243, 4246, or 4248” for “4243 or 4246”.
 
-1997—Subsec. (a)(3). Pub. L. 105–33, §11024(2)(C), added par. (3).
+<b>1997</b>—Subsec. (a)(3). Pub. L. 105–33, §11024(2)(C), added par. (3).
 
 Subsec. (j). Pub. L. 105–33, §11024(3), substituted “Sections 4241, 4242, 4243, and 4244 do” for “This chapter does”.
 
-1994—Subsec. (h). Pub. L. 103–322 substituted “subsection (e) of section 4241, 4244, 4245, or 4246, or subsection (f) of section 4243,” for “subsection (e) of section 4241, 4243, 4244, 4245, or 4246,”.
+<b>1994</b>—Subsec. (h). Pub. L. 103–322 substituted “subsection (e) of section 4241, 4244, 4245, or 4246, or subsection (f) of section 4243,” for “subsection (e) of section 4241, 4243, 4244, 4245, or 4246,”.
 
-1988—Subsec. (b). Pub. L. 100–690, §7047(a), substituted “psychologist” for “clinical psychologist” in first sentence.
+<b>1988</b>—Subsec. (b). Pub. L. 100–690, §7047(a), substituted “psychologist” for “clinical psychologist” in first sentence.
 
 Subsec. (e)(1)(B). Pub. L. 100–690, §7044, inserted at end “A copy of each such report concerning a person hospitalized after the beginning of a prosecution of that person for violation of section 871, 879, or 1751 of this title shall be submitted to the Director of the United States Secret Service. Except with the prior approval of the court, the Secret Service shall not use or disclose the information in these copies for any purpose other than carrying out protective duties under section 3056(a) of this title.”
 
-1984—Pub. L. 98–473 amended section generally, substituting “General provisions for chapter” for “Alternate procedure of expiration of sentence” in section catchline, and substituting provisions relating to definitions, examinations, reports, etc., as applicable to chapter, for provisions relating to powers and duties regarding alternate procedure on expiration of sentence of prisoner.
+<b>1984</b>—Pub. L. 98–473 amended section generally, substituting “General provisions for chapter” for “Alternate procedure of expiration of sentence” in section catchline, and substituting provisions relating to definitions, examinations, reports, etc., as applicable to chapter, for provisions relating to powers and duties regarding alternate procedure on expiration of sentence of prisoner.
 
 #### Effective Date of 1997 Amendment
 

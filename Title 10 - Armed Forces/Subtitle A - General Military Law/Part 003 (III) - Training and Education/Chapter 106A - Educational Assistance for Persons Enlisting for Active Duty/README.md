@@ -16,7 +16,7 @@
 
 #### Amendments
 
-2004—Pub. L. 108–375, div. A, title V, §532(a)(1), Oct. 28, 2004, 118 Stat. 1896, renumbered chapter 107 of this title as this chapter.
+<b>2004</b>—Pub. L. 108–375, div. A, title V, §532(a)(1), Oct. 28, 2004, 118 Stat. 1896, renumbered chapter 107 of this title as this chapter.
 
 
 ---

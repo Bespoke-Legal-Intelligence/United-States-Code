@@ -20,9 +20,9 @@ For purposes of this part:
 
 #### Amendments
 
-2003—Pars. (3), (5), (7). Pub. L. 108–7 repealed Pub. L. 107–296, §§1714–1717, and provided that this chapter shall be applied as if the sections repealed had never been enacted. See 2002 Amendment notes below.
+<b>2003</b>—Pars. (3), (5), (7). Pub. L. 108–7 repealed Pub. L. 107–296, §§1714–1717, and provided that this chapter shall be applied as if the sections repealed had never been enacted. See 2002 Amendment notes below.
 
-2002—Par. (3). Pub. L. 107–296, §1714, which directed amendment of first sentence by substituting “any vaccine set forth in the Vaccine Injury table, including any component or ingredient of any such vaccine” for “under its label any vaccine set forth in the Vaccine Injury Table” and of second sentence by inserting “including any component or ingredient of any such vaccine” before period at end, was repealed by Pub. L. 108–7.
+<b>2002</b>—Par. (3). Pub. L. 107–296, §1714, which directed amendment of first sentence by substituting “any vaccine set forth in the Vaccine Injury table, including any component or ingredient of any such vaccine” for “under its label any vaccine set forth in the Vaccine Injury Table” and of second sentence by inserting “including any component or ingredient of any such vaccine” before period at end, was repealed by Pub. L. 108–7.
 
 Par. (5). Pub. L. 107–296, §1715, which directed insertion of “For purposes of the preceding sentence, an adulterant or contaminant shall not include any component or ingredient listed in a vaccine's product license application or product label.” at end, was repealed by Pub. L. 108–7.
 

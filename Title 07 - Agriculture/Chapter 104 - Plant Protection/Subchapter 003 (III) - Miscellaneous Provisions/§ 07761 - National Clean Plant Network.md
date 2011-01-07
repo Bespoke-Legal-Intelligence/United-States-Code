@@ -30,7 +30,7 @@ In carrying out the Program, the Secretary shall—
 
 #### (e) Funding
 
-Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out theProgram $5,000,000 for each of fiscal years 2009 through 2012, to remain available until expended.
+Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out the Program $5,000,000 for each of fiscal years 2009 through 2012, to remain available until expended.
 
 (Pub. L. 110–234, title X, §10202, May 22, 2008, 122 Stat. 1342; Pub. L. 110–246, §4(a), title X, §10202, June 18, 2008, 122 Stat. 1664, 2104.)
 
@@ -42,7 +42,7 @@ Section was enacted as part of the Food, Conservation, and Energy Act of 2008, a
 
 #### Effective Date
 
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
 #### Definitions
 

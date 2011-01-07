@@ -30,7 +30,7 @@
 
 (3) The total amount which the Secretary may expend for furnishing, during any twelve-month period, outpatient dental services, treatment, or related dental appliances to a veteran under this section through private facilities for which the Secretary has contracted under clause (1), (2), or (5) of section 1703(a) of this title may not exceed $1,000 unless the Secretary determines, prior to the furnishing of such services, treatment, or appliances and based on an examination of the veteran by a dentist employed by the Department (or, in an area where no such dentist is available, by a dentist conducting such examination under a contract or fee arrangement), that the furnishing of such services, treatment, or appliances at such cost is reasonably necessary.
 
-(4)(A) Except as provided in subparagraph (B) of this paragraph, in any year in which the President's Budget for the fiscal year beginning October 1 of such year includes an amount for expenditures for contract dental care under the provisions of this subsection and section 1703 of this title during such fiscal year in excess of the level of expenditures made for such purpose during fiscal year 1978, the Secretary shall, not later than February 15 of such year, submit a report to the appropriate committees of the Congress justifying the requested level of expenditures for contract dental care and explaining why the application of the criteria prescribed in section 1703 of this title for contracting with private facilities and in the second sentence of section 1710(c) of this title for furnishing incidental dental care to hospitalized veterans will not preclude the need for expenditures for contract dental care in excess of the fiscal year 1978 level of expenditures for such purpose. In any case in which the amount included in the President's Budget for any fiscal year for expenditures for contract dental care under such provisions is not in excess of the level of expenditures made for such purpose during fiscal year 1978 and the Secretary determines after the date of submission of such budget and before the end of such fiscal year that the level of expenditures for such contract dental care during such fiscal year will exceed the fiscal year 1978 level of expenditures, the Secretary shall submit a report to the appropriate committees of the Congress containing both a justification (with respect to the projected level of expenditures for such fiscal year) and an explanation as required in the preceding sentence in the case of a report submitted pursuant to such sentence. Any report submitted pursuant to this paragraph shall include a comment by the Secretary on the effect of the application of the criteria prescribed in the second sentence of section 1710(c) of this title for furnishing incidental dental care to hospitalized veterans.
+(4)(A) Except as provided in subparagraph (B) of this paragraph, in any year in which the President's Budget for the fiscal year beginning October 1 of such year includes an amount for expenditures for contract dental care under the provisions of this subsection and section 1703 ofthis title during such fiscal year in excess of the level of expenditures made for such purpose during fiscal year 1978, the Secretary shall, not later than February 15 of such year, submit a report to the appropriate committees of the Congress justifying the requested level of expenditures for contract dental care and explaining why the application of the criteria prescribed in section 1703 of this title for contracting with private facilities and in the second sentence of section 1710(c) of this title for furnishing incidental dental care to hospitalized veterans will not preclude the need for expenditures for contract dental care in excess of the fiscal year 1978 level of expenditures for such purpose. In any case in which the amount included in the President's Budget for any fiscal year for expenditures for contract dental care under such provisions is not in excess of the level of expenditures made for such purpose during fiscal year 1978 and the Secretary determines after the date of submission of such budget and before the end of such fiscal year that the level of expenditures for such contract dental care during such fiscal year will exceed the fiscal year 1978 level of expenditures, the Secretary shall submit a report to the appropriate committees of the Congress containing both a justification (with respect to the projected level of expenditures for such fiscal year) and an explanation as required in the preceding sentence in the case of a report submitted pursuant to such sentence. Any report submitted pursuant to this paragraph shall include a comment by the Secretary on the effect of the application of the criteria prescribed in the second sentence of section 1710(c) of this title for furnishing incidental dental care to hospitalized veterans.
 
 (B) A report under subparagraph (A) of this paragraph with respect to a fiscal year is not required if, in the documents submitted by the Secretary to the Congress in justification for the amounts included for Department programs in the President's Budget, the Secretary specifies with respect to contract dental care described in such subparagraph—
 
@@ -48,7 +48,7 @@
 
 (e) In order to assist the Secretary of Health and Human Services in carrying out national immunization programs under other provisions of law, the Secretary may authorize the administration of immunizations to eligible veterans who voluntarily request such immunizations in connection with the provision of care for a disability under this chapter in any Department health care facility. Any such immunization shall be made using vaccine furnished by the Secretary of Health and Human Services at no cost to the Department. For such purpose, notwithstanding any other provision of law, the Secretary of Health and Human Services may provide such vaccine to the Department at no cost. Section 7316 of this title shall apply to claims alleging negligence or malpractice on the part of Department personnel granted immunity under such section.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1142, §612; Pub. L. 86–639, §1, July 12, 1960, 74 Stat. 472; Pub. L. 87–377, §1, Oct. 4, 1961, 75 Stat. 806; Pub. L. 87–583, §2, Aug. 14, 1962, 76 Stat. 381; Pub. L. 88–430, Aug. 14, 1964, 78 Stat. 438; Pub. L. 88–450, §7, Aug. 19, 1964, 78 Stat. 504; Pub. L. 88–664, §8, Oct. 13, 1964, 78 Stat. 1096; Pub. L. 90–77, title II, §203(b), Aug. 31, 1967, 81 Stat. 183; Pub. L. 91–102, Oct. 30, 1969, 83 Stat. 168; Pub. L. 91–500, §§2, 3, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 91–588, §§4, 9(f), Dec. 24, 1970, 84 Stat. 1583, 1585; Pub. L. 93–82, title I, §103(a), Aug. 2, 1973, 87 Stat. 180; Pub. L. 94–581, title I, §103(a), title II, §§202(f), 210(a)(3), Oct. 21, 1976, 90 Stat. 2844, 2856, 2862; Pub. L. 95–588, title III, §302, Nov. 4, 1978, 92 Stat. 2506; Pub. L. 96–22, title I, §§101, 102(b), June 13, 1979, 93 Stat. 47; Pub. L. 96–151, title II, §§203, 204, Dec. 20, 1979, 93 Stat. 1094; Pub. L. 97–35, title XX, §2002(a), Aug. 13, 1981, 95 Stat. 781; Pub. L. 97–37, §§3(b), 5(b), (c), Aug. 14, 1981, 95 Stat. 936, 937; Pub. L. 97–72, title I, §§102(b), 103(a), (b), Nov. 3, 1981, 95 Stat. 1048, 1049; Pub. L. 97–295, §4(17), (95)(A), Oct. 12, 1982, 96 Stat. 1306, 1313;Pub. L. 99–166, title I, §104, Dec. 3, 1985, 99 Stat. 944; Pub. L. 99–272, title XIX, §§19011(b), 19012(c)(1), (2), Apr. 7, 1986, 100 Stat. 375, 382; Pub. L. 99–576, title II, §§202, 231(b), 237(b)(2), title VII, §702(5), Oct. 28, 1986, 100 Stat. 3254, 3263, 3267, 3301; Pub. L. 100–322, title I, §§101(a)–(c), (d)(2), (e)(1), (2), (f), (g)(1), (h)(1), 106, May 20, 1988, 102 Stat. 489–492, 494; Pub. L. 101–508, title VIII, §8013(b), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–25, title III, §334(a), (c), Apr. 6, 1991, 105 Stat. 88, 89; renumbered §1712 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), (5), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, §§301, 302, Aug. 14, 1991, 105 Stat. 416; Pub. L. 102–585, title I, §103, Nov. 4, 1992, 106 Stat. 4946; Pub. L. 103–210, §1(b), Dec. 20, 1993, 107 Stat. 2496; Pub. L. 103–446, title XII, §1201(d)(3), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 103–452, title I, §§101(e), 103(a)(2), Nov. 2, 1994, 108 Stat. 4784, 4786; Pub. L. 104–110, title I, §101(a)(2), Feb. 13, 1996, 110 Stat. 768; Pub. L. 104–262, title I, §101(b)(2)–(c)(2)(A), Oct. 9, 1996, 110 Stat. 3179; Pub. L. 106–419, title IV, §404(a)(3), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 108–170, title I, §101(a), Dec. 6, 2003, 117 Stat. 2043; Pub. L. 110–181, div. A, title XVII, §1709, Jan. 28, 2008, 122 Stat. 494.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1142, §612; Pub. L. 86–639, §1, July 12, 1960, 74 Stat. 472; Pub. L. 87–377, §1, Oct. 4, 1961, 75 Stat. 806; Pub. L. 87–583, §2, Aug. 14, 1962, 76 Stat. 381; Pub. L. 88–430, Aug. 14, 1964, 78 Stat. 438; Pub. L. 88–450, §7, Aug. 19, 1964, 78 Stat. 504; Pub. L. 88–664, §8, Oct. 13, 1964, 78 Stat. 1096; Pub. L. 90–77, title II, §203(b), Aug. 31, 1967, 81 Stat. 183; Pub. L. 91–102, Oct. 30, 1969, 83 Stat. 168; Pub. L. 91–500, §§2, 3, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 91–588, §§4, 9(f), Dec. 24, 1970, 84 Stat. 1583, 1585; Pub. L. 93–82, title I, §103(a), Aug. 2, 1973, 87 Stat. 180; Pub. L. 94–581, title I, §103(a), title II, §§202(f), 210(a)(3), Oct. 21, 1976, 90 Stat. 2844, 2856, 2862; Pub. L. 95–588, title III, §302, Nov. 4, 1978, 92 Stat. 2506; Pub. L. 96–22, title I, §§101, 102(b), June 13, 1979, 93 Stat. 47; Pub. L. 96–151, title II, §§203, 204, Dec. 20, 1979, 93 Stat. 1094; Pub. L. 97–35, title XX, §2002(a), Aug. 13, 1981, 95 Stat. 781; Pub. L. 97–37, §§3(b), 5(b), (c), Aug. 14, 1981, 95 Stat. 936, 937; Pub. L. 97–72, title I, §§102(b), 103(a), (b), Nov. 3, 1981, 95 Stat. 1048, 1049; Pub. L. 97–295, §4(17), (95)(A), Oct. 12, 1982, 96 Stat. 1306, 1313; Pub. L. 99–166, title I, §104, Dec. 3, 1985, 99 Stat. 944; Pub. L. 99–272, title XIX, §§19011(b), 19012(c)(1), (2), Apr. 7, 1986, 100 Stat. 375, 382; Pub. L. 99–576, title II, §§202, 231(b), 237(b)(2), title VII, §702(5), Oct. 28, 1986, 100 Stat. 3254, 3263, 3267, 3301; Pub. L. 100–322, title I, §§101(a)–(c), (d)(2), (e)(1), (2), (f), (g)(1), (h)(1), 106, May 20, 1988, 102 Stat. 489–492, 494; Pub. L. 101–508, title VIII, §8013(b), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–25, title III, §334(a), (c), Apr. 6, 1991, 105 Stat.88, 89; renumbered §1712 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), (5), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, §§301, 302, Aug. 14, 1991, 105 Stat. 416; Pub. L. 102–585, title I, §103, Nov. 4, 1992, 106 Stat. 4946; Pub. L. 103–210, §1(b), Dec. 20, 1993, 107 Stat. 2496; Pub. L. 103–446, title XII, §1201(d)(3), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 103–452, title I, §§101(e), 103(a)(2), Nov. 2, 1994, 108 Stat. 4784, 4786; Pub. L. 104–110, title I, §101(a)(2), Feb. 13, 1996, 110 Stat. 768; Pub. L. 104–262, title I, §101(b)(2)–(c)(2)(A), Oct. 9, 1996, 110 Stat. 3179; Pub. L. 106–419, title IV, §404(a)(3), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 108–170, title I, §101(a), Dec. 6, 2003, 117 Stat. 2043; Pub. L. 110–181, div. A, title XVII, §1709, Jan. 28, 2008, 122 Stat. 494.)
 
 #### Prior Provisions
 
@@ -56,13 +56,13 @@ Prior section 1712 was renumbered section 3512 of this title.
 
 #### Amendments
 
-2008—Subsec. (a)(1)(B)(iii). Pub. L. 110–181 substituted “180 days after such discharge” for “90 days after such discharge”, “180 days from the date of such veteran's subsequent discharge” for “90 days from the date of such veteran's subsequent discharge”, and “180 days after the date of correction” for “90 days after the date of correction”.
+<b>2008</b>—Subsec. (a)(1)(B)(iii). Pub. L. 110–181 substituted “180 days after such discharge” for “90 days after such discharge”, “180 days from the date of such veteran's subsequent discharge” for “90 days from the date of such veteran's subsequent discharge”, and “180 days after the date of correction” for “90 days after the date of correction”.
 
-2003—Subsec. (a)(1)(F). Pub. L. 108–170 struck out “and who was detained or interned for a period of not less than 90 days” after “war”.
+<b>2003</b>—Subsec. (a)(1)(F). Pub. L. 108–170 struck out “and who was detained or interned for a period of not less than 90 days” after “war”.
 
-2000—Subsec. (a)(4)(A). Pub. L. 106–419 substituted “this subsection” for “subsection (a) of this section (other than paragraphs (3)(B) and (3)(C) of that subsection)” after “under the provisions” in first sentence.
+<b>2000</b>—Subsec. (a)(4)(A). Pub. L. 106–419 substituted “this subsection” for “subsection (a) of this section (other than paragraphs (3)(B) and (3)(C) of that subsection)” after “under the provisions” in first sentence.
 
-1996—Pub. L. 104–262, §101(c)(2)(A), substituted “Dental care; drugs and medicines for certain disabled veterans; vaccines” for “Eligibility for outpatient services” in section catchline.
+<b>1996</b>—Pub. L. 104–262, §101(c)(2)(A), substituted “Dental care; drugs and medicines for certain disabled veterans; vaccines” for “Eligibility for outpatient services” in section catchline.
 
 Subsec. (a). Pub. L. 104–262, §101(c)(1)(A), (B), redesignated subsec. (b) as (a) and struck out former subsec. (a) which required and authorized the Secretary to furnish on an ambulatory or outpatient basis medical services for certain veterans.
 
@@ -80,7 +80,7 @@ Subsec. (i). Pub. L. 104–262, §101(c)(1)(A), struck out subsec. (i), which re
 
 Subsec. (j). Pub. L. 104–262, §101(c)(1)(B), redesignated subsec. (j) as (e).
 
-1994—Subsec. (a)(1)(D). Pub. L. 103–452, §103(a)(2), substituted “December 31, 1995” for “December 31, 1994”.
+<b>1994</b>—Subsec. (a)(1)(D). Pub. L. 103–452, §103(a)(2), substituted “December 31, 1995” for “December 31, 1994”.
 
 Subsec. (i)(1). Pub. L. 103–452, §101(e)(1), inserted “(A)” after “To a veteran” and inserted before period at end “, or (B) who is eligible for counseling and care and services under section 1720D of this title, for the purposes of such counseling and care and services”.
 
@@ -90,13 +90,13 @@ Subsec. (i)(5). Pub. L. 103–446, §1201(d)(3)(A), substituted “section 1722(
 
 Subsec. (j). Pub. L. 103–446, §1201(d)(3)(B), substituted “Section 7316” for “Section 4116”.
 
-1993—Subsec. (a)(1)(D). Pub. L. 103–210, §1(b)(1), added subpar. (D).
+<b>1993</b>—Subsec. (a)(1)(D). Pub. L. 103–210, §1(b)(1), added subpar. (D).
 
 Subsec. (a)(7). Pub. L. 103–210, §1(b)(2), added par. (7).
 
-1992—Subsec. (i)(2)(C). Pub. L. 102–585 added cl. (C).
+<b>1992</b>—Subsec. (i)(2)(C). Pub. L. 102–585 added cl. (C).
 
-1991—Pub. L. 102–83, §5(a), renumbered section 612 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 612 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
@@ -152,9 +152,9 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administ
 
 Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-1990—Subsec. (f)(1). Pub. L. 101–508, §8013(b)(1), substituted “section 610(a)(2)” for “section 610(a)(2)(B)”.
+<b>1990</b>—Subsec. (f)(1). Pub. L. 101–508, §8013(b)(1), substituted “section 610(a)(2)” for “section 610(a)(2)(B)”.
 
-Subsec. (f)(3) to (7). Pub. L. 101–508, §8013(b)(2), (3), redesignated pars. (5) and (7) as (3) and (4), respectively, and struck out former pars. (3), (4), and (6) which read as follows:
+Subsec. (f)(3) to (7). Pub. L. 101–508, §8013(b)(2), (3), redesignated pars. (5) and (7) as (3) and (4), respectively,and struck out former pars. (3), (4), and (6) which read as follows:
 
 “(3) A veteran may not be required to make a payment under this subsection for services furnished under subsection (a) of this section during any 90-day period to the extent that such payment would cause the total amount paid by the veteran under this subsection for medical services furnished during that period and under section 610(f) of this title for hospital and nursing home care furnished during that period to exceed the amount of the inpatient Medicare deductible in effect on the first day of such 90-day period.
 
@@ -162,7 +162,7 @@ Subsec. (f)(3) to (7). Pub. L. 101–508, §8013(b)(2), (3), redesignated pars. 
 
 “(6) For the purposes of this subsection, the term ‘inpatient Medicare deductible’ means the amount of the inpatient hospital deductible in effect under section 1813(b) of the Social Security Act (42 U.S.C. 1395e(b)).”
 
-1988—Pub. L. 100–322, §101(h)(1), substituted “Eligibility for outpatient services” for “Eligibility for medical treatment” in section catchline.
+<b>1988</b>—Pub. L. 100–322, §101(h)(1), substituted “Eligibility for outpatient services” for “Eligibility for medical treatment” in section catchline.
 
 Subsec. (a)(1). Pub. L. 100–322, §101(a), substituted “shall furnish on an ambulatory or outpatient basis” for “may furnish” in introductory provisions and added subpar. (C).
 
@@ -210,7 +210,7 @@ Subsec. (g). Pub. L. 100–322, §101(e)(2)(B), struck out subsec. (g) which rea
 
 &emsp;“(A) who is a veteran of the Mexican border period or of World War I; or
 
-&emsp;“(B) who is in receipt of increased pension or additional compensation or allowances based on the needof regular aid and attendance or by reason of being permanently housebound (or who, but for the receipt of retired pay, would be in receipt of such pension, compensation, or allowance).
+&emsp;“(B) who is in receipt of increased pension or additional compensation or allowances based on the need of regular aid and attendance or by reason of being permanently housebound (or who, but for the receipt of retired pay, would be in receipt of such pension, compensation, or allowance).
 
 “(2) As part of medical services furnished to a veteran under paragraph (1) of this subsection, the Administrator may furnish to the veteran home health services under the terms and conditions set forth in subsection (f) of this section.
 
@@ -232,7 +232,7 @@ Subsec. (i). Pub. L. 100–322, §101(c), added pars. (1) to (5) and struck out 
 
 Subsec. (k). Pub. L. 100–322, §101(d)(2), transferred subsec. (k) to section 617(a)(3) of this title.
 
-1986—Subsec. (a). Pub. L. 99–272, §19011(b)(1), substituted par. (1) for “Except as provided in subsection (b) of this section, the Administrator, within the limits of Veterans’ Administration facilities, may furnish such medical services as the Administrator finds to be reasonably necessary to any veteran for a service-connected disability.”, designated second sentence of existing provision as par. (2), substituted “As part of medical services furnished to a veteran under paragraph (1) of this subsection, the Administrator may furnish to the veteran” for “The Administrator may also furnish to any such veteran”, struck out provision that in the case of a veteran discharged or released from active military, naval, or air service for a disability incurred or aggravated in the line of duty, services may be provided for that disability, whether or not service-connected for the purposes of this chapter, and added par. (3).
+<b>1986</b>—Subsec. (a). Pub. L. 99–272, §19011(b)(1), substituted par. (1) for “Except as provided in subsection (b) of this section, the Administrator, within the limits of Veterans’ Administration facilities, may furnish such medical services as the Administrator finds to be reasonably necessary to any veteran for a service-connected disability.”, designated second sentence of existing provision as par. (2), substituted “As part of medical services furnished to a veteran under paragraph (1) of this subsection, the Administrator may furnish to the veteran” for “The Administrator may also furnish to any such veteran”, struck out provision that in the case of a veteran discharged or released from active military, naval, or air service for a disability incurred or aggravated in the line of duty, services may be provided for that disability, whether or not service-connected for the purposes of this chapter, and added par. (3).
 
 Subsec. (a)(2). Pub. L. 99–576, §202(1), substituted “Subject to subsection (k) of this section, as” for “As”.
 
@@ -256,9 +256,9 @@ Subsec. (j). Pub. L. 99–576, §702(5), substituted “programs under other pro
 
 Subsec. (k). Pub. L. 99–576, §202(2), added subsec. (k).
 
-1985—Subsec. (f)(1). Pub. L. 99–166 substituted “if” for “where” after “(A)” and “(B)”, inserted “, nursing home care, or domiciliary care”, struck out “hospital” after “treatment incident to such”, and substituted “from such treatment” for “from in-hospital treatment”.
+<b>1985</b>—Subsec. (f)(1). Pub. L. 99–166 substituted “if” for “where” after “(A)” and “(B)”, inserted “, nursing home care, or domiciliary care”, struck out “hospital” after “treatment incident to such”, and substituted “from such treatment” for “from in-hospital treatment”.
 
-1982—Subsec. (a). Pub. L. 97–295, §4(17)(A), (B), inserted “of this section” after “subsection (b)”, and substituted “facilities)” for “facilities” after “sanitary”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–295, §4(17)(A), (B), inserted “of this section” after “subsection (b)”, and substituted “facilities)” for “facilities” after “sanitary”.
 
 Subsec. (f)(2). Pub. L. 97–295, §4(17)(C), substituted “percent” for “per centum”.
 
@@ -268,7 +268,7 @@ Subsec. (i). Pub. L. 97–295, §4(17)(E), substituted “The” for “Not late
 
 Subsec. (j). Pub. L. 97–295, §4(95)(A), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-1981—Subsec. (b). Pub. L. 97–72, §103(a), divided existing provisions into pars. (1), (2), (3), and (4), redesignated cls. (1) through (8) as subpars. (A) through (H) of par. (1) as redesignated, made internal substitutions reflecting new number and letter designations, and, in par. (1)(B) as redesignated, inserted provisions set out in par. (1)(B)(ii), (iii)(I), and (iv).
+<b>1981</b>—Subsec. (b). Pub. L. 97–72, §103(a), divided existing provisions into pars. (1), (2), (3), and (4), redesignated cls. (1) through (8) as subpars. (A) through (H) of par. (1) as redesignated, made internal substitutions reflecting new number and letter designations, and, in par. (1)(B) as redesignated, inserted provisions set out in par. (1)(B)(ii), (iii)(I), and (iv).
 
 Pub. L. 97–37, §3(b), in cl. (7) substituted “from which a veteran who is a former prisoner of war and who was detained or interned for a period of not less than six months is suffering” for “from which any veteran of World War I, World War II, the Korean conflict, or the Vietnam era who was held as a prisoner of war for a period of not less than six months is suffering”.
 
@@ -286,7 +286,7 @@ Pub. L. 97–37, §5(c), added cl. (4). Former cl. (4) redesignated (5).
 
 Subsec. (i)(5). Pub. L. 97–37, §5(c)(1), redesignated former cl. (4) as (5).
 
-1979—Subsec. (b). Pub. L. 96–151, §203, inserted provisions relating to the total amount the Administrator may expend.
+<b>1979</b>—Subsec. (b). Pub. L. 96–151, §203, inserted provisions relating to the total amount the Administrator may expend.
 
 Pub. L. 96–22, §102(b)(1), added pars. (7) and (8) and inserted provisions following par. (8).
 
@@ -296,9 +296,9 @@ Subsec. (g). Pub. L. 96–151, §204, inserted provisions relating to particular
 
 Subsec. (i)(3). Pub. L. 96–22, §101, inserted “(including any veteran being examined to determine the existence or rating of a service-connected disability)” after “with a disability rated as service connected”.
 
-1978—Subsec. (h). Pub. L. 95–588 substituted “$1,000” for “$500”.
+<b>1978</b>—Subsec. (h). Pub. L. 95–588 substituted “$1,000” for “$500”.
 
-1976—Subsec. (a). Pub. L. 94–581, §§103(a)(1), 210(a)(3)(A), inserted provisions which authorized the Administrator to furnish such home health services as the Administrator finds to be necessary or appropriate for the effective and economical treatment of the disability (including only such improvements and structural alterations the cost of which does not exceed $2,500 (or reimbursement up to such amount) as are necessary to assure the continuation of treatment for the disability or to provide access to the home or to essential lavatory and sanitary facilities), and in the existing provisions substituted “as the Administrator finds” for “as he finds”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–581, §§103(a)(1), 210(a)(3)(A), inserted provisions which authorized the Administrator to furnish such home health services as the Administrator finds to be necessary or appropriate for the effective and economical treatment of the disability (including only such improvements and structural alterations the cost of which does not exceed $2,500 (or reimbursement up to such amount) as are necessary to assure the continuation of treatment for the disability or to provide access to the home or to essential lavatory and sanitary facilities), and in the existing provisions substituted “as the Administrator finds” for “as he finds”.
 
 Subsec. (b). Pub. L. 94–581, §103(a)(2), added par. (5) and redesignated former par. (5) as (6).
 
@@ -314,29 +314,29 @@ Subsec. (h). Pub. L. 94–581, §210(a)(3)(D), substituted “such veteran's ann
 
 Subsecs. (i), (j). Pub. L. 94–581, §103(a)(8), added subsecs. (i) and (j).
 
-1973—Subsec. (f). Pub. L. 93–82 substituted provisions relating to the furnishing of medical services for any disability on an outpatient or ambulatory basis to veterans eligible for hospital care where such services are necessary in preparation for, or to obviate the need of, hospital admission, or where such veteran has been granted hospital care and such medical services are reasonably necessary to complete treatment incident to such hospital care and to veterans who have a service-connected disability rated at 80 per centum or more for provisions relating to the furnishing of medical services for a non-service connected disability where such care is reasonably necessary in preparation for admission of a veteran who has been determined to need hospital care and who has been scheduled for admission, where a veteran has been granted hospital care, and outpatient care is reasonably necessary to complete treatment incident to such hospital care, and where a veteran of any war has a total disability permanent in nature resulting from a service-connected disability.
+<b>1973</b>—Subsec. (f). Pub. L. 93–82 substituted provisions relating to the furnishing of medical services for any disability on an outpatient or ambulatory basis to veterans eligible for hospital care where such services are necessary in preparation for, or to obviate the need of, hospital admission, or where such veteran has been granted hospital care and such medical services are reasonably necessary to complete treatment incident to such hospital care and to veterans who have a service-connected disability rated at 80 per centum or more for provisions relating to the furnishing of medical services for a non-service connected disability where such care is reasonably necessary in preparation for admission of a veteran who has been determined to need hospital care and who has been scheduled for admission, where a veteran has been granted hospital care, and outpatient care is reasonably necessary to complete treatment incident to such hospital care, and where a veteran of any war has a total disability permanent in nature resulting from a service-connected disability.
 
-1970—Subsec. (g). Pub. L. 91–500, §2, extended the authority of the Administrator to furnish medical services as he finds necessary to veterans permanently housebound or receiving pension or compensation based on need of regular aid and attendance and struck out conditions limiting such medical care to veterans hospitalized or suffering from one or more of the six specific conditions or diseases enumerated.
+<b>1970</b>—Subsec. (g). Pub. L. 91–500, §2, extended the authority of the Administrator to furnish medical services as he finds necessary to veterans permanently housebound or receiving pension or compensation based on need of regular aid and attendance and struck out conditions limiting such medical care to veterans hospitalized or suffering from one or more of the six specific conditions or diseases enumerated.
 
 Subsec. (h). Pub. L. 91–588 inserted reference to Mexican border period and authorized the Administrator to continue furnishing drugs and medicine so ordered by any veteran in need of regular aid and attendance whose pension payments have been discontinued solely because his annual income is greater than the applicable maximum annual income limitation, but only so long as his annual income does not exceed such maximum annual income limitation by more than $500.
 
 Pub. L. 91–500, §3, authorized furnishing of drugs and medicines to veterans receiving additional compensation or allowance or increased pension by reason of being “permanently housebound”.
 
-1969—Subsec. (f)(3). Pub. L. 91–102 added par. (3).
+<b>1969</b>—Subsec. (f)(3). Pub. L. 91–102 added par. (3).
 
-1967—Subsec. (h). Pub. L. 90–77 imposed the obligation of furnishing drugs and medicines on the Administrator and extended such medical benefits to veterans receiving additional compensation under chapter 11 and veterans of the Vietnam era.
+<b>1967</b>—Subsec. (h). Pub. L. 90–77 imposed the obligation of furnishing drugs and medicines on the Administrator and extended such medical benefits to veterans receiving additional compensation under chapter 11 and veterans of the Vietnam era.
 
-1964—Subsec. (b)(2). Pub. L. 88–430 permitted an application for treatment to be made within one year after a disqualifying discharge or release has been corrected, or the date of enactment of this exception, whichever is later.
+<b>1964</b>—Subsec. (b)(2). Pub. L. 88–430 permitted an application for treatment to be made within one year after a disqualifying discharge or release has been corrected, or the date of enactment of this exception, whichever is later.
 
 Subsec. (g). Pub. L. 88–450 added subsec. (g).
 
 Subsec. (h). Pub. L. 88–664 added subsec. (h).
 
-1962—Subsec. (a). Pub. L. 87–583 provided for medical service to any veteran for a service-connected disability instead of to a veteran of any war, to a veteran discharged or released from the active military, naval, or air service for a disability incurred or aggravated in line of duty, or to a person who is in receipt of, but for the receipt of retirement pay would be entitled to, disability compensation.
+<b>1962</b>—Subsec. (a). Pub. L. 87–583 provided for medical service to any veteran for a service-connected disability instead of to a veteran of any war, to a veteran discharged or released from the active military, naval, or air service for a disability incurred or aggravated in line of duty, or to a person who is in receipt of, but for the receipt of retirement pay would be entitled to, disability compensation.
 
-1961—Subsecs. (b)(5), (e). Pub. L. 87–377 inserted “or Indian wars” after “Spanish-American War”.
+<b>1961</b>—Subsecs. (b)(5), (e). Pub. L. 87–377 inserted “or Indian wars” after “Spanish-American War”.
 
-1960—Subsec. (f). Pub. L. 86–639 added subsec. (f).
+<b>1960</b>—Subsec. (f). Pub. L. 86–639 added subsec. (f).
 
 #### Effective Date of 1993 Amendment
 
@@ -352,7 +352,7 @@ Amendment by Pub. L. 101–508 applicable with respect to hospital care and medi
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 101(a)–(c), (d)(2), (e)(1), (2), (f), (g)(1), (h)(1) of Pub. L. 100–322 applicable with respect to furnishing of medical services to veterans who apply for such services after June 30, 1988, see section 101(i) of Pub. L. 100–322, set out as a note under section 1703 of this title.
+Amendment by section 101(a)–(c), (d)(2), (e)(1), (2), (f), (g)(1), (h)(1) of Pub. L. 100–322 applicable with respect tofurnishing of medical services to veterans who apply for such services after June 30, 1988, see section 101(i) of Pub. L. 100–322, set out as a note under section 1703 of this title.
 
 #### Effective Date of 1986 Amendments
 
@@ -404,6 +404,100 @@ Amendment by Pub. L. 88–664 effective Jan. 1, 1965, see section 11 of Pub. L. 
 
 Provisions of subsec. (a) of this section, as in effect on Oct. 8, 1996, to continue to apply on and after such date with respect to furnishing of hospital care, nursing home care, and medical services for any veteran who was furnished such care before Oct. 9, 1996, on the basis of presumed exposure to a substance of radiation, but only for treatment for disability for which such care or services were furnished before Oct. 9, 1996, see section 102(b) of Pub. L. 104–262, set out as a note under section 1710 of this title.
 
+#### Pilot Program on Provision of Dental Insurance Plans to Veterans and Survivors and Dependents of Veterans
+
+Pub. L. 111–163, title V, §510, May 5, 2010, 124 Stat. 1162, provided that:
+
+“(a)
+
+Pilot Program Required.—The Secretary of Veterans Affairs shall carry out a pilot program to assess the feasibility and advisability of providing a dental insurance plan to veterans and survivors and dependents of veterans described in subsection (b).
+
+“(b)
+
+Covered Veterans and Survivors and Dependents.—The veterans and survivors and dependents of veterans described in this subsection are as follows:
+
+&emsp;“(1) Any veteran who is enrolled in the system of annual patient enrollment under section 1705 of title 38, United States Code.
+
+&emsp;“(2) Any survivor or dependent of a veteran who is eligible for medical care under section 1781 of such title.
+
+“(c)
+
+Duration of Program.—The pilot program shall be carried out during the 3-year period beginning on the date that is 270 days after the date of the enactment of this Act \[May 5, 2010\].
+
+“(d)
+
+Locations.—The pilot program shall be carried out in such Veterans Integrated Services Networks as the Secretary considers appropriate for purposes of the pilot program.
+
+“(e)
+
+Administration.—The Secretary shall contract with a dental insurer to administer the dental insurance plan provided under the pilot program.
+
+“(f)
+
+Benefits.—The dental insurance plan under the pilot program shall provide such benefits for dental care and treatment as the Secretary considers appropriate for the dental insurance plan, including diagnostic services, preventative services, endodontics and other restorative services, surgical services, and emergency services.
+
+“(g)
+
+Enrollment.—
+
+&emsp;“(1)
+
+Voluntary.—Enrollment in the dental insurance plan under the pilot program shall be voluntary.
+
+&emsp;“(2)
+
+Minimum period.—Enrollment in the dental insurance plan shall be for such minimum period as the Secretary shall prescribe for purposes of this section.
+
+“(h)
+
+Premiums.—
+
+&emsp;“(1)
+
+In general.—Premiums for coverage under the dental insurance plan under the pilot program shall be in such amount or amounts as the Secretary shall prescribe to cover all costs associated with the pilot program.
+
+&emsp;“(2)
+
+Annual adjustment.—The Secretary shall adjust the premiums payable under the pilot program for coverage under the dental insurance plan on an annual basis. Each individual covered by the dental insurance plan at the time of such an adjustment shall be notified of the amount and effective date of such adjustment.
+
+&emsp;“(3)
+
+Responsibility for payment.—Each individual covered by the dental insurance plan shall pay the entire premium for coverage under the dental insurance plan, in addition to the full cost of any copayments.
+
+“(i)
+
+Voluntary Disenrollment.—
+
+&emsp;“(1)
+
+In general.—With respect to enrollment in the dental insurance plan under the pilot program, the Secretary shall—
+
+&emsp;&emsp;“(A) permit the voluntary disenrollment of an individual in the dental insurance plan if the disenrollment occurs during the 30-day period beginning on the date of the enrollment of the individual in the dental insurance plan; and
+
+&emsp;&emsp;“(B) permit the voluntary disenrollment of an individual in the dental insurance plan for such circumstances as the Secretary shall prescribe for purposes of this subsection, but only to the extent such disenrollment does not jeopardize the fiscal integrity of the dental insurance plan.
+
+&emsp;“(2)
+
+Allowable circumstances.—The circumstances prescribed under paragraph (1)(B) shall include the following:
+
+&emsp;&emsp;“(A) If an individual enrolled in the dental insurance plan relocates to a location outside the jurisdiction of the dental insurance plan that prevents use of the benefits under the dental insurance plan.
+
+&emsp;&emsp;“(B) If an individual enrolled in the dental insurance plan is prevented by a serious medical condition from being able to obtain benefits under the dental insurance plan.
+
+&emsp;&emsp;“(C) Such other circumstances as the Secretary shall prescribe for purposes of this subsection.
+
+&emsp;“(3)
+
+Establishment of procedures.—The Secretary shall establish procedures for determinations on the permissibility of voluntary disenrollments under paragraph (1)(B). Such procedures shall ensure timely determinations on the permissibility of such disenrollments.
+
+“(j)
+
+Relationship to Dental Care Provided by Secretary.—Nothing in this section shall affect the responsibility of the Secretary to provide dental care under section 1712 of title 38, United States Code, and the participation of an individual in the dental insurance plan under the pilot program shall not affect the individual's entitlement to outpatient dental services and treatment, and related dental appliances, under that section.
+
+“(k)
+
+Regulations.—The dental insurance plan under the pilot program shall be administered under such regulations as the Secretary shall prescribe.”
+
 #### Ratification of Actions During Period of Expired Authority
 
 Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
@@ -448,7 +542,7 @@ Section 505 of Pub. L. 96–22 directed Administrator of Veterans’ Affairs to 
 
 #### Annual Report to Congress on Results of Regulations Prescribed To Carry Out Special Priorities in Furnishing Medical Services
 
-Section 103(b) of Pub. L. 94–581, as amended by Pub. L. 100–527, §10(1), Oct. 25, 1988, 102 Stat. 2640; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that not later than one year after Oct. 21, 1976, and annually thereafter, the Secretary of Veterans Affairs was to report to the Congress on the results of the regulations prescribed to carry out former subsec. (i) of this section.
+Section 103(b) of Pub. L. 94–581, as amended by Pub. L. 100–527, §10(1), Oct. 25, 1988, 102 Stat. 2640; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that not later than one year after Oct. 21, 1976, and annually thereafter, the Secretary of Veterans Affairs was to report to the Congress on the results of the regulationsprescribed to carry out former subsec. (i) of this section.
 
 #### Notification to Eligible Individuals of Expanded Care and Services Available as Result of Amendments by Veterans Omnibus Health Care Act of 1976
 

@@ -10,9 +10,9 @@ Based on Title 35, U.S.C., 1946 ed., §77 (R.S. 4931). Language is changed sligh
 
 #### Amendments
 
-1994—Pub. L. 103–465 inserted “from the date of grant” after “years”.
+<b>1994</b>—Pub. L. 103–465 inserted “from the date of grant” after “years”.
 
-1982—Pub. L. 97–247 substituted “Patents for designs shall be granted for the term of fourteen years” for “Patents for designs may be granted for the term of three years and six months, or for seven years, or for fourteen years, as the applicant, in his application, elects”.
+<b>1982</b>—Pub. L. 97–247 substituted “Patents for designs shall be granted for the term of fourteen years” for “Patents for designs may be granted for the term of three years and six months, or for seven years, or for fourteen years, as the applicant, in his application, elects”.
 
 #### Effective Date of 1994 Amendment
 

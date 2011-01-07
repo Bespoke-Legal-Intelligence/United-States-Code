@@ -34,7 +34,7 @@ In subsection (b), the word “is” is substituted for “shall be”.
 
 #### 1948 Act
 
-<i>Prior section 502</i>.—Based on title 28, U.S.C., 1940 ed., §§483, 594 (May 28, 1896, ch. 252, §8, 29 Stat. 181; July 19, 1919, ch. 24, §1, 41 Stat. 209; Mar. 4, 1923, ch. 295, 42 Stat. 1560; June 25, 1936, ch. 804, 49 Stat. 1921).
+<i>Prior section 502</i>.—Based on title 28, U.S.C., 1940 ed., §§483, 594 (May 28, 1896, ch. 252, §8, 29 Stat. 181; July 19,1919, ch. 24, §1, 41 Stat. 209; Mar. 4, 1923, ch. 295, 42 Stat. 1560; June 25, 1936, ch. 804, 49 Stat. 1921).
 
 Section consolidates sections 483 and 594 of title 28, U.S.C., 1940 ed., relating to appointment of assistant United States attorneys.
 

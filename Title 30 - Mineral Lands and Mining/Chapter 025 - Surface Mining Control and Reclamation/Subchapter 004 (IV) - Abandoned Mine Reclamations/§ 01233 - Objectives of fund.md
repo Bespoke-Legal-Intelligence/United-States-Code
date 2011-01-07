@@ -30,13 +30,13 @@ Expenditure of moneys from the fund on lands and water eligible pursuant to sect
 
 #### (c) Inventory
 
-For the purposes of assisting in the planning and evaluation of reclamation projects pursuant to section 1235 of this title, and assisting in making the certification referred to in section 1240a(a) of this title, the Secretary shall maintain an inventory of eligible lands and waters pursuant to section 1234 of this title which meet the priorities stated in paragraphs (1) and (2) of subsection (a) of this section. Under standardized procedures established by the Secretary, States and Indian tribes with approved abandoned mine reclamation programs pursuant to section 1235 of this title may offer amendments, subject to the approval of the Secretary, to update the inventory as it applies to eligible lands and waters under the jurisdiction of such States or tribes. The Secretary shall provide such States and tribes with the financial and technical assistance necessary for the purpose of making inventory amendments. The Secretary shall compile and maintain an inventory for States and Indian lands in the case when a State or Indian tribe does not have an approved abandoned mine reclamation program pursuant to section 1235 of this title. On a regular basis, but not less than annually, the projects completed under this subchapter shall be so noted on theinventory under standardized procedures established by the Secretary.
+For the purposes of assisting in the planning and evaluation of reclamation projects pursuant to section 1235 of this title, and assisting in making the certification referred to in section 1240a(a) of this title, the Secretary shall maintain an inventory of eligible lands and waters pursuant to section 1234 of this title which meet the priorities stated in paragraphs (1) and (2) of subsection (a) of this section. Under standardized procedures established by the Secretary, States and Indian tribes with approved abandoned mine reclamation programs pursuant to section 1235 of this title may offer amendments, subject to the approval of the Secretary, to update the inventory as it applies to eligible lands and waters under the jurisdiction of such States or tribes. The Secretary shall provide such States and tribes with the financial and technical assistance necessary for the purpose of making inventory amendments. The Secretary shall compile and maintain an inventory for States and Indian lands in the case when a State or Indian tribe does not have an approved abandoned mine reclamation program pursuant to section 1235 of this title. On a regular basis, but not less than annually, the projects completed under this subchapter shall be so noted on the inventory under standardized procedures established by the Secretary.
 
 (Pub. L. 95–87, title IV, §403, Aug. 3, 1977, 91 Stat. 458; Pub. L. 101–508, title VI, §6005, Nov. 5, 1990, 104 Stat. 1388–294; Pub. L. 102–486, title XXV, §2504(c)(2), (e), Oct. 24, 1992, 106 Stat. 3105, 3106; Pub. L. 109–432, div. C, title II, §203, Dec. 20, 2006, 120 Stat. 3015.)
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–432, §203(1)(A), designated existing provisions as subpar. (A), inserted semicolon after “protection”, struck out “general welfare,” after “safety,”, and added subpar. (B).
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–432, §203(1)(A), designated existing provisions as subpar. (A), inserted semicolon after “protection”, struck out “general welfare,” after “safety,”, and added subpar. (B).
 
 Subsec. (a)(2). Pub. L. 109–432, §203(1)(B), designated existing provisions as subpar. (A), substituted “health and safety” for “health, safety, and general welfare”, and added subpar. (B).
 
@@ -54,11 +54,11 @@ Subsec. (b)(1). Pub. L. 109–432, §203(2)(B), struck out “up to 30 percent o
 
 Subsec. (c). Pub. L. 109–432, §203(3), inserted “, subject to the approval of the Secretary,” after “amendments” in second sentence.
 
-1992—Subsec. (a)(4) to (6). Pub. L. 102–486, §2504(c)(2), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which read as follows: “research and demonstration projects relating to the development of surface mining reclamation and water quality control program methods and techniques;”.
+<b>1992</b>—Subsec. (a)(4) to (6). Pub. L. 102–486, §2504(c)(2), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which read as follows: “research and demonstration projects relating to the development of surface mining reclamation and water quality control program methods and techniques;”.
 
 Subsec. (b)(2). Pub. L. 102–486, §2504(e), inserted “, or as the case may be, the dates (and under the criteria) set forth under section 1232(g)(4)(B) of this title” after “1977” in two places.
 
-1990—Pub. L. 101–508 designated existing provisions as subsec. (a), inserted heading and “, except as provided for under section 1240a of this title,” after “subchapter”, and added subsecs. (b) and (c).
+<b>1990</b>—Pub. L. 101–508 designated existing provisions as subsec. (a), inserted heading and “, except as provided for under section 1240a of this title,” after “subchapter”, and added subsecs. (b) and (c).
 
 #### Effective Date of 1990 Amendment
 

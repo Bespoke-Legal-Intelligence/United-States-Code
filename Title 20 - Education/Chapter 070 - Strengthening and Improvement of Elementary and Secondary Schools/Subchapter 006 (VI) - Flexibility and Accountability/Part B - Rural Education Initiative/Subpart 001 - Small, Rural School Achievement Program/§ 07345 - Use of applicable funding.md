@@ -36,7 +36,7 @@
 
 #### (2) Certification
 
-&emsp;The Secretary shall determine whether to waive the criteria described in paragraph\(1)(A)(ii) based on a demonstration by the local educational agency, and concurrence by the State educational agency, that the local educational agency is located in an area defined as rural by a governmental agency of the State.
+&emsp;The Secretary shall determine whether to waive the criteria described in paragraph (1)(A)(ii) based on a demonstration by the local educational agency, and concurrence by the State educational agency, that the local educational agency is located in an area defined as rural by a governmental agency of the State.
 
 #### (c) Applicable funding defined
 

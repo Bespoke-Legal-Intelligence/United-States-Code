@@ -32,19 +32,23 @@ Any loans made under this section shall not reduce or otherwise affect any grant
 
 Prior to renumbering as section 417, section 414 of Pub. L. 93–288 contained a subsec. (c) which was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1082.
 
+#### References in Text
+
+This chapter, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+
 #### Prior Provisions
 
 A prior section 417 of Pub. L. 93–288 was renumbered section 420 by Pub. L. 100–707 and is classified to section 5187 of this title.
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–347 substituted “exceed—
+<b>2006</b>—Subsec. (b). Pub. L. 109–347 substituted “exceed—
 
 &emsp;“(1) 25 percent”
 
 > for “exceed 25 per centum” and “; or” for period at end and added par. (2).
 
-2000—Pub. L. 106–390, §207(1)–(3), designated first sentence of subsec. (a) as subsec. (a) and inserted subsec. heading, designated second sentence of subsec. (a) as subsec. (b) and inserted subsec. heading, and designated third sentence of subsec. (a) as subsec. (c)(1) and inserted subsec. and par. headings. Former subsec. (b) redesignated (d).
+<b>2000</b>—Pub. L. 106–390, §207(1)–(3), designated first sentence of subsec. (a) as subsec. (a) and inserted subsec. heading, designated second sentence of subsec. (a) as subsec. (b) and inserted subsec. heading, and designated third sentence of subsec. (a) as subsec. (c)(1) and inserted subsec. and par. headings. Former subsec. (b) redesignated (d).
 
 Subsec. (b). Pub. L. 106–390, §207(5), substituted “shall not exceed” for “and shall not exceed” and inserted before period at end “, and shall not exceed $5,000,000”.
 
@@ -60,7 +64,7 @@ Pub. L. 95–31, title I, May 23, 1977, 91 Stat. 169, provided: “That this Act
 
 Sec. 101. (a) Upon the application of any State, political subdivision of a State, Indian tribe, or public or private nonprofit organization, the Secretary of Commerce is authorized to make grants and loans to applicants in drought impacted areas for projects that implement short-term actions to augment community water supplies where there are severe problems due to water shortages. Such assistance may be for the improvement, expansion, or construction of water supplies, and purchase and transportation of water, which in the opinion of the Secretary of Commerce will make a substantial contribution to the relief of an existing or threatened drought condition in a designated area.
 
-“(b) The Secretary of Commerce may designate any area in the United States as an emergency drought impact area if he or she finds that a major and continuingadverse drought condition exists and is expected to continue, and such condition is causing significant hardships on the affected areas.
+“(b) The Secretary of Commerce may designate any area in the United States as an emergency drought impact area if he or she finds that a major and continuing adverse drought condition exists and is expected to continue, and such condition is causing significant hardships on the affected areas.
 
 “(c) Eligible applicants shall be those States or political subdivisions of States with a population of ten thousand or more, Indian tribes, or public or private nonprofit organizations within areas designated pursuant to subsection (b) of this section.
 

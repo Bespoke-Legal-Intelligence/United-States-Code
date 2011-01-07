@@ -54,25 +54,23 @@ When such certificate has been issued, the Governor shall order the payment of s
 
 #### References in Text
 
-The income tax laws, referred to in subsec. (a), are classified generally to Title 26, Internal Revenue Code.
-
-The Internal Revenue Code of 1986, referred to in subsecs. (d) to (f), is classified generally to Title 26.
+The Internal Revenue Code of 1986, referred to in subsecs. (d) to (f), is classified generally to Title 26, Internal Revenue Code.
 
 The Internal Revenue Code of 1939, referred to in subsecs. (d)(1), (e), and (f), was generally repealed by section 7851 of the Internal Revenue Code of 1986, Title 26. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of Title 26, Internal Revenue Code. See also section 7852(b) of Title 26, Internal Revenue Code, for provision that references in any other law to a provision of the 1939 Code, unless expressly incompatible with the intent thereof, shall be deemed a reference to the corresponding provision of the 1986 Code.
 
-Subtitle A (not including chapter 2 and section 931) and chapters 24 and 25 of subtitle C, referred to in subsec. (d)(1), and subtitle F and chapter 75, referred to insubsecs. (d)(1) and (f), mean subtitle A (§1 et seq.), chapter 2 (§1401 et seq.) of subtitle A, chapters 24 (§3401 et seq.) and 25 (§3501 et seq.) of subtitle C, subtitle F (§6001 et seq.) and chapter 75 (§7201 et seq.) of subtitle F, respectively, of Title 26.
+Subtitle A (not including chapter 2 and section 931) and chapters 24 and 25 of subtitle C, referred to in subsec. (d)(1), and subtitle F and chapter 75, referred to in subsecs. (d)(1) and (f), mean subtitle A (§1 et seq.),chapter 2 (§1401 et seq.) of subtitle A, chapters 24 (§3401 et seq.) and 25 (§3501 et seq.) of subtitle C, subtitle F (§6001 et seq.) and chapter 75 (§7201 et seq.) of subtitle F, respectively, of Title 26.
 
 #### Amendments
 
-2002—Subsec. (d)(3). Pub. L. 107–212 added par. (3).
+<b>2002</b>—Subsec. (d)(3). Pub. L. 107–212 added par. (3).
 
-1986—Subsecs. (d) to (f). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing.
+<b>1986</b>—Subsecs. (d) to (f). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing.
 
-1977—Subsec. (a). Pub. L. 95–134 inserted provision that the Legislature of Guam may levy a separate tax on taxpayers in an amount not to exceed 10 per centum of their annual income tax obligation to the Government of Guam.
+<b>1977</b>—Subsec. (a). Pub. L. 95–134 inserted provision that the Legislature of Guam may levy a separate tax on taxpayers in an amount not to exceed 10 per centum of their annual income tax obligation to the Government of Guam.
 
-1972—Subsec. (d)(2). Pub. L. 92–606 substituted “Needful rules and regulations not inconsistent with the regulations prescribed under section 7654(e) of the Internal Revenue Code of 1954” for “Needful rules and regulations”.
+<b>1972</b>—Subsec. (d)(2). Pub. L. 92–606 substituted “Needful rules and regulations not inconsistent with the regulations prescribed under section 7654(e) of the Internal Revenue Code of 1954” for “Needful rules and regulations”.
 
-1958—Subsec. (a). Pub. L. 85–688 designated existing provisions as subsec. (a).
+<b>1958</b>—Subsec. (a). Pub. L. 85–688 designated existing provisions as subsec. (a).
 
 Subsecs. (b) to (h). Pub. L. 85–688 added subsecs. (b) to (h).
 

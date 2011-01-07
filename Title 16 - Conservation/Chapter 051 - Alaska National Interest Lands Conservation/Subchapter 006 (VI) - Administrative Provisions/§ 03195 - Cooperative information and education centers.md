@@ -24,7 +24,7 @@ Purposes.—The purposes of the Center authorized by subsection (a) shall be—
 
 “(c)
 
-Design.—Design of the center in subsection (a) shall be developed in consultation with other appropriate Federal agencies, the Alaska Division of Tourism and other appropriate agencies of the State of Alaska, the local government of the city in which suchcenter is to be located, and southeast Alaska Native organizations.
+Design.—Design of the center in subsection (a) shall be developed in consultation with other appropriate Federal agencies, the Alaska Division of Tourism and other appropriate agencies of the State of Alaska, the local government of the city in which such center is to be located, and southeast Alaska Native organizations.
 
 “(d)
 

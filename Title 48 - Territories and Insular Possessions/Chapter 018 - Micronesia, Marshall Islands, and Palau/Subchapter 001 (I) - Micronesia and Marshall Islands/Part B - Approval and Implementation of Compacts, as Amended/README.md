@@ -1,7 +1,5 @@
 Part B—Approval and Implementation of Compacts, As Amended
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

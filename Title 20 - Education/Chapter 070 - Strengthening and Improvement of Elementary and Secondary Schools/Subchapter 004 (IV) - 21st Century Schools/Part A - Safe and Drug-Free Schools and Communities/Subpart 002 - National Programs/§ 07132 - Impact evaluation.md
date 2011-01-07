@@ -16,7 +16,7 @@ The National Center for Education Statistics shall collect data, that is subject
 
 #### (c) Biennial report
 
-Not later than January 1, 2003, and every 2 years thereafter, the Secretary shall submit tothe President and Congress a report on the findings of the evaluation conducted under subsection (a) of this section together with the data collected under subsection (b) of this section and data available from other sources on the incidence and prevalence, age of onset, perception of health risk, and perception of social disapproval of drug use and violence in elementary schools and secondary schools in the States. The Secretary shall include data submitted by the States pursuant to subsection 7116(a) of this title.
+Not later than January 1, 2003, and every 2 years thereafter, the Secretary shall submit to the President and Congress a report on the findings of the evaluation conducted under subsection (a) of this section together with the data collected under subsection (b) of this section and data available from other sources on the incidence and prevalence, age of onset, perception of health risk, and perception of social disapproval of drug use and violence in elementary schools and secondary schools in the States. The Secretary shall include data submitted by the States pursuant to subsection 7116(a) of this title.
 
 (Pub. L. 89–10, title IV, §4122, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1752.)
 

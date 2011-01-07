@@ -24,7 +24,7 @@ Prior section 3106 was renumbered section 5306 of this title.
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–275, §101(f)(1)(A), substituted “rated at 10 percent or more” for “described in clause (i) or (ii) of section 3102(1)(A) of this title”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–275, §101(f)(1)(A), substituted “rated at 10 percent or more” for “described in clause (i) or (ii) of section 3102(1)(A) of this title”.
 
 Subsec. (b). Pub. L. 104–275, §101(f)(1)(B), struck out “counseling in accordance with” before “an individualized written plan”.
 
@@ -32,9 +32,9 @@ Subsec. (c). Pub. L. 104–275, §101(f)(1)(C), substituted “with an extended�
 
 Subsecs. (d) to (f). Pub. L. 104–275, §101(f)(1)(D), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
-1994—Subsec. (a). Pub. L. 103–446 substituted “clause (i) or (ii) of section 3102(1)(A)” for “section 3102(1)(A) or (B)”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–446 substituted “clause (i) or (ii) of section 3102(1)(A)” for “section 3102(1)(A) or (B)”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1506 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1506 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “3102(1)(A)” for “1502(1)(A)” and “3104(a)(1)” for “1504(a)(1)” in introductory provisions.
 
@@ -46,9 +46,9 @@ Subsec. (d). Pub. L. 102–83, §5(c)(1), substituted “3105(a)” for “1505(
 
 Subsec. (e). Pub. L. 102–83, §5(c)(1), substituted “3117” for “1517”.
 
-1989—Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
-1986—Subsecs. (a)(2)(B), (b) to (d). Pub. L. 99–576 substituted “currently is reasonably feasible” for “is reasonably feasible” wherever appearing.
+<b>1986</b>—Subsecs. (a)(2)(B), (b) to (d). Pub. L. 99–576 substituted “currently is reasonably feasible” for “is reasonably feasible” wherever appearing.
 
 #### Effective Date
 

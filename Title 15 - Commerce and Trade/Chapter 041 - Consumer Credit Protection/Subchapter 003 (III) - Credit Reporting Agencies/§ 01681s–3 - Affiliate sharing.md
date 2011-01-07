@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(A) using information to make a solicitation for marketing purposes to a consumer with whom the person has a pre-existing business relationship;
 
-&emsp;&emsp;(B) using information to facilitate communications to an individual for whose benefit the person provides employee benefit or other services pursuant to a contract with an employer related to and arising out of the current employment relationship or status of the individual as a participant or beneficiary of an employee benefit plan;
+&emsp;&emsp;(B) using information to facilitate communications to an individual for whose benefit the person provides employee benefit orother services pursuant to a contract with an employer related to and arising out of the current employment relationship or status of the individual as a participant or beneficiary of an employee benefit plan;
 
 &emsp;&emsp;(C) using information to perform services on behalf of another person related by common ownership or affiliated by corporate control, except that this subparagraph shall not be construed as permitting a person to send solicitations on behalf of another person, if such other person would not be permitted to send the solicitation on its own behalf as a result of the election of the consumer to prohibit solicitations under paragraph (1)(B);
 
@@ -92,11 +92,17 @@ Section subject to joint regulations establishing effective dates as prescribed 
 
 #### Regulations
 
-Pub. L. 108–159, title II, §214(b), Dec. 4, 2003, 117 Stat. 1982, provided that:
+Pub. L. 108–159, title II, §214(b), Dec. 4, 2003, 117 Stat. 1982, as amended by Pub. L. 111–203, title X, §1088(b)(3), July 21, 2010, 124 Stat. 2092, provided that:
 
 “(1)
 
-In general.—The Federal banking agencies, the National Credit Union Administration, and the Commission, with respect to the entities that are subject to their respective enforcement authority under section 621 of the Fair Credit Reporting Act \[15 U.S.C. 1681s\] and the Securities and Exchange Commission, and in coordination as described in paragraph (2), shall prescribe regulations to implement section 624 of the Fair Credit Reporting Act \[15 U.S.C. 1681s–3\], as added by this section.
+In general.—Regulations to carry out section 624 of the Fair Credit Reporting Act (15 U.S.C. 1681s–3), shall be prescribed, as described in paragraph (2), by—
+
+&emsp;“(A) the Commodity Futures Trading Commission, with respect to entities subject to its enforcement authorities;
+
+&emsp;“(B) the Securities and Exchange Commission, with respect to entities subject to its enforcement authorities; and
+
+&emsp;“(C) the Bureau, with respect to other entities subject to this Act \[see Short Title of 2003 Amendment note set out under section 1601 of this title\].
 
 “(2)
 
@@ -106,7 +112,7 @@ Coordination.—Each agency required to prescribe regulations under paragraph (1
 
 Considerations.—In promulgating regulations under this subsection, each agency referred to in paragraph (1) shall—
 
-&emsp;“(A) ensure that affiliate sharing notification methods provide a simple means for consumers to make determinations and choices under section 624 of the Fair Credit Reporting Act \[15 U.S.C. 1681s–3\], as added by this section;
+&emsp;“(A) ensure that affiliate sharing notification methods provide a simple means for consumers tomake determinations and choices under section 624 of the Fair Credit Reporting Act \[15 U.S.C. 1681s–3\], as added by this section;
 
 &emsp;“(B) consider the affiliate sharing notification practices employed on the date of enactment of this Act \[Dec. 4, 2003\] by persons that will be subject to that section 624; and
 
@@ -124,11 +130,11 @@ Timing.—Regulations required by this subsection shall—
 
 #### Studies of Information Sharing Practices
 
-Pub. L. 108–159, title II, §214(e), Dec. 4, 2003, 117 Stat. 1983, provided that:
+Pub. L. 108–159, title II, §214(e), Dec. 4, 2003, 117 Stat. 1983, as amended by Pub. L. 111–203, title X, §1088(b)(4), July 21, 2010, 124 Stat. 2092, provided that:
 
 “(1)
 
-In general.—The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly conduct regular studies of the consumer information sharing practices by financial institutions and other persons that are creditors or users of consumer reports with their affiliates.
+In general.—The Federal banking agencies, the National Credit Union Administration, and the Bureau shall jointly conduct regular studies of the consumer information sharing practices by financial institutions and other persons that are creditors or users of consumer reports with their affiliates.
 
 “(2)
 

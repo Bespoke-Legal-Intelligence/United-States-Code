@@ -6,5 +6,5 @@ Unless Congress by law authorizes such action, neither the President nor any per
 
 #### Amendments
 
-1961—Pub. L. 87–185 authorized acceptance of an amendment to the articles of agreement of the Corporation to permit investment in capital stock and to limit the exercise of voting rights.
+<b>1961</b>—Pub. L. 87–185 authorized acceptance of an amendment to the articles of agreement of the Corporation to permit investment in capital stock and to limit the exercise of voting rights.
 

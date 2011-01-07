@@ -1,6 +1,6 @@
 ### §4243. Authorization of appropriations
 
-There are authorized to be appropriated to the Department of Housing and Urban Development for grants under this subchapter such sums as may be necessary for each of fiscal years 2001, 2002, 2003, 2004, and 2005.
+There are authorized to be appropriated to the Department of Housing and Urban Developmentfor grants under this subchapter such sums as may be necessary for each of fiscal years 2001, 2002, 2003, 2004, and 2005.
 
 (Pub. L. 104–330, title VIII, §824, as added Pub. L. 106–568, title II, §203, Dec. 27, 2000, 114 Stat. 2895, and Pub. L. 106–569, title V, §513, Dec. 27, 2000, 114 Stat. 2989.)
 

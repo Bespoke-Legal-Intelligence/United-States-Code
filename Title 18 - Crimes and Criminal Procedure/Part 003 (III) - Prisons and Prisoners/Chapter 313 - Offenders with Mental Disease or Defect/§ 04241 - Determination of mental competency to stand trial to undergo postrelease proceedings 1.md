@@ -46,7 +46,7 @@ Changes were made in phraseology and surplusage omitted.
 
 #### Amendments
 
-2006—Pub. L. 109–248, §302(2)(A), inserted “to undergo postrelease proceedings” after “trial” in section catchline.
+<b>2006</b>—Pub. L. 109–248, §302(2)(A), inserted “to undergo postrelease proceedings” after “trial” in section catchline.
 
 Subsec. (a). Pub. L. 109–248, §302(2)(B), inserted “or at any time after the commencement of probation or supervised release and prior to the completion of the sentence,” after “sentencing of the defendant,”.
 
@@ -54,7 +54,7 @@ Subsec. (d). Pub. L. 109–248, §302(2)(C), substituted “proceedings to go fo
 
 Subsec. (e). Pub. L. 109–248, §302(2)(D), inserted “or other proceedings” after “trial” and substituted “chapters 207 and 227” for “chapter 207”.
 
-1984—Pub. L. 98–473 amended section generally, substituting “Determination of mental competency to stand trial” for “Examination and transfer to hospital” in section catchline, and substituting provisions relating to motion, report, hearing, etc., for determination of competency of defendant, for provisions relating to boards of examiners for examination of inmates of Federal penal and correctional institutions and transfer of such inmates to hospitals.
+<b>1984</b>—Pub. L. 98–473 amended section generally, substituting “Determination of mental competency to stand trial” for “Examination and transfer to hospital” in section catchline, and substituting provisions relating to motion, report, hearing, etc., for determination of competency of defendant, for provisions relating to boards of examiners for examination of inmates of Federal penal and correctional institutions and transfer of such inmates to hospitals.
 
 #### Short Title of 1984 Amendment
 

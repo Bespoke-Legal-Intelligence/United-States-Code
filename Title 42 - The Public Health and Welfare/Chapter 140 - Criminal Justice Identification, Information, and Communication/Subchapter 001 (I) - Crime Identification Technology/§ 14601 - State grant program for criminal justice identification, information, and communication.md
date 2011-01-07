@@ -62,7 +62,7 @@ Grants under this section may be used for programs to establish, develop, update
 
 &emsp;(16) multiagency, multijurisdictional communications systems among the States to share routine and emergency information among Federal, State, and local law enforcement agencies;
 
-&emsp;(17) the capability of the criminal justice system to deliver timely, accurate, and complete criminal history record information to child welfare agencies, organizations, and programs that are engaged in the assessment of risk and other activities related to the protection of children, including protection against child sexual abuse, and placement of children in foster care; and
+&emsp;(17) the capability of the criminal justice system to deliver timely, accurate, and complete criminal history record information to child welfare agencies, organizations, and programs that are engaged in the assessment of risk and other activities related to the protection of children, including protection againstchild sexual abuse, and placement of children in foster care; and
 
 &emsp;(18) notwithstanding subsection (c) of this section, antiterrorism purposes as they relate to any other uses under this section or for other antiterrorism programs.
 
@@ -124,13 +124,13 @@ The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (
 
 #### Amendments
 
-2006—Subsec. (c)(2)(G). Pub. L. 109–162 substituted “such as the Edward Byrne Justice Assistance Grant Program and the M.O.R.E. program” for “such as the Local Law Enforcement Block Grant program (described under the heading ‘Violent Crime ReductionPrograms, State and Local Law Enforcement Assistance’ of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998 (Public Law 105–119)) and the M.O.R.E. program”.
+<b>2006</b>—Subsec. (c)(2)(G). Pub. L. 109–162 substituted “such as the Edward Byrne Justice Assistance Grant Program and the M.O.R.E. program” for “such as the Local Law Enforcement Block Grant program (described under the heading ‘Violent Crime Reduction Programs, State and Local Law Enforcement Assistance’ of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998 (Public Law 105–119)) and the M.O.R.E. program”.
 
-2001—Subsec. (b)(18). Pub. L. 107–56, §1015(1), added par. (18).
+<b>2001</b>—Subsec. (b)(18). Pub. L. 107–56, §1015(1), added par. (18).
 
 Subsec. (e)(1). Pub. L. 107–56, §1015(2), substituted “this section $250,000,000 for each of fiscal years 2002 through 2007” for “this section $250,000,000 for each of fiscal years 1999 through 2003”.
 
-2000—Subsec. (b)(17). Pub. L. 106–177 added par. (17).
+<b>2000</b>—Subsec. (b)(17). Pub. L. 106–177 added par. (17).
 
 Subsec. (e)(2)(B) to (D). Pub. L. 106–561 inserted “and” after semicolon in subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: “not less than 20 percent shall be used by the Attorney General for the purposes described in paragraph (11) of subsection (b) of this section; and”.
 

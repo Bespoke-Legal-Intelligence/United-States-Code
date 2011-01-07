@@ -8,7 +8,7 @@
 
 #### (2) Provisional relief
 
-&emsp;An entity filing a petition under this subsection may request that provisional relief be provided as if the petition had been filed under section 2252(a) of this title.
+&emsp;An entity filing a petition under this subsection may request that provisional relief beprovided as if the petition had been filed under section 2252(a) of this title.
 
 #### (3) Critical circumstances
 

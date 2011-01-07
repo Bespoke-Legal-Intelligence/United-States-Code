@@ -36,7 +36,7 @@ The Attorney General and the Secretary of State are authorized to establish a pr
 
 #### (5) Entry into the United States
 
-&emsp;If arriving by sea or air, the alien arrives at the port of entry into the United States on a carrier, including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a noncommercial aircraft that is owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations <sup>1</sup> which has entered into an agreement with the Attorney General pursuant to subsection (e) of this section. The Attorney General is authorized to require a carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a domestic corporation conducting operations under part 91 of that title, to give suitable and proper bond, in such reasonable amount and containing such conditions as theAttorney General may deem sufficient to ensure compliance with the indemnification requirements of this section, as a term of such an agreement.
+&emsp;If arriving by sea or air, the alien arrives at the port of entry into the United States on a carrier, including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a noncommercial aircraft that is owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations <sup>1</sup> which has entered into an agreement with the Attorney General pursuant to subsection (e) of this section. The Attorney General is authorized to require a carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a domestic corporation conducting operations under part 91 of that title, to give suitable and proper bond, in such reasonable amount and containing such conditions as the Attorney General may deem sufficient to ensure compliance with the indemnification requirements of this section, as a term of such an agreement.
 
 #### (6) Not a safety threat
 
@@ -60,7 +60,7 @@ The Attorney General and the Secretary of State are authorized to establish a pr
 
 #### (11) Eligibility determination under the electronic travel authorization system
 
-&emsp;Beginning on the date on which the electronic travel authorization system developed under subsection (h)(3) is fully operational, each alien traveling under the program shall, before applying for admission to the United States, electronically provide to the system biographical information and such other information as the Secretary of Homeland Security shall determine necessary to determine the eligibility of, and whether there exists a law enforcement or security risk in permitting, the alien to travel to the United States. Upon review of such biographical information, the Secretary of Homeland Security shall determine whether the alien is eligible to travel to the United States under the program.
+&emsp;Beginning on the date on which the electronic travel authorization system developedunder subsection (h)(3) is fully operational, each alien traveling under the program shall, before applying for admission to the United States, electronically provide to the system biographical information and such other information as the Secretary of Homeland Security shall determine necessary to determine the eligibility of, and whether there exists a law enforcement or security risk in permitting, the alien to travel to the United States. Upon review of such biographical information, the Secretary of Homeland Security shall determine whether the alien is eligible to travel to the United States under the program.
 
 #### (b) Waiver of rights
 
@@ -170,7 +170,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 &emsp;&emsp;&emsp;&emsp;(II) shall determine, based upon the evaluation in subclause (I), whether any such designation ought to be continued or terminated under subsection (d) of this section;
 
-&emsp;&emsp;&emsp;&emsp;(III) shall submit a written report to the Committee on the Judiciary, theCommittee on Foreign Affairs, and the Committee on Homeland Security, of the House of Representatives and the Committee on the Judiciary, the Committee on Foreign Relations, and the Committee on Homeland Security and Governmental Affairs of the Senate regarding the continuation or termination of the country's designation that includes an explanation of such determination and the effects described in subclause (I); and
+&emsp;&emsp;&emsp;&emsp;(III) shall submit a written report to the Committee on the Judiciary, the Committee on Foreign Affairs, and the Committee on Homeland Security, of the House of Representatives and the Committee on the Judiciary, the Committee on Foreign Relations, and the Committee on Homeland Security and Governmental Affairs of the Senate regarding the continuation or termination of the country's designation that includes an explanation of such determination and the effects described in subclause (I); and
 
 &emsp;&emsp;&emsp;&emsp;(IV) shall submit to Congress a report regarding the implementation of the electronic travel authorization system under subsection (h)(3) and the participation of new countries in the program through a waiver under paragraph (8).
 
@@ -416,7 +416,7 @@ Notwithstanding any other provision of this section, the Secretary of Homeland S
 
 #### (B) Effective date
 
-&emsp;&emsp;A termination of the designation of a country under subparagraph (A) shall takeeffect on the first day of the first fiscal year following the fiscal year in which the determination under such subparagraph is made. Until such date, nationals of the country shall remain eligible for a waiver under subsection (a) of this section.
+&emsp;&emsp;A termination of the designation of a country under subparagraph (A) shall take effect on the first day of the first fiscal year following the fiscal year in which the determination under such subparagraph is made. Until such date, nationals of the country shall remain eligible for a waiver under subsection (a) of this section.
 
 #### (3) Nonapplicability of certain provisions
 
@@ -486,7 +486,7 @@ In the case of an alien denied a waiver under the program by reason of a ground 
 
 #### (A) System
 
-&emsp;&emsp;The Attorney General and the Secretary of State shall develop and implement an automated data sharing system that will permit them to share data in electronic form fromtheir respective records systems regarding the admissibility of aliens who are nationals of a program country.
+&emsp;&emsp;The Attorney General and the Secretary of State shall develop and implement an automated data sharing system that will permit them to share data in electronic form from their respective records systems regarding the admissibility of aliens who are nationals of a program country.
 
 #### (B) Requirements
 
@@ -522,11 +522,21 @@ In the case of an alien denied a waiver under the program by reason of a ground 
 
 #### (B) Fees
 
-&emsp;&emsp;The Secretary of Homeland Security may charge a fee for the use of the System, which shall be—
+#### (i) In general
 
-&emsp;&emsp;&emsp;(i) set at a level that will ensure recovery of the full costs of providing and administering the System; and
+&emsp;&emsp;&emsp;No later than 6 months after March 4, 2010, the Secretary of Homeland Security shall establish a fee for the use of the System and begin assessment and collection of that fee. The initial fee shall be the sum of—
 
-&emsp;&emsp;&emsp;(ii) available to pay the costs incurred to administer the System.
+&emsp;&emsp;&emsp;&emsp;(I) $10 per travel authorization; and
+
+&emsp;&emsp;&emsp;&emsp;(II) an amount that will at least ensure recovery of the full costs of providing and administering the System, as determined by the Secretary.
+
+#### (ii) Disposition of amounts collected
+
+&emsp;&emsp;&emsp;Amounts collected under clause (i)(I) shall be credited to the Travel Promotion Fund established by subsection (d) of section 2131 of title 22. Amounts collected under clause (i)(II) shall be transferred to the general fund of the Treasury and made available to pay the costs incurred to administer the System.
+
+#### (iii) Sunset of Travel Promotion Fund fee
+
+&emsp;&emsp;&emsp;The Secretary may not collect the fee authorized by clause (i)(I) for fiscal years beginning after September 30, 2015.
 
 #### (C) Validity
 
@@ -592,9 +602,23 @@ In the case of an alien denied a waiver under the program by reason of a ground 
 
 &emsp;&emsp;(B) the procedures by which the Secretary shall improve the method of calculating the rates of nonimmigrants who overstay their authorized period of stay in the United States.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §217, as added Pub. L. 99–603, title III, §313(a), Nov. 6, 1986, 100 Stat. 3435; amended Pub. L. 100–525, §2(p)(1), (2), Oct. 24, 1988, 102 Stat. 2613; Pub. L. 101–649, title II, §201(a), Nov. 29, 1990, 104 Stat. 5012; Pub. L. 102–232, title III, §§303(a)(1), (2), 307(<i>l</i>)(3), Dec. 12, 1991, 105 Stat. 1746, 1756; Pub. L. 103–415, §1(m), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–416, title II, §§210, 211, Oct. 25, 1994, 108 Stat. 4312, 4313; Pub. L. 104–208, div. C, title III, §308(d)(4)(F), (e)(9), title VI, §635(a)–(c)(1), (3), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–702, 3009–703; Pub. L. 105–119, title I, §125, Nov. 26, 1997, 111 Stat. 2471; Pub. L. 105–173, §§1, 3, Apr. 27, 1998, 112 Stat. 56; Pub. L. 106–396, title I, §101(a), title II, §§201–207, title IV, §403(a)–(d), Oct. 30, 2000, 114 Stat. 1637–1644, 1647, 1648; Pub. L. 107–56, title IV, §417(c), (d), Oct. 26, 2001, 115 Stat. 355; Pub. L. 107–173, title III, §307(a), May 14, 2002, 116 Stat. 556; Pub. L. 110–53, title VII, §711(c), (d)(1), Aug. 3, 2007, 121 Stat. 339, 341.)
+(June 27, 1952, ch. 477, title II, ch. 2, §217, as added Pub. L. 99–603, title III, §313(a), Nov. 6, 1986, 100 Stat. 3435; amended Pub. L. 100–525, §2(p)(1), (2), Oct. 24, 1988, 102 Stat. 2613; Pub. L. 101–649, title II, §201(a), Nov. 29, 1990, 104 Stat. 5012; Pub. L. 102–232, title III, §§303(a)(1), (2), 307(<i>l</i>)(3), Dec. 12, 1991, 105 Stat. 1746, 1756; Pub. L. 103–415, §1(m), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–416, title II, §§210, 211, Oct. 25, 1994, 108 Stat. 4312, 4313; Pub. L. 104–208, div. C, title III, §308(d)(4)(F), (e)(9), title VI, §635(a)–(c)(1), (3),Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–702, 3009–703; Pub. L. 105–119, title I, §125, Nov. 26, 1997, 111 Stat. 2471; Pub. L. 105–173, §§1, 3, Apr. 27, 1998, 112 Stat. 56; Pub. L. 106–396, title I, §101(a), title II, §§201–207, title IV, §403(a)–(d), Oct. 30, 2000, 114 Stat. 1637–1644, 1647, 1648; Pub. L. 107–56, title IV, §417(c), (d), Oct. 26, 2001, 115 Stat. 355; Pub. L. 107–173, title III, §307(a), May 14, 2002, 116 Stat. 556; Pub. L. 110–53, title VII, §711(c), (d)(1), Aug. 3, 2007, 121 Stat. 339, 341; Pub. L. 111–145, §9(e), Mar. 4, 2010, 124 Stat. 62; Pub. L. 111–198, §5(a), July 2, 2010, 124 Stat. 1357.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (b)(1) and (c)(7)(B)(iv), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
+
+2010—Subsec. (h)(3)(B). Pub. L. 111–145 amended subpar. (B) generally. Prior to amendment, text read as follows: “The Secretary of Homeland Security may charge a fee for the use of the System, which shall be—
+
+&emsp;“(i) set at a level that will ensure recovery of the full costs of providing and administering the System; and
+
+&emsp;“(ii) available to pay the costs incurred to administer the System.”
+
+Subsec. (h)(3)(B)(ii). Pub. L. 111–198, §5(a)(1), made technical amendment to reference in original act which appears in text as reference to “subsection (d) of section 2131 of title 22”.
+
+Subsec. (h)(3)(B)(iii). Pub. L. 111–198, §5(a)(2), substituted “September 30, 2015.” for “September 30, 2014.”
 
 2007—Subsec. (a). Pub. L. 110–53, §711(d)(1)(A)(i), designated concluding provisions as par. (10) and inserted heading.
 
@@ -650,7 +674,7 @@ Subsec. (a)(2)(A). Pub. L. 106–396, §201, inserted “, either on its own or
 
 Subsec. (a)(3), (4). Pub. L. 106–396, §202(a), added par. (3) and redesignated former par. (3) as (4). Former par. (4) redesignated (5).
 
-Subsec. (a)(5). Pub. L. 106–396, §403(a), substituted “, including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a noncommercial aircraft that is owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations which has entered into an agreement with the Attorney General pursuant to subsection (e) of this section. The Attorney General is authorized to require a carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a domestic corporation conducting operations under part 91 of that title, to give suitable andproper bond, in such reasonable amount and containing such conditions as the Attorney General may deem sufficient to ensure compliance with the indemnification requirements of this section, as a term of such an agreement” for “which has entered into an agreement with the Service to guarantee transport of the alien out of the United States if the alien is found inadmissible or deportable by an immigration officer”.
+Subsec. (a)(5). Pub. L. 106–396, §403(a), substituted “, including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a noncommercial aircraft that is owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations which has entered into an agreement with the Attorney General pursuant to subsection (e) of this section. The Attorney General is authorized to require a carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a domestic corporation conducting operations under part 91 of that title, to give suitable and proper bond, in such reasonable amount and containing such conditions as the Attorney General may deem sufficient to ensure compliance with the indemnification requirements of this section, as a term of such an agreement” for “which has entered into an agreement with the Service to guarantee transport of the alien out of the United States if the alien is found inadmissible or deportable by an immigration officer”.
 
 Pub. L. 106–396, §202(a)(1), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
@@ -852,7 +876,7 @@ Pub. L. 106–396, title IV, §403(e), Oct. 30, 2000, 114 Stat. 1649, provided t
 
 #### Transition Provisions
 
-Section 635(c)(2) of div. C of Pub. L. 104–208 provided that: “A country designated as a pilot program country with probationary status under section 217(g) of the Immigration and Nationality Act \[8 U.S.C. 1187(g)\] (as in effect on the day before the date of the enactment of this Act \[Sept. 30, 1996\]) shall be considered to be designated as a pilot program country on and after such date, subject to placement in probationary status or termination of such designation under such section (as amended by paragraph (1)).”
+Section 635(c)(2) of div. C of Pub. L. 104–208 provided that: “A country designated as a pilot program countrywith probationary status under section 217(g) of the Immigration and Nationality Act \[8 U.S.C. 1187(g)\] (as in effect on the day before the date of the enactment of this Act \[Sept. 30, 1996\]) shall be considered to be designated as a pilot program country on and after such date, subject to placement in probationary status or termination of such designation under such section (as amended by paragraph (1)).”
 
 #### Operation of Automated Data Arrival and Departure Control System; Report to Congress
 

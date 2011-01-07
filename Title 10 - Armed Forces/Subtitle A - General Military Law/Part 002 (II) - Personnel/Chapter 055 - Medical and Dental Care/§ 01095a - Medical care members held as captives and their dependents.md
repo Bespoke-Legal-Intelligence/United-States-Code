@@ -22,7 +22,7 @@
 
 #### Amendments
 
-1988—Subsec. (c). Pub. L. 100–526 substituted “The terms ‘captive status’ ” for “ ‘Captive status’ ” in par. (1), and “The term ‘dependent’ ” for “ ‘Dependent’ ” in par. (2).
+<b>1988</b>—Subsec. (c). Pub. L. 100–526 substituted “The terms ‘captive status’ ” for “ ‘Captive status’ ” in par. (1), and “The term ‘dependent’ ” for “ ‘Dependent’ ” in par. (2).
 
 #### Effective Date; Regulations
 

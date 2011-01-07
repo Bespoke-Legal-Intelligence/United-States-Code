@@ -44,11 +44,11 @@ The Small Business Investment Act of 1958, referred to in subsec. (c)(2)(A)(iii)
 
 #### Amendments
 
-2004—Subsec. (c)(1). Pub. L. 108–357 struck out “, and any regular interest in a FASIT,” before “shall be treated”.
+<b>2004</b>—Subsec. (c)(1). Pub. L. 108–357 struck out “, and any regular interest in a FASIT,” before “shall be treated”.
 
-1996—Subsec. (c)(1). Pub. L. 104–188 inserted “, and any regular interest in a FASIT,” after “REMIC”.
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–188 inserted “, and any regular interest in a FASIT,” after “REMIC”.
 
-1990—Subsec. (c)(1). Pub. L. 101–508, §11801(c)(11)(A), substituted “paragraph (2)” for “paragraph (5)”.
+<b>1990</b>—Subsec. (c)(1). Pub. L. 101–508, §11801(c)(11)(A), substituted “paragraph (2)” for “paragraph (5)”.
 
 Subsec. (c)(2). Pub. L. 101–508, §11801(a)(25), (c)(11)(B), redesignated par. (5) as (2) and struck out former par. (2) “Transitional rule for banks” which read as follows: “In the case of a bank, if the net long-term capital gains of the taxable year from sales or exchanges of qualifying securities exceed the net short-term capital losses of the taxable year from such sales or exchanges, such excess shall be considered as gain from the sale of a capital asset held for more than 6 months to the extent it does not exceed the net gain on sales and exchanges described in paragraph (1).”
 
@@ -62,27 +62,27 @@ Subsec. (c)(4). Pub. L. 101–508, §11801(a)(25), struck out par. (4) “Transi
 
 Subsec. (c)(5). Pub. L. 101–508, §11801(c)(11)(B), redesignated par. (5) as (2).
 
-1988—Subsec. (a). Pub. L. 100–647 substituted “subsections (a) and (b) of section 166” for “subsections (a), (b), and (c) of section 166”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647 substituted “subsections (a) and (b) of section 166” for “subsections (a), (b), and (c) of section 166”.
 
-1986—Subsec. (c)(1). Pub. L. 99–514, §901(d)(3)(A), substituted “referred to in paragraph (5)” for “to which section 585, 586, or 593 applies”.
+<b>1986</b>—Subsec. (c)(1). Pub. L. 99–514, §901(d)(3)(A), substituted “referred to in paragraph (5)” for “to which section 585, 586, or 593 applies”.
 
 Pub. L. 99–514, §671(b)(4), inserted “For purposes of the preceding sentence, any regular or residual interest in a REMIC shall be treated as an evidence of indebtedness.”
 
 Subsec. (c)(5). Pub. L. 99–514, §901(d)(3)(B), added par. (5).
 
-1984—Subsec. (c)(2). Pub. L. 98–369 substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+<b>1984</b>—Subsec. (c)(2). Pub. L. 98–369 substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
-1976—Subsec. (c)(2). Pub. L. 94–455, §1402(b)(2), provided that “9 months” would be changed to “1 year”.
+<b>1976</b>—Subsec. (c)(2). Pub. L. 94–455, §1402(b)(2), provided that “9 months” would be changed to “1 year”.
 
 Pub. L. 94–455, §1402(b)(1)(G), (2), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 
 Subsec. (c)(4). Pub. L. 94–455, §1044(a), added par. (4).
 
-1969—Pub. L. 91–172, §433(c), substituted “Bad debts, losses, and gains with respect to securities held by financial institutions” for “Bad debt and loss deduction with respect to securities held by banks” in section catchline.
+<b>1969</b>—Pub. L. 91–172, §433(c), substituted “Bad debts, losses, and gains with respect to securities held by financial institutions” for “Bad debt and loss deduction with respect to securities held by banks” in section catchline.
 
 Subsec. (c). Pub. L. 91–172, §433(a), redesignated existing provisions as par. (1), inserted reference to sections 585, 586 and 593, and added pars. (2) and (3).
 
-1958—Subsec. (c). Pub. L. 85–866 struck out “with interest coupons or in registered form,” before “exceed the gains”.
+<b>1958</b>—Subsec. (c). Pub. L. 85–866 struck out “with interest coupons or in registered form,” before “exceed the gains”.
 
 #### Effective Date of 2004 Amendment
 

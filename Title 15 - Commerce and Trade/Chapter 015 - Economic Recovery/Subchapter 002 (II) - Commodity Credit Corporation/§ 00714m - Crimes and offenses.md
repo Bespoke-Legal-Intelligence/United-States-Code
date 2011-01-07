@@ -28,13 +28,13 @@ No individual, association, partnership, or corporation shall use the words “C
 
 #### Codification
 
-In subsec. (e), “sections 431 and 432 of title 18” substituted for “sections 114 and 115 of the Act of March 4, 1909, as amended (18 U.S.C., 1940 edition, 204, 205)” on authority of act June 25, 1948, ch. 645, 62 Stat. 683, the first section of which enacted Title 18, Crimes and Criminal Procedure.
+In subsec. (e), “sections 431 and 432 of title 18” substituted for “sections 114 and 115 of the Act of March 4,1909, as amended (18 U.S.C., 1940 edition, 204, 205)” on authority of act June 25, 1948, ch. 645, 62 Stat. 683, the first section of which enacted Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
 
-1956—Subsec. (c). Act Aug. 1, 1956, made it an offense to willfully steal or convert property mortgaged or pledged to a lending agency under a program of the Corporation and prescribed punishment not exceeding $1,000 fine or one year imprisonment or both in the case of property of an amount or value of $500 or less.
+<b>1956</b>—Subsec. (c). Act Aug. 1, 1956, made it an offense to willfully steal or convert property mortgaged or pledged to a lending agency under a program of the Corporation and prescribed punishment not exceeding $1,000 fine or one year imprisonment or both in the case of property of an amount or value of $500 or less.
 
-1949—Subsec. (f). Act June 7, 1949, added subsec. (f).
+<b>1949</b>—Subsec. (f). Act June 7, 1949, added subsec. (f).
 
 #### Exceptions From Transfer of Functions
 

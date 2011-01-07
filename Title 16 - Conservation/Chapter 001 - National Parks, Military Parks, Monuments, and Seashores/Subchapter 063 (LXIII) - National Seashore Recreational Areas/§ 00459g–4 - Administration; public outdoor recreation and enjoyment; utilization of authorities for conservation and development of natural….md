@@ -28,7 +28,7 @@
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–117, §1(b)(1), struck out “(a)” after “(a)”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–117, §1(b)(1), struck out “(a)” after “(a)”.
 
 Subsec. (b). Pub. L. 109–117, §1(b)(2), struck out the subsec. (b) added by Pub. L. 105–229, which was identical to the subsec. (b) added by Pub. L. 105–202.
 
@@ -38,7 +38,7 @@ Subsec. (b)(3)(B). Pub. L. 109–117, §1(a)(2), added subpar. (B) and struck ou
 
 Subsec. (b)(5). Pub. L. 109–117, §1(a)(3), substituted “110” for “100”.
 
-1998—Pub. L. 105–229 directed an amendment identical to that in Pub. L. 105–202 resulting in the insertion of “(a)” before “(a)” in subsec. (a) and the addition of a second, identical subsec. (b).
+<b>1998</b>—Pub. L. 105–229 directed an amendment identical to that in Pub. L. 105–202 resulting in the insertion of “(a)” before “(a)” in subsec. (a) and the addition of a second, identical subsec. (b).
 
 Pub. L. 105–202 designated existing provisions as subsec. (a) and added subsec. (b).
 

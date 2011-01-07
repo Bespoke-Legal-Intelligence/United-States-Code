@@ -4,6 +4,7 @@
 | :--- | ---: |
 | [121\.](%C2%A7%2000121%20-%20Regulations.md) | Regulations. |
 | [122\.](%C2%A7%2000122%20-%20Official%20registers.md) | Official registers. |
+| [122a.](%C2%A7%2000122a%20-%20Public%20availability%20of%20Department%20of%20Defense%20reports%20required%20by%20law.md) | Public availability of Department of Defense reports required by law. |
 | [123\.](%C2%A7%2000123%20-%20Authority%20to%20suspend%20officer%20personnel%20laws%20during%20war%20or%20national%20emergency.md) | Authority to suspend officer personnel laws during war or national emergency. |
 | [123a.](%C2%A7%2000123a%20-%20Suspension%20of%20end-strength%20and%20other%20strength%20limitations%20in%20time%20of%20war%20or%20national%20emergency.md) | Suspension of end-strength and other strength limitations in time of war or national emergency. |
 | [123b.](%C2%A7%2000123b%20-%20Forces%20stationed%20abroad%20limitation%20on%20number.md) | Forces stationed abroad: limitation on number. |
@@ -30,49 +31,51 @@
 
 #### Amendments
 
-2008—Pub. L. 110–417, \[div. A\], title IV, §416(c)(2), Oct. 14, 2008, 122 Stat. 4430, substituted “Suspension of end-strength and other strength limitations in time of war or national emergency” for “Suspension of end-strength limitations in time of war or national emergency” in item 123a.
+<b>2011</b>—Pub. L. 111–383, div. A, title X, §1061(a)(2), Jan. 7, 2011, 124 Stat. 4362, added item 122a.
+
+<b>2008</b>—Pub. L. 110–417, \[div. A\], title IV, §416(c)(2), Oct. 14, 2008, 122 Stat. 4430, substituted “Suspension of end-strength and other strength limitations in time of war or national emergency” for “Suspension of end-strength limitations in time of war or national emergency” in item 123a.
 
 Pub. L. 110–181, div. A, title X, §1063(a)(1)(B), Jan. 28, 2008, 122 Stat. 321, which directed amendment of chapter 3 of title 10 “by revising the table of sections at the beginning of such chapter to reflect the redesignation and transfer made by paragraph (1)”, was executed to reflect the probable intent of Congress by amending the analysis to this chapter to reflect the redesignation and transfer made by section 1063(a)(1)(A) of Pub. L. 110–181, which redesignated the section 127c relating to allied forces participating in combined operations as 127d, and transferred it so as to appear immediately after section 127c relating to purchase of weapons overseas.
 
 Pub. L. 110–181, div. A, title IX, §901(a)(2), Jan. 28, 2008, 122 Stat. 272, struck out item 130a “Major Department of Defense headquarters activities personnel: limitation”.
 
-2006—Pub. L. 109–364, div. A, title XII, §1201(b), title XIV, §1405(b), Oct. 17, 2006, 120 Stat. 2412, 2436, added items 127c, relating to allied forces participating in combined operations, and 130d.
+<b>2006</b>—Pub. L. 109–364, div. A, title XII, §1201(b), title XIV, §1405(b), Oct. 17, 2006, 120 Stat. 2412, 2436, added items 127c, relating to allied forces participating in combined operations, and 130d.
 
 Pub. L. 109–163, div. A, title XII, §1231(b), Jan. 6, 2006, 119 Stat. 3468, added item 127c relating to purchase of weapons overseas.
 
-2003—Pub. L. 108–136, div. A, title VIII, §841(b)(2), Nov. 24, 2003, 117 Stat. 1552, substituted “Authority to procure personal services” for “Experts and consultants: authority to procure services of” in item 129b.
+<b>2003</b>—Pub. L. 108–136, div. A, title VIII, §841(b)(2), Nov. 24, 2003, 117 Stat. 1552, substituted “Authority to procure personal services” for “Experts and consultants: authority to procure services of” in item 129b.
 
-2002—Pub. L. 107–314, div. A, title X, §1065(b), Dec. 2, 2002, 116 Stat. 2656, added item 127b.
+<b>2002</b>—Pub. L. 107–314, div. A, title X, §1065(b), Dec. 2, 2002, 116 Stat. 2656, added item 127b.
 
-2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1073(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–280, added item 130c.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title X, §1073(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–280, added item 130c.
 
-1999—Pub. L. 106–65, div. A, title IX, §921(a)(2), title X, §1044(b), Oct. 5, 1999, 113 Stat. 723, 762, substituted “Major Department of Defense headquarters activities personnel: limitation” for “Management headquarters and headquarters support activities personnel: limitation” in item 130a and added item 130b.
+<b>1999</b>—Pub. L. 106–65, div. A, title IX, §921(a)(2), title X, §1044(b), Oct. 5, 1999, 113 Stat. 723, 762, substituted “Major Department of Defense headquarters activities personnel: limitation” for “Management headquarters and headquarters support activities personnel: limitation” in item 130a and added item 130b.
 
-1997—Pub. L. 105–85, div. A, title IX, §911(a)(2), Nov. 18, 1997, 111 Stat. 1858, added item 130a.
+<b>1997</b>—Pub. L. 105–85, div. A, title IX, §911(a)(2), Nov. 18, 1997, 111 Stat. 1858, added item 130a.
 
-1996—Pub. L. 104–106, div. A, title XV, §1504(a)(8), Feb. 10, 1996, 110 Stat. 513, made technical correction to directory language of Pub. L. 103–337, §1312(a)(2). See 1994 Amendment note below.
+<b>1996</b>—Pub. L. 104–106, div. A, title XV, §1504(a)(8), Feb. 10, 1996, 110 Stat. 513, made technical correction to directory language of Pub. L. 103–337, §1312(a)(2). See 1994 Amendment note below.
 
 Pub. L. 104–106, div. A, title V, §564(a)(2), title X, §1003(a)(2), Feb. 10, 1996, 110 Stat. 326, 417, substituted “Operations for which funds are not provided in advance: funding mechanisms” for “Expenses for contingency operations” in item 127a and added item 129c.
 
-1994—Pub. L. 103–337, div. A, title XVI, §1671(b)(2), Oct. 5, 1994, 108 Stat. 3013, added item 123 and struck out former item 123 “Suspension of certain provisions of law relating to reserve commissioned officers”.
+<b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1671(b)(2), Oct. 5, 1994, 108 Stat. 3013, added item 123 and struck out former item 123 “Suspension of certain provisions of law relating to reserve commissioned officers”.
 
 Pub. L. 103–337, div. A, title XIII, §1312(a)(2), Oct. 5, 1994, 108 Stat. 2894, as amended by Pub. L. 104–106, div. A, title XV, §1504(a)(8), Feb. 10, 1996, 110 Stat. 513, added item 123b.
 
-1993—Pub. L. 103–160, div. A, title XI, §1108(a)(2), Nov. 30, 1993, 107 Stat. 1752, added item 127a.
+<b>1993</b>—Pub. L. 103–160, div. A, title XI, §1108(a)(2), Nov. 30, 1993, 107 Stat. 1752, added item 127a.
 
-1990—Pub. L. 101–510, div. A, title XIV, §§1481(b)(2), 1483(c)(2), Nov. 5, 1990, 104 Stat. 1705, 1715, added items 123a, 129a, and 129b.
+<b>1990</b>—Pub. L. 101–510, div. A, title XIV, §§1481(b)(2), 1483(c)(2), Nov. 5, 1990, 104 Stat. 1705, 1715, added items 123a, 129a, and 129b.
 
-1989—Pub. L. 101–189, div. A, title XII, §1202(a)(2), Nov. 29, 1989, 103 Stat. 1563, added item 124.
+<b>1989</b>—Pub. L. 101–189, div. A, title XII, §1202(a)(2), Nov. 29, 1989, 103 Stat. 1563, added item 124.
 
-1987—Pub. L. 100–180, div. A, title XI, §1123(b), Dec. 4, 1987, 101 Stat. 1150, added item 128.
+<b>1987</b>—Pub. L. 100–180, div. A, title XI, §1123(b), Dec. 4, 1987, 101 Stat. 1150, added item 128.
 
 Pub. L. 100–26, §9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 “Funds transfers for foreign cryptologic support”.
 
-1986—Pub. L. 99–433, title I, §110(c)(2), (e)(1), title II, §211(c)(2), Oct. 1, 1986, 100 Stat. 1002, 1003, 1017, inserted “and Functions” after “General Powers” in chapter heading, struck out item 124 “Combatant commands: establishment; composition; functions; administration and support”, and added items 127 to 130.
+<b>1986</b>—Pub. L. 99–433, title I, §110(c)(2), (e)(1), title II, §211(c)(2), Oct. 1, 1986, 100 Stat. 1002, 1003, 1017, inserted “and Functions” after “General Powers” in chapter heading, struck out item 124 “Combatant commands: establishment; composition; functions; administration and support”, and added items 127 to 130.
 
-1962—Pub. L. 87–651, title II, §201(b), Sept. 7, 1962, 76 Stat. 517, added items 124 to 126.
+<b>1962</b>—Pub. L. 87–651, title II, §201(b), Sept. 7, 1962, 76 Stat. 517, added items 124 to 126.
 
-1958—Pub. L. 85–861, §1(2)(B), Sept. 2, 1958, 72 Stat. 1437, added items 122 and 123.
+<b>1958</b>—Pub. L. 85–861, §1(2)(B), Sept. 2, 1958, 72 Stat. 1437, added items 122 and 123.
 
 
 ---
@@ -81,6 +84,7 @@ Pub. L. 100–26, §9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 �
 
 - [&sect; 00121 - Regulations](%C2%A7%2000121%20-%20Regulations.md)
 - [&sect; 00122 - Official registers](%C2%A7%2000122%20-%20Official%20registers.md)
+- [&sect; 00122a - Public availability of Department of Defense reports required by law](%C2%A7%2000122a%20-%20Public%20availability%20of%20Department%20of%20Defense%20reports%20required%20by%20law.md)
 - [&sect; 00123 - Authority to suspend officer personnel laws during war or national emergency](%C2%A7%2000123%20-%20Authority%20to%20suspend%20officer%20personnel%20laws%20during%20war%20or%20national%20emergency.md)
 - [&sect; 00123a - Suspension of end-strength and other strength limitations in time of war or national emergency](%C2%A7%2000123a%20-%20Suspension%20of%20end-strength%20and%20other%20strength%20limitations%20in%20time%20of%20war%20or%20national%20emergency.md)
 - [&sect; 00123b - Forces stationed abroad limitation on number](%C2%A7%2000123b%20-%20Forces%20stationed%20abroad%20limitation%20on%20number.md)

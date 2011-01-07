@@ -24,7 +24,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-151901D36:601.DAug. 28, 1954, ch. 1036, §§1, 2, 4(1), 68 Stat. 891, 892.
+151901
+
+36:601.
+
+Aug. 28, 1954, ch. 1036, §§1, 2, 4(1), 68 Stat. 891, 892.
 
 &nbsp;
 

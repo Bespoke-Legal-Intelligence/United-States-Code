@@ -110,5 +110,5 @@ In subsection (f), the words “the course of the” are omitted as surplus. The
 
 #### Amendments
 
-1998—Subsec. (c). Pub. L. 105–178 inserted “(and, in the case of a motor carrier, a contractor)” after “employee” in introductory provisions.
+<b>1998</b>—Subsec. (c). Pub. L. 105–178 inserted “(and, in the case of a motor carrier, a contractor)” after “employee” in introductory provisions.
 

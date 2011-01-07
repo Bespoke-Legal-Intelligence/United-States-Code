@@ -1,7 +1,5 @@
 ### SUBCHAPTER IV—FEDERAL FACILITIES
 
-<i><sup>1</sup></i><i> So in original. Should be “(42 U.S.C. 1962d–17(a)).”</i>
-
 
 ---
 

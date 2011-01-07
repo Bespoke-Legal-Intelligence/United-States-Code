@@ -2,11 +2,11 @@
 
 #### (a) Issuance and form
 
-Certificates of registration of marks registered upon the principal register shall be issued in the name of the United States of America, under the seal of the Patent and Trademark Office, and shall be signed by the Director or have his signature placed thereon, and a record thereof shall be kept in the Patent and Trademark Office. The registration shall reproduce the mark, and state that the mark is registered on the principal register under this chapter, the date of the first use of the mark, the date of the first use of the mark in commerce, the particular goods or services for which it is registered, the number and date of the registration, the term thereof, the date on which the application for registration was received in the Patent and Trademark Office, and any conditions and limitations that may be imposed in the registration.
+Certificates of registration of marks registered upon the principal register shall be issued in the name of the United States of America, under the seal of the United States Patent and Trademark Office, and shall be signed by the Director or have his signature placed thereon, and a record thereof shall be kept in the United States Patent and Trademark Office. The registration shall reproduce the mark, and state that the mark is registered on the principal register under this chapter, the date of the first use of the mark, the date of the first use of the mark in commerce, the particular goods or services for which it is registered, the number and date of the registration, the term thereof, the date on which the application for registration was received in the United States Patent and Trademark Office, and any conditions and limitations that may be imposed in the registration.
 
 #### (b) Certificate as prima facie evidence
 
-A certificate of registration of a mark upon the principal register provided by this chapter shall be prima facie evidence of the validity of the registered mark and of the registration of the mark, of the registrant's ownership of the mark, and of the registrant's exclusive right to use the registered mark in commerce on or in connection with the goods or services specified in the certificate, subject to any conditions or limitations stated in the certificate.
+A certificate of registration of a mark upon the principal register provided by this chapter shall be prima facie evidence of the validity of the registered mark and of the registration of the mark, of the owner's ownership of the mark, and of the owner's exclusive right to use the registered mark in commerce on or in connection with the goods or services specified in the certificate, subject to any conditions or limitations stated in the certificate.
 
 #### (c) Application to register mark considered constructive use
 
@@ -20,25 +20,25 @@ Contingent on the registration of a mark on the principal register provided by t
 
 #### (d) Issuance to assignee
 
-A certificate of registration of a mark may be issued to the assignee of the applicant, but the assignment must first be recorded in the Patent and Trademark Office. In case of change of ownership the Director shall, at the request of the owner and upon a proper showing and the payment of the prescribed fee, issue to such assignee a new certificate of registration of the said mark in the name of such assignee, and for the unexpired part of the original period.
+A certificate of registration of a mark may be issued to the assignee of the applicant, but the assignment must first be recorded in the United States Patent and Trademark Office. In case of change of ownership the Director shall, at the request of the owner and upon a proper showing and the payment of the prescribed fee, issue to such assignee a new certificate of registration of the said mark in the name of such assignee, and for the unexpired part of the original period.
 
-#### (e) Surrender, cancellation, or amendment by registrant
+#### (e) Surrender, cancellation, or amendment by owner
 
-Upon application of the registrant the Director may permit any registration to be surrendered for cancellation, and upon cancellation appropriate entry shall be made in the records of the Patent and Trademark Office. Upon application of the registrant and payment of the prescribed fee, the Director for good cause may permit any registration to be amended or to be disclaimed in part: <i>Provided</i>, That the amendment or disclaimer does not alter materially the character of the mark. Appropriate entry shall be made in the records of the Patent and Trademark Office and upon the certificate of registration or, if said certificate is lost or destroyed, upon a certified copy thereof.
+Upon application of the owner the Director may permit any registration to be surrendered for cancellation, and upon cancellation appropriate entry shall be made in the records of the United States Patent and Trademark Office. Upon application of the owner and payment of the prescribed fee, the Director for good cause may permit any registration to be amended or to be disclaimed in part: <i>Provided</i>, That the amendment or disclaimer does not alter materially the character of the mark. Appropriate entry shall be made in the records of the United States Patent and Trademark Office and upon the certificate of registration.
 
-#### (f) Copies of Patent and Trademark Office records as evidence
+#### (f) Copies of United States Patent and Trademark Office records as evidence
 
-Copies of any records, books, papers, or drawings belonging to the Patent and Trademark Office relating to marks, and copies of registrations, when authenticated by the seal of the Patent and Trademark Office and certified by the Director, or in his name by an employee of the Office duly designated by the Director, shall be evidence in all cases wherein the originals would be evidence; and any person making application therefor and paying the prescribed fee shall have such copies.
+Copies of any records, books, papers, or drawings belonging to the United States Patent and Trademark Office relating to marks, and copies of registrations, when authenticated by the seal of the United States Patent and Trademark Office and certified by the Director, or in his name by an employee of the Office duly designated by the Director, shall be evidence in all cases wherein the originals would be evidence; and any person making application therefor and paying the prescribed fee shall have such copies.
 
-#### (g) Correction of Patent and Trademark Office mistake
+#### (g) Correction of United States Patent and Trademark Office mistake
 
-Whenever a material mistake in a registration, incurred through the fault of the Patent and Trademark Office, is clearly disclosed by the records of the Office a certificate stating the fact and nature of such mistake, shall be issued without charge and recorded and a printed copy thereof shall be attached to each printed copy of the registration certificate and such corrected registration shall thereafter have the same effect as if the same had been originally issued in such corrected form, or in the discretion of the Director a new certificate of registration may be issued without charge. All certificates of correction heretofore issued in accordance with the rules of the Patent and Trademark Office and the registrations to which they are attached shall have the same force and effect as if such certificates and their issue had been specifically authorized by statute.
+Whenever a material mistake in a registration, incurred through the fault of the United States Patent and Trademark Office, is clearly disclosed by the records of the Office a certificate stating the fact and nature of such mistake shall be issued without charge and recorded and a printed copy thereof shall be attached to each printed copy of the registration and such corrected registration shall thereafter have the same effect as if the same had been originally issued in such corrected form, or in the discretion of the Director a new certificate of registration may be issued without charge. All certificates of correction heretofore issued in accordance with the rules of the United States Patent and Trademark Office and the registrations to which they are attached shall have the same force and effect as if such certificates and their issue had been specifically authorized by statute.
 
 #### (h) Correction of applicant's mistake
 
 Whenever a mistake has been made in a registration and a showing has been made that such mistake occurred in good faith through the fault of the applicant, the Director is authorized to issue a certificate of correction or, in his discretion, a new certificate upon the payment of the prescribed fee: <i>Provided</i>, That the correction does not involve such changes in the registration as to require republication of the mark.
 
-(July 5, 1946, ch. 540, title I, §7, 60 Stat. 430; Aug. 17, 1950, ch. 733, 64 Stat. 459; Pub. L. 87–772, §4, Oct. 9, 1962, 76 Stat. 769; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §109, Nov. 16, 1988, 102 Stat. 3938; Pub. L. 105–330, title II, §201(a)(3), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
+(July 5, 1946, ch. 540, title I, §7, 60 Stat. 430; Aug. 17, 1950, ch. 733, 64 Stat. 459; Pub. L. 87–772, §4, Oct. 9, 1962, 76 Stat. 769; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §109, Nov. 16, 1988, 102 Stat. 3938; Pub. L. 105–330, title II, §201(a)(3), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 111–146, §3(a), Mar. 17, 2010, 124 Stat. 66.)
 
 #### Prior Provisions
 
@@ -50,11 +50,23 @@ Subsec. (f) is from act Mar. 4, 1925, ch. 535, §1, 43 Stat. 1268.
 
 #### Amendments
 
-1999—Subsecs. (a), (d) to (h). Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
+<b>2010</b>—Subsec. (a). Pub. L. 111–146, §3(a)(1), inserted “United States” before “Patent and Trademark Office” wherever appearing.
 
-1998—Subsec. (a). Pub. L. 105–330 struck out second period at end of first sentence.
+Subsec. (b). Pub. L. 111–146, §3(a)(2), substituted “owner's” for “registrant's” in two places.
 
-1988—Subsec. (b). Pub. L. 100–667, §109(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “A certificate of registration of a mark upon the principal register provided by this chapter shall be prima facie evidence of the validity of the registration, registrant's ownership of the mark, and of registrant's exclusive right to use the mark in commerce in connection with the goods or services specified in the certificate, subject to any conditions and limitations stated therein.”
+Subsec. (d). Pub. L. 111–146, §3(a)(1), inserted “United States” before “Patent and Trademark Office”.
+
+Subsec. (e). Pub. L. 111–146, §3(a)(1), (3), inserted “United States” before “Patent and Trademark Office” in two places, substituted “owner” for “registrant” in two places, and struck out “or, if said certificate is lost or destroyed, upon a certified copy thereof” after “certificate of registration”.
+
+Subsec. (f). Pub. L. 111–146, §3(a)(1), inserted “United States” before “Patent and Trademark Office” in two places.
+
+Subsec. (g). Pub. L. 111–146, §3(a)(4), amended subsec. (g) generally. Prior to amendment, text read as follows: “Whenever a material mistake in a registration, incurred through the fault of the Patent and Trademark Office, is clearly disclosed by the records of the Office a certificate stating the fact and nature of such mistake, shall be issued without charge and recorded and a printed copy thereof shall be attached to each printed copy of the registration certificate and such corrected registration shall thereafter have the same effect as if the same had been originally issued in such corrected form, or in the discretion of the Director a new certificate of registration may be issued without charge. All certificates of correction heretofore issued in accordance with the rules of the Patent and Trademark Office and the registrations to which they are attached shall have the same force and effect as if such certificates and their issue had been specifically authorized by statute.”
+
+<b>1999</b>—Subsecs. (a), (d) to (h). Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
+
+<b>1998</b>—Subsec. (a). Pub. L. 105–330 struck out second period at end of first sentence.
+
+<b>1988</b>—Subsec. (b). Pub. L. 100–667, §109(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “A certificate of registration of a mark upon the principal register provided by this chapter shall be prima facie evidence of the validity of the registration, registrant's ownership of the mark, and of registrant's exclusive right to use the mark in commerce in connection with the goods or services specified in the certificate, subject to any conditions and limitations stated therein.”
 
 Subsec. (c). Pub. L. 100–667, §109(3), added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -68,9 +80,9 @@ Subsec. (g). Pub. L. 100–667, §109(2), redesignated former subsec. (f) as (g)
 
 Subsec. (h). Pub. L. 100–667, §109(2), (6), redesignated former subsec. (g) as (h) and substituted “prescribed fee” for “required fee”.
 
-1975—Subsecs. (a), (c) to (f). Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1975</b>—Subsecs. (a), (c) to (f). Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
-1962—Subsec. (a). Pub. L. 87–772 substituted “signature placed” for “name printed”, and struck out provisions requiring an attestation by an assistant commissioner or by one of the law examiners designated by the Commissioner, together with printed copies of the drawing and statement of the applicant, to be kept in books for that purpose.
+<b>1962</b>—Subsec. (a). Pub. L. 87–772 substituted “signature placed” for “name printed”, and struck out provisions requiring an attestation by an assistant commissioner or by one of the law examiners designated by the Commissioner, together with printed copies of the drawing and statement of the applicant, to be kept in books for that purpose.
 
 Subsec. (d). Pub. L. 87–772, among other charges, removed the requirement of a fee in connection with the voluntary surrender or cancellation of a registration.
 
@@ -78,7 +90,7 @@ Subsec. (e). Pub. L. 87–772 substituted “an employee of the Office” for �
 
 Subsec. (f). Pub. L. 87–772, among other changes, struck out “, signed by the Commissioner and sealed with the seal of the Patent Office” after “nature of such mistake”.
 
-1950—Subsec. (a). Act Aug. 17, 1950, made it unnecessary to include in the certificate a statement of the applicant.
+<b>1950</b>—Subsec. (a). Act Aug. 17, 1950, made it unnecessary to include in the certificate a statement of the applicant.
 
 #### Effective Date of 1999 Amendment
 

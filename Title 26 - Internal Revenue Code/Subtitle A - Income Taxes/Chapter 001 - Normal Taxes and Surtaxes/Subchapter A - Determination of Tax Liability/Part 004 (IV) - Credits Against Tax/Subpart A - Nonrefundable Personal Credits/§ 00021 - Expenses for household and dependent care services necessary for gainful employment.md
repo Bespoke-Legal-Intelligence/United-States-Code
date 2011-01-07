@@ -166,7 +166,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-(Added Pub. L. 94–455, title V, §504(a)(1), Oct. 4, 1976, 90 Stat. 1563, §44A; amended Pub. L. 95–600, title I, §121(a), Nov. 6, 1978, 92 Stat. 2779; Pub. L. 97–34, title I §124 (a)–(d), Aug. 13, 1981, 95 Stat. 197, 198; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; renumbered §21 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(4), 471(c), 474(c), July 18, 1984, 98 Stat. 801, 826, 830; Pub. L. 99–514, title I, §104(b)(1), Oct. 22, 1986, 100 Stat. 2104; Pub. L. 100–203, title X, §10101(a), Dec. 22, 1987, 101 Stat. 1330–384; Pub. L. 100–485, title VII, §703(a)–(c)(1), Oct. 13, 1988, 102 Stat. 2426, 2427; Pub. L. 104–188, title I, §1615(b), Aug. 20, 1996, 110 Stat. 1853; Pub. L. 107–16, title II, §204(a), (b), June 7, 2001, 115 Stat. 49; Pub. L. 107–147, title IV, §418(b), Mar. 9, 2002, 116 Stat. 57; Pub. L. 108–311, title II, §§203, 207(2), (3), Oct. 4, 2004, 118 Stat. 1175, 1177; Pub. L. 109–135, title IV, §404(b), Dec. 21, 2005, 119 Stat. 2634; Pub. L. 110–172, §11(a)(1), Dec. 29, 2007, 121 Stat. 2484.)
+(Added Pub. L. 94–455, title V, §504(a)(1), Oct. 4, 1976, 90 Stat. 1563, §44A; amended Pub. L. 95–600, title I, §121(a), Nov. 6, 1978, 92 Stat. 2779; Pub. L. 97–34, title I §124 (a)–(d), Aug. 13, 1981, 95 Stat.197, 198; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; renumbered §21 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(4), 471(c), 474(c), July 18, 1984, 98 Stat. 801, 826, 830; Pub. L. 99–514, title I, §104(b)(1), Oct. 22, 1986, 100 Stat. 2104; Pub. L. 100–203, title X, §10101(a), Dec. 22, 1987, 101 Stat. 1330–384; Pub. L. 100–485, title VII, §703(a)–(c)(1), Oct. 13, 1988, 102 Stat. 2426, 2427; Pub. L. 104–188, title I, §1615(b), Aug. 20, 1996, 110 Stat. 1853; Pub. L. 107–16, title II, §204(a), (b), June 7, 2001, 115 Stat. 49; Pub. L. 107–147, title IV, §418(b), Mar. 9, 2002, 116 Stat. 57; Pub. L. 108–311, title II, §§203, 207(2), (3), Oct. 4, 2004, 118 Stat. 1175, 1177; Pub. L. 109–135, title IV, §404(b), Dec. 21, 2005, 119 Stat. 2634; Pub. L. 110–172, §11(a)(1), Dec. 29, 2007, 121 Stat. 2484.)
 
 #### Amendment of Section
 
@@ -178,11 +178,11 @@ A prior section 21 was renumbered section 15 of this title.
 
 #### Amendments
 
-2007—Subsec. (e)(5). Pub. L. 110–172 substituted “section 152(e)(4)(A)” for “section 152(e)(3)(A)” in concluding provisions.
+<b>2007</b>—Subsec. (e)(5). Pub. L. 110–172 substituted “section 152(e)(4)(A)” for “section 152(e)(3)(A)” in concluding provisions.
 
-2005—Subsec. (b)(1)(B). Pub. L. 109–135 inserted “(as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B))” after “dependent of the taxpayer”.
+<b>2005</b>—Subsec. (b)(1)(B). Pub. L. 109–135 inserted “(as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B))” after “dependent of the taxpayer”.
 
-2004—Subsec. (a)(1). Pub. L. 108–311, §203(a), substituted “In the case of an individual for which there are 1 or more qualifying individuals (as defined in subsection (b)(1)) with respect to such individual” for “In the case of an individual who maintains a household which includes as a member one or more qualifying individuals (as defined in subsection (b)(1))”.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–311, §203(a), substituted “In the case of an individual for which there are 1 or more qualifying individuals (as defined in subsection (b)(1)) with respect to such individual” for “In the case of an individual who maintains a household which includes as a member one or more qualifying individuals (as defined in subsection (b)(1))”.
 
 Subsec. (b)(1). Pub. L. 108–311, §203(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘qualifying individual’ means—
 
@@ -198,19 +198,19 @@ Subsec. (e)(5). Pub. L. 108–311, §207(2), struck out “paragraph (2) or (4) 
 
 Subsec. (e)(6)(B). Pub. L. 108–311, §207(3), substituted “section 152(f)(1)” for “section 151(c)(3)”.
 
-2002—Subsec. (d)(2)(A). Pub. L. 107–147, §418(b)(1), substituted “$250” for “$200”.
+<b>2002</b>—Subsec. (d)(2)(A). Pub. L. 107–147, §418(b)(1), substituted “$250” for “$200”.
 
 Subsec. (d)(2)(B). Pub. L. 107–147, §418(b)(2), substituted “$500” for “$400”.
 
-2001—Subsec. (a)(2). Pub. L. 107–16, §§204(b), 901, temporarily substituted “35 percent” for “30 percent” and “$15,000” for “$10,000”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (a)(2). Pub. L. 107–16, §§204(b), 901, temporarily substituted “35 percent” for “30 percent” and “$15,000” for “$10,000”. See Effective and Termination Dates of 2001 Amendment note below.
 
 Subsec. (c)(1). Pub. L. 107–16, §§204(a)(1), 901, temporarily substituted “$3,000” for “$2,400”. See Effective and Termination Dates of 2001 Amendment note below.
 
 Subsec. (c)(2). Pub. L. 107–16, §§204(a)(2), 901, temporarily substituted “$6,000” for “$4,800”. See Effective and Termination Dates of 2001 Amendment note below.
 
-1996—Subsec. (e)(10). Pub. L. 104–188 added par. (10).
+<b>1996</b>—Subsec. (e)(10). Pub. L. 104–188 added par. (10).
 
-1988—Subsec. (b)(1)(A). Pub. L. 100–485, §703(a), substituted “age of 13” for “age of 15”.
+<b>1988</b>—Subsec. (b)(1)(A). Pub. L. 100–485, §703(a), substituted “age of 13” for “age of 15”.
 
 Subsec. (c). Pub. L. 100–485, §703(b), inserted at end: “The amount determined under paragraph (1) or (2) (whichever is applicable) shall be reduced by the aggregate amount excludable from gross income under section 129 for the taxable year.”
 
@@ -218,13 +218,13 @@ Subsec. (e)(5)(B). Pub. L. 100–485, §703(a), substituted “age of 13” for 
 
 Subsec. (e)(9). Pub. L. 100–485, §703(c)(1), added par. (9).
 
-1987—Subsec. (b)(2)(A). Pub. L. 100–203 inserted at end “Such term shall not include any amount paid for services outside the taxpayer's household at a camp where the qualifying individual stays overnight.”
+<b>1987</b>—Subsec. (b)(2)(A). Pub. L. 100–203 inserted at end “Such term shall not include any amount paid for services outside the taxpayer's household at a camp where the qualifying individual stays overnight.”
 
-1986—Subsecs. (b)(1)(A), (e)(6)(A). Pub. L. 99–514, §104(b)(1)(A), substituted “section 151(c)” for “section 151(e)”.
+<b>1986</b>—Subsecs. (b)(1)(A), (e)(6)(A). Pub. L. 99–514, §104(b)(1)(A), substituted “section 151(c)” for “section 151(e)”.
 
 Subsec. (e)(6)(B). Pub. L. 99–514, §104(b)(1)(B), substituted “section 151(c)(3)” for “section 151(e)(3)”.
 
-1984—Pub. L. 98–369, §471(c), renumbered section 44A of this title as this section.
+<b>1984</b>—Pub. L. 98–369, §471(c), renumbered section 44A of this title as this section.
 
 Subsec. (a)(1). Pub. L. 98–369, §474(c)(2), (3), substituted “subsection (b)(1)” for “subsection (c)(1)” and “subsection (b)(2)” for “subsection (c)(2)”.
 
@@ -260,9 +260,9 @@ Pub. L. 98–369, §423(c)(4), amended par. (5) generally, substituting subpars.
 
 Subsecs. (f), (g). Pub. L. 98–369, §474(c)(1), redesignated subsecs. (f) and (g) as (e) and (f), respectively.
 
-1983—Subsec. (b)(2). Pub. L. 98–21 substituted “relating to credit for the elderly and the permanently and totally disabled” for “relating to credit for the elderly”.
+<b>1983</b>—Subsec. (b)(2). Pub. L. 98–21 substituted “relating to credit for the elderly and the permanently and totally disabled” for “relating to credit for the elderly”.
 
-1981—Subsec. (a). Pub. L. 97–34, §124(a), designated existing provisions as par. (1), substituted “the applicable percentage” for “20 percent” in par. (1) as so designated, and added par. (2).
+<b>1981</b>—Subsec. (a). Pub. L. 97–34, §124(a), designated existing provisions as par. (1), substituted “the applicable percentage” for “20 percent” in par. (1) as so designated, and added par. (2).
 
 Subsec. (c)(2)(B). Pub. L. 97–34, §124(c), designated existing provisions as cl. (i) and added cl. (ii).
 
@@ -276,7 +276,7 @@ Subsec. (e)(2)(A). Pub. L. 97–34, §124(b)(2)(A), substituted “$200” for �
 
 Subsec. (e)(2)(B). Pub. L. 97–34, §124(b)(2)(B), substituted “$400” for “$333”.
 
-1978—Subsec. (f)(6). Pub. L. 95–600 substituted provision disallowing a credit for any amount paid by a taxpayer to an individual with respect to whom, for the taxable year, a deduction under section 151(e) is allowable either to the taxpayer or his spouse or who is a child of the taxpayer who has not attained the age of 19 at the close of the taxpayer year and defining “taxpayer year” for provision disallowing a credit for any amount paid by the taxpayer to an individual bearing a relationship described in section 152(a)(1) through (8), or a dependent described in section 152(a)(9), except that a credit was allowed for an amount paid by a taxpayer to an individual with respect to whom, for the taxable year of the taxpayer in which the service was performed, neither the taxpayer nor his spouse was entitled to a deduction under section 151(e), provided the service constituted employment within the meaning of section 3121(b).
+<b>1978</b>—Subsec. (f)(6). Pub. L. 95–600 substituted provision disallowing a credit for any amount paid by a taxpayer to an individual with respect to whom, for the taxable year, a deduction under section 151(e) is allowable either to the taxpayer or his spouse or who is a child of the taxpayer who has not attained the age of 19 at the close of the taxpayer year and defining “taxpayer year” for provision disallowing a credit for any amount paid by the taxpayer to an individual bearing a relationship described in section 152(a)(1) through (8), or a dependent described in section 152(a)(9), except that a credit was allowed for an amount paid by a taxpayer to an individual with respect to whom, for the taxable year of the taxpayer in which the service was performed, neither the taxpayer nor his spouse was entitled to a deduction under section 151(e), provided the service constituted employment within the meaning of section 3121(b).
 
 #### Effective Date of 2005 Amendment
 
@@ -294,7 +294,7 @@ Pub. L. 107–147, title IV, §418(c), Mar. 9, 2002, 116 Stat. 58, provided that
 
 Pub. L. 107–16, title II, §204(c), June 7, 2001, 115 Stat. 50, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2002.”
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -342,7 +342,7 @@ Amendment by Pub. L. 98–21 applicable to taxable years beginning after Dec. 31
 
 Section 124(f) of Pub. L. 97–34 provided that:
 
-“(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and enacting section 129 of this title\] shall apply to taxable years beginning after December 31, 1981.
+“(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section andenacting section 129 of this title\] shall apply to taxable years beginning after December 31, 1981.
 
 “(2) The amendments made by subsection (e)(2) \[amending sections 3121, 3306, and 3401 of this title and section 409 of Title 42, The Public Health and Welfare\] shall apply to remuneration paid after December 31, 1981.”
 

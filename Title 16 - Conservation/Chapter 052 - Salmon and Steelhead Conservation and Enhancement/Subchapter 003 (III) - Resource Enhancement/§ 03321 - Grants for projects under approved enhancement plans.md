@@ -6,7 +6,7 @@ The Secretary of the Interior (hereinafter referred to in this subchapter as the
 
 #### (b) Plans
 
-Any such project in the Washington conservation area must be in accordance with a comprehensive enhancement plan developed and agreed to by the State of Washington and the Washington tribal coordinating body within 18 months after December 22, 1980. Any enhancement project in the Columbia River conservation area must be in accordance with a comprehensive enhancement plan developed and agreed to by the State of Washington, the State of Oregon, and the Columbia River tribal coordinating body within 18 months after December 22, 1980. Such plans must be approved by the Secretary, in consultation with the Secretary of Commerce, as provided in this subchapter. The States shallsolicit and consider the comments and views of interested commercial and recreational fishermen, and other interested parties, in developing the comprehensive enhancement plan.
+Any such project in the Washington conservation area must be in accordance with a comprehensive enhancement plan developed and agreed to by the State of Washington and the Washington tribal coordinating body within 18 months after December 22, 1980. Any enhancement project in the Columbia River conservation area must be in accordance with a comprehensive enhancement plan developed and agreed to by the State of Washington, the State of Oregon, and the Columbia River tribal coordinating body within 18 months after December 22, 1980. Such plans must be approved by the Secretary, in consultation with the Secretary of Commerce, as provided in this subchapter. The States shall solicit and consider the comments and views of interested commercial and recreational fishermen, and other interested parties, in developing the comprehensive enhancement plan.
 
 #### (c) Scope
 
@@ -14,7 +14,7 @@ Each comprehensive enhancement plan, and any revisions, or modifications of such
 
 #### (d) Standards
 
-Each comprehensive enhancement plan shall include such standards, restrictions, or conditions as are necessary, to assure that any project included in the plans contributes to the balanced and integrated development of the salmon and steelhead resources of the area. Such standards shall include, but not be limited to provisions designed to—
+Each comprehensive enhancement plan shall include such standards, restrictions, or conditions as are necessary, to assure that any project included in the plans contributes to the balanced and integrated development of the salmon and steelhead resources of the area. Such standards shall include, but not be limited to, provisions designed to—
 
 &emsp;(1) assure that all commercial and recreational fishermen and the treaty tribes shall have a reasonable opportunity to participate in the benefits, considered as a whole, of the salmon and steelhead resources development;
 
@@ -40,7 +40,7 @@ Each comprehensive enhancement plan shall include such standards, restrictions, 
 
 &emsp;(B) provide a copy of the plan to the Pacific Fishery Management Council and, upon request, to any other interested person or group, and solicit and consider the comments and views of such persons or groups with respect to the plan;
 
-&emsp;(C) undertake a biological and technical review of the plan, in consultation with individuals who are knowledgeable with regard to the management, conservation, enhancement, and harvest of the salmon and steelhead resources of the area;
+&emsp;(C) undertake a biological and technical review of the plan, in consultation with individuals who are knowledgeable with regard to the management, conservation, enhancement, andharvest of the salmon and steelhead resources of the area;
 
 &emsp;(D) provide a copy of the plan to and consult with the Secretary of State and the Secretary of Commerce, with respect to the effect of such plan on any international fisheries; and
 

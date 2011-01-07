@@ -46,7 +46,7 @@ As used in this subchapter—
 
 #### (B) Rule of origin
 
-&emsp;&emsp;An article is a product of a country or instrumentality only if (i) it is wholly the growth, product, or manufacture of that country or instrumentality, or (ii) in the case of an article which consists in whole or in part of materials from another country or instrumentality, it has been substantially transformed into a new and different article of commerce with a name, character, or usedistinct from that of the article or articles from which it was so transformed.
+&emsp;&emsp;An article is a product of a country or instrumentality only if (i) it is wholly the growth, product, or manufacture of that country or instrumentality, or (ii) in the case of an article which consists in whole or in part of materials from another country orinstrumentality, it has been substantially transformed into a new and different article of commerce with a name, character, or use distinct from that of the article or articles from which it was so transformed.
 
 #### (C) Lowered threshold for certain products as a consequence of United States-Israel free trade area provisions
 
@@ -92,29 +92,29 @@ Section 601(a)(2), referred to in par. (2), is section 601(a)(2) of Pub. L. 96�
 
 #### Amendments
 
-2007—Par. (4)(A)(vii). Pub. L. 110–138, §§107(c), 401, temporarily added cl. (vii). See Effective and Termination Dates of 2007 Amendment note below.
+<b>2007</b>—Par. (4)(A)(vii). Pub. L. 110–138, §§107(c), 401, temporarily added cl. (vii). See Effective and Termination Dates of 2007 Amendment note below.
 
-2006—Par. (4)(A)(v). Pub. L. 109–169, §§106(c), 401, temporarily added cl. (v). See Effective and Termination Dates of 2006 Amendment note below.
+<b>2006</b>—Par. (4)(A)(v). Pub. L. 109–169, §§106(c), 401, temporarily added cl. (v). See Effective and Termination Dates of 2006 Amendment note below.
 
 Par. (4)(A)(vi). Pub. L. 109–283, §§107(c), 401, temporarily added cl. (vi). See Effective and Termination Dates of 2006 Amendment note below.
 
-2005—Par. (4)(A)(iv). Pub. L. 109–53, §§107(d), 401, temporarily added cl. (iv). See Effective and Termination Dates of 2005 Amendment note below.
+<b>2005</b>—Par. (4)(A)(iv). Pub. L. 109–53, §§107(d), 401, temporarily added cl. (iv). See Effective and Termination Dates of 2005 Amendment note below.
 
-2004—Par.(4)(A)(iii). Pub. L. 108–286, §§106(c), 401, temporarily added cl. (iii). See Effective and Termination Dates of 2004 Amendment note below.
+<b>2004</b>—Par.(4)(A)(iii). Pub. L. 108–286, §§106(c), 401, temporarily added cl. (iii). See Effective and Termination Dates of 2004 Amendment note below.
 
-1996—Par. (4)(D). Pub. L. 104–295 substituted “under the Agreement” for “under the the Agreement”.
+<b>1996</b>—Par. (4)(D). Pub. L. 104–295 substituted “under the Agreement” for “under the the Agreement”.
 
-1994—Par. (1). Pub. L. 103–465, §342(f)(1), substituted “section 3511(d)(17) of this title” for “section 2503(c) of this title”.
+<b>1994</b>—Par. (1). Pub. L. 103–465, §342(f)(1), substituted “section 3511(d)(17) of this title” for “section 2503(c) of this title”.
 
 Par. (4)(C). Pub. L. 103–465, §342(f)(2)(A), substituted “for which the United States is obligated to waive Buy National restrictions under—” and cls. (i) and (ii) for “having a contract value of $50,000 or more which would be covered for procurement by the United States under the Agreement on Government Procurement as in effect on the date on which the Agreement on the Establishment of a Free Trade Area between the Government of the United States of America and the Government of Israel enters into force, but for the SDR 150,000 threshold provided for in article I(1)(b) of the Agreement on Government Procurement.”
 
 Par. (4)(D). Pub. L. 103–465, §342(f)(2)(B), substituted “the Agreement (as defined in paragraph (1)), but for the thresholds provided for in the Agreement.” for “GATT Agreement on Government Procurement, but for the SDR threshold provided for in article I(1)(b) of the GATT Agreement on Government Procurement.”
 
-1993—Par. (4)(A). Pub. L. 103–182 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The term ‘eligible product’ means, with respect to any foreign country or instrumentality, a product or service of that country or instrumentality which is covered under the Agreement for procurement by the United States.”
+<b>1993</b>—Par. (4)(A). Pub. L. 103–182 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The term ‘eligible product’ means, with respect to any foreign country or instrumentality, a product or service of that country or instrumentality which is covered under the Agreement for procurement by the United States.”
 
-1988—Par. (4)(D). Pub. L. 100–449 added subpar. (D).
+<b>1988</b>—Par. (4)(D). Pub. L. 100–449 added subpar. (D).
 
-1985—Par. (4)(C). Pub. L. 99–47 added subpar. (C).
+<b>1985</b>—Par. (4)(C). Pub. L. 99–47 added subpar. (C).
 
 #### Effective and Termination Dates of 2007 Amendment
 

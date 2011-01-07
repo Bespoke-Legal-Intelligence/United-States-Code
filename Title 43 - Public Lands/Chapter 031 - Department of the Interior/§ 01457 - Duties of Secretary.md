@@ -28,7 +28,7 @@ The Secretary of the Interior is charged with the supervision of public business
 
 &emsp;13\. Public lands, including mines.
 
-(R.S. §441; Mar. 3, 1879, ch. 182, 20 Stat. 394; Jan. 12, 1895, ch. 23, 28 Stat. 601; June 17, 1902, ch. 1093, §1, 32 Stat. 388; Feb. 14, 1903, ch. 552, §4, 32 Stat. 826; Mar. 4, 1911, ch. 285, §1, 36 Stat. 1422; July 1, 1916, ch. 209, §1, 39 Stat. 309; Aug. 25, 1916, ch. 408, 39 Stat. 535; Ex. Ord. No. 3861, eff. June 8, 1923; Ex. Ord. No. 4175, eff. Mar. 17, 1925; Ex. Ord. No. 5398, eff. July 21, 1930; June 30, 1932, ch. 320, §1, 47 Stat. 446; Ex. Ord. No. 6611, eff. Feb. 22, 1934; Ex. Ord. No. 6726, eff. May 29, 1934; June 28, 1934, ch. 865, §1, 48 Stat. 1269; 1939 Reorg. Plan No. I, §201, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1939 Reorg. Plan No. II, §4(e), (f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; 1940 Reorg. Plan No. IV, §11, eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236; 1946 Reorg. Plan No. 3, §403(a), eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100; Pub. L. 85–56, title XXII, §2201(1), June 17, 1957, 71 Stat. 157; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
+(R.S. §441; Mar. 3, 1879, ch. 182, 20 Stat. 394; Jan. 12, 1895, ch. 23, 28 Stat. 601; June 17, 1902, ch. 1093, §1, 32 Stat. 388; Feb. 14, 1903, ch. 552, §4, 32 Stat. 826; Mar. 4, 1911, ch. 285, §1, 36 Stat. 1422; July 1, 1916, ch. 209, §1, 39 Stat. 309; Aug. 25, 1916, ch. 408, 39 Stat. 535; Ex. Ord. No. 3861, eff. June 8, 1923; Ex. Ord. No. 4175, eff. Mar. 17, 1925; Ex. Ord. No. 5398, eff. July 21, 1930; June 30, 1932, ch. 320, §1, 47 Stat. 446; Ex. Ord. No. 6611, eff. Feb. 22, 1934; Ex. Ord. No. 6726, eff. May 29, 1934; June 28, 1934, ch. 865, §1, 48 Stat. 1269; 1939 Reorg. Plan No. I, §201, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1939 Reorg. Plan No. II, §4(e), (f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III,§3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; 1940 Reorg. Plan No. IV, §11, eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236; 1946 Reorg. Plan No. 3, §403(a), eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100; Pub. L. 85–56, title XXII, §2201(1), June 17, 1957, 71 Stat. 157; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
 
 #### Codification
 
@@ -38,7 +38,7 @@ Section was formerly classified to section 485 of Title 5 prior to the general r
 
 #### Amendments
 
-1957—Pub. L. 85–56 substituted “Bounty-lands” for “Pensions and bounty-lands” in par. 3.
+<b>1957</b>—Pub. L. 85–56 substituted “Bounty-lands” for “Pensions and bounty-lands” in par. 3.
 
 #### Change of Name
 
@@ -112,7 +112,7 @@ Pub. L. 95–134, title IV, §401, Oct. 15, 1977, 91 Stat. 1163, directed the Se
 
 #### Study of Health and Safety Conditions in Metal and Nonmetallic Mines
 
-Pub. L. 87–300, Sept. 26, 1961, 75 Stat. 649, directed Secretary of the Interior to make a study on healthand safety conditions in metal and nonmetallic mines, excluding coal and lignite mines, which study was to cover causes of injuries and health hazards, the relative effectiveness of voluntary versus mandatory reporting of accident statistics, the relative contribution to safety of inspection programs embodying right-of-entry and right-of-entry with enforcement authority, the effectiveness of health and safety training programs, the cost of an effective safety program, and the scope and adequacy of State mine safety laws, and to submit his findings, accompanied with recommendations for an effective safety program for metal and nonmetallic mines, excluding coal or lignite mines, to Congress not later then two years after Sept. 26, 1961.
+Pub. L. 87–300, Sept. 26, 1961, 75 Stat. 649, directed Secretary of the Interior to make a study on health and safety conditions in metal and nonmetallic mines, excluding coal and lignite mines, which study was to cover causes of injuries and health hazards, the relative effectiveness of voluntary versus mandatory reporting of accident statistics, the relative contribution to safety of inspection programs embodying right-of-entry and right-of-entry with enforcement authority, the effectiveness of health and safety training programs, the cost of an effective safety program, and the scope and adequacy of State mine safety laws, and to submit his findings, accompanied with recommendations for an effective safety program for metal and nonmetallic mines, excluding coal or lignite mines, to Congress not later then two years after Sept. 26, 1961.
 
 #### Surveys, Investigations and Research; Appropriations
 
@@ -168,7 +168,7 @@ Sec. 3. DEVELOPMENT OF A NATIONAL GEOSPATIAL DATA CLEARINGHOUSE. (a) <i>Establis
 
 (d) <i>Agency Utilization of the Clearinghouse</i>. Within 1 year of the date of this order, each agency shall adopt internal procedures to ensure that the agency accesses the Clearinghouse before it expends Federal funds to collect or produce new geospatial data, to determine whether the information has already been collected by others, or whether cooperative efforts to obtain the data are possible.
 
-(e) <i>Funding</i>. The Department of the Interior shall provide funding for the Clearinghouse to cover the initialprototype testing, standards development, and monitoring of the performance of the Clearinghouse. Agencies shall continue to fund their respective programs that collect and produce geospatial data; such data is then to be made part of the Clearinghouse for wider accessibility.
+(e) <i>Funding</i>. The Department of the Interior shall provide funding for the Clearinghouse to cover the initial prototype testing, standards development, and monitoring of the performance of the Clearinghouse. Agencies shall continue to fund their respective programs that collect and produce geospatial data; such data is then to be made part of the Clearinghouse for wider accessibility.
 
 Sec. 4. DATA STANDARDS ACTIVITIES. (a) <i>General FGDC Responsibility</i>. The FGDC shall develop standards for implementing the NSDI, in consultation and cooperation with State, local, and tribal governments, the private and academic sectors, and, to the extent feasible, the international community, consistent with OMB Circular No. A–119 (“Federal Participation in the Development and Use of Voluntary Standards”), and other applicable law and policies.
 

@@ -8,6 +8,10 @@ The Congress declares that a sound, efficient, and privately operated system for
 
 Under this chapter, referred to in text, was in the original “hereunder”, and was translated as meaning under title II of act Aug. 14, 1946, which is classified generally to this chapter.
 
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–239, §1, Sept. 27, 2010, 124 Stat. 2501, provided that: “This Act \[enacting section 1635k of this title, amending sections 1636i, 1637b, and 5712 of this title, enacting provisions set out as notes under sections 1635k and 1637b of this title, and amending provisions set out as a note under section 1635 of this title\] may be cited as the ‘Mandatory Price Reporting Act of 2010’.”
+
 #### Short Title of 2000 Amendment
 
 Pub. L. 106–532, §1, Nov. 22, 2000, 114 Stat. 2541, provided that: “This Act \[enacting subchapter III of this chapter\] may be cited as the ‘Dairy Market Enhancement Act of 2000’.”

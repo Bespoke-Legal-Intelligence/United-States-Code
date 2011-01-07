@@ -30,7 +30,7 @@ With respect to a public health training center, an award may not be made under 
 
 #### Prior Provisions
 
-A prior section 295a, act July 1, 1944, ch. 373, title VII, §782, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2057, authorized grants and contracts for chiropractic demonstration projects, prior to repeal by Pub. L. 105–392, title I, §106(a)(1), Nov. 13, 1998, 112 Stat. 3557.
+A prior section 295a, act July 1, 1944, ch. 373, title VII, §782, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992,106 Stat. 2057, authorized grants and contracts for chiropractic demonstration projects, prior to repeal by Pub. L. 105–392, title I, §106(a)(1), Nov. 13, 1998, 112 Stat. 3557.
 
 Another prior section 295a, act July 1, 1944, ch. 373, title VII, §762, as added Dec. 25, 1970, Pub. L. 91–696, §101, 84 Stat. 2080–2, authorized appropriations for former part D of this subchapter, prior to repeal by Pub. L. 99–129, title II, §220(c), Oct. 22, 1985, 99 Stat. 544.
 

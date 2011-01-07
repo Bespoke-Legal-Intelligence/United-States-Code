@@ -24,5 +24,5 @@ The applicability of the rule stated in 37:279 to all members whose retired pay 
 
 #### Amendments
 
-1980—Pub. L. 96–342 inserted reference to section 1402a(d) of this title.
+<b>1980</b>—Pub. L. 96–342 inserted reference to section 1402a(d) of this title.
 

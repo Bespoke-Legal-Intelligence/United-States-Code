@@ -22,15 +22,15 @@ Section 4462, referred to in par. (2), was repealed by Pub. L. 95–600, title V
 
 #### Amendments
 
-1978—Par. (2). Pub. L. 95–600 substituted “(as defined in section 4462 as in effect for years beginning before July 1, 1980)” for “with respect to which an occupational tax is imposed by section 4461” and “(as so in effect), or” for “if an occupational tax is imposed with respect to such device by section 4461, or”.
+<b>1978</b>—Par. (2). Pub. L. 95–600 substituted “(as defined in section 4462 as in effect for years beginning before July 1, 1980)” for “with respect to which an occupational tax is imposed by section 4461” and “(as so in effect), or” for “if an occupational tax is imposed with respect to such device by section 4461, or”.
 
-1976—Par. (3). Pub. L. 94–455, among other changes, substituted in heading “State-conducted lotteries, etc.” for “State-conducted sweepstakes.”, and struck out provision that no tax be imposed on any wager placed in a sweepstakes, wagering pool, or lottery in which the ultimate winners are determined by the results of a horse race.
+<b>1976</b>—Par. (3). Pub. L. 94–455, among other changes, substituted in heading “State-conducted lotteries, etc.” for “State-conducted sweepstakes.”, and struck out provision that no tax be imposed on any wager placed in a sweepstakes, wagering pool, or lottery in which the ultimate winners are determined by the results of a horse race.
 
-1965—Par. (2). Pub. L. 89–44, §405(a), substituted “section 4462(a)(2),” for “section 4462(a)(2)(B),”.
+<b>1965</b>—Par. (2). Pub. L. 89–44, §405(a), substituted “section 4462(a)(2),” for “section 4462(a)(2)(B),”.
 
 Par. (3). Pub. L. 89–44, §813(a), added par. (3).
 
-1958—Par. (2). Pub. L. 85–859 inserted provisions exempting from the tax amounts paid to operate a device described in section 4462(a)(2)(B), if an occupational tax is imposed with respect to such device by section 4461 of this title.
+<b>1958</b>—Par. (2). Pub. L. 85–859 inserted provisions exempting from the tax amounts paid to operate a device described in section 4462(a)(2)(B), if an occupational tax is imposed with respect to such device by section 4461 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -48,7 +48,7 @@ Section 813(b) of Pub. L. 89–44 provided that: “The amendment made by subsec
 
 #### Effective Date of 1958 Amendment
 
-Section 152(c) of Pub. L. 85–859, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 4462 of this title\] shall take effect on the effective date specified in section 1(c) of this Act \[the first day of the first calendar quarter beginning more than 60 days after Sept. 2, 1958\]. In the case of the year beginning July 1, 1958, where the trade or business on which the tax is imposed undersection 4461 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] was commenced before such effective date, the tax imposed for such year solely by reason of the amendment made by subsection (a)—
+Section 152(c) of Pub. L. 85–859, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 4462 of this title\] shall take effect on the effective date specified in section 1(c) of this Act \[the first day of the first calendar quarter beginning more than 60 days after Sept. 2, 1958\]. In the case of the year beginning July 1, 1958, where the trade or business on which the tax is imposed under section 4461 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] was commenced before such effective date, the tax imposed for such year solely by reason of the amendment made by subsection (a)—
 
 &emsp;“(1) shall be the amount reckoned proportionately from such effective date through June 30, 1959, and
 

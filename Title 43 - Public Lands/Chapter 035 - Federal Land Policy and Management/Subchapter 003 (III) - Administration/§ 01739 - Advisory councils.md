@@ -30,7 +30,7 @@ This Act, referred to in subsec. (e), is Pub. L. 94–579, Oct. 21, 1976, 90 Sta
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–514 substituted in first sentence “shall establish” for “is authorized to establish”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–514 substituted in first sentence “shall establish” for “is authorized to establish”.
 
 #### Termination of Advisory Councils
 

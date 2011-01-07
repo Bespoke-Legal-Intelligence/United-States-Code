@@ -10,7 +10,7 @@ Waste treatment management plans and practices shall provide for the application
 
 #### (c) Waste treatment management area and scope
 
-To the extent practicable, waste treatment management shall be on an areawide basis andprovide control or treatment of all point and nonpoint sources of pollution, including in place or accumulated pollution sources.
+To the extent practicable, waste treatment management shall be on an areawide basis and provide control or treatment of all point and nonpoint sources of pollution, including in place or accumulated pollution sources.
 
 #### (d) Waste treatment management construction of revenue producing facilities
 
@@ -88,7 +88,7 @@ No grant made after November 15, 1981, for a publicly owned treatment works, oth
 
 (2) Notwithstanding any other provision of this chapter, the Administrator shall make a grant from any funds otherwise allotted to the State of California to the city of Eureka, California, in connection with project numbered C–06–2772, for the purchase of one hundred and thirty-nine acres of property as environmental mitigation for siting of the proposed treatment plant.
 
-(3) Notwithstanding any other provision of this chapter, the Administrator shall make agrant from any funds otherwise allotted to the State of California to the city of San Diego, California, in connection with that city's aquaculture sewage process (total resources recovery system) as an innovative and alternative waste treatment process.
+(3) Notwithstanding any other provision of this chapter, the Administrator shall make a grant from any funds otherwise allotted to the State of California to the city of San Diego, California, in connection with that city's aquaculture sewage process (total resources recovery system) as an innovative and alternative waste treatment process.
 
 #### (n) Water quality problems; funds, scope, etc.
 
@@ -114,11 +114,11 @@ In any case in which a dispute arises with respect to the awarding of a contract
 
 #### Amendments
 
-1987—Subsec. (g)(1). Pub. L. 100–4, §316(c), substituted “sentences, the Administrator” for “sentence, the Administrator” and inserted “(A)” after “October 1, 1984, for” and “and (B) any purpose for which a grant may be made under sections 1329(h) and (i) of this title (including any innovative and alternative approaches for the control of nonpoint sources of pollution),” before “except that”.
+<b>1987</b>—Subsec. (g)(1). Pub. L. 100–4, §316(c), substituted “sentences, the Administrator” for “sentence, the Administrator” and inserted “(A)” after “October 1, 1984, for” and “and (B) any purpose for which a grant may be made under sections 1329(h) and (i) of this title (including any innovative and alternative approaches for the control of nonpoint sources of pollution),” before “except that”.
 
 Subsec. (p). Pub. L. 100–4, §201, added subsec. (p).
 
-1981—Subsec. (g)(1). Pub. L. 97–117, §2(a), inserted provisions restricting, on or after Oct. 1, 1984, the categories of projects eligible for grants under this subchapter and providing an exception to the restriction for projects, other than specified projects, within the definition set forth in section 1292(2) of this title, but limiting such exception to not more than 20 per centum, as determined by the Governor of the State, of the amount allotted to a State under section 1285 of this title for any fiscal year.
+<b>1981</b>—Subsec. (g)(1). Pub. L. 97–117, §2(a), inserted provisions restricting, on or after Oct. 1, 1984, the categories of projects eligible for grants under this subchapter and providing an exception to the restriction for projects, other than specified projects, within the definition set forth in section 1292(2) of this title, but limiting such exception to not more than 20 per centum, as determined by the Governor of the State, of the amount allotted to a State under section 1285 of this title for any fiscal year.
 
 Subsec. (k). Pub. L. 97–117, §10(c), inserted provision that subsection not be in effect after Nov. 15, 1981.
 
@@ -130,11 +130,11 @@ Subsec. (n). Pub. L. 97–117, §5, added subsec. (n).
 
 Subsec. (<i>o</i>). Pub. L. 97–117, §6, added subsec. (<i>o</i>).
 
-1980—Subsec. (h). Pub. L. 96–483, §2(d), struck out text following par. (3), relating to payment to the United States by commercial users of that portion of the cost of construction applicable to treatment of commercial wastes to the extent attributable to the Federal share of the cost of construction.
+<b>1980</b>—Subsec. (h). Pub. L. 96–483, §2(d), struck out text following par. (3), relating to payment to the United States by commercial users of that portion of the cost of construction applicable to treatment of commercial wastes to the extent attributable to the Federal share of the cost of construction.
 
 Subsec. (k). Pub. L. 96–483, §3, added subsec. (k).
 
-1977—Subsec. (g)(5). Pub. L. 95–217, §12, added par. (5).
+<b>1977</b>—Subsec. (g)(5). Pub. L. 95–217, §12, added par. (5).
 
 Subsec. (g)(6). Pub. L. 95–217, §13, added par. (6).
 
@@ -252,7 +252,7 @@ Pub. L. 104–134, title I, §101(e) \[title III\], Apr. 26, 1996, 110 Stat. 132
 
 #### Grants to Trust Territory of the Pacific Islands, American Samoa, Guam, Northern Mariana Islands, and Virgin Islands; Waiver of Collector Sewers Limitation
 
-Pub. L. 99–396, §12(b), Aug. 27, 1986, 100 Stat. 841, provided that: “In awarding grants to the Trust Territory of the Pacific Islands, American Samoa, Guam, the Northern Mariana Islands and the Virgin Islands under section 201(g)(1) of the Clean Water Act (33 U.S.C. 1251 et seq.) \[subsec. (g)(1) of this section\], the Administrator of the Environmental Protection Agency may waive limitations regarding grant eligibility for sewerage facilities and related appurtenances, insofar as such limitations relate to collector sewers, based upon a determination that applying such limitations could hinder the alleviation of threats to public health and water quality. In making such a determination, the Administrator shall take into consideration the public health and water quality benefits to be derived and the availability of alternate funding sources. The Administrator shall not award grants under this section for the operation and maintenance of sewerage facilities, forconstruction of facilities which are not an essential component of the sewerage facilities, or any other activities or facilities which are not concerned with the management of wastewater to alleviate threats to public health and water quality.” \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
+Pub. L. 99–396, §12(b), Aug. 27, 1986, 100 Stat. 841, provided that: “In awarding grants to the Trust Territory of the Pacific Islands, American Samoa, Guam, the Northern Mariana Islands and the Virgin Islands under section 201(g)(1) of the Clean Water Act (33 U.S.C. 1251 et seq.) \[subsec. (g)(1) of this section\], the Administrator of the Environmental Protection Agency may waive limitations regarding grant eligibility for sewerage facilities and related appurtenances, insofar as such limitations relate to collector sewers, based upon a determination that applying such limitations could hinder the alleviation of threats to public health and water quality. In making such a determination, the Administrator shall take into consideration the public health and water quality benefits to be derived and the availability of alternate funding sources. The Administrator shall not award grants under this section for the operation and maintenance of sewerage facilities, for construction of facilities which are not an essential component of the sewerage facilities, or any other activities or facilities which are not concerned with the management of wastewater to alleviate threats to public health and water quality.” \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
 
 #### Environmental Financing Authority
 

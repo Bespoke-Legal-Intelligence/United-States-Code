@@ -56,5 +56,5 @@ Assessments.—The report required by paragraph (1) shall also include the Secre
 
 #### Amendments
 
-2009—Subsec. (b)(1). Pub. L. 111–84, which directed substitution of “July 28 of every even-numbered year” for “180 days after date of the enactment of this section, and every even-numbered year thereafter”, was executed by making the substitution for “180 days after the date of the enactment of this section, and every even-numbered year thereafter” to reflect the probable intent of Congress.
+<b>2009</b>—Subsec. (b)(1). Pub. L. 111–84, which directed substitution of “July 28 of every even-numbered year” for “180 days after date of the enactment of this section, and every even-numbered year thereafter”, was executed by making the substitution for “180 days after the date of the enactment of this section, and every even-numbered year thereafter” to reflect the probable intent of Congress.
 

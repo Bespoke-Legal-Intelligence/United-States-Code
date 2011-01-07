@@ -46,7 +46,7 @@ The Congress hereby declares that it is the purpose of this section (1) to estab
 
 #### (4) Meetings and functions of the Board
 
-&emsp;The Board of Directors shall meet at the call of its Chairman, but at least semiannually. The Board shall determine the general policies which shall govern the operations of the Association. The Chairman of the Board shall, with the approval of the Board, select, appoint, and compensate qualified persons to fill the offices as may be provided for in the bylaws, with such functions, powers, and duties as may be prescribed by the bylaws or by the Board ofDirectors, and such persons shall be the officers of the Association and shall discharge all such functions, powers, and duties.
+&emsp;The Board of Directors shall meet at the call of its Chairman, but at least semiannually. The Board shall determine the general policies which shall govern the operations of the Association. The Chairman of the Board shall, with the approval of the Board, select, appoint, and compensate qualified persons to fill the offices as may be provided for in the bylaws, with such functions, powers, and duties as may be prescribed by the bylaws or by the Board of Directors, and such persons shall be the officers of the Association and shall discharge all such functions, powers, and duties.
 
 #### (d) Authority of Association
 
@@ -98,7 +98,7 @@ The Congress hereby declares that it is the purpose of this section (1) to estab
 
 #### (e) Advances to lenders that do not discriminate
 
-The Association, pursuant to such criteria as the Board of Directors may prescribe, shall make advances on security or purchase student loans pursuant to subsection (d) of this section only after the Association is assured that the lender (1) does not discriminate by pattern or practice against any particular class or category of students by requiring that, as a condition to the receipt of a loan, the student or his family maintain a business relationship with the lender, except that this clause shall not apply in the case of a loan made by a credit union, savings and loan association, mutual savings bank, institution of higher education, or any other lender with less than $75,000,000 in deposits, and (2) does not discriminate on the basis of race, sex, color, creed, or national origin.
+The Association, pursuant to such criteria as the Board of Directors may prescribe, shall make advances on security or purchase student loans pursuant to subsection (d) of this section only after the Association is assured that the lender (1) does not discriminate by pattern or practice against any particular class or category of students by requiring that, as a condition tothe receipt of a loan, the student or his family maintain a business relationship with the lender, except that this clause shall not apply in the case of a loan made by a credit union, savings and loan association, mutual savings bank, institution of higher education, or any other lender with less than $75,000,000 in deposits, and (2) does not discriminate on the basis of race, sex, color, creed, or national origin.
 
 #### (f) Stock of the Association
 
@@ -202,7 +202,7 @@ All obligations issued by the Association including those made under subsection 
 
 #### (m) Preparation of obligations
 
-In order to furnish obligations for delivery by the Association, the Secretary of the Treasury is authorized to prepare such obligations in such form as the Board of Directors may approve, such obligations when prepared to be held in the Treasury subject to delivery upon order by the Association. The engraved plates, dies, bed pieces, and so forth, executed in connection therewith shall remain in the custody of the Secretary of the Treasury. The Association shall reimburse the Secretary of the Treasury for any expenditures made in the preparation, custody, and delivery of such obligations. The Secretaryof the Treasury is authorized to promulgate regulations on behalf of the Association so that the Association may utilize the book-entry system of the Federal Reserve Banks.
+In order to furnish obligations for delivery by the Association, the Secretary of the Treasury is authorized to prepare such obligations in such form as the Board of Directors may approve, such obligations when prepared to be held in the Treasury subject to delivery upon order by the Association. The engraved plates, dies, bed pieces, and so forth, executed in connection therewith shall remain in the custody of the Secretary of the Treasury. The Association shall reimburse the Secretary of the Treasury for any expenditures made in the preparation, custody, and delivery of such obligations. The Secretary of the Treasury is authorized to promulgate regulations on behalf of the Association so that the Association may utilize the book-entry system of the Federal Reserve Banks.
 
 #### (n) Report on operations and activities
 
@@ -326,7 +326,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 #### (3) Monitoring of safety and soundness
 
-&emsp;The Secretary of the Treasury shall conduct such studies as may be necessary to monitorthe financial safety and soundness of the Association. In the event that the Secretary of the Treasury determines that the financial safety and soundness of the Association is at risk, the Secretary of the Treasury shall inform the Chairman and ranking minority member of the Committee on Labor and Human Resources of the Senate, the Chairman and ranking minority member of the Committee on Education and Labor of the House of Representatives, and the Secretary of Education of such determination and identify any corrective actions that should be taken to ensure the safety and soundness of the Association.
+&emsp;The Secretary of the Treasury shall conduct such studies as may be necessary to monitor the financial safety and soundness of the Association. In the event that the Secretary of the Treasury determines that the financial safety and soundness of the Association is at risk, the Secretary of the Treasury shall inform the Chairman and ranking minority member of the Committee on Labor and Human Resources of the Senate, the Chairman and ranking minority member of the Committee on Education and Labor of the House of Representatives, and the Secretary of Education of such determination and identify any corrective actions that should be taken to ensure the safety and soundness of the Association.
 
 #### (4) Capital standard
 
@@ -336,7 +336,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 #### (A) Submission, approval, and implementation
 
-&emsp;&emsp;The Secretary of the Treasury and the Association shall consult with respect to any capital restoration plan submitted pursuant to paragraph (4) and the Secretary of the Treasury shall approve such plan (or a modification thereof accepted by the Association) or disapprove such plan within 30 days after such plan is first submitted to the Secretary of the Treasury by the Association, unless the Association and Secretary of the Treasury mutually agree to a longer consideration period. If the Secretary of the Treasury approves a capital restoration plan (including a modification of a plan accepted by the Association), the Association shall forthwith proceed with diligence to implement such plan to the best of its ability.
+&emsp;&emsp;The Secretary of the Treasury and the Association shall consult with respect to anycapital restoration plan submitted pursuant to paragraph (4) and the Secretary of the Treasury shall approve such plan (or a modification thereof accepted by the Association) or disapprove such plan within 30 days after such plan is first submitted to the Secretary of the Treasury by the Association, unless the Association and Secretary of the Treasury mutually agree to a longer consideration period. If the Secretary of the Treasury approves a capital restoration plan (including a modification of a plan accepted by the Association), the Association shall forthwith proceed with diligence to implement such plan to the best of its ability.
 
 #### (B) Disapproval
 
@@ -510,7 +510,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 #### (3) Dissolution of the Association
 
-&emsp;The Association shall dissolve and the Association's separate existence shall terminate on July 1, 2013, after discharge of all outstanding debt obligations and liquidation pursuant to this subsection. The Association may dissolve pursuant to this subsection prior to such date by notifying the Secretary of Education and the Secretary of the Treasury of the Association's intention to dissolve, unless within 60 days of receipt of such notice the Secretary of Education notifies the Association that the Association continues to be needed to serve as a lender of last resort pursuant to subsection (q) of this section or continues to be needed to purchase loans under an agreement with theSecretary described in paragraph (4)(A). On the dissolution date, the Association shall take the following actions:
+&emsp;The Association shall dissolve and the Association's separate existence shall terminate on July 1, 2013, after discharge of all outstanding debt obligations and liquidation pursuant to this subsection. The Association may dissolve pursuant to this subsection prior to such date by notifying the Secretary of Education and the Secretary of the Treasury of the Association's intention to dissolve, unless within 60 days of receipt of such notice the Secretary of Education notifies the Association that the Association continues to be needed to serve as a lender of last resort pursuant to subsection (q) of this section or continues to be needed to purchase loans under an agreement with the Secretary described in paragraph (4)(A). On the dissolution date, the Association shall take the following actions:
 
 #### (A) Establishment of a trust
 
@@ -518,7 +518,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 #### (B) Use of trust assets
 
-&emsp;&emsp;All money, obligations, or financial assets deposited into the trust pursuant to this subsection shall be applied by the trustee to the payment of the remaining obligations assumed by the trust. Upon the fulfillment of the trustee's duties under the trust, any remaining assets of the trust shall be transferred to the persons who, at the time of the dissolution, were the shareholders of the Association, or to the legal successors or assigns of such persons.
+&emsp;&emsp;All money, obligations, or financial assets deposited into the trust pursuant to this subsection shall be applied by the trustee to the payment of the remaining obligations assumed by the trust. Upon the fulfillment of the trustee's duties under the trust, anyremaining assets of the trust shall be transferred to the persons who, at the time of the dissolution, were the shareholders of the Association, or to the legal successors or assigns of such persons.
 
 #### (C) Obligations not transferred to the trust
 
@@ -574,15 +574,15 @@ A prior section 1087–2, Pub. L. 89–329, title IV, §439, as added Pub. L. 92
 
 #### Amendments
 
-2006—Subsec. (r)(15)(A). Pub. L. 109–291 substituted “means any nationally recognized statistical rating organization, as that term is defined in section 78c(a) of title 15” for “means any entity recognized as such by the Securities and Exchange Commission”.
+<b>2006</b>—Subsec. (r)(15)(A). Pub. L. 109–291 substituted “means any nationally recognized statistical rating organization, as that term is defined in section 78c(a) of title 15” for “means any entity recognized as such by the Securities and Exchange Commission”.
 
-2004—Subsec. (r)(9), (12). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
+<b>2004</b>—Subsec. (r)(9), (12). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
 
-2000—Subsec. (r)(2)(A)(i). Pub. L. 106–554, §1(a)(1) \[title III, §309(1)\], which directed amendment of this section by substituting “and fix the compensation of such auditors and examiners as may be necessary” for “auditors and examiners”, was executed by making the substitution for “auditors or examiners”, to reflect the probable intent of Congress.
+<b>2000</b>—Subsec. (r)(2)(A)(i). Pub. L. 106–554, §1(a)(1) \[title III, §309(1)\], which directed amendment of this section by substituting “and fix the compensation of such auditors and examiners as may be necessary” for “auditors and examiners”, was executed by making the substitution for “auditors or examiners”, to reflect the probable intent of Congress.
 
 Subsec. (r)(2)(F). Pub. L. 106–554, §1(a)(1) \[title III, §309(2)\], added subpar. (F).
 
-1996—Subsec. (r)(1)(C). Pub. L. 104–208, §101(e) \[title VI, §602(b)(3)(A)\], added subpar. (C).
+<b>1996</b>—Subsec. (r)(1)(C). Pub. L. 104–208, §101(e) \[title VI, §602(b)(3)(A)\], added subpar. (C).
 
 Subsec. (r)(2)(A)(i), (ii). Pub. L. 104–208, §101(e) \[title VI, §602(b)(3)(B)(i)\], added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
@@ -606,7 +606,7 @@ Subsec. (r)(16), (17). Pub. L. 104–208, §101(e), \[title VI, §602(b)(4)(B)\]
 
 Subsec. (s). Pub. L. 104–208, §101(e) \[title VI, §602(c)\], added subsec. (s).
 
-1994—Subsec. (d)(1)(C). Pub. L. 103–382, §358(1)(A), (D), inserted “(including related equipment, instrumentation, and furnishings)” after “materials” in introductory provisions and substituted “30 percent” for “15 percent” and “types” for “type” in concluding provisions.
+<b>1994</b>—Subsec. (d)(1)(C). Pub. L. 103–382, §358(1)(A), (D), inserted “(including related equipment, instrumentation, and furnishings)” after “materials” in introductory provisions and substituted “30 percent” for “15 percent” and “types” for “type” in concluding provisions.
 
 Subsec. (d)(1)(C)(ii). Pub. L. 103–382, §358(1)(B), substituted “, dining halls, student unions, and facilities specifically designed to promote fitness and health for students, faculty, and staff or for physical education courses; and” for the semicolon.
 
@@ -614,13 +614,13 @@ Subsec. (d)(1)(C)(iii), (iv). Pub. L. 103–382, §358(1)(C), (E), struck out �
 
 Subsec. (n). Pub. L. 103–382, §358(2), substituted “a report of the Association's operations and activities, including a report with respect to all facilities transactions, during each year” for “a report of its operations and activities during each year”.
 
-1993—Subsec. (h)(7). Pub. L. 103–66, §4104, added par. (7).
+<b>1993</b>—Subsec. (h)(7). Pub. L. 103–66, §4104, added par. (7).
 
 Subsec. (q). Pub. L. 103–66, §4041(c), amended subsec. (q) generally, substituting present provisions for substantially similar former provisions.
 
 Subsec. (r)(12). Pub. L. 103–208 substituted “section 552” for “section 522”.
 
-1992—Subsec. (c). Pub. L. 102–325, §431(a), amended subsec. (c) generally, substituting present provisions consisting of pars. (1) to (4) for former provisions which provided for: in par. (1), Board membership; in par. (2), interim Board; in par. (3), regular Board; in par. (4), succession of regular Board; in par. (5), terms of appointed and elected members; and in par. (6), meetings and functions of Board.
+<b>1992</b>—Subsec. (c). Pub. L. 102–325, §431(a), amended subsec. (c) generally, substituting present provisions consisting of pars. (1) to (4) for former provisions which provided for: in par. (1), Board membership; in par. (2), interim Board; in par. (3), regular Board; in par. (4), succession of regular Board; in par. (5), terms of appointed and elected members; and in par. (6), meetings and functions of Board.
 
 Subsec. (d)(1)(C). Pub. L. 102–325, §431(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “to buy, sell, hold, insure, underwrite, and otherwise deal in obligations issued for the purpose of financing or refinancing the construction, reconstruction, renovation, or purchase of educational and training facilities and housing for students and faculties (including the underlying real property), and related equipment, instrumentation, and furnishings;”.
 
@@ -630,9 +630,9 @@ Subsec. (f). Pub. L. 102–325, §431(d), amended subsec. (f) generally, substit
 
 Subsec. (r). Pub. L. 102–325, §431(e), added subsec. (r).
 
-1988—Subsec. (h)(1). Pub. L. 100–369 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” in two places, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1988</b>—Subsec. (h)(1). Pub. L. 100–369 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” in two places, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1987—Subsec. (d)(1)(E)(iii). Pub. L. 100–50 inserted “Labor and” before “Human Resources”.
+<b>1987</b>—Subsec. (d)(1)(E)(iii). Pub. L. 100–50 inserted “Labor and” before “Human Resources”.
 
 #### Change of Name
 

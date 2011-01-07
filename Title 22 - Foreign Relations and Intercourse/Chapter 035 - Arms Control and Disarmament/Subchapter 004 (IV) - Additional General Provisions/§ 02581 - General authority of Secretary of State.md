@@ -4,7 +4,7 @@ In addition to any authorities otherwise available, the Secretary of State in th
 
 #### (a) Utilization of other Federal agencies; transfers of supplies, equipment, and surplus property
 
-utilize or employ the services, personnel, equipment, or facilities of any other Government agency, with the consent of the agency concerned, to perform such functions on behalf of the Department of State as may appear desirable. Any Government agency is authorized, not withstanding any other provision of law, to transfer to or to receive from the Secretary of State, without reimbursement, supplies and equipment other than administrative supplies or equipment. Transfer or receipt of excess property shall be in accordance with the provisions of the Federal Property and Administrative Services Act of 1949, as amended; <sup>1</sup>
+utilize or employ the services, personnel, equipment, or facilities of any other Government agency, with the consent of the agency concerned, to perform such functions on behalf of the Department of State as may appear desirable. Any Government agency is authorized, not withstanding any other provision of law, to transfer to or to receive from the Secretary of State, without reimbursement, supplies and equipment other than administrative supplies or equipment. Transfer or receipt of excess property shall be in accordance with the provisions of chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41;
 
 #### (b) Employment of personnel
 
@@ -16,7 +16,7 @@ appoint and fix the compensation of employees possessing specialized technical e
 
 &emsp;&emsp;(B) exceeding the maximum rate payable for grade 15 of the General Schedule; and
 
-&emsp;(2) the number of employees appointed under this subsection shall not exceed 10 percent of the Department of State's full-time-equivalent positions allocated to carry out the purpose of this chapter.<sup>2</sup>
+&emsp;(2) the number of employees appointed under this subsection shall not exceed 10 percent of the Department of State's full-time-equivalent positions allocated to carry out the purpose of this chapter.<sup>1</sup>
 
 #### (c) Detail of other agency personnel without prejudice to status or advancement
 
@@ -50,15 +50,15 @@ make, promulgate, issue, rescind, and amend such rules and regulations as may be
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
-
-The provisions of title 5 governing appointment to the competitive service, referred to in subsec. (b), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 The General Schedule, referred to in subsec. (b), is set out under section 5332 of Title 5.
+
+#### Codification
+
+In subsec. (a), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-1998—Pub. L. 105–277, §1223(13)(A), substituted “In addition to any authorities otherwise available, the Secretary of State in the performance of functions under this chapter” for “In the performance of his functions, the Director” in introductory provisions.
+<b>1998</b>—Pub. L. 105–277, §1223(13)(A), substituted “In addition to any authorities otherwise available, the Secretary of State in the performance of functions under this chapter” for “In the performance of his functions, the Director” in introductory provisions.
 
 Subsec. (a). Pub. L. 105–277, §1223(13)(B), (C), substituted “Department of State” for “Agency” and “Secretary of State” for “Director”, and struck out “It is the intent of this section that the Director rely upon the Department of State for general administrative services in the United States and abroad to the extent agreed upon between the Secretary of State and the Director.” after “may appear desirable.”
 
@@ -80,7 +80,7 @@ Subsec. (i). Pub. L. 105–277, §1223(13)(B), (F), redesignated subsec. (j) as 
 
 Subsec. (j). Pub. L. 105–277, §1223(13)(F), redesignated subsec. (j) as (i).
 
-1994—Subsec. (b). Pub. L. 103–236 substituted “except that the Director may, to the extent the Director determines necessary to the discharge of his responsibilities, appoint and fix the compensation of employees possessing specialized technical expertise without regard to the provisions of title 5 governing appointments in the competitive service and the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, if the Director ensures that—” for “except that during the 2-year period beginning on August 17, 1977, the Director may, to the extent he deems necessary to the discharge of his responsibilities, appoint and fix the compensation of officers and employees for the Agency without regard to such provisions, subject to the following requirements:”, added pars. (1) and (2), and struck out former pars. (1) to (3) which read as follows:
+<b>1994</b>—Subsec. (b). Pub. L. 103–236 substituted “except that the Director may, to the extent the Director determines necessary to the discharge of his responsibilities, appoint and fix the compensation of employees possessing specialized technical expertise without regard to the provisions of title 5 governing appointments in the competitive service and the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, if the Director ensures that—” for “except that during the 2-year period beginning on August 17, 1977, the Director may, to the extent he deems necessary to the discharge of his responsibilities, appoint and fix the compensation of officers and employees for the Agency without regard to such provisions, subject to the following requirements:”, added pars. (1) and (2), and struck out former pars. (1) to (3) which read as follows:
 
 “(1) an officer or employee whose compensation is fixed under the foregoing exception may not be paid a salary at a rate in excess of the rate payable under such chapter 51 and such subchapter III for positions of equivalent difficulty or responsibility except for (A) those officers and employees whose compensation is fixed by law, and (B) scientific and technical personnel who may be compensated at a rate not to exceed the rate in effect for grade GS–18 of the General Schedule;
 
@@ -88,13 +88,13 @@ Subsec. (j). Pub. L. 105–277, §1223(13)(F), redesignated subsec. (j) as (i).
 
 “(3) an officer or employee of the Agency serving under a career or career conditional appointment on August 17, 1977, may not be involuntarily deprived, while employed by the Agency, of any rights normally granted such officer or employee in the competitive service;”.
 
-1991—Subsecs. (h) to (j). Pub. L. 102–228 added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
+<b>1991</b>—Subsecs. (h) to (j). Pub. L. 102–228 added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 
-1977—Subsec. (b). Pub. L. 95–108, §5(a), incorporated existing provisions into introductory paragraph, and as so incorporated, revised terminology to reflect current classification of civil service laws, etc., and inserted provisions authorizing the Director to appoint and fix compensation of officers and employees of the agency, without regard to the provisions of title 5, during a two-year period beginning Aug. 17, 1977, and added pars. (1) to (3).
+<b>1977</b>—Subsec. (b). Pub. L. 95–108, §5(a), incorporated existing provisions into introductory paragraph, and as so incorporated, revised terminology to reflect current classification of civil service laws, etc., and inserted provisions authorizing the Director to appoint and fix compensation of officers and employees of the agency, without regard to the provisions of title 5, during a two-year period beginning Aug. 17, 1977, and added pars. (1) to (3).
 
 Subsecs. (g) to (i). Pub. L. 95–108, §5(b), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
-1974—Subsec. (d). Pub. L. 93–332 substituted “as authorized by section 3109 of title 5” for “as authorized by section 55a of title 5, at rates not to exceed $100 per diem for individuals”, “section 5703 of such title” for “section 73b–2 of title 5” and “130 days” for “one hundred days”.
+<b>1974</b>—Subsec. (d). Pub. L. 93–332 substituted “as authorized by section 3109 of title 5” for “as authorized by section 55a of title 5, at rates not to exceed $100 per diem for individuals”, “section 5703 of such title” for “section 73b–2 of title 5” and “130 days” for “one hundred days”.
 
 #### Effective Date of 1998 Amendment
 
@@ -114,7 +114,5 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 \[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

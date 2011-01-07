@@ -70,7 +70,7 @@ Section 6214 of this title, referred to in subsec. (d), was repealed by Pub. L. 
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–272 struck out subsec. (b) which read as follows: “There are transferred to, and vested in, the Commission all functions and authority of the Interstate Commerce Commission or any officer or component of such Commission where the regulatory function establishes rates or charges for the transportation of oil by pipeline or establishes the valuation of any such pipeline.” See section 60502 of Title 49, Transportation.
+<b>1994</b>—Subsec. (b). Pub. L. 103–272 struck out subsec. (b) which read as follows: “There are transferred to, and vested in, the Commission all functions and authority of the Interstate Commerce Commission or any officer or component of such Commission where the regulatory function establishes rates or charges for the transportation of oil by pipeline or establishes the valuation of any such pipeline.” See section 60502 of Title 49, Transportation.
 
 #### Oil Pipeline Regulatory Reform
 
@@ -156,7 +156,7 @@ Changed Circumstances.—No person may file a complaint under section 13 of the 
 
 &emsp;“(2) the person filing the complaint was under a contractual prohibition against the filing of a complaint which was in effect on the date of enactment of this Act and had been in effect prior to January 1, 1991, provided that a complaint by a party bound by such prohibition is brought within 30 days after the expiration of such prohibition.
 
-> If the Commission determines pursuant to a proceeding instituted as a result of a complaint under section 13 of the Interstate Commerce Act that the rate is not just and reasonable, the rate shall not be deemed to be just and reasonable. Any tariff reduction or refunds that may result as an outcome of such a complaint shall be prospective from the date of the filing of the complaint.
+> If the Commission determines pursuant to a proceeding instituted as a result of a complaint under section 13 ofthe Interstate Commerce Act that the rate is not just and reasonable, the rate shall not be deemed to be just and reasonable. Any tariff reduction or refunds that may result as an outcome of such a complaint shall be prospective from the date of the filing of the complaint.
 
 “(c)
 

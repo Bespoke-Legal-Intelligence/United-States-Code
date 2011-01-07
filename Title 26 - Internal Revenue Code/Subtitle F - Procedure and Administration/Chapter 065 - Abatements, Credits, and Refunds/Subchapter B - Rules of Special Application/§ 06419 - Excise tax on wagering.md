@@ -12,5 +12,5 @@ Where any taxpayer lays off part or all of a wager with another person who is li
 
 #### Amendments
 
-1976—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 

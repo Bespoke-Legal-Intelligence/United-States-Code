@@ -18,7 +18,7 @@ Serious bodily harm.—If the offender knowingly or recklessly causes or attempt
 
 &emsp;&emsp;(B)
 
-Death.—If the offender knowingly or recklessly causes or attempts to cause death from conduct in violation of paragraph (1), the penalty shall be a fine under this title or imprisonment for any term of years or for life, or both.
+Death.—If the offender knowingly or recklessly causes or attempts to cause death from conduct in violation of paragraph (1), the penalty shall be a fine under this title orimprisonment for any term of years or for life, or both.
 
 (b)
 
@@ -78,7 +78,7 @@ Forfeiture and Destruction of Property; Restitution.—Forfeiture, destruction, 
 
 &emsp;(ii) The number of online infringement cases.
 
-&emsp;(iii) The number and dollar amounts of fines assessed in specific categories of dollar amounts. These categories shall be: no fines ordered; fines under $500; fines from $500 to$1,000; fines from $1,000 to $5,000; fines from $5,000 to $10,000; and fines over $10,000.
+&emsp;(iii) The number and dollar amounts of fines assessed in specific categories of dollar amounts. These categories shall be: no fines ordered; fines under $500; fines from $500 to $1,000; fines from $1,000 to $5,000; fines from $5,000 to $10,000; and fines over $10,000.
 
 &emsp;(iv) The total amount of restitution ordered in all copyright infringement cases.
 
@@ -110,13 +110,13 @@ Another section 2320 was renumbered section 2321 of this title.
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–403, §205(a)(1), inserted subsec. heading, designated existing provisions as par. (1) and inserted par. heading, substituted “Whoever;” for “Whoever”, realigned margin, and added par. (2).
+<b>2008</b>—Subsec. (a). Pub. L. 110–403, §205(a)(1), inserted subsec. heading, designated existing provisions as par. (1) and inserted par. heading, substituted “Whoever;” for “Whoever”, realigned margin, and added par. (2).
 
 Subsec. (b). Pub. L. 110–403, §205(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to property subject to forfeiture, forfeiture procedures, and restitution.
 
 Subsec. (h). Pub. L. 110–403, §205(a)(2), added subsec. (h).
 
-2006—Subsec. (a). Pub. L. 109–181, §1(b)(1), inserted “, or intentionally traffics or attempts to traffic in labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature, knowing that a counterfeit mark has been applied thereto, the use of which is likely to cause confusion, to cause mistake, or to deceive,” after “such goods or services”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–181, §1(b)(1), inserted “, or intentionally traffics or attempts to traffic in labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature, knowing that a counterfeit mark has been applied thereto, the use of which is likely to cause confusion, to cause mistake, or to deceive,” after “such goods or services”.
 
 Subsec. (b). Pub. L. 109–181, §1(b)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Upon a determination by a preponderance of the evidence that any articles in the possession of a defendant in a prosecution under this section bear counterfeit marks, the United States may obtain an order for the destruction of such articles.”
 
@@ -136,23 +136,23 @@ Subsec. (e)(3), (4). Pub. L. 109–181, §2(b)(2), (3), added par. (3) and redes
 
 Subsecs. (f), (g). Pub. L. 109–181, §1(b)(4), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-2002—Subsec. (e)(1)(B). Pub. L. 107–140 substituted “section 220506 of title 36” for “section 220706 of title 36”.
+<b>2002</b>—Subsec. (e)(1)(B). Pub. L. 107–140 substituted “section 220506 of title 36” for “section 220706 of title 36”.
 
 Subsec. (f). Pub. L. 107–273, §205(e), designated existing provisions as par. (1), substituted “this title” for “title 18” wherever appearing, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and added par. (2).
 
-1998—Subsec. (e)(1)(B). Pub. L. 105–225, §4(b)(1), as amended by Pub. L. 105–354, §2(c)(1), substituted “section 220706 of title 36” for “section 110 of the Olympic Charter Act”.
+<b>1998</b>—Subsec. (e)(1)(B). Pub. L. 105–225, §4(b)(1), as amended by Pub. L. 105–354, §2(c)(1), substituted “section 220706 of title 36” for “section 110 of the Olympic Charter Act”.
 
 Subsec. (e)(2). Pub. L. 105–225, §4(b)(2), as amended by Pub. L. 105–354, §2(c)(1), inserted “and” after semicolon at end.
 
 Subsec. (e)(3). Pub. L. 105–225, §4(b)(3), as amended by Pub. L. 105–354, §2(c)(1), substituted a period for “; and” at end.
 
-Subsec. (e)(4). Pub. L. 105–225, §4(b)(4), as amended by Pub. L. 105–354, §2(c)(1), struck out par. (4) which read as follows: “the term ‘Olympic Charter Act’ means the Act entitled ‘An Act to incorporate the United States Olympic Association’, approved September 21, 1950 (36 U.S.C. 371 et seq.).”
+Subsec. (e)(4). Pub. L. 105–225, §4(b)(4), as amended by Pub. L. 105–354, §2(c)(1), struck out par. (4) which readas follows: “the term ‘Olympic Charter Act’ means the Act entitled ‘An Act to incorporate the United States Olympic Association’, approved September 21, 1950 (36 U.S.C. 371 et seq.).”
 
-1997—Subsecs. (d) to (f). Pub. L. 105–147 added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+<b>1997</b>—Subsecs. (d) to (f). Pub. L. 105–147 added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
-1996—Subsec. (e). Pub. L. 104–153 added subsec. (e).
+<b>1996</b>—Subsec. (e). Pub. L. 104–153 added subsec. (e).
 
-1994—Pub. L. 103–322, §330016(1)(U), which directed the amendment of this section by striking “not more than $250,000” and inserting “under this title”, could not be executed because the phrase “not more than $250,000” did not appear in text subsequent to amendment of subsec. (a) by Pub. L. 103–322, §320104(a). See below.
+<b>1994</b>—Pub. L. 103–322, §330016(1)(U), which directed the amendment of this section by striking “not more than $250,000” and inserting “under this title”, could not be executed because the phrase “not more than $250,000” did not appear in text subsequent to amendment of subsec. (a) by Pub. L. 103–322, §320104(a). See below.
 
 Subsec. (a). Pub. L. 103–322, §320104(a), in first sentence, substituted “$2,000,000 or imprisoned not more than 10 years” for “$250,000 or imprisoned not more than five years” and “$5,000,000” for “$1,000,000”, and in second sentence, substituted “$5,000,000 or imprisoned not more than 20 years” for “$1,000,000 or imprisoned not more than fifteen years” and “$15,000,000” for “$5,000,000”.
 

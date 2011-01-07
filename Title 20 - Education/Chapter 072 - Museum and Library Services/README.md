@@ -11,9 +11,11 @@
 | [9105\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009105%20-%20Personnel.md) | Personnel. |
 | [9105a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009105a%20-%20National%20Museum%20and%20Library%20Services%20Board.md) | National Museum and Library Services Board. |
 | [9106\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009106%20-%20Contributions.md) | Contributions. |
-| [9107\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009107%20-%20Awards.md) | Awards. |
-| [9108\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009108%20-%20Analysis%20of%20impact%20of%20museum%20and%20library%20services.md) | Analysis of impact of museum and library services. |
+| [9107\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009107%20-%20Awards%20and%20medals.md) | Awards and medals. |
+| [9108\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009108%20-%20Policy%20research%2C%20analysis%2C%20data%20collection%2C%20and%20dissemination.md) | Policy research, analysis, data collection, and dissemination. |
 | [9109\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009109%20-%20Prohibition%20on%20use%20of%20funds%20for%20construction.md) | Prohibition on use of funds for construction. |
+| [9110\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009110%20-%20Hearings.md) | Hearings. |
+| [9111\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009111%20-%20Administrative%20funds.md) | Administrative funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -48,7 +50,7 @@
 
 #### Part 3—Administrative Provisions
 
-I74subpart a—state requirements
+#### subpart a—state requirements
 
 |  |  |
 | :--- | ---: |
@@ -63,6 +65,14 @@ I74subpart a—state requirements
 | [9161\.](Subchapter%20002%20%28II%29%20-%20Library%20Services%20and%20Technology/Part%20003%20-%20Administrative%20Provisions/Subpart%20b%20-%20Federal%20Requirements/%C2%A7%2009161%20-%20Services%20for%20Native%20Americans.md) | Services for Native Americans. |
 | [9162\.](Subchapter%20002%20%28II%29%20-%20Library%20Services%20and%20Technology/Part%20003%20-%20Administrative%20Provisions/Subpart%20b%20-%20Federal%20Requirements/%C2%A7%2009162%20-%20National%20leadership%20grants%2C%20contracts%2C%20or%20cooperative%20agreements.md) | National leadership grants, contracts, or cooperative agreements. |
 | [9163\.](Subchapter%20002%20%28II%29%20-%20Library%20Services%20and%20Technology/Part%20003%20-%20Administrative%20Provisions/Subpart%20b%20-%20Federal%20Requirements/%C2%A7%2009163%20-%20State%20and%20local%20initiatives.md) | State and local initiatives. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part 4—Laura Bush 21st Century Librarians
+
+|  |  |
+| :--- | ---: |
+| [9165\.](Subchapter%20002%20%28II%29%20-%20Library%20Services%20and%20Technology/Part%20004%20-%20Laura%20Bush%2021st%20Century%20Librarians/%C2%A7%2009165%20-%20Laura%20Bush%2021st%20Century%20Librarian%20Program.md) | Laura Bush 21st Century Librarian Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

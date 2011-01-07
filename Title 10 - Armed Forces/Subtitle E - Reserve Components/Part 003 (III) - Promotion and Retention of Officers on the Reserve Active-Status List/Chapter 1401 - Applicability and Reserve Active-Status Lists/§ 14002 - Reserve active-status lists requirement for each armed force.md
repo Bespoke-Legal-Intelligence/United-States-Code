@@ -8,7 +8,7 @@
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
 #### Establishment of Reserve Active-Status List
 

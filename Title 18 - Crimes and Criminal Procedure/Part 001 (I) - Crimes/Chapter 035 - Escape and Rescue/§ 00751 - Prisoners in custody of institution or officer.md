@@ -12,7 +12,7 @@ Based on title 18, U.S.C., 1940 ed., §§753h, 909 (May 14, 1930, ch. 274, §9, 
 
 Sections 753h and 909 of title 18, U.S.C., 1940 ed., were consolidated. Section 753h is later and more comprehensive. The substance of its provisions was adopted.
 
-References to offenses as felonies or misdemeanors were omitted in view of definitive section 1 of thistitle. (See also reviser's notes under section 550 of this title.)
+References to offenses as felonies or misdemeanors were omitted in view of definitive section 1 of this title. (See also reviser's notes under section 550 of this title.)
 
 Mandatory provision as to separate sentences and order of service was omitted in order to permit court to exercise discretion as to whether sentences should be concurrent or consecutive and to obviate administration problems in enforcement of section.
 
@@ -24,13 +24,13 @@ Changes were made in phraseology and arrangement.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” after “any offense, be” and for “fined not more than $1,000” after “conviction, be” in subsec. (a) and substituted “fined under this title” for “fined not more than $1,000” in subsec. (b).
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” after “any offense, be” and for “fined not more than $1,000” after “conviction, be” in subsec. (a) and substituted “fined under this title” for “fined not more than $1,000” in subsec. (b).
 
-1988—Subsec. (a). Pub. L. 100–690 inserted “, or for exclusion or expulsion proceedings under the immigration laws,” after “extradition”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–690 inserted “, or for exclusion or expulsion proceedings under the immigration laws,” after “extradition”.
 
-1965—Pub. L. 89–176 inserted “or facility” after “institution”.
+<b>1965</b>—Pub. L. 89–176 inserted “or facility” after “institution”.
 
-1963—Pub. L. 88–251 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1963</b>—Pub. L. 88–251 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Change of Name
 

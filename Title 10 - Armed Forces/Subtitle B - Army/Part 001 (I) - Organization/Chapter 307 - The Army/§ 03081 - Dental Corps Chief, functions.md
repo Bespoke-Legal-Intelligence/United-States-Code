@@ -18,5 +18,5 @@
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–433 substituted “section 3039” for “section 3040”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–433 substituted “section 3039” for “section 3040”.
 

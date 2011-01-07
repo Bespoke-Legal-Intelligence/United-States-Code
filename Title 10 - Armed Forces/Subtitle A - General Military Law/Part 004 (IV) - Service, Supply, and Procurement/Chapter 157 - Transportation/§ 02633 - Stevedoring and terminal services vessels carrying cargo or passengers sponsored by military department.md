@@ -6,7 +6,7 @@
 
 (c) The proceeds from furnishing services and facilities under this section shall be paid to the credit of the appropriation or fund out of which the services or facilities were supplied.
 
-(Added Pub. L. 85–44, §1, June 1, 1957, 71 Stat. 45; amended Pub. L. 87–651, title I, §111(a), Sept. 7, 1962, 76 Stat. 510; Pub. L. 96–513, title V, §511(87), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 97–258, §3(b)(7), Sept. 13, 1982, 96 Stat. 1063.)
+(Added Pub. L. 85–44, §1, June 1, 1957, 71 Stat. 45; amended Pub. L. 87–651, title I, §111(a), Sept. 7,1962, 76 Stat. 510; Pub. L. 96–513, title V, §511(87), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 97–258, §3(b)(7), Sept. 13, 1982, 96 Stat. 1063.)
 
 #### Historical and Revision Notes
 
@@ -16,11 +16,11 @@ Section 2633 is restated, without substantive change, to conform to the style ad
 
 #### Amendments
 
-1982—Subsec. (a). Pub. L. 97–258 substituted “section 1301(a) of title 31” for “section 3678 of the Revised Statutes (31 U.S.C. 628)”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–258 substituted “section 1301(a) of title 31” for “section 3678 of the Revised Statutes (31 U.S.C. 628)”.
 
-1980—Subsec. (a). Pub. L. 96–513 substituted “section 3678 of the Revised Statutes (31 U.S.C. 628)” for “section 628 of title 31”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “section 3678 of the Revised Statutes (31 U.S.C. 628)” for “section 628 of title 31”.
 
-1962—Pub. L. 87–651 amended section generally without substantive change to conform to the style adopted for the revision of this title.
+<b>1962</b>—Pub. L. 87–651 amended section generally without substantive change to conform to the style adopted for the revision of this title.
 
 #### Effective Date of 1980 Amendment
 

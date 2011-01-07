@@ -6,5 +6,5 @@ The Secretary, upon application by the lessee, may authorize the lessee to suspe
 
 #### Amendments
 
-2005—Pub. L. 109–58 inserted section catchline.
+<b>2005</b>—Pub. L. 109–58 inserted section catchline.
 

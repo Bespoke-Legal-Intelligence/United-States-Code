@@ -150,7 +150,7 @@ A violation of a regulation issued under subsection (a) or (b) of this section s
 
 &emsp;&emsp;(II) evaluation of the security measures by the Commission;
 
-&emsp;&emsp;(III) increased fines for violations of Commission regulations relating to security andsafety measures applicable to licensees that possess radiation sources;
+&emsp;&emsp;(III) increased fines for violations of Commission regulations relating to security and safety measures applicable to licensees that possess radiation sources;
 
 &emsp;&emsp;(IV) criminal and security background checks for certain individuals with access to radiation sources (including individuals involved with transporting radiation sources);
 

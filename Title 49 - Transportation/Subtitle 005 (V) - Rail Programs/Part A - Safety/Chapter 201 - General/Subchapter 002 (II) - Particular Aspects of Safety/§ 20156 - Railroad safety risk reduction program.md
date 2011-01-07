@@ -16,7 +16,7 @@ Program requirement.—Not later than 4 years after the date of enactment of the
 
 &emsp;(2)
 
-Reliance on pilot program.—The Secretary may conduct behavior-based safety and other research, including pilot programs, before promulgating regulations under this subsection and thereafter. The Secretary shall use any information and experience gathered through such research and pilot programsunder this subsection in developing regulations under this section.
+Reliance on pilot program.—The Secretary may conduct behavior-based safety and other research, including pilot programs, before promulgating regulations under this subsection and thereafter. The Secretary shall use any information and experience gathered through such research and pilot programs under this subsection in developing regulations under this section.
 
 &emsp;(3)
 
@@ -90,7 +90,7 @@ Targeted fatigue countermeasures.—A railroad carrier's fatigue management plan
 
 Additional elements.—A railroad shall consider the need to include in its fatigue management plan elements addressing each of the following items, as applicable:
 
-&emsp;&emsp;(A) Employee education and training on the physiological and human factors that affect fatigue, as well as strategies to reduceor mitigate the effects of fatigue, based on the most current scientific and medical research and literature.
+&emsp;&emsp;(A) Employee education and training on the physiological and human factors that affect fatigue, as well as strategies to reduce or mitigate the effects of fatigue, based on the most current scientific and medical research and literature.
 
 &emsp;&emsp;(B) Opportunities for identification, diagnosis, and treatment of any medical condition that may affect alertness or fatigue, including sleep disorders.
 

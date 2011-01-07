@@ -18,7 +18,7 @@ Motor Vehicle Information.—To assist a consumer in buying a passenger motor ve
 
 (c)
 
-Insurance Cost Information.—The Secretary shall prescribe regulations that require passenger motor vehicle dealers to distribute to prospective buyers information the Secretary develops and provides to the dealers that compares insurance costs for different makes and models of passenger motor vehicles based on damage susceptibility and crashworthiness.
+Insurance Cost Information.—The Secretary shall prescribe regulations that require passenger motor vehicle dealers to distribute to prospective buyers information the Secretary develops and provides to the dealers that compares insurance costs for different makes andmodels of passenger motor vehicles based on damage susceptibility and crashworthiness.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1035.)
 

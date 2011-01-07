@@ -40,7 +40,7 @@ The requirements of this chapter shall not apply to any group health plan in rel
 
 #### Amendments
 
-1997—Pub. L. 105–34 renumbered section 9804 of this title as this section and substituted reference to section 9832 of this title for reference to section 9805 of this title in subsecs. (b) and (c)(1) to (3).
+<b>1997</b>—Pub. L. 105–34 renumbered section 9804 of this title as this section and substituted reference to section 9832 of this title for reference to section 9805 of this title in subsecs. (b) and (c)(1) to (3).
 
 #### Effective Date of 1997 Amendment
 

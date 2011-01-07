@@ -26,7 +26,7 @@ Funds appropriated under subsection (a) of this section shall remain available u
 
 #### Amendments
 
-1987—Subsec. (a). Pub. L. 100–134 substituted “$19,800,000” for “$18,500,000” in par. (1), and “$33,600,000” for “$21,500,000” in par. (2).
+<b>1987</b>—Subsec. (a). Pub. L. 100–134 substituted “$19,800,000” for “$18,500,000” in par. (1), and “$33,600,000” for “$21,500,000” in par. (2).
 
 #### Effective Date of 1987 Amendment
 

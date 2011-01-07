@@ -16,7 +16,7 @@
 
 #### (2) Substantial noncompliance
 
-&emsp;The failure of a recipient to comply with the requirements of section 4152(b)(1) of this title regarding the reporting of low-income dwelling units shall not, in itself, be considered to be substantial noncompliance for purposes of this subchapter.
+&emsp;The failure of a recipient to comply with the requirements of section 4152(b)(1) of this titleregarding the reporting of low-income dwelling units shall not, in itself, be considered to be substantial noncompliance for purposes of this subchapter.
 
 #### (3) Continuance of actions
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(B) is a result of the limited capability or capacity of the recipient,
 
-> &emsp;the Secretary may provide technical assistance for the recipient (directly or indirectly) that is designed to increase the capability and capacity of the recipient to administer assistance provided under this chapter in compliance with the requirements under this chapter, if the recipient enters into a performance agreement with the Secretary that specifies the compliance objectives that the recipientwill be required to achieve by the termination date of the performance agreement.
+> &emsp;the Secretary may provide technical assistance for the recipient (directly or indirectly) that is designed to increase the capability and capacity of the recipient to administer assistance provided under this chapter in compliance with the requirements under this chapter, if the recipient enters into a performance agreement with the Secretary that specifies the compliance objectives that the recipient will be required to achieve by the termination date of the performance agreement.
 
 #### (2) Performance agreement
 
@@ -96,7 +96,7 @@
 
 #### (A) Court proceedings
 
-&emsp;&emsp;The court shall have jurisdiction to affirm or modify the action of the Secretary or to set it aside in whole or in part. The findings of fact by the Secretary, if supported by substantial evidence on the record considered as a whole, shall be conclusive. The court may order additional evidence to be taken by the Secretary, and to be made part of the record.
+&emsp;&emsp;The court shall have jurisdiction to affirm or modify the action of the Secretary or toset it aside in whole or in part. The findings of fact by the Secretary, if supported by substantial evidence on the record considered as a whole, shall be conclusive. The court may order additional evidence to be taken by the Secretary, and to be made part of the record.
 
 #### (B) Secretary
 
@@ -122,9 +122,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-2008—Subsec. (a)(2) to (4). Pub. L. 110–411 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+<b>2008</b>—Subsec. (a)(2) to (4). Pub. L. 110–411 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-2000—Subsec. (a). Pub. L. 106–568, §1003(h), and Pub. L. 106–569, §503(g), amended subsec. (a) identically, designating existing provisions as par. (1), inserting heading, redesignating former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), realigning margins, designating concluding provisions as par. (2), inserting heading, substituting “If the Secretary takes an action under subparagraph (A), (B), or (C) of paragraph (1)” for “If the Secretary takes an action under paragraph (1), (2), or (3)”, and adding par. (3).
+<b>2000</b>—Subsec. (a). Pub. L. 106–568, §1003(h), and Pub. L. 106–569, §503(g), amended subsec. (a) identically, designating existing provisions as par. (1), inserting heading, redesignating former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), realigning margins, designating concluding provisions as par. (2), inserting heading, substituting “If the Secretary takes an action under subparagraph (A), (B), or (C) of paragraph (1)” for “If the Secretary takes an action under paragraph (1), (2), or (3)”, and adding par. (3).
 
 Subsec. (b). Pub. L. 106–568, §1003(i), and Pub. L. 106–569, §503(h), amended subsec. (b) identically, designating existing provisions as par. (1), inserting heading, redesignating former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigning margins of concluding provisions, inserting “, if the recipient enters into a performance agreement with the Secretary that specifies the compliance objectives that the recipient will be required to achieve by the termination date of the performance agreement” before period at end of concluding provisions, and adding pars. (2) to (4).
 

@@ -10,7 +10,7 @@
 
 > For purposes of this paragraph, the number of individuals in the civilian labor force and the number of unemployed individuals shall be based on data for the most recent calendar year available, as determined by the Secretary.
 
-(2) No State's allotment under this section for any fiscal year shall be less than 90 percent of its allotment percentage for the fiscal year preceding the fiscal year for which the determination is made. For the purpose of this section, the Secretary shall determine the allotment percentage for each State (including Guam and the Virgin Islands) for fiscal year 1984 which is the percentage that the State received under this chapter for fiscal year 1983 of the total amounts available for payments to all States for such fiscal year. For each succeeding fiscal year, the allotment percentage for each such State shall be the percentage that the State received under this chapter for the preceding fiscal year of the total amounts available for allotments for all States for such fiscal year.
+(2) No State's allotment under this section for any fiscal year shall be less than 90 percent of its allotment percentage for the fiscal year preceding the fiscal year for which the determination is made. For the purpose of this section, the Secretary shall determine the allotment percentage for each State (including Guam and the Virgin Islands) for fiscal year 1984 which is thepercentage that the State received under this chapter for fiscal year 1983 of the total amounts available for payments to all States for such fiscal year. For each succeeding fiscal year, the allotment percentage for each such State shall be the percentage that the State received under this chapter for the preceding fiscal year of the total amounts available for allotments for all States for such fiscal year.
 
 (3) For each fiscal year, no State shall receive a total allotment under paragraphs (1) and (2) which is less than 0.28 percent of the total amount available for allotments for all States.
 
@@ -26,7 +26,7 @@ A prior section 49e, act June 6, 1933, ch. 49, §6, 48 Stat. 115, related to app
 
 #### Amendments
 
-1998—Subsec. (b)(1). Pub. L. 105–220 substituted “Secretary” for “Secretary of Labor” in concluding provisions.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–220 substituted “Secretary” for “Secretary of Labor” in concluding provisions.
 
 #### Effective Date of 1998 Amendment
 

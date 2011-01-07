@@ -46,29 +46,29 @@ A prior section 7463 was renumbered section 7465 of this title.
 
 #### Amendments
 
-2000—Subsec. (f). Pub. L. 106–554 added subsec. (f).
+<b>2000</b>—Subsec. (f). Pub. L. 106–554 added subsec. (f).
 
-1998—Pub. L. 105–206 in section catchline and in subsec. (a)(1) to (4) substituted “$50,000” for “$10,000”.
+<b>1998</b>—Pub. L. 105–206 in section catchline and in subsec. (a)(1) to (4) substituted “$50,000” for “$10,000”.
 
-1990—Subsec. (f). Pub. L. 101–508 struck out subsec. (f) “Qualified State individual income taxes” which read as follows: “For purposes of this section, a deficiency placed in dispute or claimed overpayment with regard to a qualified State individual income tax to which subchapter E of chapter 64 applies, for a taxable year, shall be treated as a portion of a deficiency placed in dispute or claimed overpayment of the income tax for that taxable year.”
+<b>1990</b>—Subsec. (f). Pub. L. 101–508 struck out subsec. (f) “Qualified State individual income taxes” which read as follows: “For purposes of this section, a deficiency placed in dispute or claimed overpayment with regard to a qualified State individual income tax to which subchapter E of chapter 64 applies, for a taxable year, shall be treated as a portion of a deficiency placed in dispute or claimed overpayment of the income tax for that taxable year.”
 
-1984—Pub. L. 98–369, §461(a)(2)(A), substituted “$10,000” for “$5,000” in section catchline.
+<b>1984</b>—Pub. L. 98–369, §461(a)(2)(A), substituted “$10,000” for “$5,000” in section catchline.
 
 Subsec. (a). Pub. L. 98–369, §461(a)(1), substituted “$10,000” for “$5,000” in pars. (1) to (4).
 
-1982—Section (a)(4). Pub. L. 97–362 added par. (4).
+<b>1982</b>—Section (a)(4). Pub. L. 97–362 added par. (4).
 
-1980—Subsec. (g). Pub. L. 96–222 struck out subsec. (g) which authorized the chief judge of the Tax Court to assign proceedings conducted under this section to be heard by the Commissioners of the court.
+<b>1980</b>—Subsec. (g). Pub. L. 96–222 struck out subsec. (g) which authorized the chief judge of the Tax Court to assign proceedings conducted under this section to be heard by the Commissioners of the court.
 
-1978—Pub. L. 95–600, §502(a)(2)(A), substituted “$5,000” for “$1,500” in section catchline.
+<b>1978</b>—Pub. L. 95–600, §502(a)(2)(A), substituted “$5,000” for “$1,500” in section catchline.
 
 Subsec. (a). Pub. L. 95–600, §502(a)(1), “$5,000 for any one taxable year, in the case of the taxes imposed by subtitle A” for “$1,500 for any one taxable year, in the case of the taxes imposed by subtitle A and chapter 12, or” in par. (1), “$5,000, in the case of the tax imposed by chapter 11, or” for “$1,500 in the case of the tax imposed by chapter 11,” in par. (2), and added par. (3).
 
 Subsec. (g). Pub. L. 95–600, §502(b), added subsec. (g).
 
-1976—Subsec, (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec, (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1972—Pub. L. 92–512, §203(b)(2), substituted “$1,500” for “$1,000” in section catchline.
+<b>1972</b>—Pub. L. 92–512, §203(b)(2), substituted “$1,500” for “$1,000” in section catchline.
 
 Subsec. (a)(1), (2). Pub. L. 92–512, §203(b)(2), substituted “$1,500” for “$1,000”.
 

@@ -48,31 +48,31 @@ In subsection (b), the words “officers of the Regular Army in that corps” ar
 
 #### Amendments
 
-1992—Subsec. (a)(5). Pub. L. 102–484, §505(a)(1), added par. (5).
+<b>1992</b>—Subsec. (a)(5). Pub. L. 102–484, §505(a)(1), added par. (5).
 
 Subsec. (c). Pub. L. 102–484, §505(a)(2), substituted “up to five assistant chiefs” for “four assistant chiefs”.
 
 Subsec. (d). Pub. L. 102–484, §505(a)(3), added subsec. (d).
 
-1991—Subsec. (a). Pub. L. 102–190, §551(a)(1), (2), substituted “sections:” for “sections—”, substituted “The” for “the” and a period for the concluding semicolon in par. (1), substituted “The” for “the” and a period for “; and” in par. (2), substituted “The” for “the” in par. (3), and added par. (4).
+<b>1991</b>—Subsec. (a). Pub. L. 102–190, §551(a)(1), (2), substituted “sections:” for “sections—”, substituted “The” for “the” and a period for the concluding semicolon in par. (1), substituted “The” for “the” and a period for “; and” in par. (2), substituted “The” for “the” in par. (3), and added par. (4).
 
 Subsec. (c). Pub. L. 102–190, §551(a)(3), substituted “four assistant chiefs” for “three assistant chiefs” in first sentence.
 
-1967—Subsec. (a). Pub. L. 90–130 removed limitation restricting membership in the Corps to officers in grades of second lieutenant through colonel and inserted provisions authorizing the Secretary of the Army to prescribe the grades of officers comprising the Corps.
+<b>1967</b>—Subsec. (a). Pub. L. 90–130 removed limitation restricting membership in the Corps to officers in grades of second lieutenant through colonel and inserted provisions authorizing the Secretary of the Army to prescribe the grades of officers comprising the Corps.
 
 Subsec. (b). Pub. L. 90–130 struck out provision entitling the Chief to the temporary grade of colonel while serving, ranking above all other colonels in the Corps.
 
 Subsec. (c). Pub. L. 90–130 struck out provisions entitling each assistant chief to the temporary grade of lieutenant colonel while so serving, ranking above all other lieutenant colonels in the section.
 
-1966—Subsec. (b). Pub. L. 89–609, §1(2), combined second and third sentences, substituting “, and” for period at end of second sentence and introductory word “She” to third sentence, and substituted “the regular grade held, the Chief” for “her regular grade, she” in fourth sentence.
+<b>1966</b>—Subsec. (b). Pub. L. 89–609, §1(2), combined second and third sentences, substituting “, and” for period at end of second sentence and introductory word “She” to third sentence, and substituted “the regular grade held, the Chief” for “her regular grade, she” in fourth sentence.
 
 Subsec. (c). Pub. L. 89–609, §1(3), combined second and third sentences, substituting “, and” for period at end of second sentence and introductory word “She” to third sentence, substituted “An assistant chief” for “She” in fourth sentence, and in fifth sentence substituted “the regular grade held” and “in the section” for “her regular grade” and “in her section”, respectively, and struck out “and the pay and allowances” before “of a lieutenant colonel”.
 
-1962—Subsec. (b). Pub. L. 87–649, §6(b)(2), struck out provisions which authorized the pay and allowances of a colonel for Chief of the Army Medical Specialist Corps.
+<b>1962</b>—Subsec. (b). Pub. L. 87–649, §6(b)(2), struck out provisions which authorized the pay and allowances of a colonel for Chief of the Army Medical Specialist Corps.
 
 Subsec. (c). Pub. L. 87–649, §6(b)(3), struck out provisions which authorized the pay and allowances of a lieutenant colonel for each assistant chief of the Army Medical Specialist Corps.
 
-1957—Pub. L. 85–155 substituted “Army Medical Specialist Corps” for “Women's Medical Specialist Corps” in section catchline.
+<b>1957</b>—Pub. L. 85–155 substituted “Army Medical Specialist Corps” for “Women's Medical Specialist Corps” in section catchline.
 
 Subsec. (a). Pub. L. 85–155 substituted “Army Medical Specialist Corps” for “Women's Medical Specialist Corps” and “colonel” for “major”.
 

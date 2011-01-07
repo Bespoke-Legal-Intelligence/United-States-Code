@@ -6,5 +6,5 @@ It shall be the duty of every carrier subject to this chapter to designate in wr
 
 #### Amendments
 
-1994—Pub. L. 103–414 struck out “, within sixty days after the taking effect of this chapter,” after “every carrier subject to this chapter”.
+<b>1994</b>—Pub. L. 103–414 struck out “, within sixty days after the taking effect of this chapter,” after “every carrier subject to this chapter”.
 

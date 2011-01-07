@@ -17,7 +17,7 @@
 
 #### Part A—Establishment and General Organization
 
-I74subpart 1—election assistance commission
+#### subpart 1—election assistance commission
 
 |  |  |
 | :--- | ---: |
@@ -80,7 +80,7 @@ I74subpart 1—election assistance commission
 
 #### Part D—Election Assistance
 
-I74subpart 1—requirements payments
+#### subpart 1—requirements payments
 
 |  |  |
 | :--- | ---: |

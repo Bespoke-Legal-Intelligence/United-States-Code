@@ -6,5 +6,5 @@ Leases under this chapter may be issued only to citizens of the United States, a
 
 #### Amendments
 
-2005—Pub. L. 109–58 inserted section catchline.
+<b>2005</b>—Pub. L. 109–58 inserted section catchline.
 

@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(K) Parenting education for parents and caregivers of Alaska Native children to improve parenting and caregiving skills (including skills relating to discipline and cognitive development), including parenting education provided through in-home visitation of new mothers.
 
-&emsp;&emsp;(L) Cultural education programs operated by the Alaska Native Heritage Center anddesigned to share the Alaska Native culture with students.
+&emsp;&emsp;(L) Cultural education programs operated by the Alaska Native Heritage Center and designed to share the Alaska Native culture with students.
 
 &emsp;&emsp;(M) A cultural exchange program operated by the Alaska Humanities Forum and designed to share Alaska Native culture with urban students in a rural setting, which shall be known as the Rose Cultural Exchange Program.
 
@@ -84,7 +84,7 @@ Not more than 5 percent of funds provided to a grantee under this section for an
 
 #### (c) Priorities
 
-In awarding grants or contracts to carry out activities described in subsection (a)(2) of this section, except for activities listed in subsection (d)(2) of this section, the Secretary shall give priority to applications from Alaska Native regional nonprofit organizations, or consortia that include at least one Alaska Native regional nonprofit organization.
+In awarding grants or contracts to carry out activities described in subsection (a)(2) of thissection, except for activities listed in subsection (d)(2) of this section, the Secretary shall give priority to applications from Alaska Native regional nonprofit organizations, or consortia that include at least one Alaska Native regional nonprofit organization.
 
 #### (d) Authorization of appropriations
 
@@ -118,5 +118,5 @@ A prior section 7544, Pub. L. 89–10, title VII, §7304, as added Pub. L. 103�
 
 #### Amendments
 
-2003—Subsec. (a)(2)(P). Pub. L. 108–11 substituted “operated by” for “such as”.
+<b>2003</b>—Subsec. (a)(2)(P). Pub. L. 108–11 substituted “operated by” for “such as”.
 

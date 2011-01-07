@@ -64,9 +64,9 @@ In subsection (c), the words “On and after May 14, 1937” are omitted as exec
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–241 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–241 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
-1996—Subsec. (a)(3). Pub. L. 104–134, §31001(g)(1)(B), inserted “or pursuant to payment intercepts or offsets pursuant to section 3716 or 3720A of this title,” after “voucher”.
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–134, §31001(g)(1)(B), inserted “or pursuant to payment intercepts or offsets pursuant to section 3716 or 3720A of this title,” after “voucher”.
 
 Subsec. (b). Pub. L. 104–201 substituted “members of the armed forces may certify vouchers when authorized, in writing, by the Secretary of Defense or, in the case of the Coast Guard when it is not operating as a service in the Navy, by the Secretary of Transportation” for “members of the armed forces under the jurisdiction of the Secretary of Defense may certify vouchers when authorized, in writing, by the Secretary to do so”.
 

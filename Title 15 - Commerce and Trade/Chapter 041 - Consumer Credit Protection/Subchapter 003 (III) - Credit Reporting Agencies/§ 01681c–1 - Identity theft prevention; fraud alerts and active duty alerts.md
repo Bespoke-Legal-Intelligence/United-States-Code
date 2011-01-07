@@ -102,7 +102,15 @@ If a consumer contacts any consumer reporting agency that is not described in se
 
 &emsp;&emsp;No prospective user of a consumer report or of a credit score generated using the information in the file of a consumer that includes an extended fraud alert in accordance with this section may establish a new credit plan or extension of credit, other than under an open-end credit plan (as defined in section 1602(i) of this title), in the name of the consumer, or issue an additional card on an existing credit account requested by a consumer, or any increase in credit limit on an existing credit account requested by a consumer, unless the user contacts the consumer in person or using the contact method described in subparagraph (A)(ii) to confirm that the application for a new credit plan or increase in credit limit, or request for an additional card is not the result of identity theft.
 
-(Pub. L. 90–321, title VI, §605A, as added Pub. L. 108–159, title I, §112(a), Dec. 4, 2003, 117 Stat. 1955.)
+(Pub. L. 90–321, title VI, §605A, as added Pub. L. 108–159, title I, §112(a), Dec. 4, 2003, 117 Stat. 1955; amended Pub. L. 111–203, title X, §1088(a)(2)(C), July 21, 2010, 124 Stat. 2087.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1088(a)(2)(C), 1100H, July 21, 2010, 124 Stat. 2087, 2113, provided that, effective on the designated transfer date, this section is amended by striking “the Commission” each place that term appears and inserting “the Bureau”. See Effective Date of 2010 Amendment note below.</i>
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date
 
@@ -110,9 +118,7 @@ Section subject to joint regulations establishing effective dates as prescribed 
 
 #### Regulations
 
-Pub. L. 108–159, title I, §112(b), Dec. 4, 2003, 117 Stat. 1959, provided that: “The Commission shall prescribe regulations to define what constitutes appropriate proof of identity for purposes of sections 605A , 605B, and 609(a)(1) of the Fair Credit Reporting Act \[15 U.S.C. 1681c–1, 1681c–2, 1681g(a)(1)\], as amended by this Act.”
-
-\[For definitions of terms used in section 112(b) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.\]
+Pub. L. 108–159, title I, §112(b), Dec. 4, 2003, 117 Stat. 1959, as amended by Pub. L. 111–203, title X, §1088(b)(1), July 21, 2010, 124 Stat. 2092, provided that: “The Bureau shall prescribe regulations to define what constitutes appropriate proof of identity for purposes of sections 605A , 605B, and 609(a)(1) of the Fair Credit Reporting Act \[15 U.S.C. 1681c–1, 1681c–2, 1681g(a)(1)\], as amended by this Act.”
 
 #### Public Campaign To Prevent Identity Theft
 

@@ -84,7 +84,7 @@ A prior section 5, act July 19, 1952, ch. 950, 66 Stat. 793, related to bond of 
 
 #### Amendments
 
-2002—Subsec. (e). Pub. L. 107–273, §13206(a)(3), struck out “, United States Code” after “title 5” in two places.
+<b>2002</b>—Subsec. (e). Pub. L. 107–273, §13206(a)(3), struck out “, United States Code” after “title 5” in two places.
 
 Subsec. (g). Pub. L. 107–273, §13206(a)(3), struck out “, United States Code” after “title 18”.
 

@@ -44,5 +44,5 @@ Amendment by Pub. L. 100–461 is based on section 105(a) of title I of H.R. 526
 
 #### Amendments
 
-1988—Pub. L. 100–461 amended section generally, substituting provisions relating to enhancing private political risk insurance industry for provisions which related to facultative reinsurance program.
+<b>1988</b>—Pub. L. 100–461 amended section generally, substituting provisions relating to enhancing private political risk insurance industry for provisions which related to facultative reinsurance program.
 

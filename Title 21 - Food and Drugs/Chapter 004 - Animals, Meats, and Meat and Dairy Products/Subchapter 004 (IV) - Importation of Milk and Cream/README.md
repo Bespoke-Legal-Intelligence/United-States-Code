@@ -4,12 +4,6 @@
 
 Nothing contained in chapter 9 (§301 et seq.) of this title shall be construed as in any way affecting, modifying, repealing, or superseding the provisions of this subchapter, see section 392(b) of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Liens”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “makes”.</i>
-
-<i><sup>3</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

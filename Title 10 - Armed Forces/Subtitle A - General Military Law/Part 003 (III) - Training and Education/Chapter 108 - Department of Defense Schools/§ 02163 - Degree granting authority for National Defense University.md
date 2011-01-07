@@ -28,7 +28,7 @@ Congressional Notification Requirements.—(1) When seeking to establish degree 
 
 #### Amendments
 
-2008—Pub. L. 110–417 amended section generally. Prior to amendment, section related to conferral of master of science and master of arts degrees by National Defense University.
+<b>2008</b>—Pub. L. 110–417 amended section generally. Prior to amendment, section related to conferral of master of science and master of arts degrees by National Defense University.
 
 Pub. L. 110–181, §526(b)(1), substituted “National Defense University: master's degree programs” for “National Defense University: master of science degrees” in section catchline.
 
@@ -36,7 +36,7 @@ Subsec. (a). Pub. L. 110–181, §526(a)(1), inserted “or master of arts” af
 
 Subsec. (b)(4). Pub. L. 110–181, §526(a)(2), added par. (4).
 
-2006—Pub. L. 109–163 amended section catchline and text generally. Prior to amendment, text read as follows:
+<b>2006</b>—Pub. L. 109–163 amended section catchline and text generally. Prior to amendment, text read as follows:
 
 “(a)
 

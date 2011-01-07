@@ -40,17 +40,17 @@ Recovery of an erroneous refund by suit under section 7405 shall be allowed only
 
 #### Amendments
 
-1980—Subsec. (a)(5). Pub. L. 96–589 added par. (5).
+<b>1980</b>—Subsec. (a)(5). Pub. L. 96–589 added par. (5).
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1966—Subsec. (c). Pub. L. 89–719 added subsec. (c).
+<b>1966</b>—Subsec. (c). Pub. L. 89–719 added subsec. (c).
 
-1958—Subsec. (a)(1), (4). Pub. L. 85–866 inserted “certified mail or” before “registered mail” wherever appearing.
+<b>1958</b>—Subsec. (a)(1), (4). Pub. L. 85–866 inserted “certified mail or” before “registered mail” wherever appearing.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedings under Title 11, Bankruptcy, commenced before Oct. 1, 1979, see section 7(e) of Pub. L. 96–589, set out as a note under section 108 of this title.
+Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedings under Title 11, Bankruptcy, commenced before Oct. 1, 1979, see section 7(e)of Pub. L. 96–589, set out as a note under section 108 of this title.
 
 #### Effective Date of 1966 Amendment
 

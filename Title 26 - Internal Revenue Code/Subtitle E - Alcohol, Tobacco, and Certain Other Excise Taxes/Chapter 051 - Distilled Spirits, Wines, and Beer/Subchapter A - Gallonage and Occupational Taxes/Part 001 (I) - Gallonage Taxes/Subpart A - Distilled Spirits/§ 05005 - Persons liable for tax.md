@@ -8,7 +8,7 @@ The distiller or importer of distilled spirits shall be liable for the taxes imp
 
 #### (1) Liability of persons interested in distilling
 
-&emsp;Every proprietor or possessor of, and every person in any manner interested in the use of, any still, distilling apparatus, or distillery, shall be jointly and severally liable for the taxes imposed by law on the distilled spirits produced therefrom.
+&emsp;Every proprietor or possessor of, and every person in any manner interested in the use of,any still, distilling apparatus, or distillery, shall be jointly and severally liable for the taxes imposed by law on the distilled spirits produced therefrom.
 
 #### (2) Exception
 
@@ -52,7 +52,7 @@ All persons liable for the tax under subsection (a) or (b), or under any similar
 
 &emsp;&emsp;<b>(6) For provisions relating to transfer of tax liability for wine, see section 5043(a)(1)(A).</b>
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1318; amended Pub. L. 94–455, title XIX, §1905(a)(1), Oct. 4, 1976, 90 Stat. 1818; Pub. L. 95–176, §4(b), (d), Nov. 14, 1977, 91 Stat. 1366; Pub. L. 96–39, title VIII, §807(a)(3), July 26, 1979, 93 Stat. 280; Pub. L. 96–223, title II, §232(e)(2)(D), Apr. 2, 1980, 94 Stat. 280; Pub. L. 98–369, div. A,title IV, §455(b), July 18, 1984, 98 Stat. 823; Pub. L. 103–465, title I, §136(c)(2), Dec. 8, 1994, 108 Stat. 4841.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1318; amended Pub. L. 94–455, title XIX, §1905(a)(1), Oct. 4, 1976, 90 Stat. 1818; Pub. L. 95–176, §4(b), (d), Nov. 14, 1977, 91 Stat. 1366; Pub. L. 96–39, title VIII, §807(a)(3), July 26, 1979, 93 Stat. 280; Pub. L. 96–223, title II, §232(e)(2)(D), Apr. 2, 1980, 94 Stat. 280; Pub. L. 98–369, div. A, title IV, §455(b), July 18, 1984, 98 Stat. 823; Pub. L. 103–465, title I, §136(c)(2), Dec. 8, 1994, 108 Stat. 4841.)
 
 #### Prior Provisions
 
@@ -62,17 +62,17 @@ Provisions similar to those comprising subsec. (c)(1), (2) of this section were 
 
 #### Amendments
 
-1994—Subsec. (f)(3). Pub. L. 103–465, §136(c)(2)(A), substituted “section 5001(a)(5) and (6)” for “section 5001(a)(6) and (7)”.
+<b>1994</b>—Subsec. (f)(3). Pub. L. 103–465, §136(c)(2)(A), substituted “section 5001(a)(5) and (6)” for “section 5001(a)(6) and (7)”.
 
 Subsec. (f)(4). Pub. L. 103–465, §136(c)(2)(B), substituted “section 5001(a)(4)” for “section 5001(a)(5)”.
 
-1984—Subsec. (e)(1). Pub. L. 98–369, §455(b)(1), substituted “(10), or (13)” for “or (10)”.
+<b>1984</b>—Subsec. (e)(1). Pub. L. 98–369, §455(b)(1), substituted “(10), or (13)” for “or (10)”.
 
 Subsec. (e)(2). Pub. L. 98–369, §455(b)(2), inserted “used in the production of nonbeverage wine or wine products,”.
 
-1980—Subsec. (d). Pub. L. 96–223 substituted “(11), or (12),” for “or (11),”.
+<b>1980</b>—Subsec. (d). Pub. L. 96–223 substituted “(11), or (12),” for “or (11),”.
 
-1979—Subsec. (c)(3). Pub. L. 96–39, §807(a)(3)(A), struck out par. (3) which related to liability for taxes with regard to withdrawals of distilled spirits from the bonded premises of a distilled spirits plant.
+<b>1979</b>—Subsec. (c)(3). Pub. L. 96–39, §807(a)(3)(A), struck out par. (3) which related to liability for taxes with regard to withdrawals of distilled spirits from the bonded premises of a distilled spirits plant.
 
 Subsec. (d). Pub. L. 96–39, §807(a)(3)(B), substituted “(3), or (11)” for “or (3)”.
 
@@ -80,13 +80,13 @@ Subsec. (f)(1). Pub. L. 96–39, §807(a)(3)(C), substituted “requiring bond c
 
 Subsec. (f)(6). Pub. L. 96–39, §807(a)(3)(D), added par. (6).
 
-1977—Subsec. (d). Pub. L. 95–176, §4(d)(1), struck out reference to par. (9) of section 5214(a).
+<b>1977</b>—Subsec. (d). Pub. L. 95–176, §4(d)(1), struck out reference to par. (9) of section 5214(a).
 
 Subsec. (e)(1). Pub. L. 95–176, §4(d)(2), inserted reference to pars. (9) and (10) of section 5214(a).
 
 Subsec. (e)(2). Pub. L. 95–176, §4(b), substituted “customs bonded warehouses” for “customs manufacturing bonded warehouses” and provided for relief from liability for tax on distilled spirits used in certain research, development, or testing.
 
-1976—Subsec. (c)(2). Pub. L. 94–455 substituted “Such relief from liability shall be effective from the time of removal from the transferor's bonded premises, or from the time of divestment of interest, whichever is later.” for “Such liability for the tax on distilled spirits shall continue until the distilled spirits are transferred or withdrawn from bonded premises as authorized by law, or until such liability for tax is relieved by reason of the provisions of section 5008(a). Nothing in this paragraph shall relieve any person from any liability imposed by subsection (a) or (b).”.
+<b>1976</b>—Subsec. (c)(2). Pub. L. 94–455 substituted “Such relief from liability shall be effective from the time of removal from the transferor's bonded premises, or from the time of divestment of interest, whichever is later.” for “Such liability for the tax on distilled spirits shall continue until the distilled spirits are transferred or withdrawn from bonded premises as authorized by law, or until such liability for tax is relieved by reason of the provisions of section 5008(a). Nothing in this paragraph shall relieve any person from any liability imposed by subsection (a) or (b).”.
 
 #### Effective Date of 1994 Amendment
 

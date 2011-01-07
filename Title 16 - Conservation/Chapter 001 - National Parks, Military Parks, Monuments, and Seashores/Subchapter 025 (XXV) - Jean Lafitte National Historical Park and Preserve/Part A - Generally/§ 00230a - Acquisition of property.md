@@ -66,7 +66,7 @@ The Secretary is authorized to acquire lands or interests in lands by donation, 
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–11, §7105(b)(1), inserted heading, inserted par. (1) designation and heading and substituted text of par. (1) for “Within the Barataria Marsh Unit the Secretary is authorized to acquire not to exceed eight thousand six hundred acres of lands,waters, and interests therein (hereinafter referred to as the ‘core area’), as depicted on the map referred to in section 230 of this title, by donation, purchase with donated or appropriated funds, or exchange.”, inserted par. (2) designation and heading and substituted “The Secretary may acquire by any of the methods referred to in paragraph (1)(A)” for “The Secretary may also acquire by any of the foregoing methods”, inserted par. (3) designation and heading and substituted “Land, water, and interests in land and water” for “Lands, waters, and interests therein”, and inserted par. (4) designation and heading.
+<b>2009</b>—Subsec. (a). Pub. L. 111–11, §7105(b)(1), inserted heading, inserted par. (1) designation and heading and substituted text of par. (1) for “Within the Barataria Marsh Unit the Secretary is authorized to acquire not to exceed eight thousand six hundred acres of lands, waters, and interests therein (hereinafter referred to as the ‘core area’), as depicted on the map referred to in section 230 of this title, by donation, purchase with donated or appropriated funds, or exchange.”, inserted par. (2) designation and heading and substituted “The Secretary may acquire by any of the methods referred to in paragraph (1)(A)” for “The Secretary may also acquire by any of the foregoing methods”, inserted par. (3) designation and heading and substituted “Land, water, and interests in land and water” for “Lands, waters, and interests therein”, and inserted par. (4) designation and heading.
 
 Subsecs. (b), (c). Pub. L. 111–11, §7105(b)(2), added subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which related to guidelines or criteria applicable to the use and development of properties within a park protection zone, and preservation and protection of certain values, respectively.
 
@@ -82,9 +82,9 @@ Subsecs. (e), (f). Pub. L. 111–11, §7105(b)(2), struck out subsecs. (e) and (
 
 Subsec. (g). Pub. L. 111–11, §7105(b)(3), redesignated subsec. (g) as (d).
 
-1988—Subsec. (g). Pub. L. 100–250 added subsec. (g).
+<b>1988</b>—Subsec. (g). Pub. L. 100–250 added subsec. (g).
 
-1979—Subsec. (a). Pub. L. 96–87 substituted “eight thousand six hundred acres” for “eight thousand acres”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–87 substituted “eight thousand six hundred acres” for “eight thousand acres”.
 
 #### “Secretary” Defined
 

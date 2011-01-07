@@ -10,9 +10,9 @@
 
 &emsp;(C) for compensating the United States by means of a combination of monetary payment and of receipt of persons convicted of criminal offenses in the courts of the United States, according to formulas or conditions which may be negotiated in the contract.
 
-(3) No such contract shall provide for the receipt of more State or territory prisoners by the United States than are transferred to that State or territory by such contract.
+(3) No such contract shall provide for the receipt of more State or territory prisoners by theUnited States than are transferred to that State or territory by such contract.
 
-(b) Funds received under such contract may be deposited in the Treasury to the credit of theappropriation or appropriations from which the payments for such service were originally made.
+(b) Funds received under such contract may be deposited in the Treasury to the credit of the appropriation or appropriations from which the payments for such service were originally made.
 
 (c) Unless otherwise specifically provided in the contract, a person committed to the Attorney General hereunder shall be subject to all the provisions of law and regulations applicable to persons committed for violations of laws of the United States not inconsistent with the sentence imposed.
 
@@ -28,7 +28,9 @@ For definition of Canal Zone, referred to in subsec. (d), see section 3602(b) of
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–646 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Attorney General, when the Director shall certify that proper and adequate treatment facilities and personnel are available, is hereby authorized to contract with the proper officials of a State or Territory for the custody, care, subsistence, education, treatment, and training of persons convicted of criminal offenses in the courts of such State or Territory: <i>Provided</i>, That any such contract shall provide for reimbursing the United States in full for all costs or other expenses involved.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–646 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Attorney General, when the Director shall certify that proper and adequate treatment facilities and personnel are available, is hereby authorized to contract with the proper officials of a State or Territory for the custody, care, subsistence, education, treatment, and training of persons convicted of criminal offenses in the courts of such State or Territory: <i>Provided</i>, That any such contract shall provide for reimbursing the United States in full for all costs or other expenses involved.”
 
-1965—Subsec. (d). Pub. L. 89–267 added subsec. (d).
+<b>1965</b>—Subsec. (d). Pub. L. 89–267 added subsec. (d).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -32,7 +32,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 #### (3) Counternarcotics efforts
 
-&emsp;(A) To assist in the eradication of poppy cultivation, the disruption of heroin production, and the reduction of the overall supply and demand for illicit narcotics in Afghanistan andthe region, with particular emphasis on assistance to—
+&emsp;(A) To assist in the eradication of poppy cultivation, the disruption of heroin production, and the reduction of the overall supply and demand for illicit narcotics in Afghanistan and the region, with particular emphasis on assistance to—
 
 &emsp;&emsp;(i) eradicate opium poppy, promote alternatives to poppy cultivation, including the introduction of high value crops that are suitable for export and the provision of appropriate technical assistance and credit mechanisms for farmers, purchase nonopium products from farmers in opium-growing areas, quick-impact public works programs to divert labor from narcotics production, develop projects directed specifically at narcotics production, processing, or trafficking areas to provide incentives to cooperation in narcotics suppression activities, and related programs;
 
@@ -104,7 +104,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;&emsp;(iii) support for rehabilitation and rebuilding of courthouses and detention facilities;
 
-&emsp;&emsp;&emsp;(iv) support for the effective administration of justice at the national, regional, and local levels, including programs to improve penal institutions and the rehabilitation of prisoners, and to establish a responsible and community-based police force;
+&emsp;&emsp;&emsp;(iv) support for the effective administration of justice at the national, regional,and local levels, including programs to improve penal institutions and the rehabilitation of prisoners, and to establish a responsible and community-based police force;
 
 &emsp;&emsp;&emsp;(v) support to increase the transparency, accountability, and participatory nature of governmental institutions, including programs designed to combat corruption and other programs for the promotion of good governance, such as the development of regulations relating to financial disclosure for public officials, political parties, and candidates for public office, and transparent budgeting processes and financial management systems;
 
@@ -156,7 +156,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 #### (A) Assistance objectives
 
-&emsp;&emsp;To assist women and girls in Afghanistan in the areas of political and human rights,health care, education, training, security, and shelter, with particular emphasis on assistance—
+&emsp;&emsp;To assist women and girls in Afghanistan in the areas of political and human rights, health care, education, training, security, and shelter, with particular emphasis on assistance—
 
 &emsp;&emsp;&emsp;(i) to support construction of, provide equipment and medical supplies to, and otherwise facilitate the establishment and rehabilitation of, health care facilities in order to improve the health care of women, children, and infants;
 
@@ -252,13 +252,13 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–458, §7104(e)(1)(B), substituted “any other” for “section 512 of Public Law 107–115 or any other similar” in introductory provisions.
+<b>2004</b>—Subsec. (a). Pub. L. 108–458, §7104(e)(1)(B), substituted “any other” for “section 512 of Public Law 107–115 or any other similar” in introductory provisions.
 
 Subsec. (a)(3)(A)(i). Pub. L. 108–458, §7104(j)(1)(A), substituted “promote alternatives to poppy cultivation, including the introduction of high value crops that are suitable for export and the provision of appropriate technical assistance and credit mechanisms for farmers,” for “establish crop substitution programs,”.
 
 Subsec. (a)(3)(A)(ii). Pub. L. 108–458, §7104(j)(1)(B), inserted “, and to create special counternarcotics courts, prosecutors, and places of incarceration” before semicolon at end.
 
-Subsec. (a)(3)(A)(iii). Pub. L. 108–458, §7104(j)(1)(C), inserted before semicolon at end “, in particular, notwithstanding section 2420 of this title, by providing non-lethal equipment, training (including training in internationally recognized standards of human rights, the rule of law, anti-corruption, and the promotion of civilian police roles that support democracy), and payments, during fiscal years 2005 through 2008, for salaries for special counternarcotics police and supporting units”.
+Subsec. (a)(3)(A)(iii). Pub. L. 108–458, §7104(j)(1)(C), inserted before semicolon at end “, in particular, notwithstanding section 2420 of this title, by providingnon-lethal equipment, training (including training in internationally recognized standards of human rights, the rule of law, anti-corruption, and the promotion of civilian police roles that support democracy), and payments, during fiscal years 2005 through 2008, for salaries for special counternarcotics police and supporting units”.
 
 Subsec. (a)(3)(A)(vi). Pub. L. 108–458, §7104(j)(1)(D)–(F), added cl. (vi).
 
@@ -273,6 +273,106 @@ Subsec. (d). Pub. L. 108–458, §7104(g), added subsec. (d).
 #### Change of Name
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Authority To Establish a Program To Develop and Carry Out Infrastructure Projects in Afghanistan
+
+Pub. L. 111–383, div. A, title XII, §1217, Jan. 7, 2011, 124 Stat. 4393, provided that:
+
+“(a)
+
+Authority.—The Secretary of Defense and the Secretary of State are authorized to establish a program to develop and carry out infrastructure projects in Afghanistan in accordance with the requirements of this section.
+
+“(b)
+
+Formulation and Execution of Program.—
+
+&emsp;“(1)
+
+In general.—The Secretary of State and the Secretary of Defense shall jointly develop any project under the program authorized under subsection (a). Except as provided in paragraph (2), the Secretary of State, in coordination with the Secretary of Defense, shall implement any project under the program authorized under subsection (a).
+
+&emsp;“(2)
+
+Exception.—The Secretary of Defense shall implement a project under the program authorized under subsection (a) if the Secretary of Defense and the Secretary of State jointly determine that the Secretary of Defense should implement the project.
+
+“(c)
+
+Types of Projects.—Infrastructure projects under the program authorized under subsection (a) may include—
+
+&emsp;“(1) water, power, and transportation projects; and
+
+&emsp;“(2) other projects in support of the counterinsurgency strategy in Afghanistan.
+
+“(d)
+
+Authority in Addition to Other Authorities.—The authority to establish the program and develop and carry out infrastructure projects under subsection (a) is in addition to any other authority to provide assistance to foreign countries.
+
+“(e)
+
+Applicability of Certain Administrative Provisions.—
+
+&emsp;“(1)
+
+In general.—The administrative provisions of chapter 2 of part III of the Foreign Assistance Act of 1961 (22 U.S.C. 2381 et seq.) shall apply to funds made available to the Secretary of State for purposes of carrying out infrastructure projects under the program authorized under subsection (a) to the same extent and in the same manner as such administrative provisions apply to funds made available to carry out part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.).
+
+&emsp;“(2)
+
+Gifts, etc.—The Secretary of Defense and the Secretary of State may accept and use in furtherance of the purposes of this section, money, funds, property, and services of any kind made available by gift, devise, bequest, grant, or otherwise for such purposes.
+
+“(f)
+
+Funding.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Defense may use up to $400,000,000 of funds made available to the Department of Defense for operation and maintenance for fiscal year 2011 to carry out the program authorized under subsection (a).
+
+&emsp;“(2)
+
+Availability.—Funds made available by paragraph (1) are authorized to remain available until September 30, 2012.
+
+“(g)
+
+Congressional Notification.—The Secretary of Defense shall notify the appropriate congressional committees not less than 30 days before obligating or expending funds to carry out a project or transferring funds to the Secretary of State for the purpose of implementing a project under the program authorized under subsection (a). Such notification shall be in writing and contain a description of the details of the proposed project, including—
+
+&emsp;“(1) a plan for the sustainment of the project; and
+
+&emsp;“(2) a description of how the project supports the counterinsurgency strategy in Afghanistan.
+
+“(h)
+
+Return of Unexpended Funds.—
+
+&emsp;“(1)
+
+In general.—Any unexpended funds transferred to the Secretary of State for the purpose of implementing a project under the program authorized under subsection (a) shall be returned to the Secretary of Defense if the Secretary of State, in coordination with the Secretary of Defense, determines that the project cannot be implemented for any reason or that the project no longer supports the counterinsurgency strategy in Afghanistan.
+
+&emsp;“(2)
+
+Availability.—Any funds returned to the Secretary of Defense under this subsection shall be available for use under this section and shall be treated in the same manner as funds not transferred to the Secretary of State.
+
+“(i)
+
+Reports.—
+
+&emsp;“(1)
+
+Report required.—Not later than 30 days after the end of each fiscal year in which funds are obligated, expended, or transferred under the program authorized under subsection (a), the Secretary of Defense, in coordination with the Secretary of State, shall submit to the appropriate congressional committees a report regarding implementation of the program during such fiscal year.
+
+&emsp;“(2)
+
+Matters to be included.—The report required under paragraph (1) shall include the following:
+
+&emsp;&emsp;“(A) The allocation and use of funds under the program during the fiscal year.
+
+&emsp;&emsp;“(B) A description of each project for which funds were expended or transferred during the fiscal year.
+
+“(j)
+
+Definition.—In this section, the term ‘appropriate congressional committees’ means—
+
+&emsp;“(1) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives; and
+
+&emsp;“(2) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate.”
 
 #### Performance Monitoring System for United States-Led Provincial Reconstruction Teams in Afghanistan
 

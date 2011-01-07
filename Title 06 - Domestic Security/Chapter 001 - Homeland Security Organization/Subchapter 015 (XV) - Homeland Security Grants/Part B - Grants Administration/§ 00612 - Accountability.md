@@ -136,7 +136,7 @@
 
 #### (6) Recovery audits
 
-&emsp;The Administrator shall conduct a recovery audit (as that term is defined by the Director of the Office of Management and Budget under section 3561 of title 31) for any grant administered by the Department with a total value of not less than $1,000,000, if the Administrator finds that—
+&emsp;The Administrator shall conduct a recovery audit under section 2(h) of the Improper Payments Elimination and Recovery Act of 2010 (31 U.S.C. 3321 note) for any grant administered by the Department with a total value of not less than $1,000,000, if the Administrator finds that—
 
 &emsp;&emsp;(A) a financial audit has identified improper payments that can be recouped; and
 
@@ -230,11 +230,17 @@
 
 &emsp;At the end of each fiscal year, the Administrator shall submit to the appropriate committees of Congress a report setting forth the amount of funding provided during that fiscal year to Indian tribes under any grant program administered by the Department, whether provided directly or through a subgrant from a State or high-risk urban area.
 
-(Pub. L. 107–296, title XX, §2022, as added Pub. L. 110–53, title I, §101, Aug. 3, 2007, 121 Stat. 287.)
+(Pub. L. 107–296, title XX, §2022, as added Pub. L. 110–53, title I, §101, Aug. 3, 2007, 121 Stat. 287; amended Pub. L. 111–204, §2(h)(6)(B)(iii), July 22, 2010, 124 Stat. 2231.)
 
 #### References in Text
 
 The Improper Payments Information Act of 2002, referred to in subsec. (a)(1)(C), is Pub. L. 107–300, Nov. 26, 2002, 116 Stat. 2350, which is set out as a note under section 3321 of Title 31, Money and Finance.
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(2)(A), (3)(A), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143. Section 203 of the Act is classified to section 5133 of Title 42, The Public Health and Welfare. Titles IV and V of the Act are classified generally to subchapters IV (§5170 et seq.) and IV–A (§5191 et seq.), respectively, of chapter 68 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+
+Section 2(h) of the Improper Payments Elimination and Recovery Act of 2010, referred to in subsec. (a)(6), is section 2(h) of Pub. L. 111–204, which is set out as a note under section 3321 of Title 31, Money and Finance.
+
+#### Amendments
+
+2010—Subsec. (a)(6). Pub. L. 111–204 substituted “under section 2(h) of the Improper Payments Elimination and Recovery Act of 2010 (31 U.S.C. 3321 note)” for “(as that term is defined by the Director of the Office of Management and Budget under section 3561 of title 31)”.
 

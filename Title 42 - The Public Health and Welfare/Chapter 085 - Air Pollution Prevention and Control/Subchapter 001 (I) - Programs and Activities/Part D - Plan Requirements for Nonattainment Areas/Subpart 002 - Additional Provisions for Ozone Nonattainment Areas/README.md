@@ -1,9 +1,5 @@
 subpart 2—additional provisions for ozone nonattainment areas
 
-<i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
-
-<i><sup>2</sup></i><i> So in original. Section 7512(b) of this title does not contain a par. (9).</i>
-
 
 ---
 

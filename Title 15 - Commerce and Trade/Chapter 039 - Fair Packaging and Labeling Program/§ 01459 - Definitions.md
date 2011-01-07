@@ -16,7 +16,7 @@ For the purpose of this chapter—
 
 (b) The term “package” means any container or wrapping in which any consumer commodity is enclosed for use in the delivery or display of that consumer commodity to retail purchasers, but does not include—
 
-&emsp;(1) shipping containers or wrappings used solely for the transportation of any consumercommodity in bulk or in quantity to manufacturers, packers, or processors, or to wholesale or retail distributors thereof;
+&emsp;(1) shipping containers or wrappings used solely for the transportation of any consumer commodity in bulk or in quantity to manufacturers, packers, or processors, or to wholesale or retail distributors thereof;
 
 &emsp;(2) shipping containers or outer wrappings used by retailers to ship or deliver any commodity to retail customers if such containers and wrappings bear no printed matter pertaining to any particular commodity; or
 
@@ -36,7 +36,7 @@ For the purpose of this chapter—
 
 The Federal Food, Drug, and Cosmetic Act, referred to subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (a)(2), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (a)(2), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of Title 7, Agriculture. Forcomplete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
 The Virus-Serum-Toxin Act, referred to in subsec. (a)(2), is the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, ch. 145, 37 Stat. 832, as amended, which is classified generally to chapter 5 (§151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
 
@@ -46,7 +46,7 @@ The Federal Seed Act, referred to in subsec. (a)(5), is act Aug. 9, 1939, ch. 61
 
 #### Amendments
 
-1968—Subsec. (b)(3). Pub. L. 90–628 struck out reference to the Act of August 31, 1916, and the Act of May 21, 1928.
+<b>1968</b>—Subsec. (b)(3). Pub. L. 90–628 struck out reference to the Act of August 31, 1916, and the Act of May 21, 1928.
 
 #### Effective Date of 1968 Amendment
 

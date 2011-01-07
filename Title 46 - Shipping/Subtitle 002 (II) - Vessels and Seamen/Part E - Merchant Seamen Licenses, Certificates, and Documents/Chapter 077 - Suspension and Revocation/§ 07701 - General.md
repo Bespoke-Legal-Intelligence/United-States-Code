@@ -28,7 +28,7 @@ Section 7701 establishes the general purpose of suspension and revocation procee
 
 #### Amendments
 
-1990—Subsec. (c). Pub. L. 101–380 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “When a license, certificate of registry, or merchant mariner's document has been revoked under this chapter, the former holder may be issued a new license, certificate, or document only after it has been decided, under regulations prescribed by the Secretary, that the issuance is compatible with the requirements of good discipline and safety at sea.”
+<b>1990</b>—Subsec. (c). Pub. L. 101–380 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “When a license, certificate of registry, or merchant mariner's document has been revoked under this chapter, the former holder may be issued a new license, certificate, or document only after it has been decided, under regulations prescribed by the Secretary, that the issuance is compatible with the requirements of good discipline and safety at sea.”
 
 #### Effective Date of 1990 Amendment
 

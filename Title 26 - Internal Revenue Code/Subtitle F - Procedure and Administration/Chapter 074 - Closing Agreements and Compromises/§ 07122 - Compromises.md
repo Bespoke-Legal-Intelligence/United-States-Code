@@ -104,7 +104,7 @@ Notwithstanding any other provision of this section, if the Secretary determines
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–222, §509(a), added subsec. (c). Former subsec. (c) redesignated (d).
+<b>2006</b>—Subsec. (c). Pub. L. 109–222, §509(a), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 109–222, §509(a), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
@@ -116,13 +116,13 @@ Subsec. (f). Pub. L. 109–432 added subsec. (f) relating to frivolous submissio
 
 Pub. L. 109–222, §509(b)(2), added subsec. (f) relating to deemed acceptance of offer not rejected within certain period.
 
-1998—Subsec. (c). Pub. L. 105–206, §3462(a), added subsec. (c).
+<b>1998</b>—Subsec. (c). Pub. L. 105–206, §3462(a), added subsec. (c).
 
 Subsec. (d). Pub. L. 105–206, §3462(c)(1), added subsec. (d).
 
-1996—Subsec. (b). Pub. L. 104–168 substituted “$50,000. However, such compromise shall be subject to continuing quality review by the Secretary.” for “$500.”
+<b>1996</b>—Subsec. (b). Pub. L. 104–168 substituted “$50,000. However, such compromise shall be subject to continuing quality review by the Secretary.” for “$500.”
 
-1976—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 2006 Amendment
 

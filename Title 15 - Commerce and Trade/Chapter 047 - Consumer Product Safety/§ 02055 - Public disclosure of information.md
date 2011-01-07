@@ -16,7 +16,7 @@
 
 (7) Nothing in this Act shall authorize the withholding of information by the Commission or any officer or employee under its control from the duly authorized committees or subcommittees of the Congress, and the provisions of paragraphs (2) through (6) shall not apply to such disclosures, except that the Commission shall immediately notify the manufacturer or private labeler of any such request for information designated as confidential by the manufacturer or private labeler.
 
-(8) The provisions of paragraphs (2) through (6) shall not prohibit the disclosure of information to other officers, employees, or representatives of the Commission (including contractors) concerned with carrying out this Act or when relevant in any administrative proceeding under this Act or in judicial proceedings to which theCommission is a party. Any disclosure of relevant information—
+(8) The provisions of paragraphs (2) through (6) shall not prohibit the disclosure of information to other officers, employees, or representatives of the Commission (including contractors) concerned with carrying out this Act or when relevant in any administrative proceeding under this Act or in judicial proceedings to which the Commission is a party. Any disclosure of relevant information—
 
 &emsp;(A) in Commission administrative proceedings or in judicial proceedings to which the Commission is a party, or
 
@@ -54,7 +54,7 @@
 
 &emsp;(D) the Commission publishes a finding that the public health and safety requires public disclosure with a lesser period of notice than is required under paragraph (1).
 
-> The provisions of this paragraph shall not apply to the public disclosure of information with respect to a consumer product which is the subject of an action brought under section 2061 of this title, or which the Commission has reasonablecause to believe is in violation of any consumer product safety rule or provision under this Act or similar rule or provision of any other Act enforced by the Commission, or information in the course of or concerning a judicial proceeding.
+> The provisions of this paragraph shall not apply to the public disclosure of information with respect to a consumer product which is the subject of an action brought under section 2061 of this title, or which the Commission has reasonable cause to believe is in violation of any consumer product safety rule or provision under this Act or similar rule or provision of any other Act enforced by the Commission, or information in the course of or concerning a judicial proceeding.
 
 (6) Where the Commission initiates the public disclosure of information that reflects on the safety of a consumer product or class of consumer products, whether or not such information would enable the public to ascertain readily the identity of a manufacturer or private labeler, the Commission shall establish procedures designed to ensure that such information is accurate and not misleading.
 
@@ -104,7 +104,7 @@ The Federal Hazardous Substances Act, referred to in subsec. (d)(1), is Pub. L. 
 
 #### Amendments
 
-2008—Subsec. (a)(3). Pub. L. 110–314, §211(1), inserted “A manufacturer or private labeler shall submit any such mark within 15 calendar days after the date on which it receives the Commission's offer.” after “paragraph (2).”
+<b>2008</b>—Subsec. (a)(3). Pub. L. 110–314, §211(1), inserted “A manufacturer or private labeler shall submit any such mark within 15 calendar days after the date on which it receives the Commission's offer.” after “paragraph (2).”
 
 Subsec. (b)(1). Pub. L. 110–314, §211(2)–(4), substituted “15 days” for “30 days”, “publishes a finding that the public” for “finds that the public”, and “notice),” for “notice and publishes such a finding in the Federal Register),”.
 
@@ -118,13 +118,13 @@ Subsec. (b)(5). Pub. L. 110–314, §211(10)–(13), added subpar. (D) and subst
 
 Subsec. (e)(4). Pub. L. 110–314, §235(c)(2), substituted “either of the appropriate Congressional committees or any subcommittee thereof,” for “the Committee on Commerce, Science, and Transportation of the Senate or the Committee on Energy and Commerce of the House of Representatives or any subcommittee of such committee,”.
 
-1990—Subsec. (a)(8). Pub. L. 101–608, §106, amended par. (8) generally. Prior to amendment, par. (8) read as follows: “The provisions of paragraphs (2) through (6) shall not prohibit the disclosure of information to other officers or employees concerned with carrying out this Act or when relevant in any administrative proceeding under this Act, or in judicial proceedings to which the Commission is a party. Any disclosure of relevant information in Commission administrative proceedings, or in judicial proceedings to which the Commission is a party, shall be governed by the rules of the Commission (including in camera review rules for confidential material) for such proceedings or by court rules or orders, except that the rules of the Commission shall not be amended in a manner inconsistent with the purposes of this section.”
+<b>1990</b>—Subsec. (a)(8). Pub. L. 101–608, §106, amended par. (8) generally. Prior to amendment, par. (8) read as follows: “The provisions of paragraphs (2) through (6) shall not prohibit the disclosure of information to other officers or employees concerned with carrying out this Act or when relevant in any administrative proceeding under this Act, or in judicial proceedings to which the Commission is a party. Any disclosure of relevant information in Commission administrative proceedings, or in judicial proceedings to which the Commission is a party, shall be governed by the rules of the Commission (including in camera review rules for confidential material) for such proceedings or by court rules or orders, except that the rules of the Commission shall not be amended in a manner inconsistent with the purposes of this section.”
 
 Subsec. (e). Pub. L. 101–608, §112(c), added subsec. (e).
 
-1983—Subsec. (b)(1). Pub. L. 97–414 substituted “paragraph (4)” for “paragraph (2)”.
+<b>1983</b>—Subsec. (b)(1). Pub. L. 97–414 substituted “paragraph (4)” for “paragraph (2)”.
 
-1981—Subsec. (a)(1). Pub. L. 97–35 amended par. (1) generally, substituting “shall be construed” for “shall be deemed”.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–35 amended par. (1) generally, substituting “shall be construed” for “shall be deemed”.
 
 Subsec. (a)(2). Pub. L. 97–35 amended par. (2) generally, substituting “title 18, or subject to section 552(b)(4) of title 5, shall be considered confidential and shall not be disclosed” for “title 18 shall be considered confidential and shall not be disclosed, except that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter. Nothing in this chapter shall authorize the withholding of information by the Commission or any officer or employee under its control from the duly authorized committees of the Congress”.
 

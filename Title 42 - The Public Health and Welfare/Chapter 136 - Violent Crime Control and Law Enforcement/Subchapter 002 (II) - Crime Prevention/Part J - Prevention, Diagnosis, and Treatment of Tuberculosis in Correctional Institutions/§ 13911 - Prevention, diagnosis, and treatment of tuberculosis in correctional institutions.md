@@ -50,3 +50,5 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (d), is Pub. L. 
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
+<i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the comma.</i>
+

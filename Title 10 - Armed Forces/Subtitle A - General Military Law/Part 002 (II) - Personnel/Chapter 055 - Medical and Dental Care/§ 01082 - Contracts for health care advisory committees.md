@@ -26,7 +26,7 @@ A prior section 1082, act Aug. 10, 1956, ch. 1041, 70A Stat. 87, related to exte
 
 #### Amendments
 
-1966—Pub. L. 89–614 substituted “Contracts for health care” for “Contracts for medical care for spouses and children” in section catchline and included reference to section 1086 in text.
+<b>1966</b>—Pub. L. 89–614 substituted “Contracts for health care” for “Contracts for medical care for spouses and children” in section catchline and included reference to section 1086 in text.
 
 #### Effective Date of 1966 Amendment
 

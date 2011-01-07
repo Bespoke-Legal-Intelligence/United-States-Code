@@ -1,6 +1,6 @@
 ### §1011e. Financial responsibility of foreign students
 
-Nothing in this chapter or any other Federal law shall be construed to prohibit any institution of higher education from requiring a student who is a foreign national (and not admitted to permanent residence in the United States) to guarantee the future payment of tuition and fees to such institution by—
+Nothing in this chapter and part C of subchapter I of chapter 34 of title 42 or any other Federal law shall be construed to prohibit any institution of higher education from requiring a student who is a foreign national (and not admitted to permanent residence in the United States) to guarantee the future payment of tuition and fees to such institution by—
 
 &emsp;(1) making advance payment of such tuition and fees;
 
@@ -9,10 +9,6 @@ Nothing in this chapter or any other Federal law shall be construed to prohibit 
 &emsp;(3) obtaining a bond or other insurance that such payments will be made.
 
 (Pub. L. 89–329, title I, §116, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1593.)
-
-#### References in Text
-
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Prior Provisions
 

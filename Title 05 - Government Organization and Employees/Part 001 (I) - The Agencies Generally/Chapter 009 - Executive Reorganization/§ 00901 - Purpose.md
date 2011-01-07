@@ -338,7 +338,7 @@ The function of the Bureau of the Census of the Department of Commerce of compil
 
 Shipping Board
 
-The functions of the United States Shipping Board including those over and in respect to the UnitedStates Shipping Board Merchant Fleet Corporation are transferred to the Department of Commerce, and the United States Shipping Board is abolished.
+The functions of the United States Shipping Board including those over and in respect to the United States Shipping Board Merchant Fleet Corporation are transferred to the Department of Commerce, and the United States Shipping Board is abolished.
 
 #### §13.
 
@@ -388,7 +388,7 @@ Each agency, all the functions of which are transferred to or consolidated with 
 
 The records pertaining to an abolished agency or a function disposed of, disposition of which is not elsewhere herein provided for, shall be transferred to the successor. If there be no successor agency, and such abolished agency be within a department, said records shall be disposed of as the head of such department may direct.
 
-The property, facilities, equipment, and supplies employed in the work of an abolished agency or the exercise of a function disposed of, disposition of which is not elsewhere herein provided for, shall, to the extent required, be transferred to the successor agency. Other such property, facilities, equipment, and supplies shall be transferred to the Procurement Division.
+The property, facilities, equipment, and supplies employed in the work of an abolished agency or the exercise of a function disposed of, disposition of which is not elsewhere herein provided for, shall, to the extentrequired, be transferred to the successor agency. Other such property, facilities, equipment, and supplies shall be transferred to the Procurement Division.
 
 All personnel employed in connection with the work of an abolished agency or function disposed of shall be separated from the service of the United States, except that the head of any successor agency, subject to my approval, may, within a period of four months after transfer or consolidation, reappoint any of such personnel required for the work of the successor agency without reexamination or loss of civil-service status.
 

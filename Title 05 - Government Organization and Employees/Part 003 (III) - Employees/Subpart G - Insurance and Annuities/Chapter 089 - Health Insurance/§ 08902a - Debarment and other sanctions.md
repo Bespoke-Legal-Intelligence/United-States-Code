@@ -32,7 +32,7 @@
 
 &emsp;(3) Any provider that has been convicted, under Federal or State law, in connection with the interference with or obstruction of an investigation or prosecution of a criminal offense described in paragraph (1) or (2).
 
-&emsp;(4) Any provider that has been convicted, under Federal or State law, of a criminal offense relating to the unlawful manufacture, distribution, prescription, or dispensing of a controlled substance.
+&emsp;(4) Any provider that has been convicted, under Federal or State law, of a criminal offense relating to the unlawful manufacture,distribution, prescription, or dispensing of a controlled substance.
 
 &emsp;(5) Any provider that is currently debarred, suspended, or otherwise excluded from any procurement or nonprocurement activity (within the meaning of section 2455 of the Federal Acquisition Streamlining Act of 1994).
 
@@ -124,7 +124,7 @@
 
 (3) Matters that were raised or that could have been raised in a hearing under paragraph (1) or an appeal under paragraph (2) may not be raised as a defense to a civil action by the United States to collect a penalty or assessment imposed under this section.
 
-(i) A civil action to recover civil monetary penalties or assessments under subsection (d) shall be brought by the Attorney General in the name of the United States, and may be brought in the United States district court for the district where the claim involved was presented or where the person subject to the penalty resides. Amounts recovered under this section shall be paid to the Office for deposit into the Employees Health Benefits Fund. The amount of a penalty or assessment as finally determined by the Office, or other amount the Office may agree to in compromise, may be deducted from any sum then or later owing by the United States to the party against whom the penalty or assessment has been levied.
+(i) A civil action to recover civil monetary penalties or assessments under subsection (d) shall be brought by the Attorney General in the name of the United States, and may be brought in the United States district court for the district where the claim involved was presented orwhere the person subject to the penalty resides. Amounts recovered under this section shall be paid to the Office for deposit into the Employees Health Benefits Fund. The amount of a penalty or assessment as finally determined by the Office, or other amount the Office may agree to in compromise, may be deducted from any sum then or later owing by the United States to the party against whom the penalty or assessment has been levied.
 
 (j) The Office shall prescribe regulations under which, with respect to services or supplies furnished by a debarred provider to a covered individual during the period of such provider's debarment, payment or reimbursement under this chapter may be made, notwithstanding the fact of such debarment, if such individual did not know or could not reasonably be expected to have known of the debarment. In any such instance, the carrier involved shall take appropriate measures to ensure that the individual is informed of the debarment and the minimum period of time remaining under the terms of the debarment.
 

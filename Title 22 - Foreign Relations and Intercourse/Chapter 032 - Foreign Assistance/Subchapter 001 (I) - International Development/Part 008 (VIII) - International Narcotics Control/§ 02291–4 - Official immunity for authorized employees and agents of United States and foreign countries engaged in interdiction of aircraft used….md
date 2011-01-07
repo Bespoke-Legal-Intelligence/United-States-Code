@@ -50,19 +50,25 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
-2002—Subsec. (c)(1). Pub. L. 107–306, §811(b)(6)(A), substituted “Except as provided in paragraph (2), not later than” for “Not later than”.
+<b>2002</b>—Subsec. (c)(1). Pub. L. 107–306, §811(b)(6)(A), substituted “Except as provided in paragraph (2), not later than” for “Not later than”.
 
 Subsec. (c)(2), (3). Pub. L. 107–306, §811(b)(6)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
-2001—Subsec. (a)(2). Pub. L. 107–108, §503(a), substituted “has, during the 12-month period ending on the date of the interdiction, certified to Congress” for “, before the interdiction occurs, has determined” in introductory provisions.
+<b>2001</b>—Subsec. (a)(2). Pub. L. 107–108, §503(a), substituted “has, during the 12-month period ending on the date of the interdiction, certified to Congress” for “, before the interdiction occurs, has determined” in introductory provisions.
 
 Subsecs. (c), (d). Pub. L. 107–108, §503(b), added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### Delegation of Functions
+
+Functions of President under subsec. (c) of this section delegated to Secretary of State, see Memorandum of President of the United States, July 21, 2010, 75 F.R. 43795, set out as a note under section 5202 of this title.
 
 #### Presidential Determinations Relating to Interdiction
 
 The President made the determination required by subsec. (a)(2) of this section for the following countries:
 
-Brazil.—Determination No. 2010–02, Oct. 16, 2009, 74 F.R. 54429.
+Brazil.—Determination No. 2011–03, Oct. 15, 2010, 75 F.R. 75853.
+
+Determination No. 2010–02, Oct. 16, 2009, 74 F.R. 54429.
 
 Determination No. 2009–4, Oct. 15, 2008, 73 F.R. 62849.
 
@@ -74,7 +80,9 @@ Determination No. 2006–02, Oct. 16, 2005, 70 F.R. 62227.
 
 Determination No. 2005–03, Oct. 16, 2004, 69 F.R. 62797.
 
-Colombia.—Determination No. 2009–24, Aug. 13, 2009, 74 F.R. 42573.
+Colombia.—Determination No. 2010–11, Aug. 10, 2010, 75 F.R. 67011, 68405.
+
+Determination No. 2009–24, Aug. 13, 2009, 74 F.R. 42573.
 
 Determination No. 2008–24, Aug. 15, 2008, 73 F.R. 54283.
 

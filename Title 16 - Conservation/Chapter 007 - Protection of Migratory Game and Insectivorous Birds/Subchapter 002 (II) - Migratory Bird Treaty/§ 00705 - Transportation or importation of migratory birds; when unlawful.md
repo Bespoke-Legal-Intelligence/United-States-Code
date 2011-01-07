@@ -6,9 +6,9 @@ It shall be unlawful to ship, transport, or carry, by any means whatever, from o
 
 #### Amendments
 
-1969—Pub. L. 91–135 repealed second par., which prohibited shipment of wild game mammals or parts thereof by any person of the United States to and from Mexico, except by permit from the Secretary of the Interior.
+<b>1969</b>—Pub. L. 91–135 repealed second par., which prohibited shipment of wild game mammals or parts thereof by any person of the United States to and from Mexico, except by permit from the Secretary of the Interior.
 
-1936—Act June 20, 1936, inserted last sentence.
+<b>1936</b>—Act June 20, 1936, inserted last sentence.
 
 #### Effective Date of 1969 Amendment
 
@@ -16,7 +16,7 @@ Section 11 of Pub. L. 91–135 provided that: “The provisions of sections 1 th
 
 #### Effective Date of 1936 Amendment
 
-Section effective June 30, 1937, see section 1 of act June 20, 1936, set out as a note under section 703 of this title.
+Act June 20, 1936, ch. 634, §4, 49 Stat. 1556, provided in part that the amendment by section 4 is effective as of the day aforesaid (June 30, 1937). See note under section 703 of this title.
 
 #### Transfer of Functions
 

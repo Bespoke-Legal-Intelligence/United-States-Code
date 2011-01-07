@@ -194,7 +194,7 @@ Planning and environmental assessment costs incurred prior to project approval.�
 
 &emsp;(2)
 
-Recreational purpose.—A project funded under this section is intended to enhancerecreational opportunity and is not subject to section 138 of this title or section 303 of title 49.
+Recreational purpose.—A project funded under this section is intended to enhance recreational opportunity and is not subject to section 138 of this title or section 303 of title 49.
 
 &emsp;(3)
 
@@ -234,9 +234,9 @@ A prior section 206, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908, provided for
 
 #### Amendments
 
-2008—Subsec. (d)(3)(A). Pub. L. 110–244 substituted “(B) and (C)” for “(B), (C), and (D)” in introductory provisions.
+<b>2008</b>—Subsec. (d)(3)(A). Pub. L. 110–244 substituted “(B) and (C)” for “(B), (C), and (D)” in introductory provisions.
 
-2005—Subsec. (d)(2). Pub. L. 109–59, §1109(b), amended par. (2) generally. Prior to amendment, par. (2) consisted of subpars. (A) to (G) relating to permissible uses of funds apportioned to carry out this section.
+<b>2005</b>—Subsec. (d)(2). Pub. L. 109–59, §1109(b), amended par. (2) generally. Prior to amendment, par. (2) consisted of subpars. (A) to (G) relating to permissible uses of funds apportioned to carry out this section.
 
 Subsec. (d)(3)(C), (D). Pub. L. 109–59, §1109(c), redesignated subpar. (D) as (C), substituted “(2)(H)” for “(2)(F)”, and struck out heading and text of former subpar. (C). Text read as follows: “A State recreational trail advisory committee established under subsection (c)(2) may waive, in whole or in part, the requirements of clauses (ii) and (iii) of subparagraph (A) if the State recreational trail advisory committee determines and notifies the Secretary that the State does not have sufficient projects to meet the requirements of clauses (ii) and (iii) of subparagraph (A).”
 

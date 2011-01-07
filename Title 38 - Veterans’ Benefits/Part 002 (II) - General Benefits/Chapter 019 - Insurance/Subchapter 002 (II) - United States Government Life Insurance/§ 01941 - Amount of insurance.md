@@ -6,9 +6,9 @@ United States Government life insurance shall be issued against death or total p
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 741 of this title as this section and substituted “1907” for “707”.
+<b>1991</b>—Pub. L. 102–83 renumbered section 741 of this title as this section and substituted “1907” for “707”.
 
-1971—Pub. L. 92–188 made section limitations inapplicable to the additional paid up insurance purchase of which is authorized under section 707 of this title.
+<b>1971</b>—Pub. L. 92–188 made section limitations inapplicable to the additional paid up insurance purchase of which is authorized under section 707 of this title.
 
 #### Effective Date of 1971 Amendment
 

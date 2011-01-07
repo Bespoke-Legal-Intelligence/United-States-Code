@@ -26,13 +26,13 @@ For purposes of this part, the term “biasply tire” means a pneumatic tire on
 
 For purposes of this part, the term “super single tire” means a single tire greater than 13 inches in cross section width designed to replace 2 tires in a dual fitment. Such term shall not include any tire designed for steering.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 482; June 29, 1956, ch. 462, title II, §204(b), 70 Stat. 389; Pub. L. 98–369, div. A, title VII, §735(c)(3), July 18, 1984, 98 Stat. 982; Pub. L. 108–357, title VIII, §§851(c)(1), 869(b), Oct. 22, 2004, 118 Stat. 1608, 1623; Pub. L. 109–58, title XIII, §1364(a), Aug. 8, 2005, 119 Stat. 1060.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 482; June 29, 1956, ch. 462, title II, §204(b), 70 Stat. 389; Pub. L. 98–369, div. A, title VII, §735(c)(3), July 18, 1984, 98 Stat. 982; Pub. L. 108–357, title VIII, §§851(c)(1), 869(b), Oct. 22, 2004, 118 Stat. 1608,1623; Pub. L. 109–58, title XIII, §1364(a), Aug. 8, 2005, 119 Stat. 1060.)
 
 #### Amendments
 
-2005—Subsec. (e). Pub. L. 109–58 inserted at end “Such term shall not include any tire designed for steering.”
+<b>2005</b>—Subsec. (e). Pub. L. 109–58 inserted at end “Such term shall not include any tire designed for steering.”
 
-2004—Subsec. (a). Pub. L. 108–357, §869(b), added subsec. (a) and redesignated former subsec. (a) as (b).
+<b>2004</b>—Subsec. (a). Pub. L. 108–357, §869(b), added subsec. (a) and redesignated former subsec. (a) as (b).
 
 Subsec. (b). Pub. L. 108–357, §869(b), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
 
@@ -44,9 +44,9 @@ Pub. L. 108–357, §869(b), added subsecs. (c) and (d).
 
 Subsec. (e). Pub. L. 108–357, §869(b), redesignated subsec. (d) as (e).
 
-1984—Subsecs. (b), (c). Pub. L. 98–369 redesignated subsec. (c) as (b) and struck out former subsec. (b) which defined “tread rubber”.
+<b>1984</b>—Subsecs. (b), (c). Pub. L. 98–369 redesignated subsec. (c) as (b) and struck out former subsec. (b) which defined “tread rubber”.
 
-1956—Act June 29, 1956, substituted “Definitions” for “Definition of rubber” in section catchline.
+<b>1956</b>—Act June 29, 1956, substituted “Definitions” for “Definition of rubber” in section catchline.
 
 Act June 29, 1956, designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 

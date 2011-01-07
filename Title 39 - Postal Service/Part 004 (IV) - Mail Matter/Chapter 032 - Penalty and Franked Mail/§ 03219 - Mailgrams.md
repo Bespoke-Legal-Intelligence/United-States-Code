@@ -6,9 +6,9 @@ Any Mailgram sent by the Vice President, a Member of or Member-elect to Congress
 
 #### Amendments
 
-1982—Pub. L. 97–263 inserted reference to Law Revision Counsel of House of Representatives.
+<b>1982</b>—Pub. L. 97–263 inserted reference to Law Revision Counsel of House of Representatives.
 
-1978—Pub. L. 95–521 inserted reference to Senate Legal Counsel.
+<b>1978</b>—Pub. L. 95–521 inserted reference to Senate Legal Counsel.
 
 #### Effective Date of 1978 Amendment
 

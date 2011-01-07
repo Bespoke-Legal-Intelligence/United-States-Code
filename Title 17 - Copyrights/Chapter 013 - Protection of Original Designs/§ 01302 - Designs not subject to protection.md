@@ -16,5 +16,5 @@ Protection under this chapter shall not be available for a design that is—
 
 #### Amendments
 
-1999—Par. (5). Pub. L. 106–44 substituted “2 years” for “1 year”.
+<b>1999</b>—Par. (5). Pub. L. 106–44 substituted “2 years” for “1 year”.
 

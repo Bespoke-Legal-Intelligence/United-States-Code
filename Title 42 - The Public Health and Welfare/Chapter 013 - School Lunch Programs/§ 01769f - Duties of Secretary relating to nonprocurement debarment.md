@@ -102,7 +102,7 @@ The Secretary shall—
 
 &emsp;&emsp;&emsp;(iv) otherwise settle a debarment action at any time;
 
-> &emsp;&emsp;in conjunction with the participation of a local agency in a child nutrition program, if the Secretary determines there is good cause for the action, after taking into account factors set forth in paragraphs (1) through (6) of subsection (e) of this section.
+> &emsp;&emsp;in conjunction with the participation of a local agency in a child nutrition program, if the Secretary determines there is good causefor the action, after taking into account factors set forth in paragraphs (1) through (6) of subsection (e) of this section.
 
 #### (5) Information
 
@@ -148,7 +148,7 @@ On request, the Secretary shall present to the Committee on Education and Labor,
 
 #### Amendments
 
-1998—Subsec. (b)(1)(D) to (G). Pub. L. 105–336 redesignated subpars. (E) to (G) as (D) to (F), respectively, and struck out former subpar. (D) which read as follows:“the homeless children nutrition program established under section 1766b of this title;”.
+<b>1998</b>—Subsec. (b)(1)(D) to (G). Pub. L. 105–336 redesignated subpars. (E) to (G) as (D) to (F), respectively, and struck out former subpar. (D) which read as follows: “the homeless children nutrition program established under section 1766b of this title;”.
 
 #### Effective Date of 1998 Amendment
 

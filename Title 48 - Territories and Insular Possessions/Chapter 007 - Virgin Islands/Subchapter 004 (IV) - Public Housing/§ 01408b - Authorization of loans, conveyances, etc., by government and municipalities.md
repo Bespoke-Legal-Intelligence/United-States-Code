@@ -6,5 +6,5 @@ The government of the Virgin Islands, through its legislative assembly, may assi
 
 #### Amendments
 
-1955—Act Aug. 11, 1955, included urban renewal projects.
+<b>1955</b>—Act Aug. 11, 1955, included urban renewal projects.
 

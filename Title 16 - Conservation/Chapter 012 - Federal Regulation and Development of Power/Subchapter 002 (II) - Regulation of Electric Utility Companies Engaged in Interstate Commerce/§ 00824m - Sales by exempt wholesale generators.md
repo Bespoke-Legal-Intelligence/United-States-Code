@@ -10,7 +10,7 @@ Section 16451 of title 42, referred to in text, was in the original “section 2
 
 #### Amendments
 
-2005—Pub. L. 109–58 substituted “section 16451 of title 42” for “section 79b(a) of title 15”.
+<b>2005</b>—Pub. L. 109–58 substituted “section 16451 of title 42” for “section 79b(a) of title 15”.
 
 #### Effective Date of 2005 Amendment
 

@@ -1,7 +1,5 @@
 Part IV—Transportation in Bond and Warehousing of Merchandise
 
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
-
 
 ---
 

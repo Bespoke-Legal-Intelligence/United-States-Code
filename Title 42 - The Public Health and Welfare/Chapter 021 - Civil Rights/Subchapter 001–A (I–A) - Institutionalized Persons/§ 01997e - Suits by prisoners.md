@@ -42,7 +42,7 @@ No Federal civil action may be brought by a prisoner confined in a jail, prison,
 
 #### (g) Waiver of reply
 
-(1) Any defendant may waive the right to reply to any action brought by a prisoner confined in any jail, prison, or other correctional facility under section 1983 of this title or any other Federal law. Notwithstanding any other law or rule of procedure, such waiver shall not constitute an admission of the allegations contained in the complaint. No relief shall be granted to the plaintiff unless a reply has been filed.
+(1) Any defendant may waive the right to reply to any action brought by a prisoner confined inany jail, prison, or other correctional facility under section 1983 of this title or any other Federal law. Notwithstanding any other law or rule of procedure, such waiver shall not constitute an admission of the allegations contained in the complaint. No relief shall be granted to the plaintiff unless a reply has been filed.
 
 (2) The court may require any defendant to reply to a complaint brought under this section if it finds that the plaintiff has a reasonable opportunity to prevail on the merits.
 
@@ -50,7 +50,7 @@ No Federal civil action may be brought by a prisoner confined in a jail, prison,
 
 As used in this section, the term “prisoner” means any person incarcerated or detained in any facility who is accused of, convicted of, sentenced for, or adjudicated delinquent for, violations of criminal law or the terms and conditions of parole, probation, pretrial release, or diversionary program.
 
-(Pub. L. 96–247, §7, May 23, 1980, 94 Stat. 352; Pub. L. 103–322, title II, §20416(a), Sept. 13, 1994, 108Stat. 1833; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §803(d)\], Apr. 26, 1996, 110 Stat. 1321, 1321–71; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+(Pub. L. 96–247, §7, May 23, 1980, 94 Stat. 352; Pub. L. 103–322, title II, §20416(a), Sept. 13, 1994, 108 Stat. 1833; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §803(d)\], Apr. 26, 1996, 110 Stat. 1321, 1321–71; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### References in Text
 
@@ -58,9 +58,9 @@ Section 1988 of this title, referred to in subsec. (d)(1), (4), was in the origi
 
 #### Amendments
 
-1996—Pub. L. 104–134 amended section generally, substituting provisions relating to suits by prisoners, consisting of subsecs. (a) to (h), for former provisions relating to exhaustion of remedies, consisting of subsecs. (a) to (d).
+<b>1996</b>—Pub. L. 104–134 amended section generally, substituting provisions relating to suits by prisoners, consisting of subsecs. (a) to (h), for former provisions relating to exhaustion of remedies, consisting of subsecs. (a) to (d).
 
-1994—Subsec. (a). Pub. L. 103–322, §20416(a)(1), substituted “exceed 180 days” for “exceed ninety days” in par. (1) and inserted before period at end of par. (2) “or are otherwise fair and effective”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §20416(a)(1), substituted “exceed 180 days” for “exceed ninety days” in par. (1) and inserted before period at end of par. (2) “or are otherwise fair and effective”.
 
 Subsec. (c). Pub. L. 103–322, §20416(a)(2), inserted “or are otherwise fair and effective” before period at end of par. (1) and “or is no longer fair and effective” before period at end of par. (2).
 

@@ -12,7 +12,7 @@
 
 #### (2) Content of notice
 
-&emsp;Any notice furnished under paragraph (1) shall state that eligibility for medicare cost-sharing assistance, the transitional assistance under section 1395w–141(f) of this title, or premium and cost-sharing subsidies under section 1395w–114 of this title under such sections is conditioned upon—
+&emsp;Any notice furnished under paragraph (1) shall state that eligibility for medicare cost-sharing assistance, the transitional assistance under section 1395w–141(f) of this title, or premium and cost-sharing subsidies under section1395w–114 of this title under such sections is conditioned upon—
 
 &emsp;&emsp;(A) the individual providing to the State information about income and resources (in the case of an individual residing in a State that imposes an assets test for eligibility for medicare cost-sharing under the medicaid program); and
 
@@ -70,7 +70,7 @@
 
 #### (ii) Additional amount for low-income subsidy activities
 
-&emsp;&emsp;&emsp;There are hereby appropriated to the Commissioner, out of any funds in the Treasury not otherwise appropriated, $24,800,000 for fiscal year 2009 to carry out low-income subsidy activities under section 1395w–114 of this title and the Medicare Savings Program (in accordance with this subsection), to remain available until expended. Such funds shall be in addition to the Social Security Administration's Limitation on Administrative Expenditure appropriations for such fiscal year.
+&emsp;&emsp;&emsp;There are hereby appropriated to the Commissioner, out of any funds in the Treasury not otherwise appropriated, $24,800,000 for fiscal year 2009 to carry outlow-income subsidy activities under section 1395w–114 of this title and the Medicare Savings Program (in accordance with this subsection), to remain available until expended. Such funds shall be in addition to the Social Security Administration's Limitation on Administrative Expenditure appropriations for such fiscal year.
 
 #### (B) Subsequent funding under agreements
 
@@ -110,7 +110,7 @@
 
 &emsp;For purposes of this subsection, the term “Medicare Savings Program” means the program of medical assistance for payment of the cost of medicare cost-sharing under the Medicaid program pursuant to sections 1396a(a)(10)(E) and 1396u–3 of this title.
 
-(Aug. 14, 1935, ch. 531, title XI, §1144, as added Pub. L. 106–554, §1(a)(6) \[title IX, §911(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583; amended Pub.L. 108–173, title I, §103(g), Dec. 8, 2003, 117 Stat. 2160; Pub. L. 110–275, title I, §113(a), July 15, 2008, 122 Stat. 2503.)
+(Aug. 14, 1935, ch. 531, title XI, §1144, as added Pub. L. 106–554, §1(a)(6) \[title IX, §911(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583; amended Pub. L. 108–173, title I, §103(g), Dec. 8, 2003, 117 Stat. 2160; Pub. L. 110–275, title I, §113(a), July 15, 2008, 122 Stat. 2503.)
 
 #### Prior Provisions
 
@@ -118,9 +118,9 @@ A prior section 1320b–14, act Aug. 14, 1935, ch. 531, title XI, §1144, as add
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–275 added subsec. (c).
+<b>2008</b>—Subsec. (c). Pub. L. 110–275 added subsec. (c).
 
-2003—Pub. L. 108–173, §103(g)(1), inserted “and subsidies for low-income individuals under subchapter XVIII” after “cost-sharing” in section catchline.
+<b>2003</b>—Pub. L. 108–173, §103(g)(1), inserted “and subsidies for low-income individuals under subchapter XVIII” after “cost-sharing” in section catchline.
 
 Subsec. (a)(1)(A). Pub. L. 108–173, §103(g)(2)(A)(i), inserted “for the transitional assistance under section 1395w–141(f) of this title, or for premium and cost-sharing subsidies under section 1395w–114 of this title” before semicolon.
 
@@ -144,7 +144,7 @@ Pub. L. 106–554, §1(a)(6) \[title IX, §911(c)\], Dec. 21, 2000, 114 Stat. 27
 
 #### GAO Report
 
-Pub. L. 106–554, §1(a)(6) \[title IX, §911(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584, provided that: “The Comptroller General of the United States shall conduct a study of the impact of section 1144 of the Social Security Act \[this section\] (as added by subsection (a)(1)) on the enrollment of individuals for medicare cost-sharing under the medicaid program. Not later than 18 months after the date that the Commissioner of Social Security first conducts outreach under section 1144 of such Act, the Comptroller General shall submit to Congress a report on such study. The report shall include such recommendations for legislative changes as the Comptroller General deems appropriate.”
+Pub. L. 106–554, §1(a)(6) \[title IX, §911(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584, provided that: “The Comptroller General of the United States shall conduct a study of the impact of section 1144 of the Social Security Act \[this section\] (as added by subsection (a)(1)) on the enrollment of individuals for medicare cost-sharingunder the medicaid program. Not later than 18 months after the date that the Commissioner of Social Security first conducts outreach under section 1144 of such Act, the Comptroller General shall submit to Congress a report on such study. The report shall include such recommendations for legislative changes as the Comptroller General deems appropriate.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -39,7 +39,7 @@
 
 #### Amendments
 
-1994—Pub. L. 103–429, §6(72)(B), Oct. 31, 1994, 108 Stat. 4388, added item 47510.
+<b>1994</b>—Pub. L. 103–429, §6(72)(B), Oct. 31, 1994, 108 Stat. 4388, added item 47510.
 
 Pub. L. 103–305, title III, §308(b), Aug. 23, 1994, 108 Stat. 1594, added item 47509.
 

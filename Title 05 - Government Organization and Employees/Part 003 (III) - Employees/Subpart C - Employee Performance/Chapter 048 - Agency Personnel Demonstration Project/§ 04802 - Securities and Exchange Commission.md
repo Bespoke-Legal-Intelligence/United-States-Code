@@ -34,7 +34,7 @@ In general.—The Securities and Exchange Commission shall develop a plan to imp
 
 Inclusion in annual performance plan and report.—The Securities and Exchange Commission shall include—
 
-&emsp;&emsp;“(i) the plan developed under this paragraph in the annual program performance plan submitted under section 1115 of title 31, United States Code; and
+&emsp;&emsp;“(i) the plan developed under this paragraph in the annual program performance plan submittedunder section 1115 of title 31, United States Code; and
 
 &emsp;&emsp;“(ii) the effects of implementing the plan developed under this paragraph in the annual program performance report submitted under section 1116 of title 31, United States Code.
 

@@ -56,7 +56,7 @@ No later than 60 days after submitting a report to Congress under section 1826h 
 
 &emsp;&emsp;&emsp;(i) to the extent that such provisions would apply to sport fishing equipment or to fish or fish products not managed under the applicable international fishery agreement; or
 
-&emsp;&emsp;&emsp;(ii) if there is no applicable international fishery agreement, to the extent that such provisions would apply to fish or fish products caught by vessels not engaged in illegal, unreported, or unregulated fishing.
+&emsp;&emsp;&emsp;(ii) if there is no applicable international fishery agreement, to the extent that suchprovisions would apply to fish or fish products caught by vessels not engaged in illegal, unreported, or unregulated fishing.
 
 #### (e) Illegal, unreported, or unregulated fishing defined
 
@@ -72,7 +72,7 @@ No later than 60 days after submitting a report to Congress under section 1826h 
 
 &emsp;The Secretary shall include in the definition, at a minimum—
 
-&emsp;&emsp;(A) fishing activities that violate conservation and management measures required under an international fishery management agreement to which the United States is a party, including catch limits or quotas, capacity restrictions, and bycatch reduction requirements;
+&emsp;&emsp;(A) fishing activities that violate conservation and management measures required under an international fishery management agreement to which the United States is a party, including catch limits or quotas, capacity restrictions, bycatch reduction requirements, and shark conservation measures;
 
 &emsp;&emsp;(B) overfishing of fish stocks shared by the United States, for which there are no applicable international conservation or management measures or in areas with no applicable international fishery management organization or agreement, that has adverse impacts on such stocks; and
 
@@ -82,7 +82,7 @@ No later than 60 days after submitting a report to Congress under section 1826h 
 
 There are authorized to be appropriated to the Secretary for fiscal years 2007 through 2013 such sums as are necessary to carry out this section.
 
-(Pub. L. 104–43, title VI, §609, as added Pub. L. 109–479, title IV, §403(a), Jan. 12, 2007, 120 Stat. 3628.)
+(Pub. L. 104–43, title VI, §609, as added Pub. L. 109–479, title IV, §403(a), Jan. 12, 2007, 120 Stat. 3628; amended Pub. L. 111–348, title I, §102(b), Jan. 4, 2011, 124 Stat. 3669.)
 
 #### References in Text
 
@@ -93,4 +93,8 @@ Sections 1826d to 1826k of this title, referred to in subsec. (e)(1), (2), was i
 #### Codification
 
 Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protection Act, and also as part of the Fisheries Act of 1995, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (e)(3)(A). Pub. L. 111–348 substituted “bycatch reduction requirements, and shark conservation measures;” for “and bycatch reduction requirements;”.
 

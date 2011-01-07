@@ -16,11 +16,9 @@
 
 #### Amendments
 
-1978—Pub. L. 95–227, §4(c)(2)(A), Feb. 10, 1978, 92 Stat. 22, added subchapter A heading and designated sections 4940 to 4948 as subchapter A.
+<b>1978</b>—Pub. L. 95–227, §4(c)(2)(A), Feb. 10, 1978, 92 Stat. 22, added subchapter A heading and designated sections 4940 to 4948 as subchapter A.
 
-1969—Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 498, added analysis of sections.
-
-<i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
+<b>1969</b>—Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 498, added analysis of sections.
 
 
 ---

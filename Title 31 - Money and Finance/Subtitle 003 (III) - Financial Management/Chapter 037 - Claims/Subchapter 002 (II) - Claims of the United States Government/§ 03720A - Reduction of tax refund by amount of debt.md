@@ -64,7 +64,7 @@ Section 6109 of the Internal Revenue Code of 1986, referred to in subsec. (h)(3)
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–134, §31001(v)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any Federal agency that is owed a past-due legally enforceable debt (other than any past-due support), including debt administered by a third party acting as an agent for the Federal Government, by a named person shall, in accordance with regulations issued pursuant to subsections (b) and (d), notify the Secretary of the Treasury at least once a year of the amount of all such debt.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–134, §31001(v)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any Federal agency that is owed a past-due legally enforceable debt (other than any past-due support), including debt administered by a third party acting as an agent for the Federal Government, by a named person shall, in accordance with regulations issued pursuant to subsections (b) and (d), notify the Secretary of the Treasury at least once a year of the amount of all such debt.”
 
 Subsec. (h). Pub. L. 104–134, §31001(w), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “For purposes of this section—
 
@@ -78,17 +78,17 @@ Subsec. (h). Pub. L. 104–134, §31001(w), amended subsec. (h) generally. Prior
 
 Subsec. (i). Pub. L. 104–134, §31001(u)(1), added subsec. (i).
 
-1994—Subsec. (f)(2). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” wherever appearing.
+<b>1994</b>—Subsec. (f)(2). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” wherever appearing.
 
-1992—Subsec. (a). Pub. L. 102–589, §3(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any Federal agency that is owed a past-due legally enforceable debt (other than any past-due support) by a named person shall, in accordance with regulations issued pursuant to subsection (d), notify the Secretary of the Treasury of the amount of such debt.”
+<b>1992</b>—Subsec. (a). Pub. L. 102–589, §3(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any Federal agency that is owed a past-due legally enforceable debt (other than any past-due support) by a named person shall, in accordance with regulations issued pursuant to subsection (d), notify the Secretary of the Treasury of the amount of such debt.”
 
-Subsec. (b)(3) to (5). Pub. L. 102–589, §3(2), struck out “and” at end of par. (3), substituted “(determined on agovernment-wide basis) to obtain payment of such debt; and” for “to obtain payment of such debt.” in par. (4), and added par. (5).
+Subsec. (b)(3) to (5). Pub. L. 102–589, §3(2), struck out “and” at end of par. (3), substituted “(determined on a government-wide basis) to obtain payment of such debt; and” for “to obtain payment of such debt.” in par. (4), and added par. (5).
 
 Subsec. (g). Pub. L. 102–589, §3(5), added subsec. (g). Former subsec. (g) redesignated (h).
 
 Subsec. (h). Pub. L. 102–589, §3(3), (4), redesignated subsec. (g) as (h) and added par. (4).
 
-1990—Subsec. (a). Pub. L. 101–508, §5129(b)(1), struck out “OASDI overpayment and” after “other than any”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §5129(b)(1), struck out “OASDI overpayment and” after “other than any”.
 
 Subsecs. (f), (g). Pub. L. 101–508, §5129(b)(2), (3), added subsec. (f) and redesignated former subsec. (f) as (g).
 

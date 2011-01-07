@@ -40,7 +40,7 @@ Prior sections 2023 to 2027 were renumbered sections 4303 to 4307 of this title,
 
 #### Amendments
 
-2008—Pub. L. 110–387, §602(d)(2), amended section catchline generally. Prior to amendment, catchline read as follows: “Demonstration program of referral and counseling for veterans transitioning from certain institutions who are at risk for homelessness”.
+<b>2008</b>—Pub. L. 110–387, §602(d)(2), amended section catchline generally. Prior to amendment, catchline read as follows: “Demonstration program of referral and counseling for veterans transitioning from certain institutions who are at risk for homelessness”.
 
 Subsec. (a). Pub. L. 110–387, §602(a), substituted “a program of” for “a demonstration program for the purpose of determining the costs and benefits of providing”.
 
@@ -50,5 +50,5 @@ Subsec. (c)(1). Pub. L. 110–387, §602(d)(1), struck out “demonstration” b
 
 Subsec. (d). Pub. L. 110–387, §602(c), substituted “September 30, 2012.” for “September 30, 2007.”
 
-2007—Subsec. (d). Pub. L. 110–28 substituted “shall cease on September 30, 2007” for “shall cease on the date that is four years after the date of the commencement of the program”.
+<b>2007</b>—Subsec. (d). Pub. L. 110–28 substituted “shall cease on September 30, 2007” for “shall cease on the date that is four years after the date of the commencement of the program”.
 

@@ -26,7 +26,7 @@ Not later than thirty days after—
 
 #### (b) Additional data, views, and arguments
 
-If the petitioner applies to the court for leave to adduce additional data, views, or arguments respecting the regulation or order being reviewed and shows to the satisfaction of the court that such additional data, views, or arguments are material and that there were reasonable grounds for the petitioner's failure to adduce such data, views, or arguments in the proceedings before the Secretary, the court may order the Secretary to provide additional opportunity for the oral presentation of data, views, or arguments and for written submissions. The Secretary may modify his findings, or make new findings by reason of the additional data, views, or arguments so taken and shall file with thecourt such modified or new findings, and his recommendation, if any, for the modification or setting aside of the regulation or order being reviewed, with the return of such additional data, views, or arguments.
+If the petitioner applies to the court for leave to adduce additional data, views, or arguments respecting the regulation or order being reviewed and shows to the satisfaction of the court that such additional data, views, or arguments are material and that there were reasonable grounds for the petitioner's failure to adduce such data, views, or arguments in the proceedings before the Secretary, the court may order the Secretary to provide additional opportunity for the oral presentation of data, views, or arguments and for written submissions. The Secretary may modify his findings, or make new findings by reason of the additional data, views, or arguments so taken and shall file with the court such modified or new findings, and his recommendation, if any, for the modification or setting aside of the regulation or order being reviewed, with the return of such additional data, views, or arguments.
 
 #### (c) Standard for review
 
@@ -48,15 +48,15 @@ To facilitate judicial review under this section or under any other provision of
 
 #### Amendments
 
-1997—Subsec. (a)(8). Pub. L. 105–115, §216(a)(2)(A), inserted “or” at end.
+<b>1997</b>—Subsec. (a)(8). Pub. L. 105–115, §216(a)(2)(A), inserted “or” at end.
 
 Subsec. (a)(9). Pub. L. 105–115, §216(a)(2)(B), substituted comma for “, or” at end.
 
 Subsec. (a)(10). Pub. L. 105–115, §216(a)(2)(C), struck out par. (10) which read as follows: “an order under section 360j(h)(4)(B) of this title,”.
 
-1992—Subsec. (a)(10). Pub. L. 102–300 substituted “360j(h)(4)(B)” for “360j(c)(4)(B)”.
+<b>1992</b>—Subsec. (a)(10). Pub. L. 102–300 substituted “360j(h)(4)(B)” for “360j(c)(4)(B)”.
 
-1990—Subsec. (a)(8) to (10). Pub. L. 101–629 added pars. (8) to (10).
+<b>1990</b>—Subsec. (a)(8) to (10). Pub. L. 101–629 added pars. (8) to (10).
 
 #### Effective Date of 1997 Amendment
 

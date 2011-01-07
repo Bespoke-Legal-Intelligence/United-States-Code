@@ -2,7 +2,7 @@
 
 #### (a) Establishment and composition
 
-There is hereby established a <sup>1</sup> Information Security and Privacy Advisory Board within the Department of Commerce. The Secretary of Commerce shall appoint the chairman of the Board. The Board shall be composed of twelve additional members appointed by the Secretary of Commerce as follows:
+There is hereby established a <sup>1</sup> Information Security and Privacy Advisory Board within the Department of Commerce. The Secretary of Commerce shall appoint the chairman of the Board. The Board shall be composed of twelveadditional members appointed by the Secretary of Commerce as follows:
 
 &emsp;(1) four members from outside the Federal Government who are eminent in the information technology industry, at least one of whom is representative of small or medium sized companies in such industries;
 
@@ -52,7 +52,7 @@ As used in this section, the terms “information system” and “information t
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–296, §1004(1), and Pub. L. 107–347, §304(1), amended subsec. (a) identically, substituting “Information Security and Privacy Advisory Board” for “Computer System Security and Privacy Advisory Board” in introductory provisions.
+<b>2002</b>—Subsec. (a). Pub. L. 107–296, §1004(1), and Pub. L. 107–347, §304(1), amended subsec. (a) identically, substituting “Information Security and Privacy Advisory Board” for “Computer System Security and Privacy Advisory Board” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 107–296, §1004(2), and Pub. L. 107–347, §304(2), amended par. (1) identically, substituting “information technology” for “computer or telecommunications”.
 
@@ -70,11 +70,11 @@ Subsec. (b)(3). Pub. L. 107–296, §1004(7), and Pub. L. 107–347, §304(7), a
 
 Subsecs. (f), (g). Pub. L. 107–296, §1004(8), (9), and Pub. L. 107–347, §304(8), (9), amended section identically, adding subsec. (f) and redesignating former subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 107–296, §1004(10), and Pub. L. 107–347, §304(10), amended section identically, addingsubsec. (h) and striking out former subsec. (h) which read as follows: “As used in this section, the terms ‘computer system’ and ‘Federal computer system’ have the meanings given in section 278g–3 of this title.”
+Subsec. (h). Pub. L. 107–296, §1004(10), and Pub. L. 107–347, §304(10), amended section identically, adding subsec. (h) and striking out former subsec. (h) which read as follows: “As used in this section, the terms ‘computer system’ and ‘Federal computer system’ have the meanings given in section 278g–3 of this title.”
 
 Pub. L. 107–296, §1004(9), and Pub. L. 107–347, §304(9), amended section identically, redesignating subsec. (g) as (h).
 
-1988—Subsec. (b)(2). Pub. L. 100–418, which directed that this chapter be amended by substituting “Institute” for “National Bureau of Standards”, “Bureau”, or “bureau”, wherever appearing, was executed to par. (2) by substituting “Institute” for “Bureau of Standards”, to reflect the probable intent of Congress.
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–418, which directed that this chapter be amended by substituting “Institute” for “National Bureau of Standards”, “Bureau”, or “bureau”, wherever appearing, was executed to par. (2) by substituting “Institute” for “Bureau of Standards”, to reflect the probable intent of Congress.
 
 Subsec. (f). Pub. L. 100–418 substituted “Institute” for “National Bureau of Standards”.
 

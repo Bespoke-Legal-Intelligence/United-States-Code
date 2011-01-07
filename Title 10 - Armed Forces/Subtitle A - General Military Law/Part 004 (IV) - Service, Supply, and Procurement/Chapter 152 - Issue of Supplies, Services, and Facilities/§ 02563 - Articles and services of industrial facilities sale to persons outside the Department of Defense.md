@@ -74,13 +74,13 @@ Definitions.—In this section:
 
 #### Amendments
 
-2001—Subsec. (c)(1)(B). Pub. L. 107–107, §343(a)(1), substituted “as provided in paragraph (3)” for “in any case of willful misconduct or gross negligence”.
+<b>2001</b>—Subsec. (c)(1)(B). Pub. L. 107–107, §343(a)(1), substituted “as provided in paragraph (3)” for “in any case of willful misconduct or gross negligence”.
 
 Subsec. (c)(3). Pub. L. 107–107, §343(a)(2), added par. (3).
 
-2000—Pub. L. 106–398 renumbered section 2553 of this title as this section.
+<b>2000</b>—Pub. L. 106–398 renumbered section 2553 of this title as this section.
 
-1999—Subsec. (c). Pub. L. 106–65, §331(a)(2), designated existing provisions as par. (1), redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), and added par. (2).
+<b>1999</b>—Subsec. (c). Pub. L. 106–65, §331(a)(2), designated existing provisions as par. (1), redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), and added par. (2).
 
 Subsec. (g)(2), (3). Pub. L. 106–65, §331(b), added par. (2) and redesignated former par. (2) as (3).
 

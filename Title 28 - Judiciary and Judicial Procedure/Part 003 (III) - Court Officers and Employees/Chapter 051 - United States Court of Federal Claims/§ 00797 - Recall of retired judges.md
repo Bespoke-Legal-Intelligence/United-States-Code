@@ -2,7 +2,7 @@
 
 (a)(1) Any judge of the United States Court of Federal Claims who has retired from regular active service under subchapter III of chapter 83, or chapter 84, of title 5 shall be known and designated as a senior judge and may perform duties as a judge when recalled pursuant to subsection (b) of this section.
 
-(2) Any judge of the Court of Federal Claims receiving an annuity under section 178(c) of this title (pertaining to disability) who, in the estimation of the chief judge, has recovered sufficiently to render judicial service, shall beknown and designated as a senior judge and may perform duties as a judge when recalled under subsection (b) of this section.
+(2) Any judge of the Court of Federal Claims receiving an annuity under section 178(c) of this title (pertaining to disability) who, in the estimation of the chief judge, has recovered sufficiently to render judicial service, shall be known and designated as a senior judge and may perform duties as a judge when recalled under subsection (b) of this section.
 
 (b) The chief judge of the Court of Federal Claims may, whenever he deems it advisable, recall any senior judge, with such judge's consent, to perform such duties as a judge and for such period of time as the chief judge may specify.
 
@@ -14,21 +14,21 @@
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–518 designated existing provisions as par. (1) and added par. (2).
+<b>2000</b>—Subsec. (a). Pub. L. 106–518 designated existing provisions as par. (1) and added par. (2).
 
-1992—Subsec. (a). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
 Subsec. (b). Pub. L. 102–572, §902(a)(2), substituted “Court of Federal Claims” for “Claims Court”.
 
 Subsec. (d). Pub. L. 102–572, §§902(a)(2), 904(b), substituted “Court of Federal Claims” for “Claims Court” and struck out “civil service” before “retirement annuity”.
 
-1986—Subsec. (a). Pub. L. 99–651 inserted reference to chapter 84 of title 5.
+<b>1986</b>—Subsec. (a). Pub. L. 99–651 inserted reference to chapter 84 of title 5.
 
-1982—Pub. L. 97–164 substituted “judges” for “commissioners” in section catchline.
+<b>1982</b>—Pub. L. 97–164 substituted “judges” for “commissioners” in section catchline.
 
 Subsec. (a). Pub. L. 97–164 substituted “Any judge of the United States Claims Court who has retired from regular active service under subchapter III of chapter 83 of title 5 shall be known and designated as a senior judge and may perform duties as a judge when recalled pursuant to subsection (b) of this section” for “Any commissioner who has retired from regular active service under the Civil Service Retirement Act shall be known and designated as a senior commissioner and may perform duties as a commissioner when recalled pursuant to subsection (b) of this section”.
 
-Subsec. (b). Pub. L. 97–164 substituted “The chief judge of the Claims Court may, whenever he deems it advisable, recall any senior judge, with such judge's consent, to perform such duties as a judge and for such period of time as the chief judge may specify” for “The United States Court of Claims, whenever it deems such action advisable, may recall any senior commissioner, with the latter's acquiescence, to perform such duties as a commissioner and for such period of time as the court may specify”.
+Subsec. (b). Pub. L. 97–164 substituted “The chief judge of the Claims Court may, whenever he deems it advisable, recall any senior judge, with such judge's consent, to perform such duties as a judge and for such period of time as the chief judge may specify” for “The United States Court of Claims, whenever it deems suchaction advisable, may recall any senior commissioner, with the latter's acquiescence, to perform such duties as a commissioner and for such period of time as the court may specify”.
 
 Subsec. (c). Pub. L. 97–164 substituted “Any senior judge performing duties pursuant to this section shall not be counted as a judge for purposes of the number of judgeships authorized by section 171 of this title” for “Any senior commissioner performing duties pursuant to this section shall not be counted as a commissioner for purposes of the number of commissioner positions authorized by section 792 of this title”.
 

@@ -18,7 +18,7 @@ In addition to any action that may be brought under subsection (a) of this secti
 
 #### (c) Separate offenses
 
-For the purpose of imposing civil penalties and criminal fines under this section, each dayof a continuing violation shall constitute a separate offense as shall the dumping from each of several vessels, or other sources.
+For the purpose of imposing civil penalties and criminal fines under this section, each day of a continuing violation shall constitute a separate offense as shall the dumping from each of several vessels, or other sources.
 
 #### (d) Injunctive relief
 
@@ -50,7 +50,7 @@ If the provisions of any permit issued under section 1412 or 1413 of this title 
 
 (B) In any such suit under this subsection in which the United States is not a party, the Attorney General, at the request of the Administrator or Secretary, may intervene on behalf of the United States as a matter of right.
 
-(4) The court, in issuing any final order in any suit brought pursuant to paragraph (1) of this subsection may award costs of litigation (including reasonable attorney and expert witness fees) to any party, whenever the court determines such award is appropriate.
+(4) The court, in issuing any final order in any suit brought pursuant to paragraph (1) of thissubsection may award costs of litigation (including reasonable attorney and expert witness fees) to any party, whenever the court determines such award is appropriate.
 
 (5) The injunctive relief provided by this subsection shall not restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement of any standard or limitation or to seek any other relief (including relief against the Administrator, the Secretary, or a State agency).
 
@@ -76,7 +76,7 @@ Section 13 of the Federal Water Pollution Control Act, referred to in subsec. (e
 
 #### Amendments
 
-1992—Subsec. (b). Pub. L. 102–580, §508(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+<b>1992</b>—Subsec. (b). Pub. L. 102–580, §508(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
 “(1) In addition to any action which may be brought under subsection (a) of this section, a person who knowingly violates this subchapter, regulations promulgated under this subchapter, or a permit issued under this subchapter shall be fined not more than $50,000, or imprisoned for not more than one year, or both.
 
@@ -88,7 +88,7 @@ Section 13 of the Federal Water Pollution Control Act, referred to in subsec. (e
 
 Subsec. (i). Pub. L. 102–508, §508(b), added subsec. (i).
 
-1988—Subsec. (a). Pub. L. 100–688, §3201(c), inserted provisions relating to civil penalty of not more than $125,000 for engaging in activity involving dumping of medical waste.
+<b>1988</b>—Subsec. (a). Pub. L. 100–688, §3201(c), inserted provisions relating to civil penalty of not more than $125,000 for engaging in activity involving dumping of medical waste.
 
 Subsec. (b). Pub. L. 100–688, §3201(d), designated existing provisions as par. (1) and added par. (2).
 

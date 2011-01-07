@@ -82,5 +82,5 @@ The Health Services and Centers Amendments of 1978, referred to in subsec. (b), 
 
 #### Amendments
 
-1984—Subsec. (a)(4)(H). Pub. L. 98–512 struck out “and referral to such services” after “vocational services”.
+<b>1984</b>—Subsec. (a)(4)(H). Pub. L. 98–512 struck out “and referral to such services” after “vocational services”.
 

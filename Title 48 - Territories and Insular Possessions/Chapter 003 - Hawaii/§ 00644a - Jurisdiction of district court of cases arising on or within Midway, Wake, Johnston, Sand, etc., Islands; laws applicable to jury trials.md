@@ -8,9 +8,9 @@ The laws of the United States relating to juries and jury trials shall be applic
 
 #### Amendments
 
-1960—Pub. L. 86–624 struck out Kure Island.
+<b>1960</b>—Pub. L. 86–624 struck out Kure Island.
 
-1959—Pub. L. 86–3 extended jurisdiction to cases arising on or within Palmyra Island.
+<b>1959</b>—Pub. L. 86–3 extended jurisdiction to cases arising on or within Palmyra Island.
 
 #### Effective Date of 1959 Amendment
 

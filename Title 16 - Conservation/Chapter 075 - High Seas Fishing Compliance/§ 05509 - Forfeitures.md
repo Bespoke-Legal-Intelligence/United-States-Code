@@ -38,7 +38,3 @@ For purposes of this section, all living marine resources found on board a high 
 
 (Pub. L. 104–43, title I, §110, Nov. 3, 1995, 109 Stat. 375.)
 
-#### References in Text
-
-The customs laws, referred to in subsec. (c), are classified generally to Title 19, Customs Duties.
-

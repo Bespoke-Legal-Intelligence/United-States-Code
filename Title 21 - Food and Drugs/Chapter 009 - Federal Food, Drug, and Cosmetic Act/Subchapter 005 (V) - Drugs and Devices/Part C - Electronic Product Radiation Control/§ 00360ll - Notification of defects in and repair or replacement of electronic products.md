@@ -20,7 +20,7 @@ The notifications required by paragraph (1) of subsection (a) of this section sh
 
 #### (d) Copies to Secretary of communications by manufacturers to dealers or distributors regarding defects
 
-Every manufacturer of electronic products shall furnish to the Secretary a true or representative copy of all notices, bulletins, and other communications to the dealers or distributors of such manufacturer or to purchasers (or subsequent transferees) of electronic products of such manufacturer regarding any such defect in such product or any such failure to comply with a standard applicable to such product. The Secretary shall disclose to the public so much of the information contained in such notice or other information obtained under section 360nn of this title as he deems will assist in carrying out the purposes of this part, but he shall not disclose any information which contains or relates to a trade secret or other matter referred to in section 1905 of title 18 unless he determines that it is necessary to carry out the purposes of this part.
+Every manufacturer of electronic products shall furnish to the Secretary a true or representative copy of all notices, bulletins, and other communications to the dealers or distributors of such manufacturer or to purchasers (or subsequent transferees) of electronic products of such manufacturer regarding any suchdefect in such product or any such failure to comply with a standard applicable to such product. The Secretary shall disclose to the public so much of the information contained in such notice or other information obtained under section 360nn of this title as he deems will assist in carrying out the purposes of this part, but he shall not disclose any information which contains or relates to a trade secret or other matter referred to in section 1905 of title 18 unless he determines that it is necessary to carry out the purposes of this part.
 
 #### (e) Notice from Secretary to manufacturer of defects or failure to comply with standards
 
@@ -48,9 +48,9 @@ Section was classified to section 263g of Title 42, The Public Health and Welfar
 
 #### Amendments
 
-1993—Pub. L. 103–80 amended directory language of Pub. L. 101–629, §19(a)(4), which renumbered section 263g of Title 42, The Public Health and Welfare, as this section.
+<b>1993</b>—Pub. L. 103–80 amended directory language of Pub. L. 101–629, §19(a)(4), which renumbered section 263g of Title 42, The Public Health and Welfare, as this section.
 
-1990—Subsec. (a)(1). Pub. L. 101–629, §19(a)(2)(C)(i), substituted “section 360kk” for “section 263f”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–629, §19(a)(2)(C)(i), substituted “section 360kk” for “section 263f”.
 
 Subsec. (d). Pub. L. 101–629, §19(a)(1)(B), (2)(C)(ii), substituted “section 360nn” for “section 263i” and “this part” for “this subpart” in two places.
 

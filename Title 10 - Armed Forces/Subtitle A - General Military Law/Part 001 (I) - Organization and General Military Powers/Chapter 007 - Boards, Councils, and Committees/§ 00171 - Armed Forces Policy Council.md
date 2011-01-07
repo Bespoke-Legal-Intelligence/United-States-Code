@@ -58,23 +58,23 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-2001—Subsec. (a)(3). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+<b>2001</b>—Subsec. (a)(3). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
-1993—Subsec. (a)(3). Pub. L. 103–160, §904(d)(1), substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
+<b>1993</b>—Subsec. (a)(3). Pub. L. 103–160, §904(d)(1), substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
 
 Subsec. (a)(8). Pub. L. 103–160, §904(d)(3), substituted “Deputy Under Secretary of Defense for Acquisition and Technology” for “Deputy Under Secretary of Defense for Acquisition”.
 
-1986—Subsec. (a)(3) to (13) Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended subsec. (a) identically, redesignating pars. (3) to (11) as (4), (5), (6), (7), (9), (10), (11), (12), and (13), respectively, adding new pars. (3) and (8), and substituting “the Under Secretary of Defense for Acquisition” for “the Under Secretaries of Defense” in par. (7).
+<b>1986</b>—Subsec. (a)(3) to (13) Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended subsec. (a) identically, redesignating pars. (3) to (11) as (4), (5), (6), (7), (9), (10), (11), (12), and (13), respectively, adding new pars. (3) and (8), and substituting “the Under Secretary of Defense for Acquisition” for “the Under Secretaries of Defense” in par. (7).
 
-1983—Subsec. (a)(11). Pub. L. 98–94 added par. (11).
+<b>1983</b>—Subsec. (a)(11). Pub. L. 98–94 added par. (11).
 
-1977—Subsec. (a)(2). Pub. L. 95–140, §3(b)(1), substituted “the Deputy” for “a Deputy”.
+<b>1977</b>—Subsec. (a)(2). Pub. L. 95–140, §3(b)(1), substituted “the Deputy” for “a Deputy”.
 
 Subsec. (a)(6). Pub. L. 95–140, §3(b)(2), substituted “the Under Secretaries of Defense;” for “the Director of Defense Research and Engineering;”.
 
-1972—Subsec. (a)(2). Pub. L. 92–596 substituted “a Deputy Secretary” for “the Deputy Secretary”.
+<b>1972</b>—Subsec. (a)(2). Pub. L. 92–596 substituted “a Deputy Secretary” for “the Deputy Secretary”.
 
-1958—Subsec. (a)(6) to (10). Pub. L. 85–599 added par. (6) and redesignated former pars. (6) to (9) as (7) to (10), respectively.
+<b>1958</b>—Subsec. (a)(6) to (10). Pub. L. 85–599 added par. (6) and redesignated former pars. (6) to (9) as (7) to (10), respectively.
 
 #### Short Title of 1983 Amendment
 

@@ -76,7 +76,7 @@ The Secretary is authorized to award a grant to the University of Northern Color
 
 &emsp;&emsp;&emsp;(II) another public or private entity that provides such professional development;
 
-&emsp;&emsp;&emsp;(ii) one or more public agencies ( <sup>1</sup> including local educational agencies, State educational agencies, State human services agencies, and State and local agencies administering programs under the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.), Head Start agencies, or private organizations; and
+&emsp;&emsp;&emsp;(ii) one or more public agencies ( <sup>1</sup> including local educational agencies, State educational agencies, State human services agencies, and State and local agencies administering programs under the Child Care and Development BlockGrant Act of 1990 (42 U.S.C. 9858 et seq.), Head Start agencies, or private organizations; and
 
 &emsp;&emsp;&emsp;(iii) to the extent feasible, an entity with demonstrated experience in providing training to educators in early childhood education programs concerning identifying and preventing behavior problems or working with children identified as or suspected to be victims of abuse.
 
@@ -116,7 +116,7 @@ The Secretary is authorized to award a grant to the University of Northern Color
 
 &emsp;&emsp;&emsp;&emsp;(IV) how the project will be coordinated with and build on, and will not supplant or duplicate, early childhood education professional development activities in the high-need community;
 
-&emsp;&emsp;&emsp;&emsp;(V) how the project will train early childhood educators to provide developmentally appropriate school-readinessservices that are based on the best available research on early childhood pedagogy and child development and learning domains;
+&emsp;&emsp;&emsp;&emsp;(V) how the project will train early childhood educators to provide developmentally appropriate school-readiness services that are based on the best available research on early childhood pedagogy and child development and learning domains;
 
 &emsp;&emsp;&emsp;&emsp;(VI) how the project will train early childhood educators to meet the diverse educational needs of children in the community, including children who have limited English proficiency, children with disabilities, or children with other special needs; and
 
@@ -190,7 +190,7 @@ The Secretary is authorized to award a grant to the University of Northern Color
 
 #### (ii) Termination
 
-&emsp;&emsp;&emsp;The Secretary may terminate a grant under this subsection at any time if theSecretary determines that the partnership receiving the grant is not making satisfactory progress toward attaining the achievement indicators.
+&emsp;&emsp;&emsp;The Secretary may terminate a grant under this subsection at any time if the Secretary determines that the partnership receiving the grant is not making satisfactory progress toward attaining the achievement indicators.
 
 #### (7) Cost-sharing
 
@@ -315,4 +315,6 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (f)(7),
 #### Prior Provisions
 
 A prior section 6651, Pub. L. 89–10, title II, §2211, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3632, related to higher education activities, prior to the general amendment of this subchapter by Pub. L. 107–110.
+
+<i><sup>1</sup></i><i> So in original. There is no closing parenthesis.</i>
 

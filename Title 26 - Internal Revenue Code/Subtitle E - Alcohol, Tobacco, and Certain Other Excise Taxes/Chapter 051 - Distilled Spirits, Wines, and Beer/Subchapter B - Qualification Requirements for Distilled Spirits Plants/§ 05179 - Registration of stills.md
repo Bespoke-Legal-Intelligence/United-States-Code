@@ -20,9 +20,9 @@ Provisions similar to those comprising this section were contained in prior sect
 
 #### Amendments
 
-1984—Subsec. (b)(2). Pub. L. 98–369 substituted “notification to set up a still, boiler, or other vessel for distilling, see section 5101(a)(2)” for “permit to set up a still, boiler or other vessel for distilling, see section 5105”.
+<b>1984</b>—Subsec. (b)(2). Pub. L. 98–369 substituted “notification to set up a still, boiler, or other vessel for distilling, see section 5101(a)(2)” for “permit to set up a still, boiler or other vessel for distilling, see section 5105”.
 
-1976—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (b)(1). Pub. L. 94–455, §1905(b)(6)(C), struck out “, 5601(b)(1),” after “5601(a)(1)”.
 
@@ -32,5 +32,5 @@ Amendment by Pub. L. 98–369 effective on first day of first calendar month whi
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1905(b)(6)(C) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
+Amendment by section 1905(b)(6)(C) of Pub. L. 94–455 effective on first day of first month which begins morethan 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
 

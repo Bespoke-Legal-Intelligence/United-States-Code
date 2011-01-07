@@ -24,7 +24,7 @@ This section also authorizes the Secretary to advise and assist the States and o
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–369 struck out “and facilities improvement” after “boating safety”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369 struck out “and facilities improvement” after “boating safety”.
 
 Subsec. (b). Pub. L. 98–369 struck out “and facilities improvement” after “and carrying out boating safety”.
 

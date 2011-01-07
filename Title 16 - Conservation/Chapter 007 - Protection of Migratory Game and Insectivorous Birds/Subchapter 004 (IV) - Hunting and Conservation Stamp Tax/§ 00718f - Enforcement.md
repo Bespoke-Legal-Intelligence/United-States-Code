@@ -10,9 +10,9 @@ The Migratory Bird Treaty Act, and “that Act”, referred to in text, is act J
 
 #### Amendments
 
-2006—Pub. L. 109–266 inserted section catchline, substituted “Secretary to” for “Secretary of Agriculture to” and “Department of the Interior” for “Department of Agriculture”, and inserted “(16 U.S.C. 703 et seq.)” after “Migratory Bird Treaty Act”.
+<b>2006</b>—Pub. L. 109–266 inserted section catchline, substituted “Secretary to” for “Secretary of Agriculture to” and “Department of the Interior” for “Department of Agriculture”, and inserted “(16 U.S.C. 703 et seq.)” after “Migratory Bird Treaty Act”.
 
-1978—Pub. L. 95–616 substituted in last sentence “contrary to this subchapter shall, when seized, be disposed of by the Secretary in accordance with law” for “contrary to such Acts shall, when seized, be disposed of as provided by the Migratory Bird Treaty Act, or Acts aforesaid”.
+<b>1978</b>—Pub. L. 95–616 substituted in last sentence “contrary to this subchapter shall, when seized, be disposed of by the Secretary in accordance with law” for “contrary to such Acts shall, when seized, be disposed of as provided by the Migratory Bird Treaty Act, or Acts aforesaid”.
 
 #### Change of Name
 

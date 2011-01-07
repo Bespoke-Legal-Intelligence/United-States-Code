@@ -8,7 +8,7 @@
 
 #### (2) General authorities
 
-&emsp;In providing such assistance, protection and advocacy systems shall have the same generalauthorities as the systems are afforded under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15041 et seq.), as determined by the Secretary.
+&emsp;In providing such assistance, protection and advocacy systems shall have the same general authorities as the systems are afforded under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15041 et seq.), as determined by the Secretary.
 
 #### (b) Grants
 
@@ -24,7 +24,7 @@
 
 &emsp;Subject to the availability of appropriations, the amount of a grant to a protection and advocacy system under paragraph (2) for a fiscal year shall—
 
-&emsp;&emsp;(A) in the case of a protection and advocacy system located in American Samoa, Guam, the United States Virgin Islands, or the Commonwealth of the Northern Mariana Islands, not be less than $30,000; and
+&emsp;&emsp;(A) in the case of a protection and advocacy system located in American Samoa,Guam, the United States Virgin Islands, or the Commonwealth of the Northern Mariana Islands, not be less than $30,000; and
 
 &emsp;&emsp;(B) in the case of a protection and advocacy system located in a State not described in subparagraph (A), not be less than $50,000.
 

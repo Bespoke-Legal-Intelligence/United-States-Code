@@ -34,5 +34,5 @@ In subsection (b), the words “When the head of an agency . . . considers it 
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–417 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “When the head of an agency responsible for the administration of the navigation or vessel-inspection laws considers it necessary in the interest of national defense, the individual may waive compliance with those laws to the extent, in the manner, and on the terms the individual prescribes.”
+<b>2008</b>—Subsec. (b). Pub. L. 110–417 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “When the head of an agency responsible for the administration of the navigation or vessel-inspection laws considers it necessary in the interest of national defense, the individual may waive compliance with those laws to the extent, in the manner, and on the terms the individual prescribes.”
 

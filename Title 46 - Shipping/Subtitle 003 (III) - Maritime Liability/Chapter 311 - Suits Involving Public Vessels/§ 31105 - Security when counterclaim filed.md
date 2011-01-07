@@ -1,6 +1,6 @@
 ### §31105. Security when counterclaim filed
 
-If a counterclaim is filed for a cause of action for which the original action is filed under thischapter, the respondent to the counterclaim shall give security in the usual amount and form to respond to the counterclaim, unless the court for cause shown orders otherwise. The proceedings in the original action shall be stayed until the security is given.
+If a counterclaim is filed for a cause of action for which the original action is filed under this chapter, the respondent to the counterclaim shall give security in the usual amount and form to respond to the counterclaim, unless the court for cause shown orders otherwise. The proceedings in the original action shall be stayed until the security is given.
 
 (Pub. L. 109–304, §6(c), Oct. 6, 2006, 120 Stat. 1522.)
 

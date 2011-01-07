@@ -24,7 +24,7 @@ As used in this chapter, unless the context otherwise requires—
 
 #### Amendments
 
-1985—Pars. (8), (9). Pub. L. 99–198 added par. (8) and redesignated former par. (8) as (9).
+<b>1985</b>—Pars. (8), (9). Pub. L. 99–198 added par. (8) and redesignated former par. (8) as (9).
 
 #### Termination of Trust Territory of the Pacific Islands
 

@@ -10,9 +10,9 @@
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1844 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1844 of this title as this section.
 
 Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “3702(d)” for “1802(d)”.
 
-1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” in section catchline and wherever appearing in text.
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary” for “Administrator” in section catchline and wherever appearing in text.
 

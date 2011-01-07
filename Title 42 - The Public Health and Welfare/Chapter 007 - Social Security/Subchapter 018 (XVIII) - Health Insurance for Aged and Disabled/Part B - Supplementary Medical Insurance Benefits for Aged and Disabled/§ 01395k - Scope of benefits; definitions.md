@@ -50,7 +50,7 @@ The benefits provided to an individual by the insurance program established by t
 
 &emsp;&emsp;(I) prosthetic devices and orthotics and prosthetics (described in section 1395m(h)(4) of this title) furnished by a provider of services or by others under arrangements with them made by a provider of services; and
 
-&emsp;&emsp;(J) partial hospitalization services provided by a community mental health center\(as described in section 1395x(ff)(2)(B) of this title).
+&emsp;&emsp;(J) partial hospitalization services provided by a community mental health center (as described in section 1395x(ff)(2)(B) of this title).
 
 #### (b) Definitions
 
@@ -64,13 +64,13 @@ Part B of subchapter XI of this chapter, referred to in subsec. (a)(2)(F)(ii)(I)
 
 #### Amendments
 
-2008—Subsec. (a)(2)(C). Pub. L. 110–275 substituted “, outpatient” for “and outpatient” and inserted “, and outpatient speech-language pathology services (other than services to which the second sentence of section 1395x(p) of this title applies through the application of section 1395x(<i>ll</i>)(2) of this title)” before semicolon at end.
+<b>2008</b>—Subsec. (a)(2)(C). Pub. L. 110–275 substituted “, outpatient” for “and outpatient” and inserted “, and outpatient speech-language pathology services (other than services to which the second sentence of section 1395x(p) of this title applies through the application of section 1395x(<i>ll</i>)(2) of this title)” before semicolon at end.
 
-2000—Subsecs. (b), (c). Pub. L. 106–554 redesignated subsec. (c) as (b) and struck out former subsec. (b), which related to extension of coverage of immunosuppressive drugs for individuals who would exhaust benefits under section 1395x(s)(2)(J)(v) of this title in a year during the 5-year period beginning with 2000, and set forth provisions relating to extension periods for each year.
+<b>2000</b>—Subsecs. (b), (c). Pub. L. 106–554 redesignated subsec. (c) as (b) and struck out former subsec. (b), which related to extension of coverage of immunosuppressive drugs for individuals who would exhaust benefits under section 1395x(s)(2)(J)(v) of this title in a year during the 5-year period beginning with 2000, and set forth provisions relating to extension periods for each year.
 
-1999—Subsecs. (b), (c). Pub. L. 106–113 added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>1999</b>—Subsecs. (b), (c). Pub. L. 106–113 added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1997—Subsec. (a)(1). Pub. L. 105–33, §4603(c)(2)(B)(ii), substituted “subparagraphs (E) and (F) of section 1395u(b)(6) of this title;” for “section 1395u(b)(6)(E) of this title;”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–33, §4603(c)(2)(B)(ii), substituted “subparagraphs (E) and (F) of section 1395u(b)(6) of this title;” for “section 1395u(b)(6)(E) of this title;”.
 
 Pub. L. 105–33, §4432(b)(5)(B), substituted “(2) and section 1395u(b)(6)(E) of this title;” for “(2);”.
 
@@ -78,7 +78,7 @@ Subsec. (a)(2)(B)(iv). Pub. L. 105–33, §4511(c), substituted “but only if n
 
 Subsec. (a)(2)(H). Pub. L. 105–33, §4201(c)(1), substituted “critical access” for “rural primary care”.
 
-1990—Subsec. (a)(2)(A), (B). Pub. L. 101–508, §4153(a)(2)(A)(i), substituted “subparagraph (G) or subparagraph (I)” for “subparagraph (G)”.
+<b>1990</b>—Subsec. (a)(2)(A), (B). Pub. L. 101–508, §4153(a)(2)(A)(i), substituted “subparagraph (G) or subparagraph (I)” for “subparagraph (G)”.
 
 Subsec. (a)(2)(B)(iii). Pub. L. 101–508, §4157(b), amended cl. (iii) generally. Prior to amendment, cl. (iii) related to services of a certified registered nurse anesthetist.
 
@@ -90,13 +90,13 @@ Subsec. (a)(2)(I). Pub. L. 101–508, §4153(a)(2)(A)(ii)–(iv), added subpar. 
 
 Subsec. (a)(2)(J). Pub. L. 101–508, §4162(b)(1), added subpar. (J).
 
-1989—Subsec. (a). Pub. L. 101–234, §201(a), repealed Pub. L. 100–360, §§203(a), 205(a), and provided that the provisions of law amended or repealed by such sections are restored or revived as if such sections had not been enacted, see 1988 Amendment notes below.
+<b>1989</b>—Subsec. (a). Pub. L. 101–234, §201(a), repealed Pub. L. 100–360, §§203(a), 205(a), and provided that the provisions of law amended or repealed by such sections are restored or revived as if such sections had not been enacted, see 1988 Amendment notes below.
 
 Subsec. (a)(2)(H). Pub. L. 101–239 added subpar. (H).
 
 Subsec. (b). Pub. L. 101–234, §101(a), repealed Pub. L. 100–360, §104(d)(3), and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment note below.
 
-1988—Subsec. (a). Pub. L. 100–360, §205(a)(2), inserted sentence at end relating to in-home care provided to a chronically dependent individual on any day.
+<b>1988</b>—Subsec. (a). Pub. L. 100–360, §205(a)(2), inserted sentence at end relating to in-home care provided to a chronically dependent individual on any day.
 
 Subsec. (a)(2)(A). Pub. L. 100–360, §205(a)(1), designated existing provisions as cl. (i) and added cl. (ii) relating to in-home care for a chronically dependent individual.
 
@@ -112,7 +112,7 @@ Subsec. (a)(2)(F)(ii). Pub. L. 100–360, §411(i)(4) (C)(vi), added Pub. L. 100
 
 Subsec. (b). Pub. L. 100–360, §104(d)(3), substituted “definitions of ‘medical and other health services’ and” for “definitions of ‘spell of illness’, ‘medical and other health services’, and”.
 
-1987—Subsec. (a)(2)(A). Pub. L. 100–203, §4062(d)(2)(A), inserted “(other than items described in subparagraph (G))” after “services”.
+<b>1987</b>—Subsec. (a)(2)(A). Pub. L. 100–203, §4062(d)(2)(A), inserted “(other than items described in subparagraph (G))” after “services”.
 
 Subsec. (a)(2)(B). Pub. L. 100–203, §4062(d)(2)(B), inserted “(other than items described in subparagraph (G))” after “health services”.
 
@@ -126,19 +126,19 @@ Subsec. (a)(2)(F)(ii). Pub. L. 100–203, §4085(i)(22)(A), as added by Pub. L. 
 
 Subsec. (a)(2)(G). Pub. L. 100–203, §4062(d)(2)(C), added subpar. (G).
 
-1986—Subsec. (a)(2)(B)(iii). Pub. L. 99–509, §9320(d), added cl. (iii).
+<b>1986</b>—Subsec. (a)(2)(B)(iii). Pub. L. 99–509, §9320(d), added cl. (iii).
 
 Subsec. (a)(2)(C). Pub. L. 99–509, §9337(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “outpatient physical therapy services, other than services to which the next to last sentence of section 1395x(p) of this title applies;”.
 
 Subsec. (a)(2)(F). Pub. L. 99–509, §9343(e)(1), inserted “standard overhead” in cl. (i) and concluding provisions of cl. (ii).
 
-1984—Subsec. (a)(2)(F)(ii). Pub. L. 98–369, §2341(b), substituted “paragraph (1), (2), or (3) of section 1395x(r) of this title” for “section 1395x(r)(1) of this title”.
+<b>1984</b>—Subsec. (a)(2)(F)(ii). Pub. L. 98–369, §2341(b), substituted “paragraph (1), (2), or (3) of section 1395x(r) of this title” for “section 1395x(r)(1) of this title”.
 
 Subsec. (a)(2)(F)(ii)(II). Pub. L. 98–369, §2354(b)(6), substituted “organization” for “Organization”.
 
-1982—Subsec. (a)(2)(F)(ii)(I). Pub. L. 97–248 substituted “quality control and peer review organization (having a contract with the Secretary” for “Professional Standards Review Organization (designated, conditionally or otherwise,”.
+<b>1982</b>—Subsec. (a)(2)(F)(ii)(I). Pub. L. 97–248 substituted “quality control and peer review organization (having a contract with the Secretary” for “Professional Standards Review Organization (designated, conditionally or otherwise,”.
 
-1980—Subsec. (a)(2)(A). Pub. L. 96–499, §930(g), struck out restriction on home health services of 100 visits during a calendar year.
+<b>1980</b>—Subsec. (a)(2)(A). Pub. L. 96–499, §930(g), struck out restriction on home health services of 100 visits during a calendar year.
 
 Subsec. (a)(2)(B)(i)(II). Pub. L. 96–499, §948(a)(2), substituted “where the conditions specified in paragraph (7) of such section are met” for “, unless either clause (A) or (B) of paragraph (7) of such section is met”.
 
@@ -146,15 +146,15 @@ Subsec. (a)(2)(E). Pub. L. 96–499, §933(a), added subpar. (E).
 
 Subsec. (a)(2)(F). Pub. L. 96–499, §934(a), added subpar. (F).
 
-1977—Subsec. (a)(1). Pub. L. 95–210, §1(a)(1), substituted “subparagraphs (B) and (D) of paragraph (2)” for “paragraph (2)(B)”.
+<b>1977</b>—Subsec. (a)(1). Pub. L. 95–210, §1(a)(1), substituted “subparagraphs (B) and (D) of paragraph (2)” for “paragraph (2)(B)”.
 
 Subsec. (a)(2)(D). Pub. L. 95–210, §1(a)(2), added subpar. (D).
 
-1972—Subsec. (a)(2)(B). Pub. L. 92–603, §227(e)(1), inserted provisions relating to medical and other health services performed by a physician to a patient in a hospital which has an approved teaching program.
+<b>1972</b>—Subsec. (a)(2)(B). Pub. L. 92–603, §227(e)(1), inserted provisions relating to medical and other health services performed by a physician to a patient in a hospital which has an approved teaching program.
 
 Subsec. (a)(2)(C). Pub. L. 92–603, §251(a)(4), inserted “, other than services to which the next to last sentence of section 1395x(p) of this title applies”.
 
-1968—Subsec. (a)(2)(B). Pub. L. 90–248, §129(c)(6)(B), inserted “and the services for which payment may be made pursuant to section 1395n(b)(2) of this title” after “hospital”.
+<b>1968</b>—Subsec. (a)(2)(B). Pub. L. 90–248, §129(c)(6)(B), inserted “and the services for which payment may be made pursuant to section 1395n(b)(2) of this title” after “hospital”.
 
 Subsec. (a)(2)(C). Pub. L. 90–248, §133(d), added subpar. (C).
 
@@ -272,7 +272,7 @@ Section 205(e)(2) of Pub. L. 100–360 directed Secretary of Health and Human Se
 
 #### Study of Alternative Out-of-Home Services
 
-Section 205(g) of Pub. L. 100–360, which required Secretary of Health and Human Services to study, and report to Congress, not later than 18 months after July 1, 1988, on advisability of providing, to chronically dependent individuals eligible for in-home care under amendments made by section 205 of Pub. L. 100–360\[amending this section and sections 1395<i>l</i>, 1395n, 1395x, and 1395y of this title\], out-of-home services as alternative services to in-home care, was repealed by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
+Section 205(g) of Pub. L. 100–360, which required Secretary of Health and Human Services to study, and report to Congress, not later than 18 months after July 1, 1988, on advisability of providing, to chronically dependent individuals eligible for in-home care under amendments made by section 205 of Pub. L. 100–360 \[amending this section and sections 1395<i>l</i>, 1395n, 1395x, and 1395y of this title\], out-of-home services as alternative services to in-home care, was repealed by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
 
 #### Continuation of Cost Pass-Through for Certified Registered Nurse Anesthetists
 
@@ -288,7 +288,7 @@ Section 9320(k) of Pub. L. 99–509, as added by Pub. L. 100–485, title VI, §
 
 “(2) Paragraph (1) shall not apply in a year (after 1989) to a hospital unless the hospital establishes, before the beginning of the year, that the hospital has had a volume of surgical procedures (including inpatient and outpatient procedures) requiring anesthesia services in the previous year that did not exceed 500 (or such higher number as the Secretary determines to be appropriate).”
 
-\[Section 6132(b) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending section 9320(k) of Pub. L. 99–509, set out above\] shall apply to services furnished on or after January 1, 1990.”\]
+\[Section 6132(b) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending section9320(k) of Pub. L. 99–509, set out above\] shall apply to services furnished on or after January 1, 1990.”\]
 
 #### Payment for Services of Physicians Rendered in a Teaching Hospital for Accounting Periods Beginning After June 30, 1975, and Prior to October 1, 1978; Studies, Reports, etc.; Effective Dates
 

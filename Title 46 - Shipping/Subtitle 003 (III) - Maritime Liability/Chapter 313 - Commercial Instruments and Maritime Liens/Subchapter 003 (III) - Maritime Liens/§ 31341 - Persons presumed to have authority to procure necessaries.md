@@ -42,5 +42,5 @@ Section 31341(b) provides that any person that is tortiously or unlawfully in po
 
 #### Amendments
 
-1989—Subsec. (a)(3). Pub. L. 101–225 substituted “management” for “mangement”.
+<b>1989</b>—Subsec. (a)(3). Pub. L. 101–225 substituted “management” for “mangement”.
 

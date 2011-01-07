@@ -6,7 +6,7 @@ The Secretary shall establish and carry out a program of national leadership act
 
 &emsp;&emsp;(A) assistance provided to eligible providers in developing and using performance measures for the improvement of adult education and literacy activities, including family literacy services;
 
-&emsp;&emsp;(B) assistance related to professional development activities, and assistance for the purposes of developing, improving, identifying, and disseminating the most successful methods and techniques for providing adult education and literacy activities, including family literacy services, based on scientific evidence where available; and
+&emsp;&emsp;(B) assistance related to professional development activities, and assistance for thepurposes of developing, improving, identifying, and disseminating the most successful methods and techniques for providing adult education and literacy activities, including family literacy services, based on scientific evidence where available; and
 
 &emsp;&emsp;(C) assistance in distance learning and promoting and improving the use of technology in the classroom.
 
@@ -44,7 +44,7 @@ The Secretary shall establish and carry out a program of national leadership act
 
 #### Amendments
 
-2007—Par. (2)(A). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
+<b>2007</b>—Par. (2)(A). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
 
-1998—Par. (2)(B). Pub. L. 105–277 substituted “quality” for “qualify”.
+<b>1998</b>—Par. (2)(B). Pub. L. 105–277 substituted “quality” for “qualify”.
 

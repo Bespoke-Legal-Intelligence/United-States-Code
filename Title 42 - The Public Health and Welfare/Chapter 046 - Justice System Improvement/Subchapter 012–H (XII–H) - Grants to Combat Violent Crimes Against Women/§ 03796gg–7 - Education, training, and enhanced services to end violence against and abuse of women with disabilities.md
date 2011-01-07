@@ -72,7 +72,7 @@ Section was enacted as part of the Violence Against Women Act of 2000 and also a
 
 #### Amendments
 
-2006—Pub. L. 109–162 substituted “Education, training, and enhanced services to end violence against andabuse of women with disabilities” for “Education and training to end violence against and abuse of women with disabilities” in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (d) relating to award of grants to provide education and technical assistance for the purpose of providing training, consultation, and information on domestic violence, stalking, and sexual assault against women who are individuals with disabilities and authorized appropriations for fiscal years 2001 through 2005.
+<b>2006</b>—Pub. L. 109–162 substituted “Education, training, and enhanced services to end violence against and abuse of women with disabilities” for “Education and training to end violence against and abuse of women with disabilities” in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (d) relating to award of grants to provide education and technical assistance for the purpose of providing training, consultation, and information on domestic violence, stalking, and sexual assault against women who are individuals with disabilities and authorized appropriations for fiscal years 2001 through 2005.
 
 #### Effective Date of 2006 Amendment
 

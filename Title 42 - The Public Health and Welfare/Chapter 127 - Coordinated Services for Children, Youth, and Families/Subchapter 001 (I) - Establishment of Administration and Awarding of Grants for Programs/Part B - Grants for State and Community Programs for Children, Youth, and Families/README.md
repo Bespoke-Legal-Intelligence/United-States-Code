@@ -1,7 +1,5 @@
 Part B—Grants for State and Community Programs for Children, Youth, and Families
 
-<i><sup>1</sup></i><i> So in original. Probably should be “organization.”</i>
-
 
 ---
 

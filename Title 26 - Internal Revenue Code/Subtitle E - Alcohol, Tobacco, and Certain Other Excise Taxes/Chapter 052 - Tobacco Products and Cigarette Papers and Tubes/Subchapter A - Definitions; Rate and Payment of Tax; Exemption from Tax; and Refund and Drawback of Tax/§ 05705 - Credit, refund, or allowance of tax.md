@@ -16,15 +16,15 @@ Any claim for credit or refund of tax under this section shall be filed within 6
 
 #### Amendments
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1965—Pub. L. 89–44, §808(c)(1), struck out “Refund or” and inserted in lieu thereof “Credit, refund, or” in section catchline.
+<b>1965</b>—Pub. L. 89–44, §808(c)(1), struck out “Refund or” and inserted in lieu thereof “Credit, refund, or” in section catchline.
 
 Subsec. (a). Pub. L. 89–44, §808(b)(1), substituted “Credit or refund” for “Refund” in heading and struck out “Refund of any tax imposed by this chapter shall be made”, replacing it with “Credit or refund of any tax imposed by this chapter or section 7652 shall be allowed or made”.
 
 Subsec. (c). Pub. L. 89–44, §808(b)(2), inserted “credit or” before “refund”.
 
-1958—Subsec. (a). Pub. L. 85–859 authorized refunds to export warehouse proprietors, provided for refunds to be made without interest, and eliminated provisions which authorized refunds where the tax has been paid in error.
+<b>1958</b>—Subsec. (a). Pub. L. 85–859 authorized refunds to export warehouse proprietors, provided for refunds to be made without interest, and eliminated provisions which authorized refunds where the tax has been paid in error.
 
 Subsec. (b). Pub. L. 85–859 permitted relief where a tax has not yet been paid on tobacco products and cigarette papers and tubes proved to have been withdrawn from the market.
 

@@ -18,7 +18,7 @@ In the case of any facility for which an allotment payment, grant, loan, or loan
 
 #### (c) Filing of financial statement with Secretary; form and contents
 
-Each such entity shall file at least annually with the Secretary a statement which shall be in such form, and contain such information, as the Secretary may require to accurately show—
+Each such entity shall file at least annually with the Secretary a statement which shall bein such form, and contain such information, as the Secretary may require to accurately show—
 
 &emsp;(1) the financial operations of the facility constructed or modernized with such assistance, and
 

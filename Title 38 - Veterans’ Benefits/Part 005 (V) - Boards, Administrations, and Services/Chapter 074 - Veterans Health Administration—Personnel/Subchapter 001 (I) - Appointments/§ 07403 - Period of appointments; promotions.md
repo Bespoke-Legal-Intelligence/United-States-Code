@@ -1,6 +1,6 @@
 ### §7403. Period of appointments; promotions
 
-(a)(1) Appointments under this chapter of health-care professionals to whom this sectionapplies may be made only after qualifications have been satisfactorily established in accordance with regulations prescribed by the Secretary, without regard to civil-service requirements.
+(a)(1) Appointments under this chapter of health-care professionals to whom this section applies may be made only after qualifications have been satisfactorily established in accordance with regulations prescribed by the Secretary, without regard to civil-service requirements.
 
 (2) This section applies to the following persons appointed under this chapter:
 
@@ -20,9 +20,13 @@
 
 &emsp;(H) Chiropractors.
 
-(b)(1) Appointments described in subsection (a) shall be for a probationary period of two years.
+(b)(1) Except as otherwise provided in this subsection, appointments described in subsection (a) shall be for a probationary period of two years.
 
-(2) The record of each person serving under such an appointment in the Medical, Dental, and Nursing Services shall be reviewed from time to time by a board, appointed in accordance with regulations of the Secretary. If such a board finds that such person is not fully qualified and satisfactory, such person shall be separated from the service.
+(2) With respect to the appointment of a registered nurse under this chapter, paragraph (1) shall apply with respect to such appointment regardless of whether such appointment is on a full-time basis or a part-time basis.
+
+(3) An appointment described in subsection (a) on a part-time basis of a person who has previously served on a full-time basis for the probationary period for the position concerned shall be without a probationary period.
+
+(4) The record of each person serving under such an appointment in the Medical, Dental, and Nursing Services shall be reviewed from time to time by a board, appointed in accordance with regulations of the Secretary. If such a board finds that such person is not fully qualified and satisfactory, such person shall be separated from the service.
 
 (c) Promotions of persons to whom this section applies shall be made only after examination given in accordance with regulations prescribed by the Secretary. Advancement within grade may be made in increments of the minimum rate of basic pay of the grade in accordance with regulations prescribed by the Secretary.
 
@@ -96,7 +100,7 @@
 
 (9) In this subsection, the term “congressional veterans’ affairs committees” means the Committees on Veterans’ Affairs of the Senate and the House of Representatives.
 
-(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 224; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 108–170, title III, §§301(b), 302(c), Dec. 6, 2003, 117 Stat. 2055, 2058.)
+(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 224; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 108–170, title III, §§301(b), 302(c), Dec. 6, 2003, 117 Stat. 2055, 2058; Pub. L. 111–163, title VI, §601(b), May 5, 2010, 124 Stat. 1168.)
 
 #### Prior Provisions
 
@@ -104,13 +108,17 @@ Provisions similar to those in this section were contained in section 4106 of th
 
 #### Amendments
 
-2003—Subsec. (a)(2)(H). Pub. L. 108–170, §302(c), added subpar. (H).
+<b>2010</b>—Subsec. (b)(1). Pub. L. 111–163, §601(b)(1), substituted “Except as otherwise provided in this subsection, appointments” for “Appointments”.
+
+Subsec. (b)(2) to (4). Pub. L. 111–163, §601(b)(2), (3), added pars. (2) and (3) and redesignated former par. (2) as (4).
+
+<b>2003</b>—Subsec. (a)(2)(H). Pub. L. 108–170, §302(c), added subpar. (H).
 
 Subsec. (f)(3). Pub. L. 108–170, §301(b)(1), inserted “reductions-in-force, the applicability of the principles of preference referred to in paragraph (2), rights of part-time employees,” after “adverse actions,”, “, whether appointed under this section or section 7405(a)(1)(B) of this title” after “such positions”, and comma after “status)”.
 
 Subsec. (h). Pub. L. 108–170, §301(b)(2), added subsec. (h).
 
-1992—Subsec. (f)(1). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
+<b>1992</b>—Subsec. (f)(1). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
 #### Effective Date of 2003 Amendment
 

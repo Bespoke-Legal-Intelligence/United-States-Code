@@ -30,7 +30,7 @@ Records.—The Secretary of Defense shall ensure that the Board has access to su
 
 (e)
 
-Reports.—(1) The Board shall submit to the Secretary of Defense on an annual basis a report on the actuarial status of each of the following:
+Reports.—(1) The Board shall submit to the Secretary of Defense on an annual basis areport on the actuarial status of each of the following:
 
 &emsp;(A) The Department of Defense Military Retirement Fund.
 
@@ -44,7 +44,7 @@ Reports.—(1) The Board shall submit to the Secretary of Defense on an annual b
 
 #### Prior Provisions
 
-A prior section 183, added Pub. L. 105–85, div. A, title IX, §904(a), Nov. 18, 1997, 111 Stat. 1854, required theSecretary of Defense to report annually on the justification or requirement and projected costs of Department of Defense advisory committees, prior to repeal by Pub. L. 107–314, div. A, title X, §1041(a)(1)(A), Dec. 2, 2002, 116 Stat. 2645.
+A prior section 183, added Pub. L. 105–85, div. A, title IX, §904(a), Nov. 18, 1997, 111 Stat. 1854, required the Secretary of Defense to report annually on the justification or requirement and projected costs of Department of Defense advisory committees, prior to repeal by Pub. L. 107–314, div. A, title X, §1041(a)(1)(A), Dec. 2, 2002, 116 Stat. 2645.
 
 #### Initial Service as Board Members
 

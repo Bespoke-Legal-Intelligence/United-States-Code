@@ -24,7 +24,7 @@ In any action by the United States under this chapter, process may be served in 
 
 #### (1) Contribution
 
-&emsp;Any person may seek contribution from any other person who is liable or potentially liable under section 9607(a) of this title, during or following any civil action under section 9606 of this title or under section 9607(a) of this title. Such claims shall be brought in accordance with this section and the Federal Rules of Civil Procedure, and shall be governed by Federal law. In resolving contribution claims, the court may allocate response costs among liable parties using such equitable factors as the court determines are appropriate. Nothing in this subsection shall diminish the right of any person to bring an action for contribution in the absence of a civil action under section 9606 of this title or section 9607 of this title.
+&emsp;Any person may seek contribution from any other person who is liable or potentially liable under section 9607(a) of this title, during or following any civil action under section 9606 ofthis title or under section 9607(a) of this title. Such claims shall be brought in accordance with this section and the Federal Rules of Civil Procedure, and shall be governed by Federal law. In resolving contribution claims, the court may allocate response costs among liable parties using such equitable factors as the court determines are appropriate. Nothing in this subsection shall diminish the right of any person to bring an action for contribution in the absence of a civil action under section 9606 of this title or section 9607 of this title.
 
 #### (2) Settlement
 
@@ -164,6 +164,8 @@ Whenever any action is brought under this chapter in a court of the United State
 
 #### References in Text
 
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+
 Subchapter II of this chapter, referred to in subsec. (c), was in the original “title II of this Act”, meaning title II of Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2796, known as the Hazardous Substance Response Revenue Act of 1980, which enacted subchapter II of this chapter and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code. Sections 221 to 223 and 232 of Pub. L. 96–510, which were classified to sections 9631 to 9633 and 9641 of this title, comprising subchapter II of this chapter, were repealed by Pub. L. 99–499, title V, §§514(b), 517(c)(1), Oct. 17, 1986, 100 Stat. 1767, 1774. For complete classification of title II to the Code, see Short Title of 1980 Amendment note set out under section 1 of Title 26 and Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (f)(1), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
@@ -172,7 +174,7 @@ The Solid Waste Disposal Act, referred to in subsec. (i), is title II of Pub. L.
 
 #### Amendments
 
-1986—Subsec. (b). Pub. L. 99–499, §113(c)(1), substituted “subsections (a) and (h)” for “subsection (a)”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–499, §113(c)(1), substituted “subsections (a) and (h)” for “subsection (a)”.
 
 Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 

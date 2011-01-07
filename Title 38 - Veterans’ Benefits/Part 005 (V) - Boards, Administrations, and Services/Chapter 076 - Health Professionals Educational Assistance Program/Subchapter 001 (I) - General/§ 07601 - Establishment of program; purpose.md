@@ -18,17 +18,17 @@
 
 #### Amendments
 
-1998—Subsec. (a)(4), (5). Pub. L. 105–368 added pars. (4) and (5).
+<b>1998</b>—Subsec. (a)(4), (5). Pub. L. 105–368 added pars. (4) and (5).
 
-1994—Subsec. (a)(1). Pub. L. 103–446 substituted semicolon for comma at end.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–446 substituted semicolon for comma at end.
 
-1991—Pub. L. 102–40 renumbered section 4301 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 4301 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(a)(2)(B)(vi), substituted “Department of Veterans Affairs” for “Veterans’ Administration” in introductory provisions.
 
 Subsec. (b). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-1990—Subsec. (a)(3). Pub. L. 101–366 added par. (3).
+<b>1990</b>—Subsec. (a)(3). Pub. L. 101–366 added par. (3).
 
 #### Payments to Health-Care Professional Employees for Tuition Loans
 

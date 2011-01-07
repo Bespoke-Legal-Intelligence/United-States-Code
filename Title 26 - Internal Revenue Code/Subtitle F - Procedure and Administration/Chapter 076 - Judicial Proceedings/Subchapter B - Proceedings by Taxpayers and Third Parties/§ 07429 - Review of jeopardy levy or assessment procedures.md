@@ -104,9 +104,9 @@ Any determination made by a court under this section shall be final and conclusi
 
 #### Amendments
 
-1998—Subsec. (a)(1). Pub. L. 105–206 substituted “Administrative review” for “Information to taxpayer” in heading and amended text of par. (1) generally. Prior to amendment, text read as follows: “Within 5 days after the day on which an assessment is made under section 6851(a), 6852(a), 6861(a), or 6862, or levy is made under section 6331(a) less than 30 days after notice and demand for payment is made under section 6331(a), the Secretary shall provide the taxpayer with a written statement of the information upon which the Secretary relies in making such assessment or levy.”
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–206 substituted “Administrative review” for “Information to taxpayer” in heading and amended text of par. (1) generally. Prior to amendment, text read as follows: “Within 5 days after the day on which an assessment is made under section 6851(a), 6852(a), 6861(a), or 6862, or levy is made under section 6331(a) less than 30 days after notice and demand for payment is made under section 6331(a), the Secretary shall provide the taxpayer with a written statement of the information upon which the Secretary relies in making such assessment or levy.”
 
-1988—Pub. L. 100–647, §6237(e)(3), inserted “levy or” after “jeopardy” in section catchline.
+<b>1988</b>—Pub. L. 100–647, §6237(e)(3), inserted “levy or” after “jeopardy” in section catchline.
 
 Subsec. (a)(1). Pub. L. 100–647, §6237(a), inserted “or levy is made under section 6331(a) less than 30 days after notice and demand for payment is made under section 6331(a),” after “6862,” and “or levy” after “such assessment”.
 
@@ -128,11 +128,11 @@ Subsec. (g)(1). Pub. L. 100–647, §6237(e)(2), in heading substituted “levy,
 
 Subsec. (g)(2). Pub. L. 100–647, §6237(e)(2)(C), substituted “a proceeding” for “an action”.
 
-1987—Subsec. (a)(1). Pub. L. 100–203, §10713(b)(2)(F)(i), substituted “6851(a), 6852(a)” for “6851(a),”.
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–203, §10713(b)(2)(F)(i), substituted “6851(a), 6852(a)” for “6851(a),”.
 
 Subsecs. (a)(3)(A), (B), (b)(2)(A), (B), (g)(1), (2). Pub. L. 100–203, §10713(b)(2)(F)(ii), substituted “6851, 6852,” for “6851,” wherever appearing.
 
-1984—Subsec. (b)(2). Pub. L. 98–369 inserted provision that if the court determines that proper service was not made on the United States within 5 days after the date of the commencement of the action, the running of the 20-day period shall not begin before the day on which proper service was made on the United States.
+<b>1984</b>—Subsec. (b)(2). Pub. L. 98–369 inserted provision that if the court determines that proper service was not made on the United States within 5 days after the date of the commencement of the action, the running of the 20-day period shall not begin before the day on which proper service was made on the United States.
 
 #### Effective Date of 1998 Amendment
 

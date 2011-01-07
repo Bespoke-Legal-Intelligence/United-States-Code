@@ -132,7 +132,7 @@ The effective date of this chapter, referred to in subsecs. (b)(1), (c)(1)(A)(i)
 
 #### Amendments
 
-2006—Subsec. (c)(1). Pub. L. 109–304, §13(a)(2)(A)–(C), substituted “section 50501 of this title” for “section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)” in subpars. (A)(iii) and (C)(i) and (ii), “applying subparagraph” for “applying subparagraphs” in subpar. (B), and “section 50501” for “section 2” in subpar. (C) heading.
+<b>2006</b>—Subsec. (c)(1). Pub. L. 109–304, §13(a)(2)(A)–(C), substituted “section 50501 of this title” for “section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)” in subpars. (A)(iii) and (C)(i) and (ii), “applying subparagraph” for “applying subparagraphs” in subpar. (B), and “section 50501” for “section 2” in subpar. (C) heading.
 
 Subsec. (c)(3)(B). Pub. L. 109–304, §13(a)(2)(D), substituted “agreements” for “agreement”.
 

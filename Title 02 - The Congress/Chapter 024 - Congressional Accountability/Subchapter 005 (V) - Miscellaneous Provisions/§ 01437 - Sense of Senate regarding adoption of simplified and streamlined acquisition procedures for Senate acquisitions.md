@@ -6,5 +6,5 @@ It is the sense of the Senate that the Committee on Rules and Administration of 
 
 #### References in Text
 
-The Federal Acquisition Streamlining Act of 1994, referred to in text, is Pub. L. 103–355, Oct. 13, 1994, 108 Stat. 3243. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 251 of Title 41, Public Contracts, and Tables.
+The Federal Acquisition Streamlining Act of 1994, referred to in text, is Pub. L. 103–355, Oct. 13, 1994, 108 Stat. 3243. For complete classification of this Act to the Code, see Short Title of 1994 Act note set out under section 101 of Title 41, Public Contracts, and Tables.
 

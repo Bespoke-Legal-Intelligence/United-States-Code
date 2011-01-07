@@ -114,5 +114,5 @@ Subsec. (b)(6). Pub. L. 110–81, §208, substituted “in the 20 years before t
 
 #### Effective Date of 2007 Amendment
 
-Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations underthe Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under section 434 of this title.
+Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under section 434 of this title.
 

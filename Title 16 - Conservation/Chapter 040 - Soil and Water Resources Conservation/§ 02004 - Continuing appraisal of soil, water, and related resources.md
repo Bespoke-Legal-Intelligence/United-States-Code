@@ -42,11 +42,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a)(7). Pub. L. 110–246, §2804(b)(1), added par. (7).
+<b>2008</b>—Subsec. (a)(7). Pub. L. 110–246, §2804(b)(1), added par. (7).
 
-Subsecs. (d), (e). Pub. L. 110–246, §2804(b)(2)–(4), added subsec. (d), redesignated former subsec. (d) as (e), and substituted “The Secretary shall conduct comprehensive appraisals under this section, to be completed by December 31, 2010, and December 31, 2015.” for “The Secretary shall conduct four comprehensive appraisalsunder this section, to be completed by December 31, 1979, December 31, 1986, December 31, 1995, and December 31, 2005, respectively.”
+Subsecs. (d), (e). Pub. L. 110–246, §2804(b)(2)–(4), added subsec. (d), redesignated former subsec. (d) as (e), and substituted “The Secretary shall conduct comprehensive appraisals under this section, to be completed by December 31, 2010, and December 31, 2015.” for “The Secretary shall conduct four comprehensive appraisals under this section, to be completed by December 31, 1979, December 31, 1986, December 31, 1995, and December 31, 2005, respectively.”
 
-1985—Subsec. (d). Pub. L. 99–198 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The appraisal shall be completed by December 31, 1979, and at each five-year interval thereafter during the period this chapter is in effect.”
+<b>1985</b>—Subsec. (d). Pub. L. 99–198 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The appraisal shall be completed by December 31, 1979, and at each five-year interval thereafter during the period this chapter is in effect.”
 
 #### Effective Date of 2008 Amendment
 

@@ -42,7 +42,7 @@ In making such a grant, the Secretary shall give priority to a partnership or co
 
 &emsp;&emsp;&emsp;(ii) demonstrate that the members are eligible to achieve the objectives of this section;
 
-&emsp;&emsp;(C) describe how the applicant will use funds received under this section to develop a teacher corps or other program to recruit and retain highly qualified midcareer professionals (which may include highly qualifiedparaprofessionals), recent college graduates, and recent graduate school graduates, as highly qualified teachers in high-need schools operated by high-need local educational agencies;
+&emsp;&emsp;(C) describe how the applicant will use funds received under this section to develop a teacher corps or other program to recruit and retain highly qualified midcareer professionals (which may include highly qualified paraprofessionals), recent college graduates, and recent graduate school graduates, as highly qualified teachers in high-need schools operated by high-need local educational agencies;
 
 &emsp;&emsp;(D) explain how the program carried out under the grant will meet the relevant State laws (including regulations) related to teacher certification or licensing and facilitate the certification or licensing of such teachers;
 

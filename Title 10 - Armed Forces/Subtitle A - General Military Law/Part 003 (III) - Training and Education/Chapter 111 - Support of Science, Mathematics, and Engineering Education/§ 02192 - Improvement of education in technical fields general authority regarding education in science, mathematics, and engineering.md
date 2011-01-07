@@ -18,7 +18,9 @@
 
 &emsp;(E) support national competition judging, other educational event activities, and associated award ceremonies in connection with these educational programs.
 
-(2) In this subsection:
+(2) The Secretary of Defense may carry out the authority in paragraph (1) through the Secretaries of the military departments.
+
+(3) In this subsection:
 
 &emsp;(A) The term “eligible entity” includes a department or agency of the Federal Government, a State, a political subdivision of a State, an individual, and a not-for-profit or other organization in the private sector.
 
@@ -26,17 +28,19 @@
 
 (c) The Secretary shall designate an individual within the Office of the Secretary of Defense to advise and assist the Secretary regarding matters relating to science, mathematics, and engineering education and training.
 
-(Added Pub. L. 101–510, div. A, title II, §247(a)(1), Nov. 5, 1990, 104 Stat. 1521; amended Pub. L. 106–65, div. A, title V, §580(d)(1), Oct. 5, 1999, 113 Stat. 633; Pub. L. 108–136, div. A, title II, §233, Nov. 24, 2003, 117 Stat. 1423.)
+(Added Pub. L. 101–510, div. A, title II, §247(a)(1), Nov. 5, 1990, 104 Stat. 1521; amended Pub. L. 106–65, div. A, title V, §580(d)(1), Oct. 5, 1999, 113 Stat. 633; Pub. L. 108–136, div. A, title II, §233, Nov. 24, 2003, 117 Stat. 1423; Pub. L. 111–383, div. A, title II, §211(a), Jan. 7, 2011, 124 Stat. 4162.)
 
 #### Amendments
 
-2003—Subsecs. (b), (c). Pub. L. 108–136 added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>2011</b>—Subsec. (b)(2), (3). Pub. L. 111–383 added par. (2) and redesignated former par. (2) as (3).
 
-1999—Pub. L. 106–65 amended section catchline generally. Prior to amendment, catchline read as follows: “Science, mathematics, and engineering education”.
+<b>2003</b>—Subsecs. (b), (c). Pub. L. 108–136 added subsec. (b) and redesignated former subsec. (b) as (c).
+
+<b>1999</b>—Pub. L. 106–65 amended section catchline generally. Prior to amendment, catchline read as follows: “Science, mathematics, and engineering education”.
 
 #### Science, Mathematics, and Research for Transformation (SMART) Defense Scholarship Pilot Program
 
-Pub. L. 108–375, div. A, title XI, §1105, Oct. 28, 2004, 118 Stat. 2074, as amended by Pub. L. 109–163, div. A, title X, §1056(d), title XI, §1104(a)–(c), Jan. 6, 2006, 119 Stat. 3440, 3448, 3449, which related to a pilot program to provide financial assistance for education in science, mathematics, engineering, and technology skills and disciplines that were determined to be critical to the national security functions of the Department of Defense, was repealed and restated in section 2192a of this title by Pub. L. 109–163, div. A, title XI, §1104(d)(1)(B), (e)(1), Jan. 6, 2006, 119 Stat. 3450.
+Pub. L. 108–375, div. A, title XI, §1105, Oct. 28, 2004, 118 Stat. 2074, as amended by Pub. L. 109–163, div. A, title X, §1056(d), title XI, §1104(a)–(c), Jan. 6, 2006, 119 Stat. 3440, 3448, 3449; Pub. L. 111–383, div. A, title X, §1075(h)(5), Jan. 7, 2011, 124 Stat. 4377, which related to a pilot program to provide financial assistance for education in science, mathematics, engineering, and technology skills and disciplines that were determined to be critical to the national security functions of the Department of Defense, was repealed and restated in section 2192a of this title by Pub. L. 109–163, div. A, title XI, §1104(d)(1)(B), (e)(1), Jan. 6, 2006, 119 Stat. 3450.
 
 #### Department of Defense Support for Science, Mathematics, and Engineering Education
 

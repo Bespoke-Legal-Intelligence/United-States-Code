@@ -6,5 +6,5 @@ The comprehensive plan presented by the Secretary to the President of the Senate
 
 #### Amendments
 
-1970—Pub. L. 91–483 removed restriction that the Secretary make no commitment with respect to financing of facilities and services within the reserve and that no Federal appropriations be available for such purpose.
+<b>1970</b>—Pub. L. 91–483 removed restriction that the Secretary make no commitment with respect to financing of facilities and services within the reserve and that no Federal appropriations be available for such purpose.
 

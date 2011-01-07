@@ -212,7 +212,7 @@ For purposes of this section—
 
 #### (i) Low-income unit
 
-&emsp;&emsp;&emsp;The term “low-income unit” means any unit which is required to be occupied by individuals who meet the applicable income limit.
+&emsp;&emsp;&emsp;The term “low-income unit” means any unit which is required to be occupied byindividuals who meet the applicable income limit.
 
 #### (ii) Gross rent
 
@@ -476,11 +476,11 @@ For purposes of subsection (a)(10), the term “qualified hazardous waste facili
 
 #### (A) In general
 
-&emsp;&emsp;A project may not be designated under this subsection unless the application for such designation includes a project proposal which describes the energy efficiency, renewable energy, and sustainable design features of the project and demonstrates that the project satisfies the following eligibility criteria:
+&emsp;&emsp;A project may not be designated under this subsection unless the application for suchdesignation includes a project proposal which describes the energy efficiency, renewable energy, and sustainable design features of the project and demonstrates that the project satisfies the following eligibility criteria:
 
 #### (i) Green building and sustainable design
 
-&emsp;&emsp;&emsp;At least 75 percent of the square footage of commercial buildings which are part of the project is registered for United States Green Building Council's LEED certification and is reasonably expected (at thetime of the designation) to receive such certification. For purposes of determining LEED certification as required under this clause, points shall be credited by using the following:
+&emsp;&emsp;&emsp;At least 75 percent of the square footage of commercial buildings which are part of the project is registered for United States Green Building Council's LEED certification and is reasonably expected (at the time of the designation) to receive such certification. For purposes of determining LEED certification as required under this clause, points shall be credited by using the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) For wood products, certification under the Sustainable Forestry Initiative Program and the American Tree Farm System.
 
@@ -664,9 +664,9 @@ A prior section 142, act Aug. 16, 1954, ch. 736, 68A Stat. 40, enumerated indivi
 
 #### Amendments
 
-2009—Subsec. (i)(1). Pub. L. 111–5 substituted “be capable of attaining a maximum speed in excess of” for “operate at speeds in excess of”.
+<b>2009</b>—Subsec. (i)(1). Pub. L. 111–5 substituted “be capable of attaining a maximum speed in excess of” for “operate at speeds in excess of”.
 
-2008—Subsec. (d)(2)(B). Pub. L. 110–289, §3005(a), designated existing provisions as cl. (i), inserted heading, and added cls. (ii) to (iv).
+<b>2008</b>—Subsec. (d)(2)(B). Pub. L. 110–289, §3005(a), designated existing provisions as cl. (i), inserted heading, and added cls. (ii) to (iv).
 
 Subsec. (d)(2)(C). Pub. L. 110–289, §3008(b), added subpar. (C).
 
@@ -682,27 +682,27 @@ Subsec. (<i>l</i>)(8). Pub. L. 110–343, §307(a), substituted “September 30,
 
 Subsec. (<i>l</i>)(9). Pub. L. 110–343, §307(b), substituted “October 1, 2012” for “October 1, 2009”.
 
-2006—Subsec. (d)(2)(B). Pub. L. 109–222 substituted “Subsections (g) and (h) of section 7872” for “Section 7872(g)”.
+<b>2006</b>—Subsec. (d)(2)(B). Pub. L. 109–222 substituted “Subsections (g) and (h) of section 7872” for “Section 7872(g)”.
 
-2005—Subsec. (a)(15). Pub. L. 109–59, §11143(a), added par. (15).
+<b>2005</b>—Subsec. (a)(15). Pub. L. 109–59, §11143(a), added par. (15).
 
 Subsec. (m). Pub. L. 109–59, §11143(b), added subsec. (m).
 
-2004—Subsec. (a)(14). Pub. L. 108–357, §701(a), added par. (14).
+<b>2004</b>—Subsec. (a)(14). Pub. L. 108–357, §701(a), added par. (14).
 
 Subsec. (<i>l</i>). Pub. L. 108–357, §701(b), added subsec. (<i>l</i>).
 
-2001—Subsec. (a)(13). Pub. L. 107–16, §§422(a), 901, temporarily added par. (13). See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (a)(13). Pub. L. 107–16, §§422(a), 901, temporarily added par. (13). See Effective and Termination Dates of 2001 Amendment note below.
 
 Subsec. (k). Pub. L. 107–16, §§422(b), 901, temporarily added subsec. (k). See Effective and Termination Dates of 2001 Amendment note below.
 
-1998—Subsec. (f)(3)(A)(ii). Pub. L. 105–206 struck out comma after “1997”.
+<b>1998</b>—Subsec. (f)(3)(A)(ii). Pub. L. 105–206 struck out comma after “1997”.
 
-1996—Subsec. (b)(1)(A). Pub. L. 104–188, §1704(j)(7), provided that section 1921(b)(2) of Pub. L. 102–486 shall be applied as if a comma appeared after “(2)” in the material proposed to be stricken. See 1992 Amendment note below.
+<b>1996</b>—Subsec. (b)(1)(A). Pub. L. 104–188, §1704(j)(7), provided that section 1921(b)(2) of Pub. L. 102–486 shall be applied as if a comma appeared after “(2)” in the material proposed to be stricken. See 1992 Amendment note below.
 
 Subsec. (f)(3), (4). Pub. L. 104–188, §1608(a), added pars. (3) and (4).
 
-1992—Subsec. (a)(12). Pub. L. 102–486, §1921(a), added par. (12).
+<b>1992</b>—Subsec. (a)(12). Pub. L. 102–486, §1921(a), added par. (12).
 
 Subsec. (b)(1)(A). Pub. L. 102–486, §1921(b)(2), which directed the substitution of “(2), (3), or (12)” for “(2) or (3)”, was executed by making the substitution for “(2), or (3)”. See 1996 Amendment note above.
 
@@ -714,13 +714,13 @@ Subsec. (f). Pub. L. 102–486, §1919(a), amended subsec. (f) generally. Prior 
 
 Subsec. (j). Pub. L. 102–486, §1921(b)(1), added subsec. (j).
 
-1989—Subsec. (d)(2)(B). Pub. L. 101–239, §7108(e)(3), inserted at end “Section 7872(g) shall not apply in determining the income of individuals under this subparagraph.”
+<b>1989</b>—Subsec. (d)(2)(B). Pub. L. 101–239, §7108(e)(3), inserted at end “Section 7872(g) shall not apply in determining the income of individuals under this subparagraph.”
 
 Subsec. (d)(4)(B)(iii). Pub. L. 101–239, §7108(n)(1), substituted “exceed 1/2” for “exceed 1/3”.
 
 Subsec. (i)(1). Pub. L. 101–239, §7816(s)(1), inserted heading “In general”.
 
-1988—Subsec. (a)(11). Pub. L. 100–647, §6180(a), added par. (11).
+<b>1988</b>—Subsec. (a)(11). Pub. L. 100–647, §6180(a), added par. (11).
 
 Subsec. (b)(1)(B)(ii). Pub. L. 100–647, §1013(a)(39), inserted “section” before “168(i)(3)”.
 
@@ -772,7 +772,7 @@ Pub. L. 108–357, title VII, §701(e), Oct. 22, 2004, 118 Stat. 1540, provided 
 
 Pub. L. 107–16, title IV, §422(f), June 7, 2001, 115 Stat. 66, provided that: “The amendments made by this section \[amending this section and sections 146 and 147 of this title\] shall apply to bonds issued after December 31, 2001.”
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -802,7 +802,7 @@ Section 1608(b) of Pub. L. 104–188 provided that: “The use of the term ‘pe
 
 #### Tax-Exempt Bonds for Sale of Alaska Power Administration Facility
 
-Section 1804 of Pub. L. 104–188 provided that: “Sections 142(f)(3) (as added by section 1608) and 147(d) of the Internal Revenue Code of 1986 shall not apply in determining whether any private activity bond issued after the date of the enactment of this Act \[Aug. 20, 1996\] and used to finance the acquisition of the Snettisham hydroelectric project from the Alaska Power Administration is a qualified bond for purposes of such Code.”
+Section 1804 of Pub. L. 104–188 provided that: “Sections 142(f)(3) (as added by section 1608) and 147(d) of theInternal Revenue Code of 1986 shall not apply in determining whether any private activity bond issued after the date of the enactment of this Act \[Aug. 20, 1996\] and used to finance the acquisition of the Snettisham hydroelectric project from the Alaska Power Administration is a qualified bond for purposes of such Code.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section 42(i)(3)(D)”.</i>
 

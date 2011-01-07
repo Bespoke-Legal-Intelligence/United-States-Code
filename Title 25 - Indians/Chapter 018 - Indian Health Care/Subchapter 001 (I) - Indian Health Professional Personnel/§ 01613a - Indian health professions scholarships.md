@@ -92,7 +92,7 @@ A prior section 104 of Pub. L. 94–437, title I, Sept. 30, 1976, 90 Stat. 1403,
 
 #### Amendments
 
-1996—Subsec. (b)(3)(A). Pub. L. 104–313, §2(b)(1)(A), substituted “The active duty service obligation under a written contract with the Secretary under section 254<i>l</i> of title 42 that an individual has entered into under that section shall, if that individual is a recipient of an Indian Health Scholarship, be met in full-time practice, by service—” for “The active duty service obligation prescribed under section 254m of title 42 shall be met by a  recipient  of  an  Indian  Health  Scholarship  by service—” in introductory provisions, struck out “or” at end of cl. (iii), and substituted “; or” for period at end of cl. (iv).
+<b>1996</b>—Subsec. (b)(3)(A). Pub. L. 104–313, §2(b)(1)(A), substituted “The active duty service obligation under a written contract with the Secretary under section 254<i>l</i> of title 42 that an individual has entered into under that section shall, if that individual is a recipient of an Indian Health Scholarship, be met in full-time practice, by service—” for “The active duty service obligation prescribed under section 254m of title 42 shall be met by a  recipient  of  an  Indian  Health  Scholarship  by service—” in introductory provisions, struck out “or” at end of cl. (iii), and substituted “; or” for period at end of cl. (iv).
 
 Subsec. (b)(3)(B). Pub. L. 104–313, §2(b)(1)(C), added subpar. (B). Former subpar. (B) redesignated (C).
 
@@ -110,7 +110,7 @@ Subsec. (b)(4)(C). Pub. L. 104–313, §2(b)(2)(B), made technical amendment to 
 
 Subsec. (b)(5)(C) to (F). Pub. L. 104–313, §2(b)(3), added subpars. (C) to (F).
 
-1992—Subsec. (a). Pub. L. 102–573, §102(c)(1)(C), substituted “accredited schools and pursuing courses of study in the health professions” for “accredited schools of medicine, osteopathy, podiatry, psychology, dentistry, environmental health and engineering, nursing, optometry, public health, allied health professions, and social work”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–573, §102(c)(1)(C), substituted “accredited schools and pursuing courses of study in the health professions” for “accredited schools of medicine, osteopathy, podiatry, psychology, dentistry, environmental health and engineering, nursing, optometry, public health, allied health professions, and social work”.
 
 Pub. L. 102–573, §102(c)(1)(A), (B), substituted “Indians, Indian tribes, tribal organizations, and urban Indian organizations” for “Indian communities” and “full or part time” for “full time”.
 

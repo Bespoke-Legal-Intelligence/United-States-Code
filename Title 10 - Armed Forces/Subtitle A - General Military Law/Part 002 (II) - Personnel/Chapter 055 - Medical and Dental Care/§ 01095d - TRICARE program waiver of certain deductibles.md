@@ -16,7 +16,7 @@ Eligible Dependent.—As used in this section, the term “eligible dependent”
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–375 substituted “more than 30 days” for “less than one year” in pars. (1) and (2).
+<b>2004</b>—Subsec. (a). Pub. L. 108–375 substituted “more than 30 days” for “less than one year” in pars. (1) and (2).
 
-2000—Subsec. (b). Pub. L. 106–398 substituted “subparagraph” for “subparagraphs”.
+<b>2000</b>—Subsec. (b). Pub. L. 106–398 substituted “subparagraph” for “subparagraphs”.
 

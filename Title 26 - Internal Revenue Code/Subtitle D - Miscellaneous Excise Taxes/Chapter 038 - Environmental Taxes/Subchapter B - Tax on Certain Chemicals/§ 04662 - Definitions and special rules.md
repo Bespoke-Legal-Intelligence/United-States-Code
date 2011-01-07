@@ -142,7 +142,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;&emsp;(II) a final order under section 106 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, and
 
-&emsp;&emsp;&emsp;(ii) ending on the date the Administrator or such State (as the case may be) certifiesto the Secretary that such corrective action has been completed.
+&emsp;&emsp;&emsp;(ii) ending on the date the Administrator or such State (as the case may be) certifies to the Secretary that such corrective action has been completed.
 
 #### (D) Special rule for groundwater treatment
 
@@ -338,13 +338,13 @@ Section 106 of the Comprehensive Environmental Response, Compensation, and Liabi
 
 #### Amendments
 
-1999—Subsec. (c)(2)(C). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
+<b>1999</b>—Subsec. (c)(2)(C). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
 
-1988—Subsec. (b)(10)(A). Pub. L. 100–647, §2001(a)(2), substituted “one or more” for “a mixture of”.
+<b>1988</b>—Subsec. (b)(10)(A). Pub. L. 100–647, §2001(a)(2), substituted “one or more” for “a mixture of”.
 
 Subsec. (e)(3), (4). Pub. L. 100–647, §2001(a)(1), added par. (3) and redesignated former par. (3) as (4).
 
-1986—Subsec. (b)(7). Pub. L. 99–499, §513(c), added par. (7).
+<b>1986</b>—Subsec. (b)(7). Pub. L. 99–499, §513(c), added par. (7).
 
 Subsec. (b)(8). Pub. L. 99–499, §513(d), added par. (8).
 
@@ -360,7 +360,7 @@ Subsec. (d)(4). Pub. L. 99–499, §513(e)(2), added par. (4).
 
 Subsecs. (e), (f). Pub. L. 99–499, §513(b)(1), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1984—Subsec. (b)(1). Pub. L. 98–369, §1019(a)(3), inserted “or in the manufacture or production of any motor fuel, diesel fuel, aviation fuel, or jet fuel”.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–369, §1019(a)(3), inserted “or in the manufacture or production of any motor fuel, diesel fuel, aviation fuel, or jet fuel”.
 
 Subsec. (b)(2)(A). Pub. L. 98–369, §1019(b)(2)(A), substituted “qualified fertilizer substance” for “qualified substance”.
 

@@ -18,15 +18,15 @@ The Small State and Rural Advocate shall—
 
 &emsp;(3) conduct such other activities as the Administrator of the Federal Emergency Management Agency considers appropriate.
 
-(Pub. L. 93–288, title III, §326, as added and amended Pub. L. 109–295, title VI, §§612(c), 689g(a), Oct. 4, 2006, 120 Stat. 1410, 1453.)
+(Pub. L. 93–288, title III, §326, as added Pub. L. 109–295, title VI, §689g(a), Oct. 4, 2006, 120 Stat. 1453; amended Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
-#### Change of Name
+#### Amendments
 
-“Administrator of the Federal Emergency Management Agency” substituted for “Director of the FederalEmergency Management Agency” in subsec. (c)(3) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+<b>2011</b>—Subsec. (c)(3). Pub. L. 111–351 substituted “Administrator” for “Director”.
 
 #### Construction
 

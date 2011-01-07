@@ -38,5 +38,5 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 #### Designation of Park
 
-On Sept. 13, 2004, the Secretary of the Interior made the determination under subsec. (a) of this section and designated the existing Great Sand Dunes NationalMonument as the Great Sand Dunes National Park. See 69 F.R. 57355.
+On Sept. 13, 2004, the Secretary of the Interior made the determination under subsec. (a) of this section and designated the existing Great Sand Dunes National Monument as the Great Sand Dunes National Park. See 69 F.R. 57355.
 

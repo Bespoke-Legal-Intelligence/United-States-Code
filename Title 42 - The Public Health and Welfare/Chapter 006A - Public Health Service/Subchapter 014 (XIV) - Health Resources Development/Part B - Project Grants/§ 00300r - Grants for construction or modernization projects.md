@@ -38,7 +38,7 @@ A prior section 1610 of act July 1, 1944, ch. 373, title XVI, as added Jan. 4, 1
 
 #### Amendments
 
-1979—Subsec. (a). Pub. L. 96–79, §201(c), incorporated existing provisions in par. (1); inserted in subpar. (A) in cls. (i) and (ii) the phrases “in medical facilities” and “by medical facilities”; substituted in subpar. (B)(i) “for any medical facility owned or operated by the State or political subdivision” for “for a project described in the preceding sentence for any medical facility owned or operated by it”; added cl. (a)(1)(B)(ii); redesignated former subsec. (c) as par. (2); and added par. (3).
+<b>1979</b>—Subsec. (a). Pub. L. 96–79, §201(c), incorporated existing provisions in par. (1); inserted in subpar. (A) in cls. (i) and (ii) the phrases “in medical facilities” and “by medical facilities”; substituted in subpar. (B)(i) “for any medical facility owned or operated by the State or political subdivision” for “for a project described in the preceding sentence for any medical facility owned or operated by it”; added cl. (a)(1)(B)(ii); redesignated former subsec. (c) as par. (2); and added par. (3).
 
 Subsec. (b). Pub. L. 96–79, §201(c), inserted provisions respecting projects for medically underserved populations and struck out provisions respecting criteria for approval of applications under former section 300<i>o</i>–3 of this title.
 
@@ -46,7 +46,7 @@ Subsec. (c). Pub. L. 96–79, §201(c), redesignated subsec. (c) as par. (2) of 
 
 Subsec. (d). Pub. L. 96–79, §201(c), struck out subsec. (d) which related to provisions making available 22 per centum of sums appropriated under former section 300p–3 of this title for subsec. (a) grants, including an additional appropriations authorization of $67,500,000 for such grants for fiscal year ending Sept. 30, 1978.
 
-1977—Subsec. (d). Pub. L. 95–83 authorized additional grant appropriations of $67,500,000 for fiscal year ending Sept. 30, 1978.
+<b>1977</b>—Subsec. (d). Pub. L. 95–83 authorized additional grant appropriations of $67,500,000 for fiscal year ending Sept. 30, 1978.
 
 #### Effective Date of 1979 Amendment
 

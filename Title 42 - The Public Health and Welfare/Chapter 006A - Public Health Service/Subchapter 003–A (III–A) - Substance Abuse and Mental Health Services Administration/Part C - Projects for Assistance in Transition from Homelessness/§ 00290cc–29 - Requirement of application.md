@@ -12,11 +12,11 @@ The Secretary may not make payments under section 290cc–21 of this title unles
 
 #### Amendments
 
-1990—Pub. L. 101–645 amended section generally, substituting provisions relating to requirement of application for provisions relating to conversion to State categorical program in event of failure of State with respect to expending allotment.
+<b>1990</b>—Pub. L. 101–645 amended section generally, substituting provisions relating to requirement of application for provisions relating to conversion to State categorical program in event of failure of State with respect to expending allotment.
 
-1989—Pub. L. 101–93 directed that this section as similarly amended by title VIII of Pub. L. 100–607 and title VI of Pub. L. 100–628 be amended to read as if the amendments made by title VI of Pub. L. 100–628 had not been enacted. See 1988 Amendment note below.
+<b>1989</b>—Pub. L. 101–93 directed that this section as similarly amended by title VIII of Pub. L. 100–607 and title VI of Pub. L. 100–628 be amended to read as if the amendments made by title VI of Pub. L. 100–628 had not been enacted. See 1988 Amendment note below.
 
-1988—Pub. L. 100–607 and Pub. L. 100–628 made identical amendments, amending section generally by substituting present provisions for provisions which had related to: in subsec. (a), additional allotments for certain States; in subsec. (b), description of funds; and in subsec. (c), determination of amount of allotment.
+<b>1988</b>—Pub. L. 100–607 and Pub. L. 100–628 made identical amendments, amending section generally by substituting present provisions for provisions which had related to: in subsec. (a), additional allotments for certain States; in subsec. (b), description of funds; and in subsec. (c), determination of amount of allotment.
 
 #### Effective Date of 1988 Amendments
 

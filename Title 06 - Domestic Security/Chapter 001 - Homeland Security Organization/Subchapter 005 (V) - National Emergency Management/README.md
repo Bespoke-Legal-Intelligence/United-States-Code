@@ -34,3 +34,4 @@
 - [&sect; 00321k - Model standards and guidelines for critical infrastructure workers](%C2%A7%2000321k%20-%20Model%20standards%20and%20guidelines%20for%20critical%20infrastructure%20workers.md)
 - [&sect; 00321l - Guidance and recommendations](%C2%A7%2000321l%20-%20Guidance%20and%20recommendations.md)
 - [&sect; 00321m - Voluntary private sector preparedness accreditation and certification program](%C2%A7%2000321m%20-%20Voluntary%20private%20sector%20preparedness%20accreditation%20and%20certification%20program.md)
+- [&sect; 00321n - Acceptance of gifts](%C2%A7%2000321n%20-%20Acceptance%20of%20gifts.md)

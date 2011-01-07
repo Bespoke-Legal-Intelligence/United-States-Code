@@ -4,35 +4,29 @@
 
 (1) The date for the submittal to the congressional intelligence committees of the following annual reports shall be the date each year provided in subsection (c)(1)(A) of this section:
 
-&emsp;(A) The annual report on intelligence required by section 404d of this title.
+&emsp;(A) The annual report on the protection of the identities of covert agents required by section 423 of this title.
 
-&emsp;(B) The annual report on intelligence provided to the United Nations required by section 404g(b)(1) of this title.
+&emsp;(B) The annual report of the Inspectors Generals of the intelligence community on proposed resources and activities of their offices required by section 8H(g) of the Inspector General Act of 1978.
 
-&emsp;(C) The annual report on the protection of the identities of covert agents required by section 423 of this title.
+&emsp;(C) The annual report on the acquisition of technology relating to weapons of mass destruction and advanced conventional munitions required by section 2366 of this title.
 
-&emsp;(D) The annual report of the Inspectors Generals of the intelligence community on proposed resources and activities of their offices required by section 8H(g) of the Inspector General Act of 1978.
+&emsp;(D) The annual report on commercial activities as security for intelligence collection required by section 437(c) of title 10.
 
-&emsp;(E) The annual report on the acquisition of technology relating to weapons of mass destruction and advanced conventional munitions required by section 2366 of this title.
+&emsp;(E) The annual report on certifications for immunity in interdiction of aircraft engaged in illicit drug trafficking required by section 2291–4(c)(2) of title 22.
 
-&emsp;(F) The annual report on commercial activities as security for intelligence collection required by section 437(c) of title 10.
+&emsp;(F) The annual report on activities under the David L. Boren National Security Education Act of 1991 (title VIII of Public Law 102–183; 50U.S.C. 1901 et seq.) required by section 806(a) of that Act (50 U.S.C. 1906(a)).
 
-&emsp;(G) The annual update on foreign industrial espionage required by section 2170b(b) of the Appendix to this title.
+&emsp;(G) The annual report on hiring and retention of minority employees in the intelligence community required by section 404i(c) of this title.
 
-&emsp;(H) The annual report on certifications for immunity in interdiction of aircraft engaged in illicit drug trafficking required by section 2291–4(c)(2) of title 22.
+&emsp;(H) The annual report on outside employment of employees of elements of the intelligence community required by section 403–1(u)(2) of this title.
 
-&emsp;(I) The annual report on activities under the David L. Boren National Security Education Act of 1991 (title VIII of Public Law 102–183; 50 U.S.C. 1901 et seq.) required by section 806(a) of that Act (50 U.S.C. 1906(a)).
-
-&emsp;(N) <sup>1</sup> The annual report on hiring and retention of minority employees in the intelligencecommunity required by section 404i(c) of this title.
+&emsp;(I) The annual report on financial intelligence on terrorist assets required by section 404m of this title.
 
 (2) The date for the submittal to the congressional intelligence committees of the following annual reports shall be the date each year provided in subsection (c)(1)(B) of this section:
 
 &emsp;(A) The annual report on the safety and security of Russian nuclear facilities and nuclear military forces required by section 404i(a) of this title.
 
 &emsp;(B) The annual report on the threat of attack on the United States from weapons of mass destruction required by section 404i(c) of this title.
-
-&emsp;(C) The annual report on improvements of the financial statements of the intelligence community for auditing purposes required by section 404i–1 of this title.
-
-&emsp;(D) The annual report on counterdrug intelligence matters required by section 826 of the Intelligence Authorization Act for Fiscal Year 2003.
 
 #### (b) Semiannual reports
 
@@ -42,13 +36,9 @@ The dates for the submittal to the congressional intelligence committees of the 
 
 &emsp;(2) The semiannual reports on decisions not to prosecute certain violations of law under the Classified Information Procedures Act (18 U.S.C. App.) as required by section 13 of that Act.
 
-&emsp;(3) The semiannual reports on the activities of the Diplomatic Telecommunications Service Program Office (DTS–PO) required by section 7302(a)(6)(D)(ii) of title 22.
+&emsp;(3) The semiannual reports on the disclosure of information and consumer reports to the Federal Bureau of Investigation for counterintelligence purposes required by section 1681u(h)(2) of title 15.<sup>1</sup>
 
-&emsp;(4) The semiannual reports on the disclosure of information and consumer reports to the Federal Bureau of Investigation for counterintelligence purposes required by section 1681u(h)(2) of title 15.<sup>2</sup>
-
-&emsp;(5) The semiannual provision of information on requests for financial information for foreign counterintelligence purposes required by section 3414(a)(5)(C) of title 12.
-
-&emsp;(6) The semiannual report on financial intelligence on terrorist assets required by section 404m of this title.
+&emsp;(4) The semiannual provision of information on requests for financial information for foreign counterintelligence purposes required by section 3414(a)(5)(C) of title 12.
 
 #### (c) Submittal dates for reports
 
@@ -78,23 +68,43 @@ The dates for the submittal to the congressional intelligence committees of the 
 
 (B) A certification with respect to a report under subparagraph (A) shall include a proposed submittal date for such report, and such report shall be submitted not later than that date.
 
-(July 26, 1947, ch. 343, title V, §507, as added Pub. L. 107–306, title VIII, §811(a)(1), Nov. 27, 2002, 116 Stat. 2418; amended Pub. L. 108–177, title III, §361(<i>l</i>), Dec. 13, 2003, 117 Stat. 2626.)
+(July 26, 1947, ch. 343, title V, §507, as added Pub. L. 107–306, title VIII, §811(a)(1), Nov. 27, 2002, 116 Stat. 2418; amended Pub. L. 108–177, title III, §361(<i>l</i>), Dec. 13, 2003, 117 Stat. 2626; Pub. L. 111–259, title III, §349, title V, §501(b)(3), Oct. 7, 2010, 124 Stat. 2700, 2739.)
 
 #### References in Text
 
-Section 8H(g) of the Inspector General Act of 1978, referred to in subsec. (a)(1)(D), is section 8H(g) of Pub. L. 95–452, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 8H(g) of the Inspector General Act of 1978, referred to in subsec. (a)(1)(B), is section 8H(g) of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The David L. Boren National Security Education Act of 1991, referred to in subsec. (a)(1)(I), is title VIII of Pub. L. 102–183, Dec. 4, 1991, 105 Stat. 1271, as amended, which is classified generally to chapter 37 (§1901 et seq.) of this title. For complete classification of this Act to the Code, see section 1901(a) of this title and Tables.
+The David L. Boren National Security Education Act of 1991, referred to in subsec. (a)(1)(F), is title VIII of Pub. L. 102–183, Dec. 4, 1991, 105 Stat. 1271, which is classified generally to chapter 37 (§1901 et seq.) of this title. For complete classification of this Act to the Code, see section 1901(a) of this title and Tables.
 
-Section 826 of the Intelligence Authorization Act for Fiscal Year 2003, referred to in subsec. (a)(2)(D), is section 826 of Pub. L. 107–306, which is set out as a note under section 873 of Title 21, Food and Drugs.
+The Classified Information Procedures Act, referred to in subsec. (b)(2), is Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-The Classified Information Procedures Act, referred to in subsec. (b)(2), is Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, as amended, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
-
-Section 1681u(h)(2) of title 15, referred to in subsec. (b)(4), was in the original “section 624(h)(2) of the Fair Credit Reporting Act”, which was translated as reading“section 625(h)(2) of the Fair Credit Reporting Act”, to reflect the probable intent of Congress and the renumbering of section 624 as 625 by section 358(g)(1)(A) of Pub. L. 107–56.
+Section 1681u(h)(2) of title 15, referred to in subsec. (b)(3), was in the original “section 624(h)(2) of the Fair Credit Reporting Act”, which was translated as reading “section 625(h)(2) of the Fair Credit Reporting Act”, to reflect the probable intent of Congress and the renumbering of section 624 as 625 by section 358(g)(1)(A) of Pub. L. 107–56.
 
 #### Amendments
 
-2003—Subsec. (a)(1)(A). Pub. L. 108–177, §361(<i>l</i>)(1)(A)(i), (ii), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “The annual evaluation of the performance and responsiveness of certain elements of the intelligence community required by section 403–5(d) of this title.”
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–259, §349(1)(A), added subpars. (H) and (I), redesignated former subpars. (C) to (F), (H), (I), and (N) as (A) to (G), respectively, and struck out former subpars. (A), (B), and (G) which read as follows:
+
+“(A) The annual report on intelligence required by section 404d of this title.
+
+“(B) The annual report on intelligence provided to the United Nations required by section 404g(b)(1) of this title.
+
+“(G) The annual update on foreign industrial espionage required by section 2170b(b) of the Appendix to this title.”
+
+Subsec. (a)(2)(C), (D). Pub. L. 111–259, §349(1)(B), struck out subpars. (C) and (D) which read as follows:
+
+“(C) The annual report on improvements of the financial statements of the intelligence community for auditing purposes required by section 404i–1 of this title.
+
+“(D) The annual report on counterdrug intelligence matters required by section 826 of the Intelligence Authorization Act for Fiscal Year 2003.”
+
+Subsec. (b)(3) to (5). Pub. L. 111–259, §501(b)(3), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows:
+
+“(3) The semiannual reports on the activities of the Diplomatic Telecommunications Service Program Office (DTS–PO) required by section 7302(a)(6)(D)(ii) of title 22.”
+
+Subsec. (b)(6). Pub. L. 111–259, §349(2), struck out par. (6) which read as follows:
+
+“(6) The semiannual report on financial intelligence on terrorist assets required by section 404m of this title.”
+
+<b>2003</b>—Subsec. (a)(1)(A). Pub. L. 108–177, §361(<i>l</i>)(1)(A)(i), (ii), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “The annual evaluation of the performance and responsiveness of certain elements of the intelligence community required by section 403–5(d) of this title.”
 
 Subsec. (a)(1)(B). Pub. L. 108–177, §361(<i>l</i>)(1)(A)(iii), added subpar. (B). Former subpar. (B) redesignated (A).
 
@@ -172,7 +182,5 @@ Pub. L. 107–108, title V, §505, Dec. 28, 2001, 115 Stat. 1406.
 
 Pub. L. 107–306, title VIII, §801, Nov. 27, 2002, 116 Stat. 2418, provided that certain overdue reports that the Director of Central Intelligence has sole or primary responsibility to present to Congress must be submitted to Congress no later than 180 days after Nov. 27, 2002, or amounts available to the Director to carry out the functions and duties of the Director's Office would be reduced by 1/3.
 
-<i><sup>1</sup></i><i> So in original. There are no subpars. designated “(J)”, “(K)”, “(L)”, or “(M)”.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

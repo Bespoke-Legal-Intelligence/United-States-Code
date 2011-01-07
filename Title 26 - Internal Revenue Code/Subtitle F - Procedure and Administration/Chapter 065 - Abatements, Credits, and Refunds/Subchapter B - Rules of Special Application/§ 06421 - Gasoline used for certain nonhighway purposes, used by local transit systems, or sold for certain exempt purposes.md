@@ -28,7 +28,7 @@ If gasoline is sold to any person for any purpose described in paragraph (2), (3
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), not more than one claim may be filed under subsection (a), not more than one claim may be filed under subsection (b), and not more than one claim may be filed under subsection (c), by any person with respect to gasoline used during his taxable year; and no claim shall be allowed under this paragraph with respect to gasoline used during any taxable year unless filed by such person not later than the time prescribed by law for filing a claim for credit or refund of overpayment of income tax for such taxable year. For purposes of this subsection, a person's taxable year shall be his taxable year for purposes of subtitle A.
+&emsp;Except as provided in paragraph (2), not more than one claim may be filed under subsection (a), not more than one claim may befiled under subsection (b), and not more than one claim may be filed under subsection (c), by any person with respect to gasoline used during his taxable year; and no claim shall be allowed under this paragraph with respect to gasoline used during any taxable year unless filed by such person not later than the time prescribed by law for filing a claim for credit or refund of overpayment of income tax for such taxable year. For purposes of this subsection, a person's taxable year shall be his taxable year for purposes of subtitle A.
 
 #### (2) Exception
 
@@ -120,11 +120,11 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;All provisions of law, including penalties, applicable in respect to the tax imposed by section 4081 shall, insofar as applicable and not inconsistent with this section, apply in respect of the payments provided for in this section to the same extent as if such payments constituted refunds of overpayments of the tax so imposed.
+&emsp;All provisions of law, including penalties, applicable in respect to the tax imposed bysection 4081 shall, insofar as applicable and not inconsistent with this section, apply in respect of the payments provided for in this section to the same extent as if such payments constituted refunds of overpayments of the tax so imposed.
 
 #### (2) Examination of books and witnesses
 
-&emsp;For the purpose of ascertaining the correctness of any claim made under this section, or the correctness of any payment made in respect of any such claim, the Secretary shallhave the authority granted by paragraphs (1), (2), and (3) of section 7602(a) (relating to examination of books and witnesses) as if the claimant were the person liable for tax.
+&emsp;For the purpose of ascertaining the correctness of any claim made under this section, or the correctness of any payment made in respect of any such claim, the Secretary shall have the authority granted by paragraphs (1), (2), and (3) of section 7602(a) (relating to examination of books and witnesses) as if the claimant were the person liable for tax.
 
 #### (h) Regulations
 
@@ -164,13 +164,13 @@ A prior section 6421 was renumbered section 6422 of this title.
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–280, which directed the substitution of “(5), or (6)” for “or (5)” in section 6421(c), without specifying the act to be amended, was executed by making the substitution in subsec. (c) of this section, which is section 6421 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
+<b>2006</b>—Subsec. (c). Pub. L. 109–280, which directed the substitution of “(5), or (6)” for “or (5)” in section 6421(c), without specifying the act to be amended, was executed by making the substitution in subsec. (c) of this section, which is section 6421 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
-2005—Subsec. (f)(2)(A). Pub. L. 109–59, §11151(b)(3)(A), substituted “aviation which is not commercial aviation (as defined in section 4083(b))” for “noncommercial aviation (as defined in section 4041(c)(2))”.
+<b>2005</b>—Subsec. (f)(2)(A). Pub. L. 109–59, §11151(b)(3)(A), substituted “aviation which is not commercial aviation (as defined in section 4083(b))” for “noncommercial aviation (as defined in section 4041(c)(2))”.
 
 Subsec. (f)(2)(B). Pub. L. 109–59, §11151(b)(3)(B), substituted “commercial aviation” for “aviation which is not noncommercial aviation”.
 
-2004—Subsec. (e)(2)(C). Pub. L. 108–357, §851(d)(1), added subpar. (C).
+<b>2004</b>—Subsec. (e)(2)(C). Pub. L. 108–357, §851(d)(1), added subpar. (C).
 
 Subsec. (f)(3)(B). Pub. L. 108–357, §241(a)(2)(C), amended subpar. (B) generally. Prior to amendment, subpar (B) read as follows: “so much of the rate specified in section 4081(a)(2)(A) as does not exceed—
 
@@ -180,7 +180,7 @@ Subsec. (f)(3)(B). Pub. L. 108–357, §241(a)(2)(C), amended subpar. (B) genera
 
 &emsp;“(iii) 4.3 cents per gallon after October 31, 1998.”
 
-1998—Subsecs. (a), (b)(1). Pub. L. 105–206, §6023(24)(C), substituted “subsection (i)” for “subsection (j)”.
+<b>1998</b>—Subsecs. (a), (b)(1). Pub. L. 105–206, §6023(24)(C), substituted “subsection (i)” for “subsection (j)”.
 
 Subsec. (c). Pub. L. 105–206, §6010(g)(3), substituted “(2) and (3)” for “(2)(A) and (3)” and inserted at end “Subsection (a) shall not apply to gasoline to which this subsection applies.”
 
@@ -192,7 +192,7 @@ Subsec. (f)(3)(B)(iii). Pub. L. 105–178, §9006(b)(1)(B), substituted “Octob
 
 Subsecs. (i) to (k). Pub. L. 105–206, §6023(24)(A), redesignated subsecs. (j) and (k) as (i) and (j), respectively.
 
-1997—Subsec. (e)(2)(B)(iii), (iv). Pub. L. 105–34 struck out cls. (iii) and (iv) which read as follows:
+<b>1997</b>—Subsec. (e)(2)(B)(iii), (iv). Pub. L. 105–34 struck out cls. (iii) and (iv) which read as follows:
 
 “(iii)
 
@@ -210,9 +210,9 @@ Noncommercial boats.—In the case of a boat used predominantly in any activity 
 
 &emsp;“(II) so much of the tax under sections 4041(a)(1) and 4081 as does not exceed 4.3 cents per gallon for the period after December 31, 1999.”
 
-1996—Subsec. (f)(2)(A). Pub. L. 104–188 substituted “4041(c)(2)” for “4041(c)(4)”.
+<b>1996</b>—Subsec. (f)(2)(A). Pub. L. 104–188 substituted “4041(c)(2)” for “4041(c)(4)”.
 
-1993—Subsec. (c). Pub. L. 103–66, §13242(d)(22), inserted at end “The preceding sentence shall apply notwithstanding paragraphs (2)(A) and (3) of subsection (f).”
+<b>1993</b>—Subsec. (c). Pub. L. 103–66, §13242(d)(22), inserted at end “The preceding sentence shall apply notwithstanding paragraphs (2)(A) and (3) of subsection (f).”
 
 Subsec. (e)(1). Pub. L. 103–66, §13242(d)(20), substituted “section 4083(a)” for “section 4082(b)”.
 
@@ -226,13 +226,13 @@ Pub. L. 103–66, §13241(f)(6), inserted “and deficit reduction tax” after 
 
 Subsec. (i). Pub. L. 103–66, §13241(f)(7), struck out heading and text of subsec. (i). Text read as follows: “Except with respect to taxes imposed by section 4081 at the Leaking Underground Storage Tank Trust Fund financing rate, this section shall apply only with respect to gasoline purchased before October 1, 1999.”
 
-1991—Subsec. (i). Pub. L. 102–240 substituted “1999” for “1995”.
+<b>1991</b>—Subsec. (i). Pub. L. 102–240 substituted “1999” for “1995”.
 
-1990—Subsec. (i). Pub. L. 101–508 substituted “1995” for “1993”.
+<b>1990</b>—Subsec. (i). Pub. L. 101–508 substituted “1995” for “1993”.
 
-1989—Subsec. (g)(2). Pub. L. 101–239 substituted “section 7602(a)” for “section 7602”.
+<b>1989</b>—Subsec. (g)(2). Pub. L. 101–239 substituted “section 7602(a)” for “section 7602”.
 
-1988—Subsec. (a). Pub. L. 100–647, §2001(d)(3)(F), substituted “paragraph (2) of subsection (f)” for “paragraph (3) of subsection (e)”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §2001(d)(3)(F), substituted “paragraph (2) of subsection (f)” for “paragraph (3) of subsection (e)”.
 
 Pub. L. 100–647, §1017(c)(7), substituted “subsection (j)” for “subsection (i)”.
 
@@ -252,13 +252,13 @@ Subsec. (j). Pub. L. 100–647, §1017(c)(6), (8), redesignated subsec. (i), rel
 
 Subsec. (k). Pub. L. 100–647, §1017(c)(6), redesignated former subsec. (j) as (k).
 
-1987—Subsec. (e)(2)(C). Pub. L. 100–203, §10502(d)(9), struck out subpar. (C) which specified section 4221(a)(3) and (d)(3), section 6416(b)(2)(B), and section 4041(g)(1) as provisions exempting from tax, gasoline and special motor fuels used for commercial fishing vessels.
+<b>1987</b>—Subsec. (e)(2)(C). Pub. L. 100–203, §10502(d)(9), struck out subpar. (C) which specified section 4221(a)(3) and (d)(3), section 6416(b)(2)(B), and section 4041(g)(1) as provisions exempting from tax, gasoline and special motor fuels used for commercial fishing vessels.
 
 Subsec. (i). Pub. L. 100–17 substituted “1993” for “1988” in the subsec. (h) which was redesignated (i) by section 1703(c) of Pub. L. 99–514.
 
 Subsec. (j). Pub. L. 100–203, §10502(d)(10), redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: “For rate of tax in case of special fuels used in noncommercial aviation or for nonhighway purposes, see section 4041.”
 
-1986—Pub. L. 99–514, §1703(c)(2)(D), substituted “, used by local transit systems, or sold for certain exempt purposes” for “or by local transmit systems” in section catchline.
+<b>1986</b>—Pub. L. 99–514, §1703(c)(2)(D), substituted “, used by local transit systems, or sold for certain exempt purposes” for “or by local transmit systems” in section catchline.
 
 Subsec. (c). Pub. L. 99–514, §1703(c)(1)(B), added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -278,9 +278,9 @@ Pub. L. 99–499, §521(c)(2)(A), substituted “Except with respect to taxes im
 
 Subsec. (i). Pub. L. 99–514, §1703(c)(1)(A), redesignated subsec. (h), relating to effective date, as (i).
 
-1984—Subsec. (i)(3). Pub. L. 98–369 substituted “section 34” for “section 39”.
+<b>1984</b>—Subsec. (i)(3). Pub. L. 98–369 substituted “section 34” for “section 39”.
 
-1983—Subsec. (a). Pub. L. 97–424, §511(c)(1), substituted provision that, except as provided in subsection (i), if gasoline is used in an off-highway business use, the Secretary shall pay (without interest) to the ultimate purchaser of such gasoline an amount equal to the amount determined by multiplying the number of gallons so used by the rate at which tax was imposed on such gasoline under section 4081, for provision that, except as provided in subsection (i), if gasoline were used in a qualified business use, the Secretary would pay (without interest) to the ultimate purchaserof such gasoline an amount equal to 1 cent for each gallon of gasoline so used on which tax had been paid at the rate of 3 cents a gallon and 2 cents for each gallon of gasoline so used on which tax had been paid at the rate of 4 cents a gallon.
+<b>1983</b>—Subsec. (a). Pub. L. 97–424, §511(c)(1), substituted provision that, except as provided in subsection (i), if gasoline is used in an off-highway business use, the Secretary shall pay (without interest) to the ultimate purchaser of such gasoline an amount equal to the amount determined by multiplying the number of gallons so used by the rate at which tax was imposed on such gasoline under section 4081, for provision that, except as provided in subsection (i), if gasoline were used in a qualified business use, the Secretary would pay (without interest) to the ultimate purchaser of such gasoline an amount equal to 1 cent for each gallon of gasoline so used on which tax had been paid at the rate of 3 cents a gallon and 2 cents for each gallon of gasoline so used on which tax had been paid at the rate of 4 cents a gallon.
 
 Subsec. (d)(2). Pub. L. 97–424, §511(c)(3), substituted “Off-Highway” for “Qualified” in heading, and “off-highway business use” for “qualified business use” wherever appearing in text.
 
@@ -290,9 +290,9 @@ Subsec. (h). Pub. L. 97–424, §516(a)(6), substituted “1988” for “1984�
 
 Subsec. (j)(4). Pub. L. 97–473 added par. (4).
 
-1980—Subsec. (d)(2)(B). Pub. L. 96–222 inserted provisions requiring that the preceding sentence not apply to use in a vessel employed in the fisheries or in the whaling business.
+<b>1980</b>—Subsec. (d)(2)(B). Pub. L. 96–222 inserted provisions requiring that the preceding sentence not apply to use in a vessel employed in the fisheries or in the whaling business.
 
-1978—Subsec. (a). Pub. L. 95–618, §222(a)(1)(A), substituted “Except as provided in subsection (i), if gasoline is used in a qualified business use” for “Except as provided in subsection (i), if gasoline is used otherwise than as a fuel in a highway vehicle (1) which (at the time of such use) is registered, or is required to be registered, for highway use under the laws of any State or foreign country, or (2) which, in the case of a vehicle owned by the United States, is used on the highway”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–618, §222(a)(1)(A), substituted “Except as provided in subsection (i), if gasoline is used in a qualified business use” for “Except as provided in subsection (i), if gasoline is used otherwise than as a fuel in a highway vehicle (1) which (at the time of such use) is registered, or is required to be registered, for highway use under the laws of any State or foreign country, or (2) which, in the case of a vehicle owned by the United States, is used on the highway”.
 
 Subsec. (b). Pub. L. 95–618, §233(a)(1), among other changes, provided for the refund or credit of the taxes paid on gasoline but only to the extent such gasoline is used in a bus engaged in furnishing (for compensation) passenger land transportation available to the general public or in school bus transportation operations.
 
@@ -302,7 +302,7 @@ Subsec. (d)(3). Pub. L. 95–618, §§222(a)(1)(B), 233(a)(3)(A), added par. (3)
 
 Subsec. (h). Pub. L. 95–599 substituted “1984” for “1979”.
 
-1976—Subsec. (a). Pub. L. 94–455, §1906(a)(27)(A)(i), (b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing, and substituted “in the case of gasoline used as a fuel” for “in the case of gasoline used after June 30, 1970, as a fuel”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(a)(27)(A)(i), (b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing, and substituted “in the case of gasoline used as a fuel” for “in the case of gasoline used after June 30, 1970, as a fuel”.
 
 Subsec. (b)(1). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
@@ -324,7 +324,7 @@ Subsec. (i)(2). Pub. L. 94–455, §1906(a)(27)(D)(ii), substituted “subsectio
 
 Subsec. (i)(3). Pub. L. 94–455, §1906(a)(27)(D)(iii), struck out “for gasoline used after June 30, 1965” after “subtitle A”.
 
-1970—Subsec. (a). Pub. L. 91–258, §205(b)(1)(A), inserted requirement that, except as provided in par. (3) of subsec. (e) of this section, where gasoline is used after June 30, 1970, as a fuel in an aircraft, the Secretary or his delegate pay (without interest) to the ultimate purchaser of such gasoline an amount equal to the amount determined by multiplying the number of gallons of gasoline so used by the rate at which tax was imposed on such gasoline under section 4081.
+<b>1970</b>—Subsec. (a). Pub. L. 91–258, §205(b)(1)(A), inserted requirement that, except as provided in par. (3) of subsec. (e) of this section, where gasoline is used after June 30, 1970, as a fuel in an aircraft, the Secretary or his delegate pay (without interest) to the ultimate purchaser of such gasoline an amount equal to the amount determined by multiplying the number of gallons of gasoline so used by the rate at which tax was imposed on such gasoline under section 4081.
 
 Subsec. (c)(3)(A)(ii). Pub. L. 91–258, §207(b), substituted “a claim for credit or refund of overpayment of income tax” for “an income tax return” after “time prescribed by law for filing”.
 
@@ -340,7 +340,7 @@ Subsec. (j)(3). Pub. L. 91–258, §205(c)(8), redesignated par. (5) as (3). For
 
 Subsec. (j)(4), (5). Pub. L. 91–258, §205(c)(8), redesignated pars. (4) and (5) as (2) and (3), respectively.
 
-1965—Subsec. (a). Pub. L. 89–44, §809(b)(1)(A), substituted “Except as provided in subsection (i), if” for “If”.
+<b>1965</b>—Subsec. (a). Pub. L. 89–44, §809(b)(1)(A), substituted “Except as provided in subsection (i), if” for “If”.
 
 Subsec. (b). Pub. L. 89–44, §809(b)(1)(A), substituted “Except as provided in subsection (i), if” for “If”.
 
@@ -354,21 +354,21 @@ Subsec. (e)(1). Pub. L. 89–44, §809(b)(3), substituted “payable” for “p
 
 Subsecs. (i), (j). Pub. L. 89–44, §809(b)(1)(B), added subsec. (i) and redesignated former subsec. (i) as (j).
 
-1962—Subsec. (b)(1)(B), (2). Pub. L. 87–508, §5(c)(2)(A), substituted “commuter fare revenue” for “tax-exempt passenger fare revenue” in two places and struck out “(not including the tax imposed by section 4261, relating to the tax on transportation of persons)” after “total passenger fare revenue” in two places.
+<b>1962</b>—Subsec. (b)(1)(B), (2). Pub. L. 87–508, §5(c)(2)(A), substituted “commuter fare revenue” for “tax-exempt passenger fare revenue” in two places and struck out “(not including the tax imposed by section 4261, relating to the tax on transportation of persons)” after “total passenger fare revenue” in two places.
 
 Subsec. (d)(2). Pub. L. 87–508, §5(c)(2)(B), substituted definition of “commuter fare revenue” for definition of “tax-exempt passenger fare revenue”.
 
-1961—Subsec. (h). Pub. L. 87–61, substituted “October 1, 1972” for “July 1, 1972”.
+<b>1961</b>—Subsec. (h). Pub. L. 87–61, substituted “October 1, 1972” for “July 1, 1972”.
 
-1959—Subsec. (a). Pub. L. 86–342 substituted “1 cent for each gallon of gasoline so used on which tax was paid at the rate of 3 cents a gallon and 2 cents for each gallon of gasoline so used on which tax was paid at the rate of 4 cents a gallon” for “1 cent for each gallon of gasoline so used”.
+<b>1959</b>—Subsec. (a). Pub. L. 86–342 substituted “1 cent for each gallon of gasoline so used on which tax was paid at the rate of 3 cents a gallon and 2 cents for each gallon of gasoline so used on which tax was paid at the rate of 4 cents a gallon” for “1 cent for each gallon of gasoline so used”.
 
 Subsec. (b)(1)(A). Pub. L. 86–342 substituted “1 cent at the rate of 3 cents a gallon and 2 cents for each gallon of gasoline so used on which tax was paid at the rate of 4 cents a gallon” for “1 cent for each gallon of gasoline so used”.
 
-1958—Subsec. (c). Pub. L. 85–859, §164(a), permitted, in cases where $1,000 or more is payable to any person with respect to gasoline used during a calendar quarter, the filing of a claim on or before the last day of the first calendar quarter following the calendar quarter for which the claim is filed.
+<b>1958</b>—Subsec. (c). Pub. L. 85–859, §164(a), permitted, in cases where $1,000 or more is payable to any person with respect to gasoline used during a calendar quarter, the filing of a claim on or before the last day of the first calendar quarter following the calendar quarter for which the claim is filed.
 
 Subsec. (i)(2), (3). Pub. L. 85–859, §163(d)(3), substituted “section 6416(b)(2)(I) and (J)” for “section 6416(b)(2) (J) and (K)” in cl. (2), and “section 6416(b)(2)(H)” for “section 6416(b)(2)(L)” in cl. (3).
 
-1956—Subsec. (d)(2). Act July 25, 1956, substituted “4263(a)” for “4262(b)”.
+<b>1956</b>—Subsec. (d)(2). Act July 25, 1956, substituted “4263(a)” for “4262(b)”.
 
 #### Effective Date of 2006 Amendment
 

@@ -8,7 +8,7 @@ The Institute shall not—
 
 &emsp;(2) interfere with the independent nature of any State judicial system or allow financial assistance to be used for the funding of regular judicial and administrative activities of any State judicial system other than pursuant to the terms of any grant, cooperative agreement, or contract with the Institute, consistent with the requirements of this chapter; or
 
-&emsp;(3) undertake to influence the passage or defeat of any legislation by the Congress of the United States or by any State or local legislative body, except that personnel of the Institute may testify or make other appropriate communication—
+&emsp;(3) undertake to influence the passage or defeat of any legislation by the Congress of theUnited States or by any State or local legislative body, except that personnel of the Institute may testify or make other appropriate communication—
 
 &emsp;&emsp;(A) when formally requested to do so by a legislative body, committee, or a member thereof;
 
@@ -31,4 +31,8 @@ The Institute shall not—
 Officers and employees of the Institute or of recipients shall not at any time intentionally identify the Institute or the recipient with any partisan or nonpartisan political activity associated with a political party or association, or the campaign of any candidate for public or party office.
 
 (Pub. L. 98–620, title II, §208, Nov. 8, 1984, 98 Stat. 3343.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title II of Pub. L. 98–620, Nov. 8, 1984, 98 Stat. 3336, known as the State Justice Institute Act of 1984, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 10701 of this title and Tables.
 

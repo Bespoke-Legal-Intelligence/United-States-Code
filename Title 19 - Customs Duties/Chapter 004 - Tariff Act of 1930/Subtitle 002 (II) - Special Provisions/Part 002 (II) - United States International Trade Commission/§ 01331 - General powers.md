@@ -44,10 +44,6 @@ The commission is authorized to adopt an official seal, which shall be judiciall
 
 (June 17, 1930, ch. 497, title III, §331, 46 Stat. 697; Pub. L. 95–106, §3(a), (b), Aug. 17, 1977, 91 Stat. 868; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 97–456, §1(b), Jan. 12, 1983, 96 Stat. 2503.)
 
-#### References in Text
-
-The civil service law, referred to in subsec. (b), is set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 #### Codification
 
 In subsec. (a), provisions which specified a salary of $7,500 per year for the secretary to the commission have been omitted as obsolete and superseded. Sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the Classification Act of 1923 and all other laws or parts of laws inconsistent with the 1949 Act. The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632, and reenacted as chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees. Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
@@ -62,9 +58,9 @@ Provisions similar to those in subsecs. (f) and (g) of this section were contain
 
 #### Amendments
 
-1983—Subsec. (a)(1). Pub. L. 97–456 designated existing provisions relating to the chairman's exercise of and responsibility for all administrative functions as subpar. (A), redesignated former subpars. (A) through (C) as cls. (i) through (iii), added subpar. (B), designated provisions relating to disapproval by a majority of the commissioners of any decision by the chairman as subpar. (C), and in (C) as so designated, substituted “subparagraph (A) or (B)” for “this paragraph” after “chairman under”.
+<b>1983</b>—Subsec. (a)(1). Pub. L. 97–456 designated existing provisions relating to the chairman's exercise of and responsibility for all administrative functions as subpar. (A), redesignated former subpars. (A) through (C) as cls. (i) through (iii), added subpar. (B), designated provisions relating to disapproval by a majority of the commissioners of any decision by the chairman as subpar. (C), and in (C) as so designated, substituted “subparagraph (A) or (B)” for “this paragraph” after “chairman under”.
 
-1977—Subsec. (a). Pub. L. 95–106, §3(a), designated existing provisions as par. (1), substituted provisions authorizing the chairman to perform certain required functions subject to approval by the Commission for provisions authorizing the Commission to perform certain required functions and inserted provisions requiring the chairman to exercise and be responsible for all other administrative functions of the Commission, and added pars. (2) and (3).
+<b>1977</b>—Subsec. (a). Pub. L. 95–106, §3(a), designated existing provisions as par. (1), substituted provisions authorizing the chairman to perform certain required functions subject to approval by the Commission for provisions authorizing the Commission to perform certain required functions and inserted provisions requiring the chairman to exercise and be responsible for all other administrative functions of the Commission, and added pars. (2) and (3).
 
 Subsec. (c). Pub. L. 95–106, §3(b)(1), substituted “approved by the chairman (except that in the case of a commissioner, or the personal staff of any commissioner, such vouchers may be approved by that commissioner)” for “approved by the Commission”.
 

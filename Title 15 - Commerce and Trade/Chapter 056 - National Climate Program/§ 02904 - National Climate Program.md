@@ -94,7 +94,7 @@ Subsec. (g) of this section in the original was par. (1) of section 5(g) of Pub.
 
 #### Amendments
 
-1986—Subsec. (c). Pub. L. 99–272, §6084(b), designated first sentence as par. (1), substituted pars. (2) and (3) for second sentence which provided that “The Office shall be the lead entity responsible for administering the Program”, and designated third sentence as par. (4).
+<b>1986</b>—Subsec. (c). Pub. L. 99–272, §6084(b), designated first sentence as par. (1), substituted pars. (2) and (3) for second sentence which provided that “The Office shall be the lead entity responsible for administering the Program”, and designated third sentence as par. (4).
 
 Subsec. (d)(7). Pub. L. 99–272, §6084(c)(1), inserted provision that such mechanisms may provide, among others, for certain enumerated State and regional services and functions.
 

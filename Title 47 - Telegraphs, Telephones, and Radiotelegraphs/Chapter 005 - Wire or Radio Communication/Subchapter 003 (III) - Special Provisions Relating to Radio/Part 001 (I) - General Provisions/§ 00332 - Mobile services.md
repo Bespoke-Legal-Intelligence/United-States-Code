@@ -20,7 +20,7 @@ In taking actions to manage the spectrum to be made available for use by the pri
 
 (3) Any person who provides assistance to the Commission under this subsection shall not be considered, by reason of having provided such assistance, a Federal employee.
 
-(4) Any advisory coordinating committee which furnishes assistance to the Commissionunder this subsection shall not be subject to the provisions of the Federal Advisory Committee Act.
+(4) Any advisory coordinating committee which furnishes assistance to the Commission under this subsection shall not be subject to the provisions of the Federal Advisory Committee Act.
 
 #### (c) Regulatory treatment of mobile services
 
@@ -42,7 +42,7 @@ In taking actions to manage the spectrum to be made available for use by the pri
 
 #### (2) Non-common carrier treatment of private mobile services
 
-&emsp;A person engaged in the provision of a service that is a private mobile service shall not, insofar as such person is so engaged, be treated as a common carrier for any purpose under this chapter. A common carrier (other than a person that was treated as a provider of a private land mobile service prior to August 10, 1993) shall not provide any dispatch service on any frequency allocated for common carrier service, except to the extent such dispatch service is provided on stations licensed in the domestic public land mobile radio service before January 1, 1982. The Commission may by regulation terminate, in whole or in part, the prohibition contained in the preceding sentence if the Commission determines that such termination will serve the public interest.
+&emsp;A person engaged in the provision of a service that is a private mobile service shall not, insofar as such person is so engaged, be treated as a common carrier for any purpose under this chapter. A common carrier (other than aperson that was treated as a provider of a private land mobile service prior to August 10, 1993) shall not provide any dispatch service on any frequency allocated for common carrier service, except to the extent such dispatch service is provided on stations licensed in the domestic public land mobile radio service before January 1, 1982. The Commission may by regulation terminate, in whole or in part, the prohibition contained in the preceding sentence if the Commission determines that such termination will serve the public interest.
 
 #### (3) State preemption
 
@@ -132,17 +132,17 @@ The Omnibus Budget Reconciliation Act of 1993, referred to in subsec. (c)(6), is
 
 #### Codification
 
-In subsec. (b)(2), “section 1342 of title 31” substituted for “section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b)(2), “section 1342 of title 31” substituted for “section 3679(b) of the Revised Statutes (31 U.S.C.665(b))” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
-1996—Subsec. (c)(7). Pub. L. 104–104, §704(a), added par. (7).
+<b>1996</b>—Subsec. (c)(7). Pub. L. 104–104, §704(a), added par. (7).
 
 Subsec. (c)(8). Pub. L. 104–104, §705, added par. (8).
 
 Subsec. (d)(1), (3). Pub. L. 104–104, §3(d)(2), substituted “section 153” for “section 153(n)”.
 
-1993—Pub. L. 103–66 struck out “Private land” before “mobile services” in section catchline, struck out “land” before “mobile services” wherever appearing in subsecs. (a) and (b), added subsecs. (c) and (d), and struck out former subsec. (c) which related to service provided by specialized mobile radio, multiple licensed radio dispatch systems, and other radio dispatch systems; common carriers; and rate or entry regulations.
+<b>1993</b>—Pub. L. 103–66 struck out “Private land” before “mobile services” in section catchline, struck out “land” before “mobile services” wherever appearing in subsecs. (a) and (b), added subsecs. (c) and (d), and struck out former subsec. (c) which related to service provided by specialized mobile radio, multiple licensed radio dispatch systems, and other radio dispatch systems; common carriers; and rate or entry regulations.
 
 #### Effective Date of 1993 Amendment
 
@@ -162,7 +162,7 @@ Effective dates of mobile service amendments.—The amendments made by subsectio
 
 #### Availability of Property
 
-Section 704(c) of Pub. L. 104–104 provided that: “Within 180 days of the enactment of this Act \[Feb. 8, 1996\], the President or his designee shall prescribe procedures by which Federal departments and agencies may make available on a fair, reasonable, and nondiscriminatory basis, property, rights-of-way, and easements under their control for the placement of new telecommunications services that are dependent, in whole or in part, upon the utilization of Federal spectrum rights for the transmission or reception of such services. These procedures may establish a presumption that requests for the use of property, rights-of-way, and easements by duly authorized providers should be granted absent unavoidable direct conflict with the department or agency's mission, or the current or planned use of the property, rights-of-way, and easements in question. Reasonable fees may be charged to providers of such telecommunications services for use of property, rights-of-way, and easements. The Commission shall provide technical support to States to encourage them to makeproperty, rights-of-way, and easements under their jurisdiction available for such purposes.”
+Section 704(c) of Pub. L. 104–104 provided that: “Within 180 days of the enactment of this Act \[Feb. 8, 1996\], the President or his designee shall prescribe procedures by which Federal departments and agencies may make available on a fair, reasonable, and nondiscriminatory basis, property, rights-of-way, and easements under their control for the placement of new telecommunications services that are dependent, in whole or in part, upon the utilization of Federal spectrum rights for the transmission or reception of such services. These procedures may establish a presumption that requests for the use of property, rights-of-way, and easements by duly authorized providers should be granted absent unavoidable direct conflict with the department or agency's mission, or the current or planned use of the property, rights-of-way, and easements in question. Reasonable fees may be charged to providers of such telecommunications services for use of property, rights-of-way, and easements. The Commission shall provide technical support to States to encourage them to make property, rights-of-way, and easements under their jurisdiction available for such purposes.”
 
 #### Transitional Rulemaking for Mobile Service Providers
 

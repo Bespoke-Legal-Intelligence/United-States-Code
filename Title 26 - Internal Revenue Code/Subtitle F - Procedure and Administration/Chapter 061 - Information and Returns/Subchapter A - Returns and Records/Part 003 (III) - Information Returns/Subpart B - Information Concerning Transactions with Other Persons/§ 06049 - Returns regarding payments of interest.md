@@ -174,7 +174,7 @@ For purposes of this section—
 
 #### (B) Separate returns and statements
 
-&emsp;&emsp;If subparagraph (A) applies to interest on any obligation, the return under subsection (a) and the statement furnished under subsection (c) with respect to such transaction may be made separately, but any such statement shall be furnished to the payee at such time as the Secretary may prescribe by regulations but not later than January 31 of the next calendar year.
+&emsp;&emsp;If subparagraph (A) applies to interest on any obligation, the return under subsection\(a) and the statement furnished under subsection (c) with respect to such transaction may be made separately, but any such statement shall be furnished to the payee at such time as the Secretary may prescribe by regulations but not later than January 31 of the next calendar year.
 
 #### (C) Statement to payee required in case of transactions involving $10 or more
 
@@ -232,7 +232,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of subsection (a), the term “interest” includes amounts includible ingross income under section 54A and such amounts shall be treated as paid on the credit allowance date (as defined in section 54A(e)(1)).
+&emsp;&emsp;For purposes of subsection (a), the term “interest” includes amounts includible in gross income under section 54A and such amounts shall be treated as paid on the credit allowance date (as defined in section 54A(e)(1)).
 
 #### (B) Reporting to corporations, etc.
 
@@ -242,7 +242,7 @@ For purposes of this section—
 
 &emsp;&emsp;The Secretary may prescribe such regulations as are necessary or appropriate to carry out the purposes of this paragraph, including regulations which require more frequent or more detailed reporting.
 
-(Added Pub. L. 87–834, §19(c), Oct. 16, 1962, 76 Stat. 1055; amended Pub. L. 91–172, title IV, §413(c), (d), Dec. 30, 1969, 83 Stat. 611, 612; Pub. L. 94–455, title XIX, §§1901(b)(6)(A), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 97–248, title III, §§303(b), 308(a), 309(a), Sept. 3, 1982, 96 Stat. 587, 591; Pub. L. 97–424, title V, §547(b)(4), Jan. 6, 1983, 96 Stat. 2200; Pub. L. 98–67, title I, §§102(a), (e), 108(a), Aug. 5, 1983, 97 Stat. 369, 370, 383; Pub. L. 98–369, div. A, title I, §42(a)(14), title IV, §474(r)(29)(J), July 18, 1984, 98 Stat. 557, 845; Pub. L. 99–514, title VI, §674, title XII, §1214(c)(4), title XV, §1501(c)(5), title XVIII, §1803(a)(14)(C), Oct. 22, 1986, 100 Stat. 2319, 2543, 2737, 2797; Pub. L. 100–647, title I, §1006(t)(24), (v), Nov. 10, 1988, 102 Stat. 3426, 3427; Pub. L. 104–168, title XII, §1201(a)(6), July 30, 1996, 110 Stat. 1469; Pub. L. 109–58, title XIII, §1303(b), Aug. 8, 2005, 119 Stat. 996; Pub. L. 109–135, title I, §101(b)(2), Dec. 21, 2005, 119 Stat. 2593; Pub. L. 109–222, title V, §502(a), (b), May 17, 2006, 120 Stat. 354; Pub. L. 110–234, title XV, §15316(b), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, §4(a), title XV, §15316(b), June 18, 2008, 122 Stat. 1664, 2273.)
+(Added Pub. L. 87–834, §19(c), Oct. 16, 1962, 76 Stat. 1055; amended Pub. L. 91–172, title IV, §413(c), (d), Dec. 30, 1969, 83 Stat. 611, 612; Pub. L. 94–455, title XIX, §§1901(b)(6)(A), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 97–248, title III, §§303(b), 308(a), 309(a), Sept. 3, 1982, 96 Stat. 587, 591; Pub. L. 97–424, title V, §547(b)(4), Jan. 6, 1983, 96 Stat. 2200; Pub. L. 98–67, title I, §§102(a), (e), 108(a), Aug. 5, 1983, 97 Stat. 369, 370,383; Pub. L. 98–369, div. A, title I, §42(a)(14), title IV, §474(r)(29)(J), July 18, 1984, 98 Stat. 557, 845; Pub. L. 99–514, title VI, §674, title XII, §1214(c)(4), title XV, §1501(c)(5), title XVIII, §1803(a)(14)(C), Oct. 22, 1986, 100 Stat. 2319, 2543, 2737, 2797; Pub. L. 100–647, title I, §1006(t)(24), (v), Nov. 10, 1988, 102 Stat. 3426, 3427; Pub. L. 104–168, title XII, §1201(a)(6), July 30, 1996, 110 Stat. 1469; Pub. L. 109–58, title XIII, §1303(b), Aug. 8, 2005, 119 Stat. 996; Pub. L. 109–135, title I, §101(b)(2), Dec. 21, 2005, 119 Stat. 2593; Pub. L. 109–222, title V, §502(a), (b), May 17, 2006, 120 Stat. 354; Pub. L. 110–234, title XV, §15316(b), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, §4(a), title XV, §15316(b), June 18, 2008, 122 Stat. 1664, 2273.)
 
 #### References in Text
 
@@ -254,25 +254,25 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (d)(9). Pub. L. 110–246, §15316(b), added par. (9).
+<b>2008</b>—Subsec. (d)(9). Pub. L. 110–246, §15316(b), added par. (9).
 
-2006—Subsec. (b)(2)(B). Pub. L. 109–222, §502(a), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “interest on any obligation if such interest is exempt from tax under section 103(a) or if such interest is exempt from tax (without regard to the identity of the holder) under any other provision of this title,”.
+<b>2006</b>—Subsec. (b)(2)(B). Pub. L. 109–222, §502(a), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “interest on any obligation if such interest is exempt from tax under section 103(a) or if such interest is exempt from tax (without regard to the identity of the holder) under any other provision of this title,”.
 
 Subsec. (b)(2)(C). Pub. L. 109–222 redesignated subpar. (D) as (C) and substituted “subparagraph (B)” for “subparagraph (C)”.
 
 Subsec. (b)(2)(D). Pub. L. 109–222, §502(a), redesignated subpar. (D) as (C).
 
-2005—Subsec. (d)(8). Pub. L. 109–58 added par. (8).
+<b>2005</b>—Subsec. (d)(8). Pub. L. 109–58 added par. (8).
 
 Subsec. (d)(8)(A). Pub. L. 109–135 inserted “or 1400N(<i>l</i>)(6)” after “section 54(g)” and “or 1400N(<i>l</i>)(2)(D), as the case may be” after “section 54(b)(4)”.
 
-1996—Subsec. (c)(1)(A). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
+<b>1996</b>—Subsec. (c)(1)(A). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
 
-1988—Subsec. (d)(7)(A). Pub. L. 100–647, §1006(v), inserted parenthetical phrase relating to amounts treated as paid when includible in gross income under section 860B(b).
+<b>1988</b>—Subsec. (d)(7)(A). Pub. L. 100–647, §1006(v), inserted parenthetical phrase relating to amounts treated as paid when includible in gross income under section 860B(b).
 
 Subsec. (d)(7)(C). Pub. L. 100–647, §1006(t)(24), substituted “the adjusted issue price” for “the issue price”.
 
-1986—Subsec. (b)(5)(B)(iii). Pub. L. 99–514, §1803(a)(14)(C), substituted “section 1273(a)” for “section 1232(b)(1)”.
+<b>1986</b>—Subsec. (b)(5)(B)(iii). Pub. L. 99–514, §1803(a)(14)(C), substituted “section 1273(a)” for “section 1232(b)(1)”.
 
 Subsec. (b)(5)(B)(iv). Pub. L. 99–514, §1214(c)(4), added cl. (iv).
 
@@ -280,13 +280,13 @@ Subsec. (c). Pub. L. 99–514, §1501(c)(5), in amending subsec. (c) generally, 
 
 Subsec. (d)(7). Pub. L. 99–514, §674, added par. (7).
 
-1984—Subsec. (b)(2)(E). Pub. L. 98–369, §474(r)(29)(J), struck out subpar. (E) which related to amounts on which the person making payments was required to deduct and withhold a tax under section 1451 (relating to tax-free covenant bonds), or would have been so required but for section 1451(d) (relating to benefit of personal exemptions).
+<b>1984</b>—Subsec. (b)(2)(E). Pub. L. 98–369, §474(r)(29)(J), struck out subpar. (E) which related to amounts on which the person making payments was required to deduct and withhold a tax under section 1451 (relating to tax-free covenant bonds), or would have been so required but for section 1451(d) (relating to benefit of personal exemptions).
 
 Subsec. (d)(6)(A). Pub. L. 98–369, §42(a)(14)(A), substituted “section 1272” for “section 1232A” in two places.
 
 Subsec. (d)(6)(B). Pub. L. 98–369, §42(a)(14)(B), substituted “section 1273(a)” for “section 1232(b)(1)”.
 
-1983—Subsec. (a). Pub. L. 98–67, §102(e)(1), struck out par. (3) which related to persons required under subchapter B of chapter 24 to withhold tax on the payment of interest and, in provisions following par. (2), substituted “and the name and address of the person to whom paid” for “, tax deducted and withheld, and the name and address of the person to whom paid or from whom withheld”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–67, §102(e)(1), struck out par. (3) which related to persons required under subchapter B of chapter 24 to withhold tax on the payment of interest and, in provisions following par. (2), substituted “and the name and address of the person to whom paid” for “, tax deducted and withheld, and the name and address of the person to whom paid or from whom withheld”.
 
 Subsec. (b)(2)(B). Pub. L. 97–424 substituted “this title” for “law”.
 
@@ -300,7 +300,7 @@ Subsec. (c)(2). Pub. L. 98–67, §108(a), amended par. (2) generally, inserting
 
 Subsec. (e). Pub. L. 98–67, §102(a), repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
 
-1982—Subsec. (a). Pub. L. 97–248, §309(a), redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, in par. (2) as so redesignated inserted “(as so defined)” after “payments of interest”, substituted par. (3) for former par. (1)(C) which described corporations with evidence of outstanding indebtedness in registered form for which during any calendar yearthere was at least $10 of original issue discount includible in the gross income of a holder under section 1232(a)(3) of this title without regard to subpar. (B) thereof, substituted “of such payments, tax deducted and withheld, and the name and address of the person to whom paid or from whom withheld” for “of such payments and such aggregate amount includible in the gross income of any holder and the name and address of the person to whom paid or such holder” in provisions following par. (3), formerly following par. (1)(C), and struck out former par. (2), which directed persons making aggregate interest payments of less than $10 to another person during any calendar year to report such payments and the recipients when required by the Secretary, and former par. (3), which required all corporations making payments of any amount of interest other than as defined in subsec. (b) to report such payments and the recipients when required by the Secretary.
+<b>1982</b>—Subsec. (a). Pub. L. 97–248, §309(a), redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, in par. (2) as so redesignated inserted “(as so defined)” after “payments of interest”, substituted par. (3) for former par. (1)(C) which described corporations with evidence of outstanding indebtedness in registered form for which during any calendar year there was at least $10 of original issue discount includible in the gross income of a holder under section 1232(a)(3) of this title without regard to subpar. (B) thereof, substituted “of such payments, tax deducted and withheld, and the name and address of the person to whom paid or from whom withheld” for “of such payments and such aggregate amount includible in the gross income of any holder and the name and address of the person to whom paid or such holder” in provisions following par. (3), formerly following par. (1)(C), and struck out former par. (2), which directed persons making aggregate interest payments of less than $10 to another person during any calendar year to report such payments and the recipients when required by the Secretary, and former par. (3), which required all corporations making payments of any amount of interest other than as defined in subsec. (b) to report such payments and the recipients when required by the Secretary.
 
 Subsec. (b). Pub. L. 97–248, §309(a), substituted “subsection (a)” for “subsections (a)(1) and (2)” in provisions preceding subpar. (A), in subpar. (A) substituted “any obligation (i) issued in registered form, or (ii) of a type offered to the public, other than any obligation with a maturity (at issue) of not more than 1 year which is held by a corporation” for “evidences of indebtedness (including bonds, debentures, notes, and certificates) issued by a corporation in registered form, and, to the extent provided in regulations prescribed by the Secretary, interest on other evidences of indebtedness issued by a corporation of a type offered by corporations to the public” in subpar. (C) inserted “industrial loan association or bank” to list of payors of interest, in subpar. (E) substituted “brokers (as defined in section 6045(c))” for “stockbrokers and dealers in securities”, added subpars. (F) and (G), in par. (2) substituted “subsection (a)” for “subsections (a)(1) and (2)” in provisions preceding subpar. (A), added subpar. (A), redesignated former subpar. (A) as (B), in subpar. (B) as so redesignated inserted reference to exemption under any provision of law, added subpar. (C), redesignated former subpar. (B) as (D), in subpar. (D) as so redesignated substituted provisions that the subpar. operates except to the extent otherwise provided in regulations or in subpar. (C) for provisions that the subpar. operates to the extent provided in regulations, added cls. (i) and (ii), designated existing provisions as cls. (iii) to (v), in cl. (iii) as so designated inserted specification of not being engaged in trade or business in the United States, in cl. (iv) as so designated inserted specification of exemption under subchapter A of chapter 3, redesignated former subpar. (C) as (E), and added par. (3).
 
@@ -310,11 +310,11 @@ Subsec. (d). Pub. L. 97–248, §309(a), added subsec. (d).
 
 Subsec. (e). Pub. L. 97–248, §§303(b), 308(a), provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, a new subsec. (e) is added. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
-1976—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 Subsec. (b)(1), (2)(A), (B). Pub. L. 94–455, §§1901(b)(6)(A), 1906(b)(13)(A), substituted “section 103(a)” for “section 103(a)(1) or (3)”, and struck out “or his delegate” after “Secretary” wherever appearing.
 
-1969—Subsec. (a)(1)(C). Pub. L. 91–172, §413(c), added subpar. (C).
+<b>1969</b>—Subsec. (a)(1)(C). Pub. L. 91–172, §413(c), added subpar. (C).
 
 Subsec. (c). Pub. L. 91–172, §413(d), further qualified requirement to furnish statement by reference to aggregate amount includible in gross income.
 

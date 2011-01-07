@@ -88,11 +88,11 @@ The Trade Act of 1974, as amended by the Trade Act of 2002, referred to in subse
 
 #### Amendments
 
-2009—Subsec. (c)(1). Pub. L. 111–5, §1899K(b)(1), substituted “Appropriations” for “Authorization and appropriation for fiscal year 2002” in heading.
+<b>2009</b>—Subsec. (c)(1). Pub. L. 111–5, §1899K(b)(1), substituted “Appropriations” for “Authorization and appropriation for fiscal year 2002” in heading.
 
 Subsec. (c)(1)(A). Pub. L. 111–5, §1899K(b)(2), added subpar. (A) and struck out former subpar. (A) which read as follows: “to carry out subsection (a)(4)(A) of section 2918 of this title, $10,000,000 for fiscal year 2002; and”.
 
-2002—Subsec. (c). Pub. L. 107–210 added subsec. (c).
+<b>2002</b>—Subsec. (c). Pub. L. 107–210 added subsec. (c).
 
 #### Effective Date of 2009 Amendment
 

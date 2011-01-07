@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-The Secretary is authorized to make grants to, or enter into contracts with, institutions of higher education, combinations of such institutions, and other public and private nonprofit institutions and agencies, to enable such institutions, combinations, and agencies to improve postsecondary education opportunities by—
+The Secretary is authorized to make grants to, or enter into contracts with, institutions ofhigher education, combinations of such institutions, and other public and private nonprofit institutions and agencies, to enable such institutions, combinations, and agencies to improve postsecondary education opportunities by—
 
 &emsp;(1) the encouragement of reform and improvement of, and innovation in, postsecondary education and the provision of educational opportunity for all students, including nontraditional students;
 
@@ -80,7 +80,7 @@ The Secretary is authorized to make planning grants to institutions of higher ed
 
 #### (2) Rule of construction
 
-&emsp;Nothing in this subsection shall be construed to prevent a student who does not meetthe requirements of section 1091(a) of this title from participating in programs funded under this part.
+&emsp;Nothing in this subsection shall be construed to prevent a student who does not meet the requirements of section 1091(a) of this title from participating in programs funded under this part.
 
 #### (e) Priority
 
@@ -160,7 +160,7 @@ Another prior section 741 of Pub. L. 89–329 was classified to section 1132c of
 
 #### Amendments
 
-2008—Subsec. (a)(1) to (3). Pub. L. 110–315, §707(a)(1), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
+<b>2008</b>—Subsec. (a)(1) to (3). Pub. L. 110–315, §707(a)(1), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
 
 “(1) encouraging the reform, innovation, and improvement of postsecondary education, and providing equal educational opportunity for all;
 

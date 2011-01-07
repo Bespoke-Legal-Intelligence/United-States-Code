@@ -1,6 +1,6 @@
 ### §1473c. Payment of costs incidental to services contributed by volunteers
 
-Appropriations under this title <sup>1</sup> in fiscal year 1992 and thereafter, may be made available for paying costs incidental to the utilization of services contributed by individuals who serve without compensation as volunteers in aid of work for units of the Department of the Interior.
+Appropriations under this title <sup>1</sup> in fiscal year 1992 and thereafter, may be made available for paying costs incidental to the utilization of services contributed by individuals who serve without compensation as volunteers in aid ofwork for units of the Department of the Interior.
 
 (Pub. L. 102–154, title I, §116, Nov. 13, 1991, 105 Stat. 1012.)
 

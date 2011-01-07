@@ -6,7 +6,7 @@ There is established within the Department an independent regulatory commission 
 
 #### (b) Composition; term of office; conflict of interest; expiration of terms
 
-(1) The Commission shall be composed of five members appointed by the President, by and with the advice and consent of the Senate. One of the members shall be designated by the President as Chairman. Members shall hold office for a term of 5 years and may be removed by the President only for inefficiency, neglect of duty, or malfeasance in office. Not more than three members of the Commission shall be members of the same political party. Any Commissioner appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term. A Commissioner may continue to serve after the expiration of his term until his successor is appointed and has beenconfirmed and taken the oath of Office, except that such Commissioner shall not serve beyond the end of the session of the Congress in which such term expires. Members of the Commission shall not engage in any other business, vocation, or employment while serving on the Commission.
+(1) The Commission shall be composed of five members appointed by the President, by and with the advice and consent of the Senate. One of the members shall be designated by the President as Chairman. Members shall hold office for a term of 5 years and may be removed by the President only for inefficiency, neglect of duty, or malfeasance in office. Not more than three members of the Commission shall be members of the same political party. Any Commissioner appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term. A Commissioner may continue to serve after the expiration of his term until his successor is appointed and has been confirmed and taken the oath of Office, except that such Commissioner shall not serve beyond the end of the session of the Congress in which such term expires. Members of the Commission shall not engage in any other business, vocation, or employment while serving on the Commission.
 
 (2) Notwithstanding the third sentence of paragraph (1), the terms of members first taking office after April 11, 1990, shall expire as follows:
 
@@ -38,7 +38,7 @@ In carrying out any of its functions, the Commission shall have the powers autho
 
 #### (h) Principal office of Commission
 
-The principal office of the Commission shall be in or near the District of Columbia, where its general sessions shall be held, but the Commission may sit anywhere in the United States.
+The principal office of the Commission shall be in or near the District of Columbia, where itsgeneral sessions shall be held, but the Commission may sit anywhere in the United States.
 
 #### (i) Commission deemed agency; attorney for Commission
 
@@ -52,11 +52,11 @@ In each annual authorization and appropriation request under this chapter, the S
 
 #### References in Text
 
-This chapter, referred to in subsecs. (i) and (j), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4,1977, 91 Stat. 565, as amended, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+This chapter, referred to in subsecs. (i) and (j), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–271 designated existing provisions as par. (1), substituted “5 years” for “four years”, struck out after third sentence “The terms of the members first taking office shall expire (as designated by the President at the time of appointment), two at the end of two years, two at the end of three years, and one at the end of four years.”, substituted “A Commissioner may continue to serve after the expiration of his term until his successor is appointed and has been confirmed and taken the oath of Office, except that such Commissioner shall not serve beyond the end of the session of the Congress in which such term expires.” for “A Commissioner may continue to serve after the expiration of his term until his successor has taken office, except that he may not so continue to serve for more than one year after the date on which his term would otherwise expire under this subsection.”, and added par. (2).
+<b>1990</b>—Subsec. (b). Pub. L. 101–271 designated existing provisions as par. (1), substituted “5 years” for “four years”, struck out after third sentence “The terms of the members first taking office shall expire (as designated by the President at the time of appointment), two at the end of two years, two at the end of three years, and one at the end of four years.”, substituted “A Commissioner may continue to serve after the expiration of his term until his successor is appointed and has been confirmed and taken the oath of Office, except that such Commissioner shall not serve beyond the end of the session of the Congress in which such term expires.” for “A Commissioner may continue to serve after the expiration of his term until his successor has taken office, except that he may not so continue to serve for more than one year after the date on which his term would otherwise expire under this subsection.”, and added par. (2).
 
 #### Effective Date of 1990 Amendment
 

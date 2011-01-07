@@ -10,5 +10,5 @@ Section 13 of the Flood Control Act of December 22, 1944, referred to in text, i
 
 #### Amendments
 
-1970—Pub. L. 91–566 empowered the Secretary, where the Army does have jurisdiction and responsibility, to enter into agreements with the Army to carry out jointly the measures heretofore set out and in areas where the Secretary is authorized to purchase land rights for structural measures, permitted the Secretary in lieu of such acquisition, to reimburse local organizations for such proportionate share of the cost of land rights furnished as the Secretary deems equitable in consideration of the national interest.
+<b>1970</b>—Pub. L. 91–566 empowered the Secretary, where the Army does have jurisdiction and responsibility, to enter into agreements with the Army to carry out jointly the measures heretofore set out and in areas where the Secretary is authorized to purchase land rights for structural measures, permitted the Secretary in lieu of such acquisition, to reimburse local organizations for such proportionate share of the cost of land rights furnished as the Secretary deems equitable in consideration of the national interest.
 

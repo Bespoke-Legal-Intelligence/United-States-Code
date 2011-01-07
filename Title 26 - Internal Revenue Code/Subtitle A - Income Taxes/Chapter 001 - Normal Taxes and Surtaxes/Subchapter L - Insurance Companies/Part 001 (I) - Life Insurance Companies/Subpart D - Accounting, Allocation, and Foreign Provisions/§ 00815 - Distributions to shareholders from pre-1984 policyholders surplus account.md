@@ -92,11 +92,11 @@ A prior section 815, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 129;
 
 #### Amendments
 
-2004—Subsec. (g). Pub. L. 108–357 added subsec. (g).
+<b>2004</b>—Subsec. (g). Pub. L. 108–357 added subsec. (g).
 
-1988—Subsec. (c)(2). Pub. L. 100–647 inserted at end “If for any taxable year a tax is imposed by section 55, under regulations proper adjustments shall be made for such year and all subsequent taxable years in the amounts taken into account under subparagraphs (A) and (B) of this paragraph and subparagraph (B) of subsection (d)(3).”
+<b>1988</b>—Subsec. (c)(2). Pub. L. 100–647 inserted at end “If for any taxable year a tax is imposed by section 55, under regulations proper adjustments shall be made for such year and all subsequent taxable years in the amounts taken into account under subparagraphs (A) and (B) of this paragraph and subparagraph (B) of subsection (d)(3).”
 
-1986—Subsec. (a). Pub. L. 99–514, §1821(k)(2), inserted at end “For purposes of the preceding sentence, the term ‘indirect distribution’ shall not include any bona fide loan with arms-length terms and conditions.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1821(k)(2), inserted at end “For purposes of the preceding sentence, the term ‘indirect distribution’ shall not include any bona fide loan with arms-length terms and conditions.”
 
 Subsec. (c)(2)(A)(ii). Pub. L. 99–514, §1011(b)(10), substituted “small life insurance company deduction” for “special deductions”.
 

@@ -6,7 +6,7 @@ There is hereby established, under article I of the Constitution of the United S
 
 #### Amendments
 
-1969—Pub. L. 91–172 substituted provisions establishing Tax Court as a Constitutional court, and enumerating the members that comprise its bench, for provisions continuing the Board of Tax Appeals, known as the Tax Court, as an independent agency in the Executive Branch of Government and enumerating the members that comprise its bench.
+<b>1969</b>—Pub. L. 91–172 substituted provisions establishing Tax Court as a Constitutional court, and enumerating the members that comprise its bench, for provisions continuing the Board of Tax Appeals, known as the Tax Court, as an independent agency in the Executive Branch of Government and enumerating the members that comprise its bench.
 
 #### Effective Date of 1969 Amendment
 

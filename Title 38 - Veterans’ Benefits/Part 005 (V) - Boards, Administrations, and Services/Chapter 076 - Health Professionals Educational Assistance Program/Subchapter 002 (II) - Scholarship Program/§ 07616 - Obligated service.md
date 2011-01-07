@@ -10,7 +10,7 @@
 
 &emsp;(B) in the case of a participant who is an employee in the Veterans Health Administration but is not serving in a position for which such participant's course of education or training prepared such participant, assign such participant to such a position.
 
-(3)(A)(i) In the case of a participant receiving a degree from a school of medicine, osteopathy,dentistry, optometry, or podiatry, the participant's service commencement date is the date upon which the participant becomes licensed to practice medicine, osteopathy, dentistry, optometry, or podiatry, as the case may be, in a State. However, the Secretary may, at the request of such participant, defer such date until the end of the period of time required for the participant to complete an internship or residency or other advanced clinical training. If the participant requests such a deferral, the Secretary shall notify the participant that such deferral could lead to an additional period of obligated service in accordance with paragraph (4) of this subsection.
+(3)(A)(i) In the case of a participant receiving a degree from a school of medicine, osteopathy, dentistry, optometry, or podiatry, the participant's service commencement date is the date upon which the participant becomes licensed to practice medicine, osteopathy, dentistry, optometry, or podiatry, as the case may be, in a State. However, the Secretary may, at the request of such participant, defer such date until the end of the period of time required for the participant to complete an internship or residency or other advanced clinical training. If the participant requests such a deferral, the Secretary shall notify the participant that such deferral could lead to an additional period of obligated service in accordance with paragraph (4) of this subsection.
 
 (ii) No such period of internship or residency or other advanced clinical training shall be counted toward satisfying a period of obligated service under this subchapter.
 
@@ -22,7 +22,7 @@
 
 &emsp;(A) at the rate of one-half of a calendar year for each year of internship or residency or other advanced clinical training (or a proportionate ratio thereof), if the internship, residency, or advanced clinical training is in a medical specialty necessary to meet the health-care requirements of the Department (as determined under regulations prescribed by the Secretary); or
 
-&emsp;(B) at the rate of three-quarters of a calendar year for each year of internship or residency or other advanced clinical training (or a proportionate ratio thereof), if the internship, residency, or advanced clinical training is not in a medical specialty necessary to meet the health-care requirements of the Department (as determined under regulations prescribed by the Secretary).
+&emsp;(B) at the rate of three-quarters of a calendar year for each year of internship or residency or other advanced clinical training (or a proportionate ratio thereof), if the internship, residency, or advanced clinical training is notin a medical specialty necessary to meet the health-care requirements of the Department (as determined under regulations prescribed by the Secretary).
 
 (5) The Secretary shall by regulation prescribe the service commencement date for participants who were part-time students. Such regulations shall prescribe terms as similar as practicable to the terms set forth in paragraph (3) of this subsection.
 
@@ -40,11 +40,11 @@
 
 #### Amendments
 
-1994—Subsecs. (b)(2), (c)(1), (2). Pub. L. 103–446 substituted “Veterans Health Administration” for “Department of Medicine and Surgery” wherever appearing.
+<b>1994</b>—Subsecs. (b)(2), (c)(1), (2). Pub. L. 103–446 substituted “Veterans Health Administration” for “Department of Medicine and Surgery” wherever appearing.
 
-1992—Subsec. (b)(4). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
+<b>1992</b>—Subsec. (b)(4). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 4316 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 4316 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 

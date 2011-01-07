@@ -12,3 +12,5 @@ Sections 1913 and 1914 of this title, referred to in text, were repealed by Pub.
 
 Reference to “section 517 of title 28” substituted in text for reference to section 316 of title 5, and reference to “section 519 of title 28” substituted for reference to section 507(b) of title 28 on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

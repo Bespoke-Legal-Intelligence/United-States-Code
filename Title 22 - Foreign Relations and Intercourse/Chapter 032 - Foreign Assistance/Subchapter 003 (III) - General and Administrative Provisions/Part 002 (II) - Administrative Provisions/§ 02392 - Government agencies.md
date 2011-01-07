@@ -18,7 +18,7 @@ Except as otherwise provided in section 2318 of this title, reimbursement shall 
 
 #### (e) Establishment of accounts
 
-In furnishing assistance under this chapter, accounts may be established on the books of any agency of the United States Government or, on terms and conditions approved by the Secretary of the Treasury, in banking institutions in the United States, (1) against which letters of commitment may be issued which shall constitute recordable obligations of the United States Government, and moneys due or to become due under such letters of commitment shall be assignable under the Assignment of Claims Act of 1940, as amended (second and third paragraphs of 31 U.S.C. 203 <sup>1</sup> and 41 U.S.C. 15), and (2) from which disbursements may be made to, or withdrawals may be made by, recipient countries or agencies, organizations, or persons upon presentation of contracts, invoices, or other appropriate documentation. Expenditure of funds which have been made available through accounts so established shall be accounted for on standard documentation required for expenditure of funds of the United States Government: <i>Provided,</i> That such expenditures for commodities, defense articles, military education and training, services (including defense services), or facilities procured outside the United States may be accounted for exclusively on such certification as may be prescribed in regulations approved by the Comptroller General of the United States.
+In furnishing assistance under this chapter, accounts may be established on the books of any agency of the United States Government or, on terms and conditions approved by the Secretary of the Treasury, in banking institutions in the United States, (1) against which letters of commitment may be issued which shall constitute recordable obligations of the United States Government, and moneys due or to become due under such letters of commitment shall be assignable under the Assignment of Claims Act of 1940, as amended <sup>1</sup> (second and third paragraphs of 31 U.S.C. 203 and 41 U.S.C. 15), and (2) from which disbursements may be made to, or withdrawals may be made by, recipient countries or agencies, organizations, or persons upon presentation of contracts, invoices, or other appropriate documentation. Expenditure of funds which have been made available through accounts so established shall be accounted for on standard documentation required for expenditure of funds of the United States Government: <i>Provided,</i> That such expenditures for commodities, defense articles, military education and training, services (including defense services), or facilities procured outside the United States may be accounted for exclusively on such certification as may be prescribed in regulations approved by the Comptroller General of the United States.
 
 #### (f) Credits made by Export-Import Bank of the United States
 
@@ -32,9 +32,9 @@ Any appropriation or account available to carry out provisions of subchapter I o
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (b), and (e), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsecs. (a), (b), and (e), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Assignment of Claims Act of 1940, as amended, referred to in subsec. (e), is act Oct. 9, 1940, ch. 779, 54 Stat. 1029, as amended, which added the second and third pars. to section 203 of former Title 31, Money and Finance, and the second and third pars. to section 15 of Title 41, Public Contracts. Section 203 of former Title 31 was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof as section 3727 of Title 31, Money and Finance. Such second and third pars. were restated in section 3727(b) (last sentence) and (c) of Title 31. The second and third pars. of section 15 of Title 41 were redesignated subsecs. (b) and (c), respectively, of that section by Pub. L. 103–355, title II, §2451, Oct. 13, 1994, 108 Stat. 3324.
+The Assignment of Claims Act of 1940, as amended, referred to in subsec. (e), means act Oct. 9, 1940, ch. 779, 54 Stat. 1029, which added the second and third pars. to section 203 of former Title 31, Money and Finance, and the second and third pars. to section 15 of former Title 41, Public Contracts. Section 203 of former Title 31 was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof as section 3727 of Title 31, Money and Finance. Such second and third pars. were restated in section 3727(b) (last sentence) and (c) of Title 31. Section 15 of former Title 41 was amended generally by Pub. L. 103–355, title II, §2451, Oct. 13, 1994, 108 Stat. 3324, and was repealed and restated as section 6305 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
 
 Section 1782(a) of this title, referred to in subsec. (f), was repealed by Pub. L. 87–195, pt. III, §642(a)(2), Sept. 4, 1961, 75 Stat. 460.
 
@@ -44,19 +44,19 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Amendments
 
-1989—Subsec. (d). Pub. L. 101–165 inserted at end of second sentence “(other than salaries of the Armed Forces of the United States and unfunded estimated costs of civilian retirement and other benefits)”.
+<b>1989</b>—Subsec. (d). Pub. L. 101–165 inserted at end of second sentence “(other than salaries of the Armed Forces of the United States and unfunded estimated costs of civilian retirement and other benefits)”.
 
-1988—Subsec. (c). Pub. L. 100–690 inserted “or, in the case of services procured from the Department of Defense to carry out part VIII of subchapter I of this chapter, the amount of the additional costs incurred by the Department of Defense in providing such services,” after “at actual cost,”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–690 inserted “or, in the case of services procured from the Department of Defense to carry out part VIII of subchapter I of this chapter, the amount of the additional costs incurred by the Department of Defense in providing such services,” after “at actual cost,”.
 
-1976—Subsec. (a). Pub. L. 94–329, §106(b)(4)(A), inserted “military education and training” after “articles”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–329, §106(b)(4)(A), inserted “military education and training” after “articles”.
 
 Subsec. (b). Pub. L. 94–329, §106(b)(4)(B), substituted “defense articles, or military education and training” for “and defense articles”.
 
 Subsec. (e). Pub. L. 94–329, §106(b)(4)(A), inserted “military education and training” after “articles”.
 
-1968—Subsec. (d). Pub. L. 90–629 struck out references to sections 2342 and 2343 of this title in the exception provision.
+<b>1968</b>—Subsec. (d). Pub. L. 90–629 struck out references to sections 2342 and 2343 of this title in the exception provision.
 
-1967—Subsec. (d). Pub. L. 90–137 substituted reference to sections 2318, 2342, and 2343 for former reference to sections 2315 and 2318 of this title.
+<b>1967</b>—Subsec. (d). Pub. L. 90–137 substituted reference to sections 2318, 2342, and 2343 for former reference to sections 2315 and 2318 of this title.
 
 #### Change of Name
 

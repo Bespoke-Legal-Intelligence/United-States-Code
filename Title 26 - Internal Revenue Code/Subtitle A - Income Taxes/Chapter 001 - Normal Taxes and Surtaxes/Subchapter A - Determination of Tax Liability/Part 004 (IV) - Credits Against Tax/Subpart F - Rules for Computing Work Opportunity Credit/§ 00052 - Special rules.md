@@ -40,7 +40,7 @@ Under regulations prescribed by the Secretary, in the case of—
 
 > rules similar to the rules provided in subsections (e) and (h) of section 46 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply in determining the amount of the credit under this subpart.
 
-(Added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 143; amended Pub. L. 95–600, title III, §321(c)(1), Nov. 6, 1978, 92 Stat. 2835; Pub. L. 96–222, title I, §103(a)(5), Apr. 1, 1980, 94 Stat. 209; Pub. L. 97–354, §5(a)(11), Oct. 19, 1982, 96 Stat.1693; Pub. L. 98–369, div. A, title IV, §474(p)(4)–(7), July 18, 1984, 98 Stat. 838; Pub. L. 101–508, title XI, §11813(b)(4), Nov. 5, 1990, 104 Stat. 1388–551; Pub. L. 104–188, title I, §1616(b)(2), Aug. 20, 1996, 110 Stat. 1856; Pub. L. 105–34, title XVI, §1601(b), Aug. 5, 1997, 111 Stat. 1087.)
+(Added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 143; amended Pub. L. 95–600, titleIII, §321(c)(1), Nov. 6, 1978, 92 Stat. 2835; Pub. L. 96–222, title I, §103(a)(5), Apr. 1, 1980, 94 Stat. 209; Pub. L. 97–354, §5(a)(11), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title IV, §474(p)(4)–(7), July 18, 1984, 98 Stat. 838; Pub. L. 101–508, title XI, §11813(b)(4), Nov. 5, 1990, 104 Stat. 1388–551; Pub. L. 104–188, title I, §1616(b)(2), Aug. 20, 1996, 110 Stat. 1856; Pub. L. 105–34, title XVI, §1601(b), Aug. 5, 1997, 111 Stat. 1087.)
 
 #### References in Text
 
@@ -48,13 +48,13 @@ The date of the enactment of the Revenue Reconciliation Act of 1990, referred to
 
 #### Amendments
 
-1997—Subsec. (c). Pub. L. 105–34 substituted “work opportunity credit” for “targeted jobs credit”.
+<b>1997</b>—Subsec. (c). Pub. L. 105–34 substituted “work opportunity credit” for “targeted jobs credit”.
 
-1996—Subsec. (e)(1) to (3). Pub. L. 104–188 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “an organization to which section 593 (relating to reserves for losses on loans) applies,”.
+<b>1996</b>—Subsec. (e)(1) to (3). Pub. L. 104–188 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “an organization to which section 593 (relating to reserves for losses on loans) applies,”.
 
-1990—Subsec. (e). Pub. L. 101–508 substituted “section 46 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990)” for “section 46” in concluding provisions.
+<b>1990</b>—Subsec. (e). Pub. L. 101–508 substituted “section 46 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990)” for “section 46” in concluding provisions.
 
-1984—Subsec. (a). Pub. L. 98–369, §474(p)(4), substituted “the credit (if any) determined under section 51(a) with respect to each such member” for “the credit (if any) allowable by section 44B to each such member”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §474(p)(4), substituted “the credit (if any) determined under section 51(a) with respect to each such member” for “the credit (if any) allowable by section 44B to each such member”.
 
 Subsec. (b)(2). Pub. L. 98–369, §474(p)(5), substituted “the credit (if any) determined under section 51(a)” for “the credit (if any) allowable by section 44B”.
 
@@ -62,11 +62,11 @@ Subsec. (c). Pub. L. 98–369, §474(p)(6), substituted “credit shall be allow
 
 Subsec. (d)(2). Pub. L. 98–369, §474(p)(7), substituted “, subject to section 38(c), a credit under section 38(a)” for “, subject to section 53 a credit under section 44B”.
 
-1982—Subsecs. (d) to (f). Pub. L. 97–354 struck out subsec. (d) relating to apportionment of credit among shareholders, and redesignated subsecs. (e) and (f) as (d) and (e), respectively.
+<b>1982</b>—Subsecs. (d) to (f). Pub. L. 97–354 struck out subsec. (d) relating to apportionment of credit among shareholders, and redesignated subsecs. (e) and (f) as (d) and (e), respectively.
 
-1980—Subsec. (f). Pub. L. 96–222 substituted “subsections (e) and (h) of section 46” for “section 46(e)”.
+<b>1980</b>—Subsec. (f). Pub. L. 96–222 substituted “subsections (e) and (h) of section 46” for “section 46(e)”.
 
-1978—Subsecs. (a), (b). Pub. L. 95–600, §321(c)(1)(B), substituted “proportionate share of the wages” for “proportionate contribution to the increase in unemployment insurance wages”.
+<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–600, §321(c)(1)(B), substituted “proportionate share of the wages” for “proportionate contribution to the increase in unemployment insurance wages”.
 
 Subsecs. (c), (d). Pub. L. 95–600, §321(c)(1)(A), struck out subsec. (c) which related to dispositions by an employer, and redesignated subsecs. (d) and (f) as (c) and (d), respectively.
 
@@ -80,7 +80,7 @@ Subsec. (j). Pub. L. 95–600, §321(c)(1)(A)(i), struck out subsec. (j) which r
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
 
 #### Effective Date of 1996 Amendment
 

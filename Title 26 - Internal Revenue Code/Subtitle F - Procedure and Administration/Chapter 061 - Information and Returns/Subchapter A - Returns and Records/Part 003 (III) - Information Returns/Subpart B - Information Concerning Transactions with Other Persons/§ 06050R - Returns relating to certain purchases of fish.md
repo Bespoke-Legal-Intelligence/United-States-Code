@@ -50,15 +50,15 @@ For purposes of this section:
 
 #### Amendments
 
-1998—Subsec. (b)(2)(A). Pub. L. 105–206 substituted a comma for the semicolon at end.
+<b>1998</b>—Subsec. (b)(2)(A). Pub. L. 105–206 substituted a comma for the semicolon at end.
 
-1997—Pub. L. 105–34, §1601(a)(2), provided that amendment made by section 1116(b)(1) of Pub. L. 104–188, shall be applied as if reference to chapter 68 were a reference to chapter 61. Section 1116(b)(1) of Pub. L. 104–188 directed amendment of subpart B of part III of subchapter A of chapter 68 by adding this section.
+<b>1997</b>—Pub. L. 105–34, §1601(a)(2), provided that amendment made by section 1116(b)(1) of Pub. L. 104–188, shall be applied as if reference to chapter 68 were a reference to chapter 61. Section 1116(b)(1) of Pub. L. 104–188 directed amendment of subpart B of part III of subchapter A of chapter 68 by adding this section.
 
 Subsec. (c)(1). Pub. L. 105–34, §1601(a)(1), substituted “name, address, and phone number of the information contact” for “name and address”.
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
 
 #### Effective Date
 

@@ -2,7 +2,7 @@
 
 In this part, the term “customs revenue function” means the following:
 
-&emsp;(1) Assessing and collecting customs duties (including antidumping and countervailing duties and duties imposed under safeguard provisions), excise taxes, fees, and penalties due on imported merchandise, including classifyingand valuing merchandise for purposes of such assessment.
+&emsp;(1) Assessing and collecting customs duties (including antidumping and countervailing duties and duties imposed under safeguard provisions), excise taxes, fees, and penalties due on imported merchandise, including classifying and valuing merchandise for purposes of such assessment.
 
 &emsp;(2) Processing and denial of entry of persons, baggage, cargo, and mail, with respect to the assessment and collection of import duties.
 

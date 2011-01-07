@@ -102,7 +102,7 @@ In implementing subsection (a)(9), a State may adopt a policy that includes maki
 
 &emsp;&emsp;(F) the requirements under section 1437(a)(9) of this title shall not apply with respect to a child who is receiving services in accordance with this subsection until not less than 90 days (and at the discretion of the parties to the conference, not more than 9 months) before the time the child will no longer receive those services; and
 
-&emsp;&emsp;(G) there will be a referral for evaluation for early intervention services of a child who experiences a substantiated case of trauma due to exposure to family violence (as defined in section 10421 of title 42).
+&emsp;&emsp;(G) there will be a referral for evaluation for early intervention services of a child who experiences a substantiated case of trauma due to exposure to family violence (as defined in section 10402 of title 42).
 
 #### (3) Reporting requirement
 
@@ -122,11 +122,15 @@ In implementing subsection (a)(9), a State may adopt a policy that includes maki
 
 &emsp;&emsp;Nothing in this subsection shall be construed to require a provider of services under this subchapter to provide a child served under this subchapter with a free appropriate public education.
 
-(Pub. L. 91–230, title VI, §635, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2747.)
+(Pub. L. 91–230, title VI, §635, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2747; amended Pub. L. 111–320, title II, §202(b), Dec. 20, 2010, 124 Stat. 3509.)
 
 #### Prior Provisions
 
 A prior section 1435, Pub. L. 91–230, title VI, §635, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 108, related to requirements for statewide system, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1435, Pub. L. 91–230, title VI, §635, Apr. 13, 1970, 84 Stat. 185; Pub. L. 98–199, §§3(b), 11, Dec. 2, 1983, 97 Stat. 1358, 1372; Pub. L. 99–457, title III, §311, Oct. 8, 1986, 100 Stat. 1169; Pub. L. 101–476, title IV, §405, Oct. 30, 1990, 104 Stat. 1135; Pub. L. 102–119, §§9(c)(2), 10, 25(a)(13), Oct. 7, 1991, 105 Stat. 595, 606, authorized appropriations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (c)(2)(G). Pub. L. 111–320 substituted “section 10402 of title 42” for “section 10421 of title 42”.
 

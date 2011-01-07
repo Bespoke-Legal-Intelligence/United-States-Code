@@ -42,7 +42,7 @@ For purposes of this section—
 
 #### (ii) Credits
 
-&emsp;&emsp;&emsp;The term “qualified revitalization expenditure” does not include any expenditure which the taxpayer may take into account in computing any credit allowable under this title unless the taxpayer electsto take the expenditure into account only for purposes of this section.
+&emsp;&emsp;&emsp;The term “qualified revitalization expenditure” does not include any expenditure which the taxpayer may take into account in computing any credit allowable under this title unless the taxpayer elects to take the expenditure into account only for purposes of this section.
 
 #### (c) Dollar limitation
 

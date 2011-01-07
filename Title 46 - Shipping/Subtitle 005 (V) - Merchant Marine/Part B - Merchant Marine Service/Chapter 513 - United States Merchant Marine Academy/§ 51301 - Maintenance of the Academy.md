@@ -1,8 +1,8 @@
 ### §51301. Maintenance of the Academy
 
-The Secretary of Transportation shall maintain the United States Merchant Marine Academy to provide instruction to individuals to prepare them for service in the merchant marine of the United States.
+The Secretary of Transportation shall maintain the United States Merchant Marine Academy as an institution of higher education to provide instruction to individuals to prepare them for service in the merchant marine of the United States, to conduct research with respect to maritime-related matters, and to provide such other appropriate academic support, assistance, training, and activities in accordance with the provisions of this chapter as the Secretary may authorize.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1570.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1570; Pub. L. 111–383, div. C, title XXXV, §3504, Jan. 7, 2011, 124 Stat. 4518.)
 
 Historical and Revision Notes
 
@@ -19,6 +19,10 @@ Historical and Revision Notes
 46 App.:1295b(a).
 
 June 29, 1936, ch. 858, title XIII, §1303(a), as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 1998.
+
+#### Amendments
+
+<b>2011</b>—Pub. L. 111–383 inserted “as an institution of higher education” after “Academy” and substituted “States, to conduct research with respect to maritime-related matters, and to provide such other appropriate academic support, assistance, training, and activities in accordance with the provisions of this chapter as the Secretary may authorize.” for “States.”
 
 #### Actions To Address Sexual Harassment and Violence at the United States Merchant Marine Academy
 
@@ -46,7 +50,7 @@ Matters To Be Specified in Policy.—The policy on sexual harassment and sexual 
 
 &emsp;“(4) any other sanction authorized to be imposed in a substantiated case of sexual harassment or sexual violence involving a cadet or other Academy personnel in rape, acquaintance rape, or any other criminal sexual offense, whether forcible or nonforcible; and
 
-&emsp;“(5) required training on the policy for all cadets and other Academy personnel, including the specifictraining required for personnel who process allegations of sexual harassment or sexual violence involving Academy personnel.
+&emsp;“(5) required training on the policy for all cadets and other Academy personnel, including the specific training required for personnel who process allegations of sexual harassment or sexual violence involving Academy personnel.
 
 “(c)
 

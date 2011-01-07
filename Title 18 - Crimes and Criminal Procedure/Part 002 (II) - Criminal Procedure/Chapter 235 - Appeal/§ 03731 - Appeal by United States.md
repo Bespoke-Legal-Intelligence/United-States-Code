@@ -28,17 +28,17 @@ This section \[section 58\] corrects a typographical error in the second paragra
 
 #### Amendments
 
-2002—First par. Pub. L. 107–273 inserted “, or any part thereof” after “as to any one or more counts”.
+<b>2002</b>—First par. Pub. L. 107–273 inserted “, or any part thereof” after “as to any one or more counts”.
 
-1994—Second par. Pub. L. 103–322 substituted “order of a district court” for “order of a district courts”.
+<b>1994</b>—Second par. Pub. L. 103–322 substituted “order of a district court” for “order of a district courts”.
 
-1986—Fifth par. Pub. L. 99–646 struck out fifth par. which read as follows: “Pending the prosecution and determination of the appeal in the foregoing instances, the defendant shall be released in accordance with chapter 207 of this title.”
+<b>1986</b>—Fifth par. Pub. L. 99–646 struck out fifth par. which read as follows: “Pending the prosecution and determination of the appeal in the foregoing instances, the defendant shall be released in accordance with chapter 207 of this title.”
 
-1984—First par. Pub. L. 98–473, §1206, inserted “or granting a new trial after verdict or judgment,” after “indictment or information”.
+<b>1984</b>—First par. Pub. L. 98–473, §1206, inserted “or granting a new trial after verdict or judgment,” after “indictment or information”.
 
 Third par. Pub. L. 98–473, §205, inserted third par. relating to appeals from a decision or order, entered by a district court of the United States, granting the release of a person charged with or convicted of an offense, or denying a motion for revocation of, or modification of the conditions of, a decision or order granting release.
 
-1971—First par. Pub. L. 91–644, §14(a)(1), enacted provision for appeal to a court of appeals from decision, judgment, or order of district court dismissing an indictment or information as to any one or more counts, except that no appeal shall lie where double jeopardy prohibits further prosecution.
+<b>1971</b>—First par. Pub. L. 91–644, §14(a)(1), enacted provision for appeal to a court of appeals from decision, judgment, or order of district court dismissing an indictment or information as to any one or more counts, except that no appeal shall lie where double jeopardy prohibits further prosecution.
 
 Second par. Pub. L. 91–644, §14(a)(1), enacted provision for appeal to a court of appeals from decision or order of district court suppressing or excluding evidence or requiring the return of seized property in a criminal proceeding, not made after the defendant has been put in jeopardy and before the verdict or finding on an indictment or information, if the United States attorney certifies to the district court that the appeal is not taken for purpose of delay and that the evidence is a substantial proof of a fact material in the proceeding.
 
@@ -50,9 +50,9 @@ Fourth par. Pub. L. 91–644, §14(a), in revising the provisions, had the effec
 
 Fifth par. Pub. L. 91–644, §14(a)(3), substituted as a fifth par. provision for liberal construction of this section for prior eleventh par. provision respecting remand of case by Supreme Court to court of appeals that should have been taken to such court and treatment of the court's jurisdiction to hear and determine the case as if the appeal were so taken in the first instance and for prior twelfth par. provision respecting certification of case to Supreme Court that should have been taken directly to such Court and treatment of the Court's jurisdiction to hear and determine the case as if the appeal were taken directly to such Court.
 
-1968—Pub. L. 90–351 inserted eighth par. providing for an appeal by the United States from decisions sustaining motions to suppress evidence and substituted in tenth par. “defendant shall be released in accordance with chapter 207 of this title” for “defendant shall be admitted to bail on his own recognizance”, respectively.
+<b>1968</b>—Pub. L. 90–351 inserted eighth par. providing for an appeal by the United States from decisions sustaining motions to suppress evidence and substituted in tenth par. “defendant shall be released in accordance with chapter 207 of this title” for “defendant shall be admitted to bail on his own recognizance”, respectively.
 
-1949—Act May 24, 1949, substituted “invalidity” for “validity” after “upon the” in second par., and conformed language of fifth, tenth, and eleventh pars. to the changed nomenclature of the courts.
+<b>1949</b>—Act May 24, 1949, substituted “invalidity” for “validity” after “upon the” in second par., and conformed language of fifth, tenth, and eleventh pars. to the changed nomenclature of the courts.
 
 #### Savings Provision
 

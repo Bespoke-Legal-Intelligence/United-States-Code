@@ -96,7 +96,7 @@ In this section, the term “firefighting personnel” means individuals, includ
 
 #### (iv) Other Federal support
 
-&emsp;&emsp;&emsp;A list of other sources of Federal funding received by the applicant. The Director, incoordination with the Secretary of Homeland Security, shall use such list to prevent unnecessary duplication of grant funds.
+&emsp;&emsp;&emsp;A list of other sources of Federal funding received by the applicant. The Director, in coordination with the Secretary of Homeland Security, shall use such list to prevent unnecessary duplication of grant funds.
 
 #### (v) Other information
 
@@ -242,7 +242,7 @@ Another section 33 of Pub. L. 93–498 was renumbered section 35 and is classifi
 
 #### Amendments
 
-2004—Subsec. (b)(1)(A). Pub. L. 108–375, §3602(1), inserted “throughout the Nation” after “personnel” and struck out “and” at end.
+<b>2004</b>—Subsec. (b)(1)(A). Pub. L. 108–375, §3602(1), inserted “throughout the Nation” after “personnel” and struck out “and” at end.
 
 Subsec. (b)(1)(B). Pub. L. 108–375, §3602(2), inserted “and firefighter safety research and development” after “fire prevention” and substituted “; and” for period at end.
 
@@ -280,7 +280,7 @@ Subsec. (d). Pub. L. 108–375, §3602(10), amended heading and text of subsec. 
 
 Subsec. (e)(1). Pub. L. 108–375, §3602(11), substituted “There are authorized to be appropriated for the purposes of this section $900,000,000 for fiscal year 2005, $950,000,000 for fiscal year 2006, and $1,000,000,000 for each of the fiscal years 2007 through 2009.” for “There are authorized to be appropriated $900,000,000 for each of the fiscal years 2002 through 2004 for the purposes of this section.”
 
-2003—Subsec. (b)(2). Pub. L. 108–169, §205(a)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows:
+<b>2003</b>—Subsec. (b)(2). Pub. L. 108–169, §205(a)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows:
 
 “(A)
 
@@ -308,7 +308,7 @@ Subsec. (e)(1). Pub. L. 108–169, §205(c)(2), inserted at end “Of the amount
 
 Subsec. (e)(2). Pub. L. 108–169, §205(a)(2), struck out “operate the office established under subsection (b)(2) of this section and” before “make grants and provide assistance under this section.”
 
-2001—Subsec. (b)(3). Pub. L. 107–107, §1061(b), (c), substituted “the grant funds for one or more of the following purposes:” for “the grant funds—” in introductory provisions, capitalized the initial letter of the first word of each of subpars. (A) to (N), substituted a period for the semicolon at end of each of subpars. (A) to (L) and a period for “; or” at end of subpar. (M), inserted “(including response to a terrorism incident or use of a weapon of mass destruction)” after “emergency response” in subpar. (B), substituted “, monitoring, and response to a terrorism incident or use of a weapon of mass destruction” for “and monitoring” in subpar. (H), and inserted “, including protective equipment to respond to a terrorism incident or the use of a weapon of mass destruction” after “equipment for firefighting personnel” in subpar. (I).
+<b>2001</b>—Subsec. (b)(3). Pub. L. 107–107, §1061(b), (c), substituted “the grant funds for one or more of the following purposes:” for “the grant funds—” in introductory provisions, capitalized the initial letter of the first word of each of subpars. (A) to (N), substituted a period for the semicolon at end of each of subpars. (A) to (L) and a period for “; or” at end of subpar. (M), inserted “(including response to a terrorism incident or use of a weapon of mass destruction)” after “emergency response” in subpar. (B), substituted “, monitoring, and response to a terrorism incident or use of a weapon of mass destruction” for “and monitoring” in subpar. (H), and inserted “, including protective equipment to respond to a terrorism incident or the use of a weapon of mass destruction” after “equipment for firefighting personnel” in subpar. (I).
 
 Subsec. (e). Pub. L. 107–107, §1061(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated for the purposes of this section amounts as follows:
 

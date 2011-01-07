@@ -38,17 +38,17 @@ The Commission shall have no authority with respect to the J. William Fulbright 
 
 #### Amendments
 
-2001—Pub. L. 107–77 reenacted this section. See Reenactment and Repeal of Certain Provisions of Law note below.
+<b>2001</b>—Pub. L. 107–77 reenacted this section. See Reenactment and Repeal of Certain Provisions of Law note below.
 
-1999—Pub. L. 106–113, §1000(a)(7) \[div. A, title IV, §404(c)(2)\], repealed this section. See Reenactment and Repeal of Certain Provisions of Law note below.
+<b>1999</b>—Pub. L. 106–113, §1000(a)(7) \[div. A, title IV, §404(c)(2)\], repealed this section. See Reenactment and Repeal of Certain Provisions of Law note below.
 
 Pub. L. 106–113, §1000(a)(7) \[div. A, title IV, §404(a), (c)(1)\], amended Pub. L. 105–277, §1334, generally (see 1998 Amendment note below) and reenacted this section. See Reenactment and Repeal of Certain Provisions of Law note below.
 
-1998—Pub. L. 105–277, §1334(b), which directed the repeal of this section, was omitted in the general amendment of Pub. L. 105–277, §1334, by Pub. L. 106–113, §1000(a)(7) \[div. A, title IV, §404(a)\]. See 1999 Amendment note above.
+<b>1998</b>—Pub. L. 105–277, §1334(b), which directed the repeal of this section, was omitted in the general amendment of Pub. L. 105–277, §1334, by Pub. L. 106–113, §1000(a)(7) \[div. A, title IV, §404(a)\]. See 1999 Amendment note above.
 
-1990—Pub. L. 101–246 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to redesignation of United States Advisory Commission on International Communication, Cultural and Educational Affairs as United States Advisory Commission on Public Diplomacy, appointment of members, appointment of staff director and staff personnel, date of section entering into force as being Jan. 20, 1989, and repeal of prohibition limiting membership of individuals from same political party.
+<b>1990</b>—Pub. L. 101–246 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to redesignation of United States Advisory Commission on International Communication, Cultural and Educational Affairs as United States Advisory Commission on Public Diplomacy, appointment of members, appointment of staff director and staff personnel, date of section entering into force as being Jan. 20, 1989, and repeal of prohibition limiting membership of individuals from same political party.
 
-1987—Pub. L. 100–204 amended section generally, revising and restating as subsecs. (a) to (d) provisions of former subsecs. (a) and (b).
+<b>1987</b>—Pub. L. 100–204 amended section generally, revising and restating as subsecs. (a) to (d) provisions of former subsecs. (a) and (b).
 
 #### Effective Date
 

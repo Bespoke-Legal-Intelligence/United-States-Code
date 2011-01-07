@@ -22,7 +22,7 @@ If any person takes any adverse action with respect to any consumer that is base
 
 #### (1) In general
 
-&emsp;Whenever credit for personal, family, or household purposes involving a consumer is denied or the charge for such credit is increased either wholly or partly because of information obtained from a person other than a consumer reporting agency bearing upon the consumer's credit worthiness,<sup>1</sup> credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living, the user of such information shall, within a reasonable period of time, upon the consumer's written request for the reasons for such adverse action received within sixty days after learning of such adverse action, disclose the nature of the information to the consumer. The user of such information shall clearly and accurately disclose to the consumer his right to make such written request at the time such adverse action is communicated to the consumer.
+&emsp;Whenever credit for personal, family, or household purposes involving a consumer is denied or the charge for such credit is increased either wholly or partly because of information obtained from a person other than a consumer reporting agency bearing upon the consumer's credit worthiness, credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living, the user of such information shall, within a reasonable period of time, upon the consumer's written request for the reasons for such adverse action received within sixty days after learning of such adverse action, disclose the nature of the information to the consumer. The user of such information shall clearly and accurately disclose to the consumer his right to make such written request at the time such adverse action is communicated to the consumer.
 
 #### (2) Duties of person taking certain actions based on information provided by affiliate
 
@@ -46,7 +46,7 @@ If any person takes any adverse action with respect to any consumer that is base
 
 &emsp;&emsp;&emsp;&emsp;(I) is furnished to the person taking the action by a person related by common ownership or affiliated by common corporate control to the person taking the action; and
 
-&emsp;&emsp;&emsp;&emsp;(II) bears on the credit worthiness,<sup>1</sup> credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living of the consumer; and
+&emsp;&emsp;&emsp;&emsp;(II) bears on the credit worthiness, credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living of the consumer; and
 
 &emsp;&emsp;&emsp;(ii) does not include—
 
@@ -66,9 +66,9 @@ No person shall be held liable for any violation of this section if he shows by 
 
 &emsp;&emsp;(A) information contained in the consumer's consumer report was used in connection with the transaction;
 
-&emsp;&emsp;(B) the consumer received the offer of credit or insurance because the consumer satisfied the criteria for credit worthiness <sup>2</sup>or insurability under which the consumer was selected for the offer;
+&emsp;&emsp;(B) the consumer received the offer of credit or insurance because the consumer satisfied the criteria for credit worthiness or insurability under which the consumer was selected for the offer;
 
-&emsp;&emsp;(C) if applicable, the credit or insurance may not be extended if, after the consumer responds to the offer, the consumer does not meet the criteria used to select the consumer for the offer or any applicable criteria bearing on credit worthiness <sup>2</sup> or insurability or does not furnish any required collateral;
+&emsp;&emsp;(C) if applicable, the credit or insurance may not be extended if, after the consumer responds to the offer, the consumer does not meet the criteria used to select the consumer for the offer or any applicable criteria bearing on credit worthiness or insurability or does not furnish any required collateral;
 
 &emsp;&emsp;(D) the consumer has a right to prohibit information contained in the consumer's file with any consumer reporting agency from being used in connection with any credit or insurance transaction that is not initiated by the consumer; and
 
@@ -80,11 +80,11 @@ No person shall be held liable for any violation of this section if he shows by 
 
 &emsp;&emsp;(A) include the address and toll-free telephone number of the appropriate notification system established under section 1681b(e) of this title; and
 
-&emsp;&emsp;(B) be presented in such format and in such type size and manner as to be simple and easy to understand, as established by the Commission, by rule, in consultation with the Federal banking agencies and the National Credit Union Administration.
+&emsp;&emsp;(B) be presented in such format and in such type size and manner as to be simpleand easy to understand, as established by the Commission, by rule, in consultation with the Federal banking agencies and the National Credit Union Administration.
 
 #### (3) Maintaining criteria on file
 
-&emsp;A person who makes an offer of credit or insurance to a consumer under a credit or insurance transaction described in paragraph (1) shall maintain on file the criteria used to select the consumer to receive the offer, all criteria bearing on credit worthiness <sup>2</sup> or insurability, as applicable, that are the basis for determining whether or not to extend credit or insurance pursuant to the offer, and any requirement for the furnishing of collateral as a condition of the extension of credit or insurance, until the expiration of the 3-year period beginning on the date on which the offer is made to the consumer.
+&emsp;A person who makes an offer of credit or insurance to a consumer under a credit or insurance transaction described in paragraph (1) shall maintain on file the criteria used to select the consumer to receive the offer, all criteria bearing on credit worthiness or insurability, as applicable, that are the basis for determining whether or not to extend credit or insurance pursuant to the offer, and any requirement for the furnishing of collateral as a condition of the extension of credit or insurance, until the expiration of the 3-year period beginning on the date on which the offer is made to the consumer.
 
 #### (4) Authority of Federal agencies regarding unfair or deceptive acts or practices not affected
 
@@ -122,11 +122,27 @@ No person shall be held liable for any violation of this section if he shows by 
 
 &emsp;Guidelines established pursuant to paragraph (1) shall not be inconsistent with the policies and procedures required under section 5318(<i>l</i>) of title 31.
 
+#### (4) Definitions
+
+&emsp;As used in this subsection, the term “creditor”—
+
+&emsp;&emsp;(A) means a creditor, as defined in section 1691a of this title, that regularly and in the ordinary course of business—
+
+&emsp;&emsp;&emsp;(i) obtains or uses consumer reports, directly or indirectly, in connection with a credit transaction;
+
+&emsp;&emsp;&emsp;(ii) furnishes information to consumer reporting agencies, as described in section 1681s–2 of this title, in connection with a credit transaction; or
+
+&emsp;&emsp;&emsp;(iii) advances funds to or on behalf of a person, based on an obligation of the person to repay the funds or repayable from specific property pledged by or on behalf of the person;
+
+&emsp;&emsp;(B) does not include a creditor described in subparagraph (A)(iii) that advances funds on behalf of a person for expenses incidental to a service provided by the creditor to that person; and
+
+&emsp;&emsp;(C) includes any other type of creditor, as defined in that section 1691a of this title, as the agency described in paragraph (1) having authority over that creditor may determine appropriate by rule promulgated by that agency, based on a determination that such creditor offers or maintains accounts that are subject to a reasonably foreseeable risk of identity theft.
+
 #### (f) Prohibition on sale or transfer of debt caused by identity theft
 
 #### (1) In general
 
-&emsp;No person shall sell, transfer for consideration, or place for collection a debt that suchperson has been notified under section 1681c–2 of this title has resulted from identity theft.
+&emsp;No person shall sell, transfer for consideration, or place for collection a debt that such person has been notified under section 1681c–2 of this title has resulted from identity theft.
 
 #### (2) Applicability
 
@@ -218,11 +234,59 @@ If a person acting as a debt collector (as that term is defined in subchapter V 
 
 &emsp;&emsp;This section shall be enforced exclusively under section 1681s of this title by the Federal agencies and officials identified in that section.
 
-(Pub. L. 90–321, title VI, §615, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1133; amended Pub. L. 104–208, div. A, title II, §2411, Sept. 30, 1996, 110 Stat. 3009–443; Pub. L. 108–159, title I, §§114, 154(b), 155, title II, §213(a), title III, §311(a), title VIII, §811(h), Dec. 4, 2003, 117 Stat. 1960, 1967, 1978, 1988, 2012.)
+(Pub. L. 90–321, title VI, §615, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1133; amended Pub. L. 104–208, div. A, title II, §2411, Sept. 30, 1996, 110 Stat. 3009–443; Pub. L. 108–159, title I, §§114, 154(b), 155, title II, §213(a), title III, §311(a), title VIII, §811(h), Dec. 4, 2003, 117 Stat. 1960, 1967, 1978, 1988, 2012; Pub. L. 111–203, title X, §§1088(a)(2)(C), (7)–(9), 1100F, July 21, 2010, 124 Stat. 2087, 2088, 2112; Pub. L. 111–319, §2(a), Dec. 18, 2010, 124 Stat. 3457.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1088(a)(2)(C), (7)–(9), 1100F, 1100H, July 21, 2010, 124 Stat. 2087, 2088, 2112, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
+
+<i>(1) by striking “the Commission” each place that term appears, other than in subsection (e), and inserting “the Bureau”;</i>
+
+<i>(2) in subsection (a)—</i>
+
+<i>(A) by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively;</i>
+
+<i>(B) by inserting after paragraph (1) the following:</i>
+
+&emsp;<i>“(2) provide to the consumer written or electronic disclosure—</i>
+
+&emsp;&emsp;<i>“(A) of a numerical credit score as defined in section 1681g(f)(2)(A) of this title used by such person in taking any adverse action based in whole or in part on any information in a consumer report; and</i>
+
+&emsp;&emsp;<i>“(B) of the information set forth in subparagraphs (B) through (E) of section 1681g(f)(1) of this title;”; and</i>
+
+<i>(C) in paragraph (4) (as so redesignated), by striking “paragraph (2)” and inserting “paragraph (3)”;</i>
+
+<i>(3) in subsection (d)(2)(B), by striking “the Federal banking agencies” and inserting “the Federal Trade Commission, the Federal banking agencies,”;</i>
+
+<i>(4) in subsection (e)(1), by striking “and the Commission” and inserting “the Federal Trade Commission, the Commodity Futures Trading Commission, and the Securities and Exchange Commission”;</i>
+
+<i>(5) in subsection (h)(5)—</i>
+
+<i>(A) in subparagraph (C), by striking “; and” and inserting a semicolon;</i>
+
+<i>(B) in subparagraph (D), by striking the period and inserting “; and”; and</i>
+
+<i>(C) by inserting at the end the following:</i>
+
+&emsp;&emsp;<i>“(E) include a statement informing the consumer of—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) a numerical credit score as defined in section 1681g(f)(2)(A) of this title, used by such person in making the credit decision described in paragraph (1) based in whole or in part on any information in a consumer report; and</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) the information set forth in subparagraphs (B) through (E) of section 1681g(f)(1) of this title.”; and</i>
+
+<i>(6) in subsection (h)(6), by striking subparagraph (A) and inserting the following:</i>
+
+#### <i>“(A) Rules required</i>
+
+&emsp;&emsp;<i>“The Bureau shall prescribe rules to carry out this subsection.”</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
-2003—Subsec. (d)(2). Pub. L. 108–159, §213(a), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “A statement under paragraph (1) shall include the address and toll-free telephone number of the appropriate notification system established under section 1681b(e) of this title.”
+<b>2010</b>—Subsec. (e)(4). Pub. L. 111–319 added par. (4).
+
+<b>2003</b>—Subsec. (d)(2). Pub. L. 108–159, §213(a), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “A statement under paragraph (1) shall include the address and toll-free telephone number of the appropriate notification system established under section 1681b(e) of this title.”
 
 Subsec. (e). Pub. L. 108–159, §811(h), repealed Pub. L. 104–208, §2411(c). See 1996 Amendment note below.
 
@@ -234,7 +298,7 @@ Subsec. (g). Pub. L. 108–159, §155, added subsec. (g).
 
 Subsec. (h). Pub. L. 108–159, §311(a), added subsec. (h).
 
-1996—Subsec. (a). Pub. L. 104–208, §2411(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “Whenever credit or insurance for personal, family, or household purposes, or employment involving a consumer is denied or the charge for such credit or insurance is increased either wholly or partly because of information contained in a consumer report from a consumer reporting agency, the user of the consumer report shall so advise the consumer against whom such adverse action has been taken and supply the name and address of the consumer reporting agency making the report.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2411(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “Whenever credit or insurance for personal, family, or household purposes, or employment involving a consumer is denied or the charge for such credit or insurance is increased either wholly or partly because of information contained in a consumer report from a consumer reporting agency, the user of the consumer report shall so advise the consumer against whom such adverse action has been taken and supply the name and address of the consumer reporting agency making the report.”
 
 Subsec. (b). Pub. L. 104–208, §2411(e), inserted subsec. heading, designated existing provisions as par. (1) and inserted heading, and added par. (2).
 
@@ -243,6 +307,12 @@ Subsec. (c). Pub. L. 104–208, §2411(d), substituted “this section” for �
 Subsec. (d). Pub. L. 104–208, §2411(b), added subsec. (d).
 
 Subsec. (e). Pub. L. 104–208, §2411(c), which added subsec. (e) containing subsec. designation, but no heading or text, was repealed by Pub. L. 108–159, §811(h).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–319, §2(b), Dec. 18, 2010, 124 Stat. 3458, provided that: “The amendment made by this section \[amending this section\] shall become effective on the date of enactment of this Act \[Dec. 18, 2010\].”
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2003 Amendment
 
@@ -255,8 +325,4 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 #### Regulations
 
 Pub. L. 108–159, title II, §213(b), Dec. 4, 2003, 117 Stat. 1979, provided that: “Regulations required by section 615(d)(2) of the Fair Credit Reporting Act \[15 U.S.C. 1681m(d)(2)\], as amended by this section, shall be issued in final form not later than 1 year after the date of enactment of this Act \[Dec. 4, 2003\].”
-
-<i><sup>1</sup></i><i> So in original. Probably should be “creditworthiness,”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “creditworthiness”.</i>
 

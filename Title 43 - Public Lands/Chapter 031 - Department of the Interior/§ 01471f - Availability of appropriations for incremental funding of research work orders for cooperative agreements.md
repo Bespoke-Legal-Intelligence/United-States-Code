@@ -1,6 +1,6 @@
 ### §1471f. Availability of appropriations for incremental funding of research work orders for cooperative agreements
 
-Notwithstanding any other provision of law, in fiscal year 1995 and thereafter, appropriations made to the Department of the Interior in thistitle <sup>1</sup> or provided from other Federal agencies through reimbursable or other agreements pursuant to sections 1535 and 1536 of title 31 may be used to fund incrementally research work orders for cooperative agreements with colleges and universities, State agencies, and nonprofit organizations that overlap fiscal years: <i>Provided</i>, That such cooperative agreements shall contain a statement that “the obligation of funds for future incremental payments shall be subject to the availability of funds.”
+Notwithstanding any other provision of law, in fiscal year 1995 and thereafter, appropriations made to the Department of the Interior in this title <sup>1</sup> or provided from other Federal agencies through reimbursable or other agreements pursuant to sections 1535 and 1536 of title 31 may be used to fund incrementally research work orders for cooperative agreements with colleges and universities, State agencies, and nonprofit organizations that overlap fiscal years: <i>Provided</i>, That such cooperative agreements shall contain a statement that “the obligation of funds for future incremental payments shall be subject to the availability of funds.”
 
 (Pub. L. 103–332, title I, §115, Sept. 30, 1994, 108 Stat. 2519; Pub. L. 105–83, title I, §116, Nov. 14, 1997, 111 Stat. 1563.)
 
@@ -14,7 +14,7 @@ This title, referred to in text, is title I of Pub. L. 103–332, Sept. 30, 1994
 
 #### Amendments
 
-1997—Pub. L. 105–83 inserted “or provided from other Federal agencies through reimbursable or other agreements pursuant to sections 1535 and 1536 of title 31” after “in this title”.
+<b>1997</b>—Pub. L. 105–83 inserted “or provided from other Federal agencies through reimbursable or other agreements pursuant to sections 1535 and 1536 of title 31” after “in this title”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

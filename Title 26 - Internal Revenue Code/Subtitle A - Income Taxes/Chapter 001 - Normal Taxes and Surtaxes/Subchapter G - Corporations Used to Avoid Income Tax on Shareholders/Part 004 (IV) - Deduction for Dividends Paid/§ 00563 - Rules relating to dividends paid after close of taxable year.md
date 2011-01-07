@@ -20,15 +20,15 @@ For the purpose of applying section 562(a), with respect to distributions under 
 
 #### Amendments
 
-2004—Subsecs. (c), (d). Pub. L. 108–357 redesignated subsec. (d) as (c), substituted “subsection (a) or (b)” for “subsection (a), (b), or (c)”, and struck out former subsec. (c) which related to foreign personal holding company tax.
+<b>2004</b>—Subsecs. (c), (d). Pub. L. 108–357 redesignated subsec. (d) as (c), substituted “subsection (a) or (b)” for “subsection (a), (b), or (c)”, and struck out former subsec. (c) which related to foreign personal holding company tax.
 
-1989—Subsec. (c). Pub. L. 101–239, §7401(b)(1), added subsec. (c). Former subsec. (c) redesignated (d).
+<b>1989</b>—Subsec. (c). Pub. L. 101–239, §7401(b)(1), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 101–239, §7401(b)(2), substituted “subsection (a), (b), or (c)” for “subsection (a) or (b)”.
 
 Pub. L. 101–239, §7401(b)(1), redesignated former subsec. (c) as (d).
 
-1969—Subsec. (b)(2). Pub. L. 91–172 substituted “20 percent” for “10 percent”.
+<b>1969</b>—Subsec. (b)(2). Pub. L. 91–172 substituted “20 percent” for “10 percent”.
 
 #### Effective Date of 2004 Amendment
 

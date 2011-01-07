@@ -14,3 +14,4 @@
 - [&sect; 07217 - Commission oversight of the Board](%C2%A7%2007217%20-%20Commission%20oversight%20of%20the%20Board.md)
 - [&sect; 07218 - Accounting standards](%C2%A7%2007218%20-%20Accounting%20standards.md)
 - [&sect; 07219 - Funding](%C2%A7%2007219%20-%20Funding.md)
+- [&sect; 07220 - Definitions](%C2%A7%2007220%20-%20Definitions.md)

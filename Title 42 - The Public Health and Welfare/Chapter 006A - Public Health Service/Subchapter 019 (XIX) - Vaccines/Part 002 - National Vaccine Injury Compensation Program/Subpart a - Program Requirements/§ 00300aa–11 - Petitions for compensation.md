@@ -94,17 +94,17 @@ A prior section 2111 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-2000—Subsec. (c)(1)(D)(iii). Pub. L. 106–310 added cl. (iii).
+<b>2000</b>—Subsec. (c)(1)(D)(iii). Pub. L. 106–310 added cl. (iii).
 
-1998—Subsec. (c)(1)(D)(i). Pub. L. 105–277 struck out “and incurred unreimbursable expenses due in whole or in part to such illness, disability, injury, or condition in an amount greater than $1,000” before “, or (ii) died”.
+<b>1998</b>—Subsec. (c)(1)(D)(i). Pub. L. 105–277 struck out “and incurred unreimbursable expenses due in whole or in part to such illness, disability, injury, or condition in an amount greater than $1,000” before “, or (ii) died”.
 
-1993—Subsec. (a)(10). Pub. L. 103–43 added par. (10).
+<b>1993</b>—Subsec. (a)(10). Pub. L. 103–43 added par. (10).
 
-1992—Subsec. (a)(1), (2)(A)(i)(I). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” wherever appearing.
+<b>1992</b>—Subsec. (a)(1), (2)(A)(i)(I). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” wherever appearing.
 
-1991—Subsec. (a)(2)(A)(i), (ii). Pub. L. 102–168 realigned margins of cls. (i) and (ii).
+<b>1991</b>—Subsec. (a)(2)(A)(i), (ii). Pub. L. 102–168 realigned margins of cls. (i) and (ii).
 
-1990—Subsec. (a)(2)(A). Pub. L. 101–502, §5(a)(1), substituted “unless a petition has been filed, in accordance with section 300aa–16 of this title, for compensation under the Program for such injury or death and—” and cls. (i) and (ii) for “unless—
+<b>1990</b>—Subsec. (a)(2)(A). Pub. L. 101–502, §5(a)(1), substituted “unless a petition has been filed, in accordance with section 300aa–16 of this title, for compensation under the Program for such injury or death and—” and cls. (i) and (ii) for “unless—
 
 &emsp;“(i) a petition has been filed, in accordance with section 300aa–16 of this title, for compensation under the Program for such injury or death,
 
@@ -120,7 +120,7 @@ Subsec. (d). Pub. L. 101–502, §5(a)(4), struck out “(d) except as provided 
 
 Subsec. (e). Pub. L. 101–502, §5(a)(5), substituted “(e) Schedule” for “(e)(e) Schedule”.
 
-1989—Subsec. (a)(1). Pub. L. 101–239, §6601(c)(1), substituted “filing of a petition containing the matter prescribed in subsection (c) of this section” for “filing of a petition” and inserted at end “The clerk of the United States Claims Court shall immediately forward the filed petition to the chief special master for assignment to a special master under section 300aa–12(d)(1) of this title.”
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–239, §6601(c)(1), substituted “filing of a petition containing the matter prescribed in subsection (c) of this section” for “filing of a petition” and inserted at end “The clerk of the United States Claims Court shall immediately forward the filed petition to the chief special master for assignment to a special master under section 300aa–12(d)(1) of this title.”
 
 Subsec. (a)(2)(A)(i). Pub. L. 101–239, §6601(c)(2), struck out “under subsection (b) of this section” after “section 300aa–16 of this title,”.
 
@@ -146,7 +146,7 @@ Subsec. (d). Pub. L. 101–239, §6601(c)(6)(B), redesignated former subsec. (c)
 
 Subsec. (e). Pub. L. 101–239, §6601(c)(6)(D), redesignated former subsec. (c)(3) as subsec. (e), expanded margin to full measure, inserted subsec. designation and heading, and substituted “The petitioner shall submit in accordance with a schedule set by the special master assigned to the petition” for “appropriate”.
 
-1987—Subsec. (a)(1). Pub. L. 100–203, §4307(1), which directed that par. (1) be amended by substituting “with the United States Claims Court” for “with the United States district court for the district in which the petitioner resides or the injury or death occurred”, was executed making the substitution for “with the United States district court for the district in which the petitioner resides or in which the injury or death occurred”, as the probable intent of Congress.
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–203, §4307(1), which directed that par. (1) be amended by substituting “with the United States Claims Court” for “with the United States district court for the district in which the petitioner resides or the injury or death occurred”, was executed making the substitution for “with the United States district court for the district in which the petitioner resides or in which the injury or death occurred”, as the probable intent of Congress.
 
 Subsec. (a)(2)(A). Pub. L. 100–203, §4306, substituted “vaccine administrator or manufacturer” for “vaccine manufacturer”.
 

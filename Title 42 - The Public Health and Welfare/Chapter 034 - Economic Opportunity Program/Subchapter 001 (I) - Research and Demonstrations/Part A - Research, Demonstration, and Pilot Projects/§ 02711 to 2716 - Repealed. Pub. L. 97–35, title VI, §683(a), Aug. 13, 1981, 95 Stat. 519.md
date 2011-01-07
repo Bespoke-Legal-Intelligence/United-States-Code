@@ -14,7 +14,7 @@ A prior section 2713, Pub. L. 83–452, title I, §103, Aug. 20, 1964, 78 Stat. 
 
 Section 2714, Pub. L. 88–452, title I, §104, as added Pub. L. 93–644, §4, Jan. 4, 1975, 88 Stat. 2293; amended Pub. L. 94–341, §2(a)(5), July 6, 1976, 90 Stat. 803, related to public announcement of projects.
 
-A prior section 2714, Pub. L. 88–452, title I, §104, Aug. 20, 1964, 78 Stat. 509; Pub. L. 80–253, §§4, 5, Oct. 9, 1965, 79 Stat. 973; Pub. L. 89–794, title I, §§103–108, Nov. 8, 1966, 80 Stat. 1452, 1453; Pub. L. 90–222, title I, §101, Dec. 23, 1967, 81 Stat. 673, provided for screening and selection of applicants for Job Corps, prior to repeal by Pub. L. 93–203, title VI, §614, Dec. 28, 1973, 87 Stat. 883.
+A prior section 2714, Pub. L. 88–452, title I, §104, Aug. 20, 1964, 78 Stat. 509; Pub. L. 80–253, §§4, 5, Oct. 9, 1965,79 Stat. 973; Pub. L. 89–794, title I, §§103–108, Nov. 8, 1966, 80 Stat. 1452, 1453; Pub. L. 90–222, title I, §101, Dec. 23, 1967, 81 Stat. 673, provided for screening and selection of applicants for Job Corps, prior to repeal by Pub. L. 93–203, title VI, §614, Dec. 28, 1973, 87 Stat. 883.
 
 Section 2715, Pub. L. 88–452, title I, §105, as added Pub. L. 93–644, §4, Jan. 4, 1975, 88 Stat. 2294, prohibited Federal control over curriculum, etc.
 

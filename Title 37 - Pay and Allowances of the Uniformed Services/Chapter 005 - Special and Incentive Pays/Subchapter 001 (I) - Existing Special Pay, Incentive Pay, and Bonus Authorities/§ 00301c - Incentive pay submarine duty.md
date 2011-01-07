@@ -46,9 +46,9 @@ Applicability to Certain Navy Reserve Duty.—Under regulations prescribed by th
 
 #### Amendments
 
-2006—Subsec. (d). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve” in heading and text.
+<b>2006</b>—Subsec. (d). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve” in heading and text.
 
-2001—Subsec. (a). Pub. L. 107–107, §617(b)(1), inserted heading and substituted “prescribed pursuant to subsection (b)” for “set forth in subsection (b)” in pars. (1), (2), and (4).
+<b>2001</b>—Subsec. (a). Pub. L. 107–107, §617(b)(1), inserted heading and substituted “prescribed pursuant to subsection (b)” for “set forth in subsection (b)” in pars. (1), (2), and (4).
 
 Subsec. (b). Pub. L. 107–107, §617(a), inserted heading and amended text generally, substituting provisions relating to the Secretary's discretion in prescribing submarine duty incentive pay rates for tables specifying those rates.
 
@@ -56,11 +56,11 @@ Subsec. (c). Pub. L. 107–107, §617(b)(2), inserted heading.
 
 Subsec. (d). Pub. L. 107–107, §617(b)(3), inserted heading and substituted “prescribed pursuant to subsection (b)” for “authorized by subsection (b)”.
 
-1991—Pub. L. 102–25 struck out “of this section” and “of this subsection” wherever appearing in subsecs. (a) and (d).
+<b>1991</b>—Pub. L. 102–25 struck out “of this section” and “of this subsection” wherever appearing in subsecs. (a) and (d).
 
 Subsec. (b). Pub. L. 102–190, in table pertaining to warrant officers, added provisions relating to pay grade W–5 in two places.
 
-1990—Subsec. (e). Pub. L. 101–510 struck out subsec. (e) which read as follows: “The Secretary of Defense shall report to the Congress before January 1 each year—
+<b>1990</b>—Subsec. (e). Pub. L. 101–510 struck out subsec. (e) which read as follows: “The Secretary of Defense shall report to the Congress before January 1 each year—
 
 &emsp;“(1) the number of enlisted members and officers, by pay grade, who, during the preceding fiscal year, had at least 12 but less than 18 years of submarine service and who were entitled to continuous monthly submarine duty incentive pay under subsection (a) of this section; and
 
@@ -68,9 +68,9 @@ Subsec. (b). Pub. L. 102–190, in table pertaining to warrant officers, added p
 
 > The Secretary shall include in each such report the number of enlisted members and the number of officers in each category referred to in the first sentence of this subsection, the number of such officers who, during the fiscal year concerned, were performing operational submarine duties, who were performing submarine command staff duties, and who were not performing submarine duties at all.”
 
-1988—Subsec. (a). Pub. L. 100–456 made clarifying amendment to directory language of Pub. L. 100–180, §623(a). See 1987 Amendment note below.
+<b>1988</b>—Subsec. (a). Pub. L. 100–456 made clarifying amendment to directory language of Pub. L. 100–180, §623(a). See 1987 Amendment note below.
 
-1987—Subsec. (a)(1), (2). Pub. L. 100–180, §623(a), as amended by Pub. L. 100–456, substituted “naval service” for “Navy”.
+<b>1987</b>—Subsec. (a)(1), (2). Pub. L. 100–180, §623(a), as amended by Pub. L. 100–456, substituted “naval service” for “Navy”.
 
 Subsec. (a)(5). Pub. L. 100–26 substituted “In this section:” for “For the purposes of this section, the term—”, inserted “The term” at beginning of subpars. (A) and (B), and substituted “operational” for “Operational” and “submarine” for “Submarine” in subpars. (A) and (B), respectively.
 
@@ -78,9 +78,9 @@ Subsec. (b). Pub. L. 100–224 struck out, preceding table for enlisted members,
 
 Pub. L. 100–180, §623(b), amended tables generally so as to reflect an upward adjustment in monthly incentive pay rates for enlisted members, commissioned officers, and warrant officers of all pay grades and years of service encompassed by tables.
 
-1985—Subsec. (b). Pub. L. 99–145 amended table pertaining to commissioned officers generally, so as to reflect an upward adjustment in monthly incentive pay rates for persons in pay grades O–6 through O–3 having over 18, over 20, over 22, and over 26 years of service, respectively.
+<b>1985</b>—Subsec. (b). Pub. L. 99–145 amended table pertaining to commissioned officers generally, so as to reflect an upward adjustment in monthly incentive pay rates for persons in pay grades O–6 through O–3 having over 18, over 20, over 22, and over 26 years of service, respectively.
 
-1981—Subsec. (a)(1). Pub. L. 97–39, §701(a), substituted provisions set forth as cls. (A) to (C) respecting conditions for continuous monthly submarine duty incentive pay for provisions relating to payment of incentive pay for the frequent and regular performance of operational submarine duty required by orders.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–39, §701(a), substituted provisions set forth as cls. (A) to (C) respecting conditions for continuous monthly submarine duty incentive pay for provisions relating to payment of incentive pay for the frequent and regular performance of operational submarine duty required by orders.
 
 Subsec. (a)(2). Pub. L. 97–39, §701(a), substituted provisions relating to payment of submarine duty incentive pay for provisions relating to restrictions on payment of submarine duty incentive pay.
 

@@ -10,9 +10,9 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-1992—Pub. L. 102–484 renumbered section 2418 of this title as this section.
+<b>1992</b>—Pub. L. 102–484 renumbered section 2418 of this title as this section.
 
-1990—Pub. L. 101–510 renumbered section 2417 of this title as this section.
+<b>1990</b>—Pub. L. 101–510 renumbered section 2417 of this title as this section.
 
-1986—Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661, renumbered section 2416 of this title as this section.
+<b>1986</b>—Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661, renumbered section 2416 of this title as this section.
 

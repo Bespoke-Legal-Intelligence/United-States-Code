@@ -24,5 +24,5 @@ Guidelines established under subsection (a) of this section shall be published a
 
 #### Amendments
 
-1992—Subsec. (a)(5), (6). Pub. L. 102–550 added pars. (5) and (6).
+<b>1992</b>—Subsec. (a)(5), (6). Pub. L. 102–550 added pars. (5) and (6).
 

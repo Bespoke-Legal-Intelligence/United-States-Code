@@ -6,9 +6,9 @@ The Chief of the Veterinary Corps of the Army shall be appointed from among offi
 
 #### Amendments
 
-2006—Pub. L. 109–163 substituted colon for semicolon in section catchline.
+<b>2006</b>—Pub. L. 109–163 substituted colon for semicolon in section catchline.
 
-2003—Pub. L. 108–136 inserted “shall be appointed from among officers of the Veterinary Corps. The Chief of the Veterinary Corps” after “Army”.
+<b>2003</b>—Pub. L. 108–136 inserted “shall be appointed from among officers of the Veterinary Corps. The Chief of the Veterinary Corps” after “Army”.
 
 #### Effective Date of 2003 Amendment
 

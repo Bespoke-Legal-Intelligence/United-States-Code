@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;From amounts appropriated under subsection (h) for a fiscal year, the Secretary is authorized to award grants to four Stateeducational agencies to enable the State educational agencies to pay the administrative expenses incurred in participating in the demonstration program under this section by carrying out a demonstration project under which eighth grade students described in subsection (b)(1)(B) receive a commitment early in the students’ academic careers to receive a Federal Pell Grant.
+&emsp;&emsp;From amounts appropriated under subsection (h) for a fiscal year, the Secretary is authorized to award grants to four State educational agencies to enable the State educational agencies to pay the administrative expenses incurred in participating in the demonstration program under this section by carrying out a demonstration project under which eighth grade students described in subsection (b)(1)(B) receive a commitment early in the students’ academic careers to receive a Federal Pell Grant.
 
 #### (B) Equal amounts
 
@@ -190,7 +190,7 @@ Each of the four demonstration projects assisted under this section shall meet t
 
 &emsp;&emsp;&emsp;(ii) Federal Pell Grants, including—
 
-&emsp;&emsp;&emsp;&emsp;(I) the maximum Federal Pell Grant for each award year;
+&emsp;&emsp;&emsp;&emsp;(I) the Federal Pell Grant amount, determined under section 1070a(b)(2)(A) of this title, for which a student may be eligible for each award year;
 
 &emsp;&emsp;&emsp;&emsp;(II) when and how to apply for a Federal Pell Grant; and
 
@@ -206,7 +206,7 @@ Each of the four demonstration projects assisted under this section shall meet t
 
 #### (3) Cohorts
 
-&emsp;The information described in paragraph (2)(C) shall be provided annually to the twosuccessive cohorts of students described in subsection (b)(1)(A) for the duration of the students’ participation in the demonstration project.
+&emsp;The information described in paragraph (2)(C) shall be provided annually to the two successive cohorts of students described in subsection (b)(1)(A) for the duration of the students’ participation in the demonstration project.
 
 #### (4) Reservation
 
@@ -220,7 +220,7 @@ A State educational agency shall use grant funds received under this section onl
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
-(Pub. L. 89–329, title VIII, §894, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3440; amended Pub. L. 111–39, title VIII, §801(14), July 1, 2009, 123 Stat. 1956.)
+(Pub. L. 89–329, title VIII, §894, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3440; amended Pub. L. 111–39, title VIII, §801(14), July 1, 2009, 123 Stat. 1956; Pub. L. 111–152, title II, §2101(b)(6), Mar. 30, 2010, 124 Stat. 1073.)
 
 #### References in Text
 
@@ -232,7 +232,13 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(1
 
 #### Amendments
 
-2009—Subsec. (b)(2). Pub. L. 111–39 substituted “commonly known as the ‘Family Educational Rights and Privacy Act of 1974’ ” for “the Family Educational Rights and Privacy Act of 1974”.
+<b>2010</b>—Subsec. (f)(2)(C)(ii)(I). Pub. L. 111–152 substituted “the Federal Pell Grant amount, determined under section 1070a(b)(2)(A) of this title, for which a student may be eligible for each award year” for “the maximum Federal Pell Grant for each award year”.
+
+<b>2009</b>—Subsec. (b)(2). Pub. L. 111–39 substituted “commonly known as the ‘Family Educational Rights and Privacy Act of 1974’ ” for “the Family Educational Rights and Privacy Act of 1974”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–152 effective July 1, 2010, see section 2101(c) of Pub. L. 111–152, set out as a note under section 1070a of this title.
 
 #### Effective Date of 2009 Amendment
 

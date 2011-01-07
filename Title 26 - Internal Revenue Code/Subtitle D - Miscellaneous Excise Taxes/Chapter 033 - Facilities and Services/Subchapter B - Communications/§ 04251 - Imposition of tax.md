@@ -60,13 +60,13 @@ For purposes of subsections (a) and (b), in the case of communications services 
 
 #### Amendments
 
-1998—Subsec. (d)(3). Pub. L. 105–206 substituted “any other similar arrangement” for “other similar arrangement”.
+<b>1998</b>—Subsec. (d)(3). Pub. L. 105–206 substituted “any other similar arrangement” for “other similar arrangement”.
 
-1997—Subsec. (d). Pub. L. 105–34 added subsec. (d).
+<b>1997</b>—Subsec. (d). Pub. L. 105–34 added subsec. (d).
 
-1990—Subsec. (b)(2). Pub. L. 101–508 substituted “percent.” for “percent; except that, with respect to amounts paid pursuant to bills first rendered after 1990, the applicable percentage shall be zero.”
+<b>1990</b>—Subsec. (b)(2). Pub. L. 101–508 substituted “percent.” for “percent; except that, with respect to amounts paid pursuant to bills first rendered after 1990, the applicable percentage shall be zero.”
 
-1987—Subsec. (b)(2). Pub. L. 100–203 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘applicable percentage’ means—
+<b>1987</b>—Subsec. (b)(2). Pub. L. 100–203 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘applicable percentage’ means—
 
 <b>“With respect to amount paid pur-</b>
 
@@ -84,11 +84,11 @@ For purposes of subsections (a) and (b), in the case of communications services 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-1986—Subsec. (b)(2). Pub. L. 99–514 inserted “1985,” after “1984,” in table.
+<b>1986</b>—Subsec. (b)(2). Pub. L. 99–514 inserted “1985,” after “1984,” in table.
 
-1984—Subsec. (b)(2). Pub. L. 98–369 substituted “During 1983, 1984, 1986, or 1987” for “During 1983, 1984, or 1985” in item relating to an applicable percentage of 3 and substituted “During 1988 or thereafter” for “During 1986 or thereafter” in item relating to an applicable percentage of 0.
+<b>1984</b>—Subsec. (b)(2). Pub. L. 98–369 substituted “During 1983, 1984, 1986, or 1987” for “During 1983, 1984, or 1985” in item relating to an applicable percentage of 3 and substituted “During 1988 or thereafter” for “During 1986 or thereafter” in item relating to an applicable percentage of 0.
 
-1982—Subsec. (a). Pub. L. 97–248 added subsec. (a) and struck out former subsec. (a) which provided that there was a tax on communication services specified as local telephone service, toll telephone service, and teletypewriter exchange service, directed that the tax was to be paid by the person paying for such services, and designated the tax as the percentage of the amount paid for the services as set out in the following table:
+<b>1982</b>—Subsec. (a). Pub. L. 97–248 added subsec. (a) and struck out former subsec. (a) which provided that there was a tax on communication services specified as local telephone service, toll telephone service, and teletypewriter exchange service, directed that the tax was to be paid by the person paying for such services, and designated the tax as the percentage of the amount paid for the services as set out in the following table:
 
 &nbsp;
 
@@ -107,23 +107,23 @@ For purposes of subsections (a) and (b), in the case of communications services 
 
 Subsec. (b). Pub. L. 97–248 added subsec. (b) and struck out former subsec. (b) which provided that the tax imposed by former subsec. (a) would not apply to amounts paid pursuant to bills first rendered on or after January 1, 1985.
 
-1981—Subsec. (a)(2). Pub. L. 97–34, §821(a), substituted “During 1982, 1983, or 1984” for “During 1982” in table.
+<b>1981</b>—Subsec. (a)(2). Pub. L. 97–34, §821(a), substituted “During 1982, 1983, or 1984” for “During 1982” in table.
 
 Subsec. (b). Pub. L. 97–34, §821(b), extended termination date to Jan. 1, 1985, from Jan. 1, 1983.
 
-1980—Subsec. (a)(2). Pub. L. 96–499, §1151(a), substituted “During 1980 or 1981” for “During 1980” and “During 1982” for “During 1981” in table.
+<b>1980</b>—Subsec. (a)(2). Pub. L. 96–499, §1151(a), substituted “During 1980 or 1981” for “During 1980” and “During 1982” for “During 1981” in table.
 
 Subsec. (b). Pub. L. 96–499, §1151(b), substituted “1983” for “1982”.
 
-1970—Subsec. (a)(2). Pub. L. 91–614, §201(b)(1), substituted provisions providing the rate of tax on amounts paid for communication services pursuant to bills first rendered before Jan. 1, 1973 is 10% of such amount, amounts paid pursuant to bills first rendered during 1973 is 9% of such amount, during 1974 is 8% of such amount, during 1975 is 7% of such amount, during 1976 is 6% of such amount, during 1977 is 5% of such amount, during 1978 is 4% of such amount, during 1979 is 3% of such amount, during 1980 is 2% of such amount, and during 1981 is 1% of such amount for provisions providing the rate of tax on amounts paid for communication services pursuant to bills first rendered before Jan. 1, 1971 is 10% of such amount, amounts paid pursuant to bills first rendered during 1971 is 5% of such amount, during 1972 is 3% of such amount, and during 1973 is 1% of such amount.
+<b>1970</b>—Subsec. (a)(2). Pub. L. 91–614, §201(b)(1), substituted provisions providing the rate of tax on amounts paid for communication services pursuant to bills first rendered before Jan. 1, 1973 is 10% of such amount, amounts paid pursuant to bills first rendered during 1973 is 9% of such amount, during 1974 is 8% of such amount, during 1975 is 7% of such amount, during 1976 is 6% of such amount, during 1977 is 5% of such amount, during 1978 is 4% of such amount, during 1979 is 3% of such amount, during 1980 is 2% of such amount, and during 1981 is 1% of such amount for provisions providing the rate of tax on amounts paid for communication services pursuant to bills first rendered before Jan. 1, 1971 is 10% of such amount, amounts paid pursuant to bills first rendered during 1971 is 5% of such amount, during 1972 is 3% of such amount, and during 1973 is 1% of such amount.
 
 Subsec. (b). Pub. L. 91–614, §201(b)(2), substituted “January 1, 1982” for “January 1, 1974”.
 
-1969—Subsec. (a)(2). Pub. L. 91–172, §702(b)(1), increased rate of tax on amounts paid for communication services from 5 to 10 percent during 1970, from 3 to 5 percent during 1971, from 1 to 3 percent during 1972, and imposed a 1 percent tax on amounts paid for communication services during 1973.
+<b>1969</b>—Subsec. (a)(2). Pub. L. 91–172, §702(b)(1), increased rate of tax on amounts paid for communication services from 5 to 10 percent during 1970, from 3 to 5 percent during 1971, from 1 to 3 percent during 1972, and imposed a 1 percent tax on amounts paid for communication services during 1973.
 
 Subsec. (b). Pub. L. 91–172, §702(b)(2), substituted “January 1, 1974” for “January 1, 1973”.
 
-1968—Subsec. (a)(2). Pub. L. 90–364, §105(b)(1), extended from April 30, 1968, through the end of 1969 the period for the imposition of the 10 percent rate, thereby increasing the rate from 1 percent to 10 percent for the period May 1, 1968, through the end of 1968 and from 0 percent to 10 percent for 1969, and imposed a rate of 5 percent during 1970, a rate of 3 percent during 1971, and a rate of 1 percent during 1972.
+<b>1968</b>—Subsec. (a)(2). Pub. L. 90–364, §105(b)(1), extended from April 30, 1968, through the end of 1969 the period for the imposition of the 10 percent rate, thereby increasing the rate from 1 percent to 10 percent for the period May 1, 1968, through the end of 1968 and from 0 percent to 10 percent for 1969, and imposed a rate of 5 percent during 1970, a rate of 3 percent during 1971, and a rate of 1 percent during 1972.
 
 Pub. L. 90–285 substituted “April 30, 1968” and “May 1, 1968” for “March 31, 1968” and “April 1, 1968” respectively.
 
@@ -133,33 +133,33 @@ Subsec. (c). Pub. L. 90–364, §105(b)(2), extended provisions calling for trea
 
 Pub. L. 90–285 substituted “March 1, 1968,” for “February 1, 1968”, “May 1, 1968” for “April 1, 1968”, “April 30, 1968” for “March 31, 1968”, and “February 29, 1968” for “January 31, 1968”.
 
-1966—Subsec. (a)(2). Pub. L. 89–368, §202(a)(1), increased to 10 percent the schedule of rates for tax imposed for the period up to April 1, 1968, and authorized a reduction to 1 percent for the period after March 31, 1968, and before January 1, 1969.
+<b>1966</b>—Subsec. (a)(2). Pub. L. 89–368, §202(a)(1), increased to 10 percent the schedule of rates for tax imposed for the period up to April 1, 1968, and authorized a reduction to 1 percent for the period after March 31, 1968, and before January 1, 1969.
 
 Subsec. (c). Pub. L. 89–368, §202(a)(2), conformed subsection to rate reduction schedule alterations by providing that, in the case of communications services rendered before February 1, 1968, for which a bill has not been rendered before April 1, 1968, the bill shall be treated as having been first rendered on March 31, 1968, and, in the case of services rendered after January 31, 1968, and before November 1, 1968, for which a bill has not been rendered before January 1, 1969, the bill shall be treated as having first been rendered on December 31, 1968.
 
-1965—Subsec. (a). Pub. L. 89–44, §302, substituted local telephone service, toll telephone service, and teletypewriter exchange service, for general telephone service, toll telephone service, telegraph service, teletypewriter exchange service, wire mileage service, and wire and equipment service as the taxed services and reduced the rate of tax to 3 percent during 1966, 2 percent during 1967, and 1 percent during 1968.
+<b>1965</b>—Subsec. (a). Pub. L. 89–44, §302, substituted local telephone service, toll telephone service, and teletypewriter exchange service, for general telephone service, toll telephone service, telegraph service, teletypewriter exchange service, wire mileage service, and wire and equipment service as the taxed services and reduced the rate of tax to 3 percent during 1966, 2 percent during 1967, and 1 percent during 1968.
 
 Subsec. (b). Pub. L. 89–44, §302, added subsec. (b). Pub. L. 89–44, §701(b)(2)(B), repealed former subsec. (b), as in effect June 30, 1965, effective on and after July 1, 1965. Such repealed provision had called for termination of the tax on general telephone service as of July 1, 1965.
 
 Subsec. (c). Pub. L. 89–44, §302, added subsec. (c).
 
-1964—Subsec. (b)(2). Pub. L. 88–348 substituted “July 1, 1965” for “July 1, 1964” in two places.
+<b>1964</b>—Subsec. (b)(2). Pub. L. 88–348 substituted “July 1, 1965” for “July 1, 1964” in two places.
 
-1963—Subsec. (b)(2). Pub. L. 88–52 substituted “July 1, 1964” for “July 1, 1963” in two places.
+<b>1963</b>—Subsec. (b)(2). Pub. L. 88–52 substituted “July 1, 1964” for “July 1, 1963” in two places.
 
-1962—Subsec. (b)(2). Pub. L. 87–508 substituted “July 1, 1963” for “July 1, 1962” in two places.
+<b>1962</b>—Subsec. (b)(2). Pub. L. 87–508 substituted “July 1, 1963” for “July 1, 1962” in two places.
 
-1961—Subsec. (b)(2). Pub. L. 87–72 substituted “July 1, 1962” for “July 1, 1961” in two places.
+<b>1961</b>—Subsec. (b)(2). Pub. L. 87–72 substituted “July 1, 1962” for “July 1, 1961” in two places.
 
-1960—Subsec. (b)(2). Pub. L. 86–564 substituted “July 1, 1961” for “July 1, 1960” in two places.
+<b>1960</b>—Subsec. (b)(2). Pub. L. 86–564 substituted “July 1, 1961” for “July 1, 1960” in two places.
 
-1959—Pub. L. 86–75 designated former provisions as subsec. (a) and added subsec. (b).
+<b>1959</b>—Pub. L. 86–75 designated former provisions as subsec. (a) and added subsec. (b).
 
-1958—Pub. L. 85–859 redesignated “local telephone service” as “general telephone service”, “long distance telephone service” as “toll telephone service” and “leased wire, teletypewriter or talking circuit special service” as “teletypewriter exchange service” and “wire mileage service”.
+<b>1958</b>—Pub. L. 85–859 redesignated “local telephone service” as “general telephone service”, “long distance telephone service” as “toll telephone service” and “leased wire, teletypewriter or talking circuit special service” as “teletypewriter exchange service” and “wire mileage service”.
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -185,7 +185,7 @@ Section 202(c) of Pub. L. 89–368 provided that: “The amendments made by subs
 
 #### Effective Date of 1965 Amendment
 
-Section 701(b)(2)(A) of Pub. L. 89–44 provided that: “The amendments made by section 302 \[amending this section and sections 4252, 4253, and 4254 of this title\] (relating to communication services) shall apply to amounts paid pursuant to bills rendered on or after January 1, 1966, for services rendered on or after such date. In the case of amounts paid pursuant to bills rendered on or after January 1, 1966, for services which were rendered before such date and for which no previous bill was rendered, such amendments shall apply except with respect to such services as were rendered more than 2 months before such date. In the case of services rendered more than 2 months before such date, the provisions of subchapter B of chapter 33 of the Code in effect at the time such services were rendered shall apply to the amounts paid for such services.”
+Section 701(b)(2)(A) of Pub. L. 89–44 provided that: “The amendments made by section 302 \[amending this section and sections 4252, 4253, and 4254 of this title\] (relating to communication services) shall apply to amounts paid pursuant to bills rendered on or after January 1, 1966, for services rendered on or after such date. In the case of amounts paid pursuant to bills rendered on or after January 1, 1966, for services which were rendered before such date and for which no previous bill was rendered, such amendments shall apply except with respect to such services as were rendered more than 2 months before such date. In the case ofservices rendered more than 2 months before such date, the provisions of subchapter B of chapter 33 of the Code in effect at the time such services were rendered shall apply to the amounts paid for such services.”
 
 #### Effective Date of 1958 Amendment
 

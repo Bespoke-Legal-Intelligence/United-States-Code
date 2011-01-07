@@ -22,7 +22,7 @@ Provisions almost identical with those in subsec. (c) of this section were conta
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–182, §640(1), inserted “(including regulations establishing procedures for the issuance of binding rulings prior to the entry of the merchandise concerned)” after “law”, substituted “ports of entry. The Secretary” for “ports of entry, and”, inserted “or classifying” after “appraising” in two places, and substituted “any port, and may direct any customs officer at any port to review entries of merchandise filed at any other port” for “such port”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–182, §640(1), inserted “(including regulations establishing procedures for the issuance of binding rulings prior to the entry of the merchandise concerned)” after “law”, substituted “ports of entry. The Secretary” for “ports of entry, and”, inserted “or classifying” after “appraising” in two places, and substituted “any port, and may direct any customs officer at any port to review entries of merchandise filed at any other port” for “such port”.
 
 Subsec. (b). Pub. L. 103–182, §640(2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “No ruling or decision once made by the Secretary of the Treasury, giving construction to any law imposing customs duties, shall be reversed or modified adversely to the United States, by the same or a succeeding Secretary, except in concurrence with an opinion of the Attorney General recommending the same, a final decision of the United States Court of International Trade, or a final decision of a binational panel pursuant to article 1904 of the United States-Canada Free-Trade Agreement.”
 
@@ -30,11 +30,11 @@ Pub. L. 103–182, §412(a), which directed the insertion of “the North Americ
 
 Subsec. (c). Pub. L. 103–182, §640(2), redesignated subsec. (c) as (b).
 
-1988—Subsec. (b). Pub. L. 100–449 substituted “a final decision of the United States Court of International Trade, or a final decision of a binational panel pursuant to article 1904 of the United States-Canada Free-Trade Agreement” for “or a final decision of the United States Court of International Trade”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–449 substituted “a final decision of the United States Court of International Trade, or a final decision of a binational panel pursuant to article 1904 of the United States-Canada Free-Trade Agreement” for “or a final decision of the United States Court of International Trade”.
 
-1980—Subsec. (b). Pub. L. 96–417 redesignated the United States Customs Court as the United States Court of International Trade.
+<b>1980</b>—Subsec. (b). Pub. L. 96–417 redesignated the United States Customs Court as the United States Court of International Trade.
 
-1970—Subsec. (a). Pub. L. 91–271 substituted “customs officer” for “appraiser, deputy appraiser, assistant appraiser, or examiner of merchandise”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–271 substituted “customs officer” for “appraiser, deputy appraiser, assistant appraiser, or examiner of merchandise”.
 
 #### Effective Date of 1993 Amendment
 

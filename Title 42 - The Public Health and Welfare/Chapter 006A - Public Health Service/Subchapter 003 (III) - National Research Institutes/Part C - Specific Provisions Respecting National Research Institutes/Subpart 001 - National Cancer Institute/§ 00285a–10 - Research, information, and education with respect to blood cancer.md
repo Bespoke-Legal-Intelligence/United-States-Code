@@ -20,7 +20,7 @@
 
 &emsp;The Agency determined by the Secretary under paragraph (1) shall carry out this subsection in collaboration with private health organizations that have national education and patient assistance programs on blood-related cancers.
 
-(July 1, 1944, ch. 373, title IV, §417D, as added Pub. L. 107–172, §3, May 14, 2002, 116 Stat. 541;amended Pub. L. 109–482, title I, §103(b)(17), Jan. 15, 2007, 120 Stat. 3688.)
+(July 1, 1944, ch. 373, title IV, §417D, as added Pub. L. 107–172, §3, May 14, 2002, 116 Stat. 541; amended Pub. L. 109–482, title I, §103(b)(17), Jan. 15, 2007, 120 Stat. 3688.)
 
 #### Codification
 
@@ -28,7 +28,7 @@ Section 3 of Pub. L. 107–172, which directed that section 417D (this section) 
 
 #### Amendments
 
-2007—Subsec. (a)(3). Pub. L. 109–482, §103(b)(17)(A), struck out heading and text of par. (3). Text read as follows: “For the purpose of carrying out this subsection, there is authorized to be appropriated such sums as may be necessary for fiscal year 2002 and each subsequent fiscal year. Such authorizations of appropriations are in addition to other authorizations of appropriations that are available for such purpose.”
+<b>2007</b>—Subsec. (a)(3). Pub. L. 109–482, §103(b)(17)(A), struck out heading and text of par. (3). Text read as follows: “For the purpose of carrying out this subsection, there is authorized to be appropriated such sums as may be necessary for fiscal year 2002 and each subsequent fiscal year. Such authorizations of appropriations are in addition to other authorizations of appropriations that are available for such purpose.”
 
 Subsec. (b)(3). Pub. L. 109–482, §103(b)(17)(B), struck out heading and text of par. (3). Text read as follows: “For the purpose of carrying out this subsection, there is authorized to be appropriated such sums as may be necessary for fiscal year 2002 and each subsequent fiscal year. Such authorizations of appropriations are in addition to other authorizations of appropriations that are available for such purpose.”
 

@@ -62,7 +62,7 @@ Grant funds under this section shall be used for one or more of the following:
 
 #### (e) Application
 
-Each eligible partnership that desires a grant under this section shall submit an application tothe Secretary at such time, in such manner, and containing such information as the Secretary may require.
+Each eligible partnership that desires a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (f) Priority
 
@@ -84,7 +84,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### Amendments
 
-2009—Subsec. (b)(3). Pub. L. 111–39 inserted period at end.
+<b>2009</b>—Subsec. (b)(3). Pub. L. 111–39 inserted period at end.
 
 #### Effective Date of 2009 Amendment
 

@@ -12,7 +12,7 @@
 
 (3) For travel consuming less than a full day, the payment prescribed by regulation shall be allocated in such manner as the Administrator may prescribe.
 
-(b)(1) Under regulations prescribed pursuant to section 5707 of this title, an employee who is described in subsection (a) of this section and whoabandons the travel assignment prior to its completion—
+(b)(1) Under regulations prescribed pursuant to section 5707 of this title, an employee who is described in subsection (a) of this section and who abandons the travel assignment prior to its completion—
 
 &emsp;(A) because of an incapacitating illness or injury which is not due to the employee's own misconduct is entitled to reimbursement for expenses of transportation to the employee's designated post of duty, or home or regular place of business, as the case may be, and to payments pursuant to subsection (a) of this section until that location is reached; or
 

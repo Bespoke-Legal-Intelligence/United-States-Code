@@ -12,27 +12,27 @@ Provisions similar to those comprising this section were contained in former sec
 
 #### Amendments
 
-2002—Pub. L. 107–288, §5(a)(1)(B), substituted “job and job training intensive services program,” for “job and job training counseling service program,”.
+<b>2002</b>—Pub. L. 107–288, §5(a)(1)(B), substituted “job and job training intensive services program,” for “job and job training counseling service program,”.
 
 Pub. L. 107–288, §5(b)(1), substituted “and veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized” for “and veterans of the Vietnam era” and inserted before period “, including programs carried out by the Veterans’ Employment and Training Service to implement all efforts to ease the transition of servicemembers to civilian careers that are consistent with, or an outgrowth of, the military experience of the servicemembers”.
 
-1991—Pub. L. 102–83 renumbered section 2002 of this title as this section and substituted “4102A” for “2002A”.
+<b>1991</b>—Pub. L. 102–83 renumbered section 2002 of this title as this section and substituted “4102A” for “2002A”.
 
-1988—Pub. L. 100–323 inserted “and Training” after “for Veterans’ Employment” and substituted “Veterans’ Employment and Training Service” for “Veterans Employment Service”.
+<b>1988</b>—Pub. L. 100–323 inserted “and Training” after “for Veterans’ Employment” and substituted “Veterans’ Employment and Training Service” for “Veterans Employment Service”.
 
-1983—Pub. L. 98–160 substituted “an Assistant” for “a Assistant”.
+<b>1983</b>—Pub. L. 98–160 substituted “an Assistant” for “a Assistant”.
 
-1982—Pub. L. 97–306 inserted “and regulations” after “to this end policies”, and inserted “, with priority given to the needs of disabled veterans and veterans of the Vietnam era” after “opportunities”.
+<b>1982</b>—Pub. L. 97–306 inserted “and regulations” after “to this end policies”, and inserted “, with priority given to the needs of disabled veterans and veterans of the Vietnam era” after “opportunities”.
 
-1980—Pub. L. 96–466 struck out “Deputy” before “Assistant Secretary”.
+<b>1980</b>—Pub. L. 96–466 struck out “Deputy” before “Assistant Secretary”.
 
-1976—Pub. L. 94–502 inserted “by a Deputy Assistant Secretary of Labor for Veteran's Employment, established by section 2002A of this title,” after “promulgated and administered”.
+<b>1976</b>—Pub. L. 94–502 inserted “by a Deputy Assistant Secretary of Labor for Veteran's Employment, established by section 2002A of this title,” after “promulgated and administered”.
 
-1974—Pub. L. 93–508 substituted “eligible veterans and eligible persons” for “eligible veterans” and “to provide such veterans and persons” for “to provide such veterans”.
+<b>1974</b>—Pub. L. 93–508 substituted “eligible veterans and eligible persons” for “eligible veterans” and “to provide such veterans and persons” for “to provide such veterans”.
 
-1972—Pub. L. 92–540 substituted provisions stating the Congressional declaration of purpose, for provisions relating to the assignment of veterans’ employment representatives. See section 2003 of this title.
+<b>1972</b>—Pub. L. 92–540 substituted provisions stating the Congressional declaration of purpose, for provisions relating to the assignment of veterans’ employment representatives. See section 2003 of this title.
 
-1966—Pub. L. 89–358 inserted “or of service after January 31, 1955” after “veterans of any war” in cls. (3) and (5); “or of service after January 31, 1955” after “veteran of any war” in first sentence; and “or of service after January 31, 1955,” after “veterans of any war” in cls. (1) and (4), wherever appearing, respectively.
+<b>1966</b>—Pub. L. 89–358 inserted “or of service after January 31, 1955” after “veterans of any war” in cls. (3) and (5); “or of service after January 31, 1955” after “veteranof any war” in first sentence; and “or of service after January 31, 1955,” after “veterans of any war” in cls. (1) and (4), wherever appearing, respectively.
 
 #### Effective Date of 2002 Amendment
 

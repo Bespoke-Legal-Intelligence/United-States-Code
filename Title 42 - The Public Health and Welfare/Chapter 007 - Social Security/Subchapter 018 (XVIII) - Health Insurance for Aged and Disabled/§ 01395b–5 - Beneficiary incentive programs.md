@@ -6,7 +6,7 @@
 
 #### (1) Establishment of program
 
-&emsp;Not later than 3 months after August 21, 1996, the Secretary shall establish a program under which the Secretary shall encourage individuals to report to the Secretary information on individuals and entities who are engaging in or who have engaged in acts or omissions which constitute grounds for the imposition of a sanction under section 1320a–7, 1320a–7a, or 1320a–7b of this title, or who have otherwise engaged in fraud and abuse against the Medicare program under this subchapter for which there is a sanction provided under law. The program shall discourage provisionof, and not consider, information which is frivolous or otherwise not relevant or material to the imposition of such a sanction.
+&emsp;Not later than 3 months after August 21, 1996, the Secretary shall establish a programunder which the Secretary shall encourage individuals to report to the Secretary information on individuals and entities who are engaging in or who have engaged in acts or omissions which constitute grounds for the imposition of a sanction under section 1320a–7, 1320a–7a, or 1320a–7b of this title, or who have otherwise engaged in fraud and abuse against the Medicare program under this subchapter for which there is a sanction provided under law. The program shall discourage provision of, and not consider, information which is frivolous or otherwise not relevant or material to the imposition of such a sanction.
 
 #### (2) Payment of portion of amounts collected
 
@@ -34,5 +34,5 @@ Section was enacted as part of the Health Insurance Portability and Accountabili
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–33 struck out heading and text of subsec. (a). Text read as follows: “The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall provide an explanation of benefits under the Medicare program under this subchapter with respect to each item or service for which payment may be made under the program which is furnished to an individual, without regard to whether or not a deductible or coinsurance may be imposed against the individual with respect to the item or service.”
+<b>1997</b>—Subsec. (a). Pub. L. 105–33 struck out heading and text of subsec. (a). Text read as follows: “The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall provide an explanation of benefits under the Medicare program under this subchapter with respect to each item or service for which payment may be made under the program which is furnished to an individual, without regard to whether or not a deductible or coinsurance may be imposed against the individual with respect to the item or service.”
 

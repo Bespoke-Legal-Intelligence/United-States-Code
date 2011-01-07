@@ -10,13 +10,13 @@ A prior section 872, acts June 25, 1948, ch. 646, 62 Stat. 925; May 24, 1949, ch
 
 #### Amendments
 
-1986—Pub. L. 99–466 renumbered section 873 of this title as this section.
+<b>1986</b>—Pub. L. 99–466 renumbered section 873 of this title as this section.
 
-1980—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
+<b>1980</b>—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a)of Pub. L. 96–417, set out as a note under section 251 of this title.
+Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of this title.
 
 #### Savings Provision
 

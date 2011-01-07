@@ -18,13 +18,13 @@
 
 #### (2) Rule of construction
 
-&emsp;Nothing in paragraph (1) or in paragraphs (1) and (2) of subsection (e) shall be construed to preclude a health insurance issuer from adjusting premium or contribution amounts for an individual on the basis of a manifestation of a disease or disorder in that individual, or in a family member of such individual where such family member is covered under the policy that covers such individual. In such case,the manifestation of a disease or disorder in one individual cannot also be used as genetic information about other individuals covered under the policy issued to such individual and to further increase premiums or contribution amounts.
+&emsp;Nothing in paragraph (1) or in paragraphs (1) and (2) of subsection (e) shall be construed to preclude a health insurance issuer from adjusting premium or contribution amounts for an individual on the basis of a manifestation of a disease or disorder in that individual, or in a family member of such individual where such family member is covered under the policy that covers such individual. In such case, the manifestation of a disease or disorder in one individual cannot also be used as genetic information about other individuals covered under the policy issued to such individual and to further increase premiums or contribution amounts.
 
 #### (c) Prohibition on genetic information as preexisting condition
 
 #### (1) In general
 
-&emsp;A health insurance issuer offering health insurance coverage in the individual market may not, on the basis of genetic information, impose any preexisting condition exclusion (as defined in section 300gg(b)(1)(A) of this title) with respect to such coverage.
+&emsp;A health insurance issuer offering health insurance coverage in the individual market may not, on the basis of genetic information, impose any preexisting condition exclusion (as defined in section 2701(b)(1)(A)) <sup>1</sup> with respect to such coverage.
 
 #### (2) Rule of construction
 
@@ -44,7 +44,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Nothing in paragraph (1) shall be construed to preclude a health insurance issuer offering health insurance coverage in the individual market from obtaining and using the results of a genetic test in making a determination regarding payment (as such term is defined for the purposes of applying the regulations promulgated by the Secretary under part C of title XI of the Social Security Act \[42 U.S.C. 1320d et seq.\] and section 264 of the Health Insurance Portability and Accountability Act of 1996, as may be revised from time to time) consistent with subsection <sup>1</sup> (a) and (c).
+&emsp;&emsp;Nothing in paragraph (1) shall be construed to preclude a health insurance issuer offering health insurance coverage in the individual market from obtaining and using the results of a genetic test in making a determination regarding payment (as such term is defined for the purposes of applying the regulations promulgated by the Secretary under part C of title XI of the Social Security Act \[42 U.S.C. 1320d et seq.\] and section 264 of the Health Insurance Portability and Accountability Act of 1996, as may be revised from time to time) consistent with subsection <sup>2</sup> (a) and (c).
 
 #### (B) Limitation
 
@@ -88,11 +88,13 @@ Any reference in this part to genetic information concerning an individual or fa
 
 &emsp;(1) with respect to such an individual or family member of an individual who is a pregnant woman, include genetic information of any fetus carried by such pregnant woman; and
 
-&emsp;(2) with respect to an individual or family member utilizing an assisted reproductive technology, include genetic information ofany embryo legally held by the individual or family member.
+&emsp;(2) with respect to an individual or family member utilizing an assisted reproductive technology, include genetic information of any embryo legally held by the individual or family member.
 
 (July 1, 1944, ch. 373, title XXVII, §2753, as added Pub. L. 110–233, title I, §102(b)(1)(B), May 21, 2008, 122 Stat. 893.)
 
 #### References in Text
+
+Section 2701, referred to in subsec. (c)(1), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
 
 The Social Security Act, referred to in subsec. (d)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part C of title XI of the Act is classified generally to part C (§1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
@@ -104,7 +106,9 @@ Another section 2753 of act July 1, 1944, is classified to section 300gg–54 of
 
 #### Effective Date
 
-Section applicable, with respect to group health plans and health insurance coverage offered in connection with group health plans, for plan years beginning after the date that is one year after May 21, 2008, and, with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market, after the date that is one year after May 21, 2008, see section 102(d)(2) of Pub. L. 110–233, set out as an Effective Date of 2008 Amendment note under section 300gg–1 of this title.
+Section applicable, with respect to group health plans and health insurance coverage offered in connection with group health plans, for plan years beginning after the date that is one year after May 21, 2008, and, with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market, after the date that is one year after May 21, 2008, see section 102(d)(2) of Pub. L. 110–233, set out as an Effective Date of 2008 Amendment note under section 300gg–21 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsections”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “subsections”.</i>
 

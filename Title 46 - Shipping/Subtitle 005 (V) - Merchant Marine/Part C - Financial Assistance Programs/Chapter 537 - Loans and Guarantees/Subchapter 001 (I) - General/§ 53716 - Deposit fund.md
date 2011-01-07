@@ -34,7 +34,7 @@ Use of income.—Subject to paragraph (3), the Secretary or Administrator may pa
 
 Retention against default.—The Secretary or Administrator may retain and offset any or all of the cash of an obligor in the fund, and any income realized thereon, as part of the Secretary's or Administrator's recovery against the obligor in case of a default by the obligor on an obligation.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1616; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(H), (3), Jan. 6, 2006, 119 Stat. 3555;Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (11), (b), Jan. 28, 2008, 122 Stat. 598.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1616; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(H), (3), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (11), (b), Jan. 28, 2008, 122 Stat. 598.)
 
 Historical and Revision Notes
 
@@ -56,9 +56,9 @@ In subsection (a), the word “established” is omitted for consistency with ot
 
 #### Amendments
 
-2008—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(H), (3). See 2006 Amendment note below.
+<b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(H), (3). See 2006 Amendment note below.
 
 Pub. L. 110–181, §3522(a)(10)(B), (11), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(H), (3), into this section by inserting “or Administrator” after “Secretary” wherever appearing, except the second place appearing in subsec. (c), and inserting “or Administrator's” after “Secretary's” in subsec. (d)(3). See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-2006—Pub. L. 109–163, §3507(a)(1)(H), (3), which directed the amendment of section 1279b of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes and Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–163, §3507(a)(1)(H), (3), which directed the amendment of section 1279b of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes and Historical and Revision notes above.
 

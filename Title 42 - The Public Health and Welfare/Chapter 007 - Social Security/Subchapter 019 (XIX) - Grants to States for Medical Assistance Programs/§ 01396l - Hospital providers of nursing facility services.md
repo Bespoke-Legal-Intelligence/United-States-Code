@@ -12,7 +12,7 @@
 
 #### Amendments
 
-1987—Pub. L. 100–203, §4211(h)(9)(A), substituted “nursing facility services” for “skilled nursing and intermediate care services” in section catchline.
+<b>1987</b>—Pub. L. 100–203, §4211(h)(9)(A), substituted “nursing facility services” for “skilled nursing and intermediate care services” in section catchline.
 
 Subsec. (a). Pub. L. 100–203, §4211(h)(9)(B), substituted “nursing facility services” for “skilled nursing facility services and intermediate care facility services” and inserted “and which, with respect to the provision of such services, meets the requirements of subsections (b) through (d) of section 1396r of this title” before period at end.
 
@@ -20,7 +20,7 @@ Subsec. (b)(1). Pub. L. 100–203, §4211(h)(9)(C), substituted “nursing facil
 
 Subsec. (b)(3). Pub. L. 100–203, §4211(h)(9)(D), substituted “nursing facility services” for “skilled nursing or intermediate care facility services”.
 
-1984—Subsec. (b)(1). Pub. L. 98–369, §2369(a)(1), substituted “Except as provided in paragraph (3), payment” for “Payment”.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–369, §2369(a)(1), substituted “Except as provided in paragraph (3), payment” for “Payment”.
 
 Subsec. (b)(3). Pub. L. 98–369, §2369(a)(2), added par. (3).
 

@@ -10,7 +10,7 @@
 
 (c) The Secretary may not designate a health-care facility as a location for a center under subsection (a) unless the peer review panel established under subsection (d) has determined under that subsection that the proposal submitted by such facility as a location for a new center under subsection (a) is among those proposals which have met the highest competitive standards of scientific and clinical merit, and the Secretary (upon the recommendation of the Under Secretary for Health) determines that the facility has (or may reasonably be anticipated to develop) each of the following:
 
-&emsp;(1) An arrangement with an accredited medical school which provides education and training in geriatrics and with which such facility is affiliated under which residents receive education and training in geriatrics through regular rotation through such center and through nursing home, extended care, or domiciliary units of such facility so as to provide such residents with training in the diagnosis and treatment of chronic diseases of older individuals, including cardiopulmonary conditions, senile dementia, and neurological disorders.
+&emsp;(1) An arrangement with an accredited medical school which provides education and training in geriatrics and with which such facility is affiliated under which residents receive education and training in geriatrics through regular rotation through such center and through nursing home, extended care, or domiciliary units of such facility so as to provide such residents with training in the diagnosis andtreatment of chronic diseases of older individuals, including cardiopulmonary conditions, senile dementia, and neurological disorders.
 
 &emsp;(2) An arrangement under which nursing or allied health personnel receive training and education in geriatrics through regular rotation through nursing home, extended care, or domiciliary units of such facility.
 
@@ -30,7 +30,7 @@
 
 (e) Before providing funds for the operation of any such center at a health-care facility other than a health-care facility designated under subsection (b)(1), the Secretary shall assure that the center at each facility designated under such subsection is receiving adequate funding to enable such center to function effectively in the areas of geriatric research, education, and clinical activities.
 
-(f) There are authorized to be appropriated such sums as may be necessary for the support of the research and education activities of thecenters established pursuant to subsection (a). The Under Secretary for Health shall allocate to such centers from other funds appropriated generally for the Department medical services account and medical and prosthetics research account, as appropriate, such amounts as the Under Secretary for Health determines appropriate.
+(f) There are authorized to be appropriated such sums as may be necessary for the support of the research and education activities of the centers established pursuant to subsection (a). The Under Secretary for Health shall allocate to such centers from other funds appropriated generally for the Department medical services account and medical and prosthetics research account, as appropriate, such amounts as the Under Secretary for Health determines appropriate.
 
 (g) Activities of clinical and scientific investigation at each center established under subsection (a) shall be eligible to compete for the award of funding from funds appropriated for the Department medical and prosthetics research account and shall receive priority in the award of funding from such account insofar as funds are awarded to projects for research in geriatrics and gerontology.
 
@@ -44,15 +44,15 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(4), is Pub. L. 92
 
 #### Amendments
 
-2008—Subsec. (f). Pub. L. 110–387 substituted “medical services account” for “medical care account”.
+<b>2008</b>—Subsec. (f). Pub. L. 110–387 substituted “medical services account” for “medical care account”.
 
-1994—Subsec. (b)(1). Pub. L. 103–446, §1202(b)(2), amended Pub. L. 102–83, §4(a)(3), (4), to make it inapplicable to this section. See 1991 Amendment note below.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–446, §1202(b)(2), amended Pub. L. 102–83, §4(a)(3), (4), to make it inapplicable to this section. See 1991 Amendment note below.
 
 Subsec. (d)(1). Pub. L. 103–446, §1201(c)(4)(A), substituted “the Secretary and the Under Secretary for Health in carrying out” for “the Chief Medical Director and the Secretary to carry out” and “the Assistant Under Secretary for Health described in section 7306(b)(3)” for “the Assistant Chief Medical Director described in section 7306(b)(3)”.
 
 Subsec. (d)(3). Pub. L. 103–446, §1201(c)(4)(B), substituted “Assistant Under Secretary” for “Assistant Chief Medical Director” in two places.
 
-1992—Subsecs. (a), (b). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
+<b>1992</b>—Subsecs. (a), (b). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
 
 Subsec. (c). Pub. L. 102–585, §521(1), inserted “the peer review panel established under subsection (d) has determined under that subsection that the proposal submitted by such facility as a location for a new center under subsection (a) is among those proposals which have met the highest competitive standards of scientific and clinical merit, and” after “unless” in introductory provisions.
 
@@ -66,7 +66,7 @@ Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medi
 
 Subsecs. (f), (g). Pub. L. 102–585, §521(2), redesignated subsecs. (e) and (f) as (f) and (g), respectively.
 
-1991—Subsec. (b)(1). Pub. L. 102–83, §4(a)(3), (4), which directed substitution of “Department” for “Veterans’ Administration”, was amended by Pub. L. 103–446, §1202(b)(2), to make it inapplicable to this section.
+<b>1991</b>—Subsec. (b)(1). Pub. L. 102–83, §4(a)(3), (4), which directed substitution of “Department” for “Veterans’ Administration”, was amended by Pub. L. 103–446, §1202(b)(2), to make it inapplicable to this section.
 
 #### Effective Date of 1994 Amendment
 

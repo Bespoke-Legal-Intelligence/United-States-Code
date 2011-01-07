@@ -1,8 +1,44 @@
 ### §305e. Cause of action for misrepresentation of Indian produced goods
 
-#### (a) Injunctive or equitable relief; damages
+#### (a) Definitions
 
-A person specified in subsection (c) of this section may, in a civil action in a court of competent jurisdiction, bring an action against a person who, directly or indirectly, offers or displays for sale or sells a good, with or without a Government trademark, in a manner that falsely suggests it is Indian produced, an Indian product, or the product of a particular Indian or Indian tribe or Indian arts and crafts organization, resident within the United States, to—
+In this section:
+
+#### (1) Indian
+
+&emsp;The term “Indian” means an individual that—
+
+&emsp;&emsp;(A) is a member of an Indian tribe; or
+
+&emsp;&emsp;(B) is certified as an Indian artisan by an Indian tribe.
+
+#### (2) Indian product
+
+&emsp;The term “Indian product” has the meaning given the term in any regulation promulgated by the Secretary.
+
+#### (3) Indian tribe
+
+#### (A) In general
+
+&emsp;&emsp;The term “Indian tribe” has the meaning given the term in section 450b of this title.
+
+#### (B) Inclusion
+
+&emsp;&emsp;The term “Indian tribe” includes, for purposes of this section only, an Indian group that has been formally recognized as an Indian tribe by—
+
+&emsp;&emsp;&emsp;(i) a State legislature;
+
+&emsp;&emsp;&emsp;(ii) a State commission; or
+
+&emsp;&emsp;&emsp;(iii) another similar organization vested with State legislative tribal recognition authority.
+
+#### (4) Secretary
+
+&emsp;The term “Secretary” means the Secretary of the Interior.
+
+#### (b) Injunctive or equitable relief; damages
+
+A person specified in subsection (d) may, in a civil action in a court of competent jurisdiction, bring an action against a person who, directly or indirectly, offers or displays for sale or sells a good, with or without a Government trademark, in a manner that falsely suggests it is Indian produced, an Indian product, or the product of a particular Indian or Indian tribe or Indian arts and crafts organization, resident within the United States, to—
 
 &emsp;(1) obtain injunctive or other equitable relief; and
 
@@ -14,55 +50,69 @@ A person specified in subsection (c) of this section may, in a civil action in a
 
 > For purposes of paragraph (2)(A), damages shall include any and all gross profits accrued by the defendant as a result of the activities found to violate this subsection.
 
-#### (b) Punitive damages; attorney's fee
+#### (c) Punitive damages; attorney's fee
 
-In addition to the relief specified in subsection (a) of this section, the court may award punitive damages and the costs of suit and a reasonable attorney's fee.
+In addition to the relief specified in subsection (b), the court may award punitive damages andthe costs of the civil action and a reasonable attorney's fee.
 
-#### (c) Persons who may initiate civil actions
+#### (d) Persons that may initiate civil actions
 
-(1) A civil action under subsection (a) of this section may be commenced—
+#### (1) In general
 
-&emsp;(A) by the Attorney General of the United States upon request of the Secretary of the Interior on behalf of an Indian who is a member of an Indian tribe or on behalf of an Indian tribe or Indian arts and crafts organization;
+&emsp;A civil action under subsection (b) may be initiated by—
 
-&emsp;(B) by an Indian tribe on behalf of itself, an Indian who is a member of the tribe, or on behalf of an Indian arts and crafts organization; or
+&emsp;&emsp;(A) the Attorney General, at the request of the Secretary acting on behalf of—
 
-&emsp;(C) by an Indian arts and crafts organization on behalf of itself, or by an Indian on behalf of himself or herself.
+&emsp;&emsp;&emsp;(i) an Indian tribe;
 
-(2) Any amount recovered pursuant to this section shall be paid to the individual Indian, Indian tribe, or Indian arts and crafts organization, except that—
+&emsp;&emsp;&emsp;(ii) an Indian; or
 
-&emsp;(A) in the case of paragraph (1)(A), the Attorney General may deduct from the amount recovered—
+&emsp;&emsp;&emsp;(iii) an Indian arts and crafts organization;
 
-&emsp;&emsp;(i) the amount for the costs of suit and reasonable attorney's fees awarded pursuant to subsection (b) of this section and deposit the amount of such costs and fees as a reimbursement credited to appropriations currently available to the Attorney General at the time of receipt of the amount recovered; and
+&emsp;&emsp;(B) an Indian tribe, acting on behalf of—
 
-&emsp;&emsp;(ii) the amount for the costs of investigation awarded pursuant to subsection (b) of this section and reimburse the Board the amount of such costs incurred as a direct result of Board activities in the suit; and
+&emsp;&emsp;&emsp;(i) the Indian tribe;
 
-&emsp;(B) in the case of paragraph (1)(B), the amount recovered for the costs of suit and reasonable attorney's fees pursuant to subsection (b) of this section may be deducted from the total amount awarded under subsection (a)(2) of this section.
+&emsp;&emsp;&emsp;(ii) a member of that Indian tribe; or
 
-#### (d) Definitions
+&emsp;&emsp;&emsp;(iii) an Indian arts and crafts organization;
 
-As used in this section—
+&emsp;&emsp;(C) an Indian; or
 
-&emsp;(1) the term “Indian” means any individual who is a member of an Indian tribe; or for the purposes of this section is certified as an Indian artisan by an Indian tribe;
+&emsp;&emsp;(D) an Indian arts and crafts organization.
 
-&emsp;(2) subject to subsection (f) of this section, the terms “Indian product” and “product of a particular Indian tribe or Indian arts and crafts organization” has the meaning given such term <sup>1</sup> in regulations which may be promulgated by the Secretary of the Interior;
+#### (2) Disposition of amounts recovered
 
-&emsp;(3) the term “Indian tribe” means—
+#### (A) In general
 
-&emsp;&emsp;(A) any Indian tribe, band, nation, Alaska Native village, or other organized group orcommunity which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians; or
+&emsp;&emsp;Except as provided in subparagraph (B), an amount recovered in a civil action under this section shall be paid to the Indian tribe, the Indian, or the Indian arts and crafts organization on the behalf of which the civil action was initiated.
 
-&emsp;&emsp;(B) any Indian group that has been formally recognized as an Indian tribe by a State legislature or by a State commission or similar organization legislatively vested with State tribal recognition authority; and
+#### (B) Exceptions
 
-&emsp;(4) the term “Indian arts and crafts organization” means any legally established arts and crafts marketing organization composed of members of Indian tribes.
+#### (i) Attorney General
 
-#### (e) Severability
+&emsp;&emsp;&emsp;In the case of a civil action initiated under paragraph (1)(A), the Attorney General may deduct from the amount—
 
-In the event that any provision of this section is held invalid, it is the intent of Congress that the remaining provisions of this section shall continue in full force and effect.
+&emsp;&emsp;&emsp;&emsp;(I) the amount of the cost of the civil action and reasonable attorney's fees awarded under subsection (c), to be deposited in the Treasury and credited to appropriations available to the Attorney General on the date on which the amount is recovered; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the amount of the costs of investigation awarded under subsection (c), to reimburse the Board for the activities of the Board relating to the civil action.
+
+#### (ii) Indian tribe
+
+&emsp;&emsp;&emsp;In the case of a civil action initiated under paragraph (1)(B), the Indian tribe may deduct from the amount—
+
+&emsp;&emsp;&emsp;&emsp;(I) the amount of the cost of the civil action; and
+
+&emsp;&emsp;&emsp;&emsp;(II) reasonable attorney's fees.
+
+#### (e) Savings provision
+
+If any provision of this section is held invalid, it is the intent of Congress that the remaining provisions of this section shall continue in full force and effect.
 
 #### (f) Regulations
 
 Not later than 180 days after November 9, 2000, the Board shall promulgate regulations to include in the definition of the term “Indian product” specific examples of such product to provide guidance to Indian artisans as well as to purveyors and consumers of Indian arts and crafts, as defined under this Act.
 
-(Aug. 27, 1935, ch. 748, §6, as added Pub. L. 101–644, title I, §105, Nov. 29, 1990, 104 Stat. 4664; amended Pub. L. 106–497, §2, Nov. 9, 2000, 114 Stat. 2219.)
+(Aug. 27, 1935, ch. 748, §6, as added Pub. L. 101–644, title I, §105, Nov. 29, 1990, 104 Stat. 4664; amended Pub. L. 106–497, §2, Nov. 9, 2000, 114 Stat. 2219; Pub. L. 111–211, title I, §102(b), July 29, 2010, 124 Stat. 2259.)
 
 #### References in Text
 
@@ -74,7 +124,19 @@ A prior section, act Aug. 27, 1935, ch. 748, §6, 49 Stat. 893, related to offer
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–497, §2(1), inserted “, directly or indirectly,” after “against a person who” in introductory provisions and inserted at end “For purposes of paragraph (2)(A), damages shall include any and all gross profits accrued by the defendant as a result of the activities found to violate this subsection.”
+<b>2010</b>—Subsec. (a). Pub. L. 111–211, §102(b)(3), added subsec. (a). Former subsec. (a) redesignated (b).
+
+Subsec. (b). Pub. L. 111–211, §102(b)(2), (4), redesignated subsec. (a) as (b) and substituted “subsection (d)” for “subsection (c)” in introductory provisions. Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 111–211, §102(b)(2), (5), redesignated subsec. (b) as (c) and substituted “subsection (b)” for “subsection (a)” and “the civil action” for “suit”. Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 111–211, §102(b)(6), added subsec. (d) and struck out former subsec. (d) relating to persons who may initiate civil actions.
+
+Pub. L. 111–211, §102(b)(1), (2), redesignated subsec. (c) as (d) and struck out former subsec. (d) relating to definitions.
+
+Subsec. (e). Pub. L. 111–211, §102(b)(7), inserted heading and substituted “If” for “In the event that”.
+
+<b>2000</b>—Subsec. (a). Pub. L. 106–497, §2(1), inserted “, directly or indirectly,” after “against a person who” in introductory provisions and inserted at end “For purposes of paragraph (2)(A), damages shall include any and all gross profits accrued by the defendant as a result of the activities found to violate this subsection.”
 
 Subsec. (c)(1)(C). Pub. L. 106–497, §2(2)(A), added subpar. (C).
 
@@ -87,6 +149,4 @@ Subsec. (f). Pub. L. 106–497, §2(4), added subsec. (f).
 #### Certification of Indian Artisans
 
 Section 107 of Pub. L. 101–644 provided that: “For the purposes of section 1159 of title 18, United States Code, and section 6 of the Act entitled ‘An Act to promote the development of Indian arts and crafts and to create a board to assist therein, and for other purposes’ (25 U.S.C. 305 et seq.) \[25 U.S.C. 305e\] an Indian tribe may not impose a fee in certifying an individual as an Indian artisan. For the purposes of this section, the term ‘Indian tribe’ has the same meaning given such term in section 1159(c)(3) of title 18, United States Code.”
-
-<i><sup>1</sup></i><i> So in original. Probably should be “terms”.</i>
 

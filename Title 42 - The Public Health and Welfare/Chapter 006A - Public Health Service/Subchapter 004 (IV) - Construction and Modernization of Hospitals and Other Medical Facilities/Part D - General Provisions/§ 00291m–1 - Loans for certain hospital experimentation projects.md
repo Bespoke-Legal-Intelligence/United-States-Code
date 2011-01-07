@@ -10,7 +10,7 @@ Any such loan shall be made only on the basis of an application submitted to the
 
 #### (c) Interest; repayment period
 
-Each such loan shall bear interest at the rate of 21/2 per centum per annum on the unpaid balance thereof and shall be repayable over a period determined by the Secretary to be appropriate, but not exceeding fifty years.
+Each such loan shall bear interest at the rate of 2½ per centum per annum on the unpaid balance thereof and shall be repayable over a period determined by the Secretary to be appropriate, but not exceeding fifty years.
 
 #### (d) Authorization of appropriation
 

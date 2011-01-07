@@ -6,7 +6,7 @@
 
 &emsp;(1) the Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies”, approved July 2, 1890 (15 U.S.C. 1 et seq.), as amended;
 
-&emsp;(2) the Act entitled “An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes”, approvedOctober 15, 1914 (15 U.S.C. 12 et seq.) as amended;
+&emsp;(2) the Act entitled “An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes”, approved October 15, 1914 (15 U.S.C. 12 et seq.) as amended;
 
 &emsp;(3) the Federal Trade Commission Act (15 U.S.C. 41 et seq.), as amended;
 

@@ -48,7 +48,7 @@ Section 1016 of the Oil Pollution Act of 1990, referred to in subsec. (a)(3), is
 
 #### Amendments
 
-1990—Subsec. (a)(3) to (5). Pub. L. 101–380 added pars. (3) to (5).
+<b>1990</b>—Subsec. (a)(3) to (5). Pub. L. 101–380 added pars. (3) to (5).
 
 #### Effective Date of 1990 Amendment
 

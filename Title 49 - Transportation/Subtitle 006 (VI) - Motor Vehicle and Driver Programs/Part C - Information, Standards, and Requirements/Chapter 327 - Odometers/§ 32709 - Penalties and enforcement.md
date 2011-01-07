@@ -30,7 +30,7 @@ Civil Actions by States.—(1) When a person violates this chapter or a regulati
 
 &emsp;(B) to recover amounts for which the person is liable under section 32710 of this title for each person on whose behalf the action is brought.
 
-(2) An action under this subsection may be brought in an appropriate United States district court or in a State court of competent jurisdiction. The action must be brought not later than 2 years after the claim accrues.
+(2) An action under this subsection may be brought in an appropriate United States districtcourt or in a State court of competent jurisdiction. The action must be brought not later than 2 years after the claim accrues.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1054.)
 

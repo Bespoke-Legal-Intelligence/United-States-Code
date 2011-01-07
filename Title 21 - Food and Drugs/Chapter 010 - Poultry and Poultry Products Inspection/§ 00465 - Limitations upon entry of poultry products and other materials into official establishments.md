@@ -6,7 +6,7 @@ The Secretary may limit the entry of poultry products and other materials into a
 
 #### Amendments
 
-1968—Pub. L. 90–492 substituted provisions authorizing the Secretary to limit the entry of poultry products and other materials into any official establishment for provisions that any person distributing unwholesome or adulterated exempted poultry or poultry products intended for human consumption shall be guilty of a misdemeanor and subject to penalties upon conviction thereof.
+<b>1968</b>—Pub. L. 90–492 substituted provisions authorizing the Secretary to limit the entry of poultry products and other materials into any official establishment for provisions that any person distributing unwholesome or adulterated exempted poultry or poultry products intended for human consumption shall be guilty of a misdemeanor and subject to penalties upon conviction thereof.
 
 #### Effective Date of 1968 Amendment
 

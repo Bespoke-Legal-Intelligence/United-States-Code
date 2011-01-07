@@ -62,13 +62,13 @@
 
 #### Amendments
 
-1999—Subsec. (a)(3)(A). Pub. L. 106–170 substituted “section 1221(a)” for “section 1221”.
+<b>1999</b>—Subsec. (a)(3)(A). Pub. L. 106–170 substituted “section 1221(a)” for “section 1221”.
 
-1984—Subsec. (b)(1). Pub. L. 98–369, §1001(b)(18), (e), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–369, §1001(b)(18), (e), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
 Subsec. (c). Pub. L. 98–369, §105(a), added subsec. (c).
 
-1976—Subsec. (a). Pub. L. 94–455, §2136(a), inserted in heading “in the case of the purchaser”; designated existing provisions as par. “(1) General rule” and substituted “an option” and “the option” for “a privilege or option” and “the option or privilege”; redesignated existing subsec. (b) as par. (2) and substituted “an option” and “the option” for “a privilege or option” and “the privilege or option”; and redesignated existing subsec. (d)(1) to (3) as par. (3)(A) to (C) and substituted in heading and introductory text “Nonapplication” and “subsection” for “Non-application” and “section”, in par. (3)(A) “an option” for “a privilege or option”, in par. (3)(B) “an option”, “such option” and “subsection” for “a privilege or option”, “such privilege or option” and “section” and in par. (3)(C) substituted a period for “; or”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §2136(a), inserted in heading “in the case of the purchaser”; designated existing provisions as par. “(1) General rule” and substituted “an option” and “the option” for “a privilege or option” and “the option or privilege”; redesignated existing subsec. (b) as par. (2) and substituted “an option” and “the option” for “a privilege or option” and “the privilege or option”; and redesignated existing subsec. (d)(1) to (3) as par. (3)(A) to (C) and substituted in heading and introductory text “Nonapplication” and “subsection” for “Non-application” and “section”, in par. (3)(A) “an option” for “a privilege or option”, in par. (3)(B) “an option”, “such option” and “subsection” for “a privilege or option”, “such privilege or option” and “section” and in par. (3)(C) substituted a period for “; or”.
 
 Subsec. (b). Pub. L. 94–455, §2136(a), added subsec. (b), incorporating provisions of a prior subsec. (c) providing for a special rule for grantors of straddles, par. (1) relating to “gain on lapse” and reading “In the case of gain on lapse of an option granted by the taxpayer as part of a straddle, the gain shall be deemed to be gain from the sale or exchange of a capital asset held for not more than 6 months on the day that the option expired.”; par. (2) relating to “exception” and reading “This subsection shall not apply to any person who holds securities for sale to customers in the ordinary course of his trade or business.”, now covered in subsec. (b)(3); and par. (3) relating to definitions of “straddle” and “security”.
 
@@ -80,9 +80,9 @@ Subsec. (c). Pub. L. 94–455, §2136(a), struck out provision respecting specia
 
 Subsec. (d). Pub. L. 94–455, §2136(a), struck out provision respecting non-application of section, pars. (1) to (3) now covered in subsec. (a)(3)(A) to (C) of this section, and par. (4) providing for such non-application to gain attributable to the sale or exchange of a privilege or option acquired by the taxpayer before Mar. 1, 1954, if in the hands of the taxpayer such privilege or option was a capital asset.
 
-1966—Subsecs. (c), (d). Pub. L. 89–809 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>1966</b>—Subsecs. (c), (d). Pub. L. 89–809 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1958—Pub. L. 85–866 amended section generally and among other changes provided in subsec. (a) that gain or loss resulting from option to buy or sell property is to be considered gain or loss arising from property which has the same character as the property underlying the option, incorporated existing provisions in subsecs. (b) and (c)(3), and inserted provisions set out in subsec. (c)(1), (2), (4).
+<b>1958</b>—Pub. L. 85–866 amended section generally and among other changes provided in subsec. (a) that gain or loss resulting from option to buy or sell property is to be considered gain or loss arising from property which has the same character as the property underlying the option, incorporated existing provisions in subsecs. (b) and (c)(3), and inserted provisions set out in subsec. (c)(1), (2), (4).
 
 #### Effective Date of 1999 Amendment
 
@@ -104,7 +104,7 @@ Section 2136(b) of Pub. L. 94–455 provided that: “The amendment made by subs
 
 #### Effective Date of 1966 Amendment
 
-Section 210(b) of Pub. L. 89–809 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to straddle transactions entered into after January 25, 1965, in taxable years ending after such date.”
+Section 210(b) of Pub. L. 89–809 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply to straddle transactions entered into after January 25, 1965, in taxable years ending after such date.”
 
 #### Effective Date of 1958 Amendment
 

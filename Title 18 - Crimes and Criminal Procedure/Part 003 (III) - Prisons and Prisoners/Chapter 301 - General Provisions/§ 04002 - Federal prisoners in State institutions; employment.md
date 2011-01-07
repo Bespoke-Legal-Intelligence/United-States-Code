@@ -16,5 +16,5 @@ Changes were made in phraseology. The first sentence was incorporated in section
 
 #### Amendments
 
-1978—Pub. L. 95–624 substituted “Attorney General” for “Director of the Bureau of Prisons”.
+<b>1978</b>—Pub. L. 95–624 substituted “Attorney General” for “Director of the Bureau of Prisons”.
 

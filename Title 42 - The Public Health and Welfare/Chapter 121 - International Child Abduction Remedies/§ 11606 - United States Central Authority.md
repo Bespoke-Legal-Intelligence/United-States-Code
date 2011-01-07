@@ -24,7 +24,7 @@ The United States Central Authority is authorized to make grants to, or enter in
 
 #### (1) Limitation on liability
 
-&emsp;Except as provided in paragraphs (2) and (3), a private entity or organization that receives a grant from or enters into a contract or agreement with the United States Central Authority under subsection (e) of this section for purposes of assisting the United States Central Authority in carrying out its responsibilities and functions under the Convention and this chapter, including any director, officer, employee, or agent of such entity or organization, shall not be liable in any civil action sounding in tort for damages directly related to the performance of such responsibilities and functions as defined by the regulations issued under subsection (c) of this section that are in effect on October 1, 2004.
+&emsp;Except as provided in paragraphs (2) and (3), a private entity or organization that receives a grant from or enters into a contract or agreement with the United States Central Authority under subsection (e) of this section for purposes of assisting the United States Central Authority in carrying out its responsibilities and functions under the Convention and this chapter, including any director, officer,employee, or agent of such entity or organization, shall not be liable in any civil action sounding in tort for damages directly related to the performance of such responsibilities and functions as defined by the regulations issued under subsection (c) of this section that are in effect on October 1, 2004.
 
 #### (2) Exception for intentional, reckless, or other misconduct
 
@@ -44,9 +44,9 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 
 #### Amendments
 
-2004—Subsec. (f). Pub. L. 108–370 added subsec. (f).
+<b>2004</b>—Subsec. (f). Pub. L. 108–370 added subsec. (f).
 
-1998—Subsec. (e). Pub. L. 105–277 added subsec. (e).
+<b>1998</b>—Subsec. (e). Pub. L. 105–277 added subsec. (e).
 
 #### Ex. Ord. No. 12648. Implementation of Convention on Civil Aspects of International Child Abduction
 

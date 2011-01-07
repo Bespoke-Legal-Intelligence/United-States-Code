@@ -112,3 +112,7 @@ The Regulatory Flexibility Act, referred to in subsecs. (d)(2) and (e)(1)(B), is
 
 The Equal Access to Justice Act, referred to in subsecs. (d)(2) and (e)(1)(B), is title II of Pub. L. 96–481, Oct. 21, 1980, 94 Stat. 2325. For complete classification of this Act to the Code, see Short Title note set out under section 504 of Title 5.
 
+<i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+

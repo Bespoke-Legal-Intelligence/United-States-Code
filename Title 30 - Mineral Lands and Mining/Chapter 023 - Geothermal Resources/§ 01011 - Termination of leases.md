@@ -6,5 +6,5 @@ Leases may be terminated by the Secretary for any violation of the regulations o
 
 #### Amendments
 
-2005—Pub. L. 109–58 inserted section catchline.
+<b>2005</b>—Pub. L. 109–58 inserted section catchline.
 

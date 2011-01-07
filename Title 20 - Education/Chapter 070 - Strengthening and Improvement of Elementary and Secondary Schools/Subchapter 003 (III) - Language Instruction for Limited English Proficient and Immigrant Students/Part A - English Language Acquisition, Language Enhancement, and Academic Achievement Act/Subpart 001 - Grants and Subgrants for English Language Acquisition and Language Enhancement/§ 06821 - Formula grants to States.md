@@ -96,7 +96,7 @@ In the case of each State educational agency having a plan approved by the Secre
 
 #### (A) In general
 
-&emsp;&emsp;In making State allotments under paragraph (3), for the purpose of determining the number of limited English proficient children in a State and in all States, and the number of immigrant children and youth in a State and in all States, for each fiscal year, the Secretary shall use data that will yield the most accurate, up-to-date numbers of such children and youth.
+&emsp;&emsp;In making State allotments under paragraph (3), for the purpose of determining thenumber of limited English proficient children in a State and in all States, and the number of immigrant children and youth in a State and in all States, for each fiscal year, the Secretary shall use data that will yield the most accurate, up-to-date numbers of such children and youth.
 
 #### (B) Special rule
 

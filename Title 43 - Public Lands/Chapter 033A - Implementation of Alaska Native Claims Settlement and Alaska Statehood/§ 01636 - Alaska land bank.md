@@ -4,7 +4,7 @@
 
 (1) In order to enhance the quantity and quality of Alaska's renewable resources and to facilitate the coordinated management and protection of Federal, State, and Native and other private lands, there is hereby established the Alaska Land Bank Program. Any private landowner is authorized as provided in this section to enter into a written agreement with the Secretary if his lands adjoin, or his use of such lands would directly affect, Federal land, Federal and State land, or State land if the State is not participating in the program. Any private landowner described in subsection (d)(1) of this section whose lands do not adjoin, or whose use of such lands would not directly affect either Federal or State lands also is entitled to enter into an agreement with the Secretary. Any private landowner whose lands adjoin, or whose use of such lands would directly affect, only State, or State and private lands, is authorized as provided in this section to enter into an agreement with the State of Alaska if the State is participating in the program. If the Secretary is the contracting party with the private landowner, he shall afford the State an opportunity to participate in negotiations and become a party to the agreement. An agreement may include all or part of the lands of any private landowner: <i>Provided</i>, That no lands shall be included in the agreement unless the Secretary, or the State, determines that the purposes of the program will be promoted by their inclusion.
 
-(2) If a private landowner consents to the inclusion in an agreement of the stipulations provided in subsections (b)(1), (b)(2), (b)(4), (b)(5), and (b)(7) of this section, and if such owner does not insist on any additional terms which are unacceptable to the Secretary or the State, as appropriate, the owner shall be entitled to enter into an agreement pursuant to this section. If an agreement is not executed within one hundred and twenty days of the date on which a private landowner communicates in writing his consent to the stipulations referred to in the preceding sentence, the appropriate Secretary or State agency head shall execute an agreement. Upon such execution, the private owner shall receive the benefits provided in subsection (c) hereof.
+(2) If a private landowner consents to the inclusion in an agreement of the stipulations provided in subsections (b)(1), (b)(2), (b)(4), (b)(5), and (b)(7) of this section, and if such owner does not insist on any additional terms which are unacceptable to the Secretary or the State, as appropriate, the owner shall be entitled to enter into an agreement pursuant to this section. If an agreement is not executed within one hundred and twenty days of the date on which a privatelandowner communicates in writing his consent to the stipulations referred to in the preceding sentence, the appropriate Secretary or State agency head shall execute an agreement. Upon such execution, the private owner shall receive the benefits provided in subsection (c) hereof.
 
 (3) No agreement under this section shall be construed as affecting any land, or any right or interest in land, of any owner not a party to such agreement.
 
@@ -12,7 +12,7 @@
 
 Each agreement referred to in subsection (a) of this section shall have an initial term of ten years, with provisions, if any, for renewal for additional periods of five years. Such agreement shall contain the following terms:
 
-&emsp;(1) The landowner shall not alienate, transfer, assign, mortgage, or pledge the lands subject to the agreement except as provided in section 14(c) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1613(c)\], or permit development or improvement on such lands except as provided in the agreement. For the purposes of this section only, each agreement entered into with a landowner described insubsection (d)(1) of this section shall constitute a restriction against alienation imposed by the United States upon the lands subject to the agreement.
+&emsp;(1) The landowner shall not alienate, transfer, assign, mortgage, or pledge the lands subject to the agreement except as provided in section 14(c) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1613(c)\], or permit development or improvement on such lands except as provided in the agreement. For the purposes of this section only, each agreement entered into with a landowner described in subsection (d)(1) of this section shall constitute a restriction against alienation imposed by the United States upon the lands subject to the agreement.
 
 &emsp;(2) Lands subject to the agreement shall be managed by the owner in a manner compatible with the management plan, if any, for the adjoining Federal or State lands, and with the requirements of this subsection. If lands subject to the agreement do not adjoin either Federal or State lands, they shall be managed in a manner compatible with the management plan, if any, of Federal or State lands which would be directly affected by the use of such private lands. If no such plan has been adopted, or if the use of such private lands would not directly affect either Federal or State lands, the owner shall manage such lands in accordance with the provisions in paragraph (1) of this subsection. Except as provided in (3) <sup>1</sup> of this subsection, nothing in this section or the management plan of any Federal or State agency shall be construed to require a private landowner to grant public access on or across his lands.
 
@@ -128,7 +128,7 @@ Exclusions, Reattachment of Exemptions.—(A) The exemptions listed in paragraph
 
 (B) The exemptions described in clauses (iii), (iv), and (v) of paragraph (1)(A) shall not apply to any land, or interest in land—
 
-&emsp;(i) to the extent that such land or interest is expressly pledged as security for any loan orexpressly committed to any commercial transaction in a valid agreement, and
+&emsp;(i) to the extent that such land or interest is expressly pledged as security for any loan or expressly committed to any commercial transaction in a valid agreement, and
 
 &emsp;(ii) to the extent necessary to enforce a judgment in any action at law or in equity (or any arbitration award) arising out of any claim made pursuant to section 7(i) or section 14(c) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1606(i) or 1613(c)\].
 
@@ -170,17 +170,17 @@ This Act, referred to in subsec. (e), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat
 
 #### Amendments
 
-1998—Subsec. (d)(1)(A). Pub. L. 105–333, §1(a), in introductory provisions, inserted “or conveyed to a Native Corporation pursuant to an exchange authorized by section 22(f) of the Alaska Native Claims Settlement Act or section 3192(h) of title 16 or other applicable law” after “Settlement Trust”.
+<b>1998</b>—Subsec. (d)(1)(A). Pub. L. 105–333, §1(a), in introductory provisions, inserted “or conveyed to a Native Corporation pursuant to an exchange authorized by section 22(f) of the Alaska Native Claims Settlement Act or section 3192(h) of title 16 or other applicable law” after “Settlement Trust”.
 
 Subsec. (d)(2)(A)(i). Pub. L. 105–333, §2(3), which directed the amendment of cl. (i) by adding “Any lands previously developed by third-party trespassers shall not be considered to have been developed.” without specifying where the language was to be added, was executed by adding the language before the semicolon at the end to reflect the probable intent of Congress.
 
-Pub. L. 105–333, §2(1), (2), inserted “Any such modification shall be performed by the Native individual or Native Corporation.” after “substantial modification.” and inserted a period after “developed state” the second place it appeared.
+Pub. L. 105–333, §2(1), (2), inserted “Any such modification shall be performed by the Native individual or Native Corporation.” after “substantial modification.”and inserted a period after “developed state” the second place it appeared.
 
 Subsec. (d)(2)(B)(iv). Pub. L. 105–333, §1(b), added cl. (iv).
 
 Subsec. (d)(3)(B)(iii). Pub. L. 105–333, §1(c), added cl. (iii).
 
-1988—Subsec. (a)(1). Pub. L. 100–241, §11(1), (2), substituted “subsection (d)(1) of this section” for “subsection (c)(2) of this section” and “no lands shall be included” for “lands not owned by landowners described in subsection (c)(2) of this section shall not be included”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–241, §11(1), (2), substituted “subsection (d)(1) of this section” for “subsection (c)(2) of this section” and “no lands shall be included” for “lands not owned by landowners described in subsection (c)(2) of this section shall not be included”.
 
 Subsec. (b)(1). Pub. L. 100–241, §11(1), substituted “subsection (d)(1) of this section” for “subsection (c)(2) of this section”.
 
@@ -188,7 +188,7 @@ Subsec. (c). Pub. L. 100–241, §11(3), amended subsec. (c) generally, changing
 
 Pub. L. 100–241, §11(1), substituted “subsection (d)(1) of this section” for “subsection (c)(2) of this section” in pars. (3) and (4)(A).
 
-Subsec. (d). Pub. L. 100–241, §11(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Notwithstanding any other provision of this section, unless the landowner decides otherwise, the benefits specified in subsection (d)(1) of this section shall apply to lands conveyed pursuant to the AlaskaNative Claims Settlement Act \[43 U.S.C. 1601 et seq.\], or sections 1631 and 1632 of this title for a period of three years from the date of conveyance or December 2, 1980, whichever is later: <i>Provided</i>, That this subsection shall not apply to any lands which on December 2, 1980, are the subject of a mortgage, pledge or other encumbrance.”
+Subsec. (d). Pub. L. 100–241, §11(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Notwithstanding any other provision of this section, unless the landowner decides otherwise, the benefits specified in subsection (d)(1) of this section shall apply to lands conveyed pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], or sections 1631 and 1632 of this title for a period of three years from the date of conveyance or December 2, 1980, whichever is later: <i>Provided</i>, That this subsection shall not apply to any lands which on December 2, 1980, are the subject of a mortgage, pledge or other encumbrance.”
 
 Pub. L. 100–241, §11(1), substituted “subsection (d)(1) of this section” for “subsection (c)(2) of this section”.
 

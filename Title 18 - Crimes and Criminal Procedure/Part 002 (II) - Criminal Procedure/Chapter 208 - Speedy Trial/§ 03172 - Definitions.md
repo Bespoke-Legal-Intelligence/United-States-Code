@@ -10,7 +10,7 @@ As used in this chapter—
 
 #### Amendments
 
-1984—Par. (2). Pub. L. 98–473 substituted “Class B or C misdemeanor or an infraction” for “petty offense as defined in section 1(3) of this title”.
+<b>1984</b>—Par. (2). Pub. L. 98–473 substituted “Class B or C misdemeanor or an infraction” for “petty offense as defined in section 1(3) of this title”.
 
 #### Change of Name
 

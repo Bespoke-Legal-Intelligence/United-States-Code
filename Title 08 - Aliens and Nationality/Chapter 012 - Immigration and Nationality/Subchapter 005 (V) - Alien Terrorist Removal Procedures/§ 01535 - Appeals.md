@@ -76,7 +76,7 @@ Following a decision by the Court of Appeals pursuant to subsection (c) of this 
 
 #### (1) In general
 
-&emsp;Sections 3145 through 3148 of title 18 pertaining to review and appeal of a release or detention order, penalties for failure to appear, penalties for an offense committed while on release, and sanctions for violation of a releasecondition shall apply to an alien to whom section 1537(b)(1) of this title applies. In applying the previous sentence—
+&emsp;Sections 3145 through 3148 of title 18 pertaining to review and appeal of a release or detention order, penalties for failure to appear, penalties for an offense committed while on release, and sanctions for violation of a release condition shall apply to an alien to whom section 1537(b)(1) of this title applies. In applying the previous sentence—
 
 &emsp;&emsp;(A) for purposes of section 3145 of such title an appeal shall be taken to the United States Court of Appeals for the District of Columbia Circuit; and
 
@@ -84,7 +84,7 @@ Following a decision by the Court of Appeals pursuant to subsection (c) of this 
 
 #### (2) No review of continued detention
 
-&emsp;The determinations and actions of the Attorney General pursuant to section 1537(b)(2)(C) of this title shall not be subject to judicial review, including application for a writ of habeas corpus, except for a claim by the alien that continued detention violates the alien's rights under the Constitution. Jurisdiction over any such challenge shall lie exclusively in the United States Court of Appeals for the District of Columbia Circuit.
+&emsp;The determinations and actions of the Attorney General pursuant to section 1537(b)(2)(C) of this title shall not be subject to judicial review, including application for a writ of habeas corpus, except for a claim by the alien that continued detention violatesthe alien's rights under the Constitution. Jurisdiction over any such challenge shall lie exclusively in the United States Court of Appeals for the District of Columbia Circuit.
 
 (June 27, 1952, ch. 477, title V, §505, as added Pub. L. 104–132, title IV, §401(a), Apr. 24, 1996, 110 Stat. 1263; amended Pub. L. 104–208, div. C, title III, §354(a)(3), Sept. 30, 1996, 110 Stat. 3009–642.)
 

@@ -6,5 +6,5 @@ Any person guilty of mutiny, treason, spying, or desertion, or who, because of c
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 711 of this title as this section and substituted “1916(b)” for “716(b)”.
+<b>1991</b>—Pub. L. 102–83 renumbered section 711 of this title as this section and substituted “1916(b)” for “716(b)”.
 

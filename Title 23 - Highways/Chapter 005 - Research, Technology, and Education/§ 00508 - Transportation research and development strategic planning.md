@@ -58,7 +58,7 @@ Performance plans and reports.—In reports submitted under sections 1115 and 11
 
 (b)
 
-Annual Report.—The Secretary shall submit to appropriate committees of Congress an annual report, in conjunction with the President's annual budget request as set forth in section 1105 of title 31, describing the amount spent in the last completed fiscal year on transportation research and development and theamount proposed in the current budget for transportation research and development.
+Annual Report.—The Secretary shall submit to appropriate committees of Congress an annual report, in conjunction with the President's annual budget request as set forth in section 1105 of title 31, describing the amount spent in the last completed fiscal year on transportation research and development and the amount proposed in the current budget for transportation research and development.
 
 (c)
 
@@ -82,7 +82,7 @@ A prior section 508, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 833, 
 
 #### Amendments
 
-2005—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to development of a 5-year transportation research and development strategic plan, annual report, and review by the National Research Council, consisting of subsecs. (a) to (c), for provisions relating to establishment of a strategic planning process to determine transportation research and technology development priorities, implementation of programs, development of a strategic plan, merit review and performance measurement, procurement procedures, and requirement of consistency with section 306 of title 5 and sections 1115 and 1116 of title 31, consisting of subsecs. (a) to (f).
+<b>2005</b>—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to development of a 5-year transportation research and development strategic plan, annual report, and review by the National Research Council, consisting of subsecs. (a) to (c), for provisions relating to establishment of a strategic planning process to determine transportation research and technology development priorities, implementation of programs, development of a strategic plan, merit review and performance measurement, procurement procedures, and requirement of consistency with section 306 of title 5 and sections 1115 and 1116 of title 31, consisting of subsecs. (a) to (f).
 
 #### Surface Transportation Research and Development Planning
 

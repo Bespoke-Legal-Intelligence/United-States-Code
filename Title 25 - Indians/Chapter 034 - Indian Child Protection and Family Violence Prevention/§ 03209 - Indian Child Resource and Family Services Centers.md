@@ -6,7 +6,7 @@ The Secretary shall establish within each area office of the Bureau an Indian Ch
 
 #### (b) Memorandum of Agreement
 
-The Secretary and the Secretary of Health and Human Services shall enter into a Memorandumof Agreement which provides for the staffing of the Centers established under this section.
+The Secretary and the Secretary of Health and Human Services shall enter into a Memorandum of Agreement which provides for the staffing of the Centers established under this section.
 
 #### (c) Center staffing
 
@@ -60,7 +60,7 @@ The Indian Self-Determination Act, referred to in subsec. (g), is title I of Pub
 
 #### Amendments
 
-1995—Subsec. (h). Pub. L. 104–16 substituted “1995, 1996, and 1997” for “and 1995”.
+<b>1995</b>—Subsec. (h). Pub. L. 104–16 substituted “1995, 1996, and 1997” for “and 1995”.
 
 #### Termination of Advisory Boards
 

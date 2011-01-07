@@ -8,7 +8,7 @@
 
 (C) A temporary restraining order issued under this section shall expire at such time, not to exceed 14 days from issuance, as the court directs; the court, for good cause shown before expiration of such order, may extend the expiration date of the order for up to 14 days or for such longer period agreed to by the adverse party.
 
-(D) When a temporary restraining order is issued without notice, the motion for a protective order shall be set down for hearing at the earliest possible time and takes precedence over all matters except older matters of the same character, and when such motion comes on for hearing, if the attorney for the Government does not proceed with the application for a protectiveorder, the court shall dissolve the temporary restraining order.
+(D) When a temporary restraining order is issued without notice, the motion for a protective order shall be set down for hearing at the earliest possible time and takes precedence over all matters except older matters of the same character, and when such motion comes on for hearing, if the attorney for the Government does not proceed with the application for a protective order, the court shall dissolve the temporary restraining order.
 
 (E) If on two days notice to the attorney for the Government, excluding intermediate weekends and holidays, or on such shorter notice as the court may prescribe, the adverse party appears and moves to dissolve or modify the temporary restraining order, the court shall proceed to hear and determine such motion as expeditiously as the ends of justice require.
 
@@ -36,7 +36,7 @@
 
 #### Amendments
 
-2009—Subsec. (a)(2)(C). Pub. L. 111–16, §3(2), substituted “14 days” for “10 days” in two places.
+<b>2009</b>—Subsec. (a)(2)(C). Pub. L. 111–16, §3(2), substituted “14 days” for “10 days” in two places.
 
 Subsec. (a)(2)(E). Pub. L. 111–16, §3(3), inserted “, excluding intermediate weekends and holidays,” after “the Government”.
 

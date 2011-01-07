@@ -6,7 +6,7 @@ Any person who willfully makes any false or misleading statement or representati
 
 #### Amendments
 
-1978—Pub. L. 95–239 substituted provisions setting the penalty for making false or misleading statements or representations for the purpose of obtaining benefits or payments for provisions relating to the Secretary's duty to disseminate to all persons who filed claims under this subchapter prior to May 19, 1972, information on the review provisions under the Black Lung Benefits Act of 1972.
+<b>1978</b>—Pub. L. 95–239 substituted provisions setting the penalty for making false or misleading statements or representations for the purpose of obtaining benefits or payments for provisions relating to the Secretary's duty to disseminate to all persons who filed claims under this subchapter prior to May 19, 1972, information on the review provisions under the Black Lung Benefits Act of 1972.
 
 #### Effective Date of 1978 Amendment
 

@@ -6,15 +6,15 @@ The purpose of this subpart is to assist, through matching grants, in the planni
 
 #### Amendments
 
-1978—Pub. L. 95–567 expanded scope of section to authorize construction financing for telecommunications facilities other than television and radio broadcasting, and assistance in the planning, as well as the construction, of such facilities, and substituted provisions relating to the objectives of this subpart for former provision relating to the demonstration of the use of telecommunication technologies for the distribution of information.
+<b>1978</b>—Pub. L. 95–567 expanded scope of section to authorize construction financing for telecommunications facilities other than television and radio broadcasting, and assistance in the planning, as well as the construction, of such facilities, and substituted provisions relating to the objectives of this subpart for former provision relating to the demonstration of the use of telecommunication technologies for the distribution of information.
 
-1976—Pub. L. 94–309 designated existing phrase relating to assistance in the construction of noncommercial educational broadcasting facilities as cl. (1) and added cl. (2).
+<b>1976</b>—Pub. L. 94–309 designated existing phrase relating to assistance in the construction of noncommercial educational broadcasting facilities as cl. (1) and added cl. (2).
 
-1967—Pub. L. 90–129 inserted “noncommercial” and “or radio” and substituted “subpart” for “part”, respectively.
+<b>1967</b>—Pub. L. 90–129 inserted “noncommercial” and “or radio” and substituted “subpart” for “part”, respectively.
 
 #### Effective Date of 1978 Amendment
 
-Section 403 of Pub. L. 95–567 provided that: “The provisions of this Act \[enacting section 395 of this title, amending this section and sections 391, 392, 393, 394, and 396 to 398 of this title, repealing sections 392a and 395 of this title, and enacting provisions set out as notes under this section, sections 392 and 396 of this title, and section 5316 of Title 5, Government Organization and Employees\], and the amendments made by this Act, shall take effect on the date of the enactment of this Act \[Nov. 2, 1978\].”
+Section 403 of Pub. L. 95–567 provided that: “The provisions of this Act \[enacting section 395 of this title, amending this section and sections 391, 392, 393, 394, and 396 to 398 of this title, repealing sections 392a and 395 of this title, and enacting provisions set out as notes under this section, sections 392 and 396 of this title, and section 5316 of Title 5, Government Organization and Employees\], and the amendments made by this Act,shall take effect on the date of the enactment of this Act \[Nov. 2, 1978\].”
 
 #### Grants
 
@@ -22,5 +22,5 @@ Pub. L. 100–584, §3, Nov. 3, 1988, 102 Stat. 2970, provided that: “The Admi
 
 #### Study of Educational and Instructional Broadcasting
 
-Pub. L. 90–129, title III, §§301–303, Nov. 7, 1967, 81 Stat. 373, authorized the Secretary of Health, Education, andWelfare to conduct, directly or by contract, and in consultation with other interested Federal agencies, a comprehensive study of instructional television and radio (including broadcast, closed circuit, community antenna television, and instructional television fixed services and two-way communication of data links and computers) and their relationship to each other and to instructional materials such as videotapes, films, discs, computers, and other educational materials or devices, and such other aspects thereof as may be of assistance in determining whether and what Federal aid should be provided for instructional radio and television and the form that aid should take, and which may aid communities, institutions, or agencies in determining whether and to what extent such activities should be used. The study was required to be submitted to the President for transmittal to the Congress on or before June 30, 1969.
+Pub. L. 90–129, title III, §§301–303, Nov. 7, 1967, 81 Stat. 373, authorized the Secretary of Health, Education, and Welfare to conduct, directly or by contract, and in consultation with other interested Federal agencies, a comprehensive study of instructional television and radio (including broadcast, closed circuit, community antenna television, and instructional television fixed services and two-way communication of data links and computers) and their relationship to each other and to instructional materials such as videotapes, films, discs, computers, and other educational materials or devices, and such other aspects thereof as may be of assistance in determining whether and what Federal aid should be provided for instructional radio and television and the form that aid should take, and which may aid communities, institutions, or agencies in determining whether and to what extent such activities should be used. The study was required to be submitted to the President for transmittal to the Congress on or before June 30, 1969.
 

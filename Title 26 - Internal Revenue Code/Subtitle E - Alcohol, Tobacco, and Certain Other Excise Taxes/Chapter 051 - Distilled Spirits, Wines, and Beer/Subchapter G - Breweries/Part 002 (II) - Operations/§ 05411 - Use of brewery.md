@@ -1,6 +1,6 @@
 ### §5411. Use of brewery
 
-The brewery shall be used under regulations prescribed by the Secretary only for the purpose of producing, packaging, and storing beer, cerealbeverages containing less than one-half of 1 percent of alcohol by volume, vitamins, ice, malt, malt sirup, and other byproducts and of soft drinks; for the purpose of processing spent grain, carbon dioxide, and yeast; and for such other purposes as the Secretary by regulation may find will not jeopardize the revenue.
+The brewery shall be used under regulations prescribed by the Secretary only for the purpose of producing, packaging, and storing beer, cereal beverages containing less than one-half of 1 percent of alcohol by volume, vitamins, ice, malt, malt sirup, and other byproducts and of soft drinks; for the purpose of processing spent grain, carbon dioxide, and yeast; and for such other purposes as the Secretary by regulation may find will not jeopardize the revenue.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1389; amended Pub. L. 91–673, §3(c), Jan. 12, 1971, 84 Stat. 2057; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
@@ -10,9 +10,9 @@ A prior section 5411, act Aug. 16, 1954, ch. 736, 68A Stat. 675, consisted of pr
 
 #### Amendments
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1971—Pub. L. 91–673 struck out requirement of separate facilities for bottling of beer and cereal beverages and permitted use of brewery for packaging and storing beer and other cereal beverages.
+<b>1971</b>—Pub. L. 91–673 struck out requirement of separate facilities for bottling of beer and cereal beverages and permitted use of brewery for packaging and storing beer and other cereal beverages.
 
 #### Effective Date of 1971 Amendment
 

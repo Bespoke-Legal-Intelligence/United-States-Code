@@ -34,7 +34,7 @@ The Secretary may award grants to participating jurisdictions to assist low-inco
 
 #### (A) Downpayment assistance
 
-&emsp;&emsp;Subject to subparagraph (B), grants awarded under this section may be used only for downpayment assistance toward the purchase of single family housing (including 1 to 4 unit family dwelling units, condominium units, cooperative units, and manufactured housing units which are located on land which is owned by the manufactured housing unit owner, owned as a cooperative, or is subject to a leasehold interest with a term equal to at least the term of the mortgage financing on the unit, and manufactured housing lots) by low-income families who are first-time home-buyers.
+&emsp;&emsp;Subject to subparagraph (B), grants awarded under this section may be used only for downpayment assistance toward the purchase of single family housing (including 1 to 4 unit family dwelling units, condominium units, cooperative units, and manufactured housing units which are located on land which is owned by the manufactured housing unit owner, owned as a cooperative, or is subject to a leasehold interest with aterm equal to at least the term of the mortgage financing on the unit, and manufactured housing lots) by low-income families who are first-time home-buyers.
 
 #### (B) Home repairs
 
@@ -140,7 +140,7 @@ The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 
 
 #### Amendments
 
-2009—Subsec. (i). Pub. L. 111–8 substituted “section after December 31, 2011” for “Act after December 31, 2007”.
+<b>2009</b>—Subsec. (i). Pub. L. 111–8 substituted “section after December 31, 2011” for “Act after December 31, 2007”.
 
-2003—Pub. L. 108–186 amended section generally. Prior to amendment, section required the Comptroller General to carry out a study of ways in which financing for affordable housing may be made available to assist in the most efficient implementation of comprehensive housing affordability strategies of participating jurisdictions and to submit to Congress and the Secretary, not later than one year after Nov. 28, 1990, a report containing any recommendations for legislative or administrative actions needed to improve the availability of mortgage finance for affordable housing.
+<b>2003</b>—Pub. L. 108–186 amended section generally. Prior to amendment, section required the Comptroller General to carry out a study of ways in which financing for affordable housing may be made available to assist in the most efficient implementation of comprehensive housing affordability strategies of participating jurisdictions and to submit to Congress and the Secretary, not later than one year after Nov. 28, 1990, a report containing any recommendations for legislative or administrative actions needed to improve the availability of mortgage finance for affordable housing.
 

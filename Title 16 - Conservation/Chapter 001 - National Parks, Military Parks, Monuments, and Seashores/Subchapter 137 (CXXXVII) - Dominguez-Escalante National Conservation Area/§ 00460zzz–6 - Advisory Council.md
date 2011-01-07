@@ -46,7 +46,7 @@ The Council shall terminate on the date that is 1 year from the date on which th
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (c)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (c)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (c)(2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 

@@ -4,7 +4,7 @@
 
 In exercising his functions under this chapter, the Director shall—
 
-&emsp;(1) work in close consultation and cooperation with the Domestic Council, the National Security Council, the Office of Homeland Security, the Council on Environmental Quality, the Council of Economic Advisers, the Office of Management and Budget, the NationalScience Board, and the Federal departments and agencies;
+&emsp;(1) work in close consultation and cooperation with the Domestic Council, the National Security Council, the Office of Homeland Security, the Council on Environmental Quality, the Council of Economic Advisers, the Office of Management and Budget, the National Science Board, and the Federal departments and agencies;
 
 &emsp;(2) utilize the services of consultants, establish such advisory panels, and, to the extent practicable, consult with State and local governmental agencies, with appropriate professional groups, and with such representatives of industry, the universities, agriculture, labor, consumers, conservation organizations, and such other public interest groups, organizations, and individuals as he deems advisable;
 
@@ -18,13 +18,13 @@ Each department, agency, and instrumentality of the Executive Branch of the Gove
 
 #### (c) Assistance from Administrator of National Aeronautics and Space Administration
 
-Upon request, the Administrator of the National Aeronautics and Space Administration is authorized to assist the Director with respect to carrying out his activities conducted under paragraph (5) of section 6614(a) of this title.
+Upon request, the Administrator of the National Aeronautics and Space Administration is authorized to assist the Director with respect tocarrying out his activities conducted under paragraph (5) of section 6614(a) of this title.
 
 (Pub. L. 94–282, title II, §208, May 11, 1976, 90 Stat. 467; Pub. L. 107–296, title XVII, §1712(2), Nov. 25, 2002, 116 Stat. 2320.)
 
 #### Amendments
 
-2002—Subsec. (a)(1). Pub. L. 107–296 inserted “the Office of Homeland Security,” after “the National Security Council,”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–296 inserted “the Office of Homeland Security,” after “the National Security Council,”.
 
 #### Effective Date of 2002 Amendment
 

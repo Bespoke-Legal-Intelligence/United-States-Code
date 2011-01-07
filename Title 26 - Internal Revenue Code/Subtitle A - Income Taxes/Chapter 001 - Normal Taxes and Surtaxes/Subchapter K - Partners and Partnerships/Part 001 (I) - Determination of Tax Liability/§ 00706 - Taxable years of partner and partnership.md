@@ -142,7 +142,7 @@ Section 584(h), referred to in subsec. (b)(5), was redesignated section 584(i) b
 
 #### Amendments
 
-1997—Subsec. (b)(5). Pub. L. 105–34, §507(b)(2), substituted “section 644” for “section 645”.
+<b>1997</b>—Subsec. (b)(5). Pub. L. 105–34, §507(b)(2), substituted “section 644” for “section 645”.
 
 Subsec. (c)(2). Pub. L. 105–34, §1246(b), substituted “Treatment of dispositions” for “Partner who retires or sells interest in partnership” as heading.
 
@@ -152,7 +152,7 @@ Subsec. (c)(2)(A). Pub. L. 105–34, §1246(a), amended heading and text of subp
 
 &emsp;“(ii) with respect to a partner whose interest is liquidated, except that the taxable year of a partnership with respect to a partner who dies shall not close prior to the end of the partnership's taxable year.”
 
-1988—Subsec. (b)(1)(B)(i). Pub. L. 100–647, §1008(e)(1)(A), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the taxable year of 1 or more of its partners who have an aggregate interest in partnership profits and capital of greater than 50 percent,”.
+<b>1988</b>—Subsec. (b)(1)(B)(i). Pub. L. 100–647, §1008(e)(1)(A), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the taxable year of 1 or more of its partners who have an aggregate interest in partnership profits and capital of greater than 50 percent,”.
 
 Subsec. (b)(1)(B)(iii). Pub. L. 100–647, §1008(e)(2), substituted “unless the Secretary by regulations prescribes another period” for “or such other period as the Secretary may prescribe in regulations”.
 
@@ -166,7 +166,7 @@ Subsec. (b)(4). Pub. L. 100–647, §1008(e)(1)(B), substituted “Majority inte
 
 Subsec. (b)(5). Pub. L. 100–647, §1008(e)(3), added par. (5).
 
-1986—Subsec. (b). Pub. L. 99–514, §806(a)(3), struck out “Adoption of” before “taxable year” in heading.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514, §806(a)(3), struck out “Adoption of” before “taxable year” in heading.
 
 Subsec. (b)(1). Pub. L. 99–514, §806(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The taxable year of a partnership shall be determined as though the partnership were a taxpayer. A partnership may not change to, or adopt, a taxable year other than that of all its principal partners unless it establishes, to the satisfaction of the Secretary, a business purpose therefor.”
 
@@ -178,13 +178,13 @@ Subsec. (d)(2)(B). Pub. L. 99–514, §1805(a)(1)(B), in introductory provisions
 
 Subsec. (d)(2)(C)(i). Pub. L. 99–514, §1805(a)(2), substituted “the first day of the taxable year” for “the first day of such taxable year”.
 
-1984—Subsec. (c)(2)(A). Pub. L. 98–369, §72(b)(1), struck out last sentence providing that such partner's distributive share of item described in section 702(a) for such year shall be determined, under regulations prescribed by the Secretary, for the period ending with such sale, exchange, or liquidation.
+<b>1984</b>—Subsec. (c)(2)(A). Pub. L. 98–369, §72(b)(1), struck out last sentence providing that such partner's distributive share of item described in section 702(a) for such year shall be determined, under regulations prescribed by the Secretary, for the period ending with such sale, exchange, or liquidation.
 
 Subsec. (c)(2)(B). Pub. L. 98–369, §72(b)(2), struck out “, but such partner's distributive share of items described in section 702(a) shall be determined by taking into account his varying interests in the partnership during the taxable year” after “otherwise)”.
 
 Subsec. (d). Pub. L. 98–369, §72(a), added subsec. (d).
 
-1976—Subsec. (b)(1), (2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b)(1), (2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (c)(2). Pub. L. 94–455, §§213(c)(1), 1906(b)(13)(A), substituted “or with respect to a partner whose interest is reduced (whether by entry of a new partner, partial liquidation of a partner's interest, gift, or otherwise)” for “or with respect to a partner whose interest is reduced”, in par. (B), and struck out “or his delegate” after “Secretary” in par. (A).
 

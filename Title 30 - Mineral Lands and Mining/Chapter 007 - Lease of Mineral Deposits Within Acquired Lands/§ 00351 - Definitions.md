@@ -18,7 +18,7 @@ Act of February 7, 1927, referred to in text, is act Feb. 7, 1927, ch. 66, 44 St
 
 #### Amendments
 
-1981—Pub. L. 97–78 inserted definition of “oil”.
+<b>1981</b>—Pub. L. 97–78 inserted definition of “oil”.
 
 #### Short Title
 
@@ -26,7 +26,7 @@ Section 1 of act Aug. 7, 1947, provided: “That this Act \[enacting this chapte
 
 #### Admission of Alaska as State
 
-Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, setout as notes preceding section 21 of Title 48, Territories and Insular Possessions.
+Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
 
 #### Outer Continental Shelf Lands; Definition
 

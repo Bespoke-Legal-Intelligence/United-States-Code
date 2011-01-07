@@ -24,7 +24,7 @@ Management of Joint Staff.—The Chairman of the Joint Chiefs of Staff manages t
 
 (d)
 
-Operation of Joint Staff.—The Secretary of Defense shall ensure that the Joint Staff is independently organized and operated so that the Joint Staff supports the Chairman of the Joint Chiefs of Staff in meeting the congressional purpose set forth in the last clause of section 2 of the National Security Act of 1947 (50 U.S.C. 401) to provide—
+Operation of Joint Staff.—The Secretary of Defense shall ensure that the Joint Staff is independently organized and operated so thatthe Joint Staff supports the Chairman of the Joint Chiefs of Staff in meeting the congressional purpose set forth in the last clause of section 2 of the National Security Act of 1947 (50 U.S.C. 401) to provide—
 
 &emsp;(1) for the unified strategic direction of the combatant forces;
 
@@ -60,11 +60,11 @@ Composition of Joint Staff.—(1) The Joint Staff is composed of all members of 
 
 #### Amendments
 
-1993—Subsec. (a)(1). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–484. See 1992 Amendment note below.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–484. See 1992 Amendment note below.
 
-1992—Subsec. (a)(1). Pub. L. 102–484, as amended by Pub. L. 103–35, struck out “and the Vice Chairman” before “in carrying out”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–484, as amended by Pub. L. 103–35, struck out “and the Vice Chairman” before “in carrying out”.
 
-1990—Subsecs. (g), (h). Pub. L. 101–510 redesignated subsec. (h) as (g) and struck out former subsec. (g) which read as follows: “
+<b>1990</b>—Subsecs. (g), (h). Pub. L. 101–510 redesignated subsec. (h) as (g) and struck out former subsec. (g) which read as follows: “
 
 Limitation on Size of Joint Staff.—(1) Effective on October 1, 1988, the total number of members of the armed forces and civilian personnel assigned or detailed to permanent duty on the Joint Staff may not exceed 1,627.
 
@@ -74,7 +74,7 @@ Limitation on Size of Joint Staff.—(1) Effective on October 1, 1988, the total
 
 &emsp;“(B) during a national emergency declared by the President or Congress.”
 
-1987—Subsec. (f)(4)(B). Pub. L. 100–180, §1314(b)(2)(A), inserted “or Congress” after “by the President”.
+<b>1987</b>—Subsec. (f)(4)(B). Pub. L. 100–180, §1314(b)(2)(A), inserted “or Congress” after “by the President”.
 
 Subsec. (g)(2)(B). Pub. L. 100–180, §1314(b)(2)(B), inserted “the President or” after “declared by”.
 
@@ -120,7 +120,7 @@ Establishment of Positions.—The Secretary of Defense shall establish the follo
 
 Selection.—(1) The Assistant to the Chairman of the Joint Chiefs of Staff for National Guard Matters shall be selected by the Chairman from officers of the Army National Guard of the United States or the Air Guard of the United States who—
 
-&emsp;“(A) are recommended for such selection by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard;
+&emsp;“(A) are recommended for such selection by their respective Governors or, in the case of the District ofColumbia, the commanding general of the District of Columbia National Guard;
 
 &emsp;“(B) have had at least 10 years of federally recognized commissioned service in the National Guard; and
 

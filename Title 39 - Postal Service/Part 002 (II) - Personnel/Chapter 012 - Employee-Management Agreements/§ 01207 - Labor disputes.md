@@ -16,5 +16,5 @@
 
 #### Amendments
 
-2006—Pub. L. 109–435 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to labor disputes between the Postal Service and bargaining representatives.
+<b>2006</b>—Pub. L. 109–435 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to labor disputes between the Postal Service and bargaining representatives.
 

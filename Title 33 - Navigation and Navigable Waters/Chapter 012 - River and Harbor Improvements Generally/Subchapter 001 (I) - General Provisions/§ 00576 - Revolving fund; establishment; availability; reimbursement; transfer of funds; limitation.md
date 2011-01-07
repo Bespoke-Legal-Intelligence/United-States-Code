@@ -8,7 +8,7 @@ There is established a revolving fund, to be available without fiscal year limit
 
 Section is also set out as section 701b–10 of this title.
 
-Section was formerly classified to section 190b of Title 10 prior to the general revision and enactment ofTitle 10, Armed Forces, by act Aug. 10, 1956, ch. 1041, §1, 70A Stat. 1.
+Section was formerly classified to section 190b of Title 10 prior to the general revision and enactment of Title 10, Armed Forces, by act Aug. 10, 1956, ch. 1041, §1, 70A Stat. 1.
 
 #### Headquarters Aircraft; Transfer and Reassignment of Property Accountability to Army Military Activity
 

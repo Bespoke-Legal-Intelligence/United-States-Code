@@ -140,11 +140,11 @@ A prior section 3843, Pub. L. 99–198, title XII, §1243, Dec. 23, 1985, 99 Sta
 
 #### Amendments
 
-2008—Pub. L. 110–246, §2707(b), amended section generally. Prior to amendment, section related to administration of comprehensive conservation enhancement program.
+<b>2008</b>—Pub. L. 110–246, §2707(b), amended section generally. Prior to amendment, section related to administration of comprehensive conservation enhancement program.
 
 Pub. L. 110–246, §2707(a), redesignated and transferred subsecs. (a), (c), and (d) of this section to subsecs. (c) to (e), respectively, of section 3844 of this title.
 
-2002—Pub. L. 107–171, §2006(d), substituted “Administration of CCEP” for “Administration” in section catchline.
+<b>2002</b>—Pub. L. 107–171, §2006(d), substituted “Administration of CCEP” for “Administration” in section catchline.
 
 Subsec. (f). Pub. L. 107–171, §2003, added subsec. (f).
 

@@ -1,7 +1,5 @@
 Part B—High-Performance Commercial Buildings
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Code”.</i>
-
 
 ---
 

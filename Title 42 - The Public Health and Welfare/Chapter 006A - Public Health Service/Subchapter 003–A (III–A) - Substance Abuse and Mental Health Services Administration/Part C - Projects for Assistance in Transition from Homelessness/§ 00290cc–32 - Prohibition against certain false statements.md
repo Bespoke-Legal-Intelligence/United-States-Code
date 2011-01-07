@@ -14,5 +14,5 @@ Any person who violates a prohibition established in subsection (a) of this sect
 
 #### Amendments
 
-1990—Pub. L. 101–645 amended section generally, substituting provisions relating to prohibition against certain false statements for provisions relating to failure to comply with agreements.
+<b>1990</b>—Pub. L. 101–645 amended section generally, substituting provisions relating to prohibition against certain false statements for provisions relating to failure to comply with agreements.
 

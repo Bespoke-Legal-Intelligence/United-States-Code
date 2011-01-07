@@ -10,5 +10,5 @@
 
 #### Amendments
 
-2007—Pub. L. 110–161 renumbered section 554, relating to border tunnels and passages, as this section.
+<b>2007</b>—Pub. L. 110–161 renumbered section 554, relating to border tunnels and passages, as this section.
 

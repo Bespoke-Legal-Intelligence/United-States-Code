@@ -6,7 +6,7 @@ Subject to valid existing rights the following-described lands, in addition to t
 
 &emsp;(1) All that part of Passage Island lying south of a true east and west line located four hundred and twenty-five feet true north of the center of the Passage Island Light containing approximately six and five-tenths acres.
 
-&emsp;(2) Beginning at the center of Passage Island Light, thence north thirty-three degrees fifty-two minutes east three thousand five hundred and fifteen feet to a point from which this description shall begin to measure, being the southwest corner of said boathouse site; thence north two hundred feet to a point being the northwest corner of said site; thence east one hundred and seventy-five feet more or less to the harbor shore; thence southeasterly following the harbor shore to a point on the shore being a point on the south boundary of the boathouse site; thence two hundred feet more or less west to the point of beginning, containing approximately seventy-eight one-hundredths acre.
+&emsp;(2) Beginning at the center of Passage Island Light, thence north thirty-three degrees fifty-two minutes east three thousand five hundred and fifteen feet to a point from which this description shall begin to measure, being the southwest corner of said boathouse site; thence north two hundred feet to a point beingthe northwest corner of said site; thence east one hundred and seventy-five feet more or less to the harbor shore; thence southeasterly following the harbor shore to a point on the shore being a point on the south boundary of the boathouse site; thence two hundred feet more or less west to the point of beginning, containing approximately seventy-eight one-hundredths acre.
 
 &emsp;(3) A right-of-way between the sites described in the preceding subparagraphs, to be defined by the Secretary of the Navy within a reasonable length of time after March 6, 1942.
 
@@ -16,7 +16,7 @@ Subject to valid existing rights the following-described lands, in addition to t
 
 #### Amendments
 
-1976—Pub. L. 94–567 designated existing provisions as par. (a), redesignated subpars. (a) to (c) as (1) to (3), respectively, and added par. (b).
+<b>1976</b>—Pub. L. 94–567 designated existing provisions as par. (a), redesignated subpars. (a) to (c) as (1) to (3), respectively, and added par. (b).
 
-1942—Act July 27, 1942, substituted “Secretary of the Navy” for “Secretary of the Treasury”.
+<b>1942</b>—Act July 27, 1942, substituted “Secretary of the Navy” for “Secretary of the Treasury”.
 

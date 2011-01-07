@@ -40,7 +40,7 @@ Prior to the general amendment of section 106 of Pub. L. 96–254 by Pub. L. 97�
 
 #### Amendments
 
-1983—Subsec. (a). Pub. L. 97–468 substituted provisions relating to an agreement between the Secretary and the employees for provisions relating to an agreement between the Rock Island Railroad and the employees.
+<b>1983</b>—Subsec. (a). Pub. L. 97–468 substituted provisions relating to an agreement between the Secretary and the employees for provisions relating to an agreement between the Rock Island Railroad and the employees.
 
 Subsec. (b). Pub. L. 97–468 substituted provisions relating to the prescription of benefits by the Secretary if no agreement is reached with the employees, for provisions relating to imposition of agreement by the Interstate Commerce Commission if none was reached between the Rock Island Railroad and the employees.
 
@@ -50,7 +50,7 @@ Subsec. (d). Pub. L. 97–468 added subsec. (d). Former subsec. (d), which presc
 
 Subsec. (e). Pub. L. 97–468 struck out subsec. (e) which related to prescription of regulations by the Board for the filing and payment of benefits and allowances.
 
-1980—Subsec. (a). Pub. L. 96–448 substituted “5 days after October 14, 1980” for “10 days after May 30, 1980”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–448 substituted “5 days after October 14, 1980” for “10 days after May 30, 1980”.
 
 Subsec. (b). Pub. L. 96–448 substituted “5 days after October 14, 1980” for “10 days after May 30, 1980” and “15 days after October 14, 1980” for “30 days after May 30, 1980”.
 

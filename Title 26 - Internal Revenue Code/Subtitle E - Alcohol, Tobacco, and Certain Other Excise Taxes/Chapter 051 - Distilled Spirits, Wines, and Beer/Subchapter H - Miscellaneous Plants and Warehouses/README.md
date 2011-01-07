@@ -14,7 +14,7 @@ A prior subchapter H consisted of parts I to III, prior to the general revision 
 
 #### Amendments
 
-1979—Pub. L. 96–39, title VIII, §807(b)(9), July 26, 1979, 93 Stat. 291, struck out item relating to Part III “Manufacturing bonded warehouses” in table of Parts comprising Subchapter H.
+<b>1979</b>—Pub. L. 96–39, title VIII, §807(b)(9), July 26, 1979, 93 Stat. 291, struck out item relating to Part III “Manufacturing bonded warehouses” in table of Parts comprising Subchapter H.
 
 
 ---

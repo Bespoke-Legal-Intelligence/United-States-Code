@@ -2,7 +2,7 @@
 
 #### (a) Refusal of admission to noncomplying electronic products
 
-Any electronic product offered for importation into the United States which fails to comply with an applicable standard prescribed under this part, or to which is not affixed a certification in the form of a label or tag in conformity with section 360kk(h) of this title shall be refused admission into the United States. The Secretary of the Treasury shall deliver to the Secretary of Health and Human Services, upon the latter's request, samples of electronic products which are being imported or offered for import into the United States, giving notice thereof to the owner or consignee, who may have a hearing before the Secretary of Health and Human Services. If it appears from an examination of such samples or otherwise that any electronic product fails to comply with applicable standards prescribed pursuant to section 360kk of this title, then, unless subsection (b) of this section applies and is complied with, (1) such electronic product shall be refused admission, and (2) the Secretary of the Treasury shall cause the destruction of such electronic product unless such article is exported, under regulations prescribed by the Secretary of the Treasury, within 90 days after the date of notice of refusal of admission or within such additional time as may be permitted by such regulations.
+Any electronic product offered for importation into the United States which fails to comply with an applicable standard prescribed under this part, or to which is not affixed a certification in the form of a label or tag in conformity with section 360kk(h) of this title shall be refused admission into the United States. The Secretary of the Treasury shall deliver to the Secretary of Health and Human Services, upon the latter's request, samples of electronic products which are being imported or offered for import into the United States, giving notice thereof to the owner or consignee, who may have a hearing before the Secretary of Health and Human Services. If it appears from an examination of such samples or otherwise that any electronic product fails to comply with applicable standardsprescribed pursuant to section 360kk of this title, then, unless subsection (b) of this section applies and is complied with, (1) such electronic product shall be refused admission, and (2) the Secretary of the Treasury shall cause the destruction of such electronic product unless such article is exported, under regulations prescribed by the Secretary of the Treasury, within 90 days after the date of notice of refusal of admission or within such additional time as may be permitted by such regulations.
 
 #### (b) Bond
 
@@ -24,11 +24,11 @@ Section was classified to section 263h of Title 42, The Public Health and Welfar
 
 #### Amendments
 
-1993—Pub. L. 103–80 amended directory language of Pub. L. 101–629, §19(a)(4), which renumbered section 263h of Title 42, The Public Health and Welfare, as this section.
+<b>1993</b>—Pub. L. 103–80 amended directory language of Pub. L. 101–629, §19(a)(4), which renumbered section 263h of Title 42, The Public Health and Welfare, as this section.
 
-1992—Subsecs. (a), (b). Pub. L. 102–300 substituted “Health and Human Services” for “Health, Education, and Welfare” wherever appearing.
+<b>1992</b>—Subsecs. (a), (b). Pub. L. 102–300 substituted “Health and Human Services” for “Health, Education, and Welfare” wherever appearing.
 
-1990—Subsec. (a). Pub. L. 101–629, §19(a)(1)(B), (2)(D), substituted “this part” for “this subpart”, “section 360kk(h)” for “section 263f(h)”, and “section 360kk” for “section 263f”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–629, §19(a)(1)(B), (2)(D), substituted “this part” for “this subpart”, “section 360kk(h)” for “section 263f(h)”, and “section 360kk” for “section 263f”.
 
 Subsec. (b). Pub. L. 101–629, §19(a)(2)(D), substituted “section 360kk” for “section 263f”.
 

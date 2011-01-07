@@ -20,17 +20,19 @@ Any sums appropriated pursuant to subsection (b) of this section for any fiscal 
 
 A prior section 1087aa, Pub. L. 89–329, title IV, §461, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 273; amended Pub. L. 94–482, title I, §130(a), (b), Oct. 12, 1976, 90 Stat. 2146; Pub. L. 96–49, §5(d)(1), (2), Aug. 13, 1979, 93 Stat. 352; Pub. L. 96–374, title IV, §441, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1436, 1503, authorized a program to establish and maintain funds at institutions of higher education for making low-interest loans to students, prior to the general revision of this part by Pub. L. 99–498.
 
+Another prior section 461 of Pub. L. 89–329 amended former section 403 of this title.
+
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–315, §461(1), substituted “$300,000,000 for fiscal year 2009 and for each of the five succeeding fiscal years” for “$250,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years”.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–315, §461(1), substituted “$300,000,000 for fiscal year 2009 and for each of the five succeeding fiscal years” for “$250,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years”.
 
 Subsec. (b)(2). Pub. L. 110–315, §461(2), substituted “2015” for “2003” in two places.
 
-1998—Subsec. (b)(1). Pub. L. 105–244, §461(1), substituted “1999” for “1993”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–244, §461(1), substituted “1999” for “1993”.
 
 Subsec. (b)(2). Pub. L. 105–244, §461(2), substituted “2003” for “1997” in two places.
 
-1992—Subsec. (a). Pub. L. 102–325, §461(a)(2), (b), inserted “or while engaged in programs of study abroadapproved for credit by such institutions” after “in such institutions” and substituted “Federal Perkins Loans” for “Perkins Loans”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–325, §461(a)(2), (b), inserted “or while engaged in programs of study abroad approved for credit by such institutions” after “in such institutions” and substituted “Federal Perkins Loans” for “Perkins Loans”.
 
 Subsec. (b). Pub. L. 102–325, §461(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 

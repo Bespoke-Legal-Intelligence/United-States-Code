@@ -10,11 +10,11 @@ Educational assistance may not be provided under this chapter—
 
 #### Amendments
 
-1994—Pub. L. 103–337 renumbered section 2134 of this title as this section.
+<b>1994</b>—Pub. L. 103–337 renumbered section 2134 of this title as this section.
 
-1984—Pub. L. 98–525 amended section generally, substituting provisions covering termination of educational assistance for provisions relating to reports to Congress. See section 16137 of this title.
+<b>1984</b>—Pub. L. 98–525 amended section generally, substituting provisions covering termination of educational assistance for provisions relating to reports to Congress. See section 16137 of this title.
 
-1983—Pub. L. 98–94 struck out provision requiring the first report under this section to be submitted not later than Dec. 31, 1977.
+<b>1983</b>—Pub. L. 98–94 struck out provision requiring the first report under this section to be submitted not later than Dec. 31, 1977.
 
 #### Effective Date of 1984 Amendment
 

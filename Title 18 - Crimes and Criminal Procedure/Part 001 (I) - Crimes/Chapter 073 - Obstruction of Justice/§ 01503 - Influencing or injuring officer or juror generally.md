@@ -22,13 +22,13 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–214 inserted at end “If the offense under this section occurs in connection with a trial of a criminal case, and the act in violation of this section involves the threat of physical force or physical force, the maximum term of imprisonment which may be imposed for the offense shall be the higher of that otherwise provided by law or the maximum term that could have been imposed for any offense charged in such case.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–214 inserted at end “If the offense under this section occurs in connection with a trial of a criminal case, and the act in violation of this section involves the threat of physical force or physical force, the maximum term of imprisonment which may be imposed for the offense shall be the higher of that otherwise provided by law or the maximum term that could have been imposed for any offense charged in such case.”
 
-1994—Pub. L. 103–322, §330016(1)(K), which directed the substitution of “fined under this title” for “fined not more than $5,000”, could not be executed because the words “fined not more than $5,000” did not appear in text subsequent to amendment by Pub. L. 103–322, §60016. See below.
+<b>1994</b>—Pub. L. 103–322, §330016(1)(K), which directed the substitution of “fined under this title” for “fined not more than $5,000”, could not be executed because the words “fined not more than $5,000” did not appear in text subsequent to amendment by Pub. L. 103–322, §60016. See below.
 
 Pub. L. 103–322, §60016, designated existing provisions as subsec. (a), substituted “magistrate judge” for “commissioner” in two places and “punished as provided in subsection (b)” for “fined not more than $5,000 or imprisoned not more than five years, or both”, and added subsec. (b).
 
-1982—Pub. L. 97–291, §4(c)(1), substituted “or juror” for “, juror or witness” after “officer” in section catchline.
+<b>1982</b>—Pub. L. 97–291, §4(c)(1), substituted “or juror” for “, juror or witness” after “officer” in section catchline.
 
 Pub. L. 97–291, §4(c)(2), (3), substituted in text “grand” for “witness, in any court of the United States or before any United States commissioner or other committing magistrate, or any grand” after “or impede any”, and struck out “injures any party or witness in his person or property on account of his attending or having attended such court or examination before such officer, commissioner, or other committing magistrate, or on account of his testifying or having testified to any matter pending therein, or” after “discharge of his duty, or”.
 

@@ -6,11 +6,11 @@ The Trading With the Enemy Act of October 6, 1917 (40 Stat. 411), as amended, sh
 
 #### References in Text
 
-The Trading With the Enemy Act of October 6, 1917, as amended, referred to in text, is act Oct. 6, 1917, ch. 106, 40 Stat. 411, as amended, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix,War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Trading With the Enemy Act of October 6, 1917, as amended, referred to in text, is act Oct. 6, 1917, ch. 106, 40 Stat. 411, as amended, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-1950—Act Dec. 21, 1950, required that 90 days after Dec. 21, 1950, all suits against the Philippine Alien Property Administration be brought in United States courts instead of in Philippine courts.
+<b>1950</b>—Act Dec. 21, 1950, required that 90 days after Dec. 21, 1950, all suits against the Philippine Alien Property Administration be brought in United States courts instead of in Philippine courts.
 
 #### Termination of Philippine Alien Property Administration; Transfer of Functions
 

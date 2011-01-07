@@ -18,5 +18,5 @@ The Civil Rights Act of 1964, referred to in subsec. (b)(2), is Pub. L. 88–352
 
 #### Amendments
 
-1980—Subsec. (b). Pub. L. 96–294 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1980</b>—Subsec. (b). Pub. L. 96–294 substituted “Secretary” for “Administrator” wherever appearing.
 

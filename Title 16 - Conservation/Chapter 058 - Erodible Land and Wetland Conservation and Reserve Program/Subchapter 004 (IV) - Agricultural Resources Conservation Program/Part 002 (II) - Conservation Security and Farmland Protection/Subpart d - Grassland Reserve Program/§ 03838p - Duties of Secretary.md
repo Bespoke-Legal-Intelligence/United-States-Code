@@ -82,7 +82,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §2403, amended section generally. Prior to amendment, section related to: in subsec. (a), duty of Secretary to make payments to an owner; in subsec. (b), amount of payments; in subsec. (c), Federal share of restoration; and in subsec. (d), payments to others.
+<b>2008</b>—Pub. L. 110–246, §2403, amended section generally. Prior to amendment, section related to: in subsec. (a), duty of Secretary to make payments to an owner; in subsec. (b), amount of payments; in subsec. (c), Federal share of restoration; and in subsec. (d), payments to others.
 
 #### Effective Date of 2008 Amendment
 

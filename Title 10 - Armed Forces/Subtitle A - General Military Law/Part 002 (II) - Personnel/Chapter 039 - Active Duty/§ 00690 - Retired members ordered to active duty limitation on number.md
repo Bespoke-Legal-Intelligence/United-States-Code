@@ -34,9 +34,9 @@ Provisions similar to those in subsecs. (a) and (c) of this section were contain
 
 #### Amendments
 
-2001—Subsec. (b)(2)(E). Pub. L. 107–107 added subpar. (E).
+<b>2001</b>—Subsec. (b)(2)(E). Pub. L. 107–107 added subpar. (E).
 
-1999—Subsec. (b)(2)(D). Pub. L. 106–65 added subpar. (D).
+<b>1999</b>—Subsec. (b)(2)(D). Pub. L. 106–65 added subpar. (D).
 
 #### Effective Date of 2001 Amendment
 

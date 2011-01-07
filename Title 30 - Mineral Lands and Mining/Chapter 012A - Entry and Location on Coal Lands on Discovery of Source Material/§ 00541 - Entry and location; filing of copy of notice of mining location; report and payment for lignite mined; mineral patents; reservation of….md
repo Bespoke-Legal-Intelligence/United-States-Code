@@ -4,9 +4,3 @@ Subject to the conditions and provisions of this chapter and to any valid interv
 
 (Aug. 11, 1955, ch. 795, §1, 69 Stat. 679.)
 
-#### References in Text
-
-The mining laws of the United States, referred to in text, are classified generally to this title.
-
-For definitions of “mineral leasing laws” and “Leasing Act minerals”, referred to in text, see section 541e of this title.
-

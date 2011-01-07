@@ -16,13 +16,13 @@
 
 (c) Unless waived by the Secretary of Transportation, a person purchasing a vessel by court order under subsection (a)(1) of this section or from a mortgagee under subsection (a)(2) of this section must document the vessel under chapter 121 of this title.
 
-(d) The vessel may be operated by the mortgagee not eligible to own a documented vessel only with the approval of the Secretary.
+(d) The vessel may be operated by the mortgagee not eligible to own a documented vessel only with the approval of the Secretary of Transportation.
 
 (e) A sale of a vessel contrary to this section is void.
 
 (f) This section does not apply to a documented vessel that has been operated only for pleasure.
 
-(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4747; Pub. L. 104–324, title XI, §1118, Oct. 19, 1996, 110 Stat. 3973; Pub. L. 109–304, §15(32), Oct. 6, 2006, 120 Stat. 1704.)
+(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4747; Pub. L. 104–324, title XI, §1118, Oct. 19, 1996, 110 Stat. 3973; Pub. L. 109–304, §15(32), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 111–281, title IX, §913(c), Oct. 15, 2010, 124 Stat. 3017.)
 
 Historical and Revision Notes
 
@@ -52,11 +52,13 @@ Under section 31329(d) a vessel may be operated by the trustee only with the app
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–304, §15(32)(A), substituted “section 12103” for “section 12102”.
+<b>2010</b>—Subsec. (d). Pub. L. 111–281 substituted “Secretary of Transportation” for “Secretary”.
+
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–304, §15(32)(A), substituted “section 12103” for “section 12102”.
 
 Subsec. (b)(2). Pub. L. 109–304, §15(32)(B)(i), substituted “chapter 563 of this title” for “section 902 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1242)”.
 
 Subsec. (b)(3). Pub. L. 109–304, §15(32)(B)(ii), substituted “sale to a person not a citizen of the United States under section 12132 of this title” for “sale foreign within the terms of the first proviso of section 27 of the Merchant Marine Act, 1920 (46 App. U.S.C. 883)”.
 
-1996—Subsec. (f). Pub. L. 104–324 added subsec. (f).
+<b>1996</b>—Subsec. (f). Pub. L. 104–324 added subsec. (f).
 

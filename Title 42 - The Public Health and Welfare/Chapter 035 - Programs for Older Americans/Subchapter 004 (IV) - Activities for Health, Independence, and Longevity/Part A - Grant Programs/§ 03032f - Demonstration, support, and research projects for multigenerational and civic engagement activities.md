@@ -104,5 +104,5 @@ As used in this section:
 
 #### Amendments
 
-2006—Pub. L. 109–365 amended section generally, substituting provisions relating to demonstration, support, and research projects for multigenerational and civic engagement activities for provisions relating to demonstration projects for multigenerational activities.
+<b>2006</b>—Pub. L. 109–365 amended section generally, substituting provisions relating to demonstration, support, and research projects for multigenerational and civic engagement activities for provisions relating to demonstration projects for multigenerational activities.
 

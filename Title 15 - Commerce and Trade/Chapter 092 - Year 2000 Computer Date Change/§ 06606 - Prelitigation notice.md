@@ -92,7 +92,7 @@ Nothing in this section supersedes or otherwise preempts any State law or rule o
 
 #### (i) Provisional remedies unaffected
 
-Nothing in this section interferes with the right of a litigant to provisional remedies otherwise available under Rule 65 of the Federal Rules of Civil Procedure or any State rule of civil procedure providing extraordinary or provisional remedies in any civil action in which the underlying complaint seeks both injunctive and monetary relief.
+Nothing in this section interferes with the right of a litigant to provisional remedies otherwise available under Rule 65 of the Federal Rules of Civil Procedure or any State rule of civil procedure providing extraordinary or provisional remedies in any civil action in which theunderlying complaint seeks both injunctive and monetary relief.
 
 #### (j) Special rule for class actions
 

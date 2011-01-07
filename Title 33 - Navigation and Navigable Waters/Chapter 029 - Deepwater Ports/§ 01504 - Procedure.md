@@ -40,7 +40,7 @@ The Secretary, in consultation with the Secretary of the Interior and the Admini
 
 &emsp;(M) such other information as may be required by the Secretary to determine the environmental impact of the proposed deepwater port.
 
-(3) Upon written request of any person subject to this subsection, the Secretary may make a determination in writing to exempt such person from any of the informational filing provisions enumerated in this subsection or the regulationsimplementing this section if the Secretary determines that such information is not necessary to facilitate the Secretary's determinations under section 1503 of this title and that such exemption will not limit public review and evaluation of the deepwater port project.
+(3) Upon written request of any person subject to this subsection, the Secretary may make a determination in writing to exempt such person from any of the informational filing provisions enumerated in this subsection or the regulations implementing this section if the Secretary determines that such information is not necessary to facilitate the Secretary's determinations under section 1503 of this title and that such exemption will not limit public review and evaluation of the deepwater port project.
 
 #### (d) Application area; publication in Federal Register; “application area” defined; submission of other applications; notice of intent and submission of completed applications; denial of pending application prior to consideration of other untimely applications
 
@@ -82,7 +82,7 @@ A license may be issued only after public notice and public hearings in accordan
 
 &emsp;(A) to an adjacent coastal State (or combination of States), any political subdivision thereof, or agency or instrumentality, including a wholly owned corporation of any such government;
 
-&emsp;(B) to a person who is neither (i) engaged in producing, refining, or marketing oil, nor (ii) an affiliate of any person who is engaged in producing, refining, or marketing oil or an affiliate of any such affiliate;
+&emsp;(B) to a person who is neither (i) engaged in producing, refining, or marketing oil, nor (ii)an affiliate of any person who is engaged in producing, refining, or marketing oil or an affiliate of any such affiliate;
 
 &emsp;(C) to any other person.
 
@@ -96,7 +96,7 @@ A license may be issued only after public notice and public hearings in accordan
 
 (4) The Secretary shall approve or deny any application for a deepwater port for natural gas submitted pursuant to this chapter not later than 90 days after the last public hearing on a proposed license. Paragraphs (1), (2), and (3) of this subsection shall not apply to an application for a deepwater port for natural gas.
 
-(Pub. L. 93–627, §5, Jan. 3, 1975, 88 Stat. 2131; Pub. L. 98–419, §2(f), Sept. 25, 1984, 98 Stat. 1607; Pub. L. 104–324, title V, §505, Oct. 19, 1996, 110 Stat. 3927; Pub. L. 107–295, title I, §106(c), (f), (g), Nov. 25, 2002, 116 Stat. 2086–2088; Pub. L. 109–241, title III, §304(c)(1), July 11, 2006, 120 Stat. 527.)
+(Pub. L. 93–627, §5, Jan. 3, 1975, 88 Stat. 2131; Pub. L. 98–419, §2(f), Sept. 25, 1984, 98 Stat. 1607; Pub. L. 104–324, title V, §505, Oct. 19, 1996, 110 Stat. 3927; Pub. L. 107–295, title I, §106(c), (f), (g), Nov. 25, 2002, 116 Stat. 2086–2088; Pub. L. 109–241, title III, §304(c)(1), July 11, 2006, 120 Stat. 527; Pub. L. 111–281, title IX, §903(d), Oct. 15, 2010, 124 Stat. 3011.)
 
 #### References in Text
 
@@ -104,9 +104,11 @@ The National Environmental Policy Act of 1969, referred to in subsec. (f), is Pu
 
 #### Amendments
 
-2006—Subsec. (c)(2)(K) to (M). Pub. L. 109–241 added subpar. (K) and redesignated former subpars. (K) and (L) as (L) and (M), respectively.
+<b>2010</b>—Subsec. (c)(2)(K). Pub. L. 111–281 realigned margin.
 
-2002—Subsec. (d)(4). Pub. L. 107–295, §106(c)(1), added par. (4).
+<b>2006</b>—Subsec. (c)(2)(K) to (M). Pub. L. 109–241 added subpar. (K) and redesignated former subpars. (K) and (L) as (L) and (M), respectively.
+
+<b>2002</b>—Subsec. (d)(4). Pub. L. 107–295, §106(c)(1), added par. (4).
 
 Subsec. (f). Pub. L. 107–295, §106(f), substituted “NEPA compliance” for “Environmental impact statement for single application area; criteria” in heading and amended text generally. Prior to amendment, text read as follows: “For all timely applications covering a single application area, the Secretary, in cooperation with other involved Federal agencies and departments, shall, pursuant to section 4332(2)(C) of title 42, prepare a single, detailed environmental impact statement, which shall fulfill the requirement of all Federal agencies in carrying out their responsibilities pursuant to this chapter to prepare an environmental impact statement. In preparing such statement the Secretary shall consider the criteria established under section 1505 of this title.”
 
@@ -114,9 +116,9 @@ Subsec. (h)(2). Pub. L. 107–295, §106(g), inserted “and unless prohibited b
 
 Subsec. (i)(4). Pub. L. 107–295, §106(c)(2), added par. (4).
 
-1996—Subsec. (c)(3). Pub. L. 104–324 added par. (3).
+<b>1996</b>—Subsec. (c)(3). Pub. L. 104–324 added par. (3).
 
-1984—Subsec. (g). Pub. L. 98–419 substituted “issued” for “issued, transferred, or renewed”.
+<b>1984</b>—Subsec. (g). Pub. L. 98–419 substituted “issued” for “issued, transferred, or renewed”.
 
 #### Regulations
 

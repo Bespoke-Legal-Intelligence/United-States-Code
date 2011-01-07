@@ -60,7 +60,7 @@
 
 #### Amendments
 
-2000—Subsec. (c)(1)(A)(ii). Pub. L. 106–310 inserted “or under section 416(a) of the Controlled Substances Act (21 U.S.C. 856(a)),” after “under this title,”.
+<b>2000</b>—Subsec. (c)(1)(A)(ii). Pub. L. 106–310 inserted “or under section 416(a) of the Controlled Substances Act (21 U.S.C. 856(a)),” after “under this title,”.
 
 #### Effective Date
 

@@ -76,7 +76,7 @@ Unless otherwise provided for in this section, no drawback shall be allowed unde
 
 > then upon such exportation or destruction 99 percent of the amount of each duty, tax, or fee so paid shall be refunded as drawback. The exporter (or destroyer) has the right to claim drawback under this paragraph, but may endorse such right to the importer or any intermediate party.
 
-(2) Subject to paragraph (4), if there is, with respect to imported merchandise on which was paid any duty, tax, or fee imposed under Federal law upon entry or importation, any other merchandise (whether imported or domestic), that—
+(2) Subject to paragraph (4), if there is, with respect to imported merchandise on which waspaid any duty, tax, or fee imposed under Federal law upon entry or importation, any other merchandise (whether imported or domestic), that—
 
 &emsp;(A) is commercially interchangeable with such imported merchandise;
 
@@ -126,7 +126,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;(A) the term “NAFTA Act” means the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3301 et seq.\];
 
-&emsp;(B) the terms “NAFTA country” and “good subject to NAFTA drawback” have the same respective meanings that are given such terms in sections 2(4) and 203(a) of the NAFTA Act \[19 U.S.C. 3301(4), 3333(a)\];
+&emsp;(B) the terms “NAFTA country” and “good subject to NAFTA drawback” have the samerespective meanings that are given such terms in sections 2(4) and 203(a) of the NAFTA Act \[19 U.S.C. 3301(4), 3333(a)\];
 
 &emsp;(C) a refund, waiver, or reduction of duty under paragraph (2) of this subsection or paragraph (1) of subsection (<i>o</i>) of this section is subject to section 1508(b)(2)(B) of this title; and
 
@@ -264,7 +264,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 #### (1) Packaging material under subsections (c) and (j)
 
-&emsp;Packaging material, whether imported and duty paid, and claimed for drawback under either subsection (c) or (j)(1) of this section, or imported and duty paid, or substituted, and claimed for drawback under subsection (j)(2) ofthis section, shall be eligible for drawback, upon exportation, of 99 percent of any duty, tax, or fee imposed under Federal law on such imported material.
+&emsp;Packaging material, whether imported and duty paid, and claimed for drawback under either subsection (c) or (j)(1) of this section, or imported and duty paid, or substituted, andclaimed for drawback under subsection (j)(2) of this section, shall be eligible for drawback, upon exportation, of 99 percent of any duty, tax, or fee imposed under Federal law on such imported material.
 
 #### (2) Packaging material under subsections (a) and (b)
 
@@ -392,11 +392,11 @@ Permanent appropriations to pay debentures and other charges arising from duties
 
 #### Amendments
 
-2008—Subsec. (j)(2). Pub. L. 110–246, §15421(a), inserted at end of concluding provisions “For purposes of subparagraph (A) of this paragraph, wine of the same color having a price variation not to exceed 50 percent between the imported wine and the exported wine shall be deemed to be commercially interchangeable.”
+<b>2008</b>—Subsec. (j)(2). Pub. L. 110–246, §15421(a), inserted at end of concluding provisions “For purposes of subparagraph (A) of this paragraph, wine of the same color having a price variation not to exceed 50 percent between the imported wine and the exported wine shall be deemed to be commercially interchangeable.”
 
 Subsec. (p)(5). Pub. L. 110–246, §15334(a), added par. (5).
 
-2004—Subsec. (c). Pub. L. 108–429, §1563(a), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “Upon the exportation, or destruction under the supervision of the Customs Service, of merchandise—
+<b>2004</b>—Subsec. (c). Pub. L. 108–429, §1563(a), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “Upon the exportation, or destruction under the supervision of the Customs Service, of merchandise—
 
 &emsp;“(1) not conforming to sample or specifications, shipped without the consent of the consignee, or determined to be defective as of the time of importation;
 
@@ -422,7 +422,7 @@ Subsec. (q). Pub. L. 108–429, §1563(d), amended heading and text of subsec. (
 
 Subsec. (y). Pub. L. 108–429, §1556, added subsec. (y).
 
-2003—Subsec. (j)(4). Pub. L. 108–77, §§107(c), 203(b)(3)(A), temporarily designated existing provisions as subpar. (A) and added subpar. (B). See Effective and Termination Dates of 2003 Amendment note below.
+<b>2003</b>—Subsec. (j)(4). Pub. L. 108–77, §§107(c), 203(b)(3)(A), temporarily designated existing provisions as subpar. (A) and added subpar. (B). See Effective and Termination Dates of 2003 Amendment note below.
 
 Subsec. (n). Pub. L. 108–77, §§107(c), 203(b)(3)(B)(i), temporarily inserted heading. See Effective and Termination Dates of 2003 Amendment note below.
 
@@ -434,13 +434,13 @@ Subsec. (<i>o</i>). Pub. L. 108–77, §§107(c), 203(b)(3)(C)(i), temporarily i
 
 Subsec. (<i>o</i>)(3), (4). Pub. L. 108–77, §§107(c), 203(b)(3)(C)(ii), temporarily added pars. (3) and (4). See Effective and Termination Dates of 2003 Amendment note below.
 
-2000—Subsec. (p)(3)(A)(i)(I). Pub. L. 106–476, §1422(a)(1), inserted “2709.00,” after “2708,” and substituted “and 2902, and subheadings 2903.21.00, 2909.19.14, 2917.36, 2917.39.04, 2917.39.15, 2926.10.00, 3811.21.00, and 3811.90.00” for “2902, and 2909.19.14”.
+<b>2000</b>—Subsec. (p)(3)(A)(i)(I). Pub. L. 106–476, §1422(a)(1), inserted “2709.00,” after “2708,” and substituted “and 2902, and subheadings 2903.21.00, 2909.19.14, 2917.36, 2917.39.04, 2917.39.15, 2926.10.00, 3811.21.00, and 3811.90.00” for “2902, and 2909.19.14”.
 
 Subsec. (p)(3)(B). Pub. L. 106–476, §1422(b), inserted at end “If an article is referred to under the same eight-digit classification of the Harmonized Tariff Schedule of the United States as the qualified article on January 1, 2000, then whether or not the article has been reclassified under another eight-digit classification after January 1, 2000, the article shall be deemed to be an article that is referred to under the same eight-digit classification of such Schedule as the qualified article for purposes of the preceding sentence.”
 
 Subsec. (x). Pub. L. 106–476, §1462(a), added subsec. (x).
 
-1999—Subsec. (p)(1). Pub. L. 106–36, §2420(a), substituted concluding provisions for former concluding provisions which read as follows: “the amount of the duties paid on, or attributable to, such qualified article shall be refunded as drawback to the drawback claimant”.
+<b>1999</b>—Subsec. (p)(1). Pub. L. 106–36, §2420(a), substituted concluding provisions for former concluding provisions which read as follows: “the amount of the duties paid on, or attributable to, such qualified article shall be refunded as drawback to the drawback claimant”.
 
 Subsec. (p)(2)(A)(i) to (iii). Pub. L. 106–36, §2420(b)(1)(A), substituted “a qualified article” for “the qualified article”.
 
@@ -462,7 +462,7 @@ Subsec. (p)(4)(B). Pub. L. 106–36, §2420(d), inserted “had the claim qualif
 
 Subsec. (q). Pub. L. 106–36, §2404(a), designated existing provisions as par. (1), inserted heading, realigned margins, and added par. (2).
 
-1996—Subsec. (j)(2). Pub. L. 104–295, §21(e)(4)(A), realigned margins.
+<b>1996</b>—Subsec. (j)(2). Pub. L. 104–295, §21(e)(4)(A), realigned margins.
 
 Subsec. (r)(3). Pub. L. 104–295, §7, added par. (3).
 
@@ -470,11 +470,11 @@ Subsec. (s)(2)(B). Pub. L. 104–295, §10, substituted “predecessor” for �
 
 Subsec. (t). Pub. L. 104–295, §21(e)(4)(B), made technical amendment to reference in original act which appears as reference to this chapter.
 
-1994—Subsec. (w). Pub. L. 103–465, §422(d), designated existing provisions as par. (1), inserted heading, and added par. (2).
+<b>1994</b>—Subsec. (w). Pub. L. 103–465, §422(d), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 Pub. L. 103–465, §404(e)(5)(A), added subsec. (w).
 
-1993—Subsec. (a). Pub. L. 103–182, §632(a)(1), inserted “or destruction under customs supervision” after “Upon the exportation”, “provided that those articles have not been used prior to such exportation or destruction,” after “use of imported merchandise,”, and “or destruction” after “refunded upon the exportation”, and substituted “by-products produced from imported wheat” for “by-products produced from wheat imported after ninety days after June 17, 1930”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–182, §632(a)(1), inserted “or destruction under customs supervision” after “Upon the exportation”, “provided that those articles have not been used prior to such exportation or destruction,” after “use of imported merchandise,”, and “or destruction” after “refunded upon the exportation”, and substituted “by-products produced from imported wheat” for “by-products produced from wheat imported after ninety days after June 17, 1930”.
 
 Subsec. (b). Pub. L. 103–182, §632(a)(2), substituted “any other merchandise (whether imported or domestic)” for “duty-free or domestic merchandise”, inserted “, or destruction under customs supervision,” after “there shall be allowed upon the exportation”, substituted “production of the exported or destroyed articles” for “production of the exported articles”, inserted “, but only if those articles have not been used prior to such exportation or destruction” after “merchandise used therein been imported” and “or destruction under customs supervision” after “but the total amount of drawback allowed upon the exportation”.
 
@@ -492,33 +492,33 @@ Subsec. (p). Pub. L. 103–182, §632(a)(6), amended subsec. (p) generally, subs
 
 Subsecs. (q) to (v). Pub. L. 103–182, §632(a)(7), added subsecs. (q) to (v).
 
-1990—Subsec. (n). Pub. L. 101–382, §134(a)(1), inserted “, except an article” before “made from” and substituted comma for “of 1988” before “does not”.
+<b>1990</b>—Subsec. (n). Pub. L. 101–382, §134(a)(1), inserted “, except an article” before “made from” and substituted comma for “of 1988” before “does not”.
 
 Subsec. (<i>o</i>). Pub. L. 101–382, §134(a)(2), inserted at end “This subsection shall apply to vessels delivered to Canadian account or owner, or to the Government of Canada, on and after January 1, 1994 (or, if later, the date proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988).”
 
 Subsec. (p). Pub. L. 101–382, §484A(a), added subsec. (p).
 
-1988—Subsecs. (n), (<i>o</i>). Pub. L. 100–449 added subsecs. (n) and (<i>o</i>).
+<b>1988</b>—Subsecs. (n), (<i>o</i>). Pub. L. 100–449 added subsecs. (n) and (<i>o</i>).
 
-1986—Subsec. (j)(2), (3). Pub. L. 99–514, §1888(2)(A), redesignated par. (3) as (2) and redesignated par. (4) relating to imported packaging material as (3).
+<b>1986</b>—Subsec. (j)(2), (3). Pub. L. 99–514, §1888(2)(A), redesignated par. (3) as (2) and redesignated par. (4) relating to imported packaging material as (3).
 
 Subsec. (j)(4). Pub. L. 99–514, §1888(2), redesignated par. (4) relating to imported packaging material as (3) and amended par. (4) relating to the performing of incidental operations generally. Prior to amendment, such par. (4) read as follows: “The performing of incidental operations (including, but not limited to, testing, cleaning, repacking, and inspecting) on the imported merchandise itself, not amounting to manufacture or production for drawback purposes under the preceding provisions of this section, shall not be treated as a use of that merchandise for purposes of applying paragraph (1)(B).”
 
-1984—Subsec. (j)(2) to (4). Pub. L. 98–573, §202(1), redesignated par. (2), relating to the performing of incidental operations, as (4), and inserted after par. (1) new pars. (3) and (4).
+<b>1984</b>—Subsec. (j)(2) to (4). Pub. L. 98–573, §202(1), redesignated par. (2), relating to the performing of incidental operations, as (4), and inserted after par. (1) new pars. (3) and (4).
 
 Subsecs. (k) to (m). Pub. L. 98–573, §202(2), (3), added subsec. (k) and redesignated former subsecs. (k) and (<i>l</i>) as (<i>l</i>) and (m), respectively.
 
-1980—Subsecs. (j) to (<i>l</i>). Pub. L. 96–609, §201(a), added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (<i>l</i>), respectively.
+<b>1980</b>—Subsecs. (j) to (<i>l</i>). Pub. L. 96–609, §201(a), added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (<i>l</i>), respectively.
 
-1971—Subsecs. (h) to (k). Pub. L. 91–692 added subsec. (h) and redesignated former subsecs. (h) to (j) as (i) to (k), respectively.
+<b>1971</b>—Subsecs. (h) to (k). Pub. L. 91–692 added subsec. (h) and redesignated former subsecs. (h) to (j) as (i) to (k), respectively.
 
-1968—Subsec. (d). Pub. L. 90–630 permitted, under Treasury regulations, the drawback of tax with regard to distilled spirits exported as ships’ stores where the stamping, restamping, or marking is done after the spirits have been removed from the original bottling plant.
+<b>1968</b>—Subsec. (d). Pub. L. 90–630 permitted, under Treasury regulations, the drawback of tax with regard to distilled spirits exported as ships’ stores where the stamping, restamping, or marking is done after the spirits have been removed from the original bottling plant.
 
-1958—Subsec. (b). Pub. L. 85–673 substituted “merchandise” for “sugar, or metal, or ore containing metal, or flaxseed or linseed, or flaxseed or linseed oil, or printing papers coated or uncoated,” after “duty-paid” and “allowable had the”.
+<b>1958</b>—Subsec. (b). Pub. L. 85–673 substituted “merchandise” for “sugar, or metal, or ore containing metal, or flaxseed or linseed, or flaxseed or linseed oil, or printing papers coated or uncoated,” after “duty-paid” and “allowable had the”.
 
-1956—Subsec. (b). Act Aug. 6, 1956, inserted “or printing papers, coated or uncoated,” after “linseed oil,” wherever appearing.
+<b>1956</b>—Subsec. (b). Act Aug. 6, 1956, inserted “or printing papers, coated or uncoated,” after “linseed oil,” wherever appearing.
 
-1953—Subsec. (b). Act Aug. 8, 1953, §12(a), extended from one year to three years the period during which substitution for drawback purposes may be made.
+<b>1953</b>—Subsec. (b). Act Aug. 8, 1953, §12(a), extended from one year to three years the period during which substitution for drawback purposes may be made.
 
 Subsec. (c). Act Aug. 8, 1953, §12(b), extended the period during which the merchandise can be returned to customs custody for exportation from thirty days to ninety days or such longer period as the Secretary of the Treasury may allow; and provided for the refunding of duties in cases where the merchandise upon which the duties have been paid was sent to the consignee without his consent.
 
@@ -526,9 +526,9 @@ Subsec. (h). Act Aug. 8, 1953, §12(c), substituted reference to “this section
 
 Subsec. (i). Act Aug. 8, 1953, §12(c), broadened the authority of the Secretary of the Treasury to make such regulations for the administration of the drawback provisions as may be necessary.
 
-1951—Subsec. (b). Act Aug. 8, 1951, extended the provisions of such subsection to flaxseed and linseed, and flaxseed and linseed oil, and omitted “(or shipment to the Philippine Islands)” before “of any such articles”.
+<b>1951</b>—Subsec. (b). Act Aug. 8, 1951, extended the provisions of such subsection to flaxseed and linseed, and flaxseed and linseed oil, and omitted “(or shipment to the Philippine Islands)” before “of any such articles”.
 
-1936—Subsec. (d). Act June 26, 1936, inserted second par.
+<b>1936</b>—Subsec. (d). Act June 26, 1936, inserted second par.
 
 #### Change of Name
 

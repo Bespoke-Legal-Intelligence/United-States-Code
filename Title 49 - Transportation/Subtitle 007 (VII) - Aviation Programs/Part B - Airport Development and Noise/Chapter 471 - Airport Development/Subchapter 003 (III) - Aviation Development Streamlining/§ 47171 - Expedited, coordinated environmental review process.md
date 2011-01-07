@@ -62,7 +62,7 @@ State Authority.—Under a coordinated review process being implemented under th
 
 (f)
 
-Memorandum of Understanding.—The coordinated review process developed under this section may be incorporated into a memorandum of understanding for a project between the Secretary and the heads of other Federal and State agencies identified under subsection (d) with respect to the project and, if applicable, the airport sponsor.
+Memorandum of Understanding.—The coordinated review process developed under this section may be incorporated into a memorandum of understanding for a project between the Secretary and the heads of other Federal and State agencies identified under subsection (d)with respect to the project and, if applicable, the airport sponsor.
 
 (g)
 

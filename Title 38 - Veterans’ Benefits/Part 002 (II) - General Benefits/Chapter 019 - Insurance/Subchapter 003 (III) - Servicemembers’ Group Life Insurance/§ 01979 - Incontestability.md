@@ -6,7 +6,7 @@ Subject to the provision of section 1973 of this title, insurance coverage grant
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 779 of this title as this section and substituted “1973” for “773”.
+<b>1991</b>—Pub. L. 102–83 renumbered section 779 of this title as this section and substituted “1973” for “773”.
 
 #### Effective Date
 

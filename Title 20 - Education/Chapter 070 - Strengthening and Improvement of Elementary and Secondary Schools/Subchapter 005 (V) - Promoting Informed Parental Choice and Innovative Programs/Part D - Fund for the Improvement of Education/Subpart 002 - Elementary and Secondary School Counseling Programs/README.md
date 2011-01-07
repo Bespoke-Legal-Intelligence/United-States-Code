@@ -1,7 +1,5 @@
 subpart 2—elementary and secondary school counseling programs
 
-<i><sup>1</sup></i><i> So in original. Probably should be “environmentally”.</i>
-
 
 ---
 

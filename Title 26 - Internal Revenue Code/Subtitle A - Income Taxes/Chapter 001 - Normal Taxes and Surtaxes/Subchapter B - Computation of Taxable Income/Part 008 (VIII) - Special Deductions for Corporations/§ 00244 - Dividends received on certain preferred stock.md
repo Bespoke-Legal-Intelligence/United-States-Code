@@ -30,15 +30,15 @@ If the dividends described in subsection (a)(1) are qualifying dividends (as def
 
 #### Amendments
 
-1988—Subsec. (b). Pub. L. 100–647 substituted “section 243(d)(4)” for “section 243(c)(4)”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–647 substituted “section 243(d)(4)” for “section 243(c)(4)”.
 
-1987—Subsecs. (a)(3), (b)(2). Pub. L. 100–203 substituted “70 percent” for “80 percent”.
+<b>1987</b>—Subsecs. (a)(3), (b)(2). Pub. L. 100–203 substituted “70 percent” for “80 percent”.
 
-1986—Subsecs. (a)(3), (b)(2). Pub. L. 99–514 substituted “80 percent” for “85 percent”.
+<b>1986</b>—Subsecs. (a)(3), (b)(2). Pub. L. 99–514 substituted “80 percent” for “85 percent”.
 
-1978—Subsec. (a)(2)(B). Pub. L. 95–600 substituted “the highest rate of tax specified in section 11(b)” for “the sum of the normal tax rate and the surtax rate for the taxable year prescribed by section 11”.
+<b>1978</b>—Subsec. (a)(2)(B). Pub. L. 95–600 substituted “the highest rate of tax specified in section 11(b)” for “the sum of the normal tax rate and the surtax rate for the taxable year prescribed by section 11”.
 
-1964—Pub. L. 88–272 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1964</b>—Pub. L. 88–272 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1988 Amendment
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 99–514 applicable to dividends received or accrued after 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) ofPub. L. 95–600, set out as a note under section 11 of this title.
+Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
 
 #### Effective Date of 1964 Amendment
 

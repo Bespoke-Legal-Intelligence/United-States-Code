@@ -10,11 +10,11 @@ The African Elephant Conservation Act, referred to in text, is title II of Pub. 
 
 #### Codification
 
-Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1999,and also as part of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the African Elephant Conservation Act which comprises this chapter.
+Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1999, and also as part of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the African Elephant Conservation Act which comprises this chapter.
 
 #### Amendments
 
-2002—Pub. L. 107–141 substituted “section 5304 of this title, part I of the African Elephant Conservation Act (16 U.S.C. 4211 et seq.), and section 4264 of this title” for “section 5304 of the Rhinoceros and Tiger Conservation Act of 1994, part I of the African Elephant Conservation Act, and section 4265 of this title”, “section 2204 of the African Elephant Conservation Act (16 U.S.C. 4224)” for “16 U.S.C. 4224”, “section 2205 of the African Elephant Conservation Act (16 U.S.C. 4225)” for “16 U.S.C. 4225”, and “section 2101 of the African Elephant Conservation Act (16 U.S.C. 4211)” for “16 U.S.C. 4211”.
+<b>2002</b>—Pub. L. 107–141 substituted “section 5304 of this title, part I of the African Elephant Conservation Act (16 U.S.C. 4211 et seq.), and section 4264 of this title” for “section 5304 of the Rhinoceros and Tiger Conservation Act of 1994, part I of the African Elephant Conservation Act, and section 4265 of this title”, “section 2204 of the African Elephant Conservation Act (16 U.S.C. 4224)” for “16 U.S.C. 4224”, “section 2205 of the African Elephant Conservation Act (16 U.S.C. 4225)” for “16 U.S.C. 4225”, and “section 2101 of the African Elephant Conservation Act (16 U.S.C. 4211)” for “16 U.S.C. 4211”.
 
 Pub. L. 107–111 and Pub. L. 107–112 amended section identically, substituting “Rhinoceros and Tiger Conservation Act of 1994, part I” for “Rhinoceros and Tiger Conservation Act, subchapter I”.
 

@@ -48,15 +48,15 @@ In this section, the words “for an airport development project carried out und
 
 In subsection (a), the words “or sponsors” are omitted because of 1:1.
 
-In subsection (b), the words “must require contractors to pay labor minimum wage rates” are substituted for “shall contain provisions establishing minimum rates of wages . . . which contractors shall pay to skilled and unskilled labor” to eliminate unnecessarywords. The word “proposals” is omitted as included in “bids”.
+In subsection (b), the words “must require contractors to pay labor minimum wage rates” are substituted for “shall contain provisions establishing minimum rates of wages . . . which contractors shall pay to skilled and unskilled labor” to eliminate unnecessary words. The word “proposals” is omitted as included in “bids”.
 
 Subsection (c)(1)(A) is substituted for “a disabled veteran is an individual described in section 2108(2) of title 5” for consistency in the revised title and with other titles of the Code.
 
 In subsection (c)(1)(B), the words “after August 4, 1964, and before May 8, 1975” are substituted for “during the period beginning August 5, 1964, and ending May 7, 1975” for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words.
 
-In subsection (c)(2), the words “must require that” are substituted for “shall contain such provisions as are necessary to insure that”, and the words “when they are available and qualified for the employment” are substituted for “However, this preference shall apply only where the individuals are available and qualified to perform the work to which the employment relates”, to eliminate unnecessary words.
+In subsection (c)(2), the words “must require that” are substituted for “shall contain such provisions asare necessary to insure that”, and the words “when they are available and qualified for the employment” are substituted for “However, this preference shall apply only where the individuals are available and qualified to perform the work to which the employment relates”, to eliminate unnecessary words.
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–217 substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5)”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–217 substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5)”.
 

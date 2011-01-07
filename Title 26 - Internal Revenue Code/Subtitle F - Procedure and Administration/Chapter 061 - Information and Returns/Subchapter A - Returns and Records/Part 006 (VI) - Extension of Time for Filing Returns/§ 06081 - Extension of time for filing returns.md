@@ -16,11 +16,11 @@ An extension of 3 months for the filing of the return of income taxes imposed by
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–134 amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “For time for performing certain acts postponed by reason of war, see section 7508.”
+<b>2002</b>—Subsec. (c). Pub. L. 107–134 amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “For time for performing certain acts postponed by reason of war, see section 7508.”
 
-1982—Subsec. (b). Pub. L. 97–248 struck out “or the first installment thereof required under section 6152” after “the amount properly estimated as its tax”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–248 struck out “or the first installment thereof required under section 6152” after “the amount properly estimated as its tax”.
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date of 2002 Amendment
 

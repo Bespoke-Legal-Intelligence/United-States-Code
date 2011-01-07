@@ -6,7 +6,7 @@ For purposes of the taxes imposed by this subtitle upon a DISC (as defined in se
 
 #### Amendments
 
-1998—Pub. L. 105–206 struck out “except for the tax imposed by chapter 5” before period at end.
+<b>1998</b>—Pub. L. 105–206 struck out “except for the tax imposed by chapter 5” before period at end.
 
 #### Effective Date of 1998 Amendment
 
@@ -26,7 +26,7 @@ Close of 1984 taxable years of disc's.—
 
 &emsp;“(A)
 
-In general.—For purposes of applying the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the taxable year of each DISC which begins before January 1, 1985, and which (but for this paragraph) would include January 1, 1985, shall close on December 31,1984. For purposes of such Code, the requirements of section 992(a)(1)(B) of such Code (relating to percentage of qualified export assets on last day of the taxable year) shall not apply to any taxable year ending on December 31, 1984.
+In general.—For purposes of applying the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the taxable year of each DISC which begins before January 1, 1985, and which (but for this paragraph) would include January 1, 1985, shall close on December 31, 1984. For purposes of such Code, the requirements of section 992(a)(1)(B) of such Code (relating to percentage of qualified export assets on last day of the taxable year) shall not apply to any taxable year ending on December 31, 1984.
 
 &emsp;“(B)
 

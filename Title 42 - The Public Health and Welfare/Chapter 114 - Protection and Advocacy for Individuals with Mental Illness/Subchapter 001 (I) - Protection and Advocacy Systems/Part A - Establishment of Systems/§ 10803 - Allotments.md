@@ -14,5 +14,5 @@ The Secretary shall make allotments under this subchapter to eligible systems to
 
 #### Amendments
 
-1991—Par. (2). Pub. L. 102–173 substituted “individuals with mental illness” for “mentally ill individuals” in two places.
+<b>1991</b>—Par. (2). Pub. L. 102–173 substituted “individuals with mental illness” for “mentally ill individuals” in two places.
 

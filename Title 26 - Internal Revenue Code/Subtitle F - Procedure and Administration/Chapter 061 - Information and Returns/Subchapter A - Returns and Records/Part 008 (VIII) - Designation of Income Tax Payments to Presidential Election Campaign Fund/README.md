@@ -8,9 +8,7 @@
 
 #### Amendments
 
-1966—Pub. L. 89–809, title III, §302(a), Nov. 13, 1966, 80 Stat. 1587, added part VIII and analysis.
-
-<i><sup>1</sup></i><i> So in original. Word “and” probably is superfluous.</i>
+<b>1966</b>—Pub. L. 89–809, title III, §302(a), Nov. 13, 1966, 80 Stat. 1587, added part VIII and analysis.
 
 
 ---

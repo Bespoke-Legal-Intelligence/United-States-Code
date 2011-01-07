@@ -6,7 +6,7 @@ Section, Pub. L. 103–160, div. C, title XXXI, §3153, Nov. 30, 1993, 107 Stat.
 
 #### Requirement To Develop Future Use Plans for Environmental Management Programs
 
-Pub. L. 104–201, div. C, title XXXI, §3153, Sept. 23, 1996, 110 Stat. 2839, which was formerly set out as anote under this section, was renumbered section 4402 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(g)(3)(A)–(C), Nov. 24, 2003, 117 Stat. 1764, and is classified to section 2582 of Title 50, War and National Defense.
+Pub. L. 104–201, div. C, title XXXI, §3153, Sept. 23, 1996, 110 Stat. 2839, which was formerly set out as a note under this section, was renumbered section 4402 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(g)(3)(A)–(C), Nov. 24, 2003, 117 Stat. 1764, and is classified to section 2582 of Title 50, War and National Defense.
 
 #### Accelerated Schedule for Environmental Restoration and Waste Management Activities
 

@@ -6,7 +6,7 @@ Authorized Discharges.—The Secretary of the military department concerned may 
 
 &emsp;(1) has less than six years of service in an active status as a commissioned officer; or
 
-&emsp;(2) is serving in the grade of second lieutenant or ensign and has been found not qualifiedfor promotion to the grade of first lieutenant or lieutenant (junior grade).
+&emsp;(2) is serving in the grade of second lieutenant or ensign and has been found not qualified for promotion to the grade of first lieutenant or lieutenant (junior grade).
 
 (b)
 
@@ -30,7 +30,7 @@ Provisions similar to those in subsecs. (a) and (b) of this section were contain
 
 #### Amendments
 
-2008—Pub. L. 110–181, §503(c)(2), substituted “six years” for “five years” in section catchline.
+<b>2008</b>—Pub. L. 110–181, §503(c)(2), substituted “six years” for “five years” in section catchline.
 
 Subsec. (a)(1). Pub. L. 110–181, §503(c)(1), substituted “six years” for “five years”.
 

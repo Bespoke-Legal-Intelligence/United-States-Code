@@ -8,7 +8,7 @@
 
 #### (2) Secular, neutral, and nonideological services or benefits
 
-&emsp;Educational services or other benefits, including materials and equipment, providedunder this section, shall be secular, neutral, and nonideological.
+&emsp;Educational services or other benefits, including materials and equipment, provided under this section, shall be secular, neutral, and nonideological.
 
 #### (3) Special rule
 
@@ -118,7 +118,7 @@ Section 306 of the Department of Education Appropriations Act, 2001, referred to
 
 #### References to Part A of Subchapter III Considered to Be References to Part B of Subchapter III
 
-References to part A of subchapter III of this chapter are considered to be references to part B of subchapter III of this chapter in certain fiscal years. See section 6801(c) of this title.
+References to part A of subchapter III of this chapter are considered to be references to part B of subchapterIII of this chapter in certain fiscal years. See section 6801(c) of this title.
 
 #### Prior Provisions
 

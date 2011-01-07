@@ -74,7 +74,7 @@ Limited access privilege, quota share, or other limited access system authorizat
 
 &emsp;&emsp;&emsp;&emsp;(III) consist of residents who conduct commercial or recreational fishing, processing, or fishery-dependent support businesses within the Council's management area; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) develop and submit a community sustainability plan to the Council and the Secretary that demonstrates how the plan will address the social and economic development needs of coastalcommunities, including those that have not historically had the resources to participate in the fishery, for approval based on criteria developed by the Council that have been approved by the Secretary and published in the Federal Register.
+&emsp;&emsp;&emsp;&emsp;(IV) develop and submit a community sustainability plan to the Council and the Secretary that demonstrates how the plan will address the social and economic development needs of coastal communities, including those that have not historically had the resources to participate in the fishery, for approval based on criteria developed by the Council that have been approved by the Secretary and published in the Federal Register.
 
 #### (ii) Failure to comply with plan
 
@@ -274,7 +274,7 @@ The Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 
 
 #### Amendments
 
-2007—Subsec. (c)(4)(A)(iii). Pub. L. 110–161, §529(1), substituted “association, among willing parties” for “association”.
+<b>2007</b>—Subsec. (c)(4)(A)(iii). Pub. L. 110–161, §529(1), substituted “association, among willing parties” for “association”.
 
 Subsec. (i). Pub. L. 110–161, §529(2)–(4), struck out designation and heading of par. (1), redesignated subpars. (A) to (C) of former par. (1) as pars. (1) to (3), respectively, realigned margins, and struck out heading and text of former par. (2). Text of former par. (2) read as follows: “The requirements of this section, other than subparagraphs (A) and (B) of subsection (c)(1) and subparagraphs (A), (B), and (C) of paragraph (1) of this subsection, shall not apply to any proposal authorized under section 302(f) of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006 that is submitted within the timeframe prescribed by that section.”
 

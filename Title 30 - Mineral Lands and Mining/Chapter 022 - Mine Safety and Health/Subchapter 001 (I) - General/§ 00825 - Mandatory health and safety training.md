@@ -6,7 +6,7 @@ Each operator of a coal or other mine shall have a health and safety training pr
 
 &emsp;(1) new miners having no underground mining experience shall receive no less than 40 hours of training if they are to work underground. Such training shall include instruction in the statutory rights of miners and their representatives under this chapter, use of the self-rescue device and use of respiratory devices, hazard recognition, escapeways, walk around training, emergency procedures, basic ventilation, basic roof control, electrical hazards, first aid, and the health and safety aspects of the task to which he will be assigned;
 
-&emsp;(2) new miners having no surface mining experience shall receive no less than 24 hours of training if they are to work on the surface. Such training shall include instruction in the statutory rights of miners and their representatives under this chapter, use of the self-rescue device where appropriate and use of respiratory devices where appropriate, hazard recognition, emergency procedures, electrical hazards, first aid, walk around training andthe health and safety aspects of the task to which he will be assigned;
+&emsp;(2) new miners having no surface mining experience shall receive no less than 24 hours of training if they are to work on the surface. Such training shall include instruction in the statutory rights of miners and their representatives under this chapter, use of the self-rescue device where appropriate and use of respiratory devices where appropriate, hazard recognition, emergency procedures, electrical hazards, first aid, walk around training and the health and safety aspects of the task to which he will be assigned;
 
 &emsp;(3) all miners shall receive no less than eight hours of refresher training no less frequently than once each 12 months, except that miners already employed on the effective date of the Federal Mine Safety and Health Amendments Act of 1977 shall receive this refresher training no more than 90 days after the date of approval of the training plan required by this section;
 
@@ -104,7 +104,7 @@ This chapter, referred to in subsec. (a)(1), (2), was in the original “this Ac
 
 #### Amendments
 
-2006—Subsec. (e). Pub. L. 109–236 designated existing provisions as par. (1) and added par. (2).
+<b>2006</b>—Subsec. (e). Pub. L. 109–236 designated existing provisions as par. (1) and added par. (2).
 
 #### Effective Date
 

@@ -36,7 +36,7 @@ For purposes of this section, the term “specified security” has the meaning 
 
 #### (e) Public reporting in lieu of return
 
-The Secretary may waive the requirements under subsections (a) and (c) with respect to a specified security, if the person required to make the return under subsection (a) makespublicly available, in such form and manner as the Secretary determines necessary to carry out the purposes of this section—
+The Secretary may waive the requirements under subsections (a) and (c) with respect to a specified security, if the person required to make the return under subsection (a) makes publicly available, in such form and manner as the Secretary determines necessary to carry out the purposes of this section—
 
 &emsp;(1) the name, address, phone number, and email address of the information contact of such person, and
 

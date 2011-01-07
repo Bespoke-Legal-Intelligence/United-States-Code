@@ -32,7 +32,7 @@ The treasurer of a political committee shall keep an account of—
 
 #### (d) Preservation of records and copies of reports
 
-The treasurer shall preserve all records required to be kept by this section and copies of all reports required to be filed by this subchapter for 3 years after the report is filed. Forany report filed in electronic format under section 434(a)(11) of this title, the treasurer shall retain a machine-readable copy of the report as the copy preserved under the preceding sentence.
+The treasurer shall preserve all records required to be kept by this section and copies of all reports required to be filed by this subchapter for 3 years after the report is filed. For any report filed in electronic format under section 434(a)(11) of this title, the treasurer shall retain a machine-readable copy of the report as the copy preserved under the preceding sentence.
 
 #### (e) Principal and additional campaign committees; designations, status of candidate, authorized committees, etc.
 
@@ -76,7 +76,7 @@ The treasurer shall preserve all records required to be kept by this section and
 
 #### (i) Reports and records, compliance with requirements based on best efforts
 
-When the treasurer of a political committee shows that best efforts have been used to obtain,maintain, and submit the information required by this Act for the political committee, any report or any records of such committee shall be considered in compliance with this Act or chapter 95 or chapter 96 of title 26.
+When the treasurer of a political committee shows that best efforts have been used to obtain, maintain, and submit the information required by this Act for the political committee, any report or any records of such committee shall be considered in compliance with this Act or chapter 95 or chapter 96 of title 26.
 
 (Pub. L. 92–225, title III, §302, Feb. 7, 1972, 86 Stat. 12; Pub. L. 93–443, title II, §§202, 208(c)(2), Oct. 15, 1974, 88 Stat. 1275, 1286; Pub. L. 94–283, title I, §103, May 11, 1976, 90 Stat. 480; Pub. L. 96–187, title I, §102, Jan. 8, 1980, 93 Stat. 1345; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–79, §§1(b), 3(a), Dec. 28, 1995, 109 Stat. 791, 792; Pub. L. 105–61, title VI, §637, Oct. 10, 1997, 111 Stat. 1316; Pub. L. 108–447, div. H, title V, §525, Dec. 8, 2004, 118 Stat. 3271.)
 
@@ -120,7 +120,7 @@ Subsecs. (f) to (i). Pub. L. 96–187 added subsecs. (f) to (i).
 
 Subsec. (c)(2). Pub. L. 94–283, §103(b), substituted “$50” for “$10”.
 
-Subsecs. (e), (f). Pub. L. 94–283, §103(c), (d), redesignated subsec. (f) as (e) and in par. (1) of subsec. (e) asso redesignated inserted provision that occasional, isolated, or incidental support of a candidate not be construed as support for such a candidate for purposes of determining whether a political committee supports more than one candidate. Former subsec. (e) providing for the giving of notice by a candidate that a political committee soliciting funds on his behalf is not authorized to do so and that he is not responsible for the activities of that committee was eliminated.
+Subsecs. (e), (f). Pub. L. 94–283, §103(c), (d), redesignated subsec. (f) as (e) and in par. (1) of subsec. (e) as so redesignated inserted provision that occasional, isolated, or incidental support of a candidate not be construed as support for such a candidate for purposes of determining whether a political committee supports more than one candidate. Former subsec. (e) providing for the giving of notice by a candidate that a political committee soliciting funds on his behalf is not authorized to do so and that he is not responsible for the activities of that committee was eliminated.
 
 1974—Subsec. (b). Pub. L. 93–443, §202(a)(1), substituted “of the contribution and the identification” for “, the name and address (occupation and principal place of business, if any)”.
 

@@ -88,17 +88,17 @@ Except to the extent otherwise provided by this title, any election under this t
 
 #### Amendments
 
-1998—Subsec. (d). Pub. L. 105–206 struck out “by regulations or forms” before “prescribe”.
+<b>1998</b>—Subsec. (d). Pub. L. 105–206 struck out “by regulations or forms” before “prescribe”.
 
-1996—Subsec. (b). Pub. L. 104–168 struck out “or rulings” after “regulations” in heading and amended text generally. Prior to amendment, text read as follows: “The Secretary may prescribe the extent, if any, to which any ruling or regulation, relating to the internal revenue laws, shall be applied without retroactive effect.”
+<b>1996</b>—Subsec. (b). Pub. L. 104–168 struck out “or rulings” after “regulations” in heading and amended text generally. Prior to amendment, text read as follows: “The Secretary may prescribe the extent, if any, to which any ruling or regulation, relating to the internal revenue laws, shall be applied without retroactive effect.”
 
-1990—Subsec. (f). Pub. L. 101–508 substituted heading for one which read “Impact of regulations on small business reviewed” and amended text generally. Prior to amendment, text read as follows: “After the publication of any proposed regulation by the Secretary and before the promulgation of any final regulation by the Secretary which does not supersede a proposed regulation, the Secretary shall submit such regulation to the Administrator of the Small Business Administration for comment on the impact of such regulation on small business. The Administrator shall have 4 weeks from the date of submission to respond.”
+<b>1990</b>—Subsec. (f). Pub. L. 101–508 substituted heading for one which read “Impact of regulations on small business reviewed” and amended text generally. Prior to amendment, text read as follows: “After the publication of any proposed regulation by the Secretary and before the promulgation of any final regulation by the Secretary which does not supersede a proposed regulation, the Secretary shall submit such regulation to the Administrator of the Small Business Administration for comment on the impact of such regulation on small business. The Administrator shall have 4 weeks from the date of submission to respond.”
 
-1988—Subsecs. (e), (f). Pub. L. 100–647 added subsecs. (e) and (f).
+<b>1988</b>—Subsecs. (e), (f). Pub. L. 100–647 added subsecs. (e) and (f).
 
-1984—Pub. L. 98–369 added subsec. (d).
+<b>1984</b>—Pub. L. 98–369 added subsec. (d).
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date of 1996 Amendment
 
@@ -118,5 +118,5 @@ Amendment by Pub. L. 98–369 applicable to taxable years ending after July 18, 
 
 #### Internet Availability
 
-Pub. L. 105–206, title II, §2003(d), July 22, 1998, 112 Stat. 725, provided that: “In the case of taxable periods beginning after December 31, 1998, the Secretary of the Treasury or the Secretary's delegate shall establish procedures for all tax forms, instructions, and publications created in the most recent 5-year period to be made available electronically on the Internet in a searchable database at approximately the same time such records are available to the public in paper form. In addition, in the case of taxable periods beginning after December 31, 1998, the Secretary of the Treasury or the Secretary's delegate shall, to the extent practicable, establish procedures for other taxpayer guidance to be made available electronically on the Internet in a searchable database at approximately the same time such guidance is available to the public in paper form.”
+Pub. L. 105–206, title II, §2003(d), July 22, 1998, 112 Stat. 725, provided that: “In the case of taxable periods beginning after December 31, 1998, the Secretary of the Treasury or the Secretary's delegate shall establish procedures for all tax forms, instructions, and publications created in the most recent 5-year period to bemade available electronically on the Internet in a searchable database at approximately the same time such records are available to the public in paper form. In addition, in the case of taxable periods beginning after December 31, 1998, the Secretary of the Treasury or the Secretary's delegate shall, to the extent practicable, establish procedures for other taxpayer guidance to be made available electronically on the Internet in a searchable database at approximately the same time such guidance is available to the public in paper form.”
 

@@ -56,7 +56,7 @@ A prior section 1801 of Pub. L. 90–351 was renumbered section 2601 and is clas
 
 #### Amendments
 
-2006—Subsec. (b)(13). Pub. L. 109–162, §1186, amended par. (13) generally. Prior to amendment, par. (13) read as follows: “establishing and maintaining accountability-based programs that are designed to enhance school safety;”.
+<b>2006</b>—Subsec. (b)(13). Pub. L. 109–162, §1186, amended par. (13) generally. Prior to amendment, par. (13) read as follows: “establishing and maintaining accountability-based programs that are designed to enhance school safety;”.
 
 Subsec. (b)(17). Pub. L. 109–162, §1165, added par. (17).
 

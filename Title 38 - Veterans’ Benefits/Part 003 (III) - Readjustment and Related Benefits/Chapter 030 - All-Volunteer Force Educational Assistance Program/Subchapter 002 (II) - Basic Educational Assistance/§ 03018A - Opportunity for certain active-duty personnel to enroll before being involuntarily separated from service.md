@@ -32,7 +32,7 @@
 
 #### Amendments
 
-2006—Subsec. (a)(4), (5). Pub. L. 109–233, §503(5)(B), struck out “of this subsection” after “paragraph (3)”.
+<b>2006</b>—Subsec. (a)(4), (5). Pub. L. 109–233, §503(5)(B), struck out “of this subsection” after “paragraph (3)”.
 
 Subsecs. (b), (c). Pub. L. 109–233, §503(5)(A), struck out “of this section” after “subsection (a)” in subsec. (b) and after “subsection (a)(3)” in subsec. (c).
 
@@ -40,15 +40,15 @@ Subsec. (d)(1). Pub. L. 109–233, §503(5)(B), struck out “of this subsection
 
 Subsec. (d)(3). Pub. L. 109–233, §503(5)(B), (C), struck out “of this subsection” after “paragraph (1)” and substituted “of this title” for “of this chapter”.
 
-2002—Subsec. (a)(3). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (a)(3). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1998—Subsec. (a)(2). Pub. L. 105–368 substituted “successfully completed (or otherwise received academic credit for)” for “successfully completed”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–368 substituted “successfully completed (or otherwise received academic credit for)” for “successfully completed”.
 
-1994—Subsec. (a)(1). Pub. L. 103–446, §1201(i)(4), substituted “after February 2, 1991,” for “after December 31, 1990, or the end of the 90-day period beginning on thedate of the enactment of this section, whichever is later,”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–446, §1201(i)(4), substituted “after February 2, 1991,” for “after December 31, 1990, or the end of the 90-day period beginning on thedate of the enactment of this section, whichever is later,”.
 
 Subsec. (d)(3). Pub. L. 103–446, §1201(d)(4), substituted “section 3015(f)” for “section 3015(e)”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1418A of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1418A of this title as this section.
 
 Subsec. (a)(1). Pub. L. 102–25 substituted “section 1141 of title 10” for “section 1142 of title 10”.
 

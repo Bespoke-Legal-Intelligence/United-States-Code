@@ -40,6 +40,10 @@ An entity is a qualified entity for purposes of subsection (a)(1) of this sectio
 
 (3) The health care services referred to in paragraphs (1) and (2) which are provided under grants or contracts under subsection (a)(1) of this section may be provided by traditional Native Hawaiian healers.
 
+(4)
+
+Health and education.—In order to enable privately funded organizations to continue to supplement public efforts to provide educational programs designed to improve the health, capability, and well-being of Native Hawaiians and to continue to provide health services to Native Hawaiians, notwithstanding any other provision of Federal or State law, it shall be lawful for the private educational organization identified in section 7512(16) of title 20 to continue to offer its educational programs and services to Native Hawaiians (as defined in section 7517 of title 20) first and to others only after the need for such programs and services by Native Hawaiians has been met.
+
 #### (d) Limitation of number of entities
 
 During a fiscal year, the Secretary under this chapter may make a grant to, or hold a contract with, not more than 5 Native Hawaiian health care systems.
@@ -86,13 +90,15 @@ The Secretary may not make a grant, or enter into a contract with, any entity un
 
 #### (h) Authorization of appropriations
 
-(1) There are authorized to be appropriated such sums as may be necessary for fiscal years 1993 through 2001 to carry out subsection (a)(1) of this section.
+(1) There are authorized to be appropriated such sums as may be necessary for fiscal years 1993 through 2019 to carry out subsection (a)(1) of this section.
 
 (2) There are authorized to be appropriated such sums as may be necessary to carry out subsection (a)(2) of this section.
 
-(Pub. L. 100–579, §6, Oct. 31, 1988, 102 Stat. 2919; Pub. L. 100–690, title II, §2306, Nov. 18, 1988, 102 Stat. 4226; Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948.)
+(Pub. L. 100–579, §6, Oct. 31, 1988, 102 Stat. 2919; Pub. L. 100–690, title II, §2306, Nov. 18, 1988, 102 Stat. 4226; Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 #### Codification
+
+Amendments by Pub. L. 111–148 are based on section 202(a), (b)(1), of title II of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 The 1992 amendment is based on section 1 of S. 2681, One Hundred Second Congress, as passed by the Senate on Aug. 7, 1992, and enacted into law by section 9168 of Pub. L. 102–396. Section 9168, which referred to S. 2681, as passed by the Senate on “September 12, 1992”, has been treated as referring to S. 2681, as passed by the Senate on Aug. 7, 1992, to reflect the probable intent of Congress.
 
@@ -100,5 +106,13 @@ Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections.
 
 #### Amendments
 
-1992—Pub. L. 102–396 amended section generally. Prior to amendment, section related to administration of grants and contracts.
+<b>2010</b>—Subsec. (c)(4). Pub. L. 111–148, which directed the amendment of section 6(c) of the Native Hawaiian Health Care Act of 1988 by adding par. (4), was executed by making the amendment to this section, which is section 6 of the Native Hawaiian Health Care Improvement Act, to reflect the probable intent of Congress.
+
+Subsec. (h)(1). Pub. L. 111–148, which directed the amendment of section 6(h)(1) of the Native Hawaiian Health Care Act of 1988 by substituting “2019” for “2001”, was executed by making the amendment to this section, which is section 6 of the Native HawaiianHealth Care Improvement Act, to reflect the probable intent of Congress.
+
+<b>1992</b>—Pub. L. 102–396 amended section generally. Prior to amendment, section related to administration of grants and contracts.
+
+#### Effective Date of 2010 Amendment
+
+Section 202(b)(2) of title II of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935, provided that: “The amendment made by paragraph (1) \[amending this section\] takes effect on December 5, 2006.”
 

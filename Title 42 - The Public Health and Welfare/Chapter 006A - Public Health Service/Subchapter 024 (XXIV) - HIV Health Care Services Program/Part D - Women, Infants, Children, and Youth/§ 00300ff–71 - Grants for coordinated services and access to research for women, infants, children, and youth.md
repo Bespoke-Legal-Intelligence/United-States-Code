@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall award grants to public and nonprofit private entities (including a health facility operated by or pursuant to a contract with the Indian Health Service) for the purpose of providing family-centered care involving outpatient or ambulatory care (directly or through contracts or memoranda of understanding) for women, infants, children, and youth with HIV/AIDS.
+The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall award grants to public and nonprofit private entities (including a health facility operated by or pursuant to a contract with the Indian Health Service) for the purposeof providing family-centered care involving outpatient or ambulatory care (directly or through contracts or memoranda of understanding) for women, infants, children, and youth with HIV/AIDS.
 
 #### (b) Additional services for patients and families
 
@@ -104,7 +104,7 @@ The Social Security Act, referred to in subsecs. (c)(1) and (i), is act Aug. 14,
 
 Prior sections 300ff–71 to 300ff–78 were omitted in the general amendment of this part by Pub. L. 109–415.
 
-Section 300ff–71, act July 1, 1944, ch. 373, title XXVI, §2671, as added Pub. L. 101–381, title IV, §401, Aug. 18,1990, 104 Stat. 617; amended Pub. L. 104–146, §3(e), May 20, 1996, 110 Stat. 1358; Pub. L. 106–345, title IV, §401, Oct. 20, 2000, 114 Stat. 1347, related to grants for coordinated services and access to research for women, infants, children, and youth.
+Section 300ff–71, act July 1, 1944, ch. 373, title XXVI, §2671, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104 Stat. 617; amended Pub. L. 104–146, §3(e), May 20, 1996, 110 Stat. 1358; Pub. L. 106–345, title IV, §401, Oct. 20, 2000, 114 Stat. 1347, related to grants for coordinated services and access to research for women, infants, children, and youth.
 
 Section 300ff–72, act July 1, 1944, ch. 373, title XXVI, §2672, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104 Stat. 618, contained provisions relating to blood banks.
 
@@ -126,7 +126,7 @@ Section 300ff–78, act July 1, 1944, ch. 373, title XXVI, §2678, as added Pub.
 
 #### Amendments
 
-2009—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
 Subsec. (a). Pub. L. 111–87, §11(b), substituted “(directly or through contracts or memoranda of understanding)” for “(directly or through contracts)”.
 
@@ -138,7 +138,7 @@ Pub. L. 111–87, §2(e), inserted “, $75,390,000 for fiscal year 2010, $79,1
 
 Subsec. (j). Pub. L. 111–87, §11(a)(1), redesignated subsec. (i) as (j).
 
-2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+<b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

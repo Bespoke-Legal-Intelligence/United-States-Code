@@ -116,7 +116,7 @@ Readiness of National Guard to Perform Civil Support Missions.—(1) Each report
 
 (2) Any information in an assessment under this subsection that is relevant to the National Guard of a particular State shall also be made available to the Governor of that State.
 
-(3) The Secretary shall ensure that each State Governor has an opportunity to provide to the Secretary an independent evaluation of that State's National Guard, which the Secretary shall include with each assessment submitted under this subsection.
+(3) The Secretary shall ensure that each State Governor has an opportunity to provide to theSecretary an independent evaluation of that State's National Guard, which the Secretary shall include with each assessment submitted under this subsection.
 
 (g)
 
@@ -126,19 +126,19 @@ Classification of Reports.—A report under this section shall be submitted in u
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–181, §351(b)(1), substituted “(e), and (f)” for “and (e)”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §351(b)(1), substituted “(e), and (f)” for “and (e)”.
 
 Subsecs. (f), (g). Pub. L. 110–181, §351(b)(2), (3), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1999—Pub. L. 106–65, §361(d)(3), repealed Pub. L. 105–261, §373(d)(2). See 1998 Amendment note below.
+<b>1999</b>—Pub. L. 106–65, §361(d)(3), repealed Pub. L. 105–261, §373(d)(2). See 1998 Amendment note below.
 
 Subsec. (a). Pub. L. 106–65, §361(e), substituted “45 days” for “30 days”.
 
-1998—Pub. L. 105–261, §373(d)(2), which directed the repeal of this section effective June 1, 2001, was repealed by Pub. L. 106–65, §361(d)(3).
+<b>1998</b>—Pub. L. 105–261, §373(d)(2), which directed the repeal of this section effective June 1, 2001, was repealed by Pub. L. 106–65, §361(d)(3).
 
-1997—Pub. L. 105–85 substituted “Quarterly reports: personnel and unit readiness” for “Quarterly readiness reports” in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (c) relating to requirement for submission of quarterly readiness reports, matters to be included in reports, and form of reports.
+<b>1997</b>—Pub. L. 105–85 substituted “Quarterly reports: personnel and unit readiness” for “Quarterly readiness reports” in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (c) relating to requirement for submission of quarterly readiness reports, matters to be included in reports, and form of reports.
 
-1996—Pub. L. 104–201 renumbered section 452 of this title as this section.
+<b>1996</b>—Pub. L. 104–201 renumbered section 452 of this title as this section.
 
 #### Effective Date of Pub. L. 105–261
 

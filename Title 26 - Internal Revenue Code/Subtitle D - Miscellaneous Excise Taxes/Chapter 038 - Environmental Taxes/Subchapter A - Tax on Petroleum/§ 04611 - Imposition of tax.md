@@ -104,13 +104,13 @@ Amendments by Pub. L. 99–509, title VIII, §8031(a), (b), and (d)(1), Oct. 21,
 
 #### Amendments
 
-2008—Subsec. (c)(2)(B). Pub. L. 110–343, §405(a)(1), substituted “is—” for “is 5 cents a barrel.” and added cls. (i) and (ii).
+<b>2008</b>—Subsec. (c)(2)(B). Pub. L. 110–343, §405(a)(1), substituted “is—” for “is 5 cents a barrel.” and added cls. (i) and (ii).
 
 Subsec. (f)(1). Pub. L. 110–343, §405(b)(2), substituted “paragraph (2)” for “paragraphs (2) and (3)”.
 
 Subsec. (f)(2), (3). Pub. L. 110–343, §405(b)(1), added par. (2) and struck out former pars. (2) and (3), which provided that the Oil Spill Liability Trust Fund financing rate would not apply if the unobligated balance in the Fund exceeded $2,700,000,000 and that the Fund financing rate would not apply after Dec. 31, 2014.
 
-2005—Subsec. (f). Pub. L. 109–58 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
+<b>2005</b>—Subsec. (f). Pub. L. 109–58 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
 “(1)
 
@@ -120,7 +120,7 @@ In general.—Except as provided in paragraph (2), the Oil Spill Liability Trust
 
 No tax if unobligated balance in fund exceeds $1,000,000,000.—The Oil Spill Liability Trust Fund financing rate shall not apply during any calendar quarter if the Secretary estimates that as of the close of the preceding calendar quarter the unobligated balance in the Oil Spill Liability Trust Fund exceeds $1,000,000,000.”
 
-1990—Subsec. (e)(1). Pub. L. 101–508, §11231(a)(1)(B), substituted “January 1, 1996” for “January 1, 1992”.
+<b>1990</b>—Subsec. (e)(1). Pub. L. 101–508, §11231(a)(1)(B), substituted “January 1, 1996” for “January 1, 1992”.
 
 Subsec. (e)(2). Pub. L. 101–508, §11231(a)(2), substituted “1993” for “1989” and “1994” for “1990” in introductory provisions and “1994” for “1990” and “1995” for “1991” in subpar. (B) and concluding provisions.
 
@@ -130,7 +130,7 @@ Subsec. (e)(3)(A). Pub. L. 101–508, §11231(b), substituted “December 31, 19
 
 Subsec. (e)(3)(B). Pub. L. 101–508, §11231(a)(1)(B), (b), substituted “January 1, 1996” for “January 1, 1992” in heading and text and “$11,970,000,000” for “$6,650,000,000” in heading and twice in text.
 
-1989—Subsec. (c)(2)(A). Pub. L. 101–221 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the Hazardous Substance Superfund financing rate is—
+<b>1989</b>—Subsec. (c)(2)(A). Pub. L. 101–221 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the Hazardous Substance Superfund financing rate is—
 
 &emsp;“(i) except as provided in clause (ii), 8.2 cents a barrel, and
 
@@ -140,9 +140,9 @@ Subsec. (c)(2)(B). Pub. L. 101–239, §7505(b), substituted “5 cents” for �
 
 Subsec. (f). Pub. L. 101–239, §7505(a)(1), amended subsec. (f) generally, substituting pars. (1) and (2) for former pars. (1) general applicability, (2) commencement date, and (3) limit on tax of $300,000,000.
 
-1988—Subsec. (f)(2)(B). Pub. L. 100–647 substituted “December 31, 1990” for “September 1, 1987”.
+<b>1988</b>—Subsec. (f)(2)(B). Pub. L. 100–647 substituted “December 31, 1990” for “September 1, 1987”.
 
-1986—Subsecs. (a), (b)(1). Pub. L. 99–499, §512(a), substituted “at the rate specified in subsection (c)” for “of 0.79 cent a barrel”.
+<b>1986</b>—Subsecs. (a), (b)(1). Pub. L. 99–499, §512(a), substituted “at the rate specified in subsection (c)” for “of 0.79 cent a barrel”.
 
 Subsec. (c). Pub. L. 99–509, §8032(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
@@ -174,7 +174,7 @@ Subsec. (f). Pub. L. 99–509, §8032(c)(2), added subsec. (f).
 
 Pub. L. 110–343, div. B, title IV, §405(a)(2), Oct. 3, 2008, 122 Stat. 3860, provided that: “The amendment made by this subsection \[amending this section\] shall apply on and after the first day of the first calendar quarter beginning more than 60 days after the date of the enactment of this Act \[Oct. 3, 2008\].”
 
-Pub. L. 110–343, div. B, title IV, §405(b)(3), Oct. 3, 2008, 122 Stat. 3861, provided that: “The amendments madeby this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 3, 2008\].”
+Pub. L. 110–343, div. B, title IV, §405(b)(3), Oct. 3, 2008, 122 Stat. 3861, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 3, 2008\].”
 
 #### Effective Date of 1989 Amendment
 

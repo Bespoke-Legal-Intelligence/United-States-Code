@@ -70,7 +70,7 @@ If written request is made upon any individual carrier by the representative of 
 
 #### Amendments
 
-1970—Par. First, (a). Pub. L. 91–234, §1, substituted “thirty-four members, seventeen of whom shall be selected by the carriers and seventeen” for “thirty-six members, eighteen of whom shall be selected by the carriers and eighteen”.
+<b>1970</b>—Par. First, (a). Pub. L. 91–234, §1, substituted “thirty-four members, seventeen of whom shall be selected by the carriers and seventeen” for “thirty-six members, eighteen of whom shall be selected by the carriers and eighteen”.
 
 Par. First, (b). Pub. L. 91–234, §2, provided that no carrier or system of carriers have more than one voting representative on any division of the National Railroad Adjustment Board.
 
@@ -82,7 +82,7 @@ Par. First, (k). Pub. L. 91–234, §5, inserted “except as provided in paragr
 
 Par. First, (n). Pub. L. 91–234, §6, inserted “eligible to vote” after “Adjustment Board”.
 
-1966—Par. First, (m). Pub. L. 89–456, §2(a), struck out “, except insofar as they shall contain a money award” from second sentence.
+<b>1966</b>—Par. First, (m). Pub. L. 89–456, §2(a), struck out “, except insofar as they shall contain a money award” from second sentence.
 
 Par. First, (<i>o</i>). Pub. L. 89–456, §2(b), inserted provision for a division to make an order to the petitioner stating that an award favorable to the petitioner should not be made in any dispute referred to it.
 
@@ -92,5 +92,5 @@ Par. First, (q) to (x). Pub. L. 89–456, §2(e), added par. (q) and redesignate
 
 Par. Second. Pub. L. 89–456, §1, provided for establishment of special adjustment boards upon request of employees or carriers to resolve disputes otherwise referable to the Adjustment Board and made awards of such boards final.
 
-1934—Act June 21, 1934, amended provisions comprising this section generally.
+<b>1934</b>—Act June 21, 1934, amended provisions comprising this section generally.
 

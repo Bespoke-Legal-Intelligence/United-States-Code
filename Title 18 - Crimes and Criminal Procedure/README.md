@@ -1,5 +1,5 @@
 
-18 U.S.C.<br>United States Code, 2009 Edition<br>Title 18 - CRIMES AND CRIMINAL PROCEDURE<br>From the U.S. Government Publishing Office, www.gpo.gov
+18 U.S.C.<br>United States Code, 2010 Edition<br>Title 18 - CRIMES AND CRIMINAL PROCEDURE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 18—CRIMES AND CRIMINAL PROCEDURE
 
@@ -17,7 +17,7 @@
 
 #### Amendments
 
-1970—Pub. L. 91–452, title II, §201(b), Oct. 15, 1970, 84 Stat. 928, added Part V.
+<b>1970</b>—Pub. L. 91–452, title II, §201(b), Oct. 15, 1970, 84 Stat. 928, added Part V.
 
 Table Showing Disposition of All Sections of Former Title 18
 

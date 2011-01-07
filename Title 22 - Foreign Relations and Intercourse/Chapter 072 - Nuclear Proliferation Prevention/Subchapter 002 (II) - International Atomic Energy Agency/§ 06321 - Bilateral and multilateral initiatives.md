@@ -20,7 +20,7 @@ It is the sense of the Congress that in order to maintain and enhance internatio
 
 &emsp;(9) develop an institutional means for IAEA member nations to share intelligence material with the IAEA on possible safeguards violations without compromising national security or intelligence sources or methods;
 
-&emsp;(10) require any exporter of a sensitive nuclear facility or sensitive nuclear technology to a non-nuclear-weapon state to notify theIAEA prior to export and to require safeguards over that facility or technology, regardless of its destination; and
+&emsp;(10) require any exporter of a sensitive nuclear facility or sensitive nuclear technology to a non-nuclear-weapon state to notify the IAEA prior to export and to require safeguards over that facility or technology, regardless of its destination; and
 
 &emsp;(11) seek agreement among the parties to the Treaty to apply IAEA safeguards in perpetuity and to establish new limits on the right to withdraw from the Treaty.
 

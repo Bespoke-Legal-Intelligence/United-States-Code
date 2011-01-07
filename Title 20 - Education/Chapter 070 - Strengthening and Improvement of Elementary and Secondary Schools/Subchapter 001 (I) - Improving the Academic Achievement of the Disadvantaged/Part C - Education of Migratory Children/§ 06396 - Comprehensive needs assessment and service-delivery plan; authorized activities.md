@@ -46,7 +46,7 @@
 
 #### (3) Construction
 
-&emsp;Nothing in this part shall be construed to prohibit a local educational agency from serving migratory children simultaneously withstudents with similar educational needs in the same educational settings, where appropriate.
+&emsp;Nothing in this part shall be construed to prohibit a local educational agency from serving migratory children simultaneously with students with similar educational needs in the same educational settings, where appropriate.
 
 #### (4) Special rule
 

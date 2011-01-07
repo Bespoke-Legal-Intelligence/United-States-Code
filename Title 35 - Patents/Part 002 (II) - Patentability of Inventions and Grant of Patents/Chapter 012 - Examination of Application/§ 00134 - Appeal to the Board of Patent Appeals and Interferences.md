@@ -22,15 +22,15 @@ Reference to reissues is omitted in view of the general provision in section 251
 
 #### Amendments
 
-2002—Subsecs. (a), (b). Pub. L. 107–273, §13202(b)(1), substituted “primary examiner” for “administrative patent judge”.
+<b>2002</b>—Subsecs. (a), (b). Pub. L. 107–273, §13202(b)(1), substituted “primary examiner” for “administrative patent judge”.
 
 Subsec. (c). Pub. L. 107–273, §13202(b)(1), substituted “primary examiner” for “administrative patent judge”.
 
 Pub. L. 107–273, §13106(b), struck out at end “The third-party requester may not appeal the decision of the Board of Patent Appeals and Interferences.”
 
-1999—Pub. L. 106–113 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “An applicant for a patent, any of whose claims has been twice rejected, may appeal from the decision of the primary examiner to the Board of Patent Appeals and Interferences, having once paid the fee for such appeal.”
+<b>1999</b>—Pub. L. 106–113 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “An applicant for a patent, any of whose claims has been twice rejected, may appeal from the decision of the primary examiner to the Board of Patent Appeals and Interferences, having once paid the fee for such appeal.”
 
-1984—Pub. L. 98–622 substituted “Patent Appeals and Interferences” for “Appeals” in section catchline and text.
+<b>1984</b>—Pub. L. 98–622 substituted “Patent Appeals and Interferences” for “Appeals” in section catchline and text.
 
 #### Effective Date of 2002 Amendment
 

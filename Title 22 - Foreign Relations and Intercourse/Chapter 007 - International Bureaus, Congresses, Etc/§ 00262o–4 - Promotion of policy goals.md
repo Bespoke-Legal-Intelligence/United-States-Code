@@ -20,7 +20,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(8) maintain a functionally independent Investigations Office, Auditor General Office and Evaluation Office that are free from interference in determining the scope of investigations (including forensic audits), internal auditing (including assessments of management controls for meeting operational objectives and complying with bank policies), performing work and communicating results, and that regularly report to such bank's board of directors and, as appropriate and in a manner consistent with such functional independence of the Investigations Office and the Auditor General Office, to the bank's President;
 
-&emsp;(9) require that each candidate for adjustment or budget support loans demonstrate transparent budgetary and procurement processes including budget publication and public scrutiny prior to loan or grant approval;
+&emsp;(9) require that each candidate for adjustment or budget support loans demonstratetransparent budgetary and procurement processes including budget publication and public scrutiny prior to loan or grant approval;
 
 &emsp;(10) require that for each project where compensation is to be provided to persons adversely affected by the project, such persons have recourse to an impartial and responsive mechanism to receive and resolve complaints. The mechanism should be easily accessible to all segments of the affected community without impeding access to other judicial or administrative remedies and without retribution;
 
@@ -30,7 +30,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 #### (b) Publication of position statement
 
-The Secretary of the Treasury shall, beginning thirty days after November 14, 2005, and withinsixty calendar days of the meeting of the respective bank's Board of Directors at which such decisions are made, publish on the Department of the Treasury website a statement or explanation of the United States position on decisions related to: (1) operational policies; and (2) any proposal which would result or be likely to result in a significant effect on the environment.
+The Secretary of the Treasury shall, beginning thirty days after November 14, 2005, and within sixty calendar days of the meeting of the respective bank's Board of Directors at which such decisions are made, publish on the Department of the Treasury website a statement or explanation of the United States position on decisions related to: (1) operational policies; and (2) any proposal which would result or be likely to result in a significant effect on the environment.
 
 #### (c) “Multilateral development bank” defined
 

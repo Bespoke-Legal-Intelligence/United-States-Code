@@ -34,11 +34,11 @@ In this section, before clause (1), the words “is guilty of an offense”, “
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–59, §7128(a)(1), substituted “this part or chapter 51—” for “this part—” in introductory provisions.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §7128(a)(1), substituted “this part or chapter 51—” for “this part—” in introductory provisions.
 
 Subsec. (b). Pub. L. 109–59, §7128(a)(2), inserted “or chapter 51” after “under this part”.
 
-2000—Pub. L. 106–181 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2000</b>—Pub. L. 106–181 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Effective Date of 2000 Amendment
 

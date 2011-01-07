@@ -32,15 +32,149 @@ The Commission may, by rule, require an investment adviser—
 
 &emsp;An entity designated by the Commission under subsection (b)(1) shall not have any liability to any person for any actions taken or omitted in good faith under this subsection.
 
-(Aug. 22, 1940, ch. 686, title II, §204, 54 Stat. 852; Pub. L. 86–750, §6, Sept. 13, 1960, 74 Stat. 886; Pub. L. 94–29, §29(5), June 4, 1975, 89 Stat. 169; Pub. L. 109–290, §7(a), Sept. 29, 2006, 120 Stat. 1321.)
+#### (d) Records of persons with custody or use
+
+#### (1) In general
+
+&emsp;Records of persons having custody or use of the securities, deposits, or credits of a client,that relate to such custody or use, are subject at any time, or from time to time, to such reasonable periodic, special, or other examinations and other information and document requests by representatives of the Commission, as the Commission deems necessary or appropriate in the public interest or for the protection of investors.
+
+#### (2) Certain persons subject to other regulation
+
+&emsp;Any person that is subject to regulation and examination by a Federal financial institution regulatory agency (as such term is defined under section 212(c)(2) of title 18) may satisfy any examination request, information request, or document request described under paragraph (1), by providing the Commission with a detailed listing, in writing, of the securities, deposits, or credits of the client within the custody or use of such person.
+
+(Aug. 22, 1940, ch. 686, title II, §204, 54 Stat. 852; Pub. L. 86–750, §6, Sept. 13, 1960, 74 Stat. 886; Pub. L. 94–29, §29(5), June 4, 1975, 89 Stat. 169; Pub. L. 109–290, §7(a), Sept. 29, 2006, 120 Stat. 1321; Pub. L. 111–203, title IV, §404, title IX, §929Q(b), July 21, 2010, 124 Stat. 1571, 1866.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title IV, §§404, 419, July 21, 2010, 124 Stat. 1571, 1580, provided that, effective 1 year after July 21, 2010, except that any investment adviser may, at the discretion of the investment adviser, register with the Commission under the Investment Advisers Act of 1940 during that 1-year period, subject to the rules of the Commission, and except as otherwise provided, this section is amended—</i>
+
+<i>(1) by redesignating subsections (b) and (c) as subsections (c) and (d), respectively; and</i>
+
+<i>(2) by inserting after subsection (a) the following:</i>
+
+#### <i>“(b) Records and reports of private funds</i>
+
+#### <i>“(1) In general</i>
+
+&emsp;<i>“The Commission may require any investment adviser registered under this subchapter—</i>
+
+&emsp;&emsp;<i>“(A) to maintain such records of, and file with the Commission such reports regarding, private funds advised by the investment adviser, as necessary and appropriate in the public interest and for the protection of investors, or for the assessment of systemic risk by the Financial Stability Oversight Council (in this subsection referred to as the ‘Council’); and</i>
+
+&emsp;&emsp;<i>“(B) to provide or make available to the Council those reports or records or the information contained therein.</i>
+
+#### <i>“(2) Treatment of records</i>
+
+&emsp;<i>“The records and reports of any private fund to which an investment adviser registered under this subchapter provides investment advice shall be deemed to be the records and reports of the investment adviser.</i>
+
+#### <i>“(3) Required information</i>
+
+&emsp;<i>“The records and reports required to be maintained by an investment adviser and subject to inspection by the Commission under this subsection shall include, for each private fund advised by the investment adviser, a description of—</i>
+
+&emsp;&emsp;<i>“(A) the amount of assets under management and use of leverage, including off-balance-sheet leverage;</i>
+
+&emsp;&emsp;<i>“(B) counterparty credit risk exposure;</i>
+
+&emsp;&emsp;<i>“(C) trading and investment positions;</i>
+
+&emsp;&emsp;<i>“(D) valuation policies and practices of the fund;</i>
+
+&emsp;&emsp;<i>“(E) types of assets held;</i>
+
+&emsp;&emsp;<i>“(F) side arrangements or side letters, whereby certain investors in a fund obtain more favorable rights or entitlements than other investors;</i>
+
+&emsp;&emsp;<i>“(G) trading practices; and</i>
+
+&emsp;&emsp;<i>“(H) such other information as the Commission, in consultation with the Council, determines is necessary and appropriate in the public interest and for the protection of investors or for the assessment of systemic risk, which may include the establishment of different reporting requirements for different classes of fund advisers, based on the type or size of private fund being advised.</i>
+
+#### <i>“(4) Maintenance of records</i>
+
+&emsp;<i>“An investment adviser registered under this subchapter shall maintain such records of private funds advised by the investment adviser for such period or periods as the Commission, by rule, may prescribe as necessary and appropriate in the public interest and for the protection of investors, or for the assessment of systemic risk.</i>
+
+#### <i>“(5) Filing of records</i>
+
+&emsp;<i>“The Commission shall issue rules requiring each investment adviser to a private fund to file reports containing such information as the Commission deems necessary and appropriate in the public interest and for the protection of investors or for the assessment of systemic risk.</i>
+
+#### <i>“(6) Examination of records</i>
+
+#### <i>“(A) Periodic and special examinations</i>
+
+&emsp;&emsp;<i>“The Commission—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) shall conduct periodic inspections of the records of private funds maintained by an investment adviser registered under this subchapter in accordance with a schedule established by the Commission; and</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) may conduct at any time and from time to time such additional, special, and other examinations as the Commission may prescribe as necessary and appropriate in the public interest and for the protection of investors, or for the assessment of systemic risk.</i>
+
+#### <i>“(B) Availability of records</i>
+
+&emsp;&emsp;<i>“An investment adviser registered under this subchapter shall make available to the Commission any copies or extracts from such records as may be prepared without undue effort, expense, or delay, as the Commission or its representatives may reasonably request.</i>
+
+#### <i>“(7) Information sharing</i>
+
+#### <i>“(A) In general</i>
+
+&emsp;&emsp;<i>“The Commission shall make available to the Council copies of all reports, documents, records, and information filed with or provided to the Commission by an investment adviser under this subsection as the Council may consider necessary for the purpose of assessing the systemic risk posed by a private fund.</i>
+
+#### <i>“(B) Confidentiality</i>
+
+&emsp;&emsp;<i>“The Council shall maintain the confidentiality of information received under this para</i><i>graph in all such reports, documents, records, and information, in a manner consistent with the level of confidentiality established for the Commission pursuant to paragraph (8). The Council shall be exempt from section 552 of title 5 with respect to any information in any report, document, record, or information made available, to the Council under this subsection.</i>
+
+#### <i>“(8) Commission confidentiality of reports</i>
+
+&emsp;<i>“Notwithstanding any other provision of law, the Commission may not be compelled to disclose any report or information contained therein required to be filed with the Commission under this subsection, except that nothing in this subsection authorizes the Commission—</i>
+
+&emsp;&emsp;<i>“(A) to withhold information from Congress, upon an agreement of confidentiality; or</i>
+
+&emsp;&emsp;<i>“(B) prevent the Commission from complying with—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) a request for information from any other Federal department or agency or any self-regulatory organization requesting the report or information for purposes within the scope of its jurisdiction; or</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) an order of a court of the United States in an action brought by the United States or the Commission.</i>
+
+#### <i>“(9) Other recipients confidentiality</i>
+
+&emsp;<i>“Any department, agency, or self-regulatory organization that receives reports or information from the Commission under this subsection shall maintain the confidentiality of such reports, documents, records, and information in a manner consistent with the level of confidentiality established for the Commission under paragraph (8).</i>
+
+#### <i>“(10) Public information exception</i>
+
+#### <i>“(A) In general</i>
+
+&emsp;&emsp;<i>“The Commission, the Council, and any other department, agency, or self-regulatory organization that receives information, reports, documents, records, or information from the Commission under this subsection, shall be exempt from the provisions of section 552 of title 5 with respect to any such report, document, record, or information. Any proprietary information of an investment adviser ascertained by the Commission from any report required to be filed with the Commission pursuant to this subsection shall be subject to the same limitations on public disclosure as any facts ascertained during an examination, as provided by section 80b–10(b) of this title.</i>
+
+#### <i>“(B) Proprietary information</i>
+
+&emsp;&emsp;<i>“For purposes of this paragraph, proprietary information includes sensitive, non-public information regarding—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) the investment or trading strategies of the investment adviser;</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) analytical or research methodologies;</i>
+
+&emsp;&emsp;&emsp;<i>“(iii) trading data;</i>
+
+&emsp;&emsp;&emsp;<i>“(iv) computer hardware or software containing intellectual property; and</i>
+
+&emsp;&emsp;&emsp;<i>“(v) any additional information that the Commission determines to be proprietary.</i>
+
+#### <i>“(11) Annual report to Congress</i>
+
+&emsp;<i>“The Commission shall report annually to Congress on how the Commission has used the data collected pursuant to this subsection to monitor the markets for the protection of investors and the integrity of the markets.”</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
-2006—Pub. L. 109–290 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
+<b>2010</b>—Subsec. (d). Pub. L. 111–203, §929Q(b), added subsec. (d).
 
-1975—Pub. L. 94–29 substituted “make and keep for prescribed periods such records (as defined in section 78c(a)(37) of this title), furnish such copies thereof, and make and disseminate such reports as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors. All records (as so defined) of such investment advisers are subject at any time, or from time to time, to such reasonable periodic, special, or other examinations by representatives of the Commission as the Commission deems necessary or appropriate in the public interest or for the protection of investors” for “make, keep, and preserve for such periods, such accounts, correspondence, memorandums, papers, books, and other records, and make such reports, as the Commission by its rules and regulations may prescribe as necessary or appropriate in the public interest or for the protection of investors. Such accounts, correspondence, memorandums, papers, books, and other records shall be subject at any time or from time to time to such reasonable periodic, special, or other examinations by examiners or other representatives of the Commission as the Commission may deem necessary or appropriate in the public interest or for the protection of investors”.
+<b>2006</b>—Pub. L. 109–290 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
-1960—Pub. L. 86–750 substituted provisions requiring investment advisers who make business use of the mails or any instrument of interstate commerce, unless exempted from registration by section 80b–3(b) of this title, to keep and preserve accounts, correspondence, memorandums, papers, books, and records, and make such reports as the Commission requires by its rules and regulations, and that these accounts, correspondence, memorandums, papers, books and records shall be subject to examination by representatives of the Commission, for provisions requiring investment advisers registered under section 80b–3 of this title to file annual and special reports in such form as the Commission prescribed by its rules and regulations to keep current the information contained in the registration application.
+<b>1975</b>—Pub. L. 94–29 substituted “make and keep for prescribed periods such records (as defined in section 78c(a)(37) of this title), furnish such copies thereof, and make and disseminate such reports as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors. All records (as so defined) of such investment advisers are subject at any time, or from time to time, to such reasonable periodic, special, or other examinations by representatives of the Commission as the Commission deems necessary or appropriate in the public interest or for the protection of investors” for “make, keep, and preserve for such periods, such accounts, correspondence, memorandums, papers, books, and other records, and make such reports, as the Commission by its rules and regulations may prescribe as necessary or appropriate in the public interest or for the protection of investors. Such accounts, correspondence, memorandums, papers, books, and other records shall be subject at any time or from time to time to such reasonable periodic, special, or other examinations by examiners or other representatives of the Commission as the Commission may deem necessary or appropriate in the public interest or for the protection of investors”.
+
+<b>1960</b>—Pub. L. 86–750 substituted provisions requiring investment advisers who make business use of the mails or any instrument of interstate commerce, unless exempted from registration by section 80b–3(b) of this title, to keep and preserve accounts, correspondence, memorandums, papers, books, and records, and make such reports as the Commission requires by its rules and regulations, and that these accounts, correspondence, memorandums, papers, books and records shall be subject to examination by representatives of the Commission, for provisions requiring investment advisers registered under section 80b–3 of this title to file annual and special reports in such form as the Commission prescribed by its rules and regulations to keep current the information contained in the registration application.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 929Q(b) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+
+Amendment by section 404 of Pub. L. 111–203 effective 1 year after July 21, 2010, except that any investment adviser may, at the discretion of the investment adviser, register with the Commission under the Investment Advisers Act of 1940 during that 1-year period, subject to the rules of the Commission, and except as otherwise provided, see section 419 of Pub. L. 111–203, set out as a note under section 80b–2 of this title.
 
 #### Effective Date of 1975 Amendment
 

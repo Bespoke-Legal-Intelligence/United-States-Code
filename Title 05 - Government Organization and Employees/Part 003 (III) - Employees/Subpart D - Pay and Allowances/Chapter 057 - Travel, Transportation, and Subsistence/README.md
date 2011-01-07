@@ -18,6 +18,7 @@
 | [5708\.](Subchapter%20001%20%28I%29%20-%20Travel%20and%20Subsistence%20Expenses%3B%20Mileage%20Allowances/%C2%A7%2005708%20-%20Effect%20on%20other%20statutes.md) | Effect on other statutes. |
 | [5709\.](Subchapter%20001%20%28I%29%20-%20Travel%20and%20Subsistence%20Expenses%3B%20Mileage%20Allowances/%C2%A7%2005709%20-%20Air%20evacuation%20patients%20furnished%20subsistence.md) | Air evacuation patients: furnished subsistence. |
 | [5710\.](Subchapter%20001%20%28I%29%20-%20Travel%20and%20Subsistence%20Expenses%3B%20Mileage%20Allowances/%C2%A7%2005710%20-%20Authority%20for%20travel%20expenses%20test%20programs.md) | Authority for travel expenses test programs. |
+| [5711\.](Subchapter%20001%20%28I%29%20-%20Travel%20and%20Subsistence%20Expenses%3B%20Mileage%20Allowances/%C2%A7%2005711%20-%20Authority%20for%20telework%20travel%20expenses%20test%20programs.md) | Authority for telework travel expenses test programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -32,6 +33,7 @@
 | [5724a.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005724a%20-%20Relocation%20expenses%20of%20employees%20transferred%20or%20reemployed.md) | Relocation expenses of employees transferred or reemployed. |
 | [5724b.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005724b%20-%20Taxes%20on%20reimbursements%20for%20travel%2C%20transportation%2C%20and%20relocation%20expenses%20of%20employees%20transferred.md) | Taxes on reimbursements for travel, transportation, and relocation expenses of employees transferred. |
 | [5724c.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005724c%20-%20Relocation%20services.md) | Relocation services. |
+| [5724d.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005724d%20-%20Transportation%20and%20moving%20expenses%20for%20immediate%20family%20of%20certain%20deceased%20Federal%20employees.md) | Transportation and moving expenses for immediate family of certain deceased Federal employees. |
 | [5725\.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005725%20-%20Transportation%20expenses%3B%20employees%20assigned%20to%20danger%20areas.md) | Transportation expenses; employees assigned to danger areas. |
 | [5726\.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005726%20-%20Storage%20expenses%3B%20household%20goods%20and%20personal%20effects.md) | Storage expenses; household goods and personal effects. |
 | [5727\.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005727%20-%20Transportation%20of%20motor%20vehicles.md) | Transportation of motor vehicles. |
@@ -84,6 +86,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2010—Pub. L. 111–292, §3(b), Dec. 9, 2010, 124 Stat. 3173, added item 5711.
+
+Pub. L. 111–178, §2(c), June 9, 2010, 124 Stat. 1263, added item 5724d.
 
 2009—Pub. L. 111–117, div. B, title II, §219(b), Dec. 16, 2009, 123 Stat. 3142, added item 5761.
 

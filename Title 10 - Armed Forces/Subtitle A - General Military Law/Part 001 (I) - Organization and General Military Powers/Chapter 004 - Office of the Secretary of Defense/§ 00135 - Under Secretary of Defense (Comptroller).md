@@ -20,37 +20,39 @@
 
 &emsp;(4) in establishing and supervising the execution of policies and procedures relating to the expenditure and collection of funds administered by the Department of Defense; and
 
-&emsp;(5) in establishing uniform terminologies, classifications, and procedures concerning matters covered by clauses (1) through (4).
+&emsp;(5) in establishing uniform terminologies, classifications, and procedures concerning matters covered by paragraphs (1) through (4).
 
 (d) The Under Secretary of Defense (Comptroller) takes precedence in the Department of Defense after the Under Secretary of Defense for Policy.
 
 (e) The Under Secretary of Defense (Comptroller) shall ensure that each of the congressional defense committees is informed, in a timely manner, regarding all matters relating to the budgetary, fiscal, and analytic activities of the Department of Defense that are under the supervision of the Under Secretary of Defense (Comptroller).
 
-(Added Pub. L. 99–433, title I, §107, Oct. 1, 1986, 100 Stat. 998, §137; renumbered §135 and amended Pub. L. 103–160, div. A, title IX, §§901(a)(2), 902(a)(1), (b), Nov. 30, 1993, 107 Stat. 1726, 1727; Pub. L. 103–337, div. A, title IX, §903(a)(1), (2), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 104–106, div. A, title XV, §1502(a)(6), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(1), Nov. 24, 2003, 117 Stat. 1610.)
+(Added Pub. L. 99–433, title I, §107, Oct. 1, 1986, 100 Stat. 998, §137; renumbered §135 and amended Pub. L. 103–160, div. A, title IX, §§901(a)(2), 902(a)(1), (b), Nov. 30, 1993, 107 Stat. 1726, 1727; Pub. L. 103–337, div. A, title IX, §903(a)(1), (2), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 104–106, div. A, title XV, §1502(a)(6), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(1), Nov. 24, 2003, 117 Stat. 1610; Pub. L. 111–383, div. A, title IX, §901(m)(3), Jan. 7, 2011, 124 Stat. 4326.)
 
 #### Prior Provisions
 
-A prior section 135 was renumbered section 139a of this title.
+A prior section 135 was renumbered section 138b of this title.
 
 #### Amendments
 
-2003—Subsec. (e). Pub. L. 108–136 struck out “(1)” before “The Under Secretary”, substituted “each of the congressional defense committees” for “each congressional committee specified in paragraph (2)”, and struck out par. (2) which read as follows: “The committees referred to in paragraph (1) are—
+<b>2011</b>—Subsec. (c)(5). Pub. L. 111–383 substituted “paragraphs” for “clauses”.
+
+<b>2003</b>—Subsec. (e). Pub. L. 108–136 struck out “(1)” before “The Under Secretary”, substituted “each of the congressional defense committees” for “each congressional committee specified in paragraph (2)”, and struck out par. (2) which read as follows: “The committees referred to in paragraph (1) are—
 
 &emsp;“(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
 
 &emsp;“(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
 
-1999—Subsec. (e)(2)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
+<b>1999</b>—Subsec. (e)(2)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
-1996—Subsec. (e). Pub. L. 104–106 designated existing provisions as par. (1), substituted “each congressional committee specified in paragraph (2) is” for “the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives are each”, and added par. (2).
+<b>1996</b>—Subsec. (e). Pub. L. 104–106 designated existing provisions as par. (1), substituted “each congressional committee specified in paragraph (2) is” for “the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives are each”, and added par. (2).
 
-1994—Pub. L. 103–337, §903(a)(2), substituted “Under Secretary of Defense (Comptroller)” for “Comptroller” as section catchline.
+<b>1994</b>—Pub. L. 103–337, §903(a)(2), substituted “Under Secretary of Defense (Comptroller)” for “Comptroller” as section catchline.
 
 Subsec. (a). Pub. L. 103–337, §903(a)(1)(A), substituted “an Under Secretary of Defense (Comptroller)” for “a Comptroller of the Department of Defense”.
 
 Subsecs. (b) to (e). Pub. L. 103–337, §903(a)(1)(B), substituted “Under Secretary of Defense (Comptroller)” for “Comptroller” wherever appearing.
 
-1993—Pub. L. 103–160, §901(a)(2), renumbered section 137 of this title as this section.
+<b>1993</b>—Pub. L. 103–160, §901(a)(2), renumbered section 137 of this title as this section.
 
 Subsec. (b). Pub. L. 103–160, §902(a)(1), inserted “The Comptroller is the agency Chief Financial Officer of the Department of Defense for the purposes of chapter 9 of title 31.” after “(b)” and “additional” after “shall perform such”.
 
@@ -61,4 +63,8 @@ Subsec. (e). Pub. L. 103–160, §902(b), added subsec. (e).
 #### Change of Name
 
 Section 903(d) of Pub. L. 103–337 provided that: “Any reference to the Comptroller of the Department of Defense in any provision of law other than title 10, United States Code, or in any rule, regulation, or other paper of the United States shall be treated as referring to the Under Secretary of Defense (Comptroller).”
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as a note under section 131 of this title.
 

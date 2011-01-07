@@ -36,7 +36,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1978—Par. (2). Pub. L. 95–454 substituted “7202, 7203” for “7152, 7153”.
 
-Pub. L. 95–228 struck out reference to section 3306(a)(1) of this title. Amendments by section 703(c)(1) and (c)(2) of Pub. L. 95–454 appear to have been inadvertently reversed. Subsec. (c)(1) purported to amend subsec. (c)(1) of section 2105 of this title, and subsec. (c)(2) purported to amend par. (2) of this section. However, the amendments specified by Pub. L. 95–454, §703(c)(1) and (2), were impossible to execute literally. Thus, amendment by Pub. L. 95–454, §703(c)(2) was executed to section 2105 of this title, and amendment by section 703(c)(1) was executed to this section as the probable intent of Congress.
+Pub. L. 95–228 struck out reference to section 3306(a)(1) of this title. Amendments by section 703(c)(1) and (c)(2) of Pub. L. 95–454 appear to have been inadvertently reversed. Subsec. (c)(1) purported to amend subsec. (c)(1) of section 2105 of this title, and subsec. (c)(2) purported to amend par. (2) of this section. However, the amendments specified by Pub. L. 95–454,§703(c)(1) and (2), were impossible to execute literally. Thus, amendment by Pub. L. 95–454, §703(c)(2) was executed to section 2105 of this title, and amendment by section 703(c)(1) was executed to this section as the probable intent of Congress.
 
 #### Effective Date of 1993 Amendment; Savings Provision
 
@@ -98,7 +98,7 @@ Sec. 3. Any law, Executive order, or regulation which would disqualify an applic
 
 Sec. 4. For the purpose of this order:
 
-(a) “agency” means a military department as defined in section 102 of title 5, United States Code, an executive agency (other than the General Accounting Office\[now Government Accountability Office\]) as defined in section 105 of title 5, United States Code, and those portions of the legislative and judicial branches of the Federal Government and of the government of the District of Columbia having positions in the competitive service; and
+(a) “agency” means a military department as defined in section 102 of title 5, United States Code, an executive agency (other than the General Accounting Office \[now Government Accountability Office\]) as defined in section 105 of title 5, United States Code, and those portions of the legislative and judicial branches of the Federal Government and of the government of the District of Columbia having positions in the competitive service; and
 
 (b) “Vietnam era” means the period beginning August 5, 1964, and ending on such date thereafter as may be determined by Presidential proclamation or concurrent resolution of the Congress.
 

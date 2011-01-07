@@ -6,9 +6,9 @@ When a copy of any public record of the District of Columbia is required by the 
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 3303 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 3303 of this title as this section.
 
 Pub. L. 102–83 substituted “Secretary” for “Veterans’ Administration” in two places and “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-1986—Pub. L. 99–576 substituted “the veteran's” for “his”.
+<b>1986</b>—Pub. L. 99–576 substituted “the veteran's” for “his”.
 

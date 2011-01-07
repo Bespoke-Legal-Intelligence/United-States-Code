@@ -34,7 +34,7 @@ The running of the period of limitations for collection of the tax attributable 
 
 #### (2) Wrongful lien
 
-&emsp;In the case of any assessment for which a lien was made on any property, the running of the period under section 6502 shall be suspended for a period equal to the period beginning on the date any person becomes entitled to a certificate under section 6325(b)(4) with respect to such property and ending on the date which is 30 days after the earlier of—
+&emsp;In the case of any assessment for which a lien was made on any property, the running of the period under section 6502 shall be suspended for a period equal to the period beginning on the date any person becomes entitledto a certificate under section 6325(b)(4) with respect to such property and ending on the date which is 30 days after the earlier of—
 
 &emsp;&emsp;(A) the earliest date on which the Secretary no longer holds any amount as a deposit or bond provided under section 6325(b)(4) by reason of such deposit or bond being used to satisfy the unpaid tax or being refunded or released; or
 
@@ -114,7 +114,7 @@ The running of any period of limitations for collection of any amount of undistr
 
 &emsp;&emsp;&emsp;<b>(5) Deficiency dividends in the case of a regulated investment company or a real estate investment trust, see section 860(h).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 806; Aug. 6, 1956, ch. 1020, §2, 70 Stat. 1075; Pub. L. 85–866, title II, §206(d), Sept. 2, 1958, 72 Stat. 1685; Pub. L. 89–384, §1(e), Apr. 8, 1966, 80 Stat. 104; Pub. L. 89–719,title I, §106, Nov. 2, 1966, 80 Stat. 1139; Pub. L. 91–172, title I, §101(g)(4), (j)(46), Dec. 30, 1969, 83 Stat. 525, 531; Pub. L. 93–406, title II, §1016(a)(15), Sept. 2, 1974, 88 Stat. 930; Pub. L. 94–452, §3(b), Oct. 2, 1976, 90 Stat. 1514; Pub. L. 94–455, title XII, §1203(h)(1), title XVI, §1601(f)(2), title XIX, §§1902(b)(2)(A), 1906(b)(13)(A), title XX, §2004(c)(4), Oct. 4, 1976, 90 Stat. 1694, 1746, 1806, 1834, 1868; Pub. L. 95–227, §4(d)(6), Feb. 10, 1978, 92 Stat. 23; Pub. L. 95–600, title III, §362(d)(5), Nov. 6, 1978, 92 Stat. 2852; Pub. L. 96–222, title I, §108(b)(1)(A), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–589, §6(a), (i)(11), Dec. 24, 1980, 94 Stat. 3407, 3411; Pub. L. 96–596, §2(a)(4)(D), (E), Dec. 24, 1980, 94 Stat. 3472; Pub. L. 97–34, title IV, §422(e)(7), Aug. 13, 1981, 95 Stat. 316; Pub. L. 98–369, div. A, title III, §305(b)(4), July 18, 1984, 98 Stat. 784; Pub. L. 99–514, title XII, §1235(d), title XVIII, §1875(d)(2)(B)(ii), Oct. 22, 1986, 100 Stat. 2575, 2896; Pub. L. 100–203, title X, §10712(c)(3), Dec. 22, 1987, 101 Stat. 1330–467; Pub. L. 101–508, title XI, §§11311(a), 11801(c)(20)(A), Nov. 5, 1990, 104 Stat. 1388–453, 1388–528; Pub. L. 104–168, title X, §1002(a)–(c), July 30, 1996, 110 Stat. 1468; Pub. L. 104–188, title I, §1702(h)(17), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title XII, §1237(c)(2), Aug. 5, 1997, 111 Stat. 1026; Pub. L. 105–206, title III, §3106(b)(3), July 22, 1998, 112 Stat. 734; Pub. L. 110–28, title VIII, §8246(a)(2)(E), May 25, 2007, 121 Stat. 201.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 806; Aug. 6, 1956, ch. 1020, §2, 70 Stat. 1075; Pub. L. 85–866, title II, §206(d), Sept. 2, 1958, 72 Stat. 1685; Pub. L. 89–384, §1(e), Apr. 8, 1966, 80 Stat. 104; Pub. L. 89–719, title I, §106, Nov. 2, 1966, 80 Stat. 1139; Pub. L. 91–172, title I, §101(g)(4), (j)(46), Dec. 30, 1969, 83Stat. 525, 531; Pub. L. 93–406, title II, §1016(a)(15), Sept. 2, 1974, 88 Stat. 930; Pub. L. 94–452, §3(b), Oct. 2, 1976, 90 Stat. 1514; Pub. L. 94–455, title XII, §1203(h)(1), title XVI, §1601(f)(2), title XIX, §§1902(b)(2)(A), 1906(b)(13)(A), title XX, §2004(c)(4), Oct. 4, 1976, 90 Stat. 1694, 1746, 1806, 1834, 1868; Pub. L. 95–227, §4(d)(6), Feb. 10, 1978, 92 Stat. 23; Pub. L. 95–600, title III, §362(d)(5), Nov. 6, 1978, 92 Stat. 2852; Pub. L. 96–222, title I, §108(b)(1)(A), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–589, §6(a), (i)(11), Dec. 24, 1980, 94 Stat. 3407, 3411; Pub. L. 96–596, §2(a)(4)(D), (E), Dec. 24, 1980, 94 Stat. 3472; Pub. L. 97–34, title IV, §422(e)(7), Aug. 13, 1981, 95 Stat. 316; Pub. L. 98–369, div. A, title III, §305(b)(4), July 18, 1984, 98 Stat. 784; Pub. L. 99–514, title XII, §1235(d), title XVIII, §1875(d)(2)(B)(ii), Oct. 22, 1986, 100 Stat. 2575, 2896; Pub. L. 100–203, title X, §10712(c)(3), Dec. 22, 1987, 101 Stat. 1330–467; Pub. L. 101–508, title XI, §§11311(a), 11801(c)(20)(A), Nov. 5, 1990, 104 Stat. 1388–453, 1388–528; Pub. L. 104–168, title X, §1002(a)–(c), July 30, 1996, 110 Stat. 1468; Pub. L. 104–188, title I, §1702(h)(17), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title XII, §1237(c)(2), Aug. 5, 1997, 111 Stat. 1026; Pub. L. 105–206, title III, §3106(b)(3), July 22, 1998, 112 Stat. 734; Pub. L. 110–28, title VIII, §8246(a)(2)(E), May 25, 2007, 121 Stat. 201.)
 
 #### Codification
 
@@ -130,13 +130,13 @@ Pub. L. 96–589 again redesignated subsec. (i), relating to cross references, a
 
 #### Amendments
 
-2007—Subsec. (k)(4). Pub. L. 110–28 substituted “Tax return preparers” for “Income tax return preparers”.
+<b>2007</b>—Subsec. (k)(4). Pub. L. 110–28 substituted “Tax return preparers” for “Income tax return preparers”.
 
-1998—Subsec. (f). Pub. L. 105–206 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The running of the period of limitations on collection after assessment prescribed in section 6502 shall be suspended for a period equal to the period from the date property (including money) of a third party is wrongfully seized or received by the Secretary to the date the Secretary returns property pursuant to section 6343(b) or the date on which a judgment secured pursuant to section 7426 with respect to such property becomes final, and for 30 days thereafter. The running of the period of limitations on collection after assessment shall be suspended under this subsection only with respect to the amount of such assessment equal to the amount of money or the value of specific property returned.”
+<b>1998</b>—Subsec. (f). Pub. L. 105–206 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The running of the period of limitations on collection after assessment prescribed in section 6502 shall be suspended for a period equal to the period from the date property (including money) of a third party is wrongfully seized or received by the Secretary to the date the Secretary returns property pursuant to section 6343(b) or the date on which a judgment secured pursuant to section 7426 with respect to such property becomes final, and for 30 days thereafter. The running of the period of limitations on collection after assessment shall be suspended under this subsection only with respect to the amount of such assessment equal to the amount of money or the value of specific property returned.”
 
-1997—Subsec. (a)(1). Pub. L. 105–34 substituted “paragraph (2)(A) or (3) of section 6230(a)” for “section 6230(a)(2)(A)”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–34 substituted “paragraph (2)(A) or (3) of section 6230(a)” for “section 6230(a)(2)(A)”.
 
-1996—Subsec. (j). Pub. L. 104–188, §1702(h)(17)(A), which directed that the subsection relating to extension in case of certain summonses be redesignated as (j), could not be executed, because that subsection (formerly subsec. (k)) was previously redesignated (j) by Pub. L. 101–508, §11801(c)(20)(A). See 1990 Amendment note below.
+<b>1996</b>—Subsec. (j). Pub. L. 104–188, §1702(h)(17)(A), which directed that the subsection relating to extension in case of certain summonses be redesignated as (j), could not be executed, because that subsection (formerly subsec. (k)) was previously redesignated (j) by Pub. L. 101–508, §11801(c)(20)(A). See 1990 Amendment note below.
 
 Pub. L. 104–168, §1002(c), which directed that subsec. (k) be redesignated as (j), could not be executed, because that subsection was redesignated (j) by Pub. L. 101–508, §11801(c)(20)(A). See 1990 Amendment note below.
 
@@ -154,7 +154,7 @@ Subsec. (<i>l</i>). Pub. L. 104–188, §1702(h)(17)(B), redesignated the subsec
 
 Pub. L. 104–168, §1002(c), which directed that subsec. (<i>l</i>) be redesignated as (k), could not be executed, because that subsection was redesignated (k) by Pub. L. 104–188, §1702(h)(17). See above and see Effective Date of 1996 Amendments note below.
 
-1990—Subsecs. (h) to (j). Pub. L. 101–508, §11801(c)(20)(A), redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h) “Extension of time for collecting tax attributable to divestitures pursuant to Bank Holding Company Act Amendments of 1970” which read as follows: “The running of the period of limitations for collection of the tax attributable to a sale with respect to which the taxpayer makes an election under section 6158(a) shall be suspended for the period during which there are any unpaid installments of such tax.”
+<b>1990</b>—Subsecs. (h) to (j). Pub. L. 101–508, §11801(c)(20)(A), redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h) “Extension of time for collecting tax attributable to divestitures pursuant to Bank Holding Company Act Amendments of 1970” which read as follows: “The running of the period of limitations for collection of the tax attributable to a sale with respect to which the taxpayer makes an election under section 6158(a) shall be suspended for the period during which there are any unpaid installments of such tax.”
 
 Subsec. (k). Pub. L. 101–508, §11801(c)(20)(A), redesignated subsec. (k) as (j).
 
@@ -162,17 +162,17 @@ Pub. L. 101–508, §11311(a), added subsec. (k). Former subsec. (k) redesignate
 
 Subsec. (<i>l</i>). Pub. L. 101–508, §11311(a), redesignated subsec. (k) as (<i>l</i>).
 
-1987—Subsec. (g). Pub. L. 100–203 struck out “4951, 4952,” before “4971”.
+<b>1987</b>—Subsec. (g). Pub. L. 100–203 struck out “4951, 4952,” before “4971”.
 
-1986—Subsec. (a)(1). Pub. L. 99–514, §1875(d)(2)(B)(ii), substituted “section 6501 or 6502 (or section 6229, but only with respect to a deficiency described in section 6230(a)(2)(A)).” for “section 6501 or 6502”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §1875(d)(2)(B)(ii), substituted “section 6501 or 6502 (or section 6229, but only with respect to a deficiency described in section 6230(a)(2)(A)).” for “section 6501 or 6502”.
 
 Subsecs. (j), (k). Pub. L. 99–514, §1235(d), added subsec. (j) and redesignated former subsec. (j) as (k).
 
-1984—Subsec. (g). Pub. L. 98–369 substituted “section 4963(e)” for “section 4962(e)”.
+<b>1984</b>—Subsec. (g). Pub. L. 98–369 substituted “section 4963(e)” for “section 4962(e)”.
 
-1981—Subsec. (d). Pub. L. 97–34 struck out reference to section 6166A.
+<b>1981</b>—Subsec. (d). Pub. L. 97–34 struck out reference to section 6166A.
 
-1980—Subsec. (g). Pub. L. 96–596, §2(a)(4)(D), substituted “section 4962(e)” for “section 4941(e)(4), 4942(j)(2), 4943(d)(3), 4944(e)(3), 4945(i)(2), 4951(e)(4), 4952(e)(2), 4971(c)(3), or 4975(f)(6)”.
+<b>1980</b>—Subsec. (g). Pub. L. 96–596, §2(a)(4)(D), substituted “section 4962(e)” for “section 4941(e)(4), 4942(j)(2), 4943(d)(3), 4944(e)(3), 4945(i)(2), 4951(e)(4), 4952(e)(2), 4971(c)(3), or 4975(f)(6)”.
 
 Pub. L. 96–222 substituted “4951, 4952, 4971, or 4975” for “4971, 4975, 4985, or 4986” and “4951(e)(4), 4952(e)(2), 4971(c)(3), or 4975(f)(6)” for “4971(c)(3), 4975(f)(6), 4985(e)(4), or 4986(e)(2)”.
 
@@ -184,11 +184,11 @@ Subsec. (j). Pub. L. 96–589, §6(a), (i)(11), redesignated former subsec. (i),
 
 Pub. L. 96–596, §2(a)(4)(E), redesignated former subsec. (j), relating to cross references, as (i). See Codification note set out above.
 
-1978—Subsec. (g). Pub. L. 95–227 inserted provisions relating to sections 4985 and 4986 and substituted “4975(f)(6)” for “4975(f)(4)”.
+<b>1978</b>—Subsec. (g). Pub. L. 95–227 inserted provisions relating to sections 4985 and 4986 and substituted “4975(f)(6)” for “4975(f)(4)”.
 
 Subsec. (j)(5). Pub. L. 95–600, as amended by Pub. L. 96–596, §2(a)(4)(E) and (F), substituted “in the case of a regulated investment company or a real estate investment trust, see section 860(h)” for “of a real estate investment trust, see section 859(f)”. See Codification note above.
 
-1976—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (d). Pub. L. 94–455, §2004(c)(4), substituted “section 6163, 6166, or 6166A” for “section 6166”.
 
@@ -208,15 +208,15 @@ Subsec. (j). Pub. L. 94–455, §§1203(h)(1), 1601(f)(2), as amended by Pub. L.
 
 Pub. L. 94–452 redesignated former subsec. (i) as (j).
 
-1974—Subsec. (a)(1). Pub. L. 93–406, §1016(a)(15)(A), substituted “certain excise taxes)” for “chapter 42 taxes)”.
+<b>1974</b>—Subsec. (a)(1). Pub. L. 93–406, §1016(a)(15)(A), substituted “certain excise taxes)” for “chapter 42 taxes)”.
 
 Subsec. (h). Pub. L. 93–406, §1016(a)(15)(B), inserted “or section 4971 or section 4975” after “section 507” and substituted “4945(i)(2), 4971(c)(3), or 4975(f)(4)” for “or 4945(h)(2)”.
 
-1969—Subsec. (a)(1). Pub. L. 91–172, §101(j)(46), inserted reference to chapter 42 taxes.
+<b>1969</b>—Subsec. (a)(1). Pub. L. 91–172, §101(j)(46), inserted reference to chapter 42 taxes.
 
 Subsecs. (h), (i). Pub. L. 91–172, §101(g)(4), added subsec. (h) and redesignated former subsec. (h) as (i).
 
-1966—Subsec. (b). Pub. L. 89–719, §106(a), struck out “(other than the estate of a decedent or of an incompetent)” after “assets of the taxpayer” and “or Territory” after “of any State”.
+<b>1966</b>—Subsec. (b). Pub. L. 89–719, §106(a), struck out “(other than the estate of a decedent or of an incompetent)” after “assets of the taxpayer” and “or Territory” after “of any State”.
 
 Subsec. (c). Pub. L. 89–719, §106(b), substituted “Taxpayer outside United States” for “Location of property outside the United States or removal of property from the United States” in heading, and “The running of the period of limitations on collection after assessment prescribed in section 6502 shall be suspended for the period during which the taxpayer is outside the United States if such period of absence is for a continuous period of at least 6 months. If the preceding sentence applies and at the time of the taxpayer's return to the United States the period of limitations on collection after assessment prescribed in section 6502 would expire before the expiration of 6 months from the date of his return, such period shall not expire before the expiration of such 6 months” for “In case collection is hindered or delayed because property of the taxpayer is situated or held outside the United States or is removed from the United States, the period of limitations on collection after assessment prescribed in section 6502 shall be suspended for the period collection is so hindered or delayed. The total suspension of time under this subsection shall not in the aggregate exceed 6 years.”
 
@@ -228,9 +228,9 @@ Pub. L. 89–384 redesignated subsec. (f) as (g).
 
 Subsec. (h). Pub. L. 89–719, §106(c), redesignated former subsec. (g) as (h).
 
-1958—Subsec. (d). Pub. L. 85–866 struck out “assessment or” after “period of limitations for” and inserted “or under the provisions of section 6166”.
+<b>1958</b>—Subsec. (d). Pub. L. 85–866 struck out “assessment or” after “period of limitations for” and inserted “or under the provisions of section 6166”.
 
-1956—Subsecs. (e), (f). Act Aug. 6, 1956, added subsec. (e) and redesignated former subsec. (e) as (f).
+<b>1956</b>—Subsecs. (e), (f). Act Aug. 6, 1956, added subsec. (e) and redesignated former subsec. (e) as (f).
 
 #### Effective Date of 2007 Amendment
 
@@ -258,7 +258,7 @@ Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 
 
 Amendment by section 1235(d) of Pub. L. 99–514 applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, see section 1235(h) of Pub. L. 99–514, set out as an Effective Date note under section 1291 of this title.
 
-Amendment by section 1875(d)(2)(B)(ii) of Pub. L. 99–514 effective as if included in the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, see section 1875(d)(2)(C) of Pub. L. 99–514, set out as a note under section 6230 of this title.
+Amendment by section 1875(d)(2)(B)(ii) of Pub. L. 99–514 effective as if included in the Tax Equity andFiscal Responsibility Act of 1982, Pub. L. 97–248, see section 1875(d)(2)(C) of Pub. L. 99–514, set out as a note under section 6230 of this title.
 
 #### Effective Date of 1984 Amendment
 

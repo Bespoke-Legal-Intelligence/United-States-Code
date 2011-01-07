@@ -8,7 +8,7 @@ If for the taxable year an S corporation has—
 
 &emsp;(2) gross receipts more than 25 percent of which are passive investment income,
 
-> then there is hereby imposed a tax on the income of such corporation for such taxable year. Such tax shall be computed by multiplying the excess net passive income by the highest rate of tax specified in section 11(b).
+> then there is hereby imposed a tax on the income of such corporation for such taxable year.Such tax shall be computed by multiplying the excess net passive income by the highest rate of tax specified in section 11(b).
 
 #### (b) Definitions
 
@@ -62,7 +62,7 @@ If the S corporation establishes to the satisfaction of the Secretary that—
 
 > the Secretary may waive the tax imposed by subsection (a) for such taxable year.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1684; amended Pub. L. 98–369, div. A, title IV,§474(r)(28), title VII, §721(v), July 18, 1984, 98 Stat. 844, 971; Pub. L. 99–514, title VI, §632(c)(3), Oct. 22, 1986, 100 Stat. 2277; Pub. L. 100–647, title I, §1006(f)(5)(B)–(D), Nov. 10, 1988, 102 Stat. 3406; Pub. L. 104–188, title I, §1311(b)(2)(A)–(C), Aug. 20, 1996, 110 Stat. 1784; Pub. L. 109–135, title IV, §412(qq), Dec. 21, 2005, 119 Stat. 2640.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1684; amended Pub. L. 98–369, div. A, title IV, §474(r)(28), title VII, §721(v), July 18, 1984, 98 Stat. 844, 971; Pub. L. 99–514, title VI, §632(c)(3), Oct. 22, 1986, 100 Stat. 2277; Pub. L. 100–647, title I, §1006(f)(5)(B)–(D), Nov. 10, 1988, 102 Stat. 3406; Pub. L. 104–188, title I, §1311(b)(2)(A)–(C), Aug. 20, 1996, 110 Stat. 1784; Pub. L. 109–135, title IV, §412(qq), Dec. 21, 2005, 119 Stat. 2640.)
 
 #### Prior Provisions
 
@@ -72,9 +72,9 @@ A prior section 1376, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 7
 
 #### Amendments
 
-2005—Subsec. (d)(1), (2). Pub. L. 109–135 substituted “accumulated” for “subchapter C”.
+<b>2005</b>—Subsec. (d)(1), (2). Pub. L. 109–135 substituted “accumulated” for “subchapter C”.
 
-1996—Pub. L. 104–188, §1311(b)(2)(C), substituted “accumulated” for “subchapter C” in section catchline.
+<b>1996</b>—Pub. L. 104–188, §1311(b)(2)(C), substituted “accumulated” for “subchapter C” in section catchline.
 
 Subsec. (a)(1). Pub. L. 104–188, §1311(b)(2)(A), substituted “accumulated” for “subchapter C”.
 
@@ -84,7 +84,7 @@ Subsec. (b)(3). Pub. L. 104–188, §1311(b)(2)(B), amended par. (3) generally. 
 
 Passive investment income; etc.—The terms ‘subchapter C earnings and profits’, ‘passive investment income’, and ‘gross receipts’ shall have the same respective meanings as when used in paragraph (3) of section 1362(d).”
 
-1988—Subsec. (b)(1)(B). Pub. L. 100–647, §1006(f)(5)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The amount of the excess net passive income for any taxable year shall not exceed the corporation's taxable income for the taxable year (determined in accordance with section 1374(d)(4)).”
+<b>1988</b>—Subsec. (b)(1)(B). Pub. L. 100–647, §1006(f)(5)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The amount of the excess net passive income for any taxable year shall not exceed the corporation's taxable income for the taxable year (determined in accordance with section 1374(d)(4)).”
 
 Subsec. (b)(4). Pub. L. 100–647, §1006(f)(5)(C), added par. (4).
 
@@ -92,9 +92,9 @@ Subsec. (c). Pub. L. 100–647, §1006(f)(5)(D), amended subsec. (c) generally, 
 
 Disallowance of credit.—No credit”, and striking out par. (2) which related to coordination with section 1374.
 
-1986—Subsec. (b)(1)(B). Pub. L. 99–514 substituted “section 1374(d)(4)” for “section 1374(d)”.
+<b>1986</b>—Subsec. (b)(1)(B). Pub. L. 99–514 substituted “section 1374(d)(4)” for “section 1374(d)”.
 
-1984—Subsec. (c)(1). Pub. L. 98–369, §474(r)(28), substituted “section 34” for “section 39”.
+<b>1984</b>—Subsec. (c)(1). Pub. L. 98–369, §474(r)(28), substituted “section 34” for “section 39”.
 
 Subsec. (d). Pub. L. 98–369, §721(v), added subsec. (d).
 
@@ -104,7 +104,7 @@ Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to whichsuch amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

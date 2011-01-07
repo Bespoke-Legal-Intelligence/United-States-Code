@@ -16,9 +16,9 @@ The Attorney General may provide prospective assistance to dependents eligible u
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–276 substituted “January 1, 1978,” for “May 1, 1992” and “January 1, 1978, shall” for “October 1, 1997, shall”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–276 substituted “January 1, 1978,” for “May 1, 1992” and “January 1, 1978, shall” for “October 1, 1997, shall”.
 
-1998—Subsec. (a). Pub. L. 105–390 inserted “and each dependent of a public safety officer killed in the line of duty on or after October 1, 1997,” after “1992,”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–390 inserted “and each dependent of a public safety officer killed in the line of duty on or after October 1, 1997,” after “1992,”.
 
 #### Effective Date of 2000 Amendment
 

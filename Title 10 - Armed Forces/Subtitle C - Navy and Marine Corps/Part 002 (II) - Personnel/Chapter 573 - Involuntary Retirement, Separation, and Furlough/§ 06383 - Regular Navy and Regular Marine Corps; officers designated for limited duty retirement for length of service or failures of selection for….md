@@ -6,7 +6,7 @@ Mandatory Retirement.—(1) Except as provided in subsection (k), each regular o
 
 (2) Except as provided in subsection (k), each regular officer of the Navy designated for limited duty who is serving in the grade of commander, has failed of selection for promotion to the grade of captain for the second time, and is not on a list of officers recommended for promotion to the grade of captain shall—
 
-&emsp;(A) if eligible for retirement as a commissioned officer under any provision of law, be retired under that provision of law on the date requested by the officer and approved by the Secretary of the Navy, except that the date of retirement may not be later than the first day of the seventh month beginning after the month in which the President approves the report of the selection board in which the officer is considered as having failed for promotion to the grade of captain for a second time; or
+&emsp;(A) if eligible for retirement as a commissioned officer under any provision of law, be retired under that provision of law on the date requested by the officer and approved by the Secretary of the Navy, except that the date ofretirement may not be later than the first day of the seventh month beginning after the month in which the President approves the report of the selection board in which the officer is considered as having failed for promotion to the grade of captain for a second time; or
 
 &emsp;(B) if not eligible for retirement as a commissioned officer, be retired on the date requested by the officer and approved by the Secretary of the Navy after the officer becomes eligible for retirement as a commissioned officer, except that the date of retirement may not be later than the first day of the seventh calendar month beginning after the month in which the officer becomes eligible for retirement as a commissioned officer.
 
@@ -172,15 +172,15 @@ The second proviso in §312(g) of the Officer Personnel Act of 1947 (34 U.S.C. 4
 
 In subsection (f) the words “to which he would otherwise become entitled” are omitted as surplusage and the words “based on the service for which he has received payment” are substituted for the words “attributable to the active service in respect of which lump-sum payment shall have been made to him”.
 
-The second proviso in §312(f) of the Officer Personnel Act of 1947 (34 U.S.C. 410j(f)), which provides that officers who exercise their option to revert to a warrant officer grade shall be retired upon completing 30 years of active naval service, is omitted as superseded by §14(b)(2) of the Warrant Officer Act of 1954 (34 U.S.C. 430(b)(2)), codified in §1305 of this title.
+The second proviso in §312(f) of the Officer Personnel Act of 1947 (34 U.S.C. 410j(f)), which provides that officers who exercise their option to revert to a warrant officer grade shall be retired upon completing 30 years ofactive naval service, is omitted as superseded by §14(b)(2) of the Warrant Officer Act of 1954 (34 U.S.C. 430(b)(2)), codified in §1305 of this title.
 
 #### Amendments
 
-1998—Subsec. (a)(5). Pub. L. 105–261, §504(c), struck out par. (5) which read as follows: “Paragraphs (2) through (4) shall be effective only during the period beginning on July 1, 1993, and ending on October 1, 1999.”
+<b>1998</b>—Subsec. (a)(5). Pub. L. 105–261, §504(c), struck out par. (5) which read as follows: “Paragraphs (2) through (4) shall be effective only during the period beginning on July 1, 1993, and ending on October 1, 1999.”
 
 Subsec. (k). Pub. L. 105–261, §504(d), struck out at end “During the period beginning on July 1, 1993, and ending on October 1, 1999, an officer of the Navy in the grade of commander or captain whose retirement is deferred under this subsection and who is not subsequently promoted may not be continued on active duty beyond age 62 or, if earlier, 28 years of active commissioned service if in the grade of commander or 30 years of active commissioned service if in the grade of captain.”
 
-1994—Subsec. (a). Pub. L. 103–337, §503(c)(1), (d)(1), inserted heading and substituted “Except as provided in subsection (k)” for “Except as provided in subsection (i)” in pars. (1) to (4).
+<b>1994</b>—Subsec. (a). Pub. L. 103–337, §503(c)(1), (d)(1), inserted heading and substituted “Except as provided in subsection (k)” for “Except as provided in subsection (i)” in pars. (1) to (4).
 
 Subsec. (b). Pub. L. 103–337, §503(c)(2), (d)(2), inserted heading and substituted “Except as provided in subsections (f) and (k)” for “Except as provided in subsection (i)”.
 
@@ -202,27 +202,27 @@ Subsec. (k). Pub. L. 103–337, §503(a)(1), (b), (d)(8), redesignated subsec. (
 
 Subsec. (<i>l</i>). Pub. L. 103–337, §503(a)(1), (d)(9), redesignated subsec. (j) as (<i>l</i>) and inserted heading.
 
-1993—Subsecs. (a)(5), (i). Pub. L. 103–160 substituted “October 1, 1999” for “October 1, 1995”.
+<b>1993</b>—Subsecs. (a)(5), (i). Pub. L. 103–160 substituted “October 1, 1999” for “October 1, 1995”.
 
-1992—Subsec. (a). Pub. L. 102–484, §504(c), designated existing provisions as par. (1) and added pars. (2) to (5).
+<b>1992</b>—Subsec. (a). Pub. L. 102–484, §504(c), designated existing provisions as par. (1) and added pars. (2) to (5).
 
 Subsec. (i). Pub. L. 102–484, §504(d), inserted at end “During the period beginning on July 1, 1993, and ending on October 1, 1995, an officer of the Navy in the grade of commander or captain whose retirement is deferred under this subsection and who is not subsequently promoted may not be continued on active duty beyond age 62 or, if earlier, 28 years of active commissioned service if in the grade of commander or 30 years of active commissioned service if in the grade of captain.”
 
-1990—Subsec. (h). Pub. L. 101–510 substituted “section 1174(a)(1)” for “section 1174(a)”.
+<b>1990</b>—Subsec. (h). Pub. L. 101–510 substituted “section 1174(a)(1)” for “section 1174(a)”.
 
-1986—Subsec. (c)(2). Pub. L. 99–348, §203(b)(7)(A), substituted provision that retired pay be computed under section 6333 for provision that retired pay, in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at the rate of 21/2 percent of the basic pay to which he would have been entitled if serving on active duty in the grade in which he retired, or in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, be at the rate of 21/2 percent of the monthly retired pay base computed under section 1407(d), which rates were to be multiplied by the number of years of service credited under section 1405, but such retired pay was not to be more than 75 percent of the basic pay or monthly retired pay base upon which the computation of retired pay was based.
+<b>1986</b>—Subsec. (c)(2). Pub. L. 99–348, §203(b)(7)(A), substituted provision that retired pay be computed under section 6333 for provision that retired pay, in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at the rate of 21/2 percent of the basic pay to which he would have been entitled if serving on active duty in the grade in which he retired, or in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, be at the rate of 21/2 percent of the monthly retired pay base computed under section 1407(d), which rates were to be multiplied by the number of years of service credited under section 1405, but such retired pay was not to be more than 75 percent of the basic pay or monthly retired pay base upon which the computation of retired pay was based.
 
 Subsec. (k). Pub. L. 99–348, §203(b)(7)(B), struck out subsec. (k) which provided that retired pay computed under subsec. (c), if not a multiple of $1, was to be rounded to the next lower multiple of $1.
 
-1984—Subsec. (a). Pub. L. 98–525, §529(c)(1), substituted “each regular officer of the Navy who is an officer designated for limited duty and who is serving in a grade below the grade of commander and each regular officer of the Marine Corps who is an officer” for “each regular officer of the Navy or Marine Corps”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–525, §529(c)(1), substituted “each regular officer of the Navy who is an officer designated for limited duty and who is serving in a grade below the grade of commander and each regular officer of the Marine Corps who is an officer” for “each regular officer of the Navy or Marine Corps”.
 
 Subsec. (d). Pub. L. 98–525, §529(c)(2), substituted “Except as provided in subsection (i), each” for “Each”.
 
 Subsec. (i). Pub. L. 98–525, §529(c)(3), inserted “or the discharge under subsection (d)” after “the retirement under subsection (a) or (b)” and substituted “An officer whose retirement is deferred under this subsection and who is not subsequently promoted may not be continued on active duty beyond 20 years active commissioned service, if in the grade of lieutenant or captain, beyond 24 years active commissioned service, if in the grade of lieutenant commander or major, or beyond 28 years active commissioned service, if in the grade of lieutenant colonel, or beyond age 62, whichever is earlier” for “An officer whose retirement is deferred under this subsection and who is not subsequently promoted may not be continued on active duty beyond 24 years active commissioned service, if in the grade of lieutenant commander or major or 28 years active commissioned service, if in the grade of commander or lieutenant colonel, or beyond age 62, whichever is earlier”.
 
-1983—Subsec. (k). Pub. L. 98–94 added subsec. (k).
+<b>1983</b>—Subsec. (k). Pub. L. 98–94 added subsec. (k).
 
-1980—Pub. L. 96–513, §336(i), struck out “or severance” before “pay” in section catchline.
+<b>1980</b>—Pub. L. 96–513, §336(i), struck out “or severance” before “pay” in section catchline.
 
 Subsec. (a). Pub. L. 96–513, §336(a), substituted “Except as provided in subsection (i), each regular officer of the Navy or Marine Corps designated for limited duty” for “Each officer designated for limited duty on the active list of the Navy or Marine Corps”.
 
@@ -234,7 +234,7 @@ Subsec. (c)(2). Pub. L. 96–513, §513(17), substituted “September 8, 1980”
 
 Pub. L. 96–342, designated existing provisions as subpar. (A), inserted provision limiting applicability to officers who became members of the uniformed services before the date of the enactment of the Department of Defense Authorization Act, 1981, and added subpar. (B).
 
-Subsec. (d). Pub. L. 96–513, §336(d), provided that Navy lieutenants designated for limited duty and Marine Corps captains similarly designated who were considered as having failed of selection for promotion were to be honorably discharged on a date requested by the officer concerned and approved by the Secretary of the Navy but not later than the first day of the seventh calendar month beginning after the month in which the President approved the report of the selection board rather than on June 30th of the fiscal year in which he was considered as having failed of selection.
+Subsec. (d). Pub. L. 96–513, §336(d), provided that Navy lieutenants designated for limited duty and Marine Corps captains similarly designated who were considered as having failed of selection for promotion were tobe honorably discharged on a date requested by the officer concerned and approved by the Secretary of the Navy but not later than the first day of the seventh calendar month beginning after the month in which the President approved the report of the selection board rather than on June 30th of the fiscal year in which he was considered as having failed of selection.
 
 Subsec. (e). Pub. L. 96–513, §336(d), designated existing provisions as par. (1), provided that Navy lieutenants (junior grade) designated for limited duty and Marine Corps first lieutenants similarly designated who were considered as having failed of selection for promotion were to be honorably discharged on a date requested by the officer concerned and approved by the Secretary of the Navy but not later than the first day of the seventh calendar month beginning after the month in which the President approved the report of the selection board rather than on June 30th of the fiscal year in which he was considered as having failed of selection, and added par. (2).
 
@@ -242,15 +242,15 @@ Subsec. (f). Pub. L. 96–513, §336(e), (f), redesignated subsec. (g) as (f), s
 
 Subsecs. (g) to (j). Pub. L. 96–513, §336(f)–(h), added subsecs. (h) to (j) and redesignated existing subsecs. (g) and (h) as (f) and (g), respectively.
 
-1963—Subsec. (c)(2). Pub. L. 88–132 substituted “of” for “to which he would be entitled if serving on active duty in” after “21/2 percent of the basic pay”.
+<b>1963</b>—Subsec. (c)(2). Pub. L. 88–132 substituted “of” for “to which he would be entitled if serving on active duty in” after “21/2 percent of the basic pay”.
 
-1962—Subsec. (f). Pub. L. 87–509 limited the lump-sum payment to not more than $15,000.
+<b>1962</b>—Subsec. (f). Pub. L. 87–509 limited the lump-sum payment to not more than $15,000.
 
-1960—Subsec. (d). Pub. L. 86–616 permits an officer, if he so requests, to be honorably discharged at any time during the fiscal year in which he is considered as having failed of selection for promotion to the grade of lieutenant commander or major for the second time.
+<b>1960</b>—Subsec. (d). Pub. L. 86–616 permits an officer, if he so requests, to be honorably discharged at any time during the fiscal year in which he is considered as having failed of selection for promotion to the grade of lieutenant commander or major for the second time.
 
 Subsec. (e). Pub. L. 86–616 permits an officer, if he so requests, to be honorably discharged at any time during the fiscal year in which he is considered as having failed of selection for promotion to the grade of lieutenant or captain for the second time.
 
-1958—Subsec. (c)(2). Pub. L. 85–422 substituted “that may be credited to him under section 1405 of this title” for “creditable for basic pay”.
+<b>1958</b>—Subsec. (c)(2). Pub. L. 85–422 substituted “that may be credited to him under section 1405 of this title” for “creditable for basic pay”.
 
 #### Effective Date of 1983 Amendment
 
@@ -262,7 +262,7 @@ Amendment by section 336 of Pub. L. 96–513 effective Sept. 15, 1981, but the a
 
 #### Effective Date of 1963 Amendment
 
-Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note undersection 201 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note under section 201 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Effective Date of 1958 Amendment
 

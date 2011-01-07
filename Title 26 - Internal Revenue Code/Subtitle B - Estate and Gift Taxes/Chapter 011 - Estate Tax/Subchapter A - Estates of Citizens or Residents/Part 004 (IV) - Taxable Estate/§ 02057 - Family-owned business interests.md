@@ -314,7 +314,7 @@ For purposes of this section—
 
 This section shall not apply to the estates of decedents dying after December 31, 2003.
 
-(Added Pub. L. 105–34, title V, §502(a), Aug. 5, 1997, 111 Stat. 847, §2033A; renumbered §2057 andamended Pub. L. 105–206, title VI, §6007(b)(1)(A)–(D), (2)–(7), July 22, 1998, 112 Stat. 807–809; Pub. L. 107–16, title V, §521(d), June 7, 2001, 115 Stat. 72; Pub. L. 108–311, title II, §207(23), Oct. 4, 2004, 118 Stat. 1178.)
+(Added Pub. L. 105–34, title V, §502(a), Aug. 5, 1997, 111 Stat. 847, §2033A; renumbered §2057 and amended Pub. L. 105–206, title VI, §6007(b)(1)(A)–(D), (2)–(7), July 22, 1998, 112 Stat. 807–809; Pub. L. 107–16, title V, §521(d), June 7, 2001, 115 Stat. 72; Pub. L. 108–311, title II, §207(23), Oct. 4, 2004, 118 Stat. 1178.)
 
 #### Amendment of Section
 
@@ -332,11 +332,11 @@ Another prior section 2057, added Pub. L. 94–455, title XX, §2007(a), Oct. 4,
 
 #### Amendments
 
-2004—Subsec. (d)(2)(B). Pub. L. 108–311 inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
+<b>2004</b>—Subsec. (d)(2)(B). Pub. L. 108–311 inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
 
-2001—Subsec. (j). Pub. L. 107–16, §§521(d), 901, temporarily added subsec. (j). See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (j). Pub. L. 107–16, §§521(d), 901, temporarily added subsec. (j). See Effective and Termination Dates of 2001 Amendment note below.
 
-1998—Pub. L. 105–206, §6007(b)(1)(A), (B), renumbered section 2033A of this title as this section and substituted “interests” for “exclusion” in section catchline.
+<b>1998</b>—Pub. L. 105–206, §6007(b)(1)(A), (B), renumbered section 2033A of this title as this section and substituted “interests” for “exclusion” in section catchline.
 
 Subsec. (a). Pub. L. 105–206, §6007(b)(1)(B), substituted “General rule” for “In general” in heading and amended text generally. Prior to amendment, text read as follows: “In the case of an estate of a decedent to which this section applies, the value of the gross estate shall not include the lesser of—
 
@@ -386,7 +386,7 @@ Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 
 
 Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2003, see section 521(e)(3) of Pub. L. 107–16, set out as a note under section 2010 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 

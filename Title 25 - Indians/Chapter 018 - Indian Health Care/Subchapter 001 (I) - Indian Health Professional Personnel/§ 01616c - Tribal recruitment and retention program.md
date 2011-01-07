@@ -18,5 +18,5 @@ The Indian Self-Determination Act, referred to in subsec. (b)(2), is title I of 
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102–573 struck out subsec. (c) which authorized appropriations for fiscal years 1990 to 1992.
+<b>1992</b>—Subsec. (c). Pub. L. 102–573 struck out subsec. (c) which authorized appropriations for fiscal years 1990 to 1992.
 

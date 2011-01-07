@@ -46,7 +46,7 @@
 
 #### (b) Applications
 
-To be eligible to receive a grant, contract, or cooperative agreement under subsection (a) of this section, an entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may reasonably require.
+To be eligible to receive a grant, contract, or cooperative agreement under subsection (a) ofthis section, an entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may reasonably require.
 
 #### (c) Reports and evaluations
 
@@ -82,7 +82,7 @@ An entity that receives a grant, contract, or cooperative agreement under this s
 
 #### (2) Funding rule
 
-&emsp;Not less than 60 percent of the amount appropriated under paragraph (1) for each fiscalyear shall be used to carry out activities under subparagraphs (B) through (D) of subsection (a)(1) of this section.
+&emsp;Not less than 60 percent of the amount appropriated under paragraph (1) for each fiscal year shall be used to carry out activities under subparagraphs (B) through (D) of subsection (a)(1) of this section.
 
 (Pub. L. 89–10, title II, §2431, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1683.)
 

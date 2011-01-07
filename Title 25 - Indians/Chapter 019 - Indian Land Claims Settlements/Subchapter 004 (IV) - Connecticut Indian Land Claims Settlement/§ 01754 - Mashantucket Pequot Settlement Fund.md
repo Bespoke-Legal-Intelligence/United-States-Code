@@ -2,7 +2,7 @@
 
 #### (a) Establishment and administration
 
-There is hereby established in the United States Treasury an account to be known as the Mashantucket Pequot Settlement Fund (hereinafter referred to in this section as the “Fund”). The Fund shall be held in trust by the Secretary for the benefit of the Tribe and administered in accordance with this subchapter.
+There is hereby established in the United States Treasury an account to be known as the Mashantucket Pequot Settlement Fund (hereinafter referred to in this section as the “Fund”).The Fund shall be held in trust by the Secretary for the benefit of the Tribe and administered in accordance with this subchapter.
 
 #### (b) Expenditure of Fund; private settlement lands; economic development plan; acquisition of land and natural resources
 
@@ -50,5 +50,5 @@ There is authorized to be appropriated $900,000 to be deposited in the Fund.
 
 #### Amendments
 
-1986—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 

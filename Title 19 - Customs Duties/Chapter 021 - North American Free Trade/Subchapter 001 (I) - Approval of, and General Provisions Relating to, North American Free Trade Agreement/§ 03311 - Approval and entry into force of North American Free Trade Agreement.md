@@ -94,11 +94,11 @@ Sec. 5. <i>Government Procurement Procedures</i>. (a) Waiver.
 
 (f) Although regulatory implementation of this order must await revisions to the Federal Acquisitions Regulation (FAR), it is expected that agencies listed in Annexes 1 and 2 of this order will take all appropriate actions in the interim to implement those aspects of the order that are not dependent upon regulatory revision.
 
-(g) Pursuant to section 25 of the Office of Federal Procurement Policy Act, as amended (41 U.S.C. 421(a)), the Federal Acquisition Regulatory Council shall ensure that the policies established herein are incorporated in the FAR within 30 days from the date this order is issued.
+(g) Pursuant to section 25 of the Office of Federal Procurement Policy Act, as amended (\[former\] 41 U.S.C. 421(a)) \[now 41 U.S.C. 1302, 1303\], the Federal Acquisition Regulatory Council shall ensure that the policies established herein are incorporated in the FAR within 30 days from the date this order is issued.
 
 Sec. 6. <i>Government Use of Patented Technology</i>. (a) Each agency shall, within 30 days from the date this order is issued, modify or adopt procedures to ensure compliance with Article 1709(10) of the NAFTA regarding notice when patented technology is used by or for the Federal Government without a license from the owner, except that the requirement of Article 1709(10)(b) regarding reasonable efforts to obtain advance authorization from the patent owner:
 
-&emsp;(1) is hereby waived for an invention used or manufactured by or for the Federal Government, exceptthat the patent owner must be notified whenever the agency or its contractor, without making a patent search, knows or has demonstrable reasonable grounds to know that an invention described in and covered by a valid United States patent is or will be used or manufactured without a license; and
+&emsp;(1) is hereby waived for an invention used or manufactured by or for the Federal Government, except that the patent owner must be notified whenever the agency or its contractor, without making a patent search, knows or has demonstrable reasonable grounds to know that an invention described in and covered by a valid United States patent is or will be used or manufactured without a license; and
 
 &emsp;(2) is waived whenever a national emergency or other circumstances of extreme urgency exists, except that the patent owner must be notified as soon as it is reasonably practicable to do so.
 

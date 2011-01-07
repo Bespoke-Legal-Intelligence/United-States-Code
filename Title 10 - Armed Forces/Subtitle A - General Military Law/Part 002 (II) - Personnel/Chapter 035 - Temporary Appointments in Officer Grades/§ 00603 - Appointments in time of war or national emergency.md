@@ -26,11 +26,11 @@
 
 #### Amendments
 
-1991—Pub. L. 102–190, §1113(d)(1)(A), substituted “Appointments in time of war or national emergency” for “Commissioned officer grades: time of war or national emergency” in section catchline.
+<b>1991</b>—Pub. L. 102–190, §1113(d)(1)(A), substituted “Appointments in time of war or national emergency” for “Commissioned officer grades: time of war or national emergency” in section catchline.
 
 Subsec. (a). Pub. L. 102–190, §1113(b), struck out “commissioned” before “officer grade in the Army” and “in warrant officer grades or” before “in grades above major general” and inserted before period at end “, except that an appointment in the grade warrant officer, W–1, shall be made by warrant by the Secretary concerned”.
 
-1989—Subsec. (f). Pub. L. 101–189 substituted “terminates on the earliest of the following:” for “terminates—” in introductory provisions, and made numerous amendments to style and punctuation. Prior to amendment, subsec. (f) read as follows: “Unless sooner terminated, an appointment under this section terminates—
+<b>1989</b>—Subsec. (f). Pub. L. 101–189 substituted “terminates on the earliest of the following:” for “terminates—” in introductory provisions, and made numerous amendments to style and punctuation. Prior to amendment, subsec. (f) read as follows: “Unless sooner terminated, an appointment under this section terminates—
 
 &emsp;“(1) on the second anniversary of the appointment;
 
@@ -46,7 +46,7 @@ Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. 
 
 #### Delegation of Functions
 
-Functions of President under subsecs. (a) and (b) to make or vacate certain temporary commissioned appointments delegated to Secretary of Defense to perform during a time of war or national emergency, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, provided that, during a national emergency declared by President, exercise of any such authority be specifically directed by President in accordance with section 1631 of Title 50, War and National Defense, and that Secretary ensure any authority so delegated be accounted for as required by section 1641 of Title 50, seeEx. Ord. No. 12396, §§2, 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under section 301 of Title 3, The President.
+Functions of President under subsecs. (a) and (b) to make or vacate certain temporary commissioned appointments delegated to Secretary of Defense to perform during a time of war or national emergency, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, provided that, during a national emergency declared by President, exercise of any such authority be specifically directed by President in accordance with section 1631 of Title 50, War and National Defense, and that Secretary ensure any authority so delegated be accounted for as required by section 1641 of Title 50, see Ex. Ord. No. 12396, §§2, 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under section 301 of Title 3, The President.
 
 #### Ex. Ord. No. 13321. Appointments During National Emergency
 

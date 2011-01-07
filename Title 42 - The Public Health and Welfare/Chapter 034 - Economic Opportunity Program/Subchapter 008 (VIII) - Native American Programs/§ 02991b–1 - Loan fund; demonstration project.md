@@ -82,7 +82,7 @@ Not later than 120 days after November 29, 1987, the Commissioner, in consultati
 
 (2) Such report shall include the views and recommendations of the Commissioner with respect to the revolving loan fund established under subsection (a)(1) of this section and with respect to loans made from such fund, and shall—
 
-&emsp;(A) describe the effectiveness of the operation of such fund in improving the economicand social self-sufficiency of Native Hawaiians;
+&emsp;(A) describe the effectiveness of the operation of such fund in improving the economic and social self-sufficiency of Native Hawaiians;
 
 &emsp;(B) specify the number of loans made in such fiscal year;
 
@@ -94,7 +94,7 @@ Not later than 120 days after November 29, 1987, the Commissioner, in consultati
 
 #### Amendments
 
-1998—Subsec. (a)(1). Pub. L. 105–361, §3(a)(1)(A), in introductory provisions, substituted “award a grant” for “award grants” and “use that grant to carry out” for “use such grants to establish and carry out”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–361, §3(a)(1)(A), in introductory provisions, substituted “award a grant” for “award grants” and “use that grant to carry out” for “use such grants to establish and carry out”.
 
 Subsec. (a)(1)(A). Pub. L. 105–361, §3(a)(1)(B), inserted “or loan guarantees” after “make loans”.
 
@@ -104,17 +104,17 @@ Subsec. (b)(2). Pub. L. 105–361, §3(a)(2)(B)(i), substituted “Each loan or 
 
 Subsec. (b)(2)(A). Pub. L. 105–361, §3(a)(2)(B)(ii), substituted “7 years” for “5 years”.
 
-Subsec. (b)(2)(B). Pub. L. 105–361, §3(a)(2)(B)(iii), substituted “that does not exceed a rate equal to the sum of—” for “that is 2 percentage points below the average market yield on the most recent public offering of United States Treasury bills occurring before the date on which the loan is made.” and added cls. (I) and (II).
+Subsec. (b)(2)(B). Pub. L. 105–361, §3(a)(2)(B)(iii), substituted “that does not exceed a rate equal to the sum of—” for “that is 2 percentage points below the average market yield on the most recent public offering ofUnited States Treasury bills occurring before the date on which the loan is made.” and added cls. (I) and (II).
 
 Subsec. (f)(1). Pub. L. 105–361, §3(a)(3), substituted “2000 and 2001,” for “1992, 1993, and 1994,”.
 
-1993—Subsecs. (b) to (d)(1). Pub. L. 103–171, §5(3)(A), struck out “to which a grant is awarded under subsection (a)(1) of this section” before “may make loans” in subsec. (b)(1), before “may require any borrower” in subsec. (b)(3), before “shall establish written” in subsec. (b)(4), before “may not lend” in subsec. (b)(5), before “shall provide the Commissioner” in subsec. (c)(1), before “shall notify the Commissioner” in subsec. (c)(2)(A), and before “shall, out of funds” in subsec. (d)(1).
+<b>1993</b>—Subsecs. (b) to (d)(1). Pub. L. 103–171, §5(3)(A), struck out “to which a grant is awarded under subsection (a)(1) of this section” before “may make loans” in subsec. (b)(1), before “may require any borrower” in subsec. (b)(3), before “shall establish written” in subsec. (b)(4), before “may not lend” in subsec. (b)(5), before “shall provide the Commissioner” in subsec. (c)(1), before “shall notify the Commissioner” in subsec. (c)(2)(A), and before “shall, out of funds” in subsec. (d)(1).
 
 Subsec. (d)(2). Pub. L. 103–171, §5(3)(B), struck out “to which a grant is made under subsection (a)(1) of this section” after “Commissioner shall provide to the Office”.
 
 Subsec. (f)(1). Pub. L. 103–171, §5(3)(C), substituted “each of the fiscal years 1992, 1993, and 1994, $1,000,000” for “fiscal years 1988, 1989, and 1990 the aggregate amount $3,000,000 for all such fiscal years”.
 
-1992—Pub. L. 102–375, §822(2)(C), (D), substituted “Commissioner” for “Secretary” wherever appearing in subsecs. (a)(1), (b)(4), (c), (d)(2), and (e) and “Office” for “agency or organization” wherever appearing in subsecs. (b)(1), (3) to (5), (c), and (d).
+<b>1992</b>—Pub. L. 102–375, §822(2)(C), (D), substituted “Commissioner” for “Secretary” wherever appearing in subsecs. (a)(1), (b)(4), (c), (d)(2), and (e) and “Office” for “agency or organization” wherever appearing in subsecs. (b)(1), (3) to (5), (c), and (d).
 
 Pub. L. 102–375, §822(2)(B), which directed the amendment of this section by substituting “Office” for “agency or organization to which a grant is awarded under subsection (a)(1) of this section” wherever appearing, could not be executed because the words “agency or organization to which a grant is awarded under subsection (a)(1) of this section” did not appear in the original.
 

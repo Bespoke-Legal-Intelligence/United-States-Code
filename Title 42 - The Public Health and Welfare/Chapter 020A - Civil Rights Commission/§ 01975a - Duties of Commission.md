@@ -72,7 +72,7 @@ A prior section 1975a, Pub. L. 85–315, pt. I, §102, Sept. 9, 1957, 71 Stat. 6
 
 #### Amendments
 
-1994—Pub. L. 103–419 amended section generally, substituting provisions relating to duties of Commission for provisions relating to rules of procedure of Commission hearings.
+<b>1994</b>—Pub. L. 103–419 amended section generally, substituting provisions relating to duties of Commission for provisions relating to rules of procedure of Commission hearings.
 
-1991—Subsecs. (a), (d), (f). Pub. L. 102–167 substituted “Chairperson” for “Chairman” wherever appearing.
+<b>1991</b>—Subsecs. (a), (d), (f). Pub. L. 102–167 substituted “Chairperson” for “Chairman” wherever appearing.
 

@@ -34,7 +34,7 @@ For purposes of this section—
 
 #### (1) Qualified employee discount
 
-&emsp;The term “qualified employee discount” means any employee discount with respect to qualified property or services to the extent such discount does not exceed—
+&emsp;The term “qualified employee discount” means any employee discount with respect toqualified property or services to the extent such discount does not exceed—
 
 &emsp;&emsp;(A) in the case of property, the gross profit percentage of the price at which the property is being offered by the employer to customers, or
 
@@ -116,7 +116,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) the applicable annual limitation in the case of any qualified bicycle commuting reimbursement.
 
-> &emsp;In the case of any month beginning on or after the date of the enactment of this sentence and before January 1, 2011, subparagraph (A) shall be applied as if the dollar amount therein were the same as the dollar amount in effect for such month under subparagraph (B).
+> &emsp;In the case of any month beginning on or after the date of the enactment of this sentence and before January 1, 2012, subparagraph (A) shall be applied as if the dollar amount therein were the same as the dollar amount in effect for such month under subparagraph (B).
 
 #### (3) Cash reimbursements
 
@@ -152,7 +152,7 @@ For purposes of this section—
 
 #### (C) Qualified parking
 
-&emsp;&emsp;The term “qualified parking” means parking provided to an employee on or near the business premises of the employer or on or near a location from which the employee commutes to work by transportation described in subparagraph (A), in a commuter highway vehicle, or by carpool. Such term shall not include any parking on or nearproperty used by the employee for residential purposes.
+&emsp;&emsp;The term “qualified parking” means parking provided to an employee on or near the business premises of the employer or on or near a location from which the employee commutes to work by transportation described in subparagraph (A), in a commuter highway vehicle, or by carpool. Such term shall not include any parking on or near property used by the employee for residential purposes.
 
 #### (D) Transportation provided by employer
 
@@ -202,7 +202,7 @@ For purposes of this section—
 
 #### (g) Qualified moving expense reimbursement
 
-For purposes of this section, the term “qualified moving expense reimbursement” means any amount received (directly or indirectly) by an individual from an employer as a payment for (or a reimbursement of) expenses which would be deductible as moving expenses under section 217 if directly paid or incurred by the individual. Such term shall not include any payment for (or reimbursement of) an expense actually deducted by the individual in a prior taxable year.
+For purposes of this section, the term “qualified moving expense reimbursement” means anyamount received (directly or indirectly) by an individual from an employer as a payment for (or a reimbursement of) expenses which would be deductible as moving expenses under section 217 if directly paid or incurred by the individual. Such term shall not include any payment for (or reimbursement of) an expense actually deducted by the individual in a prior taxable year.
 
 #### (h) Certain individuals treated as employees for purposes of subsections (a)(1) and (2)
 
@@ -340,7 +340,7 @@ For purposes of paragraph (1) of subsection (a), any service provided by an empl
 
 #### (8) Application of section to otherwise taxable educational or training benefits
 
-&emsp;Amounts paid or expenses incurred by the employer for education or training provided tothe employee which are not excludable from gross income under section 127 shall be excluded from gross income under this section if (and only if) such amounts or expenses are a working condition fringe.
+&emsp;Amounts paid or expenses incurred by the employer for education or training provided to the employee which are not excludable from gross income under section 127 shall be excluded from gross income under this section if (and only if) such amounts or expenses are a working condition fringe.
 
 #### (k) Customers not to include employees
 
@@ -380,7 +380,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 98–369, div. A, title V, §531(a)(1), July 18, 1984, 98 Stat. 877; amended Pub. L. 99–272, title XIII, §13207(a)(1), (b)(1), Apr. 7, 1986, 100 Stat. 319; Pub. L. 99–514, title XI, §§1114(b)(5), 1151(e)(2)(A), (g)(5), title XVIII, §§1853(a), 1899A(5), Oct. 22, 1986, 100 Stat. 2451, 2506, 2507, 2870, 2958; Pub. L. 100–647, title I, §1011B(a)(31)(B), title VI, §6066(a), Nov. 10, 1988, 102 Stat. 3488, 3702; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7101(b), 7841(d)(7), (19), Dec. 19, 1989, 103 Stat. 2304, 2428, 2429; Pub. L. 102–486, title XIX, §1911(a)–(c), Oct. 24, 1992, 106 Stat. 3012–3014; Pub. L. 103–66, title XIII, §§13101(b), 13201(b)(3)(F), 13213(d)(1), (2), (3)(B), (C), Aug. 10, 1993, 107 Stat. 420, 459, 474; Pub. L. 105–34, title IX, §970(a), title X, §1072(a), Aug. 5, 1997, 111 Stat. 897, 948; Pub. L. 105–178, title IX, §9010(a)(1), (b)(1), (2), (c)(1), (2), June 9, 1998, 112 Stat. 507, 508; Pub. L. 107–16, title VI, §665(a), (b), June 7, 2001, 115 Stat. 143; Pub. L. 108–121, title I, §103(a), (b), Nov. 11, 2003, 117 Stat. 1337; Pub. L. 108–311, title II, §207(13), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–343, div. B, title II, §211(a)–(d), Oct. 3, 2008, 122 Stat. 3840, 3841; Pub. L. 111–5, div. B, title I, §1151(a), Feb. 17, 2009, 123 Stat. 333; Pub. L. 111–92, §14(a), Nov. 6, 2009, 123 Stat. 2995.)
+(Added Pub. L. 98–369, div. A, title V, §531(a)(1), July 18, 1984, 98 Stat. 877; amended Pub. L. 99–272, title XIII, §13207(a)(1), (b)(1), Apr. 7, 1986, 100 Stat. 319; Pub. L. 99–514, title XI, §§1114(b)(5), 1151(e)(2)(A), (g)(5), title XVIII, §§1853(a), 1899A(5), Oct. 22, 1986, 100 Stat. 2451, 2506, 2507, 2870, 2958; Pub. L. 100–647, title I, §1011B(a)(31)(B), title VI, §6066(a), Nov. 10, 1988, 102 Stat. 3488, 3702; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7101(b), 7841(d)(7), (19), Dec. 19, 1989, 103 Stat. 2304, 2428, 2429; Pub. L. 102–486, title XIX, §1911(a)–(c), Oct. 24, 1992, 106 Stat. 3012–3014; Pub. L. 103–66, title XIII, §§13101(b), 13201(b)(3)(F), 13213(d)(1), (2), (3)(B), (C), Aug. 10, 1993, 107 Stat. 420, 459, 474; Pub. L. 105–34, title IX, §970(a), title X, §1072(a), Aug. 5, 1997, 111 Stat. 897, 948; Pub. L. 105–178, title IX, §9010(a)(1), (b)(1), (2), (c)(1), (2), June 9, 1998, 112Stat. 507, 508; Pub. L. 107–16, title VI, §665(a), (b), June 7, 2001, 115 Stat. 143; Pub. L. 108–121, title I, §103(a), (b), Nov. 11, 2003, 117 Stat. 1337; Pub. L. 108–311, title II, §207(13), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–343, div. B, title II, §211(a)–(d), Oct. 3, 2008, 122 Stat. 3840, 3841; Pub. L. 111–5, div. B, title I, §1151(a), Feb. 17, 2009, 123 Stat. 333; Pub. L. 111–92, §14(a), Nov. 6, 2009, 123 Stat. 2995; Pub. L. 111–312, title VII, §727(a), Dec. 17, 2010, 124 Stat. 3317.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -398,13 +398,15 @@ A prior section 132 was renumbered section 140 of this title.
 
 #### Amendments
 
-2009—Subsec. (f)(2). Pub. L. 111–5 inserted concluding provisions.
+<b>2010</b>—Subsec. (f)(2). Pub. L. 111–312 substituted “January 1, 2012” for “January 1, 2011” in concluding provisions.
+
+<b>2009</b>—Subsec. (f)(2). Pub. L. 111–5 inserted concluding provisions.
 
 Subsec. (n)(1). Pub. L. 111–92, §14(a)(1), substituted “the American Recovery and Reinvestment Tax Act of 2009)” for “this subsection) to offset the adverse effects on housing values as a result of a military base realignment or closure”.
 
 Subsec. (n)(2). Pub. L. 111–92, §14(a)(2), struck out “clause (1) of” before “subsection (c)”.
 
-2008—Subsec. (f)(1)(D). Pub. L. 110–343, §211(a), added subpar. (D).
+<b>2008</b>—Subsec. (f)(1)(D). Pub. L. 110–343, §211(a), added subpar. (D).
 
 Subsec. (f)(2)(C). Pub. L. 110–343, §211(b), added subpar. (C).
 
@@ -412,17 +414,17 @@ Subsec. (f)(4). Pub. L. 110–343, §211(d), inserted “(other than a qualified
 
 Subsec. (f)(5)(F). Pub. L. 110–343, §211(c), added subpar. (F).
 
-2004—Subsec. (h)(2)(B). Pub. L. 108–311 substituted “152(f)(1)” for “151(c)(3)” in introductory provisions.
+<b>2004</b>—Subsec. (h)(2)(B). Pub. L. 108–311 substituted “152(f)(1)” for “151(c)(3)” in introductory provisions.
 
-2003—Subsec. (a)(8). Pub. L. 108–121, §103(a), added par. (8).
+<b>2003</b>—Subsec. (a)(8). Pub. L. 108–121, §103(a), added par. (8).
 
 Subsecs. (n), (<i>o</i>). Pub. L. 108–121, §103(b), added subsec. (n) and redesignated former subsec. (n) as (<i>o</i>).
 
-2001—Subsec. (a)(7). Pub. L. 107–16, §665(a), added par. (7).
+<b>2001</b>—Subsec. (a)(7). Pub. L. 107–16, §665(a), added par. (7).
 
 Subsecs. (m), (n). Pub. L. 107–16, §665(b), added subsec. (m) and redesignated former subsec. (m) as (n).
 
-1998—Subsec. (f)(2)(A). Pub. L. 105–178, §9010(c)(1), substituted “$100” for “$65”.
+<b>1998</b>—Subsec. (f)(2)(A). Pub. L. 105–178, §9010(c)(1), substituted “$100” for “$65”.
 
 Pub. L. 105–178, §9010(b)(2)(A), substituted “$65” for “$60”.
 
@@ -440,11 +442,11 @@ Subsec. (f)(6). Pub. L. 105–178, §9010(b)(1), reenacted heading without chang
 
 Subsec. (f)(6)(A). Pub. L. 105–178, §9010(c)(2), inserted concluding provisions.
 
-1997—Subsec. (e)(2). Pub. L. 105–34, §970(a), inserted at end of concluding provisions “For purposes of subparagraph (B), an employee entitled under section 119 to exclude the value of a meal provided at such facility shall be treated as having paid an amount for such meal equal to the direct operating costs of the facility attributable to such meal.”
+<b>1997</b>—Subsec. (e)(2). Pub. L. 105–34, §970(a), inserted at end of concluding provisions “For purposes of subparagraph (B), an employee entitled under section 119 to exclude the value of a meal provided at such facility shall be treated as having paid an amount for such meal equal to the direct operating costs of the facility attributable to such meal.”
 
 Subsec. (f)(4). Pub. L. 105–34, §1072(a), inserted at end “This paragraph shall not apply to any qualified parking provided in lieu of compensation which otherwise would have been includible in gross income of the employee, and no amount shall be included in the gross income of the employee solely because the employee may choose between the qualified parking and compensation.”
 
-1993—Subsec. (a)(6). Pub. L. 103–66, §13213(d)(1), added par. (6).
+<b>1993</b>—Subsec. (a)(6). Pub. L. 103–66, §13213(d)(1), added par. (6).
 
 Subsec. (f)(6)(B). Pub. L. 103–66, §13201(b)(3)(F), struck out before period at end “, determined by substituting ‘calendar year 1992’ for ‘calendar year 1989’ in subparagraph (B) thereof”.
 
@@ -464,7 +466,7 @@ Subsec. (<i>l</i>). Pub. L. 103–66, §13213(d)(2), (3)(C), redesignated subsec
 
 Subsec. (m). Pub. L. 103–66, §13213(d)(2), redesignated subsec. (<i>l</i>) as (m).
 
-1992—Subsec. (a)(5). Pub. L. 102–486, §1911(a), added par. (5).
+<b>1992</b>—Subsec. (a)(5). Pub. L. 102–486, §1911(a), added par. (5).
 
 Subsecs. (f) to (h). Pub. L. 102–486, §1911(b), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively. Former subsec. (h) redesignated (i).
 
@@ -472,7 +474,7 @@ Subsec. (i). Pub. L. 102–486, §1911(b), (c), redesignated subsec. (h) as (i),
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 102–486, §1911(b), redesignated subsecs. (i) to (k) as (j) to (<i>l</i>), respectively.
 
-1989—Subsec. (f)(2)(B). Pub. L. 101–239, §7841(d)(19), substituted “section 151(c)(3)” for “section 151(e)(3)” in introductory provisions.
+<b>1989</b>—Subsec. (f)(2)(B). Pub. L. 101–239, §7841(d)(19), substituted “section 151(c)(3)” for “section 151(e)(3)” in introductory provisions.
 
 Subsec. (h)(1). Pub. L. 101–239, §7841(d)(7), substituted “to highly compensated employees” for “to officers, etc.,” in heading.
 
@@ -482,11 +484,11 @@ Pub. L. 101–140, §203(a)(1), amended par. (1) to read as if amendments by Pub
 
 Subsec. (h)(9). Pub. L. 101–239, §7101(b), added par. (9).
 
-1988—Subsec. (h)(1). Pub. L. 100–647, §1011B(a)(31)(B), substituted “there shall” for “there may be” and “who are” for “who may be” in last sentence.
+<b>1988</b>—Subsec. (h)(1). Pub. L. 100–647, §1011B(a)(31)(B), substituted “there shall” for “there may be” and “who are” for “who may be” in last sentence.
 
 Subsec. (h)(8). Pub. L. 100–647, §6066(a), added par. (8).
 
-1986—Subsec. (c)(3)(A). Pub. L. 99–514, §1853(a)(2), substituted “are provided by the employer to an employee for use by such employee” for “are provided to the employee by the employer”.
+<b>1986</b>—Subsec. (c)(3)(A). Pub. L. 99–514, §1853(a)(2), substituted “are provided by the employer to an employee for use by such employee” for “are provided to the employee by the employer”.
 
 Subsec. (e)(2). Pub. L. 99–514, §1114(b)(5)(A), struck out “officer, owner, or” before “highly compensated employee” and “officers, owners, or” before “highly compensated employees” in last sentence.
 
@@ -508,6 +510,10 @@ Subsec. (h)(7). Pub. L. 99–514, §1114(b)(5)(B), added par. (7).
 
 Subsec. (i). Pub. L. 99–514, §1853(a)(3), substituted “subsection (c)(2)” for “subsection (c)(2)(B)”.
 
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–312, title VII, §727(b), Dec. 17, 2010, 124 Stat. 3317, provided that: “The amendment made by this section \[amending this section\] shall apply to months after December 31, 2010.”
+
 #### Effective Date of 2009 Amendment
 
 Pub. L. 111–92, §14(b), Nov. 6, 2009, 123 Stat. 2996, provided that: “The amendments made by this act \[probably should be “this section”, amending this section\] shall apply to payments made after February 17, 2009.”
@@ -516,7 +522,7 @@ Pub. L. 111–5, div. B, title I, §1151(b), Feb. 17, 2009, 123 Stat. 333, provi
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–343, div. B, title II, §211(e), Oct. 3, 2008, 122 Stat. 3841, provided that: “The amendments made bythis section \[amending this section\] shall apply to taxable years beginning after December 31, 2008.”
+Pub. L. 110–343, div. B, title II, §211(e), Oct. 3, 2008, 122 Stat. 3841, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008.”
 
 #### Effective Date of 2004 Amendment
 

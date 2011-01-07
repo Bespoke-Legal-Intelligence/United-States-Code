@@ -82,23 +82,23 @@ The change corrects an inadvertence. The source statute for section 3036(c) of t
 
 #### Amendments
 
-2008—Pub. L. 110–181, §543(a)(3)(A), amended section catchline generally, substituting “Deputy” for “Assistant”.
+<b>2008</b>—Pub. L. 110–181, §543(a)(3)(A), amended section catchline generally, substituting “Deputy” for “Assistant”.
 
 Subsec. (a). Pub. L. 110–181, §543(a)(1), (2)(A), substituted “Deputy Judge Advocate General” for “Assistant Judge Advocate General” wherever appearing and substituted “The Judge Advocate General, while so serving, has the grade of lieutenant general.” for “The Judge Advocate General, while so serving, shall hold a grade not lower than major general.”
 
 Subsec. (d). Pub. L. 110–181, §543(a)(2)(B), substituted “Deputy Judge Advocate General” for “Assistant Judge Advocate General”.
 
-2006—Subsec. (a). Pub. L. 109–163, §508(a), substituted “The Judge Advocate General, while so serving, shall hold a grade not lower than major general. An officer appointed as Assistant Judge Advocate General who holds a lower regular grade shall be appointed in the regular grade of major general.” for “If an officer who is so appointed holds a lower regular grade, he shall be appointed in the regular grade of major general.”
+<b>2006</b>—Subsec. (a). Pub. L. 109–163, §508(a), substituted “The Judge Advocate General, while so serving, shall hold a grade not lower than major general. An officer appointed as Assistant Judge Advocate General who holds a lower regular grade shall be appointed in the regular grade of major general.” for “If an officer who is so appointed holds a lower regular grade, he shall be appointed in the regular grade of major general.”
 
 Subsec. (b). Pub. L. 109–163, §1057(a)(2), struck out “or Territory” after “a State”.
 
-2004—Subsec. (a). Pub. L. 108–375, §574(a)(1), substituted “The term of office of the Judge Advocate General and the Assistant Judge Advocate General is four years.” for “An officer appointed as the Judge Advocate General or Assistant Judge Advocate General normally holds office for four years. However, the President may terminate or extend the appointment at any time.”
+<b>2004</b>—Subsec. (a). Pub. L. 108–375, §574(a)(1), substituted “The term of office of the Judge Advocate General and the Assistant Judge Advocate General is four years.” for “An officer appointed as the Judge Advocate General or Assistant Judge Advocate General normally holds office for four years. However, the President may terminate or extend the appointment at any time.”
 
 Subsec. (e). Pub. L. 108–375, §574(a)(2), added subsec. (e).
 
-1994—Subsec. (d). Pub. L. 103–337 added subsec. (d).
+<b>1994</b>—Subsec. (d). Pub. L. 103–337 added subsec. (d).
 
-1958—Subsec. (a). Pub. L. 85–861 provided that the Judge Advocate General or Assistant Judge Advocate General shall normally hold office for four years, and empowered the President to terminate or extend the appointment at any time.
+<b>1958</b>—Subsec. (a). Pub. L. 85–861 provided that the Judge Advocate General or Assistant Judge Advocate General shall normally hold office for four years, and empowered the President to terminate or extend the appointment at any time.
 
 #### Effective Date of 1958 Amendment
 

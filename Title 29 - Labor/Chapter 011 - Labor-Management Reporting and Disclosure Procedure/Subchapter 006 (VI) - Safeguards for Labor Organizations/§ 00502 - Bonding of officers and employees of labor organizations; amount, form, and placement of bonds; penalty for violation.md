@@ -12,5 +12,5 @@ In subsec. (a), “sections 9304–9308 of title 31” substituted for “the Ac
 
 #### Amendments
 
-1965—Subsec. (a). Pub. L. 89–216 substituted “to provide protection against loss by reason of act of fraud or dishonesty on his part directly or through connivance with others” for “for the faithful discharge of his duties” in first sentence and inserted proviso allowing Secretary to permit other arrangements to provide necessary protection.
+<b>1965</b>—Subsec. (a). Pub. L. 89–216 substituted “to provide protection against loss by reason of act of fraud or dishonesty on his part directly or through connivance with others” for “for the faithful discharge of his duties” in first sentence and inserted proviso allowing Secretary to permit other arrangements to provide necessary protection.
 

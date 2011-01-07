@@ -20,6 +20,10 @@ Nothing in this chapter may be construed to affect the functions or authorities 
 
 (Pub. L. 107–296, title IV, §422, Nov. 25, 2002, 116 Stat. 2184.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a) and (b)(1), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+
 #### Codification
 
 “Chapter 1, except section 121(e)(2)(A), and chapters 5 to 11 of title 40” substituted in subsec. (a) for “chapter 10 of title 40” and “section 592 of title 40” substituted in subsec. (b)(1)(B) for “section 490(f) of title 40” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.

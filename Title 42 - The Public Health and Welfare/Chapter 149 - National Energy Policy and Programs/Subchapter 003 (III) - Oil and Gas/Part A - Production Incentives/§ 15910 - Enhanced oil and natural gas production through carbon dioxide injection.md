@@ -150,7 +150,7 @@
 
 #### (B) Date for applications
 
-&emsp;&emsp;An application for a grant under this subsection shall be submitted not later than 180 days after the date of publication of the request under subparagraph (A).
+&emsp;&emsp;An application for a grant under this subsection shall be submitted not later than 180days after the date of publication of the request under subparagraph (A).
 
 #### (C) Selection
 
@@ -168,7 +168,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 #### Amendments
 
-2007—Subsecs. (d), (e). Pub. L. 110–140 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>2007</b>—Subsecs. (d), (e). Pub. L. 110–140 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 #### Effective Date of 2007 Amendment
 

@@ -14,5 +14,5 @@ Section was formerly classified to section 1177 of this title, and prior thereto
 
 #### Amendments
 
-1940—Act July 12, 1940, amended section generally.
+<b>1940</b>—Act July 12, 1940, amended section generally.
 

@@ -10,7 +10,7 @@
 
 #### Amendments
 
-1970—Pub. L. 91–366 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+<b>1970</b>—Pub. L. 91–366 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 #### Effective Date of 1970 Amendments
 

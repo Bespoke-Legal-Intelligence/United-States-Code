@@ -10,7 +10,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-1977—Pub. L. 95–164 inserted “or other” after “coal”.
+<b>1977</b>—Pub. L. 95–164 inserted “or other” after “coal”.
 
 #### Effective Date of 1977 Amendment
 

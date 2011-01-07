@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, “controlled substance” means any substance under section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802) specified by the Secretary of Transportation.
+Definition.—In this section, “controlled substance” means any substance under section102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802) specified by the Secretary of Transportation.
 
 (b)
 
@@ -150,7 +150,7 @@ In subsection (g), the words “rule” and “ordinance” are omitted as being
 
 #### Amendments
 
-1995—Subsec. (b)(1)(A). Pub. L. 104–59 added subpar. (A) and struck out former subpar. (A) which read as follows: “In the interest of commercial motor vehicle safety, the Secretary of Transportation shall prescribe regulations not later than October 28, 1992, that establish a program requiring motor carriers to conduct preemployment, reasonable suspicion, random, and post-accident testing of operators of commercial motor vehicles for the use of alcohol or a controlled substance in violation of law or a United States Government regulation.”
+<b>1995</b>—Subsec. (b)(1)(A). Pub. L. 104–59 added subpar. (A) and struck out former subpar. (A) which read as follows: “In the interest of commercial motor vehicle safety, the Secretary of Transportation shall prescribe regulations not later than October 28, 1992, that establish a program requiring motor carriers to conduct preemployment, reasonable suspicion, random, and post-accident testing of operators of commercial motor vehicles for the use of alcohol or a controlled substance in violation of law or a United States Government regulation.”
 
 #### Drug Test Results Study
 

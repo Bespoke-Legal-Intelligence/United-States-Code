@@ -40,9 +40,9 @@ Except with respect to enforcement of orders or subpenas under section 3364(a) o
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102–572 substituted “the United States Court of Appeals for the Federal Circuit” for “the Temporary Emergency Court of Appeals, established pursuant to section 211(b) of the Economic Stabilization Act of 1970, as amended,” before “shall have exclusive original jurisdiction” and substituted “United States Court of Appeals for the Federal Circuit” for “Temporary Emergency Court of Appeals” in two places.
+<b>1992</b>—Subsec. (c). Pub. L. 102–572 substituted “the United States Court of Appeals for the Federal Circuit” for “the Temporary Emergency Court of Appeals, established pursuant to section 211(b) of the Economic Stabilization Act of 1970, as amended,” before “shall have exclusive original jurisdiction” and substituted “United States Court of Appeals for the Federal Circuit” for “Temporary Emergency Court of Appeals” in two places.
 
-1989—Subsec. (d). Pub. L. 101–60 struck out subsec. (d) which related to judicial review of certain incremental pricing determinations.
+<b>1989</b>—Subsec. (d). Pub. L. 101–60 struck out subsec. (d) which related to judicial review of certain incremental pricing determinations.
 
 #### Effective Date of 1992 Amendment
 

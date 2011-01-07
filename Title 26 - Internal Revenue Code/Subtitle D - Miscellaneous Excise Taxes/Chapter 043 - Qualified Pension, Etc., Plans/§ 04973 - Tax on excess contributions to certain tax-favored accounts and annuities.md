@@ -34,7 +34,7 @@ For purposes of this section, in the case of individual retirement accounts or i
 
 &emsp;&emsp;(C) the excess (if any) of the maximum amount allowable as a deduction under section 219 for the taxable year over the amount contributed (determined without regard to section 219(f)(6)) to the accounts or for the annuities (including the amount contributed to a Roth IRA) for the taxable year.
 
-> For purposes of this subsection, any contribution which is distributed from the individual retirement account or the individual retirement annuity in a distribution to which section 408(d)(4) applies shall be treated as an amount not contributed. For purposes of paragraphs (1)(B) and (2)(C), the amount allowable as a deduction under section 219 shall be computed without regard to section 219(g).
+> For purposes of this subsection, any contribution which is distributed from the individual retirement account or the individual retirement annuity in a distribution to which section 408(d)(4) applies shall be treated as an amountnot contributed. For purposes of paragraphs (1)(B) and (2)(C), the amount allowable as a deduction under section 219 shall be computed without regard to section 219(g).
 
 #### (c) Section 403(b) contracts
 
@@ -134,13 +134,13 @@ For purposes of this section, in the case of health savings accounts (within the
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–311 substituted “subsection (a)(3)” for “subsection (a)(2)” in introductory provisions.
+<b>2004</b>—Subsec. (c). Pub. L. 108–311 substituted “subsection (a)(3)” for “subsection (a)(2)” in introductory provisions.
 
-2003—Subsec. (a)(5). Pub. L. 108–173, §1201(e)(1), added par. (5).
+<b>2003</b>—Subsec. (a)(5). Pub. L. 108–173, §1201(e)(1), added par. (5).
 
 Subsec. (g). Pub. L. 108–173, §1201(e)(2), added subsec. (g).
 
-2001—Subsec. (a)(4). Pub. L. 107–22, §1(b)(1)(C), substituted “a Coverdell education savings” for “an education individual retirement”.
+<b>2001</b>—Subsec. (a)(4). Pub. L. 107–22, §1(b)(1)(C), substituted “a Coverdell education savings” for “an education individual retirement”.
 
 Subsec. (b)(1)(A). Pub. L. 107–16, §641(e)(11), substituted “408(d)(3), or 457(e)(16)” for “or 408(d)(3)”.
 
@@ -156,13 +156,13 @@ Subsec. (e)(1)(B), (C). Pub. L. 107–16, §§401(g)(2)(D), 901, temporarily red
 
 Subsec. (e)(2)(A). Pub. L. 107–22, §1(b)(2)(B), substituted “Coverdell education savings” for “education individual retirement”.
 
-2000—Subsec. (a)(2). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(10)\], substituted “an Archer” for “a Archer”.
+<b>2000</b>—Subsec. (a)(2). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(10)\], substituted “an Archer” for “a Archer”.
 
 Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(6)\], substituted “Archer MSA” for “medical savings account”.
 
 Subsec. (d). Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(6), (b)(2)(C), (6)\], substituted “Archer MSAs” for “medical savings accounts” in heading, “Archer MSAs” for “medical savings accounts” in introductory provisions, and “Archer MSA” for “medical savings account” in concluding provisions.
 
-1998—Pub. L. 105–206, §6023(18)(A), amended section catchline generally. Prior to amendment, catchline read as follows: “Tax on excess contributions to individual retirement accounts, medical savings accounts, certain section 403(b) contracts, and certain individual retirement annuities”.
+<b>1998</b>—Pub. L. 105–206, §6023(18)(A), amended section catchline generally. Prior to amendment, catchline read as follows: “Tax on excess contributions to individual retirement accounts, medical savings accounts, certain section 403(b) contracts, and certain individual retirement annuities”.
 
 Subsec. (b)(1)(A). Pub. L. 105–206, §6005(b)(8)(B)(i), inserted “a contribution to a Roth IRA or” after “other than”.
 
@@ -182,7 +182,7 @@ Subsec. (f)(1)(A). Pub. L. 105–206, §6005(b)(8)(A)(i), substituted “Roth IR
 
 Subsec. (f)(2)(B). Pub. L. 105–206, §6005(b)(8)(A)(ii), substituted “by the individual to all individual retirement plans” for “to the accounts”.
 
-1997—Subsec. (a)(4). Pub. L. 105–34, §213(d)(1), added par. (4).
+<b>1997</b>—Subsec. (a)(4). Pub. L. 105–34, §213(d)(1), added par. (4).
 
 Subsec. (d). Pub. L. 105–33 inserted “or section 138(c)(3)” after “section 220(f)(3)” in concluding provisions.
 
@@ -190,7 +190,7 @@ Subsec. (e). Pub. L. 105–34, §213(d)(2), added subsec. (e).
 
 Subsec. (f). Pub. L. 105–34, §302(b), as amended by Pub. L. 105–206, §6005(b)(8)(C), added subsec. (f).
 
-1996—Pub. L. 104–191, §301(e)(1), inserted “medical savings accounts,” after “accounts,” in section catchline.
+<b>1996</b>—Pub. L. 104–191, §301(e)(1), inserted “medical savings accounts,” after “accounts,” in section catchline.
 
 Subsec. (a). Pub. L. 104–191, §301(e)(1)–(3), struck out “or” at end of par. (1), added par. (2), and redesignated former par. (2) as (3).
 
@@ -200,15 +200,15 @@ Pub. L. 104–188, §1704(t)(70), substituted “section” for “sections”.
 
 Subsec. (d). Pub. L. 104–191, §301(e)(4), added subsec. (d).
 
-1992—Subsec. (b)(1)(A). Pub. L. 102–318, which directed the substitution of “sections 402(c)” for “sections 402(a)(5), 402(a)(7)”, was executed by substituting “sections 402(c)” for “section 402(a)(5), 402(a)(7)”. See 1996 Amendment note above.
+<b>1992</b>—Subsec. (b)(1)(A). Pub. L. 102–318, which directed the substitution of “sections 402(c)” for “sections 402(a)(5), 402(a)(7)”, was executed by substituting “sections 402(c)” for “section 402(a)(5), 402(a)(7)”. See 1996 Amendment note above.
 
-1988—Subsec. (b). Pub. L. 100–647 substituted “shall be computed without regard to section 219(g)” for “(after application of section 408(<i>o</i>)(2)(B)(ii)) shall be increased by the nondeductible limit under section 408(<i>o</i>)(2)(B)” in last sentence.
+<b>1988</b>—Subsec. (b). Pub. L. 100–647 substituted “shall be computed without regard to section 219(g)” for “(after application of section 408(<i>o</i>)(2)(B)(ii)) shall be increased by the nondeductible limit under section 408(<i>o</i>)(2)(B)” in last sentence.
 
-1986—Subsec. (b). Pub. L. 99–514, §1102(b)(1), inserted at end “For purposes of paragraphs (1)(B) and (2)(C), the amount allowable as a deduction under section 219 (after application of section 408(<i>o</i>)(2)(B)(ii)) shall be increased by the nondeductible limit under section 408(<i>o</i>)(2)(B).”
+<b>1986</b>—Subsec. (b). Pub. L. 99–514, §1102(b)(1), inserted at end “For purposes of paragraphs (1)(B) and (2)(C), the amount allowable as a deduction under section 219 (after application of section 408(<i>o</i>)(2)(B)(ii)) shall be increased by the nondeductible limit under section 408(<i>o</i>)(2)(B).”
 
 Pub. L. 99–514, §1848(f), in introductory provisions, substituted “or individual retirement annuities” for “, individual retirement annuities, or bonds”, in par. (1)(A), substituted “(other than a rollover contribution described in section 402(a)(5), 402(a)(7), 403(a)(4), 403(b)(8), or 408(d)(3)), over” for “or bonds (other than a rollover contribution described in section 402(a)(5), 402(a)(7), 403(a)(4), 403(b)(8), 405(d)(3), or 408(d)(3)), over”, and in par. (2)(A), struck out “or bonds” after “for the annuities”.
 
-1984—Pub. L. 98–369, §491(d)(55), substituted “and certain individual retirement annuities” for “certain individual retirement annuities, and certain retirement bonds” in section catchline.
+<b>1984</b>—Pub. L. 98–369, §491(d)(55), substituted “and certain individual retirement annuities” for “certain individual retirement annuities, and certain retirement bonds” in section catchline.
 
 Subsec. (a). Pub. L. 98–369, §491(d)(41), inserted “or” at end of par. (1), struck out “or” at end of par. (2), struck out par. (3) which imposed a tax in the case of a retirement bond, within the meaning of section 409, established for the benefit of any individual, and in the concluding provision substituted “or annuity” for “, annuity, or bond” and “or annuities” for “, annuities, or bonds”.
 
@@ -218,7 +218,7 @@ Subsec. (b)(1)(A). Pub. L. 98–369, §491(d)(42), which directed the amendment 
 
 Subsec. (c)(1). Pub. L. 98–369, §491(d)(44), substituted “or 408(d)(3)(A)(iii)” for “, 408(d)(3)(A)(iii), or 409(b)(3)(C)”.
 
-1981—Subsec. (a). Pub. L. 97–34, §311(h)(9), substituted “The tax imposed by this subsection shall be paid by such individual” for “The tax imposed by this subsection shall be paid by the individual to whom a deduction is allowed for the taxable year under section 219 (determined without regard to subsection (b)(1) thereof) or section 220 (determined without regard to subsection (b)(1) thereof), whichever is appropriate”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–34, §311(h)(9), substituted “The tax imposed by this subsection shall be paid by such individual” for “The tax imposed by this subsection shall be paid by the individual to whom a deduction is allowed for the taxable year under section 219 (determined without regard to subsection (b)(1) thereof) or section 220 (determined without regard to subsection (b)(1) thereof), whichever is appropriate”.
 
 Subsec. (b)(1)(A). Pub. L. 97–34, §313(b)(2), inserted “405(d)(3),” after “403(b)(8),”.
 
@@ -226,11 +226,11 @@ Subsec. (b)(1)(B). Pub. L. 97–34, §311(h)(7), substituted “section 219” f
 
 Subsec. (b)(2)(C). Pub. L. 97–34, §311(h)(7), (10), substituted “section 219” for “section 219 or 220”, and “section 219(f)(6)” for “sections 219(c)(5) and 220(c)(6)”.
 
-1980—Subsec. (b)(1)(A). Pub. L. 96–222, §101(a)(14)(B), inserted reference to section 402(a)(7).
+<b>1980</b>—Subsec. (b)(1)(A). Pub. L. 96–222, §101(a)(14)(B), inserted reference to section 402(a)(7).
 
 Subsec. (c)(1). Pub. L. 96–222, §101(a)(13)(C), substituted “409(b)(3)(C)” for “409(d)(3)(C)”.
 
-1978—Subsec. (b)(1)(A). Pub. L. 95–600, §156(c)(3), inserted reference to section 403(b)(8).
+<b>1978</b>—Subsec. (b)(1)(A). Pub. L. 95–600, §156(c)(3), inserted reference to section 403(b)(8).
 
 Subsec. (b)(2). Pub. L. 95–600, §157(b)(3), substituted “reduced by the sum of—” for “reduced by the excess (if any) of”, struck out “the maximum amount allowable as a deduction under section 219 or 220 for the taxable year over the amount contributed to the accounts or for the annuities or bonds for the taxable years and reduced by the sum of the distributions out of the account (for the taxable year and all prior taxable years) which were included in the gross income of the payee under section 408(d)(1)” in provision preceding par. (A), and added subpars. (A), (B), and (C).
 
@@ -238,7 +238,7 @@ Subsec. (b). Pub. L. 95–600, §§157(j)(1), 701(aa)(1), struck out in last sen
 
 Subsec. (c)(1). Pub. L. 95–600, §156(c)(5), inserted “(other than a rollover contribution described in section 403(b)(8), 408(d)(3)(A)(iii), or 409(d)(3)(C))” after “account”.
 
-1976—Subsec. (a)(3). Pub. L. 94–455, §§1501(b)(8)(A), 1904(a)(22)(A), substituted “the individual to whom a deduction is allowed for the taxable year under section 219 (determined without regard to subsection (b)(1) thereof) or section 220 (determined without regard to subsection (b)(1) thereof), whichever is appropriate” for “such individual”, effective for taxable years beginning after December 31, 1976 and substituted “such individual” for “the individual to whom a deduction is allowed for the taxable year under section 219 (determined without regard to subsection (b)(1) thereof) or section 220 (determined without regard to subsection (b)(1) thereof), whichever is appropriate”, effective for the first day of the first month which begins more than 90 days after Oct. 4, 1976.
+<b>1976</b>—Subsec. (a)(3). Pub. L. 94–455, §§1501(b)(8)(A), 1904(a)(22)(A), substituted “the individual to whom a deduction is allowed for the taxable year under section 219 (determined without regard to subsection (b)(1) thereof) or section 220 (determined without regard to subsection (b)(1) thereof), whichever is appropriate” for “such individual”, effective for taxable years beginning after December 31, 1976 and substituted “such individual” for “the individual to whom a deduction is allowed for the taxable year under section 219 (determined without regard to subsection (b)(1) thereof) or section 220 (determined without regard to subsection (b)(1) thereof), whichever is appropriate”, effective for the first day of the first month which begins more than 90 days after Oct. 4, 1976.
 
 Subsec. (b)(1)(B). Pub. L. 94–455, §1501(b)(8)(B), inserted “or 220” after “under section 219”.
 
@@ -260,7 +260,7 @@ Amendment by section 402(a)(4)(A) of Pub. L. 107–16 applicable to taxable year
 
 Amendment by section 641(e)(11) of Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, see section 641(f)(1) of Pub. L. 107–16, set out as an Effective Date of 2001 Amendment note under section 402 of this title.
 
-Amendment by section 401(a)(2), (g)(2)(D) of Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by section 401(a)(2), (g)(2)(D) of Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 

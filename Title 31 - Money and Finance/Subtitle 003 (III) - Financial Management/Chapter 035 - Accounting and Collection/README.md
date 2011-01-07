@@ -66,37 +66,37 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER VI—RECOVERY AUDITS
+#### SUBCHAPTER VI—RECOVERY AUDITS <sup>1</sup>
 
 |  |  |
 | :--- | ---: |
-| [3561\.](Subchapter%20006%20%28VI%29%20-%20Recovery%20Audits/%C2%A7%2003561%20-%20Identification%20of%20errors%20made%20by%20executive%20agencies%20in%20payments%20to%20contractors%20and%20recovery%20of%20amounts%20erroneously%20paid.md) | Identification of errors made by executive agencies in payments to contractors and recovery of amounts erroneously paid. |
-| [3562\.](Subchapter%20006%20%28VI%29%20-%20Recovery%20Audits/%C2%A7%2003562%20-%20Disposition%20of%20recovered%20funds.md) | Disposition of recovered funds. |
-| [3563\.](Subchapter%20006%20%28VI%29%20-%20Recovery%20Audits/%C2%A7%2003563%20-%20Sources%20of%20recovery%20services.md) | Sources of recovery services. |
-| [3564\.](Subchapter%20006%20%28VI%29%20-%20Recovery%20Audits/%C2%A7%2003564%20-%20Management%20improvement%20programs.md) | Management improvement programs. |
-| [3565\.](Subchapter%20006%20%28VI%29%20-%20Recovery%20Audits/%C2%A7%2003565%20-%20Relationship%20to%20authority%20of%20Inspectors%20General.md) | Relationship to authority of Inspectors General. |
-| [3566\.](Subchapter%20006%20%28VI%29%20-%20Recovery%20Audits/%C2%A7%2003566%20-%20Privacy%20protections.md) | Privacy protections. |
-| [3567\.](Subchapter%20006%20%28VI%29%20-%20Recovery%20Audits/%C2%A7%2003567%20-%20Definition%20of%20executive%20agency.md) | Definition of executive agency. |
+| \[3561. | Repealed.\] |
+| [3562\.](Subchapter%20006%20%28VI%29%20-%20Recovery%20Audits/%C2%A7%2003562%20-%20Disposition%20of%20recovered%20funds.md) | Disposition of recovered funds.<sup>1</sup> |
+| \[3563 to 3567. Repealed.\]. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-2008—Pub. L. 110–417, \[div. A\], title X, §1061(c)(3), Oct. 14, 2008, 122 Stat. 4613, struck out item 3557 “Expedited action in protests for public-private competitions”, as added by Pub. L. 110–161.
+<b>2010</b>—Pub. L. 111–204, §2(h)(6)(B)(i), July 22, 2010, 124 Stat. 2231, struck out subchapter VI heading “RECOVERY AUDITS” and items 3561 “Identification of errors made by executive agencies in payments to contractors and recovery of amounts erroneously paid”, 3562 “Disposition of recovered funds”, 3563 “Sources of recovery services”, 3564 “Management improvement programs”, 3565 “Relationship to authority of Inspectors General”, 3566 “Privacy protections”, and 3567 “Definition of executive agency”.
+
+<b>2008</b>—Pub. L. 110–417, \[div. A\], title X, §1061(c)(3), Oct. 14, 2008, 122 Stat. 4613, struck out item 3557 “Expedited action in protests for public-private competitions”, as added by Pub. L. 110–161.
 
 Pub. L. 110–181, div. A, title III, §326(b)(2), Jan. 28, 2008, 122 Stat. 63, added item 3557 “Expedited action in protests of public-private competitions”.
 
-2007—Pub. L. 110–161, div. D, title VII, §739(c)(1)(B)(ii), Dec. 26, 2007, 121 Stat. 2031, added item 3557.
+<b>2007</b>—Pub. L. 110–161, div. D, title VII, §739(c)(1)(B)(ii), Dec. 26, 2007, 121 Stat. 2031, added item 3557.
 
-2001—Pub. L. 107–107, div. A, title VIII, §831(a)(2), Dec. 28, 2001, 115 Stat. 1188, added subchapter VI heading and items 3561 to 3567.
+<b>2001</b>—Pub. L. 107–107, div. A, title VIII, §831(a)(2), Dec. 28, 2001, 115 Stat. 1188, added subchapter VI heading and items 3561 to 3567.
 
-2000—Pub. L. 106–531, §3(c), Nov. 22, 2000, 114 Stat. 2539, added item 3516.
+<b>2000</b>—Pub. L. 106–531, §3(c), Nov. 22, 2000, 114 Stat. 2539, added item 3516.
 
-1996—Pub. L. 104–316, title I, §115(f)(2), Oct. 19, 1996, 110 Stat. 3834, struck out item 3531 “Property returns”.
+<b>1996</b>—Pub. L. 104–316, title I, §115(f)(2), Oct. 19, 1996, 110 Stat. 3834, struck out item 3531 “Property returns”.
 
-1990—Pub. L. 101–576, title III, §§301(b), 303(f), Nov. 15, 1990, 104 Stat. 2848, 2852, substituted “and other financial management reports and plans” for “systems” in item 3512 and added item 3515.
+<b>1990</b>—Pub. L. 101–576, title III, §§301(b), 303(f), Nov. 15, 1990, 104 Stat. 2848, 2852, substituted “and other financial management reports and plans” for “systems” in item 3512 and added item 3515.
 
-1984—Pub. L. 98–369, div. B, title VII, §2741(b), July 18, 1984, 98 Stat. 1203, added subchapter V heading and items 3551 to 3556.
+<b>1984</b>—Pub. L. 98–369, div. B, title VII, §2741(b), July 18, 1984, 98 Stat. 1203, added subchapter V heading and items 3551 to 3556.
+
+<i><sup>1</sup></i><i> Editorially supplied.</i>
 
 
 ---

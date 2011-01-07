@@ -44,7 +44,7 @@ Nothing in sections 450ss to 450ss–7 of this title shall prohibit the use of S
 
 #### Amendments
 
-2004—Pub. L. 108–199 amended section generally. Prior to amendment, section provided for establishment of the Oklahoma City National Memorial Trust, its Board of Directors, staff, powers, and tax exempt status.
+<b>2004</b>—Pub. L. 108–199 amended section generally. Prior to amendment, section provided for establishment of the Oklahoma City National Memorial Trust, its Board of Directors, staff, powers, and tax exempt status.
 
 #### Authorization of Secretary To Reimburse Previous Costs Paid by Foundation or Trust
 

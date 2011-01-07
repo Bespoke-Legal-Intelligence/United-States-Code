@@ -20,7 +20,7 @@
 
 &emsp;(7) The storage of materials that constitute military resources intended to be used during peacetime civil emergencies in accordance with applicable Department of Defense regulations.
 
-&emsp;(8) The temporary storage of materials of other Federal agencies in order to provide assistance and refuge for commercial carriers of such material during a transportation emergency.
+&emsp;(8) The temporary storage of materials of other Federal agencies in order to provide assistance and refuge for commercial carriers ofsuch material during a transportation emergency.
 
 &emsp;(9) The storage of any material that is not owned by the Department of Defense if the Secretary of the military department concerned determines that the material is required or generated in connection with the authorized and compatible use of a facility of the Department of Defense, including the use of such a facility for testing material or training personnel.
 
@@ -42,11 +42,11 @@
 
 #### Amendments
 
-2006—Subsec. (b)(9). Pub. L. 109–364 substituted “testing material” for “testing materiel”.
+<b>2006</b>—Subsec. (b)(9). Pub. L. 109–364 substituted “testing material” for “testing materiel”.
 
-1999—Subsec. (b). Pub. L. 106–65 substituted “apply to the following:” for “apply to—” in introductory provisions, “The” for “the” at the beginning of each of pars. (1) to (11), a period for the semicolon at the end of each of pars. (1) to (9), and a period for “; and” at the end of par. (10).
+<b>1999</b>—Subsec. (b). Pub. L. 106–65 substituted “apply to the following:” for “apply to—” in introductory provisions, “The” for “the” at the beginning of each of pars. (1) to (11), a period for the semicolon at the end of each of pars. (1) to (9), and a period for “; and” at the end of par. (10).
 
-1997—Pub. L. 105–85, §343(g)(2), substituted “Storage, treatment, and” for “Storage and” in section catchline.
+<b>1997</b>—Pub. L. 105–85, §343(g)(2), substituted “Storage, treatment, and” for “Storage and” in section catchline.
 
 Subsec. (a)(1). Pub. L. 105–85, §343(g)(1), substituted “storage, treatment, or disposal” for “storage or disposal”.
 
@@ -64,9 +64,9 @@ Subsec. (b)(10). Pub. L. 105–85, §343(b)(1), (e), redesignated par. (9) as (1
 
 Subsec. (b)(11). Pub. L. 105–85, §343(f), added par. (11).
 
-1994—Subsec. (b)(9). Pub. L. 103–337 added par. (9).
+<b>1994</b>—Subsec. (b)(9). Pub. L. 103–337 added par. (9).
 
-1992—Subsec. (b)(8). Pub. L. 102–484 added par. (8).
+<b>1992</b>—Subsec. (b)(8). Pub. L. 102–484 added par. (8).
 
 #### Savings Provision
 

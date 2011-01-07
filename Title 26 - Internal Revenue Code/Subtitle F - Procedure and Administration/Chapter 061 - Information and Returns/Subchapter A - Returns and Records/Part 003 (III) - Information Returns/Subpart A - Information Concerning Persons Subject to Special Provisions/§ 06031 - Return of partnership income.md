@@ -18,7 +18,7 @@ Any person who holds an interest in a partnership as a nominee for another perso
 
 #### (d) Separate statement of items of unrelated business taxable income
 
-In the case of any partnership regularly carrying on a trade or business (within the meaning of section 512(c)(1)), the information required under subsection (b) to be furnished to its partners shall include such information as is necessary to enable each partner to compute its distributive share of partnership income or loss from such trade or business in accordance with section 512(a)(1), but without regard to the modifications described in paragraphs (8) through (15) of section 512(b).
+In the case of any partnership regularly carrying on a trade or business (within the meaning of section 512(c)(1)), the information required under subsection (b) to be furnished to its partners shall include such information as is necessary to enable each partner to compute its distributive share of partnership income or loss from such trade or business in accordance withsection 512(a)(1), but without regard to the modifications described in paragraphs (8) through (15) of section 512(b).
 
 #### (e) Foreign partnerships
 
@@ -44,25 +44,25 @@ In the case of any electing investment partnership (as defined in section 743(e)
 
 #### Amendments
 
-2004—Subsec. (f). Pub. L. 108–357 added subsec. (f).
+<b>2004</b>—Subsec. (f). Pub. L. 108–357 added subsec. (f).
 
-1997—Subsec. (b). Pub. L. 105–34, §1223(a), inserted at end “In the case of an electing large partnership (as defined in section 775), such information shall be furnished on or before the first March 15 following the close of such taxable year.”
+<b>1997</b>—Subsec. (b). Pub. L. 105–34, §1223(a), inserted at end “In the case of an electing large partnership (as defined in section 775), such information shall be furnished on or before the first March 15 following the close of such taxable year.”
 
 Subsec. (e). Pub. L. 105–34, §1141(a), added subsec. (e).
 
-1988—Subsec. (d). Pub. L. 100–647 added subsec. (d).
+<b>1988</b>—Subsec. (d). Pub. L. 100–647 added subsec. (d).
 
-1986—Subsec. (b). Pub. L. 99–514, §1501(c)(16), substituted “was required to be filed” for “was filed” and “required to be shown on such return” for “shown on such return”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514, §1501(c)(16), substituted “was required to be filed” for “was filed” and “required to be shown on such return” for “shown on such return”.
 
 Pub. L. 99–514, §1811(b)(1)(A)(i), inserted “or who holds an interest in such partnership as a nominee for another person” after “who is a partner”.
 
 Subsec. (c). Pub. L. 99–514, §1811(b)(1)(A)(ii), added subsec. (c).
 
-1982—Subsec. (a). Pub. L. 97–248, §403(b), designated existing provisions as subsec. (a) and added subsec. heading.
+<b>1982</b>—Subsec. (a). Pub. L. 97–248, §403(b), designated existing provisions as subsec. (a) and added subsec. heading.
 
 Subsec. (b). Pub. L. 97–248, §403(a), added subsec. (b).
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 2004 Amendment
 

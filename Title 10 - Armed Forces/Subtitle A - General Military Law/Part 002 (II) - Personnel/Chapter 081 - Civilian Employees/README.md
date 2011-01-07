@@ -36,69 +36,69 @@
 
 #### Amendments
 
-2008—Pub. L. 110–181, div. A, title XVI, §1636(b), Jan. 28, 2008, 122 Stat. 464, added item 1599c and struck out former item 1599c “Appointment in excepted service of certain health care professionals”.
+<b>2008</b>—Pub. L. 110–181, div. A, title XVI, §1636(b), Jan. 28, 2008, 122 Stat. 464, added item 1599c and struck out former item 1599c “Appointment in excepted service of certain health care professionals”.
 
-2004—Pub. L. 108–375, div. A, title XI, §1104(b), Oct. 28, 2004, 118 Stat. 2074, added item 1587a.
+<b>2004</b>—Pub. L. 108–375, div. A, title XI, §1104(b), Oct. 28, 2004, 118 Stat. 2074, added item 1587a.
 
 Pub. L. 108–375, div. A, title X, §1084(g), Oct. 28, 2004, 118 Stat. 2064, amended directory language of Pub. L. 107–314, §1064(a)(2), effective Dec. 2, 2002, as if included in Pub. L. 107–314 as enacted. See 2002 Amendment note below.
 
-2002—Pub. L. 107–314, div. A, title XI, §1104(a)(2), Dec. 2, 2002, 116 Stat. 2661, added item 1599d.
+<b>2002</b>—Pub. L. 107–314, div. A, title XI, §1104(a)(2), Dec. 2, 2002, 116 Stat. 2661, added item 1599d.
 
 Pub. L. 107–314, div. A, title X, §1064(a)(2), Dec. 2, 2002, 116 Stat. 2654, as amended by Pub. L. 108–375, div. A, title X, §1084(g), Oct. 28, 2004, 118 Stat. 2064, added item 1596b.
 
-2001—Pub. L. 107–107, div. A, title XI, §1104(b), Dec. 28, 2001, 115 Stat. 1238, added item 1599c.
+<b>2001</b>—Pub. L. 107–107, div. A, title XI, §1104(b), Dec. 28, 2001, 115 Stat. 1238, added item 1599c.
 
-2000—Pub. L. 106–398, §1 \[\[div. A\], title VII, §751(c)(2), title XI, §§1102(b), 1131(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–194, 1654A–311, 1654A–317, added items 1580a, 1582, 1596, and 1596a and struck out former item 1596 “Foreign language proficiency: special pay”.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title VII, §751(c)(2), title XI, §§1102(b), 1131(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–194, 1654A–311, 1654A–317, added items 1580a, 1582, 1596, and 1596a and struck out former item 1596 “Foreign language proficiency: special pay”.
 
-1999—Pub. L. 106–65, div. A, title XI, §1103(b)(2), Oct. 5, 1999, 113 Stat. 777, added item 1580.
+<b>1999</b>—Pub. L. 106–65, div. A, title XI, §1103(b)(2), Oct. 5, 1999, 113 Stat. 777, added item 1580.
 
-1998—Pub. L. 105–339, §6(c)(1)(B), Oct. 31, 1998, 112 Stat. 3188, struck out item 1599c “Veterans’ preference requirements: Department of Defense failure to comply treated as a prohibited personnel practice”.
+<b>1998</b>—Pub. L. 105–339, §6(c)(1)(B), Oct. 31, 1998, 112 Stat. 3188, struck out item 1599c “Veterans’ preference requirements: Department of Defense failure to comply treated as a prohibited personnel practice”.
 
-1997—Pub. L. 105–85, div. A, title V, §593(b)(2), title X, §1071(b), Nov. 18, 1997, 111 Stat. 1764, 1898, added items 1585a and 1589.
+<b>1997</b>—Pub. L. 105–85, div. A, title V, §593(b)(2), title X, §1071(b), Nov. 18, 1997, 111 Stat. 1764, 1898, added items 1585a and 1589.
 
-1996—Pub. L. 104–201, div. A, title X, §1074(a)(7), title XVI, §§1604(b), 1614(b)(2), 1615(a)(2), 1633(c)(2), Sept. 23, 1996, 110 Stat. 2659, 2736, 2739, 2741, 2751, struck out items 1589 “Prohibition on payment of lodging expenses when adequate Government quarters are available”, 1590 “Management of civilian intelligence personnel of the military departments”, and 1599 “Postemployment assistance: certain terminated intelligence employees”, struck out “Sec.” at beginning of item 1599a, and added items 1599b and 1599c.
+<b>1996</b>—Pub. L. 104–201, div. A, title X, §1074(a)(7), title XVI, §§1604(b), 1614(b)(2), 1615(a)(2), 1633(c)(2), Sept. 23, 1996, 110 Stat. 2659, 2736, 2739, 2741, 2751, struck out items 1589 “Prohibition on payment of lodging expenses when adequate Government quarters are available”, 1590 “Management of civilian intelligence personnel of the military departments”, and 1599 “Postemployment assistance: certain terminated intelligence employees”, struck out “Sec.” at beginning of item 1599a, and added items 1599b and 1599c.
 
 Pub. L. 104–106, div. A, title X, §1040(d)(2), Feb. 10, 1996, 110 Stat. 433, inserted “: reprisals” after “instrumentalities” in item 1587.
 
 Pub. L. 104–93, title V, §505(b), Jan. 6, 1996, 109 Stat. 974, added item 1599a.
 
-1994—Pub. L. 103–359, title VIII, §806(a)(2), Oct. 14, 1994, 108 Stat. 3442, added item 1599.
+<b>1994</b>—Pub. L. 103–359, title VIII, §806(a)(2), Oct. 14, 1994, 108 Stat. 3442, added item 1599.
 
-1993—Pub. L. 103–160, div. A, title IX, §923(a)(2), Nov. 30, 1993, 107 Stat. 1731, substituted “Civilian faculty members at certain Department of Defense schools: employment and compensation” for “National Defense University; Foreign Language Center of the Defense Language Institute: civilian faculty members” in item 1595.
+<b>1993</b>—Pub. L. 103–160, div. A, title IX, §923(a)(2), Nov. 30, 1993, 107 Stat. 1731, substituted “Civilian faculty members at certain Department of Defense schools: employment and compensation” for “National Defense University; Foreign Language Center of the Defense Language Institute: civilian faculty members” in item 1595.
 
-1992—Pub. L. 102–484, div. A, title III, §371(b), title IX, §923(a)(2)(B), div. D, title XLIV, §4442(b), Oct. 23, 1992, 106 Stat. 2384, 2474, 2732, substituted “University; Foreign Language Center of the Defense Language Institute” for “University:” in item 1595, substituted “Civilian positions: guidelines for reductions” for “Employees of industrial-type or commercial-type activities: guidelines for future reductions” in item 1597, and added item 1598.
+<b>1992</b>—Pub. L. 102–484, div. A, title III, §371(b), title IX, §923(a)(2)(B), div. D, title XLIV, §4442(b), Oct. 23, 1992, 106 Stat. 2384, 2474, 2732, substituted “University; Foreign Language Center of the Defense Language Institute” for “University:” in item 1595, substituted “Civilian positions: guidelines for reductions” for “Employees of industrial-type or commercial-type activities: guidelines for future reductions” in item 1597, and added item 1598.
 
-1991—Pub. L. 102–190, div. A, title X, §1003(a)(2), Dec. 5, 1991, 105 Stat. 1456, added item 1581.
+<b>1991</b>—Pub. L. 102–190, div. A, title X, §1003(a)(2), Dec. 5, 1991, 105 Stat. 1456, added item 1581.
 
 Pub. L. 102–25, title VII, §701(e)(4), (8)(B), Apr. 6, 1991, 105 Stat. 114, 115, substituted “Employment of non-citizens” for “Laws relating to employment of non-citizens: not applicable to research and development activities” in item 1584 and struck out “mandatory” after “error in” in item 1594.
 
-1990—Pub. L. 101–510, div. A, title III, §322(a)(2), title XIV, §1484(a), Nov. 5, 1990, 104 Stat. 1529, 1715, redesignated item 1592 “Foreign language proficiency: special pay” as item 1596 and added item 1597.
+<b>1990</b>—Pub. L. 101–510, div. A, title III, §322(a)(2), title XIV, §1484(a), Nov. 5, 1990, 104 Stat. 1529, 1715, redesignated item 1592 “Foreign language proficiency: special pay” as item 1596 and added item 1597.
 
-1989—Pub. L. 101–193, title V, §501(a)(2), Nov. 30, 1989, 103 Stat. 1708, added item 1592 “Foreign language proficiency: special pay”.
+<b>1989</b>—Pub. L. 101–193, title V, §501(a)(2), Nov. 30, 1989, 103 Stat. 1708, added item 1592 “Foreign language proficiency: special pay”.
 
 Pub. L. 101–189, div. A, title III, §§311(b)(2), 336(a)(2), title VI, §664(b)(2), title XI, §1124(a)(2), Nov. 29, 1989, 103 Stat. 1412, 1419, 1467, 1558, added item 1592 “Prohibition on payment of severance pay to foreign nationals in the event of certain overseas base closures.”, and items 1593 to 1595.
 
-1987—Pub. L. 100–180, div. A, title VI, §617(b)(2), Dec. 4, 1987, 101 Stat. 1097, added item 1591.
+<b>1987</b>—Pub. L. 100–180, div. A, title VI, §617(b)(2), Dec. 4, 1987, 101 Stat. 1097, added item 1591.
 
-1986—Pub. L. 99–569, title V, §504(b), Oct. 27, 1986, 100 Stat. 3199, added item 1590.
+<b>1986</b>—Pub. L. 99–569, title V, §504(b), Oct. 27, 1986, 100 Stat. 3199, added item 1590.
 
-1984—Pub. L. 98–525, title XIV, §1401(f)(2), Oct. 19, 1984, 98 Stat. 2618, added item 1589.
+<b>1984</b>—Pub. L. 98–525, title XIV, §1401(f)(2), Oct. 19, 1984, 98 Stat. 2618, added item 1589.
 
-1983—Pub. L. 98–94, title XII, §§1253(a)(2), 1266(b), Sept. 24, 1983, 97 Stat. 700, 705, added items 1587 and 1588.
+<b>1983</b>—Pub. L. 98–94, title XII, §§1253(a)(2), 1266(b), Sept. 24, 1983, 97 Stat. 700, 705, added items 1587 and 1588.
 
-1982—Pub. L. 97–295, §1(19)(B), (20)(C), Oct. 12, 1982, 96 Stat. 1290, struck out items 1581 “Appointment: professional and scientific services” and 1582 “Professional and scientific services: reports to Congress on appointments”, and substituted “pay” for “compensation” in item 1583.
+<b>1982</b>—Pub. L. 97–295, §1(19)(B), (20)(C), Oct. 12, 1982, 96 Stat. 1290, struck out items 1581 “Appointment: professional and scientific services” and 1582 “Professional and scientific services: reports to Congress on appointments”, and substituted “pay” for “compensation” in item 1583.
 
-1966—Pub. L. 89–718, §13, Nov. 2, 1966, 80 Stat. 1117, struck out item 1580 “Appointment generally”.
+<b>1966</b>—Pub. L. 89–718, §13, Nov. 2, 1966, 80 Stat. 1117, struck out item 1580 “Appointment generally”.
 
-1962—Pub. L. 87–651, title II, §206(b), Sept. 7, 1962, 76 Stat. 520, added item 1580.
+<b>1962</b>—Pub. L. 87–651, title II, §206(b), Sept. 7, 1962, 76 Stat. 520, added item 1580.
 
-1960—Pub. L. 86–585, §2, July 5, 1960, 74 Stat. 327, added item 1586.
+<b>1960</b>—Pub. L. 86–585, §2, July 5, 1960, 74 Stat. 327, added item 1586.
 
-1958—Pub. L. 85–577, §1(2), July 31, 1958, 72 Stat. 456, added item 1585.
+<b>1958</b>—Pub. L. 85–577, §1(2), July 31, 1958, 72 Stat. 456, added item 1585.
 
 #### Availability of Funds for Compensation of Certain Civilian Employees of the Department of Defense
 
-Pub. L. 111–84, div. A, title XI, §1111, Oct. 28, 2009, 123 Stat. 2495, provided that:
+Pub. L. 111–84, div. A, title XI, §1111, Oct. 28, 2009, 123 Stat. 2495, as amended by Pub. L. 111–383, div. A, title X, §1075(d)(16), Jan. 7, 2011, 124 Stat. 4373, provided that:
 
 “(a)
 
@@ -106,7 +106,7 @@ Availability of Funds.—Funds authorized to be appropriated for the Department 
 
 “(b)
 
-Regulations.—Not later than 120 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary shall prescribe regulations implementing the authority in subsection (a). Such regulations—
+Regulations.—Not later than 120 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall prescribe regulations implementing the authority in subsection (a). Such regulations—
 
 &emsp;“(1) shall ensure that the authority in subsection (a) is utilized to build government capabilities that are needed to perform inherently governmental functions, functions closely associated with inherently governmental functions, and other critical functions;
 
@@ -226,7 +226,7 @@ Consideration for senior management, functional, and technical workforce.—Any 
 
 #### Direct Hire Authority at Personnel Demonstration Laboratories for Certain Candidates
 
-Pub. L. 110–417, \[div. A\], title XI, §1108, Oct. 14, 2008, 122 Stat. 4618, provided that:
+Pub. L. 110–417, \[div. A\], title XI, §1108, Oct. 14, 2008, 122 Stat. 4618, as amended by Pub. L. 111–383, div. A, title XI, §1101(a), Jan. 7, 2011, 124 Stat. 4381, provided that:
 
 “(a)
 
@@ -234,11 +234,11 @@ Authority.—The Secretary of Defense may appoint qualified candidates possessin
 
 “(b)
 
-Applicability.—This section applies with respect to candidates for scientific and engineering positions within any laboratory identified in \[former\] section 9902(c)(2) of title 5, United States Code.
+Applicability.—This section applies with respect to candidates for scientific and engineering positions within any laboratory designated by section 1105(a) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2486; 10 U.S.C. 2358 note) as a Department of Defense science and technology reinvention laboratory.
 
 “(c)
 
-Limitation.—(1) Authority under this section may not, in any calendar year and with respect to any laboratory, be exercised with respect to a number of candidates greater than the number equal to 2 percent of the total number of scientific and engineering positions within such laboratory that are filled as of the close of the fiscal year last ending before the start of such calendar year.
+Limitation.—(1) Authority under this section may not, in any calendar year and with respect to any laboratory, be exercised with respect to a number of candidates greater than the number equal to 5 percent of the total number of scientific and engineering positions within such laboratory that are filled as of the close of the fiscal year last ending before the start of such calendar year.
 
 “(2) For purposes of this subsection, positions and candidates shall be counted on a full-time equivalent basis.
 
@@ -249,6 +249,8 @@ Employee Defined.—As used in this section, the term ‘employee’ has the mea
 “(e)
 
 Termination.—The authority to make appointments under this section shall not be available after December 31, 2013.”
+
+\[Amendment by section 1101(a)(1) of Pub. L. 111–383 to section 1108(b) of Pub. L. 110–417, set out above, effective Oct. 28, 2009, and amendment by section 1101(a)(2) of Pub. L. 111–383 to section 1108(c) of Pub. L. 110–417, set out above, effective Jan. 7, 2011, see section 1101(d) of Pub. L. 111–383, set out as an Effective Date of 2011 Amendment note under section 9902 of Title 5, Government Organization and Employees.\]
 
 #### Employment for Resettled Iraqis
 

@@ -40,7 +40,7 @@ As used in this subchapter:
 
 #### Amendments
 
-2003—Pars. (1) to (6). Pub. L. 108–81 redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out heading and text of former par. (1). Text read as follows: “The term ‘Indian tribe’ means any tribe, band, nation, or other organized group or community, including any Alaska native village, regional corporation, or village corporation, as defined in or established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), which is recognized by the Secretary of the Interior as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.”
+<b>2003</b>—Pars. (1) to (6). Pub. L. 108–81 redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out heading and text of former par. (1). Text read as follows: “The term ‘Indian tribe’ means any tribe, band, nation, or other organized group or community, including any Alaska native village, regional corporation, or village corporation, as defined in or established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), which is recognized by the Secretary of the Interior as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.”
 
-1997—Par. (2)(E). Pub. L. 105–128 inserted “or other special library” after “a private library” and “or special” after “such private”.
+<b>1997</b>—Par. (2)(E). Pub. L. 105–128 inserted “or other special library” after “a private library” and “or special” after “such private”.
 

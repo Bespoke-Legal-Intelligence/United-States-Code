@@ -4,7 +4,7 @@
 
 #### (1) Recording by taxpayer
 
-&emsp;Any officer or employee of the Internal Revenue Service in connection with any in-personinterview with any taxpayer relating to the determination or collection of any tax shall, upon advance request of such taxpayer, allow the taxpayer to make an audio recording of such interview at the taxpayer's own expense and with the taxpayer's own equipment.
+&emsp;Any officer or employee of the Internal Revenue Service in connection with any in-person interview with any taxpayer relating to the determination or collection of any tax shall, upon advance request of such taxpayer, allow the taxpayer to make an audio recording of such interview at the taxpayer's own expense and with the taxpayer's own equipment.
 
 #### (2) Recording by IRS officer or employee
 

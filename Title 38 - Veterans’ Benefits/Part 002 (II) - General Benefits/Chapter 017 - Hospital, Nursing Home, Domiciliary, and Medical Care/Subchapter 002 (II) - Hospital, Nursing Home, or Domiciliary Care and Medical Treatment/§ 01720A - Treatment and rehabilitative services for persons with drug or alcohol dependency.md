@@ -16,21 +16,21 @@
 
 (2) Each plan under paragraph (1) shall make available clinically proven substance abuse treatment methods, including opioid substitution therapy, to veterans with respect to whom a qualified medical professional has determined such treatment methods to be appropriate.
 
-(Added Pub. L. 96–22, title I, §104(a), June 13, 1979, 93 Stat. 50, §620A; amended Pub. L. 96–128, title V, §501(c), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–251, §6, Sept. 8, 1982, 96 Stat. 716; Pub. L. 97–258, §3(k)(1), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 99–108, §3, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title I, §101(a), (b)(1), Dec. 3, 1985, 99 Stat. 942, 943; Pub. L. 100–687, div. B, title XV, §1509, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 100–689, title V, §502(a)(1), (b), Nov. 18, 1988, 102 Stat. 4179; Pub. L. 102–54, §14(b)(13), June 13, 1991, 105 Stat. 284; renumbered §1720A and amended Pub. L.102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, §303, Aug. 14, 1991, 105 Stat. 416; Pub. L. 103–452, title I, §103(b), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(b), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §202(b), Nov. 21, 1997, 111 Stat. 2287; Pub. L. 106–117, title I, §114, Nov. 30, 1999, 113 Stat. 1558; Pub. L. 106–419, title IV, §404(a)(4), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–95, §8(c), Dec. 21, 2001, 115 Stat. 920.)
+(Added Pub. L. 96–22, title I, §104(a), June 13, 1979, 93 Stat. 50, §620A; amended Pub. L. 96–128, title V, §501(c), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–251, §6, Sept. 8, 1982, 96 Stat. 716; Pub. L. 97–258, §3(k)(1), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 99–108, §3, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title I, §101(a), (b)(1), Dec. 3, 1985, 99 Stat. 942, 943; Pub. L. 100–687, div. B, title XV, §1509, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 100–689, title V, §502(a)(1), (b), Nov. 18, 1988, 102 Stat. 4179; Pub. L. 102–54, §14(b)(13), June 13, 1991, 105 Stat. 284; renumbered §1720A and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, §303, Aug. 14, 1991, 105 Stat. 416; Pub. L. 103–452, title I, §103(b), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(b), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §202(b), Nov. 21, 1997, 111 Stat. 2287; Pub. L. 106–117, title I, §114, Nov. 30, 1999, 113 Stat. 1558; Pub. L. 106–419, title IV, §404(a)(4), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–95, §8(c), Dec. 21, 2001, 115 Stat. 920.)
 
 #### Amendments
 
-2001—Subsec. (d). Pub. L. 107–95 added subsec. (d).
+<b>2001</b>—Subsec. (d). Pub. L. 107–95 added subsec. (d).
 
-2000—Subsec. (c)(1). Pub. L. 106–419 substituted “for such disability. Care and services provided to a member so transferred” for “for such disability unless such transfer is during the last thirty days of such member's enlistment period or tour of duty, in which case such care and services provided to such member”.
+<b>2000</b>—Subsec. (c)(1). Pub. L. 106–419 substituted “for such disability. Care and services provided to a member so transferred” for “for such disability unless such transfer is during the last thirty days of such member's enlistment period or tour of duty, in which case such care and services provided to such member”.
 
-1999—Subsec. (c)(1). Pub. L. 106–117, §114(a), substituted “may be transferred” for “may not be transferred” in first sentence.
+<b>1999</b>—Subsec. (c)(1). Pub. L. 106–117, §114(a), substituted “may be transferred” for “may not be transferred” in first sentence.
 
 Pub. L. 106–117, §114(a)(2), which directed the amendment of first sentence of par. (1) by striking out “unless such transfer is during the last thirty days of such member's enlistment or tour of duty”, could not be executed because that phrase did not appear.
 
 Subsec. (c)(2). Pub. L. 106–117, §114(b), struck out “during the last thirty days of such person's enlistment period or tour of duty” before period at end of first sentence.
 
-1997—Pub. L. 105–114, §202(b)(2), substituted “Treatment and rehabilitative services for persons with drug and alcohol dependency” for “Treatment and rehabilitation for alcohol or drug dependence or abuse disabilities” in section catchline.
+<b>1997</b>—Pub. L. 105–114, §202(b)(2), substituted “Treatment and rehabilitative services for persons with drug and alcohol dependency” for “Treatment and rehabilitation for alcohol or drug dependence or abuse disabilities” in section catchline.
 
 Subsecs. (a) to (d). Pub. L. 105–114, §202(b)(1), redesignated subsecs. (b) to (d) as (a) to (c), respectively, and struck out former subsec. (a) which read as follows:
 
@@ -66,11 +66,11 @@ Subsecs. (e) to (g). Pub. L. 105–114, §202(b)(1)(B), struck out subsecs. (e) 
 
 “(g) The authority of the Secretary to enter into contracts under this section shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.”
 
-1996—Subsec. (e). Pub. L. 104–110 substituted “December 31, 1997” for “December 31, 1995”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–110 substituted “December 31, 1997” for “December 31, 1995”.
 
-1994—Subsec. (e). Pub. L. 103–452 substituted “December 31, 1995” for “December 31, 1994”.
+<b>1994</b>—Subsec. (e). Pub. L. 103–452 substituted “December 31, 1995” for “December 31, 1994”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 620A of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 620A of this title as this section.
 
 Subsecs. (a), (b). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
@@ -90,7 +90,7 @@ Pub. L. 102–54 struck out “during the period” before “beginning” in pa
 
 Subsec. (g). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1988—Subsec. (e). Pub. L. 100–689, §502(a)(1), substituted “1991” for “1988”.
+<b>1988</b>—Subsec. (e). Pub. L. 100–689, §502(a)(1), substituted “1991” for “1988”.
 
 Subsec. (f). Pub. L. 100–689, §502(b), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
 
@@ -136,7 +136,7 @@ Subsec. (f). Pub. L. 100–689, §502(b), amended subsec. (f) generally. Prior t
 
 Subsec. (f)(1). Pub. L. 100–687 substituted “during the period beginning on December 1, 1988, and ending on October 1, 1997” for “before October 1, 1997” in par. (1) as amended by Pub. L. 100–689 above.
 
-1985—Pub. L. 99–166, §101(b)(1), struck out “; pilot program” after “disabilities” in section catchline.
+<b>1985</b>—Pub. L. 99–166, §101(b)(1), struck out “; pilot program” after “disabilities” in section catchline.
 
 Subsec. (a)(1). Pub. L. 99–166, §101(a)(1), struck out “may conduct a pilot program under which the Administrator” before “may contract” in first sentence, and struck out second sentence relating to the planning, designing, and conducting of a pilot program by the Chief Medical Director so as to demonstrate any medical advantages and cost effectiveness that might result from furnishing care and services to disabled veterans in contract facilities as authorized by this section, rather than in facilities over which the Administrator had jurisdiction.
 
@@ -146,11 +146,11 @@ Pub. L. 99–108 substituted “October 31, 1985” for “the last day of the f
 
 Subsec. (f). Pub. L. 99–166, §101(a)(3), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Not later than March 31, 1984, the Administrator shall report to the Committee on Veterans’ Affairs of the Senate and House of Representatives on the findings and recommendations of the Administrator pertaining to the operation through September 30, 1983, of the pilot program authorized by this section.”
 
-1982—Subsec. (d)(1). Pub. L. 97–258 substituted “sections 1535 and 1536 of title 31” for “the Act of March 4, 1915 (31 U.S.C 686)” after “provisions of”.
+<b>1982</b>—Subsec. (d)(1). Pub. L. 97–258 substituted “sections 1535 and 1536 of title 31” for “the Act of March 4, 1915 (31 U.S.C 686)” after “provisions of”.
 
 Subsec. (f). Pub. L. 97–251 substituted “March 31, 1984” and “September 30, 1983” for “March 31, 1983” and “September 30, 1982”, respectively.
 
-1979—Subsec. (a)(1). Pub. L. 96–128, §501(c)(1), substituted “treatment facilities for” for “treatment facilities of”.
+<b>1979</b>—Subsec. (a)(1). Pub. L. 96–128, §501(c)(1), substituted “treatment facilities for” for “treatment facilities of”.
 
 Subsec. (d)(2). Pub. L. 96–128, §501(c)(2), substituted “such request unless” for “such request, unless”.
 
@@ -178,7 +178,7 @@ Pub. L. 110–387, title I, §§102–105, Oct. 10, 2008, 122 Stat. 4112–4114,
 
 &emsp;“(4) While the Veterans Health Administration has dramatically increased health services for veterans from 1996 through 2006, the number of veterans receiving specialized substance use disorder treatment services decreased 18 percent during that time. No comparable decrease in the national rate of substance use disorder has been observed during that time.
 
-&emsp;“(5) While some facilities of the Veterans Health Administration provide exemplary substance use disorder treatment services, the availability of such treatment services throughout the health care system of the Veterans Health Administration is inconsistent.
+&emsp;“(5) While some facilities of the Veterans Health Administration provide exemplary substance use disorder treatment services, the availability of suchtreatment services throughout the health care system of the Veterans Health Administration is inconsistent.
 
 &emsp;“(6) According to a 2006 report by the Government Accountability Office, the Department of Veterans Affairs significantly reduced its substance use disorder treatment and rehabilitation services between 1996 and 2006, and the Fiscal Year 2007 National Mental Health Program Monitoring System report shows that little progress has been made in restoring these services to their pre-1996 levels.
 
@@ -314,7 +314,7 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 #### Ratification of Actions During Period of Expired Authority
 
-Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during periodbeginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
+Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
 
 #### Report on Consolidation of Certain Programs
 

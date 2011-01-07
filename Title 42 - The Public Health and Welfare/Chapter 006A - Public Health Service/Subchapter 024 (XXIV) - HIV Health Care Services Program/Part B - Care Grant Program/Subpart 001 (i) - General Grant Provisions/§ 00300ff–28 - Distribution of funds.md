@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(bb) all statutory changes necessary to provide for sufficiently accurate and reliable reporting of such cases had been made; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the State had agreed that, by April 1, 2008, the State will begin accurate andreliable names-based reporting of such cases, except that such agreement is not required to provide that, as of such date, the system for such reporting be fully sufficient with respect to accuracy and reliability throughout the area.
+&emsp;&emsp;&emsp;&emsp;(II) the State had agreed that, by April 1, 2008, the State will begin accurate and reliable names-based reporting of such cases, except that such agreement is not required to provide that, as of such date, the system for such reporting be fully sufficient with respect to accuracy and reliability throughout the area.
 
 #### (iv) Requirement for exemption as of fiscal year 2008
 
@@ -118,7 +118,7 @@
 
 #### (II) Applicability of exemption requirements
 
-&emsp;&emsp;&emsp;&emsp;The provisions of clauses (ii) through (vii) may not be construed as having any legal effect for fiscal year 2013 or any subsequent fiscal year, and accordingly, the status of a State for purposes of such clauses may not be considered after fiscal year 2012.
+&emsp;&emsp;&emsp;&emsp;The provisions of clauses (ii) through (vii) may not be construed as having anylegal effect for fiscal year 2013 or any subsequent fiscal year, and accordingly, the status of a State for purposes of such clauses may not be considered after fiscal year 2012.
 
 #### (ix) Program for detecting inaccurate or fraudulent counting
 
@@ -192,7 +192,7 @@
 
 #### (ii) Fiscal years 2011 and 2012
 
-&emsp;&emsp;&emsp;For each of the fiscal years 2011 and 2012, the Secretary shall ensure that the totalfor a State of the grant pursuant to paragraph (1) and the grant pursuant to subparagraph (F) is not less than 100 percent of such total for the State for fiscal year 2010.
+&emsp;&emsp;&emsp;For each of the fiscal years 2011 and 2012, the Secretary shall ensure that the total for a State of the grant pursuant to paragraph (1) and the grant pursuant to subparagraph (F) is not less than 100 percent of such total for the State for fiscal year 2010.
 
 #### (iii) Fiscal year 2013
 
@@ -250,7 +250,7 @@
 
 #### (i) Requirement
 
-&emsp;&emsp;&emsp;Each State that receives a grant under section 300ff–21 of this title shall provide for the establishment of a clinical quality management program to assess the extent to which HIV health services provided to patients under the grant are consistent with the most recent Public Health Service guidelines for the treatment of HIV/AIDS and related opportunistic infection, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines for improvement in the access to and quality of HIV health services.
+&emsp;&emsp;&emsp;Each State that receives a grant under section 300ff–21 of this title shall provide for the establishment of a clinical quality management program to assess the extent to which HIV health services provided topatients under the grant are consistent with the most recent Public Health Service guidelines for the treatment of HIV/AIDS and related opportunistic infection, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines for improvement in the access to and quality of HIV health services.
 
 #### (ii) Use of funds
 
@@ -268,7 +268,7 @@
 
 #### (4) Limitation on use of funds
 
-&emsp;Except as provided in paragraph (5), a State may not use more than a total of 15 percent of amounts received under a grant awarded undersection 300ff–21 of this title for the purposes described in paragraphs (2) and (3).
+&emsp;Except as provided in paragraph (5), a State may not use more than a total of 15 percent of amounts received under a grant awarded under section 300ff–21 of this title for the purposes described in paragraphs (2) and (3).
 
 #### (5) Exception
 
@@ -300,7 +300,7 @@ Any portion of a grant made to a State under section 300ff–21 of this title fo
 
 #### Amendments
 
-2009—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
 Subsec. (a)(2)(A)(i). Pub. L. 111–87, §5(c)(1), substituted “subparagraph (F)” for “subparagraph (G)”.
 
@@ -334,7 +334,7 @@ Subsec. (a)(2)(H)(iii). Pub. L. 111–87, §5(b)(4), added cl. (iii). Former cl.
 
 Subsec. (a)(2)(H)(v). Pub. L. 111–87, §5(b)(5), substituted “2013” for “2009”.
 
-2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+<b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
 Subsec. (a)(1). Pub. L. 109–415, §204(a), substituted “section 300ff–21 of this title” for “this part” in introductory provisions.
 
@@ -352,7 +352,7 @@ Pub. L. 109–415, §203(g)(2)(B)(ii), substituted “covered State” for “St
 
 Subsec. (a)(1)(B). Pub. L. 109–415, §203(g)(3), substituted “each territory other than Guam and the Virgin Islands” for “each territory of the United States, as defined in paragraph (3),”.
 
-Subsec. (a)(2)(A). Pub. L. 109–415, §203(b)(1)(A), in introductory provisions substituted “For purposes of paragraph (1), the amount referred to in this paragraph for a State (including a territory) for a fiscal year is,subject to subparagraphs (E) and (F)” for “The amount referred to in paragraph (1)(A)(ii) for a State and paragraph (1)(B) for a territory of the United States shall be the product of”, added cl. (i), and struck out former cl. (i) which read as follows:
+Subsec. (a)(2)(A). Pub. L. 109–415, §203(b)(1)(A), in introductory provisions substituted “For purposes of paragraph (1), the amount referred to in this paragraph for a State (including a territory) for a fiscal year is, subject to subparagraphs (E) and (F)” for “The amount referred to in paragraph (1)(A)(ii) for a State and paragraph (1)(B) for a territory of the United States shall be the product of”, added cl. (i), and struck out former cl. (i) which read as follows:
 
 “(i) an amount equal to the amount appropriated under section 300ff–77 of this title for the fiscal year involved for grants under this part, subject to subparagraphs (H) and (I); and”.
 
@@ -378,7 +378,7 @@ Pub. L. 109–415, §203(b)(2), struck out heading and text of subpar. (E). Text
 
 Subsec. (a)(2)(F). Pub. L. 109–415, §203(b)(4), redesignated subpar. (I) as (F).
 
-Pub. L. 109–415, §203(b)(2), struck out heading and text of supar. (F). Text read as follows: “For purposes of subparagraph (D), the cost index for Puerto Rico, the Virgin Islands, and Guam shall be 1.0.”
+Pub. L. 109–415, §203(b)(2), struck out heading and text of subpar. (F). Text read as follows: “For purposes of subparagraph (D), the cost index for Puerto Rico, the Virgin Islands, and Guam shall be 1.0.”
 
 Subsec. (a)(2)(F)(i). Pub. L. 109–415, §203(c)(1), which directed amendment of subsec. (a)(2)(G)(i) by substituting “section 300ff–31b of this title” for “section 300ff–77 of this title” in introductory provisions, substituting a semicolon for a period at end of subcl. (II), and adding concluding provisions, was executed by making the amendment to subsec. (a)(2)(F)(i), to reflect the probable intent of Congress.
 
@@ -430,7 +430,7 @@ Subsec. (c)(1). Pub. L. 109–415, §204(a), substituted “section 300ff–21 o
 
 Subsec. (d). Pub. L. 109–415, §203(f), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any amounts appropriated in any fiscal year and made available to a State under this part that have not been obligated as described in subsection (d) of this section shall be repaid to the Secretary and reallotted to other States in proportion to the original grants made to such States.”
 
-2000—Subsec. (a). Pub. L. 106–345, §206(a)(1), redesignated subsec. (b) as (a).
+<b>2000</b>—Subsec. (a). Pub. L. 106–345, §206(a)(1), redesignated subsec. (b) as (a).
 
 Subsec. (a)(1)(A)(i). Pub. L. 106–345, §206(a)(2), substituted “$200,000” for “$100,000” in subcl. (I) and “$500,000” for “$250,000” in subcl. (II).
 
@@ -456,11 +456,11 @@ Subsec. (a)(3)(B). Pub. L. 106–345, §206(f), substituted “the Republic of t
 
 Subsecs. (b) to (e). Pub. L. 106–345, §206(a)(1), redesignated subsecs. (c) to (e) as (b) to (d), respectively.
 
-1998—Subsec. (b)(3)(A). Pub. L. 105–392, §417(1), substituted “, the Commonwealth of Puerto Rico, the Virgin Islands, and Guam” for “and the Commonwealth of Puerto Rico”.
+<b>1998</b>—Subsec. (b)(3)(A). Pub. L. 105–392, §417(1), substituted “, the Commonwealth of Puerto Rico, the Virgin Islands, and Guam” for “and the Commonwealth of Puerto Rico”.
 
 Subsec. (b)(3)(B). Pub. L. 105–392, §417(2), struck out “the Virgin Islands, Guam” after “means”.
 
-1996—Subsec. (a). Pub. L. 104–146, §3(g)(2), struck out subsec. (a) which related to special projects of national significance.
+<b>1996</b>—Subsec. (a). Pub. L. 104–146, §3(g)(2), struck out subsec. (a) which related to special projects of national significance.
 
 Subsec. (a)(1). Pub. L. 104–146, §6(c)(3)(A), which directed amendment of subsec. (a)(1) by substituting “section 300ff–77” for “section 300ff–30”, could not be executed because of the repeal of subsec. (a) by Pub. L. 104–146, §3(g)(2). See above.
 
@@ -492,11 +492,11 @@ Administration.—A State may not use in excess of 5 percent of amounts received
 
 Subsec. (c)(5) to (7). Pub. L. 104–146, §3(c)(5)(C), (D), added pars. (5) and (6) and redesignated former par. (5) as (7).
 
-1992—Subsec. (c)(1). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Subsec. (c)(1). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
 #### Effective Date of 2009 Amendment; Revival of Section
 
-For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, that the provisions of this section as in effect on Sept. 30, 2009, be revived, and that amendment by sections 3(b), 5(b), (c)(1), 7(b), and 10(b) of Pub. L. 111–87 be applicable to this section as so revived and effective as if enacted on Sept. 30, 2009, see section 2(a)(2), (3) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, that the provisions of this section as ineffect on Sept. 30, 2009, be revived, and that amendment by sections 3(b), 5(b), (c)(1), 7(b), and 10(b) of Pub. L. 111–87 be applicable to this section as so revived and effective as if enacted on Sept. 30, 2009, see section 2(a)(2), (3) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
 #### Effective Date of 1996 Amendment
 

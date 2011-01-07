@@ -12,7 +12,7 @@ The United States shall initiate a program, consistent with the aims of section 
 
 #### (b) Energy assessments and cooperative projects
 
-Such program shall include cooperation in evaluating the energy alternatives of developingcountries, facilitating international trade in energy commodities, developing energy resources, and applying suitable energy technologies. The program shall include both general and country-specific energy assessments and cooperative projects in resource exploration and production, training, research and development.
+Such program shall include cooperation in evaluating the energy alternatives of developing countries, facilitating international trade in energy commodities, developing energy resources, and applying suitable energy technologies. The program shall include both general and country-specific energy assessments and cooperative projects in resource exploration and production, training, research and development.
 
 #### (c) Exchange of scientists, technicians, and energy experts
 
@@ -37,4 +37,6 @@ Section 2151q of this title, referred to in subsec. (e), was repealed by Pub. L.
 #### Feasibility of Expanding Cooperative Activities Into International Cooperative Effort; Presidential Report to Congress Not Later Than March 10, 1979
 
 Section 503 of Pub. L. 95–242 directed President, not later than twelve months after Mar. 10, 1978, to report to Congress on feasibility of expanding cooperative activities established pursuant to subsec. (c) of this section into an international cooperative effort to include a scientific peace corps designed to encourage large numbers of technically trained volunteers to live and work in developing countries for varying periods of time for purpose of engaging in projects to aid in meeting the energy needs of such countries through search for and utilization of indigenous energy resources and application of suitable technology, including widespread utilization of renewable and unconventional energy technologies, and to also include in report a discussion of other mechanisms to conduct a coordinated international effort to develop, demonstrate, and encourage utilization of such technologies in developing countries.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

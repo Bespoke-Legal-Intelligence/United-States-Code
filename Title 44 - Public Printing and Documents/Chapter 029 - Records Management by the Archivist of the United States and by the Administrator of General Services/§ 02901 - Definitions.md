@@ -60,9 +60,9 @@ A prior section 2901, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1295, related to
 
 #### Amendments
 
-2002—Par. (13). Pub. L. 107–217 substituted “section 102 of title 40” for “section 3(a) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472(a))”.
+<b>2002</b>—Par. (13). Pub. L. 107–217 substituted “section 102 of title 40” for “section 3(a) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472(a))”.
 
-1984—Pub. L. 98–497, §107(b)(13)(A), struck out reference to chapter 27 in provisions preceding par. (1).
+<b>1984</b>—Pub. L. 98–497, §107(b)(13)(A), struck out reference to chapter 27 in provisions preceding par. (1).
 
 Par. (2). Pub. L. 98–497, §107(b)(13)(B), inserted “in order to achieve adequate and proper documentation of the policies and transactions of the Federal Government and effective and economical management of agency operations”.
 

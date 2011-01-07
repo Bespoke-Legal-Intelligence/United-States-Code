@@ -84,10 +84,6 @@ This Act, referred to in subsecs. (b)(2) and (c)(1)(B), is Pub. L. 98–603, Oct
 
 The Federal Land Policy and Management Act of 1976, as amended, referred to in subsec. (c)(1)(B), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
-The mining laws and the mineral leasing laws, referred to in subsec. (c)(2)(A), are classified generally to Title 30, Mineral Lands and Mining.
-
-Geothermal leasing laws, referred to in subsec. (c)(2)(A), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
-
 #### Codification
 
 November 12, 1996, referred to in subsec. (e)(1), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 104–333, which amended this section generally, to reflect the probable intent of Congress.
@@ -96,13 +92,13 @@ Section was enacted as part of the San Juan Basin Wilderness Protection Act of 1
 
 #### Amendments
 
-2000—Subsec. (b)(1). Pub. L. 106–176, §124(1), substituted “Committee on Resources” for “Committee on Natural Resources”.
+<b>2000</b>—Subsec. (b)(1). Pub. L. 106–176, §124(1), substituted “Committee on Resources” for “Committee on Natural Resources”.
 
 Subsec. (e)(1). Pub. L. 106–176, §124(2), which directed amendment of par. (1) by substituting “this subsection” for “this Act”, was executed by making the substitution following “consistent with”, to reflect the probable intent of Congress.
 
 Pub. L. 106–176, §124(1), substituted ‘Committee on Resources” for “Committee on Natural Resources”.
 
-1996—Pub. L. 104–333 amended section generally. Prior to amendment, section read as follows:
+<b>1996</b>—Pub. L. 104–333 amended section generally. Prior to amendment, section read as follows:
 
 “(a) In recognition of its paramount aesthetic, natural, scientific, educational, and paleontological values, the approximately two thousand seven hundred and twenty acre area in the Albuquerque District of the Bureau of Land Management, New Mexico, known as the ‘Fossil Forest’, as generally depicted on a map entitled ‘Fossil Forest’, dated June 1983, is hereby withdrawn, subject to valid existing rights, from all forms of appropriation under the mining laws and from disposition under all laws pertaining to mineral leasing and geothermal leasing and all amendments thereto. The Secretary of the Interior shall administer the area in accordance with the Federal Land Policy and Management Act and shall take such measures as are necessary to ensure that no activities are permitted within the area which would significantly disturb the land surface or impair the area's existing natural, educational, and scientific research values, including paleontological study, excavation, and interpretation.
 

@@ -20,5 +20,5 @@ Section 10103 requires that masters who engage or discharge seamen submit to the
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–206 struck out “without a shipping commissioner being present” after “discharges a seaman” and inserted “to the vessel owner” after “shall submit reports”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–206 struck out “without a shipping commissioner being present” after “discharges a seaman” and inserted “to the vessel owner” after “shall submit reports”.
 

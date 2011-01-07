@@ -20,7 +20,7 @@ and Above.—Subject to subsection (d), an officer who is on the reserve active-
 
 &emsp;(2) One year, in the case of an officer of the Army, Air Force, or Marine Corps holding a permanent appointment in the grade of colonel or brigadier general or in the case of a reserve officer of the Navy holding a permanent appointment in the grade of captain or rear admiral (lower half).
 
-> This subsection does not apply to an adjutant general or assistant adjutant general of a State or to an appointment in a higher grade which is based upon a specific provision of law.
+> This subsection does not apply to an adjutant general or assistant adjutant general of a Stateor to an appointment in a higher grade which is based upon a specific provision of law.
 
 (c)
 

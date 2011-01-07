@@ -18,9 +18,9 @@ Prohibitions of Duplicate Benefits.—Financial assistance may not be provided u
 
 #### Amendments
 
-2006—Subsec. (a)(1)(B). Pub. L. 109–163 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “to repay the United States an amount equal to the total amount paid to such person under the program.”
+<b>2006</b>—Subsec. (a)(1)(B). Pub. L. 109–163 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “to repay the United States an amount equal to the total amount paid to such person under the program.”
 
-1994—Pub. L. 103–337, §1663(c)(4), renumbered section 2130 of this title as this section and substituted “Penalties and limitations” for “Penalties, limitations, and other administrative provisions” as section catchline.
+<b>1994</b>—Pub. L. 103–337, §1663(c)(4), renumbered section 2130 of this title as this section and substituted “Penalties and limitations” for “Penalties, limitations, and other administrative provisions” as section catchline.
 
 Subsec. (c). Pub. L. 103–337, §1663(c)(4)(A), struck out subsec. (c) which related to regulations. See section 16204 of this title.
 

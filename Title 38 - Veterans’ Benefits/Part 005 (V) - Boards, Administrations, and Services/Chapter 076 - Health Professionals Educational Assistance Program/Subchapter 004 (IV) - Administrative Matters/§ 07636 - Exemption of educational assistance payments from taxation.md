@@ -6,7 +6,7 @@ Notwithstanding any other law, any payment to, or on behalf of a participant in 
 
 #### Amendments
 
-1998—Pub. L. 105–368 substituted “a stipend, or education debt reduction” for “or a stipend”.
+<b>1998</b>—Pub. L. 105–368 substituted “a stipend, or education debt reduction” for “or a stipend”.
 
-1991—Pub. L. 102–40 renumbered section 4336 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 4336 of this title as this section.
 

@@ -18,5 +18,5 @@ Pub. L. 111–85, title III, §308, Oct. 28, 2009, 123 Stat. 2872, provided that
 
 “(e) This transfer authority does not apply to supplemental appropriations, and is in addition to any other transfer authority provided in this or any other Act. The authority provided under this section shall expire on September 30, 2015.
 
-“(f) The Secretary shall notify the Committees on Appropriations of the House of Representatives and theSenate in writing not less than 30 days in advance of each transfer authorized by this section.”
+“(f) The Secretary shall notify the Committees on Appropriations of the House of Representatives and the Senate in writing not less than 30 days in advance of each transfer authorized by this section.”
 

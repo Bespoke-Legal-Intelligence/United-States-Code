@@ -2,7 +2,7 @@
 
 As used in this subchapter—
 
-(1) The term “construction” means any one or more of the following: preliminary planning todetermine the feasibility of treatment works, engineering, architectural, legal, fiscal, or economic investigations or studies, surveys, designs, plans, working drawings, specifications, procedures, field testing of innovative or alternative waste water treatment processes and techniques meeting guidelines promulgated under section 1314(d)(3) of this title, or other necessary actions, erection, building, acquisition, alteration, remodeling, improvement, or extension of treatment works, or the inspection or supervision of any of the foregoing items.
+(1) The term “construction” means any one or more of the following: preliminary planning to determine the feasibility of treatment works, engineering, architectural, legal, fiscal, or economic investigations or studies, surveys, designs, plans, working drawings, specifications, procedures, field testing of innovative or alternative waste water treatment processes and techniques meeting guidelines promulgated under section 1314(d)(3) of this title, or other necessary actions, erection, building, acquisition, alteration, remodeling, improvement, or extension of treatment works, or the inspection or supervision of any of the foregoing items.
 
 (2)(A) The term “treatment works” means any devices and systems used in the storage, treatment, recycling, and reclamation of municipal sewage or industrial wastes of a liquid nature to implement section 1281 of this title, or necessary to recycle or reuse water at the most economical cost over the estimated life of the works, including intercepting sewers, outfall sewers, sewage collection systems, pumping, power, and other equipment, and their appurtenances; extensions, improvements, remodeling, additions, and alterations thereof; elements essential to provide a reliable recycled supply such as standby treatment units and clear well facilities; and any works, including site acquisition of the land that will be an integral part of the treatment process (including land used for the storage of treated wastewater in land treatment systems prior to land application) or is used for ultimate disposal of residues resulting from such treatment.
 
@@ -16,7 +16,7 @@ As used in this subchapter—
 
 #### Amendments
 
-1981—Par. (1). Pub. L. 97–117 inserted “field testing of innovative or alternative waste water treatment processes and techniques meeting guidelines promulgated under section 1314(d)(3) of this title,” after “procedures,”.
+<b>1981</b>—Par. (1). Pub. L. 97–117 inserted “field testing of innovative or alternative waste water treatment processes and techniques meeting guidelines promulgated under section 1314(d)(3) of this title,” after “procedures,”.
 
-1977—Par. (2)(A). Pub. L. 95–217 inserted “(including land used for the storage of treated wastewater in land treatment systems prior to land application)” after “integral part of the treatment process”.
+<b>1977</b>—Par. (2)(A). Pub. L. 95–217 inserted “(including land used for the storage of treated wastewater in land treatment systems prior to land application)” after “integral part of the treatment process”.
 

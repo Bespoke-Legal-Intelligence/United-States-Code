@@ -22,7 +22,7 @@ In this section, the term “eligible entity” means—
 
 &emsp;The Secretary shall award grants, on a competitive basis, to not more than five eligible entities to enable the eligible entities to—
 
-&emsp;&emsp;(A) design, test, and implement systems of postsecondary student data that provide the maximum benefits to States, institutions of higher education, and State policymakers; and
+&emsp;&emsp;(A) design, test, and implement systems of postsecondary student data that provide themaximum benefits to States, institutions of higher education, and State policymakers; and
 
 &emsp;&emsp;(B) examine the costs and burdens involved in implementing a State-level postsecondary student data system.
 
@@ -74,7 +74,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### Amendments
 
-2009—Subsec. (d)(1). Pub. L. 111–39 substituted “(commonly known as the ‘Family Educational Rights and Privacy Act of 1974’)” for “(Family Educational Rights and Privacy Act of 1974)”.
+<b>2009</b>—Subsec. (d)(1). Pub. L. 111–39 substituted “(commonly known as the ‘Family Educational Rights and Privacy Act of 1974’)” for “(Family Educational Rights and Privacy Act of 1974)”.
 
 #### Effective Date of 2009 Amendment
 

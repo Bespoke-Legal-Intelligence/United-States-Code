@@ -20,7 +20,7 @@ Section was formerly set out as a note under section 285e–2 of this title prio
 
 #### Amendments
 
-1993—Pub. L. 103–43, §801(b)(1), reenacted section catchline without change.
+<b>1993</b>—Pub. L. 103–43, §801(b)(1), reenacted section catchline without change.
 
 Subsec. (a). Pub. L. 103–43, §801(b)(1), substituted in heading “In general” for “Grant authority” and in text substituted “Director of the Institute” for “Director of the National Institute on Aging”.
 

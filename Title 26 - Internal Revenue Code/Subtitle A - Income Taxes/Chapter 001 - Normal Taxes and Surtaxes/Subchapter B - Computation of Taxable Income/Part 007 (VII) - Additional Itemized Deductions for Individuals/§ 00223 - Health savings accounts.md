@@ -252,7 +252,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified medical expenses” means, with respect to an account beneficiary, amounts paid by such beneficiary for medical care (as defined in section 213(d) <sup>1</sup> for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise.
+&emsp;&emsp;The term “qualified medical expenses” means, with respect to an account beneficiary, amounts paid by such beneficiary for medical care (as defined in section 213(d) <sup>1</sup> for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
 
 #### (B) Health insurance may not be purchased from account
 
@@ -328,7 +328,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The tax imposed by this chapter on the account beneficiary for any taxable year in which there is a payment or distribution from a health savings account of such beneficiary which is includible in gross income under paragraph (2) shall be increased by 10 percent of the amount which is so includible.
+&emsp;&emsp;The tax imposed by this chapter on the account beneficiary for any taxable year in which there is a payment or distribution from a health savings account of such beneficiary which is includible in gross income under paragraph (2) shall be increased by 20 percent of the amount which is so includible.
 
 #### (B) Exception for disability or death
 
@@ -362,7 +362,7 @@ For purposes of this section—
 
 #### (A) Treatment if designated beneficiary is spouse
 
-&emsp;&emsp;If the account beneficiary's surviving spouse acquires such beneficiary's interest in a health savings account by reason ofbeing the designated beneficiary of such account at the death of the account beneficiary, such health savings account shall be treated as if the spouse were the account beneficiary.
+&emsp;&emsp;If the account beneficiary's surviving spouse acquires such beneficiary's interest in a health savings account by reason of being the designated beneficiary of such account at the death of the account beneficiary, such health savings account shall be treated as if the spouse were the account beneficiary.
 
 #### (B) Other cases
 
@@ -414,7 +414,7 @@ The Secretary may require—
 
 > The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required by the Secretary.
 
-(Added Pub. L. 108–173, title XII, §1201(a), Dec. 8, 2003, 117 Stat. 2469; amended Pub. L. 109–135, title IV, §404(c), Dec. 21, 2005, 119 Stat. 2634; Pub. L. 109–432, div. A, title III, §§302(b), 303(a), (b), 304, 305(a), 307(b), Dec. 20, 2006, 120 Stat. 2949, 2950, 2953.)
+(Added Pub. L. 108–173, title XII, §1201(a), Dec. 8, 2003, 117 Stat. 2469; amended Pub. L. 109–135, title IV, §404(c), Dec. 21, 2005, 119 Stat. 2634; Pub. L. 109–432, div. A, title III, §§302(b), 303(a), (b), 304, 305(a), 307(b), Dec. 20, 2006, 120 Stat. 2949, 2950, 2953; Pub. L. 111–148, title IX, §§9003(a), 9004(a), Mar. 23, 2010, 124 Stat. 854.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -430,7 +430,11 @@ A prior section 223 was renumbered section 224 of this title.
 
 #### Amendments
 
-2006—Subsec. (b)(2)(A). Pub. L. 109–432, §303(a)(1), substituted “$2,250.” for “the lesser of—
+<b>2010</b>—Subsec. (d)(2)(A). Pub. L. 111–148, §9003(a), inserted at end “Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.”
+
+Subsec. (f)(4)(A). Pub. L. 111–148, §9004(a), substituted “20 percent” for “10 percent”.
+
+<b>2006</b>—Subsec. (b)(2)(A). Pub. L. 109–432, §303(a)(1), substituted “$2,250.” for “the lesser of—
 
 &emsp;“(i) the annual deductible under such coverage, or
 
@@ -452,11 +456,17 @@ Subsec. (d)(1)(A)(ii)(I). Pub. L. 109–432, §303(b), substituted “subsection
 
 Subsec. (g)(1). Pub. L. 109–432, §304, inserted concluding provisions.
 
-2005—Subsec. (d)(2)(A). Pub. L. 109–135 inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
+<b>2005</b>—Subsec. (d)(2)(A). Pub. L. 109–135 inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 9003(a) of Pub. L. 111–148 applicable to amounts paid with respect to taxable years beginning after Dec. 31, 2010, see section 9003(d)(1) of Pub. L. 111–148, set out as a note under section 220 of this title.
+
+Amendment by section 9004(a) of Pub. L. 111–148 applicable to distributions made after Dec. 31, 2010, see section 9004(c) of Pub. L. 111–148, set out as a note under section 220 of this title.
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. A, title III, §302(c)(2), Dec. 20, 2006, 120 Stat. 2949, provided that: “The amendmentmade by subsection (b) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 20, 2006\].”
+Pub. L. 109–432, div. A, title III, §302(c)(2), Dec. 20, 2006, 120 Stat. 2949, provided that: “The amendment made by subsection (b) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 20, 2006\].”
 
 Pub. L. 109–432, div. A, title III, §303(c), Dec. 20, 2006, 120 Stat. 2950, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2006.”
 
@@ -476,11 +486,13 @@ Section applicable to taxable years beginning after Dec. 31, 2003, see section 1
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
-2010—Revenue Procedure 2009–29.
+<b>2011</b>—Revenue Procedure 2010–22.
 
-2009—Revenue Procedure 2008–29.
+<b>2010</b>—Revenue Procedure 2009–29.
 
-2008—Revenue Procedure 2007–36.
+<b>2009</b>—Revenue Procedure 2008–29.
+
+<b>2008</b>—Revenue Procedure 2007–36.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a second closing parenthesis.</i>
 

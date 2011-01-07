@@ -18,7 +18,7 @@
 
 &emsp;(3) he is entitled, notwithstanding other statutes—
 
-&emsp;&emsp;(A) to continuation of his insurance under chapter 87 of this title, and coverage under chapter 89 of this title or other applicable authority, so long as he pays currently into the Employee's Life Insurance Fund and the Employee's Health Benefits Fund or other applicable health benefits system (through his employing agency) the amount of the employee contributions;
+&emsp;&emsp;(A) to continuation of his insurance under chapter 87 of this title, and coverage under chapter 89 of this title or other applicableauthority, so long as he pays currently into the Employee's Life Insurance Fund and the Employee's Health Benefits Fund or other applicable health benefits system (through his employing agency) the amount of the employee contributions;
 
 &emsp;&emsp;(B) to credit the period of his assignment under this subchapter toward periodic step-increases, retention, and leave accrual purposes, and, on payment into the Civil Service Retirement and Disability Fund or other applicable retirement system of the percentage of his State or local government pay, and of his supplemental pay, if any, that would have been deducted from a like agency pay for the period of the assignment and payment by the Federal agency into the fund or system of the amount that would have been payable by the agency during the period of the assignment with respect to a like agency pay, to treat his service during that period as service of the type performed in the agency immediately before his assignment; and
 

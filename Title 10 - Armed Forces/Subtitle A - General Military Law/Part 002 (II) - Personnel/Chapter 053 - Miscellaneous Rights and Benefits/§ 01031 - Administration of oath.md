@@ -28,5 +28,5 @@ The words “(including the reserve component)” are omitted, since the words �
 
 #### Amendments
 
-2006—Pub. L. 109–364 substituted “The President, the Vice-President, the Secretary of Defense, any commissioned officer, and any other person designated under regulations prescribed by the Secretary of Defense may administer any oath” for “Any commissioned officer of any component of an armed force, whether or not on active duty, may administer any oath” in introductory provisions.
+<b>2006</b>—Pub. L. 109–364 substituted “The President, the Vice-President, the Secretary of Defense, any commissioned officer, and any other person designated under regulations prescribed by the Secretary of Defense may administer any oath” for “Any commissioned officer of any component of an armed force, whether or not on active duty, may administer any oath” in introductory provisions.
 

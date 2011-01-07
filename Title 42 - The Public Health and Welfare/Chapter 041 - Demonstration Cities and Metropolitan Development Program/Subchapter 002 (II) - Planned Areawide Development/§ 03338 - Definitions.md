@@ -46,13 +46,13 @@ In par. (2), “section 5309 of title 49” substituted for “section 3 of the 
 
 #### Amendments
 
-1996—Par. (2). Pub. L. 104–208 struck out “title II of the Library Services and Construction Act;” before “section 606 of the Public Health Service Act”.
+<b>1996</b>—Par. (2). Pub. L. 104–208 struck out “title II of the Library Services and Construction Act;” before “section 606 of the Public Health Service Act”.
 
-1991—Par. (2). Pub. L. 102–240 substituted “Federal Transit Act” for “Urban Mass Transportation Act of 1964”.
+<b>1991</b>—Par. (2). Pub. L. 102–240 substituted “Federal Transit Act” for “Urban Mass Transportation Act of 1964”.
 
-1970—Par. (2). Pub. L. 91–258 inserted “section 19 of the Airport and Airway Development Act of 1970;” after “section 12 of the Federal Airport Act;”.
+<b>1970</b>—Par. (2). Pub. L. 91–258 inserted “section 19 of the Airport and Airway Development Act of 1970;” after “section 12 of the Federal Airport Act;”.
 
-1968—Par. (1). Pub. L. 90–448, §602(e)(1), substituted “Areawide development” for “Metropolitan development.”
+<b>1968</b>—Par. (1). Pub. L. 90–448, §602(e)(1), substituted “Areawide development” for “Metropolitan development.”
 
 Par. (2). Pub. L. 90–448, §602(e)(1), substituted “Areawide development project” for “Metropolitan development project”.
 

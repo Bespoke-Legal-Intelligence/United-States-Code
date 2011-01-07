@@ -1,5 +1,5 @@
 
-42 U.S.C.<br>United States Code, 2009 Edition<br>Title 42 - THE PUBLIC HEALTH AND WELFARE<br>From the U.S. Government Publishing Office, www.gpo.gov
+42 U.S.C.<br>United States Code, 2010 Edition<br>Title 42 - THE PUBLIC HEALTH AND WELFARE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 42—THE PUBLIC HEALTH AND WELFARE
 
@@ -51,9 +51,9 @@
 | [<b>23.</b>](Chapter%20023%20-%20Development%20and%20Control%20of%20Atomic%20Energy/README.md) | <b>Development and Control of Atomic Energy</b> | <b>2011</b> |
 | [<b>24.</b>](Chapter%20024%20-%20Disposal%20of%20Atomic%20Energy%20Communities/README.md) | <b>Disposal of Atomic Energy Communities</b> | <b>2301</b> |
 | [<b>25.</b>](Chapter%20025%20-%20Federal%20Flood%20Insurance/README.md) | <b>Federal Flood Insurance</b> | <b>2401</b> |
-| [<b>26.</b>](Chapter%20026%20-%20National%20Space%20Program/README.md) | <b>National Space Program</b> | <b>2451</b> |
-| [<b>26A.</b>](Chapter%20026A%20-%20National%20Space%20Grant%20College%20and%20Fellowship%20Program/README.md) | <b>National Space Grant College and Fellowship Program</b> | <b>2486</b> |
-| [<b>26B.</b>](Chapter%20026B%20-%20Biomedical%20Research%20in%20Space/README.md) | <b>Biomedical Research in Space</b> | <b>2487</b> |
+| [<b>26.</b>](Chapter%20026%20-%20National%20Space%20Program/README.md) | <b>National Space Program \[Repealed, Omitted, or Transferred\]</b> | <b>2451</b> |
+| [<b>26A.</b>](Chapter%20026A%20-%20National%20Space%20Grant%20College%20and%20Fellowship%20Program/README.md) | <b>National Space Grant College and Fellowship Program \[Repealed or Transferred\]</b> | <b>2486</b> |
+| [<b>26B.</b>](Chapter%20026B%20-%20Biomedical%20Research%20in%20Space/README.md) | <b>Biomedical Research in Space \[Repealed or Transferred\]</b> | <b>2487</b> |
 | [<b>27.</b>](Chapter%20027%20-%20Loan%20Service%20of%20Captioned%20Films%20and%20Educational%20Media%20for%20Handicapped/README.md) | <b>Loan Service of Captioned Films and Educational Media for Handicapped</b> | <b>2491</b> |
 | [<b>28.</b>](Chapter%20028%20-%20Area%20Redevelopment%20Program/README.md) | <b>Area Redevelopment Program \[Omitted or Repealed\]</b> | <b>2501</b> |
 | [<b>29.</b>](Chapter%20029%20-%20Juvenile%20Delinquency%20and%20Youth%20Offenses%20Control/README.md) | <b>Juvenile Delinquency and Youth Offenses Control \[Omitted\]</b> | <b>2541</b> |
@@ -174,7 +174,7 @@
 | [<b>139.</b>](Chapter%20139%20-%20Volunteer%20Protection/README.md) | <b>Volunteer Protection</b> | <b>14501</b> |
 | [<b>140.</b>](Chapter%20140%20-%20Criminal%20Justice%20Identification%2C%20Information%2C%20and%20Communication/README.md) | <b>Criminal Justice Identification, Information, and Communication</b> | <b>14601</b> |
 | [<b>140A.</b>](Chapter%20140A%20-%20Jennifer%27s%20Law/README.md) | <b>Jennifer's Law</b> | <b>14661</b> |
-| [<b>141.</b>](Chapter%20141%20-%20Commercial%20Space%20Opportunities%20and%20Transportation%20Services/README.md) | <b>Commercial Space Opportunities and Transportation Services</b> | <b>14701</b> |
+| [<b>141.</b>](Chapter%20141%20-%20Commercial%20Space%20Opportunities%20and%20Transportation%20Services/README.md) | <b>Commercial Space Opportunities and Transportation Services \[Repealed or Transferred\]</b> | <b>14701</b> |
 | [<b>142.</b>](Chapter%20142%20-%20Poison%20Control%20Center%20Enhancement%20and%20Awareness/README.md) | <b>Poison Control Center Enhancement and Awareness \[Repealed\]</b> | <b>14801</b> |
 | [<b>143.</b>](Chapter%20143%20-%20Intercountry%20Adoptions/README.md) | <b>Intercountry Adoptions</b> | <b>14901</b> |
 | [<b>144.</b>](Chapter%20144%20-%20Developmental%20Disabilities%20Assistance%20and%20Bill%20of%20Rights/README.md) | <b>Developmental Disabilities Assistance and Bill of Rights</b> | <b>15001</b> |
@@ -184,13 +184,16 @@
 | [<b>147.</b>](Chapter%20147%20-%20Prison%20Rape%20Elimination/README.md) | <b>Prison Rape Elimination</b> | <b>15601</b> |
 | [<b>148.</b>](Chapter%20148%20-%20Windstorm%20Impact%20Reduction/README.md) | <b>Windstorm Impact Reduction</b> | <b>15701</b> |
 | [<b>149.</b>](Chapter%20149%20-%20National%20Energy%20Policy%20and%20Programs/README.md) | <b>National Energy Policy and Programs</b> | <b>15801</b> |
-| [<b>150.</b>](Chapter%20150%20-%20National%20Aeronautics%20and%20Space%20Programs%2C%202005/README.md) | <b>National Aeronautics and Space Programs, 2005</b> | <b>16601</b> |
+| [<b>150.</b>](Chapter%20150%20-%20National%20Aeronautics%20and%20Space%20Programs%2C%202005/README.md) | <b>National Aeronautics and Space Programs, 2005 \[Repealed, Omitted, or Transferred\]</b> | <b>16601</b> |
 | [<b>151.</b>](Chapter%20151%20-%20Child%20Protection%20and%20Safety/README.md) | <b>Child Protection and Safety</b> | <b>16901</b> |
 | [<b>152.</b>](Chapter%20152%20-%20Energy%20Independence%20and%20Security/README.md) | <b>Energy Independence and Security</b> | <b>17001</b> |
 | [<b>153.</b>](Chapter%20153%20-%20Community%20Safety%20Through%20Recidivism%20Prevention/README.md) | <b>Community Safety Through Recidivism Prevention</b> | <b>17501</b> |
 | [<b>154.</b>](Chapter%20154%20-%20Combating%20Child%20Exploitation/README.md) | <b>Combating Child Exploitation</b> | <b>17601</b> |
-| [<b>155.</b>](Chapter%20155%20-%20Aeronautics%20and%20Space%20Activities/README.md) | <b>Aeronautics and Space Activities</b> | <b>17701</b> |
+| [<b>155.</b>](Chapter%20155%20-%20Aeronautics%20and%20Space%20Activities/README.md) | <b>Aeronautics and Space Activities \[Repealed, Omitted, or Transferred\]</b> | <b>17701</b> |
 | [<b>156.</b>](Chapter%20156%20-%20Health%20Information%20Technology/README.md) | <b>Health Information Technology</b> | <b>17901</b> |
+| [<b>157.</b>](Chapter%20157%20-%20Quality%2C%20Affordable%20Health%20Care%20for%20All%20Americans/README.md) | <b>Quality, Affordable Health Care for All Americans</b> | <b>18001</b> |
+| [<b>158.</b>](Chapter%20158%20-%20Support%20for%20Pregnant%20and%20Parenting%20Teens%20and%20Women/README.md) | <b>Support for Pregnant and Parenting Teens and Women</b> | <b>18201</b> |
+| [<b>159.</b>](Chapter%20159%20-%20Space%20Exploration%2C%20Technology%2C%20and%20Science/README.md) | <b>Space Exploration, Technology, and Science</b> | <b>18301</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -385,3 +388,6 @@
 - [Chapter 154 - Combating Child Exploitation](Chapter%20154%20-%20Combating%20Child%20Exploitation/README.md)
 - [Chapter 155 - Aeronautics and Space Activities](Chapter%20155%20-%20Aeronautics%20and%20Space%20Activities/README.md)
 - [Chapter 156 - Health Information Technology](Chapter%20156%20-%20Health%20Information%20Technology/README.md)
+- [Chapter 157 - Quality, Affordable Health Care for All Americans](Chapter%20157%20-%20Quality%2C%20Affordable%20Health%20Care%20for%20All%20Americans/README.md)
+- [Chapter 158 - Support for Pregnant and Parenting Teens and Women](Chapter%20158%20-%20Support%20for%20Pregnant%20and%20Parenting%20Teens%20and%20Women/README.md)
+- [Chapter 159 - Space Exploration, Technology, and Science](Chapter%20159%20-%20Space%20Exploration%2C%20Technology%2C%20and%20Science/README.md)

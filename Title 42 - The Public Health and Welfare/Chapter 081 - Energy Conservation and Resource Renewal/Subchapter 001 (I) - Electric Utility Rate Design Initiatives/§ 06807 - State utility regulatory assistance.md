@@ -28,5 +28,5 @@ The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (a), 
 
 #### Amendments
 
-1978—Pub. L. 95–617 substituted provisions relating to grants to State utility regulatory commissions and nonregulated electric utilities for provisions authorizing appropriations to carry out this subchapter.
+<b>1978</b>—Pub. L. 95–617 substituted provisions relating to grants to State utility regulatory commissions and nonregulated electric utilities for provisions authorizing appropriations to carry out this subchapter.
 

@@ -6,7 +6,7 @@ On and after January 1, 1974, any claim for benefits for death or total disabili
 
 #### (b) Adequacy of compensation; listing of States providing adequate compensation; requisites for listing
 
-(1) For purposes of this section, a State workmen's compensation law shall not be deemed to provide adequate coverage for pneumoconiosis during any period unless it is included in the list of State laws found by the Secretary to provide such adequate coverage during such period. The Secretary shall, no later than October 1, 1972, publish in the Federal Register a list of State workmen's compensation laws which provide adequate coverage for pneumoconiosis and shall revise and republish in the Federal Register such list from time to time, as may be appropriate to reflect changes in such State laws due to legislation or judicial or administrative interpretation.
+(1) For purposes of this section, a State workmen's compensation law shall not be deemed to provide adequate coverage for pneumoconiosis during any period unless it is included in the list of State laws found by the Secretary to provide such adequate coverage during such period. The Secretary shall, no later than October 1, 1972, publish in the Federal Register a list of Stateworkmen's compensation laws which provide adequate coverage for pneumoconiosis and shall revise and republish in the Federal Register such list from time to time, as may be appropriate to reflect changes in such State laws due to legislation or judicial or administrative interpretation.
 
 (2) The Secretary shall include a State workmen's compensation law on such list during any period only if he finds that during such period under such law—
 
@@ -36,7 +36,7 @@ Public Law 803, 69th Congress, referred to in subsec. (b)(2)(F), is act Mar. 4, 
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–239, §3(b)(3), inserted reference to cases in which benefits based upon eligibility under par. (5) of section 921(c) of this title are involved.
+<b>1978</b>—Subsec. (a). Pub. L. 95–239, §3(b)(3), inserted reference to cases in which benefits based upon eligibility under par. (5) of section 921(c) of this title are involved.
 
 Subsec. (b)(2)(A). Pub. L. 95–239, §6(a), added the exceptions set out in cls. (i) and (ii).
 
@@ -44,7 +44,7 @@ Subsec. (b)(2)(C). Pub. L. 95–239, §6(b), substituted “established under th
 
 Subsec. (b)(2)(D). Pub. L. 95–239, §6(c), substituted “total disability of a miner due to pneumoconiosis is deemed to be timely filed if such claim is filed within three years after a medical determination of total disability due to pneumoconiosis” for “total disability or death of a miner due to pneumoconiosis is deemed to be timely filed if such claim is filed within three years of the discovery of total disability due to pneumoconiosis, or the date of such death, as the case may be”.
 
-1972—Subsec. (a). Pub. L. 92–303, §§1(c)(1), 5(3), substituted “widows, children, parents, brothers, or sisters, as the case may be,” for “widows” and “1974” for “1973”.
+<b>1972</b>—Subsec. (a). Pub. L. 92–303, §§1(c)(1), 5(3), substituted “widows, children, parents, brothers, or sisters, as the case may be,” for “widows” and “1974” for “1973”.
 
 Subsec. (b)(2)(C). Pub. L. 92–303, §4(e), substituted “section 902(f) of this title and to those standards established under part B of this subchapter” for “those established by section 921 of this title”.
 

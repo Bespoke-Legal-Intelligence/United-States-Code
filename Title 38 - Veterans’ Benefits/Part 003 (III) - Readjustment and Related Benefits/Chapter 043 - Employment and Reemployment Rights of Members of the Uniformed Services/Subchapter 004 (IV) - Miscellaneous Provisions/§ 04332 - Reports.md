@@ -64,7 +64,7 @@ A prior section 4332 was renumbered section 7632 of this title.
 
 #### Amendments
 
-2008—Pub. L. 110–389, §312(a), (b)(1), designated existing provisions as subsec. (a), inserted heading, and substituted “, transmit to Congress not later than July 1 each year a report on matters for the fiscal year ending in the year before the year in which such report is transmitted as follows:” for “and no later than February 1, 2005, and annually thereafter, transmit to the Congress, a report containing the following matters for the fiscal year ending before such February 1:” in introductory provisions.
+<b>2008</b>—Pub. L. 110–389, §312(a), (b)(1), designated existing provisions as subsec. (a), inserted heading, and substituted “, transmit to Congress not later than July 1 each year a report on matters for the fiscal year ending in the year before the year in which such report is transmitted as follows:” for “and no later than February 1, 2005, and annually thereafter, transmit to the Congress, a report containing the following matters for the fiscal year ending before such February 1:” in introductory provisions.
 
 Pub. L. 110–181 added par. (2), redesignated former pars. (2) to (6) as (3) to (7), respectively, and in par. (5) substituted “(2), (3), or (4)” for “(2), or (3)”.
 
@@ -74,7 +74,7 @@ Subsec. (a)(5) to (10). Pub. L. 110–389, §312(b)(3)–(7), added pars. (5), (
 
 Subsecs. (b), (c). Pub. L. 110–389, §312(c), (d), added subsecs. (b) and (c).
 
-2004—Pub. L. 108–454 substituted “no later than February 1, 2005, and annually thereafter” for “no later than February 1, 1996, and annually thereafter through 2000” in introductory provisions.
+<b>2004</b>—Pub. L. 108–454 substituted “no later than February 1, 2005, and annually thereafter” for “no later than February 1, 1996, and annually thereafter through 2000” in introductory provisions.
 
 #### Effective Date of 2008 Amendment
 

@@ -10,7 +10,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 #### Amendments
 
-1977—Pub. L. 95–128 substituted “national urban policy” for “national urban growth policy”, encouragedprudent use and conservation of energy, and provided for the assurance of the residents of the communities, and of good housing.
+<b>1977</b>—Pub. L. 95–128 substituted “national urban policy” for “national urban growth policy”, encouraged prudent use and conservation of energy, and provided for the assurance of the residents of the communities, and of good housing.
 
 #### Short Title
 

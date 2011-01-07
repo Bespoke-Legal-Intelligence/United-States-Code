@@ -10,15 +10,15 @@ There are authorized to be appropriated, such sums as may be necessary, but not 
 
 #### Amendments
 
-1986—Pub. L. 99–546 inserted “and effective October 1, 1986, not to exceed an additional $600,000,000” and inserted provisions at end limiting allocation for projects in any single State to 20 percent of additional funds authorized to be appropriated effective Oct. 1, 1986, authorizing waiver of that limitation, and requiring submission of waiver decision to Congress.
+<b>1986</b>—Pub. L. 99–546 inserted “and effective October 1, 1986, not to exceed an additional $600,000,000” and inserted provisions at end limiting allocation for projects in any single State to 20 percent of additional funds authorized to be appropriated effective Oct. 1, 1986, authorizing waiver of that limitation, and requiring submission of waiver decision to Congress.
 
-1980—Pub. L. 96–336 substituted “$600,000,000” for “$400,000,000”.
+<b>1980</b>—Pub. L. 96–336 substituted “$600,000,000” for “$400,000,000”.
 
-1975—Pub. L. 94–181 substituted “$400,000,000” for “$300,000,000”.
+<b>1975</b>—Pub. L. 94–181 substituted “$400,000,000” for “$300,000,000”.
 
-1971—Pub. L. 92–167 substituted “$300,000,000” for “$200,000,000”.
+<b>1971</b>—Pub. L. 92–167 substituted “$300,000,000” for “$200,000,000”.
 
-1966—Pub. L. 89–553 substituted “$200,000,000” for “$100,000,000”.
+<b>1966</b>—Pub. L. 89–553 substituted “$200,000,000” for “$100,000,000”.
 
 #### Effective Date of 1980 Amendment
 

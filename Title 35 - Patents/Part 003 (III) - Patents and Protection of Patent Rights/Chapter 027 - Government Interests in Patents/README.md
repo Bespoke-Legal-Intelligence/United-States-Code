@@ -9,7 +9,7 @@
 
 #### Amendments
 
-1965—Pub. L. 89–83, §8, July 24, 1965, 79 Stat. 261, struck out item 266 “Issue of patents without fees to Government employees”.
+<b>1965</b>—Pub. L. 89–83, §8, July 24, 1965, 79 Stat. 261, struck out item 266 “Issue of patents without fees to Government employees”.
 
 
 ---

@@ -20,13 +20,13 @@ This chapter, referred to in subsec. (c), was in the original “this Act”, me
 
 #### Amendments
 
-2007—Pub. L. 109–479 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
+<b>2007</b>—Pub. L. 109–479 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
-1996—Pub. L. 104–297 substituted “shall promote the achievement of optimum yield” for “promoting the objective of optimum utilization”.
+<b>1996</b>—Pub. L. 104–297 substituted “shall promote the achievement of optimum yield” for “promoting the objective of optimum utilization”.
 
-1990—Pub. L. 101–627 amended section generally. Prior to amendment, section read as follows: “The sovereign rights and exclusive fishery management authority asserted by the United States under section 1811 of this title over fish do not include, and may not be construed to extend to, highly migratory species of fish.”
+<b>1990</b>—Pub. L. 101–627 amended section generally. Prior to amendment, section read as follows: “The sovereign rights and exclusive fishery management authority asserted by the United States under section 1811 of this title over fish do not include, and may not be construed to extend to, highly migratory species of fish.”
 
-1986—Pub. L. 99–659 amended section generally. Prior to amendment, section read as follows: “The United States shall exercise exclusive fishery management authority, in the manner provided for in this chapter, over the following:
+<b>1986</b>—Pub. L. 99–659 amended section generally. Prior to amendment, section read as follows: “The United States shall exercise exclusive fishery management authority, in the manner provided for in this chapter, over the following:
 
 &emsp;“(1) All fish within the fishery conservation zone.
 

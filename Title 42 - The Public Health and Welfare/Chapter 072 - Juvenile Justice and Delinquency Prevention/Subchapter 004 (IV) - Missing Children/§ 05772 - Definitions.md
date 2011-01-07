@@ -16,7 +16,7 @@ A prior section 403 of Pub. L. 93–415 amended section 3883 of this title, and 
 
 #### Amendments
 
-2006—Par. (1). Pub. L. 109–295, which directed amendment of par. (1) by striking out “or” at the end of subpar. (A), inserting “or” after the semicolon in subpar. (B), and adding after subpar. (B) subpar. (C) “the individual is an individual under 21 years of age who is displaced from the habitual residence of that individual as a result of an emergency or major disaster (as those terms are defined in section 5122 of this title).”, could not be executed because of the prior amendment by Pub. L. 109–248, see below.
+<b>2006</b>—Par. (1). Pub. L. 109–295, which directed amendment of par. (1) by striking out “or” at the end of subpar. (A), inserting “or” after the semicolon in subpar. (B), and adding after subpar. (B) subpar. (C) “the individual is an individual under 21 years of age who is displaced from the habitual residence of that individual as a result of an emergency or major disaster (as those terms are defined in section 5122 of this title).”, could not be executed because of the prior amendment by Pub. L. 109–248, see below.
 
 Pub. L. 109–248, which directed amendment of “Section 403(1) of the Comprehensive Crime Control Act of 1984 (42 U.S.C. 5772)” by substituting a semicolon at end for “if—” through subpar. (B), was executed by substituting a semicolon for “if—”and subpars. (A) and (B) of par. (1) of this section, which is section 403 of the Juvenile Justice and Delinquency Prevention Act of 1974, Pub. L. 93–415, as added by section 660 of the Comprehensive Crime Control Act of 1984, to reflect the probable intent of Congress. Prior to amendment, subpars. (A) and (B) read as follows:
 
@@ -24,5 +24,5 @@ Pub. L. 109–248, which directed amendment of “Section 403(1) of the Comprehe
 
 “(B) the circumstances of the case strongly indicate that such individual is likely to be abused or sexually exploited;”.
 
-1999—Par. (3). Pub. L. 106–71 added par. (3).
+<b>1999</b>—Par. (3). Pub. L. 106–71 added par. (3).
 

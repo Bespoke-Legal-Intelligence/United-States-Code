@@ -50,7 +50,7 @@ Any project assisted under this section may provide such services as—
 
 &emsp;(6) special services, including mathematics and science preparation, to enable veterans to make the transition to postsecondary education; and
 
-&emsp;(7) programs and activities as described in subsection (b), subsection (c), or paragraphs (1)through (6) of this subsection that are specially designed for students who are limited English proficient, students from groups that are traditionally underrepresented in postsecondary education, students with disabilities, students who are homeless children and youths (as such term is defined in section 11434a of title 42), students who are in foster care or are aging out of the foster care system, or other disconnected students.
+&emsp;(7) programs and activities as described in subsection (b), subsection (c), or paragraphs (1) through (6) of this subsection that are specially designed for students who are limited English proficient, students from groups that are traditionally underrepresented in postsecondary education, students with disabilities, students who are homeless children and youths (as such term is defined in section 11434a of title 42), students who are in foster care or are aging out of the foster care system, or other disconnected students.
 
 #### (e) Requirements for approval of applications
 
@@ -82,13 +82,13 @@ Youths participating in a project proposed to be carried out under any applicati
 
 #### (h) Absolute priority prohibited in Upward Bound Program
 
-Upon enactment of this subsection and except as otherwise expressly provided by amendment to this section, the Secretary shall not continue, implement, or enforce the absolute priority for the Upward Bound Program published by the Department of Education in the Federal Register on September 22, 2006 (71 Fed. Reg. 55447 et seq.). This subsection shall not be applied retroactively. In implementing this subsection, the Department shall allow the programs and participants chosen in the grant cycle to which the priority applies to continue their grants and participation without a further recompetition. The entities shall not be required to apply the absolute priority conditions or restrictions to future participants.
+Upon enactment of this subsection and except as otherwise expressly provided by amendmentto this section, the Secretary shall not continue, implement, or enforce the absolute priority for the Upward Bound Program published by the Department of Education in the Federal Register on September 22, 2006 (71 Fed. Reg. 55447 et seq.). This subsection shall not be applied retroactively. In implementing this subsection, the Department shall allow the programs and participants chosen in the grant cycle to which the priority applies to continue their grants and participation without a further recompetition. The entities shall not be required to apply the absolute priority conditions or restrictions to future participants.
 
 (Pub. L. 89–329, title IV, §402C, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 487; amended Pub. L. 103–208, §2(b)(10), Dec. 20, 1993, 107 Stat. 2459; Pub. L. 105–244, title IV, §402(c), Oct. 7, 1998, 112 Stat. 1654; Pub. L. 110–84, title I, §103, Sept. 27, 2007, 121 Stat. 786; Pub. L. 110–315, title IV, §403(c), Aug. 14, 2008, 122 Stat. 3199.)
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–315, §403(c)(1), added subsec. (b) and struck out former subsec. (b) which related to permissible services.
+<b>2008</b>—Subsec. (b). Pub. L. 110–315, §403(c)(1), added subsec. (b) and struck out former subsec. (b) which related to permissible services.
 
 Subsec. (c). Pub. L. 110–315, §403(c)(2), substituted “Additional required services for multiple-year grant recipients” for “Required services” in heading and “project assisted under this section” for “upward bound project assisted under this division” in text.
 
@@ -106,9 +106,9 @@ Subsec. (g). Pub. L. 110–315, §403(c)(3), redesignated subsec. (f) as (g).
 
 Subsec. (h). Pub. L. 110–315, §403(c)(7), added subsec. (h).
 
-2007—Subsec. (f). Pub. L. 110–84 added subsec. (f).
+<b>2007</b>—Subsec. (f). Pub. L. 110–84 added subsec. (f).
 
-1998—Subsec. (b)(2). Pub. L. 105–244, §402(c)(1)(A), substituted “counseling and workshops” for “personal counseling”.
+<b>1998</b>—Subsec. (b)(2). Pub. L. 105–244, §402(c)(1)(A), substituted “counseling and workshops” for “personal counseling”.
 
 Subsec. (b)(9). Pub. L. 105–244, §402(c)(1)(B), inserted “or counselors” after “teachers” and struck out “and” after semicolon.
 
@@ -120,7 +120,7 @@ Pub. L. 105–244, §402(c)(1)(C), redesignated par. (10) as (12).
 
 Subsec. (e). Pub. L. 105–244, §402(c)(2), substituted “except that youth participating in a work-study position under subsection (b)(10) of this section may be paid a stipend of $300 per month during June, July, and August. Youths participating in a project proposed to be carried out under any application may be paid stipends not in excess of $40 per month during the remaining period of the year.” for “and not in excess of $40 per month during the remaining period of the year.”
 
-1993—Subsec. (c). Pub. L. 103–208 substituted “foreign” for “and foreign”.
+<b>1993</b>—Subsec. (c). Pub. L. 103–208 substituted “foreign” for “and foreign”.
 
 #### Effective Date of 2007 Amendment
 

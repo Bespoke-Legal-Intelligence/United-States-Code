@@ -92,7 +92,7 @@ Regulations.—The Secretary shall prescribe regulations necessary to carry out 
 
 (f)
 
-Financial Plan.—A recipient of financial assistance for a project under this chapter withan estimated total cost of $1,000,000,000 or more shall submit to the Secretary an annual financial plan for the project. The plan shall be based on detailed annual estimates of the cost to complete the remaining elements of the project and on reasonable assumptions, as determined by the Secretary, of future increases in the cost to complete the project.
+Financial Plan.—A recipient of financial assistance for a project under this chapter with an estimated total cost of $1,000,000,000 or more shall submit to the Secretary an annual financial plan for the project. The plan shall be based on detailed annual estimates of the cost to complete the remaining elements of the project and on reasonable assumptions, as determined by the Secretary, of future increases in the cost to complete the project.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 826; Pub. L. 103–429, §6(12), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 104–287, §5(17), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3024, June 9, 1998, 112 Stat. 364; Pub. L. 109–59, title III, §3026, Aug. 10, 2005, 119 Stat. 1622.)
 
@@ -164,17 +164,17 @@ The National Capital Transportation Act of 1969, referred to in subsecs. (a) and
 
 #### Amendments
 
-2005—Subsec. (a)(13). Pub. L. 109–59, §3026(a), added par. (13).
+<b>2005</b>—Subsec. (a)(13). Pub. L. 109–59, §3026(a), added par. (13).
 
 Subsec. (c). Pub. L. 109–59, §3026(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) specified limitations on use of available amounts for certain purposes.
 
-1998—Subsec. (c)(2). Pub. L. 105–178, §3024(a), substituted “enter into contracts” for “make contracts” and inserted “and to provide technical assistance to correct deficiencies identified in compliance reviews and audits carried out under this section” before period at end of first sentence.
+<b>1998</b>—Subsec. (c)(2). Pub. L. 105–178, §3024(a), substituted “enter into contracts” for “make contracts” and inserted “and to provide technical assistance to correct deficiencies identified in compliance reviews and audits carried out under this section” before period at end of first sentence.
 
 Subsec. (f). Pub. L. 105–178, §3024(b), added subsec. (f).
 
-1996—Subsec. (c)(1). Pub. L. 104–287 substituted “to carry out a major project under section 5309” for “to carry out a major project under section 5307”.
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–287 substituted “to carry out a major project under section 5309” for “to carry out a major project under section 5307”.
 
-1994—Subsec. (c)(1). Pub. L. 103–429 substituted “section 5307, 5309, 5311, or 103(e)(4) or that Act” for “section 5307, 5309, 5311, or 103(e)(4) of that Act”.
+<b>1994</b>—Subsec. (c)(1). Pub. L. 103–429 substituted “section 5307, 5309, 5311, or 103(e)(4) or that Act” for “section 5307, 5309, 5311, or 103(e)(4) of that Act”.
 
 #### Effective Date of 1996 Amendment
 

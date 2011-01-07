@@ -48,7 +48,7 @@ In subsection (b) the words “on the active list” are inserted in order to ex
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–513, §324(a), substituted provision allowing the appointment of “persons” in the line of the Navy as regular officers for provision allowing the appointment of males only to the active list in the line of the Navy as officers, struck out provision specifying the rank designation of appointees, and struck out provision limiting the number of appointments under subsec. (a) to the number of vacancies that the Secretary of the Navy estimated would occur in a particular fiscal year in the grades and designations concerned.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513, §324(a), substituted provision allowing the appointment of “persons” in the line of the Navy as regular officers for provision allowing the appointment of males only to the active list in the line of the Navy as officers, struck out provision specifying the rank designation of appointees, and struck out provision limiting the number of appointments under subsec. (a) to the number of vacancies that the Secretary of the Navy estimated would occur in a particular fiscal year in the grades and designations concerned.
 
 Subsec. (b). Pub. L. 96–513, §324(b), substituted “a regular officer” for “any officer on the active list”.
 
@@ -56,9 +56,9 @@ Subsec. (c). Pub. L. 96–513, §324(c), substituted “public affairs, psycholo
 
 Subsec. (d). Pub. L. 96–513, §324(d), struck out “are additional numbers in grade. They” after “special duty”.
 
-1968—Subsec. (c). Pub. L. 90–386 enumerated the types of engineering duty and aeronautical engineering duty for which officers may be designated.
+<b>1968</b>—Subsec. (c). Pub. L. 90–386 enumerated the types of engineering duty and aeronautical engineering duty for which officers may be designated.
 
-1967—Subsec. (c). Pub. L. 90–179 struck out “law,” after “communications,”.
+<b>1967</b>—Subsec. (c). Pub. L. 90–179 struck out “law,” after “communications,”.
 
 #### Effective Date of 1980 Amendment
 

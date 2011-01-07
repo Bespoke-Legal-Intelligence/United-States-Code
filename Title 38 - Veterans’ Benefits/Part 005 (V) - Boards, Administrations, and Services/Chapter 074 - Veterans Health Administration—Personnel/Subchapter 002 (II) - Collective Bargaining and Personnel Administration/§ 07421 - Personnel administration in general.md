@@ -28,7 +28,7 @@ Provisions similar to those in this section were contained in section 4108(a) of
 
 #### Amendments
 
-2003—Subsec. (b)(8). Pub. L. 108–170 added par. (8).
+<b>2003</b>—Subsec. (b)(8). Pub. L. 108–170 added par. (8).
 
 #### Effective Date of 2003 Amendment
 

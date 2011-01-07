@@ -1,7 +1,5 @@
 ### SUBCHAPTER I—FINANCIAL ASSISTANCE TO LOCAL EDUCATIONAL AGENCIES FOR THE EDUCATION OF INDIAN CHILDREN
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

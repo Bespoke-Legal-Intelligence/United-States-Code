@@ -119,7 +119,7 @@
 
 #### Part 2—Adjustment Assistance for Workers
 
-I74subpart a—petitions and determinations
+#### subpart a—petitions and determinations
 
 |  |  |
 | :--- | ---: |
@@ -208,7 +208,7 @@ I74subpart a—petitions and determinations
 
 #### Part 4—Trade Adjustment Assistance for Communities
 
-I74subpart a—trade adjustment assistance for communities
+#### subpart a—trade adjustment assistance for communities
 
 |  |  |
 | :--- | ---: |

@@ -44,7 +44,7 @@ Effective Date of Election.—An election made by a person under subsection (a) 
 
 #### Amendments
 
-2009—Pub. L. 111–84, §643(e)(1), substituted “Retirement for service in an active status performed in the Selected Reserve of the Ready Reserve after eligibility for regular retirement” for “Retirement from active reserve service performed after regular retirement” in section catchline.
+<b>2009</b>—Pub. L. 111–84, §643(e)(1), substituted “Retirement for service in an active status performed in the Selected Reserve of the Ready Reserve after eligibility for regular retirement” for “Retirement from active reserve service performed after regular retirement” in section catchline.
 
 Subsec. (a). Pub. L. 111–84, §643(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
@@ -64,9 +64,9 @@ Subsec. (d)(1). Pub. L. 111–84, §643(c)(1), substituted “attains the eligib
 
 Subsec. (d)(2)(A). Pub. L. 111–84, §643(c)(2), substituted “attains the eligibility age applicable to the person under such section” for “attains 60 years of age”.
 
-2006—Subsecs. (c), (d). Pub. L. 109–364 substituted “subsection (a)” for “subsection (b)”.
+<b>2006</b>—Subsecs. (c), (d). Pub. L. 109–364 substituted “subsection (a)” for “subsection (b)”.
 
-2001—Subsec. (a)(2). Pub. L. 107–107 substituted “receive” for “received”.
+<b>2001</b>—Subsec. (a)(2). Pub. L. 107–107 substituted “receive” for “received”.
 
 #### Effective Date
 

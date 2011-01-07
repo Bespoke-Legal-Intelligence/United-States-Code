@@ -14,7 +14,7 @@ The Institute shall—
 
 #### (c) Evaluation and audit
 
-The Secretary of Commerce may periodically evaluate the activities of the Institute to ensurethat funds received by the Institute are used in a manner consistent with this section. The Federal Advisory Committee Act \[5 U.S.C. App.\] shall not apply to the Institute.
+The Secretary of Commerce may periodically evaluate the activities of the Institute to ensure that funds received by the Institute are used in a manner consistent with this section. The Federal Advisory Committee Act \[5 U.S.C. App.\] shall not apply to the Institute.
 
 #### (d) Status of employees
 
@@ -38,7 +38,7 @@ Public Law 105–83, referred to in subsec. (e), is Pub. L. 105–83, Nov. 14, 1
 
 #### Amendments
 
-2000—Subsec. (c). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(1)(A)\], inserted second sentence and struck out former second sentence which read as follows: “The Comptroller General of the United States, and any of his or her duly authorized representatives, shall have access, for purposes of audit and examination, to any books, documents, papers, and records of the Institute that are pertinent to the funds received and expended by the Institute.”
+<b>2000</b>—Subsec. (c). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(1)(A)\], inserted second sentence and struck out former second sentence which read as follows: “The Comptroller General of the United States, and any of his or her duly authorized representatives, shall have access, for purposes of audit and examination, to any books, documents, papers, and records of the Institute that are pertinent to the funds received and expended by the Institute.”
 
 Subsec. (e). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(1)(B)\], inserted at end “The administrative funds of the Institute and the administrative funds of the North Pacific Research Board created under Public Law 105–83 may be used to jointly administer such programs at the discretion of the North Pacific Research Board.”
 

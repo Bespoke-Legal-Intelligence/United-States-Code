@@ -25,6 +25,7 @@
 |  |  |
 | :--- | ---: |
 | [2021\.](Subchapter%20003%20%28III%29%20-%20Training%20and%20Outreach/%C2%A7%2002021%20-%20Homeless%20veterans%20reintegration%20programs.md) | Homeless veterans reintegration programs. |
+| [2021A.](Subchapter%20003%20%28III%29%20-%20Training%20and%20Outreach/%C2%A7%2002021A%20-%20Homeless%20women%20veterans%20and%20homeless%20veterans%20with%20children%20reintegration%20grant%20program.md) | Homeless women veterans and homeless veterans with children reintegration grant program. |
 | [2022\.](Subchapter%20003%20%28III%29%20-%20Training%20and%20Outreach/%C2%A7%2002022%20-%20Coordination%20of%20outreach%20services%20for%20veterans%20at%20risk%20of%20homelessness.md) | Coordination of outreach services for veterans at risk of homelessness. |
 | [2023\.](Subchapter%20003%20%28III%29%20-%20Training%20and%20Outreach/%C2%A7%2002023%20-%20Referral%20and%20counseling%20services%20veterans%20at%20risk%20of%20homelessness%20who%20are%20transitioning%20from%20certain%20institutions.md) | Referral and counseling services: veterans at risk of homelessness who are transitioning from certain institutions. |
 
@@ -78,7 +79,9 @@
 
 #### Amendments
 
-2008—Pub. L. 110–387, title VI, §§602(e), 604(b)(2), Oct. 10, 2008, 122 Stat. 4132, 4136, substituted “Referral and counseling services: veterans at risk of homelessness who are transitioning from certain institutions” for “Demonstration program of referral and counseling for veterans transitioning from certain institutions who are at risk for homelessness” in item 2023 and added item 2044.
+<b>2010</b>—Pub. L. 111–275, title II, §202(b), Oct. 13, 2010, 124 Stat. 2874, added item 2021A.
+
+<b>2008</b>—Pub. L. 110–387, title VI, §§602(e), 604(b)(2), Oct. 10, 2008, 122 Stat. 4132, 4136, substituted “Referral and counseling services: veterans at risk of homelessness who are transitioning from certain institutions” for “Demonstration program of referral and counseling for veterans transitioning from certain institutions who are at risk for homelessness” in item 2023 and added item 2044.
 
 
 ---

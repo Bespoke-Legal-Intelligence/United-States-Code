@@ -10,5 +10,5 @@ This chapter, referred to in text, was in the original a reference to “this ti
 
 #### Amendments
 
-1990—Pub. L. 101–508 substituted “and floodplain management programs authorized under this chapter may be paid with amounts from the National Flood Insurance Fund (as provided under section 4017(a)(4) of this title), subject to approval in appropriations Acts” for “program authorized under this chapter may be paid out of appropriated funds”.
+<b>1990</b>—Pub. L. 101–508 substituted “and floodplain management programs authorized under this chapter may be paid with amounts from the National Flood Insurance Fund (as provided under section 4017(a)(4) of this title), subject to approval in appropriations Acts” for “program authorized under this chapter may be paid out of appropriated funds”.
 

@@ -8,7 +8,7 @@ Section 1834, act May 28, 1956, ch. 327, title I, §110, 70 Stat. 194, authorize
 
 Section 1835, act May 28, 1956, ch. 327, title I, §111, 70 Stat. 195, authorized Secretary to purchase or produce conservation materials and services and make them available to producers under conservation reserve program.
 
-Section 1836, acts May 28, 1956, ch. 327, title I, §112, 70 Stat. 195; Sept. 14, 1960, Pub. L. 86–793, §2, 74 Stat. 1030, prohibited reduction of cropland acreage by reason of any action taken in carrying out a conservation reserve program contract and required inclusion of acreage changed from cultivated cropland to permanent vegetation as acreage devoted to commodity for purpose of determining future acreage allotments.
+Section 1836, acts May 28, 1956, ch. 327, title I, §112, 70 Stat. 195; Sept. 14, 1960, Pub. L. 86–793, §2, 74 Stat. 1030, prohibited reduction of cropland acreage by reason of any action taken in carrying out a conservation reserve program contract and required inclusion of acreage changed from cultivated cropland to permanentvegetation as acreage devoted to commodity for purpose of determining future acreage allotments.
 
 Section 1837, acts May 28, 1956, ch. 327, title I, §113, 70 Stat. 195; June 25, 1959, Pub. L. 86–70, §5, 73 Stat. 142; July 12, 1960, Pub. L. 86–624, §3, 74 Stat. 411, authorized Secretary to apply Soil Bank Program to Puerto Rico and Virgin Islands in addition to several States if such application would be in national interest.
 

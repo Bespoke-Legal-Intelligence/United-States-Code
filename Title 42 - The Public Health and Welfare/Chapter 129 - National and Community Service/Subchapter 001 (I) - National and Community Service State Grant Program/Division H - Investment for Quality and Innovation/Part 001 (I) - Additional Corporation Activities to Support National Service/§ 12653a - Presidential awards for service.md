@@ -44,7 +44,7 @@ Another prior section 12653a, Pub. L. 101–610, title I, §195A, as added Pub. 
 
 #### Amendments
 
-2009—Subsec. (a)(2). Pub. L. 111–13, §1804, substituted “section 12511” for “section 12511(19)”.
+<b>2009</b>—Subsec. (a)(2). Pub. L. 111–13, §1804, substituted “section 12511” for “section 12511(19)”.
 
 #### Effective Date of 2009 Amendment
 

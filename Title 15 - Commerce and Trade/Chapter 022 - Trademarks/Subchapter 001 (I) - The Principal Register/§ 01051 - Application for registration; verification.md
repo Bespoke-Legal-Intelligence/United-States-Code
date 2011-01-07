@@ -56,7 +56,7 @@ At any time during examination of an application filed under subsection (b) of t
 
 #### (d) Verified statement that trademark is used in commerce
 
-(1) Within six months after the date on which the notice of allowance with respect to a mark is issued under section 1063(b)(2) of this title to an applicant under subsection (b) of this section, the applicant shall file in the Patent and Trademark Office, together with such number of specimens or facsimiles of the mark as used in commerce as may be required by the Director and payment of the prescribed fee, a verified statement that the mark is in use in commerce and specifying the date of the applicant's first use of the mark in commerce and those goods or services specified in the notice of allowance on or in connection with which the mark is used in commerce. Subject to examination and acceptance of the statement of use, the mark shall beregistered in the Patent and Trademark Office, a certificate of registration shall be issued for those goods or services recited in the statement of use for which the mark is entitled to registration, and notice of registration shall be published in the Official Gazette of the Patent and Trademark Office. Such examination may include an examination of the factors set forth in subsections (a) through (e) of section 1052 of this title. The notice of registration shall specify the goods or services for which the mark is registered.
+(1) Within six months after the date on which the notice of allowance with respect to a mark is issued under section 1063(b)(2) of this title to an applicant under subsection (b) of this section, the applicant shall file in the Patent and Trademark Office, together with such number of specimens or facsimiles of the mark as used in commerce as may be required by the Director and payment of the prescribed fee, a verified statement that the mark is in use in commerce and specifying the date of the applicant's first use of the mark in commerce and those goods or services specified in the notice of allowance on or in connection with which the mark is used in commerce. Subject to examination and acceptance of the statement of use, the mark shall be registered in the Patent and Trademark Office, a certificate of registration shall be issued for those goods or services recited in the statement of use for which the mark is entitled to registration, and notice of registration shall be published in the Official Gazette of the Patent and Trademark Office. Such examination may include an examination of the factors set forth in subsections (a) through (e) of section 1052 of this title. The notice of registration shall specify the goods or services for which the mark is registered.
 
 (2) The Director shall extend, for one additional 6-month period, the time for filing the statement of use under paragraph (1), upon written request of the applicant before the expiration of the 6-month period provided in paragraph (1). In addition to an extension under the preceding sentence, the Director may, upon a showing of good cause by the applicant, further extend the time for filing the statement of use under paragraph (1) for periods aggregating not more than 24 months, pursuant to written request of the applicant made before the expiration of the last extension granted under this paragraph. Any request for an extension under this paragraph shall be accompanied by a verified statement that the applicant has a continued bona fide intention to use the mark in commerce and specifying those goods or services identified in the notice of allowance on or in connection with which the applicant has a continued bona fide intention to use the mark in commerce. Any request for an extension under this paragraph shall be accompanied by payment of the prescribed fee. The Director shall issue regulations setting forth guidelines for determining what constitutes good cause for purposes of this paragraph.
 
@@ -78,13 +78,13 @@ Subsec. (d) is from act Feb. 20, 1905, ch. 592, §3, 33 Stat. 725.
 
 #### Amendments
 
-2002—Subsec. (d)(1). Pub. L. 107–273, §13207(b)(1), in first sentence, substituted “specifying the date of the applicant's first use of the mark in commerce and those goods or services specified in the notice of allowance on or in connection with which the mark is used in commerce.” for “specifying the date of the applicant's first use of the mark in commerce and,, those goods or services specified in the notice of allowance on or in connection with which the mark is used in commerce.”
+<b>2002</b>—Subsec. (d)(1). Pub. L. 107–273, §13207(b)(1), in first sentence, substituted “specifying the date of the applicant's first use of the mark in commerce and those goods or services specified in the notice of allowance on or in connection with which the mark is used in commerce.” for “specifying the date of the applicant's first use of the mark in commerce and,, those goods or services specified in the notice of allowance on or in connection with which the mark is used in commerce.”
 
 Subsec. (e). Pub. L. 107–273, §13207(b)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) required applicant not domiciled in United States to designate name and address of some person resident in the United States on whom may be served notices or process in proceedings affecting the mark and provided that notices or process be served by leaving with such person or mailing to him a copy, or upon Director if designated person cannot be found.
 
-1999—Subsecs. (a), (b), (d), (e). Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
+<b>1999</b>—Subsecs. (a), (b), (d), (e). Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
 
-1998—Subsec. (a). Pub. L. 105–330, §103(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to application by owner of a trademark used in commerce to register the trademark by filing in the Patent and Trademark Office a written application in prescribed form and verified by applicant, by paying prescribed fee, and by complying with prescribed rules or regulations.
+<b>1998</b>—Subsec. (a). Pub. L. 105–330, §103(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to application by owner of a trademark used in commerce to register the trademark by filing in the Patent and Trademark Office a written application in prescribed form and verified by applicant, by paying prescribed fee, and by complying with prescribed rules or regulations.
 
 Subsec. (b). Pub. L. 105–330, §103(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to application, by person with bona fide intention, under circumstances showing good faith, to use a trademark in commerce, to register trademark by filing in the Patent and Trademark Office a written application in prescribed form and verified by applicant, by paying prescribed fee, and by complying with prescribed rules or regulations.
 
@@ -92,17 +92,17 @@ Subsec. (d)(1). Pub. L. 105–330, §201(a)(1)(A), inserted “and,” after “
 
 Pub. L. 105–330, §201(a)(1)(B), which directed the striking out of “and, the mode or manner in which the mark is used on or in connection with such goods or services”, was executed by striking out “, and the mode or manner in which the mark is used on or in connection with such goods or services” after “notice of allowance on or in connection with which the mark is used in commerce”, to reflect the probable intent of Congress.
 
-Subsec. (d)(4). Pub. L. 105–330, §103(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The failure to timely file a verified statement ofuse under this subsection shall result in abandonment of the application.”
+Subsec. (d)(4). Pub. L. 105–330, §103(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The failure to timely file a verified statement of use under this subsection shall result in abandonment of the application.”
 
-1988—Subsec. (a). Pub. L. 100–667, §103(1) to (7), inserted “(a)” preceding introductory provisions and substituted “may apply to register his or her” for “may register his”, redesignated former subsecs. (a) to (c) as pars. (1) to (3), respectively, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, in par. (1)(A), substituted “used on or in connection with” for “applied to” and “goods on or in connection” for “goods in connection”, in par. (1)(C), struck out “actually” after “the mark as”, and in par. (2), substituted “prescribed” for “filing”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–667, §103(1) to (7), inserted “(a)” preceding introductory provisions and substituted “may apply to register his or her” for “may register his”, redesignated former subsecs. (a) to (c) as pars. (1) to (3), respectively, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, in par.\(1)(A), substituted “used on or in connection with” for “applied to” and “goods on or in connection” for “goods in connection”, in par. (1)(C), struck out “actually” after “the mark as”, and in par. (2), substituted “prescribed” for “filing”.
 
 Subsecs. (b), (c). Pub. L. 100–667, §103(3), (9), added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as pars. (2) and (3), respectively, of subsec. (a).
 
 Subsecs. (d), (e). Pub. L. 100–667, §103(8), (9), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1975—Subsecs. (a), (b), (d). Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1975</b>—Subsecs. (a), (b), (d). Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
-1962—Subsec. (a)(1). Pub. L. 87–772 substituted “as to be likely, when applied to the goods of such other person, to cause confusion, or to cause mistake, or to deceive” for “as might be calculated to deceive”, and struck out “or services” after “use by others, the goods”.
+<b>1962</b>—Subsec. (a)(1). Pub. L. 87–772 substituted “as to be likely, when applied to the goods of such other person, to cause confusion, or to cause mistake, or to deceive” for “as might be calculated to deceive”, and struck out “or services” after “use by others, the goods”.
 
 #### Effective Date of 1999 Amendment
 
@@ -133,6 +133,10 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 #### Effective Date
 
 Section 46(a) of act July 5, 1946, provided that this chapter shall be in force and take effect one year from July 5, 1946.
+
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–146, §1, Mar. 17, 2010, 124 Stat. 66, provided that: “This Act \[amending sections 1057, 1058, 1065, 1071, and 1141k of this title\] may be cited as the ‘Trademark Technical and Conforming Amendment Act of 2010’.”
 
 #### Short Title of 2006 Amendment
 

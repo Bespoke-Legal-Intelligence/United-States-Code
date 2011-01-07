@@ -48,15 +48,15 @@ In subsection (b), the words “any other member” are substituted for the word
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–106 substituted “section 12733” for “section 1333”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–106 substituted “section 12733” for “section 1333”.
 
-1987—Subsec. (a). Pub. L. 100–26 substituted “paragraph (1)” and “paragraph (2)” for “clause (1)” and “clause (2)”, respectively, in introductory provisions, and “paragraph (2)” for “clause 2(B) of this subsection” in second sentence.
+<b>1987</b>—Subsec. (a). Pub. L. 100–26 substituted “paragraph (1)” and “paragraph (2)” for “clause (1)” and “clause (2)”, respectively, in introductory provisions, and “paragraph (2)” for “clause 2(B) of this subsection” in second sentence.
 
-1986—Subsec. (a)(2)(A). Pub. L. 99–661 struck out “after February 2, 1901” after “a reserve nurse”.
+<b>1986</b>—Subsec. (a)(2)(A). Pub. L. 99–661 struck out “after February 2, 1901” after “a reserve nurse”.
 
-1980—Subsec. (a). Pub. L. 96–513 substituted “separation, discharge, or retirement for length of service” for “separation or mandatory elimination from the active list” in par. (1), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration” in par. (2)(B), and, in provisions following par. (2)(C), substituted “as a member of the National Oceanic and Atmospheric Administration includes active service as a member of the Environmental Science Services Administration and” for “as a member of the Environmental Science Services Administration includes service as a member”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “separation, discharge, or retirement for length of service” for “separation or mandatory elimination from the active list” in par. (1), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration” in par. (2)(B), and, in provisions following par. (2)(C), substituted “as a member of the National Oceanic and Atmospheric Administration includes active service as a member of the Environmental Science Services Administration and” for “as a member of the Environmental Science Services Administration includes service as a member”.
 
-1966—Subsec. (a). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey” in clause (2)(B) and inserted provision that, for purposes of clause (2)(B) of subsec. (a), active service as a member of the Environmental Science Services Administration includes active service as a member of the Coast and Geodetic Survey.
+<b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey” in clause (2)(B) and inserted provision that, for purposes of clause (2)(B) of subsec. (a), active service as a member of the Environmental Science Services Administration includes active service as a member of the Coast and Geodetic Survey.
 
 #### Effective Date of 1996 Amendment
 

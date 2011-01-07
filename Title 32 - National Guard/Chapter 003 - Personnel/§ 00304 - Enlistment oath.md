@@ -28,9 +28,9 @@ The words “or affirmation” are omitted as covered by the definition of the w
 
 #### Amendments
 
-1988—Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
+<b>1988</b>—Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 
-1962—Pub. L. 87–751 substituted “support and defend the Constitution of the United States and of the State of \_\_\_\_\_\_\_\_\_\_\_\_ against all enemies, foreign and domestic; that I will bear true faith and allegiance to them” for “bear true faith and allegiance to the United States of America and to the State of \_\_\_\_\_\_\_\_\_\_\_\_: That I will serve them honestly and faithfully against all their enemies whomsoever” and inserted “So help me God.”
+<b>1962</b>—Pub. L. 87–751 substituted “support and defend the Constitution of the United States and of the State of \_\_\_\_\_\_\_\_\_\_\_\_ against all enemies, foreign and domestic; that I will bear true faith and allegiance to them” for “bear true faith and allegiance to the United States of America and to the State of \_\_\_\_\_\_\_\_\_\_\_\_: That I will serve them honestly and faithfully against all their enemies whomsoever” and inserted “So help me God.”
 
 #### Effective Date of 1962 Amendment
 

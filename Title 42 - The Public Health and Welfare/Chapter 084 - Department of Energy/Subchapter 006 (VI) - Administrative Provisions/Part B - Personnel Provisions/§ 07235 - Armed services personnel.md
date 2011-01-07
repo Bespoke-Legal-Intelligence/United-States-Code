@@ -8,5 +8,5 @@
 
 #### Amendments
 
-1978—Subsec. (b). Pub. L. 95–509 struck out requirement that a detailed member be charged to the limitations applicable to the Department and prohibition of such member from being charged to any statutory or other limitation or strengths applicable to the Armed Forces.
+<b>1978</b>—Subsec. (b). Pub. L. 95–509 struck out requirement that a detailed member be charged to the limitations applicable to the Department and prohibition of such member from being charged to any statutory or other limitation or strengths applicable to the Armed Forces.
 

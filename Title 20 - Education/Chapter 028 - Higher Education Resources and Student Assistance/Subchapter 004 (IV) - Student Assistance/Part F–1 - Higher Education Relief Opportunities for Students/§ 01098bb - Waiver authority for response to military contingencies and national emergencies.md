@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law, unless enacted with specific reference to thissection, the Secretary of Education (referred to in this part as the “Secretary”) may waive or modify any statutory or regulatory provision applicable to the student financial assistance programs under title IV of the Act \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\] as the Secretary deems necessary in connection with a war or other military operation or national emergency to provide the waivers or modifications authorized by paragraph (2).
+&emsp;Notwithstanding any other provision of law, unless enacted with specific reference to this section, the Secretary of Education (referred to in this part as the “Secretary”) may waive or modify any statutory or regulatory provision applicable to the student financial assistance programs under title IV of the Act \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\] as the Secretary deems necessary in connection with a war or other military operation or national emergency to provide the waivers or modifications authorized by paragraph (2).
 
 #### (2) Actions authorized
 
@@ -46,7 +46,7 @@ Sections 482(c) and 492 of the Higher Education Act of 1965 (20 U.S.C. 1089(c), 
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsecs. (a) and (c), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to this subchapter and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in subsecs. (a) and (c), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat.1219. Title IV of the Act is classified generally to this subchapter and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Codification
 

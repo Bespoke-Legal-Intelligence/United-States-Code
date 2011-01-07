@@ -14,7 +14,7 @@ Combat Readiness.—(1) Periodically (and not less often than every two years), 
 
 Participation in Joint Training Exercises.—The Chairman shall—
 
-&emsp;(1) provide for the participation of the combat support agencies in joint training exercises to the extent necessary to ensure that those agencies are capable of performing their support missions with respect to a war or threat to national security; and
+&emsp;(1) provide for the participation of the combat support agencies in joint training exercises to the extent necessary to ensure that those agencies are capable of performing theirsupport missions with respect to a war or threat to national security; and
 
 &emsp;(2) assess the performance in joint training exercises of each such agency and, in accordance with guidelines established by the Secretary of Defense, take steps to provide for any change that the Chairman considers appropriate to improve that performance.
 
@@ -50,13 +50,13 @@ Definition of Combat Support Agency.—In this section, the term “combat suppo
 
 #### Amendments
 
-2009—Subsecs. (d)(2), (e). Pub. L. 111–84 repealed Pub. L. 110–417, §932(a)(1), (2). See 2008 Amendment note below.
+<b>2009</b>—Subsecs. (d)(2), (e). Pub. L. 111–84 repealed Pub. L. 110–417, §932(a)(1), (2). See 2008 Amendment note below.
 
-2008—Subsecs. (d)(2), (e). Pub. L. 110–181 and Pub. L. 110–417, §932(a)(1), (2), made identical amendments, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, §932(a)(1), (2), was repealed by Pub. L. 111–84.
+<b>2008</b>—Subsecs. (d)(2), (e). Pub. L. 110–181 and Pub. L. 110–417, §932(a)(1), (2), made identical amendments, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, §932(a)(1), (2), was repealed by Pub. L. 111–84.
 
-2006—Subsec. (f)(1). Pub. L. 109–364 substituted “Defense Information Systems Agency” for “Defense Communications Agency”.
+<b>2006</b>—Subsec. (f)(1). Pub. L. 109–364 substituted “Defense Information Systems Agency” for “Defense Communications Agency”.
 
-2003—Subsec. (d). Pub. L. 108–136, §921(d)(3)(B), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in heading.
+<b>2003</b>—Subsec. (d). Pub. L. 108–136, §921(d)(3)(B), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in heading.
 
 Subsec. (d)(1), (2). Pub. L. 108–136, §921(d)(3)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
@@ -64,9 +64,9 @@ Subsec. (e). Pub. L. 108–136, §921(d)(3)(A), (C), substituted “NGA” for �
 
 Subsec. (f)(4). Pub. L. 108–136, §921(d)(3)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-1997—Subsec. (d)(1). Pub. L. 105–85 substituted “agencies perform” for “agencies performs”.
+<b>1997</b>—Subsec. (d)(1). Pub. L. 105–85 substituted “agencies perform” for “agencies performs”.
 
-1996—Subsec. (d). Pub. L. 104–201, §1112(c)(1)(A), substituted “Review of National Security Agency and National Imagery and Mapping Agency” for “Review of National Security Agency” in heading.
+<b>1996</b>—Subsec. (d). Pub. L. 104–201, §1112(c)(1)(A), substituted “Review of National Security Agency and National Imagery and Mapping Agency” for “Review of National Security Agency” in heading.
 
 Subsec. (d)(1). Pub. L. 104–201, §1112(c)(1)(B), inserted “and the National Imagery and Mapping Agency” after “the National Security Agency” and substituted “that the agencies” for “the Agency”.
 
@@ -86,5 +86,5 @@ Section 1124 of title XI of div. A of Pub. L. 104–201 provided that: “This t
 
 #### First Report and Other Actions by Chairman of Joint Chiefs of Staff
 
-Section 304(b) of Pub. L. 99–433 required the first report under subsec. (a) of section 193 of this title to be submitted and subsecs. (b) and (c) of section 193 to be implemented not later than one year after Oct. 1, 1986, and a report on implementation to be submitted to Congress for 1988 under section 113(c) of this title.
+Section 304(b) of Pub. L. 99–433 required the first report under subsec. (a) of section 193 of this title to besubmitted and subsecs. (b) and (c) of section 193 to be implemented not later than one year after Oct. 1, 1986, and a report on implementation to be submitted to Congress for 1988 under section 113(c) of this title.
 

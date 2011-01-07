@@ -40,9 +40,9 @@ In subsection (c) the words “each retired enlisted member of the naval service
 
 #### Amendments
 
-1980—Subsec. (b). Pub. L. 96–513 substituted “section 4812 of the Revised Statutes (24 U.S.C. 16)” for “section 16 of title 24”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–513 substituted “section 4812 of the Revised Statutes (24 U.S.C. 16)” for “section 16 of title 24”.
 
-1958—Subsec. (c). Pub. L. 85–861 repealed subsec. (c) which related to a ration allowance for members of the Fleet Reserve of the Fleet Marine Corps Reserve and retired enlisted members of the naval service.
+<b>1958</b>—Subsec. (c). Pub. L. 85–861 repealed subsec. (c) which related to a ration allowance for members of the Fleet Reserve of the Fleet Marine Corps Reserve and retired enlisted members of the naval service.
 
 #### Effective Date of 1980 Amendment
 

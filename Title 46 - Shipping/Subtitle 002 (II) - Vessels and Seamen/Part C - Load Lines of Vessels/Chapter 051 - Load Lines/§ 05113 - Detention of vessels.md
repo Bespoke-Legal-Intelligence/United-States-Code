@@ -22,5 +22,5 @@ Section 5113 authorizes the Secretary to detain a vessel if the Secretary believ
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–304 substituted “section 60105 of this title” for “section 4197 of the Revised Statutes (46 App. U.S.C. 91)”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–304 substituted “section 60105 of this title” for “section 4197 of the Revised Statutes (46 App. U.S.C. 91)”.
 

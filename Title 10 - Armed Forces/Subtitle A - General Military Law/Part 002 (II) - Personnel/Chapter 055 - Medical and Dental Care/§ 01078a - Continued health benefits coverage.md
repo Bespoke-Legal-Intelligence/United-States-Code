@@ -126,19 +126,19 @@ Period of Continued Coverage.—(1) Continued coverage under this section may no
 
 #### Amendments
 
-2008—Subsec. (b)(4). Pub. L. 110–181, §705(a), added par. (4).
+<b>2008</b>—Subsec. (b)(4). Pub. L. 110–181, §705(a), added par. (4).
 
 Subsec. (d)(4). Pub. L. 110–181, §705(b), added par. (4).
 
 Subsec. (g)(1)(D). Pub. L. 110–181, §705(c), added subpar. (D).
 
-2003—Subsec. (b)(1), (2)(A), (3)(A). Pub. L. 108–136 substituted “uniformed services” for “armed forces”.
+<b>2003</b>—Subsec. (b)(1), (2)(A), (3)(A). Pub. L. 108–136 substituted “uniformed services” for “armed forces”.
 
-1997—Subsec. (g)(4)(B)(iii)(II). Pub. L. 105–85 substituted “section 1447(13)” for “section 1447(8)”.
+<b>1997</b>—Subsec. (g)(4)(B)(iii)(II). Pub. L. 105–85 substituted “section 1447(13)” for “section 1447(8)”.
 
-1996—Subsec. (a). Pub. L. 104–201 substituted “The Secretary” for “Beginning on October 1, 1994, the Secretary”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201 substituted “The Secretary” for “Beginning on October 1, 1994, the Secretary”.
 
-1994—Subsec. (b)(2)(A). Pub. L. 103–337, §702(c)(1), inserted before semicolon “or ceases to meet the requirements for being considered an unmarried dependent under section 1072(2)(I) of this title”.
+<b>1994</b>—Subsec. (b)(2)(A). Pub. L. 103–337, §702(c)(1), inserted before semicolon “or ceases to meet the requirements for being considered an unmarried dependent under section 1072(2)(I) of this title”.
 
 Subsec. (c)(3). Pub. L. 103–337, §702(c)(2), substituted “dependent” for “child” in two places and “dependent's” for “child's” wherever appearing.
 
@@ -150,7 +150,7 @@ Subsec. (g)(1)(B). Pub. L. 103–337, §702(c)(5), substituted “a dependent un
 
 Subsec. (g)(2). Pub. L. 103–337, §702(c)(6), substituted “dependent” for “child” in two places.
 
-1993—Subsec. (b)(3)(C). Pub. L. 103–35, §201(g)(1)(A), substituted “subparagraph” for “subparagraphs” after “member under”.
+<b>1993</b>—Subsec. (b)(3)(C). Pub. L. 103–35, §201(g)(1)(A), substituted “subparagraph” for “subparagraphs” after “member under”.
 
 Subsec. (d)(2)(A). Pub. L. 103–35, §201(g)(1)(B), inserted “under” after “coverage”.
 

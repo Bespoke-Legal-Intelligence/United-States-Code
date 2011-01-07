@@ -20,7 +20,7 @@ Notwithstanding subsection (a) of this section, if the legislature of American S
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–376, §2(1), substituted “plurality of the votes cast” for “majority of the votes cast” and struck out “If no candidate receives such majority, on the fourteenth day following such election a runoff election shall be held between the candidates receiving the highest and the second highest number of votes cast for the office of Delegate.” before “In case of”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–376, §2(1), substituted “plurality of the votes cast” for “majority of the votes cast” and struck out “If no candidate receives such majority, on the fourteenth day following such election a runoff election shall be held between the candidates receiving the highest and the second highest number of votes cast for the office of Delegate.” before “In case of”.
 
 Subsecs. (c), (d). Pub. L. 108–376, §2(2), added subsecs. (c) and (d).
 

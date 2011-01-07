@@ -48,7 +48,3 @@ In subsection (a), before clause (1), the words “in addition to another law”
 
 In subsection (b), before clause (1), the words “under this chapter” are substituted for “incurred, or alleged to have been incurred, under the provisions of this chapter” to eliminate unnecessary words. In clause (1), the word “forfeiture” is substituted for “summary and judicial forfeiture” to eliminate unnecessary words.
 
-#### References in Text
-
-The customs laws, referred to in subsec. (b)(1), are classified generally to Title 19, Customs Duties.
-

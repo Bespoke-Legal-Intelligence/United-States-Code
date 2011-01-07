@@ -212,7 +212,7 @@ The Secretary and Secretary of the Treasury shall jointly conduct an evaluation,
 
 #### Amendments
 
-2008—Subsec. (b)(3)(B)(iii). Pub. L. 110–315, §499(1)(A), added cl. (iii).
+<b>2008</b>—Subsec. (b)(3)(B)(iii). Pub. L. 110–315, §499(1)(A), added cl. (iii).
 
 Subsec. (b)(3)(G). Pub. L. 110–315, §499(1)(B), added subpar. (G) and struck out former subpar. (G). Text of former subpar. (G) read as follows: “Each eligible lender having a winning bid under subparagraph (F) enters into an agreement with the Secretary under which the eligible lender—
 

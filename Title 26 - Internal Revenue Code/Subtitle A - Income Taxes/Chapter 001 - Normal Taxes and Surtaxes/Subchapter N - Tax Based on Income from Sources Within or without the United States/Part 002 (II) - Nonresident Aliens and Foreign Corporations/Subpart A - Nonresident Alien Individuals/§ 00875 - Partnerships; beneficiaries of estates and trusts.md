@@ -10,7 +10,7 @@ For purposes of this subtitle—
 
 #### Amendments
 
-1966—Pub. L. 89–809 designated existing provisions as par. (1), substituted reference to nonresident alien individuals or foreign corporations for reference simply to nonresident alien individuals, and added par. (2).
+<b>1966</b>—Pub. L. 89–809 designated existing provisions as par. (1), substituted reference to nonresident alien individuals or foreign corporations for reference simply to nonresident alien individuals, and added par. (2).
 
 #### Effective Date of 1966 Amendment
 

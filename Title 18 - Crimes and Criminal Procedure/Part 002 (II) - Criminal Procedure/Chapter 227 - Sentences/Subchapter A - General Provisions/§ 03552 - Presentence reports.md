@@ -20,9 +20,9 @@ Disclosure of Presentence Reports.—The court shall assure that a report filed 
 
 #### Amendments
 
-1990—Subsec. (d). Pub. L. 101–647 inserted at end “The court shall provide a copy of the presentence report to the attorney for the Government to use in collecting an assessment, criminal fine, forfeiture or restitution imposed.”
+<b>1990</b>—Subsec. (d). Pub. L. 101–647 inserted at end “The court shall provide a copy of the presentence report to the attorney for the Government to use in collecting an assessment, criminal fine, forfeiture or restitution imposed.”
 
-1986—Subsec. (b). Pub. L. 99–646, §7(a)(1), (2), substituted “study shall be” for “study shall take” and inserted “, if the defendant is in custody,” after “United States marshal shall”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–646, §7(a)(1), (2), substituted “study shall be” for “study shall take” and inserted “, if the defendant is in custody,” after “United States marshal shall”.
 
 Subsec. (c). Pub. L. 99–646, §7(a)(3), substituted “the court may order the same psychiatric or psychological examination and report thereon as may be ordered under section 4244(b) of this title” for “it may order that the defendant undergo a psychiatric or psychological examination and that the court be provided with a written report of the results of the examination pursuant to the provisions of section 4247”.
 

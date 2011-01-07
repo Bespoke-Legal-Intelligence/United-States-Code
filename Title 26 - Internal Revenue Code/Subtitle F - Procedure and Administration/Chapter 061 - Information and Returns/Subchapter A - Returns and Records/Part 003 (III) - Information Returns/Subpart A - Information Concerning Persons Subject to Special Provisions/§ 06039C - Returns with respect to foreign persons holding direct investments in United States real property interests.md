@@ -58,11 +58,11 @@ A nonresident alien individual or foreign corporation subject to tax under secti
 
 #### Amendments
 
-1986—Subsec. (d). Pub. L. 99–514 inserted “(and any person required to withhold tax under section 1445)” after “section 897(a)”.
+<b>1986</b>—Subsec. (d). Pub. L. 99–514 inserted “(and any person required to withhold tax under section 1445)” after “section 897(a)”.
 
-1984—Pub. L. 98–369 amended section generally, inserting in section catchline “foreign persons holding direct investments in” and substituting in text provisions concerning returns with respect to foreign persons holding direct investments in United States real property for provisions concerning returns with respect to United States real property interests.
+<b>1984</b>—Pub. L. 98–369 amended section generally, inserting in section catchline “foreign persons holding direct investments in” and substituting in text provisions concerning returns with respect to foreign persons holding direct investments in United States real property for provisions concerning returns with respect to United States real property interests.
 
-1981—Subsec. (b)(4)(C). Pub. L. 97–34, §831(e), substituted “For purposes of determining whether an entity to which this subsection applies has a substantial investor in United States real property, the assets of any person shall include the person's pro rata share of the United States real property interest held by any corporation (whether domestic or foreign) if the person's pro rata share of the United States real property interests exceeded $50,000” for “The assets of any entity to which this subsection applies shall include its pro rata share of the United States real property interests held by any corporation in which the entity is a substantial investor in United States real property”.
+<b>1981</b>—Subsec. (b)(4)(C). Pub. L. 97–34, §831(e), substituted “For purposes of determining whether an entity to which this subsection applies has a substantial investor in United States real property, the assets of any person shall include the person's pro rata share of the United States real property interest held by any corporation (whether domestic or foreign) if the person's pro rata share of the United States real property interests exceeded $50,000” for “The assets of any entity to which this subsection applies shall include its pro rata share of the United States real property interests held by any corporation in which the entity is a substantial investor in United States real property”.
 
 Subsec. (f). Pub. L. 97–34, §831(a)(3), added subsec. (f).
 

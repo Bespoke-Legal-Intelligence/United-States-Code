@@ -100,7 +100,7 @@ Subsecs. (a) to (c) of section 9007 of this title, which were transferred to thi
 
 #### Amendments
 
-2002—Subsecs. (c) to (e). Pub. L. 107–279, §401(a)(6), transferred subsecs. (a) to (c) of section 9007 of this title to this section and redesignated them as subsecs. (c) to (e), respectively. See Codification note above.
+<b>2002</b>—Subsecs. (c) to (e). Pub. L. 107–279, §401(a)(6), transferred subsecs. (a) to (c) of section 9007 of this title to this section and redesignated them as subsecs. (c) to (e), respectively. See Codification note above.
 
 <i><sup>1</sup></i><i> So in original. Probably means subsection (d)(2).</i>
 

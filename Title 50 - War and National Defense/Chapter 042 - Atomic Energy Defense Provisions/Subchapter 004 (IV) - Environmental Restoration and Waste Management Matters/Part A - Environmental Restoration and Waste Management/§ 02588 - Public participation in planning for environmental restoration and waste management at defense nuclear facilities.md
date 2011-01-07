@@ -10,5 +10,5 @@ Section was formerly set out as a note under section 7274g of Title 42, The Publ
 
 #### Amendments
 
-2003—Pub. L. 108–136, §3141(g)(9)(C), substituted “Public participation in planning for environmental restoration and waste management at defense nuclear facilities” for “Public participation in planning” in section catchline.
+<b>2003</b>—Pub. L. 108–136, §3141(g)(9)(C), substituted “Public participation in planning for environmental restoration and waste management at defense nuclear facilities” for “Public participation in planning” in section catchline.
 

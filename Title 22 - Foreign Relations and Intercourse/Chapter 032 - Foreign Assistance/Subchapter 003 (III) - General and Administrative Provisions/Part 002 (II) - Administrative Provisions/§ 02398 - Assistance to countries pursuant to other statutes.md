@@ -18,11 +18,11 @@ The Export-Import Bank Act of 1945, as amended, referred to in subsec. (a), is a
 
 #### Amendments
 
-1987—Pub. L. 100–202 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1987</b>—Pub. L. 100–202 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1973—Pub. L. 93–189 amended section catchline.
+<b>1973</b>—Pub. L. 93–189 amended section catchline.
 
-1965—Pub. L. 89–171 struck out provisions which prohibited any provision of this chapter from being construed to prohibit famine or disaster relief, including such relief through voluntary agencies, under sections 1721 to 1724 of title 7.
+<b>1965</b>—Pub. L. 89–171 struck out provisions which prohibited any provision of this chapter from being construed to prohibit famine or disaster relief, including such relief through voluntary agencies, under sections 1721 to 1724 of title 7.
 
 #### Effective Date of 1987 Amendment
 

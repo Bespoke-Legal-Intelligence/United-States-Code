@@ -20,7 +20,7 @@ The Congress finds that—
 
 #### (2) Scrambling and encryption
 
-&emsp;In issuing the regulations referred to in paragraph (1), the Commission shall determine whether and, if so, under what circumstances to permit cable systems to scramble or encrypt signals or to restrict cable systems in the manner in which they encrypt or scramble signals, except that the Commission shall not limit the use of scrambling or encryption technology where the use of such technology does not interfere with the functions of subscribers’ television receivers or video cassette recorders.
+&emsp;In issuing the regulations referred to in paragraph (1), the Commission shall determine whether and, if so, under what circumstances to permit cable systems to scramble or encrypt signals or to restrict cable systems in the manner in which they encrypt or scramble signals, except that the Commission shall not limit the use of scrambling or encryption technology where the use of such technologydoes not interfere with the functions of subscribers’ television receivers or video cassette recorders.
 
 #### (c) Rulemaking requirements
 
@@ -78,7 +78,7 @@ The Commission shall periodically review and, if necessary, modify the regulatio
 
 #### Amendments
 
-1996—Subsec. (a)(4). Pub. L. 104–104, §301(f)(1), added par. (4).
+<b>1996</b>—Subsec. (a)(4). Pub. L. 104–104, §301(f)(1), added par. (4).
 
 Subsec. (c)(1)(A) to (C). Pub. L. 104–104, §301(f)(2), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 

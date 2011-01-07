@@ -24,7 +24,7 @@ The term of office of each member of the Commission shall be 6 years. The term o
 
 (2) Thereafter the President may, with the concurrence of a majority of the Commission's members, designate a Chairperson or Vice Chairperson, as the case may be, from among the Commission's members.
 
-(3) The President shall, with the concurrence of a majority of the Commission's members, filla vacancy by designating a Chairperson or Vice Chairperson, as the case may be, from among the Commission's members.
+(3) The President shall, with the concurrence of a majority of the Commission's members, fill a vacancy by designating a Chairperson or Vice Chairperson, as the case may be, from among the Commission's members.
 
 (4) The Vice Chairperson shall act in place of the Chairperson in the absence of the Chairperson.
 
@@ -44,9 +44,9 @@ A prior section 1975, Pub. L. 85–315, pt. I, §101, Sept. 9, 1957, 71 Stat. 63
 
 #### Amendments
 
-1994—Pub. L. 103–419 amended section generally, substituting provisions relating to establishment of United States Commission on Civil Rights for provisions relating to Commission on Civil Rights.
+<b>1994</b>—Pub. L. 103–419 amended section generally, substituting provisions relating to establishment of United States Commission on Civil Rights for provisions relating to Commission on Civil Rights.
 
-1991—Subsec. (c). Pub. L. 102–167 substituted “Chairperson” for “Chairman” wherever appearing.
+<b>1991</b>—Subsec. (c). Pub. L. 102–167 substituted “Chairperson” for “Chairman” wherever appearing.
 
 #### Short Title of 1994 Amendment
 

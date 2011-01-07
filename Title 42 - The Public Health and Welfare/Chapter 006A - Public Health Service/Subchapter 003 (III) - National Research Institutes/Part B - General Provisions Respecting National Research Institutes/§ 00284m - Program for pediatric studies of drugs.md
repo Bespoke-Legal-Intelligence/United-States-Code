@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than one year after September 27, 2007, the Secretary, acting through the Director of the National Institutes of Health and in consultation with the Commissioner of Food and Drugs and experts in pediatric research, shall develop and publish a priority list of needs in pediatric therapeutics, including drugs or indications that require study. The list shall be revised every three years.
+&emsp;Not later than one year after September 27, 2007, the Secretary, acting through the Director of the National Institutes of Health and in consultation with the Commissioner of Food and Drugs and experts in pediatric research, shall develop and publish a priority list of needs in pediatric therapeutics, including drugs, biological products, or indications that require study. The list shall be revised every three years.
 
 #### (2) Consideration of available information
 
@@ -58,7 +58,7 @@ The Secretary, acting through the National Institutes of Health, shall award fun
 
 #### (B) Availability of reports
 
-&emsp;&emsp;Each report submitted under subparagraph (A) shall be considered to be in the public domain (subject to section 505A(d)(4) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a(d)(4)\]) and shall be assigned a docket number by the Commissioner of Food and Drugs. An interested person may submit written comments concerning such pediatric studies to the Commissioner of Food and Drugs, and the written comments shall become part of the docket file with respect to each of the drugs.
+&emsp;&emsp;Each report submitted under subparagraph (A) shall be considered to be in the public domain (subject to section 505A(d)(4) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a(d)(4)\]) and shall be assigned adocket number by the Commissioner of Food and Drugs. An interested person may submit written comments concerning such pediatric studies to the Commissioner of Food and Drugs, and the written comments shall become part of the docket file with respect to each of the drugs.
 
 #### (C) Action by Commissioner
 
@@ -120,7 +120,7 @@ Not later than one year after September 27, 2007, the Secretary, acting through 
 
 &emsp;Any amount appropriated under paragraph (1) shall remain available to carry out this section until expended.
 
-(July 1, 1944, ch. 373, title IV, §409I, as added Pub. L. 107–109, §3(3), Jan. 4, 2002, 115 Stat. 1408; amended Pub. L. 108–155, §3(b)(6), Dec. 3, 2003, 117 Stat. 1942; Pub. L. 109–482, title I, §103(b)(14), Jan. 15, 2007, 120 Stat. 3687; Pub. L. 110–85, title V, §502(b), Sept. 27, 2007, 121 Stat. 886.)
+(July 1, 1944, ch. 373, title IV, §409I, as added Pub. L. 107–109, §3(3), Jan. 4, 2002, 115 Stat. 1408; amended Pub. L. 108–155, §3(b)(6), Dec. 3, 2003, 117 Stat. 1942; Pub. L. 109–482, title I, §103(b)(14), Jan. 15, 2007, 120 Stat. 3687; Pub. L. 110–85, title V, §502(b), Sept. 27, 2007, 121 Stat. 886; Pub. L. 111–148, title VII, §7002(g)(2)(A), Mar. 23, 2010, 124 Stat. 820.)
 
 #### References in Text
 
@@ -128,15 +128,17 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(1)(B), (10)
 
 #### Amendments
 
-2007—Pub. L. 110–85 amended section generally. Prior to amendment, section related to development of list of drugs for which pediatric studies are needed, award of contracts for pediatric studies, process for requesting contract proposals to conduct certain pediatric studies, reporting of completed studies, requests for labeling changes and dispute resolution, and recommendation by the Secretary for formulation changes.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148 inserted “, biological products,” after “including drugs”.
+
+<b>2007</b>—Pub. L. 110–85 amended section generally. Prior to amendment, section related to development of list of drugs for which pediatric studies are needed, award of contracts for pediatric studies, process for requesting contract proposals to conduct certain pediatric studies, reporting of completed studies, requests for labeling changes and dispute resolution, and recommendation by the Secretary for formulation changes.
 
 Subsec. (d). Pub. L. 109–482 struck out subsec. (d) which related to authorization and availability of appropriations.
 
-2003—Subsec. (c)(8), (9), (11). Pub. L. 108–155 struck out “Advisory Subcommittee of the Anti-Infective Drugs” before “Advisory Committee” wherever appearing.
+<b>2003</b>—Subsec. (c)(8), (9), (11). Pub. L. 108–155 struck out “Advisory Subcommittee of the Anti-Infective Drugs” before “Advisory Committee” wherever appearing.
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 orsubsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### Effective Date of 2003 Amendment
 

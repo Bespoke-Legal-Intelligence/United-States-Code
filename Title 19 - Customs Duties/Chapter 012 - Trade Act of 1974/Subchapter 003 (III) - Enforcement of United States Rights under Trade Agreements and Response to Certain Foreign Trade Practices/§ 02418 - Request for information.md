@@ -36,7 +36,7 @@ If information that is requested by a person under subsection (a) of this sectio
 
 (2) The Trade Representative may—
 
-&emsp;(A) use such information, or make such information available (in his own discretion) to any employee of the Federal Government for use, in any investigation under this subchapter, or
+&emsp;(A) use such information, or make such information available (in his own discretion) toany employee of the Federal Government for use, in any investigation under this subchapter, or
 
 &emsp;(B) may make such information available to any other person in a form which cannot be associated with, or otherwise identify, the person providing the information.
 
@@ -44,5 +44,5 @@ If information that is requested by a person under subsection (a) of this sectio
 
 #### Effective Date
 
-Section applicable to petitions filed, and investigations initiated, under section 2412 of this title on or after Aug. 23, 1988, and petitions filed, and investigations initiated, before Aug. 23, 1988, if by such date nodecision had been made under section 2414 of this title regarding the petition or investigation, see section 1301(c) of Pub. L. 100–418, set out as an Effective Date of 1988 Amendment note under section 2411 of this title.
+Section applicable to petitions filed, and investigations initiated, under section 2412 of this title on or after Aug. 23, 1988, and petitions filed, and investigations initiated, before Aug. 23, 1988, if by such date no decision had been made under section 2414 of this title regarding the petition or investigation, see section 1301(c) of Pub. L. 100–418, set out as an Effective Date of 1988 Amendment note under section 2411 of this title.
 

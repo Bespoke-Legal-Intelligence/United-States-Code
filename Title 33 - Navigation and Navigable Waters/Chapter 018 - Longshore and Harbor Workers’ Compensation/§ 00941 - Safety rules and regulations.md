@@ -16,7 +16,7 @@ The Secretary, in enforcing and administering the provisions of this section, is
 
 &emsp;(4) to provide for the establishment and supervision of programs for the education and training of employers and employees in the recognition, avoidance, and prevention of unsafe working conditions in employments covered by this chapter, and to consult with and advise employers as to the best means of preventing injuries;
 
-&emsp;(5) to hold such hearings, issue such orders, and make such decisions, based upon findings of fact, as are deemed to be necessary to enforce the provisions of this section, and for such purposes the Secretary and the district courts shall have the authority and jurisdiction provided by section 39 of title 41, and the Secretary shall be represented in any court proceedings as provided in section 921a of this title.
+&emsp;(5) to hold such hearings, issue such orders, and make such decisions, based upon findings of fact, as are deemed to be necessary to enforce the provisions of this section, and for such purposes the Secretary and the district courts shall have the authority and jurisdiction provided by subsections (b) to (f) of section 6507 of title 41 and the Secretary shall be represented in any court proceedings as provided in section 921a of this title.
 
 #### (c) Inspection of places and practices of employment
 
@@ -58,15 +58,17 @@ Act of August 16, 1941, referred to in subsec. (g)(1), is known as the Defense B
 
 #### Codification
 
+In subsec. (b)(5), “subsections (b) to (f) of section 6507 of title 41” substituted for “section 5 of the Act of June 30, 1936 (ch. 881, 49 Stat. 2036), as amended,” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 In subsec. (d) “section 552 of title 5” substituted for “section 3 of the Administrative Procedure Act (ch. 324, 60 Stat. 237), as amended”, and in subsec. (g)(2) “subchapter I of chapter 81 of title 5” substituted for “the Act of September 7, 1916 (ch. 458, 39 Stat. 742), as amended”, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees. Said section 3 of the Administrative Procedure Act had been classified to section 1002 of former Title 5, Executive Departments and Government Officers and Employees. Said act of Sept. 7, 1916, was known as the “Federal Employees’ Compensation Act” and had been classified to section 751 et seq. of former Title 5.
 
 As originally enacted, subsec. (e) contained the phrase “, together with the District Court for the Territory of Alaska,” following “the United States district courts”. The phrase has been deleted as superfluous in view of Pub. L. 85–508, July 7, 1958, 72 Stat. 339 (set out as a note preceding section 21 of Title 48, Territories and Insular Possessions) which admitted Alaska into the union and enacted section 81A of Title 28, Judiciary and Judicial Procedure, constituting Alaska as one judicial district and in view of section 132 of Title 28 which provides that: “There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district.”
 
 #### Amendments
 
-1982—Subsec. (b)(1). Pub. L. 97–375 struck out “and from time to time make to Congress such recommendations as he may deem proper as to the best means of preventing such injuries” after “by this chapter”.
+<b>1982</b>—Subsec. (b)(1). Pub. L. 97–375 struck out “and from time to time make to Congress such recommendations as he may deem proper as to the best means of preventing such injuries” after “by this chapter”.
 
-1958—Pub. L. 85–742 amended section generally and, among other changes, empowered the Secretary of Labor to prescribe, by regulation or order, safety rules for the furnishing and maintenance of safe places of employment and for the installation, furnishing and maintenance of safety devices and safeguards, authorized the Secretary to provide for the establishment and supervision of safety programs, permitted the inspection of places of employment and investigation of employment conditions and practices, granted jurisdiction to the district courts to restrain violations of this section or of any rules, regulations or orders of the Secretary, and to prescribe penalties for violations.
+<b>1958</b>—Pub. L. 85–742 amended section generally and, among other changes, empowered the Secretary of Labor to prescribe, by regulation or order, safety rules for the furnishing and maintenance of safe places of employment and for the installation, furnishing and maintenance of safety devices and safeguards, authorized the Secretary to provide for the establishment and supervision of safety programs, permitted the inspection of places of employment and investigation of employment conditions and practices, granted jurisdictionto the district courts to restrain violations of this section or of any rules, regulations or orders of the Secretary, and to prescribe penalties for violations.
 
 #### “Secretary” Defined
 

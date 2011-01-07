@@ -78,7 +78,7 @@
 
 &emsp;&emsp;&emsp;(xiv) provide activities that help ensure that Head Start programs have qualified staff who can promote prevention of childhood obesity by integrating developmentally appropriate research-based initiatives that stress the importance of physical activity and healthy, nutritional choices in daily classroom and family routines;
 
-&emsp;&emsp;&emsp;(xv) assist Indian Head Start agencies to provide on-site and off-site training tostaff, using approaches that identify and enhance the positive resources and strengths of Indian children and families, to improve parent and family engagement and staff development, particularly with regard to child and family development; and
+&emsp;&emsp;&emsp;(xv) assist Indian Head Start agencies to provide on-site and off-site training to staff, using approaches that identify and enhance the positive resources and strengths of Indian children and families, to improve parent and family engagement and staff development, particularly with regard to child and family development; and
 
 &emsp;&emsp;&emsp;(xvi) assisting Head Start agencies in selecting and using the measures described in section 9836a(b) of this title.
 
@@ -136,7 +136,7 @@ Funds made available under section 9835(a)(2)(C)(i)(II)(aa) of this title shall 
 
 &emsp;&emsp;(A) all of the agency's Head Start teachers receive ongoing training in language and emergent literacy (referred to in this subsection as “literacy training”), including appropriate curricula and assessment to improve instruction and learning;
 
-&emsp;&emsp;(B) such literacy training shall include training in methods to promote vocabulary development and phonological awareness (including phonemic awareness) in a developmentally, culturally, and linguisticallyappropriate manner and support children's development in their native language;
+&emsp;&emsp;(B) such literacy training shall include training in methods to promote vocabulary development and phonological awareness (including phonemic awareness) in a developmentally, culturally, and linguistically appropriate manner and support children's development in their native language;
 
 &emsp;&emsp;(C) the literacy training shall include training in how to work with parents to enhance positive language and early literacy development at home;
 
@@ -188,7 +188,7 @@ The Secretary shall consult with appropriate Federal agencies and other experts,
 
 &emsp;&emsp;&emsp;(i) in the case of historically Black colleges and universities, to help Head Start Agency staff members develop skills and expertise needed to teach in programs serving large numbers of African American children;
 
-&emsp;&emsp;&emsp;(ii) in the case of Hispanic-serving institutions, programs to help Head Start Agency staff members develop skills and expertise needed to teach in programs serving large numbers of Hispanic children, including programs to develop the linguistic skills and expertise needed to teach in programs serving a large numberof children with limited English proficiency; and
+&emsp;&emsp;&emsp;(ii) in the case of Hispanic-serving institutions, programs to help Head Start Agency staff members develop skills and expertise needed to teach in programs serving large numbers of Hispanic children, including programs to develop the linguistic skills and expertise needed to teach in programs serving a large number of children with limited English proficiency; and
 
 &emsp;&emsp;&emsp;(iii) in the case of Tribal Colleges and Universities, to help Head Start Agency staff members develop skills and expertise needed to teach in programs serving large numbers of Indian children, including programs concerning tribal culture and language;
 
@@ -228,9 +228,9 @@ The Secretary shall consult with appropriate Federal agencies and other experts,
 
 #### Amendments
 
-2007—Pub. L. 110–134 amended section generally. Prior to amendment, section related to, in subsec. (a), technical assistance and personnel training, in subsec. (b), consideration of local needs, in subsec. (c), prioritization of resource allocation, in subsec. (d), training in performing and visual arts and electronic media, and, in subsec. (e), child development and assessment program.
+<b>2007</b>—Pub. L. 110–134 amended section generally. Prior to amendment, section related to, in subsec. (a), technical assistance and personnel training, in subsec. (b), consideration of local needs, in subsec. (c), prioritization of resource allocation, in subsec. (d), training in performing and visual arts and electronic media, and, in subsec. (e), child development and assessment program.
 
-1998—Subsec. (b)(3). Pub. L. 105–285, §114(a)(1), added par. (3).
+<b>1998</b>—Subsec. (b)(3). Pub. L. 105–285, §114(a)(1), added par. (3).
 
 Subsec. (c)(1). Pub. L. 105–285, §114(a)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “give priority consideration to activities to correct program and management deficiencies identified through reviews pursuant to section 9836a(c) of this title (including the provision of assistance to local programs in the development of quality improvement plans under section 9836a(d)(2) of this title);”.
 
@@ -258,7 +258,7 @@ Subsec. (c)(11). Pub. L. 105–285, §114(a)(2)(H), added par. (11).
 
 Subsec. (e). Pub. L. 105–285, §114(b), inserted “(including services to promote the acquisition of the English language)” after “non-English language background children”.
 
-1994—Pub. L. 103–252, §114(1), substituted “Technical assistance and training” for “Technical assistance, training, and staff qualifications” in section catchline.
+<b>1994</b>—Pub. L. 103–252, §114(1), substituted “Technical assistance and training” for “Technical assistance, training, and staff qualifications” in section catchline.
 
 Subsec. (a). Pub. L. 103–252, §114(3)(A), redesignated as subsec. (e) the last sentence which read as follows: “The Secretary shall provide, either directly or through grants or other arrangements, funds from programs authorized under this subchapter to support an organization to administer a centralized child development and national assessment program leading to recognized credentials for personnel working in early childhood development and child care programs, training for personnel providing services to non-English language background children, training for personnel in helping children cope with community violence, and resource access projects for personnel working with disabled children.”
 
@@ -272,13 +272,13 @@ Subsec. (d). Pub. L. 103–252, §114(6), inserted at end “Special considerati
 
 Subsec. (e). Pub. L. 103–252, §114(3), redesignated last sentence of subsec. (a) as (e).
 
-1992—Subsec. (a)(2). Pub. L. 102–586, §7(b)(1), substituted “funds from programs authorized under this subchapter to support an organization to administer a centralized child development and national assessment program leading to recognized credentials for personnel working in early childhood development and child care programs, training for personnel providing services to non-English language background children, training for personnel in helping children cope with community violence, and resource access projects for personnel working with disabled” for “a centralized child development training and national assessment program which may be administered at the State or local level leading to recognized credentials for such personnel, training for personnel providing services to non-English language background children, and resource access projects for personnel of handicapped”.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–586, §7(b)(1), substituted “funds from programs authorized under this subchapter to support an organization to administer a centralized child development and national assessment program leading to recognized credentials for personnel working in early childhood development and child care programs, training for personnel providing services to non-English language background children, training for personnel in helping children cope with community violence, and resource access projects for personnel working with disabled” for “a centralized child development training and national assessment program which may be administered at the State or local level leading to recognized credentials for such personnel, training for personnel providing services to non-English language background children, and resource access projects for personnel of handicapped”.
 
 Subsecs. (c), (d). Pub. L. 102–586, §7(b)(2), added subsecs. (c) and (d).
 
-1990—Pub. L. 101–501 substituted “Technical assistance, training, and staff qualifications” for “Technical assistance and training” in section catchline, designated existing provisions as subsec. (a), inserted “training for personnel providing services to non-English language background children,” after “such personnel,” in cl. (2), and added subsec. (b).
+<b>1990</b>—Pub. L. 101–501 substituted “Technical assistance, training, and staff qualifications” for “Technical assistance and training” in section catchline, designated existing provisions as subsec. (a), inserted “training for personnel providing services to non-English language background children,” after “such personnel,” in cl. (2), and added subsec. (b).
 
-1984—Pub. L. 98–558 substituted “shall” for “may” and inserted provision including a centralized child development training and national assessment program.
+<b>1984</b>—Pub. L. 98–558 substituted “shall” for “may” and inserted provision including a centralized child development training and national assessment program.
 
 #### Effective Date of 1994 Amendment
 

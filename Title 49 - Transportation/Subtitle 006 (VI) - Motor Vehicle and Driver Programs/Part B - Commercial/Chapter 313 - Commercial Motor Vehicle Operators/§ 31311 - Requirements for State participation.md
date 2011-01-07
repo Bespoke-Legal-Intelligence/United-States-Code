@@ -6,7 +6,7 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;(1) The State shall adopt and carry out a program for testing and ensuring the fitness of individuals to operate commercial motor vehicles consistent with the minimum standards prescribed by the Secretary of Transportation under section 31305(a) of this title.
 
-&emsp;(2) The State may issue a commercial driver's license to an individual only if the individual passes written and driving tests for theoperation of a commercial motor vehicle that comply with the minimum standards.
+&emsp;(2) The State may issue a commercial driver's license to an individual only if the individual passes written and driving tests for the operation of a commercial motor vehicle that comply with the minimum standards.
 
 &emsp;(3) The State shall have in effect and enforce a law providing that an individual with a blood alcohol concentration level at or above the level established by section 31310(a) of this title when operating a commercial motor vehicle is deemed to be driving under the influence of alcohol.
 
@@ -114,13 +114,13 @@ Par. (3) of section 31308 of this title, referred to in subsec. (a)(4), was rede
 
 #### Amendments
 
-2005—Subsec. (a)(15). Pub. L. 109–59, §4123(b)(1), substituted “(i)(1)(A) and (i)(2)” for “(g)(1)(A), and (g)(2)”.
+<b>2005</b>—Subsec. (a)(15). Pub. L. 109–59, §4123(b)(1), substituted “(i)(1)(A) and (i)(2)” for “(g)(1)(A), and (g)(2)”.
 
 Subsec. (a)(17). Pub. L. 109–59, §4123(b)(2), substituted “as 31310(j)” for “section 31310(h)”.
 
 Subsec. (a)(21). Pub. L. 109–59, §4123(b)(3), added par. (21).
 
-1999—Subsec. (a)(6). Pub. L. 106–159, §202(a), inserted “or renewing such a license” after “to an individual” and struck out “commercial” after “has issued a”.
+<b>1999</b>—Subsec. (a)(6). Pub. L. 106–159, §202(a), inserted “or renewing such a license” after “to an individual” and struck out “commercial” after “has issued a”.
 
 Subsec. (a)(8). Pub. L. 106–159, §202(b), inserted “, and the violation that resulted in the disqualification, revocation, suspension, or cancellation shall be recorded” before the period at end.
 
@@ -138,11 +138,11 @@ Subsec. (a)(13). Pub. L. 106–159, §202(e), inserted “consistent with this c
 
 Subsec. (a)(18) to (20). Pub. L. 106–159, §202(f)–(h), added pars. (18) to (20).
 
-1998—Subsec. (a)(15). Pub. L. 105–178, §4011(e)(1), substituted “subsections (b)–(e), (g)(1)(A), and (g)(2) of section 31310” for “section 31310(b)–(e) of this title”.
+<b>1998</b>—Subsec. (a)(15). Pub. L. 105–178, §4011(e)(1), substituted “subsections (b)–(e), (g)(1)(A), and (g)(2) of section 31310” for “section 31310(b)–(e) of this title”.
 
 Subsec. (a)(17), (18). Pub. L. 105–178, §4011(e)(2), (3), redesignated par. (18) as (17) and struck out former par. (17) which read as follows: “The State shall adopt and enforce regulations prescribed by the Secretary under section 31310(g)(1)(A) and (2) of this title.”
 
-1995—Subsec. (a)(18). Pub. L. 104–88 added par. (18).
+<b>1995</b>—Subsec. (a)(18). Pub. L. 104–88 added par. (18).
 
 #### Effective Date of 1995 Amendment
 

@@ -54,7 +54,7 @@
 
 #### (2) Activities and procedures
 
-&emsp;The eligible agency shall develop effective activities and procedures, including access to information needed to use such procedures, to allow the individuals and entities described in paragraph (1) to participate in State and local decisions that relate to development of the State plan.
+&emsp;The eligible agency shall develop effective activities and procedures, including access to information needed to use such procedures, to allow the individuals and entities described inparagraph (1) to participate in State and local decisions that relate to development of the State plan.
 
 #### (c) Plan contents
 
@@ -66,7 +66,7 @@ The State plan shall include information that—
 
 &emsp;&emsp;&emsp;(i) incorporate secondary education and postsecondary education elements;
 
-&emsp;&emsp;&emsp;(ii) include coherent and rigorous content aligned with challenging academicstandards and relevant career and technical content in a coordinated, nonduplicative progression of courses that align secondary education with postsecondary education to adequately prepare students to succeed in postsecondary education;
+&emsp;&emsp;&emsp;(ii) include coherent and rigorous content aligned with challenging academic standards and relevant career and technical content in a coordinated, nonduplicative progression of courses that align secondary education with postsecondary education to adequately prepare students to succeed in postsecondary education;
 
 &emsp;&emsp;&emsp;(iii) may include the opportunity for secondary education students to participate in dual or concurrent enrollment programs or other ways to acquire postsecondary education credits; and
 

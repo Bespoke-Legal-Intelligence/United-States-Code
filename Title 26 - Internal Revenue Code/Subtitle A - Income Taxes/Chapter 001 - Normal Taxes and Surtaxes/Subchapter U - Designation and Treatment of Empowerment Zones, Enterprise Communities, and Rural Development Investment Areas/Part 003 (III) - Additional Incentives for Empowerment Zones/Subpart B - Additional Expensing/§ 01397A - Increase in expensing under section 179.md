@@ -20,11 +20,11 @@ Rules similar to the rules under section 179(d)(10) shall apply with respect to 
 
 #### Amendments
 
-2000—Subsec. (a)(1)(A). Pub. L. 106–554, §1(a)(7) \[title I, §114(a)\], substituted “$35,000” for “$20,000”.
+<b>2000</b>—Subsec. (a)(1)(A). Pub. L. 106–554, §1(a)(7) \[title I, §114(a)\], substituted “$35,000” for “$20,000”.
 
 Subsec. (c). Pub. L. 106–554, §1(a)(7) \[title I, §114(b)\], struck out heading and text of subsec. (c). Text read as follows: “For purposes of this section, qualified zone property shall not include any property substantially all of the use of which is in any parcel described in section 1391(g)(3)(A)(iii).”
 
-1997—Subsec. (c). Pub. L. 105–34 added subsec. (c).
+<b>1997</b>—Subsec. (c). Pub. L. 105–34 added subsec. (c).
 
 #### Effective Date of 2000 Amendment
 

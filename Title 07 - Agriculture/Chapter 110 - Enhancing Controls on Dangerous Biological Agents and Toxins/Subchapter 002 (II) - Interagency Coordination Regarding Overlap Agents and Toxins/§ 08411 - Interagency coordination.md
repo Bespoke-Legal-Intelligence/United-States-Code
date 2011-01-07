@@ -36,7 +36,7 @@ In carrying out the section 351A program and the section 212 program, the Secret
 
 #### (1) In general
 
-&emsp;Promptly after June 12, 2002, the Secretary of Agriculture and the Secretary of Health andHuman Services shall enter into a memorandum of understanding regarding overlap agents and toxins that is in accordance with paragraphs (2) through (4) and contains such additional provisions as the Secretary of Agriculture and the Secretary of Health and Human Services determine to be appropriate.
+&emsp;Promptly after June 12, 2002, the Secretary of Agriculture and the Secretary of Health and Human Services shall enter into a memorandum of understanding regarding overlap agents and toxins that is in accordance with paragraphs (2) through (4) and contains such additional provisions as the Secretary of Agriculture and the Secretary of Health and Human Services determine to be appropriate.
 
 #### (2) Single registration system regarding registered persons
 
@@ -52,7 +52,7 @@ In carrying out the section 351A program and the section 212 program, the Secret
 
 &emsp;&emsp;(E) A procedure through which—
 
-&emsp;&emsp;&emsp;(i) the agency receiving the single registration form under one of such programs informs the agency administering the other program whether the receiving agency has denied the registration; and
+&emsp;&emsp;&emsp;(i) the agency receiving the single registration form under one of such programsinforms the agency administering the other program whether the receiving agency has denied the registration; and
 
 &emsp;&emsp;&emsp;(ii) each of such agencies ensures that registrations are entered into the national database of registered persons that is maintained by each such agency.
 

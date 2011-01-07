@@ -4,7 +4,7 @@ For the purpose of this subchapter—
 
 &emsp;(1) “agency” means an Executive agency and a military department;
 
-&emsp;(2) “employee” means an employee in or under an agency who is a citizen or national of the United States or an alien admitted to the United States for permanent residence, but does not include a part-time or intermittent employee or native labor casually hired on an hourly or daily basis. However, such an employee who enters a status listed in paragraph (5)(A)–(E) of this section—
+&emsp;(2) “employee” means an employee in or under an agency who is a citizen or national of the United States or an alien admitted to the United States for permanent residence, but does not include a part-time or intermittent employee or native labor casually hired on anhourly or daily basis. However, such an employee who enters a status listed in paragraph (5)(A)–(E) of this section—
 
 &emsp;&emsp;(A) inside the continental United States; or
 
@@ -138,7 +138,7 @@ Section 603(e) of Pub. L. 105–85 provided that: “This section \[amending thi
 
 #### Accounting for Civilian Employees and Contractors of United States
 
-Pub. L. 104–106, div. A, title V, §569(e), Feb. 10, 1996, 110 Stat. 352, directed Secretary of State to carry out comprehensive study of provisions of this subchapter and any other law or regulation establishing procedures for accounting for civilian employees of the United States or contractors of the United States who serve with or accompany the Armed Forces in the field to determine the means, if any, by which those procedures may be improved, and further provided for submission of report to Congress not later than one year after Feb. 10, 1996, on results of study.
+Pub. L. 104–106, div. A, title V, §569(e), Feb. 10, 1996, 110 Stat. 352, directed Secretary of State to carry outcomprehensive study of provisions of this subchapter and any other law or regulation establishing procedures for accounting for civilian employees of the United States or contractors of the United States who serve with or accompany the Armed Forces in the field to determine the means, if any, by which those procedures may be improved, and further provided for submission of report to Congress not later than one year after Feb. 10, 1996, on results of study.
 
 #### Benefits for United States Hostages in Iraq and Kuwait and United States Hostages Captured in Lebanon
 

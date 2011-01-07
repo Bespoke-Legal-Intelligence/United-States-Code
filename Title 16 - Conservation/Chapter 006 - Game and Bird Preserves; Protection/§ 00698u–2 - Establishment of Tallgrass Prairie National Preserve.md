@@ -12,5 +12,5 @@ The Preserve shall consist of the lands and interests in land, including approxi
 
 #### Amendments
 
-2000—Subsec. (b). Pub. L. 106–176 substituted “on June 3, 1994,” for “of June 3, 1994,”.
+<b>2000</b>—Subsec. (b). Pub. L. 106–176 substituted “on June 3, 1994,” for “of June 3, 1994,”.
 

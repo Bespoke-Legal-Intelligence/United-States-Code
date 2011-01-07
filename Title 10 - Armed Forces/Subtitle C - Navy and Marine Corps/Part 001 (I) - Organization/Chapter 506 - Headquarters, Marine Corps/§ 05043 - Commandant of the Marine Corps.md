@@ -44,15 +44,15 @@ Provisions similar to those in this section were contained in section 5201 of th
 
 #### Amendments
 
-2003—Subsec. (a)(1). Pub. L. 108–136 substituted “from the general officers of the Marine Corps” for “from officers on the active-duty list of the Marine Corps not below the grade of colonel”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136 substituted “from the general officers of the Marine Corps” for “from officers on the active-duty list of the Marine Corps not below the grade of colonel”.
 
-1996—Subsec. (c). Pub. L. 104–106 struck out subsec. (c) which read as follows: “An officer who is retired while serving as Commandant of the Marine Corps, or who, after serving at least two and one-half years as Commandant, is retired after completion of that service while serving in a lower grade than general, may, in the discretion of the President and by and with the advice and consent of the Senate, be retired with the grade of general.”
+<b>1996</b>—Subsec. (c). Pub. L. 104–106 struck out subsec. (c) which read as follows: “An officer who is retired while serving as Commandant of the Marine Corps, or who, after serving at least two and one-half years as Commandant, is retired after completion of that service while serving in a lower grade than general, may, in the discretion of the President and by and with the advice and consent of the Senate, be retired with the grade of general.”
 
-1991—Subsec. (c). Pub. L. 102–190 inserted “and by and with the advice and consent of the Senate” after “President”.
+<b>1991</b>—Subsec. (c). Pub. L. 102–190 inserted “and by and with the advice and consent of the Senate” after “President”.
 
-1988—Subsec. (a)(2)(B). Pub. L. 100–456 substituted “full tour of duty in a joint duty assignment (as defined in section 664(f) of this title)” for “joint duty assignment”.
+<b>1988</b>—Subsec. (a)(2)(B). Pub. L. 100–456 substituted “full tour of duty in a joint duty assignment (as defined in section 664(f) of this title)” for “joint duty assignment”.
 
 #### Waiver of Qualifications for Appointment as Service Chief
 
-For provisions giving President temporary authority to waive requirements in subsec. (a)(2) of this section, see section 532(c) of Pub. L. 99–433, formerly set out as a note under section 3033 of this title.
+For provisions giving President temporary authority to waive requirements in subsec. (a)(2) of this section,see section 532(c) of Pub. L. 99–433, formerly set out as a note under section 3033 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Unlawful production
 
-Any person who brews beer or produces beer shall be fined not more than $1,000, or imprisoned not more than 1 year, or both, unless such beer is brewed or produced in a brewery qualified under subchapter G or such production is exempt from tax under section 5053(e) (relating to beer for personal or family use).
+Any person who brews beer or produces beer shall be fined not more than $1,000, or imprisoned not more than 1 year, or both, unless suchbeer is brewed or produced in a brewery qualified under subchapter G or such production is exempt from tax under section 5053(e) (relating to beer for personal or family use).
 
 #### (b) Unlawful removal
 
@@ -16,7 +16,7 @@ A prior section 5674, act Aug. 16, 1954, ch. 736, 68A Stat. 696, consisted of pr
 
 #### Amendments
 
-1978—Pub. L. 95–458 substituted “production or removal” for “removal” in section catchline, redesignated existing provision as subsec. (b), and added subsec. (a).
+<b>1978</b>—Pub. L. 95–458 substituted “production or removal” for “removal” in section catchline, redesignated existing provision as subsec. (b), and added subsec. (a).
 
 #### Effective Date of 1978 Amendment
 

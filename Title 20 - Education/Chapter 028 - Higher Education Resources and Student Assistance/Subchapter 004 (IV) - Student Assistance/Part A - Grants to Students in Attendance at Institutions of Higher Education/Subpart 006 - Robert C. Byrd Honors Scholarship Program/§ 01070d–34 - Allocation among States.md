@@ -2,7 +2,7 @@
 
 #### (a) Allocation formula
 
-From the sums appropriated pursuant to the authority of section 1070d–41 of this title for anyfiscal year, the Secretary shall allocate to each State that has an agreement under section 1070d–35 of this title an amount equal to $1,500 multiplied by the number of scholarships determined by the Secretary to be available to such State in accordance with subsection (b) of this section.
+From the sums appropriated pursuant to the authority of section 1070d–41 of this title for any fiscal year, the Secretary shall allocate to each State that has an agreement under section 1070d–35 of this title an amount equal to $1,500 multiplied by the number of scholarships determined by the Secretary to be available to such State in accordance with subsection (b) of this section.
 
 #### (b) Number of scholarships available
 
@@ -34,17 +34,17 @@ Notwithstanding section 1469a of title 48, funds allocated under this part to an
 
 #### Prior Provisions
 
-A prior section 1070d–34, Pub. L. 89–329, title IV, §419D, as added Pub. L. 98–558, title VIII, §801(a), Oct. 30, 1984, 98 Stat. 2901, related to allocation among States of amounts for Robert C. Byrd Honors Scholarship Program, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1070d–34, Pub. L. 89–329, title IV, §419D, as added Pub. L. 98–558, title VIII, §801(a), Oct.30, 1984, 98 Stat. 2901, related to allocation among States of amounts for Robert C. Byrd Honors Scholarship Program, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
-2009—Subsec. (d). Pub. L. 111–39 made technical amendment to reference in original act which appears in text as reference to section 1469a of title 48.
+<b>2009</b>—Subsec. (d). Pub. L. 111–39 made technical amendment to reference in original act which appears in text as reference to section 1469a of title 48.
 
-1998—Subsec. (e). Pub. L. 105–244 added subsec. (e).
+<b>1998</b>—Subsec. (e). Pub. L. 105–244 added subsec. (e).
 
-1993—Subsec. (d). Pub. L. 103–208 added subsec. (d).
+<b>1993</b>—Subsec. (d). Pub. L. 103–208 added subsec. (d).
 
-1992—Pub. L. 102–325 amended section generally. Prior to amendment, section read as follows: “From the sums appropriated pursuant to section 1070d–41 of this title for any fiscal year, the Secretary shall allocate to each State having an agreement under section 1070d–35 of this title—
+<b>1992</b>—Pub. L. 102–325 amended section generally. Prior to amendment, section read as follows: “From the sums appropriated pursuant to section 1070d–41 of this title for any fiscal year, the Secretary shall allocate to each State having an agreement under section 1070d–35 of this title—
 
 &emsp;“(1) $1,500 multiplied by the number of individuals in the State eligible for scholarships pursuant to section 1070d–37(b) of this title, plus
 

@@ -62,13 +62,13 @@ The text of section 451 of Title 50, War and National Defense, which was transfe
 
 The text of section 453 of Title 50 which was transferred to this section, designated subsec. (b), and amended by Pub. L. 102–484, §4235(a)(3), was based on acts July 2, 1948, ch. 811, §4, 62 Stat. 1226; Nov. 16, 1973, Pub. L. 93–155, title VIII, §809, 87 Stat. 617; Nov. 14, 1986, Pub. L. 99–661, div. A, title XIII, §1359(a), 100 Stat. 3999. For effective date of 1986 amendment, see section 1359(b) of Pub. L. 99–661.
 
-The text of section 452 of Title 50 which was transferred to this section, designated subsec. (c), andamended by Pub. L. 102–484, §4235(b), was based on acts July 2, 1948, ch. 811, §3, 62 Stat. 1225; Nov. 16, 1973, Pub. L. 93–155, title VIII, §809, 87 Stat. 617.
+The text of section 452 of Title 50 which was transferred to this section, designated subsec. (c), and amended by Pub. L. 102–484, §4235(b), was based on acts July 2, 1948, ch. 811, §3, 62 Stat. 1225; Nov. 16, 1973, Pub. L. 93–155, title VIII, §809, 87 Stat. 617.
 
 #### Amendments
 
-2002—Subsec. (b)(1)(G). Pub. L. 107–217 substituted “chapter 5 of title 40” for “title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.)”.
+<b>2002</b>—Subsec. (b)(1)(G). Pub. L. 107–217 substituted “chapter 5 of title 40” for “title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.)”.
 
-2001—Subsec. (a). Pub. L. 107–107, §1048(a)(23)(A)(i), substituted “intent of Congress—” for “intent of Congress” in introductory provisions.
+<b>2001</b>—Subsec. (a). Pub. L. 107–107, §1048(a)(23)(A)(i), substituted “intent of Congress—” for “intent of Congress” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 107–107, §1048(a)(23)(A)(ii), (iii), substituted “armed forces” for “Armed Forces” and realigned margins.
 
@@ -80,11 +80,11 @@ Subsec. (b)(1)(A). Pub. L. 107–107, §1048(a)(23)(B)(ii), substituted “Defen
 
 Subsec. (c). Pub. L. 107–107, §1048(a)(23)(C), redesignated par. (2) as (1), substituted “means—” for “means” in introductory provisions, realigned margins of subpars. (A) to (C) of par. (1) and inserted “and” after semicolon in subpar. (B), redesignated par. (3) as (2), and struck out former par. (1) which read as follows: “The term ‘Secretary’ means Secretary of Defense.”
 
-1994—Subsec. (b)(1)(G). Pub. L. 103–337 amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “authorize and regulate the lending of any such property to any nonprofit educational institution or training school whenever (i) the program proposed by such institution or school for the use of such property will contribute materially to national defense, and (ii) such institution or school shall by agreement make such provision as the Secretary shall deem satisfactory for the proper maintenance and care of such property and for its return, without expense to the Government, upon request of the Secretary.”
+<b>1994</b>—Subsec. (b)(1)(G). Pub. L. 103–337 amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “authorize and regulate the lending of any such property to any nonprofit educational institution or training school whenever (i) the program proposed by such institution or school for the use of such property will contribute materially to national defense, and (ii) such institution or school shall by agreement make such provision as the Secretary shall deem satisfactory for the proper maintenance and care of such property and for its return, without expense to the Government, upon request of the Secretary.”
 
-1993—Subsec. (b)(2)(B). Pub. L. 103–35 substituted “subparagraph (A)” for “paragraph (1)”.
+<b>1993</b>—Subsec. (b)(2)(B). Pub. L. 103–35 substituted “subparagraph (A)” for “paragraph (1)”.
 
-1992—Pub. L. 102–484, §4235(a), added section number and catchline.
+<b>1992</b>—Pub. L. 102–484, §4235(a), added section number and catchline.
 
 Subsec. (a). Pub. L. 102–484, §4235(a)(2), transferred the text of section 451 of Title 50, War and National Defense, to this section, designated it subsec. (a), inserted heading, and substituted “It” for “In enacting this chapter it” in introductory provisions. See Codification note above.
 

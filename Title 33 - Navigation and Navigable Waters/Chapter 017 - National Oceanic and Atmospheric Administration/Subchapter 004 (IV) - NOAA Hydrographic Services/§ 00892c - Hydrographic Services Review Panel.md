@@ -18,7 +18,7 @@ No later than 1 year after December 19, 2002, the Secretary shall establish the 
 
 #### (1) In general
 
-&emsp;(A) The panel shall consist of 15 voting members who shall be appointed by the Administrator. The Co-directors of the Center for Coastal and Ocean Mapping/Joint Hydrographic Center and no more than 2 employees of the National Oceanic and Atmospheric Administration appointed by the Administratorshall serve as nonvoting members of the panel. The voting members of the panel shall be individuals who, by reason of knowledge, experience, or training, are especially qualified in 1 or more of the disciplines and fields relating to hydrographic data and hydrographic services, marine transportation, port administration, vessel pilotage, coastal and fishery management, and other disciplines as determined appropriate by the Administrator.
+&emsp;(A) The panel shall consist of 15 voting members who shall be appointed by the Administrator. The Co-directors of the Center for Coastal and Ocean Mapping/Joint Hydrographic Center and no more than 2 employees of the National Oceanic and Atmospheric Administration appointed by the Administrator shall serve as nonvoting members of the panel. The voting members of the panel shall be individuals who, by reason of knowledge, experience, or training, are especially qualified in 1 or more of the disciplines and fields relating to hydrographic data and hydrographic services, marine transportation, port administration, vessel pilotage, coastal and fishery management, and other disciplines as determined appropriate by the Administrator.
 
 &emsp;(B) An individual may not be appointed as a voting member of the panel if the individual is a full-time officer or employee of the United States.
 
@@ -26,7 +26,7 @@ No later than 1 year after December 19, 2002, the Secretary shall establish the 
 
 #### (2) Terms
 
-&emsp;(A) The term of office of a voting member of the panel shall be 4 years, except that of the original appointees, five shall be appointed for a term of 2 years, five shall be appointed for a term of 3 years, and five shall be appointed for a term of 4 years, as specified by the Administrator at the time of appointment.
+&emsp;(A) The term of office of a voting member of the panel shall be 4 years, except that of theoriginal appointees, five shall be appointed for a term of 2 years, five shall be appointed for a term of 3 years, and five shall be appointed for a term of 4 years, as specified by the Administrator at the time of appointment.
 
 &emsp;(B) Any individual appointed to a partial or full term may be reappointed for one additional full term. A voting member may serve after the date of the expiration of the term of office for which appointed until his or her successor has taken office.
 
@@ -64,11 +64,11 @@ This subchapter, referred to in subsec. (c)(1)(C), was in the original “this A
 
 #### Amendments
 
-2008—Subsec. (c)(1)(A). Pub. L. 110–386 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The panel shall consist of 15 voting members who shall be appointed by the Administrator. The Director of the Joint Hydrographic Institute and no more than 2 employees of the National Oceanic and Atmospheric Administration appointed by the Administrator shall serve as nonvoting members of the panel. The voting members of the panel shall be individuals who, by reason of knowledge, experience, or training, are especially qualified in one or more of the disciplines and fields relating to hydrographic surveying, tide, current geodetic and geospatial measurement, marine transportation, port administration, vessel pilotage, and coastal and fishery management.”
+<b>2008</b>—Subsec. (c)(1)(A). Pub. L. 110–386 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The panel shall consist of 15 voting members who shall be appointed by the Administrator. The Director of the Joint Hydrographic Institute and no more than 2 employees of the National Oceanic and Atmospheric Administration appointed by the Administrator shall serve as nonvoting members of the panel. The voting members of the panel shall be individuals who, by reason of knowledge, experience, or training, are especially qualified in one or more of the disciplines and fields relating to hydrographic surveying, tide, current geodetic and geospatial measurement, marine transportation, port administration, vessel pilotage, and coastal and fishery management.”
 
-2002—Pub. L. 107–372 amended section generally, substituting provisions establishing Hydrographic Services Review Panel for provisions requiring report, not later than 6 months after November 13, 1998, on a plan to ensure maintenance of Federal competence and expertise in hydrographic surveying.
+<b>2002</b>—Pub. L. 107–372 amended section generally, substituting provisions establishing Hydrographic Services Review Panel for provisions requiring report, not later than 6 months after November 13, 1998, on a plan to ensure maintenance of Federal competence and expertise in hydrographic surveying.
 
-1998—Pub. L. 105–383, which directed the amendment of this section by striking out subsecs. (a) and (d), was executed by striking out subsec. (a), because no subsec. (d) has been enacted. Prior to amendment, subsec. (a) read as follows:
+<b>1998</b>—Pub. L. 105–383, which directed the amendment of this section by striking out subsecs. (a) and (d), was executed by striking out subsec. (a), because no subsec. (d) has been enacted. Prior to amendment, subsec. (a) read as follows:
 
 “(a)
 

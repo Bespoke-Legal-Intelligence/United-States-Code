@@ -50,7 +50,7 @@ A prior section 730, Pub. L. 93–112, title I, §110, Sept. 26, 1973, 87 Stat. 
 
 #### Amendments
 
-1998—Pub. L. 105–277 made technical amendment to section designation and catchline in original.
+<b>1998</b>—Pub. L. 105–277 made technical amendment to section designation and catchline in original.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

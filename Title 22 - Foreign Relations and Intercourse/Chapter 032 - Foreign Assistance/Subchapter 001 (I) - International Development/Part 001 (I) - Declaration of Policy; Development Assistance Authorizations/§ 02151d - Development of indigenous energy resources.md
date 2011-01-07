@@ -64,31 +64,31 @@ A prior section 2151d, Pub. L. 87–195, pt. I, §106, as added Pub. L. 93–189
 
 #### Amendments
 
-1985—Subsec. (b)(1). Pub. L. 99–83, §1211(a)(2), struck out par. (A) designation, and struck out par. (B) which related to use of funds in fiscal year 1981 for geological and geophysical survey work.
+<b>1985</b>—Subsec. (b)(1). Pub. L. 99–83, §1211(a)(2), struck out par. (A) designation, and struck out par. (B) which related to use of funds in fiscal year 1981 for geological and geophysical survey work.
 
 Subsec. (e)(1). Pub. L. 99–83, §307(a), amended par. (1) generally, substituting provisions authorizing appropriations of $207,000,000 for fiscal years 1986 and 1987 for provisions authorizing appropriations of $147,200,000 for fiscal years 1982 and 1983.
 
 Subsec. (f). Pub. L. 99–83, §307(b), added subsec. (f).
 
-1981—Subsec. (d)(3). Pub. L. 97–113, §304(a), authorized assistance for programs of disaster preparedness, including the prediction of and contingency planning for natural disasters abroad.
+<b>1981</b>—Subsec. (d)(3). Pub. L. 97–113, §304(a), authorized assistance for programs of disaster preparedness, including the prediction of and contingency planning for natural disasters abroad.
 
 Subsec. (e)(1). Pub. L. 97–113, §304(b), substituted appropriations of $147,200,000 for fiscal years 1982 and 1983, for appropriations of $140,000,000 for fiscal year 1981.
 
-1980—Subsec. (a). Pub. L. 96–533, §304(b), designated existing provisions as subpar. (1)(A), substituted subpar. (B), (C), and (D) for par. (2), (3), and (4) designations, substituted in subpar. (C), cl. (i), (ii), and (iii) for (A), (B), and (C) designations, and added par. (2).
+<b>1980</b>—Subsec. (a). Pub. L. 96–533, §304(b), designated existing provisions as subpar. (1)(A), substituted subpar. (B), (C), and (D) for par. (2), (3), and (4) designations, substituted in subpar. (C), cl. (i), (ii), and (iii) for (A), (B), and (C) designations, and added par. (2).
 
 Subsec. (b). Pub. L. 96–533, §304(c), (d), designated existing provisions as subpar. (1)(A), substituted subpar. (B) for par. (2) designation, substituted in subpar. (1)(B) “fiscal year 1981 shall be used for purposes of subparagraph (A)” for “fiscal year 1980 shall be used for purposes of paragraph (1)” and added par. (2).
 
 Subsecs. (c) to (e). Pub. L. 96–533, §304(d)–(f), added subsec. (c), redesignated former subsecs. (c) and (d) as (d) and (e), respectively, and in subsec. (e) designated text as pars. (1) and (2), and in par. (1) as so designated, substituted appropriations authorization of “$140,000,000 for the fiscal year 1981” for such appropriation of “$125,000,000 for the fiscal year 1980”.
 
-1979—Subsecs. (a), (b). Pub. L. 96–53, §104(b)(2), (3), added subsecs. (a) and (b). Former subsecs. (a) and (b) redesignated (c) and (d), respectively.
+<b>1979</b>—Subsecs. (a), (b). Pub. L. 96–53, §104(b)(2), (3), added subsecs. (a) and (b). Former subsecs. (a) and (b) redesignated (c) and (d), respectively.
 
 Subsec. (c). Pub. L. 96–53, §104(b)(1), (2), redesignated former subsec. (a) as (c), struck out par. (2), relating to programs to increase energy production and conservation, and redesignated pars. (3) to (6) as (2) to (5), respectively.
 
 Subsec. (d). Pub. L. 96–53, §§104(b)(2), 105, redesignated former subsec. (b) as (d) and substituted provisions authorizing appropriations for fiscal year 1980 of $125,000,000, for provisions authorizing appropriations for fiscal year 1979 of $126,244,000, and setting forth requirements for appropriations available to private voluntary agencies of the United States.
 
-1978—Subsec. (b). Pub. L. 95–424 substituted “$126,244,000 for the fiscal year 1979, which amount is” for “$104,500,000 for the fiscal year 1977 and $105,000,000 for the fiscal year 1978, which amounts are”.
+<b>1978</b>—Subsec. (b). Pub. L. 95–424 substituted “$126,244,000 for the fiscal year 1979, which amount is” for “$104,500,000 for the fiscal year 1977 and $105,000,000 for the fiscal year 1978, which amounts are”.
 
-1977—Subsec. (b). Pub. L. 95–88 struck out provisions authorizing an appropriation of $99,550,000 for fiscal year 1976 and inserted provisions authorizing an appropriation of $105,000,000 for fiscal year 1978.
+<b>1977</b>—Subsec. (b). Pub. L. 95–88 struck out provisions authorizing an appropriation of $99,550,000 for fiscal year 1976 and inserted provisions authorizing an appropriation of $105,000,000 for fiscal year 1978.
 
 #### Effective Date of 1985 Amendment
 

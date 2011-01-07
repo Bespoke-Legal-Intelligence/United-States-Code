@@ -122,7 +122,7 @@ Subsection (a) of this section applies on the condition that—
 
 #### (I) Service by certified mail
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall use due diligence to provide all owners of interests in the subject parcel, as evidenced by the Secretary's records at the time of the determination under subparagraph (C), with actual notice of the partition proceedings by mailing a copy of the written notice described in clause (i) by certified mail, restricted delivery, to each such owner at the owner's last known address. For purposes of this subsection, owners shall be determined from the Secretary's land title records as of the date of the determination under subparagraph (C) or a date that is not more than 90 days prior to the date of mailing under this clause, whichever is later. In the event the written notice to an owner is returned undelivered, the Secretary shall attempt to obtain a current address for such owner by conducting a reasonablesearch (including a reasonable search of records maintained by local, State, Federal and tribal governments and agencies) and by inquiring with the Indian tribe with jurisdiction over the subject parcel, and, if different from that tribe, the Indian tribe of which the owner is a member, and, if successful in locating any such owner, send written notice by certified mail in accordance with this subclause.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall use due diligence to provide all owners of interests in the subject parcel, as evidenced by the Secretary's records at the time of the determination under subparagraph (C), with actual notice of the partition proceedings by mailing a copy of the written notice described in clause (i) by certified mail, restricted delivery, to each such owner at the owner's last known address. For purposes of this subsection, owners shall be determined from the Secretary's land title records as of the date of the determination under subparagraph (C) or a date that is not more than 90 days prior to the date of mailing under this clause, whichever is later. In the event the written notice to an owner is returned undelivered, the Secretary shall attempt to obtain a current address for such owner by conducting a reasonable search (including a reasonable search of records maintained by local, State, Federal and tribal governments and agencies) and by inquiring with the Indian tribe with jurisdiction over the subject parcel, and, if different from that tribe, the Indian tribe of which the owner is a member, and, if successful in locating any such owner, send written notice by certified mail in accordance with this subclause.
 
 #### (II) Notice by publication
 
@@ -130,7 +130,7 @@ Subsection (a) of this section applies on the condition that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) publishing the notice described in clause (i) at least 2 times in a newspaper of general circulation in the county or counties where the subject parcel of land is located or, if there is an Indian tribe with jurisdiction over the parcel of land and that tribe publishes a tribal newspaper or newsletter at least once every month, 1 time in such newspaper of general circulation and 1 time in such tribal newspaper or newsletter;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) posting such notice in a conspicuous place in the tribal headquarters or administration building (or such other tribal building determined by the Secretary to be most appropriate for giving public notice) of the Indian tribe with jurisdiction over the parcel of land, if any; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) posting such notice in a conspicuous place in the tribal headquarters or administration building (orsuch other tribal building determined by the Secretary to be most appropriate for giving public notice) of the Indian tribe with jurisdiction over the parcel of land, if any; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) in addition to the foregoing, in the Secretary's discretion, publishing notice in any other place or means that the Secretary determines to be appropriate.
 
@@ -188,7 +188,7 @@ Subsection (a) of this section applies on the condition that—
 
 &emsp;&emsp;&emsp;&emsp;(II) Any person who is a member, or is eligible to be a member, of the Indian tribe described in subclause (I).
 
-&emsp;&emsp;&emsp;&emsp;(III) Any person who is a member, or is eligible to be a member, of an Indiantribe but not of the tribe described in subclause (I), but only if such person already owns an undivided interest in the parcel at the time of sale.
+&emsp;&emsp;&emsp;&emsp;(III) Any person who is a member, or is eligible to be a member, of an Indian tribe but not of the tribe described in subclause (I), but only if such person already owns an undivided interest in the parcel at the time of sale.
 
 &emsp;&emsp;&emsp;&emsp;(IV) Any lineal descendent of the original allottee of the parcel who is a member or is eligible to be a member of an Indian tribe or, with respect to a parcel located in the State of California that is not within an Indian tribe's reservation or not otherwise subject to the jurisdiction of an Indian tribe, who is a member, or eligible to be a member, of an Indian tribe or owns a trust or restricted interest in the parcel.
 
@@ -290,9 +290,9 @@ This chapter, referred to in subsec. (c)(2)(B), (E), (G)(i), was in the original
 
 #### Amendments
 
-2008—Subsec. (c)(2)(D)(i). Pub. L. 110–453 substituted “by the Secretary” for “by Secretary” in concluding provisions.
+<b>2008</b>—Subsec. (c)(2)(D)(i). Pub. L. 110–453 substituted “by the Secretary” for “by Secretary” in concluding provisions.
 
-2005—Subsec. (a). Pub. L. 109–157, §2(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Subject to subsection (b) of this section, any Indian tribe may purchase at no less than the fair market value part or all of the interests in any tract of trust or restricted land within that tribe's reservation or otherwise subject to that tribe's jurisdiction with the consent of the owners of such interests. The tribe may purchase all of the interests in such tract with the consent of the owners of undivided interests equal to at least 50 percent of the undivided interest in such tract. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met.”
+<b>2005</b>—Subsec. (a). Pub. L. 109–157, §2(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Subject to subsection (b) of this section, any Indian tribe may purchase at no less than the fair market value part or all of the interests in any tract of trust or restricted land within that tribe's reservation or otherwise subject to that tribe's jurisdiction with the consent of the owners of such interests. The tribe may purchase all of the interests in such tract with the consent of the owners of undivided interests equal to at least 50 percent of the undivided interest in such tract. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met.”
 
 Subsec. (c). Pub. L. 109–157, §2(2), redesignated subsec. (d) as (c). Prior to amendment, no subsec. (c) had been enacted.
 
@@ -310,11 +310,11 @@ Subsec. (d). Pub. L. 109–157, §8(a)(1), amended directory language of Pub. L.
 
 Pub. L. 109–157, §2(2), redesignated subsec. (d) as (c).
 
-2004—Subsec. (a). Pub. L. 108–374, §6(a)(1), in second sentence, substituted “undivided interests equal to at least 50 percent of the undivided interest” for “over 50 per centum of the undivided interests”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–374, §6(a)(1), in second sentence, substituted “undivided interests equal to at least 50 percent of the undivided interest” for “over 50 per centum of the undivided interests”.
 
 Subsec. (d). Pub. L. 108–374, §4, as amended by Pub. L. 109–157, §8(a)(1), added subsec. (d).
 
-2001—Pub. L. 106–462, §103(2)(A)(iii), which directed substitution of subsec. (b) designation and heading and “Subsection (a) of this section applies on the condition that—” for “: <i>Provided</i>, That—”, was executed by making the substitution for “<i>Provided</i>, That—” to reflect the probable intent of Congress and the amendment by Pub. L. 106–462, §103(2)(A)(ii). See below.
+<b>2001</b>—Pub. L. 106–462, §103(2)(A)(iii), which directed substitution of subsec. (b) designation and heading and “Subsection (a) of this section applies on the condition that—” for “: <i>Provided</i>, That—”, was executed by making the substitution for “<i>Provided</i>, That—” to reflect the probable intent of Congress and the amendment by Pub. L. 106–462, §103(2)(A)(ii). See below.
 
 Pub. L. 106–462, §103(2)(A)(i), (ii), substituted subsec. (a) designation and heading and “Subject to subsection (b) of this section, any Indian” for “Any Indian” and “. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met.” for the colon before “<i>Provided</i>, That—”.
 
@@ -324,13 +324,13 @@ Pub. L. 106–462, §103(2)(B)(i), which directed substitution of “if” for �
 
 Subsec. (b)(3). Pub. L. 106–462, §103(2)(C), added par. (3) and struck out former par. (3) which read as follows: “all purchases and sales initiated under this section shall be subject to approval by the Secretary.”
 
-1984—Pub. L. 98–608 amended section generally, substituting “the owners of such interests. The tribe may purchase all of the interests in such tract with the consent of the owners of over 50 per centum of the undivided interests in such tract” for “of over 50 per centum of the owners or with the consent of the owners of over 50 per centum of undivided interests in such tract” before proviso.
+<b>1984</b>—Pub. L. 98–608 amended section generally, substituting “the owners of such interests. The tribe may purchase all of the interests in such tract with the consent of the owners of over 50 per centum of the undivided interests in such tract” for “of over 50 per centum of the owners or with the consent of the owners of over 50 per centum of undivided interests in such tract” before proviso.
 
 Par. (1). Pub. L. 98–608 redesignated par. (2) as (1) and inserted “for at least three years preceding the tribal initiative,” before “may purchase such tract”. Former par. (1), which provided that no such tract shall be acquired by any Indian or tribe over the objections of three or less owners owning 50 per centum or more of the total interest in such tract, was struck out.
 
 Par. (2). Pub. L. 98–608 added par. (2). Former par. (2) redesignated (1).
 
-Pars. (3), (4). Pub. L. 98–608 redesignated par. (4) as (3), and in par. (3), as so redesignated, substituted “subjectto approval” for “approved” and struck out former par. (3), which provided that “this section shall not apply to any tract of land owned by less than fifteen persons; and”.
+Pars. (3), (4). Pub. L. 98–608 redesignated par. (4) as (3), and in par. (3), as so redesignated, substituted “subject to approval” for “approved” and struck out former par. (3), which provided that “this section shall not apply to any tract of land owned by less than fifteen persons; and”.
 
 #### Effective Date of 2005 Amendment
 

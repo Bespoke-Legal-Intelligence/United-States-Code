@@ -19,8 +19,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 <i><sup>1</sup></i><i> Section catchline amended by Pub. L. 109–351 without corresponding amendment of chapter analysis.</i>
 
 

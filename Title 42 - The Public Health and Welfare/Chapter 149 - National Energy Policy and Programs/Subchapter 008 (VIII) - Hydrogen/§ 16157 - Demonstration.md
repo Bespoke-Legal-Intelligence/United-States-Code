@@ -34,7 +34,7 @@ In carrying out the programs under this section, the Secretary shall fund a limi
 
 &emsp;&emsp;(E) commercial and residential portable, continuous, and backup electric power generation;
 
-&emsp;(11) in accordance with any code or standards developed in a region, fund prototype, pilot fleet, and infrastructure regional hydrogen supply corridors along the interstate highway system in varied climates across the United States; and
+&emsp;(11) in accordance with any code or standards developed in a region, fund prototype,pilot fleet, and infrastructure regional hydrogen supply corridors along the interstate highway system in varied climates across the United States; and
 
 &emsp;(12) fund demonstration programs that explore the use of hydrogen blends, hybrid hydrogen, and hydrogen reformed from renewable agricultural fuels, including the use of hydrogen in hybrid electric, heavier duty, and advanced internal combustion-powered vehicles.
 
@@ -68,7 +68,7 @@ In carrying out the demonstrations under subsection (a), the Secretary, in consu
 
 &emsp;(1) after 2008 for stationary and portable applications, and after 2010 for vehicles, identify new requirements that refine technological concepts, planning, and applications; and
 
-&emsp;(2) during the second phase of the learning demonstrations under subsection (b)(1)(A)(ii),redesign subsequent program work to incorporate those requirements.
+&emsp;(2) during the second phase of the learning demonstrations under subsection (b)(1)(A)(ii), redesign subsequent program work to incorporate those requirements.
 
 #### (d) Authorization of appropriations
 

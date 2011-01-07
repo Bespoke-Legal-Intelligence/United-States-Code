@@ -42,31 +42,33 @@ For each fiscal year, the Secretary of Defense, as requested by the Director of 
 
 Of the amounts made available for a fiscal year to carry out this section, not more than $100,000,000 for such fiscal year may be made available for countries other than Israel and Egypt for the purpose of financing the procurement of defense articles, defense services, and design and construction services that are not sold by the United States Government under this chapter.
 
-(Pub. L. 90–629, ch. 2, §23, Oct. 22, 1968, 82 Stat. 1324; Pub. L. 93–559, §45(a)(2), Dec. 30, 1974, 88Stat. 1813; Pub. L. 94–329, title II, §208(a), June 30, 1976, 90 Stat. 739; Pub. L. 96–533, title I, §105(b)(3), Dec. 16, 1980, 94 Stat. 3134; Pub. L. 99–83, title I, §102, Aug. 8, 1985, 99 Stat. 195; Pub. L. 100–202, §101(e) \[title V, §572\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–176; Pub. L. 101–513, title V, §580, Nov. 5, 1990, 104 Stat. 2045; Pub. L. 104–164, title I, §102(a)–(c), July 21, 1996, 110 Stat. 1422.)
+(Pub. L. 90–629, ch. 2, §23, Oct. 22, 1968, 82 Stat. 1324; Pub. L. 93–559, §45(a)(2), Dec. 30, 1974, 88 Stat. 1813; Pub. L. 94–329, title II, §208(a), June 30, 1976, 90 Stat. 739; Pub. L. 96–533, title I, §105(b)(3), Dec. 16, 1980, 94 Stat. 3134; Pub. L. 99–83, title I, §102, Aug. 8, 1985, 99 Stat. 195; Pub. L. 100–202, §101(e) \[title V, §572\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–176; Pub. L. 101–513, title V, §580, Nov. 5, 1990, 104 Stat. 2045; Pub. L. 104–164, title I, §102(a)–(c), July 21, 1996, 110 Stat. 1422.)
 
 #### References in Text
+
+This chapter, referred to in subsecs. (a), (g)(1), and (h), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The Foreign Assistance Act of 1961, referred to in subsec. (g)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
 
-1996—Subsecs. (f) to (g). Pub. L. 104–164 added subsecs. (f) to (g).
+<b>1996</b>—Subsecs. (f) to (g). Pub. L. 104–164 added subsecs. (f) to (g).
 
-1990—Subsec. (e). Pub. L. 101–513 added subsec. (e).
+<b>1990</b>—Subsec. (e). Pub. L. 101–513 added subsec. (e).
 
-1987—Subsec. (a). Pub. L. 100–202 inserted sentence at end authorizing financing to Israel and Egypt for commercial leasing of defense articles, not including Major Defense Equipment, with exception for certain aircraft, upon a Presidential determination that there are compelling foreign policy or national defense reasons for such leasing.
+<b>1987</b>—Subsec. (a). Pub. L. 100–202 inserted sentence at end authorizing financing to Israel and Egypt for commercial leasing of defense articles, not including Major Defense Equipment, with exception for certain aircraft, upon a Presidential determination that there are compelling foreign policy or national defense reasons for such leasing.
 
-1985—Pub. L. 99–83 amended section generally. Prior to amendment, section read as follows: “The President is authorized to finance procurements of defense articles, defense services, and design and construction services by friendly foreign countries and international organizations on terms requiring the payment to the United States Government in United States dollars of—
+<b>1985</b>—Pub. L. 99–83 amended section generally. Prior to amendment, section read as follows: “The President is authorized to finance procurements of defense articles, defense services, and design and construction services by friendly foreign countries and international organizations on terms requiring the payment to the United States Government in United States dollars of—
 
 &emsp;“(1) the value of such articles or services within a period not to exceed twelve years after the delivery of such articles or the rendering of such services; and
 
 &emsp;“(2) interest on the unpaid balance of that obligation for payment of the value of such articles or services, at a rate equivalent to the current average interest rate, as of the last day of the month preceding the financing of such procurement, that the United States Government pays on outstanding marketable obligations of comparable maturity, unless the President certifies to Congress that the national interest requires a lesser rate of interest and states in the certification the lesser rate so required and the justification therefor.”
 
-1980—Pub. L. 96–533 substituted “defense articles, defense services, and design and construction services” for “defense articles and defense services”.
+<b>1980</b>—Pub. L. 96–533 substituted “defense articles, defense services, and design and construction services” for “defense articles and defense services”.
 
-1976—Par. (1). Pub. L. 94–329 substituted “twelve years” for “ten years”.
+<b>1976</b>—Par. (1). Pub. L. 94–329 substituted “twelve years” for “ten years”.
 
-1974—Pub. L. 93–559 incorporated existing provisions in cl. (1) and added cl. (2).
+<b>1974</b>—Pub. L. 93–559 incorporated existing provisions in cl. (1) and added cl. (2).
 
 #### Effective Date of 1985 Amendment
 

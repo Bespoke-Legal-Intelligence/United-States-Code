@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “capital gain net income” has the meaning given such term by section1222(9) (determined by treating the calendar year as the trust's taxable year).
+&emsp;&emsp;The term “capital gain net income” has the meaning given such term by section 1222(9) (determined by treating the calendar year as the trust's taxable year).
 
 #### (B) Reduction for net ordinary loss
 
@@ -104,11 +104,11 @@ For purposes of this section—
 
 #### Amendments
 
-1988—Subsec. (c)(1)(A). Pub. L. 100–647, §1006(s)(3), inserted “(but computed without regard to that portion of such deduction which is attributable to the amount excluded under section 857(b)(2)(D)” after “such calendar year”.
+<b>1988</b>—Subsec. (c)(1)(A). Pub. L. 100–647, §1006(s)(3), inserted “(but computed without regard to that portion of such deduction which is attributable to the amount excluded under section 857(b)(2)(D)” after “such calendar year”.
 
 Subsec. (e)(2). Pub. L. 100–647, §1006(s)(1), amended par. (2) generally, designating existing provisions as subpar. (A) and adding subpars. (B) and (C).
 
-1986—Pub. L. 99–514 substituted “Excise tax on undistributed income of real estate investment trusts” for “Excise tax based on certain real estate investment trust taxable income not distributed during the taxable year” as section catchline and amended text generally. Prior to amendment text read as follows: “Effective with respect to taxable years beginning after December 31, 1979, there is hereby imposed on each real estate investment trust for the taxable year a tax equal to 3 percent of the amount (if any) by which 75 percent of the real estate investment trust taxable income (as defined in section 857(b)(2), but determined without regard to section 857(b)(2)(B), and by excluding any net capital gain for the taxable year) exceeds the amount of the dividends paid deduction (as defined in section 561, but computed without regard to capital gains dividends as defined in section 857(b)(3)(C) and without regard to any dividend paid after the close of the taxable year) for the taxable year. For purposes of the preceding sentence, the determination of the real estate investment trust taxable income shall be made by taking into account only the amount and character of the items of income and deduction as reported by such trust in its return for the taxable year.”
+<b>1986</b>—Pub. L. 99–514 substituted “Excise tax on undistributed income of real estate investment trusts” for “Excise tax based on certain real estate investment trust taxable income not distributed during the taxable year” as section catchline and amended text generally. Prior to amendment text read as follows: “Effective with respect to taxable years beginning after December 31, 1979, there is hereby imposed on each real estate investment trust for the taxable year a tax equal to 3 percent of the amount (if any) by which 75 percent of the real estate investment trust taxable income (as defined in section 857(b)(2), but determined without regard to section 857(b)(2)(B), and by excluding any netcapital gain for the taxable year) exceeds the amount of the dividends paid deduction (as defined in section 561, but computed without regard to capital gains dividends as defined in section 857(b)(3)(C) and without regard to any dividend paid after the close of the taxable year) for the taxable year. For purposes of the preceding sentence, the determination of the real estate investment trust taxable income shall be made by taking into account only the amount and character of the items of income and deduction as reported by such trust in its return for the taxable year.”
 
 #### Effective Date of 1988 Amendment
 

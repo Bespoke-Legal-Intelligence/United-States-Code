@@ -305,7 +305,7 @@ No addition to tax shall be imposed under subsection (a) for any taxable year if
 
 &emsp;&emsp;(C) Any reference to taxable income shall be treated as including a reference to unrelated business taxable income or net investment income (as the case may be).
 
-> &emsp;In the case of any organization described in subparagraph (A), subsection (b)(2)(A) shall be applied by substituting “5th month” for “3rd month”, subsection (e)(2)(A) shall be applied by substituting “2 months” for “3 months” in clause (i)(I), the election under clause (i) of subsection (e)(2)(C) may be made separatelyfor each installment, and clause (ii) of subsection (e)(2)(C) shall not apply. In the case of a private foundation, subsection (c)(2) shall be applied by substituting “May 15” for “April 15”.
+> &emsp;In the case of any organization described in subparagraph (A), subsection (b)(2)(A) shall be applied by substituting “5th month” for “3rd month”, subsection (e)(2)(A) shall be applied by substituting “2 months” for “3 months” in clause (i)(I), the election under clause (i) of subsection (e)(2)(C) may be made separately for each installment, and clause (ii) of subsection (e)(2)(C) shall not apply. In the case of a private foundation, subsection (c)(2) shall be applied by substituting “May 15” for “April 15”.
 
 #### (4) Application of section to certain taxes imposed on S corporations
 
@@ -365,17 +365,17 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 #### Amendments
 
-2000—Subsec. (e)(5)(A), (B). Pub. L. 106–554 substituted “subsection (d)(5)” for “subsections (d)(5) and (<i>l</i>)(3)(B)”.
+<b>2000</b>—Subsec. (e)(5)(A), (B). Pub. L. 106–554 substituted “subsection (d)(5)” for “subsections (d)(5) and (<i>l</i>)(3)(B)”.
 
-1999—Subsec. (e)(5). Pub. L. 106–170 added par. (5).
+<b>1999</b>—Subsec. (e)(5). Pub. L. 106–170 added par. (5).
 
-1997—Subsec. (g)(3). Pub. L. 105–34 inserted at end “In the case of a private foundation, subsection (c)(2) shall be applied by substituting ‘May 15’ for ‘April 15’.”
+<b>1997</b>—Subsec. (g)(3). Pub. L. 105–34 inserted at end “In the case of a private foundation, subsection (c)(2) shall be applied by substituting ‘May 15’ for ‘April 15’.”
 
-1996—Subsec. (g)(3). Pub. L. 104–188, §1703(h), in closing provisions, substituted “, subsection (e)(2)(A) shall be applied by substituting ‘2 months’ for ‘3 months’ in clause (i)(I), the election under clause (i) of subsection (e)(2)(C) may be made separately for each installment, and clause (ii) of subsection (e)(2)(C) shall not apply.” for “, and, except in the case of an election under subsection (e)(2)(C), subsection (e)(2)(A) shall be applied by substituting ‘2 months’ for ‘3 months’ and in clause (i)(I), by substituting ‘4 months’ for ‘5 months’ in clause (i)(II), by substituting ‘7 months’ for ‘8 months’ in clause (i)(III), and by substituting ‘10 months’ for ‘11 months’ in clause (i)(IV).”
+<b>1996</b>—Subsec. (g)(3). Pub. L. 104–188, §1703(h), in closing provisions, substituted “, subsection (e)(2)(A) shall be applied by substituting ‘2 months’ for ‘3 months’ in clause (i)(I), the election under clause (i) of subsection (e)(2)(C) may be made separately for each installment, and clause (ii) of subsection (e)(2)(C) shall not apply.” for “, and, except in the case of an election under subsection (e)(2)(C), subsection (e)(2)(A) shall be applied by substituting ‘2 months’ for ‘3 months’ and in clause (i)(I), by substituting ‘4 months’ for ‘5 months’ in clause (i)(II), by substituting ‘7 months’ for ‘8 months’ in clause (i)(III), and by substituting ‘10 months’ for ‘11 months’ in clause (i)(IV).”
 
-1994—Subsec. (e)(4). Pub. L. 103–465 added par. (4).
+<b>1994</b>—Subsec. (e)(4). Pub. L. 103–465 added par. (4).
 
-1993—Subsec. (d)(1)(B)(i). Pub. L. 103–66, §13225(a)(1), substituted “100 percent” for “91 percent” in two places.
+<b>1993</b>—Subsec. (d)(1)(B)(i). Pub. L. 103–66, §13225(a)(1), substituted “100 percent” for “91 percent” in two places.
 
 Subsec. (d)(2). Pub. L. 103–66, §13225(a)(2)(A)(ii), substituted “100 percent” for “91 percent” in heading.
 
@@ -399,7 +399,7 @@ Subsec. (e)(3)(A)(i). Pub. L. 103–66, §13225(a)(2)(C), substituted “100 per
 
 Subsec. (g)(3). Pub. L. 103–66, §13225(b)(3), substituted “and, except in the case of an election under subsection (e)(2)(C), subsection (e)(2)(A)” for “and subsection (e)(2)(A)” in last sentence.
 
-1992—Subsec. (d)(1)(B)(i). Pub. L. 102–318, §512(a)(1), substituted “91 percent” for “90 percent” in two places.
+<b>1992</b>—Subsec. (d)(1)(B)(i). Pub. L. 102–318, §512(a)(1), substituted “91 percent” for “90 percent” in two places.
 
 Subsec. (d)(2). Pub. L. 102–318, §512(a)(2), substituted “91 percent” for “90 percent” in heading.
 
@@ -411,17 +411,17 @@ Subsec. (e)(2)(B)(ii). Pub. L. 102–318, §512(b)(1), in table, substituted app
 
 Subsec. (e)(3)(A)(i). Pub. L. 102–318, §512(b)(2), substituted “91 percent” for “90 percent”.
 
-1991—Subsec. (d)(3). Pub. L. 102–227, §201(a), added par. (3).
+<b>1991</b>—Subsec. (d)(3). Pub. L. 102–227, §201(a), added par. (3).
 
 Subsec. (e)(1). Pub. L. 102–227, §201(b), substituted “paragraphs (2) and (3) of subsection (d)” for “subsection (d)(2)”.
 
-1990—Subsec. (g)(3). Pub. L. 101–508 inserted a period at end of last sentence.
+<b>1990</b>—Subsec. (g)(3). Pub. L. 101–508 inserted a period at end of last sentence.
 
-1989—Subsec. (e)(1). Pub. L. 101–239, §7822(a), substituted “under subsection (d)(1)” for “under section (d)(1)”.
+<b>1989</b>—Subsec. (e)(1). Pub. L. 101–239, §7822(a), substituted “under subsection (d)(1)” for “under section (d)(1)”.
 
 Subsec. (g)(4). Pub. L. 101–239, §7209(a), added par. (4).
 
-1988—Subsec. (e)(1). Pub. L. 100–647, §5001(a), struck out at end “A reduction shall be treated as recaptured for purposes of subparagraph (B) if 90 percent of the reduction is recaptured.”
+<b>1988</b>—Subsec. (e)(1). Pub. L. 100–647, §5001(a), struck out at end “A reduction shall be treated as recaptured for purposes of subparagraph (B) if 90 percent of the reduction is recaptured.”
 
 Subsec. (g)(1)(B). Pub. L. 100–418 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the sum of—
 
@@ -431,17 +431,17 @@ Subsec. (g)(1)(B). Pub. L. 100–418 amended subpar. (B) generally. Prior to ame
 
 Subsec. (g)(3). Pub. L. 100–647, §2004(r), inserted last sentence, and struck out former last sentence which read as follows: “In the case of any organization described in subparagraph (A), subsection (b)(2)(A) shall be applied by substituting ‘5th month’ for ‘3rd month’.”
 
-1987—Pub. L. 100–203 amended section generally, revising and restating as subsecs. (a) to (j) provisions of former subsecs. (a) to (i).
+<b>1987</b>—Pub. L. 100–203 amended section generally, revising and restating as subsecs. (a) to (j) provisions of former subsecs. (a) to (i).
 
-1986—Subsec. (a)(1). Pub. L. 99–514, §1511(c)(15), substituted “the underpayment rate established under section 6621” for “the rate established under section 6621”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §1511(c)(15), substituted “the underpayment rate established under section 6621” for “the rate established under section 6621”.
 
 Subsec. (f)(1). Pub. L. 99–514, §701(d)(3), amended par. (1) generally, restating existing provisions in subpar. (A) and adding subpar. (B).
 
 Pub. L. 99–499 amended subsec. (f)(1), as amended by the Tax Reform Act of 1986 (Pub. L. 99–514), by striking out “plus” at end of subpar. (A), substituting “plus” for “over” at end of subpar. (B), and adding subpar. (C).
 
-1983—Subsec. (f)(2)(B). Pub. L. 97–448 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “to the extent allowed under regulations prescribed by the Secretary, any amount which is treated under section 6429 as an overpayment of the tax imposed by section 4986”. Notwithstanding directory language that amendment be made to subsec. (e)(2)(B), the amendment was executed to subsec. (f)(2)(B) to reflect the probable intent of Congress, the intervening redesignation of subsec. (e) as (f) by Pub. L. 97–248, and the retrospective effect of the amendment as provided by section 203(a), (b) of Pub. L. 97–448, set out as an Effective Date of 1983 Amendment note under section 4988 of this title.
+<b>1983</b>—Subsec. (f)(2)(B). Pub. L. 97–448 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “to the extent allowed under regulations prescribed by the Secretary, any amount which is treated under section 6429 as an overpayment of the tax imposed by section 4986”. Notwithstanding directory language that amendment be made to subsec. (e)(2)(B), the amendment was executed to subsec. (f)(2)(B) to reflect the probable intent of Congress, the intervening redesignation of subsec. (e) as (f) by Pub. L. 97–248, and the retrospective effect of the amendment as provided by section 203(a), (b) of Pub. L. 97–448, set out as an Effective Date of 1983 Amendment note under section 4988 of this title.
 
-1982—Subsec. (a). Pub. L. 97–248, §234(c), in heading substituted “Addition to tax” for “Addition to the tax”, in provisions preceding par. (1) inserted reference to subsec. (e) as an exception and struck out “estimated” before “tax”, designated existing provisions as par. (1), and in par. (1) as so designated struck out parenthetical reference to subsecs. (b) and (c) for determination of the amount of the underpayment and the period of the underpayment, respectively, and added par. (2).
+<b>1982</b>—Subsec. (a). Pub. L. 97–248, §234(c), in heading substituted “Addition to tax” for “Addition to the tax”, in provisions preceding par. (1) inserted reference to subsec. (e) as an exception and struck out “estimated” before “tax”, designated existing provisions as par. (1), and in par. (1) as so designated struck out parenthetical reference to subsecs. (b) and (c) for determination of the amount of the underpayment and the period of the underpayment, respectively, and added par. (2).
 
 Subsec. (b)(1). Pub. L. 97–248, §234(a)(1), substituted “90” for “80” wherever appearing.
 
@@ -453,27 +453,27 @@ Subsec. (f). Pub. L. 97–248, §234(d), redesignated former subsec. (e) as (f) 
 
 Subsecs. (g) to (i). Pub. L. 97–248, §234(d)(1), redesignated former subsecs. (f) to (h) as (g) to (i), respectively.
 
-1981—Subsec. (e)(2). Pub. L. 97–34, §601(a)(6)(B), inserted “the sum of—”, designated existing provisions as subpar. (A), inserted at end of subpar. (A) “, plus”, and added subpar. (B).
+<b>1981</b>—Subsec. (e)(2). Pub. L. 97–34, §601(a)(6)(B), inserted “the sum of—”, designated existing provisions as subpar. (A), inserted at end of subpar. (A) “, plus”, and added subpar. (B).
 
 Subsec. (h). Pub. L. 97–34, §731(a), (b), substituted in heading “minimum percentage” for “at least 60 percent” and provisions of par. (1) respecting minimum percentage, for provisions respecting in the case of a large corporation, the amount treated as the estimated tax for the taxable year under paragraphs (1) and (2) of subsection (d) shall in no event be less than 60 percent of the tax shown on the return for the taxable year, or if no return was filed, the tax for such year.
 
-1980—Subsec. (e). Pub. L. 96–499, §1111(b), substituted “subsections (b), (d), and (h)” for “subsections (b) and (d)”.
+<b>1980</b>—Subsec. (e). Pub. L. 96–499, §1111(b), substituted “subsections (b), (d), and (h)” for “subsections (b) and (d)”.
 
 Subsec. (h). Pub. L. 96–499, §1111(a), added subsec. (h).
 
-1978—Subsec. (e). Pub. L. 95–600 struck out provisions relating to the corporation's temporary estimated tax exemption.
+<b>1978</b>—Subsec. (e). Pub. L. 95–600 struck out provisions relating to the corporation's temporary estimated tax exemption.
 
-1976—Subsec. (e)(1)(B). Pub. L. 94–455, §1906(b)(3)(A), struck out in cl. (ii) “after December 31, 1967, and” after “taxable year beginning” and struck out cl. (iii) which related to the case of a taxable year beginning after Dec. 31, 1967, and before Jan. 1, 1972, the amount of the corporation's transitional exemption for such year.
+<b>1976</b>—Subsec. (e)(1)(B). Pub. L. 94–455, §1906(b)(3)(A), struck out in cl. (ii) “after December 31, 1967, and” after “taxable year beginning” and struck out cl. (iii) which related to the case of a taxable year beginning after Dec. 31, 1967, and before Jan. 1, 1972, the amount of the corporation's transitional exemption for such year.
 
 Subsec. (e)(2)(B). Pub. L. 94–455, §1906(b)(3)(B), substituted “clause (ii)” for “clauses (ii) and (iii)”.
 
-Subsec. (e)(3), (4). Pub. L. 94–455, §1906(b)(3)(C)(i), redesignated par. (4) as (3). Former par. (3), which relatedto the computation of a corporation's transitional exemption, was struck out.
+Subsec. (e)(3), (4). Pub. L. 94–455, §1906(b)(3)(C)(i), redesignated par. (4) as (3). Former par. (3), which related to the computation of a corporation's transitional exemption, was struck out.
 
 Subsec. (f). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1975—Subsecs. (a), (g)(1). Pub. L. 93–625 substituted “an annual rate established under section 6621” for “the rate of 6 percent per annum”.
+<b>1975</b>—Subsecs. (a), (g)(1). Pub. L. 93–625 substituted “an annual rate established under section 6621” for “the rate of 6 percent per annum”.
 
-1968—Subsec. (b)(1). Pub. L. 90–364, §103(c)(1), substituted “80 percent” for “70 percent”.
+<b>1968</b>—Subsec. (b)(1). Pub. L. 90–364, §103(c)(1), substituted “80 percent” for “70 percent”.
 
 Subsec. (d)(1). Pub. L. 90–364, §103(e)(1), struck out “reduced by $100,000” after “The tax shown on the return of the corporation for the preceding taxable year”.
 
@@ -483,7 +483,7 @@ Subsec. (e). Pub. L. 90–364, §103(c)(2), designated existing provisions as pa
 
 Subsec. (g). Pub. L. 90–364, §103(d)(2), added subsec. (g).
 
-1964—Subsec. (c)(2). Pub. L. 88–272, §122(c)(1), substituted “any installment date” and “such installment date” for “the 15th day of the 12th month”.
+<b>1964</b>—Subsec. (c)(2). Pub. L. 88–272, §122(c)(1), substituted “any installment date” and “such installment date” for “the 15th day of the 12th month”.
 
 Subsec. (d)(3). Pub. L. 88–272, §122(c)(2), redesignated cls. (A)(i) and (ii) as (A)(iii) and (iv), respectively, added cls. (A)(i) and (ii), and substituted “(3, 5, 6, 8, 9,)” for “(6 or 8, or 9)” in subpar. (B)(ii).
 
@@ -605,7 +605,7 @@ Pub. L. 109–222, title IV, §401, May 17, 2006, 120 Stat. 353, as amended by P
 
 Repeal of Adjustments for 2010, 2011,
 
-and 2013.—Section 401 of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] (and any modification of such section contained in any other provision of law) shall not apply with respect to any installment of corporate estimated tax which (without regard to such section) would otherwise be due after December 31, 2009.
+and 2013.—Section 401 of the Tax Increase Prevention andReconciliation Act of 2005 \[Pub. L. 109–222, set out above\] (and any modification of such section contained in any other provision of law) shall not apply with respect to any installment of corporate estimated tax which (without regard to such section) would otherwise be due after December 31, 2009.
 
 \[“(b)
 
@@ -615,15 +615,41 @@ Adjustment for 2014.—Notwithstanding section 6655 of the Internal Revenue Code
 
 &emsp;\[“(2) the amount of the next required installment after an installment referred to in paragraph (1) shall be appropriately reduced to reflect the amount of the increase by reason of such paragraph.”\]
 
-\[Pub. L. 111–124, §4, Dec. 28, 2009, 123 Stat. 3485, provided that: “The percentage under paragraph (1) of section 202(b) of the Corporate Estimated Tax Shift Act of 2009 \[Pub. L. 111–42, set out above\] in effect on the date of the enactment of this Act \[Dec. 28, 2009\] is increased by 1.5 percentage points.”\]
+&emsp;\[Pub. L. 111–171, §12(a), May 24, 2010, 124 Stat. 1207, provided that: “The percentage under paragraph (1) of section 202(b) of the Corporate Estimated Tax Shift Act of 2009 \[Pub. L. 111–42, set out above\] in effect on the date of the enactment of this Act \[May 24, 2010\] is increased by 0.75 percentage points.”\]
 
-\[Pub. L. 111–92, §18, Nov. 6, 2009, 123 Stat. 2997, provided that: “The percentage under paragraph (1) of section 202(b) of the Corporate Estimated Tax Shift Act of 2009 \[Pub. L. 111–42, set out above\] in effect on the date of the enactment of this Act \[Nov. 6, 2009\] is increased by 33.0 percentage points.”\]
+&emsp;\[Pub. L. 111–152, title I, §1410, Mar. 30, 2010, 124 Stat. 1070, provided that: “The percentage under paragraph (1) of section 202(b) of the Corporate Estimated Tax Shift Act of 2009 \[Pub. L. 111–42, set out above\] in effect on the date of the enactment of this Act \[Mar. 30, 2010\] is increased by 15.75 percentage points.”\]
+
+&emsp;\[Pub. L. 111–147, title V, §561, Mar. 18, 2010, 124 Stat. 117, provided that: “Notwithstanding section 6655 of the Internal Revenue Code of 1986, in the case of a corporation with assets of not less than $1,000,000,000 (determined as of the end of the preceding taxable year)—
+
+&emsp;&emsp;\[“(1) the percentage under paragraph (1) of section 202(b) of the Corporate Estimated Tax Shift Act of 2009 \[Pub. L. 111–42, set out above\] in effect on the date of the enactment of this Act \[Mar. 18, 2010\] is increased by 23 percentage points,
+
+&emsp;&emsp;\[“(2) the amount of any required installment of corporate estimated tax which is otherwise due in July, August, or September of 2015 shall be 121.5 percent of such amount,
+
+&emsp;&emsp;\[“(3) the amount of any required installment of corporate estimated tax which is otherwise due in July, August, or September of 2019 shall be 106.5 percent of such amount, and
+
+&emsp;&emsp;\[“(4) the amount of the next required installment after an installment referred to in paragraph (2) or (3) shall be appropriately reduced to reflect the amount of the increase by reason of such paragraph.”\]
+
+&emsp;&emsp;\[Pub. L. 111–344, title III, §302, Dec. 29, 2010, 124 Stat. 3617, provided that: “The percentage under paragraph (2) of section 561 of the Hiring Incentives to Restore Employment Act \[Pub. L. 111–147, set out above\] in effect on the date of the enactment of this Act \[Dec. 29, 2010\] is increased by 4.5 percentage points.”\]
+
+&emsp;&emsp;\[Pub. L. 111–240, title II, §2131, Sept. 27, 2010, 124 Stat. 2568, provided that: “The percentage under paragraph (2) of section 561 of the Hiring Incentives to Restore Employment Act \[Pub. L. 111–147, set out above\] in effect on the date of the enactment of this Act \[Sept. 27, 2010\] is increased by 36 percentage points.”\]
+
+&emsp;&emsp;\[Pub. L. 111–237, §4(a), Aug. 16, 2010, 124 Stat. 2498, provided that: “The percentage under paragraph (2) of section 561 of the Hiring Incentives to Restore Employment Act \[Pub. L. 111–147, set out above\] in effect on the date of the enactment of this Act \[Aug. 16, 2010\] is increased by 0.25 percentage points.”\]
+
+&emsp;&emsp;\[Pub. L. 111–227, title IV, §4002, Aug. 11, 2010, 124 Stat. 2480, provided that: “The percentage under paragraph (2) of section 561 of the Hiring Incentives to Restore Employment Act \[Pub. L. 111–147, set out above\] in effect on the date of the enactment of this Act \[Aug. 11, 2010\] is increased by 0.5 percentage points.”\]
+
+&emsp;&emsp;\[Pub. L. 111–210, §3, July 27, 2010, 124 Stat. 2256, provided that: “The percentage under paragraph (2) of section 561 of the Hiring Incentives to Restore Employment Act \[Pub. L. 111–147, set out above\] in effect on the date of the enactment of this Act \[July 27, 2010\] is increased by 0.25 percentage points.”\]
+
+&emsp;&emsp;\[Pub. L. 111–171, §12(b), May 24, 2010, 124 Stat. 1207, provided that: “The percentage under paragraph (2) of section 561 of the Hiring Incentives to Restore Employment Act \[Pub. L. 111–147, set out above\] in effect on the date of the enactment of this Act \[May 24, 2010\] is increased by 0.75 percentage points.”\]
+
+&emsp;\[Pub. L. 111–124, §4, Dec. 28, 2009, 123 Stat. 3485, provided that: “The percentage under paragraph (1) of section 202(b) of the Corporate Estimated Tax Shift Act of 2009 \[Pub. L. 111–42, set out above\] in effect on the date of the enactment of this Act \[Dec. 28, 2009\] is increased by 1.5 percentage points.”\]
+
+&emsp;\[Pub. L. 111–92, §18, Nov. 6, 2009, 123 Stat. 2997, provided that: “The percentage under paragraph (1) of section 202(b) of the Corporate Estimated Tax Shift Act of 2009 \[Pub. L. 111–42, set out above\] in effect on the date of the enactment of this Act \[Nov. 6, 2009\] is increased by 33.0 percentage points.”\]
 
 \[Pub. L. 111–3, title VII, §704, Feb. 4, 2009, 123 Stat. 111, provided that: “The percentage under subparagraph (C) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] in effect on the date of the enactment of this Act \[Feb. 4, 2009\] is increased by 0.5 percentage point.”\]
 
 \[Pub. L. 110–436, §6, Oct. 16, 2008, 122 Stat. 4981, provided that: “The percentage under subparagraph (C) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] in effect on the date of the enactment of this Act \[Oct. 16, 2008\] is increased by 2 percentage points.”\]
 
-\[Pub. L. 110–289, div. C, title III, §3094(a), July 30, 2008, 122 Stat. 2912, provided that: “Subparagraph (B) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 110–222, set out above\] is amended by striking the percentage contained therein and inserting ‘100 percent’. No other provision of law which would change such percentage shall have any force and effect.”\]
+\[Pub. L. 110–289, div. C, title III, §3094(a), July 30, 2008, 122 Stat. 2912, provided that: “Subparagraph (B) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] is amended by striking the percentage contained therein and inserting ‘100 percent’. No other provision of law which would change such percentage shall have any force and effect.”\]
 
 \[Pub. L. 110–289, div. C, title III, §3094(b), July 30, 2008, 122 Stat. 2913, provided that: “The percentage under subparagraph (C) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] in effect on the date of the enactment of this Act \[July 30, 2008\] is increased by 16.75 percentage points.”\]
 
@@ -633,7 +659,7 @@ Adjustment for 2014.—Notwithstanding section 6655 of the Internal Revenue Code
 
 \[Pub. L. 110–191, §4, Feb. 29, 2008, 122 Stat. 647, provided that: “The percentage under subparagraph (C) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] in effect on the date of the enactment of this Act \[Feb. 29, 2008\] is increased by 0.25 percentage points.”\]
 
-\[Pub. L. 110–142, §10, Dec. 20, 2007, 121 Stat. 1808, provided that: “The percentage under subparagraph (B) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] in effect on the date of the enactment of this Act \[Dec. 20, 2007\] is increased by 1.50 percentage points.”\]
+\[Pub. L. 110–142, §10, Dec. 20, 2007, 121 Stat. 1808, provided that: “The percentage under subparagraph (B) ofsection 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] in effect on the date of the enactment of this Act \[Dec. 20, 2007\] is increased by 1.50 percentage points.”\]
 
 \[Pub. L. 110–138, title I, §107(a), (c), title VI, §602, Dec. 14, 2007, 121 Stat. 1459, 1490, which directed amendment of section 401(1)(B) of Pub. L. 109–222, set out above, by striking “115 percent” and inserting “115.75 percent” effective on the date on which the United States-Peru Trade Promotion Agreement entered into force (Feb. 1, 2009) and ceasing to have effect on the date on which the Agreement terminates, could not be executed in view of the subsequent amendment by Pub. L. 110–289, §3094(a), which was effective July 30, 2008.\]
 

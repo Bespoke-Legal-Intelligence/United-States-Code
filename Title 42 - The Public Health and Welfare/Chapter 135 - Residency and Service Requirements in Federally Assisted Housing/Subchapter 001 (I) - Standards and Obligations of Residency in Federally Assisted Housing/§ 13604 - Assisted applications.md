@@ -10,7 +10,7 @@ The Secretary shall require the owner of any federally assisted housing receivin
 
 #### (c) Limitations
 
-An owner of federally assisted housing may not require any individual or family applying for occupancy in the housing to provide the information described in subsection (a) of this section.
+An owner of federally assisted housing may not require any individual or family applyingfor occupancy in the housing to provide the information described in subsection (a) of this section.
 
 (Pub. L. 102–550, title VI, §644, Oct. 28, 1992, 106 Stat. 3823.)
 

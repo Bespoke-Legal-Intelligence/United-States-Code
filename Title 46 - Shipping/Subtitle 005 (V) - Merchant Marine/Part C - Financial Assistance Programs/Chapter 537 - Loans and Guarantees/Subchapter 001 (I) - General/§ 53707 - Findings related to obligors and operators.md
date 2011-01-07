@@ -30,7 +30,7 @@ Waivers Concerning Financial Condition.—The Secretary or Administrator shall p
 
 &emsp;(1) the economic soundness requirements in section 53708(a) of this title are met after the waiver of the financial condition requirement; and
 
-&emsp;(2) if the Secretary or Administrator considers necessary, the waiver shall provide for theimposition of other requirements on the obligor designed to compensate for any significant increase in risk associated with the obligor's failure to meet regulatory requirements applicable to financial condition.
+&emsp;(2) if the Secretary or Administrator considers necessary, the waiver shall provide for the imposition of other requirements on the obligor designed to compensate for any significant increase in risk associated with the obligor's failure to meet regulatory requirements applicable to financial condition.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1607; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), (b)(3)(B), (C), (c)(1), Jan. 6, 2006, 119 Stat. 3555, 3556; Pub. L. 110–181, div. C, title XXXV, §3522(a)(3), (b), Jan. 28, 2008, 122 Stat. 597, 598.)
 
@@ -68,7 +68,7 @@ June 29, 1936, ch. 858, title XI, §1104A(d)(4), as added Pub. L. 108–136, tit
 
 #### Amendments
 
-2008—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(D), (b)(3)(B), (C), (c)(1). See 2006 Amendment note below.
+<b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(D), (b)(3)(B), (C), (c)(1). See 2006 Amendment note below.
 
 Subsec. (a). Pub. L. 110–181, §3522(a)(3)(A), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(D), into this section by inserting “or Administrator” after “Secretary” in two places. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
@@ -78,5 +78,5 @@ Subsec. (c). Pub. L. 110–181, §3522(a)(3)(C), struck out “of Commerce” af
 
 Subsec. (d). Pub. L. 110–181, §3522(a)(3)(A), (D), incorporated the substance of the amendment by Pub. L. 109–163, §3507(b)(3)(B), (C), into this section by inserting “or Administrator” after “Secretary” in introductory provisions and in par. (2) by inserting “if the Secretary or Administrator considers necessary,” before “the waiver” and substituting “any significant increase in” for “the increased”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-2006—Pub. L. 109–163, §3507(a)(1)(D), (b)(3)(B), (C), (c)(1), which directed the amendment of sections 1273a(a) and 1274(b)(1), (d)(4)(B) of the former Appendix to this title from which this section was derived in part, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes for subsecs. (a), (b), and (d) and Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–163, §3507(a)(1)(D), (b)(3)(B), (C), (c)(1), which directed the amendment of sections 1273a(a) and 1274(b)(1), (d)(4)(B) of the former Appendix to this title from which this section was derived in part, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes for subsecs. (a), (b), and (d) and Historical and Revision notes above.
 

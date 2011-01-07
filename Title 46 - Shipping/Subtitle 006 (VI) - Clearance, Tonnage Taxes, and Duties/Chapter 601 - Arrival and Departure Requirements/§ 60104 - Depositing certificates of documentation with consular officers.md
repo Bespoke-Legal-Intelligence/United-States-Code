@@ -38,5 +38,5 @@ In this section, the words “certificate of documentation” are substituted fo
 
 In subsection (b), the words “or commander” are omitted as unnecessary and for consistency in the section.
 
-In subsection (c), the word “failing” is substituted for “refuses or neglects” to eliminate unnecessary words. The words “liable to the United States Government fora civil penalty” are substituted for “liable to a penalty” for clarity and for consistency in the revised title.
+In subsection (c), the word “failing” is substituted for “refuses or neglects” to eliminate unnecessary words. The words “liable to the United States Government for a civil penalty” are substituted for “liable to a penalty” for clarity and for consistency in the revised title.
 

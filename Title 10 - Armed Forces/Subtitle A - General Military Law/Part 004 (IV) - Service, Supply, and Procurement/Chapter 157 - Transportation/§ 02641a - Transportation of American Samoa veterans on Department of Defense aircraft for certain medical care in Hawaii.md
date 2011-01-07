@@ -22,7 +22,7 @@ Administration.—(1) Transportation may be provided to veterans under this sect
 
 #### Amendments
 
-1999—Subsec. (b)(2). Pub. L. 106–65, §1066(a)(24)(A), struck out “, United States Code,” after “title 38”.
+<b>1999</b>—Subsec. (b)(2). Pub. L. 106–65, §1066(a)(24)(A), struck out “, United States Code,” after “title 38”.
 
 Subsec. (d). Pub. L. 106–65, §1066(a)(24)(B), struck out heading and text of subsec. (d). Text read as follows: “In this section:
 

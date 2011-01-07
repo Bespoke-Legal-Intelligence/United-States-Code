@@ -46,5 +46,5 @@ In subsection (a)(2), the words “persons discharged honorably or under honorab
 
 #### Amendments
 
-1958—Subsec. (c). Pub. L. 85–355 added subsec. (c).
+<b>1958</b>—Subsec. (c). Pub. L. 85–355 added subsec. (c).
 

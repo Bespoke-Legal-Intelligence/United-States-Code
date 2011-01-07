@@ -1,6 +1,6 @@
 ### §1716A. Nonmailable locksmithing devices and motor vehicle master keys
 
-(a) Whoever knowingly deposits for mailing or delivery, or knowingly causes to be delivered by mail according to the direction thereon, or at any place to which it is directed to be deliveredby the person to whom it is addressed, any matter declared to be nonmailable by section 3002 of title 39, shall be fined under this title or imprisoned not more than one year, or both.
+(a) Whoever knowingly deposits for mailing or delivery, or knowingly causes to be delivered by mail according to the direction thereon, or at any place to which it is directed to be delivered by the person to whom it is addressed, any matter declared to be nonmailable by section 3002 of title 39, shall be fined under this title or imprisoned not more than one year, or both.
 
 (b) Whoever knowingly deposits for mailing or delivery, causes to be delivered by mail, or causes to be delivered by any interstate mailing or delivery other than by the United States Postal Service, any matter declared to be nonmailable by section 3002a of title 39, shall be fined under this title, imprisoned not more than one year, or both.
 
@@ -8,11 +8,11 @@
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–647 substituted “shall be fined under this title or” for “shall be under this title”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–647 substituted “shall be fined under this title or” for “shall be under this title”.
 
-1988—Pub. L. 100–690 inserted “locksmithing devices and” in section catchline, designated existing provisions as subsec. (a), substituted “under this title” for “fined not more than $1,000, or”, and added subsec. (b).
+<b>1988</b>—Pub. L. 100–690 inserted “locksmithing devices and” in section catchline, designated existing provisions as subsec. (a), substituted “under this title” for “fined not more than $1,000, or”, and added subsec. (b).
 
-1970—Pub. L. 91–375 substituted “section 3002” for “section 4010” of title 39.
+<b>1970</b>—Pub. L. 91–375 substituted “section 3002” for “section 4010” of title 39.
 
 #### Effective Date of 1970 Amendment
 

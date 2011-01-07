@@ -46,29 +46,29 @@ In computing the maximum number of commissioned officers of the Public Health Se
 
 #### Amendments
 
-1996—Subsec. (f). Pub. L. 104–201 added subsec. (f).
+<b>1996</b>—Subsec. (f). Pub. L. 104–201 added subsec. (f).
 
-1990—Subsec. (a). Pub. L. 101–502 inserted after first sentence “During the period of appointment to the position of Assistant Secretary for Health, a commissioned officer of the Public Health Service shall have the grade corresponding to the grade of General of the Army.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–502 inserted after first sentence “During the period of appointment to the position of Assistant Secretary for Health, a commissioned officer of the Public Health Service shall have the grade corresponding to the grade of General of the Army.”
 
-1989—Subsec. (e). Pub. L. 101–93, which directed the substitution of “the Department of Defense” for “the office of Assistant Secretary of Defense for Health Affairs”, was executed by making the substitution for “the office of the Assistant Secretary of Defense for Health Affairs” as the probable intent of Congress.
+<b>1989</b>—Subsec. (e). Pub. L. 101–93, which directed the substitution of “the Department of Defense” for “the office of Assistant Secretary of Defense for Health Affairs”, was executed by making the substitution for “the office of the Assistant Secretary of Defense for Health Affairs” as the probable intent of Congress.
 
-1985—Subsec. (e). Pub. L. 99–117 added subsec. (e).
+<b>1985</b>—Subsec. (e). Pub. L. 99–117 added subsec. (e).
 
-1979—Subsec. (a). Pub. L. 96–76, §304(a), added pars. (7) to (10).
+<b>1979</b>—Subsec. (a). Pub. L. 96–76, §304(a), added pars. (7) to (10).
 
 Subsec. (c). Pub. L. 96–76, §304(b), struck out subsec. (c) setting forth the grade and pay and allowances as director for a commissioned officer below the grade of director assigned to serve as chief of a division.
 
 Subsec. (d). Pub. L. 96–76, §304(c), substituted “warrant officer (W–1)” for “junior assistant”.
 
-1977—Subsec. (b)(6). Pub. L. 95–215 substituted “junior assistant” for “senior assistant”.
+<b>1977</b>—Subsec. (b)(6). Pub. L. 95–215 substituted “junior assistant” for “senior assistant”.
 
-1962—Subsec. (a). Pub. L. 87–649 struck out provisions which related to pay and allowances.
+<b>1962</b>—Subsec. (a). Pub. L. 87–649 struck out provisions which related to pay and allowances.
 
-1952—Subsec. (a). Act July 17, 1952, provided that the Chief Medical Officer of the Coast Guard should have the grade, pay, and allowances of a major general.
+<b>1952</b>—Subsec. (a). Act July 17, 1952, provided that the Chief Medical Officer of the Coast Guard should have the grade, pay, and allowances of a major general.
 
-1951—Subsec. (a). Act Oct. 31, 1951, provided equality of grade, pay, and allowances between the Chief Dental Officer and the comparable officer in the Army.
+<b>1951</b>—Subsec. (a). Act Oct. 31, 1951, provided equality of grade, pay, and allowances between the Chief Dental Officer and the comparable officer in the Army.
 
-1948—Subsec. (a). Act Feb. 28, 1948, increased grade of Deputy Surgeon General from brigadier general to major general and increased grade of certain Assistant Surgeons General from brigadier general to major general as the Federal Security Administrator might determine.
+<b>1948</b>—Subsec. (a). Act Feb. 28, 1948, increased grade of Deputy Surgeon General from brigadier general to major general and increased grade of certain Assistant Surgeons General from brigadier general to major general as the Federal Security Administrator might determine.
 
 Subsecs. (c), (d). Act Feb. 28, 1948, added subsecs. (c) and (d).
 

@@ -32,7 +32,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;&emsp;(C) consideration of provisions in debt contracts that would foster dialogue and consultation between a sovereign debtor and its private creditors, and among those creditors;
 
-&emsp;&emsp;(D) consideration of extending the scope of the International Monetary Fund's policy on lending to members in arrears and of other policies so as to foster the dialogue and consultation referred to in subparagraph (C);
+&emsp;&emsp;(D) consideration of extending the scope of the International Monetary Fund's policy onlending to members in arrears and of other policies so as to foster the dialogue and consultation referred to in subparagraph (C);
 
 &emsp;&emsp;(E) intensified consideration of mechanisms to facilitate orderly workout mechanisms for countries experiencing debt or liquidity crises;
 
@@ -86,7 +86,7 @@ To the extent that it would assist in achieving the goals described in subsectio
 
 #### Amendments
 
-2004—Subsec. (a)(15). Pub. L. 108–458 added par. (15).
+<b>2004</b>—Subsec. (a)(15). Pub. L. 108–458 added par. (15).
 
 #### Additional Provisions Relating to International Monetary Fund
 
@@ -98,7 +98,7 @@ Publication of IMF Operational Budgets.—The Secretary of the Treasury shall in
 
 “(b)
 
-Report to the Congress Showing Costs of United States Participation in the International Monetary Fund.—The Secretary of the Treasury shallprepare and transmit to the Committees on Banking and Financial Services \[now Committee on Financial Services\], on Appropriations, and on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs, on Foreign Relations, and on Appropriations of the Senate a quarterly report, which shall be made readily available to the public, on the costs or benefits of United States participation in the International Monetary Fund and which shall detail the costs and benefits to the United States, as well as valuation gains or losses on the United States reserve position in the International Monetary Fund.
+Report to the Congress Showing Costs of United States Participation in the International Monetary Fund.—The Secretary of the Treasury shall prepare and transmit to the Committees on Banking and Financial Services \[now Committee on Financial Services\], on Appropriations, and on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs, on Foreign Relations, and on Appropriations of the Senate a quarterly report, which shall be made readily available to the public, on the costs or benefits of United States participation in the International Monetary Fund and which shall detail the costs and benefits to the United States, as well as valuation gains or losses on the United States reserve position in the International Monetary Fund.
 
 “(c)
 

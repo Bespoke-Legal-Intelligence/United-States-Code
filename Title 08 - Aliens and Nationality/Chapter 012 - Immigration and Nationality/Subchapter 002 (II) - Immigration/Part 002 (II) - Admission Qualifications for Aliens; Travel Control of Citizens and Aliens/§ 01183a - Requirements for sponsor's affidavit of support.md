@@ -200,7 +200,7 @@ Subsec. (f)(5). Pub. L. 107–150, §2(a)(1), amended heading and text of par. (
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–150 applicable with respect to deaths occurring before, on, or after Mar. 13, 2002, except that, in case of death occurring before suchdate, such amendments shall apply only if (1) the sponsored alien requests Attorney General to reinstate the classification petition that was filed with respect to the alien by deceased and approved under section 1154 of this title before such death and demonstrates that he or she is able to satisfy requirement of section 1182(a)(4)(C)(ii) of this title by reason of such amendments; and (2) Attorney General reinstates such petition after making the determination described in subsec. (f)(5)(B)(ii) of this section, see section 2(b) of Pub. L. 107–150, set out as a note under section 1182 of this title.
+Amendment by Pub. L. 107–150 applicable with respect to deaths occurring before, on, or after Mar. 13, 2002, except that, in case of death occurring before such date, such amendments shall apply only if (1) the sponsored alien requests Attorney General to reinstate the classification petition that was filed with respect to the alien by deceased and approved under section 1154 of this title before such death and demonstrates that he or she is able to satisfy requirement of section 1182(a)(4)(C)(ii) of this title by reason of such amendments; and (2) Attorney General reinstates such petition after making the determination described in subsec. (f)(5)(B)(ii) of this section, see section 2(b) of Pub. L. 107–150, set out as a note under section 1182 of this title.
 
 #### Effective Date of 1996 Amendments; Promulgation of Form
 
@@ -244,7 +244,7 @@ Section 564 of div. C of Pub. L. 104–208 provided that:
 
 In General.—
 
-&emsp;“(1) The Attorney General of the United States shall establish a pilot program in 5 district offices of the Immigration and Naturalization Service to require aliens to post a bond in addition to the affidavit requirements under section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\] and the deeming requirements under section 421 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (8 U.S.C. 1631). Any pilot program established pursuant to this subsection shall require an alien to post a bond in an amount sufficient to cover the cost of benefits described in section 213A(d)(2)(B) of the Immigration and Nationality Act (as amended by section 551(a) of this division) for the alien and the alien's dependents and shall remain in effect until the departure, naturalization, or death of the alien.
+&emsp;“(1) The Attorney General of the United States shall establish a pilot program in 5 district offices of the Immigration and Naturalization Service to require aliens to post a bond in addition to the affidavit requirements under section 213A of the Immigrationand Nationality Act \[8 U.S.C. 1183a\] and the deeming requirements under section 421 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (8 U.S.C. 1631). Any pilot program established pursuant to this subsection shall require an alien to post a bond in an amount sufficient to cover the cost of benefits described in section 213A(d)(2)(B) of the Immigration and Nationality Act (as amended by section 551(a) of this division) for the alien and the alien's dependents and shall remain in effect until the departure, naturalization, or death of the alien.
 
 &emsp;“(2) Suit on any such bonds may be brought under the terms and conditions set forth in section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\].
 
@@ -288,7 +288,7 @@ Section 423(d) of Pub. L. 104–193, as amended by Pub. L. 105–277, div. A, §
 
 &emsp;“(4) Assistance or benefits under the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\].
 
-&emsp;“(5) Public health assistance for immunizations (not including any assistance under title XIX of theSocial Security Act \[42 U.S.C. 1396 et seq.\]) with respect to immunizable diseases and for testing and treatment of symptoms of communicable diseases whether or not such symptoms are caused by a communicable disease.
+&emsp;“(5) Public health assistance for immunizations (not including any assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\]) with respect to immunizable diseases and for testing and treatment of symptoms of communicable diseases whether or not such symptoms are caused by a communicable disease.
 
 &emsp;“(6) Payments for foster care and adoption assistance under parts B and E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\] for a parent or a child, but only if the foster or adoptive parent (or parents) of such child is a qualified alien (as defined in section 431 \[8 U.S.C. 1641\]).
 

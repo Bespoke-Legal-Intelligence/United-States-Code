@@ -40,9 +40,9 @@ The Federal Rules of Civil Procedure, referred to in subsec. (c), are set out in
 
 #### Amendments
 
-2000—Subsec. (d). Pub. L. 106–185 added subsec. (d).
+<b>2000</b>—Subsec. (d). Pub. L. 106–185 added subsec. (d).
 
-1994—Subsec. (a). Pub. L. 103–325 substituted “section 5322 or 5324 of title 31” for “section 5322 of title 31”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–325 substituted “section 5322 or 5324 of title 31” for “section 5322 of title 31”.
 
 #### Effective Date of 2000 Amendment
 

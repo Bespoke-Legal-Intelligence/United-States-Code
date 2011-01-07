@@ -36,7 +36,7 @@ The purposes of sections 698u to 698u–7 of this title are—
 
 #### Amendments
 
-2000—Subsec. (a)(4)(A). Pub. L. 106–176 substituted “to acquire” for “to purchase”.
+<b>2000</b>—Subsec. (a)(4)(A). Pub. L. 106–176 substituted “to acquire” for “to purchase”.
 
 #### Short Title
 

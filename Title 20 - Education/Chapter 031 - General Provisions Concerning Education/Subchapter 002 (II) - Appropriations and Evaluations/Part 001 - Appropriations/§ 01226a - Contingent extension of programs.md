@@ -14,7 +14,7 @@ If the Secretary is required, in the terminal fiscal year of an applicable progr
 
 #### (d) Application to commissions, councils, and committees required by law to terminate
 
-This section shall not apply to the authorization of appropriations for a commission, council,or committee which is required by an applicable statute to terminate on a date certain.
+This section shall not apply to the authorization of appropriations for a commission, council, or committee which is required by an applicable statute to terminate on a date certain.
 
 (Pub. L. 90–247, title IV, §422, formerly §414, as added Pub. L. 93–380, title V, §506(a)(2)(B), Aug. 21, 1974, 88 Stat. 563; amended Pub. L. 96–374, title XIII, §1301, Oct. 3, 1980, 94 Stat. 1496; renumbered §422 and amended Pub. L. 103–382, title II, §§212(b)(1), 233, Oct. 20, 1994, 108 Stat. 3913, 3915.)
 
@@ -26,9 +26,9 @@ Another prior section 422 of Pub. L. 90–247 was renumbered section 438, and is
 
 #### Amendments
 
-1994—Pub. L. 103–382, §233, amended section generally, revising and restating former subsecs. (a) and (b) as subsecs. (a) to (c) and adding subsec. (d).
+<b>1994</b>—Pub. L. 103–382, §233, amended section generally, revising and restating former subsecs. (a) and (b) as subsecs. (a) to (c) and adding subsec. (d).
 
-1980—Subsec. (a). Pub. L. 96–374 inserted provisions for the automatic extension of an authorization or duration of two additional fiscal years for any applicable program authorized to be included in the Appropriation Act for the fiscal year preceding the fiscal year for which appropriations are available for obligation.
+<b>1980</b>—Subsec. (a). Pub. L. 96–374 inserted provisions for the automatic extension of an authorization or duration of two additional fiscal years for any applicable program authorized to be included in the Appropriation Act for the fiscal year preceding the fiscal year for which appropriations are available for obligation.
 
 #### Effective Date of 1980 Amendment
 

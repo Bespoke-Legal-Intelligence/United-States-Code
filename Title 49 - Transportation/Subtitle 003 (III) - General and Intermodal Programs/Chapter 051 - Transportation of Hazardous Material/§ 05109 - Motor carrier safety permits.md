@@ -114,5 +114,5 @@ In subsection (h), the text of section 8(b) (words before semicolon of the Hazar
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–59 substituted “Secretary issues” for “Secretary of Transportation issues” in introductory provisions.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59 substituted “Secretary issues” for “Secretary of Transportation issues” in introductory provisions.
 

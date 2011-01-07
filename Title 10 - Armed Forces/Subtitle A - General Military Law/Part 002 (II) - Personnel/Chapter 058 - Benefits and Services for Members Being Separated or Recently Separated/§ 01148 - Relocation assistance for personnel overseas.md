@@ -6,9 +6,9 @@ The Secretary of Defense and the Secretary of Homeland Security shall develop a 
 
 #### Amendments
 
-2002—Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1994—Pub. L. 103–337 inserted “and the Secretary of Transportation” after “Secretary of Defense”.
+<b>1994</b>—Pub. L. 103–337 inserted “and the Secretary of Transportation” after “Secretary of Defense”.
 
 #### Effective Date of 2002 Amendment
 

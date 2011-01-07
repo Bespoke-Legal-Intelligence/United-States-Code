@@ -30,9 +30,9 @@ In subsection (a) the proviso is omitted as unnecessary. Section 1 of the Act of
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
-1980—Subsec. (a). Pub. L. 96–513 substituted “section 2003” for “section 6023(b)”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “section 2003” for “section 6023(b)”.
 
 #### Effective Date of 1980 Amendment
 

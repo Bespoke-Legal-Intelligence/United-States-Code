@@ -2,7 +2,7 @@
 
 #### (a) Delegation of easement administration
 
-The Secretary may delegate any of the easement management, monitoring, and enforcement responsibilities of the Secretary to Federal or State agencies that have the appropriate authority, expertise, and resources necessary to carry out such delegated responsibilities.
+The Secretary may delegate any of the easement management, monitoring, and enforcement responsibilities of the Secretary to Federal or State agencies that have the appropriateauthority, expertise, and resources necessary to carry out such delegated responsibilities.
 
 #### (b) Regulations
 
@@ -26,7 +26,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–246, §2203(c), added subsec. (c).
+<b>2008</b>—Subsec. (c). Pub. L. 110–246, §2203(c), added subsec. (c).
 
 #### Effective Date of 2008 Amendment
 

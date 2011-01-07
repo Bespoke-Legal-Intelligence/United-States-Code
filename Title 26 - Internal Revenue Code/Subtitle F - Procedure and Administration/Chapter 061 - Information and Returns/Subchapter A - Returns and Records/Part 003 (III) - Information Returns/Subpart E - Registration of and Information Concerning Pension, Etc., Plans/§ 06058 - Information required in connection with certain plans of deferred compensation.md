@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Every employer who maintains a pension, annuity, stock bonus, profit-sharing, or other funded plan of deferred compensation described in part I of subchapter D of chapter 1, or the plan administrator (within the meaning of section 414(g)) of the plan, shall file an annual return stating such information as the Secretary may by regulations prescribe with respect to the qualification, financial conditions, and operations of the plan; except that, in the discretion of the Secretary, the employer may be relieved from stating in its return any information which is reported in other returns.
+Every employer who maintains a pension, annuity, stock bonus, profit-sharing, or otherfunded plan of deferred compensation described in part I of subchapter D of chapter 1, or the plan administrator (within the meaning of section 414(g)) of the plan, shall file an annual return stating such information as the Secretary may by regulations prescribe with respect to the qualification, financial conditions, and operations of the plan; except that, in the discretion of the Secretary, the employer may be relieved from stating in its return any information which is reported in other returns.
 
 #### (b) Actuarial statement in case of mergers, etc.
 
@@ -50,15 +50,15 @@ Section 3004 of title III of the Employee Retirement Income Security Act of 1974
 
 #### Amendments
 
-1986—Subsec. (f). Pub. L. 99–514 substituted “section 6652(e)” for “section 6652(f)”.
+<b>1986</b>—Subsec. (f). Pub. L. 99–514 substituted “section 6652(e)” for “section 6652(f)”.
 
-1984—Subsec. (e). Pub. L. 98–369 struck out par. (2) which included a tax imposed by section 409(c) within term “special IRP tax”, and redesignated pars. (3) and (4) as (2) and (3), respectively.
+<b>1984</b>—Subsec. (e). Pub. L. 98–369 struck out par. (2) which included a tax imposed by section 409(c) within term “special IRP tax”, and redesignated pars. (3) and (4) as (2) and (3), respectively.
 
-1978—Subsec. (c). Pub. L. 95–600 substituted “an individual retirement plan” for “an individual retirement account or annuity described in section 408”.
+<b>1978</b>—Subsec. (c). Pub. L. 95–600 substituted “an individual retirement plan” for “an individual retirement account or annuity described in section 408”.
 
 Subsecs. (d) to (f). Pub. L. 95–600 added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 
-1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 1986 Amendment
 

@@ -6,7 +6,7 @@ The Secretary of Agriculture is authorized, under such regulations as he may mak
 
 #### Amendments
 
-1956—Act July 28, 1956, increased maximum area of land for each purpose for which permits may be granted from not more than 5 acres to not more than 80 acres, and authorized permits for facilities for public safety, for buildings, structures, and facilities for industrial or commercial purposes whenever such purposes are related to or consistent with other use of the national forests, and for facilities to be used by public or nonprofit agencies for education or public use or in connection with any public activity.
+<b>1956</b>—Act July 28, 1956, increased maximum area of land for each purpose for which permits may be granted from not more than 5 acres to not more than 80 acres, and authorized permits for facilities for public safety, for buildings, structures, and facilities for industrial or commercial purposes whenever such purposes are related to or consistent with other use of the national forests, and for facilities to be used by public or nonprofit agencies for education or public use or in connection with any public activity.
 
 #### Enhancing Forest Service Administration of Rights-of-Way and Land Uses
 
@@ -16,7 +16,7 @@ Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §331\], Nov. 29, 1999, 113
 
 “(b)
 
-Deposit of Fees.—Subject to subsections (a) and (f), during fiscal years 2000 through 2012, the Secretary of Agriculture shall deposit into a special account established in the Treasury all fees collected by the Secretary to recover the costs of processing applications for, and monitoring compliance with, authorizations to use and occupy National Forest System lands pursuant to section 28(<i>l</i>) of the Mineral Leasing Act (30 U.S.C. 185(<i>l</i>)), section 504(g) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1764(g)), section 9701 of title 31, United States Code, and section 110(g) of the National Historic Preservation Act (16 U.S.C. 470h–2(g)).
+Deposit of Fees.—Subject to subsections (a) and (f), during fiscal years 2000 through 2012, the Secretary of Agriculture shall deposit into a special account established in the Treasury all fees collected by the Secretary to recover the costs of processing applications for, and monitoring compliance with, authorizations to use and occupy National Forest System lands pursuant to section 28(<i>l</i>) of the Mineral Leasing Act (30 U.S.C.185(<i>l</i>)), section 504(g) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1764(g)), section 9701 of title 31, United States Code, and section 110(g) of the National Historic Preservation Act (16 U.S.C. 470h–2(g)).
 
 “(c)
 

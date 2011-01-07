@@ -1,6 +1,6 @@
 ### §639. Reports, summaries, and projections of Congressional budget actions
 
-#### (a) Reports on legislation providing new budget authority or providing increase or decrease in revenues or tax expenditures
+#### (a) Legislation providing new budget authority or providing increase or decrease in revenues or tax expenditures
 
 (1) Whenever a committee of either House reports to its House a bill or joint resolution, or committee amendment thereto, providing new budget authority (other than continuing appropriations) or providing an increase or decrease in revenues or tax expenditures for a fiscal year (or fiscal years), the report accompanying that bill or joint resolution shall contain a statement, or the committee shall make available such a statement in the case of an approved committee amendment which is not reported to its House, prepared after consultation with the Director of the Congressional Budget Office—
 
@@ -11,6 +11,16 @@
 &emsp;(C) containing an estimate by the Congressional Budget Office of the level of new budget authority for assistance to State and local governments provided by such measure, if timely submitted before such report is filed.
 
 (2) Whenever a conference report is filed in either House and such conference report or any amendment reported in disagreement or any amendment contained in the joint statement of managers to be proposed by the conferees in the case of technical disagreement on such bill or joint resolution provides new budget authority (other than continuing appropriations) or provides an increase or decrease in revenues for a fiscal year (or fiscal years), the statement of managers accompanying such conference report shall contain the information described in paragraph (1), if available on a timely basis. If such information is not available when the conference report is filed, the committee shall make such information available to Members as soon as practicable prior to the consideration of such conference report.
+
+(3) CBO
+
+paygo estimates.—
+
+&emsp;(A) The Chairs of the Committees on the Budget of the House and Senate, as applicable,shall request from the Director of the Congressional Budget Office an estimate of the budgetary effects of PAYGO legislation.
+
+&emsp;(B) Estimates shall be prepared using baseline estimates supplied by the Congressional Budget Office, consistent with section 907 of this title.
+
+&emsp;(C) The Director shall not count timing shifts, as that term is defined at section 932(8) of this title, in estimates of the budgetary effects of PAYGO Legislation.
 
 #### (b) Up-to-date tabulations of Congressional budget action
 
@@ -38,13 +48,23 @@ As soon as practicable after the beginning of each fiscal year, the Director of 
 
 &emsp;(4) entitlement authority for each fiscal year in such period.
 
-(Pub. L. 93–344, title III, §308, July 12, 1974, 88 Stat. 313; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1051; Pub. L. 101–508, title XIII, §13206, Nov. 5, 1990, 104 Stat. 1388–617; Pub. L. 105–33, title X, §10110, Aug. 5, 1997, 111 Stat. 685.)
+#### (d) Scorekeeping guidelines
+
+Estimates under this section shall be provided in accordance with the scorekeeping guidelines determined under section 902(d)(5) of this title.
+
+(Pub. L. 93–344, title III, §308, July 12, 1974, 88 Stat. 313; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1051; Pub. L. 101–508, title XIII, §13206, Nov. 5, 1990, 104 Stat. 1388–617; Pub. L. 105–33, title X, §10110, Aug. 5, 1997, 111 Stat. 685; Pub. L. 111–139, title I, §4(b), Feb. 12, 2010, 124 Stat. 11.)
 
 #### Codification
 
 Section was formerly classified to section 1329 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
 
 #### Amendments
+
+2010—Subsec. (a). Pub. L. 111–139, §4(b)(1)(B), struck out “Reports on” before “Legislation” in heading.
+
+Subsec. (a)(3). Pub. L. 111–139, §4(b)(1)(A), added par. (3).
+
+Subsec. (d). Pub. L. 111–139, §4(b)(2), added subsec. (d).
 
 1997—Subsec. (a). Pub. L. 105–33, §10110(1)(A), struck out “, new spending authority, or new credit authority,” after “new budget authority” in heading.
 
@@ -74,7 +94,7 @@ Subsec. (a)(2). Pub. L. 101–508, §13206(b), inserted “(or fiscal years)” 
 
 Subsec. (b)(1). Pub. L. 101–508, §13206(c), substituted “for each fiscal year covered by a concurrent resolution on the budget” for “for a fiscal year” in first sentence, and “the first fiscal year covered by the appropriate concurrent resolution” for “such fiscal year” in second sentence.
 
-1985—Subsec. (a). Pub. L. 99–177, in amending subsec. (a) generally, designated existing provisions as par. (1), substituted provisions relating to reports on legislation providing new budget authority, new spending authority, or new credit authority, or providing an increase or decrease in revenues or tax expenditures, for provisions relating to reports on legislation providing new budget authority or tax expenditures, and added par. (2).
+1985—Subsec. (a). Pub. L. 99–177, in amending subsec. (a) generally, designated existing provisions as par. (1),substituted provisions relating to reports on legislation providing new budget authority, new spending authority, or new credit authority, or providing an increase or decrease in revenues or tax expenditures, for provisions relating to reports on legislation providing new budget authority or tax expenditures, and added par. (2).
 
 Subsec. (b). Pub. L. 99–177, in amending subsec. (b) generally, designated existing provisions as par. (1), substituted provisions relating to issuance of reports on a monthly basis and contents of such reports, for provisions relating to issuance of reports on a periodic basis and contents of such reports, and added par. (2).
 

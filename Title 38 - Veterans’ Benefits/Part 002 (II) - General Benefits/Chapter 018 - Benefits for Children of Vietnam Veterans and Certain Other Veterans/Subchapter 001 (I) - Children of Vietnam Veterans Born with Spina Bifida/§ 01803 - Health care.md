@@ -26,11 +26,11 @@
 
 &emsp;(6) The term “outpatient care” means care and treatment of a disability, and preventive health services, furnished to an individual other than hospital care or nursing home care.
 
-&emsp;(7) The term “preventive care” means care and treatment furnished to prevent disability or illness, including periodic examinations, immunizations, patient health education, and such other services as the Secretary determines necessary to provide effective and economical preventive health care.
+&emsp;(7) The term “preventive care” means care and treatment furnished to prevent disabilityor illness, including periodic examinations, immunizations, patient health education, and such other services as the Secretary determines necessary to provide effective and economical preventive health care.
 
 &emsp;(8) The term “habilitative and rehabilitative care” means such professional, counseling, and guidance services and treatment programs (other than vocational training under section 1804 of this title) as are necessary to develop, maintain, or restore, to the maximum extent practicable, the functioning of a disabled person.
 
-&emsp;(9) The term “respite care” means care furnished on an intermittent basis for a limited period to an individual who resides primarilyin a private residence when such care will help the individual to continue residing in such private residence.
+&emsp;(9) The term “respite care” means care furnished on an intermittent basis for a limited period to an individual who resides primarily in a private residence when such care will help the individual to continue residing in such private residence.
 
 (Added Pub. L. 104–204, title IV, §421(b)(1), Sept. 26, 1996, 110 Stat. 2923; amended Pub. L. 105–368, title X, §1005(b)(4), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 110–387, title IV, §408(a), Oct. 10, 2008, 122 Stat. 4130.)
 
@@ -40,9 +40,9 @@ A prior section 1803 was renumbered section 3703 of this title.
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–387 substituted “health care under this section” for “such health care as the Secretary determines is needed by the child for the spina bifida or any disability that is associated with such condition”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–387 substituted “health care under this section” for “such health care as the Secretary determines is needed by the child for the spina bifida or any disability that is associated with such condition”.
 
-1998—Subsec. (c)(2). Pub. L. 105–368 substituted “furnishing health care services that the Secretary determines are authorized” for “who furnishes health care that the Secretary determines authorized”.
+<b>1998</b>—Subsec. (c)(2). Pub. L. 105–368 substituted “furnishing health care services that the Secretary determines are authorized” for “who furnishes health care that the Secretary determines authorized”.
 
 #### Effective Date of 2008 Amendment
 

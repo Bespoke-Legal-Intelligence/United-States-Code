@@ -20,7 +20,7 @@
 
 #### Amendments
 
-1997—Subsec. (c). Pub. L. 105–85 substituted “that is identified under section 2505 of this title as critical for attaining the national security objectives set forth in section 2501(a) of this title.” for “identified in a defense critical technologies plan submitted to the Congress under section 2506 of this title.”
+<b>1997</b>—Subsec. (c). Pub. L. 105–85 substituted “that is identified under section 2505 of this title as critical for attaining the national security objectives set forth in section 2501(a) of this title.” for “identified in a defense critical technologies plan submitted to the Congress under section 2506 of this title.”
 
-1993—Subsec. (c). Pub. L. 103–35 substituted “a defense” for “an annual defense” and “section 2506” for “section 2522”.
+<b>1993</b>—Subsec. (c). Pub. L. 103–35 substituted “a defense” for “an annual defense” and “section 2506” for “section 2522”.
 

@@ -28,7 +28,7 @@ In general.—Except as provided in subsections (f) and (g), the Administrator s
 
 &emsp;&emsp;(A) was convicted in a court of law of a violation of a law of the United States relating to the installation, production, repair, or sale of a counterfeit or fraudulently-represented aviation part or material; or
 
-&emsp;&emsp;(B) knowingly, and with the intent to defraud, carried out or facilitated an activitypunishable under a law described in paragraph (1)(A).
+&emsp;&emsp;(B) knowingly, and with the intent to defraud, carried out or facilitated an activity punishable under a law described in paragraph (1)(A).
 
 &emsp;(2)
 
@@ -86,7 +86,7 @@ Amendment of Certificate.—If the holder of a certificate issued under this cha
 
 #### Amendments
 
-2003—Subsec. (a)(1). Pub. L. 108–176 struck out “or” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C) and substituted “described in subparagraph (A) or (B)” for “convicted of such a violation”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–176 struck out “or” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C) and substituted “described in subparagraph (A) or (B)” for “convicted of such a violation”.
 
 #### Effective Date of 2003 Amendment
 
@@ -94,5 +94,5 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 #### Effective Date
 
-Section applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as an Effective Date of 2000 Amendments note under section 106 of this title.
+Section applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, setout as an Effective Date of 2000 Amendments note under section 106 of this title.
 

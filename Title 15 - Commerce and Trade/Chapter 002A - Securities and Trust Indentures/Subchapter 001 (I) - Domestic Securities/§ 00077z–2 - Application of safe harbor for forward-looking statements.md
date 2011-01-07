@@ -68,11 +68,11 @@ Except to the extent otherwise specifically provided by rule, regulation, or ord
 
 &emsp;&emsp;&emsp;(i) if made by a natural person, was made with actual knowledge by that person that the statement was false or misleading; or
 
-&emsp;&emsp;&emsp;(ii) if made by a business entity; <sup>1</sup> was—
+&emsp;&emsp;&emsp;(ii) if made by a business entity, was—
 
 &emsp;&emsp;&emsp;&emsp;(I) made by or with the approval of an executive officer of that entity, and
 
-&emsp;&emsp;&emsp;&emsp;(II) made or approved by such officer with actual knowledge by that officer that the statement was false or misleading.
+&emsp;&emsp;&emsp;&emsp;(II) made or approved by such officer with actual knowledge by that officerthat the statement was false or misleading.
 
 #### (2) Oral forward-looking statements
 
@@ -154,7 +154,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (4) Going private transaction
 
-&emsp;The term “going private transaction” has the meaning given that term under the rules or regulations of the Commission issued pursuant to section 78m(e) of this title.
+&emsp;The term “going private transaction” has the meaning given that term under the rulesor regulations of the Commission issued pursuant to section 78m(e) of this title.
 
 #### (5) Securities laws
 
@@ -168,11 +168,17 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The terms “blank check company”, “rollup transaction”, “partnership”, “limited liability company”, “executive officer of an entity” and “direct participation investment program”, have the meanings given those terms by rule or regulation of the Commission.
 
-(May 27, 1933, ch. 38, title I, §27A, as added Pub. L. 104–67, title I, §102(a), Dec. 22, 1995, 109 Stat. 749; amended Pub. L. 105–353, title III, §301(a)(5), Nov. 3, 1998, 112 Stat. 3235.)
+(May 27, 1933, ch. 38, title I, §27A, as added Pub. L. 104–67, title I, §102(a), Dec. 22, 1995, 109 Stat. 749; amended Pub. L. 105–353, title III, §301(a)(5), Nov. 3, 1998, 112 Stat. 3235; Pub. L. 111–203, title IX, §985(a)(4), July 21, 2010, 124 Stat. 1933.)
 
 #### Amendments
 
-1998—Pub. L. 105–353 made technical correction relating to placement of section in subchapter.
+<b>2010</b>—Subsec. (c)(1)(B)(ii). Pub. L. 111–203 substituted comma for semicolon after “entity” in introductory provisions.
+
+<b>1998</b>—Pub. L. 105–353 made technical correction relating to placement of section in subchapter.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Effective Date
 
@@ -181,6 +187,4 @@ Section not to affect or apply to any private action arising under this subchapt
 #### Construction
 
 Nothing in section deemed to create or ratify any implied right of action, or to prevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), see section 203 of Pub. L. 104–67, set out as a note under section 78j–1 of this title.
-
-<i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

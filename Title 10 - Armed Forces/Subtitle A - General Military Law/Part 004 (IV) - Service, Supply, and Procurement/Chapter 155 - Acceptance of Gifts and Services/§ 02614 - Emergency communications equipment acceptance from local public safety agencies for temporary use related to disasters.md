@@ -26,5 +26,5 @@ Liability.—A person providing services accepted under this section may not be 
 
 #### Amendments
 
-2006—Pub. L. 109–364 renumbered section 2613 of this title as this section and redesignated the second subsec. (c) as (d).
+<b>2006</b>—Pub. L. 109–364 renumbered section 2613 of this title as this section and redesignated the second subsec. (c) as (d).
 

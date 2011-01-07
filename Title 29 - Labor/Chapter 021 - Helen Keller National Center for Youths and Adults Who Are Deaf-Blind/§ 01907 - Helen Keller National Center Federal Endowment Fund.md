@@ -124,5 +124,5 @@ There are authorized to be appropriated to carry out this section, such sums as 
 
 #### Amendments
 
-1998—Subsec. (h). Pub. L. 105–220 substituted “1999 through 2003” for “1993 through 1997”.
+<b>1998</b>—Subsec. (h). Pub. L. 105–220 substituted “1999 through 2003” for “1993 through 1997”.
 

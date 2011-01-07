@@ -20,7 +20,7 @@ If any area in the State of Alaska within or without the right-of-way or permit 
 
 #### Amendments
 
-1990—Subsec. (a)(1). Pub. L. 101–380, §8101(a), substituted “caused solely by” for “caused by”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–380, §8101(a), substituted “caused solely by” for “caused by”.
 
 Subsec. (a)(2). Pub. L. 101–380, §8101(b), substituted “$350,000,000” for “$50,000,000” in two places.
 
@@ -90,7 +90,7 @@ Disposition of the balance.—After the Comptroller General of the United States
 
 “(C)
 
-Disposition of the reserved amounts.—After payment of all claims arising from an incident for which funds are reserved under subparagraph (A) and certification by the Comptroller General of the United States that the claims arising from that incident have been paid, the excess amounts, if any, for that incident shall be disposed of as set forth under subparagraphs (A) and (B).
+Disposition of the reserved amounts.—After payment of all claims arising from an incident forwhich funds are reserved under subparagraph (A) and certification by the Comptroller General of the United States that the claims arising from that incident have been paid, the excess amounts, if any, for that incident shall be disposed of as set forth under subparagraphs (A) and (B).
 
 “(D)
 
@@ -98,7 +98,7 @@ Authorization.—The amounts transferred and deposited in the Fund shall be avai
 
 #### Liabilities of Trustees of TAPS Fund
 
-Section 8102(a)(5)(B) of Pub. L. 101–380 provided that: “Upon the effective date of the repeal pursuant to subparagraph (A) \[see Effective Date of 1990 Amendment note above\], the trustees of the TAPS Fund shall be relieved of all responsibilities under section 204(c) of theTrans-Alaska Pipeline Authorization Act \[43 U.S.C. 1653(c)\], but not any existing legal liability.”
+Section 8102(a)(5)(B) of Pub. L. 101–380 provided that: “Upon the effective date of the repeal pursuant to subparagraph (A) \[see Effective Date of 1990 Amendment note above\], the trustees of the TAPS Fund shall be relieved of all responsibilities under section 204(c) of the Trans-Alaska Pipeline Authorization Act \[43 U.S.C. 1653(c)\], but not any existing legal liability.”
 
 #### Preservation of Rights and Remedies of Contributors to TAPS Fund
 

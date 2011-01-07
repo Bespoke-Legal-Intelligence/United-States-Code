@@ -12,7 +12,7 @@ For the purposes of this chapter—
 
 (5) The term “rehabilitated to the point of employability” means rendered employable in an occupation for which a vocational rehabilitation program has been provided under this chapter.
 
-(6) The term “rehabilitation program” means (A) a vocational rehabilitation program, or (B) a program of independent living services and assistance authorized under section 3120 of thistitle for a veteran for whom a vocational goal has been determined not to be currently reasonably feasible.
+(6) The term “rehabilitation program” means (A) a vocational rehabilitation program, or (B) a program of independent living services and assistance authorized under section 3120 of this title for a veteran for whom a vocational goal has been determined not to be currently reasonably feasible.
 
 (7) The term “serious employment handicap” means a significant impairment, resulting in substantial part from a service-connected disability rated at 10 percent or more, of a veteran's ability to prepare for, obtain, or retain employment consistent with such veteran's abilities, aptitudes, and interests.
 
@@ -36,19 +36,19 @@ Prior section 3101 was renumbered section 5301 of this title.
 
 #### Amendments
 
-1996—Par. (1). Pub. L. 104–275, §101(a)(1), inserted “, resulting in substantial part from a disability described in section 3102(1)(A) of this title,” after “impairment”.
+<b>1996</b>—Par. (1). Pub. L. 104–275, §101(a)(1), inserted “, resulting in substantial part from a disability described in section 3102(1)(A) of this title,” after “impairment”.
 
 Par. (6). Pub. L. 104–275, §101(a)(2), inserted “authorized under section 3120 of this title” after “assistance”.
 
 Par. (7). Pub. L. 104–275, §101(a)(3), inserted “, resulting in substantial part from a service-connected disability rated at 10 percent or more,” after “impairment”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1501 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1501 of this title as this section.
 
 Par. (3). Pub. L. 102–83, §5(c)(1), substituted “3452(b)” for “1652(b)”.
 
-1989—Pars. (4), (9)(A). Pub. L. 101–237 substituted “Secretary” for “Administrator”.
+<b>1989</b>—Pars. (4), (9)(A). Pub. L. 101–237 substituted “Secretary” for “Administrator”.
 
-1986—Pars. (6)(B), (9)(A)(i). Pub. L. 99–576 inserted “currently” after “be”.
+<b>1986</b>—Pars. (6)(B), (9)(A)(i). Pub. L. 99–576 inserted “currently” after “be”.
 
 #### Effective Date of 1996 Amendment
 

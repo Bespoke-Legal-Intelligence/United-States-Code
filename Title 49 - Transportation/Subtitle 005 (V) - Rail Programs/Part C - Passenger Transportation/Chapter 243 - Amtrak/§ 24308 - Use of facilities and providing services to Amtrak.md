@@ -24,7 +24,7 @@ Operating During Emergencies.—To facilitate operation by Amtrak during an emer
 
 (c)
 
-Preference Over Freight Transportation.—Except in an emergency, intercity and commuter rail passenger transportation provided by or for Amtrak has preference over freight transportation in using a rail line, junction, or crossing unless the Board orders otherwise under this subsection. A rail carrier affected by this subsection may apply to the Board for relief. If the Board, after an opportunity for a hearing under section 553 of title 5, decides that preference for intercity and commuter rail passenger transportation materially will lessen the quality of freight transportation provided to shippers, the Board shall establish the rights of the carrier and Amtrak on reasonable terms.
+Preference Over Freight Transportation.—Except in an emergency, intercity and commuter rail passenger transportation provided by or for Amtrak has preference over freight transportation in using a rail line, junction, or crossing unless the Board orders otherwise under this subsection. A rail carrier affected by this subsection may apply to the Board for relief. If the Board, after an opportunity for a hearing under section 553 of title 5, decides that preference for intercity and commuter rail passenger transportation materially will lessen the quality of freight transportation provided to shippers, the Board shall establishthe rights of the carrier and Amtrak on reasonable terms.
 
 (d)
 
@@ -138,7 +138,7 @@ In subsection (d), the words “upon request of the Corporation” and “otherw
 
 In subsection (e)(1), the words “satisfactory, voluntary” are omitted as surplus. The words “provide, or allow Amtrak to provide” are added, and the words “Amtrak may apply to the Secretary for an order requiring the carrier to provide or allow for the operation of the requested trains” are substituted for “Upon receipt of an application from the Corporation”, for clarity.
 
-In subsection (e)(2)(A), the words “involved” and “seeking to oppose the operation of an additionaltrain” are omitted as surplus. The words “when conducting a hearing” are added for clarity.
+In subsection (e)(2)(A), the words “involved” and “seeking to oppose the operation of an additional train” are omitted as surplus. The words “when conducting a hearing” are added for clarity.
 
 In subsection (e)(2)(B), the word “proper” is omitted as surplus. The words “60 miles” are substituted for “55 miles” for consistency with 45:501a(8), restated in section 24101(c)(6) of the revised title. Section 1172(3) of the Omnibus Budget Reconciliation Act of 1981 (Public Law 91–35, 95 Stat. 688) raised the speed from 55 to 60 in 45:501a but did not make a corresponding change in 45:562(g).
 
@@ -150,7 +150,7 @@ Section 207 of the Passenger Rail Investment and Improvement Act of 2008, referr
 
 #### Amendments
 
-2008—Subsec. (a)(2). Pub. L. 110–432, §213(d)(2), substituted “Board” for “Commission” wherever appearing.
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–432, §213(d)(2), substituted “Board” for “Commission” wherever appearing.
 
 Subsec. (a)(2)(A). Pub. L. 110–432, §213(d)(1), substituted “Surface Transportation Board” for “Interstate Commerce Commission” in introductory provisions.
 

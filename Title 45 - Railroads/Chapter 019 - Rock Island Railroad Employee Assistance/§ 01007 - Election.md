@@ -30,13 +30,13 @@ This chapter, referred to in subsecs. (b) and (c), was in the original “this t
 
 #### Amendments
 
-1983—Subsec. (a). Pub. L. 97–468, §232(1), substituted “entered into or benefit schedule prescribed” for “or arrangement entered into”.
+<b>1983</b>—Subsec. (a). Pub. L. 97–468, §232(1), substituted “entered into or benefit schedule prescribed” for “or arrangement entered into”.
 
 Subsec. (b). Pub. L. 97–468, §232(2), substituted “120 days after the effective date of any agreement entered into under section 1005(a) of this title or of any benefit schedule prescribed under section 1005(b) of this title, as the case may be” for “April 1, 1981”.
 
 Subsec. (d). Pub. L. 97–468, §232(1), substituted “entered into or benefit schedule prescribed” for “or arrangement entered into”.
 
-1980—Subsec. (a). Pub. L. 96–448 inserted reference to the agreement entered into in Washington on Mar. 4, 1980, and included the title of the agreement.
+<b>1980</b>—Subsec. (a). Pub. L. 96–448 inserted reference to the agreement entered into in Washington on Mar. 4, 1980, and included the title of the agreement.
 
 #### Effective Date of 1980 Amendment
 

@@ -40,9 +40,9 @@ Another section 502 of title V of Pub. L. 93–415, as added by Pub. L. 102–58
 
 #### Amendments
 
-1996—Pub. L. 104–294, in first par., inserted “section 922(x)” before “or section 924(b)” and struck out “or (x)” after “or (h)”, and in third par., inserted “or as authorized under section 3401(g) of this title” after “shall proceed by information”.
+<b>1996</b>—Pub. L. 104–294, in first par., inserted “section 922(x)” before “or section 924(b)” and struck out “or (x)” after “or (h)”, and in third par., inserted “or as authorized under section 3401(g) of this title” after “shall proceed by information”.
 
-1994—Pub. L. 103–322, §150002(1), substituted “924(b), (g), or (h)” for “922(p)” in first par.
+<b>1994</b>—Pub. L. 103–322, §150002(1), substituted “924(b), (g), or (h)” for “922(p)” in first par.
 
 Pub. L. 103–322, §110201(c)(2)(A), inserted “or (x)” after “922(p)” in first par.
 
@@ -54,13 +54,13 @@ Pub. L. 103–322, §150002(3), inserted at end of fifth par. “In considering 
 
 Pub. L. 103–322, §140002, substituted “A juvenile shall not be transferred to adult prosecution nor shall a hearing be held under section 5037 (disposition after a finding of juvenile delinquency) until” for “Any proceedings against a juvenile under this chapter or as an adult shall not be commenced until” in tenth par.
 
-1990—Pub. L. 101–647 inserted definition of “State” at end of second par., struck out “or the District of Columbia” after “to the authorities of a State” in third par., and substituted “offenses set forth in this paragraph” for “offenses set forth in this subsection” in fourth par.
+<b>1990</b>—Pub. L. 101–647 inserted definition of “State” at end of second par., struck out “or the District of Columbia” after “to the authorities of a State” in third par., and substituted “offenses set forth in this paragraph” for “offenses set forth in this subsection” in fourth par.
 
-1988—Pub. L. 100–690, §6467(a)(1), substituted “section 401 of the Controlled Substances Act (21 U.S.C. 841), or section 1002(a), 1003, 1005, 1009, or 1010(b)(1), (2), or (3) of the Controlled Substances Import and Export Act (21 U.S.C. 952(a), 953, 955, 959, 960(b)(1), (2), (3)), or section 922(p) of this title,” for “section 841, 952(a), 955, or 959 of title 21,” in first par.
+<b>1988</b>—Pub. L. 100–690, §6467(a)(1), substituted “section 401 of the Controlled Substances Act (21 U.S.C. 841), or section 1002(a), 1003, 1005, 1009, or 1010(b)(1), (2), or (3) of the Controlled Substances Import and Export Act (21 U.S.C. 952(a), 953, 955, 959, 960(b)(1), (2), (3)), or section 922(p) of this title,” for “section 841, 952(a), 955, or 959 of title 21,” in first par.
 
 Pub. L. 100–690, §6467(a)(2), substituted “section 401 of the Controlled Substances Act (21 U.S.C. 841), or section 1002(a), 1005, or 1009 of the Controlled Substances Import and Export Act (21 U.S.C. 952(a), 955, 959),” for “section 841, 952(a), 955, or 959 of title 21,” and inserted “subsection (b)(1)(A), (B), or (C), (d), or (e) of section 401 of the Controlled Substances Act, or section 1002(a), 1003, 1009, or 1010(b)(1), (2), or (3) of the Controlled Substances Import and Export Act (21 U.S.C. 952(a), 953, 959, 960(b)(1), (2), (3)),” after “2275 of this title,” in fourth par.
 
-1984—Pub. L. 98–473, §1201(a), amended first par. generally, inserting “, other than a violation of law committed within the special maritime and territorial jurisdiction of the United States for which the maximum authorized term of imprisonment does not exceed six months,” before “shall not be proceeded”, inserting “(1)” before “the juvenile court”, striking out “(1)” before “does not have”, inserting “the State” after “(2)”, and inserting “, or (3) the offense charged is a crime of violence that is a felony, or an offense described in section 841, 952(a), 955, or 959 of title 21, and that there is a substantial Federal interest in the case or the offense to warrant the exercise of Federal jurisdiction.”
+<b>1984</b>—Pub. L. 98–473, §1201(a), amended first par. generally, inserting “, other than a violation of law committed within the special maritime and territorial jurisdiction of the United States for which the maximum authorized term of imprisonment does not exceed six months,” before “shall not be proceeded”, inserting “(1)” before “the juvenile court”, striking out “(1)” before “does not have”, inserting “the State” after “(2)”, and inserting “, or (3) the offense charged is a crime of violence that is a felony, or an offense described in section 841, 952(a), 955, or 959 of title 21, and that there is a substantial Federal interest in the case or the offense to warrant the exercise of Federal jurisdiction.”
 
 Pub. L. 98–473, §1201(b)(1), which directed the amendment of fourth par. by substituting “that is a crime of violence or an offense described in section 841, 952(a), 955, or 959 of title 21” for “punishable by a maximum penalty of ten years imprisonment or more, life imprisonment or death” was executed by substituting the quoted wording for “punishable by a maximum penalty of ten years imprisonment or more, life imprisonment, or death” as the probable intent of Congress.
 
@@ -70,5 +70,5 @@ Pub. L. 98–473, §1201(b)(3), inserted provision at end of fourth par., relati
 
 Pub. L. 98–473, §1201(c), added three pars. at end of section relating to juveniles not convicted of crimes in district court, reception of prior juveniles court records by the court, and description of the specific act of delinquency for the record.
 
-1974—Pub. L. 93–415 amended section generally, substituting “Delinquency proceedings in district courts; transfer for criminal prosecution”, for “Proceedings against juvenile delinquent” in section catchline, inserting provisions relating to certification to, and procedures in, district courts, transfer upon motion by Attorney General with respect to a juvenile sixteen years and older, factors considered in transfer, notice of transfer, barring of subsequent criminal or juvenile delinquency proceedings upon entering plea of guilty or upon taking of evidence, and admissibility of statements by a juvenile in subsequent criminal prosecution, and substituting provision relating to consent upon advice of counsel for treatment as an adult, for provision requiring consent for treatment as a juvenile.
+<b>1974</b>—Pub. L. 93–415 amended section generally, substituting “Delinquency proceedings in district courts; transfer for criminal prosecution”, for “Proceedings against juvenile delinquent” in section catchline, inserting provisions relating to certification to, and procedures in, district courts, transfer upon motion by Attorney General with respect to a juvenile sixteen years and older, factors considered in transfer, notice of transfer, barring of subsequent criminal or juvenile delinquency proceedings upon entering plea of guilty or upon taking of evidence, and admissibility of statements by a juvenile in subsequent criminal prosecution, and substituting provision relating to consent upon advice of counsel for treatment as an adult, for provision requiring consent for treatment as a juvenile.
 

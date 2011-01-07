@@ -34,7 +34,7 @@
 
 #### Amendments
 
-2003—Pub. L. 108–96 substituted “Demonstration” for “Temporary demonstration” in section catchline.
+<b>2003</b>—Pub. L. 108–96 substituted “Demonstration” for “Temporary demonstration” in section catchline.
 
-1999—Subsec. (a)(1). Pub. L. 106–71 substituted “The Secretary” for “With funds appropriated under section 5751(c) of this title, the Secretary”.
+<b>1999</b>—Subsec. (a)(1). Pub. L. 106–71 substituted “The Secretary” for “With funds appropriated under section 5751(c) of this title, the Secretary”.
 

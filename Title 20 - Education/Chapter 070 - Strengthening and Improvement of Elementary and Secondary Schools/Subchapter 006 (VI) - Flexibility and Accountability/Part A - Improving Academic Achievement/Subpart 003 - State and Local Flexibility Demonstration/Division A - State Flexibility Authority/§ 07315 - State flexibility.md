@@ -20,7 +20,7 @@ In this division:
 
 &emsp;&emsp;&emsp;(ii) not fewer than half of which shall be entered into with high-poverty local educational agencies; and
 
-&emsp;&emsp;&emsp;(iii) that require the local educational agencies described in clause (i) to aligntheir use of consolidated funds under section 7321a of this title with the State educational agency's use of consolidated funds under section 7315a of this title.
+&emsp;&emsp;&emsp;(iii) that require the local educational agencies described in clause (i) to align their use of consolidated funds under section 7321a of this title with the State educational agency's use of consolidated funds under section 7315a of this title.
 
 #### (2) High-poverty local educational agency
 
@@ -70,7 +70,7 @@ In this division:
 
 #### (A) In general
 
-&emsp;&emsp;A State educational agency that wishes to receive flexibility authority under this subpart shall propose performance agreements that meet the requirements of clauses (i) and (ii) of subsection (b)(1)(B) of this section (subject to approval of the application oramendment involved under subsection (d) or (e) of this section).
+&emsp;&emsp;A State educational agency that wishes to receive flexibility authority under this subpart shall propose performance agreements that meet the requirements of clauses (i) and (ii) of subsection (b)(1)(B) of this section (subject to approval of the application or amendment involved under subsection (d) or (e) of this section).
 
 #### (B) Performance agreements
 
@@ -110,7 +110,7 @@ The Secretary shall—
 
 #### (B) Expansion of scope of the grant of authority
 
-&emsp;&emsp;Not later than 1 year after receiving a grant of flexibility authority, the State educational agency seeks to amend the grant of authority to include in the scope of the grant of authority any additional program described in section 7315a(b) of this title or any additional achievement indicators for which the State will be held accountable.
+&emsp;&emsp;Not later than 1 year after receiving a grant of flexibility authority, the State educational agency seeks to amend the grant of authority to include in the scope of the grant of authority any additional programdescribed in section 7315a(b) of this title or any additional achievement indicators for which the State will be held accountable.
 
 #### (C) Changes with respect to number of performance agreements
 

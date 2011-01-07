@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(B) 20 percent for section 8133(a)(3) of this title for one child and 10 percent additional for each additional child, but not to exceed a total of 75 percent, if the member died fully or currently insured under subchapter II of chapter 7 of title 42; and
 
-&emsp;&emsp;(C) 25 percent for section 8133(a)(4) of this title, if one parent was wholly dependent on the deceased member at the time of his death and the other was not dependent to any extent; 16 percent to each, if both were wholly dependent; and if one was or both were partly dependent, a proportionate amount in the discretion of the Secretary of Labor;
+&emsp;&emsp;(C) 25 percent for section 8133(a)(4) of this title, if one parent was wholly dependent onthe deceased member at the time of his death and the other was not dependent to any extent; 16 percent to each, if both were wholly dependent; and if one was or both were partly dependent, a proportionate amount in the discretion of the Secretary of Labor;
 
 &emsp;(3) a payment may not be made under section 8133(a)(5) of this title;
 

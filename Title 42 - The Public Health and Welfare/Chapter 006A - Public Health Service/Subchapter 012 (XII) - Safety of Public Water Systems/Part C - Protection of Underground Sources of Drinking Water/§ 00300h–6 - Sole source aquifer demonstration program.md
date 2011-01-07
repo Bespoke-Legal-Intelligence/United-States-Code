@@ -62,7 +62,7 @@ An application submitted to the Administrator by any applicant for a demonstrati
 
 &emsp;(A) A determination of the quality of the existing ground water recharged through the special protection area and the natural recharge capabilities of the special protection area watershed.
 
-&emsp;(B) Requirements designed to maintain existing underground drinking water quality orimprove underground drinking water quality if prevailing conditions fail to meet drinking water standards, pursuant to this chapter and State law.
+&emsp;(B) Requirements designed to maintain existing underground drinking water quality or improve underground drinking water quality if prevailing conditions fail to meet drinking water standards, pursuant to this chapter and State law.
 
 &emsp;(C) Limits on Federal, State, and local government, financially assisted activities and projects which may contribute to degradation of such ground water or any loss of natural surface and subsurface infiltration of purification capability of the special protection watershed.
 
@@ -92,7 +92,7 @@ Within 120 days after receipt of an application under this section, the Administ
 
 #### (j) Grants and reimbursement
 
-Upon entering a cooperative agreement under subsection (i) of this section, the Administrator may provide to the applicant, on a matching basis, a grant of 50 per centum of the costs of implementing the plan established under this section. The Administrator may also reimburse the applicant of an approved plan up to 50 per centum of the costs of developing such plan, except for plans approved under section 208 of the Clean Water Act \[33 U.S.C. 1288\]. The total amount of grants under this section for any one aquifer, designated under section 300h–3(e) of this title, shall not exceed $4,000,000 in any one fiscal year.
+Upon entering a cooperative agreement under subsection (i) of this section, the Administrator may provide to the applicant, on a matching basis, a grant of 50 per centum of the costs of implementing the plan established under this section. The Administrator may also reimburse the applicant of an approved plan up to 50 per centum of the costs of developing such plan, except for plans approved under section 208 of the Clean Water Act \[33 U.S.C. 1288\]. The total amount of grants under this section for any oneaquifer, designated under section 300h–3(e) of this title, shall not exceed $4,000,000 in any one fiscal year.
 
 #### (k) Activities funded under other law
 
@@ -123,7 +123,7 @@ There are authorized to be appropriated to carry out this section not more than 
 
 #### References in Text
 
-The Clean Water Act, referred to in subsec. (k), is act June 30, 1948, ch. 758, as amended generally by Pub. L.92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Clean Water Act, referred to in subsec. (k), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 The Solid Waste Disposal Act, referred to in subsec. (k), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
@@ -131,7 +131,7 @@ The Comprehensive Environmental Response, Compensation, and Liability Act of 198
 
 #### Amendments
 
-1996—Pub. L. 104–182, §501(f)(3), made technical amendment to section catchline and subsec. (a) designation.
+<b>1996</b>—Pub. L. 104–182, §501(f)(3), made technical amendment to section catchline and subsec. (a) designation.
 
 Subsec. (b)(1). Pub. L. 104–182, §120(a)(1), struck out “not later than 24 months after June 19, 1986,” after “by the Administrator”.
 
@@ -139,7 +139,7 @@ Subsec. (k). Pub. L. 104–182, §501(b)(2), substituted “this section” for 
 
 Subsec. (m). Pub. L. 104–182, §120(a)(2), inserted table item relating to fiscal years 1992 through 2003.
 
-1995—Subsecs. (<i>l</i>) to (n). Pub. L. 104–66 redesignated subsecs. (m) and (n) as (<i>l</i>) and (m), respectively, and struck out heading and text of former subsec. (<i>l</i>). Text read as follows: “Not later than December 31, 1989, each State shall submit to the Administrator a report assessing the impact of the program on ground water quality and identifying those measures found to be effective in protecting ground water resources. No later than September 30, 1990, the Administrator shall submit to Congress a report summarizing the State reports, and assessing the accomplishments of the sole source aquifer demonstration program including an identification of protection methods found to be most effective and recommendations for their application to protect ground water resources from contamination whenever necessary.”
+<b>1995</b>—Subsecs. (<i>l</i>) to (n). Pub. L. 104–66 redesignated subsecs. (m) and (n) as (<i>l</i>) and (m), respectively, and struck out heading and text of former subsec. (<i>l</i>). Text read as follows: “Not later than December 31, 1989, each State shall submit to the Administrator a report assessing the impact of the program on ground water quality and identifying those measures found to be effective in protecting ground water resources. No later than September 30, 1990, the Administrator shall submit to Congress a report summarizing the State reports, and assessing the accomplishments of the sole source aquifer demonstration program including an identification of protection methods found to be most effective and recommendations for their application to protect ground water resources from contamination whenever necessary.”
 
-1986—Subsec. (n). Pub. L. 99–339 added subsec. (n).
+<b>1986</b>—Subsec. (n). Pub. L. 99–339 added subsec. (n).
 

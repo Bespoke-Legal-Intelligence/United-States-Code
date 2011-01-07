@@ -60,27 +60,27 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 A prior section 3796b, Pub. L. 90–351, title I, §1203, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1220; amended Pub. L. 98–411, title II, §204(a)(3), Aug. 30, 1984, 98 Stat. 1561; Pub. L. 98–473, title II, §609Z, Oct. 12, 1984, 98 Stat. 2107, contained provisions similar to this section, prior to the general amendment of this subchapter by section 609F of Pub. L. 98–473.
 
-Another prior section 3796b, Pub. L. 90–351, title I, §703, as added Pub. L. 94–430, §2, Sept. 29, 1976, 90 Stat.1347, contained provisions similar to this section, prior to the general amendment of this chapter by Pub. L. 96–157.
+Another prior section 3796b, Pub. L. 90–351, title I, §703, as added Pub. L. 94–430, §2, Sept. 29, 1976, 90 Stat. 1347, contained provisions similar to this section, prior to the general amendment of this chapter by Pub. L. 96–157.
 
 A prior section 1204 of Pub. L. 90–351 was renumbered section 1205 and is classified to section 3796c of this title.
 
 #### Amendments
 
-2006—Par. (4). Pub. L. 109–162, §1164(a)(3), struck out “and an officially recognized or designated public employee member of a rescue squad or ambulance crew” before semicolon at end.
+<b>2006</b>—Par. (4). Pub. L. 109–162, §1164(a)(3), struck out “and an officially recognized or designated public employee member of a rescue squad or ambulance crew” before semicolon at end.
 
 Par. (6). Pub. L. 109–162, §1164(a)(4), substituted “enforcement of the criminal laws (including juvenile delinquency).” for “enforcement of the laws”.
 
 Pars. (7) to (9). Pub. L. 109–162, §1164(a)(1), (2), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively.
 
-2002—Pars. (2) to (7). Pub. L. 107–196, §2(a)(1), (2), added par. (2) and redesignated former pars. (2) to (6) as (3) to (7), respectively. Former par. (7) redesignated (8).
+<b>2002</b>—Pars. (2) to (7). Pub. L. 107–196, §2(a)(1), (2), added par. (2) and redesignated former pars. (2) to (6) as (3) to (7), respectively. Former par. (7) redesignated (8).
 
 Par. (8). Pub. L. 107–196, §2(a)(1), (3), redesignated par. (7) as (8) and inserted “as a chaplain,” after “firefighter,” in subpar. (A).
 
-2000—Par. (7). Pub. L. 106–390 added par. (7) and struck out former par. (7) which read as follows: “ ‘public safety officer’ means an individual serving a public agency in an official capacity, with or without compensation, as a law enforcement officer, a firefighter, or rescue squad or ambulance crew”.
+<b>2000</b>—Par. (7). Pub. L. 106–390 added par. (7) and struck out former par. (7) which read as follows: “ ‘public safety officer’ means an individual serving a public agency in an official capacity, with or without compensation, as a law enforcement officer, a firefighter, or rescue squad or ambulance crew”.
 
-1994—Par. (3). Pub. L. 103–322 struck out before semicolon at end “who was responding to a fire, rescue or police emergency”.
+<b>1994</b>—Par. (3). Pub. L. 103–322 struck out before semicolon at end “who was responding to a fire, rescue or police emergency”.
 
-1990—Par. (1). Pub. L. 101–647, §1301(c), added par. (1). Former par. (1) redesignated (2).
+<b>1990</b>—Par. (1). Pub. L. 101–647, §1301(c), added par. (1). Former par. (1) redesignated (2).
 
 Par. (2). Pub. L. 101–647, §1302, which directed amendment of par. (2) by inserting a period after “ambulance crew” and striking out “who was responding to a fire, rescue or police emergency.”, could not be executed because the phrases “ambulance crew” and “who was responding to a fire, rescue or police emergency.” did not appear in text of par. (2).
 
@@ -88,9 +88,9 @@ Pub. L. 101–647, §1301(c)(1), redesignated par. (1) as (2). Former par. (2) r
 
 Pars. (3) to (7). Pub. L. 101–647, §1301(c)(1), redesignated pars. (2) to (6) as (3) to (7), respectively.
 
-1988—Pars. (2) to (7). Pub. L. 100–690, §6105(d), redesignated pars. (3) to (7) as (2) to (6), respectively, and struck out former par. (2) defining a “dependent” as any individual substantially reliant for support upon income of deceased public safety officer.
+<b>1988</b>—Pars. (2) to (7). Pub. L. 100–690, §6105(d), redesignated pars. (3) to (7) as (2) to (6), respectively, and struck out former par. (2) defining a “dependent” as any individual substantially reliant for support upon income of deceased public safety officer.
 
-1986—Pub. L. 99–500 and Pub. L. 99–591 inserted “and an officially recognized or designated public employee member of a rescue squad or ambulance crew who was responding to a fire, rescue or police emergency” in par. (3), and substituted “, a firefighter, or rescue squad or ambulance crew” for “or a firefighter.” in par. (7).
+<b>1986</b>—Pub. L. 99–500 and Pub. L. 99–591 inserted “and an officially recognized or designated public employee member of a rescue squad or ambulance crew who was responding to a fire, rescue or police emergency” in par. (3), and substituted “, a firefighter, or rescue squad or ambulance crew” for “or a firefighter.” in par. (7).
 
 #### Change of Name
 

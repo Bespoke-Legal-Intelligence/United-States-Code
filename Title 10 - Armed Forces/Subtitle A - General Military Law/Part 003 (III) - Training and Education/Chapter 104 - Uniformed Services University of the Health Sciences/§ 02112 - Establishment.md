@@ -10,13 +10,13 @@
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–107 struck out “, with the first class graduating not later than September 21, 1982” before period at end.
+<b>2001</b>—Subsec. (a). Pub. L. 107–107 struck out “, with the first class graduating not later than September 21, 1982” before period at end.
 
-1996—Subsec. (b). Pub. L. 104–106 struck out “, upon recommendation of the Board of Regents,” before “institute actions necessary”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–106 struck out “, upon recommendation of the Board of Regents,” before “institute actions necessary”.
 
-1980—Subsec. (a). Pub. L. 96–513 inserted “in this chapter” after “hereinafter”, and substituted “September 21, 1982” for “10 years after the date of the enactment of this chapter”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 inserted “in this chapter” after “hereinafter”, and substituted “September 21, 1982” for “10 years after the date of the enactment of this chapter”.
 
-1979—Subsec. (b). Pub. L. 96–107 inserted provisions respecting the maximum number of first-year enrollments in the University.
+<b>1979</b>—Subsec. (b). Pub. L. 96–107 inserted provisions respecting the maximum number of first-year enrollments in the University.
 
 #### Effective Date of 1980 Amendment
 
@@ -28,7 +28,7 @@ Section 1 of Pub. L. 92–426 provided: “That this Act \[enacting this chapter
 
 #### Transfer of Functions
 
-For transfer of authority of Board of Regents of Uniformed Services University of the Health Sciences to Secretary of Defense, see section 8091 of Pub. L. 101–511, set out as a note under section 2113 of this title.
+For transfer of authority of Board of Regents of Uniformed Services University of the Health Sciences toSecretary of Defense, see section 8091 of Pub. L. 101–511, set out as a note under section 2113 of this title.
 
 #### Continuation of Uniformed Services University of the Health Sciences
 

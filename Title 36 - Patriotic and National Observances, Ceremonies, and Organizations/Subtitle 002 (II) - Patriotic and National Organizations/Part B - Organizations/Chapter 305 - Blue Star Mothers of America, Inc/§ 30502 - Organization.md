@@ -24,7 +24,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-30502D36:941.DJuly 14, 1960, Pub. L. 86–653, §§1, 2, 4(1), 74 Stat. 515, 516.
+30502
+
+36:941.
+
+July 14, 1960, Pub. L. 86–653, §§1, 2, 4(1), 74 Stat. 515, 516.
 
 &nbsp;
 

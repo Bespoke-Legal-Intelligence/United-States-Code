@@ -71,13 +71,15 @@
 
 #### Amendments
 
-2005—Pub. L. 109–59, title X, §10303(a), Aug. 10, 2005, 119 Stat. 1940, which directed amendment of the table of sections for chapter 301 by adding item 30128, without specifying the title to be amended, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
+<b>2005</b>—Pub. L. 109–59, title X, §10303(a), Aug. 10, 2005, 119 Stat. 1940, which directed amendment of the table of sections for chapter 301 by adding item 30128, without specifying the title to be amended, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
 
 Pub. L. 109–59, title X, §10208(b), Aug. 10, 2005, 119 Stat. 1936, added item 30106.
 
-2000—Pub. L. 106–414, §5(b)(2), Nov. 1, 2000, 114 Stat. 1804, added item 30170.
+<b>2000</b>—Pub. L. 106–414, §5(b)(2), Nov. 1, 2000, 114 Stat. 1804, added item 30170.
 
-1998—Pub. L. 105–178, title VII, §7104(b), June 9, 1998, 112 Stat. 467, added item 30105.
+<b>1998</b>—Pub. L. 105–178, title VII, §7104(b), June 9, 1998, 112 Stat. 467, added item 30105.
+
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

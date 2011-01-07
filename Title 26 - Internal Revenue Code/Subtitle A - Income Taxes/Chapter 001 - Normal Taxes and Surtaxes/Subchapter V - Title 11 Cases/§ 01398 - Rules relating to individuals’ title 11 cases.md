@@ -62,7 +62,7 @@ Except as provided in subsection (b), this section shall apply to any case under
 
 #### (F) Annualization
 
-&emsp;&emsp;For purposes of subsections (b), (c), and (d) of section 443, a return filed for either of the taxable years referred to in subparagraph\(A) shall be treated as a return made under paragraph (1) of subsection (a) of section 443.
+&emsp;&emsp;For purposes of subsections (b), (c), and (d) of section 443, a return filed for either of the taxable years referred to in subparagraph (A) shall be treated as a return made under paragraph (1) of subsection (a) of section 443.
 
 #### (3) Commencement date defined
 
@@ -172,7 +172,7 @@ In the case of a termination of an estate, the debtor shall succeed to and take 
 
 #### (A) Carrybacks from estate
 
-&emsp;&emsp;If any carryback year of the estate is a taxable year before the estate's first taxable year, the carryback to such carryback year shall be taken into account for the debtor's taxable year corresponding to the carryback year.
+&emsp;&emsp;If any carryback year of the estate is a taxable year before the estate's first taxableyear, the carryback to such carryback year shall be taken into account for the debtor's taxable year corresponding to the carryback year.
 
 #### (B) Carrybacks from debtor's activities
 
@@ -198,7 +198,7 @@ Part IV of subchapter A, referred to in subsec. (j)(2)(C)(i), probably means par
 
 #### Amendments
 
-1986—Subsec. (c). Pub. L. 99–514, §104(b)(14)(A), substituted “basic standard deduction” for “zero bracket amount” in heading.
+<b>1986</b>—Subsec. (c). Pub. L. 99–514, §104(b)(14)(A), substituted “basic standard deduction” for “zero bracket amount” in heading.
 
 Subsec. (c)(3). Pub. L. 99–514, §104(b)(14)(B), amended par. (3) generally, substituting “Basic standard deduction” for “Amount of zero bracket amount” in heading and substituting “In the case of an estate which does not itemize deductions, the basic standard deduction for the estate” for “The amount of the estate's zero bracket amount” in text.
 

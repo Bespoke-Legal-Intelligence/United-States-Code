@@ -156,7 +156,7 @@ In awarding grants under this section, the Secretary—
 
 #### (3) Reservation of funds for national program purposes
 
-&emsp;The Secretary may use not more than 3 percent of funds appropriated to carry out this section for providing technical assistance to grantees, obtaining assistance of experts and consultants, holding meetings, developing of tools, disseminating of information, evaluation, and carrying out activities that will extend the benefits of programs funded under this section to communities other than the community served by the program funded.
+&emsp;The Secretary may use not more than 3 percent of funds appropriated to carry out this section for providing technical assistance tograntees, obtaining assistance of experts and consultants, holding meetings, developing of tools, disseminating of information, evaluation, and carrying out activities that will extend the benefits of programs funded under this section to communities other than the community served by the program funded.
 
 #### (f) Grantee requirements
 
@@ -188,7 +188,7 @@ With respect to activities for which a grant under this section is authorized, t
 
 #### (h) Technical assistance
 
-The Secretary may, either directly or by grant or contract, provide any entity that receives agrant under this section with technical and other nonfinancial assistance necessary to meet the requirements of this section.
+The Secretary may, either directly or by grant or contract, provide any entity that receives a grant under this section with technical and other nonfinancial assistance necessary to meet the requirements of this section.
 
 #### (i) Evaluation of program
 
@@ -221,6 +221,22 @@ A prior section 256, act July 1, 1944, ch. 373, title III, §340, as added July 
 Another prior section 256, act July 1, 1944, ch. 373, title III, §340, as added Nov. 10, 1978, Pub. L. 95–626, title I, §115(2), 92 Stat. 3567; amended Dec. 12, 1979, Pub. L. 96–142, title III, §301(a), 93 Stat. 1073; Aug. 13, 1981, Pub. L. 97–35, title IX, §903(b)(1), 95 Stat. 561; Jan. 4, 1983, Pub. L. 97–414, §8(h), 96 Stat. 2061, related to primary care research and demonstration projects to serve medically underserved population, prior to repeal by Pub. L. 97–35, title IX, §903(c), Aug. 13, 1981, 95 Stat. 561, eff. Oct. 1, 1982.
 
 Another prior section 256, act July 1, 1944, ch. 373, title III, §340, formerly §332, 58 Stat. 698; renumbered §340, Oct. 12, 1976, Pub. L. 94–484, title IV, §407(b)(2), 90 Stat. 2268, related to apprehension, detention, treatment, and release of persons being treated for leprosy, prior to repeal by Pub. L. 95–626, title I, §105(b), Nov. 10, 1978, 92 Stat. 3560.
+
+#### Demonstration Project To Provide Access to Affordable Care
+
+Pub. L. 111–148, title X, §10504, Mar. 23, 2010, 124 Stat. 1004, provided that:
+
+“(a)
+
+In General.—Not later than 6 months after the date of enactment of this Act \[Mar. 23, 2010\], the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’), acting through the Health Resources and Services Administration, shall establish a 3 year demonstration project in up to 10 States to provide access to comprehensive health care services to the uninsured at reduced fees. The Secretary shall evaluate the feasibility of expanding the project to additional States.
+
+“(b)
+
+Eligibility.—To be eligible to participate in the demonstration project, an entity shall be a State-based, nonprofit, public-private partnership that provides access to comprehensive health care services to the uninsured at reduced fees. Each State in which a participant selected by the Secretary is located shall receive not more than $2,000,000 to establish and carry out the project for the 3-year demonstration period.
+
+“(c)
+
+Authorization.—There is authorized to be appropriated such sums as may be necessary to carry out this section.”
 
 #### Purpose
 

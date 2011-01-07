@@ -2,7 +2,7 @@
 
 #### (a) Membership; qualifications
 
-In administering this subchapter, the Surgeon General shall consult with a Federal Hospital Council consisting of the Surgeon General, who shall serve as Chairman ex officio, and twelve members appointed by the Secretary of Health and Human Services. Six of the twelve appointed members shall be persons who are outstanding in fields pertaining to medical facility and health activities, and three of these six shall be authorities in matters relating to the operation of hospitals or other medical facilities, one of them shall be an authority in matters relating to the mentally retarded, and one of them shall be an authority in matters relating to mental health, and the other six members shall be appointed to represent the consumers of the services provided by such facilities and shall be persons familiar with the need for such services in urban or rural areas.
+In administering this subchapter, the Surgeon General shall consult with a Federal Hospital Council consisting of the Surgeon General, who shall serve as Chairman ex officio, and twelve members appointed by the Secretary of Health and Human Services. Six of the twelve appointed members shall be persons who are outstanding in fields pertaining to medical facility and health activities, and three of these six shall be authorities in matters relating to the operation of hospitals or other medical facilities, one of them shall be an authority in matters relating to individuals with intellectual disabilities, and one of them shall be an authority in matters relating to mental health, and the other six members shall be appointed to represent the consumers of the services provided by such facilities and shall be persons familiar with the need for such services in urban or rural areas.
 
 #### (b) Term of membership
 
@@ -16,7 +16,7 @@ The Council shall meet as frequently as the Surgeon General deems necessary, but
 
 The Council is authorized to appoint such special advisory or technical committees as may be useful in carrying out its functions.
 
-(July 1, 1944, ch. 373, title VI, §641, formerly §621, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 458, renumbered §641, Pub. L. 91–296, title II, §201, June 30, 1970, 84 Stat. 344; amended Pub. L. 91–515, title VI, §601(b)(2), Oct. 30, 1970, 84 Stat. 1311; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
+(July 1, 1944, ch. 373, title VI, §641, formerly §621, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 458, renumbered §641, Pub. L. 91–296, title II, §201, June 30, 1970, 84 Stat. 344; amended Pub. L. 91–515, title VI, §601(b)(2), Oct. 30, 1970, 84 Stat. 1311; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 111–256, §2(f)(4), Oct. 5, 2010, 124 Stat. 2644.)
 
 #### Prior Provisions
 
@@ -24,7 +24,9 @@ Provisions similar to those comprising this section were contained in subsec. (b
 
 #### Amendments
 
-1970—Subsec. (e). Pub. L. 91–515 struck out subsec. (e) which related to payment of compensation and travel expenses of appointed Council members and members of advisory or technical committees while serving on Council business.
+<b>2010</b>—Subsec. (a). Pub. L. 111–256 substituted “matters relating to individuals with intellectual disabilities” for “matters relating to the mentally retarded”.
+
+<b>1970</b>—Subsec. (e). Pub. L. 91–515 struck out subsec. (e) which related to payment of compensation and travel expenses of appointed Council members and members of advisory or technical committees while serving on Council business.
 
 #### Transfer of Functions
 
@@ -39,4 +41,8 @@ Section 3(b)(3) of Pub. L. 88–443 providing that the terms of members serving 
 #### Termination of Advisory Committees
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+
+#### Definitions
+
+For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under section 1400 of Title 20, Education.
 

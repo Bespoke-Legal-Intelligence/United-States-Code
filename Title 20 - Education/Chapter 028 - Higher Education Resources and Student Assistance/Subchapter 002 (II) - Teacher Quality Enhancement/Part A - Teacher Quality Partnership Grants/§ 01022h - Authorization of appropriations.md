@@ -16,7 +16,7 @@ Another prior section 1023, Pub. L. 89–329, title II, §203, Nov. 8, 1965, 79 
 
 A prior section 1024, Pub. L. 89–329, title II, §204, as added Pub. L. 105–244, title II, §201, Oct. 7, 1998, 112 Stat. 1627; amended Pub. L. 107–110, title X, §1051(2), Jan. 8, 2002, 115 Stat. 2080, related to teacher recruitment grants, prior to repeal by Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3133.
 
-Another prior section 1024, Pub. L. 89–329, title II, §204, Nov. 8, 1965, 79 Stat. 1226; Pub. L. 90–575, title II, §§212(b), (c), 213(a), Oct. 16, 1968, 82 Stat. 1036; Pub. L. 92–318, title I, §111(b)(2)(C), June 23, 1972, 86 Stat. 239,provided for special purpose grants in the college library resources program, prior to the general amendment of this subchapter by Pub. L. 96–374.
+Another prior section 1024, Pub. L. 89–329, title II, §204, Nov. 8, 1965, 79 Stat. 1226; Pub. L. 90–575, title II, §§212(b), (c), 213(a), Oct. 16, 1968, 82 Stat. 1036; Pub. L. 92–318, title I, §111(b)(2)(C), June 23, 1972, 86 Stat. 239, provided for special purpose grants in the college library resources program, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 A prior section 1025, Pub. L. 89–329, title II, §205, as added Pub. L. 105–244, title II, §201, Oct. 7, 1998, 112 Stat. 1628; amended Pub. L. 107–110, title X, §1051(2), Jan. 8, 2002, 115 Stat. 2080, related to administrative provisions, prior to repeal by Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3133.
 

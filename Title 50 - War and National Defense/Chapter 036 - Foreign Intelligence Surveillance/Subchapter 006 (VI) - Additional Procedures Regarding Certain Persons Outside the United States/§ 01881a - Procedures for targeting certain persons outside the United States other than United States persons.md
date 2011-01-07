@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-Notwithstanding any other provision of law, upon the issuance of an order in accordance withsubsection (i)(3) or a determination under subsection (c)(2), the Attorney General and the Director of National Intelligence may authorize jointly, for a period of up to 1 year from the effective date of the authorization, the targeting of persons reasonably believed to be located outside the United States to acquire foreign intelligence information.
+Notwithstanding any other provision of law, upon the issuance of an order in accordance with subsection (i)(3) or a determination under subsection (c)(2), the Attorney General and the Director of National Intelligence may authorize jointly, for a period of up to 1 year from the effective date of the authorization, the targeting of persons reasonably believed to be located outside the United States to acquire foreign intelligence information.
 
 #### (b) Limitations
 
@@ -172,7 +172,7 @@ An acquisition authorized under subsection (a)—
 
 #### (2) Compensation
 
-&emsp;The Government shall compensate, at the prevailing rate, an electronic communicationservice provider for providing information, facilities, or assistance in accordance with a directive issued pursuant to paragraph (1).
+&emsp;The Government shall compensate, at the prevailing rate, an electronic communication service provider for providing information, facilities, or assistance in accordance with a directive issued pursuant to paragraph (1).
 
 #### (3) Release from liability
 
@@ -194,7 +194,7 @@ An acquisition authorized under subsection (a)—
 
 #### (D) Procedures for initial review
 
-&emsp;&emsp;A judge shall conduct an initial review of a petition filed under subparagraph (A) not later than 5 days after being assigned such petition. If the judge determines that such petition does not consist of claims, defenses, or other legal contentions that are warranted by existing law or by a nonfrivolous argument for extending, modifying, or reversing existing law or for establishing new law, the judge shall immediately deny such petition and affirm the directive or any part of the directive that is the subject of such petition and order the recipient to comply with the directive or any part of it. Upon making a determination under this subparagraph or promptly thereafter, the judge shall provide a written statement for the record of the reasons for such determination.
+&emsp;&emsp;A judge shall conduct an initial review of a petition filed under subparagraph (A) not later than 5 days after being assigned such petition. If the judge determines that such petition does not consist of claims, defenses, or other legal contentions that are warranted by existing law or by a nonfrivolous argument for extending, modifying, or reversing existing law or for establishing new law, the judge shall immediately deny such petition and affirm the directive or any part of the directive that is the subject of such petition and order the recipient to comply with the directive or any part of it. Uponmaking a determination under this subparagraph or promptly thereafter, the judge shall provide a written statement for the record of the reasons for such determination.
 
 #### (E) Procedures for plenary review
 
@@ -238,7 +238,7 @@ An acquisition authorized under subsection (a)—
 
 #### (B) Certiorari to the Supreme Court
 
-&emsp;&emsp;The Government or an electronic communication service provider receiving a directive issued pursuant to paragraph (1) mayfile a petition for a writ of certiorari for review of a decision of the Court of Review issued under subparagraph (A). The record for such review shall be transmitted under seal to the Supreme Court of the United States, which shall have jurisdiction to review such decision.
+&emsp;&emsp;The Government or an electronic communication service provider receiving a directive issued pursuant to paragraph (1) may file a petition for a writ of certiorari for review of a decision of the Court of Review issued under subparagraph (A). The record for such review shall be transmitted under seal to the Supreme Court of the United States, which shall have jurisdiction to review such decision.
 
 #### (i) Judicial review of certifications and procedures
 
@@ -324,7 +324,7 @@ An acquisition authorized under subsection (a)—
 
 #### (B) Reauthorization of orders, authorizations, and directives
 
-&emsp;&emsp;If the Attorney General and the Director of National Intelligence seek to reauthorize or replace an authorization issued under subsection (a) by filing a certification pursuant to subparagraph (A), that authorization, and any directives issued thereunder and any order related thereto, shall remain in effect, notwithstanding the expiration provided for in subsection (a), until the Court issues an order with respect to such certification under paragraph (3) at which time the provisions of that paragraph and paragraph (4) shall apply with respect to such certification.
+&emsp;&emsp;If the Attorney General and the Director of National Intelligence seek to reauthorize or replace an authorization issued under subsection (a) by filing a certification pursuant to subparagraph (A), that authorization, and any directives issued thereunder and any order related thereto, shall remain in effect,notwithstanding the expiration provided for in subsection (a), until the Court issues an order with respect to such certification under paragraph (3) at which time the provisions of that paragraph and paragraph (4) shall apply with respect to such certification.
 
 #### (j) Judicial proceedings
 

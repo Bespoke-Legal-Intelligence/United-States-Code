@@ -44,21 +44,21 @@ Prior similar provisions were contained in sections 211 and 215 of act July 30, 
 
 #### Amendments
 
-1995—Subsec. (c). Pub. L. 104–66 struck out subsec. (c) which related to surveys, and their corresponding reports and recommendations, for the determination of factors tending to injure small businesses.
+<b>1995</b>—Subsec. (c). Pub. L. 104–66 struck out subsec. (c) which related to surveys, and their corresponding reports and recommendations, for the determination of factors tending to injure small businesses.
 
-1990—Subsec. (d). Pub. L. 101–574 substituted “the Department of Defense shall make an annual report to the Committees on Small Business of the Senate and the House of Representatives” for “the Department of Defense shall make a monthly report to the President, the President of the Senate, the Senate Select Committee on Small Business, and the Speaker of the House of Representatives not less than 45 \[“forty-five” in original text\] days after the close of the month”, “small business concerns” for “small-business concerns”, and “such reports” for “such monthly reports”.
+<b>1990</b>—Subsec. (d). Pub. L. 101–574 substituted “the Department of Defense shall make an annual report to the Committees on Small Business of the Senate and the House of Representatives” for “the Department of Defense shall make a monthly report to the President, the President of the Senate, the Senate Select Committee on Small Business, and the Speaker of the House of Representatives not less than 45 \[“forty-five” in original text\] days after the close of the month”, “small business concerns” for “small-business concerns”, and “such reports” for “such monthly reports”.
 
-1989—Subsec. (e)(2). Pub. L. 101–37 substituted “, of the disposition of the request” for “of the disposition of the matter”.
+<b>1989</b>—Subsec. (e)(2). Pub. L. 101–37 substituted “, of the disposition of the request” for “of the disposition of the matter”.
 
-1988—Subsec. (e). Pub. L. 100–656 inserted “and the Inspector General of the Administration” after “Administration”, which was executed by making the insertion after the first reference to “Administration”, and added par. (2).
+<b>1988</b>—Subsec. (e). Pub. L. 100–656 inserted “and the Inspector General of the Administration” after “Administration”, which was executed by making the insertion after the first reference to “Administration”, and added par. (2).
 
-1984—Subsec. (h). Pub. L. 98–352 added subsec. (h).
+<b>1984</b>—Subsec. (h). Pub. L. 98–352 added subsec. (h).
 
-1981—Subsec. (b). Pub. L. 97–35 substituted “this chapter. Such report shall provide such information separately on each type of loan made under paragraphs (10) through (15) of section 636(a) of this title and separately for all other loan programs. In addition, the information on loans shall be supplied on a monthly basis to the Committee on Small Business of the Senate and the Committee on Small Business of the House of Representatives” for “this subsection, and on the projected and actual energy savings and numbers of jobs created by firms through loans made under section 636(<i>l</i>) of this title. The Department of Energy shall assist the Administration in obtaining information and compiling this report”.
+<b>1981</b>—Subsec. (b). Pub. L. 97–35 substituted “this chapter. Such report shall provide such information separately on each type of loan made under paragraphs (10) through (15) of section 636(a) of this title and separately for all other loan programs. In addition, the information on loans shall be supplied on a monthly basis to the Committee on Small Business of the Senate and the Committee on Small Business of the House of Representatives” for “this subsection, and on the projected and actual energy savings and numbers of jobs created by firms through loans made under section 636(<i>l</i>) of this title. The Department of Energy shall assist the Administration in obtaining information and compiling this report”.
 
-1978—Subsec. (b). Pub. L. 95–315 inserted provisions requiring the report to contain number and amount of loans, applications for loans, etc.
+<b>1978</b>—Subsec. (b). Pub. L. 95–315 inserted provisions requiring the report to contain number and amount of loans, applications for loans, etc.
 
-1977—Subsec. (a). Pub. L. 95–89, §§203, 211, included the Senate Select Committee on Small Business as an additional recipient of the annual report and provided for the contents of the report as it relates to minority small business concerns.
+<b>1977</b>—Subsec. (a). Pub. L. 95–89, §§203, 211, included the Senate Select Committee on Small Business as an additional recipient of the annual report and provided for the contents of the report as it relates to minority small business concerns.
 
 Subsec. (b). Pub. L. 95–89, §204, substituted “Committee on Small Business of the House of Representatives” for “House Select Committee to Conduct a Study and Investigation of the Problems of Small Business”.
 
@@ -70,17 +70,17 @@ Subsec. (e). Pub. L. 95–89, §207, substituted “Committee on Small Business 
 
 Subsec. (g). Pub. L. 95–89, §208, substituted “Senate Select Committee on Small Business and Committee on Small Business of the House of Representatives” for “Committee on Banking, Housing and Urban Affairs of the Senate and the Committee on Banking and Currency of the House of Representatives”.
 
-1975—Subsec. (a). Pub. L. 93–608, §3(4), substituted “fiscal” for “calendar” in two places and struck out provisions requiring report to contain information on the progress of the Administration in liquidating the assets and winding up the affairs of the Reconstruction Finance Corporation and other information deemed appropriate by the Administration.
+<b>1975</b>—Subsec. (a). Pub. L. 93–608, §3(4), substituted “fiscal” for “calendar” in two places and struck out provisions requiring report to contain information on the progress of the Administration in liquidating the assets and winding up the affairs of the Reconstruction Finance Corporation and other information deemed appropriate by the Administration.
 
 Subsec. (b). Pub. L. 93–608, §3(5), substituted “as soon as practicable each fiscal year” for “on December 31 of each year”.
 
-1974—Subsec. (a). Pub. L. 93–237 substituted provisions requiring the Administration to make comprehensive annual reports to the President and Congressional Officers as soon as practicable describing the state of the small business in the Nation and the States, the operations of the Administration, and recommendations for legislation, for provisions requiring the Administration to make reports on Dec. 31 of each year to the President and Congressional Officers.
+<b>1974</b>—Subsec. (a). Pub. L. 93–237 substituted provisions requiring the Administration to make comprehensive annual reports to the President and Congressional Officers as soon as practicable describing the state of the small business in the Nation and the States, the operations of the Administration, and recommendations for legislation, for provisions requiring the Administration to make reports on Dec. 31 of each year to the President and Congressional Officers.
 
 Subsec. (g). Pub. L. 93–386 added subsec. (g).
 
 1965–Subsec. (a). Pub. L. 89–348 repealed provision of subsec. (a) which required as part of the annual report to the President and to Congress by the Small Business Administration, a report on the progress in liquidating the assets and winding up the affairs of the Reconstruction Finance Corporation.
 
-1961—Subsec. (a). Pub. L. 87–305, §5(a)(1), changed the reporting requirements from semiannual to annual basis and required the inclusion of information on the progress of the Administration in liquidating the assets and winding up the affairs of the Reconstruction Finance Corporation, such requirement to be in lieu of progress reports on a quarterly basis.
+<b>1961</b>—Subsec. (a). Pub. L. 87–305, §5(a)(1), changed the reporting requirements from semiannual to annual basis and required the inclusion of information on the progress of the Administration in liquidating the assets and winding up the affairs of the Reconstruction Finance Corporation, such requirement to be in lieu of progress reports on a quarterly basis.
 
 Subsec. (b). Pub. L. 87–305, §5(a)(2), struck out “June 30 and” before “December 31”.
 

@@ -86,7 +86,7 @@ The National Security Act of 1947, referred to in subsec. (a)(2)(A), is act July
 
 #### Amendments
 
-2006—Subsec. (a)(1)(A). Pub. L. 109–469, §104(1), struck out “abuse” after “drug”.
+<b>2006</b>—Subsec. (a)(1)(A). Pub. L. 109–469, §104(1), struck out “abuse” after “drug”.
 
 Subsec. (a)(2)(A). Pub. L. 109–469, §104(2), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 

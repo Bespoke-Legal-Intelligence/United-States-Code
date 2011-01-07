@@ -1,7 +1,5 @@
 ### SUBCHAPTER I—LOCAL PUBLIC WORKS
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

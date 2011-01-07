@@ -66,7 +66,7 @@ Paragraph (6) of section 32904(b) of this title, referred to in subsec. (b), was
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–429, in par. (1), introductory provisions, substituted “32904(b)(6)” for “32904(b)(4)” in two places, in par. (1)(E), substituted “32904(b)(2)” for “32904(b)(1)(A)”, and in par. (2), substituted “32904(b)(6)” for “32904(b)(4)”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–429, in par. (1), introductory provisions, substituted “32904(b)(6)” for “32904(b)(4)” in two places, in par. (1)(E), substituted “32904(b)(2)” for “32904(b)(1)(A)”, and in par. (2), substituted “32904(b)(6)” for “32904(b)(4)”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

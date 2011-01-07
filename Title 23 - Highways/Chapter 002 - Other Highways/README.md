@@ -29,27 +29,27 @@
 
 #### Amendments
 
-2005—Pub. L. 109–59, title I, §1118(b)(3), Aug. 10, 2005, 119 Stat. 1181, substituted “Territorial highway program” for “Territories highway development program” in item 215.
+<b>2005</b>—Pub. L. 109–59, title I, §1118(b)(3), Aug. 10, 2005, 119 Stat. 1181, substituted “Territorial highway program” for “Territories highway development program” in item 215.
 
-1998—Pub. L. 105–178, title I, §1112(b), June 9, 1998, 112 Stat. 151, substituted “Recreational trails program” for “Repealed” in item 206.
+<b>1998</b>—Pub. L. 105–178, title I, §1112(b), June 9, 1998, 112 Stat. 151, substituted “Recreational trails program” for “Repealed” in item 206.
 
-1987—Pub. L. 100–17, title I, §133(e)(1), Apr. 2, 1987, 101 Stat. 173, struck out items 211 “Timber access road hearings”, 213 “Rama Road”, and 219 “Safer of off-system roads”.
+<b>1987</b>—Pub. L. 100–17, title I, §133(e)(1), Apr. 2, 1987, 101 Stat. 173, struck out items 211 “Timber access road hearings”, 213 “Rama Road”, and 219 “Safer of off-system roads”.
 
-1983—Pub. L. 97–424, title I, §126(e)(1), Jan. 6, 1983, 96 Stat. 2115, substituted “Allocations” for “Apportionment for allocation” in item 202.
+<b>1983</b>—Pub. L. 97–424, title I, §126(e)(1), Jan. 6, 1983, 96 Stat. 2115, substituted “Allocations” for “Apportionment for allocation” in item 202.
 
 Pub. L. 97–424, title I, §126(e)(2), Jan. 6, 1983, 96 Stat. 2115, substituted “Federal lands highways programs” for “Forest highways” in item 204.
 
 Pub. L. 97–424, title I, §126(e)(3), Jan. 6, 1983, 96 Stat. 2116, substituted “Repealed” in items 206 through 209 which read “Park roads and trails”, “Parkways”, “Indian reservation roads”, “Public lands highways”, respectively.
 
-1976—Pub. L. 94–280, title I, §135(b), May 5, 1976, 90 Stat. 442, substituted item 219 “Safer of off-system roads” for “Off-system roads”.
+<b>1976</b>—Pub. L. 94–280, title I, §135(b), May 5, 1976, 90 Stat. 442, substituted item 219 “Safer of off-system roads” for “Off-system roads”.
 
-1975—Pub. L. 93–643, §122(b), Jan. 4, 1975, 88 Stat. 2290, added item 219.
+<b>1975</b>—Pub. L. 93–643, §122(b), Jan. 4, 1975, 88 Stat. 2290, added item 219.
 
-1973—Pub. L. 93–87, title I, §§124(b), 127(a)(2), Aug. 13, 1973, 87 Stat. 262, 264, added items 217 and 218.
+<b>1973</b>—Pub. L. 93–87, title I, §§124(b), 127(a)(2), Aug. 13, 1973, 87 Stat. 262, 264, added items 217 and 218.
 
-1970—Pub. L. 91–605, title I, §§112(b), 113(b), Dec. 31, 1970, 84 Stat. 1721, 1722, added items 215 and 216.
+<b>1970</b>—Pub. L. 91–605, title I, §§112(b), 113(b), Dec. 31, 1970, 84 Stat. 1721, 1722, added items 215 and 216.
 
-1962—Pub. L. 87–866, §6(c), Oct. 23, 1962, 76 Stat. 1147, added item 214.
+<b>1962</b>—Pub. L. 87–866, §6(c), Oct. 23, 1962, 76 Stat. 1147, added item 214.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 

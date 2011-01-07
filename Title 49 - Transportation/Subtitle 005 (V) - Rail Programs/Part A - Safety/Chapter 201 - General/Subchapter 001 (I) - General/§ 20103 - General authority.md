@@ -100,15 +100,15 @@ In subsection (d), the words “after hearing in accordance with subsection (b) 
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–432, §308(1), substituted “Nonemergency Waivers” for “Waivers” in heading.
+<b>2008</b>—Subsec. (d). Pub. L. 110–432, §308(1), substituted “Nonemergency Waivers” for “Waivers” in heading.
 
-Subsec. (e). Pub. L. 110–432, §308(2), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “The Secretary shall conduct ahearing as provided by section 553 of title 5 when prescribing a regulation or issuing an order under this chapter, including a regulation or order establishing, amending, or waiving compliance with a railroad safety regulation prescribed or order issued under this chapter. An opportunity for an oral presentation shall be provided.”
+Subsec. (e). Pub. L. 110–432, §308(2), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “The Secretary shall conduct a hearing as provided by section 553 of title 5 when prescribing a regulation or issuing an order under this chapter, including a regulation or order establishing, amending, or waiving compliance with a railroad safety regulation prescribed or order issued under this chapter. An opportunity for an oral presentation shall be provided.”
 
 Subsec. (g). Pub. L. 110–432, §308(3), added subsec. (g).
 
-2002—Subsec. (a). Pub. L. 107–296 inserted at end “When prescribing a security regulation or issuing a security order that affects the safety of railroad operations, the Secretary of Homeland Security shall consult with the Secretary.”
+<b>2002</b>—Subsec. (a). Pub. L. 107–296 inserted at end “When prescribing a security regulation or issuing a security order that affects the safety of railroad operations, the Secretary of Homeland Security shall consult with the Secretary.”
 
-1994—Subsec. (f). Pub. L. 103–440 added subsec. (f).
+<b>1994</b>—Subsec. (f). Pub. L. 103–440 added subsec. (f).
 
 #### Effective Date of 2002 Amendment
 

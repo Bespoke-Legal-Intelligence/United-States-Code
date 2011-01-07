@@ -12,5 +12,5 @@ Provisions similar to those in this section were contained in sections 1376(a) a
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–163 substituted “the Navy Reserve” for “the Naval Reserve”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–163 substituted “the Navy Reserve” for “the Naval Reserve”.
 

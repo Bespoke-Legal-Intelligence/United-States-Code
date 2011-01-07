@@ -30,5 +30,5 @@ Another section 487F of act July 1, 1944, is classified to section 288–5a of t
 
 #### Amendments
 
-2007—Subsec. (a)(1). Pub. L. 110–85 inserted “including pediatric pharmacological research,” after “pediatric research,”.
+<b>2007</b>—Subsec. (a)(1). Pub. L. 110–85 inserted “including pediatric pharmacological research,” after “pediatric research,”.
 

@@ -12,7 +12,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-1988—Par. (3). Pub. L. 100–647 added par. (3).
+<b>1988</b>—Par. (3). Pub. L. 100–647 added par. (3).
 
 #### Effective Date of 1988 Amendment
 

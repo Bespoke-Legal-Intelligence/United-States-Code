@@ -48,7 +48,7 @@ In this section, the term “conference”—
 
 &emsp;&emsp;(D) involves costs associated with travel and lodging for some participants; and
 
-&emsp;(2) does not include any training program that is continuing education or a curriculum-based educational program, provided that such training program is held independent of a conference of a non-governmental organization.
+&emsp;(2) does not include any training program that is continuing education or a curriculum-based educational program, provided that suchtraining program is held independent of a conference of a non-governmental organization.
 
 (Pub. L. 110–234, title XIV, §14208, May 22, 2008, 122 Stat. 1462; Pub. L. 110–246, §4(a), title XIV, §14208, June 18, 2008, 122 Stat. 1664, 2224.)
 

@@ -48,7 +48,7 @@ In subsection (c), the word “at” is substituted for “as” (in the phrase 
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–284, §6(1), struck out “of this section” after “subsections (b) and (c)”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–284, §6(1), struck out “of this section” after “subsections (b) and (c)”.
 
 Subsec. (b). Pub. L. 109–284, §6(2), substituted “at” for “At” in heading.
 

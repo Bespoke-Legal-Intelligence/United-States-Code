@@ -38,7 +38,7 @@ The funds, facilities, and authorities of the Commodity Credit Corporation may b
 
 Funds shall be available under this chapter only to the extent provided in advance in appropriation Acts.
 
-(July 10, 1954, ch. 469, title IV, §406, as added Pub. L. 86–341, title I, §14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 87–703, title II, §201(5), Sept. 27, 1962, 76 Stat. 611; Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1536; Pub. L. 94–161, title II, §214, Dec. 20, 1975, 89 Stat. 855; Pub. L. 101–508, title I, §1204(b)(2), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3650; Pub. L. 102–237, title III, §323, Dec. 13, 1991, 105 Stat. 1857; Pub. L. 104–127, title II, §215, Apr. 4, 1996, 110 Stat. 956; Pub. L. 110–246, title III, §§3014(b)(1), 3016, June 18, 2008, 122 Stat. 1826, 1827.)
+(July 10, 1954, ch. 469, title IV, §406, as added Pub. L. 86–341, title I, §14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 87–703, title II, §201(5), Sept. 27, 1962, 76 Stat. 611; Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1536; Pub. L. 94–161, title II,§214, Dec. 20, 1975, 89 Stat. 855; Pub. L. 101–508, title I, §1204(b)(2), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3650; Pub. L. 102–237, title III, §323, Dec. 13, 1991, 105 Stat. 1857; Pub. L. 104–127, title II, §215, Apr. 4, 1996, 110 Stat. 956; Pub. L. 110–246, title III, §§3014(b)(1), 3016, June 18, 2008, 122 Stat. 1826, 1827.)
 
 #### Amendments
 
@@ -84,5 +84,5 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
 #### Farmer-to-Farmer Programs for Fiscal Years 1986 Through 1990
 
-Pub. L. 99–198, title XI, §1107, Dec. 23, 1985, 99 Stat. 1467, as amended by Pub. L. 100–277, §6, Apr. 4, 1988, 102Stat. 69, directed that not less than one-tenth of 1 percent of the funds available for each of the fiscal years ending Sept. 30, 1986, through Sept. 30, 1990, to carry out this chapter be used to carry out section 1736(a)(1), (2) of this title, and directed the Administrator of the Agency for International Development, in conjunction with the Secretary of Agriculture, to submit to Congress a report, not later than 120 days after Dec. 23, 1985, indicating the manner in which the Agency intended to implement such provisions.
+Pub. L. 99–198, title XI, §1107, Dec. 23, 1985, 99 Stat. 1467, as amended by Pub. L. 100–277, §6, Apr. 4, 1988, 102 Stat. 69, directed that not less than one-tenth of 1 percent of the funds available for each of the fiscal years ending Sept. 30, 1986, through Sept. 30, 1990, to carry out this chapter be used to carry out section 1736(a)(1), (2) of this title, and directed the Administrator of the Agency for International Development, in conjunction with the Secretary of Agriculture, to submit to Congress a report, not later than 120 days after Dec. 23, 1985, indicating the manner in which the Agency intended to implement such provisions.
 

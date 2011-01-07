@@ -24,7 +24,7 @@ Pub. L. 100–553 and Pub. L. 100–607 contained identical provisions enacting 
 
 #### Amendments
 
-1988—Pub. L. 100–690 amended this section to read as if the amendments made by Pub. L. 100–607, which enacted this section, had not been enacted. See Codification note above.
+<b>1988</b>—Pub. L. 100–690 amended this section to read as if the amendments made by Pub. L. 100–607, which enacted this section, had not been enacted. See Codification note above.
 
 #### Effective Date of 1988 Amendment
 

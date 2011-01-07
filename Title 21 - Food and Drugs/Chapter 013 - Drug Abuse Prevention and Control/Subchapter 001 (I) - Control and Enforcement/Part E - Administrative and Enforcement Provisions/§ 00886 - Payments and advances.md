@@ -24,7 +24,7 @@ The Attorney General is authorized to direct the advance of funds by the Treasur
 
 (B) In order to receive a payment under paragraph (3), the head of an executive agency or department shall submit an application in such form and containing such information as the Secretary of the Treasury shall by regulation require. Such application shall contain a description of the fine imposed under section 841(b)(6) of this title, the circumstances surrounding the imposition of such fine, and the type and severity of pollution that resulted from the actions to which such fine applies.
 
-(5) For purposes of subchapter B of chapter 98 of title 26, the Fund established under this paragraph shall be treated in the same manner as a trust fund established under subchapter A of such chapter.
+(5) For purposes of subchapter B of chapter 98 of title 26, the Fund established under this paragraph shall be treated in the same manner as atrust fund established under subchapter A of such chapter.
 
 (Pub. L. 91–513, title II, §516, Oct. 27, 1970, 84 Stat. 1279; Pub. L. 96–132, §16(b), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 100–690, title VI, §6254(i), Nov. 18, 1988, 102 Stat. 4367.)
 
@@ -34,9 +34,9 @@ In subsec. (b), “Administration” substituted for “Bureau” as the probabl
 
 #### Amendments
 
-1988—Subsec. (d). Pub. L. 100–690 added subsec. (d).
+<b>1988</b>—Subsec. (d). Pub. L. 100–690 added subsec. (d).
 
-1979—Subsecs. (a), (b). Pub. L. 96–132 substituted “Drug Enforcement Administration” for “Bureau of Narcotics and Dangerous Drugs”.
+<b>1979</b>—Subsecs. (a), (b). Pub. L. 96–132 substituted “Drug Enforcement Administration” for “Bureau of Narcotics and Dangerous Drugs”.
 
 #### Reimbursement by Drug Enforcement Administration of Expenses Incurred To Remediate Methamphetamine Laboratories
 

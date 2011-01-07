@@ -10,7 +10,7 @@ Section was formerly classified to section 287c of this title prior to renumberi
 
 #### Amendments
 
-1993—Pub. L. 103–43, §1511(a)(1) substituted “Institute” for “Center” in section catchline and “National Institute of Nursing Research (in this subpart referred to as the ‘Institute’)” for “National Center for Nursing Research (hereafter in this subpart referred to as the ‘Center’)” in text.
+<b>1993</b>—Pub. L. 103–43, §1511(a)(1) substituted “Institute” for “Center” in section catchline and “National Institute of Nursing Research (in this subpart referred to as the ‘Institute’)” for “National Center for Nursing Research (hereafter in this subpart referred to as the ‘Center’)” in text.
 
 #### Study on Adequacy of Number of Nurses
 

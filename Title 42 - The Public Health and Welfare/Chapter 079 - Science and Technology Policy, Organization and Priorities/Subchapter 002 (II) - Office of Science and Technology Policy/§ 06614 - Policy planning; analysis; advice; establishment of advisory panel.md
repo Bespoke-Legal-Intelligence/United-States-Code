@@ -16,7 +16,7 @@
 
 &emsp;(7) provide the President with periodic reviews of Federal statutes and administrative regulations of the various departments and agencies which affect research and development activities, both internally and in relation to the private sector, or which may interfere with desirable technological innovation, together with recommendations for their elimination, reform, or updating as appropriate;
 
-&emsp;(8) develop, review, revise, and recommend criteria for determining scientific and technological activities warranting Federal support, and recommend Federal policies designed to advance (A) the development and maintenance of broadly based scientific and technological capabilities, including human resources, at all levels of government, academia, and industry, and (B) the effective application of such capabilities to national needs;
+&emsp;(8) develop, review, revise, and recommend criteria for determining scientific and technological activities warranting Federal support, and recommend Federal policies designed to advance (A) the development and maintenanceof broadly based scientific and technological capabilities, including human resources, at all levels of government, academia, and industry, and (B) the effective application of such capabilities to national needs;
 
 &emsp;(9) assess and advise on policies for international cooperation in science and technology which will advance the national and international objectives of the United States;
 
@@ -48,11 +48,11 @@ Section 5703 of title 5, referred to in subsec. (b)(4), was amended generally by
 
 #### Amendments
 
-1982—Subsec. (a)(11). Pub. L. 97–375, §215(2), (4), inserted “and the Congress” after “President”, and substituted “section 6615” for “section 6618”.
+<b>1982</b>—Subsec. (a)(11). Pub. L. 97–375, §215(2), (4), inserted “and the Congress” after “President”, and substituted “section 6615” for “section 6618”.
 
 #### Transfer of Functions
 
-Functions vested in Office of Science and Technology Policy and Director thereof pursuant to subsec. (a)(2) of this section and sections 6615 and 6618 of this titletransferred to Director of National Science Foundation by section 5A of Reorg. Plan No. 1 of 1977, set out in the Appendix to Title 5, Government Organization and Employees, effective Feb. 26, 1978, as provided by section 1(a) of Ex. Ord. No. 12039, Feb. 24, 1978, 43 F.R. 8095, set out under section 6601 of this title.
+Functions vested in Office of Science and Technology Policy and Director thereof pursuant to subsec. (a)(2) of this section and sections 6615 and 6618 of this title transferred to Director of National Science Foundation by section 5A of Reorg. Plan No. 1 of 1977, set out in the Appendix to Title 5, Government Organization and Employees, effective Feb. 26, 1978, as provided by section 1(a) of Ex. Ord. No. 12039, Feb. 24, 1978, 43 F.R. 8095, set out under section 6601 of this title.
 
 #### Abolition of Intergovernmental Science, Engineering, and Technology Advisory Panel; Transfer of Functions
 

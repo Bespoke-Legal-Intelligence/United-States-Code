@@ -30,7 +30,7 @@ The Secretary may add a parcel of real property to the System, if—
 
 #### (1) Consultation and determination
 
-&emsp;Prior to transfer or disposal of excess property under the Federal Property and Administrative Services Act of 1949 <sup>1</sup> that may be an undeveloped coastal barrier, the Administrator of General Services shall consult with and obtain from the Secretary a determination as to whether and what portion of the property constitutes an undeveloped coastal barrier. Not later than 180 days after the initiation of such consultation, the Secretary shall make and publish notice of such determination. Immediately upon issuance of a positive determination, the Secretary shall—
+&emsp;Prior to transfer or disposal of excess property under chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 that may be an undeveloped coastal barrier, the Administrator of General Services shall consult with and obtain from the Secretary a determination as to whether and what portion of the property constitutes an undeveloped coastal barrier. Not later than 180 days after the initiation of such consultation, the Secretary shall make and publish notice of such determination. Immediately upon issuance of a positive determination, the Secretary shall—
 
 &emsp;&emsp;(A) prepare a map depicting the undeveloped coastal barrier portion of such property; and
 
@@ -88,17 +88,15 @@ The Secretary shall—
 
 (Pub. L. 97–348, §4, Oct. 18, 1982, 96 Stat. 1654; Pub. L. 97–396, §8, Dec. 31, 1982, 96 Stat. 2007; Pub. L. 100–707, title II, §204(b), Nov. 23, 1988, 102 Stat. 4713; Pub. L. 101–591, §3, Nov. 16, 1990, 104 Stat. 2931; Pub. L. 106–167, §3(c)(3), Dec. 9, 1999, 113 Stat. 1804; Pub. L. 106–514, §§2–3(b)(1), (c), (d), Nov. 13, 2000, 114 Stat. 2394, 2395.)
 
-#### References in Text
-
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (e)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
-
 #### Codification
 
 The text of section 4(d) of Pub. L. 101–591, which was transferred and redesignated so as to appear as subsec. (e) of this section and amended by Pub. L. 106–514, was based on Pub. L. 101–591, §4(d), Nov. 16, 1990, 104 Stat. 2933, formerly included in a note set out under this section.
 
+In subsec. (e)(1), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–514, §3(d), substituted “which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled ‘Coastal Barrier Resources System’, dated October 24, 1990, as those maps may be modified, revised, or corrected under—” and pars. (1) to (3) for “which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled ‘Coastal Barrier Resources System’, dated October 24, 1990, as such maps may be revised by the Secretary under section 4 of the Coastal Barrier Improvement Act of 1990.”
+<b>2000</b>—Subsec. (a). Pub. L. 106–514, §3(d), substituted “which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled ‘Coastal Barrier Resources System’, dated October 24, 1990, as those maps may be modified, revised, or corrected under—” and pars. (1) to (3) for “which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled ‘Coastal Barrier Resources System’, dated October 24, 1990, as such maps may be revised by the Secretary under section 4 of the Coastal Barrier Improvement Act of 1990.”
 
 Subsec. (d). Pub. L. 106–514, §3(a), added subsec. (d).
 
@@ -108,15 +106,15 @@ Subsec. (f). Pub. L. 106–514, §3(c), added subsec. (f).
 
 Subsec. (g). Pub. L. 106–514, §2, added subsec. (g).
 
-1999—Pub. L. 106–167, §3(c)(3)(A), substituted “John H. Chafee Coastal Barrier Resources System” for “Coastal Barrier Resources System” in section catchline.
+<b>1999</b>—Pub. L. 106–167, §3(c)(3)(A), substituted “John H. Chafee Coastal Barrier Resources System” for “Coastal Barrier Resources System” in section catchline.
 
 Subsec. (a). Pub. L. 106–167, §3(c)(3)(B), substituted “the John H. Chafee Coastal Barrier Resources System” for “the Coastal Barrier Resources System”.
 
-1990—Pub. L. 101–591 amended section generally, substituting provisions relating to establishment of Coastal Barrier Resources System consisting of undeveloped coastal barriers and other areas on United States coasts identified on maps entitled “Coastal Barrier Resources System” dated Oct. 24, 1990, as maintained and revised by the Secretary, for provisions which related to Coastal Barrier Resources System consisting of undeveloped coastal barriers on the Atlantic and Gulf Coasts of the United States and included within the System on Apr. 19, 1983, and undeveloped coastal barriers along Great Lakes shore areas to be recommended by the Secretary and so designated by Congress, with maps to be revised by the Secretary and maintained by Office of Director of United States Fish and Wildlife Service.
+<b>1990</b>—Pub. L. 101–591 amended section generally, substituting provisions relating to establishment of Coastal Barrier Resources System consisting of undeveloped coastal barriers and other areas on United States coasts identified on maps entitled “Coastal Barrier Resources System” dated Oct. 24, 1990, as maintained and revised by the Secretary, for provisions which related to Coastal Barrier Resources System consisting of undeveloped coastal barriers on the Atlantic and Gulf Coasts of the United States and included within theSystem on Apr. 19, 1983, and undeveloped coastal barriers along Great Lakes shore areas to be recommended by the Secretary and so designated by Congress, with maps to be revised by the Secretary and maintained by Office of Director of United States Fish and Wildlife Service.
 
-1988—Pub. L. 100–707 amended section generally to provide that the Coastal Barrier Resources System include those undeveloped coastal barriers located on the Atlantic and Gulf Coasts of the United States and included within the System on Apr. 19, 1983, and the Great Lakes barriers, to make all System maps available to public inspection, and to revise and update provisions for making boundary modifications.
+<b>1988</b>—Pub. L. 100–707 amended section generally to provide that the Coastal Barrier Resources System include those undeveloped coastal barriers located on the Atlantic and Gulf Coasts of the United States and included within the System on Apr. 19, 1983, and the Great Lakes barriers, to make all System maps available to public inspection, and to revise and update provisions for making boundary modifications.
 
-1982—Subsec. (a)(1). Pub. L. 97–396 inserted “(but excluding maps T02 and T03)” after “A01 through T12”, and “and the maps designated T02A and T03A, dated December 8, 1982” after “and dated September 30, 1982”.
+<b>1982</b>—Subsec. (a)(1). Pub. L. 97–396 inserted “(but excluding maps T02 and T03)” after “A01 through T12”, and “and the maps designated T02A and T03A, dated December 8, 1982” after “and dated September 30, 1982”.
 
 #### Transfer of Functions
 
@@ -527,6 +525,4 @@ Section 12 of Pub. L. 101–591, as amended by Pub. L. 106–167, §3(c)(6), Dec
 &emsp;“(4) the term ‘Secretary’ means the Secretary of the Interior; and
 
 &emsp;“(5) the term ‘System’ means the John H. Chafee Coastal Barrier Resources System established by the Coastal Barrier Resources Act (16 U.S.C. 3501 et seq.), as amended by this Act.”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

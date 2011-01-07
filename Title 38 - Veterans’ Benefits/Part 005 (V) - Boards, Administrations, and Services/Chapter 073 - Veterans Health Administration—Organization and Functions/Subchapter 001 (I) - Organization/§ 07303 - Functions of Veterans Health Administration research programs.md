@@ -40,15 +40,15 @@ Section 204(b)(3) of the Rehabilitation Act of 1973, referred to in subsec. (b),
 
 #### Amendments
 
-2003—Subsec. (e). Pub. L. 108–170 struck out subsec. (e) which read as follows: “Amounts for the activities of the field offices of the Office of Research Compliance and Assurance of the Department shall be derived from amounts appropriated for the Veterans Health Administration for Medical Care (rather than from amounts appropriated for the Veterans Health Administration for Medical and Prosthetic Research).”
+<b>2003</b>—Subsec. (e). Pub. L. 108–170 struck out subsec. (e) which read as follows: “Amounts for the activities of the field offices of the Office of Research Complianceand Assurance of the Department shall be derived from amounts appropriated for the Veterans Health Administration for Medical Care (rather than from amounts appropriated for the Veterans Health Administration for Medical and Prosthetic Research).”
 
-2002—Subsec. (e). Pub. L. 107–135 added subsec. (e).
+<b>2002</b>—Subsec. (e). Pub. L. 107–135 added subsec. (e).
 
-1998—Subsec. (b). Pub. L. 105–220 substituted “section 204(b)(3) of the Rehabilitation Act of 1973” for “section 204(b)(2) of the Rehabilitation Act of 1973 (29 U.S.C. 762(b)(2))”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–220 substituted “section 204(b)(3) of the Rehabilitation Act of 1973” for “section 204(b)(2) of the Rehabilitation Act of 1973 (29 U.S.C. 762(b)(2))”.
 
-1994—Pub. L. 103–452 transferred text of subsec. (c) to the end of subsec. (a)(1), struck out subsec. (c) designation, and added new subsecs. (c) and (d).
+<b>1994</b>—Pub. L. 103–452 transferred text of subsec. (c) to the end of subsec. (a)(1), struck out subsec. (c) designation, and added new subsecs. (c) and (d).
 
-1992—Subsec. (b). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
 #### Applicability to Fiscal Year 2002
 

@@ -54,7 +54,7 @@
 
 (h)(1)(A) In addition to any other payment that it is required to make under subchapter III of chapter 83 or chapter 84, the Department of Defense shall remit to the Office of Personnel Management an amount equal to 15 percent of the final basic pay of each covered employee.
 
-(B) If the employee is one with respect to whom a remittance would otherwise be required under section 4(a) of the Federal Workforce Restructuring Act of 1994 based on the separation involved, the remittance under this subsection shall be instead of the remittance otherwise required under such section 4(a).
+(B) If the employee is one with respect to whom a remittance would otherwise be requiredunder section 4(a) of the Federal Workforce Restructuring Act of 1994 based on the separation involved, the remittance under this subsection shall be instead of the remittance otherwise required under such section 4(a).
 
 (2) Amounts remitted under paragraph (1) shall be deposited in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund.
 
@@ -268,7 +268,7 @@ Definitions.—For the purposes of this section—
 
 &emsp;&emsp;“(A) a reemployed annuitant under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, or another retirement system for employees of the agency;
 
-&emsp;&emsp;“(B) an employee having a disability on the basis of which such employee is or would be eligible for disability retirement under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, or another retirement system for employees of the agency;
+&emsp;&emsp;“(B) an employee having a disability on the basis of which such employee is or would be eligible for disability retirement under subchapter III of chapter 83 or chapter 84 of title 5, United States Code,or another retirement system for employees of the agency;
 
 &emsp;&emsp;“(C) an employee who is in receipt of a specific notice of involuntary separation for misconduct or unacceptable performance;
 

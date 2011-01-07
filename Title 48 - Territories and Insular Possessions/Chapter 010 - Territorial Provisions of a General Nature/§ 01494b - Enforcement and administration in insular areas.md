@@ -42,7 +42,7 @@
 
 &emsp;(A) train law enforcement officers and other personnel of the Government of the Northern Mariana Islands, and
 
-&emsp;(B) provide, by purchase or lease, law enforcement equipment and technical assistanceto the Government of the Northern Mariana Islands to carry out the purposes of sections 1494 to 1494c of this title and any other Federal or commonwealth drug or other substance abuse law.
+&emsp;(B) provide, by purchase or lease, law enforcement equipment and technical assistance to the Government of the Northern Mariana Islands to carry out the purposes of sections 1494 to 1494c of this title and any other Federal or commonwealth drug or other substance abuse law.
 
 (3) There are authorized to be appropriated $125,000 for fiscal year 1989 and annually thereafter for grants to the Government of the Northern Mariana Islands to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education and Health and Human Services to carry out the purposes of sections 1494 to 1494c of this title, to remain available until expended.
 
@@ -80,7 +80,7 @@
 
 (2) There are authorized to be appropriated $500,000 for fiscal year 1989 and annually thereafter for grants to the Government of Palau to be expended in accordance with a plan to be approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education, State, and Health and Human Services to carry out the purposes of sections 1494 to 1494c of this title.
 
-(3) To the extent not prohibited under the Constitution of Palau, upon written request of the President of Palau, the Drug Enforcement Administration, the Federal Bureau of Investigation, the Secret Service, the Immigration and Naturalization Service, and the Customs Service are authorized to investigate any United States criminal laws which are applicable in Palau in cooperation with law enforcement agencies of Palau.
+(3) To the extent not prohibited under the Constitution of Palau, upon written request of the President of Palau, the Drug Enforcement Administration, the Federal Bureau of Investigation, the Secret Service, the Immigration and Naturalization Service, and the Customs Service are authorized to investigate any United States criminal laws which are applicable in Palau incooperation with law enforcement agencies of Palau.
 
 (Pub. L. 99–570, title V, §5004, Oct. 27, 1986, 100 Stat. 3207–155; Pub. L. 100–690, title IX, §§9302–9305, 9306(b), 9307, Nov. 18, 1988, 102 Stat. 4536–4538.)
 
@@ -88,11 +88,11 @@
 
 The Controlled Substances Import and Export Act, referred to in subsecs. (a)(1)(C), (c)(1)(C), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
 
-Sections 1494 to 1494c of this title, referred to in subsecs. (a)(3), (b)(2), (c)(3), (d)(1), (e)(1), and (f)(1), (2), wasin the original “this Act”, and was translated as reading “this subtitle” meaning subtitle A of title V of Pub. L. 99–570 to reflect the probable intent of Congress. See Short Title note set out under section 1494 of this title.
+Sections 1494 to 1494c of this title, referred to in subsecs. (a)(3), (b)(2), (c)(3), (d)(1), (e)(1), and (f)(1), (2), was in the original “this Act”, and was translated as reading “this subtitle” meaning subtitle A of title V of Pub. L. 99–570 to reflect the probable intent of Congress. See Short Title note set out under section 1494 of this title.
 
 #### Amendments
 
-1988—Subsec. (a)(2). Pub. L. 100–690, §9302(1), substituted “Secretaries of Education and” for “Secretary of” and inserted “, as appropriate,” after “States”, “and, upon request of the Government of American Samoa, shall” after “are authorized to”, “and other personnel” after “officers”, and “or other substance” after “drug”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–690, §9302(1), substituted “Secretaries of Education and” for “Secretary of” and inserted “, as appropriate,” after “States”, “and, upon request of the Government of American Samoa, shall” after “are authorized to”, “and other personnel” after “officers”, and “or other substance” after “drug”.
 
 Subsec. (a)(3). Pub. L. 100–690, §9302(2), substituted “$350,000 for fiscal year 1989 and annually thereafter for grants to the Government of American Samoa to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education and Health and Human Services” for “$700,000” and “sections 1494 to 1494c of this title” for “this subsection”.
 
@@ -144,5 +144,5 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of Title 8, Aliens and Nationality.
 

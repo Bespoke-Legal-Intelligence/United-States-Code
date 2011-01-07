@@ -16,11 +16,11 @@ Minor changes were made in translation and phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $25,000”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $25,000”.
 
-1986—Pub. L. 99–646 inserted “, detention,” after “penal”.
+<b>1986</b>—Pub. L. 99–646 inserted “, detention,” after “penal”.
 
-1984—Pub. L. 98–473 substituted provisions deleting prohibition on bringing dangerous instrumentalities into prison and inserted provision setting forth a maximum $25,000 fine.
+<b>1984</b>—Pub. L. 98–473 substituted provisions deleting prohibition on bringing dangerous instrumentalities into prison and inserted provision setting forth a maximum $25,000 fine.
 
 #### Effective Date of 1986 Amendment
 

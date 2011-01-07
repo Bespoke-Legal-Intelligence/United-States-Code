@@ -80,7 +80,7 @@ The Administrator, acting through the Program and subject to the availability of
 
 &emsp;&emsp;(A) review each marine debris project proposal to determine if it meets the grant criteria and supports the goals of this chapter;
 
-&emsp;&emsp;(B) after considering any written comments and recommendations based on thereview, approve or disapprove the proposal; and
+&emsp;&emsp;(B) after considering any written comments and recommendations based on the review, approve or disapprove the proposal; and
 
 &emsp;&emsp;(C) provide notification of that approval or disapproval to the person who submitted the proposal.
 

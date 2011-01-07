@@ -10,7 +10,7 @@ As originally enacted this section contained a reference to the Supreme Court of
 
 #### Amendments
 
-1988—Pub. L. 100–690, §8001(b)(2), substituted “subchapter” for “chapter” in two places.
+<b>1988</b>—Pub. L. 100–690, §8001(b)(2), substituted “subchapter” for “chapter” in two places.
 
 Pub. L. 100–690, §8001(b)(4), made technical amendment to references to sections 203 and 205 of this title to reflect renumbering of corresponding sections of original act.
 

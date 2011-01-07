@@ -20,7 +20,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(G) military authority exercised in the field in time of war or in occupied territory; or
 
-&emsp;&emsp;(H) functions conferred by sections 1738, 1739, 1743, and 1744 of title 12; chapter 2 of title 41; subchapter II of chapter 471 of title 49; or sections 1884, 1891–1902, and former section 1641(b)(2), of title 50, appendix;
+&emsp;&emsp;(H) functions conferred by sections 1738, 1739, 1743, and 1744 of title 12; subchapter II of chapter 471 of title 49; or sections 1884, 1891–1902, and former section 1641(b)(2), of title 50, appendix;
 
 &emsp;(2) “person” includes an individual, partnership, corporation, association, or public or private organization other than an agency;
 
@@ -68,7 +68,7 @@ For the purpose of this subchapter—
 
 &emsp;(14) “ex parte communication” means an oral or written communication not on the public record with respect to which reasonable prior notice to all parties is not given, but it shall not include requests for status reports on any matter or proceeding covered by this subchapter.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 381; Pub. L. 94–409, §4(b), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 103–272, §5(a), July 5, 1994, 108 Stat. 1373.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 381; Pub. L. 94–409, §4(b), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 103–272, §5(a), July 5, 1994, 108 Stat. 1373; Pub. L. 111–350, §5(a)(2), Jan. 4, 2011, 124 Stat. 3841.)
 
 Historical and Revision Notes
 
@@ -133,6 +133,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 Section 551 of former Title 5, Executive Departments and Government Officers and Employees, was transferred to section 2242 of Title 7, Agriculture.
 
 #### Amendments
+
+2011—Par. (1)(H). Pub. L. 111–350 struck out “chapter 2 of title 41;” after “title 12;”.
 
 1994—Par. (1)(H). Pub. L. 103–272 substituted “subchapter II of chapter 471 of title 49; or sections” for “or sections 1622,”.
 

@@ -48,7 +48,7 @@ The Administrator shall insure dissemination to the maximum extent possible of f
 
 #### Amendments
 
-2008—Subsec. (b)(2). Pub. L. 110–376, §5(b), substituted “assist Federal, State,” for “assist State,”.
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–376, §5(b), substituted “assist Federal, State,” for “assist State,”.
 
 Subsec. (d). Pub. L. 110–376, §5(a), added subsec. (d).
 

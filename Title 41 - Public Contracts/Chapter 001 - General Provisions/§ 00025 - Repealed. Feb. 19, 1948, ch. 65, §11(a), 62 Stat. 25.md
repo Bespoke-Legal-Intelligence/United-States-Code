@@ -1,4 +1,0 @@
-### §25. Repealed. Feb. 19, 1948, ch. 65, §11(a), 62 Stat. 25
-
-Section, R.S. §3729, related to contracts for bunting. See section 2301 et seq. of Title 10, Armed Forces.
-

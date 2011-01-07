@@ -54,7 +54,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 &emsp;For purposes of this title—
 
-&emsp;&emsp;(A) In the case of a nonresident alien individual or a foreign corporation engaged in trade or business within the United States during the taxable year, the rules set forthin paragraphs (2), (3), (4), (6), and (7) shall apply in determining the income, gain, or loss which shall be treated as effectively connected with the conduct of a trade or business within the United States.
+&emsp;&emsp;(A) In the case of a nonresident alien individual or a foreign corporation engaged in trade or business within the United States during the taxable year, the rules set forth in paragraphs (2), (3), (4), (6), and (7) shall apply in determining the income, gain, or loss which shall be treated as effectively connected with the conduct of a trade or business within the United States.
 
 &emsp;&emsp;(B) Except as provided in paragraph (6) or (7) or in section 871(d) or sections 882(d) and (e), in the case of a nonresident alien individual or a foreign corporation not engaged in trade or business within the United States during the taxable year, no income, gain, or loss shall be treated as effectively connected with the conduct of a trade or business within the United States.
 
@@ -80,7 +80,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 &emsp;&emsp;(i) consists of rents or royalties for the use of or for the privilege of using intangible property described in section 862(a)(4) derived in the active conduct of such trade or business;
 
-&emsp;&emsp;(ii) consists of dividends or interest, and either is derived in the active conduct of a banking, financing, or similar business within the United States or is received by a corporation the principal business of which is trading in stocks or securities for its own account; or
+&emsp;&emsp;(ii) consists of dividends, interest, or amounts received for the provision of guarantees of indebtedness, and either is derived in the active conduct of a banking, financing, or similar business within the United States or is received by a corporation the principal business of which is trading in stocks or securities for its own account; or
 
 &emsp;&emsp;(iii) is derived from the sale or exchange (outside the United States) through such office or other fixed place of business of personal property described in section 1221(a)(1), except that this clause shall not apply if the property is sold or exchanged for use, consumption, or disposition outside the United States and an office or other fixed place of business of the taxpayer in a foreign country participated materially in such sale.
 
@@ -90,7 +90,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 &emsp;(D) No income from sources without the United States shall be treated as effectively connected with the conduct of a trade or business within the United States if it either—
 
-&emsp;&emsp;(i) consists of dividends, interest, or royalties paid by a foreign corporation in which the taxpayer owns (within the meaning of section 958(a)), or is considered as owning (by applying the ownership rules of section 958(b)), more than 50 percent of the total combined voting power of all classes of stock entitled to vote, or
+&emsp;&emsp;(i) consists of dividends, interest, or royalties paid by a foreign corporation in whichthe taxpayer owns (within the meaning of section 958(a)), or is considered as owning (by applying the ownership rules of section 958(b)), more than 50 percent of the total combined voting power of all classes of stock entitled to vote, or
 
 &emsp;&emsp;(ii) is subpart F income within the meaning of section 952(a).
 
@@ -102,7 +102,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 &emsp;&emsp;(B) income, gain, or loss shall not be considered as attributable to an office or other fixed place of business within the United States unless such office or fixed place of business is a material factor in the production of such income, gain, or loss and such office or fixed place of business regularly carries on activities of the type from which such income, gain, or loss is derived, and
 
-&emsp;&emsp;(C) the income, gain, or loss which shall be attributable to an office or other fixed placeof business within the United States shall be the income, gain, or loss property allocable thereto, but, in the case of a sale or exchange described in clause (iii) of such subparagraph, the income which shall be treated as attributable to an office or other fixed place of business within the United States shall not exceed the income which would be derived from sources within the United States if the sale or exchange were made in the United States.
+&emsp;&emsp;(C) the income, gain, or loss which shall be attributable to an office or other fixed place of business within the United States shall be the income, gain, or loss property allocable thereto, but, in the case of a sale or exchange described in clause (iii) of such subparagraph, the income which shall be treated as attributable to an office or other fixed place of business within the United States shall not exceed the income which would be derived from sources within the United States if the sale or exchange were made in the United States.
 
 #### (6) Treatment of certain deferred payments, etc.
 
@@ -188,7 +188,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 &emsp;&emsp;(A) the person acquiring such receivable and such related person are created or organized under the laws of the same foreign country and such related person has a substantial part of its assets used in its trade or business located in such same foreign country, and
 
-&emsp;&emsp;(B) such related person would not have derived any foreign base company income (as defined in section 954(a), determined withoutregard to section 954(b)(3)(A)), or any income effectively connected with the conduct of a trade or business within the United States, from such receivable if it had been collected by such related person.
+&emsp;&emsp;(B) such related person would not have derived any foreign base company income (as defined in section 954(a), determined without regard to section 954(b)(3)(A)), or any income effectively connected with the conduct of a trade or business within the United States, from such receivable if it had been collected by such related person.
 
 #### (8) Regulations
 
@@ -240,7 +240,7 @@ For purposes of this subchapter—
 
 #### (iii) Stock owned through entities
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, stock owned (directly or indirectly) by a corporation, partnership, or trust shall be treated as being owned proportionately by its shareholders, partners, or beneficiaries. Stock considered to be owned by a person by reason of the application of the preceding sentence, shall, for purposes of applying such sentence, be treated as actually owned by such person.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, stock owned (directly or indirectly) by a corporation, partnership, or trust shall be treated as being owned proportionately byits shareholders, partners, or beneficiaries. Stock considered to be owned by a person by reason of the application of the preceding sentence, shall, for purposes of applying such sentence, be treated as actually owned by such person.
 
 #### (D) Coordination with subpart F, etc.
 
@@ -252,7 +252,11 @@ For purposes of this subchapter—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term ‘affiliated group’ has the meaning given such term by section 1504 (determined without regard to paragraph (4) of section 1504(b)).
+&emsp;&emsp;Except as provided in subparagraph (B), the term “affiliated group” has the meaning given such term by section 1504 (determined without regard to paragraph (4) of section 1504(b)). Notwithstanding the preceding sentence, a foreign corporation shall be treated as a member of the affiliated group if—
+
+&emsp;&emsp;&emsp;(i) more than 50 percent of the gross income of such foreign corporation for the taxable year is effectively connected with the conduct of a trade or business within the United States, and
+
+&emsp;&emsp;&emsp;(ii) at least 80 percent of either the vote or value of all outstanding stock of such foreign corporation is owned directly or indirectly by members of the affiliated group (determined with regard to this sentence).
 
 #### (B) Treatment of certain financial institutions
 
@@ -394,7 +398,7 @@ For purposes of this subchapter, at the election of the worldwide affiliated gro
 
 #### (D) Election
 
-&emsp;&emsp;An election under this paragraph with respect to any financial institution group may be made only by the common parent of the pre-election worldwide affiliated group and may be made only for the first taxable year beginning after December 31, 2010, in which such affiliated group includes 1 or more financial corporations. Such an election, once made, shall apply to all financial corporations which are members of the electing financial institution group for such taxable year and all subsequent years unless revoked with the consent of the Secretary.
+&emsp;&emsp;An election under this paragraph with respect to any financial institution group may be made only by the common parent of the pre-election worldwide affiliated group and may be made only for the first taxable year beginning after December 31, 2020, in which such affiliated group includes 1 or more financial corporations. Such an election, once made, shall apply to all financial corporations which are members of the electing financial institution group for such taxable year and all subsequent years unless revoked with the consent of the Secretary.
 
 #### (E) Definitions relating to groups
 
@@ -420,11 +424,7 @@ For purposes of this subchapter, at the election of the worldwide affiliated gro
 
 #### (6) Election
 
-&emsp;An election to have this subsection apply with respect to any worldwide affiliated group may be made only by the common parent of the domestic affiliated group referred to in paragraph (1)(C) and may be made only for the first taxable year beginning after December 31, 2010, in which a worldwide affiliated group exists which includes such affiliated group and at least 1 foreign corporation. Such an election, once made, shall apply to such common parent and all other corporations which are members of such worldwide affiliated group for such taxable year and all subsequent years unless revoked with the consent of the Secretary.
-
-#### (7) Transition
-
-&emsp;In the case of the first taxable year to which this subsection applies, the increase (if any) in the amount of the interest expense allocable to sources within the United States by reason of the application of this subsection shall be 30 percent of the amount of such increase determined without regard to this paragraph.
+&emsp;An election to have this subsection apply with respect to any worldwide affiliated group may be made only by the common parent of the domestic affiliated group referred to in paragraph (1)(C) and may be made only for the first taxable year beginning after December 31, 2020, in which a worldwide affiliated group exists which includes such affiliated group and at least 1 foreign corporation. Such an election, once made, shall apply to such common parent and all other corporations which are members of such worldwide affiliated group for such taxable year and all subsequent years unless revoked with the consent of the Secretary.
 
 #### (g) Allocation of research and experimental expenditures
 
@@ -440,7 +440,7 @@ For purposes of this subchapter, at the election of the worldwide affiliated gro
 
 &emsp;&emsp;&emsp;(ii) that such expenditures are attributable to activities conducted outside the United States, 50 percent of such expenditures shall be allocated and apportioned to income from sources outside the United States and deducted from such income in determining the amount of taxable income from sources outside the United States.
 
-&emsp;&emsp;(C) The remaining portion of qualified research and experimental expenditures (not allocated under subparagraphs (A) and (B)) shall be apportioned, at the annual election of the taxpayer, on the basis of gross sales or gross income, except that, if the taxpayer elects to apportion on the basis of gross income, the amount apportioned to income from sources outside the United States shall at least be 30 percent of the amount which would be so apportioned on the basis of gross sales.
+&emsp;&emsp;(C) The remaining portion of qualified research and experimental expenditures (not allocated under subparagraphs (A) and (B)) shall be apportioned, at the annual election of the taxpayer, on the basis of gross sales orgross income, except that, if the taxpayer elects to apportion on the basis of gross income, the amount apportioned to income from sources outside the United States shall at least be 30 percent of the amount which would be so apportioned on the basis of gross sales.
 
 #### (2) Qualified research and experimental expenditures
 
@@ -492,11 +492,7 @@ For purposes of this subchapter, at the election of the worldwide affiliated gro
 
 &emsp;This subsection shall apply to the taxpayer's first taxable year (beginning on or before August 1, 1994) following the taxpayer's last taxable year to which Revenue Procedure 92–56 applies or would apply if the taxpayer elected the benefits of such Revenue Procedure.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 278; Pub. L. 89–809, title I, §102(d), Nov. 13, 1966, 80 Stat. 1544; Pub. L. 94–455, title XIX, §1901(a)(113), Oct. 4, 1976, 90 Stat. 1783; Pub. L. 98–369, div. A, title I, §§123(a), 127(c), July 18, 1984, 98 Stat. 644, 651; Pub. L. 99–514, title XII, §§1201(d)(4), 1211(b)(2), 1215(a), (b)(1), 1221(a)(2), 1223(b)(1), 1242(a), (b), 1275(c)(7), title XVIII, §§1810(c)(2), (3), 1899A(21), Oct. 22, 1986, 100 Stat. 2525, 2536, 2544, 2545, 2550, 2558, 2580, 2599, 2824, 2959; Pub. L. 100–203, title X, §10242(b), Dec. 22, 1987, 101 Stat. 1330–423; Pub. L. 100–647, title I, §1012(a)(1)(B), (d)(7), (10), (g)(5), (h)(1), (2)(A), (3)–(6), (p)(30), (r), Nov. 10, 1988, 102 Stat. 3494, 3498, 3499, 3501–3503, 3521, 3525; Pub. L. 101–239, title VII, §7111, Dec. 19, 1989, 103 Stat. 2326; Pub. L. 101–508, title XI, §11401(a), Nov. 5, 1990, 104 Stat. 1388–472; Pub. L. 102–227, title I, §101(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §13234, Aug. 10, 1993, 107 Stat. 504; Pub. L. 105–34, title XI, §1162(a), Aug. 5, 1997, 111 Stat. 987; Pub. L. 106–170, title V, §532(c)(2)(N)–(P), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 106–519, §4(3), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 108–357, title I, §101(b)(6), title IV, §§401(a), (b), 403(b)(6), 413(c)(12), title VIII, §894(a), Oct. 22, 2004, 118 Stat. 1423, 1488, 1491, 1494, 1507, 1647; Pub. L. 110–289, div. C, title III, §3093(a), (b), July 30, 2008, 122 Stat. 2912; Pub. L. 111–92, §15(a), (b), Nov. 6, 2009, 123 Stat. 2996.)
-
-#### Amendment of Subsection (f)
-
-<i>Pub. L. 111–92, §15, Nov. 6, 2009, 123 Stat. 2996, provided that, applicable to taxable years beginning after Dec. 31, 2010, subsection (f) of this section is amended (1) by substituting “December 31, 2017” for “December 31, 2010” in paragraphs (5)(D) and (6); and (2) by striking out paragraph (7).</i>
+(Aug. 16, 1954, ch. 736, 68A Stat. 278; Pub. L. 89–809, title I, §102(d), Nov. 13, 1966, 80 Stat. 1544; Pub. L. 94–455, title XIX, §1901(a)(113), Oct. 4, 1976, 90 Stat. 1783; Pub. L. 98–369, div. A, title I, §§123(a), 127(c), July 18, 1984, 98 Stat. 644, 651; Pub. L. 99–514, title XII, §§1201(d)(4), 1211(b)(2), 1215(a), (b)(1), 1221(a)(2), 1223(b)(1), 1242(a), (b), 1275(c)(7), title XVIII, §§1810(c)(2), (3), 1899A(21), Oct. 22, 1986, 100 Stat. 2525, 2536, 2544, 2545, 2550, 2558, 2580, 2599, 2824, 2959; Pub. L. 100–203, title X, §10242(b), Dec. 22, 1987, 101 Stat. 1330–423; Pub. L. 100–647, title I, §1012(a)(1)(B), (d)(7), (10), (g)(5), (h)(1), (2)(A), (3)–(6), (p)(30), (r), Nov. 10, 1988, 102 Stat. 3494, 3498, 3499, 3501–3503, 3521, 3525; Pub. L. 101–239, title VII, §7111, Dec. 19, 1989, 103 Stat. 2326; Pub. L. 101–508, title XI, §11401(a), Nov. 5, 1990, 104 Stat. 1388–472; Pub. L. 102–227, title I, §101(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §13234, Aug. 10, 1993, 107 Stat. 504; Pub. L. 105–34, title XI, §1162(a), Aug. 5, 1997, 111 Stat. 987; Pub. L. 106–170, title V, §532(c)(2)(N)–(P), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 106–519, §4(3), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 108–357, title I, §101(b)(6), title IV, §§401(a), (b), 403(b)(6), 413(c)(12), title VIII, §894(a), Oct. 22, 2004, 118 Stat. 1423, 1488, 1491, 1494, 1507, 1647; Pub. L. 110–289, div. C, title III, §3093(a), (b), July 30, 2008, 122 Stat. 2912; Pub. L. 111–92, §15(a), (b), Nov. 6, 2009, 123 Stat. 2996; Pub. L. 111–147, title V, §551(a), Mar. 18, 2010, 124 Stat. 117; Pub. L. 111–226, title II, §216(a), Aug. 10, 2010, 124 Stat. 2400; Pub. L. 111–240, title II, §2122(c), Sept. 27, 2010, 124 Stat. 2568.)
 
 #### References in Text
 
@@ -508,11 +504,21 @@ The date of the enactment of this paragraph, referred to in subsec. (f)(5)(C)(i)
 
 #### Amendments
 
-2008—Subsec. (f)(5)(D), (6). Pub. L. 110–289, §3093(a), substituted “December 31, 2010” for “December 31, 2008”.
+<b>2010</b>—Subsec. (c)(4)(B)(ii). Pub. L. 111–240 substituted “dividends, interest, or amounts received for the provision of guarantees of indebtedness” for “dividends or interest”.
+
+Subsec. (e)(5)(A). Pub. L. 111–226 inserted at end “Notwithstanding the preceding sentence, a foreign corporation shall be treated as a member of the affiliated group if—” and added cls. (i) and (ii).
+
+Subsec. (f)(5)(D), (6). Pub. L. 111–147 substituted “December 31, 2020” for “December 31, 2017”.
+
+<b>2009</b>—Subsec. (f)(5)(D), (6). Pub. L. 111–92, §15(a), substituted “December 31, 2017” for “December 31, 2010”.
+
+Subsec. (f)(7). Pub. L. 111–92, §15(b), struck out par. (7). Text read as follows: “In the case of the first taxable year to which this subsection applies, the increase (if any) in the amount of the interest expense allocable to sources within the United States by reason of the application of this subsection shall be 30 percent of the amount of such increase determined without regard to this paragraph.”
+
+<b>2008</b>—Subsec. (f)(5)(D), (6). Pub. L. 110–289, §3093(a), substituted “December 31, 2010” for “December 31, 2008”.
 
 Subsec. (f)(7). Pub. L. 110–289, §3093(b), added par. (7).
 
-2004—Subsec. (c)(4)(B). Pub. L. 108–357, §894(a), added concluding provisions.
+<b>2004</b>—Subsec. (c)(4)(B). Pub. L. 108–357, §894(a), added concluding provisions.
 
 Subsec. (d)(2). Pub. L. 108–357, §413(c)(12), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “Part III of subchapter G of this chapter (relating to foreign personal holding companies).”
 
@@ -526,13 +532,13 @@ Subsec. (e)(7)(F), (G). Pub. L. 108–357, §401(b)(2), added subpar. (F) and re
 
 Subsecs. (f), (g). Pub. L. 108–357, §401(a), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-2000—Subsec. (e)(3). Pub. L. 106–519 designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+<b>2000</b>—Subsec. (e)(3). Pub. L. 106–519 designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-1999—Subsecs. (c)(4)(B)(iii), (d)(3)(A), (6)(A). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
+<b>1999</b>—Subsecs. (c)(4)(B)(iii), (d)(3)(A), (6)(A). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
 
-1997—Subsec. (b)(2)(A)(ii). Pub. L. 105–34 struck out “, or in the case of a corporation (other than a corporation which is, or but for section 542(c)(7), 542(c)(10), or 543(b)(1)(C) would be, a personal holding company) the principal business of which is trading in stocks or securities for its own account, if its principal office is in the United States” after “dealer in stocks or securities”.
+<b>1997</b>—Subsec. (b)(2)(A)(ii). Pub. L. 105–34 struck out “, or in the case of a corporation (other than a corporation which is, or but for section 542(c)(7), 542(c)(10), or 543(b)(1)(C) would be, a personal holding company) the principal business of which is trading in stocks or securities for its own account, if its principal office is in the United States” after “dealer in stocks or securities”.
 
-1993—Subsec. (f)(1)(B). Pub. L. 103–66, §13234(a), substituted “50 percent” for “64 percent” in cls. (i) and (ii).
+<b>1993</b>—Subsec. (f)(1)(B). Pub. L. 103–66, §13234(a), substituted “50 percent” for “64 percent” in cls. (i) and (ii).
 
 Subsec. (f)(4)(D). Pub. L. 103–66, §13234(b)(2), substituted “subparagraph (B) or (C)” for “subparagraph (C)”.
 
@@ -546,9 +552,9 @@ In general.—This subsection shall apply to the taxpayer's first 3 taxable year
 
 Reduction.—Notwithstanding subparagraph (A), in the case of the taxpayer's first taxable year beginning after August 1, 1991, this subsection shall only apply to qualified research and experimental expenditures incurred during the first 6 months of such taxable year.”
 
-1991—Subsec. (f)(5). Pub. L. 102–227 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “This subsection shall apply to the taxpayer's first 2 taxable years beginning after August 1, 1989, and on or before August 1, 1991.”
+<b>1991</b>—Subsec. (f)(5). Pub. L. 102–227 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “This subsection shall apply to the taxpayer's first 2 taxable years beginning after August 1, 1989, and on or before August 1, 1991.”
 
-1990—Subsec. (f)(5). Pub. L. 101–508 substituted “Years” for “Year” in heading and amended text generally. Prior to amendment, text read as follows:
+<b>1990</b>—Subsec. (f)(5). Pub. L. 101–508 substituted “Years” for “Year” in heading and amended text generally. Prior to amendment, text read as follows:
 
 “(A)
 
@@ -562,9 +568,9 @@ Reduction.—Notwithstanding subparagraph (A), this subsection shall only apply 
 
 &emsp;“(ii) the number of months in the taxable year.”
 
-1989—Subsec. (f). Pub. L. 101–239 added subsec. (f).
+<b>1989</b>—Subsec. (f). Pub. L. 101–239 added subsec. (f).
 
-1988—Subsec. (b)(2)(A)(ii). Pub. L. 100–647, §1012(p)(30), substituted “section 542(c)(7), 542(c)(10),” for “section 542(c)(7)”.
+<b>1988</b>—Subsec. (b)(2)(A)(ii). Pub. L. 100–647, §1012(p)(30), substituted “section 542(c)(7), 542(c)(10),” for “section 542(c)(7)”.
 
 Subsec. (c)(2). Pub. L. 100–647, §1012(g)(5), struck out at end “In applying this paragraph and paragraph (4), interest referred to in section 861(a)(1)(A) shall be considered income from sources within the United States.”
 
@@ -598,9 +604,9 @@ Subsec. (e)(6). Pub. L. 100–647, §1012(h)(5), substituted “directly allocab
 
 Subsec. (e)(7)(D) to (F). Pub. L. 100–647, §1012(h)(6)(A), added subpars. (D) to (F).
 
-1987—Subsec. (c)(4)(C). Pub. L. 100–203 inserted “or part II” after “part I”.
+<b>1987</b>—Subsec. (c)(4)(C). Pub. L. 100–203 inserted “or part II” after “part I”.
 
-1986—Pub. L. 99–514, §1215(b)(1), inserted “and special rules” in section catchline.
+<b>1986</b>—Pub. L. 99–514, §1215(b)(1), inserted “and special rules” in section catchline.
 
 Subsec. (c)(1)(A). Pub. L. 99–514, §1242(b)(1), inserted reference to pars. (6) and (7).
 
@@ -628,11 +634,11 @@ Subsec. (d)(7), (8). Pub. L. 99–514, §1810(c)(2), added par. (7) and redesign
 
 Subsec. (e). Pub. L. 99–514, §1215(a), added subsec. (e).
 
-1984—Subsec. (c)(2). Pub. L. 98–369, §127(c), substituted “section 871(a)(1), section 871(h) section 881(a), or section 881(c)” for “section 871(a)(1) or section 881(a)”.
+<b>1984</b>—Subsec. (c)(2). Pub. L. 98–369, §127(c), substituted “section 871(a)(1), section 871(h) section 881(a), or section 881(c)” for “section 871(a)(1) or section 881(a)”.
 
 Subsec. (d). Pub. L. 98–369, §123(a), added subsec. (d).
 
-1976—Subsec. (a). Pub. L. 94–455, §1901(a)(113)(A), substituted in heading “Produced” for “Sale, etc.” and struck out in text provisions relating to the definition of sale and sold.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1901(a)(113)(A), substituted in heading “Produced” for “Sale, etc.” and struck out in text provisions relating to the definition of sale and sold.
 
 Subsec. (c)(4)(B)(i). Pub. L. 94–455, §1901(a)(113)(B), substituted “sale or exchange” for “sale”.
 
@@ -640,7 +646,15 @@ Subsec. (c)(4)(B)(iii). Pub. L. 94–455, §1901(a)(113)(B), (C), substituted �
 
 Subsec. (c)(5)(C). Pub. L. 94–455, §1901(a)(113)(B), substituted “sale or exchange” for “sale” wherever appearing.
 
-1966—Pub. L. 89–809 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+<b>1966</b>—Pub. L. 89–809 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–240 applicable to guarantees issued after Sept. 27, 2010, see section 2122(d) of Pub. L. 111–240, set out as a note under section 861 of this title.
+
+Pub. L. 111–226, title II, §216(b), Aug. 10, 2010, 124 Stat. 2400, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 10, 2010\].”
+
+Pub. L. 111–147, title V, §551(b), Mar. 18, 2010, 124 Stat. 117, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Mar. 18, 2010\].”
 
 #### Effective Date of 2009 Amendment
 
@@ -700,7 +714,7 @@ Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1201(d)(4) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,except as otherwise provided, see section 1201(e) of Pub. L. 99–514, set out as a note under section 904 of this title.
+Amendment by section 1201(d)(4) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, except as otherwise provided, see section 1201(e) of Pub. L. 99–514, set out as a note under section 904 of this title.
 
 Amendment by section 1211(b)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, except as otherwise provided, see section 1211(c) of Pub. L. 99–514, set out as an Effective Date note under section 865 of this title.
 
@@ -836,7 +850,7 @@ Coordination of subparagraphs (a) and (b).—In applying subparagraph (B), there
 
 Special rules.—
 
-&emsp;&emsp;“(i) In the case of the 1st 9 taxable years of the taxpayer beginning after December 31, 1986, the amendments made by this section shall not apply to interest expenses paid or accrued by the taxpayer during the taxable year with respect to an aggregate amount of indebtedness which does notexceed the applicable percentage (determined under the following table) of the indebtedness described in clause (iii) or (iv):
+&emsp;&emsp;“(i) In the case of the 1st 9 taxable years of the taxpayer beginning after December 31, 1986, the amendments made by this section shall not apply to interest expenses paid or accrued by the taxpayer during the taxable year with respect to an aggregate amount of indebtedness which does not exceed the applicable percentage (determined under the following table) of the indebtedness described in clause (iii) or (iv):
 
 > &emsp;&nbsp;
 
@@ -930,7 +944,7 @@ Qualified corporation.—For purposes of subparagraph (A), the term ‘qualified
 
 “(4)
 
-Special rules for subsidiary.—The amendments made by this section shall not apply to interest on up to the applicable dollar amount of indebtedness of a subsidiary incorporated on February 11, 1975, the indebtedness of which on May 6, 1986, included—
+Special rules for subsidiary.—The amendments made by this section shall not apply to interest on up to the applicable dollar amount of indebtednessof a subsidiary incorporated on February 11, 1975, the indebtedness of which on May 6, 1986, included—
 
 &emsp;“(A) $100,000,000 face amount of 113/4 percent notes due in 1990,
 

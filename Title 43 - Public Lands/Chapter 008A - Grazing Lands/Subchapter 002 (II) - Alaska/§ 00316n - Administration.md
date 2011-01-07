@@ -10,8 +10,6 @@
 
 This subchapter, referred to in subsec. (a), was in the original “this title” and has been translated as if the reference was to “this Act” to reflect the probable intent of Congress inasmuch as the act of Mar. 4, 1927, was not divided into titles.
 
-The civil service laws, referred to in subsec. (a), are set out in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 #### Codification
 
 In subsec. (a), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification act of 1949, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
@@ -20,7 +18,7 @@ Section was formerly classified to section 471n of Title 48, Territories and Ins
 
 #### Amendments
 
-1949—Subsec. (a). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+<b>1949</b>—Subsec. (a). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
 #### Repeals
 

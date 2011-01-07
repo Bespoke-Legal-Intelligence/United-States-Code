@@ -52,7 +52,7 @@ The authority under subsection (a)(7) of this section to pursue claims shall inc
 
 #### (c) Inapplicability of certain other requirements
 
-Section 5 of title 41 shall not apply to any contract of hazard insurance or to any purchase or contract for services or supplies on account of property obtained by the Secretary as a result ofassistance provided under this chapter if the premium for the insurance or the amount of the services or supplies does not exceed $1,000.
+Section 6101 of title 41 shall not apply to any contract of hazard insurance or to any purchase or contract for services or supplies on account of property obtained by the Secretary as a result ofassistance provided under this chapter if the premium for the insurance or the amount of the services or supplies does not exceed $1,000.
 
 #### (d) Property interests
 
@@ -80,13 +80,15 @@ The power to convey and to execute, in the name of the Secretary, deeds of conve
 
 #### References in Text
 
-The civil service and classification laws, referred to in subsec. (a)(2), are the civil service laws which are set forth in Title 5, Government Organization and Employees, particularly section 3301 et seq. of Title 5, and the classification laws which are set forth in chapter 51 and subchapter III of chapter 53 of Title 5.
+The Public Works Employment Act of 1976, referred to in subsec. (d)(1)(B), is Pub. L. 94–369, July 22, 1976, 90 Stat. 999. Title I of the Act, known as the Local Public Works Capital Development and Investment Act of 1976, is classified generally to subchapter I (§6701 et seq.) of chapter 80 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6701 of this title and Tables.
 
-The Public Works Employment Act of 1976, referred to in subsec. (d)(1)(B), is Pub. L. 94–369, July 22, 1976, 90 Stat. 999, as amended. Title I of the Act, known as the Local Public Works Capital Development and Investment Act of 1976, is classified generally to subchapter I (§6701 et seq.) of chapter 80 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6701 of this title and Tables.
-
-The Trade Act of 1974, referred to in subsec. (d)(1)(C), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Title II of the Act is classified generally to subchapter II (§2251 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
+The Trade Act of 1974, referred to in subsec. (d)(1)(C), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Title II of the Act is classified generally to subchapter II (§2251 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
 
 The Community Emergency Drought Relief Act of 1977, referred to in subsec. (d)(1)(D), is Pub. L. 95–31, May 23, 1977, 91 Stat. 169. Title I of the Act is set out as a note under section 5184 of this title. For complete classification of this Act to the Code, see Tables.
+
+#### Codification
+
+In subsec. (c), “Section 6101 of title 41” substituted for “Section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions
 

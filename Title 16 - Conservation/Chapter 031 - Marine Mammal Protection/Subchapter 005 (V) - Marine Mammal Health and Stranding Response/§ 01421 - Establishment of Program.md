@@ -18,7 +18,7 @@ The purposes of the Program shall be to—
 
 #### Amendments
 
-1994—Subsec. (b)(3). Pub. L. 103–238, §24(c)(1), made technical amendment to reference to section 1421c of this title to reflect renumbering of corresponding section of original act.
+<b>1994</b>—Subsec. (b)(3). Pub. L. 103–238, §24(c)(1), made technical amendment to reference to section 1421c of this title to reflect renumbering of corresponding section of original act.
 
 #### Findings
 

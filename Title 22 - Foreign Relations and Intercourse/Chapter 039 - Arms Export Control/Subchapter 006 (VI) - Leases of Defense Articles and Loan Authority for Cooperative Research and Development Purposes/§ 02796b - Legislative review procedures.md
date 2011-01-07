@@ -2,9 +2,9 @@
 
 #### (a) Applicability
 
-(1) Subject to paragraph (2), in the case of any agreement involving the lease under this subchapter, or the loan under chapter 2 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2311 et seq.\], to any foreign country or international organization for a period of one year or longer of any defense articles which are either (i) major defense equipment valued (in terms of its replacement cost less any depreciation in itsvalue) at $14,000,000 or more, or (ii) defense articles valued (in terms of their replacement cost less any depreciation in their value) at $50,000,000 or more, the agreement may not be entered into or renewed if the Congress, within the 15-day or 30-day period specified in section 2796a(c)(1) or (2) of this title, as the case may be, enacts a joint resolution prohibiting the proposed lease or loan.
+(1) Subject to paragraph (2), in the case of any agreement involving the lease under this subchapter, or the loan under chapter 2 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2311 et seq.\], to any foreign country or international organization for a period of one year or longer of any defense articles which are either (i) major defense equipment valued (in terms of its replacement cost less any depreciation in its value) at $14,000,000 or more, or (ii) defense articles valued (in terms of their replacement cost less any depreciation in their value) at $50,000,000 or more, the agreement may not be entered into or renewed if the Congress, within the 15-day or 30-day period specified in section 2796a(c)(1) or (2) of this title, as the case may be, enacts a joint resolution prohibiting the proposed lease or loan.
 
-(2) In the case of an agreement described in paragraph (1) that is entered into with a member country of the North Atlantic Treaty Organization (NATO) or Australia, Japan, the Republic of Korea, or New Zealand, the limitations in paragraph (1) shall apply only if the agreement involves a lease or loan of—
+(2) In the case of an agreement described in paragraph (1) that is entered into with a member country of the North Atlantic Treaty Organization (NATO) or Australia, Japan, the Republic of Korea, Israel, or New Zealand, the limitations in paragraph (1) shall apply only if the agreement involves a lease or loan of—
 
 &emsp;(A) major defense equipment valued (in terms of its replacement cost less any depreciation in its value) at $25,000,000 or more; or
 
@@ -18,7 +18,7 @@ Any joint resolution under subsection (a) of this section shall be considered in
 
 For the purpose of expediting the consideration and enactment of joint resolutions under subsection (a) of this section, a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.
 
-(Pub. L. 90–629, ch. 6, §63, as added Pub. L. 97–113, title I, §109(a), Dec. 29, 1981, 95 Stat. 1525; amended Pub. L. 99–247, §1(d), Feb. 12, 1986, 100 Stat. 9; Pub. L. 104–164, title I, §141(e)(2), July 21, 1996, 110 Stat. 1433; Pub. L. 107–228, div. B, title XIV, §1405(a)(3), Sept. 30, 2002, 116 Stat. 1457; Pub. L. 110–429, title II, §203(b)(1), Oct. 15, 2008, 122 Stat. 4845.)
+(Pub. L. 90–629, ch. 6, §63, as added Pub. L. 97–113, title I, §109(a), Dec. 29, 1981, 95 Stat. 1525; amended Pub. L. 99–247, §1(d), Feb. 12, 1986, 100 Stat. 9; Pub. L. 104–164, title I, §141(e)(2), July 21, 1996, 110 Stat. 1433; Pub. L. 107–228, div. B, title XIV, §1405(a)(3), Sept. 30, 2002, 116 Stat. 1457; Pub. L. 110–429, title II, §203(b)(1), Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title III, §301(1), Oct. 8, 2010, 124 Stat. 2804.)
 
 #### References in Text
 
@@ -28,13 +28,15 @@ Section 601(b) of the International Security Assistance and Arms Export Control 
 
 #### Amendments
 
-2008—Subsec. (a)(2). Pub. L. 110–429 inserted “the Republic of Korea,” before “or New Zealand”.
+<b>2010</b>—Subsec. (a)(2). Pub. L. 111–266 inserted “Israel,” before “or New Zealand” in introductory provisions.
 
-2002—Subsec. (a). Pub. L. 107–228 designated existing provisions as par. (1), substituted “Subject to paragraph (2), in the case of” for “In the case of”, and added par. (2).
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–429 inserted “the Republic of Korea,” before “or New Zealand”.
 
-1996—Subsec. (a). Pub. L. 104–164 redesignated par. (1) as entire subsec. (a), substituted “the 15-day or 30-day period specified in section 2796a(c)(1) or (2) of this title, as the case may be” for “30 calendar days after receiving the certification with respect to that proposed agreement pursuant to section 2796a(a) of this title”, and struck out par. (2) which read as follows: “This section shall not apply with respect to a loan or lease to the North Atlantic Treaty Organization, any member country of that Organization, Japan, Australia, or New Zealand.”
+<b>2002</b>—Subsec. (a). Pub. L. 107–228 designated existing provisions as par. (1), substituted “Subject to paragraph (2), in the case of” for “In the case of”, and added par. (2).
 
-1986—Subsec. (a)(1). Pub. L. 99–247, §1(d)(1), substituted “enacts a joint resolution prohibiting” for “adopts a concurrent resolution stating that it objects to”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–164 redesignated par. (1) as entire subsec. (a), substituted “the 15-day or 30-day period specified in section 2796a(c)(1) or (2) of this title, as the case may be” for “30 calendar days after receiving the certification with respect to that proposed agreement pursuant to section 2796a(a) of this title”, and struck out par. (2) which read as follows: “This section shall not apply with respect to a loan or lease to the North Atlantic Treaty Organization, any member country of that Organization, Japan, Australia, or New Zealand.”
+
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–247, §1(d)(1), substituted “enacts a joint resolution prohibiting” for “adopts a concurrent resolution stating that it objects to”.
 
 Subsec. (b). Pub. L. 99–247, §1(d)(2), inserted “joint” before “resolution”.
 

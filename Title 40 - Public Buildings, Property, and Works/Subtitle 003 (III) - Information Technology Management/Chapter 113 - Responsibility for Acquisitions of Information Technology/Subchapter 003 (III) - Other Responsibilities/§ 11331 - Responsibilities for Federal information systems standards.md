@@ -34,7 +34,7 @@ Standards and guidelines for national security systems.—Standards and guidelin
 
 (c)
 
-Application of More Stringent Standards.—The head of an agency may employstandards for the cost-effective information security for all operations and assets within or under the supervision of that agency that are more stringent than the standards promulgated by the Director under this section, if such standards—
+Application of More Stringent Standards.—The head of an agency may employ standards for the cost-effective information security for all operations and assets within or under the supervision of that agency that are more stringent than the standards promulgated by the Director under this section, if such standards—
 
 &emsp;(1) contain, at a minimum, the provisions of those applicable standards made compulsory and binding by the Director; and
 
@@ -72,7 +72,7 @@ Pub. L. 104–106, div. E, title LI, §5131(a)–(d), Feb. 10, 1996, 110 Stat. 6
 
 #### Amendments
 
-2002—Pub. L. 107–296 amended text generally. Prior to amendment, text, as amended generally by Pub. L. 107–347, read as follows:
+<b>2002</b>—Pub. L. 107–296 amended text generally. Prior to amendment, text, as amended generally by Pub. L. 107–347, read as follows:
 
 “(a)
 
@@ -84,7 +84,7 @@ Authority to prescribe.—Except as provided under paragraph (2), the Secretary 
 
 &emsp;“(2)
 
-National security systems.—Standards and guidelines for national security systems (as defined under this section) shall be developed, prescribed, enforced, and overseen as otherwise authorized by law and as directed by the President.
+National security systems.—Standards and guidelines for national security systems (as definedunder this section) shall be developed, prescribed, enforced, and overseen as otherwise authorized by law and as directed by the President.
 
 “(b)
 
@@ -156,7 +156,7 @@ Authority to prescribe and disapprove or modify.—
 
 &emsp;&emsp;“(A)
 
-Authority to prescribe.—On the basis of standards and guidelines developed by the National Institute of Standards and Technology pursuant to paragraphs (2) and (3) of section 20(a) of the Act (15 U.S.C. 278g–3(a)(2), (3)), the Secretary of Commerce shall prescribe standards and guidelines pertaining to federal computer systems. The Secretary shall make those standards compulsory and binding to the extent the Secretary determines necessary toimprove the efficiency of operation or security and privacy of federal computer systems.
+Authority to prescribe.—On the basis of standards and guidelines developed by the National Institute of Standards and Technology pursuant to paragraphs (2) and (3) of section 20(a) of the Act (15 U.S.C. 278g–3(a)(2), (3)), the Secretary of Commerce shall prescribe standards and guidelines pertaining to federal computer systems. The Secretary shall make those standards compulsory and binding to the extent the Secretary determines necessary to improve the efficiency of operation or security and privacy of federal computer systems.
 
 &emsp;&emsp;“(B)
 

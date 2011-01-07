@@ -18,7 +18,7 @@ On October 1, 1985, the Secretary shall transfer to the District, without compen
 
 #### Amendments
 
-1991—Subsec. (b). Pub. L. 102–150 substituted “October 1, 1992” for “October 1, 1991” and “2-year” for “twelve-month”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–150 substituted “October 1, 1992” for “October 1, 1991” and “2-year” for “twelve-month”.
 
 #### Change of Name
 

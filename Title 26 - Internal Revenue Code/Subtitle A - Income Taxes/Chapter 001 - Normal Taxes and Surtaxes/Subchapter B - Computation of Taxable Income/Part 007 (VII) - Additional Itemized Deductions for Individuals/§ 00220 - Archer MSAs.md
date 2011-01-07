@@ -22,7 +22,7 @@ In the case of an individual who is an eligible individual for any month during 
 
 &emsp;In the case of individuals who are married to each other, if either spouse has family coverage—
 
-&emsp;&emsp;(A) both spouses shall be treated as having only such family coverage (and if such spouses each have family coverage under different plans, as having the family coverage with the lowest annual deductible), and
+&emsp;&emsp;(A) both spouses shall be treated as having only such family coverage (and if suchspouses each have family coverage under different plans, as having the family coverage with the lowest annual deductible), and
 
 &emsp;&emsp;(B) the limitation under paragraph (1) (after the application of subparagraph (A) of this paragraph) shall be divided equally between them unless they agree on a different division.
 
@@ -204,7 +204,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified medical expenses” means, with respect to an account holder, amounts paid by such holder for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise.
+&emsp;&emsp;The term “qualified medical expenses” means, with respect to an account holder, amounts paid by such holder for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. Such term shall include an amount paid for medicine or a drug onlyif such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
 
 #### (B) Health insurance may not be purchased from account
 
@@ -224,7 +224,7 @@ For purposes of this section—
 
 #### (C) Medical expenses of individuals who are not eligible individuals
 
-&emsp;&emsp;Subparagraph (A) shall apply to an amount paid by an account holder for medical care of an individual who is not described in clauses (i) and (ii) of subsection (c)(1)(A) for the month in which the expense for such care is incurred only if no amount is contributed (other than a rollover contribution)to any Archer MSA of such account holder for the taxable year which includes such month. This subparagraph shall not apply to any expense for coverage described in subclause (I) or (III) of subparagraph (B)(ii).
+&emsp;&emsp;Subparagraph (A) shall apply to an amount paid by an account holder for medical care of an individual who is not described in clauses (i) and (ii) of subsection (c)(1)(A) for the month in which the expense for such care is incurred only if no amount is contributed (other than a rollover contribution) to any Archer MSA of such account holder for the taxable year which includes such month. This subparagraph shall not apply to any expense for coverage described in subclause (I) or (III) of subparagraph (B)(ii).
 
 #### (3) Account holder
 
@@ -284,7 +284,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The tax imposed by this chapter on the account holder for any taxable year in which there is a payment or distribution from an Archer MSA of such holder which is includible in gross income under paragraph (2) shall be increased by 15 percent of the amount which is so includible.
+&emsp;&emsp;The tax imposed by this chapter on the account holder for any taxable year in which there is a payment or distribution from an Archer MSA of such holder which is includible in gross income under paragraph (2) shall be increased by 20 percent of the amount which is so includible.
 
 #### (B) Exception for disability or death
 
@@ -292,7 +292,7 @@ For purposes of this section—
 
 #### (C) Exception for distributions after medicare eligibility
 
-&emsp;&emsp;Subparagraph (A) shall not apply to any payment or distribution after the date on which the account holder attains the age specified in section 1811 of the Social Security Act.
+&emsp;&emsp;Subparagraph (A) shall not apply to any payment or distribution after the date onwhich the account holder attains the age specified in section 1811 of the Social Security Act.
 
 #### (5) Rollover contribution
 
@@ -308,7 +308,7 @@ For purposes of this section—
 
 #### (6) Coordination with medical expense deduction
 
-&emsp;For purposes of determining the amount of the deduction under section 213, any paymentor distribution out of an Archer MSA for qualified medical expenses shall not be treated as an expense paid for medical care.
+&emsp;For purposes of determining the amount of the deduction under section 213, any payment or distribution out of an Archer MSA for qualified medical expenses shall not be treated as an expense paid for medical care.
 
 #### (7) Transfer of account incident to divorce
 
@@ -508,7 +508,7 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 &emsp;Any determination under this subsection that a calendar year is a cut-off year shall be made by the Secretary and shall be published not later than October 1 of such year.
 
-(Added Pub. L. 104–191, title III, §301(a), Aug. 21, 1996, 110 Stat. 2037; amended Pub. L. 105–33, title IV, §4006(b)(2), Aug. 5, 1997, 111 Stat. 333; Pub. L. 105–34, title XVI, §1602(a)(2), (3), Aug. 5, 1997, 111 Stat. 1093, 1094; Pub. L. 106–554, §1(a)(7) \[title II, §§201(a), (b), 202(a)(4), (b)(2)(B), (3)–(8), (10), (11)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–147, title VI, §612(a), (b), Mar. 9, 2002, 116 Stat. 61; Pub. L. 108–173, title XII, §1201(c), Dec. 8, 2003, 117 Stat. 2476; Pub. L. 108–311, title II, §207(19), title III, §322(a), (b), Oct. 4, 2004, 118 Stat. 1178, 1183; Pub. L. 109–432, div. A, title I, §117(a), (b), Dec. 20, 2006, 120 Stat. 2941.)
+(Added Pub. L. 104–191, title III, §301(a), Aug. 21, 1996, 110 Stat. 2037; amended Pub. L. 105–33, title IV, §4006(b)(2), Aug. 5, 1997, 111 Stat. 333; Pub. L. 105–34, title XVI, §1602(a)(2), (3), Aug. 5, 1997, 111 Stat. 1093, 1094; Pub. L. 106–554, §1(a)(7) \[title II, §§201(a), (b), 202(a)(4), (b)(2)(B), (3)–(8), (10), (11)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–147, title VI, §612(a), (b), Mar. 9, 2002, 116 Stat. 61; Pub. L. 108–173, title XII, §1201(c), Dec. 8, 2003, 117 Stat. 2476; Pub. L. 108–311, title II, §207(19), title III, §322(a), (b), Oct. 4, 2004, 118 Stat. 1178, 1183; Pub. L. 109–432, div. A, title I, §117(a), (b), Dec. 20, 2006, 120 Stat. 2941; Pub. L. 111–148, title IX, §§9003(b), 9004(b), Mar. 23, 2010, 124 Stat. 854.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -528,13 +528,17 @@ Another prior section 220, added Pub. L. 94–455, title XV, §1501(a), Oct. 4, 
 
 #### Amendments
 
-2006—Subsec. (i)(2), (3)(B). Pub. L. 109–432, §117(a), substituted “2007” for “2005” wherever appearing in headings and text.
+<b>2010</b>—Subsec. (d)(2)(A). Pub. L. 111–148, §9003(b), inserted at end “Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.”
+
+Subsec. (f)(4)(A). Pub. L. 111–148, §9004(b), substituted “20 percent” for “15 percent”.
+
+<b>2006</b>—Subsec. (i)(2), (3)(B). Pub. L. 109–432, §117(a), substituted “2007” for “2005” wherever appearing in headings and text.
 
 Subsec. (j)(2). Pub. L. 109–432, §117(b)(1), substituted “2004, 2005, or 2006” for “or 2004” in heading and in introductory provisions of subpars. (A) and (B).
 
 Subsec. (j)(4)(A). Pub. L. 109–432, §117(b)(2), substituted “2004, 2005, and 2006” for “and 2004” in introductory provisions.
 
-2004—Subsec. (d)(2)(A). Pub. L. 108–311, §207(19), inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
+<b>2004</b>—Subsec. (d)(2)(A). Pub. L. 108–311, §207(19), inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
 
 Subsec. (i)(2), (3)(B). Pub. L. 108–311, §322(a), substituted “2005” for “2003” wherever appearing in headings and text.
 
@@ -546,9 +550,9 @@ Subsec. (j)(2)(C). Pub. L. 108–311, §322(b)(3), amended heading and text of s
 
 Subsec. (j)(4)(A). Pub. L. 108–311, §322(b)(2), substituted “2002, and 2004” for “and 2002” in introductory provisions.
 
-2003—Subsec. (f)(5)(A). Pub. L. 108–173 inserted “or a health savings account (as defined in section 223(d))” after “paid into an Archer MSA”.
+<b>2003</b>—Subsec. (f)(5)(A). Pub. L. 108–173 inserted “or a health savings account (as defined in section 223(d))” after “paid into an Archer MSA”.
 
-2002—Subsec. (i)(2). Pub. L. 107–147, §612(a), substituted “2003” for “2002” in subpars. (A) and (B).
+<b>2002</b>—Subsec. (i)(2). Pub. L. 107–147, §612(a), substituted “2003” for “2002” in subpars. (A) and (B).
 
 Subsec. (i)(3)(B). Pub. L. 107–147, §612(a), substituted “2003” for “2002” in heading and introductory provisions.
 
@@ -556,7 +560,7 @@ Subsec. (j)(2). Pub. L. 107–147, §612(b)(1), substituted “1998, 1999, 2001,
 
 Subsec. (j)(4)(A). Pub. L. 107–147, §612(b)(2), substituted “2001, and 2002” for “and 2001”.
 
-2000—Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(8)\], substituted “Archer MSAs” for “Medical savings accounts” in section catchline.
+<b>2000</b>—Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(8)\], substituted “Archer MSAs” for “Medical savings accounts” in section catchline.
 
 Subsecs. (a), (b)(5). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(10)\], substituted “an Archer MSA” for “a Archer MSA”.
 
@@ -632,11 +636,17 @@ Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(4)\], substituted “Archer MS
 
 Subsec. (j)(4)(D). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(2)(B)\], substituted “Archer MSAs” for “medical savings accounts” in two places.
 
-1997—Subsec. (b)(7). Pub. L. 105–33 added par. (7).
+<b>1997</b>—Subsec. (b)(7). Pub. L. 105–33 added par. (7).
 
 Subsec. (c)(3). Pub. L. 105–34, §1602(a)(2), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “Medicare supplemental insurance,”.
 
 Subsec. (d)(2)(C). Pub. L. 105–34, §1602(a)(3), substituted “described in clauses (i) and (ii) of subsection (c)(1)(A)” for “an eligible individual”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–148, title IX, §9003(d)(1), Mar. 23, 2010, 124 Stat. 854, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 223 of this title\] shall apply to amounts paid with respect to taxable years beginning after December 31, 2010.”
+
+Pub. L. 111–148, title IX, §9004(c), Mar. 23, 2010, 124 Stat. 854, provided that: “The amendments made by this section \[amending this section and section 223 of this title\] shall apply to distributions made after December 31, 2010.”
 
 #### Effective Date of 2004 Amendment
 
@@ -660,7 +670,7 @@ Pub. L. 106–554, §1(a)(7) \[title II, §201(c)\], Dec. 21, 2000, 114 Stat. 27
 
 Amendment by Pub. L. 105–34 effective as if included in the provisions of the Health Insurance Portability and Accountability Act of 1996, Pub. L. 104–191, to which such amendment relates, see section 1602(i) of Pub. L. 105–34, set out as a note under section 26 of this title.
 
-Amendment by Pub. L. 105–33 applicable to taxable years beginning after Dec. 31, 1998, see section 4006(c) ofPub. L. 105–33, set out as an Effective Date note under section 138 of this title.
+Amendment by Pub. L. 105–33 applicable to taxable years beginning after Dec. 31, 1998, see section 4006(c) of Pub. L. 105–33, set out as an Effective Date note under section 138 of this title.
 
 #### Effective Date
 

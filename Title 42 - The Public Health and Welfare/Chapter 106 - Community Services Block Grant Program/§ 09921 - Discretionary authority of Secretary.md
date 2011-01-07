@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(A) grants to private, nonprofit corporations to enable the corporations to provide assistance concerning home repair to rural low-income families and concerning planning and developing low-income rural rental housing units; and
 
-&emsp;&emsp;(B) grants to multistate, regional, private, nonprofit organizations to enable the organizations to provide training and technical assistance to small, rural communities concerning meeting their community facility needs.
+&emsp;&emsp;(B) grants to multistate, regional, private, nonprofit organizations to enable the organizations to provide training and technicalassistance to small, rural communities concerning meeting their community facility needs.
 
 #### (4) Neighborhood innovation projects
 

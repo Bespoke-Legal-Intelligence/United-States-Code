@@ -58,9 +58,9 @@ Section 3683 of this title, referred to in subsec. (a), was repealed (subject to
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–106 substituted “section 972(a)” for “section 972”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–106 substituted “section 972(a)” for “section 972”.
 
-1994—Subsec. (a). Pub. L. 103–337, §635(a)(1)(A), struck out “and of computing his retired pay under section 3991 of this title,” after “3917 of this title,”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337, §635(a)(1)(A), struck out “and of computing his retired pay under section 3991 of this title,” after “3917 of this title,”.
 
 Subsec. (c). Pub. L. 103–337, §635(a)(1)(B), struck out subsec. (c) which read as follows: “In determining a member's years of service under subsection (a) for the purpose of computing the member's retired pay under section 3991 of this title—
 
@@ -68,13 +68,13 @@ Subsec. (c). Pub. L. 103–337, §635(a)(1)(B), struck out subsec. (c) which rea
 
 &emsp;“(2) any remaining fractional part of a year shall be disregarded.”
 
-1986—Subsec. (c). Pub. L. 99–348 added subsec. (c).
+<b>1986</b>—Subsec. (c). Pub. L. 99–348 added subsec. (c).
 
-1980—Pub. L. 96–343, §9(a)(2)(A), struck out “regular” before “enlisted members” in section catchline.
+<b>1980</b>—Pub. L. 96–343, §9(a)(2)(A), struck out “regular” before “enlisted members” in section catchline.
 
 Subsec. (a). Pub. L. 96–343, §9(a)(2)(B), substituted “an enlisted” for “a regular enlisted”.
 
-1958—Subsec. (b). Pub. L. 85–861 substituted “section 972 of this title” for “section 3638 of this title”.
+<b>1958</b>—Subsec. (b). Pub. L. 85–861 substituted “section 972 of this title” for “section 3638 of this title”.
 
 #### Effective Date of 1996 Amendment
 

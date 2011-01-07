@@ -18,7 +18,7 @@ Each Advisory Board shall be composed of eighteen appointed members and nonvotin
 
 &emsp;(2)(A) The following shall be ex officio members of each Advisory Board:
 
-&emsp;&emsp;(i) The Assistant Secretary for Health, the Director of NIH, the Director of the National Institute of Diabetes and Digestive and Kidney Diseases, the Director of the Centers for Disease Control and Prevention, the Under Secretary for Health of the Department of Veterans Affairs, the Assistant Secretary of Defense for Health Affairs, and the Division Director of the National Institute of Diabetes and Digestive and Kidney Diseases for the diseases for which the Board is established (or the designees of such officers).
+&emsp;&emsp;(i) The Assistant Secretary for Health, the Director of NIH, the Director of the National Institute of Diabetes and Digestive and Kidney Diseases, the Director of the Centers for Disease Control and Prevention, the UnderSecretary for Health of the Department of Veterans Affairs, the Assistant Secretary of Defense for Health Affairs, and the Division Director of the National Institute of Diabetes and Digestive and Kidney Diseases for the diseases for which the Board is established (or the designees of such officers).
 
 &emsp;&emsp;(ii) Such other officers and employees of the United States as the Secretary determines necessary for the Advisory Board to carry out its functions.
 
@@ -62,13 +62,13 @@ In carrying out its functions, each Advisory Board may establish subcommittees, 
 
 The National Diabetes Advisory Board and the National Digestive Diseases Advisory Board in existence on November 20, 1985, shall terminate upon the appointment of a successor Board under subsection (a) of this section. The Secretary shall make appointments to the Advisory Boards established under subsection (a) of this section before the expiration of 90 days after November 20, 1985. The members of the Boards in existence on November 20, 1985, may be appointed, in accordance with subsections (b) and (d) of this section, to the Boards established under subsection (a) of this section for diabetes and digestive diseases, except that at least one-half of the members of the National Diabetes Advisory Board in existence on November 20, 1985, shall be appointed to the National Diabetes Advisory Board first established under subsection (a) of this section.
 
-(July 1, 1944, ch. 373, title IV, §430, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 844; amended Pub. L. 100–607, title I, §131, Nov. 4, 1988, 102 Stat. 3056; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 102–531, title III, §312(d)(6), Oct. 27, 1992, 106 Stat. 3504; Pub. L. 103–43, title XX, §2008(b)(5), June 10, 1993, 107 Stat. 211; Pub. L. 105–362, title VI, §601(a)(1)(C), Nov. 10, 1998, 112 Stat. 3285; Pub. L. 110–154, §1(b)(6), Dec. 21, 2007, 121 Stat. 1827.)
+(July 1, 1944, ch. 373, title IV, §430, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 844; amended Pub. L. 100–607, title I, §131, Nov. 4, 1988, 102 Stat. 3056; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 102–531, titleIII, §312(d)(6), Oct. 27, 1992, 106 Stat. 3504; Pub. L. 103–43, title XX, §2008(b)(5), June 10, 1993, 107 Stat. 211; Pub. L. 105–362, title VI, §601(a)(1)(C), Nov. 10, 1998, 112 Stat. 3285; Pub. L. 110–154, §1(b)(6), Dec. 21, 2007, 121 Stat. 1827.)
 
 #### Amendments
 
-2007—Subsec. (b)(2)(B). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
+<b>2007</b>—Subsec. (b)(2)(B). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
 
-1998—Subsecs. (j), (k). Pub. L. 105–362 redesignated subsec. (k) as (j) and struck out former subsec. (j) which read as follows: “Each Advisory Board shall prepare an annual report for the Secretary which—
+<b>1998</b>—Subsecs. (j), (k). Pub. L. 105–362 redesignated subsec. (k) as (j) and struck out former subsec. (j) which read as follows: “Each Advisory Board shall prepare an annual report for the Secretary which—
 
 &emsp;“(1) describes the Advisory Board's activities in the fiscal year for which the report is made;
 
@@ -78,13 +78,13 @@ The National Diabetes Advisory Board and the National Digestive Diseases Advisor
 
 &emsp;“(4) contains the Advisory Board's recommendations (if any) for changes in the plan referred to in section 285c–7 of this title.”
 
-1993—Subsec. (b)(2)(A)(i). Pub. L. 103–43 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1993</b>—Subsec. (b)(2)(A)(i). Pub. L. 103–43 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1992—Subsec. (b)(2)(A)(i). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Subsec. (b)(2)(A)(i). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
 Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-1988—Subsecs. (k), (<i>l</i>). Pub. L. 100–607 redesignated subsec. (<i>l</i>) as (k) and struck out former subsec. (k) which read as follows: “Each Advisory Board shall expire on September 30, 1988.”
+<b>1988</b>—Subsecs. (k), (<i>l</i>). Pub. L. 100–607 redesignated subsec. (<i>l</i>) as (k) and struck out former subsec. (k) which read as follows: “Each Advisory Board shall expire on September 30, 1988.”
 
 #### Termination of Advisory Boards
 

@@ -30,7 +30,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-21704D36:44 (words before 4th semicolon less perpetual succession, words after 5th semicolon).DSept. 16, 1919, ch. 59, §4 (words before 4th semicolon less perpetual succession, words after 5th semicolon), 41 Stat. 285; June 26, 1953, ch. 153, §1, 67 Stat. 82.
+21704
+
+36:44 (words before 4th semicolon less perpetual succession, words after 5th semicolon).
+
+Sept. 16, 1919, ch. 59, §4 (words before 4th semicolon less perpetual succession, words after 5th semicolon), 41 Stat. 285; June 26, 1953, ch. 153, §1, 67 Stat. 82.
 
 &nbsp;
 

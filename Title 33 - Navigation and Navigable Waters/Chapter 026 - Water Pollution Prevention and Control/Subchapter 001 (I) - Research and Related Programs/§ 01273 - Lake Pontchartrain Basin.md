@@ -62,7 +62,7 @@ Another section 121 of act June 30, 1948, was renumbered section 122 and is clas
 
 #### Amendments
 
-2006—Subsec. (f)(1). Pub. L. 109–392 substituted “2011” for “2005”.
+<b>2006</b>—Subsec. (f)(1). Pub. L. 109–392 substituted “2011” for “2005”.
 
 #### Management Conference
 

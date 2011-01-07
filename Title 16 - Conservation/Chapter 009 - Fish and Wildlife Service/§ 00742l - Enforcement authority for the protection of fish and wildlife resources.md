@@ -84,9 +84,9 @@ Section is comprised of subsecs. (a) to (d) and (k) of section 3 of Pub. L. 95�
 
 #### Amendments
 
-1998—Subsec. (c). Pub. L. 105–328 designated existing provisions as par. (1) and inserted heading, substituted “Subject to paragraph (2), notwithstanding” for “Notwithstanding”, and added pars. (2) and (3).
+<b>1998</b>—Subsec. (c). Pub. L. 105–328 designated existing provisions as par. (1) and inserted heading, substituted “Subject to paragraph (2), notwithstanding” for “Notwithstanding”, and added pars. (2) and (3).
 
-1982—Subsec. (k). Pub. L. 97–396 added subsec. (k).
+<b>1982</b>—Subsec. (k). Pub. L. 97–396 added subsec. (k).
 
 #### Congressional Findings and Purposes
 

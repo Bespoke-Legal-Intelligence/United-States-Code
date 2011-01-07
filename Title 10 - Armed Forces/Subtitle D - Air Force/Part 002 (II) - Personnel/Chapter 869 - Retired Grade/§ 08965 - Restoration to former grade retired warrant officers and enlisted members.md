@@ -22,7 +22,7 @@ The words “hereafter”, “rank or”, and “shall thereafter be deemed to b
 
 #### Amendments
 
-1988—Pub. L. 100–456 substituted “retired” for “Regular Air Force” in section catchline.
+<b>1988</b>—Pub. L. 100–456 substituted “retired” for “Regular Air Force” in section catchline.
 
-1987—Pub. L. 100–180 struck out “Regular” before “Air Force who”.
+<b>1987</b>—Pub. L. 100–180 struck out “Regular” before “Air Force who”.
 

@@ -88,13 +88,13 @@ The term “import activity summary statement” refers to data or information t
 
 #### (s) Reconciliation
 
-The term “reconciliation” means an electronic process, initiated at the request of an importer, under which the elements of an entry (other than those elements related to the admissibility of the merchandise) that are undetermined at the time the importer files or transmits the documentation or information requiredby section 1484(a)(1)(B) of this title, or the import activity summary statement, are provided to the Customs Service at a later time. A reconciliation is treated as an entry for purposes of liquidation, reliquidation, recordkeeping, and protest.
+The term “reconciliation” means an electronic process, initiated at the request of an importer, under which the elements of an entry (other than those elements related to the admissibility of the merchandise) that are undetermined at the time the importer files or transmits the documentation or information required by section 1484(a)(1)(B) of this title, or the import activity summary statement, are provided to the Customs Service at a later time. A reconciliation is treated as an entry for purposes of liquidation, reliquidation, recordkeeping, and protest.
 
 #### (t) Reconfigured entry
 
 The term “reconfigured entry” means an entry filed on an import activity summary statement which substitutes for all or part of 1 or more entries filed under section 1484(a)(1)(A) of this title or filed on a reconciliation entry that aggregates the entry elements to be reconciled under section 1484(b) of this title for purposes of liquidation, reliquidation, or protest.
 
-(June 17, 1930, ch. 497, title IV, §401, 46 Stat. 708; Aug. 5, 1935, ch. 438, title II, §201, 49 Stat. 521; June 25, 1938, ch. 679, §2, 52 Stat. 1077; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; June 30, 1955, ch. 258, §2(a)(3), 69 Stat. 242; Pub. L. 91–271, title III, §301(c), June 2, 1970, 84 Stat. 288; Pub. L. 99–570, title III, §3111, Oct. 27, 1986, 100 Stat. 3207–80; Pub. L. 103–182, title VI, §634, Dec. 8, 1993, 107 Stat. 2198; Pub. L. 104–295, §§3(a)(6)(A), 18(a), Oct. 11, 1996, 110 Stat. 3515, 3524; Pub. L. 108–7, div. J, title I, §127(b), Feb. 20, 2003, 117 Stat. 441; Pub. L. 108–429, title I, §1561(a), (c), title II, §2106, Dec. 3, 2004, 118 Stat. 2581, 2582, 2598.)
+(June 17, 1930, ch. 497, title IV, §401, 46 Stat. 708; Aug. 5, 1935, ch. 438, title II, §201, 49 Stat. 521; June 25, 1938, ch. 679, §2, 52 Stat. 1077; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; June30, 1955, ch. 258, §2(a)(3), 69 Stat. 242; Pub. L. 91–271, title III, §301(c), June 2, 1970, 84 Stat. 288; Pub. L. 99–570, title III, §3111, Oct. 27, 1986, 100 Stat. 3207–80; Pub. L. 103–182, title VI, §634, Dec. 8, 1993, 107 Stat. 2198; Pub. L. 104–295, §§3(a)(6)(A), 18(a), Oct. 11, 1996, 110 Stat. 3515, 3524; Pub. L. 108–7, div. J, title I, §127(b), Feb. 20, 2003, 117 Stat. 441; Pub. L. 108–429, title I, §1561(a), (c), title II, §2106, Dec. 3, 2004, 118 Stat. 2581, 2582, 2598.)
 
 #### References in Text
 
@@ -118,19 +118,19 @@ The Customs Administrative Act of June 10, 1890, as originally enacted and as am
 
 #### Amendments
 
-2004—Subsec. (i). Pub. L. 108–429, §1561(c), repealed Pub. L. 108–7, §127(b). See 2003 Amendment note below.
+<b>2004</b>—Subsec. (i). Pub. L. 108–429, §1561(c), repealed Pub. L. 108–7, §127(b). See 2003 Amendment note below.
 
 Pub. L. 108–429, §1561(a), inserted “, including foreign law enforcement officers,” after “or other person”.
 
 Subsec. (t). Pub. L. 108–429, §2106, added subsec. (t).
 
-2003—Subsec. (i). Pub. L. 108–7, §127(b), which directed amendment of section 1401(i) of title 19 by inserting “, including foreign law enforcement officers,” after “or other person”, was repealed by Pub. L. 108–429, §1561(c).
+<b>2003</b>—Subsec. (i). Pub. L. 108–7, §127(b), which directed amendment of section 1401(i) of title 19 by inserting “, including foreign law enforcement officers,” after “or other person”, was repealed by Pub. L. 108–429, §1561(c).
 
-1996—Subsec. (s). Pub. L. 104–295, §18(a), amended first sentence generally. Prior to amendment, first sentence read as follows: “The term ‘reconciliation’ means an electronic process, initiated at the request of an importer, under which the elements of an entry, other than those elements related to the admissibility of the merchandise, that are undetermined at the time of entry summary are provided to the Customs Service at a later time.”
+<b>1996</b>—Subsec. (s). Pub. L. 104–295, §18(a), amended first sentence generally. Prior to amendment, first sentence read as follows: “The term ‘reconciliation’ means an electronic process, initiated at the request of an importer, under which the elements of an entry, other than those elements related to the admissibility of the merchandise, that are undetermined at the time of entry summary are provided to the Customs Service at a later time.”
 
 Pub. L. 104–295, §3(a)(6)(A), inserted “recordkeeping,” after “reliquidation,”.
 
-1993—Subsec. (k). Pub. L. 103–182, §634(1), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows:
+<b>1993</b>—Subsec. (k). Pub. L. 103–182, §634(1), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows:
 
 “(1) The term ‘hovering vessel’ means any vessel which is found or kept off the coast of the United States within or without the customs waters, if, from the history, conduct, character, or location of the vessel, it is reasonable to believe that such vessel is being used or may be used to introduce or promote or facilitate the introduction or attempted introduction of merchandise into the United States in violation of the laws respecting the revenue.
 
@@ -146,13 +146,13 @@ Pub. L. 104–295, §3(a)(6)(A), inserted “recordkeeping,” after “reliquid
 
 Subsecs. (n) to (s). Pub. L. 103–182, §634(2), added subsecs. (n) to (s).
 
-1986—Subsec. (c). Pub. L. 99–570, §3111(1), inserted “, and monetary instruments as defined in section 5312 of title 31”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–570, §3111(1), inserted “, and monetary instruments as defined in section 5312 of title 31”.
 
 Subsec. (k). Pub. L. 99–570, §3111(2), (3), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (m). Pub. L. 99–570, §3111(4), added subsec. (m).
 
-1970—Subsec. (h). Pub. L. 91–271, §301(c)(1), (2), struck out subsec. (h) which defined “collector”, and redesignated subsec. (k) as (h).
+<b>1970</b>—Subsec. (h). Pub. L. 91–271, §301(c)(1), (2), struck out subsec. (h) which defined “collector”, and redesignated subsec. (k) as (h).
 
 Subsec. (i). Pub. L. 91–271, §301(c)(1), (2), struck out subsec. (i) which defined “comptroller of customs”, redesignated subsec. (<i>l</i>) as (i), and, as so redesignated, defined “customs officer”.
 
@@ -164,11 +164,11 @@ Subsec. (<i>l</i>). Pub. L. 91–271, §301(c)(2), (3), added subsec. (<i>l</i>)
 
 Subsecs. (m), (n). Pub. L. 91–271, §301(c)(2), redesignated subsecs. (m) and (n) as (j) and (k), respectively.
 
-1955—Subsec. (k). Act June 30, 1955, inserted “Johnston Island”.
+<b>1955</b>—Subsec. (k). Act June 30, 1955, inserted “Johnston Island”.
 
-1938—Subsec. (k). Act June 25, 1938, inserted “Wake Island, Midway Islands, Kingman Reef” before “and the island of Guam”.
+<b>1938</b>—Subsec. (k). Act June 25, 1938, inserted “Wake Island, Midway Islands, Kingman Reef” before “and the island of Guam”.
 
-1935—Subsecs. (<i>l</i>) to (n). Act Aug. 5, 1935, added subsecs. (<i>l</i>) to (n).
+<b>1935</b>—Subsecs. (<i>l</i>) to (n). Act Aug. 5, 1935, added subsecs. (<i>l</i>) to (n).
 
 #### Change of Name
 

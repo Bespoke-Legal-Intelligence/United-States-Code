@@ -30,7 +30,7 @@ An electric powerplant has the capability to use coal or another alternate fuel 
 
 #### Amendments
 
-1987—Pub. L. 100–42 substituted “Coal capability of new electric powerplants; certification of compliance” for “New electric powerplants” in section catchline and amended text generally. Prior to amendment, text read as follows: “Except to such extent as may be authorized under part B—
+<b>1987</b>—Pub. L. 100–42 substituted “Coal capability of new electric powerplants; certification of compliance” for “New electric powerplants” in section catchline and amended text generally. Prior to amendment, text read as follows: “Except to such extent as may be authorized under part B—
 
 &emsp;“(1) natural gas or petroleum shall not be used as a primary energy source in any new electric powerplant; and
 

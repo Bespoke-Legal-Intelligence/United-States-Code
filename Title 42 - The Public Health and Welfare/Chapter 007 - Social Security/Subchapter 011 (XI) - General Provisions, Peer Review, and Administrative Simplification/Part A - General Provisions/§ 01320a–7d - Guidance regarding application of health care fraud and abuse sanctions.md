@@ -26,7 +26,7 @@
 
 #### (2) Criteria for modifying and establishing safe harbors
 
-&emsp;In modifying and establishing safe harbors under paragraph (1)(B), the Secretary may consider the extent to which providing a safe harbor for the specified payment practice may result in any of the following:
+&emsp;In modifying and establishing safe harbors under paragraph (1)(B), the Secretary mayconsider the extent to which providing a safe harbor for the specified payment practice may result in any of the following:
 
 &emsp;&emsp;(A) An increase or decrease in access to health care services.
 
@@ -122,11 +122,11 @@
 
 #### (A) Request for special fraud alerts
 
-&emsp;&emsp;Any person may present, at any time, a request to the Inspector General for a notice which informs the public of practices which the Inspector General considers to be suspect or of particular concern under the Medicare program under subchapter XVIII of this chapter or a State health care program, as defined in section 1320a–7(h) of this title (in this subsection referred to as a “special fraud alert”).
+&emsp;&emsp;Any person may present, at any time, a request to the Inspector General for a notice which informs the public of practices which the Inspector General considers to be suspect or of particular concern under the Medicare program under subchapter XVIII of this chapter or a State health care program, as defined in section 1320a–7(h) of this title\(in this subsection referred to as a “special fraud alert”).
 
 #### (B) Issuance and publication of special fraud alerts
 
-&emsp;&emsp;Upon receipt of a request described in subparagraph (A), the Inspector General shallinvestigate the subject matter of the request to determine whether a special fraud alert should be issued. If appropriate, the Inspector General shall issue a special fraud alert in response to the request. All special fraud alerts issued pursuant to this subparagraph shall be published in the Federal Register.
+&emsp;&emsp;Upon receipt of a request described in subparagraph (A), the Inspector General shall investigate the subject matter of the request to determine whether a special fraud alert should be issued. If appropriate, the Inspector General shall issue a special fraud alert in response to the request. All special fraud alerts issued pursuant to this subparagraph shall be published in the Federal Register.
 
 #### (2) Criteria for special fraud alerts
 
@@ -148,11 +148,11 @@ The Internal Revenue Code of 1986, referred to in subsec. (b)(3)(B), is classifi
 
 #### Amendments
 
-2000—Subsec. (b)(6). Pub. L. 106–554 struck out “, and before the date which is 4 years after August 21, 1996” before period at end.
+<b>2000</b>—Subsec. (b)(6). Pub. L. 106–554 struck out “, and before the date which is 4 years after August 21, 1996” before period at end.
 
-1998—Subsec. (b)(2)(A). Pub. L. 105–277 inserted “or section 1320a–7a(i)(6) of this title” before period at end.
+<b>1998</b>—Subsec. (b)(2)(A). Pub. L. 105–277 inserted “or section 1320a–7a(i)(6) of this title” before period at end.
 
-1997—Subsec. (b)(2)(D). Pub. L. 105–33 substituted “section 1320a–7a(b)” for “section 1320a–7b(b)”.
+<b>1997</b>—Subsec. (b)(2)(D). Pub. L. 105–33 substituted “section 1320a–7a(b)” for “section 1320a–7b(b)”.
 
 #### Effective Date of 1997 Amendment
 

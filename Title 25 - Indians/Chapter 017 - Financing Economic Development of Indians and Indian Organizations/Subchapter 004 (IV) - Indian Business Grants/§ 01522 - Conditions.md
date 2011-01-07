@@ -6,7 +6,7 @@ No grant in excess of $100,000 in the case of an Indian and $250,000 in the case
 
 #### (b) Financing from other sources; inability to obtain funds; applicant's financial resources
 
-A grant may be made only to an applicant who, in the opinion of the Secretary, is unable to obtain adequate financing for its economic enterprise from other sources: <i>Provided</i>, That prior to making any grant under this subchapter, the Secretary shall assure that, where practical, the applicant has reasonably madeavailable for the economic enterprise funds from the applicant's own financial resources.
+A grant may be made only to an applicant who, in the opinion of the Secretary, is unable to obtain adequate financing for its economic enterprise from other sources: <i>Provided</i>, That prior to making any grant under this subchapter, the Secretary shall assure that, where practical, the applicant has reasonably made available for the economic enterprise funds from the applicant's own financial resources.
 
 #### (c) Percentage requirement
 
@@ -16,5 +16,5 @@ No grant may be made to an applicant who is unable to obtain at least 60 per cen
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–449 amended subsec. (a) generally, substituting provisions setting forth different levels of maximum grant amounts in cases of Indians and Indian tribes for provisions providing a maximum of $50,000 in cases of both Indians and Indian tribes.
+<b>1984</b>—Subsec. (a). Pub. L. 98–449 amended subsec. (a) generally, substituting provisions setting forth different levels of maximum grant amounts in cases of Indians and Indian tribes for provisions providing a maximum of $50,000 in cases of both Indians and Indian tribes.
 

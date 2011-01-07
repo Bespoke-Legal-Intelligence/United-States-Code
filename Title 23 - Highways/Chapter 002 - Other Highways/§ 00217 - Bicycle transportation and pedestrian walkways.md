@@ -74,13 +74,13 @@ Pedestrian.—The term “pedestrian” means any person traveling by foot and a
 
 Wheelchair.—The term “wheelchair” means a mobility aid, usable indoors, and designed for and used by individuals with mobility impairments, whether operated manually or motorized.
 
-(Added Pub. L. 93–87, title I, §124(a), Aug. 13, 1973, 87 Stat. 262; amended Pub. L. 94–280, title I, §134, May 5, 1976, 90 Stat. 441; Pub. L. 95–599, title I, §141(h), Nov. 6, 1978, 92 Stat. 2712; Pub. L. 97–424, title I, §126A, formerly §126, Jan. 6, 1983, 96 Stat. 2116, renumbered §126A, Pub. L. 100–17, title I, §133(a)(2), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §127, Apr. 2, 1987, 101 Stat. 167; Pub. L. 102–240, title I, §1033, Dec. 18, 1991, 105 Stat. 1975; Pub. L. 104–59, title III, §310(b), Nov. 28, 1995, 109 Stat. 582; Pub. L. 105–178, title I, §1202(a), June 9, 1998, 112 Stat. 168; Pub. L. 109–59, title I, §1954, Aug. 10, 2005, 119 Stat. 1515.)
+(Added Pub. L. 93–87, title I, §124(a), Aug. 13, 1973, 87 Stat. 262; amended Pub. L. 94–280, title I, §134, May 5, 1976, 90 Stat. 441; Pub. L. 95–599, title I, §141(h), Nov. 6, 1978, 92 Stat. 2712; Pub. L. 97–424, title I, §126A, formerly §126, Jan. 6, 1983, 96 Stat. 2116, renumbered §126A, Pub. L. 100–17, title I, §133(a)(2), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §127, Apr. 2, 1987, 101 Stat. 167; Pub. L. 102–240, title I, §1033, Dec. 18, 1991, 105 Stat. 1975; Pub. L. 104–59, title III, §310(b), Nov.28, 1995, 109 Stat. 582; Pub. L. 105–178, title I, §1202(a), June 9, 1998, 112 Stat. 168; Pub. L. 109–59, title I, §1954, Aug. 10, 2005, 119 Stat. 1515.)
 
 #### Amendments
 
-2005—Subsec. (c). Pub. L. 109–59 struck out “in conjunction with such trails, roads, highways, and parkways” before period at end.
+<b>2005</b>—Subsec. (c). Pub. L. 109–59 struck out “in conjunction with such trails, roads, highways, and parkways” before period at end.
 
-1998—Subsec. (b). Pub. L. 105–178, §1202(a)(1), inserted “pedestrian walkways and” after “construction of” and struck out “(other than the Interstate System)” after “on the National Highway System”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–178, §1202(a)(1), inserted “pedestrian walkways and” after “construction of” and struck out “(other than the Interstate System)” after “on the National Highway System”.
 
 Subsec. (e). Pub. L. 105–178, §1202(a)(2), struck out “, other than a highway access to which is fully controlled,” after “located on a highway”.
 
@@ -94,13 +94,13 @@ Subsec. (h)(4), (5). Pub. L. 105–178, §1202(a)(6), added par. (4) and redesig
 
 Subsec. (j). Pub. L. 105–178, §1202(a)(7), added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: “For purposes of this section, a ‘bicycle transportation facility’ means new or improved lanes, paths, or shoulders for use by bicyclists, traffic control devices, shelters, and parking facilities for bicycles.”
 
-1995—Subsec. (f). Pub. L. 104–59 substituted “determined in accordance with section 120(b)” for “80 percent”.
+<b>1995</b>—Subsec. (f). Pub. L. 104–59 substituted “determined in accordance with section 120(b)” for “80 percent”.
 
-1991—Pub. L. 102–240 substituted “walkways” for “walkway” in section catchline and amended text generally, substituting present provisions for provisions authorizing States to construct pedestrian walkways and bicycle lanes, paths, etc., as Federal-aid highway projects, relating to safe accommodation of bicycles on bridge with deck replaced or rehabilitated with Federal participation, prohibiting bicycle project under this section unless principally for transportation purposes, deeming walkway and bicycle projects as highway projects and setting Federal share at 100 per centum, allowing use of funds authorized for forest highways, forest development roads and trails, etc., for construction of walkways and bicycle routes, prohibiting use of motor vehicles on trails and walkways, and relating to obligation of funds.
+<b>1991</b>—Pub. L. 102–240 substituted “walkways” for “walkway” in section catchline and amended text generally, substituting present provisions for provisions authorizing States to construct pedestrian walkways and bicycle lanes, paths, etc., as Federal-aid highway projects, relating to safe accommodation of bicycles on bridge with deck replaced or rehabilitated with Federal participation, prohibiting bicycle project under this section unless principally for transportation purposes, deeming walkway and bicycle projects as highway projects and setting Federal share at 100 per centum, allowing use of funds authorized for forest highways, forest development roads and trails, etc., for construction of walkways and bicycle routes, prohibiting use of motor vehicles on trails and walkways, and relating to obligation of funds.
 
-1987—Subsec. (b)(1). Pub. L. 100–17 inserted “and sums apportioned or allocated for highway substitute projects in accordance with section 103(e)(4) of this title” after “title” in second sentence.
+<b>1987</b>—Subsec. (b)(1). Pub. L. 100–17 inserted “and sums apportioned or allocated for highway substitute projects in accordance with section 103(e)(4) of this title” after “title” in second sentence.
 
-1983—Subsec. (a). Pub. L. 97–424 designated as subsec. (a) that portion of former subsec. (a) relating to pedestrian walkways. Remainder of former subsec. (a) relating to bicycles was redesignated (b)(1).
+<b>1983</b>—Subsec. (a). Pub. L. 97–424 designated as subsec. (a) that portion of former subsec. (a) relating to pedestrian walkways. Remainder of former subsec. (a) relating to bicycles was redesignated (b)(1).
 
 Subsec. (b). Pub. L. 97–424 redesignated as par. (1) that portion of former subsec. (a) relating to bicycles and added pars. (2) and (3). Provisions of former subsec. (b) relating to pedestrian walkways and bicycles projects were redesignated (c) and (d), respectively.
 
@@ -116,9 +116,9 @@ Subsec. (g). Pub. L. 97–424 redesignated former subsec. (d) as (g).
 
 Subsec. (h). Pub. L. 97–424 redesignated former subsec. (e) as (h), substituted reference to subsecs. (a), (b), (e), and (f) of this section for reference to former subsecs. (a) and (c), and substituted provision that no State shall obligate more than $4,500,000 for such projects in any fiscal year, except that the Secretary may, upon application, waive this limitation for a State for any fiscal year for provision that no State was to obligate more than $2,500,000 for such projects for any fiscal year.
 
-1978—Subsec. (a). Pub. L. 95–599 inserted provision relating to energy conservation and struck out requirement that such construction be in conjunction with Federal-aid highways.
+<b>1978</b>—Subsec. (a). Pub. L. 95–599 inserted provision relating to energy conservation and struck out requirement that such construction be in conjunction with Federal-aid highways.
 
-1976—Subsec. (e). Pub. L. 94–280 substituted “$45,000,000” for “$40,000,000” and “$2,500,000” for “$2,000,000”.
+<b>1976</b>—Subsec. (e). Pub. L. 94–280 substituted “$45,000,000” for “$40,000,000” and “$2,500,000” for “$2,000,000”.
 
 #### Effective Date of 1991 Amendment
 
@@ -154,7 +154,7 @@ Statistical Information.—In carrying out the program, the Secretary \[of Trans
 
 “(e)
 
-Reports.—The Secretary \[of Transportation\] shall submit to Congress an interim report not later than September 30, 2007, and a final report not later than September 30, 2010, on the results of the program.
+Reports.—The Secretary \[of Transportation\] shall submit to Congress an interim report not laterthan September 30, 2007, and a final report not later than September 30, 2010, on the results of the program.
 
 “(f)
 
@@ -182,7 +182,7 @@ In general.—In implementing section 217(g) of title 23, United States Code, th
 
 “(2)
 
-Issues to be addressed.—The guidance shall address issues such as the level and nature of the demand,volume, and speed of motor vehicle traffic, safety, terrain, cost, and sight distance.
+Issues to be addressed.—The guidance shall address issues such as the level and nature of the demand, volume, and speed of motor vehicle traffic, safety, terrain, cost, and sight distance.
 
 “(3)
 

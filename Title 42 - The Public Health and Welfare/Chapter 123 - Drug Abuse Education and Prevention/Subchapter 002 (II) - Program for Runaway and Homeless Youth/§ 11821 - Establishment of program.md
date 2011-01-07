@@ -4,7 +4,7 @@
 
 The Secretary shall make grants to public and private nonprofit agencies, organizations, and institutions to carry out research, demonstration, and services projects designed—
 
-&emsp;(1) to provide individual, family, and group counseling to runaway youth and their families and to homeless youth for the purpose ofpreventing or reducing the illicit use of drugs by such youth,
+&emsp;(1) to provide individual, family, and group counseling to runaway youth and their families and to homeless youth for the purpose of preventing or reducing the illicit use of drugs by such youth,
 
 &emsp;(2) to develop and support peer counseling programs for runaway and homeless youth related to the illicit use of drugs,
 

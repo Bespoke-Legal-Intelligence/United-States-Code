@@ -32,7 +32,7 @@ Provisions similar to those in this section were contained in section 6618 of th
 
 #### Amendments
 
-1982—Pub. L. 97–375 substituted provisions requiring the President to submit to Congress in odd numbered years a science and technology report and outlook for provisions which required the Office of Science and Technology Policy to create a five-year science and technology outlook, dealing with current and emerging problems and with opportunities for and constraints on new and existing capabilities, to be revised annually, composed with the consultation of officials of departments and agencies having related programs and responsibilities, and with officials of the Office of Management and Budget and other appropriate elements of the Executive Office of the President.
+<b>1982</b>—Pub. L. 97–375 substituted provisions requiring the President to submit to Congress in odd numbered years a science and technology report and outlook for provisions which required the Office of Science andTechnology Policy to create a five-year science and technology outlook, dealing with current and emerging problems and with opportunities for and constraints on new and existing capabilities, to be revised annually, composed with the consultation of officials of departments and agencies having related programs and responsibilities, and with officials of the Office of Management and Budget and other appropriate elements of the Executive Office of the President.
 
 #### Termination of Reporting Requirements
 

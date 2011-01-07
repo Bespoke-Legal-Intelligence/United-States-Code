@@ -20,5 +20,5 @@ R.S. §2337 derived from act May 10, 1872, ch. 152, §15, 17 Stat. 96.
 
 #### Amendments
 
-1960—Pub. L. 86–390 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1960</b>—Pub. L. 86–390 designated existing provisions as subsec. (a) and added subsec. (b).
 

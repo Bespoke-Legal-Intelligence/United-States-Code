@@ -42,7 +42,7 @@ The Secretary, under such regulations as he may prescribe, shall pay (without in
 
 #### (c) Destruction of distilled spirits, wines, or beer
 
-When the Secretary has made payment under this section in respect of the tax, or tax andduty, on the distilled spirits, wines, or beer condemned by a duly authorized official or rendered unmarketable, such distilled spirits, wines, or beer shall be destroyed under such supervision as the Secretary may prescribe, unless such distilled spirits, wines, or beer were previously destroyed under supervision satisfactory to the Secretary.
+When the Secretary has made payment under this section in respect of the tax, or tax and duty, on the distilled spirits, wines, or beer condemned by a duly authorized official or rendered unmarketable, such distilled spirits, wines, or beer shall be destroyed under such supervision as the Secretary may prescribe, unless such distilled spirits, wines, or beer were previously destroyed under supervision satisfactory to the Secretary.
 
 #### (d) Products of Puerto Rico
 
@@ -50,7 +50,7 @@ The provisions of this section shall not be applicable in respect of distilled s
 
 #### (e) Other laws applicable
 
-All provisions of law, including penalties, applicable in respect of internal revenue taxes on distilled spirits, wines, and beer shall, insofar as applicable and not inconsistent with this section, be applied in respect of the payments provided for in this section to the same extent as if such payments constituted refunds of such taxes.
+All provisions of law, including penalties, applicable in respect of internal revenue taxes ondistilled spirits, wines, and beer shall, insofar as applicable and not inconsistent with this section, be applied in respect of the payments provided for in this section to the same extent as if such payments constituted refunds of such taxes.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1337; amended Pub. L. 91–606, title III, §301(i), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 93–288, title VII, §702(i), formerly title VI, §602(i), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(i), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–423, §1(a), Oct. 6, 1978, 92 Stat. 935; Pub. L. 96–39, title VIII, §807(a)(10), July 26, 1979, 93 Stat. 282; Pub. L. 100–707, title I, §109(<i>l</i>), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 108–311, title IV, §408(a)(7)(D), Oct. 4, 2004, 118 Stat. 1191.)
 
@@ -64,23 +64,23 @@ A prior section 5064, act Aug. 16, 1954, ch. 736, 68A Stat. 615, related to “t
 
 #### Amendments
 
-2004—Subsec. (b)(3). Pub. L. 108–311 inserted “Robert T. Stafford” before “Disaster Relief and Emergency Assistance Act” in introductory provisions.
+<b>2004</b>—Subsec. (b)(3). Pub. L. 108–311 inserted “Robert T. Stafford” before “Disaster Relief and Emergency Assistance Act” in introductory provisions.
 
-1988—Subsec. (b)(3). Pub. L. 100–707 substituted “and Emergency Assistance Act” for “Act of 1974”.
+<b>1988</b>—Subsec. (b)(3). Pub. L. 100–707 substituted “and Emergency Assistance Act” for “Act of 1974”.
 
-1979—Pub. L. 96–39 struck out “rectified products,” after “distilled spirits, wines,” wherever appearing.
+<b>1979</b>—Pub. L. 96–39 struck out “rectified products,” after “distilled spirits, wines,” wherever appearing.
 
-1978—Pub. L. 95–423 substituted “Losses resulting from disaster, vandalism, or malicious mischief” for “Losses caused by disaster” in section catchline.
+<b>1978</b>—Pub. L. 95–423 substituted “Losses resulting from disaster, vandalism, or malicious mischief” for “Losses caused by disaster” in section catchline.
 
 Subsec. (a). Pub. L. 95–423 substituted provisions authorizing the Secretary, under such regulations as he may prescribe, to pay the prescribed amount on distilled spirits, etc., lost, rendered unmarketable, or condemned by a duly authorized official by reason of fire, flood, casualty or other disaster, breakage, destruction, or other damage (but not including theft) resulting from vandalism or malicious mischief, for provisions authorizing such payment where the President has determined under the Disaster Relief Act of 1974 that a “major disaster” has occurred, and that distilled spirits, etc., were lost, rendered unmarketable, or condemned by a duly authorized official by reason of such disaster occurring after June 30, 1959.
 
 Subsec. (b). Pub. L. 95–423 redesignated par. (1) as (1)(A), substituted provisions disallowing a claim unless filed within 6 months after such distilled spirits, etc., were lost, rendered unmarketable or condemned, for provisions disallowing a claim unless filed within 6 months after the President determined that such disaster occurred, and added par. (1)(B); in par. (2) substituted provisions limiting claims to no less than $250, except as provided in par. (3)(A), for provisions demanding proof that claimant was not indemnified by any valid claim of insurance and that he is entitled to payment under this section; and added pars. (3) and (4).
 
-1976—Subsecs. (a) to (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a) to (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1974—Subsec. (a). Pub. L. 93–288 substituted “Disaster Relief Act of 1974” for “Disaster Relief Act of 1970”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–288 substituted “Disaster Relief Act of 1974” for “Disaster Relief Act of 1970”.
 
-1970—Subsec. (a). Pub. L. 91–606 substituted “Disaster Relief Act of 1970” for “Act of September 30, 1950 (42 U.S.C. 1855)”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–606 substituted “Disaster Relief Act of 1970” for “Act of September 30, 1950 (42 U.S.C. 1855)”.
 
 #### Effective Date of 1979 Amendment
 

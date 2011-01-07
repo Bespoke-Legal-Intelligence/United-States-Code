@@ -16,7 +16,7 @@ Prior sections 300aa–7 to 300aa–9, act July 1, 1944, §§2108–2110, respec
 
 #### Amendments
 
-2004—Pub. L. 108–276 substituted provisions authorizing appropriations for fiscal years 2004 and 2005 for provisions authorizing appropriations for fiscal years 1991 through 1995 in subsecs. (a) and (b).
+<b>2004</b>—Pub. L. 108–276 substituted provisions authorizing appropriations for fiscal years 2004 and 2005 for provisions authorizing appropriations for fiscal years 1991 through 1995 in subsecs. (a) and (b).
 
-1990—Pub. L. 101–502 substituted provisions authorizing appropriations for fiscal years 1991 through 1995 for provisions authorizing appropriations for fiscal years 1987 through 1991 in subsecs. (a) and (b).
+<b>1990</b>—Pub. L. 101–502 substituted provisions authorizing appropriations for fiscal years 1991 through 1995 for provisions authorizing appropriations for fiscal years 1987 through 1991 in subsecs. (a) and (b).
 

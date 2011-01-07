@@ -62,5 +62,5 @@ If the estimate of the Federal investment with respect to construction and opera
 
 #### Amendments
 
-1978—Subsec. (e)(3). Pub. L. 95–238 inserted provisions relating to goals and requirements of the demonstration program.
+<b>1978</b>—Subsec. (e)(3). Pub. L. 95–238 inserted provisions relating to goals and requirements of the demonstration program.
 

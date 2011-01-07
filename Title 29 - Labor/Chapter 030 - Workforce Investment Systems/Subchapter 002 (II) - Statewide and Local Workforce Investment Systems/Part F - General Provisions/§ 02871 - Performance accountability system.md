@@ -30,7 +30,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 &emsp;&emsp;&emsp;&emsp;(III) earnings received in unsubsidized employment 6 months after entry into the employment; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) attainment of a recognized credential relating to achievement of educational skills, which may include attainment of a secondary school diploma or its recognized equivalent, or occupational skills, by participants who enter unsubsidized employment, or by participants who are eligible youth age 19 through 21 who enter postsecondary education, advanced training, or unsubsidized employment.
+&emsp;&emsp;&emsp;&emsp;(IV) attainment of a recognized credential relating to achievement of educational skills, which may include attainment of a secondary school diploma or its recognized equivalent, or occupational skills, by participants who enterunsubsidized employment, or by participants who are eligible youth age 19 through 21 who enter postsecondary education, advanced training, or unsubsidized employment.
 
 #### (ii) Core indicators for eligible youth
 
@@ -90,7 +90,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 #### (B) Levels of performance for additional indicators
 
-&emsp;&emsp;The State may identify, in the State plan, State levels of performance for each of the additional indicators described in paragraph (2)(C). Such levels shall be considered to be State adjusted levels of performance for purposes of this chapter.
+&emsp;&emsp;The State may identify, in the State plan, State levels of performance for each of the additional indicators described in paragraph\(2)(C). Such levels shall be considered to be State adjusted levels of performance for purposes of this chapter.
 
 #### (c) Local performance measures
 
@@ -224,7 +224,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 #### (1) Responsibilities
 
-&emsp;In order to ensure nationwide comparability of performance data, the Secretary, after collaboration with representatives of appropriate Federal agencies, and representatives of States and political subdivisions, business and industry, employees, eligible providers of employment and training activities, educators, and participants, with expertise regarding workforce investment policies and workforce investment activities, shall issue—
+&emsp;In order to ensure nationwide comparability of performance data, the Secretary, after collaboration with representatives of appropriate Federal agencies, and representatives of States and political subdivisions, business and industry, employees, eligible providers of employment and training activities, educators,and participants, with expertise regarding workforce investment policies and workforce investment activities, shall issue—
 
 &emsp;&emsp;(A) definitions for information required to be reported under subsection (d)(2) of this section;
 

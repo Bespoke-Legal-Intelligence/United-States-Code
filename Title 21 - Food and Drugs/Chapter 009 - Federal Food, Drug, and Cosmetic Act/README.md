@@ -66,6 +66,13 @@
 | [350d.](Subchapter%20004%20%28IV%29%20-%20Food/%C2%A7%2000350d%20-%20Registration%20of%20food%20facilities.md) | Registration of food facilities. |
 | [350e.](Subchapter%20004%20%28IV%29%20-%20Food/%C2%A7%2000350e%20-%20Sanitary%20transportation%20practices.md) | Sanitary transportation practices. |
 | [350f.](Subchapter%20004%20%28IV%29%20-%20Food/%C2%A7%2000350f%20-%20Reportable%20food%20registry.md) | Reportable food registry. |
+| [350g.](Subchapter%20004%20%28IV%29%20-%20Food/%C2%A7%2000350g%20-%20Hazard%20analysis%20and%20risk-based%20preventive%20controls.md) | Hazard analysis and risk-based preventive controls. |
+| [350h.](Subchapter%20004%20%28IV%29%20-%20Food/%C2%A7%2000350h%20-%20Standards%20for%20produce%20safety.md) | Standards for produce safety. |
+| [350i.](Subchapter%20004%20%28IV%29%20-%20Food/%C2%A7%2000350i%20-%20Protection%20against%20intentional%20adulteration.md) | Protection against intentional adulteration. |
+| [350j.](Subchapter%20004%20%28IV%29%20-%20Food/%C2%A7%2000350j%20-%20Targeting%20of%20inspection%20resources%20for%20domestic%20facilities%2C%20foreign%20facilities%2C%20and%20ports%20of%20entry%3B%20annual%20report.md) | Targeting of inspection resources for domestic facilities, foreign facilities, and ports of entry; annual report. |
+| [350k.](Subchapter%20004%20%28IV%29%20-%20Food/%C2%A7%2000350k%20-%20Laboratory%20accreditation%20for%20analyses%20of%20foods.md) | Laboratory accreditation for analyses of foods. |
+| 350<i>l</i>. | Mandatory recall authority. |
+| 350<i>l</i>–1. | Annual report to Congress. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -225,7 +232,7 @@
 
 #### Part C—Fees
 
-I74subpart 1—freedom of information fees
+#### subpart 1—freedom of information fees
 
 |  |  |
 | :--- | ---: |
@@ -270,6 +277,14 @@ I74subpart 1—freedom of information fees
 | :--- | ---: |
 | 379j–21. | Authority to assess and use generic new animal drug fees. |
 | 379j–22. | Reauthorization; reporting requirements. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 6—fees related to food
+
+|  |  |
+| :--- | ---: |
+| 379j–31. | Authority to collect and use fees. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -334,6 +349,10 @@ I74subpart 1—freedom of information fees
 | [382\.](Subchapter%20008%20%28VIII%29%20-%20Imports%20and%20Exports/%C2%A7%2000382%20-%20Exports%20of%20certain%20unapproved%20products.md) | Exports of certain unapproved products. |
 | [383\.](Subchapter%20008%20%28VIII%29%20-%20Imports%20and%20Exports/%C2%A7%2000383%20-%20Office%20of%20International%20Relations.md) | Office of International Relations. |
 | [384\.](Subchapter%20008%20%28VIII%29%20-%20Imports%20and%20Exports/%C2%A7%2000384%20-%20Importation%20of%20prescription%20drugs.md) | Importation of prescription drugs. |
+| [384a.](Subchapter%20008%20%28VIII%29%20-%20Imports%20and%20Exports/%C2%A7%2000384a%20-%20Foreign%20supplier%20verification%20program.md) | Foreign supplier verification program. |
+| [384b.](Subchapter%20008%20%28VIII%29%20-%20Imports%20and%20Exports/%C2%A7%2000384b%20-%20Voluntary%20qualified%20importer%20program.md) | Voluntary qualified importer program. |
+| [384c.](Subchapter%20008%20%28VIII%29%20-%20Imports%20and%20Exports/%C2%A7%2000384c%20-%20Inspection%20of%20foreign%20food%20facilities.md) | Inspection of foreign food facilities. |
+| [384d.](Subchapter%20008%20%28VIII%29%20-%20Imports%20and%20Exports/%C2%A7%2000384d%20-%20Accreditation%20of%20third-party%20auditors.md) | Accreditation of third-party auditors. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -381,8 +400,11 @@ I74subpart 1—freedom of information fees
 | [396\.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000396%20-%20Practice%20of%20medicine.md) | Practice of medicine. |
 | [397\.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000397%20-%20Contracts%20for%20expert%20review.md) | Contracts for expert review. |
 | [398\.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000398%20-%20Notices%20to%20States%20regarding%20imported%20food.md) | Notices to States regarding imported food. |
-| [399\.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000399%20-%20Grants%20to%20States%20for%20inspections.md) | Grants to States for inspections. |
+| [399\.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000399%20-%20Grants%20to%20enhance%20food%20safety.md) | Grants to enhance food safety. |
 | [399a.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000399a%20-%20Office%20of%20the%20Chief%20Scientist.md) | Office of the Chief Scientist. |
+| [399b.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000399b%20-%20Office%20of%20Women%27s%20Health.md) | Office of Women's Health. |
+| [399c.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000399c%20-%20Improving%20the%20training%20of%20State%2C%20local%2C%20territorial%2C%20and%20tribal%20food%20safety%20officials.md) | Improving the training of State, local, territorial, and tribal food safety officials. |
+| [399d.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000399d%20-%20Employee%20protections.md) | Employee protections. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

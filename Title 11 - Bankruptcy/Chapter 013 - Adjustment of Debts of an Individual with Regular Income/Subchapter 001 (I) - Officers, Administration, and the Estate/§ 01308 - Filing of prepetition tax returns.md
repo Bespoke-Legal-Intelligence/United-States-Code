@@ -12,19 +12,27 @@
 
 &emsp;&emsp;(ii) the date on which the return is due under the last automatic extension of time for filing that return to which the debtor is entitled, and for which request is timely made, in accordance with applicable nonbankruptcy law.
 
-(2) After notice and a hearing, and order entered before the tolling of any applicable filing period determined under this subsection, if the debtor demonstrates by a preponderance of the evidence that the failure to file a return as required under this subsection is attributable to circumstances beyond the control of the debtor, the court may extend the filing period established by the trustee under this subsection for—
+(2) After notice and a hearing, and order entered before the tolling of any applicable filing period determined under paragraph (1), if the debtor demonstrates by a preponderance of the evidence that the failure to file a return as required under paragraph (1) is attributable to circumstances beyond the control of the debtor, the court may extend the filing period established by the trustee under paragraph (1) for—
 
-&emsp;(A) a period of not more than 30 days for returns described in paragraph (1); and
+&emsp;(A) a period of not more than 30 days for returns described in paragraph (1)(A); and
 
-&emsp;(B) a period not to extend after the applicable extended due date for a return described in paragraph (2).<sup>1</sup>
+&emsp;(B) a period not to extend after the applicable extended due date for a return described in paragraph (1)(B).
 
 (c) For purposes of this section, the term “return” includes a return prepared pursuant to subsection (a) or (b) of section 6020 of the Internal Revenue Code of 1986, or a similar State or local law, or a written stipulation to a judgment or a final order entered by a nonbankruptcy tribunal.
 
-(Added Pub. L. 109–8, title VII, §716(b)(1), Apr. 20, 2005, 119 Stat. 129.)
+(Added Pub. L. 109–8, title VII, §716(b)(1), Apr. 20, 2005, 119 Stat. 129; amended Pub. L. 111–327, §2(a)(42), Dec. 22, 2010, 124 Stat. 3562.)
 
 #### References in Text
 
 Section 6020 of the Internal Revenue Code of 1986, referred to in subsec. (c), is classified to section 6020 of Title 26, Internal Revenue Code.
+
+#### Amendments
+
+2010—Subsec. (b)(2). Pub. L. 111–327, §2(a)(42)(C), substituted “paragraph (1)” for “this subsection” wherever appearing in introductory provisions.
+
+Subsec. (b)(2)(A). Pub. L. 111–327, §2(a)(42)(A), substituted “paragraph (1)(A)” for “paragraph (1)”.
+
+Subsec. (b)(2)(B). Pub. L. 111–327, §2(a)(42)(B), substituted “paragraph (1)(B)” for “paragraph (2)”.
 
 #### Effective Date
 

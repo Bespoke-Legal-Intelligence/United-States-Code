@@ -4,6 +4,14 @@ The Mount Olympus National Monument established pursuant to proclamation of the 
 
 (June 29, 1938, ch. 812, §1, 52 Stat. 1241.)
 
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–323, §1, Dec. 22, 2010, 124 Stat. 3532, provided that: “This Act \[enacting provisions set out as a note under this section\] may be cited as the ‘Hoh Indian Tribe Safe Homelands Act’.”
+
+#### Hoh Indian Tribe Safe Homelands
+
+Pub. L. 111–323, §§2, 3(a)(1), Dec. 22, 2010, 124 Stat. 3532, provided that, effective Dec. 22, 2010, a parcel of Federal land of approximately 37 acres, administered by the National Park Service, and depicted on the Hoh Indian Tribe Safe Homelands Act Land Acquisition Map, is considered held in trust by the United States for the benefit of the Tribe and shall be excluded from the boundaries of Olympic National Park.
+
 #### Land Exchange With City of Tacoma, Washington
 
 Pub. L. 102–436, title I, Oct. 23, 1992, 106 Stat. 2217, provided that if the city of Tacoma offered to convey to the United States approximately 45 acres of land located in the Soleduck and Quileute areas within the boundary of Olympic National Park, in exchange for approximately 30 acres of land adjacent to Lake Cushman as depicted on a map entitled “Proposed Boundary Revision Olympic National Park” and dated July 29, 1991, then the Secretary of the Interior was to carry out such exchange, provided Tacoma could deliver clear and unencumbered title, and subject to the laws and regulations applicable to exchanges of land in the National Park System, adjustment of the Olympic National Park boundaries, and additional provisions excluding such exchange from affecting the operating level of Cushman Reservoir, rights of possible intervenors in the Cushman Project, or fishing rights of the Skokomish Tribe or any other Indian tribe.

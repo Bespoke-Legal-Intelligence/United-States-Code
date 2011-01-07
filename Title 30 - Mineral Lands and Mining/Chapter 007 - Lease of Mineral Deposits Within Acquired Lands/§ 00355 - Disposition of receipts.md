@@ -14,13 +14,13 @@ Section 1721 of this title, referred to in subsec. (b), was in the original “s
 
 #### Amendments
 
-2001—Subsec. (b). Pub. L. 107–76 inserted after first sentence “The preceding sentence shall also apply to any payment to a State derived from a lease for mineral resources issued by the Secretary of the Interior under section 520 of title 16.”
+<b>2001</b>—Subsec. (b). Pub. L. 107–76 inserted after first sentence “The preceding sentence shall also apply to any payment to a State derived from a lease for mineral resources issued by the Secretary of the Interior under section 520 of title 16.”
 
-1993—Subsec. (a). Pub. L. 103–66 substituted “Subject to the provisions of section 35(b) of the Mineral Leasing Act (30 U.S.C. 191(b)), all receipts” for “All receipts” in first sentence.
+<b>1993</b>—Subsec. (a). Pub. L. 103–66 substituted “Subject to the provisions of section 35(b) of the Mineral Leasing Act (30 U.S.C. 191(b)), all receipts” for “All receipts” in first sentence.
 
-1992—Pub. L. 102–486 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1992</b>—Pub. L. 102–486 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1981—Pub. L. 97–94 inserted provision that all receipts derived from leases on lands acquired for military or naval purposes, except the naval petroleum reserves and national shale oil reserves, be paid into the Treasury of the United States and disposed of in the same manner as provided under section 35 of the Act of February 25, 1920, in the case of receipts from sales, bonuses, royalties, and rentals of the public lands under that Act.
+<b>1981</b>—Pub. L. 97–94 inserted provision that all receipts derived from leases on lands acquired for military or naval purposes, except the naval petroleum reserves and national shale oil reserves, be paid into the Treasury of the United States and disposed of in the same manner as provided under section 35 of the Act of February 25, 1920, in the case of receipts from sales, bonuses, royalties, and rentals of the public lands under that Act.
 
 #### Effective Date of 1981 Amendment
 

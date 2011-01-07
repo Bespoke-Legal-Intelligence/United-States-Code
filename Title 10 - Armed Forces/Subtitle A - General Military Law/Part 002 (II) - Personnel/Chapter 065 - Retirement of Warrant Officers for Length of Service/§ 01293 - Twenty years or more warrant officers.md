@@ -26,15 +26,15 @@ Historical and Revision Notes
 
 May 29, 1954, ch. 249, §§2(d) (as applicable to §14(a)), 14(a), 68 Stat. 157, 162.
 
-The words, “The Secretary concerned may retire” are substituted for the words “may and in the discretion of the Secretary, be retired”. 10:600<i>l</i>(a) (last 14 words) and 34:430(a) (last 14 words) are omitted as covered by section 1315 of this title.
+The words, “The Secretary concerned may \* \* \* retire” are substituted for the words “may \* \* \* and in the discretion of the Secretary, be retired”. 10:600<i>l</i>(a) (last 14 words) and 34:430(a) (last 14 words) are omitted as covered by section 1315 of this title.
 
 #### References in Text
 
-Section 511 of the Career Compensation Act of 1949, referred to in text, is section 511 of act Oct. 12, 1949, ch. 681, which was formerly set out as a note under section 580 of this title.
+Section 511 of the Career Compensation Act of 1949, referred to in text, is section 511 of act Oct. 12, 1949, ch.681, which was formerly set out as a note under section 580 of this title.
 
 #### Amendments
 
-1962—Pub. L. 87–649 substituted “section 511 of the Career Compensation Act of 1949, as amended (70 Stat. 114)” for “section 311 of title 37.”
+<b>1962</b>—Pub. L. 87–649 substituted “section 511 of the Career Compensation Act of 1949, as amended (70 Stat. 114)” for “section 311 of title 37.”
 
 #### Effective Date of 1962 Amendment
 

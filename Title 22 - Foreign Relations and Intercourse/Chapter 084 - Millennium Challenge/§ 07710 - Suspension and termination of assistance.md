@@ -12,7 +12,7 @@ After consultation with the Board, the Chief Executive Officer may suspend or te
 
 #### (b) Reinstatement
 
-The Chief Executive Officer may reinstate assistance for a country or entity under section 7704 of this title only if the Chief Executive Officer determines that the country or entity has demonstrated a commitment to correcting each condition for which assistance was suspended or terminated under subsection (a).
+The Chief Executive Officer may reinstate assistance for a country or entity under section7704 of this title only if the Chief Executive Officer determines that the country or entity has demonstrated a commitment to correcting each condition for which assistance was suspended or terminated under subsection (a).
 
 #### (c) Congressional notification
 

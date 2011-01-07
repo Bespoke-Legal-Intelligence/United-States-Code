@@ -1,6 +1,6 @@
 ### §2465. Prohibition on contracts for performance of firefighting or security-guard functions
 
-(a) Except as provided in subsection (b), funds appropriated to the Department of Defense may not be obligated or expended for the purpose ofentering into a contract for the performance of firefighting or security-guard functions at any military installation or facility.
+(a) Except as provided in subsection (b), funds appropriated to the Department of Defense may not be obligated or expended for the purpose of entering into a contract for the performance of firefighting or security-guard functions at any military installation or facility.
 
 (b) The prohibition in subsection (a) does not apply to the following contracts:
 
@@ -20,13 +20,13 @@
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–136 substituted “apply to the following contracts:” for “apply—” in introductory provisions, “A” for “to a” at beginning of pars. (1) to (3), period for semicolon at end of par. (1), and period for “; or” at end of par. (2), and added par. (4).
+<b>2003</b>—Subsec. (b). Pub. L. 108–136 substituted “apply to the following contracts:” for “apply—” in introductory provisions, “A” for “to a” at beginning of pars. (1) to (3), period for semicolon at end of par. (1), and period for “; or” at end of par. (2), and added par. (4).
 
-1996—Subsec. (b)(3). Pub. L. 104–106 substituted “under contract on September 24, 1983” for “under contract or September 24, 1983”.
+<b>1996</b>—Subsec. (b)(3). Pub. L. 104–106 substituted “under contract on September 24, 1983” for “under contract or September 24, 1983”.
 
-1988—Pub. L. 100–370 renumbered section 2693 of this title as this section.
+<b>1988</b>—Pub. L. 100–370 renumbered section 2693 of this title as this section.
 
-1987—Pub. L. 100–180 inserted “or security-guard” before “functions” in section catchline and subsec. (a), and substituted “a function” for “the function” in subsec. (b)(1).
+<b>1987</b>—Pub. L. 100–180 inserted “or security-guard” before “functions” in section catchline and subsec. (a), and substituted “a function” for “the function” in subsec. (b)(1).
 
 #### Temporary Authority To Contract With Local and State Governments for Performance of Security Functions at United States Military Installations
 

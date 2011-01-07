@@ -48,7 +48,7 @@
 
 (f)(1) At any time after the Secretary concerned notifies members of the Ready Reserve that the members are to be called or ordered to active duty for a period of more than 30 days, the administering Secretaries may provide to each such member any medical and dental screening and care that is necessary to ensure that the member meets the applicable medical and dental standards for deployment.
 
-(2) The notification to members of the Ready Reserve described in paragraph (1) shall include notice that the members are eligible for screening and care under this section.
+(2) The notification to members of the Ready Reserve described in paragraph (1) shall includenotice that the members are eligible for screening and care under this section.
 
 (3) A member provided medical or dental screening or care under paragraph (1) may not be charged for the screening or care.
 
@@ -64,11 +64,11 @@
 
 #### Amendments
 
-2008—Subsec. (d)(1). Pub. L. 110–417, §735(a)(1), substituted “The Secretary concerned shall provide to members of the Selected Reserve” for “The Secretary of the Army shall provide to members of the Selected Reserve of the Army”.
+<b>2008</b>—Subsec. (d)(1). Pub. L. 110–417, §735(a)(1), substituted “The Secretary concerned shall provide to members of the Selected Reserve” for “The Secretary of the Army shall provide to members of the Selected Reserve of the Army”.
 
 Subsecs. (g), (h). Pub. L. 110–417, §735(a)(2), (3), added subsecs. (g) and (h).
 
-2003—Subsec. (f). Pub. L. 108–136 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
+<b>2003</b>—Subsec. (f). Pub. L. 108–136 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
 
 “(1) At any time after the Secretary concerned notifies members of the Ready Reserve that the members are to be called or ordered to active duty, the administering Secretaries may provide to each such member any medical and dental screening and care that is necessary to ensure that the member meets the applicable medical and dental standards for deployment.
 
@@ -80,9 +80,9 @@ Subsecs. (g), (h). Pub. L. 110–417, §735(a)(2), (3), added subsecs. (g) and (
 
 Pub. L. 108–106 added subsec. (f).
 
-2001—Subsec. (a)(3). Pub. L. 107–107 struck out “, if the site is outside reasonable commuting distance from the member's residence” before period at end.
+<b>2001</b>—Subsec. (a)(3). Pub. L. 107–107 struck out “, if the site is outside reasonable commuting distance from the member's residence” before period at end.
 
-1999—Subsec. (a)(1)(C). Pub. L. 106–65, §578(i)(1)(A), added subpar. (C).
+<b>1999</b>—Subsec. (a)(1)(C). Pub. L. 106–65, §578(i)(1)(A), added subpar. (C).
 
 Subsec. (a)(2)(C). Pub. L. 106–65, §578(i)(1)(A), added subpar. (C).
 
@@ -90,17 +90,17 @@ Subsec. (a)(4). Pub. L. 106–65, §578(i)(1)(B), added par. (4).
 
 Subsec. (e). Pub. L. 106–65, §705(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “A member of a uniformed service described in paragraph (1)(A) or (2)(A) of subsection (a) whose orders are modified or extended, while the member is being treated for (or recovering from) the injury, illness, or disease incurred or aggravated in the line of duty, so as to result in active duty for a period of more than 30 days shall be entitled, while the member remains on active duty, to medical and dental care on the same basis and to the same extent as members covered by section 1074(a) of this title.”
 
-1997—Subsec. (a)(3). Pub. L. 105–85, §513(a)(1), inserted “while remaining overnight immediately before the commencement of inactive-duty training, or” after “in the line of duty”.
+<b>1997</b>—Subsec. (a)(3). Pub. L. 105–85, §513(a)(1), inserted “while remaining overnight immediately before the commencement of inactive-duty training, or” after “in the line of duty”.
 
 Subsec. (e). Pub. L. 105–85, §513(a)(2), added subsec. (e).
 
-1996—Subsec. (a)(3). Pub. L. 104–106, §702(a), added par. (3).
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–106, §702(a), added par. (3).
 
 Subsec. (c). Pub. L. 104–106, §704(a)(1), substituted “subsection (b)” for “this section”.
 
 Subsec. (d). Pub. L. 104–106, §704(a)(2), added subsec. (d).
 
-1986—Pub. L. 99–661 amended section generally substituting “active duty for a period of more than 30 days” for “active duty; injuries, diseases and illnesses incident to duty” in section catchline and new text for prior text which read as follows:
+<b>1986</b>—Pub. L. 99–661 amended section generally substituting “active duty for a period of more than 30 days” for “active duty; injuries, diseases and illnesses incident to duty” in section catchline and new text for prior text which read as follows:
 
 “(a) Under joint regulations prescribed by the administering Secretaries, the following persons are entitled to the benefits described in subsection (b):
 
@@ -118,9 +118,9 @@ Subsec. (d). Pub. L. 104–106, §704(a)(2), added subsec. (d).
 
 &emsp;“(2) subsistence during hospitalization.”
 
-1985—Subsec. (a). Pub. L. 99–145 substituted reference to the administering Secretaries, for references to Secretaries of Defense, Transportation, and Health and Human Services.
+<b>1985</b>—Subsec. (a). Pub. L. 99–145 substituted reference to the administering Secretaries, for references to Secretaries of Defense, Transportation, and Health and Human Services.
 
-1984—Pub. L. 98–525 substituted “Medical and dental care: members on duty other than active duty; injuries, diseases and illnesses incident to duty” for “Medical and dental care for members of the uniformed services for injuries incurred or aggravated while traveling to and from inactive duty training” in section catchline.
+<b>1984</b>—Pub. L. 98–525 substituted “Medical and dental care: members on duty other than active duty; injuries, diseases and illnesses incident to duty” for “Medical and dental care for members of the uniformed services for injuries incurred or aggravated while traveling to and from inactive duty training” in section catchline.
 
 Subsec. (a). Pub. L. 98–557, which directed the amendment of subsec. (a) by substituting “administering Secretaries” for “Secretary of Defense and the Secretary of Health and Human Services”, could not be executed in view of the prior amendment by Pub. L. 98–525.
 
@@ -134,7 +134,7 @@ Section 604(g) of Pub. L. 99–661 provided that: “The amendments made by this
 
 #### Effective Date of 1984 Amendment
 
-Section 631(c) of Pub. L. 98–525 provided that: “The amendments made by this section \[amending this section and section 6148 of this title\] shall apply only with respect to injuries incurred or aggravated and diseasesor illnesses contracted or aggravated after September 30, 1984.”
+Section 631(c) of Pub. L. 98–525 provided that: “The amendments made by this section \[amending this section and section 6148 of this title\] shall apply only with respect to injuries incurred or aggravated and diseases or illnesses contracted or aggravated after September 30, 1984.”
 
 #### Effective Date
 

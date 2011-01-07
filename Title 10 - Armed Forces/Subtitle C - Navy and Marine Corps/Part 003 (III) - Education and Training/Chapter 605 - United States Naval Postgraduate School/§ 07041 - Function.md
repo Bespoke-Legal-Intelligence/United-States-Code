@@ -28,5 +28,5 @@ The words “There is a” are substituted for the words “That the Secretary o
 
 #### Amendments
 
-2006—Pub. L. 109–163 amended text generally. Prior to amendment, text read as follows: “There is a United States Naval Postgraduate School for the advanced instruction and technical education of commissioned officers of the naval service in their practical and theoretical duties.”
+<b>2006</b>—Pub. L. 109–163 amended text generally. Prior to amendment, text read as follows: “There is a United States Naval Postgraduate School for the advanced instruction and technical education of commissioned officers of the naval service in their practical and theoretical duties.”
 

@@ -56,7 +56,7 @@ During the time in which a moratorium under this section is in effect, it is unl
 
 &emsp;(8) ship, transport, offer for sale, sell, purchase, import, or have custody, control, or possession of, any fish taken or retained in violation of this chapter; or
 
-&emsp;(9) interfere with, delay, or prevent, by any means, the apprehension or arrest of another person, knowing that such other person has committed any act prohibited by this section.
+&emsp;(9) interfere with, delay, or prevent, by any means, the apprehension or arrest of anotherperson, knowing that such other person has committed any act prohibited by this section.
 
 #### (f) Civil and criminal penalties
 
@@ -82,7 +82,7 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 
 #### Amendments
 
-2000—Subsecs. (f) to (h). Pub. L. 106—555 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery” wherever appearing.
+<b>2000</b>—Subsecs. (f) to (h). Pub. L. 106—555 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery” wherever appearing.
 
 #### Transfer of Functions
 

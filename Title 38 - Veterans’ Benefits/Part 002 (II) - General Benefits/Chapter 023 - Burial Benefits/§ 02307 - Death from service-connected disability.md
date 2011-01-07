@@ -6,17 +6,17 @@ In any case in which a veteran dies as the result of a service-connected disabil
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–183 substituted “and (b)(2)” for “and (b)” in last sentence.
+<b>2003</b>—Subsec. (b). Pub. L. 108–183 substituted “and (b)(2)” for “and (b)” in last sentence.
 
-2001—Pub. L. 107–103 substituted “$2,000” for ‘$1,500”.
+<b>2001</b>—Pub. L. 107–103 substituted “$2,000” for ‘$1,500”.
 
-1991—Pub. L. 102–83 renumbered section 907 of this title as this section and substituted “2302 and 2303(a)(1)” for “902 and 903(a)(1)”.
+<b>1991</b>—Pub. L. 102–83 renumbered section 907 of this title as this section and substituted “2302 and 2303(a)(1)” for “902 and 903(a)(1)”.
 
-1989—Pub. L. 101–237 substituted “Secretary” for “Administrator”.
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary” for “Administrator”.
 
-1988—Pub. L. 100–322 substituted “$1,500” for “$1,100”.
+<b>1988</b>—Pub. L. 100–322 substituted “$1,500” for “$1,100”.
 
-1978—Pub. L. 95–479 inserted “the greater of (1) $1,100, or (2)” after “not exceeding”.
+<b>1978</b>—Pub. L. 95–479 inserted “the greater of (1) $1,100, or (2)” after “not exceeding”.
 
 #### Effective Date of 2001 Amendment
 

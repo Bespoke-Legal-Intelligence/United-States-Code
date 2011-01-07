@@ -40,7 +40,7 @@ Section was not enacted as part of the Organic Act of Guam which comprises this 
 
 #### Amendments
 
-1980—Subsec. (c). Pub. L. 96–205 struck out provisions prohibiting allowance of interest on additional amounts of award.
+<b>1980</b>—Subsec. (c). Pub. L. 96–205 struck out provisions prohibiting allowance of interest on additional amounts of award.
 
 #### Treatment of Certain Awards by District Court of Guam
 

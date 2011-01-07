@@ -24,11 +24,11 @@ The provisions of this chapter shall not apply to any person solely by reason of
 
 #### Amendments
 
-2005—Subsec. (b). Pub. L. 109–58 inserted “and to the importation or exportation of natural gas in foreign commerce and to persons engaged in such importation or exportation,” after “such transportation or sale,”.
+<b>2005</b>—Subsec. (b). Pub. L. 109–58 inserted “and to the importation or exportation of natural gas in foreign commerce and to persons engaged in such importation or exportation,” after “such transportation or sale,”.
 
-1992—Subsec. (d). Pub. L. 102–486 added subsec. (d).
+<b>1992</b>—Subsec. (d). Pub. L. 102–486 added subsec. (d).
 
-1954—Subsec. (c). Act Mar. 27, 1954, added subsec. (c).
+<b>1954</b>—Subsec. (c). Act Mar. 27, 1954, added subsec. (c).
 
 #### Termination of Federal Power Commission; Transfer of Functions
 

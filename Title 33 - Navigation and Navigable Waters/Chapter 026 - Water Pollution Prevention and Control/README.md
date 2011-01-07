@@ -83,6 +83,9 @@
 | [1319\.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001319%20-%20Enforcement.md) | Enforcement. |
 | [1320\.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001320%20-%20International%20pollution%20abatement.md) | International pollution abatement. |
 | [1321\.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001321%20-%20Oil%20and%20hazardous%20substance%20liability.md) | Oil and hazardous substance liability. |
+| [1321a.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001321a%20-%20Prevention%20of%20small%20oil%20spills.md) | Prevention of small oil spills. |
+| [1321b.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001321b%20-%20Improved%20coordination%20with%20tribal%20governments.md) | Improved coordination with tribal governments. |
+| [1321c.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001321c%20-%20International%20efforts%20on%20enforcement.md) | International efforts on enforcement. |
 | [1322\.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001322%20-%20Marine%20sanitation%20devices.md) | Marine sanitation devices. |
 | [1323\.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001323%20-%20Federal%20facilities%20pollution%20control.md) | Federal facilities pollution control. |
 | [1324\.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001324%20-%20Clean%20lakes.md) | Clean lakes. |

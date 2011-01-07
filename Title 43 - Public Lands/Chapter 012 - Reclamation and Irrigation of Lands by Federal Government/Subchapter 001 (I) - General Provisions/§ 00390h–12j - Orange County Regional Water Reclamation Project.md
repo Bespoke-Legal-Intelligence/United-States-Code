@@ -16,7 +16,7 @@ The Secretary shall not provide funds for the operation or maintenance of a proj
 
 #### Amendments
 
-2009—Pub. L. 111–11, §9111(c)(1), struck out “Phase 1 of the” before “Orange County” in section catchline.
+<b>2009</b>—Pub. L. 111–11, §9111(c)(1), struck out “Phase 1 of the” before “Orange County” in section catchline.
 
 Subsec. (a). Pub. L. 111–11, §9111(c)(2), struck out “phase 1 of” before “the Orange County”.
 

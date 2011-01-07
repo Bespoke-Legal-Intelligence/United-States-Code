@@ -8,7 +8,7 @@ There is established within the Commission—
 
 #### (b) Deputy General Manager; duties; appointment; removal
 
-&emsp;a Deputy General Manager, who shall act in the stead of the General Manager during his absence when so directed by the General Manager, and who shall perform such other administrative and executive functions as the General Manager shall direct. The Deputy General Manager shall be appointed by the GeneralManager with the approval of the Commission, shall serve at the pleasure of the General Manager, and shall be removable by the General Manager.
+&emsp;a Deputy General Manager, who shall act in the stead of the General Manager during his absence when so directed by the General Manager, and who shall perform such other administrative and executive functions as the General Manager shall direct. The Deputy General Manager shall be appointed by the General Manager with the approval of the Commission, shall serve at the pleasure of the General Manager, and shall be removable by the General Manager.
 
 #### (c) Assistant General Managers; duties; appointment; removal
 
@@ -22,13 +22,13 @@ Provisions similar to this section were contained in section 1802(a)(4)(A) of th
 
 #### Amendments
 
-1964—Subsec. (a). Pub. L. 88–426, §306(f)(1), struck out provisions which prescribed the compensation of the General Manager. Such compensation is now prescribed by section 5315 of Title 5, Government Organization and Employees.
+<b>1964</b>—Subsec. (a). Pub. L. 88–426, §306(f)(1), struck out provisions which prescribed the compensation of the General Manager. Such compensation is now prescribed by section 5315 of Title 5, Government Organization and Employees.
 
 Subsec. (b). Pub. L. 88–426, §306(f)(2), struck out provisions which prescribed the compensation of the Deputy General Manager. Such compensation is now prescribed by section 5316 of Title 5, Government Organization and Employees.
 
 Subsec. (c). Pub. L. 88–426, §306(f)(3), struck out provisions which prescribed the compensation of the Assistant General Managers. Such compensation is now prescribed by section 5316 of Title 5, Government Organization and Employees.
 
-1957—Subsec. (a). Pub. L. 85–287 designated existing provisions as subsec. (a), designated the General Manager as the chief executive officer of the Commission, and increased his compensation from $20,000 to $22,000 per annum.
+<b>1957</b>—Subsec. (a). Pub. L. 85–287 designated existing provisions as subsec. (a), designated the General Manager as the chief executive officer of the Commission, and increased his compensation from $20,000 to $22,000 per annum.
 
 Subsecs. (b), (c). Pub. L. 85–287 added subsecs. (b) and (c).
 

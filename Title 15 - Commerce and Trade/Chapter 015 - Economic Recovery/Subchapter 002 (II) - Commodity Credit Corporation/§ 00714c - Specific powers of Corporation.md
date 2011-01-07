@@ -28,13 +28,13 @@ In the Corporation's purchasing and selling operations with respect to agricultu
 
 #### Amendments
 
-2004—Pub. L. 108–357 inserted “(other than tobacco)” after “agricultural commodities” wherever appearing.
+<b>2004</b>—Pub. L. 108–357 inserted “(other than tobacco)” after “agricultural commodities” wherever appearing.
 
-2002—Pub. L. 107–171 inserted “(including, at the option of the Corporation, the use of private sector entities)” before period at end of last sentence.
+<b>2002</b>—Pub. L. 107–171 inserted “(including, at the option of the Corporation, the use of private sector entities)” before period at end of last sentence.
 
-1996—Subsecs. (g), (h). Pub. L. 104–127 added subsec. (g) and redesignated former subsec. (g) as (h).
+<b>1996</b>—Subsecs. (g), (h). Pub. L. 104–127 added subsec. (g) and redesignated former subsec. (g) as (h).
 
-1984—Subsec. (f). Pub. L. 98–623 inserted “(including fish and fish products, without regard to whether such fish are harvested in aquacultural operations)”.
+<b>1984</b>—Subsec. (f). Pub. L. 98–623 inserted “(including fish and fish products, without regard to whether such fish are harvested in aquacultural operations)”.
 
 #### Effective Date of 2004 Amendment
 

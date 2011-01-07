@@ -6,7 +6,7 @@ Except as otherwise provided in this section, title 5 shall not apply to the Ins
 
 #### (b) Appointment and compensation
 
-(1) The President of the Institute, with the approval of the Board, shall have the authority to appoint, fix the compensation of (including health and retirement benefits), and prescribe the duties of, such officers and employees as thePresident of the Institute deems necessary for the efficient administration of the Institute.
+(1) The President of the Institute, with the approval of the Board, shall have the authority to appoint, fix the compensation of (including health and retirement benefits), and prescribe the duties of, such officers and employees as the President of the Institute deems necessary for the efficient administration of the Institute.
 
 (2) The President of the Institute shall fix the basic compensation for officers and employees of the Institute at rates comparable to the rates in effect under the General Schedule for individuals with comparable qualifications and positions, to whom chapter 51 of title 5 applies. If the Board determines that such action is necessary for purposes of recruitment or retention of officers or employees necessary to the functions of the Institute, the Board is authorized, by formal action, to establish a rate of, or a range for, basic compensation that is comparable to the rate of compensation paid to officers or employees having similar duties and responsibilities in other institutions of higher education.
 
@@ -34,7 +34,7 @@ Except as otherwise provided in this section, title 5 shall not apply to the Ins
 
 #### (c) Appeal to Board
 
-Any officer or employee of the Institute may appeal to the Board any determination by the President of the Institute to not re-employ or to discharge such officer or employee. Upon appeal, the Board may, in writing, overturn the determination of the President of the Institute with respect to the employment of such officer or employee.
+Any officer or employee of the Institute may appeal to the Board any determination by thePresident of the Institute to not re-employ or to discharge such officer or employee. Upon appeal, the Board may, in writing, overturn the determination of the President of the Institute with respect to the employment of such officer or employee.
 
 #### (d) No reduction in classification or compensation
 
@@ -70,7 +70,7 @@ Individuals who elect to remain civil service employees shall be transferred in 
 
 (1) On June 30, 1989, any position at the Institute which is occupied by an individual in the civil service shall terminate. During such period, such individual may make an irrevocable election to be covered under the provisions of this section, except that any such individual who is subject to subchapter III of chapter 83 of title 5 may elect to continue to be subject to such subchapter, and any such individual who is subject to chapter 84 of such title may elect to continue to be subject to such chapter.
 
-(2) Any individual who makes an election under paragraph (1) to continue to be subject to subchapter III of chapter 83 of title 5 or chapter 84 of such title shall, so long as continually employed by the Institute without a break in service subject to such subchapter or such chapter 84, as the case may be, continue to be treated as an employee subject to such subchapter or such chapter 84, as the case may be. Employment by the Institute without a break of continuity in service shall be considered to be employment by the United States Government for the purpose ofsuch subchapter or such chapter 84, as the case may be. The Institute shall be responsible for making the contributions required to be made by an employing agency under such subchapter or such chapter 84, as the case may be.
+(2) Any individual who makes an election under paragraph (1) to continue to be subject to subchapter III of chapter 83 of title 5 or chapter 84 of such title shall, so long as continually employed by the Institute without a break in service subject to such subchapter or such chapter 84, as the case may be, continue to be treated as an employee subject to such subchapter or such chapter 84, as the case may be. Employment by the Institute without a break of continuity in service shall be considered to be employment by the United States Government for the purpose of such subchapter or such chapter 84, as the case may be. The Institute shall be responsible for making the contributions required to be made by an employing agency under such subchapter or such chapter 84, as the case may be.
 
 #### (h) Collective bargaining
 
@@ -88,15 +88,15 @@ The General Schedule, referred to in subsec. (b)(2), is set out under section 53
 
 #### Amendments
 
-1994—Subsec. (f). Pub. L. 103–382 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “This section shall apply to any individual appointed after October 17, 1986, for employment in the Institute. Except as provided in subsections (d) and (g) of this section, the enactment of this chapter shall not affect—
+<b>1994</b>—Subsec. (f). Pub. L. 103–382 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “This section shall apply to any individual appointed after October 17, 1986, for employment in the Institute. Except as provided in subsections (d) and (g) of this section, the enactment of this chapter shall not affect—
 
 &emsp;“(1) the continued employment of any individual employed immediately before October 17, 1986, or
 
 &emsp;“(2) such individual's right to receive the compensation attached to such position.”
 
-1992—Subsec. (b)(2). Pub. L. 102–325 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The President of the Institute shall fix the basic compensation for officers and employees of the Institute at rates comparable to the rates in effect under the General Schedule for individuals with comparable qualifications, and holding comparable positions, to whom chapter 51 of title 5 applies.”
+<b>1992</b>—Subsec. (b)(2). Pub. L. 102–325 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The President of the Institute shall fix the basic compensation for officers and employees of the Institute at rates comparable to the rates in effect under the General Schedule for individuals with comparable qualifications, and holding comparable positions, to whom chapter 51 of title 5 applies.”
 
-1988—Subsec. (g)(1). Pub. L. 100–297 substituted “On June 30, 1989” for “At the end of the 2-year period beginning on the date referred to in section 4421(f) of this title”.
+<b>1988</b>—Subsec. (g)(1). Pub. L. 100–297 substituted “On June 30, 1989” for “At the end of the 2-year period beginning on the date referred to in section 4421(f) of this title”.
 
 #### Effective Date of 1992 Amendment
 

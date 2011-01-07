@@ -6,7 +6,7 @@ Any and all gross receipts derived from, or which relate to, the property convey
 
 #### (b) Administration of gross receipts
 
-All gross receipts (including but not limited to bonuses, rents, and royalties) hereafter derived by the United States from any contract, permit or lease referred to in section 459c(a) of this title, or otherwise, shall be administered in accordance with the laws and regulations applicable to receipts from property held in trust by the United States for Indian tribes.
+All gross receipts (including but not limited to bonuses, rents, and royalties) hereafter derived by the United States from any contract, permitor lease referred to in section 459c(a) of this title, or otherwise, shall be administered in accordance with the laws and regulations applicable to receipts from property held in trust by the United States for Indian tribes.
 
 (Pub. L. 94–114, §5, Oct. 17, 1975, 89 Stat. 579.)
 

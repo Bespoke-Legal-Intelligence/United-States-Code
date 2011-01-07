@@ -18,7 +18,7 @@ All invoices of merchandise to be imported into the United States and any electr
 
 &emsp;(7) The kind of currency, whether gold, silver, or paper;
 
-&emsp;(8) All charges upon the merchandise, itemized by name and amount when known to the seller or shipper; or all charges by name (including commissions, insurance, freight, cases,containers, coverings, and cost of packing) included in the invoice prices when the amounts for such charges are unknown to the seller or shipper;
+&emsp;(8) All charges upon the merchandise, itemized by name and amount when known to the seller or shipper; or all charges by name (including commissions, insurance, freight, cases, containers, coverings, and cost of packing) included in the invoice prices when the amounts for such charges are unknown to the seller or shipper;
 
 &emsp;(9) All rebates, drawbacks, and bounties, separately itemized, allowed upon the exportation of the merchandise; and
 
@@ -30,7 +30,7 @@ If the merchandise is shipped to a person in the United States by a person other
 
 #### (c) Importer provision of information
 
-Any information required to be set forth on an invoice may alternatively be provided by any of the parties qualifying as an “importer of record” under section 1484(a)(2)(B) of this title by such means, in such form or manner, and within such time as the Secretary shall by regulation prescribe.
+Any information required to be set forth on an invoice may alternatively be provided by any ofthe parties qualifying as an “importer of record” under section 1484(a)(2)(B) of this title by such means, in such form or manner, and within such time as the Secretary shall by regulation prescribe.
 
 #### (d) Exceptions by regulations
 
@@ -52,7 +52,7 @@ Provisions on the subject matter of subdivision (c) of this section were contain
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–182, §636(1)(A), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “All invoices of merchandise to be imported into the United States shall set forth—”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–182, §636(1)(A), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “All invoices of merchandise to be imported into the United States shall set forth—”.
 
 Subsec. (a)(3). Pub. L. 103–182, §636(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A detailed description of the merchandise, including the name by which each item is known, the grade or quality, and the marks, numbers, or symbols under which sold by the seller or manufacturer to the trade in the country of exportation, together with the marks and numbers of the packages in which the merchandise is packed;”.
 

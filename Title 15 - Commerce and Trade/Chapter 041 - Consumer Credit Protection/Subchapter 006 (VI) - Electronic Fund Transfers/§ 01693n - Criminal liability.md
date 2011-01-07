@@ -32,9 +32,9 @@ Whoever—
 
 As used in this section, the term “debit instrument” means a card, code, or other device, other than a check, draft, or similar paper instrument, by the use of which a person may initiate an electronic fund transfer.
 
-(Pub. L. 90–321, title IX, §916, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3738.)
+(Pub. L. 90–321, title IX, §917, formerly §916, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3738; renumbered §917, Pub. L. 111–24, title IV, §401(1), May 22, 2009, 123 Stat. 1751.)
 
-#### Renumbering of Section
+#### Prior Provisions
 
-<i>Pub. L. 111–24, title IV, §§401(1), 403, May 22, 2009, 123 Stat. 1751, 1754, provided that, effective 15 months after May 22, 2009, section 916 of Pub. L. 90–321, which is classified to this section, is renumbered section 917 of Pub. L. 90–321.</i>
+A prior section 917 of Pub. L. 90–321 was renumbered section 918 and is classified to section 1693<i>o</i> of this title.
 

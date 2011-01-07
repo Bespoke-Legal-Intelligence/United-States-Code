@@ -15,11 +15,11 @@
 
 #### Amendments
 
-2004—Pub. L. 108–454, title V, §§503(b), 504(b)(2), Dec. 10, 2004, 118 Stat. 3620, 3621, added items 6106 to 6108.
+<b>2004</b>—Pub. L. 108–454, title V, §§503(b), 504(b)(2), Dec. 10, 2004, 118 Stat. 3620, 3621, added items 6106 to 6108.
 
-1991—Pub. L. 102–40, title IV, §402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 3501 to 3505 as 6101 to 6105, respectively.
+<b>1991</b>—Pub. L. 102–40, title IV, §402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 3501 to 3505 as 6101 to 6105, respectively.
 
-1959—Pub. L. 86–222, §3(b), Sept. 1, 1959, 73 Stat. 453, added item 3505.
+<b>1959</b>—Pub. L. 86–222, §3(b), Sept. 1, 1959, 73 Stat. 453, added item 3505.
 
 
 ---

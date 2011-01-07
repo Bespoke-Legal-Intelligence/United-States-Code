@@ -16,13 +16,13 @@ A prior section 376, act June 25, 1938, ch. 675, §706, 52 Stat. 1058, as amende
 
 #### Amendments
 
-1993—Pub. L. 103–80 struck out “of Agriculture” after “Secretary” in two places.
+<b>1993</b>—Pub. L. 103–80 struck out “of Agriculture” after “Secretary” in two places.
 
-1992—Pub. L. 102–300, which directed the amendment of the section by striking out “of Health, Education, and Welfare” wherever appearing, could not be executed because such words did not appear in the original statutory text. See 1993 Amendment note above and Transfer of Functions note below.
+<b>1992</b>—Pub. L. 102–300, which directed the amendment of the section by striking out “of Health, Education, and Welfare” wherever appearing, could not be executed because such words did not appear in the original statutory text. See 1993 Amendment note above and Transfer of Functions note below.
 
 #### Transfer of Functions
 
 Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to section 3508(b) of Title 20, Education.
 
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare\[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
 

@@ -1,6 +1,6 @@
 ### §411. Registration and civil infringement actions
 
-(a) Except for an action brought for a violation of the rights of the author under section 106A(a), and subject to the provisions of subsection (b),<sup>1</sup> no civil action for infringement of the copyright in any United States work shall be instituted until preregistration or registration of the copyright claim has been made in accordance with this title. In any case, however, where the deposit, application, and fee required for registration have been delivered to the Copyright Office in proper form and registration has been refused, the applicant is entitled to institute a civil action for infringement if notice thereof, with a copy of the complaint, is served on the Register of Copyrights. The Register may, at his or her option, become a party to the action with respect to the issue of registrability of the copyright claim by entering an appearance within sixty days after such service, but the Register's failure to become a party shallnot deprive the court of jurisdiction to determine that issue.
+(a) Except for an action brought for a violation of the rights of the author under section 106A(a), and subject to the provisions of subsection (b),<sup>1</sup> no civil action for infringement of the copyright in any United States work shall be instituted until preregistration or registration of the copyright claim has been made in accordance with this title. In any case, however, where the deposit, application, and fee required for registration have been delivered to the Copyright Office in proper form and registration has been refused, the applicant is entitled to institute a civil action for infringement if notice thereof, with a copy of the complaint, is served on the Register of Copyrights. The Register may, at his or her option, become a party to the action with respect to the issue of registrability of the copyright claim by entering an appearance within sixty days after such service, but the Register's failure to become a party shall not deprive the court of jurisdiction to determine that issue.
 
 (b)(1) A certificate of registration satisfies the requirements of this section and section 412, regardless of whether the certificate contains any inaccurate information, unless—
 
@@ -22,7 +22,7 @@
 
 #### Historical and Revision Notes
 
-I74house report no. 94–1476
+#### house report no. 94–1476
 
 The first sentence of section 411(a) restates the present statutory requirement that registration must be made before a suit for copyright infringement is instituted. Under the bill, as under the law now in effect, a copyright owner who has not registered his claim can have a valid cause of action against someone who has infringed his copyright, but he cannot enforce his rights in the courts until he has made registration.
 
@@ -36,7 +36,7 @@ Subsection (b), referred to in subsec. (a), was redesignated subsec. (c) of this
 
 #### Amendments
 
-2008—Pub. L. 110–403, §101(a)(1), inserted “civil” before “infringement” in section catchline.
+<b>2008</b>—Pub. L. 110–403, §101(a)(1), inserted “civil” before “infringement” in section catchline.
 
 Subsec. (a). Pub. L. 110–403, §101(a)(2), substituted “no civil action” for “no action” in first sentence and “a civil action” for “an action” in second sentence.
 
@@ -48,15 +48,15 @@ Subsec. (c). Pub. L. 110–403, §101(a)(4), substituted “505 and section” f
 
 Pub. L. 110–403, §101(a)(3), redesignated subsec. (b) as (c).
 
-2005—Subsec. (a). Pub. L. 109–9 inserted “preregistration or” after “shall be instituted until”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–9 inserted “preregistration or” after “shall be instituted until”.
 
-1998—Subsec. (a). Pub. L. 105–304, in first sentence, struck out “actions for infringement of copyright in Berne Convention works whose country of origin is not the United States and” after “Except for” and inserted “United States” after “copyright in any”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–304, in first sentence, struck out “actions for infringement of copyright in Berne Convention works whose country of origin is not the United States and” after “Except for” and inserted “United States” after “copyright in any”.
 
-1997—Subsec. (b)(1). Pub. L. 105–80 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “serves notice upon the infringer, not less than ten or more than thirty days before such fixation, identifying the work and the specific time and source of its first transmission, and declaring an intention to secure copyright in the work; and”.
+<b>1997</b>—Subsec. (b)(1). Pub. L. 105–80 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “serves notice upon the infringer, not less than ten or more than thirty days before such fixation, identifying the work and the specific time and source of its first transmission, and declaring an intention to secure copyright in the work; and”.
 
-1990—Subsec. (a). Pub. L. 101–650 inserted “and an action brought for a violation of the rights of the author under section 106A(a)” after “United States”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–650 inserted “and an action brought for a violation of the rights of the author under section 106A(a)” after “United States”.
 
-1988—Pub. L. 100–568, §9(b)(1)(A), substituted “Registration and infringement actions” for “Registration as prerequisite to infringement suit” in section catchline.
+<b>1988</b>—Pub. L. 100–568, §9(b)(1)(A), substituted “Registration and infringement actions” for “Registration as prerequisite to infringement suit” in section catchline.
 
 Subsec. (a). Pub. L. 100–568, §9(b)(1)(B), substituted “Except for actions for infringement of copyright in Berne Convention works whose country of origin is not the United States, and subject” for “Subject”.
 

@@ -36,7 +36,7 @@
 
 #### Amendments
 
-2008—Subsec. (a)(1)(B). Pub. L. 110–177, §206(1), inserted comma after “probation” and struck out comma after “release,”.
+<b>2008</b>—Subsec. (a)(1)(B). Pub. L. 110–177, §206(1), inserted comma after “probation” and struck out comma after “release,”.
 
 Subsec. (a)(2)(B). Pub. L. 110–177, §206(2), substituted “30 years” for “20 years”.
 
@@ -48,7 +48,7 @@ Subsecs. (e), (f). Pub. L. 110–177, §206(4), redesignated subsec. (e) relatin
 
 Subsec. (g). Pub. L. 110–177, §204, added subsec. (g).
 
-2002—Subsecs. (a)(1)(B), (b)(2). Pub. L. 107–273, §3001(c)(2), inserted “supervised release,” after “probation”.
+<b>2002</b>—Subsecs. (a)(1)(B), (b)(2). Pub. L. 107–273, §3001(c)(2), inserted “supervised release,” after “probation”.
 
 Subsec. (d). Pub. L. 107–273, §4002(b)(4), transferred subsec. (d) to appear after subsec. (c).
 
@@ -56,13 +56,13 @@ Subsec. (e). Pub. L. 107–273, §3001(b), added subsec. (e) relating to conspir
 
 Pub. L. 107–204 added subsec. (e) relating to taking of action harmful to any person for providing law enforcement officer truthful information relating to commission of offense.
 
-1996—Subsec. (c). Pub. L. 104–214, §1(1)(B), added subsec. (c) at end.
+<b>1996</b>—Subsec. (c). Pub. L. 104–214, §1(1)(B), added subsec. (c) at end.
 
 Pub. L. 104–214, §1(1)(A), redesignated subsec. (c) as (d).
 
 Subsec. (d). Pub. L. 104–214, §1(1)(A), redesignated subsec. (c) as (d).
 
-1994—Subsec. (a). Pub. L. 103–322, §60017(2), added subsec. (a). Former subsec. (a) redesignated (b).
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §60017(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
 Subsec. (b). Pub. L. 103–322, §330016(1)(U), substituted “fined under this title” for “fined not more than $250,000” in concluding provisions.
 

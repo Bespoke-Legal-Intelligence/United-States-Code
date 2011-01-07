@@ -6,5 +6,5 @@ If the estate tax imposed by chapter 11 is not paid on or before the due date th
 
 #### Amendments
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 

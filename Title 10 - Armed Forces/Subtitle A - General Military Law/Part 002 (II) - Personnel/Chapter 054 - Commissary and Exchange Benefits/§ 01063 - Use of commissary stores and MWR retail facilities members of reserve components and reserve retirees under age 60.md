@@ -30,13 +30,13 @@ A prior section 1063, added Pub. L. 99–661, div. A, title VI, §656(a)(1), Nov
 
 #### Amendments
 
-2003—Pub. L. 108–136, §651(b)(4), (5), renumbered section 1065 of this title as this section and substituted “Use of commissary stores and MWR retail facilities: members of reserve components and reserve retirees under age 60” for “Morale, welfare, and recreation retail facilities: use by members of reserve components and dependents” in section catchline.
+<b>2003</b>—Pub. L. 108–136, §651(b)(4), (5), renumbered section 1065 of this title as this section and substituted “Use of commissary stores and MWR retail facilities: members of reserve components and reserve retirees under age 60” for “Morale, welfare, and recreation retail facilities: use by members of reserve components and dependents” in section catchline.
 
 Subsecs. (a) to (c). Pub. L. 108–136, §651(a)(1), inserted “commissary stores and” after “use”.
 
 Subsec. (d). Pub. L. 108–136, §651(a)(2), inserted “commissary stores and” after “permitted under subsection (a) or (b) to use” and “stores and” after “permitted to use” in par. (1), and inserted “commissary stores and” after “permitted under subsection (c) to use” and “stores and” after “permitted to use” in par. (2).
 
-1996—Pub. L. 104–106 substituted “Morale, welfare, and recreation retail facilities: use by members of reserve components and dependents” for “Use of certain morale, welfare, and recreation facilities by members of reserve components and dependents” in section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>1996</b>—Pub. L. 104–106 substituted “Morale, welfare, and recreation retail facilities: use by members of reserve components and dependents” for “Use of certain morale, welfare, and recreation facilities by members of reserve components and dependents” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a)
 

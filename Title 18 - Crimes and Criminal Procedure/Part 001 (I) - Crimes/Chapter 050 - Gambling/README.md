@@ -15,9 +15,9 @@ This section \[section 23 of act May 24, 1949\] inserts a new chapter 50 (secs. 
 
 #### Amendments
 
-1961—Pub. L. 87–216, §3, Sept. 13, 1961, 75 Stat. 491, added item 1084.
+<b>1961</b>—Pub. L. 87–216, §3, Sept. 13, 1961, 75 Stat. 491, added item 1084.
 
-1949—Act May 24, 1949, ch. 139, §23, 63 Stat. 92, added chapter 50 and items 1081 to 1083.
+<b>1949</b>—Act May 24, 1949, ch. 139, §23, 63 Stat. 92, added chapter 50 and items 1081 to 1083.
 
 
 ---

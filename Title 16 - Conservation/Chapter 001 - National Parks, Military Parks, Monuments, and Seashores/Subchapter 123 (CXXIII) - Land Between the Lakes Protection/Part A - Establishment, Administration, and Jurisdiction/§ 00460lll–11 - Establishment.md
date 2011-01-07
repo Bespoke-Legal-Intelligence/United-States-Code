@@ -22,13 +22,13 @@ On the transfer of administrative jurisdiction under section 460<i>lll</i>–41 
 
 #### (3) Status of unit
 
-&emsp;The Secretary may administer the Recreation Area as a separate unit of the NationalForest System or in conjunction with an existing national forest.
+&emsp;The Secretary may administer the Recreation Area as a separate unit of the National Forest System or in conjunction with an existing national forest.
 
 #### (c) Area included
 
 #### (1) In general
 
-&emsp;The Recreation Area shall comprise the federally owned land, water, and interests in the land and water lying between Kentucky Lake and Lake Barkley in the States of Kentucky and Tennessee, as generally depicted on the map entitled “Land Between the Lakes National Recreation Area—January, 1998
+&emsp;The Recreation Area shall comprise the federally owned land, water, and interests in the land and water lying between Kentucky Lake and Lake Barkley in the States of Kentucky and Tennessee, as generally depicted on the map entitled “Land Between the Lakes National Recreation Area—January, 1998”.
 
 #### (2) Map
 

@@ -132,7 +132,7 @@ In accordance with subchapter XII of this chapter (relating to transition provis
 
 &emsp;&emsp;(A) current or former members of the Armed Forces under section 1439 or 1440 of title 8;
 
-&emsp;&emsp;(B) current spouses of United States citizens who are currently serving on activeduty in the Armed Forces, who qualify for naturalization under section 1430(b) of title 8, and surviving spouses and children who qualify for naturalization under section 1430(d) of title 8; or
+&emsp;&emsp;(B) current spouses of United States citizens who are currently serving on active duty in the Armed Forces, who qualify for naturalization under section 1430(b) of title 8, and surviving spouses and children who qualify for naturalization under section 1430(d) of title 8; or
 
 &emsp;&emsp;(C) a deceased individual who is eligible for posthumous citizenship under section 1440–1 of title 8.
 
@@ -147,6 +147,8 @@ In accordance with subchapter XII of this chapter (relating to transition provis
 <i>For termination of amendment by section 4 of Pub. L. 110–382, see Termination Date of 2008 Amendment note below.</i>
 
 #### References in Text
+
+This chapter, referred to in subsec. (a)(3)(A), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 For the effective date specified in section 455, referred to in subsecs. (a)(4) and (b), see Effective Date note below.
 
@@ -168,7 +170,7 @@ Pub. L. 107–296, title IV, §455, Nov. 25, 2002, 116 Stat. 2200, provided that
 
 #### Rulemaking
 
-Pub. L. 110–382, §2(b), Oct. 9, 2008, 122 Stat. 4087, provided that: “Not later than 180 days after the date of the enactment of this Act \[Oct. 9, 2008\], the Secretary of Homeland Security, in consultation with the Attorney General, shall promulgate rules to carry out the amendment made by subsection (a) \[amending this section\].”
+Pub. L. 110–382, §2(b), Oct. 9, 2008, 122 Stat. 4087, provided that: “Not later than 180 days after the date of the enactment of this Act \[Oct. 9, 2008\], the Secretaryof Homeland Security, in consultation with the Attorney General, shall promulgate rules to carry out the amendment made by subsection (a) \[amending this section\].”
 
 \[Pub. L. 110–382, §4, Oct. 9, 2008, 122 Stat. 4089, provided that section 2(b) of Pub. L. 110–382, set out as a note above, is repealed 5 years after Oct. 9, 2008.\]
 

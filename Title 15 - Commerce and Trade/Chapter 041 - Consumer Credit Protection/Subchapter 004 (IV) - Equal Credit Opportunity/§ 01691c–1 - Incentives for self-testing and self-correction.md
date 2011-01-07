@@ -52,7 +52,15 @@ An applicant, department, or agency that challenges a privilege asserted under t
 
 &emsp;(2) an administrative law proceeding with appropriate jurisdiction.
 
-(Pub. L. 90–321, title VII, §704A, as added Pub. L. 104–208, div. A, title II, §2302(a)(1), Sept. 30, 1996, 110 Stat. 3009–420.)
+(Pub. L. 90–321, title VII, §704A, as added Pub. L. 104–208, div. A, title II, §2302(a)(1), Sept. 30, 1996, 110 Stat. 3009–420; amended Pub. L. 111–203, title X, §1085(1), July 21, 2010, 124 Stat. 2083.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1085(1), 1100H, July 21, 2010, 124 Stat. 2083, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

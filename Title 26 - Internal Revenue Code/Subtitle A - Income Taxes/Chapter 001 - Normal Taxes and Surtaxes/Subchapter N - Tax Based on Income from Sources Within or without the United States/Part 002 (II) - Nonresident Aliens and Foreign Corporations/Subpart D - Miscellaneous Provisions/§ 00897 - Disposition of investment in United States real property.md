@@ -16,7 +16,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any nonresident alien individual, the taxable excess for purposes of section 55(b)(1)(A) shall not be less than the lesser of—
+&emsp;&emsp;In the case of any nonresident alien individual, the taxable excess for purposes ofsection 55(b)(1)(A) shall not be less than the lesser of—
 
 &emsp;&emsp;&emsp;(i) the individual's alternative minimum taxable income (as defined in section 55(b)(2)) for the taxable year, or
 
@@ -104,7 +104,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the first corporation shall be treated as holding a portion of each asset of the second corporation equal to the percentage of the fair market value of the stock of the second corporation represented by the stock held by the first corporation, and
 
-&emsp;&emsp;&emsp;(iii) any asset treated as held by the first corporation by reason of clause (ii) which is used or held for use by the second corporation in a trade or business shall be treated as so used or held by the first corporation.
+&emsp;&emsp;&emsp;(iii) any asset treated as held by the first corporation by reason of clause (ii) whichis used or held for use by the second corporation in a trade or business shall be treated as so used or held by the first corporation.
 
 > &emsp;&emsp;Any asset treated as held by the first corporation by reason of the preceding sentence shall be so treated for purposes of applying the preceding sentence successively to corporations which are above the first corporation in a chain of corporations.
 
@@ -204,7 +204,7 @@ For purposes of this section—
 
 #### (ii) Termination
 
-&emsp;&emsp;&emsp;Clause (i)(II) shall not apply after December 31, 2009. Notwithstanding the preceding sentence, an entity described in clause (i)(II) shall be treated as a qualified investment entity for purposes of applying paragraphs (1) and (5) and section 1445 with respect to any distribution by the entity to a nonresident alien individual or a foreign corporation which is attributable directly or indirectly to a distribution to the entity from a real estate investment trust.
+&emsp;&emsp;&emsp;Clause (i)(II) shall not apply after December 31, 2011. Notwithstanding the preceding sentence, an entity described in clause (i)(II) shall be treated as a qualified investment entity for purposes of applying paragraphs (1) and (5) and section 1445 with respect to any distribution by the entity to a nonresident alien individual or a foreign corporation which is attributable directly or indirectly to a distribution to the entity from a real estate investment trust.
 
 #### (B) Domestically controlled
 
@@ -252,7 +252,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) any other similar payment specified in regulations which the Secretary determines necessary to prevent avoidance of the purposes of this paragraph.
 
-&emsp;&emsp;&nbsp;The portion of any such payment treated by the taxpayer as gain from the sale or exchange of a United States real property interest under subparagraph (A) by reason of this clause shall be equal to the portion of the distribution such payment is in lieu of which would have been so treated but for the transaction giving rise to such payment.
+&emsp;&emsp;&nbsp;The portion of any such payment treated by the taxpayer as gain from the sale orexchange of a United States real property interest under subparagraph (A) by reason of this clause shall be equal to the portion of the distribution such payment is in lieu of which would have been so treated but for the transaction giving rise to such payment.
 
 #### (iii) Exception where distribution actually received
 
@@ -282,7 +282,7 @@ For purposes of this section—
 
 &emsp;An election under paragraph (1) may be made only—
 
-&emsp;&emsp;(A) if all of the owners of all classes of interests (other than interests solely as a creditor) in the foreign corporation at the timeof the election consent to the making of the election and agree that gain, if any, from the disposition of such interest after June 18, 1980, which would be taken into account under subsection (a) shall be taxable notwithstanding any provision to the contrary in a treaty to which the United States is a party, and
+&emsp;&emsp;(A) if all of the owners of all classes of interests (other than interests solely as a creditor) in the foreign corporation at the time of the election consent to the making of the election and agree that gain, if any, from the disposition of such interest after June 18, 1980, which would be taken into account under subsection (a) shall be taxable notwithstanding any provision to the contrary in a treaty to which the United States is a party, and
 
 &emsp;&emsp;(B) subject to such other conditions as the Secretary may prescribe by regulations with respect to the corporation or its shareholders.
 
@@ -304,13 +304,15 @@ Except to the extent otherwise provided in regulations, gain shall be recognized
 
 &emsp;&emsp;(B) the amount of gain, if any, recognized to the transferor under any other provision at the time of the transfer.
 
-(Added Pub. L. 96–499, title XI, §1122(a), Dec. 5, 1980, 94 Stat. 2682; amended Pub. L. 97–34, title VIII, §831(a)(1), (b)–(d), (f), (g), Aug. 13, 1981, 95 Stat. 352–354; Pub. L. 97–248, title II, §201(d)(6), formerly §201(c)(6), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(6), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title VI, §631(e)(12), title VII, §701(e)(4)(G), title XVIII, §1810(f)(1), Oct. 22, 1986, 100 Stat. 2275, 2343, 2826; Pub. L. 100–647, title I, §1006(e)(19), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 101–508, title XI, §11801(a)(30), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13203(c)(2), Aug. 10, 1993, 107 Stat. 462; Pub. L. 104–188, title I, §1702(g)(2), Aug. 20, 1996, 110 Stat. 1873; Pub. L. 108–357, title IV, §§411(c), 418(a), Oct. 22, 2004, 118 Stat. 1504, 1512; Pub. L. 109–135, title IV, §403(p)(1), Dec. 21, 2005, 119 Stat. 2626; Pub. L. 109–222, title V, §§504(a), 505(a), 506(a), May 17, 2006, 120 Stat. 355, 357; Pub. L. 110–343, div. C, title II, §208(a), Oct. 3, 2008, 122 Stat. 3865.)
+(Added Pub. L. 96–499, title XI, §1122(a), Dec. 5, 1980, 94 Stat. 2682; amended Pub. L. 97–34, title VIII, §831(a)(1), (b)–(d), (f), (g), Aug. 13, 1981, 95 Stat. 352–354; Pub. L. 97–248, title II, §201(d)(6), formerly §201(c)(6), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(6), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title VI, §631(e)(12), title VII, §701(e)(4)(G), title XVIII, §1810(f)(1), Oct. 22, 1986, 100 Stat. 2275, 2343, 2826; Pub. L. 100–647, title I, §1006(e)(19), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 101–508, title XI, §11801(a)(30), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13203(c)(2), Aug. 10, 1993, 107 Stat. 462; Pub. L. 104–188, title I, §1702(g)(2), Aug. 20, 1996, 110 Stat. 1873; Pub. L. 108–357, title IV, §§411(c), 418(a), Oct. 22, 2004, 118 Stat. 1504, 1512; Pub. L. 109–135, title IV, §403(p)(1), Dec. 21, 2005, 119 Stat. 2626; Pub. L. 109–222, title V, §§504(a), 505(a), 506(a), May 17, 2006, 120 Stat. 355, 357; Pub. L. 110–343, div. C, title II, §208(a), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–312, title VII, §749(a), Dec. 17, 2010, 124 Stat. 3320.)
 
 #### Amendments
 
-2008—Subsec. (h)(4)(A)(ii). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2007”.
+<b>2010</b>—Subsec. (h)(4)(A)(ii). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”.
 
-2006—Subsec. (h)(1). Pub. L. 109–222, §505(a)(1), in first sentence, substituted “a nonresident alien individual, a foreign corporation, or other qualified investment entity” for “a nonresident alien individual or a foreign corporation” and “such nonresident alien individual, foreign corporation, or other qualified investment entity” for “such nonresident alien individual or foreign corporation” and inserted second sentence and struck out former second sentence which read as follows: “Notwithstanding the preceding sentence, any distribution by a real estate investment trust with respect to any class of stock which is regularly traded on an established securities market located in the United States shall not be treated as gain recognized from the sale or exchange of a United States real property interest if the shareholder did not own more than 5 percent of such class of stock at any time during the 1-year period ending on the date of the distribution.”
+<b>2008</b>—Subsec. (h)(4)(A)(ii). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2007”.
+
+<b>2006</b>—Subsec. (h)(1). Pub. L. 109–222, §505(a)(1), in first sentence, substituted “a nonresident alien individual, a foreign corporation, or other qualified investment entity” for “a nonresident alien individual or a foreign corporation” and “such nonresident alien individual, foreign corporation, or other qualified investment entity” for “such nonresident alien individual or foreigncorporation” and inserted second sentence and struck out former second sentence which read as follows: “Notwithstanding the preceding sentence, any distribution by a real estate investment trust with respect to any class of stock which is regularly traded on an established securities market located in the United States shall not be treated as gain recognized from the sale or exchange of a United States real property interest if the shareholder did not own more than 5 percent of such class of stock at any time during the 1-year period ending on the date of the distribution.”
 
 Subsec. (h)(4)(A)(i)(II). Pub. L. 109–222, §504(a), inserted “which is a United States real property holding corporation or which would be a United States real property holding corporation if the exceptions provided in subsections (c)(3) and (h)(2) did not apply to interests in any real estate investment trust or regulated investment company” after “any regulated investment company”.
 
@@ -318,9 +320,9 @@ Subsec. (h)(4)(A)(ii). Pub. L. 109–222, §505(a)(2), inserted at end “Notwit
 
 Subsec. (h)(5). Pub. L. 109–222, §506(a), added par. (5).
 
-2005—Subsec. (h)(1). Pub. L. 109–135 substituted “any distribution by a real estate investment trust with respect to any class of stock” for “any distribution by a REIT with respect to any class of stock” and “the 1-year period ending on the date of the distribution” for “the taxable year”.
+<b>2005</b>—Subsec. (h)(1). Pub. L. 109–135 substituted “any distribution by a real estate investment trust with respect to any class of stock” for “any distribution by a REIT with respect to any class of stock” and “the 1-year period ending on the date of the distribution” for “the taxable year”.
 
-2004—Subsec. (h). Pub. L. 108–357, §411(c)(5), substituted “certain investment entities” for “REITS” in heading.
+<b>2004</b>—Subsec. (h). Pub. L. 108–357, §411(c)(5), substituted “certain investment entities” for “REITS” in heading.
 
 Subsec. (h)(1). Pub. L. 108–357, §418(a), inserted at end “Notwithstanding the preceding sentence, any distribution by a REIT with respect to any class of stock which is regularly traded on an established securities market located in the United States shall not be treated as gain recognized from the sale or exchange of a United States real property interest if the shareholder did not own more than 5 percent of such class of stock at any time during the taxable year.”
 
@@ -332,11 +334,11 @@ Subsec. (h)(3). Pub. L. 108–357, §411(c)(2), amended heading and text of par.
 
 Subsec. (h)(4)(A). Pub. L. 108–357, §411(c)(3), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “The term ‘REIT’ means a real estate investment trust.”
 
-Subsec. (h)(4)(B). Pub. L. 108–357, §411(c)(3), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “The term ‘domestically-controlled REIT’ means a REIT in which at all times during the testing period less than 50 percent invalue of the stock was held directly or indirectly by foreign persons.”
+Subsec. (h)(4)(B). Pub. L. 108–357, §411(c)(3), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “The term ‘domestically-controlled REIT’ means a REIT in which at all times during the testing period less than 50 percent in value of the stock was held directly or indirectly by foreign persons.”
 
 Subsec. (h)(4)(C), (D)(iii). Pub. L. 108–357, §411(c)(4), substituted “qualified investment entity” for “REIT”.
 
-1996—Subsec. (f). Pub. L. 104–188 struck out subsec. (f) which read as follows:
+<b>1996</b>—Subsec. (f). Pub. L. 104–188 struck out subsec. (f) which read as follows:
 
 “(f)
 
@@ -350,9 +352,9 @@ Distributions by Domestic Corporations to Foreign Shareholders.—If a domestic 
 
 &emsp;&emsp;“(B) any tax paid under this chapter by the distributee on such distribution.”
 
-1993—Subsec. (a)(2). Pub. L. 103–66 substituted “Minimum” for “21-percent minimum” in heading and “the taxable excess for purposes of section 55(b)(1)(A) shall not be less than” for “the amount determined under section 55(b)(1)(A) shall not be less than 21 percent of” in subpar. (A).
+<b>1993</b>—Subsec. (a)(2). Pub. L. 103–66 substituted “Minimum” for “21-percent minimum” in heading and “the taxable excess for purposes of section 55(b)(1)(A) shall not be less than” for “the amount determined under section 55(b)(1)(A) shall not be less than 21 percent of” in subpar. (A).
 
-1990—Subsec. (k). Pub. L. 101–508 struck out subsec. (k) which read as follows: “If—
+<b>1990</b>—Subsec. (k). Pub. L. 101–508 struck out subsec. (k) which read as follows: “If—
 
 &emsp;“(1) a foreign corporation adopts, or has adopted, a plan of liquidation described in section 334(b)(2)(A), and
 
@@ -360,9 +362,9 @@ Distributions by Domestic Corporations to Foreign Shareholders.—If a domestic 
 
 > then such foreign corporation may make an election to be treated, for the period following June 18, 1980, as a domestic corporation pursuant to section 897(i)(1). Notwithstanding an election under the preceding sentence, any selling shareholder of such corporation shall be considered to have sold the stock of a foreign corporation.”
 
-1988—Subsec. (<i>l</i>). Pub. L. 100–647 struck out subsec. (<i>l</i>) which provided special rule for certain United States shareholders of liquidating foreign corporations.
+<b>1988</b>—Subsec. (<i>l</i>). Pub. L. 100–647 struck out subsec. (<i>l</i>) which provided special rule for certain United States shareholders of liquidating foreign corporations.
 
-1986—Subsec. (a)(2). Pub. L. 99–514, §701(e)(4)(G), substituted “21-percent” for “20-percent” in heading and amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In the case of any nonresident alien individual, the amount determined under section 55(a)(1) for the taxable year shall not be less than 20 percent of the lesser of—
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514, §701(e)(4)(G), substituted “21-percent” for “20-percent” in heading and amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In the case of any nonresident alien individual, the amount determined under section 55(a)(1) for the taxable year shall not be less than 20 percent of the lesser of—
 
 &emsp;“(i) the individual's alternative minimum taxable income (as defined in section 55(b)) for the taxable year, or
 
@@ -372,17 +374,35 @@ Subsec. (d). Pub. L. 99–514, §631(e)(12), in heading, struck out “, etc.,�
 
 Subsec. (i)(1), (4). Pub. L. 99–514, §1810(f)(1), inserted reference to section 1445.
 
-1982—Subsec. (a)(2)(A). Pub. L. 97–248 substituted “section 55(a)(1) for the taxable year shall not be less than 20 percent of the lesser of—” for “section 55(a)(1)(A) for the taxable year shall not be less than 20 percent of whichever of the following is the least:” in introductory provisions, in cl. (i) struck out “(1)” after “section 55(b)” and inserted “or” at the end, in cl. (ii) substituted a period for a comma and struck out “or” at the end, and struck out former cl. (iii), which had provided for the amount of $60,000 as a third alternative.
+<b>1982</b>—Subsec. (a)(2)(A). Pub. L. 97–248 substituted “section 55(a)(1) for the taxable year shall not be less than 20 percent of the lesser of—” for “section 55(a)(1)(A) for the taxable year shall not be less than 20 percent of whichever of the following is the least:” in introductory provisions, in cl. (i) struck out “(1)” after “section 55(b)” and inserted “or” at the end, in cl. (ii) substituted a period for a comma and struck out “or” at the end, and struck out former cl. (iii), which had provided for the amount of $60,000 as a third alternative.
 
-1981—Subsec. (c)(1)(A)(i). Pub. L. 97–34, §831(a)(1), defined “United States real property interest” to also mean an interest in real property located in the Virgin Islands.
+<b>1981</b>—Subsec. (c)(1)(A)(i). Pub. L. 97–34, §831(a)(1), defined “United States real property interest” to also mean an interest in real property located in the Virgin Islands.
 
-Subsec. (c)(4)(B). Pub. L. 97–34, §831(b), substituted “Assets” for “Interests” in heading and in first sentence “Under regulations prescribed by the Secretary, assets held by a partnership, trust or estate shall be treated as held” for “United States real property interests held by a partnership, trust, or estate shall be treated as owned” before “proportionately by its partners or beneficiaries”, and inserted provisions respecting treatment of an asset as used or held for use in a trade or business by a partner or beneficiary when used or held by the partnership, trust, or estate in a trade or business and attributing chain treatment of such trade or business to partnership, trust, or estate which are above the first such entity.
+Subsec. (c)(4)(B). Pub. L. 97–34, §831(b), substituted “Assets” for “Interests” in heading and in first sentence “Under regulations prescribed by the Secretary,assets held by a partnership, trust or estate shall be treated as held” for “United States real property interests held by a partnership, trust, or estate shall be treated as owned” before “proportionately by its partners or beneficiaries”, and inserted provisions respecting treatment of an asset as used or held for use in a trade or business by a partner or beneficiary when used or held by the partnership, trust, or estate in a trade or business and attributing chain treatment of such trade or business to partnership, trust, or estate which are above the first such entity.
 
 Subsec. (d)(1)(B). Pub. L. 97–34, §831(c), substituted “Exceptions” for “Exception where there is a carryover basis” in heading, inserted introductory text “Gain shall not be recognized under subparagraph (A)”, inserted cls. (i)(I) and (ii), and substituted cl. (i)(II) the basis of the distributed property in the hands of the distributee is no greater than the adjusted basis of such property before the distribution, increased by the amount of gain (if any) recognized by the distributing corporation” for subpar. (B) provision “Subparagraph (A) shall not apply if the basis of the distributed property in the hands of the distributee is the same as the adjusted basis of such property before the distribution increased by the amount of any gain recognized by the distributing corporation.”
 
 Subsec. (i). Pub. L. 97–34, §831(d), in par. (1)(A) substituted “holds a United States real property interest” for “has a permanent establishment in the United States”, in par. (1)(B) substituted “treaty obligation of the United States the foreign corporation is entitled to nondiscriminatory treatment with respect to that interest” for “treaty, such permanent establishment may not be treated less favorably than domestic corporations carrying on the same activities”, in par. (3) inserted subpar. (A), designated existing provisions as subpar. (B), in subpar. (B) substituted “such other conditions as the Secretary may prescribe by regulations with respect to the corporation or its shareholders” for “such conditions as may be prescribed by the Secretary”, and prescribed percentage interest required for making the requisite election and application of constructive ownership rules in determining existence of the required percentage of a class of interest.
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 97–34, §831(f), (g), added subsecs. (j) to (<i>l</i>).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–312, title VII, §749(b), Dec. 17, 2010, 124 Stat. 3320, provided that:
+
+“(1)
+
+In general.—The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2010. Notwithstanding the preceding sentence, such amendment shall not apply with respect to the withholding requirement under section 1445 of the Internal Revenue Code of 1986 for any payment made before the date of the enactment of this Act \[Dec. 17, 2010\].
+
+“(2)
+
+Amounts withheld on or before date of enactment.—In the case of a regulated investment company—
+
+&emsp;“(A) which makes a distribution after December 31, 2009, and before the date of the enactment of this Act \[Dec. 17, 2010\]; and
+
+&emsp;“(B) which would (but for the second sentence of paragraph (1)) have been required to withhold with respect to such distribution under section 1445 of such Code,
+
+> such investment company shall not be liable to any person to whom such distribution was made for any amount so withheld and paid over to the Secretary of the Treasury.”
 
 #### Effective Date of 2008 Amendment
 
@@ -420,7 +440,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 631(e)(12) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
+Amendment by section 631(e)(12) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described insection 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
 Amendment by section 701(e)(4)(G) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 701(f) of Pub. L. 99–514, set out as an Effective Date note under section 55 of this title.
 

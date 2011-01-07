@@ -54,7 +54,7 @@ For purposes of this section—
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–204, §603(b)(1), substituted “Except as provided in section 1185 of this title, nothing” for “Nothing”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–204, §603(b)(1), substituted “Except as provided in section 1185 of this title, nothing” for “Nothing”.
 
 #### Effective Date of 1996 Amendment
 

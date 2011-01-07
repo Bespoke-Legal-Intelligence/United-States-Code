@@ -12,7 +12,7 @@ In the case of a participant who is a part-time student—
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 4314 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 4314 of this title as this section.
 
 Par. (3). Pub. L. 102–83 substituted “Secretary” for “Administrator” in two places.
 

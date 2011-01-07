@@ -54,7 +54,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (B) Contract period and effectiveness
 
-&emsp;&emsp;Section 1395w–27(c) of this title, except that in applying paragraph (4)(B) of suchsection any reference to payment amounts under section 1395w–23 of this title shall be deemed payment amounts under section 1395w–115 of this title.
+&emsp;&emsp;Section 1395w–27(c) of this title, except that in applying paragraph (4)(B) of such section any reference to payment amounts under section 1395w–23 of this title shall be deemed payment amounts under section 1395w–115 of this title.
 
 #### (C) Protections against fraud and beneficiary protections
 
@@ -128,7 +128,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;If a PDP sponsor determines that a submitted claim is not a clean claim, thePDP sponsor shall, not later than the end of the period described in clause (i), notify the claimant of such determination. Such notification shall specify all defects or improprieties in the claim and shall list all additional information or documents necessary for the proper processing and payment of the claim.
+&emsp;&emsp;&emsp;&emsp;If a PDP sponsor determines that a submitted claim is not a clean claim, the PDP sponsor shall, not later than the end of the period described in clause (i), notify the claimant of such determination. Such notification shall specify all defects or improprieties in the claim and shall list all additional information or documents necessary for the proper processing and payment of the claim.
 
 #### (II) Determination after submission of additional information
 
@@ -252,7 +252,7 @@ Part C of this subchapter, referred to in subsecs. (c)(1)(B) and (g), is classif
 
 #### Amendments
 
-2008—Subsec. (b)(3)(D). Pub. L. 110–275, §181, inserted at end “Notwithstanding any other provision of law, information provided to the Secretary under the application of section 1395w–27(e)(1) of this title to contracts under this section under the preceding sentence—” and added cls. (i) and (ii).
+<b>2008</b>—Subsec. (b)(3)(D). Pub. L. 110–275, §181, inserted at end “Notwithstanding any other provision of law, information provided to the Secretary under the application of section 1395w–27(e)(1) of this title to contracts under this section under the preceding sentence—” and added cls. (i) and (ii).
 
 Subsec. (b)(4). Pub. L. 110–275, §171(a), added par. (4).
 

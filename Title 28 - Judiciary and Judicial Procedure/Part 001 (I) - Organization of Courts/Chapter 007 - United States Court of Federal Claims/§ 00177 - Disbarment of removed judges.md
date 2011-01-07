@@ -1,12 +1,12 @@
 ### §177. Disbarment of removed judges
 
-A judge of the United States Court of Federal Claims removed from office in accordance with section 176 of this title shall not be permitted at any time to practice before the Court of Federal Claims.
+A judge of the United States Court of Federal Claims removed from office in accordance withsection 176 of this title shall not be permitted at any time to practice before the Court of Federal Claims.
 
 (Added Pub. L. 97–164, title I, §105(a), Apr. 2, 1982, 96 Stat. 28; amended Pub. L. 102–572, title IX, §902(a), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” and “Court of Federal Claims” for “Claims Court”.
+<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” and “Court of Federal Claims” for “Claims Court”.
 
 #### Effective Date of 1992 Amendment
 

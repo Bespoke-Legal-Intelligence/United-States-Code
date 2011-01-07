@@ -14,9 +14,9 @@ Minor changes in phraseology was made.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “means” for “mean”.
+<b>1994</b>—Pub. L. 103–322 substituted “means” for “mean”.
 
-1978—Pub. L. 95–598 substituted “Definition” for “Definitions” in section catchline, substituted definition of “debtor” as a debtor concerning whom a petition has been filed under title 11 for definition of “bankrupt” as a debtor by or against whom a petition has been filed under title 11, and struck out definition of “bankruptcy” as including any proceeding, arrangement, or plan pursuant to title 11.
+<b>1978</b>—Pub. L. 95–598 substituted “Definition” for “Definitions” in section catchline, substituted definition of “debtor” as a debtor concerning whom a petition has been filed under title 11 for definition of “bankrupt” as a debtor by or against whom a petition has been filed under title 11, and struck out definition of “bankruptcy” as including any proceeding, arrangement, or plan pursuant to title 11.
 
 #### Effective Date of 1978 Amendment
 

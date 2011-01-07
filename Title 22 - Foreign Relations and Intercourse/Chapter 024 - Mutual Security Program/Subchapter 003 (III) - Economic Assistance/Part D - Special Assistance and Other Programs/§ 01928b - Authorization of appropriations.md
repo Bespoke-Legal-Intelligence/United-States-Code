@@ -10,19 +10,19 @@ This section was not enacted as part of the Mutual Security Act of 1954 which co
 
 #### Amendments
 
-2001—Pub. L. 107–77 substituted “$200,000” for “$100,000” and substituted “$100,000” for “$50,000” in two places.
+<b>2001</b>—Pub. L. 107–77 substituted “$200,000” for “$100,000” and substituted “$100,000” for “$50,000” in two places.
 
-1999—Pub. L. 106–113 substituted “NATO Parliamentary Assembly” for “North Atlantic Assembly” in two places.
+<b>1999</b>—Pub. L. 106–113 substituted “NATO Parliamentary Assembly” for “North Atlantic Assembly” in two places.
 
-1987—Pub. L. 100–204 which directed amendment of this section by increasing appropriation authorization to $75,000, with $50,000 for House delegation and $25,000 for Senate delegation, could not be executed because of prior amendment by Pub. L. 100–202.
+<b>1987</b>—Pub. L. 100–204 which directed amendment of this section by increasing appropriation authorization to $75,000, with $50,000 for House delegation and $25,000 for Senate delegation, could not be executed because of prior amendment by Pub. L. 100–202.
 
 Pub. L. 100–202 substituted “annually (1)” for “annually,”, “(2) $100,000, $50,000” for “$50,000, $25,000”, and “and $50,000” for “and $25,000”.
 
-1972—Pub. L. 92–226 increased annual appropriations authorization for expenses of the United States Group of the North Atlantic Assembly, including the amount for the House and Senate delegations from $15,000 to $25,000.
+<b>1972</b>—Pub. L. 92–226 increased annual appropriations authorization for expenses of the United States Group of the North Atlantic Assembly, including the amount for the House and Senate delegations from $15,000 to $25,000.
 
-1967—Pub. L. 90–137 substituted “North Atlantic Assembly” for “North Atlantic Treaty Organization Parliamentary Conference” and “North Atlantic Treaty Parliamentary Conference” and “Assembly” for “Conference” in two places, respectively.
+<b>1967</b>—Pub. L. 90–137 substituted “North Atlantic Assembly” for “North Atlantic Treaty Organization Parliamentary Conference” and “North Atlantic Treaty Parliamentary Conference” and “Assembly” for “Conference” in two places, respectively.
 
-1958—Pub. L. 85–477 substituted provisions authorizing an annual contribution towards the maintenance of the Conference of such sum as may be agreed upon but in no event to exceed for any year an amount equal to 25 per centum of the total annual contributions made for that year for maintenance, for provisions which authorized an annual contribution of $6,000 for maintenance.
+<b>1958</b>—Pub. L. 85–477 substituted provisions authorizing an annual contribution towards the maintenance of the Conference of such sum as may be agreed upon but in no event to exceed for any year an amount equal to 25 per centum of the total annual contributions made for that year for maintenance, for provisions which authorized an annual contribution of $6,000 for maintenance.
 
 #### Change of Name
 

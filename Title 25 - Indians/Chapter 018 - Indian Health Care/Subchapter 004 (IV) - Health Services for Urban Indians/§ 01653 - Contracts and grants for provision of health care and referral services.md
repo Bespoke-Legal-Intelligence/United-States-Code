@@ -82,7 +82,7 @@ The Secretary, acting through the Service, shall facilitate access to, or provid
 
 &emsp;(A) to prepare assessments required under paragraph (2);
 
-&emsp;(B) to provide outreach, educational, and referral services to urban Indians regarding the availability of direct mental health services, to educate urban Indians about mental health issues and services, and effect coordination with existing mental health providers in order to improve services to urban Indians;
+&emsp;(B) to provide outreach, educational, and referral services to urban Indians regarding the availability of direct mental health services,to educate urban Indians about mental health issues and services, and effect coordination with existing mental health providers in order to improve services to urban Indians;
 
 &emsp;(C) to provide outpatient mental health services to urban Indians, including the identification and assessment of illness, therapeutic treatments, case management, support groups, family treatment, and other treatment; and
 
@@ -122,7 +122,7 @@ A prior section 1653, Pub. L. 94–437, title V, §503, Sept. 30, 1976, 90 Stat.
 
 #### Amendments
 
-1992—Pub. L. 102–573, §501(b)(1)(G), inserted “and grants” in section catchline.
+<b>1992</b>—Pub. L. 102–573, §501(b)(1)(G), inserted “and grants” in section catchline.
 
 Subsec. (a). Pub. L. 102–573, §501(b)(1)(A), inserted “, or make grants to,” after “contracts with” and “or grant” after “such contract”.
 
@@ -144,7 +144,7 @@ Subsec. (f)(1). Pub. L. 102–573, §501(b)(1)(F), inserted “or receiving gran
 
 Subsec. (f)(5). Pub. L. 102–573, §505(b)(1)(D), struck out par. (5) which authorized appropriations of $500,000 for fiscal year 1991 and $2,000,000 for fiscal year 1992 to carry out this subsec.
 
-1990—Subsecs. (c) to (f). Pub. L. 101–630 added subsecs. (c) to (f).
+<b>1990</b>—Subsecs. (c) to (f). Pub. L. 101–630 added subsecs. (c) to (f).
 
 #### Facilities Assessment
 

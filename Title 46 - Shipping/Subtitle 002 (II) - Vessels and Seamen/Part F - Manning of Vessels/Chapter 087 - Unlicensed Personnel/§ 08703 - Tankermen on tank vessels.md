@@ -36,5 +36,5 @@ Subsection (c) requires a tankerman or licensed master, pilot, engineer, or oper
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–557 repealed subsec. (b) which contained duplicate tankerman manning requirements. See section 7317(a) of this title.
+<b>1984</b>—Subsec. (b). Pub. L. 98–557 repealed subsec. (b) which contained duplicate tankerman manning requirements. See section 7317(a) of this title.
 

@@ -8,9 +8,9 @@ The provisions, including penalties, of sections 9, and 10 of the Federal Trade 
 
 A prior section 5274, act Aug. 16, 1954, ch. 736, 68A Stat. 651, related to sign required on rectifying premises, prior to the general revision of this chapter by Pub. L. 85–859. See section 5180 of this title.
 
-Provisions similar to those comprising this section were contained in prior section 5317(b), act Aug. 16, 1954, ch. 736, 68A Stat. 660, prior to the general revision of this chapter by Pub. L. 85–859.
+Provisions similar to those comprising this section were contained in prior section 5317(b), act Aug. 16,1954, ch. 736, 68A Stat. 660, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 

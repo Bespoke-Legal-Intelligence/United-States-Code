@@ -1,8 +1,12 @@
 ### §300gg–54. Coverage of dependent students on medically necessary leave of absence
 
-The provisions of section 300gg–7 of this title shall apply to health insurance coverage offered by a health insurance issuer in the individual market in the same manner as they apply to health insurance coverage offered by a health insurance issuer in connection with a group health plan in the small or large group market.
+The provisions of section 2707 <sup>1</sup> shall apply to health insurance coverage offered by a health insurance issuer in the individual market in the same manner as they apply to health insurance coverage offered by a health insurance issuer in connection with a group health plan in the small or large group market.
 
 (July 1, 1944, ch. 373, title XXVII, §2753, as added Pub. L. 110–381, §2(b)(2), Oct. 9, 2008, 122 Stat. 4084.)
+
+#### References in Text
+
+Section 2707, referred to in text, is a reference to section 2707 of act July 1, 1944. Section 2707, which was classified to section 300gg–7 of this title, was renumbered section 2728 and amended by Pub. L. 111–148, title I, §§1001(2), 1563(c)(6), formerly §1562(c)(6), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 266, 911, and was transferred to section 300gg–28 of this title. A new section 2707 of act July 1, 1944, related to comprehensive health insurance coverage, was added, effective for plan years beginning on or after Jan. 1, 2014, by Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 161, and is classified to section 300gg–6 of this title.
 
 #### Codification
 
@@ -13,4 +17,6 @@ Another section 2753 of act July 1, 1944, is classified to section 300gg–53 of
 #### Effective Date
 
 Section applicable with respect to plan years beginning on or after the date that is one year after Oct. 9, 2008, and to medically necessary leaves of absence beginning during such plan years, see section 2(d) of Pub. L. 110–381, set out as a note under section 9813 of Title 26, Internal Revenue Code.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

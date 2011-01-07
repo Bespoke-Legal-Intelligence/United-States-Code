@@ -8,5 +8,5 @@
 
 #### Amendments
 
-1940—Act June 25, 1940, designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1940</b>—Act June 25, 1940, designated existing provisions as subsec. (a) and added subsec. (b).
 

@@ -6,5 +6,5 @@ The Secretary of Defense, upon request of the Secretary, is authorized to make t
 
 #### Amendments
 
-1973—Pub. L. 93–87 substituted “Federal Highway Administration” for “Bureau of Public Roads” and “Department of Transportation” for “Department of Commerce”.
+<b>1973</b>—Pub. L. 93–87 substituted “Federal Highway Administration” for “Bureau of Public Roads” and “Department of Transportation” for “Department of Commerce”.
 

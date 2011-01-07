@@ -26,7 +26,7 @@ The participating non-Federal interest or interests shall retain title to all la
 
 #### (g) Federal licenses or permits; charges; remission of charge
 
-Any spoil disposal facilities constructed under the provisions of this section shall be made available to Federal licensees or permittees upon payment of an appropriate charge for such use. Twenty-five per centum of such chargeshall be remitted to the participating non-Federal interest or interests except for those excused from contributing to the construction costs under subsections (d) and (e) of this section.
+Any spoil disposal facilities constructed under the provisions of this section shall be made available to Federal licensees or permittees upon payment of an appropriate charge for such use. Twenty-five per centum of such charge shall be remitted to the participating non-Federal interest or interests except for those excused from contributing to the construction costs under subsections (d) and (e) of this section.
 
 #### (h) Provisions applicable to Great Lakes and their connecting channels
 
@@ -76,11 +76,11 @@ Section was not enacted as a part of the Federal Water Pollution Control Act whi
 
 #### Amendments
 
-1988—Subsec. (j). Pub. L. 100–676, §24(a), added subsec. (j).
+<b>1988</b>—Subsec. (j). Pub. L. 100–676, §24(a), added subsec. (j).
 
 Subsec. (k). Pub. L. 100–676, §24(b), added subsec. (k).
 
-1974—Subsec. (d). Pub. L. 93–251 inserted provision for waiver of payments in event of a written agreement before occurrence of findings.
+<b>1974</b>—Subsec. (d). Pub. L. 93–251 inserted provision for waiver of payments in event of a written agreement before occurrence of findings.
 
 #### Great Lakes Confined Disposal Facilities
 

@@ -16,7 +16,7 @@ Another section 487F of act July 1, 1944, is classified to section 288–6 of th
 
 #### Amendments
 
-2007—Subsec. (c). Pub. L. 109–482 struck out subsec. (c) which related to authorization and availability of appropriations.
+<b>2007</b>—Subsec. (c). Pub. L. 109–482 struck out subsec. (c) which related to authorization and availability of appropriations.
 
 #### Effective Date of 2007 Amendment
 

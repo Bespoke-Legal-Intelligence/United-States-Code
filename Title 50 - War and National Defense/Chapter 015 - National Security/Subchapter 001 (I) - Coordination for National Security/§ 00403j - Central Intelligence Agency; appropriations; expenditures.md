@@ -14,7 +14,7 @@
 
 Section 14 of title 6, referred to in subsec. (a)(1), was repealed by Pub. L. 93–310, title II, §203(1), June 6, 1972, 86 Stat. 202.
 
-The reference to 36 Stat. 699; 40 U.S.C. 259, 267, in subsec. (a)(1), was probably meant to be a reference to section 3734 of the Revised Statutes. Section 33 of act June 25, 1910, ch. 383, which appears at 36 Stat. 699, amended generally section 3734 of the Revised Statutes which was classified to sections 259 and 267 of former Title 40, Public Buildings, Property, and Works. Section 3734 of the Revised Statutes was subsequently repealed by Pub. L. 86–249, §17(12), Sept. 9, 1959, 73 Stat. 485.
+The reference to 36 Stat. 699; 40 U.S.C. 259, 267, in subsec. (a)(1), was probably meant to be a reference to section 3734 of the Revised Statutes. Section 33 of act June 25, 1910, ch. 383, which appears at 36 Stat. 699, amended generally section 3734 of the Revised Statutes which was classified to sections 259 and 267 of former Title 40, Public Buildings, Property, and Works. Section 3734 ofthe Revised Statutes was subsequently repealed by Pub. L. 86–249, §17(12), Sept. 9, 1959, 73 Stat. 485.
 
 #### Codification
 

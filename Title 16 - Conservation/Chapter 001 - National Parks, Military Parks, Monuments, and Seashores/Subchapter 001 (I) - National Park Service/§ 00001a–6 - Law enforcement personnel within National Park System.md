@@ -50,7 +50,7 @@ Section is comprised of section 10 of Pub. L. 91–383, as added. Subsec. (a) of
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–352 made technical amendment to directory language of Pub. L. 106–437, §2. See 2000 Amendment note below.
+<b>2004</b>—Subsec. (c). Pub. L. 108–352 made technical amendment to directory language of Pub. L. 106–437, §2. See 2000 Amendment note below.
 
-2000—Subsec. (c). Pub. L. 106–437, §2, as amended by Pub. L. 108–352, struck out “and” at end of par. (2), added par. (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and in par. (5) substituted “The” for “(5) the” and aligned left margin with introductory provisions.
+<b>2000</b>—Subsec. (c). Pub. L. 106–437, §2, as amended by Pub. L. 108–352, struck out “and” at end of par. (2), added par. (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and in par. (5) substituted “The” for “(5) the” and aligned left margin with introductory provisions.
 

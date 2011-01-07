@@ -28,7 +28,7 @@ Any security may be registered with the Commission under the terms and condition
 
 #### (5) Annual adjustment
 
-&emsp;For each of the fiscal years 2003 through 2011, the Commission shall by order adjust the rate required by paragraph (2) for such fiscal year to a rate that, when applied to the baseline estimate of the aggregate maximum offering prices for such fiscal year, is reasonably likely to produce aggregate fee collections under this subsection that are equal to the target offsetting collection amount for such fiscal year.
+&emsp;For each of the fiscal years 2003 through 2011, the Commission shall by order adjust the rate required by paragraph (2) for such fiscal year to a rate that, when applied to the baseline estimate of the aggregate maximum offering prices for such fiscal year, is reasonably likely to produce aggregate fee collectionsunder this subsection that are equal to the target offsetting collection amount for such fiscal year.
 
 #### (6) Final rate adjustment
 
@@ -132,7 +132,56 @@ The filing with the Commission of a registration statement, or of an amendment t
 
 The information contained in or filed with any registration statement shall be made available to the public under such regulations as the Commission may prescribe, and copies thereof, photostatic or otherwise, shall be furnished to every applicant at such reasonable charge as the Commission may prescribe.
 
-(May 27, 1933, ch. 38, title I, §6, 48 Stat. 78; Pub. L. 89–289, §1, Oct. 22, 1965, 79 Stat. 1051; Pub. L. 100–181, title II, §205, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 104–290, title IV, §404, Oct. 11, 1996, 110 Stat. 3441; Pub. L. 107–123, §4, Jan. 16, 2002, 115 Stat. 2393.)
+(May 27, 1933, ch. 38, title I, §6, 48 Stat. 78; Pub. L. 89–289, §1, Oct. 22, 1965, 79 Stat. 1051; Pub. L. 100–181, title II, §205, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 104–290, title IV, §404, Oct. 11, 1996, 110 Stat. 3441; Pub. L. 107–123, §4, Jan. 16, 2002, 115 Stat. 2393; Pub. L. 111–203, title IX, §991(b)(1), July 21, 2010, 124 Stat. 1951.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 111–203, title IX, §991(b)(1), (4), July 21, 2010, 124 Stat. 1951, 1953, provided that, effective Oct. 1, 2011, subsection (b) of this section is amended as follows:</i>
+
+<i>(1) by striking “offsetting” each place that term appears and inserting “fee”;</i>
+
+<i>(2) by striking paragraphs (1), (3), (4), (6), (8), and (9);</i>
+
+<i>(3) by redesignating paragraphs (2), (5), (7), (10), and (11) as paragraphs (1), (2), (3), (5), and (6), respectively;</i>
+
+<i>(4) in paragraph (1), as so redesignated, by striking “paragraph (5) or (6).” and inserting “paragraph (2).”;</i>
+
+<i>(5) in paragraph (2), as so redesignated—</i>
+
+<i>(A) by striking “of the fiscal years 2003 through 2011” and inserting “fiscal year”; and</i>
+
+<i>(B) by striking “paragraph (2)” and inserting “paragraph (1)”;</i>
+
+<i>(6) by inserting after paragraph (3), as so redesignated, the following:</i>
+
+#### <i>“(4) Review and effective date</i>
+
+&emsp;<i>“In exercising its authority under this subsection, the Commission shall not be required to comply with the provisions of section 553 of title 5. An adjusted rate prescribed under paragraph (2) and published under paragraph (5) shall not be subject to judicial review. An adjusted rate prescribed under paragraph (2) shall take effect on the first day of the fiscal year to which such rate applies.”;</i>
+
+<i>(7) in paragraph (5), as so redesignated, by striking “April 30” and inserting “August 31”; and</i>
+
+<i>(8) in paragraph (6), as so redesignated—</i>
+
+<i>(A) by striking “of the fiscal years 2002 through 2011” and inserting “fiscal year”; and</i>
+
+<i>(B) by inserting at the end of the table in subparagraph (A) the following:</i>
+
+&nbsp;
+
+| &nbsp; | &nbsp; |
+| :--- | ---: |
+| &nbsp;<i>“2012</i> | <i>$425,000,000</i> |
+| &nbsp;<i>2013</i> | <i>$455,000,000</i> |
+| &nbsp;<i>2014</i> | <i>$485,000,000</i> |
+| &nbsp;<i>2015</i> | <i>$515,000,000</i> |
+| &nbsp;<i>2016</i> | <i>$550,000,000</i> |
+| &nbsp;<i>2017</i> | <i>$585,000,000</i> |
+| &nbsp;<i>2018</i> | <i>$620,000,000</i> |
+| &nbsp;<i>2019</i> | <i>$660,000,000</i> |
+| &nbsp;<i>2020</i> | <i>$705,000,000</i> |
+| &nbsp;<i>2021 and each fiscal year thereafter</i> | <i>An amount that is equal to the target fee collection amount for the prior fiscal year, adjusted by the rate of inflation.”</i> |
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -140,13 +189,17 @@ Sections 78m(e) and 78n(g) of this title, referred to in subsec. (b)(10), were i
 
 #### Amendments
 
-2002—Subsec. (b)(2) to (11). Pub. L. 107–123 added pars. (2) to (11) and struck out former pars. (2) to (5), which required fee payment, set out rates for general revenue and offsetting collection fees, and required pro rata rates for amounts and balances equal to less than $1,000,000.
+<b>2002</b>—Subsec. (b)(2) to (11). Pub. L. 107–123 added pars. (2) to (11) and struck out former pars. (2) to (5), which required fee payment, set out rates for general revenue and offsetting collection fees, and required pro rata rates for amounts and balances equal to less than $1,000,000.
 
-1996—Subsec. (b). Pub. L. 104–290 inserted heading and amended text of subsec. (b) generally. Prior to amendment, text read as follows: “At the time of filing a registration statement the applicant shall pay to the Commission a fee of one-fiftieth of 1 per centum of the maximum aggregate price at which such securities are proposed to be offered, but in no case shall such fee be less than $100.”
+<b>1996</b>—Subsec. (b). Pub. L. 104–290 inserted heading and amended text of subsec. (b) generally. Prior to amendment, text read as follows: “At the time of filing a registration statement the applicant shall pay to the Commission a fee of one-fiftieth of 1 per centum of the maximum aggregate price at which such securities are proposed to be offered, but in no case shall such fee be less than $100.”
 
-1987—Subsec. (e). Pub. L. 100–181 struck out subsec. (e) which provided that no registration statement should be filed within the first 40 days following May 27, 1933.
+<b>1987</b>—Subsec. (e). Pub. L. 100–181 struck out subsec. (e) which provided that no registration statement should be filed within the first 40 days following May 27, 1933.
 
-1965—Subsec. (b). Pub. L. 89–289 substituted “one-fiftieth” for “one one-hundredth” and “$100” for “$25”.
+<b>1965</b>—Subsec. (b). Pub. L. 89–289 substituted “one-fiftieth” for “one one-hundredth” and “$100” for “$25”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–203, title IX, §991(b)(4), July 21, 2010, 124 Stat. 1953, provided that: “The amendments made by this subsection \[amending this section and sections 78m and 78n of this title\] shall take effect on October 1, 2011, except that for fiscal year 2012, the \[Securities and Exchange\] Commission shall publish the rate established under section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)), as amended by this Act, on August 31, 2011.”
 
 #### Effective Date of 2002 Amendment
 

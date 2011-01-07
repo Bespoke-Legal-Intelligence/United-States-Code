@@ -6,7 +6,7 @@
 
 &emsp;Not later than 1 year after October 25, 1994, after consulting with State and local law enforcement agencies, telecommunications carriers, providers of telecommunications support services, and manufacturers of telecommunications equipment, and after notice and comment, the Attorney General shall publish in the Federal Register and provide to appropriate telecommunications industry associations and standard-setting organizations—
 
-&emsp;&emsp;(A) notice of the actual number of communication interceptions, pen registers, and trap and trace devices, representing a portion of the maximum capacity set forth under subparagraph (B), that the Attorney General estimates that government agencies authorized to conduct electronic surveillance may conduct and use simultaneously by the date that is 4 years after October 25, 1994; and
+&emsp;&emsp;(A) notice of the actual number of communication interceptions, pen registers, andtrap and trace devices, representing a portion of the maximum capacity set forth under subparagraph (B), that the Attorney General estimates that government agencies authorized to conduct electronic surveillance may conduct and use simultaneously by the date that is 4 years after October 25, 1994; and
 
 &emsp;&emsp;(B) notice of the maximum capacity required to accommodate all of the communication interceptions, pen registers, and trap and trace devices that the Attorney General estimates that government agencies authorized to conduct electronic surveillance may conduct and use simultaneously after the date that is 4 years after October 25, 1994.
 
@@ -30,7 +30,7 @@
 
 #### (2) Expansion to maximum capacity
 
-&emsp;After the date described in paragraph (1), a telecommunications carrier shall, subject tosubsection (e) of this section, ensure that it can accommodate expeditiously any increase in the actual number of communication interceptions, pen registers, and trap and trace devices that authorized agencies may seek to conduct and use, up to the maximum capacity requirement set forth in the notice under subsection (a)(1)(B) of this section.
+&emsp;After the date described in paragraph (1), a telecommunications carrier shall, subject to subsection (e) of this section, ensure that it can accommodate expeditiously any increase in the actual number of communication interceptions, pen registers, and trap and trace devices that authorized agencies may seek to conduct and use, up to the maximum capacity requirement set forth in the notice under subsection (a)(1)(B) of this section.
 
 #### (c) Notices of increased maximum capacity requirements
 

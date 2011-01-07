@@ -8,7 +8,7 @@
 
 &emsp;(2) The planned procurement schedule, including the best estimate of the Secretary of Defense of the annual costs and units to be procured until procurement is completed.
 
-&emsp;(3) To the extent required by the second sentence of subsection (a), the result of all operational testing and evaluation up to the time of the submission of the documents, or, if operational testing and evaluation has notbeen conducted, a statement of the reasons therefor and the results of such other testing and evaluation as has been conducted.
+&emsp;(3) To the extent required by the second sentence of subsection (a), the result of all operational testing and evaluation up to the time of the submission of the documents, or, if operational testing and evaluation has not been conducted, a statement of the reasons therefor and the results of such other testing and evaluation as has been conducted.
 
 &emsp;(4)(A) The most efficient production rate, the most efficient acquisition rate, and the minimum sustaining rate, consistent with the program priority established for such weapon system by the Secretary concerned.
 
@@ -28,13 +28,13 @@ Provisions similar to those in this section were contained in Pub. L. 92–156, 
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–106, §4321(b)(18)(A)(i), substituted “Any documents” for “Any report” in first sentence.
+<b>1996</b>—Subsec. (b). Pub. L. 104–106, §4321(b)(18)(A)(i), substituted “Any documents” for “Any report” in first sentence.
 
 Subsec. (b)(3). Pub. L. 104–106, §4321(b)(18)(A)(ii), substituted “the documents” for “the report”.
 
 Subsec. (c). Pub. L. 104–106, §4321(b)(18)(B), substituted “documentation” for “reporting”.
 
-1994—Subsec. (a). Pub. L. 103–355, §3001(a), substituted “not later than 45 days after” for “at the same time” and “budget justification documents” for “a written report” in first sentence and “documents” for “report” in second and third sentences.
+<b>1994</b>—Subsec. (a). Pub. L. 103–355, §3001(a), substituted “not later than 45 days after” for “at the same time” and “budget justification documents” for “a written report” in first sentence and “documents” for “report” in second and third sentences.
 
 Subsec. (b). Pub. L. 103–355, §3001(b)(1), substituted “include each of the following:” for “include—” in introductory provisions.
 
@@ -42,39 +42,39 @@ Subsec. (b)(1) to (3). Pub. L. 103–355, §3001(b)(2)–(4), capitalized first 
 
 Subsec. (b)(4). Pub. L. 103–355, §3001(b)(5) amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the most efficient production rate and the most efficient acquisition rate consistent with the program priority established for such weapon system by the Secretary concerned.”
 
-1990—Subsec. (b). Pub. L. 101–510, §1484(f)(3), substituted “covered and shall specifically include” for “covered, and specifically include, but not be limited to” in introductory provisions.
+<b>1990</b>—Subsec. (b). Pub. L. 101–510, §1484(f)(3), substituted “covered and shall specifically include” for “covered, and specifically include, but not be limited to” in introductory provisions.
 
 Pub. L. 101–510, §1301(13), redesignated subsec. (c) as (b), struck out “or (b)” after “under subsection (a)”, and struck out former subsec. (b) which read as follows: “The Secretary of Defense shall submit a supplemental report to Congress not less than 30, or more than 90, days before the award of any contract, or the exercise of any option in a contract, for the procurement of any such weapon system (other than procurement of units for operational testing and evaluation, or long lead-time items, or both), unless—
 
 &emsp;“(1) the contractor or contractors for that system have not yet been selected and the Secretary of Defense determines that the submission of that report would adversely affect the source selection process and notifies Congress in writing, prior to such award, of that determination, stating his reasons therefor; or
 
-&emsp;“(2) the Secretary of Defense determines that the submission of that report would otherwise adversely affect the vital security interests of the United States and notifies Congress in writing of that determination at least 30 days prior to the award, stating his reasons therefor.”
+&emsp;“(2) the Secretary of Defense determines that the submission of that report would otherwise adversely affect the vital security interests of the UnitedStates and notifies Congress in writing of that determination at least 30 days prior to the award, stating his reasons therefor.”
 
 Subsecs. (c), (d). Pub. L. 101–510, §1301(13)(C), redesignated subsecs. (c) and (d) as (b) and (c), respectively.
 
-1987—Pub. L. 100–180 made technical amendment to directory language of Pub. L. 99–433, §101(a)(5). See 1986 Amendment note below.
+<b>1987</b>—Pub. L. 100–180 made technical amendment to directory language of Pub. L. 99–433, §101(a)(5). See 1986 Amendment note below.
 
-1986—Pub. L. 99–433, §101(a)(5), as amended by Pub. L. 100–180, §1314(a)(1), renumbered section 139 of this title as this section.
+<b>1986</b>—Pub. L. 99–433, §101(a)(5), as amended by Pub. L. 100–180, §1314(a)(1), renumbered section 139 of this title as this section.
 
 Pub. L. 99–433, §110(d)(12), substituted “Weapons development and procurement schedules” for “Secretary of Defense: weapons development and procurement schedules for armed forces; reports; supplemental reports” in section catchline.
 
 Subsec. (a). Pub. L. 99–433, §110(g)(6), substituted “section 114(a)” for “section 138(a)”.
 
-1984—Subsec. (b). Pub. L. 98–525, §1405(3)(B), substituted “30” for “thirty” and “90” for “ninety” in introductory text.
+<b>1984</b>—Subsec. (b). Pub. L. 98–525, §1405(3)(B), substituted “30” for “thirty” and “90” for “ninety” in introductory text.
 
 Subsec. (b)(2). Pub. L. 98–525, §1405(3)(A), substituted “30” for “thirty”.
 
-1982—Subsec. (a). Pub. L. 97–258 substituted “section 1105 of title 31” for “section 201 of the Budget and Accounting Act, 1921 (31 U.S.C. 11)”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–258 substituted “section 1105 of title 31” for “section 201 of the Budget and Accounting Act, 1921 (31 U.S.C. 11)”.
 
-1981—Subsec. (c)(4). Pub. L. 97–86 added par. (4).
+<b>1981</b>—Subsec. (c)(4). Pub. L. 97–86 added par. (4).
 
-1980—Subsec. (a). Pub. L. 96–513 substituted “section 201 of the Budget and Accounting Act, 1921 (31 U.S.C. 11)” for “section 11 of title 31”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “section 201 of the Budget and Accounting Act, 1921 (31 U.S.C. 11)” for “section 11 of title 31”.
 
-1975—Subsec. (b). Pub. L. 94–106 substituted “or more than ninety, days before” for “or more than sixty, days before”.
+<b>1975</b>—Subsec. (b). Pub. L. 94–106 substituted “or more than ninety, days before” for “or more than sixty, days before”.
 
 #### Effective Date of 1996 Amendment
 
-For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2302 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -84,11 +84,47 @@ Amendment by Pub. L. 100–180 applicable as if included in enactment of the Gol
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
+#### Limitation on Availability of Funds for Missile Defense Interceptors in Europe
+
+Pub. L. 111–383, div. A, title II, §223(a)–(d), Jan. 7, 2011, 124 Stat. 4168, 4169, provided that:
+
+“(a)
+
+Limitation on Construction and Deployment of Interceptors.—No funds authorized to be appropriated by this Act \[see Tables for classification\] or otherwise made available for the Department of Defense for fiscal year 2011 or any fiscal year thereafter may be obligated or expended for site activation, construction, or deployment of missile defense interceptors on European land as part of the phased, adaptive approach to missile defense in Europe until—
+
+&emsp;“(1) any nation agreeing to host such system has signed and ratified a missile defense basing agreement and a status of forces agreement authorizing the deployment of such interceptors; and
+
+&emsp;“(2) a period of 45 days has elapsed following the date on which the Secretary of Defense submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the report on the independent assessment of alternative missile defense systems in Europe required by section 235(c)(2) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2235).
+
+“(b)
+
+Limitation on Procurement or Deployment of Interceptors.—No funds authorized to be appropriated by this Act or otherwise made available for the Department of Defense for fiscal year 2011 or any fiscal year thereafter may be obligated or expended for the procurement (other than initial long-lead procurement) or deployment of operational missiles on European land as part of the phased, adaptive approach to missile defense in Europe until the Secretary of Defense, after receiving the views of the Director of Operational Test and Evaluation, submits to the congressional defense committees a report certifying that the proposed interceptor to be deployed as part of such missile defense system has demonstrated, through successful, operationally realistic flight testing, a high probability of working in an operationally effective manner and that such missile defense system has the ability to accomplish the mission.
+
+“(c)
+
+Waiver.—The Secretary of Defense may waive the limitations in subsections (a) and (b) if—
+
+&emsp;“(1) the Secretary submits to the congressional defense committees written certification that the waiver is in the urgent national security interests of the United States; and
+
+&emsp;“(2) a period of seven days has elapsed following the date on which the certification under paragraph (1) is submitted.
+
+“(d)
+
+Construction.—Nothing in this section shall be construed so as to limit the obligation and expenditure of funds for any missile defense activities not otherwise limited by subsection (a) or (b), including, with respect to the planned deployments of missile defense interceptors on European land as part of the phased, adaptive approach to missile defense in Europe—
+
+&emsp;“(1) research, development, test and evaluation;
+
+&emsp;“(2) site surveys;
+
+&emsp;“(3) studies and analyses; and
+
+&emsp;“(4) site planning and design and construction design.”
+
 #### Limitation on Availability of Funds for Procurement, Construction, and Deployment of Missile Defenses in Europe
 
-Pub. L. 111–84, div. A, title II, §234, Oct. 28, 2009, 123 Stat. 2234, provided that: “No funds authorized to be appropriated by this Act \[see Tables for classification\] or otherwise made available for the Department of Defense for fiscal year 2010 or any fiscal year thereafter may be obligated or expended for the acquisition (other than initial long-lead procurement) or deployment of operational missiles of a long-range missile defense system in Europe until the Secretary of Defense, after receiving the views of the Director of Operational Test and Evaluation, submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report certifying that the proposed interceptor to be deployed as part of such missile defense system has demonstrated, through successful, operationally realistic flight testing, a high probability of working in an operationally effective manner and that such missile defense system has the ability to accomplish the mission.”
+Pub. L. 111–84, div. A, title II, §234, Oct. 28, 2009, 123 Stat. 2234, set forth reporting requirements for the use of Department of Defense funds for the acquisition or deployment of operational missiles of a long-range missile defense system in Europe, prior to repeal by Pub. L. 111–383, div. A, title II, §223(e), Jan. 7, 2011, 124 Stat. 4169.
 
-Pub. L. 110–417, \[div. A\], title II, §233, Oct. 14, 2008, 122 Stat. 4393, provided that:
+Pub. L. 110–417, \[div. A\], title II, §233, Oct. 14, 2008, 122 Stat. 4393, as amended by Pub. L. 111–383, div. A, title X, §1075(e)(3), Jan. 7, 2011, 124 Stat. 4374, provided that:
 
 “(a)
 
@@ -102,7 +138,7 @@ General Limitation.—No funds authorized to be appropriated by this Act \[see T
 
 &emsp;&emsp;“(B) the host nation has signed and ratified the missile defense basing agreement and status of forces agreement that allow for the stationing in such nation of the interceptor site and personnel to carry out the proposed deployment.
 
-&emsp;“(3) In the case of either element of such missile defense system described in paragraph (1) or (2), 45 days have elapsed following the receipt by the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] of the report required by section 226(c)(6) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 42 \[43\]).
+&emsp;“(3) In the case of either element of such missile defense system described in paragraph (1) or (2), 45 days have elapsed following the receipt by the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and theHouse of Representatives\] of the report required by section 226(c)(6) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 43).
 
 “(b)
 
@@ -324,7 +360,7 @@ Content.—Information provided under subsection (a) on the results of a flight 
 
 #### Missile Defense Agency Test Program
 
-Pub. L. 107–107, div. A, title II, §232(c)–(h), Dec. 28, 2001, 115 Stat. 1037–1039, as amended by Pub. L. 107–314, div. A, title II, §225(b)(2)(A), Dec. 2, 2002, 116 Stat. 2486; Pub. L. 108–136, div. A, title II, §221(b)(2), (c)(2), Nov. 24, 2003, 117 Stat. 1419; Pub. L. 108–375, div. A, title II, §233, Oct. 28, 2004, 118 Stat. 1836; Pub. L. 109–163, div. A, title II, §232, Jan. 6, 2006, 119 Stat. 3174; Pub. L. 109–364, div. A, title II, §224, Oct. 17, 2006, 120 Stat. 2130; Pub. L. 110–181, div. A, title II, §225, Jan. 28, 2008, 122 Stat. 41; Pub. L. 110–417, \[div. A\], title II, §231(a), (b), Oct. 14, 2008, 122 Stat. 4390, 4391, provided that:
+Pub. L. 107–107, div. A, title II, §232(c)–(h), Dec. 28, 2001, 115 Stat. 1037–1039, as amended by Pub. L. 107–314, div. A, title II, §225(b)(2)(A), Dec. 2, 2002, 116 Stat. 2486; Pub. L. 108–136, div. A, title II, §221(b)(2), (c)(2), Nov. 24, 2003, 117 Stat. 1419; Pub. L. 108–375, div. A, title II, §233, Oct. 28, 2004, 118 Stat. 1836; Pub. L. 109–163, div. A, title II, §232, Jan. 6, 2006, 119 Stat. 3174; Pub. L. 109–364, div. A, title II, §224, Oct. 17, 2006, 120 Stat. 2130; Pub. L. 110–181, div. A, title II, §225, Jan. 28, 2008, 122 Stat. 41; Pub. L. 110–417, \[div. A\], title II, §231(a), (b), Oct. 14, 2008, 122 Stat. 4390, 4391; Pub. L. 111–383, div. A, title X, §1075(e)(2), Jan. 7, 2011, 124 Stat. 4374, provided that:
 
 “(c)
 
@@ -336,7 +372,7 @@ Requirement for Annual Program Goals.—(1) The Secretary of Defense shall each 
 
 “(d)
 
-Annual Program Plan.—(1) With the submission of the statement of goals under subsection (c) for any year, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and theHouse of Representatives\] a program of activities planned to be carried out for each missile defense program that enters engineering and manufacturing development (as defined in section 223(b)(2) of title 10, United States Code, as added by subsection (b)).
+Annual Program Plan.—(1) With the submission of the statement of goals under subsection (c) for any year, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a program of activities planned to be carried out for each missile defense program that enters engineering and manufacturing development (as defined in section 223(b)(2) of title 10, United States Code, as added by subsection (b)).
 
 “(2) Each program plan under paragraph (1) shall include the following:
 
@@ -401,14 +437,6 @@ Annual OT\&E Assessment and Characterization of Certain Ballistic Missile Defens
 “(3) Not later than February 15 each year the Director shall submit to the congressional defense committees a report on the assessment under paragraph (1) and the characterization under paragraph (2) with respect to the preceding fiscal year.”
 
 \[Pub. L. 110–417, \[div. A\], title II, §231(c), Oct. 14, 2008, 122 Stat. 4391, provided that: “The amendments made by this section \[amending Pub. L. 107–107, §232(h), set out above\] shall take effect on October 1, 2008, and shall apply with respect to fiscal years beginning on or after that date.”\]
-
-\[Pub. L. 110–417, \[div. A\], title II, §231(b), Oct. 14, 2008, 122 Stat. 4391, which directed amendment of heading of “such section” to read as follows: “
-
-Annual OT\&E Assessment and Characterization of Certain Ballistic Missile Defense Matters.—”, was executed by substituting “
-
-Annual OT\&E Assessment and Characterization of Certain Ballistic Missile Defense Matters.—” for “
-
-Annual OT\&E Assessment of Test Program.—” in section 232(h) of Pub. L. 107–107, set out above, to reflect the probable intent of Congress.\]
 
 #### Missile Defense Testing Initiative
 
@@ -568,7 +596,7 @@ Establishment of Core Program.—To implement the policy established in paragrap
 
 “(b)
 
-Use of Streamlined Acquisition Procedures.—The Secretary of Defense shall prescribe and use streamlined acquisition policies and procedures to reduce the cost and increase the efficiency of developing and deploying the theater missile defense systems specified in subsection (a).
+Use of Streamlined Acquisition Procedures.—The Secretary of Defense shall prescribe and use streamlined acquisition policies and procedures to reduce the cost and increase the efficiency of developingand deploying the theater missile defense systems specified in subsection (a).
 
 “(c)
 
@@ -610,7 +638,7 @@ Findings.—(1) Congress hereby reaffirms—
 
 &emsp;“(B) the statement in section 232 of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 108 Stat. 2700) that the United States shall not be bound by any international agreement entered into by the President that would substantively modify the ABM Treaty unless the agreement is entered into pursuant to the treaty making power of the President under the Constitution.
 
-“(2) Congress also finds that the demarcation standard described in subsection (b)(1) for compliance of amissile defense system, system upgrade, or system component with the ABM Treaty is based upon current technology.
+“(2) Congress also finds that the demarcation standard described in subsection (b)(1) for compliance of a missile defense system, system upgrade, or system component with the ABM Treaty is based upon current technology.
 
 “(b)
 
@@ -648,7 +676,7 @@ Qualifying Flight Test Defined.—For purposes of this section, an ABM-qualifyin
 
 &emsp;“(1) to pursue high-level discussions with allies of the United States and selected other states on the means and methods by which the parties on a bilateral basis can cooperate in the development, deployment, and operation of ballistic missile defenses;
 
-&emsp;“(2) to take the initiative within the North Atlantic Treaty Organization to develop consensus in the Alliance for a timely deployment of effective ballistic missile defenses by the Alliance; and
+&emsp;“(2) to take the initiative within the North Atlantic Treaty Organization to develop consensus in theAlliance for a timely deployment of effective ballistic missile defenses by the Alliance; and
 
 &emsp;“(3) in the interim, to seek agreement with allies of the United States and selected other states on steps the parties should take, consistent with their national interests, to reduce the risks posed by the threat of limited ballistic missile attacks, such steps to include—
 
@@ -690,7 +718,7 @@ Compliance Review for Brilliant Eyes.—The Secretary of Defense shall review th
 
 Compliance Review for Navy Upper Tier System.—(1) The Secretary of Defense shall review the theater ballistic missile program known as the Navy Upper Tier program to determine whether the development, testing, and deployment of the system being developed under that program would be in compliance with the ABM Treaty, including the interpretation of the Treaty set forth in the enclosure to the July 13, 1993, ACDA letter.
 
-“(2) Of the funds made available to the Department of Defense for fiscal year 1995, not more than $40,000,000 may be obligated for the Navy Upper Tier program before the date on which the Secretary submits to the appropriate congressional committees a report on the compliance of that program with the ABM Treaty, asdetermined under the compliance review under paragraph (1).
+“(2) Of the funds made available to the Department of Defense for fiscal year 1995, not more than $40,000,000 may be obligated for the Navy Upper Tier program before the date on which the Secretary submits to the appropriate congressional committees a report on the compliance of that program with the ABM Treaty, as determined under the compliance review under paragraph (1).
 
 “(e)
 
@@ -822,7 +850,7 @@ Pub. L. 102–484, div. A, title II, §231, Oct. 23, 1992, 106 Stat. 2354, provi
 
 “(a)
 
-Establishment of Theater Missile Defense Initiative.—The Secretary of Defense shall establish a Theater Missile Defense Initiative office within the Department of Defense. All theater and tactical missile defense activities of the Department of Defense (including all programs, projects, and activities formerly associated with the Theater Missile Defense program element of the Strategic Defense Initiative) shall be carried out under the Theater Missile Defense Initiative.
+Establishment of Theater Missile Defense Initiative.—The Secretary of Defense shall establish aTheater Missile Defense Initiative office within the Department of Defense. All theater and tactical missile defense activities of the Department of Defense (including all programs, projects, and activities formerly associated with the Theater Missile Defense program element of the Strategic Defense Initiative) shall be carried out under the Theater Missile Defense Initiative.
 
 “(b)
 
@@ -860,37 +888,7 @@ Pub. L. 100–456, div. A, title I, §117, 102 Stat. 1933, as amended by Pub. L.
 
 #### Prohibition of Certain Contracts With Foreign Entities
 
-Section 222 of Pub. L. 100–180 provided that:
-
-“(a)
-
-SDI Contracts With Foreign Entities.—Funds appropriated to or for the use of the Department of Defense may not be used for the purpose of entering into or carrying out any contract with a foreign government or a foreign firm if the contract provides for the conduct of research, development, test, or evaluationin connection with the Strategic Defense Initiative program.
-
-“(b)
-
-Temporary Suspension of Prohibition Upon Certification of the Secretary of Defense.—The prohibition in subsection (a) shall not apply to a contract in any fiscal year if the Secretary of Defense certifies to Congress in writing at any time during such fiscal year that the research, development, testing, or evaluation to be performed under such contract cannot be competently performed by a United States firm at a price equal to or less than the price at which the research, development, testing, or evaluation would be performed by a foreign firm.
-
-“(c)
-
-Exceptions for Certain Contracts.—The prohibition in subsection (a) shall not apply to a contract awarded to a foreign government or foreign firm if—
-
-&emsp;“(1) the contract is to be performed within the United States;
-
-&emsp;“(2) the contract is exclusively for research, development, test, or evaluation in connection with antitactical ballistic missile systems; or
-
-&emsp;“(3) that foreign government or foreign firm agrees to share a substantial portion of the total contract cost.
-
-“(d)
-
-Definitions.—In this section:
-
-&emsp;“(1) The term ‘foreign firm’ means a business entity owned or controlled by one or more foreign nationals or a business entity in which more than 50 percent of the stock is owned or controlled by one or more foreign nationals.
-
-&emsp;“(2) The term ‘United States firm’ means a business entity other than a foreign firm.
-
-“(e)
-
-Transition.—The prohibition in subsection (a) shall not apply to a contract entered into before the date of the enactment of this Act \[Dec. 4, 1987\].”
+Pub. L. 100–180, div. A, title II, §222, Dec. 4, 1987, 101 Stat. 1055, prohibited use of appropriated funds for certain Strategic Defense Initiative program contracts with foreign entities, prior to repeal by Pub. L. 111–383, div. A, title II, §222, Jan. 7, 2011, 124 Stat. 4168.
 
 #### Limitation on Transfer of Certain Military Technology to Independent States of Former Soviet Union
 
@@ -966,7 +964,7 @@ Pub. L. 98–473, title I, §101(h) \[title VIII, §8100\], Oct. 12, 1984, 98 S
 
 &emsp;“(1) that the United States is endeavoring, in good faith, to negotiate with the Soviet Union a mutual and verifiable agreement with the strictest possible limitations on anti-satellite weapons consistent with the national security interests of the United States;
 
-&emsp;“(2) that, pending agreement on such strict limitations, testing against objects in space of the F–15 launched miniature homing vehicle anti-satellite warhead by the United States is necessary to avert clear and irrevocable harm to the national security;
+&emsp;“(2) that, pending agreement on such strict limitations, testing against objects in space of the F–15 launched miniature homing vehicle anti-satellitewarhead by the United States is necessary to avert clear and irrevocable harm to the national security;
 
 &emsp;“(3) that such testing would not constitute an irreversible step that would gravely impair prospects for negotiations on anti-satellite weapons; and
 
@@ -1030,7 +1028,7 @@ Pub. L. 96–342, title II, §202, Sept. 8, 1980, 94 Stat. 1079, provided that:
 
 Pub. L. 96–29, title II, §202, June 27, 1979, 93 Stat. 79, provided that:
 
-“(a) It is the sense of the Congress that maintaining a survivable land-based intercontinental ballistic missile system is vital to the security of the United States and that development of a new basing mode for land-based intercontinental ballistic missiles is necessary to assure the survivability of the land-based system. To this end, the development of the MX missile, together with a new basing mode for such missile, should proceed so as to achieve Initial Operational Capability (IOC) for both such missile and such basing mode at the earliest practicable date.
+“(a) It is the sense of the Congress that maintaining a survivable land-based intercontinental ballistic missile system is vital to the security of the United States and that development of a new basing mode for land-based intercontinental ballistic missiles is necessary to assure the survivability of the land-based system. To this end, the development of the MX missile, together with a new basing mode for such missile, should proceed so as to achieve Initial Operational Capability\(IOC) for both such missile and such basing mode at the earliest practicable date.
 
 “(b) In addition, it is the sense of the Congress that the basing mode for the MX missile should be restricted to location on the least productive land available that is suitable for such purpose.
 
@@ -1048,7 +1046,7 @@ Section 608 of Pub. L. 93–552, title VI, Dec. 27, 1974, 88 Stat. 1763, provide
 
 “(a) The Secretary of Defense is authorized to assist communities located near the TRIDENT Support Site Bangor, Washington, in meeting the costs of providing increased municipal services and facilities to the residents of such communities, if the Secretary determines that there is an immediate and substantial increase in the need for such services and facilities in such communities as a direct result of work being carried out in connection with the construction, installation, testing, and operation of the TRIDENT Weapon System and that an unfair and excessive financial burden will be incurred by such communities as a result of the increased need for such services and facilities.
 
-“(b) The Secretary of Defense shall carry out the provisions of this section through existing Federal programs. The Secretary is authorized to supplementfunds made available under such Federal programs to the extent necessary to carry out the provisions of this section, and is authorized to provide financial assistance to communities described in subsection (a) of this section to help such communities pay their share of the costs under such programs. The heads of all departments and agencies concerned shall cooperate fully with the Secretary of Defense in carrying out the provisions of this section on a priority basis.
+“(b) The Secretary of Defense shall carry out the provisions of this section through existing Federal programs. The Secretary is authorized to supplement funds made available under such Federal programs to the extent necessary to carry out the provisions of this section, and is authorized to provide financial assistance to communities described in subsection (a) of this section to help such communities pay their share of the costs under such programs. The heads of all departments and agencies concerned shall cooperate fully with the Secretary of Defense in carrying out the provisions of this section on a priority basis.
 
 “(c) In determining the amount of financial assistance to be made available under this section to any local community for any community service or facility, the Secretary of Defense shall consult with the head of the department or agency of the Federal Government concerned with the type of service or facility for which financial assistance is being made available and shall take into consideration (1) the time lag between the initial impact of increased population in any such community and any increase in the local tax base which will result from such increased population, (2) the possible temporary nature of the increased population and the long-range cost impact on the permanent residents of any such community, and (3) such other pertinent factors as the Secretary of Defense deems appropriate.
 

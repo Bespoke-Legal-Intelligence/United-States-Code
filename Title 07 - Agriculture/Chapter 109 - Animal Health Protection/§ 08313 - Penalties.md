@@ -76,6 +76,10 @@ Subject to the approval of the Attorney General, the Secretary shall establish g
 
 (Pub. L. 107–171, title X, §10414, May 13, 2002, 116 Stat. 504; Pub. L. 110–234, title XI, §11012(a), May 22, 2008, 122 Stat. 1360; Pub. L. 110–246, §4(a), title XI, §11012(a), June 18, 2008, 122 Stat. 1664, 2122.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original “this subtitle”, meaning subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -90,5 +94,5 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Transfer of Functions
 
-For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

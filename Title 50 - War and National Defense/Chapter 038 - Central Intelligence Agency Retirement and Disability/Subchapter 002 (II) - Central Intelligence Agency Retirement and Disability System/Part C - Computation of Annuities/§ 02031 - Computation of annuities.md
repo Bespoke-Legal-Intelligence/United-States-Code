@@ -66,7 +66,7 @@
 
 #### (2) Amount of reduction in participant's annuity
 
-&emsp;The annuity of a participant or former participant providing a survivor annuity under this section (or section 2032(b) of this title), excluding any portion of the annuity not designated or committed as a base for any survivor annuity, shall be reduced by 21/2 percent of the first $3,600 plus 10 percent of any amount over $3,600. The reduction under this paragraph shall be calculated before any reduction under section 2032(a)(5) of this title.
+&emsp;The annuity of a participant or former participant providing a survivor annuity under this section (or section 2032(b) of this title), excluding any portion of the annuity not designated or committed as a base for any survivor annuity, shall be reduced by 2½ percent of the first $3,600 plus 10 percent of any amount over $3,600. The reduction under this paragraph shall be calculated before any reduction under section 2032(a)(5) of this title.
 
 #### (3) Amount of surviving spouse annuity
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;&emsp;(ii) elects at that time (in accordance with subsection (b) of this section) to waive a survivor annuity for the spouse,
 
-> &emsp;&emsp;may, during the 18-month period beginning on the date of the retirement of the participant, elect to have a reduction under subsection (b) of this section made in the annuity of the participant (or in such portion thereof as the participant may designate) in order to provide a survivor annuity for the participant's spouse.
+> &emsp;&emsp;may, during the 18-month period beginning on the date of the retirement of the participant, elect to have a reduction under subsection (b) of this section made in the annuity of the participant (or in such portion thereof as the participant may designate) inorder to provide a survivor annuity for the participant's spouse.
 
 #### (B) Election when reduced spouse annuity elected
 
@@ -270,7 +270,7 @@
 
 #### (1) Spouse of recalled annuitant
 
-&emsp;A married recalled annuitant who reverts to retired status with entitlement to a supplemental annuity under section 2111(b) of thistitle shall, unless the annuitant and the annuitant's spouse jointly elect in writing to the contrary at the time of reversion to retired status, have the supplemental annuity reduced by 10 percent to provide a supplemental survivor annuity for the annuitant's spouse. Such supplemental survivor annuity shall be equal to 55 percent of the supplemental annuity of the annuitant.
+&emsp;A married recalled annuitant who reverts to retired status with entitlement to a supplemental annuity under section 2111(b) of this title shall, unless the annuitant and the annuitant's spouse jointly elect in writing to the contrary at the time of reversion to retired status, have the supplemental annuity reduced by 10 percent to provide a supplemental survivor annuity for the annuitant's spouse. Such supplemental survivor annuity shall be equal to 55 percent of the supplemental annuity of the annuitant.
 
 #### (2) Regulations
 
@@ -318,7 +318,7 @@ A prior section 221 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1045;
 
 #### Amendments
 
-1993—Subsec. (a)(4). Pub. L. 103–178, §202(a)(4)(A), struck out “(or, in the case of an annuity computed under section 2052 of this title and based on less than 3 years, over the total service)” after “years of the participant's service”.
+<b>1993</b>—Subsec. (a)(4). Pub. L. 103–178, §202(a)(4)(A), struck out “(or, in the case of an annuity computed under section 2052 of this title and based on less than 3 years, over the total service)” after “years of the participant's service”.
 
 Subsec. (f)(1)(A). Pub. L. 103–178, §202(a)(4)(B), inserted “after the participant's death” after “under the system” and struck out “after the participant's death” after “participant's reduced annuity”.
 

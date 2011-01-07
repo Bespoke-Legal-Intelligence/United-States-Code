@@ -52,29 +52,29 @@ Section was formerly classified to section 316 of title 37 prior to the general 
 
 #### Amendments
 
-2001—Subsec. (a)(17). Pub. L. 107–107 added cl. (17).
+<b>2001</b>—Subsec. (a)(17). Pub. L. 107–107 added cl. (17).
 
-1997—Subsec. (a)(16). Pub. L. 105–85 added cl. (16).
+<b>1997</b>—Subsec. (a)(16). Pub. L. 105–85 added cl. (16).
 
-1985—Subsec. (a)(15). Pub. L. 99–117 added cl. (15).
+<b>1985</b>—Subsec. (a)(15). Pub. L. 99–117 added cl. (15).
 
-1980—Subsec. (a)(3). Pub. L. 96–513 inserted reference to section 1370 of title 10.
+<b>1980</b>—Subsec. (a)(3). Pub. L. 96–513 inserted reference to section 1370 of title 10.
 
-1979—Subsec. (a)(12) to (14). Pub. L. 96–76 added cls. (12) to (14).
+<b>1979</b>—Subsec. (a)(12) to (14). Pub. L. 96–76 added cls. (12) to (14).
 
-1972—Subsec. (a)(5). Pub. L. 92–425 substituted “Retired Serviceman's Family Protection Plan; Survivor Benefit Plan” for “Annuities Based on Retired or Retainer Pay”.
+<b>1972</b>—Subsec. (a)(5). Pub. L. 92–425 substituted “Retired Serviceman's Family Protection Plan; Survivor Benefit Plan” for “Annuities Based on Retired or Retainer Pay”.
 
-1966—Subsec. (a)(11). Pub. L. 89–538 added cl. (11).
+<b>1966</b>—Subsec. (a)(11). Pub. L. 89–538 added cl. (11).
 
-1964—Subsec. (a)(10). Pub. L. 88–431 added cl. (10).
+<b>1964</b>—Subsec. (a)(10). Pub. L. 88–431 added cl. (10).
 
-1963—Subsec. (b). Pub. L. 88–132 inserted reference to Secretary of Defense.
+<b>1963</b>—Subsec. (b). Pub. L. 88–132 inserted reference to Secretary of Defense.
 
-1962—Subsec. (a). Pub. L. 87–555 added cl. (9). Notwithstanding directory language that section be amended by “adding the following new clause at the end thereof”, the amendment was executed to subsec. (a) to reflect the probable intent of Congress since the “new” clause was numbered “(9)” and subsec. (a) contained cls. (1) to (8).
+<b>1962</b>—Subsec. (a). Pub. L. 87–555 added cl. (9). Notwithstanding directory language that section be amended by “adding the following new clause at the end thereof”, the amendment was executed to subsec. (a) to reflect the probable intent of Congress since the “new” clause was numbered “(9)” and subsec. (a) contained cls. (1) to (8).
 
-1959—Subsec. (a). Pub. L. 86–160 added cl. (1) and renumbered former cls. (1) to (7) as (2) to (8).
+<b>1959</b>—Subsec. (a). Pub. L. 86–160 added cl. (1) and renumbered former cls. (1) to (7) as (2) to (8).
 
-1958—Subsec. (a). Pub. L. 85–861 substituted “provisions” for “chapters” in opening clause, struck out former cl. (1) which related to chapter 55 of title 10, renumbered former cls. (2) to (6) as (1) to (5), amended cl. (1), as renumbered, to make sections 1201 to 1203 of title 10, inapplicable to commissioned officers of the Public Health Service who have been ordered to active duty for training for a period of more than 30 days, inserted a reference to section 1374 of title 10 in cl. (2), as renumbered, struck out “Care of the Dead” after “Benefits” in cl. (5), as renumbered, and added cl. (6).
+<b>1958</b>—Subsec. (a). Pub. L. 85–861 substituted “provisions” for “chapters” in opening clause, struck out former cl. (1) which related to chapter 55 of title 10, renumbered former cls. (2) to (6) as (1) to (5), amended cl. (1), as renumbered, to make sections 1201 to 1203 of title 10, inapplicable to commissioned officers of the PublicHealth Service who have been ordered to active duty for training for a period of more than 30 days, inserted a reference to section 1374 of title 10 in cl. (2), as renumbered, struck out “Care of the Dead” after “Benefits” in cl. (5), as renumbered, and added cl. (6).
 
 #### Effective Date of 1997 Amendment
 

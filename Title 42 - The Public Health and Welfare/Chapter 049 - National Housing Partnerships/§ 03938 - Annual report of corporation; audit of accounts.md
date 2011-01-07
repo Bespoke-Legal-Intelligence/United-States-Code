@@ -10,7 +10,7 @@
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–479 designated existing provisions as par. (1) and added par. (2).
+<b>1984</b>—Subsec. (a). Pub. L. 98–479 designated existing provisions as par. (1) and added par. (2).
 
 #### Termination of Reporting Requirements
 

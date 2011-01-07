@@ -46,5 +46,5 @@ Another section 2395 was renumbered section 2396 of this title.
 
 #### Amendments
 
-1982—Pub. L. 97–295 struck out “and the construction of military public works” after “supplies”.
+<b>1982</b>—Pub. L. 97–295 struck out “and the construction of military public works” after “supplies”.
 

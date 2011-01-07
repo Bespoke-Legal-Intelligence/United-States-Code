@@ -12,7 +12,7 @@ Whoever knowingly executes, or attempts to execute, a scheme or artifice—
 
 #### Amendments
 
-2009—Pub. L. 111–21, §2(e)(1)(A), inserted “and commodities” before “fraud” in section catchline.
+<b>2009</b>—Pub. L. 111–21, §2(e)(1)(A), inserted “and commodities” before “fraud” in section catchline.
 
 Pars. (1), (2). Pub. L. 111–21, §2(e)(1)(B), (C), inserted “any commodity for future delivery, or any option on a commodity for future delivery, or” before “any security”.
 

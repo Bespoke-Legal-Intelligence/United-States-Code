@@ -12,7 +12,7 @@ As used in this chapter:
 
 #### (3) Laboratory
 
-&emsp;The term “laboratory” means any facility or vehicle that is owned by an individual or a public or private entity and is equipped and operated for the purpose of carrying out pesticide residue analysis on agricultural products for commercial purposes.
+&emsp;The term “laboratory” means any facility or vehicle that is owned by an individual or apublic or private entity and is equipped and operated for the purpose of carrying out pesticide residue analysis on agricultural products for commercial purposes.
 
 #### (4) Pesticide
 

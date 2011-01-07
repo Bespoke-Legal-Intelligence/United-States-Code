@@ -2,7 +2,7 @@
 
 The purposes of this part are—
 
-&emsp;(1) to help ensure that children who are limited English proficient, including immigrant children and youth, attain English proficiency, develop high levels of academic attainment in English, and meet the same challenging State academic content and student academic achievement standards as all children are expected to meet;
+&emsp;(1) to help ensure that children who are limited English proficient, including immigrantchildren and youth, attain English proficiency, develop high levels of academic attainment in English, and meet the same challenging State academic content and student academic achievement standards as all children are expected to meet;
 
 &emsp;(2) to assist all limited English proficient children, including immigrant children and youth, to achieve at high levels in the core academic subjects so that those children can meet the same challenging State academic content and student academic achievement standards as all children are expected to meet, consistent with section 6311(b)(1) of this title;
 
@@ -28,7 +28,7 @@ The purposes of this part are—
 
 #### Prior Provisions
 
-A prior section 6812, Pub. L. 89–10, title III, §3112, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3638, set forth purpose of former part A of this subchapter, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 6812, Pub. L. 89–10, title III, §3112, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3638, set forth purpose of former part A of this subchapter, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 Prior sections 6813 to 6815 were omitted in the general amendment of this subchapter by Pub. L. 107–110.
 

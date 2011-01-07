@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(2) medical evidence has suggested that children may be particularly vulnerable to environmentally induced cancers;
 
-&emsp;(3) medical science has not established any minimum level of exposure to asbestos fibers which is considered to be safe to individuals exposed to the fibers;
+&emsp;(3) medical science has not established any minimum level of exposure to asbestos fiberswhich is considered to be safe to individuals exposed to the fibers;
 
 &emsp;(4) substantial amounts of asbestos, particularly in sprayed form, have been used in school buildings, especially during the period 1946 through 1972;
 
@@ -40,7 +40,7 @@ It is the purpose of this subchapter to—
 
 #### Amendments
 
-1990—Pub. L. 101–637, §14(a)(2), made technical amendment to section catchline.
+<b>1990</b>—Pub. L. 101–637, §14(a)(2), made technical amendment to section catchline.
 
 Subsecs. (a), (b). Pub. L. 101–637, §14(b)(1), (2), inserted headings.
 

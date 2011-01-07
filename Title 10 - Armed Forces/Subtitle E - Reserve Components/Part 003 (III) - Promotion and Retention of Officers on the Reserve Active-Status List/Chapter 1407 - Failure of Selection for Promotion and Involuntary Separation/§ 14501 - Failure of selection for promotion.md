@@ -22,9 +22,9 @@ Officers Twice Failed of Selection.—An officer shall be considered for all pur
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
-1996—Subsec. (a). Pub. L. 104–106 inserted heading.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106 inserted heading.
 
 #### Effective Date of 1996 Amendment
 

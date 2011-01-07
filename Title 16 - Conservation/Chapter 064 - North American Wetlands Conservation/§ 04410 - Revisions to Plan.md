@@ -6,5 +6,5 @@ The Secretary shall, in 1998 and at five-year intervals thereafter, undertake wi
 
 #### Amendments
 
-1994—Pub. L. 103–375 substituted “1998” for “1991”, inserted “and Mexico” after “Canada”, and struck out at end “The Secretary shall invite and encourage the appropriate officials in Mexico to participate in any revisions of the Plan.”
+<b>1994</b>—Pub. L. 103–375 substituted “1998” for “1991”, inserted “and Mexico” after “Canada”, and struck out at end “The Secretary shall invite and encourage the appropriate officials in Mexico to participate in any revisions of the Plan.”
 

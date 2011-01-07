@@ -120,7 +120,7 @@ There are authorized to be appropriated to the Environmental Protection Agency t
 
 #### Amendments
 
-2002—Pub. L. 107–303, §202(1), substituted “Lake Champlain Basin Program” for “Lake Champlain Management Conference” in section catchline.
+<b>2002</b>—Pub. L. 107–303, §202(1), substituted “Lake Champlain Basin Program” for “Lake Champlain Management Conference” in section catchline.
 
 Subsec. (a). Pub. L. 107–303, §202(1), (2), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
@@ -214,5 +214,5 @@ Resource conservation program.—The Secretary of the Interior, acting through t
 
 Authorizations.—(1) There is authorized to be appropriated to the Department of Agriculture $2,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to carry out subsection (a) of this section.
 
-“(2) There is authorized to be appropriated to the Department of \[the\] Interior $1,000,000 for each of fiscalyears 1991, 1992, 1993, 1994, and 1995 to carry out subsections (b) and (c) of this section.”
+“(2) There is authorized to be appropriated to the Department of \[the\] Interior $1,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to carry out subsections (b) and (c) of this section.”
 

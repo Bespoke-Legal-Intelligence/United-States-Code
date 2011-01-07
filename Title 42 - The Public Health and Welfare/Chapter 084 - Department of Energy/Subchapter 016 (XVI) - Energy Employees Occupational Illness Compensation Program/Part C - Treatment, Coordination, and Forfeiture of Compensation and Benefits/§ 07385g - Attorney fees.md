@@ -24,7 +24,7 @@ Any such representative who violates this section shall be fined not more than $
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–107, §3151(a)(6)(A), inserted “for payment of lump-sum compensation” after “the claim of an individual”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–107, §3151(a)(6)(A), inserted “for payment of lump-sum compensation” after “the claim of an individual”.
 
 Subsec. (b)(1). Pub. L. 107–107, §3151(a)(6)(B), inserted “for payment of lump-sum compensation” after “initial claim”.
 

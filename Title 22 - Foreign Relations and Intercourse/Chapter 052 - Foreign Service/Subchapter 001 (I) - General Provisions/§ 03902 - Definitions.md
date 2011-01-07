@@ -6,7 +6,7 @@ As used in this chapter, the term—
 
 &emsp;(2) “agency” means an agency as defined in section 552(e) <sup>1</sup> of title 5;
 
-&emsp;(3) “chief of mission” means the principal officer in charge of a diplomatic mission of the United States or of a United States office abroad which is designated by the Secretary of State as diplomatic in nature, including any individual assigned under section 3982(c) of this title to be temporarily in charge of such a mission or office;
+&emsp;(3) “chief of mission” means the principal officer in charge of a diplomatic mission of theUnited States or of a United States office abroad which is designated by the Secretary of State as diplomatic in nature, including any individual assigned under section 3982(c) of this title to be temporarily in charge of such a mission or office;
 
 &emsp;(4) “Department” means the Department of State, except that with reference to the exercise of functions under this chapter with respect to another agency authorized by law to utilize the Foreign Service personnel system, such term means that other agency;
 
@@ -34,7 +34,7 @@ Section 552(e) of title 5, referred to in par. (2), was redesignated section 552
 
 #### Amendments
 
-1983—Pub. L. 98–164 struck out “(a)” before “As used in this chapter”, and struck out subsec. (b) which provided that references to Foreign Service officers in any provision be deemed to refer to, with respect to the United States Information Agency, Foreign Service Information officers.
+<b>1983</b>—Pub. L. 98–164 struck out “(a)” before “As used in this chapter”, and struck out subsec. (b) which provided that references to Foreign Service officers in any provision be deemed to refer to, with respect to the United States Information Agency, Foreign Service Information officers.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

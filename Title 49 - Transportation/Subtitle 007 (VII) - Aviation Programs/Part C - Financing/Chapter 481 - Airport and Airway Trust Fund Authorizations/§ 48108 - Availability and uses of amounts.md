@@ -66,9 +66,9 @@ In subsection (c), the words “be construed as” and “the purposes described
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–264 substituted “1998” for “1996”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–264 substituted “1998” for “1996”.
 
-1994—Subsec. (c). Pub. L. 103–305 substituted “1996” for “1995”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–305 substituted “1996” for “1995”.
 
 #### Effective Date of 1996 Amendment
 

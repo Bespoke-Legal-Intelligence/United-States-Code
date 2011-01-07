@@ -72,7 +72,7 @@
 
 &emsp;&emsp;After the resolution of a review under paragraph (2), each school identified under paragraph (1) for school improvement shall, not later than 3 months after being so identified, develop or revise a school plan, in consultation with parents, school staff, the local educational agency serving the school, and outside experts, for approval by such local educational agency. The school plan shall cover a 2-year period and—
 
-&emsp;&emsp;&emsp;(i) incorporate strategies based on scientifically based research that will strengthen the core academic subjects inthe school and address the specific academic issues that caused the school to be identified for school improvement, and may include a strategy for the implementation of a comprehensive school reform model that includes each of the components described in part F of this subchapter;
+&emsp;&emsp;&emsp;(i) incorporate strategies based on scientifically based research that will strengthen the core academic subjects in the school and address the specific academic issues that caused the school to be identified for school improvement, and may include a strategy for the implementation of a comprehensive school reform model that includes each of the components described in part F of this subchapter;
 
 &emsp;&emsp;&emsp;(ii) adopt policies and practices concerning the school's core academic subjects that have the greatest likelihood of ensuring that all groups of students specified in section 6311(b)(2)(C)(v) of this title and enrolled in the school will meet the State's proficient level of achievement on the State academic assessment described in section 6311(b)(3) of this title not later than 12 years after the end of the 2001–2002 school year;
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;&emsp;(viii) include strategies to promote effective parental involvement in the school;
 
-&emsp;&emsp;&emsp;(ix) incorporate, as appropriate, activities before school, after school, during the summer, and during any extension of the school year; and
+&emsp;&emsp;&emsp;(ix) incorporate, as appropriate, activities before school, after school, during thesummer, and during any extension of the school year; and
 
 &emsp;&emsp;&emsp;(x) incorporate a teacher mentoring program.
 
@@ -276,7 +276,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Unless a lesser amount is needed to comply with paragraph (9) and to satisfy all requests for supplemental educational services under subsection (e) of this section, a local educational agency shall spend an amountequal to 20 percent of its allocation under subpart 2 of this part, from which the agency shall spend—
+&emsp;&emsp;Unless a lesser amount is needed to comply with paragraph (9) and to satisfy all requests for supplemental educational services under subsection (e) of this section, a local educational agency shall spend an amount equal to 20 percent of its allocation under subpart 2 of this part, from which the agency shall spend—
 
 &emsp;&emsp;&emsp;(i) an amount equal to 5 percent of its allocation under subpart 2 of this part to provide, or pay for, transportation under paragraph (9);
 
@@ -306,7 +306,7 @@
 
 #### (13) Special rule
 
-&emsp;A local educational agency shall permit a child who transferred to another school under this subsection to remain in that school until the child has completed the highest grade in that school. The obligation of the local educational agency to provide, or to provide for, transportation for the child ends at the end of a school year if the local educational agency determines that the school from which the child transferred is no longer identified for school improvement or subject to corrective action or restructuring.
+&emsp;A local educational agency shall permit a child who transferred to another school under this subsection to remain in that school until the child has completed the highest grade inthat school. The obligation of the local educational agency to provide, or to provide for, transportation for the child ends at the end of a school year if the local educational agency determines that the school from which the child transferred is no longer identified for school improvement or subject to corrective action or restructuring.
 
 #### (14) State educational agency responsibilities
 
@@ -366,7 +366,7 @@
 
 &emsp;&emsp;&emsp;(ii) identify actions that have the greatest likelihood of improving the achievement of participating children in meeting the State's student academic achievement standards;
 
-&emsp;&emsp;&emsp;(iii) address the professional development needs of the instructional staff serving the agency by committing to spend not less than 10 percent of the funds received by the local educational agency under subpart 2 of this part for each fiscal year in which the agency is identified for improvement for professional development (including funds reserved for professional development under subsection (b)(3)(A)(iii) of this section), but excluding funds reserved for professional development under section 6319 of this title;
+&emsp;&emsp;&emsp;(iii) address the professional development needs of the instructional staff serving the agency by committing to spend not less than 10 percent of the funds receivedby the local educational agency under subpart 2 of this part for each fiscal year in which the agency is identified for improvement for professional development (including funds reserved for professional development under subsection (b)(3)(A)(iii) of this section), but excluding funds reserved for professional development under section 6319 of this title;
 
 &emsp;&emsp;&emsp;(iv) include specific measurable achievement goals and targets for each of the groups of students identified in the disaggregated data pursuant to section 6311(b)(2)(C)(v) of this title, consistent with adequate yearly progress as defined under section 6311(b)(2) of this title;
 
@@ -394,7 +394,7 @@
 
 #### (B) Methods and strategies
 
-&emsp;&emsp;Technical assistance provided under this section by the State educational agency or an entity authorized by such agency shall be supported by effective methods and instructional strategies based on scientifically based research. Such technical assistance shall address problems, if any, in implementing the parental involvement activities described in section 6318 of this title and theprofessional development activities described in section 6319 of this title.
+&emsp;&emsp;Technical assistance provided under this section by the State educational agency or an entity authorized by such agency shall be supported by effective methods and instructional strategies based on scientifically based research. Such technical assistance shall address problems, if any, in implementing the parental involvement activities described in section 6318 of this title and the professional development activities described in section 6319 of this title.
 
 #### (10) Corrective action
 
@@ -460,7 +460,7 @@ Nothing in this section shall be construed to alter or otherwise affect the righ
 
 #### (1) Supplemental educational services
 
-&emsp;In the case of any school described in paragraph (5), (7), or (8) of subsection (b) of thissection, the local educational agency serving such school shall, subject to this subsection, arrange for the provision of supplemental educational services to eligible children in the school from a provider with a demonstrated record of effectiveness, that is selected by the parents and approved for that purpose by the State educational agency in accordance with reasonable criteria, consistent with paragraph (5), that the State educational agency shall adopt.
+&emsp;In the case of any school described in paragraph (5), (7), or (8) of subsection (b) of this section, the local educational agency serving such school shall, subject to this subsection, arrange for the provision of supplemental educational services to eligible children in the school from a provider with a demonstrated record of effectiveness, that is selected by the parents and approved for that purpose by the State educational agency in accordance with reasonable criteria, consistent with paragraph (5), that the State educational agency shall adopt.
 
 #### (2) Local educational agency responsibilities
 
@@ -524,7 +524,7 @@ Nothing in this section shall be construed to alter or otherwise affect the righ
 
 &emsp;The amount that a local educational agency shall make available for supplemental educational services for each child receiving those services under this subsection shall be the lesser of—
 
-&emsp;&emsp;(A) the amount of the agency's allocation under subpart 2 of this part, divided by thenumber of children from families below the poverty level counted under section 6333(c)(1)(A) of this title; or
+&emsp;&emsp;(A) the amount of the agency's allocation under subpart 2 of this part, divided by the number of children from families below the poverty level counted under section 6333(c)(1)(A) of this title; or
 
 &emsp;&emsp;(B) the actual costs of the supplemental educational services received by the child.
 
@@ -604,7 +604,7 @@ Nothing in this section shall be construed to alter or otherwise affect the righ
 
 #### (B) Corrective action
 
-&emsp;&emsp;A State shall identify for corrective action under subsection (c)(10) of this section anylocal educational agency that was in corrective action status under this section as this section was in effect on the day preceding January 8, 2002.
+&emsp;&emsp;A State shall identify for corrective action under subsection (c)(10) of this section any local educational agency that was in corrective action status under this section as this section was in effect on the day preceding January 8, 2002.
 
 #### (C) Special rule
 
@@ -678,7 +678,7 @@ After receiving the notice described in subsection (b)(14)(D) of this section, t
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (b)(4)(B)(iv)(II), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title II of the Act is classified generally to subchapter II (§1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b)(4)(B)(iv)(II), is Pub. L. 89–329, Nov. 8, 1965, 79Stat. 1219, as amended. Title II of the Act is classified generally to subchapter II (§1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 This section on the day preceding January 8, 2002 (as this section was in effect on such day), referred to in subsec. (f), means section 1116 of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3542, as amended, which was classified to section 6317 of this title prior to the general amendment of this subchapter by Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1439.
 

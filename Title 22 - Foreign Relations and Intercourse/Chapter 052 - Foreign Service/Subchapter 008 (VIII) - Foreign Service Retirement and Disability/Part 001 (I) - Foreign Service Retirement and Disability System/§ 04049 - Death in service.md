@@ -22,7 +22,7 @@ If, at the time of his or her death, the participant had less than 20 years of s
 
 #### (f) Recall service
 
-If an annuitant entitled to a reduced annuity dies in service after being recalled under section3948 of this title and is survived by a spouse or former spouse entitled to a survivor annuity based on the service of such annuitant, such survivor annuity shall be computed as if the recall service had otherwise terminated on the day of death and the annuity of the deceased had been resumed in accordance with section 4063 of this title. If such death occurs after the annuitant had completed sufficient recall service to attain eligibility for a supplemental annuity, a surviving spouse or surviving former spouse who was married to the participant at any time during a period of recall service shall be entitled to elect, in addition to any other benefits and in lieu of a refund of retirement contributions made during the recall service, a supplemental survivor annuity computed and paid under section 4046(i) of this title as if the recall service had otherwise terminated. If the annuitant had completed sufficient recall service to attain eligibility to have his or her annuity determined anew, a surviving spouse or such a surviving former spouse may elect, in lieu of any other survivor benefit under this subchapter, to have the rights of the annuitant redetermined and to receive a survivor annuity computed under subsection (b) of this section on the basis of the total service of the annuitant.
+If an annuitant entitled to a reduced annuity dies in service after being recalled under section 3948 of this title and is survived by a spouse or former spouse entitled to a survivor annuity based on the service of such annuitant, such survivor annuity shall be computed as if the recall service had otherwise terminated on the day of death and the annuity of the deceased had been resumed in accordance with section 4063 of this title. If such death occurs after the annuitant had completed sufficient recall service to attain eligibility for a supplemental annuity, a surviving spouse or surviving former spouse who was married to the participant at any time during a period of recall service shall be entitled to elect, in addition to any other benefits and in lieu of a refund of retirement contributions made during the recall service, a supplemental survivor annuity computed and paid under section 4046(i) of this title as if the recall service had otherwise terminated. If the annuitant had completed sufficient recall service to attain eligibility to have his or her annuity determined anew, a surviving spouse or such a surviving former spouse may elect, in lieu of any other survivor benefit under this subchapter, to have the rights of the annuitant redetermined and to receive a survivor annuity computed under subsection (b) of this section on the basis of the total service of the annuitant.
 
 #### (g) Limitation on surviving spouse's annuity
 
@@ -36,11 +36,11 @@ Annuities that become payable under this section shall commence, terminate, and 
 
 #### Amendments
 
-1988—Subsecs. (c), (d). Pub. L. 100–238, §214(b), inserted “or a former spouse who is the natural or adoptive parent of a surviving child of the annuitant,” after “spouse”.
+<b>1988</b>—Subsecs. (c), (d). Pub. L. 100–238, §214(b), inserted “or a former spouse who is the natural or adoptive parent of a surviving child of the annuitant,” after “spouse”.
 
 Subsec. (e). Pub. L. 100–238, §215(b), substituted “60” for “65”.
 
-1986—Subsec. (a). Pub. L. 99–335, §402(c), substituted “part” for “chapter”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–335, §402(c), substituted “part” for “chapter”.
 
 Subsec. (b). Pub. L. 99–335, §402(a)(2), substituted “part” for “subchapter”.
 

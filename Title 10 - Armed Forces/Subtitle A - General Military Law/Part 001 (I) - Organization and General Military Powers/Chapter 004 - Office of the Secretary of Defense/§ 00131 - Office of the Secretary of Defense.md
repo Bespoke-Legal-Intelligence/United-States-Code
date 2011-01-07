@@ -1,6 +1,6 @@
 ### §131. Office of the Secretary of Defense
 
-(a) There is in the Department of Defense an Office of the Secretary of Defense. The function of the Office is to assist the Secretary of Defense in carrying out his duties and responsibilities and to carry out such other duties as may be prescribed by law.
+(a) There is in the Department of Defense an Office of the Secretary of Defense. The function of the Office is to assist the Secretary of Defense in carrying out the Secretary's duties and responsibilities and to carry out such other duties as may be prescribed by law.
 
 (b) The Office of the Secretary of Defense is composed of the following:
 
@@ -20,23 +20,45 @@
 
 &emsp;(3) The Deputy Chief Management Officer of the Department of Defense.
 
-&emsp;(4) The Director of Defense Research and Engineering.
+&emsp;(4) Other officers who are appointed by the President, by and with the advice and consent of the Senate, and who report directly to the Secretary and Deputy Secretary without intervening authority, as follows:
 
-&emsp;(5) The Assistant Secretaries of Defense.
+&emsp;&emsp;(A) The Director of Cost Assessment and Program Evaluation.
 
-&emsp;(6) The Director of Operational Test and Evaluation.
+&emsp;&emsp;(B) The Director of Operational Test and Evaluation.
 
-&emsp;(7) The General Counsel of the Department of Defense.
+&emsp;&emsp;(C) The General Counsel of the Department of Defense.
 
-&emsp;(8) The Inspector General of the Department of Defense.
+&emsp;&emsp;(D) The Inspector General of the Department of Defense.
 
-&emsp;(9) Such other offices and officials as may be established by law or the Secretary of Defense may establish or designate in the Office.
+&emsp;(5) The Principal Deputy Under Secretaries of Defense.
+
+&emsp;(6) The Assistant Secretaries of Defense.
+
+&emsp;(7) Other officials provided for by law, as follows:
+
+&emsp;&emsp;(A) The Deputy Assistant Secretary of Defense for Developmental Test and Evaluation appointed pursuant to section 139b(a) of this title.
+
+&emsp;&emsp;(B) The Deputy Assistant Secretary of Defense for Systems Engineering appointed pursuant to section 139b(b) of this title.
+
+&emsp;&emsp;(C) The Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy appointed pursuant to section 139c of this title.
+
+&emsp;&emsp;(D) The Director of Small Business Programs appointed pursuant to section 144 of this title.
+
+&emsp;&emsp;(E) The official designated under section 1501(a) of this title to have responsibility for Department of Defense matters relating to missing persons as set forth in section 1501 of this title.
+
+&emsp;&emsp;(F) The Director of Family Policy under section 1781 of this title.
+
+&emsp;&emsp;(G) The Director of the Office of Corrosion Policy and Oversight assigned pursuant to section 2228(a) of this title.
+
+&emsp;&emsp;(H) The official designated under section 2438(a) of this title to have responsibility for conducting and overseeing performance assessments and root cause analyses for major defense acquisition programs.
+
+&emsp;(8) Such other offices and officials as may be established by law or the Secretary of Defense may establish or designate in the Office.
 
 (c) Officers of the armed forces may be assigned or detailed to permanent duty in the Office of the Secretary of Defense. However, the Secretary may not establish a military staff in the Office of the Secretary of Defense.
 
-(d) The Secretary of each military department, and the civilian employees and members of the armed forces under the jurisdiction of the Secretary, shall cooperate fully with personnel of the Office of the Secretary of Defense to achieve efficient administration of the Department of Defense and to carry out effectively the authority, direction, and control of the Secretary of Defense.
+(d) The Secretary of each military department, and the civilian employees and members of the armed forces under the jurisdiction of the Secretary, shall cooperate fully with personnelof the Office of the Secretary of Defense to achieve efficient administration of the Department of Defense and to carry out effectively the authority, direction, and control of the Secretary of Defense.
 
-(Added Pub. L. 99–433, title I, §104, Oct. 1, 1986, 100 Stat. 996; amended Pub. L. 103–160, div. A, title IX, §906(a), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 103–337, div. A, title IX, §903(b)(1), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 104–106, div. A, title IX, §903(e)(1), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, §911(d)(1), Oct. 5, 1999, 113 Stat. 719; Pub. L. 107–314, div. A, title IX, §901(b)(1), Dec. 2, 2002, 116 Stat. 2619; Pub. L. 110–181, div. A, title IX, §904(a)(4), Jan. 28, 2008, 122 Stat. 274; Pub. L. 110–417, \[div. A\], title X, §1061(b)(7), Oct. 14, 2008, 122 Stat. 4613.)
+(Added Pub. L. 99–433, title I, §104, Oct. 1, 1986, 100 Stat. 996; amended Pub. L. 103–160, div. A, title IX, §906(a), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 103–337, div. A, title IX, §903(b)(1), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 104–106, div. A, title IX, §903(e)(1), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, §911(d)(1), Oct. 5, 1999, 113 Stat. 719; Pub. L. 107–314, div. A, title IX, §901(b)(1), Dec. 2, 2002, 116 Stat. 2619; Pub. L. 110–181, div. A, title IX, §904(a)(4), Jan. 28, 2008, 122 Stat. 274; Pub. L. 110–417, \[div. A\], title X, §1061(b)(7), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–383, div. A, title IX, §901(b)(2), (m)(1), Jan. 7, 2011, 124 Stat. 4317, 4326.)
 
 #### Prior Provisions
 
@@ -44,9 +66,13 @@ A prior section 131 was renumbered section 111 of this title.
 
 #### Amendments
 
-2008—Subsec. (b)(3) to (9). Pub. L. 110–181, as amended by Pub. L. 110–417, added par. (3) and redesignated former pars. (3) to (8) as (4) to (9), respectively.
+<b>2011</b>—Subsec. (a). Pub. L. 111–383, §901(m)(1), substituted “the Secretary's” for “his”.
 
-2002—Subsec. (b)(2) to (11). Pub. L. 107–314 added par. (2), redesignated pars. (6) to (11) as (3) to (8), respectively, and struck out former pars. (2) to (5) which read as follows:
+Subsec. (b). Pub. L. 111–383, §901(b)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to the composition of the Office of the Secretary of Defense.
+
+<b>2008</b>—Subsec. (b)(3) to (9). Pub. L. 110–181, as amended by Pub. L. 110–417, added par. (3) and redesignated former pars. (3) to (8) as (4) to (9), respectively.
+
+<b>2002</b>—Subsec. (b)(2) to (11). Pub. L. 107–314 added par. (2), redesignated pars. (6) to (11) as (3) to (8), respectively, and struck out former pars. (2) to (5) which read as follows:
 
 “(2) The Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
@@ -56,13 +82,13 @@ A prior section 131 was renumbered section 111 of this title.
 
 “(5) The Under Secretary of Defense for Personnel and Readiness.”
 
-1999—Subsec. (b)(2). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+<b>1999</b>—Subsec. (b)(2). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
-1996—Subsec. (b)(6) to (11). Pub. L. 104–106, §903(a), (e)(1), which directed amendment of subsec. (b), eff. Jan. 31, 1997, by striking out pars. (6) and (8) and redesignating pars. (7), (9), (10), and (11) as (6), (7), (8), and (9), respectively, was repealed by Pub. L. 104–201.
+<b>1996</b>—Subsec. (b)(6) to (11). Pub. L. 104–106, §903(a), (e)(1), which directed amendment of subsec. (b), eff. Jan. 31, 1997, by striking out pars. (6) and (8) and redesignating pars. (7), (9), (10), and (11) as (6), (7), (8), and (9), respectively, was repealed by Pub. L. 104–201.
 
-1994—Subsec. (b)(4). Pub. L. 103–337 substituted “Under Secretary of Defense (Comptroller)” for “Comptroller”.
+<b>1994</b>—Subsec. (b)(4). Pub. L. 103–337 substituted “Under Secretary of Defense (Comptroller)” for “Comptroller”.
 
-1993—Subsec. (b). Pub. L. 103–160 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Office of the Secretary of Defense is composed of the following:
+<b>1993</b>—Subsec. (b). Pub. L. 103–160 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Office of the Secretary of Defense is composed of the following:
 
 &emsp;“(1) The Deputy Secretary of Defense.
 
@@ -84,6 +110,18 @@ A prior section 131 was renumbered section 111 of this title.
 
 &emsp;“(10) Such other offices and officials as may be established by law or the Secretary of Defense may establish or designate in the Office.”
 
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–383, div. A, title IX, §901(p), Jan. 7, 2011, 124 Stat. 4327, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), this section \[see Tables for classification\] and the amendments made by this section shall take effect on January 1, 2011.
+
+“(2)
+
+Certain matters.—Subsection (i) \[enacting and amending provisions set out as notes under section 137a of this title\] and the amendments made by that subsection, and subsection (<i>o</i>) \[enacting provisions set out as a note under this section\], shall take effect on the date of the enactment of this Act \[Jan. 7, 2011\].”
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–417 effective Jan. 28, 2008, and as if included in Pub. L. 110–181 as enacted, see section 1061(b) of Pub. L. 110–417, set out as a note under section 6382 of Title 5, Government Organization and Employees.
@@ -91,6 +129,42 @@ Amendment by Pub. L. 110–417 effective Jan. 28, 2008, and as if included in Pu
 #### Effective Date of 1996 Amendment
 
 Section 903(a) of Pub. L. 104–106, which provided that the amendments made by section 903 of Pub. L. 104–106 (amending this section and sections 138, 176, 1056, 1216, 1587, and 10201 of this title, repealing sections 133a, 134a, 137, and 142 of this title, and amending provisions set out as a note under section 167 of this title) were to take effect on Jan. 31, 1997, was repealed by Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617.
+
+#### Redesignation of Certain Positions in Office of Secretary of Defense
+
+Pub. L. 111–383, div. A, title IX, §901(a), Jan. 7, 2011, 124 Stat. 4317, provided that:
+
+“(1)
+
+Redesignation.—Positions in the Office of the Secretary of Defense are hereby redesignated as follows:
+
+&emsp;“(A) The Director of Defense Research and Engineering is redesignated as the Assistant Secretary of Defense for Research and Engineering.
+
+&emsp;“(B) The Director of Operational Energy Plans and Programs is redesignated as the Assistant Secretary of Defense for Operational Energy Plans and Programs.
+
+&emsp;“(C) The Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs is redesignated as the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs.
+
+“(2)
+
+References.—Any reference in any law, rule, regulation, paper, or other record of the United States to an office of the Department of Defense redesignated by paragraph (1) shall be deemed to be a reference to such office as so redesignated.”
+
+#### Inapplicability of Appointment Requirement to Certain Individuals Serving on Effective Date
+
+Pub. L. 111–383, div. A, title IX, §901(<i>o</i>), Jan. 7, 2011, 124 Stat. 4327, provided that:
+
+“(1)
+
+In general.—Notwithstanding this section \[see Tables for classification\] and the amendments made by this section, the individual serving as specified in paragraph (2) on December 31, 2010, may continue to serve in the applicable position specified in that paragraph after that date without the requirement for appointment by the President, by and with the advice and consent of the Senate.
+
+“(2)
+
+Covered individuals and positions.—The individuals and positions specified in this paragraph are the following:
+
+&emsp;“(A) In the case of the individual serving as Director of Defense Research and Engineering, the position of Assistant Secretary of Defense for Research and Engineering.
+
+&emsp;“(B) In the case of the individual serving as Director of Operational Energy Plans and Programs, the position of Assistant Secretary of Defense for Operational Energy Plans and Programs.
+
+&emsp;“(C) In the case of the individual serving as Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs, the position of Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs.”
 
 #### Defense Acquisition Workforce
 

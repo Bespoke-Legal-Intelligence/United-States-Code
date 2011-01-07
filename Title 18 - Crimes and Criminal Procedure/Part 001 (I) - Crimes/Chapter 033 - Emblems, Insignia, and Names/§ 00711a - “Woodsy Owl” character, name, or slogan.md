@@ -6,7 +6,7 @@ Whoever, except as authorized under rules and regulations issued by the Secretar
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250”.
 
 #### Description of “Woodsy Owl” Character
 

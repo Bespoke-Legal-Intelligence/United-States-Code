@@ -60,7 +60,7 @@ In subsection (c)(1), before clause (A), the words “the Secretary shall deposi
 
 #### Amendments
 
-2000—Subsec. (d). Pub. L. 106–424 substituted “of the Board” for “of the ‘National Transportation Safety Board, Salaries and Expenses’ ”.
+<b>2000</b>—Subsec. (d). Pub. L. 106–424 substituted “of the Board” for “of the ‘National Transportation Safety Board, Salaries and Expenses’ ”.
 
-1996—Subsec. (d). Pub. L. 104–291 added subsec. (d).
+<b>1996</b>—Subsec. (d). Pub. L. 104–291 added subsec. (d).
 

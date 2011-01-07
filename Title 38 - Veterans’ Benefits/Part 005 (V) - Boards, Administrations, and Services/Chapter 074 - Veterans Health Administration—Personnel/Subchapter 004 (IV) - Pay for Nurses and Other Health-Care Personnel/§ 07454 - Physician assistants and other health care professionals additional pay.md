@@ -6,11 +6,11 @@
 
 (2) Health care professionals employed in positions referred to in paragraph (1) shall be entitled to additional pay on the same basis as provided for nurses in section 7453(c) of this title.
 
-(3) Employees appointed under section 7408 of this title shall be entitled to additional pay on the same basis as provided for nurses in section 7453(c) of this title.
+(3) Employees appointed under section 7408 of this title performing service on a tour of duty, any part of which is within the period commencing at midnight Friday and ending at midnight Sunday, shall receive additional pay in addition to the rate of basic pay provided such employeesfor each hour of service on such tour at a rate equal to 25 percent of such employee's hourly rate of basic pay.
 
 (c) The Secretary shall prescribe by regulation standards for compensation and payment under this section.
 
-(Added Pub. L. 102–40, title IV, §401(b)(4), May 7, 1991, 105 Stat. 234; amended Pub. L. 107–135, title I, §121(a), Jan. 23, 2002, 115 Stat. 2450; Pub. L. 108–170, title III, §§301(d), 303(a), Dec. 6, 2003, 117 Stat. 2057, 2058.)
+(Added Pub. L. 102–40, title IV, §401(b)(4), May 7, 1991, 105 Stat. 234; amended Pub. L. 107–135, title I, §121(a), Jan. 23, 2002, 115 Stat. 2450; Pub. L. 108–170, title III, §§301(d), 303(a), Dec. 6, 2003, 117 Stat. 2057, 2058; Pub. L. 111–163, title VI, §601(k)(2), May 5, 2010, 124 Stat. 1171.)
 
 #### Prior Provisions
 
@@ -18,11 +18,13 @@ Provisions similar to those in this section were contained in section 4107(f) of
 
 #### Amendments
 
-2003—Subsec. (b)(1). Pub. L. 108–170, §301(d), substituted “individuals in positions listed in section 7401(3) of this title,” for “certified or registered respiratory therapists, licensed physical therapists, licensed practical or vocational nurses, pharmacists, or occupational therapists,”.
+<b>2010</b>—Subsec. (b)(3). Pub. L. 111–163 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Employees appointed under section 7408 of this title shall be entitled to additional pay on the same basis as provided for nurses in section 7453(c) of this title.”
+
+<b>2003</b>—Subsec. (b)(1). Pub. L. 108–170, §301(d), substituted “individuals in positions listed in section 7401(3) of this title,” for “certified or registered respiratory therapists, licensed physical therapists, licensed practical or vocational nurses, pharmacists, or occupational therapists,”.
 
 Subsec. (b)(3). Pub. L. 108–170, §303(a), added par. (3).
 
-2002—Subsec. (b). Pub. L. 107–135 designated existing provisions as par. (1) and added par. (2).
+<b>2002</b>—Subsec. (b). Pub. L. 107–135 designated existing provisions as par. (1) and added par. (2).
 
 #### Effective Date of 2003 Amendment
 

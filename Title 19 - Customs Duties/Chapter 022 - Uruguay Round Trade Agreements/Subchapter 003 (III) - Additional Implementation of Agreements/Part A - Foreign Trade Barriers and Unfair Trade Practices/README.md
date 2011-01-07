@@ -1,7 +1,5 @@
 Part A—Foreign Trade Barriers and Unfair Trade Practices
 
-<i><sup>1</sup></i><i> See Codification note below.</i>
-
 
 ---
 

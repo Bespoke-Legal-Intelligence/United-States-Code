@@ -8,7 +8,7 @@ Any employee of a carrier, any part of whose duties as such employee shall be th
 
 #### Amendments
 
-1939—Act Aug. 11, 1939, inserted last par.
+<b>1939</b>—Act Aug. 11, 1939, inserted last par.
 
 #### Short Title
 

@@ -26,9 +26,9 @@ A prior section 1071, act Aug. 10, 1956, ch. 1041, 70A Stat. 81, which stated th
 
 #### Amendments
 
-1980—Pub. L. 96–513 substituted “Purpose of this chapter” for “Purpose of sections 1071–1087 of this title” in section catchline, and substituted reference to this chapter for reference to sections 1071–1087 of this title in text.
+<b>1980</b>—Pub. L. 96–513 substituted “Purpose of this chapter” for “Purpose of sections 1071–1087 of this title” in section catchline, and substituted reference to this chapter for reference to sections 1071–1087 of this title in text.
 
-1966—Pub. L. 89–614 substituted “1087” for “1085” in section catchline and text.
+<b>1966</b>—Pub. L. 89–614 substituted “1087” for “1085” in section catchline and text.
 
 #### Effective Date of 1980 Amendment
 
@@ -48,7 +48,7 @@ Pub. L. 100–180, div. A, title VII, §701, Dec. 4, 1987, 101 Stat. 1108, provi
 
 #### Short Title of 1966 Amendment
 
-Section 1 of Pub. L. 89–614 provided: “That this Act \[enacting sections 1086 and 1087 of this title, amendingthis section and sections 1072 to 1074, 1076 to 1079, 1082, and 1084 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Military Medical Benefits Amendments of 1966’.”
+Section 1 of Pub. L. 89–614 provided: “That this Act \[enacting sections 1086 and 1087 of this title, amending this section and sections 1072 to 1074, 1076 to 1079, 1082, and 1084 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Military Medical Benefits Amendments of 1966’.”
 
 #### Comprehensive Plan on Prevention, Diagnosis, and Treatment of Substance Use Disorders and Disposition of Substance Abuse Offenders in the Armed Forces
 
@@ -146,7 +146,7 @@ Substances of abuse.—Instructions on the prevention, diagnosis, and treatment 
 
 Healthcare professionals.—Instructions on—
 
-&emsp;&emsp;&emsp;“(i) appropriate training of healthcare professionals in the prevention, screening, diagnosis, and treatment of substance use disorders in members of the Armed Forces;
+&emsp;&emsp;&emsp;“(i) appropriate training of healthcare professionals in the prevention, screening, diagnosis,and treatment of substance use disorders in members of the Armed Forces;
 
 &emsp;&emsp;&emsp;“(ii) appropriate staffing levels for healthcare professionals at military medical treatment facilities for the prevention, screening, diagnosis, and treatment of substance use disorders in members of the Armed Forces; and
 
@@ -236,7 +236,7 @@ Elements.—The study required by paragraph (1) shall include a review and asses
 
 &emsp;“(3)
 
-Report.—Not later than two years after the date of the enactment of this Act \[Oct. 28, 2009\], the entity conducting the study required by paragraph (1) shall submit to the Secretary of Defense and the congressional defense committees \[Committees onArmed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the study. The report shall set forth the findings and recommendations of the entity as a result of the study.”
+Report.—Not later than two years after the date of the enactment of this Act \[Oct. 28, 2009\], the entity conducting the study required by paragraph (1) shall submit to the Secretary of Defense and the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the study. The report shall set forth the findings and recommendations of the entity as a result of the study.”
 
 #### Comprehensive Policy on Pain Management by the Military Health Care System
 
@@ -296,7 +296,7 @@ Elements.—Each report required by paragraph (1) shall include the following:
 
 #### Plan To Increase the Mental Health Capabilities of the Department of Defense
 
-Pub. L. 111–84, div. A, title VII, §714, Oct. 28, 2009, 123 Stat. 2381, provided that:
+Pub. L. 111–84, div. A, title VII, §714, Oct. 28, 2009, 123 Stat. 2381, as amended by Pub. L. 111–383, div. A, title X, §1075(d)(8), Jan. 7, 2011, 124 Stat. 4373, provided that:
 
 “(a)
 
@@ -350,17 +350,17 @@ Report on Additional Officer or Enlisted Military Specialties for Mental Health.
 
 &emsp;“(1)
 
-Report.—Not later than 120 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report setting forth the assessment of the Secretary of the feasability \[sic\] and advisability of establishing one or more military mental health specialities for officers or enlisted members of the Armed Forces in order to better meet the mental health care needs of members of the Armed Forces and their families.
+Report.—Not later than 120 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report setting forth the assessment of the Secretary of the feasibility and advisability of establishing one or more military mental health specialties for officers or enlisted members of the Armed Forces in order to better meet the mental health care needs of members of the Armed Forces and their families.
 
 &emsp;“(2)
 
 Elements.—The report required by paragraph (1) shall set forth the following:
 
-&emsp;&emsp;“(A) A recommendation as to the feasability \[sic\] and advisability of establishing one or more military mental health specialities for officers or enlisted members of the Armed Forces.
+&emsp;&emsp;“(A) A recommendation as to the feasibility and advisability of establishing one or more militarymental health specialties for officers or enlisted members of the Armed Forces.
 
 &emsp;&emsp;“(B) For each military specialty recommended to be established under subparagraph (A)—
 
-&emsp;&emsp;&emsp;“(i) a description of the qualifications required for such speciality, which shall reflect lessons learned from best practices in academia and the civilian health care industry regarding positions analogous to such specialty; and
+&emsp;&emsp;&emsp;“(i) a description of the qualifications required for such speciality \[sic\], which shall reflect lessons learned from best practices in academia and the civilian health care industry regarding positions analogous to such specialty; and
 
 &emsp;&emsp;&emsp;“(ii) a description of the incentives or other mechanisms, if any, that would be advisable to facilitate recruitment and retention of individuals to and in such specialty.”
 
@@ -568,7 +568,7 @@ Mechanisms.—The mechanisms of the Registry for tracking under paragraph (1)(A)
 
 &emsp;“(5)
 
-Coordination of care and benefits.—(A) The center shall provide notice to the National Center for Rehabilitative Auditory Research (NCRAR) of the Department of Veterans Affairs and to the auditorysystem impairment services of the Veterans Health Administration on each member of the Armed Forces described in subparagraph (B) for purposes of ensuring the coordination of the provision of ongoing auditory system rehabilitation benefits and services by the Department of Veterans Affairs after the separation or release of such member from the Armed Forces.
+Coordination of care and benefits.—(A) The center shall provide notice to the National Center for Rehabilitative Auditory Research (NCRAR) of the Department of Veterans Affairs and to the auditory system impairment services of the Veterans Health Administration on each member of the Armed Forces described in subparagraph (B) for purposes of ensuring the coordination of the provision of ongoing auditory system rehabilitation benefits and services by the Department of Veterans Affairs after the separation or release of such member from the Armed Forces.
 
 &emsp;&emsp;“(B) A member of the Armed Forces described in this subparagraph is a member of the Armed Forces with significant hearing loss or auditory system injury incurred while serving on active duty, including a member with auditory dysfunction related to traumatic brain injury.
 
@@ -780,7 +780,7 @@ In general.—The policy shall provide for a uniform program for the assignment 
 
 &emsp;&emsp;“(B)
 
-Duties.—The duties under the program of a recovery care coordinator for a recovering service member shall include, but not be limited to, overseeing and assisting the service member in the service member's course through the entire spectrum of care, management, transition, and rehabilitation services available from the Federal Government, including services provided by the Department of Defense, the Department of Veterans Affairs, theDepartment of Labor, and the Social Security Administration.
+Duties.—The duties under the program of a recovery care coordinator for a recovering service member shall include, but not be limited to, overseeing and assisting the service member in the service member's course through the entire spectrum of care, management, transition, and rehabilitation services available from the Federal Government, including services provided by the Department of Defense, the Department of Veterans Affairs, the Department of Labor, and the Social Security Administration.
 
 &emsp;&emsp;“(C)
 
@@ -788,7 +788,7 @@ Limitation on number of service members managed by coordinators.—The maximum n
 
 &emsp;&emsp;“(D)
 
-Training.—The policy shall specify standard training requirements and curricula for recovery care coordinators under the program, including a requirement for successful completion of the training program before a person may assume the duties of such a coordinator.
+Training.—The policy shall specify standard training requirements and curricula for recovery care coordinators under the program, including arequirement for successful completion of the training program before a person may assume the duties of such a coordinator.
 
 &emsp;&emsp;“(E)
 
@@ -884,7 +884,7 @@ In general.—The policy shall provide for appropriate minimum standards for acc
 
 &emsp;&emsp;“(B)
 
-Maximum waiting times for certain care.—The standards for access under subparagraph (A)shall include such standards on maximum waiting times of recovering service members as the policy shall specify for care that includes, but is not limited to, the following:
+Maximum waiting times for certain care.—The standards for access under subparagraph (A) shall include such standards on maximum waiting times of recovering service members as the policy shall specify for care that includes, but is not limited to, the following:
 
 &emsp;&emsp;&emsp;“(i) Follow-up care.
 
@@ -980,7 +980,7 @@ Elements.—The policy on improvements to processes, procedures, and standards r
 
 &emsp;&emsp;&emsp;“(i) apply uniformly throughout the military departments; and
 
-&emsp;&emsp;&emsp;“(ii) apply uniformly with respect to recovering service members who are members of the regular components of the Armed Forces and recoveringservice members who are members of the National Guard and Reserve.
+&emsp;&emsp;&emsp;“(ii) apply uniformly with respect to recovering service members who are members of the regular components of the Armed Forces and recovering service members who are members of the National Guard and Reserve.
 
 &emsp;&emsp;“(B) Standard criteria and definitions for determining the achievement for recovering service members of the maximum medical benefit from treatment and rehabilitation.
 
@@ -1064,7 +1064,7 @@ Elements.—The report required by paragraph (1) shall include the following:
 
 #### “SEC. 1613. RETURN OF RECOVERING SERVICE MEMBERS TO ACTIVE DUTY IN THE ARMED FORCES.
 
-“The Secretary of Defense shall establish standards for determinations by the military departments on thereturn of recovering service members to active duty in the Armed Forces.
+“The Secretary of Defense shall establish standards for determinations by the military departments on the return of recovering service members to active duty in the Armed Forces.
 
 #### “SEC. 1614. TRANSITION OF RECOVERING SERVICE MEMBERS FROM CARE AND TREATMENT THROUGH THE DEPARTMENT OF DEFENSE TO CARE, TREATMENT, AND REHABILITATION THROUGH THE DEPARTMENT OF VETERANS AFFAIRS.
 
@@ -1126,11 +1126,11 @@ Elements.—The processes, procedures, and standards required under this section
 
 &emsp;“(14) Procedures to ensure that the Secretary of Veterans Affairs gives appropriate consideration to a written statement submitted to the Secretary by a recovering service member regarding the transition.
 
-&emsp;“(15) Procedures to provide access for the Department of Veterans Affairs to the military healthrecords of recovering service members who are receiving care and treatment, or are anticipating receipt of care and treatment, in Department of Veterans Affairs health care facilities, which procedures shall be consistent with the procedures and requirements in paragraphs (11) and (13).
+&emsp;“(15) Procedures to provide access for the Department of Veterans Affairs to the military health records of recovering service members who are receiving care and treatment, or are anticipating receipt of care and treatment, in Department of Veterans Affairs health care facilities, which procedures shall be consistent with the procedures and requirements in paragraphs (11) and (13).
 
 &emsp;“(16) A process for the utilization of a joint separation and evaluation physical examination that meets the requirements of both the Department of Defense and the Department of Veterans Affairs in connection with the medical separation or retirement of a recovering service member from military service and for use by the Department of Veterans Affairs in disability evaluations.
 
-&emsp;“(17) Procedures for surveys and other mechanisms to measure patient and family satisfaction with the provision by the Department of Defense and the Department of Veterans Affairs of care and services for recovering service members, and to facilitate appropriate oversight by supervisory personnel of the provision of such care and services.
+&emsp;“(17) Procedures for surveys and other mechanisms to measure patient and family satisfaction with theprovision by the Department of Defense and the Department of Veterans Affairs of care and services for recovering service members, and to facilitate appropriate oversight by supervisory personnel of the provision of such care and services.
 
 &emsp;“(18) Procedures to ensure the participation of recovering service members who are members of the National Guard or Reserve in the Benefits Delivery at Discharge Program, including procedures to ensure that, to the maximum extent feasible, services under the Benefits Delivery at Discharge Program are provided to recovering service members at—
 
@@ -1228,7 +1228,7 @@ Comprehensive Statement of Policy.—The Secretary of Defense and the Secretary 
 
 “(b)
 
-Comprehensive Plan Required.—Not later than 180 days after the date of the enactment of this Act\[Jan. 28, 2008\], the Secretary of Defense shall, in consultation with the Secretary of Veterans Affairs, submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a comprehensive plan for programs and activities of the Department of Defense to prevent, diagnose, mitigate, treat, research, and otherwise respond to traumatic brain injury, post-traumatic stress disorder, and other mental health conditions in members of the Armed Forces, including—
+Comprehensive Plan Required.—Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall, in consultation with the Secretary of Veterans Affairs, submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a comprehensive plan for programs and activities of the Department of Defense to prevent, diagnose, mitigate, treat, research, and otherwise respond to traumatic brain injury, post-traumatic stress disorder, and other mental health conditions in members of the Armed Forces, including—
 
 &emsp;“(1) an assessment of the current capabilities of the Department for the prevention, diagnosis, mitigation, treatment, and rehabilitation of, and research on, traumatic brain injury, post-traumatic stress disorder, and other mental health conditions in members of the Armed Forces;
 
@@ -1318,7 +1318,7 @@ Gender- and ethnic group-specific services and treatment.—The development of r
 
 “(f)
 
-Coordination in Development.—The comprehensive plan submitted under subsection (b) shall be developed in coordination with the Secretary of the Army\(who was designated by the Secretary of Defense as executive agent for the prevention, mitigation, and treatment of blast injuries under section 256 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 119 Stat. 3181; 10 U.S.C. 1071 note)).
+Coordination in Development.—The comprehensive plan submitted under subsection (b) shall be developed in coordination with the Secretary of the Army (who was designated by the Secretary of Defense as executive agent for the prevention, mitigation, and treatment of blast injuries under section 256 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 119 Stat. 3181; 10 U.S.C. 1071 note)).
 
 #### “SEC. 1621. CENTER OF EXCELLENCE IN THE PREVENTION, DIAGNOSIS, MITIGATION, TREATMENT, AND REHABILITATION OF TRAUMATIC BRAIN INJURY.
 
@@ -1392,7 +1392,7 @@ Responsibilities.—The center shall have responsibilities as follows:
 
 &emsp;“(9) To conduct research on the mental health needs of families of members of the Armed Forces with post-traumatic stress disorder and other mental health conditions and develop protocols to address any needs identified through such research.
 
-&emsp;“(10) To develop and oversee a long-term plan to increase the number of mental health and neurological health professionals within the Department in order to facilitate the meeting by the Department of the needs of members of the Armed Forces with post-traumatic stress disorder and other mental health conditions until their transition to care and treatment from the Department of Veterans Affairs.
+&emsp;“(10) To develop and oversee a long-term plan to increase the number of mental health and neurological health professionals within the Department in order to facilitate the meeting by the Department of theneeds of members of the Armed Forces with post-traumatic stress disorder and other mental health conditions until their transition to care and treatment from the Department of Veterans Affairs.
 
 #### “SEC. 1623. CENTER OF EXCELLENCE IN PREVENTION, DIAGNOSIS, MITIGATION, TREATMENT, AND REHABILITATION OF MILITARY EYE INJURIES.
 
@@ -1466,7 +1466,7 @@ Medical and Dental Care for Former Members.—
 
 &emsp;“(1)
 
-In general.—Effective as of the date of the enactment of this Act \[Jan. 28, 2008\] and subject to regulations prescribed by the Secretary of Defense, the Secretary may authorize that any former member ofthe Armed Forces with a serious injury or illness may receive the same medical and dental care as a member of the Armed Forces on active duty for medical and dental care not reasonably available to such former member in the Department of Veterans Affairs.
+In general.—Effective as of the date of the enactment of this Act \[Jan. 28, 2008\] and subject to regulations prescribed by the Secretary of Defense, the Secretary may authorize that any former member of the Armed Forces with a serious injury or illness may receive the same medical and dental care as a member of the Armed Forces on active duty for medical and dental care not reasonably available to such former member in the Department of Veterans Affairs.
 
 &emsp;“(2)
 
@@ -1478,7 +1478,7 @@ Rehabilitation and Vocational Benefits.—
 
 &emsp;“(1)
 
-In general.—Effective as of the date of the enactment of this Act \[Jan. 28, 2008\], a member of the Armed Forces with a severe injury or illness is entitled to such benefits (including rehabilitation and vocational benefits, but not including compensation) from the Secretary of Veterans Affairs to facilitate the recovery and rehabilitation of such member as the Secretary otherwise provides to veterans of the Armed Forces receiving medical care in medical facilities of the Department of Veterans Affairs facilities in order to facilitate the recovery and rehabilitation of such members.
+In general.—Effective as of the date of the enactment of this Act \[Jan. 28, 2008\], a member of the Armed Forces with a severe injury or illness is entitled to such benefits (including rehabilitation and vocational benefits, but not including compensation)from the Secretary of Veterans Affairs to facilitate the recovery and rehabilitation of such member as the Secretary otherwise provides to veterans of the Armed Forces receiving medical care in medical facilities of the Department of Veterans Affairs facilities in order to facilitate the recovery and rehabilitation of such members.
 
 &emsp;“(2)
 
@@ -1582,7 +1582,7 @@ Annual Reports.—
 
 &emsp;“(1)
 
-In general.—Not later than January 1, 2009, and each year thereafter through 2014, the Director shall submit to the Secretary of Defense and the Secretary of Veterans Affairs, and to the appropriate committees of Congress, a report on the activities of the Office during the preceding calendar year. Each report shall include, for the year covered by such report, the following:
+In general.—Not later than January 1, 2009, and each year thereafter through 2014, the Director shall submit to the Secretary of Defense and the Secretary of Veterans Affairs, and to the appropriatecommittees of Congress, a report on the activities of the Office during the preceding calendar year. Each report shall include, for the year covered by such report, the following:
 
 &emsp;&emsp;“(A) A detailed description of the activities of the Office, including a detailed description of the amounts expended and the purposes for which expended.
 
@@ -1976,7 +1976,7 @@ Elements of Program Design.—The program design required by subsection (a) shal
 
 “(d)
 
-Implementation Plan Required.—Not later than February 1, 2008, the Secretary of Defense, in coordination with the Secretaries of the military departments, shall develop an implementation plan for the disease and chronic care management program. In order to facilitate the carrying out of the program, the plan developed by the Secretary shall—
+Implementation Plan Required.—Not later than February 1, 2008, the Secretary of Defense, in coordination with the Secretaries of the military departments, shall develop an implementation plan for thedisease and chronic care management program. In order to facilitate the carrying out of the program, the plan developed by the Secretary shall—
 
 &emsp;“(1) require a comprehensive analysis of the disease and chronic care management opportunities within each region of the TRICARE program, including within military treatment facilities and through contractors under the TRICARE program;
 
@@ -2014,7 +2014,7 @@ Report elements.—The report required by paragraph (1) shall include the follow
 
 #### Prevention, Mitigation, and Treatment of Blast Injuries
 
-Pub. L. 109–163, div. A, title II, §256, Jan. 6, 2006, 119 Stat. 3181, provided that:
+Pub. L. 109–163, div. A, title II, §256, as amended by Pub. L. 111–383, div. A, title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317, Jan. 6, 2006, 119 Stat. 3181, provided that:
 
 “(a)
 
@@ -2030,7 +2030,7 @@ General Responsibilities.—The executive agent designated under subsection (a) 
 
 &emsp;“(3) enabling the sharing of blast injury health hazards and survivability data collected through such projects, programs, and activities with the programs of the Department of Defense;
 
-&emsp;“(4) working with the Director, Defense Research and Engineering and the Secretaries of the military departments to ensure resources are adequate to also meet non-medical requirements related to blast injury prevention, mitigation, and treatment; and
+&emsp;“(4) working with the Assistant Secretary of Defense for Research and Engineering and the Secretaries of the military departments to ensure resources are adequate to also meet non-medical requirements related to blast injury prevention, mitigation, and treatment; and
 
 &emsp;“(5) ensuring that a joint combat trauma registry is established and maintained for the purposes of collection and analysis of contemporary combat casualties, including casualties with traumatic brain injury.
 
@@ -2062,7 +2062,7 @@ Oversight of research efforts.—The executive agent shall establish, coordinate
 
 “(d)
 
-Other Related Research Efforts.—The Director, Defense Research and Engineering, in coordination with the executive agent designated under subsection (a) and the Director of the Joint IED Defeat Task Force, shall—
+Other Related Research Efforts.—The Assistant Secretary of Defense for Research and Engineering, in coordination with the executive agent designated under subsection (a) and the Director of the Joint IED Defeat Task Force, shall—
 
 &emsp;“(1) review and assess the adequacy of current research efforts of the Department on the prevention and mitigation of blast injuries;
 

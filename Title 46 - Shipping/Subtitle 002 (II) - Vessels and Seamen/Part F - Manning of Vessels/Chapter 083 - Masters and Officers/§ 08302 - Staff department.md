@@ -62,7 +62,7 @@ Subsections (g) and (h) prescribe the type and restrictions for the uniform acco
 
 #### Amendments
 
-2006—Subsec. (g). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Subsec. (g). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
-1985—Subsec. (b). Pub. L. 99–36 inserted a comma after “clerks”.
+<b>1985</b>—Subsec. (b). Pub. L. 99–36 inserted a comma after “clerks”.
 

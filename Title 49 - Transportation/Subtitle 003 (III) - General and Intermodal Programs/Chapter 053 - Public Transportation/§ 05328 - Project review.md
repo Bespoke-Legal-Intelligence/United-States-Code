@@ -120,7 +120,7 @@ The Department of Transportation and Related Agencies Appropriations Act, 1991, 
 
 #### Amendments
 
-2005—Subsec. (a)(1). Pub. L. 109–59, §3027(1), inserted heading and substituted “The Secretary shall cooperate with an applicant undertaking an alternatives analysis required by subsections (d) and (e) of section 5309 in the alternatives analysis” for “When the Secretary of Transportation allows a new fixed guideway project to advance into the alternatives analysis stage of project review, the Secretary shall cooperate with the applicant in alternatives analysis”.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–59, §3027(1), inserted heading and substituted “The Secretary shall cooperate with an applicant undertaking an alternatives analysis required by subsections (d) and (e) of section 5309 in the alternatives analysis” for “When the Secretary of Transportation allows a new fixed guideway project to advance into the alternatives analysis stage of project review, the Secretary shall cooperate with the applicant in alternatives analysis”.
 
 Subsec. (a)(2). Pub. L. 109–59, §3027(2), inserted heading and substituted “meets the requirements of subsection (d) or (e) of section 5309” for “is consistent with section 5309(e)”.
 
@@ -128,13 +128,13 @@ Subsec. (a)(3). Pub. L. 109–59, §3027(3), inserted heading, struck out “of 
 
 Subsec. (a)(4). Pub. L. 109–59, §3027(4), added par. (4) and struck out former par. (4) which read as follows: “The Secretary shall make a full funding grant agreement under section 5309 of this title for a project not later than 120 days after the project enters the final design stage of construction. The agreement shall provide for a United States Government share of the construction cost at least equal to the Government share estimated in the Secretary's most recent report required under 5309(<i>o</i>)(1) or an update of the report unless the applicant requests otherwise.”
 
-1998—Subsec. (a)(2). Pub. L. 105–178, §3009(h)(2), substituted “5309(e)” for “5309(e)(1)–(6) of this title”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–178, §3009(h)(2), substituted “5309(e)” for “5309(e)(1)–(6) of this title”.
 
 Subsec. (a)(4). Pub. L. 105–178, §3009(h)(3)(C), as added by Pub. L. 105–206, §9009(h)(3), substituted “5309(<i>o</i>)(1)” for “section 5309(m)(2) of this title”.
 
 Pub. L. 105–178, §3009(h)(3)(B), as amended by Pub. L. 105–206, §9009(h)(2), substituted “full funding” for “full financing”.
 
-1996—Subsec. (b)(3). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+<b>1996</b>—Subsec. (b)(3). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
 
 Subsec. (c)(1)(E). Pub. L. 104–205 struck out “Westside” after “District of Oregon” and “and” after “House Report 101–584,” and inserted before period at end “, and the locally preferred alternative for the South/North Corridor Project”.
 

@@ -1,6 +1,6 @@
 ### §30909. Security
 
-Neither the United States nor a federally-owned corporation may be required to give abond or admiralty stipulation in a civil action under this chapter.
+Neither the United States nor a federally-owned corporation may be required to give a bond or admiralty stipulation in a civil action under this chapter.
 
 (Pub. L. 109–304, §6(c), Oct. 6, 2006, 120 Stat. 1519.)
 

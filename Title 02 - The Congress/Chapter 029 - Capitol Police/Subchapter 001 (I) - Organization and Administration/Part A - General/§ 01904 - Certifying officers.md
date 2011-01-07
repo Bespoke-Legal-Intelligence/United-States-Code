@@ -2,15 +2,15 @@
 
 #### (a) Appointment of certifying officers of the Capitol Police
 
-The Chief Administrative Officer of the United States Capitol Police, or when there is not a Chief Administrative Officer, the Capitol Police Board, shall appoint certifying officers to certify all vouchers for payment from funds made available to the United States Capitol Police.
+The Chief Administrative Officer of the United States Capitol Police, or when there is not a Chief Administrative Officer, the Chief of the Capitol Police, shall appoint certifying officers to certify all vouchers for payment from funds made available to the United States Capitol Police.
 
 #### (b) Responsibility and accountability of certifying officers
 
 #### (1) In general
 
-&emsp;Each officer or employee of the Capitol Police who has been duly authorized in writing by the Chief Administrative Officer, or the Capitol Police Board if there is not a Chief Administrative Officer, to certify vouchers pursuant to subsection (a) of this section shall—
+&emsp;Each officer or employee of the Capitol Police who has been duly authorized in writing by the Chief Administrative Officer, or the Chief of the Capitol Police if there is not a Chief Administrative Officer, to certify vouchers pursuant to subsection (a) of this section shall—
 
-&emsp;&emsp;(A) be held responsible for the existence and correctness of the facts recited in thecertificate or otherwise stated on the voucher or its supporting papers and for the legality of the proposed payment under the appropriation or fund involved;
+&emsp;&emsp;(A) be held responsible for the existence and correctness of the facts recited in the certificate or otherwise stated on the voucher or its supporting papers and for the legality of the proposed payment under the appropriation or fund involved;
 
 &emsp;&emsp;(B) be held responsible and accountable for the correctness of the computations of certified vouchers; and
 
@@ -28,9 +28,13 @@ The Chief Administrative Officer of the United States Capitol Police, or when th
 
 The liability of the certifying officers of the United States Capitol Police shall be enforced in the same manner and to the same extent as currently provided with respect to the enforcement of the liability of disbursing and other accountable officers, and such officers shall have the right to apply for and obtain a decision by the Comptroller General on any question of law involved in a payment on any vouchers presented to them for certification.
 
-(Pub. L. 106–554, §1(a)(2) \[title I, §107\], Dec. 21, 2000, 114 Stat. 2763, 2763A–103.)
+(Pub. L. 106–554, §1(a)(2) \[title I, §107\], Dec. 21, 2000, 114 Stat. 2763, 2763A–103; Pub. L. 111–145, §2(a)(3), Mar. 4, 2010, 124 Stat. 49.)
 
 #### Codification
 
 Section was classified to section 207d of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+
+#### Amendments
+
+2010—Subsecs. (a), (b)(1). Pub. L. 111–145 substituted “the Chief of the Capitol Police” for “the Capitol Police Board”.
 

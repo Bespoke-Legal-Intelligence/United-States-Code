@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—The Administrator of the Federal Aviation Administration maymake grants to institutions of higher education to establish and operate regional centers of air transportation excellence. The locations shall be distributed in a geographically fair way.
+General Authority.—The Administrator of the Federal Aviation Administration may make grants to institutions of higher education to establish and operate regional centers of air transportation excellence. The locations shall be distributed in a geographically fair way.
 
 (b)
 

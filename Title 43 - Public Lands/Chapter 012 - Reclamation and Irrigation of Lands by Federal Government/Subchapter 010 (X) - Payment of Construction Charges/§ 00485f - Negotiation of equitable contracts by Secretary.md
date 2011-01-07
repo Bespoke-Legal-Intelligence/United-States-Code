@@ -20,7 +20,7 @@ Section 485c of this title, referred to in subsec. (a), was repealed by Pub. L. 
 
 #### Amendments
 
-1945—Subsec. (c). Act Apr. 24, 1945, added second sentence.
+<b>1945</b>—Subsec. (c). Act Apr. 24, 1945, added second sentence.
 
 #### Extension of Secretary's Authority To Enter Into Amendatory Contracts
 

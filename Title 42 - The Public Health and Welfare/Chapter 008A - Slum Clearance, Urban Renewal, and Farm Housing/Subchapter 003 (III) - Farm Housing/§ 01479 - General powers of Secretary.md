@@ -40,7 +40,7 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 &emsp;&emsp;(B) 13 percent or more of its population residing in substandard housing.
 
-> &emsp;In designating underserved areas under paragraph (1), in each fiscal year the Secretaryshall designate not less than 5 counties or communities that contain tribal allotted or Indian trust land.
+> &emsp;In designating underserved areas under paragraph (1), in each fiscal year the Secretary shall designate not less than 5 counties or communities that contain tribal allotted or Indian trust land.
 
 #### (3) Outreach program and review
 
@@ -78,7 +78,7 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 #### (B) Use
 
-&emsp;&emsp;A grant under this paragraph shall not exceed an amount that the Secretary determines to equal the customary and reasonable costs incurred in preparing an application for a loan under section 1472, 1474, 1484, 1485, or 1490d of this title, or a grant under section 1490m of this title (including preapplication planning, site analysis, market analysis, and other necessary technical assistance). The Secretary shall adjust the loan or grant amount under such sections to take account of project preparation costs that have been paid from grant proceeds under this paragraph and that normally would be reimbursed with proceeds of the loan or grant.
+&emsp;&emsp;A grant under this paragraph shall not exceed an amount that the Secretary determines to equal the customary and reasonable costs incurred in preparing an application for a loan under section 1472, 1474, 1484, 1485, or 1490d of this title, or a grant under section 1490m of this title (including preapplication planning, site analysis, market analysis, and other necessary technical assistance). The Secretary shall adjust the loan or grant amount under such sections to take account of project preparation costs that have been paid from grant proceeds under this paragraph and that normallywould be reimbursed with proceeds of the loan or grant.
 
 #### (C) Approval
 
@@ -122,15 +122,15 @@ The National Housing Act, referred to in subsec. (a), is act June 27, 1934, ch. 
 
 #### Amendments
 
-1998—Subsec. (f)(4)(A). Pub. L. 105–276, in first sentence, substituted “each fiscal year” for “fiscal year 1998” and, in second sentence, substituted “During each fiscal year” for “During such fiscal year” and substituted “from amounts available for assistance under paragraphs (2) and (5) of section 1490a(a) of this title, an amount” for “an amount of section 521 rental assistance”.
+<b>1998</b>—Subsec. (f)(4)(A). Pub. L. 105–276, in first sentence, substituted “each fiscal year” for “fiscal year 1998” and, in second sentence, substituted “During each fiscal year” for “During such fiscal year” and substituted “from amounts available for assistance under paragraphs (2) and (5) of section 1490a(a) of this title, an amount” for “an amount of section 521 rental assistance”.
 
-1997—Subsec. (f)(4)(A). Pub. L. 105–86 substituted “fiscal year 1998” for “fiscal year 1997”.
+<b>1997</b>—Subsec. (f)(4)(A). Pub. L. 105–86 substituted “fiscal year 1998” for “fiscal year 1997”.
 
-1996—Subsec. (f)(4)(A). Pub. L. 104–180 substituted “fiscal year 1997” for “fiscal year 1996”.
+<b>1996</b>—Subsec. (f)(4)(A). Pub. L. 104–180 substituted “fiscal year 1997” for “fiscal year 1996”.
 
 Pub. L. 104–120 substituted “fiscal year 1996” for “fiscal years 1993 and 1994” and “During such fiscal year” for “During each such fiscal year”.
 
-1992—Subsec. (f)(1). Pub. L. 102–550, §705(a)(1), substituted “in each fiscal year” for “in each of fiscal years 1991 and 1992” in introductory provisions.
+<b>1992</b>—Subsec. (f)(1). Pub. L. 102–550, §705(a)(1), substituted “in each fiscal year” for “in each of fiscal years 1991 and 1992” in introductory provisions.
 
 Subsec. (f)(2). Pub. L. 102–550, §705(a)(2), inserted concluding provisions.
 
@@ -140,15 +140,15 @@ Subsec. (f)(4)(B)(ii). Pub. L. 102–550, §705(c), inserted “, or in close p
 
 Subsec. (f)(8)(C) to (E). Pub. L. 102–550, §705(b), redesignated subpar. (D) as (C), struck out former subpar. (C) which read as follows: “is designated by the State or county in which it is located as a colonia;”, added subpar. (D), and struck out subpar. (E) which read as follows: “was in existence and generally recognized as a colonia before November 28, 1990.”
 
-1990—Subsecs. (d), (e). Pub. L. 101–625, §708, added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1990</b>—Subsecs. (d), (e). Pub. L. 101–625, §708, added subsec. (d) and redesignated former subsec. (d) as (e).
 
 Subsec. (f). Pub. L. 101–625, §709(b), added subsec. (f).
 
-1983—Subsec. (a). Pub. L. 98–181 inserted provisions relating to standards, designated cls. (1) to (4), the compliance with which will result in approval by the Secretary, and inserted provision relating to the promotion of the use of energy saving techniques.
+<b>1983</b>—Subsec. (a). Pub. L. 98–181 inserted provisions relating to standards, designated cls. (1) to (4), the compliance with which will result in approval by the Secretary, and inserted provision relating to the promotion of the use of energy saving techniques.
 
-1979—Subsec. (c). Pub. L. 96–153 substituted “within thirty-six months after October 12, 1977” for “within eighteen months after October 12, 1977”.
+<b>1979</b>—Subsec. (c). Pub. L. 96–153 substituted “within thirty-six months after October 12, 1977” for “within eighteen months after October 12, 1977”.
 
-1977—Subsecs. (c), (d). Pub. L. 95–128 added subsecs. (c) and (d).
+<b>1977</b>—Subsecs. (c), (d). Pub. L. 95–128 added subsecs. (c) and (d).
 
 #### Effective Date of 1996 Amendment
 

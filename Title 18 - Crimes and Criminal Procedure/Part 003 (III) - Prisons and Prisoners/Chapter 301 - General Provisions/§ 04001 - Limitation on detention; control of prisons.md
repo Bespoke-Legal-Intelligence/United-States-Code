@@ -18,13 +18,11 @@ This section consolidates said sections 741 and 753e with such changes of langua
 
 #### References in Text
 
-The civil-service laws, referred to in subsec. (b)(1), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
-The Classification Act, as amended, referred to in subsec. (b)(1), originally was the Classification Act of 1923, Mar. 4, 1923, ch. 265, 42 Stat. 1488, as amended, which was repealed by section 1202 of the Classification Act of 1949, Oct. 28, 1949, ch. 782, 63 Stat. 972. Section 1106(a) of the 1949 Act provided that references in other laws to the Classification Act of 1923 shall be held and considered to mean the Classification Act of 1949. The Classification Act of 1949 was in turn repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as chapter 51 and subchapter III of chapter 53 of Title 5.
+The Classification Act, as amended, referred to in subsec. (b)(1), originally was the Classification Act of 1923, Mar. 4, 1923, ch. 265, 42 Stat. 1488, which was repealed by section 1202 of the Classification Act of 1949, Oct. 28, 1949, ch. 782, 63 Stat. 972. Section 1106(a) of the 1949 Act provided that references in other laws to the Classification Act of 1923 shall be held and considered to mean the Classification Act of 1949. The Classification Act of 1949 was in turn repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as chapter 51 and subchapter III of chapter 53 of Title 5.
 
 #### Amendments
 
-1971—Pub. L. 92–128, §1(b), substituted “Limitation on detention; control of prisons” for “Control by Attorney General” in section catchline.
+<b>1971</b>—Pub. L. 92–128, §1(b), substituted “Limitation on detention; control of prisons” for “Control by Attorney General” in section catchline.
 
 Subsec. (a). Pub. L. 92–128, §1(a), added subsec. (a).
 

@@ -102,17 +102,17 @@ Section was formerly classified to section 7274h of Title 42, The Public Health 
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–136, §3141(i)(5)(D)(i), struck out “(hereinafter in this subtitle referred to as the ‘Secretary’)” after “Secretary of Energy”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §3141(i)(5)(D)(i), struck out “(hereinafter in this subtitle referred to as the ‘Secretary’)” after “Secretary of Energy”.
 
 Subsec. (g). Pub. L. 108–136, §3141(i)(5)(D)(ii), added subsec. (g).
 
-2001—Subsec. (c)(6)(C). Pub. L. 107–107 substituted “title II of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3141 et seq.)” for “title IX of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3241 et seq.)”.
+<b>2001</b>—Subsec. (c)(6)(C). Pub. L. 107–107 substituted “title II of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3141 et seq.)” for “title IX of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3241 et seq.)”.
 
-1998—Subsec. (c)(6)(A). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(6)(A)\], added subpar. (A) and struck out former subpar. (A) which read as follows: “programs carried out by the Secretary of Labor under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998;”.
+<b>1998</b>—Subsec. (c)(6)(A). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(6)(A)\], added subpar. (A) and struck out former subpar. (A) which read as follows: “programs carried out by the Secretary of Labor under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998;”.
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(7)(A)\], added subpar. (A) and struck out former subpar. (A) which read as follows: “programs carried out by the Department of Labor pursuant to the Job Training Partnership Act (29 U.S.C. 1501 et seq.);”
 
-1994—Pub. L. 103–337, §1070(c)(2)(B), substituted “workforce” for “work force” in section catchline.
+<b>1994</b>—Pub. L. 103–337, §1070(c)(2)(B), substituted “workforce” for “work force” in section catchline.
 
 Subsec. (a). Pub. L. 103–337, §1070(c)(2)(A), substituted “workforce for” for “work force for” in introductory provisions.
 

@@ -26,11 +26,11 @@ A prior section 4962 was renumbered section 4963 of this title.
 
 #### Amendments
 
-2007—Subsec. (b). Pub. L. 110–172 substituted “D, or G” for “or D”.
+<b>2007</b>—Subsec. (b). Pub. L. 110–172 substituted “D, or G” for “or D”.
 
-1997—Subsec. (b). Pub. L. 105–34 substituted “subchapter A, C, or D” for “subchapter A or C”.
+<b>1997</b>—Subsec. (b). Pub. L. 105–34 substituted “subchapter A, C, or D” for “subchapter A or C”.
 
-1987—Pub. L. 100–203, §10712(b)(4), struck out “private foundation” before “first tier taxes” in section catchline.
+<b>1987</b>—Pub. L. 100–203, §10712(b)(4), struck out “private foundation” before “first tier taxes” in section catchline.
 
 Subsec. (a). Pub. L. 100–203, §10712(b)(2), substituted “any qualified first tier tax” for “any private foundation first tier tax” in closing provisions.
 

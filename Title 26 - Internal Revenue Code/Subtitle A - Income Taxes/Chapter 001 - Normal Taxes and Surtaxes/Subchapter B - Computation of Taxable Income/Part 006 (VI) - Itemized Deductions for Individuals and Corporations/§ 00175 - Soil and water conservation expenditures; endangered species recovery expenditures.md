@@ -82,7 +82,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §15303(a)(2)(B), inserted “; endangered species recovery expenditures” after “conservation expenditures” in section catchline.
+<b>2008</b>—Pub. L. 110–246, §15303(a)(2)(B), inserted “; endangered species recovery expenditures” after “conservation expenditures” in section catchline.
 
 Subsec. (a). Pub. L. 110–246, §15303(a)(2)(A), inserted “, or for endangered species recovery” after “erosion of land used in farming”.
 
@@ -92,15 +92,15 @@ Subsec. (c)(3)(A). Pub. L. 110–246, §15303(b)(1), inserted “or endangered s
 
 Subsec. (c)(3)(A)(i). Pub. L. 110–246, §15303(b)(2), inserted “or the recovery plan approved pursuant to the Endangered Species Act of 1973” after “Department of Agriculture”.
 
-1986—Subsec. (c)(3). Pub. L. 99–514 added par. (3).
+<b>1986</b>—Subsec. (c)(3). Pub. L. 99–514 added par. (3).
 
-1976—Subsec. (d)(1). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (d)(1). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (d)(1)(A). Pub. L. 94–455, §1901(a)(30), substituted “August 16, 1954” for “the date on which this title is enacted” after “and ends after”.
 
 Subsecs. (d)(2), (e). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1968—Subsec. (c)(1). Pub. L. 90–630, §5(a), in text following subpar. (B), designated as cl. (i) existing provisions covering amounts which, if paid or incurred by the taxpayer, would without regard to the exception constitute deductible expenditures, and added cl. (ii).
+<b>1968</b>—Subsec. (c)(1). Pub. L. 90–630, §5(a), in text following subpar. (B), designated as cl. (i) existing provisions covering amounts which, if paid or incurred by the taxpayer, would without regard to the exception constitute deductible expenditures, and added cl. (ii).
 
 Subsec. (f). Pub. L. 90–630, §5(b), added subsec. (f).
 
@@ -122,5 +122,5 @@ Amendment by section 1901(a)(30) of Pub. L. 94–455 applicable with respect to 
 
 #### Effective Date of 1968 Amendment
 
-Section 5(c) of Pub. L. 90–630 provided that: “The amendments made by subsections (a) and (b) \[amendingthis section\] shall apply to assessments levied after the date of the enactment of this Act \[Oct. 22, 1968\] in taxable years ending after such date.”
+Section 5(c) of Pub. L. 90–630 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to assessments levied after the date of the enactment of this Act \[Oct. 22, 1968\] in taxable years ending after such date.”
 

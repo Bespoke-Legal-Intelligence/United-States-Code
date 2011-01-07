@@ -82,7 +82,7 @@ Remedy.—If, in response to a complaint filed under paragraph (1), the Secretar
 
 &emsp;&emsp;&emsp;(iii) provide compensatory damages to the complainant.
 
-> &emsp;&emsp;If such an order is issued under this paragraph, the Secretary of Labor, at the request of the complainant, shall assess against the person or persons against whom the order isissued a sum equal to the aggregate amount of all costs and expenses (including attorney's and expert witness fees) reasonably incurred, as determined by the Secretary of Labor, by the complainant for, or in connection with, the bringing the complaint upon which the order was issued.
+> &emsp;&emsp;If such an order is issued under this paragraph, the Secretary of Labor, at the request of the complainant, shall assess against the person or persons against whom the order is issued a sum equal to the aggregate amount of all costs and expenses (including attorney's and expert witness fees) reasonably incurred, as determined by the Secretary of Labor, by the complainant for, or in connection with, the bringing the complaint upon which the order was issued.
 
 &emsp;&emsp;(C)
 

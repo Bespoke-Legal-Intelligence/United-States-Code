@@ -26,7 +26,7 @@ Leasing and Road Maintenance Authority.—The Secretary of Defense and the Secre
 
 Treatment of Pentagon Reservation.—In this chapter, the terms “Secretary concerned” and “Secretary of a military department” include the Secretary of Defense with respect to the Pentagon Reservation.
 
-(Added Pub. L. 100–370, §1(<i>l</i>)(3), July 19, 1988, 102 Stat. 849; amended Pub. L. 108–375, div. B, titleXXVIII, §2821(a)(1), (e)(1), Oct. 28, 2004, 118 Stat. 2129, 2130; Pub. L. 109–163, div. B, title XXVIII, §2821(d), (e), Jan. 6, 2006, 119 Stat. 3512.)
+(Added Pub. L. 100–370, §1(<i>l</i>)(3), July 19, 1988, 102 Stat. 849; amended Pub. L. 108–375, div. B, title XXVIII, §2821(a)(1), (e)(1), Oct. 28, 2004, 118 Stat. 2129, 2130; Pub. L. 109–163, div. B, title XXVIII, §2821(d), (e), Jan. 6, 2006, 119 Stat. 3512.)
 
 #### Historical and Revision Notes
 
@@ -40,11 +40,11 @@ A prior section 2661, act Aug. 10, 1956, ch. 1041, 70A Stat. 147, related to pla
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–163, §2821(d), redesignated subsec. (c) as section 2664(b) of this title.
+<b>2006</b>—Subsec. (c). Pub. L. 109–163, §2821(d), redesignated subsec. (c) as section 2664(b) of this title.
 
 Subsec. (d). Pub. L. 109–163, §2821(e), added subsec. (d).
 
-2004—Subsecs. (a), (b). Pub. L. 108–375, §2821(e)(1), inserted headings.
+<b>2004</b>—Subsecs. (a), (b). Pub. L. 108–375, §2821(e)(1), inserted headings.
 
 Subsec. (c). Pub. L. 108–375, §2821(a)(1), added subsec. (c).
 

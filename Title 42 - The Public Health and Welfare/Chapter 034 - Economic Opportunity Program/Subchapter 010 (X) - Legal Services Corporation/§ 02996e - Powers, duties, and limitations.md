@@ -78,7 +78,7 @@ The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a), 
 
 #### Amendments
 
-1977—Subsec. (a)(3). Pub. L. 95–222, §5(a), (b), substituted “, or” for “and not” and in par. (A) inserted exception for broad general legal or policy research.
+<b>1977</b>—Subsec. (a)(3). Pub. L. 95–222, §5(a), (b), substituted “, or” for “and not” and in par. (A) inserted exception for broad general legal or policy research.
 
 Subsec. (b)(1). Pub. L. 95–222, §6(a), designated existing provisions as subpar. (A) and added subpar. (B).
 

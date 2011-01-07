@@ -32,7 +32,7 @@ With respect to gilsonite (including all vein-type solid hydrocarbons) a lease u
 
 (5) An offsite lease for lands the surface of which is under the jurisdiction of a Federal agency other than the Department of the Interior shall be issued only with the consent of that other Federal agency and shall be subject to such terms and conditions as it may prescribe.
 
-(6) An offsite lease shall be for such periods of time and shall include such lands, subject to the acreage limitations contained in this subsection, as the Secretary determines to be necessary to achieve the purposes for which the lease is issued, and shall contain such provisions as he determines are needed for protection of environmental and other resource values.
+(6) An offsite lease shall be for such periods of time and shall include such lands, subject to theacreage limitations contained in this subsection, as the Secretary determines to be necessary to achieve the purposes for which the lease is issued, and shall contain such provisions as he determines are needed for protection of environmental and other resource values.
 
 (7) An offsite lease shall provide for the payment of an annual rental which shall reflect the fair market value of the rights granted and which shall be subject to such revisions as the Secretary, in his discretion, determines may be needed from time to time to continue to reflect the fair market value.
 
@@ -54,15 +54,15 @@ In recognition of the unique character of oil shale development:
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–58 designated first to third sentences as pars. (1) to (3), respectively, substituted “5,760” for “five thousand one hundred and twenty” in par. (2), designated fourth to eighth sentences as par. (4) and substituted “rate of $2.00 per acre” for “rate of 50 cents per acre”, “No one person” for “Not more than one lease shall be granted under this section to any one person”, and “shall acquire or hold more than 50,000 acres of oil shale leases in any one State. For” for “except that with respect to leases for”, and added par. (5).
+<b>2005</b>—Subsec. (a). Pub. L. 109–58 designated first to third sentences as pars. (1) to (3), respectively, substituted “5,760” for “five thousand one hundred and twenty” in par. (2), designated fourth to eighth sentences as par. (4) and substituted “rate of $2.00 per acre” for “rate of 50 cents per acre”, “No one person” for “Not more than one lease shall be granted under this section to any one person”, and “shall acquire or hold more than 50,000 acres of oil shale leases in any one State. For” for “except that with respect to leases for”, and added par. (5).
 
-1982—Subsecs. (c), (d). Pub. L. 97–394 added subsecs. (c) and (d).
+<b>1982</b>—Subsecs. (c), (d). Pub. L. 97–394 added subsecs. (c) and (d).
 
-1981—Subsec. (a). Pub. L. 97–78 substituted “and gilsonite (including all vein-type solid hydrocarbons)” and “gilsonite (including all vein-type hydrocarbons)” for “native asphalt, solid and semisolid bitumen, and bituminous rock (including oil-impregnated rock or sands from which oil is recoverable only by special treatment after the deposit is mined or quarried)”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–78 substituted “and gilsonite (including all vein-type solid hydrocarbons)” and “gilsonite (including all vein-type solid hydrocarbons)” for “native asphalt, solid and semisolid bitumen, and bituminous rock (including oil-impregnated rock or sands from which oil is recoverable only by special treatment after the deposit is mined or quarried)”.
 
 Subsec. (c). Pub. L. 97–78 substituted “gilsonite (including all vein-type solid hydrocarbons)” for “native asphalt, solid and semisolid bitumen, and bituminous rock (including oil-impregnated rock or sands from which oil is recoverable only by special treatment after the deposit is mined or quarried)”.
 
-1960—Pub. L. 86–705 designated existing provisions as subsec. (a) and added subsecs. (b) and (c). Other changes included addition of native asphalt, solid and semisolid bitumen, and bituminous rock within the scope of the section, and insertion of the limitation upon such holdings.
+<b>1960</b>—Pub. L. 86–705 designated existing provisions as subsec. (a) and added subsecs. (b) and (c). Other changes included addition of native asphalt, solid and semisolid bitumen, and bituminous rock within the scope of the section, and insertion of the limitation upon such holdings.
 
 #### Transfer of Functions
 

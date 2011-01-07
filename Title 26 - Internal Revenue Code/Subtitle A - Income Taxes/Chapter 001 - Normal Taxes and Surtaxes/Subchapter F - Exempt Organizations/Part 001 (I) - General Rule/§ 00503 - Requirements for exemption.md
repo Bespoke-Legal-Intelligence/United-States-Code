@@ -34,7 +34,7 @@ For purposes of this section, the term “prohibited transaction” means any tr
 
 #### (c) Future status of organizations denied exemption
 
-Any organization described in section 501(c) (17) or (18) or subsection (a)(1)(B) which is denied exemption under section 501(a) by reason of subsection (a) of this section, with respect to any taxable year following the taxable year in which notice of denial of exemption was received, may, under regulations prescribed by the Secretary, file claim for exemption, and if the Secretary,pursuant to such regulations, is satisfied that such organization will not knowingly again engage in a prohibited transaction, such organization shall be exempt with respect to taxable years after the year in which such claim is filed.
+Any organization described in section 501(c) (17) or (18) or subsection (a)(1)(B) which is denied exemption under section 501(a) by reason of subsection (a) of this section, with respect to any taxable year following the taxable year in which notice of denial of exemption was received, may, under regulations prescribed by the Secretary, file claim for exemption, and if the Secretary, pursuant to such regulations, is satisfied that such organization will not knowingly again engage in a prohibited transaction, such organization shall be exempt with respect to taxable years after the year in which such claim is filed.
 
 #### \[(d) Repealed. Pub. L. 101–508, title XI, §11801(a)(22), Nov. 5, 1990, 104 Stat. 1388–521\]
 
@@ -74,15 +74,15 @@ Subsection (b)(1) shall not apply to a loan made by a trust described in section
 
 #### Amendments
 
-1990—Subsec. (d). Pub. L. 101–508 struck out subsec. (d) “Special rule for loans” which read as follows: “For purposes of the application of subsection (b)(1), in the case of a loan by a trust described in section 401(a), the following rules shall apply with respect to a loan made before March 1, 1954, which would constitute a prohibited transaction if made on or after March 1, 1954:
+<b>1990</b>—Subsec. (d). Pub. L. 101–508 struck out subsec. (d) “Special rule for loans” which read as follows: “For purposes of the application of subsection (b)(1), in the case of a loan by a trust described in section 401(a), the following rules shall apply with respect to a loan made before March 1, 1954, which would constitute a prohibited transaction if made on or after March 1, 1954:
 
 &emsp;“(1) If any part of the loan is repayable prior to December 31, 1955, the renewal of such part of the loan for a period not extending beyond December 31, 1955, on the same terms, shall not be considered a prohibited transaction.
 
 &emsp;“(2) If the loan is repayable on demand, the continuation of the loan without the receipt of adequate security and a reasonable rate of interest beyond December 31, 1955, shall be considered a prohibited transaction.”
 
-1976—Subsecs. (a)(2), (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (a)(2), (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1974—Subsec. (a)(1)(A). Pub. L. 93–406, §2003(b)(1), substituted “section 501(c)(17)” for “section 501(c)(17) or (18)”.
+<b>1974</b>—Subsec. (a)(1)(A). Pub. L. 93–406, §2003(b)(1), substituted “section 501(c)(17)” for “section 501(c)(17) or (18)”.
 
 Subsec. (a)(1)(B). Pub. L. 93–406, §2003(b)(2), inserted “which is referred to in section 4975(g)(2) or (3)”.
 
@@ -92,9 +92,9 @@ Subsec. (c). Pub. L. 93–406, §2003(b)(4), substituted “or subsection (a)(1)
 
 Subsec. (g). Pub. L. 93–406, §2003(b)(5), struck out subsec. (g) which covered trusts benefiting certain owner-employees.
 
-1969—Subsec. (a)(1)(A). Pub. L. 91–172, §§101(j)(7), 121(b)(6)(B)(ii), redesignated subpar. (B) as (A) and inserted reference to section 501(c)(18). Former subpar. (A), referring to organizations described in section 501(c)(3) and to prohibited transactions engaged in after July 1, 1950, was struck out.
+<b>1969</b>—Subsec. (a)(1)(A). Pub. L. 91–172, §§101(j)(7), 121(b)(6)(B)(ii), redesignated subpar. (B) as (A) and inserted reference to section 501(c)(18). Former subpar. (A), referring to organizations described in section 501(c)(3) and to prohibited transactions engaged in after July 1, 1950, was struck out.
 
-Subsec. (a)(1)(B). Pub. L. 91–172, §101(j)(7), redesignated subpar. (C) as (B). Former subpar. (B), referringto organizations described in section 501(c)(17) was amended by addition of a reference to section 501(c)(18), and redesignated as subpar. (A).
+Subsec. (a)(1)(B). Pub. L. 91–172, §101(j)(7), redesignated subpar. (C) as (B). Former subpar. (B), referring to organizations described in section 501(c)(17) was amended by addition of a reference to section 501(c)(18), and redesignated as subpar. (A).
 
 Subsec. (a)(1)(C). Pub. L. 91–172, §§101(j)(7), 121(b)(6)(B)(i), added subpar. (C). Former subpar. (C), dealing with organizations described in section 401(a) and with prohibited transactions engaged in after Mar. 1, 1954, was redesignated as subpar. (B).
 
@@ -106,7 +106,7 @@ Subsec. (c). Pub. L. 91–172, §§101(j)(9), (14), 121(b)(6)(B)(ii), redesignat
 
 Subsec. (d). Pub. L. 91–172, §101(j)(10), (14), redesignated subsec. (g) as (d) and substituted “subsection (b)(1)” for “subsection (c)(1).” Former subsec. (d) redesignated (c).
 
-Subsec. (e). Pub. L. 91–172, §101(j)(11), (14), redesignated subsec. (h) as (e), modified heading to read: “Special rules”, substituted “subsection (b)(1)” for “subsection (c)(1)” in text preceding par. (1) and in par. (3), and in text preceding par. (1) struck out “acquired by a trust described in section 401(a) or section 501(c)(17)”. Former subsec. (e), covering the disallowance of certain charitable deductions, was struck out.
+Subsec. (e). Pub. L. 91–172, §101(j)(11), (14), redesignated subsec. (h) as (e), modified heading to read: “Special rules”, substituted “subsection (b)(1)” for “subsection (c)(1)” in text preceding par. (1) and in par. (3), and in text preceding par. (1) struck out “acquired by a trust described in section 401(a) or section 501(c)(17)”.Former subsec. (e), covering the disallowance of certain charitable deductions, was struck out.
 
 Subsec. (f). Pub. L. 91–172, §101(j)(12), (14), redesignated subsec. (i) as (f) and substituted “Subsection (b)(1)” for “Subsection (c)(1)” and “subsection (e)” for “subsection (h)”. Former subsec. (f), defining “gift or bequest”, was struck out.
 
@@ -114,15 +114,15 @@ Subsec. (g). Pub. L. 91–172, §101(j)(13), (14), redesignated subsec. (j) as (
 
 Subsecs. (h) to (j). Pub. L. 91–172, §101(j)(14), redesignated subsecs. (h), (i), and (j) as (e), (f), and (g), respectively. Former subsecs. (e) and (f) were struck out and former subsec. (g) was redesignated (d).
 
-1962—Subsec. (j). Pub. L. 87–792 added subsec. (j).
+<b>1962</b>—Subsec. (j). Pub. L. 87–792 added subsec. (j).
 
-1960—Subsec. (a)(1). Pub. L. 86–667, §2(a)(1), denied exemption to an organization described in section 501(c)(17) if it has engaged in a prohibited transaction after Dec. 31, 1959.
+<b>1960</b>—Subsec. (a)(1). Pub. L. 86–667, §2(a)(1), denied exemption to an organization described in section 501(c)(17) if it has engaged in a prohibited transaction after Dec. 31, 1959.
 
 Subsecs. (a)(2), (b), (d). Pub. L. 86–667, §2(a)(2), (b), (c), included organizations described in section 501(c)(17).
 
 Subsec. (h). Pub. L. 86–667, §2(d), included trusts described in section 501(c)(17).
 
-1958—Subsec. (h). Pub. L. 85–866, §30(a), added subsec. (h).
+<b>1958</b>—Subsec. (h). Pub. L. 85–866, §30(a), added subsec. (h).
 
 Subsec. (i). Pub. L. 85–866, §30(b), added subsec. (i).
 

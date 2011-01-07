@@ -24,11 +24,11 @@ In this subchapter, the term “residential substance abuse treatment program”
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–199 amended subsec. (d) generally. Prior to amendment, subsec. (d) defined “residential substance abuse treatment program”.
+<b>2008</b>—Subsec. (d). Pub. L. 110–199 amended subsec. (d) generally. Prior to amendment, subsec. (d) defined “residential substance abuse treatment program”.
 
-2006—Subsec. (d). Pub. L. 109–162 added subsec. (d).
+<b>2006</b>—Subsec. (d). Pub. L. 109–162 added subsec. (d).
 
-2002—Subsec. (c). Pub. L. 107–273 added subsec. (c).
+<b>2002</b>—Subsec. (c). Pub. L. 107–273 added subsec. (c).
 
 #### Effective Date of 2006 Amendment
 

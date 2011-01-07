@@ -28,7 +28,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-2006—Pub. L. 109–177 substituted “10 years” for “two years” in last par.
+<b>2006</b>—Pub. L. 109–177 substituted “10 years” for “two years” in last par.
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in last par.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in last par.
 

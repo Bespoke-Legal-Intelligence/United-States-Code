@@ -52,3 +52,5 @@ Except as otherwise provided in this chapter, the following conditions are appli
 
 (Pub. L. 105–220, title I, §195, Aug. 7, 1998, 112 Stat. 1057.)
 
+<i><sup>1</sup></i><i> So in original. Probably should be “effect”.</i>
+

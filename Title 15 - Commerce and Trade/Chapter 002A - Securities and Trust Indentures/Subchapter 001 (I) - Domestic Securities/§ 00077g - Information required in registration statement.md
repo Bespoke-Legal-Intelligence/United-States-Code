@@ -1,8 +1,12 @@
 ### §77g. Information required in registration statement
 
-(a) The registration statement, when relating to a security other than a security issued by a foreign government, or political subdivision thereof, shall contain the information, and be accompanied by the documents, specified in Schedule A of section 77aa of this title, and when relating to a security issued by a foreign government, or political subdivision thereof, shall contain the information, and be accompanied by the documents, specified in Schedule B of section 77aa of this title; except that the Commission may by rules or regulations provide that any such information or document need not be included in respect of any class of issuers or securities if it finds that the requirement of such information or document is inapplicable to such class and that disclosure fully adequate for the protection of investors is otherwise required to be included within the registration statement. If any accountant, engineer, or appraiser, or any person whose profession gives authority to a statement made by him, is named as having prepared or certified any part of the registration statement, or is named as having prepared or certified a report or valuation for use in connection with the registration statement, the written consent of such person shall be filed with the registration statement. If any such person is named as having prepared or certified a report or valuation (other than a public official document or statement) which is used in connection with the registration statement, but is not named as having prepared or certified such report or valuation for use in connection with the registration statement, the written consent of such person shall be filed with the registration statement unless the Commission dispenses with such filing as impracticable or as involving undue hardship on the person filing the registration statement. Any such registration statement shall contain such other information, and be accompanied by such other documents, as the Commission may by rules or regulations require as being necessary or appropriate in the public interest or for the protection of investors.
+#### (a) In general
 
-(b)(1) The Commission shall prescribe special rules with respect to registration statements filed by any issuer that is a blank check company. Such rules may, as the Commission determines necessary or appropriate in the public interest or for the protection of investors—
+The registration statement, when relating to a security other than a security issued by a foreign government, or political subdivision thereof, shall contain the information, and be accompanied by the documents, specified in Schedule A of section 77aa of this title, and when relatingto a security issued by a foreign government, or political subdivision thereof, shall contain the information, and be accompanied by the documents, specified in Schedule B of section 77aa of this title; except that the Commission may by rules or regulations provide that any such information or document need not be included in respect of any class of issuers or securities if it finds that the requirement of such information or document is inapplicable to such class and that disclosure fully adequate for the protection of investors is otherwise required to be included within the registration statement. If any accountant, engineer, or appraiser, or any person whose profession gives authority to a statement made by him, is named as having prepared or certified any part of the registration statement, or is named as having prepared or certified a report or valuation for use in connection with the registration statement, the written consent of such person shall be filed with the registration statement. If any such person is named as having prepared or certified a report or valuation (other than a public official document or statement) which is used in connection with the registration statement, but is not named as having prepared or certified such report or valuation for use in connection with the registration statement, the written consent of such person shall be filed with the registration statement unless the Commission dispenses with such filing as impracticable or as involving undue hardship on the person filing the registration statement. Any such registration statement shall contain such other information, and be accompanied by such other documents, as the Commission may by rules or regulations require as being necessary or appropriate in the public interest or for the protection of investors.
+
+#### (b) Registration statement for blank check companies
+
+(1) The Commission shall prescribe special rules with respect to registration statements filed by any issuer that is a blank check company. Such rules may, as the Commission determines necessary or appropriate in the public interest or for the protection of investors—
 
 &emsp;(A) require such issuers to provide timely disclosure, prior to or after such statement becomes effective under section 77h of this title, of (i) information regarding the company to be acquired and the specific application of the proceeds of the offering, or (ii) additional information necessary to prevent such statement from being misleading;
 
@@ -18,11 +22,47 @@
 
 &emsp;(B) has indicated that its business plan is to merge with an unidentified company or companies.
 
-(May 27, 1933, ch. 38, title I, §7, 48 Stat. 78; Pub. L. 101–429, title V, §508, Oct. 15, 1990, 104 Stat. 956.)
+#### (c) Disclosure requirements
+
+#### (1) In general
+
+&emsp;The Commission shall adopt regulations under this subsection requiring each issuer of an asset-backed security to disclose, for each tranche or class of security, information regarding the assets backing that security.
+
+#### (2) Content of regulations
+
+&emsp;In adopting regulations under this subsection, the Commission shall—
+
+&emsp;&emsp;(A) set standards for the format of the data provided by issuers of an asset-backed security, which shall, to the extent feasible, facilitate comparison of such data across securities in similar types of asset classes; and
+
+&emsp;&emsp;(B) require issuers of asset-backed securities, at a minimum, to disclose asset-level or loan-level data, if such data are necessary for investors to independently perform due diligence, including—
+
+&emsp;&emsp;&emsp;(i) data having unique identifiers relating to loan brokers or originators;
+
+&emsp;&emsp;&emsp;(ii) the nature and extent of the compensation of the broker or originator of the assets backing the security; and
+
+&emsp;&emsp;&emsp;(iii) the amount of risk retention by the originator and the securitizer of such assets.
+
+#### (d) Registration statement for asset-backed securities
+
+Not later than 180 days after July 21, 2010, the Commission shall issue rules relating to the registration statement required to be filed by any issuer of an asset-backed security (as that term is defined in section 78c(a)(77) of this title) that require any issuer of an asset-backed security—
+
+&emsp;(1) to perform a review of the assets underlying the asset-backed security; and
+
+&emsp;(2) to disclose the nature of the review under paragraph (1).
+
+(May 27, 1933, ch. 38, title I, §7, 48 Stat. 78; Pub. L. 101–429, title V, §508, Oct. 15, 1990, 104 Stat. 956; Pub. L. 111–203, title IX, §§942(b), 945, July 21, 2010, 124 Stat. 1897, 1898.)
 
 #### Amendments
 
-1990—Pub. L. 101–429 designated existing provision as subsec. (a) and added subsec. (b).
+<b>2010</b>—Subsec. (c). Pub. L. 111–203, §942(b), added subsec. (c).
+
+Subsec. (d). Pub. L. 111–203, §945, added subsec. (d).
+
+<b>1990</b>—Pub. L. 101–429 designated existing provision as subsec. (a) and added subsec. (b).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Effective Date of 1990 Amendment
 
@@ -30,7 +70,7 @@ Section 1(c) of Pub. L. 101–429 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraphs (2) and (3), the amendments made by this Act \[enacting sections 77h–1, 78q–2, 78u–2, and 78u–3 of this title, amending this section and sections 77t, 78c, 78<i>o</i>, 78<i>o</i>–3, 78<i>o</i>–4, 78q–1, 78u, 78u–1, 78w, 78cc, 80a–9, 80a–41, 80b–3, 80b–9, and 80b–14 of this title, and enacting provisions set out as notes under sections 78a, 78<i>o</i>, and 78s of this title\] shall be effective upon enactment \[Oct. 15, 1990\].
+In general.—Except as provided in paragraphs (2) and (3), the amendments made by this Act \[enacting sections 77h–1, 78q–2, 78u–2, and 78u–3 of this title, amending this section and sections 77t, 78c, 78<i>o</i>, 78<i>o</i>–3, 78<i>o</i>–4, 78q–1, 78u, 78u–1, 78w, 78cc, 80a–9, 80a–41, 80b–3,80b–9, and 80b–14 of this title, and enacting provisions set out as notes under sections 78a, 78<i>o</i>, and 78s of this title\] shall be effective upon enactment \[Oct. 15, 1990\].
 
 “(2)
 

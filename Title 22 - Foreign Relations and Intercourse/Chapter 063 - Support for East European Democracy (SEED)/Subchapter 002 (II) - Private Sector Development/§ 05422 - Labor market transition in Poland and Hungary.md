@@ -16,7 +16,7 @@ In carrying out subsection (a) of this section, the Secretary is authorized to p
 
 In carrying out subsection (a) of this section, the Secretary is authorized to do the following:
 
-&emsp;(1) Solicit and accept in the name of the Department of Labor, and employ or dispose of in furtherance of the purposes of this section, any money or property, real, personal, or mixed, tangible or intangible, received by gift, devise, bequest, or otherwise. Gifts and donations of property which are no longer required for the discharge of the purposes of this section shall be reported to the Administrator of General Services for transfer, donation, or other disposal in accordance with the Federal Property and Administrative Services Act of 1949.<sup>1</sup>
+&emsp;(1) Solicit and accept in the name of the Department of Labor, and employ or dispose of in furtherance of the purposes of this section, any money or property, real, personal, or mixed, tangible or intangible, received by gift, devise, bequest, or otherwise. Gifts and donations of property which are no longer required for the discharge of the purposes of this section shall be reported to the Administrator of General Services for transfer, donation, or other disposal in accordance with chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
 &emsp;(2) Solicit and accept voluntary and uncompensated services notwithstanding section 1342 of title 31. A volunteer under this paragraph shall not be deemed to be an employee of the United States except for the purposes of—
 
@@ -52,9 +52,9 @@ There are authorized to be appropriated to the Department of Labor for the 3-yea
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
-
 The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Codification
+
+In subsec. (c)(1), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 and following)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

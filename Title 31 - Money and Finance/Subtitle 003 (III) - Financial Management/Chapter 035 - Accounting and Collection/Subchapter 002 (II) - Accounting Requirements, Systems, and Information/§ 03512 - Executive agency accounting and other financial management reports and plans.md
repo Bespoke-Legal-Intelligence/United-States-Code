@@ -22,7 +22,7 @@
 
 &emsp;(E) a listing of agencies whose financial management systems do not comply substantially with the requirements of Section <sup>1</sup> 3(a) <sup>2</sup> the Federal Financial Management Improvement Act of 1996, and a summary statement of the efforts underway to remedy the noncompliance; and
 
-&emsp;(F) any other information the Director considers appropriate to fully inform the Congress regarding the financial management of the Federal Government.
+&emsp;(F) any other information the Director considers appropriate to fully inform the Congressregarding the financial management of the Federal Government.
 
 (3)(A) A governmentwide 5-year financial management plan under this subsection shall describe the activities the Director, the Deputy Director for Management, the Controller of the Office of Federal Financial Management, and agency Chief Financial Officers shall conduct over the next 5 fiscal years to improve the financial management of the Federal Government.
 
@@ -88,7 +88,7 @@
 
 &emsp;(B) may change a guideline when considered necessary.
 
-(2) By December 31 of each year (beginning in 1983), the head of each executive agency, based on an evaluation conducted according to guidelines prescribed under paragraph (1) of this subsection, shall prepare a statement on whether the systems of the agency comply with subsection (c) of this section, including—
+(2) By December 31 of each year (beginning in 1983), the head of each executive agency, basedon an evaluation conducted according to guidelines prescribed under paragraph (1) of this subsection, shall prepare a statement on whether the systems of the agency comply with subsection (c) of this section, including—
 
 &emsp;(A) if the head of an executive agency decides the systems do not comply with subsection (c) of this section, a report identifying any material weakness in the systems and describing the plans and schedule for correcting the weakness; and
 
@@ -160,7 +160,7 @@ In subsections (c) and (d), the words “Comptroller General” are substituted 
 
 In subsection (c), the text of 31:66a(b) is omitted as unnecessary. In clause (1), the words “the head of” are added for consistency with the revised title and other titles of the United States Code. In clause (2), the words “under section 3511 of this title” are substituted for “by him” in 31:66(b)(less Treasury Department) for clarity.
 
-In subsection (d), the word “concerned” is omitted as surplus. The word “President” is substituted for “Director of the Office of Management and Budget” because sections 101 and 102(a) of Reorganization Plan No.2 of 1970 redesignated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
+In subsection (d), the word “concerned” is omitted as surplus. The word “President” is substituted for “Director of the Office of Management and Budget” because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 redesignated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
 
 1983
 
@@ -216,15 +216,15 @@ The date of the enactment of this subsection, referred to in subsec. (a)(4)(A), 
 
 #### Amendments
 
-1996—Subsec. (a)(2)(E), (F). Pub. L. 104–208 added subpar. (E) and redesignated former subpar. (E) as (F).
+<b>1996</b>—Subsec. (a)(2)(E), (F). Pub. L. 104–208 added subpar. (E) and redesignated former subpar. (E) as (F).
 
-1994—Subsec. (c)(1). Pub. L. 103–272, §4(f)(1)(J)(i), substituted “subsection (b)(3)” for “subsection (a)(3)” in introductory provisions.
+<b>1994</b>—Subsec. (c)(1). Pub. L. 103–272, §4(f)(1)(J)(i), substituted “subsection (b)(3)” for “subsection (a)(3)” in introductory provisions.
 
 Subsec. (d)(1), (2). Pub. L. 103–272, §4(f)(1)(J)(ii), substituted “subsection (c)” for “subsection (b)” wherever appearing.
 
-1990—Pub. L. 101–576 substituted “and other financial management reports and plans” for “systems” in section catchline, added subsec. (a), and redesignated former subsecs. (a) to (f) as (b) to (g), respectively.
+<b>1990</b>—Pub. L. 101–576 substituted “and other financial management reports and plans” for “systems” in section catchline, added subsec. (a), and redesignated former subsecs. (a) to (f) as (b) to (g), respectively.
 
-1983—Subsecs. (b), (c). Pub. L. 97–452 added subsecs. (b) and (c). Former subsecs. (b) and (c) were redesignated (d) and (e), respectively.
+<b>1983</b>—Subsecs. (b), (c). Pub. L. 97–452 added subsecs. (b) and (c). Former subsecs. (b) and (c) were redesignated (d) and (e), respectively.
 
 Subsecs. (d) to (f). Pub. L. 97–452 redesignated former subsecs. (b) to (d) as (d) to (f), respectively.
 
@@ -240,11 +240,11 @@ This section is popularly known as the “Federal Managers Financial Integrity A
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement to submit statements and reports to Congress under subsection (d)(3) of this section is listed on page 151), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement to submit statements and reports to Congress under subsection (d)(3) of this section is listed on page 151), see section 3003 of Pub. L. 104–66, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
 
 #### Federal Financial Management Improvement
 
-Section 101(f) \[title VIII\] of Pub. L. 104–208 provided that:
+Pub. L. 104–208, div. A, title I, §101(f) \[title VIII\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–389, provided that:
 
 #### “SEC. 801. SHORT TITLE\[.\]
 
@@ -372,7 +372,7 @@ Reports by the Director.—No later than March 31 of each year, the Director sha
 
 “(b)
 
-Reports by the Inspector General\[.\]—Each Inspector General who prepares a report under section5(a) of the Inspector General Act of 1978 (5 U.S.C. App.) shall report to Congress instances and reasons when an agency has not met the intermediate target dates established in the remediation plan required under section 3(c) \[803(c)\]. Specifically the report shall include—
+Reports by the Inspector General\[.\]—Each Inspector General who prepares a report under section 5(a) of the Inspector General Act of 1978 (5 U.S.C. App.) shall report to Congress instances and reasons when an agency has not met the intermediate target dates established in the remediation plan required under section 3(c) \[803(c)\]. Specifically the report shall include—
 
 &emsp;“(1) the entity or organization responsible for the non-compliance \[sic\];
 
@@ -444,11 +444,11 @@ Mixed system.—The term ‘mixed system’ means an information system that sup
 
 #### “SEC. 808. REVISION OF SHORT TITLES.
 
-“(a) \[Amended section 4001 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.\]
+“(a) \[Amended section 4001 of Pub. L. 104–106, set out as a Short Title of 1996 Act note under section 101 of Title 41, Public Contracts.\]
 
 “(b) \[Amended section 5001 of Pub. L. 104–106, div. E, Feb. 10, 1996, 110 Stat. 679, subsequently repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.\]
 
-“(c) Any reference in any law, regulation, document, record, or other paper of the United States to the Federal Acquisition Reform Act of 1996 or to the Information Technology Management Reform Act of 1996 shall be considered to be a reference to the Clinger-Cohen Act of 1996 \[see Short Title of 1996 Amendment note set out under 41 U.S.C. 251\].”
+“(c) Any reference in any law, regulation, document, record, or other paper of the United States to the Federal Acquisition Reform Act of 1996 or to the Information Technology Management Reform Act of 1996 shall be considered to be a reference to the Clinger-Cohen Act of 1996 \[see Short Title of 1996 Act note set out under section 101 of Title 41\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -22,19 +22,19 @@
 
 #### Amendments
 
-2008—Subsec. (d)(2), (3)(A). Pub. L. 110–417 substituted “eight years” for “six years”.
+<b>2008</b>—Subsec. (d)(2), (3)(A). Pub. L. 110–417 substituted “eight years” for “six years”.
 
-2006—Subsec. (a). Pub. L. 109–163, §543, in first sentence, substituted “forty-two years of age” for “thirty-five years of age”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163, §543, in first sentence, substituted “forty-two years of age” for “thirty-five years of age”.
 
 Subsec. (c). Pub. L. 109–163, §544, substituted “eight years” for “six years”.
 
-1996—Subsec. (d). Pub. L. 104–201 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Secretary concerned may accept reenlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, for period of at least two but not more than six years. No enlisted member is entitled tobe reenlisted for a period that would expire before the end of his current enlistment.”
+<b>1996</b>—Subsec. (d). Pub. L. 104–201 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Secretary concerned may accept reenlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, for period of at least two but not more than six years. No enlisted member is entitled to be reenlisted for a period that would expire before the end of his current enlistment.”
 
-1983—Subsecs. (c), (d). Pub. L. 98–94 substituted “at least two but not more than six years” for “two, three, four, five, or six years”.
+<b>1983</b>—Subsecs. (c), (d). Pub. L. 98–94 substituted “at least two but not more than six years” for “two, three, four, five, or six years”.
 
-1978—Subsecs. (d), (e). Pub. L. 95–485 redesignated subsec. (e) as (d). Former subsec. (d), which provided that in the Regular Army female persons may be enlisted only in the Women's Army Corps, was struck out.
+<b>1978</b>—Subsecs. (d), (e). Pub. L. 95–485 redesignated subsec. (e) as (d). Former subsec. (d), which provided that in the Regular Army female persons may be enlisted only in the Women's Army Corps, was struck out.
 
-1974—Subsec. (a). Pub. L. 93–290, §1, struck out provisions which prohibited the Secretary from accepting original enlistments from female persons less than 18 years of age, and which required consent of the parent or guardian for an original enlistment of a female person under 21 years of age.
+<b>1974</b>—Subsec. (a). Pub. L. 93–290, §1, struck out provisions which prohibited the Secretary from accepting original enlistments from female persons less than 18 years of age, and which required consent of the parent or guardian for an original enlistment of a female person under 21 years of age.
 
 Subsec. (c). Pub. L. 93–290, §2, substituted provisions permitting the Secretary to accept original enlistments of persons for the duration of their minority or for a period of two, three, four, five, or six years, for provisions which limited the Secretary to accept original enlistments from male persons for the duration of their minority or for a period of two, three, four, five, or six years, and from female persons for a period of two, three, four, five, or six years.
 

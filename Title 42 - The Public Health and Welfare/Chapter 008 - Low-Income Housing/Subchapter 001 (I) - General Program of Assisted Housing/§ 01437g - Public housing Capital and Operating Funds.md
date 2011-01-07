@@ -12,7 +12,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (1) In general
 
-&emsp;For fiscal year 2000 and each fiscal year thereafter, the Secretary shall allocate amounts in the Capital Fund and Operating Funds <sup>1</sup> for assistance for public housing agencies eligible for such assistance. The Secretary shall determine the amount of the allocation for each eligible agency, which shall be, for any fiscal year beginning after the effective date of the formulas described in subsections (d)(2) and (e)(2) of this section—
+&emsp;For fiscal year 2000 and each fiscal year thereafter, the Secretary shall allocate amounts in the Capital Fund and OperatingFunds <sup>1</sup> for assistance for public housing agencies eligible for such assistance. The Secretary shall determine the amount of the allocation for each eligible agency, which shall be, for any fiscal year beginning after the effective date of the formulas described in subsections (d)(2) and (e)(2) of this section—
 
 &emsp;&emsp;(A) for assistance from the Capital Fund, the amount determined for the agency under the formula under subsection (d)(2) of this section; and
 
@@ -84,7 +84,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (B) Modernization
 
-&emsp;&emsp;Except as otherwise provided in this chapter, any public housing or portion thereof that is modernized using amounts provided under this subsection or under section 1437<i>l</i> of this title (as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998) shall be maintained and operated under the terms and conditions applicable to public housing during the 20-year period that begins on the latest date on which modernization is completed.
+&emsp;&emsp;Except as otherwise provided in this chapter, any public housing or portion thereof that is modernized using amounts providedunder this subsection or under section 1437<i>l</i> of this title (as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998) shall be maintained and operated under the terms and conditions applicable to public housing during the 20-year period that begins on the latest date on which modernization is completed.
 
 #### (C) Applicability of latest expiration date
 
@@ -94,7 +94,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (1) In general
 
-&emsp;The Secretary shall establish an Operating Fund for the purpose of making assistanceavailable to public housing agencies for the operation and management of public housing, including—
+&emsp;The Secretary shall establish an Operating Fund for the purpose of making assistance available to public housing agencies for the operation and management of public housing, including—
 
 &emsp;&emsp;(A) procedures and systems to maintain and ensure the efficient management and operation of public housing units (including amounts sufficient to pay for the reasonable costs of review by an independent auditor of the documentation or other information maintained pursuant to section 1437d(j)(6) of this title by a public housing agency or resident management corporation to substantiate the performance of that agency or corporation);
 
@@ -146,7 +146,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The treatment of utility and waste management costs under the formula shall provide that a public housing agency shall receive the full financial benefit from any reduction in the cost of utilities or waste management resulting from any contract with a third party to undertake energy conservation improvements in one or more of its public housing projects.
+&emsp;&emsp;&emsp;The treatment of utility and waste management costs under the formula shall provide that a public housing agency shall receive the full financial benefit from any reduction in the cost of utilities or waste management resulting from any contract with a third party to undertake energyconservation improvements in one or more of its public housing projects.
 
 #### (ii) Third party contracts
 
@@ -158,7 +158,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (iv) Existing contracts
 
-&emsp;&emsp;&emsp;The term of a contract described in clause (i) that, as of December 26, 2007, isin repayment and has a term of not more than 12 years, may be extended to a term of not more than 20 years to permit additional energy conservation improvements without requiring the reprocurement of energy performance contractors.
+&emsp;&emsp;&emsp;The term of a contract described in clause (i) that, as of December 26, 2007, is in repayment and has a term of not more than 12 years, may be extended to a term of not more than 20 years to permit additional energy conservation improvements without requiring the reprocurement of energy performance contractors.
 
 #### (3) Condition on use
 
@@ -306,7 +306,7 @@ If a public housing agency uses proceeds from the sale of units under a homeowne
 
 #### (k) Treatment of nonrental income
 
-A public housing agency that receives income from nonrental sources (as determined by theSecretary) may retain and use such amounts without any decrease in the amounts received under this section from the Capital or Operating Fund. Any such nonrental amounts retained shall be used only for low-income housing or to benefit the residents assisted by the public housing agency.
+A public housing agency that receives income from nonrental sources (as determined by the Secretary) may retain and use such amounts without any decrease in the amounts received under this section from the Capital or Operating Fund. Any such nonrental amounts retained shall be used only for low-income housing or to benefit the residents assisted by the public housing agency.
 
 #### (<i>l</i>) Provision of only capital or operating assistance
 
@@ -338,7 +338,7 @@ A public housing agency that receives income from nonrental sources (as determin
 
 #### References in Text
 
-The Quality Housing and Work Responsibility Act of 1998, referred to in subsecs. (a) and (b), is title V of Pub. L. 105–276, Oct. 21, 1998, 112 Stat. 2518. Section 503(a) of the Act is set out as an Effective Date of 1998 Amendment note under section 1437 of this title. Section 519(e) of the Act is set out as a note below. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 1437 of this title and Tables.
+The Quality Housing and Work Responsibility Act of 1998, referred to in subsecs. (a) and (b), is title V of Pub.L. 105–276, Oct. 21, 1998, 112 Stat. 2518. Section 503(a) of the Act is set out as an Effective Date of 1998 Amendment note under section 1437 of this title. Section 519(e) of the Act is set out as a note below. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 1437 of this title and Tables.
 
 Section 1437<i>l</i> of this title, referred to in subsecs. (a) and (d)(3)(A), (B), was repealed by Pub. L. 105–276, title V, §522(a), Oct. 21, 1998, 112 Stat. 2564.
 
@@ -348,33 +348,33 @@ A prior section 9 of act Sept. 1, 1937, ch. 896, 50 Stat. 891, as amended, autho
 
 #### Amendments
 
-2008—Subsecs. (k) to (n). Pub. L. 110–289 redesignated subsecs. (<i>l</i>) to (n) as (k) to (m), respectively, and struck out former subsec. (k), which related to emergency reserve and use of amounts.
+<b>2008</b>—Subsecs. (k) to (n). Pub. L. 110–289 redesignated subsecs. (<i>l</i>) to (n) as (k) to (m), respectively, and struck out former subsec. (k), which related to emergency reserve and use of amounts.
 
-2007—Subsec. (e)(2)(C)(iv). Pub. L. 110–161 added cl. (iv).
+<b>2007</b>—Subsec. (e)(2)(C)(iv). Pub. L. 110–161 added cl. (iv).
 
-2005—Subsec. (d)(1)(K), (L). Pub. L. 109–58, §151(1), added subpars. (K) and (L).
+<b>2005</b>—Subsec. (d)(1)(K), (L). Pub. L. 109–58, §151(1), added subpars. (K) and (L).
 
 Subsec. (e)(2)(C). Pub. L. 109–58, §151(2), designated existing provisions as cl. (i), inserted heading, and added cls. (ii) and (iii).
 
-2003—Subsec. (n)(1). Pub. L. 108–7 struck out par. (1) which related to treatment of certain covered locally developed public housing units as eligible public housing units.
+<b>2003</b>—Subsec. (n)(1). Pub. L. 108–7 struck out par. (1) which related to treatment of certain covered locally developed public housing units as eligible public housing units.
 
-2000—Subsec. (d)(1)(E). Pub. L. 106–377, §1(a)(1) \[title II, §214(a)(1)\], inserted before semicolon “, including the establishment and initial operation of computer centers in and around public housing through a Neighborhood Networks initiative, for the purpose of enhancing the self-sufficiency, employability, and economic self-reliance of public housing residents by providing them with onsite computer access and training resources”.
+<b>2000</b>—Subsec. (d)(1)(E). Pub. L. 106–377, §1(a)(1) \[title II, §214(a)(1)\], inserted before semicolon “, including the establishment and initial operation of computer centers in and around public housing through a Neighborhood Networks initiative, for the purpose of enhancing the self-sufficiency, employability, and economic self-reliance of public housing residents by providing them with onsite computer access and training resources”.
 
 Subsec. (e)(1)(K). Pub. L. 106–377, §1(a)(1) \[title II, §214(a)(2)\], added subpar. (K).
 
 Subsec. (h)(8). Pub. L. 106–377, §1(a)(1) \[title II, §214(a)(3)\], added par. (8).
 
-1998—Pub. L. 105–276, §519(a), amended section generally, substituting present provisions for provisions which had: in subsec. (a), authorized annual contributions for operation of low-income housing, and provided for determination of the amounts and use of those contributions, contract authorization, standards for payments, necessity of contribution contracts, performance funding system, and audits; in subsec. (b), set forth limitation on amount of aggregate rentals paid by families residing in dwelling units receiving annual contributions; in subsec. (c), authorized appropriations for fiscal years 1993 and 1994; in subsec. (d), required distribution of remaining appropriated funds to projects incurring excessive costs; and in subsec. (e), set forth time of payment of assistance to public housing agency.
+<b>1998</b>—Pub. L. 105–276, §519(a), amended section generally, substituting present provisions for provisions which had: in subsec. (a), authorized annual contributions for operation of low-income housing, and provided for determination of the amounts and use of those contributions, contract authorization, standards for payments, necessity of contribution contracts, performance funding system, and audits; in subsec. (b), set forth limitation on amount of aggregate rentals paid by families residing in dwelling units receiving annual contributions; in subsec. (c), authorized appropriations for fiscal years 1993 and 1994; in subsec. (d), required distribution of remaining appropriated funds to projects incurring excessive costs; and in subsec. (e), set forth time of payment of assistance to public housing agency.
 
 Subsec. (a)(3)(A). Pub. L. 105–276, §210, inserted after third sentence “Notwithstanding the preceding sentences, the Secretary may revise the performance funding system in a manner that takes into account equity among public housing agencies and that includes appropriate incentives for sound management.” and, in last sentence, inserted “, or any substantial change under the preceding sentence,” after “vacant public housing units”.
 
-1996—Subsec. (a)(1)(A). Pub. L. 104–330, in second sentence, inserted “and” after comma at end of cl. (i), struck out “, and” after “reserve funds” in cl. (ii), and struck out cl. (iii) which read as follows: “with respect to housing projects developed under the Indian and Alaskan Native housing program assisted under this chapter, to provide funds (in addition to any other operating costs contributions approved by the Secretary under this section) as determined by the Secretary to be required to cover the administrative costs to an Indian housing authority during the development period of a project approved pursuant to section 1437c of this title and until such time as the project is occupied”.
+<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–330, in second sentence, inserted “and” after comma at end of cl. (i), struck out “, and” after “reserve funds” in cl. (ii), and struck out cl. (iii) which read as follows: “with respect to housing projects developed under the Indian and Alaskan Native housing program assisted under this chapter, to provide funds (in addition to any other operating costs contributions approved by the Secretary under this section) as determined by the Secretary to be required to cover the administrative costs to an Indian housing authority during the development period of a project approved pursuant to section 1437c of this title and until such time as the project is occupied”.
 
 Subsec. (a)(3)(B)(i). Pub. L. 104–134 struck out “for a period not to exceed 6 years” after “with the public housing agency”.
 
-1994—Subsec. (a)(4). Pub. L. 103–233 added par. (4).
+<b>1994</b>—Subsec. (a)(4). Pub. L. 103–233 added par. (4).
 
-1992—Subsec. (a)(1)(B). Pub. L. 102–550, §673, designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, substituted “this clause” for “this subparagraph”, inserted reference to section 8011 of this title and a period after “section 8013 of this title”, and added cl. (ii).
+<b>1992</b>—Subsec. (a)(1)(B). Pub. L. 102–550, §673, designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, substituted “this clause” for “this subparagraph”, inserted reference to section 8011 of this title and a period after “section 8013 of this title”, and added cl. (ii).
 
 Subsec. (a)(3)(A). Pub. L. 102–550, §114(b), inserted at end “Notwithstanding sections 583(a) and 585(a) of title 5 (as added by section 3(a) of the Negotiated Rulemaking Act of 1990), any proposed regulation providing for amendment, alteration, adjustment, or other change to the performance funding system relating to vacant public housing units shall be issued pursuant to a negotiated rulemaking procedure under subchapter IV of chapter 5 of such title (as added by section 3(a) of the Negotiated Rulemaking Act of 1990), and the Secretary shall establish a negotiated rulemaking committee for development of any such proposed regulations.”
 
@@ -382,7 +382,7 @@ Subsec. (a)(3)(B)(i). Pub. L. 102–550, §114(c), inserted before semicolon at 
 
 Subsec. (c). Pub. L. 102–550, §114(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “There are authorized to be appropriated for purposes of providing annual contributions under this section $2,000,000,000 for fiscal year 1991 and $2,086,000,000 in fiscal year 1992.”
 
-1990—Subsec. (a)(1). Pub. L. 101–625, §572(2), substituted “low-income housing” for “lower income housing” wherever appearing.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–625, §572(2), substituted “low-income housing” for “lower income housing” wherever appearing.
 
 Pub. L. 101–625, §507(b)(1), designated existing provisions as subpar. (A), redesignated former cls. (A) to (C) as cls. (i) to (iii), respectively, and added subpar. (B).
 
@@ -396,7 +396,7 @@ Subsec. (c). Pub. L. 101–625, §507(a), amended subsec. (c) generally. Prior t
 
 Subsec. (d). Pub. L. 101–625, §572(2), substituted “low-income housing” for “lower income housing”.
 
-1988—Subsec. (a)(1). Pub. L. 100–242, §118(a)(1), struck out last sentence directing Secretary to establish standards for costs of operation and reasonable projections of income, for purposes of making payments under this section.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–242, §118(a)(1), struck out last sentence directing Secretary to establish standards for costs of operation and reasonable projections of income, for purposes of making payments under this section.
 
 Pub. L. 100–242, §118(d), inserted at end “If the Secretary determines that a public housing agency has failed to take the actions required to submit an acceptable audit on a timely basis in accordance with chapter 75 of title 31, the Secretary may arrange for, and pay the costs of, the audit. In such circumstances, the Secretary may withhold, from assistance otherwise payable to the agency under this section, amounts sufficient to pay for the reasonable costs of conducting an acceptable audit, including, when appropriate, the reasonable costs of accounting services necessary to place the agency's books and records in auditable condition.”
 
@@ -408,33 +408,33 @@ Subsec. (c). Pub. L. 100–242, §118(b), amended subsec. (c) generally, substit
 
 Subsec. (e). Pub. L. 100–242, §118(c), added subsec. (e).
 
-1986—Subsec. (c). Pub. L. 99–272 struck out “and by” after “1983,” and inserted “, and not to exceed $1,279,000,000 on or after October 1, 1985” after “1984”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–272 struck out “and by” after “1983,” and inserted “, and not to exceed $1,279,000,000 on or after October 1, 1985” after “1984”.
 
-1983—Subsec. (c). Pub. L. 98–181 substituted “October 1, 1980, and” for “October 1, 1980,” and authorized appropriations of not to exceed $1,500,000,000 on or after Oct. 1, 1983, and of such sums as may be necessary on or after Oct. 1, 1984.
+<b>1983</b>—Subsec. (c). Pub. L. 98–181 substituted “October 1, 1980, and” for “October 1, 1980,” and authorized appropriations of not to exceed $1,500,000,000 on or after Oct. 1, 1983, and of such sums as may be necessary on or after Oct. 1, 1984.
 
-1981—Subsec. (a). Pub. L. 97–35, §322(c), substituted reference to lower income for reference to low-income wherever appearing.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §322(c), substituted reference to lower income for reference to low-income wherever appearing.
 
 Subsec. (c). Pub. L. 97–35, §321(d), inserted provisions respecting authorization on or after Oct. 1, 1981.
 
 Subsec. (d). Pub. L. 97–35, §322(c), substituted reference to lower income for reference to low-income.
 
-1980—Subsec. (a)(1)(C). Pub. L. 96–399, §201(d), added cl. (C).
+<b>1980</b>—Subsec. (a)(1)(C). Pub. L. 96–399, §201(d), added cl. (C).
 
 Subsec. (c). Pub. L. 96–399, §201(b), authorized appropriation of not to exceed $826,000,000 on or after Oct. 1, 1980.
 
-1979—Subsec. (a). Pub. L. 96–153, §211(a), designated existing provisions as par. (1) and cls. (1) and (2) thereof as (A) and (B), inserted provisions that such contract shall provide that no disposition of low-income housing project, with respect to which the contract is entered into, shall occur during and for ten years after the period when contributions were made pursuant to such contract unless approved by the Secretary, and added par. (2).
+<b>1979</b>—Subsec. (a). Pub. L. 96–153, §211(a), designated existing provisions as par. (1) and cls. (1) and (2) thereof as (A) and (B), inserted provisions that such contract shall provide that no disposition of low-income housing project, with respect to which the contract is entered into, shall occur during and for ten years after the period when contributions were made pursuant to such contract unless approved by the Secretary, and added par. (2).
 
 Subsec. (c). Pub. L. 96–153, §201(c), authorized appropriation for annual contributions of $741,500,000 on or after Oct. 1, 1979.
 
 Subsec. (d). Pub. L. 96–153, §207, added subsec. (d).
 
-1978—Subsec. (c). Pub. L. 95–557 inserted “and not to exceed $729,000,000 on or after October 1, 1978”.
+<b>1978</b>—Subsec. (c). Pub. L. 95–557 inserted “and not to exceed $729,000,000 on or after October 1, 1978”.
 
-1977—Subsec. (c). Pub. L. 95–128 authorized appropriation for annual contributions of $685,000,000 on or after Oct. 1, 1977.
+<b>1977</b>—Subsec. (c). Pub. L. 95–128 authorized appropriation for annual contributions of $685,000,000 on or after Oct. 1, 1977.
 
 Pub. L. 95–24 substituted “and not to exceed $595,600,000 on or after October 1, 1976” for “and not to exceed $576,000,000 on or after October 1, 1976”.
 
-1976—Subsec. (c). Pub. L. 94–375 substituted provision authorizing appropriations for annual contributions not to exceed $535,000,000 on or after July 1, 1975, not to exceed $80,000,000 on or after July 1, 1976, and not to exceed $576,000,000 on or after October 1, 1976 for provision which authorized annual contributions for contracts entered into on or after July 1, 1974 of not more than $500,000,000 per annum, which amount was to be increased by $60,000,000 on July 1, 1975.
+<b>1976</b>—Subsec. (c). Pub. L. 94–375 substituted provision authorizing appropriations for annual contributions not to exceed $535,000,000 on or after July 1, 1975, not to exceed $80,000,000 on or after July 1, 1976, and not to exceed $576,000,000 on or after October 1, 1976 for provision which authorized annual contributions for contracts entered into on or after July 1, 1974 of not more than $500,000,000 per annum, which amount was to be increased by $60,000,000 on July 1, 1975.
 
 #### Effective Date of 2003 Amendment
 
@@ -478,7 +478,7 @@ Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expre
 
 #### Effective Date of 1992 Amendment
 
-Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102–550 applicable upon expiration of 6-month period beginning Oct. 28, 1992, except as otherwise provided, see section 13642 of this title.
+Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102–550 applicable upon expirationof 6-month period beginning Oct. 28, 1992, except as otherwise provided, see section 13642 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -498,7 +498,7 @@ Section effective on such date or dates as the Secretary of Housing and Urban De
 
 #### Regulations
 
-Pub. L. 108–199, div. G, title II, §222, Jan. 23, 2004, 118 Stat. 398, provided that: “The Secretary of Housing andUrban Development shall conduct negotiated rulemaking with representatives from interested parties for purposes of any changes to the formula governing the Public Housing Operating Fund. A final rule shall be issued no later than July 1, 2004.”
+Pub. L. 108–199, div. G, title II, §222, Jan. 23, 2004, 118 Stat. 398, provided that: “The Secretary of Housing and Urban Development shall conduct negotiated rulemaking with representatives from interested parties for purposes of any changes to the formula governing the Public Housing Operating Fund. A final rule shall be issued no later than July 1, 2004.”
 
 Pub. L. 108–7, div. K, title II, Feb. 20, 2003, 117 Stat. 487, provided in part: “That the Secretary shall issue final regulations to carry out section 9(j) of the United States Housing Act of 1937 (42 U.S.C. 1437g(j)), not later than August 1, 2003”.
 

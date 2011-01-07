@@ -77,11 +77,11 @@
 
 #### Amendments
 
-2008—Pub. L. 110–181, div. C, title XXXV, §3523(a)(6)(E), Jan. 28, 2008, 122 Stat. 600, added item for chapter 541.
+<b>2008</b>—Pub. L. 110–181, div. C, title XXXV, §3523(a)(6)(E), Jan. 28, 2008, 122 Stat. 600, added item for chapter 541.
 
-2007—Pub. L. 110–140, title XI, §1121(b), Dec. 19, 2007, 121 Stat. 1762, added item for chapter 556.
+<b>2007</b>—Pub. L. 110–140, title XI, §1121(b), Dec. 19, 2007, 121 Stat. 1762, added item for chapter 556.
 
-2006—Pub. L. 109–304, §8(a), Oct. 6, 2006, 120 Stat. 1555, amended subtitle analysis generally. Prior to amendment, analysis consisted of item for chapter 531 “Maritime Security Fleet”.
+<b>2006</b>—Pub. L. 109–304, §8(a), Oct. 6, 2006, 120 Stat. 1555, amended subtitle analysis generally. Prior to amendment, analysis consisted of item for chapter 531 “Maritime Security Fleet”.
 
 
 ---

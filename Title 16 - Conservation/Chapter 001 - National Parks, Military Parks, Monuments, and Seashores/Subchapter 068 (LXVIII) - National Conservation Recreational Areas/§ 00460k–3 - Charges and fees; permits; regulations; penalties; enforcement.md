@@ -6,9 +6,9 @@ The Secretary may establish reasonable charges and fees and issue permits for pu
 
 #### Amendments
 
-1984—Pub. L. 98–473 substituted “misdemeanor” for “petty offense (18 U.S.C. 1)”.
+<b>1984</b>—Pub. L. 98–473 substituted “misdemeanor” for “petty offense (18 U.S.C. 1)”.
 
-1978—Pub. L. 95–616 provided for designation of enforcement personnel.
+<b>1978</b>—Pub. L. 95–616 provided for designation of enforcement personnel.
 
 #### Effective Date of 1984 Amendment
 

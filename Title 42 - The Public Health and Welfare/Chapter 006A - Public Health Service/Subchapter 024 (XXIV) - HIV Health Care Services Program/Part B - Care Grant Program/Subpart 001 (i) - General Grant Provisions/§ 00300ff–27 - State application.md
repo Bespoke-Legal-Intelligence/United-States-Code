@@ -50,7 +50,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;(A) establishes priorities for the allocation of funds within the State based on—
 
-&emsp;&emsp;&emsp;(i) size and demographics of the population of individuals with HIV/AIDS (as determined under paragraph (2)) and theneeds of such population (as determined under paragraph (3));
+&emsp;&emsp;&emsp;(i) size and demographics of the population of individuals with HIV/AIDS (as determined under paragraph (2)) and the needs of such population (as determined under paragraph (3));
 
 &emsp;&emsp;&emsp;(ii) availability of other governmental and non-governmental resources, including the State medicaid plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] and the State Children's Health Insurance Program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\] to cover health care costs of eligible individuals and families with HIV/AIDS;
 
@@ -204,7 +204,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;With respect to a State that does not make available the entire amount of the non-Federal contribution referred to in paragraph (1), the State shall continue to be eligible to receive Federal funds under a grant under section 300ff–21 of this title, except that the Secretary in providing Federal funds under the grant shall provide such funds (in accordance with the ratios prescribed in paragraph (1)) only with respect to the amount of funds contributed by such State.
 
-(July 1, 1944, ch. 373, title XXVI, §2617, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 590; amended Pub. L. 102–531, title III, §312(d)(29), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 104–146, §§3(c)(4), 12(c)(3), May 20, 1996, 110 Stat. 1355, 1373; Pub. L. 106–345, title II, §205, Oct. 20, 2000, 114 Stat. 1332; Pub. L. 109–415, title II, §204(a), (c), (d), title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2796, 2797, 2820; Pub. L. 111–87, §§2(a)(1), (3)(A), 9, Oct. 30, 2009, 123 Stat. 2885, 2895.)
+(July 1, 1944, ch. 373, title XXVI, §2617, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 590; amended Pub. L. 102–531, title III, §312(d)(29), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 104–146, §§3(c)(4), 12(c)(3), May 20, 1996, 110 Stat. 1355, 1373; Pub. L. 106–345, title II, §205, Oct. 20, 2000, 114 Stat. 1332; Pub. L. 109–415, title II, §204(a), (c), (d), title VII, §§702(3), 703, Dec. 19,2006, 120 Stat. 2796, 2797, 2820; Pub. L. 111–87, §§2(a)(1), (3)(A), 9, Oct. 30, 2009, 123 Stat. 2885, 2895.)
 
 #### References in Text
 
@@ -214,11 +214,11 @@ Subsection (b)(2) of this section, referred to in subsec. (d)(1), was redesignat
 
 #### Amendments
 
-2009—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
 Subsec. (b)(8). Pub. L. 111–87, §9, added par. (8).
 
-2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept, 30, 2009.
+<b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept, 30, 2009.
 
 Pub. L. 109–415, §204(a), substituted “section 300ff–21 of this title” for “this part” wherever appearing in subsecs. (a), (b), (c)(2), and (d).
 
@@ -242,7 +242,7 @@ Subsec. (b)(7)(F)(ii). Pub. L. 109–415, §204(c)(3), inserted “(except for a
 
 Subsec. (d)(3)(A), (C). Pub. L. 109–415, §204(d), substituted “HIV/AIDS” for “acquired immune deficiency syndrome”.
 
-2000—Subsec. (b)(2), (3). Pub. L. 106–345, §205(a)(2), added pars. (2) and (3). Former pars. (2) and (3) redesignated (4) and (5), respectively.
+<b>2000</b>—Subsec. (b)(2), (3). Pub. L. 106–345, §205(a)(2), added pars. (2) and (3). Former pars. (2) and (3) redesignated (4) and (5), respectively.
 
 Subsec. (b)(4). Pub. L. 106–345, §205(a)(3)(A), (B), in introductory provisions substituted “comprehensive plan that describes the organization” for “comprehensive plan for the organization” and “, and that—” for “, including—”.
 
@@ -264,7 +264,7 @@ Subsec. (b)(6)(A). Pub. L. 106–345, §205(b)(2), amended subpar. (A) generally
 
 Subsec. (b)(6)(G). Pub. L. 106–345, §205(c), added subpar. (G).
 
-1996—Subsec. (b)(2)(C). Pub. L. 104–146, §3(c)(4)(A), added subpar. (C).
+<b>1996</b>—Subsec. (b)(2)(C). Pub. L. 104–146, §3(c)(4)(A), added subpar. (C).
 
 Subsec. (b)(3). Pub. L. 104–146, §3(c)(4)(C), added par. (3). Former par. (3) redesignated (4).
 
@@ -272,7 +272,7 @@ Subsec. (b)(4). Pub. L. 104–146, §3(c)(4)(B), redesignated par. (3) as (4).
 
 Subsec. (b)(4)(B)(iv). Pub. L. 104–146, §12(c)(3), which directed amendment of par. (3)(B)(iv) by inserting “section” before “300ff–25”, was executed by making the amendment in par. (4)(B)(iv) to reflect the probable intent of Congress and the redesignation of par. (3) as (4) by Pub. L. 104–146, §3(c)(4)(B). See above.
 
-1992—Subsec. (d)(3)(A). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Subsec. (d)(3)(A). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

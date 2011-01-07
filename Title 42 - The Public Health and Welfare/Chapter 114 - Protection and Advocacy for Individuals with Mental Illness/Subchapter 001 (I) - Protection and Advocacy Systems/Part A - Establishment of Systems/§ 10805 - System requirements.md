@@ -56,7 +56,7 @@ A system established in a State under section 10803 of this title to protect and
 
 &emsp;(8) on an annual basis, provide the public with an opportunity to comment on the priorities established by, and the activities of, the system;
 
-&emsp;(9) establish a grievance procedure for clients or prospective clients of the system to assure that individuals with mental illness have full access to the services of the system and for individuals who have received or are receiving mental health services, family members of such individuals with mental illness, or representatives of such individuals or familymembers to assure that the eligible system is operating in compliance with the provisions of this subchapter and subchapter III of this chapter; and
+&emsp;(9) establish a grievance procedure for clients or prospective clients of the system to assure that individuals with mental illness have full access to the services of the system and for individuals who have received or are receiving mental health services, family members of such individuals with mental illness, or representatives of such individuals or family members to assure that the eligible system is operating in compliance with the provisions of this subchapter and subchapter III of this chapter; and
 
 &emsp;(10) not use allotments provided to a system in a manner inconsistent with section 14404 of this title.
 
@@ -90,9 +90,9 @@ The Social Security Act, referred to in subsecs. (a)(5) and (b), is act Aug. 14,
 
 #### Amendments
 
-1997—Subsec. (a)(10). Pub. L. 105–12 added par. (10).
+<b>1997</b>—Subsec. (a)(10). Pub. L. 105–12 added par. (10).
 
-1991—Subsec. (a). Pub. L. 102–173, §10, substituted “individual with mental illness” for “mentally ill individual” and “individuals with mental illness” for “mentally ill individuals” wherever appearing.
+<b>1991</b>—Subsec. (a). Pub. L. 102–173, §10, substituted “individual with mental illness” for “mentally ill individual” and “individuals with mental illness” for “mentally ill individuals” wherever appearing.
 
 Subsec. (a)(4). Pub. L. 102–173, §6(a), inserted “as a result of monitoring or other activities (either of which result from a complaint or other evidence)” before “there is” in subpar. (B)(iii) and added subpar. (C).
 
@@ -104,7 +104,7 @@ Subsec. (b). Pub. L. 102–173, §10(2), substituted “individuals with mental 
 
 Subsec. (c)(1). Pub. L. 102–173, §§6(d), 10(2), substituted “individuals with mental illness” for “mentally ill individuals” in subpar. (A) and inserted at end of subpar. (B) “As used in this subparagraph, the term ‘members who broadly represent or are knowledgeable about the needs of the clients served by the system’ shall be construed to include individuals who have received or are receiving mental health services and family members of such individuals.”
 
-1988—Subsec. (a)(4)(B). Pub. L. 100–509, §6(a), inserted “(including an individual who has died or whose whereabouts are unknown)” after “any individual”.
+<b>1988</b>—Subsec. (a)(4)(B). Pub. L. 100–509, §6(a), inserted “(including an individual who has died or whose whereabouts are unknown)” after “any individual”.
 
 Subsec. (a)(6). Pub. L. 100–509, §4(1), substituted “an advisory council” for “a board”.
 

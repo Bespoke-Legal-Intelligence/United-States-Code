@@ -80,11 +80,11 @@ For purposes of this part—
 
 #### (C) TAA-eligible individuals
 
-&emsp;&emsp;In the case of plan years beginning before January 1, 2011—
+&emsp;&emsp;In the case of plan years beginning before February 13, 2011—
 
 #### (i) TAA pre-certification period rule
 
-&emsp;&emsp;&emsp;In the case of a TAA-eligible individual, the period beginning on the date the individual has a TAA-related loss of coverage and ending on the date that is 7 days after the date of the issuance by the Secretary (or by any person or entity designated by the Secretary) of a qualified health insurance costs credit eligibility certificate for such individual for purposes of section 7527 of title 26 shall not be taken into account in determining the continuous period under subparagraph (A).
+&emsp;&emsp;&emsp;In the case of a TAA-eligible individual, the period beginning on the date the individual has a TAA-related loss of coverageand ending on the date that is 7 days after the date of the issuance by the Secretary (or by any person or entity designated by the Secretary) of a qualified health insurance costs credit eligibility certificate for such individual for purposes of section 7527 of title 26 shall not be taken into account in determining the continuous period under subparagraph (A).
 
 #### (ii) Definitions
 
@@ -156,7 +156,7 @@ For purposes of this part—
 
 #### (C) Issuer compliance
 
-&emsp;&emsp;To the extent that medical care under a group health plan consists of group health insurance coverage, the plan is deemed to have satisfied the certification requirement under this paragraph if the health insurance issuer offering the coverage provides for such certification in accordance with this paragraph.
+&emsp;&emsp;To the extent that medical care under a group health plan consists of group healthinsurance coverage, the plan is deemed to have satisfied the certification requirement under this paragraph if the health insurance issuer offering the coverage provides for such certification in accordance with this paragraph.
 
 #### (2) Disclosure of information on previous benefits
 
@@ -224,7 +224,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;A group health plan, and a health insurance issuer offering group health insurance coverage in connection with a group health plan, shall permit an employee who is eligible, but not enrolled, for coverage under the terms of the plan (or a dependent of such an employee if the dependent is eligible, but not enrolled, for coverage under such terms) to enroll for coverage under the terms of the plan if either of the following conditions is met:
+&emsp;&emsp;A group health plan, and a health insurance issuer offering group health insurance coverage in connection with a group health plan, shall permit an employee who is eligible, but not enrolled, for coverage under theterms of the plan (or a dependent of such an employee if the dependent is eligible, but not enrolled, for coverage under such terms) to enroll for coverage under the terms of the plan if either of the following conditions is met:
 
 #### (i) Termination of Medicaid or CHIP coverage
 
@@ -284,23 +284,29 @@ For purposes of this part—
 
 &emsp;A health maintenance organization described in paragraph (1) may use alternative methods, from those described in such paragraph, to address adverse selection as approved by the State insurance commissioner or official or officials designated by the State to enforce the requirements of part A of title XXVII of the Public Health Service Act \[42 U.S.C. 300gg et seq.\] for the State involved with respect to such issuer.
 
-(Pub. L. 93–406, title I, §701, as added Pub. L. 104–191, title I, §101(a), Aug. 21, 1996, 110 Stat. 1939; amended Pub. L. 104–204, title VI, §603(b)(3)(H), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 111–3, title III, §311(b)(1)(A), Feb. 4, 2009, 123 Stat. 65; Pub. L. 111–5, div. B, title I, §1899D(b), Feb. 17, 2009, 123 Stat. 426.)
+(Pub. L. 93–406, title I, §701, as added Pub. L. 104–191, title I, §101(a), Aug. 21, 1996, 110 Stat. 1939; amended Pub. L. 104–204, title VI, §603(b)(3)(H), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 111–3, title III, §311(b)(1)(A), Feb. 4, 2009, 123 Stat. 65; Pub. L. 111–5, div. B, title I, §1899D(b), Feb. 17, 2009, 123 Stat. 426; Pub. L. 111–344, title I, §114(b), Dec. 29, 2010, 124 Stat. 3615.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (c)(1)(C), (D), (f)(3)(A)(i), (B)(i)(I), (II), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.) of subchapterXVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c)(1)(C), (D), (f)(3)(A)(i), (B)(i)(I), (II), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization Act of 2009, referred to in subsec. (f)(3)(B)(ii), is section 311(b)(1)(C) of Pub. L. 111–3, which is set out as a note under this section.
 
-The Public Health Service Act, referred to in subsec. (g)(3), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title XXVII of the Act is classified generally to part A (§300gg et seq.) of subchapter XXV of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (g)(3), is act July 1, 1944, ch. 373, 58 Stat. 682. Part A of title XXVII of the Act is classified generally to part A (§300gg et seq.) of subchapter XXV of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Amendments
 
-2009—Subsec. (c)(2)(C). Pub. L. 111–5 added subpar. (C).
+<b>2010</b>—Subsec. (c)(2)(C). Pub. L. 111–344 substituted “February 13, 2011” for “January 1, 2011” in introductory provisions.
+
+<b>2009</b>—Subsec. (c)(2)(C). Pub. L. 111–5 added subpar. (C).
 
 Subsec. (f)(3). Pub. L. 111–3 added par. (3).
 
-1996—Subsec. (c)(1). Pub. L. 104–204 made technical amendment to reference in original act which appears in text as reference to section 1191b of this title.
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–204 made technical amendment to reference in original act which appears in text as reference to section 1191b of this title.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–344 applicable to plan years beginning after Dec. 31, 2010, see section 114(d) of Pub. L. 111–344, set out as a note under section 9801 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2009 Amendment
 
@@ -308,7 +314,7 @@ Except as otherwise provided and subject to certain applicability provisions, am
 
 Amendment by Pub. L. 111–5 applicable to plan years beginning after Feb. 17, 2009, see section 1899D(d) of Pub. L. 111–5, set out as a note under section 9801 of Title 26, Internal Revenue Code.
 
-Amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as a note under section 1396 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as an Effective Date note under section 1396 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1996 Amendment
 
@@ -390,7 +396,7 @@ Medicaid, chip, and employer-sponsored coverage coordination working group.—
 
 &emsp;“(I)
 
-In general.—Not later than 60 days after the date of enactment of this Act \[Feb. 4, 2009\], the Secretary of Health and Human Services and the Secretary of Labor shall jointly establish a Medicaid, CHIP, and Employer-Sponsored Coverage Coordination Working Group (in this subparagraph referred to as the ‘Working Group’). The purpose of the WorkingGroup shall be to develop the model coverage coordination disclosure form described in subclause (II) and to identify the impediments to the effective coordination of coverage available to families that include employees of employers that maintain group health plans and members who are eligible for medical assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] or child health assistance or other health benefits coverage under title XXI of such Act \[42 U.S.C. 1397aa et seq.\].
+In general.—Not later than 60 days after the date of enactment of this Act \[Feb. 4, 2009\], the Secretary of Health and Human Services and the Secretary of Labor shall jointly establish a Medicaid, CHIP, and Employer-Sponsored Coverage Coordination Working Group (in this subparagraph referred to as the ‘Working Group’). The purpose of the Working Group shall be to develop the model coverage coordination disclosure form described in subclause (II) and to identify the impediments to the effective coordination of coverage available to families that include employees of employers that maintain group health plans and members who are eligible for medical assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] or child health assistance or other health benefits coverage under title XXI of such Act \[42 U.S.C. 1397aa et seq.\].
 
 &emsp;“(II)
 
@@ -454,5 +460,5 @@ Termination.—The Working Group shall terminate 30 days after the date of the i
 
 #### Implementation of 2009 Amendment
 
-Pub. L. 111–3, title III, §311(b)(1)(D), Feb. 4, 2009, 123 Stat. 69, provided that: “The Secretary of Labor and the Secretary of Health and Human Services shall develop the initial model notices under section 701(f)(3)(B)(i)(II) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1181(f)(3)(B)(i)(II)\], and the Secretary of Labor shall provide such notices to employers, not later than the date that is 1 year after the date of enactment of this Act \[Feb. 4, 2009\], and each employer shall provide the initial annual notices to such employer's employees beginning with the first plan year that begins after the date on which such initial model notices are first issued. The model coverage coordination disclosure form developed under subparagraph (C) \[set out above\] shall apply with respect to requests made by States beginning with the first plan year that begins after the date on which such model coverage coordination disclosure form is first issued.”
+Pub. L. 111–3, title III, §311(b)(1)(D), Feb. 4, 2009, 123 Stat. 69, provided that: “The Secretary of Labor andthe Secretary of Health and Human Services shall develop the initial model notices under section 701(f)(3)(B)(i)(II) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1181(f)(3)(B)(i)(II)\], and the Secretary of Labor shall provide such notices to employers, not later than the date that is 1 year after the date of enactment of this Act \[Feb. 4, 2009\], and each employer shall provide the initial annual notices to such employer's employees beginning with the first plan year that begins after the date on which such initial model notices are first issued. The model coverage coordination disclosure form developed under subparagraph (C) \[set out above\] shall apply with respect to requests made by States beginning with the first plan year that begins after the date on which such model coverage coordination disclosure form is first issued.”
 

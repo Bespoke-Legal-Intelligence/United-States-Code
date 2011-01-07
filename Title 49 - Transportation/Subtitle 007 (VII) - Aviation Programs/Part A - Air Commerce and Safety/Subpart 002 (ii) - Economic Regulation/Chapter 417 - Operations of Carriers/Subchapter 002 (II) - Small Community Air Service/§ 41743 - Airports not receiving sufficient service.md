@@ -70,7 +70,7 @@ In general.—The Secretary may make agreements to provide assistance under this
 
 &emsp;(2)
 
-Authorization of appropriations.—There is authorized to be appropriated to the Secretary $20,000,000 for fiscal year 2001, $27,500,000 for each of fiscal years 2002 and 2003, and $35,000,000 for each of fiscal years 2004 through 2010 to carry out this section. Such sums shall remain available until expended.
+Authorization of appropriations.—There is authorized to be appropriated to the Secretary $20,000,000 for fiscal year 2001, $27,500,000 for each of fiscal years 2002 and 2003, and $35,000,000 for each of fiscal years 2004 through 2011 to carry out this section. Such sums shall remain available until expended.
 
 (f)
 
@@ -94,15 +94,17 @@ Designation of Responsible Official.—The Secretary shall designate an employee
 
 Air Service Development Zone.—The Secretary shall designate an airport in the program as an Air Service Development Zone and work with the community or consortium on means to attract business to the area surrounding the airport, to develop land use options for the area, and provide data, working with the Department of Commerce and other agencies.
 
-(Added Pub. L. 106–181, title II, §203(a), Apr. 5, 2000, 114 Stat. 92; amended Pub. L. 108–11, title II, §2708, Apr. 16, 2003, 117 Stat. 601; Pub. L.108–176, title II, §225(b)(3), title IV, §412, Dec. 12, 2003, 117 Stat. 2529, 2551; Pub. L. 110–330, §5(b), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–69, §5(b), Oct. 1, 2009, 123 Stat. 2055.)
+(Added Pub. L. 106–181, title II, §203(a), Apr. 5, 2000, 114 Stat. 92; amended Pub. L. 108–11, title II, §2708, Apr. 16, 2003, 117 Stat. 601; Pub. L. 108–176, title II, §225(b)(3), title IV, §412, Dec. 12, 2003, 117 Stat. 2529, 2551; Pub. L. 110–330, §5(b), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–69, §5(b), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–249, §5(b), Sept. 30, 2010, 124 Stat. 2628.)
 
 #### Amendments
 
-2009—Subsec. (e)(2). Pub. L. 111–69 substituted “2010” for “2009”.
+<b>2010</b>—Subsec. (e)(2). Pub. L. 111–249 substituted “2011” for “2010”.
 
-2008—Subsec. (e)(2). Pub. L. 110–330 substituted “2009” for “2008”.
+<b>2009</b>—Subsec. (e)(2). Pub. L. 111–69 substituted “2010” for “2009”.
 
-2003—Subsec. (a). Pub. L. 108–176, §412(1), (2), struck out “
+<b>2008</b>—Subsec. (e)(2). Pub. L. 110–330 substituted “2009” for “2008”.
+
+<b>2003</b>—Subsec. (a). Pub. L. 108–176, §412(1), (2), struck out “
 
 Pilot” before “
 
@@ -121,6 +123,10 @@ Subsec. (c)(5)(E). Pub. L. 108–176, §412(3)(C), added subpar. (E).
 Subsec. (e)(2). Pub. L. 108–176, §412(4), substituted “fiscal year 2001,” for “fiscal year 2001 and” and inserted “, and $35,000,000 for each of fiscal years 2004 through 2008” after “2003”.
 
 Subsec. (f). Pub. L. 108–176, §§225(b)(3)(B), 412(5), struck out “pilot” after “Under the” and “(as defined in section 41731(a)(3))” after “large hub airports”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–249 effective Oct. 1, 2010, see section 5(<i>l</i>) of Pub. L. 111–249, set out as a note under section 40117 of this title.
 
 #### Effective Date of 2008 Amendment
 

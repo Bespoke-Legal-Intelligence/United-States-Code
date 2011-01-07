@@ -14,13 +14,13 @@ Based on 44 U.S. Code, 1964 ed., §399 (June 30, 1949, ch. 288, title V, §509, 
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–497, §107(a)(9)(A), substituted “Archivist” for “Administrator of General Services”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–497, §107(a)(9)(A), substituted “Archivist” for “Administrator of General Services”.
 
 Subsec. (b). Pub. L. 98–497, §107(a)(9)(B), substituted “Archivist” for “Administrator”.
 
 Subsec. (c). Pub. L. 98–497, §201, substituted provisions transferring functions from Administrator of General Services to Archivist of the United States, further substituted provisions relating to permissible fee charges for former provisions which set a fee not in excess of 10 percent above costs and expenses for making copies, inserted “unless appropriations available to the Archivist for this purpose are insufficient to cover the cost of performing the work”, and struck out provision that reimbursement may be accepted to cover cost of furnishing copies or reproductions that could not otherwise be furnished.
 
-1976—Subsec. (a). Pub. L. 94–575 inserted reference to chapter 33 of this title.
+<b>1976</b>—Subsec. (a). Pub. L. 94–575 inserted reference to chapter 33 of this title.
 
 #### Effective Date of 1984 Amendment
 

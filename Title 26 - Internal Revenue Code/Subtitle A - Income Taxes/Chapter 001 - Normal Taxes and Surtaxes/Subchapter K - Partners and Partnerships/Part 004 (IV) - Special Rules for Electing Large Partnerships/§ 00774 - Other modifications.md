@@ -64,7 +64,7 @@ In the case of an electing large partnership—
 
 #### Amendments
 
-1998—Subsec. (d)(2). Pub. L. 105–206 inserted “or 857(b)(3)(D)” before period at end.
+<b>1998</b>—Subsec. (d)(2). Pub. L. 105–206 inserted “or 857(b)(3)(D)” before period at end.
 
 #### Effective Date of 1998 Amendment
 

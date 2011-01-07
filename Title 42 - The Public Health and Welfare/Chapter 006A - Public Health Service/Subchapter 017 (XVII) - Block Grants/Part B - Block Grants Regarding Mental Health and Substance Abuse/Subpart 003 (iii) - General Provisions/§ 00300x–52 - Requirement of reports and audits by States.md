@@ -24,5 +24,5 @@ A funding agreement for a grant under section 300x or 300x–21 of this title is
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–316 struck out “and the Comptroller General” after “with the States” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–316 struck out “and the Comptroller General” after “with the States” in introductory provisions.
 

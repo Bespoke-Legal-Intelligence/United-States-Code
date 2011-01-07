@@ -34,9 +34,9 @@ The words “for all purposes” and “to the contrary”, in each source credi
 
 #### Amendments
 
-1972—Pub. L. 92–413 inserted reference to sections 2734a, 2734b, and 2737 of this title.
+<b>1972</b>—Pub. L. 92–413 inserted reference to sections 2734a, 2734b, and 2737 of this title.
 
-1964—Pub. L. 88–558 struck out reference to section 2732.
+<b>1964</b>—Pub. L. 88–558 struck out reference to section 2732.
 
 #### Effective Date of 1964 Amendment
 
@@ -44,5 +44,5 @@ Section 5(1) of Pub. L. 88–558 provided that the amendment made by that sectio
 
 #### Repeals
 
-The directory language of, but not the amendment made by, Pub. L. 88–558, Aug. 31, 1964, 78 Stat. 767, citedas a credit to this section and in the Effective Date of 1964 Amendment note above, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
+The directory language of, but not the amendment made by, Pub. L. 88–558, Aug. 31, 1964, 78 Stat. 767, cited as a credit to this section and in the Effective Date of 1964 Amendment note above, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
 

@@ -36,15 +36,19 @@
 
 &emsp;(B) at any time after the confirmation of the plan, and after notice and a hearing, the court may grant a discharge to the debtor who has not completed payments under the plan if—
 
-&emsp;&emsp;(i) the value, as of the effective date of the plan, of property actually distributed under the plan on account of each allowed unsecured claim is not less than the amount that would have been paid on such claim if the estate of the debtor had been liquidated under chapter 7 on such date; and
+&emsp;&emsp;(i) the value, as of the effective date of the plan, of property actually distributed under the plan on account of each allowed unsecured claim is not less than the amount that would have been paid on such claim if the estate of the debtor had been liquidated under chapter 7 on such date;
 
 &emsp;&emsp;(ii) modification of the plan under section 1127 is not practicable; and
 
-&emsp;(C) unless after notice and a hearing held not more than 10 days before the date of the entry of the order granting the discharge, the court finds that there is no reasonable cause to believe that—
+&emsp;&emsp;(iii) subparagraph (C) permits the court to grant a discharge; and
+
+&emsp;(C) the court may grant a discharge if, after notice and a hearing held not more than 10 days before the date of the entry of the order granting the discharge, the court finds that there is no reasonable cause to believe that—
 
 &emsp;&emsp;(i) section 522(q)(1) may be applicable to the debtor; and
 
-&emsp;&emsp;(ii) there is pending any proceeding in which the debtor may be found guilty of a felony of the kind described in section 522(q)(1)(A) or liable for a debt of the kind described in section 522(q)(1)(B).
+&emsp;&emsp;(ii) there is pending any proceeding in which the debtor may be found guilty of a felony of the kind described in section 522(q)(1)(A) or liable for a debt of the kind described in section 522(q)(1)(B);
+
+> &emsp;and if the requirements of subparagraph (A) or (B) are met.
 
 &emsp;(6) Notwithstanding paragraph (1), the confirmation of a plan does not discharge a debtor that is a corporation from any debt—
 
@@ -56,7 +60,7 @@
 
 &emsp;&emsp;&emsp;(ii) willfully attempted in any manner to evade or to defeat such tax or such customs duty.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2638; Pub. L. 98–353, title III, §513, July 10, 1984, 98 Stat. 387; Pub. L. 109–8, title III, §§321(d), 330(b), title VII, §708, Apr. 20, 2005, 119 Stat. 95, 101, 126.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2638; Pub. L. 98–353, title III, §513, July 10, 1984, 98 Stat. 387; Pub. L. 109–8, title III, §§321(d), 330(b), title VII, §708, Apr. 20, 2005, 119 Stat. 95, 101, 126; Pub. L. 111–327, §2(a)(36), Dec. 22, 2010, 124 Stat. 3561.)
 
 #### Historical and Revision Notes
 
@@ -83,6 +87,10 @@ Paragraph (4) authorizes the court to approve a waiver of discharge by the debto
 Paragraph (2) \[of subsec. (d)\] makes applicable to an individual debtor the general exceptions to discharge that are enumerated in section 523(a) of the bankruptcy code.
 
 #### Amendments
+
+2010—Subsec. (d)(5)(B)(iii). Pub. L. 111–327, §2(a)(36)(A), added cl. (iii).
+
+Subsec. (d)(5)(C). Pub. L. 111–327, §2(a)(36)(B), substituted “the court may grant a discharge if,” for “unless” in introductory provisions and inserted concluding provisions.
 
 2005—Subsec. (d)(2). Pub. L. 109–8, §321(d)(1), substituted “A discharge under this chapter does not discharge a debtor who is an individual” for “The confirmation of a plan does not discharge an individual debtor”.
 

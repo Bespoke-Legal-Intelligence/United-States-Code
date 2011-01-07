@@ -22,13 +22,13 @@ The Secretary shall, in accordance with subparts 1 through 9 of this part, carry
 
 #### Prior Provisions
 
-A prior section 1070, Pub. L. 89–329, title IV, §401, as added and amended Pub. L. 92–318, title I, §131(b)(1), title X, §1001(c)(1), (2), June 23, 1972, 86 Stat. 247, 381; Pub. L. 94–482, title I, §125, Oct. 12, 1976, 90 Stat. 2096; Pub. L. 96–374, title IV, §401, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1401, 1503, stated purpose of program of grants to students in attendance at institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1070, Pub. L. 89–329, title IV, §401, as added and amended Pub. L. 92–318, title I, §131(b)(1),title X, §1001(c)(1), (2), June 23, 1972, 86 Stat. 247, 381; Pub. L. 94–482, title I, §125, Oct. 12, 1976, 90 Stat. 2096; Pub. L. 96–374, title IV, §401, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1401, 1503, stated purpose of program of grants to students in attendance at institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
-2009—Subsec. (b). Pub. L. 111–39 substituted “1 through 9” for “1 through 8”.
+<b>2009</b>—Subsec. (b). Pub. L. 111–39 substituted “1 through 9” for “1 through 8”.
 
-1998—Subsec. (a)(1). Pub. L. 105–244 substituted “Federal Pell Grants” for “basic educational opportunity grants”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–244 substituted “Federal Pell Grants” for “basic educational opportunity grants”.
 
 #### Effective Date of 2009 Amendment
 
@@ -138,7 +138,7 @@ Definitions.—For purposes of this Act \[probably should be “section”\]—
 
 &emsp;&emsp;“(A) any Reserve of an Armed Force called to active duty under section 672(a) \[now 12301(a)\], 672(g) \[now 12301(g)\], 673 \[now 12302\], 673b \[now 12304\], 674 \[now 12306\], or 688 of title 10, United States Code, for service in connection with Operation Desert Shield or Operation Desert Storm, regardless of the location at which such active duty service is performed; and
 
-&emsp;&emsp;“(B) for purposes of waivers of administrative requirements under subsection (b)(2) only, any other member of an Armed Force on active duty in connection with Operation Desert Shield or OperationDesert Storm, who has been assigned to a duty station at a location other than the location at which such member is normally assigned.
+&emsp;&emsp;“(B) for purposes of waivers of administrative requirements under subsection (b)(2) only, any other member of an Armed Force on active duty in connection with Operation Desert Shield or Operation Desert Storm, who has been assigned to a duty station at a location other than the location at which such member is normally assigned.
 
 &emsp;“(2) The term ‘active duty’ has the meaning given such term in section 101(22) of title 10, United States Code, except that such term does not include active duty for training or attendance at a service school.
 

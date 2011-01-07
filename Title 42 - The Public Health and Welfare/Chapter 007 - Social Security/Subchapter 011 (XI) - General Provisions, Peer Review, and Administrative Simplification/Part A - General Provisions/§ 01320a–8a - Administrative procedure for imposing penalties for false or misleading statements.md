@@ -24,7 +24,7 @@ The penalty described in this subsection is—
 
 #### (c) Duration of penalty
 
-The duration of the applicable period, with respect to a determination by the Commissionerunder subsection (a) of this section that a person has engaged in conduct described in subsection (a) of this section, shall be—
+The duration of the applicable period, with respect to a determination by the Commissioner under subsection (a) of this section that a person has engaged in conduct described in subsection (a) of this section, shall be—
 
 &emsp;(1) six consecutive months, in the case of the first such determination with respect to the person;
 
@@ -56,15 +56,15 @@ Section 212(b) of Public Law 93–66, referred to in subsec. (e), is section 212
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–203 substantially rewrote text of subsec. (a). Prior to amendment, text read as follows: “Any person who makes, or causes to be made, a statement or representation of a material fact for use in determining any initial or continuing right to or the amount of—
+<b>2004</b>—Subsec. (a). Pub. L. 108–203 substantially rewrote text of subsec. (a). Prior to amendment, text read as follows: “Any person who makes, or causes to be made, a statement or representation of a material fact for use in determining any initial or continuing right to or the amount of—
 
 &emsp;“(1) monthly insurance benefits under subchapter II of this chapter; or
 
 &emsp;“(2) benefits or payments under subchapter XVI of this chapter,
 
-> that the person knows or should know is false or misleading or knows or should know omits a material fact or who makes such a statement with knowing disregard for the truth shall be subject to, in addition to any other penalties that may be prescribed by law, a penalty described in subsection (b) of this section to be imposed by the Commissioner of Social Security.”
+> that the person knows or should know is false or misleading or knows or should know omits a material fact or who makes such a statement with knowing disregardfor the truth shall be subject to, in addition to any other penalties that may be prescribed by law, a penalty described in subsection (b) of this section to be imposed by the Commissioner of Social Security.”
 
-2000—Subsec. (e). Pub. L. 106–554, §1(a)(1) \[title V, §518(b)(2)(B), (D)\], inserted “1010a or” after “agreement under section” and “, as the case may be” before period at end.
+<b>2000</b>—Subsec. (e). Pub. L. 106–554, §1(a)(1) \[title V, §518(b)(2)(B), (D)\], inserted “1010a or” after “agreement under section” and “, as the case may be” before period at end.
 
 Pub. L. 106–554, §1(a)(1) \[title V, §518(b)(2)(C)\], which directed the amendment of subsec. (e) by inserting “1010A or” before “1382(e)(a)”, could not be executed because “1382(e)(a)” does not appear in text.
 

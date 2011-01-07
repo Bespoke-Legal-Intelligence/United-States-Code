@@ -10,9 +10,9 @@
 
 #### Amendments
 
-1966—Pub. L. 89–809, title II, §211(a)(8), Nov. 13, 1966, 80 Stat. 1582, inserted “or nonqualified per-unit retain certificates” in item 1383.
+<b>1966</b>—Pub. L. 89–809, title II, §211(a)(8), Nov. 13, 1966, 80 Stat. 1582, inserted “or nonqualified per-unit retain certificates” in item 1383.
 
-1962—Pub. L. 87–834, §17(a), Oct. 16, 1962, 76 Stat. 1045, added heading of part I and items 1381 to 1383.
+<b>1962</b>—Pub. L. 87–834, §17(a), Oct. 16, 1962, 76 Stat. 1045, added heading of part I and items 1381 to 1383.
 
 
 ---

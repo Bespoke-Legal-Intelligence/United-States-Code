@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any person who knowingly and willfully embezzles, misapplies, steals, obtains by fraud, false statement, or forgery, or fails to refund any funds, assets, or property provided or insured under this subchapter and part C of subchapter I of chapter 34 of title 42 or attempts to so embezzle, misapply, steal, obtain by fraud, false statement or forgery, or fail to refund any funds, assets, or property, shall be fined not more than $20,000 or imprisoned for not more than 5 years, or both, except if the amount so embezzled, misapplied, stolen, obtained by fraud, false statement, or forgery, or failed to be refunded does not exceed $200, then the fine shall not be more than $5,000 and imprisonment shall not exceed one year, or both.
+Any person who knowingly and willfully embezzles, misapplies, steals, obtains by fraud, false statement, or forgery, or fails to refund any funds, assets, or property provided or insured under this subchapter and part C of subchapter I of chapter 34 of title 42 or attempts to so embezzle, misapply, steal, obtain by fraud, false statement or forgery, or fail to refund any funds, assets, or property, shall be fined not more than $20,000 or imprisoned for not more than 5 years, or both, except if the amount so embezzled, misapplied, stolen, obtained by fraud, false statement, or forgery, or failed to be refunded does not exceed $200, then the fine shallnot be more than $5,000 and imprisonment shall not exceed one year, or both.
 
 #### (b) Assignment of loans
 
@@ -14,7 +14,7 @@ Any person who knowingly and willfully makes an unlawful payment to an eligible 
 
 #### (d) Obstruction of justice
 
-Any person who knowingly and willfully destroys or conceals any record relating to theprovision of assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 or attempts to so destroy or conceal with intent to defraud the United States or to prevent the United States from enforcing any right obtained by subrogation under this part, shall upon conviction thereof, be fined not more than $20,000 or imprisoned not more than 5 years, or both.
+Any person who knowingly and willfully destroys or conceals any record relating to the provision of assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 or attempts to so destroy or conceal with intent to defraud the United States or to prevent the United States from enforcing any right obtained by subrogation under this part, shall upon conviction thereof, be fined not more than $20,000 or imprisoned not more than 5 years, or both.
 
 (Pub. L. 89–329, title IV, §490, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1491; amended Pub. L. 102–325, title IV, §495, July 23, 1992, 106 Stat. 631.)
 
@@ -24,5 +24,5 @@ A prior section 1097, Pub. L. 89–329, title IV, §490, as added Pub. L. 96–3
 
 #### Amendments
 
-1992—Pub. L. 102–325 amended section generally, inserting provisions relating to attempted offenses, wherever appearing, and in subsec. (a) inserting provisions relating to failure to refund and substituting provisions relating to $20,000 and $5,000 fines for provisions relating to $10,000 and $1,000 fines, respectively, in subsec. (b) substituting provisions relating to $10,000 fines for provisions relating to $1,000 fines, in subsec. (c) substituting provisions relating to $10,000 fines for provisions relating $1,000 fines, and in subsec. (d) substituting provisions relating to $20,000 fines for provisions relating to $10,000 fines.
+<b>1992</b>—Pub. L. 102–325 amended section generally, inserting provisions relating to attempted offenses, wherever appearing, and in subsec. (a) inserting provisions relating to failure to refund and substituting provisions relating to $20,000 and $5,000 fines for provisions relating to $10,000 and $1,000 fines, respectively, in subsec. (b) substituting provisions relating to $10,000 fines for provisions relating to $1,000 fines, in subsec. (c) substituting provisions relating to $10,000 fines for provisions relating $1,000 fines, and in subsec. (d) substituting provisions relating to $20,000 fines for provisions relating to $10,000 fines.
 

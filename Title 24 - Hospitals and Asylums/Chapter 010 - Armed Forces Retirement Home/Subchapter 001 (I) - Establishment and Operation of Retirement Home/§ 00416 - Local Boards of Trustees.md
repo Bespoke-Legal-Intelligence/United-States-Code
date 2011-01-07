@@ -78,11 +78,11 @@ The Secretary of Defense may terminate the appointment of a member of a Local Bo
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–181, §1422(e)(1), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Local Board for a facility shall serve in an advisory capacity to the Director of the facility and to the Chief Operating Officer.”
+<b>2008</b>—Subsec. (b). Pub. L. 110–181, §1422(e)(1), amended subsec. (b) generally. Prior to amendment, text read asfollows: “The Local Board for a facility shall serve in an advisory capacity to the Director of the facility and to the Chief Operating Officer.”
 
 Subsec. (c)(1)(K). Pub. L. 110–181, §1422(e)(2), as amended by Pub. L. 110–417, amended subpar. (K) generally. Prior to amendment, subpar. (K) read as follows: “One senior representative of one of the chief personnel officers of the Armed Forces.”
 
-2001—Pub. L. 107–107 amended section catchline and text generally, substituting provisions relating to Local Boards of Trustees for provisions relating to the duties of the Retirement Home Board.
+<b>2001</b>—Pub. L. 107–107 amended section catchline and text generally, substituting provisions relating to Local Boards of Trustees for provisions relating to the duties of the Retirement Home Board.
 
 #### Effective Date of 2008 Amendment
 

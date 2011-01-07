@@ -10,7 +10,7 @@
 
 #### (2) Partnerships
 
-&emsp;(A) In order to be eligible to receive a grant under this subsection, an institution of highereducation or eligible nonprofit organization (or consortium of such institutions or organizations) shall enter into a partnership with one or more local educational agencies that may also include the department, college, or program of education at an institution of higher education, a State educational agency, or one or more businesses.
+&emsp;(A) In order to be eligible to receive a grant under this subsection, an institution of higher education or eligible nonprofit organization (or consortium of such institutions or organizations) shall enter into a partnership with one or more local educational agencies that may also include the department, college, or program of education at an institution of higher education, a State educational agency, or one or more businesses.
 
 &emsp;(B) A participating institution of higher education shall include mathematics, science, or engineering departments in the programs carried out through a partnership under this paragraph.
 
@@ -218,7 +218,7 @@
 
 #### (5) Technical assistance
 
-&emsp;At the request of an eligible partnership or a State educational agency, the Director shallprovide the partnership or agency with technical assistance in meeting any requirements of this section, including providing advice from experts on how to develop—
+&emsp;At the request of an eligible partnership or a State educational agency, the Director shall provide the partnership or agency with technical assistance in meeting any requirements of this section, including providing advice from experts on how to develop—
 
 &emsp;&emsp;(A) a quality application for a grant; and
 
@@ -236,7 +236,7 @@ In this section—
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(3)(A) and (c)(4), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. Part B of title II of the Act is classified generally to part B (§6661 et seq.) of subchapter II of chapter 70 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(3)(A) and (c)(4), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of Title 20,Education. Part B of title II of the Act is classified generally to part B (§6661 et seq.) of subchapter II of chapter 70 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Codification
 
@@ -244,7 +244,7 @@ Section was enacted as part of the National Science Foundation Authorization Act
 
 #### Amendments
 
-2007—Subsec. (a)(2)(A). Pub. L. 110–69, §7028(1), substituted “the department, college, or program of education at an institution of higher education, a State educational agency,” for “a State educational agency”.
+<b>2007</b>—Subsec. (a)(2)(A). Pub. L. 110–69, §7028(1), substituted “the department, college, or program of education at an institution of higher education, a State educational agency,” for “a State educational agency”.
 
 Subsec. (a)(3)(B). Pub. L. 110–69, §7028(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “offering professional development programs, including summer or academic year institutes or workshops, designed to strengthen the capabilities of mathematics and science teachers;”.
 
@@ -330,7 +330,7 @@ Foundation.—The term ‘Foundation’ means the National Science Foundation es
 
 &emsp;“(8)
 
-High-need local educational agency.—The term ‘high-need local educational agency’ means a local educational agency that meets one or more of the following criteria:
+High-need local educational agency.—The term ‘high-need local educational agency’ means alocal educational agency that meets one or more of the following criteria:
 
 &emsp;&emsp;“(A) It has at least one school in which 50 percent or more of the enrolled students are eligible for participation in the free and reduced price lunch program established by the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
 

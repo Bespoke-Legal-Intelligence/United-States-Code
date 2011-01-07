@@ -6,7 +6,7 @@ A fee shall be charged for each guaranty issued under section 2182 or 2182a of t
 
 #### (b) Accumulated and existing fees; expenditure of fees; revolving fund account; investments; use of investment income
 
-The amount of $50,000,000 of fees accumulated under prior investment guaranty provisions repealed by the Foreign Assistance Act of 1969, together with all fees collected in connection with guaranties issued under section 2182 of this title or under prior housing guaranty authorities, shall be available for meeting necessary administrative and operating expenses of carrying out the provisions of section 2182 of this title and administering housing guaranties heretofore authorized under this subpart and under prior housing guaranty provisions repealed by the Foreign Assistance Act of 1969 (including, but not limited to expenses pertaining to personnel, supplies, and printing), subject to such limitations as may be imposed in annual appropriation Acts; for meeting management and custodial costs incurred with respect to currencies or other assets acquired under guaranties made pursuant to section 2182 of this title or heretofore pursuant to this subpart or prior Latin American and other housing guaranty authorities repealed by the Foreign Assistance Act of 1969; and to pay the cost of investigating and adjusting (including costs of arbitration) claims under such guaranties; and shall be available for expenditure in discharge of liabilities under such guaranties until such time as all such property has been disposed of and all such liabilities have been discharged or have expired, or until all such fees have been expended in accordancewith the provisions of this subsection. Fees collected in connection with guaranties issued under section 2182a of this title shall likewise be available to meet similar expenses, costs, or liabilities incurred in connection with the programs authorized by that section. All of the foregoing fees referred to in this section together with earnings thereon and other income arising from guaranty operations under this subpart shall be held in a revolving fund account maintained in the Treasury of the United States. All funds in such account may be invested in obligations of the United States. Any interest or other receipts derived from such investments shall be credited to such account and may be used for the purposes cited in this section.
+The amount of $50,000,000 of fees accumulated under prior investment guaranty provisions repealed by the Foreign Assistance Act of 1969, together with all fees collected in connection with guaranties issued under section 2182 of this title or under prior housing guaranty authorities, shall be available for meeting necessary administrative and operating expenses of carrying out the provisions of section 2182 of this title and administering housing guaranties heretofore authorized under this subpart and under prior housing guaranty provisions repealed by theForeign Assistance Act of 1969 (including, but not limited to expenses pertaining to personnel, supplies, and printing), subject to such limitations as may be imposed in annual appropriation Acts; for meeting management and custodial costs incurred with respect to currencies or other assets acquired under guaranties made pursuant to section 2182 of this title or heretofore pursuant to this subpart or prior Latin American and other housing guaranty authorities repealed by the Foreign Assistance Act of 1969; and to pay the cost of investigating and adjusting (including costs of arbitration) claims under such guaranties; and shall be available for expenditure in discharge of liabilities under such guaranties until such time as all such property has been disposed of and all such liabilities have been discharged or have expired, or until all such fees have been expended in accordance with the provisions of this subsection. Fees collected in connection with guaranties issued under section 2182a of this title shall likewise be available to meet similar expenses, costs, or liabilities incurred in connection with the programs authorized by that section. All of the foregoing fees referred to in this section together with earnings thereon and other income arising from guaranty operations under this subpart shall be held in a revolving fund account maintained in the Treasury of the United States. All funds in such account may be invested in obligations of the United States. Any interest or other receipts derived from such investments shall be credited to such account and may be used for the purposes cited in this section.
 
 #### (c) Priorities of funds for guaranty payments
 
@@ -46,7 +46,7 @@ No payment may be made under any guaranty issued pursuant to this subpart for an
 
 Guaranties shall be issued under section 2182 of this title only for housing projects which are coordinated with and complementary to any development assistance being furnished under part I of this subchapter and which are specifically designed to demonstrate the feasibility and suitability of particular kinds of housing or of financial or other institutional arrangements. Of the aggregate face value of housing guaranties hereafter issued under this subpart, not less than 90 per centum shall be issued for housing suitable for families with income below the median income (below the median urban income for housing in urban areas) in the country in which the housing is located.
 
-(Pub. L. 87–195, pt. I, §223, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 808; amended Pub. L. 92–226, pt. I, §103(b) Feb. 7, 1972,86 Stat. 22; Pub. L. 93–189, §5(2), Dec. 17, 1973, 87 Stat. 717; Pub. L. 93–559, §§7(2), 8(a)(3)–(5), Dec. 30, 1974, 88 Stat. 1796, 1797; Pub. L. 94–161, title III, §311(5), Dec. 20, 1975, 89 Stat. 861; Pub. L. 94–329, title IV, §414, June 30, 1976, 90 Stat. 761; Pub. L. 95–88, title I, §117(a)(3), (b)(2), (c), Aug. 3, 1977, 91 Stat. 540; Pub. L. 95–424, title I, §115(c)–(j), Oct. 6, 1978, 92 Stat. 951, 952; Pub. L. 96–53, title I, §112(c), (d), Aug. 14, 1979, 93 Stat. 364; Pub. L. 97–113, title III, §310(b), Dec. 29, 1981, 95 Stat. 1535; Pub. L. 98–473, title I, §101(1) \[title V, §541(a)\], Oct. 12, 1984, 98 Stat. 1884, 1903; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–142; Pub. L. 105–277, div. A, §101(d) \[title II\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–157.)
+(Pub. L. 87–195, pt. I, §223, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 808; amended Pub. L. 92–226, pt. I, §103(b) Feb. 7, 1972, 86 Stat. 22; Pub. L. 93–189, §5(2), Dec. 17, 1973, 87 Stat. 717; Pub. L. 93–559, §§7(2), 8(a)(3)–(5), Dec. 30, 1974, 88 Stat. 1796, 1797; Pub. L. 94–161, title III, §311(5), Dec. 20, 1975, 89 Stat. 861; Pub. L. 94–329, title IV, §414, June 30, 1976, 90 Stat. 761; Pub. L. 95–88, title I, §117(a)(3), (b)(2), (c), Aug. 3, 1977, 91 Stat. 540; Pub. L. 95–424, title I, §115(c)–(j), Oct. 6, 1978, 92 Stat. 951, 952; Pub. L. 96–53, title I, §112(c), (d), Aug. 14, 1979, 93 Stat. 364; Pub. L. 97–113, title III, §310(b), Dec. 29, 1981, 95 Stat. 1535; Pub. L. 98–473, title I, §101(1) \[title V, §541(a)\], Oct. 12, 1984, 98 Stat. 1884, 1903; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–142; Pub. L. 105–277, div. A, §101(d) \[title II\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–157.)
 
 #### References in Text
 
@@ -72,19 +72,19 @@ A prior section 223 of Pub. L. 87–195, pt. I, Sept. 4, 1961, 75 Stat. 431, as 
 
 #### Amendments
 
-1998—Subsec. (j). Pub. L. 105–277 struck out at end “The face value of guaranties issued with respect to housing in any country shall not exceed $25,000,000 in any fiscal year, and the average face value of guaranties issued in any fiscal year shall not exceed $15,000,000. Of the total amount of housing guaranties authorized to be issued under section 2182 of this title through September 30, 1982, not less than a face amount of $25,000,000 shall be issued for projects in Israel and not less than a face amount of $25,000,000 shall be issued for projects in Egypt.”
+<b>1998</b>—Subsec. (j). Pub. L. 105–277 struck out at end “The face value of guaranties issued with respect to housing in any country shall not exceed $25,000,000 in any fiscal year, and the average face value of guaranties issued in any fiscal year shall not exceed $15,000,000. Of the total amount of housing guaranties authorized to be issued under section 2182 of this title through September 30, 1982, not less than a face amount of $25,000,000 shall be issued for projects in Israel and not less than a face amount of $25,000,000 shall be issued for projects in Egypt.”
 
-1987—Subsec. (e)(2)(A)(ii). Pub. L. 100–202 substituted “$100,000,000” for “$40,000,000”.
+<b>1987</b>—Subsec. (e)(2)(A)(ii). Pub. L. 100–202 substituted “$100,000,000” for “$40,000,000”.
 
-1984—Subsec. (e). Pub. L. 98–473 designated existing provisions as par. (1) and added par. (2).
+<b>1984</b>—Subsec. (e). Pub. L. 98–473 designated existing provisions as par. (1) and added par. (2).
 
-1981—Subsec. (b). Pub. L. 97–113 provided for maintenance of a revolving fund account in the Treasury consisting of fees, earnings from fees, and income from guaranty operations and authorized investment of account funds in obligations of the United States and use of investment income.
+<b>1981</b>—Subsec. (b). Pub. L. 97–113 provided for maintenance of a revolving fund account in the Treasury consisting of fees, earnings from fees, and income from guaranty operations and authorized investment of account funds in obligations of the United States and use of investment income.
 
-1979—Subsec. (f). Pub. L. 96–53, §112(c), substituted “the Department of Housing and Urban Development” for “such Department”, and struck out provisions setting forth minimum rate of interest as not less than one-half of one per centum above the then current rate on mortgages insured by the Department of Housing and Urban Development.
+<b>1979</b>—Subsec. (f). Pub. L. 96–53, §112(c), substituted “the Department of Housing and Urban Development” for “such Department”, and struck out provisions setting forth minimum rate of interest as not less than one-half of one per centum above the then current rate on mortgages insured by the Department of Housing and Urban Development.
 
 Subsec. (j). Pub. L. 96–53, §112(d), struck out requirement that except for regional projects, guarantees for housing projects be granted to countries receiving or which have received in the two previous years assistance under part I of this subchapter and substituted provisions authorizing face amounts of housing guarantees through September 30, 1982 of not less than $25,000,000 for Israel and Egypt for provisions authorizing face amounts of housing guarantees until September 30, 1978 of an amount not to exceed $75,000,000 in Israel and $30,000,000 in Portugal and Lebanon.
 
-1978—Subsec. (a). Pub. L. 95–424, §115(c), substituted “section 2182 or 2182a” for “section 2181, 2182, or 2182a”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–424, §115(c), substituted “section 2182 or 2182a” for “section 2181, 2182, or 2182a”.
 
 Subsec. (b). Pub. L. 95–424, §115(d), struck out “2181 or” after “guarantees issued under section”; substituted “section 2182 of this title and administering housing guaranties heretofore authorized under this subpart and under” for “section 2181 and section 2182 of this title and of”; struck out “2181 or” after “made pursuant to section”, and inserted “this subpart” after “heretofore pursuant to”.
 
@@ -100,19 +100,19 @@ Subsec. (i). Pub. L. 95–424, §115(i), struck out subsec. (i) directing that t
 
 Subsec. (j). Pub. L. 95–424, §115(j), substituted “section 2182” for “sections 2181 and 2182”.
 
-1977—Subsec. (b). Pub. L. 95–88, §117(b)(2), substituted “together with all fees collected in connection with guaranties issued under section 2181 or 2182 of this title or under prior housing guaranty authorities” for “together with all fees collected in connection with guaranties issued hereunder” and inserted provision that fees collected in connection with guaranties issued under section 2182a of this title shall likewise be available to meet similar expenses, costs, or liabilities incurred in connection with the programs authorized by that section.
+<b>1977</b>—Subsec. (b). Pub. L. 95–88, §117(b)(2), substituted “together with all fees collected in connection with guaranties issued under section 2181 or 2182 of this title or under prior housing guaranty authorities” for “together with all fees collected in connection with guaranties issued hereunder” and inserted provision that fees collected in connection with guaranties issued under section 2182a of this title shall likewise be available to meet similar expenses, costs, or liabilities incurred in connection with the programs authorized by that section.
 
 Subsec. (i). Pub. L. 95–88, §117(a)(3), substituted “September 30, 1979” for “September 30, 1978”.
 
 Subsec. (j). Pub. L. 95–88, §117(c), substituted “September 30, 1978” for “September 30, 1977”, “$75,000,000” for “$50,000,000” in provisions relating to housing guaranties in Israel, “$30,000,000” for “$20,000,000” in provisions relating to housing guaranties in Portugal, and “$30,000,000” for “$15,000,000” in provisions relating to housing guaranties in Lebanon.
 
-1976—Subsec. (j). Pub. L. 94–329 authorized President to issue housing guaranties until September 30, 1977, in Lebanon, not exceeding a face amount of $15,000,000.
+<b>1976</b>—Subsec. (j). Pub. L. 94–329 authorized President to issue housing guaranties until September 30, 1977, in Lebanon, not exceeding a face amount of $15,000,000.
 
-1975—Subsec. (i). Pub. L. 94–161, §311(5)(A), substituted “September 30, 1978” for “June 30, 1976”.
+<b>1975</b>—Subsec. (i). Pub. L. 94–161, §311(5)(A), substituted “September 30, 1978” for “June 30, 1976”.
 
 Subsec. (j). Pub. L. 94–161, §311(5)(B), added subsec. (j).
 
-1974—Subsec. (a). Pub. L. 93–559, §8(a)(3), inserted reference to section 2182a of this title.
+<b>1974</b>—Subsec. (a). Pub. L. 93–559, §8(a)(3), inserted reference to section 2182a of this title.
 
 Subsec. (b). Pub. L. 93–559, §8(a)(4), substituted in first sentence “section 2181 and section 2182 of this title” for “this subpart”.
 
@@ -120,9 +120,9 @@ Subsec. (d). Pub. L. 93–559, §8(a)(5), substituted “section 2181, 2182, 218
 
 Subsec. (i). Pub. L. 93–559, §7(2), substituted “June 30, 1976” for “June 30, 1975”.
 
-1973—Subsec. (i). Pub. L. 93–189 substituted “June 30, 1975” for “June 30, 1974”.
+<b>1973</b>—Subsec. (i). Pub. L. 93–189 substituted “June 30, 1975” for “June 30, 1974”.
 
-1972—Subsec. (i). Pub. L. 92–226 substituted “June 30, 1974” for “June 30, 1972”.
+<b>1972</b>—Subsec. (i). Pub. L. 92–226 substituted “June 30, 1974” for “June 30, 1972”.
 
 #### Effective Date of 1984 Amendment
 

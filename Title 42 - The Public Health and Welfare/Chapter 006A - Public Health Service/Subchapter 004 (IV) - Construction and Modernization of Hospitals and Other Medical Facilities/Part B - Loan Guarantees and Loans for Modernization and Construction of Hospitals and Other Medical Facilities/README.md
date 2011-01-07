@@ -1,7 +1,5 @@
 Part B—Loan Guarantees and Loans for Modernization and Construction of Hospitals and Other Medical Facilities
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

@@ -34,7 +34,7 @@
 
 &emsp;(ii) the United States economic interests that would be adversely affected by the investigation.
 
-(D) The Trade Representative shall, from time to time, consult with the Register of Copyrights,the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office, and other appropriate officers of the Federal Government, during any investigation initiated under this subchapter by reason of subparagraph (A).
+(D) The Trade Representative shall, from time to time, consult with the Register of Copyrights, the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office, and other appropriate officers of the Federal Government, during any investigation initiated under this subchapter by reason of subparagraph (A).
 
 #### (c) Discretion
 
@@ -48,11 +48,11 @@ A prior section 302 of Pub. L. 93–618, title III, Jan. 3, 1975, 88 Stat. 2043,
 
 #### Amendments
 
-1999—Subsec. (b)(2)(D). Pub. L. 106–113 substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office” for “Commissioner of Patents and Trademarks”.
+<b>1999</b>—Subsec. (b)(2)(D). Pub. L. 106–113 substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office” for “Commissioner of Patents and Trademarks”.
 
-1988—Pub. L. 100–418 amended section generally, substituting provisions relating to initiating investigations with or without petitions and discretion of Trade Representative for provisions relating to filing and determinations on petitions for investigations and investigations initiated by Trade Representative.
+<b>1988</b>—Pub. L. 100–418 amended section generally, substituting provisions relating to initiating investigations with or without petitions and discretion of Trade Representative for provisions relating to filing and determinations on petitions for investigations and investigations initiated by Trade Representative.
 
-1984—Pub. L. 98–573 amended section generally, substituting “United States Trade Representative” and “Trade Representative” for “Special Representative for Trade Negotiations” and “Special Representative”, respectively, substituting “the reasons” for “his reasons” in subsec. (b)(1), substituting “a summary” for “the text” in subsec. (b)(2), striking out the comma after “petitioner)” in subsec. (b)(2)(A), and inserting “or by any interested person” after “petitioner” in subsec. (b)(2)(B).
+<b>1984</b>—Pub. L. 98–573 amended section generally, substituting “United States Trade Representative” and “Trade Representative” for “Special Representative for Trade Negotiations” and “Special Representative”, respectively, substituting “the reasons” for “his reasons” in subsec. (b)(1), substituting “a summary” for “the text” in subsec. (b)(2), striking out the comma after “petitioner)” in subsec. (b)(2)(A), and inserting “or by any interested person” after “petitioner” in subsec. (b)(2)(B).
 
 #### Effective Date of 1999 Amendment
 

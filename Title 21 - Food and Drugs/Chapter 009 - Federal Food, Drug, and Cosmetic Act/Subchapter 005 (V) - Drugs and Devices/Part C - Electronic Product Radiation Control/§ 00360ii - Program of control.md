@@ -8,7 +8,7 @@ The Secretary shall establish and carry out an electronic product radiation cont
 
 &emsp;(2) plan, conduct, coordinate, and support research, development, training, and operational activities to minimize the emissions of and the exposure of people to, unnecessary electronic product radiation;
 
-&emsp;(3) maintain liaison with and receive information from other Federal and State departments and agencies with related interests, professional organizations, industry, industry and labor associations, and other organizations on present and future potential electronic product radiation;
+&emsp;(3) maintain liaison with and receive information from other Federal and State departments and agencies with related interests, professional organizations, industry, industryand labor associations, and other organizations on present and future potential electronic product radiation;
 
 &emsp;(4) study and evaluate emissions of, and conditions of exposure to, electronic product radiation and intense magnetic fields;
 
@@ -24,7 +24,7 @@ In carrying out the purposes of subsection (a) of this section, the Secretary is
 
 &emsp;(2) make grants to public and private agencies, organizations, and institutions, and to individuals for the purposes stated in paragraphs (2), (4), and (5) of subsection (a) of this section;
 
-&emsp;(3) contract with public or private agencies, institutions, and organizations, and with individuals, without regard to section 3324 of title 31 and section 5 of title 41; and
+&emsp;(3) contract with public or private agencies, institutions, and organizations, and with individuals, without regard to section 3324 of title 31 and section 6101 of title 41; and
 
 &emsp;(4) procure (by negotiation or otherwise) electronic products for research and testing purposes, and sell or otherwise dispose of such products.
 
@@ -38,13 +38,15 @@ In carrying out the purposes of subsection (a) of this section, the Secretary is
 
 #### Codification
 
+In subsec. (b)(3), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 Section was classified to section 263d of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 101–629.
 
 #### Amendments
 
-1993—Pub. L. 103–80 amended directory language of Pub. L. 101–629, §19(a)(4), which renumbered section 263d of Title 42, The Public Health and Welfare, as this section.
+<b>1993</b>—Pub. L. 103–80 amended directory language of Pub. L. 101–629, §19(a)(4), which renumbered section 263d of Title 42, The Public Health and Welfare, as this section.
 
-1990—Subsec. (a)(1), (6). Pub. L. 101–629, §19(a)(2)(A)(i), substituted “section 360kk” for “section 263f”.
+<b>1990</b>—Subsec. (a)(1), (6). Pub. L. 101–629, §19(a)(2)(A)(i), substituted “section 360kk” for “section 263f”.
 
 Subsec. (b)(3). Pub. L. 101–629, §19(a)(2)(A)(ii), substituted reference to section 3324 of title 31 for reference to section 3648 of the Revised Statutes (31 U.S.C. 529).
 

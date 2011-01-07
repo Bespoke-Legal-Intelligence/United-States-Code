@@ -64,11 +64,11 @@ The Federal Coordinator shall be responsible for—
 
 #### (f) Transfer of Federal Inspector functions and authority
 
-On appointment of the Federal Coordinator by the President, all of the functions and authority of the Office of Federal Inspector of Construction for the Alaska Natural Gas Transportation System vested in the Secretary under section 3012(b) of the Energy Policy Act of 1992 (15 U.S.C. 719e note; Public Law 102–486), including all functions and authority described and enumerated in the Reorganization Plan No. 1 of 1979 (44 Fed. Reg. 33663), Executive Order No. 12142 of June 21, 1979 (44 Fed. Reg. 36927), and section 5 of the President's decision, shall be transferred to the Federal Coordinator.
+On appointment of the Federal Coordinator by the President, all of the functions and authorityof the Office of Federal Inspector of Construction for the Alaska Natural Gas Transportation System vested in the Secretary under section 3012(b) of the Energy Policy Act of 1992 (15 U.S.C. 719e note; Public Law 102–486), including all functions and authority described and enumerated in the Reorganization Plan No. 1 of 1979 (44 Fed. Reg. 33663), Executive Order No. 12142 of June 21, 1979 (44 Fed. Reg. 36927), and section 5 of the President's decision, shall be transferred to the Federal Coordinator.
 
 #### (g) Temporary authority
 
-The functions, authorities, duties, and responsibilities of the Federal Coordinator shall bevested in the Secretary until the earlier of the appointment of the Federal Coordinator by the President, or 18 months after October 13, 2004.
+The functions, authorities, duties, and responsibilities of the Federal Coordinator shall be vested in the Secretary until the earlier of the appointment of the Federal Coordinator by the President, or 18 months after October 13, 2004.
 
 #### (h) Administration
 
@@ -132,9 +132,9 @@ Executive Order No. 12142, referred to in subsec. (f), is set out as a note unde
 
 #### Amendments
 
-2007—Subsec. (h). Pub. L. 110–140 added subsec. (h).
+<b>2007</b>—Subsec. (h). Pub. L. 110–140 added subsec. (h).
 
-2005—Subsec. (g). Pub. L. 109–148 substituted “earlier” for “later”.
+<b>2005</b>—Subsec. (g). Pub. L. 109–148 substituted “earlier” for “later”.
 
 #### Effective Date of 2007 Amendment
 

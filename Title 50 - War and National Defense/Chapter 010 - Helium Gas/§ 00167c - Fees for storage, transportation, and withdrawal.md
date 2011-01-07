@@ -16,5 +16,5 @@ A prior section 5 of act Mar. 3, 1925, authorized governmental cooperation with 
 
 #### Amendments
 
-1996—Pub. L. 104–273 amended section generally. Prior to amendment, section related to licensing for extraction, transportation, and sale of helium under Federal helium refining program, including provisions in subsec. (a) relating to rules and regulations, in subsec. (b) relating to terms, assignments, and revocations of licenses, in subsec. (c) relating to purpose of licenses,and in subsec. (d) relating to suspension of licenses and reacquisition of helium supplies in times of war or national emergency.
+<b>1996</b>—Pub. L. 104–273 amended section generally. Prior to amendment, section related to licensing for extraction, transportation, and sale of helium under Federal helium refining program, including provisions in subsec. (a) relating to rules and regulations, in subsec. (b) relating to terms, assignments, and revocations of licenses, in subsec. (c) relating to purpose of licenses, and in subsec. (d) relating to suspension of licenses andreacquisition of helium supplies in times of war or national emergency.
 

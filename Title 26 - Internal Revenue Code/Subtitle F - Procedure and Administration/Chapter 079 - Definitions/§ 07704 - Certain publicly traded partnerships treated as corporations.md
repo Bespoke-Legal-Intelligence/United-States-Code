@@ -16,7 +16,7 @@ For purposes of this section, the term “publicly traded partnership” means a
 
 #### (1) In general
 
-&emsp;Subsection (a) shall not apply to any publicly traded partnership for any taxable year ifsuch partnership met the gross income requirements of paragraph (2) for such taxable year and each preceding taxable year beginning after December 31, 1987, during which the partnership (or any predecessor) was in existence. For purposes of the preceding sentence, a partnership shall not be treated as being in existence during any period before the 1st taxable year in which such partnership (or a predecessor) was a publicly traded partnership.
+&emsp;Subsection (a) shall not apply to any publicly traded partnership for any taxable year if such partnership met the gross income requirements of paragraph (2) for such taxable year and each preceding taxable year beginning after December 31, 1987, during which the partnership (or any predecessor) was in existence. For purposes of the preceding sentence, a partnership shall not be treated as being in existence during any period before the 1st taxable year in which such partnership (or a predecessor) was a publicly traded partnership.
 
 #### (2) Gross income requirements
 
@@ -140,19 +140,19 @@ Section 10211(c)(2) of the Revenue Reconciliation Act of 1987, referred to in su
 
 #### Amendments
 
-2008—Subsec. (d)(1)(E). Pub. L. 110–343, §208(a), substituted “, industrial source carbon dioxide, or the transportation or storage of any fuel described in subsection (b), (c), (d), or (e) of section 6426, or any alcohol fuel defined in section 6426(b)(4)(A) or any biodiesel fuel as defined in section 40A(d)(1)” for “or industrial source carbon dioxide”.
+<b>2008</b>—Subsec. (d)(1)(E). Pub. L. 110–343, §208(a), substituted “, industrial source carbon dioxide, or the transportation or storage of any fuel described in subsection (b), (c), (d), or (e) of section 6426, or any alcohol fuel defined in section 6426(b)(4)(A) or any biodiesel fuel as defined in section 40A(d)(1)” for “or industrial source carbon dioxide”.
 
 Pub. L. 110–343, §116(a), inserted “or industrial source carbon dioxide” before comma at end.
 
-2004—Subsec. (d)(4). Pub. L. 108–357 substituted “section 851(b)(2)(A)” for “section 851(b)(2)”.
+<b>2004</b>—Subsec. (d)(4). Pub. L. 108–357 substituted “section 851(b)(2)(A)” for “section 851(b)(2)”.
 
-1999—Subsecs. (c)(3), (d)(1)(D), (G), (5). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
+<b>1999</b>—Subsecs. (c)(3), (d)(1)(D), (G), (5). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
 
-1998—Subsec. (g)(3)(C). Pub. L. 105–206 inserted at end “and shall be paid by the partnership. Section 6655 shall be applied to such partnership with respect to such tax in the same manner as if the partnership were a corporation, such tax were imposed by section 11, and references in such section to taxable income were references to the gross income referred to in subparagraph (A)”.
+<b>1998</b>—Subsec. (g)(3)(C). Pub. L. 105–206 inserted at end “and shall be paid by the partnership. Section 6655 shall be applied to such partnership with respect to such tax in the same manner as if the partnership were a corporation, such tax were imposed by section 11, and references in such section to taxable income were references to the gross income referred to in subparagraph (A)”.
 
-1997—Subsec. (g). Pub. L. 105–34 added subsec. (g).
+<b>1997</b>—Subsec. (g). Pub. L. 105–34 added subsec. (g).
 
-1988—Subsec. (c)(1). Pub. L. 100–647, §2004(f)(3), inserted at end “For purposes of the preceding sentence, a partnership shall not be treated as being in existence during any period before the 1st taxable year in which such partnership (or a predecessor) was a publicly traded partnership.”
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–647, §2004(f)(3), inserted at end “For purposes of the preceding sentence,a partnership shall not be treated as being in existence during any period before the 1st taxable year in which such partnership (or a predecessor) was a publicly traded partnership.”
 
 Subsec. (d)(1). Pub. L. 100–647, §2004(f)(4), inserted at end “For purposes of subparagraph (E), the term ‘mineral or natural resource’ means any product of a character with respect to which a deduction for depletion is allowable under section 611; except that such term shall not include any product described in subparagraph (A) or (B) of section 613(b)(7).”
 
@@ -164,7 +164,7 @@ Subsec. (e)(4). Pub. L. 100–647, §2004(f)(1), inserted “or to pay such amou
 
 Pub. L. 110–343, div. B, title I, §116(b), Oct. 3, 2008, 122 Stat. 3831, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 3, 2008\], in taxable years ending after such date.”
 
-Pub. L. 110–343, div. B, title II, §208(b), Oct. 3, 2008, 122 Stat. 3840, provided that: “The amendment made by this section \[amending this section\] shall take effect onthe date of the enactment of this Act \[Oct. 3, 2008\], in taxable years ending after such date.”
+Pub. L. 110–343, div. B, title II, §208(b), Oct. 3, 2008, 122 Stat. 3840, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 3, 2008\], in taxable years ending after such date.”
 
 #### Effective Date of 2004 Amendment
 

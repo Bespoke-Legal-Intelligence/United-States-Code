@@ -16,7 +16,7 @@ Subpart C—Estates and Trusts Which May Accumulate Income or Which Distribute C
 
 #### Amendments
 
-1969—Pub. L. 91–172, title II, §201(e)(2), Dec. 30, 1969, 83 Stat. 564, added item 664.
+<b>1969</b>—Pub. L. 91–172, title II, §201(e)(2), Dec. 30, 1969, 83 Stat. 564, added item 664.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 

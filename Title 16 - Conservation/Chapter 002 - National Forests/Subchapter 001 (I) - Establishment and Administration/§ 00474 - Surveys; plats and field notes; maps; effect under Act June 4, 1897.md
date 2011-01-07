@@ -1,6 +1,6 @@
 ### §474. Surveys; plats and field notes; maps; effect under Act June 4, 1897
 
-Surveys, field notes, and plats returned from the survey of public lands designated as nationalforests undertaken under the supervision of the Director of the United States Geological Survey in accordance with provisions of Act June 4, 1897, chapter 2, section 1, thirtieth Statutes, page 34, shall have the same legal force and effect as surveys, field notes, and plats returned through the Field Surveying Service; and such surveys, which include subdivision surveys under the rectangular system, approved by the Secretary of the Interior or such officer as he may designate as in other cases, and properly certified copies thereof shall be filed in the respective land offices of the districts in which such lands are situated, as in other cases. All laws inconsistent with the provisions hereof are declared inoperative as respects such survey. A copy of every topographic map and other maps showing the distribution of the forests, together with such field notes as may be taken relating thereto, shall be certified thereto by the Director of the Survey and filed in the Bureau of Land Management.
+Surveys, field notes, and plats returned from the survey of public lands designated as national forests undertaken under the supervision of the Director of the United States Geological Survey in accordance with provisions of Act June 4, 1897, chapter 2, section 1, thirtieth Statutes, page 34, shall have the same legal force and effect as surveys, field notes, and plats returned through the Field Surveying Service; and such surveys, which include subdivision surveys under the rectangular system, approved by the Secretary of the Interior or such officer as he may designate as in other cases, and properly certified copies thereof shall be filed in the respective land offices of the districts in which such lands are situated, as in other cases. All laws inconsistent with the provisions hereof are declared inoperative as respects such survey. A copy of every topographic map and other maps showing the distribution of the forests, together with such field notes as may be taken relating thereto, shall be certified thereto by the Director of the Survey and filed in the Bureau of Land Management.
 
 (June 4, 1897, ch. 2, §1, 30 Stat. 34; Mar. 3, 1925, ch. 462, 43 Stat. 1144; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000.)
 
@@ -10,7 +10,7 @@ Act June 4, 1897, chapter 2, section 1, referred to in text, is act June 4, 1897
 
 #### Change of Name
 
-“United States Geological Survey” substituted in text for “Geological Survey” pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of Title 43, Public Lands.
+“United States Geological Survey” substituted in text for “Geological Survey” pursuant to provision oftitle I of Pub. L. 102–154, set out as a note under section 31 of Title 43, Public Lands.
 
 #### Transfer of Functions
 

@@ -114,11 +114,11 @@ Establishment and Forms of Partnership Projects.—(1) A partnership project und
 
 #### Amendments
 
-2002—Subsec. (b)(13), (14). Pub. L. 107–296 added pars. (13) and (14).
+<b>2002</b>—Subsec. (b)(13), (14). Pub. L. 107–296 added pars. (13) and (14).
 
-1999—Subsec. (e)(5). Pub. L. 106–65 struck out “, United States Code,” after “title 31”.
+<b>1999</b>—Subsec. (e)(5). Pub. L. 106–65 struck out “, United States Code,” after “title 31”.
 
-1997—Subsec. (b)(8). Pub. L. 105–85, §1073(a)(64), inserted “United States” before “Geological Survey”.
+<b>1997</b>—Subsec. (b)(8). Pub. L. 105–85, §1073(a)(64), inserted “United States” before “Geological Survey”.
 
 Subsec. (b)(11) to (13). Pub. L. 105–85, §241(a)(1), redesignated pars. (12) and (13) as (11) and (12), respectively, and struck out former par. (11) which read as follows: “The President of the National Academy of Sciences, the President of the National Academy of Engineering, and the President of the Institute of Medicine.”
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Conditions for Recordation.—Any transfer of copyright ownership or other document pertaining to a copyright may be recorded in the Copyright Office if the document filed for recordation bears the actual signature of the person who executed it, or if it is accompanied by a sworn or official certification that it is a true copy of the original, signed document.
+Conditions for Recordation.—Any transfer of copyright ownership or other document pertaining to a copyright may be recorded in the Copyright Office if the document filed for recordation bears the actual signature of the person who executed it, or if it is accompanied by a sworn or official certification that it is a true copy of the original, signed document. A sworn or official certification may be submitted to the Copyright Office electronically, pursuant to regulations established by the Register of Copyrights.
 
 (b)
 
@@ -12,7 +12,7 @@ Certificate of Recordation.—The Register of Copyrights shall, upon receipt of 
 
 Recordation as Constructive Notice.—Recordation of a document in the Copyright Office gives all persons constructive notice of the facts stated in the recorded document, but only if—
 
-&emsp;(1) the document, or material attached to it, specifically identifies the work to which itpertains so that, after the document is indexed by the Register of Copyrights, it would be revealed by a reasonable search under the title or registration number of the work; and
+&emsp;(1) the document, or material attached to it, specifically identifies the work to which it pertains so that, after the document is indexed by the Register of Copyrights, it would be revealed by a reasonable search under the title or registration number of the work; and
 
 &emsp;(2) registration has been made for the work.
 
@@ -28,11 +28,11 @@ Priority Between Conflicting Transfer of Ownership and Nonexclusive License.—A
 
 &emsp;(2) the license was taken in good faith before recordation of the transfer and without notice of it.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2571; Pub. L. 100–568, §5, Oct. 31, 1988, 102 Stat. 2857.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2571; Pub. L. 100–568, §5, Oct. 31, 1988, 102 Stat. 2857; Pub. L. 111–295, §3(b), Dec. 9, 2010, 124 Stat. 3180.)
 
 #### Historical and Revision Notes
 
-I74house report no. 94–1476
+#### house report no. 94–1476
 
 The recording and priority provisions of section 205 are intended to clear up a number of uncertainties arising from sections 30 and 31 of the present law \[sections 30 and 31 of former title 17\] and to make them more effective and practical in operation. Any “document pertaining to a copyright” may be recorded under subsection (a) if it “bears that actual signature of the person who executed it,” or if it is appropriately certified as a true copy. However, subsection (c) makes clear that the recorded document will give constructive notice of its contents only if two conditions are met: (1) the document or attached material specifically identifies the work to which it pertains so that a reasonable search under the title or registration number would reveal it, and (2) registration has been made for the work. Moreover, even though the Register of Copyrights may be compelled to accept for recordation documents that on their face appear self-serving or colorable, the Register should take care that their nature is not concealed from the public in the Copyright Office's indexing and search reports.
 
@@ -42,7 +42,9 @@ Under subsection (f) of section 205, a nonexclusive license in writing and signe
 
 #### Amendments
 
-1988—Subsecs. (d) to (f). Pub. L. 100–568 redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d), which read as follows: “No person claiming by virtue of a transfer to be the owner of copyright or of any exclusive right under a copyright is entitled to institute an infringement action under this title until the instrument of transfer under which such person claims has been recorded in the Copyright Office, but suit may be instituted after such recordation on a cause of action that arose before recordation.”
+<b>2010</b>—Subsec. (a). Pub. L. 111–295 inserted at end “A sworn or official certification may be submitted to the Copyright Office electronically, pursuant to regulations established by the Register of Copyrights.”
+
+<b>1988</b>—Subsecs. (d) to (f). Pub. L. 100–568 redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d), which read as follows: “No person claiming by virtue of a transfer to be the owner of copyright or of any exclusive right under a copyright is entitled to institute an infringement action under this title until the instrument of transfer under which such person claims has been recorded in the Copyright Office, but suit may be instituted after such recordation on a cause of action that arose before recordation.”
 
 #### Effective Date of 1988 Amendment
 

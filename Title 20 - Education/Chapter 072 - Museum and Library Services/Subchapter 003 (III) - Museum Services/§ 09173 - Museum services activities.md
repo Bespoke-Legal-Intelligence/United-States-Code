@@ -2,27 +2,47 @@
 
 #### (a) In general
 
-The Director, subject to the policy advice of the Museum and Library Services Board, may enter into arrangements, including grants, contracts, cooperative agreements, and other forms of assistance, with museums and other entities as the Director considers appropriate, to pay the Federal share of the cost of—
+The Director, subject to the policy advice of the Museum and Library Services Board, may enter into arrangements, including grants, contracts, cooperative agreements, and other forms of assistance, with museums, States, local governments, and other entities as the Director considers appropriate, to pay the Federal share of the cost of—
 
 &emsp;(1) supporting museums in providing learning and access to collections, information, and educational resources in a variety of formats (including exhibitions, programs, publications, and websites) for individuals of all ages;
 
 &emsp;(2) supporting museums in building learning partnerships with the Nation's schools and developing museum resources and programs in support of State and local school curricula;
 
-&emsp;(3) supporting museums in assessing, conserving, researching, maintaining, and exhibiting their collections, and in providing educational programs to the public through the use of their collections;
+&emsp;(3) supporting the conservation and preservation of museum collections, including efforts to—
 
-&emsp;(4) stimulating greater collaboration among museums, libraries, schools, and other community organizations in order to share resources and strengthen communities;
+&emsp;&emsp;(A) provide optimal conditions for storage, exhibition, and use;
 
-&emsp;(5) encouraging the use of new technologies and broadcast media to enhance access to museum collections, programs, and services;
+&emsp;&emsp;(B) prepare for and respond to disasters and emergency situations;
 
-&emsp;(6) supporting museums in providing services to people of diverse geographic, cultural, and socioeconomic backgrounds and to individuals with disabilities;
+&emsp;&emsp;(C) establish endowments for conservation; and
 
-&emsp;(7) supporting museums in developing and carrying out specialized programs for specific segments of the public, such as programs for urban neighborhoods, rural areas, Indian reservations, and State institutions;
+&emsp;&emsp;(D) train museum staff in collections care;
 
-&emsp;(8) supporting professional development and technical assistance programs to enhance museum operations at all levels, in order to ensure the highest standards in all aspects of museum operations;
+&emsp;(4) supporting efforts at the State level to leverage museum resources, including statewide assessments of museum services and needs and development of State plans to improve and maximize museum services through the State;
 
-&emsp;(9) supporting museums in research, program evaluation, and the collection and dissemination of information to museum professionals and the public; and
+&emsp;(5) stimulating greater collaboration, in order to share resources and strengthen communities, among museums and—
 
-&emsp;(10) encouraging, supporting, and disseminating model programs of museum and library collaboration.
+&emsp;&emsp;(A) libraries;
+
+&emsp;&emsp;(B) schools;
+
+&emsp;&emsp;(C) international, Federal, State, regional, and local agencies or organizations;
+
+&emsp;&emsp;(D) nongovernmental organizations; and
+
+&emsp;&emsp;(E) other community organizations;
+
+&emsp;(6) encouraging the use of new technologies and media, including new ways to disseminate information, to enhance access to museum collections, programs, and services;
+
+&emsp;(7) supporting museums in providing services to people of diverse geographic, cultural, and socioeconomic backgrounds and to individuals with disabilities;
+
+&emsp;(8) supporting museums in developing and carrying out specialized programs for specific segments of the public, such as programs for urban neighborhoods, rural areas, Indian reservations, and State institutions;
+
+&emsp;(9) supporting professional development and technical assistance programs to enhance museum operations, and the skills of museum staff, at all levels, and to support the development of the next generation of museum leaders and professionals, in order to ensure the highest standards in all aspects of museum operations;
+
+&emsp;(10) supporting museums in research, program evaluation, and the collection and dissemination of information to museum professionals and the public; and
+
+&emsp;(11) encouraging, supporting, and disseminating model programs of museum and library collaboration.
 
 #### (b) Federal share
 
@@ -44,21 +64,25 @@ The Director, subject to the policy advice of the Museum and Library Services Bo
 
 &emsp;The Director shall establish procedures for reviewing and evaluating arrangements described in subsection (a) of this section entered into under this subchapter.
 
-#### (2) Applications for technical assistance
+#### (2) Grant distribution
+
+&emsp;In awarding grants, the Director shall take into consideration the equitable distribution of grants to museums of various types and sizes and to different geographic areas of the United States <sup>1</sup>
+
+#### (3) Applications for technical assistance
 
 #### (A) In general
 
-&emsp;&emsp;The Director may use not more than 10 percent of the funds appropriated to carry out this subchapter for technical assistance awards.
+&emsp;&emsp;The Director may use not more than 10 percent of the funds appropriated to carry out this subchapter for technical assistance.
 
 #### (B) Individual museums
 
-&emsp;&emsp;Individual museums may receive not more than 3 technical assistance awards under subparagraph (A), but subsequent awards for technical assistance shall be subject to review outside the Institute.
+&emsp;&emsp;Individual museums may receive not more than 3 technical assistance awards under subparagraph (A). Subsequent awards for technical assistance shall be subject to review outside the Institute.
 
 #### (d) Services for Native Americans
 
 From amounts appropriated under section 9176 of this title, the Director shall reserve 1.75 percent to award grants to, or enter into contracts or cooperative agreements with, Indian tribes and organizations that primarily serve and represent Native Hawaiians (as defined in section 7517 of this title), to enable such tribes and organizations to carry out the activities described in subsection (a) of this section.
 
-(Pub. L. 94–462, title II, §274, formerly §273, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–303; renumbered §274 and amended Pub. L. 108–81, title III, §§303, 306(1), Sept. 25, 2003, 117 Stat. 1000, 1002.)
+(Pub. L. 94–462, title II, §274, formerly §273, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–303; renumbered §274 and amended Pub. L. 108–81, title III, §§303, 306(1), Sept. 25, 2003, 117 Stat. 1000, 1002; Pub. L. 111–340, title III, §303, Dec. 22, 2010, 124 Stat. 3603.)
 
 #### Prior Provisions
 
@@ -66,5 +90,29 @@ A prior section 274 of Pub. L. 94–462 was classified to section 9174 of this t
 
 #### Amendments
 
-2003—Pub. L. 108–81, §303, amended section catchline and text generally. Prior to amendment, section contained provisions which in subsec. (a) authorized the Director to make grants to museums to pay for the Federal share of the cost of increasing and improving museum services, in subsec. (b) authorized the Director to enter into contracts and cooperative agreements with appropriate entities to pay for the Federal share of enabling the entities to undertake projects designed to strengthen museum services, in subsec. (c) established the Federal share, and in subsec. (d) required the Director to establish procedures for reviewing and evaluating grants, contracts, and cooperative agreements entered into under this subchapter.
+<b>2010</b>—Subsec. (a). Pub. L. 111–340, §303(1)(A), inserted “, States, local governments,” after “with museums” in introductory provisions.
+
+Subsec. (a)(3) to (5). Pub. L. 111–340, §303(1)(B), (C), added pars. (3) to (5), redesignated former par. (5) as (6), and struck out former pars. (3) and (4) which read as follows:
+
+“(3) supporting museums in assessing, conserving, researching, maintaining, and exhibiting their collections, and in providing educational programs to the public through the use of their collections;
+
+“(4) stimulating greater collaboration among museums, libraries, schools, and other community organizations in order to share resources and strengthen communities;”.
+
+Subsec. (a)(6). Pub. L. 111–340, §303(1)(B), (D), redesignated par. (5) as (6) and substituted “media, including new ways to disseminate information,” for “broadcast media”. Former par. (6) redesignated (7).
+
+Subsec. (a)(7), (8). Pub. L. 111–340, §303(1)(B), redesignated pars. (6) and (7) as (7) and (8), respectively. Former par. (8) redesignated (9).
+
+Subsec. (a)(9). Pub. L. 111–340, §303(1)(B), (E), redesignated par. (8) as (9) and substituted “, and the skills of museum staff, at all levels, and to support the development of the next generation of museum leaders and professionals,” for “at all levels,”. Former par. (9) redesignated (10).
+
+Subsec. (a)(10), (11). Pub. L. 111–340, §303(1)(B), redesignated pars. (9) and (10) as (10) and (11), respectively.
+
+Subsec. (c)(2), (3). Pub. L. 111–340, §303(2)(A), (B), added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (c)(3)(A). Pub. L. 111–340, §303(2)(C)(i), which directed that “awards” be struck out after “assistance” in subpar. (A) of par. (2), was executed by making the amendment in subpar. (A) of par. (3) to reflect the probable intent of Congress and the intervening redesignation of par. (2) as (3). See above.
+
+Subsec. (c)(3)(B). Pub. L. 111–340, §303(2)(C)(ii), which directed the substitution of “. Subsequent” for “, but subsequent” in subpar. (B) of par. (2), was executed by making the amendment in subpar. (B) of par. (3) to reflect the probable intent of Congress and the intervening redesignation of par. (2) as (3). See above.
+
+<b>2003</b>—Pub. L. 108–81, §303, amended section catchline and text generally. Prior to amendment, section contained provisions which in subsec. (a) authorized the Director to make grants to museums to pay for the Federal share of the cost of increasing and improving museum services, in subsec. (b) authorized the Director to enter into contracts and cooperative agreements with appropriate entities to pay for the Federal share of enabling the entities to undertake projects designed to strengthen museum services, in subsec. (c) established the Federal share, and in subsec. (d) required the Director to establish procedures for reviewing and evaluating grants, contracts, and cooperative agreements entered into under this subchapter.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

@@ -14,7 +14,7 @@ Except in the case of amounts attributable to (and not in excess of) deductions 
 
 &emsp;(5) amounts received by an individual as disability income attributable to injuries incurred as a direct result of a terroristic or military action (as defined in section 692(c)(2)).
 
-> For purposes of paragraph (3), in the case of an individual who is, or has been, an employee within the meaning of section 401(c)(1) (relating to self-employed individuals), contributions made on behalf of such individual while he was such an employee to a trust described in section 401(a) which is exempt from tax under section 501(a), or under a plan described in section 403(a), shall, to the extent allowed as deductions under section 404, be treated as contributions by the employer which were not includible in the gross income of the employee. For purposes of paragraph (2), emotional distress shall not be treated as a physical injury or physical sickness. The preceding sentence shall not apply to an amount of damages not in excess of the amount paid for medical care (described in subparagraph (A) or (B) of section 213(d)(1)) attributable to emotional distress.
+> For purposes of paragraph (3), in the case of an individual who is, or has been, an employee within the meaning of section 401(c)(1) (relating to self-employed individuals), contributions made on behalf of such individual while he was such an employee to a trust described in section 401(a) which is exempt from tax under section 501(a), or under a plan described in section 403(a), shall, to the extent allowed as deductions under section 404, be treated as contributions by the employer which were not includible in thegross income of the employee. For purposes of paragraph (2), emotional distress shall not be treated as a physical injury or physical sickness. The preceding sentence shall not apply to an amount of damages not in excess of the amount paid for medical care (described in subparagraph (A) or (B) of section 213(d)(1)) attributable to emotional distress.
 
 #### (b) Termination of application of subsection (a)(4) in certain cases
 
@@ -78,9 +78,9 @@ Section 808 of the Foreign Service Act of 1980, referred to in subsec. (a)(4), i
 
 #### Amendments
 
-2002—Subsec. (a)(5). Pub. L. 107–134 substituted “a terroristic or military action (as defined in section 692(c)(2)).” for “a violent attack which the Secretary of State determines to be a terrorist attack and which occurred while such individual was an employee of the United States engaged in the performance of his official duties outside the United States.”
+<b>2002</b>—Subsec. (a)(5). Pub. L. 107–134 substituted “a terroristic or military action (as defined in section 692(c)(2)).” for “a violent attack which the Secretary of State determines to be a terrorist attack and which occurred while such individual was an employee of the United States engaged in the performance of his official duties outside the United States.”
 
-1996—Subsec. (a). Pub. L. 104–188, §1605(b), in closing provisions, substituted “For purposes of paragraph (2), emotional distress shall not be treated as a physical injury or physical sickness. The preceding sentence shall not apply to an amount of damages not in excess of the amount paid for medical care (described in subparagraph (A) or (B) of section 213(d)(1)) attributable to emotional distress.” for “Paragraph (2) shall not apply to any punitive damages in connection with a case not involving physical injury or physical sickness.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–188, §1605(b), in closing provisions, substituted “For purposes of paragraph (2), emotional distress shall not be treated as a physical injury or physical sickness. The preceding sentence shall not apply to an amount of damages not in excess of the amount paid for medical care (described in subparagraph (A) or (B) of section 213(d)(1)) attributable to emotional distress.” for “Paragraph (2) shall not apply to any punitive damages in connection with a case not involving physical injury or physical sickness.”
 
 Subsec. (a)(2). Pub. L. 104–188, §1605(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the amount of any damages received (whether by suit or agreement and whether as lump sums or as periodic payments) on account of personal injuries or sickness;”.
 
@@ -88,21 +88,21 @@ Subsec. (a)(3). Pub. L. 104–191 inserted “(or through an arrangement having 
 
 Subsecs. (c), (d). Pub. L. 104–188, §1605(c), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1989—Subsec. (a). Pub. L. 101–239 inserted at end “Paragraph (2) shall not apply to any punitive damages in connection with a case not involving physical injury or physical sickness.”
+<b>1989</b>—Subsec. (a). Pub. L. 101–239 inserted at end “Paragraph (2) shall not apply to any punitive damages in connection with a case not involving physical injury or physical sickness.”
 
-1983—Subsec. (a)(2). Pub. L. 97–473 substituted “whether by suit or agreement and whether as lump sums or as periodic payments” for “whether by suit or agreement”.
+<b>1983</b>—Subsec. (a)(2). Pub. L. 97–473 substituted “whether by suit or agreement and whether as lumpsums or as periodic payments” for “whether by suit or agreement”.
 
-1980—Subsec. (a)(4). Pub. L. 96–465 substituted reference to section 808 of the Foreign Service Act of 1980 for reference to section 831 of the Foreign Service Act of 1946.
+<b>1980</b>—Subsec. (a)(4). Pub. L. 96–465 substituted reference to section 808 of the Foreign Service Act of 1980 for reference to section 831 of the Foreign Service Act of 1946.
 
-1976—Subsec. (a)(4). Pub. L. 94–455, §1901(a)(18)(A), struck out “; 60 Stat. 1021” after “(22 U.S.C. 1081”.
+<b>1976</b>—Subsec. (a)(4). Pub. L. 94–455, §1901(a)(18)(A), struck out “; 60 Stat. 1021” after “(22 U.S.C. 1081”.
 
 Subsec. (a)(5). Pub. L. 94–455, §505(e)(1), added par. (5).
 
 Subsecs. (b), (c). Pub. L. 94–455, §505(b), added subsec. (b), redesignated former subsec. (b) as (c) and, as so redesignated, §1901(a)(18)(B), substituted “1403 of title 10, United States Code (relating to career compensation laws)” for “402(h) of the Career Compensation Act of 1949 (37 U.S.C. 272(h))”.
 
-1962—Subsec. (a). Pub. L. 87–792 inserted sentence requiring contributions made on behalf of an individual who is, or has been, an employee within the meaning of section 401(c)(1), while he was such an employee to a trust which is exempt from tax, or under a plan described in section 403(a), to be treated as contributions by the employer which were not includible in the gross income of the employee.
+<b>1962</b>—Subsec. (a). Pub. L. 87–792 inserted sentence requiring contributions made on behalf of an individual who is, or has been, an employee within the meaning of section 401(c)(1), while he was such an employee to a trust which is exempt from tax, or under a plan described in section 403(a), to be treated as contributions by the employer which were not includible in the gross income of the employee.
 
-1960—Subsec. (a)(4). Pub. L. 86–723 provided for exclusion from gross income of amounts received as a disability annuity payable under the provisions of section 831 of the Foreign Service Act of 1946, as amended.
+<b>1960</b>—Subsec. (a)(4). Pub. L. 86–723 provided for exclusion from gross income of amounts received as a disability annuity payable under the provisions of section 831 of the Foreign Service Act of 1946, as amended.
 
 #### Change of Name
 

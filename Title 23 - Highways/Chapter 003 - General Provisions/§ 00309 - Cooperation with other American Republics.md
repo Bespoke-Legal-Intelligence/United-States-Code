@@ -6,7 +6,7 @@ The President is authorized to utilize the services of the Federal Highway Admin
 
 #### Amendments
 
-1973—Pub. L. 93–87 substituted “Federal Highway Administration” for “Bureau of Public Roads”.
+<b>1973</b>—Pub. L. 93–87 substituted “Federal Highway Administration” for “Bureau of Public Roads”.
 
 #### Pan American Highway Study
 

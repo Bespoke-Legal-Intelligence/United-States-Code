@@ -18,9 +18,9 @@ The Secretary shall, upon request, give to the person paying the tax under chapt
 
 #### Amendments
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1970—Subsec. (c)(2). Pub. L. 91–614 substituted “fiduciary” for “executor”.
+<b>1970</b>—Subsec. (c)(2). Pub. L. 91–614 substituted “fiduciary” for “executor”.
 
 #### Effective Date of 1970 Amendment
 

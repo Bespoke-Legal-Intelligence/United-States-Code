@@ -46,7 +46,7 @@
 
 #### (4) Avoidance of conflict of interest
 
-&emsp;A person may not be an agent, broker, consultant, or other representative of the United States Government, an importer, or an importing country in connection with agricultural commodities provided under this chapter during a fiscal year in which such person provides or acts as an agent, broker, consultant, or other representative of a person engaged in providing ocean transportation or transportation-related services for such commodities. For the purpose of this paragraph, the term “transportation-related services” means lightening, stevedoring, bagging, or inland transportation to the destination point.
+&emsp;A person may not be an agent, broker, consultant, or other representative of the UnitedStates Government, an importer, or an importing country in connection with agricultural commodities provided under this chapter during a fiscal year in which such person provides or acts as an agent, broker, consultant, or other representative of a person engaged in providing ocean transportation or transportation-related services for such commodities. For the purpose of this paragraph, the term “transportation-related services” means lightening, stevedoring, bagging, or inland transportation to the destination point.
 
 #### (c) Subchapters III and III–A program
 
@@ -62,7 +62,7 @@
 
 #### (2) Freight procurement
 
-&emsp;Notwithstanding the Federal Property and Administrative Services Act of 1949 <sup>1</sup> or other similar provisions of law relating to the making or performance of Federal Government contracts, ocean transportation under subchapters III and III–A of this chapter may be procured on the basis of full and open competitive procedures. Resulting contracts may contain such terms and conditions as the Administrator determines are necessary and appropriate.
+&emsp;Notwithstanding chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 or other similar provisions of law relating to the making or performance of Federal Government contracts, ocean transportation under subchapters III and III–A of this chapter may be procured on the basis of full and open competitive procedures. Resulting contracts may contain such terms and conditions as the Administrator determines are necessary and appropriate.
 
 #### (3) Avoidance of conflict of interest
 
@@ -72,7 +72,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Funds made available for fiscal years 2001 through 2012 to carry out subchapters III and III-A of this chapter may be used by the Administrator to procure, transport, and store agricultural commodities for prepositioning within the United States and in foreign countries, except that for each such fiscalyear not more than $10,000,000 of such funds may be used to store agricultural commodities for prepositioning in foreign countries.
+&emsp;&emsp;Funds made available for fiscal years 2001 through 2012 to carry out subchapters III and III-A of this chapter may be used by the Administrator to procure, transport, and store agricultural commodities for prepositioning within the United States and in foreign countries, except that for each such fiscal year not more than $10,000,000 of such funds may be used to store agricultural commodities for prepositioning in foreign countries.
 
 #### (B) Additional prepositioning sites
 
@@ -118,7 +118,7 @@ An agreement under subchapters II and III–A of this chapter shall, to the exte
 
 &emsp;&emsp;An annual report described in subparagraph (A) shall include, with respect to the prior fiscal year—
 
-&emsp;&emsp;&emsp;(i) a list that contains a description of each country and organization that receives food and other assistance under this chapter (including the quantity of food and assistance provided to each country and organization);
+&emsp;&emsp;&emsp;(i) a list that contains a description of each country and organization that receives food and other assistance under thischapter (including the quantity of food and assistance provided to each country and organization);
 
 &emsp;&emsp;&emsp;(ii) a general description of each project and activity implemented under this chapter (including each activity funded through the use of local currencies);
 
@@ -154,13 +154,15 @@ An agreement under subchapters II and III–A of this chapter shall, to the exte
 
 &emsp;&emsp;&emsp;(ii) a statement that contains a description of the total amount of funds approved for transportation and administrative costs under section 1726a of this title.
 
-(July 10, 1954, ch. 469, title IV, §407, as added Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1537; amended Pub. L. 90–436, §8, July 29, 1968, 82 Stat. 451; Pub. L. 94–161, title II, §210, Dec. 20, 1975, 89 Stat. 854; Pub. L. 101–508, title I, §1204(b)(3), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3650; Pub. L. 102–237, title III, §§319, 324, 325, 328, 329, 332, Dec. 13, 1991,105 Stat. 1857, 1858; Pub. L. 104–66, title I, §1011(e), Dec. 21, 1995, 109 Stat. 709; Pub. L. 104–127, title II, §216, Apr. 4, 1996, 110 Stat. 957; Pub. L. 106–472, title III, §310(b), Nov. 9, 2000, 114 Stat. 2076; Pub. L. 107–171, title III, §§3010, 3011, May 13, 2002, 116 Stat. 284; Pub. L. 110–246, title III, §§3017, 3018(a), June 18, 2008, 122 Stat. 1827.)
+(July 10, 1954, ch. 469, title IV, §407, as added Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1537; amended Pub. L. 90–436, §8, July 29, 1968, 82 Stat. 451; Pub. L. 94–161, title II, §210, Dec. 20, 1975, 89 Stat. 854; Pub. L. 101–508, title I, §1204(b)(3), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3650; Pub. L. 102–237, title III, §§319, 324, 325, 328, 329, 332, Dec. 13, 1991, 105 Stat. 1857, 1858; Pub. L. 104–66, title I, §1011(e), Dec. 21, 1995, 109 Stat. 709; Pub. L. 104–127, title II, §216, Apr. 4, 1996, 110 Stat. 957; Pub. L. 106–472, title III, §310(b), Nov. 9, 2000, 114 Stat. 2076; Pub. L. 107–171, title III, §§3010, 3011, May 13, 2002, 116 Stat. 284; Pub. L. 110–246, title III, §§3017, 3018(a), June 18, 2008, 122 Stat. 1827.)
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(2), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
-
 The Food for Progress Act of 1985, referred to in subsec. (f)(1)(B)(iii)(II), is Pub. L. 99–198, title XI, §1110, Dec. 23, 1985, 99 Stat. 1472, which is classified to section 1736<i>o</i> of this title.
+
+#### Codification
+
+In subsec. (c)(2), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
@@ -186,7 +188,7 @@ Subsec. (b)(1)(A), (2)(A). Pub. L. 104–127, §216(2), inserted “importer or�
 
 Subsec. (c)(2). Pub. L. 104–127, §216(3)(A), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “No purchase of agricultural commodities from private stocks or purchase of ocean transportation services by the United States Government shall be financed under subchapters III and III–A of this chapter unless such purchases are made on the basis of full and open competition utilizing such procedures as are determined necessary and appropriate by the Administrator.”
 
-Subsec. (c)(4). Pub. L. 104–127, §216(3)(B), struck out heading and text of par. (4). Text read as follows: “Notwithstanding any provision of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) or other similar provisions relating to the making or performance of Federal Government contracts, the Administrator may procure ocean transportation services under this chapter under such full and open competitive procedures as the Administrator determines are necessary and appropriate.”
+Subsec. (c)(4). Pub. L. 104–127, §216(3)(B), struck out heading and text of par. (4). Text read as follows: “Notwithstanding any provision of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) or other similar provisions relating to the makingor performance of Federal Government contracts, the Administrator may procure ocean transportation services under this chapter under such full and open competitive procedures as the Administrator determines are necessary and appropriate.”
 
 Subsec. (f)(2)(D). Pub. L. 104–127, §216(4), added subpar. (D).
 
@@ -233,6 +235,4 @@ Section effective Jan. 1, 1967, see section 5 of Pub. L. 89–808, set out as an
 #### Preparation of Annual Report
 
 For provisions requiring Food Assistance Policy Council to prepare annual report pursuant to subsec. (g)(1) \[now (f)(1)\] of this section, see Ex. Ord. No. 12752, §3(c), Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

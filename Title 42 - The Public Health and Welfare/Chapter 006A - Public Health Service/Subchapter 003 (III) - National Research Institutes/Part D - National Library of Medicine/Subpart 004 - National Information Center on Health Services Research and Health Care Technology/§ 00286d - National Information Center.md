@@ -20,7 +20,7 @@ The Secretary, acting through the Center, shall coordinate the activities carrie
 
 #### Amendments
 
-1999—Subsec. (d). Pub. L. 106–129 substituted “Director of the Agency for Healthcare Research and Quality” for “Administrator for Health Care Policy and Research”.
+<b>1999</b>—Subsec. (d). Pub. L. 106–129 substituted “Director of the Agency for Healthcare Research and Quality” for “Administrator for Health Care Policy and Research”.
 
 #### Construction
 

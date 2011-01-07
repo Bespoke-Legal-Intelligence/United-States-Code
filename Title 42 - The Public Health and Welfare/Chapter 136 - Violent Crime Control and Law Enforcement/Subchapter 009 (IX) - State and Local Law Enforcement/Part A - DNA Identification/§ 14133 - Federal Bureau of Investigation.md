@@ -46,9 +46,9 @@
 
 #### Amendments
 
-2004—Subsec. (c)(2). Pub. L. 108–405 substituted “$250,000, or imprisoned for a period of not more than one year, or both” for “$100,000”.
+<b>2004</b>—Subsec. (c)(2). Pub. L. 108–405 substituted “$250,000, or imprisoned for a period of not more than one year, or both” for “$100,000”.
 
-2000—Subsec. (a)(1)(A). Pub. L. 106–546 substituted “semiannual” for “, at regular intervals of not to exceed 180 days,”.
+<b>2000</b>—Subsec. (a)(1)(A). Pub. L. 106–546 substituted “semiannual” for “, at regular intervals of not to exceed 180 days,”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “statutes”.</i>
 

@@ -170,7 +170,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii) in the case of any school covered by this paragraph as of theeffective date of this paragraph under section 1721(h) of the Children's Internet Protection Act, the certification under subparagraphs (B) and (C) shall be made—
+&emsp;&emsp;&emsp;Subject to clause (ii) in the case of any school covered by this paragraph as of the effective date of this paragraph under section 1721(h) of the Children's Internet Protection Act, the certification under subparagraphs (B) and (C) shall be made—
 
 &emsp;&emsp;&emsp;&emsp;(I) with respect to the first program funding year under this subsection following such effective date, not later than 120 days after the beginning of such program funding year; and
 
@@ -186,7 +186,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 &emsp;&emsp;&emsp;&emsp;A school covered by clause (i) that does not have in place an Internet safety policy and technology protection measures meeting the requirements necessary for certification under subparagraphs (B) and (C)—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) for the first program year after the effective date of this subsection in which it is applying for funds under this subsection, shall certify that it is undertaking such actions, including any necessary procurement procedures, to put in place an Internet safety policy and technology protection measures meeting the requirements necessary for certification under subparagraphs (B) and (C); and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) for the first program year after the effective date of this subsection in which it is applying for funds under this subsection, shall certify that it is undertaking such actions, includingany necessary procurement procedures, to put in place an Internet safety policy and technology protection measures meeting the requirements necessary for certification under subparagraphs (B) and (C); and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) for the second program year after the effective date of this subsection in which it is applying for funds under this subsection, shall certify that it is in compliance with subparagraphs (B) and (C).
 
@@ -296,7 +296,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (III) Waivers
 
-&emsp;&emsp;&emsp;&emsp;Any library subject to subclause (II) that cannot come into compliance with subparagraphs (B) and (C) in such secondyear may seek a waiver of subclause (II)(bb) if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by such subclause. A library, library board, or other authority with responsibility for administration of the library shall notify the Commission of the applicability of such subclause to the library. Such notice shall certify that the library in question will be brought into compliance before the start of the third program year after the effective date of this subsection in which the library is applying for funds under this subsection.
+&emsp;&emsp;&emsp;&emsp;Any library subject to subclause (II) that cannot come into compliance with subparagraphs (B) and (C) in such second year may seek a waiver of subclause (II)(bb) if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by such subclause. A library, library board, or other authority with responsibility for administration of the library shall notify the Commission of the applicability of such subclause to the library. Such notice shall certify that the library in question will be brought into compliance before the start of the third program year after the effective date of this subsection in which the library is applying for funds under this subsection.
 
 #### (F) Noncompliance
 
@@ -316,7 +316,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (II) Failure to comply
 
-&emsp;&emsp;&emsp;&emsp;A library that has failed to comply with a certification as described in clause (ii) may remedy the failure by ensuring the use of its computers in accordance with such certification. Upon submittal to the Commission of a certification or other appropriate evidence of such remedy, the library shall be eligible for services at discount rates under this subsection.
+&emsp;&emsp;&emsp;&emsp;A library that has failed to comply with a certification as described inclause (ii) may remedy the failure by ensuring the use of its computers in accordance with such certification. Upon submittal to the Commission of a certification or other appropriate evidence of such remedy, the library shall be eligible for services at discount rates under this subsection.
 
 #### (7) Definitions
 
@@ -388,7 +388,7 @@ Nothing in this section shall affect the collection, distribution, or administra
 
 #### (k) Subsidy of competitive services prohibited
 
-A telecommunications carrier may not use services that are not competitive to subsidizeservices that are subject to competition. The Commission, with respect to interstate services, and the States, with respect to intrastate services, shall establish any necessary cost allocation rules, accounting safeguards, and guidelines to ensure that services included in the definition of universal service bear no more than a reasonable share of the joint and common costs of facilities used to provide those services.
+A telecommunications carrier may not use services that are not competitive to subsidize services that are subject to competition. The Commission, with respect to interstate services, and the States, with respect to intrastate services, shall establish any necessary cost allocation rules, accounting safeguards, and guidelines to ensure that services included in the definition of universal service bear no more than a reasonable share of the joint and common costs of facilities used to provide those services.
 
 #### (<i>l</i>) Internet safety policy requirement for schools and libraries
 
@@ -442,11 +442,11 @@ The effective date of this subsection, referred to in subsec. (h)(5)(E), (6)(E),
 
 #### Amendments
 
-2008—Subsec. (h)(5)(B)(iii). Pub. L. 110–385 added cl. (iii).
+<b>2008</b>—Subsec. (h)(5)(B)(iii). Pub. L. 110–385 added cl. (iii).
 
-2002—Subsec. (h)(7)(A). Pub. L. 107–110 substituted “section 7801” for “paragraphs (14) and (25), respectively, of section 8801”.
+<b>2002</b>—Subsec. (h)(7)(A). Pub. L. 107–110 substituted “section 7801” for “paragraphs (14) and (25), respectively, of section 8801”.
 
-2000—Subsec. (h)(4). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(d)\], substituted “paragraph (7)(A)” for “paragraph (5)(A)”.
+<b>2000</b>—Subsec. (h)(4). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(d)\], substituted “paragraph (7)(A)” for “paragraph (5)(A)”.
 
 Subsec. (h)(5). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(a)(2)\], added par. (5). Former par. (5) redesignated (7).
 
@@ -458,7 +458,7 @@ Subsec. (h)(7)(D) to (I). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1
 
 Subsec. (<i>l</i>). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1732\], added subsec. (<i>l</i>).
 
-1996—Subsec. (h)(4). Pub. L. 104–208 substituted “library or library consortium not eligible for assistance from a State library administrative agency under the Library Services and Technology Act” for “library not eligible for participation in State-based plans for funds under title III of the Library Services and Construction Act (20 U.S.C. 335c et seq.)”.
+<b>1996</b>—Subsec. (h)(4). Pub. L. 104–208 substituted “library or library consortium not eligible for assistance from a State library administrative agency under the Library Services and Technology Act” for “library not eligible for participation in State-based plans for funds under title III of the Library Services and Construction Act (20 U.S.C. 335c et seq.)”.
 
 #### Effective Date of 2002 Amendment
 
@@ -466,7 +466,7 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(h)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, provided that: “The amendments made by this section \[amending this section and enacting provisions set out as notes underthis section and section 7001 of Title 20, Education\] shall take effect 120 days after the date of the enactment of this Act \[Dec. 21, 2000\].”
+Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(h)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, provided that: “The amendments made by this section \[amending this section and enacting provisions set out as notes under this section and section 7001 of Title 20, Education\] shall take effect 120 days after the date of the enactment of this Act \[Dec. 21, 2000\].”
 
 #### Regulations
 

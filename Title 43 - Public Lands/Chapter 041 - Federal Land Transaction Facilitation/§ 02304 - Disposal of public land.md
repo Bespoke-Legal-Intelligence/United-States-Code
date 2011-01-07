@@ -20,7 +20,11 @@ The Secretary shall provide in the annual publication of Public Land Statistics,
 
 #### (d) Termination of authority
 
-The authority provided under this section shall terminate 10 years after July 25, 2000.
+The authority provided under this section shall terminate 11 years after July 25, 2000.
 
-(Pub. L. 106–248, title II, §205, July 25, 2000, 114 Stat. 615.)
+(Pub. L. 106–248, title II, §205, July 25, 2000, 114 Stat. 615; Pub. L. 111–212, title III, §3007(a), July 29, 2010, 124 Stat. 2339.)
+
+#### Amendments
+
+<b>2010</b>—Subsec. (d). Pub. L. 111–212 substituted “11 years” for “10 years”.
 

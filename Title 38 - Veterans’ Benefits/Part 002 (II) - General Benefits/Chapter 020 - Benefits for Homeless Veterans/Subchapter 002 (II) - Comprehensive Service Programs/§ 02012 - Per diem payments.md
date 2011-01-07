@@ -2,7 +2,7 @@
 
 (a)
 
-Per Diem Payments for Furnishing Services to Homeless Veterans.—(1) Subject to the availability of appropriations provided for such purpose, the Secretary, pursuant to such criteria as the Secretary shall prescribe, shall provide to a recipient of a grant under section 2011 of this title (or an entity eligible to receive a grant under that section which after November10, 1992, establishes a program that the Secretary determines carries out the purposes described in that section) per diem payments for services furnished to any homeless veteran—
+Per Diem Payments for Furnishing Services to Homeless Veterans.—(1) Subject to the availability of appropriations provided for such purpose, the Secretary, pursuant to such criteria as the Secretary shall prescribe, shall provide to a recipient of a grant under section 2011 of this title (or an entity eligible to receive a grant under that section which after November 10, 1992, establishes a program that the Secretary determines carries out the purposes described in that section) per diem payments for services furnished to any homeless veteran—
 
 &emsp;(A) whom the Secretary has referred to the grant recipient (or entity eligible for such a grant); or
 
@@ -30,7 +30,39 @@ Life Safety Code.—(1) Except as provided in paragraph (2), a per diem payment 
 
 (3) From amounts available for purposes of this section, not less than $5,000,000 shall be used only for grants to assist entities covered by paragraph (2) in meeting the Life Safety Code of the National Fire Protection Association or such other comparable fire and safety requirements as the Secretary may specify.
 
-(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 908.)
+(d)
+
+Per Diem Payments to Nonconforming Entities.—(1) The Secretary may make funds available for per diem payments under this section to the following grant recipients or eligible entities:
+
+&emsp;(A) Grant recipients or eligible entities that—
+
+&emsp;&emsp;(i) meet each of the transitional and supportive services criteria prescribed by the Secretary pursuant to subsection (a)(1); and
+
+&emsp;&emsp;(ii) furnish services to homeless individuals, of which less than 75 percent are veterans.
+
+&emsp;(B) Grant recipients or eligible entities that—
+
+&emsp;&emsp;(i) meet at least one, but not all, of the transitional and supportive services criteria prescribed by the Secretary pursuant to subsection (a)(1); and
+
+&emsp;&emsp;(ii) furnish services to homeless individuals, of which not less than 75 percent are veterans.
+
+&emsp;(C) Grant recipients or eligible entities that—
+
+&emsp;&emsp;(i) meet at least one, but not all, of the transitional and supportive services criteria prescribed by the Secretary pursuant to subsection (a)(1); and
+
+&emsp;&emsp;(ii) furnish services to homeless individuals, of which less than 75 percent are veterans.
+
+(2) Notwithstanding subsection (a)(2), in providing per diem payments under this subsection, the Secretary shall determine the rate of such per diem payments in accordance with the following order of priority:
+
+&emsp;(A) Grant recipients or eligible entities described by paragraph (1)(A).
+
+&emsp;(B) Grant recipients or eligible entities described by paragraph (1)(B).
+
+&emsp;(C) Grant recipients or eligible entities described by paragraph (1)(C).
+
+(3) For purposes of this subsection, an eligible entity is a nonprofit entity and may be an entity that is ineligible to receive a grant under section 2011 of this title, but whom the Secretary determines carries out the purposes described in that section.
+
+(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 908; amended Pub. L. 111–163, title VII, §701, May 5, 2010, 124 Stat. 1174.)
 
 #### References in Text
 
@@ -43,6 +75,10 @@ Section 3 of the Homeless Veterans Comprehensive Service Programs Act of 1992, r
 A prior section 2012 was renumbered section 4212 of this title.
 
 Another prior section 2012 was renumbered section 4103 of this title.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (d). Pub. L. 111–163 added subsec. (d).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

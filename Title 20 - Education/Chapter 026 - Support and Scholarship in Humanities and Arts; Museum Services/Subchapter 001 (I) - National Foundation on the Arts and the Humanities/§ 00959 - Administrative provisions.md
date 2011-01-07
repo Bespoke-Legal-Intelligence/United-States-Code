@@ -34,7 +34,7 @@ In addition to any authorities vested in them by other provisions of this subcha
 
 The Chairperson of the National Endowment for the Arts shall utilize advisory panels to review applications, and to make recommendations to the National Council on the Arts in all cases except cases in which the Chairperson exercises authority delegated under section 955(f) of this title. When reviewing applications, such panels shall recommend applications for projects, productions, and workshops solely on the basis of artistic excellence and artistic merit. The Chairperson shall issue regulations and establish procedures—
 
-&emsp;(1) to ensure that all panels are composed, to the extent practicable, of individuals reflecting a wide geographic, ethnic, and minority representation as well as individuals reflecting diverse artistic and cultural points of view;
+&emsp;(1) to ensure that all panels are composed, to the extent practicable, of individuals reflecting a wide geographic, ethnic, and minorityrepresentation as well as individuals reflecting diverse artistic and cultural points of view;
 
 &emsp;(2) to ensure that all panels include representation of lay individuals who are knowledgeable about the arts but who are not engaged in the arts as a profession and are not members of either artists’ organizations or arts organizations;
 
@@ -76,7 +76,7 @@ The National Council on the Arts and the National Council on the Humanities, res
 
 &emsp;(iii) if practicable, as determined by the Chairperson, a copy of such project, production, or program.
 
-(B) Such recipient shall comply with the requirements of this paragraph not later than 90 days after the end of the period for which such financial assistance is provided. The Chairperson may extend the 90-day period only if therecipient shows good cause why such an extension should be granted.
+(B) Such recipient shall comply with the requirements of this paragraph not later than 90 days after the end of the period for which such financial assistance is provided. The Chairperson may extend the 90-day period only if the recipient shows good cause why such an extension should be granted.
 
 (3) If such recipient substantially fails to satisfy the purposes for which such financial assistance is provided and the criteria specified in subsection (c)(3)(A) <sup>1</sup> of this section, as determined by the Chairperson of the Endowment that provided such financial assistance, then such Chairperson may—
 
@@ -88,19 +88,13 @@ The National Council on the Arts and the National Council on the Humanities, res
 
 (Pub. L. 89–209, §10, Sept. 29, 1965, 79 Stat. 852; Pub. L. 90–348, §5, June 18, 1968, 82 Stat. 186; Pub. L. 91–346, §§5(a)(3), 10, 11, July 20, 1970, 84 Stat. 443, 446; Pub. L. 93–133, §2(a)(9), (10), Oct. 19, 1973, 87 Stat. 465; Pub. L. 96–496, title I, §107, Dec. 4, 1980, 94 Stat. 2588; renumbered title I, §10, Pub. L. 98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §10 and amended Pub. L. 99–194, title I, §§101(1), 110, Dec. 20, 1985, 99 Stat. 1332, 1339; Pub. L. 101–512, title III, §318 \[title I, §109\], Nov. 5, 1990, 104 Stat. 1960, 1970.)
 
-#### References in Text
-
-The civil service laws, referred to in subsec. (a)(3), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
-The income tax, gift tax, and estate tax laws of the United States, referred to in subsec. (b)(4), are classified generally to Title 26, Internal Revenue Code.
-
 #### Codification
 
 In subsec. (a)(5), reference to “section 5703 of title 5” substituted for “law (5 U.S.C. 73b–2)” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–512, §318 \[title I, §109(5)(A)\], redesignated concluding provisions of subsec. (a) as subsec. (b).
+<b>1990</b>—Subsec. (a). Pub. L. 101–512, §318 \[title I, §109(5)(A)\], redesignated concluding provisions of subsec. (a) as subsec. (b).
 
 Subsec. (a)(4). Pub. L. 101–512, §318 \[title I, §109(1)(A)\], struck out “from time to time, as appropriate,” after “to utilize”.
 
@@ -116,29 +110,29 @@ Subsecs. (c) to (e). Pub. L. 101–512, §318 \[title I, §109(3), (4), (9)\], a
 
 Subsec. (f). Pub. L. 101–512, §318 \[title I, §109(2)–(4)\], redesignated subsec. (d) as (f) and, in par. (3), substituted “subsection (c)(3)(A) of this section” for “the last sentence of subsection (a) of this section”, and struck out former subsec. (f) which related to report to Congress on selection of experts for appointment to panels, and procedures for recommendations on financial assistance applications.
 
-1985—Subsec. (a). Pub. L. 99–194, §110(1), substituted “Chairperson” for “Chairman” in two places in provisions preceding cl. (1); in cl. (1) substituted “the chairperson” and “the chairperson's” for “he” and “his”, respectively; in cl. (2) substituted “Chairperson” for “Chairman” wherever appearing; in cl. (3) substituted “the Chairperson's” for “his”; in cl. (4) substituted “section 3109 of title 5” for “section 15 of the Administrative Expenses Act of 1946, as amended (5 U.S.C. 55a)” and struck out proviso that any advisory panel appointed to review or make recommendations with respect to the approval of applications or projects for funding was to have broad geographic and culturally diverse representation; and in provisions following par. (8) substituted “Chairperson” for “Chairman” wherever appearing and inserted provisions relating to the selection of a panel of experts to review financial assistance applications and the considerations to be made in the review of such applications.
+<b>1985</b>—Subsec. (a). Pub. L. 99–194, §110(1), substituted “Chairperson” for “Chairman” in two places in provisions preceding cl. (1); in cl. (1) substituted “the chairperson” and “the chairperson's” for “he” and “his”, respectively; in cl. (2) substituted “Chairperson” for “Chairman” wherever appearing; in cl. (3) substituted “the Chairperson's” for “his”; in cl. (4) substituted “section 3109 of title 5” for “section 15 of the Administrative Expenses Act of 1946, as amended (5 U.S.C. 55a)” and struck out proviso that any advisory panel appointed to review or make recommendations with respect to the approval of applications or projects for funding was to have broad geographic and culturally diverse representation; and in provisions following par. (8) substituted “Chairperson” for “Chairman” wherever appearing and inserted provisions relating to the selection of a panel of experts to review financial assistance applications and the considerations to be made in the review of such applications.
 
 Subsec. (b). Pub. L. 99–194, §110(2), substituted “Chairperson” for “Chairman” wherever appearing.
 
 Subsecs. (d) to (f). Pub. L. 99–194, §110(3), added subsecs. (d) to (f). Former subsec. (d), relating to studies and reports to the President and the Congress on endowment uses of donations, bequests, and devises, was struck out.
 
-1980—Subsec. (a)(4). Pub. L. 96–496, §107(a), inserted “and culturally diverse”.
+<b>1980</b>—Subsec. (a)(4). Pub. L. 96–496, §107(a), inserted “and culturally diverse”.
 
 Subsecs. (b), (c). Pub. L. 96–496, §107(b), (c), substituted “April” for “January”.
 
 Subsec. (d). Pub. L. 96–496, §107(d), added subsec. (d).
 
-1973—Subsec. (a)(2). Pub. L. 93–133, §2(a)(9), added exception that a Chairman may receive a gift without a recommendation from the Council to provide support for any application or project which can be approved without Council recommendation under the provisions of sections 955(f) and 957(f) of this title, and may receive a gift of $15,000 or less without Council recommendation when the Council fails to recommend within a reasonable period of time.
+<b>1973</b>—Subsec. (a)(2). Pub. L. 93–133, §2(a)(9), added exception that a Chairman may receive a gift without a recommendation from the Council to provide support for any application or project which can be approved without Council recommendation under the provisions of sections 955(f) and 957(f) of this title, and may receive a gift of $15,000 or less without Council recommendation when the Council fails to recommend within a reasonable period of time.
 
 Subsec. (a)(4). Pub. L. 93–133, §2(a)(10), inserted proviso that any advisory panel appointed to review or make recommendations with respect to the approval of applications or projects for funding shall have broad geographic representation.
 
-1970—Subsec. (a)(2). Pub. L. 91–346, §5(a)(3), struck out reference to the functions transferred by section 955(a) of this title.
+<b>1970</b>—Subsec. (a)(2). Pub. L. 91–346, §5(a)(3), struck out reference to the functions transferred by section 955(a) of this title.
 
 Subsec. (a)(3) to (5). Pub. L. 91–346, §11(1)–(3), inserted “to” at beginning of cls. (3) to (5).
 
 Subsec. (a)(6) to (8). Pub. L. 91–346, §§10, 11(4), (5), redesignated cls. (6) and (7), and all references thereto, as cls. (7) and (8), added new cl. (6), and inserted “to” at beginning of cls. (7) and (8).
 
-1968—Subsec. (a). Pub. L. 90–348 combined provisions of cls. (2) and (3) into cl. (2), and, in cl. (2) as thus combined, extended the area for the exercise of discretion of the Chairman of an Endowment, after receiving the recommendation of the National Council of that Endowment, in the disposition of gifts to include both gifts made with condition and gifts made without condition, redesignated cls. (4) to (8) as (3) to (7), and in provisions following cl. (7), struck out references to cls. (2) and (3) wherever appearing.
+<b>1968</b>—Subsec. (a). Pub. L. 90–348 combined provisions of cls. (2) and (3) into cl. (2), and, in cl. (2) as thus combined, extended the area for the exercise of discretion of the Chairman of an Endowment, after receiving the recommendation of the National Council of that Endowment, in the disposition of gifts to include both gifts made with condition and gifts made without condition, redesignated cls. (4) to (8) as (3) to (7), and in provisions following cl. (7), struck out references to cls. (2) and (3) wherever appearing.
 
 #### Effective Date of 1990 Amendment
 

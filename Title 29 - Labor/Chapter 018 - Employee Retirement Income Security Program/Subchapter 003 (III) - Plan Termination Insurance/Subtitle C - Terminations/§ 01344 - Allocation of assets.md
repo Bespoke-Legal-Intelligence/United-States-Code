@@ -36,7 +36,7 @@ For purposes of subsection (a) of this section—
 
 &emsp;(2) If the assets available for allocation under any paragraph of subsection (a) of this section (other than paragraphs (4), (5), and (6)) are insufficient to satisfy in full the benefits of all individuals which are described in that paragraph, the assets shall be allocated pro rata among such individuals on the basis of the present value (as of the termination date) of their respective benefits described in that paragraph.
 
-&emsp;(3) If assets available for allocation under paragraph (4) of subsection (a) are insufficient to satisfy in full the benefits of all individuals who are described in that paragraph, the assets shall be allocated first to benefits described in subparagraph (A) of that paragraph. Any remaining assets shall then be allocated to benefits described in subparagraph (B) of that paragraph. If assets allocated to such subparagraph (B) are insufficient to satisfy in full the benefits described in that subparagraph, the assets shall be allocated pro rata among individuals on the basis of the present value (as of the termination date) of their respective benefits described in that subparagraph.
+&emsp;(3) If assets available for allocation under paragraph (4) of subsection (a) are insufficientto satisfy in full the benefits of all individuals who are described in that paragraph, the assets shall be allocated first to benefits described in subparagraph (A) of that paragraph. Any remaining assets shall then be allocated to benefits described in subparagraph (B) of that paragraph. If assets allocated to such subparagraph (B) are insufficient to satisfy in full the benefits described in that subparagraph, the assets shall be allocated pro rata among individuals on the basis of the present value (as of the termination date) of their respective benefits described in that subparagraph.
 
 &emsp;(4) This paragraph applies if the assets available for allocation under paragraph (5) of subsection (a) of this section are not sufficient to satisfy in full the benefits of individuals described in that paragraph.
 
@@ -130,7 +130,7 @@ If a contributing sponsor of a plan has filed or has had filed against such pers
 
 #### (C) Exception
 
-&emsp;&emsp;In the case of a terminated plan with respect to which the outstanding amount ofbenefit liabilities exceeds $20,000,000, the term “section 1362(c) recovery ratio” means, with respect to the termination of such plan, the ratio of—
+&emsp;&emsp;In the case of a terminated plan with respect to which the outstanding amount of benefit liabilities exceeds $20,000,000, the term “section 1362(c) recovery ratio” means, with respect to the termination of such plan, the ratio of—
 
 &emsp;&emsp;&emsp;(i) the value of the recoveries on behalf of the plan under section 1362(c) of this title, to
 
@@ -148,7 +148,7 @@ If a contributing sponsor of a plan has filed or has had filed against such pers
 
 &emsp;Determinations under this subsection shall be made by the corporation. Such determinations shall be binding unless shown by clear and convincing evidence to be unreasonable.
 
-(Pub. L. 93–406, title IV, §4044, Sept. 2, 1974, 88 Stat. 1025; Pub. L. 96–364, title IV, §402(a)(7), Sept. 26, 1980, 94 Stat. 1299; Pub. L. 99–272, title XI, §11016(c)(12), (13), Apr. 7, 1986, 100 Stat. 274; Pub. L. 100–203, title IX, §9311(a)(1), (b), (c), Dec. 22, 1987, 101 Stat. 1330–359, 1330–360; Pub. L. 101–239, title VII, §§7881(e)(3), 7891(a)(1), 7894(g)(2), Dec. 19, 1989, 103 Stat. 2440, 2445, 2451; Pub. L. 101–508, title XII, §12002(b)(2)(B), Nov. 5, 1990, 104 Stat. 1388–566; Pub. L. 109–280, title IV, §§404(b), 407(b), 408(b)(2), Aug. 17, 2006, 120 Stat. 928, 930, 931; Pub. L. 110–458, title I, §104(c), Dec. 23, 2008, 122 Stat. 5104.)
+(Pub. L. 93–406, title IV, §4044, Sept. 2, 1974, 88 Stat. 1025; Pub. L. 96–364, title IV, §402(a)(7), Sept. 26, 1980, 94 Stat. 1299; Pub. L. 99–272, titleXI, §11016(c)(12), (13), Apr. 7, 1986, 100 Stat. 274; Pub. L. 100–203, title IX, §9311(a)(1), (b), (c), Dec. 22, 1987, 101 Stat. 1330–359, 1330–360; Pub. L. 101–239, title VII, §§7881(e)(3), 7891(a)(1), 7894(g)(2), Dec. 19, 1989, 103 Stat. 2440, 2445, 2451; Pub. L. 101–508, title XII, §12002(b)(2)(B), Nov. 5, 1990, 104 Stat. 1388–566; Pub. L. 109–280, title IV, §§404(b), 407(b), 408(b)(2), Aug. 17, 2006, 120 Stat. 928, 930, 931; Pub. L. 110–458, title I, §104(c), Dec. 23, 2008, 122 Stat. 5104.)
 
 #### References in Text
 
@@ -156,9 +156,9 @@ The enactment of the Omnibus Budget Reconciliation Act of 1990, referred to in s
 
 #### Amendments
 
-2008—Subsecs. (e), (f). Pub. L. 110–458 redesignated subsec. (e) relating to valuation of section 1362(c) liability for determining amounts payable by corporation to participants and beneficiaries as (f).
+<b>2008</b>—Subsecs. (e), (f). Pub. L. 110–458 redesignated subsec. (e) relating to valuation of section 1362(c) liability for determining amounts payable by corporation to participants and beneficiaries as (f).
 
-2006—Subsec. (a)(4)(B). Pub. L. 109–280, §407(b)(1), substituted “1322(b)(5)(B)” for “1322(b)(5)”.
+<b>2006</b>—Subsec. (a)(4)(B). Pub. L. 109–280, §407(b)(1), substituted “1322(b)(5)(B)” for “1322(b)(5)”.
 
 Subsec. (b)(2). Pub. L. 109–280, §407(b)(2)(A), substituted “(4), (5),” for “(5)”.
 
@@ -168,15 +168,15 @@ Subsec. (e). Pub. L. 109–280, §408(b)(2), added subsec. (e) relating to valua
 
 Pub. L. 109–280, §404(b), added subsec. (e) relating to substitution of bankruptcy filing date for termination date.
 
-1990—Subsec. (d)(4). Pub. L. 101–508 added par. (4).
+<b>1990</b>—Subsec. (d)(4). Pub. L. 101–508 added par. (4).
 
-1989—Subsec. (a)(1). Pub. L. 101–239, §7894(g)(2), substituted “accrued” for “accured”.
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–239, §7894(g)(2), substituted “accrued” for “accured”.
 
 Subsec. (b)(4). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Subsec. (d)(3). Pub. L. 101–239, §7881(e)(3), made technical correction to directory language of Pub. L. 100–203, §9311(b)(2), see 1987 Amendment note below.
 
-1987—Subsec. (b)(4). Pub. L. 100–203, §9311(c), struck out reference to section 405(a) of title 26.
+<b>1987</b>—Subsec. (b)(4). Pub. L. 100–203, §9311(c), struck out reference to section 405(a) of title 26.
 
 Subsec. (d)(1). Pub. L. 100–203, §9311(b)(1), substituted “Subject to paragraph (3), any” for “Any”.
 
@@ -186,13 +186,13 @@ Subsec. (d)(3). Pub. L. 100–203, §9311(b)(2), as amended by Pub. L. 101–239
 
 Pub. L. 100–203, §9311(a)(1)(A), redesignated former par. (2) as (3).
 
-1986—Subsec. (a). Pub. L. 99–272, §11016(c)(12), in provision preceding par. (1) struck out “defined benefit” after “single-employer”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–272, §11016(c)(12), in provision preceding par. (1) struck out “defined benefit” after “single-employer”.
 
 Subsec. (a)(4)(A). Pub. L. 99–272, §11016(c)(13)(A), substituted “section 1322b(a)” for “section 1322(b)(5)”.
 
 Subsec. (a)(4)(B). Pub. L. 99–272, §11016(c)(13)(B), substituted “section 1322(b)(5)” for “section 1322(b)(6)”.
 
-1980—Subsec. (a). Pub. L. 96–364, §402(a)(7)(A), inserted “single-employer” before “defined benefit”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–364, §402(a)(7)(A), inserted “single-employer” before “defined benefit”.
 
 Subsec. (c). Pub. L. 96–364, §402(a)(7)(B), inserted “single-employer” before “plan occurring” wherever appearing.
 
@@ -224,7 +224,7 @@ Amendment by section 7894(g)(2) of Pub. L. 101–239 effective, except as otherw
 
 #### Effective Date of 1987 Amendment
 
-Section 9311(d) of Pub. L. 100–203, as amended by Pub. L. 101–239, title VII, §7881(e)(2), Dec. 19, 1989, 103 Stat. 2439, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to—
+Section 9311(d) of Pub. L. 100–203, as amended by Pub. L. 101–239, title VII, §7881(e)(2), Dec. 19, 1989, 103 Stat.2439, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to—
 
 &emsp;“(1) plan terminations under section 4041 of ERISA \[29 U.S.C. 1341\] with respect to which notices of intent to terminate are provided under section 4041(a)(2) of ERISA after December 17, 1987, and
 

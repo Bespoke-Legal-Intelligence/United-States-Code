@@ -26,9 +26,9 @@ In this part—
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)” in par. defining “institution of higher education”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)” in par. defining “institution of higher education”.
 
-1996—Pub. L. 104–134 amended generally par. defining “education expenses”. Prior to amendment, par. read as follows: “ ‘educational expenses’ means expenses that are directly attributable to—
+<b>1996</b>—Pub. L. 104–134 amended generally par. defining “education expenses”. Prior to amendment, par. read as follows: “ ‘educational expenses’ means expenses that are directly attributable to—
 
 &emsp;“(A) a course of education leading to the award of the baccalaureate degree in legal- or criminal justice-related studies; or
 

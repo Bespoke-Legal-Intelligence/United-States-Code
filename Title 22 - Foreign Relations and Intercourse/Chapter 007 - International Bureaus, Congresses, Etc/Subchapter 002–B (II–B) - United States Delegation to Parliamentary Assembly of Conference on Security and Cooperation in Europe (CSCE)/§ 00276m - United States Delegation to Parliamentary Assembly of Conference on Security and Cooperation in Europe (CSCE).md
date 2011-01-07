@@ -42,3 +42,7 @@ The United States Delegation shall, for each fiscal year for which an appropriat
 
 Ex. Ord. No. 13029, Dec. 3, 1996, 61 F.R. 64591, provided in part that effective Jan. 1, 1995, the Conference on Security and Cooperation in Europe would be called the Organization for Security and Cooperation in Europe.
 
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
+

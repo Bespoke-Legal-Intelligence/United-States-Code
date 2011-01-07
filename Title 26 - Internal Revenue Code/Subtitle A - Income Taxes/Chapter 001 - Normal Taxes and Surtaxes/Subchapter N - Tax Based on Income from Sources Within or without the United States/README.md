@@ -17,9 +17,11 @@
 
 #### Amendments
 
-1988—Pub. L. 100–647, title I, §1012(h)(2)(D), Nov. 10, 1988, 102 Stat. 3503, substituted “Source rules and other general rules relating to foreign income” for “Determination of sources of income” in item for part I.
+<b>1988</b>—Pub. L. 100–647, title I, §1012(h)(2)(D), Nov. 10, 1988, 102 Stat. 3503, substituted “Source rules and other general rules relating to foreign income” for “Determination of sources of income” in item for part I.
 
-1976—Pub. L. 94–455, title X, §1064(b), Oct. 4, 1976, 90 Stat. 1653, added item V.
+<b>1976</b>—Pub. L. 94–455, title X, §1064(b), Oct. 4, 1976, 90 Stat. 1653, added item V.
+
+<i><sup>1</sup></i><i> Editorially supplied. Part IV added by Pub. L. 92–178 without corresponding amendment of subchapter analysis.</i>
 
 
 ---

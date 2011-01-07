@@ -18,5 +18,5 @@ Functions of all officers, agencies, and employees of Department of Agriculture 
 
 #### Order of Succession
 
-For order of succession during any period when both Secretary and Deputy Secretary of Agriculture are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13241, Dec. 18, 2001, 66 F.R. 66258, set out as a note under section 3345 of Title 5, Government Organization and Employees.
+For order of succession during any period when both Secretary and Deputy Secretary of Agriculture are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13542, May 13, 2010, 75 F.R. 27921, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 

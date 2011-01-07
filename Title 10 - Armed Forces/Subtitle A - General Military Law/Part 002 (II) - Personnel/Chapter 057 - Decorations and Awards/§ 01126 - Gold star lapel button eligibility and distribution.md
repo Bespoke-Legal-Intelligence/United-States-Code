@@ -44,11 +44,11 @@
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–160, §1143(a), struck out “of the United States” after “armed forces” in introductory provisions, redesignated cls. (i) to (iii) of par. (2) as subpars. (A) to (C), respectively, and added par. (3).
+<b>1993</b>—Subsec. (a). Pub. L. 103–160, §1143(a), struck out “of the United States” after “armed forces” in introductory provisions, redesignated cls. (i) to (iii) of par. (2) as subpars. (A) to (C), respectively, and added par. (3).
 
 Subsec. (d)(7), (8). Pub. L. 103–160, §1143(b), added pars. (7) and (8).
 
-1987—Subsec. (d). Pub. L. 100–26 substituted colon for dash at end of introductory provisions, inserted “The term” in each par., and substituted periods for semicolons in pars. (1) to (4) and period for “; and” in par. (5).
+<b>1987</b>—Subsec. (d). Pub. L. 100–26 substituted colon for dash at end of introductory provisions, inserted “The term” in each par., and substituted periods for semicolons in pars. (1) to (4) and period for “; and” in par. (5).
 
-1983—Subsec. (a)(1). Pub. L. 98–94 substituted “who” for “Who”.
+<b>1983</b>—Subsec. (a)(1). Pub. L. 98–94 substituted “who” for “Who”.
 

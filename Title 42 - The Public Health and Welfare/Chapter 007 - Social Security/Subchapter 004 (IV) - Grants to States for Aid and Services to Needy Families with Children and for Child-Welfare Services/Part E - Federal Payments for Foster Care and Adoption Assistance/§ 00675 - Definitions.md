@@ -94,7 +94,7 @@ As used in this part or part B of this subchapter:
 
 &emsp;&emsp;(G) the foster parents (if any) of a child and any preadoptive parent or relative providing care for the child are provided with notice of, and a right to be heard in, any proceeding to be held with respect to the child, except that this subparagraph shall not be construed to require that any foster parent, preadoptive parent, or relative providing care for the child be made a party to such a proceeding solely on the basis of such notice and right to be heard; <sup>2</sup> and
 
-&emsp;&emsp;(H) during the 90-day period immediately prior to the date on which the child will attain 18 years of age, or such greater age as the State may elect under paragraph (8)(B)(iii), whether during that period foster care maintenance payments are being made on the child's behalf or the child is receiving benefits or services under section 677 of this title, a caseworker on the staff of the State agency, and, as appropriate, other representatives of the child provide the child with assistance and support in developing a transition plan that is personalized at the direction of the child, includes specific options on housing, health insurance, education, local opportunities for mentors and continuing support services, and work force supports and employment services, and is as detailed as the child may elect.
+&emsp;&emsp;(H) during the 90-day period immediately prior to the date on which the child will attain 18 years of age, or such greater age as the State may elect under paragraph (8)(B)(iii), whether during that period foster care maintenance payments are being made on the child's behalf or the child is receiving benefits or services under section 677 of this title, a caseworker on the staff of the State agency, and, as appropriate, other representatives of the child provide the child with assistance and support in developing a transition plan that is personalized at the direction of the child, includes specific options on housing, health insurance, education, local opportunities for mentors and continuing support services, and work force supports and employment services, includes information about the importance of designating another individual to make health care treatment decisions on behalf of the child if the child becomes unable to participate in such decisions and the child does not have, or does not want, a relative who would otherwise be authorized under State law to make such decisions, and provides the child with the option to execute a health care power of attorney, health care proxy, or other similar document recognized under State law, and is as detailed as the child may elect.
 
 &emsp;(6) The term “administrative review” means a review open to the participation of the parents of the child, conducted by a panel of appropriate persons at least one of whom is not responsible for the case management of, or the delivery of services to, either the child or the parents who are the subject of the review.
 
@@ -126,7 +126,7 @@ As used in this part or part B of this subchapter:
 
 &emsp;&emsp;&emsp;(V) incapable of doing any of the activities described in subclauses (I) through (IV) due to a medical condition, which incapability is supported by regularly updated information in the case plan of the child.
 
-(Aug. 14, 1935, ch. 531, title IV, §475, as added and amended Pub. L. 96–272, title I, §§101(a)(1), 102(a)(4), June 17, 1980, 94 Stat. 510, 514; Pub. L. 99–272, title XII, §§12305(b)(2), 12307(b), Apr. 7, 1986, 100 Stat. 293, 296; Pub. L. 99–514, title XVII, §1711(c)(6), Oct. 22, 1986, 100 Stat. 2784; Pub. L. 100–203, title IX, §9133(a), Dec. 22, 1987, 101 Stat. 1330–314; Pub. L. 100–647, title VIII, §8104(e), Nov. 10, 1988, 102 Stat. 3797; Pub. L. 101–239, title VIII, §8007(a), (b), Dec. 19, 1989, 103 Stat. 2462; Pub. L. 103–432, title II, §§206(a), (b), 209(a), (b), 265(c), Oct. 31, 1994, 108 Stat. 4457, 4459, 4469; Pub. L. 105–89, title I, §§101(b), 102(2), 103(a), (b), 104, 107, title III, §302, Nov. 19, 1997, 111 Stat. 2117, 2118, 2120, 2121, 2128; Pub. L. 109–239, §§6–8(a), 11, 12, July 3, 2006, 120 Stat. 512–514; Pub. L. 109–288, §10, Sept. 28, 2006, 120 Stat. 1255; Pub. L. 110–351, title I, §101(c)(4), title II, §§201(a), 202, 204(a), Oct. 7, 2008, 122 Stat. 3952, 3957, 3959, 3960.)
+(Aug. 14, 1935, ch. 531, title IV, §475, as added and amended Pub. L. 96–272, title I, §§101(a)(1), 102(a)(4), June 17, 1980, 94 Stat. 510, 514; Pub. L. 99–272, title XII, §§12305(b)(2), 12307(b), Apr. 7, 1986, 100 Stat. 293, 296; Pub. L. 99–514, title XVII, §1711(c)(6), Oct. 22, 1986, 100 Stat. 2784; Pub. L. 100–203, title IX, §9133(a), Dec. 22, 1987, 101 Stat. 1330–314; Pub. L. 100–647, title VIII, §8104(e), Nov. 10, 1988, 102 Stat. 3797; Pub. L. 101–239, title VIII, §8007(a), (b), Dec. 19, 1989, 103 Stat. 2462; Pub. L. 103–432, title II, §§206(a), (b), 209(a), (b), 265(c), Oct. 31, 1994, 108 Stat. 4457, 4459, 4469; Pub. L. 105–89, title I, §§101(b), 102(2), 103(a), (b), 104, 107, title III, §302, Nov. 19, 1997, 111 Stat. 2117, 2118, 2120, 2121, 2128; Pub. L. 109–239, §§6–8(a), 11, 12, July 3, 2006, 120 Stat. 512–514; Pub. L. 109–288, §10, Sept. 28, 2006, 120 Stat. 1255; Pub. L. 110–351, title I, §101(c)(4), title II, §§201(a), 202, 204(a), Oct. 7, 2008, 122 Stat. 3952, 3957, 3959, 3960; Pub. L. 111–148, title II, §2955(a), Mar. 23, 2010, 124 Stat. 352.)
 
 #### References in Text
 
@@ -136,7 +136,9 @@ Section 672(a) of this title, referred to in par. (1)(A), was amended generally 
 
 #### Amendments
 
-2008—Par. (1)(C)(iv) to (viii). Pub. L. 110–351, §204(a)(1)(A), redesignated cls. (v) to (viii) as (iv) to (vii), respectively, and struck out former cl. (iv) which read as follows: “assurances that the child's placement in foster care takes into account proximity to the school in which the child is enrolled at the time of placement;”.
+<b>2010</b>—Par. (5)(H). Pub. L. 111–148 inserted “includes information about the importance of designating another individual to make health care treatment decisions on behalf of the child if the child becomes unable to participate in such decisions and the child does not have, or does not want, a relative who would otherwise be authorized under State law to make such decisions, and provides the child with the option to execute a health care power of attorney, health care proxy, or other similar document recognized under State law,” after “employment services,”.
+
+<b>2008</b>—Par. (1)(C)(iv) to (viii). Pub. L. 110–351, §204(a)(1)(A), redesignated cls. (v) to (viii) as (iv) to (vii), respectively, and struck out former cl. (iv) which read as follows: “assurances that the child's placement in foster care takes into account proximity to the school in which the child is enrolled at the time of placement;”.
 
 Par. (1)(F). Pub. L. 110–351, §101(c)(4), added subpar. (F).
 
@@ -148,11 +150,11 @@ Par. (5)(H). Pub. L. 110–351, §202, added subpar. (H).
 
 Par. (8). Pub. L. 110–351, §201(a), added par. (8).
 
-2006—Par. (1)(C). Pub. L. 109–239, §7(1), in introductory provisions, substituted “The health” for “To the extent available and accessible, the health” and inserted “the most recent information available regarding” after “including”.
+<b>2006</b>—Par. (1)(C). Pub. L. 109–239, §7(1), in introductory provisions, substituted “The health” for “To the extent available and accessible, the health” and inserted “the most recent information available regarding” after “including”.
 
 Par. (1)(E). Pub. L. 109–239, §11, which directed amendment of subpar. (E) by inserting “to facilitate orderly and timely in-State and interstate placements” before the period, was executed by making the insertion before period at end of last sentence to reflect the probable intent of Congress.
 
-Par. (5)(A)(ii). Pub. L. 109–239, §6, substituted “6 months” for “12 months” and “of the State in which the child has been placed, or of a private agency under contract with either such State” for “or of the State in which the child has been placed”.
+Par. (5)(A)(ii). Pub. L. 109–239, §6, substituted “6 months” for “12 months” and “of the State in which the child has been placed, or of a private agency undercontract with either such State” for “or of the State in which the child has been placed”.
 
 Par. (5)(C). Pub. L. 109–288 inserted “(i)” after “with respect to each such child,”, substituted “(ii) procedural safeguards shall” for “and procedural safeguards shall also”, and added cl. (iii) at end.
 
@@ -162,7 +164,7 @@ Par. (5)(D). Pub. L. 109–239, §7(2), inserted “a copy of the record is” b
 
 Par. (5)(G). Pub. L. 109–239, §8(a), substituted “a right” for “an opportunity”, “proceeding” for “review or hearing” in two places, and “and right” for “and opportunity”.
 
-1997—Par. (1). Pub. L. 105–89, §107(1)(A), (B), struck out “the case plan must also include” before “a writtendescription” in concluding provisions and redesignated those provisions as subpar. (D) of par. (1).
+<b>1997</b>—Par. (1). Pub. L. 105–89, §107(1)(A), (B), struck out “the case plan must also include” before “a written description” in concluding provisions and redesignated those provisions as subpar. (D) of par. (1).
 
 Par. (1)(A). Pub. L. 105–89, §102(2)(A)(i), inserted “safety and” before “appropriateness of the placement”.
 
@@ -186,7 +188,7 @@ Par. (5)(G). Pub. L. 105–89, §104, added subpar. (G).
 
 Par. (7). Pub. L. 105–89, §101(b), added par. (7).
 
-1994—Par. (5)(A). Pub. L. 103–432, §209(a), inserted “which—” after “needs of the child,” and added cls. (i) and (ii).
+<b>1994</b>—Par. (5)(A). Pub. L. 103–432, §209(a), inserted “which—” after “needs of the child,” and added cls. (i) and (ii).
 
 Pub. L. 103–432, §206(a), inserted “and most appropriate” after “(most family like)”.
 
@@ -196,21 +198,25 @@ Pub. L. 103–432, §206(b), substituted “(and not less frequently than every 
 
 Par. (5)(D). Pub. L. 103–432, §265(c), realigned margins.
 
-1989—Par. (1). Pub. L. 101–239, §8007(a), inserted “(A)” before “A description”, substituted “section 672(a)(1) of this title. (B) A plan” for “section 672(a)(1) of this title; and a plan”, realigned margins of subpars. (A) and (B), added subpar. (C), and set the last sentence flush with the left margin of par. (1).
+<b>1989</b>—Par. (1). Pub. L. 101–239, §8007(a), inserted “(A)” before “A description”, substituted “section 672(a)(1) of this title. (B) A plan” for “section 672(a)(1) of this title; and a plan”, realigned margins of subpars. (A) and (B), added subpar. (C), and set the last sentence flush with the left margin of par. (1).
 
 Par. (5)(D). Pub. L. 101–239, §8007(b), added subpar. (D).
 
-1988—Par. (5)(C). Pub. L. 100–647 inserted “and, in the case of a child who has attained age 16, the services needed to assist the child to make the transition from foster care to independent living” after “long-term basis)”.
+<b>1988</b>—Par. (5)(C). Pub. L. 100–647 inserted “and, in the case of a child who has attained age 16, the services needed to assist the child to make the transition from foster care to independent living” after “long-term basis)”.
 
-1987—Par. (4). Pub. L. 100–203 designated existing provisions as subpar. (A) and added subpar. (B).
+<b>1987</b>—Par. (4). Pub. L. 100–203 designated existing provisions as subpar. (A) and added subpar. (B).
 
-1986—Par. (1). Pub. L. 99–272, §12307(b), inserted at end “Where appropriate, for a child age 16 or over, the case plan must also include a written description of the programs and services which will help such child prepare for the transition from foster care to independent living.”
+<b>1986</b>—Par. (1). Pub. L. 99–272, §12307(b), inserted at end “Where appropriate, for a child age 16 or over, the case plan must also include a written description of the programs and services which will help such child prepare for the transition from foster care to independent living.”
 
 Par. (3). Pub. L. 99–514 added cl. (A) and struck out former cl. (A) which read as follows: “specifies the amounts of any adoption assistance payments and any other services and assistance which are to be provided as part of such agreement, and”.
 
 Pub. L. 99–272, §12305(b)(2), substituted in cl. (A) “any adoption assistance payments and any other services and assistance” for “the adoption assistance payments and any additional services and assistance”.
 
-1980—Par. (1). Pub. L. 96–272, §102(a)(4), inserted reference to voluntary placement agreements.
+<b>1980</b>—Par. (1). Pub. L. 96–272, §102(a)(4), inserted reference to voluntary placement agreements.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–148 effective Oct. 1, 2010, see section 2955(d) of Pub. L. 111–148, set out as a note under section 622 of this title.
 
 #### Effective Date of 2008 Amendment
 

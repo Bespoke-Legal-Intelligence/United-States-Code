@@ -8,3 +8,5 @@ On and after October 21, 1998, the Administrator is authorized to enter into ass
 
 Section was enacted as part of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1999, and not as part of the Solid Waste Disposal Act which comprises this chapter.
 
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
+

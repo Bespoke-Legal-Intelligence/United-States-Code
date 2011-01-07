@@ -1,6 +1,6 @@
 ### §1395z. Consultation with State agencies and other organizations to develop conditions of participation for providers of services
 
-In carrying out his functions, relating to determination of conditions of participation by providers of services, under subsections (e)(9), (f)(4), (j)(15),<sup>1</sup> (<i>o</i>)(6), (cc)(2)(I), and <sup>2</sup> (dd)(2), and (mm)(1) of section 1395x of this title, or by ambulatory surgical centers under section 1395k(a)(2)(F)(i) of this title, the Secretary shall consult with appropriate State agencies and recognized national listing or accrediting bodies, and may consult with appropriate local agencies. Such conditions prescribed under any ofsuch subsections may be varied for different areas or different classes of institutions or agencies and may, at the request of a State, provide higher requirements for such State than for other States; except that, in the case of any State or political subdivision of a State which imposes higher requirements on institutions as a condition to the purchase of services (or of certain specified services) in such institutions under a State plan approved under subchapter I, XVI, or XIX of this chapter, the Secretary shall impose like requirements as a condition to the payment for services (or for the services specified by the State or subdivision) in such institutions in such State or subdivision.
+In carrying out his functions, relating to determination of conditions of participation by providers of services, under subsections (e)(9), (f)(4), (j)(15),<sup>1</sup> (<i>o</i>)(6), (cc)(2)(I), and <sup>2</sup> (dd)(2), and (mm)(1) of section 1395x of this title, or by ambulatory surgical centers under section 1395k(a)(2)(F)(i) of this title, the Secretary shall consult with appropriate State agencies and recognized national listing or accrediting bodies, and may consult with appropriate local agencies. Such conditions prescribed under any of such subsections may be varied for different areas or different classes of institutions or agencies and may, at the request of a State, provide higher requirements for such State than for other States; except that, in the case of any State or political subdivision of a State which imposes higher requirements on institutions as a condition to the purchase of services (or of certain specified services) in such institutions under a State plan approved under subchapter I, XVI, or XIX of this chapter, the Secretary shall impose like requirements as a condition to the payment for services (or for the services specified by the State or subdivision) in such institutions in such State or subdivision.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1863, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 325; amended Pub. L. 92–603, title II, §234(g)(2), Oct. 30, 1972, 86 Stat. 1413; Pub. L. 96–499, title IX, §§933(f), 934(c)(1), Dec. 5, 1980, 94 Stat. 2636, 2639; Pub. L. 97–248, title I, §122(g)(2), Sept. 3, 1982, 96 Stat. 362; Pub. L. 98–369, div. B, title III, §§2335(c), 2349(b)(1), 2354(b)(32), July 18, 1984, 98 Stat. 1090, 1097, 1102; Pub. L. 100–360, title II, §§203(e)(2), 204(c)(1), July 1, 1988, 102 Stat. 725, 728; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §6003(g)(3)(C)(ii), Dec. 19, 1989, 103 Stat. 2152; Pub. L. 101–508, title IV, §4163(c)(1), Nov. 5, 1990, 104 Stat. 1388–99; Pub. L. 103–432, title I, §145(c)(2), Oct. 31, 1994, 108 Stat. 4427.)
 
@@ -10,31 +10,31 @@ Subsection (j) of section 1395x of this title, referred to in text, was amended 
 
 #### Amendments
 
-1994—Pub. L. 103–432 struck out “or whether screening mammography meets the standards established under section 1395m(c)(3) of this title,” before “the Secretary shall consult”.
+<b>1994</b>—Pub. L. 103–432 struck out “or whether screening mammography meets the standards established under section 1395m(c)(3) of this title,” before “the Secretary shall consult”.
 
-1990—Pub. L. 101–508 inserted “or whether screening mammography meets the standards established under section 1395m(c)(3) of this title,” after “section 1395k(a)(2)(F)(i) of this title,”.
+<b>1990</b>—Pub. L. 101–508 inserted “or whether screening mammography meets the standards established under section 1395m(c)(3) of this title,” after “section 1395k(a)(2)(F)(i) of this title,”.
 
-1989—Pub. L. 101–239 substituted “(jj)(3), and (mm)(1)” for “and (jj)(3)”.
+<b>1989</b>—Pub. L. 101–239 substituted “(jj)(3), and (mm)(1)” for “and (jj)(3)”.
 
-Pub. L. 101–234 repealed Pub. L. 100–360, §§203(e)(2), 204(c)(1), and provided that the provisions of law amended or repealed by such sections are restored or revived as if such sections had not been enacted, see 1988 Amendment notes below.
+Pub. L. 101–234 repealed Pub. L. 100–360, §§203(e)(2), 204(c)(1), and provided that the provisions of law amended or repealed by such sections are restored or revived as if such sections had not been enacted. In the case of the amendment by Pub. L. 100–360, §203(e)(2), Pub. L. 101–234 was given effect by substituting “and (dd)(2)” for “(dd)(2), (jj)(3)” because of the intervening amendment by Pub. L. 101–239, see note above and 1988 Amendment note below.
 
-1988—Pub. L. 100–360, §204(c)(1), inserted “or whether screening mammography meets the standards established under section 1395m(e)(3) of this title,” after “1395k(a)(2)(F)(i) of this title,”.
+<b>1988</b>—Pub. L. 100–360, §204(c)(1), inserted “or whether screening mammography meets the standards established under section 1395m(e)(3) of this title,” after “1395k(a)(2)(F)(i) of this title,”.
 
 Pub. L. 100–360, §203(e)(2), substituted “(dd)(2), and (jj)(3)” for “and (dd)(2)”.
 
-1984—Pub. L. 98–369, §2335(c), struck out “(g)(4),” after “(e)(9), (f)(4),”.
+<b>1984</b>—Pub. L. 98–369, §2335(c), struck out “(g)(4),” after “(e)(9), (f)(4),”.
 
 Pub. L. 98–369, §2354(b)(32), substituted “(j)(15)” for “(j)(11)”.
 
 Pub. L. 98–369, §2349(b)(1), substituted “appropriate State agencies” for “the Health Insurance Benefits Advisory Council established by section 1395dd of this title, appropriate State agencies,”.
 
-1982—Pub. L. 97–248 substituted “(cc)(2)(I), and (dd)(2)” for “and (cc)(2)(I)”.
+<b>1982</b>—Pub. L. 97–248 substituted “(cc)(2)(I), and (dd)(2)” for “and (cc)(2)(I)”.
 
-1980—Pub. L. 96–499, §933(f), substituted “(<i>o</i>)(6), and (cc)(2)(I) of section 1395x” for “and (<i>o</i>)(6) of section 1395x”.
+<b>1980</b>—Pub. L. 96–499, §933(f), substituted “(<i>o</i>)(6), and (cc)(2)(I) of section 1395x” for “and (<i>o</i>)(6) of section 1395x”.
 
 Pub. L. 96–499, §934(c)(1), inserted “or by ambulatory surgical centers under section 1395k(a)(2)(F)(i) of this title,”.
 
-1972—Pub. L. 92–603 substituted “subsections (e)(9), (f)(4), (g)(4), (j)(11), and (<i>o</i>)(6) of section 1395x of this title” for “subsections (e)(8), (f)(4), (g)(4), (j)(10), and (<i>o</i>)(5) of section 1395x of this title”.
+<b>1972</b>—Pub. L. 92–603 substituted “subsections (e)(9), (f)(4), (g)(4), (j)(11), and (<i>o</i>)(6) of section 1395x of this title” for “subsections (e)(8), (f)(4), (g)(4), (j)(10), and (<i>o</i>)(5) of section 1395x of this title”.
 
 #### Effective Date of 1994 Amendment
 
@@ -64,7 +64,7 @@ Amendment by section 2354(b)(32) of Pub. L. 98–369 effective July 18, 1984, bu
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to hospice care provided on or after Nov. 1, 1983, see section 122(h)(1) of Pub. L. 97–248, as amended, set out as a note under section 1395c of this title.
+Amendment by Pub. L. 97–248 applicable to hospice care provided on or after Nov. 1, 1983, see section 122(h)(1) of Pub. L. 97–248, set out as a note under section 1395c of this title.
 
 #### Effective Date of 1980 Amendment
 

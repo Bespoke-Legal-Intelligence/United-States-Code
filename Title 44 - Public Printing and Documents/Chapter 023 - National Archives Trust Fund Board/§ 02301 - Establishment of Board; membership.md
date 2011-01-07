@@ -12,11 +12,11 @@ This section incorporates only the last sentence of paragraph (b) of former sect
 
 #### Amendments
 
-1984—Pub. L. 98–497 struck out “The authority of the Administrator of General Services under section 754 of title 40 to regroup, transfer, and distribute functions within the General Services Administration does not extend to the Board or its functions.”
+<b>1984</b>—Pub. L. 98–497 struck out “The authority of the Administrator of General Services under section 754 of title 40 to regroup, transfer, and distribute functions within the General Services Administration does not extend to the Board or its functions.”
 
-1978—Pub. L. 95–379 substituted references to the Secretary of the Treasury and the Chairman of the National Endowment for the Humanities, for references to the chairman of the House Committee on Government Operations and the Senate Committee on Post Office and Civil Service.
+<b>1978</b>—Pub. L. 95–379 substituted references to the Secretary of the Treasury and the Chairman of the National Endowment for the Humanities, for references to the chairman of the House Committee on Government Operations and the Senate Committee on Post Office and Civil Service.
 
-1976—Pub. L. 94–391 substituted reference to House Committee on Government Operations for reference to House Committee on Post Office and Civil Service.
+<b>1976</b>—Pub. L. 94–391 substituted reference to House Committee on Government Operations for reference to House Committee on Post Office and Civil Service.
 
 #### Effective Date of 1984 Amendment
 

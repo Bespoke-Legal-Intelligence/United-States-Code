@@ -42,7 +42,7 @@ The Director may reserve not more than 2 percent from amounts appropriated to ca
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–271, §8(j)(1), substituted “The Director of the Office of Community Oriented Policing Services (in this section referred to as the ‘Director’)” for “The Attorney General, acting through the Office of Community Oriented Policing Services,”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–271, §8(j)(1), substituted “The Director of the Office of Community Oriented Policing Services (in this section referred to as the ‘Director’)” for “The Attorney General, acting through the Office of Community Oriented Policing Services,”.
 
 Pub. L. 109–162 inserted “, acting through the Office of Community Oriented Policing Services,” after “The Attorney General”.
 

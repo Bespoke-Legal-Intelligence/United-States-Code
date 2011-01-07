@@ -6,9 +6,23 @@ There may be appointed by the Secretary such personnel as the Secretary may find
 
 &emsp;(2) Scientific and professional personnel, such as microbiologists, chemists, and biostatisticians.
 
-&emsp;(3) Audiologists, speech pathologists, and audiologist-speech pathologists, biomedical engineers, certified or registered respiratory therapists, dietitians, licensed physical therapists, licensed practical or vocational nurses, medical instrument technicians, medical records administrators or specialists, medical records technicians, medical technologists, dental hygienists, dental assistants, nuclear medicine technologists, occupational therapists, occupational therapy assistants, kinesiotherapists, orthotist-prosthetists, pharmacists, pharmacy technicians, physical therapy assistants, prosthetic representatives, psychologists, diagnostic radiologic technologists, therapeutic radiologic technologists, social workers, marriage and family therapists, licensed professional mental health counselors, blind rehabilitation specialists, and blind rehabilitation outpatient specialists.
+&emsp;(3) Audiologists, speech pathologists, and audiologist-speech pathologists, biomedical engineers, certified or registered respiratory therapists, dietitians, licensed physical therapists, licensed practical or vocational nurses, nurse assistants, medical instrument technicians, medical records administrators or specialists, medical records technicians, medical technologists, dental hygienists, dental assistants, nuclear medicine technologists, occupational therapists, occupational therapy assistants, kinesiotherapists, orthotist-prosthetists, pharmacists, pharmacy technicians, physical therapy assistants, prosthetic representatives, psychologists, diagnostic radiologic technologists, therapeutic radiologic technologists, social workers, marriage and family therapists, licensed professional mental health counselors, blind rehabilitation specialists, blind rehabilitation outpatient specialists, and such other classes of health care occupations as the Secretary considers necessary for the recruitment and retention needs of the Department subject to the following requirements:
 
-(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 108–170, title III, §§301(a)(1), 302(a), Dec. 6, 2003, 117 Stat. 2054, 2057; Pub. L. 108–422, title V, §502, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–461, title II, §201(a), Dec. 22, 2006, 120 Stat. 3409.)
+&emsp;&emsp;(A) Such other classes of health care occupations—
+
+&emsp;&emsp;&emsp;(i) are not occupations relating to administrative, clerical, or physical plant maintenance and protective services;
+
+&emsp;&emsp;&emsp;(ii) that <sup>1</sup> would otherwise receive basic pay in accordance with the General Schedule under section 5332 of title 5;
+
+&emsp;&emsp;&emsp;(iii) provide, as determined by the Secretary, direct patient care services or services incident to direct patient services; and
+
+&emsp;&emsp;&emsp;(iv) would not otherwise be available to provide medical care or treatment for veterans.
+
+&emsp;&emsp;(B) Not later than 45 days before the Secretary appoints any personnel for a class of health care occupations that is not specifically listed in this paragraph, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate, the Committee on Veterans’ Affairs of the House of Representatives, and the Office of Management and Budget notice of such appointment.
+
+&emsp;&emsp;(C) Before submitting notice under subparagraph (B), the Secretary shall solicit comments from any labor organization representing employees in such class and include such comments in such notice.
+
+(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 108–170, title III, §§301(a)(1), 302(a), Dec. 6, 2003, 117 Stat. 2054, 2057; Pub. L. 108–422, title V, §502, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–461, title II, §201(a), Dec. 22, 2006, 120 Stat. 3409; Pub. L. 111–163, title VI, §601(a), May 5, 2010, 124 Stat. 1167.)
 
 #### Prior Provisions
 
@@ -16,11 +30,13 @@ Provisions similar to those in this section were contained in section 4104 of th
 
 #### Amendments
 
-2006—Par. (3). Pub. L. 109–461 inserted “marriage and family therapists, licensed professional mental health counselors,” after “social workers,”.
+<b>2010</b>—Par. (3). Pub. L. 111–163 inserted “nurse assistants,” after “licensed practical or vocational nurses,”, substituted “blind rehabilitation outpatient specialists, and such other classes of health care occupations as the Secretary considers necessary for the recruitment and retention needs of the Department subject to the following requirements:” for “and blind rehabilitation outpatient specialists.”, and added subpars. (A) to (C).
 
-2004—Par. (3). Pub. L. 108–422 substituted “technologists, dental hygienists, dental assistants” for “and dental technologists” and “technologists, therapeutic radiologic technologists, social workers, blind rehabilitation specialists, and blind rehabilitation outpatient specialists” for “technicians, therapeutic radiologic technicians, and social workers”.
+<b>2006</b>—Par. (3). Pub. L. 109–461 inserted “marriage and family therapists, licensed professional mental health counselors,” after “social workers,”.
 
-2003—Pub. L. 108–170, §302(a)(1), substituted “health” for “medical” in introductory provisions.
+<b>2004</b>—Par. (3). Pub. L. 108–422 substituted “technologists, dental hygienists, dental assistants” for “and dental technologists” and “technologists, therapeutic radiologic technologists, social workers, blind rehabilitation specialists, and blind rehabilitation outpatient specialists” for “technicians, therapeutic radiologic technicians, and social workers”.
+
+<b>2003</b>—Pub. L. 108–170, §302(a)(1), substituted “health” for “medical” in introductory provisions.
 
 Par. (1). Pub. L. 108–170, §302(a)(2), inserted “chiropractors,” after “podiatrists,”.
 
@@ -28,7 +44,7 @@ Par. (2). Pub. L. 108–170, §301(a)(1)(A), added par. (2) and struck out forme
 
 Par. (3). Pub. L. 108–170, §301(a)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “Clinical or counseling psychologists who hold diplomas as diplomates in psychology from an accrediting authority approved by the Secretary, certified or registered respiratory therapists, licensed physical therapists, licensed practical or vocational nurses, pharmacists, and occupational therapists.”
 
-1992—Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
+<b>1992</b>—Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
 #### Effective Date of 2003 Amendment
 
@@ -36,5 +52,7 @@ Amendment by section 302(a) of Pub. L. 108–170 effective at end of 180-day per
 
 #### Prior Appointments of Certain Personnel
 
-Pub. L. 108–170, title III, §301(a)(2), Dec. 6, 2003, 117 Stat. 2055, provided that: “Personnel appointed to the Veterans Health Administration before the date of the enactment of this Act \[Dec. 6, 2003\] who are in an occupational category of employees specified in paragraph (3) of section 7401 of title 38, United States Code, by reason of the amendment made by paragraph (1)(B) ofthis subsection \[amending this section\] shall, as of such date, be deemed to have been appointed to the Administration under such paragraph (3).”
+Pub. L. 108–170, title III, §301(a)(2), Dec. 6, 2003, 117 Stat. 2055, provided that: “Personnel appointed to the Veterans Health Administration before the date of the enactment of this Act \[Dec. 6, 2003\] who are in an occupational category of employees specified in paragraph (3) of section 7401 of title 38, United States Code, by reason of the amendment made by paragraph (1)(B) of this subsection \[amending this section\] shall, as of such date, be deemed to have been appointed to the Administration under such paragraph (3).”
+
+<i><sup>1</sup></i><i> So in original. The word “that” probably should not appear.</i>
 

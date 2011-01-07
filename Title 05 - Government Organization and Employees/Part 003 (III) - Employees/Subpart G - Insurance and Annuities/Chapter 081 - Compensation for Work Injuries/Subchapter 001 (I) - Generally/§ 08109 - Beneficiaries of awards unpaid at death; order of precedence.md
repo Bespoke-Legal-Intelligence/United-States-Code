@@ -32,7 +32,7 @@
 
 (c) A surviving beneficiary under subsection (a) of this section, except one under subsection (a)(D)(v), does not have a vested right to payment and must be alive to receive payment.
 
-(d) A beneficiary under subsection (a) of this section, except one under subsection (a)(D)(v), ceases to be entitled to payment on the happening of an event which would terminate his right to compensation for death under section 8133 of this title. When that entitlement ceases, compensation remaining unpaid under subsection (a) of this section is payable to the surviving beneficiary in accordance with subsection (a) of this section.
+(d) A beneficiary under subsection (a) of this section, except one under subsection (a)(D)(v), ceases to be entitled to payment on the happening of an event which would terminate his right to compensation for death under section 8133 ofthis title. When that entitlement ceases, compensation remaining unpaid under subsection (a) of this section is payable to the surviving beneficiary in accordance with subsection (a) of this section.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 538; Pub. L. 90–83, §1(52), Sept. 11, 1967, 81 Stat. 210.)
 

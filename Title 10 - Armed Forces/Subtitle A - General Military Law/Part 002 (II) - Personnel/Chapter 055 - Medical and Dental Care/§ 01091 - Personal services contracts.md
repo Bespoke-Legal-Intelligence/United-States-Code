@@ -28,27 +28,27 @@ Exceptions.—The procedures and exemptions provided under subsection (c) shall 
 
 #### Amendments
 
-2003—Subsec. (a)(2). Pub. L. 108–136 struck out at end “The Secretary may not enter into a contract under this paragraph after December 31, 2003.”
+<b>2003</b>—Subsec. (a)(2). Pub. L. 108–136 struck out at end “The Secretary may not enter into a contract under this paragraph after December 31, 2003.”
 
-2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” in two places.
+<b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” in two places.
 
 Subsec. (a)(2). Pub. L. 107–314 substituted “December 31, 2003” for “December 31, 2002”.
 
-2000—Subsec. (a)(2). Pub. L. 106–398 substituted “December 31, 2002” for “December 31, 2000”.
+<b>2000</b>—Subsec. (a)(2). Pub. L. 106–398 substituted “December 31, 2002” for “December 31, 2000”.
 
-1998—Subsec. (a)(2). Pub. L. 105–261 substituted “December 31, 2000” for “the end of the one-year period beginning on the date of the enactment of this paragraph”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–261 substituted “December 31, 2000” for “the end of the one-year period beginning on the date of the enactment of this paragraph”.
 
-1997—Subsec. (a). Pub. L. 105–85 designated existing provisions as par. (1) and added par. (2).
+<b>1997</b>—Subsec. (a). Pub. L. 105–85 designated existing provisions as par. (1) and added par. (2).
 
-1996—Subsec. (a). Pub. L. 104–106 inserted “, with respect to medical treatment facilities of the Department of Defense, and the Secretary of Transportation, with respect to medical treatment facilities of the Coast Guard when the Coast Guard is not operating as a service in the Navy,” after “Secretary of Defense” and substituted “such facilities” for “medical treatment facilities of the Department of Defense”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106 inserted “, with respect to medical treatment facilities of the Department of Defense, and the Secretary of Transportation, with respect to medical treatment facilities of the Coast Guard when the Coast Guard is not operating as a service in the Navy,” after “Secretary of Defense” and substituted “such facilities” for “medical treatment facilities of the Department of Defense”.
 
-1993—Pub. L. 103–160 substituted “Personal services contracts” for “Contracts for direct health care providers” in section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>1993</b>—Pub. L. 103–160 substituted “Personal services contracts” for “Contracts for direct health care providers” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a) The Secretary concerned may contract with persons for services (including personal services) for the provision of direct health care services determined by the Secretary concerned to be required for the purposes of this chapter.
 
 “(b) A person with whom the Secretary contracts under this section for the provision of direct health care services under this chapter may be compensated at a rate prescribed by the Secretary concerned, but at a rate not greater than the rate of basic pay, special and incentive pays and bonuses, and allowances authorized by chapters 3, 5, and 7 of title 37 for a commissioned officer with comparable professional qualifications in pay grade O–6 with 26 or more years of service computed under section 205 of such title.”
 
-1990—Subsec. (b). Pub. L. 101–510 substituted “basic pay, special and incentive pays and bonuses, and allowances authorized by chapters 3, 5, and 7 of title 37 for a commissioned officer with comparable professional qualifications” for “basic pay and allowances authorized by chapters 3 and 7 of title 37 for a commissioned officer”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–510 substituted “basic pay, special and incentive pays and bonuses, and allowances authorized by chapters 3, 5, and 7 of title 37 for a commissioned officer with comparable professional qualifications” for “basic pay and allowances authorized by chapters 3 and 7 of title 37 for a commissioned officer”.
 
 #### Effective Date of 2002 Amendment
 

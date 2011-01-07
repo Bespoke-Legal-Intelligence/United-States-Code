@@ -16,7 +16,7 @@ The transferor of a facility which is sold or transferred as described in subsec
 
 #### (c) Amount of recovery; interest; interest period
 
-(1) Except as provided in paragraph (2), the amount the United States shall be entitled to recover under subsection (a) of this section is an amount bearing the same ratio to the then value (as determined by the agreement of the parties or in an action brought in the district court of the United States for the district for which the facility involved is situated) of so much of the facility as constituted an approved project or projects as the amount of the Federal participation bore to the cost of the construction or modernization of such project or projects.
+(1) Except as provided in paragraph (2), the amount the United States shall be entitled to recover under subsection (a) of this section is anamount bearing the same ratio to the then value (as determined by the agreement of the parties or in an action brought in the district court of the United States for the district for which the facility involved is situated) of so much of the facility as constituted an approved project or projects as the amount of the Federal participation bore to the cost of the construction or modernization of such project or projects.
 
 (2)(A) After the expiration of—
 
@@ -66,7 +66,7 @@ A prior section 1622 of act July 1, 1944, as added Jan. 4, 1975, Pub. L. 93–64
 
 #### Amendments
 
-1984—Pub. L. 98–369 amended section generally. Prior to the amendment, section read as follows:
+<b>1984</b>—Pub. L. 98–369 amended section generally. Prior to the amendment, section read as follows:
 
 “(a) If any facility constructed, modernized, or converted with funds provided under this subchapter is, at any time within twenty years after the completion of such construction, modernization, or conversion with such funds—
 
@@ -84,7 +84,7 @@ A prior section 1622 of act July 1, 1944, as added Jan. 4, 1975, Pub. L. 93–64
 
 > If the amount which the United States is entitled to recover under subsection (a) of this section exceeds 90 per centum of the total cost of the construction or modernization project for a facility, a waiver under this subsection shall only apply with respect to an amount which is not more than 90 per centum of such total cost.”
 
-1979—Subsec. (a)(1)(A). Pub. L. 96–79, §203(c), substituted “section 300s–1 or 300t–12 of this title” for “section 300<i>o</i>–3 of this title”.
+<b>1979</b>—Subsec. (a)(1)(A). Pub. L. 96–79, §203(c), substituted “section 300s–1 or 300t–12 of this title” for “section 300<i>o</i>–3 of this title”.
 
 #### Effective Date of 1979 Amendment
 

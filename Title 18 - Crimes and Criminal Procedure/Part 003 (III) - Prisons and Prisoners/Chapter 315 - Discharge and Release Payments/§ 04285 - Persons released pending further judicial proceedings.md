@@ -6,7 +6,7 @@ Any judge or magistrate judge of the United States, when ordering a person relea
 
 #### Amendments
 
-1990—Pub. L. 101–647 substituted “exceed” for “exced” after “not to”.
+<b>1990</b>—Pub. L. 101–647 substituted “exceed” for “exced” after “not to”.
 
 #### Change of Name
 

@@ -96,7 +96,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (e), are set out in
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–616, §401(a), (b), designated existing provisions of subsec. (a)(1) as subpar. (A) thereof, inserted “prohibition,” after “requirement,”, added subpar. (B), and in provisions following par. (2) inserted “or the alleged endangerment may occur” in first sentence and substituted “to enforce the permit, standard, regulation, condition, requirement, prohibition, or order, referred to in paragraph (1)(A), to restrain any person who has contributed or who is contributing to the past or present handling, storage, treatment, transportation, or disposal of any solid or hazardous waste referred to in paragraph (1)(B), to order such person to take such other action as may be necessary, or both, or to order the Administrator to perform the act or duty referred to in paragraph (2), as the case may be, and to apply any appropriate civil penalties under section 6928(a) and (g) of this title” for “to enforce such regulation or order, or to order the Administrator to perform such act or duty as the case may be”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–616, §401(a), (b), designated existing provisions of subsec. (a)(1) as subpar. (A) thereof, inserted “prohibition,” after “requirement,”, added subpar. (B), and in provisions following par. (2) inserted “or the alleged endangerment may occur” in first sentence and substituted “to enforce the permit, standard, regulation, condition, requirement, prohibition, or order, referred to in paragraph (1)(A), to restrain any person who has contributed or who is contributing to the past or present handling, storage, treatment, transportation, or disposal of any solid or hazardous waste referred to in paragraph (1)(B), to order such person to take such other action as may be necessary, or both, or to order the Administrator to perform the act or duty referred to in paragraph (2), as the case may be, and to apply any appropriate civil penalties under section 6928(a) and (g) of this title” for “to enforce such regulation or order, or to order the Administrator to perform such act or duty as the case may be”.
 
 Subsec. (b). Pub. L. 98–616, §401(d), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “No action may be commenced under paragraph (a)(1) of this section—
 
@@ -108,7 +108,7 @@ Subsec. (e). Pub. L. 98–616, §401(e), substituted “to the prevailing or sub
 
 Subsec. (g). Pub. L. 98–616, §401(c), added subsec. (g).
 
-1978—Subsec. (c). Pub. L. 95–609, §7(p)(1), substituted “subchapter III of this chapter” for “section 212 of this Act.”
+<b>1978</b>—Subsec. (c). Pub. L. 95–609, §7(p)(1), substituted “subchapter III of this chapter” for “section 212 of this Act.”
 
 Subsec. (e). Pub. L. 95–609, §7(p)(2), substituted “require” for “requiring”.
 

@@ -5,7 +5,6 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 17711 - Goal](%C2%A7%2017711%20-%20Goal.md)
-- [&sect; 17712 - Transitioning experimental research into operational services](%C2%A7%2017712%20-%20Transitioning%20experimental%20research%20into%20operational%20services.md)
-- [&sect; 17713 - Reauthorization of Glory Mission](%C2%A7%2017713%20-%20Reauthorization%20of%20Glory%20Mission.md)
-- [&sect; 17714 - Tornadoes and other severe storms](%C2%A7%2017714%20-%20Tornadoes%20and%20other%20severe%20storms.md)
+- [&sect; 17711 - Repealed. Pub. L. 111&#8211;314, &sect;6, Dec. 18, 2010, 124 Stat. 3444](%C2%A7%2017711%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93314%2C%20%C2%A76%2C%20Dec.%2018%2C%202010%2C%20124%20Stat.%203444.md)
+- [&sect; 17712, 17713 - Repealed or Omitted](%C2%A7%2017712%2C%2017713%20-%20Repealed%20or%20Omitted.md)
+- [&sect; 17714 - Repealed. Pub. L. 111&#8211;314, &sect;6, Dec. 18, 2010, 124 Stat. 3444](%C2%A7%2017714%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93314%2C%20%C2%A76%2C%20Dec.%2018%2C%202010%2C%20124%20Stat.%203444.md)

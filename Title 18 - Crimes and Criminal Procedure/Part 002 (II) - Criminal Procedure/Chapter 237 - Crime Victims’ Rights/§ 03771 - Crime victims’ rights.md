@@ -148,9 +148,9 @@ A prior section 3772, acts June 25, 1948, ch. 645, 62 Stat. 846; May 24, 1949, c
 
 #### Amendments
 
-2009—Subsec. (d)(5)(B). Pub. L. 111–16 substituted “14 days” for “10 days”.
+<b>2009</b>—Subsec. (d)(5)(B). Pub. L. 111–16 substituted “14 days” for “10 days”.
 
-2006—Subsec. (b). Pub. L. 109–248 designated existing provisions as par. (1), inserted heading, and added par. (2).
+<b>2006</b>—Subsec. (b). Pub. L. 109–248 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 #### Effective Date of 2009 Amendment
 

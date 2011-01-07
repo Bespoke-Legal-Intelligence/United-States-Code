@@ -40,7 +40,7 @@ The Secretary may make grants to States and political subdivisions of States for
 
 (3) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipients of grants under this section that are pertinent to such grants.
 
-(4) The Secretary, at the request of a recipient of a grant under this section, may reduce suchgrant by the fair market value of any supplies or equipment furnished to such recipient and by the amount of pay, allowances, travel expenses, and any other costs in connection with the detail of an officer or employee of the United States to the recipient when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request of such recipient and for the purpose of carrying out the program with respect to which the grant under this section is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies, equipment, or personal services on which the reduction of such grant is based.
+(4) The Secretary, at the request of a recipient of a grant under this section, may reduce such grant by the fair market value of any supplies or equipment furnished to such recipient and by the amount of pay, allowances, travel expenses, and any other costs in connection with the detail of an officer or employee of the United States to the recipient when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request of such recipient and for the purpose of carrying out the program with respect to which the grant under this section is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies, equipment, or personal services on which the reduction of such grant is based.
 
 (5) All information obtained in connection with the examination, care, or treatment of any individual under any program which is being carried out with a grant made under this section shall not, without such individual's consent, be disclosed except as may be necessary to provide service to him or as may be required by a law of a state or political subdivision of a State. Information derived from any such program may be disclosed—
 
@@ -62,13 +62,13 @@ A prior section 247c, act July 1, 1944, ch. 373 title III, §318, as added Aug. 
 
 #### Amendments
 
-1998—Subsec. (e). Pub. L. 105–392, §401(b)(2), redesignated subsec. (e), relating to consent of individuals, as (f).
+<b>1998</b>—Subsec. (e). Pub. L. 105–392, §401(b)(2), redesignated subsec. (e), relating to consent of individuals, as (f).
 
 Subsec. (e)(5). Pub. L. 105–392, §401(c), made technical amendment to directory language of Pub. L. 103–183, §401(c)(3). See 1993 Amendment note below.
 
 Subsec. (f). Pub. L. 105–392, §401(b)(2), redesignated subsec. (e), relating to consent of individuals, as (f).
 
-1993—Subsec. (b)(3). Pub. L. 103–183, §401(c)(1), substituted “; and” for “, and”.
+<b>1993</b>—Subsec. (b)(3). Pub. L. 103–183, §401(c)(1), substituted “; and” for “, and”.
 
 Subsec. (c)(3). Pub. L. 103–183, §401(c)(2), which directed the substitution of “; and” for “, and”, could not be executed because “, and” did not appear.
 
@@ -80,7 +80,7 @@ Subsec. (e)(1). Pub. L. 103–183, §401(b), amended par. (1) generally. Prior t
 
 Subsec. (e)(5). Pub. L. 103–183, §401(c)(3), as amended by Pub. L. 105–392, §401(c), substituted “form; or” for “form, or” in subpar. (A) and “purposes;” for “purposes,” in subpar. (B).
 
-1988—Pub. L. 100–607, §311(1), amended section catchline.
+<b>1988</b>—Pub. L. 100–607, §311(1), amended section catchline.
 
 Subsec. (d). Pub. L. 100–607, §311(2), (3), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to acquired immune deficiency syndrome.
 
@@ -88,11 +88,11 @@ Subsec. (d)(1). Pub. L. 100–607, §311(4), substituted “(b) and (c)” for �
 
 Subsecs. (e) to (g). Pub. L. 100–607, §311(2), (3), struck out subsec. (f) which related to conditional limitation on use of funds and redesignated subsecs. (e) and (g) as (d) and (e), respectively.
 
-1984—Subsec. (a). Pub. L. 98–555, §3(b)(1), substituted “research in, and training and public health programs for, the prevention and control of sexually transmitted diseases” for “research, training, and public health programs for the prevention and control of venereal disease”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–555, §3(b)(1), substituted “research in, and training and public health programs for, the prevention and control of sexually transmitted diseases” for “research, training, and public health programs for the prevention and control of venereal disease”.
 
 Subsec. (b). Pub. L. 98–555, §3(b)(2), in amending subsec. (b) generally, designated existing provisions as pars. (1) to (3), added par. (4), and substituted references to sexually transmitted diseases for reference to venereal disease.
 
-Subsec. (c). Pub. L. 98–555, §3(b)(3), (6)(A), substituted “sexually transmitted diseases” for “venereal disease”wherever appearing, struck out par. (4) relating to professional venereal disease education, training and clinical skills improvement activities, and redesignated par. (5) as (4).
+Subsec. (c). Pub. L. 98–555, §3(b)(3), (6)(A), substituted “sexually transmitted diseases” for “venereal disease” wherever appearing, struck out par. (4) relating to professional venereal disease education, training and clinical skills improvement activities, and redesignated par. (5) as (4).
 
 Subsec. (d). Pub. L. 98–555, §3(b)(5)(A), added subsec. (d). Former subsec. (d) redesignated (e).
 
@@ -100,11 +100,11 @@ Subsec. (e). Pub. L. 98–555, §3(a), (b)(4), (5), redesignated subsec. (d) as 
 
 Subsecs. (f), (g). Pub. L. 98–555, §3(b)(5)(A), (6)(A), (C), redesignated subsecs. (e) and (f) as (f) and (g), respectively, in subsecs. (f) and (g) as so redesignated, substituted “sexually transmitted diseases” for “venereal disease”, and struck out former subsec. (g) which defined venereal disease.
 
-1981—Subsec. (d)(1). Pub. L. 97–35 inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1982, 1983, and 1984.
+<b>1981</b>—Subsec. (d)(1). Pub. L. 97–35 inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1982, 1983, and 1984.
 
-1979—Subsec. (b). Pub. L. 96–32 amended directory language of Pub. L. 95–626, §204(c)(2), and required no change in text. See 1978 Amendment note below.
+<b>1979</b>—Subsec. (b). Pub. L. 96–32 amended directory language of Pub. L. 95–626, §204(c)(2), and required no change in text. See 1978 Amendment note below.
 
-1978—Subsec. (b). Pub. L. 95–626, §204(c)(2), as amended by Pub. L. 96–32, substituted “research, demonstrations, and public information and education for the prevention and control of venereal disease” for “research, demonstrations, education, and training for the prevention and control of venereal disease”, struck out “(1)” preceding provisions thus amended, and struck out par. (2) which authorized appropriation of $5,000,000 for fiscal year 1976, $6,600,000 for fiscal year 1977, and $7,600,000 for fiscal year 1978 for purpose of carrying out this subsection.
+<b>1978</b>—Subsec. (b). Pub. L. 95–626, §204(c)(2), as amended by Pub. L. 96–32, substituted “research, demonstrations, and public information and education for the prevention and control of venereal disease” for “research, demonstrations, education, and training for the prevention and control of venereal disease”, struck out “(1)” preceding provisions thus amended, and struck out par. (2) which authorized appropriation of $5,000,000 for fiscal year 1976, $6,600,000 for fiscal year 1977, and $7,600,000 for fiscal year 1978 for purpose of carrying out this subsection.
 
 Subsec. (c). Pub. L. 95–626, §204(d), struck out “(1)” after “(c)” at beginning of existing provisions, changed designations at beginning of each of the five clauses from “(A)”, “(B)”, “(C)”, “(D)”, and “(E)” to “(1)”, “(2)”, “(3)”, “(4)”, and “(5)”, respectively, substituted “The Secretary is also authorized” for “The Secretary is authorized” in provisions preceding cl. (1) as redesignated, substituted “professional (including appropriate allied health personnel) venereal disease education, training and clinical skills improvement activities” for “professional and public venereal disease education activities” in cl. (4) as redesignated, and struck out former par. (2) which had authorized appropriations of $32,000,000 for fiscal year 1976, $41,500,000 for fiscal year 1977, and $43,500,000 for fiscal year 1978.
 
@@ -114,7 +114,7 @@ Subsec. (f). Pub. L. 95–626, §204(b)(1), redesignated subsec. (g) as (f). For
 
 Subsec. (g). Pub. L. 95–626, §204(b)(1), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
-1976—Subsec. (a). Pub. L. 94–317, §203(c), substituted “public and nonprofit private entities and to” for “public authorities and”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–317, §203(c), substituted “public and nonprofit private entities and to” for “public authorities and”.
 
 Subsec. (b)(1). Pub. L. 94–317, §203(i), inserted “education,” before “and training”.
 

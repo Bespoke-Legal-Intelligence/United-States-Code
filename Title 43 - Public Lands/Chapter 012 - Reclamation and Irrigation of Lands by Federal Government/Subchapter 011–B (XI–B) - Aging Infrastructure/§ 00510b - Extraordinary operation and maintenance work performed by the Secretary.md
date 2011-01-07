@@ -30,7 +30,7 @@ The Secretary or the transferred works operating entity may carry out, in accord
 
 #### (3) Funding
 
-&emsp;If the Secretary determines that a project facility inspected and maintained pursuant to the guidelines and criteria set forth in section 510a(a) of this title requires extraordinary operation and maintenance pursuant to paragraph (1), the Secretary may provide Federalfunds on a nonreimbursable basis sufficient to cover 35 percent of the cost of the extraordinary operation and maintenance allocable to the transferred works operating entity, which is needed to minimize the risk of imminent harm. The remaining share of the Federal funds advanced by the Secretary for such work shall be repaid under subsection (b).
+&emsp;If the Secretary determines that a project facility inspected and maintained pursuant to the guidelines and criteria set forth in section 510a(a) of this title requires extraordinary operation and maintenance pursuant to paragraph (1), the Secretary may provide Federal funds on a nonreimbursable basis sufficient to cover 35 percent of the cost of the extraordinary operation and maintenance allocable to the transferred works operating entity, which is needed to minimize the risk of imminent harm. The remaining share of the Federal funds advanced by the Secretary for such work shall be repaid under subsection (b).
 
 (Pub. L. 111–11, title IX, §9603, Mar. 30, 2009, 123 Stat. 1348.)
 

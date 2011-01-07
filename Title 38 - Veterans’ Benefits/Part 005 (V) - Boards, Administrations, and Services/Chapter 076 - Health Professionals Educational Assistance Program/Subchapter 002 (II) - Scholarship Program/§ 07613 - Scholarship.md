@@ -10,7 +10,7 @@
 
 #### Amendments
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 4313 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 4313 of this title as this section.
 
 Subsec. (b). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 

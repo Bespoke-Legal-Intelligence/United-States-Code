@@ -44,7 +44,7 @@ Subsection (d) of section 7443 shall apply to special trial judges subject to su
 
 #### Amendments
 
-2006—Subsec. (b)(5). Pub. L. 109–280, §857(a), added par. (5). Former par. (5) redesignated (6).
+<b>2006</b>—Subsec. (b)(5). Pub. L. 109–280, §857(a), added par. (5). Former par. (5) redesignated (6).
 
 Subsec. (b)(6). Pub. L. 109–432, §406(a)(2)(A), added par. (6). Former par. (6) redesignated (7).
 
@@ -56,7 +56,7 @@ Subsec. (c). Pub. L. 109–432, §406(a)(2)(B), substituted “(5), or (6)” fo
 
 Pub. L. 109–280, §857(b), substituted “(4), or (5)” for “or (4)”.
 
-1998—Subsec. (b)(3). Pub. L. 105–206, §3103(b)(1), substituted “$50,000” for “$10,000”.
+<b>1998</b>—Subsec. (b)(3). Pub. L. 105–206, §3103(b)(1), substituted “$50,000” for “$10,000”.
 
 Subsec. (b)(4), (5). Pub. L. 105–206, §3401(c)(1), as amended by Pub. L. 105–277, §4002(e)(1), added par. (4) and redesignated former par. (4) as (5).
 

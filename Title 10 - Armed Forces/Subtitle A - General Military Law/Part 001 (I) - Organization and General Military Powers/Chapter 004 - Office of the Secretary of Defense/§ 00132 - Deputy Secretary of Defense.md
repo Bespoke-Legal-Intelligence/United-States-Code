@@ -4,17 +4,17 @@
 
 (b) The Deputy Secretary shall perform such duties and exercise such powers as the Secretary of Defense may prescribe. The Deputy Secretary shall act for, and exercise the powers of, the Secretary when the Secretary is disabled or there is no Secretary of Defense.
 
-(c) The Deputy Secretary serves as the Chief Management Officer of the Department of Defense. The Deputy Secretary shall be assisted in this capacity by a Deputy Chief Management Officer, who shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.
+(c) The Deputy Secretary serves as the Chief Management Officer of the Department of Defense.
 
-(d) <sup>1</sup> The Deputy Secretary takes precedence in the Department of Defense immediately after the Secretary.
+(d) The Deputy Secretary takes precedence in the Department of Defense immediately after the Secretary.
 
-(d) <sup>1</sup> Until September 30, 2015, the Deputy Secretary of Defense shall lead the Guam Executive Council and shall be the Department of Defense's principal representative for coordinating the interagency efforts in matters relating to Guam, including the following executive orders:
+(e) Until September 30, 2020, the Deputy Secretary of Defense shall lead the Guam Oversight Council and shall be the Department of Defense's principal representative for coordinating the interagency efforts in matters relating to Guam, including the following executive orders:
 
 &emsp;(1) Executive Order No. 13299 of May 12, 2003 (68 Fed. Reg. 25477; 48 U.S.C. note prec. 1451; relating to the Interagency Group on Insular Affairs).
 
 &emsp;(2) Executive Order No. 12788 of January 15, 1992, as amended (57 Fed. Reg. 2213; relating to the Defense Economic Adjustment Program).
 
-(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 518, §134; amended Pub. L. 92–596, §4(1), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, §1(a), Oct. 21, 1977, 91 Stat. 1172; renumbered §132 and amended Pub. L. 99–433, title I, §§101(a)(7),110(d)(7), Oct. 1, 1986, 100 Stat. 995, 1003; Pub. L. 110–181, div. A, title IX, §§903(b), 904(a)(1), Jan. 28, 2008, 122 Stat. 273; Pub. L. 111–84, div. B, title XXVIII, §2831(a), Oct. 28, 2009, 123 Stat. 2669.)
+(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 518, §134; amended Pub. L. 92–596, §4(1), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, §1(a), Oct. 21, 1977, 91 Stat. 1172; renumbered §132 and amended Pub. L. 99–433, title I, §§101(a)(7), 110(d)(7), Oct. 1, 1986, 100 Stat. 995, 1003; Pub. L. 110–181, div. A, title IX, §§903(b), 904(a)(1), Jan. 28, 2008, 122 Stat. 273; Pub. L. 111–84, div. B, title XXVIII, §2831(a), Oct. 28, 2009, 123 Stat. 2669; Pub. L. 111–383, div. A, title IX, §901(c)(2), (m)(2), title X, §1075(b)(4), div. B, title XXVIII, §2821, Jan. 7, 2011, 124 Stat. 4321, 4326, 4369, 4465.)
 
 Historical and Revision Notes
 
@@ -42,7 +42,9 @@ In subsection (a), the last sentence is substituted for 5 U.S.C. 171c(a) (provis
 
 #### References in Text
 
-Executive Order No. 12788, referred to in subsec. (d)(2), is set out as a note under section 2391 of this title.
+Executive Order No. 13299, referred to in subsec. (e)(1), was superseded by Ex. Ord. No. 13537, Apr. 14, 2010, 75 F.R. 20237, set out as a note preceding section 1451 of Title 48, Territories and Insular Possessions.
+
+Executive Order No. 12788, referred to in subsec. (e)(2), is set out as a note under section 2391 of this title.
 
 #### Prior Provisions
 
@@ -50,15 +52,27 @@ A prior section 132 was renumbered section 112 of this title.
 
 #### Amendments
 
-2009—Subsec. (d). Pub. L. 111–84 added subsec. (d) relating to the Deputy Secretary of Defense leading the Guam Executive Council.
+<b>2011</b>—Subsec. (c). Pub. L. 111–383, §901(c)(2), struck out at end “The Deputy Secretary shall be assisted in this capacity by a Deputy Chief Management Officer, who shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.”
 
-2008—Subsec. (a). Pub. L. 110–181, §903(b), substituted “seven” for “ten”.
+Subsec. (d). Pub. L. 111–383, §1075(b)(4)(A), which directed redesignation of subsec. (d), as added by section 2831(a) of Pub. L. 111–84, as (e), could not be executed because of the prior amendment by Pub. L. 111–383, §901(m)(2). See below.
+
+Pub. L. 111–383, §901(m)(2), redesignated subsec. (d) relating to duties of the Deputy Secretary of Defense relating to Guam, as (e).
+
+Subsec. (e). Pub. L. 111–383, §2821, which directed substitution of “September 30, 2020” for “September 30, 2015” in subsec. (d), as added by section 2831(a) of Pub. L. 111–84, was executed in subsec. (e) to reflect the probable intent of Congress and the redesignation of subsec. (d) as (e) by Pub. L. 111–383, §901(m)(2). See below.
+
+Pub. L. 111–383, §1075(b)(4), which directed redesignation of subsec. (d), as added by section 2831(a) of Pub. L. 111–84, as (e), and substitution of “Guam Oversight Council” for “Guam Executive Council”, was executed by making the substitution in subsec. (e) because of the prior redesignation of subsec. (d) as (e) by Pub. L. 111–383, §901(m)(2). See below.
+
+Pub. L. 111–383, §901(m)(2), redesignated subsec. (d) relating to duties of the Deputy Secretary of Defense relating to Guam, as (e).
+
+<b>2009</b>—Subsec. (d). Pub. L. 111–84 added subsec. (d) relating to the Deputy Secretary of Defense leading the Guam Executive Council.
+
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §903(b), substituted “seven” for “ten”.
 
 Subsecs. (c), (d). Pub. L. 110–181, §904(a)(1), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1986—Pub. L. 99–433 renumbered section 134 of this title as this section and struck out “: appointment; powers and duties; precedence” at end of section catchline.
+<b>1986</b>—Pub. L. 99–433 renumbered section 134 of this title as this section and struck out “: appointment; powers and duties; precedence” at end of section catchline.
 
-1977—Pub. L. 95–140, §1(a)(4), substituted “Deputy Secretary” for “Deputy Secretaries” in section catchline.
+<b>1977</b>—Pub. L. 95–140, §1(a)(4), substituted “Deputy Secretary” for “Deputy Secretaries” in section catchline.
 
 Subsec. (a). Pub. L. 95–140, §1(a)(1), substituted “There is a Deputy Secretary” for “There are two Deputy Secretaries” and struck out “a” before “Deputy Secretary”.
 
@@ -66,7 +80,7 @@ Subsec. (b). Pub. L. 95–140, §1(a)(2), substituted “Deputy Secretary” for
 
 Subsec. (c). Pub. L. 95–140, §1(a)(3), substituted “The Deputy Secretary takes” for “The Deputy Secretaries take”.
 
-1972—Pub. L. 92–596 substituted “Deputy Secretaries” for “Deputy Secretary” in section catchline.
+<b>1972</b>—Pub. L. 92–596 substituted “Deputy Secretaries” for “Deputy Secretary” in section catchline.
 
 Subsec. (a). Pub. L. 92–596 substituted “There are two Deputy Secretaries of Defense” for “There is a Deputy Secretary of Defense”.
 
@@ -74,9 +88,13 @@ Subsec. (b). Pub. L. 92–596 provided for the exercise of powers and duties con
 
 Subsec. (c). Pub. L. 92–596 substituted “The Deputy Secretaries take” for “The Deputy Secretary takes”.
 
+#### Effective Date of 2011 Amendment
+
+Amendment by section 901(c)(2), (m)(2) of Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as a note under section 131 of this title.
+
 #### Order of Succession
 
-For order of succession during any period when the Secretary has died, resigned, or is otherwise unable to perform the functions and duties of the office of Secretary, see Ex. Ord. No. 13394, Dec. 22, 2005, 70 F.R. 76665, set out as a note under section 3345 of Title 5, Government Organization and Employees.
+For order of succession during any period when the Secretary has died, resigned, or is otherwise unable to perform the functions and duties of the office of Secretary, see Ex. Ord. No. 13533, Mar. 1, 2010, 75 F.R. 10163, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
 #### Assignment of Duties
 
@@ -101,6 +119,4 @@ Pub. L. 110–181, div. A, title IX, §904(b), Jan. 28, 2008, 122 Stat. 274, pro
 “(3) The Secretary shall assign such duties and authorities to the Chief Management Officer as are necessary for that official to effectively and efficiently organize the business operations of the military department concerned.
 
 “(4) The Chief Management Officer of each military department shall promptly provide such information relating to the business operations of such department to the Chief Management Officer and Deputy Chief Management Officer of the Department of Defense as is necessary to assist those officials in the performance of their duties.”
-
-<i><sup>1</sup></i><i> So in original. Two subsecs. (d) have been enacted.</i>
 

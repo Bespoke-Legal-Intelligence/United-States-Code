@@ -2,7 +2,7 @@
 
 (a) An eligible system which, pursuant to section 10805(a)(4) of this title, has access to records which, under Federal or State law, are required to be maintained in a confidential manner by a provider of mental health services, shall, except as provided in subsection (b) of this section, maintain the confidentiality of such records to the same extent as is required of the provider of such services.
 
-(b)(1) Except as provided in paragraph (2), an eligible system which has access to records pursuant to section 10805(a)(4) of this title may notdisclose information from such records to the individual who is the subject of the information if the mental health professional responsible for supervising the provision of mental health services to such individual has provided the system with a written determination that disclosure of such information to such individual would be detrimental to such individual's health.
+(b)(1) Except as provided in paragraph (2), an eligible system which has access to records pursuant to section 10805(a)(4) of this title may not disclose information from such records to the individual who is the subject of the information if the mental health professional responsible for supervising the provision of mental health services to such individual has provided the system with a written determination that disclosure of such information to such individual would be detrimental to such individual's health.
 
 (2)(A) If disclosure of information has been denied under paragraph (1) to an individual—
 
@@ -36,7 +36,7 @@
 
 #### Amendments
 
-1991—Subsec. (b)(2)(C). Pub. L. 102–173 substituted “individuals with mental illness” for “mentally ill individuals”.
+<b>1991</b>—Subsec. (b)(2)(C). Pub. L. 102–173 substituted “individuals with mental illness” for “mentally ill individuals”.
 
-1988—Subsec. (b)(3). Pub. L. 100–509 added par. (3).
+<b>1988</b>—Subsec. (b)(3). Pub. L. 100–509 added par. (3).
 

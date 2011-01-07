@@ -2,7 +2,7 @@
 
 #### (a) Maximum period; compliance requirements where period exceeds 1 year; pro rata reductions where funding below prior fiscal year amounts
 
-(1) Subject to paragraph (2) and the availability of funds, the Director may make a grant or enter into a contract under part A, B, or C of this subchapter for a period not to exceed 3 years. Each applicant who receives a grant, or enters into a contract, under such part for a period exceeding 1 year shall comply with such regulations as the Director may issue to require such applicant—
+(1) Subject to paragraph (2) and the availability of funds, the Director may make a grant or enter into a contract under part A, B, or C of this subchapter for a period not to exceed 3 years. Each applicant who receives a grant, orenters into a contract, under such part for a period exceeding 1 year shall comply with such regulations as the Director may issue to require such applicant—
 
 &emsp;(A) to demonstrate that such applicant is in compliance with such part and with the terms and conditions of such grant or contract; and
 

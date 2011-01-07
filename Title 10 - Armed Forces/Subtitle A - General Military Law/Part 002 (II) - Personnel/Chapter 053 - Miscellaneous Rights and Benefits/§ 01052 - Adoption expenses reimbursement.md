@@ -6,7 +6,7 @@ Authorization To Reimburse.—The Secretary of Defense shall carry out a program
 
 (b)
 
-Adoptions Covered.—An adoption for which expenses may be reimbursed under thissection includes an adoption by a single person, an infant adoption, an intercountry adoption, and an adoption of a child with special needs (as defined in section 473(c) of the Social Security Act (42 U.S.C. 673(c))).
+Adoptions Covered.—An adoption for which expenses may be reimbursed under this section includes an adoption by a single person, an infant adoption, an intercountry adoption, and an adoption of a child with special needs (as defined in section 473(c) of the Social Security Act (42 U.S.C. 673(c))).
 
 (c)
 
@@ -68,17 +68,17 @@ A prior section 1052 was renumbered section 1063 of this title and subsequently 
 
 #### Amendments
 
-2006—Subsec. (g)(1). Pub. L. 109–163 inserted “or other source authorized to place children for adoption under State or local law” after “qualified adoption agency” in introductory provisions.
+<b>2006</b>—Subsec. (g)(1). Pub. L. 109–163 inserted “or other source authorized to place children for adoption under State or local law” after “qualified adoption agency” in introductory provisions.
 
-2004—Subsec. (g)(3)(D). Pub. L. 108–375 added subpar. (D).
+<b>2004</b>—Subsec. (g)(3)(D). Pub. L. 108–375 added subpar. (D).
 
-2000—Pub. L. 106–398 substituted “Adoption expenses: reimbursement” for “Reimbursement for adoption expenses” in section catchline.
+<b>2000</b>—Pub. L. 106–398 substituted “Adoption expenses: reimbursement” for “Reimbursement for adoption expenses” in section catchline.
 
-1996—Subsec. (g)(1). Pub. L. 104–201, §652(a)(1), substituted “qualified adoption agency.” for “State or local government agency which has responsibility under State or local law for child placement through adoption or by a nonprofit, voluntary adoption agency which is authorized by State or local law to place children for adoption.”
+<b>1996</b>—Subsec. (g)(1). Pub. L. 104–201, §652(a)(1), substituted “qualified adoption agency.” for “State or local government agency which has responsibility under State or local law for child placement through adoption or by a nonprofit, voluntary adoption agency which is authorized by State or local law to place children for adoption.”
 
 Subsec. (g)(3). Pub. L. 104–201, §652(a)(2), added par. (3).
 
-1992—Subsec. (b). Pub. L. 102–484 inserted close parenthesis before period at end.
+<b>1992</b>—Subsec. (b). Pub. L. 102–484 inserted close parenthesis before period at end.
 
 #### Effective Date
 

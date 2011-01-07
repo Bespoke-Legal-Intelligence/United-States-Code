@@ -10,7 +10,7 @@ Development of plans and programs.—To accomplish the objectives stated in sect
 
 &emsp;(2)
 
-Contents.—The statewide transportation plan and the transportation improvement program developed for each State shall provide for the development and integrated management and operation of transportation systems and facilities (including accessible pedestrian walkways and bicycle transportation facilities) that will function as an intermodal transportation system for the State and an integral part of an intermodal transportation system for the United States.
+Contents.—The statewide transportation plan and the transportation improvement program developed for each State shall providefor the development and integrated management and operation of transportation systems and facilities (including accessible pedestrian walkways and bicycle transportation facilities) that will function as an intermodal transportation system for the State and an integral part of an intermodal transportation system for the United States.
 
 &emsp;(3)
 
@@ -80,7 +80,7 @@ Long-Range Statewide Transportation Plan.—
 
 &emsp;(1)
 
-Development.—Each State shall develop a long-range statewide transportation plan,with a minimum 20-year forecast period for all areas of the State, that provides for the development and implementation of the intermodal transportation system of the State.
+Development.—Each State shall develop a long-range statewide transportation plan, with a minimum 20-year forecast period for all areas of the State, that provides for the development and implementation of the intermodal transportation system of the State.
 
 &emsp;(2)
 
@@ -178,7 +178,7 @@ Nonmetropolitan areas.—With respect to each nonmetropolitan area in the State,
 
 &emsp;&emsp;(C)
 
-Indian tribal areas.—With respect to each area of the State under the jurisdiction of an Indian tribal government, the program shall be developed in consultation with thetribal government and the Secretary of the Interior.
+Indian tribal areas.—With respect to each area of the State under the jurisdiction of an Indian tribal government, the program shall be developed in consultation with the tribal government and the Secretary of the Interior.
 
 &emsp;(3)
 
@@ -268,7 +268,7 @@ Treatment of Certain State Laws as Congestion Management Processes.—For purpos
 
 (j)
 
-Continuation of Current Review Practice.—Since the statewide transportation plan and the transportation improvement program described in this section are subject to a reasonable opportunity for public comment, since individual projects included in the statewide transportation plans and the transportation improvement program are subject to review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and since decisions by the Secretary concerning statewide transportation plans or the transportation improvement program described in this section have not been reviewed under such Act as of January 1, 1997, any decision by the Secretary concerning a metropolitan or statewide transportation plan or the transportation improvement program described in this section shall not be considered to be a Federal action subject to review under such Act.
+Continuation of Current Review Practice.—Since the statewide transportation plan and the transportation improvement program described in this section are subject to a reasonable opportunity for public comment, since individual projects included in the statewide transportation plans and the transportation improvement program are subject to review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and since decisions by the Secretary concerning statewide transportation plans or the transportation improvement program described in this section have not been reviewed under such Act as of January 1, 1997, anydecision by the Secretary concerning a metropolitan or statewide transportation plan or the transportation improvement program described in this section shall not be considered to be a Federal action subject to review under such Act.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 793; Pub. L. 105–178, title III, §3005, June 9, 1998, 112 Stat. 345; Pub. L. 105–206, title IX, §9009(c)(2), July 22, 1998, 112 Stat. 854; Pub. L. 109–59, title III, §3006(a), Aug. 10, 2005, 119 Stat. 1559.)
 
@@ -318,9 +318,9 @@ The National Environmental Policy Act of 1969, referred to in subsec. (j), is Pu
 
 #### Amendments
 
-2005—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (e) relating to development and updating of a transportation improvement program, contents of program, selection of projects, notice and an opportunity to comment on proposed programs, and conformance of review requirements under the National Environmental Policy Act of 1969.
+<b>2005</b>—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (e) relating to development and updating of a transportation improvement program, contents of program, selection of projects, notice and an opportunity to comment on proposed programs, and conformance of review requirements under the National Environmental Policy Act of 1969.
 
-1998—Subsec. (a). Pub. L. 105–178, §3005(d)(1), as added by Pub. L. 105–206, §9009(c)(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §3005(d)(1), as added by Pub. L. 105–206, §9009(c)(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 Pub. L. 105–178, §3005(a), in second sentence, substituted “the metropolitan planning organization, in cooperation with the chief executive officer of the State and any affected mass transportation operator,” for “the organization” and inserted “other affected employee representatives, freight shippers, providers of freight transportation services,” after “transportation authority employees,” and “representatives of users of public transit,” after “private providers of transportation,”.
 
@@ -344,7 +344,7 @@ Subsec. (c)(5), (6). Pub. L. 105–178, §3005(c)(2), added pars. (5) and (6).
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated asincluded in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
 
 #### Schedule for Implementation
 

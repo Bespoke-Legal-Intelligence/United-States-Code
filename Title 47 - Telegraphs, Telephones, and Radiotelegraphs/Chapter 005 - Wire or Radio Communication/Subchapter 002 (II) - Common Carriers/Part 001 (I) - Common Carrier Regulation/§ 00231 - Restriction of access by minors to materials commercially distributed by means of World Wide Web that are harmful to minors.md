@@ -76,7 +76,7 @@ For purposes of this subsection,<sup>1</sup> the following definitions shall app
 
 #### (A) Commercial purposes
 
-&emsp;&emsp;A person shall be considered to make a communication for commercial purposesonly if such person is engaged in the business of making such communications.
+&emsp;&emsp;A person shall be considered to make a communication for commercial purposes only if such person is engaged in the business of making such communications.
 
 #### (B) Engaged in the business
 
@@ -158,7 +158,7 @@ Industry members.—The Commission shall include 16 members who shall consist of
 
 &emsp;&emsp;“(G) providers that make content available over the Internet.
 
-> &emsp;Of the members of the Commission by reason of this paragraph, an equal number shall be appointed by theSpeaker of the House of Representatives and by the Majority Leader of the Senate. Members of the Commission appointed on or before October 31, 1999, shall remain members.
+> &emsp;Of the members of the Commission by reason of this paragraph, an equal number shall be appointed by the Speaker of the House of Representatives and by the Majority Leader of the Senate. Members of the Commission appointed on or before October 31, 1999, shall remain members.
 
 &emsp;“(2)
 
@@ -271,4 +271,6 @@ Termination.—The Commission shall terminate 30 days after the submission of th
 “(m)\[j\]
 
 Inapplicability of Federal Advisory Committee Act.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “section,”.</i>
 

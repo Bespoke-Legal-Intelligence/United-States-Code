@@ -50,7 +50,7 @@ Covered determination.—A determination described in this paragraph with respec
 
 &emsp;&emsp;(B) there has been a schedule change that will cause a delay of one year or more in any program schedule milestone or significant event from the schedule originally submitted to Congress under paragraph (1) or (2) of section 2445b(b) of this title or section 2445b(d) of this title, as applicable;
 
-&emsp;&emsp;(C) the estimated program development cost or full life-cycle cost for the programhas increased by 25 percent or more over the original estimate submitted to Congress under paragraph (3) of section 2445b(b) of this title or section 2445b(d) of this title, as applicable; or
+&emsp;&emsp;(C) the estimated program development cost or full life-cycle cost for the program has increased by 25 percent or more over the original estimate submitted to Congress under paragraph (3) of section 2445b(b) of this title or section 2445b(d) of this title, as applicable; or
 
 &emsp;&emsp;(D) there has been a change in the expected performance of the major automated information system or major information technology investment to be acquired under the program that will undermine the ability of the system to perform the functions anticipated at the time information on the program was originally submitted to Congress under section 2445b(b) of this title or section 2445b(d) of this title, as applicable.
 
@@ -86,11 +86,11 @@ Prohibition on Obligation of Funds.—(1) If the determination of a critical cha
 
 #### Amendments
 
-2009—Subsec. (d)(2)(A). Pub. L. 111–84 substituted “a full deployment decision” for “initial operational capability”.
+<b>2009</b>—Subsec. (d)(2)(A). Pub. L. 111–84 substituted “a full deployment decision” for “initial operational capability”.
 
 Subsec. (f)(3). Pub. L. 111–23 substituted “have been determined, with the concurrence of the Director of Cost Assessment and Program Evaluation, to be reasonable” for “are reasonable”.
 
-2008—Subsec. (a). Pub. L. 110–417, §812(c)(1), inserted “or other major information technology investment program” after “major automated information system program” and “or information technology investment” after “the major automated information system”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–417, §812(c)(1), inserted “or other major information technology investment program” after “major automated information system program” and “or information technology investment” after “the major automated information system”.
 
 Subsec. (b). Pub. L. 110–417, §812(c)(2), inserted “or other major information technology investment program” after “major automated information system program” in introductory provisions and “or information technology investment” after “automated information system” in pars. (1) and (2).
 

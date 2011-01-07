@@ -28,11 +28,11 @@ The second proviso is omitted as executed.
 
 #### Amendments
 
-2001—Pub. L. 107–107 amended section catchline and text generally. Prior to amendment, text read as follows: “There is a Navy band known as the United States Navy Band.”
+<b>2001</b>—Pub. L. 107–107 amended section catchline and text generally. Prior to amendment, text read as follows: “There is a Navy band known as the United States Navy Band.”
 
-1980—Pub. L. 96–513 in section catchline struck out “; leader's pay and allowances” after “Band”, and in text struck out designation “(a)”.
+<b>1980</b>—Pub. L. 96–513 in section catchline struck out “; leader's pay and allowances” after “Band”, and in text struck out designation “(a)”.
 
-1962—Subsec. (b). Pub. L. 87–649 repealed subsec. (b) which related to the pay and allowances of the leader of the United States Navy Band. See sections 207 and 424 of Title 37, Pay and Allowances of the Uniformed Services.
+<b>1962</b>—Subsec. (b). Pub. L. 87–649 repealed subsec. (b) which related to the pay and allowances of the leader of the United States Navy Band. See sections 207 and 424 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Effective Date of 1980 Amendment
 

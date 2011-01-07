@@ -22,17 +22,13 @@ The Council shall be responsible for (1) the appointment and supervision of pers
 
 (Pub. L. 89–80, title I, §105, July 22, 1965, 79 Stat. 246; Pub. L. 94–112, §1(b), Oct. 16, 1975, 89 Stat. 575.)
 
-#### References in Text
-
-The civil service laws, referred to in subsec. (a), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 #### Codification
 
 In subsec. (a), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “Classification Act of 1949, as amended” and “section 3109 of title 5” substituted for “section 15 of the Act of August 2, 1946 (5 U.S.C. 55a)”, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 
-1975—Subsec. (a)(5). Pub. L. 94–112 substituted “not in excess of the daily equivalent of the rate prescribed for grade GS–18 under section 5332 of title 5 in the case of individual experts or consultants” for “not to exceed $100 per diem for individuals”.
+<b>1975</b>—Subsec. (a)(5). Pub. L. 94–112 substituted “not in excess of the daily equivalent of the rate prescribed for grade GS–18 under section 5332 of title 5 in the case of individual experts or consultants” for “not to exceed $100 per diem for individuals”.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

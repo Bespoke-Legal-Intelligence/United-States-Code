@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention,shall award a grant to enhance and expand infrastructure to track the epidemiology of pediatric cancer into a comprehensive nationwide registry of actual occurrences of pediatric cancer. Such registry shall be updated to include an actual occurrence within weeks of the date of such occurrence.
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall award a grant to enhance and expand infrastructure to track the epidemiology of pediatric cancer into a comprehensive nationwide registry of actual occurrences of pediatric cancer. Such registry shall be updated to include an actual occurrence within weeks of the date of such occurrence.
 
 #### (b) Informed consent and privacy requirements and coordination with existing programs
 
@@ -12,7 +12,7 @@ The registry established pursuant to subsection (a) shall be subject to section 
 
 #### References in Text
 
-Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (b), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
+Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (b), issection 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
 
 #### Findings and Purposes
 

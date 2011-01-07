@@ -24,23 +24,19 @@ A decision that proposes to limit the application of a court decision shall be p
 
 #### (e) Public information
 
-The Secretary may make available in writing or through electronic media, in an efficient, comprehensive and timely manner, all information, including directives, memoranda, electronic messages and telexes which contain instructions, requirements, methods or advice necessary for importers and exporters to comply with the Customs <sup>1</sup> laws and regulations. All information which may be made available pursuant to this subsection shall be subject to any exemption from disclosure provided by section 552 of title 5.
+The Secretary may make available in writing or through electronic media, in an efficient,comprehensive and timely manner, all information, including directives, memoranda, electronic messages and telexes which contain instructions, requirements, methods or advice necessary for importers and exporters to comply with the Customs <sup>1</sup> laws and regulations. All information which may be made available pursuant to this subsection shall be subject to any exemption from disclosure provided by section 552 of title 5.
 
 (June 17, 1930, ch. 497, title IV, §625, as added Pub. L. 95–410, title I, §112, Oct. 3, 1978, 92 Stat. 898; amended Pub. L. 103–182, title VI, §623, Dec. 8, 1993, 107 Stat. 2186; Pub. L. 104–295, §21(e)(14), Oct. 11, 1996, 110 Stat. 3531.)
 
-#### References in Text
-
-The Customs laws, referred to in subsec. (e), are classified generally to this title.
-
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–295 made technical amendment to reference in original act which appears in text as reference to “this chapter”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–295 made technical amendment to reference in original act which appears in text as reference to “this chapter”.
 
-1993—Pub. L. 103–182 amended section generally. Prior to amendment, section read as follows: “Within 120days after issuing any precedential decision (including any ruling letter, internal advice memorandum, or protest review decision) under this chapter with respect to any customs transaction, the Secretary shall have such decision published in the Customs Bulletin or shall otherwise make such decision available for public inspection.”
+<b>1993</b>—Pub. L. 103–182 amended section generally. Prior to amendment, section read as follows: “Within 120 days after issuing any precedential decision (including any ruling letter, internal advice memorandum, or protest review decision) under this chapter with respect to any customs transaction, the Secretary shall have such decision published in the Customs Bulletin or shall otherwise make such decision available for public inspection.”
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
 
 #### Study and Report Relating to Timeliness of Prospective Rulings
 

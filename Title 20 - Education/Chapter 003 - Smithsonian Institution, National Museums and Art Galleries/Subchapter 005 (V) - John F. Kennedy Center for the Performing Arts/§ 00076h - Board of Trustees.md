@@ -60,11 +60,11 @@ There shall be an Advisory Committee on the Arts composed of such members as the
 
 #### Amendments
 
-2008—Subsec. (a)(2)(J)(ii). Pub. L. 110–338 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+<b>2008</b>—Subsec. (a)(2)(J)(ii). Pub. L. 110–338 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
 
-2002—Subsec. (a). Pub. L. 107–117 designated existing provisions as par. (1), inserted par. heading, struck out “hereby” before “established”, struck out second sentence, and added par. (2). Prior to amendment, second sentence read as follows: “The Board shall be composed as follows: The Secretary of Health and Human Services, the Librarian of Congress, the Director of the United States Information Agency, the Chairman of the Commission of Fine Arts, the Mayor of the District of Columbia, the Superintendent of Schools of the District of Columbia, the Director of the National Park Service, the Secretary of Education, the Secretary of the Smithsonian Institution, the chairman and ranking minority member of the Committee on Public Works and Transportation of the House of Representatives and 3 additional Members of the House of Representatives appointed by the Speaker of the House of Representatives, and the chairman and ranking minority member of the Committee on Environment and Public Works of the Senate and 3 additional Members of the Senate appointed by the President of the Senate ex officio; and thirty general trustees who shall be citizens of the United States, to be chosen as hereinafter provided.”
+<b>2002</b>—Subsec. (a). Pub. L. 107–117 designated existing provisions as par. (1), inserted par. heading, struck out “hereby” before “established”, struck out second sentence, and added par. (2). Prior to amendment, second sentence read as follows: “The Board shall be composed as follows: The Secretary of Health and Human Services, the Librarian of Congress, the Director of the United States Information Agency, the Chairman of the Commission of Fine Arts, the Mayor of the District of Columbia, the Superintendent of Schools of the District of Columbia, the Director of the National Park Service, the Secretary of Education, the Secretary of the Smithsonian Institution, the chairman and ranking minority member of the Committee on Public Works and Transportation of the House of Representatives and 3 additional Members of the House of Representatives appointed by the Speaker of the House of Representatives, and the chairman and ranking minority member of the Committee on Environment and Public Works of the Senate and 3 additional Members of the Senate appointed by the President of the Senate ex officio; and thirty general trustees who shall be citizens of the United States, to be chosen as hereinafter provided.”
 
-1994—Pub. L. 103–279, §2(b)(1)(A), substituted section catchline for former section catchline.
+<b>1994</b>—Pub. L. 103–279, §2(b)(1)(A), substituted section catchline for former section catchline.
 
 Subsec. (a). Pub. L. 103–279, §2(b)(1)(A), inserted heading, in first sentence inserted “as the National Center for the Performing Arts, a living memorial to John Fitzgerald Kennedy,” after “and site thereof”, and in second sentence substituted “Superintendent of Schools of the District of Columbia” for “Chairman of the District of Columbia Recreation Board” and “the chairman and ranking minority member of the Committee on Public Works and Transportation of the House of Representatives and 3 additional Members of the House of Representatives appointed by the Speaker of the House of Representatives, and the chairman and ranking minority member of the Committee on Environment and Public Works of the Senate and 3 additional Members of the Senate appointed by the President of the Senate” for “three Members of the Senate appointed by the President of the Senate, and three Members of the House of Representatives appointed by the Speaker of the House of Representatives”.
 
@@ -72,9 +72,9 @@ Subsec. (b). Pub. L. 103–279, §2(c), inserted heading and amended text genera
 
 Subsec. (c). Pub. L. 103–279, §2(d), inserted heading, inserted “of the United States” before “may designate” in first sentence, substituted “carried out by the John” for “carried on in the John” in fifth sentence, and struck out before period at end of last sentence “, but each member of such Committee shall be reimbursed for travel, subsistence, and other necessary expenses incurred by him in connection with the work of such Committee”.
 
-1964—Subsecs. (a), (c). Pub. L. 88–260 substituted “John F. Kennedy Center for the Performing Arts” for “National Cultural Center” wherever appearing.
+<b>1964</b>—Subsecs. (a), (c). Pub. L. 88–260 substituted “John F. Kennedy Center for the Performing Arts” for “National Cultural Center” wherever appearing.
 
-1963—Subsec. (a). Pub. L. 88–100, §1, substituted “thirty” for “fifteen” after “ex officio; and”.
+<b>1963</b>—Subsec. (a). Pub. L. 88–100, §1, substituted “thirty” for “fifteen” after “ex officio; and”.
 
 Subsec. (b). Pub. L. 88–100, §2, inserted provisions governing the terms of the additional fifteen general trustees added to the Board by section 1 of Pub. L. 88–100.
 
@@ -84,7 +84,7 @@ Section 2(b)(2) of Pub. L. 103–279 provided that:
 
 “(A)
 
-Superintendent of schools of the district of columbia.—The amendment made by paragraph (1)(C)(i) \[amending this section\] shall take effect on thedate of expiration of the term of the Chairman of the District of Columbia Recreation Board serving as a trustee of the John F. Kennedy Center for the Performing Arts on the date of enactment of this Act \[July 21, 1994\].
+Superintendent of schools of the district of columbia.—The amendment made by paragraph (1)(C)(i) \[amending this section\] shall take effect on the date of expiration of the term of the Chairman of the District of Columbia Recreation Board serving as a trustee of the John F. Kennedy Center for the Performing Arts on the date of enactment of this Act \[July 21, 1994\].
 
 “(B)
 

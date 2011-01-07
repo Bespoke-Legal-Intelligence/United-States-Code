@@ -24,7 +24,7 @@ Act of July 28, 1866; 14 Stat. 339, referred to in par. (2), is predecessor of R
 
 #### Amendments
 
-1988—Pars. (3) to (7). Pub. L. 100–418 added pars. (3) to (7).
+<b>1988</b>—Pars. (3) to (7). Pub. L. 100–418 added pars. (3) to (7).
 
 #### Short Title of 1996 Amendment
 

@@ -30,7 +30,7 @@ Ownership.—Each highway, bridge, tunnel, or approach thereto constructed under
 
 &emsp;(3)
 
-Limitations on use of revenues.—Before the Secretary may permit Federal participation under this subsection in construction of a highway, bridge, or tunnel located in a State, the public authority (including the State transportation department) having jurisdiction over the highway, bridge, or tunnel must enter into an agreement with the Secretary which provides that all toll revenues received from operation of the toll facility will be used first for debt service, for reasonable return on investment of any private person financing the project, and for the costs necessary for the proper operation and maintenance of the toll facility, including reconstruction, resurfacing, restoration, and rehabilitation. If the State certifies annually that the tolled facility is being adequately maintained, the State may use any toll revenues in excess of amounts required under the preceding sentence for any purpose for which Federal funds may be obligated by a State under this title.
+Limitations on use of revenues.—Before the Secretary may permit Federal participation under this subsection in construction of a highway, bridge, or tunnel located in a State, the public authority (including the State transportation department) having jurisdiction over the highway, bridge, or tunnel must enter into an agreement with the Secretarywhich provides that all toll revenues received from operation of the toll facility will be used first for debt service, for reasonable return on investment of any private person financing the project, and for the costs necessary for the proper operation and maintenance of the toll facility, including reconstruction, resurfacing, restoration, and rehabilitation. If the State certifies annually that the tolled facility is being adequately maintained, the State may use any toll revenues in excess of amounts required under the preceding sentence for any purpose for which Federal funds may be obligated by a State under this title.
 
 &emsp;(4)
 
@@ -98,11 +98,11 @@ Initial construction defined.—For purposes of this subsection, the term “ini
 
 &emsp;(1) It is not feasible to build a bridge, tunnel, combination thereof, or other normal highway structure in lieu of the use of such ferry.
 
-&emsp;(2) The operation of the ferry shall be on a route classified as a public road within the State and which has not been designated as a route on the Interstate System. Projects under this subsection may be eligible for both ferry boats carrying cars and passengers and ferry boats carrying passengers only.
+&emsp;(2) The operation of the ferry shall be on a route classified as a public road within theState and which has not been designated as a route on the Interstate System. Projects under this subsection may be eligible for both ferry boats carrying cars and passengers and ferry boats carrying passengers only.
 
 &emsp;(3) Such ferry boat or ferry terminal facility shall be publicly owned or operated or majority publicly owned if the Secretary determines with respect to a majority publicly owned ferry or ferry terminal facility that such ferry boat or ferry terminal facility provides substantial public benefits.
 
-&emsp;(4) The operating authority and the amount of fares charged for passage on such ferry shall be under the control of the State or other public entity, and all revenues derived therefrom shall be applied to actual and necessary costs of operation, maintenance, and <sup>1</sup> repair, debt service, negotiated management fees, and, inthe case of a privately operated toll ferry, for a reasonable rate of return.
+&emsp;(4) The operating authority and the amount of fares charged for passage on such ferry shall be under the control of the State or other public entity, and all revenues derived therefrom shall be applied to actual and necessary costs of operation, maintenance, and <sup>1</sup> repair, debt service, negotiated management fees, and, in the case of a privately operated toll ferry, for a reasonable rate of return.
 
 &emsp;(5) Such ferry may be operated only within the State (including the islands which comprise the State of Hawaii and the islands which comprise any territory of the United States) or between adjoining States or between a point in a State and a point in the Dominion of Canada. Except with respect to operations between the islands which comprise the State of Hawaii, operations between the islands which comprise any territory of the United States, operations between a point in a State and a point in the Dominion of Canada, and operations between any two points in Alaska and between Alaska and Washington, including stops at appropriate points in the Dominion of Canada, no part of such ferry operation shall be in any foreign or international waters.
 
@@ -118,15 +118,15 @@ For the effective date of title I of the Intermodal Surface Transportation Effic
 
 #### Amendments
 
-2005—Subsec. (c)(5). Pub. L. 109–59 substituted “any territory of the United States” for “the Commonwealth of Puerto Rico” in two places.
+<b>2005</b>—Subsec. (c)(5). Pub. L. 109–59 substituted “any territory of the United States” for “the Commonwealth of Puerto Rico” in two places.
 
-1998—Subsec. (b). Pub. L. 105–178, §1106(c)(1)(C), substituted “which is a public road and has not” for “which has been classified as a public road and has not” in first sentence.
+<b>1998</b>—Subsec. (b). Pub. L. 105–178, §1106(c)(1)(C), substituted “which is a public road and has not” for “which has been classified as a public road and has not” in first sentence.
 
 Subsec. (c)(3). Pub. L. 105–178, §1207(a), substituted “owned or operated or majority publicly owned if the Secretary determines with respect to a majority publicly owned ferry or ferry terminal facility that such ferry boat or ferry terminal facility provides substantial public benefits.” for “owned.”
 
 Subsec. (d). Pub. L. 105–178, §1211(f), formerly §1211(g), as renumbered by Pub. L. 105–206, §9003(d)(5), struck out subsec. (d) which related to pilot toll collection program.
 
-1995—Subsec. (a)(5). Pub. L. 104–59, §313(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows:
+<b>1995</b>—Subsec. (a)(5). Pub. L. 104–59, §313(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows:
 
 “(5)
 
@@ -140,11 +140,11 @@ Loans.—A State may loan all or part of the Federal share of a toll project und
 
 Subsec. (c)(5). Pub. L. 104–59, §313(c), inserted before period at end of first sentence “or between a point in a State and a point in the Dominion of Canada” and in second sentence substituted “Hawaii,” for “Hawaii and” and inserted “, operations between a point in a State and a point in the Dominion of Canada,” after “Puerto Rico”.
 
-1992—Subsec. (b). Pub. L. 102–388, §410(1), which directed the substitution of “classified as a public road” for “approved under section 103(b) or (b) of this title as a part of one of the Federal-aid systems”, was executed by making the substitution for “approved under section 103(b) or (c) of this title as a part of one of the Federal-aid systems” to reflect the probable intent of Congress.
+<b>1992</b>—Subsec. (b). Pub. L. 102–388, §410(1), which directed the substitution of “classified as a public road” for “approved under section 103(b) or (b) of this title as a part of one of the Federal-aid systems”, was executed by making the substitution for “approved under section 103(b) or (c) of this title as a part of one of the Federal-aid systems” to reflect the probable intent of Congress.
 
 Subsec. (c)(2). Pub. L. 102–388, §410(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The operation of the ferry shall be on a route which has been approved under section 103(b) or (c) of this title as a part of one of the Federal-aid systems within the State and has not been designated as a route on the Interstate System.”
 
-1991—Subsec. (a). Pub. L. 102–240, §1012(a), amended subsec. (a) generally, substituting present provisionsfor provisions authorizing Federal participation in construction or acquisition of toll bridges, tunnels and approaches, provided that facility was publicly owned and operated by State or public authority, and State or authority agreed that all tolls, less those used to offset cost of operation and maintenance, were to be applied to repayment of State or authority for cost of construction or acquisition, that no tolls were to be charged after such repayment, and that facility was to be free of charge thereafter, except in case of bridge connecting United States with foreign country.
+<b>1991</b>—Subsec. (a). Pub. L. 102–240, §1012(a), amended subsec. (a) generally, substituting present provisions for provisions authorizing Federal participation in construction or acquisition of toll bridges, tunnels and approaches, provided that facility was publicly owned and operated by State or public authority, and State or authority agreed that all tolls, less those used to offset cost of operation and maintenance, were to be applied to repayment of State or authority for cost of construction or acquisition, that no tolls were to be charged after such repayment, and that facility was to be free of charge thereafter, except in case of bridge connecting United States with foreign country.
 
 Subsec. (b). Pub. L. 102–240, §1012(c)(1), (2), redesignated subsec. (f) as (b) and struck out former subsec. (b) which authorized Secretary to approve toll roads, bridges and tunnels as part of Interstate System, authorized expenditure of Federal-aid highway funds on toll roads after they became toll-free, and required agreements between Secretary and State highway departments on construction of Interstate projects to forbid construction of toll roads, but not toll bridges and tunnels, on interstate highway route without official concurrence of Secretary, after June 30, 1968.
 
@@ -164,13 +164,13 @@ Subsec. (j). Pub. L. 102–240, §1012(c)(2), redesignated subsec. (j) as (d).
 
 Subsec. (k). Pub. L. 102–240, §1012(c)(1), struck out subsec. (k) which required operators of toll roads, tunnels, ferries and bridges on Federal-aid highway system to biennially certify to Governor of State that facilities were adequately maintained and that operator had ability to fund such facilities that were not adequately maintained without using Federal-aid highway funds, and which required Governor of each State to report biennially to Secretary on facilities required to so certify.
 
-1988—Subsec. (j)(1), (3). Pub. L. 100–457, §335, amended Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(d)(1), (2)(A), (C)\], see 1987 Amendment note below.
+<b>1988</b>—Subsec. (j)(1), (3). Pub. L. 100–457, §335, amended Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(d)(1), (2)(A), (C)\], see 1987 Amendment note below.
 
 Subsec. (j)(6). Pub. L. 100–457, §326(1), inserted “(and, in the case of the State of Texas, the Texas Turnpike Authority)” after “State highway department”.
 
 Subsec. (j)(10). Pub. L. 100–457, §326(2), added par. (10).
 
-1987—Subsec. (j). Pub. L. 100–17, §120(a), added subsec. (j).
+<b>1987</b>—Subsec. (j). Pub. L. 100–17, §120(a), added subsec. (j).
 
 Subsec. (j)(1). Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(d)(1)\], as amended by Pub. L. 100–457, §335, which directed the amendment of par. (1) by substituting “(9)” for “(9)” was executed by substituting “9” for “7” as the probable intent of Congress.
 
@@ -180,13 +180,13 @@ Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(d)(2)(B)–(D)\], as amend
 
 Subsec. (k). Pub. L. 100–17, §120(b), added subsec. (k).
 
-1978—Subsec. (i). Pub. L. 95–599 added subsec. (i).
+<b>1978</b>—Subsec. (i). Pub. L. 95–599 added subsec. (i).
 
-1976—Subsec. (g)(5). Pub. L. 94–280 authorized ferry operations within the islands which comprise the Commonwealth of Puerto Rico and excepted ferry operations between the islands which comprise the Commonwealth of Puerto Rico from the prohibition of ferry operations in foreign or international waters.
+<b>1976</b>—Subsec. (g)(5). Pub. L. 94–280 authorized ferry operations within the islands which comprise the Commonwealth of Puerto Rico and excepted ferry operations between the islands which comprise the Commonwealth of Puerto Rico from the prohibition of ferry operations in foreign or international waters.
 
-1975—Subsec. (g)(5). Pub. L. 93–643 substituted “operations between the islands which comprise the State of Hawaii and operations between any two points in Alaska and between Alaska and Washington, including stops at appropriate points in the Dominion of Canada” for “operations between the islands which comprise the State of Hawaii and operations between the States of Alaska and Washington, or between any two points within the State of Alaska”.
+<b>1975</b>—Subsec. (g)(5). Pub. L. 93–643 substituted “operations between the islands which comprise the State of Hawaii and operations between any two points in Alaska and between Alaska and Washington, including stops at appropriate points in the Dominion of Canada” for “operations between the islands which comprise the State of Hawaii and operations between the States ofAlaska and Washington, or between any two points within the State of Alaska”.
 
-1973—Subsec. (b). Pub. L. 93–87, §118(a), inserted third sentence providing that when any toll road which the Secretary has approved as a part of the Interstate System is made a toll-free facility, Federal-aid highway funds apportioned under section 104(b)(5) of this title may be expended for the construction, reconstruction, or improvement of that road to meet the standards adopted for the improvement of projects located on the Interstate System.
+<b>1973</b>—Subsec. (b). Pub. L. 93–87, §118(a), inserted third sentence providing that when any toll road which the Secretary has approved as a part of the Interstate System is made a toll-free facility, Federal-aid highway funds apportioned under section 104(b)(5) of this title may be expended for the construction, reconstruction, or improvement of that road to meet the standards adopted for the improvement of projects located on the Interstate System.
 
 Subsec. (e). Pub. L. 93–87, §118(b), struck from first sentence “on the date of enactment of this subsection” before “as he may find necessary” and substituted in third sentence “1973” for “1968”.
 
@@ -194,15 +194,15 @@ Subsecs. (f), (g). Pub. L. 93–87, §139, redesignated the second subsec. (f) a
 
 Subsec. (h). Pub. L. 93–87, §132, added subsec. (h).
 
-1972—Subsec. (a)(3). Pub. L. 92–434 substituted “or” for “and” making text read “maintained or operated”, and required domestic and foreign tolls for international bridges, and that the tolls be limited to amount necessary for maintenance, repair, and operation thereof.
+<b>1972</b>—Subsec. (a)(3). Pub. L. 92–434 substituted “or” for “and” making text read “maintained or operated”, and required domestic and foreign tolls for international bridges, and that the tolls be limited to amount necessary for maintenance, repair, and operation thereof.
 
-1970—Subsec. (e). Pub. L. 91–605, §133, added subsec. (e). Former subsec. (e), pertaining to ferry approaches, redesignated (f).
+<b>1970</b>—Subsec. (e). Pub. L. 91–605, §133, added subsec. (e). Former subsec. (e), pertaining to ferry approaches, redesignated (f).
 
 Subsec. (f). Pub. L. 91–605, §§133, 139, redesignated subsec. (e), relating to ferry approaches, as (f) and added a second subsec. (f) relating to ferry boats.
 
-1968—Subsec. (b). Pub. L. 90–495 required that, after June 30, 1968, as a condition for the addition of toll highway facilities on the Interstate System, the approval of the Secretary is required, with an affirmative finding that the construction of the road as a toll facility rather than a toll-free facility is in the public interest, but with such limitation on the construction of toll facilities not to extend to toll bridges and tunnels.
+<b>1968</b>—Subsec. (b). Pub. L. 90–495 required that, after June 30, 1968, as a condition for the addition of toll highway facilities on the Interstate System, the approval of the Secretary is required, with an affirmative finding that the construction of the road as a toll facility rather than a toll-free facility is in the public interest, but with such limitation on the construction of toll facilities not to extend to toll bridges and tunnels.
 
-1960—Pub. L. 86–657, §5(b), included ferries in section catchline.
+<b>1960</b>—Pub. L. 86–657, §5(b), included ferries in section catchline.
 
 Subsec. (c). Pub. L. 86–657, §8(a), struck out “under prior Acts” after “Funds authorized”.
 
@@ -564,7 +564,7 @@ Limitations on use of revenues; audits.—Before the Secretary may permit a Stat
 
 &emsp;&emsp;“(ii) reasonable return on investment of any private person financing the project; and
 
-&emsp;&emsp;“(iii) any costs necessary for the improvement of and the proper operation and maintenance of thetoll facility, including reconstruction, resurfacing, restoration, and rehabilitation of the toll facility; and
+&emsp;&emsp;“(iii) any costs necessary for the improvement of and the proper operation and maintenance of the toll facility, including reconstruction, resurfacing, restoration, and rehabilitation of the toll facility; and
 
 &emsp;“(B) regular audits will be conducted to ensure compliance with subparagraph (A) and the results of such audits will be transmitted to the Secretary.
 

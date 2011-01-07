@@ -56,7 +56,7 @@ Section 408(c) of Pub. L. 95–598, as amended, which provided for the repeal of
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–554, §111(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Attorney General shall appoint one United States trustee for each of the following districts or groups of districts:
+<b>1986</b>—Subsec. (a). Pub. L. 99–554, §111(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Attorney General shall appoint one United States trustee for each of the following districts or groups of districts:
 
 &emsp;“(1) District of Maine, District of New Hampshire, District of Massachusetts, and District of Rhode Island.
 
@@ -90,7 +90,7 @@ Pub. L. 99–554, title III, Oct. 27, 1986, 100 Stat. 3118, as amended by Pub. L
 
 “(a)
 
-Area for Which Appointed.—Notwithstanding any paragraph of section 581(a) of title 28, UnitedStates Code, as in effect before the effective date of this Act, a United States trustee serving in such office on the effective date of this Act shall serve the remaining term of such office as United States trustee for the region specified in a paragraph of such section, as amended by this Act, that includes the site at which the primary official station of the United States trustee is located immediately before the effective date of this Act.
+Area for Which Appointed.—Notwithstanding any paragraph of section 581(a) of title 28, United States Code, as in effect before the effective date of this Act, a United States trustee serving in such office on the effective date of this Act shall serve the remaining term of such office as United States trustee for the region specified in a paragraph of such section, as amended by this Act, that includes the site at which the primary official station of the United States trustee is located immediately before the effective date of this Act.
 
 “(b)
 
@@ -284,7 +284,7 @@ Judicial districts for the states of alabama and north carolina.—(A) Notwithst
 
 > &emsp;before the expiration of the 1-year period beginning on the date such election becomes effective.
 
-&emsp;“(G) Notwithstanding section 589a of title 28, United States Code, as added by section 115 of this Act, funds collected as a result of the amendments made by section 117 of this Act \[amending section 1930 of this title\] in a judicial district in the State of Alabama or the State of North Carolina under section 1930(a) of title 28, United States Code, before the date the amendments made by subtitle A of title II of this Act take effect in such district shall be deposited in the general receipts of the Treasury.
+&emsp;“(G) Notwithstanding section 589a of title 28, United States Code, as added by section 115 of this Act, funds collected as a result of the amendments made by section 117 of this Act \[amending section 1930 of this title\] in a judicial district in the State of Alabama or the State of North Carolina under section1930(a) of title 28, United States Code, before the date the amendments made by subtitle A of title II of this Act take effect in such district shall be deposited in the general receipts of the Treasury.
 
 &emsp;“(H) The repeal made by section 231 of this Act \[repealing chapter 15 of title 11\] shall not apply in or with respect to the Northern District of Alabama until March 1, 1987, or the effective date of any election made under subparagraph (A) by such district, whichever occurs first.
 
@@ -312,7 +312,7 @@ In general.—Subject to paragraph (2), with respect to cases under chapters 7, 
 
 &emsp;“(2)
 
-Amendments inapplicable.—For purposes of paragraph (1), the amendments made by section 113 and subtitle A of title II of this Act, and section 1930(a)(6) of title 28 of the United States Code (asadded by section 117(4) of this Act), shall not apply with respect to a case under chapter 7, 11, 12, or 13 of title 11, United States Code, if—
+Amendments inapplicable.—For purposes of paragraph (1), the amendments made by section 113 and subtitle A of title II of this Act, and section 1930(a)(6) of title 28 of the United States Code (as added by section 117(4) of this Act), shall not apply with respect to a case under chapter 7, 11, 12, or 13 of title 11, United States Code, if—
 
 &emsp;&emsp;“(A) the trustee in the case files the final report and account of administration of the estate, required under section 704 of such title, or
 
@@ -410,11 +410,11 @@ Standing Trustees in Bankruptcy Cases Under Chapter 13.—It is the sense of the
 
 “(a)
 
-Establishment of Project.—Not later than 1 year after the effective date of this Act, the Director ofthe Executive Office for United States Trustees, in consultation with the Director of the Administrative Office of the United States Courts, shall establish an electronic case management demonstration project to be carried out in 3 Federal judicial districts that have a sufficiently large and varied bankruptcy caseload so as to provide a meaningful evaluation of the cost and effectiveness of such system. A contract for such project shall be awarded—
+Establishment of Project.—Not later than 1 year after the effective date of this Act, the Director of the Executive Office for United States Trustees, in consultation with the Director of the Administrative Office of the United States Courts, shall establish an electronic case management demonstration project to be carried out in 3 Federal judicial districts that have a sufficiently large and varied bankruptcy caseload so as to provide a meaningful evaluation of the cost and effectiveness of such system. A contract for such project shall be awarded—
 
 &emsp;“(1) on the basis of competitive bids submitted by qualified nongovernmental entities that are able to design an automated joint information system for use by the United States courts and by United States trustees, and
 
-&emsp;“(2) in accordance with the Federal Property and Administrative Services Act of 1949 \[now chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and title III of the Act of June 30, 1949 (41 U.S.C. 251 et seq.)\], the Office of Federal Procurement Policy Act \[see Short Title note under 41 U.S.C. 401\], and title 31 of the United States Code.
+&emsp;“(2) in accordance with the Federal Property and Administrative Services Act of 1949 \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], the Office of Federal Procurement Policy Act \[see division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of Title 41\], and title 31 of the United States Code.
 
 “(b)
 

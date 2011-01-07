@@ -6,7 +6,7 @@ Irrigation water made available in the operation of reclamation project faciliti
 
 #### (b) Continued delivery of irrigation water to lands held in excess of ownership limitations
 
-Lands held in excess of the ownership limitations imposed by Federal reclamation law, including this subchapter, which, on October 12, 1982, are, or are capable of, receiving delivery of irrigation water made available by the operation of existing reclamation project facilities may receive such deliveries only—
+Lands held in excess of the ownership limitations imposed by Federal reclamation law, including this subchapter, which, on October 12,1982, are, or are capable of, receiving delivery of irrigation water made available by the operation of existing reclamation project facilities may receive such deliveries only—
 
 &emsp;(1) if the disposal of the owner's interest in such lands is required by an existing recordable contract with the Secretary, or
 

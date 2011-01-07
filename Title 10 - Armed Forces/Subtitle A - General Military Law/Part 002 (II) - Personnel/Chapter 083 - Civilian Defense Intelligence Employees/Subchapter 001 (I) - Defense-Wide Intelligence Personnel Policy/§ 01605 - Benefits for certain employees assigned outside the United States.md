@@ -24,9 +24,9 @@
 
 #### Amendments
 
-1999—Subsec. (c)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
+<b>1999</b>—Subsec. (c)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
-1996—Pub. L. 104–201 substituted “assigned outside the United States” for “of the Defense Intelligence Agency” in section catchline.
+<b>1996</b>—Pub. L. 104–201 substituted “assigned outside the United States” for “of the Defense Intelligence Agency” in section catchline.
 
 Subsec. (a). Pub. L. 104–93, §502(a)(1), designated first sentence of existing text as par. (1) and substituted “described in subsection (d)” for “of the Department of Defense who are United States nationals, who are assigned to Defense Attache�AE1 Offices and Defense Intelligence Agency Liaison Offices outside the United States, and who are designated by the Secretary of Defense for the purposes of this subsection,”, and designated second sentence of existing text as par. (2).
 
@@ -34,17 +34,17 @@ Subsec. (c). Pub. L. 104–93, §502(a)(2), added subsec. (c) and struck out for
 
 Subsec. (d). Pub. L. 104–93, §502(a)(3), added subsec. (d).
 
-1993—Subsec. (a). Pub. L. 103–160 substituted “(50 U.S.C. 2153)” for “(50 U.S.C. 403 note)”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–160 substituted “(50 U.S.C. 2153)” for “(50 U.S.C. 403 note)”.
 
-1992—Subsec. (a). Pub. L. 102–496 substituted “the Central Intelligence Agency Retirement Act” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees” and inserted “(50 U.S.C. 403r)” after “the Central Intelligence Agency Act of 1949”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–496 substituted “the Central Intelligence Agency Retirement Act” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees” and inserted “(50 U.S.C. 403r)” after “the Central Intelligence Agency Act of 1949”.
 
-1989—Subsec. (a). Pub. L. 101–193 struck out “who are subject to chapter 84 of title 5,” after “such civilian personnel” in last sentence and inserted reference to section 18 of the Central Intelligence Agency Act of 1949.
+<b>1989</b>—Subsec. (a). Pub. L. 101–193 struck out “who are subject to chapter 84 of title 5,” after “such civilian personnel” in last sentence and inserted reference to section 18 of the Central Intelligence Agency Act of 1949.
 
-1986—Subsec. (a). Pub. L. 99–569 inserted reference to par. (5) of section 901 of the Foreign Service Act of 1980 (22 U.S.C. 4081(5)).
+<b>1986</b>—Subsec. (a). Pub. L. 99–569 inserted reference to par. (5) of section 901 of the Foreign Service Act of 1980 (22 U.S.C. 4081(5)).
 
 Pub. L. 99–335 inserted provision authorizing the Secretary to provide to any civilian personnel subject to chapter 84 of title 5 special retirement accrual benefits in the same manner provided for certain officers and employees of the Central Intelligence Agency in section 303 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees.
 
-1985—Subsec. (a). Pub. L. 99–145, §1302(a)(1)(A), (B), struck out references to Director of the Defense Intelligence Agency and to military personnel, substituted “sections 705 and 903” for “under sections 903, 705, and 2308”, and substituted “(22 U.S.C. 4081(2), (3), (4), (6), (7), (8), and (13), 4025, 4083) and under section 5924(4) of title 5.” for “(22 U.S.C. 4025; 22 U.S.C. 4081(2), (3), (4), (6), (7), (8), and (13); 22 U.S.C. 4083; 5 U.S.C. 5924(4)).”
+<b>1985</b>—Subsec. (a). Pub. L. 99–145, §1302(a)(1)(A), (B), struck out references to Director of the Defense Intelligence Agency and to military personnel, substituted “sections 705 and 903” for “under sections 903, 705, and 2308”, and substituted “(22 U.S.C. 4081(2), (3), (4), (6), (7),\(8), and (13), 4025, 4083) and under section 5924(4) of title 5.” for “(22 U.S.C. 4025; 22 U.S.C. 4081(2), (3), (4), (6), (7), (8), and (13); 22 U.S.C. 4083; 5 U.S.C. 5924(4)).”
 
 Subsec. (b). Pub. L. 99–145, §1302(a)(1)(A), struck out reference to Director of the Defense Intelligence Agency.
 

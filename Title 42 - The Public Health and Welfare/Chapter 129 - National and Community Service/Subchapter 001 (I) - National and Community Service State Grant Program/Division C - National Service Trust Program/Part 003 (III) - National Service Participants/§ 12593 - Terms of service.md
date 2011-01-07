@@ -58,7 +58,7 @@ As a condition of receiving a national service education award under division D 
 
 #### Amendments
 
-2009—Subsec. (b)(1). Pub. L. 111–13, §1314(1)(A), struck out “not less than 9 months and” before “not more than 1 year”.
+<b>2009</b>—Subsec. (b)(1). Pub. L. 111–13, §1314(1)(A), struck out “not less than 9 months and” before “not more than 1 year”.
 
 Subsec. (b)(2). Pub. L. 111–13, §1314(1)(B), substituted “during a period of not more than 2 years.” for “during a period of—
 

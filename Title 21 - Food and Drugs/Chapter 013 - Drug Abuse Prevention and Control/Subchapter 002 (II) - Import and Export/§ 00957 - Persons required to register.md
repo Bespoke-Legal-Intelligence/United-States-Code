@@ -30,7 +30,7 @@ Section 802(25) of this title, referred to in subsec. (b)(1)(C), was redesignate
 
 #### Amendments
 
-1993—Subsec. (a)(1). Pub. L. 103–200, §3(e)(1)(A), inserted “or list I chemical” after “controlled substance”.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–200, §3(e)(1)(A), inserted “or list I chemical” after “controlled substance”.
 
 Subsec. (a)(2). Pub. L. 103–200, §3(e)(1)(B), substituted “or list I chemical,” for “in schedule I, II, III, IV, or V,”.
 
@@ -38,7 +38,7 @@ Subsec. (b)(1). Pub. L. 103–200, §3(e)(2)(A), inserted “or list I chemical�
 
 Subsec. (b)(2). Pub. L. 103–200, §3(e)(2)(B), inserted “or list I chemicals” after “controlled substances”.
 
-1984—Subsec. (a)(2). Pub. L. 98–473 inserted reference to schedule V.
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–473 inserted reference to schedule V.
 
 #### Effective Date of 1993 Amendment
 

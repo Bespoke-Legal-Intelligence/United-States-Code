@@ -54,7 +54,7 @@ Sections 661 and 662 of title 42, referred to in subsec. (c)(2), were repealed b
 
 #### Amendments
 
-1997—Subsec. (g). Pub. L. 105–85, §3546(2), added subsec. (g). Former subsec. (g) redesignated (h).
+<b>1997</b>—Subsec. (g). Pub. L. 105–85, §3546(2), added subsec. (g). Former subsec. (g) redesignated (h).
 
 Subsec. (h). Pub. L. 105–85, §3550(d)(3), made technical amendment to reference in original act which appears in text as reference to section 3612b of this title.
 

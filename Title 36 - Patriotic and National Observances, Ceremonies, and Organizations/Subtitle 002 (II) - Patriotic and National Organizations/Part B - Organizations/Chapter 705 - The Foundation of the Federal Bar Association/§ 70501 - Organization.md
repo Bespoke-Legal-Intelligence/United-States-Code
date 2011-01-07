@@ -24,7 +24,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-70501D36:571.DAug. 24, 1954, ch. 911, §§1, 2, 68 Stat. 795.
+70501
+
+36:571.
+
+Aug. 24, 1954, ch. 911, §§1, 2, 68 Stat. 795.
 
 &nbsp;
 

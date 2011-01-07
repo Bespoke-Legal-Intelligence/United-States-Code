@@ -12,5 +12,5 @@ The Secretary may—
 
 #### Amendments
 
-1978—Pub. L. 95–617 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration in two places.
+<b>1978</b>—Pub. L. 95–617 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration in two places.
 

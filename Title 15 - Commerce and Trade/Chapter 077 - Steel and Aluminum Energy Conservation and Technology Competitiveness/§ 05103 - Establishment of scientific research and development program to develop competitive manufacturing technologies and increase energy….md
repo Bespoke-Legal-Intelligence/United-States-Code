@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-The Secretary, pursuant to the authority provided under provisions of the Federal Nonnuclear Research and Development Act of 1974 (42 U.S.C. 5901, et seq.), shall reestablish an industrial energy conservation and competitivetechnology program to conduct scientific research and development of steel and aluminum technologies to carry out the purposes of this chapter. Such program shall provide the financial and technical assistance and other incentives which, in the judgment of the Secretary, are necessary to carry out the purposes of this chapter.
+The Secretary, pursuant to the authority provided under provisions of the Federal Nonnuclear Research and Development Act of 1974 (42 U.S.C. 5901, et seq.), shall reestablish an industrial energy conservation and competitive technology program to conduct scientific research and development of steel and aluminum technologies to carry out the purposes of this chapter. Such program shall provide the financial and technical assistance and other incentives which, in the judgment of the Secretary, are necessary to carry out the purposes of this chapter.
 
 #### (b) Management plan
 
@@ -80,9 +80,9 @@ The Federal Nonnuclear Research and Development Act of 1974, referred to in subs
 
 #### Amendments
 
-2008—Subsec. (c)(1)(H). Pub. L. 110–229, §602(b)(1), substituted “sheet and bar steels” for “coatings for sheet steels”.
+<b>2008</b>—Subsec. (c)(1)(H). Pub. L. 110–229, §602(b)(1), substituted “sheet and bar steels” for “coatings for sheet steels”.
 
 Subsec. (c)(1)(K). Pub. L. 110–229, §602(b)(2), added subpar. (K).
 
-1992—Subsec. (b)(5). Pub. L. 102–486 substituted “Industrial Technologies” for “Industrial Programs”.
+<b>1992</b>—Subsec. (b)(5). Pub. L. 102–486 substituted “Industrial Technologies” for “Industrial Programs”.
 

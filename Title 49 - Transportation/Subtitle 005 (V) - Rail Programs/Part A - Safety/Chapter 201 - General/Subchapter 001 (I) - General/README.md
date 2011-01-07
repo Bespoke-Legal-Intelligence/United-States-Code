@@ -1,13 +1,5 @@
 ### SUBCHAPTER I—GENERAL
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Federal Grants to States for Highway-Rail Grade Crossing Safety”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “State Rail Plans”.</i>
-
-<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 110–53 without corresponding amendment of chapter analysis.</i>
-
-<i><sup>2</sup></i><i> So in original. Does not conform to section catchline.</i>
-
 
 ---
 

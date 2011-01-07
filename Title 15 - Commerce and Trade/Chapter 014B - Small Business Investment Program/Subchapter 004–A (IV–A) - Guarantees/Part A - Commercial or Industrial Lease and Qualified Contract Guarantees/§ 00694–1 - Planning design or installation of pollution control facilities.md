@@ -4,7 +4,7 @@
 
 For purposes of this section, the term—
 
-&emsp;(1) “pollution control facilities” means such property (both real and personal) as the Administration in its discretion determines is likely to help prevent, reduce, abate, or control noise, air or water pollution or contamination by removing, altering, disposing orstoring pollutants, contaminants, wastes, or heat, and such property (both real and personal) as the Administration determines will be used for the collection, storage, treatment, utilization, processing, or final disposal of solid or liquid waste.
+&emsp;(1) “pollution control facilities” means such property (both real and personal) as the Administration in its discretion determines is likely to help prevent, reduce, abate, or control noise, air or water pollution or contamination by removing, altering, disposing or storing pollutants, contaminants, wastes, or heat, and such property (both real and personal) as the Administration determines will be used for the collection, storage, treatment, utilization, processing, or final disposal of solid or liquid waste.
 
 &emsp;(2) “person” includes corporations, companies, associations, firms, partnerships, societies, joint stock companies, States, territories, and possessions of the United States, or subdivisions of any of the foregoing, and the District of Columbia, as well as individuals.
 
@@ -22,7 +22,7 @@ The Administration may, whenever it determines that small business concerns are 
 
 #### (c) Uniform annual fees; processing fees; time and condition for payment; periodic review
 
-The Administration shall fix a uniform annual fee for any guarantee issued under this section which shall be payable at such time and under such conditions as may be prescribed by the Administrator. The fee shall be set at an amount which the Administration deems reasonable and necessary and shall be subject to periodic review in order that the lowest fee that experience under the program shows to be justified will be placed into effect. In no case shall such amount be less than 1 per centum or more than 31/2 per centum per annum of the minimum annual guaranteed rental payable under any qualified contract guaranteed under this section. The Administration may also fix such uniform fees for the processing of applications for guarantees under this section as the Administrator determines are reasonable and necessary to pay the administrative expenses that are incurred in connection therewith.
+The Administration shall fix a uniform annual fee for any guarantee issued under this section which shall be payable at such time and under such conditions as may be prescribed by the Administrator. The fee shall be set at an amount which the Administration deems reasonable and necessary and shall be subject to periodic review in order that the lowest fee that experience under the program shows to be justified will be placed into effect. In no case shall such amount be less than 1 per centum or more than 3½ per centum per annum of the minimum annual guaranteed rental payable under any qualified contract guaranteed under this section. The Administration may also fix such uniform fees for the processing of applications for guarantees under this section as the Administrator determines are reasonable and necessary to pay the administrative expenses that are incurred in connection therewith.
 
 #### (d) Requirements of Administration; escrow; default; discretionary provisions
 
@@ -48,7 +48,7 @@ Section 693 of this title shall apply to the administration of this section.
 
 #### Amendments
 
-1984—Subsec. (b)(1). Pub. L. 98–473, §115(1), (2), substituted “shall be issued” for “may be issued” and inserted “, and the Administration is expressly prohibited from denying such guarantee due to the property being so acquired”.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–473, §115(1), (2), substituted “shall be issued” for “may be issued” and inserted “, and the Administration is expressly prohibited from denying such guarantee due to the property being so acquired”.
 
-Subsec. (c). Pub. L. 98–473, §115(3), substituted “be less than 1 per centum or more than 31/2 per centum” for “exceed 31/2 per centum”.
+Subsec. (c). Pub. L. 98–473, §115(3), substituted “be less than 1 per centum or more than 3½ per centum” for “exceed 3½ per centum”.
 

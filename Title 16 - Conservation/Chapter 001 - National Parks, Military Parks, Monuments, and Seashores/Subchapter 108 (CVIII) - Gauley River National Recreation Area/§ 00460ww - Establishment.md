@@ -6,7 +6,7 @@ In order to protect and preserve the scenic, recreational, geological, and fish 
 
 #### (b) Area included
 
-The recreation area shall consist of the land, waters, and interests therein generally depicted on the boundary map entitled “Gauley River National Recreation Area”, numbered NRA–GR/20,000A and dated July 1987 and on the boundarymap depicting the Meadow River, numbered WSR–MEA/20,000A and dated July 1988. The map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior.
+The recreation area shall consist of the land, waters, and interests therein generally depicted on the boundary map entitled “Gauley River National Recreation Area”, numbered NRA–GR/20,000A and dated July 1987 and on the boundary map depicting the Meadow River, numbered WSR–MEA/20,000A and dated July 1988. The map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior.
 
 #### (c) Boundary modifications
 
@@ -20,7 +20,7 @@ This Act, referred to in subsec. (a), is Pub. L. 100–534, Oct. 26, 1988, 102 S
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
 <i><sup>1</sup></i><i> So in original. Should be “referred”.</i>
 

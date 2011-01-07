@@ -12,7 +12,7 @@ The State leadership activities described in subsection (a) shall include—
 
 &emsp;(2) developing, improving, or expanding the use of technology in career and technical education that may include—
 
-&emsp;&emsp;(A) training of career and technical education teachers, faculty, career guidance andacademic counselors, and administrators to use technology, including distance learning;
+&emsp;&emsp;(A) training of career and technical education teachers, faculty, career guidance and academic counselors, and administrators to use technology, including distance learning;
 
 &emsp;&emsp;(B) providing career and technical education students with the academic and career and technical skills (including the mathematics and science knowledge that provides a strong basis for such skills) that lead to entry into technology fields, including non-traditional fields; or
 
@@ -142,7 +142,7 @@ An eligible agency that receives funds under section 2322(a)(2) of this title ma
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(3)(E), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title II of the Act is classified generally to subchapter II (§6601 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(3)(E), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title II of the Actis classified generally to subchapter II (§6601 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (b)(3)(E), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title II of the Act is classified generally to subchapter II (§1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 

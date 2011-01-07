@@ -68,7 +68,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) repair or rebuilding described in clause (i) if, in the normal course of usage, the structure becomes structurally unsound and is no longer fit to provide the level of protection for which the structure was designed.
 
-(Aug. 18, 1941, ch. 377, §5, 55 Stat. 650; July 24, 1946, ch. 596, §12, 60 Stat. 652; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; June 30, 1948, ch. 771, title II, §206, 62 Stat. 1182; May 17, 1950, ch. 188, title II, §210, 64 Stat. 183; June 28, 1955, ch. 194, 69 Stat. 186; Pub. L. 87–874, title II, §206, Oct. 23, 1962, 76 Stat. 1194; Pub. L. 93–251, title I, §82, Mar. 7, 1974, 88 Stat. 34; Pub. L. 95–51, §2, June 20, 1977, 91 Stat. 233; Pub. L. 99–662, title IX, §917, Nov. 17, 1986, 100 Stat. 4192; Pub. L. 100–45, §9, May 27, 1987, 101 Stat. 323; Pub. L. 100–707, title I, §109(m), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–640, title III, §302, Nov. 28, 1990, 104 Stat. 4633; Pub. L. 104–303, title II, §202(e), (f), Oct. 12, 1996, 110 Stat. 3675.)
+(Aug. 18, 1941, ch. 377, §5, 55 Stat. 650; July 24, 1946, ch. 596, §12, 60 Stat. 652; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; June 30, 1948, ch. 771, title II, §206, 62 Stat. 1182; May 17, 1950, ch. 188, title II, §210, 64 Stat. 183; June 28, 1955, ch. 194, 69 Stat. 186; Pub. L. 87–874, title II, §206, Oct. 23, 1962, 76 Stat. 1194; Pub. L. 93–251, title I, §82, Mar. 7, 1974, 88 Stat. 34; Pub. L. 95–51, §2, June 20, 1977, 91 Stat. 233; Pub. L. 99–662, title IX, §917, Nov. 17, 1986, 100 Stat. 4192; Pub. L. 100–45, §9, May 27, 1987, 101 Stat. 323; Pub. L. 100–707, titleI, §109(m), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–640, title III, §302, Nov. 28, 1990, 104 Stat. 4633; Pub. L. 104–303, title II, §202(e), (f), Oct. 12, 1996, 110 Stat. 3675.)
 
 #### References in Text
 
@@ -76,31 +76,31 @@ The Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(1),
 
 #### Amendments
 
-1996—Subsec. (a)(1). Pub. L. 104–303, §202(e), in first sentence, inserted “, or in implementation of nonstructural alternatives to the repair or restoration of such flood control work if requested by the non-Federal sponsor”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–303, §202(e), in first sentence, inserted “, or in implementation of nonstructural alternatives to the repair or restoration of such flood control work if requested by the non-Federal sponsor”.
 
 Subsec. (c). Pub. L. 104–303, §202(f), added subsec. (c).
 
-1990—Subsec. (a)(1). Pub. L. 101–640 substituted “preparation for emergency response to any natural disaster” for “flood emergency preparation” and inserted provision permitting the emergency fund to be used for emergency dredging for restoration of authorized depths for Federal navigable channels and waterways made necessary by flood, drought, earthquake, or other natural disasters.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–640 substituted “preparation for emergency response to any natural disaster” for “flood emergency preparation” and inserted provision permitting the emergency fund to be used for emergency dredging for restoration of authorized depths for Federal navigable channels and waterways made necessary by flood, drought, earthquake, or other natural disasters.
 
-1988—Subsec. (a)(1). Pub. L. 100–707 substituted “and Emergency Assistance Act” for “Act of 1974”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–707 substituted “and Emergency Assistance Act” for “Act of 1974”.
 
-1987—Subsec. (a). Pub. L. 100–45 designated existing provisions as par. (1) and added par. (2).
+<b>1987</b>—Subsec. (a). Pub. L. 100–45 designated existing provisions as par. (1) and added par. (2).
 
-1986—Subsec. (a). Pub. L. 99–662 inserted provision relating to authority of the Chief of Engineers, when the Governor of an affected State requests a determination that an emergency or major disaster exists, to perform on public and private lands and waters, for a period of ten days following the Governor's request, any emergency work made necessary by such emergency or disaster which is essential for the preservation of life and property, and substituted “clean water” for “clean drinking water” and “contaminated water” for “contaminated drinking water”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–662 inserted provision relating to authority of the Chief of Engineers, when the Governor of an affected State requests a determination that an emergency or major disaster exists, to perform on public and private lands and waters, for a period of ten days following the Governor's request, any emergency work made necessary by such emergency or disaster which is essential for the preservation of life and property, and substituted “clean water” for “clean drinking water” and “contaminated water” for “contaminated drinking water”.
 
-1977—Pub. L. 95–51 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1977</b>—Pub. L. 95–51 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1974—Pub. L. 93–251 struck out limitation of emergency fund to $15,000,000, provided for emergency supplies of clean drinking water to localities confronted with source of contaminated drinking water, and substituted in proviso “of sums to such emergency fund” for “of said sum”.
+<b>1974</b>—Pub. L. 93–251 struck out limitation of emergency fund to $15,000,000, provided for emergency supplies of clean drinking water to localities confronted with source of contaminated drinking water, and substituted in proviso “of sums to such emergency fund” for “of said sum”.
 
-1962—Pub. L. 87–874 authorized expenditures from the emergency fund for the protection of federally authorized hurricane or shore protection being threatened when such is warranted to protect against imminent and substantial loss to life and property, and for the repair and restoration of any such federally authorized hurricane or shore protective structure damaged or destroyed by wind or water action of an extraordinary nature when such is warranted for the adequate functioning of the structure for hurricane or shore protection.
+<b>1962</b>—Pub. L. 87–874 authorized expenditures from the emergency fund for the protection of federally authorized hurricane or shore protection being threatened when such is warranted to protect against imminent and substantial loss to life and property, and for the repair and restoration of any such federally authorized hurricane or shore protective structure damaged or destroyed by wind or water action of an extraordinary nature when such is warranted for the adequate functioning of the structure for hurricane or shore protection.
 
-1955—Act June 28, 1955, authorized expenditure for flood emergency preparation and eliminated the requirement of maintenance of flood control works threatened by flood.
+<b>1955</b>—Act June 28, 1955, authorized expenditure for flood emergency preparation and eliminated the requirement of maintenance of flood control works threatened by flood.
 
-1950—Act May 17, 1950, expanded scope of work considered under emergency repairs to flood-control structures, and substituted “$15,000,000” for “$2,000,000”.
+<b>1950</b>—Act May 17, 1950, expanded scope of work considered under emergency repairs to flood-control structures, and substituted “$15,000,000” for “$2,000,000”.
 
-1948—Act June 30, 1948, inserted provisions relating to the strengthening, extending, or modification of flood-control works.
+<b>1948</b>—Act June 30, 1948, inserted provisions relating to the strengthening, extending, or modification of flood-control works.
 
-1946—Act July 24, 1946, substituted “$2,000,000” for “$1,000,000”.
+<b>1946</b>—Act July 24, 1946, substituted “$2,000,000” for “$1,000,000”.
 
 #### Change of Name
 

@@ -58,7 +58,7 @@ Historical and Revision Notes
 
 Oct. 12, 1949, ch. 681, §§401(a), 402(c) (less clause (5), and less last proviso), 402(f) (as applicable to §402(c)), 63 Stat. 816, 817, 820.
 
-37:271(a) is omitted as surplusage. As it relates to retirement it is only a statement of the general coverage of the retirement sections of this chapter. As it relates to separation it is only a statement of the general coverage of the separation sections of this chapter. The words “a member not covered by section 1201, 1202, or 1203 of this title” are substituted for the words “a member other than those members covered in subsections (a) and (b) of this section”. The words “if the Secretary also determines that” are substituted for the words “That if condition (5) above is met by a finding that”, in 37:272(c). The words “of such member”, “upon retirement”, and “to receive”, in 37:272(c), are omitted as surplusage.
+37:271(a) is omitted as surplusage. As it relates to retirement it is only a statement of the general coverage of the retirement sections of this chapter. As it relates to separation it is only a statement of the general coverage of the separation sections of this chapter. The words “a member \* \* \* not covered by section 1201, 1202, or 1203 of this title” are substituted for the words “a member \* \* \* other than those members covered in subsections (a) and (b) of this section”. The words “if the Secretary also determines that” are substituted for the words “That if condition (5) above is met by a finding that”, in 37:272(c). The words “of such member”, “upon retirement”, and “to receive”, in 37:272(c), are omitted as surplusage.
 
 In clause (1), the words “based upon accepted medical principles” are inserted as a necessary implication of the rule stated in 37:272(c)(5).
 
@@ -72,11 +72,11 @@ In clause (4)(B), the words “at the time of the determination” are substitut
 
 #### Amendments
 
-2001—Par. (2)(B)(iii). Pub. L. 107–107, struck out “, if the site of the inactive-duty training is outside reasonable commuting distance of the member's residence” before semicolon.
+<b>2001</b>—Par. (2)(B)(iii). Pub. L. 107–107, struck out “, if the site of the inactive-duty training is outside reasonable commuting distance of the member's residence” before semicolon.
 
-1999—Par. (2)(C). Pub. L. 106–65 added subpar. (C).
+<b>1999</b>—Par. (2)(C). Pub. L. 106–65 added subpar. (C).
 
-1997—Pub. L. 105–85, §513(d)(1), amended section catchline generally, inserting “or on inactive-duty training” after “30 days or less”.
+<b>1997</b>—Pub. L. 105–85, §513(d)(1), amended section catchline generally, inserting “or on inactive-duty training” after “30 days or less”.
 
 Par. (2). Pub. L. 105–85, §513(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the disability is the proximate result of, or was incurred in line of duty after the date of the enactment of this Act as a result of—
 
@@ -86,15 +86,15 @@ Par. (2). Pub. L. 105–85, §513(c)(1), amended par. (2) generally. Prior to am
 
 &emsp;“(C) an injury, illness, or disease incurred or aggravated while remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive duty training, if the site is outside reasonable commuting distance of the member's residence;”.
 
-1996—Par. (2). Pub. L. 104–201 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the disability is the proximate result of performing active duty or inactive-duty training or of traveling directly to or from the place at which such duty is performed;”.
+<b>1996</b>—Par. (2). Pub. L. 104–201 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the disability is the proximate result of performing active duty or inactive-duty training or of traveling directly to or from the place at which such duty is performed;”.
 
-1992—Par. (2). Pub. L. 102–484 inserted before semicolon at end “or of traveling directly to or from the place at which such duty is performed”.
+<b>1992</b>—Par. (2). Pub. L. 102–484 inserted before semicolon at end “or of traveling directly to or from the place at which such duty is performed”.
 
-1989—Par. (4)(B). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1989</b>—Par. (4)(B). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1986—Pub. L. 99–661 struck out “; disability from injury” after “30 days or less” in section catchline and “resulting from an injury” after “because of physical disability” in provisions preceding par. (1).
+<b>1986</b>—Pub. L. 99–661 struck out “; disability from injury” after “30 days or less” in section catchline and “resulting from an injury” after “because of physical disability” in provisions preceding par. (1).
 
-1985—Par. (1). Pub. L. 99–145 inserted “and stable” after “permanent nature”.
+<b>1985</b>—Par. (1). Pub. L. 99–145 inserted “and stable” after “permanent nature”.
 
 #### Effective Date of 1992 Amendment
 

@@ -20,7 +20,7 @@
 
 &emsp;(B) an adjustment in rates of pay for Members of the House of Representatives (other than an adjustment which occurs by virtue of an adjustment described in subparagraph (A)).
 
-(3) For the purpose of this section, the term “Member of the House of Representatives” means a Member of the House of Representatives, a Delegate to the House of Representatives, and the Resident Commissioner from Puerto Rico.
+(3) For the purpose of this section, the term “Member of the House of Representatives”means a Member of the House of Representatives, a Delegate to the House of Representatives, and the Resident Commissioner from Puerto Rico.
 
 (Pub. L. 100–202, §101(i) \[title III, §311(d)\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–310; Pub. L. 101–520, title III, §308, Nov. 5, 1990, 104 Stat. 2277; Pub. L. 102–90, title III, §308, Aug. 14, 1991, 105 Stat. 466; Pub. L. 104–186, title II, §204(2), Aug. 20, 1996, 110 Stat. 1729.)
 

@@ -8,7 +8,7 @@ Congress finds that—
 
 &emsp;(2) increasing the quantity of applications from all States to the SBIR and STTR programs would enhance competition for such awards and the quality of the completed projects; and
 
-&emsp;(3) mentoring is a natural complement to the FAST program of reaching out to new companies regarding the SBIR and STTR programs as an effective and low-cost way to improve the likelihood that such companies will succeed in such programs in developing and commercializing their research.
+&emsp;(3) mentoring is a natural complement to the FAST program of reaching out to newcompanies regarding the SBIR and STTR programs as an effective and low-cost way to improve the likelihood that such companies will succeed in such programs in developing and commercializing their research.
 
 #### (b) Authorization for Mentoring Networks
 
@@ -56,7 +56,7 @@ A Mentoring Network established using assistance under section 657d of this titl
 
 The Administrator shall—
 
-&emsp;(1) include in the database required by section 638(k)(1) of this title, in cooperation with the SBIR, STTR, and FAST programs, information on Mentoring Networks and mentorsparticipating under this section, including a description of their areas of expertise;
+&emsp;(1) include in the database required by section 638(k)(1) of this title, in cooperation with the SBIR, STTR, and FAST programs, information on Mentoring Networks and mentors participating under this section, including a description of their areas of expertise;
 
 &emsp;(2) work cooperatively with Mentoring Networks to maintain and update the database;
 

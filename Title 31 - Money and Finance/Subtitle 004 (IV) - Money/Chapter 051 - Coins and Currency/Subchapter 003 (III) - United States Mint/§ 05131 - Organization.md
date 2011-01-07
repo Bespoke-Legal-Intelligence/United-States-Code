@@ -14,7 +14,7 @@
 
 (c) Laws on mints, officers and employees of mints, and punishment of offenses related to mints and minting coins apply to assay offices, as applicable.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 988; Pub. L. 100–274, §2(a)–(c)(2), Mar. 31, 1988, 102 Stat. 48;Pub. L. 102–390, title II, §§224, 225(b)(3), (4), Oct. 6, 1992, 106 Stat. 1629; Pub. L. 104–208, div. A, title I, §101(f) \[title V, §§503, 522\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–344, 3009–347; Pub. L. 104–329, title III, §304, Oct. 20, 1996, 110 Stat. 4015.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 988; Pub. L. 100–274, §2(a)–(c)(2), Mar. 31, 1988, 102 Stat. 48; Pub. L. 102–390, title II, §§224, 225(b)(3), (4), Oct. 6, 1992, 106 Stat. 1629; Pub. L. 104–208, div. A, title I, §101(f) \[title V, §§503, 522\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–344, 3009–347; Pub. L. 104–329, title III, §304, Oct. 20, 1996, 110 Stat. 4015.)
 
 Historical and Revision Notes
 
@@ -104,15 +104,15 @@ In subsection (e), the words “the mint at Philadelphia” are substituted for 
 
 #### Amendments
 
-1996—Subsecs. (c), (d). Pub. L. 104–208, §101(f) \[title V, §§503, 522\], and Pub. L. 104–329, amended section identically, redesignating subsec. (d) as (c) and striking out former subsec. (c) which read as follows: “Each mint has a superintendent and an assayer appointed by the President, by and with the advice and consent of the Senate. The mint at Philadelphia has an engraver appointed by the President, by and with the advice and consent of the Senate.”
+<b>1996</b>—Subsecs. (c), (d). Pub. L. 104–208, §101(f) \[title V, §§503, 522\], and Pub. L. 104–329, amended section identically, redesignating subsec. (d) as (c) and striking out former subsec. (c) which read as follows: “Each mint has a superintendent and an assayer appointed by the President, by and with the advice and consent of the Senate. The mint at Philadelphia has an engraver appointed by the President, by and with the advice and consent of the Senate.”
 
-1992—Subsec. (a). Pub. L. 102–390, §225(b)(3), substituted “United States Mint” for “Bureau of the Mint” in introductory provisions.
+<b>1992</b>—Subsec. (a). Pub. L. 102–390, §225(b)(3), substituted “United States Mint” for “Bureau of the Mint” in introductory provisions.
 
 Subsec. (b). Pub. L. 102–390, §225(b)(4), substituted “United States Mint” for “Bureau”.
 
 Subsec. (e). Pub. L. 102–390, §224, struck out subsec. (e) which read as follows: “The Secretary shall operate, maintain, and have custody of, the mint at Philadelphia. However, the Administrator of General Services shall make repairs and improvements to the mint.”
 
-1988—Subsec. (a)(3). Pub. L. 100–274, §2(b), substituted “mint at West Point, New York” for “assay office at New York, New York”.
+<b>1988</b>—Subsec. (a)(3). Pub. L. 100–274, §2(b), substituted “mint at West Point, New York” for “assay office at New York, New York”.
 
 Subsec. (a)(4). Pub. L. 100–274, §2(a), substituted “mint” for “assay office”.
 

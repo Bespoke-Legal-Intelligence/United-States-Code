@@ -18,7 +18,7 @@ Except as otherwise provided, in this chapter:
 
 #### (C) Special rule
 
-&emsp;&emsp;If the local educational agency in which a child resides makes a tuition or other payment for the free public education of the child in a school located in another school district, the Secretary shall, for the purpose of this chapter—
+&emsp;&emsp;If the local educational agency in which a child resides makes a tuition or other payment for the free public education of thechild in a school located in another school district, the Secretary shall, for the purpose of this chapter—
 
 &emsp;&emsp;&emsp;(i) consider the child to be in attendance at a school of the agency making the payment; and
 
@@ -126,7 +126,7 @@ Except as otherwise provided, in this chapter:
 
 #### (16) Distance learning
 
-&emsp;The term “distance learning” means the transmission of educational or instructional programming to geographically dispersed individuals and groups via telecommunications.
+&emsp;The term “distance learning” means the transmission of educational or instructionalprogramming to geographically dispersed individuals and groups via telecommunications.
 
 #### (17) Educational service agency
 
@@ -180,7 +180,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;(A) when used with respect to any public elementary school or secondary school teacher teaching in a State, means that—
 
-&emsp;&emsp;&emsp;(i) the teacher has obtained full State certification as a teacher (including certification obtained through alternative routes to certification) or passed the State teacher licensing examination, and holds a license to teach in such State, except that when used with respect to any teacher teaching in a public charter school, theterm means that the teacher meets the requirements set forth in the State's public charter school law; and
+&emsp;&emsp;&emsp;(i) the teacher has obtained full State certification as a teacher (including certification obtained through alternative routes to certification) or passed the State teacher licensing examination, and holds a license to teach in such State, except that when used with respect to any teacher teaching in a public charter school, the term means that the teacher meets the requirements set forth in the State's public charter school law; and
 
 &emsp;&emsp;&emsp;(ii) the teacher has not had certification or licensure requirements waived on an emergency, temporary, or provisional basis;
 
@@ -278,7 +278,7 @@ Except as otherwise provided, in this chapter:
 
 #### (29) Other staff
 
-&emsp;The term “other staff” means pupil services personnel, librarians, career guidance and counseling personnel, education aides, and other instructional and administrative personnel.
+&emsp;The term “other staff” means pupil services personnel, librarians, career guidance andcounseling personnel, education aides, and other instructional and administrative personnel.
 
 #### (30) Outlying area
 
@@ -441,6 +441,14 @@ References to part A of subchapter III of this chapter are considered to be refe
 #### Prior Provisions
 
 A prior section 7801, Pub. L. 89–10, title IX, §9101, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3773, set forth findings regarding Indian education, prior to the general amendment of this subchapter by Pub. L. 107–110.
+
+#### Highly Qualified Teacher
+
+Pub. L. 111–242, §163, as added by Pub. L. 111–322, title I, §1(a)(2), Dec. 22, 2010, 124 Stat. 3521, provided that:
+
+“(a) A ‘highly qualified teacher’ includes a teacher who meets the requirements in 34 CFR 200.56(a)(2)(ii), as published in the Federal Register on December 2, 2002.
+
+“(b) This provision is effective on the date of enactment of this provision \[Dec. 22, 2010\] through the end of the 2012–2013 academic year.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

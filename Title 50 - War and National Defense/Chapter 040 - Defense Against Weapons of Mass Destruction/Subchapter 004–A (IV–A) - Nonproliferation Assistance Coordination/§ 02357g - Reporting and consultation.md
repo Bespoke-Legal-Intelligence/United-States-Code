@@ -2,7 +2,7 @@
 
 #### (a) Presidential report
 
-Not later than 120 days after each inauguration of a President, the President shall submit areport to the Congress on his general and specific nonproliferation and threat reduction objectives and how the efforts of executive branch agencies will be coordinated most effectively, pursuant to section 2357b of this title, to achieve those objectives.
+Not later than 120 days after each inauguration of a President, the President shall submit a report to the Congress on his general and specific nonproliferation and threat reduction objectives and how the efforts of executive branch agencies will be coordinated most effectively, pursuant to section 2357b of this title, to achieve those objectives.
 
 #### (b) Consultation
 

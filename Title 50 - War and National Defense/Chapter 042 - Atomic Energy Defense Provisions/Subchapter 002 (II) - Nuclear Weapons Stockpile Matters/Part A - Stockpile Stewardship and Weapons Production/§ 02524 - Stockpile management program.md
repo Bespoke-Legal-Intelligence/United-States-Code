@@ -34,7 +34,7 @@ In carrying out the stockpile management program under subsection (a), the Secre
 
 &emsp;(2) Mechanisms to expedite the collection of information necessary for carrying out the program, including information relating to the aging of materials and components, new manufacturing techniques, and the replacement or substitution of materials.
 
-&emsp;(3) Mechanisms to ensure the appropriate assignment of roles and missions for each nuclear weapons laboratory and production plant of the Department of Energy, including mechanisms for allocation of workload, mechanisms to ensure the carrying out of appropriate modernization activities, and mechanisms to ensure the retention of skilled personnel.
+&emsp;(3) Mechanisms to ensure the appropriate assignment of roles and missions for each nuclear weapons laboratory and production plantof the Department of Energy, including mechanisms for allocation of workload, mechanisms to ensure the carrying out of appropriate modernization activities, and mechanisms to ensure the retention of skilled personnel.
 
 &emsp;(4) Mechanisms to ensure that each national laboratory of the National Nuclear Security Administration has full and complete access to all weapons data to enable a rigorous peer review process to support the annual assessment of the condition of the nuclear weapons stockpile required under section 2525 of this title.
 
@@ -58,9 +58,9 @@ Section was formerly set out as a note under section 2121 of Title 42, The Publi
 
 #### Amendments
 
-2009—Pub. L. 111–84 amended section generally. Prior to amendment, section related to the nuclear weapons stockpile life extension program.
+<b>2009</b>—Pub. L. 111–84 amended section generally. Prior to amendment, section related to the nuclear weapons stockpile life extension program.
 
-2003—Subsec. (c). Pub. L. 108–136, §3111, struck out subsec. (c), which related to a plan for the extension of the effective life of the weapons in the nuclear weapons stockpile.
+<b>2003</b>—Subsec. (c). Pub. L. 108–136, §3111, struck out subsec. (c), which related to a plan for the extension of the effective life of the weapons in the nuclear weapons stockpile.
 
 Subsec. (c)(1). Pub. L. 108–136, §3141(e)(5)(D), substituted “October 5, 1999” for “the date of the enactment of this Act”.
 

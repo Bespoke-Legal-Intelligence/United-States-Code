@@ -2,7 +2,7 @@
 
 #### (a) Responsibility
 
-The provisions of this chapter shall be enforced by the Secretary and the Secretary of thedepartment in which the Coast Guard is operating. Such Secretaries may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal agency, including all elements of the Department of Defense, and of any State agency, in the performance of such duties.
+The provisions of this chapter shall be enforced by the Secretary and the Secretary of the department in which the Coast Guard is operating. Such Secretaries may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal agency, including all elements of the Department of Defense, and of any State agency, in the performance of such duties.
 
 #### (b) Powers of authorized officers
 
@@ -26,7 +26,7 @@ The provisions of this chapter shall be enforced by the Secretary and the Secret
 
 &emsp;(C) exercise any other lawful authority.
 
-(2) Subject to the direction of the Secretary, a person charged with law enforcement responsibilities by the Secretary who is performing a duty related to enforcement of a law regarding fisheries or other marine resources may make an arrest without a warrant for an offense against the United States committed in his presence, or for a felony cognizable under the laws of the United States, if he has reasonable grounds to believe that the person to be arrested has committed or is committing a felony. The arrest authority described in the preceding sentence may be conferred upon an officer or employee of a State agency, subject to such conditions and restrictions as are set forth by agreement between the State agency, the Secretary, and, with respect to enforcement operations within the exclusive economic zone, the Secretary of the department in which the Coast Guard is operating.
+(2) Subject to the direction of the Secretary, a person charged with law enforcement responsibilities by the Secretary who is performing a duty related to enforcement of a law regarding fisheries or other marine resources may make an arrest without a warrant for an offense against the United States committed in his presence, or for a felony cognizable under the laws of the United States, if he has reasonable grounds to believe that the person to be arrested has committed or is committing a felony. Thearrest authority described in the preceding sentence may be conferred upon an officer or employee of a State agency, subject to such conditions and restrictions as are set forth by agreement between the State agency, the Secretary, and, with respect to enforcement operations within the exclusive economic zone, the Secretary of the department in which the Coast Guard is operating.
 
 #### (c) Issuance of citations
 
@@ -52,7 +52,7 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 &emsp;(B) a reward of not less than 20 percent of the penalty collected or $20,000, whichever is the lesser amount, to any person who furnishes information which leads to an arrest, conviction, civil penalty assessment, or forfeiture of property for any violation of any provision of this chapter or any other marine resource law enforced by the Secretary;
 
-&emsp;(C) any expenses directly related to investigations and civil or criminal enforcementproceedings, including any necessary expenses for equipment, training, travel, witnesses, and contracting services directly related to such investigations or proceedings;
+&emsp;(C) any expenses directly related to investigations and civil or criminal enforcement proceedings, including any necessary expenses for equipment, training, travel, witnesses, and contracting services directly related to such investigations or proceedings;
 
 &emsp;(D) any valid liens or mortgages against any property that has been forfeited;
 
@@ -126,7 +126,7 @@ The Secretary, in consultation with the Governors of the Pacific Insular Areas a
 
 #### (4) Allocation of funds
 
-&emsp;The Secretary shall include in each joint enforcement agreement an allocation of funds toassist in management of the agreement. The allocation shall be fairly distributed among all eligible States participating in cooperative enforcement agreements under this subsection, based upon consideration of Federal marine enforcement needs, the specific marine conservation enforcement needs of each participating eligible State, and the capacity of the State to undertake the marine enforcement mission and assist with enforcement needs. The agreement may provide for amounts to be withheld by the Secretary for the cost of any technical or other assistance provided to the State by the Secretary under the agreement.
+&emsp;The Secretary shall include in each joint enforcement agreement an allocation of funds to assist in management of the agreement. The allocation shall be fairly distributed among all eligible States participating in cooperative enforcement agreements under this subsection, based upon consideration of Federal marine enforcement needs, the specific marine conservation enforcement needs of each participating eligible State, and the capacity of the State to undertake the marine enforcement mission and assist with enforcement needs. The agreement may provide for amounts to be withheld by the Secretary for the cost of any technical or other assistance provided to the State by the Secretary under the agreement.
 
 #### (i) Improved data sharing
 
@@ -168,11 +168,11 @@ The Lacey Act Amendments of 1981, referred to in subsec. (e), is Pub. L. 97–79
 
 #### Amendments
 
-2007—Subsec. (b)(1)(A)(vi). Pub. L. 109–479, §111(a)(1)–(3), added cl. (vi).
+<b>2007</b>—Subsec. (b)(1)(A)(vi). Pub. L. 109–479, §111(a)(1)–(3), added cl. (vi).
 
 Subsecs. (h) to (j). Pub. L. 109–479, §111(a)(4), (5), added subsecs. (h) and (i) and redesignated former subsec. (h) as (j).
 
-1996—Subsec. (d). Pub. L. 104–297, §115(a)(2), inserted “, and except that in the case of the Northern Mariana Islands, the appropriate court is the United States District Court for the District of the Northern Mariana Islands” after “District of Hawaii”.
+<b>1996</b>—Subsec. (d). Pub. L. 104–297, §115(a)(2), inserted “, and except that in the case of the Northern Mariana Islands, the appropriate court is the United States District Court for the District of the Northern Mariana Islands” after “District of Hawaii”.
 
 Pub. L. 104–297, §115(a)(1), which directed substitution of “Guam or any” for “Guam, any Commonwealth, territory, or”, was executed by making the substitution for “Guam, and any Commonwealth, territory, or”, to reflect the probable intent of Congress.
 
@@ -190,9 +190,9 @@ Subsec. (h). Pub. L. 104–297, §115(d), redesignated subsec. (g) as (h).
 
 Subsec. (h)(1). Pub. L. 104–297, §115(e), which directed amendment of subsec. (i)(1) by substituting “1821(b) or (c) of this title, or section 1824(d) of this title,” for “1821(b), (c) of this title,”, was executed by making the substitution for “1821(b) or (c) of this title” in subsec. (h)(1) to reflect the probable intent of Congress because this section does not contain a subsec. (i).
 
-1992—Subsecs. (f), (g). Pub. L. 102–567 added subsec. (f) and redesignated former subsec. (f) as (g).
+<b>1992</b>—Subsecs. (f), (g). Pub. L. 102–567 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1990—Subsec. (e). Pub. L. 101–627 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Notwithstanding any other provision of law, after September 30, 1986, the Secretary or the Secretary of the Treasury may pay from sums received as fines, penalties, or forfeitures of property for violations of any provision of this chapter—
+<b>1990</b>—Subsec. (e). Pub. L. 101–627 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Notwithstanding any other provision of law, after September 30, 1986, the Secretary or the Secretary of the Treasury may pay from sums received as fines, penalties, or forfeitures of property for violations of any provision of this chapter—
 
 &emsp;“(1) the reasonable and necessary costs incurred in providing temporary storage, care, and maintenance of seized fish or other property pending disposition of any civil or criminal proceeding alleging a violation of any provision of this chapter with respect to that fish or other property; and
 
@@ -200,11 +200,11 @@ Subsec. (h)(1). Pub. L. 104–297, §115(e), which directed amendment of subsec.
 
 > Any person assessed a civil penalty for, or convicted of, any violation of any provision of this chapter shall be liable for the cost incurred in storage, care, and maintenance of any fish or other property seized in connection with the violation concerned.”
 
-1986—Subsec. (b)(2). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
+<b>1986</b>—Subsec. (b)(2). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 
 Subsecs. (e), (f). Pub. L. 99–659, §109(b), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1983—Subsec. (a). Pub. L. 97–453, §15(c), struck out provision that the Secretaries were to report annually on June 30, to each committee of the Congress listed in section 1823(b) of this title and to the Councils, on the degree and extent of known and estimated compliance with the provisions of this chapter during the preceding calendar year.
+<b>1983</b>—Subsec. (a). Pub. L. 97–453, §15(c), struck out provision that the Secretaries were to report annually on June 30, to each committee of the Congress listed in section 1823(b) of this title and to the Councils, on the degree and extent of known and estimated compliance with the provisions of this chapter during the preceding calendar year.
 
 Subsec. (b)(1). Pub. L. 97–453, §13(1), designated existing provisions as par. (1).
 
@@ -214,7 +214,7 @@ Subsec. (b)(1)(B), (C). Pub. L. 97–453, §13(2), redesignated former pars. (2)
 
 Subsec. (b)(2). Pub. L. 97–453, §13(4), added par. (2).
 
-1980—Subsec. (a). Pub. L. 96–470 substituted “annually on June 30” for “semiannually” and inserted “during the preceding calendar year” after “with the provisions of this chapter”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–470 substituted “annually on June 30” for “semiannually” and inserted “during the preceding calendar year” after “with the provisions of this chapter”.
 
 #### Effective Date of 1992 Amendment
 

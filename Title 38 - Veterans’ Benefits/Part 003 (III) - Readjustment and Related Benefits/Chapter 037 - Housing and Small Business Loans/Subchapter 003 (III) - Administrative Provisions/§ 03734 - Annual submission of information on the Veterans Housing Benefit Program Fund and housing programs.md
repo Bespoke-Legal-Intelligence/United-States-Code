@@ -1,6 +1,6 @@
 ### §3734. Annual submission of information on the Veterans Housing Benefit Program Fund and housing programs
 
-(a) In the documents providing detailed information on the budget for the Department of Veterans Affairs that the Secretary submits to the Congress in conjunction with the President's budget submission for each fiscal year pursuantto section 1105 of title 31, the Secretary shall include—
+(a) In the documents providing detailed information on the budget for the Department of Veterans Affairs that the Secretary submits to the Congress in conjunction with the President's budget submission for each fiscal year pursuant to section 1105 of title 31, the Secretary shall include—
 
 &emsp;(1) a description of the operations of the Veterans Housing Benefit Program Fund during the fiscal year preceding the fiscal year in which such budget is submitted; and
 
@@ -38,13 +38,13 @@
 
 #### Amendments
 
-2002—Subsec. (b)(2)(B) to (F). Pub. L. 107–330 redesignated subpars. (C) to (F) as (B) to (E), respectively, and struck out former subpar. (B) which read as follows: “Federal Government payments under section 3729(a)(3) of this title.”
+<b>2002</b>—Subsec. (b)(2)(B) to (F). Pub. L. 107–330 redesignated subpars. (C) to (F) as (B) to (E), respectively, and struck out former subpar. (B) which read as follows: “Federal Government payments under section 3729(a)(3) of this title.”
 
-2001—Subsec. (a). Pub. L. 107–14, §8(a)(9)(A), struck out “United States Code,” after “section 1105 of title 31,” in introductory provisions.
+<b>2001</b>—Subsec. (a). Pub. L. 107–14, §8(a)(9)(A), struck out “United States Code,” after “section 1105 of title 31,” in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 107–14, §8(a)(9)(B), substituted “appropriations for” for “appropriations in”.
 
-1998—Pub. L. 105–368, §602(e)(3)(A), substituted “Veterans Housing Benefit Program Fund and housing programs” for “Loan Guaranty Revolving Fund and the Guaranty and Indemnity Fund” in section catchline.
+<b>1998</b>—Pub. L. 105–368, §602(e)(3)(A), substituted “Veterans Housing Benefit Program Fund and housing programs” for “Loan Guaranty Revolving Fund and the Guaranty and Indemnity Fund” in section catchline.
 
 Subsec. (a)(1). Pub. L. 105–368, §602(e)(1)(F)(i)(I), substituted “Veterans Housing Benefit Program Fund” for “Loan Guaranty Revolving Fund and the Guaranty and Indemnity Fund”.
 
@@ -56,7 +56,7 @@ Subsec. (b)(2)(B) to (G). Pub. L. 105–368, §602(e)(1)(F)(iii), redesignated s
 
 Subsec. (c). Pub. L. 105–368, §602(d), added subsec. (c).
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1834 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1834 of this title as this section.
 
 Subsec. (b)(2). Pub. L. 102–83, §5(c)(1), substituted “3729(a)” for “1829(a)” and “3729(b)” for “1829(b)” in subpar. (A), “3725(c)(2)” for “1825(c)(2)” in subpar. (B), and “3729” for “1829” in subpar. (C).
 

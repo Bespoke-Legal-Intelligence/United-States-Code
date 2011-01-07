@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(E) the number of family members in postsecondary education, and
 
-&emsp;&emsp;(F) an allowance (A) for State and other taxes, as defined in section 1087<i>oo</i>(c)(2) of this title for dependent students and in section 1087qq(b)(2) of this title for independent students with dependents other than aspouse, or (B) for State and other income taxes, as defined in section 1087pp(b)(2) of this title for independent students without dependents other than a spouse.
+&emsp;&emsp;(F) an allowance (A) for State and other taxes, as defined in section 1087<i>oo</i>(c)(2) of this title for dependent students and in section 1087qq(b)(2) of this title for independent students with dependents other than a spouse, or (B) for State and other income taxes, as defined in section 1087pp(b)(2) of this title for independent students without dependents other than a spouse.
 
 #### (3) Qualifying forms
 
@@ -138,7 +138,7 @@ In this section:
 
 The Social Security Act, referred to in subsec. (d)(2)(A), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Food and Nutrition Act of 2008, referred to in subsec. (d)(2)(B), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat.703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (d)(2)(B), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (d)(2)(C), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
@@ -148,7 +148,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2009—Subsec. (b)(1)(A)(i)(III). Pub. L. 111–39, §406(a)(4)(A)(i), amended subcl. (III) generally. Prior to amendment, subcl. (III) read as follows: “1 of whom is a dislocated worker; or”.
+<b>2009</b>—Subsec. (b)(1)(A)(i)(III). Pub. L. 111–39, §406(a)(4)(A)(i), amended subcl. (III) generally. Prior to amendment, subcl. (III) read as follows: “1 of whom is a dislocated worker; or”.
 
 Subsec. (b)(1)(B)(i)(III). Pub. L. 111–39, §406(a)(4)(A)(ii), amended subcl. (III) generally. Prior to amendment, subcl. (III) read as follows: “1 of whom is a dislocated worker; or”.
 
@@ -156,9 +156,9 @@ Subsec. (c)(1)(A)(iii). Pub. L. 111–39, §406(a)(4)(B)(i), amended cl. (iii) g
 
 Subsec. (c)(2)(A)(iii). Pub. L. 111–39, §406(a)(4)(B)(ii), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “1 of whom is a dislocated worker; or”.
 
-2008—Subsec. (d)(2). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(N), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+<b>2008</b>—Subsec. (d)(2). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(N), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
-2007—Subsec. (b)(1)(A)(i), (B)(i). Pub. L. 110–84, §602(a)(1), added subcl. (III), redesignated former subcl. (III) as (IV), and, in subcl. (IV), substituted “24-month” for “12-month”.
+<b>2007</b>—Subsec. (b)(1)(A)(i), (B)(i). Pub. L. 110–84, §602(a)(1), added subcl. (III), redesignated former subcl. (III) as (IV), and, in subcl. (IV), substituted “24-month” for “12-month”.
 
 Subsec. (c). Pub. L. 110–84, §602(a)(2)(C), inserted at end of concluding provisions “The Secretary shall annually adjust the income level necessary to qualify an applicant for the zero expected family contribution. The income level shall be adjusted according to increases in the Consumer Price Index, as defined in section 1087rr(f) of this title.”
 
@@ -172,7 +172,7 @@ Subsec. (c)(2)(B). Pub. L. 110–84, §602(a)(2)(B)(ii), substituted “$30,000�
 
 Subsec. (d). Pub. L. 110–84, §602(a)(3), substituted “Definitions” for “Definition of means-tested Federal benefit program” in heading, added par. (1), designated existing provisions as par. (2) and substituted “The term” for “In this section, the term” in introductory provisions, redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (2), and realigned margins.
 
-2006—Subsec. (b)(1)(A)(i). Pub. L. 109–171, §8018(a)(1)(A)(i), added cl. (i) and struck out former cl. (i) which read as follows: “the student's parents file or are eligible to file a form described in paragraph (3) or certify that they are not required to file an income tax return and the student files or is eligible to file such a form or certifies that the student is not required to file an income tax return; and”.
+<b>2006</b>—Subsec. (b)(1)(A)(i). Pub. L. 109–171, §8018(a)(1)(A)(i), added cl. (i) and struck out former cl. (i) which read as follows: “the student's parents file or are eligible to file a form described in paragraph (3) or certify that they are not required to file an income tax return and the student files or is eligible to file such a form or certifies that the student is not required to file an income tax return; and”.
 
 Subsec. (b)(1)(B)(i). Pub. L. 109–171, §8018(a)(1)(A)(ii), added cl. (i) and struck out former cl. (i) which read as follows: “the student (and the student's spouse, if any) files or is eligible to file a form described in paragraph (3) or certifies that the student (and the student's spouse, if any) is not required to file an income tax return; and”.
 
@@ -188,7 +188,7 @@ Subsec. (c)(2)(B). Pub. L. 109–171, §8018(a)(2)(B)(ii), added subpar. (B) and
 
 Subsec. (d). Pub. L. 109–171, §8018(a)(3), added subsec. (d).
 
-1998—Subsec. (b)(3). Pub. L. 105–244, §477(1)(A), substituted “this subsection, or subsection (c) of this section, as the case may be,” for “this paragraph” in introductory provisions.
+<b>1998</b>—Subsec. (b)(3). Pub. L. 105–244, §477(1)(A), substituted “this subsection, or subsection (c) of this section, as the case may be,” for “this paragraph” in introductory provisions.
 
 Subsec. (b)(3)(A). Pub. L. 105–244, §477(1)(B), struck out “or” at end.
 
@@ -198,7 +198,7 @@ Subsec. (c)(1)(A). Pub. L. 105–244, §477(2)(A), amended subpar. (A) generally
 
 Subsec. (c)(2)(A). Pub. L. 105–244, §477(2)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the student (and the student's spouse, if any) was not required to file an income tax return under section 6012(a)(1) of title 26; and”.
 
-1993—Subsec. (a)(1). Pub. L. 103–208, §2(g)(10), inserted “of” after “(c)”.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–208, §2(g)(10), inserted “of” after “(c)”.
 
 Subsec. (b)(1)(B)(i). Pub. L. 103–208, §2(g)(11), inserted “(and the student's spouse, if any)” after “student” in two places and struck out “such” before “an income tax return”.
 
@@ -216,13 +216,13 @@ Subsec. (c)(2)(A). Pub. L. 103–208, §2(g)(15)(B), amended subpar. (A) general
 
 Subsec. (c)(2)(B). Pub. L. 103–208, §2(g)(15)(C), inserted “in 1992 or the current year, whichever is higher,” after “that may be earned”.
 
-1992—Pub. L. 102–325 amended section generally, substituting present provisions for provisions which related to: in subsec. (a), analysis applicable to all title IV programs; in subsec. (b), elements in tests; and in subsec. (c), simplified application form.
+<b>1992</b>—Pub. L. 102–325 amended section generally, substituting present provisions for provisions which related to: in subsec. (a), analysis applicable to all title IV programs; in subsec. (b), elements in tests; and in subsec. (c), simplified application form.
 
-1991—Subsec. (a). Pub. L. 102–26 inserted before period at end “, or who file an income tax return pursuant to the tax code of the Commonwealth of Puerto Rico or who are not required to file pursuant to that tax code”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–26 inserted before period at end “, or who file an income tax return pursuant to the tax code of the Commonwealth of Puerto Rico or who are not required to file pursuant to that tax code”.
 
-1988—Subsec. (a). Pub. L. 100–369 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1988</b>—Subsec. (a). Pub. L. 100–369 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1987—Subsec. (a). Pub. L. 100–50, §14(23), substituted “subsection (b) of this section” for “paragraph (2)”, “families (1) who” for “families which”, and “and (2) who file a form 1040A or 1040EZ pursuant to title 26, or are not required to file pursuant to such title” for “and which file a form 1040A pursuant to title 26”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–50, §14(23), substituted “subsection (b) of this section” for “paragraph (2)”, “families (1) who” for “families which”, and “and (2) who file a form 1040A or 1040EZ pursuant to title 26, or are not required to file pursuant to such title” for “and which file a form 1040A pursuant to title 26”.
 
 Subsec. (b)(2). Pub. L. 100–50, §14(24)(A), struck out “and State” after “Federal”.
 
@@ -232,7 +232,7 @@ Subsec. (c). Pub. L. 100–50, §14(25), added subsec. (c).
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–39 effective as if enacted as part of amendments made by section 602(a) of Pub. L. 110–84 and effective July 1, 2009, see section 406(b)(2) of Pub. L. 111–39, set out as a note under section 1087mm of this title.
+Amendment by Pub. L. 111–39 effective as if enacted as part of amendments made by section 602(a) of Pub.L. 110–84 and effective July 1, 2009, see section 406(b)(2) of Pub. L. 111–39, set out as a note under section 1087mm of this title.
 
 #### Effective Date of 2008 Amendment
 

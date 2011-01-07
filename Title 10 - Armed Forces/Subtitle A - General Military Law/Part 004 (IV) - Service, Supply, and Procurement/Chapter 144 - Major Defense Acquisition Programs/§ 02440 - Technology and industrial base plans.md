@@ -6,5 +6,5 @@ The Secretary of Defense shall prescribe regulations requiring consideration of 
 
 #### Amendments
 
-2006—Pub. L. 109–364 substituted “industrial base plans” for “Industrial Base Plans” in section catchline.
+<b>2006</b>—Pub. L. 109–364 substituted “industrial base plans” for “Industrial Base Plans” in section catchline.
 

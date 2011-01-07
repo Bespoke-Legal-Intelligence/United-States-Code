@@ -12,9 +12,13 @@ As used in this chapter—
 
 (Pub. L. 103–141, §5, Nov. 16, 1993, 107 Stat. 1489; Pub. L. 106–274, §7(a), Sept. 22, 2000, 114 Stat. 806.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 103–141, Nov. 16, 1993, 107 Stat. 1488, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2000bb of this title and Tables.
+
 #### Amendments
 
-2000—Par. (1). Pub. L. 106–274, §7(a)(1), substituted “or of a covered entity” for “a State, or a subdivision of a State”.
+<b>2000</b>—Par. (1). Pub. L. 106–274, §7(a)(1), substituted “or of a covered entity” for “a State, or a subdivision of a State”.
 
 Par. (2). Pub. L. 106–274, §7(a)(2), substituted “term ‘covered entity’ means” for “term ‘State’ includes”.
 

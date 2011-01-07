@@ -34,11 +34,11 @@ To carry out the foregoing purposes and engaged in the foregoing activities, the
 
 #### (d) Labor standards
 
-Nothing in this chapter shall have the effect of waiving or otherwise affecting the applicabilityof the provisions of sections 3141–3144, 3146, and 3147 of title 40, or any other law requiring compliance with labor standards, in the case of any construction to which such provisions would otherwise apply.
+Nothing in this chapter shall have the effect of waiving or otherwise affecting the applicability of the provisions of sections 3141–3144, 3146, and 3147 of title 40, or any other law requiring compliance with labor standards, in the case of any construction to which such provisions would otherwise apply.
 
 #### (e) Maximum combined outstanding equity commitment
 
-The combined outstanding equity commitment of the corporation and the partnership with respect to activities undertaken under subsection (a)(4) of this section may not exceed (1) 7 percent of their total combined equity commitment outstanding during the first 12-month period following October 17, 1984; (2) 14 percent of their total combined equity commitment outstanding during the second 12-month period following October 17, 1984; or (3) 20 percent of their total combined equity commitment outstanding at any time thereafter.
+The combined outstanding equity commitment of the corporation and the partnership with respect to activities undertaken under subsection (a)(4) of this section may not exceed (1) 7 percent of their total combined equity commitment outstanding during the first 12-month period following October 17, 1984; (2) 14 percent of their total combined equity commitment outstanding during the second 12-month period following October 17, 1984; or (3) 20 percent of theirtotal combined equity commitment outstanding at any time thereafter.
 
 (Pub. L. 90–448, title IX, §906, Aug. 1, 1968, 82 Stat. 548; Pub. L. 98–181, title IV, §467, Nov. 30, 1983, 97 Stat. 1236; Pub. L. 98–479, title I, §104(c)(1), (2), Oct. 17, 1984, 98 Stat. 2225.)
 
@@ -52,9 +52,9 @@ In subsec. (d), “sections 3141–3144, 3146, and 3147 of title 40” substitut
 
 #### Amendments
 
-1984—Subsec. (a)(4). Pub. L. 98–479, §104(c)(1), added par. (4).
+<b>1984</b>—Subsec. (a)(4). Pub. L. 98–479, §104(c)(1), added par. (4).
 
 Subsec. (e). Pub. L. 98–479, §104(c)(2), added subsec. (e).
 
-1983—Subsec. (a)(1). Pub. L. 98–181 inserted references to acquisition and financing.
+<b>1983</b>—Subsec. (a)(1). Pub. L. 98–181 inserted references to acquisition and financing.
 

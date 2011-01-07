@@ -14,19 +14,19 @@ For the purpose of this subchapter—
 
 #### Amendments
 
-1996—Par. (3). Pub. L. 104–262 inserted “adult day health,” before “or hospital care”.
+<b>1996</b>—Par. (3). Pub. L. 104–262 inserted “adult day health,” before “or hospital care”.
 
-1991—Pub. L. 102–40 renumbered section 5031 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5031 of this title as this section.
 
 Par. (4). Pub. L. 102–83 substituted “Secretary” for “Administrator”.
 
-1986—Pub. L. 99–576 redesignated pars. (a) to (d) as pars. (1) to (4), respectively.
+<b>1986</b>—Pub. L. 99–576 redesignated pars. (a) to (d) as pars. (1) to (4), respectively.
 
-1977—Par. (c). Pub. L. 95–62, §3(1), inserted construction of new domiciliary buildings, expansion, remodeling, or alteration of existing domiciliary and hospital buildings, and provision of initial equipment for any such buildings to definition of “construction”.
+<b>1977</b>—Par. (c). Pub. L. 95–62, §3(1), inserted construction of new domiciliary buildings, expansion, remodeling, or alteration of existing domiciliary and hospital buildings, and provision of initial equipment for any such buildings to definition of “construction”.
 
 Par. (d). Pub. L. 95–62, §3(2), struck out provisions which had limited definition of “cost of construction” to the cost of construction of nursing home facilities.
 
-1976—Par. (a). Pub. L. 94–581 substituted “veteran” for “war veteran”.
+<b>1976</b>—Par. (a). Pub. L. 94–581 substituted “veteran” for “war veteran”.
 
 #### Effective Date of 1986 Amendment
 

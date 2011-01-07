@@ -54,7 +54,7 @@ This amends section 21703(1)(A)(iv) of title 36 to reflect changes made by Publi
 
 #### Amendments
 
-2002—Par. (2). Pub. L. 107–309 inserted “during or” after “continues to serve honorably”.
+<b>2002</b>—Par. (2). Pub. L. 107–309 inserted “during or” after “continues to serve honorably”.
 
-1998—Par. (1)(A)(iv). Pub. L. 105–354 substituted “February 28, 1961” for “December 22, 1961”.
+<b>1998</b>—Par. (1)(A)(iv). Pub. L. 105–354 substituted “February 28, 1961” for “December 22, 1961”.
 

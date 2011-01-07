@@ -86,7 +86,7 @@
 
 #### Part I—Definitions and National Customs Automation Program
 
-I74subpart a—definitions
+#### subpart a—definitions
 
 |  |  |
 | :--- | ---: |
@@ -358,7 +358,7 @@ I74subpart a—definitions
 
 #### Part III—Reviews; Other Actions Regarding Agreements
 
-I74subpart a—review of amount of duty and agreements other than quantitative restriction agreements
+#### subpart a—review of amount of duty and agreements other than quantitative restriction agreements
 
 |  |  |
 | :--- | ---: |

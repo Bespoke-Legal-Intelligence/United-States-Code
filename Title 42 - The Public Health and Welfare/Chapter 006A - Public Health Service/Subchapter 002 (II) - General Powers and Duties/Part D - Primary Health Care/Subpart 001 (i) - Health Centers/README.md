@@ -2,9 +2,9 @@ subpart i—health centers
 
 #### Amendments
 
-1996—Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626, substituted “Health Centers” for “Primary Health Centers” in subpart heading.
+<b>1996</b>—Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626, substituted “Health Centers” for “Primary Health Centers” in subpart heading.
 
-1978—Pub. L. 95–626, title I, §113(a)(3), Nov. 10, 1978, 92 Stat. 3562, added heading “Part D—Primary Health Care” and, immediately under it, heading “Subpart I—Primary Health Centers”.
+<b>1978</b>—Pub. L. 95–626, title I, §113(a)(3), Nov. 10, 1978, 92 Stat. 3562, added heading “Part D—Primary Health Care” and, immediately under it, heading “Subpart I—Primary Health Centers”.
 
 
 ---
@@ -12,8 +12,11 @@ subpart i—health centers
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 00254b - Health centers](%C2%A7%2000254b%20-%20Health%20centers.md)
+- [&sect; 00254b&#8211;1 - State grants to health care providers who provide services to a high percentage of medically underserved populations or other special&#8230;](%C2%A7%2000254b%E2%80%931%20-%20State%20grants%20to%20health%20care%20providers%20who%20provide%20services%20to%20a%20high%20percentage%20of%20medically%20underserved%20populations%20or%20other%20special%E2%80%A6.md)
+- [&sect; 00254b&#8211;2 - Community health centers and the National Health Service Corps Fund](%C2%A7%2000254b%E2%80%932%20-%20Community%20health%20centers%20and%20the%20National%20Health%20Service%20Corps%20Fund.md)
 - [&sect; 00254c - Rural health care services outreach, rural health network development, and small health care provider quality improvement grant programs](%C2%A7%2000254c%20-%20Rural%20health%20care%20services%20outreach%2C%20rural%20health%20network%20development%2C%20and%20small%20health%20care%20provider%20quality%20improvement%20grant%20programs.md)
 - [&sect; 00254c&#8211;1 - Grants for health services for Pacific Islanders](%C2%A7%2000254c%E2%80%931%20-%20Grants%20for%20health%20services%20for%20Pacific%20Islanders.md)
+- [&sect; 00254c&#8211;1a - Grants to nurse-managed health clinics](%C2%A7%2000254c%E2%80%931a%20-%20Grants%20to%20nurse-managed%20health%20clinics.md)
 - [&sect; 00254c&#8211;2 - Special diabetes programs for type I diabetes](%C2%A7%2000254c%E2%80%932%20-%20Special%20diabetes%20programs%20for%20type%20I%20diabetes.md)
 - [&sect; 00254c&#8211;3 - Special diabetes programs for Indians](%C2%A7%2000254c%E2%80%933%20-%20Special%20diabetes%20programs%20for%20Indians.md)
 - [&sect; 00254c&#8211;4 - Centers for strategies on facilitating utilization of preventive health services among various populations](%C2%A7%2000254c%E2%80%934%20-%20Centers%20for%20strategies%20on%20facilitating%20utilization%20of%20preventive%20health%20services%20among%20various%20populations.md)

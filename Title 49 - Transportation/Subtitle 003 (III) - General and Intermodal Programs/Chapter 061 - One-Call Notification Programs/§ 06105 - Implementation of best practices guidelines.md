@@ -28,5 +28,5 @@ General revenue funding.—Any sums appropriated under this subsection shall be 
 
 #### Amendments
 
-2002—Pub. L. 107–355 amended section generally. Prior to amendment, section related to study of existing one-call systems, purpose and considerations of study, report by Secretary within one year of June 9, 1998, and discretion of Secretary as to whether to carry out study.
+<b>2002</b>—Pub. L. 107–355 amended section generally. Prior to amendment, section related to study of existing one-call systems, purpose and considerations of study, report by Secretary within one year of June 9, 1998, and discretion of Secretary as to whether to carry out study.
 

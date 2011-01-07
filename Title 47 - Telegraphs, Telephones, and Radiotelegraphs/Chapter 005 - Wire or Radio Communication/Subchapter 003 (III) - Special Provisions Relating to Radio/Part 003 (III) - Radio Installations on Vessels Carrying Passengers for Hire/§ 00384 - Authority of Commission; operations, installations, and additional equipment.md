@@ -14,7 +14,7 @@ The Commission shall have authority with respect to any vessel subject to this p
 
 #### Amendments
 
-1994—Pub. L. 103–414 inserted section catchline.
+<b>1994</b>—Pub. L. 103–414 inserted section catchline.
 
 #### Effective Date
 

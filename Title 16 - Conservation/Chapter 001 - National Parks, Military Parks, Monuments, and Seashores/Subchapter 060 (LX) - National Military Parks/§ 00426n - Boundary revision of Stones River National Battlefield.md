@@ -28,9 +28,9 @@ The Comprehensive Environmental Response, Compensation, and Liability Act, refer
 
 #### Amendments
 
-1994—Subsec. (b)(2)(A). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Subsec. (b)(2)(A). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
-1991—Subsec. (a). Pub. L. 102–225, §1(1), substituted “numbered 327/80,004B, and dated November 1991” for “numbered 327/80,001, and dated March 1987”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–225, §1(1), substituted “numbered 327/80,004B, and dated November 1991” for “numbered 327/80,001, and dated March 1987”.
 
 Subsec. (b). Pub. L. 102–225, §1(2), designated existing provisions as par. (1) and added pars. (2) and (3).
 

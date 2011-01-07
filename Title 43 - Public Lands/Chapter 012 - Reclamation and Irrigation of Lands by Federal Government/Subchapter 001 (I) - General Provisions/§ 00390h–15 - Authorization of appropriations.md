@@ -6,5 +6,5 @@ There is authorized to be appropriated for fiscal years beginning after Septembe
 
 #### Amendments
 
-1996—Pub. L. 104–266, §2(b)(3), made technical amendment to reference in original act which appears in text as reference to section 390h–14 of this title.
+<b>1996</b>—Pub. L. 104–266, §2(b)(3), made technical amendment to reference in original act which appears in text as reference to section 390h–14 of this title.
 

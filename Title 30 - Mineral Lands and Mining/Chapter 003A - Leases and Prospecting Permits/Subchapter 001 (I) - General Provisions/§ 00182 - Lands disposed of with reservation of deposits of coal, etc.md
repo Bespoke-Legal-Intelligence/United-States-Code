@@ -6,7 +6,7 @@ The provisions of this chapter shall also apply to all deposits of coal, phospha
 
 #### Amendments
 
-1981—Pub. L. 97–78 substituted “gilsonite (including all vein-type solid hydrocarbons),” for “native asphalt, solid and semisolid bitumen, and bituminous rock (including oil-impregnated rock or sands from which oil is recoverable only by special treatment after the deposit is mined or quarried)”.
+<b>1981</b>—Pub. L. 97–78 substituted “gilsonite (including all vein-type solid hydrocarbons),” for “native asphalt, solid and semisolid bitumen, and bituminous rock (including oil-impregnated rock or sands from which oil is recoverable only by special treatment after the deposit is mined or quarried)”.
 
-1960—Pub. L. 86–705 included native asphalt, solid and semisolid bitumen, and bituminous rock.
+<b>1960</b>—Pub. L. 86–705 included native asphalt, solid and semisolid bitumen, and bituminous rock.
 

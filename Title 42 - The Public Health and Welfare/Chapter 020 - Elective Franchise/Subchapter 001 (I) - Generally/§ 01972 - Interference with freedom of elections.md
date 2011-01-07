@@ -1,6 +1,6 @@
 ### §1972. Interference with freedom of elections
 
-No officer of the Army, Navy, or Air Force of the United States shall prescribe or fix, or attempt to prescribe or fix, by proclamation, order, or otherwise, the qualifications of voters in any State, or in any manner interfere withthe freedom of any election in any State, or with the exercise of the free right of suffrage in any State.
+No officer of the Army, Navy, or Air Force of the United States shall prescribe or fix, or attempt to prescribe or fix, by proclamation, order, or otherwise, the qualifications of voters in any State, or in any manner interfere with the freedom of any election in any State, or with the exercise of the free right of suffrage in any State.
 
 (R.S. §2003.)
 

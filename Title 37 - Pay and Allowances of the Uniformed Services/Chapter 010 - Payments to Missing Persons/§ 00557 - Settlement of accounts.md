@@ -10,7 +10,7 @@
 
 (b) Payment or settlement of an account made pursuant to a report, determination, or finding of death may not be recovered or reopened because of a later report or determination which fixes a date of death. However, an account shall be reopened and settled on the basis of a date of death so fixed which is later than that used as a basis for earlier settlements.
 
-(c) In the settlement of his accounts, a disbursing officer is entitled, if there is no fraud or criminality by him, to credit for an erroneous payment or overpayment he made in carryingout this chapter, except section 558 of this title. Unless there is fraud or criminality by him, recovery may not be made from a civilian officer or employee or a member of a uniformed service who authorizes a payment under this chapter, except section 558 of this title.
+(c) In the settlement of his accounts, a disbursing officer is entitled, if there is no fraud or criminality by him, to credit for an erroneous payment or overpayment he made in carrying out this chapter, except section 558 of this title. Unless there is fraud or criminality by him, recovery may not be made from a civilian officer or employee or a member of a uniformed service who authorizes a payment under this chapter, except section 558 of this title.
 
 (Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 630; amended Pub. L. 99–145, title XIII, §1303(b)(11), Nov. 8, 1985, 99 Stat. 741.)
 
@@ -48,5 +48,5 @@ In subsection (c), the words “in carrying out this chapter, except section 558
 
 #### Amendments
 
-1985—Subsec. (c). Pub. L. 99–145 inserted “of this title” after “558” in two places.
+<b>1985</b>—Subsec. (c). Pub. L. 99–145 inserted “of this title” after “558” in two places.
 

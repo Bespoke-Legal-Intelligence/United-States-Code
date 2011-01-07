@@ -28,7 +28,7 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Amendments
 
-1965—Subsecs. (c), (d). Pub. L. 89–171 added subsecs. (c) and (d).
+<b>1965</b>—Subsecs. (c), (d). Pub. L. 89–171 added subsecs. (c) and (d).
 
 #### Delegation of Functions
 

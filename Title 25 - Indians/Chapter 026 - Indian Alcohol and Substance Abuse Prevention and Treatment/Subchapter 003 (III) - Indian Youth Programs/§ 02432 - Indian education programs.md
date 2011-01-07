@@ -1,8 +1,18 @@
 ### §2432. Indian education programs
 
-#### (a) Pilot programs
+#### (a) Summer Youth Programs
 
-The Assistant Secretary of Indian Affairs shall develop and implement pilot programs in selected schools funded by the Bureau of Indian Affairs (subject to the approval of the local school board or contract school board) to determine the effectiveness of summer youth programs in furthering the purposes and goals of this chapter. The Assistant Secretary shall defray all costs associated with the actual operation and support of the pilot programs in the school from funds appropriated for this section. For the pilot programs there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1993, 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
+#### (1) In general
+
+&emsp;The head of the Indian Alcohol and Substance Abuse Program, in coordination with the Assistant Secretary for Indian Affairs, shall develop and implement programs in tribal schools and schools funded by the Bureau of Indian Education (subject to the approval of the local school board or contract school board) to determine the effectiveness of summer youth programs in advancing the purposes and goals of this Act.
+
+#### (2) Costs
+
+&emsp;The head of the Indian Alcohol and Substance Abuse Program and the Assistant Secretary shall defray all costs associated with the actual operation and support of the summer youth programs in a school from funds appropriated to carry out this subsection.
+
+#### (3) Authorization of appropriations
+
+&emsp;There are authorized to be appropriated to carry out the programs under this subsection $5,000,000 for each of fiscal years 2011 through 2015.
 
 #### (b) Use of funds
 
@@ -16,9 +26,11 @@ Federal financial assistance made available to public or private schools because
 
 > may be used to support a program of instruction relating to alcohol and substance abuse prevention and treatment.
 
-(Pub. L. 99–570, title IV, §4212, Oct. 27, 1986, 100 Stat. 3207–144; Pub. L. 100–690, title II, §2206, Nov. 18, 1988, 102 Stat. 4218; Pub. L. 102–573, title VII, §703(4), Oct. 29, 1992, 106 Stat. 4583.)
+(Pub. L. 99–570, title IV, §4212, Oct. 27, 1986, 100 Stat. 3207–144; Pub. L. 100–690, title II, §2206, Nov. 18, 1988, 102 Stat. 4218; Pub. L. 102–573, title VII, §703(4), Oct. 29, 1992, 106 Stat. 4583; Pub. L. 111–211, title II, §241(b), July 29, 2010, 124 Stat. 2289.)
 
 #### References in Text
+
+This Act, referred to in subsec. (a)(1), is Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207, known as the Anti-Drug Abuse Act of 1986. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 801 of Title 21, Food and Drugs, and Tables.
 
 Act of April 16, 1934, referred to in subsec. (b)(1), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, as amended, popularly known as the Johnson-O'Malley Act, which is classified generally to section 452 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 452 of this title and Tables.
 
@@ -28,11 +40,17 @@ The Indian Elementary and Secondary School Assistance Act, referred to in subsec
 
 The Indian Education Act, referred to in subsec. (b)(3), is title IV of Pub. L. 92–318, June 23, 1972, 86 Stat. 334, as amended. Section 3385 of Title 20, which was enacted by section 421(a) of the Act, was repealed by Pub. L. 100–297, title V, §5352(2), Apr. 28, 1988. For complete classification of this Act to the Code, see Tables.
 
+#### Codification
+
+Pub. L. 111–211, §241(b), which directed amendment of “\[s\]ection 4212 of the Indian Alcohol and Substance Abuse Prevention Act of 1986”, was executed to this section, which is section 4212 of the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, to reflect the probable intent of Congress. See 2010 Amendment note below.
+
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–573 substituted “1993, 1994, 1995, 1996, 1997, 1998, 1999, and 2000” for “1989, 1990, 1991, and 1992”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–211 added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Assistant Secretary of Indian Affairs shall develop and implement pilot programs in selected schools funded by the Bureau of Indian Affairs (subject to the approval of the local school board or contract school board) to determine the effectiveness of summer youth programs in furthering the purposes and goals of this chapter. The Assistant Secretary shall defray all costs associated with the actual operation and support of the pilot programs in the school from funds appropriated for this section. For the pilot programs there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1993, 1994, 1995, 1996, 1997, 1998, 1999, and 2000.” See Codification note above.
 
-1988—Subsec. (a). Pub. L. 100–690 substituted “1989, 1990, 1991, and 1992” for “1987, 1988, and 1989”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–573 substituted “1993, 1994, 1995, 1996, 1997, 1998, 1999, and 2000” for “1989, 1990, 1991, and 1992”.
+
+<b>1988</b>—Subsec. (a). Pub. L. 100–690 substituted “1989, 1990, 1991, and 1992” for “1987, 1988, and 1989”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

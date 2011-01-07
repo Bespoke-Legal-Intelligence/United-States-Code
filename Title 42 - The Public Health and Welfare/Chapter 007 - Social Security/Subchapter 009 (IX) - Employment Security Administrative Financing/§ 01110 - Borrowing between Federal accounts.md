@@ -26,3 +26,5 @@ Whenever the Secretary of the Treasury (after consultation with the Secretary of
 
 (Aug. 14, 1935, ch. 531, title IX, §910, as added Pub. L. 102–318, title V, §531(c), July 3, 1992, 106 Stat. 316.)
 
+<i><sup>1</sup></i><i> So in original. Probably should be “to in”.</i>
+

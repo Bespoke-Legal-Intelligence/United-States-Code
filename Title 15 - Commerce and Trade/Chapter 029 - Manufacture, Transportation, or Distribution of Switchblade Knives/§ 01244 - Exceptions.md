@@ -16,5 +16,5 @@ Sections 1242 and 1243 of this title shall not apply to—
 
 #### Amendments
 
-2009—Par. (5). Pub. L. 111–83 added par. (5).
+<b>2009</b>—Par. (5). Pub. L. 111–83 added par. (5).
 

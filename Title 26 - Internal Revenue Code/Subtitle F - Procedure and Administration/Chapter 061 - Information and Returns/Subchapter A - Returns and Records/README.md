@@ -15,7 +15,7 @@
 
 #### Amendments
 
-1966—Pub. L. 89–809, title III, §302(b), Nov. 13, 1966, 80 Stat. 1588, added item VIII.
+<b>1966</b>—Pub. L. 89–809, title III, §302(b), Nov. 13, 1966, 80 Stat. 1588, added item VIII.
 
 
 ---

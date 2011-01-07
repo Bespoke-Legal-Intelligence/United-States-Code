@@ -6,7 +6,7 @@
 
 #### Amendments
 
-2002—Pub. L. 107–296, title X, §1001(b)(1), Nov. 25, 2002, 116 Stat. 2259, reenacted subchapter heading without change.
+<b>2002</b>—Pub. L. 107–296, title X, §1001(b)(1), Nov. 25, 2002, 116 Stat. 2259, reenacted subchapter heading without change.
 
 
 ---

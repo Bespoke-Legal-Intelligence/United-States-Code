@@ -40,7 +40,7 @@
 
 I74legislative statements
 
-Section 366 of the House amendment represents a compromise between comparable provisions contained in H.R. 8200 as passed by the House and the Senateamendment. Subsection (a) is modified so that the applicable date is the date of the order for relief rather than the date of the filing of the petition. Subsection (b) contains a similar change but is otherwise derived from section 366(b) of the Senate amendment, with the exception that a time period for continued service of 20 days rather than 10 days is adopted.
+Section 366 of the House amendment represents a compromise between comparable provisions contained in H.R. 8200 as passed by the House and the Senate amendment. Subsection (a) is modified so that the applicable date is the date of the order for relief rather than the date of the filing of the petition. Subsection (b) contains a similar change but is otherwise derived from section 366(b) of the Senate amendment, with the exception that a time period for continued service of 20 days rather than 10 days is adopted.
 
 #### senate report no. 95–989
 

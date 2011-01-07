@@ -38,9 +38,9 @@ Section 3(w)(1) of the Federal Deposit Insurance Act, referred to in text, is cl
 
 #### Amendments
 
-2002—Pub. L. 107–273, in first par. substituted “Act,” for “Act,,” and in third par. inserted “or” at end.
+<b>2002</b>—Pub. L. 107–273, in first par. substituted “Act,” for “Act,,” and in third par. inserted “or” at end.
 
-1990—Pub. L. 101–647, §§2504(d), 2595(a)(3)(A), (B), 2597(h), in first par. substituted “depository institution” for “bank or savings and loan”, “national bank, insured bank, branch or agency of a foreign bank, or organization operating under section 25 or section 25(a) of the Federal Reserve Act,” for “national bank or insured bank”, and “of such bank, branch, agency, or organization or company” for “of such bank” in two places, in third par. substituted “bank, company, branch, agency, or organization” for “bank or company” in four places, and in fifth par. substituted “30” for “20” before “years”.
+<b>1990</b>—Pub. L. 101–647, §§2504(d), 2595(a)(3)(A), (B), 2597(h), in first par. substituted “depository institution” for “bank or savings and loan”, “national bank, insured bank, branch or agency of a foreign bank, or organization operating under section 25 or section 25(a) of the Federal Reserve Act,” for “national bank or insured bank”, and “of such bank, branch, agency, or organization or company” for “of such bank” in two places, in third par. substituted “bank, company, branch, agency, or organization” for “bank or company” in four places, and in fifth par. substituted “30” for “20” before “years”.
 
 Pub. L. 101–647, §2597(h)(3)(A), in sixth par. struck out “and” after “one of the Federal Reserve Banks;”.
 
@@ -48,7 +48,7 @@ Pub. L. 101–647, §2597(h)(3)(B), which, in sixth par., directed insertion of 
 
 Pub. L. 101–647, §2595(a)(3)(C), inserted “For purposes of this section, the term ‘depository institution holding company’ has the meaning given such term in section 3(w)(1) of the Federal Deposit Insurance Act.” at end of sixth par.
 
-1989—Pub. L. 101–73 in first par. inserted “bank or savings and loan holding company,” after “member bank,”, in third par. inserted “or company” after “bank” wherever appearing and substituted a semicolon for the dash after “Federal Reserve System”, added fourth par. reading: “Whoever with intent to defraud the United States or any agency thereof, or any financial institution referred to in this section, participates or shares in or receives (directly or indirectly) any money, profit, property, or benefits through any transaction, loan, commission, contract, or any other act of any such financial institution—”, and, in fifth par. substituted “$1,000,000” for “$5,000” and “20 years” for “five years”.
+<b>1989</b>—Pub. L. 101–73 in first par. inserted “bank or savings and loan holding company,” after “member bank,”, in third par. inserted “or company” after “bank” wherever appearing and substituted a semicolon for the dash after “Federal Reserve System”, added fourth par. reading: “Whoever with intent to defraud the United States or any agency thereof, or any financial institution referred to in this section, participates or shares in or receives (directly or indirectly) any money, profit, property, or benefits through any transaction, loan, commission, contract, or any other act of any such financial institution—”, and, in fifth par. substituted “$1,000,000” for “$5,000” and “20 years” for “five years”.
 
 #### Exception as to Transfer of Functions
 

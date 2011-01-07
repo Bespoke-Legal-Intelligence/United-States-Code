@@ -1,6 +1,6 @@
 ### §5105. Joint applications for social security and dependency and indemnity compensation
 
-(a) The Secretary and the Commissioner of Social Security shall jointly prescribe forms for use by survivors of members and former members of the uniformed services in filing application for benefits under chapter 13 of this title and title II of the Social Security Act (42 U.S.C. 401 et seq.). Each such form shall request information sufficient to constitute an application for benefits under both chapter 13 of this title and title II of the Social Security Act (42 U.S.C. 401 et seq.).
+(a) The Secretary and the Commissioner of Social Security shall jointly prescribe forms foruse by survivors of members and former members of the uniformed services in filing application for benefits under chapter 13 of this title and title II of the Social Security Act (42 U.S.C. 401 et seq.). Each such form shall request information sufficient to constitute an application for benefits under both chapter 13 of this title and title II of the Social Security Act (42 U.S.C. 401 et seq.).
 
 (b) When an application on such a form is filed with either the Secretary or the Commissioner of Social Security, it shall be deemed to be an application for benefits under both chapter 13 of this title and title II of the Social Security Act (42 U.S.C. 401 et seq.). A copy of each such application filed with either the Secretary or the Commissioner, together with any additional information and supporting documents (or certifications thereof) which may have been received by the Secretary or the Commissioner with such application, and which may be needed by the other official in connection therewith, shall be transmitted by the Secretary or the Commissioner receiving the application to the other official. The preceding sentence shall not prevent the Secretary and the Commissioner of Social Security from requesting the applicant, or any other individual, to furnish such additional information as may be necessary for purposes of chapter 13 of this title and title II of the Social Security Act (42 U.S.C. 401 et seq.), respectively.
 
@@ -16,19 +16,19 @@ Prior section 5105 was renumbered section 8305 of this title.
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–296, §108(k)(1), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–296, §108(k)(1), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
 
 Subsec. (b). Pub. L. 103–296, §108(k), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” in two places and amended second sentence generally. Prior to amendment, second sentence read as follows: “A copy of each such application filed with either Secretary, together with any additional information and supporting documents (or certifications thereof) which may have been received by that Secretary with such application, and which may be needed by the other Secretary in connection therewith, shall be transmitted by the Secretary receiving the application to the other Secretary.”
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 3005 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 3005 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(9)(A)–(C), substituted “(a) The Secretary” for “The Administrator” at the beginning of text and substituted “401 et seq.).” for “401 et seq.); and” in second sentence.
 
 Subsec. (b). Pub. L. 102–83, §4(b)(9)(D)–(J), substituted “(b) When an application on such a form is filed with either the Secretary” for “when an application on such form has been filed with either the Administrator”, “filed with either Secretary” for “filed with the Administrator”, “received by that Secretary” for “received by the Administrator”, “needed by the other Secretary” for “needed by the Secretary”, and “by the Secretary receiving the application to the other Secretary.” for “by the Administrator to the Secretary;”, struck out “and a copy of each such application filed with the Secretary, together with any additional information and supporting documents (or certifications thereof) which may have been received by the Secretary with such form, and which may be needed by the Administrator in connection therewith, shall be transmitted by the Secretary to the Administrator.” before “The preceding sentence”, and substituted “the Secretary and the Secretary of Health and Human Services” for “the Secretary and the Administrator”.
 
-1983—Pub. L. 98–160 substituted “title II of the Social Security Act (42 U.S.C. 401 et seq.)” for “subchapter II of chapter 7 of title 42” wherever appearing.
+<b>1983</b>—Pub. L. 98–160 substituted “title II of the Social Security Act (42 U.S.C. 401 et seq.)” for “subchapter II of chapter 7 of title 42” wherever appearing.
 
-1982—Pub. L. 97–295 substituted “Health and Human Services” for “Health, Education, and Welfare” wherever appearing.
+<b>1982</b>—Pub. L. 97–295 substituted “Health and Human Services” for “Health, Education, and Welfare” wherever appearing.
 
 #### Effective Date of 1994 Amendment
 

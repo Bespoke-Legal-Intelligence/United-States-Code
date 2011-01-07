@@ -40,13 +40,13 @@ Audits.—(1) On or before June 30 of each year, an independent counsel shall pr
 
 &emsp;(A) conduct a financial review of a mid-year statement and a financial audit of a year-end statement and statement on termination; and
 
-&emsp;(B) report the results to the Committee on the Judiciary, Committee on GovernmentalAffairs, and Committee on Appropriations of the Senate and the Committee on the Judiciary, Committee on Government Operations, and Committee on Appropriations of the House of Representatives not later than 90 days following the submission of each such statement.
+&emsp;(B) report the results to the Committee on the Judiciary, Committee on Governmental Affairs, and Committee on Appropriations of the Senate and the Committee on the Judiciary, Committee on Government Operations, and Committee on Appropriations of the House of Representatives not later than 90 days following the submission of each such statement.
 
 (Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1872; amended Pub. L. 97–409, §§2(a)(1), 6(d), Jan. 3, 1983, 96 Stat. 2039, 2042; Pub. L. 98–620, title IV, §402(29)(A), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1304; Pub. L. 103–270, §§3(h), (i), 5, June 30, 1994, 108 Stat. 735, 737.)
 
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–270, §5, substituted “physical or mental disability (if not prohibited by law protecting persons from discrimination on the basis of such a disability),” for “physical disability, mental incapacity”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–270, §5, substituted “physical or mental disability (if not prohibited by law protecting persons from discrimination on the basis of such a disability),” for “physical disability, mental incapacity”.
 
 Subsec. (b)(2). Pub. L. 103–270, §3(h), inserted at end “If the Attorney General has not made a request under this paragraph, the division of the court shall determine on its own motion whether termination is appropriate under this paragraph no later than 2 years after the appointment of an independent counsel, at the end of the succeeding 2-year period, and thereafter at the end of each succeeding 1-year period.”
 
@@ -54,11 +54,11 @@ Subsec. (c). Pub. L. 103–270, §3(i), amended subsec. (c) generally. Prior to 
 
 Audits.—After the termination of the office of an independent counsel, the Comptroller General shall conduct an audit of the expenditures of that office, and shall submit to the appropriate committees of the Congress a report on the audit.”
 
-1987—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (c) for former subsecs. (a) and (b) which related to similar subject matter.
+<b>1987</b>—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (c) for former subsecs. (a) and (b) which related to similar subject matter.
 
-1984—Subsec. (a)(3). Pub. L. 98–620 struck out provision requiring the division of the court to cause such an action to be in every way expedited.
+<b>1984</b>—Subsec. (a)(3). Pub. L. 98–620 struck out provision requiring the division of the court to cause such an action to be in every way expedited.
 
-1983—Pub. L. 97–409, §2(a)(1)(A), substituted “independent counsel” for “special prosecutor” in section catchline.
+<b>1983</b>—Pub. L. 97–409, §2(a)(1)(A), substituted “independent counsel” for “special prosecutor” in section catchline.
 
 Subsec. (a)(1). Pub. L. 97–409, §§2(a)(1), 6(d), substituted “independent counsel” for “special prosecutor”, “good cause” for “extraordinary impropriety”, and “independent counsel's” for “special prosecutor's”.
 
@@ -76,7 +76,7 @@ Amendment by Pub. L. 103–270 applicable with respect to independent counsels a
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to proceedings initiated and independent counsels appointed on and after Dec. 15, 1987, but with subsecs. (a)(3) and (c) applicable to previously initiated proceedings pending on Dec. 15, 1987, see section 6 of Pub. L. 100–191, set out as a note under section 591 of this title.
+Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to proceedings initiated and independentcounsels appointed on and after Dec. 15, 1987, but with subsecs. (a)(3) and (c) applicable to previously initiated proceedings pending on Dec. 15, 1987, see section 6 of Pub. L. 100–191, set out as a note under section 591 of this title.
 
 #### Effective Date of 1984 Amendment
 

@@ -42,7 +42,7 @@ For purposes of this section—
 
 Amounts paid for certain lodging away from home treated as paid for medical care.—Amounts paid for lodging (not lavish or extravagant under the circumstances) while away from home primarily for and essential to medical care referred to in paragraph (1)(A) shall be treated as amounts paid for medical care if—
 
-&emsp;&emsp;(A) the medical care referred to in paragraph (1)(A) is provided by a physician in alicensed hospital (or in a medical care facility which is related to, or the equivalent of, a licensed hospital), and
+&emsp;&emsp;(A) the medical care referred to in paragraph (1)(A) is provided by a physician in a licensed hospital (or in a medical care facility which is related to, or the equivalent of, a licensed hospital), and
 
 &emsp;&emsp;(B) there is no significant element of personal pleasure, recreation, or vacation in the travel away from home.
 
@@ -156,11 +156,19 @@ Certain payments to relatives treated as not paid for medical care.—An amount 
 
 Any expense allowed as a credit under section 21 shall not be treated as an expense paid for medical care.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 69; Pub. L. 85–866, title I, §§16, 17(a), (b), Sept. 2, 1958, 72 Stat. 1613, 1614; Pub. L. 86–470, §3(a), May 14, 1960, 74 Stat. 133; Pub. L. 87–863, §1(a), (b), Oct. 23, 1962, 76 Stat. 1141; Pub. L. 88–272, title II, §211(a), Feb. 26, 1964, 78 Stat. 49; Pub. L. 89–97, title I, §106(a)–(d)(1), July 30, 1965, 79 Stat. 336, 337; Pub. L. 94–455, title V, §504(c)(1), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1565, 1834; Pub. L. 97–248, title II, §202(a)–(b)(3)(B), Sept. 3, 1982, 96 Stat. 421; Pub. L. 98–369, div. A, title IV, §§423(b)(1), (3), 474(r)(9), 482(a), (b)(1), title VII, §711(b), July 18, 1984, 98 Stat. 800, 841, 847, 848, 943; Pub. L. 99–514, title I, §133, Oct. 22, 1986, 100 Stat. 2116; Pub. L. 101–508, title XI, §§11111(d)(1), 11342(a), Nov. 5, 1990, 104 Stat. 1388–412, 1388–471; Pub. L. 103–66, title XIII, §13131(d)(3), Aug. 10, 1993, 107 Stat. 435; Pub. L. 104–191, title III, §322(a)–(b)(2)(A), (C), (3), (4), Aug. 21, 1996, 110 Stat. 2060–2062; Pub. L. 108–311, title II, §207(17), (18), Oct. 4, 2004, 118 Stat. 1177.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 69; Pub. L. 85–866, title I, §§16, 17(a), (b), Sept. 2, 1958, 72 Stat. 1613, 1614; Pub. L. 86–470, §3(a), May 14, 1960, 74 Stat. 133; Pub. L. 87–863, §1(a), (b), Oct. 23, 1962, 76 Stat. 1141; Pub. L. 88–272, title II, §211(a), Feb. 26, 1964, 78 Stat. 49; Pub. L. 89–97, title I, §106(a)–(d)(1), July 30, 1965, 79 Stat. 336, 337; Pub. L. 94–455, title V, §504(c)(1), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1565, 1834; Pub. L. 97–248, title II, §202(a)–(b)(3)(B), Sept. 3, 1982, 96 Stat. 421; Pub. L. 98–369, div. A, title IV, §§423(b)(1), (3), 474(r)(9), 482(a), (b)(1), title VII, §711(b), July 18, 1984, 98 Stat. 800, 841, 847, 848, 943; Pub. L. 99–514, title I, §133, Oct. 22, 1986, 100 Stat. 2116; Pub. L. 101–508, title XI, §§11111(d)(1), 11342(a), Nov. 5, 1990, 104 Stat. 1388–412, 1388–471; Pub. L. 103–66, title XIII, §13131(d)(3), Aug. 10, 1993, 107 Stat. 435; Pub. L. 104–191, title III, §322(a)–(b)(2)(A), (C), (3), (4), Aug. 21, 1996, 110 Stat. 2060–2062; Pub. L. 108–311, title II, §207(17), (18), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 111–148, title IX, §9013(a), (b), Mar. 23, 2010, 124 Stat. 868.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
+#### Amendment of Section
+
+<i>Pub. L. 111–148, title IX, §9013(a), (b), (d), Mar. 23, 2010, 124 Stat. 868, provided that, applicable to taxable years beginning after Dec. 31, 2012, this section is amended (1) in subsection (a), by striking “7.5 percent” and inserting “10 percent”; and (2) by adding at the end the following new subsection:</i>
+
+#### <i>(f) Special rule for 2013, 2014, 2015, and 2016</i>
+
+<i>In the case of any taxable year beginning after December 31, 2012, and ending before January 1, 2017, subsection (a) shall be applied with respect to a taxpayer by substituting “7.5 percent” for “10 percent” if such taxpayer or such taxpayer's spouse has attained age 65 before the close of such taxable year.</i>
 
 #### References In Text
 
@@ -168,11 +176,11 @@ The Social Security Act, referred to in subsec. (d)(1)(D), is act Aug. 14, 1935,
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–311, §207(17), inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–311, §207(17), inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
 
 Subsec. (d)(11). Pub. L. 108–311, §207(18), substituted “subparagraphs (A) through (G) of section 152(d)(2)” for “paragraphs (1) through (8) of section 152(a)” in concluding provisions.
 
-1996—Subsec. (d)(1). Pub. L. 104–191, §322(b)(2)(A), inserted concluding provisions “In the case of a qualified long-term care insurance contract (as defined in section 7702B(b)), only eligible long-term care premiums (as defined in paragraph (10)) shall be taken into account under subparagraph (D).”
+<b>1996</b>—Subsec. (d)(1). Pub. L. 104–191, §322(b)(2)(A), inserted concluding provisions “In the case of a qualified long-term care insurance contract (as defined in section 7702B(b)), only eligible long-term care premiums (as defined in paragraph (10)) shall be taken into account under subparagraph (D).”
 
 Subsec. (d)(1)(B). Pub. L. 104–191, §322(a), struck out “or” at end.
 
@@ -190,15 +198,15 @@ Subsec. (d)(7). Pub. L. 104–191, §322(b)(4), substituted “subparagraphs (A)
 
 Subsec. (d)(10), (11). Pub. L. 104–191, §322(b)(2)(C), added pars. (10) and (11).
 
-1993—Subsec. (f). Pub. L. 103–66 struck out heading and text of subsec. (f). Text read as follows: “The amount otherwise taken into account under subsection (a) as expenses paid for medical care shall be reduced by the amount (if any) of the health insurance credit allowable to the taxpayer for the taxable year under section 32.”
+<b>1993</b>—Subsec. (f). Pub. L. 103–66 struck out heading and text of subsec. (f). Text read as follows: “The amount otherwise taken into account under subsection (a) as expenses paid for medical care shall be reduced by the amount (if any) of the health insurance credit allowable to the taxpayer for the taxable year under section 32.”
 
-1990—Subsec. (d)(9). Pub. L. 101–508, §11342(a), added par. (9).
+<b>1990</b>—Subsec. (d)(9). Pub. L. 101–508, §11342(a), added par. (9).
 
 Subsec. (f). Pub. L. 101–508, §11111(d)(1), added subsec. (f).
 
-1986—Subsec. (a). Pub. L. 99–514 substituted “7.5 percent” for “5 percent”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514 substituted “7.5 percent” for “5 percent”.
 
-1984—Subsec. (d)(2), (3). Pub. L. 98–369, §482(a), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
+<b>1984</b>—Subsec. (d)(2), (3). Pub. L. 98–369, §482(a), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
 
 Subsec. (d)(4). Pub. L. 98–369, §482(a), redesignated par. (3) as (4). Former par. (4), as added by Pub. L. 98–369, §423(b)(1), redesignated (5).
 
@@ -222,7 +230,7 @@ Subsec. (d)(8). Pub. L. 98–369, §482(a), redesignated par. (7) as (8).
 
 Subsec. (e). Pub. L. 98–369, §474(r)(9), substituted “section 21” for “section 44A”.
 
-1982—Subsec. (a). Pub. L. 97–248, §202(a), substituted provisions that there shall be allowed as a deduction the expenses paid during the taxable year, not compensated for by insurance or otherwise, for medical care of the taxpayer, his spouse, or a dependent (as defined in section 152), to the extent that such expenses exceed 5 percent of adjusted gross income, for provision allowing as deductions the amount by which the amount of the expenses paid during the taxable year (reduced by any amount deductible under paragraph (2)) for medical care of the taxpayer, his spouse, and dependents (as defined in section 152) exceeded 3 percent of the adjusted gross income, and an amount (not in excess of $150) equal to one-half of the expenses paid during the taxable year for insurance which constituted medical care for the taxpayer, his spouse, and dependents.
+<b>1982</b>—Subsec. (a). Pub. L. 97–248, §202(a), substituted provisions that there shall be allowed as a deduction the expenses paid during the taxable year, not compensated for by insurance or otherwise, for medical care of the taxpayer, his spouse, or a dependent (as defined in section 152), to the extent that such expenses exceed 5 percent of adjusted gross income, for provision allowing as deductions the amount by which the amount of the expenses paid during the taxable year (reduced by any amount deductible under paragraph (2)) for medical care of the taxpayer, his spouse, and dependents (as defined in section 152) exceeded 3 percentof the adjusted gross income, and an amount (not in excess of $150) equal to one-half of the expenses paid during the taxable year for insurance which constituted medical care for the taxpayer, his spouse, and dependents.
 
 Subsec. (b). Pub. L. 97–248, §202(b)(1), amended subsec. (b) generally, substituting provision that an amount paid during the taxable year for medicine or a drug shall be taken into account under subsec. (a) only if such medicine or drug is a prescribed drug or is insulin for former provision that amounts paid during the taxable year for medicine and drugs which (but for this subsection) would have been taken into account in computing the deduction under subsec. (a) would be taken into account only to the extent that the aggregate of such amounts exceeded 1 percent of the adjusted gross income.
 
@@ -232,11 +240,11 @@ Subsec. (d). Pub. L. 97–248, §202(b)(2), (3)(A), (B), redesignated subsec. (e
 
 Subsecs. (e), (f). Pub. L. 97–248, §202(b)(3)(B), redesignated subsecs. (e) and (f) as (d) and (e), respectively.
 
-1976—Subsec. (d)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (d)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (f). Pub. L. 94–455, §504(c)(1), substituted “a credit under section 44A” for “a deduction under section 214” after “allowed as”.
 
-1965—Subsec. (a). Pub. L. 89–97, §106(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There shall be allowed as a deduction the following amounts of the expenses paid during the taxable year, not compensated for by insurance or otherwise, for medical care of the taxpayer, his spouse, or a dependent (as defined in section 152):
+<b>1965</b>—Subsec. (a). Pub. L. 89–97, §106(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There shall be allowed as a deduction the following amounts of the expenses paid during the taxable year, not compensated for by insurance or otherwise, for medical care of the taxpayer, his spouse, or a dependent (as defined in section 152):
 
 &emsp;“(1) If neither the taxpayer nor his spouse has attained the age of 65 before the close of the taxable year—
 
@@ -268,19 +276,23 @@ Subsec. (e). Pub. L. 89–97, §106(c), struck out from par. (1)(A) “including
 
 Subsec. (g). Pub. L. 89–97, §106(d)(1), struck out provisions relating to maximum limitation if taxpayer or spouse has attained age 65 and is disabled, special rule, amounts taken into account, meaning of disabled, and determination of status.
 
-1964—Subsec. (b). Pub. L. 88–272 excluded persons attaining age 65 before the close of the taxable year from the limitation, whether they are the taxpayer and his spouse, or the mother or father of the taxpayer and his spouse.
+<b>1964</b>—Subsec. (b). Pub. L. 88–272 excluded persons attaining age 65 before the close of the taxable year from the limitation, whether they are the taxpayer and his spouse, or the mother or father of the taxpayer and his spouse.
 
-1962—Subsec. (c). Pub. L. 87–863, §1(a), substituted “$5,000” for “$2,500”, “$10,000” for “$5,000”, and “$20,000” for “$10,000”.
+<b>1962</b>—Subsec. (c). Pub. L. 87–863, §1(a), substituted “$5,000” for “$2,500”, “$10,000” for “$5,000”, and “$20,000” for “$10,000”.
 
 Subsec. (g). Pub. L. 87–863, §1(b), substituted “$20,000” for “$15,000” in three places, and “$40,000” for “$30,000”.
 
-1960—Subsec. (a). Pub. L. 86–470 authorized a taxpayer to deduct medical care expenses for dependent parents of the taxpayer or his spouse who have attained the age of 65 before the close of the taxable year without applying the three percent limitation.
+<b>1960</b>—Subsec. (a). Pub. L. 86–470 authorized a taxpayer to deduct medical care expenses for dependent parents of the taxpayer or his spouse who have attained the age of 65 before the close of the taxable year without applying the three percent limitation.
 
-1958—Subsec. (c). Pub. L. 85–866, §17(b), substituted “Except as provided in subsection (g), the” for “The”.
+<b>1958</b>—Subsec. (c). Pub. L. 85–866, §17(b), substituted “Except as provided in subsection (g), the” for “The”.
 
 Subsec. (d)(2)(A). Pub. L. 85–866, §16, struck out “claimed or” before “allowed”.
 
 Subsec. (g). Pub. L. 85–866, §17(A), added subsec. (g).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–148 applicable to taxable years beginning after Dec. 31, 2012, see section 9013(d) of Pub. L. 111–148, set out as a note under section 56 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -332,7 +344,7 @@ Amendment by section 504(c)(1) of Pub. L. 94–455 applicable to taxable years b
 
 #### Effective Date of 1965 Amendment
 
-Section 106(e) of Pub. L. 89–97 provided that: “The amendments made by this section \[amending this section and sections 72, 79, 401, and 405 of this title\] shallapply to taxable years beginning after December 31, 1966.”
+Section 106(e) of Pub. L. 89–97 provided that: “The amendments made by this section \[amending this section and sections 72, 79, 401, and 405 of this title\] shall apply to taxable years beginning after December 31, 1966.”
 
 #### Effective Date of 1964 Amendment
 

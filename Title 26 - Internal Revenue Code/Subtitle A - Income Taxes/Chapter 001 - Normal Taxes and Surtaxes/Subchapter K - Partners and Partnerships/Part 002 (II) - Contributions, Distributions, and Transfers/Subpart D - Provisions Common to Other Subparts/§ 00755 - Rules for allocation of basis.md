@@ -32,9 +32,9 @@ In making an allocation under subsection (a) of any decrease in the adjusted bas
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–357 added subsec. (c).
+<b>2004</b>—Subsec. (c). Pub. L. 108–357 added subsec. (c).
 
-1976—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date of 2004 Amendment
 

@@ -6,7 +6,7 @@ Except as otherwise provided in this chapter, the average weekly wage of the inj
 
 (b) If the injured employee shall not have worked in such employment during substantially the whole of such year, his average annual earnings, if a six-day worker, shall consist of three hundred times the average daily wage or salary, and, if a five-day worker, two hundred and sixty times the average daily wage or salary, which an employee of the same class working substantially the whole of such immediately preceding year in the same or in similar employment in the same or a neighboring place shall have earned in such employment during the days when so employed.
 
-(c) If either of the foregoing methods of arriving at the average annual earnings of the injured employee cannot reasonably and fairly beapplied, such average annual earnings shall be such sum as, having regard to the previous earnings of the injured employee in the employment in which he was working at the time of the injury, and of other employees of the same or most similar class working in the same or most similar employment in the same or neighboring locality, or other employment of such employee, including the reasonable value of the services of the employee if engaged in self-employment, shall reasonably represent the annual earning capacity of the injured employee.
+(c) If either of the foregoing methods of arriving at the average annual earnings of the injured employee cannot reasonably and fairly be applied, such average annual earnings shall be such sum as, having regard to the previous earnings of the injured employee in the employment in which he was working at the time of the injury, and of other employees of the same or most similar class working in the same or most similar employment in the same or neighboring locality, or other employment of such employee, including the reasonable value of the services of the employee if engaged in self-employment, shall reasonably represent the annual earning capacity of the injured employee.
 
 (d)(1) The average weekly wages of an employee shall be one fifty-second part of his average annual earnings.
 
@@ -38,15 +38,15 @@ Except as otherwise provided in this chapter, the average weekly wage of the inj
 
 #### Amendments
 
-1984—Subsec. (d). Pub. L. 98–426, §10(a)(1), designated existing provisions as par. (1) and added par. (2).
+<b>1984</b>—Subsec. (d). Pub. L. 98–426, §10(a)(1), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (f). Pub. L. 98–426, §10(b), substituted “subject to this chapter” for “sustained after October 27, 1972,” and inserted “the lesser of—” after “by” in introductory language, designated balance of existing provisions as par. (1), substituted “; or” for a period at end of par. (1), and added par. (2).
 
 Subsec. (i). Pub. L. 98–426, §10(a)(2), added subsec. (i).
 
-1972—Subsecs. (f) to (h). Pub. L. 92–576 added subsecs. (f) to (h).
+<b>1972</b>—Subsecs. (f) to (h). Pub. L. 92–576 added subsecs. (f) to (h).
 
-1948—Subsec. (a). Act June 24, 1948, included a factor (a 260 multiplier) so as to make this subsec. useful in 5-day week employments.
+<b>1948</b>—Subsec. (a). Act June 24, 1948, included a factor (a 260 multiplier) so as to make this subsec. useful in 5-day week employments.
 
 Subsec. (b). Act June 24, 1948, included the new factor (a 260 multiplier) to make this subsec. consistent with subsec. (a).
 
@@ -54,7 +54,7 @@ Subsec. (c). Act June 24, 1948, permitted the inclusion of all earnings of the i
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 10(a) of Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect toclaims filed after such date and to claims pending on such date, and amendment by section 10(b) of Pub. L. 98–426 effective Sept. 28, 1984, see section 28(a), (e)(1) of Pub. L. 98–426, set out as a note under section 901 of this title.
+Amendment by section 10(a) of Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect to claims filed after such date and to claims pending on such date, and amendment by section 10(b) of Pub. L. 98–426 effective Sept. 28, 1984, see section 28(a), (e)(1) of Pub. L. 98–426, set out as a note under section 901 of this title.
 
 #### Effective Date of 1972 Amendment
 

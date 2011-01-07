@@ -22,7 +22,7 @@ The purpose of this chapter is to provide for the conservation and protection of
 
 #### Amendments
 
-1996—Subsec. (a)(1) to (3). Pub. L. 104–227, §101(a)(1), added pars. (1) to (3). Former pars. (1) and (2) redesignated (4) and (5), respectively.
+<b>1996</b>—Subsec. (a)(1) to (3). Pub. L. 104–227, §101(a)(1), added pars. (1) to (3). Former pars. (1) and (2) redesignated (4) and (5), respectively.
 
 Subsec. (a)(4). Pub. L. 104–227, §101(a)(1), (2), redesignated par. (1) as (4) and substituted “the Protocol establish a firm foundation for the conservation of Antarctic resources,” for “the Agreed Measures for the Conservation of Antarctic Fauna and Flora, adopted at the Third Antarctic Treaty Consultative Meeting, have established a firm foundation”.
 

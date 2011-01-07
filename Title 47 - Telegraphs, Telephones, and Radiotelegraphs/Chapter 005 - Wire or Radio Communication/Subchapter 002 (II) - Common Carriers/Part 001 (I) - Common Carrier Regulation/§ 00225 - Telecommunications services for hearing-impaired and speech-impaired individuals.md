@@ -14,7 +14,7 @@ As used in this section—
 
 #### (3) Telecommunications relay services
 
-&emsp;The term “telecommunications relay services” means telephone transmission services that provide the ability for an individual who has a hearing impairment or speech impairment to engage in communication by wire or radio with a hearing individual in a manner that is functionally equivalent to the ability of an individual who does not have a hearing impairment or speech impairment to communicate using voice communication services bywire or radio. Such term includes services that enable two-way communication between an individual who uses a TDD or other nonvoice terminal device and an individual who does not use such a device.
+&emsp;The term “telecommunications relay services” means telephone transmission servicesthat provide the ability for an individual who is deaf, hard of hearing, deaf-blind, or who has a speech disability to engage in communication by wire or radio with one or more individuals, in a manner that is functionally equivalent to the ability of a hearing individual who does not have a speech disability to communicate using voice communication services by wire or radio.
 
 #### (b) Availability of telecommunications relay services
 
@@ -118,9 +118,11 @@ Each common carrier providing telephone voice transmission services shall, not l
 
 &emsp;&emsp;(B) the Commission determines that such State program is no longer qualified for certification under subsection (f) of this section.
 
-(June 19, 1934, ch. 652, title II, §225, as added Pub. L. 101–336, title IV, §401(a), July 26, 1990, 104 Stat. 366; amended Pub. L. 104–104, §3(d)(1), Feb. 8, 1996, 110 Stat. 61.)
+(June 19, 1934, ch. 652, title II, §225, as added Pub. L. 101–336, title IV, §401(a), July 26, 1990, 104 Stat. 366; amended Pub. L. 104–104, §3(d)(1), Feb. 8, 1996, 110 Stat. 61; Pub. L. 111–260, title I, §103(a), Oct. 8, 2010, 124 Stat. 2755.)
 
 #### Amendments
 
-1996—Subsec. (a)(1). Pub. L. 104–104 substituted “section 153” for “section 153(h)”.
+<b>2010</b>—Subsec. (a)(3). Pub. L. 111–260 amended par. (3) generally. Prior to amendment, text read as follows: “The term ‘telecommunications relay services’ means telephone transmission services that provide the ability for an individual who has a hearing impairment or speech impairment to engage in communication by wire or radio with a hearing individual in a manner that is functionally equivalent to the ability of an individual who does not have a hearing impairment or speech impairment to communicate using voice communication services by wire or radio. Such term includes services that enable two-way communication between an individual who uses a TDD or other nonvoice terminal device and an individual who does not use such a device.”
+
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–104 substituted “section 153” for “section 153(h)”.
 

@@ -20,7 +20,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-30701D36:501.DJuly 19, 1954, ch. 536, §§1, 2, 68 Stat. 489.
+30701
+
+36:501.
+
+July 19, 1954, ch. 536, §§1, 2, 68 Stat. 489.
 
 &nbsp;
 

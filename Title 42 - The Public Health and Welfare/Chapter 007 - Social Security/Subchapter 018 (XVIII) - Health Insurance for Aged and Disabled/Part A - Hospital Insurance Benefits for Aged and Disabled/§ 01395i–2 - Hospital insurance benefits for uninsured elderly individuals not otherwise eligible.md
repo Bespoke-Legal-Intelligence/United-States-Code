@@ -36,13 +36,13 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 > &emsp;whichever is the latest;
 
-&emsp;(4) an individual's entitlement under this section shall terminate with the month before the first month in which he becomes eligible for hospital insurance benefits under section 426 of this title or section 426a of this title; and upon such termination, such individual shall be deemed, solely for purposes of hospital insurance entitlement, to have filed in such first month the application required to establish such entitlement;
+&emsp;(4) an individual's entitlement under this section shall terminate with the month beforethe first month in which he becomes eligible for hospital insurance benefits under section 426 of this title or section 426a of this title; and upon such termination, such individual shall be deemed, solely for purposes of hospital insurance entitlement, to have filed in such first month the application required to establish such entitlement;
 
 &emsp;(5) termination of coverage for supplementary medical insurance shall result in simultaneous termination of hospital insurance benefits for uninsured individuals who are not otherwise entitled to benefits under this chapter;
 
 &emsp;(6) any percent increase effected under section 1395r(b) of this title in an individual's monthly premium may not exceed 10 percent and shall only apply to premiums paid during a period equal to twice the number of months in the full 12-month periods described in that section and shall be subject to reduction in accordance with subsection (d)(6) of this section;
 
-&emsp;(7) an individual who meets the conditions of subsection (a) of this section may enroll under this part during a special enrollment period that includes any month during any part of which the individual is enrolled under section 1395mm of this title with an eligible organization and ending with the last day of the 8thconsecutive month in which the individual is at no time so enrolled;
+&emsp;(7) an individual who meets the conditions of subsection (a) of this section may enroll under this part during a special enrollment period that includes any month during any part of which the individual is enrolled under section 1395mm of this title with an eligible organization and ending with the last day of the 8th consecutive month in which the individual is at no time so enrolled;
 
 &emsp;(8) in the case of an individual who enrolls during a special enrollment period under paragraph (7)—
 
@@ -110,13 +110,13 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 &emsp;(i) the individual's premium under this section for the month is not (and will not be) paid for, in whole or in part, by a State (under subchapter XIX of this chapter or otherwise), a political subdivision of a State, or an agency or instrumentality of one or more States or political subdivisions thereof; and
 
-&emsp;(ii) in each of 84 months before such month, the individual was enrolled in this part under this section and the payment of the individual's premium under this section for the month was not paid for, in whole or in part, by a State (under subchapter XIX of this chapter or otherwise), a political subdivision of a State, or an agency or instrumentality of one or more States or political subdivisions thereof.
+&emsp;(ii) in each of 84 months before such month, the individual was enrolled in this part underthis section and the payment of the individual's premium under this section for the month was not paid for, in whole or in part, by a State (under subchapter XIX of this chapter or otherwise), a political subdivision of a State, or an agency or instrumentality of one or more States or political subdivisions thereof.
 
 (B) A person described in this subparagraph for a month is a person who establishes to the satisfaction of the Secretary that, as of the last day of the previous month—
 
 &emsp;(i)(I) the person was receiving cash benefits under a qualified State or local government retirement system (as defined in subparagraph (C)) on the basis of the person's employment in one or more positions covered under any such system, and (II) the person would have at least 40 quarters of coverage under subchapter II of this chapter if remuneration for medicare qualified government employment (as defined in paragraph (1) of section 410(p) of this title, but determined without regard to paragraph (3) of such section) paid to such person were treated as wages paid to such person and credited for purposes of determining quarters of coverage under section 413 of this title;
 
-&emsp;(ii)(I) the person was married (and had been married for the previous 1-year period) to an individual who is described in clause (i), or (II)the person met the requirement of clause (i)(II) and was married (and had been married for the previous 1-year period) to an individual described in clause (i)(I);
+&emsp;(ii)(I) the person was married (and had been married for the previous 1-year period) to an individual who is described in clause (i), or (II) the person met the requirement of clause (i)(II) and was married (and had been married for the previous 1-year period) to an individual described in clause (i)(I);
 
 &emsp;(iii) the person had been married to an individual for a period of at least 1 year (at the time of such individual's death) if (I) the individual was described in clause (i) at the time of the individual's death, or (II) the person met the requirement of clause (i)(II) and the individual was described in clause (i)(I) at the time of the individual's death; or
 
@@ -156,7 +156,7 @@ Amounts paid to the Secretary for coverage under this section shall be deposited
 
 (B) For purposes of this subsection, section 1395v(d)(1) of this title shall be applied by substituting “section 1395i–2 of this title” for “section 1395r of this title” and “subsection (c)(6) (with reference to subsection (b) of section 1395r of this title)” for “subsection (b)”.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1818, as added Pub. L. 92–603, title II, §202, Oct. 30, 1972, 86 Stat. 1374; amended Pub. L. 98–21, title VI, §606(a)(3)(D), (b), Apr. 20, 1983, 97 Stat. 170, 171; Pub. L. 98–369, div. B, title III, §§2315(e), 2354(b)(3), (4), July 18, 1984, 98 Stat. 1080, 1100; Pub. L. 99–272, title IX, §9124(a), Apr. 7, 1986, 100 Stat. 168; Pub. L. 100–203, title IV, §4009(j)(9), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(b)(8)(D), July 1, 1988, 102 Stat. 772; Pub. L. 100–360, title I, §103, July 1, 1988, 102 Stat. 687; Pub. L. 100–485, title VI, §608(d)(2), Oct. 13, 1988, 102 Stat. 2413; Pub. L. 101–239, title VI, §§6012(a)(1), 6013(a), Dec. 19, 1989, 103 Stat. 2161, 2163; Pub. L. 101–508, title IV, §4008(g)(1), (m)(3)(D), Nov. 5, 1990, 104 Stat. 1388–45, 1388–54; Pub. L. 103–66, title XIII, §13508(a), Aug. 10, 1993, 107 Stat. 579; Pub. L. 105–33, title IV, §4453(a), Aug. 5, 1997, 111 Stat. 425; Pub. L. 106–554, §1(a)(6) \[title III, §331(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–502; Pub. L. 108–173, title I, §101(e)(5), title VII, §736(a)(7), Dec. 8, 2003, 117 Stat. 2151, 2355.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1818, as added Pub. L. 92–603, title II, §202, Oct. 30, 1972, 86 Stat. 1374; amended Pub. L. 98–21, title VI,§606(a)(3)(D), (b), Apr. 20, 1983, 97 Stat. 170, 171; Pub. L. 98–369, div. B, title III, §§2315(e), 2354(b)(3), (4), July 18, 1984, 98 Stat. 1080, 1100; Pub. L. 99–272, title IX, §9124(a), Apr. 7, 1986, 100 Stat. 168; Pub. L. 100–203, title IV, §4009(j)(9), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(b)(8)(D), July 1, 1988, 102 Stat. 772; Pub. L. 100–360, title I, §103, July 1, 1988, 102 Stat. 687; Pub. L. 100–485, title VI, §608(d)(2), Oct. 13, 1988, 102 Stat. 2413; Pub. L. 101–239, title VI, §§6012(a)(1), 6013(a), Dec. 19, 1989, 103 Stat. 2161, 2163; Pub. L. 101–508, title IV, §4008(g)(1), (m)(3)(D), Nov. 5, 1990, 104 Stat. 1388–45, 1388–54; Pub. L. 103–66, title XIII, §13508(a), Aug. 10, 1993, 107 Stat. 579; Pub. L. 105–33, title IV, §4453(a), Aug. 5, 1997, 111 Stat. 425; Pub. L. 106–554, §1(a)(6) \[title III, §331(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–502; Pub. L. 108–173, title I, §101(e)(5), title VII, §736(a)(7), Dec. 8, 2003, 117 Stat. 2151, 2355.)
 
 #### References in Text
 
@@ -166,33 +166,33 @@ The Internal Revenue Code of 1986, referred to in subsec. (d)(6)(A), is classifi
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–173, §101(e)(5), inserted at end of concluding provisions “Except as otherwiseprovided, any reference to an individual entitled to benefits under this part includes an individual entitled to benefits under this part pursuant to an enrollment under this section or section 1395i–2a of this title.”
+<b>2003</b>—Subsec. (a). Pub. L. 108–173, §101(e)(5), inserted at end of concluding provisions “Except as otherwise provided, any reference to an individual entitled to benefits under this part includes an individual entitled to benefits under this part pursuant to an enrollment under this section or section 1395i–2a of this title.”
 
 Subsec. (d)(6)(A). Pub. L. 108–173, §736(a)(7)(A), inserted “of such Code” after “3111(b)”.
 
 Subsec. (g)(2)(B). Pub. L. 108–173, §736(a)(7)(B), substituted “subsection (b)” for “subsection (b).”
 
-2000—Subsec. (c)(6). Pub. L. 106–554, §1(a)(6) \[title III, §331(a)(1)\], inserted “and shall be subject to reduction in accordance with subsection (d)(6) of this section” before semicolon.
+<b>2000</b>—Subsec. (c)(6). Pub. L. 106–554, §1(a)(6) \[title III, §331(a)(1)\], inserted “and shall be subject to reduction in accordance with subsection (d)(6) of this section” before semicolon.
 
 Subsec. (d)(6). Pub. L. 106–554, §1(a)(6) \[title III, §331(a)(2)\], added par. (6).
 
-1997—Subsec. (d)(2). Pub. L. 105–33, §4453(a)(1), substituted “paragraphs (4) and (5)” for “paragraph (4)”.
+<b>1997</b>—Subsec. (d)(2). Pub. L. 105–33, §4453(a)(1), substituted “paragraphs (4) and (5)” for “paragraph (4)”.
 
 Subsec. (d)(5). Pub. L. 105–33, §4453(a)(2), added par. (5).
 
-1993—Subsec. (d)(2). Pub. L. 103–66, §13508(a)(1), substituted “Subject to paragraph (4), the amount of an individual's monthly premium under this section” for “Such amount”.
+<b>1993</b>—Subsec. (d)(2). Pub. L. 103–66, §13508(a)(1), substituted “Subject to paragraph (4), the amount of an individual's monthly premium under this section” for “Such amount”.
 
 Subsec. (d)(4). Pub. L. 103–66, §13508(a)(2), added par. (4).
 
-1990—Subsec. (c)(7) to (9). Pub. L. 101–508, §4008(g)(1), added pars. (7) to (9).
+<b>1990</b>—Subsec. (c)(7) to (9). Pub. L. 101–508, §4008(g)(1), added pars. (7) to (9).
 
 Subsec. (g)(2)(B). Pub. L. 101–508, §4008(m)(3)(D), substituted “ ‘subsection (c)(6)” for “ ‘subsection (c)”.
 
-1989—Pub. L. 101–239, §6012(a)(1), inserted “elderly” after “uninsured” in section catchline.
+<b>1989</b>—Pub. L. 101–239, §6012(a)(1), inserted “elderly” after “uninsured” in section catchline.
 
 Subsec. (g). Pub. L. 101–239, §6013(a), added subsec. (g).
 
-1988—Subsec. (c)(4) to (7). Pub. L. 100–360, §411(b)(8)(D), added Pub. L. 100–203, §4009(j)(9), see 1987 Amendment note below.
+<b>1988</b>—Subsec. (c)(4) to (7). Pub. L. 100–360, §411(b)(8)(D), added Pub. L. 100–203, §4009(j)(9), see 1987 Amendment note below.
 
 Subsec. (d). Pub. L. 100–360, §103, amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
@@ -202,17 +202,17 @@ Subsec. (d). Pub. L. 100–360, §103, amended subsec. (d) generally. Prior to a
 
 Subsec. (d)(1). Pub. L. 100–485 substituted “during that year” for “during that entire year”.
 
-1987—Subsec. (c)(4) to (7). Pub. L. 100–203, §4009(j)(9), as added by Pub. L. 100–360, §411(b)(8)(D), redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4) which read as follows: “termination of coverage under this section by the filing of notice that the individual no longer wishes to participate in the hospital insurance program shall take effect at the close of the month following the month in which such notice is filed;”.
+<b>1987</b>—Subsec. (c)(4) to (7). Pub. L. 100–203, §4009(j)(9), as added by Pub. L. 100–360, §411(b)(8)(D), redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4) which read as follows: “termination of coverage under this section by the filing of notice that the individual no longer wishes to participate in the hospital insurance program shall take effect at the close of the month following the month in which such notice is filed;”.
 
-1986—Subsec. (c)(7). Pub. L. 99–272 added par. (7).
+<b>1986</b>—Subsec. (c)(7). Pub. L. 99–272 added par. (7).
 
-1984—Subsec. (c). Pub. L. 98–369, §2315(e), substituted “subsection (b) of section 1395r of this title” for “subsection (a) of section 1395r of this title”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–369, §2315(e), substituted “subsection (b) of section 1395r of this title” for “subsection (a) of section 1395r of this title”.
 
 Subsec. (c)(1). Pub. L. 98–369, §2354(b)(3), substituted “October 1972” for “the month in which this Act is enacted”.
 
 Subsec. (d)(2). Pub. L. 98–369, §2354(b)(4), substituted “, if a multiple of 50 cents but not a multiple of $1,” for “if midway between multiples of $1”.
 
-1983—Subsec. (c). Pub. L. 98–21, §606(a)(3)(D), substituted “subsection (a) of section 1395r” for “subsection (c) of section 1395r”.
+<b>1983</b>—Subsec. (c). Pub. L. 98–21, §606(a)(3)(D), substituted “subsection (a) of section 1395r” for “subsection (c) of section 1395r”.
 
 Subsec. (d)(2). Pub. L. 98–21, §606(b), substituted “during the next to last calendar quarter of each year” for “during the last calendar quarter of each year, beginning in 1973,”, “the following calendar year” for “the 12-month period commencing July 1 of the next year”, and “for that following calendar year” for “for such next year”.
 

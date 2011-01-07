@@ -58,7 +58,7 @@ Execution of Writ.—(1) The United States marshal receiving the writ shall proc
 
 (e)
 
-Deposit of Sequestered Income.—A person who has possession of the income subject to a writ of sequestration shall deposit such income with the clerk of the court, accompanied by a statement in writing stating the person's name, the name of the debtor, the amount of such income, the property from which such income is produced, and the period during which such income is produced.
+Deposit of Sequestered Income.—A person who has possession of the income subject toa writ of sequestration shall deposit such income with the clerk of the court, accompanied by a statement in writing stating the person's name, the name of the debtor, the amount of such income, the property from which such income is produced, and the period during which such income is produced.
 
 (f)
 

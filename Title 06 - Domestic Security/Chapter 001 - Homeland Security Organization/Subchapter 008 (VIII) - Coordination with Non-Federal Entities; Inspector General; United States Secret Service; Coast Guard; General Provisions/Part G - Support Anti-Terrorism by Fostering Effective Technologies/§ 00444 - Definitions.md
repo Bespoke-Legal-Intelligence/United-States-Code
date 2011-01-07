@@ -4,7 +4,7 @@ For purposes of this part, the following definitions apply:
 
 #### (1) Qualified anti-terrorism technology
 
-&emsp;For purposes of this part, the term “qualified anti-terrorism technology” means anyproduct, equipment, service (including support services), device, or technology (including information technology) designed, developed, modified, or procured for the specific purpose of preventing, detecting, identifying, or deterring acts of terrorism or limiting the harm such acts might otherwise cause, that is designated as such by the Secretary.
+&emsp;For purposes of this part, the term “qualified anti-terrorism technology” means any product, equipment, service (including support services), device, or technology (including information technology) designed, developed, modified, or procured for the specific purpose of preventing, detecting, identifying, or deterring acts of terrorism or limiting the harm such acts might otherwise cause, that is designated as such by the Secretary.
 
 #### (2) Act of terrorism
 
@@ -16,7 +16,7 @@ Requirements.—An act meets the requirements of this subparagraph if the act—
 
 &emsp;&emsp;(i) is unlawful;
 
-&emsp;&emsp;(ii) causes harm to a person, property, or entity, in the United States, or in the case of a domestic United States air carrier or a United States-flag vessel (or a vessel based principally in the United States on which United States income tax is paid and whose insurance coverage is subject to regulation in the United States), in or outside the United States; and
+&emsp;&emsp;(ii) causes harm to a person, property, or entity, in the United States, or in the case of a domestic United States air carrier or a United States-flag vessel (or a vessel based principally in the United States on which United States income tax is paid and whose insurance coverage is subject to regulationin the United States), in or outside the United States; and
 
 &emsp;&emsp;(iii) uses or attempts to use instrumentalities, weapons or other methods designed or intended to cause mass destruction, injury or other loss to citizens or institutions of the United States.
 

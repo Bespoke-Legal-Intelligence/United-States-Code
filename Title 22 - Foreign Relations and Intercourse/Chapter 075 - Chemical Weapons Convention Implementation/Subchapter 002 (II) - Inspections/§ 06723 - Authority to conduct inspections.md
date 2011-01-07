@@ -44,9 +44,9 @@ The requirement under subsection (b)(2)(A) of this section shall not apply to in
 
 #### Amendments
 
-2001—Subsec. (b)(2). Pub. L. 107–107 inserted “(and, in the case of an inspection of a United States Government facility, the designation of contractor personnel who shall be led by an employee of the Federal Government)” after “designation of employees of the Federal Government” in introductory provisions.
+<b>2001</b>—Subsec. (b)(2). Pub. L. 107–107 inserted “(and, in the case of an inspection of a United States Government facility, the designation of contractor personnel who shall be led by an employee of the Federal Government)” after “designation of employees of the Federal Government” in introductory provisions.
 
-2000—Subsec. (c). Pub. L. 106–280 added subsec. (c).
+<b>2000</b>—Subsec. (c). Pub. L. 106–280 added subsec. (c).
 
 #### Protection of United States Companies
 

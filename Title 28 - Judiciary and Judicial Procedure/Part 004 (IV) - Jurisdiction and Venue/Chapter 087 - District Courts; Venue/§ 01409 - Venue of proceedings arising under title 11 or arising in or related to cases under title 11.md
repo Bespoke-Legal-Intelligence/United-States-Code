@@ -12,9 +12,13 @@
 
 (Added Pub. L. 98–353, title I, §102(a), July 10, 1984, 98 Stat. 334; amended Pub. L. 109–8, title IV, §410, Apr. 20, 2005, 119 Stat. 106.)
 
+#### Adjustment of Dollar Amounts
+
+<i>For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.</i>
+
 #### Amendments
 
-2005—Subsec. (b). Pub. L. 109–8 substituted “$15,000, or a debt (excluding a consumer debt) against a noninsider of less than $10,000,” for “$5,000”.
+<b>2005</b>—Subsec. (b). Pub. L. 109–8 substituted “$15,000, or a debt (excluding a consumer debt) against a noninsider of less than $10,000,” for “$5,000”.
 
 #### Effective Date of 2005 Amendment
 
@@ -26,5 +30,9 @@ Section effective July 10, 1984, see section 122(a) of Pub. L. 98–353, set out
 
 #### Adjustment of Dollar Amounts
 
-For adjustment of dollar amounts specified in subsec. (b) of this section by the Judicial Conference of the United States, see note set out under section 104 of Title 11, Bankruptcy.
+The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of Title 11, Bankruptcy, as follows:
+
+By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (b), dollar amounts “1,100”, “16,425”, and “10,950” were adjusted to “1,175”, “17,575”, and “11,725”, respectively. See notice of the Judicial Conference of the United States set out as a note under section 104 of Title 11.
+
+By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (b), dollar amounts “1,000”, “15,000”, and “10,000” were adjusted to “1,100”, “16,425”, and “10,950”, respectively.
 

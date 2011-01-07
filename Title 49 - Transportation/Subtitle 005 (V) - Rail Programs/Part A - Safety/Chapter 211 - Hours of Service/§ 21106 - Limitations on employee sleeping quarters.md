@@ -54,5 +54,5 @@ In this section, before clause (1), the words “and any individuals employed to
 
 #### Amendments
 
-2008—Pub. L. 110–432 designated existing provisions as subsec. (a), inserted heading, in par. (1), substituted “sanitary, give those employees and individuals an opportunity for rest free from the interruptions caused by noise under the control of the carrier, and provide indoor toilet facilities, potable water, and other features to protect the health of employees;” for “sanitary and give those employees and individuals an opportunity for rest free from the interruptions caused by noise under the control of the carrier;”, and added subsecs. (b) to (d).
+<b>2008</b>—Pub. L. 110–432 designated existing provisions as subsec. (a), inserted heading, in par. (1), substituted “sanitary, give those employees and individuals an opportunity for rest free from the interruptions caused by noise under the control of the carrier, and provide indoor toilet facilities, potable water, and other features to protect the health of employees;” for “sanitary and give those employees and individuals an opportunity for rest free from the interruptions caused by noise under the control of the carrier;”, and added subsecs. (b) to (d).
 

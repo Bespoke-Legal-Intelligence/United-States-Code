@@ -22,9 +22,9 @@ Statutory Construction.—(1) Nothing in this section shall be construed as auth
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–84 repealed Pub. L. 110–417, §932(a)(12). See 2008 Amendment note below.
+<b>2009</b>—Subsec. (a). Pub. L. 111–84 repealed Pub. L. 110–417, §932(a)(12). See 2008 Amendment note below.
 
-2008—Subsec. (a). Pub. L. 110–181 and Pub. L. 110–417(a)(12) amended subsec. (a) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, §932(a)(12), was repealed by Pub. L. 111–84. See 2009 Amendment note above.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181 and Pub. L. 110–417(a)(12) amended subsec. (a) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, §932(a)(12), was repealed by Pub. L. 111–84. See 2009 Amendment note above.
 
 #### Effective Date of 2009 Amendment
 

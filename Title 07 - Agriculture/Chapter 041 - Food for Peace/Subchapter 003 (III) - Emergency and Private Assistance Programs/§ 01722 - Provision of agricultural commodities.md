@@ -2,7 +2,7 @@
 
 #### (a) Emergency assistance
 
-Notwithstanding any other provision of law, the Administrator may provide agricultural commodities to meet emergency food needs under this subchapter through governments and public or private agencies, including intergovernmental organizations such as the World FoodProgram and other multilateral organizations, in such manner and on such terms and conditions as the Administrator determines appropriate to respond to the emergency.
+Notwithstanding any other provision of law, the Administrator may provide agricultural commodities to meet emergency food needs under this subchapter through governments and public or private agencies, including intergovernmental organizations such as the World Food Program and other multilateral organizations, in such manner and on such terms and conditions as the Administrator determines appropriate to respond to the emergency.
 
 #### (b) Nonemergency assistance
 
@@ -122,7 +122,7 @@ Subsec. (e)(1). Pub. L. 107–171, §3002(2), substituted “not less than 5 per
 
 Subsec. (h). Pub. L. 107–171, §3002(3), added subsec. (h).
 
-1996—Subsec. (b). Pub. L. 104–127, §207(a)(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The Administrator may provide agricultural commodities for non-emergency assistance under this subchapter through eligible organizations (as described in subsection (d) of this section) that have entered into an agreement with the Administrator to use such commodities in accordance with this subchapter.”
+1996—Subsec. (b). Pub. L. 104–127, §207(a)(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The Administratormay provide agricultural commodities for non-emergency assistance under this subchapter through eligible organizations (as described in subsection (d) of this section) that have entered into an agreement with the Administrator to use such commodities in accordance with this subchapter.”
 
 Subsec. (e). Pub. L. 104–127, §207(a)(2)(A), substituted “eligible organizations” for “private voluntary organizations and cooperatives” in heading.
 

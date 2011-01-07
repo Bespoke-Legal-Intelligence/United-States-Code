@@ -32,7 +32,7 @@ Section 199, referred to in subsec. (a)(1), is section 199 of Pub. L. 105–220,
 
 #### Amendments
 
-1998—Subsec. (a)(1). Pub. L. 105–277, §101(f) \[title VIII, §401(9)\], substituted “carrying out activities under this chapter” for “carry out activities under this chapter”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–277, §101(f) \[title VIII, §401(9)\], substituted “carrying out activities under this chapter” for “carry out activities under this chapter”.
 
 Subsec. (b)(2). Pub. L. 105–277, §101(f) \[title VIII, §401(10)\], substituted “section 2918(b)” for “section 2919(b)”.
 

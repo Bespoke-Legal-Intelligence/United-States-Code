@@ -38,7 +38,7 @@ In this section—
 
 &emsp;“poverty line” means the income official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title <sup>1</sup> applicable to a family of the size involved.
 
-&emsp;“public school” means a public elementary school, as defined in section 1001(i) <sup>2</sup> of title 20, and a public secondary school, as defined in section 1001(d) <sup>2</sup> of title 20.
+&emsp;“public school” means a public elementary school, as defined in section 1001(i) <sup>2</sup> of title 20,and a public secondary school, as defined in section 1001(d) <sup>2</sup> of title 20.
 
 &emsp;“Secretary” means the Secretary of Health and Human Services, in consultation and coordination with the Attorney General.
 
@@ -108,7 +108,7 @@ In this section—
 
 #### (1) Identification
 
-&emsp;To be eligible to receive a grant under this section, a community-based organization shall identify an eligible community to be assisted under this section.
+&emsp;To be eligible to receive a grant under this section, a community-based organization shallidentify an eligible community to be assisted under this section.
 
 #### (2) Criteria
 
@@ -286,7 +286,7 @@ Section 1001 of title 20, referred to in subsec. (b), does not have a subsec. (d
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–244 substituted “section 1001(i)” for “section 1141(i)” and “section 1001(d)” for “section 1141(d)” in definition for “public school”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–244 substituted “section 1001(i)” for “section 1141(i)” and “section 1001(d)” for “section 1141(d)” in definition for “public school”.
 
 #### Effective Date of 1998 Amendment
 

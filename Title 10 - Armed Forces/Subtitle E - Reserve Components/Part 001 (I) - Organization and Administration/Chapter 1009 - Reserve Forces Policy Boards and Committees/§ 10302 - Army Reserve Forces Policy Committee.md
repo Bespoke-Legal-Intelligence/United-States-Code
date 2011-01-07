@@ -84,17 +84,17 @@ The change is necessary to make subsection (d) coextensive with subsection (c), 
 
 #### Amendments
 
-1994—Pub. L. 103–337 renumbered section 3021 of this title as this section.
+<b>1994</b>—Pub. L. 103–337 renumbered section 3021 of this title as this section.
 
-1986—Pub. L. 99–433, §501(a)(8)(C), renumbered section 3033 of this title as this section, and substituted “Army Reserve Forces Policy Committee” for “Reserve components of Army; policies and regulations for government of” in section catchline.
+<b>1986</b>—Pub. L. 99–433, §501(a)(8)(C), renumbered section 3033 of this title as this section, and substituted “Army Reserve Forces Policy Committee” for “Reserve components of Army; policies and regulations for government of” in section catchline.
 
 Subsec. (a). Pub. L. 99–433, §501(a)(8)(A), substituted “Office” for “office” and “Committee. The Committee” for “Committee which”, inserted “and the mobilization preparedness”, and substituted “Army. The” for “Army, and the” and “Secretary of the Army and the Chief of Staff” for “Chief of Staff and the Assistant Secretary responsible for reserve affairs”.
 
 Subsec. (h). Pub. L. 99–433, §501(a)(8)(B), struck out “General” before “Staff” in two places.
 
-1967—Pub. L. 90–168 amended section generally, and restated with certain changes the existing authority relating to the Army Reserve Forces Policy Committee within the Office of the Secretary of the Army, reduced the membership of the Committee from 21 to 15, reduced the grade requirements so as to permit inclusion of colonels, and provided that the Committee review and comment upon all major policies affecting Army Reserve matters and that the Committee comments accompany any final submission to the Chief of Staff and Assistant Secretary responsible for Reserve Affairs.
+<b>1967</b>—Pub. L. 90–168 amended section generally, and restated with certain changes the existing authority relating to the Army Reserve Forces Policy Committee within the Office of the Secretary of the Army, reduced the membership of the Committee from 21 to 15, reduced the grade requirements so as to permit inclusion of colonels, and provided that the Committee review and comment upon all major policies affecting Army Reserve matters and that the Committee comments accompany any final submission to the Chief of Staff and Assistant Secretary responsible for Reserve Affairs.
 
-1958—Subsec. (d). Pub. L. 85–861 substituted “affecting the organization, distribution, training, appointment, assignment, promotion, or discharge of members of the Army Reserve and those of either” for “affecting the Army Reserve and either”.
+<b>1958</b>—Subsec. (d). Pub. L. 85–861 substituted “affecting the organization, distribution, training, appointment, assignment, promotion, or discharge of members of the Army Reserve and those of either” for “affecting the Army Reserve and either”.
 
 #### Effective Date of 1967 Amendment
 

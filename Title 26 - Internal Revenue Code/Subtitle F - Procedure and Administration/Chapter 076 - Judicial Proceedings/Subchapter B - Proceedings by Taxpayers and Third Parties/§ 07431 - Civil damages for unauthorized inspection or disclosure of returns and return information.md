@@ -38,7 +38,7 @@ In any action brought under subsection (a), upon a finding of liability on the p
 
 #### (d) Period for bringing action
 
-Notwithstanding any other provision of law, an action to enforce any liability created under this section may be brought, without regard tothe amount in controversy, at any time within 2 years after the date of discovery by the plaintiff of the unauthorized inspection or disclosure.
+Notwithstanding any other provision of law, an action to enforce any liability created under this section may be brought, without regard to the amount in controversy, at any time within 2 years after the date of discovery by the plaintiff of the unauthorized inspection or disclosure.
 
 #### (e) Notification of unlawful inspection and disclosure
 
@@ -78,15 +78,15 @@ A prior section 7431 was renumbered section 7437 of this title.
 
 #### Amendments
 
-2006—Subsec. (a)(2). Pub. L. 109–280, which directed insertion of “or in violation of section 6104(c)” after “6103” in subsec. (a)(2) of section 7431, without specifying the act to be amended, was executed by making the insertion in subsec. (a)(2) of this section, which is section 7431 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
+<b>2006</b>—Subsec. (a)(2). Pub. L. 109–280, which directed insertion of “or in violation of section 6104(c)” after “6103” in subsec. (a)(2) of section 7431, without specifying the act to be amended, was executed by making the insertion in subsec. (a)(2) of this section, which is section 7431 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
-1998—Subsec. (c)(2). Pub. L. 105–206, §3101(f), substituted “, plus” for the period at end.
+<b>1998</b>—Subsec. (c)(2). Pub. L. 105–206, §3101(f), substituted “, plus” for the period at end.
 
 Subsec. (c)(3). Pub. L. 105–206, §3101(f), added par. (3).
 
 Subsecs. (g), (h). Pub. L. 105–206, §6012(b)(3), redesignated subsec. (g), relating to special rule for information obtained under section 6103(k)(8), as (h), and substituted “(9)” for “(8)” in heading.
 
-1997—Pub. L. 105–35, §3(d)(4), inserted “inspection or” before “disclosure” in section catchline.
+<b>1997</b>—Pub. L. 105–35, §3(d)(4), inserted “inspection or” before “disclosure” in section catchline.
 
 Subsec. (a)(1), (2). Pub. L. 105–35, §3(a)(1), (2), substituted “Inspection or disclosure” for “Disclosure” in headings and “inspects or discloses” for “discloses” in text.
 
@@ -112,7 +112,7 @@ Subsec. (g). Pub. L. 105–35, §3(b), (d)(6), redesignated subsec. (f) as (g) a
 
 Pub. L. 105–34, §1205(c)(2), added subsec. (g) relating to special rule for information obtained under section 6103(k)(8).
 
-1983—Subsec. (f). Pub. L. 98–67 added subsec. (f).
+<b>1983</b>—Subsec. (f). Pub. L. 98–67 added subsec. (f).
 
 #### Effective Date of 2006 Amendment
 

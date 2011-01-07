@@ -1,85 +1,12 @@
 ### <b>CHAPTER 82—LAND REMOTE SENSING POLICY</b>
 
-| Sec. |  |
-| :--- | ---: |
-| [5601\.](%C2%A7%2005601%20-%20Findings.md) | Findings. |
-| [5602\.](%C2%A7%2005602%20-%20Definitions.md) | Definitions. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### SUBCHAPTER I—LANDSAT
-
-|  |  |
-| :--- | ---: |
-| [5611\.](Subchapter%20001%20%28I%29%20-%20Landsat/%C2%A7%2005611%20-%20Landsat%20Program%20Management.md) | Landsat Program Management. |
-| [5612\.](Subchapter%20001%20%28I%29%20-%20Landsat/%C2%A7%2005612%20-%20Procurement%20of%20Landsat%207.md) | Procurement of Landsat 7. |
-| [5613\.](Subchapter%20001%20%28I%29%20-%20Landsat/%C2%A7%2005613%20-%20Data%20policy%20for%20Landsat%204%20through%206.md) | Data policy for Landsat 4 through 6. |
-| [5614\.](Subchapter%20001%20%28I%29%20-%20Landsat/%C2%A7%2005614%20-%20Transfer%20of%20Landsat%206%20program%20responsibilities.md) | Transfer of Landsat 6 program responsibilities. |
-| [5615\.](Subchapter%20001%20%28I%29%20-%20Landsat/%C2%A7%2005615%20-%20Data%20policy%20for%20Landsat%207.md) | Data policy for Landsat 7. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### SUBCHAPTER II—LICENSING OF PRIVATE REMOTE SENSING SPACE SYSTEMS
-
-|  |  |
-| :--- | ---: |
-| [5621\.](Subchapter%20002%20%28II%29%20-%20Licensing%20of%20Private%20Remote%20Sensing%20Space%20Systems/%C2%A7%2005621%20-%20General%20licensing%20authority.md) | General licensing authority. |
-| [5622\.](Subchapter%20002%20%28II%29%20-%20Licensing%20of%20Private%20Remote%20Sensing%20Space%20Systems/%C2%A7%2005622%20-%20Conditions%20for%20operation.md) | Conditions for operation. |
-| [5623\.](Subchapter%20002%20%28II%29%20-%20Licensing%20of%20Private%20Remote%20Sensing%20Space%20Systems/%C2%A7%2005623%20-%20Administrative%20authority%20of%20Secretary.md) | Administrative authority of Secretary. |
-| [5624\.](Subchapter%20002%20%28II%29%20-%20Licensing%20of%20Private%20Remote%20Sensing%20Space%20Systems/%C2%A7%2005624%20-%20Regulatory%20authority%20of%20Secretary.md) | Regulatory authority of Secretary. |
-| [5625\.](Subchapter%20002%20%28II%29%20-%20Licensing%20of%20Private%20Remote%20Sensing%20Space%20Systems/%C2%A7%2005625%20-%20Agency%20activities.md) | Agency activities. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### SUBCHAPTER III—RESEARCH, DEVELOPMENT, AND DEMONSTRATION
-
-|  |  |
-| :--- | ---: |
-| [5631\.](Subchapter%20003%20%28III%29%20-%20Research%2C%20Development%2C%20and%20Demonstration/%C2%A7%2005631%20-%20Continued%20Federal%20research%20and%20development.md) | Continued Federal research and development. |
-| [5632\.](Subchapter%20003%20%28III%29%20-%20Research%2C%20Development%2C%20and%20Demonstration/%C2%A7%2005632%20-%20Availability%20of%20federally%20gathered%20unenhanced%20data.md) | Availability of federally gathered unenhanced data. |
-| [5633\.](Subchapter%20003%20%28III%29%20-%20Research%2C%20Development%2C%20and%20Demonstration/%C2%A7%2005633%20-%20Technology%20demonstration%20program.md) | Technology demonstration program. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### SUBCHAPTER IV—ASSESSING OPTIONS FOR SUCCESSOR LAND REMOTE SENSING SYSTEM
-
-|  |  |
-| :--- | ---: |
-| [5641\.](Subchapter%20004%20%28IV%29%20-%20Assessing%20Options%20for%20Successor%20Land%20Remote%20Sensing%20System/%C2%A7%2005641%20-%20Assessing%20options%20for%20successor%20land%20remote%20sensing%20system.md) | Assessing options for successor land remote sensing system. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### SUBCHAPTER V—GENERAL PROVISIONS
-
-|  |  |
-| :--- | ---: |
-| [5651\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2005651%20-%20Nondiscriminatory%20data%20availability.md) | Nondiscriminatory data availability. |
-| [5652\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2005652%20-%20Archiving%20of%20data.md) | Archiving of data. |
-| [5653\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2005653%20-%20Nonreproduction.md) | Nonreproduction. |
-| [5654\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2005654%20-%20Reimbursement%20for%20assistance.md) | Reimbursement for assistance. |
-| [5655\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2005655%20-%20Acquisition%20of%20equipment.md) | Acquisition of equipment. |
-| [5656\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2005656%20-%20Radio%20frequency%20allocation.md) | Radio frequency allocation. |
-| [5657\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2005657%20-%20Consultation.md) | Consultation. |
-| [5658\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2005658%20-%20Enforcement.md) | Enforcement. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### SUBCHAPTER VI—PROHIBITION OF COMMERCIALIZATION OF WEATHER SATELLITES
-
-|  |  |
-| :--- | ---: |
-| [5671\.](Subchapter%20006%20%28VI%29%20-%20Prohibition%20of%20Commercialization%20of%20Weather%20Satellites/%C2%A7%2005671%20-%20Prohibition.md) | Prohibition. |
-| [5672\.](Subchapter%20006%20%28VI%29%20-%20Prohibition%20of%20Commercialization%20of%20Weather%20Satellites/%C2%A7%2005672%20-%20Future%20considerations.md) | Future considerations. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 05601 - Findings](%C2%A7%2005601%20-%20Findings.md)
-- [&sect; 05602 - Definitions](%C2%A7%2005602%20-%20Definitions.md)
+- [&sect; 05601 - Transferred](%C2%A7%2005601%20-%20Transferred.md)
+- [&sect; 05602 - Repealed. Pub. L. 111&#8211;314, &sect;6, Dec. 18, 2010, 124 Stat. 3444](%C2%A7%2005602%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93314%2C%20%C2%A76%2C%20Dec.%2018%2C%202010%2C%20124%20Stat.%203444.md)
 - [Subchapter 001 (I) - Landsat](Subchapter%20001%20%28I%29%20-%20Landsat/README.md)
 - [Subchapter 002 (II) - Licensing of Private Remote Sensing Space Systems](Subchapter%20002%20%28II%29%20-%20Licensing%20of%20Private%20Remote%20Sensing%20Space%20Systems/README.md)
 - [Subchapter 003 (III) - Research, Development, and Demonstration](Subchapter%20003%20%28III%29%20-%20Research%2C%20Development%2C%20and%20Demonstration/README.md)

@@ -6,7 +6,7 @@
 
 &emsp;(2) nonpayment of any fees or charges required under chapter 123 of title 28; and
 
-&emsp;(3) failure of the debtor in a voluntary case to file, within fifteen days or such additional time as the court may allow after the filing of the petition commencing such case, the information required by paragraph (1) of section 521, but only on a motion by the United States trustee.
+&emsp;(3) failure of the debtor in a voluntary case to file, within fifteen days or such additional time as the court may allow after the filing of the petition commencing such case, the information required by paragraph (1) of section 521(a), but only on a motion by the United States trustee.
 
 (b)(1) After notice and a hearing, the court, on its own motion or on a motion by the United States trustee, trustee (or bankruptcy administrator, if any), or any party in interest, may dismiss a case filed by an individual debtor under this chapter whose debts are primarily consumer debts, or, with the debtor's consent, convert such a case to a case under chapter 11 or 13 of this title, if it finds that the granting of relief would be an abuse of the provisions of this chapter. In making a determination whether to dismiss a case under this section, the court may not take into consideration whether a debtor has made, or continues to make, charitable contributions (that meet the definition of “charitable contribution” under section 548(d)(3)) to any qualified religious or charitable entity or organization (as that term is defined in section 548(d)(4)).
 
@@ -16,7 +16,7 @@
 
 &emsp;(II) $10,000.
 
-(ii)(I) The debtor's monthly expenses shall be the debtor's applicable monthly expense amounts specified under the National Standards and Local Standards, and the debtor's actual monthly expenses for the categories specified as Other Necessary Expenses issued by the Internal Revenue Service for the area in which the debtor resides, as in effect on the date of the order for relief, for the debtor, the dependents of the debtor, and the spouse of the debtor in a joint case, if the spouse is not otherwise a dependent. Such expenses shall include reasonably necessary health insurance, disability insurance, and health savings account expenses for the debtor, the spouse of the debtor, or the dependents of the debtor. Notwithstanding any other provision of this clause, the monthly expenses of the debtor shall not include any payments for debts. In addition, the debtor's monthly expenses shall include the debtor's reasonably necessary expenses incurred to maintain the safety of the debtor and the family of the debtor from family violence as identified under section 309 of the Family Violence Prevention and Services Act,<sup>1</sup> or other applicable Federal law. The expenses included in the debtor's monthly expenses described in the preceding sentence shall be kept confidential by the court. In addition, if it is demonstrated that it is reasonable and necessary, the debtor's monthly expenses may also include an additional allowance for food and clothing of up to 5 percent of the food and clothing categories as specified by the National Standards issued by the Internal Revenue Service.
+(ii)(I) The debtor's monthly expenses shall be the debtor's applicable monthly expense amounts specified under the National Standards and Local Standards, and the debtor's actual monthly expenses for the categories specified as Other Necessary Expenses issued by the Internal Revenue Service for the area in which the debtor resides, as in effect on the date of the order for relief, for the debtor, the dependents of the debtor, and the spouse of the debtor in a joint case, if the spouse is not otherwise a dependent. Such expenses shall include reasonably necessary health insurance, disability insurance, and health savings account expenses for the debtor, the spouse of the debtor, or the dependents of the debtor. Notwithstanding any other provision of this clause, the monthly expenses of the debtor shall not include any payments for debts. In addition, the debtor's monthly expenses shall include the debtor's reasonably necessary expenses incurred to maintain the safety of the debtor and the family of the debtor from family violence as identified under section 302 of the Family Violence Prevention and Services Act, or other applicable Federal law. The expenses included in the debtor's monthly expenses described in the preceding sentence shall be kept confidential by the court. In addition, if it is demonstrated that it is reasonable and necessary, the debtor's monthly expenses may also include an additional allowance for food and clothing of up to 5 percent of the food and clothing categories as specified by the National Standards issued by the Internal Revenue Service.
 
 (II) In addition, the debtor's monthly expenses may include, if applicable, the continuation of actual expenses paid by the debtor that are reasonable and necessary for care and support of an elderly, chronically ill, or disabled household member or member of the debtor's immediate family (including parents, grandparents, siblings, children, and grandchildren of the debtor, the dependents of the debtor, and the spouse of the debtor in a joint case who is not a dependent) and who is unable to pay for such reasonable and necessary expenses.
 
@@ -24,11 +24,11 @@
 
 (IV) In addition, the debtor's monthly expenses may include the actual expenses for each dependent child less than 18 years of age, not to exceed $1,500 per year per child, to attend a private or public elementary or secondary school if the debtor provides documentation of such expenses and a detailed explanation of why such expenses are reasonable and necessary, and why such expenses are not already accounted for in the National Standards, Local Standards, or Other Necessary Expenses referred to in subclause (I).
 
-(V) In addition, the debtor's monthly expenses may include an allowance for housing and utilities, in excess of the allowance specified by the Local Standards for housing and utilities issuedby the Internal Revenue Service, based on the actual expenses for home energy costs if the debtor provides documentation of such actual expenses and demonstrates that such actual expenses are reasonable and necessary.
+(V) In addition, the debtor's monthly expenses may include an allowance for housing and utilities, in excess of the allowance specified by the Local Standards for housing and utilities issued by the Internal Revenue Service, based on the actual expenses for home energy costs if the debtor provides documentation of such actual expenses and demonstrates that such actual expenses are reasonable and necessary.
 
 (iii) The debtor's average monthly payments on account of secured debts shall be calculated as the sum of—
 
-&emsp;(I) the total of all amounts scheduled as contractually due to secured creditors in each month of the 60 months following the date of the petition; and
+&emsp;(I) the total of all amounts scheduled as contractually due to secured creditors in each month of the 60 months following the date of the filing of the petition; and
 
 &emsp;(II) any additional payments to secured creditors necessary for the debtor, in filing a plan under chapter 13 of this title, to maintain possession of the debtor's primary residence, motor vehicle, or other property necessary for the support of the debtor and the debtor's dependents, that serves as collateral for secured debts;
 
@@ -70,7 +70,7 @@
 
 > &emsp;if after September 11, 2001, the debtor while a member of a reserve component of the Armed Forces or a member of the National Guard, was called to such active duty or performed such homeland defense activity.
 
-(3) In considering under paragraph (1) whether the granting of relief would be an abuse of the provisions of this chapter in a case in which the presumption in subparagraph (A)(i) of such paragraph does not arise or is rebutted, the court shall consider—
+(3) In considering under paragraph (1) whether the granting of relief would be an abuse of the provisions of this chapter in a case in which the presumption in paragraph (2)(A)(i) does not arise or is rebutted, the court shall consider—
 
 &emsp;(A) whether the debtor filed the petition in bad faith; or
 
@@ -168,7 +168,11 @@
 
 (3) The court may not dismiss a case under paragraph (2) if the debtor establishes by a preponderance of the evidence that the filing of a case under this chapter is necessary to satisfy a claim for a domestic support obligation.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2606; Pub. L. 98–353, title III, §§312, 475, July 10, 1984, 98 Stat. 355, 381; Pub. L. 99–554, title II, §219, Oct. 27, 1986,100 Stat. 3100; Pub. L. 105–183, §4(b), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title I, §102(a), (f), Apr. 20, 2005, 119 Stat. 27, 33; Pub. L. 110–438, §2, Oct. 20, 2008, 122 Stat. 5000.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2606; Pub. L. 98–353, title III, §§312, 475, July 10, 1984, 98 Stat. 355, 381; Pub. L. 99–554, title II, §219, Oct. 27, 1986, 100 Stat. 3100; Pub. L. 105–183, §4(b), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title I, §102(a), (f), Apr. 20, 2005, 119 Stat. 27, 33; Pub. L. 110–438, §2, Oct. 20, 2008, 122 Stat. 5000; Pub. L. 111–320, title II, §202(a), Dec. 20, 2010, 124 Stat. 3509; Pub. L. 111–327, §2(a)(25), Dec. 22, 2010, 124 Stat. 3560.)
+
+#### Adjustment of Dollar Amounts
+
+<i>For adjustment of certain dollar amounts specified in this section, that is not reflected in</i><i>text, see Adjustment of Dollar Amounts note below.</i>
 
 #### Historical and Revision Notes
 
@@ -182,11 +186,19 @@ This section authorizes the court to dismiss a liquidation case only for cause, 
 
 #### References in Text
 
-Section 309 of the Family Violence Prevention and Services Act, referred to in subsec. (b)(2)(A)(ii)(I), was redesignated section 320 of the Act by Pub. L. 108–36, title IV, §415(5), June 25, 2003, 117 Stat. 830, and is classified to section 10421 of Title 42, The Public Health and Welfare.
+Section 302 of the Family Violence Prevention and Services Act, referred to in subsec. (b)(2)(A)(ii)(I), is classified to section 10402 of Title 42, The Public Health and Welfare.
 
 The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b)(4)(A), (B), (5)(A), are set out in the Appendix to this title.
 
 #### Amendments
+
+2010—Subsec. (a)(3). Pub. L. 111–327, §2(a)(25)(A), substituted “521(a)” for “521”.
+
+Subsec. (b)(2)(A)(ii)(I). Pub. L. 111–320 substituted “section 302 of the Family Violence Prevention and Services Act” for “section 309 of the Family Violence Prevention and Services Act”.
+
+Subsec. (b)(2)(A)(iii)(I). Pub. L. 111–327, §2(a)(25)(B)(i), inserted “of the filing” after “date”.
+
+Subsec. (b)(3). Pub. L. 111–327, §2(a)(25)(B)(ii), substituted “paragraph (2)(A)(i)” for “subparagraph (A)(i) of such paragraph” in introductory provisions.
 
 2008—Subsec. (b)(2)(D). Pub. L. 110–438 substituted “testing—” for “testing,” in introductory provisions, inserted cl. (i) designation before “if the debtor”, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i) and added cl. (ii).
 
@@ -238,7 +250,11 @@ Pub. L. 109–8, title I, §107, Apr. 20, 2005, 119 Stat. 42, provided that: “
 
 #### Adjustment of Dollar Amounts
 
-For adjustment of dollar amounts specified in subsec. (b)(2)(A)(i), (ii)(IV), (5)(B), (6)(C), (7)(A) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
+The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
+
+By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (b)(2)(A)(i)(I), dollar amount “6,575” was adjusted to “7,025”; in subsec. (b)(2)(A)(i)(II), dollar amount “10,950” was adjusted to “11,725”; in subsec. (b)(2)(A)(ii)(IV), dollar amount “1,650” was adjusted to “1,775”; in subsec. (b)(2)(B)(iv)(I), dollar amount “6,575” was adjusted to “7,025”; in subsec. (b)(2)(B)(iv)(II), dollar amount “10,950” was adjusted to “11,725”; in subsec. (b)(5)(B), dollar amount “1,100” was adjusted to “1,175”; in subsec. (b)(6)(C), dollar amount “575” was adjusted to “625”; and, in subsec. (b)(7)(A)(iii), dollar amount “575” was adjusted to “625”. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (b)(2)(A)(i)(I), dollar amount “6,000” was adjusted to “6,575”; in subsec. (b)(2)(A)(i)(II), dollar amount “10,000” was adjusted to “10,950”; in subsec. (b)(2)(A)(ii)(IV), dollar amount“1,500” was adjusted to “1,650”; in subsec. (b)(5)(B), dollar amount “1,000” was adjusted to “1,100”; in subsec. (b)(6)(C), dollar amount “525” was adjusted to “575”; and, in subsec. (b)(7)(A), dollar amount “525” was adjusted to “575”.
 
 #### Rules Promulgated by Supreme Court
 

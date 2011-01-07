@@ -40,9 +40,9 @@ For purposes of this section—
 
 #### Amendments
 
-1974—Subsecs. (c), (d). Pub. L. 93–443 struck out subsec. (c) relating to advertising in a convention program of a national political convention, and redesignated subsec. (d) as (c).
+<b>1974</b>—Subsecs. (c), (d). Pub. L. 93–443 struck out subsec. (c) relating to advertising in a convention program of a national political convention, and redesignated subsec. (d) as (c).
 
-1968—Subsecs. (c), (d). Pub. L. 90–364 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>1968</b>—Subsecs. (c), (d). Pub. L. 90–364 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 #### Effective Date of 1974 Amendment
 

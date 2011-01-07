@@ -120,19 +120,19 @@ The Secretary may prescribe regulations providing that where, by reason of varyi
 
 #### Amendments
 
-2000—Subsec. (a)(1)(B)(ii). Pub. L. 106–554, in introductory provisions, substituted “subchapter L (or by an entity described in section 501(c) and exempt from tax under section 501(a) which would be subject to tax under subchapter L were it not so exempt)” for “subchapter L”.
+<b>2000</b>—Subsec. (a)(1)(B)(ii). Pub. L. 106–554, in introductory provisions, substituted “subchapter L (or by an entity described in section 501(c) and exempt from tax under section 501(a) which would be subject to tax under subchapter L were it not so exempt)” for “subchapter L”.
 
-1990—Subsec. (a)(4), (5). Pub. L. 101–508 redesignated par. (5) as (4) and struck out former par. (4) which related to a special rule for determination of issue price in case of exchange of debt instruments in reorganization.
+<b>1990</b>—Subsec. (a)(4), (5). Pub. L. 101–508 redesignated par. (5) as (4) and struck out former par. (4) which related to a special rule for determination of issue price in case of exchange of debt instruments in reorganization.
 
-1988—Subsec. (a)(4)(B)(ii)(I). Pub. L. 100–647 substituted “subsection (a)(7)” for “subsection (a)(6)”.
+<b>1988</b>—Subsec. (a)(4)(B)(ii)(I). Pub. L. 100–647 substituted “subsection (a)(7)” for “subsection (a)(6)”.
 
-1986—Subsec. (a)(4), (5). Pub. L. 99–514 redesignated par. (4), relating to treatment of obligations distributed to corporations, as (5), and substituted “by corporations” for “to corporations” in heading.
+<b>1986</b>—Subsec. (a)(4), (5). Pub. L. 99–514 redesignated par. (4), relating to treatment of obligations distributed to corporations, as (5), and substituted “by corporations” for “to corporations” in heading.
 
-1984—Subsec. (a)(4). Pub. L. 98–369, §61(c)(2), added par. (4) relating to treatment of obligations distributed to corporations.
+<b>1984</b>—Subsec. (a)(4). Pub. L. 98–369, §61(c)(2), added par. (4) relating to treatment of obligations distributed to corporations.
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title III, §318(c)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645, provided that: “Theamendment made by this subsection \[amending this section\] shall take effect as if included in the amendments made by section 41 of the Tax Reform Act of 1984 \[Pub. L. 98–369, div. A\].”
+Pub. L. 106–554, §1(a)(7) \[title III, §318(c)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645, provided that: “The amendment made by this subsection \[amending this section\] shall take effect as if included in the amendments made by section 41 of the Tax Reform Act of 1984 \[Pub. L. 98–369, div. A\].”
 
 #### Effective Date of 1990 Amendment
 

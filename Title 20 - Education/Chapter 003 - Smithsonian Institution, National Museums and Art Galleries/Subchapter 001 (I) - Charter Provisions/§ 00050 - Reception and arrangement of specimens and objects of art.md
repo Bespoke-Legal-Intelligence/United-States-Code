@@ -38,7 +38,7 @@ Pub. L. 107–117, div. B, §701, Jan. 10, 2002, 115 Stat. 2311, provided that:
 
 “(a)
 
-In General.—The Secretary of the Smithsonian Institution shall collect and preserve in the National Museum of American History artifacts relating to the September 11th attacks on the World Trade Center and the Pentagon.
+In General.—The Secretary of the Smithsonian Institution shall collect and preserve in the NationalMuseum of American History artifacts relating to the September 11th attacks on the World Trade Center and the Pentagon.
 
 “(b)
 
@@ -150,7 +150,7 @@ Location.—The Charles McC. Mathias, Jr. Laboratory for Environmental Research 
 
 “(c)
 
-Authorization of Appropriations.—Effective October 1, 1986, there is authorized to be appropriated to the Board of Regents of the Smithsonian Institution $1,000,000 to carry out the purposes of this section.
+Authorization of Appropriations.—Effective October 1, 1986, there is authorized to be appropriatedto the Board of Regents of the Smithsonian Institution $1,000,000 to carry out the purposes of this section.
 
 “(d)
 

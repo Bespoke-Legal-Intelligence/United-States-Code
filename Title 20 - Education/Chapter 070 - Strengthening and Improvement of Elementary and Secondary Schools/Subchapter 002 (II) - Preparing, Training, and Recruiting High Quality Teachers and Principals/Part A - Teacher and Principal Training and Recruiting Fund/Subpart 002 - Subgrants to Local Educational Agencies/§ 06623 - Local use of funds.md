@@ -94,3 +94,5 @@ Funds received under this subpart shall be used to supplement, and not supplant,
 
 A prior section 6623, Pub. L. 89–10, title II, §2103, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3617, related to National Teacher Training Project, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
+<i><sup>1</sup></i><i> So in original. No par. (9) has been enacted.</i>
+

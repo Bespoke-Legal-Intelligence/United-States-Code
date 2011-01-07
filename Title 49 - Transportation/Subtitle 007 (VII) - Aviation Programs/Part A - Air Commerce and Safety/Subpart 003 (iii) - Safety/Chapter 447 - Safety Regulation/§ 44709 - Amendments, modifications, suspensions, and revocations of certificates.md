@@ -34,7 +34,7 @@ Appeals.—(1) A person adversely affected by an order of the Administrator unde
 
 (2) The Board may modify a suspension or revocation of a certificate to imposition of a civil penalty.
 
-(3) When conducting a hearing under this subsection, the Board is not bound by findings of fact of the Administrator but is bound by allvalidly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law.
+(3) When conducting a hearing under this subsection, the Board is not bound by findings of fact of the Administrator but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law.
 
 (e)
 
@@ -172,9 +172,9 @@ In subsection (e), before clause (1), the words “the effectiveness of” are o
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–176 inserted “design organization, production certificate holder,” after “appliance,”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–176 inserted “design organization, production certificate holder,” after “appliance,”.
 
-2000—Subsec. (e). Pub. L. 106–181 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “When a person files an appeal with the Board under subsection (d) of the section, the order of the Administrator is stayed. However, if the Administrator advises the Board that an emergency exists and safety in air commerce or air transportation requires the order to be effective immediately—
+<b>2000</b>—Subsec. (e). Pub. L. 106–181 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “When a person files an appeal with the Board under subsection (d) of the section, the order of the Administrator is stayed. However, if the Administrator advises the Board that an emergency exists and safety in air commerce or air transportation requires the order to be effective immediately—
 
 &emsp;“(1) the order is effective; and
 

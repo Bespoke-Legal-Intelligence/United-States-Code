@@ -2,7 +2,7 @@
 
 #### (a) Charge on late royalty payment or royalty payment deficiency
 
-In the case of oil and gas leases where royalty payments are not received by the Secretary on the date that such payments are due, or are lessthan the amount due, the Secretary shall charge interest on such late payments or underpayments at the rate applicable under section 6621 of title 26. In the case of an underpayment or partial payment, interest shall be computed and charged only on the amount of the deficiency and not on the total amount due.
+In the case of oil and gas leases where royalty payments are not received by the Secretary on the date that such payments are due, or are less than the amount due, the Secretary shall charge interest on such late payments or underpayments at the rate applicable under section 6621 of title 26. In the case of an underpayment or partial payment, interest shall be computed and charged only on the amount of the deficiency and not on the total amount due.
 
 #### (b) Charge on late payment made by Secretary to States
 
@@ -76,7 +76,7 @@ Section is comprised of section 111 of Pub. L. 97–451. Subsec. (g) of section 
 
 #### Amendments
 
-1996—Pub. L. 104–185, §6(h)(1), substituted “Royalty terms and conditions, interest, and penalties” for “Royalty interest, penalties and payments” in section catchline.
+<b>1996</b>—Pub. L. 104–185, §6(h)(1), substituted “Royalty terms and conditions, interest, and penalties” for “Royalty interest, penalties and payments” in section catchline.
 
 Subsec. (h). Pub. L. 104–185, §6(a), added subsec. (h).
 
@@ -94,7 +94,7 @@ Subsec. (k)(4). Pub. L. 104–200, §1(6), substituted “additional royalties d
 
 Subsec. (<i>l</i>). Pub. L. 104–185, §6(e), added subsec. (<i>l</i>).
 
-1986—Subsecs. (a), (b), (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsecs. (a), (b), (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 #### Effective Date of 1996 Amendment
 

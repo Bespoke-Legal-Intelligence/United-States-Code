@@ -82,7 +82,11 @@ Section was enacted as part of the Trafficking Victims Protection Reauthorizatio
 
 #### Amendments
 
-2008—Subsec. (c)(1). Pub. L. 110–457, §302(2)(A), substituted “$1,500,000 for each of the fiscal years 2008 through 2011” for “$2,500,000 for each of the fiscal years 2006 and 2007” in two places.
+<b>2008</b>—Subsec. (c)(1). Pub. L. 110–457, §302(2)(A), substituted “$1,500,000 for each of the fiscal years 2008 through 2011” for “$2,500,000 for each of the fiscal years 2006 and 2007” in two places.
 
 Subsec. (c)(2). Pub. L. 110–457, §302(2)(B), which directed substitution of “2008 through 2011” for “2006 and 2007”, was executed by making the substitution for “2006 through 2007”, to reflect the probable intent of Congress.
+
+#### Recommendations To Prevent Sex Trafficking of Indian Women
+
+Pub. L. 111–211, title II, §264, July 29, 2010, 124 Stat. 2300, provided that: “Any report of the Secretary of Health and Human Services to Congress on the development of Indian victim services and victim advocate training programs shall include any recommendations that the Secretary determines to be necessary to prevent the sex trafficking of Indian women.”
 

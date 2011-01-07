@@ -20,5 +20,5 @@ No lands or interests therein outside of the boundaries of the recreation area m
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–437 in first sentence struck out “Select” before “Committee on Indian Affairs”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–437 in first sentence struck out “Select” before “Committee on Indian Affairs”.
 

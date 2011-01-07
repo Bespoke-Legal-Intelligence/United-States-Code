@@ -50,7 +50,7 @@ To be eligible to receive a grant under this section, a protection and advocacy 
 
 #### (4) Inflation adjustment
 
-&emsp;For each fiscal year in which the total amount appropriated under subsection (<i>l</i>) ofthis section to carry out this section is $5,000,000 or more, and such appropriated amount exceeds the total amount appropriated to carry out this section in the preceding fiscal year, the Administrator shall increase each of the minimum grants amount described in subparagraphs (A) and (B) of paragraph (3) by a percentage equal to the percentage increase in the total amount appropriated under subsection (<i>l</i>) of this section to carry out this section between the preceding fiscal year and the fiscal year involved.
+&emsp;For each fiscal year in which the total amount appropriated under subsection (<i>l</i>) of this section to carry out this section is $5,000,000 or more, and such appropriated amount exceeds the total amount appropriated to carry out this section in the preceding fiscal year, the Administrator shall increase each of the minimum grants amount described in subparagraphs (A) and (B) of paragraph (3) by a percentage equal to the percentage increase in the total amount appropriated under subsection (<i>l</i>) of this section to carry out this section between the preceding fiscal year and the fiscal year involved.
 
 #### (f) Carryover
 
@@ -72,7 +72,7 @@ The Administrator of the Health Resources and Services Administration and the Co
 
 #### (1) Grants
 
-&emsp;For any fiscal year for which the amount appropriated to carry out this section is $6,000,000 or greater, the Administrator shall use 2 percent of such amount to make a grant to an eligible national association for providing for training and technical assistance to protection and advocacy systems.
+&emsp;For any fiscal year for which the amount appropriated to carry out this section is$6,000,000 or greater, the Administrator shall use 2 percent of such amount to make a grant to an eligible national association for providing for training and technical assistance to protection and advocacy systems.
 
 #### (2) Definition
 
@@ -112,7 +112,7 @@ The Developmental Disabilities Assistance and Bill of Rights Act, referred to in
 
 #### Amendments
 
-2008—Subsecs. (d), (e). Pub. L. 110–206, §6(b)(1), substituted “subsection (<i>l</i>)” for “subsection (i)” wherever appearing.
+<b>2008</b>—Subsecs. (d), (e). Pub. L. 110–206, §6(b)(1), substituted “subsection (<i>l</i>)” for “subsection (i)” wherever appearing.
 
 Subsec. (g). Pub. L. 110–206, §6(b)(2), inserted “each fiscal year not later than October 1,” before “the Administrator shall pay”.
 
@@ -121,4 +121,12 @@ Subsecs. (i) to (k). Pub. L. 110–206, §6(b)(4), added subsecs. (i) to (k). Fo
 Subsec. (<i>l</i>). Pub. L. 110–206, §6(b)(3), (5), redesignated subsec. (i) as (<i>l</i>) and substituted “2009 through 2012” for “2002 through 2005”.
 
 Subsec. (m). Pub. L. 110–206, §6(b)(3), redesignated subsec. (j) as (m).
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “to”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by “of”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by “and”.</i>
+
+<i><sup>4</sup></i><i> See References in Text note below.</i>
 

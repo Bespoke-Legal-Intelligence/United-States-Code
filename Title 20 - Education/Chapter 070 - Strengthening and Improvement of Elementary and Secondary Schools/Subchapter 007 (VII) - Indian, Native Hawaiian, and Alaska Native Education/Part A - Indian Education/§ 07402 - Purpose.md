@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-It is the purpose of this part to support the efforts of local educational agencies, Indian tribes and organizations, postsecondary institutions, and other entities to meet the unique educational and culturally related academic needs of American Indian and Alaska Native students, so that such students can meet the same challenging State student academic achievement standards as all other students are expected to meet.
+It is the purpose of this part to support the efforts of local educational agencies, Indian tribes and organizations, postsecondary institutions, and other entities to meet the unique educational and culturally related academic needs of American Indian and Alaska Native students,so that such students can meet the same challenging State student academic achievement standards as all other students are expected to meet.
 
 #### (b) Programs
 

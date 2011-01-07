@@ -48,7 +48,7 @@ In subsection (b), the text of 40:753(a) (related to Public Roads) is omitted be
 
 #### Amendments
 
-2006—Pub. L. 109–313 amended section catchline and text generally. Prior to amendment, text read as follows:
+<b>2006</b>—Pub. L. 109–313 amended section catchline and text generally. Prior to amendment, text read as follows:
 
 “(a)
 

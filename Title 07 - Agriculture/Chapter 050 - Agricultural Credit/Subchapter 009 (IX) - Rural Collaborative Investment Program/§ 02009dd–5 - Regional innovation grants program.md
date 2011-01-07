@@ -30,7 +30,7 @@ To be eligible to receive a regional innovation grant, a Regional Board shall de
 
 &emsp;The Secretary shall determine the amount of a regional innovation grant based on—
 
-&emsp;&emsp;(A) the needs of the region being addressed by the applicable regional rural investment strategy consistent with the purposes described in subsection (f)(2); and
+&emsp;&emsp;(A) the needs of the region being addressed by the applicable regional rural investmentstrategy consistent with the purposes described in subsection (f)(2); and
 
 &emsp;&emsp;(B) the size of the geographical area of the region.
 

@@ -44,9 +44,13 @@ No carrier or warehouseman shall be subject to the penalties of this chapter, ot
 
 (Pub. L. 91–597, §12, Dec. 29, 1970, 84 Stat. 1628; Pub. L. 102–237, title X, §1012(d), Dec. 13, 1991, 105 Stat. 1899.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (b), (c)(1)(A), and (e), was in the original “this Act”, meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
+
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–237, §1012(d)(1), (2), substituted “$5,000” for “$1,000” in first sentence, and redesignated last sentence, relating to scope of liability for violations of section 1037 of this title, as subsec. (d).
+<b>1991</b>—Subsec. (a). Pub. L. 102–237, §1012(d)(1), (2), substituted “$5,000” for “$1,000” in first sentence, and redesignated last sentence, relating to scope of liability for violations of section 1037 of this title, as subsec. (d).
 
 Subsec. (b). Pub. L. 102–237, §1012(d)(4), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (e).
 

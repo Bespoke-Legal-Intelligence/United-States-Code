@@ -54,7 +54,7 @@ Another prior section 1922 of act July 1, 1944, was classified to section 300y�
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–310, §3303(a), redesignated subsec. (b) as (a) and struck out heading and text of former subsec. (a). Text read as follows: “A funding agreement for a grant under section 300x–21 of this title is that, in expending the grant, the State involved will expend—
+<b>2000</b>—Subsec. (a). Pub. L. 106–310, §3303(a), redesignated subsec. (b) as (a) and struck out heading and text of former subsec. (a). Text read as follows: “A funding agreement for a grant under section 300x–21 of this title is that, in expending the grant, the State involved will expend—
 
 &emsp;“(1) not less than 35 percent for prevention and treatment activities regarding alcohol; and
 

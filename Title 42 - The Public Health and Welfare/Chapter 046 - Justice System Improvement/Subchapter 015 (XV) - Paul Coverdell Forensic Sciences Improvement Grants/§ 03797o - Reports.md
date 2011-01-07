@@ -24,7 +24,7 @@ Not later than 90 days after the last day of each fiscal year for which 1 or mor
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–273, §5001(b)(5)(A), inserted “or unit of local government” after “each State” in introductory provisions.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273, §5001(b)(5)(A), inserted “or unit of local government” after “each State” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 107–273, §5001(b)(5)(B), inserted “, which shall include a comparison of pre-grant and post-grant forensic science capabilities” before semicolon at end.
 

@@ -68,7 +68,7 @@ Not later than 90 days after December 17, 2004, the President shall select a sin
 
 #### (c) Performance of security clearance investigations
 
-(1) Notwithstanding any other provision of law, not later than 180 days after December 17, 2004, the President shall, in consultation with the head of the entity selected pursuant to subsection (b) of this section, select a single agencyof the executive branch to conduct, to the maximum extent practicable, security clearance investigations of employees and contractor personnel of the United States Government who require access to classified information and to provide and maintain all security clearances of such employees and contractor personnel. The head of the entity selected pursuant to subsection (b) of this section may designate other agencies to conduct such investigations if the head of the entity selected pursuant to subsection (b) of this section considers it appropriate for national security and efficiency purposes.
+(1) Notwithstanding any other provision of law, not later than 180 days after December 17, 2004, the President shall, in consultation with the head of the entity selected pursuant to subsection (b) of this section, select a single agency of the executive branch to conduct, to the maximum extent practicable, security clearance investigations of employees and contractor personnel of the United States Government who require access to classified information and to provide and maintain all security clearances of such employees and contractor personnel. The head of the entity selected pursuant to subsection (b) of this section may designate other agencies to conduct such investigations if the head of the entity selected pursuant to subsection (b) of this section considers it appropriate for national security and efficiency purposes.
 
 (2) The agency selected under paragraph (1) shall—
 
@@ -100,7 +100,7 @@ Not later than 90 days after December 17, 2004, the President shall select a sin
 
 (2) The database under this subsection shall function to integrate information from existing Federal clearance tracking systems from other authorized investigative and adjudicative agencies into a single consolidated database.
 
-(3) Each authorized investigative or adjudicative agency shall check the database under this subsection to determine whether an individual the agency has identified as requiring a security clearance has already been granted or denied a security clearance, or has had a security clearance revoked, by any other authorized investigative or adjudicative agency.
+(3) Each authorized investigative or adjudicative agency shall check the database under this subsection to determine whether an individual the agency has identified as requiring a security clearance has already been granted or denied asecurity clearance, or has had a security clearance revoked, by any other authorized investigative or adjudicative agency.
 
 (4) The head of the entity selected pursuant to subsection (b) of this section shall evaluate the extent to which an agency is submitting information to, and requesting information from, the database under this subsection as part of a determination of whether to certify the agency as an authorized investigative agency or authorized adjudicative agency.
 
@@ -182,15 +182,15 @@ Committee on Government Reform of House of Representatives changed to Committee 
 
 #### Security Clearances for Transition Team Members
 
-Pub. L. 108–458, title VII, §7601(c), Dec. 17, 2004, 118 Stat. 3857, provided that:
+Pub. L. 108–458, title VII, §7601(c), Dec. 17, 2004, 118 Stat. 3857, as amended by Pub. L. 111–283, §2(c)(1), Oct. 15, 2010, 124 Stat. 3048, provided that:
 
 “(1)
 
-Definition.—In this section, the term ‘major party’ shall have the meaning given under section 9002(6) of the Internal Revenue Code of 1986 \[26 U.S.C. 9002(6)\].
+Definition.—In this section, the term ‘eligible candidate’ has the meaning given such term by section 3(h)(4) of the Presidential Transition Act of 1963 \[Pub. L. 88–277\] (3 U.S.C. 102 note).
 
 “(2)
 
-In general.—Each major party candidate for President may submit, before the date of the general election, requests for security clearances for prospective transition team members who will have a need for access to classified information to carry out their responsibilities as members of the President-elect's transition team.
+In general.—Each eligible candidate for President may submit, before the date of the general election, requests for security clearances for prospective transition team members who will have a need for access to classified information to carry out their responsibilities as members of the President-elect's transition team.
 
 “(3)
 

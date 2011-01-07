@@ -32,7 +32,7 @@ In this section:
 
 In making the calculations regarding cost of attendance, net price, and tuition and fees under this section with respect to a public institution of higher education, the Secretary shall calculate the cost of attendance, net price, and tuition and fees at such institution in the manner described in subsection (a), except that—
 
-&emsp;(1) the cost of attendance, net price, and tuition and fees shall be calculated for first-time, full-time undergraduate students enrolled in the institution who are residents of the State in which such institution is located; and
+&emsp;(1) the cost of attendance, net price, and tuition and fees shall be calculated for first-time,full-time undergraduate students enrolled in the institution who are residents of the State in which such institution is located; and
 
 &emsp;(2) in determining the net price, the average need-based grant aid and merit-based grant aid described in subsection (a)(3)(B) shall be calculated based on the average total amount of such aid received by first-time, full-time undergraduate students who are residents of the State in which such institution is located, divided by the total number of such resident students receiving such need-based grant aid or merit-based grant aid at such institution.
 
@@ -150,7 +150,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 #### (4) Disclaimer
 
-&emsp;Estimates of an individual net price determined using a net price calculator requiredunder paragraph (3) shall be accompanied by a clear and conspicuous notice—
+&emsp;Estimates of an individual net price determined using a net price calculator required under paragraph (3) shall be accompanied by a clear and conspicuous notice—
 
 &emsp;&emsp;(A) stating that the estimate—
 
@@ -224,7 +224,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 &emsp;&emsp;(Q) The total annual grant aid awarded to undergraduate students enrolled at the institution, from the Federal Government, a State, the institution, and other sources known by the institution.
 
-&emsp;&emsp;(R) The percentage of first-time, full-time undergraduate students enrolled at the institution receiving Federal, State, and institutional grants, student loans, and any other type of student financial assistance knownby the institution, provided publicly or through the institution, such as Federal work-study funds.
+&emsp;&emsp;(R) The percentage of first-time, full-time undergraduate students enrolled at the institution receiving Federal, State, and institutional grants, student loans, and any other type of student financial assistance known by the institution, provided publicly or through the institution, such as Federal work-study funds.
 
 &emsp;&emsp;(S) The number of students enrolled at the institution receiving Federal Pell Grants.
 
@@ -266,7 +266,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 #### (A) Availability of list of participating institutions
 
-&emsp;&emsp;The Secretary shall make publicly available on the College Navigator website in a sortable and searchable format a list of all institutions of higher education that participate in programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, which list shall, for each institution, include the following:
+&emsp;&emsp;The Secretary shall make publicly available on the College Navigator website in a sortable and searchable format a list of allinstitutions of higher education that participate in programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, which list shall, for each institution, include the following:
 
 &emsp;&emsp;&emsp;(i) The tuition and fees for each of the three most recent academic years for which data are available.
 

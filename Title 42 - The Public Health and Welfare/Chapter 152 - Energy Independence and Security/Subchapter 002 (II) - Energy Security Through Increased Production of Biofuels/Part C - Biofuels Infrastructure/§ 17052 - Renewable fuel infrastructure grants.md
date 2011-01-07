@@ -12,7 +12,7 @@ For purposes of this section, the term “renewable fuel blend” means a gasoli
 
 #### (2) Selection criteria
 
-&emsp;Not later than 12 months after December 19, 2007, the Secretary shall establish criteria for evaluating applications for grants under thissubsection that will maximize the availability and use of renewable fuel blends, and that will ensure that renewable fuel blends are available across the country. Such criteria shall provide for—
+&emsp;Not later than 12 months after December 19, 2007, the Secretary shall establish criteria for evaluating applications for grants under this subsection that will maximize the availability and use of renewable fuel blends, and that will ensure that renewable fuel blends are available across the country. Such criteria shall provide for—
 
 &emsp;&emsp;(A) consideration of the public demand for each renewable fuel blend in a particular geographic area based on State registration records showing the number of flexible-fuel vehicles;
 
@@ -86,7 +86,7 @@ The Secretary shall enter into contracts with entities with demonstrated experie
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), not later than 90 days after December 19, 2007, the Secretary shall issue requirements for use in applying for grants under the pilot program.
+&emsp;&emsp;&emsp;Subject to clause (ii), not later than 90 days after December 19, 2007, the Secretaryshall issue requirements for use in applying for grants under the pilot program.
 
 #### (ii) Minimum requirements
 
@@ -176,7 +176,7 @@ The Secretary shall enter into contracts with entities with demonstrated experie
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 2 years after December 19, 2007, the Secretary shall publish in the Federal Register, Commerce Business Daily, and such other publications as the Secretary considers to be appropriate, a notice and request for additional applications to carry out projects under the pilot program that incorporate the information and knowledge obtained through the implementation of the first round of projects authorized under the pilot program.
+&emsp;&emsp;&emsp;Not later than 2 years after December 19, 2007, the Secretary shall publish in the Federal Register, Commerce BusinessDaily, and such other publications as the Secretary considers to be appropriate, a notice and request for additional applications to carry out projects under the pilot program that incorporate the information and knowledge obtained through the implementation of the first round of projects authorized under the pilot program.
 
 #### (ii) Deadline
 

@@ -22,7 +22,7 @@
 
 #### (C) Federal matching of State expenditures exceeding historical expenditures
 
-&emsp;&emsp;The Secretary shall pay to each eligible State for a fiscal year an amount equal to the lesser of the State's allotment under subparagraph (B) or the Federal medical assistance percentage for the State for the fiscal year (as defined in section 1396d(b) of this title, as such section was in effect on September 30, 1995) of so much of the State's expenditures for child care in that fiscal year as exceed the total amount of expenditures by the State (including expenditures from amounts made available from Federal funds) in fiscal year 1994 or 1995 (whichever is greater) for the programs described in paragraph (1)(A).
+&emsp;&emsp;The Secretary shall pay to each eligible State for a fiscal year an amount equal to the lesser of the State's allotment under subparagraph (B) or the Federal medical assistance percentage for the State for the fiscal year (as defined in section 1396d(b) of thistitle, as such section was in effect on September 30, 1995) of so much of the State's expenditures for child care in that fiscal year as exceed the total amount of expenditures by the State (including expenditures from amounts made available from Federal funds) in fiscal year 1994 or 1995 (whichever is greater) for the programs described in paragraph (1)(A).
 
 #### (D) Redistribution
 
@@ -88,11 +88,11 @@ The Child Care and Development Block Grant Act of 1990, referred to in subsec. (
 
 #### Amendments
 
-2006—Subsec. (a)(3)(G). Pub. L. 109–171 added subpar. (G).
+<b>2006</b>—Subsec. (a)(3)(G). Pub. L. 109–171 added subpar. (G).
 
-2003—Subsec. (a)(3)(F). Pub. L. 108–40 substituted “each of fiscal years 2002 and 2003” for “fiscal year 2002”.
+<b>2003</b>—Subsec. (a)(3)(F). Pub. L. 108–40 substituted “each of fiscal years 2002 and 2003” for “fiscal year 2002”.
 
-1997—Subsec. (a)(1). Pub. L. 105–33, §5601(a)(1)(A), (D), inserted “the greater of” after “equal to” in introductory provisions and struck out concluding provisions which read “whichever is greater.”
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–33, §5601(a)(1)(A), (D), inserted “the greater of” after “equal to” in introductory provisions and struck out concluding provisions which read “whichever is greater.”
 
 Subsec. (a)(1)(A). Pub. L. 105–33, §5601(a)(1)(B), struck out “the sum of” before “the total amount”, substituted “expenditures” for “amounts expended” and “subsections (g) and (i) of section 602 of this title (as in effect before October 1, 1995); or” for “section—”, and struck out cls. (i) and (ii) which read as follows:
 

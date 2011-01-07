@@ -18,9 +18,11 @@ Consistent with section 5151(a) of this title, the Administrator of Federal <su
 
 For purposes of subsection (a), the Administrator of Federal <sup>1</sup> Emergency Management Agency shall define the size of a population group.
 
-(Pub. L. 93–288, title VI, §616, as added and amended Pub. L. 109–295, title VI, §§612(c), 689e, Oct. 4, 2006, 120 Stat. 1410, 1452.)
+(Pub. L. 93–288, title VI, §616, as added Pub. L. 109–295, title VI, §689e, Oct. 4, 2006, 120 Stat. 1452; amended Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864.)
 
-#### Change of Name
+#### Amendments
 
-“Administrator of Federal Emergency Management Agency” substituted for “Director of Federal Emergency Management Agency” in subsecs. (a) and (b) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+<b>2011</b>—Pub. L. 111–351 substituted “Administrator” for “Director” in subsecs. (a) and (b).
+
+<i><sup>1</sup></i><i> So in original. The word “the” probably should appear before “Federal”.</i>
 

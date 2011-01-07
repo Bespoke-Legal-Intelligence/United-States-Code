@@ -154,7 +154,7 @@ Section 7 of Pub. L. 93–350 provided that: “The amendments made by the first
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–297 effective on 90th day after May 16, 1972, see section 10 of Pub. L. 92–297, set out as an Effective Date note under section 3381 of this title.
+Amendment by Pub. L. 92–297 effective on 90th day after May 16, 1972, see section 10 of Pub. L. 92–297, setout as an Effective Date note under section 3381 of this title.
 
 #### Regulations
 

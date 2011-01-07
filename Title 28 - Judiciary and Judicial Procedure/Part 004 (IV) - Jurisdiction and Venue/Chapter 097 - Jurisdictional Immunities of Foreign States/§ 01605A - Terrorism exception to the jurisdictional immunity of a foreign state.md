@@ -12,7 +12,7 @@ No immunity.—A foreign state shall not be immune from the jurisdiction of cour
 
 Claim heard.—The court shall hear a claim under this section if—
 
-&emsp;&emsp;(A)(i)(I) the foreign state was designated as a state sponsor of terrorism at the time the act described in paragraph (1) occurred, or was so designated as a result of such act, and, subject to subclause (II), either remains so designated when the claim is filed under this section or was so designated within the 6-month period before the claim is filed under this section; or
+&emsp;&emsp;(A)(i)(I) the foreign state was designated as a state sponsor of terrorism at the time the act described in paragraph (1) occurred, or was so designated as a result of such act, and, subject to subclause (II), either remainsso designated when the claim is filed under this section or was so designated within the 6-month period before the claim is filed under this section; or
 
 &emsp;&emsp;(II) in the case of an action that is refiled under this section by reason of section 1083(c)(2)(A) of the National Defense Authorization Act for Fiscal Year 2008 or is filed under this section by reason of section 1083(c)(3) of that Act, the foreign state was designated as a state sponsor of terrorism when the original action or the related action under section 1605(a)(7) (as in effect before the enactment of this section) or section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997 (as contained in section 101(c) of division A of Public Law 104–208) was filed;
 
@@ -48,7 +48,7 @@ Private Right of Action.—A foreign state that is or was a state sponsor of ter
 
 &emsp;(4) the legal representative of a person described in paragraph (1), (2), or (3),
 
-> for personal injury or death caused by acts described in subsection (a)(1) of that foreign state,or of an official, employee, or agent of that foreign state, for which the courts of the United States may maintain jurisdiction under this section for money damages. In any such action, damages may include economic damages, solatium, pain and suffering, and punitive damages. In any such action, a foreign state shall be vicariously liable for the acts of its officials, employees, or agents.
+> for personal injury or death caused by acts described in subsection (a)(1) of that foreign state, or of an official, employee, or agent of that foreign state, for which the courts of the United States may maintain jurisdiction under this section for money damages. In any such action, damages may include economic damages, solatium, pain and suffering, and punitive damages. In any such action, a foreign state shall be vicariously liable for the acts of its officials, employees, or agents.
 
 (d)
 
@@ -144,7 +144,7 @@ In general.—With respect to any action that—
 
 &emsp;&emsp;“(iii) has been adversely affected on the grounds that either or both of these provisions fail to create a cause of action against the state, and
 
-&emsp;&emsp;“(iv) as of such date of enactment, is before the courts in any form, including on appeal or motionunder rule 60(b) of the Federal Rules of Civil Procedure \[28 U.S.C. App.\],
+&emsp;&emsp;“(iv) as of such date of enactment, is before the courts in any form, including on appeal or motion under rule 60(b) of the Federal Rules of Civil Procedure \[28 U.S.C. App.\],
 
 > &emsp;that action, and any judgment in the action shall, on motion made by plaintiffs to the United States district court where the action was initially brought, or judgment in the action was initially entered, be given effect as if the action had originally been filed under section 1605A(c) of title 28, United States Code.
 

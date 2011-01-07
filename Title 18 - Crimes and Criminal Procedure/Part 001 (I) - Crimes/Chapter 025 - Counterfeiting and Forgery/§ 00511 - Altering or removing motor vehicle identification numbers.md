@@ -58,9 +58,9 @@ Another section 511 was renumbered section 513 of this title.
 
 #### Amendments
 
-1996—Subsec. (b)(2)(D). Pub. L. 104–294 realigned margins.
+<b>1996</b>—Subsec. (b)(2)(D). Pub. L. 104–294 realigned margins.
 
-1994—Subsec. (a). Pub. L. 103–322, §220003(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whoever knowingly removes, obliterates, tampers with, or alters an identification number for a motor vehicle, or motor vehicle part, shall be fined not more than $10,000 or imprisoned not more than five years, or both.”
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §220003(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whoever knowingly removes, obliterates, tampers with, or alters an identification number for a motor vehicle, or motor vehicle part, shall be fined not more than $10,000 or imprisoned not more than five years, or both.”
 
 Subsec. (b)(2)(D). Pub. L. 103–322, §220003(b), added subpar. (D).
 

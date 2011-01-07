@@ -6,7 +6,7 @@ In General.—The Secretary of Defense may, in accordance with other applicable 
 
 (b)
 
-Emergencies Involving Chemical and Biological Agents.—(1) In addition to equipment and facilities described in subsection (a), the Secretary may provide an item referred to in paragraph (2) to a Federal, State, or local law enforcement or emergency response agency to prepare for or respond to an emergency involving chemical or biological agents if the Secretary determines that the item is not reasonably available from another source. The requirement for a determination that an item is not reasonably available from another source does not apply to assistance provided under section 382 of this title pursuant to a request of the Attorney General for the assistance.
+Emergencies Involving Chemical and Biological Agents.—(1) In addition to equipmentand facilities described in subsection (a), the Secretary may provide an item referred to in paragraph (2) to a Federal, State, or local law enforcement or emergency response agency to prepare for or respond to an emergency involving chemical or biological agents if the Secretary determines that the item is not reasonably available from another source. The requirement for a determination that an item is not reasonably available from another source does not apply to assistance provided under section 382 of this title pursuant to a request of the Attorney General for the assistance.
 
 (2) An item referred to in paragraph (1) is any material or expertise of the Department of Defense appropriate for use in preparing for or responding to an emergency involving chemical or biological agents, including the following:
 
@@ -22,11 +22,11 @@ Emergencies Involving Chemical and Biological Agents.—(1) In addition to equip
 
 #### Amendments
 
-1996—Pub. L. 104–106 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>1996</b>—Pub. L. 104–106 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 Subsec. (b)(1). Pub. L. 104–201 inserted at end “The requirement for a determination that an item is not reasonably available from another source does not apply to assistance provided under section 382 of this title pursuant to a request of the Attorney General for the assistance.”
 
-1988—Pub. L. 100–456 amended section generally, inserting “(including associated supplies or spare parts)” and substituting “Department of Defense” for “Army, Navy, Air Force, or Marine Corps”.
+<b>1988</b>—Pub. L. 100–456 amended section generally, inserting “(including associated supplies or spare parts)” and substituting “Department of Defense” for “Army, Navy, Air Force, or Marine Corps”.
 
 #### Support for Non-Federal Development and Testing of Material for Chemical Agent Defense
 

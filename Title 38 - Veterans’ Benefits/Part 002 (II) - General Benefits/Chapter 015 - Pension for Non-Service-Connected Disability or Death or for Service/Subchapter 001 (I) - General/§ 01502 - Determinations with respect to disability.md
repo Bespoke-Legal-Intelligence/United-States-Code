@@ -30,31 +30,31 @@ Prior section 1502A, Pub. L. 87–591, §1, Aug. 16, 1962, 76 Stat. 393, which r
 
 #### Amendments
 
-2006—Subsec. (b)(2). Pub. L. 109–233 substituted “blind, or so nearly blind or significantly disabled as to” for “helpless or blind, or so nearly helpless or blind as to”.
+<b>2006</b>—Subsec. (b)(2). Pub. L. 109–233 substituted “blind, or so nearly blind or significantly disabled as to” for “helpless or blind, or so nearly helpless or blind as to”.
 
-2001—Subsec. (a). Pub. L. 107–103 substituted “such person is any of the following:” and pars. (1) to (4) for “such a person is unemployable as a result of disability reasonably certain to continue throughout the life of the disabled person, or is suffering from—
+<b>2001</b>—Subsec. (a). Pub. L. 107–103 substituted “such person is any of the following:” and pars. (1) to (4) for “such a person is unemployable as a result of disability reasonably certain to continue throughout the life of the disabled person, or is suffering from—
 
 &emsp;“(1) any disability which is sufficient to render it impossible for the average person to follow a substantially gainful occupation, but only if it is reasonably certain that such disability will continue throughout the life of the disabled person; or
 
 &emsp;“(2) any disease or disorder determined by the Secretary to be of such a nature or extent as to justify a determination that persons suffering therefrom are permanently and totally disabled.”
 
-1991—Pub. L. 102–83, §5(a), renumbered section 502 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 502 of this title as this section.
 
 Subsec. (a)(2). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1990—Subsec. (a). Pub. L. 101–508 amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “For the purposes of this chapter, a person shall be considered to be permanently and totally disabled if such person is sixty-five years of age or older or became unemployable after age 65, or suffering from—”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508 amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “For the purposes of this chapter, a person shall be considered to be permanently and totally disabled if such person is sixty-five years of age or older or became unemployable after age 65, or suffering from—”.
 
-1976—Subsec. (a). Pub. L. 94–432 inserted “or became unemployable after age 65,” after “or older”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–432 inserted “or became unemployable after age 65,” after “or older”.
 
-1975—Subsecs. (a) and (b). Pub. L. 94–169 substituted “such person” for “he”.
+<b>1975</b>—Subsecs. (a) and (b). Pub. L. 94–169 substituted “such person” for “he”.
 
 Subsec. (c). Pub. L. 94–169 substituted “such veteran's” for “his” wherever appearing.
 
-1967—Subsec. (a). Pub. L. 90–77, §102(a), provided for consideration of a person sixty-five years of age or older as permanently and totally disabled.
+<b>1967</b>—Subsec. (a). Pub. L. 90–77, §102(a), provided for consideration of a person sixty-five years of age or older as permanently and totally disabled.
 
 Subsec. (b). Pub. L. 90–77, §102(b), added cl. (1) and designated existing provisions as cl. (2).
 
-1964—Subsec. (c). Pub. L. 88–664 added subsec. (c).
+<b>1964</b>—Subsec. (c). Pub. L. 88–664 added subsec. (c).
 
 #### Effective Date of 2001 Amendment
 

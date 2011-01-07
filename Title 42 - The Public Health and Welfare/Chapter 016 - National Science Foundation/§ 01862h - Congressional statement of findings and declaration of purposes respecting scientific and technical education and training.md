@@ -34,5 +34,5 @@ Sections 1862h to 1862j of this title, referred to in subsec. (b), was in the or
 
 #### Codification
 
-Section was enacted as part of the Scientific and Advanced-Technology Act of 1992, and not as part of theNational Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the Scientific and Advanced-Technology Act of 1992, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 

@@ -4,7 +4,3 @@ In fiscal year 1989 all but $742,000 of receipts, and thereafter all receipts fr
 
 (Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1774.)
 
-#### References in Text
-
-The General Mining Laws, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
-

@@ -36,7 +36,7 @@ No provision in this subchapter shall apply to, or be deemed to include, the Uni
 
 &emsp;(C) any electric utility company, or holding company thereof, which is an associate company or affiliate of an exempt wholesale generator which sells electric energy to an electric utility company referred to in subparagraph (A),
 
-> wherever located, if such examination is required for the effective discharge of the State commission's regulatory responsibilities affecting the provision of electric service.
+> wherever located, if such examination is required for the effective discharge of the Statecommission's regulatory responsibilities affecting the provision of electric service.
 
 (2) Where a State commission issues an order pursuant to paragraph (1), the State commission shall not publicly disclose trade secrets or sensitive commercial information.
 
@@ -60,7 +60,7 @@ The Public Utility Holding Company Act of 2005, referred to in subsec. (g)(5), i
 
 #### Amendments
 
-2005—Subsec. (b)(2). Pub. L. 109–58, §1295(a)(1), substituted “Notwithstanding subsection (f) of this section, the provisions of sections 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824<i>o</i>, 824p, 824q, 824r, 824s, 824t, 824u, and 824v of this title” for “The provisions of sections 824i, 824j, and 824k of this title” and “Compliance with any order or rule of the Commission under the provisions of section 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824<i>o</i>, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title” for “Compliance with any order of the Commission under the provisions of section 824i or 824j of this title”.
+<b>2005</b>—Subsec. (b)(2). Pub. L. 109–58, §1295(a)(1), substituted “Notwithstanding subsection (f) of this section, the provisions of sections 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824<i>o</i>, 824p, 824q, 824r, 824s, 824t, 824u, and 824v of this title” for “The provisions of sections 824i, 824j, and 824k of this title” and “Compliance with any order or rule of the Commission under the provisions of section 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824<i>o</i>, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title” for “Compliance with any order of the Commission under the provisions of section 824i or 824j of this title”.
 
 Subsec. (e). Pub. L. 109–58, §1295(a)(2), substituted “section 824e(e), 824e(f), 824i, 824j, 824j–1, 824k, 824<i>o</i>, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title” for “section 824i, 824j, or 824k of this title”.
 
@@ -68,9 +68,9 @@ Subsec. (f). Pub. L. 109–58, §1291(c), which directed amendment of subsec. (f
 
 Subsec. (g)(5). Pub. L. 109–58, §1277(b)(1), substituted “2005” for “1935”.
 
-1992—Subsec. (g). Pub. L. 102–486 added subsec. (g).
+<b>1992</b>—Subsec. (g). Pub. L. 102–486 added subsec. (g).
 
-1978—Subsec. (b). Pub. L. 95–617, §204(b)(1), designated existing provisions as par. (1), inserted “except as provided in paragraph (2)” after “in interstate commerce, but”, and added par. (2).
+<b>1978</b>—Subsec. (b). Pub. L. 95–617, §204(b)(1), designated existing provisions as par. (1), inserted “except as provided in paragraph (2)” after “in interstate commerce, but”, and added par. (2).
 
 Subsec. (e). Pub. L. 95–617, §204(b)(2), inserted “(other than facilities subject to such jurisdiction solely by reason of section 824i, 824j, or 824k of this title)” after “under this subchapter”.
 

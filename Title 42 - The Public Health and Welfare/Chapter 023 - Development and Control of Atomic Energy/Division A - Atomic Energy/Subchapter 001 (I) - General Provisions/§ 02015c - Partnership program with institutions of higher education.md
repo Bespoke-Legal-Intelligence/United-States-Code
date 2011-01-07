@@ -28,5 +28,5 @@ The Commission may establish and participate in activities relating to research,
 
 #### Amendments
 
-2008—Subsec. (a)(3). Pub. L. 110–315 made technical amendment to reference in original act which appears in text as reference to section 1801(a) of title 25.
+<b>2008</b>—Subsec. (a)(3). Pub. L. 110–315 made technical amendment to reference in original act which appears in text as reference to section 1801(a) of title 25.
 

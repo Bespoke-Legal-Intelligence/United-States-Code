@@ -96,7 +96,7 @@ This chapter shall apply to all persons to the extent necessary to ensure compli
 
 #### (e) Regulations
 
-The Secretary or the Administrator, consistent with section 1903 of this title, shall prescriberegulations applicable to the ships of a country not a party to the MARPOL Protocol (or the applicable Annex), including regulations conforming to and giving effect to the requirements of Annex V and Annex VI as they apply under subsection (a) of this section, to ensure that their treatment is not more favorable than that accorded ships to parties to the MARPOL Protocol.
+The Secretary or the Administrator, consistent with section 1903 of this title, shall prescribe regulations applicable to the ships of a country not a party to the MARPOL Protocol (or the applicable Annex), including regulations conforming to and giving effect to the requirements of Annex V and Annex VI as they apply under subsection (a) of this section, to ensure that their treatment is not more favorable than that accorded ships to parties to the MARPOL Protocol.
 
 #### (f) Compliance by excluded vessels
 
@@ -140,7 +140,7 @@ Section 1003(e) of the National Defense Authorization Act for Fiscal Year 1994, 
 
 #### Amendments
 
-2008—Subsec. (a)(5). Pub. L. 110–280, §4(1), added par. (5).
+<b>2008</b>—Subsec. (a)(5). Pub. L. 110–280, §4(1), added par. (5).
 
 Subsec. (b)(1). Pub. L. 110–280, §4(2)(A), substituted “paragraphs (2) and (3),” for “paragraph (2),” in introductory provisions.
 
@@ -160,13 +160,13 @@ Subsecs. (f) to (h). Pub. L. 110–280, §4(3), redesignated subsecs. (e) to (g)
 
 Subsec. (i). Pub. L. 110–280, §4(5), added subsec. (i).
 
-1998—Subsec. (c)(2)(A)(iii). Pub. L. 105–261, §326(a)(1), added cl. (iii).
+<b>1998</b>—Subsec. (c)(2)(A)(iii). Pub. L. 105–261, §326(a)(1), added cl. (iii).
 
 Subsec. (c)(2)(B)(ii). Pub. L. 105–261, §326(a)(2), substituted “clauses (ii) and (iii) of subparagraph (A)” for “subparagraph (A)(ii)”.
 
 Subsec. (e)(3)(A). Pub. L. 105–261, §326(b), struck out “garbage that contains more than the minimum amount practicable of” after “buoyant garbage or”.
 
-1996—Subsec. (b)(1)(B). Pub. L. 104–227 inserted “or the Antarctic Protocol” after “MARPOL Protocol”.
+<b>1996</b>—Subsec. (b)(1)(B). Pub. L. 104–227 inserted “or the Antarctic Protocol” after “MARPOL Protocol”.
 
 Subsec. (c)(1). Pub. L. 104–201, §324(a)(1), substituted “Except as provided in paragraphs (2) and (3), not later than” for “Not later than”.
 
@@ -174,7 +174,7 @@ Subsec. (c)(2) to (4). Pub. L. 104–201, §324(a)(2), added pars. (2) and (3) a
 
 Subsec. (e)(4)(A). Pub. L. 104–201, §324(d), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Beginning on October 1, 1994, and each year thereafter until October 1, 2000, the amount and nature of the discharges in special areas, not otherwise authorized under Annex V to the Convention, during the preceding year from ships referred to in subsection (b)(1)(A) of this section owned or operated by the Department of the Navy.”
 
-1993—Subsec. (b)(2)(A). Pub. L. 103–160, §1003(a), substituted “as follows:” and cls. (i) to (iii) for “after 5 years after the effective date of this paragraph to a ship referred to in paragraph (1)(A).”
+<b>1993</b>—Subsec. (b)(2)(A). Pub. L. 103–160, §1003(a), substituted “as follows:” and cls. (i) to (iii) for “after 5 years after the effective date of this paragraph to a ship referred to in paragraph (1)(A).”
 
 Subsecs. (c), (d). Pub. L. 103–160, §1003(b), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (g).
 
@@ -182,7 +182,7 @@ Subsecs. (e), (f). Pub. L. 103–160, §1003(c), (d), added subsecs. (e) and (f)
 
 Subsec. (g). Pub. L. 103–160, §1003(b)(1), redesignated subsec. (d) as (g).
 
-1987—Subsec. (a). Pub. L. 100–220, §2102(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “This chapter applies to—
+<b>1987</b>—Subsec. (a). Pub. L. 100–220, §2102(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “This chapter applies to—
 
 &emsp;“(1) a ship of United States registry or nationality, or one operated under the authority of the United States, wherever located;
 

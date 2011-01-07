@@ -40,5 +40,5 @@ In subsection (c) the words “except the authority to prescribe regulations” 
 
 #### Amendments
 
-1999—Subsecs. (c), (d). Pub. L. 106–65 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>1999</b>—Subsecs. (c), (d). Pub. L. 106–65 added subsec. (c) and redesignated former subsec. (c) as (d).
 

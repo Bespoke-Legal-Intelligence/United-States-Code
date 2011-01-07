@@ -20,7 +20,7 @@
 
 #### Amendments
 
-1994—Pub. L. 103–337 renumbered section 673a of this title as this section.
+<b>1994</b>—Pub. L. 103–337 renumbered section 673a of this title as this section.
 
 #### Ex. Ord. No. 11366. Authorization To Order Ready Reserve to Active Duty; Extension of Military Service
 

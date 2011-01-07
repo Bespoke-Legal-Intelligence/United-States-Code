@@ -56,5 +56,5 @@ The Assistant Secretary shall make grants and enter into contracts to provide in
 
 #### Amendments
 
-2006—Subsec. (a)(2)(B)(i). Pub. L. 109–365 inserted “(including mental health)” after “health”.
+<b>2006</b>—Subsec. (a)(2)(B)(i). Pub. L. 109–365 inserted “(including mental health)” after “health”.
 

@@ -74,8 +74,6 @@ Minerals locatable under the mining laws of the United States in lands subject t
 
 #### References in Text
 
-The mining laws of the United States, referred to in subsec. (i), are classified generally to this title.
-
 The Multiple Mineral Development Act, referred to in subsec. (i), is act Aug. 13, 1954, ch. 730, 68 Stat. 708, as amended, which is classified principally to chapter 12 (§521 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 521 of this title and Tables.
 
 #### Codification
@@ -84,15 +82,15 @@ August 8, 2005, referred to in introductory provisions of subsec. (d), was in th
 
 #### Amendments
 
-2005—Pub. L. 109–58 inserted section catchline, added subsecs. (a) to (f), redesignated former subsecs. (c), (d), and (f) as (g), (h), and (i), respectively, substituted “geothermal resources” for “geothermal steam and associated geothermal resources” in subsec. (i), and struck out former subsecs. (a), (b), (e), and (g) to (j), which related to primary and continuation terms, renewals, conversions to mineral leases, five-year extensions, bona fide effort requirement for extensions, payments in lieu of commercial quantities production, and significant expenditure, respectively.
+<b>2005</b>—Pub. L. 109–58 inserted section catchline, added subsecs. (a) to (f), redesignated former subsecs. (c), (d), and (f) as (g), (h), and (i), respectively, substituted “geothermal resources” for “geothermal steam and associated geothermal resources” in subsec. (i), and struck out former subsecs. (a), (b), (e), and (g) to (j), which related to primary and continuation terms, renewals, conversions to mineral leases, five-year extensions, bona fide effort requirement for extensions, payments in lieu of commercial quantities production, and significant expenditure, respectively.
 
-1988—Subsec. (d). Pub. L. 100–443, §2(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “For purposes of subsection (a) of this section, production or utilization of geothermal steam in commercial quantities shall be deemed to include the completion of one or more wells producing or capable of producing geothermal steam in commercial quantities and a bona fide sale of such geothermal steam for delivery to or utilization by a facility or facilities not yet installed but scheduled for installation not later than fifteen years from the date of commencement of the primary term of the lease.”
+<b>1988</b>—Subsec. (d). Pub. L. 100–443, §2(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “For purposes of subsection (a) of this section, production or utilization of geothermal steam in commercial quantities shall be deemed to include the completion of one or more wells producing or capable of producing geothermal steam in commercial quantities and a bona fide sale of such geothermal steam for delivery to or utilization by a facility or facilities not yet installed but scheduled for installation not later than fifteen years from the date of commencement of the primary term of the lease.”
 
 Subsecs. (g) to (j). Pub. L. 100–443, §3, added subsecs. (g) to (j).
 
 #### Consistency Provision
 
-Section 9 of Pub. L. 100–443 provided that: “To the extent that any provision in this Act \[see Short Title of 1988 Amendment note set out under section 1001 of this title\] is inconsistent with the provisions of section 115(2) of title I of section 101(h) of Public Law 99–591 (100 Stat. 3341–264 through 100 Stat. 3341–266) \[set out below\], this Act shall be deemed to supersede the provisions of such section.”
+Section 9 of Pub. L. 100–443 provided that: “To the extent that any provision in this Act \[see Short Title of1988 Amendment note set out under section 1001 of this title\] is inconsistent with the provisions of section 115(2) of title I of section 101(h) of Public Law 99–591 (100 Stat. 3341–264 through 100 Stat. 3341–266) \[set out below\], this Act shall be deemed to supersede the provisions of such section.”
 
 #### Extension of Lease; Listing, Monitoring and Protection of Significant Thermal Features in National Park System; Factors Considered in Issuing or Denying Leases; Effect on Other Provisions
 

@@ -28,13 +28,13 @@ The definition of “individual with a mental illness” contained in section 10
 
 #### Amendments
 
-2000—Subsec. (d). Pub. L. 106–310 added subsec. (d).
+<b>2000</b>—Subsec. (d). Pub. L. 106–310 added subsec. (d).
 
-1991—Subsec. (a). Pub. L. 102–173, §10(2), substituted “individuals with mental illness” for “mentally ill individuals” in three places.
+<b>1991</b>—Subsec. (a). Pub. L. 102–173, §10(2), substituted “individuals with mental illness” for “mentally ill individuals” in three places.
 
 Subsec. (c). Pub. L. 102–173, §5, added subsec. (c).
 
-1988—Subsec. (a)(2). Pub. L. 100–509, §7(a), substituted “including, in particular, groups run by individuals who have received or are receiving mental health services, or the family members of such individuals, which” for “which, on May 23, 1986”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–509, §7(a), substituted “including, in particular, groups run by individuals who have received or are receiving mental health services, or the family members of such individuals, which” for “which, on May 23, 1986”.
 
 Subsec. (b)(2). Pub. L. 100–509, §7(b)(1), substituted “10” for “5”.
 

@@ -2,7 +2,7 @@
 
 #### (a) Income and other financial resources as substantial limiting factors in obtaining more nutritious diet; recipients under Social Security Act
 
-Participation in the supplemental nutrition assistance program shall be limited to those households whose incomes and other financial resources, held singly or in joint ownership, are determined to be a substantial limiting factor in permitting them to obtain a more nutritious diet. Notwithstanding any other provisions of this chapter except sections 2015(b), 2015(d)(2), and 2015(g) of this title and section 2012(n)(4) of this title, households in which each member receives benefits under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), supplemental security income benefits under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\], or aid to the aged, blind, or disabled under title I, X, XIV, or XVI of the Social Security Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., or 1381 et seq.\], shall be eligible to participate in the supplemental nutrition assistance program. Except for sections 2015, 2025(e)(1), and section 2012(n)(4) of this title, households in which each member receives benefits under a State or local general assistance program that complies with standards established by the Secretary for ensuring that the program is based on income criteria comparable to or more restrictive than those under subsection (c)(2) of this section, and not limited to one-time emergency payments that cannot be provided for more than one consecutive month, shall be eligible to participate in the supplemental nutrition assistance program. Assistance under this program shall be furnished to all eligible households who make application for such participation.
+Participation in the supplemental nutrition assistance program shall be limited to those households whose incomes and other financial resources, held singly or in joint ownership, aredetermined to be a substantial limiting factor in permitting them to obtain a more nutritious diet. Notwithstanding any other provisions of this chapter except sections 2015(b), 2015(d)(2), and 2015(g) of this title and section 2012(n)(4) of this title, households in which each member receives benefits under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), supplemental security income benefits under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\], or aid to the aged, blind, or disabled under title I, X, XIV, or XVI of the Social Security Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., or 1381 et seq.\], shall be eligible to participate in the supplemental nutrition assistance program. Except for sections 2015, 2025(e)(1), and section 2012(n)(4) of this title, households in which each member receives benefits under a State or local general assistance program that complies with standards established by the Secretary for ensuring that the program is based on income criteria comparable to or more restrictive than those under subsection (c)(2) of this section, and not limited to one-time emergency payments that cannot be provided for more than one consecutive month, shall be eligible to participate in the supplemental nutrition assistance program. Assistance under this program shall be furnished to all eligible households who make application for such participation.
 
 #### (b) Eligibility standards
 
@@ -22,7 +22,7 @@ The income standards of eligibility shall be adjusted each October 1 and shall p
 
 Household income for purposes of the supplemental nutrition assistance program shall include all income from whatever source excluding only—
 
-&emsp;(1) any gain or benefit which is not in the form of money payable directly to a household (notwithstanding its conversion in whole or inpart to direct payments to households pursuant to any demonstration project carried out or authorized under Federal law including demonstration projects created by the waiver of provisions of Federal law);
+&emsp;(1) any gain or benefit which is not in the form of money payable directly to a household (notwithstanding its conversion in whole or in part to direct payments to households pursuant to any demonstration project carried out or authorized under Federal law including demonstration projects created by the waiver of provisions of Federal law);
 
 &emsp;(2) any income in the certification period which is received too infrequently or irregularly to be reasonably anticipated, but not in excess of $30 in a quarter, subject to modification by the Secretary in light of subsection (f) of this section;
 
@@ -54,7 +54,7 @@ Household income for purposes of the supplemental nutrition assistance program s
 
 &emsp;(12) through September 30 of any fiscal year, any increase in income attributable to a cost-of-living adjustment made on or after July 1 of such fiscal year under title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\], section 3(a)(1) of the Railroad Retirement Act of 1974 (45 U.S.C. 231b(a)(1)), or section 5312 of title 38, if the household was certified as eligible to participate in the supplemental nutrition assistance program or received an allotment in the month immediately preceding the first month in which the adjustment was effective;
 
-&emsp;(13) any payment made to the household under section 3507 of title 26 (relating to advance payment of earned income credit);
+&emsp;(13) any payment made to the household under section 3507 <sup>1</sup> of title 26 (relating to advance payment of earned income credit);
 
 &emsp;(14) any payment made to the household under section 2015(d)(4)(I) of this title for work related expenses or for dependent care;
 
@@ -132,7 +132,7 @@ Household income for purposes of the supplemental nutrition assistance program s
 
 #### (C) Exception
 
-&emsp;&emsp;The deduction described in subparagraph (B) shall not be allowed with respect to determining an overissuance due to the failureof a household to report earned income in a timely manner.
+&emsp;&emsp;The deduction described in subparagraph (B) shall not be allowed with respect to determining an overissuance due to the failure of a household to report earned income in a timely manner.
 
 #### (3) Dependent care deduction
 
@@ -242,7 +242,7 @@ Household income for purposes of the supplemental nutrition assistance program s
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Subject to subclause (II), if a State agency elects to use a standard utility allowance that reflects heating or cooling costs, the standard utility allowance shall be made available to households receiving a payment, or on behalf of which a payment is made, under the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8621 et seq.) or other similar energy assistance program, if the household still incurs out-of-pocket heating or cooling expenses in excess of any assistance paid on behalf of the household to an energy provider.
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (II), if a State agency elects to use a standard utilityallowance that reflects heating or cooling costs, the standard utility allowance shall be made available to households receiving a payment, or on behalf of which a payment is made, under the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8621 et seq.) or other similar energy assistance program, if the household still incurs out-of-pocket heating or cooling expenses in excess of any assistance paid on behalf of the household to an energy provider.
 
 #### (II) Separate allowance
 
@@ -298,27 +298,31 @@ Changes that may not be disregarded.—Under clause (i), a State agency may not 
 
 (3)(A) Calculation of household income on a prospective basis is the calculation of income on the basis of the income reasonably anticipated to be received by the household during the period for which eligibility or benefits are being determined. Such calculation shall be made in accordance with regulations prescribed by the Secretary which shall provide for taking into account both the income reasonably anticipated to be received by the household during the period for which eligibility or benefits are being determined and the income received by the household during the preceding thirty days.
 
-(B) Calculation of household income on a retrospective basis is the calculation of income for the period for which eligibility or benefits are being determined on the basis of income received in a previous period. Such calculation shall be made in accordance with regulations prescribed by the Secretary which may provide for the determination of eligibility on a prospective basis in some or all cases in which benefits are calculated under this paragraph. Such regulations shall provide for supplementing the initial allotments of newly applying households in those cases in which the determination of income under this paragraph causes serious hardship.
+(B) Calculation of household income on a retrospective basis is the calculation of income forthe period for which eligibility or benefits are being determined on the basis of income received in a previous period. Such calculation shall be made in accordance with regulations prescribed by the Secretary which may provide for the determination of eligibility on a prospective basis in some or all cases in which benefits are calculated under this paragraph. Such regulations shall provide for supplementing the initial allotments of newly applying households in those cases in which the determination of income under this paragraph causes serious hardship.
 
 (4) In promulgating regulations under this subsection, the Secretary shall consult with the Secretary of Health and Human Services in order to assure that, to the extent feasible and consistent with the purposes of this chapter and the Social Security Act \[42 U.S.C. 301 et seq.\], the income of households receiving benefits under this chapter and title IV–A of the Social Security Act \[42 U.S.C. 601 et seq.\] is calculated on a comparable basis under this chapter and the Social Security Act. The Secretary is authorized, upon the request of a State agency, to waive any of the provisions of this subsection (except the provisions of paragraph (2)(A)) to the extent necessary to permit the State agency to calculate income for purposes of this chapter on the same basis that income is calculated under title IV–A of the Social Security Act in that State.
 
 #### (g) Allowable financial resources
 
-#### (1) Total amount
+(1)
 
-#### (A) In general
+Total amount.—
 
-&emsp;&emsp;The Secretary shall prescribe the types and allowable amounts of financial resources (liquid and nonliquid assets) an eligible household may own, and shall, in so doing, assure that a household otherwise eligible to participate in the supplemental nutrition assistance program will not be eligible to participate if its resources exceed $2,000 (as adjusted in accordance with subparagraph (B)), or, in the case of a household which consists of or includes an elderly or disabled member, if its resources exceed $3,000 (as adjusted in accordance with subparagraph (B)).
+&emsp;(A)
 
-#### (B) Adjustment for inflation
+In general.—The Secretary shall prescribe the types and allowable amounts of financial resources (liquid and nonliquid assets) an eligible household may own, and shall, in so doing, assure that a household otherwise eligible to participate in the supplemental nutrition assistance program will not be eligible to participate if its resources exceed $2,000 (as adjusted in accordance with subparagraph (B)), or, in the case of a household which consists of or includes an elderly or disabled member, if its resources exceed $3,000 (as adjusted in accordance with subparagraph (B)).
 
-#### (i) In general
+&emsp;(B)
 
-&emsp;&emsp;&emsp;Beginning on October 1, 2008, and each October 1 thereafter, the amounts specified in subparagraph (A) shall be adjusted and rounded down to the nearest $250 increment to reflect changes for the 12-month period ending the preceding June in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
+Adjustment for inflation.—
 
-#### (ii) Requirement
+&emsp;&emsp;(i)
 
-&emsp;&emsp;&emsp;Each adjustment under clause (i) shall be based on the unrounded amount for the prior 12-month period.
+In general.—Beginning on October 1, 2008, and each October 1 thereafter, the amounts specified in subparagraph (A) shall be adjusted and rounded down to the nearest $250 increment to reflect changes for the 12-month period ending the preceding June in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
+
+&emsp;&emsp;(ii)
+
+Requirement.—Each adjustment under clause (i) shall be based on the unrounded amount for the prior 12-month period.
 
 (2)
 
@@ -430,7 +434,7 @@ Discretionary exclusions.—The Secretary may exclude from financial resources u
 
 #### (i) Attribution of income and resources to sponsored aliens; coverage, computations, etc.
 
-(1) For purposes of determining eligibility for and the amount of benefits under this chapter for an individual who is an alien as described in section 2015(f)(2)(B) of this title, the income and resources of any person who as a sponsor of such individual's entry into the United States executed an affidavit of support or similar agreement with respect to such individual, and the income and resources of the sponsor's spouse if such spouse is living with the sponsor, shall be deemed to be the income and resources of such individual for a period of three years after the individual's entry into the United States. Any such income deemed to be income of such individual shall be treated as unearned income of such individual.
+(1) For purposes of determining eligibility for and the amount of benefits under this chapter for an individual who is an alien as described in section 2015(f)(2)(B) of this title, the income and resources of any person who as a sponsor of such individual's entry into the United States executed an affidavit of support or similar agreement with respect to such individual, and the income and resources of the sponsor's spouse ifsuch spouse is living with the sponsor, shall be deemed to be the income and resources of such individual for a period of three years after the individual's entry into the United States. Any such income deemed to be income of such individual shall be treated as unearned income of such individual.
 
 (2)(A) The amount of income of a sponsor, and the sponsor's spouse if living with the sponsor, which shall be deemed to be the unearned income of an alien for any year shall be determined as follows:
 
@@ -486,7 +490,7 @@ Notwithstanding subsections (a) through (i) of this section, a State agency shal
 
 &emsp;(F) emergency and special assistance, to the extent excluded in regulations prescribed by the Secretary; or
 
-&emsp;(G) assistance provided to a third party on behalf of a household under a State or local general assistance program, or another local basic assistance program comparable to general assistance (as determined by the Secretary), if, under State law, no assistance under the program may be provided directly to the household in the form of a cash payment.
+&emsp;(G) assistance provided to a third party on behalf of a household under a State or localgeneral assistance program, or another local basic assistance program comparable to general assistance (as determined by the Secretary), if, under State law, no assistance under the program may be provided directly to the household in the form of a cash payment.
 
 (3) For purposes of subsection (d)(1) of this section, educational loans on which payment is deferred, grants, scholarships, fellowships, veterans’ educational benefits, and the like that are provided to a third party on behalf of a household for living expenses shall be treated as money payable directly to the household.
 
@@ -528,7 +532,9 @@ Regardless of whether a State agency elects to provide a deduction under subsect
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (a), (d)(5), (11), (12), (16), (18), (f)(4), (g)(2)(D), (6)(A)(i), (j), (k)(1)(A), and (n), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles I, II, IV, X, XIV, XVI, and XIX of the Social Security Act are classified generally to subchapters I (§301 et seq.), II (§401 et seq.), IV (§601 et seq.), X (§1201 et seq.), XIV (§1351 et seq.), XVI (§1381 et seq.), and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Parts A and D of title IV of the Act are classified generally to parts A (§601 et seq.) and D (§651 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a), (d)(5), (11), (12), (16), (18), (f)(4), (g)(2)(D), (6)(A)(i), (j), (k)(1)(A), and (n), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles I, II, IV, X, XIV, XVI, and XIXof the Social Security Act are classified generally to subchapters I (§301 et seq.), II (§401 et seq.), IV (§601 et seq.), X (§1201 et seq.), XIV (§1351 et seq.), XVI (§1381 et seq.), and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Parts A and D of title IV of the Act are classified generally to parts A (§601 et seq.) and D (§651 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+Section 3507 of title 26, referred to in subsec. (d)(13), was repealed by Pub. L. 111–226, title II, §219(a)(1), Aug. 10, 2010, 124 Stat. 2403.
 
 The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (e)(7)(C)(iv), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, as amended, which is classified generally to subchapter II (§8621 et seq.) of chapter 94 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of Title 42 and Tables.
 
@@ -812,7 +818,7 @@ Subsec. (e). Pub. L. 100–77, §804(a), in second sentence substituted “(3)�
 
 Pub. L. 100–77, §805(a), inserted at end of third sentence “, except that such additional deduction shall not be allowed with respect to earned income that a household willfully or fraudulently fails (as proven in a proceeding provided for in section 2015(b) of this title) to report in a timely manner”.
 
-Pub. L. 100–77, §806(a), amended proviso in fourth sentence generally. Prior to amendment, the proviso read as follows: “That the amount of such excess shelter expense deduction shall not exceed $147 a month in the forty-eight contiguous States and the District of Columbia, and shall not exceed, in Alaska, Hawaii, Guam, and the Virgin Islands of the United States, $256, $210, $179, and $109 a month, respectively, adjusted on October 1, 1986, and on each October 1 thereafter, to the nearest lower dollar increment to reflect changes in the shelter (exclusive of homeowners’ costs and maintenance and repair component of shelter costs), fuel,and utilities components of housing costs in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, as appropriately adjusted by the Bureau of Labor Statistics after consultation with the Secretary, for the twelve months ending the preceding June 30.”
+Pub. L. 100–77, §806(a), amended proviso in fourth sentence generally. Prior to amendment, the proviso read as follows: “That the amount of such excess shelter expense deduction shall not exceed $147 a month in the forty-eight contiguous States and the District of Columbia, and shall not exceed, in Alaska, Hawaii, Guam, and the Virgin Islands of the United States, $256, $210, $179, and $109 a month, respectively, adjusted on October 1, 1986, and on each October 1 thereafter, to the nearest lower dollar increment to reflect changes in the shelter (exclusive of homeowners’ costs and maintenance and repair component of shelter costs), fuel, and utilities components of housing costs in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, as appropriately adjusted by the Bureau of Labor Statistics after consultation with the Secretary, for the twelve months ending the preceding June 30.”
 
 Subsec. (k)(2). Pub. L. 100–77, §807, temporarily added subpar. (E) and redesignated former subpar. (E) as (F). See Effective and Termination Dates of 1987 Amendment note below.
 
@@ -878,7 +884,7 @@ Subsec. (m). Pub. L. 99–198, §1510(2), added subsec. (m).
 
 Subsec. (d)(12). Pub. L. 97–253, §147, added cl. (12).
 
-Subsec. (e). Pub. L. 97–253, §§143(b), 145(d), 146(b), 148, 149, in first sentence substituted reference for households containing an elderly or disabled member for reference to households described in subsec. (c)(1) of this section, substituted reference to October 1, 1983, for reference to July 1, 1983, and reference to the nearest lower dollar increment for reference to the nearest $5 increment, respectively, wherever appearing in second sentence and in the proviso of cl. (2) of fourth sentence, respectively, in fourth and seventh sentences and in par. (A) substituted reference to elderly or disabled members for references to members who were sixty years of age or over or who received supplemental security income benefits under title XVI of the Social Security Act or disability and blindness payments under titles I, II, X, XIV, and XVI of the Social Security Act, in par. (B) substituted reference to the fourth sentence of this subsection for former reference to the preceding sentence of this subsection, and inserted provisions that in computing the excess shelter expense deduction under cl. (2) of the preceding sentence, a State agency may use a standard utility allowance in accordance with regulations promulgated by the Secretary, except that a State agency may use an allowance which does not fluctuate within a year to reflect seasonal variations, and that an allowance for a heating or cooling expense may not be used for a household that does not incur a heating or cooling expense, as the case may be, or does incur a heating or cooling expense but is located in a public housing unit which has central utility meters and charges households, with regard to such expense, only for excess utility costs, and that no such allowance may be used for a household that shares such expense with, and lives with, another individual not participating in the food stamp program, another household participating in the food stamp program, or both, unless the allowance is prorated between the household and the other individual, household, or both.
+Subsec. (e). Pub. L. 97–253, §§143(b), 145(d), 146(b), 148, 149, in first sentence substituted reference for households containing an elderly or disabled member for reference to households described in subsec. (c)(1) of this section, substituted reference to October 1, 1983, for reference to July 1, 1983, and reference to the nearest lower dollar increment for reference to the nearest $5 increment, respectively, wherever appearing in second sentence and in the proviso of cl. (2) of fourth sentence,respectively, in fourth and seventh sentences and in par. (A) substituted reference to elderly or disabled members for references to members who were sixty years of age or over or who received supplemental security income benefits under title XVI of the Social Security Act or disability and blindness payments under titles I, II, X, XIV, and XVI of the Social Security Act, in par. (B) substituted reference to the fourth sentence of this subsection for former reference to the preceding sentence of this subsection, and inserted provisions that in computing the excess shelter expense deduction under cl. (2) of the preceding sentence, a State agency may use a standard utility allowance in accordance with regulations promulgated by the Secretary, except that a State agency may use an allowance which does not fluctuate within a year to reflect seasonal variations, and that an allowance for a heating or cooling expense may not be used for a household that does not incur a heating or cooling expense, as the case may be, or does incur a heating or cooling expense but is located in a public housing unit which has central utility meters and charges households, with regard to such expense, only for excess utility costs, and that no such allowance may be used for a household that shares such expense with, and lives with, another individual not participating in the food stamp program, another household participating in the food stamp program, or both, unless the allowance is prorated between the household and the other individual, household, or both.
 
 Subsec. (f)(2)(A). Pub. L. 97–253, §189(a), corrected a typographical error by substituting “prospective” for “propsective”.
 
@@ -902,7 +908,7 @@ Pub. L. 97–35, §§104(a)(2), 105, 106, 115, 116(a)(1), completely revised and
 
 Subsec. (f). Pub. L. 97–35, §107(a), completely revised and reorganized provisions to provide for calculation of household income through a prospective or retrospective basis instead of calculation of household income by the State agency, and accompanying determination respecting criteria, methodologies, etc., for calculation.
 
-Subsec. (f)(2)(B). Pub. L. 97–35, §107(b), substituted provisions requiring calculation on a retrospective basis, for provisions requiring calculation on either aretrospective or prospective basis as elected by the State agency.
+Subsec. (f)(2)(B). Pub. L. 97–35, §107(b), substituted provisions requiring calculation on a retrospective basis, for provisions requiring calculation on either a retrospective or prospective basis as elected by the State agency.
 
 Subsec. (g). Pub. L. 97–98, §1309, inserted “(other than those relating to licensed vehicles)” after “June 1, 1977”.
 
@@ -958,7 +964,7 @@ Pub. L. 107–171, title IV, §4108(b), May 13, 2002, 116 Stat. 309, provided th
 
 Pub. L. 107–171, title IV, §4401(b)(3), May 13, 2002, 116 Stat. 333, provided that: “The amendments made by this subsection \[amending this section and sections 1612, 1613, and 1631 of Title 8, Aliens and Nationality\] take effect on October 1, 2003.”
 
-Amendment by sections 4101–4107 and 4112(b)(2) of Pub. L. 107–171 effective Oct. 1, 2002, except as otherwiseprovided, see section 4405 of Pub. L. 107–171, set out as an Effective Date note under section 1161 of Title 2, The Congress.
+Amendment by sections 4101–4107 and 4112(b)(2) of Pub. L. 107–171 effective Oct. 1, 2002, except as otherwise provided, see section 4405 of Pub. L. 107–171, set out as an Effective Date note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 2000 Amendment
 
@@ -992,7 +998,7 @@ Amendment by sections 13911, 13913 to 13915, 13922(a), and 13924 of Pub. L. 103�
 
 Amendment by section 13921 of Pub. L. 103–66 effective, and to be implemented beginning on, Sept. 1, 1994, except that State agencies to implement such amendment not later than Oct. 1, 1995, see section 13971(b)(5) of Pub. L. 103–66, set out as a note under section 2025 of this title.
 
-Amendment by section 13912(b)(2) of Pub. L. 103–66, effective, and to be implemented beginning on, Jan. 1, 1997, see section 13971(b)(6) of Pub. L. 103–66, set out as a note under section 2025 of this title.
+Amendment by section 13912(b)(2) of Pub. L. 103–66, effective, and to be implemented beginning on, Jan. 1,1997, see section 13971(b)(6) of Pub. L. 103–66, set out as a note under section 2025 of this title.
 
 #### Effective Date of 1992 Amendments
 
@@ -1026,7 +1032,7 @@ Amendment by sections 1714(1), 1715, 1717, 1719, 1720, and 1726(b)(2) of Pub. L.
 
 Amendment by sections 201, 202(a), 403, and 404(f) of Pub. L. 100–435 to be effective and implemented on Oct. 1, 1988, amendment by sections 340 to 342 and 351 of Pub. L. 100–435 to be effective and implemented on July 1, 1989, amendment by section 343 of Pub. L. 100–435 to be effective and implemented on Sept. 19, 1988, and amendment by section 402 of Pub. L. 100–435 to be effective and implemented on Jan. 1, 1989, except that amendment by sections 201, 341, 342, 351, 402, 403, and 404(f) of Pub. L. 100–435 to become effective and implemented on Oct. 1, 1989, if final order is issued under section 902(b) of Title 2, The Congress, for fiscal year 1989 making reductions and sequestrations specified in the report required under section 901(a)(3)(A) of Title 2, see section 701(a), (b)(1), (2), (4), (c)(2) of Pub. L. 100–435, set out as a note under section 2012 of this title.
 
-Pub. L. 100–387, title V, §501(b), Aug. 11, 1988, 102 Stat. 960, as amended by Pub. L. 110–234, title IV,§4002(b)(1)(B), (2)(JJ), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(JJ), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
+Pub. L. 100–387, title V, §501(b), Aug. 11, 1988, 102 Stat. 960, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(JJ), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(JJ), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
 
 “(1) The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Aug. 11, 1988\].
 
@@ -1064,7 +1070,7 @@ Pub. L. 100–77, title VIII, §807(b), July 22, 1987, 101 Stat. 535, as amended
 
 “(1) The amendments made by this section \[amending this section\] shall be effective and shall be implemented for the period beginning 90 days after the date of enactment of this Act \[July 22, 1987\] and ending September 30, 1990.
 
-“(2) The Secretary shall adjust the level of benefits provided to households under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) during the period between September 30, 1989 and the effective date of this paragraph \[Dec. 12, 1989\] to ensure that the level of such benefits is no less than the level determined in accordance with the provisions of section 5(k)(2)(F) of the Food and Nutrition Act of 2008 \[7 U.S.C. 2014(k)(2)(F)\].
+“(2) The Secretary shall adjust the level of benefits provided to households under the Food and NutritionAct of 2008 (7 U.S.C. 2011 et seq.) during the period between September 30, 1989 and the effective date of this paragraph \[Dec. 12, 1989\] to ensure that the level of such benefits is no less than the level determined in accordance with the provisions of section 5(k)(2)(F) of the Food and Nutrition Act of 2008 \[7 U.S.C. 2014(k)(2)(F)\].
 
 “(3) The amendments made by this section shall not apply with respect to allotments issued under the Food and Nutrition Act of 2008 \[this chapter\] to any household for any month beginning before the effective period of this section begins.”
 

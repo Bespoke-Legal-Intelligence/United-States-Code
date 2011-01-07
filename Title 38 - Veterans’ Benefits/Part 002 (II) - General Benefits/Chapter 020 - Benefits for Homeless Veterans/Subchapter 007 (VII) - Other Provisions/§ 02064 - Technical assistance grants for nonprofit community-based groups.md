@@ -12,5 +12,5 @@ Authorization of Appropriations.—There are authorized to be appropriated $1,00
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–461 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated $750,000 for each of fiscal years 2002 through 2005 to carry out the program under this section.”
+<b>2006</b>—Subsec. (b). Pub. L. 109–461 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated $750,000 for each of fiscal years 2002 through 2005 to carry out the program under this section.”
 

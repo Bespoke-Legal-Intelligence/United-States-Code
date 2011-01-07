@@ -50,9 +50,9 @@ For purposes of this section a power of appointment created by a will executed o
 
 #### Amendments
 
-1976—Subsec. (b). Pub. L. 94–455 struck out “A disclaimer or renunciation of such a power of appointment shall not be deemed a release of such power.”
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out “A disclaimer or renunciation of such a power of appointment shall not be deemed a release of such power.”
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 applicable to transfers creating an interest in person disclaiming made afterDec. 31, 1976, see section 2009(e)(2) of Pub. L. 94–455, set out as a note under section 2518 of this title.
+Amendment by Pub. L. 94–455 applicable to transfers creating an interest in person disclaiming made after Dec. 31, 1976, see section 2009(e)(2) of Pub. L. 94–455, set out as a note under section 2518 of this title.
 

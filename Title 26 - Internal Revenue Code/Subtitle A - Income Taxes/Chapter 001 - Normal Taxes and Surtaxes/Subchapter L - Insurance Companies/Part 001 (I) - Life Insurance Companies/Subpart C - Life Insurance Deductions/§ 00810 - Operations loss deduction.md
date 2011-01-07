@@ -114,7 +114,7 @@ A prior section 810, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 125;
 
 #### Amendments
 
-2009—Subsec. (b)(4). Pub. L. 111–92 added par. (4).
+<b>2009</b>—Subsec. (b)(4). Pub. L. 111–92 added par. (4).
 
 #### Effective Date of 2009 Amendment
 
@@ -123,4 +123,6 @@ Amendment by Pub. L. 111–92 applicable to losses arising in taxable years endi
 #### Effective Date
 
 Section applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as a note under section 801 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

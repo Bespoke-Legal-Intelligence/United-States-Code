@@ -16,7 +16,7 @@ In text, “section 55305 of title 46” substituted for “section 901(b) of th
 
 #### Amendments
 
-2008—Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+<b>2008</b>—Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
 #### Effective Date of 2008 Amendment
 

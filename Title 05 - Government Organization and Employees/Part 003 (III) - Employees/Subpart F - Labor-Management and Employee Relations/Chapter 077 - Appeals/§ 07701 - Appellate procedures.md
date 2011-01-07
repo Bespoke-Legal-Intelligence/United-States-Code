@@ -106,13 +106,9 @@ Aug. 4, 1947, ch. 447, 61 Stat. 723.
 
 June 22, 1948, ch. 604, 62 Stat. 575.
 
-The application of the section is established by the words “A preference eligible employee as defined by section 7511 of this title”. Specific mention of the actions appealable are covered by the reference to “an adverse decision under section 7512 of this title”. The words “administrative authority” are substituted for “administrative officer” to avoid conflict with the definitions of “employee” and “officer” in chapter 21 of this title and to include an individual who is employed by the government of the District of Columbia or who is a member of a uniformed service as such an individual could have been an “administrative officer” under former section 863. The words “the date of” in the phrase “after the date of receipt of notice” are omitted as unnecessary. The words “reasonable rules and” in the phrase “reasonable rules and regulations” are omitted as unnecessary. The word “proper” in the phrase “proper administrative officer” is omitted as unnecessary. The word “designated” in the phrase “designated representative” is omitted as unnecessary.
+The application of the section is established by the words “A preference eligible employee as defined by section 7511 of this title”. Specific mention of the actions appealable are covered by the reference to “an adverse decision under section 7512 of this title”. The words “administrative authority” are substituted for “administrative officer” to avoid conflict with the definitions of “employee” and “officer” in chapter 21 of this title and to include an individual who is employed by the government of the District of Columbia or who is a member of a uniformed service as such an individual could have been an “administrative officer” under former section 863. The words “the date of” in thephrase “after the date of receipt of notice” are omitted as unnecessary. The words “reasonable rules and” in the phrase “reasonable rules and regulations” are omitted as unnecessary. The word “proper” in the phrase “proper administrative officer” is omitted as unnecessary. The word “designated” in the phrase “designated representative” is omitted as unnecessary.
 
 Standard changes are made to conform with the definitions applicable and the style of this title outlined in preface to the report.
-
-#### References in Text
-
-The civil service law, referred to in subsecs. (d) and (e)(2), is set out in this title. See, particularly, section 3301 et seq. of this title.
 
 #### Amendments
 

@@ -26,7 +26,7 @@ Exception for safety modifications.—The prohibition in subsection (a) does not
 
 (c)
 
-Waiver Authority.—The Secretary concerned may waive the prohibition in subsection (a) in the case of any modification otherwise subject to that subsection if the Secretary determines that carrying out the modification is in the national security interest of the United States. Whenever the Secretary issues such awaiver, the Secretary shall notify the congressional defense committees in writing.
+Waiver Authority.—The Secretary concerned may waive the prohibition in subsection (a) in the case of any modification otherwise subject to that subsection if the Secretary determines that carrying out the modification is in the national security interest of the United States. Whenever the Secretary issues such a waiver, the Secretary shall notify the congressional defense committees in writing.
 
 (Added Pub. L. 109–163, div. A, title III, §372(a), Jan. 6, 2006, 119 Stat. 3209.)
 

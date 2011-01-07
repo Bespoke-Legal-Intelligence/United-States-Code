@@ -36,7 +36,7 @@ Required Safeguards and Internal Controls.—Regulations under subsection (a) sh
 
 &emsp;(9) That appropriate training is provided to each purchase card holder and each official with responsibility for overseeing the use of purchase cards issued by the Department of Defense.
 
-&emsp;(10) That the Department of Defense has specific policies regarding the number of purchase cards issued by various organizations and categories of organizations, the credit limits authorized for various categories of card holders, and categories of employees eligible to be issued purchase cards, and that those policies are designed to minimize the financial risk to the Federal Government of the issuance of the purchase cards and to ensure the integrity of purchase card holders.
+&emsp;(10) That the Department of Defense has specific policies regarding the number of purchase cards issued by various organizations and categories of organizations, the credit limits authorized for various categories of card holders, and categories of employees eligible to be issued purchase cards, and that those policies are designed to minimize the financial risk to the Federal Government of the issuance of thepurchase cards and to ensure the integrity of purchase card holders.
 
 (c)
 
@@ -54,9 +54,9 @@ Penalties for Violations.—The regulations prescribed under subsection (a) shal
 
 #### Amendments
 
-2008—Subsec. (c)(1). Pub. L. 110–417 substituted “provide—” for “provide”, added subpar. (A), and substituted “(B) for” for “for”.
+<b>2008</b>—Subsec. (c)(1). Pub. L. 110–417 substituted “provide—” for “provide”, added subpar. (A), and substituted “(B) for” for “for”.
 
-2002—Pub. L. 107–314, §1007(b)(1)(A), substituted “purchase” for “credit” in section catchline.
+<b>2002</b>—Pub. L. 107–314, §1007(b)(1)(A), substituted “purchase” for “credit” in section catchline.
 
 Subsec. (a). Pub. L. 107–314, §1007(a)(1), (b)(1)(B), (C), substituted “Purchase” for “Credit” in heading and “purchase” for “credit” in two places in text and struck out “, acting through the Under Secretary of Defense (Comptroller),” after “Secretary of Defense”.
 

@@ -1,14 +1,18 @@
 ### §2001. House Office Building; control, supervision, and care
 
-The House of Representatives Office Building, which shall hereafter be designated as the House Office Building and the employment of all service, other than officers and privates of the Capitol police, that may be appropriated for by Congress, necessary for its protection, care, and occupancy, shall be under the control and supervision of the Architect of the Capitol, subject to the approval and direction of a commission consisting of the Speaker of the House of Representatives and two Representatives in Congress, to be appointed by the Speaker. Vacancies occurring by resignation, termination of service as Representatives in Congress, or otherwise in the membership of said commission shall be filled by the Speaker, and any two members of said commission shall constitute a quorum to do business. The Architect of the Capitol shall submit annually to Congress estimates in detail for all services, other than officers and privates of the Capitol police, and for all other expenses in connection with said office building and necessary for its protection, care, and occupancy; and said commission herein referred to shall from time to time prescribe rules and regulations to govern said architect in making all such employments, together with rules and regulations governing the use and occupancy of all rooms and space in said building.
+The House of Representatives Office Building, which shall hereafter be designated as the House Office Building and the employment of all service, other than the United States Capitol Police, that may be appropriated for by Congress, necessary for its protection, care, and occupancy, shall be under the control and supervision of the Architect of the Capitol, subject to the approval and direction of a commission consisting of the Speaker of the House of Representatives and two Representatives in Congress, to be appointed by the Speaker. Vacancies occurring by resignation, termination of service as Representatives in Congress, or otherwise in the membership of said commission shall be filled by the Speaker, and any two members of said commission shall constitute a quorum to do business. The Architect of the Capitol shall submit annually to Congress estimates in detail for all services, other than the United States Capitol Police, and for all other expenses in connection with said office building and necessary for its protection, care, and occupancy; and said commission herein referred to shall from time to time prescribe rules and regulations to govern said architect in making all such employments, together with rules and regulations governing the use and occupancy of all rooms and space in said building.
 
-(Mar. 4, 1907, ch. 2918, 34 Stat. 1365; May 28, 1908, No. 30, 35 Stat. 578; Mar. 3, 1921, ch. 124, 41 Stat. 1291.)
+(Mar. 4, 1907, ch. 2918, 34 Stat. 1365; May 28, 1908, No. 30, 35 Stat. 578; Mar. 3, 1921, ch. 124, 41 Stat. 1291; Pub. L. 111–145, §6(c)(1), Mar. 4, 2010, 124 Stat. 54.)
 
 #### Codification
 
 Section was classified to section 175 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
 Section is based on act Mar. 4, 1907, popularly known as the “Sundry Civil Appropriation Act, fiscal year 1908” appropriating for the maintenance of such Building.
+
+#### Amendments
+
+2010—Pub. L. 111–145 substituted “other than the United States Capitol Police” for “other than officers and privates of the Capitol police” in two places.
 
 #### Change of Name
 
@@ -84,7 +88,7 @@ Separate Account in the Treasury.—
 
 &emsp;“(1)
 
-Establishment.—There is established in the Treasury of the United States a separate account which shall consist of amounts deposited into the account by the Architect of the Capitol under subsection (a).
+Establishment.—There is established in the Treasury of the United States a separate accountwhich shall consist of amounts deposited into the account by the Architect of the Capitol under subsection (a).
 
 &emsp;“(2)
 

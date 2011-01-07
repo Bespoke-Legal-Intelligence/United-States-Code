@@ -12,9 +12,9 @@ Navigational Aids Covered.—Subsection (a) applies with respect to a navigation
 
 #### Amendments
 
-2003—Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” wherever appearing.
+<b>2003</b>—Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” wherever appearing.
 
-1996—Pub. L. 104–201 renumbered section 2798 of this title as this section and substituted “National Imagery and Mapping Agency” for “Defense Mapping Agency” wherever appearing.
+<b>1996</b>—Pub. L. 104–201 renumbered section 2798 of this title as this section and substituted “National Imagery and Mapping Agency” for “Defense Mapping Agency” wherever appearing.
 
 #### Effective Date of 1996 Amendment
 

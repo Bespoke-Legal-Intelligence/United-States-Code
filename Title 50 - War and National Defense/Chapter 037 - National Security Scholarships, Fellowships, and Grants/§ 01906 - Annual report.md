@@ -16,7 +16,7 @@ Each such report shall contain—
 
 &emsp;(2) the effect on those trends of activities under the program required by this chapter;
 
-&emsp;(3) an analysis of the assistance provided under the program for the previous fiscal year,to include the subject areas being addressed and the nature of the assistance provided;
+&emsp;(3) an analysis of the assistance provided under the program for the previous fiscal year, to include the subject areas being addressed and the nature of the assistance provided;
 
 &emsp;(4) an analysis of the performance of the individuals who received assistance under the program during the previous fiscal year, to include the degree to which assistance was terminated under the program and the extent to which individual recipients failed to meet their obligations under the program;
 
@@ -44,11 +44,11 @@ During the preparation of each report required by subsection (a) of this section
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–306 designated first and second sentences as pars. (1) and (2), respectively, in par. (1), substituted “the congressional intelligence committees” for “the Congress”, in par. (2), inserted “submitted to the President” after “The report”, and added par. (3).
+<b>2002</b>—Subsec. (a). Pub. L. 107–306 designated first and second sentences as pars. (1) and (2), respectively, in par. (1), substituted “the congressional intelligence committees” for “the Congress”, in par. (2), inserted “submitted to the President” after “The report”, and added par. (3).
 
-1998—Subsec. (b)(1). Pub. L. 105–272 substituted “area, and counterproliferation” for “and area”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–272 substituted “area, and counterproliferation” for “and area”.
 
-1996—Subsec. (b)(5) to (7). Pub. L. 104–201 struck out “and” at end of par. (5), added par. (6), and redesignated former par. (6) as (7).
+<b>1996</b>—Subsec. (b)(5) to (7). Pub. L. 104–201 struck out “and” at end of par. (5), added par. (6), and redesignated former par. (6) as (7).
 
-1993—Subsec. (d). Pub. L. 103–178 added subsec. (d).
+<b>1993</b>—Subsec. (d). Pub. L. 103–178 added subsec. (d).
 

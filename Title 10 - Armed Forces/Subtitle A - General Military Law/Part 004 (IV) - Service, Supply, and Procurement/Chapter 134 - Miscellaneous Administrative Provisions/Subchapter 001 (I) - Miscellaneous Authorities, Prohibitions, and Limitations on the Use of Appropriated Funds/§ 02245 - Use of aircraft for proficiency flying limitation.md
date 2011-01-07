@@ -18,5 +18,5 @@ Provisions similar to those in this section were contained in Pub. L. 101–165,
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–181 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “In this section, the term ‘proficiency flying’ has the meaning given that term in Department of Defense Directive 1340.4.”
+<b>2008</b>—Subsec. (c). Pub. L. 110–181 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “In this section, the term ‘proficiency flying’ has the meaning given that term in Department of Defense Directive 1340.4.”
 

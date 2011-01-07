@@ -132,9 +132,9 @@ In this subchapter:
 
 #### Amendments
 
-2002—Par. (13). Pub. L. 107–110 substituted “section 7801” for “section 8801”.
+<b>2002</b>—Par. (13). Pub. L. 107–110 substituted “section 7801” for “section 8801”.
 
-1998—Pub. L. 105–277 made technical amendment to reference in original act which appears in text as reference to this subchapter.
+<b>1998</b>—Pub. L. 105–277 made technical amendment to reference in original act which appears in text as reference to this subchapter.
 
 Par. (11). Pub. L. 105–244 substituted “section 1001” for “section 1141”.
 

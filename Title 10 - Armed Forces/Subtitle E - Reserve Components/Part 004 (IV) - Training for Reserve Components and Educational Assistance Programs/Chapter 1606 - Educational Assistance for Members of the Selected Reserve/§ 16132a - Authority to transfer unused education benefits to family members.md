@@ -8,7 +8,7 @@ In General.—Subject to regulation prescribed by the Secretary of Defense, the 
 
 Eligible Members.—A member referred to in subsection (a) is a member of the Selected Reserve of the Ready Reserve who, at the time of the approval of the member's request to transfer entitlement to basic educational assistance under this section, has completed—
 
-&emsp;(1) at least six years of service in the Selected Reserve and enters into an agreement to service <sup>1</sup> at least four more years as a member of the armed forces; or
+&emsp;(1) at least six years of service in the Selected Reserve and enters into an agreement to serve at least four more years as a member of the armed forces; or
 
 &emsp;(2) the years of service as determined in regulations pursuant to subsection (j).
 
@@ -100,7 +100,7 @@ Additional Administrative Matters.—(1) The use of any entitlement to basic edu
 
 Overpayment.—(1) In the event of an overpayment of basic educational assistance with respect to a dependent to whom entitlement is transferred under this section, the dependent and the member making the transfer shall be jointly and severally liable to the United States for the amount of the overpayment for purposes of section 3685 of title 38.
 
-(2) Except as provided in paragraph (3), if a member's whose <sup>2</sup> eligibility is terminated under section 16134(2), the amount of any transferred entitlement under this section that is used by a dependent of the member as of the date of such termination shall be treated as an overpayment of basic educational assistance under paragraph (1).
+(2) Except as provided in paragraph (3), if a member's eligibility is terminated under section 16134(2), the amount of any transferred entitlement under this section that is used by a dependent of the member as of the date of such termination shall be treated as an overpayment of basic educational assistance under paragraph (1).
 
 (3) Paragraph (2) shall not apply in the case of a member who fails to complete service agreed to by the member—
 
@@ -120,9 +120,11 @@ Regulations.—The Secretary of Defense, in consultation with the Secretary of V
 
 &emsp;(4) the manner in which the provisions referred to in subsections (h)(4) and (5) shall be administered with respect to a dependent to whom entitlement is transferred under this section.
 
-(Added Pub. L. 110–252, title V, §5006(b), June 30, 2008, 122 Stat. 2381.)
+(Added Pub. L. 110–252, title V, §5006(b), June 30, 2008, 122 Stat. 2381; amended Pub. L. 111–383, div. A, title X, §1075(b)(55), Jan. 7, 2011, 124 Stat. 4372.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “serve”.</i>
+#### Amendments
 
-<i><sup>2</sup></i><i> So in original. The word “whose” probably should not appear.</i>
+<b>2011</b>—Subsec. (b)(1). Pub. L. 111–383, §1075(b)(55)(A), substituted “agreement to serve” for “agreement to service”.
+
+Subsec. (i)(2). Pub. L. 111–383, §1075(b)(55)(B), struck out “whose” after “member's”.
 

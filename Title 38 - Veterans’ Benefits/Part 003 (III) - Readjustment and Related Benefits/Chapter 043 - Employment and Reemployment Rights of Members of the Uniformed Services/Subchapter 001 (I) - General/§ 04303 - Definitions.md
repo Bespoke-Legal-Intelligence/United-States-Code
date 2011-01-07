@@ -4,7 +4,7 @@ For the purposes of this chapter—
 
 &emsp;(1) The term “Attorney General” means the Attorney General of the United States or any person designated by the Attorney General to carry out a responsibility of the Attorney General under this chapter.
 
-&emsp;(2) The term “benefit”, “benefit of employment”, or “rights and benefits” means any advantage, profit, privilege, gain, status, account, or interest (other than wages or salary for work performed) that accrues by reason of an employment contract or agreement or an employer policy, plan, or practice and includes rights and benefits under a pension plan, a health plan, an employee stock ownership plan, insurance coverage and awards, bonuses, severance pay, supplemental unemployment benefits, vacations, and the opportunity to select work hours or location of employment.
+&emsp;(2) The term “benefit”, “benefit of employment”, or “rights and benefits” means any advantage, profit, privilege, gain, status, account, or interest (including wages or salary for work performed) that accrues by reason of an employment contract or agreement or an employer policy, plan, or practice and includes rights and benefits under a pension plan, a health plan, an employee stock ownership plan, insurance coverage and awards, bonuses, severance pay, supplemental unemployment benefits, vacations, and the opportunity to select work hours or location of employment.
 
 &emsp;(3) The term “employee” means any person employed by an employer. Such term includes any person who is a citizen, national, or permanent resident alien of the United States employed in a workplace in a foreign country by an employer that is an entity incorporated or otherwise organized in the United States or that is controlled by an entity organized in the United States, within the meaning of section 4319(c) of this title.
 
@@ -20,9 +20,27 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(v) a person, institution, organization, or other entity that has denied initial employment in violation of section 4311.
 
-&emsp;(B) In the case of a National Guard technician employed under section 709 of title 32, the term “employer” means the adjutant generalof the State in which the technician is employed.
+&emsp;(B) In the case of a National Guard technician employed under section 709 of title 32, the term “employer” means the adjutant general of the State in which the technician is employed.
 
 &emsp;(C) Except as an actual employer of employees, an employee pension benefit plan described in section 3(2) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002(2)) shall be deemed to be an employer only with respect to the obligation to provide benefits described in section 4318.
+
+&emsp;(D)(i) Whether the term “successor in interest” applies with respect to an entity described in subparagraph (A) for purposes of clause (iv) of such subparagraph shall be determined on a case-by-case basis using a multi-factor test that considers the following factors:
+
+&emsp;&emsp;(I) Substantial continuity of business operations.
+
+&emsp;&emsp;(II) Use of the same or similar facilities.
+
+&emsp;&emsp;(III) Continuity of work force.
+
+&emsp;&emsp;(IV) Similarity of jobs and working conditions.
+
+&emsp;&emsp;(V) Similarity of supervisory personnel.
+
+&emsp;&emsp;(VI) Similarity of machinery, equipment, and production methods.
+
+&emsp;&emsp;(VII) Similarity of products or services.
+
+&emsp;(ii) The entity's lack of notice or awareness of a potential or pending claim under this chapter at the time of a merger, acquisition, or other form of succession shall not be considered when applying the multi-factor test under clause (i).
 
 &emsp;(5) The term “Federal executive agency” includes the United States Postal Service, the Postal Regulatory Commission, any nonappropriated fund instrumentality of the United States, any Executive agency (as that term is defined in section 105 of title 5) other than an agency referred to in section 2302(a)(2)(C)(ii) of title 5, and any military department (as that term is defined in section 102 of title 5) with respect to the civilian employees of that department.
 
@@ -40,7 +58,7 @@ For the purposes of this chapter—
 
 &emsp;(12) The term “seniority” means longevity in employment together with any benefits of employment which accrue with, or are determined by, longevity in employment.
 
-&emsp;(13) The term “service in the uniformed services” means the performance of duty on a voluntary or involuntary basis in a uniformed service under competent authority and includes active duty, active duty for training, initial active duty for training, inactive duty training, full-time National Guard duty, a period for which a person is absent from a position of employment for the purpose of an examination to determine the fitness of the person to perform any such duty, and a period for which a person is absent from employment for the purpose of performing funeral honors duty as authorized by section 12503 of title 10 or section 115 of title 32.
+&emsp;(13) The term “service in the uniformed services” means the performance of duty on a voluntary or involuntary basis in a uniformed service under competent authority and includes active duty, active duty for training, initial active duty for training, inactive dutytraining, full-time National Guard duty, a period for which a person is absent from a position of employment for the purpose of an examination to determine the fitness of the person to perform any such duty, and a period for which a person is absent from employment for the purpose of performing funeral honors duty as authorized by section 12503 of title 10 or section 115 of title 32.
 
 &emsp;(14) The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, and other territories of the United States (including the agencies and political subdivisions thereof).
 
@@ -56,7 +74,7 @@ For the purposes of this chapter—
 
 &emsp;(16) The term “uniformed services” means the Armed Forces, the Army National Guard and the Air National Guard when engaged in active duty for training, inactive duty training, or full-time National Guard duty, the commissioned corps of the Public Health Service, and any other category of persons designated by the President in time of war or national emergency.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3150; amended Pub. L. 104–275, title III, §311(2), Oct. 9, 1996, 110 Stat. 3334; Pub. L. 105–368, title II, §212(a), Nov. 11, 1998, 112 Stat. 3331; Pub. L. 106–419, title III, §323(a), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–14, §8(a)(11), (b)(2), June 5, 2001, 115 Stat. 35, 36; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3150; amended Pub. L. 104–275, title III, §311(2), Oct. 9, 1996, 110 Stat. 3334; Pub. L. 105–368, title II, §212(a), Nov. 11, 1998, 112 Stat. 3331; Pub. L. 106–419, title III, §323(a), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–14, §8(a)(11), (b)(2), June 5, 2001, 115 Stat. 35, 36; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 111–275, title VII, §§701(a), 702(a), Oct. 13, 2010, 124 Stat. 2887.)
 
 #### Prior Provisions
 
@@ -66,19 +84,37 @@ Another prior section 4303 was renumbered section 7603 of this title.
 
 #### Amendments
 
-2006—Par. (5). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+<b>2010</b>—Par. (2). Pub. L. 111–275, §701(a), substituted “including” for “other than”.
 
-2001—Par. (13). Pub. L. 107–14, §8(b)(2), made technical amendment to directory language of Pub. L. 106–419, §323(a)(1). See 2000 Amendment note below.
+Par. (4)(D). Pub. L. 111–275, §702(a), added subpar. (D).
+
+<b>2006</b>—Par. (5). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+
+<b>2001</b>—Par. (13). Pub. L. 107–14, §8(b)(2), made technical amendment to directory language of Pub. L. 106–419, §323(a)(1). See 2000 Amendment note below.
 
 Pub. L. 107–14, §8(a)(11), struck out second period at end.
 
-2000—Par. (13). Pub. L. 106–419, §323(a)(2), inserted before period at end “, and a period for which a person is absent from employment for the purpose of performing funeral honors duty as authorized by section 12503 of title 10 or section 115 of title 32.”
+<b>2000</b>—Par. (13). Pub. L. 106–419, §323(a)(2), inserted before period at end “, and a period for which a person is absent from employment for the purpose of performing funeral honors duty as authorized by section 12503 of title 10 or section 115 of title 32.”
 
 Pub. L. 106–419, §323(a)(1), as amended by Pub. L. 107–14, §8(b)(2), struck out “and” after “National Guard duty,”.
 
-1998—Par. (3). Pub. L. 105–368 inserted at end “Such term includes any person who is a citizen, national, or permanent resident alien of the United States employed in a workplace in a foreign country by an employer that is an entity incorporated or otherwise organized in the United States or that is controlled by an entity organized in the United States, within the meaning of section 4319(c) of this title.”
+<b>1998</b>—Par. (3). Pub. L. 105–368 inserted at end “Such term includes any person who is a citizen, national, or permanent resident alien of the United States employed in a workplace in a foreign country by an employer that is an entity incorporated or otherwise organized in the United States or that is controlled by an entity organized in the United States, within the meaning of section 4319(c) of this title.”
 
-1996—Par. (16). Pub. L. 104–275 inserted “national” before “emergency”.
+<b>1996</b>—Par. (16). Pub. L. 104–275 inserted “national” before “emergency”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–275, title VII, §701(b), Oct. 13, 2010, 124 Stat. 2887, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to—
+
+&emsp;“(1) any failure to comply with a provision of or any violation of chapter 43 of title 38, United States Code, that occurs before, on, or after the date of the enactment of this Act \[Oct. 13, 2010\]; and
+
+&emsp;“(2) all actions or complaints filed under such chapter 43 that are pending on or after the date of the enactment of this Act.”
+
+Pub. L. 111–275, title VII, §702(b), Oct. 13, 2010, 124 Stat. 2888, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to—
+
+&emsp;“(1) any failure to comply with a provision of or any violation of chapter 43 of title 38, United States Code, that occurs before, on, or after the date of the enactment of this Act \[Oct. 13, 2010\]; and
+
+&emsp;“(2) all actions or complaints filed under such chapter 43 that are pending on or after the date of the enactment of this Act.”
 
 #### Effective Date of 2001 Amendment
 
@@ -90,7 +126,7 @@ Pub. L. 106–419, title III, §323(c), Nov. 1, 2000, 114 Stat. 1856, provided t
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–368, title II, §212(c), Nov. 11, 1998, 112 Stat. 3331, provided that: “The amendments made by this section \[enacting section 4319 of this title and amending this section\] shall apply only with respect to causes of action arising after the date of the enactment of this Act \[Nov. 11, 1998\].”
+Pub. L. 105–368, title II, §212(c), Nov. 11, 1998, 112 Stat. 3331, provided that: “The amendments made by this section \[enacting section 4319 of this title and amending this section\] shall apply only with respect to causesof action arising after the date of the enactment of this Act \[Nov. 11, 1998\].”
 
 #### Effective Date of 1996 Amendment
 

@@ -12,7 +12,7 @@
 
 #### (3) Obligation of future appropriations
 
-&emsp;In any partnership agreement described in paragraph (1) and entered into by a State, or a body politic of the State which derives its powers from the State constitution, or a governmental entity created by the State legislature, the agreement may reflect that it does not obligate future appropriations for such performance and payment when obligating future appropriations would be inconsistent withconstitutional or statutory limitations of the State or a political subdivision of the State.
+&emsp;In any partnership agreement described in paragraph (1) and entered into by a State, or a body politic of the State which derives its powers from the State constitution, or a governmental entity created by the State legislature, the agreement may reflect that it does not obligate future appropriations for such performance and payment when obligating future appropriations would be inconsistent with constitutional or statutory limitations of the State or a political subdivision of the State.
 
 #### (4) Credit for in-kind contributions
 
@@ -104,7 +104,7 @@ Not later than 120 days after November 8, 2007, the Chief of Engineers shall—
 
 #### (h) Effective date
 
-This section shall not apply to any project the construction of which was commenced before January 1, 1972, or to the assurances for future demands required by the Water Supply Act of 1958, as amended \[43 U.S.C. 390b\].
+This section shall not apply to any project the construction of which was commenced beforeJanuary 1, 1972, or to the assurances for future demands required by the Water Supply Act of 1958, as amended \[43 U.S.C. 390b\].
 
 (Pub. L. 91–611, title II, §221, Dec. 31, 1970, 84 Stat. 1831; Pub. L. 92–222, §4, Dec. 23, 1971, 85 Stat. 799; Pub. L. 99–662, title IX, §912(a), Nov. 17, 1986, 100 Stat. 4189; Pub. L. 104–106, div. A, title X, §1064(d), Feb. 10, 1996, 110 Stat. 445; Pub. L. 104–303, title II, §220, Oct. 12, 1996, 110 Stat. 3696; Pub. L. 106–541, title II, §201, Dec. 11, 2000, 114 Stat. 2587; Pub. L. 110–114, title II, §2003(a)–(c), Nov. 8, 2007, 121 Stat. 1067, 1069.)
 
@@ -118,7 +118,7 @@ Section was enacted as part of the Flood Control Act of 1970, and not as part of
 
 #### Amendments
 
-2007—Pub. L. 110–114, §2003(a)(1), inserted section catchline.
+<b>2007</b>—Pub. L. 110–114, §2003(a)(1), inserted section catchline.
 
 Subsec. (a). Pub. L. 110–114, §2003(a)(2), added subsec. (a) and struck out former subsec. (a), which read as follows: “After December 31, 1970, the construction of any water resources project, or an acceptable separable element thereof, by the Secretary of the Army, acting through the Chief of Engineers, or by a non-Federal interest where such interest will be reimbursed for such construction under the provisions of section 1962d–5a of this title or under any other provision of law, shall not be commenced until each non-Federal interest has entered into a written agreement with the Secretary of the Army to furnish its required cooperation for the project or the appropriate element of the project, as the case may be; except that no such agreement shall be required if the Secretary determines that the administrative costs associated with negotiating, executing, or administering the agreement would exceed the amount of the contribution required from the non-Federal interest and are less than $25,000. In any such agreement entered into by a State, or a body politic of the State which derives its powers from the State constitution, or a governmental entity created by the State legislature, the agreement may reflect that it does not obligate future appropriations for such performance and payment when obligating future appropriations would be inconsistent with constitutional or statutory limitations of the State or a political subdivision of the State.”
 
@@ -126,15 +126,15 @@ Subsec. (b). Pub. L. 110–114, §2003(b), inserted heading and amended text gen
 
 Subsecs. (e) to (h). Pub. L. 110–114, §2003(c), added subsecs. (e) to (g) and redesignated former subsec. (e) as (h).
 
-2000—Subsec. (a). Pub. L. 106–541 in last sentence, struck out “State legislative” after “obligate future”, substituted “constitutional” for “State constitutional”, and inserted “of the State or a political subdivision of the State” before period at end.
+<b>2000</b>—Subsec. (a). Pub. L. 106–541 in last sentence, struck out “State legislative” after “obligate future”, substituted “constitutional” for “State constitutional”, and inserted “of the State or a political subdivision of the State” before period at end.
 
-1996—Subsec. (a). Pub. L. 104–303, in first sentence, inserted before period at end “; except that no such agreement shall be required if the Secretary determines that the administrative costs associated with negotiating, executing, or administering the agreement would exceed the amount of the contribution required from the non-Federal interest and are less than $25,000”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–303, in first sentence, inserted before period at end “; except that no such agreement shall be required if the Secretary determines that the administrative costs associated with negotiating, executing, or administering the agreement would exceed the amount of the contribution required from the non-Federal interest and are less than $25,000”.
 
 Subsecs. (e), (f). Pub. L. 104–106 redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: “The Secretary of the Army, acting through the Chief of Engineers, shall maintain a continuing inventory of agreements and the status of their performance, and shall report thereon annually to the Congress.”
 
-1986—Subsec. (a). Pub. L. 99–662 inserted “, or an acceptable separable element thereof,”, “or the appropriate element of the project, as the case may be”, and “In any such agreement entered into by a State, or a body politic of the State which derives its powers from the State constitution, or a governmental entity created by the State legislature, the agreement may reflect that it does not obligate future State legislative appropriations for such performance and payment when obligating future appropriations would be inconsistent with State constitutional or statutory limitations.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–662 inserted “, or an acceptable separable element thereof,”, “or the appropriate element of the project, as the case may be”, and “In any such agreement entered into by a State, or a body politic of the State which derives its powers from the State constitution, or a governmental entity created by the State legislature, the agreement may reflect that it does not obligate future State legislative appropriations for such performance and payment when obligating future appropriations would be inconsistent with State constitutional or statutory limitations.”
 
-1971—Subsec. (f). Pub. L. 92–222 made provisions of section inapplicable to the assurances for future demands required by the Water Supply Act of 1958, as amended.
+<b>1971</b>—Subsec. (f). Pub. L. 92–222 made provisions of section inapplicable to the assurances for future demands required by the Water Supply Act of 1958, as amended.
 
 #### Effective Date of 2007 Amendment
 

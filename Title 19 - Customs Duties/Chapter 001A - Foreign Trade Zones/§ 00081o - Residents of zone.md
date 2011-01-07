@@ -24,7 +24,7 @@ Tangible personal property imported from outside the United States and held in a
 
 #### Amendments
 
-1984—Subsec. (e). Pub. L. 98–573 added subsec. (e).
+<b>1984</b>—Subsec. (e). Pub. L. 98–573 added subsec. (e).
 
 #### Effective Date of 1984 Amendment
 

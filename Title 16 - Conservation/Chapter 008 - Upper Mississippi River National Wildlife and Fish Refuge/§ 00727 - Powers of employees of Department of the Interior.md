@@ -12,7 +12,7 @@ All birds, animals, fish, or parts thereof captured, injured, or killed, and all
 
 A report of the seizure shall be made to the United States attorney for the judicial district in which the seizure is made, for forfeiture either (1) upon conviction of the offender under section 730 of this title, or (2) by proceedings by libel in rem. Such libel proceedings shall conform as near as may be to civil suits in admiralty, except that either party may demand trial by jury upon any issue of fact when the value in controversy exceeds $20. In case of a jury trial the verdict of the jury shall have the same effect as the finding of the court upon the facts. Libel proceedings shall be at the suit and in the name of the United States. If such forfeiture proceedings are not instituted within a reasonable time, the United States attorney shall give notice thereof, and the custodian shall thereupon release the articles seized.
 
-(June 7, 1924, ch. 346, §8, 43 Stat. 651; 1939 Reorg. Plan No. II, §4(e), (f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+(June 7, 1924, ch. 346, §8, 43 Stat. 651; 1939 Reorg. Plan No. II, §4(e), (f), eff. July 1, 1939, 4 F.R. 2731,53 Stat. 1433; Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 #### Change of Name
 

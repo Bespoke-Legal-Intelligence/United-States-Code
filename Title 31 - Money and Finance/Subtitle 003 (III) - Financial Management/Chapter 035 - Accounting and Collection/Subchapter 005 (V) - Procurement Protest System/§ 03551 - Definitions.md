@@ -30,35 +30,35 @@ In this subchapter:
 
 #### Amendments
 
-2009—Par. (1)(E). Pub. L. 111–84, §327(a), added subpar. (E).
+<b>2009</b>—Par. (1)(E). Pub. L. 111–84, §327(a), added subpar. (E).
 
 Par. (2)(B)(i). Pub. L. 111–84, §327(b), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “any official who submitted the agency tender in such competition; and”.
 
-2008—Par. (2). Pub. L. 110–181 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘interested party’—
+<b>2008</b>—Par. (2). Pub. L. 110–181 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘interested party’—
 
 &emsp;“(A) with respect to a contract or a solicitation or other request for offers described in paragraph (1), means an actual or prospective bidder or offeror whose direct economic interest would be affected by the award of the contract or by failure to award the contract; and
 
-&emsp;“(B) with respect to a public-private competition conducted under Office of Management and BudgetCircular A–76 regarding performance of an activity or function of a Federal agency, or a decision to convert a function performed by Federal employees to private sector performance without a competition under OMB Circular A–76, includes—
+&emsp;“(B) with respect to a public-private competition conducted under Office of Management and Budget Circular A–76 regarding performance of an activity or function of a Federal agency, or a decision to convert a function performed by Federal employees to private sector performance without a competition under OMB Circular A–76, includes—
 
 &emsp;&emsp;“(i) any official who submitted the agency tender in such competition; and
 
 &emsp;&emsp;“(ii) any one person who, for the purpose of representing them in a protest under this subchapter that relates to such competition, has been designated as their agent by a majority of the employees of such Federal agency who are engaged in the performance of such activity or function.”
 
-2007—Par. (2). Pub. L. 110–161 amended par. (2) generally. Prior to amendment, par. (2) read as follows:
+<b>2007</b>—Par. (2). Pub. L. 110–161 amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
 “(2)(A) The term ‘interested party’, with respect to a contract or a solicitation or other request for offers described in paragraph (1), means an actual or prospective bidder or offeror whose direct economic interest would be affected by the award of the contract or by failure to award the contract.
 
 “(B) The term includes the official responsible for submitting the Federal agency tender in a public-private competition conducted under Office of Management and Budget Circular A–76 regarding an activity or function of a Federal agency performed by more than 65 full-time equivalent employees of the Federal agency.”
 
-2004—Par. (2). Pub. L. 108–375 designated existing provisions as subpar. (A) and added subpar. (B).
+<b>2004</b>—Par. (2). Pub. L. 108–375 designated existing provisions as subpar. (A) and added subpar. (B).
 
-2002—Par. (3). Pub. L. 107–217 substituted “section 102 of title 40” for “section 3 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472)”.
+<b>2002</b>—Par. (3). Pub. L. 107–217 substituted “section 102 of title 40” for “section 3 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472)”.
 
-1996—Pub. L. 104–106, §4321(d)(1)(A), substituted “subchapter:” for “subchapter—” in introductory provisions.
+<b>1996</b>—Pub. L. 104–106, §4321(d)(1)(A), substituted “subchapter:” for “subchapter—” in introductory provisions.
 
 Par. (2). Pub. L. 104–106, §4321(d)(1)(B), substituted “or a solicitation or other request for offers” for “or proposed contract”.
 
-1994—Par. (1). Pub. L. 103–355, §1401(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “ ‘protest’ means a written objection by an interested party to a solicitation by a Federal agency for bids or proposals for a proposed contract for the procurement of property or services or a written objection by an interested party to a proposed award or the award of such a contract;”.
+<b>1994</b>—Par. (1). Pub. L. 103–355, §1401(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “ ‘protest’ means a written objection by an interested party to a solicitation by a Federal agency for bids or proposals for a proposed contract for the procurement of property or services or a written objection by an interested party to a proposed award or the award of such a contract;”.
 
 Pub. L. 103–272 substituted “a Federal” for “an Federal”.
 
@@ -66,7 +66,7 @@ Par. (2). Pub. L. 103–355, §1401(b)(1), inserted “The term” after “(2)�
 
 Par. (3). Pub. L. 103–355, §1401(b)(2), inserted “The term” after “(3)”.
 
-1985—Par. (1). Pub. L. 99–145 substituted “Federal agency” for “executive agency”.
+<b>1985</b>—Par. (1). Pub. L. 99–145 substituted “Federal agency” for “executive agency”.
 
 #### Effective Date of 2009 Amendment
 
@@ -92,15 +92,15 @@ Pub. L. 108–375, div. A, title III, §326(d), Oct. 28, 2004, 118 Stat. 1848, p
 
 #### Effective Date of 1996 Amendment
 
-For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2302 of Title 10, Armed Forces.
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of Title 10, Armed Forces.
 
 #### Effective Date
 
-Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under section 251 of Title 41, Public Contracts.
+Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under section 2302 of Title 10, Armed Forces.
 
 #### Construction of 2004 Amendment
 

@@ -80,7 +80,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (D) Applicability to home schools
 
-&emsp;&emsp;Nothing in this section shall be construed to affect home schools, whether or not a home school is treated as a home school or a private school under State law, nor shall any home schooled student be required to participate in any assessment referenced or authorized under this section.
+&emsp;&emsp;Nothing in this section shall be construed to affect home schools, whether or not a home school is treated as a home school ora private school under State law, nor shall any home schooled student be required to participate in any assessment referenced or authorized under this section.
 
 #### (5) Requirement
 
@@ -232,7 +232,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 &emsp;&emsp;Such continuing review shall address—
 
-&emsp;&emsp;&emsp;(i) whether any authorized assessment is properly administered, produces high quality data that are valid and reliable, is consistent with relevant widely accepted professional assessment standards, and produces data on student achievement that are not otherwise available to the State\(other than data comparing participating States to each other and the Nation);
+&emsp;&emsp;&emsp;(i) whether any authorized assessment is properly administered, produces high quality data that are valid and reliable, is consistent with relevant widely accepted professional assessment standards, and produces data on student achievement that are not otherwise available to the State (other than data comparing participating States to each other and the Nation);
 
 &emsp;&emsp;&emsp;(ii) whether student achievement levels are reasonable, valid, reliable, and informative to the public;– <sup>2</sup>
 
@@ -272,7 +272,7 @@ A prior section 303 of Pub. L. 107–279 was renumbered section 305 and is class
 
 #### Amendments
 
-2002—Pub. L. 107–110 amended section generally, restating and expanding provisions and inserting headings.
+<b>2002</b>—Pub. L. 107–110 amended section generally, restating and expanding provisions and inserting headings.
 
 Subsec. (a). Pub. L. 107–279, §401(d)(3), substituted “section 9621” for “section 9011” and struck out “and with the technical assistance of the Advisory Council established under section 9006 of this title,” before “carry out”.
 

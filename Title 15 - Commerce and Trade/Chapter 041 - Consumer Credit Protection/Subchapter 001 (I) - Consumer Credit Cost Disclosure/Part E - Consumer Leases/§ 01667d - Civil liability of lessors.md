@@ -16,7 +16,7 @@ Notwithstanding section 1640(e) of this title, any action under this section may
 
 #### Amendments
 
-1980—Subsec. (b). Pub. L. 96–221 struck out applicability of section 1614 of this title to term “creditor”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–221 struck out applicability of section 1614 of this title to term “creditor”.
 
 #### Effective Date of 1980 Amendment
 

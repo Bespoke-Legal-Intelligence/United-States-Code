@@ -12,7 +12,7 @@ The Secretary shall review each regulation issued under this subchapter and part
 
 #### (b) Regulatory and statutory relief for small volume institutions
 
-The Secretary shall review and evaluate ways in which regulations under and provisions of this chapter affecting institution of higher education (other than institutions described in section 1002(a)(1)(C) of this title), that have received in each of the two most recent award years prior to October 7, 1998, less than $200,000 in funds through this subchapter and part C of subchapter I of chapter 34 of title 42, may be improved, streamlined, or eliminated.
+The Secretary shall review and evaluate ways in which regulations under and provisions of this chapter and part C of subchapter I of chapter 34 of title 42 affecting institution of higher education (other than institutions described in section 1002(a)(1)(C) of this title), that have received in each of the two most recent award years prior to October 7, 1998, less than $200,000 in funds through this subchapter and part C of subchapter I of chapter 34 of title 42, may be improved, streamlined, or eliminated.
 
 #### (c) Consultation
 
@@ -20,13 +20,9 @@ In carrying out subsections (a) and (b) of this section, the Secretary shall con
 
 (Pub. L. 89–329, title IV, §498B, as added Pub. L. 105–244, title IV, §495, Oct. 7, 1998, 112 Stat. 1764; amended Pub. L. 110–315, title IV, §498, Aug. 14, 2008, 122 Stat. 3328.)
 
-#### References in Text
-
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
-
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–315 struck out subsec. (d) which required the Secretary to submit reports to Congress.
+<b>2008</b>—Subsec. (d). Pub. L. 110–315 struck out subsec. (d) which required the Secretary to submit reports to Congress.
 
 #### Effective Date
 

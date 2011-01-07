@@ -48,7 +48,7 @@ Section 8013 of this title, referred to in par. (2)(H), was in the original “s
 
 #### Amendments
 
-2009—Par. (2)(H). Pub. L. 111–8 added subpar. (H).
+<b>2009</b>—Par. (2)(H). Pub. L. 111–8 added subpar. (H).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

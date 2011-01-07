@@ -128,5 +128,5 @@ In this section:
 
 #### References in Text
 
-Section 101(c) of the Food and Drug Administration Amendments Act of 2007, referred to in subsec. (a)(1), issection 101(c) of Pub. L. 110–85, which is set out as a note under section 379g of this title.
+Section 101(c) of the Food and Drug Administration Amendments Act of 2007, referred to in subsec. (a)(1), is section 101(c) of Pub. L. 110–85, which is set out as a note under section 379g of this title.
 

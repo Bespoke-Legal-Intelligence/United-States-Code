@@ -26,15 +26,15 @@ A prior section 5150 was renumbered section 5021 of this title.
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–314 substituted “for promotion to the grade of rear admiral, in the case of an officer in the Nurse Corps, or rear admiral (lower half), in the case of an officer in the Medical Service Corps” for “for promotion to the grade of rear admiral (lower half)” in first sentence.
+<b>2002</b>—Subsec. (c). Pub. L. 107–314 substituted “for promotion to the grade of rear admiral, in the case of an officer in the Nurse Corps, or rear admiral (lower half), in the case of an officer in the Medical Service Corps” for “for promotion to the grade of rear admiral (lower half)” in first sentence.
 
-1991—Subsec. (c). Pub. L. 102–190 substituted “section 526” for “section 5444”.
+<b>1991</b>—Subsec. (c). Pub. L. 102–190 substituted “section 526” for “section 5444”.
 
-1987—Subsec. (c). Pub. L. 100–26 made technical amendment to directory language of Pub. L. 99–661, §1343(a)(23). See 1986 Amendment note below.
+<b>1987</b>—Subsec. (c). Pub. L. 100–26 made technical amendment to directory language of Pub. L. 99–661, §1343(a)(23). See 1986 Amendment note below.
 
-1986—Subsec. (c). Pub. L. 99–661, as amended by Pub. L. 100–26, substituted “rear admiral (lower half)” for “commodore”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–661, as amended by Pub. L. 100–26, substituted “rear admiral (lower half)” for “commodore”.
 
-1981—Subsec. (c). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
+<b>1981</b>—Subsec. (c). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
 
 Pub. L. 97–22 substituted “Nurse Corps or in the Medical Service Corps (if such corps has been established under subsection (a)) for promotion to the grade of commodore admiral” for “Nurse Corps or Medical Service Corps for promotion to the grade of commodore admiral or rear admiral, as appropriate”, substituted “An officer promoted pursuant to such a selection shall be appointed by the Secretary to the position of Director of the Nurse Corps or Director of the Medical Service Corps, respectively, for a term of four years, to serve at the pleasure of the Secretary” for “An officer so selected shall be appointed by the President, by and with the advice and consent of the Senate, for a term of four years to serve in the position, respectively, of Director of the Nurse Corps or Director of the Medical Service Corps”, and inserted provision that for the purpose of computing the total number of flag officers in the staff corps of the Navy under section 5444 of this title, an officer so appointed shall be considered an additional number in grade.
 

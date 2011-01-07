@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the purpose described in subsection (b) of this section, the Secretary shall, for fiscal year 1998 and each subsequent fiscal year, allot to each State which has transmitted an application for the fiscal year under section 705(a) of this title an amount equal to the product of—
+For the purpose described in subsection (b) of this section, the Secretary shall, for each of fiscal years 2010 through 2014, allot to each State which has transmitted an application for the fiscal year under section 705(a) of this title an amount equal to the product of—
 
 &emsp;(1) the amount appropriated in subsection (d) of this section for the fiscal year; and
 
@@ -10,7 +10,7 @@ For the purpose described in subsection (b) of this section, the Secretary shall
 
 #### (b) Purpose of allotment
 
-(1) The purpose of an allotment under subsection (a) of this section to a State is to enablethe State to provide abstinence education, and at the option of the State, where appropriate, mentoring, counseling, and adult supervision to promote abstinence from sexual activity, with a focus on those groups which are most likely to bear children out-of-wedlock.
+(1) The purpose of an allotment under subsection (a) of this section to a State is to enable the State to provide abstinence education, and at the option of the State, where appropriate, mentoring, counseling, and adult supervision to promote abstinence from sexual activity, with a focus on those groups which are most likely to bear children out-of-wedlock.
 
 (2) For purposes of this section, the term “abstinence education” means an educational or motivational program which—
 
@@ -38,9 +38,9 @@ For the purpose described in subsection (b) of this section, the Secretary shall
 
 #### (d) Appropriations
 
-For the purpose of allotments under subsection (a) of this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, an additional $50,000,000 for each of the fiscal years 1998 through 2003. The appropriation under the preceding sentence for a fiscal year is made on October 1 of the fiscal year.
+For the purpose of allotments under subsection (a) of this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, an additional $50,000,000 for each of the fiscal years 2010 through 2014. The appropriation under the preceding sentence for a fiscal year is made on October 1 of the fiscal year (except that such appropriation shall be made on March 23, 2010, in the case of fiscal year 2010).
 
-(Aug. 14, 1935, ch. 531, title V, §510, as added Pub. L. 104–193, title IX, §912, Aug. 22, 1996, 110 Stat. 2353; amended Pub. L. 108–40, §6, June 30, 2003, 117 Stat. 837.)
+(Aug. 14, 1935, ch. 531, title V, §510, as added Pub. L. 104–193, title IX, §912, Aug. 22, 1996, 110 Stat. 2353; amended Pub. L. 108–40, §6, June 30, 2003, 117 Stat. 837; Pub. L. 111–148, title II, §2954, Mar. 23, 2010, 124 Stat. 352.)
 
 #### Prior Provisions
 
@@ -48,7 +48,11 @@ A prior section 710, act Aug. 14, 1935, ch. 531, title V, §510, as added Jan. 2
 
 #### Amendments
 
-2003—Subsec. (d). Pub. L. 108–40 substituted “2003” for “2002”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–148, §2954(1), substituted “each of fiscal years 2010 through 2014” for “fiscal year 1998 and each subsequent fiscal year”.
+
+Subsec. (d). Pub. L. 111–148, §2954(2), substituted “2010 through 2014” for “1998 through 2003” in first sentence and inserted “(except that such appropriation shall be made on March 23, 2010, in the case of fiscal year 2010)” before period at end of second sentence.
+
+<b>2003</b>—Subsec. (d). Pub. L. 108–40 substituted “2003” for “2002”.
 
 #### Effective Date of 2003 Amendment
 

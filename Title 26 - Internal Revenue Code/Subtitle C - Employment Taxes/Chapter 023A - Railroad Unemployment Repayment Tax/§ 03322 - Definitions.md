@@ -26,15 +26,15 @@ Section 8(a) of the Railroad Unemployment Insurance Act, referred to in subsec. 
 
 #### Amendments
 
-1988—Pub. L. 100–647 amended section generally, substituting present provisions for former provisions relating to taxable period, which had provided, in subsec. (a), for a general rule and, in subsec. (b), for earlier termination if loans to rail unemployment fund repaid.
+<b>1988</b>—Pub. L. 100–647 amended section generally, substituting present provisions for former provisions relating to taxable period, which had provided, in subsec. (a), for a general rule and, in subsec. (b), for earlier termination if loans to rail unemployment fund repaid.
 
-1986—Subsec. (a)(2), (3). Pub. L. 99–272, §13301(d)(1), struck out “and before 1990, and” after “1986” in par. (2) and struck out par. (3) relating to the period beginning on Jan. 1, 1990, and ending on Sept. 30, 1990.
+<b>1986</b>—Subsec. (a)(2), (3). Pub. L. 99–272, §13301(d)(1), struck out “and before 1990, and” after “1986” in par. (2) and struck out par. (3) relating to the period beginning on Jan. 1, 1990, and ending on Sept. 30, 1990.
 
 Subsec. (b). Pub. L. 99–272, §13301(d)(2), substituted “The basic rate under section 3321(c)(1)(A) of the tax imposed by section 3321 shall not apply” for “The tax imposed by this chapter shall not apply” in introductory provision, and inserted “made before October 1, 1985,” in par. (1).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 applicable to remuneration paid after Dec. 31, 1988, see section 7106(d) of Pub. L. 100–647, set out as a note under section 3321 of this title.
+Amendment by Pub. L. 100–647 applicable to remuneration paid after Dec. 31, 1988, see section 7106(d) ofPub. L. 100–647, set out as a note under section 3321 of this title.
 
 #### Exclusion From Wages and Compensation of Refunds Required From Employers To Compensate for Duplication of Medicare Benefits by Health Care Benefits Provided by Employers
 

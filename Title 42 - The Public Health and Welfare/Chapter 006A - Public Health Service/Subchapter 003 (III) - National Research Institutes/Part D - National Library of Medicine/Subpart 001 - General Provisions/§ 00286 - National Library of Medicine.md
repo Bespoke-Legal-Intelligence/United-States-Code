@@ -72,21 +72,21 @@ For purposes of this part, the terms “medicine” and “medical”, except wh
 
 #### Amendments
 
-1993—Pub. L. 103–43, §1401(c)(1), repealed amendment by Pub. L. 100–202. See 1987 Amendment note below.
+<b>1993</b>—Pub. L. 103–43, §1401(c)(1), repealed amendment by Pub. L. 100–202. See 1987 Amendment note below.
 
 Subsec. (b)(6) to (8). Pub. L. 103–43, §1401(a), added pars. (6) and (7) and redesignated former par. (6) as (8).
 
 Subsec. (f). Pub. L. 103–43, §2010(b)(3), substituted “Section 238” for “Section 300aaa”.
 
-1990—Subsec. (f). Pub. L. 101–381 made technical amendment to reference to section 300aaa of this title to reflect renumbering of corresponding section of original act.
+<b>1990</b>—Subsec. (f). Pub. L. 101–381 made technical amendment to reference to section 300aaa of this title to reflect renumbering of corresponding section of original act.
 
-1988—Subsec. (f). Pub. L. 100–690 made technical amendment to reference to section 300aaa of this title to reflect renumbering of corresponding section of original act.
+<b>1988</b>—Subsec. (f). Pub. L. 100–690 made technical amendment to reference to section 300aaa of this title to reflect renumbering of corresponding section of original act.
 
 Pub. L. 100–607 substituted “300aaa” for “300cc”.
 
-1987—Pub. L. 100–202, which directed the amendment of “Section 465(B) of 42 U.S.C. 286” by inserting “between (5) and (6) an additional charge to the Secretary to ‘publicize the availability of the above products and services of the National Library of Medicine’ ”, was repealed by Pub. L. 103–43, §1401(c)(1).
+<b>1987</b>—Pub. L. 100–202, which directed the amendment of “Section 465(B) of 42 U.S.C. 286” by inserting “between (5) and (6) an additional charge to the Secretary to ‘publicize the availability of the above products and services of the National Library of Medicine’ ”, was repealed by Pub. L. 103–43, §1401(c)(1).
 
-1986—Subsec. (f). Pub. L. 99–660 substituted “section 300cc of this title” for “section 300aa of this title”.
+<b>1986</b>—Subsec. (f). Pub. L. 99–660 substituted “section 300cc of this title” for “section 300aa of this title”.
 
 #### Effective Date of 1988 Amendment
 

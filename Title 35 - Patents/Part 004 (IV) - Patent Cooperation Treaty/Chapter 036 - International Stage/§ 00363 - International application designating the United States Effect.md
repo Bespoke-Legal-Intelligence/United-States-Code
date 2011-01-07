@@ -6,7 +6,7 @@ An international application designating the United States shall have the effect
 
 #### Amendments
 
-1984—Pub. L. 98–622 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1984</b>—Pub. L. 98–622 substituted “Patent and Trademark Office” for “Patent Office”.
 
 #### Effective Date of 1984 Amendment
 

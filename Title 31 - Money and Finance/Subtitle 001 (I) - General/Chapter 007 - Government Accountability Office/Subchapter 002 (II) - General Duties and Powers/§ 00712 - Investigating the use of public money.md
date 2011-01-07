@@ -56,6 +56,10 @@ In clause (4), the words “committee of Congress” are substituted for “comm
 
 In clause (5), the words “at the request of any such committee, direct assistants from his office” are omitted as surplus.
 
+#### Identification, Consolidation, and Elimination of Duplicative Government Programs
+
+Pub. L. 111–139, title II, §21, Feb. 12, 2010, 124 Stat. 29, provided that: “The Comptroller General of the Government Accountability Office shall conduct routine investigations to identify programs, agencies, offices, and initiatives with duplicative goals and activities within Departments and governmentwide and report annually to Congress on the findings, including the cost of such duplication and with recommendations for consolidation and elimination to reduce duplication identifying specific rescissions.”
+
 #### Report on Tobacco Settlement Agreement
 
 Pub. L. 107–171, title X, §10908, May 13, 2002, 116 Stat. 538, provided that: “Not later than December 31, 2002, and annually thereafter through 2006, the Comptroller General shall submit to Congress a report that describes all programs and activities that States have carried out using funds received under all phases of the Master Settlement Agreement of 1997.”

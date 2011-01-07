@@ -18,17 +18,17 @@ References to this subchapter deemed to include section 119 of H.R. 2076, see se
 
 #### Amendments
 
-1966—Subsec. (a). Pub. L. 89–554 repealed subsec. (a) which related to the composition, appointment, chairman, quorum, and acting members of the Commission.
+<b>1966</b>—Subsec. (a). Pub. L. 89–554 repealed subsec. (a) which related to the composition, appointment, chairman, quorum, and acting members of the Commission.
 
 Subsec. (b). Pub. L. 89–554 repealed subsec. (b) which provided for the principal office of the Commission, and for the appointment and compensation of personnel.
 
 Subsec. (d). Pub. L. 89–554 repealed subsec. (d) which related to a limitation on additional appointments to the Commission.
 
-1955—Act Aug. 9, 1955, §1, amended credit to section by designating act Mar. 10, 1950, as “title I”.
+<b>1955</b>—Act Aug. 9, 1955, §1, amended credit to section by designating act Mar. 10, 1950, as “title I”.
 
 Subsec. (c). Act Aug. 9, 1955, §2, substituted “subchapter” for “chapter”.
 
-1953—Act Aug. 8, 1953, added par. at end which was editorially designated as subsec. (d).
+<b>1953</b>—Act Aug. 8, 1953, added par. at end which was editorially designated as subsec. (d).
 
 #### Abolition of International Claims Commission
 

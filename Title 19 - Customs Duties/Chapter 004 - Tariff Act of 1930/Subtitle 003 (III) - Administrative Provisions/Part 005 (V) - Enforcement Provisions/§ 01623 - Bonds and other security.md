@@ -32,15 +32,15 @@ The Secretary of the Treasury is authorized to permit the deposit of money or ob
 
 #### Amendments
 
-1993—Subsec. (b)(1). Pub. L. 103–182, §647(1), inserted “and the manner in which the bond may be filed with or, pursuant to an authorized electronic data interchange system, transmitted to the Customs Service” after “form of such bond”.
+<b>1993</b>—Subsec. (b)(1). Pub. L. 103–182, §647(1), inserted “and the manner in which the bond may be filed with or, pursuant to an authorized electronic data interchange system, transmitted to the Customs Service” after “form of such bond”.
 
 Subsec. (d). Pub. L. 103–182, §647(2), inserted at end “Any bond transmitted to the Customs Service pursuant to an authorized electronic data interchange system shall have the same force and effect and be binding upon the parties thereto as if such bond were manually executed, signed, and filed.”
 
-1988—Subsec. (c). Pub. L. 100–418 provided for publication of guidelines establishing customs bond cancellation standards.
+<b>1988</b>—Subsec. (c). Pub. L. 100–418 provided for publication of guidelines establishing customs bond cancellation standards.
 
-1970—Subsec. (a). Pub. L. 91–271 substituted reference to customs officers for reference to collectors of customs.
+<b>1970</b>—Subsec. (a). Pub. L. 91–271 substituted reference to customs officers for reference to collectors of customs.
 
-1938—Act June 25, 1938, amended section generally, among other changes adding subsecs. (c) to (e).
+<b>1938</b>—Act June 25, 1938, amended section generally, among other changes adding subsecs. (c) to (e).
 
 #### Effective Date of 1970 Amendment
 

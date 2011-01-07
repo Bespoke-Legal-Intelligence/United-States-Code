@@ -14,7 +14,7 @@ The wine spirits authorized to be used in wine production shall be brandy or win
 
 #### (b) Withdrawal of wine spirits
 
-(1) The proprietor of any bonded wine cellar may withdraw and receive wine spirits without payment of tax from the bonded premises of any distilled spirits plant, or from any bonded wine cellar as provided in paragraph (2), for use in the production of natural wine, for addition to concentrated or unconcentrated juice for use in wine production, or for such other uses as may be authorized in this subchapter.
+(1) The proprietor of any bonded wine cellar may withdraw and receive wine spirits withoutpayment of tax from the bonded premises of any distilled spirits plant, or from any bonded wine cellar as provided in paragraph (2), for use in the production of natural wine, for addition to concentrated or unconcentrated juice for use in wine production, or for such other uses as may be authorized in this subchapter.
 
 (2) Wine spirits so withdrawn, and not used in wine production or as otherwise authorized in this subchapter, may, as provided by regulations prescribed by the Secretary, be transferred to the bonded premises of any distilled spirits plant or bonded wine cellar, or may be taxpaid and removed as provided by law.
 
@@ -34,9 +34,9 @@ A prior section 5373, act Aug. 16, 1954, ch. 736, 68A Stat. 667, consisted of pr
 
 #### Amendments
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1968—Subsec. (a). Pub. L. 90–619 inserted special natural wine, under conditions prescribed by regulations, as one of the materials from which wine spirits may be produced and extended to special natural wines the existing prohibition on the use of natural wine whose sugars have been refermented.
+<b>1968</b>—Subsec. (a). Pub. L. 90–619 inserted special natural wine, under conditions prescribed by regulations, as one of the materials from which wine spirits may be produced and extended to special natural wines the existing prohibition on the use of natural wine whose sugars have been refermented.
 
 #### Effective Date of 1968 Amendment
 

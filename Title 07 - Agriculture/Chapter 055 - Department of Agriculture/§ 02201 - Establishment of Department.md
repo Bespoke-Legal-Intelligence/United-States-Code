@@ -1,6 +1,6 @@
 ### §2201. Establishment of Department
 
-There shall be at the seat of government a Department of Agriculture, the general design and duties of which shall be to acquire and to diffuse among the people of the United States useful information on subjects connected with agriculture, rural development, aquaculture, and human nutrition, in the most general and comprehensive sense of those terms, and to procure, propagate, and distribute among the people new and valuable seeds and plants.
+There shall be at the seat of government a Department of Agriculture, the general design andduties of which shall be to acquire and to diffuse among the people of the United States useful information on subjects connected with agriculture, rural development, aquaculture, and human nutrition, in the most general and comprehensive sense of those terms, and to procure, propagate, and distribute among the people new and valuable seeds and plants.
 
 (R.S. §520; Pub. L. 92–419, title VI, §603(a), Aug. 30, 1972, 86 Stat. 675; Pub. L. 95–113, title XV, §1502(a), Sept. 29, 1977, 91 Stat. 1021.)
 
@@ -30,7 +30,7 @@ Pub. L. 96–355, §1, Sept. 24, 1980, 94 Stat. 1171, provided that: “This Act
 
 #### Short Title of 1956 Amendment
 
-Act Aug. 3, 1956, §1, provided that: “This Act \[enacting sections 428a, 1040, 2228, 2229 and 2333 of this title,and sections 579b and 590h–4 of Title 16, Conservation, and amending sections 1004, 1392, 1516, and 1766 of this title, sections 590k and 590n of Title 16, and sections 114a and 114c of Title 21, Food and Drugs\] may be cited as the ‘Department of Agriculture Organic Act of 1956’.”
+Act Aug. 3, 1956, §1, provided that: “This Act \[enacting sections 428a, 1040, 2228, 2229 and 2333 of this title, and sections 579b and 590h–4 of Title 16, Conservation, and amending sections 1004, 1392, 1516, and 1766 of this title, sections 590k and 590n of Title 16, and sections 114a and 114c of Title 21, Food and Drugs\] may be cited as the ‘Department of Agriculture Organic Act of 1956’.”
 
 #### Short Title
 
@@ -70,7 +70,7 @@ Pub. L. 86–509, June 11, 1960, 74 Stat. 205, which enacted provisions of Reorg
 
 “
 
-Sec. 2(a). In no case covered by subsections (a), (b), (e), (g), and (h) of section 1 hereof shall the exchange provide for the patenting of land by the United States without a reservation of minerals (1) unless the Secretary of Agriculture has obtained the advice of the Secretary of the Interior that the land is nonmineral in character, or (2) unless the Secretary of the Interior approves of the valuation and disposition of the minerals in the lands to be patented. A sale of land covered by subsection (j) of section 1 hereof shall be made by the Secretary of Agriculture without a reservation of minerals only after consultation with, and the approval of, the Secretary of the Interior as to the valuation and disposition of the minerals. No lands of the United States shall be exchanged in any case covered by subsection (f) of section 1 hereof unless the Secretary of Agriculture has obtained the advice of the Secretary of the Interior that such lands are nonmineral in character.
+Sec. 2(a). In no case covered by subsections (a), (b), (e), (g), and (h) of section 1 hereof shall the exchangeprovide for the patenting of land by the United States without a reservation of minerals (1) unless the Secretary of Agriculture has obtained the advice of the Secretary of the Interior that the land is nonmineral in character, or (2) unless the Secretary of the Interior approves of the valuation and disposition of the minerals in the lands to be patented. A sale of land covered by subsection (j) of section 1 hereof shall be made by the Secretary of Agriculture without a reservation of minerals only after consultation with, and the approval of, the Secretary of the Interior as to the valuation and disposition of the minerals. No lands of the United States shall be exchanged in any case covered by subsection (f) of section 1 hereof unless the Secretary of Agriculture has obtained the advice of the Secretary of the Interior that such lands are nonmineral in character.
 
 “(b) Nothing in this Act shall be construed to authorize the Secretary of Agriculture to determine or adjudicate the validity or invalidity of any mining claim or part thereof.
 
@@ -90,7 +90,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 I74Section 1. Transfer of Functions to the Secretary
 
-(a) Subject to the exceptions specified in subsection (b) of this section, there are hereby transferred to theSecretary of Agriculture all functions not now vested in him of all other officers, and of all agencies and employees, of the Department of Agriculture.
+(a) Subject to the exceptions specified in subsection (b) of this section, there are hereby transferred to the Secretary of Agriculture all functions not now vested in him of all other officers, and of all agencies and employees, of the Department of Agriculture.
 
 (b) This section shall not apply to the functions vested by the Administrative Procedure Act (5 U.S.C. 1001 et seq.) \[5 U.S.C. 551 et seq. and 701 et seq.\] in hearing examiners employed by the Department of Agriculture nor to the functions of (1) corporations of the Department of Agriculture, (2) the boards of directors and officers of such corporations, (3) the Advisory Board of the Commodity Credit Corporation, or (4) the Farm Credit Administration or any agency, officer, or entity of, under, or subject to the supervision of the said administration.
 

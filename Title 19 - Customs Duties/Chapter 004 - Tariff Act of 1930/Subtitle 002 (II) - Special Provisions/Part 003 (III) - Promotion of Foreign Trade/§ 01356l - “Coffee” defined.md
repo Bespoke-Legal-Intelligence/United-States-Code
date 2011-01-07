@@ -10,5 +10,5 @@ Section was enacted as part of the International Coffee Agreement Act of 1980, a
 
 #### Amendments
 
-1983—Pub. L. 98–120 substituted “, 1983” for “1976”.
+<b>1983</b>—Pub. L. 98–120 substituted “, 1983” for “1976”.
 

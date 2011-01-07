@@ -52,7 +52,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) the specific project for which the grant proposal is submitted, including the manner in which the grant will be used to develop, offer, or improve an educational or career training program that is suited to workers eligible for training under section 2296 of this title;
 
-&emsp;&emsp;&emsp;(ii) the extent to which the project for which the grant proposal is submitted willmeet the educational or career training needs of workers in the community served by the eligible institution who are eligible for training under section 2296 of this title;
+&emsp;&emsp;&emsp;(ii) the extent to which the project for which the grant proposal is submitted will meet the educational or career training needs of workers in the community served by the eligible institution who are eligible for training under section 2296 of this title;
 
 &emsp;&emsp;&emsp;(iii) the extent to which the project for which the grant proposal is submitted fits within any overall strategic plan developed by an eligible community under section 2371e of this title;
 
@@ -110,13 +110,13 @@ In this section:
 
 #### (e) Annual report
 
-Not later than December 15 in each of the calendar years 2009 through 2011, the Secretary shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report—
+Not later than December 15 in each of the calendar years 2009 through and annually thereafter,<sup>1</sup> the Secretary shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report—
 
 &emsp;(1) describing each grant awarded under this section during the preceding fiscal year; and
 
 &emsp;(2) assessing the impact of each award of a grant under this section in a fiscal year preceding the fiscal year referred to in paragraph (1) on workers receiving training under section 2296 of this title.
 
-(Pub. L. 93–618, title II, §278, as added Pub. L. 111–5, div. B, title I, §1872(a), Feb. 17, 2009, 123 Stat. 406.)
+(Pub. L. 93–618, title II, §278, as added Pub. L. 111–5, div. B, title I, §1872(a), Feb. 17, 2009, 123 Stat. 406; amended Pub. L. 111–344, title I, §101(c)(8), Dec. 29, 2010, 124 Stat. 3614.)
 
 #### Termination of Section
 
@@ -124,13 +124,23 @@ Not later than December 15 in each of the calendar years 2009 through 2011, the 
 
 #### Prior Provisions
 
-A prior section 2372, Pub. L. 93–618, title II, §272, Jan. 3, 1975, 88 Stat. 2036, related to Trade Impacted Area Councils for Adjustment Assistance and terminatedSept. 30, 1982, pursuant to section 285 of Pub. L. 93–618, set out as a Termination Date note preceding section 2271 of this title, prior to the general amendment of this part by Pub. L. 111–5.
+A prior section 2372, Pub. L. 93–618, title II, §272, Jan. 3, 1975, 88 Stat. 2036, related to Trade Impacted Area Councils for Adjustment Assistance and terminated Sept. 30, 1982, pursuant to section 285 of Pub. L. 93–618, set out as a Termination Date note preceding section 2271 of this title, prior to the general amendment of this part by Pub. L. 111–5.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (e). Pub. L. 111–344 substituted “and annually thereafter” for “2011” in introductory provisions.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–344 effective Jan. 1, 2011, see section 101(d) of Pub. L. 111–344, set out as a note preceding section 2271 of this title.
 
 #### Effective and Termination Dates
 
 Except as otherwise provided and subject to certain applicability provisions, section effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of this title.
 
-Except as otherwise provided, this section and the general amendment of this part not applicable on or after Jan. 1, 2011, and this part to be applied and administered beginning Jan. 1, 2011, as if this section and the general amendment of this part had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Except as otherwise provided, this section and the general amendment of this part not applicable on or after Feb. 13, 2011, and this part to be applied and administered beginning Feb. 13, 2011, as if this section and the general amendment of this part had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 
-Except as otherwise provided, technical assistance and grants may not be provided under this part after Dec. 31, 2010, see section 285 of Pub. L. 93–618, set out as a Termination Date note preceding section 2271 of this title.
+Except as otherwise provided, technical assistance and grants may not be provided under this section after Feb. 12, 2011, see section 285 of Pub. L. 93–618, set out as a Termination Date note preceding section 2271 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization and appropriation
 
-There are authorized to be appropriated, and there are appropriated, to carry out this section $66,000,000 for each of the fiscal years 2008 and2009. In addition to the amount authorized and appropriated under the preceding sentence, there are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+There are authorized to be appropriated, and there are appropriated, to carry out this section $150,000,000 for each of the fiscal years 2010 through 2014. The authority to award grants under this section shall expire at the end of fiscal year 2014. In addition to the amount authorized and appropriated under the preceding sentence, there are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
 #### (b) Program authorized
 
@@ -50,7 +50,7 @@ There are authorized to be appropriated, and there are appropriated, to carry ou
 
 #### (2) Minimum amount
 
-&emsp;The allotment for each State under this section for a fiscal year shall not be an amount that is less than 0.5 percent of the total amount appropriated under subsection (a) for such fiscal year.
+&emsp;The allotment for each State under this section for a fiscal year shall not be an amount that is less than 1.0 percent of the total amount appropriated under subsection (a) for such fiscal year.
 
 #### (d) Submission and contents of application
 
@@ -62,7 +62,7 @@ There are authorized to be appropriated, and there are appropriated, to carry ou
 
 &emsp;An application submitted under paragraph (1) shall include the following:
 
-&emsp;&emsp;(A) A description of the grantee's capacity to administer the grant under this section and report annually to the Secretary on the activities and services described in subsection (f).
+&emsp;&emsp;(A) A description of the grantee's capacity to administer the grant under this sectionand report annually to the Secretary on the activities and services described in subsection (f).
 
 &emsp;&emsp;(B) A description of the grantee's plan for using the grant funds to meet the requirements of subsections (f) and (g), including plans for how the grantee will make special efforts to—
 
@@ -160,7 +160,7 @@ A State receiving a payment under this section may elect to make a subgrant to o
 
 #### (2) Priority
 
-&emsp;A grantee receiving a grant payment under this section shall, in carrying out any activityor service described in subsection (f)(1) with the grant funds, prioritize students and families who are living below the poverty line applicable to the individual's family size (as determined under section 9902(2) of title 42).
+&emsp;A grantee receiving a grant payment under this section shall, in carrying out any activity or service described in subsection (f)(1) with the grant funds, prioritize students and families who are living below the poverty line applicable to the individual's family size (as determined under section 9902(2) of title 42).
 
 #### (3) Disclosures
 
@@ -244,7 +244,7 @@ In this section:
 
 &emsp;&emsp;(B) with respect to such a State that has failed to meet the non-Federal share requirement of subsection (b), a philanthropic organization awarded the proportionate reduction amount of such a grant under subsection (b)(3).
 
-(Pub. L. 89–329, title VII, §781, formerly §771, as added Pub. L. 110–84, title VIII, §801, Sept. 27, 2007, 121 Stat. 812; renumbered §781 and amended Pub. L. 110–315, title VII, §§709(1), 710, Aug. 14, 2008, 122 Stat. 3361, 3377; Pub. L. 111–39, title VII, §701(6), July 1, 2009, 123 Stat. 1955.)
+(Pub. L. 89–329, title VII, §781, formerly §771, as added Pub. L. 110–84, title VIII, §801, Sept. 27, 2007, 121 Stat. 812; renumbered §781 and amended Pub. L. 110–315, title VII, §§709(1), 710, Aug. 14, 2008, 122 Stat. 3361, 3377; Pub. L. 111–39, title VII, §701(6), July 1, 2009, 123 Stat. 1955; Pub. L. 111–152, title II, §2102, Mar. 30, 2010, 124 Stat. 1073.)
 
 #### References in Text
 
@@ -290,7 +290,7 @@ Another prior section 1145a, Pub. L. 89–329, title XII, §1206, as added Pub. 
 
 Section 1145b, Pub. L. 89–329, title XII, §1207, as added Pub. L. 99–498, title XII, §1204, Oct. 17, 1986, 100 Stat. 1576, related to student representation in connection with administration of this chapter.
 
-Another prior section 1145b, Pub. L. 89–329, title XII, §1202, formerly §1207, as added Pub. L. 94–482, title I, §182, Oct. 12, 1976, 90 Stat. 2167; renumbered title XII, §1202, Pub. L. 96–374, title XII, §1201, Oct. 3, 1980, 94 Stat. 1493, which related to antidiscrimination requirements for institutions of higher education receiving Federal assistance, was transferred to section 1142 of this title and subsequently repealed by Pub. L. 105–244.
+Another prior section 1145b, Pub. L. 89–329, title XII, §1202, formerly §1207, as added Pub. L. 94–482, title I,§182, Oct. 12, 1976, 90 Stat. 2167; renumbered title XII, §1202, Pub. L. 96–374, title XII, §1201, Oct. 3, 1980, 94 Stat. 1493, which related to antidiscrimination requirements for institutions of higher education receiving Federal assistance, was transferred to section 1142 of this title and subsequently repealed by Pub. L. 105–244.
 
 Section 1145c, Pub. L. 89–329, title XII, §1208, as added Pub. L. 99–498, title XII, §1205, Oct. 17, 1986, 100 Stat. 1577, related to financial responsibility of foreign students.
 
@@ -298,7 +298,7 @@ Another prior section 1145c, Pub. L. 89–329, title XII, §1208, as added Pub. 
 
 Section 1145d, Pub. L. 89–329, title XII, §1209, as added Pub. L. 102–325, title XII, §1204, July 23, 1992, 106 Stat. 794; amended Pub. L. 103–208, §2(j)(54), Dec. 20, 1993, 107 Stat. 2485, related to disclosures of foreign gifts.
 
-Another prior section 1145d, Pub. L. 89–329, title XII, §1209, as added Pub. L. 99–498, title XII, §1206(a), Oct. 17,1986, 100 Stat. 1577, related to disclosures of foreign gifts, prior to repeal by Pub. L. 99–498, title XII, §1206(b), Oct. 17, 1986, 100 Stat. 1579, as amended by Pub. L. 100–50, §22(f), June 3, 1987, 101 Stat. 362, effective Aug. 1, 1989.
+Another prior section 1145d, Pub. L. 89–329, title XII, §1209, as added Pub. L. 99–498, title XII, §1206(a), Oct. 17, 1986, 100 Stat. 1577, related to disclosures of foreign gifts, prior to repeal by Pub. L. 99–498, title XII, §1206(b), Oct. 17, 1986, 100 Stat. 1579, as amended by Pub. L. 100–50, §22(f), June 3, 1987, 101 Stat. 362, effective Aug. 1, 1989.
 
 Section 1145d–1, Pub. L. 89–329, title XII, §1210, as added Pub. L. 100–50, §21(b), June 3, 1987, 101 Stat. 360, related to application of peer review process.
 
@@ -320,7 +320,11 @@ Prior sections 1147 to 1150, Pub. L. 89–329, title XII, §§1207–1210, as ad
 
 #### Amendments
 
-2009—Subsec. (c)(1). Pub. L. 111–39, §701(6)(A), made technical amendment to reference in original act which appears in two places in text as reference to section 9902(2) of title 42.
+<b>2010</b>—Subsec. (a). Pub. L. 111–152, §2102(1), substituted “$150,000,000 for each of the fiscal years 2010 through 2014. The authority to award grants under this section shall expire at the end of fiscal year 2014.” for “$66,000,000 for each of the fiscal years 2008 and 2009.”
+
+Subsec. (c)(2). Pub. L. 111–152, §2102(2), substituted “1.0 percent” for “0.5 percent”.
+
+<b>2009</b>—Subsec. (c)(1). Pub. L. 111–39, §701(6)(A), made technical amendment to reference in original act which appears in two places in text as reference to section 9902(2) of title 42.
 
 Subsec. (e). Pub. L. 111–39, §701(6)(B), substituted “(as described in section 1085(p) of this title)” for “(as defined in section 1085(p) of this title, as amended by section 303 of this Act)” and “1078(b)” for “1085(j)” in introductory provisions.
 
@@ -328,7 +332,7 @@ Subsec. (g)(2). Pub. L. 111–39, §701(6)(C), made technical amendment to refer
 
 Subsec. (i). Pub. L. 111–39, §701(6)(D), substituted “consortium” for “consortia” in par. (1)(D) and in par. (2) in heading and wherever appearing in text.
 
-2008—Subsec. (a). Pub. L. 110–315, §710(1), substituted “In addition to the amount authorized and appropriated under the preceding sentence, there are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.” for “The authority to award grants under this section shall expire at the end of fiscal year 2009.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §710(1), substituted “In addition to the amount authorized and appropriated under the preceding sentence, there are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.” for “The authority to award grants under this section shall expire at the end of fiscal year 2009.”
 
 Subsec. (b)(1). Pub. L. 110–315, §710(2), inserted “, subject to the availability of appropriations,” after “the Secretary shall”.
 
@@ -341,4 +345,6 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 #### Effective Date
 
 Section effective Oct. 1, 2007, see section 1(c) of Pub. L. 110–84, set out as an Effective Date of 2007 Amendment note under section 1070a of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “organizations,”.</i>
 

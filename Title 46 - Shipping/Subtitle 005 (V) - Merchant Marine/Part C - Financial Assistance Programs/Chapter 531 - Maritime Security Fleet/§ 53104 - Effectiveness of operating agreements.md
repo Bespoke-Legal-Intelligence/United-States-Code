@@ -2,7 +2,7 @@
 
 (a)
 
-Effectiveness, Generally.—The Secretary may enter into an operating agreement under this chapter for fiscal year 2006. Except as provided in subsection (b), the agreement shall be effective only for 1 fiscal year, but shall be renewable, subject to the availability of appropriations, for each subsequent fiscal year through the end of fiscal year 2015.
+Effectiveness, Generally.—The Secretary may enter into an operating agreement under this chapter for fiscal year 2006. Except as provided in subsection (b), the agreement shall be effective only for 1 fiscal year, but shall be renewable, subject to the availability of appropriations, for each subsequent fiscal year through the end of fiscal year 2025.
 
 (b)
 
@@ -24,7 +24,7 @@ Termination by secretary.—If the contractor with respect to an operating agree
 
 &emsp;(2)
 
-Early termination by contractor, generally.—An operating agreement under this chapter shall terminate on a date specified by the contractor if the contractor notifies the Secretary, by not later than 60 days before the effective date of the termination, that the contractor intends to terminate the agreement.
+Early termination by contractor, generally.—An operating agreement under this chapter shall terminate on a date specified by the contractor if the contractor notifies the Secretary, by not later than 60 days before the effective date of the termination, that thecontractor intends to terminate the agreement.
 
 &emsp;(3)
 
@@ -56,11 +56,13 @@ Release of Vessels From Obligations.—If an operating agreement under this chap
 
 &emsp;(3) if chapter 563 of this title is applicable to such vessel after registration of the vessel under such a registry, then the vessel is available to be requisitioned by the Secretary of Transportation pursuant to chapter 563.
 
-(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1810; amended Pub. L. 109–304, §13(a)(3), Oct. 6, 2006, 120 Stat. 1701.)
+(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1810; amended Pub. L. 109–304, §13(a)(3), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 111–383, div. C, title XXXV, §3502(1), Jan. 7, 2011, 124 Stat. 4518.)
 
 #### Amendments
 
-2006—Subsec. (c)(3)(B)(ii). Pub. L. 109–304, §13(a)(3)(A), substituted “section 50501 of this title” for “section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)” in subcls. (I) and (II).
+<b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted “2025” for “2015”.
+
+<b>2006</b>—Subsec. (c)(3)(B)(ii). Pub. L. 109–304, §13(a)(3)(A), substituted “section 50501 of this title” for “section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)” in subcls. (I) and (II).
 
 Subsec. (e)(2). Pub. L. 109–304, §13(a)(3)(B), substituted “section 56101 of this title” for “section 9 of the Shipping Act, 1916 (46 U.S.C. App. 808)”.
 

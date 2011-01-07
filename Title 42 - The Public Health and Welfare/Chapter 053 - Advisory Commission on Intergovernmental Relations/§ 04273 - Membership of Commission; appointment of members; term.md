@@ -30,11 +30,11 @@ The term of office of each member of the Commission shall be two years; members 
 
 #### Codification
 
-Section was formerly classified to section 2373 of Title 5 prior to the general revision and enactment ofTitle 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 2373 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
 
-1966—Subsec. (a)(6). Pub. L. 89–733, §1, substituted “National League of Cities” for “American Municipal Association”.
+<b>1966</b>—Subsec. (a)(6). Pub. L. 89–733, §1, substituted “National League of Cities” for “American Municipal Association”.
 
 Subsec. (a)(7). Pub. L. 89–733, §1, substituted “National Association of Counties” for “National Association of County Officials”.
 

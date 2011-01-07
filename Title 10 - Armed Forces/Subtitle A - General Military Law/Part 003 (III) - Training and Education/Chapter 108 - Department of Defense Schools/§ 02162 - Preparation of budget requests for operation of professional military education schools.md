@@ -40,11 +40,11 @@ Professional Military Education Schools.—This section applies to each of the f
 
 #### Amendments
 
-2002—Subsec. (b)(2). Pub. L. 107–314 substituted “December 28, 2001,” for “the date of the enactment of this paragraph”.
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–314 substituted “December 28, 2001,” for “the date of the enactment of this paragraph”.
 
-2001—Subsec. (b)(2), (3). Pub. L. 107–107 added par. (2) and redesignated former par. (2) as (3).
+<b>2001</b>—Subsec. (b)(2), (3). Pub. L. 107–107 added par. (2) and redesignated former par. (2) as (3).
 
-1997—Subsec. (d). Pub. L. 105–85 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
+<b>1997</b>—Subsec. (d). Pub. L. 105–85 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
 “(d)
 

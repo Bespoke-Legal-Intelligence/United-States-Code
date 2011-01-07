@@ -56,7 +56,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(II) such information as can be provided by the individual and, where appropriate, by the family of the individual;
 
-&emsp;&emsp;&emsp;(iii) may include, to the degree needed to make such a determination, an assessment of the personality, interests, interpersonal skills, intelligence and related functional capacities, educational achievements, work experience, vocational aptitudes,personal and social adjustments, and employment opportunities of the individual, and the medical, psychiatric, psychological, and other pertinent vocational, educational, cultural, social, recreational, and environmental factors, that affect the employment and rehabilitation needs of the individual; and
+&emsp;&emsp;&emsp;(iii) may include, to the degree needed to make such a determination, an assessment of the personality, interests, interpersonal skills, intelligence and related functional capacities, educational achievements, work experience, vocational aptitudes, personal and social adjustments, and employment opportunities of the individual, and the medical, psychiatric, psychological, and other pertinent vocational, educational, cultural, social, recreational, and environmental factors, that affect the employment and rehabilitation needs of the individual; and
 
 &emsp;&emsp;&emsp;(iv) may include, to the degree needed, an appraisal of the patterns of work behavior of the individual and services needed for the individual to acquire occupational skills, and to develop work attitudes, work habits, work tolerance, and social and behavior patterns necessary for successful job performance, including the utilization of work in real job situations to assess and develop the capacities of the individual to perform adequately in a work environment;
 
@@ -158,7 +158,7 @@ For the purposes of this chapter:
 
 #### (A) Drug
 
-&emsp;&emsp;The term “drug” means a controlled substance, as defined in schedules I through Vof section 202 of the Controlled Substances Act (21 U.S.C. 812).
+&emsp;&emsp;The term “drug” means a controlled substance, as defined in schedules I through V of section 202 of the Controlled Substances Act (21 U.S.C. 812).
 
 #### (B) Illegal use of drugs
 
@@ -328,7 +328,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(III) is erroneously regarded as engaging in such use, but is not engaging in such use;
 
-&emsp;&emsp;&nbsp;except that it shall not be a violation of this chapter for a covered entity to adopt or administer reasonable policies or procedures, including but not limited to drugtesting, designed to ensure that an individual described in subclause (I) or (II) is no longer engaging in the illegal use of drugs.
+&emsp;&emsp;&nbsp;except that it shall not be a violation of this chapter for a covered entity to adopt or administer reasonable policies or procedures, including but not limited to drug testing, designed to ensure that an individual described in subclause (I) or (II) is no longer engaging in the illegal use of drugs.
 
 #### (iii) Exclusion for certain services
 
@@ -378,11 +378,11 @@ For the purposes of this chapter:
 
 &emsp;&emsp;&emsp;(ii) whose vocational rehabilitation can be expected to require multiple vocational rehabilitation services over an extended period of time; and
 
-&emsp;&emsp;&emsp;(iii) who has one or more physical or mental disabilities resulting from amputation, arthritis, autism, blindness, burn injury, cancer, cerebral palsy, cystic fibrosis, deafness, head injury, heart disease, hemiplegia, hemophilia, respiratory or pulmonary dysfunction, mental retardation, mental illness, multiple sclerosis, muscular dystrophy, musculo-skeletal disorders, neurological disorders (including stroke and epilepsy), paraplegia, quadriplegia, and other spinal cord conditions, sickle cell anemia, specific learning disability, end-stage renal disease, or another disability or combination of disabilities determined on the basis of an assessment for determining eligibility and vocational rehabilitation needs described in subparagraphs (A) and (B) of paragraph (2) to cause comparable substantial functional limitation.
+&emsp;&emsp;&emsp;(iii) who has one or more physical or mental disabilities resulting from amputation, arthritis, autism, blindness, burn injury, cancer, cerebral palsy, cystic fibrosis, deafness, head injury, heart disease, hemiplegia, hemophilia, respiratory or pulmonary dysfunction, intellectual disability, mental illness, multiple sclerosis, muscular dystrophy, musculo-skeletal disorders, neurological disorders (including stroke and epilepsy), paraplegia, quadriplegia, and other spinal cord conditions, sickle cell anemia, specific learning disability, end-stage renal disease, or another disability or combination of disabilities determined on the basis of an assessment for determining eligibility and vocational rehabilitation needs described in subparagraphs (A) and (B) of paragraph (2) to cause comparable substantial functional limitation.
 
 #### (B) Independent living services and centers for independent living
 
-&emsp;&emsp;For purposes of subchapter VII of this chapter, the term “individual with a significant disability” means an individual with a severe physical or mental impairment whose ability to function independently in the family or community or whose ability to obtain, maintain, or advance in employment is substantially limited and for whom the deliveryof independent living services will improve the ability to function, continue functioning, or move toward functioning independently in the family or community or to continue in employment, respectively.
+&emsp;&emsp;For purposes of subchapter VII of this chapter, the term “individual with a significant disability” means an individual with a severe physical or mental impairment whose ability to function independently in the family or community or whose ability to obtain, maintain, or advance in employment is substantially limited and for whom the delivery of independent living services will improve the ability to function, continue functioning, or move toward functioning independently in the family or community or to continue in employment, respectively.
 
 #### (C) Research and training
 
@@ -520,7 +520,7 @@ For the purposes of this chapter:
 
 &emsp;The term “workforce investment activities” means workforce investment activities, as defined in section 101 of the Workforce Investment Act of 1998 \[29 U.S.C. 2801\], that are carried out under that Act.
 
-(Pub. L. 93–112, §7, formerly §6, as added Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1097; amended Pub. L. 105–244, title I, §102(a)(9)(A), Oct. 7, 1998, 112 Stat. 1619; renumbered §7 and amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(a)(1), (b)(3), (c)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–413, 2681–415; Pub. L. 105–394, title IV, §402(a), Nov. 13, 1998, 112 Stat. 3661; Pub. L. 110–325, §7, Sept. 25, 2008, 122 Stat. 3558.)
+(Pub. L. 93–112, §7, formerly §6, as added Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1097; amended Pub. L. 105–244, title I, §102(a)(9)(A), Oct. 7, 1998, 112 Stat. 1619; renumbered §7 and amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(a)(1), (b)(3), (c)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–413, 2681–415; Pub. L. 105–394, title IV, §402(a), Nov. 13, 1998, 112 Stat. 3661; Pub. L. 110–325, §7, Sept. 25, 2008, 122 Stat. 3558; Pub. L. 111–256, §2(d)(1), Oct. 5, 2010, 124 Stat. 2643.)
 
 #### References in Text
 
@@ -542,7 +542,9 @@ Another prior section 7 of Pub. L. 93–112 was classified to section 706 of thi
 
 #### Amendments
 
-2008—Par. (9)(B). Pub. L. 110–325, §7(1), substituted “the meaning given it in section 12102 of title 42” for “a physical or mental impairment that substantially limits one or more major life activities”.
+<b>2010</b>—Par. (21)(A)(iii). Pub. L. 111–256 substituted “intellectual disability,” for “mental retardation,”.
+
+<b>2008</b>—Par. (9)(B). Pub. L. 110–325, §7(1), substituted “the meaning given it in section 12102 of title 42” for “a physical or mental impairment that substantially limits one or more major life activities”.
 
 Par. (20)(B). Pub. L. 110–325, §7(2), substituted “any person who has a disability as defined in section 12102 of title 42.” for “any person who—
 
@@ -552,7 +554,7 @@ Par. (20)(B). Pub. L. 110–325, §7(2), substituted “any person who has a dis
 
 &emsp;“(iii) is regarded as having such an impairment.”
 
-1998—Pub. L. 105–277, §101(f) \[title VIII, §402(b)(3)\], made technical amendment to section designation and catchline in the original and inserted par. (1) heading.
+<b>1998</b>—Pub. L. 105–277, §101(f) \[title VIII, §402(b)(3)\], made technical amendment to section designation and catchline in the original and inserted par. (1) heading.
 
 Par. (2)(B). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(1)(A)\], substituted “nature” for “objectives, nature,”.
 
@@ -575,4 +577,8 @@ Pub. L. 110–325, §8, Sept. 25, 2008, 122 Stat. 3559, provided that: “This A
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
+
+#### Definitions
+
+For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under section 1400 of Title 20, Education.
 

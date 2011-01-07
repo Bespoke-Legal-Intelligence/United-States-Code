@@ -30,7 +30,7 @@ The Commissioner of Customs shall—
 
 &emsp;(1) devise and implement a methodology for estimating the level of compliance with the laws administered by the Customs Service; and
 
-&emsp;(2) include as an additional part of the report required to be submitted under subsection (a) of this section for each of fiscal years 1994, 1995, and 1996, an evaluation of theextent to which such compliance was obtained during the 12-month period preceding the 60th day before each such fiscal year.
+&emsp;(2) include as an additional part of the report required to be submitted under subsection (a) of this section for each of fiscal years 1994, 1995, and 1996, an evaluation of the extent to which such compliance was obtained during the 12-month period preceding the 60th day before each such fiscal year.
 
 #### (e) Confidentiality
 
@@ -46,7 +46,7 @@ The contents of any report submitted to the Committees under subsection (a) or (
 
 #### Amendments
 
-1993—Subsecs. (d), (e). Pub. L. 103–182 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1993</b>—Subsecs. (d), (e). Pub. L. 103–182 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 #### Transfer of Functions
 

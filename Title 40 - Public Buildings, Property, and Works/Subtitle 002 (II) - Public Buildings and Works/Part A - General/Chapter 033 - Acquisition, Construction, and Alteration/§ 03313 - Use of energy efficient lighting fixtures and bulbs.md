@@ -42,7 +42,7 @@ Guidelines.—The Administrator shall develop guidelines for the use of energy e
 
 (g)
 
-Applicability of Buy American Act.—Acquisitions carried out pursuant to this section shall be subject to the requirements of the Buy American Act (41 U.S.C. 10c <sup>1</sup> et seq.).
+Applicability of Buy American Act.—Acquisitions carried out pursuant to this section shall be subject to the requirements of the Buy American Act <sup>1</sup> (41 U.S.C. 10c et seq.).
 
 (h)
 
@@ -52,7 +52,7 @@ Effective Date.—The requirements of subsections (a) and (b) shall take effect 
 
 #### References in Text
 
-The Buy American Act, referred to in subsec. (g), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, which is classified generally to sections 10a, 10b, and 10c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
+The Buy American Act, referred to in subsec. (g), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, which was classified generally to sections 10a, 10b, and 10c of former Title 41, Public Contracts, and was substantially repealed and restated in chapter 83 (§8301 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Short Title of 1933 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 The date of enactment of this subsection, referred to in subsec. (h), is the date of enactment of Pub. L. 110–140, which was approved Dec. 19, 2007.
 
@@ -64,5 +64,5 @@ A prior section 3313 was renumbered section 3314 of this title.
 
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 
-<i><sup>1</sup></i><i> So in original. See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

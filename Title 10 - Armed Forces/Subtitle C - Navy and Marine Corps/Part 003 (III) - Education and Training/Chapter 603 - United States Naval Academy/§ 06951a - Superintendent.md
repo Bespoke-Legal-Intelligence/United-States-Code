@@ -4,13 +4,13 @@
 
 (b) The Superintendent shall be detailed to that position by the President. As a condition for detail to that position, an officer shall acknowledge that upon termination of that detail the officer shall be retired pursuant to section 6371(a) of this title, unless such retirement is waived under section 6371(b) of this title.
 
-(c) An officer who is detailed to the position of Superintendent shall be so detailed for a period of not less than three years. In any case in which an officer serving as Superintendent is reassigned or retires before having completed three years service as Superintendent, or otherwise leaves that position (other than due to death) without having completed three years service in that position, the Secretary of theNavy shall submit to Congress notice that such officer left the position of Superintendent without having completed three years service in that position, together with a statement of the reasons why that officer did not complete three years service in that position.
+(c) An officer who is detailed to the position of Superintendent shall be so detailed for a period of not less than three years. In any case in which an officer serving as Superintendent is reassigned or retires before having completed three years service as Superintendent, or otherwise leaves that position (other than due to death) without having completed three years service in that position, the Secretary of the Navy shall submit to Congress notice that such officer left the position of Superintendent without having completed three years service in that position, together with a statement of the reasons why that officer did not complete three years service in that position.
 
 (Added Pub. L. 106–65, div. A, title V, §532(a)(2)(B), Oct. 5, 1999, 113 Stat. 603; amended Pub. L. 108–375, div. A, title V, §541(b)(2), Oct. 28, 2004, 118 Stat. 1903.)
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–375, §541(b)(2)(A), inserted before period at end “pursuant to section 6371(a) of this title, unless such retirement is waived under section 6371(b) of this title”.
+<b>2004</b>—Subsec. (b). Pub. L. 108–375, §541(b)(2)(A), inserted before period at end “pursuant to section 6371(a) of this title, unless such retirement is waived under section 6371(b) of this title”.
 
 Subsec. (c). Pub. L. 108–375, §541(b)(2)(B), added subsec. (c).
 

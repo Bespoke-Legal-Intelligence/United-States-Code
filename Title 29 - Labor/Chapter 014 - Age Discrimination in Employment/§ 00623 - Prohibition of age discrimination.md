@@ -342,17 +342,17 @@ The Social Security Act, referred to in subsec. (<i>l</i>)(1)(A)(ii)(II), (2)(D)
 
 #### Amendments
 
-2008—Subsec. (i)(10)(B)(i)(III). Pub. L. 110–458 inserted at end “In the case of a governmental plan (as defined in the first sentence of section 414(d) of title 26), a rate of return or a method of crediting interest establishedpursuant to any provision of Federal, State, or local law (including any administrative rule or policy adopted in accordance with any such law) shall be treated as a market rate of return for purposes of subclause (I) and a permissible method of crediting interest for purposes of meeting the requirements of subclause (I), except that this sentence shall only apply to a rate of return or method of crediting interest if such rate or method does not violate any other requirement of this chapter.”
+<b>2008</b>—Subsec. (i)(10)(B)(i)(III). Pub. L. 110–458 inserted at end “In the case of a governmental plan (as defined in the first sentence of section 414(d) of title 26), a rate of return or a method of crediting interest establishedpursuant to any provision of Federal, State, or local law (including any administrative rule or policy adopted in accordance with any such law) shall be treated as a market rate of return for purposes of subclause (I) and a permissible method of crediting interest for purposes of meeting the requirements of subclause (I), except that this sentence shall only apply to a rate of return or method of crediting interest if such rate or method does not violate any other requirement of this chapter.”
 
-2006—Subsec. (i)(10). Pub. L. 109–280, §701(c), added par. (10).
+<b>2006</b>—Subsec. (i)(10). Pub. L. 109–280, §701(c), added par. (10).
 
 Subsec. (<i>l</i>)(1). Pub. L. 109–280, §1104(a)(2), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and former cls. (i) and (ii) of former subpar. (B) as subcls. (I) and (II) of cl. (ii), respectively, and added subpar. (B).
 
-1998—Subsec. (i)(6). Pub. L. 105–244, §941(b), inserted “or it is a plan permitted by subsection (m) of this section.” after “accruals”.
+<b>1998</b>—Subsec. (i)(6). Pub. L. 105–244, §941(b), inserted “or it is a plan permitted by subsection (m) of this section.” after “accruals”.
 
 Subsec. (m). Pub. L. 105–244, §941(a), added subsec. (m).
 
-1996—Subsec. (j). Pub. L. 104–208, §101(a) \[title I, §119\[1(b)(1)\]\], reenacted subsec. (j) of this section, as in effect immediately before Dec. 31, 1993.
+<b>1996</b>—Subsec. (j). Pub. L. 104–208, §101(a) \[title I, §119\[1(b)(1)\]\], reenacted subsec. (j) of this section, as in effect immediately before Dec. 31, 1993.
 
 Subsec. (j)(1). Pub. L. 104–208, §101(a) \[title I, §119\[1(b)(2)\]\], substituted “, the employer has complied with section 3(d)(2) of the Age Discrimination in Employment Amendments of 1996 if the individual was discharged after the date described in such section, and the individual has attained—
 
@@ -366,7 +366,7 @@ Subsec. (j)(1). Pub. L. 104–208, §101(a) \[title I, §119\[1(b)(2)\]\], subst
 
 &emsp;&emsp;“(II) age 55; and” for “and the individual has attained the age of hiring or retirement in effect under applicable State or local law on March 3, 1983, and”.
 
-1990—Subsec. (f)(2). Pub. L. 101–433, §103(1), added par. (2) and struck out former par. (2) which read as follows: “to observe the terms of a bona fide seniority system or any bona fide employee benefit plan such as a retirement, pension, or insurance plan, which is not a subterfuge to evade the purposes of this chapter, except that no such employee benefit plan shall excuse the failure to hire any individual, and no such seniority system or employee benefit plan shall require or permit the involuntary retirement of any individual specified by section 631(a) of this title because of the age of such individual; or”.
+<b>1990</b>—Subsec. (f)(2). Pub. L. 101–433, §103(1), added par. (2) and struck out former par. (2) which read as follows: “to observe the terms of a bona fide seniority system or any bona fide employee benefit plan such as a retirement, pension, or insurance plan, which is not a subterfuge to evade the purposes of this chapter, except that no such employee benefit plan shall excuse the failure to hire any individual, and no such seniority system or employee benefit plan shall require or permit the involuntary retirement of any individual specified by section 631(a) of this title because of the age of such individual; or”.
 
 Subsecs. (i), (j). Pub. L. 101–433, §103(2), redesignated subsec. (i), relating to employment as firefighter or law enforcement officer, as (j).
 
@@ -376,13 +376,13 @@ Subsec. (<i>l</i>). Pub. L. 101–521 added cl. (iii) in par. (2)(A), and in par
 
 Pub. L. 101–433, §103(3), added subsec. (<i>l</i>).
 
-1989—Subsec. (g). Pub. L. 101–239 struck out subsec. (g) which read as follows:
+<b>1989</b>—Subsec. (g). Pub. L. 101–239 struck out subsec. (g) which read as follows:
 
 “(1) For purposes of this section, any employer must provide that any employee aged 65 or older, and any employee's spouse aged 65 or older, shall be entitled to coverage under any group health plan offered to such employees under the same conditions as any employee, and the spouse of such employee, under age 65.
 
 “(2) For purposes of paragraph (1), the term ‘group health plan’ has the meaning given to such term in section 162(i)(2) of title 26.”
 
-1986—Subsec. (g)(1). Pub. L. 99–272, §9201(b)(1), and Pub. L. 99–592, §2(a), made identical amendments, substituting “or older” for “through 69” in two places.
+<b>1986</b>—Subsec. (g)(1). Pub. L. 99–272, §9201(b)(1), and Pub. L. 99–592, §2(a), made identical amendments, substituting “or older” for “through 69” in two places.
 
 Subsec. (g)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -398,15 +398,15 @@ Subsec. (i). Pub. L. 99–592, §3, temporarily added subsec. (i) which read as 
 
 Pub. L. 99–509 added subsec. (i) relating to employee pension benefit plans.
 
-1984—Subsec. (f)(1). Pub. L. 98–459, §802(b)(1), inserted “, or where such practices involve an employee in a workplace in a foreign country, and compliance with such subsections would cause such employer, or a corporation controlled by such employer, to violate the laws of the country in which such workplace is located”.
+<b>1984</b>—Subsec. (f)(1). Pub. L. 98–459, §802(b)(1), inserted “, or where such practices involve an employee in a workplace in a foreign country, and compliance with such subsections would cause such employer, or a corporation controlled by such employer, to violate the laws of the country in which such workplace is located”.
 
 Subsec. (g). Pub. L. 98–459, §802(b)(2), added subsec. (g) relating to practices of foreign corporations controlled by American employers.
 
 Subsec. (g)(1). Pub. L. 98–369 inserted “, and any employee's spouse aged 65 through 69,” after “aged 65 through 69” and “, and the spouse of such employee,” after “as any employee”, in subsec. (g) relating to entitlement to coverage under group health plan.
 
-1982—Subsec. (g). Pub. L. 97–248 added subsec. (g) relating to entitlement to coverage under group health plans.
+<b>1982</b>—Subsec. (g). Pub. L. 97–248 added subsec. (g) relating to entitlement to coverage under group health plans.
 
-1978—Subsec. (f)(2). Pub. L. 95–256 provided that no seniority system or employee benefit plan require or permit the involuntary retirement of any individual specified by section 631(a) of this title because of the age of the individual.
+<b>1978</b>—Subsec. (f)(2). Pub. L. 95–256 provided that no seniority system or employee benefit plan require or permit the involuntary retirement of any individual specified by section 631(a) of this title because of the age of the individual.
 
 #### Effective Date of 2008 Amendment
 

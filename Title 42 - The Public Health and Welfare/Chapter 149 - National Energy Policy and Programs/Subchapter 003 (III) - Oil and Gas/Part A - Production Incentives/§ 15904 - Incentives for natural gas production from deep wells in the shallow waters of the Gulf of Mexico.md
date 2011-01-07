@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) re-entering and deepening a previously drilled well; and
 
-&emsp;&emsp;&emsp;&emsp;(III) a bypass from a sidetrack, including drilling around material blocking a hole or drilling to straighten a crooked hole.
+&emsp;&emsp;&emsp;&emsp;(III) a bypass from a sidetrack, including drilling around material blocking ahole or drilling to straighten a crooked hole.
 
 #### (b) Royalty incentive regulations for deep gas wells
 

@@ -10,7 +10,7 @@
 
 #### Amendments
 
-1969—Pub. L. 91–172, title I, §101(a), Dec. 30, 1969, 83 Stat. 492, added part heading and analysis for part II.
+<b>1969</b>—Pub. L. 91–172, title I, §101(a), Dec. 30, 1969, 83 Stat. 492, added part heading and analysis for part II.
 
 
 ---

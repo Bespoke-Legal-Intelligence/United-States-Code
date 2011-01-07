@@ -202,7 +202,7 @@ $110.00&nbsp;
 
 &emsp;&emsp;41,000
 
-49\.00 
+49\.00&nbsp;
 
 &emsp;&emsp;42,000
 
@@ -312,9 +312,9 @@ The date of enactment of the Payment in Lieu of Taxes Act, referred to in subsec
 
 #### Amendments
 
-2000—Subsec. (a)(1)(C). Pub. L. 106–393 inserted “or the Secure Rural Schools and Community Self-Determination Act of 2000” before semicolon at end.
+<b>2000</b>—Subsec. (a)(1)(C). Pub. L. 106–393 inserted “or the Secure Rural Schools and Community Self-Determination Act of 2000” before semicolon at end.
 
-1994—Subsec. (b)(1)(A). Pub. L. 103–397, §2(a)(1), substituted “93 cents during fiscal year 1995, $1.11 during fiscal year 1996, $1.29 during fiscal year 1997, $1.47 during fiscal year 1998, and $1.65 during fiscal year 1999 and thereafter, for each acre of entitlement land” for “75 cents for each acre of entitlement land”.
+<b>1994</b>—Subsec. (b)(1)(A). Pub. L. 103–397, §2(a)(1), substituted “93 cents during fiscal year 1995, $1.11 during fiscal year 1996, $1.29 during fiscal year 1997, $1.47 during fiscal year 1998, and $1.65 during fiscal year 1999 and thereafter, for each acre of entitlement land” for “75 cents for each acre of entitlement land”.
 
 Subsec. (b)(1)(B). Pub. L. 103–397, §2(a)(2), substituted “12 cents during fiscal year 1995, 15 cents during fiscal year 1996, 17 cents during fiscal year 1997, 20 cents during fiscal year 1998, and 22 cents during fiscal year 1999 and thereafter, for each acre of entitlement land” for “10 cents for each acre of entitlement land”.
 
@@ -332,7 +332,7 @@ Pub. L. 103–397, §5(b)(1), amended table generally for fiscal year 1995 by au
 
 Subsec. (d). Pub. L. 103–397, §3, added subsec. (d).
 
-1983—Subsec. (a)(4). Pub. L. 98–63 struck out par. (4) which provided that if any part of a small unit was located within another unit, entitlement land within both units was deemed to be located within the smaller unit.
+<b>1983</b>—Subsec. (a)(4). Pub. L. 98–63 struck out par. (4) which provided that if any part of a small unit was located within another unit, entitlement land within both units was deemed to be located within the smaller unit.
 
 #### Effective Date of 1994 Amendment
 

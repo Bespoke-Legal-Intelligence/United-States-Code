@@ -42,7 +42,7 @@ The Merchant Ship Sales Act of 1946, referred to in subsec. (b), is act Mar. 8, 
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–304 substituted “subtitle V of title 46” for “the Merchant Marine Act, 1936 (46 App. U.S.C. 1101 et seq.)”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–304 substituted “subtitle V of title 46” for “the Merchant Marine Act, 1936 (46 App. U.S.C. 1101 et seq.)”.
 
 #### Transfer of Functions
 

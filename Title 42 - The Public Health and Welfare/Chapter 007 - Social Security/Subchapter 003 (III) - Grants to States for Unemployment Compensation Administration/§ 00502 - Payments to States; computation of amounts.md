@@ -22,15 +22,15 @@ For provision deeming a reference in other laws to a provision of the 1939 Code 
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1992—Subsec. (c). Pub. L. 102–318 added subsec. (c).
+<b>1992</b>—Subsec. (c). Pub. L. 102–318 added subsec. (c).
 
-1986—Subsec. (a). Pub. L. 99–603 inserted at end of first sentence “, including 100 percent of so much of the reasonable expenditures of the State as are attributable to the costs of the implementation and operation of the immigration status verification system described in section 1320b–7(d) of this title”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–603 inserted at end of first sentence “, including 100 percent of so much of the reasonable expenditures of the State as are attributable to the costs of the implementation and operation of the immigration status verification system described in section 1320b–7(d) of this title”.
 
-1984—Subsec. (b). Pub. L. 98–369 substituted “the Fiscal Service of the Department of the Treasury” for “the Division of Disbursement of the Treasury Department”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–369 substituted “the Fiscal Service of the Department of the Treasury” for “the Division of Disbursement of the Treasury Department”.
 
-1939—Subsec. (a). Act Aug. 10, 1939, substituted “Federal Unemployment Tax Act” for “sections 1101–1110 of this title,” and inserted “efficient” before “administration”.
+<b>1939</b>—Subsec. (a). Act Aug. 10, 1939, substituted “Federal Unemployment Tax Act” for “sections 1101–1110 of this title,” and inserted “efficient” before “administration”.
 
 #### Effective Date of 1992 Amendment
 

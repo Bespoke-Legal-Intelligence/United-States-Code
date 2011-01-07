@@ -8,5 +8,5 @@
 
 #### Amendments
 
-2008—Pub. L. 110–181 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>2008</b>—Pub. L. 110–181 designated existing provisions as subsec. (a) and added subsec. (b).
 

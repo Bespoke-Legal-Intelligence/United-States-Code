@@ -74,5 +74,5 @@ The provisions of this section shall be subject to section 9276(b) of this title
 
 #### Amendments
 
-1998—Subsec. (g). Pub. L. 105–332 added subsec. (g).
+<b>1998</b>—Subsec. (g). Pub. L. 105–332 added subsec. (g).
 

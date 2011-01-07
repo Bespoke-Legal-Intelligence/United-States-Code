@@ -8,7 +8,7 @@
 
 (3)(A) To the extent practicable, the Secretary shall acquire both dedicated and dual fueled vehicles, and shall ensure that each type of alternative fueled vehicle is used by the Federal Government.
 
-(B) Vehicles acquired under this section shall be acquired from original equipment manufacturers. If such vehicles are not available from original equipment manufacturers, vehicles converted to use alternative fuels may be acquired if, after conversion, the original equipment manufacturer's warranty continues to apply to such vehicles, pursuant to an agreement between the original equipment manufacturer and the person performing the conversion. This subparagraph shall not apply to vehicles acquired by the United States Postal Service pursuant to a contract entered into by the United States Postal Service before October 24, 1992, and which terminates on or before December 31, 1997.
+(B) Vehicles acquired under this section shall be acquired from original equipment manufacturers. If such vehicles are not available from original equipment manufacturers, vehicles converted to use alternative fuels may be acquiredif, after conversion, the original equipment manufacturer's warranty continues to apply to such vehicles, pursuant to an agreement between the original equipment manufacturer and the person performing the conversion. This subparagraph shall not apply to vehicles acquired by the United States Postal Service pursuant to a contract entered into by the United States Postal Service before October 24, 1992, and which terminates on or before December 31, 1997.
 
 (C) Alternative fueled vehicles, other than those described in subparagraph (B), may be acquired solely for the purposes of studies under subsection (b) of this section, whether or not original equipment manufacturer warranties still apply.
 
@@ -16,7 +16,7 @@
 
 &emsp;(i) which types of vehicles yield the greatest reduction in pollutants emitted per dollar spent; and
 
-&emsp;(ii) the source of the fuel to supply the vehicles, giving preference to vehicles that operateon alternative fuels derived from domestic sources.
+&emsp;(ii) the source of the fuel to supply the vehicles, giving preference to vehicles that operate on alternative fuels derived from domestic sources.
 
 (E)(i) Dual fueled vehicles acquired pursuant to this section shall be operated on alternative fuels unless the Secretary determines that an agency qualifies for a waiver of such requirement for vehicles operated by the agency in a particular geographic area in which—
 
@@ -66,7 +66,7 @@ To the extent practicable, at locations where vehicles acquired under subsection
 
 #### (d) Federal agency use of demonstration vehicles
 
-(1) Upon the request of the head of any agency of the Federal Government, the Secretary shall ensure that such Federal agency be provided with vehicles acquired under subsection (a) of this section to the maximum extent practicable.
+(1) Upon the request of the head of any agency of the Federal Government, the Secretary shallensure that such Federal agency be provided with vehicles acquired under subsection (a) of this section to the maximum extent practicable.
 
 (2)(A) Funds appropriated under this section for the acquisition of vehicles under subsection (a) of this section shall be applicable only to the portion of the cost of vehicles acquired under subsection (a) of this section which exceeds the cost of comparable gasoline or diesel fueled vehicles.
 
@@ -128,19 +128,19 @@ In subsec. (g)(4)(A), (5)(A), “section 32901(a)(7) of title 49” substituted 
 
 #### Amendments
 
-2005—Subsec. (a)(3)(E). Pub. L. 109–58 amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “Dual fueled vehicles acquired pursuant to this section shall be operated on alternative fuels unless the Secretary determines that operation on such alternative fuels is not feasible.”
+<b>2005</b>—Subsec. (a)(3)(E). Pub. L. 109–58 amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “Dual fueled vehicles acquired pursuant to this section shall be operated on alternative fuels unless the Secretary determines that operation on such alternative fuels is not feasible.”
 
-1999—Subsec. (a)(3)(F), (G). Pub. L. 106–36 substituted “multilateral trade agreements (as defined in section 3501(4) of title 19)” for “General Agreement on Tariffs and Trade”.
+<b>1999</b>—Subsec. (a)(3)(F), (G). Pub. L. 106–36 substituted “multilateral trade agreements (as defined in section 3501(4) of title 19)” for “General Agreement on Tariffs and Trade”.
 
-1998—Subsecs. (h), (i). Pub. L. 105–388 redesignated subsec. (i) as (h).
+<b>1998</b>—Subsecs. (h), (i). Pub. L. 105–388 redesignated subsec. (i) as (h).
 
-1995—Subsec. (b)(1)(B). Pub. L. 104–66, §1052(e), struck out before period at end “, and annually thereafter”.
+<b>1995</b>—Subsec. (b)(1)(B). Pub. L. 104–66, §1052(e), struck out before period at end “, and annually thereafter”.
 
 Subsec. (b)(3) to (5). Pub. L. 104–66, §1051(a), redesignated par. (5) as (3) and struck out former par. (3) which directed Secretary to conduct study of heavy duty vehicles acquired under Department of Energy program and report results to Congress and par. (4) which directed Secretary to conduct study of advisability of heavy duty vehicle disposal and report results to Congress.
 
-1992—Subsec. (a)(1). Pub. L. 102–486, §302(a)(1), substituted “vehicles” for “passenger automobiles and light duty trucks” before “acquired annually for use” and “alternative fueled vehicles. In no event shall the number of such vehicles acquired be less than the number required under section 13212 of this title.” for “alcohol powered vehicles, dual energy vehicles, natural gas powered vehicles, or natural gas dual energy vehicles.”
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–486, §302(a)(1), substituted “vehicles” for “passenger automobiles and light duty trucks” before “acquired annually for use” and “alternative fueled vehicles. In no event shall the number of such vehicles acquired be less than the number required under section 13212 of this title.” for “alcohol powered vehicles, dual energy vehicles, natural gas powered vehicles, or natural gas dual energy vehicles.”
 
-Subsec. (a)(3). Pub. L. 102–486, §302(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary shall, to the extent practicable and consistent with this part, ensure that the number of dual energy vehicles acquired under this subsection is at least as great as the number of alcohol powered vehicles acquired under this subsection, and that the number of natural gas dual energy vehicles acquired under this subsection is at least as great as the number of natural gas powered vehicles acquired under this subsection. To the extent practicable, both vehicles capable of operating on alcohol and vehicles capable of operating on natural gas shall be acquired in carryingout this subsection, and such vehicles shall be supplied by original equipment manufacturers.”
+Subsec. (a)(3). Pub. L. 102–486, §302(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary shall, to the extent practicable and consistent with this part, ensure that the number of dual energy vehicles acquired under this subsection is at least as great as the number of alcohol powered vehicles acquired under this subsection, and that the number of natural gas dual energy vehicles acquired under this subsection is at least as great as the number of natural gas powered vehicles acquired under this subsection. To the extent practicable, both vehicles capable of operating on alcohol and vehicles capable of operating on natural gas shall be acquired in carrying out this subsection, and such vehicles shall be supplied by original equipment manufacturers.”
 
 Subsec. (a)(4). Pub. L. 102–486, §302(a)(3), added par. (4).
 

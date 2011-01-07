@@ -136,11 +136,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (h)(1)(G). Pub. L. 110–246, §2803(a), added subpar. (G).
+<b>2008</b>—Subsec. (h)(1)(G). Pub. L. 110–246, §2803(a), added subpar. (G).
 
 Subsec. (h)(2)(E). Pub. L. 110–246, §2803(b), substituted “each of fiscal years 2008 through 2012” for “fiscal year 2007”.
 
-2002—Subsec. (h). Pub. L. 107–171 added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “There is authorized to be appropriated to the Secretary to provide financial and technical assistance under this section—
+<b>2002</b>—Subsec. (h). Pub. L. 107–171 added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “There is authorized to be appropriated to the Secretary to provide financial and technical assistance under this section—
 
 &emsp;“(1) $5,000,000 for fiscal year 2001;
 
@@ -155,4 +155,8 @@ Subsec. (h)(2)(E). Pub. L. 110–246, §2803(b), substituted “each of fiscal y
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. The period probably should be “; and”</i>
 

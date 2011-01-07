@@ -2,7 +2,7 @@
 
 #### (a) Undistributed net income
 
-For purposes of this subpart, the term “undistributed net income” for any taxable year means the amount by which distributable net income of the trust for such taxable year exceeds the sum of—
+For purposes of this subpart, the term “undistributed net income” for any taxable yearmeans the amount by which distributable net income of the trust for such taxable year exceeds the sum of—
 
 &emsp;(1) the amounts for such taxable year specified in paragraphs (1) and (2) of section 661(a), and
 
@@ -24,7 +24,7 @@ For purposes of this subpart—
 
 #### (1) In general
 
-&emsp;In the case of a qualified trust, any distribution in any taxable year beginning after the date of the enactment of this subsection shallbe computed without regard to any undistributed net income.
+&emsp;In the case of a qualified trust, any distribution in any taxable year beginning after the date of the enactment of this subsection shall be computed without regard to any undistributed net income.
 
 #### (2) Qualified trust
 
@@ -62,19 +62,19 @@ The date of the enactment of this subsection, referred to in subsec. (c)(1), is 
 
 #### Amendments
 
-1997—Subsec. (b). Pub. L. 105–34, §507(a)(2), inserted “except as provided in subsection (c),” after “subpart,” in introductory provisions.
+<b>1997</b>—Subsec. (b). Pub. L. 105–34, §507(a)(2), inserted “except as provided in subsection (c),” after “subpart,” in introductory provisions.
 
 Subsec. (c). Pub. L. 105–34, §507(a)(1), added subsec. (c).
 
 Subsec. (d)(1). Pub. L. 105–34, §1604(g)(2), struck out “or 669(d) and (e)” after “666(b) and (c)”.
 
-1996—Subsec. (c). Pub. L. 104–188, §1904(c)(2), struck out subsec. (c) which read as follows: “
+<b>1996</b>—Subsec. (c). Pub. L. 104–188, §1904(c)(2), struck out subsec. (c) which read as follows: “
 
 Special Rule Applicable to Distributions by Certain Foreign Trusts.—For purposes of this subpart, any amount paid to a United States person which is from a payor who is not a United States person and which is derived directly or indirectly from a foreign trust created by a United States person shall be deemed in the year of payment to have been directly paid by the foreign trust.”
 
 Subsec. (d)(2). Pub. L. 104–188, §1904(b)(1), inserted at end “Under rules or regulations prescribed by the Secretary, in the case of any foreign trust of which the settlor or another person would be treated as owner of any portion of the trust under subpart E but for section 672(f), the term ‘taxes imposed on the trust’ includes the allocable amount of any income, war profits, and excess profits taxes imposed by any foreign country or possession of the United States on the settlor or such other person in respect of trust income.”
 
-1990—Subsec. (e). Pub. L. 101–508 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “For purposes of this subpart—
+<b>1990</b>—Subsec. (e). Pub. L. 101–508 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “For purposes of this subpart—
 
 &emsp;“(1) in the case of a trust (other than a foreign trust created by a United States person), the term ‘preceding taxable year’ does not include any taxable year of the trust—
 
@@ -86,11 +86,11 @@ Subsec. (d)(2). Pub. L. 104–188, §1904(b)(1), inserted at end “Under rules 
 
 > In the case of a preceding taxable year with respect to which a trust qualifies (without regard to this subpart) under the provisions of subpart B, for purposes of the application of this subpart to such trust for such taxable year, such trust shall, in accordance with regulations prescribed by the Secretary, be treated as a trust to which subpart C applies.”
 
-1986—Subsec. (d)(1). Pub. L. 99–514 substituted “part IV” for “subpart A of part IV”.
+<b>1986</b>—Subsec. (d)(1). Pub. L. 99–514 substituted “part IV” for “subpart A of part IV”.
 
-1978—Subsec. (d). Pub. L. 95–600 designated existing provisions as par. (1), defined “taxes imposed on the trust” to mean imposition of taxes without regard to subpart A of part IV of subchapter (A), and added par. (2).
+<b>1978</b>—Subsec. (d). Pub. L. 95–600 designated existing provisions as par. (1), defined “taxes imposed on the trust” to mean imposition of taxes without regard to subpart A of part IV of subchapter (A), and added par. (2).
 
-1976—Subsec. (b). Pub. L. 94–455, §701(b), (c), inserted provisions that for purposes of sec. 667 the amounts specified in par. (2) of sec. 661(a) not include amounts paid, credited, or required to be distributed to a beneficiary from a trust as income accumulated before the birth of such beneficiary or before such beneficiary reaches 21, and that if the amounts paid, credited, or required to be distributed by the trust for the taxable year do not exceed the income of the trust for such year, there be no accumulation distribution for such year.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455, §701(b), (c), inserted provisions that for purposes of sec. 667 the amounts specified in par. (2) of sec. 661(a) not include amounts paid, credited, or required to be distributed to a beneficiary from a trust as income accumulated before the birth of such beneficiary or before such beneficiary reaches 21, and that if the amounts paid, credited, or required to be distributed by the trust for the taxable year do not exceed the income of the trust for such year, there be no accumulation distribution for such year.
 
 Subsecs. (d), (e). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
@@ -98,9 +98,9 @@ Subsec. (e)(1). Pub. L. 94–455, §701(d)(2), struck out provision that precedi
 
 Subsecs. (f), (g). Pub. L. 94–455, §701(d)(3), struck out subsec. (f) which related to undistributed capital gains, and subsec. (g) which related to capital gain distribution.
 
-1971—Subsec. (g). Pub. L. 92–178 struck out “for such taxable year” after “undistributed capital gain” in introductory text.
+<b>1971</b>—Subsec. (g). Pub. L. 92–178 struck out “for such taxable year” after “undistributed capital gain” in introductory text.
 
-1969—Subsec. (a)(2). Pub. L. 91–172 inserted “attributable to such distributable net income” after “on the trust”.
+<b>1969</b>—Subsec. (a)(2). Pub. L. 91–172 inserted “attributable to such distributable net income” after “on the trust”.
 
 Subsec. (b). Pub. L. 91–172 substituted “Accumulation distribution” for “Accumulation distributions of trusts other than certain foreign trusts” in heading, combined existing provisions of subsecs. (b) and (c) defining “accumulation distribution” in the case of a trust (other than a foreign trust created by a United States person) and of a foreign trust created by a United States person, respectively, in provisions now designated as pars. (1) and (2), deleting “the amount (if in excess of $2,000)” before “by which” in introductory text and inserting “(but not below zero)” in par. (2), and deleted second sentence providing that for purposes of this subsection, the amount specified in par. (2) of section 661(a) shall be determined without regard to section 666 and excepting from “accumulation distributions”: accumulations before birth or attainment of age 21; distributions for emergency needs; distributions, where beneficiary attained specified age or ages and there were not more than 4 distributions, at intervals of 4 or more years; and final distribution of trust was made more than 9 years after date of last transfer to the trust.
 
@@ -112,7 +112,7 @@ Subsec. (e). Pub. L. 91–172 substituted provisions of first sentence contained
 
 Subsecs. (f), (g). Pub. L. 91–172 added subsecs. (f) and (g).
 
-1962—Subsec. (b). Pub. L. 87–834, §7(b)(1), substituted “Accumulation distributions of trusts other than certain foreign trusts” for “Accumulation distribution” in heading, and inserted “in the case of a trust (other than a foreign trust created by a United States person),” after “purposes of this subpart,”.
+<b>1962</b>—Subsec. (b). Pub. L. 87–834, §7(b)(1), substituted “Accumulation distributions of trusts other than certain foreign trusts” for “Accumulation distribution” in heading, and inserted “in the case of a trust (other than a foreign trust created by a United States person),” after “purposes of this subpart,”.
 
 Subsecs. (c) to (e). Pub. L. 87–834, §7(b)(2), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date of 1978 Amendment
 
-Section 701(q)(3)(A) of Pub. L. 95–600 provided that: “The amendments made by paragraph (1) \[amending this section and section 667 of this title\] shall apply to distributions made in taxable years beginning after December 31, 1975.”
+Section 701(q)(3)(A) of Pub. L. 95–600 provided that: “The amendments made by paragraph (1) \[amending this section and section 667 of this title\] shall apply todistributions made in taxable years beginning after December 31, 1975.”
 
 #### Effective Date of 1976 Amendment
 
@@ -154,7 +154,7 @@ Exceptions.—
 
 &emsp;“(A) Amounts paid, credited, or required to be distributed by a trust (other than a foreign trust created by a United States person) on or before the last day of a taxable year of the trust beginning before January 1, 1974, shall not be deemed to be accumulation distributions to the extent that such amounts were accumulated by a trust in taxable years of such trust beginning before January 1, 1969, and would have been excepted from the definition of an accumulation distribution by reason of paragraph (1), (2), (3), or (4) of section 665(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as in effect on December 31, 1968, if they had been distributed on the last day of the last taxable year of the trust beginning before January 1, 1969.
 
-&emsp;“(B) For taxable years of a trust beginning before January 1, 1970, the first sentence of section 666(a) ofthe Internal Revenue Code of 1986 (as amended by this section) shall not apply, and the amount of the accumulation distribution of the trust for such taxable years shall be deemed to be an amount within the meaning of paragraph (2) of section 661(a) distributed on the last day of each of the preceding taxable years to the extent that such amount exceeds the total of any undistributed net income for any taxable years intervening between the taxable year with respect of which the accumulation distribution is determined and such preceding taxable year.
+&emsp;“(B) For taxable years of a trust beginning before January 1, 1970, the first sentence of section 666(a) of the Internal Revenue Code of 1986 (as amended by this section) shall not apply, and the amount of the accumulation distribution of the trust for such taxable years shall be deemed to be an amount within the meaning of paragraph (2) of section 661(a) distributed on the last day of each of the preceding taxable years to the extent that such amount exceeds the total of any undistributed net income for any taxable years intervening between the taxable year with respect of which the accumulation distribution is determined and such preceding taxable year.
 
 &emsp;“(C) In the case of a trust which was in existence on December 31, 1969, section 669 of the Internal Revenue Code of 1986, as amended by this section, shall not apply to capital gain distributions made to a beneficiary before January 1, 1973. If the beneficiary receives capital gain distributions from more than one such trust before January 1, 1973, the preceding sentence shall apply to capital gain distributions from only one such trust, such one to be designated by the taxpayer in accordance with regulations prescribed by the Secretary or his delegate. For purposes of the preceding sentence, capital gain distributions received from a trust qualifying under section 2056(b)(5) of the Internal Revenue Code of 1986 by a surviving spouse (who is the beneficiary of only one such trust) shall be disregarded.”
 

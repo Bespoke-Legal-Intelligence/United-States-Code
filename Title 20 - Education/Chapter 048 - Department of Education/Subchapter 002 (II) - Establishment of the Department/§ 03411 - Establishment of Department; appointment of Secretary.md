@@ -14,71 +14,105 @@ Ex. Ord. No. 12729, Sept. 24, 1990, 55 F.R. 39389, which established the Preside
 
 #### Executive Order No. 12900
 
-Ex. Ord. No. 12900, Feb. 22, 1994, 59 F.R. 9061, which established in the Department of Education the President's Advisory Commission on Educational Excellence for Hispanic Americans and the White House Initiative on Educational Excellence for Hispanic Americans and directed the Secretary of Education to submit to the President an Annual Federal Plan to Promote Hispanic American Educational Excellence and the Director of the Office of Personnel Management to develop a program to promote recruitment of Hispanic students for positions in the Federal Government, was revoked by Ex. Ord. No. 13230, §9, Oct. 12, 2001, 66 F.R. 52843, set out below.
+Ex. Ord. No. 12900, Feb. 22, 1994, 59 F.R. 9061, which established in the Department of Education the President's Advisory Commission on Educational Excellence for Hispanic Americans and the White House Initiative on Educational Excellence for Hispanic Americans and directed the Secretary of Education to submit to the President an Annual Federal Plan to Promote Hispanic American Educational Excellence and the Director of the Office of Personnel Management to develop a program to promote recruitment of Hispanic students for positions in the Federal Government, was revoked by Ex. Ord. No. 13230, §9, Oct. 12, 2001, 66 F.R. 52843, formerly set out below.
 
-#### Ex. Ord. No. 13230. President's Advisory Commission on Educational Excellence for Hispanic Americans
+#### Executive Order No. 13230
 
-Ex. Ord. No. 13230, Oct. 12, 2001, 66 F.R. 52841, provided:
+Ex. Ord. No. 13230, Oct. 12, 2001, 66 F.R. 52841, which established in the Department of Education the President's Advisory Commission on Educational Excellence for Hispanic Americans and the White House Initiative on Educational Excellence for Hispanic Americans, set forth reporting requirements, and required cooperation by executive departments and agencies, was revoked by Ex. Ord. No. 13555, §4(a), Oct. 19, 2010, 75 F.R. 65420, set out below.
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to advance the development of human potential, strengthen the Nation's capacity to provide high-quality education, and increase opportunities for Hispanic Americans to participate in and benefit from Federal education programs, it is hereby ordered as follows:
+#### Ex. Ord. No. 13555. White House Initiative on Educational Excellence for Hispanics
 
-Section 1. There is established, in the Department of Education, the President's Advisory Commission on Educational Excellence for Hispanic Americans (Commission). The Commission shall consist of not more than 25 members. Twenty-one of the members shall be appointed by the President. Those members shall be representatives of educational, business, professional, and community organizations who are committed to improving educational attainment within the Hispaniccommunity, as well as other persons deemed appropriate by the President. The President shall designate two of the appointed members to serve as Co-Chairs of the Commission. The other four members of the Commission shall be ex officio members, one each from the Department of Education, the Department of Housing and Urban Development, the Department of the Treasury, and the Small Business Administration. The ex officio members shall be the respective Secretaries of those agencies and the Administrator of the Small Business Administration, or their designees.
+Ex. Ord. No. 13555, Oct. 19, 2010, 75 F.R. 65417, provided:
 
-Sec. 2. The Commission shall provide advice to the Secretary of Education (“Secretary”) and shall issue reports to the President, as described in section 7 below, concerning:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, to restore the country to its role as the global leader in education, to strengthen the Nation by expanding educational opportunities and improving educational outcomes for Hispanics and Latinos (Hispanics) of all ages, and to help ensure that all Hispanics receive an education that properly prepares them for college, productive careers, and satisfying lives, it is hereby ordered as follows:
 
-(a) the progress of Hispanic Americans in closing the academic achievement gap and attaining the goals established by the President's “No Child Left Behind” educational blueprint;
+Section 1. <i>Policy</i>. At more than 52 million strong, including 4 million in Puerto Rico, Hispanics constitute the country's largest and fastest growing minority group. They have had a profound and positive impact on our country through, among other things, their community's strong commitment to family, faith, hard work, and service. Many Hispanics contribute to this Nation bilingually in the English and Spanish languages—a true asset for our country in an increasingly global, interdependent world.
 
-(b) the development, monitoring, and coordination of Federal efforts to promote high-quality education for Hispanic Americans;
+Hispanic students are the largest minority group in our Nation's schools, numbering more than 11 million in our public elementary and secondary school system, and constituting more than 22 percent of all pre-K-12 students. Hispanic students face educational challenges of crisis proportions. Fewer than half of all Hispanic children participate in early childhood education programs, and far too few Hispanic students graduate from high school; of those who do complete high school, many are not adequately prepared for college. Only 12 percent of adult Hispanics have a bachelor's degree, and just 3 percent have completed graduate or professional degree programs. At the same time, large numbers of Hispanic adults lack the education or literacy skills they need to advance their careers; they also are less likely than members of other groups to have taken job- or career-related courses, with the exception of basic education classes, such as English as a second language.
 
-(c) ways to increase parental, State and local, private sector, and community involvement in improving education; and
+Our country was built on and continues to thrive on its diversity, and there is no doubt that the future of the United States is inextricably linked to the future of the Hispanic community. To reach the ambitious education goals we have set for our Nation, as well as to ensure equality of opportunity for all, we must provide the opportunities that will enable Hispanic students to raise their educational attainment at every level of the American education system. America's future competitiveness in our global economy will be substantially enhanced by improving educational outcomes for Hispanics.
 
-(d) ways to maximize the effectiveness of Federal education initiatives within the Hispanic community.
+Sec. 2. <i>White House Initiative on Educational Excellence for Hispanics.</i>
 
-Sec. 3. There is established, in the Department of Education, an office called the White House Initiative on Educational Excellence for Hispanic Americans (Initiative). The Initiative shall be located at, staffed, and supported by the Department of Education, and headed by a Director, who shall be a senior level executive branch official who reports to the Secretary. The Initiative shall provide the necessary staff, resources, and assistance to the Commission and shall assist and advise the Secretary in carrying out his responsibilities under this order. The staff of the Initiative shall gather and disseminate information relating to the educational achievement gap of Hispanic Americans, using a variety of means, including conducting surveys, conferences, field hearings, and meetings, and other appropriate vehicles designed to encourage the participation of organizations and individuals interested in such issues, including parents, community leaders, academicians, business leaders, teachers, employers, employees and public officials at the local, State, and Federal levels. To the extent permitted by law, executive branch departments and agencies shall cooperate in providing resources, including personnel detailed to the Initiative, to meet the objectives of this order. The Initiative shall include both career civil service and appointed staff with expertise in the area of education.
+(a) <i>Establishment</i>. There is established the White House Initiative on Educational Excellence for Hispanics (Initiative), to be housed in the Department of Education (Department). The mission of the Initiative shall be to help restore the United States to its role as the global leader in education and to strengthen the Nation by expanding educational opportunities and improving educational outcomes for Hispanics of all ages and by helping to ensure that all Hispanics receive a complete and competitive education that prepares them for college, a career, and productive and satisfying lives.
 
-Sec. 4. Executive branch departments and agencies, to the extent permitted by law and practicable, shall provide any appropriate information requested by the Commission or the staff of the Initiative, including data relating to the eligibility for and participation by Hispanic Americans in Federal education programs and the progress of Hispanic Americans in closing the academic achievement gap and in achieving the goals of the President's “No Child Left Behind” education blueprint. Where adequate data are not available, the Commission shall suggest the means for collecting the data. In accordance with the accountability goals established by the President, executive branch departments and agencies involved in relevant programs shall report to the President through the Initiative by September 30, 2002, on:
+(b) <i>Initiative Administration</i>. There shall be an Executive Director of the Initiative, to be appointed by the Secretary of Education (Secretary). The Initiative shall be advised by the Commission established under section 3 of this order and supported by the Working Group established under subsection (c) of this section. The Department shall provide the staff, resources, and assistance for the Initiative and the Working Group. To the extent permitted by law, departments, agencies, and offices represented on the Working Group shall provide resources, including personnel detailed to the Initiative, to assist the Department in meeting the objectives of this order.
 
-(a) efforts to increase participation of Hispanic Americans in Federal education programs and services;
+(c) <i>Interagency Working Group.</i>
 
-(b) efforts to include Hispanic-serving school districts, Hispanic-serving institutions, and other educational institutions for Hispanic Americans in Federal education programs and services;
+(1) There is established the Federal Interagency Working Group on Educational Excellence for Hispanics (Working Group), which shall be convened and chaired by the Initiative's Executive Director.
 
-(c) levels of participation attained by Hispanic Americans in Federal education programs and services; and
+(2) The Working Group shall consist of senior officials from the Department, the White House Domestic Policy Council, the Department of Labor, and the Department of Health and Human Services, as well as such additional departments, agencies, and offices as the President may designate. Senior officials shall be designated by the heads of their respective departments, agencies, and offices.
 
-(d) the measurable impact resulting from these efforts and levels of participation. The Department of Education's report also shall describe the overall condition of Hispanic American education and such other aspects of the educational status of Hispanic Americans, as the Secretary considers appropriate.
+(3) The Initiative's Executive Director may establish subgroups of the Working Group to focus on different aspects of the educational system or educational challenges facing Hispanics, such as early childhood education, K?12 \[sic\] education, higher education, career and technical education, language acquisition, and adult education.
 
-Sec. 5. Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App), may apply to the Commission, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Department of Education in accordance with the guidelines that have been issued by the Administrator of General Services.
+(d) <i>Initiative Objectives.</i>
 
-Sec. 6. (a) Members of the Commission shall serve without compensation, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707).
+(1) To expand educational opportunities, improve education outcomes, and deliver a complete and competitive education for all Hispanics, the Initiative shall, consistent with law, promote, encourage, and undertake efforts designed to meet the following objectives:
 
-(b) To the extent permitted by law, the Department of Education shall provide funding and administrative support for the Commission and the Initiative.
+&emsp;(i) increasing general understanding of the causes of the educational challenges faced by Hispanic students;
 
-Sec. 7. The Commission shall prepare and submit an interim and final report to the President outlining its findings and recommendations as follows:
+&emsp;(ii) increasing the percentage of Hispanic children who enter kindergarten ready for success by improving access by Hispanics to high-quality programs and services that encourage the early learning and development of children from birth through age 5;
 
-(a) The Commission shall submit an Interim Report no later than September 30, 2002. The Interim Report shall describe the Commission's examination of:
+&emsp;(iii) implementing successful and innovative education reform strategies and practices in America's public schools to ensure that Hispanic students, like their peers, receive a rigorous and well-rounded education, and have access to student support services that will prepare them for college, a career, and civic participation;
 
-&emsp;(i) available research and information on the effectiveness of current practices at the local, State, and Federal levels in closing the educational achievement gap for Hispanic Americans and attaining the goals established by the President's “No Child Left Behind” educational blueprint;
+&emsp;(iv) ensuring that all Hispanic students have access to excellent teachers and school leaders, in part by supporting efforts to improve the recruitment, preparation, development, and retention of successful Hispanic teachers and school leaders and other effective teachers and school leaders responsible for the education of Hispanic students;
 
-&emsp;(ii) available research and information on the effectiveness of current practices involving Hispanic parents in the education of their children; and
+&emsp;(v) reducing the dropout rate of Hispanic students and helping Hispanic students graduate from high school prepared for college and a career, in part by promoting a positive school climate and supporting successful and innovative dropout prevention and recovery strategies that better engage Hispanic youths in their learning, help them catch up academically, and provide those who have left the educational system with pathways to reentry;
 
-&emsp;(iii) the appropriate role of Federal agencies’ education programs in helping Hispanic parents successfully prepare their children to graduate from high school and attend post secondary institutions.
+&emsp;(vi) increasing college access and success for Hispanic students and providing support to help ensure that a greater percentage of Hispanics complete college and contribute to the goal of having America again lead the world in the proportion of college graduates by 2020, in part through strategies to strengthen the capacity of Hispanic-Serving Institutions, community colleges, and other institutions of higher education serving large numbers of Hispanic students; and
 
-(b) The Commission shall issue a Final Report no later than March 31, 2003. The Final Report shall set forth the Commission's recommendations regarding:
+&emsp;(vii) enhancing the educational and life opportunities of Hispanics by fostering positive family and community engagement, improving the quality of, and expanding access to, adult education, literacy, and career and technical education, as well as increasing opportunities for education and career advancement in the fields of science, technology, engineering, and mathematics.
 
-&emsp;(i) a multi-year plan, based on the data collected concerning identification of barriers to and successful models for closing the educational achievement gap for Hispanic Americans, that provides for a coordinated effort among parents, community leaders, business leaders, educators, and public officials at the local, State, and Federal levels to close the educational achievement gap for Hispanic Americans and ensure attainment of the goals established by the President's “No Child Left Behind” educational blueprint.
+(2) In working to fulfill its mission and objectives, the Initiative shall, consistent with law:
 
-&emsp;(ii) the development of a monitoring system that measures and holds executive branch departments and agencies accountable for the coordination of Federal efforts among the designated executive departments and agencies to ensure the participation of Hispanic Americans in Federal education programs and promote high-quality education for Hispanic Americans;
+&emsp;(i) help ensure that Federal programs and initiatives administered by the Department and other agencies are serving and meeting the needs of Hispanic children, youths, and adults;
 
-&emsp;(iii) the identification of successful methods employed throughout the Nation in increasing parental, State and local, private sector, and community involvement in improving education for Hispanic Americans;
+&emsp;(ii) work closely with the Executive Office of the President on key Administration priorities related to the education of Hispanics;
 
-&emsp;(iv) ways to improve on and measure the effectiveness of Federal agencies’ education programs in ensuring that Hispanic Americans close the educational achievement gap and attain the goals established by the President's “No Child Left Behind” educational blueprint; and
+&emsp;(iii) increase the Hispanic community's participation in, and capacity to participate in, the Department's programs and education-related programs at other executive departments and agencies;
 
-&emsp;(v) how Federal Government education programs can best be applied to ensure Hispanic parents successfully prepare their children to attend post secondary institutions.
+&emsp;(iv) advise Department officials and, through the Working Group, other agency officials on issues related to the Hispanic community and the educational attainment of Hispanic students;
 
-Sec. 8. The Commission shall terminate 30 days after submitting its final report, unless extended by the President.
+&emsp;(v) advise the Secretary on the development, implementation, and coordination of educational programs and initiatives at the Department and other agencies designed to improve educational opportunities and outcomes for Hispanics of all ages;
 
-Sec. 9. Executive Order 12900 of February 22, 1994, as amended, is revoked.
+&emsp;(vi) encourage and develop partnerships with public, private, philanthropic, and nonprofit stakeholders to improve Hispanics’ readiness for school, college, and career, as well as their college persistence and completion; and
 
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&emsp;(vii) develop a national network of individuals, organizations, and communities to share and implement best practices related to the education of Hispanics.
+
+(3) The Initiative shall periodically publish reports on its activities. The Secretary and the Executive Director of the Initiative, in consultation with the Interagency Working Group and the Chair of the Commission established under section 3 of this order, may develop and submit to the President recommendations designed to advance and promote educational opportunities and attainment for Hispanics, including recommendations for short- and long-term initiatives.
+
+(e) <i>Collaboration Among White House Initiatives</i>. The White House Initiatives on Educational Excellence for Hispanics, Historically Black Colleges and Universities, Tribal Colleges and Universities, and Asian-American and Pacific Islanders shall work together whenever appropriate in light of their shared objectives.
+
+Sec. 3. <i>President's Advisory Commission on Educational Excellence for Hispanics</i>. There is established the President's Advisory Commission on Educational Excellence for Hispanics (Commission) in the Department.
+
+(a) <i>Commission Mission and Scope</i>. The Commission shall advise the President and the Secretary on matters pertaining to the educational attainment of the Hispanic community, including:
+
+(1) developing, implementing, and coordinating educational programs and initiatives at the Department and other agencies to improve educational opportunities and outcomes for Hispanics of all ages;
+
+(2) increasing the participation of the Hispanic community and Hispanic-Serving Institutions in the Department's programs and in education programs at other agencies;
+
+(3) engaging the philanthropic, business, nonprofit, and education communities in a national dialogue regarding the mission and objectives of this order; and
+
+(4) establishing partnerships with public, private, philanthropic, and nonprofit stakeholders to meet the mission and policy objectives of this order.
+
+The Commission shall meet periodically, but at least twice a year, and may work through task forces composed exclusively of Commission members, as appropriate.
+
+(b) <i>Commission Membership and Chair.</i>
+
+(1) The Commission shall consist of no more than 30 members appointed by the President. The Commission may include individuals with relevant experience or subject matter expertise that the President deems appropriate, as well as individuals who may serve as representatives of a variety of sectors, including the education sector (early childhood education, elementary and secondary education, higher education, career and technical education, and adult education), labor organizations, research institutions, corporate and financial institutions, public and private philanthropic organizations, and nonprofit and community-based organizations at the national, State, regional, or local levels.
+
+(2) The President shall designate one of the members to serve as Chair of the Commission, who shall work with the Initiative's Executive Director to convene regular meetings of the Commission, determine its agenda, and direct its work, consistent with this order.
+
+(c) <i>Commission Administration</i>. The Executive Director of the Initiative shall also serve as the Executive Director of the Commission and administer the work of the Commission. The Department shall provide funding and administrative support for the Commission, to the extent permitted by law. Members of the Commission shall serve without compensation but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707). Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (Act), may apply to the administration of the Commission, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Secretary, in accordance with the guidelines issued by the Administrator of General Services.
+
+Sec. 4. <i>General Provisions.</i>
+
+(a) This order supersedes Executive Order 13230 of October 12, 2001.
+
+(b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of President's Advisory Commission on Educational Excellence for Hispanic Americans
 
@@ -88,5 +122,5 @@ Term of President's Advisory Commission on Educational Excellence for Hispanic A
 
 Term of President's Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of President's Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of President's Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under section14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

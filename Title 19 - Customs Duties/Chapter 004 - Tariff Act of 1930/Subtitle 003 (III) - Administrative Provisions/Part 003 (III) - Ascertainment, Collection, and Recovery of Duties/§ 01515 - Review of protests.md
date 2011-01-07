@@ -26,19 +26,19 @@ Provisions for transmission of the invoice, papers, and exhibits to the board of
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–429 substituted “concurrent with or” for “after ninety days” in first sentence.
+<b>2004</b>—Subsec. (b). Pub. L. 108–429 substituted “concurrent with or” for “after ninety days” in first sentence.
 
-1999—Subsec. (a). Pub. L. 106–36 inserted after third sentence “Within 30 days from the date an application for further review is filed, the appropriate customs officer shall allow or deny the application and, if allowed, the protest shall be forwarded to the customs officer who will be conducting the further review.”
+<b>1999</b>—Subsec. (a). Pub. L. 106–36 inserted after third sentence “Within 30 days from the date an application for further review is filed, the appropriate customs officer shall allow or deny the application and, if allowed, the protest shall be forwarded to the customs officer who will be conducting the further review.”
 
-1996—Subsec. (d). Pub. L. 104–295 substituted “port director” for “district director”.
+<b>1996</b>—Subsec. (d). Pub. L. 104–295 substituted “port director” for “district director”.
 
-1993—Subsecs. (c) and (d). Pub. L. 103–182 added subsecs. (c) and (d).
+<b>1993</b>—Subsecs. (c) and (d). Pub. L. 103–182 added subsecs. (c) and (d).
 
-1980—Subsec. (b). Pub. L. 96–417 substituted reference to section “1581” for “1582” of title 28.
+<b>1980</b>—Subsec. (b). Pub. L. 96–417 substituted reference to section “1581” for “1582” of title 28.
 
-1979—Subsec. (a). Pub. L. 96–39 required that notice of denial include a statement of reasons for denial, as well as a statement informing protesting party of his right to file a civil action contesting denial of a protest under section 1514 of this title.
+<b>1979</b>—Subsec. (a). Pub. L. 96–39 required that notice of denial include a statement of reasons for denial, as well as a statement informing protesting party of his right to file a civil action contesting denial of a protest under section 1514 of this title.
 
-1970—Pub. L. 91–271 designating existing provisions as subsec. (a), substituted provisions authorizing review by appropriate customs officer for provisions authorizing review by collector and revised such review procedures, and added subsec. (b).
+<b>1970</b>—Pub. L. 91–271 designating existing provisions as subsec. (a), substituted provisions authorizing review by appropriate customs officer for provisions authorizing review by collector and revised such review procedures, and added subsec. (b).
 
 #### Effective Date of 2004 Amendment
 

@@ -42,7 +42,7 @@ The Secretary shall carry out a program of canceling the obligation to repay a q
 
 &emsp;&emsp;&emsp;(ii) whose qualifying employment for purposes of such subsection is as a special education teacher whose primary responsibility is to provide special education to children with disabilities (as those terms are defined in section 1401 of this title); and
 
-&emsp;&emsp;&emsp;(iii) who, as certified by the chief administrative officer of the public or non-profit private elementary school or secondary school in which the borrower is employed, or, in the case of a teacher who is employed by an educational service agency, as certified by the chief administrative officer of such agency, is teaching children with disabilities that correspond with the borrower's special education training and has demonstrated knowledge and teaching skills in the content areas of the elementary school or secondary school curriculum that the borrower is teaching.
+&emsp;&emsp;&emsp;(iii) who, as certified by the chief administrative officer of the public or non-profit private elementary school or secondary school in which the borrower is employed, or, in the case of a teacher who is employed by an educational service agency, as certified by the chief administrative officer of such agency, is teaching childrenwith disabilities that correspond with the borrower's special education training and has demonstrated knowledge and teaching skills in the content areas of the elementary school or secondary school curriculum that the borrower is teaching.
 
 #### (d) Regulations
 
@@ -96,11 +96,11 @@ A prior section 1087j, Pub. L. 89–329, title IV, §459A, as added Pub. L. 102�
 
 #### Amendments
 
-2009—Subsec. (c)(1). Pub. L. 111–39, §404(b)(4)(A), inserted at end “No borrower may receive a reduction of loan obligations under both this section and section 1078–10 of this title.”
+<b>2009</b>—Subsec. (c)(1). Pub. L. 111–39, §404(b)(4)(A), inserted at end “No borrower may receive a reduction of loan obligations under both this section and section 1078–10 of this title.”
 
 Subsec. (g)(2). Pub. L. 111–39, §404(b)(4)(B), redesignated subpars. (B) to (D) as (A) to (C), respectively, substituted “12601” for “12571” in subpar. (C), and struck out former subpar. (A) which read as follows: “section 1078–10 of this title;”.
 
-2008—Subsec. (b). Pub. L. 110–315, §454(c), struck out “(1) In general” before “The Secretary shall”, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and cls. (i) and (ii) of former subpar. (A) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and struck out par. (2). Prior to amendment, text of par. (2) read as follows: “No borrower may obtain a reduction of loan obligations under both this section and section 1078–10 of this title.”
+<b>2008</b>—Subsec. (b). Pub. L. 110–315, §454(c), struck out “(1) In general” before “The Secretary shall”, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and cls. (i) and (ii) of former subpar. (A) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and struck out par. (2). Prior to amendment, text of par. (2) read as follows: “No borrower may obtain a reduction of loan obligations under both this section and section 1078–10 of this title.”
 
 Subsec. (b)(1)(A)(i). Pub. L. 110–315, §454(a)(1), inserted “or location” after “a school” and “or locations” after “such schools”.
 
@@ -114,11 +114,11 @@ Subsec. (g)(2). Pub. L. 110–315, §454(b), amended par. (2) generally. Prior t
 
 Subsec. (g)(3). Pub. L. 110–315, §454(d)(3), substituted “subsection (b)(1)(B)” for “subsection (b)(1)(A)(ii)”.
 
-2006—Subsec. (b)(1)(A)(ii). Pub. L. 109–171, §8013(e)(2)(A), inserted “, or meets the requirements of subsection (g)(3)” after “section 7801 of this title”.
+<b>2006</b>—Subsec. (b)(1)(A)(ii). Pub. L. 109–171, §8013(e)(2)(A), inserted “, or meets the requirements of subsection (g)(3)” after “section 7801 of this title”.
 
 Subsec. (g)(3). Pub. L. 109–171, §8013(e)(2)(B), added par. (3).
 
-2004—Subsec. (b)(1)(A). Pub. L. 108–409, §3(a)(1)(B), added cl. (ii) and struck out former cls. (ii) and (iii) which read as follows:
+<b>2004</b>—Subsec. (b)(1)(A). Pub. L. 108–409, §3(a)(1)(B), added cl. (ii) and struck out former cls. (ii) and (iii) which read as follows:
 
 “(ii) if employed as a secondary school teacher, is teaching a subject area that is relevant to the borrower's academic major as certified by the chief administrative officer of the public or non-profit private secondary school in which the borrower is employed; and
 

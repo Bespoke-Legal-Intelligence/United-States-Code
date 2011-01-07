@@ -48,11 +48,11 @@ Duties and Powers.—When carrying out subsection (a) of this section, the Admin
 
 &emsp;(2) consider the reasonable probable future use of the underlying land in making an award for a condemnation of an interest in airspace;
 
-&emsp;(3) construct, or acquire an interest in, a public building (as defined in section 3301(a) of title 40) only under a delegation of authority from the Administrator of General Services;
+&emsp;(3) construct, or acquire an interest in, a public building (as defined in section 3301(a) oftitle 40) only under a delegation of authority from the Administrator of General Services;
 
 &emsp;(4) use procedures other than competitive procedures only when the property or services needed by the Administrator of the Federal Aviation Administration are available from only one responsible source or only from a limited number of responsible sources and no other type of property or services will satisfy the needs of the Administrator; and
 
-&emsp;(5) dispose of property under subsection (a)(2) of this section, except for airport andairway property and technical equipment used for the special purposes of the Administration, only under sections 121, 123, and 126 and chapter 5 of title 40.
+&emsp;(5) dispose of property under subsection (a)(2) of this section, except for airport and airway property and technical equipment used for the special purposes of the Administration, only under sections 121, 123, and 126 and chapter 5 of title 40.
 
 (d)
 
@@ -70,11 +70,11 @@ In general.—In consultation with such non-governmental experts in acquisition 
 
 Applicability of federal acquisition law.—The following provisions of Federal acquisition law shall not apply to the new acquisition management system developed and implemented pursuant to paragraph (1):
 
-&emsp;&emsp;(A) Title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252–266).
+&emsp;&emsp;(A) Division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
-&emsp;&emsp;(B) The Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.).
+&emsp;&emsp;(B) Division B (except sections 1704 and 2303) of subtitle I of title 41.
 
-&emsp;&emsp;(C) The Federal Acquisition Streamlining Act of 1994 (Public Law 103–355), except for section 315 (41 U.S.C. 265). For the purpose of applying section 315 of that Act to the system, the term “executive agency” is deemed to refer to the Federal Aviation Administration.
+&emsp;&emsp;(C) The Federal Acquisition Streamlining Act of 1994 (Public Law 103–355). However, section 4705 of title 41 shall apply to the new acquisition management system developed and implemented pursuant to paragraph (1). For the purpose of applying section 4705 of title 41 to the system, the term “executive agency” is deemed to refer to the Federal Aviation Administration.
 
 &emsp;&emsp;(D) The Small Business Act (15 U.S.C. 631 et seq.), except that all reasonable opportunities to be awarded contracts shall be provided to small business concerns and small business concerns owned and controlled by socially and economically disadvantaged individuals.
 
@@ -86,15 +86,15 @@ Applicability of federal acquisition law.—The following provisions of Federal 
 
 &emsp;(3)
 
-Certain provisions of the office of federal procurement policy act.—Notwithstanding paragraph (2)(B), section 27 of the Office of Federal Procurement Policy Act (41 U.S.C. 423) shall apply to the new acquisition management system developed and implemented under paragraph (1) with the following modifications:
+Certain provisions of division b (except sections 1704 and 2303) of subtitle i of title 41.—Notwithstanding paragraph (2)(B), chapter 21 of title 41 shall apply to the new acquisition management system developed and implemented under paragraph (1) with the following modifications:
 
-&emsp;&emsp;(A) Subsections (f) and (g) shall not apply.
+&emsp;&emsp;(A) Sections 2101 and 2106 of title 41 shall not apply.
 
-&emsp;&emsp;(B) Within 90 days after the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, the Administrator shall adopt definitions for the acquisition management system that are consistent with the purpose and intent of the Office of Federal Procurement Policy Act.
+&emsp;&emsp;(B) Within 90 days after the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, the Administrator shall adopt definitions for the acquisition management system that are consistent with the purpose and intent of the Office of Federal Procurement Policy Act.<sup>1</sup>
 
-&emsp;&emsp;(C) After the adoption of those definitions, the criminal, civil, and administrative remedies provided under the Office of Federal Procurement Policy Act apply to the acquisition management system.
+&emsp;&emsp;(C) After the adoption of those definitions, the criminal, civil, and administrative remedies provided under the Office of Federal Procurement Policy Act <sup>1</sup> apply to the acquisition management system.
 
-&emsp;&emsp;(D) In the administration of the acquisition management system, the Administrator may take adverse personnel action under section 27(e)(3)(A)(iv) of the Office of Federal Procurement Policy Act in accordance with the procedures contained in the Administration's personnel management system.
+&emsp;&emsp;(D) In the administration of the acquisition management system, the Administrator may take adverse personnel action under section 27(e)(3)(A)(iv) of the Office of Federal Procurement Policy Act <sup>1</sup> in accordance with the procedures contained in the Administration's personnel management system.
 
 &emsp;(4)
 
@@ -116,7 +116,7 @@ Exception.—Paragraph (1) shall not apply to any portion of a proposal of an of
 
 Proposal defined.—In this subsection, the term “proposal” means information contained in or originating from any proposal, including a technical, management, or cost proposal, submitted by an offeror in response to the requirements of a solicitation for a competitive proposal.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1106; Pub. L. 103–429, §6(48), (80), Oct. 31, 1994, 108 Stat. 4384, 4388; Pub. L. 104–264, title XII, §1201, Oct. 9, 1996, 110 Stat. 3279; Pub. L. 106–181, title III, §307(b), title VII, §703, Apr. 5, 2000, 114 Stat. 125, 156; Pub. L. 107–217, §3(n)(5), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 108–176, title II, §§222, 224(a), (b), Dec. 12, 2003, 117 Stat. 2527; Pub. L. 108–178, §4(k), Dec. 15, 2003, 117 Stat. 2642.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1106; Pub. L. 103–429, §6(48), (80), Oct. 31, 1994, 108 Stat. 4384, 4388; Pub. L. 104–264, title XII, §1201, Oct. 9,1996, 110 Stat. 3279; Pub. L. 106–181, title III, §307(b), title VII, §703, Apr. 5, 2000, 114 Stat. 125, 156; Pub. L. 107–217, §3(n)(5), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 108–176, title II, §§222, 224(a), (b), Dec. 12, 2003, 117 Stat. 2527; Pub. L. 108–178, §4(k), Dec. 15, 2003, 117 Stat. 2642; Pub. L. 111–350, §5(<i>o</i>)(7), Jan. 4, 2011, 124 Stat. 3853.)
 
 Historical and Revision Notes
 
@@ -184,25 +184,33 @@ This amends 49:40110(a) to clarify the restatement of 49 App.:1344(a)(1)–(3) b
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d)(2)(A), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
+The Office of Federal Procurement Policy Act, referred to in subsec. (d)(3)(B), (C), is Pub. L. 93–400, Aug. 30, 1974, 88 Stat. 796, which was classified principally to chapter 7 (§401 et seq.) of former Title 41, Public Contracts, and was substantially repealed and restated in division B (§1101 et seq.) of subtitle I of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Section 27(e)(3)(A)(iv) of the Act was repealed and restated as section 2105(c)(1)(D) of Title 41. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
-The Office of Federal Procurement Policy Act, referred to in subsec. (d)(2)(B), (3)(B), (C), is Pub. L. 93–400, Aug. 30, 1974, 88 Stat. 796, as amended, which is classified principally to chapter 7 (§401 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 41 and Tables.
-
-The Federal Acquisition Streamlining Act of 1994, referred to in subsec. (d)(2)(C), is Pub. L. 103–355, Oct. 13, 1994, 108 Stat. 3243. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 251 of Title 41, Public Contracts, and Tables.
+The Federal Acquisition Streamlining Act of 1994, referred to in subsec. (d)(2)(C), is Pub. L. 103–355, Oct. 13, 1994, 108 Stat. 3243. For complete classification of this Act to the Code, see Short Title of 1994 Act note set out under section 101 of Title 41, Public Contracts, and Tables.
 
 The Small Business Act, referred to in subsec. (d)(2)(D), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
-The Competition in Contracting Act, referred to in subsec. (d)(2)(E), probably means the Competition in Contracting Act of 1984, which is title VII of Pub. L. 98–369, div. B, July 18, 1984, 98 Stat. 1175. For complete classification of this Act to the Code, see Short Title of 1984 Amendments note set out under section 251 of Title 41, Public Contracts, and Tables.
+The Competition in Contracting Act, referred to in subsec. (d)(2)(E), probably means the Competition in Contracting Act of 1984, which is title VII of Pub. L. 98–369, div. B, July 18, 1984, 98 Stat. 1175. For complete classification of this Act to the Code, see Short Title of 1984 Act note set out under section 101 of Title 41, Public Contracts, and Tables.
 
 The date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, referred to in subsec. (d)(3)(B), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
 
 #### Amendments
 
-2003—Subsec. (c). Pub. L. 108–176, §224(a), struck out par. (1), which related to the senior procurement executive, par. (2) designation before “may—”, and subpar. (D) of par. (2), which related to use procedures other than competitive procedures, redesignated subpars. (A), (B), (C), (E), and (F) of par. (2) as pars. (1) to (5), respectively, and realigned margins.
+<b>2011</b>—Subsec. (d)(2)(A). Pub. L. 111–350, §5(<i>o</i>)(7)(A), substituted “Division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “Title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252–266)”.
+
+Subsec. (d)(2)(B). Pub. L. 111–350, §5(<i>o</i>)(7)(B), substituted “Division B (except sections 1704 and 2303) of subtitle I of title 41” for “The Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.)”.
+
+Subsec. (d)(2)(C). Pub. L. 111–350, §5(<i>o</i>)(7)(C), substituted “(Public Law 103–355). However, section 4705 of title 41 shall apply to the new acquisition management system developed and implemented pursuant to paragraph (1). For the purpose of applying section 4705 of title 41 to the system,” for “(Public Law 103–355), except for section 315 (41 U.S.C. 265). For the purpose of applying section 315 of that Act to the system,”.
+
+Subsec. (d)(3). Pub. L. 111–350, §5(<i>o</i>)(7)(D)(i), (ii), substituted “division b (except sections 1704 and 2303) of subtitle i of title 41” for “the office of federal procurement policy act” in heading and “chapter 21 of title 41” for “section 27 of the Office of Federal Procurement Policy Act (41 U.S.C. 423)” in text.
+
+Subsec. (d)(3)(A). Pub. L. 111–350, §5(<i>o</i>)(7)(D)(iii), substituted “Sections 2101 and 2106 of title 41” for “Subsections (f) and (g)”.
+
+<b>2003</b>—Subsec. (c). Pub. L. 108–176, §224(a), struck out par. (1), which related to the senior procurement executive, par. (2) designation before “may—”, and subpar. (D) of par. (2), which related to use procedures other than competitive procedures, redesignated subpars. (A), (B), (C), (E), and (F) of par. (2) as pars. (1) to (5), respectively, and realigned margins.
 
 Subsec. (d)(1). Pub. L. 108–176, §224(b)(1), struck out “, not later than January 1, 1996,” after “shall develop and implement”, substituted “provides for—” for “provides for more timely and cost-effective acquisitions of equipment and materials.”, and added subpars. (A) and (B).
 
-Subsec. (d)(2)(C). Pub. L. 108–176, §222, substituted “(Public Law 103–355), except for section 315 (41 U.S.C. 265). For the purpose of applying section 315 of that Act to the system, the term ‘executive agency’ is deemed to refer to the Federal Aviation Administration.” for “(Public Law 103–355).”
+Subsec. (d)(2)(C). Pub. L. 108–176, §222, substituted “(Public Law 103–355), except for section 315 (41 U.S.C. 265). For the purpose of applying section 315 of that Act to the system, the term ‘executive agency’ is deemed torefer to the Federal Aviation Administration.” for “(Public Law 103–355).”
 
 Subsec. (d)(2)(G). Pub. L. 108–178, §4(k)(3), substituted “subparagraphs (A) through (F)” for “subparagraphs (A) through (G)”.
 
@@ -212,15 +220,15 @@ Subsec. (d)(2)(H). Pub. L. 108–178, §4(k)(2), redesignated subpar. (H) as (G)
 
 Subsec. (d)(4). Pub. L. 108–176, §224(b)(2), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “This subsection shall take effect on April 1, 1996.”
 
-2002—Subsec. (c)(2)(C). Pub. L. 107–217, §3(n)(5)(A), substituted “(as defined in section 3301(a) of title 40)” for “(as defined in section 13 of the Public Buildings Act of 1959 (40 U.S.C. 612))”.
+<b>2002</b>—Subsec. (c)(2)(C). Pub. L. 107–217, §3(n)(5)(A), substituted “(as defined in section 3301(a) of title 40)” for “(as defined in section 13 of the Public Buildings Act of 1959 (40 U.S.C. 612))”.
 
 Subsec. (c)(2)(F). Pub. L. 107–217, §3(n)(5)(B), substituted “sections 121, 123, and 126 and chapter 5 of title 40” for “title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.)”.
 
-2000—Subsecs. (d), (e). Pub. L. 106–181 added subsecs. (d) and (e).
+<b>2000</b>—Subsecs. (d), (e). Pub. L. 106–181 added subsecs. (d) and (e).
 
-1996—Subsecs. (b), (c). Pub. L. 104–264 added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>1996</b>—Subsecs. (b), (c). Pub. L. 104–264 added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1994—Subsec. (a). Pub. L. 103–429, §6(48), in introductory provisions, struck out “may” after “Administration”, in par. (1), struck out “acquire,” before “to the extent” and substituted “may acquire services or, by condemnation or otherwise,” for “services or”, and in pars. (2) and (3), inserted “may” after par. designation.
+<b>1994</b>—Subsec. (a). Pub. L. 103–429, §6(48), in introductory provisions, struck out “may” after “Administration”, in par. (1), struck out “acquire,” before “to the extent” and substituted “may acquire services or, by condemnation or otherwise,” for “services or”, and in pars. (2) and (3), inserted “may” after par. designation.
 
 Subsec. (b)(2)(A). Pub. L. 103–429, §6(80), inserted “notwithstanding section 1341(a)(1) of title 31,” before “lease”.
 
@@ -290,7 +298,7 @@ Pilot Program Implementation.—(1) The Secretary of Transportation should presc
 
 “(2) Not later than 45 days after the date of enactment of this Act \[Oct. 13, 1994\], the Secretary of Transportation shall identify for the pilot program quantitative measures and goals for reducing acquisition management costs.
 
-“(3) The Secretary of Transportation shall establish for the pilot program a review process that provides senior acquisition officials with reports on the minimum necessary data items required to ensure the appropriate expenditure of funds appropriated for the program and that—
+“(3) The Secretary of Transportation shall establish for the pilot program a review process that providessenior acquisition officials with reports on the minimum necessary data items required to ensure the appropriate expenditure of funds appropriated for the program and that—
 
 &emsp;“(A) contain essential information on program results at appropriate intervals, including the criteria to be used in measuring the success of the program; and
 
@@ -354,23 +362,23 @@ Waiver of Procurement Regulations.—(1) In conducting the test under this secti
 
 &emsp;“(B) The following provisions of the Federal Property and Administrative Services Act of 1949:
 
-&emsp;&emsp;“(i) Section 303 (41 U.S.C. 253).
+&emsp;&emsp;“(i) Section 303 (\[former\] 41 U.S.C. 253) \[see 41 U.S.C. 3105, 3301, 3303 to 3305\].
 
-&emsp;&emsp;“(ii) Section 303A (41 U.S.C. 253a).
+&emsp;&emsp;“(ii) Section 303A (\[former\] 41 U.S.C. 253a) \[see 41 U.S.C. 3306\].
 
-&emsp;&emsp;“(iii) Section 303B (41 U.S.C. 253b).
+&emsp;&emsp;“(iii) Section 303B (\[former\] 41 U.S.C. 253b) \[now 41 U.S.C. 3308, 3701 to 3708, 4702\].
 
-&emsp;&emsp;“(iv) Section 303C (41 U.S.C. 253c).
+&emsp;&emsp;“(iv) Section 303C \[former\] (41 U.S.C. 253c) \[now 41 U.S.C. 3311\].
 
 &emsp;“(C) The following provisions of the Office of Federal Procurement Policy Act:
 
-&emsp;&emsp;“(i) Section 4(6) (41 U.S.C. 403(6)).
+&emsp;&emsp;“(i) Section 4(6) (\[former\] 41 U.S.C. 403(6)) \[see 41 U.S.C. 107\].
 
-&emsp;&emsp;“(ii) Section 18 (41 U.S.C. 416).
+&emsp;&emsp;“(ii) Section 18 (\[former\] 41 U.S.C. 416) \[see 41 U.S.C. 1708\].
 
 “(g)
 
-Definition.—In this section, the term ‘commercial item’ has the meaning provided that term in section 4(12) of the Office of Federal Procurement Policy Act \[41 U.S.C. 403(12)\].
+Definition.—In this section, the term ‘commercial item’ has the meaning provided that term in section 4(12) of the Office of Federal Procurement Policy Act \[see 41 U.S.C. 103\].
 
 “(h)
 
@@ -379,4 +387,6 @@ Expiration of Authority.—The authority to conduct the test under subsection (a
 “(i)
 
 Rule of Construction.—Nothing in this section shall be construed as authorizing the appropriation or obligation of funds for the test conducted pursuant to subsection (a).”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

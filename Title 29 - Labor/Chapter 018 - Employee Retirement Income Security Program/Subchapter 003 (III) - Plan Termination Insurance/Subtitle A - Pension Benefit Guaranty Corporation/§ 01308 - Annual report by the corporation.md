@@ -18,5 +18,5 @@
 
 #### Amendments
 
-2006—Pub. L. 109–280 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>2006</b>—Pub. L. 109–280 designated existing provisions as subsec. (a) and added subsec. (b).
 

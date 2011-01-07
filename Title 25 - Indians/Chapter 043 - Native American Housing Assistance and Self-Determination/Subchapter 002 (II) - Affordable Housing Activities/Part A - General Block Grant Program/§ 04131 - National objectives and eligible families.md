@@ -8,7 +8,7 @@ The national objectives of this chapter are—
 
 &emsp;(2) to ensure better access to private mortgage markets for Indian tribes and their members and to promote self-sufficiency of Indian tribes and their members;
 
-&emsp;(3) to coordinate activities to provide housing for Indian tribes and their members with Federal, State, and local activities to further economic and community development for Indian tribes and their members;
+&emsp;(3) to coordinate activities to provide housing for Indian tribes and their members withFederal, State, and local activities to further economic and community development for Indian tribes and their members;
 
 &emsp;(4) to plan for and integrate infrastructure resources for Indian tribes with housing development for tribes; and
 
@@ -70,7 +70,7 @@ The Civil Rights Act of 1968, referred to in subsec. (b)(6), is Pub. L. 90–284
 
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–411, §201(1), inserted “and except with respect to loan guarantees under the demonstration program under subchapter VI,” after “paragraphs (2) and (4),”.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–411, §201(1), inserted “and except with respect to loan guarantees under the demonstration program under subchapter VI,” after “paragraphs (2) and (4),”.
 
 Subsec. (b)(2). Pub. L. 110–411, §201(2), added subpar. (A), designated second sentence as subpar. (B) and inserted heading, and struck out former first sentence which read as follows: “A recipient may provide assistance for homeownership activities under section 4132(2) of this title, model activities under section 4132(6) of this title, or loan guarantee activities under subchapter VI of this chapter to Indian families who are not low-income families, to the extent that the Secretary approves the activities pursuant to such section or subchapter because there is a need for housing for such families that cannot reasonably be met without such assistance.”
 
@@ -78,7 +78,7 @@ Subsec. (b)(3). Pub. L. 110–411, §201(3), substituted “Essential” for “
 
 Subsec. (b)(4)(A)(i). Pub. L. 110–411, §201(4), inserted “or other unit of local government,” after “county,”.
 
-2000—Subsec. (b)(1). Pub. L. 106–568, §1003(e)(1), substituted “paragraphs (2) and (4)” for “paragraph (2)”.
+<b>2000</b>—Subsec. (b)(1). Pub. L. 106–568, §1003(e)(1), substituted “paragraphs (2) and (4)” for “paragraph (2)”.
 
 Subsec. (b)(4). Pub. L. 106–568, §1003(e)(3), added par. (4). Former par. (4) redesignated (5).
 
@@ -92,7 +92,7 @@ Subsec. (b)(6). Pub. L. 106–568, §1003(e)(2), redesignated par. (5), relating
 
 Pub. L. 106–377, §1(a)(1) \[title II, §210(1)\], redesignated par. (5), relating to exemption, as (6).
 
-1998—Subsec. (b)(5). Pub. L. 105–276 substituted “federally recognized tribes and the tribally designated housing entities of those tribes” for “Indian tribes” and “chapter” for “subsection”.
+<b>1998</b>—Subsec. (b)(5). Pub. L. 105–276 substituted “federally recognized tribes and the tribally designated housing entities of those tribes” for “Indian tribes” and “chapter” for “subsection”.
 
 #### Effective Date
 

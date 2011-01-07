@@ -6,7 +6,7 @@ The Secretary of the Interior (hereinafter referred to as the Secretary) is auth
 
 #### Amendments
 
-1984—Pub. L. 98–540 restricted the activities of volunteers except in the case of skilled individuals.
+<b>1984</b>—Pub. L. 98–540 restricted the activities of volunteers except in the case of skilled individuals.
 
 #### Short Title
 

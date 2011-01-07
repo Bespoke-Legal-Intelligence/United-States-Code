@@ -20,7 +20,7 @@ For the purpose of keeping to a minimum the cost to the United States, the Secre
 
 #### Amendments
 
-1981—Subsec. (b). Pub. L. 97–35 inserted provision limiting amount of appropriations for fiscal years 1982 and 1983.
+<b>1981</b>—Subsec. (b). Pub. L. 97–35 inserted provision limiting amount of appropriations for fiscal years 1982 and 1983.
 
 #### Effective Date of 1981 Amendment
 

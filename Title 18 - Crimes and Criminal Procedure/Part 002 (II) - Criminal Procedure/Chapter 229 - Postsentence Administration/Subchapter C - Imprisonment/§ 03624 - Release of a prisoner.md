@@ -98,11 +98,11 @@ For a prior section 3624, applicable to offenses committed prior to Nov. 1, 1987
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–199 amended subsec. (c) generally. Prior to amendment, text read as follows: “The Bureau of Prisons shall, to the extent practicable, assure that a prisoner serving a term of imprisonment spends a reasonable part, not to exceed six months, of the last 10 per centum of the term to be served under conditions that will afford the prisoner a reasonable opportunity to adjust to and prepare for the prisoner's re-entry into the community. The authority provided by this subsection may be used to place a prisoner in home confinement. The United States Probation System shall, to the extent practicable, offer assistance to a prisoner during such pre-release custody.”
+<b>2008</b>—Subsec. (c). Pub. L. 110–199 amended subsec. (c) generally. Prior to amendment, text read as follows: “The Bureau of Prisons shall, to the extent practicable, assure that a prisoner serving a term of imprisonment spends a reasonable part, not to exceed six months, of the last 10 per centum of the term to be served under conditions that will afford the prisoner a reasonable opportunity to adjust to and prepare for the prisoner's re-entry into the community. The authority provided by this subsection may be used to place a prisoner in home confinement. The United States Probation System shall, to the extent practicable, offer assistance to a prisoner during such pre-release custody.”
 
 Subsec. (e). Pub. L. 110–177 substituted “Upon the release of a prisoner by the Bureau of Prisons to supervised release, the Bureau of Prisons shall notify such prisoner, verbally and in writing, of the requirement that the prisoner adhere to an installment schedule, not to exceed 2 years except in special circumstances, to pay for any fine imposed for the offense committed by such prisoner, and of the consequences of failure to pay such fines under sections 3611 through 3614 of this title.” for “No prisoner shall be released on supervision unless such prisoner agrees to adhere to an installment schedule, not to exceed two years except in special circumstances, to pay for any fine imposed for the offense committed by such prisoner.”
 
-1996—Subsec. (b)(1). Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(A)\], struck out at beginning “A prisoner (other than a prisoner serving a sentence for a crime of violence) who is serving a term of imprisonment of more than one year, other than a term of imprisonment for the duration of the prisoner's life, shall receive credit toward the service of the prisoner's sentence, beyond the time served, of fifty-four days at the end of each year of the prisoner's term of imprisonment, beginning at the end of the first year of the term, unless the Bureau of Prisons determines that, during that year, the prisoner has not satisfactorily complied with such institutional disciplinary regulations as have been approved by the Attorney General and issued to the prisoner.”
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(A)\], struck out at beginning “A prisoner (other than a prisoner serving a sentence for a crime of violence) who is serving a term of imprisonment of more than one year, other than a term of imprisonment for the duration of the prisoner's life, shall receive credit toward the service of the prisoner's sentence, beyond the time served, of fifty-four days at the end of each year of the prisoner's term of imprisonment, beginning at the end of the first year of the term, unless the Bureau of Prisons determines that, during that year, the prisoner has not satisfactorily complied with such institutional disciplinary regulations as have been approved by the Attorney General and issued to the prisoner.”
 
 Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(B)\], in second sentence substituted “Subject to paragraph (2), a prisoner” for “A prisoner”, struck out “for a crime of violence,” after “1 year”, and struck out “such” after “compliance with”.
 
@@ -114,9 +114,9 @@ Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(E)\], in sixth sentenc
 
 Subsec. (b)(2). Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(2)\], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Credit toward a prisoner's service of sentence shall not be vested unless the prisoner has earned or is making satisfactory progress toward a high school diploma or an equivalent degree.”
 
-1995—Subsec. (f)(6). Pub. L. 104–66 struck out par. (6) which read as follows: “A report shall be provided to Congress on an annual basis summarizing the results of this program, including the number of inmate participants, the number successfully completing the program, the number who do not successfully complete the program, and the reasons for failure to successfully complete the program.”
+<b>1995</b>—Subsec. (f)(6). Pub. L. 104–66 struck out par. (6) which read as follows: “A report shall be provided to Congress on an annual basis summarizing the results of this program, including the number of inmate participants, the number successfully completing the program, the number who do not successfully complete the program, and the reasons for failure to successfully complete the program.”
 
-1994—Subsec. (a). Pub. L. 103–322, §20405(2), substituted “the prisoner's” for “his” after “the expiration of” and “toward the service of”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §20405(2), substituted “the prisoner's” for “his” after “the expiration of” and “toward the service of”.
 
 Subsec. (b). Pub. L. 103–322, §20412(1), (2), designated existing provisions as par. (1), substituted “Credit that has not been earned may not later be granted.” for “Such credit toward service of sentence vests at the time that it is received. Credit that has vested may not later be withdrawn, and credit that has not been earned may not later be granted.”, and added pars. (2) to (4).
 
@@ -126,11 +126,11 @@ Subsec. (c). Pub. L. 103–322, §20405(2), substituted “the prisoner's re-ent
 
 Subsec. (d). Pub. L. 103–322, §20405(2), (3), substituted “the prisoner” for “him” in introductory provisions and “the prisoner's” for “his” wherever appearing in introductory provisions and par. (3).
 
-1990—Subsec. (c). Pub. L. 101–647, §2902(a), inserted after first sentence “The authority provided by this subsection may be used to place a prisoner in home confinement.”
+<b>1990</b>—Subsec. (c). Pub. L. 101–647, §2902(a), inserted after first sentence “The authority provided by this subsection may be used to place a prisoner in home confinement.”
 
 Subsec. (f). Pub. L. 101–647, §2904, added subsec. (f).
 
-1986—Subsec. (b). Pub. L. 99–646, §16(a), substituted “beginning at the end of” for “beginning after”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–646, §16(a), substituted “beginning at the end of” for “beginning after”.
 
 Subsec. (e). Pub. L. 99–646, §17(a), substituted “imprisonment and runs concurrently” for “imprisonment. The term runs concurrently” and “supervised released. A term of supervised release does not run” for “supervised release, except that it does not run”, struck out “, other than during limited intervals as a condition of probation or supervised release,” after “person is imprisoned”, and inserted “unless the imprisonment is for a period of less than 30 consecutive days” before the period at end of third sentence.
 

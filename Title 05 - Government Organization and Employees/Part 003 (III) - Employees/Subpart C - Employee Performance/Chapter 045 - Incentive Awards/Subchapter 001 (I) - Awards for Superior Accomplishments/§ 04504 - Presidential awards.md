@@ -86,7 +86,7 @@ Sec. 2. (a) The President's Award for Distinguished Federal Civilian Service sha
 
 (4) Long and distinguished career service.
 
-(b) The importance of the achievements to the Government and to the public interest shall be so outstanding that the officer or employee is deserving of greater public recognition than that which can be accorded by the head of the department or agency in which he is employed. Generally, not more than five awards shall be made in any one year. Presentation of the award shall be made at such times as the President may determine.
+(b) The importance of the achievements to the Government and to the public interest shall be so outstanding that the officer or employee is deserving of greaterpublic recognition than that which can be accorded by the head of the department or agency in which he is employed. Generally, not more than five awards shall be made in any one year. Presentation of the award shall be made at such times as the President may determine.
 
 Sec. 3. The Director of the Office of Personnel Management shall advise and assist the President in selecting persons to receive this award. In performing this function, the Director shall carefully review nominations submitted pursuant to the provisions of Section 4 of this Order and decide which of them, if any, warrant presentation to the President. The Director shall thereupon transmit to the President the names of those persons who, in the opinion of the Director, merit the award, together with a statement of the reasons therefor. Recipients for the award shall be selected by the President.
 

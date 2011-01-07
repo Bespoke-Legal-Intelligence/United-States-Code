@@ -26,7 +26,7 @@ Section 8E as established by section 8E(a)(2) of the Inspector General Act Amend
 
 The National Energy Conservation Policy Act, referred to in subsecs. (a)(1) and (c), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206, as amended. Part 3 of title V of the Act is classified generally to part B (§8251 et seq.) of subchapter III of chapter 91 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of this title and Tables.
 
-This subtitle, referred to in subsec. (c), is subtitle F (§§151–168) of title I of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2843, which enacted this section and sections8258a, 8258b, 8262a to 8262k of this title, amended sections 8252 to 8256, 8258, 8259, 8287, and 8287c of this title and section 490 of former Title 40, Public Buildings, Property, and Works, enacted provisions set out as notes under section 8262h of this title and former section 1815 of Title 2, The Congress, and repealed provisions set out as a note under section 8253 of this title. For complete classification of subtitle F to the Code, see Tables.
+This subtitle, referred to in subsec. (c), is subtitle F (§§151–168) of title I of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2843, which enacted this section and sections 8258a, 8258b, 8262a to 8262k of this title, amended sections 8252 to 8256, 8258, 8259, 8287, and 8287c of this title and section 490 of former Title 40, Public Buildings, Property, and Works, enacted provisions set out as notes under section 8262h of this title and former section 1815 of Title 2, The Congress, and repealed provisions set out as a note under section 8253 of this title. For complete classification of subtitle F to the Code, see Tables.
 
 #### Codification
 

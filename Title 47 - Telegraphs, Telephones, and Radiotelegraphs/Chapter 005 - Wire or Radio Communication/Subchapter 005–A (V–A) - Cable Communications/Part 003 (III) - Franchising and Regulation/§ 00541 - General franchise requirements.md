@@ -34,7 +34,7 @@
 
 &emsp;(ii) the provisions of this subchapter shall not apply to such cable operator or affiliate for the provision of telecommunications services.
 
-(B) A franchising authority may not impose any requirement under this subchapter that hasthe purpose or effect of prohibiting, limiting, restricting, or conditioning the provision of a telecommunications service by a cable operator or an affiliate thereof.
+(B) A franchising authority may not impose any requirement under this subchapter that has the purpose or effect of prohibiting, limiting, restricting, or conditioning the provision of a telecommunications service by a cable operator or an affiliate thereof.
 
 (C) A franchising authority may not order a cable operator or affiliate thereof—
 
@@ -72,11 +72,11 @@ No provision of this chapter shall be construed to—
 
 #### Amendments
 
-1996—Subsec. (b)(3). Pub. L. 104–104, §303(a), added par. (3).
+<b>1996</b>—Subsec. (b)(3). Pub. L. 104–104, §303(a), added par. (3).
 
 Subsec. (d)(3). Pub. L. 104–104, §3(d)(3), substituted “section 153” for “section 153(v)”.
 
-1992—Subsec. (a)(1). Pub. L. 102–385, §7(a)(1), inserted before period at end “; except that a franchising authority may not grant an exclusive franchise and may not unreasonably refuse to award an additional competitive franchise. Any applicant whose application for a second franchise has been denied by a final decision of the franchising authority may appeal such final decision pursuant to the provisions of section 555 of this title for failure to comply with this subsection”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–385, §7(a)(1), inserted before period at end “; except that a franchising authority may not grant an exclusive franchise and may not unreasonably refuse to award an additional competitive franchise. Any applicant whose application for a second franchise has been denied by a final decision of the franchising authority may appeal such final decision pursuant to the provisions of section 555 of this title for failure to comply with this subsection”.
 
 Subsec. (a)(4). Pub. L. 102–385, §7(b), added par. (4).
 

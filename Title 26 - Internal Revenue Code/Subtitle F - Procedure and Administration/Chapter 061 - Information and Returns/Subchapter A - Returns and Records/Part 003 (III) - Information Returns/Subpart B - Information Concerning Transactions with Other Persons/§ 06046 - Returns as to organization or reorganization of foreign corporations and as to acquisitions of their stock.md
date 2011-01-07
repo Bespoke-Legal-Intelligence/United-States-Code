@@ -52,15 +52,15 @@ No information shall be required to be furnished under this section with respect
 
 #### Amendments
 
-2007—Subsec. (b). Pub. L. 110–172 substituted “subsection (a)(1)(A)” for “subsection (a)(1)” and “subparagraph (B) or (C) of subsection (a)(1)” for “paragraph (2) or (3) of subsection (a)”.
+<b>2007</b>—Subsec. (b). Pub. L. 110–172 substituted “subsection (a)(1)(A)” for “subsection (a)(1)” and “subparagraph (B) or (C) of subsection (a)(1)” for “paragraph (2) or (3) of subsection (a)”.
 
-1997—Subsec. (a). Pub. L. 105–34 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A return complying with the requirements of subsection (b) shall be made by—
+<b>1997</b>—Subsec. (a). Pub. L. 105–34 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A return complying with the requirements of subsection (b) shall be made by—
 
 &emsp;“(1) each United States citizen or resident who is on January 1, 1963, an officer or director of a foreign corporation, 5 percent or more in value of the stock of which is owned by a United States person (as defined in section 7701(a)(30)), or who becomes such an officer or director at any time after such date,
 
 &emsp;“(2) each United States person who on January 1, 1963, owns 5 percent or more in value of the stock of a foreign corporation, or who, at any time after such date—
 
-&emsp;&emsp;“(A) acquires stock which, when added to any stock owned on January 1, 1963, has a value equalto 5 percent or more of the value of the stock of a foreign corporation, or
+&emsp;&emsp;“(A) acquires stock which, when added to any stock owned on January 1, 1963, has a value equal to 5 percent or more of the value of the stock of a foreign corporation, or
 
 &emsp;&emsp;“(B) acquires an additional 5 percent or more in value of the stock of a foreign corporation,
 
@@ -70,19 +70,19 @@ No information shall be required to be furnished under this section with respect
 
 > In the case of a foreign corporation with respect to which any person is treated as a United States shareholder under section 953(c), paragraph (1) shall be treated as including a reference to each United States person who is an officer or director of such corporation.”
 
-1988—Subsec. (a). Pub. L. 100–647, §1012(i)(19)(C), inserted sentence at end relating to foreign corporation with respect to which any person is treated as a United States shareholder under section 953(c).
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §1012(i)(19)(C), inserted sentence at end relating to foreign corporation with respect to which any person is treated as a United States shareholder under section 953(c).
 
 Subsec. (a)(3), (4). Pub. L. 100–647, §1012(i)(19)(A), added par. (3) and redesignated former par. (3) as (4).
 
 Subsec. (b). Pub. L. 100–647, §1012(i)(19)(B), substituted “paragraph (2) or (3) of subsection (a)” for “subsection (a)(2)”.
 
-1982—Subsec. (d). Pub. L. 97–248 inserted “(or on or before such later day as the Secretary may by forms or regulations prescribe)”.
+<b>1982</b>—Subsec. (d). Pub. L. 97–248 inserted “(or on or before such later day as the Secretary may by forms or regulations prescribe)”.
 
-1976—Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (e). Pub. L. 94–455, §1906(a)(4), struck out provisions relating to the requirement for information to be furnished in the case of liability to file a return under subsec. (a) of this section arising on or after Jan. 1, 1963, and before June 1, 1963, under regulations in effect on or before June 1, 1963.
 
-1962—Pub. L. 87–834 substituted “organization or reorganization of foreign corporations and as to acquisitions of their stock” for “creation or organization, or reorganization, of foreign corporations” in section catchline.
+<b>1962</b>—Pub. L. 87–834 substituted “organization or reorganization of foreign corporations and as to acquisitions of their stock” for “creation or organization, or reorganization, of foreign corporations” in section catchline.
 
 Subsec. (a). Pub. L. 87–834 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
@@ -102,7 +102,7 @@ Subsec. (c). Pub. L. 87–834 substituted provisions requiring, for purposes of 
 
 Subsecs. (d) to (f). Pub. L. 87–834 added subsecs. (d) and (e) and redesignated former subsec. (d) as (f) and inserted a reference to section 6679 of this title.
 
-1960—Pub. L. 86–780 substituted “Returns as to creation or organization, or reorganization, of foreign corporations” for “Returns as to formation or reorganization of foreign corporations” in section catchline.
+<b>1960</b>—Pub. L. 86–780 substituted “Returns as to creation or organization, or reorganization, of foreign corporations” for “Returns as to formation or reorganization of foreign corporations” in section catchline.
 
 Subsec. (a). Pub. L. 86–780 substituted requirement that returns relating to the creation, organization, or reorganization of foreign corporations be made by every citizen or resident of the United States who was an officer or director of the corporation at any time within 60 days after its creation, organization, or reorganization, and by every United States shareholder of the corporation owning at least 5 percent of its outstanding stock at any time within such 60 days for requirement that every attorney, accountant, fiduciary, bank, trust company, financial institution, or other person, who advises as to the formation or reorganization of a foreign corporation, file a return in accordance with regulations prescribed by the Secretary of the Treasury or his delegate.
 

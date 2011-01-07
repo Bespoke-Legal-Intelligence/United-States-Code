@@ -50,9 +50,9 @@ The Council shall continue in existence until terminated by law.
 
 #### Amendments
 
-1999—Subsec. (d). Pub. L. 106–65 substituted “level IV of the Executive Schedule under section 5315 of title 5” for “grade GS–18 in section 5332 of title 5”.
+<b>1999</b>—Subsec. (d). Pub. L. 106–65 substituted “level IV of the Executive Schedule under section 5315 of title 5” for “grade GS–18 in section 5332 of title 5”.
 
-1985—Subsec. (a). Pub. L. 99–145, §1204(b)(3)(A), amended subsec. (a) generally. Prior to amendment subsec. (a) read as follows: “There is established in the Department of Education an Advisory Council on Dependents’ Education (hereinafter in this section referred to as the ‘Council’). The Council shall be composed of—
+<b>1985</b>—Subsec. (a). Pub. L. 99–145, §1204(b)(3)(A), amended subsec. (a) generally. Prior to amendment subsec. (a) read as follows: “There is established in the Department of Education an Advisory Council on Dependents’ Education (hereinafter in this section referred to as the ‘Council’). The Council shall be composed of—
 
 &emsp;“(1) the Assistant Secretary of Defense for Manpower, Reserve Affairs, and Logistics, and the Administrator of Education for Overseas Dependents of such department, who shall be co-chairman of the Council;
 
@@ -70,7 +70,7 @@ Subsec. (c)(2), (3). Pub. L. 99–145, §1204(b)(5)(B), (C), redesignated par. (
 
 Subsec. (c)(4), (5). Pub. L. 99–145, §1204(b)(5)(C), (D), redesignated par. (5) as (4), and substituted Secretary of Defense for Secretary of Education. Former par. (4) redesignated (3).
 
-1979—Subsec. (a). Pub. L. 96–88, §508(j)(3), substituted “Department of Education” for “Department of Defense” in text preceding par. (1).
+<b>1979</b>—Subsec. (a). Pub. L. 96–88, §508(j)(3), substituted “Department of Education” for “Department of Defense” in text preceding par. (1).
 
 Subsec. (a)(1). Pub. L. 96–88, §508(j)(4), provided that the Administrator of Education for Overseas Dependents of the Department of Education was to be a member of the council and its co-chairman.
 

@@ -24,7 +24,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall manage the Park for the purpose of preserving and interpreting theBattles of the River Raisin in accordance with sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
+&emsp;The Secretary shall manage the Park for the purpose of preserving and interpreting the Battles of the River Raisin in accordance with sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
 
 #### (2) General management plan
 

@@ -30,10 +30,6 @@ The Advisory Committee shall meet at the request of the Secretary, but at least 
 
 (Pub. L. 85–905, §5, as added Pub. L. 89–258, Oct. 19, 1965, 79 Stat. 984; amended Pub. L. 96–88, title III, §301, title V, §507, Oct. 17, 1979, 93 Stat. 677, 692.)
 
-#### References in Text
-
-The civil service laws, referred to in subsec. (a)(1), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 #### Codification
 
 In subsec. (d), “section 5703 of title 5” substituted for “section 5 of the Administrative Expenses Act”, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.

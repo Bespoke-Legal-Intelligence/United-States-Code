@@ -36,13 +36,15 @@ Notwithstanding any other provision of law, all references in any other law to p
 
 (2) The Attorney General of the United States shall defend any civil action or proceeding brought in any court against any person referred to in paragraph (1) of this subsection (or such person's estate) for any such damage or injury. Any such person against whom such civil action or proceeding is brought shall deliver, within such time after date of service or knowledge of service as determined by the Attorney General, all process served upon such person or an attested true copy thereof to such person's immediate supervisor or to whomever is designated by the Director to receive such papers, and such person shall promptly furnish copies of the pleading and process therein to the United States attorney for the district embracing the place wherein the proceeding is brought and to the Attorney General.
 
-(3) Upon a certification by the Attorney General that the defendant was acting in the scope of such person's volunteer assignment at the time of the incident out of which the suit arose, any such civil action or proceeding commenced in a State court shall be removed without bondat any time before trial by the Attorney General to the district court of the United States of the district and division embracing the place wherein it is pending and the proceeding deemed a tort action brought against the United States under the provisions of title 28 and all references thereto. After removal the United States shall have available all defenses to which it would have been entitled if the action had originally been commenced against the United States. Should a district court of the United States determine on a hearing on a motion to remand held before a trial on the merits that the volunteer whose act or omission gave rise to the suit was not acting within the scope of such person's volunteer assignment, the case shall be remanded to the State court.
+(3) Upon a certification by the Attorney General that the defendant was acting in the scope of such person's volunteer assignment at the time of the incident out of which the suit arose, any such civil action or proceeding commenced in a State court shall be removed without bond at any time before trial by the Attorney General to the district court of the United States of the district and division embracing the place wherein it is pending and the proceeding deemed a tort action brought against the United States under the provisions of title 28 and all references thereto. After removal the United States shall have available all defenses to which it wouldhave been entitled if the action had originally been commenced against the United States. Should a district court of the United States determine on a hearing on a motion to remand held before a trial on the merits that the volunteer whose act or omission gave rise to the suit was not acting within the scope of such person's volunteer assignment, the case shall be remanded to the State court.
 
 (4) The Attorney General may compromise or settle any claim asserted in such civil action or proceeding in the manner provided in section 2677 of title 28 and with the same effect.
 
 (Pub. L. 93–113, title IV, §415, Oct. 1, 1973, 87 Stat. 411; Pub. L. 96–143, §§11, 18(c)(2), Dec. 13, 1979, 93 Stat. 1078, 1083; Pub. L. 96–465, title II, §2206(h), Oct. 17, 1980, 94 Stat. 2163; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–551, §10(i)(9), Oct. 27, 1986, 100 Stat. 3078; Pub. L. 103–82, title III, §366, Sept. 21, 1993, 107 Stat. 908; Pub. L. 111–13, title II, §2152, Apr. 21, 2009, 123 Stat. 1591.)
 
 #### References in Text
+
+This chapter, referred to in subsecs. (a) to (e) and (f)(1), was in the original “this Act”, meaning Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, known as the Domestic Volunteer Service Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
 The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
@@ -54,21 +56,21 @@ Executive Order Number 11103 (April 10, 1963), referred to in subsec. (d), is se
 
 #### Amendments
 
-2009—Subsec. (c). Pub. L. 111–13, §2152(1), inserted “(as such part was in effect on the day before April 21, 2009)” after “part B” in introductory provisions.
+<b>2009</b>—Subsec. (c). Pub. L. 111–13, §2152(1), inserted “(as such part was in effect on the day before April 21, 2009)” after “part B” in introductory provisions.
 
 Subsec. (e). Pub. L. 111–13, §2152(2), inserted “(as such part was in effect on the day before April 21, 2009)” after “A, B”.
 
-1993—Subsec. (b)(4)(A). Pub. L. 103–82 substituted “an employee at grade GS–5 of the General Schedule under section 5332 of title 5” for “a grade GS–7 employee”.
+<b>1993</b>—Subsec. (b)(4)(A). Pub. L. 103–82 substituted “an employee at grade GS–5 of the General Schedule under section 5332 of title 5” for “a grade GS–7 employee”.
 
-1986—Subsec. (b)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (b)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 Subsec. (d). Pub. L. 99–551 substituted “the Director” for “he” before “shall prescribe”.
 
-1980—Subsec. (c)(1). Pub. L. 96–465, §2206(h)(1), substituted “any” for “section 1092(a)(1) of title 22 and every other”.
+<b>1980</b>—Subsec. (c)(1). Pub. L. 96–465, §2206(h)(1), substituted “any” for “section 1092(a)(1) of title 22 and every other”.
 
 Subsec. (c)(2). Pub. L. 96–465, §2206(h)(2), substituted “Foreign Service Act of 1980” for “Foreign Service Act of 1946”.
 
-1979—Subsec. (b). Pub. L. 96–143, §11(a), substituted in provisions preceding cl. (1) “as volunteers for periods of full-time service, or, as the Director deems appropriate in accordance with regulations, for periods of part-time service of not less than 20 hours per week for not less than 26 consecutive weeks, under subchapter I of this chapter” for “in programs under subchapter I of this chapter for periods of service of at least one year” and in cl. (4)(A) “the annual rate of pay of a volunteer enrolled for a period of full-time service under such subchapter I of this chapter shall be deemed to be that received under the entrance salary for a grade GS–7 employee, and the annual rate of pay of a volunteer enrolled for a period of part-time service under such subchapter I of this chapter shall be deemed to be such entry salary or an appropriate portion thereof as determined by the Director” for “the monthly pay of a volunteer shall be deemed that received under the entrance salary for a grade GS–7 employee” and added cl. (5).
+<b>1979</b>—Subsec. (b). Pub. L. 96–143, §11(a), substituted in provisions preceding cl. (1) “as volunteers for periods of full-time service, or, as the Director deems appropriate in accordance with regulations, for periods of part-time service of not less than 20 hours per week for not less than 26 consecutive weeks, under subchapter I of this chapter” for “in programs under subchapter I of this chapter for periods of service of at least one year” and in cl. (4)(A) “the annual rate of pay of a volunteer enrolled for a period of full-time service under such subchapter I of this chapter shall be deemed to be that received under the entrance salary for a grade GS–7 employee, and the annual rate of pay of a volunteer enrolled for a period of part-time service under such subchapter I of this chapter shall be deemed to be such entry salary or an appropriate portion thereof as determined by the Director” for “the monthly pay of a volunteer shall be deemed that received under the entrance salary for a grade GS–7 employee” and added cl. (5).
 
 Subsec. (c)(2). Pub. L. 96–143, §18(c)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 

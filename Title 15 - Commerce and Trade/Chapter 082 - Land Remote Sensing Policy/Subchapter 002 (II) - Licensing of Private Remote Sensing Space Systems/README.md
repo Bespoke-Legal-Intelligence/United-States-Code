@@ -5,8 +5,4 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 05621 - General licensing authority](%C2%A7%2005621%20-%20General%20licensing%20authority.md)
-- [&sect; 05622 - Conditions for operation](%C2%A7%2005622%20-%20Conditions%20for%20operation.md)
-- [&sect; 05623 - Administrative authority of Secretary](%C2%A7%2005623%20-%20Administrative%20authority%20of%20Secretary.md)
-- [&sect; 05624 - Regulatory authority of Secretary](%C2%A7%2005624%20-%20Regulatory%20authority%20of%20Secretary.md)
-- [&sect; 05625 - Agency activities](%C2%A7%2005625%20-%20Agency%20activities.md)
+- [&sect; 05621 to 5625 - Repealed. Pub. L. 111&#8211;314, &sect;6, Dec. 18, 2010, 124 Stat. 3444](%C2%A7%2005621%20to%205625%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93314%2C%20%C2%A76%2C%20Dec.%2018%2C%202010%2C%20124%20Stat.%203444.md)

@@ -170,7 +170,7 @@ In this section:
 
 #### (II) Written determinations required
 
-&emsp;&emsp;&emsp;&emsp;The authority of this subparagraph may be exercised for a project that is expected to cost the Department of Health and Human Services in excess of $20,000,000 only upon a written determination by the senior procurement executive for the Department (as designated for purpose of section 414(c) of title 41), that the use of such authority is essential to promoting the success of the project. The authority of the senior procurement executive under this subclause may not be delegated.
+&emsp;&emsp;&emsp;&emsp;The authority of this subparagraph may be exercised for a project that is expected to cost the Department of Health and Human Services in excess of $20,000,000 only upon a written determination by the senior procurement executive for the Department (as designated for purpose of section 1702(c) of title 41), that the use of such authority is essential to promoting the success of the project. The authority of the senior procurement executive under this subclause may not be delegated.
 
 #### (iii) Guidelines
 
@@ -192,11 +192,11 @@ In this section:
 
 #### (iv) Availability of data
 
-&emsp;&emsp;&emsp;The Secretary shall require that, as a condition of being awarded a contract, grant, cooperative agreement, or other transaction under subparagraph (B) or (D) of paragraph (4), a person make available to the Secretary on an ongoing basis, and submit upon request to the Secretary, all data related to or resulting from countermeasure and product advanced research and development carried out pursuant to this section.
+&emsp;&emsp;&emsp;The Secretary shall require that, as a condition of being awarded a contract, grant, cooperative agreement, or other transaction under subparagraph (B) or (D)of paragraph (4), a person make available to the Secretary on an ongoing basis, and submit upon request to the Secretary, all data related to or resulting from countermeasure and product advanced research and development carried out pursuant to this section.
 
 #### (C) Advance payments; advertising
 
-&emsp;&emsp;The Secretary may waive the requirements of section 3324(a) of title 31 or section 5 of title 41 upon the determination by the Secretary that such waiver is necessary to obtain countermeasures or products under this section.
+&emsp;&emsp;The Secretary may waive the requirements of section 3324(a) of title 31 or section 6101 of title 41 upon the determination by the Secretary that such waiver is necessary to obtain countermeasures or products under this section.
 
 #### (D) Milestone-based payments allowed
 
@@ -208,7 +208,7 @@ In this section:
 
 #### (F) Establishment of research centers
 
-&emsp;&emsp;The Secretary may assess the feasibility and appropriateness of establishing, through contract, grant, cooperative agreement, or other transaction, an arrangement with an existing research center in order to achieve the goals of this section. If such an agreement is not feasible and appropriate, the Secretary may establish one or more federally-funded research and development centers, or university-affiliated research centers, in accordance with section 253(c)(3) of title 41.
+&emsp;&emsp;The Secretary may assess the feasibility and appropriateness of establishing, through contract, grant, cooperative agreement, or other transaction, an arrangement with an existing research center in order to achieve the goals of this section. If such an agreement is not feasible and appropriate, the Secretary may establish one or more federally-funded research and development centers, or university-affiliated research centers, in accordance with section 3304(a)(3) of title 41.
 
 #### (6) At-risk individuals
 
@@ -224,7 +224,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) without regard to those provisions of title 5 governing appointments in the competitive service, appoint highly qualified individuals to scientific or professional positions in BARDA, such as program managers, to carry out this section; and
 
-&emsp;&emsp;&emsp;&emsp;(II) compensate them in the same manner and subject to the same terms andconditions in which individuals appointed under section 9903 of such title are compensated, without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
+&emsp;&emsp;&emsp;&emsp;(II) compensate them in the same manner and subject to the same terms and conditions in which individuals appointed under section 9903 of such title are compensated, without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
 #### (ii) Manner of exercise of authority
 
@@ -268,7 +268,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall withhold from disclosure under section 552 of title 5 specific technical data or scientific information that is created or obtained during the countermeasure and product advanced research and development carried out under subsection (c) that reveals significant and not otherwise publicly known vulnerabilities of existing medical or public health defenses against biological, chemical, nuclear, or radiological threats. Such information shall be deemed to be information described in section 552(b)(3) of title 5.
+&emsp;&emsp;The Secretary shall withhold from disclosure under section 552 of title 5 specific technical data or scientific information that is created or obtained during the countermeasure and product advanced research and development carried out under subsection (c)that reveals significant and not otherwise publicly known vulnerabilities of existing medical or public health defenses against biological, chemical, nuclear, or radiological threats. Such information shall be deemed to be information described in section 552(b)(3) of title 5.
 
 #### (B) Review
 
@@ -295,4 +295,12 @@ Section 845 of the National Defense Authorization Act for Fiscal Year 1994, refe
 The Federal Tort Claims Act, referred to in subsec. (c)(5)(B)(ii), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (e)(2), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Codification
+
+In subsec. (c)(5)(A)(ii)(II), “section 1702(c) of title 41” substituted for “section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (c)(5)(C), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (c)(5)(F), “section 3304(a)(3) of title 41” substituted for “section 303(c)(3) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(3))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

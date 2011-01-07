@@ -156,7 +156,7 @@ It is the sense of the Congress that:
 
 #### (4) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to carry out this subsection, $1,000,000 for fiscalyear 2007 and $1,000,000 for each of the fiscal years 2008 through 2010.
+&emsp;There are authorized to be appropriated to carry out this subsection, $1,000,000 for fiscal year 2007 and $1,000,000 for each of the fiscal years 2008 through 2010.
 
 #### (e) Interventions
 
@@ -354,5 +354,5 @@ The Drug-Free Communities Act of 1997, referred to in subsec. (e)(1)(G), is Pub.
 
 #### Amendments
 
-2006—Pub. L. 109–422 added subsecs. (a) to (f) and struck out former subsecs. (a) to (f), which related, respectively, to the Secretary's authority to make grants, cooperative agreements, or contracts for programs to prevent underage drinking; eligibility requirements; evaluation; geographical distribution; duration of award; and authorization of appropriations.
+<b>2006</b>—Pub. L. 109–422 added subsecs. (a) to (f) and struck out former subsecs. (a) to (f), which related, respectively, to the Secretary's authority to make grants, cooperative agreements, or contracts for programs to prevent underage drinking; eligibility requirements; evaluation; geographical distribution; duration of award; and authorization of appropriations.
 

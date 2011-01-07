@@ -56,7 +56,7 @@ If for any taxable year a corporation has a net capital gain and any rate of tax
 
 &emsp;&emsp;&emsp;<b>(3) in the case of real estate investment trusts, see section 857(b)(3)(A).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 320; Mar. 13, 1956, ch. 83, §5(7), 70 Stat. 49; Pub. L. 86–69, §3(f)(2), June 25, 1959, 73 Stat. 140; Pub. L. 87–834, §8(g)(3), Oct. 16, 1962, 76 Stat. 999; Pub. L. 91–172, title V, §511(b), Dec. 30, 1969, 83 Stat. 635; Pub. L. 94–455, title XIX, §1901(a)(135), (b)(33)(L), Oct. 4, 1976, 90Stat. 1786, 1801; Pub. L. 95–600, title IV, §§401(a), 403(a), (b), Nov. 6, 1978, 92 Stat. 2866, 2868; Pub. L. 96–222, title I, §104(a)(2)(B), (3)(A), Apr. 1, 1980, 94 Stat. 214, 215; Pub. L. 98–369, div. A, title II, §211(b)(16), July 18, 1984, 98 Stat. 756; Pub. L. 99–514, title III, §311(a), title X, §1024(c)(14), Oct. 22, 1986, 100 Stat. 2219, 2408; Pub. L. 100–647, title I, §1003(c)(1), title II, §2004(<i>l</i>), Nov. 10, 1988, 102 Stat. 3384, 3606; Pub. L. 103–66, title XIII, §13221(c)(2), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1703(f), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–34, title III, §314(a), Aug. 5, 1997, 111 Stat. 842; Pub. L. 110–234, title XV, §15311(a), May 22, 2008, 122 Stat. 1502; Pub. L. 110–246, §4(a), title XV, §15311(a), June 18, 2008, 122 Stat. 1664, 2264.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 320; Mar. 13, 1956, ch. 83, §5(7), 70 Stat. 49; Pub. L. 86–69, §3(f)(2), June 25, 1959, 73 Stat. 140; Pub. L. 87–834, §8(g)(3), Oct. 16, 1962, 76 Stat. 999; Pub. L. 91–172, title V, §511(b), Dec. 30, 1969, 83 Stat. 635; Pub. L. 94–455, title XIX, §1901(a)(135), (b)(33)(L), Oct. 4, 1976, 90 Stat. 1786, 1801; Pub. L. 95–600, title IV, §§401(a), 403(a), (b), Nov. 6, 1978, 92 Stat. 2866, 2868; Pub. L. 96–222, title I, §104(a)(2)(B), (3)(A), Apr. 1, 1980, 94 Stat. 214, 215; Pub. L. 98–369, div. A, title II, §211(b)(16), July 18, 1984, 98 Stat. 756; Pub. L. 99–514, title III, §311(a), title X, §1024(c)(14), Oct. 22, 1986, 100 Stat. 2219, 2408; Pub. L. 100–647, title I, §1003(c)(1), title II, §2004(<i>l</i>), Nov. 10, 1988, 102 Stat. 3384, 3606; Pub. L. 103–66, title XIII, §13221(c)(2), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1703(f), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–34, title III, §314(a), Aug. 5, 1997, 111 Stat. 842; Pub. L. 110–234, title XV, §15311(a), May 22, 2008, 122 Stat. 1502; Pub. L. 110–246, §4(a), title XV, §15311(a), June 18, 2008, 122 Stat. 1664, 2264.)
 
 #### References in Text
 
@@ -68,19 +68,19 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsecs. (b), (c). Pub. L. 110–246 added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>2008</b>—Subsecs. (b), (c). Pub. L. 110–246 added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1997—Subsec. (a)(2). Pub. L. 105–34 inserted “(or, if less, taxable income)” after “capital gain”.
+<b>1997</b>—Subsec. (a)(2). Pub. L. 105–34 inserted “(or, if less, taxable income)” after “capital gain”.
 
-1996—Subsec. (a). Pub. L. 104–188 substituted “last 2 sentences” for “last sentence”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–188 substituted “last 2 sentences” for “last sentence”.
 
-1993—Subsec. (a). Pub. L. 103–66 substituted “35 percent” for “34 percent” in introductory provisions and in par. (2).
+<b>1993</b>—Subsec. (a). Pub. L. 103–66 substituted “35 percent” for “34 percent” in introductory provisions and in par. (2).
 
-1988—Subsec. (a). Pub. L. 100–647, §2004(<i>l</i>), substituted “section 11(b)(1)” for “section 11(b)”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §2004(<i>l</i>), substituted “section 11(b)(1)” for “section 11(b)”.
 
 Pub. L. 100–647, §1003(c)(1), substituted “section 831(a) or (b)” for “section 831(a)”.
 
-1986—Subsec. (a). Pub. L. 99–514, §1024(c)(14), which directed the amendment of subsec. (a) by substituting “831(a) or (b)” for “821(a) or (c) and 831(a)” could not be executed in view of amendment by section 311(a) of Pub. L. 99–514.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1024(c)(14), which directed the amendment of subsec. (a) by substituting “831(a) or (b)” for “821(a) or (c) and 831(a)” could not be executed in view of amendment by section 311(a) of Pub. L. 99–514.
 
 Pub. L. 99–514, §311(a), amended subsec. (a) generally. Prior to amendment, subsec. (a), corporations, read as follows: “If for any taxable year a corporation has a net capital gain, then, in lieu of the tax imposed by sections 11, 511, 821(a) or (c) and 831(a), there is hereby imposed a tax (if such tax is less than the tax imposed by such sections) which shall consist of the sum of—
 
@@ -104,15 +104,15 @@ Subsec. (c). Pub. L. 99–514, §311(a), in amending section generally, struck o
 
 &emsp;&emsp;“(ii) the amount of net capital gain taken into account under subparagraph (A).”
 
-1984—Subsec. (b)(1). Pub. L. 98–369 substituted “section 801(a)(2)” for “section 802(a)(2)”.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–369 substituted “section 801(a)(2)” for “section 802(a)(2)”.
 
-1980—Subsec. (b). Pub. L. 96–222, §104(a)(2)(B)(i), substituted in subsec. (b), as subsec. (b) was in effect for taxable years beginning before Jan. 1, 1979, and prior to its repeal by Pub. L. 95–600 (see 1978 Amendment note below), “the excess of the net capital gain over the deduction under section 1202” for “50 percent of the net capital gain”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–222, §104(a)(2)(B)(i), substituted in subsec. (b), as subsec. (b) was in effect for taxable years beginning before Jan. 1, 1979, and prior to its repeal by Pub. L. 95–600 (see 1978 Amendment note below), “the excess of the net capital gain over the deduction under section 1202” for “50 percent of the net capital gain”.
 
 Subsec. (c). Pub. L. 96–222, §104(a)(3)(A), substituted in heading “Transitional rule” for “Taxable years which include January 1, 1979”, in provisions preceding par. (2) “If for any taxable year ending after December 31, 1978, and beginning before January 1, 1980” for “If for any taxable year beginning before January 1, 1979, and ending after December 31, 1978”, and in par. (2)(A)(ii) “gain or loss properly taken into account for the portion of the taxable year” for “sales and exchanges”.
 
 Pub. L. 96–222, §104(a)(2)(B)(ii), substituted in subsec. (c), as subsec. (c) was in effect for taxable years beginning before Jan. 1, 1979, and prior to its repeal by Pub. L. 95–600 (see 1978 Amendment note below), “the excess of the net capital gain over the deduction under section 1202” for “50 percent of the net capital gain”, redesignated cls. (A) and (B) as pars. (1) and (2), respectively, and in par. (2) as so redesignated, substituted “determined by multiplying the sum referred to in subsection (b)(2)(A) by a fraction” for “equal to 50 percent of the sum referred to in subsection (b)(2)(A)” and added subpars. (A) and (B).
 
-1978—Pub. L. 95–600, §401(a)(3), inserted “for corporations” after “tax” in section catchline.
+<b>1978</b>—Pub. L. 95–600, §401(a)(3), inserted “for corporations” after “tax” in section catchline.
 
 Subsec. (a)(2). Pub. L. 95–600, §403(a), substituted “28 percent” for “30 percent”.
 
@@ -122,7 +122,7 @@ Subsec. (c). Pub. L. 95–600, §§401(a)(1), 403(b), added subsec. (c). Former 
 
 Subsec. (d). Pub. L. 95–600, §401(a)(2), redesignated subsec. (d) as (b).
 
-1976—Subsec. (a). Pub. L. 94–455, §1901(a)(135)(A), substituted “net capital gain” for “net section 1201 gain” in three places, incorporated existing text in provisions designated par. (1), struck out prior par. (1) provision adding to the tax in the case of a taxable year beginning before Jan. 1, 1975—
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1901(a)(135)(A), substituted “net capital gain” for “net section 1201 gain” in three places, incorporated existing text in provisions designated par. (1), struck out prior par. (1) provision adding to the tax in the case of a taxable year beginning before Jan. 1, 1975—
 
 &emsp;(A) a tax of 25 percent of the lesser of—
 
@@ -148,7 +148,7 @@ Subsec. (c). Pub. L. 94–455, §1901(a)(135)(B), substituted in heading “wher
 
 Subsecs. (d), (e). Pub. L. 94–455, §1901(a)(135)(C)(i), redesignated subsec. (e) as (d) and struck out existing subsec. (d) defining “subsection (d) gain”.
 
-1969—Subsec. (a). Pub. L. 91–172 substituted reference to net section 1201 gain for reference to the excess of the net long-term capital gain of a corporation over the net short-term capital loss, substituted “a tax computed on the taxable income reduced by the amount of the net section 1201 gain” for “a partial tax computed on the taxable income reduced by the taxable income reduced by the amount of such excess,” struck out reference to tax of an amount equal to 25 percent of excess or in the case of a taxable year beginning before Apr. 1, 1954 an amount equal to 26 percent of such excess without regard to section 21 of this title, and inserted, in the case of a taxable year beginning Jan. 1, 1975, a tax of 25 percent of the lesser of the amount of the subsec. (d) gain, or the amount of the net section 1201 gain, and a tax of 30 percent (28 percent in the case of a taxable year beginning after Dec. 31, 1969 and before Jan. 1, 1971) of the excess (if any) of the net section 1201 gain over the subsec. (d) gain, and in case of a taxable year beginning after Dec. 31, 1974, a tax of 30 percent of the net section 1201 gain.
+<b>1969</b>—Subsec. (a). Pub. L. 91–172 substituted reference to net section 1201 gain for reference to the excess of the net long-term capital gain of a corporation over the net short-term capital loss, substituted “a tax computed on the taxable income reduced by the amount of the net section 1201 gain” for “a partial tax computed on the taxable income reduced by the taxable income reduced by the amount of such excess,” struck out reference to tax of an amount equal to 25 percent of excess or in the case of a taxable year beginning before Apr. 1, 1954 an amount equal to 26 percent of such excess without regard to section 21 of this title, and inserted, in the case of a taxable year beginning Jan. 1, 1975, a tax of 25 percent of the lesser of the amount of the subsec. (d) gain, or the amount of the net section 1201 gain, and a tax of 30 percent (28 percent in the case of a taxable year beginning after Dec. 31, 1969 and before Jan. 1, 1971) of the excess (if any) of the net section 1201 gain over the subsec. (d) gain, and in case of a taxable year beginning after Dec. 31, 1974, a tax of 30 percent of the net section 1201 gain.
 
 Subsec. (b). Pub. L. 91–172 substituted reference to net section 1201 gain for reference to the excess of the net long-term capital gain over the net short-term capital loss, substituted “a tax computed on the taxable income reduced by an amount equal to 50 percent of the net section 1201 gain” for “a partial tax computed on the taxable income reduced by an amount equal to 50 percent of such excess,” struck out reference to tax of an amount equal to 25 percent of the excess of the net long-term capital gain over the net short-term capital loss, and inserted reference to a tax of 25 percent of the lesser of the amount of the subsec. (d) gain, or the amount of the net section 1201 gain, and if the amount of the net section 1201 gain exceeds the amount of the subsec. (d) gain, a tax computed as provided in subsec. (c) on such excess.
 
@@ -158,13 +158,13 @@ Subsec (d). Pub. L. 91–172 added subsec. (d).
 
 Subsec. (e). Pub. L. 91–172 redesignated former subsec. (c) as par. (1) and added pars. (2) and (3).
 
-1962—Subsec. (a). Pub. L. 87–834 substituted “section 821(a) or (c)” for section 821(a)(1) or (b)”.
+<b>1962</b>—Subsec. (a). Pub. L. 87–834 substituted “section 821(a) or (c)” for section 821(a)(1) or (b)”.
 
-1959—Subsec. (a). Pub. L. 86–69 struck out reference to section 802(a).
+<b>1959</b>—Subsec. (a). Pub. L. 86–69 struck out reference to section 802(a).
 
 Subsec. (c). Pub. L. 86–69 added subsec. (c).
 
-1956—Subsec. (a). Act Mar. 13, 1956, inserted reference to section 802(a).
+<b>1956</b>—Subsec. (a). Act Mar. 13, 1956, inserted reference to section 802(a).
 
 #### Effective Date of 2008 Amendment
 

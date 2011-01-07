@@ -40,11 +40,11 @@ Sections 390h through 390h–12p of this title, referred to in subsec. (a), was 
 
 #### Amendments
 
-2004—Subsec. (d)(2). Pub. L. 108–418 designated existing provisions as subpar. (A), substituted “Subject to subparagraph (B), in the case” for “In the case”, and added subpar. (B).
+<b>2004</b>—Subsec. (d)(2). Pub. L. 108–418 designated existing provisions as subpar. (A), substituted “Subject to subparagraph (B), in the case” for “In the case”, and added subpar. (B).
 
-1996—Pub. L. 104–266 designated existing provisions as subsec. (a), substituted “300h–12p” for “300h–12”, and added subsecs. (b) to (d).
+<b>1996</b>—Pub. L. 104–266 designated existing provisions as subsec. (a), substituted “300h–12p” for “300h–12”, and added subsecs. (b) to (d).
 
 #### Change of Name
 
-Committee on Resources of House of Representatives changed to Committee on Natural Resources of Houseof Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

@@ -80,7 +80,7 @@
 
 &emsp;(B) $6,250,000 for each of fiscal years 1999 through 2001.
 
-(2) In addition to funds appropriated for a fiscal year pursuant to the authorization of appropriations in paragraph (1), the Under Secretaryfor Health shall allocate to such centers from other funds appropriated for that fiscal year generally for the Department of Veterans Affairs medical services account and the Department of Veterans Affairs medical and prosthetics research account such amounts as the Under Secretary for Health determines appropriate to carry out the purposes of this section.
+(2) In addition to funds appropriated for a fiscal year pursuant to the authorization of appropriations in paragraph (1), the Under Secretary for Health shall allocate to such centers from other funds appropriated for that fiscal year generally for the Department of Veterans Affairs medical services account and the Department of Veterans Affairs medical and prosthetics research account such amounts as the Under Secretary for Health determines appropriate to carry out the purposes of this section.
 
 (Added Pub. L. 104–262, title III, §334(a)(1), Oct. 9, 1996, 110 Stat. 3200; amended Pub. L. 110–387, title IX, §901(a)(8), Oct. 10, 2008, 122 Stat. 4142.)
 
@@ -90,7 +90,7 @@ The Federal Advisory Committee Act, referred to in subsec. (e)(4), is Pub. L. 92
 
 #### Amendments
 
-2008—Subsec. (j)(2). Pub. L. 110–387 substituted “medical services account” for “medical care account”.
+<b>2008</b>—Subsec. (j)(2). Pub. L. 110–387 substituted “medical services account” for “medical care account”.
 
 #### Annual Reports On and Designation of Centers
 

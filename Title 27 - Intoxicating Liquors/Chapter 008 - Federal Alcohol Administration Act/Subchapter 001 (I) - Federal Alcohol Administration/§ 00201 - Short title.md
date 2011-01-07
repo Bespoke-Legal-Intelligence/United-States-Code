@@ -6,7 +6,7 @@ This subchapter may be cited as the “Federal Alcohol Administration Act”.
 
 #### Amendments
 
-1988—Pub. L. 100–690, §8001(b)(1), amended section generally, substituting “subchapter” for “chapter”.
+<b>1988</b>—Pub. L. 100–690, §8001(b)(1), amended section generally, substituting “subchapter” for “chapter”.
 
 #### Short Title
 

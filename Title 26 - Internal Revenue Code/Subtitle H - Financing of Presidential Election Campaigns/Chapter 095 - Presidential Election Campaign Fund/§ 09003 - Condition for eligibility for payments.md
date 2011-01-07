@@ -40,23 +40,23 @@ In any case in which an individual ceases to be a candidate as a result of the o
 
 #### (e) Closed captioning requirement
 
-No candidate for the office of President or Vice President may receive amounts from the Presidential Election Campaign Fund under this chapter or chapter 96 unless such candidate has certified that any television commercial prepared or distributed by the candidate will be prepared in a manner which ensures that the commercial contains or is accompanied by closed captioning of the oral content of the commercial to be broadcast in line 21 of the vertical blanking interval, or is capable of being viewed by deaf and hearing impaired individuals via any comparable successor technology to line 21 of the vertical blanking interval.
+No candidate for the office of President or Vice President may receive amounts from thePresidential Election Campaign Fund under this chapter or chapter 96 unless such candidate has certified that any television commercial prepared or distributed by the candidate will be prepared in a manner which ensures that the commercial contains or is accompanied by closed captioning of the oral content of the commercial to be broadcast in line 21 of the vertical blanking interval, or is capable of being viewed by deaf and hearing impaired individuals via any comparable successor technology to line 21 of the vertical blanking interval.
 
 (Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 564; amended Pub. L. 93–53, §6(c), July 1, 1973, 87 Stat. 139; Pub. L. 93–443, title IV, §§404(c)(4), (5), 405(b), Oct. 15, 1974, 88 Stat. 1292, 1294; Pub. L. 94–283, title III, §306(a)(2), May 11, 1976, 90 Stat. 500; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 102–393, title V, §534(a), Oct. 6, 1992, 106 Stat. 1764.)
 
 #### Amendments
 
-1992—Subsec. (e). Pub. L. 102–393 added subsec. (e).
+<b>1992</b>—Subsec. (e). Pub. L. 102–393 added subsec. (e).
 
-1976—Subsec. (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 Pub. L. 94–283 added subsec. (d).
 
-1974—Subsec. (a). Pub. L. 93–443, §§404(c)(4), 405(b), substituted “Commission” and “it” for “Comptroller General” and “he”, respectively, wherever appearing, struck out in par. (1) “with respect to which payment is sought” after “campaign expenses” and struck outpar. (4) requirement for an agreement to furnish statements of qualified campaign expenses and proposed qualified campaign expenses required under section 9008 of this title.
+<b>1974</b>—Subsec. (a). Pub. L. 93–443, §§404(c)(4), 405(b), substituted “Commission” and “it” for “Comptroller General” and “he”, respectively, wherever appearing, struck out in par. (1) “with respect to which payment is sought” after “campaign expenses” and struck out par. (4) requirement for an agreement to furnish statements of qualified campaign expenses and proposed qualified campaign expenses required under section 9008 of this title.
 
 Subsecs. (b), (c). Pub. L. 93–443, §404(c)(5), substituted “Commission” for “Comptroller General” wherever appearing.
 
-1973—Subsec. (b)(2). Pub. L. 93–53 substituted section “9006(d)” for “9006(c)”.
+<b>1973</b>—Subsec. (b)(2). Pub. L. 93–53 substituted section “9006(d)” for “9006(c)”.
 
 #### Effective Date of 1992 Amendment
 

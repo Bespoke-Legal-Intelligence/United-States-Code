@@ -18,7 +18,7 @@ Statutory Damages.—
 
 &emsp;(1) Except as provided by clause (2) of this subsection, the copyright owner may elect, at any time before final judgment is rendered, to recover, instead of actual damages and profits, an award of statutory damages for all infringements involved in the action, with respect to any one work, for which any one infringer is liable individually, or for which any two or more infringers are liable jointly and severally, in a sum of not less than $750 or more than $30,000 as the court considers just. For the purposes of this subsection, all the parts of a compilation or derivative work constitute one work.
 
-&emsp;(2) In a case where the copyright owner sustains the burden of proving, and the court finds, that infringement was committed willfully, the court in its discretion may increase the award of statutory damages to a sum of not more than $150,000. In a case where the infringer sustains the burden of proving, and the court finds, that such infringer was not aware and had no reason to believe that his or her acts constituted an infringement of copyright, the court in its discretion may reduce the award of statutory damages to a sum of not less than $200. The court shall remit statutory damages in any case where an infringer believed and had reasonable grounds for believing that his or her use of the copyrighted work was a fair use under section 107, if the infringer was: (i) an employee or agent of a nonprofit educational institution, library, or archives acting within the scope of his or her employment who, or such institution, library, or archives itself, which infringed by reproducing the work in copies or phonorecords; or (ii) a public broadcasting entity which or a person who, as a regular part of the nonprofit activities of a public broadcasting entity (as defined in subsection (g) of section 118) <sup>1</sup> infringed by performing a published nondramatic literary work or by reproducing a transmission program embodying a performance of such a work.
+&emsp;(2) In a case where the copyright owner sustains the burden of proving, and the court finds, that infringement was committed willfully, the court in its discretion may increase the award of statutory damages to a sum of not more than $150,000. In a case where the infringer sustains the burden of proving, and the court finds, that such infringer was not aware and had no reason to believe that his or her acts constituted an infringement of copyright, the court in its discretion may reduce the award of statutory damages to a sum of not less than $200. The court shall remit statutory damages in any case where an infringer believed and had reasonable grounds for believing that his or her use of the copyrighted work was a fair use under section 107, if the infringer was: (i) an employee or agent of a nonprofit educational institution, library, or archives acting within the scope of his or her employment who, or such institution, library, or archives itself, which infringed by reproducing the work in copies or phonorecords; or (ii) a public broadcasting entity which or a personwho, as a regular part of the nonprofit activities of a public broadcasting entity (as defined in section 118(f)) infringed by performing a published nondramatic literary work or by reproducing a transmission program embodying a performance of such a work.
 
 &emsp;(3)(A) In a case of infringement, it shall be a rebuttable presumption that the infringement was committed willfully for purposes of determining relief if the violator, or a person acting in concert with the violator, knowingly provided or knowingly caused to be provided materially false contact information to a domain name registrar, domain name registry, or other domain name registration authority in registering, maintaining, or renewing a domain name used in connection with the infringement.
 
@@ -30,11 +30,11 @@ Statutory Damages.—
 
 Additional Damages in Certain Cases.—In any case in which the court finds that a defendant proprietor of an establishment who claims as a defense that its activities were exempt under section 110(5) did not have reasonable grounds to believe that its use of a copyrighted work was exempt under such section, the plaintiff shall be entitled to, in addition to any award of damages under this section, an additional award of two times the amount of the license fee that the proprietor of the establishment concerned should have paid the plaintiff for such use during the preceding period of up to 3 years.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2585; Pub. L. 100–568, §10(b), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 105–80, §12(a)(13), Nov. 13, 1997, 111 Stat. 1535; Pub. L. 105–298, title II, §204, Oct. 27, 1998, 112 Stat. 2833; Pub. L. 106–160, §2, Dec. 9, 1999, 113 Stat. 1774; Pub. L. 108–482, title II, §203, Dec. 23, 2004, 118 Stat. 3916.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2585; Pub. L. 100–568, §10(b), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 105–80, §12(a)(13), Nov. 13, 1997, 111 Stat. 1535; Pub. L. 105–298, title II, §204, Oct. 27, 1998, 112 Stat. 2833; Pub. L. 106–160, §2, Dec. 9, 1999, 113 Stat. 1774; Pub. L. 108–482, title II, §203, Dec. 23, 2004, 118 Stat. 3916; Pub. L. 111–295, §6(f)(2), Dec. 9, 2010, 124 Stat. 3181.)
 
 #### Historical and Revision Notes
 
-I74house report no. 94–1476
+#### house report no. 94–1476
 
 <b>In General.</b> A cornerstone of the remedies sections and of the bill as a whole is section 504, the provision dealing with recovery of actual damages, profits, and statutory damages. The two basic aims of this section are reciprocal and correlative: (1) to give the courts specific unambiguous directions concerning monetary awards, thus avoiding the confusion and uncertainty that have marked the present law on the subject, and, at the same time, (2) to provide the courts with reasonable latitude to adjust recovery to the circumstances of the case, thus avoiding some of the artificial or overly technical awards resulting from the language of the existing statute.
 
@@ -42,7 +42,7 @@ Subsection (a) lays the groundwork for the more detailed provisions of the secti
 
 <b>Actual Damages and Profits.</b> In allowing the plaintiff to recover “the actual damages suffered by him or her as a result of the infringement,” plus any of the infringer's profits “that are attributable to the infringement and are not taken into account in computing the actual damages,” section 504(b) recognizes the different purposes served by awards of damages and profits. Damages are awarded to compensate the copyright owner for losses from the infringement, and profits are awarded to prevent the infringer from unfairly benefiting from a wrongful act. Where the defendant's profits are nothing more than a measure of the damages suffered by the copyright owner, it would be inappropriate to award damages and profits cumulatively, since in effect they amount to the same thing. However, in cases where the copyright owner has suffered damages not reflected in the infringer's profits, or where there have been profits attributable to the copyrighted work but not used as a measure of damages, subsection (b) authorizes the award of both.
 
-The language of the subsection makes clear that only those profits “attributable to the infringement” are recoverable; where some of the defendant's profits result from the infringement and other profits are caused by different factors, it will be necessary for the court to make an apportionment. However, the burden of proof is on the defendant in these cases; in establishing profits the plaintiff need prove only “the infringer's gross revenue,” and the defendant must prove not only “hisor her deductible expenses” but also “the element of profit attributable to factors other than the copyrighted work.”
+The language of the subsection makes clear that only those profits “attributable to the infringement” are recoverable; where some of the defendant's profits result from the infringement and other profits are caused by different factors, it will be necessary for the court to make an apportionment. However, the burden of proof is on the defendant in these cases; in establishing profits the plaintiff need prove only “the infringer's gross revenue,” and the defendant must prove not only “his or her deductible expenses” but also “the element of profit attributable to factors other than the copyrighted work.”
 
 <b>Statutory Damages.</b> Subsection (c) of section 504 makes clear that the plaintiff's election to recover statutory damages may take place at any time during the trial before the court has rendered its final judgment. The remainder of clause (1) of the subsection represents a statement of the general rates applicable to awards of statutory damages. Its principal provisions may be summarized as follows:
 
@@ -60,23 +60,21 @@ The “innocent infringer” provision of section 504(c)(2) has been the subject
 
 In addition to the general “innocent infringer” provision clause (2) deals with the special situation of teachers, librarians, archivists, and public broadcasters, and the nonprofit institutions of which they are a part. Section 504(c)(2) provides that, where such a person or institution infringed copyrighted material in the honest belief that what they were doing constituted fair use, the court is precluded from awarding any statutory damages. It is intended that, in cases involving this provision, the burden of proof with respect to the defendant's good faith should rest on the plaintiff.
 
-#### References in Text
-
-Subsection (g) of section 118 of this title, referred to in subsec. (c)(2), was redesignated as subsection (f) of section 118 by Pub. L. 108–419, §5(f)(2), Nov. 30, 2004, 118 Stat. 2366.
-
 #### Amendments
 
-2004—Subsec. (c)(3). Pub. L. 108–482 added par. (3).
+<b>2010</b>—Subsec. (c)(2). Pub. L. 111–295 substituted “section 118(f)” for “subsection (g) of section 118”.
 
-1999—Subsec. (c)(1). Pub. L. 106–160, §2(1), substituted “$750” for “$500” and “$30,000” for “$20,000”.
+<b>2004</b>—Subsec. (c)(3). Pub. L. 108–482 added par. (3).
+
+<b>1999</b>—Subsec. (c)(1). Pub. L. 106–160, §2(1), substituted “$750” for “$500” and “$30,000” for “$20,000”.
 
 Subsec. (c)(2). Pub. L. 106–160, §2(2), substituted “$150,000” for “$100,000”.
 
-1998—Subsec. (d). Pub. L. 105–298 added subsec. (d).
+<b>1998</b>—Subsec. (d). Pub. L. 105–298 added subsec. (d).
 
-1997—Subsec. (c)(2). Pub. L. 105–80 substituted “the court in its discretion” for “the court it its discretion”.
+<b>1997</b>—Subsec. (c)(2). Pub. L. 105–80 substituted “the court in its discretion” for “the court it its discretion”.
 
-1988—Subsec. (c)(1). Pub. L. 100–568, §10(b)(1), substituted “$500” for “$250” and “$20,000” for “$10,000”.
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–568, §10(b)(1), substituted “$500” for “$250” and “$20,000” for “$10,000”.
 
 Subsec. (c)(2). Pub. L. 100–568, §10(b)(2), substituted “$100,000” for “$50,000” and “$200” for “$100”.
 
@@ -91,6 +89,4 @@ Amendment by Pub. L. 105–298 effective 90 days after Oct. 27, 1998, see sectio
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action arising under this title before such date being governed by provisions in effect when cause of action arose, see section 13 of Pub. L. 100–568, set out as a note under section 101 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

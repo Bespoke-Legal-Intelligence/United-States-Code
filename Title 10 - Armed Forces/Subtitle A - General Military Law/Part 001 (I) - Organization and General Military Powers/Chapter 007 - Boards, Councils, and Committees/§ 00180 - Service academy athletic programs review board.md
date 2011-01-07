@@ -32,7 +32,7 @@ Administrative Provisions.—(1) Each member of the board who is not an officer 
 
 #### Amendments
 
-2000—Subsec. (d). Pub. L. 106–398 substituted “section 5315” for “section 5376”.
+<b>2000</b>—Subsec. (d). Pub. L. 106–398 substituted “section 5315” for “section 5376”.
 
-1999—Subsec. (d)(1). Pub. L. 106–65 substituted “Executive Schedule Level IV under section 5376 of title 5” for “grade GS–18 of the General Schedule under section 5332 of title 5”.
+<b>1999</b>—Subsec. (d)(1). Pub. L. 106–65 substituted “Executive Schedule Level IV under section 5376 of title 5” for “grade GS–18 of the General Schedule under section 5332 of title 5”.
 

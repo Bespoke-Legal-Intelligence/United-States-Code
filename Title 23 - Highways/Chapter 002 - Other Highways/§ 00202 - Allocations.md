@@ -88,7 +88,7 @@ Transferred funds.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Not later than 30 days after the date on which funds are made available to the Secretary of the Interior under this paragraph, the funds shall be distributed to, and available for immediate use by, the eligible Indian tribes, in accordance with the formula for distribution of funds under the Indian reservation roads program.
+In general.—Not later than 30 days after the date on which funds are made available to the Secretary of the Interior under this paragraph, the funds shall be distributed to, and available for immediateuse by, the eligible Indian tribes, in accordance with the formula for distribution of funds under the Indian reservation roads program.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -104,7 +104,7 @@ In general.—Of the funds authorized to be appropriated for Indian reservation 
 
 &emsp;&emsp;&emsp;(ii)
 
-Health and safety assurances.—Notwithstanding any other provision of law, an Indian tribal government may approve plans, specifications, and estimates and commence road and bridge construction with funds made available for Indian reservation roads under the Transportation Equity Act for the 21st Century (Public Law 105–178) and SAFETEA–LU through a contract or agreement under the Indian Self-Determination and EducationAssistance Act (25 U.S.C. 450b et seq.) <sup>1</sup> if the Indian tribal government—
+Health and safety assurances.—Notwithstanding any other provision of law, an Indian tribal government may approve plans, specifications, and estimates and commence road and bridge construction with funds made available for Indian reservation roads under the Transportation Equity Act for the 21st Century (Public Law 105–178) and SAFETEA–LU through a contract or agreement under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b et seq.) <sup>1</sup> if the Indian tribal government—
 
 &emsp;&emsp;&emsp;&emsp;(I) provides assurances in the contract or agreement that the construction will meet or exceed applicable health and safety standards;
 
@@ -152,7 +152,7 @@ Contracts and agreements with indian tribes.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available under this chapter and section 125(e) for Indian reservation roads and for highway bridges located on Indian reservation roads to pay for the costs of programs, services, functions, and activities, or portions thereof, that are specifically or functionally related to the cost of planning, research, engineering, and construction of any highway, road, bridge, parkway, or transit facility that provides access to or is located within the reservation or community of an Indian tribe shall be made available, upon request of the Indian tribal government, to the Indian tribal government for contracts and agreements for such planning, research, engineering, and construction in accordance with the Indian Self-Determination and Education Assistance Act.
+In general.—Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available under this chapter and section 125(e) for Indian reservation roads and for highway bridges located on Indian reservation roads to pay for the costs of programs, services, functions, and activities, or portions thereof, that are specifically or functionally related to the cost of planning, research, engineering, and construction of any highway, road, bridge, parkway, or transit facility that provides access to or is located within the reservation or community of an Indian tribe shall be made available, upon request of the Indian tribal government, to the Indian tribal government for contracts and agreements for such planning, research, engineering, and construction in accordancewith the Indian Self-Determination and Education Assistance Act.
 
 &emsp;&emsp;(B)
 
@@ -172,7 +172,7 @@ Funding.—
 
 &emsp;&emsp;&emsp;(i)
 
-Authorization of appropriations.—In addition to any other funds made available for Indian reservation roads for each fiscal year, there is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) $14,000,000 for each of fiscal years 2005 through 2009 to carry out planning, design, engineering, preconstruction, construction, and inspection of projects to replace, rehabilitate, seismically retrofit, paint, apply calcium magnesium acetate, sodium acetate/formate, or other environmentallyacceptable, minimally corrosive anti-icing and de-icing compositions or install scour countermeasures for deficient Indian reservation road bridges, including multiple-pipe culverts.
+Authorization of appropriations.—In addition to any other funds made available for Indian reservation roads for each fiscal year, there is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) $14,000,000 for each of fiscal years 2005 through 2009 to carry out planning, design, engineering, preconstruction, construction, and inspection of projects to replace, rehabilitate, seismically retrofit, paint, apply calcium magnesium acetate, sodium acetate/formate, or other environmentally acceptable, minimally corrosive anti-icing and de-icing compositions or install scour countermeasures for deficient Indian reservation road bridges, including multiple-pipe culverts.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -244,7 +244,7 @@ Assumption of functions and duties.—An Indian tribal government receiving fund
 
 &emsp;&emsp;(H)
 
-Powers.—An Indian tribal government receiving funding under subparagraph (A) for a program or project shall have all powers that the Secretary of the Interior would have exercised in administering the funds transferred to the Indian tribal government for such program or project under this section if the funds had not been transferred,except to the extent that such powers are powers that inherently cannot be legally transferred under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b et seq.).<sup>1</sup>
+Powers.—An Indian tribal government receiving funding under subparagraph (A) for a program or project shall have all powers that the Secretary of the Interior would have exercised in administering the funds transferred to the Indian tribal government for such program or project under this section if the funds had not been transferred, except to the extent that such powers are powers that inherently cannot be legally transferred under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b et seq.).<sup>1</sup>
 
 &emsp;&emsp;(I)
 
@@ -278,7 +278,7 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–59, §1119(c)(1), inserted subsec. heading, substituted par. (1) for “On October 1 of each fiscal year, the Secretary shall allocate the sums authorized to be appropriated for such fiscal year for forest development roads and trails according to the relative needs of the various national forests.”, inserted par. (2) designation and heading, and substituted “The allocation under paragraph (1)” for “Such allocation”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §1119(c)(1), inserted subsec. heading, substituted par. (1) for “On October 1 of each fiscal year, the Secretary shall allocate the sums authorized to be appropriated for such fiscal year for forest development roads and trails according to the relative needs of the various national forests.”, inserted par. (2) designation and heading, and substituted “The allocation under paragraph (1)” for “Such allocation”.
 
 Subsec. (b). Pub. L. 109–59, §1119(d), added subsec. (b) and struck out former subsec. (b) which read as follows: “On October 1 of each fiscal year, the Secretary shall allocate 34 percent of the sums authorized to be appropriated for such fiscal year for public lands highways among those States having unappropriated or unreserved public lands, nontaxable Indian lands or other Federal reservations, on the basis of need in such States, respectively, as determined by the Secretary upon application of the State transportation departments of the respective States. The Secretary shall give preference to those projects which are significantly impacted by Federal land and resource management activities which are proposed by a State which contains at least 3 percent of the total public lands in the Nation. The Secretary shall allocate 66 percent of the remainder of the authorization for public lands highways for each fiscal year as is provided in section 134 of the Federal-Aid Highway Act of 1987, and with respect to these allocations the Secretary shall give equal consideration to projects that provide access to and within the National Forest System, as identified by the Secretary of Agriculture through renewable resources and land use planning and the impact of such planning on existing transportation facilities.”
 
@@ -298,7 +298,7 @@ Subsec. (d)(4)(D). Pub. L. 109–59, §1119(g)(3), added subpar. (D) and struck 
 
 Subsec. (d)(5). Pub. L. 109–59, §1119(g)(4), added par. (5).
 
-1998—Subsec. (b). Pub. L. 105–178, §1212(a)(2)(A)(ii), substituted “State transportation departments” for “State highway departments”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–178, §1212(a)(2)(A)(ii), substituted “State transportation departments” for “State highway departments”.
 
 Subsec. (d). Pub. L. 105–178, §1115(b), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, realigned margins, inserted “ending before October 1, 1999” after “each fiscal year”, and added pars. (2) to (4).
 
@@ -306,13 +306,13 @@ Subsec. (d)(4)(B). Pub. L. 105–178, §1115(f)(2), as added by Pub. L. 105–20
 
 Subsec. (e). Pub. L. 105–178, §1115(e)(2), added subsec. (e).
 
-1991—Subsec. (a). Pub. L. 102–240, §1032(a)(1), (2), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “On October 1 of each fiscal year, the Secretary shall allocate the sums authorized to be appropriated for such fiscal year for forest highways according to the relative needs of the various elements of the national forest system as determined by the Secretary, taking into consideration the need for access as identified by the Secretary of Agriculture through renewable resource and land use planning, and the impact of such planning on existing transportation facilities.”
+<b>1991</b>—Subsec. (a). Pub. L. 102–240, §1032(a)(1), (2), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “On October 1 of each fiscal year, the Secretary shall allocate the sums authorized to be appropriated for such fiscal year for forest highways according to the relative needs of the various elements of the national forest system as determined by the Secretary, taking into consideration the need for access as identified by the Secretary of Agriculture through renewable resource and land use planning, and the impact of such planning on existing transportation facilities.”
 
 Subsec. (b). Pub. L. 102–240, §1032(a)(2)–(4), redesignated subsec. (c) as (b), inserted “34 percent of” after “allocate”, and substituted for period at end “which are proposed by a State which contains at least 3 percent of the total public lands in the Nation. The Secretary shall allocate 66 percent of the remainder of the authorization for public lands highways for each fiscal year as is provided in section 134 of the Federal-Aid Highway Act of 1987, and with respect to these allocations the Secretary shall give equal consideration to projects that provide access to and within the National Forest System, as identified by the Secretary of Agriculture through renewable resources and land use planning and the impact of such planning on existing transportation facilities.” Former subsec. (b) redesignated (a).
 
 Subsecs. (c) to (e). Pub. L. 102–240, §1032(a)(2), redesignated subsecs. (d) and (e) as (c) and (d), respectively. Former subsec. (c) redesignated (b).
 
-1983—Subsec. (a). Pub. L. 97–424 substituted provisions relating to allocation of sums authorized to be appropriated by the Secretary for provisions relating to apportionment of sums authorized to be appropriated by the Secretary.
+<b>1983</b>—Subsec. (a). Pub. L. 97–424 substituted provisions relating to allocation of sums authorized to be appropriated by the Secretary for provisions relating to apportionment of sums authorized to be appropriated by the Secretary.
 
 Subsec. (b). Pub. L. 97–424 substituted provisions requiring allocation of sums on October 1 of each fiscal year to be consistent with renewable resource and land use planning for provisions requiring allocation of sums to take into consideration existing transportation facilities, value of resources served, fire danger, and road and trail construction difficulties.
 
@@ -320,7 +320,7 @@ Subsec. (c). Pub. L. 97–424 inserted provisions requiring allocation of sums o
 
 Subsecs. (d), (e). Pub. L. 97–424 added subsecs. (d) and (e).
 
-1976—Subsec. (a). Pub. L. 94–280 substituted introductory “On October 1 of each fiscal year” for “On or before January 1 next preceding the commencement of each fiscal year”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–280 substituted introductory “On October 1 of each fiscal year” for “On or before January 1 next preceding the commencement of each fiscal year”.
 
 #### Effective Date of 1998 Amendment
 

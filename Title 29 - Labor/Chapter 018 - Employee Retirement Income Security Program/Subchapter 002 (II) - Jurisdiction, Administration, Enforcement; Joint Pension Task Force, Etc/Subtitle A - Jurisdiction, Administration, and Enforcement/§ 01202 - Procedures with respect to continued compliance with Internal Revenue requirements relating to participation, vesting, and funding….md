@@ -14,7 +14,7 @@ Regulations prescribed by the Secretary of the Treasury under sections 410(a), 4
 
 #### (d) Opportunity afforded Secretary of the Treasury to intervene in cases involving construction or application of minimum standards; review of briefs filed by Pension Benefit Guaranty Corporation or Secretary of Labor
 
-The Secretary of Labor and the Pension Benefit Guaranty Corporation, before filing briefs in any case involving the construction or application of minimum participation standards, minimum vesting standards, or minimum funding standards under subchapter I of this chapter shall afford the Secretary of the Treasury a reasonable opportunity to review any such brief. The Secretary of the Treasury shall have the right to intervene in any such case.
+The Secretary of Labor and the Pension Benefit Guaranty Corporation, before filing briefs inany case involving the construction or application of minimum participation standards, minimum vesting standards, or minimum funding standards under subchapter I of this chapter shall afford the Secretary of the Treasury a reasonable opportunity to review any such brief. The Secretary of the Treasury shall have the right to intervene in any such case.
 
 #### (e) Consultative requirements respecting promulgation of proposed or final regulations
 
@@ -30,9 +30,9 @@ Subpart C of part I of subchapter D of chapter 1 of title 26, referred to in sub
 
 #### Amendments
 
-1989—Subsecs. (a) to (c), (e). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing, which for purposes of codification was translated as “title 26”.
+<b>1989</b>—Subsecs. (a) to (c), (e). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing, which for purposes of codification was translated as “title 26”.
 
-1980—Subsec. (e). Pub. L. 96–364 added subsec. (e).
+<b>1980</b>—Subsec. (e). Pub. L. 96–364 added subsec. (e).
 
 #### Effective Date of 1989 Amendment
 

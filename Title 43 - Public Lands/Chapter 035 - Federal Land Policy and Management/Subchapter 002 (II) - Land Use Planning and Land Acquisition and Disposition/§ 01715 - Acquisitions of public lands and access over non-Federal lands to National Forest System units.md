@@ -26,15 +26,13 @@ Lands acquired by the Secretary pursuant to this section or section 1716 of this
 
 This Act, referred to in subsecs. (a) and (c), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
-The public land laws, referred to in subsec. (c), are classified generally to this title.
-
 Act of June 9, 1916, referred to in subsec. (e), is not classified to the Code.
 
 Act of February 26, 1919, referred to in subsec. (e), is act Feb. 26, 1919, ch. 47, 40 Stat. 1179, which is not classified to the Code.
 
 #### Amendments
 
-1986—Subsec. (c). Pub. L. 99–632, §5(1), inserted exception relating to subsec. (e).
+<b>1986</b>—Subsec. (c). Pub. L. 99–632, §5(1), inserted exception relating to subsec. (e).
 
 Subsec. (e). Pub. L. 99–632, §5(2), added subsec. (e).
 

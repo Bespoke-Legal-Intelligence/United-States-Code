@@ -8,7 +8,7 @@ Organization.—The Technical Pipeline Safety Standards Committee and the Techni
 
 Composition and Appointment.—(1) The Technical Pipeline Safety Standards Committee is composed of 15 members appointed by the Secretary of Transportation after consulting with public and private agencies concerned with the technical aspect of transporting gas or operating a gas pipeline facility. Each member must be experienced in the safety regulation of transporting gas and of gas pipeline facilities or technically qualified, by training, experience, or knowledge in at least one field of engineering applicable to transporting gas or operating a gas pipeline facility, to evaluate gas pipeline safety standards or risk management principles.
 
-(2) The Technical Hazardous Liquid Pipeline Safety Standards Committee is composed of 15 members appointed by the Secretary after consulting with public and private agencies concerned with the technical aspect of transporting hazardous liquid or operating a hazardous liquidpipeline facility. Each member must be experienced in the safety regulation of transporting hazardous liquid and of hazardous liquid pipeline facilities or technically qualified, by training, experience, or knowledge in at least one field of engineering applicable to transporting hazardous liquid or operating a hazardous liquid pipeline facility, to evaluate hazardous liquid pipeline safety standards or risk management principles.
+(2) The Technical Hazardous Liquid Pipeline Safety Standards Committee is composed of 15members appointed by the Secretary after consulting with public and private agencies concerned with the technical aspect of transporting hazardous liquid or operating a hazardous liquid pipeline facility. Each member must be experienced in the safety regulation of transporting hazardous liquid and of hazardous liquid pipeline facilities or technically qualified, by training, experience, or knowledge in at least one field of engineering applicable to transporting hazardous liquid or operating a hazardous liquid pipeline facility, to evaluate hazardous liquid pipeline safety standards or risk management principles.
 
 (3) The members of each committee are appointed as follows:
 
@@ -172,9 +172,9 @@ The date of the enactment of the Accountable Pipeline Safety and Partnership Act
 
 #### Amendments
 
-2002—Subsec. (b)(4)(D). Pub. L. 107–355 added subpar. (D).
+<b>2002</b>—Subsec. (b)(4)(D). Pub. L. 107–355 added subpar. (D).
 
-1996—Subsec. (a). Pub. L. 104–304, §10(a), inserted at end “The committees referred to in the preceding sentence shall serve as peer review committees for carrying out this chapter. Peer reviews conducted by the committees shall be treated for purposes of all Federal laws relating to risk assessment and peer review (including laws that take effect after the date of the enactment of the Accountable Pipeline Safety and Partnership Act of 1996) as meeting any peer review requirements of such laws.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–304, §10(a), inserted at end “The committees referred to in the preceding sentence shall serve as peer review committees for carrying out this chapter. Peer reviews conducted by the committees shall be treated for purposes of all Federal laws relating to risk assessment and peer review (including laws that take effect after the date of the enactment of the Accountable Pipeline Safety and Partnership Act of 1996) as meeting any peer review requirements of such laws.”
 
 Subsec. (b)(1), (2). Pub. L. 104–304, §10(b)(1), (2), inserted before period at end “or risk management principles”.
 
@@ -200,7 +200,7 @@ Expenses” for “
 
 Pay and Expenses” in heading, struck out “The Secretary may establish the pay for each member of a committee for each day (including travel time) when performing duties of the committee. However, a member may not be paid more than the daily equivalent of the maximum annual rate of basic pay payable under section 5376 of title 5.” after heading, and inserted “of a committee under this section” after “A member”.
 
-1995—Subsec. (b)(4)(A). Pub. L. 104–88 struck out “(referred to in section 10344(f) of this title)” after “commissions”.
+<b>1995</b>—Subsec. (b)(4)(A). Pub. L. 104–88 struck out “(referred to in section 10344(f) of this title)” after “commissions”.
 
 #### Effective Date of 1995 Amendment
 

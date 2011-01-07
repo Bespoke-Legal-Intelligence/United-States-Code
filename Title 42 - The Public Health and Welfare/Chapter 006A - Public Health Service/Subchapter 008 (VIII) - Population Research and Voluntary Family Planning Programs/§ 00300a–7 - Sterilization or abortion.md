@@ -48,7 +48,7 @@ The Public Health Service Act, referred to in subsecs. (b), (c)(1), and (e), is 
 
 The Community Mental Health Centers Act, referred to in subsecs. (b), (c)(1), and (e), is title II of Pub. L. 88–164, as added Pub. L. 94–63, title III, §303, July 29, 1975, 89 Stat. 309, and amended, which was classified principally to subchapter III (§2689 et seq.) of chapter 33 of this title prior to its repeal by Pub. L. 97–35, title IX, §902(e)(2)(B), Aug. 13, 1981, 95 Stat. 560.
 
-The Developmental Disabilities Services and Facilities Construction Act, referred to in subsecs. (b) and (c)(1), is title I of Pub. L. 88–164, Oct. 31, 1963, 77 Stat. 282, as renamed by Pub. L. 91–518, title II, §207(a), Oct. 30, 1970, 84 Stat. 1327. Title I of Pub. L. 88–164, which was subsequently renamed the Developmental Disabilities Assistance and Bill of Rights Act by Pub. L.95–602, title V, §502, Nov. 6, 1978, 92 Stat. 3003, and amended generally by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, was classified generally to chapter 75 (§6000 et seq.) of this title, prior to repeal by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737. For complete classification of this Act to the Code, see Tables.
+The Developmental Disabilities Services and Facilities Construction Act, referred to in subsecs. (b) and (c)(1), is title I of Pub. L. 88–164, Oct. 31, 1963, 77 Stat. 282, as renamed by Pub. L. 91–518, title II, §207(a), Oct. 30, 1970, 84 Stat. 1327. Title I of Pub. L. 88–164, which was subsequently renamed the Developmental Disabilities Assistance and Bill of Rights Act by Pub. L. 95–602, title V, §502, Nov. 6, 1978, 92 Stat. 3003, and amended generally by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, was classified generally to chapter 75 (§6000 et seq.) of this title, prior to repeal by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737. For complete classification of this Act to the Code, see Tables.
 
 The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (e), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§15001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
 
@@ -60,11 +60,11 @@ Subsec. (a) of this section amended section 601 of Pub. L. 91–296, which is se
 
 #### Amendments
 
-2000—Subsec. (e). Pub. L. 106–402 substituted “or the Developmental Disabilities Assistance and Bill of Rights Act of 2000 may deny” for “or the Developmental Disabilities Assistance and Bill of Rights Act may deny”.
+<b>2000</b>—Subsec. (e). Pub. L. 106–402 substituted “or the Developmental Disabilities Assistance and Bill of Rights Act of 2000 may deny” for “or the Developmental Disabilities Assistance and Bill of Rights Act may deny”.
 
-1979—Subsec. (e). Pub. L. 96–76 added subsec. (e).
+<b>1979</b>—Subsec. (e). Pub. L. 96–76 added subsec. (e).
 
-1974—Subsec. (c). Pub. L. 93–348, §214, designated existing provisions as par. (1), redesignated pars. (1) and (2) of such provisions as subpars. (A) and (B), and added par. (2).
+<b>1974</b>—Subsec. (c). Pub. L. 93–348, §214, designated existing provisions as par. (1), redesignated pars. (1) and (2) of such provisions as subpars. (A) and (B), and added par. (2).
 
 Subsec. (d). Pub. L. 93–348, §214(b), added subsec. (d).
 

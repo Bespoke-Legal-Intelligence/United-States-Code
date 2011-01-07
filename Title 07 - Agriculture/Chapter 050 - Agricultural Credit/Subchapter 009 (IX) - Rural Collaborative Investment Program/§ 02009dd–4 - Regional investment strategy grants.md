@@ -24,7 +24,7 @@ A regional investment strategy shall provide—
 
 &emsp;&emsp;(B) an identification of past, present, and projected Federal and State economic and community development investments in the region;
 
-&emsp;(3) a section describing goals and objectives necessary to solve regional competitiveness challenges and meet the potential of the region;
+&emsp;(3) a section describing goals and objectives necessary to solve regional competitivenesschallenges and meet the potential of the region;
 
 &emsp;(4) an overview of resources available in the region for use in—
 
@@ -78,7 +78,7 @@ A regional investment strategy grant shall not exceed $150,000.
 
 #### (2) Form
 
-&emsp;A Regional Board or other eligible grantee shall pay the share described in paragraph\(1)(B) in the form of cash, services, materials, or other in-kind contributions, on the condition that not more than 50 percent of that share is provided in the form of services, materials, and other in-kind contributions.
+&emsp;A Regional Board or other eligible grantee shall pay the share described in paragraph (1)(B) in the form of cash, services, materials, or other in-kind contributions, on the condition that not more than 50 percent of that share is provided in the form of services, materials, and other in-kind contributions.
 
 (Pub. L. 87–128, title III, §385E, as added Pub. L. 107–171, title VI, §6030, May 13, 2002, 116 Stat. 407; amended Pub. L. 110–234, title VI, §6028, May 22, 2008, 122 Stat. 1189; Pub. L. 110–246, §4(a), title VI, §6028, June 18, 2008, 122 Stat. 1664, 1950.)
 

@@ -1,6 +1,6 @@
 ### §523. Requisitions
 
-The Attorney General shall sign all requisitions for the advance or payment of moneysappropriated for the Department of Justice, out of the Treasury, subject to the same control as is exercised on like estimates or accounts by the Government Accountability Office.
+The Attorney General shall sign all requisitions for the advance or payment of moneys appropriated for the Department of Justice, out of the Treasury, subject to the same control as is exercised on like estimates or accounts by the Government Accountability Office.
 
 (Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 615; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
@@ -22,5 +22,5 @@ The words “General Accounting Office” are substituted for “First Auditor o
 
 #### Amendments
 
-2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

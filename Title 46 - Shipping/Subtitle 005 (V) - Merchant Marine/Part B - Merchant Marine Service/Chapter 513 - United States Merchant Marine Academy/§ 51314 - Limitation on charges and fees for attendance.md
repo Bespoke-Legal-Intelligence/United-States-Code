@@ -8,7 +8,7 @@ Prohibition.—Except as provided in subsection (b), no charge or fee for tuitio
 
 Exception.—The prohibition specified in subsection (a) does not apply with respect to any item or service provided to cadets for which a charge or fee is imposed as of October 5, 1994, or for calculators, computers, personal and academic supplies, midshipman services such as barber, tailor, or laundry services, and Coast Guard license fees. The Secretary of Transportation shall notify Congress of any change made by the Academy in the amount of a charge or fee authorized under this subsection. Such fees shall be credited to the Maritime Administration's Operations and Training appropriation, to remain available until expended, for those expenses directly related to the purposes of the fees. Fees collected in excess of actual expenses may be refunded to the Midshipmen through a mechanism approved by the Secretary. The Academy shall maintain a separate and detailed accounting of fee revenue and all associated expenses.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1576; Pub. L. 111–84, div. C, title XXXV, §3510, Oct. 28, 2009, 123 Stat. 2722; Pub. L. 111–117, div. A, title I, §176, Dec. 16, 2009, 123 Stat. 3068.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1576; Pub. L. 111–84, div. C, title XXXV, §3510, Oct. 28,2009, 123 Stat. 2722; Pub. L. 111–117, div. A, title I, §176, Dec. 16, 2009, 123 Stat. 3068.)
 
 Historical and Revision Notes
 
@@ -28,7 +28,7 @@ June 29, 1936, ch. 858, title XIII, §1303(j), as added Pub. L. 108–375, Oct. 
 
 #### Amendments
 
-2009—Subsec. (b). Pub. L. 111–117 inserted at end “Such fees shall be credited to the Maritime Administration's Operations and Training appropriation, to remain available until expended, for those expenses directly related to the purposes of the fees. Fees collected in excess of actual expenses may be refunded to the Midshipmen through a mechanism approved by the Secretary. The Academy shall maintain a separate and detailed accounting of fee revenue and all associated expenses.”
+<b>2009</b>—Subsec. (b). Pub. L. 111–117 inserted at end “Such fees shall be credited to the Maritime Administration's Operations and Training appropriation, to remain available until expended, for those expenses directly related to the purposes of the fees. Fees collected in excess of actual expenses may be refunded to the Midshipmen through a mechanism approved by the Secretary. The Academy shall maintain a separate and detailed accounting of fee revenue and all associated expenses.”
 
 Pub. L. 111–84 substituted “1994, or for calculators, computers, personal and academic supplies, midshipman services such as barber, tailor, or laundry services, and Coast Guard license fees.” for “1994.”
 

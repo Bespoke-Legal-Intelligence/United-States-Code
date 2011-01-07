@@ -72,7 +72,7 @@ A prior section 3713, Pub. L. 90–351, title I, §103, as added Pub. L. 96–15
 
 #### Amendments
 
-2008—Subsec. (b)(1)–(3). Pub. L. 110–403, §401(a)(1), inserted “, including infringement of copyrighted works over the Internet” after “computer crime”.
+<b>2008</b>—Subsec. (b)(1)–(3). Pub. L. 110–403, §401(a)(1), inserted “, including infringement of copyrighted works over the Internet” after “computer crime”.
 
 Subsec. (e)(1). Pub. L. 110–403, §401(a)(2), substituted “2009 through 2013” for “2001 through 2004”.
 

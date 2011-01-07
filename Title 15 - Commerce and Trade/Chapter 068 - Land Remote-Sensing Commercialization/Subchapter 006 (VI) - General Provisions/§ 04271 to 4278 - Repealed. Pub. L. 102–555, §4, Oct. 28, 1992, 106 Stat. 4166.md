@@ -16,5 +16,3 @@ Section 4277, Pub. L. 98–365, title VI, §607, July 17, 1984, 98 Stat. 465, di
 
 Section 4278, Pub. L. 98–365, title VI, §609, July 17, 1984, 98 Stat. 466; Pub. L. 99–62, July 11, 1985, 99 Stat. 118, authorized appropriations for chapter.
 
-For similar provisions, see section 5651 et seq. of this title.
-

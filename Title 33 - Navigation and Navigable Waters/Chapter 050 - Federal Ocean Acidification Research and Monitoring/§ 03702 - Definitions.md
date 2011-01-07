@@ -4,7 +4,7 @@ In this chapter:
 
 #### (1) Ocean acidification
 
-&emsp;The term “ocean acidification” means the decrease in pH of the Earth's oceans andchanges in ocean chemistry caused by chemical inputs from the atmosphere, including carbon dioxide.
+&emsp;The term “ocean acidification” means the decrease in pH of the Earth's oceans and changes in ocean chemistry caused by chemical inputs from the atmosphere, including carbon dioxide.
 
 #### (2) Secretary
 

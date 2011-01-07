@@ -96,7 +96,7 @@ For purposes of this section—
 
 #### (2) Maximum term
 
-&emsp;During each calendar month, the Secretary shall determine the maximum term permitted under this paragraph for bonds issued during the following calendar month. Such maximum term shall be the term which the Secretary estimates will result in the present value of the obligation to repay the principal on the bond being equal to 50 percent of the face amount of such bond. Such present value shall be determined without regard to the requirements of subsection (<i>l</i>)(6) and using as a discount rate the average annual interest rate of tax-exempt obligations having a term of 10 years or more which are issued during the month. If the term as so determined is not a multiple of a whole year, such term shall be rounded to the next highest whole year.
+&emsp;During each calendar month, the Secretary shall determine the maximum term permitted under this paragraph for bonds issued duringthe following calendar month. Such maximum term shall be the term which the Secretary estimates will result in the present value of the obligation to repay the principal on the bond being equal to 50 percent of the face amount of such bond. Such present value shall be determined without regard to the requirements of subsection (<i>l</i>)(6) and using as a discount rate the average annual interest rate of tax-exempt obligations having a term of 10 years or more which are issued during the month. If the term as so determined is not a multiple of a whole year, such term shall be rounded to the next highest whole year.
 
 #### (f) Limitation on amount of bonds designated
 
@@ -222,15 +222,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2009—Subsec. (c)(2). Pub. L. 111–5, §1531(c)(3), substituted “, I, and J” for “and I”.
+<b>2009</b>—Subsec. (c)(2). Pub. L. 111–5, §1531(c)(3), substituted “, I, and J” for “and I”.
 
 Subsec. (<i>l</i>)(4) to (6). Pub. L. 111–5, §1541(b)(1), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4). Prior to amendment, text read as follows: “If any clean renewable energy bond is held by a regulated investment company, the credit determined under subsection (a) shall be allowed to shareholders of such company under procedures prescribed by the Secretary.”
 
-2008—Subsec. (c)(2). Pub. L. 110–246, §15316(c)(1), substituted “subparts C and I” for “subpart C”.
+<b>2008</b>—Subsec. (c)(2). Pub. L. 110–246, §15316(c)(1), substituted “subparts C and I” for “subpart C”.
 
 Subsec. (m). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2008”.
 
-2006—Subsec. (f)(1). Pub. L. 109–432, §202(a)(1), substituted “$1,200,000,000” for “$800,000,000”.
+<b>2006</b>—Subsec. (f)(1). Pub. L. 109–432, §202(a)(1), substituted “$1,200,000,000” for “$800,000,000”.
 
 Subsec. (f)(2). Pub. L. 109–432, §202(a)(2), substituted “$750,000,000” for “$500,000,000”.
 
@@ -240,7 +240,7 @@ Subsec. (<i>l</i>)(3)(B). Pub. L. 109–432, §107(b)(2), substituted “1397E(<
 
 Subsec. (m). Pub. L. 109–432, §202(a)(3), substituted “2008” for “2007”.
 
-2005—Subsec. (c)(2). Pub. L. 109–135, §101(b)(1), inserted “, section 1400N(<i>l</i>),” after “subpart C”.
+<b>2005</b>—Subsec. (c)(2). Pub. L. 109–135, §101(b)(1), inserted “, section 1400N(<i>l</i>),” after “subpart C”.
 
 Subsec. (<i>l</i>)(5) to (7). Pub. L. 109–135, §402(c)(1), redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out heading and text of former par. (5). Text read as follows: “Solely for purposes of sections 6654 and 6655, the credit allowed by this section (determined without regard to subsection (c)) to a taxpayer by reason of holding a clean renewable energy bond on a credit allowance date shall be treated as if it were a payment of estimated tax made by the taxpayer on such date.”
 
@@ -280,7 +280,7 @@ Pub. L. 109–222, title V, §508(e), May 17, 2006, 120 Stat. 362, provided that
 
 Amendment by section 101(b)(1) of Pub. L. 109–135 applicable to taxable years ending on or after Aug. 28, 2005, see section 101(c)(1) of Pub. L. 109–135, set out as an Effective Date note under section 1400N of this title.
 
-Amendment by section 402(c) of Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
+Amendment by section 402(c) of Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 36C of this title.
 
 #### Effective Date
 

@@ -12,7 +12,7 @@ For the purpose of this chapter—
 
 &emsp;(5) Notwithstanding the population requirements of sections 4723(a) and 4743(c) of this title, a “local government” and a “general local government” also mean the recognized governing body of an Indian tribe, band, pueblo, or other organized group or community, including any Alaska Native village, as defined in the Alaska Native Claims Settlement Act (85 Stat. 688) \[43 U.S.C. 1601 et seq.\], which performs substantial governmental functions. The requirements of sections 4723(c) and 4743(d) of this title, relating to reviews by the Governor of a State, do not apply to grant applications from the governing body of an Indian tribe, although nothing in this chapter is intended to discourage or prohibit voluntary communication and cooperation between Indian tribes and State and local governments.
 
-(Pub. L. 91–648, title V, §502, Jan. 5, 1971, 84 Stat. 1925; Pub. L. 93–638, title I, §104(d), formerly §105(d), Jan. 4, 1975, 88 Stat. 2208, renumbered §104(d), Pub. L. 100–472, title II, §203(a), Oct. 5, 1988, 102 Stat. 2290; Pub. L. 95–454, title VI, §602(d), Oct. 13, 1978, 92 Stat. 1189; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783.)
+(Pub. L. 91–648, title V, §502, Jan. 5, 1971, 84 Stat. 1925; Pub. L. 93–638, title I, §104(d), formerly §105(d), Jan. 4, 1975, 88 Stat. 2208, renumbered §104(d), Pub. L. 100–472, title II, §203(a), Oct. 5, 1988, 102 Stat. 2290; Pub. L. 95–454, title VI,§602(d), Oct. 13, 1978, 92 Stat. 1189; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783.)
 
 #### References in Text
 
@@ -22,13 +22,13 @@ The Alaska Native Claims Settlement Act, referred to in par. (5), is Pub. L. 92�
 
 #### Amendments
 
-1978—Par. (3). Pub. L. 95–454 inserted reference to Trust Territory of the Pacific Islands.
+<b>1978</b>—Par. (3). Pub. L. 95–454 inserted reference to Trust Territory of the Pacific Islands.
 
-1975—Par. (5). Pub. L. 93–638 added par. (5).
+<b>1975</b>—Par. (5). Pub. L. 93–638 added par. (5).
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out asa note under section 1101 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of Title 5, Government Organization and Employees.
 
 #### Transfer of Functions
 

@@ -6,5 +6,5 @@ There is authorized to be appropriated, out of any moneys in the Treasury not ot
 
 #### Amendments
 
-1950—Act Sept. 21, 1950, substituted “$157,500,000” for “$100,000,000”.
+<b>1950</b>—Act Sept. 21, 1950, substituted “$157,500,000” for “$100,000,000”.
 

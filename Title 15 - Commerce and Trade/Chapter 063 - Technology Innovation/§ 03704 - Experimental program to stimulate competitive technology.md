@@ -74,7 +74,7 @@ To the extent practicable, in carrying out subsection (a), the Secretary shall c
 
 #### (C) Review panels
 
-&emsp;&emsp;Each application submitted under this subsection by an eligible institution shall be reviewed by a panel of individuals selected by the Secretary to judge the quality and merit of the proposal, including the extent to which the eligible institution can effectively and successfully utilize the proposed grant, cooperative agreement, or contract to carry out the program described in paragraph (1). The Secretary shall ensure that the review panels include representatives of minority serving institutions and others who are knowledgeable about eligible institutions and technology issues. The Secretary shall ensure that no individual assigned under this subsection to review any application has a conflict of interest with regard to that application. The Secretary shall take into consideration the recommendations of the review panel in determining whether to award a grant, cooperative agreement, or contract to an eligible institution.
+&emsp;&emsp;Each application submitted under this subsection by an eligible institution shall be reviewed by a panel of individuals selected by the Secretary to judge the quality and merit of the proposal, including the extent to which the eligible institution can effectively and successfully utilize the proposed grant, cooperative agreement, or contract to carry out the program described in paragraph (1). The Secretary shall ensure that the review panels include representatives of minority serving institutions and others who are knowledgeable about eligible institutions and technology issues. The Secretary shall ensure that no individual assigned under this subsection to review anyapplication has a conflict of interest with regard to that application. The Secretary shall take into consideration the recommendations of the review panel in determining whether to award a grant, cooperative agreement, or contract to an eligible institution.
 
 #### (3) Awards
 
@@ -106,7 +106,7 @@ To the extent practicable, in carrying out subsection (a), the Secretary shall c
 
 &emsp;&emsp;(B) to develop and provide training, education, and professional development programs, including faculty development, to increase the use of, and usefulness of, digital and wireless networking technology;
 
-&emsp;&emsp;(C) to provide teacher education, including the provision of preservice teacher training and in-service professional development at eligible institutions, library and media specialist training, and preschool and teacher aid certification to individuals who seek to acquire or enhance technology skills in order to use digital and wireless networking technology in the classroom or instructional process, including instruction in science,mathematics, engineering, and technology subjects;
+&emsp;&emsp;(C) to provide teacher education, including the provision of preservice teacher training and in-service professional development at eligible institutions, library and media specialist training, and preschool and teacher aid certification to individuals who seek to acquire or enhance technology skills in order to use digital and wireless networking technology in the classroom or instructional process, including instruction in science, mathematics, engineering, and technology subjects;
 
 &emsp;&emsp;(D) to obtain capacity-building technical assistance, including through remote technical support, technical assistance workshops, and distance learning services; or
 
@@ -138,7 +138,7 @@ To the extent practicable, in carrying out subsection (a), the Secretary shall c
 
 &emsp;&emsp;&emsp;&emsp;(I) an evaluation of the effectiveness of the program established under paragraph (1) in improving the education and training of students, faculty, and staff at eligible institutions that have been awarded grants, cooperative agreements, or contracts under the program;
 
-&emsp;&emsp;&emsp;&emsp;(II) an evaluation of the effectiveness of the program in improving access to, and familiarity with, digital and wireless networking technology for students, faculty, and staff at all eligible institutions;
+&emsp;&emsp;&emsp;&emsp;(II) an evaluation of the effectiveness of the program in improving access to,and familiarity with, digital and wireless networking technology for students, faculty, and staff at all eligible institutions;
 
 &emsp;&emsp;&emsp;&emsp;(III) an evaluation of the procedures established under paragraph (2)(A); and
 
@@ -210,9 +210,9 @@ To the extent practicable, in carrying out subsection (a), the Secretary shall c
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–315 added subsec. (c).
+<b>2008</b>—Subsec. (c). Pub. L. 110–315 added subsec. (c).
 
-2007—Pub. L. 110–69, §3002(a)(5), substituted “Experimental program to stimulate competitive technology” for “Commerce and technological innovation” in section catchline.
+<b>2007</b>—Pub. L. 110–69, §3002(a)(5), substituted “Experimental program to stimulate competitive technology” for “Commerce and technological innovation” in section catchline.
 
 Subsec. (a). Pub. L. 110–69, §3002(a)(3)(B), (E), substituted “Program establishment” for “Experimental Program to Stimulate Competitive Technology” in heading and struck out “, acting through the Under Secretary,” after “Secretary” wherever appearing in text.
 
@@ -230,13 +230,13 @@ Subsecs. (c) to (e). Pub. L. 110–69, §3002(a)(1), struck out subsecs. (c) to 
 
 Subsec. (f). Pub. L. 110–69, §3002(a)(2), redesignated subsec. (f) as (a).
 
-2000—Subsec. (c)(11). Pub. L. 106–404 substituted “State or local governments” for “State of local governments”.
+<b>2000</b>—Subsec. (c)(11). Pub. L. 106–404 substituted “State or local governments” for “State of local governments”.
 
-1998—Subsec. (f). Pub. L. 105–309 added subsec. (f).
+<b>1998</b>—Subsec. (f). Pub. L. 105–309 added subsec. (f).
 
-1992—Subsec. (c)(13) to (15). Pub. L. 102–245 added par. (13) and redesignated former pars. (13) and (14) as (14) and (15), respectively.
+<b>1992</b>—Subsec. (c)(13) to (15). Pub. L. 102–245 added par. (13) and redesignated former pars. (13) and (14) as (14) and (15), respectively.
 
-1988—Subsec. (a). Pub. L. 100–519, §201(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary shall establish and maintain an Office of Productivity, Technology, and Innovation in accordance with the provisions, findings, and purposes of this chapter.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–519, §201(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary shall establish and maintain an Office of Productivity, Technology, and Innovation in accordance with the provisions, findings, and purposes of this chapter.”
 
 Subsec. (b). Pub. L. 100–519, §201(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The President shall appoint, by and with the advice and consent of the Senate, an Assistant Secretary for Productivity, Technology, and Innovation.”
 
@@ -250,7 +250,7 @@ Subsec. (c)(11) to (14). Pub. L. 100–519, §201(c)(1), redesignated former par
 
 Subsec. (d)(1). Pub. L. 100–519, §201(d)(2), substituted “and the Under Secretary shall establish, and through the National Technical Information Service and with the cooperation of” for “shall establish and, through the National Technical Information Service and”.
 
-1986—Subsec. (a). Pub. L. 99–502, §9(b)(3), substituted “Office of Productivity, Technology, and Innovation” for “Office of Industrial Technology”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–502, §9(b)(3), substituted “Office of Productivity, Technology, and Innovation” for “Office of Industrial Technology”.
 
 Subsec. (b). Pub. L. 99–502, §9(b)(4), substituted “an Assistant Secretary for Productivity, Technology, and Innovation” for “a Director of the Office, who shall be compensated at the rate provided for level V of the Executive Schedule in section 5316 of title 5”.
 

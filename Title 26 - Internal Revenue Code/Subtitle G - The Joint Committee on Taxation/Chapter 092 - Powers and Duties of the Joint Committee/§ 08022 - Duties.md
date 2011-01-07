@@ -42,7 +42,7 @@ It shall be the duty of the Joint Committee—
 
 #### Amendments
 
-2004—Par. (3)(C). Pub. L. 108–311 substituted “2005” for “2004” and “with respect to the matters addressed in the joint review referred to in section 8021(f)(2).” for “with respect to—
+<b>2004</b>—Par. (3)(C). Pub. L. 108–311 substituted “2005” for “2004” and “with respect to the matters addressed in the joint review referred to in section 8021(f)(2).” for “with respect to—
 
 &emsp;“(i) strategic and business plans for the Internal Revenue Service;
 
@@ -56,7 +56,7 @@ It shall be the duty of the Joint Committee—
 
 &emsp;“(vi) the annual filing season.”
 
-1998—Par. (3). Pub. L. 105–206 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “To report, from time to time, to the Committee on Finance and the Committee on Ways and Means, and, in its discretion, to the Senate or the House of Representatives, or both, the results of its investigations, together with such recommendation as it may deem advisable.”
+<b>1998</b>—Par. (3). Pub. L. 105–206 reenacted heading without change and amended text generally. Prior toamendment, text read as follows: “To report, from time to time, to the Committee on Finance and the Committee on Ways and Means, and, in its discretion, to the Senate or the House of Representatives, or both, the results of its investigations, together with such recommendation as it may deem advisable.”
 
 #### Change of Name
 
@@ -74,7 +74,7 @@ Pub. L. 105–206, title IV, §4022(b), July 22, 1998, 112 Stat. 785, provided t
 
 “(1)
 
-In general.—The Joint Committee on Taxation, in consultation with the Internal Revenue Service and the Department of the Treasury, shall include a taxcomplexity analysis in each report for legislation, or provide such analysis to members of the committee reporting the legislation as soon as practicable after the report is filed, if—
+In general.—The Joint Committee on Taxation, in consultation with the Internal Revenue Service and the Department of the Treasury, shall include a tax complexity analysis in each report for legislation, or provide such analysis to members of the committee reporting the legislation as soon as practicable after the report is filed, if—
 
 &emsp;“(A) such legislation is reported by the Committee on Finance in the Senate, the Committee on Ways and Means of the House of Representatives, or any committee of conference; and
 

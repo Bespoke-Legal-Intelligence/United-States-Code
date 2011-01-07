@@ -26,7 +26,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-109(a)D36:142a (1st sentence).DApr. 24, 1972, Pub. L. 92–278, 86 Stat. 124.
+109(a)
+
+36:142a (1st sentence).
+
+Apr. 24, 1972, Pub. L. 92–278, 86 Stat. 124.
 
 109(b)
 

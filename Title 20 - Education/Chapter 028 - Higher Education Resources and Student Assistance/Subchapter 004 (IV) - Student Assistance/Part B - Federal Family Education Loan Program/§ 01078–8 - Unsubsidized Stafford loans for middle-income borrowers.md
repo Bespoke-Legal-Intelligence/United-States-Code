@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-It is the purpose of this section to authorize insured loans under this part for borrowers who do not qualify for Federal interest subsidy payments under section 1078 of this title. Except as provided in this section, all terms and conditions for Federal Stafford loans established under section 1078 of this title shall apply to loans made pursuant to this section.
+It is the purpose of this section to authorize insured loans under this part that are first disbursed before July 1, 2010, for borrowers who do not qualify for Federal interest subsidy payments under section 1078 of this title. Except as provided in this section, all terms and conditions for Federal Stafford loans established under section 1078 of this title shall apply to loans made pursuant to this section.
 
 #### (b) Eligible borrowers
 
-Any student meeting the requirements for student eligibility under section 1091 of this title\(including graduate and professional students as defined in regulations promulgated by the Secretary) shall be entitled to borrow an unsubsidized Federal Stafford Loan if the eligible institution at which the student has been accepted for enrollment, or at which the student is in attendance, has—
+Prior to July 1, 2010, any student meeting the requirements for student eligibility under section 1091 of this title (including graduate and professional students as defined in regulations promulgated by the Secretary) shall be entitled to borrow an unsubsidized Federal Stafford Loan for which the first disbursement is made before such date if the eligible institution at which the student has been accepted for enrollment, or at which the student is in attendance, has—
 
 &emsp;(1) determined and documented the student's need for the loan based on the student's estimated cost of attendance (as determined under section 1087<i>ll</i> of this title) and the student's estimated financial assistance, including a loan which qualifies for interest subsidy payments under section 1078 of this title; and
 
@@ -66,9 +66,9 @@ The determination of the amount of a loan by an eligible institution under subse
 
 &emsp;&emsp;&emsp;&emsp;(I) $6,000, if such student is enrolled in a program whose length is at least one academic year in length; or
 
-&emsp;&emsp;&emsp;&emsp;(II) if such student is enrolled in a program of undergraduate education whichis less than one academic year, the maximum annual loan amount that such student may receive may not exceed the amount that bears the same ratio to the amount specified in subclause (I) as the length of such program measured in semester, trimester, quarter, or clock hours bears to one academic year;
+&emsp;&emsp;&emsp;&emsp;(II) if such student is enrolled in a program of undergraduate education which is less than one academic year, the maximum annual loan amount that such student may receive may not exceed the amount that bears the same ratio to the amount specified in subclause (I) as the length of such program measured in semester, trimester, quarter, or clock hours bears to one academic year;
 
-&emsp;&emsp;&emsp;(ii) in the case of such a student at an eligible institution who has successfully completed such first and second years but has not successfully completed the remainder of a program of undergraduate education—
+&emsp;&emsp;&emsp;(ii) in the case of such a student at an eligible institution who has successfully completed such first and second years buthas not successfully completed the remainder of a program of undergraduate education—
 
 &emsp;&emsp;&emsp;&emsp;(I) $7,000; or
 
@@ -146,9 +146,9 @@ A guaranty agency shall use a single application form and a single repayment sch
 
 #### (h) Insurance premium
 
-Each State or nonprofit private institution or organization having an agreement with the Secretary under section 1078(b)(1) of this title maycharge a borrower under this section an insurance premium equal to not more than 1.0 percent of the principal amount of the loan, if such premium will not be used for incentive payments to lenders. Effective for loans for which the date of guarantee of principal is on or after July 1, 2006, in lieu of the insurance premium authorized under the preceding sentence, each State or nonprofit private institution or organization having an agreement with the Secretary under section 1078(b)(1) of this title shall collect and deposit into the Federal Student Loan Reserve Fund under section 1072a of this title, a Federal default fee of an amount equal to 1.0 percent of the principal amount of the loan, which fee shall be collected either by deduction from the proceeds of the loan or by payment from other non-Federal sources. The Federal default fee shall not be used for incentive payments to lenders.
+Each State or nonprofit private institution or organization having an agreement with the Secretary under section 1078(b)(1) of this title may charge a borrower under this section an insurance premium equal to not more than 1.0 percent of the principal amount of the loan, if such premium will not be used for incentive payments to lenders. Effective for loans for which the date of guarantee of principal is on or after July 1, 2006, and that are first disbursed before July 1, 2010, in lieu of the insurance premium authorized under the preceding sentence, each State or nonprofit private institution or organization having an agreement with the Secretary under section 1078(b)(1) of this title shall collectand deposit into the Federal Student Loan Reserve Fund under section 1072a of this title, a Federal default fee of an amount equal to 1.0 percent of the principal amount of the loan, which fee shall be collected either by deduction from the proceeds of the loan or by payment from other non-Federal sources. The Federal default fee shall not be used for incentive payments to lenders.
 
-(Pub. L. 89–329, title IV, §428H, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 535; amended Pub. L. 103–66, title IV, §§4047(a), 4102(b), Aug. 10, 1993, 107 Stat. 363, 366; Pub. L. 103–208, §2(c)(42)–(45), Dec. 20, 1993, 107 Stat. 2466, 2467; Pub. L. 104–134, title I, §101(d) \[title V, §514(a)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–245; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–244, title IV, §423, Oct. 7, 1998, 112 Stat. 1696; Pub. L. 109–171, title VIII, §§8005(d), 8014(b)(2), Feb. 8, 2006, 120 Stat. 159, 169; Pub. L. 110–227, §2(a), May 7, 2008, 122 Stat. 740; Pub. L. 110–315, title IV, §428(a), Aug. 14, 2008, 122 Stat. 3235; Pub. L. 111–39, title IV, §402(f)(5), July 1, 2009, 123 Stat. 1944.)
+(Pub. L. 89–329, title IV, §428H, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 535; amended Pub. L. 103–66, title IV, §§4047(a), 4102(b), Aug. 10, 1993, 107 Stat. 363, 366; Pub. L. 103–208, §2(c)(42)–(45), Dec. 20, 1993, 107 Stat. 2466, 2467; Pub. L. 104–134, title I, §101(d) \[title V, §514(a)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–245; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–244, title IV, §423, Oct. 7, 1998, 112 Stat. 1696; Pub. L. 109–171, title VIII, §§8005(d), 8014(b)(2), Feb. 8, 2006, 120 Stat. 159, 169; Pub. L. 110–227, §2(a), May 7, 2008, 122 Stat. 740; Pub. L. 110–315, title IV, §428(a), Aug. 14, 2008, 122 Stat. 3235; Pub. L. 111–39, title IV, §402(f)(5), July 1, 2009, 123 Stat. 1944; Pub. L. 111–152, title II, §2207, Mar. 30, 2010, 124 Stat. 1076.)
 
 #### Codification
 
@@ -156,11 +156,17 @@ Amendments by section 2(c)(42), (45) of Pub. L. 103–208 (which were effective 
 
 #### Amendments
 
-2009—Subsec. (d)(2). Pub. L. 111–39, §402(f)(5)(A), amended heading generally, resulting in text identical to that after execution of the amendment by Pub. L. 110–315, §428(a)(1)(A). See 2008 Amendment note below.
+<b>2010</b>—Subsec. (a). Pub. L. 111–152, §2207(1), inserted “that are first disbursed before July 1, 2010,” after “under this part”.
+
+Subsec. (b). Pub. L. 111–152, §2207(2), substituted “Prior to July 1, 2010, any student” for “Any student” and inserted “for which the first disbursement is made before such date” after “unsubsidized Federal Stafford Loan” in introductory provisions.
+
+Subsec. (h). Pub. L. 111–152, §2207(3), inserted “and that are first disbursed before July 1, 2010,” after “July 1, 2006,”.
+
+<b>2009</b>—Subsec. (d)(2). Pub. L. 111–39, §402(f)(5)(A), amended heading generally, resulting in text identical to that after execution of the amendment by Pub. L. 110–315, §428(a)(1)(A). See 2008 Amendment note below.
 
 Subsec. (e)(6). Pub. L. 111–39, §402(f)(5)(B), amended par. (6) generally, resulting in text identical to that after execution of the amendment by Pub. L. 105–244, §423(d). See 1998 Amendment note below.
 
-2008—Subsec. (d). Pub. L. 110–227 amended subsec. (d) generally. Prior to amendment, subsec. (d) related to loan limits.
+<b>2008</b>—Subsec. (d). Pub. L. 110–227 amended subsec. (d) generally. Prior to amendment, subsec. (d) related to loan limits.
 
 Subsec. (d)(2). Pub. L. 110–315, §428(a)(1)(A), which directed substitution of “Graduate, professional, and independent postbaccalaureate students” for “Graduate and professional students” in heading, was executed by substituting “graduate, professional, and independent postbaccalaureate students” for “graduate and professional students” to reflect the probable intent on Congress.
 
@@ -170,13 +176,13 @@ Subsec. (d)(2)(A)(ii). Pub. L. 110–315, §428(a)(1)(B)(ii), added cl. (ii) and
 
 Subsec. (d)(4)(A)(iii). Pub. L. 110–315, §428(a)(2), added cl. (iii) and struck out former cl. (iii) which read as follows: “in the case of such a student enrolled in coursework specified in sections 1091(b)(3)(B) and 1091(b)(4)(B) of this title, $6,000 for coursework necessary for enrollment in an undergraduate degree or certificate program.”
 
-2006—Subsec. (d)(2)(C). Pub. L. 109–171, §8005(d)(1), substituted “$12,000” for “$10,000”.
+<b>2006</b>—Subsec. (d)(2)(C). Pub. L. 109–171, §8005(d)(1), substituted “$12,000” for “$10,000”.
 
 Subsec. (d)(2)(D). Pub. L. 109–171, §8005(d)(2), substituted “$7,000” for “$5,000” in cls. (i) and (ii).
 
 Subsec. (h). Pub. L. 109–171, §8014(b)(2), inserted at end “Effective for loans for which the date of guarantee of principal is on or after July 1, 2006, in lieu of the insurance premium authorized under the preceding sentence, each State or nonprofit private institution or organization having an agreement with the Secretary under section 1078(b)(1) of this title shall collect and deposit into the Federal Student Loan Reserve Fund under section 1072a of this title, a Federal default fee of an amount equal to 1.0 percent of the principal amount of the loan, which fee shall be collected either by deduction from the proceeds of the loan or by payment from other non-Federal sources. The Federal default fee shall not be used for incentive payments to lenders.”
 
-1998—Subsec. (b). Pub. L. 105–244, §423(a), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Any student meeting the requirements for student eligibility under section 1091 of this title (including graduate and professional students as defined in regulations promulgated by the Secretary) shall be entitled to borrow an unsubsidized Stafford loan. Such student shall provide to the lender a statement from the eligible institution at which the student has been accepted for enrollment, or at which the student is in attendance, which—
+<b>1998</b>—Subsec. (b). Pub. L. 105–244, §423(a), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Any student meeting the requirements for student eligibility under section 1091 of this title (including graduate and professional students as defined in regulations promulgated by the Secretary) shall be entitled to borrow an unsubsidized Stafford loan. Such student shall provide to the lender a statement from the eligible institution at which the student has been accepted for enrollment, or at which the student is in attendance, which—
 
 &emsp;“(1) sets forth such student's estimated cost of attendance (as determined under section 1087<i>ll</i> of this title);
 
@@ -204,9 +210,9 @@ Subsec. (e)(7). Pub. L. 105–244, §423(e), added par. (7).
 
 Subsec. (f). Pub. L. 105–244, §423(f), struck out heading and text of subsec. (f) which provided for lenders to charge borrowers origination fees on loans.
 
-1996—Subsec. (d)(2). Pub. L. 104–134 substituted semicolon for period at end of subpar. (C) and inserted concluding provisions.
+<b>1996</b>—Subsec. (d)(2). Pub. L. 104–134 substituted semicolon for period at end of subpar. (C) and inserted concluding provisions.
 
-1993—Subsec. (b). Pub. L. 103–66, §4047(a)(1), inserted “(including graduate and professional students as defined in regulations promulgated by the Secretary)” in introductory provisions.
+<b>1993</b>—Subsec. (b). Pub. L. 103–66, §4047(a)(1), inserted “(including graduate and professional students as defined in regulations promulgated by the Secretary)” in introductory provisions.
 
 Subsec. (d). Pub. L. 103–66, §4047(a)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The annual and aggregate limits for loans under this section shall be the same as those established under section 1078(b)(1) of this title, less any amount received by such student pursuant to the subsidized loan program established under section 1078 of this title.”
 

@@ -34,15 +34,15 @@ Termination of Appointment.—Unless sooner terminated, an appointment under thi
 
 (f)
 
-Limitation on Number of Eligible Positions.—An appointment under this section may only be made for service in a position designatedby the Secretary of the Navy for purposes of this section. The number of positions so designated may not exceed 325.
+Limitation on Number of Eligible Positions.—An appointment under this section may only be made for service in a position designated by the Secretary of the Navy for purposes of this section. The number of positions so designated may not exceed 325.
 
 (Added Pub. L. 96–513, title III, §334, Dec. 12, 1980, 94 Stat. 2897; amended Pub. L. 98–94, title IV, §403, Sept. 24, 1983, 97 Stat. 629; Pub. L. 98–525, title V, §514, Oct. 19, 1984, 98 Stat. 2522; Pub. L. 99–661, div. A, title V, §503, Nov. 14, 1986, 100 Stat. 3864; Pub. L. 100–180, div. A, title V, §501(a), Dec. 4, 1987, 101 Stat. 1085; Pub. L. 101–189, div. A, title V, §512(a), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 102–484, div. A, title V, §507, Oct. 23, 1992, 106 Stat. 2405; Pub. L. 103–160, div. A, title V, §508(a), Nov. 30, 1993, 107 Stat. 1647; Pub. L. 104–106, div. A, title V, §508(a), (b), (d), Feb. 10, 1996, 110 Stat. 296, 297; Pub. L. 104–201, div. A, title V, §503, Sept. 23, 1996, 110 Stat. 2511; Pub. L. 107–314, div. A, title X, §1041(a)(20), Dec. 2, 2002, 116 Stat. 2645.)
 
 #### Amendments
 
-2002—Subsec. (f). Pub. L. 107–314 struck out par. (1) designation and struck out par. (2) which read as follows: “Whenever the Secretary makes a change to the positions designated under paragraph (1), the Secretary shall submit notice of the change in writing to Congress.”
+<b>2002</b>—Subsec. (f). Pub. L. 107–314 struck out par. (1) designation and struck out par. (2) which read as follows: “Whenever the Secretary makes a change to the positions designated under paragraph (1), the Secretary shall submit notice of the change in writing to Congress.”
 
-1996—Subsec. (a). Pub. L. 104–201, §503(a), (c), substituted “Officers” for “Officer” in heading and “the President, by and with the advice and consent of the Senate” for “the President alone” in concluding provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201, §503(a), (c), substituted “Officers” for “Officer” in heading and “the President, by and with the advice and consent of the Senate” for “the President alone” in concluding provisions.
 
 Pub. L. 104–106, §508(d)(1), inserted heading.
 
@@ -60,19 +60,19 @@ Pub. L. 104–106, §508(d)(6), inserted heading.
 
 Pub. L. 104–106, §508(b)(1), redesignated subsec. (f) as (g).
 
-1993—Subsec. (f). Pub. L. 103–160 substituted “September 30, 1995” for “September 30, 1993”.
+<b>1993</b>—Subsec. (f). Pub. L. 103–160 substituted “September 30, 1995” for “September 30, 1993”.
 
-1992—Subsec. (f). Pub. L. 102–484 substituted “September 30, 1993” for “September 30, 1992”.
+<b>1992</b>—Subsec. (f). Pub. L. 102–484 substituted “September 30, 1993” for “September 30, 1992”.
 
-1989—Subsec. (f). Pub. L. 101–189 substituted “September 30, 1992” for “September 30, 1989”.
+<b>1989</b>—Subsec. (f). Pub. L. 101–189 substituted “September 30, 1992” for “September 30, 1989”.
 
-1987—Subsec. (f). Pub. L. 100–180 substituted “September 30, 1989” for “September 30, 1987”.
+<b>1987</b>—Subsec. (f). Pub. L. 100–180 substituted “September 30, 1989” for “September 30, 1987”.
 
-1986—Subsec. (f). Pub. L. 99–661 substituted “September 30, 1987” for “September 30, 1986”.
+<b>1986</b>—Subsec. (f). Pub. L. 99–661 substituted “September 30, 1987” for “September 30, 1986”.
 
-1984—Subsec. (f). Pub. L. 98–525 substituted “September 30, 1986” for “September 30, 1984”.
+<b>1984</b>—Subsec. (f). Pub. L. 98–525 substituted “September 30, 1986” for “September 30, 1984”.
 
-1983—Subsec. (f). Pub. L. 98–94 substituted “September 30, 1984” for “September 30, 1983”.
+<b>1983</b>—Subsec. (f). Pub. L. 98–94 substituted “September 30, 1984” for “September 30, 1983”.
 
 #### Effective Date of 1996 Amendment
 

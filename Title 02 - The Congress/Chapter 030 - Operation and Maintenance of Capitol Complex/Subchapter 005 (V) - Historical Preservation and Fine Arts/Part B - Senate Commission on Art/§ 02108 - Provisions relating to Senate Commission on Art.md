@@ -24,7 +24,7 @@
 
 #### (1) Curatorial Advisory Board
 
-&emsp;There is established a Board which shall be chaired by the Senate Curator. The Curatorial Advisory Board shall provide advice and assistance to the Commission on the acquisition, care, and disposition of items for or within the United States Senate Collection, and on such other matters as the Commission determines appropriate.
+&emsp;There is established a Board which shall be chaired by the Senate Curator. The CuratorialAdvisory Board shall provide advice and assistance to the Commission on the acquisition, care, and disposition of items for or within the United States Senate Collection, and on such other matters as the Commission determines appropriate.
 
 #### (2) Additional advisory boards
 
@@ -112,7 +112,7 @@
 
 #### (B) Type of obligation
 
-&emsp;&emsp;Each investment required by this paragraph shall be made in an interest bearing obligation of the United States or an obligation guaranteed as to the principal and interest by the United States that, as determined by the Commission, has a maturity suitable for the fund.
+&emsp;&emsp;Each investment required by this paragraph shall be made in an interest bearingobligation of the United States or an obligation guaranteed as to the principal and interest by the United States that, as determined by the Commission, has a maturity suitable for the fund.
 
 #### (C) Commission approval
 

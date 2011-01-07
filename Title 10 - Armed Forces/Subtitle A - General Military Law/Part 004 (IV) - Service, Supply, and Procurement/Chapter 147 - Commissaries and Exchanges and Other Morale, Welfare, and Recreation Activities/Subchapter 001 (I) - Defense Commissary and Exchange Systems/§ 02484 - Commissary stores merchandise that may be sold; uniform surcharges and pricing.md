@@ -68,7 +68,7 @@ Special Rules for Certain Merchandise.—(1) Notwithstanding the general require
 
 Use of Surcharge for Construction, Repair, Improvement, and Maintenance.—(1)(A) The Secretary of Defense may use the proceeds from the surcharges imposed under subsection (d) only—
 
-&emsp;(i) to acquire (including acquisition by lease), construct, convert, expand, improve,repair, maintain, and equip the physical infrastructure of commissary stores and central product processing facilities of the defense commissary system; and
+&emsp;(i) to acquire (including acquisition by lease), construct, convert, expand, improve, repair, maintain, and equip the physical infrastructure of commissary stores and central product processing facilities of the defense commissary system; and
 
 &emsp;(ii) to cover environmental evaluation and construction costs related to activities described in clause (i), including costs for surveys, administration, overhead, planning, and design.
 
@@ -104,15 +104,15 @@ A prior section 2484 was renumbered section 2483 of this title.
 
 #### Amendments
 
-2008—Subsec. (h)(3) to (5). Pub. L. 110–417 added par. (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and substituted “paragraph (1), (2), or (3)” for “paragraph (1) or (2)” in par. (4).
+<b>2008</b>—Subsec. (h)(3) to (5). Pub. L. 110–417 added par. (3), redesignated former pars. (3) and (4) as (4) and (5),respectively, and substituted “paragraph (1), (2), or (3)” for “paragraph (1) or (2)” in par. (4).
 
-2006—Pub. L. 109–364, §1071(g)(6), made technical correction to directory language of Pub. L. 108–375, §651(a)(5)(C). See 2004 Amendment notes for subsecs. (a) to (d) below.
+<b>2006</b>—Pub. L. 109–364, §1071(g)(6), made technical correction to directory language of Pub. L. 108–375, §651(a)(5)(C). See 2004 Amendment notes for subsecs. (a) to (d) below.
 
 Subsec. (c)(3). Pub. L. 109–364, §661(a), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), subsections” for “Subsections”, and added subpar. (B).
 
 Subsec. (g). Pub. L. 109–364, §661(b), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), subsections” for “Subsections”, and added par. (2).
 
-2004—Pub. L. 108–375, §651(a)(2), (4), renumbered section 2486 of this title as this section.
+<b>2004</b>—Pub. L. 108–375, §651(a)(2), (4), renumbered section 2486 of this title as this section.
 
 Subsecs. (a) to (c). Pub. L. 108–375, §651(a)(5)(C), as amended by Pub. L. 109–364, §1071(g)(6), added subsecs. (a) to (c).
 
@@ -132,13 +132,13 @@ Pub. L. 108–375, §651(a)(5)(A), (B), redesignated subsec. (f) as (g) and stru
 
 Subsec. (h). Pub. L. 108–375, §651(a)(5)(F), added subsec. (h).
 
-2002—Subsec. (b)(12). Pub. L. 107–314 substituted “, except that the Secretary shall notify Congress of any addition of, or change in, a merchandise category under this paragraph.” for “, except that the Secretary shall submit to Congress, not later than March 1 of each year, a report describing—
+<b>2002</b>—Subsec. (b)(12). Pub. L. 107–314 substituted “, except that the Secretary shall notify Congress of any addition of, or change in, a merchandise category under this paragraph.” for “, except that the Secretary shall submit to Congress, not later than March 1 of each year, a report describing—
 
-&emsp;“(A) any addition of, or change in, a merchandise category proposed to be made under this paragraphduring the one-year period beginning on that date; and
+&emsp;“(A) any addition of, or change in, a merchandise category proposed to be made under this paragraph during the one-year period beginning on that date; and
 
 &emsp;“(B) those additions and changes in merchandise categories actually made during the preceding one-year period.”
 
-2000—Subsec. (b)(11), (12). Pub. L. 106–398, §1 \[\[div. A\], title III, §334(a)\], added par. (11) and redesignated former par. (11) as (12).
+<b>2000</b>—Subsec. (b)(11), (12). Pub. L. 106–398, §1 \[\[div. A\], title III, §334(a)\], added par. (11) and redesignated former par. (11) as (12).
 
 Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title III, §332(a)(1)\], substituted “subsection (d) or section” for “section 2484(b) or”.
 
@@ -152,11 +152,11 @@ Subsec. (f). Pub. L. 106–398, §1 \[\[div. A\], title III, §334(b)\], struck 
 
 &emsp;“(B) Tobacco products.”
 
-1999—Subsec. (c). Pub. L. 106–65 substituted “November 18, 1997,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998,” in second sentence.
+<b>1999</b>—Subsec. (c). Pub. L. 106–65 substituted “November 18, 1997,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998,” in second sentence.
 
-1998—Subsec. (g). Pub. L. 105–261 added subsec. (g).
+<b>1998</b>—Subsec. (g). Pub. L. 105–261 added subsec. (g).
 
-1997—Subsec. (a). Pub. L. 105–85, §372(e)(1), inserted heading.
+<b>1997</b>—Subsec. (a). Pub. L. 105–85, §372(e)(1), inserted heading.
 
 Subsec. (b). Pub. L. 105–85, §372(a)(1), inserted heading and substituted “Merchandise sold in, at, or by commissary stores may include items only in the following categories:” for “Merchandise sold in commissary stores may include items in the following categories:” in introductory provisions.
 
@@ -176,9 +176,9 @@ Pub. L. 105–85, §372(e)(2), inserted heading and substituted “in, at, or by
 
 Subsec. (f). Pub. L. 105–85, §372(d), added subsec. (f).
 
-1996—Subsec. (e). Pub. L. 104–201 added subsec. (e).
+<b>1996</b>—Subsec. (e). Pub. L. 104–201 added subsec. (e).
 
-1987—Pub. L. 100–180, §313(a)(2), inserted “and pricing” in section catchline.
+<b>1987</b>—Pub. L. 100–180, §313(a)(2), inserted “and pricing” in section catchline.
 
 Subsec. (d). Pub. L. 100–180, §313(a)(1), added subsec. (d).
 

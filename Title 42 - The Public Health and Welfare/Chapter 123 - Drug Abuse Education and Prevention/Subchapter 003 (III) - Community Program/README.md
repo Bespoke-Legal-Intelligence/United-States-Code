@@ -1,7 +1,5 @@
 ### SUBCHAPTER III—COMMUNITY PROGRAM
 
-<i><sup>1</sup></i><i> So in original. The word “the” probably should not appear.</i>
-
 
 ---
 

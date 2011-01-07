@@ -12,13 +12,13 @@
 
 #### Amendments
 
-1991—Subsec. (c). Pub. L. 102–240 substituted “$50,000” for “$15,000” wherever appearing.
+<b>1991</b>—Subsec. (c). Pub. L. 102–240 substituted “$50,000” for “$15,000” wherever appearing.
 
-1968—Subsec. (c). Pub L. 90–495 increased from $10,000 to $15,000 the cost limitation on construction per mile, or per project for projects of less than a mile, which the Forest Service may construct on its own account and struck out provisions spelling out the functions which the Secretary of Agriculture is authorized to perform in carrying out such construction.
+<b>1968</b>—Subsec. (c). Pub L. 90–495 increased from $10,000 to $15,000 the cost limitation on construction per mile, or per project for projects of less than a mile, which the Forest Service may construct on its own account and struck out provisions spelling out the functions which the Secretary of Agriculture is authorized to perform in carrying out such construction.
 
-1964—Subsec. (a). Pub. L. 88–423 inserted “and other” after “experimental”.
+<b>1964</b>—Subsec. (a). Pub. L. 88–423 inserted “and other” after “experimental”.
 
-1960—Subsec. (a). Pub. L. 86–657 substituted “may enter into contracts” for “may enter into construction contracts”.
+<b>1960</b>—Subsec. (a). Pub. L. 86–657 substituted “may enter into contracts” for “may enter into construction contracts”.
 
 #### Effective Date of 1991 Amendment
 

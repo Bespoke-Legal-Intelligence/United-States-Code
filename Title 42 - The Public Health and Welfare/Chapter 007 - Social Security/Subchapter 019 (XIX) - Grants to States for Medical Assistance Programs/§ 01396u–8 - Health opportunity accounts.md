@@ -12,7 +12,7 @@
 
 &emsp;&emsp;The demonstration program under this section shall begin on January 1, 2007. During the first 5 years of such program, the Secretary shall not approve more than 10 States to conduct demonstration programs under this section, with each State demonstration program covering 1 or more geographic areas specified by the State. After such 5-year period—
 
-&emsp;&emsp;&emsp;(i) unless the Secretary finds, taking into account cost-effectiveness, quality of care, and other criteria that the Secretary specifies, that a State demonstration program previously implemented has been unsuccessful, such a demonstration program may be extended or made permanent in the State; and
+&emsp;&emsp;&emsp;(i) unless the Secretary finds, taking into account cost-effectiveness, quality of care, and other criteria that the Secretary specifies, that a State demonstration program previously implemented has been unsuccessful, such a demonstration programmay be extended or made permanent in the State; and
 
 &emsp;&emsp;&emsp;(ii) unless the Secretary finds, taking into account cost-effectiveness, quality of care, and other criteria that the Secretary specifies, that all State demonstration programs previously implemented were unsuccessful, other States may implement State demonstration programs.
 
@@ -48,7 +48,7 @@
 
 #### (4) No requirement for statewideness
 
-&emsp;Nothing in this section or any other provision of law shall be construed to require thata State must provide for the implementation of a State demonstration program on a Statewide <sup>1</sup> basis.
+&emsp;Nothing in this section or any other provision of law shall be construed to require that a State must provide for the implementation of a State demonstration program on a Statewide <sup>1</sup> basis.
 
 #### (b) Eligible population groups
 
@@ -124,7 +124,7 @@
 
 #### (B) Treatment under medicaid managed care plans
 
-&emsp;&emsp;In the case of an individual who is participating in a State demonstration program and is enrolled with a Medicaid managed care organization, the State shall enter into an arrangement with the organization underwhich the individual may obtain demonstration program Medicaid services from any provider described in clause (ii) of subparagraph (A) at payment rates that do not exceed the payment rates that may be imposed under that clause.
+&emsp;&emsp;In the case of an individual who is participating in a State demonstration program and is enrolled with a Medicaid managed care organization, the State shall enter into an arrangement with the organization under which the individual may obtain demonstration program Medicaid services from any provider described in clause (ii) of subparagraph (A) at payment rates that do not exceed the payment rates that may be imposed under that clause.
 
 #### (C) Computation
 
@@ -162,7 +162,7 @@
 
 &emsp;&emsp;&emsp;(i) may vary the amount of the annual deductible applied under paragraph (1)(A) based on the income of the family involved so long as it does not favor families with higher income over those with lower income; and
 
-&emsp;&emsp;&emsp;(ii) may vary the amount of the maximum out-of-pocket cost sharing (as defined in subparagraph (B)) based on the income of the family involved so long as it does not favor families with higher income over those with lower income.
+&emsp;&emsp;&emsp;(ii) may vary the amount of the maximum out-of-pocket cost sharing (as defined in subparagraph (B)) based on the income of the family involved so long as itdoes not favor families with higher income over those with lower income.
 
 #### (B) Maximum out-of-pocket cost sharing
 
@@ -202,7 +202,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) may limit contributions into such an account once the balance in the account reaches a level specified by the State; and
 
-&emsp;&emsp;&emsp;&emsp;(III) subject to clauses (ii) and (iii) and subparagraph (D)(i), may not provide contributions described in subparagraph (A)(i) to a health opportunity account on behalf of an individual or family to the extent the amount of such contributions\(including both State and Federal shares) exceeds, on an annual basis, $2,500 for each individual (or family member) who is an adult and $1,000 for each individual (or family member) who is a child.
+&emsp;&emsp;&emsp;&emsp;(III) subject to clauses (ii) and (iii) and subparagraph (D)(i), may not provide contributions described in subparagraph (A)(i) to a health opportunity account on behalf of an individual or family to the extent the amount of such contributions (including both State and Federal shares) exceeds, on an annual basis, $2,500 for each individual (or family member) who is an adult and $1,000 for each individual (or family member) who is a child.
 
 #### (ii) Indexing of dollar limitations
 
@@ -272,7 +272,7 @@
 
 #### (iii) Exception from 25 percent savings to Government for private contributions
 
-&emsp;&emsp;&emsp;Clause (i)(II) shall not apply to the portion of the account that is attributable tocontributions described in paragraph (2)(A)(ii). For purposes of accounting for such contributions, withdrawals from a health opportunity account shall first be attributed to contributions described in paragraph (2)(A)(i).
+&emsp;&emsp;&emsp;Clause (i)(II) shall not apply to the portion of the account that is attributable to contributions described in paragraph (2)(A)(ii). For purposes of accounting for such contributions, withdrawals from a health opportunity account shall first be attributed to contributions described in paragraph (2)(A)(i).
 
 #### (iv) Condition for non-health withdrawals
 

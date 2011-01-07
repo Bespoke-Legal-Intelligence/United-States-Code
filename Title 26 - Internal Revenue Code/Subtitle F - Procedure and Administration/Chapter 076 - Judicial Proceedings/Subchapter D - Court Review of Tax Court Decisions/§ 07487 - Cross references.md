@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1969—Pub. L. 91–172 inserted reference to section 7463(b) for nonreviewability of Tax Court decisions in small claims cases.
+<b>1969</b>—Pub. L. 91–172 inserted reference to section 7463(b) for nonreviewability of Tax Court decisions in small claims cases.
 
 #### Effective Date of 1969 Amendment
 

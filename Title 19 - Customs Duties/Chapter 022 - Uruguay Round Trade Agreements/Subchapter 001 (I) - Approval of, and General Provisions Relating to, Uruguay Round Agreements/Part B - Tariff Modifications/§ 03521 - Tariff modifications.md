@@ -312,7 +312,7 @@ At such time as the President proclaims any modification to the HTS to implement
 
 #### (1) In general
 
-&emsp;Whenever the HTS column 1 general rates of duty for 2 or more 8-digit subheadings are at the same level and such subheadings are subordinate to a provision required by the International Convention on the Harmonized Commodity Description and Coding System, the President may proclaim, subject to the consultation and layover requirements of section 3524 of this title, that the goods described in such subheadings be provided for in a single 8-digit subheading of the HTS, and that—
+&emsp;Whenever the HTS column 1 general rates of duty for 2 or more 8-digit subheadings are atthe same level and such subheadings are subordinate to a provision required by the International Convention on the Harmonized Commodity Description and Coding System, the President may proclaim, subject to the consultation and layover requirements of section 3524 of this title, that the goods described in such subheadings be provided for in a single 8-digit subheading of the HTS, and that—
 
 &emsp;&emsp;(A) the HTS column 1 general rate of duty for such single subheading be the column 1 general rate of duty common to all such subheadings, and
 

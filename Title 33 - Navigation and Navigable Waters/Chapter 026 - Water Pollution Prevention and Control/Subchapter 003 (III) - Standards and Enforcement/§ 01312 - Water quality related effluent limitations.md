@@ -28,7 +28,7 @@ The establishment of effluent limitations under this section shall not operate t
 
 #### Amendments
 
-1987—Subsec. (a). Pub. L. 100–4, §308(e)(2), inserted “or as identified under section 1314(<i>l</i>) of this title” after “Administrator” and “public health,” after “protection of”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–4, §308(e)(2), inserted “or as identified under section 1314(<i>l</i>) of this title” after “Administrator” and “public health,” after “protection of”.
 
 Subsec. (b). Pub. L. 100–4, §308(e)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 

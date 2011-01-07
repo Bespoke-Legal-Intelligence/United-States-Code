@@ -6,5 +6,5 @@ In determining the amount of any claim, the Commission shall deduct all amounts 
 
 #### Amendments
 
-1965—Pub. L. 89–262 struck out proviso that the deduction of such amounts shall not be construed as divesting the United States of any rights against the Government of Cuba for the amounts so deducted.
+<b>1965</b>—Pub. L. 89–262 struck out proviso that the deduction of such amounts shall not be construed as divesting the United States of any rights against the Government of Cuba for the amounts so deducted.
 

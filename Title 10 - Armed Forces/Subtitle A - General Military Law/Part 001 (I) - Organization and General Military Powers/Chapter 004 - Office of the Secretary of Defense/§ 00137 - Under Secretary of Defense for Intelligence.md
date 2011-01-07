@@ -10,7 +10,7 @@
 
 #### Prior Provisions
 
-A prior section 137 was renumbered section 139a of this title.
+A prior section 137 was renumbered section 138b of this title.
 
 Another prior section 137 was renumbered section 135 of this title.
 

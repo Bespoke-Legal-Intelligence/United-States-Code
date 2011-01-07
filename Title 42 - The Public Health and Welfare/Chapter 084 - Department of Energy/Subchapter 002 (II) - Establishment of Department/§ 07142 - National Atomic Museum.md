@@ -44,11 +44,11 @@ Section 7262 of this title, referred to in subsec. (c)(1)(A), was repealed by Pu
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Years 1992 and 1993, and not as part of the Department of Energy Organization Act which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Years 1992 and 1993, andnot as part of the Department of Energy Organization Act which comprises this chapter.
 
 #### Amendments
 
-1993—Subsec. (c)(1). Pub. L. 103–35 struck out comma after “Secretary of Energy” in introductory provisions.
+<b>1993</b>—Subsec. (c)(1). Pub. L. 103–35 struck out comma after “Secretary of Energy” in introductory provisions.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

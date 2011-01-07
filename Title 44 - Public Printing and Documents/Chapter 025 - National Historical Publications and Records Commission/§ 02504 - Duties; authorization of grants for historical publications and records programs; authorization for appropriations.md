@@ -116,29 +116,29 @@ Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (f)(2)(
 
 #### Amendments
 
-2008—Subsecs. (f), (g). Pub. L. 110–404 added subsec. (f) and redesignated former subsec. (f) as (g).
+<b>2008</b>—Subsecs. (f), (g). Pub. L. 110–404 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-2004—Subsec. (f)(1)(P) to (S). Pub. L. 108–383 added subpars. (P) to (S).
+<b>2004</b>—Subsec. (f)(1)(P) to (S). Pub. L. 108–383 added subpars. (P) to (S).
 
-2000—Subsec. (f)(1)(L) to (O). Pub. L. 106–410 added subpars. (L) to (O).
+<b>2000</b>—Subsec. (f)(1)(L) to (O). Pub. L. 106–410 added subpars. (L) to (O).
 
-1996—Subsec. (f)(1)(H) to (K). Pub. L. 104–274 added subpars. (H) to (K).
+<b>1996</b>—Subsec. (f)(1)(H) to (K). Pub. L. 104–274 added subpars. (H) to (K).
 
-1994—Subsec. (f)(1)(D) to (G). Pub. L. 103–262 added subpars. (D) to (G).
+<b>1994</b>—Subsec. (f)(1)(D) to (G). Pub. L. 103–262 added subpars. (D) to (G).
 
-1988—Pub. L. 100–365 substituted current section catchline for “Duties; authorization of grants for collection, reproduction, and publication of documentary historical source material”, and amended text generally, revising and restating as subsecs. (a) to (f) provisions of former subsecs. (a) and (b).
+<b>1988</b>—Pub. L. 100–365 substituted current section catchline for “Duties; authorization of grants for collection, reproduction, and publication of documentary historical source material”, and amended text generally, revising and restating as subsecs. (a) to (f) provisions of former subsecs. (a) and (b).
 
-1984—Subsec. (a). Pub. L. 98–497, §107(b)(10)(A)–(D), substituted “Archivist of the United States” for “Administrator of General Services” in third sentence, substituted “Archivist” for “Administrator” in fourth sentence, inserted “and Records” after “Historical Preservation” in fourth sentence, and substituted “transmit to the President and the Congress” for “transmit to the Administrator” in last sentence.
+<b>1984</b>—Subsec. (a). Pub. L. 98–497, §107(b)(10)(A)–(D), substituted “Archivist of the United States” for “Administrator of General Services” in third sentence, substituted “Archivist” for “Administrator” in fourth sentence, inserted “and Records” after “Historical Preservation” in fourth sentence, and substituted “transmit to the President and the Congress” for “transmit to the Administrator” in last sentence.
 
 Subsec. (b). Pub. L. 98–497, §107(b)(10)(E), substituted “National Archives and Records Administration” for “General Services Administration”.
 
-1983—Subsec. (b). Pub. L. 98–189 substituted provisions authorizing appropriations for fiscal year ending Sept. 30, 1984, and for each of the four succeeding fiscal years, for provisions authorizing appropriations for fiscal year ending Sept. 30, 1981.
+<b>1983</b>—Subsec. (b). Pub. L. 98–189 substituted provisions authorizing appropriations for fiscal year ending Sept. 30, 1984, and for each of the four succeeding fiscal years, for provisions authorizing appropriations for fiscal year ending Sept. 30, 1981.
 
-1979—Subsec. (b). Pub. L. 96–98 substituted provisions authorizing appropriations for fiscal year ending Sept. 30, 1981, for provisions authorizing appropriations for fiscal year ending June 30, 1975, and for each of four succeeding fiscal years.
+<b>1979</b>—Subsec. (b). Pub. L. 96–98 substituted provisions authorizing appropriations for fiscal year ending Sept. 30, 1981, for provisions authorizing appropriations for fiscal year ending June 30, 1975, and for each of four succeeding fiscal years.
 
-1974—Subsec. (b). Pub. L. 93–536 substituted “1975” for “1973” and “$4,000,000” for “$2,000,000”.
+<b>1974</b>—Subsec. (b). Pub. L. 93–536 substituted “1975” for “1973” and “$4,000,000” for “$2,000,000”.
 
-1972—Pub. L. 92–546 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1972</b>—Pub. L. 92–546 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1984 Amendment
 

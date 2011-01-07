@@ -24,7 +24,7 @@ For the purposes of this subchapter—
 
 &emsp;(f) The term “employee” means an individual employed by an employer, except that the term “employee” shall not include any person elected to public office in any State or political subdivision of any State by the qualified voters thereof, or any person chosen by such officer to be on such officer's personal staff, or an appointee on the policy making level or an immediate adviser with respect to the exercise of the constitutional or legal powers of the office. The exemption set forth in the preceding sentence shall not include employees subject to the civil service laws of a State government, governmental agency or political subdivision. With respect to employment in a foreign country, such term includes an individual who is a citizen of the United States.
 
-&emsp;(g) The term “commerce” means trade, traffic, commerce, transportation, transmission, or communication among the several States; or between a State and any place outside thereof; or within the District of Columbia, or a possession of the United States; or between points in the same State but through a point outside thereof.
+&emsp;(g) The term “commerce” means trade, traffic, commerce, transportation, transmission, or communication among the several States; or between a State and any place outside thereof; or within the District of Columbia, ora possession of the United States; or between points in the same State but through a point outside thereof.
 
 &emsp;(h) The term “industry affecting commerce” means any activity, business, or industry in commerce or in which a labor dispute would hinder or obstruct commerce or the free flow of commerce and includes any activity or industry “affecting commerce” within the meaning of the Labor-Management Reporting and Disclosure Act of 1959 \[29 U.S.C. 401 et seq.\], and further includes any governmental industry, business, or activity.
 
@@ -56,17 +56,17 @@ The Outer Continental Shelf Lands Act, referred to in subsec. (i), is act Aug. 7
 
 #### Amendments
 
-1991—Subsec. (f). Pub. L. 102–166, §109(a), inserted at end “With respect to employment in a foreign country, such term includes an individual who is a citizen of the United States.”
+<b>1991</b>—Subsec. (f). Pub. L. 102–166, §109(a), inserted at end “With respect to employment in a foreign country, such term includes an individual who is a citizen of the United States.”
 
 Subsecs. (<i>l</i>) to (n). Pub. L. 102–166, §104, added subsecs. (<i>l</i>) to (n).
 
-1986—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1978—Subsec. (a). Pub. L. 95–598 substituted “trustees in cases under title 11” for “trustees in bankruptcy”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–598 substituted “trustees in cases under title 11” for “trustees in bankruptcy”.
 
 Subsec. (k). Pub. L. 95–555 added subsec. (k).
 
-1972—Subsec. (a). Pub. L. 92–261, §2(1), included within “person” governments, governmental agencies, and political subdivisions.
+<b>1972</b>—Subsec. (a). Pub. L. 92–261, §2(1), included within “person” governments, governmental agencies, and political subdivisions.
 
 Subsec. (b). Pub. L. 92–261, §2(2), substituted “fifteen or more employees” for “twenty-five or more employees”, extended coverage to include State and local governments, excepted from coverage any department or agency of the District of Columbia subject by statute to procedures of the competitive service, as defined in section 2102 of title 5, and substituted provisions under which persons having fewer than twenty-five employees during the first year after March 24, 1972, were not to be considered employers, for provisions under which persons having fewer than a specified number of employees during the first year after the effective date of this section, and the second and third years after such date were not to be considered employers.
 
@@ -80,7 +80,7 @@ Subsec. (h). Pub. L. 92–261, §2(6), inserted “, and further includes any g
 
 Subsec. (j). Pub. L. 92–261, §2(7), added subsec. (j).
 
-1966—Subsec. (b). Pub. L. 89–554 struck out proviso which stated that it shall be the policy of the United States to insure equal employment opportunities for Federal employees without discrimination because of race, color, religion, sex, or national origin and directed the President to utilize his existing authority to effectuate this policy.
+<b>1966</b>—Subsec. (b). Pub. L. 89–554 struck out proviso which stated that it shall be the policy of the United States to insure equal employment opportunities for Federal employees without discrimination because of race, color, religion, sex, or national origin and directed the President to utilize his existing authority to effectuate this policy.
 
 #### Effective Date of 1991 Amendment
 
@@ -152,7 +152,7 @@ Sec. 202. Except in contracts exempted in accordance with Section 204 of this Or
 
 “(5) The contractor will furnish all information and reports required by Executive Order No. 11246 of September 24, 1965, and by the rules, regulations, and orders of the Secretary of Labor, or pursuant thereto, and will permit access to his books, records, and accounts by the contracting agency and the Secretary of Labor for purposes of investigation to ascertain compliance with such rules, regulations, and orders.
 
-“(6) In the event of the contractor's noncompliance with the nondiscrimination clauses of this contract orwith any of such rules, regulations, or orders, this contract may be cancelled, terminated or suspended in whole or in part and the contractor may be declared ineligible for further Government contracts in accordance with procedures authorized in Executive Order No. 11246 of Sept. 24, 1965, and such other sanctions may be imposed and remedies invoked as provided in Executive Order No. 11246 of September 24, 1965, or by rule, regulation, or order of the Secretary of Labor, or as otherwise provided by law.
+“(6) In the event of the contractor's noncompliance with the nondiscrimination clauses of this contract or with any of such rules, regulations, or orders, this contract may be cancelled, terminated or suspended in whole or in part and the contractor may be declared ineligible for further Government contracts in accordance with procedures authorized in Executive Order No. 11246 of Sept. 24, 1965, and such other sanctions may be imposed and remedies invoked as provided in Executive Order No. 11246 of September 24, 1965, or by rule, regulation, or order of the Secretary of Labor, or as otherwise provided by law.
 
 “(7) The contractor will include the provisions of paragraphs (1) through (7) in every subcontract or purchase order unless exempted by rules, regulations, or orders of the Secretary of Labor issued pursuant to Section 204 of Executive Order No. 11246 of September 24, 1965 \[section 204 of this Order\] so that such provisions will be binding upon each subcontractor or vendor. The contractor will take such action with respect to any subcontract or purchase order as may be directed by the Secretary of Labor as a means of enforcing such provisions including sanctions for noncompliance: <i>Provided, however</i>, that in the event the contractor becomes involved in, or is threatened with, litigation with a subcontractor or vendor as a result of such direction, the contractor may request the United States to enter into such litigation to protect the interests of the United States.”
 
@@ -174,7 +174,7 @@ Sec. 204. (a) The Secretary of Labor may, when the Secretary deems that special 
 
 #### subpart c—powers and duties of the secretary of labor and the contracting agencies
 
-Sec. 205. The Secretary of Labor shall be responsible for securing compliance by all Government contractors and subcontractors with this Order and any implementing rules or regulations. All contracting agencies shall comply with the terms of this Order and any implementing rules, regulations, or orders of the Secretary of Labor. Contracting agencies shall cooperate with the Secretary of Labor and shall furnish such information and assistance as the Secretary may require.
+Sec. 205. The Secretary of Labor shall be responsible for securing compliance by all Government contractorsand subcontractors with this Order and any implementing rules or regulations. All contracting agencies shall comply with the terms of this Order and any implementing rules, regulations, or orders of the Secretary of Labor. Contracting agencies shall cooperate with the Secretary of Labor and shall furnish such information and assistance as the Secretary may require.
 
 Sec. 206. (a) The Secretary of Labor may investigate the employment practices of any Government contractor or subcontractor to determine whether or not the contractual provisions specified in Section 202 of this Order have been violated. Such investigation shall be conducted in accordance with the procedures established by the Secretary of Labor.
 
@@ -220,7 +220,7 @@ Sec. 215. The Secretary of Labor may provide for the exemption of any employer, 
 
 #### Part III—Nondiscrimination Provisions in Federally Assisted Construction Contracts
 
-Sec. 301. Each executive department and agency which administers a program involving Federal financial assistance shall require as a condition for the approval of any grant, contract, loan, insurance, or guarantee thereunder, which may involve a construction contract, that the applicant for Federal assistance undertake and agree to incorporate, or cause to be incorporated, into all construction contracts paid for in whole or in part with funds obtained from the Federal Government or borrowed on the credit of the Federal Government pursuant to such grant, contract, loan, insurance, or guarantee, or undertaken pursuant to any Federal program involving such grant, contract, loan, insurance, or guarantee, the provisions prescribed for Government contracts by Section 202 of this Order or such modification thereof, preserving in substance the contractor's obligations thereunder, as may be approved by the Secretary of Labor; together with such additional provisions as the Secretary deems appropriate to establish and protect the interest of the United States in the enforcement of those obligations. Each such applicant shall also undertake and agree (1) to assist and cooperate actively with the Secretary of Labor in obtaining the compliance of contractors and subcontractors with those contract provisions and with the rules, regulations and relevant orders of the Secretary, (2) to obtain and to furnish to the Secretary of Labor such information as the Secretary may require for the supervision of such compliance, (3) to carry out sanctions and penalties for violation of such obligations imposed upon contractors and subcontractors by the Secretary of Labor pursuant to Part II, Subpart D, of this Order, and (4) to refrain from entering into any contract subject to this Order, or extension or other modification of such a contract with a contractor debarred from Government contracts under Part II, Subpart D, of this Order.
+Sec. 301. Each executive department and agency which administers a program involving Federal financial assistance shall require as a condition for the approval of any grant, contract, loan, insurance, or guarantee thereunder, which may involve a constructioncontract, that the applicant for Federal assistance undertake and agree to incorporate, or cause to be incorporated, into all construction contracts paid for in whole or in part with funds obtained from the Federal Government or borrowed on the credit of the Federal Government pursuant to such grant, contract, loan, insurance, or guarantee, or undertaken pursuant to any Federal program involving such grant, contract, loan, insurance, or guarantee, the provisions prescribed for Government contracts by Section 202 of this Order or such modification thereof, preserving in substance the contractor's obligations thereunder, as may be approved by the Secretary of Labor; together with such additional provisions as the Secretary deems appropriate to establish and protect the interest of the United States in the enforcement of those obligations. Each such applicant shall also undertake and agree (1) to assist and cooperate actively with the Secretary of Labor in obtaining the compliance of contractors and subcontractors with those contract provisions and with the rules, regulations and relevant orders of the Secretary, (2) to obtain and to furnish to the Secretary of Labor such information as the Secretary may require for the supervision of such compliance, (3) to carry out sanctions and penalties for violation of such obligations imposed upon contractors and subcontractors by the Secretary of Labor pursuant to Part II, Subpart D, of this Order, and (4) to refrain from entering into any contract subject to this Order, or extension or other modification of such a contract with a contractor debarred from Government contracts under Part II, Subpart D, of this Order.
 
 Sec. 302. (a) “Construction contract,” as used in this Order means any contract for the construction, rehabilitation, alteration, conversion, extension, or repair of buildings, highways, or other improvements to real property.
 
@@ -262,7 +262,7 @@ Sec. 2. The head of each executive department and agency shall establish and mai
 
 Sec. 3. The Equal Employment Opportunity Commission shall be responsible for directing and furthering the implementation of the policy of the Government of the United States to provide equal opportunity in Federal employment for all employees or applicants for employment (except with regard to aliens employed outside the limits of the United States) and to prohibit discrimination in employment because of race, color, religion, sex, national origin, handicap, or age.
 
-Sec. 4. The Equal Employment Opportunity Commission, after consultation with all affected departmentsand agencies, shall issue such rules, regulations, orders, and instructions and request such information from the affected departments and agencies as it deems necessary and and \[sic\] appropriate to carry out its responsibilities under this Order.
+Sec. 4. The Equal Employment Opportunity Commission, after consultation with all affected departments and agencies, shall issue such rules, regulations, orders, and instructions and request such information from the affected departments and agencies as it deems necessary and and \[sic\] appropriate to carry out its responsibilities under this Order.
 
 Sec. 5. All departments and agencies shall cooperate with and assist the Equal Employment Opportunity Commission in the performance of its functions under this Order and shall furnish the Commission such reports and information as it may request. The head of each department or agency shall comply with rules, regulations, orders and instructions issued by the Equal Employment Opportunity Commission pursuant to Section 4 of this Order.
 
@@ -378,7 +378,7 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12086, Oct. 5, 1978, 43 F.R. 46501, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], in order to provide for the transfer to the Department of Labor of certain contract compliance functions relating to equal employment opportunity, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and statutes of the United States ofAmerica, including Section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], in order to provide for the transfer to the Department of Labor of certain contract compliance functions relating to equal employment opportunity, it is hereby ordered as follows:
 
 #### 1–1.
 
@@ -460,7 +460,7 @@ Sec. 206. (a) The Secretary of Labor may investigate the employment practices of
 
 “
 
-Sec. 210. Whenever the Secretary of Labor makes a determination under Section 209, the Secretary shall promptly notify the appropriate agency. The agency shall take the action directed by the Secretary and shall report the results of the action it has taken to the Secretary of Labor within such time as the Secretary shall specify. If the contracting agency fails to take the action directed within thirty days, the Secretary may take the action directly.”.
+Sec. 210. Whenever the Secretary of Labor makes a determination under Section 209, the Secretary shall promptly notify the appropriate agency. The agency shall take the action directed by the Secretary and shall report the results of the action it has taken to the Secretary of Labor within such time as the Secretaryshall specify. If the contracting agency fails to take the action directed within thirty days, the Secretary may take the action directly.”.
 
 “
 
@@ -564,7 +564,7 @@ Sec. 2. <i>Functions</i>. (a) The members of the Task Force shall be responsible
 
 (c) The Attorney General shall complete the review of Federal laws, regulations, policies, and practices which contain language that unjustifiably differentiates, or which effectively discriminates, on the basis of sex. The Attorney General or his designee shall, on a quarterly basis, report his findings to the President through the Cabinet Council on Legal Policy.
 
-Sec. 3. <i>Administration</i>. (a) The head of each Executive agency shall, to the extent permitted by law, provide the Task Force with such information and advice as the Task Force may identify as being useful to fulfill its functions.
+Sec. 3. <i>Administration</i>. (a) The head of each Executive agency shall, to the extent permitted by law, providethe Task Force with such information and advice as the Task Force may identify as being useful to fulfill its functions.
 
 (b) The agency with its representative chairing the Task Force shall, to the extent permitted by law, provide the Task Force with such administrative support as may be necessary for the effective performance of its functions.
 
@@ -584,7 +584,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13171, Oct. 12, 2000, 65 F.R. 61251, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to improve the representation ofHispanics in Federal employment, within merit system principles and consistent with the application of appropriate veterans’ preference criteria, to achieve a Federal workforce drawn from all segments of society, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to improve the representation of Hispanics in Federal employment, within merit system principles and consistent with the application of appropriate veterans’ preference criteria, to achieve a Federal workforce drawn from all segments of society, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. It is the policy of the executive branch to recruit qualified individuals from appropriate sources in an effort to achieve a workforce drawn from all segments of society. Pursuant to this policy, this Administration notes that Hispanics remain underrepresented in the Federal workforce: they make up only 6.4 percent of the Federal civilian workforce, roughly half of their total representation in the civilian labor force. This Executive Order, therefore, affirms ongoing policies and recommends additional policies to eliminate the underpresentation \[sic\] of Hispanics in the Federal workforce.
 

@@ -46,7 +46,7 @@ For the purposes of this chapter, the following definitions shall apply:
 
 #### (10) Solid waste
 
-&emsp;The term “solid waste” has the meaning provided that term by section 1004(27) of the Solid Waste Disposal Act (42 U.S.C. 6903) and any regulations promulgated thereunder.
+&emsp;The term “solid waste” has the meaning provided that term by section 1004(27) of theSolid Waste Disposal Act (42 U.S.C. 6903) and any regulations promulgated thereunder.
 
 (Pub. L. 103–399, §3, Oct. 22, 1994, 108 Stat. 4164; Pub. L. 104–109, §5, Feb. 12, 1996, 110 Stat. 764.)
 
@@ -60,5 +60,5 @@ The Solid Waste Disposal Act, referred to in par. (8), is title II of Pub. L. 89
 
 #### Amendments
 
-1996—Par. (7). Pub. L. 104–109 substituted “section 4004 of the Solid Waste Disposal Act (42 U.S.C. 6944)” for “section 6944 of the Solid Waste Disposal Act (42 U.S.C. 6941 et seq.)”.
+<b>1996</b>—Par. (7). Pub. L. 104–109 substituted “section 4004 of the Solid Waste Disposal Act (42 U.S.C. 6944)” for “section 6944 of the Solid Waste Disposal Act (42 U.S.C. 6941 et seq.)”.
 

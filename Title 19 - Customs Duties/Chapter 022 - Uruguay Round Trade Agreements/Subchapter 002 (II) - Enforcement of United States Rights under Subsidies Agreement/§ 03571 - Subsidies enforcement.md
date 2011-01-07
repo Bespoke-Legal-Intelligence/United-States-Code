@@ -66,7 +66,7 @@ On the basis of the notification and information provided by the administering a
 
 #### (C) Action by Trade Representative
 
-&emsp;&emsp;The Trade Representative, on the basis of the notification and information provided by the administering authority pursuant to subparagraph (B), and such other information as the Trade Representative may have or obtain, shall determine as expeditiously as possible, but not later than 30 days after receipt of the notification provided by theadministering authority, if there is reason to believe that serious adverse effects exist resulting from the subsidy program which is the subject of the administering authority's notification. The Trade Representative shall make an affirmative determination regarding the existence of such serious adverse effects unless the Trade Representative finds that the notification of the administering authority is not supported by the facts.
+&emsp;&emsp;The Trade Representative, on the basis of the notification and information provided by the administering authority pursuant to subparagraph (B), and such other information as the Trade Representative may have or obtain, shall determine as expeditiously as possible, but not later than 30 days after receipt of the notification provided by the administering authority, if there is reason to believe that serious adverse effects exist resulting from the subsidy program which is the subject of the administering authority's notification. The Trade Representative shall make an affirmative determination regarding the existence of such serious adverse effects unless the Trade Representative finds that the notification of the administering authority is not supported by the facts.
 
 #### (D) Consultations
 
@@ -98,7 +98,7 @@ On the basis of the notification and information provided by the administering a
 
 #### (2) Publication in the Federal Register
 
-&emsp;The administering authority shall publish regularly in the Federal Register a summary notice of any information submitted or report made pursuant to Article 8.3 or 8.4 of the Subsidies Agreement regarding notified subsidy programs.
+&emsp;The administering authority shall publish regularly in the Federal Register a summarynotice of any information submitted or report made pursuant to Article 8.3 or 8.4 of the Subsidies Agreement regarding notified subsidy programs.
 
 #### (3) Consultations with Congress and private sector
 
@@ -186,7 +186,7 @@ This subchapter, referred to in subsec. (i), was in the original “this part”
 
 #### Amendments
 
-1996—Subsec. (h)(4). Pub. L. 104–295 struck out “(A),” after “1677(9)”.
+<b>1996</b>—Subsec. (h)(4). Pub. L. 104–295 struck out “(A),” after “1677(9)”.
 
 #### Effective Date
 

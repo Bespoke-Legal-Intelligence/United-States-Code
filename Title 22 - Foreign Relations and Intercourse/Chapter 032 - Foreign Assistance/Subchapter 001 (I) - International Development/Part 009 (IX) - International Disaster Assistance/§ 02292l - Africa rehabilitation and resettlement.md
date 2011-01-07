@@ -16,13 +16,13 @@ Assistance under this section shall be provided in accordance with the policies 
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–533 substituted subsec. (a) for prior first sentence authorization of the President to furnish assistance, on such terms and conditions as he may determine, exclusively for the relief and rehabilitation of African refugees and other needy people located in Africa.
+<b>1980</b>—Subsec. (a). Pub. L. 96–533 substituted subsec. (a) for prior first sentence authorization of the President to furnish assistance, on such terms and conditions as he may determine, exclusively for the relief and rehabilitation of African refugees and other needy people located in Africa.
 
 Subsec. (b). Pub. L. 96–533 incorporated existing second sentence in provisions designated subsec. (b) and increased appropriations authorization to $15,000,000 for fiscal year 1981 for such authorization of $14,920,000 for fiscal year 1980.
 
 Subsec. (c). Pub. L. 96–533 designated third sentence as subsec. (c).
 
-1979—Pub. L. 96–53 substituted “1980” for “1979” and “$14,920,000” for “$15,000,000”.
+<b>1979</b>—Pub. L. 96–53 substituted “1980” for “1979” and “$14,920,000” for “$15,000,000”.
 
 #### Effective Date of 1979 Amendment
 

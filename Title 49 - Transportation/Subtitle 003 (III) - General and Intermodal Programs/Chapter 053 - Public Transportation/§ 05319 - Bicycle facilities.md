@@ -24,9 +24,9 @@ The words “For purposes of this chapter” and “racks or other” are omitte
 
 #### Amendments
 
-2008—Pub. L. 110–244 substituted “section 5307(d)(1)(K)” for “section 5307(k)”.
+<b>2008</b>—Pub. L. 110–244 substituted “section 5307(d)(1)(K)” for “section 5307(k)”.
 
-2005—Pub. L. 109–59 substituted “public transportation” for “mass transportation” wherever appearing.
+<b>2005</b>—Pub. L. 109–59 substituted “public transportation” for “mass transportation” wherever appearing.
 
-1998—Pub. L. 105–178 substituted “made eligible by this section is for 90 percent of the cost of the project, except that, if the grant or any portion of the grant is made with funds required to be expended under section 5307(k) and the project involves providing bicycle access to mass transportation, that grant or portion of that grant shall be at a Federal share of 95 percent” for “under this section is for 90 percent of the cost of the project”.
+<b>1998</b>—Pub. L. 105–178 substituted “made eligible by this section is for 90 percent of the cost of the project, except that, if the grant or any portion of the grant is made with funds required to be expended under section 5307(k) and the project involves providing bicycle access to mass transportation, that grant or portion of that grant shall be at a Federal share of 95 percent” for “under this section is for 90 percent of the cost of the project”.
 

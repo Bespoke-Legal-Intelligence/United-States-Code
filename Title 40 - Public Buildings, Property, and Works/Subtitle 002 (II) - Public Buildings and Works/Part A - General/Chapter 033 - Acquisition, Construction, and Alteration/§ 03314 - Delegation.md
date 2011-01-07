@@ -42,9 +42,9 @@ A prior section 3314 was renumbered section 3315 of this title.
 
 #### Amendments
 
-2007—Pub. L. 110–140 renumbered section 3313 of this title as this section.
+<b>2007</b>—Pub. L. 110–140 renumbered section 3313 of this title as this section.
 
-2006—Subsec. (a). Pub. L. 109–304 substituted “The” for “Except for the authority contained in section 3305(b) of this title, the” in introductory provisions and “shall, except for the authority contained in section 3305(b) of this title,” for “shall” in par. (1).
+<b>2006</b>—Subsec. (a). Pub. L. 109–304 substituted “The” for “Except for the authority contained in section 3305(b) of this title, the” in introductory provisions and “shall, except for the authority contained in section 3305(b) of this title,” for “shall” in par. (1).
 
 #### Effective Date of 2007 Amendment
 

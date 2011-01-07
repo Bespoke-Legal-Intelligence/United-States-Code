@@ -28,7 +28,7 @@ In this chapter, “telemarketing”—
 
 #### Amendments
 
-2001—Par. (1). Pub. L. 107–56 added subpar. (C) and inserted “or charitable contributor, or donor” before semicolon in concluding provisions.
+<b>2001</b>—Par. (1). Pub. L. 107–56 added subpar. (C) and inserted “or charitable contributor, or donor” before semicolon in concluding provisions.
 
 #### Short Title
 
@@ -48,5 +48,5 @@ Hotline.—The Attorney General shall, subject to the availability of appropriat
 
 “(b)
 
-Action on Information Gathered.—The Attorney General shall work in cooperation with the Federal Trade Commission to ensure that information gathered through the hotline shall be acted on in an appropriate manner.”
+Action on Information Gathered.—The Attorney General shall work in cooperation with the FederalTrade Commission to ensure that information gathered through the hotline shall be acted on in an appropriate manner.”
 

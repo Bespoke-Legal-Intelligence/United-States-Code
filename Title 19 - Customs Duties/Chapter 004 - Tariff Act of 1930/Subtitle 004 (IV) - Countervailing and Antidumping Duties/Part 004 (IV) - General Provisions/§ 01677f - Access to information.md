@@ -144,11 +144,11 @@ Any party submitting written information, including business proprietary informa
 
 #### (2) Contents of protective order
 
-&emsp;Each protective order issued under this subsection shall be in such form and contain such requirements as the administering authority or the Commission may determine by regulation to be appropriate. The administering authority and the Commission shall ensure that regulations issued pursuant to this paragraph shall be designed to provide an opportunity for participation in the binational panel proceeding, including any extraordinary challenge, equivalent to that available for judicial review of determinations by the administering authority or the Commission that are not subject to review by a binational panel.
+&emsp;Each protective order issued under this subsection shall be in such form and contain such requirements as the administering authority or the Commission may determine by regulation to be appropriate. The administering authority and the Commission shall ensure thatregulations issued pursuant to this paragraph shall be designed to provide an opportunity for participation in the binational panel proceeding, including any extraordinary challenge, equivalent to that available for judicial review of determinations by the administering authority or the Commission that are not subject to review by a binational panel.
 
 #### (3) Prohibited acts
 
-&emsp;It is unlawful for any person to violate, to induce the violation of, or knowingly to receive information the receipt of which constitutes a violation of, any provision of a protective order issued under this subsection or to violate, to induce the violation of, or knowingly to receive information the receipt of which constitutes a violation of, any provision of an undertaking entered into with an authorized agency of a free trade area country (as defined in section 1516a(f)(10) of this title)to protect proprietary material during binational panel or extraordinary challenge committee review pursuant to article 1904 of the NAFTA or the United States-Canada Agreement.
+&emsp;It is unlawful for any person to violate, to induce the violation of, or knowingly to receive information the receipt of which constitutes a violation of, any provision of a protective order issued under this subsection or to violate, to induce the violation of, or knowingly to receive information the receipt of which constitutes a violation of, any provision of an undertaking entered into with an authorized agency of a free trade area country (as defined in section 1516a(f)(10) of this title) to protect proprietary material during binational panel or extraordinary challenge committee review pursuant to article 1904 of the NAFTA or the United States-Canada Agreement.
 
 #### (4) Sanctions for violation of protective orders
 
@@ -178,7 +178,7 @@ Any party submitting written information, including business proprietary informa
 
 #### (B) Witnesses and evidence
 
-&emsp;&emsp;The attendance of witnesses who are authorized to be summoned, and the production of documentary evidence authorized to be ordered, under subparagraph (A) may be required from any place in the United States at any designated place of hearing. In the case of disobedience to a subpoena issued under subparagraph (A), an action may be filed in any district or territorial court of the United States to require the attendance and testimony of witnesses and the production of documentary evidence. Such court, within the jurisdiction of which such inquiry is carried on, may, in case of contumacy or refusal to obey a subpoena issued to any individual, partnership, corporation, association, organization or other entity, issue any order requiring such individual or entity to appear before the administering authority or the Commission, or to produce documentary evidence if so ordered or to give evidence concerning the matter in question. Any failure to obey such order of the court may be punished by the court as a contempt thereof.
+&emsp;&emsp;The attendance of witnesses who are authorized to be summoned, and the production of documentary evidence authorized to be ordered, under subparagraph (A) may be required from any place in the United States at any designated place of hearing. In the case of disobedience to a subpoena issued under subparagraph (A), an action may be filed in any district or territorial court of the United States to require the attendance and testimony of witnesses and the production of documentary evidence. Such court, within the jurisdiction of which such inquiry is carried on, may, in case of contumacy or refusal to obey a subpoena issued to any individual, partnership, corporation, association, organization or other entity, issue any order requiring such individual or entity to appear before the administering authority or the Commission, or to produce documentary evidence if so ordered or to give evidenceconcerning the matter in question. Any failure to obey such order of the court may be punished by the court as a contempt thereof.
 
 #### (C) Mandamus
 
@@ -186,7 +186,7 @@ Any party submitting written information, including business proprietary informa
 
 #### (D) Depositions
 
-&emsp;&emsp;For purposes of carrying out any functions or duties under this subsection, the administering authority or the Commission may order testimony to be taken by deposition. Such deposition may be taken before any person designated by the administering authority or Commission and having power to administer oaths. Such testimony shall be reduced to writing by the person taking thedeposition, or under the direction of such person, and shall then be subscribed by the deponent. Any individual, partnership, corporation, association, organization or other entity may be compelled to appear and depose and to produce documentary evidence in the same manner as witnesses may be compelled to appear and testify and produce documentary evidence before the administering authority or Commission, as provided in this paragraph.
+&emsp;&emsp;For purposes of carrying out any functions or duties under this subsection, the administering authority or the Commission may order testimony to be taken by deposition. Such deposition may be taken before any person designated by the administering authority or Commission and having power to administer oaths. Such testimony shall be reduced to writing by the person taking the deposition, or under the direction of such person, and shall then be subscribed by the deponent. Any individual, partnership, corporation, association, organization or other entity may be compelled to appear and depose and to produce documentary evidence in the same manner as witnesses may be compelled to appear and testify and produce documentary evidence before the administering authority or Commission, as provided in this paragraph.
 
 #### (E) Fees and mileage of witnesses
 
@@ -240,7 +240,7 @@ The administering authority and the Commission shall provide an opportunity for 
 
 #### Amendments
 
-1994—Subsec. (a)(4). Pub. L. 103–465, §231(b), substituted “shall disclose” for “may disclose” in introductory provisions.
+<b>1994</b>—Subsec. (a)(4). Pub. L. 103–465, §231(b), substituted “shall disclose” for “may disclose” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 103–465, §226(a)(1), amended par. (1) generally, designating first sentence as subpar. (A), rearranging provisions for clarity, and inserting provisions in cl. (i) relating to reviews under this subtitle covering same subject merchandise, and designating second sentence as subpar. (B) with corresponding redesignations of former subpars. as cls. and cls. as subcls.
 
@@ -252,7 +252,7 @@ Subsec. (e). Pub. L. 103–465, §231(d)(1), struck out heading and text of subs
 
 Subsecs. (h), (i). Pub. L. 103–465, §§227, 228, added subsecs. (h) and (i).
 
-1993—Subsec. (f). Pub. L. 103–182, §412(c)(1), inserted “the North American Free Trade Agreement or” in heading.
+<b>1993</b>—Subsec. (f). Pub. L. 103–182, §412(c)(1), inserted “the North American Free Trade Agreement or” in heading.
 
 Subsec. (f)(1)(A). Pub. L. 103–182, §412(c)(2), (3), inserted “the NAFTA or” before “the United States-Canada Agreement” in two places, in second sentence inserted “or extraordinary challenge committee” after “binational panel”, and substituted “identified by the panel or committee” for “identified by the panel”.
 
@@ -264,7 +264,7 @@ Subsec. (f)(3). Pub. L. 103–182, §412(c)(6), (7), substituted “agency of a 
 
 Subsec. (f)(4). Pub. L. 103–182, §412(c)(7), (8), inserted “, except a judge appointed to a binational panel or an extraordinary challenge committee under section 3432(b) of this title,” after “Any person” and substituted “agency of a free trade area country (as defined in section 1516a(f)(10) of this title)” for “agency of Canada”.
 
-1990—Subsec. (c)(1)(A). Pub. L. 101–382, §135(b)(1), inserted at end “Customer names obtained during any investigation which requires a determination under section 1671d(b) or 1673d(b) of this title may not be disclosed by the administering authority under protective order until either an order is published under section 1671e(a) or 1673e(a) of this title as a result of the investigation or the investigation is suspended or terminated. The Commission may delay disclosure of customer names under protective order during any such investigation until a reasonable time prior to any hearing provided under section 1677c of this title.”
+<b>1990</b>—Subsec. (c)(1)(A). Pub. L. 101–382, §135(b)(1), inserted at end “Customer names obtained during any investigation which requires a determination under section 1671d(b) or 1673d(b) of this title may not be disclosed by the administering authority under protective order until either an order is published under section 1671e(a) or 1673e(a) of this title as a result of the investigation or the investigation is suspended or terminated. The Commission may delay disclosure of customer names under protective order during any such investigation until a reasonable time prior to any hearing provided under section 1677c of this title.”
 
 Subsec. (d). Pub. L. 101–382, §134(a)(4), redesignated subsec. (d), relating to disclosure of proprietary information, etc., as (f).
 
@@ -280,7 +280,7 @@ Subsec. (f)(4). Pub. L. 101–382, §134(a)(4)(D), inserted provisions relating 
 
 Subsec. (g). Pub. L. 101–382, §135(b)(2), added subsec. (g).
 
-1988—Subsec. (b)(1)(B)(ii). Pub. L. 100–418, §1332(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “a statement that the information should not be released under administrative protective order.”
+<b>1988</b>—Subsec. (b)(1)(B)(ii). Pub. L. 100–418, §1332(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “a statement that the information should not be released under administrative protective order.”
 
 Subsec. (c)(1)(A). Pub. L. 100–418, §1332(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Upon receipt of an application, (before or after receipt of the information requested) which describes with particularity the information requested and sets forth the reasons for the request, the administering authority and the Commission may make proprietary information submitted by any other party to the investigation available under a protective order described in subparagraph (B).”
 
@@ -294,7 +294,7 @@ Pub. L. 100–418, §1332(4), added subsec. (d) relating to service.
 
 Subsec. (e). Pub. L. 100–418, §1332(4), added subsec. (e).
 
-1986—Subsec. (a)(4). Pub. L. 99–514, §1886(a)(13)(A), substituted “non-proprietary” for “nonconfidential” in heading, and “proprietary” for “confidential” in two places in text.
+<b>1986</b>—Subsec. (a)(4). Pub. L. 99–514, §1886(a)(13)(A), substituted “non-proprietary” for “nonconfidential” in heading, and “proprietary” for “confidential” in two places in text.
 
 Subsec. (b). Pub. L. 99–514, §1886(a)(13)(A), substituted “Proprietary” for “Confidential” in heading.
 
@@ -308,7 +308,7 @@ Subsec. (b)(2). Pub. L. 99–514, §1886(a)(13)(A), substituted “proprietary�
 
 Subsec. (c). Pub. L. 99–514, §1886(a)(13)(A), substituted “proprietary” for “confidential” in heading and in pars. (1)(A) and (2).
 
-1984—Subsec. (a)(3). Pub. L. 98–573, §619(1), amended par. (3) generally, substituting in provisions preceding subpar. (A) “of any ex parte meeting” for “of ex parte meetings”, in subpar. (A) “a proceeding” for “an investigation”, in subpar. (B) “or any person” for “and any person” and “that proceeding,” for “that investigation,” and, in provisions following subpar. (B), “if information relating to that proceeding was presented or discussed at such meeting. The record of such an” for “The record of the”.
+<b>1984</b>—Subsec. (a)(3). Pub. L. 98–573, §619(1), amended par. (3) generally, substituting in provisions preceding subpar. (A) “of any ex parte meeting” for “of ex parte meetings”, in subpar. (A) “a proceeding” for “an investigation”, in subpar. (B) “or any person” for “and any person” and “that proceeding,” for “that investigation,” and, in provisions following subpar. (B), “if information relating to that proceeding was presented or discussed at such meeting. The record of such an” for “The record of the”.
 
 Subsec. (b)(1). Pub. L. 98–573, §619(2), in first sentence, inserted provision referring to an officer or employee of the United States Customs Service who is directly involved in conducting an investigation regarding fraud under this subtitle.
 

@@ -1,6 +1,6 @@
 ### §257. Publication of decisions
 
-All decisions of the Court of International Trade shall be preserved and open to inspection. The court shall forward copies of each decision to the Secretary of the Treasury or his designee and to the appropriate customs officer for the district in which the case arose. The Secretary shall publish weekly such decisions as he or the court may designate and abstracts of all other decisions.
+All decisions of the Court of International Trade shall be preserved and open to inspection. The court shall forward copies of each decision to the Secretary of the Treasury or his designee and to the appropriate customs officer for thedistrict in which the case arose. The Secretary shall publish weekly such decisions as he or the court may designate and abstracts of all other decisions.
 
 (June 25, 1948, ch. 646, 62 Stat. 900, §255; renumbered §257 and amended Pub. L. 91–271, title I, §107, June 2, 1970, 84 Stat. 277; Pub. L. 96–417, title V, §501(6), Oct. 10, 1980, 94 Stat. 1742.)
 
@@ -12,9 +12,9 @@ Changes in phraseology were made.
 
 #### Amendments
 
-1980—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
+<b>1980</b>—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
-1970—Pub. L. 91–271 inserted “or his designee” after “Secretary of the Treasury,” and substituted “to the appropriate customs officer” for “the collector”.
+<b>1970</b>—Pub. L. 91–271 inserted “or his designee” after “Secretary of the Treasury,” and substituted “to the appropriate customs officer” for “the collector”.
 
 #### Effective Date of 1980 Amendment
 

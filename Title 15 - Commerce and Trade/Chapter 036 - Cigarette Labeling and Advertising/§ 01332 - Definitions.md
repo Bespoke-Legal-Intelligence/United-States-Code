@@ -28,13 +28,13 @@ As used in this chapter—
 
 #### Amendments
 
-1985—Pars. (8), (9). Pub. L. 99–92 added par. (8) and redesignated former par. (8) as (9).
+<b>1985</b>—Pars. (8), (9). Pub. L. 99–92 added par. (8) and redesignated former par. (8) as (9).
 
-1984—Par. (8). Pub. L. 98–474 added par. (8).
+<b>1984</b>—Par. (8). Pub. L. 98–474 added par. (8).
 
-1973—Subsec. (7). Pub. L. 93–109 added subsec. (7).
+<b>1973</b>—Subsec. (7). Pub. L. 93–109 added subsec. (7).
 
-1970—Subsec. (3). Pub. L. 91–222 inserted provisions defining “State”.
+<b>1970</b>—Subsec. (3). Pub. L. 91–222 inserted provisions defining “State”.
 
 #### Effective Date of 1973 Amendment
 

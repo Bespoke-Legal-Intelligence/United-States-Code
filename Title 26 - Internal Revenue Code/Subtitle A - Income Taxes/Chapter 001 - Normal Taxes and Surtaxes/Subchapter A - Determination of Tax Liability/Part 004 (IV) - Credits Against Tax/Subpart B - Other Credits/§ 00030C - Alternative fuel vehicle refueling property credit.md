@@ -92,23 +92,25 @@ This section shall not apply to any property placed in service—
 
 &emsp;(1) in the case of property relating to hydrogen, after December 31, 2014, and
 
-&emsp;(2) in the case of any other property, after December 31, 2010.
+&emsp;(2) in the case of any other property, after December 31, 2011..<sup>1</sup>
 
-(Added Pub. L. 109–58, title XIII, §1342(a), Aug. 8, 2005, 119 Stat. 1049; amended Pub. L. 109–135, title IV, §§402(k), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636; Pub. L. 110–172, §6(b), Dec. 29, 2007, 121 Stat. 2479; Pub. L. 110–343, div. B, title II, §207(a), (b), Oct. 3, 2008, 122 Stat. 3839; Pub. L. 111–5, div. B, title I, §§1123(a), 1142(b)(3), 1144(b)(2), Feb. 17, 2009, 123 Stat. 325, 331, 332.)
+(Added Pub. L. 109–58, title XIII, §1342(a), Aug. 8, 2005, 119 Stat. 1049; amended Pub. L. 109–135, title IV, §§402(k), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636; Pub. L. 110–172, §6(b), Dec. 29, 2007, 121 Stat. 2479; Pub. L. 110–343, div. B, title II, §207(a), (b), Oct. 3, 2008, 122 Stat. 3839; Pub. L. 111–5, div. B, title I, §§1123(a), 1142(b)(3), 1144(b)(2), Feb. 17, 2009, 123 Stat. 325, 331, 332; Pub. L. 111–312, title VII, §711(a), Dec. 17, 2010, 124 Stat. 3315.)
 
 #### Amendments
 
-2009—Subsec. (d)(2)(A). Pub. L. 111–5, §1144(b)(2), substituted “section 27” for “sections 27 and 30B”.
+<b>2010</b>—Subsec. (g)(2). Pub. L. 111–312 substituted “December 31, 2011.” for “December 31, 2010”.
+
+<b>2009</b>—Subsec. (d)(2)(A). Pub. L. 111–5, §1144(b)(2), substituted “section 27” for “sections 27 and 30B”.
 
 Pub. L. 111–5, §1142(b)(3), struck out “, 30,” before “and 30B”.
 
 Subsec. (e)(6). Pub. L. 111–5, §1123(a), added par. (6).
 
-2008—Subsec. (c)(2)(C). Pub. L. 110–343, §207(b), added subpar. (C).
+<b>2008</b>—Subsec. (c)(2)(C). Pub. L. 110–343, §207(b), added subpar. (C).
 
 Subsec. (g)(2). Pub. L. 110–343, §207(a), substituted “December 31, 2010” for “December 31, 2009”.
 
-2007—Subsec. (b). Pub. L. 110–172, §6(b)(1), reenacted heading without change and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The credit allowed under subsection (a) with respect to any alternative fuel vehicle refueling property shall not exceed—”.
+<b>2007</b>—Subsec. (b). Pub. L. 110–172, §6(b)(1), reenacted heading without change and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The credit allowed under subsection (a) with respect to any alternative fuel vehicle refueling property shall not exceed—”.
 
 Subsec. (c). Pub. L. 110–172, §6(b)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
@@ -124,9 +126,13 @@ In general.—Except as provided in paragraph (2), the term ‘qualified alterna
 
 Residential property.—In the case of any property installed on property which is used as the principal residence (within the meaning of section 121) of the taxpayer, paragraph (1) of section 179A(d) shall not apply.”
 
-2005—Subsec. (d)(2)(A). Pub. L. 109–135, §412(d), substituted “regular tax liability (as defined in section 26(b))” for “regular tax”.
+<b>2005</b>—Subsec. (d)(2)(A). Pub. L. 109–135, §412(d), substituted “regular tax liability (as defined in section 26(b))” for “regular tax”.
 
 Subsec. (e)(2). Pub. L. 109–135, §402(k), inserted at end “For purposes of subsection (d), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.”
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–312, title VII, §711(b), Dec. 17, 2010, 124 Stat. 3315, provided that: “The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2010.”
 
 #### Effective Date of 2009 Amendment
 
@@ -158,9 +164,11 @@ Amendment made by the safetea–lu.—The amendment made by subsection (d)(2)(C)
 
 #### Effective Date of 2005 Amendment
 
-Amendment by section 402(k) of Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
+Amendment by section 402(k) of Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 36C of this title.
 
 #### Effective Date
 
-Pub. L. 109–58, title XIII, §1342(c), Aug. 8, 2005, 119 Stat. 1051, provided that: “The amendments made by this section \[enacting this section and amending sections 38, 55, 1016, and 6501 of this title\] shall apply to property placed in service after December 31, 2005, in taxable years ending after such date.”
+Pub. L. 109–58, title XIII, §1342(c), Aug. 8, 2005, 119 Stat. 1051, provided that: “The amendments made bythis section \[enacting this section and amending sections 38, 55, 1016, and 6501 of this title\] shall apply to property placed in service after December 31, 2005, in taxable years ending after such date.”
+
+<i><sup>1</sup></i><i> So in original.</i>
 

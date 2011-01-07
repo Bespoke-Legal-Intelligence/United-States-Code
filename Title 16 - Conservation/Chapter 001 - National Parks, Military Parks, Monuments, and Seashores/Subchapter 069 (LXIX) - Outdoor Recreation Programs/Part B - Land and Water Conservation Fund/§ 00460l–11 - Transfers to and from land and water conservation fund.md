@@ -2,7 +2,7 @@
 
 #### (a) Motorboat fuel taxes from highway trust fund into conservation fund
 
-There shall be set aside in the land and water conservation fund in the Treasury of the United States provided for in sections 460<i>l</i>–4 to 460<i>l</i>–6a and 460<i>l</i>–7 to 460<i>l</i>–10e of this title the amounts specified in section 9503(c)(4)(B) of title 26 (relating to special motor fuels and gasoline used in motorboats).
+There shall be set aside in the land and water conservation fund in the Treasury of the United States provided for in sections 460<i>l</i>–4 to 460<i>l</i>–6a and 460<i>l</i>–7 to 460<i>l</i>–10e of this title the amounts specified in section 9503(c)(4)(B) <sup>1</sup> of title 26 (relating to special motor fuels and gasoline used in motorboats).
 
 #### (b) Refunds of gasoline taxes for certain nonhighway purposes or used by local transit systems and motorboat fuel taxes from conservation fund into general fund of Treasury
 
@@ -16,35 +16,37 @@ There shall be paid from time to time from the land and water conservation fund 
 
 #### References in Text
 
+Section 9503(c)(4)(B) of title 26, referred to in subsec. (a), was struck out by Pub. L. 109–59, title XI, §11115(a)(1), Aug. 10, 2005, 119 Stat. 1949. Provisions similar to those contained in former subsec. (c)(4)(B) of section 9503 are now contained in subsec. (c)(3)(A) of section 9503.
+
 Section 6412(a)(2) of title 26, referred to in subsec. (b)(2), was redesignated as “section 6412(a)(1) of title 26” by Pub. L. 94–455, §1906(22), Oct. 4, 1976, 90 Stat. 1827.
 
 #### Amendments
 
-2005—Subsec. (b). Pub. L. 109–59 substituted “2011” for “2003” in par. (1) and “2012” for “2004” in pars. (1) and (2).
+<b>2005</b>—Subsec. (b). Pub. L. 109–59 substituted “2011” for “2003” in par. (1) and “2012” for “2004” in pars. (1) and (2).
 
-1998—Subsec. (b). Pub. L. 105–178 substituted “2003” for “1997” in par. (1) and “2004” for “1998” in pars. (1) and (2).
+<b>1998</b>—Subsec. (b). Pub. L. 105–178 substituted “2003” for “1997” in par. (1) and “2004” for “1998” in pars. (1) and (2).
 
-1991—Subsec. (b). Pub. L. 102–240 substituted “1997” for “1995” and “1998” for “1996” wherever appearing.
+<b>1991</b>—Subsec. (b). Pub. L. 102–240 substituted “1997” for “1995” and “1998” for “1996” wherever appearing.
 
-1990—Subsec. (b). Pub. L. 101–508 substituted “1995” for “1993” and “1996” for “1994” wherever appearing.
+<b>1990</b>—Subsec. (b). Pub. L. 101–508 substituted “1995” for “1993” and “1996” for “1994” wherever appearing.
 
-1987—Subsec. (b). Pub. L. 100–17 substituted “1993” for “1988” and “1994” for “1989” wherever appearing.
+<b>1987</b>—Subsec. (b). Pub. L. 100–17 substituted “1993” for “1988” and “1994” for “1989” wherever appearing.
 
-1986—Subsec. (a). Pub. L. 99–514, §2, substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §2, substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Pub. L. 99–514, §1875(e), substituted “section 9503(c)(4)(B) of title 26” for “section 209(f)(5) of the Highway Revenue Act of 1956”.
 
 Subsec. (b)(1). Pub. L. 99–514, §2, substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1983—Subsec. (b). Pub. L. 97–424 substituted “1989” for “1985” and “1988” for “1984” wherever appearing.
+<b>1983</b>—Subsec. (b). Pub. L. 97–424 substituted “1989” for “1985” and “1988” for “1984” wherever appearing.
 
-1978—Subsec. (b). Pub. L. 95–599 substituted “1984” for “1979” and “1985” for “1980” wherever appearing.
+<b>1978</b>—Subsec. (b). Pub. L. 95–599 substituted “1984” for “1979” and “1985” for “1980” wherever appearing.
 
-1976—Subsec. (b). Pub. L. 94–280 substituted “1979” for “1977” and “1980” for “1978” wherever appearing.
+<b>1976</b>—Subsec. (b). Pub. L. 94–280 substituted “1979” for “1977” and “1980” for “1978” wherever appearing.
 
 Pub. L. 94–273 substituted “October” for “July” wherever appearing.
 
-1970—Subsec. (b). Pub. L. 91–605 substituted “1977” for “1972” and “1978” for “1973” wherever appearing.
+<b>1970</b>—Subsec. (b). Pub. L. 91–605 substituted “1977” for “1972” and “1978” for “1973” wherever appearing.
 
 #### Effective Date of 1986 Amendment
 
@@ -61,4 +63,6 @@ Section effective Jan. 1, 1965, see note set out under section 460<i>l</i>–4 o
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] of title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

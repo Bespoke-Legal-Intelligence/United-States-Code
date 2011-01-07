@@ -20,7 +20,7 @@ Persons Required to File.—(1) A person shall file a registration statement wit
 
 &emsp;(B) a person designing, manufacturing, fabricating, inspecting, marking, maintaining, reconditioning, repairing, or testing a package, container, or packaging component that is represented, marked, certified, or sold as qualified for use in transporting hazardous material in commerce.
 
-(3) A person required to file a registration statement under this subsection may transportor cause to be transported, or design, manufacture, fabricate, inspect, mark, maintain, recondition, repair, or test a package, container packaging component, or container for use in transporting, hazardous material, only if the person has a statement on file as required by this subsection.
+(3) A person required to file a registration statement under this subsection may transport or cause to be transported, or design, manufacture, fabricate, inspect, mark, maintain, recondition, repair, or test a package, container packaging component, or container for use in transporting, hazardous material, only if the person has a statement on file as required by this subsection.
 
 (4) The Secretary may waive the filing of a registration statement, or the payment of a fee, required under this subsection, or both, for any person not domiciled in the United States who solely offers hazardous materials for transportation to the United States from a place outside the United States if the country of which such person is a domiciliary does not require persons domiciled in the United States who solely offer hazardous materials for transportation to the foreign country from places in the United States to file registration statements, or to pay fees, for making such an offer.
 
@@ -182,7 +182,7 @@ This amends 49:5108(f) to correct an erroneous cross-reference.
 
 #### Amendments
 
-2005—Subsec. (a)(1). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
 
 Subsec. (a)(1)(B). Pub. L. 109–59, §7109(a)(1), substituted “Division 1.1, 1.2, or 1.3 explosive material” for “class A or B explosive”.
 
@@ -226,11 +226,11 @@ Subsec. (i)(1). Pub. L. 109–59, §7126, substituted “Secretary” for “Sec
 
 Subsec. (i)(2)(B). Pub. L. 109–59, §7109(e), inserted “an Indian tribe,” after “subdivision of a State,”.
 
-1998—Subsec. (f). Pub. L. 105–225 substituted “section 552(b)” for “section 552(f)”.
+<b>1998</b>—Subsec. (f). Pub. L. 105–225 substituted “section 552(b)” for “section 552(f)”.
 
-1997—Subsec. (f). Pub. L. 105–102 which directed substitution of “section 552(b)” for “section 522(f)” could not be executed because “section 522(f)” did not appear.
+<b>1997</b>—Subsec. (f). Pub. L. 105–102 which directed substitution of “section 552(b)” for “section 522(f)” could not be executed because “section 522(f)” did not appear.
 
-1994—Subsec. (a)(1)(D). Pub. L. 103–311, §117(a)(3), substituted “a bulk packaging” for “a bulk package” and “the bulk packaging” for “the package”.
+<b>1994</b>—Subsec. (a)(1)(D). Pub. L. 103–311, §117(a)(3), substituted “a bulk packaging” for “a bulk package” and “the bulk packaging” for “the package”.
 
 Subsec. (a)(4). Pub. L. 103–311, §104, added par. (4).
 
@@ -238,5 +238,5 @@ Subsec. (g)(2)(A)(viii). Pub. L. 103–311, §119(d)(1), struck out “5107(e),�
 
 #### Registration
 
-Pub. L. 109–59, title VII, §7109(d), Aug. 10, 2005, 119 Stat. 1898, provided that: “As soon as practicable, theAdministrator of the Pipeline and Hazardous Materials Safety Administration shall transmit to the Federal Motor Carrier Safety Administration hazardous material registrant information obtained before, on, or after the date of enactment of this Act \[Aug. 10, 2005\] under section 5108 of title 49, United States Code, together with any Department of Transportation identification number for each registrant.”
+Pub. L. 109–59, title VII, §7109(d), Aug. 10, 2005, 119 Stat. 1898, provided that: “As soon as practicable, the Administrator of the Pipeline and Hazardous Materials Safety Administration shall transmit to the Federal Motor Carrier Safety Administration hazardous material registrant information obtained before, on, or after the date of enactment of this Act \[Aug. 10, 2005\] under section 5108 of title 49, United States Code, together with any Department of Transportation identification number for each registrant.”
 

@@ -56,9 +56,9 @@ It is unnecessary to include a reference to section 541, since that section does
 
 #### Amendments
 
-1980—Subsec. (b). Pub. L. 96–513 inserted “under section 531 of this title” after “Regular Army”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–513 inserted “under section 531 of this title” after “Regular Army”.
 
-1958—Subsec. (b). Pub. L. 85–861 struck out “except section 541 of this title” after “provision of law”.
+<b>1958</b>—Subsec. (b). Pub. L. 85–861 struck out “except section 541 of this title” after “provision of law”.
 
 #### Effective Date of 1980 Amendment
 

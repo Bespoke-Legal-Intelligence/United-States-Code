@@ -14,7 +14,7 @@ In this chapter—
 
 &emsp;&emsp;&emsp;(ii) a State, the District of Columbia, a territory or possession of the United States, or a political subdivision of the State, territory, or possession.
 
-&emsp;(3) “insurance carrier” means a person authorized to do aviation insurance business in aState, including a mutual or stock insurance company and a reciprocal insurance association.
+&emsp;(3) “insurance carrier” means a person authorized to do aviation insurance business in a State, including a mutual or stock insurance company and a reciprocal insurance association.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1168; Pub. L. 108–176, title I, §106(a)(2), Dec. 12, 2003, 117 Stat. 2498.)
 
@@ -44,7 +44,7 @@ In clause (2), the words “insurance company” are omitted as being included i
 
 #### Amendments
 
-2003—Pub. L. 108–176 added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+<b>2003</b>—Pub. L. 108–176 added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
 #### Effective Date of 2003 Amendment
 

@@ -7,10 +7,10 @@ In addition to other taxes, there is hereby imposed on every employer an excise 
 &nbsp;
 
 | <b>In cases of wages paid during:</b> | <b>The rate shall be:</b> |
-| --- | --- |
-| &nbsp;&nbsp;1984, 1985, 1986, or 1987 D5.7 percent |  |
-| &nbsp;&nbsp;1988 or 1989 D6.06 percent |  |
-| &nbsp;&nbsp;1990 or thereafter D6.2 percent. |  |
+| :--- | ---: |
+| &nbsp;&nbsp;1984, 1985, 1986, or 1987 | 5\.7 percent |
+| &nbsp;&nbsp;1988 or 1989 | 6\.06 percent |
+| &nbsp;&nbsp;1990 or thereafter | 6\.2 percent. |
 
 #### (b) Hospital insurance
 
@@ -32,33 +32,87 @@ In addition to the tax imposed by the preceding subsection, there is hereby impo
 
 During any period in which there is in effect an agreement entered into pursuant to section 233 of the Social Security Act with any foreign country, wages received by or paid to an individual shall be exempt from the taxes imposed by this section to the extent that such wages are subject under such agreement exclusively to the laws applicable to the social security system of such foreign country.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 416; Sept. 1, 1954, ch. 1206, title II, §208(c), 68 Stat. 1094; Aug. 1, 1956. ch. 836, title II, §202(c), 70 Stat. 845; Pub. L. 85–840, title IV, §401(c), Aug. 28, 1958, 72 Stat. 1042; Pub. L. 87–64, title II, §201(c), June 30, 1961, 75 Stat. 141; Pub. L. 89–97, title I, §111(c)(6), title III, §321(c), July 30, 1965, 79 Stat. 343, 396; Pub. L. 90–248, title I, §109(a)(3), (b)(3), Jan. 2, 1968, 81 Stat. 836, 837; Pub. L. 92–5, title II, §204(a)(2), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §204(a)(3), (b)(3), July 1, 1972, 86 Stat. 421, 422; Pub. L. 92–603, title I, §135(a)(3), (b)(3), Oct. 30, 1972, 86 Stat. 1363, 1364; Pub. L. 93–233, §6(a)(2), (b)(3), Dec. 31, 1973, 87 Stat. 954, 955; Pub. L. 94–455, title XIX, §1903(a)(1), Oct. 4, 1976, 90 Stat. 1806; Pub. L. 95–216, title I, §101(a)(2), (b)(2), title III, §§315(b), 317(b)(2), Dec. 20, 1977, 91 Stat. 1511, 1512, 1537, 1540; Pub. L. 98–21, title I, §123(a)(2), Apr. 20, 1983, 97 Stat. 88; Pub. L. 100–203, title IX, §9006(b)(1), Dec. 22, 1987, 101 Stat. 1330–289; Pub. L. 100–647, title VIII, §8016(a)(5), Nov. 10, 1988, 102 Stat. 3793; Pub. L. 108–203, title IV, §415, Mar. 2, 2004, 118 Stat. 530.)
+#### (d) Special exemption for certain individuals hired in 2010
+
+#### (1) In general
+
+&emsp;Subsection (a) shall not apply to wages paid by a qualified employer with respect to employment during the period beginning on the day after the date of the enactment of this subsection and ending on December 31, 2010, of any qualified individual for services performed—
+
+&emsp;&emsp;(A) in a trade or business of such qualified employer, or
+
+&emsp;&emsp;(B) in the case of a qualified employer exempt from tax under section 501(a), in furtherance of the activities related to the purpose or function constituting the basis of the employer's exemption under section 501.
+
+#### (2) Qualified employer
+
+&emsp;For purposes of this subsection—
+
+#### (A) In general
+
+&emsp;&emsp;The term “qualified employer” means any employer other than the United States, any State, or any political subdivision thereof, or any instrumentality of the foregoing.
+
+#### (B) Treatment of employees of post-secondary educational institutions
+
+&emsp;&emsp;Notwithstanding subparagraph (A), the term “qualified employer” includes any employer which is a public institution of higher education (as defined in section 101(b) of the Higher Education Act of 1965).
+
+#### (3) Qualified individual
+
+&emsp;For purposes of this subsection, the term “qualified individual” means any individual who—
+
+&emsp;&emsp;(A) begins employment with a qualified employer after February 3, 2010, and before January 1, 2011,
+
+&emsp;&emsp;(B) certifies by signed affidavit, under penalties of perjury, that such individual has not been employed for more than 40 hours during the 60-day period ending on the date such individual begins such employment,
+
+&emsp;&emsp;(C) is not employed by the qualified employer to replace another employee of such employer unless such other employee separated from employment voluntarily or for cause, and
+
+&emsp;&emsp;(D) is not an individual described in section 51(i)(1) (applied by substituting “qualified employer” for “taxpayer” each place it appears).
+
+#### (4) Election
+
+&emsp;A qualified employer may elect to have this subsection not apply. Such election shall be made in such manner as the Secretary may require.
+
+#### (5) Special rule for first calendar quarter of 2010
+
+#### (A) Nonapplication of exemption during first quarter
+
+&emsp;&emsp;Paragraph (1) shall not apply with respect to wages paid during the first calendar quarter of 2010.
+
+#### (B) Crediting of first quarter exemption during second quarter
+
+&emsp;&emsp;The amount by which the tax imposed under subsection (a) would (but for subparagraph (A)) have been reduced with respect to wages paid by a qualified employer during the first calendar quarter of 2010 shall be treated as a payment against the tax imposed under subsection (a) with respect to the qualified employer for the second calendar quarter of 2010 which is made on the date that such tax is due.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 416; Sept. 1, 1954, ch. 1206, title II, §208(c), 68 Stat. 1094; Aug. 1, 1956. ch. 836, title II, §202(c), 70 Stat. 845; Pub. L. 85–840, title IV, §401(c), Aug. 28, 1958, 72 Stat. 1042; Pub. L. 87–64, title II, §201(c), June 30, 1961, 75 Stat. 141; Pub. L. 89–97, title I, §111(c)(6), title III, §321(c), July 30, 1965, 79 Stat. 343, 396; Pub. L. 90–248, title I, §109(a)(3), (b)(3), Jan. 2, 1968, 81 Stat. 836, 837; Pub. L. 92–5, title II, §204(a)(2), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §204(a)(3), (b)(3), July 1, 1972, 86 Stat. 421, 422; Pub. L. 92–603, title I, §135(a)(3), (b)(3), Oct. 30, 1972, 86 Stat. 1363, 1364; Pub. L. 93–233, §6(a)(2), (b)(3), Dec. 31, 1973, 87 Stat. 954, 955; Pub. L. 94–455, title XIX, §1903(a)(1), Oct. 4, 1976, 90 Stat. 1806; Pub. L. 95–216, title I, §101(a)(2), (b)(2), title III, §§315(b), 317(b)(2), Dec. 20, 1977, 91 Stat. 1511, 1512, 1537, 1540; Pub. L. 98–21, title I, §123(a)(2), Apr. 20, 1983, 97 Stat. 88; Pub. L. 100–203, title IX, §9006(b)(1), Dec. 22, 1987, 101 Stat. 1330–289; Pub. L. 100–647, title VIII, §8016(a)(5), Nov. 10, 1988, 102 Stat. 3793; Pub. L. 108–203, title IV, §415, Mar. 2, 2004, 118 Stat. 530; Pub. L. 111–147, title I, §101(a), Mar. 18, 2010, 124 Stat. 72.)
 
 #### References in Text
 
 Section 233 of the Social Security Act, referred to in subsec. (c), is classified to section 433 of Title 42, The Public Health and Welfare.
 
+The date of the enactment of this subsection, referred to in subsec. (d)(1), is the date of the enactment of Pub. L. 111–147, which was approved Mar. 18, 2010.
+
+Section 101(b) of the Higher Education Act of 1965, referred to in subsec. (d)(2)(B), is classified to section 1001(b) of Title 20, Education.
+
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–203 substituted “exclusively to the laws applicable to” for “to taxes or contributions for similar purposes under”.
+<b>2010</b>—Subsec. (d). Pub. L. 111–147 added subsec. (d).
 
-1988—Subsecs. (a), (b). Pub. L. 100–647 made technical correction to directory language of Pub. L. 100–203, §9006(b)(1), see 1987 Amendment note below.
+<b>2004</b>—Subsec. (c). Pub. L. 108–203 substituted “exclusively to the laws applicable to” for “to taxes or contributions for similar purposes under”.
 
-1987—Subsecs. (a), (b). Pub. L. 100–203, as amended by Pub. L. 100–647, struck out “and (t)” after “3121(a)” in introductory provisions.
+<b>1988</b>—Subsecs. (a), (b). Pub. L. 100–647 made technical correction to directory language of Pub. L. 100–203, §9006(b)(1), see 1987 Amendment note below.
 
-1983—Subsec. (a). Pub. L. 98–21 substituted table of rates for pars. (1) to (7) which had imposed a tax on every employer (1) with respect to wages paid during the calendar years 1974 through 1977 at the rate of 4.95 percent, (2) with respect to wages paid during the calendar year 1978 at the rate of 5.05 percent, (3) with respect to wages paid during the calendar years 1979 and 1980 at the rate of 5.08 percent, (4) with respect to wages paid during the calendar year 1981 at the rate of 5.35 percent, (5) with respect to wages paid during the calendar years 1982 through 1984 at the rate of 5.40 percent, (6) with respect to wages paid during the calendar years 1985 through 1989 at the rate of 5.70 percent, and (7) with respect to wages paid after Dec. 31, 1989, at the rate of 6.20 percent.
+<b>1987</b>—Subsecs. (a), (b). Pub. L. 100–203, as amended by Pub. L. 100–647, struck out “and (t)” after “3121(a)” in introductory provisions.
 
-1977—Subsec. (a). Pub. L. 95–216, §§101(a)(2), 315(b), substituted “(as defined in section 3121(a) and (t))” for “(as defined in section 3121(a))” in provisions preceding par. (1), substituted “1974 through 1977” for “1974 through 2010” in par. (1), substituted “wages paid during the calendar year 1978, the rate shall be 5.05 percent” for “wages paid after December 31, 2010, the rate shall be 5.95 percent” in par. (2), and added pars. (3) to (7).
+<b>1983</b>—Subsec. (a). Pub. L. 98–21 substituted table of rates for pars. (1) to (7) which had imposed a tax on every employer (1) with respect to wages paid during the calendar years 1974 through 1977 at the rate of 4.95 percent, (2) with respect to wages paid during the calendar year 1978 at the rate of 5.05 percent, (3) with respect to wages paid during the calendar years 1979 and 1980 at the rate of 5.08 percent, (4) with respect to wages paid during the calendar year 1981 at the rate of 5.35 percent, (5) with respect to wages paid during the calendar years 1982 through 1984 at the rate of 5.40 percent, (6) with respect to wages paid during the calendar years 1985 through 1989 at the rate of 5.70 percent, and (7) with respect to wages paid after Dec. 31, 1989, at the rate of 6.20 percent.
+
+<b>1977</b>—Subsec. (a). Pub. L. 95–216, §§101(a)(2), 315(b), substituted “(as defined in section 3121(a) and (t))” for “(as defined in section 3121(a))” in provisions preceding par. (1), substituted “1974 through 1977” for “1974 through 2010” in par. (1), substituted “wages paid during the calendar year 1978, the rate shall be 5.05 percent” for “wages paid after December 31, 2010, the rate shall be 5.95 percent” in par. (2), and added pars. (3) to (7).
 
 Subsec. (b). Pub. L. 95–216, §§101(b)(2), 315(b), substituted “(as defined in section 3121(a) and (t))” for “(as defined in section 3121(a))” in provisions preceding par. (1), substituted “wages paid during the calendar year 1978, the rate shall be 1.00 percent” for “wages paid during the calendar years 1978 through 1980, the rate shall be 1.10 percent”, in par. (2), substituted “wages paid during the calendar years 1979 and 1980, the rate shall be 1.05 percent” for wages paid during the calendar years 1981 through 1985, the rate shall be 1.35 percent” in par. (3), substituted “wages paid during the calendar years 1981 through 1984, the rate shall be 1.30 percent” for “wages paid after December 31, 1985, the rate shall be 1.50 percent” in par. (4), and added pars. (5) and (6).
 
 Subsec. (c). Pub. L. 95–216, §317(b)(2), added subsec. (c).
 
-1976—Subsec. (a). Pub. L. 94–455, §1903(a)(1)(A), redesignated pars. (5) and (6) as (1) and (2). Former pars. (1) to (4), which related to a tax rate of 3.8 percent with respect to wages received during the taxable year 1968, a tax rate of 4.2 percent with respect to wages received during the calendar year 1969 and 1970, a tax rate of 4.6 percent with respect to wages received during the calendar years 1971 and 1972, and a tax rate of 4.85 percent with respect to wages received during the calendar year 1973, respectively, were struck out.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1903(a)(1)(A), redesignated pars. (5) and (6) as (1) and (2). Former pars. (1) to (4), which related to a tax rate of 3.8 percent with respect to wages received during the taxable year 1968, a tax rate of 4.2 percent with respect to wages received during the calendar year 1969 and 1970, a tax rate of 4.6 percent with respect to wages received during the calendar years 1971 and 1972, and a tax rate of 4.85 percent with respect to wages received during the calendar year 1973, respectively, were struck out.
 
 Subsec. (b). Pub. L. 94–455, §1903(a)(1)(B), redesignated pars. (3) to (6) as (1) to (4), respectively. Former pars. (1) and (2), which related to a tax rate of .60 percent with respect to wages received during the calendar years 1968, 1969, 1970, 1971, and 1972 and a tax rate of 1.0 percent with respect to wages received during the calendar year 1973, respectively, were struck out.
 
-1973—Subsec. (a)(4). Pub. L. 93–233, §6(a)(2), struck out provision for application of 4.85 percent rate of tax during calendar years 1974, 1975, 1976, and 1977.
+<b>1973</b>—Subsec. (a)(4). Pub. L. 93–233, §6(a)(2), struck out provision for application of 4.85 percent rate of tax during calendar years 1974, 1975, 1976, and 1977.
 
 Subsec. (a)(5). Pub. L. 93–233, §6(a)(2), increased rate of tax from 4.80 percent to 4.95 percent and substituted calendar year “1974” to “1978” as initial year for application of such rate.
 
@@ -74,7 +128,7 @@ Subsec. (b)(5). Pub. L. 93–233, §6(b)(3), incorporated former provision of pa
 
 Subsec. (b)(6). Pub. L. 93–233, §6(b)(3), incorporated former provision of par. (5) for taxation of wages received after Dec. 31, 1985 and increased the applicable rate of tax from 1.45 percent to 1.50 percent.
 
-1972—Subsec. (a)(3). Pub. L. 92–603, §135(a)(3)(A), substituted “the calendar years 1971 and 1972” for “any of the calendar years 1971 through 1977”.
+<b>1972</b>—Subsec. (a)(3). Pub. L. 92–603, §135(a)(3)(A), substituted “the calendar years 1971 and 1972” for “any of the calendar years 1971 through 1977”.
 
 Subsec. (a)(3) to (5). Pub. L. 92–336, §204(a)(3), substituted “any of the calendar years 1971 through 1977” for “the calendar years 1971 and 1972” in par. (3), “any of the calendar years 1978 through 2010” for “the calendar years 1973, 1974, and 1975” and “4.5” for “5.0” in par. (4), and “December 31, 2010” for “December 31, 1975” and “5.35” for “5.15” in par. (5).
 
@@ -94,25 +148,29 @@ Subsec. (b)(4). Pub. L. 92–603, §135(b)(3), substituted “1981, 1982, 1983, 
 
 Subsec. (b)(5). Pub. L. 92–603, §135(b)(3), substituted “1985, the rate shall be 1.45 percent” for “1992, the rate shall be 1.2 percent”.
 
-1971—Subsec. (a)(4). Pub. L. 92–5 substituted “with respect to wages paid during the calendar years 1973, 1974, and 1975, the rate shall be 5.0 percent; and” for “with respect to wages paid after December 31, 1972, the rate shall be 5.0 percent”.
+<b>1971</b>—Subsec. (a)(4). Pub. L. 92–5 substituted “with respect to wages paid during the calendar years 1973, 1974, and 1975, the rate shall be 5.0 percent; and” for “with respect to wages paid after December 31, 1972, the rate shall be 5.0 percent”.
 
 Subsec. (a)(5). Pub. L. 92–5 added par. (5).
 
-1968—Subsec. (a)(1) to (4). Pub. L. 90–248, §109(a)(3), substituted “1968” and “3.8” for “1966” and “3.85” in par. (1) and “1969 and 1970” and “4.2” for “1967 and 1968” and “3.9” in par. (2), struck out reference to calendar years 1969 and 1970 from par. (3) and substituted therein “4.6” for “4.4”, and substituted “5.0” for “4.85” in par. (4).
+<b>1968</b>—Subsec. (a)(1) to (4). Pub. L. 90–248, §109(a)(3), substituted “1968” and “3.8” for “1966” and “3.85” in par. (1) and “1969 and 1970” and “4.2” for “1967 and 1968” and “3.9” in par. (2), struck out reference to calendar years 1969 and 1970 from par. (3) and substituted therein “4.6” for “4.4”, and substituted “5.0” for “4.85” in par. (4).
 
-Subsecs. (b)(1) to (5). Pub. L. 90–248, §109(b)(3), struck out par. (1) provision for employer rate of 0.35 percentof wages paid with respect to employment during calendar year 1966, redesignated pars. (2) to (6) as (1) to (5), struck out reference to “1967” in such par. (1) and increased the rate by 0.10 percent to 0.60, 0.65, 0.70, 0.80, and 0.90 in pars. (1) to (5), respectively.
+Subsecs. (b)(1) to (5). Pub. L. 90–248, §109(b)(3), struck out par. (1) provision for employer rate of 0.35 percent of wages paid with respect to employment during calendar year 1966, redesignated pars. (2) to (6) as (1) to (5), struck out reference to “1967” in such par. (1) and increased the rate by 0.10 percent to 0.60, 0.65, 0.70, 0.80, and 0.90 in pars. (1) to (5), respectively.
 
-1965—Pub. L. 89–97, §321(c), divided the total excise tax imposed under the entire section upon employers through a tax equal to percentages of wages paid by him into two separate taxes by dividing the section into subsecs. (a) and (b), with subsec. (a) reflecting the tax for old-age, survivors, and disability insurance, and subsec. (b) reflecting the tax for hospital insurance, but, in the case of subsec. (b), without regard to the provisions of section 3121(b)(9) insofar as it relates to employees; increased from 41/8 percent to 4.20 percent the rate of total tax imposed by the entire section upon wages paid during calendar year 1966 (resulting from a tax of 3.85 percent under subsec. (a) and 0.35 percent under subsec. (b)), increased from 41/8 percent to 4.40 percent the rate of total tax imposed by the entire section upon wages paid during calendar year 1967 (resulting from a tax of 3.9 percent under subsec. (a) and 0.50 percent under subsec. (b)), reduced from 45/8 percent to 4.40 percent the rate of total tax imposed by the entire section upon wages paid during calendar year 1968 (resulting from a tax of 3.9 percent under subsec. (a) and 0.50 percent under subsec. (b)), increased from 45/8 percent to 4.90 percent the rate of total tax imposed by the entire section upon wages paid during the calendar years 1969, 1970, 1971, and 1972 (resulting from a tax of 4.4 percent under subsec. (a) and 0.50 percent under subsec. (b)), increased from 45/8 percent to 5.40 percent the rate for calendar years 1973, 1974, and 1975 (resulting from a tax of 4.85 percent under subsec. (a) and 0.55 percent under subsec. (b)), increased from 45/8 percent to 5.45 percent the rate for calendar years 1976, 1977, 1978, and 1979 (resulting from a tax of 4.85 percent under subsec. (a) and 0.60 percent under subsec. (b)), increased from 45/8 percent to 5.55 percent the rate for calendar years 1980 through 1986 (resulting from a tax of 4.85 percent under subsec. (a) and 0.70 percent under subsec. (b)), and increased the rate from 45/8 percent to 5.65 percent for calendar years after December 31, 1986 (resulting from a tax of 4.85 percent under subsec. (a) and 0.80 percent under subsec. (b)).
+<b>1965</b>—Pub. L. 89–97, §321(c), divided the total excise tax imposed under the entire section upon employers through a tax equal to percentages of wages paid by him into two separate taxes by dividing the section into subsecs. (a) and (b), with subsec. (a) reflecting the tax for old-age, survivors, and disability insurance, and subsec. (b) reflecting the tax for hospital insurance, but, in the case of subsec. (b), without regard to the provisions of section 3121(b)(9) insofar as it relates to employees; increased from 41/8 percent to 4.20 percent the rate of total tax imposed by the entire section upon wages paid during calendar year 1966 (resulting from a tax of 3.85 percent under subsec. (a) and 0.35 percent under subsec. (b)), increased from 41/8 percent to 4.40 percent the rate of total tax imposed by the entire section upon wages paid during calendar year 1967 (resulting from a tax of 3.9 percent under subsec. (a) and 0.50 percent under subsec. (b)), reduced from 45/8 percent to 4.40 percent the rate of total tax imposed by the entire section upon wages paid during calendar year 1968 (resulting from a tax of 3.9 percent under subsec. (a) and 0.50 percent under subsec. (b)), increased from 45/8 percent to 4.90 percent the rate of total tax imposed by the entire section upon wages paid during the calendar years 1969, 1970, 1971, and 1972 (resulting from a tax of 4.4 percent under subsec. (a) and 0.50 percent under subsec. (b)), increased from 45/8 percent to 5.40 percent the rate for calendar years 1973, 1974, and 1975 (resulting from a tax of 4.85 percent under subsec. (a) and 0.55 percent under subsec. (b)), increased from 45/8 percent to 5.45 percent the rate for calendar years 1976, 1977, 1978, and 1979 (resulting from a tax of 4.85 percent under subsec. (a) and 0.60 percent under subsec. (b)), increased from 45/8 percent to 5.55 percent the rate for calendar years 1980 through 1986 (resulting from a tax of 4.85 percent under subsec. (a) and 0.70 percent under subsec. (b)), and increased the rate from 45/8 percent to 5.65 percent for calendar years after December 31, 1986 (resulting from a tax of 4.85 percent under subsec. (a) and 0.80 percent under subsec. (b)).
 
 Subsec. (b). Pub. L. 89–97, §111(c)(6), struck out “, but without regard to the provisions of paragraph (9) thereof insofar as it relates to employees” after “as defined in section 3121(b)”.
 
-1961—Pub. L. 87–64 increased rate of tax for calendar year 1962 from 3 to 31/8 percent, calendar years 1963 to 1965, inclusive, from 31/2 to 35/8 percent, calendar years 1966 and 1967 from 4 to 41/8 percent, calendar year 1968 from 4 to 45/8 percent, and for calendar years after December 31, 1968, from 41/2 to 45/8 percent.
+<b>1961</b>—Pub. L. 87–64 increased rate of tax for calendar year 1962 from 3 to 31/8 percent, calendar years 1963 to 1965, inclusive, from 31/2 to 35/8 percent, calendar years 1966 and 1967 from 4 to 41/8 percent, calendar year 1968 from 4 to 45/8 percent, and for calendar years after December 31, 1968, from 41/2 to 45/8 percent.
 
-1958—Pub. L. 85–840 increased rate of tax by substituting provisions imposing a tax of 21/2 percent for calendar year 1959, 3 percent for calendar years 1960–62, 31/2 percent for calendar years 1963–65, 4 percent for calendar years 1966–68, and 41/2 percent for calendar years beginning after Dec. 31, 1968, for provisions which imposed a tax of 21/4 percent for calendar years 1957–59, 23/4 percent for calendar years 1960–64, 31/4 percent for calendar years 1965–69, 33/4 percent for calendar years 1970–74, and 41/4 percent for calendar years beginning after Dec. 31, 1974.
+<b>1958</b>—Pub. L. 85–840 increased rate of tax by substituting provisions imposing a tax of 21/2 percent for calendar year 1959, 3 percent for calendar years 1960–62, 31/2 percent for calendar years 1963–65, 4 percent for calendar years 1966–68, and 41/2 percent for calendar years beginning after Dec. 31, 1968, for provisions which imposed a tax of 21/4 percent for calendar years 1957–59, 23/4 percent for calendar years 1960–64, 31/4 percent for calendar years 1965–69, 33/4 percent for calendar years 1970–74, and 41/4 percent for calendar years beginning after Dec. 31, 1974.
 
-1956—Act Aug. 1, 1956, increased rate of tax with respect to wages paid during calendar years 1957 to 1959, and for all calendar years thereafter, by one-quarter percent.
+<b>1956</b>—Act Aug. 1, 1956, increased rate of tax with respect to wages paid during calendar years 1957 to 1959, and for all calendar years thereafter, by one-quarter percent.
 
-1954—Act Sept. 1, 1954, increased 31/4 percent rate of tax for calendar year 1970 and subsequent years to 31/2 percent for calendar years 1970 to 1974 and 4 percent for 1975 and subsequent years.
+<b>1954</b>—Act Sept. 1, 1954, increased 31/4 percent rate of tax for calendar year 1970 and subsequent years to 31/2 percent for calendar years 1970 to 1974 and 4 percent for 1975 and subsequent years.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–147 applicable to wages paid after Mar. 18, 2010, see section 101(e) of Pub. L. 111–147, set out as a note under section 51 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -160,7 +218,7 @@ Amendment by Pub. L. 90–248 applicable only with respect to remuneration paid 
 
 #### Effective Date of 1965 Amendment
 
-Amendment by section 111(c)(6) of Pub. L. 89–97 applicable to calendar year 1966 or to any subsequent calendar year but only if by October 1 immediately preceding such calendar year the Railroad Retirement Tax Act (section 3201 et seq. of this title) provides for amaximum amount of monthly compensation taxable under such Act during all months of such calendar year equal to one-twelfth of maximum wages which Federal Insurance Contributions Act (section 3101 et seq. of this title) provides may be counted for such calendar year, see section 111(e) of Pub. L. 89–97, set out as an Effective Date note under section 1395i–1 of Title 42, The Public Health and Welfare.
+Amendment by section 111(c)(6) of Pub. L. 89–97 applicable to calendar year 1966 or to any subsequent calendar year but only if by October 1 immediately preceding such calendar year the Railroad Retirement Tax Act (section 3201 et seq. of this title) provides for a maximum amount of monthly compensation taxable under such Act during all months of such calendar year equal to one-twelfth of maximum wages which Federal Insurance Contributions Act (section 3101 et seq. of this title) provides may be counted for such calendar year, see section 111(e) of Pub. L. 89–97, set out as an Effective Date note under section 1395i–1 of Title 42, The Public Health and Welfare.
 
 Amendment by section 321(c) of Pub. L. 89–97 applicable with respect to remuneration paid after December 31, 1965, see section 321(d) of Pub. L. 89–97, set out as a note under section 1401 of this title.
 

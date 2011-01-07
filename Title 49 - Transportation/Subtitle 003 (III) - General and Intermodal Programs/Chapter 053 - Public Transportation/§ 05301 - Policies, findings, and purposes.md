@@ -14,7 +14,7 @@ Development and Revitalization of Public Transportation Systems.—It is in the 
 
 General Findings.—Congress finds that—
 
-&emsp;(1) more than two-thirds of the population of the United States is located in rapidly expanding urbanized areas that generally cross the boundary lines of local jurisdictions and often extend into at least 2 States;
+&emsp;(1) more than two-thirds of the population of the United States is located in rapidly expanding urbanized areas that generally cross theboundary lines of local jurisdictions and often extend into at least 2 States;
 
 &emsp;(2) the welfare and vitality of urban areas, the satisfactory movement of people and goods within those areas, and the effectiveness of programs aided by the United States Government are jeopardized by deteriorating or inadequate urban transportation service and facilities, the intensification of traffic congestion, and the lack of coordinated, comprehensive, and continuing development planning;
 
@@ -56,7 +56,7 @@ General Purposes.—The purposes of this chapter are—
 
 &emsp;(4) to provide financial assistance to State and local governments and their authorities to help carry out national goals related to mobility for elderly individuals, individuals with disabilities, and economically disadvantaged individuals; and
 
-&emsp;(5) to establish a partnership that allows a community, with financial assistance from theGovernment, to satisfy its public transportation requirements.
+&emsp;(5) to establish a partnership that allows a community, with financial assistance from the Government, to satisfy its public transportation requirements.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 785; Pub. L. 109–59, title III, §§3002(b)(4), 3003, Aug. 10, 2005, 119 Stat. 1545.)
 
@@ -114,7 +114,7 @@ July 9, 1964, Pub. L. 88–365, §14(a) (1st sentence), 78 Stat. 308; Sept. 8, 1
 
 49 App.:1601a (last sentence).
 
-In subsection (b)(1), the words “the predominant part” in 49 App.:1601(a)(1) and “lives in urban areas” in 49 App.:1601b(1) are omitted because of the restatement. The words “metropolitan and other” in 49 App.:1601(a)(1) are omitted as surplus.
+In subsection (b)(1), the words “the predominant part” in 49 App.:1601(a)(1) and “lives in urban areas” in 49 App.:1601b(1) are omitted because of the restatement.The words “metropolitan and other” in 49 App.:1601(a)(1) are omitted as surplus.
 
 In subsection (b)(2), the words “housing, urban renewal, highway, and other”, “being”, “the . . . provision of”, and “transportation and other” in 49 App.:1601(a)(2) are omitted as surplus.
 
@@ -138,7 +138,7 @@ In subsection (f)(5), the words “local” and “to exercise the initiative ne
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–59, §3003(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “It is in the interest of the United States to encourage and promote the development of transportation systems that embrace various modes of transportation and efficiently maximize mobility of individuals and goods in and through urbanized areas and minimize transportation-related fuel consumption and air pollution.”
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §3003(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “It is in the interest of the United States to encourage and promote the development of transportation systems that embrace various modes of transportation and efficiently maximize mobility of individuals and goods in and through urbanized areas and minimize transportation-related fuel consumption and air pollution.”
 
 Subsec. (b)(1). Pub. L. 109–59, §3003(b), substituted “two-thirds” for “70 percent” and “urbanized areas” for “urban areas”.
 
@@ -174,7 +174,7 @@ Terms of Agreement.—The agreement entered into in subsection (a) shall provide
 
 “(c)
 
-Report.—Not later than 24 months after the date of entry into the agreement under subsection (a), the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, andUrban Affairs of the Senate a report containing the results of the study.
+Report.—Not later than 24 months after the date of entry into the agreement under subsection (a), the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report containing the results of the study.
 
 “(d)
 
@@ -204,7 +204,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(6) employer-provided commuter transit incentives offer many public benefits, including increased access of low-income persons to good jobs, inexpensive reduction of roadway and parking congestion, and cost-effective incentives for timely arrival at work; and
 
-&emsp;“(7) legislation to provide equitable treatment of employer-provided commuter transit benefits has been introduced with bipartisan support in both the Senate and House of Representatives.
+&emsp;“(7) legislation to provide equitable treatment of employer-provided commuter transit benefits hasbeen introduced with bipartisan support in both the Senate and House of Representatives.
 
 “(b)
 

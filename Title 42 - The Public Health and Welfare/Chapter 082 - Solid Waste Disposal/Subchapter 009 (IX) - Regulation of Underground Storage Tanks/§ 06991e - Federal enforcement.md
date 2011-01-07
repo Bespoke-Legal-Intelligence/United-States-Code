@@ -48,7 +48,7 @@ Both of the following may be taken into account in determining the terms of a ci
 
 #### Amendments
 
-2005—Subsec. (d)(2). Pub. L. 109–58, §1527(b)(2), inserted at end “Any person making or accepting a delivery or deposit of a regulated substance to an underground storage tank at an ineligible facility in violation of section 6991k of this title shall also be subject to the same civil penalty for each day of such violation.”
+<b>2005</b>—Subsec. (d)(2). Pub. L. 109–58, §1527(b)(2), inserted at end “Any person making or accepting a delivery or deposit of a regulated substance to an underground storage tank at an ineligible facility in violation of section 6991k of this title shall also be subject to the same civil penalty for each day of such violation.”
 
 Subsec. (d)(2)(B). Pub. L. 109–58, §1530(d)(1), which directed amendment of subpar. (B) by striking out “or” at end, could not be executed because “or” did not appear subsequent to amendment by Pub. L. 109–58, §1524(c)(1). See below.
 

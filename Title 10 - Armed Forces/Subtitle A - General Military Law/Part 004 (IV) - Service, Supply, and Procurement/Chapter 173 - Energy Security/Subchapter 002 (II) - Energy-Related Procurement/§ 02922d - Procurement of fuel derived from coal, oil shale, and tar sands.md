@@ -2,11 +2,11 @@
 
 (a)
 
-Use of Fuel to Meet Department of Defense Needs.—The Secretary of Defense shall develop a strategy to use fuel produced, in wholeor in part, from coal, oil shale, and tar sands (referred to in this section as a “covered fuel”) that are extracted by either mining or in-situ methods and refined or otherwise processed in the United States in order to assist in meeting the fuel requirements of the Department of Defense when the Secretary determines that it is in the national interest.
+Use of Fuel to Meet Department of Defense Needs.—The Secretary of Defense shall develop a strategy to use fuel produced, in whole or in part, from coal, oil shale, and tar sands (referred to in this section as a “covered fuel”) that are extracted by either mining or in-situ methods and refined or otherwise processed in the United States in order to assist in meeting the fuel requirements of the Department of Defense when the Secretary determines that it is in the national interest.
 
 (b)
 
-Authority to Procure.—The Secretary of Defense may enter into 1 or more contracts or other agreements (that meet the requirements of this section) to procure a covered fuel to meet 1 or more fuel requirements of the Department of Defense.
+Authority to Procure.—The Secretary of Defense may enter into one or more contracts or other agreements (that meet the requirements of this section) to procure a covered fuel to meet one or more fuel requirements of the Department of Defense.
 
 (c)
 
@@ -14,15 +14,17 @@ Clean Fuel Requirements.—A covered fuel may be procured under subsection (b) o
 
 (d)
 
-Multiyear Contract Authority.—Subject to applicable provisions of law, any contract or other agreement for the procurement of covered fuel under subsection (b) may be for 1 or more years at the election of the Secretary of Defense.
+Multiyear Contract Authority.—Subject to applicable provisions of law, any contract or other agreement for the procurement of covered fuel under subsection (b) may be for one or more years at the election of the Secretary of Defense.
 
 (e)
 
 Fuel Source Analysis.—In order to facilitate the procurement by the Department of Defense of covered fuel under subsection (b), the Secretary of Defense may carry out a comprehensive assessment of current and potential locations in the United States for the supply of covered fuel to the Department.
 
-(Added Pub. L. 109–58, title III, §369(q)(1), Aug. 8, 2005, 119 Stat. 733, §2398a; renumbered §2922d, Pub. L. 109–364, div. B, title XXVIII, §2851(b)(2), Oct. 17, 2006, 120 Stat. 2494.)
+(Added Pub. L. 109–58, title III, §369(q)(1), Aug. 8, 2005, 119 Stat. 733, §2398a; renumbered §2922d, Pub. L. 109–364, div. B, title XXVIII, §2851(b)(2), Oct. 17, 2006, 120 Stat. 2494; Pub. L. 111–383, div. A, title X, §1075(b)(48), Jan. 7, 2011, 124 Stat. 4371.)
 
 #### Amendments
 
-2006—Pub. L. 109–364 renumbered section 2398a of this title as this section.
+<b>2011</b>—Subsecs. (b), (d). Pub. L. 111–383 substituted “one or more” for “1 or more” wherever appearing.
+
+<b>2006</b>—Pub. L. 109–364 renumbered section 2398a of this title as this section.
 

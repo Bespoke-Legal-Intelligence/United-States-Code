@@ -50,9 +50,9 @@
 
 #### Amendments
 
-1994—Subsec. (d)(6)(A). Pub. L. 103–446 substituted “section 316” for “section 230(c)”.
+<b>1994</b>—Subsec. (d)(6)(A). Pub. L. 103–446 substituted “section 316” for “section 230(c)”.
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 5003 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 5003 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83 substituted “Secretary” for “Administrator” wherever appearing.
 
@@ -60,7 +60,7 @@ Pub. L. 102–40, §402(d)(1), substituted “8104” for “5004” in introduc
 
 Subsecs. (b), (c). Pub. L. 102–83 substituted “Secretary” for “Administrator” wherever appearing.
 
-1989—Subsec. (d). Pub. L. 101–237 added subsec. (d).
+<b>1989</b>—Subsec. (d). Pub. L. 101–237 added subsec. (d).
 
 #### Development of Medical-Facility Modular Components
 

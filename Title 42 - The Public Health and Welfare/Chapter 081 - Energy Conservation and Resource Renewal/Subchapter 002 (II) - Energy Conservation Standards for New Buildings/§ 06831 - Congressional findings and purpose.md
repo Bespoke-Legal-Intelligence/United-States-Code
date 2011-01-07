@@ -22,7 +22,7 @@
 
 #### Amendments
 
-1981—Subsecs. (a)(2), (b)(2). Pub. L. 97–35 inserted “voluntary” before “performance standards”.
+<b>1981</b>—Subsecs. (a)(2), (b)(2). Pub. L. 97–35 inserted “voluntary” before “performance standards”.
 
 #### Effective Date of 1981 Amendment
 

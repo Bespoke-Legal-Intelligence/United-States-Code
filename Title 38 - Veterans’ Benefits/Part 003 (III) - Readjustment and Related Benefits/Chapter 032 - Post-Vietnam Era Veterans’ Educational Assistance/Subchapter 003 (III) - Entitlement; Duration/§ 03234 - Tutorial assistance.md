@@ -16,9 +16,9 @@
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1634 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1634 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “3492” for “1692”.
 
-1989—Subsec. (d)(1). Pub. L. 101–237 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1989</b>—Subsec. (d)(1). Pub. L. 101–237 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 

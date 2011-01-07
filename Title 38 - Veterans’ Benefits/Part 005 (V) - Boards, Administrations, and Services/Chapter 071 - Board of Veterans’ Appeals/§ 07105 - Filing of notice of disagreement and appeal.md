@@ -28,15 +28,15 @@
 
 #### Amendments
 
-2001—Subsec. (b)(1). Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
+<b>2001</b>—Subsec. (b)(1). Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 4005 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 4005 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83 substituted “Secretary” for “Administrator”.
 
 Subsec. (d)(2). Pub. L. 102–40, §402(d)(1), substituted “5701” for “3301”.
 
-1988—Subsec. (d)(1). Pub. L. 100–687, §206(a), substituted “shall prepare a statement of the case. A statement of the case shall include the following:” for “will prepare a statement of the case consisting of—”, added subpars. (A) to (C), and struck out former subpars. (A) to (C) which read as follows:
+<b>1988</b>—Subsec. (d)(1). Pub. L. 100–687, §206(a), substituted “shall prepare a statement of the case. A statement of the case shall include the following:” for “will prepare a statement of the case consisting of—”, added subpars. (A) to (C), and struck out former subpars. (A) to (C) which read as follows:
 
 “(A) A summary of the evidence in the case pertinent to the issue or issues with which disagreement has been expressed;
 
@@ -48,7 +48,7 @@ Subsec. (d)(4). Pub. L. 100–687, §206(b), amended par. (4) generally. Prior t
 
 Subsec. (d)(5). Pub. L. 100–687, §203(b), struck out “will base its decision on the entire record and” after “of Veterans’ Appeals”.
 
-1986—Subsec. (b)(2). Pub. L. 99–576, §701(85), substituted “the claimant's” for “his” and “the claimant or legal guardian” for “him”.
+<b>1986</b>—Subsec. (b)(2). Pub. L. 99–576, §701(85), substituted “the claimant's” for “his” and “the claimant or legal guardian” for “him”.
 
 Subsec. (d)(1), (3). Pub. L. 99–576, §701(85)(A), substituted “the claimant's” for “his”.
 

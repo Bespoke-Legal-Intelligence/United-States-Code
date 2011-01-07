@@ -4,5 +4,5 @@ Section, Pub. L. 86–149, title IV, §420, Aug. 10, 1959, 73 Stat. 324, related
 
 #### Effective Date of Repeal
 
-Repeal effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of Title 10, Armed Forces.
+Repeal effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing before, on, or aftersuch date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of Title 10, Armed Forces.
 

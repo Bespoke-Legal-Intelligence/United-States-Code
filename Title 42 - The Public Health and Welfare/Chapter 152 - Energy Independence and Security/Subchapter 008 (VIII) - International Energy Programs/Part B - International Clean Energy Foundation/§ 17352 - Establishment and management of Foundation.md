@@ -58,7 +58,7 @@
 
 &emsp;The Board shall consist of—
 
-&emsp;&emsp;(A) the Secretary of State (or the Secretary's designee), the Secretary of Energy\(or the Secretary's designee), and the Administrator of the United States Agency for International Development (or the Administrator's designee); and
+&emsp;&emsp;(A) the Secretary of State (or the Secretary's designee), the Secretary of Energy (or the Secretary's designee), and the Administrator of the United States Agency for International Development (or the Administrator's designee); and
 
 &emsp;&emsp;(B) four other individuals with relevant experience in matters relating to energy security (such as individuals who represent institutions of energy policy, business organizations, foreign policy organizations, or other relevant organizations) who shall be appointed by the President, by and with the advice and consent of the Senate, of whom—
 

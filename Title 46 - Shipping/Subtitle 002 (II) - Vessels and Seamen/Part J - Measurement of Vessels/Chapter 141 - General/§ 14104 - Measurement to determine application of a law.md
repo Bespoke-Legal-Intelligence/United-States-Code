@@ -18,5 +18,5 @@ Section 14104 requires that a vessel be measured under Part J of this subtitle w
 
 #### Amendments
 
-1996—Pub. L. 104–324 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+<b>1996</b>—Pub. L. 104–324 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 

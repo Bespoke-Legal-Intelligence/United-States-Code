@@ -26,23 +26,23 @@ Section 102(6) of the Controlled Substances Act, referred to in subsec. (b)(i)(1
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–296 substituted “Attorney General” for “Secretary of the Treasury”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–296 substituted “Attorney General” for “Secretary of the Treasury”.
 
-1994—Pub. L. 103–322, §330016(1)(L), which directed the amendment of this section by substituting “under this title” for “not more than $10,000”, could not be executed because the phrase “not more than $10,000” did not appear in text subsequent to amendment of subsec. (a) by Pub. L. 103–322, §140007(a). See below.
+<b>1994</b>—Pub. L. 103–322, §330016(1)(L), which directed the amendment of this section by substituting “under this title” for “not more than $10,000”, could not be executed because the phrase “not more than $10,000” did not appear in text subsequent to amendment of subsec. (a) by Pub. L. 103–322, §140007(a). See below.
 
 Subsec. (a). Pub. L. 103–322, §140007(a), substituted “and thereafter performs or attempts to perform—” and subpars. (A) and (B) for former concluding provisions which read as follows: “and thereafter performs or attempts to perform any of the acts specified in subparagraphs (1), (2), and (3), shall be fined not more than $10,000 or imprisoned for not more than five years, or both.”
 
-1990—Subsec. (a). Pub. L. 101–647, §1604, inserted “the mail or” after “uses” and struck out “including the mail,” before “with intent” in introductory provisions.
+<b>1990</b>—Subsec. (a). Pub. L. 101–647, §1604, inserted “the mail or” after “uses” and struck out “including the mail,” before “with intent” in introductory provisions.
 
 Subsec. (b). Pub. L. 101–647, §1205(i), inserted “(i)” after “As used in this section” and added cl. (ii).
 
-1986—Subsec. (b)(3). Pub. L. 99–570 added cl. (3).
+<b>1986</b>—Subsec. (b)(3). Pub. L. 99–570 added cl. (3).
 
-1970—Subsec. (b)(1). Pub. L. 91–513, §701(i)(2)(A), inserted “or controlled substances (as defined in section 102(6) of the Controlled Substances Act)”.
+<b>1970</b>—Subsec. (b)(1). Pub. L. 91–513, §701(i)(2)(A), inserted “or controlled substances (as defined in section 102(6) of the Controlled Substances Act)”.
 
 Subsec. (c). Pub. L. 91–513, §701(i)(2)(B), struck out reference to investigations involving narcotics.
 
-1965—Subsec. (b)(2). Pub. L. 89–68 made section applicable to travel in aid of arson.
+<b>1965</b>—Subsec. (b)(2). Pub. L. 89–68 made section applicable to travel in aid of arson.
 
 #### Effective Date of 2002 Amendment
 

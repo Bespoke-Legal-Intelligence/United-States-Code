@@ -30,7 +30,7 @@ The Indian Tribal Government Tax Status Act (Sec. 7871, I.R.C. 1986), referred t
 
 #### Amendments
 
-1986—Subsec. (c). Pub. L. 99–514 substituted “I.R.C. 1986” meaning Internal Revenue Code of 1986 for “I.R.C. 1954” meaning Internal Revenue Code of 1954.
+<b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted “I.R.C. 1986” meaning Internal Revenue Code of 1986 for “I.R.C. 1954” meaning Internal Revenue Code of 1954.
 
 #### Short Title
 

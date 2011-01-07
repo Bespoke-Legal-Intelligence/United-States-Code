@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding any other provision of law, the President may conduct programs describedin subsection (b) of this section to assist the independent states of the former Soviet Union in the demilitarization of the former Soviet Union. Any such program may be carried out only to the extent that the President determines that the program will directly contribute to the national security interests of the United States.
+Notwithstanding any other provision of law, the President may conduct programs described in subsection (b) of this section to assist the independent states of the former Soviet Union in the demilitarization of the former Soviet Union. Any such program may be carried out only to the extent that the President determines that the program will directly contribute to the national security interests of the United States.
 
 #### (b) Authorized programs
 
@@ -32,11 +32,11 @@ The programs described in subsection (b) of this section should, to the extent f
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–181 made amendment identical to that made by Pub. L. 110–53. See 2007 Amendment note below.
+<b>2008</b>—Subsec. (d). Pub. L. 110–181 made amendment identical to that made by Pub. L. 110–53. See 2007 Amendment note below.
 
-2007—Subsec. (d). Pub. L. 110–53 struck out subsec. (d) which prohibited assistance unless the President had certified to Congress that the proposed recipient state was committed to meeting specified conditions relating to elimination of weapons of mass destruction, compliance with arms control agreements, and observation of internationally recognized human rights.
+<b>2007</b>—Subsec. (d). Pub. L. 110–53 struck out subsec. (d) which prohibited assistance unless the President had certified to Congress that the proposed recipient state was committed to meeting specified conditions relating to elimination of weapons of mass destruction, compliance with arms control agreements, and observation of internationally recognized human rights.
 
-2002—Subsec. (d). Pub. L. 107–314, §1306(c), formerly §1306(e), as renumbered by Pub. L. 109–163, in introductory provisions, substituted “any fiscal year” for “any year” and “such fiscal year” for “that year”.
+<b>2002</b>—Subsec. (d). Pub. L. 107–314, §1306(c), formerly §1306(e), as renumbered by Pub. L. 109–163, in introductory provisions, substituted “any fiscal year” for “any year” and “such fiscal year” for “that year”.
 
 #### Utilization of Contributions to the Cooperative Threat Reduction Program
 
@@ -220,7 +220,7 @@ Transfer of Assets.—(1) Notwithstanding any restriction or limitation in law o
 
 &emsp;“(B) Fiscal year 2001 Cooperative Threat Reduction funds, as specified in section 1301(b) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–339; 22 U.S.C. 5959 note).
 
-&emsp;“(C) Fiscal year 2000 Cooperative Threat Reduction funds, as specified in section 1301(b) of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65; 113 Stat. 792; 22 U.S.C. 5952 note).
+&emsp;“(C) Fiscal year 2000 Cooperative Threat Reduction funds, as specified in section 1301(b) of the NationalDefense Authorization Act for Fiscal Year 2000 (Public Law 106–65; 113 Stat. 792; 22 U.S.C. 5952 note).
 
 “(c)
 
@@ -358,7 +358,7 @@ Findings.—Congress finds the following:
 
 &emsp;&emsp;“(F) these objectives are accomplished with sufficient monitoring and transparency to provide confidence that they have in fact been accomplished and that the funds provided to accomplish these objectives have been spent efficiently and effectively.
 
-&emsp;“(3) United States programs should be designed to accomplish these vital objectives in the Russian Federation as rapidly as possible, and the Presidentshould develop and present to Congress a plan for doing so.
+&emsp;“(3) United States programs should be designed to accomplish these vital objectives in the Russian Federation as rapidly as possible, and the President should develop and present to Congress a plan for doing so.
 
 &emsp;“(4) Substantial progress has been made in United States-Russian Federation cooperative programs to achieve these objectives, but much more remains to be done to reduce the urgent risks to United States national security posed by the current state of the Russian Federation's weapons of mass destruction stockpiles and complexes.
 
@@ -458,7 +458,7 @@ Implementation.—In exercising the authority of subsection (a), the President�
 
 &emsp;&emsp;&emsp;“(i) the Department of State, with respect to obligations of the former Soviet Union under the Lend Lease Act of 1941 \[former 22 U.S.C. 411 et seq.\]; and
 
-&emsp;&emsp;&emsp;“(ii) the Commodity Credit Corporation, with respect to obligations of the former Soviet Unionunder the Commodity Credit Corporation Act \[15 U.S.C. 713a et seq.\];
+&emsp;&emsp;&emsp;“(ii) the Commodity Credit Corporation, with respect to obligations of the former Soviet Union under the Commodity Credit Corporation Act \[15 U.S.C. 713a et seq.\];
 
 &emsp;&emsp;“(B) shall direct the cancellation of old obligations and the substitution of new obligations consistent with the Russian Federation Nonproliferation Investment Agreement; and
 
@@ -520,7 +520,7 @@ Content of the Agreement.—The Russian Federation Nonproliferation Investment A
 
 “(c)
 
-Use of Existing Mechanisms.—It is the sense of Congress that, to the extent practicable, the boards and administrative mechanisms of existing threat reduction and nonproliferation programs should be used in the administration and oversight of programs and projects under the Agreement.
+Use of Existing Mechanisms.—It is the sense of Congress that, to the extent practicable, the boards andadministrative mechanisms of existing threat reduction and nonproliferation programs should be used in the administration and oversight of programs and projects under the Agreement.
 
 “(d)
 
@@ -682,7 +682,7 @@ Expiration of Authority.—The authority under paragraph (a) shall expire Januar
 
 Pub. L. 106–398, §1 \[\[div. A\], title XIII, §1303\], Oct. 30, 2000, 114 Stat. 1654, 1654A–340, provided that: “No fiscal year 2001 Cooperative Threat Reduction funds and no funds appropriated for Cooperative Threat Reduction programs for any other fiscal year, may be obligated or expended for elimination of conventional weapons or the delivery vehicles primarily intended to deliver such weapons.” \[For definitions, see section 1 \[\[div. A\], title XIII, §1301(a)\] of Pub. L. 106–398, set out as a note under section 5959 of this title.\]
 
-Pub. L. 106–398, §1 \[\[div. A\], title XIII, §1304\], Oct. 30, 2000, 114 Stat. 1654, 1654A–340, as amended by Pub. L. 107–107, div. A, title XIII, §1305(b), Dec. 28, 2001, 115 Stat. 1255, provided that: “Out of funds authorized to be appropriated for Cooperative Threat Reduction programs \[for definition, see section 1 \[\[div. A\], title XIII, §1301(a)\] of Pub. L. 106–398, set out as a note under section 5959 of this title\] for fiscal year 2001 or any other fiscal year, not more than $412,600,000 may be used for planning, design, or construction of the first wing for the storage facility for Russian fissile material referred to in section 1302(a)(5) \[114 Stat. 1654–339\] other than planning, design, or construction to improve security at such first wing.”
+Pub. L. 106–398, §1 \[\[div. A\], title XIII, §1304\], Oct. 30, 2000, 114 Stat. 1654, 1654A–340, as amended by Pub. L. 107–107, div. A, title XIII, §1305(b), Dec. 28, 2001, 115 Stat. 1255, provided that: “Out of funds authorized to be appropriated for Cooperative Threat Reduction programs \[for definition, see section 1 \[\[div. A\], title XIII, §1301(a)\] of Pub. L. 106–398, set out as a note under section 5959 of this title\] for fiscal year 2001 or any other fiscal year, not more than $412,600,000 may be used for planning, design, or construction of the first wing forthe storage facility for Russian fissile material referred to in section 1302(a)(5) \[114 Stat. 1654–339\] other than planning, design, or construction to improve security at such first wing.”
 
 Pub. L. 106–65, div. A, title XIII, §§1303–1305, Oct. 5, 1999, 113 Stat. 793, 794, as amended by Pub. L. 107–107, div. A, title XIII, §1308, Dec. 28, 2001, 115 Stat. 1256; Pub. L. 107–314, div. A, title X, §1062(j)(2), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 110–53, title XVIII, §1811(3), Aug. 3, 2007, 121 Stat. 492; Pub. L. 110–181, div. A, title XIII, §1304(a)(3), Jan. 28, 2008, 122 Stat. 412, provided that:
 
@@ -864,7 +864,7 @@ Determination of President of the United States, No. 2005–09, Dec. 6, 2004, 69
 
 Memorandum for the Secretary of State
 
-Consistent with the authority vested in me by section 1306 of the \[Bob Stump\] national \[National\] Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) \[amending this section and enacting provisions set out as a note above\], I hereby certify that waiving the restrictions contained in subsection (d) of section 1203 of the Cooperative Threat Reduction Act of 1993 (22 U.S.C. 5952), as amended, and the requirements contained in section 502 of the FREEDOM Support Act (22 U.S.C. 5852) during Fiscal Year 2005 with respect to the Russian Federation is important to the national security interests of the United States.
+Consistent with the authority vested in me by section 1306 of the \[Bob Stump\] national \[National\] Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) \[amending this section and enacting provisions set out as a note above\], I hereby certify thatwaiving the restrictions contained in subsection (d) of section 1203 of the Cooperative Threat Reduction Act of 1993 (22 U.S.C. 5952), as amended, and the requirements contained in section 502 of the FREEDOM Support Act (22 U.S.C. 5852) during Fiscal Year 2005 with respect to the Russian Federation is important to the national security interests of the United States.
 
 You are authorized and directed to transmit to the Congress this certification and the associated report (including its classified annex) \[not set out in the Code\] that has been prepared by my Administration consistent with section 1306(b) of Public Law 107–314. You are further authorized and directed to arrange for the publication of this certification in the Federal Register.
 
@@ -954,7 +954,7 @@ Pub. L. 106–65, div. A, title XIII, §1301(a), (b), Oct. 5, 1999, 113 Stat. 79
 
 “(a)
 
-Specification of CTR Programs.—For purposes of section 301 \[113 Stat. 556\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2731; 50 U.S.C. 2362 note).
+Specification of CTR Programs.—For purposes of section 301 \[113 Stat. 556\] and other provisions of thisAct \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2731; 50 U.S.C. 2362 note).
 
 “(b)
 

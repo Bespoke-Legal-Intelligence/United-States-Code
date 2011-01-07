@@ -32,7 +32,7 @@
 
 &emsp;(i) applies for a grant in an amount not exceeding $1,000,000; and
 
-&emsp;(ii) has deposited in the eligible institution's endowment fund established under this section an amount which is equal to 1/2 of the amount of such grant.
+&emsp;(ii) has deposited in the eligible institution's endowment fund established under this section an amount which is equal to ½ of the amount of such grant.
 
 (C) An eligible institution of higher education that is awarded a grant under subparagraph (B) shall not be eligible to receive an additional grant under subparagraph (B) until 10 years after the date on which the grant period terminates.
 
@@ -56,7 +56,7 @@
 
 #### (c) Grant agreement; endowment fund provisions
 
-(1) An institution awarded a grant under this section shall enter into an agreement with theSecretary containing satisfactory assurances that it will (A) immediately comply with the matching requirements of subsection (b)(2) of this section, (B) establish an endowment fund independent of any other such fund of the institution, (C) invest the endowment fund corpus, and (D) meet the other requirements of this section.
+(1) An institution awarded a grant under this section shall enter into an agreement with the Secretary containing satisfactory assurances that it will (A) immediately comply with the matching requirements of subsection (b)(2) of this section, (B) establish an endowment fund independent of any other such fund of the institution, (C) invest the endowment fund corpus, and (D) meet the other requirements of this section.
 
 (2)(A) An institution shall invest the endowment fund corpus and endowment fund income in low-risk securities in which a regulated insurance company may invest under the law of the State in which the institution is located such as a federally insured bank savings account or comparable interest-bearing account, certificate of deposit, money market fund, mutual fund, or obligations of the United States.
 
@@ -126,19 +126,19 @@ A prior section 1065a, Pub. L. 89–329, title III, §333, as added Pub. L. 98�
 
 #### Amendments
 
-2008—Subsec. (b)(2)(B)(i). Pub. L. 110–315, §313(a)(1), substituted “$1,000,000” for “$500,000”.
+<b>2008</b>—Subsec. (b)(2)(B)(i). Pub. L. 110–315, §313(a)(1), substituted “$1,000,000” for “$500,000”.
 
 Subsec. (b)(5). Pub. L. 110–315, §313(a)(2), substituted “$100,000” for “$50,000”.
 
 Subsec. (i). Pub. L. 110–315, §313(b), added subsec. (i).
 
-1998—Subsec. (b)(1). Pub. L. 105–244, §305(1), substituted “section 1068h” for “section 1069f”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–244, §305(1), substituted “section 1068h” for “section 1069f”.
 
-Subsec. (b)(2)(B), (C). Pub. L. 105–244, §305(2), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which authorized Secretary to make grants under this part to eligible institutions in amounts which varied depending on amount appropriated in each fiscal year to carry out this part and limited rights of institutions to reapply for grants when amount appropriated was below specified amounts.
+Subsec. (b)(2)(B), (C). Pub. L. 105–244, §305(2), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which authorized Secretary to make grantsunder this part to eligible institutions in amounts which varied depending on amount appropriated in each fiscal year to carry out this part and limited rights of institutions to reapply for grants when amount appropriated was below specified amounts.
 
-1993—Subsecs. (a)(2)(D), (b)(2)(B), (C), (5). Pub. L. 103–208 realigned margins and in subsec. (b)(5) substituted “An endowment” for “an endowment”.
+<b>1993</b>—Subsecs. (a)(2)(D), (b)(2)(B), (C), (5). Pub. L. 103–208 realigned margins and in subsec. (b)(5) substituted “An endowment” for “an endowment”.
 
-1992—Subsec. (a)(1). Pub. L. 102–325, §304(b)(1)(A), struck out “of higher education” after “eligible institutions”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–325, §304(b)(1)(A), struck out “of higher education” after “eligible institutions”.
 
 Subsec. (a)(2)(D). Pub. L. 102–325, §304(b)(1)(B), added subpar. (D).
 
@@ -168,7 +168,7 @@ Subsec. (f)(1). Pub. L. 102–325, §304(b)(7), amended par. (1) generally. Prio
 
 Subsec. (g). Pub. L. 102–325, §304(b)(8), inserted “, including a description of the long- and short-term plans for raising and using the funds under this part” before period at end of first sentence.
 
-1987—Subsec. (f)(1). Pub. L. 100–50 inserted “(or section 1069a of this title)”.
+<b>1987</b>—Subsec. (f)(1). Pub. L. 100–50 inserted “(or section 1069a of this title)”.
 
 #### Effective Date of 1998 Amendment
 

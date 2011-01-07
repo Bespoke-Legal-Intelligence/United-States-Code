@@ -24,9 +24,9 @@ Transportation Defined.—In this section, the terms “transportation” and �
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–181 inserted at end “The regulations may include a requirement that a member of the armed forces or civilian employee of the Department of Defense comply with reasonable restrictions or conditions prescribed by the Secretary in order to receive the full amount deducted under subsection (b).”
+<b>2008</b>—Subsec. (d). Pub. L. 110–181 inserted at end “The regulations may include a requirement that a member of the armed forces or civilian employee of the Department of Defense comply with reasonable restrictions or conditions prescribed by the Secretary in order to receive the full amount deducted under subsection (b).”
 
-2006—Subsec. (a). Pub. L. 109–364, §363(b)(1), substituted “shall include” for “may include”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–364, §363(b)(1), substituted “shall include” for “may include”.
 
 Pub. L. 109–364, §363(a), substituted “at Government expense of baggage and household effects for members of the armed forces or civilian employees of the Department of Defense (or both)” for “of baggage and household effects for members of the armed forces at Government expense”.
 

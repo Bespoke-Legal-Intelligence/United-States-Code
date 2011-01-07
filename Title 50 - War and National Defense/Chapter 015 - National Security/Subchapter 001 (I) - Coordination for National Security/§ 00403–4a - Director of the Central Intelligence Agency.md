@@ -2,7 +2,7 @@
 
 #### (a) Director of Central Intelligence Agency
 
-There is a Director of the Central Intelligence Agency who shall be appointed by the President, by and with the advice and consent of the Senate.
+There is a Director of the Central Intelligence Agency who shall be appointed by the President,by and with the advice and consent of the Senate.
 
 #### (b) Supervision
 
@@ -40,7 +40,7 @@ Under the direction of the Director of National Intelligence and in a manner con
 
 #### (g) Foreign language proficiency for certain senior level positions in Central Intelligence Agency
 
-(1) Except as provided pursuant to paragraph (2), an individual may not be appointed to a position in the Senior Intelligence Service in the Directorate of Intelligence or the Directorate of Operations of the Central Intelligence Agency unless the Director of the Central Intelligence Agency determines that the individual—
+(1) Except as provided pursuant to paragraph (2), an individual may not be appointed to a position in the Senior Intelligence Service in the Directorate of Intelligence or the National Clandestine Service of the Central Intelligence Agency unless the Director of the Central Intelligence Agency determines that the individual—
 
 &emsp;(A) has been certified as having a professional speaking and reading proficiency in a foreign language, such proficiency being at least level 3 on the Interagency Language Roundtable Language Skills Level or commensurate proficiency level using such other indicator of proficiency as the Director of the Central Intelligence Agency considers appropriate; and
 
@@ -48,11 +48,13 @@ Under the direction of the Director of National Intelligence and in a manner con
 
 (2) The Director of the Central Intelligence Agency may, in the discretion of the Director, waive the application of paragraph (1) to any position or category of positions otherwise covered by that paragraph if the Director determines that foreign language proficiency is not necessary for the successful performance of the duties and responsibilities of such position or category of positions.
 
-(July 26, 1947, ch. 343, title I, §104A, as added Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3660; amended Pub. L. 108–487, title VI, §611(a), Dec. 23, 2004, 118 Stat. 3954.)
+(July 26, 1947, ch. 343, title I, §104A, as added Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3660; amended Pub. L. 108–487, title VI, §611(a), Dec. 23, 2004, 118 Stat. 3954; Pub. L. 111–259, title VIII, §804(4), Oct. 7, 2010, 124 Stat. 2747.)
 
 #### Amendments
 
-2004—Subsec. (g). Pub. L. 108–487 added subsec. (g).
+<b>2010</b>—Subsec. (g)(1). Pub. L. 111–259 substituted “National Clandestine Service” for “Directorate of Operations” in introductory provisions.
+
+<b>2004</b>—Subsec. (g). Pub. L. 108–487 added subsec. (g).
 
 #### Effective Date of 2004 Amendment
 
@@ -60,7 +62,7 @@ Pub. L. 108–487, title VI, §611(b), Dec. 23, 2004, 118 Stat. 3955, provided t
 
 #### Effective Date
 
-For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President ofthe United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
+For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 

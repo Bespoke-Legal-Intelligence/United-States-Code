@@ -84,7 +84,7 @@ The Secretary shall authorize the director of each National Laboratory or single
 
 #### (C) Research and development expenses
 
-&emsp;&emsp;Independent research and development expenses of Government contractors that qualify for reimbursement under section 31.205–18(e) of title 48, Code of Federal Regulations, issued pursuant to section 421(c)(1) of title 41, may be credited towards costs paid by non-Federal sources to a project, if the expenses meet the other requirements of this section.
+&emsp;&emsp;Independent research and development expenses of Government contractors that qualify for reimbursement under section 31.205–18(e) of title 48, Code of Federal Regulations, issued pursuant to section 1303(a)(1) of title 41, may be credited towards costs paid by non-Federal sources to a project, if the expenses meet the other requirements of this section.
 
 #### (4) Competitive selection
 
@@ -135,4 +135,8 @@ Not later than July 1, 2008, the Secretary shall submit to Congress a report on 
 There are authorized to be appropriated to the Secretary for activities under this section $10,000,000 for each of fiscal years 2006 through 2008.
 
 (Pub. L. 109–58, title X, §1002, Aug. 8, 2005, 119 Stat. 927.)
+
+#### Codification
+
+In subsec. (e)(3)(C), “section 1303(a)(1) of title 41” substituted for “section 25(c)(1) of the Office of FederalProcurement Policy Act (41 U.S.C. 421(c)(1))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

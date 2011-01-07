@@ -18,7 +18,7 @@ Another prior section 504 of Pub. L. 89–329 was classified to section 1091c of
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–292 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
+<b>2006</b>—Subsec. (a). Pub. L. 109–292 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
 “(1)
 

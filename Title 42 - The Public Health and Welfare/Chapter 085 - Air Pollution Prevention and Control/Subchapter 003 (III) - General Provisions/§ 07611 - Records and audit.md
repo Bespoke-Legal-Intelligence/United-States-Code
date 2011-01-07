@@ -16,9 +16,9 @@ Section was formerly classified to section 1857j of this title.
 
 #### Amendments
 
-1970—Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary” and “Secretary of Health, Education, and Welfare”.
+<b>1970</b>—Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary” and “Secretary of Health, Education, and Welfare”.
 
-1967—Pub. L. 90–148 reenacted section without change.
+<b>1967</b>—Pub. L. 90–148 reenacted section without change.
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 

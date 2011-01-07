@@ -118,7 +118,15 @@ Information shall be entered into the data base maintained by the State Director
 
 &emsp;State agencies operating employment security and workers’ compensation programs shall have access to information reported by employers pursuant to subsection (b) of this section for the purposes of administering such programs.
 
-(Aug. 14, 1935, ch. 531, title IV, §453A, as added Pub. L. 104–193, title III, §313(b), Aug. 22, 1996, 110 Stat. 2209; amended Pub. L. 105–33, title V, §5533, Aug. 5, 1997, 111 Stat. 627.)
+(Aug. 14, 1935, ch. 531, title IV, §453A, as added Pub. L. 104–193, title III, §313(b), Aug. 22, 1996, 110 Stat. 2209; amended Pub. L. 105–33, title V, §5533, Aug. 5, 1997, 111 Stat. 627; Pub. L. 111–291, title VIII, §802(a), (b), Dec. 8, 2010, 124 Stat. 3157.)
+
+#### Amendment of Subsections (b)(1)(A) and (c)
+
+<i>Pub. L. 111–291, title VIII, §802, Dec. 8, 2010, 124 Stat. 3157, provided that, effective 6 months after Dec. 8, 2010, with delay permitted if State legislation is required to meet additional requirements, this section is amended as follows:</i>
+
+<i>(1) in subsection (b)(1)(A), by inserting “the date services for remuneration were first performed by the employee,” after “of the employee,”; and</i>
+
+<i>(2) in subsection (c), by inserting “, to the extent practicable,” after “Each report required by subsection (b) of this section shall”.</i>
 
 #### References in Text
 
@@ -126,9 +134,21 @@ The Internal Revenue Code of 1986, referred to in subsecs. (a)(2), (b)(1)(A), an
 
 #### Amendments
 
-1997—Subsec. (d). Pub. L. 105–33, §5533(1), substituted “shall not exceed” for “shall be less than” in introductory provisions and “$25 per failure to meet the requirements of this section with respect to a newly hired employee” for “$25” in par. (1).
+<b>1997</b>—Subsec. (d). Pub. L. 105–33, §5533(1), substituted “shall not exceed” for “shall be less than” in introductory provisions and “$25 per failure to meet the requirements of this section with respect to a newly hired employee” for “$25” in par. (1).
 
 Subsec. (g)(2)(B). Pub. L. 105–33, §5533(2), substituted “information” for “extracts of the reports required under section 503(a)(6) of this title to be made to the Secretary of Labor”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–291, title VIII, §802(c), Dec. 8, 2010, 124 Stat. 3157, provided that:
+
+“(1)
+
+In general.—Subject to paragraph (2), the amendments made by this section \[amending this section\] shall take effect 6 months after the date of the enactment of this Act \[Dec. 8, 2010\].
+
+“(2)
+
+Compliance transition period.—If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under part D of title IV of the Social Security Act \[42 U.S.C. 651 et seq.\] to meet the additional requirements imposed by the amendment made by subsection (a), the plan shall not be regarded as failing to meet such requirements before the first day of the second calendar quarter beginning after the close of the first regular session of the State legislature that begins after the effective date of such amendment. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.”
 
 #### Effective Date of 1997 Amendment
 

@@ -12,9 +12,29 @@ The Congress also finds that there has been a recent trend toward leasing automo
 
 #### Amendments
 
-1976—Pub. L. 94–240 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1976</b>—Pub. L. 94–240 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1974—Pub. L. 93–495 inserted provisions expanding purposes of subchapter to include protection of consumer against inaccurate and unfair credit billing and credit card practices.
+<b>1974</b>—Pub. L. 93–495 inserted provisions expanding purposes of subchapter to include protection of consumer against inaccurate and unfair credit billing and credit card practices.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–203, title XIV, §1400(c), July 21, 2010, 124 Stat. 2136, provided that:
+
+“(1)
+
+Regulations.—The regulations required to be prescribed under this title \[see Tables for classification\] or the amendments made by this title shall—
+
+&emsp;“(A) be prescribed in final form before the end of the 18-month period beginning on the designated transfer date; and
+
+&emsp;“(B) take effect not later than 12 months after the date of issuance of the regulations in final form.
+
+“(2)
+
+Effective date established by rule.—Except as provided in paragraph (3), a section, or provision thereof, of this title shall take effect on the date on which the final regulations implementing such section, or provision, take effect.
+
+“(3)
+
+Effective date.—A section of this title for which regulations have not been issued on the date that is 18 months after the designated transfer date shall take effect on such date.”
 
 #### Effective Date of 1976 Amendment
 
@@ -28,6 +48,12 @@ For effective date of amendment by Pub. L. 93–495, see section 308 of Pub. L. 
 
 Section 504(a) of Pub. L. 90–321 provided that this part is effective May 29, 1968.
 
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–319, §1, Dec. 18, 2010, 124 Stat. 3457, provided that: “This Act \[amending section 1681m of this title and enacting provisions set out as a note under section 1681m of this title\] may be cited as the ‘Red Flag Program Clarification Act of 2010’.”
+
+Pub. L. 111–203, title XIV, §1400(a), July 21, 2010, 124 Stat. 2136, provided that: “This title \[see Tables for classification\] may be cited as the ‘Mortgage Reform and Anti-Predatory Lending Act’.”
+
 #### Short Title of 2009 Amendment
 
 Pub. L. 111–93, §1, Nov. 6, 2009, 123 Stat. 2998, provided that: “This Act \[amending section 1666b of this title\] may be cited as the ‘Credit CARD Technical Corrections Act of 2009’.”
@@ -36,7 +62,7 @@ Pub. L. 111–24, §1(a), May 22, 2009, 123 Stat. 1734, provided that: “This A
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–315, title X, §1001, Aug. 14, 2008, 122 Stat. 3478, provided that: “This title \[enacting section 1650 ofthis title and sections 1019d and 9709 of Title 20, Education, amending sections 1602, 1603, 1638, and 1640 of this title, section 2903 of Title 12, Banks and Banking, and section 1092 of Title 20, and enacting provisions set out as notes under sections 1638 and 1640 of this title, section 2903 of Title 12, and section 9709 of Title 20\] may be cited as the ‘Private Student Loan Transparency and Improvement Act of 2008’.”
+Pub. L. 110–315, title X, §1001, Aug. 14, 2008, 122 Stat. 3478, provided that: “This title \[enacting section 1650 of this title and sections 1019d and 9709 of Title 20, Education, amending sections 1602, 1603, 1638, and 1640 of this title, section 2903 of Title 12, Banks and Banking, and section 1092 of Title 20, and enacting provisions set out as notes under sections 1638 and 1640 of this title, section 2903 of Title 12, and section 9709 of Title 20\] may be cited as the ‘Private Student Loan Transparency and Improvement Act of 2008’.”
 
 Pub. L. 110–289, div. B, title V, §2501, July 30, 2008, 122 Stat. 2855, provided that: “This title \[amending sections 1638 and 1640 of this title and sections 24 and 338a of Title 12, Banks and Banking, and enacting provisions set out as a note under section 1638 of this title\] may be cited as the ‘Mortgage Disclosure Improvement Act of 2008’.”
 
@@ -70,7 +96,7 @@ Pub. L. 103–325, title I, §151, Sept. 23, 1994, 108 Stat. 2190, provided that
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–537, §1, Oct. 27, 1992, 106 Stat. 3531, provided that: “This Act \[enacting section 1681s–1 of this title, amending section 1681a of this title, and enacting provisions set out as a note under section 1681a of this title\] may be cited as the ‘Ted Weiss Child Support Enforcement Act of 1992’.”
+Pub. L. 102–537, §1, Oct. 27, 1992, 106 Stat. 3531, provided that: “This Act \[enacting section 1681s–1 of this title, amending section 1681a of this title, and enactingprovisions set out as a note under section 1681a of this title\] may be cited as the ‘Ted Weiss Child Support Enforcement Act of 1992’.”
 
 #### Short Title of 1988 Amendments
 
@@ -117,6 +143,10 @@ Section 901 of title IX of Pub. L. 90–321, as added Pub. L. 95–630, title XX
 #### Severability
 
 Section 501 of Pub. L. 90–321 provided that: “If a provision enacted by this Act \[see Short Title note above\], is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in one or more of its applications, the provision remains in effect in all valid applications that are severable from the invalid application or applications.”
+
+#### Exemption or Modification of Mortgage Disclosure Requirements
+
+Pub. L. 111–203, title XIV, §1405(b), July 21, 2010, 124 Stat. 2142, provided that: “Notwithstanding any other provision of this title \[see Tables for classification\], in order to improve consumer awareness and understanding of transactions involving residential mortgage loans through the use of disclosures, the Board may, by rule, exempt from or modify disclosure requirements, in whole or in part, for any class of residential mortgage loans if the Board determines that such exemption or modification is in the interest of consumers and in the public interest.”
 
 #### Analysis of Further Restrictions on Offers of Credit or Insurance
 
@@ -170,15 +200,15 @@ Pub. L. 103–325, title I, §157, Sept. 23, 1994, 108 Stat. 2197, provided that
 
 #### Hearings on Home Equity Lending
 
-Pub. L. 103–325, title I, §158, Sept. 23, 1994, 108 Stat. 2197, provided that:
+Pub. L. 103–325, title I, §158, Sept. 23, 1994, 108 Stat. 2197, as amended by Pub. L. 111–203, title X, §1096, July 21, 2010, 124 Stat. 2102, provided that:
 
 “(a)
 
-Hearings.—Not less than once during the 3-year period beginning on the date of enactment of this Act \[Sept. 23, 1994\], and regularly thereafter, the Board of Governors of the Federal Reserve System, in consultation with the Consumer Advisory Council of the Board, shall conduct a public hearing to examine the home equity loan market and the adequacy of existing regulatory and legislative provisions and the provisions of this subtitle \[see Short Title of 1994 Amendment note above\] in protecting the interests of consumers, and low-income consumers in particular.
+Hearings.—Not less than once during the 3-year period beginning on the date of enactment of this Act \[Sept. 23, 1994\], and regularly thereafter, the Bureau, in consultation with the Advisory Board to the Bureau, shall conduct a public hearing to examine the home equity loan market and the adequacy of existing regulatory and legislative provisions and the provisions of this subtitle \[see Short Title of 1994 Amendment note above\] in protecting the interests of consumers, and low-income consumers in particular.
 
 “(b)
 
-Participation.—In conducting hearings required by subsection (a), the Board of Governors of the Federal Reserve System shall solicit participation from consumers, representatives of consumers, lenders, and other interested parties.”
+Participation.—In conducting hearings required by subsection (a), the Bureau shall solicit participation from consumers, representatives of consumers, lenders, and other interested parties.”
 
 #### Study by Federal Reserve Board of Governors Covering Effect of Charge Card Transactions Upon Card Issuers, Merchants, and Consumers
 
@@ -186,7 +216,7 @@ Pub. L. 97–25, title II, §202, July 27, 1981, 95 Stat. 145, directed Board of
 
 #### Inference of Legislative Intent in Section Captions and Catchlines
 
-Section 502 of Pub. L. 90–321 provided that: “Captions and catchlines are intended solely as aids to convenient reference, and no inference as to the legislative intent with respect to any provision enacted by this Act \[enacting this chapter, section 891 to 896 of Title 18, Crimes and Criminal Procedure, and provisions set outas notes under this section, sections 1631 and 1671 of this title, and section 891 of Title 18\] may be drawn from them.”
+Section 502 of Pub. L. 90–321 provided that: “Captions and catchlines are intended solely as aids to convenient reference, and no inference as to the legislative intent with respect to any provision enacted by this Act \[enacting this chapter, section 891 to 896 of Title 18, Crimes and Criminal Procedure, and provisions set out as notes under this section, sections 1631 and 1671 of this title, and section 891 of Title 18\] may be drawn from them.”
 
 #### Grammatical Usages
 
@@ -199,4 +229,8 @@ Pub. L. 90–321, title V, §503, May 30, 1968, 82 Stat. 167, provided that: “
 &emsp;“(3) The phrase ‘may not’ is used to indicate that an action is both unauthorized and forbidden.
 
 &emsp;“(4) Rules of law are stated in the indicative mood.”
+
+#### Definition
+
+Pub. L. 111–203, title XIV, §1495, July 21, 2010, 124 Stat. 2207, provided that: “For purposes of this title \[see Tables for classification\], the term ‘designated transfer date’ means the date established under section 1062 of this Act \[12 U.S.C. 5582\].”
 

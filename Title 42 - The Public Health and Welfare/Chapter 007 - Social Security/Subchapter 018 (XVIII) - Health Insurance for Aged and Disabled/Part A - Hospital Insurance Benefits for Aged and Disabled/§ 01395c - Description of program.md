@@ -6,25 +6,25 @@ The insurance program for which entitlement is established by sections 426 and 4
 
 #### Amendments
 
-1989—Pub. L. 101–234 repealed Pub. L. 100–360, §104(d)(1), and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment note below.
+<b>1989</b>—Pub. L. 101–234 repealed Pub. L. 100–360, §104(d)(1), and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment note below.
 
-1988—Pub. L. 100–360 substituted “inpatient hospital services, extended care services” for “hospital, related post-hospital”.
+<b>1988</b>—Pub. L. 100–360 substituted “inpatient hospital services, extended care services” for “hospital, related post-hospital”.
 
-1986—Pub. L. 99–272 substituted “government employment” for “Federal employment” in cls. (1) and (2).
+<b>1986</b>—Pub. L. 99–272 substituted “government employment” for “Federal employment” in cls. (1) and (2).
 
-1982—Pub. L. 97–248, §122(a)(1), substituted “home health services, and hospice care” for “and home health services”.
+<b>1982</b>—Pub. L. 97–248, §122(a)(1), substituted “home health services, and hospice care” for “and home health services”.
 
 Pub. L. 97–248, §278(b)(3), inserted “(or would be eligible for such benefits if certain Federal employment were covered employment under such subchapter)” after “subchapter II of this chapter” in cl. (1), and inserted “(or would have been so entitled to such benefits if certain Federal employment were covered employment under such subchapter)” after “subchapter II of this chapter” in cl. (2).
 
-1980—Pub. L. 96–499 substituted “, related post-hospital, and home health services” for “and related post-hospital services”.
+<b>1980</b>—Pub. L. 96–499 substituted “, related post-hospital, and home health services” for “and related post-hospital services”.
 
 Pub. L. 96–473 substituted “are eligible for” for “are entitled to”.
 
 Pub. L. 96–265 substituted “not less than 24 months” for “not less than 24 consecutive months”.
 
-1978—Pub. L. 95–292 inserted references to section 426–1 of this title and to individuals who do not meet the conditions specified in either clause (1) or (2) but who are medically determined to have end stage renal disease.
+<b>1978</b>—Pub. L. 95–292 inserted references to section 426–1 of this title and to individuals who do not meet the conditions specified in either clause (1) or (2) but who are medically determined to have end stage renal disease.
 
-1972—Pub. L. 92–603 designated existing provisions as cl. (1) and added cl. (2).
+<b>1972</b>—Pub. L. 92–603 designated existing provisions as cl. (1) and added cl. (2).
 
 #### Effective Date of 1989 Amendment
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 96–265 applicable with respect to hospital insurance or s
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–292 effective with respect to services, supplies, and equipment furnished after the third calendar month beginning after June 13, 1978, except that provisions for the implementation of an incentive reimbursement system for dialysis services furnished in facilities and providers to become effective with respect to a facility's or provider's first accounting period beginning after the last day of the twelfthmonth following the month of June 1978, and except that provisions for reimbursement rates for home dialysis to become effective on Apr. 1, 1979, see section 6 of Pub. L. 95–292, set out as a note under section 426 of this title.
+Amendment by Pub. L. 95–292 effective with respect to services, supplies, and equipment furnished after the third calendar month beginning after June 13, 1978, except that provisions for the implementation of an incentive reimbursement system for dialysis services furnished in facilities and providers to become effective with respect to a facility's or provider's first accounting period beginning after the last day of the twelfth month following the month of June 1978, and except that provisions for reimbursement rates for home dialysis to become effective on Apr. 1, 1979, see section 6 of Pub. L. 95–292, set out as a note under section 426 of this title.
 
 #### Advisory Council To Study Coverage of Disabled Under This Subchapter
 
@@ -64,7 +64,7 @@ Pub. L. 90–248, title I, §140, Jan. 2, 1968, 81 Stat. 854, directed Secretary
 
 Pub. L. 90–248, title I, §142, Jan. 2, 1968, 81 Stat. 855, provided that:
 
-“(a) Notwithstanding any provision of title XVIII of the Social Security Act \[this subchapter\] an individual who is entitled to hospital insurance benefits under section 226 of such Act \[section 426 of this title\] may, subject to subsections (b) and (c), receive, on the basis of an itemized bill, reimbursement for charges to him for inpatient hospital services (as defined in section 1861 of such Act \[section 1395x of this title\], but without regard to subsection (e) of such section) furnished by, or under arrangements (as defined in section 1861(w) of such Act \[section 1395x(w) of this title\] with, a hospital if—
+“(a) Notwithstanding any provision of title XVIII of the Social Security Act \[this subchapter\] an individual who is entitled to hospital insurance benefits under section 226 of such Act \[section 426 of this title\] may, subject to subsections (b) and (c), receive, on the basis of an itemized bill, reimbursement for charges to him for inpatient hospital services (as defined in section 1861 of such Act \[section 1395x of this title\], but without regard to subsection (e) of such section) furnished by, or under arrangements (as defined in section 1861(w) ofsuch Act \[section 1395x(w) of this title\] with, a hospital if—
 
 &emsp;“(1) the hospital did not have an agreement in effect under section 1866 of such Act \[section 1395cc of this title\] but would have been eligible for payment under part A of title XVIII of such Act \[this part\] with respect to such services if at the time such services were furnished the hospital had such an agreement in effect;
 

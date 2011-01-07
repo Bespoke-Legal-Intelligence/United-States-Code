@@ -34,9 +34,9 @@
 
 &emsp;(C) may, in consultation with the advisory council for the Institute, acquire, without regard to section 8141 of title 40, by lease or otherwise, through the Administrator of General Services, buildings or parts of buildings in the District of Columbia or communities located adjacent to the District of Columbia for the use of the Institute for a period not to exceed ten years;
 
-&emsp;(3) subject to section 284(b)(2) of this title and without regard to section 3324 of title 31 and section 5 of title 41, may enter into such contracts, leases, cooperative agreements, or other transactions, as may be necessary in the conduct of the Director's functions, with any public agency, or with any person, firm, association, corporation, or educational institutions;
+&emsp;(3) subject to section 284(b)(2) of this title and without regard to section 3324 of title 31 and section 6101 of title 41, may enter into such contracts, leases, cooperative agreements, or other transactions, as may be necessary in the conduct of the Director's functions, with any public agency, or with any person, firm, association, corporation, or educational institutions;
 
-&emsp;(4) may make grants to public and nonprofit private entities to assist in meeting the costof the care of patients in hospitals, clinics, and related facilities who are participating in research projects; and
+&emsp;(4) may make grants to public and nonprofit private entities to assist in meeting the cost of the care of patients in hospitals, clinics, and related facilities who are participating in research projects; and
 
 &emsp;(5) shall, in consultation with the advisory council for the Institute, conduct appropriate intramural training and education programs, including continuing education and laboratory and clinical research training programs.
 
@@ -44,21 +44,19 @@
 
 (July 1, 1944, ch. 373, title IV, §421, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 837; amended Pub. L. 100–607, title I, §127, Nov. 4, 1988, 102 Stat. 3055; Pub. L. 103–43, title V, §501, title XX, §2008(b)(3), June 10, 1993, 107 Stat. 158, 211.)
 
-#### References in Text
-
-The provisions of title 5 relating to reimbursement for travel expenses, referred to in subsec. (b), are classified generally to section 5701 et seq. of Title 5, Government Organization and Employees.
-
 #### Codification
 
 In subsec. (b)(2)(C), “section 8141 of title 40” substituted for “the Act of March 3, 1877 (40 U.S.C. 34)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
+In subsec. (b)(3), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-1993—Subsec. (b)(1). Pub. L. 103–43, §2008(b)(3), inserted comma after “may”.
+<b>1993</b>—Subsec. (b)(1). Pub. L. 103–43, §2008(b)(3), inserted comma after “may”.
 
 Subsec. (b)(5). Pub. L. 103–43, §501, added par. (5).
 
-1988—Subsec. (a)(1)(D). Pub. L. 100–607, §127(1), inserted “and rehabilitation from” after “and treatment of”.
+<b>1988</b>—Subsec. (a)(1)(D). Pub. L. 100–607, §127(1), inserted “and rehabilitation from” after “and treatment of”.
 
 Subsec. (b)(1). Pub. L. 100–607, §127(2), substituted “after consultation with” for “, after approval of”.
 

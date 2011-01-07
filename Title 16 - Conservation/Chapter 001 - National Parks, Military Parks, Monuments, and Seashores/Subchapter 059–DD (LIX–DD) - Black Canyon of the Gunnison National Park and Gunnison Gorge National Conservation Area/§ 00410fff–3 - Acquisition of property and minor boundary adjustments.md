@@ -44,11 +44,11 @@ As soon as practicable and subject to the availability of funds the Secretary sh
 
 #### (2) Termination of authority
 
-&emsp;On the date that the Secretary acquires fee ownership of any privately owned land addedto the Park under this subchapter, the authority under paragraph (1) shall terminate with respect to the privately owned land acquired.
+&emsp;On the date that the Secretary acquires fee ownership of any privately owned land added to the Park under this subchapter, the authority under paragraph (1) shall terminate with respect to the privately owned land acquired.
 
 (Pub. L. 106–76, §5, Oct. 21, 1999, 113 Stat. 1128; Pub. L. 108–128, §2(c), Nov. 17, 2003, 117 Stat. 1355.)
 
 #### Amendments
 
-2003—Subsec. (a)(1). Pub. L. 108–128 substituted “Map or the map described in section 410fff–2(a)(2) of this title” for “Map”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–128 substituted “Map or the map described in section 410fff–2(a)(2) of this title” for “Map”.
 

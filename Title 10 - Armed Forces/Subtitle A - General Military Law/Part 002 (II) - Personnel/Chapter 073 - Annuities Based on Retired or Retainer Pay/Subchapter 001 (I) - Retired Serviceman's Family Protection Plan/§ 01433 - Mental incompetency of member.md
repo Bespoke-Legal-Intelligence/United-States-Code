@@ -22,5 +22,5 @@ The first 19 words are substituted for 37:372(c) (1st 9 words). The words “who
 
 #### Amendments
 
-1989—Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration” in two places.
+<b>1989</b>—Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration” in two places.
 

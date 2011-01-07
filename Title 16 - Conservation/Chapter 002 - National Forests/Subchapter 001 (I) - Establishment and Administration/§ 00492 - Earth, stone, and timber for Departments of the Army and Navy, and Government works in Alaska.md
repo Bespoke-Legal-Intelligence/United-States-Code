@@ -10,9 +10,9 @@ The first sentence of this section is from act Mar. 4, 1915, and the last senten
 
 #### Amendments
 
-1928—Act May 29, 1928, struck out provision which required the Secretary of Agriculture to submit with his annual estimates a report of the quantity and market value of earth, stone, and timber furnished.
+<b>1928</b>—Act May 29, 1928, struck out provision which required the Secretary of Agriculture to submit with his annual estimates a report of the quantity and market value of earth, stone, and timber furnished.
 
 #### Change of Name
 
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
+Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
 

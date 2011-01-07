@@ -30,7 +30,7 @@ If the Judicial Conference has policy recommendations concerning the appropriate
 
 #### Amendments
 
-2008—Pub. L. 110–406 redesignated subsec. (b)(1) as (a), subpars. (A) and (B) of subsec. (b)(1) as pars. (1) and (2), respectively, of subsec. (a), and pars. (2) and (3) of subsec. (b) as subsecs. (b) and (c), respectively, substituted “subsection (a)” for “paragraph (1)” in subsec. (c), and struck out former subsec. (a) which read as follows:“The Judicial Conference of the United States shall transmit to the Congress and to the President before May 1, 1985, and before May 1 of every sixth year after May 1, 1985, a recommendation for the uniform percentage adjustment of each dollar amount in this title and in section 1930 of title 28.”
+2008—Pub. L. 110–406 redesignated subsec. (b)(1) as (a), subpars. (A) and (B) of subsec. (b)(1) as pars. (1) and (2), respectively, of subsec. (a), and pars. (2) and (3) of subsec. (b) as subsecs. (b) and (c), respectively, substituted “subsection (a)” for “paragraph (1)” in subsec. (c), and struck out former subsec. (a) which read as follows: “The Judicial Conference of the United States shall transmit to the Congress and to the President before May 1, 1985, and before May 1 of every sixth year after May 1, 1985, a recommendation for the uniform percentage adjustment of each dollar amount in this title and in section 1930 of title 28.”
 
 2005—Subsec. (b)(1). Pub. L. 109–8, §1202(1)–(4), in introductory provisions, inserted “101(19A),” after “101(18),”, “522(f)(3) and 522(f)(4),” after “522(d),”, and “541(b), 547(c)(9),” after “523(a)(2)(C),” and substituted “1322(d), 1325(b), and 1326(b)(3) of this title and section 1409(b) of title 28” for “and 1325(b)(3)”.
 
@@ -136,7 +136,7 @@ By notice dated Feb. 19, 2010, 75 F.R. 8747, the Judicial Conference of the Unit
 
 Similar notices by the Judicial Conference of the United States adjusting the dollar amounts in provisions specified in subsec. (a) of this section were contained in the following:
 
-Feb. 14, 2007, 72 F.R. 7082, effective Apr. 1, 2007.
+Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007.
 
 Feb. 18, 2004, 69 F.R. 8482, effective Apr. 1, 2004.
 

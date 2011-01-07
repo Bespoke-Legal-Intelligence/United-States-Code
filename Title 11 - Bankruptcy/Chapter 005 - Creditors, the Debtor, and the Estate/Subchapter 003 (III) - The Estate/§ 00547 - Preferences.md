@@ -110,9 +110,13 @@
 
 (h) The trustee may not avoid a transfer if such transfer was made as a part of an alternative repayment schedule between the debtor and any creditor of the debtor created by an approved nonprofit budget and credit counseling agency.
 
-(i) If the trustee avoids under subsection (b) a transfer made between 90 days and 1 year before the date of the filing of the petition, by the debtor to an entity that is not an insider for the benefit of a creditor that is an insider, such transfer shall be considered to be avoided under this section only with respect to the creditor that is an insider.
+(i) If the trustee avoids under subsection (b) a transfer made between 90 days and 1 year before the date of the filing of the petition, by the debtor to an entity that is not an insider for the benefit of a creditor that is an insider, such transfer shall be considered to be avoided underthis section only with respect to the creditor that is an insider.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2597; Pub. L. 98–353, title III, §§310, 462, July 10, 1984, 98 Stat. 355, 377; Pub. L. 99–554, title II, §283(m), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 103–394, title II, §203, title III, §304(f), Oct. 22, 1994, 108 Stat. 4121, 4133; Pub. L. 109–8, title II, §§201(b), 217, title IV, §§403, 409, title XII, §§1213(a), 1222, Apr. 20, 2005, 119 Stat. 42, 55, 104, 106, 194, 196.)
+
+#### Adjustment of Dollar Amounts
+
+<i>For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.</i>
 
 #### Historical and Revision Notes
 
@@ -152,7 +156,7 @@ Subsection (c) contains exceptions to the trustee's avoiding power. If a credito
 
 The first exception is for a transfer that was intended by all parties to be a contemporaneous exchange for new value, and was in fact substantially contemporaneous. Normally, a check is a credit transaction. However, for the purposes of this paragraph, a transfer involving a check is considered to be “intended to be contemporaneous”, and if the check is presented for payment in the normal course of affairs, which the Uniform Commercial Code specifies as 30 days, U.C.C. §3–503(2)(a), that will amount to a transfer that is “in fact substantially contemporaneous.”
 
-The second exception protects transfers in the ordinary course of business (or of financial affairs, where a business is not involved) transfers. For the case of a consumer, the paragraph uses the phrase “financial affairs” to include such nonbusiness activities as payment of monthly utility bills. If the debt on account of which the transfer was made was incurred in the ordinary course of both the debtor and the transferee, if the transfer was made not later than 45 days after the debt was incurred, if the transfer itself was made in the ordinary course of both the debtor and the transferee, and if the transfer was made according to ordinary business terms, then the transfer is protected. The purpose of this exception is to leave undisturbed normal financial relations, because it does not detract from the general policy of the preference section to discourage unusual action by either the debtor or his creditors during the debtor's slide into bankruptcy.
+The second exception protects transfers in the ordinary course of business (or of financial affairs, where a business is not involved) transfers. For the case of a consumer, the paragraph uses the phrase “financial affairs” to include such nonbusiness activities as payment of monthly utility bills. If the debt on account ofwhich the transfer was made was incurred in the ordinary course of both the debtor and the transferee, if the transfer was made not later than 45 days after the debt was incurred, if the transfer itself was made in the ordinary course of both the debtor and the transferee, and if the transfer was made according to ordinary business terms, then the transfer is protected. The purpose of this exception is to leave undisturbed normal financial relations, because it does not detract from the general policy of the preference section to discourage unusual action by either the debtor or his creditors during the debtor's slide into bankruptcy.
 
 The third exception is for enabling loans in connection with which the debtor acquires the property that the loan enabled him to purchase after the loan is actually made.
 
@@ -212,7 +216,7 @@ Subsec. (a)(4). Pub. L. 98–353, §462(a)(2), struck out “, without penalty�
 
 Subsec. (b). Pub. L. 98–353, §462(b)(1), substituted “of an interest of the debtor in property” for “of property of the debtor” in provisions preceding par. (1).
 
-Subsec. (b)(4)(B). Pub. L. 98–353, §462(b)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “between 90 days and one year beforethe date of the filing of the petition, if such creditor, at the time of such transfer—
+Subsec. (b)(4)(B). Pub. L. 98–353, §462(b)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “between 90 days and one year before the date of the filing of the petition, if such creditor, at the time of such transfer—
 
 &emsp;“(i) was an insider; and
 
@@ -258,5 +262,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Adjustment of Dollar Amounts
 
-For adjustment of dollar amounts specified in subsec. (c)(9) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
+The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
+
+By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (c)(9), dollar amount “5,475” was adjusted to “5,850”. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (c)(9), dollar amount “5,000” was adjusted to “5,475”.
 

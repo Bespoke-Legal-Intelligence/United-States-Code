@@ -28,7 +28,7 @@ Adjustment Authority.—(1) The Secretary of Defense may adjust the amounts and 
 
 #### Amendments
 
-1999—Subsec. (c)(3). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+<b>1999</b>—Subsec. (c)(3). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-1997—Subsec. (a)(2). Pub. L. 105–85 substituted “procurement for the system is estimated to be” for “procurement of”.
+<b>1997</b>—Subsec. (a)(2). Pub. L. 105–85 substituted “procurement for the system is estimated to be” for “procurement of”.
 

@@ -34,7 +34,23 @@
 
 &emsp;Any lessor who properly uses the material aspects of any model disclosure form established by the Board under this subsection shall be deemed to be in compliance with the disclosure requirements to which the form relates.
 
-(Pub. L. 90–321, title I, §187, as added Pub. L. 104–208, div. A, title II, §2605(b)(1), Sept. 30, 1996, 110 Stat. 3009–471.)
+(Pub. L. 90–321, title I, §187, as added Pub. L. 104–208, div. A, title II, §2605(b)(1), Sept. 30, 1996, 110 Stat. 3009–471; amended Pub. L. 111–203, title X, §1100A(2), (10), July 21, 2010, 124 Stat. 2107, 2109.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1100A(2), (10), 1100H, July 21, 2010, 124 Stat. 2107, 2109, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
+
+<i>(1) by striking “Board” each place that term appears and inserting “Bureau”;</i>
+
+<i>(2) by striking “the Board” each place that term appears and inserting “the Bureau”; and</i>
+
+<i>(3) by striking “The Board” each place that term appears and inserting “The Bureau”.</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date
 
@@ -89,4 +105,6 @@ Purposes.—The purposes of this section are—
 &emsp;&emsp;“(ii) enable comparison of lease terms with credit terms, as appropriate; and
 
 &emsp;&emsp;“(iii) assure meaningful and accurate disclosures of lease terms in advertisements.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
 

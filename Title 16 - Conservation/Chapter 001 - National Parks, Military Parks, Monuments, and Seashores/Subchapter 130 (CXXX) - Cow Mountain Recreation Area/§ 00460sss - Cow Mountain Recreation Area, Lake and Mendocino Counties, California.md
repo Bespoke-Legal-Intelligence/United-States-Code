@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-In order to enhance the recreational and scenic values of the Cow Mountain area in Lakeand Mendocino Counties, California, while conserving the wildlife and other natural resource values of the area, there is hereby established the Cow Mountain Recreation Area (in this section referred to as the “recreation area”) consisting of approximately 51,513 acres of land in such counties, as generally depicted on the map entitled “Cow Mountain Recreation Area” and dated July 22, 2006, including the following:
+In order to enhance the recreational and scenic values of the Cow Mountain area in Lake and Mendocino Counties, California, while conserving the wildlife and other natural resource values of the area, there is hereby established the Cow Mountain Recreation Area (in this section referred to as the “recreation area”) consisting of approximately 51,513 acres of land in such counties, as generally depicted on the map entitled “Cow Mountain Recreation Area” and dated July 22, 2006, including the following:
 
 &emsp;(1) The “South Cow Mountain OHV Management Area”, as generally depicted on the map.
 
@@ -22,7 +22,7 @@ In order to enhance the recreational and scenic values of the Cow Mountain area 
 
 #### (1) In general
 
-&emsp;The Secretary of the Interior shall administer the recreation area in accordance with this section and the laws and regulations generally applicable to the public lands, including the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.).
+&emsp;The Secretary of the Interior shall administer the recreation area in accordance with this section and the laws and regulations generally applicable to the public lands, includingthe Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.).
 
 #### (2) Existing rights
 

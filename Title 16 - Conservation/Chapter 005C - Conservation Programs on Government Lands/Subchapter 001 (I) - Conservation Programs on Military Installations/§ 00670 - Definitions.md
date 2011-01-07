@@ -22,10 +22,6 @@ In this subchapter:
 
 (Pub. L. 86–797, title I, §100, as added Pub. L. 105–85, div. B, title XXIX, §2911, Nov. 18, 1997, 111 Stat. 2021.)
 
-#### References in Text
-
-Public land laws, referred to in par. (1)(B), are classified generally to Title 43, Public Lands.
-
 #### Short Title of 1997 Amendment
 
 Section 2901 of title XXIX of Pub. L. 105–85 provided that: “This title \[enacting this section and sections 670e–1 and 670e–2 of this title, amending sections 670a, 670b, 670c, 670c–1, 670f, and 670<i>o</i> of this title, repealing section 670a–1 of this title, and enacting provisions set out as notes under this section and section 670a of this title\] may be cited as the ‘Sikes Act Improvement Act of 1997’.”

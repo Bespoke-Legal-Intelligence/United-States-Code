@@ -18,7 +18,7 @@ The Endowment and its grantees shall be subject to the appropriate oversight pro
 
 #### (e) Amounts to Free Trade Union Institute and National Chamber Foundation
 
-Of the amounts made available to the Endowment for each of the fiscal years 1984 and 1985 tocarry out programs in furtherance of the purposes of this Act—
+Of the amounts made available to the Endowment for each of the fiscal years 1984 and 1985 to carry out programs in furtherance of the purposes of this Act—
 
 &emsp;(1) not less than $13,800,000 shall be for the Free Trade Union Institute; and
 
@@ -36,7 +36,7 @@ This Act, referred to in subsec. (e), is Pub. L. 98–164, Nov. 22, 1983, 97 Sta
 
 #### Amendments
 
-1987—Subsec. (f). Pub. L. 100–204 added subsec. (f).
+<b>1987</b>—Subsec. (f). Pub. L. 100–204 added subsec. (f).
 
 #### Transfer of Functions
 

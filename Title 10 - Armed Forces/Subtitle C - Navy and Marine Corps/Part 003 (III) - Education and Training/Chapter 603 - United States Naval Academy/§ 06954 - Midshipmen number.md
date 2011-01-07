@@ -46,7 +46,7 @@
 
 &emsp;(5) 150 selected by the Secretary of the Navy in order of merit (prescribed pursuant to section 6956 of this title) from qualified alternates nominated by persons named in clauses (3) and (4) of subsection (a).
 
-(c) The President may also appoint as midshipmen at the Academy children of persons who have been awarded the medal of honor for acts performed while in the armed forces.
+(c) The President may also appoint as midshipmen at the Academy children of personswho have been awarded the medal of honor for acts performed while in the armed forces.
 
 (d) The Superintendent of the Naval Academy may nominate for appointment each year 50 persons from the country at large. Persons nominated under this paragraph may not displace any appointment authorized under clauses (2) through (9) of subsection (a) and may not cause the total strength of midshipmen at the Naval Academy to exceed the authorized number.
 
@@ -60,7 +60,7 @@
 
 (2) Any increase in the midshipmen strength limit under paragraph (1) with respect to an academic year shall be prescribed not later than the date on which the budget of the President is submitted to Congress under section 1105 of title 31 for the fiscal year beginning in the same year as the year in which that academic year begins. Whenever the Secretary prescribes such an increase, the Secretary shall submit to Congress a notice in writing of the increase. The notice shall state the amount of the increase in the midshipmen strength limit and the new midshipmen strength limit, as so increased, and the amount of the increase in Senior Navy Reserve Officers’ Training Corps enrollment under each of sections 2104 and 2107 of this title.
 
-(3) The amount of an increase under paragraph (1) in the midshipmen strength limit for an academic year may not exceed the increase (if any) for the preceding academic year in the total number of midshipmen enrolled in the Navy Senior Reserve Officers’ Training Corps programunder chapter 103 of this title who have entered into an agreement under section 2104 or 2107 of this title.
+(3) The amount of an increase under paragraph (1) in the midshipmen strength limit for an academic year may not exceed the increase (if any) for the preceding academic year in the total number of midshipmen enrolled in the Navy Senior Reserve Officers’ Training Corps program under chapter 103 of this title who have entered into an agreement under section 2104 or 2107 of this title.
 
 (4) In this subsection, the term “midshipmen strength limit” means the authorized maximum strength of the Brigade of Midshipmen.
 
@@ -130,7 +130,7 @@ Feb. 27, 1936, ch. 89, 49 Stat. 1144; June 6, 1941, ch. 175, 55 Stat. 246.
 
 Nov. 24, 1945, ch. 492, 59 Stat. 586.
 
-All provisions of law authorizing appointments to the Naval Academy from various sources are collected in this section. The language is extensively changed to meet the needs of this organization of the source material. In those provisions that now authorize “appointments” by other than the President, the language is changed to indicate that the process is one of selection where the law requires selection by competitive examination, and to show that other candidates are nominated. The manner of appointing the selectees and nominees, in all cases, is covered in §6953 of this title. In the case of nominees from States, the District of Columbia, Territories, and from Puerto Rico, the qualification that the nominees must be from the political subdivisions from which nominated is indicated. The requirement that the nominees be actual residents of the political subdivisions is contained in §6958(b) of this title.
+All provisions of law authorizing appointments to the Naval Academy from various sources are collected in this section. The language is extensively changed tomeet the needs of this organization of the source material. In those provisions that now authorize “appointments” by other than the President, the language is changed to indicate that the process is one of selection where the law requires selection by competitive examination, and to show that other candidates are nominated. The manner of appointing the selectees and nominees, in all cases, is covered in §6953 of this title. In the case of nominees from States, the District of Columbia, Territories, and from Puerto Rico, the qualification that the nominees must be from the political subdivisions from which nominated is indicated. The requirement that the nominees be actual residents of the political subdivisions is contained in §6958(b) of this title.
 
 In subsection (a)(1) the words “armed forces” are substituted for the description of the land and naval forces. The words “including male and female members of” and “of all components thereof” are omitted as surplusage.
 
@@ -152,89 +152,89 @@ In 10:6954(f), the word “The” is substituted for “Effective beginning with
 
 #### Amendments
 
-2009—Subsec. (a)(10). Pub. L. 111–84 substituted “Two” for “One”.
+<b>2009</b>—Subsec. (a)(10). Pub. L. 111–84 substituted “Two” for “One”.
 
-2008—Subsec. (a). Pub. L. 110–417, §540(b)(1), substituted “4,400 or such lower number” for “4,000 or such higher number” in introductory provisions.
+<b>2008</b>—Subsec. (a). Pub. L. 110–417, §540(b)(1), substituted “4,400 or such lower number” for “4,000 or such higher number” in introductory provisions.
 
 Subsec. (a)(10). Pub. L. 110–229 substituted “Delegate in Congress” for “resident representative”.
 
 Subsec. (h)(1). Pub. L. 110–417, §540(b)(2), struck out last sentence which read as follows: “However, no increase may be prescribed for any academic year after the 2007–2008 academic year.”
 
-2006—Subsec. (b)(3). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Subsec. (b)(3). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
-2003—Subsec. (a)(6), (8). Pub. L. 108–136, §524(b)(1), substituted “Three” for “Two”.
+<b>2003</b>—Subsec. (a)(6), (8). Pub. L. 108–136, §524(b)(1), substituted “Three” for “Two”.
 
 Subsec. (a)(9). Pub. L. 108–136, §524(b)(2), substituted “Two” for “One”.
 
 Subsec. (f). Pub. L. 108–136, §1031(a)(55), substituted “Superintendent of the Naval Academy” for “Secretary of the Navy”.
 
-2002—Subsec. (a). Pub. L. 107–314, §532(b)(1), inserted before period at end of first sentence “or such higher number as may be prescribed by the Secretary of the Navy under subsection (h)”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–314, §532(b)(1), inserted before period at end of first sentence “or such higher number as may be prescribed by the Secretary of the Navy under subsection (h)”.
 
 Subsec. (h). Pub. L. 107–314, §532(b)(2), added subsec. (h).
 
-2001—Subsec. (a). Pub. L. 107–107 amended directory language of Pub. L. 106–65, §531(b)(2)(A). See 1999 Amendment note below.
+<b>2001</b>—Subsec. (a). Pub. L. 107–107 amended directory language of Pub. L. 106–65, §531(b)(2)(A). See 1999 Amendment note below.
 
-2000—Subsec. (b)(1)(B). Pub. L. 106–398, §1 \[\[div. A\], title V, §531(b)(1)\], struck out “, other than those granted retired pay under section 12731 of this title (or under section 1331 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act)” after “retired or retainer pay”.
+<b>2000</b>—Subsec. (b)(1)(B). Pub. L. 106–398, §1 \[\[div. A\], title V, §531(b)(1)\], struck out “, other than those granted retired pay under section 12731 of this title (or under section 1331 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act)” after “retired or retainer pay”.
 
 Subsec. (b)(1)(C), (D). Pub. L. 106–398, §1 \[\[div. A\], title V, §531(b)(2)\], added subpars. (C) and (D).
 
-1999—Subsec. (a). Pub. L. 106–65, §531(b)(2)(A), as amended by Pub. L. 107–107, §1048(g)(1), substituted “(a) The authorized strength of the Brigade of Midshipmen (determined for any year as of the day before the last day of the academic year) is 4,000. Subject to that limitation, midshipmen are selected as follows:” for “(a) There may be at the Naval Academy at any one time midshipmen as follows:” in introductory provisions.
+<b>1999</b>—Subsec. (a). Pub. L. 106–65, §531(b)(2)(A), as amended by Pub. L. 107–107, §1048(g)(1), substituted “(a) The authorized strength of the Brigade of Midshipmen (determined for any year as of the day before the last day of the academic year) is 4,000. Subject to that limitation, midshipmen are selected as follows:” for “(a) There may be at the Naval Academy at any one time midshipmen as follows:” in introductory provisions.
 
 Subsec. (g). Pub. L. 106–65, §531(b)(2)(B), added subsec. (g).
 
-1997—Subsec. (a)(10). Pub. L. 105–85 substituted “Mariana” for “Marianas”.
+<b>1997</b>—Subsec. (a)(10). Pub. L. 105–85 substituted “Mariana” for “Marianas”.
 
-1996—Subsec. (a)(10). Pub. L. 104–106 added par. (10).
+<b>1996</b>—Subsec. (a)(10). Pub. L. 104–106 added par. (10).
 
-1994—Subsec. (b)(1)(B). Pub. L. 103–337 substituted “section 12731 of this title (or under section 1331 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “section 1331 of this title”.
+<b>1994</b>—Subsec. (b)(1)(B). Pub. L. 103–337 substituted “section 12731 of this title (or under section 1331 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “section 1331 of this title”.
 
-1993—Subsec. (a). Pub. L. 103–160, in concluding provisions, substituted “10 persons” for “a principal candidate and nine alternates” and inserted at end “Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter.”
+<b>1993</b>—Subsec. (a). Pub. L. 103–160, in concluding provisions, substituted “10 persons” for “a principal candidate and nine alternates” and inserted at end “Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter.”
 
-1990—Subsec. (a)(8) to (10). Pub. L. 101–510, §532(b)(1)(A), redesignated cls. (9) and (10) as (8) and (9), respectively, and struck out former cl. (8) which read as follows: “One nominated by the Administrator of the Panama Canal Commission from the children of civilian personnel of the United States residing in the Republic of Panama who are citizens of the United States.”
+<b>1990</b>—Subsec. (a)(8) to (10). Pub. L. 101–510, §532(b)(1)(A), redesignated cls. (9) and (10) as (8) and (9), respectively, and struck out former cl. (8) which read as follows: “One nominated by the Administrator of the Panama Canal Commission from the children of civilian personnel of the United States residing in the Republic of Panama who are citizens of the United States.”
 
 Subsec. (d). Pub. L. 101–510, §532(b)(1)(B), substituted “clauses (2) through (9)” for “clauses (2)–(7), (9), or (10)”.
 
-1989—Subsec. (a)(1). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1983—Subsec. (a)(8). Pub. L. 98–94, §1005(b)(2), substituted “One nominated by the Administrator of the Panama Canal Commission from the children of civilian personnel of the United States residing in the Republic of Panama who are citizens of the United States” for “One nominated by the Governor of the Panama Canal from the children of civilians residing in the Canal Zone or the children of civilian personnel of the United States Government, or the Panama Canal Company, residing in the Republic of Panama”.
+<b>1983</b>—Subsec. (a)(8). Pub. L. 98–94, §1005(b)(2), substituted “One nominated by the Administrator of the Panama Canal Commission from the children of civilian personnel of the United States residing in the Republic of Panama who are citizens of the United States” for “One nominated by the Governor of the Panama Canal from the children of civilians residing in the Canal Zone or the children of civilian personnel of the United States Government, or the Panama Canal Company, residing in the Republic of Panama”.
 
 Subsec. (a)(10). Pub. L. 98–94, §1005(a)(2), substituted “One from American Samoa, nominated by the Delegate in Congress from American Samoa” for “One from American Samoa nominated by the Secretary of the Navy upon recommendation of the Governor of American Samoa”.
 
-1982—Subsec. (f). Pub. L. 97–295 substituted “The” for “Effective beginning with the nominations for appointment to the Academy in the calendar year 1964, the”.
+<b>1982</b>—Subsec. (f). Pub. L. 97–295 substituted “The” for “Effective beginning with the nominations for appointment to the Academy in the calendar year 1964, the”.
 
-1981—Subsecs. (d) to (f). Pub. L. 97–60 added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+<b>1981</b>—Subsecs. (d) to (f). Pub. L. 97–60 added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
-1980—Subsec. (a)(6), (9). Pub. L. 96–600 substituted “Two” for “One”.
+<b>1980</b>—Subsec. (a)(6), (9). Pub. L. 96–600 substituted “Two” for “One”.
 
-1975—Subsecs. (a)(1), (8), (b)(1), (c). Pub. L. 94–106 substituted “children” for “sons” wherever appearing.
+<b>1975</b>—Subsecs. (a)(1), (8), (b)(1), (c). Pub. L. 94–106 substituted “children” for “sons” wherever appearing.
 
-1973—Subsec. (a)(6). Pub. L. 93–171, §2(1), substituted “One from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands” for “Five from each Territory, nominated by the Delegate in Congress from that Territory”.
+<b>1973</b>—Subsec. (a)(6). Pub. L. 93–171, §2(1), substituted “One from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands” for “Five from each Territory, nominated by the Delegate in Congress from that Territory”.
 
 Subsec. (a)(9). Pub. L. 93–171, §2(2), struck out reference to American Samoa and Virgin Islands.
 
 Subsec. (a)(10). Pub. L. 93–171, §2(3), added cl. (10).
 
-1972—Subsec. (a)(1). Pub. L. 92–365 increased the number of midshipmen from 40 to 65 and added sons of members who are in missing status and sons of civilian employees who are in missing status as eligible for competitive examination.
+<b>1972</b>—Subsec. (a)(1). Pub. L. 92–365 increased the number of midshipmen from 40 to 65 and added sons of members who are in missing status and sons of civilian employees who are in missing status as eligible for competitive examination.
 
-1970—Subsec. (a)(5). Pub. L. 91–405 substituted “Delegate to the House of Representatives from the District of Columbia” for “Commissioner of that District”.
+<b>1970</b>—Subsec. (a)(5). Pub. L. 91–405 substituted “Delegate to the House of Representatives from the District of Columbia” for “Commissioner of that District”.
 
-1968—Subsec. (a). Pub. L. 90–374 increased from five to nine the number of alternates for each vacancy each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate.
+<b>1968</b>—Subsec. (a). Pub. L. 90–374 increased from five to nine the number of alternates for each vacancy each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate.
 
 Subsec. (a)(5). Pub. L. 90–623 substituted “Commissioner” for “Commissioners”.
 
-1966—Subsec. (a)(1). Pub. L. 89–650, §1(1), provided for selection of cadets to the Naval Academy from sons of members of the armed forces who have a 100 per centum service-connected disability and removed the limitation to active service during World War I or World War II or after June 26, 1950, and before Feb. 1, 1955.
+<b>1966</b>—Subsec. (a)(1). Pub. L. 89–650, §1(1), provided for selection of cadets to the Naval Academy from sons of members of the armed forces who have a 100 per centum service-connected disability and removed the limitation to active service during World War I or World War II or after June 26, 1950, and before Feb. 1, 1955.
 
 Subsec. (a)(2). Pub. L. 89–650, §1(2), provided for nominations to the Naval Academy by the President pro tempore of the Senate if there is no Vice President.
 
 Subsec. (b)(1). Pub. L. 89–650, §1(3), increased the number of Presidential appointments to the Naval Academy from 75 to 100, provided for selection of eligible persons as stated in items (A) and (B), previously chosen from sons of members of regular components, and declared persons eligible under subsec. (a)(1) ineligible under subsec. (b)(1) of this section.
 
-1964—Subsec. (a). Pub. L. 88–276, §2(1), inserted “Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate a principal candidate and five alternates for each vacancy that is available to him under this section”.
+<b>1964</b>—Subsec. (a). Pub. L. 88–276, §2(1), inserted “Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate a principal candidate and five alternates for each vacancy that is available to him under this section”.
 
 Subsec. (b)(2), (3), (5). Pub. L. 88–276, §2(2), reduced the number of nominees in cls. (2) and (3) from 160 to 85 and added cl. (5).
 
 Subsecs. (d), (e). Pub. L. 88–276, §2(3), added subsecs. (d) and (e).
 
-1962—Subsec. (a). Pub. L. 87–663 added cl. (9).
+<b>1962</b>—Subsec. (a). Pub. L. 87–663 added cl. (9).
 
 Pub. L. 87–651 substituted “Panama Canal Company” for “Panama Railroad Company” in cl. (8).
 
@@ -244,7 +244,7 @@ Amendment by Pub. L. 111–84 applicable with respect to appointments to the Uni
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–417 applicable with respect to academic years at the United States NavalAcademy after the 2007-2008 academic year, see section 540(d) of Pub. L. 110–417, set out as a note under section 4342 of this title.
+Amendment by Pub. L. 110–417 applicable with respect to academic years at the United States Naval Academy after the 2007-2008 academic year, see section 540(d) of Pub. L. 110–417, set out as a note under section 4342 of this title.
 
 #### Effective Date of 2003 Amendment
 

@@ -28,7 +28,7 @@ No dependent child shall be eligible for assistance under this part after the ch
 
 #### Amendments
 
-1998—Subsec. (a)(1)(A). Pub. L. 105–390, §2(3)(A), substituted “public safety” for “Federal law enforcement”.
+<b>1998</b>—Subsec. (a)(1)(A). Pub. L. 105–390, §2(3)(A), substituted “public safety” for “Federal law enforcement”.
 
 Subsec. (a)(2). Pub. L. 105–390, §2(3)(B), substituted “Except as provided in paragraph (3), financial” for “Financial”.
 

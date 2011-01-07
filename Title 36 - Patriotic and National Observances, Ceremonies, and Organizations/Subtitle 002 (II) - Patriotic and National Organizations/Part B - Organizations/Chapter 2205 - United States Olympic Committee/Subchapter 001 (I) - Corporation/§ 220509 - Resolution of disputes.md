@@ -54,9 +54,9 @@ Sept. 21, 1950, ch. 975, title I, §114, as added Nov. 8, 1978, Pub. L. 95–606
 
 #### Amendments
 
-2006—Subsec. (b)(1)(A). Pub. L. 109–284 struck out “a” before “paralympic sports organizations”.
+<b>2006</b>—Subsec. (b)(1)(A). Pub. L. 109–284 struck out “a” before “paralympic sports organizations”.
 
-1998—Subsec. (a). Pub. L. 105–277, §142(h)(1), designated existing provisions as subsec. (a), and inserted heading.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §142(h)(1), designated existing provisions as subsec. (a), and inserted heading.
 
 Pub. L. 105–277, §142(h)(2), inserted “the Paralympic Games,” before “the Pan-American Games”.
 

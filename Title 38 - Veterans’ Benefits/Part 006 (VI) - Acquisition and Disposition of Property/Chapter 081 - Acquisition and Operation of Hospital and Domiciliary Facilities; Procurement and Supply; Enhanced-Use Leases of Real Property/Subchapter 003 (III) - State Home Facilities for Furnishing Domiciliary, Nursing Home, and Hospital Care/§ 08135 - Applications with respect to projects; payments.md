@@ -20,7 +20,7 @@
 
 &emsp;(9) In the case of a project for acquisition of a facility, reasonable assurance that the estimated total cost of acquisition of the facility and of any expansion, remodeling, and alteration of the acquired facility will not be greater than the estimated cost of construction of an equivalent new facility.
 
-(b)(1) Any State seeking to receive assistance under this subchapter for a project that wouldinvolve construction or acquisition of either nursing home or domiciliary facilities shall include with its application under subsection (a) the following:
+(b)(1) Any State seeking to receive assistance under this subchapter for a project that would involve construction or acquisition of either nursing home or domiciliary facilities shall include with its application under subsection (a) the following:
 
 &emsp;(A) Documentation (i) that the site for the project is in reasonable proximity to a sufficient concentration and population of veterans who are 65 years of age and older, and (ii) that there is a reasonable basis to conclude that the facilities when complete will be fully occupied.
 
@@ -74,7 +74,7 @@
 
 (6)(A) The Secretary may conditionally approve a project under this section, conditionally award a grant for the project, and obligate funds for the grant if the Secretary determines that the application for the grant is sufficiently complete to warrant awarding the grant and that, based on assurances provided by the State submitting the application, the State will complete the application and meet all the requirements referred to in paragraph (1)(A) of this subsection by the date, not later than 180 days after the date of the conditional approval, specified by the Secretary.
 
-(B) If a State does not complete the application and meet all the requirements referred toin such paragraph by the date specified by the Secretary under subparagraph (A) of this paragraph, the Secretary shall rescind the conditional approval and award under such subparagraph and deobligate the funds previously obligated in connection with the application. In the event the Secretary rescinds conditional approval of a project under this subparagraph, the Secretary may not further obligate funds for the project during the fiscal year in which the Secretary rescinds such approval.
+(B) If a State does not complete the application and meet all the requirements referred to in such paragraph by the date specified by the Secretary under subparagraph (A) of this paragraph, the Secretary shall rescind the conditional approval and award under such subparagraph and deobligate the funds previously obligated in connection with the application. In the event the Secretary rescinds conditional approval of a project under this subparagraph, the Secretary may not further obligate funds for the project during the fiscal year in which the Secretary rescinds such approval.
 
 (7)(A) Subject to subparagraph (B) of this paragraph, the Secretary may increase the amount of any grant awarded to any State for a project under this section by an amount by which the Secretary determines that the estimated cost of the construction or acquisition has increased from the estimated cost on which the Secretary based the determination to award the grant, without regard to the position of such project on the list established under paragraph (4) of this subsection, if the Secretary determines that the grant was awarded before the State entered into a contract for the construction or acquisition provided for in such project.
 
@@ -90,9 +90,9 @@
 
 #### Amendments
 
-2002—Subsec. (a)(8). Pub. L. 107–217 substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (40 U.S.C. 276a—276a–5) (known as the Davis-Bacon Act)”.
+<b>2002</b>—Subsec. (a)(8). Pub. L. 107–217 substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (40 U.S.C. 276a—276a–5) (known as the Davis-Bacon Act)”.
 
-1999—Subsec. (a). Pub. L. 106–117, §207(b)(1), in introductory provisions, substituted “set forth the following:” for “set forth—”, in pars. (1) to (7), capitalized the first letter of the first word and substituted a period for the comma at the end, in par. (8), capitalized the first letter of the first word and substituted a period for “, and” at the end, and in par. (9), capitalized the first letter of the first word.
+<b>1999</b>—Subsec. (a). Pub. L. 106–117, §207(b)(1), in introductory provisions, substituted “set forth the following:” for “set forth—”, in pars. (1) to (7), capitalized the first letter of the first word and substituted a period for the comma at the end, in par. (8), capitalized the first letter of the first word and substituted a period for “, and” at the end, and in par. (9), capitalized the first letter of the first word.
 
 Subsec. (b). Pub. L. 106–117, §207(b)(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
@@ -114,17 +114,17 @@ Subsec. (c)(3)(A). Pub. L. 106–117, §207(b)(4)(C), added subpar. (A) and stru
 
 Subsecs. (d) to (f). Pub. L. 106–117, §207(b)(2), redesignated subsecs. (c) to (e) as (d) to (f), respectively.
 
-1996—Subsec. (b)(2)(C). Pub. L. 104–262, §342(b)(3)(A), inserted “or adult day health care facilities” after “domiciliary beds”.
+<b>1996</b>—Subsec. (b)(2)(C). Pub. L. 104–262, §342(b)(3)(A), inserted “or adult day health care facilities” after “domiciliary beds”.
 
 Subsec. (b)(3)(A). Pub. L. 104–262, §342(b)(3)(B), inserted “or construction (other than new construction) of adult day health care buildings” before semicolon.
 
-1994—Subsec. (a)(3). Pub. L. 103–446 substituted “section 8134(a)(2)” for “section 8134(2)”.
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–446 substituted “section 8134(a)(2)” for “section 8134(2)”.
 
-1992—Subsec. (b)(6)(A). Pub. L. 102–585, §403(a), substituted “180 days” for “90 days”.
+<b>1992</b>—Subsec. (b)(6)(A). Pub. L. 102–585, §403(a), substituted “180 days” for “90 days”.
 
 Subsec. (b)(6)(B). Pub. L. 102–585, §404(a), inserted at end “In the event the Secretary rescinds conditional approval of a project under this subparagraph, the Secretary may not further obligate funds for the project during the fiscal year in which the Secretary rescinds such approval.”
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 5035 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 5035 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83 substituted “Secretary” for “Administrator” wherever appearing.
 
@@ -138,19 +138,19 @@ Subsec. (b)(1)(A). Pub. L. 102–40, §402(d)(1), substituted “8134” for “
 
 Subsecs. (c), (d). Pub. L. 102–83 substituted “Secretary” for “Administrator” wherever appearing.
 
-1988—Subsec. (b)(4). Pub. L. 100–322, §206(a), (b)(1), inserted “(including projects that have been conditionally approved under paragraph (6) of this subsection)” after “projects” and substituted “August 15” for “July 1”.
+<b>1988</b>—Subsec. (b)(4). Pub. L. 100–322, §206(a), (b)(1), inserted “(including projects that have been conditionally approved under paragraph (6) of this subsection)” after “projects” and substituted “August 15” for “July 1”.
 
 Subsec. (b)(6), (7). Pub. L. 100–322, §206(b)(2), added pars. (6) and (7).
 
-1986—Subsec. (b). Pub. L. 99–576, §224(b), amended subsec. (b) generally, substituting provisions consisting of pars. (1) to (5) for former provisions consisting of pars. (1) and (2).
+<b>1986</b>—Subsec. (b). Pub. L. 99–576, §224(b), amended subsec. (b) generally, substituting provisions consisting of pars. (1) to (5) for former provisions consisting of pars. (1) and (2).
 
 Subsec. (d). Pub. L. 99–576, §224(c), struck out par. (1) designation, substituted “The amount of a grant under this subchapter shall be paid” for “Upon approving an application under this section, the Administrator shall certify to the Secretary of the Treasury the amount of the grant so approved, but in no event an amount greater than 65 percent of the estimated cost of construction (or of the estimated cost of facility acquisition and construction) of the project, and shall designate the appropriation from which it shall be paid. Such certification shall provide for payment” and struck out par. (2) which read as follows: “No one State may receive in any fiscal year in the aggregate under this subchapter more than one-third of the amount appropriated for carrying out this subchapter in such fiscal year.”
 
-1985—Subsec. (a)(6). Pub. L. 99–166, §205(a), inserted “by July 1 of the fiscal year for which the application is approved”.
+<b>1985</b>—Subsec. (a)(6). Pub. L. 99–166, §205(a), inserted “by July 1 of the fiscal year for which the application is approved”.
 
 Subsec. (b). Pub. L. 99–166, §205(b), designated existing provisions as par. (1), redesignated cls. (1) to (4) as (A) to (D), respectively, and added par. (2).
 
-1984—Subsec. (a). Pub. L. 98–528, §105(3)(A), inserted “(or acquisition of a facility to be used as a State home facility)” after “State home facilities” in provisions preceding par. (1).
+<b>1984</b>—Subsec. (a). Pub. L. 98–528, §105(3)(A), inserted “(or acquisition of a facility to be used as a State home facility)” after “State home facilities” in provisions preceding par. (1).
 
 Subsec. (a)(1). Pub. L. 98–528, §105(3)(B), inserted “(or of the estimated cost of facility acquisition and construction)” after “cost of construction”.
 
@@ -166,9 +166,9 @@ Subsec. (b)(4). Pub. L. 98–528, §105(3)(G), substituted “the carrying out o
 
 Subsec. (d)(1). Pub. L. 98–528, §105(3)(H), inserted “(or of the estimated cost of facility acquisition and construction)” after “cost of construction” in first sentence, substituted “carried out” for “constructed” in second sentence, substituted “the project” for “construction” in third sentence, struck out “the construction of” before “an approved project” in fourth sentence.
 
-1982—Subsecs. (a)(1), (4), (b)(2), (d)(1). Pub. L. 97–295 substituted “percent” for “per centum” wherever appearing.
+<b>1982</b>—Subsecs. (a)(1), (4), (b)(2), (d)(1). Pub. L. 97–295 substituted “percent” for “per centum” wherever appearing.
 
-1977—Subsec. (a). Pub. L. 95–62, §3(7), (8), substituted “State home facilities must submit” for “State home facilities for furnishing nursing home care must submit” in provisions preceding par. (1) and, “to furnish to veterans the level of care for which such application is made and that not more than 25 per centum of the bed occupancy at any one time will consist of patients who are not receiving such level of care as war veterans” for “to furnish nursing home care to veterans and that not more than 10 per centum of the bed occupancy at any one time will consist of patients who are not receiving nursing home care as veterans” in par. (4).
+<b>1977</b>—Subsec. (a). Pub. L. 95–62, §3(7), (8), substituted “State home facilities must submit” for “State home facilities for furnishing nursing home care must submit” in provisions preceding par. (1) and, “to furnish to veterans the level of care for which such application is made and that not more than 25 per centum of the bed occupancy at any one time will consist of patients who are not receiving such level of care as war veterans” for “to furnish nursing home care to veterans and that not more than 10 per centum of the bed occupancy at any one time will consist of patients who are not receiving nursing home care as veterans” in par. (4).
 
 Subsec. (b)(3). Pub. L. 95–62, §3(9), substituted “reasonable assurances under subsection (a) of this section as the Administrator” for “reasonable assurances as to use, title, financial support, reports and access to records, and payment of prevailing rates of wages, as the Administrator”.
 
@@ -178,13 +178,13 @@ Subsec. (d). Pub. L. 95–62, §3(11), designated existing provisions as par. (1
 
 Subsec. (e). Pub. L. 95–62, §3(12), substituted “amendment of any application, whether or not approved,” for “amendment of any approved application”.
 
-1976—Subsec. (a)(4). Pub. L. 94–581, §206(b), substituted “veterans” for “war veterans” in two places.
+<b>1976</b>—Subsec. (a)(4). Pub. L. 94–581, §206(b), substituted “veterans” for “war veterans” in two places.
 
 Subsec. (b). Pub. L. 94–581, §§206(b), 210(e)(10), substituted “the Administrator” for “he” in provisions preceding par. (1) and “veterans” for “war veterans” in par. (4).
 
-1973—Subsecs. (a)(1), (b)(2), (d). Pub. L. 93–82 substituted “65 per centum” for “50 per centum”.
+<b>1973</b>—Subsecs. (a)(1), (b)(2), (d). Pub. L. 93–82 substituted “65 per centum” for “50 per centum”.
 
-1965—Subsec. (b). Pub. L. 89–311 repealed par. (3) which placed a limit of 10 per centum of the funds appropriated for any fiscal year pursuant to section 5033(a) of this title upon the amount which could be used to assist in the construction of facilities in any one state, and redesignated pars. (4) and (5) as pars. (3) and (4), respectively.
+<b>1965</b>—Subsec. (b). Pub. L. 89–311 repealed par. (3) which placed a limit of 10 per centum of the funds appropriated for any fiscal year pursuant to section 5033(a) of this title upon the amount which could be used to assist in the construction of facilities in any one state, and redesignated pars. (4) and (5) as pars. (3) and (4), respectively.
 
 #### Effective Date of 1992 Amendment
 

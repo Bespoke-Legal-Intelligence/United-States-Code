@@ -12,9 +12,9 @@
 
 #### Amendments
 
-1982—Par. (4). Pub. L. 97–248 added par. (4).
+<b>1982</b>—Par. (4). Pub. L. 97–248 added par. (4).
 
-1980—Par. (1). Pub. L. 96–589 struck out reference to bankruptcy proceedings.
+<b>1980</b>—Par. (1). Pub. L. 96–589 struck out reference to bankruptcy proceedings.
 
 #### Effective Date of 1982 Amendment
 

@@ -6,5 +6,5 @@ United States Government life insurance, except as provided in this subchapter, 
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 751 of this title as this section and substituted “Secretary” for “Administrator”.
+<b>1991</b>—Pub. L. 102–83 renumbered section 751 of this title as this section and substituted “Secretary” for “Administrator”.
 

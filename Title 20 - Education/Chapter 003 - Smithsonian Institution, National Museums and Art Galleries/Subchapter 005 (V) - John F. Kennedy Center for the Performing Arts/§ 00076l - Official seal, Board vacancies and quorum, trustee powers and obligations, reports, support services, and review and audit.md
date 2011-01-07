@@ -14,7 +14,7 @@ The Board shall submit to the Smithsonian Institution and to Congress an annual 
 
 #### (d) Inspector General
 
-The functions of the Board funded by funds appropriated pursuant to section 76r <sup>1</sup> of this title shall be subject to the requirements for a Federal entity under the Inspector General Act of 1978 (5 U.S.C. App.). The Inspector General of the Smithsonian Institution is authorized to carry out the requirements of such Act on behalf ofthe Board, on a reimbursable basis when requested by the Board.
+The functions of the Board funded by funds appropriated pursuant to section 76r <sup>1</sup> of this title shall be subject to the requirements for a Federal entity under the Inspector General Act of 1978 (5 U.S.C. App.). The Inspector General of the Smithsonian Institution is authorized to carry out the requirements of such Act on behalf of the Board, on a reimbursable basis when requested by the Board.
 
 #### (e) Property and personnel compensation
 
@@ -36,13 +36,13 @@ The Inspector General Act of 1978, referred to in subsec. (d), is Pub. L. 95–4
 
 #### Amendments
 
-1998—Subsecs. (d) to (f). Pub. L. 105–226 redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out heading and text of former subsec. (d). Text read as follows: “Not less than once every 3 years, the Comptroller General shall review and audit the accounts of the John F. Kennedy Center for the Performing Arts for the purpose of examining expenditures of funds appropriated under the authority provided by this subchapter.”
+<b>1998</b>—Subsecs. (d) to (f). Pub. L. 105–226 redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out heading and text of former subsec. (d). Text read as follows: “Not less than once every 3 years, the Comptroller General shall review and audit the accounts of the John F. Kennedy Center for the Performing Arts for the purpose of examining expenditures of funds appropriated under the authority provided by this subchapter.”
 
-1994—Subsec. (c). Pub. L. 103–279, §5(1), substituted “the operations of the Board” for “its operations”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–279, §5(1), substituted “the operations of the Board” for “its operations”.
 
 Subsecs. (d) to (f). Pub. L. 103–279, §5(2), added subsecs. (d) to (f) and struck out former subsec. (e) which related to maintenance, repair, alteration, security, information, and other services and former subsec. (f) which related to audits.
 
-1992—Subsec. (e)(3). Pub. L. 102–500 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “There is authorized to be appropriated to the Secretary of the Interior to carry out this subsection—
+<b>1992</b>—Subsec. (e)(3). Pub. L. 102–500 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “There is authorized to be appropriated to the Secretary of the Interior to carry out this subsection—
 
 &emsp;“(A) for fiscal year 1991, not more than—
 
@@ -56,37 +56,37 @@ Subsecs. (d) to (f). Pub. L. 103–279, §5(2), added subsecs. (d) to (f) and st
 
 &emsp;&emsp;“(ii) $15,512,000 for deferred maintenance, repairs, and alterations.”
 
-1990—Subsec. (d). Pub. L. 101–449, §3, struck out subsec. (d) which read as follows: “The Board shall transmit to Congress a detailed report of any memorial which it proposes to provide within the John F. Kennedy Center for the Performing Arts under authority of paragraph (5) of section 76j of this title, and no such memorial shall be provided until the Board of Regents of the Smithsonian Institution shall have approved such memorial.”
+<b>1990</b>—Subsec. (d). Pub. L. 101–449, §3, struck out subsec. (d) which read as follows: “The Board shall transmit to Congress a detailed report of any memorial which it proposes to provide within the John F. Kennedy Center for the Performing Arts under authority of paragraph (5) of section 76j of this title, and no such memorial shall be provided until the Board of Regents of the Smithsonian Institution shall have approved such memorial.”
 
 Subsec. (e). Pub. L. 101–449, §1, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary of the Interior, acting through the National Park Service, shall provide maintenance, security, information, interpretation, janitorial and all other services necessary to the nonperforming arts functions of the John F. Kennedy Center for the Performing Arts. There is authorized to be appropriated to carry out this subsection not to exceed $2,800,000 for the fiscal year ending June 30, 1976, $741,000 for the transition period ending September 30, 1976, $3,100,000 for the fiscal year ending September 30, 1977, and $4,000,000 for the fiscal year ending September 30, 1978. There is authorized to be appropriated to carry out this subsection not to exceed $4,200,000 for the fiscal year ending September 30, 1979. There is authorized to be appropriated to carry out this subsection not to exceed $4,287,000 for the fiscal year ending September 30, 1980, and not to exceed $4,400,000 for the fiscal year ending September 30, 1981, and not to exceed $4,544,000 for the fiscal year ending September 30, 1982, and not to exceed $4,247,000 for the fiscal year ending September 30, 1983.”
 
 Subsec. (f). Pub. L. 101–449, §2, amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The General Accounting Office is authorized and directed to review and audit, regularly, the accounts of the Kennedy Center for the Performing Arts, for the purpose of determining the continuing ability of the Center to pay its share of future operating costs, and for the purpose of assuring that the cost-of-living formula fairly and accurately reflects the use of the building.”
 
-1982—Subsec. (e). Pub. L. 97–202 inserted provisions authorizing an appropriation of not to exceed $4,247,000 for fiscal year ending Sept. 30, 1983.
+<b>1982</b>—Subsec. (e). Pub. L. 97–202 inserted provisions authorizing an appropriation of not to exceed $4,247,000 for fiscal year ending Sept. 30, 1983.
 
-1981—Subsec. (e). Pub. L. 97–73 inserted provision authorizing an appropriation of not to exceed $4,544,000 for fiscal year ending Sept. 30, 1982.
+<b>1981</b>—Subsec. (e). Pub. L. 97–73 inserted provision authorizing an appropriation of not to exceed $4,544,000 for fiscal year ending Sept. 30, 1982.
 
-1980—Subsec. (e). Pub. L. 96–587 inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1980, and Sept. 30, 1981.
+<b>1980</b>—Subsec. (e). Pub. L. 96–587 inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1980, and Sept. 30, 1981.
 
-1978—Subsec. (e). Pub. L. 95–305 inserted provisions authorizing appropriations for fiscal year ending Sept. 30, 1979.
+<b>1978</b>—Subsec. (e). Pub. L. 95–305 inserted provisions authorizing appropriations for fiscal year ending Sept. 30, 1979.
 
-1977—Subsec. (e). Pub. L. 95–50 substituted provisions authorizing an appropriation of $4,000,000 for fiscal year ending Sept. 30, 1978, for provisions authorizing appropriations of $4,000,000 for fiscal year ending Sept. 30, 1978, and not to exceed $4,300,000 for the fiscal year ending Sept. 30, 1979.
+<b>1977</b>—Subsec. (e). Pub. L. 95–50 substituted provisions authorizing an appropriation of $4,000,000 for fiscal year ending Sept. 30, 1978, for provisions authorizing appropriations of $4,000,000 for fiscal year ending Sept. 30, 1978, and not to exceed $4,300,000 for the fiscal year ending Sept. 30, 1979.
 
-1976—Subsec. (e). Pub. L. 94–578 substituted provisions authorizing appropriations for fiscal years ending Sept. 30, 1978, and Sept. 30, 1979, for provisions covering fiscal years ending Sept. 30, 1976, Sept. 30, 1977, and transitional period ending Sept. 30, 1976.
+<b>1976</b>—Subsec. (e). Pub. L. 94–578 substituted provisions authorizing appropriations for fiscal years ending Sept.30, 1978, and Sept. 30, 1979, for provisions covering fiscal years ending Sept. 30, 1976, Sept. 30, 1977, and transitional period ending Sept. 30, 1976.
 
-1975—Subsec. (e). Pub. L. 94–119, §1, inserted provisions authorizing appropriations for fiscal year ending June 30, 1976, for the transitional period ending Sept. 30, 1976, and for fiscal year ending Sept. 30, 1977.
+<b>1975</b>—Subsec. (e). Pub. L. 94–119, §1, inserted provisions authorizing appropriations for fiscal year ending June 30, 1976, for the transitional period ending Sept. 30, 1976, and for fiscal year ending Sept. 30, 1977.
 
 Subsec. (f). Pub. L. 94–119, §2, added subsec. (f).
 
-1973—Subsec. (e). Pub. L. 93–67 substituted provisions authorizing appropriations not to exceed $2,400,000 for fiscal year ending June 30, 1974, and $2,500,000 for fiscal year ending June 30, 1975, for provision granting general authorization of appropriation for fiscal year ending June 30, 1973.
+<b>1973</b>—Subsec. (e). Pub. L. 93–67 substituted provisions authorizing appropriations not to exceed $2,400,000 for fiscal year ending June 30, 1974, and $2,500,000 for fiscal year ending June 30, 1975, for provision granting general authorization of appropriation for fiscal year ending June 30, 1973.
 
-1972—Subsec. (e). Pub. L. 92–313 added subsec. (e).
+<b>1972</b>—Subsec. (e). Pub. L. 92–313 added subsec. (e).
 
-1964—Subsec. (c). Pub. L. 88–260, §1(4), inserted “and to Congress” after “Smithsonian Institution”.
+<b>1964</b>—Subsec. (c). Pub. L. 88–260, §1(4), inserted “and to Congress” after “Smithsonian Institution”.
 
 Subsec. (d). Pub. L. 88–260, §1(5), added subsec. (d).
 
-1963—Subsec. (a). Pub. L. 88–100 substituted “twelve” for “eight” after “vacancies and”.
+<b>1963</b>—Subsec. (a). Pub. L. 88–100 substituted “twelve” for “eight” after “vacancies and”.
 
 #### Termination of Reporting Requirements
 

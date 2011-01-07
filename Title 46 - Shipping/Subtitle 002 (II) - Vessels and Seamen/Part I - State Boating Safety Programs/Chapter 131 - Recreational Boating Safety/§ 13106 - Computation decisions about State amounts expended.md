@@ -36,11 +36,11 @@ A prior section 13106 was renumbered section 13107 of this title.
 
 #### Amendments
 
-2006—Pub. L. 109–304 renumbered section 13105 of this title as this section.
+<b>2006</b>—Pub. L. 109–304 renumbered section 13105 of this title as this section.
 
-1990—Subsec. (a). Pub. L. 101–595 struck out “or obligated” after “expended” in provisions preceding par. (1).
+<b>1990</b>—Subsec. (a). Pub. L. 101–595 struck out “or obligated” after “expended” in provisions preceding par. (1).
 
-1984—Subsec. (a). Pub. L. 98–369 struck out “and facilities improvement” after “boating safety” in provisions preceding par. (1).
+<b>1984</b>—Subsec. (a). Pub. L. 98–369 struck out “and facilities improvement” after “boating safety” in provisions preceding par. (1).
 
 #### Effective Date of 1984 Amendment
 

@@ -22,13 +22,13 @@ July 26, 1947, ch. 343, §208(b), 61 Stat. 503; Sept. 19, 1951, ch. 407, §402, 
 
 #### Amendments
 
-1987—Pub. L. 100–180, §1314(b)(5)(A), inserted “; Commandant of the Marine Corps” after “Air Force” in section catchline.
+<b>1987</b>—Pub. L. 100–180, §1314(b)(5)(A), inserted “; Commandant of the Marine Corps” after “Air Force” in section catchline.
 
 Pub. L. 100–180, §1314(a)(2), made technical correction in directory language of Pub. L. 99–433. See 1986 Amendment note below.
 
-1986—Pub. L. 99–433, as amended by Pub. L. 100–180, §1314(a)(2), inserted reference to the Commandant of the Marine Corp and the Vice Chairman of the Joint Chiefs of Staff.
+<b>1986</b>—Pub. L. 99–433, as amended by Pub. L. 100–180, §1314(a)(2), inserted reference to the Commandant of the Marine Corp and the Vice Chairman of the Joint Chiefs of Staff.
 
-1980—Pub. L. 96–513 substituted “active-duty list” for “active list”.
+<b>1980</b>—Pub. L. 96–513 substituted “active-duty list” for “active list”.
 
 #### Effective Date of 1987 Amendment
 

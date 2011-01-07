@@ -6,3 +6,5 @@ There are authorized to be appropriated to carry out this subchapter—
 
 (Pub. L. 103–322, title XXVII, §270009, Sept. 13, 1994, 108 Stat. 2095.)
 
+<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
+

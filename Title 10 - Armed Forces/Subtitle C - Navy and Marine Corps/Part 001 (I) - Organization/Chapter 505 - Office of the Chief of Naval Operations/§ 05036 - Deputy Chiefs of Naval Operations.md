@@ -14,7 +14,7 @@ A prior section 5036, acts Aug. 10, 1956, ch. 1041, 70A Stat. 280; Nov. 2, 1966,
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–181 substituted “There are Deputy Chiefs of Naval Operations in the Office of the Chief of Naval Operations,” for “There are in the Office of the Chief of Naval Operations not more than five Deputy Chiefs of Naval Operations,” and inserted at end “The Secretary of the Navy shall prescribe the number of Deputy Chiefs of Naval Operations under this section and Assistant Chiefs of Naval Operations under section 5037 of this title, for a total of not more than eight positions.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–181 substituted “There are Deputy Chiefs of Naval Operations in the Office of the Chief of Naval Operations,” for “There are in the Office of the Chief of Naval Operations not more than five Deputy Chiefs of Naval Operations,” and inserted at end “The Secretary of the Navy shall prescribe the number of Deputy Chiefs of Naval Operations under this section and Assistant Chiefs of Naval Operations under section 5037 of this title, for a total of not more than eight positions.”
 
-2004—Subsec. (a). Pub. L. 108–375 struck out “in the line” after “active-duty list”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–375 struck out “in the line” after “active-duty list”.
 

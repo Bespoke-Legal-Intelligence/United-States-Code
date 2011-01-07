@@ -10,7 +10,7 @@ Section was formerly classified to section 529d of Title 31 prior to the general
 
 #### Amendments
 
-1970—Pub. L. 91–513 struck out reference to Commissioner of Narcotics.
+<b>1970</b>—Pub. L. 91–513 struck out reference to Commissioner of Narcotics.
 
 #### Effective Date of 1970 Amendment
 

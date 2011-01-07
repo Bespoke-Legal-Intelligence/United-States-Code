@@ -20,7 +20,7 @@ As originally enacted into permanent law, section applied to Speaker of House of
 
 #### Effective Date
 
-Section 7 of House Resolution No. 1238, Ninety-first Congress, Dec. 23, 1970, as enacted into permanent lawby Pub. L. 91–665, provided that: “The foregoing provisions of this resolution \[enacting sections 31b–1 to 31b–6 of this title\] shall become effective on the date of the enactment of this resolution as permanent law \[Jan. 8, 1971\].”
+Section 7 of House Resolution No. 1238, Ninety-first Congress, Dec. 23, 1970, as enacted into permanent law by Pub. L. 91–665, provided that: “The foregoing provisions of this resolution \[enacting sections 31b–1 to 31b–6 of this title\] shall become effective on the date of the enactment of this resolution as permanent law \[Jan. 8, 1971\].”
 
 #### Extension of House Resolution No. 1238, 91st Congress, to Former Speakers of House of Representatives
 

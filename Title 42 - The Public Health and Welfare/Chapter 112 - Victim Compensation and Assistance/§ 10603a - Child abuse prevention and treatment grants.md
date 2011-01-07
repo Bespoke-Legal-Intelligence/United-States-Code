@@ -2,7 +2,7 @@
 
 Amounts made available by section 10601(d)(2) of this title for the purposes of this section shall be obligated and expended by the Secretary of Health and Human Services for grants under section 5106c <sup>1</sup> of this title. Any portion of an amount which is not obligated by the Secretary by the end of the fiscal year in which funds are made available for allocation, shall be reallocated for award under section 10603(a) of this title, except that with respect to funds deposited during fiscal year 1986 and made available for obligation during fiscal year 1987, any unobligated portion of such amount shall remain available for obligation until September 30, 1988.
 
-(Pub. L. 98–473, title II, §1404A, as added Pub. L. 99–401, title I, §102(b)(3), Aug. 27, 1986, 100 Stat.905; amended Pub. L. 103–121, title I, §110(b), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–235, title I, §113(b), Oct. 3, 1996, 110 Stat. 3079.)
+(Pub. L. 98–473, title II, §1404A, as added Pub. L. 99–401, title I, §102(b)(3), Aug. 27, 1986, 100 Stat. 905; amended Pub. L. 103–121, title I, §110(b), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–235, title I, §113(b), Oct. 3, 1996, 110 Stat. 3079.)
 
 #### References in Text
 
@@ -10,9 +10,9 @@ Section 5106c of this title, referred to in text, was in the original “section
 
 #### Amendments
 
-1996—Pub. L. 104–235 substituted “section 10601(d)(2) of this title” for “section 10601(d)(2)(D) and (d)(3) of this title.” and “section 5106c” for “section 5103(d)”.
+<b>1996</b>—Pub. L. 104–235 substituted “section 10601(d)(2) of this title” for “section 10601(d)(2)(D) and (d)(3) of this title.” and “section 5106c” for “section 5103(d)”.
 
-1993—Pub. L. 103–121 substituted “section 10601(d)(2)(D) and (d)(3) of this title.” for “section 10601(d)(2) of this title”.
+<b>1993</b>—Pub. L. 103–121 substituted “section 10601(d)(2)(D) and (d)(3) of this title.” for “section 10601(d)(2) of this title”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

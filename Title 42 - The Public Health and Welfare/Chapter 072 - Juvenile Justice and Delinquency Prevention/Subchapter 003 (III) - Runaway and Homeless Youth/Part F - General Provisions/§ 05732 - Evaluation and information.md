@@ -22,7 +22,7 @@ A prior section 5732, Pub. L. 93–415, title III, §322, Sept. 7, 1974, 88 Stat
 
 #### Amendments
 
-1999—Pub. L. 106–71 amended section catchline and text generally. Prior to amendment, text read as follows:
+<b>1999</b>—Pub. L. 106–71 amended section catchline and text generally. Prior to amendment, text read as follows:
 
 “(a) The Secretary shall develop for each fiscal year, and publish annually in the Federal Register for public comment a proposed plan specifying the subject priorities the Secretary will follow in making grants under this subchapter for such fiscal year.
 

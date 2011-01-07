@@ -38,17 +38,17 @@ The Secretary of Defense shall consult with the Secretary of Education on the ed
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this title”, meaning title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, as amended, known as the Defense Dependents’ Education Act of 1978, which enacted this chapter, section 429 of Title 37, Pay and Allowances of the Uniformed Services, and section 1769b of Title 42, The Public Health and Welfare, amended sections 1773 and 1789 of Title 42, and enacted provisions set out as notes under this section. For complete classification of this title to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title XIV of Pub. L.95–561, Nov. 1, 1978, 92 Stat. 2365, as amended, known as the Defense Dependents’ Education Act of 1978, which enacted this chapter, section 429 of Title 37, Pay and Allowances of the Uniformed Services, and section 1769b of Title 42, The Public Health and Welfare, amended sections 1773 and 1789 of Title 42, and enacted provisions set out as notes under this section. For complete classification of this title to the Code, see Short Title note below and Tables.
 
 #### Amendments
 
-2002—Subsec. (d)(2). Pub. L. 107–314 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall provide in regulations for fees to be charged for the students enrolling in a summer school program under this subsection in amounts determined on the basis of family income.”
+<b>2002</b>—Subsec. (d)(2). Pub. L. 107–314 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall provide in regulations for fees to be charged for the students enrolling in a summer school program under this subsection in amounts determined on the basis of family income.”
 
-1999—Subsec. (b)(1). Pub. L. 106–65 substituted “to receive” for “to recieve”.
+<b>1999</b>—Subsec. (b)(1). Pub. L. 106–65 substituted “to receive” for “to recieve”.
 
-1992—Subsec. (d). Pub. L. 102–484 added subsec. (d).
+<b>1992</b>—Subsec. (d). Pub. L. 102–484 added subsec. (d).
 
-1985—Subsec. (c). Pub. L. 99–145 added subsec. (c).
+<b>1985</b>—Subsec. (c). Pub. L. 99–145 added subsec. (c).
 
 #### Effective Date
 
@@ -96,7 +96,7 @@ Pub. L. 104–106, div. A, title III, §355, Feb. 10, 1996, 110 Stat. 269, provi
 
 “(a)
 
-Pilot Program.—The Secretary of Defense may conduct a pilot program to evaluate the feasibility of using private contractors to operate schools of the defense dependents’ education system established undersection 1402(a) of the Defense Dependents’ Education Act of 1978 (20 U.S.C. 921(a)).
+Pilot Program.—The Secretary of Defense may conduct a pilot program to evaluate the feasibility of using private contractors to operate schools of the defense dependents’ education system established under section 1402(a) of the Defense Dependents’ Education Act of 1978 (20 U.S.C. 921(a)).
 
 “(b)
 

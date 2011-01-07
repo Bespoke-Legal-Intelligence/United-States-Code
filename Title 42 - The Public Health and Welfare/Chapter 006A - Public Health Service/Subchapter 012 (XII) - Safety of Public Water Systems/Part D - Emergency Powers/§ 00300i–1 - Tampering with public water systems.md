@@ -2,7 +2,7 @@
 
 #### (a) Tampering
 
-Any person who tampers with a public water system shall be imprisoned for not more than 20 years, or fined in accordance with title 18, or both.
+Any person who tampers with a public water system shall be imprisoned for not more than 20years, or fined in accordance with title 18, or both.
 
 #### (b) Attempt or threat
 
@@ -24,11 +24,11 @@ For purposes of this section, the term “tamper” means—
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–188, §403(3)(A), substituted “20 years” for “5 years”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–188, §403(3)(A), substituted “20 years” for “5 years”.
 
 Subsec. (b). Pub. L. 107–188, §403(3)(B), substituted “10 years” for “3 years”.
 
 Subsec. (c). Pub. L. 107–188, §403(3)(C), (D), substituted “$1,000,000” for “$50,000” and “$100,000” for “$20,000”.
 
-1996—Pub. L. 104–182 made technical amendment to section catchline and subsec. (a) designation.
+<b>1996</b>—Pub. L. 104–182 made technical amendment to section catchline and subsec. (a) designation.
 

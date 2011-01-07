@@ -44,7 +44,7 @@ In subsection (d), the words “Not later than 1 year after the date of enactmen
 
 #### Amendments
 
-2005—Pub. L. 109–59 amended text generally. Prior to amendment, text read as follows: “See section 31144.”
+<b>2005</b>—Pub. L. 109–59 amended text generally. Prior to amendment, text read as follows: “See section 31144.”
 
-1998—Pub. L. 105–178 substituted “See section 31144.” for subsecs. (a) to (d) which related to unsatisfactory safety ratings.
+<b>1998</b>—Pub. L. 105–178 substituted “See section 31144.” for subsecs. (a) to (d) which related to unsatisfactory safety ratings.
 

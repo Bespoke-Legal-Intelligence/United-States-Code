@@ -64,7 +64,7 @@ The Secretary shall not issue a lease or permit for, or otherwise allow, explora
 
 #### Amendments
 
-1978—Pub. L. 95–372 designated existing provisions as subsec. (a)(1) and added subsecs. (a)(2) to (h).
+<b>1978</b>—Pub. L. 95–372 designated existing provisions as subsec. (a)(1) and added subsecs. (a)(2) to (h).
 
 #### Change of Name
 

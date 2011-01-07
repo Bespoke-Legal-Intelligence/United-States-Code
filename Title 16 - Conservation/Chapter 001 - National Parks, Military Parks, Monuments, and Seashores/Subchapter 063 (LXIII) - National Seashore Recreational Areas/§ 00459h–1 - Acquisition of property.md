@@ -54,11 +54,11 @@ Sections 459h to 459h–10 of this title, referred to in subsec. (e)(1)(C)(ii), 
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §137(b)(1)\], substituted “submerged land, land,” for “lands,” in first sentence.
+<b>2000</b>—Subsec. (a). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §137(b)(1)\], substituted “submerged land, land,” for “lands,” in first sentence.
 
 Subsec. (e). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §137(b)(2)\], added subsec. (e).
 
-1972—Subsec. (a). Pub. L. 92–275 increased amount of property authorized to be acquired from one hundred thirty-five to four hundred acres.
+<b>1972</b>—Subsec. (a). Pub. L. 92–275 increased amount of property authorized to be acquired from one hundred thirty-five to four hundred acres.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “the”.</i>
 

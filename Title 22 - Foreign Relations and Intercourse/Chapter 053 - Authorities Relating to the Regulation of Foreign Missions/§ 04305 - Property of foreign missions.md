@@ -54,13 +54,13 @@ If a foreign mission has ceased conducting diplomatic, consular, and other gover
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–236, §162(<i>o</i>)(5)(A), substituted “Secretary prior to” for “Director prior to” in introductory provisions.
+<b>1994</b>—Subsec. (a). Pub. L. 103–236, §162(<i>o</i>)(5)(A), substituted “Secretary prior to” for “Director prior to” in introductory provisions.
 
 Subsec. (c)(2). Pub. L. 103–236, §162(<i>o</i>)(5)(B), struck out “authorize the Director to” before “dispose of”.
 
-1987—Subsec. (d). Pub. L. 100–204 added subsec. (d).
+<b>1987</b>—Subsec. (d). Pub. L. 100–204 added subsec. (d).
 
-1985—Subsec. (a)(1). Pub. L. 99–93, §127(e), substituted “shall” for “may” and inserted “, including any mission to an international organization (as defined in section 4309(b)(2) of this title),” after “foreign mission” in first sentence, and substituted “The” for “If such a notification is required, the” in second sentence.
+<b>1985</b>—Subsec. (a)(1). Pub. L. 99–93, §127(e), substituted “shall” for “may” and inserted “, including any mission to an international organization (as defined in section 4309(b)(2) of this title),” after “foreign mission” in first sentence, and substituted “The” for “If such a notification is required, the” in second sentence.
 
 Subsec. (b)(3). Pub. L. 99–93, §127(d), added par. (3).
 

@@ -34,7 +34,7 @@ In General.—The following definitions apply in this title:
 
 &emsp;&emsp;(C) the Secretary of the Air Force, with respect to matters concerning the Air Force; and
 
-&emsp;&emsp;(D) the Secretary of Homeland Security, with respect to matters concerning theCoast Guard when it is not operating as a service in the Department of the Navy.
+&emsp;&emsp;(D) the Secretary of Homeland Security, with respect to matters concerning the Coast Guard when it is not operating as a service in the Department of the Navy.
 
 &emsp;(10) The term “service acquisition executive” means the civilian official within a military department who is designated as the service acquisition executive for purposes of regulations and procedures providing for a service acquisition executive for that military department.
 
@@ -74,6 +74,8 @@ In General.—The following definitions apply in this title:
 
 &emsp;&emsp;(C) Title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note).
 
+&emsp;(18) The term “acquisition workforce” means the persons serving in acquisition positions within the Department of Defense, as designated pursuant to section 1721(a) of this title.
+
 (b)
 
 Personnel Generally.—The following definitions relating to military personnel apply in this title:
@@ -106,7 +108,7 @@ Personnel Generally.—The following definitions relating to military personnel 
 
 &emsp;(14) The term “medical officer” means an officer of the Medical Corps of the Army, an officer of the Medical Corps of the Navy, or an officer in the Air Force designated as a medical officer.
 
-&emsp;(15) The term “dental officer” means an officer of the Dental Corps of the Army, an officerof the Dental Corps of the Navy, or an officer of the Air Force designated as a dental officer.
+&emsp;(15) The term “dental officer” means an officer of the Dental Corps of the Army, an officer of the Dental Corps of the Navy, or an officer of the Air Force designated as a dental officer.
 
 &emsp;(16) The term “Active Guard and Reserve” means a member of a reserve component who is on active duty pursuant to section 12301(d) of this title or, if a member of the Army National Guard or Air National Guard, is on full-time National Guard duty pursuant to section 502(f) of title 32, and who is performing Active Guard and Reserve duty.
 
@@ -176,7 +178,7 @@ Duty Status.—The following definitions relating to duty status apply in this t
 
 &emsp;&emsp;(A) duty prescribed for Reserves by the Secretary concerned under section 206 of title 37 or any other provision of law; and
 
-&emsp;&emsp;(B) special additional duties authorized for Reserves by an authority designated by the Secretary concerned and performed by them on a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned.
+&emsp;&emsp;(B) special additional duties authorized for Reserves by an authority designated by the Secretary concerned and performed by themon a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned.
 
 > &emsp;Such term includes those duties when performed by Reserves in their status as members of the National Guard.
 
@@ -248,7 +250,7 @@ Rules of Construction.—In this title—
 
 &emsp;(2) “may” is used in a permissive sense;
 
-&emsp;(3) “no person may ” means that no person is required, authorized, or permitted to do the act prescribed;
+&emsp;(3) “no person may \* \* \*” means that no person is required, authorized, or permitted to do the act prescribed;
 
 &emsp;(4) “includes” means “includes but is not limited to”; and
 
@@ -260,7 +262,7 @@ Reference to Title 1
 
 Definitions.—For other definitions applicable to this title, see sections 1 through 5 of title 1.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 3; Pub. L. 85–861, §§1(1), 33(a)(1), Sept. 2, 1958, 72 Stat. 1437, 1564; Pub. L. 86–70, §6(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §4(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–649, §6(f)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 90–235, §7(a)(1), Jan. 2, 1968, 81 Stat. 762; Pub. L. 90–623, §2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §1, Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title I, §§101, 115(a), title V, §501(2), Dec. 12, 1980, 94 Stat. 2839, 2877, 2907; Pub. L. 97–22, §2(a), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title IV, §414(a)(1), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–348, title III, §303, July 1, 1986, 100 Stat. 703; Pub. L. 99–433, title III, §302, Oct. 1, 1986, 100 Stat. 1022; Pub. L. 100–26, §7(i), (k)(1), Apr. 21, 1987, 101 Stat. 282, 283; Pub. L. 100–180, div. A, title XII, §§1231(1), (20), 1233(a)(2), Dec. 4, 1987, 101 Stat. 1160, 1161; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XII, §1204, Nov. 5, 1990, 104 Stat. 1658; Pub. L. 102–190, div. A, title VI, §631(a), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, §1051(a), Oct. 23, 1992, 106 Stat. 2494; Pub. L. 103–337, div. A, title V, §514, title XVI, §§1621, 1671(c)(1), Oct. 5, 1994, 108 Stat. 2753, 2960, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(1), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title V, §522, Sept. 23, 1996, 110 Stat. 2517; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §§1042(a), 1043(a), 1045(a)(2), Nov. 24, 2003, 117 Stat. 1608, 1610, 1612; Pub. L. 108–375, div. A, title X, §1084(a), Oct. 28, 2004, 118 Stat. 2060; Pub. L. 109–163, div. A, title X, §§1056(c)(1), 1057(a)(1), (2), Jan. 6, 2006, 119 Stat. 3439, 3440; Pub. L. 109–364, div. A, title V, §524, Oct. 17, 2006, 120 Stat. 2193.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 3; Pub. L. 85–861, §§1(1), 33(a)(1), Sept. 2, 1958, 72 Stat. 1437, 1564; Pub. L. 86–70, §6(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §4(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–649, §6(f)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 90–235, §7(a)(1), Jan. 2, 1968, 81 Stat. 762; Pub. L. 90–623, §2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §1, Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title I, §§101, 115(a), title V, §501(2), Dec. 12, 1980, 94 Stat. 2839, 2877, 2907; Pub. L. 97–22, §2(a), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title IV, §414(a)(1), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–348, title III, §303, July 1, 1986, 100 Stat. 703; Pub. L. 99–433, title III, §302, Oct. 1, 1986, 100 Stat. 1022; Pub. L. 100–26, §7(i), (k)(1), Apr. 21, 1987, 101 Stat. 282, 283; Pub. L. 100–180, div. A, title XII, §§1231(1), (20), 1233(a)(2), Dec. 4, 1987, 101 Stat. 1160, 1161; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XII, §1204, Nov. 5, 1990, 104 Stat. 1658; Pub. L. 102–190, div. A, title VI, §631(a), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, §1051(a), Oct. 23, 1992, 106 Stat. 2494; Pub. L. 103–337, div. A, title V, §514, title XVI, §§1621, 1671(c)(1), Oct. 5, 1994, 108 Stat. 2753, 2960, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(1), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title V, §522, Sept. 23, 1996, 110 Stat. 2517; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §§1042(a), 1043(a), 1045(a)(2), Nov. 24, 2003, 117 Stat. 1608, 1610, 1612; Pub. L. 108–375, div. A, title X, §1084(a), Oct. 28, 2004, 118 Stat. 2060;Pub. L. 109–163, div. A, title X, §§1056(c)(1), 1057(a)(1), (2), Jan. 6, 2006, 119 Stat. 3439, 3440; Pub. L. 109–364, div. A, title V, §524, Oct. 17, 2006, 120 Stat. 2193; Pub. L. 111–383, div. A, title VIII, §876, Jan. 7, 2011, 124 Stat. 4305.)
 
 Historical and Revision Notes<br>1956
 
@@ -516,7 +518,7 @@ Sept. 3, 1954, ch. 1257, §102(6), 68 Stat. 1150.
 
 The words “, other than a commissioned warrant officer,” are inserted to reflect 50:1181(1).
 
-\[Clause (35).\] The word “original” is defined to make clear that when used in relation to an appointment it refers to the member's first appointment in his currentseries of appointments and excludes any appointment made before a lapse in service.
+\[Clause (35).\] The word “original” is defined to make clear that when used in relation to an appointment it refers to the member's first appointment in his current series of appointments and excludes any appointment made before a lapse in service.
 
 #### References in Text
 
@@ -534,7 +536,9 @@ Pub. L. 107–296, §1704(b)(1), which directed amendment of section 101(9) of t
 
 #### Amendments
 
-2006—Subsec. (a)(2). Pub. L. 109–163, §1057(a)(1), struck out par. (2) which read as follows: “The term ‘Territory’ (except as provided in section 101(1) of title 32 for laws relating to the militia, the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States) means any Territory organized after August 10, 1956, so long as it remains a Territory.”
+<b>2011</b>—Subsec. (a)(18). Pub. L. 111–383 added par. (18).
+
+<b>2006</b>—Subsec. (a)(2). Pub. L. 109–163, §1057(a)(1), struck out par. (2) which read as follows: “The term ‘Territory’ (except as provided in section 101(1) of title 32 for laws relating to the militia, the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States) means any Territory organized after August 10, 1956, so long as it remains a Territory.”
 
 Subsec. (a)(3). Pub. L. 109–163, §1057(a)(2), struck out “Territory or” before “Commonwealth”.
 
@@ -544,33 +548,33 @@ Subsec. (d)(6)(A). Pub. L. 109–364, §524(2), struck out “or full-time Natio
 
 Subsec. (e)(4)(B)(ii). Pub. L. 109–163, §1056(c)(1), struck out comma after “bulk explosives”.
 
-2004—Subsec. (e)(3). Pub. L. 108–375 substituted “Secretary of a military department” for “Secretary of Defense” in introductory provisions.
+<b>2004</b>—Subsec. (e)(3). Pub. L. 108–375 substituted “Secretary of a military department” for “Secretary of Defense” in introductory provisions.
 
-2003—Subsec. (a)(9)(D). Pub. L. 108–136, §1045(a)(2), substituted “Homeland Security” for “Transportation”.
+<b>2003</b>—Subsec. (a)(9)(D). Pub. L. 108–136, §1045(a)(2), substituted “Homeland Security” for “Transportation”.
 
 Subsec. (a)(16), (17). Pub. L. 108–136, §1043(a), added pars. (16) and (17).
 
 Subsecs. (e) to (g). Pub. L. 108–136, §1042(a), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
-1996—Subsec. (d)(4). Pub. L. 104–201 substituted “a member of a reserve component” for “a reserve commissioned officer, other than a commissioned warrant officer,”.
+<b>1996</b>—Subsec. (d)(4). Pub. L. 104–201 substituted “a member of a reserve component” for “a reserve commissioned officer, other than a commissioned warrant officer,”.
 
 Subsec. (d)(6)(B)(i). Pub. L. 104–160 substituted “section 10301” for “section 175”.
 
-1994—Subsec. (a)(13)(B). Pub. L. 103–337, §1671(c)(1), substituted “688, 12301(a), 12302, 12304, 12305, or 12406” for “672(a), 673, 673b, 673c, 688, 3500, or 8500”.
+<b>1994</b>—Subsec. (a)(13)(B). Pub. L. 103–337, §1671(c)(1), substituted “688, 12301(a), 12302, 12304, 12305, or 12406” for “672(a), 673, 673b, 673c, 688, 3500, or 8500”.
 
 Subsec. (c)(7). Pub. L. 103–337, §1621, added par. (7).
 
 Subsec. (d)(6), (7). Pub. L. 103–337, §514, added par. (6) and redesignated former par. (6) as (7).
 
-1992—Pub. L. 102–484 amended section generally, substituting subsecs. (a) to (f) for former pars. (1) to (47) which defined terms for purposes of this title.
+<b>1992</b>—Pub. L. 102–484 amended section generally, substituting subsecs. (a) to (f) for former pars. (1) to (47) which defined terms for purposes of this title.
 
-1991—Par. (47). Pub. L. 102–190 added par. (47).
+<b>1991</b>—Par. (47). Pub. L. 102–190 added par. (47).
 
-1990—Par. (46). Pub. L. 101–510 added par. (46).
+<b>1990</b>—Par. (46). Pub. L. 101–510 added par. (46).
 
-1988—Pars. (3), (10), (12). Pub. L. 100–456 struck out “the Canal Zone,” after “the Virgin Islands,” in par. (3) and after “Puerto Rico,” in pars. (10) and (12).
+<b>1988</b>—Pars. (3), (10), (12). Pub. L. 100–456 struck out “the Canal Zone,” after “the Virgin Islands,” in par. (3) and after “Puerto Rico,” in pars. (10) and (12).
 
-1987—Par. (1). Pub. L. 100–26, §7(k)(1)(A), inserted “The term” after par. designation.
+<b>1987</b>—Par. (1). Pub. L. 100–26, §7(k)(1)(A), inserted “The term” after par. designation.
 
 Par. (2). Pub. L. 100–26, §7(1)(k)(B), inserted “the term” after “Air National Guard of the United States,”.
 
@@ -594,41 +598,41 @@ Pars. (21) to (43). Pub. L. 100–26, §7(k)(1)(A), (C), inserted “The term”
 
 Pars. (44), (45). Pub. L. 100–26, §7(i)(1), (k)(1)(A), inserted “The term” after par. designation and substituted “October 1, 1986” for “the date of the enactment of the Goldwater-Nichols Department of Defense Reorganization Act of 1986”.
 
-1986—Par. (43). Pub. L. 99–348 added par. (43).
+<b>1986</b>—Par. (43). Pub. L. 99–348 added par. (43).
 
 Pars. (44), (45). Pub. L. 99–433 added pars. (44) and (45).
 
-1985—Par. (41). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
+<b>1985</b>—Par. (41). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
 
-1984—Par. (22). Pub. L. 98–525, §414(a)(1)(A), inserted “It does not include full-time National Guard duty.”
+<b>1984</b>—Par. (22). Pub. L. 98–525, §414(a)(1)(A), inserted “It does not include full-time National Guard duty.”
 
 Par. (24). Pub. L. 98–525, §414(a)(1)(B), inserted “or full-time National Guard duty”.
 
 Par. (42). Pub. L. 98–525, §414(a)(1)(C), added par. (42).
 
-1981—Par. (41). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
+<b>1981</b>—Par. (41). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
 
 Pub. L. 97–22 inserted “or Coast Guard” after “Navy”.
 
-1980—Par. (22). Pub. L. 96–513, §501(2), struck out “duty on the active list,” after “It includes”.
+<b>1980</b>—Par. (22). Pub. L. 96–513, §501(2), struck out “duty on the active list,” after “It includes”.
 
 Par. (36). Pub. L. 96–513, §115(a), struck out par. (36) which provided that “dependent”, with respect to a female member of an armed force, did not include her husband, unless he was in fact dependent on her for his chief support, or her child, unless his father was dead or he was in fact dependent on her for his chief support.
 
 Pars. (37) to (41). Pub. L. 96–513, §101, added pars. (37) to (41).
 
-1972—Par. (2). Pub. L. 92–492 inserted “Except as provided in section 101(1) of title 32 for laws relating to the militia, the National Guard, the Army National Guard of the United States,” before “Territory”.
+<b>1972</b>—Par. (2). Pub. L. 92–492 inserted “Except as provided in section 101(1) of title 32 for laws relating to the militia, the National Guard, the Army National Guard of the United States,” before “Territory”.
 
-1968—Par. (8)(D). Pub. L. 90–623 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+<b>1968</b>—Par. (8)(D). Pub. L. 90–623 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 
 Par. 36. Pub. L. 90–235 added par. (36).
 
-1962—Par. (31)(A). Pub. L. 87–649 substituted “section 206 of title 37” for “section 301 of title 37”.
+<b>1962</b>—Par. (31)(A). Pub. L. 87–649 substituted “section 206 of title 37” for “section 301 of title 37”.
 
-1960—Par. (2). Pub. L. 80–624 struck out reference to Hawaii.
+<b>1960</b>—Par. (2). Pub. L. 80–624 struck out reference to Hawaii.
 
-1959—Par. (2). Pub. L. 80–70 struck out reference to Alaska.
+<b>1959</b>—Par. (2). Pub. L. 80–70 struck out reference to Alaska.
 
-1958—Par. (25). Pub. L. 85–861, §1(1), added par. (25).
+<b>1958</b>—Par. (25). Pub. L. 85–861, §1(1), added par. (25).
 
 Par. (35). Pub. L. 85–861, §33(a)(1), added par. (35).
 
@@ -761,6 +765,8 @@ Section 1055 of Pub. L. 102–484 provided that: “For purposes of applying the
 #### Congressional Defense Committees Defined
 
 The following provisions provided that the term “congressional defense committees” for purposes of the Acts in which they were contained has the meaning given that term in subsec. (a)(16) of this section:
+
+Pub. L. 111–383, §3, Jan. 7, 2011, 124 Stat. 4151.
 
 Pub. L. 111–84, §3, Oct. 28, 2009, 123 Stat. 2208.
 

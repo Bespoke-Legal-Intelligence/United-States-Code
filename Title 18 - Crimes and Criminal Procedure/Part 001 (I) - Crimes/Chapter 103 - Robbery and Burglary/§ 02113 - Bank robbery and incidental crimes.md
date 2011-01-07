@@ -18,7 +18,7 @@ Whoever takes and carries away, with intent to steal or purloin, any property or
 
 (f) As used in this section the term “bank” means any member bank of the Federal Reserve System, and any bank, banking association, trust company, savings bank, or other banking institution organized or operating under the laws of the United States, including a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), and any institution the deposits of which are insured by the Federal Deposit Insurance Corporation.
 
-(g) As used in this section the term “credit union” means any Federal credit union and anyState-chartered credit union the accounts of which are insured by the National Credit Union Administration Board, and any “Federal credit union” as defined in section 2 of the Federal Credit Union Act. The term “State-chartered credit union” includes a credit union chartered under the laws of a State of the United States, the District of Columbia, or any commonwealth, territory, or possession of the United States.
+(g) As used in this section the term “credit union” means any Federal credit union and any State-chartered credit union the accounts of which are insured by the National Credit Union Administration Board, and any “Federal credit union” as defined in section 2 of the Federal Credit Union Act. The term “State-chartered credit union” includes a credit union chartered under the laws of a State of the United States, the District of Columbia, or any commonwealth, territory, or possession of the United States.
 
 (h) As used in this section, the term “savings and loan association” means—
 
@@ -26,7 +26,7 @@ Whoever takes and carries away, with intent to steal or purloin, any property or
 
 &emsp;(2) a corporation described in section 3(b)(1)(C) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b)(1)(C)) that is operating under the laws of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 796; Aug. 3, 1950, ch. 516, 64 Stat. 394; Apr. 8, 1952, ch. 164, 66 Stat. 46; Pub. L. 86–354, §2, Sept. 22, 1959, 73 Stat. 639; Pub. L. 91–468, §8, Oct. 19, 1970, 84 Stat. 1017; Pub. L. 98–473, title II, §1106, Oct. 12, 1984, 98 Stat. 2145; Pub. L. 99–646, §68, Nov. 10, 1986, 100 Stat. 3616; Pub. L. 101–73, title IX, §962(a)(7), (d), Aug. 9, 1989, 103 Stat. 502, 503; Pub. L. 101–647, title XXV, §2597(<i>l</i>), Nov. 29, 1990, 104 Stat. 4911; Pub. L. 103–322, title VI, §60003(a)(9), title XXXII, §320608, title XXXIII, §330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 1969, 2120, 2147; Pub. L. 104–294, title VI, §§606(a), 607(d), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 107–273, div. B, title IV, §4002(d)(1)(C)(ii), Nov. 2, 2002, 116 Stat. 1809.)
+(June 25, 1948, ch. 645, 62 Stat. 796; Aug. 3, 1950, ch. 516, 64 Stat. 394; Apr. 8, 1952, ch. 164, 66 Stat. 46; Pub. L. 86–354, §2, Sept. 22, 1959, 73 Stat. 639; Pub. L. 91–468, §8, Oct. 19, 1970, 84 Stat. 1017; Pub. L. 98–473, title II, §1106, Oct. 12, 1984, 98 Stat. 2145; Pub. L. 99–646, §68, Nov. 10, 1986, 100 Stat. 3616; Pub. L. 101–73, title IX, §962(a)(7), (d), Aug. 9, 1989, 103 Stat. 502, 503; Pub. L. 101–647, title XXV, §2597(<i>l</i>), Nov. 29, 1990, 104 Stat. 4911; Pub.L. 103–322, title VI, §60003(a)(9), title XXXII, §320608, title XXXIII, §330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 1969, 2120, 2147; Pub. L. 104–294, title VI, §§606(a), 607(d), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 107–273, div. B, title IV, §4002(d)(1)(C)(ii), Nov. 2, 2002, 116 Stat. 1809.)
 
 #### Historical and Revision Notes
 
@@ -54,13 +54,13 @@ Section 2 of the Federal Credit Union Act, referred to in subsec. (g), is classi
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–273 substituted “under this title” for “not more than $1,000” in last par.
+<b>2002</b>—Subsec. (b). Pub. L. 107–273 substituted “under this title” for “not more than $1,000” in last par.
 
-1996—Subsec. (b). Pub. L. 104–294, §606(a), substituted “exceeding $1,000” for “exceeding $100” in two places.
+<b>1996</b>—Subsec. (b). Pub. L. 104–294, §606(a), substituted “exceeding $1,000” for “exceeding $100” in two places.
 
 Subsec. (g). Pub. L. 104–294, §607(d), inserted at end “The term ‘State-chartered credit union’ includes a credit union chartered under the laws of a State of the United States, the District of Columbia, or any commonwealth, territory, or possession of the United States.”
 
-1994—Subsecs. (a), (b). Pub. L. 103–322, §330016(1)(K), substituted “fined under this title” for “fined not more than $5,000” in last par. of subsec. (a) and first par. of subsec. (b).
+<b>1994</b>—Subsecs. (a), (b). Pub. L. 103–322, §330016(1)(K), substituted “fined under this title” for “fined not more than $5,000” in last par. of subsec. (a) and first par. of subsec. (b).
 
 Subsec. (d). Pub. L. 103–322, §330016(1)(L), substituted “fined under this title” for “fined not more than $10,000”.
 
@@ -68,23 +68,23 @@ Subsec. (e). Pub. L. 103–322, §60003(a)(9), substituted “or if death result
 
 Subsec. (h). Pub. L. 103–322, §320608, added subsec. (h).
 
-1990—Subsec. (f). Pub. L. 101–647 inserted “including a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978),” after “operating under the laws of the United States,”.
+<b>1990</b>—Subsec. (f). Pub. L. 101–647 inserted “including a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978),” after “operating under the laws of the United States,”.
 
-1989—Subsec. (f). Pub. L. 101–73, §962(d)(1), substituted “any institution the deposits of which” for “any bank the deposits of which”.
+<b>1989</b>—Subsec. (f). Pub. L. 101–73, §962(d)(1), substituted “any institution the deposits of which” for “any bank the deposits of which”.
 
 Subsecs. (g), (h). Pub. L. 101–73, §962(a)(7), (d)(2), (3), redesignated subsec. (h) as (g), substituted “National Credit Union Administration Board, and any ‘Federal credit union’ as defined in section 2 of the Federal Credit Union Act” for “Administrator of the National Credit Union Administration”, and struck out former subsec. (g) which read as follows: “As used in this section the term ‘savings and loan association’ means any Federal savings and loan association and any ‘insured institution’ as defined in section 401 of the National Housing Act, as amended, and any ‘Federal credit union’ as defined in section 2 of the Federal Credit Union Act.”
 
-1986—Subsec. (a). Pub. L. 99–646 inserted “, or obtains or attempts to obtain by extortion” after “presence of another” in first par.
+<b>1986</b>—Subsec. (a). Pub. L. 99–646 inserted “, or obtains or attempts to obtain by extortion” after “presence of another” in first par.
 
-1984—Subsec. (c). Pub. L. 98–473 amended subsec. (c) generally, substituting “which has been taken or stolen from a bank, credit union, or savings and loan association in violation of subsection (b), knowing the same to be property which has been stolen” for “knowing the same to have been taken from a bank, credit union, or a savings and loan association, in violation of subsection (b) of this section”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–473 amended subsec. (c) generally, substituting “which has been taken or stolen from a bank, credit union, or savings and loan association in violation of subsection (b), knowing the same to be property which has been stolen” for “knowing the same to have been taken from a bank, credit union, or a savings and loan association, in violation of subsection (b) of this section”.
 
-1970—Subsecs. (a) to (c). Pub. L. 91–468, §8(1), inserted reference to “credit union” after “bank,” each place it appears.
+<b>1970</b>—Subsecs. (a) to (c). Pub. L. 91–468, §8(1), inserted reference to “credit union” after “bank,” each place it appears.
 
 Subsec. (h). Pub. L. 91–468, §8(2), added subsec. (h).
 
-1959—Subsec. (g). Pub. L. 86–354 included Federal credit unions in definition of “savings and loan association”.
+<b>1959</b>—Subsec. (g). Pub. L. 86–354 included Federal credit unions in definition of “savings and loan association”.
 
-1952—Subsec. (g). Act Apr. 8, 1952, broadened definition of “savings and loan association” by including any insured institution as defined in section 401 of the National Housing Act, as amended.
+<b>1952</b>—Subsec. (g). Act Apr. 8, 1952, broadened definition of “savings and loan association” by including any insured institution as defined in section 401 of the National Housing Act, as amended.
 
-1950—Act Aug. 3, 1950, brought within section State-chartered savings and loan associations whose accounts are insured by the Federal Savings and Loan Insurance Corporation.
+<b>1950</b>—Act Aug. 3, 1950, brought within section State-chartered savings and loan associations whose accounts are insured by the Federal Savings and Loan Insurance Corporation.
 

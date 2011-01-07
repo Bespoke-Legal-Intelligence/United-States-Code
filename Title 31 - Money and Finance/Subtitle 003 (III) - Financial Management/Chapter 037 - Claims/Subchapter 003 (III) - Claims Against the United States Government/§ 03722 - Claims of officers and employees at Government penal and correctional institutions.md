@@ -48,7 +48,7 @@ June 10, 1949, ch. 187, 63 Stat. 167.
 
 31:238(note).
 
-In subsection (a), the words “and such other officer or officers as he may designate for such purpose” are omitted as unnecessary because of 28:509. The word “settle” is substituted for “consider, determine, adjust” for consistency. The words “the sum of” are omitted as surplus. The words “officer or employee” are substituted for “persons employed” for consistency in the revised title and with other titles of the United States Code. The words “or destruction” are omitted as surplus.
+In subsection (a), the words “and such other officer or officers as he may designate for such purpose” areomitted as unnecessary because of 28:509. The word “settle” is substituted for “consider, determine, adjust” for consistency. The words “the sum of” are omitted as surplus. The words “officer or employee” are substituted for “persons employed” for consistency in the revised title and with other titles of the United States Code. The words “or destruction” are omitted as surplus.
 
 In subsection (b), the words “assigned to him . . . otherwise” are omitted as surplus.
 

@@ -30,7 +30,7 @@ Action to change the rules of measurement for the Panama Canal or the rates of t
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–106, §3528(1), substituted “3791” for “3791(a)”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106, §3528(1), substituted “3791” for “3791(a)”.
 
 Subsec. (c). Pub. L. 104–106, §3528(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “After the proceedings have been conducted pursuant to subsections (a) and (b) of this section, the Commission shall publish in the Federal Register a notice of the changes in the rules of measurement or rates of tolls, as the case may be, to be recommended to the President.”
 

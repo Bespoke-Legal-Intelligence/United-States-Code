@@ -30,11 +30,7 @@
 
 (Added Pub. L. 98–547, title II, §201(a), Oct. 25, 1984, 98 Stat. 2769; amended Pub. L. 103–272, §5(e)(4), July 5, 1994, 108 Stat. 1373.)
 
-#### References in Text
-
-The customs laws, referred to in subsec. (b)(1), are classified generally to Title 19, Customs Duties.
-
 #### Amendments
 
-1994—Subsec. (a)(2)(A). Pub. L. 103–272 substituted “chapter 301 title 49” for “the National Traffic and Motor Vehicle Safety Act of 1966”.
+<b>1994</b>—Subsec. (a)(2)(A). Pub. L. 103–272 substituted “chapter 301 title 49” for “the National Traffic and Motor Vehicle Safety Act of 1966”.
 

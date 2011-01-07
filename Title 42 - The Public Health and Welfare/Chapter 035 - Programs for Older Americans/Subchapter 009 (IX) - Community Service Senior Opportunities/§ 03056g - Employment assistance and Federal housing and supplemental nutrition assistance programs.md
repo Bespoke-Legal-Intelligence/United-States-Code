@@ -20,7 +20,7 @@ Another prior section 3056g, Pub. L. 89–73, title V, §509, as added Pub. L. 1
 
 #### Amendments
 
-2008—Pub. L. 110–246, §4002(b)(1)(B), (2)(BB), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+<b>2008</b>—Pub. L. 110–246, §4002(b)(1)(B), (2)(BB), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
 #### Effective Date of 2008 Amendment
 

@@ -4,7 +4,7 @@
 
 (1) Whenever, on the basis of any information available to him, the Administrator finds that any person is in violation of any condition or limitation which implements section 1311, 1312, 1316, 1317, 1318, 1328, or 1345 of this title in a permit issued by a State under an approved permit program under section 1342 or 1344 of this title he shall proceed under his authority in paragraph (3) of this subsection or he shall notify the person in alleged violation and such State of such finding. If beyond the thirtieth day after the Administrator's notification the State has not commenced appropriate enforcement action, the Administrator shall issue an order requiring such person to comply with such condition or limitation or shall bring a civil action in accordance with subsection (b) of this section.
 
-(2) Whenever, on the basis of information available to him, the Administrator finds that violations of permit conditions or limitations as set forth in paragraph (1) of this subsection are so widespread that such violations appear to result from a failure of the State to enforce such permit conditions or limitations effectively, he shall so notify the State. If the Administrator finds such failure extends beyond the thirtieth day after such notice, he shall give public notice of such finding. During the period beginning with such public notice and ending when such State satisfies the Administrator that it will enforce such conditions and limitations (hereafter referred to in this section as the period of “federally assumed enforcement”), except where anextension has been granted under paragraph (5)(B) of this subsection, the Administrator shall enforce any permit condition or limitation with respect to any person—
+(2) Whenever, on the basis of information available to him, the Administrator finds that violations of permit conditions or limitations as set forth in paragraph (1) of this subsection are so widespread that such violations appear to result from a failure of the State to enforce such permit conditions or limitations effectively, he shall so notify the State. If the Administrator finds such failure extends beyond the thirtieth day after such notice, he shall give public notice of such finding. During the period beginning with such public notice and ending when such State satisfies the Administrator that it will enforce such conditions and limitations (hereafter referred to in this section as the period of “federally assumed enforcement”), except where an extension has been granted under paragraph (5)(B) of this subsection, the Administrator shall enforce any permit condition or limitation with respect to any person—
 
 &emsp;(A) by issuing an order to comply with such condition or limitation, or
 
@@ -18,7 +18,7 @@
 
 (B) The Administrator may, if he determines (i) that any person who is a violator of, or any person who is otherwise not in compliance with, the time requirements under this chapter or in any permit issued under this chapter, has acted in good faith, and has made a commitment (in the form of contracts or other securities) of necessary resources to achieve compliance by the earliest possible date after July 1, 1977, but not later than April 1, 1979; (ii) that any extension under this provision will not result in the imposition of any additional controls on any other point or nonpoint source; (iii) that an application for a permit under section 1342 of this title was filed for such person prior to December 31, 1974; and (iv) that the facilities necessary for compliance with such requirements are under construction, grant an extension of the date referred to in section 1311(b)(1)(A) of this title to a date which will achieve compliance at the earliest time possible but not later than April 1, 1979.
 
-(6) Whenever, on the basis of information available to him, the Administrator finds (A) that any person is in violation of section 1311(b)(1)(A) or (C) of this title, (B) that such person cannot meet the requirements for a time extension under section 1311(i)(2) of this title, and (C) that the most expeditious and appropriate means of compliance with this chapter by such person is to discharge into a publicly owned treatment works, then, upon request of such person, the Administrator may issue an order requiring such person to comply with this chapter at the earliest date practicable, but not later than July 1, 1983, by discharging into a publicly owned treatment works if such works concur with such order. Such order shall include a schedule of compliance.
+(6) Whenever, on the basis of information available to him, the Administrator finds (A) that any person is in violation of section 1311(b)(1)(A) or (C) of this title, (B) that such person cannot meet the requirements for a time extension under section 1311(i)(2) of this title, and (C) that the most expeditious and appropriate means of compliance with this chapter by such person is to discharge into a publicly owned treatment works, then, upon request of such person, the Administrator may issue an order requiring such person to comply with this chapter at the earliest date practicable, but not later than July 1, 1983, by discharging into a publicly owned treatment works if such worksconcur with such order. Such order shall include a schedule of compliance.
 
 #### (b) Civil actions
 
@@ -40,7 +40,7 @@ The Administrator is authorized to commence a civil action for appropriate relie
 
 &emsp;Any person who—
 
-&emsp;&emsp;(A) knowingly violates section 1311, 1312, 1316, 1317, 1318, 1321(b)(3), 1328, or 1345 of thistitle, or any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by the Administrator or by a State, or any requirement imposed in a pretreatment program approved under section 1342(a)(3) or 1342(b)(8) of this title or in a permit issued under section 1344 of this title by the Secretary of the Army or by a State; or
+&emsp;&emsp;(A) knowingly violates section 1311, 1312, 1316, 1317, 1318, 1321(b)(3), 1328, or 1345 of this title, or any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by the Administrator or by a State, or any requirement imposed in a pretreatment program approved under section 1342(a)(3) or 1342(b)(8) of this title or in a permit issued under section 1344 of this title by the Secretary of the Army or by a State; or
 
 &emsp;&emsp;(B) knowingly introduces into a sewer system or into a publicly owned treatment works any pollutant or hazardous substance which such person knew or reasonably should have known could cause personal injury or property damage or, other than in compliance with all applicable Federal, State, or local requirements or permits, which causes such treatment works to violate any effluent limitation or condition in a permit issued to the treatment works under section 1342 of this title by the Administrator or a State;
 
@@ -102,7 +102,7 @@ Whenever a municipality is a party to a civil action brought by the United State
 
 #### (f) Wrongful introduction of pollutant into treatment works
 
-Whenever, on the basis of any information available to him, the Administrator finds that an owner or operator of any source is introducing a pollutant into a treatment works in violation of subsection (d) of section 1317 of this title, the Administrator may notify the owner or operator of such treatment works and the State of such violation. If the owner or operator of the treatment works does not commence appropriate enforcement action within 30 days of the date of such notification, the Administrator may commence a civil action for appropriate relief, including but not limited to, a permanent or temporary injunction, against the owner or operator of such treatment works. In any such civil action the Administrator shall join the owner or operator of such source as a party to the action. Such action shall be brought in the district court of the United States in the district in which the treatment works is located. Such court shall have jurisdiction to restrain such violation and to require the owner or operator of the treatment works and the owner or operator of the source to take such action as may be necessary to come into compliance with this chapter. Notice of commencement of any such action shall be given to the State. Nothing in this subsection shall be construed to limit or prohibit any other authority the Administrator may have under this chapter.
+Whenever, on the basis of any information available to him, the Administrator finds that an owner or operator of any source is introducing a pollutant into a treatment works in violation of subsection (d) of section 1317 of this title, the Administrator may notify the owner or operator of such treatment works and the State of such violation. If the owner or operator of the treatment works does not commence appropriate enforcement action within 30 days of the date of such notification, the Administrator may commence a civil action for appropriate relief, including but not limited to, a permanent or temporary injunction, against the owner or operator of such treatment works. In any such civil action the Administrator shall join the owner or operator of such source as a party to the action. Such action shall be brought in the district court of the United States in the district in which the treatment works is located. Such court shall have jurisdiction to restrainsuch violation and to require the owner or operator of the treatment works and the owner or operator of the source to take such action as may be necessary to come into compliance with this chapter. Notice of commencement of any such action shall be given to the State. Nothing in this subsection shall be construed to limit or prohibit any other authority the Administrator may have under this chapter.
 
 #### (g) Administrative penalties
 
@@ -124,7 +124,7 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 #### (B) Class II
 
-&emsp;&emsp;The amount of a class II civil penalty under paragraph (1) may not exceed $10,000 per day for each day during which the violation continues; except that the maximumamount of any class II civil penalty under this subparagraph shall not exceed $125,000. Except as otherwise provided in this subsection, a class II civil penalty shall be assessed and collected in the same manner, and subject to the same provisions, as in the case of civil penalties assessed and collected after notice and opportunity for a hearing on the record in accordance with section 554 of title 5. The Administrator and the Secretary may issue rules for discovery procedures for hearings under this subparagraph.
+&emsp;&emsp;The amount of a class II civil penalty under paragraph (1) may not exceed $10,000 per day for each day during which the violation continues; except that the maximum amount of any class II civil penalty under this subparagraph shall not exceed $125,000. Except as otherwise provided in this subsection, a class II civil penalty shall be assessed and collected in the same manner, and subject to the same provisions, as in the case of civil penalties assessed and collected after notice and opportunity for a hearing on the record in accordance with section 554 of title 5. The Administrator and the Secretary may issue rules for discovery procedures for hearings under this subparagraph.
 
 #### (3) Determining amount
 
@@ -152,7 +152,7 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 #### (A) Limitation on actions under other sections
 
-&emsp;&emsp;Action taken by the Administrator or the Secretary, as the case may be, under this subsection shall not affect or limit the Administrator's or Secretary's authority to enforce any provision of this chapter; except that any violation—
+&emsp;&emsp;Action taken by the Administrator or the Secretary, as the case may be, under thissubsection shall not affect or limit the Administrator's or Secretary's authority to enforce any provision of this chapter; except that any violation—
 
 &emsp;&emsp;&emsp;(i) with respect to which the Administrator or the Secretary has commenced and is diligently prosecuting an action under this subsection,
 
@@ -210,9 +210,9 @@ The Solid Waste Disposal Act, referred to in subsec. (c)(7), is title II of Pub.
 
 #### Amendments
 
-1990—Subsec. (c)(1)(A), (2)(A), (3)(A). Pub. L. 101–380 inserted “1321(b)(3),” after “1318,”.
+<b>1990</b>—Subsec. (c)(1)(A), (2)(A), (3)(A). Pub. L. 101–380 inserted “1321(b)(3),” after “1318,”.
 
-1987—Subsec. (c). Pub. L. 100–4, §312, amended subsec. (c) generally, revising provisions of par. (1), adding pars. (2), (3), (5), and (7), redesignating former pars. (2) and (4) as (3) and (6), respectively, and revising provisions of redesignated par. (4).
+<b>1987</b>—Subsec. (c). Pub. L. 100–4, §312, amended subsec. (c) generally, revising provisions of par. (1), adding pars. (2), (3), (5), and (7), redesignating former pars. (2) and (4) as (3) and (6), respectively, and revising provisions of redesignated par. (4).
 
 Subsec. (d). Pub. L. 100–4, §313(a)(1), inserted “, or any requirement imposed in a pretreatment program approved under section 1342(a)(3) or 1342(b)(8) of this title,” after second reference to “State,”.
 
@@ -222,11 +222,11 @@ Pub. L. 100–4, §313(c), inserted at end “In determining the amount of a civ
 
 Subsec. (g). Pub. L. 100–4, §314(a), added subsec. (g).
 
-1977—Subsec. (a)(1). Pub. L. 95–217, §§55(a), 67(c)(2)(A), substituted “1318, 1328, or 1345 of this title” for “or 1318 of this title” and “1342 or 1344 of this title” for “1342 of this title”.
+<b>1977</b>—Subsec. (a)(1). Pub. L. 95–217, §§55(a), 67(c)(2)(A), substituted “1318, 1328, or 1345 of this title” for “or 1318 of this title” and “1342 or 1344 of this title” for “1342 of this title”.
 
 Subsec. (a)(2). Pub. L. 95–217, §56(a), substituted “except where an extension has been granted under paragraph (5)(B) of this subsection, the Administrator shall enforce any permit condition or limitation” for “the Administrator shall enforce any permit condition or limitation”.
 
-Subsec. (a)(3). Pub. L. 95–217, §§55(b), 67(c)(2)(B), substituted “1318, 1328, or 1345 of this title” for “or 1318 of this title” and inserted “or in a permit issued undersection 1344 of this title by a State” after “in a permit issued under section 1342 of this title by him or by a State”.
+Subsec. (a)(3). Pub. L. 95–217, §§55(b), 67(c)(2)(B), substituted “1318, 1328, or 1345 of this title” for “or 1318 of this title” and inserted “or in a permit issued under section 1344 of this title by a State” after “in a permit issued under section 1342 of this title by him or by a State”.
 
 Subsec. (a)(4). Pub. L. 95–217, §56(b), struck out provision that any order issued under this subsection had to be by personal service and had to state with reasonable specificity the nature of the violation and a time for compliance, not to exceed thirty days, which the Administrator determined to be reasonable, taking into account the seriousness of the violation and any good faith efforts to comply with applicable requirements. See section subsec. (a)(5) of this section.
 

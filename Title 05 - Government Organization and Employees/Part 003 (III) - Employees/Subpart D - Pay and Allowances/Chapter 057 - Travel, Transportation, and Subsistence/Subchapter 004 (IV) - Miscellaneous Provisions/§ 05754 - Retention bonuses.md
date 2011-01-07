@@ -62,9 +62,9 @@
 
 (B) An installment payment is derived by multiplying the amount of basic pay earned in the installment period by a percentage not to exceed the bonus percentage rate established for the employee.
 
-(C) If the installment payment percentage established for the employee is less than the bonus percentage rate established for the employee, the accrued but unpaid portion of the bonus is payable as part of the final installment payment to the employee after completion of the full service period under the terms of the service agreement.
+(C) If the installment payment percentage established for the employee is less than the bonus percentage rate established for the employee, the accrued but unpaid portion of the bonus is payable as part of the final installment paymentto the employee after completion of the full service period under the terms of the service agreement.
 
-(D) For purposes of this paragraph, the bonus percentage rate established for an employeemeans the bonus percentage rate established for such employee in accordance with paragraph (1) or subsection (f), as the case may be.
+(D) For purposes of this paragraph, the bonus percentage rate established for an employee means the bonus percentage rate established for such employee in accordance with paragraph (1) or subsection (f), as the case may be.
 
 (3) A retention bonus is not part of the basic pay of an employee for any purpose.
 

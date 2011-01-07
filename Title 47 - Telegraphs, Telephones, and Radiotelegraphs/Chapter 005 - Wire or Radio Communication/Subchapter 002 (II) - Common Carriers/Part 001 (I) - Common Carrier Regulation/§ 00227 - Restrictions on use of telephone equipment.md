@@ -72,7 +72,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) do not include the transmission of any unsolicited advertisement;
 
-&emsp;&emsp;(C) may, by rule or order, exempt from the requirements of paragraph (1)(A)(iii) of this subsection calls to a telephone number assigned to a cellular telephone service thatare not charged to the called party, subject to such conditions as the Commission may prescribe as necessary in the interest of the privacy rights this section is intended to protect;
+&emsp;&emsp;(C) may, by rule or order, exempt from the requirements of paragraph (1)(A)(iii) of this subsection calls to a telephone number assigned to a cellular telephone service that are not charged to the called party, subject to such conditions as the Commission may prescribe as necessary in the interest of the privacy rights this section is intended to protect;
 
 &emsp;&emsp;(D) shall provide that a notice contained in an unsolicited advertisement complies with the requirements under this subparagraph only if—
 
@@ -182,7 +182,7 @@ As used in this section—
 
 &emsp;If the Commission determines to require the database mechanism described in paragraph (3), the Commission shall—
 
-&emsp;&emsp;(A) in developing procedures for gaining access to the database, consider the differentneeds of telemarketers conducting business on a national, regional, State, or local level;
+&emsp;&emsp;(A) in developing procedures for gaining access to the database, consider the different needs of telemarketers conducting business on a national, regional, State, or local level;
 
 &emsp;&emsp;(B) develop a fee schedule or price structure for recouping the cost of such database that recognizes such differences and—
 
@@ -232,7 +232,127 @@ As used in this section—
 
 &emsp;&emsp;(B) any such system will automatically release the called party's line within 5 seconds of the time notification is transmitted to the system that the called party has hung up, to allow the called party's line to be used to make or receive other calls.
 
-#### (e) Effect on State law
+#### (e) Prohibition on provision of inaccurate caller identification information
+
+#### (1) In general
+
+&emsp;It shall be unlawful for any person within the United States, in connection with any telecommunications service or IP-enabled voice service, to cause any caller identification service to knowingly transmit misleading or inaccurate caller identification information with the intent to defraud, cause harm, or wrongfully obtain anything of value, unless such transmission is exempted pursuant to paragraph (3)(B).
+
+#### (2) Protection for blocking caller identification information
+
+&emsp;Nothing in this subsection may be construed to prevent or restrict any person from blocking the capability of any caller identification service to transmit caller identification information.
+
+#### (3) Regulations
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 6 months after December 22, 2010, the Commission shall prescribe regulations to implement this subsection.
+
+#### (B) Content of regulations
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The regulations required under subparagraph (A) shall include such exemptions from the prohibition under paragraph (1) as the Commission determines is appropriate.
+
+#### (ii) Specific exemption for law enforcement agencies or court orders
+
+&emsp;&emsp;&emsp;The regulations required under subparagraph (A) shall exempt from the prohibition under paragraph (1) transmissions in connection with—
+
+&emsp;&emsp;&emsp;&emsp;(I) any authorized activity of a law enforcement agency; or
+
+&emsp;&emsp;&emsp;&emsp;(II) a court order that specifically authorizes the use of caller identification manipulation.
+
+#### (4) Report
+
+&emsp;Not later than 6 months after December 22, 2010, the Commission shall report to Congress whether additional legislation is necessary to prohibit the provision of inaccurate caller identification information in technologies that are successor or replacement technologies to telecommunications service or IP-enabled voice service.
+
+#### (5) Penalties
+
+#### (A) Civil forfeiture
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Any person that is determined by the Commission, in accordance with paragraphs (3) and (4) of section 503(b) of this title, to have violated this subsection shall be liable to the United States for a forfeiture penalty. A forfeiture penalty under this paragraph shall be in addition to any other penalty provided for by this chapter. The amount of the forfeiture penalty determined under this paragraph shall not exceed $10,000 for each violation, or 3 times that amount for each day of a continuing violation, except that the amount assessed for any continuing violation shall not exceed a total of $1,000,000 for any single act or failure to act.
+
+#### (ii) Recovery
+
+&emsp;&emsp;&emsp;Any forfeiture penalty determined under clause (i) shall be recoverable pursuant to section 504(a) of this title.
+
+#### (iii) Procedure
+
+&emsp;&emsp;&emsp;No forfeiture liability shall be determined under clause (i) against any person unless such person receives the notice required by section 503(b)(3) of this title or section 503(b)(4) of this title.
+
+#### (iv) 2-year statute of limitations
+
+&emsp;&emsp;&emsp;No forfeiture penalty shall be determined or imposed against any person under clause (i) if the violation charged occurred more than 2 years prior to the date of issuance of the required notice or notice or apparent liability.
+
+#### (B) Criminal fine
+
+&emsp;&emsp;Any person who willfully and knowingly violates this subsection shall upon conviction thereof be fined not more than $10,000 for each violation, or 3 times that amount for each day of a continuing violation, in lieu of the fine provided by section 501 of this title for such a violation. This subparagraph does not supersede the provisions of section 501 of this title relating to imprisonment or the imposition of a penalty of both fine and imprisonment.
+
+#### (6) Enforcement by States
+
+#### (A) In general
+
+&emsp;&emsp;The chief legal officer of a State, or any other State officer authorized by law to bring actions on behalf of the residents of a State, may bring a civil action, as parens patriae, on behalf of the residents of that State in an appropriate district court of the United States to enforce this subsection or to impose the civil penalties for violation of this subsection, whenever the chief legal officer or other State officer has reason to believe that the interests of the residents of the State have been or are being threatened or adversely affected by a violation of this subsection or a regulation under this subsection.
+
+#### (B) Notice
+
+&emsp;&emsp;The chief legal officer or other State officer shall serve written notice on the Commission of any civil action under subparagraph (A) prior to initiating such civil action. The notice shall include a copy of the complaint to be filed to initiate such civil action, except that if it is not feasible for the State to provide such prior notice, the State shall provide such notice immediately upon instituting such civil action.
+
+#### (C) Authority to intervene
+
+&emsp;&emsp;Upon receiving the notice required by subparagraph (B), the Commission shall have the right—
+
+&emsp;&emsp;&emsp;(i) to intervene in the action;
+
+&emsp;&emsp;&emsp;(ii) upon so intervening, to be heard on all matters arising therein; and
+
+&emsp;&emsp;&emsp;(iii) to file petitions for appeal.
+
+#### (D) Construction
+
+&emsp;&emsp;For purposes of bringing any civil action under subparagraph (A), nothing in this paragraph shall prevent the chief legal officer or other State officer from exercising the powers conferred on that officer by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence.
+
+#### (E) Venue; service or process
+
+#### (i) Venue
+
+&emsp;&emsp;&emsp;An action brought under subparagraph (A) shall be brought in a district court of the United States that meets applicable requirements relating to venue under section 1391 of title 28.
+
+#### (ii) Service of process
+
+&emsp;&emsp;&emsp;In an action brought under subparagraph (A)—
+
+&emsp;&emsp;&emsp;&emsp;(I) process may be served without regard to the territorial limits of the district or of the State in which the action is instituted; and
+
+&emsp;&emsp;&emsp;&emsp;(II) a person who participated in an alleged violation that is being litigated in the civil action may be joined in the civil action without regard to the residence of the person.
+
+#### (7) Effect on other laws
+
+&emsp;This subsection does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a political subdivision of a State, or of an intelligence agency of the United States.
+
+#### (8) Definitions
+
+&emsp;For purposes of this subsection:
+
+#### (A) Caller identification information
+
+&emsp;&emsp;The term “caller identification information” means information provided by a caller identification service regarding the telephone number of, or other information regarding the origination of, a call made using a telecommunications service or IP-enabled voice service.
+
+#### (B) Caller identification service
+
+&emsp;&emsp;The term “caller identification service” means any service or device designed to provide the user of the service or device with the telephone number of, or other information regarding the origination of, a call made using a telecommunications service or IP-enabled voice service. Such term includes automatic number identification services.
+
+#### (C) IP-enabled voice service
+
+&emsp;&emsp;The term “IP-enabled voice service” has the meaning given that term by section 9.3 of the Commission's regulations (47 C.F.R. 9.3), as those regulations may be amended by the Commission from time to time.
+
+#### (9) Limitation
+
+&emsp;Notwithstanding any other provision of this section, subsection (f) shall not apply to this subsection or to the regulations under this subsection.
+
+#### (f) Effect on State law
 
 #### (1) State law not preempted
 
@@ -248,9 +368,9 @@ As used in this section—
 
 #### (2) State use of databases
 
-&emsp;If, pursuant to subsection (c)(3) of this section, the Commission requires the establishment of a single national database of telephone numbers of subscribers who object to receiving telephone solicitations, a State orlocal authority may not, in its regulation of telephone solicitations, require the use of any database, list, or listing system that does not include the part of such single national database that relates to such State.
+&emsp;If, pursuant to subsection (c)(3) of this section, the Commission requires the establishment of a single national database of telephone numbers of subscribers who object to receiving telephone solicitations, a State or local authority may not, in its regulation of telephone solicitations, require the use of any database, list, or listing system that does not include the part of such single national database that relates to such State.
 
-#### (f) Actions by States
+#### (g) Actions by States
 
 #### (1) Authority of States
 
@@ -258,7 +378,7 @@ As used in this section—
 
 #### (2) Exclusive jurisdiction of Federal courts
 
-&emsp;The district courts of the United States, the United States courts of any territory, and the District Court of the United States for the District of Columbia shall have exclusive jurisdiction over all civil actions brought under this subsection. Upon proper application, such courts shall also have jurisdiction to issue writs of mandamus, or orders affording like relief, commanding the defendant to comply with the provisions of this section or regulations prescribed under this section, including the requirement that the defendant take such action as is necessary to remove the danger of such violation. Upon a proper showing, a permanent or temporary injunction or restraining order shall be granted without bond.
+&emsp;The district courts of the United States, the United States courts of any territory, and the District Court of the United States for the District of Columbia shall have exclusive jurisdiction over all civil actions brought under this subsection. Upon proper application, such courts shall also have jurisdiction to issue writs of mandamus, or orders affording like relief, commanding the defendant to comply with the provisions of this section or regulations prescribed under this section, including the requirement that the defendant take suchaction as is necessary to remove the danger of such violation. Upon a proper showing, a permanent or temporary injunction or restraining order shall be granted without bond.
 
 #### (3) Rights of Commission
 
@@ -284,7 +404,7 @@ As used in this section—
 
 &emsp;As used in this subsection, the term “attorney general” means the chief legal officer of a State.
 
-#### (g) Junk fax enforcement report
+#### (h) Junk fax enforcement report
 
 The Commission shall submit an annual report to Congress regarding the enforcement during the past year of the provisions of this section relating to sending of unsolicited advertisements to telephone facsimile machines, which report shall include—
 
@@ -326,11 +446,13 @@ The Commission shall submit an annual report to Congress regarding the enforceme
 
 &emsp;&emsp;(C) whether the recovery action resulted in collection of any amount, and if so, the amount collected.
 
-(June 19, 1934, ch. 652, title II, §227, as added Pub. L. 102–243, §3(a), Dec. 20, 1991, 105 Stat. 2395; amended Pub. L. 102–556, title IV, §402, Oct. 28, 1992, 106 Stat. 4194; Pub. L. 103–414, title III, §303(a)(11), (12), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 108–187, §12, Dec. 16, 2003, 117 Stat. 2717; Pub. L. 109–21, §§2(a)–(g), 3, July 9, 2005, 119 Stat. 359–362.)
+(June 19, 1934, ch. 652, title II, §227, as added Pub. L. 102–243, §3(a), Dec. 20, 1991, 105 Stat. 2395; amended Pub. L. 102–556, title IV, §402, Oct. 28, 1992, 106 Stat. 4194; Pub. L. 103–414, title III, §303(a)(11), (12), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 108–187, §12, Dec. 16, 2003, 117 Stat. 2717; Pub. L. 109–21, §§2(a)–(g), 3, July 9, 2005, 119 Stat. 359–362; Pub. L. 111–331, §2, Dec. 22, 2010, 124 Stat. 3572.)
 
 #### Amendments
 
-2005—Subsec. (a)(2) to (4). Pub. L. 109–21, §2(b), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
+<b>2010</b>—Subsecs. (e) to (h). Pub. L. 111–331 added subsec. (e) and redesignated former subsecs. (e) to (g) as (f) to (h), respectively.
+
+<b>2005</b>—Subsec. (a)(2) to (4). Pub. L. 109–21, §2(b), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
 
 Subsec. (a)(5). Pub. L. 109–21, §2(b)(1), (g), redesignated par. (4) as (5) and inserted “, in writing or otherwise” before period at end.
 
@@ -340,13 +462,13 @@ Subsec. (b)(2)(D) to (G). Pub. L. 109–21, §2(c)–(f), added subpars. (D) to 
 
 Subsec. (g). Pub. L. 109–21, §3, added subsec. (g).
 
-2003—Subsec. (b)(1). Pub. L. 108–187 inserted “, or any person outside the United States if the recipient is within the United States” after “United States” in introductory provisions.
+<b>2003</b>—Subsec. (b)(1). Pub. L. 108–187 inserted “, or any person outside the United States if the recipient is within the United States” after “United States” in introductory provisions.
 
-1994—Subsec. (b)(2)(C). Pub. L. 103–414, §303(a)(11), substituted “paragraph” for “paragraphs”.
+<b>1994</b>—Subsec. (b)(2)(C). Pub. L. 103–414, §303(a)(11), substituted “paragraph” for “paragraphs”.
 
 Subsec. (e)(2). Pub. L. 103–414, §303(a)(12), substituted “national database” for “national datebase” after “such single”.
 
-1992—Subsec. (b)(2)(C). Pub. L. 102–556 added subpar. (C).
+<b>1992</b>—Subsec. (b)(2)(C). Pub. L. 102–556 added subpar. (C).
 
 #### Effective Date of 2003 Amendment
 

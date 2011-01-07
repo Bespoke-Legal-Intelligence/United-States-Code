@@ -2,7 +2,7 @@
 
 #### (a) Lands to be taken in trust
 
-The Secretary may accept any real property located in Placer County, California, for the benefit of the Tribe if conveyed or otherwisetransferred to the Secretary if, at the time of such conveyance or transfer, there are no adverse legal claims on such property, including outstanding liens, mortgages, or taxes owed. The Secretary may accept any additional acreage in the Tribe's service area pursuant to the authority of the Secretary under the Act of June 18, 1934 (25 U.S.C. 461 et seq.).
+The Secretary may accept any real property located in Placer County, California, for the benefit of the Tribe if conveyed or otherwise transferred to the Secretary if, at the time of such conveyance or transfer, there are no adverse legal claims on such property, including outstanding liens, mortgages, or taxes owed. The Secretary may accept any additional acreage in the Tribe's service area pursuant to the authority of the Secretary under the Act of June 18, 1934 (25 U.S.C. 461 et seq.).
 
 #### (b) Former trust lands of Auburn Rancheria
 
@@ -20,5 +20,5 @@ Act of June 18, 1934, referred to in subsec. (a), popularly known as the Indian 
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–122 substituted “may” for “shall” in first sentence.
+<b>1996</b>—Subsec. (a). Pub. L. 104–122 substituted “may” for “shall” in first sentence.
 

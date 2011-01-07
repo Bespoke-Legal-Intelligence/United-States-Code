@@ -12,7 +12,7 @@ Amounts authorized to be appropriated under subparagraph (a) of this section are
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–228 inserted “for the fiscal year 2003” after “$3,000,000”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–228 inserted “for the fiscal year 2003” after “$3,000,000”.
 
-1999—Subsec. (a). Pub. L. 106–55, §1(b)(4), substituted “to carry out the provisions of this subchapter” for “for each of the fiscal years 1999 and 2000 to carry out the provisions of this subchapter.”
+<b>1999</b>—Subsec. (a). Pub. L. 106–55, §1(b)(4), substituted “to carry out the provisions of this subchapter” for “for each of the fiscal years 1999 and 2000 to carry out the provisions of this subchapter.”
 

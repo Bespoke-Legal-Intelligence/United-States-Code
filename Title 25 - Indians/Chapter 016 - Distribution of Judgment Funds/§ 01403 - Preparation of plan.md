@@ -2,7 +2,7 @@
 
 #### (a) Prerequisites for final preparation
 
-The Secretary shall prepare a plan which shall best serve the interests of all those entities andindividuals entitled to receive funds of each Indian judgment. Prior to the final preparation of the plan, the Secretary shall—
+The Secretary shall prepare a plan which shall best serve the interests of all those entities and individuals entitled to receive funds of each Indian judgment. Prior to the final preparation of the plan, the Secretary shall—
 
 &emsp;(1) receive and consider any resolution or communication, together with any suggested use or distribution plan, which any affected Indian tribe may wish to submit to him; and
 
@@ -28,7 +28,7 @@ In preparing a plan for the use or distribution of the funds of each Indian judg
 
 #### Amendments
 
-1983—Subsec. (b)(3). Pub. L. 97–458, §2(a), inserted proviso.
+<b>1983</b>—Subsec. (b)(3). Pub. L. 97–458, §2(a), inserted proviso.
 
 Subsec. (b)(5). Pub. L. 97–458, §2(b), inserted proviso.
 

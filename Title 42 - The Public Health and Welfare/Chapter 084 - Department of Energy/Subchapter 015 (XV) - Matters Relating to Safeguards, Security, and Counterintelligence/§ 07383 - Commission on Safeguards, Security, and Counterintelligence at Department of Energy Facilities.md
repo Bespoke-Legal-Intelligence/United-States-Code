@@ -106,9 +106,7 @@ The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not a
 
 #### References in Text
 
-The civil service laws, referred to in subsec. (e)(3)(A), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
-The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 Sections 3101 and 3103, referred to in subsec. (g), are sections 3101 and 3103 of Pub. L. 106–65, div. C, title XXXI, Oct. 5, 1999, 113 Stat. 915, 919, which are not classified to the Code.
 

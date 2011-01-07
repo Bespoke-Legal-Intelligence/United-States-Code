@@ -16,5 +16,5 @@ The Secretary shall prepare and submit to the President and the authorizing comm
 
 #### Amendments
 
-1982—Pub. L. 97–375 substituted “March 31” for “January 30”.
+<b>1982</b>—Pub. L. 97–375 substituted “March 31” for “January 30”.
 

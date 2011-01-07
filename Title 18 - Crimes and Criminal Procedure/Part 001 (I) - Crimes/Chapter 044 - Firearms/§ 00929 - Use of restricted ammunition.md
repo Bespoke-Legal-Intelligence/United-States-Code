@@ -1,6 +1,6 @@
 ### §929. Use of restricted ammunition
 
-(a)(1) Whoever, during and in relation to the commission of a crime of violence or drug trafficking crime (including a crime of violence or drug trafficking crime which provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device) for which he may be prosecuted in a court of the United States, uses or carries a firearm and is in possession of armor piercing ammunition capable of being fired in that firearm, shall, in addition to the punishment provided for the commission of such crime of violence or drug trafficking crimebe sentenced to a term of imprisonment for not less than five years.
+(a)(1) Whoever, during and in relation to the commission of a crime of violence or drug trafficking crime (including a crime of violence or drug trafficking crime which provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device) for which he may be prosecuted in a court of the United States, uses or carries a firearm and is in possession of armor piercing ammunition capable of being fired in that firearm, shall, in addition to the punishment provided for the commission of such crime of violence or drug trafficking crime be sentenced to a term of imprisonment for not less than five years.
 
 (2) For purposes of this subsection, the term “drug trafficking crime” means any felony punishable under the Controlled Substances Act (21 U.S.C. 801 et seq.), the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.), or chapter 705 of title 46.
 
@@ -16,15 +16,15 @@ The Controlled Substances Import and Export Act, referred to in subsec. (a)(2), 
 
 #### Amendments
 
-2006—Subsec. (a)(2). Pub. L. 109–304 substituted “chapter 705 of title 46” for “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)”.
+<b>2006</b>—Subsec. (a)(2). Pub. L. 109–304 substituted “chapter 705 of title 46” for “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)”.
 
-2002—Subsec. (b). Pub. L. 107–273 struck out at end “No person sentenced under this section shall be eligible for parole during the term of imprisonment imposed herein.”
+<b>2002</b>—Subsec. (b). Pub. L. 107–273 struck out at end “No person sentenced under this section shall be eligible for parole during the term of imprisonment imposed herein.”
 
-1988—Subsec. (a)(1). Pub. L. 100–690, §7060(b), substituted “trafficking crime” for “trafficking crime,” in three places.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–690, §7060(b), substituted “trafficking crime” for “trafficking crime,” in three places.
 
 Subsec. (a)(2). Pub. L. 100–690, §6212, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For purposes of this subsection, the term ‘drug trafficking crime’ means any felony violation of Federal law involving the distribution, manufacture, or importation of any controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)).”
 
-1986—Subsec. (a). Pub. L. 99–408, §8(1), substituted “violence (including” for “violence including”, “device) for” for “device for”, “a firearm and is in possession of armor piercing ammunition capable of being fired in that firearm” for “any handgun loaded with armor-piercing ammunition as defined in subsection (b)”, and “five years” for “five nor more than ten years”, and struck out provisions relating to suspension of sentence, probation, concurrent sentence and parole eligibility of any person convicted under this subsection.
+<b>1986</b>—Subsec. (a). Pub. L. 99–408, §8(1), substituted “violence (including” for “violence including”, “device) for” for “device for”, “a firearm and is in possession of armor piercing ammunition capable of being fired in that firearm” for “any handgun loaded with armor-piercing ammunition as defined in subsection (b)”, and “five years” for “five nor more than ten years”, and struck out provisions relating to suspension of sentence, probation, concurrent sentence and parole eligibility of any person convicted under this subsection.
 
 Pub. L. 99–308 designated existing provision as par. (1), substituted “violence or drug trafficking crime,” for “violence” in three places, and added par. (2).
 

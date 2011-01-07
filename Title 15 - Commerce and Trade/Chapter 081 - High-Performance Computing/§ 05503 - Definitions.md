@@ -20,7 +20,7 @@ As used in this chapter, the term—
 
 #### Amendments
 
-2007—Par. (2). Pub. L. 110–69, §7024(a)(2)(A), inserted “and multidisciplinary teams of researchers” after “high-performance computing resources”.
+<b>2007</b>—Par. (2). Pub. L. 110–69, §7024(a)(2)(A), inserted “and multidisciplinary teams of researchers” after “high-performance computing resources”.
 
 Par. (3). Pub. L. 110–69, §7024(a)(2)(B), struck out “scientific workstations,” after “technologies, including” and “(including vector supercomputers and large scale parallel systems)” after “supercomputer systems”, substituted “applications” for “and applications”, and inserted “, and the management of large data sets” after “systems software”.
 
@@ -28,5 +28,5 @@ Par. (4). Pub. L. 110–69, §7024(a)(2)(C), struck out “packet switched” be
 
 Par. (7). Pub. L. 110–69, §7024(a)(2)(D)–(F), added par. (7).
 
-1998—Pars. (4) to (6). Pub. L. 105–305 added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+<b>1998</b>—Pars. (4) to (6). Pub. L. 105–305 added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 

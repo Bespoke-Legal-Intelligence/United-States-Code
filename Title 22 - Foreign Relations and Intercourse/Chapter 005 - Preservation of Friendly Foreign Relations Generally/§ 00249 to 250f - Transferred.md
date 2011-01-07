@@ -8,7 +8,7 @@ Section 249a, act Aug. 9, 1939, ch. 616, §2, 53 Stat. 1290, which related to cr
 
 Section 250, act June 15, 1940, ch. 365, §1, 54 Stat. 396, which related to military and naval assistance to governments of American republics, was transferred to section 521 of this title.
 
-Section 250a, act June 15, 1940, ch. 365, §2, 54 Stat. 396, which related to transmission of information relating to implements of war, was transferred to section 522 of this title.
+Section 250a, act June 15, 1940, ch. 365, §2, 54 Stat. 396, which related to transmission of information relatingto implements of war, was transferred to section 522 of this title.
 
 Section 250b, act June 15, 1940, ch. 365, §3, 54 Stat. 397, which related to contract restrictions against disposal of implements of war, was transferred to section 523 of this title.
 

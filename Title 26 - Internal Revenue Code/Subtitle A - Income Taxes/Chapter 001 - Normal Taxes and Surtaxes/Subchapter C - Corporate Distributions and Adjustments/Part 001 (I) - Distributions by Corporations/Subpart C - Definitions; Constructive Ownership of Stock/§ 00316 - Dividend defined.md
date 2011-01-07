@@ -38,19 +38,29 @@ For purposes of this subtitle, the term “dividend” means any distribution of
 
 &emsp;The term “dividend” also means any distribution of property (whether or not a dividend as defined in subsection (a)) which constitutes a “deficiency dividend” as defined in section 860(f).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 98; Mar. 13, 1956, ch. 83, §5(1), 70 Stat. 49; Pub. L. 88–272, title II, §225(f)(1), Feb. 26, 1964, 78 Stat. 87; Pub. L. 94–455, title XVI, §1601(d), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1746, 1834; Pub. L. 95–600, title III, §362(d)(1), Nov. 6, 1978, 92 Stat. 2851.)
+#### (4) Certain distributions by regulated investment companies in excess of earnings and profits
+
+&emsp;In the case of a regulated investment company that has a taxable year other than a calendar year, if the distributions by the company with respect to any class of stock of such company for the taxable year exceed the company's current and accumulated earnings and profits which may be used for the payment of dividends on such class of stock, the company's current earnings and profits shall, for purposes of subsection (a), be allocated first to distributions with respect to such class of stock made during the portion of the taxable year which precedes January 1.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 98; Mar. 13, 1956, ch. 83, §5(1), 70 Stat. 49; Pub. L. 88–272, title II, §225(f)(1), Feb. 26, 1964, 78 Stat. 87; Pub. L. 94–455, title XVI, §1601(d), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1746, 1834; Pub. L. 95–600, title III, §362(d)(1), Nov. 6, 1978, 92 Stat. 2851; Pub. L. 111–325, title III, §305(a), Dec. 22, 2010, 124 Stat. 3549.)
 
 #### Amendments
 
-1978—Subsec. (b)(3). Pub. L. 95–600 inserted “regulated investment company or” after “distributions by a” in heading and substituted in text “section 860(f)” for “section 859(d)”.
+<b>2010</b>—Subsec. (b)(4). Pub. L. 111–325 added par. (4).
 
-1976—Subsec. (b)(2)(B)(ii). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1978</b>—Subsec. (b)(3). Pub. L. 95–600 inserted “regulated investment company or” after “distributions by a” in heading and substituted in text “section 860(f)” for “section 859(d)”.
+
+<b>1976</b>—Subsec. (b)(2)(B)(ii). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (b)(3). Pub. L. 94–455, §1601(d), added par. (3).
 
-1964—Subsec. (b)(2). Pub. L. 88–272 inserted definition of “distribution of property”.
+<b>1964</b>—Subsec. (b)(2). Pub. L. 88–272 inserted definition of “distribution of property”.
 
-1956—Subsec. (b)(1). Act Mar. 13, 1956, substituted “subchapter L” for “sections 803(e), 821(a)(2), and 832(c)(11)”.
+<b>1956</b>—Subsec. (b)(1). Act Mar. 13, 1956, substituted “subchapter L” for “sections 803(e), 821(a)(2), and 832(c)(11)”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–325, title III, §305(b), Dec. 22, 2010, 124 Stat. 3549, provided that: “The amendment made by this section \[amending this section\] shall apply to distributions made in taxable years beginning after the date of the enactment of this Act \[Dec. 22, 2010\].”
 
 #### Effective Date of 1978 Amendment
 

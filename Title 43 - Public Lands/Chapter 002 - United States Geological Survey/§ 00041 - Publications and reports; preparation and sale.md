@@ -12,7 +12,7 @@ The words “Except as otherwise provided in section 260 of title 44” were ori
 
 #### Amendments
 
-1946—Act Aug. 7, 1946, repealed all provisions requiring preparation, and transmission by Secretary of the Interior, of an annual report of operations.
+<b>1946</b>—Act Aug. 7, 1946, repealed all provisions requiring preparation, and transmission by Secretary of the Interior, of an annual report of operations.
 
 #### Change of Name
 

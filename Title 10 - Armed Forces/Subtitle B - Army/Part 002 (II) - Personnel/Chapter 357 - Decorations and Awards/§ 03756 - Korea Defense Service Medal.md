@@ -14,7 +14,7 @@ The date of the enactment of this section, referred to in subsec. (b), is the da
 
 #### Amendments
 
-2004—Pub. L. 108–375 renumbered section 3755 of this title as this section.
+<b>2004</b>—Pub. L. 108–375 renumbered section 3755 of this title as this section.
 
 #### Findings
 

@@ -112,7 +112,7 @@ The Director—
 
 #### (B) Submission of drug control budget requests
 
-&emsp;&emsp;The head of each National Drug Control Program agency shall ensure timely development and submission to the Director of each proposed drug control budget request transmitted pursuant to this paragraph, in such format as may be designated by the Director with the concurrence of the Director of the Office of Management and Budget.
+&emsp;&emsp;The head of each National Drug Control Program agency shall ensure timely development and submission to the Director of each proposed drug control budget requesttransmitted pursuant to this paragraph, in such format as may be designated by the Director with the concurrence of the Director of the Office of Management and Budget.
 
 #### (C) Content of drug control budget requests
 
@@ -286,7 +286,7 @@ In carrying out subsection (b) of this section, the Director may—
 
 #### (3) Maximum number of detailees
 
-&emsp;The maximum number of personnel who may be detailed to another department or agency\(including the Office) under subsection (d)(2) of this section during any fiscal year is—
+&emsp;The maximum number of personnel who may be detailed to another department or agency (including the Office) under subsection (d)(2) of this section during any fiscal year is—
 
 &emsp;&emsp;(A) for the Department of Defense, 50; and
 
@@ -328,7 +328,7 @@ In carrying out subsection (b) of this section, the Director may—
 
 #### (5) <sup>3</sup> Restrictions
 
-&emsp;The Director shall not issue a fund control notice to direct that all or part of an amount appropriated to the National Drug Control Program agency account be obligated, modified, or altered in any manner contrary, in whole or in part, to a specific appropriation or statute.
+&emsp;The Director shall not issue a fund control notice to direct that all or part of an amountappropriated to the National Drug Control Program agency account be obligated, modified, or altered in any manner contrary, in whole or in part, to a specific appropriation or statute.
 
 #### (g) Inapplicability to certain programs
 
@@ -368,7 +368,7 @@ In subsec. (b)(8)(A), “chapter 11 of title 31” substituted for “the Budget
 
 #### Amendments
 
-2006—Subsec. (a)(3). Pub. L. 109–469, §103(a), amended par. (3) generally. Prior to amendment, text read as follows: “In the absence of the Deputy Director, or if the Office of the Deputy Director is vacant, the Director shall designate such other permanent employee of the Office to serve as the Director, if the Director is absent or unable to serve.”
+<b>2006</b>—Subsec. (a)(3). Pub. L. 109–469, §103(a), amended par. (3) generally. Prior to amendment, text read as follows: “In the absence of the Deputy Director, or if the Office of the Deputy Director is vacant, the Director shall designate such other permanent employee of the Office to serve as the Director, if the Director is absent or unable to serve.”
 
 Subsec. (b)(4). Pub. L. 109–469, §103(b)(1), substituted “National Drug Control Program agencies” for “Federal departments and agencies engaged in drug enforcement”.
 
@@ -404,7 +404,7 @@ Subsec. (c)(3)(D)(iii). Pub. L. 109–469, §105(c)(3), which directed amendment
 
 Subsec. (c)(3)(E). Pub. L. 109–469, §105(c)(1), redesignated subpar. (D) as (E).
 
-Subsec. (c)(3)(E)(ii)(II)(bb). Pub. L. 109–469, §105(c)(4), which directed amendment of item (bb) by inserting “and the appropriate congressional committees,” after “House of Representatives”, was not executed in view of the identical amendment made by Pub. L. 109–469, §103(c)(2) to subpar. (D)(ii)(II)(bb) prior to its redesignation as (E)(ii)(II)(bb). See above.
+Subsec. (c)(3)(E)(ii)(II)(bb). Pub. L. 109–469, §105(c)(4), which directed amendment of item (bb) by inserting “and the appropriate congressional committees,” after “House of Representatives”, was not executed in viewof the identical amendment made by Pub. L. 109–469, §103(c)(2) to subpar. (D)(ii)(II)(bb) prior to its redesignation as (E)(ii)(II)(bb). See above.
 
 Subsec. (c)(4)(A). Pub. L. 109–469, §105(d), substituted “$1,000,000” for “$5,000,000” and inserted at end “If the Director has not responded to a request for reprogramming subject to this subparagraph within 30 days after receiving notice of the request having been made, the request shall be deemed approved by the Director under this subparagraph and forwarded to Congress.”
 

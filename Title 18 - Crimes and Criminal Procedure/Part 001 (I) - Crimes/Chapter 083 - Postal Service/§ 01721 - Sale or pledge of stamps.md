@@ -14,11 +14,11 @@ Reference to persons causing or procuring was omitted as unnecessary in view of 
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
 
-1970—Pub. L. 91–375 substituted “Postal Service officer or employee” for “postmaster or postal service employee”, “Postal Service” for “Post Office Department” in two places, “officer or employee” for “postmaster or other person”, and “any such officer or employee” for “the postmaster or any employee of a post office or station or branch thereof”, respectively.
+<b>1970</b>—Pub. L. 91–375 substituted “Postal Service officer or employee” for “postmaster or postal service employee”, “Postal Service” for “Post Office Department” in two places, “officer or employee” for “postmaster or other person”, and “any such officer or employee” for “the postmaster or any employee of a post office or station or branch thereof”, respectively.
 
-1956—Act Aug. 1, 1956, broadened the class of postal employees subject to penalties prescribed by this section and broadened the prohibition to include the inflation of receipts by means other than the disposing of stamps, stamped envelopes, or postal cards.
+<b>1956</b>—Act Aug. 1, 1956, broadened the class of postal employees subject to penalties prescribed by this section and broadened the prohibition to include the inflation of receipts by means other than the disposing of stamps, stamped envelopes, or postal cards.
 
 #### Effective Date of 1970 Amendment
 

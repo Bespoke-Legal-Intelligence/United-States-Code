@@ -70,7 +70,7 @@ In subsection (d), before clause (1), the text of 31:1705(e)(1) is omitted as un
 
 #### Amendments
 
-1983—Subsec. (a). Pub. L. 98–169, §4, substituted “Administrator” for “Director”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–169, §4, substituted “Administrator” for “Director”.
 
 Pub. L. 98–169, §1(2), substituted “Director” for “Director of the Office of Management and Budget”.
 

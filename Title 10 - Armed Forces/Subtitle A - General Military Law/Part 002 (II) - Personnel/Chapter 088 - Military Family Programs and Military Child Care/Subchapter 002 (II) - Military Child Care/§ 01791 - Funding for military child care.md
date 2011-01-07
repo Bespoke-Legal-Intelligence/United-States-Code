@@ -8,3 +8,35 @@ It is the policy of Congress that the amount of appropriated funds available dur
 
 Provisions similar to those in this subchapter were contained in Pub. L. 101–189, div. A, title XV, Nov. 29, 1989, 103 Stat. 1589, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 104–106, §568(e)(2).
 
+#### Reports on Child Development Centers and Financial Assistance for Child Care for Members of the Armed Forces
+
+Pub. L. 111–383, div. A, title V, §587, Jan. 7, 2011, 124 Stat. 4230, provided that:
+
+“(a)
+
+Reports Required.—Not later than six months after the date of the enactment of this Act \[Jan. 7, 2011\], and every two years thereafter, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on Department of Defense child development centers and financial assistance for child care provided by the Department of Defense off-installation to members of the Armed Forces.
+
+“(b)
+
+Elements.—Each report required by subsection (a) shall include the following, current as of the date of such report:
+
+&emsp;“(1) The number of child development centers currently located on military installations.
+
+&emsp;“(2) The number of dependents of members of the Armed Forces utilizing such child development centers.
+
+&emsp;“(3) The number of dependents of members of the Armed Forces that are unable to utilize such child development centers due to capacity limitations.
+
+&emsp;“(4) The types of financial assistance available for child care provided by the Department of Defense off-installation to members of the Armed Forces (including eligible members of the reserve components).
+
+&emsp;“(5) The extent to which members of the Armed Forces are utilizing such financial assistance for child care off-installation.
+
+&emsp;“(6) The methods by which the Department of Defense reaches out to eligible military families to increase awareness of the availability of such financial assistance.
+
+&emsp;“(7) The formulas used to calculate the amount of such financial assistance provided to members of the Armed Forces.
+
+&emsp;“(8) The funding available for such financial assistance in the Department of Defense and in the military departments.
+
+&emsp;“(9) The barriers to access, if any, to such financial assistance faced by members of the Armed Forces, including whether standards and criteria of the Department of Defense for child care off-installation may affect access to child care.
+
+&emsp;“(10) Any other matters the Secretary considers appropriate in connection with such report, including with respect to the enhancement of access to Department of Defense child care development centers and financial assistance for child care off-installation for members of the Armed Forces.”
+

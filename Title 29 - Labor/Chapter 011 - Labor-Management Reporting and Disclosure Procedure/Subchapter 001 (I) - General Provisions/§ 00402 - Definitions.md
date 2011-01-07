@@ -24,7 +24,7 @@ For the purposes of this chapter—
 
 &emsp;(1) is the certified representative of employees under the provisions of the National Labor Relations Act, as amended \[29 U.S.C. 151 et seq.\], or the Railway Labor Act, as amended \[45 U.S.C. 151 et seq.\]; or
 
-&emsp;(2) although not certified, is a national or international labor organization or a local labor organization recognized or acting as therepresentative of employees of an employer or employers engaged in an industry affecting commerce; or
+&emsp;(2) although not certified, is a national or international labor organization or a local labor organization recognized or acting as the representative of employees of an employer or employers engaged in an industry affecting commerce; or
 
 &emsp;(3) has chartered a local labor organization or subsidiary body which is representing or actively seeking to represent employees of employers within the meaning of paragraph (1) or (2); or
 
@@ -68,7 +68,7 @@ The National Labor Relations Act, referred to in subsec. (j)(1), is act July 5, 
 
 #### Amendments
 
-1978—Subsec. (d). Pub. L. 95–598 substituted “cases under title 11” for “bankruptcy”.
+<b>1978</b>—Subsec. (d). Pub. L. 95–598 substituted “cases under title 11” for “bankruptcy”.
 
 #### Effective Date of 1978 Amendment
 

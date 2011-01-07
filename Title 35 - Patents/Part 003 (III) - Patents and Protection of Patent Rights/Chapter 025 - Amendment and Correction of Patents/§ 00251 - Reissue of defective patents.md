@@ -22,9 +22,9 @@ A two year period of limitation on applying for broadened reissues is added, cod
 
 #### Amendments
 
-2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
+<b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
-1999—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” in first and second pars.
+<b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” in first and second pars.
 
 #### Effective Date of 1999 Amendment
 

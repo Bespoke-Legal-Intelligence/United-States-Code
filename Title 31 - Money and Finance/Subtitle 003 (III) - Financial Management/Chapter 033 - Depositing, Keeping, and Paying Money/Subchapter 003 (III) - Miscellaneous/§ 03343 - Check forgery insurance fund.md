@@ -8,7 +8,7 @@
 
 (b) The Secretary of the Treasury shall pay from the Fund to a payee or special endorsee of a check drawn on the Treasury or a depositary designated by the Secretary the amount of the check without interest if in the determination of the Secretary the payee or special endorse <sup>1</sup> establishes that—
 
-&emsp;(1) the check was lost or stolen without the fault of the payee or a holder that is a special endorsee and whose endorsement is necessary for further negotiation;
+&emsp;(1) the check was lost or stolen without the fault of the payee or a holder that is a specialendorsee and whose endorsement is necessary for further negotiation;
 
 &emsp;(2) the check was negotiated later and paid by the Secretary or a depositary on a forged endorsement of the payee's or special endorsee's name; and
 
@@ -80,13 +80,13 @@ In subsection (b), the text of 31:563a(1st sentence) is omitted because of secti
 
 In subsection (c), the words “drawn on a designated depositary” are added because of the restatement.
 
-In subsection (d), the words “The Secretary shall deposit immediately to the credit of the Fund amounts recovered from a forger” are substituted for 31:563(words after 3d comma) to eliminate unnecessary words. The words “The liability and restoration provisions of section 563 of this title shall apply with respect to checks drawn on designated depositaries” in31:563a(last sentence) are omitted as unnecessary because of the restatement. The words “because of a forged check drawn on a designated depositary” are added for clarity. The words “credited to” are substituted for “used, as required, to reimburse” for clarity and to eliminate unnecessary words. The word “payment” is substituted for “settlement” for consistency. The words “under subsection (b) of this section” are added for clarity.
+In subsection (d), the words “The Secretary shall deposit immediately to the credit of the Fund amounts recovered from a forger” are substituted for 31:563(words after 3d comma) to eliminate unnecessary words. The words “The liability and restoration provisions of section 563 of this title shall apply with respect to checks drawn on designated depositaries” in 31:563a(last sentence) are omitted as unnecessary because of the restatement. The words “because of a forged check drawn on a designated depositary” are added for clarity. The words “credited to” are substituted for “used, as required, to reimburse” for clarity and to eliminate unnecessary words. The word “payment” is substituted for “settlement” for consistency. The words “under subsection (b) of this section” are added for clarity.
 
 In subsection (e), the word “Secretary” is substituted for “Treasurer of the United States” because of the source provisions restated in section 321(c) of the revised title.
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–134, §31001(x)(3)(A), amended second sentence generally. Prior to amendment, second sentence read as follows: “Amounts may be appropriated to the Fund.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–134, §31001(x)(3)(A), amended second sentence generally. Prior to amendment, second sentence read as follows: “Amounts may be appropriated to the Fund.”
 
 Subsec. (b). Pub. L. 104–134, §31001(x)(3)(B)(i), inserted “in the determination of the Secretary the payee or special endorse establishes that” after “without interest if” in introductory provisions.
 
@@ -99,4 +99,6 @@ Subsecs. (e) to (g). Pub. L. 104–134, §31001(x)(3)(D), (E), added subsecs. (e
 #### Availability of Fund
 
 Pub. L. 108–447, div. H, title II, §220(b), Dec. 8, 2004, 118 Stat. 3242, provided that: “The Check Forgery Insurance Fund (31 U.S.C. 3343) shall be available to fund amounts relating to the payment of items listed in 31 U.S.C. 3333(a)(1), as amended above \[Pub. L. 108–447, §220(a)(1)\], prior to the enactment of this Act \[Dec. 8, 2004\].”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “endorsee”.</i>
 

@@ -16,15 +16,15 @@ Administrative Provisions.—The provisions of this chapter and chapter 36 shall
 
 Delimiting Dates.—In the case of any individual who is an eligible person solely by virtue of subsection (a) of this section, and who is above the age of seventeen years and below the age of twenty-three years on September 30, 1966, the period referred to in section 3512 of this title shall not end until the expiration of the five-year period which begins on September 30, 1966.
 
-(Added Pub. L. 89–613, §1, Sept. 30, 1966, 80 Stat. 861, §1765; amended Pub. L. 91–24, §9(c), June 11, 1969, 83 Stat. 34; Pub. L. 97–295, §4(47), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 101–237, title IV,§423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3565 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title V, §507(b), Nov. 2, 1994, 108 Stat. 4664; Pub. L. 109–233, title V, §503(8)(A), June 15, 2006, 120 Stat. 416.)
+(Added Pub. L. 89–613, §1, Sept. 30, 1966, 80 Stat. 861, §1765; amended Pub. L. 91–24, §9(c), June 11, 1969, 83 Stat. 34; Pub. L. 97–295, §4(47), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3565 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title V, §507(b), Nov. 2, 1994, 108 Stat. 4664; Pub. L. 109–233, title V, §503(8)(A), June 15, 2006, 120 Stat. 416.)
 
 #### Amendments
 
-2006—Pub. L. 109–233 revised style of subsec. headings.
+<b>2006</b>—Pub. L. 109–233 revised style of subsec. headings.
 
-1994—Subsec. (b)(1). Pub. L. 103–446 substituted “the rate of” for “a rate in Philippine pesos equivalent to”.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–446 substituted “the rate of” for “a rate in Philippine pesos equivalent to”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1765 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1765 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “3501(a)(1)” for “1701(a)(1)” and “3566” for “1766”.
 
@@ -32,11 +32,11 @@ Subsec. (b)(1). Pub. L. 102–83, §5(c)(1), substituted “3532” for “1732�
 
 Subsec. (c). Pub. L. 102–83, §5(c)(1), substituted “3512” for “1712”.
 
-1989—Subsec. (b)(2). Pub. L. 101–237 substituted “Secretary” for “Administrator”.
+<b>1989</b>—Subsec. (b)(2). Pub. L. 101–237 substituted “Secretary” for “Administrator”.
 
-1982—Subsec. (a). Pub. L. 97–295 inserted “of this title” after “section 1766”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–295 inserted “of this title” after “section 1766”.
 
-1969—Subsec. (c). Pub. L. 91–24 substituted “September 30, 1966” for “the date of enactment of this section” and “September 30, 1966” for “the date of enactment of such section”.
+<b>1969</b>—Subsec. (c). Pub. L. 91–24 substituted “September 30, 1966” for “the date of enactment of this section” and “September 30, 1966” for “the date of enactment of such section”.
 
 #### Effective Date of 1994 Amendment
 

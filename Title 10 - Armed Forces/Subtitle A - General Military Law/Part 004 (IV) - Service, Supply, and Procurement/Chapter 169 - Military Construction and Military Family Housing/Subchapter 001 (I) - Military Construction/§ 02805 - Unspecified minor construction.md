@@ -44,13 +44,13 @@ Laboratory Revitalization.—(1) For the revitalization and recapitalization of 
 
 (e)
 
-Prohibition on Use for New Housing Units.— Military family housing projects for construction of new housing units may not be carried out under the authority of this section.
+Prohibition on Use for New Housing Units.—Military family housing projects for construction of new housing units may not be carried out under the authority of this section.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 155; amended Pub. L. 99–167, title VIII, §809, Dec. 3, 1985, 99 Stat. 989; Pub. L. 99–661, div. B, title VII, §2702(a), Nov. 14, 1986, 100 Stat. 4040; Pub. L. 100–180, div. B, subdiv. 3, title I, §2310, Dec. 4, 1987, 101 Stat. 1217; Pub. L. 101–510, div. A, title XIII, §1301(16), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. B, title XXVIII, §§2807, 2870(4), Dec. 5, 1991, 105 Stat. 1540, 1563; Pub. L.104–106, div. B, title XXVIII, §§2811(a), 2812, Feb. 10, 1996, 110 Stat. 552; Pub. L. 104–201, div. B, title XXVIII, §2801(a), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 105–85, div. B, title XXVIII, §2801, Nov. 18, 1997, 111 Stat. 1989; Pub. L. 107–107, div. B, title XXVIII, §2801, Dec. 28, 2001, 115 Stat. 1305; Pub. L. 108–136, div. A, title X, §1031(a)(36), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 110–181, div. B, title XXVIII, §§2803, 2804, Jan. 28, 2008, 122 Stat. 539; Pub. L. 111–84, div. B, title XXVIII, §2801(a)(1), (2), (b), Oct. 28, 2009, 123 Stat. 2660.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 155; amended Pub. L. 99–167, title VIII, §809, Dec. 3, 1985, 99 Stat. 989; Pub. L. 99–661, div. B, title VII, §2702(a), Nov. 14, 1986, 100 Stat. 4040; Pub. L. 100–180, div. B, subdiv. 3, title I, §2310, Dec. 4, 1987, 101 Stat. 1217; Pub. L. 101–510, div. A, title XIII, §1301(16), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. B, title XXVIII, §§2807, 2870(4), Dec. 5, 1991, 105 Stat. 1540, 1563; Pub. L. 104–106, div. B, title XXVIII, §§2811(a), 2812, Feb. 10, 1996, 110 Stat. 552; Pub. L. 104–201, div. B, title XXVIII, §2801(a), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 105–85, div. B, title XXVIII, §2801, Nov. 18, 1997, 111 Stat. 1989; Pub. L. 107–107, div. B, title XXVIII, §2801, Dec. 28, 2001, 115 Stat. 1305; Pub. L. 108–136, div. A, title X, §1031(a)(36), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 110–181, div. B, title XXVIII, §§2803, 2804, Jan. 28, 2008, 122 Stat. 539; Pub. L. 111–84, div. B, title XXVIII, §2801(a)(1), (2), (b), Oct. 28, 2009, 123 Stat. 2660.)
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–84, §2801(a)(1), substituted “Within” for “Except as provided in paragraph (2), within” in par. (1), redesignated the second and third sentences of par. (1) as par. (2), and struck out former par. (2) which read as follows: “A Secretary may not use more than $5,000,000 for exercise-related unspecified minor military construction projects coordinated or directed by the Joint Chiefs of Staff outside the United States during any fiscal year.”
+<b>2009</b>—Subsec. (a). Pub. L. 111–84, §2801(a)(1), substituted “Within” for “Except as provided in paragraph (2), within” in par. (1), redesignated the second and third sentences of par. (1) as par. (2), and struck out former par. (2) which read as follows: “A Secretary may not use more than $5,000,000 for exercise-related unspecified minor military construction projects coordinated or directed by the Joint Chiefs of Staff outside the United States during any fiscal year.”
 
 Subsec. (c). Pub. L. 111–84, §2801(a)(2), substituted “paragraph (2)” for “paragraphs (2) and (3)” in par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “The authority provided in paragraph (1) may not be used with respect to any exercise-related unspecified minor military construction project coordinated or directed by the Joint Chiefs of Staff outside the United States.”
 
@@ -58,7 +58,7 @@ Subsec. (d)(1)(B). Pub. L. 111–84, §2801(b)(1), inserted “or from funds aut
 
 Subsec. (d)(3) to (6). Pub. L. 111–84, §2801(b)(2), (3), redesignated pars. (4) to (6) as (3) to (5), respectively, and struck out former par. (3) which read as follows: “For purposes of this subsection, the total amount allowed to be applied in any one fiscal year to projects at any one laboratory shall be limited to the larger of the amounts applicable under paragraph (1).”
 
-2008—Subsec. (a). Pub. L. 110–181, §2804(b)(1), inserted subsec. heading.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §2804(b)(1), inserted subsec. heading.
 
 Subsec. (a)(1). Pub. L. 110–181, §2803, substituted “$2,000,000” for “$1,500,000”.
 
@@ -66,15 +66,15 @@ Subsecs. (b), (c). Pub. L. 110–181, §2804(b)(2), (3), inserted subsec. headin
 
 Subsecs. (d), (e). Pub. L. 110–181, §2804(a), (b)(4), added subsec. (d), redesignated former subsec. (d) as (e), and inserted subsec. (e) heading.
 
-2003—Subsec. (b)(2). Pub. L. 108–136 inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”.
+<b>2003</b>—Subsec. (b)(2). Pub. L. 108–136 inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”.
 
-2001—Subsec. (b)(1). Pub. L. 107–107, §2801(a), substituted “$750,000” for “$500,000”.
+<b>2001</b>—Subsec. (b)(1). Pub. L. 107–107, §2801(a), substituted “$750,000” for “$500,000”.
 
 Subsec. (c)(1)(A). Pub. L. 107–107, §2801(b)(1), substituted “$1,500,000” for “$1,000,000”.
 
 Subsec. (c)(1)(B). Pub. L. 107–107, §2801(b)(2), substituted “$750,000” for “$500,000”.
 
-1997—Subsec. (a)(1). Pub. L. 105–85, §2801(c)(1), substituted “unspecified minor military construction projects” for “minor military construction projects”, “An unspecified minor” for “A minor”, and “an unspecified minor” for “a minor”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–85, §2801(c)(1), substituted “unspecified minor military construction projects” for “minor military construction projects”, “An unspecified minor” for “A minor”, and “an unspecified minor” for “a minor”.
 
 Subsec. (b)(1). Pub. L. 105–85, §2801(c)(2), substituted “An unspecified minor” for “A minor”.
 
@@ -90,7 +90,7 @@ Subsec. (c)(2). Pub. L. 105–85, §2801(c)(4), substituted “unspecified minor
 
 Subsec. (c)(3). Pub. L. 105–85, §2801(b)(2), added par. (3).
 
-1996—Subsec. (a)(1). Pub. L. 104–106, §2812, in second sentence, struck out “(1) that is for a single undertaking at a military installation, and (2)” after “is a military construction project”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–106, §2812, in second sentence, struck out “(1) that is for a single undertaking at a military installation, and (2)” after “is a military construction project”.
 
 Pub. L. 104–106, §2811(a)(1), inserted at end “However, if the military construction project is intended solely to correct a deficiency that is life-threatening, health-threatening, or safety-threatening, a minor military construction project may have an approved cost equal to or less than $3,000,000.”
 
@@ -98,25 +98,25 @@ Subsec. (c)(1). Pub. L. 104–106, §2811(a)(2), substituted “not more than—
 
 Subsec. (c)(1)(B). Pub. L. 104–201 substituted “$500,000” for “$300,000”.
 
-1991—Subsec. (a)(1). Pub. L. 102–190, §2807(a), substituted “$1,500,000” for “$1,000,000”.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–190, §2807(a), substituted “$1,500,000” for “$1,000,000”.
 
 Subsec. (b)(2). Pub. L. 102–190, §2870(4), in second sentence struck out “(A)” after “carried out only” and “, or (B) after each such committee approves the project, if the committees approve the project before the end of that period” before period at end.
 
 Subsec. (c)(1). Pub. L. 102–190, §2807(b), substituted “$300,000” for “$200,000”.
 
-1990—Subsec. (b)(3). Pub. L. 101–510 struck out par. (3) which read as follows: “A project for the relocation of any activity from one installation to another that involves 25 or more full-time civilian employees of the Department of Defense but that is not subject to paragraph (1) may not be carried out under the authority of this section until the appropriate committees of Congress have been notified by the Secretary concerned of the intent to carry out such relocation under the authority of this section.”
+<b>1990</b>—Subsec. (b)(3). Pub. L. 101–510 struck out par. (3) which read as follows: “A project for the relocation of any activity from one installation to another that involves 25 or more full-time civilian employees of the Department of Defense but that is not subject to paragraph (1) may not be carried out under the authority of this section until the appropriate committees of Congress have been notified by the Secretary concerned of the intent to carry out such relocation under the authority of this section.”
 
-1987—Subsec. (a). Pub. L. 100–180, §2310(b), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), within” for “Within”, and added par. (2).
+<b>1987</b>—Subsec. (a). Pub. L. 100–180, §2310(b), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), within” for “Within”, and added par. (2).
 
 Subsec. (c). Pub. L. 100–180, §2310(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the” for “The”, and added par. (2).
 
-1986—Subsec. (a). Pub. L. 99–661, §2702(a)(1), substituted “$1,000,000” for “the amount specified by law as the maximum amount for a minor military construction project”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–661, §2702(a)(1), substituted “$1,000,000” for “the amount specified by law as the maximum amount for a minor military construction project”.
 
 Subsec. (b)(1). Pub. L. 99–661, §2702(a)(2), substituted “$500,000” for “50 percent of the amount specified by law as the maximum amount for a minor military construction project”.
 
 Subsec. (c). Pub. L. 99–661, §2702(a)(3), substituted “$200,000” for “20 percent of the amount specified by law as the maximum amount for a minor military construction project”.
 
-1985—Subsec. (a). Pub. L. 99–167, §809(1), inserted “an amount equal to 125 percent of”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–167, §809(1), inserted “an amount equal to 125 percent of”.
 
 Subsec. (c). Pub. L. 99–167, §809(2), substituted “The” for “Only funds authorized for minor construction projects may be used to accomplish unspecified minor construction projects, except that the”.
 
@@ -126,7 +126,7 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 #### Relation to Other Authorities
 
-Pub. L. 108–136, div. B, title XXVIII, §2808(e), Nov. 24, 2003, 117 Stat. 1724, provided that: “The temporary authority provided by this section \[117 Stat. 1723\], and the limited authority provided by section 2805(c) of title 10, United States Code, to use appropriated funds availablefor operation and maintenance to carry out a construction project are the only authorities available to the Secretary of Defense and the Secretaries of the military departments to use appropriated funds available for operation and maintenance to carry out construction projects.”
+Pub. L. 108–136, div. B, title XXVIII, §2808(e), Nov. 24, 2003, 117 Stat. 1724, provided that: “The temporary authority provided by this section \[117 Stat. 1723\], and the limited authority provided by section 2805(c) of title 10, United States Code, to use appropriated funds available for operation and maintenance to carry out a construction project are the only authorities available to the Secretary of Defense and the Secretaries of the military departments to use appropriated funds available for operation and maintenance to carry out construction projects.”
 
 #### Department of Defense Laboratory Revitalization Demonstration Program
 

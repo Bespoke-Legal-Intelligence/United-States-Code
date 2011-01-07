@@ -8,5 +8,5 @@
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–510 substituted “Haleakala�AE8 National Park” for “Haleakala National Park”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–510 substituted “Haleakala�AE8 National Park” for “Haleakala National Park”.
 

@@ -16,7 +16,7 @@ Assignment Period for Program Managers.—(1) The Secretary of Defense shall pre
 
 &emsp;(B) a requirement that, to the maximum extent practicable, a program manager who is the replacement for a reassigned program manager arrive at the assignment location before the reassigned program manager leaves.
 
-> Except as provided in subsection (d), the Secretary concerned may not reassign a programmanager or deputy program manager from such an assignment until after such major milestone has occurred.
+> Except as provided in subsection (d), the Secretary concerned may not reassign a program manager or deputy program manager from such an assignment until after such major milestone has occurred.
 
 (2) A person may not be assigned to a critical acquisition position as a program manager or deputy program manager of a major defense acquisition program unless the person executes a written agreement to remain on active duty (in the case of a member of the armed forces) or to remain in Federal service (in the case of an employee) in that position at least until completion of the first major milestone that occurs closest in time to the date on which the person has served in the position for four years. The service obligation contained in such a written agreement shall remain in effect unless and until waived by the Secretary concerned under subsection (d).
 
@@ -52,11 +52,11 @@ Exchange Program.—The Secretary of Defense shall establish, for purposes of br
 
 Responsibility for Assignments.—The Secretary of each military department, acting through the service acquisition executive for that department, is responsible for making assignments of civilian and military personnel of that military department who are members of the Acquisition Corps to critical acquisition positions.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1646; amended Pub. L. 102–484, div. A, title VIII, §812(a), (b), Oct. 23, 1992, 106 Stat. 2450; Pub. L. 104–201, div. A, title X, §1074(a)(9)(D), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 107–107, div. A, title X, §1048(e)(5), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 108–136, div. A, title VIII, §§831(b)(4), 832(b)(3), 833(2), (3), Nov. 24, 2003, 117 Stat. 1549, 1550.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1646; amended Pub. L.102–484, div. A, title VIII, §812(a), (b), Oct. 23, 1992, 106 Stat. 2450; Pub. L. 104–201, div. A, title X, §1074(a)(9)(D), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 107–107, div. A, title X, §1048(e)(5), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 108–136, div. A, title VIII, §§831(b)(4), 832(b)(3), 833(2), (3), Nov. 24, 2003, 117 Stat. 1549, 1550.)
 
 #### Amendments
 
-2003—Subsec. (d)(2). Pub. L. 108–136, §831(b)(4)(A)(ii), redesignated par. (3) as (2) and struck out at end “The document shall be submitted to the Director of Acquisition Education, Training, and Career Development.”
+<b>2003</b>—Subsec. (d)(2). Pub. L. 108–136, §831(b)(4)(A)(ii), redesignated par. (3) as (2) and struck out at end “The document shall be submitted to the Director of Acquisition Education, Training, and Career Development.”
 
 Pub. L. 108–136, §831(b)(4)(A)(i), struck out par. (2) which read as follows: “The authority to grant such waivers may be delegated by the service acquisition executive of a military department only to the Director of Acquisition Career Management for the military department.”
 
@@ -72,15 +72,15 @@ Pub. L. 108–136, §832(b)(3), substituted “The Secretary” for “(1) The S
 
 Subsec. (h). Pub. L. 108–136, §833(3)(B), substituted “making assignments of civilian and military personnel of that military department who are members of the Acquisition Corps” for “making assignments of civilian and military members of the Acquisition Corps of that military department”.
 
-2001—Subsec. (b)(1)(B). Pub. L. 107–107, §1048(e)(5)(A), struck out “on and after October 1, 1991,” before “to the maximum extent practicable”.
+<b>2001</b>—Subsec. (b)(1)(B). Pub. L. 107–107, §1048(e)(5)(A), struck out “on and after October 1, 1991,” before “to the maximum extent practicable”.
 
 Subsec. (e)(2). Pub. L. 107–107, §1048(e)(5)(B), struck out at end “Reviews under this subsection shall be carried out after October 1, 1995, but may be carried out before that date.”
 
-1996—Subsec. (a)(1). Pub. L. 104–201, §1074(a)(9)(D)(i), struck out “, on and after October 1, 1993,” after “provide that”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–201, §1074(a)(9)(D)(i), struck out “, on and after October 1, 1993,” after “provide that”.
 
 Subsec. (b)(1)(A). Pub. L. 104–201, §1074(a)(9)(D)(ii), struck out “, on and after October 1, 1991,” after “requirement that”.
 
-1992—Subsec. (a)(1). Pub. L. 102–484, §812(b)(1)(A), inserted before first comma “and paragraph (3)”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–484, §812(b)(1)(A), inserted before first comma “and paragraph (3)”.
 
 Subsec. (a)(3). Pub. L. 102–484, §812(b)(1)(B), added par. (3).
 

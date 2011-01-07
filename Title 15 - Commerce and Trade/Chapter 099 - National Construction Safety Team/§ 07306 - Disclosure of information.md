@@ -18,7 +18,7 @@ Notwithstanding any other provision of law, a Team, the National Institute of St
 
 #### (d) Public safety information
 
-A Team and the National Institute of Standards and Technology shall not publicly release any information it receives in the course of an investigation under this chapter if the Directorfinds that the disclosure of that information might jeopardize public safety.
+A Team and the National Institute of Standards and Technology shall not publicly release any information it receives in the course of an investigation under this chapter if the Director finds that the disclosure of that information might jeopardize public safety.
 
 (Pub. L. 107–231, §7, Oct. 1, 2002, 116 Stat. 1475.)
 

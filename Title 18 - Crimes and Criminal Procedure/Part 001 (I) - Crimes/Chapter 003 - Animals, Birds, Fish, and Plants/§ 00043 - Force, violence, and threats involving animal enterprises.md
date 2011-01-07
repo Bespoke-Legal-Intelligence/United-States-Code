@@ -106,7 +106,7 @@ Definitions.—As used in this section—
 
 Rules of Construction.—Nothing in this section shall be construed—
 
-&emsp;(1) to prohibit any expressive conduct (including peaceful picketing or other peacefuldemonstration) protected from legal prohibition by the First Amendment to the Constitution;
+&emsp;(1) to prohibit any expressive conduct (including peaceful picketing or other peaceful demonstration) protected from legal prohibition by the First Amendment to the Constitution;
 
 &emsp;(2) to create new remedies for interference with activities protected by the free speech or free exercise clauses of the First Amendment to the Constitution, regardless of the point of view expressed, or to limit any existing legal remedies for such interference; or
 
@@ -120,15 +120,15 @@ A prior section 43, acts June 25, 1948, ch. 645, 62 Stat. 687; Sept. 2, 1960, Pu
 
 #### Amendments
 
-2006—Pub. L. 109–374 amended section catchline and text generally, substituting provisions relating to force, violence, and threats involving animal enterprises for provisions relating to animal enterprise terrorism.
+<b>2006</b>—Pub. L. 109–374 amended section catchline and text generally, substituting provisions relating to force, violence, and threats involving animal enterprises for provisions relating to animal enterprise terrorism.
 
-2002—Subsec. (a). Pub. L. 107–188, §336(a), amended heading and text of subsec. (a) generally, deleting par. (2) reference to intentionally stealing and to requirement that economic damage exceed $10,000, and in concluding provisions substituting reference to punishment under subsec. (b) for reference to fine or imprisonment of not more than one year.
+<b>2002</b>—Subsec. (a). Pub. L. 107–188, §336(a), amended heading and text of subsec. (a) generally, deleting par. (2) reference to intentionally stealing and to requirement that economic damage exceed $10,000, and in concluding provisions substituting reference to punishment under subsec. (b) for reference to fine or imprisonment of not more than one year.
 
 Subsec. (b). Pub. L. 107–188, §336(b), amended subsec. (b) generally, substituting “Penalties” for “Aggravated Offense” in heading and list of penalties for property damage, personal injury and death for reference to serious bodily injury and death in text.
 
 Subsec. (c)(3). Pub. L. 107–188, §336(c), added par. (3).
 
-1996—Subsec. (c). Pub. L. 104–294 inserted “or 3663A” after “section 3663” in introductory provisions.
+<b>1996</b>—Subsec. (c). Pub. L. 104–294 inserted “or 3663A” after “section 3663” in introductory provisions.
 
 #### Short Title
 

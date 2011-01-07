@@ -46,7 +46,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (B) Considerations
 
-&emsp;&emsp;In establishing the methodology under subparagraph (A), the Secretary may takeinto account the similar methodologies used under section 1395w–23(a)(3) of this title to adjust payments to MA organizations for benefits under the original medicare fee-for-service program option.
+&emsp;&emsp;In establishing the methodology under subparagraph (A), the Secretary may take into account the similar methodologies used under section 1395w–23(a)(3) of this title to adjust payments to MA organizations for benefits under the original medicare fee-for-service program option.
 
 #### (C) Data collection
 
@@ -244,19 +244,31 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (2) Restriction on use of information
 
-&emsp;Information disclosed or obtained pursuant to the provisions of this section may be used by officers, employees, and contractors of the Department of Health and Human Services only for the purposes of, and to the extent necessary in, carrying out this section.
+&emsp;Information disclosed or obtained pursuant to the provisions of this section may be used—
+
+&emsp;&emsp;(A) by officers, employees, and contractors of the Department of Health and Human Services for the purposes of, and to the extent necessary in—
+
+&emsp;&emsp;&emsp;(i) carrying out this section; and
+
+&emsp;&emsp;&emsp;(ii) conducting oversight, evaluation, and enforcement under this subchapter; and
+
+&emsp;&emsp;(B) by the Attorney General and the Comptroller General of the United States for the purposes of, and to the extent necessary in, carrying out health oversight activities.
 
 #### (g) Payment for fallback prescription drug plans
 
 In lieu of the amounts otherwise payable under this section to a PDP sponsor offering a fallback prescription drug plan (as defined in section 1395w–111(g)(4) of this title <sup>2</sup>), the amount payable shall be the amounts determined under the contract for such plan pursuant to section 1395w–111(g)(5) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–15, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2113.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–15, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2113; amended Pub. L. 111–148, title VI, §6402(b)(1), Mar. 23, 2010, 124 Stat. 756.)
 
 #### References in Text
 
 Part C of this subchapter, referred to in subsecs. (a) and (f)(1), is classified to section 1395w–21 et seq. of this title.
 
 Section 1395w–111(g)(4) of this title, referred to in subsec. (g), was in the original “section 1860D–3(c)(4)”, and was translated as reading “section 1860D–11(g)(4)”, meaning section 1860D–11(g)(4) of the Social Security Act, to reflect the probable intent of Congress, because section 1860D–3, which is classified to section 1395w–103 of this title, does not contain a subsec. (c), and section 1395w–111(g)(4) of this title defines “fallback prescription drug plan” for purposes of this part.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (f)(2). Pub. L. 111–148 substituted “may be used—” for “may be used by officers, employees, and contractors of the Department of Health and Human Services only for the purposes of, and to the extent necessary in, carrying out this section.” in introductory provisions and added subpars. (A) and (B).
 
 <i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

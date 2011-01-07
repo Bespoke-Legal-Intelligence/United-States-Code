@@ -12,7 +12,7 @@ Provisions similar to this section were contained in section 192 of Title 10, Ar
 
 #### Amendments
 
-2001—Subsec. (b). Pub. L. 107–107 substituted “Air Mobility Command” for “Military Airlift Command”.
+<b>2001</b>—Subsec. (b). Pub. L. 107–107 substituted “Air Mobility Command” for “Military Airlift Command”.
 
 #### Effective Date
 

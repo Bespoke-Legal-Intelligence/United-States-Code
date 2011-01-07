@@ -6,7 +6,7 @@ This chapter shall apply to any non-Federal entity with respect to any of its fi
 
 #### Amendments
 
-1996—Pub. L. 104–156 struck out “; report” after “Effective date” in section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>1996</b>—Pub. L. 104–156 struck out “; report” after “Effective date” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a) This chapter shall apply to any State or local government with respect to any of its fiscal years which begin after December 31, 1984.
 

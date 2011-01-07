@@ -1,12 +1,8 @@
 ### §1011g. Application of peer review process
 
-All applications submitted under the provisions of this chapter which require peer review shall be read by a panel of readers composed of individuals selected by the Secretary, which shall include outside readers who are not employees of the Federal Government. The Secretary shall ensure that no individual assigned under this section to review any application has any conflict of interest with regard to that application which might impair the impartiality with which that individual conducts the review under this section.
+All applications submitted under the provisions of this chapter and part C of subchapter I of chapter 34 of title 42 which require peer review shall be read by a panel of readers composed of individuals selected by the Secretary, which shall include outside readers who are not employees of the Federal Government. The Secretary shall ensure that no individual assigned under this section to review any application has any conflict of interest with regard to that application which might impair the impartiality with which that individual conducts the review under this section.
 
 (Pub. L. 89–329, title I, §118, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1595.)
-
-#### References in Text
-
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Prior Provisions
 

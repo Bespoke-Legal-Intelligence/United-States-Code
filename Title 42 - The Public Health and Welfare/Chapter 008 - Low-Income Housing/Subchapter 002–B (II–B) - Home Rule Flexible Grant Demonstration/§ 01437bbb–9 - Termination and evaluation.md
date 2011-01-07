@@ -14,3 +14,5 @@ Not later than 6 months after the termination of the demonstration program under
 
 (Sept. 1, 1937, ch. 896, title IV, §410, as added Pub. L. 105–276, title V, §561, Oct. 21, 1998, 112 Stat. 2624.)
 
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “of”.</i>
+

@@ -2,7 +2,7 @@
 
 #### (a) Short-term credit guarantees
 
-The Commodity Credit Corporation may guarantee the repayment of credit made available to finance commercial export sales of agricultural commodities, including processed agricultural products and high-value agricultural products, from privately owned stocks on credit terms that do not exceed a 3-year period.
+The Commodity Credit Corporation may guarantee the repayment of credit made available tofinance commercial export sales of agricultural commodities, including processed agricultural products and high-value agricultural products, from privately owned stocks on credit terms that do not exceed a 3-year period.
 
 #### (b) Purpose of program
 
@@ -88,7 +88,7 @@ The Secretary and the United States Trade Representative shall consult on a regu
 
 &emsp;&emsp;(E) work with industry to ensure, to the maximum extent practicable, that risk-based fees associated with the guarantees cover, but do not exceed, the operating costs and losses over the long term.
 
-(Pub. L. 95–501, title II, §202, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3673; amended Pub. L. 102–237, title III, §334, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII,§§708, 709(a), Oct. 24, 1992, 106 Stat. 3351; Pub. L. 104–127, title II, §§243(a), 277(c)(3), Apr. 4, 1996, 110 Stat. 965, 979; Pub. L. 107–171, title III, §3102(a)–(c), May 13, 2002, 116 Stat. 289; Pub. L. 110–246, title III, §3101(a), (c), June 18, 2008, 122 Stat. 1831, 1832.)
+(Pub. L. 95–501, title II, §202, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3673; amended Pub. L. 102–237, title III, §334, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §§708, 709(a), Oct. 24, 1992, 106 Stat. 3351; Pub. L. 104–127, title II, §§243(a), 277(c)(3), Apr. 4, 1996, 110 Stat. 965, 979; Pub. L. 107–171, title III, §3102(a)–(c), May 13, 2002, 116 Stat. 289; Pub. L. 110–246, title III, §3101(a), (c), June 18, 2008, 122 Stat. 1831, 1832.)
 
 #### Prior Provisions
 
@@ -164,11 +164,11 @@ Section 243(d) of Pub. L. 104–127 provided that: “Not later than 180 days af
 
 #### Promotion of Agricultural Exports to Emerging Markets
 
-Pub. L. 101–624, title XV, §1542, Nov. 28, 1990, 104 Stat. 3691, as amended by Pub. L. 102–237, title III, §338, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §706, Oct. 24, 1992, 106 Stat. 3350; Pub. L. 103–182, title III, §321(g), Dec. 8, 1993, 107 Stat. 2112; Pub. L. 104–127, title II, §§277(a), 278, Apr. 4, 1996, 110 Stat. 977, 979; Pub. L. 107–171, title III, §3203, May 13, 2002, 116 Stat. 300; Pub. L. 110–246, title III, §3204, June 18, 2008, 122 Stat. 1837, provided that:
+Pub. L. 101–624, title XV, §1542, Nov. 28, 1990, 104 Stat. 3691, as amended by Pub. L. 102–237, title III, §338, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §706, Oct. 24, 1992, 106 Stat. 3350; Pub. L. 103–182, title III,§321(g), Dec. 8, 1993, 107 Stat. 2112; Pub. L. 104–127, title II, §§277(a), 278, Apr. 4, 1996, 110 Stat. 977, 979; Pub. L. 107–171, title III, §3203, May 13, 2002, 116 Stat. 300; Pub. L. 110–246, title III, §3204, June 18, 2008, 122 Stat. 1837, provided that:
 
 “(a)
 
-Funding.—The Commodity Credit Corporation shall make available for fiscal years 1996 through 2012 not less than $1,000,000,000 of direct credits or export credit guarantees for exports to emerging markets under section 201 or 202 of the Agricultural Trade Actof 1978 (7 U.S.C. 5621 and 5622), in addition to the amounts acquired or authorized under section 211 of the Act (7 U.S.C. 5641) for the program.
+Funding.—The Commodity Credit Corporation shall make available for fiscal years 1996 through 2012 not less than $1,000,000,000 of direct credits or export credit guarantees for exports to emerging markets under section 201 or 202 of the Agricultural Trade Act of 1978 (7 U.S.C. 5621 and 5622), in addition to the amounts acquired or authorized under section 211 of the Act (7 U.S.C. 5641) for the program.
 
 “(b)
 
@@ -272,7 +272,7 @@ Agricultural information program.—
 
 &emsp;&emsp;“(A)
 
-Establishment of program.—The Secretary shall establish a program, administered to complement the emerging markets export promotion program developed under this section, to initiate and develop collaboration between the United States Department of Agriculture, United States agribusinesses, and appropriate agricultural institutions in emerging markets in order to promote the exchange of information and resources that will make a long-term contribution to the establishment of free market food production and distribution systems in emerging markets and the enhancement of agricultural trade with the United States.
+Establishment of program.—The Secretary shall establish a program, administered to complement the emerging markets export promotionprogram developed under this section, to initiate and develop collaboration between the United States Department of Agriculture, United States agribusinesses, and appropriate agricultural institutions in emerging markets in order to promote the exchange of information and resources that will make a long-term contribution to the establishment of free market food production and distribution systems in emerging markets and the enhancement of agricultural trade with the United States.
 
 &emsp;&emsp;“(B)
 

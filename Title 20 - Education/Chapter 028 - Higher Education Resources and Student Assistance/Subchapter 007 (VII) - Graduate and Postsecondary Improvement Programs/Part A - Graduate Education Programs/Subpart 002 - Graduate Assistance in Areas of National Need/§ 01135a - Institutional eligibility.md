@@ -30,7 +30,7 @@ Another prior section 1135a, Pub. L. 89–329, title X, §1002, as added Pub. L.
 
 A prior section 712 of Pub. L. 89–329 was classified to section 1132b–1 of this title, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
-Another prior section 712 of Pub. L. 89–329 was classified to section 1132b–1 of this title, prior to the general amendment of part A of this subchapter by Pub. L. 102–325.
+Another prior section 712 of Pub. L. 89–329 was classified to section 1132b–1 of this title, prior to the generalamendment of part A of this subchapter by Pub. L. 102–325.
 
 Another prior section 712 of Pub. L. 89–329 was classified to section 1132b–1 of this title, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
@@ -60,7 +60,7 @@ A prior section 1135a–11, Pub. L. 89–329, title X, §1011, as added Pub. L. 
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–315, §703(e)(2), inserted “, including a master's or doctoral degree,” after “leading to a graduate degree”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §703(e)(2), inserted “, including a master's or doctoral degree,” after “leading to a graduate degree”.
 
 Subsec. (b). Pub. L. 110–315, §703(a), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “After consultation with appropriate Federal and nonprofit agencies and organizations, the Secretary shall designate areas of national need. In making such designations, the Secretary shall take into account the extent to which the interest in the area is compelling, the extent to which other Federal programs support postbaccalaureate study in the area concerned, and an assessment of how the program could achieve the most significant impact with available resources.”
 

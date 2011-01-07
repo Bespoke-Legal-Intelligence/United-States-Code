@@ -54,7 +54,7 @@ In this chapter:
 
 #### Amendments
 
-2000—Par. (6)(G), (H). Pub. L. 106–193, §4(1), added subpar. (G) and redesignated former subpar. (G) as (H).
+<b>2000</b>—Par. (6)(G), (H). Pub. L. 106–193, §4(1), added subpar. (G) and redesignated former subpar. (G) as (H).
 
 Pars. (7), (8). Pub. L. 106–193, §4(2), (3), added par. (7) and redesignated former par. (7) as (8).
 

@@ -50,11 +50,11 @@ Prohibition Applicable to Underground Pipeline Facility Owners and Operators.—
 
 (f)
 
-Limitation.—The Secretary may not conduct an enforcement proceeding under subsection (d) for a violation within the boundaries of a State that has the authority to impose penalties described in section 60134(b)(7) against persons who violate that State's damage prevention laws, unless the Secretary has determined that the State's enforcement is inadequate to protect safety, consistent with this chapter, and until the Secretary issues, through a rulemaking proceeding, the procedures for determining inadequate State enforcement of penalties.
+Limitation.—The Secretary may not conduct an enforcement proceeding under subsection (d) for a violation within the boundaries of a State that has the authority to impose penalties described in section 60134(b)(7) against persons who violate that State's damage prevention laws, unless the Secretary has determined that the State's enforcement is inadequate toprotect safety, consistent with this chapter, and until the Secretary issues, through a rulemaking proceeding, the procedures for determining inadequate State enforcement of penalties.
 
 (g)
 
-Technology Development Grants.—The Secretary may make grants to any organizationor entity (not including for-profit entities) for the development of technologies that will facilitate the prevention of pipeline damage caused by demolition, excavation, tunneling, or construction activities, with emphasis on wireless and global positioning technologies having potential for use in connection with notification systems and underground facility locating and marking services. Funds provided under this subsection may not be used for lobbying or in direct support of litigation. The Secretary may also support such technology development through cooperative agreements with trade associations, academic institutions, and other organizations.
+Technology Development Grants.—The Secretary may make grants to any organization or entity (not including for-profit entities) for the development of technologies that will facilitate the prevention of pipeline damage caused by demolition, excavation, tunneling, or construction activities, with emphasis on wireless and global positioning technologies having potential for use in connection with notification systems and underground facility locating and marking services. Funds provided under this subsection may not be used for lobbying or in direct support of litigation. The Secretary may also support such technology development through cooperative agreements with trade associations, academic institutions, and other organizations.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1318; Pub. L. 104–287, §5(91), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 104–304, §20(d), Oct. 12, 1996, 110 Stat. 3804; Pub. L. 107–355, §§3(b), 21(2), Dec. 17, 2002, 116 Stat. 2986, 3010; Pub. L. 109–468, §2(a)(1), (e), Dec. 29, 2006, 120 Stat. 3486, 3489.)
 
@@ -108,13 +108,13 @@ This amends 49:60114(a)(9) to clarify the restatement of 49 App.:1687(b) by sect
 
 #### Amendments
 
-2006—Subsecs. (d) to (g). Pub. L. 109–468 added subsecs. (d) to (g).
+<b>2006</b>—Subsecs. (d) to (g). Pub. L. 109–468 added subsecs. (d) to (g).
 
-2002—Subsec. (a)(2). Pub. L. 107–355, §3(b), inserted “, including a government employee or contractor,” after “person”.
+<b>2002</b>—Subsec. (a)(2). Pub. L. 107–355, §3(b), inserted “, including a government employee or contractor,” after “person”.
 
 Subsecs. (c), (d). Pub. L. 107–355, §21(2), redesignated subsec. (d) as (c).
 
-1996—Subsec. (a)(9). Pub. L. 104–287 and Pub. L. 104–304, §20(d)(1), amended par. (9) identically, substituting “60120 and 60122” for “60120, 60122, and 60123”.
+<b>1996</b>—Subsec. (a)(9). Pub. L. 104–287 and Pub. L. 104–304, §20(d)(1), amended par. (9) identically, substituting “60120 and 60122” for “60120, 60122, and 60123”.
 
 Subsec. (b). Pub. L. 104–304, §20(d)(2), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows:
 

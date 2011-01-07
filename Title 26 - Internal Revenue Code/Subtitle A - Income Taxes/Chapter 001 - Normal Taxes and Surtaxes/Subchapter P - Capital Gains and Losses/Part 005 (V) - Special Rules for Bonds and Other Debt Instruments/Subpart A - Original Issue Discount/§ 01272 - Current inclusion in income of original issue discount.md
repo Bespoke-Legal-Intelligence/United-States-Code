@@ -192,9 +192,9 @@ This section shall not apply to any holder—
 
 #### Amendments
 
-1997—Subsec. (a)(6)(C). Pub. L. 105–34 added cl. (iii) and concluding provisions.
+<b>1997</b>—Subsec. (a)(6)(C). Pub. L. 105–34 added cl. (iii) and concluding provisions.
 
-1986—Subsec. (a)(6), (7). Pub. L. 99–514 added par. (6) and redesignated former par. (6) as (7).
+<b>1986</b>—Subsec. (a)(6), (7). Pub. L. 99–514 added par. (6) and redesignated former par. (6) as (7).
 
 #### Effective Date of 1997 Amendment
 
@@ -210,7 +210,7 @@ Section applicable to taxable years ending after July 18, 1984, but not applicab
 
 #### Change in Method of Accounting
 
-Section 1004(b)(2) of Pub. L. 105–34 provided that: “In the case of any taxpayer required by this section \[amending this section and enacting provisions set out as a note above\] to change its method of accounting for its first taxable year beginning after the date of the enactment of this Act \[Aug. 5, 1997\]—
+Section 1004(b)(2) of Pub. L. 105–34 provided that: “In the case of any taxpayer required by this section \[amending this section and enacting provisions set outas a note above\] to change its method of accounting for its first taxable year beginning after the date of the enactment of this Act \[Aug. 5, 1997\]—
 
 &emsp;“(A) such change shall be treated as initiated by the taxpayer,
 

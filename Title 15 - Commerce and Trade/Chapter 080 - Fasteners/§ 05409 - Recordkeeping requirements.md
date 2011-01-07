@@ -10,9 +10,9 @@ A prior section 7 of Pub. L. 101–592 was classified to section 5406 of this ti
 
 #### Amendments
 
-1999—Pub. L. 106–34 substituted present provisions for former provisions which consisted of subsecs. (a) and (b) relating to retention and availability of records concerning inspections, testing, and certifications of fasteners under section 5404 of this title by laboratories, manufacturers, importers, private label distributors and persons who make significant alterations.
+<b>1999</b>—Pub. L. 106–34 substituted present provisions for former provisions which consisted of subsecs. (a) and (b) relating to retention and availability of records concerning inspections, testing, and certifications of fasteners under section 5404 of this title by laboratories, manufacturers, importers, private label distributors and persons who make significant alterations.
 
-1996—Subsec. (a). Pub. L. 104–113, §11(h)(1), substituted “5 years” for “10 years”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–113, §11(h)(1), substituted “5 years” for “10 years”.
 
 Subsec. (b). Pub. L. 104–113, §11(h), substituted “5 years” for “10 years” and “the subsequent purchaser” for “any subsequent purchaser”.
 

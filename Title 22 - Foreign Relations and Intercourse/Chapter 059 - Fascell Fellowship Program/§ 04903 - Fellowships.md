@@ -32,9 +32,9 @@ Subsection (d) of this section shall not take effect until October 1, 1986.
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–132 substituted “George P. Shultz National Foreign Affairs Training Center” for “Foreign Service Institute”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–132 substituted “George P. Shultz National Foreign Affairs Training Center” for “Foreign Service Institute”.
 
-1992—Subsec. (a). Pub. L. 102–511 inserted at end “Not less than 15 shall be provided during fiscal year 1993.”
+<b>1992</b>—Subsec. (a). Pub. L. 102–511 inserted at end “Not less than 15 shall be provided during fiscal year 1993.”
 
 #### Funding
 

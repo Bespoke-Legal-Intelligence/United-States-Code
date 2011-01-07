@@ -16,9 +16,11 @@ Section 1901 of this title, referred to in subsec. (a), was repealed by Pub. L. 
 
 #### Amendments
 
-1975—Subsec. (a). Pub. L. 93–618 substituted “United States International Trade Commission” for “United States Tariff Commission”.
+<b>1975</b>—Subsec. (a). Pub. L. 93–618 substituted “United States International Trade Commission” for “United States Tariff Commission”.
 
 #### Delegation of Functions
 
 Functions of President under subsec. (b) of this section, concerning issuance of regulations governing entry, or withdrawal from warehouses for consumption, of articles pursuant to any orderly marketing agreement, delegated to Secretary of the Treasury, see section 5(b) of Ex. Ord. No. 11846, Mar. 27, 1975, 40 F.R. 14291, set out as a note under section 2111 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

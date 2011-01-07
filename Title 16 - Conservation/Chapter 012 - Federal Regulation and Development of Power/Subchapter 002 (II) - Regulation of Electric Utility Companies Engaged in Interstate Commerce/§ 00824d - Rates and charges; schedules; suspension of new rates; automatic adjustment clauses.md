@@ -50,7 +50,7 @@ Whenever any such new schedule is filed the Commission shall have authority, eit
 
 #### Amendments
 
-1978—Subsec. (d). Pub. L. 95–617, §207(a), substituted “sixty” for “thirty” in two places.
+<b>1978</b>—Subsec. (d). Pub. L. 95–617, §207(a), substituted “sixty” for “thirty” in two places.
 
 Subsec. (f). Pub. L. 95–617, §208, added subsec. (f).
 

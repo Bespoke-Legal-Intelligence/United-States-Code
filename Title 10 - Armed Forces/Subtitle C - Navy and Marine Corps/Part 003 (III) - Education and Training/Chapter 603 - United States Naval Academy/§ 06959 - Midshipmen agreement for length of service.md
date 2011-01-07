@@ -16,6 +16,8 @@
 
 &emsp;&emsp;(B) will remain in that reserve component until completion of the commissioned service obligation of the midshipman.
 
+&emsp;(4) That if an appointment described in paragraph (2) or (3) is tendered and the midshipman participates in a program under section 2121 of this title, the midshipman will fulfill any unserved obligation incurred under this section on active duty, regardless of the type of appointment held, upon completion of, and in addition to, any service obligation incurred under section 2123 of this title for participation in such program.
+
 (b)(1) The Secretary of the Navy may transfer to the Navy Reserve or the Marine Corps Reserve, and may order to active duty for such period of time as the Secretary prescribes (but not to exceed four years), a midshipman who breaches an agreement under subsection (a). The period of time for which a midshipman is ordered to active duty under this paragraph may be determined without regard to section 651(a) of this title.
 
 (2) A midshipman who is transferred to the Navy Reserve or Marine Corps Reserve under paragraph (1) shall be transferred in an appropriate enlisted grade or rating, as determined by the Secretary.
@@ -30,7 +32,7 @@
 
 &emsp;(3) standards for determining the period of time for which a person may be ordered to serve on active duty under subsection (b).
 
-(d) In this section, “commissioned service obligation”, with respect to an officer who is a graduate of the Academy, means the period beginning on the date of the officer's appointment as a commissioned officer and ending on the sixth anniversary of such appointment or, at the discretion of the Secretary of Defense, any later date up to the eighth anniversary of such appointment.
+(d) In this section, “commissioned service obligation”, with respect to an officer who is agraduate of the Academy, means the period beginning on the date of the officer's appointment as a commissioned officer and ending on the sixth anniversary of such appointment or, at the discretion of the Secretary of Defense, any later date up to the eighth anniversary of such appointment.
 
 (e)(1) This section does not apply to a midshipman who is not a citizen or national of the United States.
 
@@ -38,7 +40,7 @@
 
 (f) A midshipman or former midshipman who does not fulfill the terms of the agreement as specified under subsection (a), or the alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) of title 37.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 432; Pub. L. 88–276, §5(a), Mar. 3, 1964, 78 Stat. 153; Pub. L. 88–647, title III, §301(19), Oct. 13, 1964, 78 Stat. 1072; Pub. L. 98–525, title V, §§541(b), 542(c), Oct. 19, 1984, 98 Stat. 2529; Pub. L. 99–145, title V, §512(b), Nov. 8, 1985, 99 Stat. 624; Pub. L. 101–189, div. A, title V, §511(c), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 104–106, div. A, title V, §531(b), Feb. 10, 1996, 110 Stat. 314; Pub. L. 109–163, div. A, title V, §515(b)(1)(S), title VI, §687(c)(10), Jan. 6, 2006, 119 Stat. 3233, 3335; Pub. L. 111–84, div. A, title X, §1073(a)(29), Oct. 28, 2009, 123 Stat. 2474.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 432; Pub. L. 88–276, §5(a), Mar. 3, 1964, 78 Stat. 153; Pub. L. 88–647, title III, §301(19), Oct. 13, 1964, 78 Stat. 1072; Pub. L. 98–525, title V, §§541(b), 542(c), Oct. 19, 1984, 98 Stat. 2529; Pub. L. 99–145, title V, §512(b), Nov. 8, 1985, 99 Stat. 624; Pub. L. 101–189, div. A, title V, §511(c), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 104–106, div. A, title V, §531(b), Feb. 10, 1996, 110 Stat. 314; Pub. L. 109–163, div. A, title V, §515(b)(1)(S), title VI, §687(c)(10), Jan. 6, 2006, 119 Stat. 3233, 3335; Pub. L. 111–84, div. A, title X, §1073(a)(29), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title V, §554(b), Jan. 7, 2011, 124 Stat. 4221.)
 
 Historical and Revision Notes
 
@@ -54,21 +56,23 @@ Historical and Revision Notes
 
 June 30, 1950, ch. 421, §3, 64 Stat. 304.
 
-The words “Hereafter” and “appointed to the United States Naval Academy” are omitted as surplusage. The words “an agreement that he will” are substituted for the words “articles by which he shall engage”. The word “separated” is substituted for the words “discharged by competent authority”. The words “if tendered an appointment”, “upon graduation from the United States Naval Academy”, and “consecutive” are omitted as surplusage. The words “if he is permitted to resign” are substituted for the words “in the event of the acceptance of his resignation”, since a resignation is effective only if accepted. The first 43 words of clause (3) are substituted for 34 U.S.C. 1048 (last 30 words of clause (3)). The last sentence is substituted for the words “with the consent of his parents or guardian if he be a minor, and if any he have.”
+The words “Hereafter” and “appointed to the United States Naval Academy” are omitted as surplusage. The words “an agreement that \* \* \* he will” are substituted for the words “articles \* \* \* by which he shall engage”. The word “separated” is substituted for the words “discharged by competent authority”. The words “if tendered an appointment”, “upon graduation from the United States Naval Academy”, and “consecutive” are omitted as surplusage. The words “if he is permitted to resign” are substituted for the words “in the event of the acceptance of his resignation”, since a resignation is effective only if accepted. The first 43 words of clause (3) are substituted for 34 U.S.C. 1048 (last 30 words of clause (3)). The last sentence is substituted for the words “with the consent of his parents or guardian if he be a minor, and if any he have.”
 
 #### Amendments
 
-2009—Subsec. (f). Pub. L. 111–84 substituted “subsection (a)” for “section (a)”.
+<b>2011</b>—Subsec. (a)(4). Pub. L. 111–383 added par. (4).
 
-2006—Subsecs. (a)(3)(A), (b)(1), (2). Pub. L. 109–163, §515(b)(1)(S), substituted “Navy Reserve” for “Naval Reserve”.
+<b>2009</b>—Subsec. (f). Pub. L. 111–84 substituted “subsection (a)” for “section (a)”.
+
+<b>2006</b>—Subsecs. (a)(3)(A), (b)(1), (2). Pub. L. 109–163, §515(b)(1)(S), substituted “Navy Reserve” for “Naval Reserve”.
 
 Subsec. (f). Pub. L. 109–163, §687(c)(10), added subsec. (f).
 
-1996—Subsec. (a)(2)(B). Pub. L. 104–106 substituted “five years” for “six years”.
+<b>1996</b>—Subsec. (a)(2)(B). Pub. L. 104–106 substituted “five years” for “six years”.
 
-1989—Subsec. (a)(2)(B). Pub. L. 101–189 substituted “six years” for “five years”.
+<b>1989</b>—Subsec. (a)(2)(B). Pub. L. 101–189 substituted “six years” for “five years”.
 
-1985—Pub. L. 99–145 amended section generally. Prior to amendment, section read as follows:
+<b>1985</b>—Pub. L. 99–145 amended section generally. Prior to amendment, section read as follows:
 
 “(a) Each midshipman who is a citizen or national of the United States shall sign an agreement that he will—
 
@@ -82,11 +86,11 @@ Subsec. (f). Pub. L. 109–163, §687(c)(10), added subsec. (f).
 
 “(b) A midshipman who does not fulfill his agreement under subsection (a) may be transferred by the Secretary of the Navy to the Naval Reserve or the Marine Corps Reserve in an appropriate enlisted grade or rating, and, notwithstanding section 651 of this title, may be ordered to active duty to serve in that grade or rating for such period of time as the Secretary prescribes but not for more than four years.”
 
-1984—Subsec. (a). Pub. L. 98–525, §541(b), struck out “, unless sooner separated,” in introductory text preceding “he will”; inserted in cl. (1) “unless sooner separated from the Naval Academy,”; and inserted “, unless sooner separated from the naval service,” in cls. (2) and (3).
+<b>1984</b>—Subsec. (a). Pub. L. 98–525, §541(b), struck out “, unless sooner separated,” in introductory text preceding “he will”; inserted in cl. (1) “unless sooner separated from the Naval Academy,”; and inserted “, unless sooner separated from the naval service,” in cls. (2) and (3).
 
 Subsec. (a)(3). Pub. L. 98–525, §542(c), substituted “at least the sixth anniversary and, at the direction of the Secretary of Defense, up to the eighth anniversary” for “the sixth anniversary”.
 
-1964—Pub. L. 88–647 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1964</b>—Pub. L. 88–647 designated existing provisions as subsec. (a) and added subsec. (b).
 
 Subsec. (a)(2). Pub. L. 88–276 substituted “five” for “three”.
 
@@ -104,7 +108,7 @@ Amendment by Pub. L. 99–145 (other than with respect to the authority of the S
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 541(b) of Pub. L. 98–525 applicable with respect to agreements entered into under this section before, on, or after Oct. 19, 1984, see section 541(d) of Pub. L. 98–525, set out as a note under section 4348 of this title.
+Amendment by section 541(b) of Pub. L. 98–525 applicable with respect to agreements entered into underthis section before, on, or after Oct. 19, 1984, see section 541(d) of Pub. L. 98–525, set out as a note under section 4348 of this title.
 
 #### Effective Date of 1964 Amendment; Obligated Period of Service
 

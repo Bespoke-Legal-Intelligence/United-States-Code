@@ -228,7 +228,7 @@ A trust created or organized in the United States by an employer for the exclusi
 
 #### (F) Termination
 
-&emsp;&emsp;This paragraph shall not apply to distributions made in taxable years beginning after December 31, 2009.
+&emsp;&emsp;This paragraph shall not apply to distributions made in taxable years beginning after December 31, 2011.
 
 #### (9) Distribution for health savings account funding
 
@@ -910,7 +910,7 @@ $10,000.
 
 &emsp;&emsp;<b>(2) For tax on certain accumulations in individual retirement accounts or annuities, see section 4974.</b>
 
-(Added Pub. L. 93–406, title II, §2002(b), Sept. 2, 1974, 88 Stat. 959; amended Pub. L. 94–455, title XV, §1501(b)(2), (5), (10), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1735–1737, 1834; Pub. L. 95–600, title I, §§152(a), (b), 156(c)(1), (3), 157(c)(1), (d)(1), (e)(1)(A), (g)(3), (h)(2), title VII, §703(c)(4), Nov. 6, 1978, 92 Stat. 2797, 2802, 2803, 2805, 2806, 2808, 2939; Pub. L. 96–222, title I, §101(a)(10)(A), (C), (F), (G), (J)(i), (14)(B), (E)(ii), Apr. 1, 1980, 94 Stat. 201–205; Pub. L. 96–605, title II, §225(b)(3), (4), Dec. 28, 1980, 94 Stat. 3529; Pub. L. 97–34, title III, §§311(g)(1)(A)–(C), (2), (h)(2), 312(b)(2), (c)(5), 313(b)(2), 314(b)(1), Aug. 13, 1981, 95 Stat. 281–284, 286; Pub. L. 97–248, title II, §§237(e)(3), 238(d)(3), (4), 243(a), (b)(1)(A), title III, §335(a)(1), Sept. 3, 1982, 96 Stat. 512, 513, 521, 522, 628; Pub. L. 97–448, title I, §103(d)(1), (e), Jan. 12, 1983, 96 Stat. 2378; Pub. L. 98–369, div. A, title I, §147(a), title IV, §491(d)(19)–(24), title V, §§521(b), 522(d)(12), title VII, §713(c)(2)(B), (f)(2), (5)(B), (g)(2), (j), July 18, 1984, 98 Stat. 687, 850, 867, 871, 957, 959, 960; Pub. L. 99–514, title XI, §§1102(a), (b)(2), (c), (e)(2), 1108(a), (d)–(g)(1), (4), (6), 1121(c)(2), 1122(e)(2)(B), 1123(d)(2), 1144(a), title XVIII, §§1852(a)(1), (5)(C), (7)(A), 1875(c)(6)(A), (8), 1898(a)(5), Oct. 22, 1986, 100 Stat. 2414–2416, 2431, 2433, 2434, 2465, 2470, 2475, 2490, 2864–2866, 2895, 2944; Pub. L. 100–647, title I, §§1011(b)(1)–(3), (c)(7)(C), (f)(1)–(5), (10), (i)(5), 1011A(a)(2)(A), 1018(t)(3)(D), title VI, §6057(a), Nov. 10, 1988, 102 Stat. 3456, 3458, 3461–3463, 3468, 3472, 3588, 3698; Pub. L. 101–239, title VII, §§7811(m)(7), 7841(a)(1), Dec. 19, 1989, 103 Stat. 2412, 2427; Pub. L. 102–318, title V, §521(b)(16)–(19), July 3, 1992, 106 Stat. 311; Pub. L. 103–66, title XIII, §13212(b), Aug. 10, 1993, 107 Stat. 472; Pub. L. 103–465, title VII, §732(d), Dec. 8, 1994, 108 Stat. 5005; Pub. L. 104–188, title I, §§1421(a), (b)(3)(B), (5), (6), (c), 1427(b)(3), 1431(c)(1)(B), 1455(b)(1), Aug. 20, 1996, 110 Stat. 1792, 1796–1798, 1802, 1803, 1817; Pub. L. 105–34, title III, §§302(d), 304(a), title XV, §1501(b), title XVI, §1601(d)(1)(A)–(C)(i), (D)–(G), Aug. 5, 1997, 111 Stat. 829, 831, 1058, 1087, 1088; Pub. L. 105–206, title VI, §§6015(a), 6016(a)(1), 6018(b), July 22, 1998, 112 Stat. 820–822; Pub. L. 106–554, §1(a)(7) \[title III, §319(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title VI, §§601(b), 602(a), 611(c)(1), (f)(1), (2), (g)(2), 641(e)(8), 642(a), (b)(2), (3), 643(c), 644(b), June 7, 2001, 115 Stat. 95, 97, 99, 121–123; Pub. L. 107–147, title IV, §411(i)(1), (j)(1), Mar. 9, 2002, 116 Stat. 46, 47; Pub. L. 108–311, title IV, §§404(d), 408(a)(12), (13), Oct. 4, 2004, 118 Stat. 1188, 1191; Pub. L. 109–280, title XII, §1201(a), Aug. 17, 2006, 120 Stat. 1063; Pub. L. 109–432, div. A, title III, §307(a), Dec. 20, 2006, 120 Stat. 2951; Pub. L. 110–172, §3(a), Dec. 29, 2007, 121 Stat. 2474; Pub. L. 110–343, div. C, title II, §205(a), Oct. 3, 2008, 122 Stat. 3865.)
+(Added Pub. L. 93–406, title II, §2002(b), Sept. 2, 1974, 88 Stat. 959; amended Pub. L. 94–455, title XV, §1501(b)(2), (5), (10), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1735–1737, 1834; Pub. L. 95–600, title I, §§152(a), (b), 156(c)(1), (3), 157(c)(1), (d)(1), (e)(1)(A), (g)(3), (h)(2), title VII, §703(c)(4), Nov. 6, 1978, 92 Stat. 2797, 2802, 2803, 2805, 2806, 2808, 2939; Pub. L. 96–222, title I, §101(a)(10)(A), (C), (F), (G), (J)(i), (14)(B), (E)(ii), Apr. 1, 1980, 94 Stat. 201–205; Pub. L. 96–605, title II, §225(b)(3), (4), Dec. 28, 1980, 94 Stat. 3529; Pub. L. 97–34, title III, §§311(g)(1)(A)–(C), (2), (h)(2), 312(b)(2), (c)(5), 313(b)(2), 314(b)(1), Aug. 13, 1981, 95 Stat. 281–284, 286; Pub. L. 97–248, title II, §§237(e)(3), 238(d)(3), (4), 243(a), (b)(1)(A), title III, §335(a)(1), Sept. 3, 1982, 96 Stat. 512, 513, 521, 522, 628; Pub. L. 97–448, title I, §103(d)(1), (e), Jan. 12, 1983, 96 Stat. 2378; Pub. L. 98–369, div. A, title I, §147(a), title IV, §491(d)(19)–(24), title V, §§521(b), 522(d)(12), title VII, §713(c)(2)(B), (f)(2), (5)(B), (g)(2), (j), July 18, 1984, 98 Stat. 687, 850, 867, 871, 957, 959, 960; Pub. L. 99–514, title XI, §§1102(a), (b)(2), (c), (e)(2), 1108(a), (d)–(g)(1), (4), (6), 1121(c)(2), 1122(e)(2)(B), 1123(d)(2), 1144(a), title XVIII, §§1852(a)(1), (5)(C), (7)(A), 1875(c)(6)(A), (8), 1898(a)(5), Oct. 22, 1986, 100 Stat. 2414–2416, 2431, 2433, 2434, 2465, 2470, 2475, 2490, 2864–2866, 2895, 2944; Pub. L. 100–647, title I, §§1011(b)(1)–(3), (c)(7)(C), (f)(1)–(5), (10), (i)(5), 1011A(a)(2)(A), 1018(t)(3)(D), title VI, §6057(a), Nov. 10, 1988, 102 Stat. 3456, 3458, 3461–3463, 3468, 3472, 3588, 3698; Pub. L. 101–239, title VII, §§7811(m)(7), 7841(a)(1), Dec. 19, 1989, 103 Stat. 2412, 2427; Pub. L. 102–318, title V, §521(b)(16)–(19), July 3, 1992, 106 Stat. 311; Pub. L. 103–66, title XIII, §13212(b), Aug. 10, 1993, 107 Stat. 472; Pub. L. 103–465, title VII, §732(d), Dec. 8, 1994, 108 Stat. 5005; Pub. L. 104–188, title I, §§1421(a), (b)(3)(B), (5), (6), (c), 1427(b)(3), 1431(c)(1)(B), 1455(b)(1), Aug. 20, 1996, 110 Stat. 1792, 1796–1798, 1802, 1803, 1817; Pub. L. 105–34, title III, §§302(d), 304(a), title XV, §1501(b), title XVI, §1601(d)(1)(A)–(C)(i), (D)–(G), Aug. 5, 1997, 111 Stat. 829, 831, 1058, 1087, 1088; Pub. L. 105–206, title VI, §§6015(a), 6016(a)(1), 6018(b), July 22, 1998, 112 Stat. 820–822; Pub. L. 106–554, §1(a)(7) \[title III, §319(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title VI, §§601(b), 602(a), 611(c)(1), (f)(1), (2), (g)(2), 641(e)(8), 642(a), (b)(2), (3), 643(c), 644(b), June 7, 2001, 115 Stat. 95, 97, 99, 121–123; Pub. L. 107–147, title IV, §411(i)(1), (j)(1), Mar. 9, 2002, 116 Stat. 46, 47; Pub. L. 108–311, title IV, §§404(d), 408(a)(12), (13), Oct. 4, 2004, 118 Stat. 1188, 1191; Pub. L. 109–280, title XII, §1201(a), Aug. 17, 2006, 120 Stat. 1063; Pub. L. 109–432, div. A, title III, §307(a), Dec. 20, 2006, 120 Stat. 2951; Pub. L. 110–172, §3(a), Dec. 29, 2007, 121 Stat. 2474; Pub. L. 110–343, div. C, title II, §205(a), Oct. 3, 2008, 122Stat. 3865; Pub. L. 111–312, title VII, §725(a), Dec. 17, 2010, 124 Stat. 3316.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -924,27 +924,29 @@ Paragraph (6) or (7) of section 101 of the Federal Credit Union Act, referred to
 
 #### Amendments
 
-2008—Subsec. (d)(8)(F). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2007”.
+<b>2010</b>—Subsec. (d)(8)(F). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”.
 
-2007—Subsec. (d)(8)(D). Pub. L. 110–172 substituted “all amounts in all individual retirement plans of the individual were distributed during such taxable year and all such plans were treated as 1 contract for purposes of determining under section 72 the aggregate amount which would have been so includible” for “all amounts distributed from all individual retirement plans were treated as 1 contract under paragraph (2)(A) for purposes of determining the inclusion of such distribution under section 72”.
+<b>2008</b>—Subsec. (d)(8)(F). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2007”.
 
-2006—Subsec. (d)(8). Pub. L. 109–280, which directed the amendment of section 408(d) by adding par. (8), without specifying the act to be amended, was executed by making the addition to this section, which is section 408 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
+<b>2007</b>—Subsec. (d)(8)(D). Pub. L. 110–172 substituted “all amounts in all individual retirement plans of the individual were distributed during such taxable year and all such plans were treated as 1 contract for purposes of determining under section 72 the aggregate amount which would have been so includible” for “all amounts distributed from all individual retirement plans were treated as 1 contract under paragraph (2)(A) for purposes of determining the inclusion of such distribution under section 72”.
+
+<b>2006</b>—Subsec. (d)(8). Pub. L. 109–280, which directed the amendment of section 408(d) by adding par. (8), without specifying the act to be amended, was executed by making the addition to this section, which is section 408 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
 Subsec. (d)(9). Pub. L. 109–432 added par. (9).
 
-2004—Subsec. (a)(1). Pub. L. 108–311, §408(a)(12), substituted “457(e)(16),” for “457(e)(16)”.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–311, §408(a)(12), substituted “457(e)(16),” for “457(e)(16)”.
 
 Subsec. (n)(2). Pub. L. 108–311, §408(a)(13), substituted “paragraph (6) or (7) of section 101” for “section 101(6)”.
 
 Subsec. (p)(6)(A)(i). Pub. L. 108–311, §404(d), inserted at end “For purposes of the preceding sentence, amounts described in section 6051(a)(3) shall be determined without regard to section 3401(a)(3).”
 
-2002—Subsec. (k)(2)(C). Pub. L. 107–147, §411(j)(1)(A), substituted “$450” for “$300”.
+<b>2002</b>—Subsec. (k)(2)(C). Pub. L. 107–147, §411(j)(1)(A), substituted “$450” for “$300”.
 
 Subsec. (k)(8). Pub. L. 107–147, §411(j)(1)(B), substituted “$450” for “$300” in two places.
 
 Subsec. (q)(3)(A). Pub. L. 107–147, §411(i)(1), reenacted heading without change and amended text of subpar. (A) generally. Prior to amendment, text read as follows: “The term ‘qualified employer plan’ has the meaning given such term by section 72(p)(4); except such term shall not include a government plan which is not a qualified plan unless the plan is an eligible deferred compensation plan (as defined in section 457(b)).”
 
-2001—Subsec. (a)(1). Pub. L. 107–16, §641(e)(8), substituted “403(b)(8), or 457(e)(16)” for “or 403(b)(8),”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–16, §641(e)(8), substituted “403(b)(8), or 457(e)(16)” for “or 403(b)(8),”.
 
 Pub. L. 107–16, §601(b)(1), substituted “on behalf of any individual in excess of the amount in effect for such taxable year under section 219(b)(1)(A)” for “in excess of $2,000 on behalf of any individual”.
 
@@ -988,9 +990,9 @@ Subsec. (p)(8). Pub. L. 107–16, §601(b)(5), substituted “the dollar amount 
 
 Subsecs. (q), (r). Pub. L. 107–16, §602(a), added subsec. (q) and redesignated former subsec. (q) as (r).
 
-2000—Subsec. (d)(5). Pub. L. 106–554 amended heading generally. Prior to amendment, heading read as follows: “Certain distributions of excess contributions after due date for taxable year”.
+<b>2000</b>—Subsec. (d)(5). Pub. L. 106–554 amended heading generally. Prior to amendment, heading read as follows: “Certain distributions of excess contributions after due date for taxable year”.
 
-1998—Subsec. (d)(7). Pub. L. 105–206, §6018(b)(2), inserted “or simple retirement accounts” after “pensions” in heading.
+<b>1998</b>—Subsec. (d)(7). Pub. L. 105–206, §6018(b)(2), inserted “or simple retirement accounts” after “pensions” in heading.
 
 Subsec. (d)(7)(B). Pub. L. 105–206, §6018(b)(1), inserted “or 402(k)” after “section 402(h)”.
 
@@ -998,13 +1000,13 @@ Subsec. (p)(2)(C)(i)(II). Pub. L. 105–206, §6016(a)(1)(C)(i), substituted “
 
 Subsec. (p)(2)(D)(i). Pub. L. 105–206, §6016(a)(1)(A), struck out “or (B)” after “(A)” in last sentence.
 
-Subsec. (p)(2)(D)(iii). Pub. L. 105–206, §6016(a)(1)(C)(ii), struck out heading and text of cl. (iii). Text read as follows: “In the case of an employer who establishes andmaintains a plan under this subsection for 1 or more years and who fails to meet any requirement of this subsection for any subsequent year due to any acquisition, disposition, or similar transaction involving another such employer, rules similar to the rules of section 410(b)(6)(C) shall apply for purposes of this subsection.”
+Subsec. (p)(2)(D)(iii). Pub. L. 105–206, §6016(a)(1)(C)(ii), struck out heading and text of cl. (iii). Text read as follows: “In the case of an employer who establishes and maintains a plan under this subsection for 1 or more years and who fails to meet any requirement of this subsection for any subsequent year due to any acquisition, disposition, or similar transaction involving another such employer, rules similar to the rules of section 410(b)(6)(C) shall apply for purposes of this subsection.”
 
 Subsec. (p)(8), (9). Pub. L. 105–206, §6015(a), redesignated par. (8), relating to matching contributions on behalf of self-employed individuals not treated as elective employer contributions, as (9).
 
 Subsec. (p)(10). Pub. L. 105–206, §6016(a)(1)(B), added par. (10).
 
-1997—Subsec. (i). Pub. L. 105–34, §1601(d)(1)(A), substituted “31 days” for “30 days” in concluding provisions.
+<b>1997</b>—Subsec. (i). Pub. L. 105–34, §1601(d)(1)(A), substituted “31 days” for “30 days” in concluding provisions.
 
 Pub. L. 105–34, §302(d), struck out “under regulations” after “may require” in introductory provisions and struck out “in such regulations” after “prescribes” in pars. (1) and (2)(B).
 
@@ -1030,7 +1032,7 @@ Subsec. (p)(8). Pub. L. 105–34, §1601(d)(1)(D), added par. (8) relating to co
 
 Pub. L. 105–34, §1501(b), added par. (8) relating to matching contributions on behalf of self-employed individuals not treated as elective employer contributions.
 
-1996—Subsec. (d)(3)(G). Pub. L. 104–188, §1421(b)(3)(B), added subpar. (G).
+<b>1996</b>—Subsec. (d)(3)(G). Pub. L. 104–188, §1421(b)(3)(B), added subpar. (G).
 
 Subsec. (d)(5)(A). Pub. L. 104–188, §1427(b)(3), substituted “the dollar amount in effect under section 219(b)(1)(A)” for “$2,250” in introductory provisions.
 
@@ -1046,13 +1048,13 @@ Subsec. (<i>l</i>). Pub. L. 104–188, §1421(b)(5), designated existing provisi
 
 Subsecs. (p), (q). Pub. L. 104–188, §1421(a), added subsec. (p) and redesignated former subsec. (p) as (q).
 
-1994—Subsec. (k)(8). Pub. L. 103–465 inserted before period at end “; except that any increase in the $300 amount which is not a multiple of $50 shall be rounded to the next lowest multiple of $50”.
+<b>1994</b>—Subsec. (k)(8). Pub. L. 103–465 inserted before period at end “; except that any increase in the $300 amount which is not a multiple of $50 shall be rounded to the next lowest multiple of $50”.
 
-1993—Subsec. (k)(3)(C), (6)(D)(ii). Pub. L. 103–66, §13212(b)(1), substituted “$150,000” for “$200,000”.
+<b>1993</b>—Subsec. (k)(3)(C), (6)(D)(ii). Pub. L. 103–66, §13212(b)(1), substituted “$150,000” for “$200,000”.
 
 Subsec. (k)(8). Pub. L. 103–66, §13212(b)(2), amended heading and text of par. (8) generally. Prior to amendment, text read as follows: “The Secretary shall adjust the $300 amount in paragraph (2)(C) and the $200,000 amount in paragraphs (3)(C) and (6)(D)(ii) at the same time and in the same manner as under section 415(d), except that in the case of years beginning after 1988, the $200,000 amount (as so adjusted) shall not exceed the amount in effect under section 401(a)(17).”
 
-1992—Subsec. (a)(1). Pub. L. 102–318, §521(b)(16), substituted “402(c)” for “402(a)(5), 402(a)(7)”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–318, §521(b)(16), substituted “402(c)” for “402(a)(5), 402(a)(7)”.
 
 Subsec. (d)(3)(A)(ii). Pub. L. 102–318, §521(b)(17), amended clause (ii) generally. Prior to amendment, clause (ii) read as follows: “the entire amount received (including money and any other property) represents the entire amount in the account or the entire value of the annuity and no amount in the account and no part of the value of the annuity is attributable to any source other than a rollover contribution of a qualified total distribution (as defined in section 402(a)(5)(E)(i)) from an employee's trust described in section 401(a) which is exempt from tax under section 501(a), or an annuity plan described in section 403(a) and any earnings on such sums and the entire amount thereof is paid into another such trust (for the benefit of such individual) or annuity plan not later than the 60th day on which he receives the payment or distribution; or”.
 
@@ -1060,11 +1062,11 @@ Subsec. (d)(3)(B). Pub. L. 102–318, §521(b)(18), struck out at end “Clause 
 
 Subsec. (d)(3)(F). Pub. L. 102–318, §521(b)(19), substituted “402(c)(7)” for “402(a)(6)(H)”.
 
-1989—Subsecs. (a)(6), (b)(3). Pub. L. 101–239, §7811(m)(7), struck out “(without regard to subparagraph (C)(ii) thereof)” after “section 401(a)(9)”.
+<b>1989</b>—Subsecs. (a)(6), (b)(3). Pub. L. 101–239, §7811(m)(7), struck out “(without regard to subparagraph (C)(ii) thereof)” after “section 401(a)(9)”.
 
 Subsec. (d)(6). Pub. L. 101–239, §7841(a)(1), substituted “his spouse or former spouse under a divorce or separation instrument described in subparagraph (A) of section 71(b)(2)” for “his former spouse under a divorce decree or under a written instrument incident to such divorce”.
 
-1988—Subsec. (d)(2)(C). Pub. L. 100–647, §1011(b)(1), substituted “in which the taxable year begins” for “with or within which the taxable year ends”.
+<b>1988</b>—Subsec. (d)(2)(C). Pub. L. 100–647, §1011(b)(1), substituted “in which the taxable year begins” for “with or within which the taxable year ends”.
 
 Subsec. (d)(3)(A). Pub. L. 100–647, §1011A(a)(2)(A), struck out at end “Clause (ii) shall not apply during the 5-year period beginning on the date of the qualified total distribution referred to in such clause if the individual was treated as a 5-percent owner with respect to such distribution under section 402(a)(5)(F)(ii).”
 
@@ -1072,7 +1074,7 @@ Subsec. (d)(3)(E). Pub. L. 100–647, §1018(t)(3)(D), substituted “paragraph�
 
 Subsec. (d)(4). Pub. L. 100–647, §1011(b)(2), substituted “Contributions” for “Excess contributions” in heading, struck out “to the extent that such contribution exceeds the amount allowable as a deduction under section 219” after “individual retirement annuity” in introductory provisions, and substituted “such contribution” for “such excess contribution” in subpars. (B) and (C) and in last sentence.
 
-Subsec. (d)(5). Pub. L. 100–647, §1011(b)(3), substituted “shall be computed without regard to section 219(g)” for “(after application of section 408(<i>o</i>)(2)(B)(ii)) shall be increased by the nondeductible limit under section 408(<i>o</i>)(2)(B)” in last sentence.
+Subsec. (d)(5). Pub. L. 100–647, §1011(b)(3), substituted “shall be computed without regard to section 219(g)”for “(after application of section 408(<i>o</i>)(2)(B)(ii)) shall be increased by the nondeductible limit under section 408(<i>o</i>)(2)(B)” in last sentence.
 
 Subsec. (d)(7). Pub. L. 100–647, §1011(f)(5), added par. (7).
 
@@ -1112,7 +1114,7 @@ Subsec. (m)(3). Pub. L. 100–647, §6057(a), amended par. (3) generally. Prior 
 
 Subsec. (<i>o</i>)(4)(B)(iv). Pub. L. 100–647, §1011(b)(1), substituted “in which the taxable year begins” for “with or within which the taxable year ends”.
 
-1986—Subsecs. (a)(6), (b)(3). Pub. L. 99–514, §1852(a)(1), substituted “(without regard to subparagraph (C)(ii) thereof) and the incidental death benefit requirements of section 401(a)” for “(relating to required distributions)”.
+<b>1986</b>—Subsecs. (a)(6), (b)(3). Pub. L. 99–514, §1852(a)(1), substituted “(without regard to subparagraph (C)(ii) thereof) and the incidental death benefit requirements of section 401(a)” for “(relating to required distributions)”.
 
 Subsec. (c)(1). Pub. L. 99–514, §1852(a)(7)(A), substituted “paragraphs (1) through (6)” for “paragraphs (1) through (7)”.
 
@@ -1160,7 +1162,7 @@ Pub. L. 99–514, §1108(g)(1)(A), substituted “any highly compensated employe
 
 &emsp;“(iv) highly compensated”.
 
-Subsec. (k)(3)(C). Pub. L. 99–514, §1108(g)(1)(B), inserted “and except as provided in subparagraph (D),”and “(other than contributions under an arrangement described in paragraph (6))”, and struck out end sentence which read as follows: “The Secretary shall annually adjust the $200,000 amount contained in the preceding sentence at the same time and in the same manner as he adjusts the dollar amount contained in section 415(c)(1)(A).”
+Subsec. (k)(3)(C). Pub. L. 99–514, §1108(g)(1)(B), inserted “and except as provided in subparagraph (D),” and “(other than contributions under an arrangement described in paragraph (6))”, and struck out end sentence which read as follows: “The Secretary shall annually adjust the $200,000 amount contained in the preceding sentence at the same time and in the same manner as he adjusts the dollar amount contained in section 415(c)(1)(A).”
 
 Subsec. (k)(3)(D), (E). Pub. L. 99–514, §1108(g)(1)(C), added subpar. (D) and struck out former subpar. (D), treatment of certain contributions and taxes, which read “Except as provided in this subparagraph, employer contributions do not meet the requirements of this paragraph unless such contributions meet the requirements of this paragraph without taking into account contributions or benefits under chapter 2 (relating to tax on self-employment income), chapter 21 (relating to Federal Insurance Contribution Act), title II of the Social Security Act, or any other Federal or State law. If the employer does not maintain an integrated plan at any time during the taxable year, OASDI contributions (as defined in section 401(<i>l</i>)(2)) may, for purposes of this paragraph, be taken into account as contributions by the employer to the employee's simplified employee pension, but only if such contributions are so taken into account with respect to each employee maintaining a simplified employee pension.”, and former subpar. (E), integrated plan defined, which read “For purposes of subparagraph (D), the term ‘integrated plan’ means a plan which meets the requirements of section 401(a) or 403(a) but would not meet such requirements if contributions or benefits under chapter 2 (relating to tax on self-employment income), chapter 21 (relating to Federal Insurance Contributions Act), title II of the Social Security Act, or any other Federal or State law were not taken into account.”
 
@@ -1176,7 +1178,7 @@ Subsec. (m)(3). Pub. L. 99–514, §1144(a), added par. (3).
 
 Subsecs. (<i>o</i>), (p). Pub. L. 99–514, §1102(a), added subsec. (<i>o</i>) and redesignated former subsec. (<i>o</i>) as (p).
 
-1984—Subsec. (a)(1). Pub. L. 98–369, §491(d)(19), substituted “or 403(b)(8)” for “403(b)(8), 405(d)(3), or 409(b)(3)(C)”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–369, §491(d)(19), substituted “or 403(b)(8)” for “403(b)(8), 405(d)(3), or 409(b)(3)(C)”.
 
 Subsec. (a)(6). Pub. L. 98–369, §521(b)(1), added par. (6) and struck out former par. (6) which provided that the entire interest of an individual for whose benefit the trust is maintained will be distributed to him not later than the close of his taxable year in which he attains age 701/2, or will be distributed, commencing before the close of such taxable year, in accordance with regulations prescribed by the Secretary, over (A) the life of such individual or the lives of such individual and his spouse, or (B) a period not extending beyond the life expectancy of such individual or the life expectancy of such individual and his spouse.
 
@@ -1210,13 +1212,13 @@ Subsec. (k)(3)(D). Pub. L. 98–369, §713(j), substituted in penultimate senten
 
 Subsec. (k)(3)(E). Pub. L. 98–369, §491(d)(24), substituted “or 403(a)” for “, 403(a), or 405(a)”.
 
-1983—Subsec. (j). Pub. L. 97–448, §103(d)(1)(B), substituted “$17,000” for “$15,000” in provisions preceding par. (1).
+<b>1983</b>—Subsec. (j). Pub. L. 97–448, §103(d)(1)(B), substituted “$17,000” for “$15,000” in provisions preceding par. (1).
 
 Subsec. (k)(3)(C)(ii). Pub. L. 97–448, §103(d)(1)(A), inserted “(other than an employee within the meaning of section 401(c)(1))” after “a simplified employee pension on behalf of each employee”.
 
 Subsecs. (m), (n). Pub. L. 97–448, §103(e)(1), amended directory language of Pub. L. 97–34, §314(b)(1), thereby correcting subsec. designations. See 1981 Amendment note below for subsecs. (m) and (n).
 
-1982—Subsec. (a)(2). Pub. L. 97–248, §237(e)(3)(A), substituted reference to subsection (n) of this section, for reference to section 401(d)(1).
+<b>1982</b>—Subsec. (a)(2). Pub. L. 97–248, §237(e)(3)(A), substituted reference to subsection (n) of this section, for reference to section 401(d)(1).
 
 Subsec. (a)(7). Pub. L. 97–248, §243(a)(1), amended par. (7) generally, designating existing provisions as subpars. (A) and (B), in subpar. (B), as so designated, striking out “if” before “distribution”, in provisions following subpar. (B) substituting “will be distributed within 5 years after his death (or the death of the surviving spouse)” for “will, within 5 years after his death (or the death of the surviving spouse), be distributed, or applied to the purchase of an immediate annuity for his beneficiary or beneficiaries (or the beneficiary or beneficiaries of his surviving spouse) which will be payable for the life of such beneficiary or beneficiaries (or for a term certain not extending beyond the life expectancy of such beneficiary or beneficiaries) and which annuity will be immediately distributed to such beneficiary or beneficiaries”, and substituting “shall not apply” for “does not apply”.
 
@@ -1236,7 +1238,7 @@ Subsec. (k)(6). Pub. L. 97–248, §238(d)(4)(A), struck out par. (6) which rela
 
 Subsecs. (n), (<i>o</i>). Pub. L. 97–248, §237(e)(3)(B), added subsec. (n) and redesignated former subsec. (n) as (<i>o</i>).
 
-1981—Subsec. (a)(1). Pub. L. 97–34, §313(b)(2), inserted reference to section 405(d)(3).
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–34, §313(b)(2), inserted reference to section 405(d)(3).
 
 Pub. L. 97–34, §311(g)(1)(A), substituted “$2,000” for “$1,500”.
 
@@ -1256,7 +1258,7 @@ Subsec. (k)(3)(C). Pub. L. 97–34, §312(b)(2), designated provision relating t
 
 Subsecs. (m), (n). Pub. L. 97–34, §314(b)(1), as amended by Pub. L. 97–448, §103(e)(1), added subsec. (m) and redesignated former subsec. (m) as (n).
 
-1980—Subsec. (a)(1). Pub. L. 96–222, §101(a)(14)(B), inserted reference to section 402(a)(7).
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–222, §101(a)(14)(B), inserted reference to section 402(a)(7).
 
 Subsec. (d)(5). Pub. L. 96–222, §101(a)(10)(C), (14)(E)(ii), in subpar. (A) inserted provisions requiring that if employer contributions on behalf of the individual are paid for the taxable year to a simplified employee pension, the dollar amount of the preceding sentence be increased by the lessor of the amount of such contributions or $7,500 and restructured subpar. (B).
 
@@ -1266,7 +1268,7 @@ Subsec. (k). Pub. L. 96–222, §101(a)(10)(A), (F), (G), substituted in par. (1
 
 Subsec. (k)(2), (3)(B)(i). Pub. L. 96–605, §225(b)(3), (4), substituted “section 410(b)(3)” for “section 410(b)(2)”.
 
-1978—Subsec. (a)(1). Pub. L. 95–600, §156(c)(3), inserted reference to section 403(b)(8).
+<b>1978</b>—Subsec. (a)(1). Pub. L. 95–600, §156(c)(3), inserted reference to section 403(b)(8).
 
 Subsec. (b)(2). Pub. L. 95–600, §157(d)(1), (e)(1)(A), designated existing provisions as subpars. (B) and (C) and added subpar. (A), and in subpar. (B) as so designated, inserted “on behalf of any individual” after “annual premium”, respectively.
 
@@ -1280,7 +1282,7 @@ Subsec. (d)(5), (6). Pub. L. 95–600, §157(c)(1), added par. (5) and redesigna
 
 Subsecs. (j) to (m). Pub. L. 95–600, §152(a), added subsecs. (j) to (<i>l</i>) and redesignated former subsec. (j) as (m).
 
-1976—Subsecs. (a)(2), (6), (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (a)(2), (6), (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (c)(2). Pub. L. 94–455, §1501(b)(2), substituted “member (or spouse of an employee or member)” for “member”.
 
@@ -1289,6 +1291,18 @@ Subsec. (d)(1). Pub. L. 94–455, §1501(b)(10), substituted “Notwithstanding 
 Subsec. (d)(4). Pub. L. 94–455, §1501(b)(5), as amended by Pub. L. 95–600, §703(c)(4), inserted reference to section 220 and substituted “In the case of such a distribution, for purposes of section 61, any net income described in subparagraph (C) shall be deemed to have been earned and receivable in the taxable year in which such excess contribution is made” for “Any net income described in subparagraph (C) shall be included in the gross income of the individual for the taxable year in which received”.
 
 Subsecs. (h), (i). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–312, title VII, §725(b), Dec. 17, 2010, 124 Stat. 3316, provided that:
+
+“(1)
+
+Effective date.—The amendment made by this section \[amending this section\] shall apply to distributions made in taxable years beginning after December 31, 2009.
+
+“(2)
+
+Special rule.—For purposes of subsections (a)(6), (b)(3), and (d)(8) of section 408 of the Internal Revenue Code of 1986, at the election of the taxpayer (at such time and in such manner as prescribed by the Secretary of the Treasury) any qualified charitable distribution made after December 31, 2010, and before February 1, 2011, shall be deemed to have been made on December 31, 2010.”
 
 #### Effective Date of 2008 Amendment
 
@@ -1338,7 +1352,7 @@ Amendment by section 644(b) of Pub. L. 107–16 applicable to distributions afte
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 6018(b) of Pub. L. 105–206 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which such amendment relates, see section 6018(h) of Pub. L. 105–206, set out as a note under section 23 of this title.
+Amendment by section 6018(b) of Pub. L. 105–206 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which such amendment relates, see section 6018(h) of Pub. L. 105–206, set out as a note under section 36C of this title.
 
 Amendment by sections 6015(a) and 6016(a)(1) of Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
@@ -1350,7 +1364,7 @@ Section 304(b) of Pub. L. 105–34 provided that: “The amendment made by this 
 
 Section 1501(c)(2) of Pub. L. 105–34 provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to years beginning after December 31, 1996.”
 
-Amendment by section 1601(d)(1)(A)–(C)(i), (D)–(G) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+Amendment by section 1601(d)(1)(A)–(C)(i), (D)–(G) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -1376,7 +1390,7 @@ Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, 
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7811(m)(7) of Pub. L. 101–239 effective, except as otherwise provided, as if included inthe provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by section 7811(m)(7) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 Section 7841(a)(3) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amending this section and section 414 of this title\] shall apply to transfers after the date of the enactment of this Act \[Dec. 19, 1989\] in taxable years ending after such date.”
 
@@ -1436,7 +1450,7 @@ Section 335(b) of Pub. L. 97–248 provided that: “The amendments made by subs
 
 #### Effective Date of 1981 Amendment
 
-Amendment by section 311(g)(1)(A)–(C), (2), (h)(2) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 311(i) of Pub. L. 97–34, set out as a note under section 219 of this title.
+Amendment by section 311(g)(1)(A)–(C), (2), (h)(2) of Pub. L. 97–34 applicable to taxable years beginningafter Dec. 31, 1981, see section 311(i) of Pub. L. 97–34, set out as a note under section 219 of this title.
 
 Amendment by section 312(b)(2), (c)(5) of Pub. L. 97–34 applicable to plans which include employees within the meaning of section 401(c)(1) with respect to taxable years beginning after Dec. 31, 1981, see section 312(f) of Pub. L. 97–34, set out as a note under section 72 of this title.
 

@@ -16,7 +16,7 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this A
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102–511 struck out subsec. (c) which read as follows: “Training hereinabove provided for shall include instruction in the philosophy, strategy, tactics, and menace of communism.”
+<b>1992</b>—Subsec. (c). Pub. L. 102–511 struck out subsec. (c) which read as follows: “Training hereinabove provided for shall include instruction in the philosophy, strategy, tactics, and menace of communism.”
 
 #### Delegation of Functions
 

@@ -50,7 +50,7 @@ In subsection (c), the words “duties and powers” are substituted for “auth
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–71, §101(f)(7), (9), substituted “Under Secretary” for “Administrator” wherever appearing and “of Transportation for Security” for “of the Federal Aviation Administration”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–71, §101(f)(7), (9), substituted “Under Secretary” for “Administrator” wherever appearing and “of Transportation for Security” for “of the Federal Aviation Administration”.
 
 Subsec. (b). Pub. L. 107–71, §101(f)(4), substituted “Under Secretary” for “Assistant Administrator for Civil Aviation Security” in introductory provisions.
 

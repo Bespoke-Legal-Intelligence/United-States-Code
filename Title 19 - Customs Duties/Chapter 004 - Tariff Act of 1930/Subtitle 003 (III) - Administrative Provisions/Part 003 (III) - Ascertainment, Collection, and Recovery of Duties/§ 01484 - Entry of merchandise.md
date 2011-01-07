@@ -42,7 +42,7 @@ The Customs Service may permit the entry and release of merchandise from customs
 
 #### (e) Production of invoice
 
-The Secretary may provide by regulation for the production of an invoice, parts thereof, or the electronic equivalents thereof, in such manner and form, and under such terms and conditions, as the Secretary considers necessary.
+The Secretary may provide by regulation for the production of an invoice, parts thereof, orthe electronic equivalents thereof, in such manner and form, and under such terms and conditions, as the Secretary considers necessary.
 
 #### (f) Statistical enumeration
 
@@ -92,7 +92,7 @@ In the case of merchandise that is purchased and invoiced as a single entity but
 
 > the Customs Service may, upon application by an importer in advance, treat such separate shipments for entry purposes as a single transaction.
 
-(June 17, 1930, ch. 497, title IV, §484, 46 Stat. 722; June 25, 1938, ch. 679, §12, 52 Stat. 1083; Aug. 8, 1953, ch. 397, §§3(b), 16(b), (c), 67 Stat. 509, 517; Pub. L. 91–271, title III, §301(i), June 2, 1970, 84 Stat. 288; Pub. L. 93–618, title VI, §608(a), Jan. 3,1975, 88 Stat. 2073; Pub. L. 95–106, §4, Aug. 17, 1977, 91 Stat. 869; Pub. L. 95–410, title I, §102(a), Oct. 3, 1978, 92 Stat. 888; Pub. L. 97–446, title II, §201(d), Jan. 12, 1983, 96 Stat. 2349; Pub. L. 103–182, title VI, §637(a), Dec. 8, 1993, 107 Stat. 2200; Pub. L. 104–153, §12, July 2, 1996, 110 Stat. 1389; Pub. L. 104–295, §§18(b), 21(e)(6), Oct. 11, 1996, 110 Stat. 3524, 3531; Pub. L. 106–200, title IV, §410(a), May 18, 2000, 114 Stat. 297; Pub. L. 106–476, title I, §1460(a), Nov. 9, 2000, 114 Stat. 2171; Pub. L. 108–429, title II, §2101, Dec. 3, 2004, 118 Stat. 2597; Pub. L. 109–280, title XIV, §1635(a), Aug. 17, 2006, 120 Stat. 1170.)
+(June 17, 1930, ch. 497, title IV, §484, 46 Stat. 722; June 25, 1938, ch. 679, §12, 52 Stat. 1083; Aug. 8, 1953, ch. 397, §§3(b), 16(b), (c), 67 Stat. 509, 517; Pub. L. 91–271, title III, §301(i), June 2, 1970, 84 Stat. 288; Pub. L. 93–618, title VI, §608(a), Jan. 3, 1975, 88 Stat. 2073; Pub. L. 95–106, §4, Aug. 17, 1977, 91 Stat. 869; Pub. L. 95–410, title I, §102(a), Oct. 3, 1978, 92 Stat. 888; Pub. L. 97–446, title II, §201(d), Jan. 12, 1983, 96 Stat. 2349; Pub. L. 103–182, title VI, §637(a), Dec. 8, 1993, 107 Stat. 2200; Pub. L. 104–153, §12, July 2, 1996, 110 Stat. 1389; Pub. L. 104–295, §§18(b), 21(e)(6), Oct. 11, 1996, 110 Stat. 3524, 3531; Pub. L. 106–200, title IV, §410(a), May 18, 2000, 114 Stat. 297; Pub. L. 106–476, title I, §1460(a), Nov. 9, 2000, 114 Stat. 2171; Pub. L. 108–429, title II, §2101, Dec. 3, 2004, 118 Stat. 2597; Pub. L. 109–280, title XIV, §1635(a), Aug. 17, 2006, 120 Stat. 1170.)
 
 #### References in Text
 
@@ -118,7 +118,7 @@ Prior provisions on the subject of subsequent entry of part of merchandise and s
 
 #### Amendments
 
-2006—Subsec. (a)(1)(A). Pub. L. 109–280, §1635(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “make entry therefor by filing with the Customs Service—
+<b>2006</b>—Subsec. (a)(1)(A). Pub. L. 109–280, §1635(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “make entry therefor by filing with the Customs Service—
 
 &emsp;“(i) such documentation or, pursuant to an electronic data interchange system, such information as is necessary to enable the Customs Service to determine whether the merchandise may be released from customs custody, and
 
@@ -126,25 +126,25 @@ Prior provisions on the subject of subsequent entry of part of merchandise and s
 
 Subsec. (a)(2)(A). Pub. L. 109–280, §1635(a)(2), inserted “merchandise released under a special delivery permit pursuant to section 1448(b) of this title and” after “covering” in second sentence.
 
-2004—Subsec. (a)(1)(B). Pub. L. 108–429, §2101(a)(1), inserted “, or substitute 1 or more reconfigured entries on an import activity summary statement,” after “entry” in introductory provisions.
+<b>2004</b>—Subsec. (a)(1)(B). Pub. L. 108–429, §2101(a)(1), inserted “, or substitute 1 or more reconfigured entries on an import activity summary statement,” after “entry” in introductory provisions.
 
 Subsec. (a)(2)(A). Pub. L. 108–429, §2101(a)(2), in second sentence, inserted “and permit the filing of reconfigured entries,” after “statements,” and, at end, inserted “Entries filed under paragraph (1)(A) shall not be liquidated if covered by an import activity summary statement, but instead each reconfigured entry in the import activity summary statement shall be subject to liquidation or reliquidation pursuant to section 1500, 1501, or 1504 of this title.”
 
 Subsec. (b)(1). Pub. L. 108–429, §2101(b), substituted “21 months” for “15 months” in fourth sentence.
 
-2000—Subsec. (i). Pub. L. 106–200 added subsec. (i).
+<b>2000</b>—Subsec. (i). Pub. L. 106–200 added subsec. (i).
 
 Subsec. (j). Pub. L. 106–476 added subsec. (j).
 
-1996—Subsec. (a)(1). Pub. L. 104–295, §21(e)(6), substituted “and 1553” for “1553, and 1336(j)”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–295, §21(e)(6), substituted “and 1553” for “1553, and 1336(j)”.
 
-Subsec. (b)(1). Pub. L. 104–295, §18(b), substituted “A party may elect to file a reconciliation with regard to such entry elements as are identified by the party pursuant to regulations prescribed by the Secretary. If the party so elects, the party shall declare that a reconciliation will be filed. The declaration shall be made in such manner as the Secretary shall prescribe and at the time the documentation or information required by subsection (a)(1)(B) of this section or the import activity summary statement is filed with, or transmitted to, the Customs Service, or at such later time as the Customs Service may, in its discretion, permit. The reconciliation shall be filed by the importer of record at such time and in such manner as the Secretary prescribes but not later than 15 months after the date theimporter declares his intent to file the reconciliation. In the case of reconciling issues relating to the assessment of antidumping and countervailing duties, the reconciliation shall be filed not later than 90 days after the date the Customs Service advises the importer that the period of review for antidumping or countervailing duty purposes has been completed.” for “A party that electronically transmits an entry summary or import activity summary statement may at the time of filing such summary or statement notify the Customs Service of his intention to file a reconciliation pursuant to such regulations as the Secretary may prescribe. Such reconciliation must be filed by the importer of record within such time period as is prescribed by regulation but no later than 15 months following the filing of the entry summary or import activity summary statement; except that the prescribed time period for reconciliation issues relating to the assessment of antidumping and countervailing duties shall require filing no later than 90 days after the Customs Service advises the importer that a period of review for antidumping or countervailing duty purposes has been completed.”
+Subsec. (b)(1). Pub. L. 104–295, §18(b), substituted “A party may elect to file a reconciliation with regard to such entry elements as are identified by the party pursuant to regulations prescribed by the Secretary. If the party so elects, the party shall declare that a reconciliation will be filed. The declaration shall be made in such manner as the Secretary shall prescribe and at the time the documentation or information required by subsection (a)(1)(B) of this section or the import activity summary statement is filed with, or transmitted to, the Customs Service, or at such later time as the Customs Service may, in its discretion, permit. The reconciliation shall be filed by the importer of record at such time and in such manner as the Secretary prescribes but not later than 15 months after the date the importer declares his intent to file the reconciliation. In the case of reconciling issues relating to the assessment of antidumping and countervailing duties, the reconciliation shall be filed not later than 90 days after the date the Customs Service advises the importer that the period of review for antidumping or countervailing duty purposes has been completed.” for “A party that electronically transmits an entry summary or import activity summary statement may at the time of filing such summary or statement notify the Customs Service of his intention to file a reconciliation pursuant to such regulations as the Secretary may prescribe. Such reconciliation must be filed by the importer of record within such time period as is prescribed by regulation but no later than 15 months following the filing of the entry summary or import activity summary statement; except that the prescribed time period for reconciliation issues relating to the assessment of antidumping and countervailing duties shall require filing no later than 90 days after the Customs Service advises the importer that a period of review for antidumping or countervailing duty purposes has been completed.”
 
 Subsec. (d). Pub. L. 104–153 designated existing provisions as par. (1) and added par. (2).
 
-1993—Pub. L. 103–182 amended section generally, substituting present provisions for provisions relating to entry of merchandise and providing specifically for requirement and time, production of certified invoice, production of bill of lading, signing and contents of entry, statistical enumeration, packages included, statement of cost of production, certification of owner by carrier, acceptance of duplicate bill of lading, and release of merchandise from customs custody.
+<b>1993</b>—Pub. L. 103–182 amended section generally, substituting present provisions for provisions relating to entry of merchandise and providing specifically for requirement and time, production of certified invoice, production of bill of lading, signing and contents ofentry, statistical enumeration, packages included, statement of cost of production, certification of owner by carrier, acceptance of duplicate bill of lading, and release of merchandise from customs custody.
 
-1983—Subsec. (a)(1). Pub. L. 97–446, §201(d)(1)(A), substituted “one of the parties qualifying as ‘importer of record’ under paragraph (2)(C) of this subsection” for “the consignee of imported merchandise”, and “authorized by him” for “authorized by the consignee”.
+<b>1983</b>—Subsec. (a)(1). Pub. L. 97–446, §201(d)(1)(A), substituted “one of the parties qualifying as ‘importer of record’ under paragraph (2)(C) of this subsection” for “the consignee of imported merchandise”, and “authorized by him” for “authorized by the consignee”.
 
 Subsec. (a)(2)(C), (D). Pub. L. 97–446, §201(d)(1)(B), (C), added subpar. (C), redesignated former subpar. (C) as (D), and in subpar. (D) as so redesignated substituted “importers of record” for “consignees” after “treatment of all”.
 
@@ -156,17 +156,17 @@ Subsec. (h). Pub. L. 97–446, §201(d)(3), substituted provision relating to au
 
 Subsec. (i). Pub. L. 97–446, §201(d)(3), substituted provision authorizing appropriate customs officer to accept a duplicate bill of lading, for provision that any person might, upon the production of a duplicate bill of lading signed or certified to be genuine by the carrier bringing the merchandise to the port at which entry was to be made, make entry for the merchandise in respect to which such bill of lading was issued, in the manner and subject to the requirements prescribed in this section (or in regulations promulgated hereunder) in the case of a consignee within the meaning of paragraph (1) of section 1483 of this title, except that such person was to make such entry in his own name.
 
-1978—Subsec. (a). Pub. L. 95–410, §102(a)(1), incorporated first sentence in introductory text of par. designated (1), added subpars. (A) and (B) and par. (2), and struck out second sentence which required the entry to be made at the customhouse within five days, exclusive of Sundays and holidays, after the entry of the importing vessel or report of the vehicle, or after the arrival at the port of destination in the case of merchandise transported in bond, unless the appropriate customs officer authorized in writing a longer time.
+<b>1978</b>—Subsec. (a). Pub. L. 95–410, §102(a)(1), incorporated first sentence in introductory text of par. designated (1), added subpars. (A) and (B) and par. (2), and struck out second sentence which required the entry to be made at the customhouse within five days, exclusive of Sundays and holidays, after the entry of the importing vessel or report of the vehicle, or after the arrival at the port of destination in the case of merchandise transported in bond, unless the appropriate customs officer authorized in writing a longer time.
 
 Subsec. (c)(3). Pub. L. 95–410, §102(a)(2), substituted “subsection” for “subdivision”.
 
 Subsec. (j). Pub. L. 95–410, §102(a)(3), struck out “The custom officer shall return to the person making entry the bill of lading (if any is produced) with a notation thereon to the effect that entry for such merchandise has been made.”
 
-1977—Subsec. (e). Pub. L. 95–106 substituted “production and programs for achieving international harmonization of trade statistics,” for “production,”.
+<b>1977</b>—Subsec. (e). Pub. L. 95–106 substituted “production and programs for achieving international harmonization of trade statistics,” for “production,”.
 
-1975—Subsec. (e). Pub. L. 93–618 substituted “United States International Trade Commission” for “United States Tariff Commission” and inserted references to an enumeration of articles exported from the United States and, in conjunction with statistical programs for domestic production, to the establishment of the comparability thereof with the enumeration of articles.
+<b>1975</b>—Subsec. (e). Pub. L. 93–618 substituted “United States International Trade Commission” for “United States Tariff Commission” and inserted references to an enumeration of articles exported from the United States and, in conjunction with statistical programs for domestic production, to the establishment of the comparability thereof with the enumeration of articles.
 
-1970—Subsec. (a). Pub. L. 91–271, §301(i)(1), substituted reference to appropriate customs officer for reference to collector.
+<b>1970</b>—Subsec. (a). Pub. L. 91–271, §301(i)(1), substituted reference to appropriate customs officer for reference to collector.
 
 Subsec. (c). Pub. L. 91–271, §301(i)(2), (3), substituted references to appropriate customs officer or such customs officer for references to collector wherever appearing.
 
@@ -174,13 +174,13 @@ Subsec. (g). Pub. L. 91–271, §301(i)(4), substituted reference to appropriate
 
 Subsec. (j). Pub. L. 91–271, §301(i)(5), (6), substituted references to customs officer or such customs officer for references to collector wherever appearing.
 
-1953—Subsec. (a). Act Aug. 8, 1953, §16(b), substituted “five days” for “forty-eight hours”.
+<b>1953</b>—Subsec. (a). Act Aug. 8, 1953, §16(b), substituted “five days” for “forty-eight hours”.
 
 Subsec. (b). Act Aug. 8, 1953, §16(c), granted the Secretary of the Treasury discretion to require certified invoices with respect to merchandise entered as he deems advisable and to establish terms under which merchandise may be imported without a certified invoice, in lieu of former provision that all such merchandise should be accompanied by an invoice certified by a United States consulate except in certain enumerated situations, and of the former provision that the Secretary might grant certain other exceptions.
 
 Subsec. (f). Act Aug. 8, 1953, §3(b), inserted provision relating to acceptance at port of entry designated by consignee or his agent in cases of articles not subject to a quantitative or tariff-rate quota.
 
-1938—Subsec. (f). Act June 25, 1938, inserted provision relating to authorization by the Secretary for inclusion of portions of merchandise in separate entries under such rules and regulations as he may prescribe.
+<b>1938</b>—Subsec. (f). Act June 25, 1938, inserted provision relating to authorization by the Secretary for inclusion of portions of merchandise in separate entries under such rules and regulations as he may prescribe.
 
 #### Effective Date of 2006 Amendment
 
@@ -322,7 +322,7 @@ Definitions.—In this section:
 
 &emsp;“(1)
 
-Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
+Appropriate congressional committees.—The term ‘appropriate congressional committees’ meansthe Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
 
 &emsp;“(2)
 

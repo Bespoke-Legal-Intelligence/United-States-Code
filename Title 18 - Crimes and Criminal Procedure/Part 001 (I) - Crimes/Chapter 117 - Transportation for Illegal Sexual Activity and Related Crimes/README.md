@@ -15,15 +15,15 @@
 
 #### Amendments
 
-2006—Pub. L. 109–164, title I, §103(d)(2), Jan. 10, 2006, 119 Stat. 3563, added item 2428.
+<b>2006</b>—Pub. L. 109–164, title I, §103(d)(2), Jan. 10, 2006, 119 Stat. 3563, added item 2428.
 
-1998—Pub. L. 105–314, title I, §§101(b), 104(b), 105(b), Oct. 30, 1998, 112 Stat. 2975–2977, added items 2425, 2426, and 2427.
+<b>1998</b>—Pub. L. 105–314, title I, §§101(b), 104(b), 105(b), Oct. 30, 1998, 112 Stat. 2975–2977, added items 2425, 2426, and 2427.
 
-1988—Pub. L. 100–690, title VII, §7071, Nov. 18, 1988, 102 Stat. 4405, substituted “individual” for “female” in item 2424.
+<b>1988</b>—Pub. L. 100–690, title VII, §7071, Nov. 18, 1988, 102 Stat. 4405, substituted “individual” for “female” in item 2424.
 
-1986—Pub. L. 99–628, §5(a)(1), (b)(2), Nov. 7, 1986, 100 Stat. 3511, substituted “TRANSPORTATION FOR ILLEGAL SEXUAL ACTIVITY AND RELATED CRIMES” for “WHITE SLAVE TRAFFIC” as chapter heading and substituted “and enticement” for “or enticement of female” in item 2422.
+<b>1986</b>—Pub. L. 99–628, §5(a)(1), (b)(2), Nov. 7, 1986, 100 Stat. 3511, substituted “TRANSPORTATION FOR ILLEGAL SEXUAL ACTIVITY AND RELATED CRIMES” for “WHITE SLAVE TRAFFIC” as chapter heading and substituted “and enticement” for “or enticement of female” in item 2422.
 
-1978—Pub. L. 95–225, §3(b), Feb. 6, 1978, 92 Stat. 9, substituted “Transportation of minors” for “Coercion or enticement of minor female” in item 2423.
+<b>1978</b>—Pub. L. 95–225, §3(b), Feb. 6, 1978, 92 Stat. 9, substituted “Transportation of minors” for “Coercion or enticement of minor female” in item 2423.
 
 
 ---

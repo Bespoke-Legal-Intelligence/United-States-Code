@@ -12,7 +12,7 @@ Each regulated person who imports or exports a listed chemical shall notify the 
 
 #### (c) Suspension of importation or exportation; disqualification of regular customers or importers; hearing
 
-(1) The Attorney General may order the suspension of any importation or exportation of a listed chemical (other than a regulated transaction to which the requirement of subsection (a) of this section does not apply by reason of subsection (b) of this section) or may disqualify any regular customer or regular importer on the ground that the chemical may be diverted to the clandestine manufacture of a controlled substance (without regard to the form of the chemical that may be diverted, including the diversion of a finished drug product to be manufactured from bulk chemicals to be transferred). From and after the time when the Attorney General provides written notice of the order (including a statement of the legal and factualbasis for the order) to the regulated person, the regulated person may not carry out the transaction.
+(1) The Attorney General may order the suspension of any importation or exportation of a listed chemical (other than a regulated transaction to which the requirement of subsection (a) of this section does not apply by reason of subsection (b) of this section) or may disqualify any regular customer or regular importer on the ground that the chemical may be diverted to the clandestine manufacture of a controlled substance (without regard to the form of the chemical that may be diverted, including the diversion of a finished drug product to be manufactured from bulk chemicals to be transferred). From and after the time when the Attorney General provides written notice of the order (including a statement of the legal and factual basis for the order) to the regulated person, the regulated person may not carry out the transaction.
 
 (2) Upon written request to the Attorney General, a regulated person to whom an order applies under paragraph (1) is entitled to an agency hearing on the record in accordance with subchapter II of chapter 5 of title 5. The hearing shall be held on an expedited basis and not later than 45 days after the request is made, except that the hearing may be held at a later time, if so requested by the regulated person.
 
@@ -54,7 +54,7 @@ A person located in the United States who is a broker or trader for an internati
 
 (2) The Attorney General may by regulation waive the 15-day notification requirement for exports of a listed chemical to a specified country if the Attorney General determines that such notification is not required for effective chemical diversion control. If the notification requirement is waived, exporters of the listed chemical shall be required to submit to the Attorney General reports of individual exportations or periodic reports of such exportation of the listed chemical, at such time or times and containing such information as the Attorney General shall establish by regulation.
 
-(3) The Attorney General may by regulation waive the 15-day notification requirement forthe importation of a listed chemical if the Attorney General determines that such notification is not necessary for effective chemical diversion control. If the notification requirement is waived, importers of the listed chemical shall be required to submit to the Attorney General reports of individual importations or periodic reports of the importation of the listed chemical, at such time or times and containing such information as the Attorney General shall establish by regulation.
+(3) The Attorney General may by regulation waive the 15-day notification requirement for the importation of a listed chemical if the Attorney General determines that such notification is not necessary for effective chemical diversion control. If the notification requirement is waived, importers of the listed chemical shall be required to submit to the Attorney General reports of individual importations or periodic reports of the importation of the listed chemical, at such time or times and containing such information as the Attorney General shall establish by regulation.
 
 #### (g) Return declaration
 
@@ -66,13 +66,13 @@ Within 30 days after a transaction covered by this section is completed, the imp
 
 (2) For the purpose of preventing or responding to the diversion of ephedrine, pseudoephedrine, or phenylpropanolamine for use in the illicit production of methamphetamine, the Attorney General may, in the case of any person who is a manufacturer or distributor of such chemical in the chain of distribution referred to in paragraph (1) (which person is referred to in this subsection as a “foreign-chain distributor”), request that such distributor provide to the Attorney General information known to the distributor on the distribution of the chemical, including sales.
 
-(3) If the Attorney General determines that a foreign-chain distributor is refusing to cooperate with the Attorney General in obtaining the information referred to in paragraph (2), the Attorney General may, in accordance with procedures that apply under subsection (c), issue an order prohibiting the importation of ephedrine, pseudoephedrine, or phenylpropanolamine in any case in which such distributor is part of the chain of distribution for such chemical. Not later than 60 days prior to issuing the order, the Attorney General shall publish in the Federal Register a notice of intent to issue the order. During such 60-day period, imports of the chemical with respect to such distributor may not be restricted under this paragraph.
+(3) If the Attorney General determines that a foreign-chain distributor is refusing to cooperate with the Attorney General in obtaining the information referred to in paragraph (2), the Attorney General may, in accordance with procedures that apply under subsection (c), issue an order prohibiting the importation of ephedrine, pseudoephedrine, or phenylpropanolamine inany case in which such distributor is part of the chain of distribution for such chemical. Not later than 60 days prior to issuing the order, the Attorney General shall publish in the Federal Register a notice of intent to issue the order. During such 60-day period, imports of the chemical with respect to such distributor may not be restricted under this paragraph.
 
 (Pub. L. 91–513, title III, §1018, as added Pub. L. 100–690, title VI, §6053(a), Nov. 18, 1988, 102 Stat. 4314; amended Pub. L. 103–200, §§4(a), 5(a), 9(b), Dec. 17, 1993, 107 Stat. 2338–2340; Pub. L. 103–322, title XXXIII, §330024(c), Sept. 13, 1994, 108 Stat. 2150; Pub. L. 109–177, title VII, §§716(a), (b)(1)(B), 721, Mar. 9, 2006, 120 Stat. 265, 267.)
 
 #### Amendments
 
-2006—Subsec. (b)(1). Pub. L. 109–177, §716(a)(1), substituted “or to a transaction that is an importation by a regular importer” for “or to an importation by a regular importer”.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–177, §716(a)(1), substituted “or to a transaction that is an importation by a regular importer” for “or to an importation by a regular importer”.
 
 Subsec. (c)(1). Pub. L. 109–177, §716(b)(1)(B), inserted “(without regard to the form of the chemical that may be diverted, including the diversion of a finished drug product to be manufactured from bulk chemicals to be transferred)” after “manufacture of a controlled substance”.
 
@@ -82,11 +82,11 @@ Subsec. (g). Pub. L. 109–177, §716(a)(4), added subsec. (g).
 
 Subsec. (h). Pub. L. 109–177, §721, added subsec. (h).
 
-1994—Subsecs. (b)(1), (2), (c)(1). Pub. L. 103–322, §330024(c)(2), made technical amendment to directory language of Pub. L. 103–200, §9(b). See 1993 Amendment notes below.
+<b>1994</b>—Subsecs. (b)(1), (2), (c)(1). Pub. L. 103–322, §330024(c)(2), made technical amendment to directory language of Pub. L. 103–200, §9(b). See 1993 Amendment notes below.
 
 Subsec. (e). Pub. L. 103–322, §330024(c)(1), made technical amendment to directory language of Pub. L. 103–200, §5(a). See 1993 Amendment note below.
 
-1993—Subsec. (b)(1). Pub. L. 103–200, §9(b)(1)(A), as amended by Pub. L. 103–322, §330024(c)(2), substituted “to an importation by a regular importer” for “regular supplier of the regulated person”.
+<b>1993</b>—Subsec. (b)(1). Pub. L. 103–200, §9(b)(1)(A), as amended by Pub. L. 103–322, §330024(c)(2), substituted “to an importation by a regular importer” for “regular supplier of the regulated person”.
 
 Subsec. (b)(2). Pub. L. 103–200, §9(b)(1)(B), as amended by Pub. L. 103–322, §330024(c)(2), substituted “a customer of a regulated person or to an importer” for “a customer or supplier of a regulated person” and “the importer as a regular importer” for “regular supplier”.
 

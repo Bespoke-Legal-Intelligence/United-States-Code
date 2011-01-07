@@ -6,7 +6,7 @@ The Director of the Institute shall expand and intensify research and related ac
 
 #### (b) Coordination with other institutes
 
-The Director of the Institute shall coordinate the activities of the Director under subsection (a) of this section with similar activities conducted by the other national research institutesand agencies of the National Institutes of Health to the extent that such Institutes and agencies have responsibilities that are related to lupus.
+The Director of the Institute shall coordinate the activities of the Director under subsection (a) of this section with similar activities conducted by the other national research institutes and agencies of the National Institutes of Health to the extent that such Institutes and agencies have responsibilities that are related to lupus.
 
 #### (c) Programs for lupus
 
@@ -28,7 +28,7 @@ In carrying out subsection (a) of this section, the Director of the Institute sh
 
 #### Amendments
 
-2007—Subsec. (d). Pub. L. 109–482 struck out heading and text of subsec. (d). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2003.”
+<b>2007</b>—Subsec. (d). Pub. L. 109–482 struck out heading and text of subsec. (d). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2003.”
 
 #### Effective Date of 2007 Amendment
 

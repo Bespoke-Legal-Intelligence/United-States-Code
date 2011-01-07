@@ -32,9 +32,9 @@ In the original, subsections (a) and (b) of this section contained a final parag
 
 #### Amendments
 
-1988—Pub. L. 100–690, §8001(b)(2), substituted “subchapter” for “chapter” wherever appearing.
+<b>1988</b>—Pub. L. 100–690, §8001(b)(2), substituted “subchapter” for “chapter” wherever appearing.
 
-1936—Subsec. (c). Act Feb. 29, 1936, extended the effective date from March 1, 1936, to July 1, 1936.
+<b>1936</b>—Subsec. (c). Act Feb. 29, 1936, extended the effective date from March 1, 1936, to July 1, 1936.
 
 #### Transfer of Functions
 

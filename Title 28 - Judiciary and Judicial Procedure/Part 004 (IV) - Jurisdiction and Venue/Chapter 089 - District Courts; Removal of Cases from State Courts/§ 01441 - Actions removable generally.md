@@ -14,7 +14,7 @@
 
 &emsp;(B) the defendant is a party to an action which is or could have been brought, in whole or in part, under section 1369 in a United States district court and arises from the same accident as the action in State court, even if the action to be removed could not have been brought in a district court as an original matter.
 
-> The removal of an action under this subsection shall be made in accordance with section 1446 of this title, except that a notice of removal may also be filed before trial of the action in State court within 30 days after the date on which the defendant first becomes a party to an action under section 1369 in a United States district court that arises from the same accident as the action in State court, or at a later time with leave of the district court.
+> The removal of an action under this subsection shall be made in accordance with section 1446 of this title, except that a notice of removal may also be filed before trial of the action in Statecourt within 30 days after the date on which the defendant first becomes a party to an action under section 1369 in a United States district court that arises from the same accident as the action in State court, or at a later time with leave of the district court.
 
 (2) Whenever an action is removed under this subsection and the district court to which it is removed or transferred under section 1407(j) has made a liability determination requiring further proceedings as to damages, the district court shall remand the action to the State court from which it had been removed for the determination of damages, unless the court finds that, for the convenience of parties and witnesses and in the interest of justice, the action should be retained for the determination of damages.
 
@@ -54,17 +54,17 @@ The provisions of section 71 of title 28, U.S.C., 1940 ed., with respect to remo
 
 #### Amendments
 
-2002—Subsecs. (e), (f). Pub. L. 107–273 added subsec. (e), redesignated former subsec. (e) as (f), and substituted “The court to which a civil action is removed under this section” for “The court to which such civil action is removed”.
+<b>2002</b>—Subsecs. (e), (f). Pub. L. 107–273 added subsec. (e), redesignated former subsec. (e) as (f), and substituted “The court to which a civil action is removed under this section” for “The court to which such civil action is removed”.
 
-1991—Subsec. (c). Pub. L. 102–198 struck out comma after “title” and substituted “may” for “may may” before “remand”.
+<b>1991</b>—Subsec. (c). Pub. L. 102–198 struck out comma after “title” and substituted “may” for “may may” before “remand”.
 
-1990—Subsec. (c). Pub. L. 101–650 substituted “within the jurisdiction conferred by section 1331 of this title” for “, which would be removable if sued upon alone” and “may remand all matters in which State law predominates” for “remand all matters not otherwise within its original jurisdiction”.
+<b>1990</b>—Subsec. (c). Pub. L. 101–650 substituted “within the jurisdiction conferred by section 1331 of this title” for “, which would be removable if sued upon alone” and “may remand all matters in which State law predominates” for “remand all matters not otherwise within its original jurisdiction”.
 
-1988—Subsec. (a). Pub. L. 100–702 inserted at end “For purposes of removal under this chapter, the citizenship of defendants sued under fictitious names shall be disregarded.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–702 inserted at end “For purposes of removal under this chapter, the citizenship of defendants sued under fictitious names shall be disregarded.”
 
-1986—Subsec. (e). Pub. L. 99–336 added subsec. (e).
+<b>1986</b>—Subsec. (e). Pub. L. 99–336 added subsec. (e).
 
-1976—Subsec. (d). Pub. L. 94–583 added subsec. (d).
+<b>1976</b>—Subsec. (d). Pub. L. 94–583 added subsec. (d).
 
 #### Effective Date of 2002 Amendment
 

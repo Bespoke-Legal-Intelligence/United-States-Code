@@ -184,7 +184,7 @@ The Solid Waste Disposal Act, referred to in subsec. (b)(2), is title II of Pub.
 
 #### Amendments
 
-1998—Subsec. (h). Pub. L. 105–286 added subsec. (h).
+<b>1998</b>—Subsec. (h). Pub. L. 105–286 added subsec. (h).
 
 #### Effective Date of 1998 Amendment; Publication of Prohibition
 

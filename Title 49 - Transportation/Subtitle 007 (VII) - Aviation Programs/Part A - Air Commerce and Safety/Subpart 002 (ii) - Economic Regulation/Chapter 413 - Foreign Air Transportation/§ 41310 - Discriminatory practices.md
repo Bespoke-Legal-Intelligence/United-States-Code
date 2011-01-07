@@ -46,7 +46,7 @@ Review.—(1) The Secretaries of State, the Treasury, and Transportation and the
 
 &emsp;(B) request Congress to enact legislation when the authority to eliminate the discrimination or unfair practice is inadequate.
 
-(2) The Secretary of Transportation shall report to Congress annually on each action takenunder paragraph (1) of this subsection and on the continuing program to eliminate discrimination and unfair competitive practices. The Secretaries of State and the Treasury each shall give the Secretary of Transportation information necessary to prepare the report.
+(2) The Secretary of Transportation shall report to Congress annually on each action taken under paragraph (1) of this subsection and on the continuing program to eliminate discrimination and unfair competitive practices. The Secretaries of State and the Treasury each shall give the Secretary of Transportation information necessary to prepare the report.
 
 (f)
 
@@ -54,7 +54,7 @@ Reports.—Not later than 30 days after acting on a complaint under this section
 
 (g)
 
-Actions Against Discriminatory Activity by Foreign CRS Systems.—The Secretary of Transportation may take such actions as the Secretary considers are in the public interest to eliminate an activity of a foreign air carrier that owns or markets a computer reservations system, or of a computer reservations system firm whose principal offices are located outside the United States, when the Secretary, on the initiative of the Secretary or on complaint, decides that the activity, with respect to airline service—
+Actions Against Discriminatory Activity by Foreign CRS Systems.—The Secretary of Transportation may take such actions as the Secretary considers are in the public interest to eliminate an activity of a foreign air carrier that owns or markets a computer reservations system, or of a computer reservations systemfirm whose principal offices are located outside the United States, when the Secretary, on the initiative of the Secretary or on complaint, decides that the activity, with respect to airline service—
 
 &emsp;(1) is an unjustifiable or unreasonable discriminatory, predatory, or anticompetitive practice against a computer reservations system firm whose principal offices are located inside the United States; or
 
@@ -146,13 +146,13 @@ In subsection (d)(2)(A), the words “the Secretaries of Commerce and State and 
 
 In subsection (d)(2)(B), the words “as is consistent with acting on the complaint” are omitted as surplus.
 
-In subsection (e)(1), before clause (A), the text of 49 App.:1159b(a) (1st, 2d sentences) is omitted as executed. The words “The Secretaries of State, the Treasury, and Transportation” are substituted for “The Department of State, the Department of the Treasury, the Department of Transportation” because of 22:2651, 31:301(b), and 49:102(b), respectively. The words “the heads of” and “instrumentalities of the Government” are added for consistency in the revised title and with other titles of the Code. The word “jurisdictions” is substituted for “respective functions” for clarity and consistency. Inclause (A), the words “within its jurisdiction . . . such forms of” are omitted as surplus. Clause (B) is substituted for 49 App.:1159b(c) to eliminate unnecessary words.
+In subsection (e)(1), before clause (A), the text of 49 App.:1159b(a) (1st, 2d sentences) is omitted as executed. The words “The Secretaries of State, the Treasury, and Transportation” are substituted for “The Department of State, the Department of the Treasury, the Department of Transportation” because of 22:2651, 31:301(b), and 49:102(b), respectively. The words “the heads of” and “instrumentalities of the Government” are added for consistency in the revised title and with other titles of the Code. The word “jurisdictions” is substituted for “respective functions” for clarity and consistency. In clause (A), the words “within its jurisdiction . . . such forms of” are omitted as surplus. Clause (B) is substituted for 49 App.:1159b(c) to eliminate unnecessary words.
 
 In subsection (e)(2), the words “faced by United States carriers in foreign air transportation”, “as may be”, and “required by this subsection” are omitted as surplus.
 
 #### Amendments
 
-2000—Subsec. (d)(1). Pub. L. 106–181, §741(b)(1)(A), (B), in first sentence of introductory provisions, substituted “air carrier, computer reservations system firm,” for “air carrier” and “subsection (c) or (g)” for “subsection (c)”.
+<b>2000</b>—Subsec. (d)(1). Pub. L. 106–181, §741(b)(1)(A), (B), in first sentence of introductory provisions, substituted “air carrier, computer reservations system firm,” for “air carrier” and “subsection (c) or (g)” for “subsection (c)”.
 
 Subsec. (d)(1)(B). Pub. L. 106–181, §741(b)(1)(C), substituted “air carrier or computer reservations system firm” for “air carrier”.
 
@@ -160,7 +160,7 @@ Subsec. (e)(1). Pub. L. 106–181, §741(b)(2), inserted “or a computer reserv
 
 Subsec. (g). Pub. L. 106–181, §741(a), added subsec. (g).
 
-1996—Subsec. (f). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+<b>1996</b>—Subsec. (f). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
 
 #### Effective Date of 2000 Amendment
 

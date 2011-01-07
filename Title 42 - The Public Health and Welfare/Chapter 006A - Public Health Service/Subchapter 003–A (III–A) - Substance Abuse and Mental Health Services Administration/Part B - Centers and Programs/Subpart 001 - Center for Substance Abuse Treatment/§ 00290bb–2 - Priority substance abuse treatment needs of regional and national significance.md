@@ -50,7 +50,7 @@ The Secretary shall establish comprehensive information and education programs t
 
 #### (f) Authorization of appropriation
 
-There are authorized to be appropriated to carry out this section, $300,000,000 for fiscal year 2001 and such sums as may be necessary for each of the fiscal years 2002 and 2003.
+There are authorized to be appropriated to carry out this section, $300,000,000 for fiscal year2001 and such sums as may be necessary for each of the fiscal years 2002 and 2003.
 
 (July 1, 1944, ch. 373, title V, §509, as added Pub. L. 102–321, title I, §108(a), July 10, 1992, 106 Stat. 341; amended Pub. L. 106–310, div. B, title XXXIII, §3301(b), Oct. 17, 2000, 114 Stat. 1207.)
 
@@ -62,7 +62,7 @@ A prior section 509 of act July 1, 1944, which was classified to section 290aa�
 
 #### Amendments
 
-2000—Pub. L. 106–310 amended section catchline and text generally, substituting provisions relating to priority substance abuse treatment needs of regional and national significance for provisions relating to outpatient treatment programs for pregnant and postpartum women.
+<b>2000</b>—Pub. L. 106–310 amended section catchline and text generally, substituting provisions relating to priority substance abuse treatment needs of regional and national significance for provisions relating to outpatient treatment programs for pregnant and postpartum women.
 
 #### Effective Date
 

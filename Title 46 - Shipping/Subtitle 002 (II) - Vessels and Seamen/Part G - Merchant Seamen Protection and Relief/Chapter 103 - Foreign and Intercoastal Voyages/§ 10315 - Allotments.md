@@ -16,7 +16,19 @@
 
 (e) This section applies to a foreign vessel when in waters of the United States. An owner, charterer, managing operator, agent, or master of a foreign vessel violating this section is liable to the Government for the same penalty as an owner, charterer, managing operator, agent, or master of a vessel of the United States for the same violation.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 567.)
+(f)
+
+Deposits in Seaman Account.—By written request signed by the seaman, a seaman employed on a passenger vessel capable of carrying more than 500 passengers may authorize the master, owner, or operator of the vessel, or the employer of the seaman, to make deposits of wages of the seaman into a checking, savings, investment, or retirement account, or other account to secure a payroll or debit card for the seaman if—
+
+&emsp;(1) the wages designated by the seaman for such deposit are deposited in a United States or international financial institution designated by the seaman;
+
+&emsp;(2) such deposits in the financial institution are fully guaranteed under commonly accepted international standards by the government of the country in which the financial institution is licensed;
+
+&emsp;(3) a written wage statement or pay stub, including an accounting of any direct deposit, is delivered to the seaman no less often than monthly; and
+
+&emsp;(4) while on board the vessel on which the seaman is employed, the seaman is able to arrange for withdrawal of all funds on deposit in the account in which the wages are deposited.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 567; Pub. L. 111–281, title IX, §902(a)(2), Oct. 15, 2010, 124 Stat. 3009.)
 
 Historical and Revision Notes
 
@@ -29,6 +41,10 @@ Historical and Revision Notes
 46:599
 
 Section 10315 lists the persons to whom a seaman may allot wages, specifies the conditions which make an allotment valid, and provides a civil penalty of $500 for falsely claiming qualification as an allottee. It also requires that this section be complied with before a vessel can be cleared from a United States port. This section applies to foreign vessels.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (f). Pub. L. 111–281 added subsec. (f).
 
 #### Transfer of Functions
 

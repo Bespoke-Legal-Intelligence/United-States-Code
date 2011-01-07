@@ -34,15 +34,15 @@ For purposes of this subchapter—
 
 #### Amendments
 
-1996—Par. (1). Pub. L. 104–191, §321(d)(3), inserted at end “Such term shall not include any plan substantially all of the coverage under which is for qualified long-term care services (as defined in section 7702B(c) of title 26).”
+<b>1996</b>—Par. (1). Pub. L. 104–191, §321(d)(3), inserted at end “Such term shall not include any plan substantially all of the coverage under which is for qualified long-term care services (as defined in section 7702B(c) of title 26).”
 
 Pub. L. 104–191, §102(d), substituted “5000(b)” for “section 162(i)(2)”.
 
 Par. (3)(A). Pub. L. 104–191, §421(a)(3), inserted at end “Such term shall also include a child who is born to or placed for adoption with the covered employee during the period of continuation coverage under this subchapter.”
 
-1989—Par. (2). Pub. L. 101–239 substituted “the performance of services by the individual for 1 or more persons maintaining the plan (including as an employee defined in section 401(c)(1) of title 26)” for “the individual's employment or previous employment with an employer”.
+<b>1989</b>—Par. (2). Pub. L. 101–239 substituted “the performance of services by the individual for 1 or more persons maintaining the plan (including as an employee defined in section 401(c)(1) of title 26)” for “the individual's employment or previous employment with an employer”.
 
-1988—Par. (1). Pub. L. 100–647 substituted “section 162(i)(2) of the Internal Revenue Code of 1986” for “section 162(i)(3) of the Internal Revenue Code of 1954”, which for purposes of codification was translated as “section 162(i)(2) of title 26”.
+<b>1988</b>—Par. (1). Pub. L. 100–647 substituted “section 162(i)(2) of the Internal Revenue Code of 1986” for “section 162(i)(3) of the Internal Revenue Code of 1954”, which for purposes of codification was translated as “section 162(i)(2) of title 26”.
 
 #### Effective Date of 1996 Amendment
 
@@ -52,9 +52,11 @@ Amendment by section 421(a)(3) of Pub. L. 104–191 effective Jan. 1, 1997, rega
 
 #### Effective Date of 1989 Amendment
 
-Section 6801(c)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to plan years beginning after December 31, 1989.”
+Section 6801(c)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall apply to plan years beginning after December 31, 1989.”
 
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–647 applicable to taxable years beginning after Dec. 31, 1988, but not applicable to any plan for any plan year to which section 162(k) of Title 26, Internal Revenue Code (as in effect on the day before Nov. 10, 1988), did not apply by reason of section 10001(e)(2) of Pub. L. 99–272, see section 3011(d) of Pub. L. 100–647, set out as a note under section 162 of Title 26.
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
 

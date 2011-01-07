@@ -28,7 +28,7 @@ The Secretary shall provide such staff, funds and other support as may be necess
 
 #### Amendments
 
-1996—Subsec. (d)(3). Pub. L. 104–271 struck out par. (3) which read as follows: “comments on and recommendations for improvements in the comprehensive 5-year program management plan required under section 12402 of this title.”
+<b>1996</b>—Subsec. (d)(3). Pub. L. 104–271 struck out par. (3) which read as follows: “comments on and recommendations for improvements in the comprehensive 5-year program management plan required under section 12402 of this title.”
 
 #### Termination of Advisory Panels
 

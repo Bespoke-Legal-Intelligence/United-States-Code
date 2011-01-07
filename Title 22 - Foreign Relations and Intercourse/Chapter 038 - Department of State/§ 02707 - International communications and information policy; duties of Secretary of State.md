@@ -26,7 +26,7 @@ A prior section 35 of act Aug. 1, 1956, was renumbered section 36 by section 124
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–236, §162(k)(1)(A), struck out subsec. (a) which read as follows: “The Secretary of State shall assign responsibility for international communications and information policy matters within the Department of State to an appropriate Under Secretary of State (hereafter in this section referred to as the ‘Under Secretary’).”
+<b>1994</b>—Subsec. (a). Pub. L. 103–236, §162(k)(1)(A), struck out subsec. (a) which read as follows: “The Secretary of State shall assign responsibility for international communications and information policy matters within the Department of State to an appropriate Under Secretary of State (hereafter in this section referred to as the ‘Under Secretary’).”
 
 Subsec. (b). Pub. L. 103–236, §162(k)(1)(B)(i), inserted introductory provisions and struck out former introductory provisions which read as follows: “The Secretary of State shall establish, within the Department of State, an Office of the Coordinator for International Communications and Information Policy, headed by a Coordinator who shall be responsible to the Under Secretary. The Coordinator shall be appointed by the President, by and with the advice and consent of the Senate, and shall have the rank of ambassador. The Coordinator shall be compensated at the annual rate of pay for positions authorized by section 5315 of title 5. The Coordinator shall be responsible, on behalf of the Under Secretary, for formulation, coordination, and oversight of international communications and information policy assigned to the Under Secretary. On behalf  of  the  Under  Secretary,  the  Coordinator  shall—”.
 
@@ -36,7 +36,7 @@ Subsec. (b)(2). Pub. L. 103–236, §162(k)(1)(B)(ii), (iii), (v), redesignated 
 
 Subsec. (b)(3). Pub. L. 103–236, §162(k)(1)(B)(vi), substituted “any senior interagency policymaking group on international telecommunications and information policy and chair such interagency meetings as may be necessary to coordinate actions on pending issues;” for “the Senior Interagency Group on International Communications and Information Policy”.
 
-1987—Subsec. (b). Pub. L. 100–204 inserted after second sentence “The Coordinator shall be compensated at the annual rate of pay for positions authorized by section 5315 of title 5.”
+<b>1987</b>—Subsec. (b). Pub. L. 100–204 inserted after second sentence “The Coordinator shall be compensated at the annual rate of pay for positions authorized by section 5315 of title 5.”
 
 #### Effective Date of 1994 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Use of fees
 
-Notwithstanding any other provision of law, funds received by the Department of State in connection with use of Blair House (including reimbursements and surcharges for services and goods provided and fees for use of Blair House facilities) may be credited to the appropriate appropriation account of the Department of State which is currently available. Such funds shall be available only for maintenance and other expenses of Blair House.
+Notwithstanding any other provision of law, funds received by the Department of State in connection with use of Blair House (including reimbursements and surcharges for services and goods provided and fees for use of Blair House facilities) may be credited to the appropriate appropriation account of the Department of Statewhich is currently available. Such funds shall be available only for maintenance and other expenses of Blair House.
 
 #### (b) Compliance with Budget Act
 
@@ -20,5 +20,5 @@ A prior section 46 of act Aug. 1, 1956, was renumbered section 47 by section 119
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–138 struck out “for the fiscal years 1990 and 1991,” after “provision of law,”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–138 struck out “for the fiscal years 1990 and 1991,” after “provision of law,”.
 

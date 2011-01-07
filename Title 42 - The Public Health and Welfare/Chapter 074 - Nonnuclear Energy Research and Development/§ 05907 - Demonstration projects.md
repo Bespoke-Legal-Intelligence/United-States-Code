@@ -76,7 +76,7 @@ If the total estimated amount of the Federal contribution to the construction co
 
 #### Amendments
 
-2005—Subsecs. (a), (b), (c)(2). Pub. L. 109–58, §1009(b)(6)(A), substituted “Secretary” for “Administrator” in introductory provisions of subsecs. (a) and (b) and in par. (2) of subsec. (c).
+<b>2005</b>—Subsecs. (a), (b), (c)(2). Pub. L. 109–58, §1009(b)(6)(A), substituted “Secretary” for “Administrator” in introductory provisions of subsecs. (a) and (b) and in par. (2) of subsec. (c).
 
 Subsec. (d)(1). Pub. L. 109–58, §1009(b)(6)(B)(i), substituted “Administrator of the Energy Research and Development Administration” for “Administrator” in introductory provisions.
 

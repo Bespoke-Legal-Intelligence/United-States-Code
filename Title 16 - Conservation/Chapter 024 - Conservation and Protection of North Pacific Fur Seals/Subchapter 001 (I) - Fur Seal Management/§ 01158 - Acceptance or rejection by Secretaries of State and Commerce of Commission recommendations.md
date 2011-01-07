@@ -6,5 +6,5 @@ The Secretary of State, with the concurrence of the Secretary, is authorized to 
 
 #### Amendments
 
-1983—Pub. L. 98–129 amended section generally, substituting provisions empowering the Secretaries ofState and Commerce to accept or reject recommendations made by the Commission, which were previously contained in section 1157 of this title, for provisions authorizing Federal agency consultation with and technical assistance to the Secretary of Commerce or the Commission. See section 1159 of this title.
+<b>1983</b>—Pub. L. 98–129 amended section generally, substituting provisions empowering the Secretaries of State and Commerce to accept or reject recommendations made by the Commission, which were previously contained in section 1157 of this title, for provisions authorizing Federal agency consultation with and technical assistance to the Secretary of Commerce or the Commission. See section 1159 of this title.
 

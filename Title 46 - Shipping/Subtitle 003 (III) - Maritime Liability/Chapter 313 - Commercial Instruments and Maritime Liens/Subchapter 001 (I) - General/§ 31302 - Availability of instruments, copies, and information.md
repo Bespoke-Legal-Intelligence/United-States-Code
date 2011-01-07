@@ -1,6 +1,6 @@
 ### §31302. Availability of instruments, copies, and information
 
-The Secretary of Transportation shall—
+The Secretary shall—
 
 &emsp;(1) make any instrument filed or recorded with the Secretary under this chapter available for public inspection;
 
@@ -8,7 +8,7 @@ The Secretary of Transportation shall—
 
 &emsp;(3) on request, provide a certificate containing information included in an instrument filed or recorded under this chapter.
 
-(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4740.)
+(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4740; Pub. L. 111–281, title IX, §913(a)(1), Oct. 15, 2010, 124 Stat. 3017.)
 
 Historical and Revision Notes
 
@@ -33,4 +33,8 @@ Section 31302(1) makes all instruments filed for recording or recorded with the 
 Section 31302(2) requires the Secretary to provide the public with a certified copy of the material made available to the public under subsection (a). This subsection makes no substantive change to law.
 
 Section 31302(3) requires the Secretary, on request, to issue a certificate containing the information included in instruments on file, such as certificates of ownership.
+
+#### Amendments
+
+<b>2010</b>—Pub. L. 111–281 struck out “of Transportation” after “Secretary” in introductory provisions.
 

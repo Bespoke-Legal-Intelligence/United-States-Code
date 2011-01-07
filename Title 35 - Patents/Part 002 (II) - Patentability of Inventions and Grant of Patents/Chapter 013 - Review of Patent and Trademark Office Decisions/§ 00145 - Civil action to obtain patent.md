@@ -14,15 +14,15 @@ Language is changed.
 
 #### Amendments
 
-2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
+<b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
 
-1999—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” wherever appearing.
+<b>1999</b>—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” wherever appearing.
 
 Pub. L. 106–113, §1000(a)(9) \[title IV, §4605(e)\], inserted “(a)” after “section 134”.
 
-1984—Pub. L. 98–622 substituted “Patent Appeals and Interferences in an appeal under section 134 of this title may,” for “Appeals may” in first sentence and “Patent Appeals and Interferences” for “Appeals” in second sentence.
+<b>1984</b>—Pub. L. 98–622 substituted “Patent Appeals and Interferences in an appeal under section 134 of this title may,” for “Appeals may” in first sentence and “Patent Appeals and Interferences” for “Appeals” in second sentence.
 
-1982—Pub. L. 97–164 substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals”.
+<b>1982</b>—Pub. L. 97–164 substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals”.
 
 #### Effective Date of 1999 Amendment
 

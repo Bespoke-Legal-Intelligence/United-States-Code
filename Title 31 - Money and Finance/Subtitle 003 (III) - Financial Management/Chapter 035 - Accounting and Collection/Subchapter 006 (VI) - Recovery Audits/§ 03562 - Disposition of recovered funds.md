@@ -2,23 +2,27 @@
 
 (a)
 
-Availability of Funds for Recovery Audits and Activities Program.—Funds collected under a program carried out by an executive agency under section 3561 of this title shall be available to the executive agency for the following purposes:
+Availability of Funds for Recovery Audits and Activities Program.—Funds collected under a program carried out by an executive agency under section 3561 <sup>1</sup> of this title shall be available to the executive agency for the following purposes:
 
 &emsp;(1) To reimburse the actual expenses incurred by the executive agency in the administration of the program.
 
-&emsp;(2) To pay contractors for services under the program in accordance with the guidance issued under section 3561(c)(5) of this title.
+&emsp;(2) To pay contractors for services under the program in accordance with the guidance issued under section 3561(c)(5) <sup>1</sup> of this title.
 
-(b)
+\[(b), (c). Repealed. Pub. L. 111–204, §2(h)(6)(A)(i), July 22, 2010, 124 Stat. 2231.\]
 
-Funds Not Used for Program.—Any amounts erroneously paid by an executive agency that are recovered under such a program of an executive agency and are not used to reimburse expenses or pay contractors under subsection (a)—
+(Added Pub. L. 107–107, div. A, title VIII, §831(a)(1), Dec. 28, 2001, 115 Stat. 1187; Pub. L. 111–204, §2(h)(6)(A), July 22, 2010, 124 Stat. 2231.)
 
-&emsp;(1) shall be credited to the appropriations from which the erroneous payments were made, shall be merged with other amounts in those appropriations, and shall be available for the purposes and period for which such appropriations are available; or
+#### References in Text
 
-&emsp;(2) if no such appropriation remains available, shall be deposited in the Treasury as miscellaneous receipts.
+Section 3561 of this title, referred to in subsec. (a), was repealed by Pub. L. 111–204, §2(h)(6)(A)(i), July 22, 2010, 124 Stat. 2231.
 
-(c)
+#### Codification
 
-Priority of Other Authorized Dispositions.—Notwithstanding subsection (b), the authority under such subsection may not be exercised to use, credit, or deposit funds collected under such a program as provided in that subsection to the extent that any other provision of law requires or authorizes the crediting of such funds to a nonappropriated fund instrumentality, revolving fund, working-capital fund, trust fund, or other fund or account.
+Pub. L. 111–204, §2(h)(6)(A), July 22, 2010, 124 Stat. 2231, provided that this section is repealed except that subsec. (a) shall continue in effect, but references in such subsec. to programs carried out under section 3561 of this title shall be interpreted to mean programs carried out under section 2(h) of Pub. L. 111–204, which is set out as a note under section 3321 of this title.
 
-(Added Pub. L. 107–107, div. A, title VIII, §831(a)(1), Dec. 28, 2001, 115 Stat. 1187.)
+#### Amendments
+
+<b>2010</b>—Pub. L. 111–204 repealed section but provided that subsec. (a) was to continue in effect, with certain exceptions. See Codification note above. Prior to amendment, in addition to subsec. (a), section contained subsecs. (b) and (c) which related to treatment of funds not used for program under section 3561 of this title and priority of other authorized dispositions, respectively.
+
+<i><sup>1</sup></i><i> See References in Text and Codification notes below.</i>
 

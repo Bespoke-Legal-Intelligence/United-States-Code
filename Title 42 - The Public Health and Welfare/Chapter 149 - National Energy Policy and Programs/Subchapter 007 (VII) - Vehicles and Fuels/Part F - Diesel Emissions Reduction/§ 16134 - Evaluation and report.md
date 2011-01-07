@@ -10,15 +10,27 @@ The report shall include a description of—
 
 &emsp;(1) the total number of grant applications received;
 
-&emsp;(2) each grant or loan made under this part, including the amount of the grant or loan;
+&emsp;(2) each grant, rebate, or loan made under this part, including the amount of the grant, rebate, or loan;
 
-&emsp;(3) each project for which a grant or loan is provided under this part, including the criteria used to select the grant or loan recipients;
+&emsp;(3) each project for which a grant, rebate, or loan is provided under this part, including the criteria used to select the grant, rebate, or loan recipients;
 
-&emsp;(4) the actual and estimated air quality and diesel fuel conservation benefits, cost-effectiveness, and cost-benefits of the grant and loan programs under this part;
+&emsp;(4) the actual and estimated air quality and diesel fuel conservation benefits, cost-effectiveness, and cost-benefits of the grant, rebate, and loan programs under this part;
 
-&emsp;(5) the problems encountered by projects for which a grant or loan is provided under this part; and
+&emsp;(5) the problems encountered by projects for which a grant, rebate, or loan is provided under this part;
 
-&emsp;(6) any other information the Administrator considers to be appropriate.
+&emsp;(6) any other information the Administrator considers to be appropriate; and
 
-(Pub. L. 109–58, title VII, §794, Aug. 8, 2005, 119 Stat. 843.)
+&emsp;(7) in the last report sent to Congress before January 1, 2016, an analysis of the need to continue the program, including an assessment of the size of the vehicle and engine fleet that could provide benefits from being retrofit under this program and a description of the number and types of applications that were not granted in the preceding year.
+
+(Pub. L. 109–58, title VII, §794, Aug. 8, 2005, 119 Stat. 843; Pub. L. 111–364, §2(d), Jan. 4, 2011, 124 Stat. 4060.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (b)(2) to (5). Pub. L. 111–364, §2(d)(1), inserted “, rebate,” after “grant” wherever appearing.
+
+Subsec. (b)(7). Pub. L. 111–364, §2(d)(2)–(4), added par. (7).
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 111–364 effective Oct. 1, 2011, except as otherwise provided, see section 4 of Pub. L. 111–364, set out as a note under section 16131 of this title.
 

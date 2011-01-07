@@ -56,7 +56,7 @@ Funds made available to eligible recipients under this part shall be used to sup
 
 Funds made available to an eligible recipient under this subchapter may be used—
 
-&emsp;(1) to involve parents, businesses, and labor organizations as appropriate, in the design, implementation, and evaluation of career and technical education programs authorized under this subchapter, including establishing effective programs and procedures to enable informed and effective participation in such programs;
+&emsp;(1) to involve parents, businesses, and labor organizations as appropriate, in the design, implementation, and evaluation of career and technical education programs authorized under this subchapter, including establishingeffective programs and procedures to enable informed and effective participation in such programs;
 
 &emsp;(2) to provide career guidance and academic counseling, which may include information described in section 2328 of this title, for students participating in career and technical education programs, that—
 
@@ -144,7 +144,7 @@ Prior sections 2361 to 2363 were omitted in the general amendment of this chapte
 
 Section 2361, Pub. L. 88–210, title III, §311, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2458; amended Pub. L. 99–159, title VII, §706(b), Nov. 22, 1985, 99 Stat. 906; Pub. L. 101–392, title III, §302, Sept. 25, 1990, 104 Stat. 786, related to consumer and homemaking education grants.
 
-Section 2362, Pub. L. 88–210, title III, §312, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2458; amendedPub. L. 99–159, title VII, §706(c), Nov. 22, 1985, 99 Stat. 906; Pub. L. 101–392, title III, §303, Sept. 25, 1990, 104 Stat. 786, related to use of funds from consumer and homemaking education grants.
+Section 2362, Pub. L. 88–210, title III, §312, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2458; amended Pub. L. 99–159, title VII, §706(c), Nov. 22, 1985, 99 Stat. 906; Pub. L. 101–392, title III, §303, Sept. 25, 1990, 104 Stat. 786, related to use of funds from consumer and homemaking education grants.
 
 Section 2363, Pub. L. 88–210, title III, §313, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2459; amended Pub. L. 99–159, title VII, §707, Nov. 22, 1985, 99 Stat. 906; Pub. L. 101–392, title III, §304, Sept. 25, 1990, 104 Stat. 786, related to information dissemination and leadership.
 

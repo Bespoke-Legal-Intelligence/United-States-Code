@@ -24,9 +24,9 @@
 
 #### Amendments
 
-2003—Pub. L. 108–176, title I, §183(b), Dec. 12, 2003, 117 Stat. 2517, added item 44517.
+<b>2003</b>—Pub. L. 108–176, title I, §183(b), Dec. 12, 2003, 117 Stat. 2517, added item 44517.
 
-2000—Pub. L. 106–181, title VII, §713(c), Apr. 5, 2000, 114 Stat. 161, added item 44516.
+<b>2000</b>—Pub. L. 106–181, title VII, §713(c), Apr. 5, 2000, 114 Stat. 161, added item 44516.
 
 
 ---

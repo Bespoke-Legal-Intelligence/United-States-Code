@@ -4,7 +4,7 @@
 
 #### (1) Report card
 
-&emsp;Each institution of higher education that conducts a traditional teacher preparation program or alternative routes to State certification or licensure program and that enrolls students receiving Federal assistance under this chapter shall report annually to the State and the general public, in a uniform and comprehensible manner that conforms with the definitions and methods established by the Secretary, the following:
+&emsp;Each institution of higher education that conducts a traditional teacher preparation program or alternative routes to State certification or licensure program and that enrolls students receiving Federal assistance under this chapter and part C of subchapter I of chapter 34 of title 42 shall report annually to the State and the general public, in a uniform and comprehensible manner that conforms with the definitions and methods established by the Secretary, the following:
 
 #### (A) Goals and assurances
 
@@ -80,7 +80,7 @@
 
 #### (1) In general
 
-&emsp;Each State that receives funds under this chapter shall provide to the Secretary, and make widely available to the general public, in a uniform and comprehensible manner that conforms with the definitions and methods established by the Secretary, an annual State report card on the quality of teacher preparation in the State, both for traditional teacher preparation programs and for alternative routes to State certification or licensure programs, which shall include not less than the following:
+&emsp;Each State that receives funds under this chapter and part C of subchapter I of chapter 34 of title 42 shall provide to the Secretary, and make widely available to the general public, in a uniform and comprehensible manner that conforms with the definitions and methods established by the Secretary, an annual State report card on the quality of teacher preparation in the State, both for traditional teacher preparation programs and for alternative routes to State certification or licensure programs, which shall include not less than the following:
 
 &emsp;&emsp;(A) A description of the reliability and validity of the teacher certification and licensure assessments, and any other certification and licensure requirements, used by the State.
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;&emsp;(iv) the average scaled score of individuals participating in such a program, or who have completed such a program during the two-year period preceding the first year for which the annual State report card is provided, who took each such assessment.
 
-&emsp;&emsp;(E) A description of alternative routes to teacher certification or licensure in the State (including any such routes operated by entities that are not institutions of higher education), if any, including, for each of theassessments used by the State for teacher certification or licensure—
+&emsp;&emsp;(E) A description of alternative routes to teacher certification or licensure in the State (including any such routes operated by entities that are not institutions of higher education), if any, including, for each of the assessments used by the State for teacher certification or licensure—
 
 &emsp;&emsp;&emsp;(i) the percentage of individuals participating in such routes, or who have completed such routes during the two-year period preceding the date for which the determination is made, who passed each such assessment; and
 
@@ -124,7 +124,7 @@
 
 &emsp;&emsp;&emsp;(iii) subject area for which the teacher has been prepared to teach.
 
-&emsp;&emsp;(I) A description of the extent to which teacher preparation programs are addressing shortages of highly qualified teachers, by area of certification or licensure, subject, and specialty, in the State's public schools.
+&emsp;&emsp;(I) A description of the extent to which teacher preparation programs are addressing shortages of highly qualified teachers, byarea of certification or licensure, subject, and specialty, in the State's public schools.
 
 &emsp;&emsp;(J) The extent to which teacher preparation programs prepare teachers, including general education and special education teachers, to teach students with disabilities effectively, including training related to participation as a member of individualized education program teams, as defined in section 1414(d)(1)(B) of this title.
 
@@ -169,10 +169,6 @@ The Secretary shall prescribe regulations to ensure the reliability, validity, i
 The Secretary, to the extent practicable, shall coordinate the information collected and published under this part among States for individuals who took State teacher certification or licensure assessments in a State other than the State in which the individual received the individual's most recent degree.
 
 (Pub. L. 89–329, title II, §205, as added Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3147.)
-
-#### References in Text
-
-This chapter, referred to in subsecs. (a)(1) and (b)(1), was in the original “this Act”, meaning Pub. L. 89–329,known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Prior Provisions
 

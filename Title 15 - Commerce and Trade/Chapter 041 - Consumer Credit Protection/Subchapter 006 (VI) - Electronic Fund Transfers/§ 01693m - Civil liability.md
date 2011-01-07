@@ -2,7 +2,7 @@
 
 #### (a) Individual or class action for damages; amount of award
 
-Except as otherwise provided by this section and section 1693h of this title, any person who fails to comply with any provision of this subchapter with respect to any consumer, except for an error resolved in accordance with section 1693f of this title, is liable to such consumer in an amount equal to the sum of—
+Except as otherwise provided by this section and section 1693h of this title, any person whofails to comply with any provision of this subchapter with respect to any consumer, except for an error resolved in accordance with section 1693f of this title, is liable to such consumer in an amount equal to the sum of—
 
 &emsp;(1) any actual damage sustained by such consumer as a result of such failure;
 
@@ -26,7 +26,7 @@ Except as provided in section 1693h of this title, a person may not be held liab
 
 #### (d) Good faith compliance with rule, regulation, or interpretation of Board or approval of duly authorized official or employee of Federal Reserve System
 
-No provision of this section or section 1693n of this title imposing any liability shall apply to—
+No provision of this section or section 1693n <sup>1</sup> of this title imposing any liability shall apply to—
 
 &emsp;(1) any act done or omitted in good faith in conformity with any rule, regulation, or interpretation thereof by the Board or in conformity with any interpretation or approval by an official or employee of the Federal Reserve System duly authorized by the Board to issue such interpretations or approvals under such procedures as the Board may prescribe therefor; or
 
@@ -46,9 +46,35 @@ On a finding by the court that an unsuccessful action under this section was bro
 
 Without regard to the amount in controversy, any action under this section may be brought in any United States district court, or in any other court of competent jurisdiction, within one year from the date of the occurrence of the violation.
 
-(Pub. L. 90–321, title IX, §915, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3737.)
+(Pub. L. 90–321, title IX, §916, formerly §915, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3737; renumbered §916, Pub. L. 111–24, title IV, §401(1), May 22, 2009, 123 Stat. 1751; amended Pub. L. 111–203, title X, §1084(1), (4), July 21, 2010, 124 Stat. 2081, 2082.)
 
-#### Renumbering of Section
+#### Amendment of Section
 
-<i>Pub. L. 111–24, title IV, §§401(1), 403, May 22, 2009, 123 Stat. 1751, 1754, provided that, effective 15 months after May 22, 2009, section 915 of Pub. L. 90–321, which is classified to this section, is renumbered section 916 of Pub. L. 90–321.</i>
+<i>Pub. L. 111–203, title X, §§1084(1), (4), 1100H, July 21, 2010, 124 Stat. 2081, 2082, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
+
+<i>(1) by striking “Board” each place that term appears and inserting “Bureau”; and</i>
+
+<i>(2) in subsection (d)—</i>
+
+<i>(A) in the subsection heading, by striking “of Board or approval of duly authorized official or employee of Federal Reserve System”;</i>
+
+<i>(B) by inserting “Bureau or the” before “Board” each place that term appears; and</i>
+
+<i>(C) by inserting “Bureau of Consumer Financial Protection or the” before “Federal Reserve System”.</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
+
+#### References in Text
+
+Section 1693n of this title, referred to in subsec. (d), was in the original a reference to section 916 of Pub. L. 90–321, and was translated as meaning section 917 of Pub. L. 90–321 to reflect the probable intent of Congress and the renumbering of section 916 of Pub. L. 90–321 as section 917 by Pub. L. 111–24, title IV, §401(1), May 22, 2009, 123 Stat. 1751.
+
+#### Prior Provisions
+
+A prior section 916 of Pub. L. 90–321 was renumbered section 917 and is classified to section 1693n of this title.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

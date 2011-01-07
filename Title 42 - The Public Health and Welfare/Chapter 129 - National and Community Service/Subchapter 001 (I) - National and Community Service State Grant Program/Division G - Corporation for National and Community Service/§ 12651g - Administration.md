@@ -52,11 +52,11 @@
 
 #### (D) Disposition
 
-&emsp;&emsp;Upon completion of the use by the Corporation of any property accepted pursuantto subparagraph (A) (other than money or monetary proceeds from sales of property so accepted), such completion shall be reported to the General Services Administration and such property shall be disposed of in accordance with title II of the Federal Property and Administrative Services Act of 1949.<sup>1</sup>
+&emsp;&emsp;Upon completion of the use by the Corporation of any property accepted pursuant to subparagraph (A) (other than money or monetary proceeds from sales of property soaccepted), such completion shall be reported to the General Services Administration and such property shall be disposed of in accordance with title II of the Federal Property and Administrative Services Act of 1949.<sup>1</sup>
 
 #### (b) Contracts
 
-Subject to the Federal Property and Administrative Services Act of 1949,<sup>1</sup> the Corporation may enter into contracts, and cooperative and interagency agreements, with Federal and State agencies, private firms, institutions, and individuals to conduct activities necessary to assist the Corporation in carrying out the duties of the Corporation under the national service laws.
+Subject to chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, the Corporation may enter into contracts, and cooperative and interagency agreements, with Federal and State agencies, private firms, institutions, and individuals to conduct activities necessary to assist the Corporation in carrying out the duties of the Corporation under the national service laws.
 
 #### (c) Office of Management and Budget
 
@@ -66,11 +66,15 @@ Appropriate circulars of the Office of Management and Budget shall apply to the 
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsecs. (a)(2)(D) and (b), is act June 30, 1949, ch. 288, 63 Stat. 377. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works. Title II of the Act, which was classified principally to subchapter II (§§481, 483, 484, 485, 486, 487 to 490, 491, 492) of chapter 10 and section 758 of former Title 40, was repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304, the first section of which enacted Title 40. For disposition of sections of former Title 40 to revised Title 40, see Table preceding section 101 of Title 40. For complete classification of this Act to the Code, see Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a)(2)(D), is act June 30, 1949, ch. 288, 63 Stat. 377. Title II of the Act, which was classified principally to subchapter II (§§481, 483, 484, 485, 486, 487 to 490, 491, 492) of chapter 10 and section 758 of former Title 40, Public Buildings, Property, and Works, was repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304, which Act enacted Title 40, Public Buildings, Property, and Works. For disposition of sections of former Title 40 to revised Title 40, see Table preceding section 101 of Title 40. For complete classification of this Act to the Code, see Tables.
+
+#### Codification
+
+In subsec. (b), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-2009—Subsec. (a)(1)(A). Pub. L. 111–13, §1707(1)(A), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “Notwithstanding section 1342 of title 31, the Corporation may solicit and accept the voluntary services of individuals to assist the Corporation in carrying out the duties of the Corporation under the national service laws, and may provide to such individuals the travel expenses described in section 12651b(d) of this title.”
+<b>2009</b>—Subsec. (a)(1)(A). Pub. L. 111–13, §1707(1)(A), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “Notwithstanding section 1342 of title 31, the Corporation may solicit and accept the voluntary services of individuals to assist the Corporation in carrying out the duties of the Corporation under the national service laws, and may provide to such individuals the travel expenses described in section 12651b(d) of this title.”
 
 Subsec. (a)(1)(B). Pub. L. 111–13, §1707(1)(B)(i), substituted “A person who provides assistance, either individually or as a member of an organization, in accordance with subparagraph (A)” for “Such a volunteer” in introductory provisions.
 
@@ -84,7 +88,7 @@ Subsec. (a)(1)(C)(i). Pub. L. 111–13, §1707(1)(C), substituted “Such a pers
 
 Subsec. (a)(3). Pub. L. 111–13, §1707(2), struck out par. (3). Text read as follows: “As used in this subsection, the term ‘volunteer’ does not include a participant.”
 
-1993—Subsecs. (a)(1)(A), (2)(A), (b). Pub. L. 103–82, §203(a)(1)(B), which directed amendment of section 196(a) and (b) of subtitle I of the National and Community Service Act of 1990 by substituting “the national service laws” for “this chapter”, was executed to subsecs. (a)(1)(A), (2)(A) and (b) of this section, which is section 196 of subtitle G of title I of the National Community Service Act of 1990, to reflect the probable intent of Congress.
+<b>1993</b>—Subsecs. (a)(1)(A), (2)(A), (b). Pub. L. 103–82, §203(a)(1)(B), which directed amendment of section 196(a) and (b) of subtitle I of the National and Community Service Act of 1990 by substituting “the national service laws” for “this chapter”, was executed to subsecs. (a)(1)(A), (2)(A) and (b) of this section, which is section 196 of subtitle G of title I of the National Community Service Act of 1990, to reflect the probable intent of Congress.
 
 #### Effective Date of 2009 Amendment
 

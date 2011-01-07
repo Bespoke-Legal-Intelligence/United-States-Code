@@ -53,17 +53,17 @@
 
 #### Amendments
 
-1996—Pub. L. 104–316, title II, §202(n)(2), Oct. 19, 1996, 110 Stat. 3844, substituted “Authority to settle claims” for “Authority of the Comptroller General to settle claims” in item 3702.
+<b>1996</b>—Pub. L. 104–316, title II, §202(n)(2), Oct. 19, 1996, 110 Stat. 3844, substituted “Authority to settle claims” for “Authority of the Comptroller General to settle claims” in item 3702.
 
 Pub. L. 104–134, title III, §31001(j)(2), (<i>o</i>)(2), (r)(2), (t)(2), Apr. 26, 1996, 110 Stat. 1321–365, 1321–371, 1321–373, 1321–375, added items 3720B to 3720E.
 
-1989—Pub. L. 101–203, §1(b)(2), Dec. 7, 1989, 103 Stat. 1805, substituted “investigative or law enforcement officers of the Department of Justice” for “the Federal Bureau of Investigation” in item 3724.
+<b>1989</b>—Pub. L. 101–203, §1(b)(2), Dec. 7, 1989, 103 Stat. 1805, substituted “investigative or law enforcement officers of the Department of Justice” for “the Federal Bureau of Investigation” in item 3724.
 
-1986—Pub. L. 99–562, §6(b), Oct. 27, 1986, 100 Stat. 3168, added items 3732 and 3733.
+<b>1986</b>—Pub. L. 99–562, §6(b), Oct. 27, 1986, 100 Stat. 3168, added items 3732 and 3733.
 
-1984—Pub. L. 98–369, div. B, title VI, §§2652(a)(2), 2653(a)(2), July 18, 1984, 98 Stat. 1152, 1154, added items 3720 and 3720A.
+<b>1984</b>—Pub. L. 98–369, div. B, title VI, §§2652(a)(2), 2653(a)(2), July 18, 1984, 98 Stat. 1152, 1154, added items 3720 and 3720A.
 
-1983—Pub. L. 97–452, §1(13)(B), (16)(B), Jan. 12, 1983, 96 Stat. 2470, 2474, inserted “and application” in item 3701 and added items 3716–3719.
+<b>1983</b>—Pub. L. 97–452, §1(13)(B), (16)(B), Jan. 12, 1983, 96 Stat. 2470, 2474, inserted “and application” in item 3701 and added items 3716–3719.
 
 
 ---

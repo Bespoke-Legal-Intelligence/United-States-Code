@@ -74,9 +74,9 @@ Act of January 16, 1936, ch. 3 (49 Stat. 1092), referred to in subsec. (b), was 
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–375 substituted “Provost and Academic Dean” for “Academic Dean”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–375 substituted “Provost and Academic Dean” for “Academic Dean”.
 
-1989—Subsec. (a). Pub. L. 101–189 inserted “, the term” after “In this chapter”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–189 inserted “, the term” after “In this chapter”.
 
-1958—Subsec. (c). Pub. L. 85–861 added subsec. (c).
+<b>1958</b>—Subsec. (c). Pub. L. 85–861 added subsec. (c).
 

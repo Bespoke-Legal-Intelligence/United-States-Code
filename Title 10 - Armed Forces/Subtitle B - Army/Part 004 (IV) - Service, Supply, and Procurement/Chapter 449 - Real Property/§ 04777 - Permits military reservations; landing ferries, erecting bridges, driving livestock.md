@@ -28,7 +28,7 @@ The words “may permit” are substituted for the words “shall have authority
 
 #### Amendments
 
-1980—Pub. L. 96–513 substituted “reservations” for “reservation” in section catchline.
+<b>1980</b>—Pub. L. 96–513 substituted “reservations” for “reservation” in section catchline.
 
 #### Effective Date of 1980 Amendment
 

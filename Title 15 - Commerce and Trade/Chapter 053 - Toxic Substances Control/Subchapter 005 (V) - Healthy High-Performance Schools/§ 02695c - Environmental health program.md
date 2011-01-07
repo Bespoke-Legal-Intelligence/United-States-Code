@@ -44,7 +44,7 @@ Not later than 2 years after December 19, 2007, the Administrator, in consultati
 
 &emsp;&emsp;(H) other issues relating to the health, comfort, productivity, and performance of occupants of the school facilities;
 
-&emsp;(4) provides technical assistance on siting, design, management, and operation of school facilities, including facilities used by students with disabilities or special needs;
+&emsp;(4) provides technical assistance on siting, design, management, and operation of schoolfacilities, including facilities used by students with disabilities or special needs;
 
 &emsp;(5) collaborates with federally funded pediatric environmental health centers to assist in on-site school environmental investigations;
 

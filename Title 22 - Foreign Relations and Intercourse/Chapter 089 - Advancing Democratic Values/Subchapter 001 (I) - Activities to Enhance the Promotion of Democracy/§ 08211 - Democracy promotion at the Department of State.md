@@ -6,7 +6,7 @@
 
 &emsp;The Secretary of State shall establish and staff Democracy Liaison Officer positions. Democracy Liaison Officers shall serve under the supervision of the Assistant Secretary. Democracy Liaison Officers may be assigned to the following posts:
 
-&emsp;&emsp;(A) United States missions to, or liaisons with, regional and multilateral organizations, including the United States missions to the European Union, African Union, Organization of American States, and any other appropriate regional organization, the Organization for Security and Cooperation in Europe, the United Nations and its relevant specialized agencies, and the North Atlantic Treaty Organization.
+&emsp;&emsp;(A) United States missions to, or liaisons with, regional and multilateral organizations, including the United States missions to the European Union, African Union, Organization of American States, and any other appropriate regional organization, the Organization for Security and Cooperation in Europe, the United Nations and its relevantspecialized agencies, and the North Atlantic Treaty Organization.
 
 &emsp;&emsp;(B) Regional public diplomacy centers of the Department of State.
 
@@ -50,7 +50,7 @@
 
 #### (3) Liaison
 
-&emsp;Within the Bureau of Democracy, Human Rights, and Labor, the Assistant Secretary shall identify officers or employees who have expertise in and shall be responsible for working with nongovernmental organizations, individuals, and movements that develop relations with, consult with, and provide assistance to nongovernmental organizations, individuals, and movements in foreign countries that arecommitted to the peaceful promotion of democracy and fundamental rights and freedoms.
+&emsp;Within the Bureau of Democracy, Human Rights, and Labor, the Assistant Secretary shall identify officers or employees who have expertise in and shall be responsible for working with nongovernmental organizations, individuals, and movements that develop relations with, consult with, and provide assistance to nongovernmental organizations, individuals, and movements in foreign countries that are committed to the peaceful promotion of democracy and fundamental rights and freedoms.
 
 #### (c) Actions by chiefs of mission
 

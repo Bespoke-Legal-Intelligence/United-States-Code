@@ -28,19 +28,19 @@ The legislature shall keep a journal of its proceedings and publish the same. Ev
 
 A listing of all laws enacted by the legislature each year shall be transmitted with the annual report to Congress required pursuant to section 1591 of this title.
 
-(July 22, 1954, ch. 558, §9, 68 Stat. 501; Pub. L. 90–496, §§2, 3, Aug. 23, 1968, 82 Stat. 837; Pub. L.95–134, title III, §301(b), Oct. 15, 1977, 91 Stat. 1163; Pub. L. 95–348, §4(c)(1), Aug. 18, 1978, 92 Stat. 490; Pub. L. 96–470, title II, §206(d), Oct. 19, 1980, 94 Stat. 2244; Pub. L. 106–364, §2, Oct. 27, 2000, 114 Stat. 1408.)
+(July 22, 1954, ch. 558, §9, 68 Stat. 501; Pub. L. 90–496, §§2, 3, Aug. 23, 1968, 82 Stat. 837; Pub. L. 95–134, title III, §301(b), Oct. 15, 1977, 91 Stat. 1163; Pub. L. 95–348, §4(c)(1), Aug. 18, 1978, 92 Stat. 490; Pub. L. 96–470, title II, §206(d), Oct. 19, 1980, 94 Stat. 2244; Pub. L. 106–364, §2, Oct. 27, 2000, 114 Stat. 1408.)
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–364 amended first sentence generally. Prior to amendment, first sentence read as follows: “The quorum of the legislature shall consist of eight of its members.”
+<b>2000</b>—Subsec. (a). Pub. L. 106–364 amended first sentence generally. Prior to amendment, first sentence read as follows: “The quorum of the legislature shall consist of eight of its members.”
 
-1980—Subsec. (g). Pub. L. 96–470 substituted provision requiring a listing of all laws enacted by the legislature each year be transmitted with the annual report to Congress required by section 1591 of this title for provision requiring copies of all laws enacted by the legislature be transmitted within 15 days of their enactment by the Governor to the Secretary of the Interior and by the Secretary annually to Congress.
+<b>1980</b>—Subsec. (g). Pub. L. 96–470 substituted provision requiring a listing of all laws enacted by the legislature each year be transmitted with the annual report to Congress required by section 1591 of this title for provision requiring copies of all laws enacted by the legislature be transmitted within 15 days of their enactment by the Governor to the Secretary of the Interior and by the Secretary annually to Congress.
 
-1978—Subsec. (c). Pub. L. 95–348 inserted provision authorizing the Virgin Islands Legislature to determine other dates on which the fiscal year shall commence.
+<b>1978</b>—Subsec. (c). Pub. L. 95–348 inserted provision authorizing the Virgin Islands Legislature to determine other dates on which the fiscal year shall commence.
 
-1977—Subsec. (d). Pub. L. 95–134 inserted “, unless the legislature, after reconsideration upon motion of a member thereof, passes such items, parts, or portions so objected to by a vote of two-thirds of all the members of the legislature” after “shall not take effect”.
+<b>1977</b>—Subsec. (d). Pub. L. 95–134 inserted “, unless the legislature, after reconsideration upon motion of a member thereof, passes such items, parts, or portions so objected to by a vote of two-thirds of all the members of the legislature” after “shall not take effect”.
 
-1968—Subsec. (a). Pub. L. 90–496, §2, increased the quorum requirement from seven to eight members.
+<b>1968</b>—Subsec. (a). Pub. L. 90–496, §2, increased the quorum requirement from seven to eight members.
 
 Subsec. (d). Pub. L. 90–496, §3, inserted requirement that when a bill is returned by the Governor to the legislature, a motion of a member of the legislature is necessary for the legislature to reconsider the bill, and substituted provisions that if, after reconsideration by the legislature, two-thirds of all the members of the legislature pass a bill returned by the Governor, it shall be a law for provisions that if, after reconsideration by the legislature, two-thirds of all the members of the legislature agree to pass the bill, it shall be presented anew to the Governor for his approval, provisions that if the Governor does not approve the bill, the bill shall be sent to the President of the United States for his approval, provisions that if the President disapproves the bill, the bill shall be returned to the Governor, stating the President's disapproval, and it shall not be a law, and provisions that if the President neither approves nor disapproves the bill within 90 days after it was sent to him by the Governor, the bill shall be a law as if the President had signed it.
 

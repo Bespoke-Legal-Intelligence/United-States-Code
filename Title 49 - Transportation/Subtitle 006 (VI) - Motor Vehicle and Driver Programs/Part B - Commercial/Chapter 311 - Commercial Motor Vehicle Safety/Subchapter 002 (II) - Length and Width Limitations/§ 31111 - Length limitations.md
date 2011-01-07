@@ -56,7 +56,7 @@ Qualifying Highways.—The Secretary by regulation shall designate as qualifying
 
 (f)
 
-Exemptions.—(1) If the chief executive officer of a State, after consulting under paragraph (2) of this subsection, decides a segment of the Dwight D. Eisenhower System of Interstate and Defense Highways is not capable of safely accommodating a commercial motor vehicle having a length described in subsection (b)(1)(A) of this section or the motor vehicle combination described in subsection (c) of this section, the chief executive officer may notify the Secretary of that decision and request the Secretary to exempt that segment from either or both provisions.
+Exemptions.—(1) If the chief executive officer of a State, after consulting under paragraph (2) of this subsection, decides a segment of the Dwight D. Eisenhower System of Interstate andDefense Highways is not capable of safely accommodating a commercial motor vehicle having a length described in subsection (b)(1)(A) of this section or the motor vehicle combination described in subsection (c) of this section, the chief executive officer may notify the Secretary of that decision and request the Secretary to exempt that segment from either or both provisions.
 
 (2) Before making a decision under paragraph (1) of this subsection, the chief executive officer shall consult with units of local government in the State in which the segment of the Dwight D. Eisenhower System of Interstate and Defense Highways is located and with the chief executive officer of any adjacent State that may be directly affected by the exemption. As part of the consultations, consideration shall be given to any potential alternative route that serves the area in which the segment is located and can safely accommodate a commercial motor vehicle having a length described in subsection (b)(1)(A) of this section or the motor vehicle combination described in subsection (c) of this section.
 
@@ -160,15 +160,15 @@ Subsection (g) is substituted for 49 App.:2311(d) to eliminate unnecessary words
 
 #### Amendments
 
-2008—Subsec. (a)(4). Pub. L. 110–244, §301(r)(1), in heading, substituted “Driveaway saddlemount” for “Drive-away saddlemount with fullmount”, and, in text, substituted “driveaway saddlemount” for “drive-away saddlemount with fullmount” and inserted at end “Such combination may include one fullmount.”
+<b>2008</b>—Subsec. (a)(4). Pub. L. 110–244, §301(r)(1), in heading, substituted “Driveaway saddlemount” for “Drive-away saddlemount with fullmount”, and, in text, substituted “driveaway saddlemount” for “drive-away saddlemount with fullmount” and inserted at end “Such combination may include one fullmount.”
 
 Subsec. (b)(1)(D). Pub. L. 110–244, §301(r)(2), substituted “all driveaway saddlemount” for “a driveaway saddlemount with fullmount”.
 
-2005—Subsec. (a)(4). Pub. L. 109–59, §4141(a), added par. (4).
+<b>2005</b>—Subsec. (a)(4). Pub. L. 109–59, §4141(a), added par. (4).
 
 Subsec. (b)(1)(D) to (F). Pub. L. 109–59, §4141(b), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 
-1998—Subsec. (a). Pub. L. 105–178, §4005(1), substituted “section, the following definitions apply:” for “section—” in introductory provisions.
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §4005(1), substituted “section, the following definitions apply:” for “section—” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 105–178, §4005(5), added par. (1). Former par. (1) redesignated (2).
 
@@ -184,7 +184,7 @@ Truck tractor.—The term” after “(2)”.
 
 Subsec. (a)(3). Pub. L. 105–178, §4005(4), redesignated par. (2) as (3).
 
-1995—Subsec. (b)(1)(E). Pub. L. 104–88 added subpar. (E).
+<b>1995</b>—Subsec. (b)(1)(E). Pub. L. 104–88 added subpar. (E).
 
 #### Effective Date of 1995 Amendment
 

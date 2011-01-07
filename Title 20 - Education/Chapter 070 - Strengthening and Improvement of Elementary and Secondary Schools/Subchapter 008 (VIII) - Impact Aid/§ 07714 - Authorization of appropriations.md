@@ -2,7 +2,7 @@
 
 #### (a) Payments for Federal acquisition of real property
 
-For the purpose of making payments under section 7702 of this title, there are authorized to be appropriated $32,000,000 for fiscal year 2000 and such sums as may be necessary for each of the seven succeeding fiscal years.
+For the purpose of making payments under section 7702 of this title, there are authorized tobe appropriated $32,000,000 for fiscal year 2000 and such sums as may be necessary for each of the seven succeeding fiscal years.
 
 #### (b) Basic payments; payments for heavily impacted local educational agencies
 
@@ -26,7 +26,7 @@ For the purpose of carrying out section 7708 of this title, there are authorized
 
 #### Amendments
 
-2002—Subsecs. (a) to (c). Pub. L. 107–110, §805(a), substituted “seven succeeding fiscal years” for “three succeeding fiscal years”.
+<b>2002</b>—Subsecs. (a) to (c). Pub. L. 107–110, §805(a), substituted “seven succeeding fiscal years” for “three succeeding fiscal years”.
 
 Subsec. (e). Pub. L. 107–110, §805(b), substituted “for fiscal year 2001, $150,000,000 for fiscal year 2002, and such sums as may be necessary for each of the five succeeding fiscal years” for “for each of the three succeeding fiscal years”.
 
@@ -34,7 +34,7 @@ Subsec. (f). Pub. L. 107–110, §805(a), substituted “seven succeeding fiscal
 
 Subsec. (g). Pub. L. 107–110, §805(c), struck out heading and text of subsec. (g). Text read as follows: “For the purpose of carrying out section 7702(j) of this title there are authorized to be appropriated $1,500,000 for fiscal year 2000 and such sums as may be necessary for each of the three succeeding fiscal years.”
 
-2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1817(a)\], substituted “$32,000,000 for fiscal year 2000” for “$16,750,000 for fiscal year 1995” and “three” for “four”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1817(a)\], substituted “$32,000,000 for fiscal year 2000” for “$16,750,000 for fiscal year 1995” and “three” for “four”.
 
 Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1817(b)\], substituted “section 7703(b)” for “subsections (b) and (f) of section 7703”, “$809,400,000 for fiscal year 2000” for “$775,000,000 for fiscal year 1995”, and “three” for “four” and struck out “, of which 6 percent shall be available, until expended, for each such fiscal year to carry out section 7703(f) of this title” before period at end.
 
@@ -48,7 +48,7 @@ Subsec. (f). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1817(f)\], subs
 
 Subsec. (g). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1817(g)\], amended heading and substituted “$1,500,000 for fiscal year 2000 and such sums as may be necessary for each of the three succeeding fiscal years” for “such sums as are necessary beginning in fiscal year 1998 and for each succeeding fiscal year” in text.
 
-1997—Subsec. (g). Pub. L. 105–78 added subsec. (g).
+<b>1997</b>—Subsec. (g). Pub. L. 105–78 added subsec. (g).
 
 #### Effective Date of 2002 Amendment
 

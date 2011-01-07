@@ -32,11 +32,11 @@
 
 #### (8) Imported distilled spirits withdrawn for beverage purposes
 
-&emsp;There is hereby imposed on all imported distilled spirits withdrawn from customs custody under section 5232 without payment of the internal revenue tax, and thereafter withdrawnfrom bonded premises for beverage purposes, an additional tax equal to the duty which would have been paid had such spirits been imported for beverage purposes, less the duty previously paid thereon.
+&emsp;There is hereby imposed on all imported distilled spirits withdrawn from customs custody under section 5232 without payment of the internal revenue tax, and thereafter withdrawn from bonded premises for beverage purposes, an additional tax equal to the duty which would have been paid had such spirits been imported for beverage purposes, less the duty previously paid thereon.
 
 #### (9) Alcoholic compounds from Puerto Rico
 
-&emsp;Except as provided in section 5314, upon bay rum, or any article containing distilled spirits, brought from Puerto Rico into the United States for consumption or sale there is hereby imposed a tax on the spirits contained therein at the rate imposed on distilled spirits produced in the United States.
+&emsp;Except as provided in section 5314, upon bay rum, or any article containing distilled spirits, brought from Puerto Rico into the United States for consumption or sale there is hereby imposed a tax on the spirits contained thereinat the rate imposed on distilled spirits produced in the United States.
 
 #### (b) Time of attachment on distilled spirits
 
@@ -54,41 +54,41 @@ A prior section 5001, acts Aug. 16, 1954, ch. 736, 68A Stat. 595; Mar. 30, 1955,
 
 #### Amendments
 
-1994—Subsec. (a)(3) to (10). Pub. L. 103–465 redesignated pars. (4) to (10) as (3) to (9), respectively, and struck out former par. (3), “Imported perfumes containing distilled spirits”, which read as follows: “There is hereby imposed on all perfumes imported into the United States containing distilled spirits a tax of $13.50 per wine gallon, and a proportionate tax at a like rate on all fractional parts of such wine gallon.”
+<b>1994</b>—Subsec. (a)(3) to (10). Pub. L. 103–465 redesignated pars. (4) to (10) as (3) to (9), respectively, and struck out former par. (3), “Imported perfumes containing distilled spirits”, which read as follows: “There is hereby imposed on all perfumes imported into the United States containing distilled spirits a tax of $13.50 per wine gallon, and a proportionate tax at a like rate on all fractional parts of such wine gallon.”
 
-1990—Subsec. (a)(1), (3). Pub. L. 101–508 substituted “$13.50” for “$12.50”.
+<b>1990</b>—Subsec. (a)(1), (3). Pub. L. 101–508 substituted “$13.50” for “$12.50”.
 
-1984—Subsec. (a)(1), (3). Pub. L. 98–369 substituted “$12.50” for “$10.50”.
+<b>1984</b>—Subsec. (a)(1), (3). Pub. L. 98–369 substituted “$12.50” for “$10.50”.
 
-1979—Subsec. (a)(1). Pub. L. 96–39, §802, struck out “in bond or” after “distilled spirits” and “or wine gallon when below proof” after “each proof gallon” and substituted “a tax” for “an internal revenue tax” and “proof gallon” for “such proof or wine gallon”.
+<b>1979</b>—Subsec. (a)(1). Pub. L. 96–39, §802, struck out “in bond or” after “distilled spirits” and “or wine gallon when below proof” after “each proof gallon” and substituted “a tax” for “an internal revenue tax” and “proof gallon” for “such proof or wine gallon”.
 
 Subsec. (a)(2). Pub. L. 96–39, §805(d), inserted “, and any alcoholic ingredient added to such products” after “has not been paid”.
 
-1965—Subsec. (a)(1). Pub. L. 89–44 struck out last sentence which provided that the rate of tax imposed by par. (1) would be $9 on and after July 1, 1965.
+<b>1965</b>—Subsec. (a)(1). Pub. L. 89–44 struck out last sentence which provided that the rate of tax imposed by par. (1) would be $9 on and after July 1, 1965.
 
 Subsec. (a)(3). Pub. L. 89–44 struck out last sentence which provided that the rate of tax imposed by par. (3) would be $9 on and after July 1, 1965.
 
-1964—Subsec. (a)(1). Pub. L. 88–348 substituted “July 1, 1965” for “July 1, 1964”.
+<b>1964</b>—Subsec. (a)(1). Pub. L. 88–348 substituted “July 1, 1965” for “July 1, 1964”.
 
 Subsec. (a)(3). Pub. L. 88–348 substituted “July 1, 1965” for “July 1, 1964”.
 
-1963—Subsec. (a)(1). Pub. L. 88–52, §3(a)(4), substituted “July 1, 1964” for “July 1, 1963”.
+<b>1963</b>—Subsec. (a)(1). Pub. L. 88–52, §3(a)(4), substituted “July 1, 1964” for “July 1, 1963”.
 
 Subsec. (a)(3). Pub. L. 88–52, §3(a)(5), substituted “July 1, 1964” for “July 1, 1963”.
 
-1962—Subsec. (a)(1). Pub. L. 87–508, §3(a)(3), substituted “July 1, 1963” for “July 1, 1962”.
+<b>1962</b>—Subsec. (a)(1). Pub. L. 87–508, §3(a)(3), substituted “July 1, 1963” for “July 1, 1962”.
 
 Subsec. (a)(3). Pub. L. 87–508, §3(a)(4), substituted “July 1, 1963” for “July 1, 1962”.
 
-1961—Subsec. (a)(1). Pub. L. 87–72, §3(a)(4), substituted “July 1, 1962” for “July 1, 1961”.
+<b>1961</b>—Subsec. (a)(1). Pub. L. 87–72, §3(a)(4), substituted “July 1, 1962” for “July 1, 1961”.
 
 Subsec. (a)(3). Pub. L. 87–72, §3(a)(5), substituted “July 1, 1962” for “July 1, 1961”.
 
-1960—Subsec. (a)(1). Pub. L. 86–564, §202(a)(4), substituted “July 1, 1961” for “July 1, 1960”.
+<b>1960</b>—Subsec. (a)(1). Pub. L. 86–564, §202(a)(4), substituted “July 1, 1961” for “July 1, 1960”.
 
 Subsec. (a)(3). Pub. L. 86–564, §202(a)(5), substituted “July 1, 1961” for “July 1, 1960”.
 
-1959—Subsec. (a)(1). Pub. L. 86–75, §3(a)(2), substituted “July 1, 1960” for “July 1, 1959”.
+<b>1959</b>—Subsec. (a)(1). Pub. L. 86–75, §3(a)(2), substituted “July 1, 1960” for “July 1, 1959”.
 
 Subsec. (a)(3). Pub. L. 86–75, §3(a)(3), substituted “July 1, 1960” for “July 1, 1959”.
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 89–44 applicable on and after July 1, 1965, see section 7
 
 #### Effective Date
 
-Section 210(a)(1) of Pub. L. 85–859 provided that: “The amendments made by sections 201 and 205 \[amendingthis chapter and repealing acts Mar. 3, 1877, 114, 19 Stat. 393, and Oct. 18, 1888, ch. 1194, 25 Stat. 560\] shall take effect on July 1, 1959, except that any provision having the effect of a provision contained in such amendments may be made effective at an earlier date by the promulgation of regulations by the Secretary or his delegate to effectuate such provision, in which case the effective date shall be that prescribed in such regulations. The amendments made by paragraphs (17) and (18) of section 204 \[amending section 7652 of this title\] shall take effect on July 1, 1959. Except as provided in section 206(f), all other provisions of this title \[enacting sections 5849, 5854, 5855, and 7608 of this title, amending chapter 52 of this title and sections 5801, 5811, 5814, 5821, 5843, 5848, 5851, 6071, 6207, 6422, 7214, 7272, 7301, 7324 to 7326, 7609, and 7655 of this title, and repealing former section 5854 of this title\] shall take effect on the day following the date of the enactment of this Act \[Sept. 2, 1958\].”
+Section 210(a)(1) of Pub. L. 85–859 provided that: “The amendments made by sections 201 and 205 \[amending this chapter and repealing acts Mar. 3, 1877, 114, 19 Stat. 393, and Oct. 18, 1888, ch. 1194, 25 Stat. 560\] shall take effect on July 1, 1959, except that any provision having the effect of a provision contained in such amendments may be made effective at an earlier date by the promulgation of regulations by the Secretary or his delegate to effectuate such provision, in which case the effective date shall be that prescribed in such regulations. The amendments made by paragraphs (17) and (18) of section 204 \[amending section 7652 of this title\] shall take effect on July 1, 1959. Except as provided in section 206(f), all other provisions of this title \[enacting sections 5849, 5854, 5855, and 7608 of this title, amending chapter 52 of this title and sections 5801, 5811, 5814, 5821, 5843, 5848,5851, 6071, 6207, 6422, 7214, 7272, 7301, 7324 to 7326, 7609, and 7655 of this title, and repealing former section 5854 of this title\] shall take effect on the day following the date of the enactment of this Act \[Sept. 2, 1958\].”
 
 #### Short Title
 
@@ -232,7 +232,7 @@ Corporations.—In the case of a controlled group—
 
 &emsp;&emsp;“(ii) the $240, $270, and $87 amounts specified in paragraph (4),
 
-> &emsp;shall be apportioned among the dealers who are component members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term ‘controlled group’ has the meaning given to such term by subsection (a) of section 1563 of such Code; except thatfor such purposes the phrase ‘more than 50 percent’ shall be substituted for the phrase ‘at least 80 percent’ each place it appears in such subsection.
+> &emsp;shall be apportioned among the dealers who are component members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term ‘controlled group’ has the meaning given to such term by subsection (a) of section 1563 of such Code; except that for such purposes the phrase ‘more than 50 percent’ shall be substituted for the phrase ‘at least 80 percent’ each place it appears in such subsection.
 
 &emsp;“(B)
 
@@ -244,7 +244,7 @@ Other laws applicable.—
 
 &emsp;“(A)
 
-In general.—All provisions of law, including penalties, applicable to the comparable excise tax with respect to any tax-increased article shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply to the floor stocks taxes imposed by paragraph (1) to the same extent as if such taxes were imposed by the comparable excise tax.
+In general.—All provisions of law, including penalties, applicable to the comparable excise tax with respect to any tax-increased article shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply to the floor stockstaxes imposed by paragraph (1) to the same extent as if such taxes were imposed by the comparable excise tax.
 
 &emsp;“(B)
 
@@ -362,7 +362,7 @@ Nonincorporated dealers under common control.—Under regulations prescribed by 
 
 “(6)
 
-Other laws applicable.—All provisions of law, including penalties, applicable with respect to the taxes imposed by section 5001 of the Internal Revenue Code of 1986 shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply inrespect of the taxes imposed by paragraph (1) to the same extent as if such taxes were imposed by such section 5001.
+Other laws applicable.—All provisions of law, including penalties, applicable with respect to the taxes imposed by section 5001 of the Internal Revenue Code of 1986 shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply in respect of the taxes imposed by paragraph (1) to the same extent as if such taxes were imposed by such section 5001.
 
 “(7)
 

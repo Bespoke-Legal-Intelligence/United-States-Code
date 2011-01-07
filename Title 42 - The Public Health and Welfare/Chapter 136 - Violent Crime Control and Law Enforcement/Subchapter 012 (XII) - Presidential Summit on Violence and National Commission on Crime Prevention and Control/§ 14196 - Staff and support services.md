@@ -28,7 +28,5 @@ The Administrator of the General Service Administration shall provide suitable o
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (c), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 Level V of the Executive Schedule, referred to in subsec. (c), is set out in section 5316 of Title 5.
 

@@ -74,7 +74,7 @@ Special rule regarding end of period.—For purposes of applying clause (ii), a 
 
 (2) The daily benefit rate with respect to any such employee for such day of unemployment or sickness shall be in an amount equal to 60 per centum of the daily rate of compensation for the employee's last employment in which he engaged for an employer in the base year, but not less than $12.70: <i>Provided, however</i>, That for registration periods beginning after June 30, 1975, but before July 1, 1976, such amount shall not exceed $24 per day of such unemployment or sickness, that for registration periods beginning after June 30, 1976, but before July 1, 1988, such amount shall not exceed $25 per day of such unemployment or sickness, that for registration periods beginning after June 30, 1988, but before July 1, 1989, such amount shall not exceed $30 per day of unemployment or sickness, and that for registration periods beginning after June 30, 1989, such amount shall not exceed the maximum daily benefit rate provided in paragraph (3) of this subsection. The daily rate of compensation referred to in this paragraph shall be determined by the Board on the basis of information furnished to the Board by the employee, his employer, or both.
 
-(3) The maximum daily benefit rate computed by the Board under section 362(r)(2) of this titleshall be the product of the monthly compensation base, as computed under section 351(i)(2) of this title for the base year immediately preceding the beginning of the benefit year, multiplied by 5 percent. If the maximum daily benefit rate so computed is not a multiple of $1, it shall be rounded down to the nearest multiple of $1.
+(3) The maximum daily benefit rate computed by the Board under section 362(r)(2) of this title shall be the product of the monthly compensation base, as computed under section 351(i)(2) of this title for the base year immediately preceding the beginning of the benefit year, multiplied by 5 percent. If the maximum daily benefit rate so computed is not a multiple of $1, it shall be rounded down to the nearest multiple of $1.
 
 (4) In computing benefits to be paid, days of unemployment shall not be combined with days of sickness in the same registration period.
 
@@ -92,7 +92,7 @@ The benefits provided for in this section shall be paid to an employee at such r
 
 #### (B) Limitation
 
-&emsp;&emsp;The total amount of benefits that may be paid to an employee for days of unemployment within a benefit year shall in no case exceed the employee's compensation in the base year; and the total amount of benefits that may be paid to an employee for days of sickness within a benefit year shall in no case exceed the employee's compensation in the base year, except that notwithstanding section 351(i) of this title, in determining the employee's compensation in the base year for the purpose of this sentence, any money remuneration paid to the employee for services rendered as an employee shall be taken into account that is not in excess of an amount that bears the same ratio to $775 as the monthly compensation base for that year as computed under section 351(i) of this title bears to $600.
+&emsp;&emsp;The total amount of benefits that may be paid to an employee for days of unemployment within a benefit year shall in no case exceed the employee's compensation in the base year; and the total amount of benefits that may be paid to an employee for days ofsickness within a benefit year shall in no case exceed the employee's compensation in the base year, except that notwithstanding section 351(i) of this title, in determining the employee's compensation in the base year for the purpose of this sentence, any money remuneration paid to the employee for services rendered as an employee shall be taken into account that is not in excess of an amount that bears the same ratio to $775 as the monthly compensation base for that year as computed under section 351(i) of this title bears to $600.
 
 #### (2) Extended benefits
 
@@ -124,7 +124,7 @@ The benefits provided for in this section shall be paid to an employee at such r
 
 #### (iii) Application
 
-&emsp;&emsp;&emsp;The provisions of clauses (i) and (ii) shall apply to an employee who received normal benefits for days of unemployment under this chapter during the period beginning July 1, 2008, and ending on June 30, 2010, except that no extended benefit period under this paragraph shall begin after December 31, 2010. Notwithstanding the preceding sentence, no benefits shall be payable under this subparagraph and clauses (i) and (ii) shall no longer be applicable upon the exhaustion of the funds appropriated under clause (iv) for payment of benefits under this subparagraph.
+&emsp;&emsp;&emsp;The provisions of clauses (i) and (ii) shall apply to an employee who received normal benefits for days of unemployment under this chapter during the period beginning July 1, 2008, and ending on June 30, 2011, except that no extended benefit period under this paragraph shall begin after December 31, 2011. Notwithstanding the preceding sentence, no benefits shall be payable under this subparagraph and clauses (i) and (ii) shall no longer be applicable upon the exhaustion of the funds appropriated under clause (iv) for payment of benefits under this subparagraph.
 
 #### (iv) Appropriation
 
@@ -166,7 +166,7 @@ If (i) benefits are paid to any employee with respect to unemployment or sicknes
 
 Benefits accrued to an individual but not yet paid at death shall, upon certification by the Board, be paid, without necessity of filing further claims therefor, to the same individual or individuals to whom any accrued annuities under section 231e(a)(1) of this title are paid. In the event that no such accrued annuities are paid, and if application for such accrued benefits is filed prior to the expiration of two years after the death of the individual to whom such benefits accrued, such accrued benefits shall be paid, upon certification by the Board, to the individual or individuals who would be entitled thereto under section 231e(a)(1) of this title if such accrued benefits were accrued annuities. If there is no individual to whom all or any part of such accrued benefits can be paid in accordance with the foregoing provisions, such benefits or part thereof shall escheat to the credit of the account.
 
-(June 25, 1938, ch. 680, §2, 52 Stat. 1096; June 20, 1939, ch. 227, §§7–9, 21, 53 Stat. 845, 848; Oct. 10, 1940, ch. 842, §§9–12, 54 Stat. 1095, 1096; July 31, 1946, ch. 709, §§305–307, 60 Stat. 736, 737; May 15, 1952, ch. 290, §1, 66 Stat. 73; Aug. 31, 1954, ch. 1164, pt. III, §304, 68 Stat. 1041; Aug. 12, 1955, ch. 869, §4, 69 Stat. 716; Pub. L. 86–28, pt. III, §§302, 303(a), May 19, 1959, 73 Stat. 30; Pub. L. 89–700, title II, §202, Oct. 30, 1966, 80 Stat. 1087; Pub. L. 90–257, title II, §202, Feb. 15, 1968, 82 Stat. 23; Pub. L. 93–445, title IV, §401, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–92, title I, §1(c)–(e), Aug. 9, 1975, 89 Stat. 461, 462; Pub. L. 98–76, title IV, §412(a), Aug. 12, 1983, 97 Stat. 436; Pub. L. 100–647, title VII, §§7101(c), 7201(a), Nov. 10, 1988, 102 Stat. 3758, 3774; Pub. L. 104–88, title III, §324(3), Dec. 29, 1995, 109 Stat. 950; Pub. L. 104–251, §§2–5(b), Oct. 9, 1996, 110 Stat. 3161–3165; Pub. L. 111–5, div. B, title II, §2006(a), Feb. 17, 2009, 123 Stat. 445; Pub. L. 111–92, §9(a), Nov. 6, 2009, 123 Stat. 2988.)
+(June 25, 1938, ch. 680, §2, 52 Stat. 1096; June 20, 1939, ch. 227, §§7–9, 21, 53 Stat. 845, 848; Oct. 10, 1940, ch. 842, §§9–12, 54 Stat. 1095, 1096; July 31, 1946, ch. 709, §§305–307, 60 Stat. 736, 737; May 15, 1952, ch. 290, §1, 66 Stat. 73; Aug. 31, 1954, ch. 1164, pt. III, §304, 68 Stat. 1041; Aug. 12, 1955, ch. 869, §4, 69 Stat. 716; Pub. L. 86–28, pt. III, §§302, 303(a), May 19, 1959, 73 Stat. 30; Pub. L. 89–700, title II, §202, Oct. 30, 1966, 80 Stat. 1087; Pub. L. 90–257, title II, §202, Feb. 15, 1968, 82 Stat. 23; Pub. L.93–445, title IV, §401, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–92, title I, §1(c)–(e), Aug. 9, 1975, 89 Stat. 461, 462; Pub. L. 98–76, title IV, §412(a), Aug. 12, 1983, 97 Stat. 436; Pub. L. 100–647, title VII, §§7101(c), 7201(a), Nov. 10, 1988, 102 Stat. 3758, 3774; Pub. L. 104–88, title III, §324(3), Dec. 29, 1995, 109 Stat. 950; Pub. L. 104–251, §§2–5(b), Oct. 9, 1996, 110 Stat. 3161–3165; Pub. L. 111–5, div. B, title II, §2006(a), Feb. 17, 2009, 123 Stat. 445; Pub. L. 111–92, §9(a), Nov. 6, 2009, 123 Stat. 2988; Pub. L. 111–312, title V, §505(a), Dec. 17, 2010, 124 Stat. 3308.)
 
 #### References in Text
 
@@ -174,13 +174,15 @@ This chapter, referred to in subsecs. (c)(2)(D)(iii) and (d), was in the origina
 
 #### Amendments
 
-2009—Subsec. (c)(2)(D). Pub. L. 111–5 added subpar. (D).
+<b>2010</b>—Subsec. (c)(2)(D)(iii). Pub. L. 111–312 substituted “June 30, 2011” for “June 30, 2010” and “December 31, 2011” for “December 31, 2010”.
+
+<b>2009</b>—Subsec. (c)(2)(D). Pub. L. 111–5 added subpar. (D).
 
 Subsec. (c)(2)(D)(iii). Pub. L. 111–92, §9(a)(1), substituted “June 30, 2010” for “June 30, 2009” and “December 31, 2010” for “December 31, 2009”.
 
 Subsec. (c)(2)(D)(iv). Pub. L. 111–92, §9(a)(2), inserted at end “In addition to the amount appropriated by the preceding sentence, out of any funds in the Treasury not otherwise appropriated, there are appropriated $175,000,000 to cover the cost of additional extended unemployment benefits provided under this subparagraph, to remain available until expended.”
 
-1996—Subsec. (a)(1)(A). Pub. L. 104–251, §2, inserted heading and amended text generally. Prior to amendment, text read as follows: “(A)(i) Except as otherwise provided in this subparagraph, benefits shall be payable to any qualified employee for each day of unemployment in excess of 4 during any registration period.
+<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–251, §2, inserted heading and amended text generally. Prior to amendment, text read as follows: “(A)(i) Except as otherwise provided in this subparagraph, benefits shall be payable to any qualified employee for each day of unemployment in excess of 4 during any registration period.
 
 “(ii) No benefits shall be payable for days of unemployment during the first registration period within a benefit year in which the employee has more than 4 days of unemployment.
 
@@ -200,9 +202,9 @@ Subsec. (c). Pub. L. 104–251, §5(a), inserted heading and amended text genera
 
 Subsec. (h). Pub. L. 104–251, §5(b), struck out subsec. (h), which provided for determining extended benefit period for employees with less than 10 years of service under former subsec. (c).
 
-1995—Subsec. (h)(3). Pub. L. 104–88 substituted “Surface Transportation Board, adjusted, as determined by the Railroad Retirement Board” for “Interstate Commerce Commission, adjusted, as determined by the Board”.
+<b>1995</b>—Subsec. (h)(3). Pub. L. 104–88 substituted “Surface Transportation Board, adjusted, as determined by the Railroad Retirement Board” for “Interstate Commerce Commission, adjusted, as determined by the Board”.
 
-1988—Subsec. (a)(1). Pub. L. 100–647, §7201(a)(1), (2), inserted “(1)” after “(a)” and substituted subpars. (A) and (B) for “Benefits shall be payable to any qualified employee for each day of unemployment in excess of four during any registration period: <i>Provided, however</i>, That in any case in which the Board finds that his unemployment was due to a stoppage of work because of a strike in the establishment, premises, or enterprise at which he was last employed, no benefits shall be payable for the first fourteen days of unemployment due to such stoppage of work. Benefits shall be payable to any qualified employee for each day of sickness after the fourth consecutive day of sickness in a period of continuing sickness, but excluding four days of sickness in any registration period. A period of continuing sickness means (i) a period of consecutive days of sickness, whether from one or more causes, or (ii) a period of successive days of sickness due to a single cause without interruption of more than ninety consecutive days which are not days of sickness.”
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–647, §7201(a)(1), (2), inserted “(1)” after “(a)” and substituted subpars. (A) and (B) for “Benefits shall be payable to any qualified employee for each day of unemployment in excess of four during any registration period: <i>Provided, however</i>, That in any case in which the Board finds that his unemployment was due to a stoppage of work because of a strike in the establishment, premises, or enterprise at which he was last employed, no benefits shall be payable for the first fourteen days of unemployment due to such stoppage of work. Benefits shall be payable to any qualified employee for each day of sickness after the fourth consecutive day of sickness in a period of continuing sickness, but excluding four days of sickness in any registration period. A period of continuing sickness means (i) a period of consecutive days of sickness, whether from one or more causes, or (ii) a period of successive days of sickness due to a single cause without interruption of more than ninety consecutive days which are not days of sickness.”
 
 Subsec. (a)(2). Pub. L. 100–647, §7201(a)(3)–(6), inserted “(2)” before “The daily benefit”, substituted “sickness, that for” for “sickness and that for”, inserted “but before July 1, 1988,” after “June 30, 1976,” and inserted “, that for registration periods beginning after June 30, 1988, but before July 1, 1989, such amount shall not exceed $30 per day of unemployment or sickness, and that for registration periods beginning after June 30, 1989, such amount shall not exceed the maximum daily benefit rate provided in paragraph (3) of this subsection.” after “unemployment or sickness”.
 
@@ -212,9 +214,9 @@ Subsec. (a)(4). Pub. L. 100–647, §7201(a)(8), inserted “(4)” before “In
 
 Subsec. (c). Pub. L. 100–647, §7101(c), substituted “shall be taken into account that is not in excess of $775 in any month before 1989 and, in any month in a base year after 1988, is not in excess of an amount that bears the same ratio to $775 as the monthly compensation base for that year as computed under section 351(i) of this title bears to $600” for “not in excess of $775 in any month shall be taken into account”.
 
-1983—Subsec. (a). Pub. L. 98–76 substituted “That in any case in which the Board finds that his unemployment was due to a stoppage of work because of a strike in the establishment, premises, or enterprise at which he was last employed, no benefits shall be payable for the first fourteen days of unemployment due to such stoppage of work” for “That notwithstanding the provisions of section 351(h) of this title, in any case in which the Board finds that his unemployment was due to a stoppage of work because of a strike in the establishment, premises, or enterprise at which he was last employed, other than a strike subject to the disqualification in section 354(a–2)(iii) of this title, none of the first seven days of unemployment due to such stoppage of work shall be included in any registration period; and subject to the registration provisions of section 351(h) of this title, so many of the ensuing seven consecutive calendar days during which his unemployment continues to be caused by such stoppage of work shall constitute a registration period, during which benefits shall be payable for each day of unemployment”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–76 substituted “That in any case in which the Board finds that his unemployment was due to a stoppage of work because of a strike in the establishment, premises, or enterprise at which he was last employed, no benefits shall be payable for the first fourteen days of unemployment due to such stoppage of work” for “That notwithstanding the provisions of section 351(h) of this title, in any case in which the Board finds that his unemployment was due to a stoppage of work because of a strike in the establishment, premises, or enterprise at which he was last employed, other than a strike subject to the disqualification in section 354(a–2)(iii) of this title, none of the first seven days of unemployment due to such stoppage of work shall be included in any registration period; and subject to the registration provisions of section 351(h) of this title, so many of the ensuing seven consecutive calendar days during which his unemployment continues to be caused by such stoppage of work shall constitute a registration period, during which benefits shall be payable for each day of unemployment”.
 
-1975—Subsec. (a), first par. Pub. L. 94–92, §1(c)(1), inserted proviso and definition of registration period, provided for payment of sickness benefits after four rather than after seven days of sickness, and inserted definition of period of continuing sickness.
+<b>1975</b>—Subsec. (a), first par. Pub. L. 94–92, §1(c)(1), inserted proviso and definition of registration period, provided for payment of sickness benefits after four rather than after seven days of sickness, and inserted definition of period of continuing sickness.
 
 Subsec. (a), second par. Pub. L. 94–92, §1(c)(2), substituted provisions for a daily rate of unemployment and sickness benefits, for registration periods beginning after June 30, 1975, but before July 1, 1976, equal to the smaller of $24 or 60 percent of the employee's last daily rate of pay in the base period (but not less than $12.70), and for registration periods beginning after June 30, 1976, a daily rate of $25 for prior provision for such benefits set out in a table with ten levels of base year compensation and corresponding daily benefit rates starting at $8.00, payable to those with the minimum qualifying base year compensation, and rising to a maximum of $12.70, which is reached by those who received base year compensation totalling $4,000 or more and prescribing a minimum daily benefit not less than the smaller of the table maximum ($12.70) or 60 percent of the employee's last daily rate of pay in the base period.
 
@@ -222,37 +224,37 @@ Subsec. (c). Pub. L. 94–92, §1(d), inserted exception provision in first prov
 
 Subsec. (h). Pub. L. 94–92, §1(e), added subsec. (h).
 
-1974—Subsec. (c). Pub. L. 93–445, §401(a), substituted “ten or more years of service as defined in section 231(f) of this title” for “ten or more years of service as defined in section 228a(f) of this title” and struck out “and section 360(h) of this title” after “For purposes of this subsection”.
+<b>1974</b>—Subsec. (c). Pub. L. 93–445, §401(a), substituted “ten or more years of service as defined in section 231(f) of this title” for “ten or more years of service as defined in section 228a(f) of this title” and struck out “and section 360(h) of this title” after “For purposes of this subsection”.
 
 Subsec. (g). Pub. L. 93–445, §401(b), substituted “section 231e(a)(1) of this title” for “section 228c(f)(1) of this title” in two places.
 
-1968—Subsec. (a). Pub. L. 90–257, §202(a), struck out all references to the payment of maternity benefits, amended table of benefit rates by striking out the line for persons in the compensation range of $750 to $999.99 and by increasing the rates of benefits for the remaining categories from $5.50 to $8.00, $6.00 to $8.50, $6.50 to $9.00, $7.00 to $9.50, $7.50 to $10.00, $8.00 to $10.50, $8.50 to $11.00, $9.00 to $11.50, $9.50 to $12.00, and $10.20 to $12.70 respectively, and raised from $10.20 to $12.70 the maximum rate applicable if the formula of 60 per centum of the daily rate of compensation for the employee's last employment in which he engaged for an employer in the base year is used.
+<b>1968</b>—Subsec. (a). Pub. L. 90–257, §202(a), struck out all references to the payment of maternity benefits, amended table of benefit rates by striking out the line for persons in the compensation range of $750 to $999.99 and by increasing the rates of benefits for the remaining categories from $5.50 to $8.00, $6.00 to $8.50, $6.50 to $9.00, $7.00 to $9.50, $7.50 to $10.00, $8.00 to $10.50, $8.50 to $11.00, $9.00 to $11.50, $9.50 to $12.00, and $10.20 to $12.70 respectively, and raised from $10.20 to $12.70 the maximum rate applicable if the formula of 60 per centum of the daily rate of compensation for the employee's last employment in which he engaged for an employer in the base year is used.
 
 Subsec. (c). Pub. L. 90–257, §202(b), removed all references to payment of maternity benefits, made provision for extended sickness benefits similar to extended unemployment benefits, added to existing provisions for the early beginning of a general benefit year (or accelerated benefit year) in certain cases involving days of unemployment similar provisions for a similar early beginning of a general benefit year in certain cases involving days of sickness, and inserted provisions dealing with the effect of the attainment of age 65 on an employee's receipt of extended sickness benefits and on his receipt of sickness benefits in an accelerated benefit year and relating to the evidence of age on which the Board may rely for purposes of determining the attainment of age 65.
 
-1966—Subsec. (a). Pub. L. 89–700, §202(a), struck out daily benefit rate of $4.50 for the compensation range of $500 to $699.99 from the table, and substituted “750” for “700” in Column I.
+<b>1966</b>—Subsec. (a). Pub. L. 89–700, §202(a), struck out daily benefit rate of $4.50 for the compensation range of $500 to $699.99 from the table, and substituted “750” for “700” in Column I.
 
 Subsec. (g). Pub. L. 89–700, §202(b), amended subsec. (g) generally, and among other changes, provided that if there is no individual to whom accrued benefits can be paid, such benefits or parts thereof shall escheat to the credit of the account.
 
-1959—Subsec. (a). Pub. L. 86–28, §302, substituted “for each day of unemployment in excess of four during any registration period, and” for “for each day of unemployment in excess of seven during the first registration period, within a benefit year, in which he will have had seven or more days of unemployment, and for each day of unemployment in excess of four during any subsequent registration period in the same benefit year, and”, “60 per centum” for “50 per centum”, and “not to exceed $10.20” for “not to exceed $8.50”, and increased the daily benefit rates.
+<b>1959</b>—Subsec. (a). Pub. L. 86–28, §302, substituted “for each day of unemployment in excess of four during any registration period, and” for “for each day of unemployment in excess of seven during the first registration period, within a benefit year, in which he will have had seven or more days of unemployment, and for each day of unemployment in excess of four during any subsequent registration period in the same benefit year, and”, “60 per centum” for “50 per centum”, and “not to exceed $10.20” for “not to exceed $8.50”, and increased the daily benefit rates.
 
 Subsec. (c). Pub. L. 86–28, §303(a), provided for an extended benefit period with respect to employees who have ten or more years of service, who did not voluntarily leave work without good cause or voluntarily retire, and who have exhausted their rights to normal benefits for days of unemployment in a benefit year.
 
-1955—Subsec. (e). Act Aug. 12, 1955, specified that exemption applies to the laws of the several States, the District of Columbia, and the Territories.
+<b>1955</b>—Subsec. (e). Act Aug. 12, 1955, specified that exemption applies to the laws of the several States, the District of Columbia, and the Territories.
 
-1954—Subsec. (a). Act Aug. 31, 1954, §304(a), changed the table of daily benefit rates and qualifying amounts of earnings in the base year so that such rates and amounts will begin with $3.50 and $4.00, respectively, to a maximum of $8.50 for $4,000 and over, and inserted proviso immediately after the table.
+<b>1954</b>—Subsec. (a). Act Aug. 31, 1954, §304(a), changed the table of daily benefit rates and qualifying amounts of earnings in the base year so that such rates and amounts will begin with $3.50 and $4.00, respectively, to a maximum of $8.50 for $4,000 and over, and inserted proviso immediately after the table.
 
 Subsec. (c). Act Aug. 31, 1954, §304(b), inserted proviso at end.
 
-1952—Subsec. (a). Act May 15, 1952, substituted a new table of daily benefit rates.
+<b>1952</b>—Subsec. (a). Act May 15, 1952, substituted a new table of daily benefit rates.
 
-1946—Subsec. (a). Act July 31, 1946, §305, changed first and second pars. to include benefits for days of sickness, changed reference to total amount of compensation payable to him in second par. to total compensation, added new benefit rates to table for compensation of $2,000 to $2,499.99 and $2,500 and over, and added last two pars. relating to maternity benefits and to computation of benefits.
+<b>1946</b>—Subsec. (a). Act July 31, 1946, §305, changed first and second pars. to include benefits for days of sickness, changed reference to total amount of compensation payable to him in second par. to total compensation, added new benefit rates to table for compensation of $2,000 to $2,499.99 and $2,500 and over, and added last two pars. relating to maternity benefits and to computation of benefits.
 
 Subsec. (c). Act July 31, 1946, §306, increased maximum days of unemployment to 130 and established same maximum for days of sickness.
 
 Subsec. (f). Act July 31, 1946, §307, inserted references to sickness.
 
-1940—Subsec. (a). Act Oct. 10, 1940, §9, designated existing provisions as cl. (i), substituted registration period for half-month as determining factor, added cl. (ii), and increased total compensation amounts set out in Column I and daily benefit amounts set out in Column II.
+<b>1940</b>—Subsec. (a). Act Oct. 10, 1940, §9, designated existing provisions as cl. (i), substituted registration period for half-month as determining factor, added cl. (ii), and increased total compensation amounts set out in Column I and daily benefit amounts set out in Column II.
 
 Subsec. (c). Act Oct. 10, 1940, §10, substituted provisions relating to maximum number of days of unemployment within a benefit year, for provisions relating to maximum benefits payable to an employee within his benefit year.
 
@@ -260,7 +262,7 @@ Subsec. (d). Act Oct. 10, 1940, §11, substituted provisions relating to adjustm
 
 Subsec. (f). Act Oct. 10, 1940, §12, in cl. (i) substituted provisions relating to registration periods for provisions relating to benefits paid with respect to any period, and in text following cl. (ii) inserted condition relating to benefits which were paid upon the basis of days determined to be days of unemployment and included in the period for which remuneration is payable.
 
-1939—Subsec. (a). Act June 20, 1939, §7, struck out exception relating to part-time workers.
+<b>1939</b>—Subsec. (a). Act June 20, 1939, §7, struck out exception relating to part-time workers.
 
 Subsec. (d). Act June 20, 1939, §§8, 9, redesignated subsec. (e) as (d). Former subsec. (d), which authorized Board to prescribe regulations for determining amount of daily benefits and maximum benefits during any benefit year, was struck out.
 
@@ -328,7 +330,7 @@ For effective date of amendment by act Oct. 10, 1940, see section 1 of act Oct. 
 
 #### Extended Railroad Unemployment Insurance Benefits During Periods of High National Unemployment
 
-Pub. L. 102–164, title V, §501, Nov. 15, 1991, 105 Stat. 1064, as amended by Pub. L. 102–182, §3(a)(6), (7), Dec. 4,1991, 105 Stat. 1234; Pub. L. 102–244, §5, Feb. 7, 1992, 106 Stat. 5; Pub. L. 102–318, title I, §105, July 3, 1992, 106 Stat. 293; Pub. L. 103–6, §3(a), (b), Mar. 4, 1993, 107 Stat. 33; Pub. L. 103–152, §§8, 9(b), Nov. 24, 1993, 107 Stat. 1519, provided that:
+Pub. L. 102–164, title V, §501, Nov. 15, 1991, 105 Stat. 1064, as amended by Pub. L. 102–182, §3(a)(6), (7), Dec. 4, 1991, 105 Stat. 1234; Pub. L. 102–244, §5, Feb. 7, 1992, 106 Stat. 5; Pub. L. 102–318, title I, §105, July 3, 1992, 106 Stat. 293; Pub. L. 103–6, §3(a), (b), Mar. 4, 1993, 107 Stat. 33; Pub. L. 103–152, §§8, 9(b), Nov. 24, 1993, 107 Stat. 1519, provided that:
 
 “(a)
 

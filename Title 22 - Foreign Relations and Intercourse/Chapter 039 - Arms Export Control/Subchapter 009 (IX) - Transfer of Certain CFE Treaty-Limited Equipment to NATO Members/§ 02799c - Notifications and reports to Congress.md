@@ -8,7 +8,7 @@ Not less than 15 days before transferring any defense articles pursuant to secti
 
 Not later than February 1 each year, the President shall submit to the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives and the Committee on Foreign Relations and the Committee on Armed Services of the Senate a report that—
 
-&emsp;(1) lists all transfers made to each recipient NATO/CFE country by the United Statesunder section 2799b(a) of this title during the preceding calendar year;
+&emsp;(1) lists all transfers made to each recipient NATO/CFE country by the United States under section 2799b(a) of this title during the preceding calendar year;
 
 &emsp;(2) describes how those transfers further the purposes described in paragraphs (1) through (3) of section 2799 of this title; and
 
@@ -22,7 +22,7 @@ Not later than February 1 each year, the President shall submit to the Committee
 
 #### Amendments
 
-1993—Subsec. (b)(3)(B). Pub. L. 103–199 substituted “country of the Eastern Group of States Parties” for “Warsaw Pact country”.
+<b>1993</b>—Subsec. (b)(3)(B). Pub. L. 103–199 substituted “country of the Eastern Group of States Parties” for “Warsaw Pact country”.
 
 #### Delegation of Functions
 

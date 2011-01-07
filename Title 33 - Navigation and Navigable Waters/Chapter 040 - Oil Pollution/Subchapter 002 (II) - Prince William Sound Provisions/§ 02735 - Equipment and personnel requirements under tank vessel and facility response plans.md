@@ -34,5 +34,5 @@ The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (a), is titl
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–388 substituted “tanker loading cargo at” for “tank vessel operating on Prince William Sound, or” and directed the insertion of “and a response plan for such a facility,” after “(43 U.S.C. 1651 et seq.).”, which was executed by making the insertion after “(43 U.S.C. 1651 et seq.),” to reflect the probable intent of Congress.
+<b>1992</b>—Subsec. (a). Pub. L. 102–388 substituted “tanker loading cargo at” for “tank vessel operating on PrinceWilliam Sound, or” and directed the insertion of “and a response plan for such a facility,” after “(43 U.S.C. 1651 et seq.).”, which was executed by making the insertion after “(43 U.S.C. 1651 et seq.),” to reflect the probable intent of Congress.
 

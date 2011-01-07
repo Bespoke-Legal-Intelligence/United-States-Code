@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary concerned may, solely for the purpose of restructuring an armed force under the jurisdiction of that Secretary—
+Authority.—The Secretary concerned may, solely for the purpose of restructuring anarmed force under the jurisdiction of that Secretary—
 
 &emsp;(1) discharge an officer described in subsection (b); or
 
@@ -30,7 +30,7 @@ Regulations.—The Secretary concerned shall prescribe regulations for the exerc
 
 #### Amendments
 
-2008—Subsec. (b)(1)(A), (B). Pub. L. 110–181 substituted “six years” for “5 years”.
+<b>2008</b>—Subsec. (b)(1)(A), (B). Pub. L. 110–181 substituted “six years” for “5 years”.
 
 #### Effective Date
 

@@ -46,7 +46,7 @@ For the purpose of this subchapter—
 
 &emsp;(8) The term “child” means a legitimate child, a legally adopted child, an illegitimate child as to the mother, or an illegitimate child as to the alleged father, only if (A) he acknowledged the child in writing signed by him; or (B) he has been judicially ordered to contribute to the child's support; or (C) he has been, before his death, judicially decreed to be the father of such child; or (D) proof of paternity is established by a certified copy of the public record of birth or church record of baptism showing that the insured was the informant and was named as father of the child; or (E) proof of paternity is established from service department or other public records, such as school or welfare agencies, which show that with his knowledge the insured was named as the father of the child.
 
-&emsp;(9) The term “parent” means a father of a legitimate child, mother of a legitimate child, father through adoption, mother through adoption, mother of an illegitimate child, and father of an illegitimate child but only if (A)he acknowledged paternity of the child in writing signed by him before the child's death; or (B) he has been judicially ordered to contribute to the child's support; or (C) he has been judicially decreed to be the father of such child; or (D) proof of paternity is established by a certified copy of the public record of birth or church record of baptism showing that the claimant was the informant and was named as father of the child; or (E) proof of paternity is established from service department or other public records, such as school or welfare agencies, which show that with his knowledge the claimant was named as father of the child. No person who abandoned or willfully failed to support a child during the child's minority, or consented to the child's adoption may be recognized as a parent for the purpose of this subchapter. However, the immediately preceding sentence shall not be applied so as to require duplicate payments in any case in which insurance benefits have been paid prior to receipt in the administrative office established under subsection 1966(b) of this title of sufficient evidence to clearly establish that the person so paid could not qualify as a parent solely by reason of such sentence.
+&emsp;(9) The term “parent” means a father of a legitimate child, mother of a legitimate child, father through adoption, mother through adoption, mother of an illegitimate child, and father of an illegitimate child but only if (A) he acknowledged paternity of the child in writing signed by him before the child's death; or (B) he has been judicially ordered to contribute to the child's support; or (C) he has been judicially decreed to be the father of such child; or (D) proof of paternity is established by a certified copy of the public record of birth or church record of baptism showing that the claimant was the informant and was named as father of the child; or (E) proof of paternity is established from service department or other public records, such as school or welfare agencies, which show that with his knowledge the claimant was named as father of the child. No person who abandoned or willfully failed to support a child during the child's minority, or consented to the child's adoption may be recognized as a parent for the purpose of this subchapter. However, the immediately preceding sentence shall not be applied so as to require duplicate payments in any case in which insurance benefits have been paid prior to receipt in the administrative office established under subsection 1966(b) of this title of sufficient evidence to clearly establish that the person so paid could not qualify as a parent solely by reason of such sentence.
 
 &emsp;(10) The term “insurable dependent”, with respect to a member, means the following:
 
@@ -66,9 +66,9 @@ Section 12304(i)(1) of title 10, referred to in par. (5)(C), was redesignated se
 
 #### Amendments
 
-2008—Par. (10)(C). Pub. L. 110–389 added subpar. (C).
+<b>2008</b>—Par. (10)(C). Pub. L. 110–389 added subpar. (C).
 
-2006—Par. (11). Pub. L. 109–233 struck out par. (11) which read as follows: “The term ‘activities of daily living’ means the inability to independently perform 2 of the 6 following functions:
+<b>2006</b>—Par. (11). Pub. L. 109–233 struck out par. (11) which read as follows: “The term ‘activities of daily living’ means the inability to independently perform 2 of the 6 following functions:
 
 &emsp;“(A) Bathing.
 
@@ -82,13 +82,13 @@ Section 12304(i)(1) of title 10, referred to in par. (5)(C), was redesignated se
 
 &emsp;“(F) Transferring.”
 
-2005—Par. (11). Pub. L. 109–13 added par. (11).
+<b>2005</b>—Par. (11). Pub. L. 109–13 added par. (11).
 
-2001—Par. (10). Pub. L. 107–14 added par. (10).
+<b>2001</b>—Par. (10). Pub. L. 107–14 added par. (10).
 
-2000—Par. (5)(C), (D). Pub. L. 106–419 added subpar. (C) and redesignated former subpar. (C) as (D).
+<b>2000</b>—Par. (5)(C), (D). Pub. L. 106–419 added subpar. (C) and redesignated former subpar. (C) as (D).
 
-1996—Par. (5)(B). Pub. L. 104–275, §402(a)(1), inserted “and” at end.
+<b>1996</b>—Par. (5)(B). Pub. L. 104–275, §402(a)(1), inserted “and” at end.
 
 Par. (5)(C) to (E). Pub. L. 104–275, §402(a)(2), (3), redesignated subpar. (E) as (C) and struck out former subpars. (C) and (D) which read as follows:
 
@@ -96,11 +96,11 @@ Par. (5)(C) to (E). Pub. L. 104–275, §402(a)(2), (3), redesignated subpar. (E
 
 “(D) a person transferred to the Retired Reserve of a uniformed service under the temporary special retirement authority provided in section 1331a of title 10 who has not received the first increment of retirement pay or has not reached sixty-one years of age; and”.
 
-1994—Par. (5)(B), (C). Pub. L. 103–337, §1677(d)(1), substituted “chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “chapter 67 of title 10”.
+<b>1994</b>—Par. (5)(B), (C). Pub. L. 103–337, §1677(d)(1), substituted “chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “chapter 67 of title 10”.
 
 Par. (5)(D), (E). Pub. L. 103–337, §651(a), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-1991—Pub. L. 102–83, §5(a), renumbered section 765 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 765 of this title as this section.
 
 Par. (4). Pub. L. 102–54, §14(b)(16)(A), redesignated cls. (i) and (ii) as (A) and (B), respectively.
 
@@ -110,23 +110,23 @@ Par. (9). Pub. L. 102–83, §5(c)(1), substituted “1966(b)” for “766(b)�
 
 Pub. L. 102–54, §14(b)(16)(B), redesignated cls. (a) to (e) as (A) to (E), respectively.
 
-1986—Par. (5)(B). Pub. L. 99–576, §701(35)(A), substituted “such person” for “he”.
+<b>1986</b>—Par. (5)(B). Pub. L. 99–576, §701(35)(A), substituted “such person” for “he”.
 
 Par. (9). Pub. L. 99–576, §701(35)(B), substituted “the child's” for “his” in two places.
 
-1974—Par. (1)(C). Pub. L. 93–289, §10(1), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
+<b>1974</b>—Par. (1)(C). Pub. L. 93–289, §10(1), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
 Par. (5). Pub. L. 93–289, §3, added cls. (B) and (C), redesignated former cl. (B) as (D), and substituted “midshipman of” for “midshipman at” in cl. (A).
 
 Par. (6). Pub. L. 93–289, §10(1), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
-1972—Par. (1)(D). Pub. L. 92–315, §1(3), added cl. (D).
+<b>1972</b>—Par. (1)(D). Pub. L. 92–315, §1(3), added cl. (D).
 
 Par. (5)(A). Pub. L. 92–315, §1(4), expanded definition of “member” to include persons in active duty as a cadet or midshipman at the United States Military Academy, United States Naval Academy, United States Air Force Academy and the United States Coast Guard Academy.
 
-1971—Pars. (7) to (9). Pub. L. 92–185 added pars. (7) to (9) defining, respectively, “widow” or “widower”, “child”, and “parent”.
+<b>1971</b>—Pars. (7) to (9). Pub. L. 92–185 added pars. (7) to (9) defining, respectively, “widow” or “widower”, “child”, and “parent”.
 
-1970—Pub. L. 91–291 struck out from definition of “active duty” a reference to calls or orders to duty which specify a period of 30 days or less, inserted definitionsfor “active duty for training” and “inactive duty training”, and, in definition of “uniformed services”, inserted provisions limiting the scope of that term in the case of personnel of the Public Health Service and the Environmental Science Services Administration to the commissioned corps thereof respectively.
+<b>1970</b>—Pub. L. 91–291 struck out from definition of “active duty” a reference to calls or orders to duty which specify a period of 30 days or less, inserted definitions for “active duty for training” and “inactive duty training”, and, in definition of “uniformed services”, inserted provisions limiting the scope of that term in the case of personnel of the Public Health Service and the Environmental Science Services Administration to the commissioned corps thereof respectively.
 
 #### Effective Date of 2005 Amendment
 

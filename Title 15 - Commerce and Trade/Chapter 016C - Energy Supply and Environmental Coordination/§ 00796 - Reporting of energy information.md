@@ -94,11 +94,11 @@ The Emergency Petroleum Allocation Act of 1973, referred to in subsecs. (a), (c)
 
 #### Amendments
 
-2004—Subsec. (d). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (d). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1978—Subsec. (g). Pub. L. 95–620 struck out provisions comprising par. (2) relating to termination of this section at midnight, Dec. 31, 1979, and designated remaining provisions as subsec. (g).
+<b>1978</b>—Subsec. (g). Pub. L. 95–620 struck out provisions comprising par. (2) relating to termination of this section at midnight, Dec. 31, 1979, and designated remaining provisions as subsec. (g).
 
-1975—Subsec. (c)(3). Pub. L. 94–163, §505(a), added par. (3).
+<b>1975</b>—Subsec. (c)(3). Pub. L. 94–163, §505(a), added par. (3).
 
 Subsec. (g)(2). Pub. L. 94–163, §506, substituted “December 31, 1979” for “June 30, 1975” in two places.
 

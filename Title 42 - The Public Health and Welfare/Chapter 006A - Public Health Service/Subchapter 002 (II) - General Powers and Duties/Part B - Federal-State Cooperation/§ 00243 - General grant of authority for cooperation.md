@@ -10,7 +10,7 @@ The Secretary shall encourage cooperative activities between the States with res
 
 #### (c) Development of plan to control epidemics and meet emergencies or problems resulting from disasters; cooperative planning; temporary assistance; reimbursement of United States
 
-(1) The Secretary is authorized to develop (and may take such action as may be necessary to implement) a plan under which personnel, equipment, medical supplies, and other resources of the Service and other agencies under the jurisdiction of the Secretary may be effectively used to control epidemics of any disease or condition and to meet other health emergencies or problems. The Secretary may enter into agreementsproviding for the cooperative planning between the Service and public and private community health programs and agencies to cope with health problems (including epidemics and health emergencies).
+(1) The Secretary is authorized to develop (and may take such action as may be necessary to implement) a plan under which personnel, equipment, medical supplies, and other resources of the Service and other agencies under the jurisdiction of the Secretary may be effectively used to control epidemics of any disease or condition and to meet other health emergencies or problems. The Secretary may enter into agreements providing for the cooperative planning between the Service and public and private community health programs and agencies to cope with health problems (including epidemics and health emergencies).
 
 (2) The Secretary may, at the request of the appropriate State or local authority, extend temporary (not in excess of six months) assistance to States or localities in meeting health emergencies of such a nature as to warrant Federal assistance. The Secretary may require such reimbursement of the United States for assistance provided under this paragraph as he may determine to be reasonable under the circumstances. Any reimbursement so paid shall be credited to the applicable appropriation for the Service for the year in which such reimbursement is received.
 
@@ -18,23 +18,23 @@ The Secretary shall encourage cooperative activities between the States with res
 
 #### Amendments
 
-1985—Subsec. (c)(1). Pub. L. 99–117 struck out “referred to in section 247b(f) of this title” after “epidemics of any disease or condition”, “involving or resulting from disasters or any such disease” after “health emergencies or problems” in first sentence, and struck out “resulting from disasters or any disease or condition referred to in section 247b(f) of this title” after “(including epidemics and health emergencies)” in second sentence.
+<b>1985</b>—Subsec. (c)(1). Pub. L. 99–117 struck out “referred to in section 247b(f) of this title” after “epidemics of any disease or condition”, “involving or resulting from disasters or any such disease” after “health emergencies or problems” in first sentence, and struck out “resulting from disasters or any disease or condition referred to in section 247b(f) of this title” after “(including epidemics and health emergencies)” in second sentence.
 
-1983—Subsec. (c)(2). Pub. L. 97–414 substituted “six months” for “forty-five days” after “not in excess of”.
+<b>1983</b>—Subsec. (c)(2). Pub. L. 97–414 substituted “six months” for “forty-five days” after “not in excess of”.
 
-1981—Subsec. (a). Pub. L. 97–35, §902(c)(1), inserted applicability to other public health matters, and struck out reference to section 246 of this title.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §902(c)(1), inserted applicability to other public health matters, and struck out reference to section 246 of this title.
 
 Subsec. (b). Pub. L. 97–35, §902(c)(2), substituted “public health activities” for “the purposes of section 246 of this title”.
 
-1976—Subsec. (b). Pub. L. 94–317, §202(c), inserted provision authorizing Secretary to charge only private entities reasonable fees for training of their personnel.
+<b>1976</b>—Subsec. (b). Pub. L. 94–317, §202(c), inserted provision authorizing Secretary to charge only private entities reasonable fees for training of their personnel.
 
 Subsec. (c). Pub. L. 94–317, §202(b), made changes in phraseology and restructured provisions into pars. (1) and (2) and, in par. (1), as so restructured, inserted provisions authorizing Secretary to develop a plan utilizing Public Health Service personnel, equipment, medical supplies and other resources to control epidemics of any disease referred to in section 247b of this title.
 
-1970—Subsecs. (a), (b). Pub. L. 91–515 substituted “Secretary” for “Surgeon General” wherever appearing.
+<b>1970</b>—Subsecs. (a), (b). Pub. L. 91–515 substituted “Secretary” for “Surgeon General” wherever appearing.
 
-1967—Subsec. (c). Pub. L. 90–174 added subsec. (c).
+<b>1967</b>—Subsec. (c). Pub. L. 90–174 added subsec. (c).
 
-1966—Pub. L. 89–749 designated existing provisions as subsec. (a), added subsec. (b), and amended subsec. (b) to permit Surgeon General to train personnel for State and local health work.
+<b>1966</b>—Pub. L. 89–749 designated existing provisions as subsec. (a), added subsec. (b), and amended subsec. (b) to permit Surgeon General to train personnel for State and local health work.
 
 #### Effective Date of 1981 Amendment
 
@@ -48,7 +48,7 @@ Section 5(b) of Pub. L. 89–749 provided that the amendment of subsec. (b) of t
 
 #### Food Allergens in the Food Code
 
-Pub. L. 108–282, title II, §209, Aug. 2, 2004, 118 Stat. 910, provided that: “The Secretary of Health and Human Services shall, in the Conference for Food Protection, as part of its efforts to encourage cooperative activities between the States under section 311 of the Public Health Service Act (42 U.S.C. 243), pursue revision of the Food Code to provide guidelines for preparing allergen-free foods in food establishments, including in restaurants, grocery store delicatessens and bakeries, and elementary and secondary school cafeterias. The Secretary shall consider guidelines and recommendations developed by public and private entities for public and private food establishments for preparing allergen-free foods in pursuing this revision.”
+Pub. L. 108–282, title II, §209, Aug. 2, 2004, 118 Stat. 910, provided that: “The Secretary of Health andHuman Services shall, in the Conference for Food Protection, as part of its efforts to encourage cooperative activities between the States under section 311 of the Public Health Service Act (42 U.S.C. 243), pursue revision of the Food Code to provide guidelines for preparing allergen-free foods in food establishments, including in restaurants, grocery store delicatessens and bakeries, and elementary and secondary school cafeterias. The Secretary shall consider guidelines and recommendations developed by public and private entities for public and private food establishments for preparing allergen-free foods in pursuing this revision.”
 
 #### Training of Private Persons Subject to Reimbursement or Advances to Appropriations
 

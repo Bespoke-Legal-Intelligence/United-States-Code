@@ -22,7 +22,7 @@
 
 (4)(A) Beginning on the date that is six months after the date of the enactment of the Veterans’ Benefits Improvement Act of 2008, the Secretary shall—
 
-&emsp;(i) for each claim for disability compensation under laws administered by the Secretarysubmitted to the Secretary on or after such date, retain, monitor, and store in an accessible format the data described in subparagraph (B); and
+&emsp;(i) for each claim for disability compensation under laws administered by the Secretary submitted to the Secretary on or after such date, retain, monitor, and store in an accessible format the data described in subparagraph (B); and
 
 &emsp;(ii) develop a demographic baseline for the data retained, monitored, and stored under subparagraph (A).
 
@@ -50,7 +50,7 @@ The date of the enactment of the Veterans’ Benefits Improvement Act of 2008 an
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–389 added subsec. (c).
+<b>2008</b>—Subsec. (c). Pub. L. 110–389 added subsec. (c).
 
 #### Effective Date
 

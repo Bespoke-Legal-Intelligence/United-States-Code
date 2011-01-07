@@ -96,15 +96,15 @@ In subsection (e), the word “member” is substituted for the words “officer
 
 #### Amendments
 
-2006—Subsec. (f). Pub. L. 109–364 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), struck out “Duty without pay shall be considered for all purposes as if it were duty with pay.” at end, and added pars. (2) and (3).
+<b>2006</b>—Subsec. (f). Pub. L. 109–364 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), struck out “Duty without pay shall be considered for all purposes as if it were duty with pay.” at end, and added pars. (2) and (3).
 
-1993—Subsec. (b). Pub. L. 103–160 substituted “90 consecutive days” for “30 consecutive days” in second sentence.
+<b>1993</b>—Subsec. (b). Pub. L. 103–160 substituted “90 consecutive days” for “30 consecutive days” in second sentence.
 
-1971—Subsec. (a). Pub. L. 92–156 inserted exception to training requirements where member served on active duty for one year or more if the training period falls during last one hundred and twenty days of required membership in National Guard.
+<b>1971</b>—Subsec. (a). Pub. L. 92–156 inserted exception to training requirements where member served on active duty for one year or more if the training period falls during last one hundred and twenty days of required membership in National Guard.
 
-1967—Subsec. (b). Pub. L. 90–168 substituted 30 consecutive days for seven consecutive days of the same calendar month as the time within which all parts of the unit must be included in a series of formations in order to be credited as an assembly for drill and instruction.
+<b>1967</b>—Subsec. (b). Pub. L. 90–168 substituted 30 consecutive days for seven consecutive days of the same calendar month as the time within which all parts of the unit must be included in a series of formations in order to be credited as an assembly for drill and instruction.
 
-1964—Subsec. (f). Pub. L. 88–621 added subsec. (f).
+<b>1964</b>—Subsec. (f). Pub. L. 88–621 added subsec. (f).
 
 #### Effective Date of 1967 Amendment
 

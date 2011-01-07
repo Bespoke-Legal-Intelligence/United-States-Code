@@ -12,7 +12,7 @@ For purposes of section 46, the rehabilitation credit for any taxable year is th
 
 #### (1) In general
 
-&emsp;Qualified rehabilitation expenditures with respect to any qualified rehabilitated building shall be taken into account for the taxable year in which such qualified rehabilitated building is placed in service.
+&emsp;Qualified rehabilitation expenditures with respect to any qualified rehabilitated buildingshall be taken into account for the taxable year in which such qualified rehabilitated building is placed in service.
 
 #### (2) Coordination with subsection (d)
 
@@ -106,7 +106,7 @@ For purposes of this section—
 
 #### (iv) Certified historic structure, etc.
 
-&emsp;&emsp;&emsp;Any expenditure attributable to the rehabilitation of a certified historic structure or a building in a registered historic district, unless the rehabilitation is a certified rehabilitation (within the meaning of subparagraph (C)). The preceding sentence shall not apply to a building in a registered historic district if—
+&emsp;&emsp;&emsp;Any expenditure attributable to the rehabilitation of a certified historic structure or a building in a registered historicdistrict, unless the rehabilitation is a certified rehabilitation (within the meaning of subparagraph (C)). The preceding sentence shall not apply to a building in a registered historic district if—
 
 &emsp;&emsp;&emsp;&emsp;(I) such building was not a certified historic structure,
 
@@ -244,17 +244,17 @@ For purposes of this section—
 
 &emsp;This subsection shall apply to any taxpayer only if such taxpayer has made an election under this paragraph. Such an election shall apply to the taxable year for which made and all subsequent taxable years. Such an election, once made, may be revoked only with the consent of the Secretary.
 
-(Added Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 966; amended Pub. L. 91–172, title VII, §703(c), Dec. 30, 1969, 83 Stat. 666; Pub. L. 91–676, §1, Jan. 12, 1971, 84 Stat. 2060; Pub. L. 92–178, title I, §§102(c), 107(a)(1), (b)(1), Dec. 10, 1971, 85 Stat. 500, 507; Mar. 29, 1975, Pub. L. 94–12, title III, §302(b)(2)(A), (c)(1), (2), 89 Stat. 43, 44; Pub. L. 94–455, title VIII, §804(b), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1594, 1834; Pub. L. 95–600, title III, §317(a), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 95–618, title II, §241(b), Nov. 9, 1978, 92 Stat. 3193; Pub. L. 97–34, title II, §211(f)(2), (g), Aug. 13, 1981, 95 Stat. 231, 233; Pub. L. 97–248, title II, §208(a)(2)(B), Sept. 3, 1982, 96 Stat. 435; Pub. L. 97–448, title I, §102(e)(3), Jan. 12, 1983, 96 Stat. 2371; Pub. L. 98–369, div. A, title IV, §§421(b)(7), 431(b)(2), (d)(4), (5), 474(<i>o</i>)(8), (9), July 18, 1984, 98 Stat. 794, 807, 810, 836; Pub. L. 98–443, §9(p), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–121, title I, §103(b)(6), Oct. 11, 1985, 99 Stat. 510; Pub. L. 99–514, title XV, §1511(c)(2), title XVIII, §§1802(a)(5)(A), 1844(b)(1), (2), (4), Oct. 22, 1986, 100 Stat. 2744, 2788, 2855; Pub. L. 100–647, title I, §§1002(a)(18), (26)–(28), 1007(g)(3)(A), Nov.10, 1988, 102 Stat. 3356, 3357, 3435; Pub. L. 101–508, title XI, §11801(c)(8)(A), 11813(a), Nov. 5, 1990, 104 Stat. 1388–524, 1388–536; Pub. L. 110–289, div. C, title I, §3025(a), July 30, 2008, 122 Stat. 2897.)
+(Added Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 966; amended Pub. L. 91–172, title VII, §703(c), Dec. 30, 1969, 83 Stat. 666; Pub. L. 91–676, §1, Jan. 12, 1971, 84 Stat. 2060; Pub. L. 92–178, title I, §§102(c), 107(a)(1), (b)(1), Dec. 10, 1971, 85 Stat. 500, 507; Mar. 29, 1975, Pub. L. 94–12, title III, §302(b)(2)(A), (c)(1), (2), 89 Stat. 43, 44; Pub. L. 94–455, title VIII, §804(b), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1594, 1834; Pub. L. 95–600, title III, §317(a), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 95–618, title II, §241(b), Nov. 9, 1978, 92 Stat. 3193; Pub. L. 97–34, title II, §211(f)(2), (g), Aug. 13, 1981, 95 Stat. 231, 233; Pub. L. 97–248, title II, §208(a)(2)(B), Sept. 3, 1982, 96 Stat. 435; Pub. L. 97–448, title I, §102(e)(3), Jan. 12, 1983, 96 Stat. 2371; Pub. L. 98–369, div. A, title IV, §§421(b)(7), 431(b)(2), (d)(4), (5), 474(<i>o</i>)(8), (9), July 18, 1984, 98 Stat. 794, 807, 810, 836; Pub. L. 98–443, §9(p), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–121, title I, §103(b)(6), Oct. 11, 1985, 99 Stat. 510; Pub. L. 99–514, title XV, §1511(c)(2), title XVIII, §§1802(a)(5)(A), 1844(b)(1), (2), (4), Oct. 22, 1986, 100 Stat. 2744, 2788, 2855; Pub. L. 100–647, title I, §§1002(a)(18), (26)–(28), 1007(g)(3)(A), Nov. 10, 1988, 102 Stat. 3356, 3357, 3435; Pub. L. 101–508, title XI, §11801(c)(8)(A), 11813(a), Nov. 5, 1990, 104 Stat. 1388–524, 1388–536; Pub. L. 110–289, div. C, title I, §3025(a), July 30, 2008, 122 Stat. 2897.)
 
 #### Amendments
 
-2008—Subsec. (c)(2)(B)(v)(I). Pub. L. 110–289 substituted “section 168(h), except that ‘50 percent’ shall be substituted for ‘35 percent’ in paragraph (1)(B)(iii) thereof” for “section 168(h)”.
+<b>2008</b>—Subsec. (c)(2)(B)(v)(I). Pub. L. 110–289 substituted “section 168(h), except that ‘50 percent’ shall be substituted for ‘35 percent’ in paragraph (1)(B)(iii) thereof” for “section 168(h)”.
 
-1990—Pub. L. 101–508, §11813(a), amended section generally, substituting section catchline for one which read: “Certain dispositions, etc., of section 38 property” and in text substituting present provisions for provisions relating to general rules regarding disposition of section 38 property, nonapplicability of section in certain cases, the treatment of any increase in tax under the section, increases in nonqualified nonrecourse financing, and transfers between spouses or incident to divorce.
+<b>1990</b>—Pub. L. 101–508, §11813(a), amended section generally, substituting section catchline for one which read: “Certain dispositions, etc., of section 38 property” and in text substituting present provisions for provisions relating to general rules regarding disposition of section 38 property, nonapplicability of section in certain cases, the treatment of any increase in tax under the section, increases in nonqualified nonrecourse financing, and transfers between spouses or incident to divorce.
 
 Subsec. (b)(1) to (3). Pub. L. 101–508, §11801(c)(8)(A), inserted “or” at end of par. (1), substituted a period for “, or” at end of par. (2), and struck out par. (3) which related to nonapplicability of subsec. (a) in the case of a transfer of section 38 property related to exchanges under final system plan for ConRail.
 
-1988—Subsec. (a)(5)(D). Pub. L. 100–647, §1002(a)(26)(B), struck out at end “If, prior to a disposition to which this subsection applies, any portion of any credit is not allowable with respect to any property by reason of section 168(i)(3), such portion shall be treated (for purposes of this subparagraph) as not having been used to reduce tax liability.”
+<b>1988</b>—Subsec. (a)(5)(D). Pub. L. 100–647, §1002(a)(26)(B), struck out at end “If, prior to a disposition to which this subsection applies, any portion of any credit is not allowable with respect to any property by reason of section 168(i)(3), such portion shall be treated (for purposes of this subparagraph) as not having been used to reduce tax liability.”
 
 Subsec. (a)(5)(E)(iii). Pub. L. 100–647, §1002(a)(26)(C), substituted “168(e)” for “168(c)”.
 
@@ -268,7 +268,7 @@ Subsec. (d)(1). Pub. L. 100–647, §1002(a)(18), substituted “section 46(c)(8
 
 Subsec. (d)(3)(C)(i). Pub. L. 100–647, §1002(a)(28), substituted “class life (as defined in section 168(i)(1))” for “present class life (as defined in section 168(g)(2))” and “no class life” for “no present class life”.
 
-1986—Subsec. (a)(9). Pub. L. 99–514, §1802(a)(5)(A), added par. (9).
+<b>1986</b>—Subsec. (a)(9). Pub. L. 99–514, §1802(a)(5)(A), added par. (9).
 
 Subsec. (d)(1). Pub. L. 99–514, §1844(b)(1), substituted “reducing the credit base (as defined in section 48(c)(8)(C))” for “reducing the qualified investment” and inserted “For purposes of determining the amount of credit subject to the early disposition or cessation rules of subsection (a), the net increase in the amount of the nonqualified nonrecourse financing with respect to the property shall be treated as reducing the property's credit base (and correspondingly reducing the qualified investment in the property) in the year in which the property was first placed in service.”
 
@@ -278,9 +278,9 @@ Subsec. (d)(3)(F). Pub. L. 99–514, §1844(b)(2), struck out subpar. (F) which 
 
 Subsec. (d)(3)(G). Pub. L. 99–514, §1511(c)(2), substituted “determined at the underpayment rate established under section 6621” for “determined under section 6621”.
 
-1985—Subsec. (a)(5)(B). Pub. L. 99–121 substituted “For property other than 3-year property” for “For 15-year, 10-year, and 5-year property” in table heading.
+<b>1985</b>—Subsec. (a)(5)(B). Pub. L. 99–121 substituted “For property other than 3-year property” for “For 15-year, 10-year, and 5-year property” in table heading.
 
-1984—Subsec. (a)(5)(D), (6). Pub. L. 98–369, §474(<i>o</i>)(8), substituted “under section 39” for “under section 46(b)”.
+<b>1984</b>—Subsec. (a)(5)(D), (6). Pub. L. 98–369, §474(<i>o</i>)(8), substituted “under section 39” for “under section 46(b)”.
 
 Subsec. (a)(7)(C). Pub. L. 98–443 substituted “Secretary of Transportation” for “Civil Aeronautics Board”.
 
@@ -298,13 +298,13 @@ Subsec. (d)(3)(B)(i). Pub. L. 98–369, §431(d)(5), struck out “other than a 
 
 Subsec. (e). Pub. L. 98–369, §421(b)(7), added subsec. (e).
 
-1983—Subsec. (d)(2). Pub. L. 97–448, §102(e)(3)(A), substituted “section 46(c)(8)(D)” and “section 46(c)(8)(B)” for “section 48(c)(8)(D)” and “section 48(c)(8)(B)”, respectively.
+<b>1983</b>—Subsec. (d)(2). Pub. L. 97–448, §102(e)(3)(A), substituted “section 46(c)(8)(D)” and “section 46(c)(8)(B)” for “section 48(c)(8)(D)” and “section 48(c)(8)(B)”, respectively.
 
 Subsec. (d)(3)(A). Pub. L. 97–448, §102(e)(3)(B), substituted “section 46(c)(8)(F)” for “section 46(c)(8)(E)”.
 
-1982—Subsec. (a)(5)(D). Pub. L. 97–248, §208(a)(2)(B), inserted provision that if, prior to a disposition to which this subsection applies, any portion of any credit is not allowable with respect to any property by reason of section 168(i)(3), such portion shall be treated, for purposes of this subparagraph, as not having been used to reduce tax liability.
+<b>1982</b>—Subsec. (a)(5)(D). Pub. L. 97–248, §208(a)(2)(B), inserted provision that if, prior to a disposition to which this subsection applies, any portion of any credit is not allowable with respect to any property by reason of section 168(i)(3), such portion shall be treated, for purposes of this subparagraph, as not having been used to reduce tax liability.
 
-1981—Subsec. (a)(3)(D). Pub. L. 97–34, §211(g)(2)(A), inserted provisions relating to disposition, cessation, or change in expected use described in paragraph (5).
+<b>1981</b>—Subsec. (a)(3)(D). Pub. L. 97–34, §211(g)(2)(A), inserted provisions relating to disposition, cessation, or change in expected use described in paragraph (5).
 
 Subsec. (a)(5), (6). Pub. L. 97–34, §211(g)(1), (2)(B), added par. (5), redesignated former par. (5) as (6) and substituted “paragraph (1), (3), or (5)” for “paragraph (1) or (3)”. Former par. (6) redesignated (7).
 
@@ -312,21 +312,21 @@ Subsec. (a)(7), (8). Pub. L. 97–34, §211(g)(1), (2)(C), redesignated former p
 
 Subsec. (d). Pub. L. 97–34, §211(f)(2), added subsec. (d).
 
-1978—Subsec. (a)(4), (5). Pub. L. 95–618, §241(b)(1), added par. (4), redesignated former par. (4) as (5) and substituted “paragraph (2) or (4)” for “paragraph (2)”.
+<b>1978</b>—Subsec. (a)(4), (5). Pub. L. 95–618, §241(b)(1), added par. (4), redesignated former par. (4) as (5) and substituted “paragraph (2) or (4)” for “paragraph (2)”.
 
 Subsec. (a)(6)(B). Pub. L. 95–618, §241(b)(3), substituted “paragraph (5)” for “paragraph (4)”.
 
 Subsec. (b)(3). Pub. L. 95–600, §317(a), added par. (3).
 
-1976—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out in introductory provision and in par. (3)(C) “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out in introductory provision and in par. (3)(C) “or his delegate” after “Secretary”.
 
 Subsec. (a)(7). Pub. L. 94–455, §804(b), added par. (7).
 
-1975—Subsec. (a)(3), (4). Pub. L. 94–12, §302(b)(2)(A), (c)(1), added par. (3), redesignated former par. (3) as (4) and substituted “paragraph (1) or (3)” for “paragraph (1)”. A former par. (4), relating to increase or adjustment of tax where property is destroyed by casualty, etc., was repealed by Pub. L. 92–178.
+<b>1975</b>—Subsec. (a)(3), (4). Pub. L. 94–12, §302(b)(2)(A), (c)(1), added par. (3), redesignated former par. (3) as (4) and substituted “paragraph (1) or (3)” for “paragraph (1)”. A former par. (4), relating to increase or adjustment of tax where property is destroyed by casualty, etc., was repealed by Pub. L. 92–178.
 
 Subsec. (a)(5), (6)(B). Pub. L. 94–12, §302(c)(2), substituted “paragraph (4)” for “paragraph (3)”.
 
-1971—Subsec. (a)(4). Pub. L. 92–178, §107(a)(1), struck out par. (4) relating to property destroyed by casualty, etc.
+<b>1971</b>—Subsec. (a)(4). Pub. L. 92–178, §107(a)(1), struck out par. (4) relating to property destroyed by casualty, etc.
 
 Subsec. (a)(5). Pub. L. 92–178, §107(b)(1), provided for the repeal of par. (5) with the repeal not to apply, however, in the case of certain replacement property. See section 107(b)(2) of Pub. L. 92–178, set out in the Effective Date of 1971 Amendment note below.
 
@@ -334,7 +334,7 @@ Subsec. (a)(6)(A). Pub. L. 92–178, §102(c), substituted “31/2 years” for 
 
 Subsec. (a)(6). Pub. L. 91–676 added par. (6).
 
-1969—Subsec. (a)(5). Pub. L. 91–172, §703(c)(2), added par. (5).
+<b>1969</b>—Subsec. (a)(5). Pub. L. 91–172, §703(c)(2), added par. (5).
 
 Subsec. (a)(4). Pub. L. 91–172, §703(c)(1), inserted provision making subpars. (B) and (C) inapplicable to any casualty or theft occurring after April 18, 1969.
 

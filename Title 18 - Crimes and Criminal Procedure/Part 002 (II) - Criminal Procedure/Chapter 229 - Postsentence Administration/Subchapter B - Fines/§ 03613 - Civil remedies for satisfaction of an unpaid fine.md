@@ -44,11 +44,11 @@ For a prior section 3613, applicable to offenses committed prior to Nov. 1, 1987
 
 #### Amendments
 
-1996—Pub. L. 104–132 amended section generally, reenacting section catchline without change and substituting, in subsec. (a), provisions relating to enforcement for provisions relating to lien, in subsec. (b), provisions relating to termination of liability for provisions relating to expiration of lien, in subsec. (c), provisions relating to lien for provisions relating to application of other lien provisions, in subsec. (d), provisions relating to effect of filing notice of lien for provisions relating to effect of notice of lien, in subsec. (e), provisions relating to inapplicability of bankruptcy discharges of debt for provisions relating to alternative enforcement, and in subsec. (f), provisions relating to applicability to order of restitution for provisions relating to inapplicability of bankruptcy discharges of debt.
+<b>1996</b>—Pub. L. 104–132 amended section generally, reenacting section catchline without change and substituting, in subsec. (a), provisions relating to enforcement for provisions relating to lien, in subsec. (b), provisions relating to termination of liability for provisions relating to expiration of lien, in subsec. (c), provisions relating to lien for provisions relating to application of other lien provisions, in subsec. (d), provisions relating to effect of filing notice of lien for provisions relating to effect of notice of lien, in subsec. (e), provisions relating to inapplicability of bankruptcy discharges of debt for provisions relating to alternative enforcement, and in subsec. (f), provisions relating to applicability to order of restitution for provisions relating to inapplicability of bankruptcy discharges of debt.
 
-1990—Subsec. (c). Pub. L. 101–647, which directed amendment of “Section 3613(c)” by striking the period before the closing quotation marks and inserting a period after such marks, without identifying a Code title or Act for section 3613, was executed by substituting “construed to mean ‘fine’.” for “construed to mean ‘fine.’ ” in subsec. (c) of this section to reflect the probable intent of Congress.
+<b>1990</b>—Subsec. (c). Pub. L. 101–647, which directed amendment of “Section 3613(c)” by striking the period before the closing quotation marks and inserting a period after such marks, without identifying a Code title or Act for section 3613, was executed by substituting “construed to mean ‘fine’.” for “construed to mean ‘fine.’ ” in subsec. (c) of this section to reflect the probable intent of Congress.
 
-1986—Subsecs. (b) to (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing.
+<b>1986</b>—Subsecs. (b) to (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing.
 
 #### Effective Date of 1996 Amendment
 

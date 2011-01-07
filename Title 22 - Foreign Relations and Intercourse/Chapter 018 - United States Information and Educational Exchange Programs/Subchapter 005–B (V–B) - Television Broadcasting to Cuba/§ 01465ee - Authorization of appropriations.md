@@ -38,7 +38,7 @@ Section was enacted as part of the Television Broadcasting to Cuba Act which com
 
 #### Amendments
 
-1991—Subsec. (c). Pub. L. 102–138 added subsec. (c).
+<b>1991</b>—Subsec. (c). Pub. L. 102–138 added subsec. (c).
 
 #### Transfer of Functions
 

@@ -44,7 +44,7 @@
 
 (d)(1) The provisions of this chapter shall apply to the industrial employment and training of prisoners convicted by general courts-martial and confined in any institution under the jurisdiction of any department or agency comprising the Department of Defense, to the extent and under terms and conditions agreed upon by the Secretary of Defense, the Attorney General and the Board of Directors of Federal Prison Industries.
 
-(2) Any department or agency of the Department of Defense may, without exchange offunds, transfer to Federal Prison Industries any property or equipment suitable for use in performing the functions and duties covered by agreement entered into under paragraph (1) of this subsection.
+(2) Any department or agency of the Department of Defense may, without exchange of funds, transfer to Federal Prison Industries any property or equipment suitable for use in performing the functions and duties covered by agreement entered into under paragraph (1) of this subsection.
 
 (e)(1) The provisions of this chapter shall apply to the industrial employment and training of prisoners confined in any penal or correctional institution under the direction of the Commissioner of the District of Columbia to the extent and under terms and conditions agreed upon by the Commissioner, the Attorney General, and the Board of Directors of Federal Prison Industries.
 
@@ -80,15 +80,15 @@ The Act approved October 3, 1964 (D.C. Code, sections 24–451 et seq.), entitle
 
 #### Amendments
 
-1988—Subsec. (b). Pub. L. 100–690 designated existing provisions as par. (1), substituted “the greatest number of those inmates in the United States penal and correctional institutions who are eligible to work as is reasonably possible” for “all physically fit inmates in the United States penal and correctional institutions”, and added pars. (2) to (6).
+<b>1988</b>—Subsec. (b). Pub. L. 100–690 designated existing provisions as par. (1), substituted “the greatest number of those inmates in the United States penal and correctional institutions who are eligible to work as is reasonably possible” for “all physically fit inmates in the United States penal and correctional institutions”, and added pars. (2) to (6).
 
-1967—Subsec. (d). Pub. L. 90–226, §802(1), (2), designated existing provisions of subsec. (d) as par. (1) thereof, designated existing provisions of subsec. (e) as par. (2) of subsec. (d), and substituted reference to par. (1) of this subsection for reference to subsec. (d) of this section.
+<b>1967</b>—Subsec. (d). Pub. L. 90–226, §802(1), (2), designated existing provisions of subsec. (d) as par. (1) thereof, designated existing provisions of subsec. (e) as par. (2) of subsec. (d), and substituted reference to par. (1) of this subsection for reference to subsec. (d) of this section.
 
 Subsec. (e). Pub. L. 90–226, §802(3), added subsec. (e). Former subsec. (e) redesignated (d)(2).
 
-1951—Subsecs. (d), (e). Act Oct. 31, 1951, substituted “Department of Defense” for “National Military Establishment”.
+<b>1951</b>—Subsecs. (d), (e). Act Oct. 31, 1951, substituted “Department of Defense” for “National Military Establishment”.
 
-1949—Act May 24, 1949, designated existing first two pars. as subsecs. (a) and (b), respectively, and added subsecs. (c) to (e).
+<b>1949</b>—Act May 24, 1949, designated existing first two pars. as subsecs. (a) and (b), respectively, and added subsecs. (c) to (e).
 
 #### Transfer of Functions
 

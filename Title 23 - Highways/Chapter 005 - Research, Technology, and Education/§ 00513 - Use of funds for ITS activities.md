@@ -14,3 +14,5 @@ Applicability.—Subsection (a) shall not apply to intelligent transportation sy
 
 Subtitle C of title V of the SAFETEA–LU, referred to in subsec. (a), is subtitle C (§§5301–5310) of title V of Pub. L. 109–59, Aug. 10, 2005, 119 Stat. 1804–1813, which enacted this section and section 512 of this title and provisions set out as a note under section 512 of this title.
 
+<i><sup>1</sup></i><i> So in original.</i>
+

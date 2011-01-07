@@ -44,11 +44,11 @@ The Secretary is authorized, subject to the requirements of section 3412(f) of t
 
 #### Amendments
 
-2002—Subsec. (b)(1)(A). Pub. L. 107–110 substituted “Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students” for “Office of Bilingual Education”.
+<b>2002</b>—Subsec. (b)(1)(A). Pub. L. 107–110 substituted “Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students” for “Office of Bilingual Education”.
 
-1996—Subsec. (b)(1)(H) to (M). Pub. L. 104–208 redesignated subpars. (I) to (M) as (H) to (L), respectively, and struck out former subpar. (H) which authorized Secretary to consolidate, alter, discontinue, or reallocate any functions vested by statute in Office of Libraries and Learning Resources.
+<b>1996</b>—Subsec. (b)(1)(H) to (M). Pub. L. 104–208 redesignated subpars. (I) to (M) as (H) to (L), respectively, and struck out former subpar. (H) which authorized Secretary to consolidate, alter, discontinue, or reallocate any functions vested by statute in Office of Libraries and Learning Resources.
 
-1980—Subsec. (b)(1). Pub. L. 96–496 redesignated subpar. (N) as (M) and struck out former subpar. (M), which authorized the Secretary to reallocate the functions or to alter or discontinue the Institute of Museum Services.
+<b>1980</b>—Subsec. (b)(1). Pub. L. 96–496 redesignated subpar. (N) as (M) and struck out former subpar. (M), which authorized the Secretary to reallocate the functions or to alter or discontinue the Institute of Museum Services.
 
 #### Change of Name
 

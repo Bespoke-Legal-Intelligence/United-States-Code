@@ -10,5 +10,5 @@
 
 #### Amendments
 
-1975—Pub. L. 94–73 substituted provisions authorizing the Attorney General to institute proceedings to enforce twenty-sixth amendment, the jurisdiction of the district courts, and penalties for denial of rights secured by twenty-sixth amendment, for provisions relating to Congressional findings and prohibition of denial of right to vote on account of age.
+<b>1975</b>—Pub. L. 94–73 substituted provisions authorizing the Attorney General to institute proceedings to enforce twenty-sixth amendment, the jurisdiction of the district courts, and penalties for denial of rights secured by twenty-sixth amendment, for provisions relating to Congressional findings and prohibition of denial of right to vote on account of age.
 

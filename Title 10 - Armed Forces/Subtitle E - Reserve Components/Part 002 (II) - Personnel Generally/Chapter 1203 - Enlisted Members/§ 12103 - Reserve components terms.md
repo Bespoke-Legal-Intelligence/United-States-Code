@@ -38,7 +38,7 @@ In subsection (a), the first sentence is substituted for 50:951(a). The words �
 
 In subsections (a) and (b), the word “hereafter” is omitted as surplusage. The words “the expiration of” are inserted for clarity.
 
-In subsection (b), the word “continues” is substituted for the words “shall be extended”.
+In subsection (b), the word “continues” is substituted for the words “shall \* \* \* be extended”.
 
 1958
 
@@ -64,37 +64,37 @@ The Military Selective Service Act, referred to in subsecs. (b) and (d), is act 
 
 #### Amendments
 
-2006—Subsecs. (b), (d). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Subsecs. (b), (d). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
-2002—Subsec. (b). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 Subsec. (d). Pub. L. 107–314 substituted “one year” for “270 days” in last sentence.
 
 Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1994—Pub. L. 103–337 renumbered section 511 of this title as this section.
+<b>1994</b>—Pub. L. 103–337 renumbered section 511 of this title as this section.
 
-1983—Subsec. (b). Pub. L. 98–94, §1022(a)(1)(A), substituted “not less than six years nor more than eight years” for “six years”.
+<b>1983</b>—Subsec. (b). Pub. L. 98–94, §1022(a)(1)(A), substituted “not less than six years nor more than eight years” for “six years”.
 
 Subsec. (d). Pub. L. 98–94, §1022(a)(1)(B), substituted “not less than six years nor more than eight years” for “six years”.
 
-1982—Subsec. (b). Pub. L. 97–295 substituted “(50 U.S.C. App. 451 et seq.)” for “(50 U.S.C. App. 451–473)” after “Military Selective Service Act”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–295 substituted “(50 U.S.C. App. 451 et seq.)” for “(50 U.S.C. App. 451–473)” after “Military Selective Service Act”.
 
 Subsec. (d). Pub. L. 97–252 extended to 270 from 180 days requirement for commencement of initial period of active duty for training after date of enlistment.
 
-1980—Subsec. (d). Pub. L. 96–513 substituted “Military Selective Service Act (50 U.S.C. App. 451 et seq.)” for “Military Selective Service Act of 1967 (50 App. U.S.C. 451–473)”.
+<b>1980</b>—Subsec. (d). Pub. L. 96–513 substituted “Military Selective Service Act (50 U.S.C. App. 451 et seq.)” for “Military Selective Service Act of 1967 (50 App. U.S.C. 451–473)”.
 
-1979—Subsec. (d). Pub. L. 96–107 struck out requirement that a non-prior-service person be under 26 years of age.
+<b>1979</b>—Subsec. (d). Pub. L. 96–107 struck out requirement that a non-prior-service person be under 26 years of age.
 
-1978—Subsec. (b). Pub. L. 95–485, in provision preceding cl. (1), substituted “the Secretary of Defense, and by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy” for “the Secretary concerned” and “the Military Selective Service Act (50 U.S.C. App. 451–473)” for “sections 451–473 of title 50, appendix”, in cl. (1), substituted “not less than two years; and” for “two years;”, struck out former cl. (2), requiring a person enlisted under this subsec. to serve satisfactorily as a member of the Ready Reserve for a period which when added to his active duty under cl. (1) totals five years, redesignated former cl. (3) as (2), and in cl. (2) as so redesignated, substituted “Ready Reserve” for “Standby Reserve”.
+<b>1978</b>—Subsec. (b). Pub. L. 95–485, in provision preceding cl. (1), substituted “the Secretary of Defense, and by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy” for “the Secretary concerned” and “the Military Selective Service Act (50 U.S.C. App. 451–473)” for “sections 451–473 of title 50, appendix”, in cl. (1), substituted “not less than two years; and” for “two years;”, struck out former cl. (2), requiring a person enlisted under this subsec. to serve satisfactorily as a member of the Ready Reserve for a period which when added to his active duty under cl. (1) totals five years, redesignated former cl. (3) as (2), and in cl. (2) as so redesignated, substituted “Ready Reserve” for “Standby Reserve”.
 
-1975—Subsec. (d). Pub. L. 94–106 reduced initial period of active duty for training for persons enlisted under this subsection from four months to twelve weeks.
+<b>1975</b>—Subsec. (d). Pub. L. 94–106 reduced initial period of active duty for training for persons enlisted under this subsection from four months to twelve weeks.
 
-1967—Subsec. (d). Pub. L. 90–168 substituted the Secretary of Transportation for the Secretary of the Treasury as the prescribing authority for regulations covering the Coast Guard when not operating as part of the Navy, inserted exception as provided in section 6(c)(2)(A)(ii) and (iii) of the Military Selective Service Act of 1967, added requirement that the initial period of four months’ service commence insofar as practicable within 180 days after the date of enlistment, and struck out provision that the remainder of the period of service after the initial period of four months be served, subject to section 269(e)(4) of this title, as a member of the Ready Reserve.
+<b>1967</b>—Subsec. (d). Pub. L. 90–168 substituted the Secretary of Transportation for the Secretary of the Treasury as the prescribing authority for regulations covering the Coast Guard when not operating as part of the Navy, inserted exception as provided in section 6(c)(2)(A)(ii) and (iii) of the Military Selective Service Act of 1967, added requirement that the initial period of four months’ service commence insofar as practicable within 180 days after the date of enlistment, and struck out provision that the remainder of the period of service after the initial period of four months be served, subject to section 269(e)(4) of this title, as a member of the Ready Reserve.
 
-1963—Subsec. (d). Pub. L. 88–110 added subsec. (d).
+<b>1963</b>—Subsec. (d). Pub. L. 88–110 added subsec. (d).
 
-1958—Subsecs. (b), (c). Pub. L. 85–861, §1(8)(A), added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>1958</b>—Subsecs. (b), (c). Pub. L. 85–861, §1(8)(A), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 #### Effective Date of 2002 Amendments
 

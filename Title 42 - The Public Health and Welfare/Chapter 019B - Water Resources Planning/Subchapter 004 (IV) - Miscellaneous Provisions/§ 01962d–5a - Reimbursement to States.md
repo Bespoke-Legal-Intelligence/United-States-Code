@@ -14,7 +14,7 @@ No reimbursement shall be made, and no expenditure shall be credited, pursuant t
 
 #### (d) Beach erosion control projects
 
-Reimbursement for work commenced by non-Federal public bodies no later than one year after August 13, 1968, to carry out or assist in carrying out projects for beach erosion control, may be made in accordance with the provisions of section 426f of title 33. Reimbursement for such work may, as an alternative, be made in accordance with the provisions of this section, provided that agreement required herein shall have been executed prior to commencement of the work. Expenditures for projects for beach erosion control commenced by non-Federal public bodies subsequent to one year after August 13, 1968, may be reimbursed by the Secretary of the Army, acting through the Chief of Engineers, only in accordance with the provisions of this section.
+Reimbursement for work commenced by non-Federal public bodies no later than one yearafter August 13, 1968, to carry out or assist in carrying out projects for beach erosion control, may be made in accordance with the provisions of section 426f of title 33. Reimbursement for such work may, as an alternative, be made in accordance with the provisions of this section, provided that agreement required herein shall have been executed prior to commencement of the work. Expenditures for projects for beach erosion control commenced by non-Federal public bodies subsequent to one year after August 13, 1968, may be reimbursed by the Secretary of the Army, acting through the Chief of Engineers, only in accordance with the provisions of this section.
 
 #### (e) Prohibition of construction for Federal assumption of responsibilities of non-Federal bodies or for Federal liability for unnecessary or inapplicable project work of such bodies
 
@@ -32,11 +32,11 @@ Section was enacted as part of the Flood Control Act of 1968, and not as part of
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–161, which directed the substitution of “$7,000,000” for “$5,000,000” in last sentence, was executed by making the substitution for “$5,000,000” the second place it appeared, to reflect the probable intent of Congress.
+<b>2007</b>—Subsec. (a). Pub. L. 110–161, which directed the substitution of “$7,000,000” for “$5,000,000” in last sentence, was executed by making the substitution for “$5,000,000” the second place it appeared, to reflect the probable intent of Congress.
 
-1996—Subsec. (a). Pub. L. 104–303, in last sentence, substituted “$5,000,000” for “$3,000,000” before “or 1 percent” and “any fiscal year.” for “any fiscal year..”
+<b>1996</b>—Subsec. (a). Pub. L. 104–303, in last sentence, substituted “$5,000,000” for “$3,000,000” before “or 1 percent” and “any fiscal year.” for “any fiscal year..”
 
-1988—Subsec. (a). Pub. L. 100–676 inserted before period at end “or 1 percent of the total project cost, whichever is greater; except that the amount of actual Federal reimbursement, including reductions in contributions, for such project may not exceed $5,000,000 in any fiscal year.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–676 inserted before period at end “or 1 percent of the total project cost, whichever is greater; except that the amount of actual Federal reimbursement, including reductions in contributions, for such project may not exceed $5,000,000 in any fiscal year.”
 
-1986—Subsec. (a). Pub. L. 99–662 substituted “$3,000,000” for “$1,000,000”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–662 substituted “$3,000,000” for “$1,000,000”.
 

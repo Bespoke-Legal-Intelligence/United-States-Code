@@ -78,13 +78,13 @@
 
 #### (5) Requirements until stock sale
 
-&emsp;Notwithstanding subsection (d) of this section, the requirements of sections 1132f–3 and 1132f–9 of this title, as such sections were in effect on the day before September 30, 1996, shall continue to be effective until the day immediately following the date of closing of the purchase of the Secretary of Education's stock (or the date of closing of the final purchase, in the case of multiple transactions) pursuant to subsection (c)(1) of this Act.<sup>1</sup>
+&emsp;Notwithstanding subsection (d) of this section, the requirements of sections 1132f–3 and 1132f–9 of this title, as such sections were in effect on the day before September 30, 1996, shall continue to be effective until the day immediately following the date of closing of thepurchase of the Secretary of Education's stock (or the date of closing of the final purchase, in the case of multiple transactions) pursuant to subsection (c)(1) of this Act.<sup>1</sup>
 
 #### (c) Sale of federally owned stock
 
 #### (1) Purchase by the Corporation
 
-&emsp;The Secretary of the Treasury shall sell and the Corporation shall purchase, within 90 days after September 30, 1996, the stock of the Corporation held by the Secretary of Education at a price determined by the binding, independent appraisal of a nationally recognized financial firm, except that the 90-day period may be extended by mutual agreement of the Secretary of the Treasury and the Corporation to not more than 150 days after September 30, 1996. The appraiser shall be jointly selected by the Secretary of the Treasury and the Corporation. In the event that the Secretary of the Treasury and the Corporation cannot agree on the appraiser, then the Secretary ofthe Treasury and the Corporation shall name an independent third party to select the appraiser.
+&emsp;The Secretary of the Treasury shall sell and the Corporation shall purchase, within 90 days after September 30, 1996, the stock of the Corporation held by the Secretary of Education at a price determined by the binding, independent appraisal of a nationally recognized financial firm, except that the 90-day period may be extended by mutual agreement of the Secretary of the Treasury and the Corporation to not more than 150 days after September 30, 1996. The appraiser shall be jointly selected by the Secretary of the Treasury and the Corporation. In the event that the Secretary of the Treasury and the Corporation cannot agree on the appraiser, then the Secretary of the Treasury and the Corporation shall name an independent third party to select the appraiser.
 
 #### (2) Reimbursement of costs and expenses of sale
 
@@ -150,7 +150,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Using the amounts described in subparagraph (A)(ii), the Mayor of the District of Columbia shall make grants to entities to carry out the purposes described in subparagraph (E).
+&emsp;&emsp;&emsp;Using the amounts described in subparagraph (A)(ii), the Mayor of the District ofColumbia shall make grants to entities to carry out the purposes described in subparagraph (E).
 
 #### (ii) Participation of schools
 
@@ -162,7 +162,7 @@
 
 #### (iv) Cap on administrative costs
 
-&emsp;&emsp;&emsp;Not more than 5 percent of the funds available for grants under this subparagraph for a fiscal year may be used tocover the administrative costs of making grants under this subparagraph for the fiscal year.
+&emsp;&emsp;&emsp;Not more than 5 percent of the funds available for grants under this subparagraph for a fiscal year may be used to cover the administrative costs of making grants under this subparagraph for the fiscal year.
 
 #### (D) Special rule regarding eligibility of nonprofit corporations
 
@@ -210,15 +210,15 @@ Section is comprised of section 101(e) \[title VI, §603\] of div. A of Pub. L. 
 
 #### Amendments
 
-2004—Subsec. (e)(3)(C)(iv). Pub. L. 108–199 inserted “for a fiscal year” after “this subparagraph” and “for the fiscal year” before period at end.
+<b>2004</b>—Subsec. (e)(3)(C)(iv). Pub. L. 108–199 inserted “for a fiscal year” after “this subparagraph” and “for the fiscal year” before period at end.
 
 Subsec. (e)(3)(E)(i)(IV). Pub. L. 108–335, §340, as amended by Pub. L. 108–447, which directed the amendment of subsec. (e)(3)(E) by adding subcl. (IV) at the end, was executed by adding subcl. (IV) at the end of cl. (i), to reflect the probable intent of Congress.
 
-2003—Subsec. (e)(3)(B)(ii), (C)(iii). Pub. L. 108–7, §143(c)(1), substituted “Subject to subparagraph (F), the Mayor” for “The Mayor”.
+<b>2003</b>—Subsec. (e)(3)(B)(ii), (C)(iii). Pub. L. 108–7, §143(c)(1), substituted “Subject to subparagraph (F), the Mayor” for “The Mayor”.
 
 Subsec. (e)(3)(F). Pub. L. 108–7, §143(c)(2), added subpar. (F).
 
-2001—Subsec. (e)(2)(B). Pub. L. 107–96, par. (2), which directed amendment of section 161 of Pub. L. 106–522, by inserting “revolving” after “enhancement” in second sentence of par. (2)(B), was executed by revising the amendment by Pub. L. 106–522, §161(1), which had amended the second sentence of subsec. (e)(2)(B) of this section, to reflect the probable intent of Congress. See 2000 Amendment note below.
+<b>2001</b>—Subsec. (e)(2)(B). Pub. L. 107–96, par. (2), which directed amendment of section 161 of Pub. L. 106–522, by inserting “revolving” after “enhancement” in second sentence of par. (2)(B), was executed by revising theamendment by Pub. L. 106–522, §161(1), which had amended the second sentence of subsec. (e)(2)(B) of this section, to reflect the probable intent of Congress. See 2000 Amendment note below.
 
 Subsec. (e)(3). Pub. L. 107–96, pars. (1), (3), amended Pub. L. 106–522, §161(2). See 2000 Amendment note below.
 
@@ -226,15 +226,15 @@ Pub. L. 107–96, par. (2), which directed amendment of section 161 of Pub. L. 1
 
 Subsec. (e)(3)(C)(iv). Pub. L. 107–96, proviso, which directed amendment of the cap on administrative costs as amended by Pub. L. 106–522, §161, by substituting “5 percent” for “10 percent”, could not be executed because the words “10 percent” did not appear in this section after the amendment of Pub. L. 106–522, §161(2), by Pub. L. 107–96, par. (3). See 2000 Amendment note below.
 
-2000—Subsec. (e)(2)(B). Pub. L. 106–553, §1(a)(1) \[§161(1)\], which directed amendment identical to amendment by Pub. L. 106–522, §161(1), below, was repealed by Pub. L. 106–554, §1(a)(4) \[div. A, §406(a)\]. See Effective Date and Construction of 2000 Amendment note below.
+<b>2000</b>—Subsec. (e)(2)(B). Pub. L. 106–553, §1(a)(1) \[§161(1)\], which directed amendment identical to amendment by Pub. L. 106–522, §161(1), below, was repealed by Pub. L. 106–554, §1(a)(4) \[div. A, §406(a)\]. See Effective Date and Construction of 2000 Amendment note below.
 
-Pub. L. 106–522, §161(1), as amended by Pub. L. 107–96, par. (2), amended second sentence generally. Prior toamendment, second sentence read as follows: “Of such amounts and proceeds, $5,000,000 shall be set aside for use as a credit enhancement fund for public charter schools in the District of Columbia, with the administration of the fund (including the making of loans) to be carried out by the Mayor through a committee consisting of three individuals appointed by the Mayor of the District of Columbia and two individuals appointed by the Public Charter School Board established under section 2214 of the District of Columbia School Reform Act of 1995.”
+Pub. L. 106–522, §161(1), as amended by Pub. L. 107–96, par. (2), amended second sentence generally. Prior to amendment, second sentence read as follows: “Of such amounts and proceeds, $5,000,000 shall be set aside for use as a credit enhancement fund for public charter schools in the District of Columbia, with the administration of the fund (including the making of loans) to be carried out by the Mayor through a committee consisting of three individuals appointed by the Mayor of the District of Columbia and two individuals appointed by the Public Charter School Board established under section 2214 of the District of Columbia School Reform Act of 1995.”
 
 Subsec. (e)(3). Pub. L. 106–553, §1(a)(1) \[§161(2)\], which directed amendment identical to amendment by Pub. L. 106–522, §161(2), below, was repealed by Pub. L. 106–554, §1(a)(4) \[div. A, §406(a)\]. See Effective Date and Construction of 2000 Amendment note below.
 
 Pub. L. 106–522, §161(2), as amended by Pub. L. 107–96, pars. (1) to (3), added par. (3).
 
-1999—Subsec. (e)(2)(B). Pub. L. 106–113 inserted “and public charter” after “public” and inserted at end “Of such amounts and proceeds, $5,000,000 shall be set aside for use as a credit enhancement fund for public charter schools in the District of Columbia, with the administration of the fund (including the making of loans) to be carried out by the Mayor through a committee consisting of three individuals appointed by the Mayor of the District of Columbia and two individuals appointed by the Public Charter School Board established under section 2214 of the District of Columbia School Reform Act of 1995.”
+<b>1999</b>—Subsec. (e)(2)(B). Pub. L. 106–113 inserted “and public charter” after “public” and inserted at end “Of such amounts and proceeds, $5,000,000 shall be set aside for use as a credit enhancement fund for public charter schools in the District of Columbia, with the administration of the fund (including the making of loans) to be carried out by the Mayor through a committee consisting of three individuals appointed by the Mayor of the District of Columbia and two individuals appointed by the Public Charter School Board established under section 2214 of the District of Columbia School Reform Act of 1995.”
 
 #### Effective Date of 2004 Amendment
 
@@ -251,4 +251,6 @@ Pub. L. 106–554, §1(a)(4) \[div. A, §406\], Dec. 21, 2000, 114 Stat. 2763, 2
 “(a) The provisions of H.R. 5547 (as enacted into law by H.R. 4942 of the 106th Congress) \[H.R. 5547 as enacted by section 1(a)(1) of Pub. L. 106–553, amending this section and enacting provisions set out as a note under section 6301 of Title 31, Money and Finance\] are repealed and shall be deemed for all purposes (including section 1(b) of H.R. 4942 \[Pub. L. 106–553, 1 U.S.C. 112 note\]) to have never been enacted.
 
 “(b) The repeal made by this section shall take effect as if included in H.R. 4942 of the 106th Congress \[Pub. L. 106–553\] on the date of its enactment \[Dec. 21, 2000\].”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “section.”</i>
 

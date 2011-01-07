@@ -36,9 +36,11 @@ The Foreign Assistance Act of 1961, referred to in subsec. (e), is Pub. L. 87–
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–246 made technical amendment to reference in original act which appears in text as reference to section 1738m of title 7.
+<b>2008</b>—Subsec. (d). Pub. L. 110–246 made technical amendment to reference in original act which appears in text as reference to section 1738m of title 7.
 
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “through”.</i>
 

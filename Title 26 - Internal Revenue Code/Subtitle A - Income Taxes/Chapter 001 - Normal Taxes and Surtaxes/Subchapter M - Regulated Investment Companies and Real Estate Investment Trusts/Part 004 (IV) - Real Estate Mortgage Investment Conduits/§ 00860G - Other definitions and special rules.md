@@ -44,7 +44,7 @@ For purposes of this part—
 
 &emsp;&emsp;(C) any regular interest in another REMIC transferred to the REMIC on the startup day in exchange for regular or residual interests in the REMIC.
 
-> &emsp;For purposes of subparagraph (A), any obligation secured by stock held by a person as a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treated as secured by an interest in real property. For purposes of subparagraph (A), any obligation originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) shall be treated as principally secured by an interest in real property if more than 50 percent of such obligations which are transferred to, or purchased by, the REMIC are principally secured by an interest in real property (determined without regard to this sentence).
+> &emsp;For purposes of subparagraph (A), any obligation secured by stock held by a person as atenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treated as secured by an interest in real property. For purposes of subparagraph (A), any obligation originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) shall be treated as principally secured by an interest in real property if more than 50 percent of such obligations which are transferred to, or purchased by, the REMIC are principally secured by an interest in real property (determined without regard to this sentence).
 
 #### (4) Qualified replacement mortgage
 
@@ -168,11 +168,11 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-2005—Subsec. (a)(3). Pub. L. 109–135, §403(cc)(2), inserted concluding provisions and struck out former concluding provisions which read as follows: “For purposes of subparagraph (A), any obligation secured by stock held by a person as a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treated as secured by an interest in real property, and any reverse mortgage loan (and each balance increase on such loan meeting the requirements of subparagraph (A)(iii)) shall be treated as an obligation secured by an interest in real property. For purposes of subparagraph (A), if more than 50 percent of the obligations transferred to, or purchased by, the REMIC are originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) and are principally secured by an interest in real property, then each obligation transferred to, or purchased by, the REMIC shall be treated as secured by an interest in real property.”
+<b>2005</b>—Subsec. (a)(3). Pub. L. 109–135, §403(cc)(2), inserted concluding provisions and struck out former concluding provisions which read as follows: “For purposes of subparagraph (A), any obligation secured by stock held by a person as a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treated as secured by an interest in real property, and any reverse mortgage loan (and each balance increase on such loan meeting the requirements of subparagraph (A)(iii)) shall be treated as an obligation secured by an interest in real property. For purposes of subparagraph (A), if more than 50 percent of the obligations transferred to, or purchased by, the REMIC are originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) and are principally secured by an interest in real property, then each obligation transferred to, or purchased by, the REMIC shall be treated as secured by an interest in real property.”
 
 Subsec. (a)(3)(A)(iii)(I). Pub. L. 109–135, §403(cc)(1), substituted “a reverse mortgage loan or other obligation” for “the obligation”.
 
-2004—Subsec. (a)(1). Pub. L. 108–357, §835(b)(5)(A), inserted at end of concluding provisions “An interest shall not fail to qualify as a regular interest solely because the specified principal amount of the regular interest (or the amount of interest accrued on the regular interest) can be reduced as a result of the nonoccurrence of 1 or more contingent payments with respect to any reverse mortgage loan held by the REMIC if, on the startup day for the REMIC, the sponsor reasonably believes that all principal and interest due under the regular interest will be paid at or prior to the liquidation of the REMIC.”
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–357, §835(b)(5)(A), inserted at end of concluding provisions “An interest shall not fail to qualify as a regular interest solely because the specified principal amount of the regular interest (or the amount of interest accrued on the regular interest) can be reduced as a result of the nonoccurrence of 1 or more contingent payments with respect to any reverse mortgage loan held by the REMIC if, on the startup day for the REMIC, the sponsor reasonably believes that all principal and interest due under the regular interest will be paid at or prior to the liquidation of the REMIC.”
 
 Subsec. (a)(3). Pub. L. 108–357, §835(b)(7), inserted at end of concluding provisions “For purposes of subparagraph (A), if more than 50 percent of the obligations transferred to, or purchased by, the REMIC are originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) and are principally secured by an interest in real property, then each obligation transferred to, or purchased by, the REMIC shall be treated as secured by an interest in real property.”
 
@@ -182,15 +182,15 @@ Subsec. (a)(3)(A)(iii). Pub. L. 108–357, §835(b)(8)(A), added cl. (iii).
 
 Subsec. (a)(3)(B) to (D). Pub. L. 108–357, §835(b)(6), inserted “and” at end of subpar. (B), substituted period for “, and” at end of subpar. (C), and struck out subpar. (D) which read as follows: “any regular interest in a FASIT which is transferred to, or purchased by, the REMIC as described in clauses (i) and (ii) of subparagraph (A) but only if 95 percent or more of the value of the assets of such FASIT is at all times attributable to obligations described in subparagraph (A) (without regard to such clauses).”
 
-Subsec. (a)(7)(B). Pub. L. 108–357, §835(b)(8)(B), reenacted heading without change and amended text of subpar. (B) generally. Prior to amendment, text read as follows: “For purposes of subparagraph (A), the term ‘qualified reserve fund’ means any reasonably required reserve to provide for full payment of expenses of the REMIC or amounts due on regular interests in the event of defaults on qualified mortgages or lower than expected returns on cash flow investments. The amount of any such reserve shall be promptly and appropriately reduced as payments of qualified mortgages are received.”
+Subsec. (a)(7)(B). Pub. L. 108–357, §835(b)(8)(B), reenacted heading without change and amended text of subpar. (B) generally. Prior to amendment, text read as follows: “For purposes of subparagraph (A), the term ‘qualified reserve fund’ means any reasonably required reserve to provide for full payment of expenses of the REMIC or amounts due on regular interests in theevent of defaults on qualified mortgages or lower than expected returns on cash flow investments. The amount of any such reserve shall be promptly and appropriately reduced as payments of qualified mortgages are received.”
 
-1996—Subsec. (a)(3)(D). Pub. L. 104–188 added subpar. (D).
+<b>1996</b>—Subsec. (a)(3)(D). Pub. L. 104–188 added subpar. (D).
 
-1990—Subsec. (a)(3)(A). Pub. L. 101–508 struck out comma after “secured” in introductory provisions.
+<b>1990</b>—Subsec. (a)(3)(A). Pub. L. 101–508 struck out comma after “secured” in introductory provisions.
 
-1989—Subsec. (a)(3). Pub. L. 101–239 substituted “subparagraph (A)” for “this subparagraph” in last sentence.
+<b>1989</b>—Subsec. (a)(3). Pub. L. 101–239 substituted “subparagraph (A)” for “this subparagraph” in last sentence.
 
-1988—Subsec. (a)(1). Pub. L. 100–647, §1006(t)(5)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘regular interest’ means an interest in a REMIC the terms of which are fixed on the startup day, and which—
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–647, §1006(t)(5)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘regular interest’ means an interest in a REMIC the terms of which are fixed on the startup day, and which—
 
 &emsp;“(A) unconditionally entitles the holder to receive a specified principal amount (or other similar amount), and
 
@@ -208,7 +208,7 @@ Subsec. (a)(3)(A)(i). Pub. L. 100–647, §1006(t)(5)(C)(i), substituted “on t
 
 Subsec. (a)(3)(A)(ii). Pub. L. 100–647, §1006(t)(5)(C)(ii), inserted before comma at end “if, except as provided in regulations, such purchase is pursuant to a fixed-price contract in effect on the startup day”.
 
-Subsec. (a)(3)(C). Pub. L. 100–647, §1006(t)(5)(C)(iii), substituted “on the startup day in exchange for regularor residual interests in the REMIC” for “on or before the startup day”.
+Subsec. (a)(3)(C). Pub. L. 100–647, §1006(t)(5)(C)(iii), substituted “on the startup day in exchange for regular or residual interests in the REMIC” for “on or before the startup day”.
 
 Subsec. (a)(4)(A). Pub. L. 100–647, §1006(t)(5)(D), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “which would be described in paragraph (3)(A) if it were transferred to the REMIC on or before the startup day, and”.
 
@@ -251,4 +251,6 @@ Section 1006(t)(5)(F) of Pub. L. 100–647 provided that: “The amendments made
 Section 1006(t)(9)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall not apply to any REMIC where the startup day (as defined in section 860G(a)(9) of the 1986 Code as in effect on the day before the date of the enactment of this Act \[Nov. 10, 1988\]) is before July 1, 1987.”
 
 Amendment by section 1006(t)(6)–(8)(B), (10) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

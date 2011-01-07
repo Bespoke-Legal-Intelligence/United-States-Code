@@ -2,7 +2,7 @@
 
 #### (a) Coordination required
 
-The Administrator shall ensure that the disaster assistance programs of the Administration are coordinated, to the maximum extent practicable, with the disaster assistance programs of the Federal Emergency Management Agency.
+The Administrator shall ensure that the disaster assistance programs of the Administrationare coordinated, to the maximum extent practicable, with the disaster assistance programs of the Federal Emergency Management Agency.
 
 #### (b) Regulations required
 

@@ -6,5 +6,5 @@ The Trust shall terminate September 30, 1994.
 
 #### Amendments
 
-1992—Pub. L. 102–550 substituted “September 30, 1994” for “on September 30, 1993”.
+<b>1992</b>—Pub. L. 102–550 substituted “September 30, 1994” for “on September 30, 1993”.
 

@@ -150,7 +150,7 @@ For purposes of this subchapter—
 
 &emsp;(C)(i) Acts, policies, and practices of a foreign country described in subparagraph (B)(iii) shall not be treated as being unreasonable if the Trade Representative determines that—
 
-&emsp;&emsp;(I) the foreign country has taken, or is taking, actions that demonstrate a significant and tangible overall advancement inproviding throughout the foreign country (including any designated zone within the foreign country) the rights and other standards described in the subclauses of subparagraph (B)(iii), or
+&emsp;&emsp;(I) the foreign country has taken, or is taking, actions that demonstrate a significant and tangible overall advancement in providing throughout the foreign country (including any designated zone within the foreign country) the rights and other standards described in the subclauses of subparagraph (B)(iii), or
 
 &emsp;&emsp;(II) such acts, policies, and practices are not inconsistent with the level of economic development of the foreign country.
 
@@ -186,9 +186,9 @@ A prior section 301 of Pub. L. 93–618, title III, Jan. 3, 1975, 88 Stat. 2041,
 
 #### Amendments
 
-1996—Subsec. (c)(4). Pub. L. 104–295 substituted “paragraph (1)(D)(iii)” for “paragraph (1)(C)(iii)”.
+<b>1996</b>—Subsec. (c)(4). Pub. L. 104–295 substituted “paragraph (1)(D)(iii)” for “paragraph (1)(C)(iii)”.
 
-1994—Subsec. (a)(1). Pub. L. 103–465, §314(a)(1), inserted at end of concluding provisions “Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.”
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–465, §314(a)(1), inserted at end of concluding provisions “Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.”
 
 Subsec. (a)(2)(A). Pub. L. 103–465, §621(a)(9), substituted “the Dispute Settlement Body (as defined in section 3531(5) of this title) has adopted a report,” for “the Contracting Parties to the General Agreement on Tariffs and Trade have determined, a panel of experts has reported to the Contracting Parties,”.
 
@@ -206,9 +206,9 @@ Subsec. (d)(3)(B)(i)(II) to (IV). Pub. L. 103–465, §314(c)(1), added subcls. 
 
 Subsec. (d)(3)(F). Pub. L. 103–465, §314(c)(2), added subpar. (F).
 
-1988—Pub. L. 100–418 amended section generally, substituting provisions relating to actions by United States Trade Representative for provisions relating to determinations and action by President.
+<b>1988</b>—Pub. L. 100–418 amended section generally, substituting provisions relating to actions by United States Trade Representative for provisions relating to determinations and action by President.
 
-1984—Subsec. (a). Pub. L. 98–573, §304(a), amended subsec. (a) generally, which prior to amendment provided that if the President determines that action by the United States is appropriate (1) to enforce the rights of the United States under any trade agreement; or (2) to respond to any act, policy, or practice of a foreign country or instrumentality that (A) is inconsistent with the provisions of, or otherwise denies benefits to the United States under, any trade agreement, or (B) is unjustifiable, unreasonable, or discriminatory and burdens or restricts United States commerce; the President shall take all appropriate and feasible action within his power to enforce such rights or to obtain the elimination of such act, policy, or practice and that action under this section may be taken on a nondiscriminatory basis or solely against the products or services of the foreign country or instrumentality involved.
+<b>1984</b>—Subsec. (a). Pub. L. 98–573, §304(a), amended subsec. (a) generally, which prior to amendment provided that if the President determines that action by the United States is appropriate (1) to enforce the rights of the United States under any trade agreement; or (2) to respond to any act, policy, or practice of a foreign country or instrumentality that (A) is inconsistent with the provisions of, or otherwise denies benefits to the United States under, any trade agreement, or (B) is unjustifiable, unreasonable, or discriminatory and burdens or restricts United States commerce; the President shall take all appropriate and feasible action within his power to enforce such rights or to obtain the elimination of such act, policy, or practice and that action under this section may be taken on a nondiscriminatory basis or solely against the products or services of the foreign country or instrumentality involved.
 
 Subsec. (b)(1). Pub. L. 98–573, §304(b)(1), struck out “and” at end.
 
@@ -264,11 +264,11 @@ Sec. 2. <i>Rationale</i>: (a) This order finds that:
 
 (1) it is in the interest of the United States to take all reasonable steps to prevent further spread of infectious disease, particularly HIV/AIDS;
 
-(2) there is critical need for effective incentives to develop new pharmaceuticals, vaccines, and therapies to combat the HIV/AIDS crisis, including effective global intellectual property standards designed to foster pharmaceutical and medical innovation;
+(2) there is critical need for effective incentives to develop new pharmaceuticals, vaccines, and therapies tocombat the HIV/AIDS crisis, including effective global intellectual property standards designed to foster pharmaceutical and medical innovation;
 
 (3) the overriding priority for responding to the crisis of HIV/AIDS in sub-Saharan Africa should be to improve public education and to encourage practices that will prevent further transmission and infection, and to stimulate development of the infrastructure necessary to deliver adequate health care services;
 
-(4) the United States should work with individual countries in sub-Saharan Africa to assist them in development of effective public education campaigns aimed at the prevention of HIV/AIDS transmission and infection, and to improve their health care infrastructure to promote improved access to quality health carefor their citizens in general, and particularly with respect to the HIV/AIDS epidemic;
+(4) the United States should work with individual countries in sub-Saharan Africa to assist them in development of effective public education campaigns aimed at the prevention of HIV/AIDS transmission and infection, and to improve their health care infrastructure to promote improved access to quality health care for their citizens in general, and particularly with respect to the HIV/AIDS epidemic;
 
 (5) an effective United States response to the crisis in sub-Saharan Africa must focus in the short term on preventive programs designed to reduce the frequency of new infections and remove the stigma of the disease, and should place a priority on basic health services that can be used to treat opportunistic infections, sexually transmitted infections, and complications associated with HIV/AIDS so as to prolong the duration and improve the quality of life of those with the disease;
 

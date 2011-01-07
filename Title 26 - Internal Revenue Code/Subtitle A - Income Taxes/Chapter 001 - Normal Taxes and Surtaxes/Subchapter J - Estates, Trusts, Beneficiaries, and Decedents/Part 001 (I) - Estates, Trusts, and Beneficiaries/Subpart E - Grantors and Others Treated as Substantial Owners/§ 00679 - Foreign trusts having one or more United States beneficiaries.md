@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A United States person who directly or indirectly transfers property to a foreign trust\(other than a trust described in section 6048(a)(3)(B)(ii)) shall be treated as the owner for his taxable year of the portion of such trust attributable to such property if for such year there is a United States beneficiary of any portion of such trust.
+&emsp;A United States person who directly or indirectly transfers property to a foreign trust (other than a trust described in section 6048(a)(3)(B)(ii)) shall be treated as the owner for his taxable year of the portion of such trust attributable to such property if for such year there is a United States beneficiary of any portion of such trust.
 
 #### (2) Exceptions
 
@@ -86,6 +86,8 @@ If—
 
 &emsp;&emsp;(B) if the trust were terminated at any time during the taxable year, no part of the income or corpus of such trust could be paid to or for the benefit of a United States person.
 
+> &emsp;For purposes of subparagraph (A), an amount shall be treated as accumulated for the benefit of a United States person even if the United States person's interest in the trust is contingent on a future event.
+
 #### (2) Attribution of ownership
 
 &emsp;For purposes of paragraph (1), an amount shall be treated as paid or accumulated to or for the benefit of a United States person if such amount is paid to or accumulated for a foreign corporation, foreign partnership, or foreign trust or estate, and—
@@ -100,19 +102,51 @@ If—
 
 &emsp;A beneficiary shall not be treated as a United States person in applying this section with respect to any transfer of property to foreign trust if such beneficiary first became a United States person more than 5 years after the date of such transfer.
 
-#### (d) Regulations
+#### (4) Special rule in case of discretion to identify beneficiaries
+
+&emsp;For purposes of paragraph (1)(A), if any person has the discretion (by authority given in the trust agreement, by power of appointment, or otherwise) of making a distribution from the trust to, or for the benefit of, any person, such trust shall be treated as having a beneficiary who is a United States person unless—
+
+&emsp;&emsp;(A) the terms of the trust specifically identify the class of persons to whom such distributions may be made, and
+
+&emsp;&emsp;(B) none of those persons are United States persons during the taxable year.
+
+#### (5) Certain agreements and understandings treated as terms of the trust
+
+&emsp;For purposes of paragraph (1)(A), if any United States person who directly or indirectly transfers property to the trust is directly or indirectly involved in any agreement or understanding (whether written, oral, or otherwise) that may result in the income or corpus of the trust being paid or accumulated to or for the benefit of a United States person, such agreement or understanding shall be treated as a term of the trust.
+
+#### (6) Uncompensated use of trust property treated as a payment
+
+&emsp;For purposes of this subsection, a loan of cash or marketable securities (or the use of any other trust property) directly or indirectly to or by any United States person (whether or not a beneficiary under the terms of the trust) shall be treated as paid or accumulated for the benefit of a United States person. The preceding sentence shall not apply to the extent that the United States person repays the loan at a market rate of interest (or pays the fair market value of the use of such property) within a reasonable period of time.
+
+#### (d) Presumption that foreign trust has United States beneficiary
+
+If a United States person directly or indirectly transfers property to a foreign trust (other than a trust described in section 6048(a)(3)(B)(ii)), the Secretary may treat such trust as having a United States beneficiary for purposes of applying this section to such transfer unless such person—
+
+&emsp;(1) submits such information to the Secretary as the Secretary may require with respect to such transfer, and
+
+&emsp;(2) demonstrates to the satisfaction of the Secretary that such trust satisfies the requirements of subparagraphs (A) and (B) of subsection (c)(1).
+
+#### (e) Regulations
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 94–455, title X, §1013(a), Oct. 4, 1976, 90 Stat. 1614; amended Pub. L. 96–603, §2(b), Dec. 28, 1980, 94 Stat. 3509; Pub. L. 104–188, title I, §1903(a)–(f), Aug. 20, 1996, 110 Stat. 1909, 1910; Pub. L. 105–34, title XVI, §1601(i)(2), Aug. 5, 1997, 111 Stat. 1093; Pub. L. 105–206, title VI, §6018(g), July 22, 1998, 112 Stat. 823.)
+(Added Pub. L. 94–455, title X, §1013(a), Oct. 4, 1976, 90 Stat. 1614; amended Pub. L. 96–603, §2(b), Dec. 28, 1980, 94 Stat. 3509; Pub. L. 104–188, title I, §1903(a)–(f), Aug. 20, 1996, 110 Stat. 1909, 1910; Pub. L. 105–34, title XVI, §1601(i)(2), Aug. 5, 1997, 111 Stat. 1093; Pub. L. 105–206, title VI, §6018(g), July 22, 1998, 112 Stat. 823; Pub. L. 111–147, title V, §§531, 532(a), 533(c), Mar. 18, 2010, 124 Stat. 113, 114.)
 
 #### Amendments
 
-1998—Subsec. (a)(1). Pub. L. 105–206 provided that the amendment made by section 1903(b) of Pub. L. 104–188 shall be applied as if “or” in the material proposed to be stricken were capitalized. See 1996 Amendment note below.
+<b>2010</b>—Subsec. (c)(1). Pub. L. 111–147, §531(a), inserted concluding provisions.
 
-1997—Subsec. (a)(3)(C)(ii), (iii). Pub. L. 105–34 inserted “, owner,” after “grantor”.
+Subsec. (c)(4), (5). Pub. L. 111–147, §531(b), (c), added pars. (4) and (5).
 
-1996—Subsec. (a)(1). Pub. L. 104–188, §1903(b), which directed that subsec. (a) of this section be amended by substituting “section 6048(a)(3)(B)(ii)” for “section 404(a)(4) or 404A”, was executed to par. (1) by making the substitution for “section 404(a)(4) Or section 404A” to reflect the probable intent of Congress. See 1998 Amendment note above.
+Subsec. (c)(6). Pub. L. 111–147, §533(c), added par. (6).
+
+Subsecs. (d), (e). Pub. L. 111–147, §532(a), added subsec. (d) and redesignated former subsec. (d) as (e).
+
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–206 provided that the amendment made by section 1903(b) of Pub. L. 104–188 shall be applied as if “or” in the material proposed to be stricken were capitalized. See 1996 Amendment note below.
+
+<b>1997</b>—Subsec. (a)(3)(C)(ii), (iii). Pub. L. 105–34 inserted “, owner,” after “grantor”.
+
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–188, §1903(b), which directed that subsec. (a) of this section be amended by substituting “section 6048(a)(3)(B)(ii)” for “section404(a)(4) or 404A”, was executed to par. (1) by making the substitution for “section 404(a)(4) Or section 404A” to reflect the probable intent of Congress. See 1998 Amendment note above.
 
 Subsec. (a)(2)(B). Pub. L. 104–188, §1903(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “
 
@@ -128,15 +162,21 @@ Subsec. (c)(3). Pub. L. 104–188, §1903(d), added par. (3).
 
 Subsec. (d). Pub. L. 104–188, §1903(f), added subsec. (d).
 
-1980—Subsec. (a)(1). Pub. L. 96–603 inserted “Or section 404A” after “section 404(a)(4)”.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–603 inserted “Or section 404A” after “section 404(a)(4)”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–147, title V, §532(b), Mar. 18, 2010, 124 Stat. 114, provided that: “The amendments made by this section \[amending this section\] shall apply to transfers of property after the date of the enactment of this Act \[Mar. 18, 2010\].”
+
+Amendment by section 533(c) of Pub. L. 111–147 applicable to loans made, and uses of property, after Mar. 18, 2010, see section 533(e) of Pub. L. 111–147, set out as a note under section 643 of this title.
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 6018 of Pub. L. 105–206 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which such amendment relates, see section 6018(h) of Pub. L. 105–206, set out as a note under section 23 of this title.
+Amendment by section 6018 of Pub. L. 105–206 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which such amendment relates, see section 6018(h) of Pub. L. 105–206, set out as a note under section 36C of this title.
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
 
 #### Effective Date of 1996 Amendment
 

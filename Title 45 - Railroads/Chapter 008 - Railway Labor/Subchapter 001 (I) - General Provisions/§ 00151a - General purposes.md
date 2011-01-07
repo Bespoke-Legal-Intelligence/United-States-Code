@@ -10,5 +10,5 @@ Section is comprised of the first sentence of section 2 of act May 20, 1926. The
 
 #### Amendments
 
-1934—Act June 21, 1934, reenacted provisions comprising this section without change.
+<b>1934</b>—Act June 21, 1934, reenacted provisions comprising this section without change.
 

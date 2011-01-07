@@ -54,7 +54,7 @@ A prior section 2331 was renumbered 2332 of this title.
 
 #### Amendments
 
-2001—Par. (1)(B)(iii). Pub. L. 107–56, §802(a)(1), substituted “by mass destruction, assassination, or kidnapping” for “by assassination or kidnapping”.
+<b>2001</b>—Par. (1)(B)(iii). Pub. L. 107–56, §802(a)(1), substituted “by mass destruction, assassination, or kidnapping” for “by assassination or kidnapping”.
 
 Par. (5). Pub. L. 107–56, §802(a)(2)–(4), added par. (5).
 

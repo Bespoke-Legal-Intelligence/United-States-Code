@@ -26,9 +26,9 @@ As used in this title—
 
 #### Amendments
 
-2006—Pars. (5) to (10). Pub. L. 109–435 added pars. (5) to (10).
+<b>2006</b>—Pars. (5) to (10). Pub. L. 109–435 added pars. (5) to (10).
 
-1996—Par. (4). Pub. L. 104–208 added par. (4).
+<b>1996</b>—Par. (4). Pub. L. 104–208 added par. (4).
 
 #### Effective Date
 

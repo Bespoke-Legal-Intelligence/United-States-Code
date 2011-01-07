@@ -16,7 +16,7 @@ Additional Powers.—(1) The Board may—
 
 &emsp;(A) procure the temporary or intermittent services of experts or consultants under section 3109 of title 5;
 
-&emsp;(B) make agreements and other transactions necessary to carry out this chapter without regard to section 3709 of the Revised Statutes (41 U.S.C. 5);
+&emsp;(B) make agreements and other transactions necessary to carry out this chapter without regard to section 6101(b) to (d) of title 41;
 
 &emsp;(C) use, when appropriate, available services, equipment, personnel, and facilities of a department, agency, or instrumentality of the United States Government on a reimbursable or other basis;
 
@@ -40,7 +40,7 @@ Submission of Certain Copies to Congress.—When the Board submits to the Presid
 
 (d)
 
-Liaison Committees.—The Chairman may determine the number of committees that are appropriate to maintain effective liaison with other departments, agencies, and instrumentalities of the Government, State and local governmental authorities, and independent standard-setting authorities that carry out programs and activities related to transportation safety. The Board may designate representatives to serve on or assist those committees.
+Liaison Committees.—The Chairman may determine the number of committees that areappropriate to maintain effective liaison with other departments, agencies, and instrumentalities of the Government, State and local governmental authorities, and independent standard-setting authorities that carry out programs and activities related to transportation safety. The Board may designate representatives to serve on or assist those committees.
 
 (e)
 
@@ -78,7 +78,7 @@ Annual report.—Not later than January 31, 2002, and annually thereafter, the B
 
 Investigative Officers.—The Board shall maintain at least 1 full-time employee in each State located more than 1,000 miles from the nearest Board regional office to provide initial investigative response to accidents the Board is empowered to investigate under this chapter that occur in that State.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 747; Pub. L. 106–424, §§3(a), (b)(1), 4, Nov. 1, 2000, 114 Stat. 1883, 1884; Pub. L. 109–443, §9(e)–(g), Dec. 21, 2006, 120 Stat. 3301.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 747; Pub. L. 106–424, §§3(a), (b)(1), 4, Nov. 1, 2000, 114 Stat. 1883, 1884; Pub. L. 109–443, §9(e)–(g), Dec. 21, 2006, 120 Stat. 3301; Pub. L. 111–350, §5(<i>o</i>)(2), Jan. 4, 2011, 124 Stat. 3853.)
 
 Historical and Revision Notes
 
@@ -192,7 +192,9 @@ GS–10 of the General Schedule, referred to in subsec. (g)(1), is set out under
 
 #### Amendments
 
-2006—Subsec. (a)(3). Pub. L. 109–443, §9(e), substituted “subpoena” for “subpena”.
+<b>2011</b>—Subsec. (b)(1)(B). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes (41 U.S.C. 5)”.
+
+<b>2006</b>—Subsec. (a)(3). Pub. L. 109–443, §9(e), substituted “subpoena” for “subpena”.
 
 Subsec. (a)(4). Pub. L. 109–443, §9(e), which directed substitution of “subpoena” for “subpena”, was executed by making the substitution wherever appearing, to reflect the probable intent of Congress.
 
@@ -200,7 +202,7 @@ Subsec. (c). Pub. L. 109–443, §9(f), inserted at end “The Board shall devel
 
 Subsec. (h). Pub. L. 109–443, §9(g), added subsec. (h).
 
-2000—Subsec. (b)(1)(I). Pub. L. 106–424, §3(a), amended subpar. (I) generally. Prior to amendment, subpar. (I) read as follows: “require that the departments, agencies, and instrumentalities of the Government, State and local governments, and governments of foreign countries provide appropriate consideration for the reasonable costs of goods and services supplied by the Board.”
+<b>2000</b>—Subsec. (b)(1)(I). Pub. L. 106–424, §3(a), amended subpar. (I) generally. Prior to amendment, subpar. (I) read as follows: “require that the departments, agencies, and instrumentalities of the Government, State and local governments, and governments of foreign countries provide appropriate consideration for the reasonable costs of goods and services supplied by the Board.”
 
 Subsec. (b)(2). Pub. L. 106–424, §3(b)(1), inserted “as offsetting collections” after “to be credited” and “The Board shall maintain an annual record of collections received under paragraph (1)(I) of this subsection.” at end.
 

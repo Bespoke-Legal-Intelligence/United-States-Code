@@ -36,7 +36,3 @@ The Board may—
 
 (Pub. L. 104–127, title III, §355, Apr. 4, 1996, 110 Stat. 1012.)
 
-#### References in Text
-
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (b)(1)(A), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
-

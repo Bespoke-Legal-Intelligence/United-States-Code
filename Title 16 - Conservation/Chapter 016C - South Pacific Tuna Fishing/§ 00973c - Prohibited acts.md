@@ -36,7 +36,7 @@
 
 &emsp;(1) to use a vessel to fish unless validly licensed as required by the Administrator;
 
-&emsp;(2) to use a vessel for directed fishing for southern bluefin tuna or for fishing for any kinds of fish other than tunas, except that fish may be caught as an incidental by-catch;
+&emsp;(2) to use a vessel for directed fishing for southern bluefin tuna or for fishing for anykinds of fish other than tunas, except that fish may be caught as an incidental by-catch;
 
 &emsp;(3) to use a vessel for fishing by any method other than the purse-seine method;
 

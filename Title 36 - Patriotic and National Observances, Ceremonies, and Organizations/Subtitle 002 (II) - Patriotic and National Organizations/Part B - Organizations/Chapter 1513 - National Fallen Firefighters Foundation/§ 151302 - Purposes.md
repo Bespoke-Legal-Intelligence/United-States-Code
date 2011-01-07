@@ -42,7 +42,7 @@ Oct. 26, 1992, Pub. L. 102–522, title II, §202(b), 106 Stat. 3417.
 
 #### Amendments
 
-2000—Par. (1). Pub. L. 106–503, §113(a)(1) added par. (1) and struck out former par. (1) which read as follows: “primarily to encourage, accept, and administer private gifts of property for the benefit of the National Fallen Firefighters’ Memorial and the annual memorial service associated with it;”.
+<b>2000</b>—Par. (1). Pub. L. 106–503, §113(a)(1) added par. (1) and struck out former par. (1) which read as follows: “primarily to encourage, accept, and administer private gifts of property for the benefit of the National Fallen Firefighters’ Memorial and the annual memorial service associated with it;”.
 
 Par. (2). Pub. L. 106–503, §113(a)(2), inserted “and Federal” after “non-Federal”.
 

@@ -20,7 +20,7 @@
 
 &emsp;(9) a passenger vessel not engaged in a foreign voyage with respect to individuals on board employed for a period of not more than 30 service days within a 12 month period as entertainment personnel, with no duties, including emergency duties, related to the navigation of the vessel or the safety of the vessel, its crew, cargo or passengers; and
 
-&emsp;(10) the Secretary may prescribe the individuals required to hold a merchant mariner's document serving onboard an oil spill response vessel.
+&emsp;(10) the Secretary may prescribe the individuals required to hold a merchant mariner'sdocument serving onboard an oil spill response vessel.
 
 (b) A person may not engage or employ an individual, and an individual may not serve, on board a vessel to which this section applies if the individual does not have a merchant mariner's document issued to the individual under section 7302 of this title. Except for an individual required to be licensed or registered under this part, the document must authorize service in the capacity for which the holder of the document is engaged or employed.
 
@@ -58,17 +58,17 @@ Subsection (d) prescribes the penalty for violation of this section.
 
 #### Amendments
 
-2002—Subsec. (a)(9), (10). Pub. L. 107–295 added par. (9) and redesignated former par. (9) as (10).
+<b>2002</b>—Subsec. (a)(9), (10). Pub. L. 107–295 added par. (9) and redesignated former par. (9) as (10).
 
-1996—Subsec. (a). Pub. L. 104–324, §731(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–324, §731(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons” in introductory provisions.
 
 Subsec. (a)(6). Pub. L. 104–324, §731(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “1,600 gross tons”.
 
 Subsec. (a)(9). Pub. L. 104–324, §1104(e), added par. (9).
 
-1986—Subsec. (a)(8). Pub. L. 99–640 added par. (8).
+<b>1986</b>—Subsec. (a)(8). Pub. L. 99–640 added par. (8).
 
-1984—Subsec. (a)(3). Pub. L. 98–364, §402(12)(A)(i), substituted “fishing, fish tender, or whaling” for “fishing or whaling”.
+<b>1984</b>—Subsec. (a)(3). Pub. L. 98–364, §402(12)(A)(i), substituted “fishing, fish tender, or whaling” for “fishing or whaling”.
 
 Subsec. (a)(6), (7). Pub. L. 98–364, §402(12)(A)(ii)– (iv), added pars. (6) and (7).
 

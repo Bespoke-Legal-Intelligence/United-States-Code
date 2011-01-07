@@ -6,5 +6,5 @@ Not later than October 1, 2002, the Attorney General, in consultation with the F
 
 #### Amendments
 
-2002—Pub. L. 107–179 substituted “Not later than October 1, 2002” for “On October 1, 1987”.
+<b>2002</b>—Pub. L. 107–179 substituted “Not later than October 1, 2002” for “On October 1, 1987”.
 

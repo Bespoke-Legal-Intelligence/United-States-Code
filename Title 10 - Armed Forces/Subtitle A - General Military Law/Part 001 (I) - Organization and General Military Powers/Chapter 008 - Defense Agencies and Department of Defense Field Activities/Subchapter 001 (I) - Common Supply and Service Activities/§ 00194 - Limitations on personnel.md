@@ -26,15 +26,15 @@ Waiver.—The limitations in this section do not apply—
 
 (f)
 
-Definitions.—In this section, the terms “management headquarters activities” and “management headquarters support activities”have the meanings given those terms in Department of Defense Directive 5100.73, entitled “Department of Defense Management Headquarters and Headquarters Support Activities” and dated January 7, 1985.
+Definitions.—In this section, the terms “management headquarters activities” and “management headquarters support activities” have the meanings given those terms in Department of Defense Directive 5100.73, entitled “Department of Defense Management Headquarters and Headquarters Support Activities” and dated January 7, 1985.
 
 (Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1021; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(3), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–189, div. A, title XVI, §1622(h)(1), Nov. 29, 1989, 103 Stat. 1605.)
 
 #### Amendments
 
-1989—Subsecs. (a), (b). Pub. L. 101–189 substituted “The” for “After September 30, 1989, the”.
+<b>1989</b>—Subsecs. (a), (b). Pub. L. 101–189 substituted “The” for “After September 30, 1989, the”.
 
-1987—Subsec. (e)(2). Pub. L. 100–180 inserted “the President or” after “declared by”.
+<b>1987</b>—Subsec. (e)(2). Pub. L. 100–180 inserted “the President or” after “declared by”.
 
 #### Exceptions and Adjustments to Limitations on Personnel
 
@@ -74,7 +74,7 @@ Defense Agencies and DOD Field Activities.—(1)(A) Not later than September 30,
 
 “(C) If the number of members and employees reduced under subparagraph (A) or (B) is in excess of the reduction required to be made by that subparagraph, such excess number may be applied to the number required to be reduced under paragraph (2).
 
-“(2)(A) Not later than September 30, 1988, the Secretary of Defense shall reduce the total number of members of the Armed Forces and civilian employees assigned or detailed to permanent duty in the Defense Agencies and Department of Defense Field Activities, other than members and employees assigned or detailed to duty in management headquarters activities or management headquarters support activities, by a number that is at least 5 percent of the total number of such members and employees assigned or detailed to such duty on September 30, 1986.
+“(2)(A) Not later than September 30, 1988, the Secretary of Defense shall reduce the total number of members of the Armed Forces and civilian employees assigned or detailed to permanent duty in the DefenseAgencies and Department of Defense Field Activities, other than members and employees assigned or detailed to duty in management headquarters activities or management headquarters support activities, by a number that is at least 5 percent of the total number of such members and employees assigned or detailed to such duty on September 30, 1986.
 
 “(B) Not later than September 30, 1989, the Secretary shall carry out an additional reduction in such members and employees of not less than 5 percent of the number of such members and employees assigned or detailed to such duty on September 30, 1988.
 
@@ -90,7 +90,7 @@ Prohibition Against Certain Actions To Achieve Reductions.—Compliance with the
 
 Allocations To Be Made by Secretary of Defense.—(1) The Secretary of Defense shall allocate the reductions required to comply with the limitations in subsections (a) and (b) in a manner consistent with the efficient operation of the Department of Defense. If the Secretary determines that national security requirements dictate that a reduction (or any portion of a reduction) required by subsection (b) not be made from the Defense Agencies and Department of Defense Field Activities, the Secretary may allocate such reduction (or any portion of such reduction) (A) to personnel assigned or detailed to permanent duty in management headquarters activities or management headquarters support activities, or (B) to personnel assigned or detailed to permanent duty in other than management headquarters activities or management headquarters support activities, as the case may be, of the Department of Defense other than the Defense Agencies and Department of Defense Field Activities.
 
-“(2) Among the actions that are taken to carry out the reductions required by subsections (a) and (b), theSecretary shall consolidate and eliminate unnecessary management headquarters activities and management headquarters support activities.
+“(2) Among the actions that are taken to carry out the reductions required by subsections (a) and (b), the Secretary shall consolidate and eliminate unnecessary management headquarters activities and management headquarters support activities.
 
 “(e)
 

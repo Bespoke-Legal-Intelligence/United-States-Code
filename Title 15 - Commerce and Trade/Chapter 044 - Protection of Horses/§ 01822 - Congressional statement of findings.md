@@ -16,5 +16,5 @@ The Congress finds and declares that—
 
 #### Amendments
 
-1976—Pub. L. 94–360, among other changes, inserted findings stating that all horses subject to regulation under this chapter are either in interstate or foreign commerce or substantially affect interstate or foreign commerce, and that regulation by the Secretary is appropriate to eliminate burdens upon commerce.
+<b>1976</b>—Pub. L. 94–360, among other changes, inserted findings stating that all horses subject to regulation under this chapter are either in interstate or foreign commerce or substantially affect interstate or foreign commerce, and that regulation by the Secretary is appropriate to eliminate burdens upon commerce.
 

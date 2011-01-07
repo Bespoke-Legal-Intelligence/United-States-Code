@@ -16,23 +16,23 @@ The Outer Continental Shelf Lands Act, referred to in second par., is act Aug. 7
 
 #### Amendments
 
-2006—Pub. L. 109–453 substituted “2015” for “2005”.
+<b>2006</b>—Pub. L. 109–453 substituted “2015” for “2005”.
 
-2000—Pub. L. 106–208 substituted “through 2005” for “through 1997” and “(43 U.S.C. 1338)” for “(43 U.S.C. 338)”.
+<b>2000</b>—Pub. L. 106–208 substituted “through 2005” for “through 1997” and “(43 U.S.C. 1338)” for “(43 U.S.C. 338)”.
 
-1992—Pub. L. 102–575 substituted “1997” for “1992”.
+<b>1992</b>—Pub. L. 102–575 substituted “1997” for “1992”.
 
-1987—Pub. L. 100–127 substituted “1992” for “1987”.
+<b>1987</b>—Pub. L. 100–127 substituted “1992” for “1987”.
 
-1980—Pub. L. 96–515 inserted “and $150,000,000 for each of fiscal years 1982 through 1987” after “1981”.
+<b>1980</b>—Pub. L. 96–515 inserted “and $150,000,000 for each of fiscal years 1982 through 1987” after “1981”.
 
-1976—Pub. L. 94–422 substituted provisions establishing Historic Preservation Fund which contains appropriations obtained from revenues due and payable to United States pursuant to Outer Continental Shelf Lands Act and Act June 4, 1920 to carry out provisions of sections 470 to 470t of this title for provisions authorizing appropriations to carry out provisions of sections 470a, 470b, and 470c to 470h of this title of not more than $15,600,000 in fiscal year 1974, $20,000,000 in fiscal year 1975, and $24,400,000 in fiscal year 1976 to remain available until expended.
+<b>1976</b>—Pub. L. 94–422 substituted provisions establishing Historic Preservation Fund which contains appropriations obtained from revenues due and payable to United States pursuant to Outer Continental Shelf Lands Act and Act June 4, 1920 to carry out provisions of sections 470 to 470t of this title for provisions authorizing appropriations to carry out provisions of sections 470a, 470b, and 470c to 470h of this title of not more than $15,600,000 in fiscal year 1974, $20,000,000 in fiscal year 1975, and $24,400,000 in fiscal year 1976 to remain available until expended.
 
-1973—Pub. L. 93–54 substituted appropriations authorization of $15,600,000, $20,000,000 and $24,400,000 for fiscal years 1974 through 1976, respectively, for such authorization of $7,000,000, $10,000,000, and $15,000,000 for fiscal years 1971 through 1973, respectively.
+<b>1973</b>—Pub. L. 93–54 substituted appropriations authorization of $15,600,000, $20,000,000 and $24,400,000 for fiscal years 1974 through 1976, respectively, for such authorization of $7,000,000, $10,000,000, and $15,000,000 for fiscal years 1971 through 1973, respectively.
 
-1970—Pub. L. 91–243 substituted provisions authorizing appropriations of not more than $7,000,000 for fiscal year 1971, and $10,000,000 and $15,000,000 for fiscal years 1972 and 1973, respectively, to carry out the provisions of sections 470a, 470b, and 470c, to 470h of this title for provisions authorizing the appropriation of not to exceed $2,000,000 for fiscal year 1967 and not more than $10,000,000 for the three succeeding fiscal years to carry out the provisions of sections 470 to 470b, and 470c to 470n of this title.
+<b>1970</b>—Pub. L. 91–243 substituted provisions authorizing appropriations of not more than $7,000,000 for fiscal year 1971, and $10,000,000 and $15,000,000 for fiscal years 1972 and 1973, respectively, to carry out the provisions of sections 470a, 470b, and 470c, to 470h of this title for provisions authorizing the appropriation of not to exceed $2,000,000 for fiscal year 1967 and not more than $10,000,000 for the three succeeding fiscal years to carry out the provisions of sections 470 to 470b, and 470c to 470n of this title.
 
 #### Review of Operation of Historic Preservation Fund and National Historic Preservation Program; Report to President and Congress
 
-Section 504 of Pub. L. 96–515 provided that: “The Secretary shall submit a report directly to the Presidentand the Congress on or before June 1, 1986, reviewing the operation of the Historic Preservation Fund and the national historic preservation program since the enactment of this Act \[Dec. 12, 1980\] and recommending appropriate funding levels, the time period for the reauthorization for appropriations from the fund, and other appropriate legislative action to be undertaken upon the expiration of the current fund authorization.”
+Section 504 of Pub. L. 96–515 provided that: “The Secretary shall submit a report directly to the President and the Congress on or before June 1, 1986, reviewing the operation of the Historic Preservation Fund and the national historic preservation program since the enactment of this Act \[Dec. 12, 1980\] and recommending appropriate funding levels, the time period for the reauthorization for appropriations from the fund, and other appropriate legislative action to be undertaken upon the expiration of the current fund authorization.”
 

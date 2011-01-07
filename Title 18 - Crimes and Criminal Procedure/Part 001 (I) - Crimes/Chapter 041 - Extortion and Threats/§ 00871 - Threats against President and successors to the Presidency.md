@@ -16,13 +16,13 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-1982—Subsec. (a). Pub. L. 97–297 inserted “, to kidnap,” after “containing any threat to take the life of”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–297 inserted “, to kidnap,” after “containing any threat to take the life of”.
 
-1962—Pub. L. 87–829 designated existing provisions as subsec. (a), extended the provisions of such subsection to include any other officer next on the order of succession to the office of President and the Vice-President-elect, added subsec. (b), and substituted “and successors to the Presidency” for “, President-elect, and Vice President” in section catchline.
+<b>1962</b>—Pub. L. 87–829 designated existing provisions as subsec. (a), extended the provisions of such subsection to include any other officer next on the order of succession to the office of President and the Vice-President-elect, added subsec. (b), and substituted “and successors to the Presidency” for “, President-elect, and Vice President” in section catchline.
 
-1955—Act June 1, 1955, included in section catchline and in text, provision for penalties for threats against the President-elect and the Vice President.
+<b>1955</b>—Act June 1, 1955, included in section catchline and in text, provision for penalties for threats against the President-elect and the Vice President.
 
 #### Short Title of 2000 Amendment
 

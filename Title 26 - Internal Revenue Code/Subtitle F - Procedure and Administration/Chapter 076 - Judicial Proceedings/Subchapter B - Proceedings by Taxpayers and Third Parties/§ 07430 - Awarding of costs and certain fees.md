@@ -92,7 +92,7 @@ For purposes of this section—
 
 #### (iii) Effect of losing on substantially similar issues
 
-&emsp;&emsp;&emsp;In determining for purposes of clause (i) whether the position of the United States was substantially justified, the court shall take into account whether the United States has lost in courts of appeal for other circuits on substantially similar issues.
+&emsp;&emsp;&emsp;In determining for purposes of clause (i) whether the position of the United Stateswas substantially justified, the court shall take into account whether the United States has lost in courts of appeal for other circuits on substantially similar issues.
 
 #### (iv) Applicable published guidance
 
@@ -238,11 +238,11 @@ A prior section 7430 was renumbered section 7437 of this title.
 
 #### Amendments
 
-2000—Subsec. (c)(3). Pub. L. 106–554, §1(a)(7) \[title III, §319(25)(A)\], substituted “Attorneys’ ” for “Attorneys” in heading.
+<b>2000</b>—Subsec. (c)(3). Pub. L. 106–554, §1(a)(7) \[title III, §319(25)(A)\], substituted “Attorneys’ ” for “Attorneys” in heading.
 
 Subsec. (c)(3)(B). Pub. L. 106–554, §1(a)(7) \[title III, §319(25)(B)\], substituted “attorneys’ fees” for “attorneys fees” wherever appearing.
 
-1998—Subsec. (b)(4), (5). Pub. L. 105–206, §6012(h), redesignated par. (5) as (4).
+<b>1998</b>—Subsec. (b)(4), (5). Pub. L. 105–206, §6012(h), redesignated par. (5) as (4).
 
 Subsec. (c)(1)(B)(iii). Pub. L. 105–206, §3101(a), substituted “$125” for “$110” and inserted “the difficulty of the issues presented in the case, or the local availability of tax expertise,” before “justifies a higher rate”.
 
@@ -258,7 +258,7 @@ Subsec. (c)(4)(E). Pub. L. 105–206, §3101(e)(1), added subpar. (E).
 
 Subsec. (g). Pub. L. 105–206, §3101(e)(2), added subsec. (g).
 
-1997—Subsec. (b)(5). Pub. L. 105–34, §1285(b), added par. (5).
+<b>1997</b>—Subsec. (b)(5). Pub. L. 105–34, §1285(b), added par. (5).
 
 Subsec. (c)(4)(D). Pub. L. 105–34, §1453(a), added subpar. (D).
 
@@ -266,7 +266,7 @@ Subsec. (f)(2). Pub. L. 105–34, §1285(c), substituted “the filing of a peti
 
 Subsec. (f)(3). Pub. L. 105–34, §1285(a), added par. (3).
 
-1996—Subsec. (b)(1). Pub. L. 104–168, §703(a), inserted at end “Any failure to agree to an extension of the time for the assessment of any tax shall not be taken into account for purposes of determining whether the prevailing party meets the requirements of the preceding sentence.”
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–168, §703(a), inserted at end “Any failure to agree to an extension of the time for the assessment of any tax shall not be taken into account for purposes of determining whether the prevailing party meets the requirements of the preceding sentence.”
 
 Subsec. (b)(3), (4). Pub. L. 104–168, §704(a), redesignated par. (4) as (3) and struck out former par. (3) which read as follows:
 
@@ -298,13 +298,13 @@ Subsec. (c)(4)(C). Pub. L. 104–168, §701(c)(2), substituted “Any determinat
 
 Pub. L. 104–168, §701(b), redesignated subpar. (B) as (C).
 
-1992—Subsec. (c)(6). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (c)(6). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1988—Pub. L. 100–647, §6239(a), substituted “costs” for “court costs” in section catchline and amended text generally, revising and restating provisions so as to include costs and fees in administrative proceedings.
+<b>1988</b>—Pub. L. 100–647, §6239(a), substituted “costs” for “court costs” in section catchline and amended text generally, revising and restating provisions so as to include costs and fees in administrative proceedings.
 
 Subsec. (c)(2)(A)(iii). Pub. L. 100–647, §1015(i), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “meets the requirements of section 504(b)(1)(B) of title 5, United States Code (as in effect on the date of the enactment of the Tax Reform Act of 1986 and applied by taking into account the commencement of the proceeding described in subsection (a) in lieu of the initiation of the adjudication referred to in such section).”
 
-1986—Subsec. (a). Pub. L. 99–514, §1551(f), inserted “(payable in the case of the Tax Court in the same manner as such an award by a district court)” in concluding provisions.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1551(f), inserted “(payable in the case of the Tax Court in the same manner as such an award by a district court)” in concluding provisions.
 
 Subsec. (b). Pub. L. 99–514, §1551(a), (b), redesignated pars. (2) to (4) as (1) to (3), respectively, added par. (4), and struck out former par. (1), maximum dollar amount, which read as follows: “The amount of reasonable litigation costs which may be awarded under subsection (a) with respect to any prevailing party in any civil proceeding shall not exceed $25,000.”
 
@@ -324,7 +324,7 @@ Subsec. (c)(4). Pub. L. 99–514, §1551(e), added par. (4).
 
 Subsec. (f). Pub. L. 99–514, §1551(g), struck out subsec. (f), termination, which read as follows: “This section shall not apply to any proceeding commenced after December 31, 1985.”
 
-1984—Subsec. (a)(2). Pub. L. 98–369 inserted reference to United States Claims Court.
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–369 inserted reference to United States Claims Court.
 
 #### Effective Date of 1998 Amendment
 
@@ -340,7 +340,7 @@ Section 1453(b) of Pub. L. 105–34 provided that: “The amendment made by this
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 701(a)–(c)(2) of Pub. L. 104–168 applicable in case of proceedings commenced after July30, 1996, see section 701(d) of Pub. L. 104–168, set out as a note under section 6404 of this title.
+Amendment by section 701(a)–(c)(2) of Pub. L. 104–168 applicable in case of proceedings commenced after July 30, 1996, see section 701(d) of Pub. L. 104–168, set out as a note under section 6404 of this title.
 
 Section 702(b) of Pub. L. 104–168 provided that: “The amendment made by this section \[amending this section\] shall apply in the case of proceedings commenced after the date of the enactment of this Act \[July 30, 1996\].”
 

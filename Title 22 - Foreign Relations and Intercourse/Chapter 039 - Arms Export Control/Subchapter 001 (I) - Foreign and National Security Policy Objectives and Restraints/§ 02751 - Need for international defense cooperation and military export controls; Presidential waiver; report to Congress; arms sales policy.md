@@ -20,7 +20,7 @@ It is the sense of the Congress that the aggregate value of defense articles and
 
 > in any fiscal year should not exceed current levels.
 
-It is the sense of the Congress that the President maintain adherence to a policy of restraint in conventional arms transfers and that, in implementing this policy worldwide, a balanced approach should be taken and full regard given to the security interests of the United States in all regions of the world and that particular attention should be paid to controlling the flow of conventional arms to the nations of the developing world. To this end, the President is encouraged to continue discussions with other armssuppliers in order to restrain the flow of conventional arms to less developed countries.
+It is the sense of the Congress that the President maintain adherence to a policy of restraint in conventional arms transfers and that, in implementing this policy worldwide, a balanced approach should be taken and full regard given to the security interests of the United States in all regions of the world and that particular attention should be paid to controlling the flow of conventional arms to the nations of the developing world. To this end, the President is encouraged to continue discussions with other arms suppliers in order to restrain the flow of conventional arms to less developed countries.
 
 (Pub. L. 90–629, ch. 1, §1, Oct. 22, 1968, 82 Stat. 1321; Pub. L. 91–672, §4, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 93–189, §25(1), Dec. 17, 1973, 87 Stat. 729; Pub. L. 94–329, title II, §202, formerly §202(a), June 30, 1976, 90 Stat. 734, renumbered and amended Pub. L. 95–384, §§15(a), 29(c)(1)(A), Sept. 26, 1978, 92 Stat. 739, 747; Pub. L. 97–113, title VII, §734(a)(10), Dec. 29, 1981, 95 Stat. 1560.)
 
@@ -28,7 +28,7 @@ It is the sense of the Congress that the President maintain adherence to a polic
 
 The Arms Control and Disarmament Act, referred to in text, is Pub. L. 87–297, Sept. 26, 1961, 75 Stat. 631, as amended, which is classified generally to chapter 35 (§2551 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2551 of this title, and Tables.
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 The Foreign Assistance Act of 1961, as amended, referred to in text, is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
@@ -42,19 +42,25 @@ Section 45(c) of Pub. L. 90–629 provided that: “References in law to the pro
 
 #### Amendments
 
-1981—Pub. L. 97–113 struck out paragraph which provided that it was the sense of Congress that sales and guaranties under sections 2761, 2762, 2763, and 2764 of this title not be approved where they would have had the effect of arming military dictators who were denying the growth of fundamental rights or social progress to their own people but allowing the President to waive this limitation when he determined it would be important to the security of the United States, and promptly so reported to the Speaker of the House of Representatives and the Committee on Foreign Relations in the Senate.
+<b>1981</b>—Pub. L. 97–113 struck out paragraph which provided that it was the sense of Congress that sales and guaranties under sections 2761, 2762, 2763, and 2764 of this title not be approved where they would have had the effect of arming military dictators who were denying the growth of fundamental rights or social progress to their own people but allowing the President to waive this limitation when he determined it would be important to the security of the United States, and promptly so reported to the Speaker of the House of Representatives and the Committee on Foreign Relations in the Senate.
 
-1978—Pub. L. 95–384, §15(a), inserted paragraph relating to adherence to a policy of restraint in conventional arms transfer.
+<b>1978</b>—Pub. L. 95–384, §15(a), inserted paragraph relating to adherence to a policy of restraint in conventional arms transfer.
 
-1976—Pub. L. 94–329 substituted in last paragraph provision relating to a new statement of policy whereby the United States shall exert leadership in the reduction of international trade in arms, and in that regard, the President to initiate discussions and actively work with other nations with a view towards control of international trade in arms, for provisions relating to a reduction in the role of the United States in furnishing of defense articles and defense services to foreign countries and international organizations by decreasing sales, credit sales and guarantees of such articles and services.
+<b>1976</b>—Pub. L. 94–329 substituted in last paragraph provision relating to a new statement of policy whereby the United States shall exert leadership in the reduction of international trade in arms, and in that regard, the President to initiate discussions and actively work with other nations with a view towards control of international trade in arms, for provisions relating to a reduction in the role of the United States in furnishing of defense articles and defense services to foreign countries and international organizations by decreasing sales, credit sales and guarantees of such articles and services.
 
-1973—Pub. L. 93–189 inserted last paragraph relating to a reduction by the United States in the furnishing of defense articles and defense services to foreign countries.
+<b>1973</b>—Pub. L. 93–189 inserted last paragraph relating to a reduction by the United States in the furnishing of defense articles and defense services to foreign countries.
 
-1971—Pub. L. 91–672 substituted “denying the growth of fundamental rights or social progress” for “denying social progress” in last par.
+<b>1971</b>—Pub. L. 91–672 substituted “denying the growth of fundamental rights or social progress” for “denying social progress” in last par.
 
 #### Effective Date
 
 Section 41 of Pub. L. 90–629 provided that: “This Act \[enacting this chapter, amending sections 2344, 2382, 2392, 2394, and 2403 of this title, repealing sections 2341 to 2343, 2345, and 2399a of this title, and enacting provisions set out as notes under this section and section 2341 of this title\] shall take effect on July 1, 1968.”
+
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–266, §1, Oct. 8, 2010, 124 Stat. 2797, provided that: “This Act \[amending sections 2321h, 2753, 2755, 2761, 2765, 2776, 2778, 2779, 2779a, 2796a, and 2796b of this title and enacting provisions set out as notes under this section and section 2778 of this title\] may be cited as the ‘Security Cooperation Act of 2010’.”
+
+Pub. L. 111–266, title I, §101, Oct. 8, 2010, 124 Stat. 2797, provided that: “This title \[amending sections 2753, 2755, 2765, 2776, 2778, 2779, and 2779a of this title and enacting provisions set out as notes under section 2778 of this title\] may be cited as the ‘Defense Trade Cooperation Treaties Implementation Act of 2010’.”
 
 #### Short Title of 1999 Amendment
 
@@ -66,7 +72,7 @@ Pub. L. 105–194, §1, July 14, 1998, 112 Stat. 627, provided that: “This Act
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–228, §1, Dec. 12, 1991, 105 Stat. 1691, provided that: “This Act \[enacting sections 2595b–1 and 2799 to 2799d of this title, amending sections 2581, 2589, 2595, and 2595c of this title, and enacting provisions set out as notes under section 2551 of this title\] may be cited as the ‘Conventional Forces in Europe Treaty Implementation Act of 1991’.”
+Pub. L. 102–228, §1, Dec. 12, 1991, 105 Stat. 1691, provided that: “This Act \[enacting sections 2595b–1 and 2799 to 2799d of this title, amending sections 2581, 2589, 2595, and 2595c of this title, and enacting provisions setout as notes under section 2551 of this title\] may be cited as the ‘Conventional Forces in Europe Treaty Implementation Act of 1991’.”
 
 #### Short Title
 
@@ -448,7 +454,7 @@ Appropriate congressional committees.—The term ‘appropriate congressional co
 
 &emsp;&emsp;“(B) any other surface-to-air missile system designed to be operated and fired by more than one individual acting as a crew and portable by several individuals.”
 
-\[Functions of President under subsecs. (a)(4)(A), (c)(2) of section 4026 of Pub. L. 108–458, set out above, assigned to Secretary of State by section 1 of Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 48633, set out as a note under section 301 of title 3, The President.\]
+\[Functions of President under subsecs. (a)(4)(A), (c)(2) of section 4026 of Pub. L. 108–458, set out above, assigned to Secretary of State by section 1 of Memorandum of President of the United States, Apr. 21, 2005, 70F.R. 48633, set out as a note under section 301 of title 3, The President.\]
 
 #### Bilateral Exchanges and Trade in Defense Articles and Defense Services Between the United States and the United Kingdom and Australia
 
@@ -472,7 +478,7 @@ Pub. L. 104–164, title I, §154, July 21, 1996, 110 Stat. 1440, provided that:
 
 #### Reports on Counterproliferation Activities and Programs
 
-Pub. L. 103–337, div. A, title XV, §1503, Oct. 5, 1994, 108 Stat. 2916; Pub. L. 104–201, div. A, title XIII, §1309(d),Sept. 23, 1996, 110 Stat. 2710; Pub. L. 106–65, div. A, title XV, §1504(c), Oct. 5, 1999, 113 Stat. 808; Pub. L. 107–314, div. A, title XII, §1208(b), (c), Dec. 2, 2002, 116 Stat. 2668; Pub. L. 110–181, div. A, title XII, §1256(d), Jan. 28, 2008, 122 Stat. 404, provided that:
+Pub. L. 103–337, div. A, title XV, §1503, Oct. 5, 1994, 108 Stat. 2916; Pub. L. 104–201, div. A, title XIII, §1309(d), Sept. 23, 1996, 110 Stat. 2710; Pub. L. 106–65, div. A, title XV, §1504(c), Oct. 5, 1999, 113 Stat. 808; Pub. L. 107–314, div. A, title XII, §1208(b), (c), Dec. 2, 2002, 116 Stat. 2668; Pub. L. 110–181, div. A, title XII, §1256(d), Jan. 28, 2008, 122 Stat. 404, provided that:
 
 “(a)
 
@@ -560,7 +566,7 @@ Effective Date.—This section shall take effect 1 year after the date of enactm
 
 #### Counterproliferation Policy and Programs of United States
 
-Pub. L. 103–160, div. A, title XVI, §§1603, 1605, 1607, Nov. 30, 1993, 107 Stat. 1843, 1845, 1847, as amended by Pub. L. 103–337, div. A, title XV, §§1502, 1505(a), (b), Oct. 5, 1994, 108 Stat. 2914, 2919; Pub. L. 104–106, div. A, title XV, §1504(b), Feb. 10, 1996, 110 Stat. 513; Pub. L. 104–201, div. A, title XIII, §1309(a)–(c), Sept. 23, 1996, 110 Stat. 2710; Pub. L. 106–65, div. A, title XV, §1504(a), (b), Oct. 5, 1999, 113 Stat. 808; Pub. L. 107–314, div. A, title XII, §1208(a), (d), Dec. 2, 2002, 116 Stat. 2668; Pub. L. 109–163, div. A, title X, §1056(f), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 110–181, div. A, title XII, §1256(a)–(c), Jan. 28, 2008, 122 Stat. 403, provided that:
+Pub. L. 103–160, div. A, title XVI, §§1603, 1605, 1607, Nov. 30, 1993, 107 Stat. 1843, 1845, 1847, as amended by Pub. L. 103–337, div. A, title XV, §§1502, 1505(a), (b), Oct. 5, 1994, 108 Stat. 2914, 2919; Pub. L. 104–106, div. A, title XV, §1504(b), Feb. 10, 1996, 110 Stat. 513; Pub. L. 104–201, div. A, title XIII, §1309(a)–(c), Sept. 23, 1996, 110 Stat. 2710; Pub. L. 106–65, div. A, title XV, §1504(a), (b), Oct. 5, 1999, 113 Stat. 808; Pub. L. 107–314, div. A, title XII, §1208(a), (d), Dec. 2, 2002, 116 Stat. 2668; Pub. L. 109–163, div. A, title X, §1056(f), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 110–181, div. A, title XII, §1256(a)–(c), Jan. 28, 2008, 122 Stat. 403; Pub. L. 111–383, div. A, title IX, §901(a)(2), Jan. 7, 2011, 124 Stat. 4317, provided that:
 
 #### “SEC. 1603. STUDIES RELATING TO UNITED STATES COUNTERPROLIFERATION POLICY.
 
@@ -620,7 +626,7 @@ Establishment.—(1) There is hereby established a Counterproliferation Program 
 
 “(4) The Secretary of Defense may delegate to the Under Secretary of Defense for Acquisition, Technology, and Logistics the performance of the duties of the Chairman of the committee. The Secretary of Energy may delegate to the Under Secretary of Energy responsible for national security programs of the Department of Energy the performance of the duties of the Vice Chairman of the committee.
 
-“(5) The Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs shall serve as executive secretary to the committee, except that during any period during which that position is vacant the Assistant Secretary of Defense for Strategy and Threat Reduction shall serve as the executive secretary.
+“(5) The Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs shall serve as executive secretary to the committee, except that during any period during which that position is vacant the Assistant Secretary of Defense for Strategy and Threat Reduction shall serve as the executive secretary.
 
 “(b)
 
@@ -646,7 +652,7 @@ Purposes of the Committee.—The purposes of the committee are as follows:
 
 Duties.—The committee shall—
 
-&emsp;“(1) identify and review existing and proposed capabilities and technologies for support of United States nonproliferation policy and counterproliferation policy with regard to—
+&emsp;“(1) identify and review existing and proposed capabilities and technologies for support of United Statesnonproliferation policy and counterproliferation policy with regard to—
 
 &emsp;&emsp;“(A) intelligence;
 
@@ -794,7 +800,7 @@ By virtue of the authority vested in me by the Constitution and statutes of the 
 
 Section 1. <i>Delegation of Functions</i>. The following functions conferred upon the President by the Arms Export Control Act (22 U.S.C. 2751 et seq.), hereinafter referred to as the Act, and related legislation, are delegated as follows:
 
-(a) Those under Section 3 of the Act \[22 U.S.C. 2753\], with the exception of subsections (a)(1), (b), (c)(3), (c)(4), and (f) to the Secretary of State: <i>Provided</i>, That the Secretary of State, in the implementation of the functions delegated to him under Sections 3(a) and (d) of the Act, is authorized to find, in the case of a proposed transfer of a defense article or related training or other defense service by a foreign country or international organization not otherwise eligible under Section 3(a)(1) of the Act, whether the proposed transferwill strengthen the security of the United States and promote world peace.
+(a) Those under Section 3 of the Act \[22 U.S.C. 2753\], with the exception of subsections (a)(1), (b), (c)(3), (c)(4), and (f) to the Secretary of State: <i>Provided</i>, That the Secretary of State, in the implementation of the functions delegated to him under Sections 3(a) and (d) of the Act, is authorized to find, in the case of a proposed transfer of a defense article or related training or other defense service by a foreign country or international organization not otherwise eligible under Section 3(a)(1) of the Act, whether the proposed transfer will strengthen the security of the United States and promote world peace.
 
 (b) Those under Section 5 \[22 U.S.C. 2755\] to the Secretary of State.
 

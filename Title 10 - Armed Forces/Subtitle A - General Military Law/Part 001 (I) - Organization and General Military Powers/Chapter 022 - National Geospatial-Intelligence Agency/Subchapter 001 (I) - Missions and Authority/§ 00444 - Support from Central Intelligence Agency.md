@@ -38,11 +38,11 @@ The Central Intelligence Agency Act of 1949, referred to in subsec. (e)(2)(B), i
 
 #### Amendments
 
-2009—Pub. L. 111–84 repealed Pub. L. 110–417, §932(c). See 2008 Amendment note below.
+<b>2009</b>—Pub. L. 111–84 repealed Pub. L. 110–417, §932(c). See 2008 Amendment note below.
 
-2008—Pub. L. 110–181 and Pub. L. 110–417, §932(c), amended section identically, substituting “Director of the Central Intelligence Agency” for “Director of Central Intelligence” wherever appearing. Pub. L. 110–417, §932(c), was repealed by Pub. L. 111–84.
+<b>2008</b>—Pub. L. 110–181 and Pub. L. 110–417, §932(c), amended section identically, substituting “Director of the Central Intelligence Agency” for “Director of Central Intelligence” wherever appearing. Pub. L. 110–417, §932(c), was repealed by Pub. L. 111–84.
 
-2003—Subsecs. (a), (b)(1), (2), (c), (e)(1), (2)(B). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” wherever appearing.
+<b>2003</b>—Subsecs. (a), (b)(1), (2), (c), (e)(1), (2)(B). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” wherever appearing.
 
 #### Effective Date of 2009 Amendment
 

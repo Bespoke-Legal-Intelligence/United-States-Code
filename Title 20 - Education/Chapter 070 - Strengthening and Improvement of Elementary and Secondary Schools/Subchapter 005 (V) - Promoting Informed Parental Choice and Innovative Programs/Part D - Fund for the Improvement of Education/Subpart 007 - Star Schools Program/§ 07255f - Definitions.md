@@ -36,7 +36,7 @@ In this subpart:
 
 #### (3) Instructional programming
 
-&emsp;The term “instructional programming” means courses of instruction and trainingcourses for elementary and secondary students, teachers, and others, and materials for use in such instruction and training that have been prepared in audio and visual form on tape, disc, film, or live, and presented by means of telecommunications devices.
+&emsp;The term “instructional programming” means courses of instruction and training courses for elementary and secondary students, teachers, and others, and materials for use in such instruction and training that have been prepared in audio and visual form on tape, disc, film, or live, and presented by means of telecommunications devices.
 
 #### (4) Public broadcasting entity
 

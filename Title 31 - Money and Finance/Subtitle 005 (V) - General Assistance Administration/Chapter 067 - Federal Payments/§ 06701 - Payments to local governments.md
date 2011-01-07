@@ -114,7 +114,7 @@ A prior section 6701, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1010; Pub. L. 9
 
 #### Amendments
 
-1997—Subsec. (f)(1)(C). Pub. L. 105–135, §604(e)(2)(A), added subpar. (C).
+<b>1997</b>—Subsec. (f)(1)(C). Pub. L. 105–135, §604(e)(2)(A), added subpar. (C).
 
 Subsec. (f)(3)(C). Pub. L. 105–135, §604(e)(2)(B), added subpar. (C).
 
@@ -124,7 +124,7 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 #### Regulations
 
-Section 31001(b) of Pub. L. 103–322 provided that: “Within 90 days of the date of enactment of this Act \[Sept. 13, 1994\] the Secretary shall issue regulations, which may be interim regulations, to implement subsection (a) \[enacting this chapter\], modifying the regulations for carrying into effect the Revenue Sharing Act \[former chapter 67 of this title\] that were in effect as of July 1, 1987, and that were published in 31 C.F.R.part 51. The Secretary need not hold a public hearing before issuing these regulations.”
+Section 31001(b) of Pub. L. 103–322 provided that: “Within 90 days of the date of enactment of this Act \[Sept. 13, 1994\] the Secretary shall issue regulations, which may be interim regulations, to implement subsection (a) \[enacting this chapter\], modifying the regulations for carrying into effect the Revenue Sharing Act \[former chapter 67 of this title\] that were in effect as of July 1, 1987, and that were published in 31 C.F.R. part 51. The Secretary need not hold a public hearing before issuing these regulations.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “632(p)”.</i>
 

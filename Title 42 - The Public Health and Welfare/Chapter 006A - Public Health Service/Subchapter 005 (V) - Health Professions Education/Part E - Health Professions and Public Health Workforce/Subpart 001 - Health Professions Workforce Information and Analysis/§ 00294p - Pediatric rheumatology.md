@@ -64,5 +64,5 @@ Section 294aa, act July 1, 1944, ch. 373, title VII, §759, as added Oct. 12, 19
 
 Section 294bb, act July 1, 1944, ch. 373, title VII, §760, as added Nov. 6, 1990, Pub. L. 101–527, §6, 104 Stat. 2323, related to grants and other assistance for students from disadvantaged backgrounds. See section 293a of this title.
 
-Section 294cc, act July 1, 1944, ch. 373, title VII, §761, as added Nov. 6, 1990, Pub. L. 101–527, §6, 104 Stat. 2325, related to a loan repayment program regarding service on faculties of certain health professions schools. See section 293b of this title.
+Section 294cc, act July 1, 1944, ch. 373, title VII, §761, as added Nov. 6, 1990, Pub. L. 101–527, §6, 104 Stat. 2325,related to a loan repayment program regarding service on faculties of certain health professions schools. See section 293b of this title.
 

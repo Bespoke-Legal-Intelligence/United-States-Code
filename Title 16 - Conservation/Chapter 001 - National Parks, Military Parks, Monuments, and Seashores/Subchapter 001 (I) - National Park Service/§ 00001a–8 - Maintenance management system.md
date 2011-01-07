@@ -24,7 +24,7 @@ Beginning in fiscal year 1985, the National Park Service shall implement a maint
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–333 struck out subsec. (b) which read as follows:
+<b>1996</b>—Subsec. (b). Pub. L. 104–333 struck out subsec. (b) which read as follows:
 
 “The National Park Service shall transmit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the United States Senate, at the end of each fiscal year, a copy of a report summarizing the status of implementation of a maintenance management system until such a system has been implemented.
 
@@ -38,5 +38,5 @@ Beginning in fiscal year 1985, the National Park Service shall implement a maint
 
 &emsp;“(4) estimation of the total value of benefits achieved through greater management efficiency.”
 
-1994—Subsec. (b). Pub. L. 103–437 in introductory provisions substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–437 in introductory provisions substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 

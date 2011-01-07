@@ -50,7 +50,9 @@ Without altering in any way the meaning of the following terms as used in any ot
 
 This Act, referred to in the opening par. and in subsec. (k), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
-The general land laws, referred to in subsec. (j), are classified generally to this title.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (j), is act June 30, 1949, ch. 288, 63 Stat. 377, which was substantially repealed and restated in chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C of subtitle I of Title 41, Public Contracts, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, which Act enacted Title 40, and Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855, which Act enacted Title 41. For complete classification of this Act to the Code, see Short Title of 1949 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Titles 40 and 41, see Disposition Tables preceding section 101 of Title 40 and section 101 of Title 41.
 
-The Federal Property and Administrative Services Act, referred to in subsec. (j), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended, known as the Federal Property and Administrative Services Act of 1949, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works. Section 3(d) of the Act (former 40 U.S.C. 472(d)), which provided the definition of “property”, was repealed and reenacted as section 102(9) of Title 40.
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by closing quotation marks.</i>
 

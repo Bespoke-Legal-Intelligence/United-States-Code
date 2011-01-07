@@ -10,7 +10,7 @@ For purposes of this chapter—
 
 &emsp;(d) “lists of actual voters” shall mean the official lists of persons actually voting in either the most recent State or the most recent Federal general election;
 
-&emsp;(e) “division” shall mean: (1) one or more statutory divisions of a judicial district; or (2) in statutory divisions that contain more than one place of holding court, or in judicial districts where there are no statutory divisions, such counties, parishes, or similar political subdivisions surrounding the places where court is held as the district court plan shall determine: <i>Provided</i>, That each county, parish, or similar political subdivision shall be included in some such division;
+&emsp;(e) “division” shall mean: (1) one or more statutory divisions of a judicial district; or (2) in statutory divisions that contain more than one place of holding court, or in judicial districts where there are no statutory divisions, such counties, parishes, or similar political subdivisions surrounding the places where court is held as the district court plan shalldetermine: <i>Provided</i>, That each county, parish, or similar political subdivision shall be included in some such division;
 
 &emsp;(f) “district court of the United States”, “district court”, and “court” shall mean any district court established by chapter 5 of this title, and any court which is created by Act of Congress in a territory and is invested with any jurisdiction of a district court established by chapter 5 of this title;
 
@@ -20,7 +20,7 @@ For purposes of this chapter—
 
 &emsp;(i) “public officer” shall mean a person who is either elected to public office or who is directly appointed by a person elected to public office;
 
-&emsp;(j) “undue hardship or extreme inconvenience”, as a basis for excuse from immediate jury service under section 1866(c)(1) of this chapter, shall mean great distance, either in miles or traveltime, from the place of holding court, grave illness in the family or any other emergency which outweighs in immediacy and urgency the obligation to serve as a juror when summoned, or any other factor which the court determines to constitute an undue hardship or to create an extreme inconvenience to the juror; and in addition, in situations where it is anticipated that a trial or grand jury proceeding may require more thanthirty days of service, the court may consider, as a further basis for temporary excuse, severe economic hardship to an employer which would result from the absence of a key employee during the period of such service; and
+&emsp;(j) “undue hardship or extreme inconvenience”, as a basis for excuse from immediate jury service under section 1866(c)(1) of this chapter, shall mean great distance, either in miles or traveltime, from the place of holding court, grave illness in the family or any other emergency which outweighs in immediacy and urgency the obligation to serve as a juror when summoned, or any other factor which the court determines to constitute an undue hardship or to create an extreme inconvenience to the juror; and in addition, in situations where it is anticipated that a trial or grand jury proceeding may require more than thirty days of service, the court may consider, as a further basis for temporary excuse, severe economic hardship to an employer which would result from the absence of a key employee during the period of such service; and
 
 &emsp;(k) “jury summons” shall mean a summons issued by a clerk of court, jury commission, or their duly designated deputies, containing either a preprinted or stamped seal of court, and containing the name of the issuing clerk imprinted in preprinted, type, or facsimile manner on the summons or the envelopes transmitting the summons.
 
@@ -36,27 +36,27 @@ The Voting Rights Act of 1965, referred to in subsec. (c), is Pub. L. 89–110, 
 
 #### Amendments
 
-2008—Subsecs. (j) to (<i>l</i>). Pub. L. 110–406 inserted “and” at end of subsec. (j), redesignated subsec. (<i>l</i>) as (k), and struck out former subsec. (k) which defined “publicly draw”.
+<b>2008</b>—Subsecs. (j) to (<i>l</i>). Pub. L. 110–406 inserted “and” at end of subsec. (j), redesignated subsec. (<i>l</i>) as (k), and struck out former subsec. (k) which defined “publicly draw”.
 
-1988—Subsec. (a). Pub. L. 100–702, §802(a), amended subsec. (a) generally, substituting “, any authorized deputy clerk, and any other person authorized by the court to assist the clerk in the performance of functions under this chapter” for “or any authorized deputy clerk”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–702, §802(a), amended subsec. (a) generally, substituting “, any authorized deputy clerk, and any other person authorized by the court to assist the clerk in the performance of functions under this chapter” for “or any authorized deputy clerk”.
 
 Subsec. (f). Pub. L. 100–702, §804, amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “ ‘district court of the United States’, ‘district court’, and ‘court’ shall mean courts constituted under chapter 5 of title 28, United States Code, section 22 of the Organic Act of Guam, as amended (64 Stat. 389; 48 U.S.C. 1424), section 21 of the Revised Organic Act of the Virgin Islands (68 Stat. 506; 48 U.S.C. 1611), and section 1 of title 3, Canal Zone Code;;”.
 
-1986—Subsec. (f). Pub. L. 99–650 struck out “except that for purposes of sections 1861, 1862, 1866(c), 1866(d), and 1867 of this chapter such terms shall include the Superior Court of the District of Columbia” after “Canal Zone Code;”.
+<b>1986</b>—Subsec. (f). Pub. L. 99–650 struck out “except that for purposes of sections 1861, 1862, 1866(c), 1866(d), and 1867 of this chapter such terms shall include the Superior Court of the District of Columbia” after “Canal Zone Code;”.
 
-1978—Subsec. (f). Pub. L. 95–598 directed the amendment of subsec. (f) by inserting “chapter 6 of title 28, United States Code,” after “chapter 5 of title 28, United States Code,”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Subsec. (f). Pub. L. 95–598 directed the amendment of subsec. (f) by inserting “chapter 6 of title 28, United States Code,” after “chapter 5 of title 28, United States Code,”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 Subsec. (h). Pub. L. 95–572, §3(b), struck out “by pardon or amnesty” after “civil rights restored”.
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 95–572, §4, added subsecs. (j) to (<i>l</i>).
 
-1972—Subsec. (h). Pub. L. 92–437 added race and occupation to the particulars to be elicited on the juror qualification form, in provisions distinguishing between information to be requested and information to be required, struck out “race and occupation of a potential juror”, and in information to be contained in the form, struck out “race, color” and “occupation” from the particulars, and required additional material to be contained in the form that information concerning race is required solely to enforce nondiscrimination in jury selection and that it has no bearing on an individual's qualification for jury service.
+<b>1972</b>—Subsec. (h). Pub. L. 92–437 added race and occupation to the particulars to be elicited on the juror qualification form, in provisions distinguishing between information to be requested and information to be required, struck out “race and occupation of a potential juror”, and in information to be contained in the form, struck out “race, color” and “occupation” from the particulars, and required additional material to be contained in the form that information concerning race is required solely to enforce nondiscrimination in jury selection and that it has no bearing on an individual's qualification for jury service.
 
-1970—Subsec. (f). Pub. L. 91–358 substituted reference to the Superior Court of the District of Columbia for references to the District of Columbia Court of General Sessions and the Juvenile Court of the District of Columbia.
+<b>1970</b>—Subsec. (f). Pub. L. 91–358 substituted reference to the Superior Court of the District of Columbia for references to the District of Columbia Court of General Sessions and the Juvenile Court of the District of Columbia.
 
-1968—Pub. L. 90–274 substituted provisions defining “clerk”, “clerk of the court”, “chief judge”, “voter registration lists”, “list of actual voters”, “division”, “district court”, “jury wheel”, “juror qualification form”, and “public officer” for provisions allowing the challenge of a petit juror who had been summoned and attended court as a petit juror at any session held within one year prior to the challenge.
+<b>1968</b>—Pub. L. 90–274 substituted provisions defining “clerk”, “clerk of the court”, “chief judge”, “voter registration lists”, “list of actual voters”, “division”, “district court”, “jury wheel”, “juror qualification form”, and “public officer” for provisions allowing the challenge of a petit juror who had been summoned and attended court as a petit juror at any session held within one year prior to the challenge.
 
-1963—Pub. L. 88–139 substituted “session” for “term”.
+<b>1963</b>—Pub. L. 88–139 substituted “session” for “term”.
 
 #### Effective Date of 1986 Amendment
 

@@ -44,7 +44,7 @@ Limitation on Statutory Construction.—
 
 &emsp;(1)
 
-Rail passenger carriers.—Nothing in this section may be construed as limiting the actions that a rail passenger carrier may take, or the obligations that a rail passenger carrier may have, in providing assistance to the families of passengers involved in a rail passenger accident.
+Rail passenger carriers.—Nothing in this section may be construed as limiting the actions that a rail passenger carrier may take, or the obligations that a rail passenger carriermay have, in providing assistance to the families of passengers involved in a rail passenger accident.
 
 &emsp;(2)
 

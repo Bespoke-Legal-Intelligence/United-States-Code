@@ -1,6 +1,6 @@
 ### §121. Limitations on exclusive rights: Reproduction for blind or other people with disabilities
 
-(a) Notwithstanding the provisions of section 106, it is not an infringement of copyright for an authorized entity to reproduce or to distribute copies or phonorecords of a previously published, nondramatic literary work if such copies or phonorecords are reproduced or distributed in specialized formats exclusively for use by blind or other persons with disabilities.
+(a) Notwithstanding the provisions of section 106, it is not an infringement of copyright for anauthorized entity to reproduce or to distribute copies or phonorecords of a previously published, nondramatic literary work if such copies or phonorecords are reproduced or distributed in specialized formats exclusively for use by blind or other persons with disabilities.
 
 (b)(1) Copies or phonorecords to which this section applies shall—
 
@@ -44,13 +44,13 @@ The Act approved March 3, 1931, referred to in subsec. (d)(2), is act Mar. 3, 19
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–446, §306(2), added subsec. (c). Former subsec. (c) redesignated (d).
+<b>2004</b>—Subsec. (c). Pub. L. 108–446, §306(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 108–446, §306(1), redesignated subsec. (c) as (d).
 
 Subsec. (d)(3), (4). Pub. L. 108–446, §306(3), added pars. (3) and (4) and struck out former par. (3) which read as follows: “ ‘specialized formats’ means braille, audio, or digital text which is exclusively for use by blind or other persons with disabilities.”
 
-2002—Pub. L. 107–273 substituted “Reproduction” for “reproduction” in section catchline.
+<b>2002</b>—Pub. L. 107–273 substituted “Reproduction” for “reproduction” in section catchline.
 
-2000—Subsec. (a). Pub. L. 106–379 substituted “section 106” for “sections 106 and 710”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–379 substituted “section 106” for “sections 106 and 710”.
 

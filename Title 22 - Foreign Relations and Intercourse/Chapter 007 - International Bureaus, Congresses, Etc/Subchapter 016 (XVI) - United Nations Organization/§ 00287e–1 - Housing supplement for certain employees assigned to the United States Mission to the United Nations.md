@@ -20,15 +20,15 @@ The Secretary of State may, under such regulations as he shall prescribe, and no
 
 #### Amendments
 
-2000—Par. (2). Pub. L. 106–309 substituted “30 foreign service employees” for “18 foreign service employees”.
+<b>2000</b>—Par. (2). Pub. L. 106–309 substituted “30 foreign service employees” for “18 foreign service employees”.
 
-1988—Pub. L. 100–459, §304(b)(1), (3), substituted reference to Secretary of State for reference to President in introductory provisions and struck out last sentenceproviding that not more than fifty employees, including not more than five employees of the United Stated Information Agency, could receive an allowance under par. (1) of this section at any one time.
+<b>1988</b>—Pub. L. 100–459, §304(b)(1), (3), substituted reference to Secretary of State for reference to President in introductory provisions and struck out last sentence providing that not more than fifty employees, including not more than five employees of the United Stated Information Agency, could receive an allowance under par. (1) of this section at any one time.
 
 Par. (1). Pub. L. 100–459, §304(b)(1), (3), added par. (1) and struck out former par. (1) which read as follows: “grant any employee of the staff of the United States Mission to the United Nations designated by the Secretary of State, and any employee of the United States Information Agency designated by the Director of that Agency, who is required because of important representational responsibilities to live in the extraordinarily high-rent area immediately surrounding the headquarters of the United Nations in New York, New York, an allowance to compensate for the portion of expenses necessarily incurred by the employee for quarters and utilities which exceed the average of such expenses necessarily incurred by the employee for quarters and utilities which exceed the average of such expenses incurred by typical, permanent residents of the Metropolitan New York, New York, area with comparable salary and family size who are not compelled by reason of their employment to live in such high-rent area; and”.
 
 Pars. (2) to (4). Pub. L. 100–459, §304(b)(2), (3), added par. (2), redesignated former par. (2) as (3) and substituted “Secretary” for “President”, and added par. (4).
 
-1983—Pub. L. 98–164, §215(2), inserted limitation of five United States Information Agency employees, and substituted “fifty” for “forty-five”.
+<b>1983</b>—Pub. L. 98–164, §215(2), inserted limitation of five United States Information Agency employees, and substituted “fifty” for “forty-five”.
 
 Par. (1). Pub. L. 98–164, §215(1), inserted provisions relating to applicability to United States Information Agency employees.
 
@@ -42,7 +42,7 @@ Section 304(c) of Pub. L. 100–459 provided that:
 
 #### Delegation of Functions
 
-Authority of President under this section delegated to Secretary of State, see section 4(b) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, as amended by Ex. Ord. No. 11779, Apr. 22, 1974, 39 F.R. 14185, set out as a note under section 301 of Title 3, The President.
+Authority of President under this section delegated to Secretary of State, see section 4(b) of Ex. Ord. No.11609, July 22, 1971, 36 F.R. 13747, as amended by Ex. Ord. No. 11779, Apr. 22, 1974, 39 F.R. 14185, set out as a note under section 301 of Title 3, The President.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

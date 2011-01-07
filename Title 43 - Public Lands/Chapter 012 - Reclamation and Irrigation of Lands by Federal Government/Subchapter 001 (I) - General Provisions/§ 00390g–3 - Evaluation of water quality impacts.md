@@ -6,5 +6,5 @@ The Secretary, acting through the Bureau, and the Administrator of the Environme
 
 #### Amendments
 
-1992—Pub. L. 102–575 substituted “summary report” for “final report”.
+<b>1992</b>—Pub. L. 102–575 substituted “summary report” for “final report”.
 

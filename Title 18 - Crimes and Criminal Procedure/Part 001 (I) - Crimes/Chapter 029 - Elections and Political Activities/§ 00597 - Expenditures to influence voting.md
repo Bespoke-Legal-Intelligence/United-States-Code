@@ -24,7 +24,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1996—Pub. L. 104–294 substituted “shall be fined under this title” for “shall be fined not more than $10,000” in last par.
+<b>1996</b>—Pub. L. 104–294 substituted “shall be fined under this title” for “shall be fined not more than $10,000” in last par.
 
-1994—Pub. L. 103–322 substituted “shall be fined under this title” for “shall be fined not more than $1,000” in last par.
+<b>1994</b>—Pub. L. 103–322 substituted “shall be fined under this title” for “shall be fined not more than $1,000” in last par.
 

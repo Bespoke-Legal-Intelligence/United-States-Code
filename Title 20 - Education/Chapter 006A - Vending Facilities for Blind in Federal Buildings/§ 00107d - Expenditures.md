@@ -18,7 +18,7 @@ Pursuant to an order of the United States District Court for the District of Col
 
 #### Amendments
 
-1974—Subsec. (b). Pub. L. 93–516, §208(d), struck out requirement that at least 50 percent of the additional personnel be blind persons. An identical amendment was made by Pub. L. 93–651. See Codification note above.
+<b>1974</b>—Subsec. (b). Pub. L. 93–516, §208(d), struck out requirement that at least 50 percent of the additional personnel be blind persons. An identical amendment was made by Pub. L. 93–651. See Codification note above.
 
 #### Transfer of Functions
 

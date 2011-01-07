@@ -12,7 +12,7 @@ Any—
 
 #### Amendments
 
-1996—Pub. L. 104–295 amended directory language of Pub. L. 103–182. See 1993 Amendment note below.
+<b>1996</b>—Pub. L. 104–295 amended directory language of Pub. L. 103–182. See 1993 Amendment note below.
 
-1993—Pub. L. 103–182, as amended by Pub. L. 104–295, substituted “Trade Representative” for “Special Representative” wherever appearing.
+<b>1993</b>—Pub. L. 103–182, as amended by Pub. L. 104–295, substituted “Trade Representative” for “Special Representative” wherever appearing.
 

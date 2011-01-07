@@ -18,9 +18,9 @@ Provisions similar to those comprising this section were contained in former sec
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 1512 of this title as this section and substituted “3108(b)” for “1508(b)”.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1512 of this title as this section and substituted “3108(b)” for “1508(b)”.
 
-1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
 #### Effective Date; Veterans Pursuing Program of Vocational Rehabilitation Under This Chapter
 

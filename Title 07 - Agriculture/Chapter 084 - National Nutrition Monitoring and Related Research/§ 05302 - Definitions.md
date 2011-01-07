@@ -6,7 +6,7 @@ As used in this chapter—
 
 &emsp;(2) the term “coordinated program” means the National Nutrition Monitoring and Related Research Program established by section 5311(a) of this title;
 
-&emsp;(3) the terms “Interagency Board for Nutrition Monitoring and Related Research” and “Board” mean the Federal coordinating body established by section 5311(c) of this title;
+&emsp;(3) the terms “Interagency Board for Nutrition Monitoring and Related Research” and“Board” mean the Federal coordinating body established by section 5311(c) of this title;
 
 &emsp;(4) the term “Joint Implementation Plan for a Comprehensive National Nutrition Monitoring System” means the plan of that title dated August 18, 1981 and submitted by the Department of Agriculture and the Department of Health and Human Services under section 3178 of this title;
 

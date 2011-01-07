@@ -16,7 +16,7 @@
 
 &emsp;(ii) funds are available and adequate for payment of the costs of such contract for the first fiscal year; and
 
-&emsp;(iii) such contract is governed by part 17.1 of the Federal Acquisition Regulation promulgated under section 421 of title 41 or the applicable rules promulgated under this subchapter.
+&emsp;(iii) such contract is governed by part 17.1 of the Federal Acquisition Regulation promulgated under section 1303 of title 41 or the applicable rules promulgated under this subchapter.
 
 (E)
 
@@ -48,7 +48,7 @@ Modification of existing contracts.—Not later than 18 months after December 19
 
 #### (b) Implementation
 
-(1)(A) The Secretary, with the concurrence of the Federal Acquisition Regulatory Council established under section 421(a) of title 41, not later than 180 days after October 24, 1992, shall, by rule, establish appropriate procedures and methods for use by Federal agencies to select, monitor, and terminate contracts with energy service contractors in accordance with laws governing Federal procurement that will achieve the intent of this section in a cost-effective manner. In developing such procedures and methods, the Secretary, with the concurrence of the Federal Acquisition Regulatory Council, shall determine which existing regulations are inconsistent with the intent of this section and shall formulate substitute regulations consistent with laws governing Federal procurement.
+(1)(A) The Secretary, with the concurrence of the Federal Acquisition Regulatory Council established under section 1302(a) of title 41, not later than 180 days after October 24, 1992, shall, by rule, establish appropriate procedures and methods for use by Federal agencies to select, monitor, and terminate contracts with energy service contractors in accordance with laws governing Federal procurement that will achieve the intent of this section in a cost-effective manner. In developing such procedures and methods, the Secretary, with the concurrence of the Federal Acquisition Regulatory Council, shall determine which existing regulations are inconsistent with the intent of this section and shall formulate substitute regulations consistent with laws governing Federal procurement.
 
 (B) The procedures and methods established pursuant to subparagraph (A) shall be the procedures and contracting methods for selection, by an agency, of a contractor to provide energy savings performance services. Such procedures and methods shall provide for the calculation of energy savings based on sound engineering and financial practices.
 
@@ -74,17 +74,59 @@ Modification of existing contracts.—Not later than 18 months after December 19
 
 (3) A firm not designated as qualified to provide energy savings services under paragraph (2)(A)(i) or paragraph (2)(B) may request a review of such decision to be conducted in accordance with procedures to be developed by the board of contract appeals of the General Services Administration.
 
-(Pub. L. 95–619, title VIII, §801, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 142; amended Pub. L. 102–486, title I, §155(a), Oct. 24, 1992, 106 Stat. 2852; Pub. L. 104–106, div. E, title LVI, §5607(e), Feb. 10, 1996, 110 Stat. 702; Pub. L. 104–316, title I, §122(s), Oct. 19, 1996, 110 Stat. 3838; Pub. L. 105–388, §4(a), Nov. 13, 1998, 112 Stat. 3477; Pub. L. 106–291, title III, §335, Oct. 11, 2000, 114 Stat. 997; Pub. L. 106–469, title IV, §401, Nov. 9, 2000, 114 Stat. 2037; Pub. L. 108–375, div. A, title X, §1090(a), Oct. 28, 2004, 118 Stat. 2067; Pub. L. 109–58, title I, §105(a), Aug. 8, 2005, 119 Stat. 611; Pub. L. 110–140, title V, §§511(a), 512–514, Dec. 19, 2007, 121 Stat. 1658, 1659.)
+#### (c) Task or delivery orders
+
+(1) The head of a Federal agency may issue a task or delivery order under an energy savings performance contract by—
+
+&emsp;(A) notifying all contractors that have received an award under such contract that the agency proposes to discuss energy savings performance services for some or all of its facilities and, following a reasonable period of time to provide a proposal in response to the notice, soliciting from such contractors the submission of expressions of interest in, and contractor qualifications for, performing site surveys or investigations and feasibility designs and studies, and including in the notice summary information concerning energy use for any facilities that the agency has specific interest in including in such task or delivery order;
+
+&emsp;(B) reviewing all expressions of interest and qualifications submitted pursuant to the notice under subparagraph (A);
+
+&emsp;(C) selecting two or more contractors (from among those reviewed under subparagraph (B)) to conduct discussions concerning the contractors’ respective qualifications to implement potential energy conservation measures, including—
+
+&emsp;&emsp;(i) requesting references and specific detailed examples with respect to similar efforts and the resulting energy savings of such similar efforts; and
+
+&emsp;&emsp;(ii) requesting an explanation of how such similar efforts relate to the scope and content of the task or delivery order concerned;
+
+&emsp;(D) selecting and authorizing—
+
+&emsp;&emsp;(i) more than one contractor (from among those selected under subparagraph (C)) to conduct site surveys, investigations, feasibility designs and studies, or similar assessments for the energy savings performance contract services (or for discrete portions of such services), for the purpose of allowing each such contractor to submit a firm, fixed-price proposal to implement specific energy conservation measures; or
+
+&emsp;&emsp;(ii) one contractor (from among those selected under subparagraph (C)) to conduct a site survey, investigation, feasibility design and study, or similar assessment for the purpose of allowing the contractor to submit a firm, fixed-price proposal to implement specific energy conservation measures;
+
+&emsp;(E) providing a debriefing to any contractor not selected under subparagraph (D);
+
+&emsp;(F) negotiating a task or delivery order for energy savings performance contracting services with the contractor or contractors selected under subparagraph (D) based on the energy conservation measures identified; and
+
+&emsp;(G) issuing a task or delivery order for energy savings performance contracting services to such contractor or contractors.
+
+(2) The issuance of a task or delivery order for energy savings performance contracting services pursuant to paragraph (1) is deemed to satisfy the task and delivery order competition requirements in section 2304c(d) of title 10 and section 4106(d) of title 41.
+
+(3) The Secretary may issue guidance as necessary to agencies issuing task or delivery orders pursuant to paragraph (1).
+
+(Pub. L. 95–619, title VIII, §801, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 142; amended Pub. L. 102–486, title I, §155(a), Oct. 24, 1992, 106 Stat. 2852; Pub. L. 104–106, div. E, title LVI, §5607(e), Feb. 10, 1996, 110 Stat. 702; Pub. L. 104–316, title I, §122(s), Oct. 19, 1996, 110 Stat. 3838; Pub. L. 105–388, §4(a), Nov. 13, 1998, 112 Stat. 3477; Pub. L. 106–291, title III, §335, Oct. 11, 2000, 114 Stat. 997; Pub. L. 106–469, title IV, §401, Nov. 9, 2000, 114 Stat. 2037; Pub. L. 108–375, div. A, title X, §1090(a), Oct. 28, 2004, 118 Stat. 2067; Pub. L. 109–58, title I, §105(a), Aug. 8, 2005, 119 Stat. 611; Pub. L. 110–140, title V, §§511(a), 512–514, Dec. 19, 2007, 121 Stat. 1658, 1659; Pub. L. 111–383, div. A, title VIII, §828(a), Jan. 7, 2011, 124 Stat. 4271.)
 
 #### References in Text
 
 The Energy Independence and Security Act of 2007, referred to in subsec. (a)(2)(G)(ii), is Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1492. Subtitle B of title V of the Act enacted part A (§17131) of subchapter IV of chapter 152 of this title and amended this section and sections 8256, 8258, and 8287c of this title and section 2913 of Title 10, Armed Forces. For complete classification of this Act to the Code, see Short Title note set out under section 17001 of this title and Tables.
 
+#### Codification
+
+The following substitutions were made on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts:
+
+In subsec. (a)(2)(D)(iii), “section 1303 of title 41” substituted for “section 25 of the Office of Federal Procurement Policy Act (41 U.S.C. 421)”.
+
+In subsec. (b)(1)(A), “section 1302(a) of title 41” substituted for “section 25(a) of the Office of Federal Procurement Policy Act”.
+
+In subsec. (c)(2), “section 4106(d) of title 41” substituted for “section 303J(d) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253j(d))”.
+
 #### Amendments
 
-2007—Subsec. (a)(2)(D). Pub. L. 110–140, §513(1), inserted “beginning on the date of the delivery order” after “25 years” in introductory provisions.
+<b>2011</b>—Subsec. (c). Pub. L. 111–383 added subsec. (c).
 
-Subsec. (a)(2)(D)(iii), (iv). Pub. L. 110–140, §511(a), redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: “30 days before the award of any such contract that contains a clause setting forth a cancellation ceiling in excess of $10,000,000, the head of such agency gives written notification of such proposedcontract and of the proposed cancellation ceiling for such contract to the appropriate authorizing and appropriating committees of the Congress; and”.
+<b>2007</b>—Subsec. (a)(2)(D). Pub. L. 110–140, §513(1), inserted “beginning on the date of the delivery order” after “25 years” in introductory provisions.
+
+Subsec. (a)(2)(D)(iii), (iv). Pub. L. 110–140, §511(a), redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: “30 days before the award of any such contract that contains a clause setting forth a cancellation ceiling in excess of $10,000,000, the head of such agency gives written notification of such proposed contract and of the proposed cancellation ceiling for such contract to the appropriate authorizing and appropriating committees of the Congress; and”.
 
 Subsec. (a)(2)(E). Pub. L. 110–140, §512, added subpar. (E).
 
@@ -92,19 +134,23 @@ Subsec. (a)(2)(F), (G). Pub. L. 110–140, §513(2), added subpars. (F) and (G).
 
 Subsec. (c). Pub. L. 110–140, §514, struck out subsec. (c). Text read as follows: “The authority to enter into new contracts under this section shall cease to be effective on October 1, 2016.”
 
-2005—Subsec. (c). Pub. L. 109–58 substituted “2016” for “2006”.
+<b>2005</b>—Subsec. (c). Pub. L. 109–58 substituted “2016” for “2006”.
 
-2004—Subsec. (c). Pub. L. 108–375 substituted “2006” for “2003”.
+<b>2004</b>—Subsec. (c). Pub. L. 108–375 substituted “2006” for “2003”.
 
-2000—Subsec. (a)(2)(D)(iii). Pub. L. 106–291 and Pub. L. 106–469 amended cl. (iii) identically, substituting “$10,000,000” for “$750,000”.
+<b>2000</b>—Subsec. (a)(2)(D)(iii). Pub. L. 106–291 and Pub. L. 106–469 amended cl. (iii) identically, substituting “$10,000,000” for “$750,000”.
 
-1998—Subsec. (c). Pub. L. 105–388 substituted “on October 1, 2003” for “five years after the date procedures and methods are established under subsection (b) of this section”.
+<b>1998</b>—Subsec. (c). Pub. L. 105–388 substituted “on October 1, 2003” for “five years after the date procedures and methods are established under subsection (b) of this section”.
 
-1996—Subsec. (b)(3). Pub. L. 104–106 struck out at end “Procedures developed by the board of contract appeals under this paragraph shall be substantially equivalent to procedures established under section 759(f) of title 40.”
+<b>1996</b>—Subsec. (b)(3). Pub. L. 104–106 struck out at end “Procedures developed by the board of contract appeals under this paragraph shall be substantially equivalent to procedures established under section 759(f) of title 40.”
 
 Subsec. (c). Pub. L. 104–316 struck out par. (1) designation before “The authority to” and struck out par. (2) which required Comptroller General of the United States to report annually for five years on implementation of this section, including an assessment of various energy issues.
 
-1992—Pub. L. 102–486 inserted subsec. (a) designation and heading, designated existing provisions as par. (1), and added par. (2) and subsecs. (b) and (c).
+<b>1992</b>—Pub. L. 102–486 inserted subsec. (a) designation and heading, designated existing provisions as par. (1), and added par. (2) and subsecs. (b) and (c).
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–383, div. A, title VIII, §828(b), Jan. 7, 2011, 124 Stat. 4272, provided that: “The amendment made by subsection (a) \[amending this section\] is inapplicable to task or delivery orders issued before the date of enactment of this Act \[Jan. 7, 2011\].”
 
 #### Effective Date of 2007 Amendment
 

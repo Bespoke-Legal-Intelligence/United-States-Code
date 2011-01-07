@@ -8,7 +8,7 @@ The Secretary, not later than 1 year after the effective date of this chapter, i
 
 #### (1) Online filing
 
-&emsp;The Secretary, in consultation with the Technology Advisory Committee established under subsection (c) of this section, shall conduct a feasibility study on the online filing of the filings described in subsection (a) of this section. The study shall include a review of computerization and technology of the Immigration and Naturalization Service relating to the immigration services and processing of filings related to immigrant services. The study shall also include an estimate of the timeframe and cost and shall consider other factors in implementing such a filing system, including the feasibility of fee payment online.
+&emsp;The Secretary, in consultation with the Technology Advisory Committee established under subsection (c) of this section, shall conduct a feasibility study on the online filing ofthe filings described in subsection (a) of this section. The study shall include a review of computerization and technology of the Immigration and Naturalization Service relating to the immigration services and processing of filings related to immigrant services. The study shall also include an estimate of the timeframe and cost and shall consider other factors in implementing such a filing system, including the feasibility of fee payment online.
 
 #### (2) Report
 

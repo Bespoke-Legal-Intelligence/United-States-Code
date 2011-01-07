@@ -16,7 +16,7 @@ Section was formerly classified to section 1857j–3 of this title.
 
 #### Amendments
 
-1970—Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary” meaning the Secretary of Health, Education, and Welfare.
+<b>1970</b>—Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary” meaning the Secretary of Health, Education, and Welfare.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section,”.</i>
 

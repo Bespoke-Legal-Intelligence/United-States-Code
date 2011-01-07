@@ -54,11 +54,11 @@ A prior section 1070b–2, Pub. L. 89–329, title IV, §413C, as added Pub. L. 
 
 #### Amendments
 
-1998—Subsec. (d). Pub. L. 105–244 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “If the institution's allocation under this subpart is directly or indirectly based in part on the financial need demonstrated by students who are independent students or attending the institution less than full time and if the total financial need of all such students attending the institution exceeds 5 percent of the total financial need of all students attending such institution, then at least 5 percent of such allotment shall be made available to such students.”
+<b>1998</b>—Subsec. (d). Pub. L. 105–244 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “If the institution's allocation under this subpart is directly or indirectly based in part on the financial need demonstrated by students who are independent students or attending the institution less than full time and if the total financial need of all such students attending the institution exceeds 5 percent of the total financial need of all students attending such institution, then at least 5 percent of such allotment shall be made available to such students.”
 
-1993—Subsec. (d). Pub. L. 103–208 substituted “and” for “, a reasonable proportion of the institution's allocation shall be made available to such students, except that” and “5 percent of the total financial need” for “5 percent of the need”.
+<b>1993</b>—Subsec. (d). Pub. L. 103–208 substituted “and” for “, a reasonable proportion of the institution's allocation shall be made available to such students, except that” and “5 percent of the total financial need” for “5 percent of the need”.
 
-1992—Subsec. (a)(2). Pub. L. 102–325, §403(d), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “agrees that the Federal share of awards under this subpart will not exceed—
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–325, §403(d), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “agrees that the Federal share of awards under this subpart will not exceed—
 
 &emsp;“(A) 95 percent of such awards in fiscal year 1989,
 

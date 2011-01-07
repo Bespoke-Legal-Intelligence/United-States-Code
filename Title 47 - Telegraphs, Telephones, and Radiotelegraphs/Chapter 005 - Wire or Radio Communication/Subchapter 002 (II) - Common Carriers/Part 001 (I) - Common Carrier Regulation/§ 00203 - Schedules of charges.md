@@ -26,9 +26,9 @@ In case of failure or refusal on the part of any carrier to comply with the prov
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–396 substituted “one hundred and twenty days” for “ninety days” in pars. (1) and (2).
+<b>1990</b>—Subsec. (b). Pub. L. 101–396 substituted “one hundred and twenty days” for “ninety days” in pars. (1) and (2).
 
-1989—Subsec. (e). Pub. L. 101–239 substituted “$6,000” for “$500” and “$300” for “$25”.
+<b>1989</b>—Subsec. (e). Pub. L. 101–239 substituted “$6,000” for “$500” and “$300” for “$25”.
 
-1976—Subsec. (b). Pub. L. 94–376 designated existing provisions as par. (1), substituted “after ninety days notice” for “after thirty days’ notice”, and struck out provision that the Commission may, in its discretion and for good cause shown, modify the requirements made by or under authority of this section in particular instances or by a general order applicable to special circumstances or conditions, and added par. (2).
+<b>1976</b>—Subsec. (b). Pub. L. 94–376 designated existing provisions as par. (1), substituted “after ninety days notice” for “after thirty days’ notice”, and struck out provision that the Commission may, in its discretionand for good cause shown, modify the requirements made by or under authority of this section in particular instances or by a general order applicable to special circumstances or conditions, and added par. (2).
 

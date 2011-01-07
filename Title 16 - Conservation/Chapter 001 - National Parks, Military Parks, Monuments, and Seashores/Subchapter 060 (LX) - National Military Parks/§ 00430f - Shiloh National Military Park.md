@@ -10,7 +10,7 @@ Section is based on sections 1 to 6 of act Dec. 27, 1894. Section 7 of the act, 
 
 #### Amendments
 
-1966—Pub. L. 89–554 struck out provisions which required the affairs of Shiloh National Military Park to be subject to supervision and direction of Secretary of the Interior.
+<b>1966</b>—Pub. L. 89–554 struck out provisions which required the affairs of Shiloh National Military Park to be subject to supervision and direction of Secretary of the Interior.
 
 #### Transfer of Functions
 
@@ -20,7 +20,7 @@ National Park Service substituted for Office of National Parks, Buildings, and R
 
 #### Exchange of Lands
 
-Act June 25, 1947, ch. 126, 61 Stat. 173, provided: “That the Secretary of the Interior is authorized, in his discretion, and under such terms and conditions as he may deem necessary, to convey, without consideration, to W. A. Shaw and E. L. Shaw, or nominees, the following-described lands within Shiloh National Military Park in Hardin County in the State of Tennessee: Beginning at a point from which the intersection of Shiloh National Military Park boundary between boundary corners numbered 228 and 229 with center line of Confederate Road bears south eight degrees fifty-seven minutes east, eighty and thirty-seven one-hundredths feet (said intersection bears north eighty-eight degrees ten minutes fourteen seconds west, one thousand one hundred and thirty-one and eighty-nine one-hundredths feet from boundary corner numbered 228); thence north twenty-nine degrees thirty-one minutes west, three hundred and twenty-six feet; thence south seventy-six degrees nineteen minutes east, three hundred and thirty-seven and fifty-four one-hundredths feet; and thence running sixty feet from and parallel to center line of Confederate Road south thirty-nine degrees twenty minutes west, two hundred and sixty-three and forty-six one-hundredths feet to the point of beginning. Thetract as described contains approximately ninety-two one-hundredths acre.
+Act June 25, 1947, ch. 126, 61 Stat. 173, provided: “That the Secretary of the Interior is authorized, in his discretion, and under such terms and conditions as he may deem necessary, to convey, without consideration, to W. A. Shaw and E. L. Shaw, or nominees, the following-described lands within Shiloh National Military Park in Hardin County in the State of Tennessee: Beginning at a point from which the intersection of Shiloh National Military Park boundary between boundary corners numbered 228 and 229 with center line of Confederate Road bears south eight degrees fifty-seven minutes east, eighty and thirty-seven one-hundredths feet (said intersection bears north eighty-eight degrees ten minutes fourteen seconds west, one thousand one hundred and thirty-one and eighty-nine one-hundredths feet from boundary corner numbered 228); thence north twenty-nine degrees thirty-one minutes west, three hundred and twenty-six feet; thence south seventy-six degrees nineteen minutes east, three hundred and thirty-seven and fifty-four one-hundredths feet; and thence running sixty feet from and parallel to center line of Confederate Road south thirty-nine degrees twenty minutes west, two hundred and sixty-three and forty-six one-hundredths feet to the point of beginning. The tract as described contains approximately ninety-two one-hundredths acre.
 
 “
 

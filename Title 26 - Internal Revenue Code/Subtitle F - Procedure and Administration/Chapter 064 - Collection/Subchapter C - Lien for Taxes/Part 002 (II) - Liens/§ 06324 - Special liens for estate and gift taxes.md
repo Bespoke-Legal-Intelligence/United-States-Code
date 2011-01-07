@@ -30,11 +30,11 @@ Except as otherwise provided in subsection (c), unless the gift tax imposed by c
 
 #### Amendments
 
-1970—Subsec. (a)(3). Pub. L. 91–614, §101(d)(2), substituted “fiduciary” for “executor” in heading and text.
+<b>1970</b>—Subsec. (a)(3). Pub. L. 91–614, §101(d)(2), substituted “fiduciary” for “executor” in heading and text.
 
 Subsec. (b). Pub. L. 91–614, §102(d)(7), substituted “period for which the return was filed” for “calendar year”.
 
-1966—Subsec. (a)(1). Pub. L. 89–719 inserted “, or becomes unenforceable by reason of lapse of time,” after “sooner paid in full” and substituted “10 years from the date of death” for “10 years upon the gross estate of the decedent”.
+<b>1966</b>—Subsec. (a)(1). Pub. L. 89–719 inserted “, or becomes unenforceable by reason of lapse of time,” after “sooner paid in full” and substituted “10 years from the date of death” for “10 years upon the gross estate of the decedent”.
 
 Subsec. (a)(2). Pub. L. 89–719 substituted “person in possession, or beneficiary, to a purchaser or holder of a security interest” for “person in possession of property by reason of the exercise, nonexercise, or release of a power of appointment, or beneficiary, to a bona fide purchaser, mortgagee, or pledgee, for an adequate and full consideration in money and money's worth” and “except any part transferred to a purchaser or a holder of a security interest” for “except any part transferred to a bona fide purchaser, mortgagee, or pledgee for an adequate and full consideration in money or money's worth”.
 
@@ -46,7 +46,7 @@ Subsec. (c). Pub. L. 89–719 redesignated as par. (1) provisions formerly const
 
 Subsec. (d). Pub. L. 89–719 struck out subsec. (d) dealing with exceptions in the case of motor vehicles. See subsec. (c) above and reference therein to section 6323(b).
 
-1964—Subsecs. (a), (b). Pub. L. 88–272, §236(c)(2), inserted “and subsection (d) (relating to purchases of motor vehicles)”.
+<b>1964</b>—Subsecs. (a), (b). Pub. L. 88–272, §236(c)(2), inserted “and subsection (d) (relating to purchases of motor vehicles)”.
 
 Subsec. (d). Pub. L. 88–272, §236(b), added subsec. (d).
 

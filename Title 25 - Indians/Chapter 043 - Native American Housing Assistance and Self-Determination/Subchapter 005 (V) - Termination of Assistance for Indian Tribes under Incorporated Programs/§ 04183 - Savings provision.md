@@ -6,7 +6,7 @@ Except as provided in sections 4181 and 4182 of this title, this chapter may not
 
 #### (b) Obligations under repealed provisions
 
-Notwithstanding the amendments made by this subchapter, any obligation of the Secretary made under or pursuant to title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\], title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11360 et seq.\], or section 2 of the HUD Demonstration Act of 1993 shall continue to be governed by the provisions of such Acts (as in effect before the date of the effectiveness of the amendments made by this subchapter).
+Notwithstanding the amendments made by this subchapter, any obligation of the Secretarymade under or pursuant to title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\], title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11360 et seq.\], or section 2 of the HUD Demonstration Act of 1993 shall continue to be governed by the provisions of such Acts (as in effect before the date of the effectiveness of the amendments made by this subchapter).
 
 (Pub. L. 104–330, title V, §507, Oct. 26, 1996, 110 Stat. 4045; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 109–281, §2(d)(2), Sept. 22, 2006, 120 Stat. 1181.)
 
@@ -28,9 +28,9 @@ The date of the effectiveness of the amendments made by this subchapter, referre
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–281 struck out “subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act,” after “pursuant to”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–281 struck out “subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act,” after “pursuant to”.
 
-2000—Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act” in subsecs. (a) and (b).
+<b>2000</b>—Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act” in subsecs. (a) and (b).
 
 #### Effective Date
 

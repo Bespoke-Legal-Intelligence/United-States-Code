@@ -32,9 +32,9 @@ In subsection (b), the words “This chapter does not prevent” are substituted
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–362 struck out subsec. (a) which required Government pension plans to be subject to 29 U.S.C. 1023, except for officers or employees of the Central Intelligence Agency unless the President specifically approves application of the requirements of section 1023 in writing for such officers and employees.
+<b>1998</b>—Subsec. (a). Pub. L. 105–362 struck out subsec. (a) which required Government pension plans to be subject to 29 U.S.C. 1023, except for officers or employees of the Central Intelligence Agency unless the President specifically approves application of the requirements of section 1023 in writing for such officers and employees.
 
-1995—Subsec. (c). Pub. L. 104–66 added subsec. (c).
+<b>1995</b>—Subsec. (c). Pub. L. 104–66 added subsec. (c).
 
 #### Ex. Ord. No. 12177. Delegation of Functions to Director of Office of Management and Budget and Secretary of the Treasury
 

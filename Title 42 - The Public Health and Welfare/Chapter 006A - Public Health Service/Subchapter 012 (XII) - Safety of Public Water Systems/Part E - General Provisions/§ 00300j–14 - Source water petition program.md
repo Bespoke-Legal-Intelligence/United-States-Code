@@ -6,7 +6,7 @@
 
 #### (A) Establishment
 
-&emsp;&emsp;A State may establish a program under which an owner or operator of a community water system in the State, or a municipal or local government or political subdivision of a State, may submit a source water quality protection partnership petition to the State requesting that the State assist in the local development of a voluntary, incentive-based partnership, among the owner, operator, or government and other persons likely to be affected by the recommendations of the partnership, to—
+&emsp;&emsp;A State may establish a program under which an owner or operator of a community water system in the State, or a municipal or local government or political subdivision of a State, may submit a source water qualityprotection partnership petition to the State requesting that the State assist in the local development of a voluntary, incentive-based partnership, among the owner, operator, or government and other persons likely to be affected by the recommendations of the partnership, to—
 
 &emsp;&emsp;&emsp;(i) reduce the presence in drinking water of contaminants that may be addressed by a petition by considering the origins of the contaminants, including to the maximum extent practicable the specific activities that affect the drinking water supply of a community;
 
@@ -70,7 +70,7 @@
 
 #### (1) In general
 
-&emsp;After providing notice and an opportunity for public comment on a petition submitted under subsection (a) of this section, the State shall approve or disapprove the petition, in whole or in part, not later than 120 days after the date of submission of the petition.
+&emsp;After providing notice and an opportunity for public comment on a petition submitted under subsection (a) of this section, the Stateshall approve or disapprove the petition, in whole or in part, not later than 120 days after the date of submission of the petition.
 
 #### (2) Approval
 
@@ -166,5 +166,5 @@ Nothing in this section—
 
 The Federal Water Pollution Control Act, referred to in subsec. (b)(2)(A)(iii), (B)(i), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. Title VI of the Act is classified generally to subchapter VI (§1381 et seq.) of chapter 26 of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (b)(2)(B)(iii), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 2 of subtitle D of title XII of the Act was classified generally to part II (§3838 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation, prior to repeal by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007. For complete classification of thisAct to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
+The Food Security Act of 1985, referred to in subsec. (b)(2)(B)(iii), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 2 of subtitle D of title XII of the Act was classified generally to part II (§3838 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation, prior to repeal by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 

@@ -2,7 +2,7 @@
 
 #### (a) Transfer to distilled spirits plant without payment of tax
 
-Distilled spirits imported or brought into the United States in bulk containers may, under such regulations as the Secretary shall prescribe, be withdrawn from customs custody and transferred in such bulk containers or by pipeline to the bonded premises of a distilled spirits plant without payment of the internal revenue tax imposed on such distilled spirits. The person operating the bonded premises of the distilled spirits plant to which such spirits are transferred shall become liable for the tax on distilled spirits withdrawn from customs custody under this section upon release of the spirits from customs custody, and the importer, or the person bringing such distilled spirits into the United States, shall thereupon be relieved of his liability for such tax.
+Distilled spirits imported or brought into the United States in bulk containers may, undersuch regulations as the Secretary shall prescribe, be withdrawn from customs custody and transferred in such bulk containers or by pipeline to the bonded premises of a distilled spirits plant without payment of the internal revenue tax imposed on such distilled spirits. The person operating the bonded premises of the distilled spirits plant to which such spirits are transferred shall become liable for the tax on distilled spirits withdrawn from customs custody under this section upon release of the spirits from customs custody, and the importer, or the person bringing such distilled spirits into the United States, shall thereupon be relieved of his liability for such tax.
 
 #### (b) Withdrawals, etc.
 
@@ -22,15 +22,15 @@ Provisions similar to those comprising this section were contained in prior sect
 
 #### Amendments
 
-1979—Subsec. (b). Pub. L. 96–39 redesignated par. (2) and (3) as (1) and (2). Former par. (1), which prohibited distilled spirits transferred pursuant to subsection (a) from being bottled in bond under section 5233, was struck out.
+<b>1979</b>—Subsec. (b). Pub. L. 96–39 redesignated par. (2) and (3) as (1) and (2). Former par. (1), which prohibited distilled spirits transferred pursuant to subsection (a) from being bottled in bond under section 5233, was struck out.
 
-1976—Subsec. (a). Pub. L. 94–455 inserted “, or the person bringing such distilled spirits into the United States,” after “and the importer”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 inserted “, or the person bringing such distilled spirits into the United States,” after “and the importer”.
 
-1971—Subsec. (a). Pub. L. 91–659, §7(a), extended privilege of transfer of distilled spirits to the plant without payment of tax to distilled spirits imported, or brought into the United States, and struck out reference to section 5001.
+<b>1971</b>—Subsec. (a). Pub. L. 91–659, §7(a), extended privilege of transfer of distilled spirits to the plant without payment of tax to distilled spirits imported, or brought into the United States, and struck out reference to section 5001.
 
 Subsec. (b). Pub. L. 91–659, §7(b), struck out “Imported” before “distilled spirits” and thus applied subsection to all distilled spirits.
 
-1968—Pub. L. 90–630 permitted withdrawal in bulk containers or by pipeline from customs custody to internal revenue bond without payment of internal revenue taxes of all imported distilled spirits in bulk containers, regardless of proof, extended to all such imported distilled spirits the withdrawal privileges already available to imported distilled spirits of at least 185 proof, whether or not they have been redistilled or denatured, provided that transferor's liability for the internal revenue tax ceases when the transferee's liability attaches, and established that imported bulk spirits are not eligible for the bottled in bond privileges available to domestic spirits.
+<b>1968</b>—Pub. L. 90–630 permitted withdrawal in bulk containers or by pipeline from customs custody to internal revenue bond without payment of internal revenue taxes of all imported distilled spirits in bulk containers, regardless of proof, extended to all such imported distilled spirits the withdrawal privileges already available to imported distilled spirits of at least 185 proof, whether or not they have been redistilled or denatured, provided that transferor's liability for the internal revenue tax ceases when the transferee's liability attaches, and established that imported bulk spirits are not eligible for the bottled in bond privileges available to domestic spirits.
 
 #### Effective Date of 1979 Amendment
 

@@ -28,5 +28,5 @@ The word “retire” is substituted for the words “direct the retirement of�
 
 #### Amendments
 
-1996—Pub. L. 104–106 substituted “permanent professors and the Director of Admissions of the United States Military Academy” for “permanent professors of United States Military Academy” in section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary of the Army may retire any permanent professor of the United States Military Academy who has more than 30 years of service as a commissioned officer.”
+<b>1996</b>—Pub. L. 104–106 substituted “permanent professors and the Director of Admissions of the United States Military Academy” for “permanent professors of United States Military Academy” in section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary of the Army may retire any permanent professor of the United States Military Academy who has more than 30 years of service as a commissioned officer.”
 

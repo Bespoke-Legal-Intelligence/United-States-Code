@@ -22,7 +22,7 @@ In carrying out the research program under this section, the Secretary and the D
 
 #### (c) Reports
 
-The Director is encouraged to include information about the activities carried out under this section in the biennial report required under section 403 of the National Institutes of Health Reform Act of 2006.<sup>1</sup> If such information is included, the Director shall make such information available to be included on the Internet Clearinghouse established under section 300b–11 of this title.
+The Director is encouraged to include information about the activities carried out under this section in the biennial report requiredunder section 403 of the National Institutes of Health Reform Act of 2006.<sup>1</sup> If such information is included, the Director shall make such information available to be included on the Internet Clearinghouse established under section 300b–11 of this title.
 
 #### (d) Nonduplication
 
@@ -54,5 +54,7 @@ Section 300c–4, act July 1, 1944, ch. 373, title XI, §1115, as added Aug. 29,
 
 #### Amendments
 
-2008—Subsec. (a)(1)(B). Pub. L. 110–237 substituted “, or” for “and or”.
+<b>2008</b>—Subsec. (a)(1)(B). Pub. L. 110–237 substituted “, or” for “and or”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -60,7 +60,7 @@ Under such regulations as the Secretary may deem necessary to protect the revenu
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law, wine entered into customs bonded warehouses under subsection (c)(4) may, under such regulations as the Secretary may prescribe, be withdrawn from such warehouses for consumption in the United States by and for the official or family use of such foreign governments, organizations, and individuals who are entitled to withdraw imported wines from such warehouses free of tax. Wines transferred to customs bonded warehouses under subsection (c)(4) shall be entered, stored, and accounted for in such warehouses under such regulations and bonds as the Secretary may prescribe, and may be withdrawn therefrom by such governments, organizations, and individuals free of tax under the same conditions and procedures as imported wines.
+&emsp;Notwithstanding any other provision of law, wine entered into customs bonded warehousesunder subsection (c)(4) may, under such regulations as the Secretary may prescribe, be withdrawn from such warehouses for consumption in the United States by and for the official or family use of such foreign governments, organizations, and individuals who are entitled to withdraw imported wines from such warehouses free of tax. Wines transferred to customs bonded warehouses under subsection (c)(4) shall be entered, stored, and accounted for in such warehouses under such regulations and bonds as the Secretary may prescribe, and may be withdrawn therefrom by such governments, organizations, and individuals free of tax under the same conditions and procedures as imported wines.
 
 #### (2) Withdrawal for domestic use
 
@@ -78,19 +78,19 @@ A prior section 5362, act Aug. 16, 1954, ch. 736, 68A Stat. 665, consisted of pr
 
 #### Amendments
 
-1980—Subsec. (c)(4). Pub. L. 96–601, §2(a), substituted “customs bonded” for “class 6 customs manufacturing”.
+<b>1980</b>—Subsec. (c)(4). Pub. L. 96–601, §2(a), substituted “customs bonded” for “class 6 customs manufacturing”.
 
 Subsec. (e). Pub. L. 96–601, §2(b), added subsec. (e).
 
-1979—Subsec. (b). Pub. L. 96–39 substituted references to bonded premises for references to bonded wine cellars and inserted provisions relating to wine transferred in bond to a distilled spirits plant which may not be removed for consumption or sale as wine, provisions relating to continued liability for tax on wine transferred to bonded premises, and provisions defining “bonded premises”.
+<b>1979</b>—Subsec. (b). Pub. L. 96–39 substituted references to bonded premises for references to bonded wine cellars and inserted provisions relating to wine transferred in bond to a distilled spirits plant which may not be removed for consumption or sale as wine, provisions relating to continued liability for tax on wine transferred to bonded premises, and provisions defining “bonded premises”.
 
-1976—Subsecs. (a) to (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a) to (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 Subsec. (c)(9). Pub. L. 94–455, §1905(c)(4), struck out “and Territories” after “the several States”.
 
 Subsec. (d). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1967—Subsec. (d). Pub. L. 90–73 added subsec. (d).
+<b>1967</b>—Subsec. (d). Pub. L. 90–73 added subsec. (d).
 
 #### Effective Date of 1980 Amendment
 

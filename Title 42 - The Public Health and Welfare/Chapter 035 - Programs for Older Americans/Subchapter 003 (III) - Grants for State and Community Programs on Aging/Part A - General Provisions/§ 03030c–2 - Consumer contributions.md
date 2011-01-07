@@ -102,7 +102,7 @@ Pub. L. 106–501, §310, which directed the addition of this section at the end
 
 #### Amendments
 
-2006—Subsec. (b)(1). Pub. L. 109–365, §310(1)(A), substituted “if” for “provided that” and inserted at end “Such contributions shall be encouraged for individuals whose self-declared income is at or above 185 percent of the poverty line, at contribution levels based on the actual cost of services.”
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–365, §310(1)(A), substituted “if” for “provided that” and inserted at end “Such contributions shall be encouraged for individuals whose self-declared income is at or above 185 percent of the poverty line, at contribution levels based on the actual cost of services.”
 
 Subsec. (b)(4)(E). Pub. L. 109–365, §310(1)(B), inserted “and to supplement (not supplant) funds received under this chapter” after “given”.
 

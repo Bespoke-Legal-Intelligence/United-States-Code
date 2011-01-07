@@ -140,21 +140,21 @@ Another prior section 812, act Aug. 16, 1954, ch. 736, §812, as added Mar. 13, 
 
 #### Amendments
 
-2004—Subsec. (b)(3)(A). Pub. L. 108–218 substituted “section 808” for “sections 808 and 809”.
+<b>2004</b>—Subsec. (b)(3)(A). Pub. L. 108–218 substituted “section 808” for “sections 808 and 809”.
 
-1997—Subsec. (d)(1)(D). Pub. L. 105–34 added subpar. (D).
+<b>1997</b>—Subsec. (d)(1)(D). Pub. L. 105–34 added subpar. (D).
 
-1996—Subsec. (g). Pub. L. 104–188 struck out subsec. (g) which read as follows: “
+<b>1996</b>—Subsec. (g). Pub. L. 104–188 struck out subsec. (g) which read as follows: “
 
 Treatment of Interest Partially Tax-Exempt Under Section 133.—For purposes of this section and subsections (a) and (b) of section 807, the terms ‘gross investment income’ and ‘tax-exempt interest’ shall not include any interest received with respect to a securities acquisition loan (as defined in section 133(b)). Such interest shall not be included in life insurance gross income for purposes of subsection (b)(3).”
 
-1988—Subsec. (b)(2). Pub. L. 100–647, §2004(p)(2), substituted “In any case where neither the prevailing State assumed interest rate nor the applicable Federal interest rate is used, another appropriate rate shall be used for purposes of subparagraph (A).” for “In any case where the prevailing State assumed rate is not used, another appropriate rate shall be treated as the prevailing State assumed rate for purposes of subparagraph (A).”
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–647, §2004(p)(2), substituted “In any case where neither the prevailing State assumed interest rate nor the applicable Federal interest rate is used, another appropriate rate shall be used for purposes of subparagraph (A).” for “In any case where the prevailing State assumed rate is not used, another appropriate rate shall be treated as the prevailing State assumed rate for purposes of subparagraph (A).”
 
 Subsec. (e). Pub. L. 100–647, §1018(h)(1), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “For purposes of this section, the term ‘gross investment income’ shall not include any dividend received by the life insurance company which is a 100-percent dividend (as defined in section 805(a)(4)(C)). Such term also shall not include any dividend described in section 805(a)(4)(D) (relating to certain dividends in the case of foreign corporations).”
 
-1987—Subsec. (b)(2). Pub. L. 100–203 substituted “at the greater of the prevailing State assumed rate or the applicable Federal interest rate” for “at the prevailing State assumed rate or, where such rate is not used, another appropriate rate” in subpar. (A), and inserted provision at end that in any case where the prevailing State assumed rate is not used, another appropriate rate be treated as the prevailing State assumed rate for purposes of subpar. (A).
+<b>1987</b>—Subsec. (b)(2). Pub. L. 100–203 substituted “at the greater of the prevailing State assumed rate or the applicable Federal interest rate” for “at the prevailing State assumed rate or, where such rate is not used, another appropriate rate” in subpar. (A), and inserted provision at end that in any case where the prevailing State assumed rate is not used, another appropriate rate be treated as the prevailing State assumed rate for purposes of subpar. (A).
 
-1986—Subsec. (b)(2). Pub. L. 99–514, §1821(i)(1), inserted “or, where such rate is not used, another appropriate rate” after “assumed rate”, in subpar. (A) and added subpar. (D).
+<b>1986</b>—Subsec. (b)(2). Pub. L. 99–514, §1821(i)(1), inserted “or, where such rate is not used, another appropriate rate” after “assumed rate”, in subpar. (A) and added subpar. (D).
 
 Subsec. (b)(3)(B). Pub. L. 99–514, §1821(i)(2), struck out “(including tax-exempt interest)” after “insurance gross income” in cl. (ii) and inserted at end “For purposes of subparagraph (B)(ii), life insurance gross income shall be determined by including tax-exempt interest and by applying section 807(a)(2)(B) as if it did not contain clause (i) thereof.”
 

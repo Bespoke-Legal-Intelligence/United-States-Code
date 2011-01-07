@@ -14,7 +14,7 @@
 
 Based on title 28, U.S.C., 1940 ed., §334 (Mar. 3, 1911, ch. 231, §227, 36 Stat. 1154; Mar. 4, 1911, ch. 285, §1, 36 Stat. 1419; July 1, 1922, ch. 267, §3, 42 Stat. 816; June 12, 1926, ch. 568, 44 Stat. 736; Jan. 29, 1929, ch. 113, 45 Stat. 1143; Mar. 2, 1929, ch. 488, §1, 45 Stat. 1475; July 3, 1930, ch. 863, §1, 46 Stat. 1016; Feb. 23, 1931, ch. 276, §30, 46 Stat. 1214; May 17, 1932, ch. 190, 47 Stat. 158; June 30, 1932, ch. 314, §501, 47 Stat. 415; May 10, 1934, ch. 277, §512, 48 Stat. 758; Ex. Ord. No. 6166, §§12, 14, June 10, 1933; June 7, 1934, ch. 426, 48 Stat. 926; May 27, 1936, ch. 463, §1, 49 Stat. 1380; June 20, 1936, ch. 630, §5, 49 Stat. 1549; June 25, 1936, ch. 804, 49 Stat. 1921).
 
-Requirements for printing, binding, and issuing Supreme Court decisions “within eight months after said decisions have been rendered by the Supreme Court” and provision for distribution “within said period” were omitted. The phrase “as soon as practicable after rendition” was made the time for publishing such decisions as more flexible and practicable.
+Requirements for printing, binding, and issuing Supreme Court decisions “within eight months after saiddecisions have been rendered by the Supreme Court” and provision for distribution “within said period” were omitted. The phrase “as soon as practicable after rendition” was made the time for publishing such decisions as more flexible and practicable.
 
 The words “the United States Court for China” were omitted inasmuch as that court is no longer functioning. The Secretary of State by an arrangement with China has relinquished the extraterritorial jurisdiction previously exercised by the United States in China. The 1944 Legislative and Judiciary Appropriation Act approved June 28, 1943, made no appropriation for the United States Court for China. Appropriations for other courts were made in title II of chapter 173 (57 Stat. 241). The last appropriation for the United States Court for China was in the act of July 2, 1942 (ch. 472, title IV, 56 Stat. 502).
 
@@ -48,11 +48,11 @@ Subsection (b) of this section redesignates, in section 411(b) of title 28, U.S.
 
 #### Amendments
 
-1952—Act July 10, 1952, amended section generally to provide for flexibility in the printing and distribution of the reports under congressional control.
+<b>1952</b>—Act July 10, 1952, amended section generally to provide for flexibility in the printing and distribution of the reports under congressional control.
 
-1951—Subsec. (c). Act Oct. 31, 1951, in second par., substituted “Secretary of the Army” for “Secretary of War”.
+<b>1951</b>—Subsec. (c). Act Oct. 31, 1951, in second par., substituted “Secretary of the Army” for “Secretary of War”.
 
-1949—Subsec. (a). Act May 24, 1949, §68(a), inserted “Secretary of Defense”, “Secretary of the Air Force”, and “Judge Advocate General of the Air Force” where appearing, and substituted “Secretary of the Army” for “Secretary of War”, “Department of the Army” for “War Department”, “Director of the Bureau of Land Management” for “Commissioner of the General Land Office”, “Commissioner of Customs, Commandant of the Coast Guard” for “Chief of the Bureau of Marine Inspection”, and “Chief of Forest Service, Department of Agriculture” for “Chief Forester, National Park Service, Department of the Interior”.
+<b>1949</b>—Subsec. (a). Act May 24, 1949, §68(a), inserted “Secretary of Defense”, “Secretary of the Air Force”, and “Judge Advocate General of the Air Force” where appearing, and substituted “Secretary of the Army” for “Secretary of War”, “Department of the Army” for “War Department”, “Director of the Bureau of Land Management” for “Commissioner of the General Land Office”, “Commissioner of Customs, Commandant of the Coast Guard” for “Chief of the Bureau of Marine Inspection”, and “Chief of Forest Service, Department of Agriculture” for “Chief Forester, National Park Service, Department of the Interior”.
 
 Subsec. (b). Act May 24, 1949, §68(b), substituted “Secretary of the Army” for “Secretary of War” and “Court-martial” for “courtmartial”.
 

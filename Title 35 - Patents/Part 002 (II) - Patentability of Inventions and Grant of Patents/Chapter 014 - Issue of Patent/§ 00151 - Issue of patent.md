@@ -18,13 +18,13 @@ Language is changed.
 
 #### Amendments
 
-2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
+<b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
-1999—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” in last par.
+<b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” in last par.
 
-1975—Pub. L. 93–601 substituted “and the delay in payment is shown to have been unavoidable,” for “within three months after the due date and sufficient cause is shown for the late payment,” in last par.
+<b>1975</b>—Pub. L. 93–601 substituted “and the delay in payment is shown to have been unavoidable,” for “within three months after the due date and sufficient cause is shown for the late payment,” in last par.
 
-1965—Pub. L. 89–83 substituted provisions requiring a notice of allowance to be sent to the applicant, the notice of allowance to specify a sum, constituting the issue fee or a portion thereof, which shall be paid within 3 months thereafter, the patent to issue upon payment of this sum, the application to be deemed abandoned if the sum is not paid, and any remaining balance of the fee to be paid within 3 months after issuance of the patent shall lapse, and permitting the Commissioner within 3 months after the due date of an unpaid fee on a showing of sufficient cause to accept late payment as though no abandonment or lapse had occurred, for provisions which required a notice of allowance to be sent to the applicant, the final fee to be paid within 6 months after the notice, the patent to be issued within 3 months from the date of the payment, and which permitted delayed payment of the issue fee up to 1 year.
+<b>1965</b>—Pub. L. 89–83 substituted provisions requiring a notice of allowance to be sent to the applicant, the notice of allowance to specify a sum, constituting the issue fee or a portion thereof, which shall be paid within 3 months thereafter, the patent to issue upon payment of this sum, the application to be deemed abandoned if the sum is not paid, and any remaining balance of the fee to be paid within 3 months after issuance of the patent shall lapse, and permitting the Commissioner within 3 months after the due date of an unpaid fee on a showing of sufficient cause to accept late payment as though no abandonment or lapse had occurred, for provisions which required a notice of allowance to be sent to the applicant, the final fee to be paid within 6 months after the notice, the patent to be issued within 3 months from the date of the payment, and which permitted delayed payment of the issue fee up to 1 year.
 
 #### Effective Date of 1999 Amendment
 

@@ -44,7 +44,7 @@ Departments or agencies of the United States shall not promulgate any regulation
 
 #### (g) Privileges and immunities of Indian tribes; existing regulations
 
-Any regulation or administrative decision or determination of a department or agency of the United States that is in existence or effect on May 31, 1994, and that classifies, enhances, or diminishes the privileges and immunities available to a federally recognized Indian tribe relative to the privileges and immunities available to other federally recognized tribes by virtue oftheir status as Indian tribes shall have no force or effect.
+Any regulation or administrative decision or determination of a department or agency of the United States that is in existence or effect on May 31, 1994, and that classifies, enhances, or diminishes the privileges and immunities available to a federally recognized Indian tribe relative to the privileges and immunities available to other federally recognized tribes by virtue of their status as Indian tribes shall have no force or effect.
 
 #### (h) Tribal sovereignty
 
@@ -66,13 +66,13 @@ May 31, 1994, referred to in subsec. (g), was in the original “the date of ena
 
 #### Amendments
 
-2004—Subsec. (h). Pub. L. 108–204 added subsec. (h).
+<b>2004</b>—Subsec. (h). Pub. L. 108–204 added subsec. (h).
 
-2000—Subsec. (e). Pub. L. 106–179 struck out “, the choice of counsel and fixing of fees to be subject to the approval of the Secretary” after “To employ legal counsel”.
+<b>2000</b>—Subsec. (e). Pub. L. 106–179 struck out “, the choice of counsel and fixing of fees to be subject to the approval of the Secretary” after “To employ legal counsel”.
 
-1994—Subsecs. (f), (g). Pub. L. 103–263 added subsecs. (f) and (g).
+<b>1994</b>—Subsecs. (f), (g). Pub. L. 103–263 added subsecs. (f) and (g).
 
-1988—Pub. L. 100–581 amended section generally, substituting subsecs. (a) to (e) for two former undesignated pars.
+<b>1988</b>—Pub. L. 100–581 amended section generally, substituting subsecs. (a) to (e) for two former undesignated pars.
 
 #### Definitions Applicable
 

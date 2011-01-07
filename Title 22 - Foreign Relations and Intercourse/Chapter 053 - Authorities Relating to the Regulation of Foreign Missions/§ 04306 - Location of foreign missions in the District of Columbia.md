@@ -12,7 +12,7 @@ The location, replacement, or expansion of chanceries in the District of Columbi
 
 &emsp;(A) in any area which is zoned medium-high or high density residential, and
 
-&emsp;(B) in any other area, determined on the basis of existing uses, which includes office orinstitutional uses, including but not limited to any area zoned mixed-use diplomatic or special purpose,
+&emsp;(B) in any other area, determined on the basis of existing uses, which includes office or institutional uses, including but not limited to any area zoned mixed-use diplomatic or special purpose,
 
 > subject to disapproval by the District of Columbia Board of Zoning Adjustment in accordance with this section.
 
@@ -36,7 +36,7 @@ Any determination concerning the location of a chancery under subsection (b)(2) 
 
 &emsp;(3) The adequacy of off-street or other parking and the extent to which the area will be served by public transportation to reduce parking requirements, subject to such special security requirements as may be determined by the Secretary, after consultation with Federal agencies authorized to perform protective services.
 
-&emsp;(4) The extent to which the area is capable of being adequately protected, as determined by the Secretary, after consultation with Federal agencies authorized to perform protective services.
+&emsp;(4) The extent to which the area is capable of being adequately protected, as determined by the Secretary, after consultation with Federalagencies authorized to perform protective services.
 
 &emsp;(5) The municipal interest, as determined by the Mayor of the District of Columbia.
 
@@ -70,7 +70,7 @@ Approval by the Board of Zoning Adjustment or the Zoning Commission or, except a
 
 (2) Whenever the Board of Zoning Adjustment is performing functions regarding an application by a foreign mission with respect to the location, expansion, or replacement of a chancery—
 
-&emsp;(A) the representative from the Zoning Commission shall be the Director of the NationalPark Service or if another person has been designated under paragraph (1) of this subsection, the person so designated; and
+&emsp;(A) the representative from the Zoning Commission shall be the Director of the National Park Service or if another person has been designated under paragraph (1) of this subsection, the person so designated; and
 
 &emsp;(B) the representative from the National Capital Planning Commission shall be the Executive Director of that Commission.
 

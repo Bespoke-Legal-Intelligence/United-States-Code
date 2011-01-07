@@ -12,7 +12,7 @@ A local educational agency may receive funds under this part for any fiscal year
 
 #### (2) Special rule
 
-&emsp;No local educational agency shall be required to provide services under this partthrough a particular instructional method or in a particular instructional setting in order to demonstrate such agency's compliance with paragraph (1).
+&emsp;No local educational agency shall be required to provide services under this part through a particular instructional method or in a particular instructional setting in order to demonstrate such agency's compliance with paragraph (1).
 
 #### (c) Comparability of services
 

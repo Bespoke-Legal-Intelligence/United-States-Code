@@ -14,7 +14,7 @@
 | [1130\.](%C2%A7%2001130%20-%20Consideration%20of%20proposals%20for%20decorations%20not%20previously%20submitted%20in%20timely%20fashion%20procedures%20for%20review.md) | Consideration of proposals for decorations not previously submitted in timely fashion: procedures for review. |
 | [1131\.](%C2%A7%2001131%20-%20Purple%20Heart%20limitation%20to%20members%20of%20the%20armed%20forces.md) | Purple Heart: limitation to members of the armed forces. |
 | [1132\.](%C2%A7%2001132%20-%20Presentation%20of%20decorations%20prohibition%20on%20entering%20correctional%20facilities%20for%20presentation%20to%20prisoners%20convicted%20of%20serious%20violent%E2%80%A6.md) | Presentation of decorations: prohibition on entering correctional facilities for presentation to prisoners convicted of serious violent felonies. |
-| [1133\.](%C2%A7%2001133%20-%20Bronze%20Star%20limitation%20to%20members%20receiving%20imminent%20danger%20pay.md) | Bronze star: limitation to members receiving imminent danger pay. |
+| [1133\.](%C2%A7%2001133%20-%20Bronze%20Star%20limitation%20on%20persons%20eligible%20to%20receive.md) | Bronze Star: limitation on persons eligible to receive. |
 | [1134\.](%C2%A7%2001134%20-%20Medal%20of%20honor%20award%20to%20individual%20interred%20in%20Tomb%20of%20the%20Unknowns%20as%20representative%20of%20casualties%20of%20a%20war.md) | Medal of honor: award to individual interred in Tomb of the Unknowns as representative of casualties of a war. |
 | [1135\.](%C2%A7%2001135%20-%20Replacement%20of%20military%20decorations.md) | Replacement of military decorations. |
 
@@ -22,33 +22,35 @@
 
 #### Amendments
 
-2008—Pub. L. 110–417, \[div. A\], title V, §571(b), Oct. 14, 2008, 122 Stat. 4472, added item 1135.
+<b>2011</b>—Pub. L. 111–383, div. A, title V, §571(b), Jan. 7, 2011, 124 Stat. 4223, added item 1133 and struck out former item 1133 “Bronze star: limitation to members receiving imminent danger pay”.
 
-2004—Pub. L. 108–375, div. A, title V, §561(b), Oct. 28, 2004, 118 Stat. 1918, added item 1134.
+<b>2008</b>—Pub. L. 110–417, \[div. A\], title V, §571(b), Oct. 14, 2008, 122 Stat. 4472, added item 1135.
 
-2003—Pub. L. 108–136, div. A, title X, §1031(a)(10)(B), Nov. 24, 2003, 117 Stat. 1597, struck out “and recommendation” after “review” in item 1130.
+<b>2004</b>—Pub. L. 108–375, div. A, title V, §561(b), Oct. 28, 2004, 118 Stat. 1918, added item 1134.
 
-2000—Pub. L. 106–398, §1 \[\[div. A\], title V, §541(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–114, added item 1133.
+<b>2003</b>—Pub. L. 108–136, div. A, title X, §1031(a)(10)(B), Nov. 24, 2003, 117 Stat. 1597, struck out “and recommendation” after “review” in item 1130.
 
-1998—Pub. L. 105–261, div. A, title V, §537(b), Oct. 17, 1998, 112 Stat. 2019, added item 1132.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title V, §541(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–114, added item 1133.
 
-1997—Pub. L. 105–85, div. A, title V, §571(a)(2), Nov. 18, 1997, 111 Stat. 1756, added item 1131.
+<b>1998</b>—Pub. L. 105–261, div. A, title V, §537(b), Oct. 17, 1998, 112 Stat. 2019, added item 1132.
 
-1996—Pub. L. 104–106, div. A, title V, §526(b), Feb. 10, 1996, 110 Stat. 314, added item 1130.
+<b>1997</b>—Pub. L. 105–85, div. A, title V, §571(a)(2), Nov. 18, 1997, 111 Stat. 1756, added item 1131.
 
-1993—Pub. L. 103–160, div. A, title XI, §1141(b), Nov. 30, 1993, 107 Stat. 1757, added item 1129.
+<b>1996</b>—Pub. L. 104–106, div. A, title V, §526(b), Feb. 10, 1996, 110 Stat. 314, added item 1130.
 
-1985—Pub. L. 99–145, title V, §532(a)(2), title XII, §1225(a)(2)(B), Nov. 8, 1985, 99 Stat. 634, 730, inserted “disclosures,” and substituted “and” for “or” in item 1124, and added item 1128.
+<b>1993</b>—Pub. L. 103–160, div. A, title XI, §1141(b), Nov. 30, 1993, 107 Stat. 1757, added item 1129.
 
-1984—Pub. L. 98–525, title V, §553(b), Oct. 19, 1984, 98 Stat. 2532, added item 1127.
+<b>1985</b>—Pub. L. 99–145, title V, §532(a)(2), title XII, §1225(a)(2)(B), Nov. 8, 1985, 99 Stat. 634, 730, inserted “disclosures,” and substituted “and” for “or” in item 1124, and added item 1128.
 
-1966—Pub. L. 89–718, §9, Nov. 2, 1966, 80 Stat. 1117, redesignated item 1124, added by Pub. L. 89–534, §1(2), Aug. 11, 1966, 80 Stat. 345, as 1126.
+<b>1984</b>—Pub. L. 98–525, title V, §553(b), Oct. 19, 1984, 98 Stat. 2532, added item 1127.
+
+<b>1966</b>—Pub. L. 89–718, §9, Nov. 2, 1966, 80 Stat. 1117, redesignated item 1124, added by Pub. L. 89–534, §1(2), Aug. 11, 1966, 80 Stat. 345, as 1126.
 
 Pub. L. 89–534, §1(2), Aug. 11, 1966, 80 Stat. 345, added item 1124, relating to eligibility for and distribution of gold star lapel button.
 
 Pub. L. 89–529, §1(2), Aug. 11, 1966, 80 Stat. 339, added item 1125.
 
-1965—Pub. L. 89–198, §1(2), Sept. 22, 1965, 79 Stat. 831, added item 1124, relating to payment of cash awards for members of armed forces for suggestions, inventions, or scientific achievements.
+<b>1965</b>—Pub. L. 89–198, §1(2), Sept. 22, 1965, 79 Stat. 831, added item 1124, relating to payment of cash awards for members of armed forces for suggestions, inventions, or scientific achievements.
 
 #### Promotional Materials and Recognition Items for Participants in Operation Enduring Freedom or Operation Iraqi Freedom
 
@@ -144,7 +146,7 @@ By virtue of the authority vested in me as President of the United States of Ame
 
 Section 1. There is hereby established a Defense Superior Service Medal with accompanying ribbons and appurtenances for award by the Secretary of Defense to any member of the Armed Forces of the United States who has rendered superior meritorious service in a position of significant responsibility with the Office of the Secretary of Defense, the Organization of the Joint Chiefs of Staff, a specified or unified command, a Defense agency, or such other joint activity as may be designated by the Secretary of Defense.
 
-Sec. 2. The Defense Superior Service Medal and appurtenances thereto shall be of appropriate design approved by the Secretary of Defense and shall be awarded under such regulations as he shall prescribe. These regulations shall place the Defense Superior Service Medal in an order of precedence after the Medal of Honor, the Distinguished Service Cross, the Defense Distinguished Service Medal, the Distinguished Service Medal and the Silver Star Medal, but before the Legion of Merit.
+Sec. 2. The Defense Superior Service Medal and appurtenances thereto shall be of appropriate design approved by the Secretary of Defense and shall be awarded under such regulations as he shall prescribe. These regulations shall place the Defense Superior Service Medal in an order of precedence after the Medal ofHonor, the Distinguished Service Cross, the Defense Distinguished Service Medal, the Distinguished Service Medal and the Silver Star Medal, but before the Legion of Merit.
 
 Sec. 3. No more than one Defense Superior Service Medal shall be awarded to any one person, but for each succeeding period of superior meritorious service justifying such an award, a suitable device may be awarded to be worn with that Medal as prescribed by appropriate regulations of the Department of Defense.
 
@@ -168,7 +170,7 @@ Sec. 4. Upon award, the Vice Presidential Service Badge may be worn as a part of
 
 Sec. 5. Only one Vice Presidential Service Badge shall be awarded to an individual. It may be awarded posthumously. No award shall be made to an individual under this Order based on a period of service with respect to which, in whole or in part, the individual was awarded the Presidential Service Badge.
 
-Sec. 6. Notwithstanding the provisions of Sections 1 and 2 of this Order, any member of the Army, Navy, Air Force, Marine Corps, Coast Guard, commissioned corps of the National Oceanic and Atmospheric Administration, and commissioned corps of the Public Health Service, who has been assigned to duty in the Office of the Vice President, or who has been assigned to perform duties predominantly for the Vice President, in the implementation of Public Law 93–346, as amended, or in military units and support facilities to which section 1 of Executive Order 12793, as amended, refers,,\[sic\]is authorized, unless otherwise directed by the Director of the White House Military Office in the case of personnel in military units or support facilities to which section 1 of Executive Order 12793, as amended, refers, to wear the Vice Presidential Service Badge on his or her uniform commencing on the first day of such duty and thereafter while assigned to such duty.
+Sec. 6. Notwithstanding the provisions of Sections 1 and 2 of this Order, any member of the Army, Navy, Air Force, Marine Corps, Coast Guard, commissioned corps of the National Oceanic and Atmospheric Administration, and commissioned corps of the Public Health Service, who has been assigned to duty in the Office of the Vice President, or who has been assigned to perform duties predominantly for the Vice President, in the implementation of Public Law 93–346, as amended, or in military units and support facilities to which section 1 of Executive Order 12793, as amended, refers,,\[sic\] is authorized, unless otherwise directed by the Director of the White House Military Office in the case of personnel in military units or support facilities to which section 1 of Executive Order 12793, as amended, refers, to wear the Vice Presidential Service Badge on his or her uniform commencing on the first day of such duty and thereafter while assigned to such duty.
 
 Sec. 7. Executive Order No. 11544 of July 8, 1970, is hereby superseded; however, individuals previously awarded a Vice Presidential Service Badge under that Order are authorized to continue to wear such badge as part of their uniform.
 
@@ -192,7 +194,7 @@ Ex. Ord. No. 12019, Nov. 3, 1977, 42 F.R. 57945, provided:
 
 By virtue of the authority vested in me as President of the United States of America, and as Commander in Chief of the Armed Forces, it is hereby ordered as follows:
 
-Section 1. There is hereby established a Defense Meritorious Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Defense to any member of the Armed Forces of the United States who has rendered outstanding non-combat meritorious achievement or service while assigned to the Office of the Secretary of Defense, the Organization of the Joint Chiefs of Staff, a specified or unified command, a Defense agency, or other such joint activity as may be designated by the Secretary of Defense.
+Section 1. There is hereby established a Defense Meritorious Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Defense to any member of the Armed Forces of the United States who has rendered outstanding non-combat meritorious achievement or service while assigned to theOffice of the Secretary of Defense, the Organization of the Joint Chiefs of Staff, a specified or unified command, a Defense agency, or other such joint activity as may be designated by the Secretary of Defense.
 
 Sec. 2. The Defense Meritorious Service Medal, with accompanying ribbons and appurtenances, shall be of appropriate design approved by the Secretary of Defense and shall be awarded under such regulations as the Secretary of Defense may prescribe. These regulations shall place the Defense Meritorious Service Medal in an order of precedence after the Medal of Honor, the Distinguished Service Cross, the Defense Distinguished Service Medal, the Distinguished Service Medal, the Silver Star Medal, the Defense Superior Service Medal, the Legion of Merit Medal, and the Bronze Star Medal, but before the Meritorious Service Medal.
 
@@ -224,7 +226,7 @@ Ex. Ord. No. 12830, Jan. 9, 1993, 58 F.R. 4061, as amended by Ex. Ord. No. 13286
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and as Commander in Chief of the Armed Forces, it is hereby ordered as follows:
 
-Section 1. There is hereby established a Military Outstanding Volunteer Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Defense or, with respect to the Coast Guard when it is not operating as a service in the Navy,the Secretary of Homeland Security. Members of the Armed Forces of the United States (including Reserve components) who perform outstanding volunteer service to the civilian community of a sustained, direct, and consequential nature are eligible for the medal.
+Section 1. There is hereby established a Military Outstanding Volunteer Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Defense or, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security. Members of the Armed Forces of the United States (including Reserve components) who perform outstanding volunteer service to the civilian community of a sustained, direct, and consequential nature are eligible for the medal.
 
 Sec. 2. The Military Outstanding Volunteer Service Medal and ribbons and appurtenances thereto shall be of appropriate design approved by the Secretary of Defense. The Secretary of Defense shall prescribe regulations to govern the award and wear of the Military Outstanding Volunteer Service Medal. The regulations shall place the Military Outstanding Volunteer Service Medal in order of precedence immediately after the Humanitarian Service Medal.
 
@@ -285,6 +287,6 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [&sect; 01130 - Consideration of proposals for decorations not previously submitted in timely fashion procedures for review](%C2%A7%2001130%20-%20Consideration%20of%20proposals%20for%20decorations%20not%20previously%20submitted%20in%20timely%20fashion%20procedures%20for%20review.md)
 - [&sect; 01131 - Purple Heart limitation to members of the armed forces](%C2%A7%2001131%20-%20Purple%20Heart%20limitation%20to%20members%20of%20the%20armed%20forces.md)
 - [&sect; 01132 - Presentation of decorations prohibition on entering correctional facilities for presentation to prisoners convicted of serious violent&#8230;](%C2%A7%2001132%20-%20Presentation%20of%20decorations%20prohibition%20on%20entering%20correctional%20facilities%20for%20presentation%20to%20prisoners%20convicted%20of%20serious%20violent%E2%80%A6.md)
-- [&sect; 01133 - Bronze Star limitation to members receiving imminent danger pay](%C2%A7%2001133%20-%20Bronze%20Star%20limitation%20to%20members%20receiving%20imminent%20danger%20pay.md)
+- [&sect; 01133 - Bronze Star limitation on persons eligible to receive](%C2%A7%2001133%20-%20Bronze%20Star%20limitation%20on%20persons%20eligible%20to%20receive.md)
 - [&sect; 01134 - Medal of honor award to individual interred in Tomb of the Unknowns as representative of casualties of a war](%C2%A7%2001134%20-%20Medal%20of%20honor%20award%20to%20individual%20interred%20in%20Tomb%20of%20the%20Unknowns%20as%20representative%20of%20casualties%20of%20a%20war.md)
 - [&sect; 01135 - Replacement of military decorations](%C2%A7%2001135%20-%20Replacement%20of%20military%20decorations.md)

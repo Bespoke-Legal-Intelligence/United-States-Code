@@ -34,15 +34,15 @@ Provisions similar to those in this section were contained in section 3254e of t
 
 #### Amendments
 
-1996—Subsec. (a)(4). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
+<b>1996</b>—Subsec. (a)(4). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
-1980—Subsec. (a)(1)(A). Pub. L. 96–482, §23(1), inserted reference to any unit of the legislative branch of the Federal Government.
+<b>1980</b>—Subsec. (a)(1)(A). Pub. L. 96–482, §23(1), inserted reference to any unit of the legislative branch of the Federal Government.
 
 Subsec. (a)(2). Pub. L. 96–482, §23(2), required any unit of the legislative branch of the Federal Government to insure compliance with solid waste disposal guidelines.
 
 Subsec. (a)(4). Pub. L. 96–482, §23(3), required House Committee on House Administration and Senate Committee on Rules and Administration with regard to any unit of the legislative branch of the Federal Government to prescribe implementing regulations.
 
-1978—Subsec. (a)(1). Pub. L. 95–609, §7(<i>o</i>)(1), (2), substituted “management” for “disposal” in two places.
+<b>1978</b>—Subsec. (a)(1). Pub. L. 95–609, §7(<i>o</i>)(1), (2), substituted “management” for “disposal” in two places.
 
 Subsec. (b). Pub. L. 95–609, §7(<i>o</i>)(3), substituted “Administrator” for “Secretary”.
 

@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;(II) the nature of any transaction made by the subscriber over the cable system of the cable operator; or
 
-&emsp;(D) to a government entity as authorized under chapters 119, 121, or 206 of title 18, except that such disclosure shall not includerecords revealing cable subscriber selection of video programming from a cable operator.
+&emsp;(D) to a government entity as authorized under chapters 119, 121, or 206 of title 18, except that such disclosure shall not include records revealing cable subscriber selection of video programming from a cable operator.
 
 #### (d) Subscriber access to information
 
@@ -98,11 +98,11 @@ For “the effective date of this section”, referred to in subsec. (a)(1), as 
 
 #### Amendments
 
-2001—Subsec. (c)(2)(D). Pub. L. 107–56, §211(1), added subpar. (D).
+<b>2001</b>—Subsec. (c)(2)(D). Pub. L. 107–56, §211(1), added subpar. (D).
 
 Subsec. (h). Pub. L. 107–56, §211(2), substituted “Except as provided in subsection (c)(2)(D) of this section, a governmental entity” for “A governmental entity” in introductory provisions.
 
-1992—Subsec. (a)(2). Pub. L. 102–385, §20(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For purposes of this section, the term ‘personally identifiable information’ does not include any record of aggregate data which does not identify particular persons.”
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–385, §20(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For purposes of this section, the term ‘personally identifiable information’ does not include any record of aggregate data which does not identify particular persons.”
 
 Subsec. (c)(1). Pub. L. 102–385, §20(b), inserted before period at end “and shall take such actions as are necessary to prevent unauthorized access to such information by a person other than the subscriber or cable operator”.
 

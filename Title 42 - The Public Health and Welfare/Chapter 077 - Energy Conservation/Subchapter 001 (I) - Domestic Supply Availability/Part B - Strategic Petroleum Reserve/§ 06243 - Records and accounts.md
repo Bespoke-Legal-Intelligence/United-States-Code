@@ -16,5 +16,5 @@ The Secretary may require access to, and the right to inspect and examine, at re
 
 #### Amendments
 
-1978—Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+<b>1978</b>—Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 

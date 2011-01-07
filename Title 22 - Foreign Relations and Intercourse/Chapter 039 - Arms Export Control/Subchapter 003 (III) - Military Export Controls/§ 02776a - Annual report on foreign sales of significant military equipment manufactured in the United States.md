@@ -30,7 +30,7 @@ Section was enacted as part of the John Warner National Defense Authorization Ac
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–181 made technical amendment to reference in original act which appears in text as reference to section 2794(9) of this title.
+<b>2008</b>—Subsec. (d). Pub. L. 110–181 made technical amendment to reference in original act which appears in text as reference to section 2794(9) of this title.
 
 #### Effective Date of 2008 Amendment
 

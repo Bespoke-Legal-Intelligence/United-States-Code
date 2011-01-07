@@ -10,5 +10,5 @@ The Secretary of Defense shall include in the annual report of the Secretary to 
 
 #### Amendments
 
-2006—Par. (1). Pub. L. 109–364 substituted “Phase” for “phase”.
+<b>2006</b>—Par. (1). Pub. L. 109–364 substituted “Phase” for “phase”.
 

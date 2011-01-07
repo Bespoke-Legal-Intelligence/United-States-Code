@@ -2,23 +2,17 @@
 
 #### (a) In general
 
-The United States shall be represented on the Commission by 5 United States Commissioners. The President shall appoint individuals to serve on the Commission at the pleasure of the President. In making the appointments, the President shall select Commissioners from among individuals who are knowledgeable or experienced concerning highly migratory fish stocks in the Western and Central Pacific Ocean, one of whom shall be an officer or employee of the Department of Commerce, and one of whom shall be the chairman or a member of the Western Pacific Fishery Management Council and the Pacific Fishery Management Council. The Commissioners shall be entitled to adopt such rules of procedures as they find necessary and to select a chairman from among members who are officers or employees of the United States Government.
+The United States shall be represented on the Commission by 5 United States Commissioners. The President shall appoint individuals to serve on the Commission at the pleasure of the President. In making the appointments, the President shall select Commissioners from among individuals who are knowledgeable or experienced concerning highly migratory fish stocks in the Western and Central Pacific Ocean, one of whom shall be an officer or employee of the Department of Commerce, and one of whom shall be the chairman or a member of the Western Pacific Fishery Management Council, and one of whom shall be the chairman or a member of the Pacific Fishery Management Council. The Commissioners shall be entitled to adopt such rules of procedures as they find necessary and to select a chairman from among members who are officers or employees of the United States Government.
 
 #### (b) Alternate Commissioners
 
-The Secretary of State, in consultation with the Secretary, may designate from time to time and for periods of time deemed appropriate Alternate United States Commissioners to the Commission. Any Alternate United States Commissioner may exercise at any meeting of the Commission, Council, any Panel, or the advisory committee established pursuant to subsection (d), all powers and duties of a United States Commissioner in the absence of any Commissioner appointed pursuant to subsection (a) of this section for whatever reason. The number of such Alternate United States Commissioners that may be designated for any such meeting shall be limited to the number of United States Commissioners appointed pursuant to subsection (a) of this section who will not be present at such meeting.
+The Secretary of State, in consultation with the Secretary, may designate from time to timeand for periods of time deemed appropriate Alternate United States Commissioners to the Commission. Any Alternate United States Commissioner may exercise at any meeting of the Commission, Council, any Panel, or the advisory committee established pursuant to subsection (d), all powers and duties of a United States Commissioner in the absence of any Commissioner appointed pursuant to subsection (a) of this section for whatever reason. The number of such Alternate United States Commissioners that may be designated for any such meeting shall be limited to the number of United States Commissioners appointed pursuant to subsection (a) of this section who will not be present at such meeting.
 
 #### (c) Administrative matters
 
 #### (1) Employment status
 
-&emsp;Individuals serving as such Commissioners, other than officers or employees of the United States Government, shall be considered to be Federal employees while performing such service, only for purposes of—
-
-&emsp;&emsp;(A) injury compensation under chapter 81 of title 5;
-
-&emsp;&emsp;(B) requirements concerning ethics, conflicts of interest, and corruption as provided under title 18; and
-
-&emsp;&emsp;(C) any other criminal or civil statute or regulation governing the conduct of Federal employees.
+&emsp;Individuals serving as such Commissioners, other than officers or employees of the United States Government, shall not be considered Federal employees except for the purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.
 
 #### (2) Compensation
 
@@ -42,7 +36,7 @@ The Secretary of State, in consultation with the Secretary, may designate from t
 
 &emsp;&emsp;&emsp;(ii) the chair of the Western Pacific Fishery Management Council's Advisory Committee or the chair's designee; and
 
-&emsp;&emsp;&emsp;(iii) officials of the fisheries management authorities of American Samoa,Guam, and the Northern Mariana Islands (or their designees).
+&emsp;&emsp;&emsp;(iii) officials of the fisheries management authorities of American Samoa, Guam, and the Northern Mariana Islands (or their designees).
 
 #### (B) Terms and privileges
 
@@ -68,13 +62,7 @@ The Secretary of State, in consultation with the Secretary, may designate from t
 
 &emsp;&emsp;&emsp;(i) shall serve without pay, but while away from their homes or regular places of business in the performance of services for the advisory committee shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5; and
 
-&emsp;&emsp;&emsp;(ii) shall be considered Federal employees while performing service as members of an advisory committee only for purposes of—
-
-&emsp;&emsp;&emsp;&emsp;(I) injury compensation under chapter 81 of title 5;
-
-&emsp;&emsp;&emsp;&emsp;(II) requirements concerning ethics, conflicts-of-interest, and corruption, as provided by title 18; and
-
-&emsp;&emsp;&emsp;&emsp;(III) any other criminal or civil statute or regulation governing the conduct of Federal employees in their capacity as Federal employees.
+&emsp;&emsp;&emsp;(ii) shall not be considered Federal employees except for the purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.
 
 #### (f) <sup>3</sup> Memorandum of understanding
 
@@ -88,7 +76,27 @@ For highly migratory species in the Pacific, the Secretary, in coordination with
 
 &emsp;(4) recommending those domestic fishing regulations that are consistent with the actions of the international fishery organization, for approval and implementation under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.)
 
-(Pub. L. 109–479, title V, §503, Jan. 12, 2007, 120 Stat. 3636.)
+(Pub. L. 109–479, title V, §503, Jan. 12, 2007, 120 Stat. 3636; Pub. L. 111–348, title III, §301, Jan. 4, 2011, 124 Stat. 3672.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (a). Pub. L. 111–348, §301(1), substituted “Management Council, and one of whom shall be the chairman or a member of” for “Management Council and”.
+
+Subsec. (c)(1). Pub. L. 111–348, §301(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Individuals serving as such Commissioners, other than officers or employees of the United States Government, shall be considered to be Federal employees while performing such service, only for purposes of—
+
+&emsp;“(A) injury compensation under chapter 81 of title 5;
+
+&emsp;“(B) requirements concerning ethics, conflicts of interest, and corruption as provided under title 18; and
+
+&emsp;“(C) any other criminal or civil statute or regulation governing the conduct of Federal employees.”
+
+Subsec. (d)(2)(B)(ii). Pub. L. 111–348, §301(3), added cl. (ii) and struck out former cl. (ii) which read as follows: “shall be considered Federal employees while performing service as members of an advisory committee only for purposes of—
+
+&emsp;“(I) injury compensation under chapter 81 of title 5;
+
+&emsp;“(II) requirements concerning ethics, conflicts-of-interest, and corruption, as provided by title 18; and
+
+&emsp;“(III) any other criminal or civil statute or regulation governing the conduct of Federal employees in their capacity as Federal employees.”
 
 #### References in Text
 

@@ -12,7 +12,7 @@ Additional Responsibilities of Chief Information Officer of Department of Defens
 
 &emsp;(4) provide for the elimination of duplicate information technology and national security systems within and between the military departments and Defense Agencies; and
 
-&emsp;(5) maintain a consolidated inventory of Department of Defense mission critical and mission essential information systems, identify interfaces between those systems and other information systems, and develop and maintaincontingency plans for responding to a disruption in the operation of any of those information systems.
+&emsp;(5) maintain a consolidated inventory of Department of Defense mission critical and mission essential information systems, identify interfaces between those systems and other information systems, and develop and maintain contingency plans for responding to a disruption in the operation of any of those information systems.
 
 (b)
 
@@ -40,17 +40,47 @@ Definitions.—In this section:
 
 #### Amendments
 
-2006—Subsec. (c)(3). Pub. L. 109–364 substituted “section 3542(b)(2) of title 44” for “section 11103 of title 40”.
+<b>2006</b>—Subsec. (c)(3). Pub. L. 109–364 substituted “section 3542(b)(2) of title 44” for “section 11103 of title 40”.
 
-2002—Subsecs. (a), (b). Pub. L. 107–217, §3(b)(1)(A), (B), substituted “section 11315 of title 40” for “section 5125 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1425)” in introductory provisions.
+<b>2002</b>—Subsecs. (a), (b). Pub. L. 107–217, §3(b)(1)(A), (B), substituted “section 11315 of title 40” for “section 5125 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1425)” in introductory provisions.
 
 Subsec. (c)(2). Pub. L. 107–217, §3(b)(1)(C), substituted “section 11101 of title 40” for “section 5002 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401)”.
 
 Subsec. (c)(3). Pub. L. 107–217, §3(b)(1)(D), substituted “section 11103 of title 40” for “section 5142 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1452)”.
 
-2000—Subsec. (a)(5). Pub. L. 106–398 added par. (5).
+<b>2000</b>—Subsec. (a)(5). Pub. L. 106–398 added par. (5).
 
 #### Effective Date
 
 Pub. L. 105–261, div. A, title III, §331(b), Oct. 17, 1998, 112 Stat. 1968, provided that: “Section 2223 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1998.”
+
+#### Continuous Monitoring of Department of Defense Information Systems for Cybersecurity
+
+Pub. L. 111–383, div. A, title IX, §931, Jan. 7, 2011, 124 Stat. 4334, provided that:
+
+“(a)
+
+In General.—The Secretary of Defense shall direct the Chief Information Officer of the Department of Defense to work, in coordination with the Chief Information Officers of the military departments and the Defense Agencies and with senior cybersecurity and information assurance officials within the Department of Defense and otherwise within the Federal Government, to achieve, to the extent practicable, the following:
+
+&emsp;“(1) The continuous prioritization of the policies, principles, standards, and guidelines developed under section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3) with agencies and offices operating or exercising control of national security systems (including the National Security Agency) based upon the evolving threat of information security incidents with respect to national security systems, the vulnerability of such systems to such incidents, and the consequences of information security incidents involving such systems.
+
+&emsp;“(2) The automation of continuous monitoring of the effectiveness of the information security policies, procedures, and practices within the information infrastructure of the Department of Defense, and the compliance of that infrastructure with such policies, procedures, and practices, including automation of—
+
+&emsp;&emsp;“(A) management, operational, and technical controls of every information system identified in the inventory required under section 3505(c) of title 44, United States Code; and
+
+&emsp;&emsp;“(B) management, operational, and technical controls relied on for evaluations under section 3545 of title 44, United States Code.
+
+“(b)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘information security incident’ means an occurrence that—
+
+&emsp;&emsp;“(A) actually or potentially jeopardizes the confidentiality, integrity, or availability of an information system or the information such system processes, stores, or transmits; or
+
+&emsp;&emsp;“(B) constitutes a violation or imminent threat of violation of security policies, security procedures, or acceptable use policies with respect to an information system.
+
+&emsp;“(2) The term ‘information infrastructure’ means the underlying framework, equipment, and software that an information system and related assets rely on to process, transmit, receive, or store information electronically.
+
+&emsp;“(3) The term ‘national security system’ has the meaning given that term in section 3542(b)(2) of title 44, United States Code.”
 

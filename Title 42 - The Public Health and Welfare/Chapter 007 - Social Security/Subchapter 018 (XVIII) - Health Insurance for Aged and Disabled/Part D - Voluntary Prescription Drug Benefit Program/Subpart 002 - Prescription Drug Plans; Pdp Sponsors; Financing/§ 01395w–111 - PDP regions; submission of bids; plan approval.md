@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;A PDP sponsor shall submit to the Secretary information described in paragraph (2) with respect to each prescription drug plan it offers. Such information shall be submitted at the same time and in a similar manner to the manner in which information described in paragraph (6) of section 1395w–24(a) of this title is submitted by an MA organization under paragraph (1) of such section.
+&emsp;A PDP sponsor shall submit to the Secretary information described in paragraph (2) with respect to each prescription drug plan it offers. Such information shall be submitted at the same time and in a similar manner to the manner in which information described in paragraph (6) of section 1395w–24(a) of thistitle is submitted by an MA organization under paragraph (1) of such section.
 
 #### (2) Information described
 
@@ -132,6 +132,10 @@
 
 &emsp;&emsp;(B) has authority similar to the authority of the Director of the Office of Personnel Management with respect to health benefits plans under chapter 89 of title 5.
 
+#### (3) Rejection of bids
+
+&emsp;Paragraph (5)(C) of section 1395w–24(a) of this title shall apply with respect to bids submitted by a PDP sponsor under subsection (b) in the same manner as such paragraph applies to bids submitted by an MA organization under such section 1395w–24(a) of this title.
+
 #### (e) Approval of proposed plans
 
 #### (1) In general
@@ -182,7 +186,7 @@
 
 #### (A) Limited exercise of authority
 
-&emsp;&emsp;Only the minimum number of such plans may be approved in order to meet the accessrequirements under section 1395w–103(a) of this title.
+&emsp;&emsp;Only the minimum number of such plans may be approved in order to meet the access requirements under section 1395w–103(a) of this title.
 
 #### (B) Maximizing assumption of risk
 
@@ -228,7 +232,7 @@
 
 #### (iii) Competitive procedures
 
-&emsp;&emsp;&emsp;Competitive procedures (as defined in section 403(5) of title 41) shall be used to enter into a contract under this subsection. The provisions of subsection (d) of section 1395kk–1 of this title shall apply to a contract under this section in the same manner as they apply to a contract under such section.
+&emsp;&emsp;&emsp;Competitive procedures (as defined in section 132 of title 41) shall be used to enter into a contract under this subsection. The provisions of subsection (d) of section 1395kk–1 of this title shall apply to a contract under this section in the same manner as they apply to a contract under such section.
 
 #### (iv) Timing
 
@@ -330,11 +334,23 @@ In order to promote competition under this part and in carrying out this part, t
 
 A PDP sponsor offering a prescription drug plan shall permit State Pharmaceutical Assistance Programs and Rx plans under sections 1395w–133 and 1395w–134 of this title to coordinate benefits with the plan and, in connection with such coordination with such a Program, not to impose fees that are unrelated to the cost of coordination.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–11, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2092.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–11, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2092; amended Pub. L. 111–148, title III, §3209(b), Mar. 23, 2010, 124 Stat. 460.)
 
 #### References in Text
 
-Section 1395w–115(e)(2)(B)(iii) of this title, referred to in subsec. (b)(2)(E)(ii)(I), was in the original “section 1869D–15(e)(2)(B)(iii)”, and was translated as reading “section 1860D–15(e)(2)(B)(iii)”, meaning 1860D–15(e)(2)(B)(iii) of the Social Security Act, to reflect the probable intent of Congress, because the Social Security Act does not contain a section 1869D–15and section 1395w–115(e)(2)(B)(iii) of this title provides for an application of a higher percentage for years 2006 and 2007.
+Section 1395w–115(e)(2)(B)(iii) of this title, referred to in subsec. (b)(2)(E)(ii)(I), was in the original “section 1869D–15(e)(2)(B)(iii)”, and was translated as reading “section 1860D–15(e)(2)(B)(iii)”, meaning 1860D–15(e)(2)(B)(iii) of the Social Security Act, to reflect the probable intent of Congress, because the Social Security Act does not contain a section 1869D–15 and section 1395w–115(e)(2)(B)(iii) of this title provides for an application of a higher percentage for years 2006 and 2007.
+
+#### Codification
+
+In subsec. (g)(1)(B)(iii), “section 132 of title 41” substituted for “section 4(5) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(5))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (d)(3). Pub. L. 111–148 added par. (3).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–148 applicable to bids submitted for contract years beginning on or after Jan. 1, 2011, see section 3209(c) of Pub. L. 111–148, set out as a note under section 1395w–24 of this title.
 
 #### Study Regarding Regional Variations in Prescription Drug Spending
 

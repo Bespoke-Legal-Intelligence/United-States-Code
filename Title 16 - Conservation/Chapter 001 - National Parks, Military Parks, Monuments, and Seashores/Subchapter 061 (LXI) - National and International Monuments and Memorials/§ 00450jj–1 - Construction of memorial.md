@@ -2,7 +2,7 @@
 
 #### (a) Plan; contracts; employment and compensation of personnel
 
-The memorial authorized herein shall be constructed in general, in accordance with the planapproved by the United States Territorial Expansion Memorial Commission on May 25, 1948. The Secretary of the Interior is authorized to enter into such contracts as may be necessary to carry out the purposes of sections 450jj to 450jj–9 of this title. The Secretary is also authorized to employ, in his discretion, by contract or otherwise, landscape architects, architects, engineers, sculptors, artists, other expert consultants, or firms, partnerships, or associations thereof, and to include in any such contract provision for the utilization of the services and facilities, and the payment of the travel and other expenses, of their respective organizations, in accordance with the usual customs of the several professions and at the prevailing rates for such services and facilities, without regard to the civil-service laws or regulations, chapter 51 and subchapter III of chapter 53 of title 5, section 5 of title 41, or any other law or regulation relating to either employment or compensation.
+The memorial authorized herein shall be constructed in general, in accordance with the plan approved by the United States Territorial Expansion Memorial Commission on May 25, 1948. The Secretary of the Interior is authorized to enter into such contracts as may be necessary to carry out the purposes of sections 450jj to 450jj–9 of this title. The Secretary is also authorized to employ, in his discretion, by contract or otherwise, landscape architects, architects, engineers, sculptors, artists, other expert consultants, or firms, partnerships, or associations thereof, and to include in any such contract provision for the utilization of the services and facilities, and the payment of the travel and other expenses, of their respective organizations, in accordance with the usual customs of the several professions and at the prevailing rates for such services and facilities, without regard to the civil-service laws or regulations, chapter 51 and subchapter III of chapter 53 of title 5, section 6101 oftitle 41, or any other law or regulation relating to either employment or compensation.
 
 #### (b) Easements; above-ground parking
 
@@ -18,9 +18,9 @@ The Secretary of the Interior is authorized to grant easements for the purpose o
 
 Herein, referred to in subsec. (a), means act May 17, 1954, which is generally classified to sections 450jj to 450jj–9 of this title. For complete classification of this Act to the Code, see Tables.
 
-The civil-service laws, referred to in subsec. (a), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 #### Codification
 
 In subsec. (a), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+
+In subsec. (a), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes, as amended” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

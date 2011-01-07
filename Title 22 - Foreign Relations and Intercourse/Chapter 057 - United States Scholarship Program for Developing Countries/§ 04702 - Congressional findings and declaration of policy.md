@@ -22,7 +22,7 @@ The Congress finds and declares that—
 
 #### Amendments
 
-1993—Pars. (6) to (10). Pub. L. 103–199 redesignated pars. (8) to (10) as (6) to (8), respectively, and struck out former pars. (6) and (7) which read as follows:
+<b>1993</b>—Pars. (6) to (10). Pub. L. 103–199 redesignated pars. (8) to (10) as (6) to (8), respectively, and struck out former pars. (6) and (7) which read as follows:
 
 “(6) the number of United States Government-sponsored scholarships for students in developing countries has been exceeded as much as twelve times in a given year by the number of scholarships offered by Soviet-bloc governments to students in developing countries, and this disparity entails the serious long-run cost of having so many of the potential future leaders of the developing world educated in Soviet-bloc countries;
 

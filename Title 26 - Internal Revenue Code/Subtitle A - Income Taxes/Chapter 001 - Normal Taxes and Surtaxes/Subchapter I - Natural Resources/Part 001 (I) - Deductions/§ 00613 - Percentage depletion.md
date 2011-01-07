@@ -124,29 +124,29 @@ Except as provided in section 613A, in the case of any oil or gas well, the allo
 
 #### Amendments
 
-2005—Subsec. (c)(4)(H). Pub. L. 109–135 inserted “(including in situ retorting)” after “and retorting”.
+<b>2005</b>—Subsec. (c)(4)(H). Pub. L. 109–135 inserted “(including in situ retorting)” after “and retorting”.
 
-2004—Subsec. (a). Pub. L. 108–357, which directed the insertion of “and without the deduction under section 199” after “without allowances for depletion”, was executed by making the insertion after “without allowance for depletion”, to reflect the probable intent of Congress.
+<b>2004</b>—Subsec. (a). Pub. L. 108–357, which directed the insertion of “and without the deduction under section 199” after “without allowances for depletion”, was executed by making the insertion after “without allowance for depletion”, to reflect the probable intent of Congress.
 
-1996—Subsec. (e)(1)(B). Pub. L. 104–188 substituted “subsection (b).” for “subsection (b),”.
+<b>1996</b>—Subsec. (e)(1)(B). Pub. L. 104–188 substituted “subsection (b).” for “subsection (b),”.
 
-1990—Subsec. (a). Pub. L. 101–508, §11522(a), inserted “(100 percent in the case of oil and gas properties)” after “50 percent”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §11522(a), inserted “(100 percent in the case of oil and gas properties)” after “50 percent”.
 
 Subsec. (e)(1)(B). Pub. L. 101–508, §11815(b)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the applicable percentage (determined under the table contained in paragraph (2)) shall be deemed to be the percentage specified in subsection (b).”
 
 Subsec. (e)(2) to (4). Pub. L. 101–508, §11815(b)(1), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which related to the applicable percentage depletion for geothermal deposits.
 
-1986—Subsec. (e)(4). Pub. L. 99–514 added par. (4).
+<b>1986</b>—Subsec. (e)(4). Pub. L. 99–514 added par. (4).
 
-1978—Subsec. (c)(1). Pub. L. 95–618, §403(a)(2)(A), inserted “and other than a geothermal deposit” after “oil or gas well”.
+<b>1978</b>—Subsec. (c)(1). Pub. L. 95–618, §403(a)(2)(A), inserted “and other than a geothermal deposit” after “oil or gas well”.
 
 Subsec. (e). Pub. L. 95–618, §403(a)(1), added subsec. (e).
 
-1976—Subsec. (a). Pub. L. 94–455, §1901(b)(3)(K), substituted “ordinary income” for “gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1901(b)(3)(K), substituted “ordinary income” for “gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231”.
 
 Subsec. (c)(2), (4)(I). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1975—Subsec. (b)(1). Pub. L. 94–12, §501(b)(2)(A), struck out subpar. (A) “oil and gas wells” and redesignated former subpars. (B) and (C) as (A) and (B), respectively.
+<b>1975</b>—Subsec. (b)(1). Pub. L. 94–12, §501(b)(2)(A), struck out subpar. (A) “oil and gas wells” and redesignated former subpars. (B) and (C) as (A) and (B), respectively.
 
 Subsec. (b)(3), (4). Pub. L. 94–12, §501(b)(2)(B), substituted “(1)(B)” for “(1)(C)” wherever appearing.
 
@@ -154,13 +154,13 @@ Subsec. (b)(7). Pub. L. 94–12, §501(b)(2) (B), (C), substituted “(1)(B)” 
 
 Subsec. (d). Pub. L. 94–12, §501(b)(1), substituted provisions denying the percentage depletion allowance in the case of oil and gas wells except as provided in section 613A for provisions governing the application of percentage depletion rates to certain taxable years ending in 1954.
 
-1974—Subsec. (c)(4)(E). Pub. L. 93–499 inserted reference to decarbonation of trona.
+<b>1974</b>—Subsec. (c)(4)(E). Pub. L. 93–499 inserted reference to decarbonation of trona.
 
-1969—Subsec. (b). Pub. L. 91–172, §501(a), reduced the percentage depletion rate on oil and gas wells from 271/2 percent to 22 percent, reduced to 22 percent other minerals formerly receiving percentage depletion at a rateof 23 percent, added molybdenum in the category of minerals subject to the 22 percent depletion rate, reduced to 14 percent the rate on minerals formerly receiving depletion at a 15 percent rate except in the case of domestic gold, silver, oil shale, copper, and iron ore, and inserted provision that for percentage depletion purposes, minerals other than sodium chloride, extracted from brine pumped from a saline perennial lake within the United States are not to be considered minerals from an inexhaustible source.
+<b>1969</b>—Subsec. (b). Pub. L. 91–172, §501(a), reduced the percentage depletion rate on oil and gas wells from 271/2 percent to 22 percent, reduced to 22 percent other minerals formerly receiving percentage depletion at a rate of 23 percent, added molybdenum in the category of minerals subject to the 22 percent depletion rate, reduced to 14 percent the rate on minerals formerly receiving depletion at a 15 percent rate except in the case of domestic gold, silver, oil shale, copper, and iron ore, and inserted provision that for percentage depletion purposes, minerals other than sodium chloride, extracted from brine pumped from a saline perennial lake within the United States are not to be considered minerals from an inexhaustible source.
 
 Subsec. (c)(4)(H), (I). Pub. L. 91–172, §502(a), added subpar. (H) and redesignated former subpar. (H) as (I).
 
-1966—Subsec. (b)(2)(B). Pub. L. 89–809, §207(a)(1), inserted “clay, laterite, and nephelite syenite” after “anorthosite”.
+<b>1966</b>—Subsec. (b)(2)(B). Pub. L. 89–809, §207(a)(1), inserted “clay, laterite, and nephelite syenite” after “anorthosite”.
 
 Subsec. (b)(3)(B). Pub. L. 89–809, §§207(a)(2), 209(a)(2), substituted “if neither paragraph (2)(B), (5), or (6)(B) applies” for “if paragraph (5)(B) does not apply”.
 
@@ -172,11 +172,11 @@ Subsec. (b)(7). Pub. L. 89–809, §§208(a)(2), 209(a)(1), (5), redesignated pa
 
 Subsec. (c)(4)(G). Pub. L. 89–809, §209(b), substituted “paragraph (5) or (6)(B)” for “paragraph (5)(B)”.
 
-1964—Subsec. (b)(2)(B), (6). Pub. L. 88–571 inserted “beryllium” after “antimony” in par. (2)(B), and deleted “beryl” after “bauxite” in pars. (2)(B) and (6).
+<b>1964</b>—Subsec. (b)(2)(B), (6). Pub. L. 88–571 inserted “beryllium” after “antimony” in par. (2)(B), and deleted “beryl” after “bauxite” in pars. (2)(B) and (6).
 
-1962—Subsec. (a). Pub. L. 87–834 inserted provisions requiring the allowable deductions taken into account with respect to expenses of mining in computing the taxable income from the property to be decreased by an amount equal to so much of any gain which is treated under section 1245 as gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231, and is properly allocable to the property.
+<b>1962</b>—Subsec. (a). Pub. L. 87–834 inserted provisions requiring the allowable deductions taken into account with respect to expenses of mining in computing the taxable income from the property to be decreased by an amount equal to so much of any gain which is treated under section 1245 as gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231, and is properly allocable to the property.
 
-1960—Subsec. (b)(3). Pub. L. 86–564, §302(a)(1), limited the 15 percent allowance for ball clay, bentonite, china clay, and sagger clay to cases where paragraph (5)(B) does not apply, and authorized a 15 percent allowance, if paragraph (5)(B) does not apply, for clay used or sold for use for purposes dependent on its refractory properties.
+<b>1960</b>—Subsec. (b)(3). Pub. L. 86–564, §302(a)(1), limited the 15 percent allowance for ball clay, bentonite, china clay, and sagger clay to cases where paragraph (5)(B) does not apply, and authorized a 15 percent allowance, if paragraph (5)(B) does not apply, for clay used or sold for use for purposes dependent on its refractory properties.
 
 Subsec. (b)(5). Pub. L. 86–564, §302(a)(2), substituted provisions authorizing a 5 percent allowance for clay used, or sold for use, in the manufacture of building or paving brick, drainage and roofing tile, sewer pipe, flower pots, and kindred products for provisions which authorized a 5 percent allowance for brick and tile clay.
 
@@ -188,7 +188,7 @@ Subsec. (c)(4). Pub. L. 86–564, §302(b)(2), substituted “The following trea
 
 Subsec. (c)(5). Pub. L. 86–564, §302(b)(2), added par. (5).
 
-1958—Subsec. (d). Pub. L. 85–866 added subsec. (d).
+<b>1958</b>—Subsec. (d). Pub. L. 85–866 added subsec. (d).
 
 #### Effective Date of 2004 Amendment
 
@@ -306,7 +306,7 @@ Pub. L. 87–312, Sept. 26, 1961, 75 Stat. 674, provided for the election of, an
 
 #### Election for Quartzite and Clay Used in Production of Refractory Products
 
-Pub. L. 87–321, §2, Sept. 26, 1961, 75 Stat. 683, provided for an election of, and procedures for, a differing rate of depletion for quartzite and clay used in production of refractory products, such election to be effective on and after Jan. 1, 1951, for all taxable years beginning before Jan. 1, 1961, in respect of which the assessment of a deficiency, the refund or credit of an overpayment, or the commencement of a suit for recovery is not prevented on Sept. 26, 1961, by the operation of any law or rule of law, and also effective on and after Jan. 1, 1951, for any taxable year beginning before Jan. 1, 1961, in respect of which an assessment of a deficiency has been made but not collected on or before Sept. 26, 1961.
+Pub. L. 87–321, §2, Sept. 26, 1961, 75 Stat. 683, provided for an election of, and procedures for, a differing rate of depletion for quartzite and clay used in production of refractory products, such election to be effective on and after Jan. 1, 1951, for all taxable years beginning before Jan. 1, 1961, in respect of which the assessment of a deficiency, the refund or credit of an overpayment, or the commencement of a suit for recovery is not prevented on Sept. 26, 1961, by the operation of any law orrule of law, and also effective on and after Jan. 1, 1951, for any taxable year beginning before Jan. 1, 1961, in respect of which an assessment of a deficiency has been made but not collected on or before Sept. 26, 1961.
 
 #### Refund or Credit of Overpayments; Limitations; Interest
 

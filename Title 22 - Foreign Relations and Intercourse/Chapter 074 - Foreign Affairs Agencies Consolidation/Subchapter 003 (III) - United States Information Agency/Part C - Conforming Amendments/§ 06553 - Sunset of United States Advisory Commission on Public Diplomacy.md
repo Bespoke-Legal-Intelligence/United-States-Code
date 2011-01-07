@@ -10,15 +10,15 @@ Section 8 of Reorganization Plan Numbered 2 of 1977, referred to in text, is set
 
 #### Amendments
 
-2009—Pub. L. 111–70 substituted “October 1, 2010” for “October 1, 2009”.
+<b>2009</b>—Pub. L. 111–70 substituted “October 1, 2010” for “October 1, 2009”.
 
-2007—Pub. L. 110–21 substituted “October 1, 2009” for “October 1, 2006”.
+<b>2007</b>—Pub. L. 110–21 substituted “October 1, 2009” for “October 1, 2006”.
 
-2005—Pub. L. 109–108 substituted “October 1, 2006” for “October 1, 2005”.
+<b>2005</b>—Pub. L. 109–108 substituted “October 1, 2006” for “October 1, 2005”.
 
-2001—Pub. L. 107–77 substituted “October 1, 2005” for “October 1, 2001”.
+<b>2001</b>—Pub. L. 107–77 substituted “October 1, 2005” for “October 1, 2001”.
 
-1999—Pub. L. 106–113 amended section catchline and text generally, substituting present provisions for provisions which had abolished the United States Advisory Commission on Public Diplomacy, repealed section 1469 of this title, and amended Reorganization Plan No. 2 of 1977.
+<b>1999</b>—Pub. L. 106–113 amended section catchline and text generally, substituting present provisions for provisions which had abolished the United States Advisory Commission on Public Diplomacy, repealed section 1469 of this title, and amended Reorganization Plan No. 2 of 1977.
 
 #### Effective Date of 2001 Amendment
 

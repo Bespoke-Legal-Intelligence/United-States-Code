@@ -46,5 +46,5 @@ A prior section 307 of Pub. L. 93–288 was renumbered section 304 by Pub. L. 10
 
 #### Amendments
 
-2006—Subsec. (b)(3). Pub. L. 109–347 added par. (3).
+<b>2006</b>—Subsec. (b)(3). Pub. L. 109–347 added par. (3).
 

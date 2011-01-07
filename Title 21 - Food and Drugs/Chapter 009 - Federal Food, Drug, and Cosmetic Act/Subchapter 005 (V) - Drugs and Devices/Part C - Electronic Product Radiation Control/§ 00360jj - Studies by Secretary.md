@@ -2,7 +2,7 @@
 
 #### (a) Report to Congress
 
-The Secretary shall conduct the following studies, and shall make a report or reports ofthe results of such studies to the Congress on or before January 1, 1970, and from time to time thereafter as he may find necessary, together with such recommendations for legislation as he may deem appropriate:
+The Secretary shall conduct the following studies, and shall make a report or reports of the results of such studies to the Congress on or before January 1, 1970, and from time to time thereafter as he may find necessary, together with such recommendations for legislation as he may deem appropriate:
 
 (1) A study of present State and Federal control of health hazards from electronic product radiation and other types of ionizing radiation, which study shall include, but not be limited to—
 
@@ -42,9 +42,9 @@ Section was classified to section 263e of Title 42, The Public Health and Welfar
 
 #### Amendments
 
-1993—Pub. L. 103–80 amended directory language of Pub. L. 101–629, §19(a)(4), which renumbered section 263e of Title 42, The Public Health and Welfare, as this section.
+<b>1993</b>—Pub. L. 103–80 amended directory language of Pub. L. 101–629, §19(a)(4), which renumbered section 263e of Title 42, The Public Health and Welfare, as this section.
 
-1990—Subsec. (a)(3). Pub. L. 101–629, §19(a)(1)(B), substituted “this part” for “this subpart”.
+<b>1990</b>—Subsec. (a)(3). Pub. L. 101–629, §19(a)(1)(B), substituted “this part” for “this subpart”.
 
 #### Noninterference With Other Federal Agencies
 

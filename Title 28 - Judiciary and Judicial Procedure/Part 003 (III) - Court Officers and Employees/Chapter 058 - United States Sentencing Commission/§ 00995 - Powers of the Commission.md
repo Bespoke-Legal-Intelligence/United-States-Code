@@ -62,29 +62,17 @@
 
 (e) Except as otherwise provided by law, the Commission shall maintain and make available for public inspection a record of the final vote of each member on any action taken by it.
 
-(f) The Commission may—
-
-&emsp;(1) use available funds to enter into contracts for the acquisition of severable services for a period that begins in 1 fiscal year and ends in the next fiscal year, to the same extent as executive agencies may enter into such contracts under the authority of section 303L of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253<i>l</i>);
-
-&emsp;(2) enter into multi-year contracts for the acquisition of property or services to the same extent as executive agencies may enter into such contracts under the authority of section 304B of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254c); and
-
-&emsp;(3) make advance, partial, progress, or other payments under contracts for property or services to the same extent as executive agencies may make such payments under the authority of section 305 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 255).
-
 (Added Pub. L. 98–473, title II, §217(a), Oct. 12, 1984, 98 Stat. 2024; amended Pub. L. 100–690, title VII, §§7104, 7105, 7106(b), Nov. 18, 1988, 102 Stat. 4418; Pub. L. 101–650, title III, §325(b)(5), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 103–322, title XXVIII, §280005(c)(1), Sept. 13, 1994, 108 Stat. 2097; Pub. L. 110–177, title V, §501(a), Jan. 7, 2008, 121 Stat. 2541.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 501(b) of Pub. L. 110–177, see Termination Date of 2008 Amendment note below.</i>
 
 #### Amendments
 
-2008—Subsec. (f). Pub. L. 110–177, §501, temporarily added subsec. (f). See Termination Date of 2008 Amendment note below.
+<b>2008</b>—Subsec. (f). Pub. L. 110–177, §501, temporarily added subsec. (f). See Termination Date of 2008 Amendment note below.
 
-1994—Subsec. (a)(3). Pub. L. 103–322 substituted “Chair” for “Chairman”.
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–322 substituted “Chair” for “Chairman”.
 
-1990—Subsec. (a)(22). Pub. L. 101–650 struck out “and” after semicolon at end.
+<b>1990</b>—Subsec. (a)(22). Pub. L. 101–650 struck out “and” after semicolon at end.
 
-1988—Subsec. (a)(2). Pub. L. 100–690, §7105, substituted “Level 6 of the Senior Executive Service Schedule (5 U.S.C. 5382)” for “grade 18 of the General Schedule pay rates (5 U.S.C. 5332)”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–690, §7105, substituted “Level 6 of the Senior Executive Service Schedule (5 U.S.C. 5382)” for “grade 18 of the General Schedule pay rates (5 U.S.C. 5332)”.
 
 Subsec. (a)(23). Pub. L. 100–690, §7104, added par. (23).
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may authorize States to conduct demonstration projects pursuant to thissection which the Secretary finds are likely to promote the objectives of part B or E of subchapter IV of this chapter.
+&emsp;The Secretary may authorize States to conduct demonstration projects pursuant to this section which the Secretary finds are likely to promote the objectives of part B or E of subchapter IV of this chapter.
 
 #### (2) Limitation
 
@@ -28,7 +28,7 @@
 
 #### (b) Waiver authority
 
-The Secretary may waive compliance with any requirement of part B or E of subchapter IV of this chapter which (if applied) would prevent a State from carrying out a demonstration project under this section or prevent the State from effectively achieving the purpose of such a project, except that the Secretary may not waive—
+The Secretary may waive compliance with any requirement of part B or E of subchapter IV ofthis chapter which (if applied) would prevent a State from carrying out a demonstration project under this section or prevent the State from effectively achieving the purpose of such a project, except that the Secretary may not waive—
 
 &emsp;(1) any provision of section 622(b)(8) of this title,<sup>1</sup> or section 679 of this title; or
 
@@ -90,11 +90,11 @@ A prior section 1130 of act Aug. 14, 1935, was classified to section 1320b of th
 
 #### Amendments
 
-2006—Subsec. (b)(1). Pub. L. 109–288 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “any provision of section 627 of this title (as in effect before April 1, 1996), section 622(b)(9) of this title (as in effect after such date), or section 679 of this title; or”.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–288 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “any provision of section 627 of this title (as in effect before April 1, 1996), section 622(b)(9) of this title (as in effect after such date), or section 679 of this title; or”.
 
-2003—Subsec. (a)(2). Pub. L. 108–40 substituted “2003” for “2002”.
+<b>2003</b>—Subsec. (a)(2). Pub. L. 108–40 substituted “2003” for “2002”.
 
-1997—Subsec. (a). Pub. L. 105–89, §301(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary may authorize not more than 10 States to conduct demonstration projects pursuant to this section which the Secretary finds are likely to promote the objectives of part B or E of subchapter IV of this chapter.”
+<b>1997</b>—Subsec. (a). Pub. L. 105–89, §301(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary may authorize not more than 10 States to conduct demonstration projects pursuant to this section which the Secretary finds are likely to promote the objectives of part B or E of subchapter IV of this chapter.”
 
 Subsec. (d). Pub. L. 105–89, §301(c), inserted before period at end “, unless in the judgment of the Secretary, the demonstration project should be allowed to continue”.
 

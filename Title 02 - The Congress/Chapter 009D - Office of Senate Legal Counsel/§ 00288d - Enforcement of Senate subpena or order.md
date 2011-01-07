@@ -12,7 +12,7 @@ Any directive to the Counsel to bring a civil action pursuant to subsection (a) 
 
 It shall not be in order in the Senate to consider a resolution to direct the Counsel to bring a civil action pursuant to subsection (a) of this section in the name of a committee or subcommittee unless—
 
-&emsp;(1) such resolution is reported by a majority of the members voting, a majority being present, of such committee or committee of which such subcommittee is a subcommittee, and
+&emsp;(1) such resolution is reported by a majority of the members voting, a majority beingpresent, of such committee or committee of which such subcommittee is a subcommittee, and
 
 &emsp;(2) the report filed by such committee or committee of which such subcommittee is a subcommittee contains a statement of—
 

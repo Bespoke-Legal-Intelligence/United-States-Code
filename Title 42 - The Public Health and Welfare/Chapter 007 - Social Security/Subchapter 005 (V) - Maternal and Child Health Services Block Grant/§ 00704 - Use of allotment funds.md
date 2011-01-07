@@ -22,7 +22,7 @@ Amounts described in subsection (a) of this section may not be used for—
 
 &emsp;&emsp;(A) by an individual or entity during the period when such individual or entity is excluded under this subchapter or subchapter XVIII, XIX, or XX of this chapter pursuant to section 1320a–7, 1320a–7a, 1320c–5, or 1395u(j)(2) of this title, or
 
-&emsp;&emsp;(B) at the medical direction or on the prescription of a physician during the period when the physician is excluded under this subchapter or subchapter XVIII, XIX, or XX of this chapter pursuant to section 1320a–7, 1320a–7a, 1320c–5, or 1395u(j)(2) of this title and when the person furnishing such item or service knew or had reason to know of the exclusion (after a reasonable time period after reasonable notice has been furnished to the person).
+&emsp;&emsp;(B) at the medical direction or on the prescription of a physician during the period when the physician is excluded under this subchapter or subchapter XVIII, XIX, or XX of this chapter pursuant to section 1320a–7, 1320a–7a, 1320c–5, or 1395u(j)(2) of this title and when the person furnishing such item or service knew or had reason to know of theexclusion (after a reasonable time period after reasonable notice has been furnished to the person).
 
 > The Secretary may waive the limitation contained in paragraph (3) upon the request of a State if the Secretary finds that there are extraordinary circumstances to justify the waiver and that granting the waiver will assist in carrying out this subchapter.
 
@@ -46,19 +46,19 @@ Provisions similar to those comprising former section 704 were contained in sect
 
 #### Amendments
 
-1989—Subsec. (a). Pub. L. 101–239, §6503(c)(2), (4), substituted “its application” for “its description of intended expenditures and statement of assurances” and “705(a)” for “705”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §6503(c)(2), (4), substituted “its application” for “its description of intended expenditures and statement of assurances” and “705(a)” for “705”.
 
 Pub. L. 101–239, §6503(a)(1), inserted “and including payment of salaries and other related expenses of National Health Service Corps personnel” after “education, and evaluation”.
 
 Subsec. (d). Pub. L. 101–239, §6503(a)(2), added subsec. (d).
 
-1988—Subsec. (b)(6). Pub. L. 100–360, as amended by Pub. L. 100–485, added Pub. L. 100–203, §4118(e)(12), see 1987 Amendment note below.
+<b>1988</b>—Subsec. (b)(6). Pub. L. 100–360, as amended by Pub. L. 100–485, added Pub. L. 100–203, §4118(e)(12), see 1987 Amendment note below.
 
-1987—Subsec. (b)(6). Pub. L. 100–203, §4118(e)(12), as added by Pub. L. 100–360 and amended by Pub. L. 100–485, substituted “under this subchapter or subchapter XVIII, XIX, or XX of this chapter pursuant to section 1320a–7, 1320a–7a, 1320c–5, or 1395u(j)(2) of this title” for “pursuant to section 1320a–7 of this title or section 1320a–7a of this title from participation in the program under this subchapter” in subpars. (A) and (B).
+<b>1987</b>—Subsec. (b)(6). Pub. L. 100–203, §4118(e)(12), as added by Pub. L. 100–360 and amended by Pub. L. 100–485, substituted “under this subchapter or subchapter XVIII, XIX, or XX of this chapter pursuant to section 1320a–7, 1320a–7a, 1320c–5, or 1395u(j)(2) of this title” for “pursuant to section 1320a–7 of this title or section 1320a–7a of this title from participation in the program under this subchapter” in subpars. (A) and (B).
 
 Pub. L. 100–93 added par. (6).
 
-1986—Subsec. (b)(1). Pub. L. 99–272 substituted “children with special health care needs” for “crippled children”.
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–272 substituted “children with special health care needs” for “crippled children”.
 
 #### Effective Date of 1989 Amendment
 

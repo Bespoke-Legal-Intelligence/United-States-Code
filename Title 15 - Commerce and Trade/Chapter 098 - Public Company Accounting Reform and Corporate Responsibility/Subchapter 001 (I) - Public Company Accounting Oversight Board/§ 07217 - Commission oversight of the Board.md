@@ -16,11 +16,11 @@ The Commission shall have oversight and enforcement authority over the Board, as
 
 #### (3) Approval criteria
 
-&emsp;The Commission shall approve a proposed rule, if it finds that the rule is consistent with the requirements of this Act and the securitieslaws, or is necessary or appropriate in the public interest or for the protection of investors.
+&emsp;The Commission shall approve a proposed rule, if it finds that the rule is consistent with the requirements of this Act and the securities laws, or is necessary or appropriate in the public interest or for the protection of investors.
 
 #### (4) Proposed rule procedures
 
-&emsp;The provisions of paragraphs (1) through (3) of section 78s(b) of this title shall govern the proposed rules of the Board, as fully as if the Board were a “registered securities association” for purposes of that section 78s(b), except that, for purposes of this paragraph—
+&emsp;The provisions of paragraphs (1) through (3) of section 78s(b) of this title shall govern theproposed rules of the Board, as fully as if the Board were a “registered securities association” for purposes of that section 78s(b), except that, for purposes of this paragraph—
 
 &emsp;&emsp;(A) the phrase “consistent with the requirements of this chapter and the rules and regulations thereunder applicable to such organization” in section 78s(b)(2) of this title shall be deemed to read “consistent with the requirements of title I of the Sarbanes-Oxley Act of 2002, and the rules and regulations issued thereunder applicable to such organization, or as necessary or appropriate in the public interest or for the protection of investors”; and
 
@@ -74,7 +74,7 @@ The Commission shall have oversight and enforcement authority over the Board, as
 
 #### (3) Censure of Board members; removal from office
 
-&emsp;The Commission may, as necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this Act or the securities laws, remove from office or censure any member of the Board, if the Commission finds, on the record, after notice and opportunity for a hearing, that such member—
+&emsp;The Commission may, as necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this Act or the securities laws, remove from office or censure any person who is, or at the time of the alleged misconduct was, a member of the Board, if the Commission finds, on the record, after notice and opportunity for a hearing, that such member—
 
 &emsp;&emsp;(A) has willfully violated any provision of this Act, the rules of the Board, or the securities laws;
 
@@ -82,9 +82,17 @@ The Commission shall have oversight and enforcement authority over the Board, as
 
 &emsp;&emsp;(C) without reasonable justification or excuse, has failed to enforce compliance with any such provision or rule, or any professional standard by any registered public accounting firm or any associated person thereof.
 
-(Pub. L. 107–204, title I, §107, July 30, 2002, 116 Stat. 765.)
+(Pub. L. 107–204, title I, §107, July 30, 2002, 116 Stat. 765; Pub. L. 111–203, title IX, §929F(i), July 21, 2010, 124 Stat. 1855.)
 
 #### References in Text
 
 This Act and the Sarbanes-Oxley Act of 2002, referred to in text, are Pub. L. 107–204, July 30, 2002, 116 Stat. 745. Title I of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (d)(3). Pub. L. 111–203 substituted “any person who is, or at the time of the alleged misconduct was, a member” for “any member” in introductory provisions.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 

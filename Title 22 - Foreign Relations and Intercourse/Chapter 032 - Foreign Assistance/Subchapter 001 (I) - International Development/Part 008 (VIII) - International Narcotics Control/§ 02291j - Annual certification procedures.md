@@ -16,7 +16,7 @@
 
 &emsp;Subject to subsection (d) of this section, the assistance withheld from a country pursuant to subsection (a)(1) of this section may be obligated and expended, and the requirement of subsection (a)(2) of this section to vote against multilateral development bank assistance to a country shall not apply, if the President determines and certifies to the Congress, at the time of the submission of the report required by section 2291h(a) of this title, that—
 
-&emsp;&emsp;(A) during the previous year the country has cooperated fully with the United States, or has taken adequate steps on its own, toachieve full compliance with the goals and objectives established by the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances; or
+&emsp;&emsp;(A) during the previous year the country has cooperated fully with the United States, or has taken adequate steps on its own, to achieve full compliance with the goals and objectives established by the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances; or
 
 &emsp;&emsp;(B) for a country that would not otherwise qualify for certification under subparagraph (A), the vital national interests of the United States require that the assistance withheld pursuant to subsection (a)(1) of this section be provided and that the United States not vote against multilateral development bank assistance for that country pursuant to subsection (a)(2) of this section.
 
@@ -72,13 +72,13 @@ Subsection (e) of this section shall apply to a country described in that subsec
 
 &emsp;&emsp;&emsp;&emsp;(II) if he had made such a certification and the Congress enacted a joint resolution disapproving the determination contained in the certification, why the Congress enacted that joint resolution; or
 
-&emsp;&emsp;(B) the Congress enacts a joint resolution approving the determination contained in the certification under subsection (b)(1)(B) of this section.
+&emsp;&emsp;(B) the Congress enacts a joint resolution approving the determination contained inthe certification under subsection (b)(1)(B) of this section.
 
 > Any certification under subparagraph (A) of paragraph (2) shall discuss the justification for the certification.
 
 #### (g) Senate procedures
 
-Any joint resolution under this section shall be considered in the Senate in accordance withthe provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
+Any joint resolution under this section shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
 
 #### (h) Determining major drug-transit and major illicit drug producing countries
 
@@ -94,15 +94,15 @@ This chapter, referred to in subsec. (h), was in the original “this Act”, me
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–177, §722(b)(1), substituted “major illicit drug producing country, major drug-transit country, or country identified pursuant to clause (i) or (ii) of section 2291h(a)(8)(A) of this title” for “major illicit drug producing country or major drug-transit country”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–177, §722(b)(1), substituted “major illicit drug producing country, major drug-transit country, or country identified pursuant to clause (i) or (ii) of section 2291h(a)(8)(A) of this title” for “major illicit drug producing country or major drug-transit country”.
 
 Subsec. (a)(2). Pub. L. 109–177, §722(b)(2), inserted “or country identified pursuant to clause (i) or (ii) of section 2291h(a)(8)(A) of this title” after “(as determined under subsection (h) of this section)”.
 
-1995—Pub. L. 104–66, §1112(d)(1), struck out “for fiscal year 1995” after “certification procedures” in section catchline.
+<b>1995</b>—Pub. L. 104–66, §1112(d)(1), struck out “for fiscal year 1995” after “certification procedures” in section catchline.
 
 Subsec. (i). Pub. L. 104–66, §1112(d)(2), struck out heading and text of subsec. (i). Text read as follows: “This section applies only during fiscal year 1995. Section 2291k of this title does not apply during that fiscal year.”
 
-1994—Pub. L. 103–447, §101(g)(1)(A), substituted “for fiscal year 1995” for “for fiscal years 1993 and 1994” in section catchline.
+<b>1994</b>—Pub. L. 103–447, §101(g)(1)(A), substituted “for fiscal year 1995” for “for fiscal years 1993 and 1994” in section catchline.
 
 Subsec. (a)(1). Pub. L. 103–447, §101(g)(1)(B), struck out “(as determined under subsection (h) of this section)” after “drug-transit country”.
 
@@ -142,7 +142,7 @@ I have determined that the following major illicit drug producing and/or major i
 
 &emsp;Afghanistan and Burma
 
-In making these determinations, I have considered the factors set forth in section 490 of the Act, based on the information contained in the International Narcotics Control Strategy Report of 2001. Given that the performance of each of these countries has differed, I have attached an explanatory statement for each of the countries subject to this determination \[not set out in the Code\].
+In making these determinations, I have considered the factors set forth in section 490 of the Act, based on the information contained in the International Narcotics Control Strategy Report of 2001. Given that the performance of each of these countries has differed, I haveattached an explanatory statement for each of the countries subject to this determination \[not set out in the Code\].
 
 You are hereby authorized and directed to report this determination to the Congress immediately and to publish it in the Federal Register.
 

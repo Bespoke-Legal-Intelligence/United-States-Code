@@ -14,7 +14,7 @@
 
 &emsp;(2) unearned income means all other income, including—
 
-&emsp;&emsp;(A) support and maintenance furnished in cash or kind; except that (i) in the case of any individual (and his eligible spouse, if any) living in another person's household and receiving support and maintenance in kind from such person, the dollar amounts otherwise applicable to such individual (and spouse) as specified in subsections (a) and (b) of section 1382 of this title shall be reduced by 331/3 percent in lieu of including such support and maintenance in the unearned income of such individual (and spouse) as otherwise required by this subparagraph, (ii) in the case of any individual or his eligible spouse who resides in a nonprofit retirement home or similar nonprofit institution, support and maintenance shall not be included to the extent that it is furnished to such individual or such spouse without such institution receiving payment therefor (unless such institution has expressly undertaken an obligation to furnish full support and maintenance to such individual or spouse without any current or future payment therefor) or payment therefor is made by another nonprofit organization, and (iii) support and maintenance shall not be included and the provisions of clause (i) shall not be applicable in the case of any individual (and his eligible spouse, if any) for the period which begins with the month in which such individual (or such individual and his eligible spouse) began to receive support and maintenance while living in a residential facility (including a private household) maintained by another person and ends with the close of the month in which such individual (or such individual and his eligible spouse) ceases to receive support and maintenance while living in such a residential facility (or, if earlier, with the close of the seventeenth month following the month in which such period began), if, not more than 30 days prior to the date on which such individual (or such individual and his eligible spouse) began to receive support and maintenance while living in such a residential facility, (I) such individual (or such individual and his eligible spouse) were residing in a household maintained by such individual (or by such individual and others) as his or their own home, (II) there occurred within the area in which such household is located (and while such individual, or such individual and his spouse, were residing in the household referred to in subclause (I)) a catastrophe on account of which the President declared a major disaster to exist therein for purposes of the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\], and (III) such individual declares that he (or he and his eligible spouse) ceased to continue living in the household referred to in subclause (II) because of such catastrophe;
+&emsp;&emsp;(A) support and maintenance furnished in cash or kind; except that (i) in the case of any individual (and his eligible spouse, if any) living in another person's household and receiving support and maintenance in kind from such person, the dollar amounts otherwise applicable to such individual (and spouse) as specified in subsections (a) and (b) of section 1382 of this title shall be reduced by 331/3 percent in lieu of including such support and maintenance in the unearned income of such individual (and spouse) as otherwise required by this subparagraph, (ii) in the case of any individual or his eligible spouse who resides in a nonprofit retirement home or similar nonprofit institution, support and maintenance shall not be included to the extent that it is furnished to such individual or such spouse without such institution receiving payment therefor (unless such institution has expressly undertaken an obligation to furnish full support and maintenance to such individual or spouse without any current or future payment therefor) or payment therefor is made by another nonprofit organization, and (iii) support and maintenance shall not be included and the provisions of clause (i) shall not be applicable in the case of any individual (and his eligible spouse, if any) for the period which begins with the month in which such individual (or such individual and his eligible spouse) began to receive support and maintenance while living in a residential facility (including a private household) maintained by another person and ends with the close of the month in which such individual (or such individual and his eligible spouse) ceases to receive support and maintenance while living in such a residential facility (or, if earlier, with the close of the seventeenth month following the month in which such period began), if, not more than 30 days prior to the date on which such individual (or such individual and his eligible spouse) began to receive support and maintenance while living in such a residential facility, (I) such individual (or such individual and his eligible spouse) were residing in a household maintained by such individual (or by such individual and others) as his or their own home, (II) there occurred within the area in which such household is located (and while such individual, or such individual and his spouse, were residing in the household referred to in subclause (I)) a catastrophe on account of which the President declared a major disaster to exist therein for purposes of the Disaster Relief and Emergency Assistance Act \[42U.S.C. 5121 et seq.\], and (III) such individual declares that he (or he and his eligible spouse) ceased to continue living in the household referred to in subclause (II) because of such catastrophe;
 
 &emsp;&emsp;(B) any payments received as an annuity, pension, retirement, or disability benefit, including veterans’ compensation and pensions, workmen's compensation payments, old-age, survivors, and disability insurance benefits, railroad retirement annuities and pensions, and unemployment insurance benefits;
 
@@ -46,9 +46,9 @@
 
 > &emsp;of such individual (and such spouse, if any) which, as determined in accordance with criteria prescribed by the Commissioner of Social Security, is received too infrequently or irregularly to be included;
 
-&emsp;(4)(A) if such individual (or such spouse) is blind (and has not attained age 65, or receivedbenefits under this subchapter (or aid under a State plan approved under section 1202 or 1382 of this title) for the month before the month in which he attained age 65), (i) the first $780 per year (or proportionately smaller amounts for shorter periods) of earned income not excluded by the preceding paragraphs of this subsection, plus one-half of the remainder thereof, (ii) an amount equal to any expenses reasonably attributable to the earning of any income, and (iii) such additional amounts of other income, where such individual has a plan for achieving self-support approved by the Commissioner of Social Security, as may be necessary for the fulfillment of such plan,
+&emsp;(4)(A) if such individual (or such spouse) is blind (and has not attained age 65, or received benefits under this subchapter (or aid under a State plan approved under section 1202 or 1382 of this title) for the month before the month in which he attained age 65), (i) the first $780 per year (or proportionately smaller amounts for shorter periods) of earned income not excluded by the preceding paragraphs of this subsection, plus one-half of the remainder thereof, (ii) an amount equal to any expenses reasonably attributable to the earning of any income, and (iii) such additional amounts of other income, where such individual has a plan for achieving self-support approved by the Commissioner of Social Security, as may be necessary for the fulfillment of such plan,
 
-&emsp;(B) if such individual (or such spouse) is disabled but not blind (and has not attained age 65, or received benefits under this subchapter (or aid under a State plan approved under section 1352 or 1382 of this title) for the month before the month in which he attained age 65), (i) the first $780 per year (or proportionately smaller amounts for shorter periods) of earned income not excluded by the preceding paragraphs of this subsection, (ii) such additional amounts of earned income of such individual, if such individual's disability is sufficiently severe to result in a functional limitation requiring assistance in order for him to work, as may be necessary to pay the costs (to such individual) of attendant care services, medical devices, equipment, prostheses, and similar items and services (not including routine drugs or routine medical services unless such drugs or services are necessary for the control of the disabling condition) which are necessary (as determined by the Commissioner of Social Security in regulations) for that purpose, whether or not such assistance is also needed to enable him to carry out his normal daily functions, except that the amounts to be excluded shall be subject to such reasonable limits as the Commissioner of Social Security may prescribe, (iii) one-half of the amount of earned income not excluded after the application of the preceding provisions of this subparagraph, and (iv) such additional amounts of other income, where such individual has a plan for achieving self-support approved by the Commissioner of Social Security, as may be necessary for the fulfillment of such plan, or
+&emsp;(B) if such individual (or such spouse) is disabled but not blind (and has not attained age 65, or received benefits under this subchapter (or aid under a State plan approved under section 1352 or 1382 of this title) for the month before the month in which he attained age 65), (i) the first $780 per year (or proportionately smaller amounts for shorter periods) of earned income not excluded by the preceding paragraphs of this subsection, (ii) such additional amounts of earned income of such individual, if such individual's disability is sufficiently severe to result in a functional limitation requiring assistance in order for him to work, as may be necessary to pay the costs (to such individual) of attendant care services, medical devices, equipment, prostheses, and similar items and services (not including routine drugs or routine medical services unless such drugs or services are necessary for the control of the disabling condition) which are necessary (as determined by the Commissioner of Social Security in regulations) for that purpose, whether or not such assistance is also needed to enable him to carry out his normal daily functions, except that the amounts to be excluded shall be subject to such reasonable limits as the Commissioner of Social Security may prescribe, (iii) one-half of the amount of earned income not excluded after the application of the preceding provisions of this subparagraph, and (iv) such additional amounts of other income, where such individual has aplan for achieving self-support approved by the Commissioner of Social Security, as may be necessary for the fulfillment of such plan, or
 
 &emsp;(C) if such individual (or such spouse) has attained age 65 and is not included under subparagraph (A) or (B), the first $780 per year (or proportionately smaller amounts for shorter periods) of earned income not excluded by the preceding paragraphs of this subsection, plus one-half of the remainder thereof;
 
@@ -98,33 +98,49 @@
 
 &emsp;&emsp;(B) excluded pursuant to Federal law other than section 1382b(a) of this title;
 
-&emsp;(24) any annuity paid by a State to the individual (or such spouse) on the basis of the individual's being a veteran (as defined in section 101 of title 38), and blind, disabled, or aged; and
+&emsp;(24) any annuity paid by a State to the individual (or such spouse) on the basis of the individual's being a veteran (as defined in section 101 of title 38), and blind, disabled, or aged;
 
-&emsp;(25) any benefit (whether cash or in-kind) conferred upon (or paid on behalf of) a participant in an AmeriCorps position approved by the Corporation for National and Community Service under section 12573 of this title.
+&emsp;(25) any benefit (whether cash or in-kind) conferred upon (or paid on behalf of) a participant in an AmeriCorps position approved by the Corporation for National and Community Service under section 12573 of this title; and
 
-(Aug. 14, 1935, ch. 531, title XVI, §1612, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1468; amended Pub. L. 93–484, §4, Oct. 26, 1974, 88 Stat. 1460; Pub. L. 94–202, §9, Jan. 2, 1976, 89 Stat. 1140; Pub. L. 94–331, §§2(a), 4(a), June 30, 1976, 90 Stat. 781, 782; Pub. L. 94–455, title XXI, §2125, Oct. 4, 1976, 90 Stat. 1920; Pub. L. 94–566, title V, §505(b), Oct. 20, 1976, 90 Stat. 2686; Pub. L. 95–171, §8(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 96–222, title I, §101(a)(2)(B), Apr. 1, 1980, 94 Stat. 195; Pub. L. 96–265, title II, §202(a), title III, §302(b), June 9, 1980, 94 Stat. 449, 451; Pub. L. 96–473, §6(g), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 97–35, title XXIII, §2341(b), Aug. 13, 1981, 95 Stat. 865; Pub. L. 97–424, title V, §545(a), Jan. 6, 1983, 96 Stat. 2198; Pub. L. 98–21, title IV, §404(a), Apr. 20, 1983, 97 Stat. 140; Pub. L. 98–369, div. B, title VI, §§2616(a), 2639(b), (c), 2663(g)(3), (4), July 18, 1984, 98 Stat. 1133, 1144, 1145, 1168; Pub. L. 99–514, §2, title XVIII, §1883(d)(2), (3), Oct. 22, 1986, 100 Stat. 2095, 2918; Pub. L. 100–203, title IX, §9120(a), Dec. 22, 1987, 101 Stat. 1330–309; Pub. L. 100–647, title VIII, §8103(a), Nov. 10, 1988, 102 Stat. 3795; Pub. L. 100–707, title I, §109(p), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–239, title VIII, §§8011(a), 8013(a), Dec. 19, 1989, 103 Stat. 2464; Pub. L. 101–508, title V, §§5031(a), 5033(a), 5034(a), 5035(a), title XI, §11115(b)(1), Nov. 5, 1990, 104 Stat. 1388–224, 1388–225, 1388–414; Pub. L. 103–66, title XIII, §13733(b), Aug. 10, 1993, 107 Stat. 662; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 103–432, title II, §§264(a), 267(a), Oct. 31, 1994, 108 Stat. 4467, 4469; Pub. L. 104–193, title II, §213(c), Aug. 22, 1996, 110 Stat. 2195; Pub. L. 105–306, §7(a), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–169, title II, §205(b), Dec. 14, 1999, 113 Stat. 1834; Pub. L. 106–554, §1(a)(1) \[title V, §519\], Dec. 21, 2000, 114 Stat. 2763, 2763A–74; Pub. L. 108–203, title IV, §§430(a), (b), 432(a), 435(a), Mar. 2, 2004, 118 Stat. 538–540; Pub. L. 110–245, title II, §§201, 202(a), 203, June 17, 2008, 122 Stat. 1637, 1638.)
+&emsp;(26) the first $2,000 received during a calendar year by such individual (or such spouse) as compensation for participation in a clinical trial involving research and testing of treatments for a rare disease or condition (as defined in section 360ee(b)(2) of title 21), but only if the clinical trial—
+
+&emsp;&emsp;(A) has been reviewed and approved by an institutional review board that is established—
+
+&emsp;&emsp;&emsp;(i) to protect the rights and welfare of human subjects participating in scientific research; and
+
+&emsp;&emsp;&emsp;(ii) in accord with the requirements under part 46 of title 45, Code of Federal Regulations; and
+
+&emsp;&emsp;(B) meets the standards for protection of human subjects as provided under part 46 of title 45, Code of Federal Regulations.
+
+(Aug. 14, 1935, ch. 531, title XVI, §1612, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1468; amended Pub. L. 93–484, §4, Oct. 26, 1974, 88 Stat. 1460; Pub. L. 94–202, §9, Jan. 2, 1976, 89 Stat. 1140; Pub. L. 94–331, §§2(a), 4(a), June 30, 1976, 90 Stat. 781, 782; Pub. L. 94–455, title XXI, §2125, Oct. 4, 1976, 90 Stat. 1920; Pub. L. 94–566, title V, §505(b), Oct. 20, 1976, 90 Stat. 2686; Pub. L. 95–171, §8(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 96–222, title I, §101(a)(2)(B), Apr. 1, 1980, 94 Stat. 195; Pub. L. 96–265, title II, §202(a), title III, §302(b), June 9, 1980, 94 Stat. 449, 451; Pub. L. 96–473, §6(g), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 97–35, title XXIII, §2341(b), Aug. 13, 1981, 95 Stat. 865; Pub. L. 97–424, title V, §545(a), Jan. 6, 1983, 96 Stat. 2198; Pub. L. 98–21, title IV, §404(a), Apr. 20, 1983, 97 Stat. 140; Pub. L. 98–369, div. B, title VI, §§2616(a), 2639(b), (c), 2663(g)(3), (4), July 18, 1984, 98 Stat. 1133, 1144, 1145, 1168; Pub. L. 99–514, §2, title XVIII, §1883(d)(2), (3), Oct. 22, 1986, 100 Stat. 2095, 2918; Pub. L. 100–203, title IX, §9120(a), Dec. 22, 1987, 101 Stat. 1330–309; Pub. L. 100–647, title VIII, §8103(a), Nov. 10, 1988, 102 Stat. 3795; Pub. L. 100–707, title I, §109(p), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–239, title VIII, §§8011(a), 8013(a), Dec. 19, 1989, 103 Stat. 2464; Pub. L. 101–508, title V, §§5031(a), 5033(a), 5034(a), 5035(a), title XI, §11115(b)(1), Nov. 5, 1990, 104 Stat. 1388–224, 1388–225, 1388–414; Pub. L. 103–66, title XIII, §13733(b), Aug. 10, 1993, 107 Stat. 662; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 103–432, title II, §§264(a), 267(a), Oct. 31, 1994, 108 Stat. 4467, 4469; Pub. L. 104–193, title II, §213(c), Aug. 22, 1996, 110 Stat. 2195; Pub. L. 105–306, §7(a), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–169, title II, §205(b), Dec. 14, 1999, 113 Stat. 1834; Pub. L. 106–554, §1(a)(1) \[title V, §519\], Dec. 21, 2000, 114 Stat. 2763, 2763A–74; Pub. L. 108–203, title IV, §§430(a), (b), 432(a), 435(a), Mar. 2, 2004, 118 Stat. 538–540; Pub. L. 110–245, title II, §§201, 202(a), 203, June 17, 2008, 122 Stat. 1637, 1638; Pub. L. 111–255, §3(a), Oct. 5, 2010, 124 Stat. 2641.)
+
+#### Amendment of Section
+
+<i>For repeal of amendment by section 3(e) of Pub. L. 111–255, see Effective and Termination Dates of 2010 Amendment note below.</i>
 
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (b)(19), (22), is classified generally to Title 26, Internal Revenue Code.
 
-The Disaster Relief and Emergency Assistance Act, referred to in subsecs. (a)(2)(A) and (b)(11), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+The Disaster Relief and Emergency Assistance Act, referred to in subsecs. (a)(2)(A) and (b)(11), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 Section 1382 of this title, referred to in subsec. (b)(4)(A), (B), is a reference to section 1382 of this title as it existed prior to the general revision of this subchapter by Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, eff. Jan. 1, 1974. The prior section (which is set out as a note under section 1382 of this title) continues in effect for Puerto Rico, Guam, and the Virgin Islands.
 
 The United States Housing Act of 1937, referred to in subsec. (b)(14), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
-The National Housing Act, referred to in subsec. (b)(14), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
+The National Housing Act, referred to in subsec. (b)(14), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
-Section 101 of the Housing and Urban Development Act of 1965, referred to in subsec. (b)(14), is section 101 of Pub. L. 89–117, title I, Aug. 10, 1965, 79 Stat. 451, as amended, which enacted section 1701s of Title 12 and amended sections 1451 and 1465 of this title.
+Section 101 of the Housing and Urban Development Act of 1965, referred to in subsec. (b)(14), is section 101 of Pub. L. 89–117, title I, Aug. 10, 1965, 79 Stat. 451, which enacted section 1701s of Title 12 and amended sections 1451 and 1465 of this title.
 
-The Housing Act of 1949, referred to in subsec. (b)(14), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
+The Housing Act of 1949, referred to in subsec. (b)(14), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
 
-The Uniform Relocation Assistance and Real Property Acquisitions Policies Act of 1970, referred to in subsec. (b)(18), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended. Title II of the Act enacted subchapter II (§4621 et seq.) of chapter 61 of this title, amended sections 1415, 2473, and 3307 of this title and section 1606 of former Title 49, Transportation, repealed sections 1465and 3074 of this title, section 2680 of Title 10, Armed Forces, sections 501 to 512 of Title 23, Highways, sections 1231 to 1234 of Title 43, Public Lands, and enacted provisions set out as notes under sections 4601 and 4621 of this title and under sections 501 to 512 of Title 23. For complete classification of title II to the Code, see Tables.
+The Uniform Relocation Assistance and Real Property Acquisitions Policies Act of 1970, referred to in subsec. (b)(18), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894. Title II of the Act enacted subchapter II (§4621 et seq.) of chapter 61 of this title, amended sections 1415, 2473, and 3307 of this title and section 1606 of former Title 49, Transportation, repealed sections 1465 and 3074 of this title, section 2680 of Title 10, Armed Forces, sections 501 to 512 of Title 23, Highways, sections 1231 to 1234 of Title 43, Public Lands, and enacted provisions set out as notes under sections 4601 and 4621 of this title and under sections 501 to 512 of Title 23. For complete classification of title II to the Code, see Tables.
 
 #### Amendments
 
-2008—Subsec. (a)(1)(A). Pub. L. 110–245, §201(a), inserted “(and, in the case of cash remuneration paid for service as a member of a uniformed service (other than payments described in paragraph (2)(H) of this subsection or subsection (b)(20)), without regard to the limitations contained in section 409(d) of this title)” before semicolon.
+<b>2010</b>—Subsec. (b)(26). Pub. L. 111–255, §3(a), (e), temporarily added par. (26). See Effective and Termination Dates of 2010 Amendment note below.
+
+<b>2008</b>—Subsec. (a)(1)(A). Pub. L. 110–245, §201(a), inserted “(and, in the case of cash remuneration paid for service as a member of a uniformed service (other than payments described in paragraph (2)(H) of this subsection or subsection (b)(20)), without regard to the limitations contained in section 409(d) of this title)” before semicolon.
 
 Subsec. (a)(2)(H). Pub. L. 110–245, §201(b), added subsec. (H).
 
@@ -132,7 +148,7 @@ Subsec. (b)(24). Pub. L. 110–245, §202(a), added par. (24).
 
 Subsec. (b)(25). Pub. L. 110–245, §203, added par. (25).
 
-2004—Subsec. (b)(1). Pub. L. 108–203, §432(a), substituted “under the age of 22 and” for “a child who”.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–203, §432(a), substituted “under the age of 22 and” for “a child who”.
 
 Subsec. (b)(3). Pub. L. 108–203, §430(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “(A) the total unearned income of such individual (and such spouse, if any) in a month which, as determined in accordance with criteria prescribed by the Commissioner of Social Security, is received too infrequently or irregularly to be included, if such income so received does not exceed $20 in such month, and (B) the total earned income of such individual (and such spouse, if any) in a month which, as determined in accordance with such criteria, is received too infrequently or irregularly to be included, if such income so received does not exceed $10 in such month;”.
 
@@ -140,25 +156,25 @@ Subsec. (b)(7). Pub. L. 108–203, §435(a), substituted “fellowship, or gift 
 
 Subsec. (b)(23). Pub. L. 108–203, §430(b), added par. (23).
 
-2000—Subsec. (a)(1)(A). Pub. L. 106–554, §1(a)(1) \[title V, §519(1)\], inserted “but without the application of section 410(j)(3) of this title” before semicolon.
+<b>2000</b>—Subsec. (a)(1)(A). Pub. L. 106–554, §1(a)(1) \[title V, §519(1)\], inserted “but without the application of section 410(j)(3) of this title” before semicolon.
 
 Subsec. (a)(1)(B). Pub. L. 106–554, §1(a)(1) \[title V, §519(2)\], substituted “the last” for “and the last” and inserted “, and section 410(j)(3) of this title” after “subsection (a)”.
 
-1999—Subsec. (a)(2)(G). Pub. L. 106–169 added subpar. (G).
+<b>1999</b>—Subsec. (a)(2)(G). Pub. L. 106–169 added subpar. (G).
 
-1998—Subsec. (b)(22). Pub. L. 105–306 added par. (22).
+<b>1998</b>—Subsec. (b)(22). Pub. L. 105–306 added par. (22).
 
-1996—Subsec. (b)(21). Pub. L. 104–193 added par. (21).
+<b>1996</b>—Subsec. (b)(21). Pub. L. 104–193 added par. (21).
 
-1994—Subsec. (a)(1)(C) to (E). Pub. L. 103–432, §267(a), redesignated subpars. (D) and (E) as (C) and (D), respectively, and struck out former subpar. (C) which read as follows: “any refund of Federal income taxes made by reason of section 32 of the Internal Revenue Code of 1986 (relating to earned income credit) and any payment made by an employer under section 3507 of such Code (relating to advance payment of earned income credit);”.
+<b>1994</b>—Subsec. (a)(1)(C) to (E). Pub. L. 103–432, §267(a), redesignated subpars. (D) and (E) as (C) and (D), respectively, and struck out former subpar. (C) which read as follows: “any refund of Federal income taxes made by reason of section 32 of the Internal Revenue Code of 1986 (relating to earned income credit) and any payment made by an employer under section 3507 of such Code (relating to advance payment of earned income credit);”.
 
 Subsec. (b)(1), (3)(A), (4)(A), (B), (12), (13). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
 Subsec. (b)(17). Pub. L. 103–432, §264(a), made technical correction to directory language of Pub. L. 101–508, §5035(a)(2). See 1990 Amendment note below.
 
-1993—Subsec. (b)(20). Pub. L. 103–66 added par. (20).
+<b>1993</b>—Subsec. (b)(20). Pub. L. 103–66 added par. (20).
 
-1990—Subsec. (a)(1)(E). Pub. L. 101–508, §5034(a)(1), added subpar. (E).
+<b>1990</b>—Subsec. (a)(1)(E). Pub. L. 101–508, §5034(a)(1), added subpar. (E).
 
 Subsec. (a)(2)(F). Pub. L. 101–508, §5034(a)(2), inserted “not described in paragraph (1)(E)” after “royalties”.
 
@@ -174,21 +190,21 @@ Subsec. (b)(18). Pub. L. 101–508, §5035(a)(3), added par. (18).
 
 Subsec. (b)(19). Pub. L. 101–508, §11115(b)(1)(C), added par. (19).
 
-1989—Subsec. (b)(15). Pub. L. 101–239, §8011(a), added par. (15).
+<b>1989</b>—Subsec. (b)(15). Pub. L. 101–239, §8011(a), added par. (15).
 
 Subsec. (b)(16). Pub. L. 101–239, §8013(a), added par. (16).
 
-1988—Subsecs. (a)(2)(A), (b)(11). Pub. L. 100–707 substituted “Disaster Relief and Emergency Assistance Act” for “Disaster Relief Act of 1974”.
+<b>1988</b>—Subsecs. (a)(2)(A), (b)(11). Pub. L. 100–707 substituted “Disaster Relief and Emergency Assistance Act” for “Disaster Relief Act of 1974”.
 
 Subsec. (b)(14). Pub. L. 100–647 added par. (14).
 
-1987—Subsec. (a)(2)(D), (E). Pub. L. 100–203 amended subpars. (D) and (E) generally. Prior to amendment, subpars. (D) and (E) read as follows:
+<b>1987</b>—Subsec. (a)(2)(D), (E). Pub. L. 100–203 amended subpars. (D) and (E) generally. Prior to amendment, subpars. (D) and (E) read as follows:
 
 “(D) the proceeds of any life insurance policy to the extent that they exceed the amount expended by the beneficiary for purposes of the insured individual's last illness and burial or $1,500, whichever is less;
 
 “(E) gifts (cash or otherwise), support and alimony payments, and inheritances; and”.
 
-1986—Subsec. (a)(1)(C). Pub. L. 99–514, §1883(d)(2), substituted “section 32” for “section 43”.
+<b>1986</b>—Subsec. (a)(1)(C). Pub. L. 99–514, §1883(d)(2), substituted “section 32” for “section 43”.
 
 Pub. L. 99–514, §2, substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
@@ -196,7 +212,7 @@ Subsec. (b)(2). Pub. L. 99–514, §1883(d)(3)(A), (B), substituted “, and”
 
 Subsec. (b)(11) to (13). Pub. L. 99–514, §1883(d)(3)(C), provided for technical corrections relating to concluding punctuation in pars. (11) to (13).
 
-1984—Subsec. (b)(2)(B). Pub. L. 98–369, §2663(g)(3), realigned margin of subpar. (B).
+<b>1984</b>—Subsec. (b)(2)(B). Pub. L. 98–369, §2663(g)(3), realigned margin of subpar. (B).
 
 Pub. L. 98–369, §2616(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “monthly (or other periodic) payments received by any individual, under a program established prior to July 1, 1973, if such payments are made by the State of which the individual receiving such payments is a resident, and if eligibility of any individual for such payments is not based on need and is based solely on attainment of age 65 and duration of residence in such State by such individual;”.
 
@@ -204,13 +220,13 @@ Subsec. (b)(9). Pub. L. 98–369, §2663(g)(4), inserted a comma after “child�
 
 Subsec. (b)(13). Pub. L. 98–369, §2639(b), temporarily amended par. (13) generally, redesignating former cls. (i) and (ii) as (A) and (B), respectively. See Effective and Termination Dates of 1984 Amendment note below.
 
-1983—Subsec. (b)(13). Pub. L. 98–21 temporarily substituted “any support or maintenance assistance furnished to or on behalf of such individual (and spouse if any) which (as determined under regulations of the Secretary by such State agency as the chief executive officer of the State may designate) is based on need for such support or maintenance, including assistance received to assist in meeting the costs of home energy (including both heating and cooling), and which” for “any assistance received to assist in meeting the costs of home energy, including both heating and cooling, which (as determined under regulations of the Secretary by such State agency as the chief executive officer of the State may designate) (A) is based on need for such assistance, and (B)”. See Effective and Termination Dates of 1983 Amendments note below.
+<b>1983</b>—Subsec. (b)(13). Pub. L. 98–21 temporarily substituted “any support or maintenance assistance furnished to or on behalf of such individual (and spouse if any) which (as determined under regulations of the Secretary by such State agency as the chief executive officer of the State may designate) is based on need for such support or maintenance, including assistance received to assist in meeting the costs of home energy (including both heating and cooling), and which” for “any assistance received to assist in meeting the costs of home energy, including both heating and cooling, which (as determined under regulations of the Secretary by such State agency as the chief executive officer of the State may designate) (A) is based on need for such assistance, and (B)”. See Effective and Termination Dates of 1983 Amendments note below.
 
 Pub. L. 97–424 temporarily added par. (13). See Effective and Termination Dates of 1983 Amendments note below.
 
-1981—Subsec. (b)(3). Pub. L. 97–35 substituted “month” for “calendar quarter” wherever appearing, “such month” for “such quarter” wherever appearing, “$20” for “$60”, and “$10” for “$30”.
+<b>1981</b>—Subsec. (b)(3). Pub. L. 97–35 substituted “month” for “calendar quarter” wherever appearing, “such month” for “such quarter” wherever appearing, “$20” for “$60”, and “$10” for “$30”.
 
-1980—Subsec. (a)(1). Pub. L. 96–473, §6(g)(1), (2), in subpar. (B) substituted “(a)(11)” for “(a)(10)”, and redesignated subpar. (C), as added by Pub. L. 96–265, §202(a)(2), as (D).
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–473, §6(g)(1), (2), in subpar. (B) substituted “(a)(11)” for “(a)(10)”, and redesignated subpar. (C), as added by Pub. L. 96–265, §202(a)(2), as (D).
 
 Pub. L. 96–265, §202(a)(2), added subpar. (C) which was subsequently redesignated (D) by Pub. L. 96–473, §6(g)(2).
 
@@ -220,9 +236,9 @@ Subsec. (b)(2)(B). Pub. L. 96–473, §6(g)(3), substituted “monthly” for �
 
 Subsec. (b)(4)(B). Pub. L. 96–265, §302(b), inserted provisions relating to extraordinary work expenses due to severe disability.
 
-1977—Subsec. (b)(12). Pub. L. 95–171 added par. (12).
+<b>1977</b>—Subsec. (b)(12). Pub. L. 95–171 added par. (12).
 
-1976—Subsec. (a)(2)(A)(iii). Pub. L. 94–455 substituted “seventeenth month” for “fifth month”.
+<b>1976</b>—Subsec. (a)(2)(A)(iii). Pub. L. 94–455 substituted “seventeenth month” for “fifth month”.
 
 Pub. L. 94–331, §4(a)(2), added cl. (iii).
 
@@ -232,7 +248,19 @@ Subsec. (b)(6). Pub. L. 94–566 substituted “assistance, furnished to or on b
 
 Subsec. (b)(11). Pub. L. 94–331, §2(a)(3), added par. (11).
 
-1974—Subsec. (a)(2)(A). Pub. L. 93–484 designated existing provisions as cl. (i) and added cl. (ii).
+<b>1974</b>—Subsec. (a)(2)(A). Pub. L. 93–484 designated existing provisions as cl. (i) and added cl. (ii).
+
+#### Effective and Termination Dates of 2010 Amendment
+
+Pub. L. 111–255, §3(d), Oct. 5, 2010, 124 Stat. 2641, provided that: “The amendments made by this section \[amending this section and sections 1382b and 1396a of this title\] shall take effect on the date that is the earlier of—
+
+&emsp;“(1) the effective date of final regulations promulgated by the Commissioner of Social Security to carry out this section and such amendments; or
+
+&emsp;“(2) 180 days after the date of enactment of this Act \[Oct. 5, 2010\].”
+
+\[Section 3(d) of Pub. L. 111–255, set out above, repealed 5 years after Oct. 5, 2010, see section 3(e) of Pub. L. 111–255, set out below.\]
+
+Pub. L. 111–255, §3(e), Oct. 5, 2010, 124 Stat. 2641, provided that: “This Act \[amending this section and sections 1382b and 1396a of this title and enacting provisions set out as notes under this section and section 1305 of this title\] and the amendments made by this Act are repealed on the date that is 5 years after the date of the enactment of this Act \[Oct. 5, 2010\].”
 
 #### Effective Date of 2008 Amendment
 
@@ -298,7 +326,7 @@ Section 9120(b) of Pub. L. 100–203 provided that: “The amendments made by su
 
 Section 2616(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].”
 
-Section 2639(d) of Pub. L. 98–369, as amended by Pub. L. 100–203, title IX, §9101, Dec. 22, 1987, 101 Stat.1330–299, provided that: “The amendments made by this section \[amending this section and section 602 of this title and repealing section 545(a)–(c) of Pub. L. 97–424 and section 404 of Pub. L. 98–21, which had previously amended this section and section 602 of this title and had provided effective dates for those prior amendments\] shall be effective with respect to months which begin after September 30, 1984.”
+Section 2639(d) of Pub. L. 98–369, as amended by Pub. L. 100–203, title IX, §9101, Dec. 22, 1987, 101 Stat. 1330–299, provided that: “The amendments made by this section \[amending this section and section 602 of this title and repealing section 545(a)–(c) of Pub. L. 97–424 and section 404 of Pub. L. 98–21, which had previously amended this section and section 602 of this title and had provided effective dates for those prior amendments\] shall be effective with respect to months which begin after September 30, 1984.”
 
 \[Section 9101 of Pub. L. 100–203 provided that the amendment made by that section to section 2639(d) of Pub. L. 98–369, set out as a note above, is effective as of Oct. 1, 1987.\]
 
@@ -339,6 +367,22 @@ Section 4 of Pub. L. 93–484 provided that the amendment made by that section i
 #### Effective Date
 
 Section 301 of Pub. L. 92–603 provided that this section is effective Jan. 1, 1974.
+
+#### Findings
+
+Pub. L. 111–255, §2, Oct. 5, 2010, 124 Stat. 2640, provided that: “Congress finds the following:
+
+&emsp;“(1) Advances in medicine depend on clinical trial research conducted at public and private research institutions across the United States.
+
+&emsp;“(2) The challenges associated with enrolling participants in clinical research studies are especially difficult for studies that evaluate treatments for rare diseases and conditions (defined by the Orphan Drug Act \[Pub. L. 97–414, see Short Title of 1983 Amendments note set out under section 301 of Title 21, Food and Drugs\] as a disease or condition affecting fewer than 200,000 Americans), where the available number of willing and able research participants may be very small.
+
+&emsp;“(3) In accordance with ethical standards established by the National Institutes of Health, sponsors of clinical research may provide payments to trial participants for out-of-pocket costs associated with trial enrollment and for the time and commitment demanded by those who participate in a study. When offering compensation, clinical trial sponsors are required to provide such payments to all participants.
+
+&emsp;“(4) The offer of payment for research participation may pose a barrier to trial enrollment when such payments threaten the eligibility of clinical trial participants for Supplemental Security Income and Medicaid benefits.
+
+&emsp;“(5) With a small number of potential trial participants and the possible loss of Supplemental Security Income and Medicaid benefits for many who wish to participate, clinical trial research for rare diseases and conditions becomes exceptionally difficult and may hinder research on new treatments and potential cures for these rare diseases and conditions.”
+
+\[Section 2 of Pub. L. 111–255, set out above, repealed 5 years after Oct. 5, 2010, see section 3(e) of Pub. L. 111–255, set out as an Effective and Termination Dates of 2010 Amendment note above.\]
 
 #### Application to Northern Mariana Islands
 

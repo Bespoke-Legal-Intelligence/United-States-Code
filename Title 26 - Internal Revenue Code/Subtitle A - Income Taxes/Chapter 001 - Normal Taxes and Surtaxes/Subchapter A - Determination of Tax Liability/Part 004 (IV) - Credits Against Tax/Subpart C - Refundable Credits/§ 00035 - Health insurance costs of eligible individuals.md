@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In the case of an individual, there shall be allowed as a credit against the tax imposed by subtitle A an amount equal to 65 percent (80 percent in the case of eligible coverage months beginning before January 1, 2011) of the amount paid by the taxpayer for coverage of the taxpayer and qualifying family members under qualified health insurance for eligible coverage months beginning in the taxable year.
+In the case of an individual, there shall be allowed as a credit against the tax imposed by subtitle A an amount equal to 65 percent (80 percent in the case of eligible coverage months beginning before February 13, 2011) of the amount paid by the taxpayer for coverage of the taxpayer and qualifying family members under qualified health insurance for eligible coverage months beginning in the taxable year.
 
 #### (b) Eligible coverage month
 
@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (B) Special rule
 
-&emsp;&emsp;In the case of any eligible coverage month beginning after the date of the enactment of this paragraph and before January 1, 2011, the term “eligible TAA recipient” means, with respect to any month, any individual who—
+&emsp;&emsp;In the case of any eligible coverage month beginning after the date of the enactment of this paragraph and before February 13, 2011, the term “eligible TAA recipient” means, with respect to any month, any individual who—
 
 &emsp;&emsp;&emsp;(i) is receiving for any day of such month a trade readjustment allowance under chapter 2 of title II of the Trade Act of 1974,
 
@@ -64,7 +64,7 @@ For purposes of this section—
 
 &emsp;The term “eligible alternative TAA recipient” means, with respect to any month, any individual who—
 
-&emsp;&emsp;(A) is a worker described in section 246(a)(3)(B) of the Trade Act of 1974 who is participating in the program established under section 246(a)(1) of such Act, and
+&emsp;&emsp;(A) is a worker described in section 246(a)(3)(B) of the Trade Act of 1974 who isparticipating in the program established under section 246(a)(1) of such Act, and
 
 &emsp;&emsp;(B) is receiving a benefit for such month under section 246(a)(2) of such Act.
 
@@ -140,7 +140,7 @@ For purposes of this section—
 
 > &emsp;&emsp;For purposes of this subparagraph, the term “individual health insurance” means any insurance which constitutes medical care offered to individuals other than in connection with a group health plan and does not include Federal- or State-based health insurance coverage.
 
-&emsp;&emsp;(K) In the case of eligible coverage months beginning before January 1, 2011, coverage under an employee benefit plan funded by a voluntary employees’ beneficiary association (as defined in section 501(c)(9)) established pursuant to an order of a bankruptcy court, or by agreement with an authorized representative, as provided in section 1114 of title 11, United States Code.
+&emsp;&emsp;(K) In the case of eligible coverage months beginning before February 13, 2012, coverage under an employee benefit plan funded by a voluntary employees’ beneficiary association (as defined in section 501(c)(9)) established pursuant to an order of a bankruptcy court, or by agreement with an authorized representative, as provided in section 1114 of title 11, United States Code.
 
 #### (2) Requirements for state-based coverage
 
@@ -200,7 +200,7 @@ For purposes of this section, an individual has other specified coverage for any
 
 #### (C) Treatment of cafeteria plans
 
-&emsp;&emsp;For purposes of subparagraphs (A) and (B), the cost of coverage shall be treated as paid or incurred by an employer to the extent thecoverage is in lieu of a right to receive cash or other qualified benefits under a cafeteria plan (as defined in section 125(d)).
+&emsp;&emsp;For purposes of subparagraphs (A) and (B), the cost of coverage shall be treated as paid or incurred by an employer to the extent the coverage is in lieu of a right to receive cash or other qualified benefits under a cafeteria plan (as defined in section 125(d)).
 
 #### (2) Coverage under Medicare, Medicaid, or SCHIP
 
@@ -268,11 +268,11 @@ For purposes of this section, an individual has other specified coverage for any
 
 #### (9) COBRA premium assistance
 
-&emsp;In the case of an assistance eligible individual who receives premium reduction for COBRA continuation coverage under section 3002(a) of the Health Insurance Assistance for the Unemployed Act of 2009 <sup>1</sup> for any month during the taxable year, such individual shall not be treated as an eligible individual, a certified individual, or a qualifying family member for purposes of this section or section 7527 with respect to such month.
+&emsp;In the case of an assistance eligible individual who receives premium reduction for COBRA continuation coverage under section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009 for any month during the taxable year, such individual shall not be treated as an eligible individual, a certified individual, or a qualifying family member for purposes of this section or section 7527 with respect to such month.
 
-#### (10) <sup>2</sup> Continued qualification of family members after certain events
+#### (10) <sup>1</sup> Continued qualification of family members after certain events
 
-&emsp;In the case of eligible coverage months beginning before January 1, 2011—
+&emsp;In the case of eligible coverage months beginning before February 13, 2011—
 
 #### (A) Medicare eligibility
 
@@ -290,11 +290,11 @@ For purposes of this section, an individual has other specified coverage for any
 
 &emsp;&emsp;&emsp;(ii) any individual who was a qualifying family member of the decedent immediately before such death (or, in the case of an individual to whom paragraph (4) applies, the taxpayer to whom the deduction under section 151 is allowable) shall be treated as an eligible individual for purposes of this section and section 7527 for a period of 24 months beginning with the date of such death, except that in determining the amount of such credit only such qualifying family member may be taken into account.
 
-#### (10) <sup>2</sup> Regulations
+#### (10) <sup>1</sup> Regulations
 
 &emsp;The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, section 6050T, and section 7527.
 
-(Added Pub. L. 107–210, div. A, title II, §201(a), Aug. 6, 2002, 116 Stat. 954; amended Pub. L. 108–311, title IV, §401(a)(2), Oct. 4, 2004, 118 Stat. 1183; Pub. L. 110–172, §11(a)(5), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 111–5, div. B, title I, §§1899A(a)(1), 1899C(a), 1899E(a), 1899G(a), title III, §3001(a)(14)(A), Feb. 17, 2009, 123 Stat. 423, 424, 426, 430, 465.)
+(Added Pub. L. 107–210, div. A, title II, §201(a), Aug. 6, 2002, 116 Stat. 954; amended Pub. L. 108–311, title IV, §401(a)(2), Oct. 4, 2004, 118 Stat. 1183; Pub. L. 110–172, §11(a)(5), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 111–5, div. B, title I, §§1899A(a)(1), 1899C(a), 1899E(a), 1899G(a), title III, §3001(a)(14)(A), Feb. 17, 2009, 123 Stat. 423, 424, 426, 430, 465; Pub. L. 111–144, §3(b)(5)(A), Mar. 2, 2010, 124 Stat. 44; Pub. L. 111–344, title I, §§111(a), 113(a), 115(a), 117(a), Dec. 29, 2010, 124 Stat. 3614–3616.)
 
 #### References in Text
 
@@ -304,13 +304,13 @@ The Trade Act of 1974, referred to in subsec. (c)(2), (3), is Pub. L. 93–618, 
 
 The date of the enactment of this paragraph, referred to in subsec. (c)(2)(B), probably means the date of enactment of Pub. L. 111–5, which amended par. (2) generally and which was approved Feb. 17, 2009.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsecs. (c)(4)(B) and (e)(1)(F)(i), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29, Labor. Section 3(37) of the Act is classified to section 1002(37) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (c)(4)(B) and (e)(1)(F)(i), isPub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29, Labor. Section 3(37) of the Act is classified to section 1002(37) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 Section 2744(c)(2) of the Public Health Service Act, referred to in subsec. (e)(1)(C), is classified to section 300gg–44(c)(2) of Title 42, The Public Health and Welfare.
 
 The Social Security Act, referred to in subsec. (f)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. Section 1928 of the Act is classified to section 1396s of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Health Insurance Assistance for the Unemployed Act of 2009, referred to in subsec. (g)(9), was the name of title III of div. B in both the introduced and House engrossed versions of H.R. 1 in the 111th Congress. H.R. 1 was enacted into law as Pub. L. 111–5, but as enacted, it did not include any provision known as the Health Insurance Assistance for the Unemployed Act of 2009 and did not contain a section 3002.
+Section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009, referred to in subsec. (g)(9), is section 3001(a) of Pub. L. 111–5, div. B, title III, Feb. 17, 2009, 123 Stat. 455, which enacted sections 139C, 6432, and 6720C of this title, amended this section, and enacted provisions set out as a note under section 6432 of this title.
 
 #### Prior Provisions
 
@@ -320,7 +320,17 @@ Another prior section 35, acts Aug. 16, 1954, ch. 736, 68A Stat. 14; Sept. 2, 19
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–5, §1899A(a)(1), inserted “(80 percent in the case of eligible coverage months beginning before January 1, 2011)” after “65 percent”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–344, §111(a), substituted “February 13, 2011” for “January 1, 2011”.
+
+Subsec. (c)(2)(B). Pub. L. 111–344, §113(a), substituted “February 13, 2011” for “January 1, 2011” in introductory provisions.
+
+Subsec. (e)(1)(K). Pub. L. 111–344, §117(a), substituted “February 13, 2012” for “January 1, 2011”.
+
+Subsec. (g)(9). Pub. L. 111–144 substituted “section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009” for “section 3002(a) of the Health Insurance Assistance for the Unemployed Act of 2009”.
+
+Subsec. (g)(10). Pub. L. 111–344, §115(a), which directed amendment of par. (9) by substituting “February 13, 2011” for “January 1, 2011”, was executed by making the substitution in par. (10) relating to continued qualification of family members after certain events, to reflect the probable intent of Congress and the redesignation of par. (9) as (10) by Pub. L. 111–5, §3001(a)(14)(A). See 2009 Amendment note below.
+
+<b>2009</b>—Subsec. (a). Pub. L. 111–5, §1899A(a)(1), inserted “(80 percent in the case of eligible coverage months beginning before January 1, 2011)” after “65 percent”.
 
 Subsec. (c)(2). Pub. L. 111–5, §1899C(a), amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘eligible TAA recipient’ means, with respect to any month, any individual who is receiving for any day of such month a trade readjustment allowance under chapter 2 of title II of the Trade Act of 1974 or who would be eligible to receive such allowance if section 231 of such Act were applied without regard to subsection (a)(3)(B) of such section. An individual shall continue to be treated as an eligible TAA recipient during the first month that such individual would otherwise cease to be an eligible TAA recipient by reason of the preceding sentence.”
 
@@ -330,9 +340,21 @@ Subsec. (g)(9), (10). Pub. L. 111–5, §3001(a)(14)(A), added par. (9) and rede
 
 Pub. L. 111–5, §1899E(a), added par. (9) and redesignated former par. (9) as (10) relating to regulations. Amendment was executed before amendment by Pub. L. 111–5, §3001(a)(14)(A), to reflect the probable intent of Congress, notwithstanding effective date provisions in section 1891 of Pub. L. 111–5. See Effective Date of 2009 Amendment note below.
 
-2007—Subsec. (d)(2). Pub. L. 110–172 struck out “paragraph (2) or (4) of” before “section 152(e)” and substituted “(as defined in section 152(e)(4)(A))” for “(within the meaning of section 152(e)(1))”.
+<b>2007</b>—Subsec. (d)(2). Pub. L. 110–172 struck out “paragraph (2) or (4) of” before “section 152(e)” and substituted “(as defined in section 152(e)(4)(A))” for “(within the meaning of section 152(e)(1))”.
 
-2004—Subsec. (g)(3). Pub. L. 108–311 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “Amounts distributed from an Archer MSA (as defined in section 220(d)) shall not be taken into account under subsection (a).”
+<b>2004</b>—Subsec. (g)(3). Pub. L. 108–311 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “Amounts distributed from an Archer MSA (as defined in section 220(d)) shall not be taken into account under subsection (a).”
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–344, title I, §111(c), Dec. 29, 2010, 124 Stat. 3615, provided that: “The amendments made by this section \[amending this section and section 7527 of this title\] shall apply to coverage months beginning after December 31, 2010.”
+
+Pub. L. 111–344, title I, §113(b), Dec. 29, 2010, 124 Stat. 3615, provided that: “The amendment made by this section \[amending this section\] shall apply to coverage months beginning after December 31, 2010.”
+
+Pub. L. 111–344, title I, §115(c), Dec. 29, 2010, 124 Stat. 3615, provided that: “The amendments made by this section \[amending this section and section 2918 of Title 29, Labor\] shall apply to months beginning after December 31, 2010.”
+
+Pub. L. 111–344, title I, §117(b), Dec. 29, 2010, 124 Stat. 3616, provided that: “The amendment made by this section \[amending this section\] shall apply to coverage months beginning after December 31, 2010.”
+
+Amendment by Pub. L. 111–144 effective as if included in the provisions of section 3001 of Pub. L. 111–5 to which it relates, see section 3(c) of Pub. L. 111–144, set out as a note under section 6432 of this title.
 
 #### Effective Date of 2009 Amendment
 
@@ -346,7 +368,7 @@ Pub. L. 111–5, div. B, title I, §1899E(c), Feb. 17, 2009, 123 Stat. 428, prov
 
 Pub. L. 111–5, div. B, title I, §1899G(b), Feb. 17, 2009, 123 Stat. 430, provided that: “The amendments made by this section \[amending this section\] shall apply to coverage months beginning after the date of the enactment of this Act \[Feb. 17, 2009\].”
 
-Amendment by section 3001(a)(14)(A) of Pub. L. 111–5 applicable to taxable years ending after Feb. 17, 2009, see section 3001(a)(14)(B) of Pub. L. 111–5, set out as a Premium Assistance for COBRA Benefits note under section 6432 of this title.
+Amendment by section 3001(a)(14)(A) of Pub. L. 111–5 applicable to taxable years ending after Feb. 17, 2009,see section 3001(a)(14)(B) of Pub. L. 111–5, set out as a Premium Assistance for COBRA Benefits note under section 6432 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -438,7 +460,7 @@ Report.—Not later than October 1 of each year (beginning in 2010), the Secreta
 
 > &emsp;with respect to each category of coverage as described in section 35(e)(1) of such Code.
 
-&emsp;“(3) In each State and nationally, an analysis of the following information with respect to the health insurance coverage of individuals receiving the healthcoverage tax credit who are enrolled in coverage described in subparagraphs (B) through (H) of section 35(e)(1) of such Code:
+&emsp;“(3) In each State and nationally, an analysis of the following information with respect to the health insurance coverage of individuals receiving the health coverage tax credit who are enrolled in coverage described in subparagraphs (B) through (H) of section 35(e)(1) of such Code:
 
 &emsp;&emsp;“(A) Deductible amounts.
 
@@ -456,7 +478,5 @@ Report.—Not later than October 1 of each year (beginning in 2010), the Secreta
 
 &emsp;“(7) The number of States applying for and receiving national emergency grants under section 173(f) of the Workforce Investment Act of 1998 (29 U.S.C. 2918(f)), the activities funded by such grants on a State-by-State basis, and the time necessary for application approval of such grants.”
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. There are two pars. designated “(10)”.</i>
+<i><sup>1</sup></i><i> So in original. There are two pars. designated “(10)”.</i>
 

@@ -44,7 +44,7 @@ Definitions.—In this section:
 
 #### Amendments
 
-2002—Subsecs. (a), (c)(4)(C). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsecs. (a), (c)(4)(C). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 #### Effective Date of 2002 Amendment
 

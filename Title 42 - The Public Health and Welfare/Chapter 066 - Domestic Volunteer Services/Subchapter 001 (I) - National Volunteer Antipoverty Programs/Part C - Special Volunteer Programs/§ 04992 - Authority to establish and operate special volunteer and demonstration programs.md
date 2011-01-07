@@ -16,25 +16,25 @@ In carrying out this section and section 4993 of this title, the Director shall 
 
 #### Amendments
 
-1993—Pub. L. 103–82 amended section generally, substituting present provisions for provisions which related to: in subsec. (a), youthful offender incarceration alternatives, veterans educational opportunities, drug abusers counseling, assistance to victims of domestic violence, periods of service, and identification of segments of poverty community which could benefit from volunteer and other antipoverty efforts; in subsec. (b), assignment of volunteers, and terms and conditions; in subsec. (c), allowances, supports, services, and stipends for part-time and full-time volunteers; in subsec. (d), establishment of criteria for grants and contracts, competitive process, maximum amount, and multiple grants or contracts; and in subsec. (e), prohibition on use of funds for certain State offices.
+<b>1993</b>—Pub. L. 103–82 amended section generally, substituting present provisions for provisions which related to: in subsec. (a), youthful offender incarceration alternatives, veterans educational opportunities, drug abusers counseling, assistance to victims of domestic violence, periods of service, and identification of segments of poverty community which could benefit from volunteer and other antipoverty efforts; in subsec. (b), assignment of volunteers, and terms and conditions; in subsec. (c), allowances, supports, services, and stipends for part-time and full-time volunteers; in subsec. (d), establishment of criteria for grants and contracts, competitive process, maximum amount, and multiple grants or contracts; and in subsec. (e), prohibition on use of funds for certain State offices.
 
-1989—Subsec. (d)(3), (4). Pub. L. 101–204, §301(a), added par. (3) and redesignated former par. (3) as (4).
+<b>1989</b>—Subsec. (d)(3), (4). Pub. L. 101–204, §301(a), added par. (3) and redesignated former par. (3) as (4).
 
 Subsec. (e). Pub. L. 101–204, §301(b), added subsec. (e).
 
-1986—Subsec. (a)(1). Pub. L. 99–551, §§6(a), 10(d), inserted “(including Indian reservations)” and substituted “offenders, a program” and “veterans, a program” for “offenders; a program” and “veterans; a program”, respectively.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–551, §§6(a), 10(d), inserted “(including Indian reservations)” and substituted “offenders, a program” and “veterans, a program” for “offenders; a program” and “veterans; a program”, respectively.
 
 Subsec. (b). Pub. L. 99–551, §10(i)(4), substituted “the Director” for “he” before “shall prescribe”.
 
-1984—Subsec. (c)(2)(B). Pub. L. 98–288, §30(b)(2), substituted “4953(f)” for “4953(d)”.
+<b>1984</b>—Subsec. (c)(2)(B). Pub. L. 98–288, §30(b)(2), substituted “4953(f)” for “4953(d)”.
 
 Subsec. (d). Pub. L. 98–288, §12, added subsec. (d).
 
-1979—Subsec. (a). Pub. L. 96–143, §7(a), (b), designated existing provisions as par. (1), inserted “in urban and rural areas” after “volunteer programs” and “, a program of assistance to victims of domestic violence, a program to provide technical and management assistance to distressed communities, a program designed to provide personal and group financial counseling to low-income and fixed-income individuals (utilizing volunteers with specialized or technical expertise), and a Helping Hand program” after “drug abusers”, inserted provisions authorizing the Director to provide for the recruitment, selection, and training of volunteers in carrying out programs authorized by this part, and added par. (2).
+<b>1979</b>—Subsec. (a). Pub. L. 96–143, §7(a), (b), designated existing provisions as par. (1), inserted “in urban and rural areas” after “volunteer programs” and “, a program of assistance to victims of domestic violence, a program to provide technical and management assistance to distressed communities, a program designed to provide personal and group financial counseling to low-income and fixed-income individuals (utilizing volunteers with specialized or technical expertise), and a Helping Hand program” after “drug abusers”, inserted provisions authorizing the Director to provide for therecruitment, selection, and training of volunteers in carrying out programs authorized by this part, and added par. (2).
 
 Subsec. (c). Pub. L. 96–143, §7(c), inserted provisions permitting support payments to part-time volunteers enrolled for at least 20 hours of service per week for at least 26 consecutive weeks and provisions applying sections 4953(b), (d), 4954(d), and 4955(a) of this title to full-time full-year volunteers whose service is similar in character to that of VISTA volunteers.
 
-1976—Subsec. (c). Pub. L. 94–293 inserted provision authorizing the Director to undertake and support volunteer service programs, and recruit, etc., volunteers to carry out this part.
+<b>1976</b>—Subsec. (c). Pub. L. 94–293 inserted provision authorizing the Director to undertake and support volunteer service programs, and recruit, etc., volunteers to carry out this part.
 
 #### Effective Date of 1993 Amendment
 

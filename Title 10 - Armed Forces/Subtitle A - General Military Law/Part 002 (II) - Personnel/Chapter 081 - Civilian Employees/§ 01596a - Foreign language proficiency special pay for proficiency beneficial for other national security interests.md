@@ -26,7 +26,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 #### Amendments
 
-2004—Subsec. (a)(2). Pub. L. 108–375 struck out “during a contingency operation supported by the armed forces” after “foreign language”.
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–375 struck out “during a contingency operation supported by the armed forces” after “foreign language”.
 
 #### Effective Date of 2004 Amendment
 

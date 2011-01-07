@@ -56,13 +56,13 @@ A prior section 6111 was renumbered 6116 of this title.
 
 #### Amendments
 
-2005—Subsec. (b)(1)(A)(ii). Pub. L. 109–135 substituted “aid, assistance, or advice” for “advice or assistance”.
+<b>2005</b>—Subsec. (b)(1)(A)(ii). Pub. L. 109–135 substituted “aid, assistance, or advice” for “advice or assistance”.
 
-2004—Pub. L. 108–357 amended section catchline and text generally, substituting provisions relating to disclosure of reportable transactions for provisions relating to registration of tax shelters and inclusion of identification numbers on returns.
+<b>2004</b>—Pub. L. 108–357 amended section catchline and text generally, substituting provisions relating to disclosure of reportable transactions for provisions relating to registration of tax shelters and inclusion of identification numbers on returns.
 
-1997—Subsecs. (d) to (f). Pub. L. 105–34 added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+<b>1997</b>—Subsecs. (d) to (f). Pub. L. 105–34 added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
-1986—Subsec. (c)(2)(A). Pub. L. 99–514, §1531(a), substituted “350 percent” for “200 percent”.
+<b>1986</b>—Subsec. (c)(2)(A). Pub. L. 99–514, §1531(a), substituted “350 percent” for “200 percent”.
 
 Subsec. (c)(3)(B)(ii). Pub. L. 99–514, §201(d)(13), substituted “section 465(b)(3)(C)” for “section 168(e)(4)”.
 
@@ -78,7 +78,7 @@ Section 1028(e) of Pub. L. 105–34 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 6662 and 6707 of this title\] shall apply to any tax shelter (as defined in section 6111(d) of the Internal Revenue Code of 1986, as amended by this section) interests in which are offered to potential participants after the Secretary of the Treasury prescribes guidance with respect to meeting requirements added by such amendments.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 6662 and 6707 of this title\] shall apply to any tax shelter (as defined in section 6111(d) ofthe Internal Revenue Code of 1986, as amended by this section) interests in which are offered to potential participants after the Secretary of the Treasury prescribes guidance with respect to meeting requirements added by such amendments.
 
 “(2)
 

@@ -62,7 +62,7 @@ Notwithstanding section 7701(a)(4), a foreign corporation shall be treated for p
 
 #### (4) Certain transfers disregarded
 
-&emsp;The transfer of properties or liabilities (including by contribution or distribution) shall be disregarded if such transfers are part of a plan a principal purpose of which is to avoid the purposes of this section.
+&emsp;The transfer of properties or liabilities (including by contribution or distribution) shallbe disregarded if such transfers are part of a plan a principal purpose of which is to avoid the purposes of this section.
 
 #### (5) Special rule for related partnerships
 
@@ -90,7 +90,7 @@ For purposes of this section—
 
 #### (2) Inversion gain
 
-&emsp;The term “inversion gain” means the income or gain recognized by reason of the transfer during the applicable period of stockor other properties by an expatriated entity, and any income received or accrued during the applicable period by reason of a license of any property by an expatriated entity—
+&emsp;The term “inversion gain” means the income or gain recognized by reason of the transfer during the applicable period of stock or other properties by an expatriated entity, and any income received or accrued during the applicable period by reason of a license of any property by an expatriated entity—
 
 &emsp;&emsp;(A) as part of the acquisition described in subsection (a)(2)(B)(i), or
 
@@ -166,7 +166,7 @@ The Secretary shall provide such regulations as are necessary to carry out this 
 
 #### Amendments
 
-2005—Subsec. (a)(3). Pub. L. 109–135 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Paragraph (1) shall not apply to any entity which is treated as a domestic corporation under subsection (b).”
+<b>2005</b>—Subsec. (a)(3). Pub. L. 109–135 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Paragraph (1) shall not apply to any entity which is treated as a domestic corporation under subsection (b).”
 
 #### Effective Date of 2005 Amendment
 

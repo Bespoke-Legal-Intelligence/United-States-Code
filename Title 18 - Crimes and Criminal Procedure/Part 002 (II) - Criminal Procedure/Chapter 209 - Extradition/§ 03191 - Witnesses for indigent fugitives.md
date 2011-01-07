@@ -12,7 +12,7 @@ Words “that similar” after “manner” were omitted as unnecessary.
 
 #### Amendments
 
-1968—Pub. L. 90–578 substituted “magistrate” for “commissioner”.
+<b>1968</b>—Pub. L. 90–578 substituted “magistrate” for “commissioner”.
 
 #### Change of Name
 

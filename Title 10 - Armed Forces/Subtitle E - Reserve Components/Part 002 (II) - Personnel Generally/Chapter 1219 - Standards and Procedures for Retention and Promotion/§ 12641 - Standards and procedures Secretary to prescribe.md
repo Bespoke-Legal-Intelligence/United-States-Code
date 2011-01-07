@@ -44,7 +44,7 @@ In subsection (a), the words “As soon as may be practicable after the effectiv
 
 #### Amendments
 
-1994—Pub. L. 103–337 renumbered section 1001 of this title as this section and substituted “Standards and procedures: Secretary to prescribe” for “Secretary to prescribe” as section catchline.
+<b>1994</b>—Pub. L. 103–337 renumbered section 1001 of this title as this section and substituted “Standards and procedures: Secretary to prescribe” for “Secretary to prescribe” as section catchline.
 
 #### Effective Date of 1994 Amendment
 

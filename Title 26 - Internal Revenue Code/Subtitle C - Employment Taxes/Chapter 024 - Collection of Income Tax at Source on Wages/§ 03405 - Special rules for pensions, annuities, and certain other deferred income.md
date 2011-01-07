@@ -60,7 +60,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the payor of a designated distribution (as defined in subsection (e)(1)) shall withhold, and be liable for, payment of the tax required to be withheld under this section.
+&emsp;Except as provided in paragraph (2), the payor of a designated distribution (as definedin subsection (e)(1)) shall withhold, and be liable for, payment of the tax required to be withheld under this section.
 
 #### (2) Plan administrator liable in certain cases
 
@@ -164,7 +164,7 @@ For purposes of this section—
 
 #### (ii) Nonperiodic distributions
 
-&emsp;&emsp;&emsp;The payor of any nonperiodic distribution shall transmit to the payee notice of the right to make any election provided in subsection (b) at the time of the distribution (or at such earlier time as may be provided in regulations).
+&emsp;&emsp;&emsp;The payor of any nonperiodic distribution shall transmit to the payee notice ofthe right to make any election provided in subsection (b) at the time of the distribution (or at such earlier time as may be provided in regulations).
 
 #### (iii) Notice
 
@@ -214,15 +214,15 @@ Section 301(d) of the Tax Reduction Act of 1975, referred to in subsec. (d)(2)(B
 
 #### Amendments
 
-2001—Subsec. (c)(3). Pub. L. 107–16, §641(a)(1)(D)(ii), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “For purposes of this subsection, the term ‘eligible rollover distribution’ has the meaning given such term by section 402(f)(2)(A) (or in the case of an annuity contract under section 403(b), a distribution from such contract described in section 402(f)(2)(A)).”
+<b>2001</b>—Subsec. (c)(3). Pub. L. 107–16, §641(a)(1)(D)(ii), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “For purposes of this subsection, the term ‘eligible rollover distribution’ has the meaning given such term by section 402(f)(2)(A) (or in the case of an annuity contract under section 403(b), a distribution from such contract described in section 402(f)(2)(A)).”
 
 Subsec. (d)(2)(B)(iv). Pub. L. 107–16, §641(a)(1)(D)(iii), added cl. (iv).
 
-2000—Subsec. (e)(1)(B). Pub. L. 106–554 inserted “(other than a Roth IRA)” after “individual retirement plan” in concluding provisions.
+<b>2000</b>—Subsec. (e)(1)(B). Pub. L. 106–554 inserted “(other than a Roth IRA)” after “individual retirement plan” in concluding provisions.
 
-1996—Subsec. (e)(12). Pub. L. 104–188 substituted “(b)(2)” for “(b)(3)” in closing provisions.
+<b>1996</b>—Subsec. (e)(12). Pub. L. 104–188 substituted “(b)(2)” for “(b)(3)” in closing provisions.
 
-1992—Subsec. (a). Pub. L. 102–318, §521(b)(36), substituted “Periodic payments” for “Pensions, annuities, etc.” in heading.
+<b>1992</b>—Subsec. (a). Pub. L. 102–318, §521(b)(36), substituted “Periodic payments” for “Pensions, annuities, etc.” in heading.
 
 Subsec. (a)(1). Pub. L. 102–318, §522(b)(2)(A), substituted “subsection (e)(2)” for “subsection (d)(2)”.
 
@@ -242,19 +242,19 @@ Pub. L. 102–318, §521(b)(38), struck out par. (4) which defined “qualified 
 
 Subsecs. (e), (f). Pub. L. 102–318, §522(b)(1), redesignated subsecs. (d) and (e) as (e) and (f), respectively.
 
-1988—Subsec. (d)(13). Pub. L. 100–647, §1012(bb)(2)(C), substituted “United States or its possessions” for “United States” in heading.
+<b>1988</b>—Subsec. (d)(13). Pub. L. 100–647, §1012(bb)(2)(C), substituted “United States or its possessions” for “United States” in heading.
 
 Subsec. (d)(13)(A). Pub. L. 100–647, §1012(bb)(2)(A), substituted “the United States and any possession of the United States” for “the United States”.
 
 Subsec. (d)(13)(B)(i). Pub. L. 100–647, §1012(bb)(2)(B), amended cl. (i) generally, substituting “or a resident alien of the United States” for “who is a bona fide resident of a foreign country”.
 
-1986—Subsec. (d)(1)(B). Pub. L. 99–514, §1102(e)(1), inserted last sentence for “For purposes of clause (ii), any distribution or payment from or under an individual retirement plan shall be treated as includible in gross income.”
+<b>1986</b>—Subsec. (d)(1)(B). Pub. L. 99–514, §1102(e)(1), inserted last sentence for “For purposes of clause (ii), any distribution or payment from or under an individual retirement plan shall be treated as includible in gross income.”
 
 Subsec. (d)(1)(B)(iii), (iv). Pub. L. 99–514, §1875(c)(10), reenacted cl. (iii) relating to amounts subject to withholding under subchapter A of chapter 3 as cl. (iii) and reenacted cl. (iii) relating to distribution described in section 404(k)(2) as cl. (iv).
 
 Subsec. (d)(13). Pub. L. 99–514, §1234(b)(1), added par. (13).
 
-1984—Subsec. (b)(2)(C). Pub. L. 98–369, §714(j)(1), substituted “nonperiodic distribution” for “distribution described in subparagraph (B)” and “subparagraph (A) or (B) (as the case may be) shall be applied by taking into account” for “the Secretary, in prescribing tables or procedures under paragraph (1), shall take into account”, designated phrase “which is made by reason of a participant's death” as cl. (i) and added cl. (ii).
+<b>1984</b>—Subsec. (b)(2)(C). Pub. L. 98–369, §714(j)(1), substituted “nonperiodic distribution” for “distribution described in subparagraph (B)” and “subparagraph (A) or (B) (as the case may be) shall be applied by taking into account” for “the Secretary, in prescribing tables or procedures under paragraph (1), shall take into account”, designated phrase “which is made by reason of a participant's death” as cl. (i) and added cl. (ii).
 
 Subsec. (d)(1)(B)(iii). Pub. L. 98–369, §714(j)(4), added cl. (iii) relating to amounts subject to withholding under subchapter A of chapter 3.
 
@@ -334,5 +334,5 @@ For provisions directing that if any amendments made by subtitle B \[§§521–5
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

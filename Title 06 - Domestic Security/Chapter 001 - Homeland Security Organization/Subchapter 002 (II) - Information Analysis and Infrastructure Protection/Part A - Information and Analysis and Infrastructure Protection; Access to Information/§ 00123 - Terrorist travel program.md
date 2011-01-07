@@ -2,7 +2,7 @@
 
 #### (a) Requirement to establish
 
-Not later than 90 days after August 3, 2007, the Secretary of Homeland Security, in consultation with the Director of the National Counterterrorism Center and consistent with the strategy developed under section 7201,<sup>1</sup> shall establish a program to oversee the implementation of the Secretary's responsibilities with respect to terrorist travel.
+Not later than 90 days after August 3, 2007, the Secretary of Homeland Security, in consultationwith the Director of the National Counterterrorism Center and consistent with the strategy developed under section 7201,<sup>1</sup> shall establish a program to oversee the implementation of the Secretary's responsibilities with respect to terrorist travel.
 
 #### (b) Head of the program
 

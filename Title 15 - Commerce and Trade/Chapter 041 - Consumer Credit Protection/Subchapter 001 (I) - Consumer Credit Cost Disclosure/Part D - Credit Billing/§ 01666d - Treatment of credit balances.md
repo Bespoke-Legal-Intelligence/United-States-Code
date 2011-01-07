@@ -12,7 +12,7 @@ Whenever a credit balance in excess of $1 is created in connection with a consum
 
 #### Amendments
 
-1980—Pub. L. 96–221 substituted provisions relating to duties of creditor whenever a credit balance in excess of $1 is created in connection with a consumer credit transaction, for provisions relating to duties of creditor whenever an obligor transmits funds to creditor in excess of the total balance due on an open end consumer credit account.
+<b>1980</b>—Pub. L. 96–221 substituted provisions relating to duties of creditor whenever a credit balance in excess of $1 is created in connection with a consumer credit transaction, for provisions relating to duties of creditor whenever an obligor transmits funds to creditor in excess of the total balance due on an open end consumer credit account.
 
 #### Effective Date of 1980 Amendment
 

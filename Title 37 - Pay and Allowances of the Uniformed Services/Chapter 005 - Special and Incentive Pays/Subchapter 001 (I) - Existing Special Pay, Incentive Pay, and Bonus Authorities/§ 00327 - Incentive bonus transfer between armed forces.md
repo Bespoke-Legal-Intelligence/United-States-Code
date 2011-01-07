@@ -20,7 +20,7 @@ Eligible Members.—A member is eligible to enter into an agreement under subsec
 
 (c)
 
-Limitation.—A member may enter into an agreement under subsection (a) to transfer to aregular component or reserve component of another armed force only if the Secretary having jurisdiction over such armed force determines that there is shortage of trained and qualified personnel in such component.
+Limitation.—A member may enter into an agreement under subsection (a) to transfer to a regular component or reserve component of another armed force only if the Secretary having jurisdiction over such armed force determines that there is shortage of trained and qualified personnel in such component.
 
 (d)
 
@@ -48,15 +48,17 @@ Regulations.—The Secretaries concerned shall prescribe regulations to carry ou
 
 (h)
 
-Termination of Authority.—No agreement under this section may be entered into after December 31, 2010.
+Termination of Authority.—No agreement under this section may be entered into after December 31, 2011.
 
-(Added and amended Pub. L. 109–163, div. A, title VI, §§641(a), 687(b)(35), Jan. 6, 2006, 119 Stat. 3304, 3333; Pub. L. 109–364, div. A, title VI, §§614(h), 620(a), Oct. 17, 2006, 120 Stat. 2249, 2252; Pub. L. 111–84, div. A, title VI, §615(7), Oct. 28, 2009, 123 Stat. 2354.)
+(Added and amended Pub. L. 109–163, div. A, title VI, §§641(a), 687(b)(35), Jan. 6, 2006, 119 Stat. 3304, 3333; Pub. L. 109–364, div. A, title VI, §§614(h), 620(a), Oct. 17, 2006, 120 Stat. 2249, 2252; Pub. L. 111–84, div. A, title VI, §615(7), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(7), Jan. 7, 2011, 124 Stat. 4237.)
 
 #### Amendments
 
-2009—Subsec. (h). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+<b>2011</b>—Subsec. (h). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
 
-2006—Subsec. (d)(1). Pub. L. 109–364, §620(a), substituted “$10,000” for “$2,500”.
+<b>2009</b>—Subsec. (h). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+
+<b>2006</b>—Subsec. (d)(1). Pub. L. 109–364, §620(a), substituted “$10,000” for “$2,500”.
 
 Subsec. (f). Pub. L. 109–163, §687(b)(35), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows:
 

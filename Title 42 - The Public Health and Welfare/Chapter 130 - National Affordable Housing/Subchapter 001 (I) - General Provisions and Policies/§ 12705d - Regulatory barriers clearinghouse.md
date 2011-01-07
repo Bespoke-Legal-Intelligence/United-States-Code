@@ -44,7 +44,7 @@ Section was enacted as part of the Removal of Regulatory Barriers to Affordable 
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–569, §103(1)(A), substituted “serve as a national repository to receive, collect, process, assemble, and disseminate” for “receive, collect, process, and assemble” in introductory provisions.
+<b>2000</b>—Subsec. (a). Pub. L. 106–569, §103(1)(A), substituted “serve as a national repository to receive, collect, process, assemble, and disseminate” for “receive, collect, process, and assemble” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 106–569, §103(1)(B), substituted “(including” for “, including” and inserted “), and the prevalence and effects on affordable housing of such laws, regulations, and policies” before semicolon at end.
 

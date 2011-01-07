@@ -11,7 +11,7 @@
 | [1055\.](Subchapter%20001%20%28I%29%20-%20The%20Principal%20Register/%C2%A7%2001055%20-%20Use%20by%20related%20companies%20affecting%20validity%20and%20registration.md) | Use by related companies affecting validity and registration. |
 | [1056\.](Subchapter%20001%20%28I%29%20-%20The%20Principal%20Register/%C2%A7%2001056%20-%20Disclaimer%20of%20unregistrable%20matter.md) | Disclaimer of unregistrable matter. |
 | [1057\.](Subchapter%20001%20%28I%29%20-%20The%20Principal%20Register/%C2%A7%2001057%20-%20Certificates%20of%20registration.md) | Certificates of registration. |
-| [1058\.](Subchapter%20001%20%28I%29%20-%20The%20Principal%20Register/%C2%A7%2001058%20-%20Duration.md) | Duration. |
+| [1058\.](Subchapter%20001%20%28I%29%20-%20The%20Principal%20Register/%C2%A7%2001058%20-%20Duration%2C%20affidavits%20and%20fees.md) | Duration, affidavits and fees. |
 | [1059\.](Subchapter%20001%20%28I%29%20-%20The%20Principal%20Register/%C2%A7%2001059%20-%20Renewal%20of%20registration.md) | Renewal of registration. |
 | [1060\.](Subchapter%20001%20%28I%29%20-%20The%20Principal%20Register/%C2%A7%2001060%20-%20Assignment.md) | Assignment. |
 | [1061\.](Subchapter%20001%20%28I%29%20-%20The%20Principal%20Register/%C2%A7%2001061%20-%20Execution%20of%20acknowledgments%20and%20verifications.md) | Execution of acknowledgments and verifications. |
@@ -64,7 +64,7 @@
 | [1125\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001125%20-%20False%20designations%20of%20origin%2C%20false%20descriptions%2C%20and%20dilution%20forbidden.md) | False designations of origin, false descriptions, and dilution forbidden. |
 | [1126\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001126%20-%20International%20conventions.md) | International conventions. |
 | [1127\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001127%20-%20Construction%20and%20definitions%3B%20intent%20of%20chapter.md) | Construction and definitions; intent of chapter. |
-| [1128\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001128%20-%20National%20Intellectual%20Property%20Law%20Enforcement%20Coordination%20Council.md) | National Intellectual Property Law Enforcement Coordination Council. |
+| [1128\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001128%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93403%2C%20title%20III%2C%20%C2%A7305%28a%29%281%29%2C%20Oct.%2013%2C%202008%2C%20122%20Stat.%204270.md) | Repealed. |
 | [1129\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001129%20-%20Transferred.md) | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -84,7 +84,7 @@
 | [1141h.](Subchapter%20004%20%28IV%29%20-%20The%20Madrid%20Protocol/%C2%A7%2001141h%20-%20Examination%20of%20and%20opposition%20to%20request%20for%20extension%20of%20protection%3B%20notification%20of%20refusal.md) | Examination of and opposition to request for extension of protection; notification of refusal. |
 | [1141i.](Subchapter%20004%20%28IV%29%20-%20The%20Madrid%20Protocol/%C2%A7%2001141i%20-%20Effect%20of%20extension%20of%20protection.md) | Effect of extension of protection. |
 | [1141j.](Subchapter%20004%20%28IV%29%20-%20The%20Madrid%20Protocol/%C2%A7%2001141j%20-%20Dependence%20of%20extension%20of%20protection%20to%20the%20United%20States%20on%20the%20underlying%20international%20registration.md) | Dependence of extension of protection to the United States on the underlying international registration. |
-| [1141k.](Subchapter%20004%20%28IV%29%20-%20The%20Madrid%20Protocol/%C2%A7%2001141k%20-%20Affidavits%20and%20fees.md) | Affidavits and fees. |
+| [1141k.](Subchapter%20004%20%28IV%29%20-%20The%20Madrid%20Protocol/%C2%A7%2001141k%20-%20Duration%2C%20affidavits%20and%20fees.md) | Duration, affidavits and fees. |
 | 1141<i>l</i>. | Assignment of an extension of protection. |
 | [1141m.](Subchapter%20004%20%28IV%29%20-%20The%20Madrid%20Protocol/%C2%A7%2001141m%20-%20Incontestability.md) | Incontestability. |
 | [1141n.](Subchapter%20004%20%28IV%29%20-%20The%20Madrid%20Protocol/%C2%A7%2001141n%20-%20Rights%20of%20extension%20of%20protection.md) | Rights of extension of protection. |
@@ -97,7 +97,7 @@ This chapter, act July 5, 1946, ch. 540, 60 Stat. 427, became effective one year
 
 #### Prior Laws
 
-The Trade-Mark Act of 1905 superseded the Trade-Mark Act of Mar. 3, 1881, ch. 138, 21 Stat. 502, entitled“An Act to authorize the registration of trade-marks and protect the same,” and also act Aug. 5, 1882, ch. 393, 22 Stat. 298, entitled “An Act relating to the registration of trade marks”. Former section 109 of this title repealed all inconsistent acts and parts of acts, except so far as they might apply to certificates of registration issued under the Trade-Mark Act of Mar. 3, 1881, ch. 138, and act Aug. 5, 1882, ch. 393.
+The Trade-Mark Act of 1905 superseded the Trade-Mark Act of Mar. 3, 1881, ch. 138, 21 Stat. 502, entitled “An Act to authorize the registration of trade-marks and protect the same,” and also act Aug. 5, 1882, ch. 393, 22 Stat. 298, entitled “An Act relating to the registration of trade marks”. Former section 109 of this title repealed all inconsistent acts and parts of acts, except so far as they might apply to certificates of registration issued under the Trade-Mark Act of Mar. 3, 1881, ch. 138, and act Aug. 5, 1882, ch. 393.
 
 
 ---

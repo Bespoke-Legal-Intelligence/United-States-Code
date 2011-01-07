@@ -40,7 +40,7 @@ For purposes of this subtitle—
 
 #### (10) Net capital loss
 
-&emsp;The term “net capital loss” means the excess of the losses from sales or exchanges of capital assets over the sum allowed under section 1211. In the case of a corporation, for the purpose of determining losses under this paragraph, amounts which are short-term capital losses under section 1212 shall be excluded.
+&emsp;The term “net capital loss” means the excess of the losses from sales or exchanges of capital assets over the sum allowed under section 1211. In the case of a corporation, for the purpose of determining losses under this paragraph, amounts which are short-term capital losses under section 1212(a)(1) shall be excluded.
 
 #### (11) Net capital gain
 
@@ -48,7 +48,7 @@ For purposes of this subtitle—
 
 > For purposes of this subtitle, in the case of futures transactions in any commodity subject to the rules of a board of trade or commodity exchange, the length of the holding period taken into account under this section or under any other section amended by section 1402 of the Tax Reform Act of 1976 shall be determined without regard to the amendments made by subsections (a) and (b) of such section 1402.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 322; Pub. L. 88–272, title II, §230(b), Feb. 26, 1964, 78 Stat. 100; Pub. L. 91–172, title V, §§511(a), 513(c), Dec. 30, 1969, 83 Stat. 635, 643; Pub. L. 94–455, title XIV, §1402(a)(1), (2), (d), title XIX, §1901(a)(136), Oct. 4, 1976, 90 Stat. 1731, 1733, 1787; Pub. L. 98–369, div. A, title X, §1001(a), (e), July 18, 1984, 98 Stat. 1011, 1012.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 322; Pub. L. 88–272, title II, §230(b), Feb. 26, 1964, 78 Stat. 100; Pub. L. 91–172, title V, §§511(a), 513(c), Dec. 30, 1969, 83 Stat. 635, 643; Pub. L. 94–455, title XIV, §1402(a)(1), (2), (d), title XIX, §1901(a)(136), Oct. 4, 1976, 90 Stat. 1731, 1733, 1787; Pub. L. 98–369, div. A, title X, §1001(a), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 111–325, title I, §101(b)(2), Dec. 22, 2010, 124 Stat. 3538.)
 
 #### References in Text
 
@@ -56,9 +56,11 @@ The Tax Reform Act of 1976, referred to in last sentence, is Pub. L. 94–455, O
 
 #### Amendments
 
-1984—Pars. (1) to (4). Pub. L. 98–369 substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+<b>2010</b>—Par. (10). Pub. L. 111–325 substituted “section 1212(a)(1)” for “section 1212”.
 
-1976—Pars. (1) to (4). Pub. L. 94–455, §1402(a)(2), provided that “9 months” would be changed to “1 year”.
+<b>1984</b>—Pars. (1) to (4). Pub. L. 98–369 substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+
+<b>1976</b>—Pars. (1) to (4). Pub. L. 94–455, §1402(a)(2), provided that “9 months” would be changed to “1 year”.
 
 Pub. L. 94–455, §1402(a)(1), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 
@@ -68,11 +70,15 @@ Par. (11). Pub. L. 94–455, §1901(a)(136)(B), substituted “Net capital gain�
 
 Pub. L. 94–455, §1402(d), inserted sentence at end relating to length of holding period in case of futures transactions in commodities.
 
-1969—Par. (9). Pub. L. 91–172, §513(c), substituted “The” for “In the case of a corporation, the”.
+<b>1969</b>—Par. (9). Pub. L. 91–172, §513(c), substituted “The” for “In the case of a corporation, the”.
 
 Par. (11). Pub. L. 91–172, §511(a), added par. (11).
 
-1964—Pars. (9), (10). Pub. L. 88–272 struck out provisions from par. (9) relating to taxpayers other than corporations, and inserted “In the case of a corporation” in par. (10).
+<b>1964</b>—Pars. (9), (10). Pub. L. 88–272 struck out provisions from par. (9) relating to taxpayers other than corporations, and inserted “In the case of a corporation” in par. (10).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–325 applicable to net capital losses for taxable years beginning after Dec. 22, 2010, see section 101(c)(1) of Pub. L. 111–325, set out as a note under section 1212 of this title.
 
 #### Effective Date of 1984 Amendment
 

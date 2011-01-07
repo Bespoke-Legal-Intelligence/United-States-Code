@@ -40,9 +40,9 @@ A prior section 3127 was renumbered section 3128 of this title.
 
 #### Amendments
 
-1994—Subsecs. (b)(2), (c)(2). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
+<b>1994</b>—Subsecs. (b)(2), (c)(2). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
 
-1989—Subsec. (a). Pub. L. 101–239, §10204(b)(1)(B), substituted “the employees thereof” for “his employees” in concluding provisions.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §10204(b)(1)(B), substituted “the employees thereof” for “his employees” in concluding provisions.
 
 Subsec. (a)(1). Pub. L. 101–239, §10204(b)(1)(A), inserted “(or, if the employer is a partnership, each partner therein)” after “an employer”.
 

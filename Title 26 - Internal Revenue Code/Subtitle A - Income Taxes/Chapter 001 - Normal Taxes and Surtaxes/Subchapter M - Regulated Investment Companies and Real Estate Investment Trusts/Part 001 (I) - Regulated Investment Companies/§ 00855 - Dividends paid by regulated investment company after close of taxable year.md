@@ -4,39 +4,59 @@
 
 For purposes of this chapter, if a regulated investment company—
 
-&emsp;(1) declares a dividend prior to the time prescribed by law for the filing of its return for a taxable year (including the period of any extension of time granted for filing such return), and
+&emsp;(1) declares a dividend before the later of—
 
-&emsp;(2) distributes the amount of such dividend to shareholders in the 12-month period following the close of such taxable year and not later than the date of the first regular dividend payment made after such declaration,
+&emsp;&emsp;(A) the 15th day of the 9th month following the close of the taxable year, or
 
-> the amount so declared and distributed shall, to the extent the company elects in such return in accordance with regulations prescribed by the Secretary, be considered as having been paid during such taxable year, except as provided in subsections (b), (c) and (d).
+&emsp;&emsp;(B) in the case of an extension of time for filing the company's return for the taxable year, the due date for filing such return taking into account such extension, and
+
+&emsp;(2) distributes the amount of such dividend to shareholders in the 12-month period following the close of such taxable year and not later than the date of the first dividend payment of the same type of dividend made after such declaration,
+
+> the amount so declared and distributed shall, to the extent the company elects in such return in accordance with regulations prescribed by the Secretary, be considered as having been paid during such taxable year, except as provided in subsections (b) and (c). For purposes of paragraph (2), a dividend attributable to any short-term capital gain with respect to which a notice is required under the Investment Company Act of 1940 shall be treated as the same type of dividend as a capital gain dividend.
 
 #### (b) Receipt by shareholder
 
 Except as provided in section 852(b)(7), amounts to which subsection (a) is applicable shall be treated as received by the shareholder in the taxable year in which the distribution is made.
 
-#### (c) Notice to shareholders
-
-In the case of amounts to which subsection (a) is applicable, any notice to shareholders required under this part with respect to such amounts shall be made not later than 60 days after the close of the taxable year in which the distribution is made.
-
-#### (d) Foreign tax election
+#### (c) Foreign tax election
 
 If an investment company to which section 853 is applicable for the taxable year makes a distribution as provided in subsection (a) of this section, the shareholders shall consider the amounts described in section 853(b)(2) allocable to such distribution as paid or received, as the case may be, in the taxable year in which the distribution is made.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 274; Pub. L. 86–779, §10(b)(2), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 88–272, title II, §229(a)(5), Feb. 26, 1964, 78 Stat. 99; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title VI, §§651(b)(1)(B), 655(a)(5), Oct. 22, 1986, 100 Stat. 2296, 2299; Pub. L. 100–647, title I, §1006(<i>l</i>)(1)(B), Nov. 10, 1988, 102 Stat. 3413.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 274; Pub. L. 86–779, §10(b)(2), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 88–272, title II, §229(a)(5), Feb. 26, 1964, 78 Stat. 99; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title VI, §§651(b)(1)(B), 655(a)(5), Oct. 22, 1986, 100 Stat.2296, 2299; Pub. L. 100–647, title I, §1006(<i>l</i>)(1)(B), Nov. 10, 1988, 102 Stat. 3413; Pub. L. 111–325, title III, §§301(g), 304(a)–(c), Dec. 22, 2010, 124 Stat. 3547–3549.)
+
+#### References in Text
+
+The Investment Company Act of 1940, referred to in subsec. (a), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 #### Amendments
 
-1988—Subsec. (b). Pub. L. 100–647 substituted “section 852(b)(7)” for “section 852(b)(6)”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–325, §304(c), in concluding provisions, inserted at end “For purposes of paragraph (2), a dividend attributable to any short-term capital gain with respect to which a notice is required under the Investment Company Act of 1940 shall be treated as the same type of dividend as a capital gain dividend.”
 
-1986—Subsec. (b). Pub. L. 99–514, §651(b)(1)(B), substituted “Except as provided in section 852(b)(6), amounts” for “Amounts”.
+Pub. L. 111–325, §301(g)(2), substituted “and (c)” for “, (c) and (d)” in concluding provisions.
+
+Subsec. (a)(1). Pub. L. 111–325, §304(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “declares a dividend prior to the time prescribed by law for the filing of its return for a taxable year (including the period of any extension of time granted for filing such return), and”.
+
+Subsec. (a)(2). Pub. L. 111–325, §304(b), substituted “the first dividend payment of the same type of dividend” for “the first regular dividend payment”.
+
+Subsecs. (c), (d). Pub. L. 111–325, §301(g)(1), redesignated subsec. (d) as (c) and struck out former subsec. (c). Text of former subsec. (c) read as follows: “In the case of amounts to which subsection (a) is applicable, any notice to shareholders required under this part with respect to such amounts shall be made not later than 60 days after the close of the taxable year in which the distribution is made.”
+
+<b>1988</b>—Subsec. (b). Pub. L. 100–647 substituted “section 852(b)(7)” for “section 852(b)(6)”.
+
+<b>1986</b>—Subsec. (b). Pub. L. 99–514, §651(b)(1)(B), substituted “Except as provided in section 852(b)(6), amounts” for “Amounts”.
 
 Subsec. (c). Pub. L. 99–514, §655(a)(5), substituted “60 days” for “45 days”.
 
-1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1964—Subsec. (c). Pub. L. 88–272 substituted “45 days” for “30 days”.
+<b>1964</b>—Subsec. (c). Pub. L. 88–272 substituted “45 days” for “30 days”.
 
-1960—Subsec. (c). Pub. L. 86–779 substituted “this part” for “this subchapter”.
+<b>1960</b>—Subsec. (c). Pub. L. 86–779 substituted “this part” for “this subchapter”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 301(g) of Pub. L. 111–325 applicable to taxable years beginning after Dec. 22, 2010, see section 301(h) of Pub. L. 111–325, set out as a note under section 852 of this title.
+
+Pub. L. 111–325, title III, §304(d), Dec. 22, 2010, 124 Stat. 3549, provided that: “The amendments made by this section \[amending this section\] shall apply to distributions in taxable years beginning after the date of the enactment of this Act \[Dec. 22, 2010\].”
 
 #### Effective Date of 1988 Amendment
 

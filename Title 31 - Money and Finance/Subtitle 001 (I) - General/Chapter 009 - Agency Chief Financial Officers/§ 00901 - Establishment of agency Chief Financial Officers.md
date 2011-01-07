@@ -82,13 +82,13 @@
 
 #### Amendments
 
-2004—Subsec. (b)(1)(G) to (Q). Pub. L. 108–330, §3(a), added subpar. (G) and redesignated former subpars. (G) to (P) as (H) to (Q), respectively.
+<b>2004</b>—Subsec. (b)(1)(G) to (Q). Pub. L. 108–330, §3(a), added subpar. (G) and redesignated former subpars. (G) to (P) as (H) to (Q), respectively.
 
 Subsec. (b)(2)(B) to (H). Pub. L. 108–330, §3(d)(2), redesignated subpars. (C) to (H) as (B) to (G), respectively, and struck out former subpar. (B) which read as follows: “The Federal Emergency Management Agency.”
 
-1999—Subsec. (c). Pub. L. 106–58 added subsec. (c).
+<b>1999</b>—Subsec. (c). Pub. L. 106–58 added subsec. (c).
 
-1994—Subsec. (b)(2)(H). Pub. L. 103–296 added subpar. (H).
+<b>1994</b>—Subsec. (b)(2)(H). Pub. L. 103–296 added subpar. (H).
 
 #### Effective Date of 1999 Amendment
 
@@ -110,7 +110,7 @@ Pub. L. 108–330, §3(b), (c), Oct. 16, 2004, 118 Stat. 1276, provided that:
 
 “(b)
 
-Appointment or Designation of CFO.—The President shall appoint or designate a Chief FinancialOfficer of the Department of Homeland Security under the amendment made by subsection (a) \[amending this section\] by not later than 180 days after the date of the enactment of this Act \[Oct. 16, 2004\].
+Appointment or Designation of CFO.—The President shall appoint or designate a Chief Financial Officer of the Department of Homeland Security under the amendment made by subsection (a) \[amending this section\] by not later than 180 days after the date of the enactment of this Act \[Oct. 16, 2004\].
 
 “(c)
 
@@ -122,7 +122,7 @@ Pub. L. 106–58, title VI, §638(b)–(e), Sept. 29, 1999, 113 Stat. 475, provi
 
 “(b)
 
-Plan for Implementation.—Not later than 90 days after the effective date of this section \[noon on Jan. 20, 2001\], the President shall communicate in writing, to the Chairmen of the Committees on Appropriations, the Chairman of the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, and the Chairman of the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, a plan for implementation of the provisions of, and amendments made by, this section \[amending this section and sections 503 and 1105 of this title\].
+Plan for Implementation.—Not later than 90 days after the effective date of this section \[noon on Jan. 20, 2001\], the President shall communicate in writing, to the Chairmen of the Committees on Appropriations, the Chairman of the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, and the Chairman of the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, a plan for implementation of the provisions of, and amendments made by,this section \[amending this section and sections 503 and 1105 of this title\].
 
 “(c)
 

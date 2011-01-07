@@ -16,9 +16,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–707 designated existing provision as par. (1) and added par. (2).
+<b>1988</b>—Subsec. (a). Pub. L. 100–707 designated existing provision as par. (1) and added par. (2).
 
-1980—Pub. L. 96–446 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1980</b>—Pub. L. 96–446 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Deadline for Issuance of Regulations
 

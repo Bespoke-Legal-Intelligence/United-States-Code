@@ -94,7 +94,7 @@ Not later than 180 days after March 12, 1996, the President shall transmit to th
 
 &emsp;&emsp;&emsp;(i) reciprocal extension of nondiscriminatory trade treatment (most-favored-nation treatment);
 
-&emsp;&emsp;&emsp;(ii) designation of Cuba as a beneficiary developing country under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] (relating to the Generalized System of Preferences) or as a beneficiary country under the Caribbean Basin Economic Recovery Act \[19 U.S.C. 2701 et seq.\], and the implications of such designation with respect to trade with any other country that is such a beneficiary developing country orbeneficiary country or is a party to the North American Free Trade Agreement; and
+&emsp;&emsp;&emsp;(ii) designation of Cuba as a beneficiary developing country under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] (relating to the Generalized System of Preferences) or as a beneficiary country under the Caribbean Basin Economic Recovery Act \[19 U.S.C. 2701 et seq.\], and the implications of such designation with respect to trade with any other country that is such a beneficiary developing country or beneficiary country or is a party to the North American Free Trade Agreement; and
 
 &emsp;&emsp;&emsp;(iii) negotiations regarding free trade, including the accession of Cuba to the North American Free Trade Agreement;
 
@@ -110,7 +110,7 @@ Not later than 180 days after March 12, 1996, the President shall transmit to th
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (b)(2)(B)(i), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 1 of part I and chapter 4 of part II of the Act are classified generally to part I (§2151 et seq.) of subchapter I and part IV (§2346 et seq.) of subchapter II, respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b)(2)(B)(i), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 1 of part I and chapter 4 of part II of the Act are classified generally to part I (§2151 et seq.) of subchapter I and part IV (§2346 et seq.) of subchapter II, respectively, of chapter 32 of this title.For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Food for Peace Act, referred to in subsec. (b)(2)(B)(ii), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
@@ -122,7 +122,7 @@ The Caribbean Basin Economic Recovery Act, referred to in subsec. (h)(1)(B)(ii),
 
 #### Amendments
 
-2008—Subsec. (b)(2)(B)(ii). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+<b>2008</b>—Subsec. (b)(2)(B)(ii). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
 #### Effective Date of 2008 Amendment
 

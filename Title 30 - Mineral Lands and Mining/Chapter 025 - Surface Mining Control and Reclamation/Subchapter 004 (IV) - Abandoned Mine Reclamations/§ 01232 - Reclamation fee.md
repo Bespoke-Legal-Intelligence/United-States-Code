@@ -40,7 +40,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;&emsp;(i) an <sup>2</sup> approved abandoned mine reclamation program pursuant to section 1235 of this title.
 
-&emsp;&emsp;(ii) Lands and waters which are eligible pursuant to section 1234 of this title (in the case of an Indian tribe not certified undersection 1240a(a) of this title) or pursuant to section 1240a(b) of this title (in the case of a tribe certified under section 1240a(a) of this title).
+&emsp;&emsp;(ii) Lands and waters which are eligible pursuant to section 1234 of this title (in the case of an Indian tribe not certified under section 1240a(a) of this title) or pursuant to section 1240a(b) of this title (in the case of a tribe certified under section 1240a(a) of this title).
 
 &emsp;(C) The funds allocated by the Secretary under this paragraph to States and Indian tribes shall only be used for annual reclamation project construction and program administration grants.
 
@@ -78,7 +78,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 (5)(A) The Secretary shall allocate 60 percent of the amount in the fund after making the allocation referred to in paragraph (1) for making additional annual grants to States and Indian tribes which are not certified under section 1240a(a) of this title to supplement grants received by such States and Indian tribes pursuant to paragraph (1)(C) until the priorities stated in paragraphs (1) and (2) of section 1233(a) of this title have been achieved by such State or Indian tribe. The allocation of such funds for the purpose of making such expenditures shall be through a formula based on the amount of coal historically produced in the State or from the Indian lands concerned prior to August 3, 1977. Funds made available under paragraph (3) or (4) of this subsection for any State or Indian tribe shall not be deducted against any allocation of funds to the State or Indian tribe under paragraph (1) or under this paragraph.
 
-(B) Any amount that is reallocated and available under section 1240a(h)(3) of this title shallbe in addition to amounts that are allocated under subparagraph (A).
+(B) Any amount that is reallocated and available under section 1240a(h)(3) of this title shall be in addition to amounts that are allocated under subparagraph (A).
 
 (6)(A) Any State with an approved abandoned mine reclamation program pursuant to section 1235 of this title may receive and retain, without regard to the 3-year limitation referred to in paragraph (1)(D), up to 30 percent of the total of the grants made annually to the State under paragraphs (1) and (5) if those amounts are deposited into an acid mine drainage abatement and treatment fund established under State law, from which amounts (together with all interest earned on the amounts) are expended by the State for the abatement of the causes and the treatment of the effects of acid mine drainage in a comprehensive manner within qualified hydrologic units affected by coal mining practices.
 
@@ -92,7 +92,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;&emsp;(II) the subject of expenditures by the State from the forfeiture of bonds required under section 1259 of this title or from other States sources to abate and treat acid mine drainage.
 
-(7) In complying with the priorities described in section 1233(a) of this title, any State or Indian tribe may use amounts available in grants made annually to the State or tribe under paragraphs (1) and (5) for the reclamation of eligible land and water described in section 1233(a)(3) of this title before the completion of reclamation projects under paragraphs (1) and (2) of section 1233(a) of this title only if the expenditure of funds for the reclamation is done in conjunction with the expenditure before, on, or after December 20, 2006, of funds for reclamation projects under paragraphs (1) and (2) of section 1233(a) of this title.
+(7) In complying with the priorities described in section 1233(a) of this title, any State or Indian tribe may use amounts available in grants made annually to the State or tribe under paragraphs (1) and (5) for the reclamation of eligible land and water described in section 1233(a)(3) of this title before the completion of reclamation projects under paragraphs (1) and (2) of section 1233(a) of this title only if the expenditure of funds for the reclamation is done in conjunction with the expenditure before, on, or after December 20, 2006, of funds for reclamation projectsunder paragraphs (1) and (2) of section 1233(a) of this title.
 
 (8)(A) In making funds available under this subchapter, the Secretary shall ensure that the grant awards total not less than $3,000,000 annually to each State and each Indian tribe having an approved abandoned mine reclamation program pursuant to section 1235 of this title and eligible land and water pursuant to section 1234 of this title, so long as an allocation of funds to the State or tribe is necessary to achieve the priorities stated in paragraphs (1) and (2) of section 1233(a) of this title.
 
@@ -134,7 +134,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;&emsp;&emsp;(ii) the amount that the trustees of the 1992 UMWA Benefit Plan estimate the 1992 UMWA Benefit Plan will receive during the next calendar year in—
 
-&emsp;&emsp;&emsp;&emsp;(I) required monthly per beneficiary premiums, including the amount of anysecurity provided to the 1992 UMWA Benefit Plan that is available for use in the provision of benefits; and
+&emsp;&emsp;&emsp;&emsp;(I) required monthly per beneficiary premiums, including the amount of any security provided to the 1992 UMWA Benefit Plan that is available for use in the provision of benefits; and
 
 &emsp;&emsp;&emsp;&emsp;(II) payments paid by Federal agencies in connection with benefits provided by the 1992 UMWA Benefit Plan.
 
@@ -298,7 +298,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;Funds shall be transferred under paragraphs (1) and (2) beginning in fiscal year 2008 and each fiscal year thereafter, and shall remain available until expended.
 
-(Pub. L. 95–87, title IV, §402, Aug. 3, 1977, 91 Stat. 457; Pub. L. 100–34, title I, §101, May 7, 1987, 101 Stat. 300; Pub. L. 101–508, title VI, §§6003, 6004, Nov. 5, 1990, 104 Stat. 1388–290, 1388–291; Pub. L. 102–486, title XIX, §19143(b)(1), (2), (3)(B), title XXV, §2515, Oct. 24, 1992, 106 Stat. 3056, 3113; Pub. L. 108–447, div. E, title I, §135(a), Dec. 8, 2004, 118 Stat. 3068; Pub. L. 109–13, div. A, title VI, §6035, May 11, 2005, 119 Stat. 289; Pub. L. 109–54, title I, §129, Aug. 2, 2005, 119 Stat. 525; Pub. L. 109–234, title VII, §7007, June 15, 2006, 120 Stat. 483; Pub. L. 109–432, div. C, title II, §202, Dec. 20, 2006, 120 Stat. 3008; Pub. L. 110–343, div. C, title VI, §602, Oct. 3, 2008, 122 Stat. 3911.)
+(Pub. L. 95–87, title IV, §402, Aug. 3, 1977, 91 Stat. 457; Pub. L. 100–34, title I, §101, May 7, 1987, 101 Stat. 300; Pub. L. 101–508, title VI, §§6003, 6004, Nov. 5, 1990, 104 Stat. 1388–290, 1388–291; Pub. L. 102–486, title XIX, §19143(b)(1), (2), (3)(B), title XXV, §2515, Oct. 24, 1992, 106 Stat. 3056, 3113; Pub. L. 108–447, div. E, title I, §135(a), Dec. 8, 2004, 118 Stat. 3068; Pub. L. 109–13, div. A, title VI, §6035, May 11, 2005, 119 Stat. 289; Pub. L. 109–54, title I,§129, Aug. 2, 2005, 119 Stat. 525; Pub. L. 109–234, title VII, §7007, June 15, 2006, 120 Stat. 483; Pub. L. 109–432, div. C, title II, §202, Dec. 20, 2006, 120 Stat. 3008; Pub. L. 110–343, div. C, title VI, §602, Oct. 3, 2008, 122 Stat. 3911.)
 
 #### Amendment of Subsection (a)
 
@@ -310,9 +310,9 @@ November 5, 1990, referred to in subsec. (g)(4)(B)(ii), was in the original “t
 
 #### Amendments
 
-2008—Subsec. (i)(1)(C). Pub. L. 110–343 substituted “$9,000,000 on October 1, 2009, and $9,000,000 on October 1, 2010” for “and $9,000,000 on October 1, 2009” in introductory provisions.
+<b>2008</b>—Subsec. (i)(1)(C). Pub. L. 110–343 substituted “$9,000,000 on October 1, 2009, and $9,000,000 on October 1, 2010” for “and $9,000,000 on October 1, 2009” in introductory provisions.
 
-2006—Subsec. (a). Pub. L. 109–432, §202(a)(1), substituted “31.5” for “35”, “13.5” for “15”, and “9 cents” for “10 cents”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–432, §202(a)(1), substituted “31.5” for “35”, “13.5” for “15”, and “9 cents” for “10 cents”.
 
 Subsec. (b). Pub. L. 109–432, §202(b), substituted “September 30, 2021” for “September 30, 2007, after which time the fee shall be established at a rate to continue to provide for the deposit referred to in subsection (h) of this section”.
 
@@ -334,13 +334,13 @@ Subsec. (g)(6) to (8). Pub. L. 109–432, §202(c)(5), added pars. (6) to (8) an
 
 Subsecs. (h), (i). Pub. L. 109–432, §202(d), added subsecs. (h) and (i) and struck out former subsec. (h) which related to transfer of funds to the United Mine Workers of America Combined Benefit Fund.
 
-2005—Subsec. (b). Pub. L. 109–54 substituted “June 30, 2006” for “September 30, 2005”.
+<b>2005</b>—Subsec. (b). Pub. L. 109–54 substituted “June 30, 2006” for “September 30, 2005”.
 
 Pub. L. 109–13 substituted “September 30, 2005” for “June 30, 2005”.
 
-2004—Subsec. (b). Pub. L. 108–447 substituted “June 30, 2005” for “September 30, 2004”.
+<b>2004</b>—Subsec. (b). Pub. L. 108–447 substituted “June 30, 2005” for “September 30, 2004”.
 
-1992—Subsec. (b). Pub. L. 102–486, §2515, which directed that subsec. (b) be amended by substituting “2004, after which time the fee shall be established at a rate to continue to provide for the deposit referred to in subsection (h) of this section” for “1995”, was executed by inserting “, after which time the fee shall be established at a rate to continue to provide for the deposit referred to in subsection (h) of this section” after “2004”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 102–486, §19143(b)(1). See below.
+<b>1992</b>—Subsec. (b). Pub. L. 102–486, §2515, which directed that subsec. (b) be amended by substituting “2004, after which time the fee shall be established at a rate to continue to provide for the deposit referred to in subsection (h) of this section” for “1995”, was executed by inserting “, after which time the fee shall be established at a rate to continue to provide for the deposit referred to in subsection (h) of this section” after “2004”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 102–486, §19143(b)(1). See below.
 
 Pub. L. 102–486, §19143(b)(1), substituted “2004” for “1995” before period at end.
 
@@ -348,9 +348,9 @@ Subsec. (g)(1). Pub. L. 102–486, §19143(b)(3)(B), substituted “Except as pr
 
 Subsec. (h). Pub. L. 102–486, §19143(b)(2), added subsec. (h).
 
-1990—Subsec. (b). Pub. L. 101–508, §6003(a), substituted “ending September 30, 1995” for “ending fifteen years after August 3, 1977, unless extended by an Act of Congress”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–508, §6003(a), substituted “ending September 30, 1995” for “ending fifteen years after August 3, 1977, unless extended by an Act of Congress”.
 
-Subsec. (c). Pub. L. 101–508, §6003(b), inserted at end “Such statement shall include an identification of thepermittee of the surface coal mining operation, any operator in addition to the permittee, the owner of the coal, the preparation plant, tripple, or loading point for the coal, and the person purchasing the coal from the operator. The report shall also specify the number of the permit required under section 1256 of this title and the mine safety and health identification number. Each quarterly report shall contain a notification of any changes in the information required by this subsection since the date of the preceding quarterly report. The information contained in the quarterly reports under this subsection shall be maintained by the Secretary in a computerized database.”
+Subsec. (c). Pub. L. 101–508, §6003(b), inserted at end “Such statement shall include an identification of the permittee of the surface coal mining operation, any operator in addition to the permittee, the owner of the coal, the preparation plant, tripple, or loading point for the coal, and the person purchasing the coal from the operator. The report shall also specify the number of the permit required under section 1256 of this title and the mine safety and health identification number. Each quarterly report shall contain a notification of any changes in the information required by this subsection since the date of the preceding quarterly report. The information contained in the quarterly reports under this subsection shall be maintained by the Secretary in a computerized database.”
 
 Subsec. (d). Pub. L. 101–508, §6003(c), designated existing provisions as par. (1) and added par. (2).
 
@@ -358,7 +358,7 @@ Subsec. (f). Pub. L. 101–508, §6003(d), inserted at end “Whenever the Secre
 
 Subsec. (g). Pub. L. 101–508, §6004, amended subsec. (g) generally, substituting present provisions for provisions relating to geographic allocation of expenditures from the fund, providing for allocation of 50 percent of funds collected annually in any State or Indian reservation to that State or Indian reservation pursuant to approved reclamation program, providing for special State set-aside for future expenditure, and authorizing expenditure of balance of funds collected at discretion of Secretary in order to meet the purposes of this subchapter.
 
-1987—Subsec. (g)(3), (4). Pub. L. 100–34 added par. (3) and redesignated former par. (3) as (4).
+<b>1987</b>—Subsec. (g)(3), (4). Pub. L. 100–34 added par. (3) and redesignated former par. (3) as (4).
 
 #### Effective Date of 2006 Amendment
 

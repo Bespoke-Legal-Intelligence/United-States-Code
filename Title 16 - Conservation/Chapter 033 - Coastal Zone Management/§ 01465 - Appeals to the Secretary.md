@@ -50,5 +50,5 @@ This chapter, referred to in subsec. (b)(3)(A)(ii)(I), was in the original “th
 
 #### Amendments
 
-2005—Pub. L. 109–58 amended section catchline and text generally, substituting provisions relating to notice, closure of record, and deadline for decision for provisions relating to notice, deadline for decision, and application of section.
+<b>2005</b>—Pub. L. 109–58 amended section catchline and text generally, substituting provisions relating to notice, closure of record, and deadline for decision for provisions relating to notice, deadline for decision, and application of section.
 

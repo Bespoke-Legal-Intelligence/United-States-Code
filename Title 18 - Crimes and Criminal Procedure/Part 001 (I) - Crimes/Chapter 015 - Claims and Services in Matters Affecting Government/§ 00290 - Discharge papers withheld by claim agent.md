@@ -22,5 +22,5 @@ Minor changes of phraseology were also made.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
 

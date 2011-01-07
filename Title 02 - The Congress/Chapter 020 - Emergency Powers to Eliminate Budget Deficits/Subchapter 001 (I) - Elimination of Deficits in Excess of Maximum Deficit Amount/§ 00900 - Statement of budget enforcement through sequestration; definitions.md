@@ -150,11 +150,11 @@ Special rule.—(i) Any outlays in excess of the discretionary spending limit se
 
 &emsp;(17) As used in this subchapter, all references to entitlement authority shall include the list of mandatory appropriations included in the joint explanatory statement of managers accompanying the conference report on the Balanced Budget Act of 1997.
 
-&emsp;(18) The term “deposit insurance” refers to the expenses <sup>3</sup> the Federal deposit insurance agencies, and other Federal agencies supervising insured depository institutions, resulting from full funding of, and continuation of,the deposit insurance guarantee commitment in effect under current estimates.
+&emsp;(18) The term “deposit insurance” refers to the expenses of the Federal deposit insurance agencies, and other Federal agencies supervising insured depository institutions, resulting from full funding of, and continuation of, the deposit insurance guarantee commitment in effect under current estimates.
 
 &emsp;(19) The term “asset sale” means the sale to the public of any asset (except for those assets covered by title V of the Congressional Budget Act of 1974 \[2 U.S.C. 661 et seq.\]), whether physical or financial, owned in whole or in part by the United States.
 
-(Pub. L. 99–177, title II, §250, as added Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–574, and Pub. L. 99–177, title II, §250(c)(21), formerly §257(12), as added Pub. L. 100–119, title I, §102(b)(7), Sept. 29, 1987, 101 Stat. 774, renumbered §250(c)(21), Pub. L. 101–508, title XIII, §13101(b), Nov. 5, 1990, 104 Stat. 1388–589; amended Pub. L. 105–33, title X, §§10202, 10204(a)(2), 10208(a)(2), Aug. 5, 1997, 111 Stat. 697, 702, 708; Pub. L. 105–178, title VIII, §8101(c), (f), June 9, 1998, 112 Stat. 489; Pub. L. 105–206, title IX, §9013(b), July 22, 1998, 112 Stat. 865; Pub. L. 106–291, title VIII, §801(c), Oct. 11, 2000, 114 Stat. 1028; Pub. L. 108–88, §10(c), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, §10(c), Sept. 30, 2004, 118 Stat. 1160; Pub. L. 109–59, title VIII, §8001(b), Aug. 10, 2005, 119 Stat. 1915.)
+(Pub. L. 99–177, title II, §250, as added Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–574, and Pub. L. 99–177, title II, §250(c)(21), formerly §257(12), as added Pub. L. 100–119, title I, §102(b)(7), Sept. 29, 1987, 101 Stat. 774, renumbered §250(c)(21), Pub. L. 101–508, title XIII, §13101(b), Nov. 5, 1990, 104 Stat. 1388–589; amended Pub. L. 105–33, title X, §§10202, 10204(a)(2), 10208(a)(2), Aug. 5, 1997, 111 Stat. 697, 702, 708; Pub. L. 105–178, title VIII, §8101(c), (f), June 9, 1998, 112 Stat. 489; Pub. L. 105–206, title IX, §9013(b), July 22, 1998, 112 Stat. 865; Pub. L. 106–291, title VIII, §801(c), Oct. 11, 2000, 114 Stat. 1028; Pub. L. 108–88, §10(c), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, §10(c), Sept. 30, 2004, 118 Stat. 1160; Pub. L. 109–59, title VIII, §8001(b), Aug. 10, 2005, 119 Stat. 1915; Pub. L. 111–139, title I, §9(a), Feb. 12, 2010, 124 Stat. 21.)
 
 #### Termination of Section
 
@@ -181,6 +181,8 @@ Subsection (a) of this section, which provided a partial table of contents for t
 Pub. L. 101–508, §13101(b), transferred section 257(12) of Pub. L. 99–177, which was classified to section 907(12) of this title, to subsec. (c)(21) (now (c)(19)) of this section.
 
 #### Amendments
+
+2010—Subsec. (c)(18). Pub. L. 111–139 substituted “the expenses of the Federal deposit insurance agencies” for “the expenses the Federal deposit insurance agencies”.
 
 2005—Subsec. (c)(4)(B). Pub. L. 109–59, §8001(b)(1)(A), substituted “the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users:” for “the Transportation Equity Act for the 21st Century and the Surface Transportation Extension Act of 2004, Part V and the Surface Transportation Extension Act of 2003:” in introductory provisions.
 
@@ -308,7 +310,7 @@ Pub. L. 99–177, title II, §200(a), Dec. 12, 1985, 99 Stat. 1038, provided tha
 
 Pub. L. 108–7, div. B, title II, §214, Feb. 20, 2003, 117 Stat. 82, provided that:
 
-“(a) Hereafter, habitat conservation activities, enforcement and surveillance—cooperative enforcement and vessel monitoring, stock assessments—data collection, and highly migratory shark fishery research under the heading, ‘National Oceanic and Atmospheric Administration, Operations, Research and Facilities’, shall be considered to be within the ‘Coastal Assistance sub-category’ in section 250(c)(4)(K) of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended \[2 U.S.C. 900(c)(4)(K)\].
+“(a) Hereafter, habitat conservation activities, enforcement and surveillance—cooperative enforcement and vessel monitoring, stock assessments—data collection, and highly migratory shark fishery research under the heading, ‘National Oceanic and AtmosphericAdministration, Operations, Research and Facilities’, shall be considered to be within the ‘Coastal Assistance sub-category’ in section 250(c)(4)(K) of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended \[2 U.S.C. 900(c)(4)(K)\].
 
 “(b) For fiscal year 2004 and thereafter, response and restoration activities, Cooperative Research, Protected Species activities, Endangered Species Act—Marine Mammals, Sea Turtles and Other Species, Endangered Species Act—Right Whales, Marine Mammal Protection, and Sea Grant (except for the fellowship program) under the heading, ‘National Oceanic and Atmospheric Administration, Operations, Research, and Facilities’, shall be considered to be within the ‘Coastal Assistance sub-category’ in section 250(c)(4)(K) of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended \[2 U.S.C. 900(c)(4)(K)\].
 
@@ -360,7 +362,7 @@ Section 213 of Pub. L. 100–119 provided that: “This Act and the amendments m
 
 Section 271(d), formerly section 271(c), of Pub. L. 99–177, as redesignated by Pub. L. 100–119, title II, §210(a), Sept. 29, 1987, 101 Stat. 787, provided that: “The provisions of this title \[see Short Title note above\], other than those relating to the activities of the executive and judicial branches of the Government, are enacted by the Congress—
 
-&emsp;“(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
+&emsp;“(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of thatHouse to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 
 &emsp;“(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner and to the same extent as in the case of any other rule of such House.”
 
@@ -404,7 +406,7 @@ Sec. 2. <i>Deficit Reduction Fund.</i>
 
 (d) <i>Effect on Other Funds</i>. Establishment of and transfers to the Deficit Reduction Fund shall not affect trust fund transfers that may be authorized or required by provisions of the Omnibus Reconciliation Act of 1993 or any other provision of law.
 
-Sec. 3. <i>Requirement for the President To Report Annually on the Status of the Fund</i>. The Director of the Officeof Management and Budget shall include in the President's Budget transmitted under section 1105 of title 31, United States Code, information about the Deficit Reduction Fund, including a separate statement of amounts in and Federal debt redeemed by that Fund.
+Sec. 3. <i>Requirement for the President To Report Annually on the Status of the Fund</i>. The Director of the Office of Management and Budget shall include in the President's Budget transmitted under section 1105 of title 31, United States Code, information about the Deficit Reduction Fund, including a separate statement of amounts in and Federal debt redeemed by that Fund.
 
 Sec. 4. <i>Implementation</i>. The Secretary of the Treasury and the Director of the Office of Management and Budget shall each take such actions as may be necessary, within their respective authorities, promptly to carry out this order.
 
@@ -415,6 +417,4 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be preceded by “subparagraph”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be followed by “of”.</i>
 

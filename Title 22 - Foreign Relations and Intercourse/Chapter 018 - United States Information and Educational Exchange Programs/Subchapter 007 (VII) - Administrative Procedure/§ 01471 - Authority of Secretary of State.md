@@ -22,10 +22,6 @@ In carrying out the purposes of this chapter, the Secretary is authorized, in ad
 
 Section 322 of the Act of June 30, 1932, referred to in par. (3), is section 322 of act June 30, 1932, ch. 314, 47 Stat. 412, which was classified to section 278a of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 100–678, §7, Nov. 17, 1988, 102 Stat. 4052.
 
-The civil-service laws, referred to in par. (5), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
-The classification laws, referred to in par. (5), are classified generally to chapter 51 (§5101 et seq.) and to subchapter III (§5331 et seq.) of chapter 53 of Title 5.
-
 #### Codification
 
 “Sections 3111 and 3112 of title 40” substituted in par. (3) for “section 355 of the Revised Statutes of the United States (40 U.S.C. 255)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
@@ -38,23 +34,23 @@ In par. (6), “section 5703 of title 5” substituted for “section 5 of the A
 
 #### Amendments
 
-1998—Par. (7). Pub. L. 105–277 substituted “overseas public diplomacy” for “Agency” and inserted “other” after “together with”.
+<b>1998</b>—Par. (7). Pub. L. 105–277 substituted “overseas public diplomacy” for “Agency” and inserted “other” after “together with”.
 
-1994—Par. (7). Pub. L. 103–236 added par. (7).
+<b>1994</b>—Par. (7). Pub. L. 103–236 added par. (7).
 
-1991—Par. (3). Pub. L. 102–138 inserted “and television” after “radio”.
+<b>1991</b>—Par. (3). Pub. L. 102–138 inserted “and television” after “radio”.
 
-1987—Par. (3). Pub. L. 100–204 substituted “forty” for “twenty-five”.
+<b>1987</b>—Par. (3). Pub. L. 100–204 substituted “forty” for “twenty-five”.
 
-1983—Par. (3). Pub. L. 98–164 substituted “twenty-five” for “ten”.
+<b>1983</b>—Par. (3). Pub. L. 98–164 substituted “twenty-five” for “ten”.
 
-1979—Par. (1). Pub. L. 96–60, §204(a), struck out “within the limitation of such appropriations as the Congress may provide,” after “chapter,”.
+<b>1979</b>—Par. (1). Pub. L. 96–60, §204(a), struck out “within the limitation of such appropriations as the Congress may provide,” after “chapter,”.
 
 Par. (3). Pub. L. 96–60, §203(e), substituted “leasing of associated real property (either within or outside the United States)” for “leasing of real property both within and without the continental limits of the United States” and provided for alteration, improvement, and repair of such property, without regard to section 278a of title 40, and for acquisition of such property or interests therein which are outside the United States without regard to section 255 of title 40 if the sufficiency of the title to such property or interests therein is approved by the Director.
 
 Par. (5). Pub. L. 96–60, §203(b)(1), struck out provision for employment of aliens within the United States limited to services related to the translation or narration of colloquial speech in foreign languages when suitably qualified United States citizens were not available, now covered in section 1474(1) of this title, and inserted “pertinent” before “appropriation”.
 
-1961—Par. (6). Pub. L. 87–139 substituted provisions authorizing payment of transportation and other expenses as authorized by section 73b–2 of title 5, for provisions which allowed payment of actual transportation expenses and a maximum of $10 per diem.
+<b>1961</b>—Par. (6). Pub. L. 87–139 substituted provisions authorizing payment of transportation and other expenses as authorized by section 73b–2 of title 5, for provisions which allowed payment of actual transportation expenses and a maximum of $10 per diem.
 
 #### Effective Date of 1998 Amendment
 
@@ -80,7 +76,7 @@ Section 403 of Pub. L. 100–204 provided that:
 
 “(a)
 
-Findings.—The Congress finds that the overriding national security aspects of the $1,300,000,000 facilities modernization program of the Voice of America require the assurance of uninterrupted logistic support under all circumstances for the program. Therefore, it is in the best interests of the United States to provide a preference for United States contractors bidding on the projects of this program.
+Findings.—The Congress finds that the overriding national security aspects of the $1,300,000,000 facilities modernization program of the Voice of America require the assurance of uninterrupted logistic support under all circumstances for the program. Therefore, itis in the best interests of the United States to provide a preference for United States contractors bidding on the projects of this program.
 
 “(b)
 

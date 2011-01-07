@@ -20,7 +20,7 @@
 
 #### (B) Future actions
 
-&emsp;&emsp;As of December 13, 2002, the United States shall have no obligation to bring any civilaction to quiet title to, or to recover any land or funds relating to, the Drybed Lands (including any lands that are Wetbed Lands as of December 13, 2002, but that are located at any time after that date above the mean high water mark of the Arkansas River).
+&emsp;&emsp;As of December 13, 2002, the United States shall have no obligation to bring any civil action to quiet title to, or to recover any land or funds relating to, the Drybed Lands (including any lands that are Wetbed Lands as of December 13, 2002, but that are located at any time after that date above the mean high water mark of the Arkansas River).
 
 #### (C) No breach of trust
 

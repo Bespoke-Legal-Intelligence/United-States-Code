@@ -6,5 +6,5 @@ Whenever the owner of any patent hereafter granted for any invention or discover
 
 #### Amendments
 
-1961—Pub. L. 87–206 made it discretionary, rather than mandatory, for the court to require payment of royalties by a licensee to the owner of a patent.
+<b>1961</b>—Pub. L. 87–206 made it discretionary, rather than mandatory, for the court to require payment of royalties by a licensee to the owner of a patent.
 

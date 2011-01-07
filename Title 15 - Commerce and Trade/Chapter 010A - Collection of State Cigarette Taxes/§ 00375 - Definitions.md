@@ -1,46 +1,210 @@
 ### §375. Definitions
 
-For the purposes of this chapter—
+As used in this chapter, the following definitions apply:
 
-&emsp;(1) The term “person” includes corporations, companies, associations, firms, partnerships, societies, and joint stock companies, as well as individuals.
+#### (1) Attorney general
 
-&emsp;(2) The term “cigarette” means any roll for smoking made wholly or in part of tobacco, irrespective of size or shape and whether or not such tobacco is flavored, adulterated, or mixed with any other ingredient, the wrapper or cover of which is made of paper or any other substance or material except tobacco.
+&emsp;The term “attorney general”, with respect to a State, means the attorney general or other chief law enforcement officer of the State.
 
-&emsp;(3) The term “distributor licensed by or located in such State” means—
+#### (2) Cigarette
 
-&emsp;&emsp;(A) in the case of any State which by State statute or regulation authorizes the distribution of cigarettes at wholesale or retail, any person so authorized, or
+#### (A) In general
 
-&emsp;&emsp;(B) in the case of any other State, any person located in such State who distributes cigarettes at wholesale or retail;
+&emsp;&emsp;The term “cigarette”—
 
-> &emsp;but such term in no case includes a person who acquires cigarettes for purposes other than resale.
+&emsp;&emsp;&emsp;(i) has the meaning given that term in section 2341 of title 18; and
 
-&emsp;(4) The term “use”, in addition to its ordinary meaning, means the consumption, storage, handling, or disposal of cigarettes.
+&emsp;&emsp;&emsp;(ii) includes roll-your-own tobacco (as defined in section 5702 of title 26).
 
-&emsp;(5) The term “tobacco tax administrator” means the State official duly authorized to administer the cigarette tax law of a State.
+#### (B) Exception
 
-&emsp;(6) The term “State” includes the District of Columbia, Alaska, Hawaii, and the Commonwealth of Puerto Rico.
+&emsp;&emsp;The term “cigarette” does not include a cigar (as defined in section 5702 of title 26).
 
-&emsp;(7) The term “transfers for profit” means any transfer for profit or other disposition for profit, including any transfer or disposition by an agent to his principal in connection with which the agent receives anything of value.
+#### (3) Common carrier
 
-(Oct. 19, 1949, ch. 699, §1, 63 Stat. 884; Aug. 9, 1955, ch. 695, §1, 69 Stat. 627.)
+&emsp;The term “common carrier” means any person (other than a local messenger service or the United States Postal Service) that holds itself out to the general public as a provider for hire of the transportation by water, land, or air of merchandise (regardless of whether the person actually operates the vessel, vehicle, or aircraft by which the transportation is provided) between a port or place and a port or place in the United States.
 
-#### Amendments
+#### (4) Consumer
 
-1955—Act Aug. 9, 1955, inserted definitions of “State” and “distributor licensed by or located in such State”, broadened definition of “person”, and substituted definition of “transfers for profit” for “disposing of”.
+&emsp;The term “consumer”—
 
-#### Effective Date of 1955 Amendment
+&emsp;&emsp;(A) means any person that purchases cigarettes or smokeless tobacco; and
 
-Section 2 of act Aug. 9, 1955, provided that:
+&emsp;&emsp;(B) does not include any person lawfully operating as a manufacturer, distributor, wholesaler, or retailer of cigarettes or smokeless tobacco.
 
-“(a) Except as provided in subsection (b), the amendments made by this Act \[amending this section and sections 376 to 378 of this title\] shall take effect thirty days after the date of its enactment \[Aug. 9, 1955\].
+#### (5) Delivery sale
 
-“(b) The provisions of section 2(a) of the Act of October 19, 1949, as amended by this Act \[section 376(a) of this title\], insofar as it requires the filing of memoranda or copies of invoices with the appropriate tax administrator for shipments of cigarettes into the District of Columbia, Alaska, Hawaii, and the Commonwealth of Puerto Rico, shall apply in respect of memoranda or copies of invoices covering shipments made during calendar months beginning after the month in which this Act is enacted \[August 1955\].”
+&emsp;The term “delivery sale” means any sale of cigarettes or smokeless tobacco to a consumer if—
+
+&emsp;&emsp;(A) the consumer submits the order for the sale by means of a telephone or other method of voice transmission, the mails, or the Internet or other online service, or the seller is otherwise not in the physical presence of the buyer when the request for purchase or order is made; or
+
+&emsp;&emsp;(B) the cigarettes or smokeless tobacco are delivered to the buyer by common carrier, private delivery service, or other method of remote delivery, or the seller is not in the physical presence of the buyer when the buyer obtains possession of the cigarettes or smokeless tobacco.
+
+#### (6) Delivery seller
+
+&emsp;The term “delivery seller” means a person who makes a delivery sale.
+
+#### (7) Indian country
+
+&emsp;The term “Indian country”—
+
+&emsp;&emsp;(A) has the meaning given that term in section 1151 of title 18, except that within the State of Alaska that term applies only to the Metlakatla Indian Community, Annette Island Reserve; and
+
+&emsp;&emsp;(B) includes any other land held by the United States in trust or restricted status for one or more Indian tribes.
+
+#### (8) Indian tribe
+
+&emsp;The term “Indian tribe”, “tribe”, or “tribal” refers to an Indian tribe as defined in section 450b(e) of title 25 or as listed pursuant to section 479a–1 of title 25.
+
+#### (9) Interstate commerce
+
+#### (A) In general
+
+&emsp;&emsp;The term “interstate commerce” means commerce between a State and any place outside the State, commerce between a State and any Indian country in the State, or commerce between points in the same State but through any place outside the State or through any Indian country.
+
+#### (B) Into a State, place, or locality
+
+&emsp;&emsp;A sale, shipment, or transfer of cigarettes or smokeless tobacco that is made in interstate commerce, as defined in this paragraph, shall be deemed to have been made into the State, place, or locality in which such cigarettes or smokeless tobacco are delivered.
+
+#### (10) Person
+
+&emsp;The term “person” means an individual, corporation, company, association, firm, partnership, society, State government, local government, Indian tribal government, governmental organization of such a government, or joint stock company.
+
+#### (11) State
+
+&emsp;The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States.
+
+#### (12) Smokeless tobacco
+
+&emsp;The term “smokeless tobacco” means any finely cut, ground, powdered, or leaf tobacco, or other product containing tobacco, that is intended to be placed in the oral or nasal cavity or otherwise consumed without being combusted.
+
+#### (13) Tobacco tax administrator
+
+&emsp;The term “tobacco tax administrator” means the State, local, or tribal official duly authorized to collect the tobacco tax or administer the tax law of a State, locality, or tribe, respectively.
+
+#### (14) Use
+
+&emsp;The term “use” includes the consumption, storage, handling, or disposal of cigarettes or smokeless tobacco.
+
+(Oct. 19, 1949, ch. 699, §1, as added Pub. L. 111–154, §2(a), Mar. 31, 2010, 124 Stat. 1088.)
+
+#### Prior Provisions
+
+A prior section 375, act Oct. 19, 1949, ch. 699, §1, 63 Stat. 884; Aug. 9, 1955, ch. 695, §1, 69 Stat. 627, set out definitions for this chapter, prior to repeal by Pub. L. 111–154, §2(a), Mar. 31, 2010, 124 Stat. 1088.
+
+#### Effective Date
+
+Pub. L. 111–154, §6, Mar. 31, 2010, 124 Stat. 1110, provided that:
+
+“(a)
+
+In General.—Except as provided in subsection (b), this Act \[see Short Title of 2010 Amendment note below\] shall take effect on the date that is 90 days after the date of enactment of this Act \[Mar. 31, 2010\].
+
+“(b)
+
+BATFE Authority.—The amendments made by section 4 \[amending section 2343 of Title 18, Crimes and Criminal Procedure\] shall take effect on the date of enactment of this Act.”
+
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–154, §1(a), Mar. 31, 2010, 124 Stat. 1087, provided that: “This Act \[enacting this section, sections 376a, 377, and 378 of this title, and section 1716E of Title 18, Crimes and Criminal Procedure, amending section 376 of this title and section 2343 of Title 18, repealing former sections 375, 377, and 378 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Prevent All Cigarette Trafficking Act of 2009’ or ‘PACT Act’.”
 
 #### Short Title
 
 Act Oct. 19, 1949, ch. 699, 63 Stat. 884, which is classified generally to this chapter, is popularly known as the Jenkins Act.
 
-#### Admission of Alaska and Hawaii to Statehood
+#### Severability
 
-Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding section 491 of Title 48.
+Pub. L. 111–154, §7, Mar. 31, 2010, 124 Stat. 1111, provided that: “If any provision of this Act \[see Short Title of 2010 Amendment note above\], or any amendment made by this Act, or the application thereof to any person or circumstance, is held invalid, the remainder of the Act and the application of the Act to any other person or circumstance shall not be affected thereby.”
+
+#### Findings and Purpose
+
+Pub. L. 111–154, §1(b), (c), Mar. 31, 2010, 124 Stat. 1087, 1088, provided that:
+
+“(b)
+
+Findings.—Congress finds that—
+
+&emsp;“(1) the sale of illegal cigarettes and smokeless tobacco products significantly reduces Federal, State, and local government revenues, with Internet sales alone accounting for billions of dollars of lost Federal, State, and local tobacco tax revenue each year;
+
+&emsp;“(2) Hezbollah, Hamas, al Qaeda, and other terrorist organizations have profited from trafficking in illegal cigarettes or counterfeit cigarette tax stamps;
+
+&emsp;“(3) terrorist involvement in illicit cigarette trafficking will continue to grow because of the large profits such organizations can earn;
+
+&emsp;“(4) the sale of illegal cigarettes and smokeless tobacco over the Internet, and through mail, fax, or phone orders, makes it cheaper and easier for children to obtain tobacco products;
+
+&emsp;“(5) the majority of Internet and other remote sales of cigarettes and smokeless tobacco are being made without adequate precautions to protect against sales to children, without the payment of applicable taxes, and without complying with the nominal registration and reporting requirements in existing Federal law;
+
+&emsp;“(6) unfair competition from illegal sales of cigarettes and smokeless tobacco is taking billions of dollars of sales away from law-abiding retailers throughout the United States;
+
+&emsp;“(7) with rising State and local tobacco tax rates, the incentives for the illegal sale of cigarettes and smokeless tobacco have increased;
+
+&emsp;“(8) the number of active tobacco investigations being conducted by the Bureau of Alcohol, Tobacco, Firearms, and Explosives rose to 452 in 2005;
+
+&emsp;“(9) the number of Internet vendors in the United States and in foreign countries that sell cigarettes and smokeless tobacco to buyers in the United States increased from only about 40 in 2000 to more than 500 in 2005; and
+
+&emsp;“(10) the intrastate sale of illegal cigarettes and smokeless tobacco over the Internet has a substantial effect on interstate commerce.
+
+“(c)
+
+Purposes.—It is the purpose of this Act \[see Short Title of 2010 Amendment note above\] to—
+
+&emsp;“(1) require Internet and other remote sellers of cigarettes and smokeless tobacco to comply with the same laws that apply to law-abiding tobacco retailers;
+
+&emsp;“(2) create strong disincentives to illegal smuggling of tobacco products;
+
+&emsp;“(3) provide government enforcement officials with more effective enforcement tools to combat tobacco smuggling;
+
+&emsp;“(4) make it more difficult for cigarette and smokeless tobacco traffickers to engage in and profit from their illegal activities;
+
+&emsp;“(5) increase collections of Federal, State, and local excise taxes on cigarettes and smokeless tobacco; and
+
+&emsp;“(6) prevent and reduce youth access to inexpensive cigarettes and smokeless tobacco through illegal Internet or contraband sales.”
+
+#### Exclusions Regarding Indian Tribes and Tribal Matters
+
+Pub. L. 111–154, §5, Mar. 31, 2010, 124 Stat. 1109, provided that:
+
+“(a)
+
+In General.—Nothing in this Act \[see Short Title of 2010 Amendment note above\] or the amendments made by this Act shall be construed to amend, modify, or otherwise affect—
+
+&emsp;“(1) any agreements, compacts, or other intergovernmental arrangements between any State or local government and any government of an Indian tribe (as that term is defined in section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e)) relating to the collection of taxes on cigarettes or smokeless tobacco sold in Indian country;
+
+&emsp;“(2) any State laws that authorize or otherwise pertain to any such intergovernmental arrangements or create special rules or procedures for the collection of State, local, or tribal taxes on cigarettes or smokeless tobacco sold in Indian country;
+
+&emsp;“(3) any limitations under Federal or State law, including Federal common law and treaties, on State, local, and tribal tax and regulatory authority with respect to the sale, use, or distribution of cigarettes and smokeless tobacco by or to Indian tribes, tribal members, tribal enterprises, or in Indian country;
+
+&emsp;“(4) any Federal law, including Federal common law and treaties, regarding State jurisdiction, or lack thereof, over any tribe, tribal members, tribal enterprises, tribal reservations, or other lands held by the United States in trust for one or more Indian tribes; or
+
+&emsp;“(5) any State or local government authority to bring enforcement actions against persons located in Indian country.
+
+“(b)
+
+Coordination of Law Enforcement.—Nothing in this Act or the amendments made by this Act shall be construed to inhibit or otherwise affect any coordinated law enforcement effort by 1 or more States or other jurisdictions, including Indian tribes, through interstate compact or otherwise, that—
+
+&emsp;“(1) provides for the administration of tobacco product laws or laws pertaining to interstate sales or other sales of tobacco products;
+
+&emsp;“(2) provides for the seizure of tobacco products or other property related to a violation of such laws; or
+
+&emsp;“(3) establishes cooperative programs for the administration of such laws.
+
+“(c)
+
+Treatment of State and Local Governments.—Nothing in this Act or the amendments made by this Act shall be construed to authorize, deputize, or commission States or local governments as instrumentalities of the United States.
+
+“(d)
+
+Enforcement Within Indian Country.—Nothing in this Act or the amendments made by this Act shall prohibit, limit, or restrict enforcement by the Attorney General of the United States of this Act or an amendment made by this Act within Indian country.
+
+“(e)
+
+Ambiguity.—Any ambiguity between the language of this section or its application and any other provision of this Act shall be resolved in favor of this section.
+
+“(f)
+
+Definitions.—In this section—
+
+&emsp;“(1) the term ‘Indian country’ has the meaning given that term in section 1 of the Jenkins Act \[Act of October 19, 1949, 15 U.S.C. 375\], as amended by this Act; and
+
+&emsp;“(2) the term ‘tribal enterprise’ means any business enterprise, regardless of whether incorporated or unincorporated under Federal or tribal law, of an Indian tribe or group of Indian tribes.”
 

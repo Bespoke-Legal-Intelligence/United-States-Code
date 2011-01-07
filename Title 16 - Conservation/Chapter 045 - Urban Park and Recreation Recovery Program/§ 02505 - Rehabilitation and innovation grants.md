@@ -8,7 +8,7 @@ The Secretary is authorized to provide 70 per centum matching rehabilitation and
 
 (2) Payments may be made only for those rehabilitation or innovative projects which have been approved by the Secretary. Such payments may be made from time to time in keeping with the rate of progress toward the satisfactory completion of a project, except that the Secretary may, when appropriate, make advance payments on approved rehabilitation and innovative projects in an amount not to exceed 20 per centum of the total project cost.
 
-(3) The Secretary may authorize modification of an approved project only when a grantee hasadequately demonstrated that such modification is necessary because of circumstances not foreseeable at the time a project was proposed.
+(3) The Secretary may authorize modification of an approved project only when a grantee has adequately demonstrated that such modification is necessary because of circumstances not foreseeable at the time a project was proposed.
 
 #### (b) Special considerations
 

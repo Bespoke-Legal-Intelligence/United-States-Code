@@ -78,7 +78,7 @@ In subsection (a)(1), the text of 15:2004(a) (last sentence) is omitted because 
 
 In subsection (a)(2), the words “adversely affected” are substituted for “aggrieved”, and the words “regulation prescribed” are substituted for “final rule”, for consistency in the revised title and with other titles of the United States Code. The text of 15:2004(a) (4th sentence) and 2008(e)(3)(B) is omitted because 5:ch. 7 applies unless otherwise stated.
 
-In subsection (b), the words “a regulation prescribing an amendment of a standard submitted to Congress”are substituted for “or in the case of an amendment submitted to each House of Congress” in 15:2004(a), and the words “the Secretary of Transportation or the Administrator of the Environmental Protection Agency, whoever prescribed the regulation” are substituted for “the officer who prescribed the rule”, for clarity. The words “a record of the proceeding in which the regulation was prescribed” are substituted for “the written submissions and other materials in the proceeding upon which such rule was based” in 15:2004(a) and “the written submissions to, and transcript of, the written and oral proceedings on which the rule was based, as provided in section 2112 of title 28, United States Code” in 15:2008(e)(3) for consistency and to eliminate unnecessary words.
+In subsection (b), the words “a regulation prescribing an amendment of a standard submitted to Congress” are substituted for “or in the case of an amendment submitted to each House of Congress” in 15:2004(a), and the words “the Secretary of Transportation or the Administrator of the Environmental Protection Agency, whoever prescribed the regulation” are substituted for “the officer who prescribed the rule”, for clarity. The words “a record of the proceeding in which the regulation was prescribed” are substituted for “the written submissions and other materials in the proceeding upon which such rule was based” in 15:2004(a) and “the written submissions to, and transcript of, the written and oral proceedings on which the rule was based, as provided in section 2112 of title 28, United States Code” in 15:2008(e)(3) for consistency and to eliminate unnecessary words.
 
 In subsection (c)(1), the words “on request of the petitioner” are substituted for “If the petitioner applies to the court in a proceeding under subsection (a) of this section for leave to make additional submissions”, and the words “to receive additional submissions” are substituted for “to provide additional opportunity to make such submissions”, for clarity.
 
@@ -92,7 +92,7 @@ This amends 49:32909(a)(1) to correct an erroneous cross-reference.
 
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–429 substituted “any of sections 32901–32904” for “section 32901–32904”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–429 substituted “any of sections 32901–32904” for “section 32901–32904”.
 
 #### Effective Date of 1994 Amendment
 

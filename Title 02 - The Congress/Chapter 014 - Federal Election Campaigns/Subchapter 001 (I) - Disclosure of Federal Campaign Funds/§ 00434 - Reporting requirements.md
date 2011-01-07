@@ -28,9 +28,9 @@
 
 &emsp;(B) in any other calendar year, the treasurer shall file either—
 
-&emsp;&emsp;(i) monthly reports, which shall be filed no later than the 20th day after the last day ofeach month and shall be complete as of the last day of the month; or
+&emsp;&emsp;(i) monthly reports, which shall be filed no later than the 20th day after the last day of each month and shall be complete as of the last day of the month; or
 
-&emsp;&emsp;(ii) quarterly reports, which shall be filed no later than the 15th day after the last day of each calendar quarter and which shall be complete as of the last day of each calendar quarter.
+&emsp;&emsp;(ii) quarterly reports, which shall be filed no later than the 15th day after the last dayof each calendar quarter and which shall be complete as of the last day of each calendar quarter.
 
 (4) All political committees other than authorized committees of a candidate shall file either—
 
@@ -96,7 +96,7 @@ Contents.—A notification under clause (iii) or (iv) shall include—
 
 &emsp;&emsp;(II) the date and amount of each expenditure; and
 
-&emsp;&emsp;(III) the total amount of expenditures from personal funds that the candidate has made, or obligated to make, with respect to an election as of the date of the expenditure that is the subject of the notification.
+&emsp;&emsp;(III) the total amount of expenditures from personal funds that the candidate has made, or obligated to make, with respect to anelection as of the date of the expenditure that is the subject of the notification.
 
 (C)
 
@@ -284,7 +284,7 @@ Each report under this section shall disclose—
 
 (2) The Commission shall make a document which is filed electronically with the Commission pursuant to this paragraph accessible to the public on the Internet not later than 24 hours after the document is received by the Commission.
 
-(3) In promulgating a regulation under this paragraph, the Commission shall provide methods (other than requiring a signature on the document being filed) for verifying the documents covered by the regulation. Any document verified under any of the methods shall be treated for all purposes (including penalties for perjury) in the same manner as a document verified by signature.
+(3) In promulgating a regulation under this paragraph, the Commission shall provide methods (other than requiring a signature on the document being filed) for verifying the documents covered by the regulation. Any document verified under any of the methods shall be treated for all purposes (including penalties for perjury)in the same manner as a document verified by signature.
 
 #### (e) Political committees
 
@@ -350,7 +350,7 @@ Each report under this section shall disclose—
 
 &emsp;&emsp;&emsp;(III) in the case of a communication which refers to a candidate for an office other than President or Vice President, is targeted to the relevant electorate.
 
-&emsp;&emsp;(ii) If clause (i) is held to be constitutionally insufficient by final judicial decision to support the regulation provided herein, then the term “electioneering communication” means any broadcast, cable, or satellite communication which promotes or supports a candidate for that office, or attacks or opposes a candidate for that office (regardless of whether the communication expressly advocates a vote for or against a candidate) and which also is suggestive of no plausible meaning other than an exhortation to vote for or against a specific candidate. Nothing in this subparagraph shall be construed to affect the interpretation or application of section 100.22(b) of title 11, Code of Federal Regulations.
+&emsp;&emsp;(ii) If clause (i) is held to be constitutionally insufficient by final judicial decision to support the regulation provided herein, then the term “electioneering communication” means any broadcast, cable, or satellite communication which promotes or supports a candidate for that office, or attacks or opposes a candidate for that office\(regardless of whether the communication expressly advocates a vote for or against a candidate) and which also is suggestive of no plausible meaning other than an exhortation to vote for or against a specific candidate. Nothing in this subparagraph shall be construed to affect the interpretation or application of section 100.22(b) of title 11, Code of Federal Regulations.
 
 #### (B) Exceptions
 
@@ -424,7 +424,7 @@ Each report under this section shall disclose—
 
 #### (4) Time of filing for expenditures aggregating $1,000
 
-&emsp;Notwithstanding subsection (a)(5) of this section, the time at which the statementunder paragraph (1) is received by the Commission or any other recipient to whom the notification is required to be sent shall be considered the time of filing of the statement with the recipient.
+&emsp;Notwithstanding subsection (a)(5) of this section, the time at which the statement under paragraph (1) is received by the Commission or any other recipient to whom thenotification is required to be sent shall be considered the time of filing of the statement with the recipient.
 
 #### (h) Reports from Inaugural Committees
 

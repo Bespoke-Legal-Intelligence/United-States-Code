@@ -76,9 +76,9 @@ In subsection (d)(2), the words “A benefit” are substituted for “None of t
 
 #### Amendments
 
-2004—Subsec. (c)(2)(B). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (c)(2)(B). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1988—Subsec. (b)(1). Pub. L. 100–426, §206(1), inserted “before age 55” after “remarries”.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–426, §206(1), inserted “before age 55” after “remarries”.
 
 Subsec. (b)(2). Pub. L. 100–426, §206(2), inserted “(unless the child is then a student as described in section 771(1)(C) of this title)” after “age”.
 

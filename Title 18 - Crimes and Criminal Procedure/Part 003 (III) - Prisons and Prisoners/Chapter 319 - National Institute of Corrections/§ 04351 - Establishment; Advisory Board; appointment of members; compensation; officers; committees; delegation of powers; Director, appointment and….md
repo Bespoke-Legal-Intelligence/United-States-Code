@@ -26,17 +26,13 @@
 
 The Office of Juvenile Justice and Delinquency Prevention, referred to in subsec. (b), was created by section 5611 of Title 42, The Public Health and Welfare, headed by an Associate Administrator. However, section 5611 of Title 42, as amended by Pub. L. 98–473, establishes the Office of Juvenile Justice and Delinquency Prevention and headed by an Administrator.
 
-The civil service laws, referred to in subsecs. (f) and (h), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
-The classification laws, referred to in subsec. (h), are classified generally to chapter 51 and subchapter III of chapter 53 of Title 5.
-
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–322 substituted “Director of the Bureau of Justice Assistance” for “Administrator of the Law Enforcement Assistance Administration”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–322 substituted “Director of the Bureau of Justice Assistance” for “Administrator of the Law Enforcement Assistance Administration”.
 
-1984—Subsec. (b). Pub. L. 98–473 substituted “Sentencing Commission” for “Parole Board”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–473 substituted “Sentencing Commission” for “Parole Board”.
 
-1977—Subsec. (b). Pub. L. 95–115 substituted “Associate” for “Deputy Assistant” and “Office of” for “National Institute for”.
+<b>1977</b>—Subsec. (b). Pub. L. 95–115 substituted “Associate” for “Deputy Assistant” and “Office of” for “National Institute for”.
 
 #### Change of Name
 

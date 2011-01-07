@@ -1,7 +1,5 @@
 ### SUBCHAPTER III—INFORMATION SECURITY
 
-<i><sup>1</sup></i><i> So in original. Probably should be “National Institute of Standards”.</i>
-
 
 ---
 

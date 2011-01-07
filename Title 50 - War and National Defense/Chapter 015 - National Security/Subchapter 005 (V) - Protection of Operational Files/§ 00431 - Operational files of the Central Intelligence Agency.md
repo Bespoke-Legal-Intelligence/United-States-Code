@@ -8,7 +8,7 @@ The Director of the Central Intelligence Agency, with the coordination of the Di
 
 In this section, the term “operational files” means—
 
-&emsp;(1) files of the Directorate of Operations which document the conduct of foreign intelligence or counterintelligence operations or intelligence or security liaison arrangements or information exchanges with foreign governments or their intelligence or security services;
+&emsp;(1) files of the National Clandestine Service which document the conduct of foreign intelligence or counterintelligence operations or intelligence or security liaison arrangements or information exchanges with foreign governments or their intelligence or security services;
 
 &emsp;(2) files of the Directorate for Science and Technology which document the means by which foreign intelligence or counterintelligence is collected through scientific and technical systems; and
 
@@ -28,7 +28,7 @@ Notwithstanding subsection (a) of this section, exempted operational files shall
 
 #### (d) Information derived or disseminated from exempted operational files
 
-(1) Files that are not exempted under subsection (a) of this section which contain information derived or disseminated from exemptedoperational files shall be subject to search and review.
+(1) Files that are not exempted under subsection (a) of this section which contain information derived or disseminated from exempted operational files shall be subject to search and review.
 
 (2) The inclusion of information from exempted operational files in files that are not exempted under subsection (a) of this section shall not affect the exemption under subsection (a) of this section of the originating operational files from search, review, publication, or disclosure.
 
@@ -40,7 +40,7 @@ The provisions of subsection (a) of this section shall not be superseded except 
 
 #### (f) Allegation; improper withholding of records; judicial review
 
-Whenever any person who has requested agency records under section 552 of title 5 (Freedom of Information Act), alleges that the Central Intelligence Agency has improperly withheld records because of failure to comply with any provision of this section, judicial review shall be available under the terms set forth in section 552(a)(4)(B) of title 5, except that—
+Whenever any person who has requested agency records under section 552 of title 5 (Freedom of Information Act), alleges that the Central Intelligence Agency has improperly withheld records because of failure to comply with any provision of this section, judicial review shall beavailable under the terms set forth in section 552(a)(4)(B) of title 5, except that—
 
 &emsp;(1) in any case in which information specifically authorized under criteria established by an Executive order to be kept secret in the interest of national defense or foreign relations which is filed with, or produced for, the court by the Central Intelligence Agency, such information shall be examined ex parte, in camera by the court;
 
@@ -70,7 +70,7 @@ A complainant who alleges that the Central Intelligence Agency has improperly wi
 
 &emsp;(B) Whether the Central Intelligence Agency, in fact, considered the criteria set forth in paragraph (2) in conducting the required review.
 
-(July 26, 1947, ch. 343, title VII, §701, as added Pub. L. 98–477, §2(a), Oct. 15, 1984, 98 Stat. 2209; amended Pub. L. 104–93, title VII, §702, Jan. 6, 1996, 109 Stat. 978; Pub. L. 107–306, title III, §353(b)(10), Nov. 27, 2002, 116 Stat. 2402; Pub. L. 108–136, div. A, title IX, §922(b)(1), (2)(B)–(F), (d)(1)(B), Nov. 24, 2003, 117 Stat. 1573, 1574; Pub. L. 108–458, title I, §§1071(a)(6), 1072(a)(7), Dec. 17, 2004, 118 Stat. 3690, 3692.)
+(July 26, 1947, ch. 343, title VII, §701, as added Pub. L. 98–477, §2(a), Oct. 15, 1984, 98 Stat. 2209; amended Pub. L. 104–93, title VII, §702, Jan. 6, 1996, 109 Stat. 978; Pub. L. 107–306, title III, §353(b)(10), Nov. 27, 2002, 116 Stat. 2402; Pub. L. 108–136, div. A, title IX, §922(b)(1), (2)(B)–(F), (d)(1)(B), Nov. 24, 2003, 117 Stat. 1573, 1574; Pub. L. 108–458, title I, §§1071(a)(6), 1072(a)(7), Dec. 17, 2004, 118 Stat. 3690, 3692; Pub. L. 111–259, title VIII, §804(6), Oct. 7, 2010, 124 Stat. 2747.)
 
 #### References in Text
 
@@ -82,15 +82,17 @@ The text of section 432 of this title, which was transferred to this section and
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–458, §1071(a)(6)(A), substituted “The Director of the Central Intelligence Agency, with the coordination of the Director of National Intelligence, may exempt operational files of the Central Intelligence Agency” for “Operational files of the Central Intelligence Agency may be exempted by the Director of Central Intelligence”.
+<b>2010</b>—Subsec. (b)(1). Pub. L. 111–259 substituted “National Clandestine Service” for “Directorate of Operations”.
+
+<b>2004</b>—Subsec. (a). Pub. L. 108–458, §1071(a)(6)(A), substituted “The Director of the Central Intelligence Agency, with the coordination of the Director of National Intelligence, may exempt operational files of the Central Intelligence Agency” for “Operational files of the Central Intelligence Agency may be exempted by the Director of Central Intelligence”.
 
 Subsec. (c)(3). Pub. L. 108–458, §1072(a)(7), substituted “Office of the Director of National Intelligence” for “Office of the Director of Central Intelligence”.
 
 Subsec. (g)(1). Pub. L. 108–458, §1071(a)(6)(B), substituted “Director of the Central Intelligence Agency and the Director of National Intelligence” for “Director of Central Intelligence”.
 
-2003—Pub. L. 108–136, §922(d)(1)(B), substituted “Operational files of the Central Intelligence Agency” for “Exemption of certain operational files from search, review, publication, or disclosure” in section catchline.
+<b>2003</b>—Pub. L. 108–136, §922(d)(1)(B), substituted “Operational files of the Central Intelligence Agency” for “Exemption of certain operational files from search, review, publication, or disclosure” in section catchline.
 
-Subsec. (b). Pub. L. 108–136, §922(b)(1), which directed the substitution of “In this section,” for “For purposes of this title”, was executed by making the substitution for “For the purposes of this title”, to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 108–136, §922(b)(1), which directed the substitution of “In this section,” for “For purposesof this title”, was executed by making the substitution for “For the purposes of this title”, to reflect the probable intent of Congress.
 
 Subsec. (g). Pub. L. 108–136, §922(b)(2)(C), inserted heading.
 
@@ -104,9 +106,9 @@ Subsec. (g)(3). Pub. L. 108–136, §922(b)(2)(F)(ii), substituted “to determi
 
 Pub. L. 108–136, §922(b)(2)(F)(i), substituted “with this subsection” for “with this section” in first sentence.
 
-2002—Subsec. (c)(3). Pub. L. 107–306 substituted “congressional intelligence committees” for “intelligence committees of the Congress”.
+<b>2002</b>—Subsec. (c)(3). Pub. L. 107–306 substituted “congressional intelligence committees” for “intelligence committees of the Congress”.
 
-1996—Subsec. (b)(3). Pub. L. 104–93 substituted “Office of Personnel Security” for “Office of Security”.
+<b>1996</b>—Subsec. (b)(3). Pub. L. 104–93 substituted “Office of Personnel Security” for “Office of Security”.
 
 #### Effective Date of 2004 Amendment
 

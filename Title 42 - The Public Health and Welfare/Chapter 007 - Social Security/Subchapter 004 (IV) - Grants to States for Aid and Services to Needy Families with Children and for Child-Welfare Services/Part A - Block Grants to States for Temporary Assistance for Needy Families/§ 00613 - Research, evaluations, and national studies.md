@@ -170,7 +170,7 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), the Secretary, in consultation with the Secretary of Labor and the Secretary of Housing and Urban Development, shall submit tothe Congress reports on the projects funded under section <sup>1</sup> 603(a)(5) and 612(a)(3) of this title and on the evaluations of the projects.
+&emsp;&emsp;Subject to subparagraphs (B) and (C), the Secretary, in consultation with the Secretary of Labor and the Secretary of Housing and Urban Development, shall submit to the Congress reports on the projects funded under section <sup>1</sup> 603(a)(5) and 612(a)(3) of this title and on the evaluations of the projects.
 
 #### (B) Interim report
 
@@ -196,13 +196,13 @@ A prior section 613, act Aug. 14, 1935, ch. 531, title IV, §413, as added June 
 
 #### Amendments
 
-2008—Subsec. (i)(5). Pub. L. 110–246, §4002(b)(1)(D), (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp”.
+<b>2008</b>—Subsec. (i)(5). Pub. L. 110–246, §4002(b)(1)(D), (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp”.
 
-1999—Subsec. (g)(1). Pub. L. 106–169 made technical amendment to reference in original act which appears in text as reference to August 22, 1996.
+<b>1999</b>—Subsec. (g)(1). Pub. L. 106–169 made technical amendment to reference in original act which appears in text as reference to August 22, 1996.
 
-1998—Subsec. (g)(1). Pub. L. 105–200 substituted “Education and the Workforce” for “Economic and Educational Opportunities”.
+<b>1998</b>—Subsec. (g)(1). Pub. L. 105–200 substituted “Education and the Workforce” for “Economic and Educational Opportunities”.
 
-1997—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
+<b>1997</b>—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 
 Subsec. (a). Pub. L. 105–33, §5509(a), inserted “, directly or through grants, contracts, or interagency agreements,” before “shall conduct” and substituted “section 607” for “section 609”.
 
@@ -258,31 +258,15 @@ Section effective Aug. 22, 1996, with transition rules relating to State options
 
 #### Coordination of Substance Abuse and Child Protection Services
 
-Pub. L. 105–89, title IV, §405, Nov. 19, 1997, 111 Stat. 2135, provided that: “Within 1 year after the date of theenactment of this Act \[Nov. 19, 1997\], the Secretary of Health and Human Services, based on information from the Substance Abuse and Mental Health Services Administration and the Administration for Children and Families in the Department of Health of \[sic\] Human Services, shall prepare and submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report which describes the extent and scope of the problem of substance abuse in the child welfare population, the types of services provided to such population, and the outcomes resulting from the provision of such services to such population. The report shall include recommendations for any legislation that may be needed to improve coordination in providing such services to such population.”
+Pub. L. 105–89, title IV, §405, Nov. 19, 1997, 111 Stat. 2135, required the Secretary of Health and Human Services, based on information from the Substance Abuse and Mental Health Services Administration and the Administration for Children and Families in the Department of Health and Human Services, to submit to the appropriate committees of Congress a report which described the extent and scope of the problem of substance abuse in the child welfare population, the types of services provided to such population, and the outcomes resulting from the provision of such services to such population, along with appropriate recommendations for legislative changes.
 
 #### GAO Study of Effect of Family Violence on Need for Public Assistance
 
-Section 5001(i) of Pub. L. 105–33 provided that:
-
-“(1)
-
-Study.—The Comptroller General shall conduct a study of the effect of family violence on the use of public assistance programs, and in particular the extent to which family violence prolongs or increases the need for public assistance.
-
-“(2)
-
-Report.—Within 1 year after the date of the enactment of this Act \[Aug. 5, 1997\], the Comptroller General shall submit to the Committees on Ways and Means and Education and the Workforce \[now Education and Labor\] of the House of Representatives and the Committee on Finance of the Senate a report that contains the findings of the study required by paragraph (1).”
+Pub. L. 105–33, title V, §5001(i), Aug. 5, 1997, 111 Stat. 593, directed the Comptroller General to conduct a study of the effect of family violence on the use of public assistance programs, and in particular the extent to which family violence prolongs or increases the need for public assistance, and to submit a report to the appropriate committees of Congress within 1 year after Aug. 5, 1997.
 
 #### Study on Alternative Outcomes Measures
 
-Section 107 of Pub. L. 104–193, as amended by Pub. L. 105–33, title V, §5511, Aug. 5, 1997, 111 Stat. 619, provided that:
-
-“(a)
-
-Study.—The Secretary shall, in cooperation with the States, study and analyze outcomes measures for evaluating the success of the States in moving individuals out of the welfare system through employment as an alternative to the minimum participation rates described in section 407 of the Social Security Act \[section 607 of this title\]. The study shall include a determination as to whether such alternative outcomes measures should be applied on a national or a State-by-State basis and a preliminary assessment of the effects of section 408(a)(7)(C) of such Act \[section 608(a)(7)(C) of this title\].
-
-“(b)
-
-Report.—Not later than September 30, 1998, the Secretary shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report containing the findings of the study required by subsection (a).”
+Pub. L. 104–193, title I, §107, Aug. 22, 1996, 110 Stat. 2164, as amended by Pub. L. 105–33, title V, §5511, Aug. 5, 1997, 111 Stat. 619, directed the Secretary, in cooperation with the States, to study and analyze outcomes measures for evaluating the success of the States in moving individuals out of the welfare system through employment as an alternative to the minimum participation rates described in 42 U.S.C. 607, and to submit a report to the appropriate committees of Congress by Sept. 30, 1998.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 

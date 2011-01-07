@@ -6,7 +6,7 @@ The Secretary of Defense shall ensure that each nonappropriated-fund activity en
 
 #### Amendments
 
-2004—Pub. L. 108–375 renumbered section 2489 of this title as this section.
+<b>2004</b>—Pub. L. 108–375 renumbered section 2489 of this title as this section.
 
 #### Regulations Deadline
 

@@ -1,6 +1,6 @@
 ### §2309. Allocation of appropriations
 
-(a) Appropriations available for procurement by an agency named in section 2303 of this title may, through administrative allotment, be made available for obligation for procurement by any other agency in amounts authorized by the head of the allotting agency and without transfer of funds on the books of the Department of the Treasury.
+(a) Appropriations available for procurement by an agency named in section 2303 of this title may, through administrative allotment, be made available for obligation for procurement by any other agency in amounts authorized bythe head of the allotting agency and without transfer of funds on the books of the Department of the Treasury.
 
 (b) A disbursing official of the allotting agency may make any disbursement chargeable to an allotment under subsection (a) upon a voucher certified by an officer or civilian employee of the procuring agency.
 
@@ -30,5 +30,5 @@ In subsection (b), the words “an allotment under subsection (a)” are substit
 
 #### Amendments
 
-1982—Subsec. (b). Pub. L. 97–258 substituted “disbursing official” for “disbursing officer”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–258 substituted “disbursing official” for “disbursing officer”.
 

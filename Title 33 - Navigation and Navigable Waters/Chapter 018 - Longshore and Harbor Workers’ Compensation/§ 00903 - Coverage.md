@@ -40,15 +40,15 @@ In subsec. (e), “section 30104 of title 46” substituted for “section 20 of
 
 #### Amendments
 
-1996—Subsec. (d)(3)(B). Pub. L. 104–324 inserted before period at end “as measured under section 14502 of title 46, or an alternate tonnage measured under section 14302 of that title as prescribed by the Secretary under section 14104 of that title”.
+<b>1996</b>—Subsec. (d)(3)(B). Pub. L. 104–324 inserted before period at end “as measured under section 14502 of title 46, or an alternate tonnage measured under section 14302 of that title as prescribed by the Secretary under section 14104 of that title”.
 
-1984—Subsec. (a). Pub. L. 98–426, §3(a), inserted introductory language relating to exceptions provided for elsewhere in this section, redesignated existing par. (1) as subsec. (b), and struck out existing par. (2) which had excepted from coverage masters and crew members or persons engaged by such masters or crew members to load, unload, or repair vessels under 18 tons net.
+<b>1984</b>—Subsec. (a). Pub. L. 98–426, §3(a), inserted introductory language relating to exceptions provided for elsewhere in this section, redesignated existing par. (1) as subsec. (b), and struck out existing par. (2) which had excepted from coverage masters and crew members or persons engaged by such masters or crew members to load, unload, or repair vessels under 18 tons net.
 
 Subsec. (b). Pub. L. 98–426, §3(a), redesignated as subsec. (b) provisions formerly set out in subsec. (a)(2). Former subsec. (b) redesignated (c).
 
 Subsecs. (c) to (e). Pub. L. 98–426, §3(a), (b), redesignated former subsec. (b) as (c) and added subsecs. (d) and (e).
 
-1972—Subsec. (a). Pub. L. 92–576, §2(c), substituted provisions respecting coverage of injuries occurring upon navigable waters of the United States, including any adjoining pier, wharf, dry dock, terminal, building way, marine railway, or other adjoining area customarily used by an employer in loading, unloading, repairing, or building a vessel, for prior provisions respecting coverage of such injuries upon navigable waters and if recovery for the disability or death through workmen's compensation proceedings may not validly be provided by State law.
+<b>1972</b>—Subsec. (a). Pub. L. 92–576, §2(c), substituted provisions respecting coverage of injuries occurring upon navigable waters of the United States, including any adjoining pier, wharf, dry dock, terminal, building way, marine railway, or other adjoining area customarily used by an employer in loading, unloading, repairing, or building a vessel, for prior provisions respecting coverage of such injuries upon navigable waters and if recovery for the disability or death through workmen's compensation proceedings may not validly be provided by State law.
 
 Subsec. (a)(1). Pub. L. 92–576, §21, substituted “or” for “nor” before “any person engaged by the master”.
 

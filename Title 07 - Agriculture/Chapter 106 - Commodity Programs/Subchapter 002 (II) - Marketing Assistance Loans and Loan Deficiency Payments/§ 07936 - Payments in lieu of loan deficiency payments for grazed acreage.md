@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(i) the quantity of the grazed acreage on the farm with respect to which the producer elects to forgo harvesting of wheat, barley, or oats; and
 
-&emsp;&emsp;&emsp;(ii) the payment yield in effect for the calculation of direct payments under subchapter I of this chapter with respect to that loan commodity on the farm or, inthe case of a farm without a payment yield for that loan commodity, an appropriate yield established by the Secretary in a manner consistent with section 7912(c) of this title.
+&emsp;&emsp;&emsp;(ii) the payment yield in effect for the calculation of direct payments under subchapter I of this chapter with respect to that loan commodity on the farm or, in the case of a farm without a payment yield for that loan commodity, an appropriate yield established by the Secretary in a manner consistent with section 7912(c) of this title.
 
 #### (2) Grazing of triticale acreage
 

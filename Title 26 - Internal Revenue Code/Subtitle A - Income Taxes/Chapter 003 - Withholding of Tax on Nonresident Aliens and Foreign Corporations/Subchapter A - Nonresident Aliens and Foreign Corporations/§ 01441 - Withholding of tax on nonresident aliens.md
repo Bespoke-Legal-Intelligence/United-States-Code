@@ -50,7 +50,7 @@ The items of income referred to in subsection (a) are interest (other than origi
 
 #### (7) Certain annuities received under qualified plans
 
-&emsp;No deduction or withholding under subsection (a) shall be required in the case of any amount received as an annuity if such amountis, under section 871(f), exempt from the tax imposed by section 871(a).
+&emsp;No deduction or withholding under subsection (a) shall be required in the case of any amount received as an annuity if such amount is, under section 871(f), exempt from the tax imposed by section 871(a).
 
 #### (8) Original issue discount
 
@@ -104,29 +104,29 @@ The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec.
 
 The Tax Reform Act of 1984, referred to in subsec. (c)(3), is division A \[§§5 to 1082\] of Pub. L. 98–369, July 18, 1984, 98 Stat. 494, which was approved July 18, 1984. For complete classification of this Act to the Code, see Short Title of 1984 Amendments note set out under section 1 of this title and Tables.
 
-The Mutual Security Act of 1954, referred to in subsec. (c)(6), is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§2 to 11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§101 to 103, ch. II, §§201 to 205, ch. III, §301, ch. IV, §401, ch. V, §501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, §2, ch. 1, §101, ch. II, §§201 to 205(a) to (i), (k) to (n), ch. III, §301, ch. IV, §401(a) to (k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§1750 et seq.) of Title 22, Foreign Relations and Intercourse, and which was repealed by act July 18, 1956, ch. 627, §8(m), 70 Stat. 559, Pub. L. 85–141, §§2(e), 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, §642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, §212(b)(1), June 30, 1976, 90 Stat 745, except for sections 1754, 1783, 1796, 1853, 1922, 1928, and 1937 of Title 22. For complete classification of this Act tothe Code, see Short Title note set out under section 1754 of Title 22 and Tables.
+The Mutual Security Act of 1954, referred to in subsec. (c)(6), is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§2 to 11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§101 to 103, ch. II, §§201 to 205, ch. III, §301, ch. IV, §401, ch. V, §501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, §2, ch. 1, §101, ch. II, §§201 to 205(a) to (i), (k) to (n), ch. III, §301, ch. IV, §401(a) to (k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§1750 et seq.) of Title 22, Foreign Relations and Intercourse, and which was repealed by act July 18, 1956, ch. 627, §8(m), 70 Stat. 559, Pub. L. 85–141, §§2(e), 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, §642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, §212(b)(1), June 30, 1976, 90 Stat 745, except for sections 1754, 1783, 1796, 1853, 1922, 1928, and 1937 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 1754 of Title 22 and Tables.
 
 #### Amendments
 
-2004—Subsec. (c)(12). Pub. L. 108–357 added par. (12).
+<b>2004</b>—Subsec. (c)(12). Pub. L. 108–357 added par. (12).
 
-1997—Subsec. (g). Pub. L. 105–34 substituted “85 percent” for “one-half”.
+<b>1997</b>—Subsec. (g). Pub. L. 105–34 substituted “85 percent” for “one-half”.
 
-1994—Subsec. (b). Pub. L. 103–296 substituted “(J), (M), or (Q)” for “(J), or (M)”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–296 substituted “(J), (M), or (Q)” for “(J), or (M)”.
 
-1993—Subsec. (c)(9). Pub. L. 103–66 substituted “section 871(h)(3) or (4)” for “section 871(h)(3)”.
+<b>1993</b>—Subsec. (c)(9). Pub. L. 103–66 substituted “section 871(h)(3) or (4)” for “section 871(h)(3)”.
 
-1992—Subsecs. (b), (c)(5). Pub. L. 102–318 struck out “402(a)(2), 403(a)(2), or” before “631(b)”.
+<b>1992</b>—Subsecs. (b), (c)(5). Pub. L. 102–318 struck out “402(a)(2), 403(a)(2), or” before “631(b)”.
 
-1990—Subsec. (b)(2). Pub. L. 101–508 inserted “section” before “170(b)(1)(A)(ii)”.
+<b>1990</b>—Subsec. (b)(2). Pub. L. 101–508 inserted “section” before “170(b)(1)(A)(ii)”.
 
-1988—Subsec. (b). Pub. L. 100–647, §1001(d)(2)(A), amended second sentence generally. Prior to amendment, second sentence read as follows: “The items of income referred to in subsection (a) from which tax shall be deducted and withheld at the rate of 14 percent are amounts which are received by a nonresident alien individual who is temporarily present in the United States as a nonimmigrant under subparagraph (F) or (J) of section 101(a)(15) of the Immigration and Nationality Act and which are incident to a qualified scholarship to which section 117(a) applies, but only to the extent such amounts are includible in gross income.”
+<b>1988</b>—Subsec. (b). Pub. L. 100–647, §1001(d)(2)(A), amended second sentence generally. Prior to amendment, second sentence read as follows: “The items of income referred to in subsection (a) from which tax shall be deducted and withheld at the rate of 14 percent are amounts which are received by a nonresident alien individual who is temporarily present in the United States as a nonimmigrant under subparagraph (F) or (J) of section 101(a)(15) of the Immigration and Nationality Act and which are incident to a qualified scholarship to which section 117(a) applies, but only to the extent such amounts are includible in gross income.”
 
 Subsec. (c)(11). Pub. L. 100–647, §6134(a)(2), added par. (11).
 
-1986—Subsec. (b). Pub. L. 99–514, §123(b)(2), amended second sentence generally. Prior to amendment, second sentence read as follows: “The items of income referred to in subsection (a) from which tax shall be deducted and withheld at the rate of 14 percent are—
+<b>1986</b>—Subsec. (b). Pub. L. 99–514, §123(b)(2), amended second sentence generally. Prior to amendment, second sentence read as follows: “The items of income referred to in subsection (a) from which tax shall be deducted and withheld at the rate of 14 percent are—
 
-&emsp;“(1) that portion of any scholarship or fellowship grant which is received by a nonresident alien individual who is temporarily present in the United States as a nonimmigrant under subparagraph (F) or (J) of section 101(a)(15) of the Immigration and Nationality Act, as amended, and which is not excluded from gross income under section 117(a)(1) solely by reason of section 117(b)(2)(B); and
+&emsp;“(1) that portion of any scholarship or fellowship grant which is received by a nonresident alien individual who is temporarily present in the UnitedStates as a nonimmigrant under subparagraph (F) or (J) of section 101(a)(15) of the Immigration and Nationality Act, as amended, and which is not excluded from gross income under section 117(a)(1) solely by reason of section 117(b)(2)(B); and
 
 &emsp;“(2) amounts described in subparagraphs (A), (B), (C), and (D) of section 117(a)(2) which are received by any such nonresident alien individual and which are incident to a scholarship or fellowship grant to which section 117(a)(1) applies, but only to the extent such amounts are includable in gross income.”
 
@@ -134,7 +134,7 @@ Subsec. (c)(9). Pub. L. 99–514, §1810(d)(3)(D), substituted “section 871(h)
 
 Subsec. (c)(10). Pub. L. 99–514, §1214(c)(3), added par. (10).
 
-1984—Subsec. (a). Pub. L. 98–369, §474(r)(29)(G), struck out “except in the cases provided for in section 1451 and” before “except as otherwise provided in regulations”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §474(r)(29)(G), struck out “except in the cases provided for in section 1451 and” before “except as otherwise provided in regulations”.
 
 Subsec. (b). Pub. L. 98–369, §42(a)(13), substituted “section 1273” for “section 1232(b)”.
 
@@ -142,17 +142,17 @@ Subsec. (c)(3). Pub. L. 98–369, §474(r)(29)(H), inserted “(as in effect bef
 
 Subsec. (c)(9). Pub. L. 98–369, §127(e)(1), added par. (9).
 
-1983—Subsec. (g). Pub. L. 98–21 added subsec. (g).
+<b>1983</b>—Subsec. (g). Pub. L. 98–21 added subsec. (g).
 
-1976—Pub. L. 94–455 struck out in subsecs. (a), (c)(2), (4), (8), (d), “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out in subsecs. (a), (c)(2), (4), (8), (d), “or his delegate” after “Secretary”.
 
-1971—Subsec. (b). Pub. L. 92–178, §313(a), inserted “(other than original issue discount as defined in section 1232(b))” after “interest”.
+<b>1971</b>—Subsec. (b). Pub. L. 92–178, §313(a), inserted “(other than original issue discount as defined in section 1232(b))” after “interest”.
 
 Subsec. (c)(8). Pub. L. 92–178, §313(d), added par. (8).
 
-1969—Subsec. (f). Pub. L. 91–172 added subsec. (f).
+<b>1969</b>—Subsec. (f). Pub. L. 91–172 added subsec. (f).
 
-1966—Subsec. (a). Pub. L. 89–809, §103(h)(1), substituted “or of any foreign partnership” for “, or of any partnership not engaged in trade or business within the United States and composed in whole or in part of nonresident aliens,”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–809, §103(h)(1), substituted “or of any foreign partnership” for “, or of any partnership not engaged in trade or business within the United States and composed in whole or in part of nonresident aliens,”.
 
 Subsec. (b). Pub. L. 89–809, §103(h)(2)–(4), struck out “(except interest on deposits with persons carrying on the banking business paid to persons not engaged in business in the United States)” after “The items of income referred to in subsection (a) are interest” and substituted “gains described in section 402(a)(2), 403(a)(2), or 631(b) or (c), amounts subject to tax under section 871(a)(1)(C), gains subject to tax under section 871(a)(1)(D), and gains on transfers described in section 1235 made on or before October 4, 1966” for “and amounts described in section 402(a)(2), section 403(a)(2), section 631(b) and (c), and section 1235, which are considered to be gains from the sale or exchange of capital assets” in text preceding par. (1), and inserted provision for treatment of items of income referred to in subsec. (a) in the case of nonresident alien individuals who are members of domestic partnerships.
 
@@ -166,21 +166,21 @@ Subsec. (c)(7). Pub. L. 89–809, §103(h)(8), added par. (7).
 
 Subsecs. (d), (e). Pub. L. 89–809, §103(h)(9), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1964—Subsecs. (a), (b). Pub. L. 88–272 reduced the withholding rate from 18% to 14%.
+<b>1964</b>—Subsecs. (a), (b). Pub. L. 88–272 reduced the withholding rate from 18% to 14%.
 
-1961—Subsec. (a). Pub. L. 87–256, §110(d)(1), required a tax equal to 18 percent of the item in the case of any item of income specified in second sentence of subsection (b).
+<b>1961</b>—Subsec. (a). Pub. L. 87–256, §110(d)(1), required a tax equal to 18 percent of the item in the case of any item of income specified in second sentence of subsection (b).
 
 Subsec. (b). Pub. L. 87–256, §110(d)(2), inserted provisions listing items of income from which tax shall be deducted and withheld at the rate of 18 percent.
 
 Subsec. (c)(4). Pub. L. 87–256, §110(d)(3), authorized the exemption from deduction and withholding of the compensation for personal services of a nonresident alien individual for the period he is temporarily present in the United States as a nonimmigrant under subpar. (F) or (J) of section 101(a)(15) of the Immigration and Nationality Act, as amended.
 
-1958—Subsecs. (b), (c)(5). Pub. L. 85–866 inserted “section 403(a)(2),” after “section 402(a)(2),”.
+<b>1958</b>—Subsecs. (b), (c)(5). Pub. L. 85–866 inserted “section 403(a)(2),” after “section 402(a)(2),”.
 
-1956—Subsec. (c)(6). Act July 18, 1956, added section 544(f) to act Aug. 26, 1954, which section amended this subsection by adding par. (6).
+<b>1956</b>—Subsec. (c)(6). Act July 18, 1956, added section 544(f) to act Aug. 26, 1954, which section amended this subsection by adding par. (6).
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to dividends with respect to taxable years of regulated investment companies beginning after Dec. 31, 2004, see section411(d)(1) of Pub. L. 108–357, set out as a note under section 871 of this title.
+Amendment by Pub. L. 108–357 applicable to dividends with respect to taxable years of regulated investment companies beginning after Dec. 31, 2004, see section 411(d)(1) of Pub. L. 108–357, set out as a note under section 871 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -202,7 +202,7 @@ Amendment by section 1001(d)(2)(A) of Pub. L. 100–647 effective, except as oth
 
 Amendment by section 123(b)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, but only in the case of scholarships and fellowships granted after Aug. 16, 1986, see section 151(d) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
-Amendment by section 1214(c)(3) of Pub. L. 99–514 applicable to payments made in a taxable year of the payor beginning after Dec. 31, 1986, except as otherwise provided, see section 1214(d) of Pub. L. 99–514, as amended, set out as a note under section 861 of this title.
+Amendment by section 1214(c)(3) of Pub. L. 99–514 applicable to payments made in a taxable year of thepayor beginning after Dec. 31, 1986, except as otherwise provided, see section 1214(d) of Pub. L. 99–514, as amended, set out as a note under section 861 of this title.
 
 Amendment by section 1810(d)(3)(D) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 

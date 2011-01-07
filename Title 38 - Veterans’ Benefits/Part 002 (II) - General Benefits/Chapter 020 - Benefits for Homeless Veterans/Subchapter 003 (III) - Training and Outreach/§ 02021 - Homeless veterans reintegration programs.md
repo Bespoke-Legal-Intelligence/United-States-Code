@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Subject to the availability of appropriations provided for such purpose, theSecretary of Labor shall conduct, directly or through grant or contract, such programs as the Secretary determines appropriate to provide job training, counseling, and placement services (including job readiness and literacy and skills training) to expedite the reintegration of homeless veterans into the labor force.
+In General.—Subject to the availability of appropriations provided for such purpose, the Secretary of Labor shall conduct, directly or through grant or contract, such programs as the Secretary determines appropriate to provide job training, counseling, and placement services (including job readiness and literacy and skills training) to expedite the reintegration of homeless veterans into the labor force.
 
 (b)
 
@@ -32,11 +32,11 @@ Authorization of Appropriations.—(1) There are authorized to be appropriated t
 
 &emsp;(E) $50,000,000 for fiscal year 2006.
 
-&emsp;(F) $50,000,000 for each of fiscal years 2007 through 2009.
+&emsp;(F) $50,000,000 for each of fiscal years 2007 through 2011.
 
 (2) Funds appropriated to carry out this section shall remain available until expended. Funds obligated in any fiscal year to carry out this section may be expended in that fiscal year and the succeeding fiscal year.
 
-(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 909; amended Pub. L. 109–233, title II, §203, June 15, 2006, 120 Stat. 404.)
+(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 909; amended Pub. L. 109–233, title II, §203, June 15, 2006, 120 Stat. 404; Pub. L. 111–275, title II, §201, Oct. 13, 2010, 124 Stat. 2873.)
 
 #### Prior Provisions
 
@@ -44,5 +44,7 @@ A prior section 2021 was renumbered section 4301 of this title and subsequently 
 
 #### Amendments
 
-2006—Subsec. (e)(1)(F). Pub. L. 109–233 added subpar. (F).
+<b>2010</b>—Subsec. (e)(1)(F). Pub. L. 111–275 substituted “2011” for “2009”.
+
+<b>2006</b>—Subsec. (e)(1)(F). Pub. L. 109–233 added subpar. (F).
 

@@ -120,15 +120,15 @@ Pub. L. 102–393, title VI, §630, Oct. 6, 1990, 106 Stat. 1773, which directed
 
 #### Amendments
 
-1994—Subsec. (c)(3). Pub. L. 103–355, §4104(e), designated existing provisions as subpar. (A), redesignated subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B).
+<b>1994</b>—Subsec. (c)(3). Pub. L. 103–355, §4104(e), designated existing provisions as subpar. (A), redesignated subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B).
 
 Subsec. (j). Pub. L. 103–355, §1554(1), struck out subsec. (j). See Codification note above.
 
-1992—Subsec. (j). Pub. L. 102–393 added subsec. (j). See Codification note above.
+<b>1992</b>—Subsec. (j). Pub. L. 102–393 added subsec. (j). See Codification note above.
 
-1988—Subsecs. (c)(1)(C), (e). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “Bureau of Standards”.
+<b>1988</b>—Subsecs. (c)(1)(C), (e). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “Bureau of Standards”.
 
-1984—Subsec. (c)(1). Pub. L. 98–616, §501(c), inserted “(and in the case of paper, the highest percentage of the postconsumer recovered materials referred to in subsection (h)(1) of this section practicable)”.
+<b>1984</b>—Subsec. (c)(1). Pub. L. 98–616, §501(c), inserted “(and in the case of paper, the highest percentage of the postconsumer recovered materials referred to in subsection (h)(1) of this section practicable)”.
 
 Subsec. (d)(1). Pub. L. 98–616, §501(e), substituted “eighteen months after November 8, 1984” for “five years after October 21, 1976”.
 
@@ -140,9 +140,9 @@ Subsec. (g). Pub. L. 98–616, §501(d), substituted “the requirements of” f
 
 Subsecs. (h), (i). Pub. L. 98–616, §501(a), added subsecs. (h) and (i).
 
-1982—Subsec. (g). Pub. L. 97–375 struck out provision requiring the Office of Procurement Policy to report annually to Congress on actions taken by Federal agencies and the progress made in the implementation of the policy expressed in this section.
+<b>1982</b>—Subsec. (g). Pub. L. 97–375 struck out provision requiring the Office of Procurement Policy to report annually to Congress on actions taken by Federal agencies and the progress made in the implementation of the policy expressed in this section.
 
-1980—Subsec. (c)(1). Pub. L. 96–482, §22(1), (2), in provision preceding subpar. (A), substituted “After the date specified in applicable guidelines prepared pursuant to subsection (e) of this section, each procuring agency which procures any item designated in such guidelines shall procure such” for “After two years after October 21, 1976, each procuring agency shall procure”, and in subpar. (C), “subparagraph (B)” for “clause (B)”.
+<b>1980</b>—Subsec. (c)(1). Pub. L. 96–482, §22(1), (2), in provision preceding subpar. (A), substituted “After the date specified in applicable guidelines prepared pursuant to subsection (e) of this section, each procuring agency which procures any item designated in such guidelines shall procure such” for “After two years after October 21, 1976, each procuring agency shall procure”, and in subpar. (C), “subparagraph (B)” for “clause (B)”.
 
 Subsec. (c)(2). Pub. L. 96–482, §22(3), substituted “energy or fuels derived from solid waste” for “recovered material and recovered-material-derived fuel”.
 
@@ -152,13 +152,13 @@ Subsec. (d). Pub. L. 96–482, §22(5), in par. (1), substituted provision requi
 
 Subsec. (e). Pub. L. 96–482, §22(6), designated provision relating to requirements of guidelines as cl. (2) and subpars. (A) and (C), added cl. (1), subpars. (B) and (C), and provision preceding subpar. (A), and struck out provision requiring information on source of supply.
 
-1978—Subsec. (c). Pub. L. 95–609, §7(n)(1), (2), redesignated subpar. (1)(A) as par. (1), subpars. (1)(B) and (C) as pars. (2) and (3), respectively, and cls. (i) to (iii) of former subpar. (1)(A) as subpars. (A) to (C), respectively, of par. (1), and in par. (3), as so redesignated, inserted “After the date specified in any applicable guidelines prepared pursuant to subsection (e) of this section,” before “contracting”.
+<b>1978</b>—Subsec. (c). Pub. L. 95–609, §7(n)(1), (2), redesignated subpar. (1)(A) as par. (1), subpars. (1)(B) and (C) as pars. (2) and (3), respectively, and cls. (i) to (iii) of former subpar. (1)(A) as subpars. (A) to (C), respectively, of par. (1), and in par. (3), as so redesignated, inserted “After the date specified in any applicable guidelines prepared pursuant to subsection (e) of this section,” before “contracting”.
 
 Subsec. (e). Pub. L. 95–609, §7(n)(3), inserted provision dealing with certification by vendors of the materials used.
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of Title 10, Armed Forces.
 
 #### Transfer of Functions
 

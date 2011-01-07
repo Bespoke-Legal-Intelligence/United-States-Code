@@ -10,7 +10,7 @@ Any liability of the Commission shall be met from funds of the Commission to the
 
 #### (c) Individual members of Commission
 
-No liability of the Commission shall be imputed to any member of the Commission solely on the basis that he occupies the position of member of the Commission.
+No liability of the Commission shall be imputed to any member of the Commission solelyon the basis that he occupies the position of member of the Commission.
 
 (Pub. L. 88–363, §11, July 7, 1964, 78 Stat. 301.)
 

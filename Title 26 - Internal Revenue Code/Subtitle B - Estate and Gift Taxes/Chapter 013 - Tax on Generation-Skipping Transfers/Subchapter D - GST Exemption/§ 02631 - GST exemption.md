@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-For purposes of determining the inclusion ratio, every individual shall be allowed a GST exemption amount which may be allocated by such individual (or his executor) to any property with respect to which such individual is the transferor.
+For purposes of determining the inclusion ratio, every individual shall be allowed a GST exemption amount which may be allocated by such individual (or his executor) to any propertywith respect to which such individual is the transferor.
 
 #### (b) Allocations irrevocable
 
@@ -10,21 +10,25 @@ Any allocation under subsection (a), once made, shall be irrevocable.
 
 #### (c) GST exemption amount
 
-For purposes of subsection (a), the GST exemption amount for any calendar year shall be equal to the applicable exclusion amount under section 2010(c) for such calendar year.
+For purposes of subsection (a), the GST exemption amount for any calendar year shall be equal to the basic exclusion amount under section 2010(c) for such calendar year.
 
-(Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2721; amended Pub. L. 105–34, title V, §501(d), Aug. 5, 1997, 111 Stat. 846; Pub. L. 105–206, title VI, §6007(a)(1), July 22, 1998, 112 Stat. 806; Pub. L. 107–16, title V, §521(c), June 7, 2001, 115 Stat. 72.)
+(Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2721; amended Pub. L. 105–34, title V, §501(d), Aug. 5, 1997, 111 Stat. 846; Pub. L. 105–206, title VI, §6007(a)(1), July 22, 1998, 112 Stat. 806; Pub. L. 107–16, title V, §521(c), June 7, 2001, 115 Stat. 72; Pub. L. 111–312, title III, §303(b)(2), Dec. 17, 2010, 124 Stat. 3303.)
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 304 of Pub. L. 111–312, see Effective and Termination Dates of 2010 Amendment note below.</i>
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–16, §§521(c)(1), 901, temporarily substituted “amount” for “of $1,000,000”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2010</b>—Subsec. (c). Pub. L. 111–312, §§303(b)(2), 304, temporarily substituted “the basic exclusion amount” for “the applicable exclusion amount”. See Effective and Termination Dates of 2010 Amendment note below.
+
+<b>2001</b>—Subsec. (a). Pub. L. 107–16, §§521(c)(1), 901, temporarily substituted “amount” for “of $1,000,000”. See Effective and Termination Dates of 2001 Amendment note below.
 
 Subsec. (c). Pub. L. 107–16, §§521(c)(2), 901, temporarily amended heading and text of subsec. (c) generally, substituting provisions relating to the GST exemption amount for any calendar year for provisions which related to inflation adjustment of the $1,000,000 amount contained in subsec. (a) in the case of any calendar year after 1998 and applicability of any increase for any such calendar year. See Effective and Termination Dates of 2001 Amendment note below.
 
-1998—Subsec. (c). Pub. L. 105–206 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In the case of an individual who dies in any calendar year after 1998, the $1,000,000 amount contained in subsection (a) shall be increased by an amount equal to—
+<b>1998</b>—Subsec. (c). Pub. L. 105–206 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In the case of an individual who dies in any calendar year after 1998, the $1,000,000 amount contained in subsection (a) shall be increased by an amount equal to—
 
 &emsp;“(1) $1,000,000, multiplied by
 
@@ -32,13 +36,19 @@ Subsec. (c). Pub. L. 107–16, §§521(c)(2), 901, temporarily amended heading a
 
 > If any amount as adjusted under the preceding sentence is not a multiple of $10,000, such amount shall be rounded to the next lowest multiple of $10,000.”
 
-1997—Subsec. (c). Pub. L. 105–34 added subsec. (c).
+<b>1997</b>—Subsec. (c). Pub. L. 105–34 added subsec. (c).
+
+#### Effective and Termination Dates of 2010 Amendment
+
+Amendment by Pub. L. 111–312 applicable to generation-skipping transfers after Dec. 31, 2010, see section 303(c)(2) of Pub. L. 111–312, set out as a note under section 2010 of this title.
+
+Section 901 of Pub. L. 107–16 applicable to amendments by section 303(b)(2) of Pub. L. 111–312, see section 304 of Pub. L. 111–312, set out as a note under section 121 of this title.
 
 #### Effective and Termination Dates of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2003, see section 521(e)(3) of Pub. L. 107–16, set out as a note under section 2010 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 

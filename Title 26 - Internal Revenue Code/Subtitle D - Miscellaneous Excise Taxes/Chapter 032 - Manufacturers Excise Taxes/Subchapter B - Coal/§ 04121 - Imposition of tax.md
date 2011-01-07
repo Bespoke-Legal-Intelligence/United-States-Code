@@ -76,13 +76,13 @@ For prior section 4121, see Prior Provisions note set out preceding this section
 
 #### Amendments
 
-2008—Subsec. (e)(2)(A). Pub. L. 110–343, §113(a)(1), substituted “December 31, 2018” for “January 1, 2014”.
+<b>2008</b>—Subsec. (e)(2)(A). Pub. L. 110–343, §113(a)(1), substituted “December 31, 2018” for “January 1, 2014”.
 
 Subsec. (e)(2)(B). Pub. L. 110–343, §113(a)(2), substituted “December 31 after 2007” for “January 1 after 1981” in introductory provisions.
 
-1987—Subsec. (e)(2)(A). Pub. L. 100–203 substituted “2014” for “1996”.
+<b>1987</b>—Subsec. (e)(2)(A). Pub. L. 100–203 substituted “2014” for “1996”.
 
-1986—Subsec. (a). Pub. L. 99–272, §13203(a), amended subsec. (a) generally. Prior to amendment subsec. (a) read as follows: “There is hereby imposed on coal sold by the producer a tax at the rates of—
+<b>1986</b>—Subsec. (a). Pub. L. 99–272, §13203(a), amended subsec. (a) generally. Prior to amendment subsec. (a) read as follows: “There is hereby imposed on coal sold by the producer a tax at the rates of—
 
 &emsp;“(1) 50 cents per ton in the case of coal from underground mines located in the United States, and
 
@@ -102,7 +102,7 @@ Subsec. (e). Pub. L. 99–272, §13203(c), substituted “Reduction in amount of
 
 &emsp;“(B) subsection (b) shall be applied by substituting ‘4 percent’ for ‘2 percent’.”
 
-1981—Subsec. (e). Pub. L. 97–119 added subsec. (e).
+<b>1981</b>—Subsec. (e). Pub. L. 97–119 added subsec. (e).
 
 #### Effective Date of 1986 Amendments
 
@@ -148,7 +148,7 @@ In general.—Notwithstanding subsections (a)(1) and (c) of section 6416 and sec
 
 &emsp;&emsp;&emsp;“(iii) such coal producer files a claim for refund with the Secretary not later than the close of the 30-day period beginning on the date of the enactment of this Act,
 
-&nbsp;&nbsp;then the Secretary shall pay to such coal producer an amount equal to the tax paid under section 4121 of such Code on such coal exported or shipped bythe coal producer or a party related to such coal producer, or caused by the coal producer or a party related to such coal producer to be exported or shipped.
+&nbsp;&nbsp;then the Secretary shall pay to such coal producer an amount equal to the tax paid under section 4121 of such Code on such coal exported or shipped by the coal producer or a party related to such coal producer, or caused by the coal producer or a party related to such coal producer to be exported or shipped.
 
 &emsp;&emsp;“(B)
 

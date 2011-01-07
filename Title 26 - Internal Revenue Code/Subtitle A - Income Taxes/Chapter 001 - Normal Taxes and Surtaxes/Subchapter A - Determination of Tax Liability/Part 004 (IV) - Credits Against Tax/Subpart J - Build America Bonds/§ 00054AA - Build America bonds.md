@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If a taxpayer holds a build America bond on one or more interest payment dates of the bond during any taxable year, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the credits determined under subsection (b) with respect to such dates.
+If a taxpayer holds a build America bond on one or more interest payment dates of the bond during any taxable year, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to thesum of the credits determined under subsection (b) with respect to such dates.
 
 #### (b) Amount of credit
 

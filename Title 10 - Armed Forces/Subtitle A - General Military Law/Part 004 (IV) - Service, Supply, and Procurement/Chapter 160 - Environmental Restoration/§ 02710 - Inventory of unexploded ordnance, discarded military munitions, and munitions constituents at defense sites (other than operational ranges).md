@@ -8,7 +8,7 @@ Inventory Required.—(1) The Secretary of Defense shall develop and maintain an
 
 &emsp;(A) A unique identifier for the defense site.
 
-&emsp;(B) An appropriate record showing the location, boundaries, and extent of the defense site, including identification of the State and political subdivisions of the State, including the county, where applicable, in which the defense site is located and any Tribal lands encompassed by the defense site.
+&emsp;(B) An appropriate record showing the location, boundaries, and extent of the defensesite, including identification of the State and political subdivisions of the State, including the county, where applicable, in which the defense site is located and any Tribal lands encompassed by the defense site.
 
 &emsp;(C) Known persons and entities, other than a military department, with any current ownership interest or control of lands encompassed by the defense site.
 
@@ -74,13 +74,13 @@ Definitions.—In this section:
 
 &emsp;(7) The term “United States”, in a geographic sense, means the States, territories, and possessions and associated navigable waters, contiguous zones, and ocean waters of which the natural resources are under the exclusive management authority of the United States.
 
-(Added Pub. L. 107–107, div. A, title III, §311(a)(1), Dec. 28, 2001, 115 Stat. 1048; amended Pub. L. 108–136, div. A, title X, §1042(b), Nov. 24, 2003, 117 Stat. 1610; Pub. L. 111–84, div. A, title III, §318(a), Oct. 28, 2009, 123 Stat. 2250.)
+(Added Pub. L. 107–107, div. A, title III, §311(a)(1), Dec. 28, 2001, 115 Stat. 1048; amendedPub. L. 108–136, div. A, title X, §1042(b), Nov. 24, 2003, 117 Stat. 1610; Pub. L. 111–84, div. A, title III, §318(a), Oct. 28, 2009, 123 Stat. 2250.)
 
 #### Amendments
 
-2009—Subsec. (a)(2)(B). Pub. L. 111–84 inserted “, including the county, where applicable,” after “political subdivisions of the State”.
+<b>2009</b>—Subsec. (a)(2)(B). Pub. L. 111–84 inserted “, including the county, where applicable,” after “political subdivisions of the State”.
 
-2003—Subsec. (e). Pub. L. 108–136 redesignated pars. (4), (6), (7), (8), and (10) as (3) to (7), respectively, and struck out former pars. (3), (5), and (9) which defined terms “military munitions”, “operational range”, and “unexploded ordnance”, respectively.
+<b>2003</b>—Subsec. (e). Pub. L. 108–136 redesignated pars. (4), (6), (7), (8), and (10) as (3) to (7), respectively, and struck out former pars. (3), (5), and (9) which defined terms “military munitions”, “operational range”, and “unexploded ordnance”, respectively.
 
 #### Transfer of Functions
 
@@ -138,7 +138,7 @@ Response Plan Required.—
 
 &emsp;“(1)
 
-In general.—Not later than March 1, 2007, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a comprehensive plan for addressing the remediation of unexploded ordnance,discarded military munitions, and munitions constituents at current and former defense sites (other than operational ranges).
+In general.—Not later than March 1, 2007, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a comprehensive plan for addressing the remediation of unexploded ordnance, discarded military munitions, and munitions constituents at current and former defense sites (other than operational ranges).
 
 &emsp;“(2)
 

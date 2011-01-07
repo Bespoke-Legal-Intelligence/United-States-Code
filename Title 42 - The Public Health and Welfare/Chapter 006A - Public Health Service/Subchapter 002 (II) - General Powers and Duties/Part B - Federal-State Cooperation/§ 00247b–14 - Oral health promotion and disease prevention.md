@@ -42,7 +42,7 @@
 
 #### (ii) Liaison
 
-&emsp;&emsp;&emsp;A fluoridation specialist shall serve as the principal technical liaison between theIndian Health Service and the Centers for Disease Control and Prevention with respect to engineering and fluoridation issues.
+&emsp;&emsp;&emsp;A fluoridation specialist shall serve as the principal technical liaison between the Indian Health Service and the Centers for Disease Control and Prevention with respect to engineering and fluoridation issues.
 
 #### (iii) CDC
 
@@ -68,7 +68,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention and in collaboration with the Administrator of the Health Resources and Services Administration, may award grants to States and Indian tribes to provide for the development of school-based dental sealant programs to improve the access of children to sealants.
+&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention and in collaboration with the Administrator of the Health Resources and Services Administration, shall award a grant to each of the 50 States and territories and to Indians, Indian tribes, tribal organizations and urban Indian organizations (as such terms are defined in section 1603 of title 25) to provide for the development of school-based dental sealant programs to improve the access of children to sealants.
 
 #### (2) Use of funds
 
@@ -86,21 +86,39 @@
 
 &emsp;&emsp;&emsp;(ii) that is located in a rural area and, with respect to the school district in which the school is located, the district involved has a median income that is at or below 235 percent of the poverty line, as defined in section 9902(2) of this title.
 
-#### (d) Definitions
+#### (d) Oral health infrastructure
 
-For purposes of this section, the term “Indian tribe” means an Indian tribe or tribal organization as defined in section 450b(b) and section 450b(c) <sup>2</sup> of title 25.
+#### (1) Cooperative agreements
 
-#### (e) Authorization of appropriations
+&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall enter into cooperative agreements with State, territorial, and Indian tribes or tribal organizations (as those terms are defined in section 1603 of title 25) to establish oral health leadership and program guidance, oral health data collection and interpretation,<sup>2</sup> (including determinants of poor oral health among vulnerable populations), a multi-dimensional delivery system for oral health, and to implement science-based programs (including dental sealants and community water fluoridation) to improve oral health.
+
+#### (2) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated such sums as necessary to carry out this subsection for fiscal years 2010 through 2014.
+
+#### (e) Definitions
+
+For purposes of this section, the term “Indian tribe” means an Indian tribe or tribal organization as defined in section 450b(b) and section 450b(c) <sup>3</sup> of title 25.
+
+#### (f) Authorization of appropriations
 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
 
-(July 1, 1944, ch. 373, title III, §317M, as added Pub. L. 106–310, div. A, title XVI, §1602, Oct. 17, 2000, 114 Stat. 1148.)
+(July 1, 1944, ch. 373, title III, §317M, as added Pub. L. 106–310, div. A, title XVI, §1602, Oct. 17, 2000, 114 Stat. 1148; amended Pub. L. 111–148, title IV, §4102(b), (c), Mar. 23, 2010, 124 Stat. 551, 552.)
 
 #### References in Text
 
-Section 450b of title 25, referred to in subsec. (d), has been amended, and subsecs. (b) and (c) of section 450b no longer define the terms “Indian tribe” and “tribal organization”. However, such terms are defined elsewhere in that section.
+Section 450b of title 25, referred to in subsec. (e), has been amended, and subsecs. (b) and (c) of section 450b no longer define the terms “Indian tribe” and “tribal organization”. However, such terms are defined elsewhere in that section.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (c)(1). Pub. L. 111–148, §4102(b), substituted “shall award a grant to each of the 50 States and territories and to Indians, Indian tribes, tribal organizations and urban Indian organizations (as such terms are defined in section 1603 of title 25)” for “may award grants to States and Indian tribes”.
+
+Subsecs. (d) to (f). Pub. L. 111–148, §4102(c), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
 <i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

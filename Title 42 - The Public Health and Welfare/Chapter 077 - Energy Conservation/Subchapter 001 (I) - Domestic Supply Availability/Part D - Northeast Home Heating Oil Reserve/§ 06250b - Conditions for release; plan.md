@@ -50,11 +50,11 @@ Within 45 days of November 9, 2000, the Secretary shall transmit to the Presiden
 
 &emsp;(6) actions to ensure quality of the petroleum distillate in the Reserve.
 
-(Pub. L. 94–163, title I, §183, as added Pub. L. 106–469, title II, §201(a)(3), Nov. 9, 2000, 114 Stat.2035; amended Pub. L. 109–58, title III, §301(d), Aug. 8, 2005, 119 Stat. 684.)
+(Pub. L. 94–163, title I, §183, as added Pub. L. 106–469, title II, §201(a)(3), Nov. 9, 2000, 114 Stat. 2035; amended Pub. L. 109–58, title III, §301(d), Aug. 8, 2005, 119 Stat. 684.)
 
 #### Amendments
 
-2005—Subsec. (b)(1). Pub. L. 109–58 substituted “by more than 60 percent over its 5-year rolling average for the months of mid-October through March (considered as a heating season average)” for “by more tan 60 percent over its 5 year rolling average for the months of mid-October through March”.
+<b>2005</b>—Subsec. (b)(1). Pub. L. 109–58 substituted “by more than 60 percent over its 5-year rolling average for the months of mid-October through March (considered as a heating season average)” for “by more tan 60 percent over its 5 year rolling average for the months of mid-October through March”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “result”.</i>
 

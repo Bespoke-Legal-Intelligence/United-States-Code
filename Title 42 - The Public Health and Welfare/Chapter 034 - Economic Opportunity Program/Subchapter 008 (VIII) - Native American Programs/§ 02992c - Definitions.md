@@ -6,7 +6,7 @@ As used in this subchapter, the term—
 
 &emsp;(2) “financial assistance” includes assistance advanced by grant, agreement, or contract, but does not include the procurement of plant or equipment, or goods or services;
 
-&emsp;(3) “Indian reservation or Alaska Native village” includes the reservation of any federally or State recognized Indian tribe, including any band, nation, pueblo, or rancheria, any former reservation in Oklahoma, and communityunder the jurisdiction of an Indian tribe, including a band, nation, pueblo, or rancheria, with allotted lands or lands subject to a restriction against alienation imposed by the United States or a State, and any lands of or under the jurisdiction of an Alaska Native village or group, including any lands selected by Alaska Natives or Alaska Native organizations under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\];
+&emsp;(3) “Indian reservation or Alaska Native village” includes the reservation of any federally or State recognized Indian tribe, including any band, nation, pueblo, or rancheria, any former reservation in Oklahoma, and community under the jurisdiction of an Indian tribe, including a band, nation, pueblo, or rancheria, with allotted lands or lands subject to a restriction against alienation imposed by the United States or a State, and any lands of or under the jurisdiction of an Alaska Native village or group, including any lands selected by Alaska Natives or Alaska Native organizations under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\];
 
 &emsp;(4) “Native Hawaiian” means any individual any of whose ancestors were natives of the area which consists of the Hawaiian Islands prior to 1778;
 
@@ -24,19 +24,19 @@ The Alaska Native Claims Settlement Act, referred to in par. (3), is Pub. L. 92�
 
 #### Amendments
 
-2006—Pub. L. 109–394 added par. (1) and redesignated former pars. (1) to (6) as (2) to (7), respectively.
+<b>2006</b>—Pub. L. 109–394 added par. (1) and redesignated former pars. (1) to (6) as (2) to (7), respectively.
 
-1993—Par. (2). Pub. L. 103–171, §5(6)(A), substituted “selected by Alaska Natives” for “selected by Alaskan Natives”.
+<b>1993</b>—Par. (2). Pub. L. 103–171, §5(6)(A), substituted “selected by Alaska Natives” for “selected by Alaskan Natives”.
 
 Par. (4). Pub. L. 103–171, §5(6)(B), inserted semicolon at end.
 
-1992—Par. (2). Pub. L. 102–375 substituted “Alaska Native village” for “Alaskan Native village” in two places and “Alaska Native organizations” for “Alaskan Native organizations”.
+<b>1992</b>—Par. (2). Pub. L. 102–375 substituted “Alaska Native village” for “Alaskan Native village” in two places and “Alaska Native organizations” for “Alaskan Native organizations”.
 
 Par. (6). Pub. L. 102–497 added par. (6).
 
-1987—Pars. (4), (5). Pub. L. 100–175, §503(b), added par. (4) and redesignated former par. (4) as (5).
+<b>1987</b>—Pars. (4), (5). Pub. L. 100–175, §503(b), added par. (4) and redesignated former par. (4) as (5).
 
-1984—Par. (4). Pub. L. 98–558 added par. (4).
+<b>1984</b>—Par. (4). Pub. L. 98–558 added par. (4).
 
 #### Effective Date of 1987 Amendment
 

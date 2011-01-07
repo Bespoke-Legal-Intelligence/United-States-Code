@@ -6,5 +6,5 @@ Whoever fails to comply with any duty imposed upon him by section 6018, 6036 (in
 
 #### Amendments
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 

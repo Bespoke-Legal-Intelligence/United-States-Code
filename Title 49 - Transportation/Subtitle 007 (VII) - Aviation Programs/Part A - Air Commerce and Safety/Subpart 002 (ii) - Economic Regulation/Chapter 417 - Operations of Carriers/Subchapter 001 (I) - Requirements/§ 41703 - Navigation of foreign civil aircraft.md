@@ -108,7 +108,7 @@ In subsection (d), the word “affect” is substituted for “limit, modify, or
 
 #### Amendments
 
-2003—Subsec. (e). Pub. L. 108–176 added subsec. (e).
+<b>2003</b>—Subsec. (e). Pub. L. 108–176 added subsec. (e).
 
 #### Effective Date of 2003 Amendment
 

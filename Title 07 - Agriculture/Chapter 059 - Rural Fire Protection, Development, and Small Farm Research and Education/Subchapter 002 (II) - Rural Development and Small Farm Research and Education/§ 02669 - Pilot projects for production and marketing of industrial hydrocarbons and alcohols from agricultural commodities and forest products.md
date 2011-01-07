@@ -2,7 +2,7 @@
 
 #### (a) Formulation and execution of program
 
-The Secretary is authorized and directed to formulate and carry out a pilot program for theproduction and marketing of industrial hydrocarbons derived from agricultural commodities and forest products for the purpose of stabilizing and expanding the market for such commodities and products and expanding the Nation's supply of industrial hydrocarbons.
+The Secretary is authorized and directed to formulate and carry out a pilot program for the production and marketing of industrial hydrocarbons derived from agricultural commodities and forest products for the purpose of stabilizing and expanding the market for such commodities and products and expanding the Nation's supply of industrial hydrocarbons.
 
 #### (b) Loan guarantees
 

@@ -18,9 +18,9 @@ Prohibition.—(1) An individual who is convicted of fraud or any other felony a
 
 (4) The prohibition in paragraph (1) does not apply with respect to the following:
 
-&emsp;(A) A contract referred to in subparagraph (A), (B), (C), or (D) of such paragraph that is not greater than the simplified acquisition threshold (as defined in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))).
+&emsp;(A) A contract referred to in subparagraph (A), (B), (C), or (D) of such paragraph that is not greater than the simplified acquisition threshold (as defined in section 134 of title 41).
 
-&emsp;(B) A contract referred to in such subparagraph that is for the acquisition of commercial items (as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))).
+&emsp;(B) A contract referred to in such subparagraph that is for the acquisition of commercial items (as defined in section 103 of title 41).
 
 &emsp;(C) A subcontract referred to in such subparagraph that is under a contract described in subparagraph (A) or (B).
 
@@ -38,7 +38,7 @@ Single Point of Contact for Information.—(1) The Attorney General shall ensure
 
 (2) The procedure for obtaining such information shall be specified in regulations prescribed by the Secretary of Defense under subsection (a).
 
-(Added Pub. L. 99–500, §101(c) \[title X, §941(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–161, and Pub. L. 99–591, §101(c) \[title X, §941(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–161; Pub. L. 99–661, div. A, title IX, formerly title IV, §941(a)(1), Nov. 14, 1986, 100 Stat. 3941, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–456, div. A, title VIII, §831(a), Sept. 29, 1988, 102 Stat. 2023; Pub. L. 101–510, div. A, title VIII, §812, Nov. 5, 1990, 104 Stat. 1596; Pub. L. 102–484, div. A, title VIII, §815(a), Oct. 23, 1992, 106 Stat. 2454; Pub. L. 103–355, title IV, §4102(g), title VIII, §8105(h), Oct. 13, 1994, 108 Stat. 3340, 3393; Pub. L. 104–106, div. A, title X, §1062(e), Feb. 10, 1996, 110 Stat. 444.)
+(Added Pub. L. 99–500, §101(c) \[title X, §941(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–161, and Pub. L. 99–591, §101(c) \[title X, §941(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–161; Pub. L. 99–661, div. A, title IX, formerly title IV, §941(a)(1), Nov. 14, 1986, 100 Stat. 3941, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–456, div. A, title VIII, §831(a), Sept. 29, 1988, 102 Stat. 2023; Pub. L. 101–510, div. A, title VIII, §812, Nov. 5, 1990, 104 Stat. 1596; Pub. L. 102–484, div. A, title VIII, §815(a), Oct. 23, 1992, 106 Stat. 2454; Pub. L. 103–355, title IV, §4102(g), title VIII, §8105(h), Oct. 13, 1994, 108 Stat. 3340, 3393; Pub. L. 104–106, div. A, title X, §1062(e), Feb. 10, 1996, 110 Stat. 444; Pub. L. 111–350, §5(b)(26), Jan. 4, 2011, 124 Stat. 3844.)
 
 #### Codification
 
@@ -48,9 +48,13 @@ Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical section
 
 #### Amendments
 
-1996—Subsec. (a)(3). Pub. L. 104–106 struck out at end “If the five-year period is waived, the Secretary shall submit to Congress a report stating the reasons for the waiver.”
+<b>2011</b>—Subsec. (a)(4)(A). Pub. L. 111–350, §5(b)(26)(A), substituted “section 134 of title 41)” for “section 4(11)of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)))”.
 
-1994—Subsec. (a)(4). Pub. L. 103–355, §4102(g), added introductory provisions and subpar. (A).
+Subsec. (a)(4)(B). Pub. L. 111–350, §5(b)(26)(B), substituted “section 103 of title 41)” for “section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)))”.
+
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–106 struck out at end “If the five-year period is waived, the Secretary shall submit to Congress a report stating the reasons for the waiver.”
+
+<b>1994</b>—Subsec. (a)(4). Pub. L. 103–355, §4102(g), added introductory provisions and subpar. (A).
 
 Subsec. (a)(4)(B). Pub. L. 103–355, §8105(h)(1), added subpar. (B).
 
@@ -58,9 +62,9 @@ Subsec. (a)(4)(C). Pub. L. 103–355, §8105(h)(2), inserted “or (B)” before
 
 Pub. L. 103–355, §4102(g), added subpar. (C).
 
-1992—Subsec. (c). Pub. L. 102–484 added subsec. (c).
+<b>1992</b>—Subsec. (c). Pub. L. 102–484 added subsec. (c).
 
-1990—Subsec. (a)(1)(A). Pub. L. 101–510, §812(a)(1), inserted before period at end “or any first tier subcontract of a defense contract”.
+<b>1990</b>—Subsec. (a)(1)(A). Pub. L. 101–510, §812(a)(1), inserted before period at end “or any first tier subcontract of a defense contract”.
 
 Subsec. (a)(1)(B). Pub. L. 101–510, §812(a)(2), inserted before period at end “or any subcontractor awarded a contract directly by a defense contractor”.
 
@@ -70,11 +74,11 @@ Subsec. (a)(1)(D). Pub. L. 101–510, §812(a)(4), inserted before period at end
 
 Subsec. (b). Pub. L. 101–510, §812(b), inserted “or subcontractor” after “contractor” wherever appearing.
 
-1988—Subsec. (a). Pub. L. 100–456 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A person who is convicted of fraud or any other felony arising out of a contract with the Department of Defense shall be prohibited from working in a management or supervisory capacity on any defense contract, or serving on the board of directors of any defense contractor, for a period, as determined by the Secretary of Defense, of not less than one year from the date of the conviction.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–456 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A person who is convicted of fraud or any other felony arising out of a contract with the Department of Defense shall be prohibited from working in a management or supervisory capacity on any defense contract, or serving on the board of directors of any defense contractor, for a period, as determined by the Secretary of Defense, of not less than one year from the date of the conviction.”
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of this title.
 
 #### Effective Date of 1988 Amendment
 

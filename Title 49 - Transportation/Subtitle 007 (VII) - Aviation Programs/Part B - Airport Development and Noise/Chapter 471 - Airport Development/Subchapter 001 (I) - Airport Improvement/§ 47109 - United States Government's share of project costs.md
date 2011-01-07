@@ -42,7 +42,7 @@ Limitation.—The Government's share of allowable project costs determined under
 
 (d)
 
-Special Rule for Privately Owned Reliever Airports.—If a privately owned relieverairport contributes any lands, easements, or rights-of-way to carry out a project under this subchapter, the current fair market value of such lands, easements, or rights-of-way shall be credited toward the non-Federal share of allowable project costs.
+Special Rule for Privately Owned Reliever Airports.—If a privately owned reliever airport contributes any lands, easements, or rights-of-way to carry out a project under this subchapter, the current fair market value of such lands, easements, or rights-of-way shall be credited toward the non-Federal share of allowable project costs.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §114, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 104–264, title I, §149(c), title XII, §1211, Oct. 9, 1996, 110 Stat. 3227, 3282; Pub. L. 106–181, title I, §126, Apr. 5, 2000, 114 Stat. 76; Pub. L. 107–71, title I, §119(a)(4), Nov. 19, 2001, 115 Stat. 629; Pub. L. 108–176, title I, §§162, 163, Dec. 12, 2003, 117 Stat. 2513.)
 
@@ -86,21 +86,21 @@ Section 17(b) of the Airport and Airway Development Act of 1970, referred to in 
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–176, §162(b), substituted “Except as provided in subsection (b) or subsection (c)” for “Except as provided in subsection (b)” in introductory provisions.
+<b>2003</b>—Subsec. (a). Pub. L. 108–176, §162(b), substituted “Except as provided in subsection (b) or subsection (c)” for “Except as provided in subsection (b)” in introductory provisions.
 
 Subsec. (a)(4). Pub. L. 108–176, §163, substituted “70 percent” for “40 percent”.
 
 Subsecs. (c), (d). Pub. L. 108–176, §162(a), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-2001—Subsec. (a)(5). Pub. L. 107–71 added par. (5).
+<b>2001</b>—Subsec. (a)(5). Pub. L. 107–71 added par. (5).
 
-2000—Subsec. (a)(2) to (4). Pub. L. 106–181 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+<b>2000</b>—Subsec. (a)(2) to (4). Pub. L. 106–181 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-1996—Subsec. (a)(3). Pub. L. 104–264, §149(c), added par. (3).
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–264, §149(c), added par. (3).
 
 Subsec. (c). Pub. L. 104–264, §1211, added subsec. (c).
 
-1994—Subsec. (a). Pub. L. 103–305, §114(1), substituted “subsection (b)” for “subsections (b) and (c)”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–305, §114(1), substituted “subsection (b)” for “subsections (b) and (c)”.
 
 Subsec. (c). Pub. L. 103–305, §114(2), struck out subsec. (c) which read as follows: “(c)
 
@@ -120,7 +120,7 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 #### Temporary Increase in Government Share of Certain AIP Project Costs
 
-Pub. L. 108–176, title I, §161, Dec. 12, 2003, 117 Stat. 2513, as amended by Pub. L. 110–190, §4(c), Feb. 28, 2008, 122 Stat. 644; Pub. L. 110–253, §3(c)(3), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §5(i), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(h), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(i), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(h), Dec. 16, 2009, 123 Stat. 3032, provided that: “Notwithstanding section 47109(a) of title 49, United States Code, the Government's share of allowable project costs for a grant made in fiscal year 2009, or in the portion of fiscal year 2010 ending before April 1, 2010, under chapter 471 of that title for a project described in paragraph (2) or (3) of that section shall be 95 percent.”
+Pub. L. 108–176, title I, §161, Dec. 12, 2003, 117 Stat. 2513, as amended by Pub. L. 110–190, §4(c), Feb. 28, 2008, 122 Stat. 644; Pub. L. 110–253, §3(c)(3), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §5(i), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(h), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(i), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(h), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(h), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(h), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(h), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(h), Aug. 1, 2010, 124 Stat. 2350; Pub. L. 111–249, §5(i), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(h), Dec. 22, 2010, 124 Stat. 3567, provided that: “Notwithstanding section 47109(a) of title 49, United States Code, the Government's share of allowable project costs for a grant made in fiscal year 2009 or 2010, or in the portion of fiscal year 2011 ending before April 1, 2011, under chapter 471 of that title for a project described in paragraph (2) or (3) of that section shall be 95 percent.”
 
 \[Pub. L. 110–253, §3(c)(3), which directed amendment of section 161 of Pub. L. 108–176, set out above, by substituting “fiscal year 2008.” for “fiscal year 2008 before July 1, 2008.”, was executed by substituting “fiscal year 2008,” for “fiscal year 2008 before July 1, 2008,” to reflect the probable intent of Congress.\]
 

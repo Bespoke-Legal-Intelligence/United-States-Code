@@ -2,7 +2,13 @@
 
 #### (a) Unified accountability system
 
-There shall be a unified system prescribed and administered by the Secretary for ensuring that local food service authorities that participate in the school lunch program under this chapter comply with the provisions of this chapter. Such system shall be established through the publication of regulations and the provision of an opportunity for public comment, consistent with the provisions of section 553 of title 5.
+#### (1) <sup>1</sup> In general
+
+&emsp;There shall be a unified system prescribed and administered by the Secretary to ensure that local food service authorities participating in the school lunch program established under this chapter and the school breakfast program established by section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) comply with those Acts, including compliance with—
+
+&emsp;&emsp;(A) the nutritional requirements of section 1758(f) of this title for school lunches; and
+
+&emsp;&emsp;(B) as applicable, the nutritional requirements for school breakfasts under section 4(e)(1) of the Child Nutrition Act of 1966 (42 U.S.C. 1773(e)(1)).
 
 #### (b) Functions of system
 
@@ -10,9 +16,21 @@ There shall be a unified system prescribed and administered by the Secretary for
 
 &emsp;Under the system described in subsection (a) of this section, each State educational agency shall—
 
-&emsp;&emsp;(A) require that local food service authorities comply with the provisions of this chapter; and
+&emsp;&emsp;(A) require that local food service authorities comply with the nutritional requirements described in subparagraphs (A) and (B) of paragraph (1);
 
-&emsp;&emsp;(B) ensure such compliance through reasonable audits and supervisory assistance reviews.
+&emsp;&emsp;(B) to the maximum extent practicable, ensure compliance through reasonable audits and supervisory assistance reviews;
+
+&emsp;&emsp;(C) in conducting audits and reviews for the purpose of determining compliance with this chapter, including the nutritional requirements of section 1758(f) of this title—
+
+&emsp;&emsp;&emsp;(i) conduct audits and reviews during a 3-year cycle or other period prescribed by the Secretary;
+
+&emsp;&emsp;&emsp;(ii) select schools for review in each local educational agency using criteria established by the Secretary;
+
+&emsp;&emsp;&emsp;(iii) report the final results of the reviews to the public in the State in an accessible, easily understood manner in accordance with guidelines promulgated by the Secretary; and
+
+&emsp;&emsp;&emsp;(iv) submit to the Secretary each year a report containing the results of the reviews in accordance with procedures developed by the Secretary; and
+
+&emsp;&emsp;(D) when any local food service authority is reviewed under this section, ensure that the final results of the review by the State educational agency are posted and otherwise made available to the public on request in an accessible, easily understood manner in accordance with guidelines promulgated by the Secretary.
 
 #### (2) Minimization of additional duties
 
@@ -46,7 +64,7 @@ There shall be a unified system prescribed and administered by the Secretary for
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), if the local educational agency fails to meet administrative performance criteria established by the Secretary in both an initial review and a followup review under paragraph (1) or (3) or subsection (a) of this section, the Secretary may require the State educational agency to retain funds that would otherwisebe paid to the local educational agency for school meals programs under procedures prescribed by the Secretary.
+&emsp;&emsp;Subject to subparagraphs (B) and (C), if the local educational agency fails to meet administrative performance criteria established by the Secretary in both an initial review and a followup review under paragraph (1) or (3) or subsection (a) of this section, the Secretary may require the State educational agency to retain funds that would otherwise be paid to the local educational agency for school meals programs under procedures prescribed by the Secretary.
 
 #### (B) Amount
 
@@ -94,6 +112,50 @@ There shall be a unified system prescribed and administered by the Secretary for
 
 &emsp;&emsp;&emsp;(iii) obtain the approval of the Secretary for the plan.
 
+#### (6) Eligibility determination review for selected local educational agencies
+
+#### (A) In general
+
+&emsp;&emsp;A local educational agency that has demonstrated a high level of, or a high risk for, administrative error associated with certification, verification, and other administrative processes, as determined by the Secretary, shall ensure that the initial eligibility determination for each application is reviewed for accuracy prior to notifying a household of the eligibility or ineligibility of the household for free or reduced price meals.
+
+#### (B) Timeliness
+
+&emsp;&emsp;The review of initial eligibility determinations—
+
+&emsp;&emsp;&emsp;(i) shall be completed in a timely manner; and
+
+&emsp;&emsp;&emsp;(ii) shall not result in the delay of an eligibility determination for more than 10 operating days after the date on which the application is submitted.
+
+#### (C) Acceptable types of review
+
+&emsp;&emsp;Subject to standards established by the Secretary, the system used to review eligibility determinations for accuracy shall be conducted by an individual or entity that did not make the initial eligibility determination.
+
+#### (D) Notification of household
+
+&emsp;&emsp;Once the review of an eligibility determination has been completed under this paragraph, the household shall be notified immediately of the determination of eligibility or ineligibility for free or reduced price meals.
+
+#### (E) Reporting
+
+#### (i) Local educational agencies
+
+&emsp;&emsp;&emsp;In accordance with procedures established by the Secretary, each local educational agency required to review initial eligibility determinations shall submit to the relevant State agency a report describing the results of the reviews, including—
+
+&emsp;&emsp;&emsp;&emsp;(I) the number and percentage of reviewed applications for which the eligibility determination was changed and the type of change made; and
+
+&emsp;&emsp;&emsp;&emsp;(II) such other information as the Secretary determines to be necessary.
+
+#### (ii) State agencies
+
+&emsp;&emsp;&emsp;In accordance with procedures established by the Secretary, each State agency shall submit to the Secretary a report describing the results of the reviews of initial eligibility determinations, including—
+
+&emsp;&emsp;&emsp;&emsp;(I) the number and percentage of reviewed applications for which the eligibility determination was changed and the type of change made; and
+
+&emsp;&emsp;&emsp;&emsp;(II) such other information as the Secretary determines to be necessary.
+
+#### (iii) Transparency
+
+&emsp;&emsp;&emsp;The Secretary shall publish annually the results of the reviews of initial eligibility determinations by State, number, percentage, and type of error.
+
 #### (c) Role of Secretary
 
 In carrying out this section, the Secretary shall—
@@ -104,9 +166,71 @@ In carrying out this section, the Secretary shall—
 
 #### (d) Authorization of appropriations
 
-There is authorized to be appropriated for purposes of carrying out the compliance and accountability activities referred to in subsection (c) of this section $6,000,000 for each of fiscal years 2004 through 2009.
+There is authorized to be appropriated for purposes of carrying out the compliance and accountability activities referred to in subsection (c) of this section $10,000,000 for each of fiscal years 2011 through 2015.
 
-(June 4, 1946, ch. 281, §22, as added Pub. L. 101–147, title I, §110(a), Nov. 10, 1989, 103 Stat. 889; amended Pub. L. 103–448, title I, §121, Nov. 2, 1994, 108 Stat. 4727; Pub. L. 105–336, title I, §111, Oct. 31, 1998, 112 Stat. 3157; Pub. L. 108–265, title I, §§126(b)(1), 127, June 30, 2004, 118 Stat. 763, 767.)
+#### (e) Fines for violating program requirements
+
+#### (1) School food authorities and schools
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall establish criteria by which the Secretary or a State agency may impose a fine against any school food authority or school administering a program authorized under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) if the Secretary or the State agency determines that the school food authority or school has—
+
+&emsp;&emsp;&emsp;(i) failed to correct severe mismanagement of the program;
+
+&emsp;&emsp;&emsp;(ii) disregarded a program requirement of which the school food authority or school had been informed; or
+
+&emsp;&emsp;&emsp;(iii) failed to correct repeated violations of program requirements.
+
+#### (B) Limits
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In calculating the fine for a school food authority or school, the Secretary shall base the amount of the fine on the reimbursement earned by school food authority or school for the program in which the violation occurred.
+
+#### (ii) Amount
+
+&emsp;&emsp;&emsp;The amount under clause (i) shall not exceed—
+
+&emsp;&emsp;&emsp;&emsp;(I) 1 percent of the amount of meal reimbursements earned for the fiscal year for the first finding of 1 or more program violations under subparagraph (A);
+
+&emsp;&emsp;&emsp;&emsp;(II) 5 percent of the amount of meal reimbursements earned for the fiscal year for the second finding of 1 or more program violations under subparagraph (A); and
+
+&emsp;&emsp;&emsp;&emsp;(III) 10 percent of the amount of meal reimbursements earned for the fiscal year for the third or subsequent finding of 1 or more program violations under subparagraph (A).
+
+#### (2) State agencies
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall establish criteria by which the Secretary may impose a fine against any State agency administering a program authorized under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) if the Secretary determines that the State agency has—
+
+&emsp;&emsp;&emsp;(i) failed to correct severe mismanagement of the program;
+
+&emsp;&emsp;&emsp;(ii) disregarded a program requirement of which the State had been informed; or
+
+&emsp;&emsp;&emsp;(iii) failed to correct repeated violations of program requirements.
+
+#### (B) Limits
+
+&emsp;&emsp;In the case of a State agency, the amount of a fine under subparagraph (A) shall not exceed—
+
+&emsp;&emsp;&emsp;(i) 1 percent of funds made available under section 7(a) of the Child Nutrition Act of 1966 (42 U.S.C. 1776(a)) for State administrative expenses during a fiscal year for the first finding of 1 or more program violations under subparagraph (A);
+
+&emsp;&emsp;&emsp;(ii) 5 percent of funds made available under section 7(a) of the Child Nutrition Act of 1966 (42 U.S.C. 1776(a)) for State administrative expenses during a fiscal year for the second finding of 1 or more program violations under subparagraph (A); and
+
+&emsp;&emsp;&emsp;(iii) 10 percent of funds made available under section 7(a) of the Child Nutrition Act of 1966 (42 U.S.C. 1776(a)) for State administrative expenses during a fiscal year for the third or subsequent finding of 1 or more program violations under subparagraph (A).
+
+#### (3) Source of funding
+
+&emsp;Funds to pay a fine imposed under paragraph (1) or (2) shall be derived from non-Federal sources.
+
+(June 4, 1946, ch. 281, §22, as added Pub. L. 101–147, title I, §110(a), Nov. 10, 1989, 103 Stat. 889; amended Pub. L. 103–448, title I, §121, Nov. 2, 1994, 108 Stat. 4727; Pub. L. 105–336, title I, §111, Oct. 31, 1998, 112 Stat. 3157; Pub. L. 108–265, title I, §§126(b)(1), 127, June 30, 2004, 118 Stat. 763, 767; Pub. L. 111–296, title II, §207, title III, §§303, 304, title IV, §408, Dec. 13, 2010, 124 Stat. 3220, 3240, 3242, 3260.)
+
+#### References in Text
+
+The Child Nutrition Act of 1966, referred to in subsecs. (a)(1) and (e)(1)(A), (2)(A), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
+
+Those Acts, referred to in subsec. (a)(1), mean the Richard B. Russell National School Lunch Act, which was in the original “this Act” and was translated to read “this chapter”, and the Child Nutrition Act of 1966. See above.
 
 #### Prior Provisions
 
@@ -114,13 +238,31 @@ A prior section 1769c, act June 4, 1946, ch. 281, §22, as added Nov. 10, 1978, 
 
 #### Amendments
 
-2004—Subsec. (b)(3) to (5). Pub. L. 108–265, §126(b)(1), added pars. (3) to (5).
+<b>2010</b>—Subsec. (a). Pub. L. 111–296, §207(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “There shall be a unified system prescribed and administered by the Secretary for ensuring that local food service authoritiesthat participate in the school lunch program under this chapter comply with the provisions of this chapter. Such system shall be established through the publication of regulations and the provision of an opportunity for public comment, consistent with the provisions of section 553 of title 5.”
+
+Subsec. (b)(1). Pub. L. 111–296, §207(2), added subpars. (A) to (D) and struck out former subpars. (A) and (B) which read as follows:
+
+“(A) require that local food service authorities comply with the provisions of this chapter; and
+
+“(B) ensure such compliance through reasonable audits and supervisory assistance reviews.”
+
+Subsec. (b)(6). Pub. L. 111–296, §304, added par. (6).
+
+Subsec. (d). Pub. L. 111–296, §408, substituted “$10,000,000 for each of fiscal years 2011 through 2015” for “$6,000,000 for each of fiscal years 2004 through 2009”.
+
+Subsec. (e). Pub. L. 111–296, §303, added subsec. (e).
+
+<b>2004</b>—Subsec. (b)(3) to (5). Pub. L. 108–265, §126(b)(1), added pars. (3) to (5).
 
 Subsec. (d). Pub. L. 108–265, §127, substituted “$6,000,000 for each of fiscal years 2004 through 2009” for “$3,000,000 for each of the fiscal years 1994 through 2003”.
 
-1998—Subsec. (d). Pub. L. 105–336 substituted “2003” for “1996”.
+<b>1998</b>—Subsec. (d). Pub. L. 105–336 substituted “2003” for “1996”.
 
-1994—Subsec. (d). Pub. L. 103–448 substituted “fiscal years 1994 through 1996” for “fiscal years 1990, 1991, 1992, 1993, and 1994”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–448 substituted “fiscal years 1994 through 1996” for “fiscal years 1990, 1991, 1992, 1993, and 1994”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as a note under section 1751 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -141,4 +283,6 @@ Section 110(b) of Pub. L. 101–147 provided that: “Not later than July 1, 199
 #### Interpretation
 
 Pub. L. 108–265, title I, §126(b)(2), June 30, 2004, 118 Stat. 765, provided that: “Nothing in the amendment made by paragraph (1) \[amending this section\] affects the requirements for fiscal actions as described in the regulations issued pursuant to section 22(a) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1769c(a)).”
+
+<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

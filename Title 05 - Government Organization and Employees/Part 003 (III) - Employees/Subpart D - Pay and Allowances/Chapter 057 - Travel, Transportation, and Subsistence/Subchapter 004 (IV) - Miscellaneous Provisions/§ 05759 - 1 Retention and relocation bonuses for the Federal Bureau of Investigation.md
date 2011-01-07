@@ -12,7 +12,7 @@ Authority.—The Director of the Federal Bureau of Investigation, after consulta
 
 &emsp;&emsp;(ii) for a different position in the Federal service; or
 
-&emsp;(2) the individual is transferred to a different geographic area with a higher cost of living (as determined by the Director of the Federal Bureau of Investigation).
+&emsp;(2) the individual is subject to a mobility agreement and is transferred to a position in a different geographical area in which there is a shortage of critical skills (as determined by the Director of the Federal Bureau of Investigation).
 
 (b)
 
@@ -20,19 +20,27 @@ Service Agreement.—Payment of a bonus under this section is contingent upon th
 
 &emsp;(1) the period of service the individual shall be required to complete in return for the bonus; and
 
-&emsp;(2) the conditions under which the agreement may be terminated before the agreed-upon service period has been completed, and the effect of the termination.
+&emsp;(2) the conditions under which the agreement may be terminated before the agreed-upon service period has been completed, and the effect of the termination, including requirements for a bonus recipient's repayment of a bonus in circumstances determined by the Director of the Federal Bureau of Investigation.
 
 (c)
 
-Limitation on Authority.—A bonus paid under this section may not exceed 50 percent of the employee's basic pay.
+Limitation on Authority.—A bonus paid under this section may not exceed 50 percent of the employee's annual rate of basic pay. The bonus may be paid in a lump sum or installments linked to completion of periods of service.
 
 (d)
 
-Impact on Basic Pay.—A retention bonus is not part of the basic pay of an employee for any purpose.
+Impact on Basic Pay.—A bonus paid under this section is not part of the basic pay of an employee for any purpose.
 
-(Added Pub. L. 108–447, div. B, title I, §113(a), Dec. 8, 2004, 118 Stat. 2868; amended Pub. L. 111–117, div. B, title II, §217, Dec. 16, 2009, 123 Stat. 3141.)
+(Added Pub. L. 108–447, div. B, title I, §113(a), Dec. 8, 2004, 118 Stat. 2868; amended Pub. L. 111–117, div. B, title II, §217, Dec. 16, 2009, 123 Stat. 3141; Pub. L. 111–259, title IV, §443, Oct. 7, 2010, 124 Stat. 2733.)
 
 #### Amendments
+
+2010—Subsec. (a)(2). Pub. L. 111–259, §443(1), substituted “is subject to a mobility agreement and is transferred to a position in a different geographical area in which there is a shortage of critical skills” for “is transferred to a different geographic area with a higher cost of living”.
+
+Subsec. (b)(2). Pub. L. 111–259, §443(2), substituted “, including requirements for a bonus recipient's repayment of a bonus in circumstances determined by the Director of the Federal Bureau of Investigation.” for the period.
+
+Subsec. (c). Pub. L. 111–259, §443(3), substituted “annual rate of basic pay. The bonus may be paid in a lump sum or installments linked to completion of periods of service.” for “basic pay.”
+
+Subsec. (d). Pub. L. 111–259, §443(4), substituted “bonus paid under this section” for “retention bonus”.
 
 2009—Subsec. (e). Pub. L. 111–117 struck out subsec. (e). Text read as follows: “The authority to grant bonuses under this section shall cease to be available after December 31, 2009.”
 

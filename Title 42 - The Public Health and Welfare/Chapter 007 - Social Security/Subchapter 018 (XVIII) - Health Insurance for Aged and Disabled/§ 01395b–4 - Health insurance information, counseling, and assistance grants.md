@@ -20,7 +20,7 @@ The Secretary of Health and Human Services (in this section referred to as the �
 
 &emsp;&emsp;(iv) information regarding other types of health insurance benefits that the Secretary determines to be appropriate;
 
-&emsp;(B) in conjunction with the health insurance information, counseling, and assistance program described in subparagraph (A), establish a system of referral to appropriate Federal or State departments or agencies for assistance with problems related to health insurance coverage (including legal problems), as determined by the Secretary;
+&emsp;(B) in conjunction with the health insurance information, counseling, and assistance program described in subparagraph (A), establish a system of referral to appropriate Federal orState departments or agencies for assistance with problems related to health insurance coverage (including legal problems), as determined by the Secretary;
 
 &emsp;(C) provide for a sufficient number of staff positions (including volunteer positions) necessary to provide the services of the health insurance information, counseling, and assistance program;
 
@@ -84,13 +84,13 @@ Beginning with 1992, and annually thereafter, the Secretary shall issue a report
 
 &emsp;(3) makes recommendations that the Secretary determines to be appropriate to address the problems described in paragraph (3); <sup>2</sup> and
 
-&emsp;(4) in the case of the report issued 2 years after November 5, 1990, evaluates the effectiveness of counseling programs established under this program, and makes recommendations regarding continued authorization of funds for these purposes.
+&emsp;(4) in the case of the report issued 2 years after November 5, 1990, evaluates the effectiveness of counseling programs established underthis program, and makes recommendations regarding continued authorization of funds for these purposes.
 
 #### (g) Authorization of appropriations for grants
 
 There are authorized to be appropriated, in equal parts from the Federal Hospital Insurance Trust Fund and from the Federal Supplementary Medical Insurance Trust Fund, $10,000,000 for each of fiscal years 1991, 1992, 1993, 1994, 1995, and 1996, to fund the grant programs described in this section.
 
-(Pub. L. 101–508, title IV, §4360, Nov. 5, 1990, 104 Stat. 1388–138; Pub. L. 103–432, title I, §171(i),Oct. 31, 1994, 108 Stat. 4450; Pub. L. 103–437, §15(b), Nov. 2, 1994, 108 Stat. 4591; Pub. L. 105–362, title VI, §602(b)(2), Nov. 10, 1998, 112 Stat. 3286.)
+(Pub. L. 101–508, title IV, §4360, Nov. 5, 1990, 104 Stat. 1388–138; Pub. L. 103–432, title I, §171(i), Oct. 31, 1994, 108 Stat. 4450; Pub. L. 103–437, §15(b), Nov. 2, 1994, 108 Stat. 4591; Pub. L. 105–362, title VI, §602(b)(2), Nov. 10, 1998, 112 Stat. 3286.)
 
 #### References in Text
 
@@ -102,9 +102,9 @@ Section was enacted as part of the Omnibus Budget Reconciliation Act of 1990, an
 
 #### Amendments
 
-1998—Subsec. (f). Pub. L. 105–362 substituted “Beginning with 1992” for “Not later than 180 days after November 5, 1990”.
+<b>1998</b>—Subsec. (f). Pub. L. 105–362 substituted “Beginning with 1992” for “Not later than 180 days after November 5, 1990”.
 
-1994—Subsec. (b)(2)(A)(ii). Pub. L. 103–432, §171(i)(1), inserted closing parenthesis after “of this title”.
+<b>1994</b>—Subsec. (b)(2)(A)(ii). Pub. L. 103–432, §171(i)(1), inserted closing parenthesis after “of this title”.
 
 Subsec. (b)(2)(D). Pub. L. 103–432, §171(i)(2), substituted “counseling” for “services” before “described in subparagraph (A)”.
 

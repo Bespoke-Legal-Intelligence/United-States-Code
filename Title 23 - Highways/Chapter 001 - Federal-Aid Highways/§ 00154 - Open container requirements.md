@@ -10,7 +10,7 @@ Alcoholic beverage.—The term “alcoholic beverage” has the meaning given th
 
 &emsp;(2)
 
-Motor vehicle.—The term “motor vehicle” means a vehicle driven or drawn by mechanical power and manufactured primarily for use on public highways, but does not include a vehicle operated exclusively on a rail or rails.
+Motor vehicle.—The term “motor vehicle” means a vehicle driven or drawn by mechanical power and manufactured primarilyfor use on public highways, but does not include a vehicle operated exclusively on a rail or rails.
 
 &emsp;(3)
 
@@ -36,7 +36,7 @@ In general.—For the purposes of this section, each State shall have in effect 
 
 &emsp;(2)
 
-Motor vehicles designed to transport many passengers.—For the purposes of this section, if a State has in effect a law thatmakes unlawful the possession of any open alcoholic beverage container by the driver (but not by a passenger)—
+Motor vehicles designed to transport many passengers.—For the purposes of this section, if a State has in effect a law that makes unlawful the possession of any open alcoholic beverage container by the driver (but not by a passenger)—
 
 &emsp;&emsp;(A) in the passenger area of a motor vehicle designed, maintained, or used primarily for the transportation of persons for compensation; or
 
@@ -50,7 +50,7 @@ Transfer of Funds.—
 
 &emsp;(1)
 
-Fiscal years 2001 and 2002.—On October 1, 2000, and October 1, 2001, if a State has not enacted or is not enforcing an open container law described in subsection (b), the Secretary shall transfer an amount equal to 11/2 percent of the funds apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b) to the apportionment of the State under section 402—
+Fiscal years 2001 and 2002.—On October 1, 2000, and October 1, 2001, if a State has not enacted or is not enforcing an open container law described in subsection (b), the Secretary shall transfer an amount equal to 1½ percent of the funds apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b) to the apportionment of the State under section 402—
 
 &emsp;&emsp;(A) to be used for alcohol-impaired driving countermeasures; or
 
@@ -106,11 +106,11 @@ Limitation on applicability of obligation limitation.—Notwithstanding any othe
 
 #### Prior Provisions
 
-A prior section 154, added Pub. L. 93–643, §114(a), Jan. 4, 1975, 88 Stat. 2286; amended Pub. L. 95–599, title II, §205, Nov. 6, 1978, 92 Stat. 2729; Pub. L. 97–35, title XI, §1108, Aug. 13, 1981, 95 Stat. 626; Pub. L. 100–17, title I, §174, Apr. 2, 1987, 101 Stat. 218; Pub. L. 102–240, title I, §1029(a), (b), (e), (g), Dec. 18, 1991, 105 Stat. 1968–1970, established the national maximum speed limit, prior to repeal by Pub. L. 104–59, title II, §205(d)(1)(B), (3), Nov. 28, 1995, 109 Stat. 577, applicable to State on 10th day following Nov. 28, 1995, except that if legislature was not in session on such date and chief executive officer declared before such date that legislature was not in session and that State preferred applicability date that was after date on which legislature would convene, applicable to State on 60th day following date on which legislature would next convene.
+A prior section 154, added Pub. L. 93–643, §114(a), Jan. 4, 1975, 88 Stat. 2286; amended Pub. L. 95–599, title II, §205, Nov. 6, 1978, 92 Stat. 2729; Pub. L. 97–35, title XI, §1108, Aug. 13, 1981, 95 Stat. 626; Pub. L. 100–17, title I, §174, Apr. 2, 1987, 101 Stat. 218; Pub. L. 102–240, title I,§1029(a), (b), (e), (g), Dec. 18, 1991, 105 Stat. 1968–1970, established the national maximum speed limit, prior to repeal by Pub. L. 104–59, title II, §205(d)(1)(B), (3), Nov. 28, 1995, 109 Stat. 577, applicable to State on 10th day following Nov. 28, 1995, except that if legislature was not in session on such date and chief executive officer declared before such date that legislature was not in session and that State preferred applicability date that was after date on which legislature would convene, applicable to State on 60th day following date on which legislature would next convene.
 
 #### Amendments
 
-2005—Subsec. (c)(3). Pub. L. 109–59 substituted “148” for “152”.
+<b>2005</b>—Subsec. (c)(3). Pub. L. 109–59 substituted “148” for “152”.
 
 #### Effective Date
 

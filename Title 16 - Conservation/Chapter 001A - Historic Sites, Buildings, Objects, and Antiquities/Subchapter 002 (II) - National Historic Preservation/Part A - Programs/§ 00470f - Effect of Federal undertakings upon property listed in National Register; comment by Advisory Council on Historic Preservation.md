@@ -6,7 +6,7 @@ The head of any Federal agency having direct or indirect jurisdiction over a pro
 
 #### Amendments
 
-1976—Pub. L. 94–422 inserted “or eligible for inclusion in” after “included in”.
+<b>1976</b>—Pub. L. 94–422 inserted “or eligible for inclusion in” after “included in”.
 
 #### Transfer of Functions
 

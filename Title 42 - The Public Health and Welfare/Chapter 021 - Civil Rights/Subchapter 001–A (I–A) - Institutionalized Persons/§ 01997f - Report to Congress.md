@@ -16,7 +16,7 @@ The Attorney General shall include in the report to Congress on the business of 
 
 #### Amendments
 
-1996—Pub. L. 104–134 substituted “the report” for “his report” in introductory provisions .
+<b>1996</b>—Pub. L. 104–134 substituted “the report” for “his report” in introductory provisions .
 
-1982—Pub. L. 97–256 substituted “Attorney General” for “Attorney”.
+<b>1982</b>—Pub. L. 97–256 substituted “Attorney General” for “Attorney”.
 

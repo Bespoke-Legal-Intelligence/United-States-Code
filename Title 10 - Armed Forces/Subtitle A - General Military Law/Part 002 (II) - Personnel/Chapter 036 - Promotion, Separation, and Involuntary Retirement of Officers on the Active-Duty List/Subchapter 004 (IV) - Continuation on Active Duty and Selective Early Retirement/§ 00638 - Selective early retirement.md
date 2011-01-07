@@ -30,7 +30,7 @@
 
 (e)(1) The Secretary of Defense shall prescribe regulations for the administration of this section.
 
-(2)(A) Such regulations shall require that when the Secretary of the military department concerned submits a list of officers to a selection board convened under section 611(b) of this title to consider officers for selection for early retirement under this section, such list (except as provided in subparagraph (B)) shall include each officer on the active-duty list in the same grade and competitive category whose position on the active-duty list is between that of the most junior officer in that grade and competitive category whose name is submitted to the board and that of the most senior officer in that grade and competitive category whose name is submitted to the board.
+(2)(A) Such regulations shall require that when the Secretary of the military departmentconcerned submits a list of officers to a selection board convened under section 611(b) of this title to consider officers for selection for early retirement under this section, such list (except as provided in subparagraph (B)) shall include each officer on the active-duty list in the same grade and competitive category whose position on the active-duty list is between that of the most junior officer in that grade and competitive category whose name is submitted to the board and that of the most senior officer in that grade and competitive category whose name is submitted to the board.
 
 (B) A list under subparagraph (A) may not include an officer in that grade and competitive category (i) who has been approved for voluntary retirement under section 3911, 6323, or 8911 of this title, or (ii) who is to be involuntarily retired under any provision of law during the fiscal year in which the selection board is convened or during the following fiscal year.
 
@@ -40,17 +40,17 @@
 
 #### Amendments
 
-1996—Subsec. (b)(3). Pub. L. 104–106 added par. (3).
+<b>1996</b>—Subsec. (b)(3). Pub. L. 104–106 added par. (3).
 
-1993—Subsec. (e)(2)(B). Pub. L. 103–160 inserted “(i)” after “grade and competitive category”, inserted “(ii)” after “of this title, or”, and struck out comma after “any provision of law”.
+<b>1993</b>—Subsec. (e)(2)(B). Pub. L. 103–160 inserted “(i)” after “grade and competitive category”, inserted “(ii)” after “of this title, or”, and struck out comma after “any provision of law”.
 
-1991—Subsec. (e). Pub. L. 102–190 designated existing provisions as pars. (1) and (2)(A), in par. (2)(A) inserted “(except as provided in subparagraph (B))” after “under this section, such list”, and added subpars. (B) and (C).
+<b>1991</b>—Subsec. (e). Pub. L. 102–190 designated existing provisions as pars. (1) and (2)(A), in par. (2)(A) inserted “(except as provided in subparagraph (B))” after “under this section, such list”, and added subpars. (B) and (C).
 
-1990—Subsec. (a)(3). Pub. L. 101–510, §521(b)(2)(A), added par. (3).
+<b>1990</b>—Subsec. (a)(3). Pub. L. 101–510, §521(b)(2)(A), added par. (3).
 
 Subsec. (b)(1). Pub. L. 101–510, §521(b)(2)(B), inserted “or section 638a of this title” after “under this section”.
 
-1988—Subsec. (a). Pub. L. 100–456 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A regular officer on the active-duty list of the Army, Navy, Air Force, or Marine Corps—
+<b>1988</b>—Subsec. (a). Pub. L. 100–456 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A regular officer on the active-duty list of the Army, Navy, Air Force, or Marine Corps—
 
 &emsp;“(1) who holds the regular grade of lieutenant colonel or commander and has failed of selection for promotion to the grade of colonel or, in the case of an officer of the Navy, captain two or more times and whose name is not on a list of officers recommended for promotion;
 
@@ -62,9 +62,9 @@ Subsec. (b)(1). Pub. L. 101–510, §521(b)(2)(B), inserted “or section 638a o
 
 > may be considered for early retirement by a selection board convened under section 611(b) of this title. The Secretary of the military department concerned shall specify the number of officers described in clauses (1) and (2) which such a board may recommend for early retirement, but such number may not be more than 30 percent of the number of officers considered in each grade in each competitive category.”
 
-1985—Subsecs. (a)(3), (b), (c). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore” wherever appearing.
+<b>1985</b>—Subsecs. (a)(3), (b), (c). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore” wherever appearing.
 
-1981—Subsec. (a)(3). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
+<b>1981</b>—Subsec. (a)(3). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
 
 Subsec. (a)(3), (4). Pub. L. 97–22 substituted “three and one-half years of active duty” for “four years of active duty”.
 

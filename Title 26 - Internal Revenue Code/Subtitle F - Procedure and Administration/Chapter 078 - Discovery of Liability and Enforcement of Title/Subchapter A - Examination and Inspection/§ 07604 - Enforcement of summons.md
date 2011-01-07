@@ -6,7 +6,7 @@ If any person is summoned under the internal revenue laws to appear, to testify,
 
 #### (b) Enforcement
 
-Whenever any person summoned under section 6420(e)(2), 6421(g)(2), 6427(j)(2), or 7602 neglects or refuses to obey such summons, or to produce books, papers, records, or other data, or to give testimony, as required, the Secretary may apply to the judge of the district court or to a United States magistrate judge for the district within which the person so summoned resides or is found for an attachment against him as for a contempt. It shall be the duty of the judge or magistrate judge to hear the application, and, if satisfactory proof is made, to issue an attachment, directed to some proper officer, for the arrest of such person, and upon his being brought before him to proceed to a hearing of the case; and upon such hearing the judge or the United States magistrate judge shall have power to make such order as he shall deem proper, not inconsistent with the law for the punishment of contempts, to enforce obedience to the requirements of the summons and to punish such person for his default or disobedience.
+Whenever any person summoned under section 6420(e)(2), 6421(g)(2), 6427(j)(2), or 7602 neglects orrefuses to obey such summons, or to produce books, papers, records, or other data, or to give testimony, as required, the Secretary may apply to the judge of the district court or to a United States magistrate judge for the district within which the person so summoned resides or is found for an attachment against him as for a contempt. It shall be the duty of the judge or magistrate judge to hear the application, and, if satisfactory proof is made, to issue an attachment, directed to some proper officer, for the arrest of such person, and upon his being brought before him to proceed to a hearing of the case; and upon such hearing the judge or the United States magistrate judge shall have power to make such order as he shall deem proper, not inconsistent with the law for the punishment of contempts, to enforce obedience to the requirements of the summons and to punish such person for his default or disobedience.
 
 #### (c) Cross references
 
@@ -22,31 +22,31 @@ Whenever any person summoned under section 6420(e)(2), 6421(g)(2), 6427(j)(2), o
 
 #### Amendments
 
-1988—Subsecs. (b), (c)(2). Pub. L. 100–647, §1017(c)(12), made technical correction to language of Pub. L. 99–514, §1703(e)(2)(G), see 1986 Amendment note below.
+<b>1988</b>—Subsecs. (b), (c)(2). Pub. L. 100–647, §1017(c)(12), made technical correction to language of Pub. L. 99–514, §1703(e)(2)(G), see 1986 Amendment note below.
 
 Pub. L. 100–647, §1017(c)(9), substituted “6421(g)(2)” for “6421(f)(2)”.
 
-1986—Subsecs. (b), (c)(2). Pub. L. 99–514, as amended by Pub. L. 100–647, §1017(c)(12), substituted “6427(j)(2)” for “6427(i)(2)”.
+<b>1986</b>—Subsecs. (b), (c)(2). Pub. L. 99–514, as amended by Pub. L. 100–647, §1017(c)(12), substituted “6427(j)(2)” for “6427(i)(2)”.
 
-1984—Subsecs. (b), (c)(2). Pub. L. 98–369 substituted “6427(i)(2)” for “6427(h)(2)”.
+<b>1984</b>—Subsecs. (b), (c)(2). Pub. L. 98–369 substituted “6427(i)(2)” for “6427(h)(2)”.
 
-1983—Subsecs. (b), (c)(2). Pub. L. 97–424 struck out “6424(d)(2),” after “6421(f)(2),”.
+<b>1983</b>—Subsecs. (b), (c)(2). Pub. L. 97–424 struck out “6424(d)(2),” after “6421(f)(2),”.
 
-1980—Subsecs. (b), (c)(2). Pub. L. 96–223 substituted “6427(h)(2)” for “6427(g)(2)”.
+<b>1980</b>—Subsecs. (b), (c)(2). Pub. L. 96–223 substituted “6427(h)(2)” for “6427(g)(2)”.
 
-1978—Subsec. (b). Pub. L. 95–599, §505(c)(5), substituted “6427(g)(2)” for “6427(f)(2)”.
+<b>1978</b>—Subsec. (b). Pub. L. 95–599, §505(c)(5), substituted “6427(g)(2)” for “6427(f)(2)”.
 
 Subsec. (c)(2). Pub. L. 95–599, §505(c)(6), substituted “6427(g)(2)” for “6427(e)(2)”.
 
-1976—Subsec. (b). Pub. L. 94–530 substituted “6427(f)(2)” for “6427(e)(2)”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–530 substituted “6427(f)(2)” for “6427(e)(2)”.
 
 Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1970—Subsecs. (b), (c). Pub. L. 91–258 inserted references to section 6427(e)(2).
+<b>1970</b>—Subsecs. (b), (c). Pub. L. 91–258 inserted references to section 6427(e)(2).
 
-1965—Subsecs. (b), (c). Pub. L. 89–44 inserted references to section 6424(d)(2).
+<b>1965</b>—Subsecs. (b), (c). Pub. L. 89–44 inserted references to section 6424(d)(2).
 
-1956—Subsecs. (b), (c). Act Apr. 2, 1956, inserted references to section 6420(e)(2).
+<b>1956</b>—Subsecs. (b), (c). Act Apr. 2, 1956, inserted references to section 6420(e)(2).
 
 Act June 29, 1956, inserted references to section 6421(f)(2).
 

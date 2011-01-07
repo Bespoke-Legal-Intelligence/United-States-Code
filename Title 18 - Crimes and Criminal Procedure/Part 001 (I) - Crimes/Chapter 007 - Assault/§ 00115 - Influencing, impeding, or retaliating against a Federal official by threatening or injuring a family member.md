@@ -6,9 +6,9 @@
 
 &emsp;(B) threatens to assault, kidnap, or murder, a United States official, a United States judge, a Federal law enforcement officer, or an official whose killing would be a crime under such section,
 
-> with intent to impede, intimidate, or interfere with such official, judge, or law enforcement officer while engaged in the performance of official duties, or with intent to retaliate against such official, judge, or law enforcement officer on account of the performance of official duties, shall be punished as provided in subsection (b).
+> with intent to impede, intimidate, or interfere with such official, judge, or law enforcement officer while engaged in the performance of official duties, or with intent to retaliate against such official, judge, or law enforcement officeron account of the performance of official duties, shall be punished as provided in subsection (b).
 
-(2) Whoever assaults, kidnaps, or murders, or attempts or conspires to kidnap or murder, or threatens to assault, kidnap, or murder, any person who formerly served as a person designated in paragraph (1), or a member of the immediate family of any person who formerly served as a person designated in paragraph (1), with intent to retaliate against such person on account of the performance of official dutiesduring the term of service of such person, shall be punished as provided in subsection (b).
+(2) Whoever assaults, kidnaps, or murders, or attempts or conspires to kidnap or murder, or threatens to assault, kidnap, or murder, any person who formerly served as a person designated in paragraph (1), or a member of the immediate family of any person who formerly served as a person designated in paragraph (1), with intent to retaliate against such person on account of the performance of official duties during the term of service of such person, shall be punished as provided in subsection (b).
 
 (b)(1) The punishment for an assault in violation of this section is—
 
@@ -48,13 +48,13 @@
 
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–177 added par. (1) and struck out former par. (1) which read as follows: “An assault in violation of this section shall be punished as provided in section 111 of this title.”
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–177 added par. (1) and struck out former par. (1) which read as follows: “An assault in violation of this section shall be punished as provided in section 111 of this title.”
 
-2002—Subsec. (b)(2). Pub. L. 107–273, §4002(b)(9), substituted “or attempted kidnapping of, or a conspiracy to kidnap, a person” for “, attempted kidnapping, or conspiracy to kidnap of a person”.
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–273, §4002(b)(9), substituted “or attempted kidnapping of, or a conspiracy to kidnap, a person” for “, attempted kidnapping, or conspiracy to kidnap of a person”.
 
 Subsec. (b)(4). Pub. L. 107–273, §11008(c), substituted “10” for “five” and “6” for “three”.
 
-1996—Subsec. (a)(1)(A). Pub. L. 104–132, §723(a)(1), inserted “or conspires” after “attempts”.
+<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–132, §723(a)(1), inserted “or conspires” after “attempts”.
 
 Subsec. (a)(2). Pub. L. 104–132, §727(b)(1), which directed insertion of “, or threatens to assault, kidnap, or murder, any person who formerly served as a person designated in paragraph (1), or” after “assaults, kidnaps, or murders, or attempts to kidnap or murder”, was executed by making the substitution after “assaults, kidnaps, or murders, or attempts or conspires to kidnap or murder” to reflect the probable intent of Congress and the amendment by Pub. L. 104–132, §723(a)(1). See below.
 
@@ -66,15 +66,15 @@ Subsec. (b)(3). Pub. L. 104–132, §723(a)(3), substituted “, attempted murd
 
 Subsec. (d). Pub. L. 104–132, §727(b)(2), added subsec. (d).
 
-1994—Subsec. (b)(2). Pub. L. 103–322, §330021(1), substituted “kidnapping” for “kidnaping” in two places.
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–322, §330021(1), substituted “kidnapping” for “kidnaping” in two places.
 
 Subsec. (b)(4). Pub. L. 103–322, §330016(2)(C), substituted “fine under this title” for “fine of not more than $5,000”.
 
-1990—Subsec. (c)(4). Pub. L. 101–647 substituted “the Central” for “The Central”.
+<b>1990</b>—Subsec. (c)(4). Pub. L. 101–647 substituted “the Central” for “The Central”.
 
-1988—Subsec. (a). Pub. L. 100–690 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whoever assaults, kidnaps, or murders, or attempts to kidnap or murder, or threatens to assault, kidnap or murder a member of the immediate family of a United States official, a United States judge, a Federal law enforcement officer, or an official whose killing would be a crime under section 1114 of this title, or threatens to assault, kidnap, or murder, a United States official, a United States judge, a Federal law enforcement officer, or an official whose killing would be a crime under such section with intent to impede, intimidate, interfere with, or retaliate against such official, judge or law enforcement officer while engaged in or on account of the performance of official duties, shall be punished as provided in subsection (b).”
+<b>1988</b>—Subsec. (a). Pub. L. 100–690 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whoever assaults, kidnaps, or murders, or attempts to kidnap or murder, or threatens to assault, kidnap or murder a member of the immediate family of a United States official, a United States judge, a Federal law enforcement officer, or an official whose killing would be a crime under section 1114 of this title, or threatens to assault, kidnap, or murder, a United States official, a United States judge, a Federal law enforcement officer, or an official whose killing would bea crime under such section with intent to impede, intimidate, interfere with, or retaliate against such official, judge or law enforcement officer while engaged in or on account of the performance of official duties, shall be punished as provided in subsection (b).”
 
-1986—Subsec. (a). Pub. L. 99–646, §60, substituted “section 1114 of this title, or threatens to assault, kidnap, or murder, a United States official, a United States judge, a Federal law enforcement officer, or an official whose killing would be a crime under such section” for “18 U.S.C. 1114, as amended,”, “while engaged” for “while he is engaged”, and “official duties” for “his official duties”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–646, §60, substituted “section 1114 of this title, or threatens to assault, kidnap, or murder, a United States official, a United States judge, a Federal law enforcement officer, or an official whose killing would be a crime under such section” for “18 U.S.C. 1114, as amended,”, “while engaged” for “while he is engaged”, and “official duties” for “his official duties”.
 
 Subsec. (b)(2). Pub. L. 99–646, §37(a), inserted “for the kidnapping or attempted kidnapping of a person described in section 1201(a)(5) of this title”.
 

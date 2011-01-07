@@ -14,7 +14,7 @@
 
 &emsp;(C) compatible wildlife-dependent recreational uses are the priority general public uses of the System and shall receive priority consideration in refuge planning and management; and
 
-&emsp;(D) when the Secretary determines that a proposed wildlife-dependent recreational use is a compatible use within a refuge, that activity should be facilitated, subject to such restrictions or regulations as may be necessary, reasonable, and appropriate.
+&emsp;(D) when the Secretary determines that a proposed wildlife-dependent recreational use isa compatible use within a refuge, that activity should be facilitated, subject to such restrictions or regulations as may be necessary, reasonable, and appropriate.
 
 (4) In administering the System, the Secretary shall—
 
@@ -80,7 +80,7 @@ In administering the System, the Secretary is authorized to take the following a
 
 &emsp;(2) Accept donations of funds and to use such funds to acquire or manage lands or interests therein.
 
-&emsp;(3) Acquire lands or interests therein by exchange (A) for acquired lands or public lands, or for interests in acquired or public lands, under his jurisdiction which he finds to be suitable for disposition, or (B) for the right to remove, in accordance with such terms and conditions as he may prescribe, products from the acquired or public lands within the System. The values of the properties so exchanged either shall be approximately equal, or if they are not approximately equal the values shall be equalized by the payment of cash to the grantor or to the Secretary as the circumstances require.
+&emsp;(3) Acquire lands or interests therein by exchange (A) for acquired lands or public lands,or for interests in acquired or public lands, under his jurisdiction which he finds to be suitable for disposition, or (B) for the right to remove, in accordance with such terms and conditions as he may prescribe, products from the acquired or public lands within the System. The values of the properties so exchanged either shall be approximately equal, or if they are not approximately equal the values shall be equalized by the payment of cash to the grantor or to the Secretary as the circumstances require.
 
 &emsp;(4) Subject to standards established by and the overall management oversight of the Director, and consistent with standards established by this Act, to enter into cooperative agreements with State fish and wildlife agencies for the management of programs on a refuge.
 
@@ -132,7 +132,7 @@ No person shall disturb, injure, cut, burn, remove, destroy, or possess any real
 
 &emsp;(A) overflights above a refuge; and
 
-&emsp;(B) activities authorized, funded, or conducted by a Federal agency (other than theUnited States Fish and Wildlife Service) which has primary jurisdiction over a refuge or a portion of a refuge, if the management of those activities is in accordance with a memorandum of understanding between the Secretary or the Director and the head of the Federal agency with primary jurisdiction over the refuge governing the use of the refuge.
+&emsp;(B) activities authorized, funded, or conducted by a Federal agency (other than the United States Fish and Wildlife Service) which has primary jurisdiction over a refuge or a portion of a refuge, if the management of those activities is in accordance with a memorandum of understanding between the Secretary or the Director and the head of the Federal agency with primary jurisdiction over the refuge governing the use of the refuge.
 
 #### (e) Refuge conservation planning program for non-Alaskan refuge lands
 
@@ -190,7 +190,7 @@ No person shall disturb, injure, cut, burn, remove, destroy, or possess any real
 
 #### (g) Enforcement provision; arrests, searches, and seizures; custody of property; forfeitures; disposition
 
-Any person authorized by the Secretary to enforce the provisions of this Act or any regulations issued thereunder, may, without a warrant, arrest any person violating this Act or regulations in his presence or view, and may execute any warrant or other process issued by an officer or court of competence jurisdiction to enforce the provisions of this Act or regulations, and may with a search warrant search for and seize any property, fish, bird, mammal, or other wild vertebrate or invertebrate animals or part or nest or egg thereof, taken or possessed in violation of this Act or the regulations issuedthereunder. Any property, fish, bird, mammal, or other wild vertebrate or invertebrate animals or part or egg thereof seized with or without a search warrant shall be held by such person or by a United States marshal, and upon conviction, shall be forfeited to the United States and disposed of by the Secretary, in accordance with law. The Director of the United States Fish and Wildlife Service is authorized to utilize by agreement, with or without reimbursement, the personnel and services of any other Federal or State agency for purposes of enhancing the enforcement of this Act.
+Any person authorized by the Secretary to enforce the provisions of this Act or any regulations issued thereunder, may, without a warrant, arrest any person violating this Act or regulations in his presence or view, and may execute any warrant or other process issued by an officer or court of competent jurisdiction to enforce the provisions of this Act or regulations, and may with a search warrant search for and seize any property, fish, bird, mammal, or other wild vertebrate or invertebrate animals or part or nest or egg thereof, taken or possessed in violation of this Act or the regulations issued thereunder. Any property, fish, bird, mammal, or other wild vertebrate or invertebrate animals or part or egg thereof seized with or without a search warrant shall be held by such person or by a United States marshal, and upon conviction, shall be forfeited to the United States and disposed of by the Secretary, in accordance with law. The Director of the United States Fish and Wildlife Service is authorized to utilize by agreement, with or without reimbursement, the personnel and services of any other Federal or State agency for purposes of enhancing the enforcement of this Act.
 
 #### (h) Regulations; continuation, modification, or rescission
 
@@ -236,27 +236,25 @@ Coordination with State fish and wildlife agency personnel or with personnel of 
 
 #### References in Text
 
-This Act, referred to in text, means Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, as amended, which enacted sections 668aa to 668ee, amended sections 460k, 696, 696b, 715c, 715i to 715k, 718d, and repealed sections 715d–1, 715d–2, 715<i>l</i>, 715m of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, which enacted sections 668aa to 668ee, amended sections 460k, 696, 696b, 715c, 715i to 715k, 718d, and repealed sections 715d–1, 715d–2, 715<i>l</i>, 715m of this title. For complete classification of this Act to the Code, see Tables.
 
-The United States mining laws and mineral leasing laws, referred to in subsec. (c), are classified generally to Title 30, Mineral Lands and Mining.
+The Migratory Bird Conservation Act, referred to in subsec. (d)(2), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
 
-The Migratory Bird Conservation Act, referred to in subsec. (d)(2), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, as amended, which is classified generally to subchapter III (§715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
+The Migratory Bird Hunting Stamp Act, referred to in subsec. (d)(2), subsequently renamed the Migratory Bird Hunting and Conservation Stamp Act, is act Mar. 16, 1934, ch. 71, 48 Stat. 451, which is classified generally to subchapter IV (§718 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 718 of this title and Tables.
 
-The Migratory Bird Hunting Stamp Act, referred to in subsec. (d)(2), subsequently renamed the Migratory Bird Hunting and Conservation Stamp Act, is act Mar. 16, 1934, ch. 71, 48 Stat. 451, as amended, which is classified generally to subchapter IV (§718 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 718 of this title and Tables.
+The Refuge Recreation Act and the Act of September 28, 1962, referred to in subsecs. (d)(3)(A)(iii) and (i), is Pub. L. 87–714, Sept. 28, 1962, 76 Stat. 653, which is classified generally to subchapter LXVIII (§460k et seq.) of chapter 1 of this title.
 
-The Refuge Recreation Act and the Act of September 28, 1962, referred to in subsecs. (d)(3)(A)(iii) and (i), is Pub. L. 87–714, Sept. 28, 1962, 76 Stat. 653, as amended, which is classified generally to subchapter LXVIII (§460k et seq.) of chapter 1 of this title.
+The Alaska National Interest Lands Conservation Act, referred to in subsec. (e)(1)(A), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Alaska National Interest Lands Conservation Act, referred to in subsec. (e)(1)(A), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
-
-The Federal Advisory Committee Act, referred to in subsec. (<i>o</i>), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is classified to the Appendix of Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (<i>o</i>), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is classified to the Appendix of Title 5, Government Organization and Employees.
 
 #### Amendments
 
-1998—Subsec. (c). Pub. L. 105–312, §206(1), struck out “knowingly” after “No person shall” in first sentence.
+<b>1998</b>—Subsec. (c). Pub. L. 105–312, §206(1), struck out “knowingly” after “No person shall” in first sentence.
 
 Subsec. (f). Pub. L. 105–312, §206(2), inserted subsec. heading, par. (1) designation and heading, and “knowingly” after “Any person who”, and added par. (2).
 
-1997—Subsec. (a)(1). Pub. L. 105–57, §3(b), substituted “Secretary” for “Secretary of the Interior” before “for the conservation of fish and wildlife”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–57, §3(b), substituted “Secretary” for “Secretary of the Interior” before “for the conservation of fish and wildlife”.
 
 Subsec. (a)(2). Pub. L. 105–57, §4(1), (3), added par. (2) and redesignated former par. (2) as (5).
 
@@ -304,23 +302,23 @@ Subsecs. (i), (j). Pub. L. 105–57, §7(a)(1), redesignated subsecs. (h) and (i
 
 Subsecs. (k) to (<i>o</i>). Pub. L. 105–57, §8(a), added subsecs. (k) to (<i>o</i>).
 
-1988—Subsec. (e). Pub. L. 100–653 substituted “thereunder shall be fined under title 18 or imprisoned for not more than 1 year, or both” for “thereunder shall be fined not more than $500 or be imprisoned not more than six months, or both”.
+<b>1988</b>—Subsec. (e). Pub. L. 100–653 substituted “thereunder shall be fined under title 18 or imprisoned for not more than 1 year, or both” for “thereunder shall be fined not more than $500 or be imprisoned not more than six months, or both”.
 
-1987—Subsec. (f). Pub. L. 100–226 inserted at end “The Director of the United States Fish and Wildlife Service is authorized to utilize by agreement, with or without reimbursement, the personnel and services of any other Federal or State agency for purposes of enhancing the enforcement of this Act.”
+<b>1987</b>—Subsec. (f). Pub. L. 100–226 inserted at end “The Director of the United States Fish and Wildlife Service is authorized to utilize by agreement, with or without reimbursement, the personnel and services of any other Federal or State agency for purposes of enhancing the enforcement of this Act.”
 
-1978—Subsec. (d)(1)(A). Pub. L. 95–616, §6, authorized the Secretary to find that the taking of any species of migratory birds in more than 40 percent of the area would be beneficial to the species.
+<b>1978</b>—Subsec. (d)(1)(A). Pub. L. 95–616, §6, authorized the Secretary to find that the taking of any species of migratory birds in more than 40 percent of the area would be beneficial to the species.
 
 Subsec. (f). Pub. L. 95–616, §3(f), substituted “disposed of by the Secretary, in accordance with law” for “disposed of by the court”.
 
-1976—Subsec. (a). Pub. L. 94–223 designated existing first sentence as par. (1), provided for administration of the System by the Secretary of the Interior through the United States Fish and Wildlife Service and inserted provision respecting continuance of programs relating to management of resources in refuge lands in Alaska, subject to direct supervision of the United States Fish and Wildlife Service; struck out second sentence providing that “Nothing in this Act shall restrict the authority of the Secretary to modify or revoke public land withdrawals affecting lands in the System as presently constituted, or as it may be constituted, whenever he determines that such action is consistent with the public interest.”; designated existing third sentence as par. (2), redesignated as subpars. (A) and (B) former clauses (1) and (2), redesignated as subpar. (B)(i) and (ii) former cl. (2)(A) and (B), substituted in subpar. (A) “with the approval of” for “after consultation with”, inserted in subpar. (B)(i) “or fair market value, whichever is greater;” and reenacted as second sentence of par. (2) former last sentence of subsec. (a); and added par. (3).
+<b>1976</b>—Subsec. (a). Pub. L. 94–223 designated existing first sentence as par. (1), provided for administration ofthe System by the Secretary of the Interior through the United States Fish and Wildlife Service and inserted provision respecting continuance of programs relating to management of resources in refuge lands in Alaska, subject to direct supervision of the United States Fish and Wildlife Service; struck out second sentence providing that “Nothing in this Act shall restrict the authority of the Secretary to modify or revoke public land withdrawals affecting lands in the System as presently constituted, or as it may be constituted, whenever he determines that such action is consistent with the public interest.”; designated existing third sentence as par. (2), redesignated as subpars. (A) and (B) former clauses (1) and (2), redesignated as subpar. (B)(i) and (ii) former cl. (2)(A) and (B), substituted in subpar. (A) “with the approval of” for “after consultation with”, inserted in subpar. (B)(i) “or fair market value, whichever is greater;” and reenacted as second sentence of par. (2) former last sentence of subsec. (a); and added par. (3).
 
 Subsec. (b)(3). Pub. L. 94–215 substituted designations “(A)” and “(B)” for “(a)” and “(b)”, inserted in cl. (A) “, or for interests in acquired or public lands,” before “under his jurisdiction” and substituted in cl. (B) “he may prescribe” for “the Secretary may prescribe”.
 
-1974—Subsec. (d). Pub. L. 93–509 designated existing provisions as par. (1)(A) and (B) and added par. (2).
+<b>1974</b>—Subsec. (d). Pub. L. 93–509 designated existing provisions as par. (1)(A) and (B) and added par. (2).
 
-1973—Subsec. (c). Pub. L. 93–205 inserted “With the exception of endangered species and threatened species listed by the Secretary pursuant to section 1533 of this title in States wherein a cooperative agreement does not exist pursuant to section 1535(c) of this title” before “nothing in this Act shall be construed” and struck out “, including endangered species thereof,” before “on lands not within the System” in second sentence.
+<b>1973</b>—Subsec. (c). Pub. L. 93–205 inserted “With the exception of endangered species and threatened species listed by the Secretary pursuant to section 1533 of this title in States wherein a cooperative agreement does not exist pursuant to section 1535(c) of this title” before “nothing in this Act shall be construed” and struck out “, including endangered species thereof,” before “on lands not within the System” in second sentence.
 
-1968—Subsec. (a). Pub. L. 90–404 inserted provisions that no acquired lands which are or become a part of the National Wildlife Refuge System may be transferred or otherwise disposed of except under the specified conditions, and provisions that the Secretary pay into the migratory bird conservation fund the proceeds of any such transfer or disposal.
+<b>1968</b>—Subsec. (a). Pub. L. 90–404 inserted provisions that no acquired lands which are or become a part of the National Wildlife Refuge System may be transferred or otherwise disposed of except under the specified conditions, and provisions that the Secretary pay into the migratory bird conservation fund the proceeds of any such transfer or disposal.
 
 #### Effective Date of 1974 Amendment
 
@@ -344,7 +342,7 @@ Section 1(a) of Pub. L. 105–57 provided that: “This Act \[amending this sect
 
 #### Short Title of 1974 Amendment
 
-Section 1 of Pub. L. 93–509 provided: “That this Act \[amending this section and section 715s of this title,and enacting provisions set out as notes under this section\] may be cited as the ‘National Wildlife Refuge System Administration Act Amendments of 1974’.”
+Section 1 of Pub. L. 93–509 provided: “That this Act \[amending this section and section 715s of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘National Wildlife Refuge System Administration Act Amendments of 1974’.”
 
 #### Short Title
 
@@ -522,7 +520,7 @@ Administrative Support.—Upon the request of the Commission—
 
 &emsp;“(1) the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, may provide to the Commission such administrative support services as are necessary for the Commission to carry out the duties of the Commission under this title, including services relating to budgeting, accounting, financial reporting, personnel, and procurement; and
 
-&emsp;“(2) the head of any other appropriate Federal agency may provide to the Commission such advice and assistance, with or without reimbursement, as are appropriate to assist the Commission in carrying out the duties of the Commission.
+&emsp;“(2) the head of any other appropriate Federal agency may provide to the Commission such adviceand assistance, with or without reimbursement, as are appropriate to assist the Commission in carrying out the duties of the Commission.
 
 “(j)
 

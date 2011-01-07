@@ -30,7 +30,7 @@
 
 &emsp;(D) the operator's proposal is reasonable to meet the future cable-related community needs and interests, taking into account the cost of meeting such needs and interests.
 
-(2) In any proceeding under paragraph (1), the cable operator shall be afforded adequate noticeand the cable operator and the franchise authority, or its designee, shall be afforded fair opportunity for full participation, including the right to introduce evidence (including evidence related to issues raised in the proceeding under subsection (a) of this section), to require the production of evidence, and to question witnesses. A transcript shall be made of any such proceeding.
+(2) In any proceeding under paragraph (1), the cable operator shall be afforded adequate notice and the cable operator and the franchise authority, or its designee, shall be afforded fair opportunity for full participation, including the right to introduce evidence (including evidence related to issues raised in the proceeding under subsection (a) of this section), to require the production of evidence, and to question witnesses. A transcript shall be made of any such proceeding.
 
 (3) At the completion of a proceeding under this subsection, the franchising authority shall issue a written decision granting or denying the proposal for renewal based upon the record of such proceeding, and transmit a copy of such decision to the cable operator. Such decision shall state the reasons therefor.
 
@@ -72,7 +72,7 @@ For “the effective date of this subchapter”, referred to in subsec. (d), as 
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–385, §18(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “During the 6-month period which begins with the 36th month before the franchise expiration, the franchising authority may on its own initiative, and shall at the request of the cable operator, commence proceedings which afford the public in the franchise area appropriate notice and participation for the purpose of—
+<b>1992</b>—Subsec. (a). Pub. L. 102–385, §18(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “During the 6-month period which begins with the 36th month before the franchise expiration, the franchising authority may on its own initiative, and shall at the request of the cable operator, commence proceedings which afford the public in the franchise area appropriate notice and participation for the purpose of—
 
 &emsp;“(1) identifying the future cable-related community needs and interests; and
 

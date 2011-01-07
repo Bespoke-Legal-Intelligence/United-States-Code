@@ -16,15 +16,15 @@ The Housing Act of 1949, referred to in subsec. (a), is act July 15, 1949, ch. 3
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–273 inserted “, entity, or program” after “person” and “grant, or cooperative agreement,” after “subcontract,”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273 inserted “, entity, or program” after “person” and “grant, or cooperative agreement,” after “subcontract,”.
 
-2000—Subsec. (a). Pub. L. 106–569 inserted “or relating to any property that is security for a loan that is made or guaranteed under title V of the Housing Act of 1949,” before “shall be fined under this title”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–569 inserted “or relating to any property that is security for a loan that is made or guaranteed under title V of the Housing Act of 1949,” before “shall be fined under this title”.
 
-1997—Subsec. (a). Pub. L. 105–65 inserted “or relating to any property that is security for a mortgage note that is insured, guaranteed, acquired, or held by the Secretary of Housing and Urban Development pursuant to any Act administered by the Secretary,” after “under a contract or subcontract,”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–65 inserted “or relating to any property that is security for a mortgage note that is insured, guaranteed, acquired, or held by the Secretary of Housing and Urban Development pursuant to any Act administered by the Secretary,” after “under a contract or subcontract,”.
 
-1996—Subsec. (b)(1). Pub. L. 104–294 inserted “and” after semicolon at end.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–294 inserted “and” after semicolon at end.
 
-1994—Subsec. (b). Pub. L. 103–322 substituted “section—” for “section”, inserted “(1)” before “the term”, substituted semicolon for the period at end, and added par. (2).
+<b>1994</b>—Subsec. (b). Pub. L. 103–322 substituted “section—” for “section”, inserted “(1)” before “the term”, substituted semicolon for the period at end, and added par. (2).
 
 #### Effective Date of 1996 Amendment
 

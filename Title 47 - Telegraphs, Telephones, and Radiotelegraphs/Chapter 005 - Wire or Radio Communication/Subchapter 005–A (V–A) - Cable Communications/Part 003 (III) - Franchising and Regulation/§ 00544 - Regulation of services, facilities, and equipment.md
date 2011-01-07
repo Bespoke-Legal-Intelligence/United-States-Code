@@ -76,13 +76,13 @@ For “the effective date of this subchapter”, referred to in subsecs. (b) and
 
 #### Amendments
 
-1996—Subsec. (e). Pub. L. 104–104 substituted “No State or franchising authority may prohibit, condition, or restrict a cable system's use of any type of subscriber equipment or any transmission technology.” for “A franchising authority may require as part of a franchise (including a modification, renewal, or transfer thereof) provisions for the enforcement of the standards prescribed under this subsection. A franchising authority may apply to the Commission for a waiver to impose standards that are more stringent than the standards prescribed by the Commission under this subsection.”
+<b>1996</b>—Subsec. (e). Pub. L. 104–104 substituted “No State or franchising authority may prohibit, condition, or restrict a cable system's use of any type of subscriber equipment or any transmission technology.” for “A franchising authority may require as part of a franchise (including a modification, renewal, or transfer thereof) provisions for the enforcement of the standards prescribed under this subsection. A franchising authority may apply to the Commission for a waiver to impose standards that are more stringent than the standards prescribed by the Commission under this subsection.”
 
-1994—Subsec. (d)(2). Pub. L. 103–414, §304(a)(12), struck out designation “(A)”, inserted “of” after “restrict the viewing”, and struck out subpar. (B) which read as follows: “Subparagraph (A) shall take effect 180 days after the effective date of this subchapter.”
+<b>1994</b>—Subsec. (d)(2). Pub. L. 103–414, §304(a)(12), struck out designation “(A)”, inserted “of” after “restrict the viewing”, and struck out subpar. (B) which read as follows: “Subparagraph (A) shall take effect 180 days after the effective date of this subchapter.”
 
 Pub. L. 103–414, §303(a)(23), inserted “of” after “restrict the viewing” in subpar. (A).
 
-1992—Subsec. (b)(1). Pub. L. 102–385, §16(c)(1), inserted “, except as provided in subsection (h) of this section,” after “but may not”.
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–385, §16(c)(1), inserted “, except as provided in subsection (h) of this section,” after “but may not”.
 
 Subsec. (d)(3). Pub. L. 102–385, §15, added par. (3).
 

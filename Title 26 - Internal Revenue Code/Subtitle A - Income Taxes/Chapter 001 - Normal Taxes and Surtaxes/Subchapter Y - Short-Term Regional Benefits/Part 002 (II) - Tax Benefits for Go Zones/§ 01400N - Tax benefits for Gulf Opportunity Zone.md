@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(ii) in the case of any other bond, the Governor of such State,
 
-&emsp;&emsp;(D) such bond is issued after the date of the enactment of this section and before January 1, 2011, and
+&emsp;&emsp;(D) such bond is issued after the date of the enactment of this section and before January 1, 2012, and
 
 &emsp;&emsp;(E) no portion of the proceeds of such issue is to be used to provide any property described in section 144(c)(6)(B).
 
@@ -98,7 +98,7 @@
 
 #### (C) Termination
 
-&emsp;&emsp;This paragraph shall apply only to owner-financing provided after the date of the enactment of this paragraph and before January 1, 2011.
+&emsp;&emsp;This paragraph shall apply only to owner-financing provided after the date of the enactment of this paragraph and before January 1, 2012.
 
 #### (8) Inclusion of certain counties
 
@@ -108,7 +108,7 @@
 
 #### (1) In general
 
-&emsp;With respect to a bond described in paragraph (3), one additional advance refundingafter the date of the enactment of this section and before January 1, 2011, shall be allowed under the applicable rules of section 149(d) if—
+&emsp;With respect to a bond described in paragraph (3), one additional advance refunding after the date of the enactment of this section and before January 1, 2011, shall be allowed under the applicable rules of section 149(d) if—
 
 &emsp;&emsp;(A) the Governor of the State designates the advance refunding bond for purposes of this subsection, and
 
@@ -202,7 +202,7 @@
 
 #### (5) Time for making low-income housing credit allocations
 
-&emsp;Section 42(h)(1)(B) shall not apply to an allocation of housing credit dollar amount to a building located in the Gulf Opportunity Zone, the Rita GO Zone, or the Wilma GO Zone, if such allocation is made in 2006, 2007, or 2008, and such building is placed in service before January 1, 2011.
+&emsp;Section 42(h)(1)(B) shall not apply to an allocation of housing credit dollar amount to a building located in the Gulf Opportunity Zone, the Rita GO Zone, or the Wilma GO Zone, if such allocation is made in 2006, 2007, or 2008, and such building is placed in service before January 1, 2012.
 
 #### (6) Community development block grants not taken into account in determining if buildings are federally subsidized
 
@@ -266,7 +266,7 @@
 
 &emsp;&emsp;(A) by substituting “August 27, 2005” for “December 31, 2007” each place it appears therein,
 
-&emsp;&emsp;(B) without regard to “and before January 1, 2010” in clause (i) thereof, and
+&emsp;&emsp;(B) without regard to “and before January 1, 2013” in clause (i) thereof, and
 
 &emsp;&emsp;(C) by substituting “qualified Gulf Opportunity Zone property” for “qualified property” in clause (iv) thereof.
 
@@ -282,7 +282,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any specified Gulf Opportunity Zone extension property, paragraph\(2)(A) shall be applied without regard to clause (v) thereof.
+&emsp;&emsp;In the case of any specified Gulf Opportunity Zone extension property, paragraph (2)(A) shall be applied without regard to clause (v) thereof.
 
 #### (B) Specified Gulf Opportunity Zone extension property
 
@@ -292,17 +292,17 @@
 
 &emsp;&emsp;&emsp;(ii) which is—
 
-&emsp;&emsp;&emsp;&emsp;(I) nonresidential real property or residential rental property which is placed in service by the taxpayer on or before December 31, 2010, or
+&emsp;&emsp;&emsp;&emsp;(I) nonresidential real property or residential rental property which is placed in service by the taxpayer on or before December 31, 2011, or
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a taxpayer who places a building described in subclause (I) in service on or before December 31, 2010, property described in section 168(k)(2)(A)(i) if substantially all of the use of such property is in such building and such property is placed in service by the taxpayer not later than 90 days after such building is placed in service.
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a taxpayer who places a building described in subclause (I) in service on or before December 31, 2011, property described in section 168(k)(2)(A)(i) if substantially all of the use of such property is in such building and such property is placed in service by the taxpayer not later than 90 days after such building is placed in service.
 
 #### (C) Specified portions of the GO Zone
 
 &emsp;&emsp;For purposes of this paragraph, the term “specified portions of the GO Zone” means those portions of the GO Zone which are in any county or parish which is identified by the Secretary as being a county or parish in which hurricanes occurring during 2005 damaged (in the aggregate) more than 60 percent of the housing units in such county or parish which were occupied (determined according to the 2000 Census).
 
-#### (D) Only pre-January 1, 2010, basis of real property eligible for additional allowance
+#### (D) Only pre-January 1, 2012, basis of real property eligible for additional allowance
 
-&emsp;&emsp;In the case of property which is qualified Gulf Opportunity Zone property solely by reason of subparagraph (B)(ii)(I), paragraph (1) shall apply only to the extent of the adjusted basis thereof attributable to manufacture, construction, or production before January 1, 2010.
+&emsp;&emsp;In the case of property which is qualified Gulf Opportunity Zone property solely by reason of subparagraph (B)(ii)(I), paragraph (1) shall apply only to the extent of the adjusted basis thereof attributable to manufacture, construction, or production before January 1, 2012.
 
 #### (E) Exception for bonus depreciation property under section 168(k)
 
@@ -376,7 +376,7 @@ With respect to any qualified environmental remediation expenditure (as defined 
 
 #### (h) Increase in rehabilitation credit
 
-In the case of qualified rehabilitation expenditures (as defined in section 47(c)) paid or incurred during the period beginning on August 28, 2005, and ending on December 31, 2009, with respect to any qualified rehabilitated building or certified historic structure (as defined in section 47(c)) located in the Gulf Opportunity Zone, subsection (a) of section 47 (relating to rehabilitation credit) shall be applied—
+In the case of qualified rehabilitation expenditures (as defined in section 47(c)) paid or incurred during the period beginning on August 28, 2005, and ending on December 31, 2011, with respect to any qualified rehabilitated building or certified historic structure (as defined in section 47(c)) located in the Gulf Opportunity Zone, subsection (a) of section 47 (relating to rehabilitation credit) shall be applied—
 
 &emsp;(1) by substituting “13 percent” for “10 percent” in paragraph (1) thereof, and
 
@@ -774,7 +774,7 @@ For purposes of determining if any residential rental project meets the requirem
 
 &emsp;&emsp;&emsp;Clause (i)(II) shall not apply to any real property if the portion so dedicated is less than 100 square feet.
 
-(Added Pub. L. 109–135, title I, §101(a), Dec. 21, 2005, 119 Stat. 2579; amended Pub. L. 109–432, div. A, title I, §§107(b)(2), 120(a), (b), Dec. 20, 2006, 120 Stat. 2939, 2943; Pub. L. 110–28, title VIII, §§8221–8223, May 25, 2007, 121 Stat. 194, 195; Pub. L. 110–185, title I, §103(c)(9), (10), Feb. 13, 2008, 122 Stat. 619; Pub. L. 110–234, title XV, §15316(c)(1), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, §4(a), title XV, §15316(c)(1), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 110–289, div. C, title III, §3082(b)(1), (c)(1), July 30, 2008, 122 Stat. 2907; Pub. L. 110–343, div. C, title III, §320(a), Oct. 3, 2008, 122 Stat. 3873; Pub. L. 111–5, div. B, title I, §§1201(a)(2)(E), 1531(c)(3), Feb. 17, 2009, 123 Stat. 333, 360.)
+(Added Pub. L. 109–135, title I, §101(a), Dec. 21, 2005, 119 Stat. 2579; amended Pub. L. 109–432, div. A, title I, §§107(b)(2), 120(a), (b), Dec. 20, 2006, 120 Stat. 2939, 2943; Pub. L. 110–28, title VIII, §§8221–8223, May 25, 2007, 121 Stat. 194, 195; Pub. L. 110–185, title I, §103(c)(9), (10), Feb. 13, 2008, 122 Stat. 619; Pub. L. 110–234, title XV, §15316(c)(1), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, §4(a), title XV, §15316(c)(1), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 110–289, div. C, title III, §3082(b)(1), (c)(1), July 30, 2008, 122 Stat. 2907; Pub. L. 110–343, div. C, title III, §320(a), Oct. 3, 2008, 122 Stat. 3873; Pub. L. 111–5, div. B, title I, §§1201(a)(2)(E), 1531(c)(3), Feb. 17, 2009, 123 Stat. 333, 360; Pub. L. 111–240, title II, §2022(b)(7), Sept. 27, 2010, 124 Stat. 2558; Pub. L. 111–312, title IV, §401(d)(7), title VII, §§762(a), 763, 764(a), 765(a), Dec. 17, 2010, 124 Stat. 3306, 3323, 3324.)
 
 #### References in Text
 
@@ -798,11 +798,25 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2009—Subsec. (d)(3)(B). Pub. L. 111–5, §1201(a)(2)(E), substituted “January 1, 2010” for “January 1, 2009”.
+<b>2010</b>—Subsec. (a)(2)(D), (7)(C). Pub. L. 111–312, §764(a), substituted “January 1, 2012” for “January 1, 2011”.
+
+Subsec. (c)(5). Pub. L. 111–312, §763, substituted “January 1, 2012” for “January 1, 2011”.
+
+Subsec. (d)(3)(B). Pub. L. 111–312, §401(d)(7), substituted “January 1, 2013” for “January 1, 2011”.
+
+Pub. L. 111–240 substituted “January 1, 2011” for “January 1, 2010”.
+
+Subsec. (d)(6)(B)(ii). Pub. L. 111–312, §765(a)(1), substituted “December 31, 2011” for “December 31, 2010” in subcls. (I) and (II).
+
+Subsec. (d)(6)(D). Pub. L. 111–312, §765(a)(2), substituted “January 1, 2012” for “January 1, 2010” in heading and text.
+
+Subsec. (h). Pub. L. 111–312, §762(a), substituted “December 31, 2011” for “December 31, 2009” in introductory provisions.
+
+<b>2009</b>—Subsec. (d)(3)(B). Pub. L. 111–5, §1201(a)(2)(E), substituted “January 1, 2010” for “January 1, 2009”.
 
 Subsec. (<i>l</i>)(3)(B). Pub. L. 111–5, §1531(c)(3), substituted “, I, and J” for “and I”.
 
-2008—Subsec. (a)(8). Pub. L. 110–289, §3082(c)(1), added par. (8).
+<b>2008</b>—Subsec. (a)(8). Pub. L. 110–289, §3082(c)(1), added par. (8).
 
 Subsec. (d)(3)(A). Pub. L. 110–185, §103(c)(9)(A), substituted “December 31, 2007” for “September 10, 2001”.
 
@@ -816,7 +830,7 @@ Subsec. (h). Pub. L. 110–343 substituted “December 31, 2009” for “Decemb
 
 Subsec. (<i>l</i>)(3)(B). Pub. L. 110–246, §15316(c)(1), substituted “subparts C and I” for “subpart C”.
 
-2007—Subsec. (a)(7). Pub. L. 110–28, §8223, added par. (7).
+<b>2007</b>—Subsec. (a)(7). Pub. L. 110–28, §8223, added par. (7).
 
 Subsec. (c)(3)(A). Pub. L. 110–28, §8222(b)(1), substituted “the period beginning on January 1, 2006, and ending on December 31, 2010” for “2006, 2007, or 2008”.
 
@@ -832,11 +846,21 @@ Subsec. (c)(7). Pub. L. 110–28, §8222(c), redesignated par. (6) as (7).
 
 Subsec. (e)(2). Pub. L. 110–28, §8221, substituted “this subsection—”, subpar. (A) heading, and “The term” for “this subsection, the term” and added subpar. (B).
 
-2006—Subsec. (d)(6). Pub. L. 109–432, §120(a), added par. (6).
+<b>2006</b>—Subsec. (d)(6). Pub. L. 109–432, §120(a), added par. (6).
 
 Subsec. (e)(2). Pub. L. 109–432, §120(b), inserted “without regard to subsection (d)(6)” after “subsection (d)(2)”.
 
 Subsec. (<i>l</i>)(7)(B)(ii). Pub. L. 109–432, §107(b)(2), substituted “1397E(<i>l</i>)” for “1397E(i)”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 401(d)(7) of Pub. L. 111–312 applicable to property placed in service after Dec. 31, 2010, in taxable years ending after such date, see section 401(e)(1) of Pub. L. 111–312, set out as a note under section 168 of this title.
+
+Pub. L. 111–312, title VII, §762(b), Dec. 17, 2010, 124 Stat. 3323, provided that: “The amendment made by this section \[amending this section\] shall apply to amounts paid or incurred after December 31, 2009.”
+
+Pub. L. 111–312, title VII, §765(b), Dec. 17, 2010, 124 Stat. 3324, provided that: “The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2009.”
+
+Amendment by Pub. L. 111–240 applicable to property placed in service after Dec. 31, 2009, in taxable years ending after such date, see section 2022(c) of Pub. L. 111–240, set out as a note under section 168 of this title.
 
 #### Effective Date of 2009 Amendment
 
@@ -856,7 +880,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by section 15316(c)(1) of Pub. L. 110–246 applicable to obligations issued after June 18, 2008, see section 15316(d) of Pub. L. 110–246, set out as a note under section 54 of this title.
 
-Amendment by Pub. L. 110–185 applicable to property placed in service after December 31, 2007, in taxable years ending after such date, see section 103(d) of Pub. L. 110–185, set out as a note under section 168 of this title.
+Amendment by Pub. L. 110–185 applicable to property placed in service after Dec. 31, 2007, in taxable years ending after such date, see section 103(d) of Pub. L. 110–185, set out as a note under section 168 of this title.
 
 #### Effective Date of 2006 Amendment
 

@@ -22,11 +22,11 @@ This amendment \[see section 4\] clarifies section 155 of title 18, U.S.C., by r
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-1978—Pub. L. 95–598 substituted “cases under title 11 and receiverships” for “bankruptcy proceedings” in section catchline and in text “or case under title 11” for “, bankruptcy or reorganization proceeding”, inserted “knowingly and fraudulently” after “supervision,”, and struck out penalty provision for a judge of a United States court to knowingly approve the payment of any fees or compensation that were fixed.
+<b>1978</b>—Pub. L. 95–598 substituted “cases under title 11 and receiverships” for “bankruptcy proceedings” in section catchline and in text “or case under title 11” for “, bankruptcy or reorganization proceeding”, inserted “knowingly and fraudulently” after “supervision,”, and struck out penalty provision for a judge of a United States court to knowingly approve the payment of any fees or compensation that were fixed.
 
-1949—Act May 24, 1949, inserted references to attorneys for any party in interest in three places, and substituted “in any United States court or under its supervision” for “in or under the supervision of any court of the United States”.
+<b>1949</b>—Act May 24, 1949, inserted references to attorneys for any party in interest in three places, and substituted “in any United States court or under its supervision” for “in or under the supervision of any court of the United States”.
 
 #### Effective Date of 1978 Amendment
 

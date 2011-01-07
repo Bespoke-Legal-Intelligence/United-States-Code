@@ -104,7 +104,7 @@ For purposes of this part—
 
 #### Amendments
 
-1986—Pub. L. 99–514, §1024(a)(3), renumbered section 822 of this title as this section.
+<b>1986</b>—Pub. L. 99–514, §1024(a)(3), renumbered section 822 of this title as this section.
 
 Subsec. (a). Pub. L. 99–514, §1024(c)(7), amended subsec. (a) generally. Prior to amendment, subsec. (a), definitions, read as follows: “For purposes of this part—
 
@@ -114,7 +114,7 @@ Subsec. (a). Pub. L. 99–514, §1024(c)(7), amended subsec. (a) generally. Prio
 
 Subsec. (d). Pub. L. 99–514, §1024(c)(8), substituted “section 831” for “section 821” in pars. (1) and (2), and inserted “except in the case of discount which is original issue discount (as defined in section 1273)” at end of last sentence in par.
 
-1976—Subsec. (c)(2). Pub. L. 94–455, §1901(b)(1)(P), struck out “partially tax-exempt interest and” before “dividends received allowed by”.
+<b>1976</b>—Subsec. (c)(2). Pub. L. 94–455, §1901(b)(1)(P), struck out “partially tax-exempt interest and” before “dividends received allowed by”.
 
 Subsec. (c)(5). Pub. L. 94–455, §1901(a)(105)(A), struck out “(other than obligations of the United States issued after September 24, 1917, and originally subscribed for by the taxpayer)” after “purchase or carry obligations”.
 
@@ -124,11 +124,11 @@ Subsec. (c)(7). Pub. L. 94–455, §1901(b)(1)(R), struck out “partially tax-e
 
 Subsec. (d)(2). Pub. L. 94–455, §§1901(a)(105)(B), (b)(1)(S), 1906(b)(13)(A), struck out in subpar. (B) “or his delegate” after “Secretary” and substituted in provisions preceding subpar. (A) “and the deduction provided in subsection (c)(1)” for “, the deduction provided in subsection (c)(1), and the deduction allowed by section 242 (relating to partially tax-exempt interest)” and in provisions following subpar. (B) “No accrual” for “For taxable years beginning after December 31, 1962, no accrual”.
 
-1966—Subsecs. (e), (f). Pub. L. 89–809 redesignated subsec. (f) as (e). Former subsec. (e), dealing with foreign mutual insurance companies other than life or marine, was struck out.
+<b>1966</b>—Subsecs. (e), (f). Pub. L. 89–809 redesignated subsec. (f) as (e). Former subsec. (e), dealing with foreign mutual insurance companies other than life or marine, was struck out.
 
-1964—Subsec. (d)(2). Pub. L. 88–272 provided that for taxable years beginning after Dec. 31, 1962, no accrual of discount shall be required under par. (2) on any bond.
+<b>1964</b>—Subsec. (d)(2). Pub. L. 88–272 provided that for taxable years beginning after Dec. 31, 1962, no accrual of discount shall be required under par. (2) on any bond.
 
-1962—Pub. L. 87–834, §8(b)(1), substituted “Determination of taxable investment income” for “Determination of mutual insurance company taxable income” in section catchline.
+<b>1962</b>—Pub. L. 87–834, §8(b)(1), substituted “Determination of taxable investment income” for “Determination of mutual insurance company taxable income” in section catchline.
 
 Subsec. (a). Pub. L. 87–834, §8(b)(1), defined “taxable investment income” and “investment loss” for purposes of this part, and struck out provisions which defined “mutual insurance company taxable income” for purposes of section 821 of this title, which provisions are now contained in section 821(b) of this title.
 
@@ -138,7 +138,7 @@ Subsec. (e). Pub. L. 87–834, §8(b)(2), substituted “taxable investment inco
 
 Subsec. (f). Pub. L. 87–834, §8(b)(4), added subsec. (f). Provisions of subsec. (f) were formerly contained in section 823 of this title.
 
-1956—Subsec. (b). Act Mar. 13, 1956, §3(a)(3), principally included royalties, and the income from a trade or business other than the insurance business carried on by the insurance company in “gross investment income”.
+<b>1956</b>—Subsec. (b). Act Mar. 13, 1956, §3(a)(3), principally included royalties, and the income from a trade or business other than the insurance business carried on by the insurance company in “gross investment income”.
 
 Subsec. (c). Act Mar. 13, 1956, §3(a)(4), (5), (6), clarified the deduction for real estate expenses in par. (3), substituted in par. (6) “the sum of the items described in subsection (b) (other than paragraph (1)(D) thereof) and net premiums received. In the application of section 1212” for “the sum of interest, dividends, rents, and net premiums received. In the application of section 1211”, and inserted pars. (8) and (9).
 
@@ -148,7 +148,7 @@ Subsec. (e). Act Mar. 13, 1956, §3(a)(8), substituted “items described in sub
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1024(e) ofPub. L. 99–514, set out as a note under section 831 of this title.
+Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1024(e) of Pub. L. 99–514, set out as a note under section 831 of this title.
 
 #### Effective Date of 1976 Amendment
 

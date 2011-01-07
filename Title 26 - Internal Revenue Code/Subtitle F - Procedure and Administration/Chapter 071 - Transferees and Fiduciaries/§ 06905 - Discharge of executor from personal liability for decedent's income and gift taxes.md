@@ -16,9 +16,9 @@ For purposes of this section, the term “executor” means the executor or admi
 
 #### Amendments
 
-1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1970—Subsec. (a). Pub. L. 91–614, §101(f), substituted “9 months” for “1 year”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–614, §101(f), substituted “9 months” for “1 year”.
 
 #### Effective Date of 1970 Amendment
 

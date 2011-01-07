@@ -1,7 +1,5 @@
 Part A—Juvenile Justice and Delinquency Prevention Office
 
-<i><sup>1</sup></i><i> So in original. Probably should be “provide”.</i>
-
 
 ---
 

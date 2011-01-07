@@ -94,9 +94,9 @@ In subsection (e)(2), the words “The operator may release only the information
 
 #### Amendments
 
-1997—Pub. L. 105–102 amended directory language of Pub. L. 104–152, §2(c). See 1996 Amendment notes below.
+<b>1997</b>—Pub. L. 105–102 amended directory language of Pub. L. 104–152, §2(c). See 1996 Amendment notes below.
 
-1996—Pub. L. 104–152, §2(c), as amended by Pub. L. 105–102, substituted “Motor Vehicle” for “Automobile” in section catchline.
+<b>1996</b>—Pub. L. 104–152, §2(c), as amended by Pub. L. 105–102, substituted “Motor Vehicle” for “Automobile” in section catchline.
 
 Subsecs. (a), (b). Pub. L. 104–152, §3(a), which directed the amendment of this section by striking each reference to “Secretary of Transportation” or “Secretary” and inserting “Attorney General”, and Pub. L. 104–152, §3(b), which directed the striking of each reference to “Attorney General” and inserting “Secretary of Transportation”, were executed simultaneously, to reflect the probable intent of Congress. See below.
 

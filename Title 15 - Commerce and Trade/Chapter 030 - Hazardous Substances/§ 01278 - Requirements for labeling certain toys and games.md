@@ -108,7 +108,7 @@
 
 #### (3) Rulemaking
 
-&emsp;Notwithstanding any provision of chapter 6 of title 5 or the Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.), the Commission shall, not later than 90 days after August 14, 2008, promulgate regulations to effectuate this section with respect to catalogues and other printed material. The Commission may, under such regulations, provide a grace period of no more than 180 days for catalogues and other printed material printed prior to the effectivedate of paragraph (1) during which time distribution of such catalogues and other printed material shall not be considered a violation of such paragraph. The Commission may promulgate regulations concerning the size and placement of the cautionary statement required by paragraph (1) of this subsection as appropriate relative to the size and placement of the advertisements in such catalogues and other printed material. The Commission shall promulgate regulations that clarify the applicability of these requirements to catalogues and other printed material distributed solely between businesses and not to individual consumers.
+&emsp;Notwithstanding any provision of chapter 6 of title 5 or the Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.), the Commission shall, not later than 90 days after August 14, 2008, promulgate regulations to effectuate this section with respect to catalogues and other printed material. The Commission may, under such regulations, provide a grace period of no more than 180 days for catalogues and other printed material printed prior to the effective date of paragraph (1) during which time distribution of such catalogues and other printed material shall not be considered a violation of such paragraph. The Commission may promulgate regulations concerning the size and placement of the cautionary statement required by paragraph (1) of this subsection as appropriate relative to the size and placement of the advertisements in such catalogues and other printed material. The Commission shall promulgate regulations that clarify the applicability of these requirements to catalogues and other printed material distributed solely between businesses and not to individual consumers.
 
 #### (4) Enforcement
 
@@ -156,7 +156,7 @@ The Paperwork Reduction Act of 1980, referred to in subsec. (c)(3), is Pub. L. 9
 
 #### Amendments
 
-2008—Subsecs. (c) to (e). Pub. L. 110–314 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+<b>2008</b>—Subsecs. (c) to (e). Pub. L. 110–314 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
 #### Effective Date
 

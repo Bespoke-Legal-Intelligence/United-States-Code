@@ -16,7 +16,7 @@ For the purposes of this subchapter—
 
 #### Amendments
 
-1976—Subsec. (e). Pub. L. 94–209 substituted “includes portraits and reproductions thereof made by any means or process, whether invented or developed heretofore or hereafter” for “for purposes of this subchapter shall mean painted or sculptured likenesses”.
+<b>1976</b>—Subsec. (e). Pub. L. 94–209 substituted “includes portraits and reproductions thereof made by any means or process, whether invented or developed heretofore or hereafter” for “for purposes of this subchapter shall mean painted or sculptured likenesses”.
 
 #### Short Title
 

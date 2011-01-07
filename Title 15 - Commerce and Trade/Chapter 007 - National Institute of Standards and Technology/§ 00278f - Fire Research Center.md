@@ -64,13 +64,13 @@ A prior section 16 of act Mar. 3, 1901, as added by act Mar. 1, 1968, Pub. L. 90
 
 #### Amendments
 
-1979—Subsec. (b). Pub. L. 96–121 substituted provisions authorizing to be appropriated an amount not to exceed $5,650,000 for the fiscal year ending Sept. 30, 1980, for provisions authorizing appropriations not to exceed $1,275,000 for the transitional fiscal quarter of July 1, 1976, through Sept. 30, 1976, not to exceed $5,500,000 for the fiscal year ending Sept. 30, 1977, not to exceed $6,000,000 for the fiscal year ending Sept. 30, 1978, and not to exceed $5,600,000 for the fiscal year ending Sept. 30, 1979, and added pars. (1) and (2).
+<b>1979</b>—Subsec. (b). Pub. L. 96–121 substituted provisions authorizing to be appropriated an amount not to exceed $5,650,000 for the fiscal year ending Sept. 30, 1980, for provisions authorizing appropriations not to exceed $1,275,000 for the transitional fiscal quarter of July 1, 1976, through Sept. 30, 1976, not to exceed $5,500,000 for the fiscal year ending Sept. 30, 1977, not to exceed $6,000,000 for the fiscal year ending Sept. 30, 1978, and not to exceed $5,600,000 for the fiscal year ending Sept. 30, 1979, and added pars. (1) and (2).
 
-1978—Subsec. (a). Pub. L. 95–422, §§2(b), 3(b), in provisions preceding par. (1) substituted “United States Fire Administration” for “National Fire Prevention and Control Administration” and added par. (1)(I).
+<b>1978</b>—Subsec. (a). Pub. L. 95–422, §§2(b), 3(b), in provisions preceding par. (1) substituted “United States Fire Administration” for “National Fire Prevention and Control Administration” and added par. (1)(I).
 
 Subsec. (b). Pub. L. 95–422, §1(b), inserted provision authorizing appropriation of not to exceed $5,600,000 for the fiscal year ending Sept. 30, 1979.
 
-1976—Subsec. (b). Pub. L. 94–411 substituted provisions authorizing to be appropriated not to exceed $1,275,000 for the transitional fiscal quarter of July 1, 1976, through Sept. 30, 1976, not to exceed $5,500,000 for the fiscal year ending Sept. 30, 1977, and not to exceed $6,000,000 for the fiscal year ending Sept. 30, 1978, for provisions authorizing to be appropriated not to exceed $3,500,000 for the fiscal year ending June 30, 1975, and not to exceed $4,000,000 for the fiscal year ending June 30, 1976.
+<b>1976</b>—Subsec. (b). Pub. L. 94–411 substituted provisions authorizing to be appropriated not to exceed $1,275,000 for the transitional fiscal quarter of July 1, 1976, through Sept. 30, 1976, not to exceed $5,500,000 for the fiscal year ending Sept. 30, 1977, and not to exceed $6,000,000 for the fiscal year ending Sept. 30, 1978, for provisions authorizing to be appropriated not to exceed $3,500,000 for the fiscal year ending June 30, 1975, and not to exceed $4,000,000 for the fiscal year ending June 30, 1976.
 
 #### Termination of Advisory Councils
 

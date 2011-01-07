@@ -50,13 +50,13 @@ The second sentence states that patentability as to this requirement is not to b
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–453 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Subject matter developed by another person, which qualifies as prior art only under one or more of subsections (e), (f), and (g) of section 102 of this title, shall not preclude patentability under this section where the subject matter and the claimed invention were, at the time the invention was made, owned by the same person or subject to an obligation of assignment to the same person.”
+<b>2004</b>—Subsec. (c). Pub. L. 108–453 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Subject matter developed by another person, which qualifies as prior art only under one or more of subsections (e), (f), and (g) of section 102 of this title, shall not preclude patentability under this section where the subject matter and the claimed invention were, at the time the invention was made, owned by the same person or subject to an obligation of assignment to the same person.”
 
-1999—Subsec. (c). Pub. L. 106–113 substituted “one or more of subsections (e), (f), and (g)” for “subsection (f) or (g)”.
+<b>1999</b>—Subsec. (c). Pub. L. 106–113 substituted “one or more of subsections (e), (f), and (g)” for “subsection (f) or (g)”.
 
-1995—Pub. L. 104–41 designated first and second pars. as subsecs. (a) and (c), respectively, and added subsec. (b).
+<b>1995</b>—Pub. L. 104–41 designated first and second pars. as subsecs. (a) and (c), respectively, and added subsec. (b).
 
-1984—Pub. L. 98–622 inserted “Subject matter developed by another person, which qualifies as prior art only under subsection (f) or (g) of section 102 of this title, shall not preclude patentability under this section where the subject matter and the claimed invention were, at the time the invention was made, owned by the same person or subject to an obligation of assignment to the same person.”
+<b>1984</b>—Pub. L. 98–622 inserted “Subject matter developed by another person, which qualifies as prior art only under subsection (f) or (g) of section 102 of this title, shall not preclude patentability under this section where the subject matter and the claimed invention were, at the time the invention was made, owned by the same person or subject to an obligation of assignment to the same person.”
 
 #### Effective Date of 2004 Amendment
 

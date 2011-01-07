@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(vi) device similar to any of the devices described in the preceding clauses;
 
-&emsp;(B) any type of weapon (other than a shotgun or a shotgun shell which the Attorney General finds is generally recognized as particularly suitable for sporting purposes) by whatever name known which will, or which may be readily converted to, expel a projectileby the action of an explosive or other propellant, and which has any barrel with a bore of more than one-half inch in diameter; and
+&emsp;(B) any type of weapon (other than a shotgun or a shotgun shell which the Attorney General finds is generally recognized as particularly suitable for sporting purposes) by whatever name known which will, or which may be readily converted to, expel a projectile by the action of an explosive or other propellant, and which has any barrel with a bore of more than one-half inch in diameter; and
 
 &emsp;(C) any combination of parts either designed or intended for use in converting any device into any destructive device described in subparagraph (A) or (B) and from which a destructive device may be readily assembled.
 
@@ -34,7 +34,7 @@
 
 (6) The term “short-barreled shotgun” means a shotgun having one or more barrels less than eighteen inches in length and any weapon made from a shotgun (whether by alteration, modification or otherwise) if such a weapon as modified has an overall length of less than twenty-six inches.
 
-(7) The term “rifle” means a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy of an explosive to fire only a single projectile through a rifled bore for each single pull of the trigger.
+(7) The term “rifle” means a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy ofan explosive to fire only a single projectile through a rifled bore for each single pull of the trigger.
 
 (8) The term “short-barreled rifle” means a rifle having one or more barrels less than sixteen inches in length and any weapon made from a rifle (whether by alteration, modification, or otherwise) if such weapon, as modified, has an overall length of less than twenty-six inches.
 
@@ -128,7 +128,7 @@
 
 (27) The term “motor vehicle” has the meaning given such term in section 13102 of title 49, United States Code.
 
-(28) The term “semiautomatic rifle” means any repeating rifle which utilizes a portion ofthe energy of a firing cartridge to extract the fired cartridge case and chamber the next round, and which requires a separate pull of the trigger to fire each cartridge.
+(28) The term “semiautomatic rifle” means any repeating rifle which utilizes a portion of the energy of a firing cartridge to extract the fired cartridge case and chamber the next round, and which requires a separate pull of the trigger to fire each cartridge.
 
 (29) The term “handgun” means—
 
@@ -178,9 +178,9 @@ For definition of Canal Zone, referred to in subsec. (a)(2), see section 3602(b)
 
 #### Amendments
 
-2006—Subsec. (a)(33)(A)(i). Pub. L. 109–162, which directed the general amendment of “section 921(33)(A)(i) of title 18”, was executed to par. (33)(A)(i) of subsec. (a), to reflect the probable intent of Congress. Prior to amendment, cl. (i) read as follows: “is a misdemeanor under Federal or State law; and”.
+<b>2006</b>—Subsec. (a)(33)(A)(i). Pub. L. 109–162, which directed the general amendment of “section 921(33)(A)(i) of title 18”, was executed to par. (33)(A)(i) of subsec. (a), to reflect the probable intent of Congress. Prior to amendment, cl. (i) read as follows: “is a misdemeanor under Federal or State law; and”.
 
-2002—Subsec. (a)(4). Pub. L. 107–296, §1112(f)(2), substituted “Attorney General” for “Secretary of the Treasury” in concluding provisions.
+<b>2002</b>—Subsec. (a)(4). Pub. L. 107–296, §1112(f)(2), substituted “Attorney General” for “Secretary of the Treasury” in concluding provisions.
 
 Subsec. (a)(4)(B). Pub. L. 107–296, §1112(f)(1), substituted “Attorney General” for “Secretary”.
 
@@ -192,7 +192,7 @@ Subsec. (a)(19). Pub. L. 107–296, §1112(f)(6), substituted “Attorney Genera
 
 Subsec. (a)(35). Pub. L. 107–273 added par. (35).
 
-1998—Subsec. (a)(5). Pub. L. 105–277, §101(h) \[title I, §115(1)\], substituted “an explosive” for “the explosive in a fixed shotgun shell”.
+<b>1998</b>—Subsec. (a)(5). Pub. L. 105–277, §101(h) \[title I, §115(1)\], substituted “an explosive” for “the explosive in a fixed shotgun shell”.
 
 Subsec. (a)(7). Pub. L. 105–277, §101(h) \[title I, §115(2)\], substituted “an explosive” for “the explosive in a fixed metallic cartridge”.
 
@@ -208,11 +208,11 @@ Subsec. (a)(16). Pub. L. 105–277, §101(h) \[title I, §115(3)\], added par. (
 
 Subsec. (a)(34). Pub. L. 105–277, §101(b) \[title I, §119(a)\], added par. (34).
 
-1996—Subsec. (a)(33). Pub. L. 104–208 added par. (33).
+<b>1996</b>—Subsec. (a)(33). Pub. L. 104–208 added par. (33).
 
-1995—Subsec. (a)(27). Pub. L. 104–88 substituted “section 13102” for “section 10102”.
+<b>1995</b>—Subsec. (a)(27). Pub. L. 104–88 substituted “section 13102” for “section 10102”.
 
-1994—Subsec. (a)(17)(B). Pub. L. 103–322, §110519, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The term ‘armor piercing ammunition’ means a projectile or projectile core which may be used in a handgun and which is constructed entirely (excluding the presence of traces of other substances) from one or a combination of tungsten alloys, steel, iron, brass, bronze, beryllium copper, or depleted uranium. Such term does not include shotgun shot required by Federal or State environmental or game regulations for hunting purposes, a frangible projectile designed for target shooting, a projectile which the Secretary finds is primarily intended to be used for sporting purposes, or any other projectile or projectile core which the Secretary finds is intended to be used for industrial purposes, including a charge used in an oil and gas well perforating device.”
+<b>1994</b>—Subsec. (a)(17)(B). Pub. L. 103–322, §110519, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The term ‘armor piercing ammunition’ means a projectile or projectile core which may be used in a handgun and which is constructed entirely (excluding the presence of traces of other substances) from one or a combination of tungsten alloys, steel, iron, brass, bronze, beryllium copper, or depleted uranium. Such term does not include shotgun shot required by Federal or State environmental or game regulations for hunting purposes, a frangible projectile designed for target shooting, a projectile which the Secretary finds is primarily intended to be used for sporting purposes, or any other projectile or projectile core which the Secretary finds is intended to be used for industrial purposes, including a charge used in an oil and gas well perforating device.”
 
 Subsec. (a)(17)(C). Pub. L. 103–322, §110519, added subpar. (C).
 
@@ -224,13 +224,13 @@ Subsec. (a)(31). Pub. L. 103–322, §110103(b), which added par. (31) defining 
 
 Subsec. (a)(32). Pub. L. 103–322, §110401(a), added par. (32).
 
-1993—Subsec. (a)(29). Pub. L. 103–159 added par. (29).
+<b>1993</b>—Subsec. (a)(29). Pub. L. 103–159 added par. (29).
 
-1990—Subsec. (a)(25) to (27). Pub. L. 101–647, §1702(b)(2), added pars. (25) to (27).
+<b>1990</b>—Subsec. (a)(25) to (27). Pub. L. 101–647, §1702(b)(2), added pars. (25) to (27).
 
 Subsec. (a)(28). Pub. L. 101–647, §2204(a), added par. (28).
 
-1986—Subsec. (a)(10). Pub. L. 99–308, §101(1), substituted “business of manufacturing” for “manufacture of”.
+<b>1986</b>—Subsec. (a)(10). Pub. L. 99–308, §101(1), substituted “business of manufacturing” for “manufacture of”.
 
 Subsec. (a)(11)(A). Pub. L. 99–308, §101(2), struck out “or ammunition” after “firearms”.
 
@@ -250,9 +250,9 @@ Pub. L. 99–308, §101(6), added par. (22).
 
 Subsec. (a)(23), (24). Pub. L. 99–308, §101(6), added pars. (23) and (24).
 
-1975—Subsec. (a)(4). Pub. L. 93–639 substituted “to use solely for sporting, recreational or cultural purposes” for “to use solely for sporting purposes”.
+<b>1975</b>—Subsec. (a)(4). Pub. L. 93–639 substituted “to use solely for sporting, recreational or cultural purposes” for “to use solely for sporting purposes”.
 
-1968—Subsec. (a). Pub. L. 90–618 inserted definitions of “collector”, “licensed collector”, and “crime punishable by imprisonment for a term exceeding one year”, amended definitions of “person”, “whoever”, “interstate or foreign commerce”, “State”, “firearm”, “destructive device”, “dealer”, “indictment”, “fugitive from justice”, “antique firearm”, “ammunition”, and “published ordinance”, and reenacted without change definitions of “shotgun”, “short-barreled shotgun”, “rifle”, “short-barreled rifle”, “importer”, “licensed importer”, “manufacturer”, “licensed manufacturer”, “licensed dealer”, “pawnbroker”, and “Secretary” or “Secretary of the Treasury”.
+<b>1968</b>—Subsec. (a). Pub. L. 90–618 inserted definitions of “collector”, “licensed collector”, and “crime punishable by imprisonment for a term exceeding one year”, amended definitions of “person”, “whoever”, “interstate or foreign commerce”, “State”, “firearm”, “destructive device”, “dealer”, “indictment”, “fugitive from justice”, “antique firearm”, “ammunition”, and “published ordinance”, and reenacted without change definitions of “shotgun”, “short-barreled shotgun”, “rifle”, “short-barreled rifle”, “importer”, “licensed importer”, “manufacturer”, “licensed manufacturer”, “licensed dealer”, “pawnbroker”, and “Secretary” or “Secretary of the Treasury”.
 
 Subsec. (b). Pub. L. 90–618 substituted provisions determining that a member of the armed forces on active duty is a resident of the State in which his permanent duty station is located for provisions defining “firearm”, “destructive device”, and “crime punishable by imprisonment for a term exceeding one year”.
 
@@ -278,7 +278,7 @@ Section 1702(b)(4) of Pub. L. 101–647 provided that: “The amendments made by
 
 #### Effective Date of 1986 Amendments; Publication and Availability of Compilation of State Laws and Published Ordinances
 
-Section 9 of Pub. L. 99–408 provided that: “The amendments made by this Act \[amending this sectionand sections 922, 923, and 929 of this title and enacting provisions set out as notes under this section\] shall take effect on the date of enactment of this Act \[Aug. 28, 1986\], except that sections 3, 4, and 5 \[amending section 923 of this title\] shall take effect on the first day of the first calendar month which begins more than ninety days after the date of the enactment of this Act.”
+Section 9 of Pub. L. 99–408 provided that: “The amendments made by this Act \[amending this section and sections 922, 923, and 929 of this title and enacting provisions set out as notes under this section\] shall take effect on the date of enactment of this Act \[Aug. 28, 1986\], except that sections 3, 4, and 5 \[amending section 923 of this title\] shall take effect on the first day of the first calendar month which begins more than ninety days after the date of the enactment of this Act.”
 
 Section 2 of Pub. L. 99–360 provided that: “This Act and the amendments made by this Act \[enacting section 926A of this title, amending this section and section 923 of this title, and repealing former section 926A of this title\], intended to amend the Firearms Owners’ Protection Act \[Pub. L. 99–308, see Short Title of 1986 Amendment note below\], shall become effective on the date on which the section they are intended to amend in such Firearms Owners’ Protection Act becomes effective \[see section 110 of Pub. L. 99–308 set out below\] and shall apply to the amendments to title 18, United States Code, made by such Act.”
 
@@ -372,7 +372,7 @@ Section 1(b) of Pub. L. 99–308 provided that: “The Congress finds that—
 
 > &emsp;require additional legislation to correct existing firearms statutes and enforcement policies; and
 
-&emsp;“(2) additional legislation is required to reaffirm the intent of the Congress, as expressed in section 101 of the Gun Control Act of 1968 \[section 101 of Pub. L. 90–618, set out below\], that ‘it is not the purpose of this title to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, or use of firearms appropriate to the purpose of hunting, trapshooting, target shooting, personal protection, or any other lawful activity, and that this title is not intended to discourage or eliminate the private ownership or use of firearms by law-abiding citizens for lawful purposes.’.”
+&emsp;“(2) additional legislation is required to reaffirm the intent of the Congress, as expressed in section 101of the Gun Control Act of 1968 \[section 101 of Pub. L. 90–618, set out below\], that ‘it is not the purpose of this title to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, or use of firearms appropriate to the purpose of hunting, trapshooting, target shooting, personal protection, or any other lawful activity, and that this title is not intended to discourage or eliminate the private ownership or use of firearms by law-abiding citizens for lawful purposes.’.”
 
 Section 101 of title I of Pub. L. 90–618 provided that: “The Congress hereby declares that the purposes of this title \[amending this chapter\] is to provide support to Federal, State, and local law enforcement officials in their fight against crime and violence, and it is not the purpose of this title to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, or use of firearms appropriate to the purpose of hunting, trapshooting, target shooting, personal protection, or any other lawful activity, and that this title is not intended to discourage or eliminate the private ownership or use of firearms by law-abiding citizens for lawful purposes, or provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title.”
 
@@ -398,7 +398,7 @@ Section 901 of title IV of Pub. L. 90–351 provided that:
 
 &emsp;“(9) that the existing licensing system under the Federal Firearms Act \[former sections 901 to 910 of Title 15, Commerce and Trade\] does not provide adequate license fees or proper standards for the granting or denial of licenses, and that this has led to licenses being issued to persons not reasonably entitled thereto, thus distorting the purposes of the licensing system.
 
-“(b) The Congress further hereby declares that the purpose of this title \[enacting this chapter and repealing sections 901 to 910 of Title 15, Commerce and Trade\] is to cope with the conditions referred to in the foregoing subsection, and that it is not the purpose of this title \[enacting this chapter and repealing sections 901 to 910 of Title 15\] to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, or use of firearms appropriate to the purpose of hunting, trap shooting, target shooting, personal protection, or any other lawful activity, and that this title \[enacting this chapter and repealing sections 901 to 910 of Title 15\] is not intended to discourage or eliminate the private ownership or use of firearms by law-abiding citizens for lawful purposes, or provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implementand effectuate the provisions of this title \[enacting this chapter and repealing sections 901 to 910 of Title 15\].”
+“(b) The Congress further hereby declares that the purpose of this title \[enacting this chapter and repealing sections 901 to 910 of Title 15, Commerce and Trade\] is to cope with the conditions referred to in the foregoing subsection, and that it is not the purpose of this title \[enacting this chapter and repealing sections 901 to 910 of Title 15\] to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, or use of firearms appropriate to the purpose of hunting, trap shooting, target shooting, personal protection, or any other lawful activity, and that this title \[enacting this chapter and repealing sections 901 to 910 of Title 15\] is not intended to discourage or eliminate the private ownership or use of firearms by law-abiding citizens for lawful purposes, or provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title \[enacting this chapter and repealing sections 901 to 910 of Title 15\].”
 
 #### Administration and Enforcement
 

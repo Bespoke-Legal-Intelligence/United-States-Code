@@ -306,7 +306,7 @@ This amends 49:60101 for consistency with the style of title 49.
 
 #### References in Text
 
-The Natural Gas Act, referred to in subsecs. (a)(1)(A)(ii), (6)(B), (9) and (b)(1)(B)(ii), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
+The Natural Gas Act, referred to in subsecs. (a)(1)(A)(ii), (6)(B), (9) and (b)(1)(B)(ii), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§717 et seq.) of Title 15, Commerce andTrade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
 
 #### Codification
 
@@ -314,11 +314,11 @@ The amendments by section 4(s) of Pub. L. 103–272 to pars. (21) and (22) of su
 
 #### Amendments
 
-2006—Subsec. (a)(6). Pub. L. 109–468, §7(1), added par. (6) and struck out former par. (6) which defined “interstate gas pipeline facility”.
+<b>2006</b>—Subsec. (a)(6). Pub. L. 109–468, §7(1), added par. (6) and struck out former par. (6) which defined “interstate gas pipeline facility”.
 
 Subsec. (a)(9). Pub. L. 109–468, §7(2), added par. (9) and struck out former par. (9) which defined “intrastate gas pipeline facility”.
 
-1996—Subsec. (a). Pub. L. 104–287 inserted heading.
+<b>1996</b>—Subsec. (a). Pub. L. 104–287 inserted heading.
 
 Subsec. (a)(1) to (20). Pub. L. 104–304, §3(a)(1), substituted semicolon for period at end of pars. (1) to (20).
 
@@ -334,7 +334,7 @@ Subsec. (b)(1)(A). Pub. L. 104–304, §20(f), substituted “prescribe standard
 
 Subsec. (b)(2)(A). Pub. L. 104–304, §§3(b), 20(f), inserted “, if appropriate,” after “Not later than October 24, 1995, the Secretary” and substituted “prescribe standards defining” for “define by regulation”.
 
-1994—Subsec. (a)(21), (22). Pub. L. 103–272, §4(s), amended pars. (21) and (22) generally. Prior to amendment, pars. (21) and (22) defined “transporting gas” and “transporting hazardous liquid”.
+<b>1994</b>—Subsec. (a)(21), (22). Pub. L. 103–272, §4(s), amended pars. (21) and (22) generally. Prior to amendment, pars. (21) and (22) defined “transporting gas” and “transporting hazardous liquid”.
 
 #### Effective Date of 1994 Amendment
 
@@ -420,7 +420,7 @@ Memorandum of Understanding.—
 
 &emsp;“(1)
 
-In general.—Not later than 120 days after the date of enactment of this Act \[Dec. 17, 2002\], the heads of the participating agencies shall enter into a memorandum of understanding detailing their respective responsibilities in the program authorized by subsection (a).
+In general.—Not later than 120 days after the date of enactment of this Act \[Dec. 17, 2002\], theheads of the participating agencies shall enter into a memorandum of understanding detailing their respective responsibilities in the program authorized by subsection (a).
 
 &emsp;“(2)
 

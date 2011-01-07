@@ -34,5 +34,5 @@ In this chapter:
 
 #### Amendments
 
-2008—Par. (1)(A). Pub. L. 110–346 substituted “Foreign Affairs” for “International Relations”.
+<b>2008</b>—Par. (1)(A). Pub. L. 110–346 substituted “Foreign Affairs” for “International Relations”.
 

@@ -56,15 +56,15 @@ Section 3001(c) of subtitle A of title III of the Employee Retirement Income Sec
 
 #### Amendments
 
-1986—Subsec. (c). Pub. L. 99–514 substituted “plan, or” for “plan,, or”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted “plan, or” for “plan,, or”.
 
-1984—Subsec. (c)(3). Pub. L. 98–369 struck out par. (3) which included a bond purchase plan described in section 405(a) within the term “retirement plan”.
+<b>1984</b>—Subsec. (c)(3). Pub. L. 98–369 struck out par. (3) which included a bond purchase plan described in section 405(a) within the term “retirement plan”.
 
-1978—Subsec. (a). Pub. L. 95–600, §701(dd)(1), inserted provision relating to revocation of qualification.
+<b>1978</b>—Subsec. (a). Pub. L. 95–600, §701(dd)(1), inserted provision relating to revocation of qualification.
 
 Subsecs. (c) to (e). Pub. L. 95–600, §336(b)(2)(A), redesignated subsecs. (d) and (e) as (c) and (d), respectively. Former subsec. (c), which authorized the chief judge to assign proceedings under this section or section 7428 to be heard by the commissioners of the court, was struck out.
 
-1976—Pub. L. 94–455, §1042(d)(2)(C), inserted “relating to qualification of certain retirement plans” after “Declaratory judgments” in section catchline.
+<b>1976</b>—Pub. L. 94–455, §1042(d)(2)(C), inserted “relating to qualification of certain retirement plans” after “Declaratory judgments” in section catchline.
 
 Subsec. (a). Pub. L. 94–455, §§1906(a)(48), (b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing, and “United States” after “appropriate pleading, the” in provisions following par. (2).
 

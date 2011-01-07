@@ -68,7 +68,7 @@ No deficiency dividend deduction shall be allowed under subsection (a) if the de
 
 #### Amendments
 
-1976—Subsecs. (c)(3), (e), (g). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (c)(3), (e), (g). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 Subsec. (h). Pub. L. 94–455, §1901(a)(78), struck out subsec. (h) relating to the effective date of provisions concerning deduction of deficiency dividends.
 

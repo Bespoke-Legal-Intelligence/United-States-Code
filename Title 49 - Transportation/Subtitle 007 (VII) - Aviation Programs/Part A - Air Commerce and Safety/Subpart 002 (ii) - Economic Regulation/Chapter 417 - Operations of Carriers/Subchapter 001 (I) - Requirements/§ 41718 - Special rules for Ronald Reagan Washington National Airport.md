@@ -68,7 +68,7 @@ Commuters Defined.—For purposes of aircraft operations at Ronald Reagan Washin
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–176, §425(a), substituted “24 exemptions” for “12 exemptions” in introductory provisions.
+<b>2003</b>—Subsec. (a). Pub. L. 108–176, §425(a), substituted “24 exemptions” for “12 exemptions” in introductory provisions.
 
 Subsec. (b). Pub. L. 108–176, §425(b), in introductory provisions, substituted “20 exemptions” for “12 exemptions” and struck out “that were designated as medium hub or smaller airports” before “within the perimeter established”.
 

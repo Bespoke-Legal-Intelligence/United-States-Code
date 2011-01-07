@@ -44,9 +44,7 @@ To enable the Council to exercise its powers, functions, and duties under this c
 
 #### References in Text
 
-The civil service laws, referred to in subsec. (b), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
-The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (e), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, as amended, which is classified principally to chapter 58 (§3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (e), is Pub. L. 95–523, Oct. 27,1978, 92 Stat. 1887, as amended, which is classified principally to chapter 58 (§3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 #### Codification
 
@@ -58,15 +56,15 @@ In subsec. (b), provisions that authorized the Council to fix the compensation o
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–523, §110(a)(1), inserted “full” after “policy to promote”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–523, §110(a)(1), inserted “full” after “policy to promote”.
 
 Subsec. (c)(4). Pub. L. 95–523, §110(a)(2), inserted “including small and larger business” after “free competitive enterprise” and inserted “full” after “and to maintain”.
 
 Subsec. (e). Pub. L. 95–523, §110(a)(3), (4), inserted in par. (1) “, and shall consult with the board or boards established under section 1022f of this title” after “as it deems advisable” and after par. (2) inserted provisions authorizing and directing the Council to seek and obtain the cooperation of executive and independent agencies in the development of specialized studies essential to its responsibilities.
 
-1961—Subsec. (f). Pub. L. 87–49 struck out provisions which limited the appropriations for salaries of the members and officers and employees of the Council to not more than $345,000 for each fiscal year.
+<b>1961</b>—Subsec. (f). Pub. L. 87–49 struck out provisions which limited the appropriations for salaries of the members and officers and employees of the Council to not more than $345,000 for each fiscal year.
 
-1949—Subsec. (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+<b>1949</b>—Subsec. (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
 #### Repeals
 
@@ -112,7 +110,7 @@ Term of the President's Economic Policy Advisory Board extended until Sept. 30, 
 
 #### Ex. Ord. No. 12835. Establishment of National Economic Council
 
-Ex. Ord. No. 12835, Jan. 25, 1993, 58 F.R. 6189, as amended by Ex. Ord. No. 13286, §27, Feb. 28, 2003, 68 F.R. 10625; Ex. Ord. No. 13499, Feb. 5, 2009, 74 F.R. 6979, provided:
+Ex. Ord. No. 12835, Jan. 25, 1993, 58 F.R. 6189, as amended by Ex. Ord. No. 13286, §27, Feb. 28, 2003, 68 F.R.10625; Ex. Ord. No. 13499, Feb. 5, 2009, 74 F.R. 6979, provided:
 
 By the authority vested in me as President of the United States by the Constitution and the laws of the United States of America, including sections 105, 107, and 301 of title 3, United States Code, it is hereby ordered as follows:
 

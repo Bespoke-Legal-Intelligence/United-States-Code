@@ -12,7 +12,7 @@ Appropriated funds available to an intelligence agency may be obligated or expen
 
 &emsp;&emsp;(A) the activity to be funded is a higher priority intelligence or intelligence-related activity;
 
-&emsp;&emsp;(B) the need for funds for such activity is based on unforseen <sup>1</sup> requirements; and
+&emsp;&emsp;(B) the use of such funds for such activity supports an emergent need, improves program effectiveness, or increases efficiency; and
 
 &emsp;&emsp;(C) the Director of National Intelligence, the Secretary of Defense, or the Attorney General, as appropriate, has notified the appropriate congressional committees of the intent to make such funds available for such activity;
 
@@ -50,19 +50,21 @@ As used in this section—
 
 &emsp;&emsp;(B) although the funds were not formally requested, the Congress both specifically authorized the appropriation of the funds for the activity and appropriated the funds for the activity.
 
-(July 26, 1947, ch. 343, title V, §504, formerly §502, as added Pub. L. 99–169, title IV, §401(a), Dec. 4, 1985, 99 Stat. 1004; renumbered §504 and amended Pub. L. 102–88, title VI, §§602(a)(1), (c)(1), 603, Aug. 14, 1991, 105 Stat. 441, 444; Pub. L. 107–306, title III, §353(b)(3)(D), Nov. 27, 2002, 116 Stat. 2402; Pub. L. 108–458, title I, §1071(a)(1)(Z), (AA), (5), Dec. 17, 2004, 118 Stat. 3689, 3690.)
+(July 26, 1947, ch. 343, title V, §504, formerly §502, as added Pub. L. 99–169, title IV, §401(a), Dec. 4, 1985, 99 Stat. 1004; renumbered §504 and amended Pub. L. 102–88, title VI, §§602(a)(1), (c)(1), 603, Aug. 14, 1991, 105 Stat. 441, 444; Pub. L. 107–306, title III, §353(b)(3)(D), Nov. 27, 2002, 116 Stat. 2402; Pub. L. 108–458, title I, §1071(a)(1)(Z), (AA), (5), Dec. 17, 2004, 118 Stat. 3689, 3690; Pub. L. 111–259, title III, §362, Oct. 7, 2010, 124 Stat. 2701.)
 
 #### Amendments
 
-2004—Subsec. (a)(2). Pub. L. 108–458, §1071(a)(5), substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
+<b>2010</b>—Subsec. (a)(3)(B). Pub. L. 111–259 amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: “the need for funds for such activity is based on unforseen requirements; and”.
+
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–458, §1071(a)(5), substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
 
 Subsec. (a)(3)(C). Pub. L. 108–458, §1071(a)(1)(Z), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 Subsec. (d)(2). Pub. L. 108–458, §1071(a)(1)(AA), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-2002—Subsec. (d)(2). Pub. L. 107–306 substituted “congressional intelligence committees” for “intelligence committees”.
+<b>2002</b>—Subsec. (d)(2). Pub. L. 107–306 substituted “congressional intelligence committees” for “intelligence committees”.
 
-1991—Subsec. (a)(2). Pub. L. 102–88, §602(c)(1), substituted “section 413b” for “section 413”.
+<b>1991</b>—Subsec. (a)(2). Pub. L. 102–88, §602(c)(1), substituted “section 413b” for “section 413”.
 
 Subsecs. (c) to (e). Pub. L. 102–88, §603, added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
@@ -105,6 +107,4 @@ Pub. L. 102–172, title VIII, §8089, Nov. 26, 1991, 105 Stat. 1193, provided t
 Pub. L. 99–169, title IV, §401(c), Dec. 4, 1985, 99 Stat. 1006, provided that the amendment made by section 401(a) of Pub. L. 99–169, enacting this section, would not apply with respect to funds appropriated to the Director of Central Intelligence under the heading “
 
 enhanced security countermeasures capabilities” in the Supplemental Appropriations Act, 1985, Pub. L. 99–88, Aug. 15, 1985, 99 Stat. 311.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “unforeseen”.</i>
 

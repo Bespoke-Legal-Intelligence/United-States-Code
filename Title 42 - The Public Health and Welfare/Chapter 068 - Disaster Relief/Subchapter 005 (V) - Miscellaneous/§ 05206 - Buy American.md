@@ -1,8 +1,8 @@
 ### §5206. Buy American
 
-#### (a) Compliance with Buy American Act
+#### (a) Compliance with chapter 83 of title 41
 
-No funds authorized to be appropriated under this Act or any amendment made by this Act may be expended by an entity unless the entity, in expending the funds, complies with the Buy American Act (41 U.S.C. 10a et seq.).
+No funds authorized to be appropriated under this Act or any amendment made by this Act may be expended by an entity unless the entity, in expending the funds, complies with chapter 83 of title 41.
 
 #### (b) Debarment of persons convicted of fraudulent use of “Made in America” labels
 
@@ -18,13 +18,13 @@ No funds authorized to be appropriated under this Act or any amendment made by t
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is Pub. L. 106–390, Oct. 30, 2000, 114 Stat. 1552, known as the Disaster Mitigation Act of 2000. For complete classification of thisAct to the Code, see Short Title of 2000 Amendment note set out under section 5121 of this title and Tables.
-
-The Buy American Act, referred to in subsec. (a), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, as amended, which is classified generally to sections 10a, 10b, and 10c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 106–390, Oct. 30, 2000, 114 Stat. 1552, known as the Disaster Mitigation Act of 2000. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 5121 of this title and Tables.
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Codification
+
+In subsec. (a), “chapter 83 of title 41” substituted for references to the Buy American Act on authority ofPub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Section was enacted as part of the Disaster Mitigation Act of 2000, and not as part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
 

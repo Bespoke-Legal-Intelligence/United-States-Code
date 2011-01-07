@@ -1,6 +1,6 @@
 ### §599B. Personnel Management demonstration <sup>1</sup> project <sup>1</sup>
 
-Notwithstanding any other provision of law, the Personnel Management Demonstration Project established under section 102 of title I of division C of the Omnibus Consolidated and Emergency Supplemental Appropriations Act for Fiscal Year 1999 (Public Law 105–277; 122 <sup>2</sup> Stat. 2681–585) shall be transferred to the Attorney General of the United States for continued use by the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice, and the Secretary of the Treasury for continued use by the Tax and Trade Bureau.
+Notwithstanding any other provision of law, the Personnel Management Demonstration Project established under section 102 of title I of division C of the Omnibus Consolidated andEmergency Supplemental Appropriations Act for Fiscal Year 1999 (Public Law 105–277; 122 <sup>2</sup> Stat. 2681–585) shall be transferred to the Attorney General of the United States for continued use by the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice, and the Secretary of the Treasury for continued use by the Tax and Trade Bureau.
 
 (Added and amended Pub. L. 109–162, title XI, §1187(b), (c)(2), Jan. 5, 2006, 119 Stat. 3127, 3128.)
 
@@ -14,5 +14,9 @@ The text of section 1115 of Pub. L. 107–296, formerly classified as section 53
 
 #### Amendments
 
-2006—Pub. L. 109–162 transferred section 1115 of Pub. L. 107–296 to this chapter, redesignated it as this section, and substituted “demonstration project” for “Demonstration Project” in the section catchline. See Codification note above.
+<b>2006</b>—Pub. L. 109–162 transferred section 1115 of Pub. L. 107–296 to this chapter, redesignated it as this section, and substituted “demonstration project” for “Demonstration Project” in the section catchline. See Codification note above.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “112”.</i>
 

@@ -1,6 +1,6 @@
 ### §316. Colocation of regional offices and medical centers
 
-(a) To provide for a more economical, efficient, and effective operation of such regional offices, the Secretary shall provide for the colocation of at least three regional offices with medical centers of the Department—
+(a) To provide for a more economical, efficient, and effective operation of such regionaloffices, the Secretary shall provide for the colocation of at least three regional offices with medical centers of the Department—
 
 &emsp;(1) on real property under the jurisdiction of the Department of Veterans Affairs at such medical centers; or
 
@@ -18,7 +18,7 @@
 
 (2) Each agreement for such a lease shall provide—
 
-&emsp;(A) that the obligation of the United States to make payments under the agreement issubject to the availability of appropriations for that purpose; and
+&emsp;(A) that the obligation of the United States to make payments under the agreement is subject to the availability of appropriations for that purpose; and
 
 &emsp;(B) that the ownership of the facility shall vest in the United States at the end of such lease.
 

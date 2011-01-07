@@ -22,7 +22,7 @@ If—
 
 (2) The lands subject to relinquishment by the State of Alaska and to conveyance to Kake Tribal Corporation and Sealaska Corporation under subsection (a) of this section are the surface and subsurface estate to approximately 1,389 acres of Federal lands depicted as “Jenny Creek-Land Selected by the State of Alaska to KTC” on the map entitled “Kake Land Exchange-2000”, dated May 2000.
 
-(3) In addition to the transfers authorized under subsection (a) of this section, the Secretary may acquire from Sealaska Corporation the subsurface estate to approximately 1,127 acres of land depicted as “KTC Land-Conservation Easement to SEAL Trust” on the map entitled “Kake Land Exchange-2000”, dated May 2000, through a land exchange for the subsurface estate to approximately 1,168 acres of Federal land in southeast Alaska that is under the administrative jurisdiction of the Secretary. Any exchange under this paragraph shall be subject to the mutual consent of the United States Forest Service and Sealaska Corporation.
+(3) In addition to the transfers authorized under subsection (a) of this section, the Secretary may acquire from Sealaska Corporation the subsurface estate to approximately 1,127 acres of land depicted as “KTC Land-Conservation Easement to SEAL Trust” on the map entitled “Kake Land Exchange-2000”, dated May 2000, through a land exchange for the subsurface estate to approximately 1,168 acres of Federal land in southeast Alaska that is under the administrative jurisdiction of the Secretary. Any exchange under this paragraph shall be subjectto the mutual consent of the United States Forest Service and Sealaska Corporation.
 
 #### (d) Withdrawal
 
@@ -67,12 +67,6 @@ There are authorized such sums as may be necessary to carry out this chapter, in
 #### References in Text
 
 The Alaska Statehood Act, referred to in subsecs. (a)(1) and (b)(1), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
-
-The mining laws and the mineral leasing laws, referred to in subsec. (d), are classified generally to Title 30, Mineral Lands and Mining.
-
-The public land laws, referred to in subsec. (d), are classified generally to this title.
-
-The geothermal leasing laws, referred to in subsec. (d), are classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining.
 
 #### Declaration of Purpose
 

@@ -2,7 +2,7 @@
 
 #### (a) Implementation of chapter objectives; status and progress of programs
 
-Within ninety days following the convening of each session of Congress, the Administrator shall submit to the Congress a report, in addition to any other report required by this chapter, on measures taken toward implementing the objective of this chapter, including, but not limited to, (1) the progress and problems associated with developing comprehensive plans under section 1252 of this title, areawide plans under section 1288 of this title, basin plans under section 1289 of this title, and plans under section 1313(e) of this title; (2) a summary of actions taken and results achieved in the field of water pollution control research, experiments, studies, and related matters by the Administrator and other Federal agencies and by other persons and agencies under Federal grants or contracts; (3) the progress and problems associated with the development of effluent limitations and recommended control techniques; (4) the status of State programs,including a detailed summary of the progress obtained as compared to that planned under State program plans for development and enforcement of water quality requirements; (5) the identification and status of enforcement actions pending or completed under this chapter during the preceding year; (6) the status of State, interstate, and local pollution control programs established pursuant to, and assisted by, this chapter; (7) a summary of the results of the survey required to be taken under section 1290 of this title; (8) his activities including recommendations under sections 1259 through 1261 of this title; and (9) all reports and recommendations made by the Water Pollution Control Advisory Board.
+Within ninety days following the convening of each session of Congress, the Administrator shall submit to the Congress a report, in addition to any other report required by this chapter, on measures taken toward implementingthe objective of this chapter, including, but not limited to, (1) the progress and problems associated with developing comprehensive plans under section 1252 of this title, areawide plans under section 1288 of this title, basin plans under section 1289 of this title, and plans under section 1313(e) of this title; (2) a summary of actions taken and results achieved in the field of water pollution control research, experiments, studies, and related matters by the Administrator and other Federal agencies and by other persons and agencies under Federal grants or contracts; (3) the progress and problems associated with the development of effluent limitations and recommended control techniques; (4) the status of State programs,including a detailed summary of the progress obtained as compared to that planned under State program plans for development and enforcement of water quality requirements; (5) the identification and status of enforcement actions pending or completed under this chapter during the preceding year; (6) the status of State, interstate, and local pollution control programs established pursuant to, and assisted by, this chapter; (7) a summary of the results of the survey required to be taken under section 1290 of this title; (8) his activities including recommendations under sections 1259 through 1261 of this title; and (9) all reports and recommendations made by the Water Pollution Control Advisory Board.
 
 #### (b) Detailed estimates and comprehensive study on costs; State estimates, survey form
 
@@ -44,21 +44,21 @@ The Administrator, in cooperation with the States, including water pollution con
 
 #### Amendments
 
-2002—Subsecs. (a) to (e). Pub. L. 107–303 repealed Pub. L. 105–362, §501(d)(1). See 1998 Amendment notes below.
+<b>2002</b>—Subsecs. (a) to (e). Pub. L. 107–303 repealed Pub. L. 105–362, §501(d)(1). See 1998 Amendment notes below.
 
-1998—Subsec. (a). Pub. L. 105–362, §501(d)(1)(A), which directed the striking out of subsec. (a), was repealed byPub. L. 107–303. See Effective Date of 2002 Amendment note below.
+<b>1998</b>—Subsec. (a). Pub. L. 105–362, §501(d)(1)(A), which directed the striking out of subsec. (a), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
 
 Subsec. (b). Pub. L. 105–362, §501(d), which directed the striking out of par. (1) designation, redesignation of subpars. (A) to (D) as pars. (1) to (4), respectively, and striking out of par. (2), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
 
 Subsecs. (c) to (e). Pub. L. 105–362, §501(d)(1)(A), which directed the striking out of subsecs. (c) to (e), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
 
-1995—Subsecs. (d), (e), (g). Pub. L. 104–66 redesignated subsecs. (e) and (g) as (d) and (e), respectively, and struck out former subsec. (d) which related to status reports on the use of municipal secondary effluent and sludge for agricultural and other purposes that utilize the nutrient value of treated wastewater effluent.
+<b>1995</b>—Subsecs. (d), (e), (g). Pub. L. 104–66 redesignated subsecs. (e) and (g) as (d) and (e), respectively, and struck out former subsec. (d) which related to status reports on the use of municipal secondary effluent and sludge for agricultural and other purposes that utilize the nutrient value of treated wastewater effluent.
 
-1987—Subsec. (g). Pub. L. 100–4 added subsec. (g).
+<b>1987</b>—Subsec. (g). Pub. L. 100–4 added subsec. (g).
 
-1977—Subsecs. (c) to (e). Pub. L. 95–217 added subsecs. (c) to (e).
+<b>1977</b>—Subsecs. (c) to (e). Pub. L. 95–217 added subsecs. (c) to (e).
 
-1974—Subsec. (b). Pub. L. 93–243 designated existing paragraph as par. (1) and cls. (1) to (4) as (A) to (D), and added par. (2).
+<b>1974</b>—Subsec. (b). Pub. L. 93–243 designated existing paragraph as par. (1) and cls. (1) to (4) as (A) to (D), and added par. (2).
 
 #### Effective Date of 2002 Amendment
 
@@ -88,7 +88,7 @@ Pub. L. 100–4, title V, §523, Feb. 4, 1987, 101 Stat. 89, directed Administra
 
 Pub. L. 100–4, title V, §524, Feb. 4, 1987, 101 Stat. 89, directed Administrator to conduct a study of dam water quality and report results of such study to Congress not later than Dec. 31, 1987.
 
-Pub. L. 100–4, title V, §525, Feb. 4, 1987, 101 Stat. 89, directed Administrator to conduct a study of pollution in Lake Pend Oreille, Idaho, and the Clark Fork River and its tributaries, Idaho, Montana, and Washington, and to report to Congress findings and recommendations.
+Pub. L. 100–4, title V, §525, Feb. 4, 1987, 101 Stat. 89, directed Administrator to conduct a study of pollution in Lake Pend Oreille, Idaho, and the Clark Fork River and its tributaries, Idaho, Montana, and Washington,and to report to Congress findings and recommendations.
 
 #### Detailed Estimates, Comprehensive Study, and Comprehensive Analysis; Report to Congress not Later Than December 31, 1982
 

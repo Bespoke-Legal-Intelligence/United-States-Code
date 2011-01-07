@@ -8,11 +8,11 @@
 
 (c) A member required to take leave under section 876a or 1182(c)(2) of this title is not entitled to any right or benefit under chapter 43 of title 38 solely because of employment during the period of such leave.
 
-(Added Pub. L. 97–81, §2(b)(1), Nov. 20, 1981, 95 Stat. 1085; amended Pub. L. 102–568, title V, §506(c)(5), Oct. 29, 1992, 106 Stat. 4341; Pub. L. 103–337, div. A, title X, §1070(e)(1), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 103–353, §2(b)(3), Oct. 13, 1994, 108 Stat. 3169; Pub. L. 104–106, div. A, title XV, §1503(a)(7), Feb. 10, 1996, 110 Stat. 511; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(4)\], Oct.30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–314, div. A, title V, §506(c), Dec. 2, 2002, 116 Stat. 2535.)
+(Added Pub. L. 97–81, §2(b)(1), Nov. 20, 1981, 95 Stat. 1085; amended Pub. L. 102–568, title V, §506(c)(5), Oct. 29, 1992, 106 Stat. 4341; Pub. L. 103–337, div. A, title X, §1070(e)(1), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 103–353, §2(b)(3), Oct. 13,1994, 108 Stat. 3169; Pub. L. 104–106, div. A, title XV, §1503(a)(7), Feb. 10, 1996, 110 Stat. 511; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(4)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–314, div. A, title V, §506(c), Dec. 2, 2002, 116 Stat. 2535.)
 
 #### Amendments
 
-2002—Pub. L. 107–314, §506(c)(2), struck out “pending review of certain court-martial convictions” at end of section catchline.
+<b>2002</b>—Pub. L. 107–314, §506(c)(2), struck out “pending review of certain court-martial convictions” at end of section catchline.
 
 Subsec. (a). Pub. L. 107–314, §506(c)(1)(A), inserted “or 1182(c)(2)” after “section 876a”.
 
@@ -20,15 +20,15 @@ Subsec. (b). Pub. L. 107–314, §506(c)(1), inserted “or 1182(c)(2)” after 
 
 Subsec. (c). Pub. L. 107–314, §506(c)(1)(A), inserted “or 1182(c)(2)” after “section 876a”.
 
-2000—Subsec. (c). Pub. L. 106–398 struck out “(1)” before “A member required” and struck out par. (2) which read as follows: “Section 974 of this title does not apply to a member required to take leave under section 876a of this title during the period of such leave.”
+<b>2000</b>—Subsec. (c). Pub. L. 106–398 struck out “(1)” before “A member required” and struck out par. (2) which read as follows: “Section 974 of this title does not apply to a member required to take leave under section 876a of this title during the period of such leave.”
 
-1996—Subsec. (c)(1). Pub. L. 104–106 substituted “chapter 43 of title 38” for “section 4301 of title 38”.
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–106 substituted “chapter 43 of title 38” for “section 4301 of title 38”.
 
-1994—Subsec. (c)(1). Pub. L. 103–353, which directed the amendment of par. (1) by substituting “chapter 43” for “section 4321”, could not be executed because intervening amendment by Pub. L. 103–337 had substituted “section 4301” for “section 4321”. See below.
+<b>1994</b>—Subsec. (c)(1). Pub. L. 103–353, which directed the amendment of par. (1) by substituting “chapter 43” for “section 4321”, could not be executed because intervening amendment by Pub. L. 103–337 had substituted “section 4301” for “section 4321”. See below.
 
 Pub. L. 103–337 substituted “4301” for “4321”.
 
-1992—Subsec. (c)(1). Pub. L. 102–568 substituted “section 4321” for “section 2021”.
+<b>1992</b>—Subsec. (c)(1). Pub. L. 102–568 substituted “section 4321” for “section 2021”.
 
 #### Effective Date of 1994 Amendment
 

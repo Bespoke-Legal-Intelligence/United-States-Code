@@ -1,18 +1,6 @@
 ### §1395ee. Practicing Physicians Advisory Council; Council for Technology and Innovation
 
-#### (a) Practicing Physicians Advisory Council
-
-#### (1) Appointment
-
-&emsp;The Secretary shall appoint, based upon nominations submitted by medical organizations representing physicians, a Practicing Physicians Advisory Council (in this subsection referred to as the “Council”) to be composed of 15 physicians, each of whom has submitted at least 250 claims for physicians’ services under this subchapter in the previous year. At least 11 of the members of the Council shall be physicians described in section 1395x(r)(1) of this title and the members of the Council shall include both participating and nonparticipating physicians and physicians practicing in rural areas and underserved urban areas.
-
-#### (2) Meetings
-
-&emsp;The Council shall meet once during each calendar quarter to discuss certain proposed changes in regulations and carrier manual instructions related to physician services identified by the Secretary. To the extent feasible and consistent with statutory deadlines, such consultation shall occur before the publication of such proposed changes.
-
-#### (3) Reimbursement of expenses
-
-&emsp;Members of the Council shall be entitled to receive reimbursement of expenses and per diem in lieu of subsistence in the same manner as other members of advisory councils appointed by the Secretary are provided such reimbursement and per diem under this subchapter.
+#### (a) Repealed. Pub. L. 111–148, title III, §3134(b)(2), Mar. 23, 2010, 124 Stat. 435
 
 #### (b) Council for Technology and Innovation
 
@@ -32,7 +20,7 @@
 
 &emsp;The Secretary shall appoint (or designate) a noncareer appointee (as defined in section 3132(a)(7) of title 5) who shall serve as the Executive Coordinator for Technology and Innovation. Such executive coordinator shall report to the Administrator of CMS, shall chair the Council, shall oversee the execution of its duties, and shall serve as a single point of contact for outside groups and entities regarding the coverage, coding, and payment processes under this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1868, as added Pub. L. 101–508, title IV, §4112, Nov. 5, 1990, 104 Stat. 1388–64; amended Pub. L. 108–173, title IX, §942(a), Dec. 8, 2003, 117 Stat. 2420.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1868, as added Pub. L. 101–508, title IV, §4112, Nov. 5, 1990, 104 Stat. 1388–64; amended Pub. L. 108–173, title IX, §942(a), Dec. 8, 2003, 117 Stat. 2420; Pub. L. 111–148, title III, §3134(b)(2), Mar. 23, 2010, 124 Stat. 435.)
 
 #### Prior Provisions
 
@@ -40,7 +28,9 @@ A prior section 1395ee, act Aug. 14, 1935, ch. 531, title XVIII, §1868, as adde
 
 #### Amendments
 
-2003—Pub. L. 108–173, §942(a)(1), inserted “; Council for Technology and Innovation” in section catchline.
+<b>2010</b>—Subsec. (a). Pub. L. 111–148 struck out subsec. (a) which related to the Practicing Physicians Advisory Council.
+
+<b>2003</b>—Pub. L. 108–173, §942(a)(1), inserted “; Council for Technology and Innovation” in section catchline.
 
 Subsec. (a). Pub. L. 108–173, §942(a)(2)–(4), inserted subsec. heading, redesignated existing provisions as par. (1), substituted “in this subsection” for “in this section”, and redesignated former subsecs. (b) and (c) as pars. (2) and (3), respectively.
 

@@ -8,5 +8,5 @@
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–209 inserted “from the Virgin Islands” before “shall be elected at large” and inserted “The Delegate from Guam shall be elected at large and by a majority of the votes cast for the office of Delegate.” before “If no candidate receives such majority”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–209 inserted “from the Virgin Islands” before “shall be elected at large” and inserted “The Delegate from Guam shall be elected at large and by a majority of the votes cast for the office of Delegate.” before “If no candidate receives such majority”.
 

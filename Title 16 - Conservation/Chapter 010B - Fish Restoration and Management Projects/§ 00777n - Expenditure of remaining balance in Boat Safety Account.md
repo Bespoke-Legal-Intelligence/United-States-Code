@@ -84,7 +84,7 @@ A prior section 15 of act Aug. 9, 1950, was renumbered section 16 and is set out
 
 #### Amendments
 
-2005—Par. (1)(A)(v). Pub. L. 109–74, §103(2), substituted “subsection (c) of that section” for “subsection (b) of that section”.
+<b>2005</b>—Par. (1)(A)(v). Pub. L. 109–74, §103(2), substituted “subsection (c) of that section” for “subsection (b) of that section”.
 
 Par. (2)(A)(v). Pub. L. 109–74, §103(1), (2), substituted “subsection (c) of that section” for “subsection (b) of this Act”.
 

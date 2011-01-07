@@ -20,11 +20,11 @@ Section was enacted as part of the National Science Foundation Authorization Act
 
 #### Amendments
 
-2007—Subsec. (c). Pub. L. 110–69 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “No more than one award shall be made under this section in any one fiscal year.”
+<b>2007</b>—Subsec. (c). Pub. L. 110–69 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “No more than one award shall be made under this section in any one fiscal year.”
 
-1998—Subsec. (a). Pub. L. 105–207 substituted “social,” for “social, social,”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–207 substituted “social,” for “social, social,”.
 
-1985—Subsec. (a). Pub. L. 99–159 substituted provisions requiring the National Science Board to periodically establish amounts and terms of grants, for provisions limiting the grant awarded to $50,000 per year for a period not exceeding three years.
+<b>1985</b>—Subsec. (a). Pub. L. 99–159 substituted provisions requiring the National Science Board to periodically establish amounts and terms of grants, for provisions limiting the grant awarded to $50,000 per year for a period not exceeding three years.
 
-1980—Subsec. (a). Pub. L. 96–516 inserted “, behavioral, social” after “engineering”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–516 inserted “, behavioral, social” after “engineering”.
 

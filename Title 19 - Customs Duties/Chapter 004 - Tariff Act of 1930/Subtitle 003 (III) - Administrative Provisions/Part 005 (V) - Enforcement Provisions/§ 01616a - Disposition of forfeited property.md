@@ -38,7 +38,7 @@ If forfeiture proceedings are discontinued or dismissed under this section—
 
 #### (d) Liability of United States after transfer
 
-The United States shall not be liable in any action relating to property transferred under this section if such action is based on an act or omission occurring after the transfer.
+The United States shall not be liable in any action relating to property transferred underthis section if such action is based on an act or omission occurring after the transfer.
 
 (June 17, 1930, ch. 497, title IV, §616, as added Pub. L. 98–573, title II, §213(a)(14), Oct. 30, 1984, 98 Stat. 2987; amended Pub. L. 99–570, title I, §1863(a), Oct. 27, 1986, 100 Stat. 3207–54; Pub. L. 100–690, title VII, §7366(a), Nov. 18, 1988, 102 Stat. 4478; Pub. L. 101–207, §3(e), Dec. 7, 1989, 103 Stat. 1834; Pub. L. 103–447, title I, §102(c), Nov. 2, 1994, 108 Stat. 4693.)
 
@@ -48,9 +48,9 @@ Another section 616 of act June 17, 1930, as added by Pub. L. 98–473, title II
 
 #### Amendments
 
-1994—Subsec. (c)(2)(C). Pub. L. 103–447 substituted “section 2291j(b) of title 22” for “section 2291(h) of title 22”.
+<b>1994</b>—Subsec. (c)(2)(C). Pub. L. 103–447 substituted “section 2291j(b) of title 22” for “section 2291(h) of title 22”.
 
-1989—Subsec. (c)(1)(B). Pub. L. 101–207, §3(e)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Transfer any of the property to any—
+<b>1989</b>—Subsec. (c)(1)(B). Pub. L. 101–207, §3(e)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Transfer any of the property to any—
 
 &emsp;“(i) other Federal agency; or
 
@@ -58,9 +58,9 @@ Another section 616 of act June 17, 1930, as added by Pub. L. 98–473, title II
 
 Subsec. (c)(3). Pub. L. 101–207, §3(e)(2), added par. (3).
 
-1988—Subsec. (c). Pub. L. 100–690 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary of the Treasury may transfer any property forfeited under this chapter to any other Federal agency or to any State or local law enforcement agency which participated directly in the seizure or forfeiture of the property.”
+<b>1988</b>—Subsec. (c). Pub. L. 100–690 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary of the Treasury may transfer any property forfeited under this chapter to any other Federal agency or to any State or local law enforcement agency which participated directly in the seizure or forfeiture of the property.”
 
-1986—Subsec. (c). Pub. L. 99–570 inserted “any other Federal agency or to” after “property forfeited under this chapter to”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–570 inserted “any other Federal agency or to” after “property forfeited under this chapter to”.
 
 #### Effective Date of 1988 Amendment
 

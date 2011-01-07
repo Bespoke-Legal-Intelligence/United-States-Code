@@ -2,7 +2,7 @@
 
 (a)
 
-Composition and Terms.—The American Battle Monuments Commission has not more than 11 members appointed by the President. The President also shall appoint one officer of the Regular Army to serve as secretary of the Commission. The members and secretary serve at the pleasure of the President. The Presidentshall fill any vacancies that occur. Notwithstanding any other law, members of the Armed Forces may be appointed members of the Commission.
+Composition and Terms.—The American Battle Monuments Commission has not more than 11 members appointed by the President. The President also shall appoint one officer of the Regular Army to serve as secretary of the Commission. The members and secretary serve at the pleasure of the President. The President shall fill any vacancies that occur. Notwithstanding any other law, members of the Armed Forces may be appointed members of the Commission.
 
 (b)
 
@@ -62,7 +62,7 @@ Subsection (c) is based on 36:122 which is from the 2d proviso in the paragraph 
 
 #### Amendments
 
-1999—Subsec. (b)(2). Pub. L. 106–117, §604(1)(A), struck out “, United States Code,” after “title 37”.
+<b>1999</b>—Subsec. (b)(2). Pub. L. 106–117, §604(1)(A), struck out “, United States Code,” after “title 37”.
 
 Subsec. (b)(3). Pub. L. 106–117, §604(1)(B), struck out “, United States Code,” after “title 5”.
 

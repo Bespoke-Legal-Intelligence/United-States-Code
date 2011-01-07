@@ -92,9 +92,9 @@ June 29, 1936, ch. 858, title XI, §1104A(e) \[§1104A formerly §1104\], as add
 
 #### Amendments
 
-2008—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(D). See 2006 Amendment note below.
+<b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(D). See 2006 Amendment note below.
 
 Subsecs. (a), (b)(2), (4). Pub. L. 110–181, §3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(D), into this section by inserting “or Administrator” after “Secretary”, except the second place appearing in subsec. (b)(2). See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-2006—Pub. L. 109–163, §3507(a)(1)(D), which directed the amendment of section 1274(e) of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment note for subsecs. (a), (b)(2), (4) and Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–163, §3507(a)(1)(D), which directed the amendment of section 1274(e) of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment note for subsecs. (a), (b)(2), (4) and Historical and Revision notes above.
 

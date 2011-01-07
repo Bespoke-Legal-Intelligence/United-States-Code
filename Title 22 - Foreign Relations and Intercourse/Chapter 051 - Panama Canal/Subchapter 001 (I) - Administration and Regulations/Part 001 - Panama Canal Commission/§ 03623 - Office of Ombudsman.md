@@ -24,5 +24,5 @@ This chapter, referred to in subsec. (c), was in the original “this Act”, me
 
 #### Amendments
 
-1996—Subsecs. (d), (e). Pub. L. 104–201 redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “The Ombudsman shall be a citizen of the United States.”
+<b>1996</b>—Subsecs. (d), (e). Pub. L. 104–201 redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “The Ombudsman shall be a citizen of the United States.”
 

@@ -6,5 +6,5 @@ There is authorized to be appropriated to carry out this subchapter such sums as
 
 #### Amendments
 
-1998—Pub. L. 105–277 made technical amendment to reference in original act which appears in text as reference to this subchapter.
+<b>1998</b>—Pub. L. 105–277 made technical amendment to reference in original act which appears in text as reference to this subchapter.
 

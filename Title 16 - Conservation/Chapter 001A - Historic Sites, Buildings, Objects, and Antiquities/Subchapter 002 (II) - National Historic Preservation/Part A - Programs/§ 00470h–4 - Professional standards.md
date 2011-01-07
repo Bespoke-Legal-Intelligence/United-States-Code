@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each Federal agency that is responsible for the protection of historic resources, includingarchaeological resources pursuant to this subchapter or any other law shall ensure each of the following—
+Each Federal agency that is responsible for the protection of historic resources, including archaeological resources pursuant to this subchapter or any other law shall ensure each of the following—
 
 &emsp;(1)(A) All actions taken by employees or contractors of such agency shall meet professional standards under regulations developed by the Secretary in consultation with the Council, other affected agencies, and the appropriate professional societies of the disciplines involved, specifically archaeology, architecture, conservation, history, landscape architecture, and planning.
 
@@ -38,7 +38,7 @@ October 30, 1992, referred to in subsec. (a)(1)(B), was in the original “the d
 
 #### Amendments
 
-2000—Subsec. (b)(3). Pub. L. 106–208 inserted closing parenthesis after “title 25”.
+<b>2000</b>—Subsec. (b)(3). Pub. L. 106–208 inserted closing parenthesis after “title 25”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “give”.</i>
 

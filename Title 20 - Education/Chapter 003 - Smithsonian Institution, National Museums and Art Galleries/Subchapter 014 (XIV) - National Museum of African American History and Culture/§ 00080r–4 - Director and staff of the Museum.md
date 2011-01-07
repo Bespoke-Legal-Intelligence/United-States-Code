@@ -20,7 +20,3 @@ The employees appointed by the Secretary under subsection (b) of this section ma
 
 (Pub. L. 108–184, §6, Dec. 16, 2003, 117 Stat. 2679.)
 
-#### References in Text
-
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (b), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-

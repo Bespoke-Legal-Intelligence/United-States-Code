@@ -8,7 +8,7 @@ There shall be transferred to the Secretary the functions of the Secretary of Ag
 
 The laws referred to in subsection (a) of this section are the following:
 
-&emsp;(1) The Act commonly known as the Virus-Serum-Toxin Act (the eighth paragraph underthe heading “Bureau of Animal Industry” in the Act of March 4, 1913; 21 U.S.C. 151 et seq.).
+&emsp;(1) The Act commonly known as the Virus-Serum-Toxin Act (the eighth paragraph under the heading “Bureau of Animal Industry” in the Act of March 4, 1913; 21 U.S.C. 151 et seq.).
 
 &emsp;(2) Section 1 of the Act of August 31, 1922 (commonly known as the Honeybee Act; 7 U.S.C. 281).
 
@@ -66,7 +66,7 @@ For purposes of this section, the term “functions” does not include any quar
 
 #### (1) Transfer of funds
 
-&emsp;Out of funds collected by fees authorized under sections 136 and 136a of title 21, the Secretary of Agriculture shall transfer, from time to time in accordance with the agreement under subsection (e) of this section, to the Secretary funds for activities carried out by the Secretary for which such fees were collected.
+&emsp;Out of funds collected by fees authorized under sections 136 and 136a of title 21, the Secretary of Agriculture shall transfer, from time to time in accordance with the agreement under subsection (e) of this section, to theSecretary funds for activities carried out by the Secretary for which such fees were collected.
 
 #### (2) Limitation
 
@@ -86,7 +86,7 @@ The Federal Seed Act, referred to in subsec. (b)(3), is act Aug. 9, 1939, ch. 61
 
 The Plant Protection Act, referred to in subsec. (b)(4), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, as amended, which is classified principally to chapter 104 (§7701 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of Title 7 and Tables.
 
-The Animal Health Protection Act, referred to in subsec. (b)(5), is subtitle E (§§10401–10418) of title X ofPub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to chapter 109 (§8301 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of Title 7 and Tables.
+The Animal Health Protection Act, referred to in subsec. (b)(5), is subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to chapter 109 (§8301 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of Title 7 and Tables.
 
 The Lacey Act Amendments of 1981, referred to in subsec. (b)(6), is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, as amended, which enacted chapter 53 (§3371 et seq.) of Title 16, Conservation, amended section 1540 of Title 16 and section 42 of Title 18, Crimes and Criminal Procedure, repealed sections 667e and 851 to 856 of Title 16 and sections 43, 44, 3054, and 3112 of Title 18, and enacted provisions set out as notes under sections 1540 and 3371 of Title 16. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of Title 16 and Tables.
 

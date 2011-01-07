@@ -14,7 +14,7 @@
 
 #### Amendments
 
-1974—Pub. L. 93–415, title V, §521, Sept. 7, 1974, 88 Stat. 1139, added chapter heading.
+<b>1974</b>—Pub. L. 93–415, title V, §521, Sept. 7, 1974, 88 Stat. 1139, added chapter heading.
 
 <i><sup>1</sup></i><i> Editorially supplied. Sections 4351 and 4352 added by Pub. L. 93–415 without corresponding enactment of chapter analysis.</i>
 

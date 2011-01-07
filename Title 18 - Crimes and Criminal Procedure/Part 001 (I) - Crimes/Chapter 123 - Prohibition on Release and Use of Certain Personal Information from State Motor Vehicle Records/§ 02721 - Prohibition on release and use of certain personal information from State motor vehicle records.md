@@ -50,7 +50,7 @@ Resale or Redisclosure.—An authorized recipient of personal information (excep
 
 (d)
 
-Waiver Procedures.—A State motor vehicle department may establish and carry out procedures under which the department or its agents, upon receiving a request for personal information that does not fall within one of the exceptions in subsection (b), may mail a copy of the request to the individual about whom the information was requested, informing such individual of the request, together with a statement to the effect that the information will not be released unless the individual waives such individual's right to privacy under this section.
+Waiver Procedures.—A State motor vehicle department may establish and carry out procedures under which the department or its agents, upon receiving a request for personal information that does not fall within one of theexceptions in subsection (b), may mail a copy of the request to the individual about whom the information was requested, informing such individual of the request, together with a statement to the effect that the information will not be released unless the individual waives such individual's right to privacy under this section.
 
 (e)
 
@@ -68,13 +68,13 @@ The Clean Air Act, referred to in subsec. (b), is act July 14, 1955, ch. 360, 69
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–346, §101(a) \[title III, §309(c)\], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in subsection (b), a State department of motor vehicles, and any officer, employee, or contractor, thereof, shall not knowingly disclose or otherwise make available to any person or entity personal information about any individual obtained by the department in connection with a motor vehicle record.”
+<b>2000</b>—Subsec. (a). Pub. L. 106–346, §101(a) \[title III, §309(c)\], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in subsection (b), a State department of motor vehicles, and any officer, employee, or contractor, thereof, shall not knowingly disclose or otherwise make available to any person or entity personal information about any individual obtained by the department in connection with a motor vehicle record.”
 
 Subsec. (b). Pub. L. 106–346, §101(a) \[title III, §309(d)\], inserted “, subject to subsection (a)(2),” before “may be disclosed” in introductory provisions.
 
 Subsec. (e). Pub. L. 106–346, §101(a) \[title III, §309(e)\], added subsec. (e).
 
-1999—Subsec. (b)(11). Pub. L. 106–69, §350(c), substituted “if the State has obtained the express consent of the person to whom such personal information pertains” for “if the motor vehicle department has provided in a clear and conspicuous manner on forms for issuance or renewal of operator's permits, titles, registrations, or identification cards, notice that personal information collected by the department may be disclosed to any business or person, and has provided in a clear and conspicuous manner on such forms an opportunity to prohibit such disclosures”.
+<b>1999</b>—Subsec. (b)(11). Pub. L. 106–69, §350(c), substituted “if the State has obtained the express consent of the person to whom such personal information pertains” for “if the motor vehicle department has provided in a clear and conspicuous manner on forms for issuance or renewal of operator's permits, titles, registrations, or identification cards, notice that personal information collected by the department may be disclosed to any business or person, and has provided in a clear and conspicuous manner on such forms an opportunity to prohibit such disclosures”.
 
 Subsec. (b)(12). Pub. L. 106–69, §350(d), substituted “if the State has obtained the express consent of the person to whom such personal information pertains” for “if the motor vehicle department has implemented methods and procedures to ensure that—
 
@@ -82,7 +82,7 @@ Subsec. (b)(12). Pub. L. 106–69, §350(d), substituted “if the State has obt
 
 &emsp;“(B) the information will be used, rented, or sold solely for bulk distribution for surveys, marketing, and solicitations, and that surveys, marketing, and solicitations will not be directed at those individuals who have requested in a timely fashion that they not be directed at them”.
 
-1996—Subsec. (b). Pub. L. 104–287, §1(1), in introductory provisions, substituted “titles I and IV of the Anti Car Theft Act of 1992, the Automobile Information Disclosure Act (15 U.S.C. 1231 et seq.), the Clean Air Act (42 U.S.C. 7401 et seq.), and chapters 301, 305, and 321–331 of title 49” for “the Automobile Information Disclosure Act, the Motor Vehicle Information and Cost Saving Act, the National Traffic and Motor Vehicle Safety Act of 1966, the Anti-Car Theft Act of 1992, and the Clean Air Act”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–287, §1(1), in introductory provisions, substituted “titles I and IV of the Anti Car Theft Act of 1992, the Automobile Information Disclosure Act (15 U.S.C. 1231 et seq.), the Clean Air Act (42 U.S.C. 7401 et seq.), and chapters 301, 305, and 321–331 of title 49” for “the Automobile Information Disclosure Act, the Motor Vehicle Information and Cost Saving Act, the National Traffic and Motor Vehicle Safety Act of 1966, the Anti-Car Theft Act of 1992, and the Clean Air Act”.
 
 Subsec. (b)(9). Pub. L. 104–287, §1(2), substituted “chapter 313 of title 49” for “the Commercial Motor Vehicle Safety Act of 1986 (49 U.S.C. App. 2710 et seq.)”.
 

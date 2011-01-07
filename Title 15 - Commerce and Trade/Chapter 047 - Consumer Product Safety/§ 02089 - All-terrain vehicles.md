@@ -52,7 +52,7 @@ Until a mandatory consumer product safety standard applicable to 3-wheeled all-t
 
 &emsp;The Commission shall issue a final rule in its proceeding entitled “Standards for All Terrain Vehicles and Ban of Three-wheeled All Terrain Vehicles”.
 
-#### (2) Categories of youth ATVS
+#### (2) Categories of youth ATVs
 
 &emsp;In the final rule, the Commission, in consultation with the National Highway Traffic Safety Administration, may provide for a multiple factor method of categorization that, at a minimum, takes into account—
 

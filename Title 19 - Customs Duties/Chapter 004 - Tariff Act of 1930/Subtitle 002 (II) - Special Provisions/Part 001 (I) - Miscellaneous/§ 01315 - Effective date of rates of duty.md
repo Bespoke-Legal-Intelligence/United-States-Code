@@ -32,29 +32,29 @@ For the effective date of title II of the Uruguay Round Agreements Act \[Pub. L.
 
 #### Amendments
 
-1994—Subsec. (d). Pub. L. 103–465 inserted “(as in effect on the day before the effective date of title II of the Uruguay Round Agreements Act) or section 1671 of this title” after “section 1303 of this title”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–465 inserted “(as in effect on the day before the effective date of title II of the Uruguay Round Agreements Act) or section 1671 of this title” after “section 1303 of this title”.
 
-1993—Subsec. (a). Pub. L. 103–182, §633(1), substituted “Customs Service by written, electronic or such other means as the Secretary by regulation shall prescribe,” for “appropriate customs officer in the form and manner prescribed by regulations of the Secretary of the Treasury,” in introductory provisions.
+<b>1993</b>—Subsec. (a). Pub. L. 103–182, §633(1), substituted “Customs Service by written, electronic or such other means as the Secretary by regulation shall prescribe,” for “appropriate customs officer in the form and manner prescribed by regulations of the Secretary of the Treasury,” in introductory provisions.
 
 Subsec. (b). Pub. L. 103–182, §633(2), substituted “custody of the Customs Service” for “customs custody”.
 
 Subsec. (c). Pub. L. 103–182, §633(3), substituted “chapter 98 of the Harmonized Tariff Schedule of the United States” for “paragraph 813”.
 
-1988—Subsec. (d). Pub. L. 100–418 inserted at end “This subsection shall not apply with respect to increases in rates of duty resulting from the enactment of the Harmonized Tariff Schedule of the United States to replace the Tariff Schedules of the United States.”
+<b>1988</b>—Subsec. (d). Pub. L. 100–418 inserted at end “This subsection shall not apply with respect to increases in rates of duty resulting from the enactment of the Harmonized Tariff Schedule of the United States to replace the Tariff Schedules of the United States.”
 
-1979—Subsec. (d). Pub. L. 96–39 amended directory language of Pub. L. 93–618, §331(c), to correct a typographical error, and did not involve any change in text. See 1975 Amendment note below.
+<b>1979</b>—Subsec. (d). Pub. L. 96–39 amended directory language of Pub. L. 93–618, §331(c), to correct a typographical error, and did not involve any change in text. See 1975 Amendment note below.
 
-1978—Subsec. (a)(3). Pub. L. 95–410, §101, added par. (3).
+<b>1978</b>—Subsec. (a)(3). Pub. L. 95–410, §101, added par. (3).
 
 Subsec. (d). Pub. L. 95–410, §204, substituted “publication in the Federal Register” for “publication in the weekly Treasury Decisions”.
 
-1975—Subsec. (d). Pub. L. 93–618, as amended by Pub. L. 96–39, inserted “or the imposition of countervailing duties under section 1303 of this title” after “antidumping duties”.
+<b>1975</b>—Subsec. (d). Pub. L. 93–618, as amended by Pub. L. 96–39, inserted “or the imposition of countervailing duties under section 1303 of this title” after “antidumping duties”.
 
-1970—Subsec. (a). Pub. L. 91–271 substituted reference to the appropriate customs officer for reference to the collector.
+<b>1970</b>—Subsec. (a). Pub. L. 91–271 substituted reference to the appropriate customs officer for reference to the collector.
 
-1953—Act Aug. 8, 1953, amended section generally by dividing section into subsections, and by changing the provisions set out as subsecs. (a) and (b) to clarify such provisions with respect to effective dates of rates of duty.
+<b>1953</b>—Act Aug. 8, 1953, amended section generally by dividing section into subsections, and by changing the provisions set out as subsecs. (a) and (b) to clarify such provisions with respect to effective dates of rates of duty.
 
-1938—Act June 25, 1938, amended section generally, among which changes it inserted provisions set out as subsecs. (c) and (d).
+<b>1938</b>—Act June 25, 1938, amended section generally, among which changes it inserted provisions set out as subsecs. (c) and (d).
 
 #### Effective Date of 1994 Amendment
 

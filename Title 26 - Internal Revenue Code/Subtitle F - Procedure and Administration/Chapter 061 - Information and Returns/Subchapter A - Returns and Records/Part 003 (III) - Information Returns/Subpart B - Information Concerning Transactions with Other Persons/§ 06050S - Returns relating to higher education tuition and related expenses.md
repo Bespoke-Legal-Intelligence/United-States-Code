@@ -78,7 +78,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 #### Amendments
 
-2002—Subsec. (a)(1). Pub. L. 107–131, §1(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “which is an eligible educational institution—
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–131, §1(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “which is an eligible educational institution—
 
 &emsp;“(A) which receives payments for qualified tuition and related expenses with respect to any individual for any calendar year; or
 
@@ -106,9 +106,9 @@ Subsec. (d). Pub. L. 107–131, §1(c)(1), struck out “or (B)” after “subp
 
 Subsec. (d)(2). Pub. L. 107–131, §1(c)(2), substituted “subparagraph (B)” for “subparagraph (C)”.
 
-2001—Subsec. (e). Pub. L. 107–16, §§412(a)(2), 901, temporarily substituted “section 221(d)(1)” for “section 221(e)(1)”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (e). Pub. L. 107–16, §§412(a)(2), 901, temporarily substituted “section 221(d)(1)” for “section 221(e)(1)”. See Effective and Termination Dates of 2001 Amendment note below.
 
-1998—Subsec. (a). Pub. L. 105–206, §6004(a)(2), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Any person—
+<b>1998</b>—Subsec. (a). Pub. L. 105–206, §6004(a)(2), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Any person—
 
 &emsp;“(1) which is an eligible educational institution which receives payments for qualified tuition and related expenses with respect to any individual for any calendar year, or
 
@@ -130,7 +130,7 @@ Subsec. (d)(2). Pub. L. 105–206, §3712(b)(1), struck out “aggregate” befo
 
 Subsec. (e). Pub. L. 105–206, §3712(b)(2), inserted “(without regard to subsection (g)(2) thereof)” after “section 25A”.
 
-1997—Subsec. (a)(2). Pub. L. 105–34, §202(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “which is engaged in a trade or business and which, in the course of such trade or business, makes payments during any calendar year to any individual which constitute reimbursements or refunds (or similar amounts) of qualified tuition and related expenses of such individual,”.
+<b>1997</b>—Subsec. (a)(2). Pub. L. 105–34, §202(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “which is engaged in a trade or business and which, in the course of such trade or business, makes payments during any calendar year to any individual which constitute reimbursements or refunds (or similar amounts) of qualified tuition and related expenses of such individual,”.
 
 Subsec. (b)(2)(A). Pub. L. 105–34, §202(c)(2)(A), inserted “or interest” after “payments”.
 
@@ -146,13 +146,13 @@ Pub. L. 107–131, §2, Jan. 16, 2002, 115 Stat. 2411, provided that: “The ame
 
 Amendment by Pub. L. 107–16 applicable with respect to any loan interest paid after Dec. 31, 2001, in taxable years ending after such date, see section 412(a)(3) of Pub. L. 107–16, set out as a note under section 221 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–206, title III, §3712(c), July 22, 1998, 112 Stat. 782, provided that: “The amendments made by this section \[amending this section\] shall apply to returns required to be filed with respect to taxable years beginning after December 31, 1998.”
 
-Amendment by section 6004(a)(2) of Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by section 6004(a)(2) of Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 

@@ -14,7 +14,7 @@ Section is comprised of second par. of section 2(a) of Pub. L. 89–448, as so d
 
 #### Amendments
 
-1966—Pub. L. 89–561, §6(2), substituted “Subject to the provisions of section 835<i>l</i> of this title, that” for “That”.
+<b>1966</b>—Pub. L. 89–561, §6(2), substituted “Subject to the provisions of section 835<i>l</i> of this title, that” for “That”.
 
 #### Transfer of Functions
 

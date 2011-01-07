@@ -26,7 +26,7 @@ The amount of the credit allowed under subsection (a) with respect to any vehicl
 
 &emsp;&emsp;&emsp;(i) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
 
-&emsp;&emsp;&emsp;(ii) the sum of the credits allowable under subpart A (other than this section and sections 23, 25D, and 30D) and section 27 for the taxable year.
+&emsp;&emsp;&emsp;(ii) the sum of the credits allowable under subpart A (other than this sectionand sections 25D and 30D) and section 27 for the taxable year.
 
 #### (d) Qualified plug-in electric vehicle
 
@@ -98,7 +98,11 @@ For purposes of this section—
 
 This section shall not apply to any vehicle acquired after December 31, 2011.
 
-(Added Pub. L. 102–486, title XIX, §1913(b)(1), Oct. 24, 1992, 106 Stat. 3019; amended Pub. L. 104–188, title I, §§1205(d)(4), 1704(j)(4)(A), Aug. 20, 1996, 110 Stat. 1776, 1881; Pub. L. 107–147, title VI, §602(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title III, §318(a), Oct. 4, 2004, 118 Stat. 1182; Pub. L. 109–58, title XIII, §1322(a)(3)(A), Aug. 8, 2005, 119 Stat. 1011; Pub. L. 111–5, div. B, title I, §1142(a), Feb. 17, 2009, 123 Stat. 328.)
+(Added Pub. L. 102–486, title XIX, §1913(b)(1), Oct. 24, 1992, 106 Stat. 3019; amended Pub. L. 104–188, title I, §§1205(d)(4), 1704(j)(4)(A), Aug. 20, 1996, 110 Stat. 1776, 1881; Pub. L. 107–147, title VI, §602(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title III, §318(a), Oct. 4, 2004, 118 Stat. 1182; Pub. L. 109–58, title XIII, §1322(a)(3)(A), Aug. 8, 2005, 119 Stat. 1011; Pub. L. 111–5, div. B, title I, §1142(a), Feb. 17, 2009, 123 Stat. 328; Pub. L. 111–148, title X, §10909(b)(2)(F), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 10909(c) of Pub. L. 111–148, see Effective and Termination Dates of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -112,11 +116,13 @@ A prior section 30 was renumbered section 41 of this title.
 
 #### Amendments
 
-2009—Pub. L. 111–5 amended section generally. Prior to amendment, section provided for credit of 10 percent of the cost of any qualified electric vehicle, subject to a $4,000 per vehicle limitation, a 75 percent reduction for any vehicle placed in service after Dec. 31, 2005, and a Dec. 31, 2006, termination date.
+<b>2010</b>—Subsec. (c)(2)(B)(ii). Pub. L. 111–148, §10909(b)(2)(F), (c), as amended by Pub. L. 111–312, temporarily substituted “25D” for “23, 25D,”. See Effective and Termination Dates of 2010 Amendment note below.
 
-2005—Subsec. (b)(3)(A). Pub. L. 109–58 substituted “section 27” for “sections 27 and 29” in introductory provisions.
+<b>2009</b>—Pub. L. 111–5 amended section generally. Prior to amendment, section provided for credit of 10 percent of the cost of any qualified electric vehicle, subject to a $4,000 per vehicle limitation, a 75 percent reductionfor any vehicle placed in service after Dec. 31, 2005, and a Dec. 31, 2006, termination date.
 
-2004—Subsec. (b)(2). Pub. L. 108–311 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In the case of any qualified electric vehicle placed in service after December 31, 2003, the credit otherwise allowable under subsection (a) (determined after the application of paragraph (1)) shall be reduced by—
+<b>2005</b>—Subsec. (b)(3)(A). Pub. L. 109–58 substituted “section 27” for “sections 27 and 29” in introductory provisions.
+
+<b>2004</b>—Subsec. (b)(2). Pub. L. 108–311 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In the case of any qualified electric vehicle placed in service after December 31, 2003, the credit otherwise allowable under subsection (a) (determined after the application of paragraph (1)) shall be reduced by—
 
 &emsp;“(A) 25 percent in the case of property placed in service in calendar year 2004,
 
@@ -124,7 +130,7 @@ A prior section 30 was renumbered section 41 of this title.
 
 &emsp;“(C) 75 percent in the case of property placed in service in calendar year 2006.”
 
-2002—Subsec. (b)(2). Pub. L. 107–147, §602(a)(1)(A), substituted “December 31, 2003,” for “December 31, 2001,” in introductory provisions.
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–147, §602(a)(1)(A), substituted “December 31, 2003,” for “December 31, 2001,” in introductory provisions.
 
 Subsec. (b)(2)(A). Pub. L. 107–147, §602(a)(1)(B), substituted “2004” for “2002”.
 
@@ -134,11 +140,17 @@ Subsec. (b)(2)(C). Pub. L. 107–147, §602(a)(1)(B), substituted “2006” for
 
 Subsec. (e). Pub. L. 107–147, §602(a)(2), substituted “December 31, 2006” for “December 31, 2004”.
 
-1996—Subsec. (b)(3)(A). Pub. L. 104–188, §1205(d)(4), substituted “sections 27 and 29” for “sections 27, 28, and 29”.
+<b>1996</b>—Subsec. (b)(3)(A). Pub. L. 104–188, §1205(d)(4), substituted “sections 27 and 29” for “sections 27, 28, and 29”.
 
 Subsec. (d)(1). Pub. L. 104–188, §1704(j)(4)(A)(i), inserted “(determined without regard to subsection (b)(3))” before period at end.
 
 Subsec. (d)(4). Pub. L. 104–188, §1704(j)(4)(A)(ii), added par. (4).
+
+#### Effective and Termination Dates of 2010 Amendment
+
+Amendment by Pub. L. 111–148 terminated applicable to taxable years beginning after Dec. 31, 2011, and section is amended to read as if such amendment had never been enacted, see section 10909(c) of Pub. L. 111–148, set out as a note under section 1 of this title.
+
+Amendment by Pub. L. 111–148 applicable to taxable years beginning after Dec. 31, 2009, see section 10909(d) of Pub. L. 111–148, set out as a note under section 1 of this title.
 
 #### Effective Date of 2009 Amendment
 

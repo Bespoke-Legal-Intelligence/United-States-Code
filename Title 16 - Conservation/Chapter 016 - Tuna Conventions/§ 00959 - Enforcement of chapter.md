@@ -6,7 +6,7 @@ The judges of the United States district courts and United States magistrate jud
 
 #### (b) Federal law enforcement agents
 
-Enforcement of the provisions of this chapter and the regulations issued pursuant thereto shall be the joint responsibility of the United States Coast Guard, the United States Department of Commerce, and the United States Customs Service. In addition, the Secretary of Commerce may designate officers and employees of the States of the United States, of the Commonwealth of Puerto Rico, and of American Samoa to carry out enforcement activities hereunder.When so designated, such officers and employees are authorized to function as Federal law enforcement agents for these purposes.
+Enforcement of the provisions of this chapter and the regulations issued pursuant thereto shall be the joint responsibility of the United States Coast Guard, the United States Department of Commerce, and the United States Customs Service. In addition, the Secretary of Commerce may designate officers and employees of the States of the United States, of the Commonwealth of Puerto Rico, and of American Samoa to carry out enforcement activities hereunder. When so designated, such officers and employees are authorized to function as Federal law enforcement agents for these purposes.
 
 #### (c) Execution of process
 
@@ -32,7 +32,7 @@ Notwithstanding the provisions of section 2464 of title 28, when a warrant of ar
 
 #### Amendments
 
-1962—Subsec. (a). Pub. L. 87–814 substituted provisions for issuance of process for provisions respecting arrest and execution of process, incorporated in subsecs. (c) and (d)(1) of this section.
+<b>1962</b>—Subsec. (a). Pub. L. 87–814 substituted provisions for issuance of process for provisions respecting arrest and execution of process, incorporated in subsecs. (c) and (d)(1) of this section.
 
 Subsec. (b). Pub. L. 87–814 substituted provisions respecting Federal law enforcement agents for provisions relating to inspections, incorporated in section 956 of this title.
 
@@ -50,7 +50,7 @@ Subsecs. (e), (f). Pub. L. 87–814 added subsecs. (e) and (f).
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

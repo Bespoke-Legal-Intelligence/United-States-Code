@@ -6,7 +6,7 @@ This chapter may be cited as the “United States Grain Standards Act”.
 
 #### Codification
 
-This chapter constitutes part B of “An act making appropriations for the Department of Agriculture for the fiscal year ending June 30, 1917, and for other purposes,” approved Aug. 11, 1916. Part A of act of Aug. 11, 1916, containing the “United States Cotton Futures Act,” was repealed by section 4 of act Feb. 10, 1939, ch. 2, 53 Stat. 1. Part C of that act contained the “United States Warehouse Act,” and is incorporated, as amended, as section 241 et seq. of this title.
+This chapter constitutes part B of “An act making appropriations for the Department of Agriculture for the fiscal year ending June 30, 1917, and for other purposes,” approved Aug. 11, 1916. Part A of act of Aug. 11,1916, containing the “United States Cotton Futures Act,” was repealed by section 4 of act Feb. 10, 1939, ch. 2, 53 Stat. 1. Part C of that act contained the “United States Warehouse Act,” and is incorporated, as amended, as section 241 et seq. of this title.
 
 Section is comprised of part of section 1 of part B of act Aug. 11, 1916. Other provisions contained in section 1 were classified to former sections 72 and 73 of this title.
 
@@ -24,7 +24,7 @@ Pub. L. 106–472, §1(a), Nov. 9, 2000, 114 Stat. 2058, provided that: “This 
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–156, §1(a), Nov. 24, 1993, 107 Stat. 1525, provided that: “This Act \[amending sections 75 to 77, 79 to79b, 79d, 84 to 87e, 87f, 87f–1, 87h, 87j, and 87k of this title, enacting provisions set out as a note under section 75 of this title, and repealing provisions set out as a note under section 79 of this title\] may be cited as the ‘United States Grain Standards Act Amendments of 1993’.”
+Pub. L. 103–156, §1(a), Nov. 24, 1993, 107 Stat. 1525, provided that: “This Act \[amending sections 75 to 77, 79 to 79b, 79d, 84 to 87e, 87f, 87f–1, 87h, 87j, and 87k of this title, enacting provisions set out as a note under section 75 of this title, and repealing provisions set out as a note under section 79 of this title\] may be cited as the ‘United States Grain Standards Act Amendments of 1993’.”
 
 #### Short Title of 1990 Amendment
 

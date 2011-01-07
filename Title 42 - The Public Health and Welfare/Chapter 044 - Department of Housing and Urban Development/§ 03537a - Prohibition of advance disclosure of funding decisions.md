@@ -58,11 +58,11 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (A) In general
 
-&emsp;&emsp;After exhausting all administrative remedies established by the Secretary under paragraph (3)(A), an employee against whom the Secretary has imposed a civil money penalty under paragraph (1) may obtain a review of the penalty and such ancillary issues (such as any administrative sanctions under 24 C.F.R. part 25) as may be addressed in the notice of determination to impose a penalty under paragraph (3)(A)(i) in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the Secretary's order or determination be modified or be set aside in whole or in part.
+&emsp;&emsp;After exhausting all administrative remedies established by the Secretary under paragraph (3)(A), an employee against whom the Secretary has imposed a civil money penalty under paragraph (1) may obtain a review of the penalty and such ancillary issues (such as any administrative sanctions under 24 C.F.R. part 25) as may be addressed in the notice of determination to impose a penalty under paragraph (3)(A)(i) in the appropriatecourt of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the Secretary's order or determination be modified or be set aside in whole or in part.
 
 #### (B) Objections not raised in hearing
 
-&emsp;&emsp;The court shall not consider any objection that was not raised in the hearing conductedpursuant to paragraph (3)(A) unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at such hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
+&emsp;&emsp;The court shall not consider any objection that was not raised in the hearing conducted pursuant to paragraph (3)(A) unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at such hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
 
 #### (C) Scope of review
 

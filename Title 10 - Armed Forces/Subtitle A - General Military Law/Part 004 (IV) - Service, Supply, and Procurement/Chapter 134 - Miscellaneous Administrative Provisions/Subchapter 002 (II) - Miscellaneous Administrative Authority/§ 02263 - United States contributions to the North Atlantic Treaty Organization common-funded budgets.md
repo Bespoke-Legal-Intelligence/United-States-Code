@@ -30,9 +30,9 @@ Fiscal year 1998 baseline limitation.—The term “fiscal year 1998 baseline li
 
 #### References in Text
 
-The resolution of ratification to the Protocols to the North Atlantic Treaty of 1949 on the Accession of Poland, Hungary, and the Czech Republic approved by the Senate on April 30, 1998, referred to in subsec. (c)(2), was adopted in the 105th Congress and is not classified to the Code. See Cong. Rec., vol. 144, p. S4217, Daily Issue, May 4, 1998.
+The resolution of ratification of the Protocols to the North Atlantic Treaty of 1949 on the Accession of Poland, Hungary, and the Czech Republic approved by the Senate on April 30, 1998, referred to in subsec. (c)(2), was adopted in the 105th Congress and is not classified to the Code. See Cong. Rec., vol. 144, pt. 5, p. 7555, Apr. 30, 1998.
 
 #### Effective Date
 
-Pub. L. 110–417, \[div. A\], title X, §1004(b), Oct. 14, 2008, 122 Stat. 4583, provided that: “The amendments made by this section \[enacting this section\] shall take effect on October 1, 2008, and shall apply to fiscal years that begin on or after that date.”
+Pub. L. 110–417, \[div. A\], title X, §1004(b), Oct. 14, 2008, 122 Stat. 4583, provided that: “The amendments madeby this section \[enacting this section\] shall take effect on October 1, 2008, and shall apply to fiscal years that begin on or after that date.”
 

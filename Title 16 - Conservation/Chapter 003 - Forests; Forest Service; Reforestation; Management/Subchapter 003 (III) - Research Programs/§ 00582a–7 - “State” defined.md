@@ -6,7 +6,7 @@ The term “State” as used in this subchapter shall include Puerto Rico, the V
 
 #### Amendments
 
-1972—Pub. L. 92–318 inserted reference to Virgin Islands and Guam.
+<b>1972</b>—Pub. L. 92–318 inserted reference to Virgin Islands and Guam.
 
 #### Effective Date of 1972 Amendment
 

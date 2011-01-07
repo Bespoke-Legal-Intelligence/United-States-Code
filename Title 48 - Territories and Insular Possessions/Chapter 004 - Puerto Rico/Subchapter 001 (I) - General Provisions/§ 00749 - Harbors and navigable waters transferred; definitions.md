@@ -14,7 +14,7 @@ A further provision of section 8 of act Mar. 2, 1917, repealing act June 11, 190
 
 #### Amendments
 
-1980—Pub. L. 96–205 inserted provisions defining terms used in this section.
+<b>1980</b>—Pub. L. 96–205 inserted provisions defining terms used in this section.
 
 #### Change of Name
 

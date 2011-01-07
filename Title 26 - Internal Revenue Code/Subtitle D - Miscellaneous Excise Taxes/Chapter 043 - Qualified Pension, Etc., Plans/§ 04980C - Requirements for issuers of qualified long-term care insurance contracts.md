@@ -60,7 +60,7 @@ The requirements of this subsection are as follows:
 
 #### (C) Definitions
 
-&emsp;&emsp;For purposes of this paragraph, the terms “model regulation” and “model Act” havethe meanings given such terms by section 7702B(g)(2)(B).
+&emsp;&emsp;For purposes of this paragraph, the terms “model regulation” and “model Act” have the meanings given such terms by section 7702B(g)(2)(B).
 
 #### (2) Delivery of policy
 

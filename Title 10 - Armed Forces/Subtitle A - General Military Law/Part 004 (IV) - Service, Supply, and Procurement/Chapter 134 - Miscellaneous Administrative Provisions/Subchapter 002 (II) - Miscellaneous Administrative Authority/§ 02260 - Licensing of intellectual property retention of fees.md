@@ -56,7 +56,7 @@ Definitions.—In this section:
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–417, §881(1), inserted “or the Secretary of Homeland Security” after “Secretary of Defense”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–417, §881(1), inserted “or the Secretary of Homeland Security” after “Secretary of Defense”.
 
 Subsecs. (c) to (e). Pub. L. 110–181, §882(a), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively. Former subsec. (e) redesignated (f).
 

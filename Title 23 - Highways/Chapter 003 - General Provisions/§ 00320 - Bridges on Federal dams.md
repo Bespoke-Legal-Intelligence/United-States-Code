@@ -16,19 +16,19 @@
 
 #### Amendments
 
-1978—Subsec. (d). Pub. L. 95–599 substituted “$65,000,000” for “$50,000,000”.
+<b>1978</b>—Subsec. (d). Pub. L. 95–599 substituted “$65,000,000” for “$50,000,000”.
 
-1976—Subsec. (d). Pub. L. 94–280 substituted “$50,000,000” for “$27,761,000”.
+<b>1976</b>—Subsec. (d). Pub. L. 94–280 substituted “$50,000,000” for “$27,761,000”.
 
-1975—Subsec. (d). Pub. L. 93–643 substituted “$27,761,000” for “$25,261,000”.
+<b>1975</b>—Subsec. (d). Pub. L. 93–643 substituted “$27,761,000” for “$25,261,000”.
 
-1973—Subsec. (d). Pub. L. 93–87 substituted “$25,261,000” for “$16,761,000”.
+<b>1973</b>—Subsec. (d). Pub. L. 93–87 substituted “$25,261,000” for “$16,761,000”.
 
-1970—Subsec. (d). Pub. L. 91–605 substituted “$16,761,000” for “$13,000,000”.
+<b>1970</b>—Subsec. (d). Pub. L. 91–605 substituted “$16,761,000” for “$13,000,000”.
 
-1964—Subsec. (b). Pub. L. 88–423 substituted “which such bridge is to be located, or the appropriate subdivision of such State, shall enter into an agreement with such agency and with” for “such State, shall enter into an agreement with such agency and with which such bridge is to be located, or the appropriate subdivision of”.
+<b>1964</b>—Subsec. (b). Pub. L. 88–423 substituted “which such bridge is to be located, or the appropriate subdivision of such State, shall enter into an agreement with such agency and with” for “such State, shall enter into an agreement with such agency and with which such bridge is to be located, or the appropriate subdivision of”.
 
-1959—Subsec. (d). Pub. L. 86–342 substituted “$13,000,000” for “$10,000,000”.
+<b>1959</b>—Subsec. (d). Pub. L. 86–342 substituted “$13,000,000” for “$10,000,000”.
 
 #### Appropriation Out of Highway Trust Fund of Sums Appropriated Under Authority of Increased Authorization
 

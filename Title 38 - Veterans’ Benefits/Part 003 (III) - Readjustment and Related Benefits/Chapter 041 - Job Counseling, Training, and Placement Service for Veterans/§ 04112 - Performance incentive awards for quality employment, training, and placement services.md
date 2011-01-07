@@ -46,7 +46,7 @@ A prior section 4112, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1247; Pub. L. 89
 
 #### Amendments
 
-2006—Subsec. (a)(1)(B). Pub. L. 109–461, §603(a)(1), inserted “and employment service offices” after “recognize eligible employees”.
+<b>2006</b>—Subsec. (a)(1)(B). Pub. L. 109–461, §603(a)(1), inserted “and employment service offices” after “recognize eligible employees”.
 
 Subsec. (c). Pub. L. 109–461, §603(b), substituted “Administration and Use of Awards” for “Relationship of Award to Grant Program and Employee Compensation” as heading.
 

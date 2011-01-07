@@ -105,37 +105,37 @@ In subsection (g), the words “Except as provided by subsections (e) and (f)”
 
 #### Amendments
 
-2006—Subsec. (d). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Subsec. (d). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
-1991—Subsec. (b). Pub. L. 102–190, §1111(b), amended table generally, adding provisions relating to Chief Warrant Officer at grade W–5.
+<b>1991</b>—Subsec. (b). Pub. L. 102–190, §1111(b), amended table generally, adding provisions relating to Chief Warrant Officer at grade W–5.
 
 Subsec. (c). Pub. L. 102–190, §605, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “An aviation cadet of the Navy, Air Force, Marine Corps, or Coast Guard is entitled to monthly basic pay at the rate of 50 percent of the basic pay of a commissioned officer in pay grade O–1 with two or less years of service computed under section 205 of this title.”
 
 Subsec. (e). Pub. L. 102–25 struck out “of this section” after “subsections (c) and (d)”.
 
-1990—Subsec. (a). Pub. L. 101–502 inserted “Assistant Secretary for Health” in fourth column of table in pay grade O–10.
+<b>1990</b>—Subsec. (a). Pub. L. 101–502 inserted “Assistant Secretary for Health” in fourth column of table in pay grade O–10.
 
-1985—Subsec. (a). Pub. L. 99–145 substituted “Rear admiral (lower half)” for “Commodore” in third column of table in pay grade O–7.
+<b>1985</b>—Subsec. (a). Pub. L. 99–145 substituted “Rear admiral (lower half)” for “Commodore” in third column of table in pay grade O–7.
 
-1984—Subsec. (a). Pub. L. 98–557 substituted “Rear admiral” for “Rear admiral (Navy) and Rear admiral (upper half)(Coast Guard and National Oceanic and Atmospheric Administration)” in third column of table in pay grade O–8, and in pay grade O–7 substituted “Commodore” for “Commodore (Navy) and Rear admiral (lower half) and commodore (Coast Guard and National Oceanic and Atmospheric Administration”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–557 substituted “Rear admiral” for “Rear admiral (Navy) and Rear admiral (upper half)(Coast Guard and National Oceanic and Atmospheric Administration)” in third column of table in pay grade O–8, and in pay grade O–7 substituted “Commodore” for “Commodore (Navy) and Rear admiral (lower half) and commodore (Coast Guard and National Oceanic and Atmospheric Administration”.
 
-1983—Subsecs. (b) to (f). Pub. L. 98–94 struck out subsec. (b) which related to basic pay for contract surgeons, redesignated subsecs. (c) to (f) as (b) to (e), respectively, and in subsec. (e), as so redesignated, substituted “subsections (c) and (d)” for “subsections (d) and (e)”.
+<b>1983</b>—Subsecs. (b) to (f). Pub. L. 98–94 struck out subsec. (b) which related to basic pay for contract surgeons, redesignated subsecs. (c) to (f) as (b) to (e), respectively, and in subsec. (e), as so redesignated, substituted “subsections (c) and (d)” for “subsections (d) and (e)”.
 
-1981—Subsec. (a). Pub. L. 97–86 substituted “Commodore” for “Commodore admiral” in third column of table in pay grade O–7.
+<b>1981</b>—Subsec. (a). Pub. L. 97–86 substituted “Commodore” for “Commodore admiral” in third column of table in pay grade O–7.
 
-1980—Subsec. (a). Pub. L. 96–513, §506(3), substituted in heading of third column of table “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration” and in third column “Rear admiral (Navy) and Rear admiral (upper half) (Coast Guard and National Oceanic and Atmospheric Administration)” for “Rear admiral (upper half)” and “Commodore admiral (Navy) and Rear admiral (lower half) and commodore (Coast Guard and National Oceanic and Atmospheric Administration)” for “Rear admiral (lower half) and commodore”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513, §506(3), substituted in heading of third column of table “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration” and in third column “Rear admiral (Navy) and Rear admiral (upper half) (Coast Guard and National Oceanic and Atmospheric Administration)” for “Rear admiral (upper half)” and “Commodore admiral (Navy) and Rear admiral (lower half) and commodore (Coast Guard and National Oceanic and Atmospheric Administration)” for “Rear admiral (lower half) and commodore”.
 
 Subsec. (f). Pub. L. 96–513, §516(2), substituted “subsection (d)” for “subsection (f)”.
 
-1979—Subsec. (a). Pub. L. 96–76 transferred the Surgeon General from pay grade O–8 to pay grade O–9 in fourth column of table.
+<b>1979</b>—Subsec. (a). Pub. L. 96–76 transferred the Surgeon General from pay grade O–8 to pay grade O–9 in fourth column of table.
 
-1977—Subsecs. (c) to (g). Pub. L. 95–79 struck out subsec. (c) which related to the monthly rate of pay of cadets and midshipmen at the service academies, and redesignated subsecs. (d) to (g) as (c) to (f), respectively.
+<b>1977</b>—Subsecs. (c) to (g). Pub. L. 95–79 struck out subsec. (c) which related to the monthly rate of pay of cadets and midshipmen at the service academies, and redesignated subsecs. (d) to (g) as (c) to (f), respectively.
 
-1970—Subsec. (e). Pub. L. 91–278 entitled aviation cadets of Coast Guard to basic pay rate.
+<b>1970</b>—Subsec. (e). Pub. L. 91–278 entitled aviation cadets of Coast Guard to basic pay rate.
 
-1966—Subsec. (a). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey” in heading of third column of table.
+<b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey” in heading of third column of table.
 
-1963—Subsec. (b). Pub. L. 88–132 substituted “O–3 with over four, but not more than six,” for “O–2 with two or less”.
+<b>1963</b>—Subsec. (b). Pub. L. 88–132 substituted “O–3 with over four, but not more than six,” for “O–2 with two or less”.
 
 #### Effective Date of 1991 Amendment
 

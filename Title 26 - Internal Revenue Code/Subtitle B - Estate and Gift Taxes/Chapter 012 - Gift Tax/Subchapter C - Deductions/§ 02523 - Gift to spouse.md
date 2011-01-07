@@ -20,7 +20,7 @@ Where the assets out of which, or the proceeds of which, the interest transferre
 
 #### (d) Joint interests
 
-If the interest is transferred to the donee spouse as sole joint tenant with the donor or as tenant by the entirety, the interest of the donor in the property which exists solely by reason of the possibility that the donor may survive the donee spouse, or that there may occur a severance of the tenancy, shall not be considered for purposes of subsection (b) as an interest retained by the donor in himself.
+If the interest is transferred to the donee spouse as sole joint tenant with the donor or as tenant by the entirety, the interest of the donor in the property which exists solely by reason of the possibility that the donor may survive thedonee spouse, or that there may occur a severance of the tenancy, shall not be considered for purposes of subsection (b) as an interest retained by the donor in himself.
 
 #### (e) Life estate with power of appointment in donee spouse
 
@@ -134,25 +134,25 @@ Sections 2515 and 2515A, referred to in subsec. (i)(3), were repealed by Pub. L.
 
 #### Amendments
 
-1997—Subsec. (g)(1). Pub. L. 105–34 substituted “qualified charitable remainder trust” for “qualified remainder trust”.
+<b>1997</b>—Subsec. (g)(1). Pub. L. 105–34 substituted “qualified charitable remainder trust” for “qualified remainder trust”.
 
-1992—Subsec. (e). Pub. L. 102–486, §1941(b)(1), in closing provisions, inserted at end “For purposes of this subsection, the term ‘specific portion’ only includes a portion determined on a fractional or percentage basis.”
+<b>1992</b>—Subsec. (e). Pub. L. 102–486, §1941(b)(1), in closing provisions, inserted at end “For purposes of this subsection, the term ‘specific portion’ only includes a portion determined on a fractional or percentage basis.”
 
 Subsec. (f)(3). Pub. L. 102–486, §1941(b)(2), inserted before period at end “and the rules of section 2056(b)(10) shall apply”.
 
-1990—Subsec. (i). Pub. L. 101–508 inserted at end “This subsection shall not apply to any transfer resulting from the acquisition of rights under a joint and survivor annuity described in subsection (f)(6).”
+<b>1990</b>—Subsec. (i). Pub. L. 101–508 inserted at end “This subsection shall not apply to any transfer resulting from the acquisition of rights under a joint and survivor annuity described in subsection (f)(6).”
 
-1989—Subsec. (a). Pub. L. 101–239, §7815(d)(2), struck out “who is a citizen or resident” after “Where a donor”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7815(d)(2), struck out “who is a citizen or resident” after “Where a donor”.
 
 Subsec. (i)(2). Pub. L. 101–239, §7815(d)(1)(A), substituted “which are made by the donor to such spouse and with respect to which a deduction would be allowable under this section but for paragraph (1)” for “made by the donor to such spouse”.
 
-1988—Subsec. (f)(6). Pub. L. 100–647, §6152(b), added par. (6).
+<b>1988</b>—Subsec. (f)(6). Pub. L. 100–647, §6152(b), added par. (6).
 
 Subsec. (i). Pub. L. 100–647, §5033(b), added subsec. (i).
 
-1986—Subsec. (f)(4)(A). Pub. L. 99–514 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “An election under this subsection with respect to any property shall be made on or before the first April 15th after the calendar year in which the interest was transferred and shall be made in such manner as the Secretary shall by regulations prescribe.”
+<b>1986</b>—Subsec. (f)(4)(A). Pub. L. 99–514 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “An election under this subsection with respect to any property shall be made on or before the first April 15th after the calendar year in which the interest was transferred and shall be made in such manner as the Secretary shall by regulations prescribe.”
 
-1983—Subsec. (f)(3). Pub. L. 97–448, §104(a)(6), substituted “rules similar to the rules of clauses (ii)” for “the rules of clauses (ii)”.
+<b>1983</b>—Subsec. (f)(3). Pub. L. 97–448, §104(a)(6), substituted “rules similar to the rules of clauses (ii)” for “the rules of clauses (ii)”.
 
 Subsec. (f)(4). Pub. L. 97–448, §104(a)(4), divided existing provisions into subpars. (A) and (B), in subpar. (A) as so designated substituted “shall be made on or before the first April 15th after the calendar year in which the interest was transferred and shall be made in such manner as the Secretary shall by regulations prescribe” for “shall be made on the return of the tax imposed by section 2501 for the calendar year in which the interest was transferred”, and in subpar. (B) as so designated substituted “An election under this subsection” for “Such an election”.
 
@@ -160,17 +160,17 @@ Subsec. (f)(5). Pub. L. 97–448, §104(a)(5), added par. (5).
 
 Subsec. (h). Pub. L. 97–448, §104(a)(2)(B), added subsec. (h).
 
-1981—Subsec. (a). Pub. L. 97–34, §403(b)(1), struck out “(1) In general” designation for existing text and struck out par. (2) which declared that the aggregate of the allowed deductions for any calendar quarter should not exceed the sum of $100,000 reduced, but not below zero, by the aggregate of the allowed deductions for preceding calendar quarters beginning after Dec. 31, 1976, plus 50 percent of the lesser of the amount of the allowed deductions for such calendar quarter, determined without regard to par. (2), or the amount, if any, by which the aggregate determined under cl. (i) of par. (2) for the calendar quarter and for each preceding calendar quarter beginning after Dec. 31, 1976, exceeds $200,000.
+<b>1981</b>—Subsec. (a). Pub. L. 97–34, §403(b)(1), struck out “(1) In general” designation for existing text and struck out par. (2) which declared that the aggregate of the allowed deductions for any calendar quarter should not exceed the sum of $100,000 reduced, but not below zero, by the aggregate of the allowed deductions for preceding calendar quarters beginning after Dec. 31, 1976, plus 50 percent of the lesser of the amount of the allowed deductions for such calendar quarter, determined without regard to par. (2), or the amount, if any, by which the aggregate determined under cl. (i) of par. (2) for the calendar quarter and for each preceding calendar quarter beginning after Dec. 31, 1976, exceeds $200,000.
 
 Subsec. (f). Pub. L. 97–34, §403(b)(2), (d)(2), substituted provision relating to election with respect to life estate for donee spouse for provision relating to community property.
 
 Subsec. (g). Pub. L. 97–34, §403(d)(2), added subsec. (g).
 
-1976—Subsec. (a). Pub. L. 94–455 designated existing provisions as par. (1), struck out “one-half of” after “interest equal to”, and added par. (2) relating to limitations on aggregate amount of deductions.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 designated existing provisions as par. (1), struck out “one-half of” after “interest equal to”, and added par. (2) relating to limitations on aggregate amount of deductions.
 
 Subsec. (f)(1). Pub. L. 94–455, §1902(a)(12)(E), struck out “Territory” after “any State”.
 
-1970—Subsec. (a). Pub. L. 91–614 substituted “quarter” for “year” in two places.
+<b>1970</b>—Subsec. (a). Pub. L. 91–614 substituted “quarter” for “year” in two places.
 
 #### Effective Date of 1992 Amendment
 
@@ -182,7 +182,7 @@ Amendment by Pub. L. 101–508 effective as if included in the provision of the 
 
 #### Effective Date of 1989 Amendment
 
-Section 7815(d)(1)(B) of Pub. L. 101–239 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply with respect to gifts made after June 29, 1989.”
+Section 7815(d)(1)(B) of Pub. L. 101–239 provided that: “The amendment made by subparagraph (A) \[amendingthis section\] shall apply with respect to gifts made after June 29, 1989.”
 
 Amendment by section 7815(d)(2) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
@@ -210,7 +210,7 @@ Section 2002(d)(2) of Pub. L. 94–455 provided that: “The amendment made by s
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) ofPub. L. 91–614, set out as a note under section 2501 of this title.
+Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) of Pub. L. 91–614, set out as a note under section 2501 of this title.
 
 #### Application of Amendments by Section 5033 of Pub. L. 100–647 to Estates of, or Gifts by, Noncitizen and Nonresident Individuals
 

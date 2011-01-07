@@ -302,7 +302,7 @@ Contents of national strategy for transportation security.—The National Strate
 
 &emsp;&emsp;(E) A comprehensive delineation of prevention, response, and recovery responsibilities and issues regarding threatened and executed acts of terrorism within the United States and threatened and executed acts of terrorism outside the United States to the extent such acts affect United States transportation systems.
 
-&emsp;&emsp;(F) A prioritization of research and development objectives that support transportation security needs, giving a higher priority to research and development directed toward protecting vital transportation assets. Transportation security research and development projects shall be based, to the extent practicable, on such prioritization. Nothing in the preceding sentence shall be construed to require the termination of any research or development project initiated by the Secretary of Homeland Security or the Secretary of Transportation before the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007.
+&emsp;&emsp;(F) A prioritization of research and development objectives that support transportation security needs, giving a higher priority to research and development directed toward protecting vital transportation assets. Transportation security research and development projects shall be based, to the extent practicable, on such prioritization. Nothing in the preceding sentence shall be construedto require the termination of any research or development project initiated by the Secretary of Homeland Security or the Secretary of Transportation before the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007.
 
 &emsp;&emsp;(G) A 3- and 10-year budget for Federal transportation security programs that will achieve the priorities of the National Strategy for Transportation Security.
 
@@ -406,7 +406,7 @@ Plan.—The term “Plan” means the Transportation Security Information Sharin
 
 &emsp;&emsp;(C)
 
-Public and private stakeholders.—The term “public and private stakeholders”means Federal, State, and local agencies, tribal governments, and appropriate private entities, including nonprofit employee labor organizations representing transportation employees.
+Public and private stakeholders.—The term “public and private stakeholders” means Federal, State, and local agencies, tribal governments, and appropriate private entities, including nonprofit employee labor organizations representing transportation employees.
 
 &emsp;&emsp;(D)
 
@@ -562,7 +562,7 @@ Notice and opportunity to request hearing.—Before imposing a penalty under thi
 
 &emsp;&emsp;&emsp;(i) written notice of the proposed penalty; and
 
-&emsp;&emsp;&emsp;(ii) the opportunity to request a hearing on the proposed penalty, if the Secretary receives the request not later than 30 days after the date on which the person receives notice.
+&emsp;&emsp;&emsp;(ii) the opportunity to request a hearing on the proposed penalty, if the Secretary receives the request not later than 30 daysafter the date on which the person receives notice.
 
 &emsp;(4)
 
@@ -664,9 +664,9 @@ The date of enactment of the Implementing Recommendations of the 9/11 Commission
 
 #### Amendments
 
-2009—Subsec. (r)(4). Pub. L. 111–83 added par. (4).
+<b>2009</b>—Subsec. (r)(4). Pub. L. 111–83 added par. (4).
 
-2007—Subsecs. (<i>o</i>) to (s). Pub. L. 110–161 redesignated subsecs. (p) to (s) as (<i>o</i>) to (r), respectively, and struck out former subsec. (<i>o</i>). Text of former subsec. (<i>o</i>) read as follows: “The acquisition management system established by the Administrator of the Federal Aviation Administration under section 40110 shall apply to acquisitions of equipment, supplies, and materials by the Transportation Security Administration, or, subject to the requirements of such section, the Under Secretary may make such modifications to the acquisition management system with respect to such acquisitions of equipment, supplies, and materials as the Under Secretary considers appropriate, such as adopting aspects of other acquisition management systems of the Department of Transportation.”
+<b>2007</b>—Subsecs. (<i>o</i>) to (s). Pub. L. 110–161 redesignated subsecs. (p) to (s) as (<i>o</i>) to (r), respectively, and struck out former subsec. (<i>o</i>). Text of former subsec. (<i>o</i>) read as follows: “The acquisition management system established by the Administrator of the Federal Aviation Administration under section 40110 shall apply to acquisitions of equipment, supplies, and materials by the Transportation Security Administration, or, subject to the requirements of such section, the Under Secretary may make such modifications to the acquisition management system with respect to such acquisitions of equipment, supplies, and materials as the Under Secretary considers appropriate, such as adopting aspects of other acquisition management systems of the Department of Transportation.”
 
 Subsec. (t). Pub. L. 110–161 redesignated subsec. (t) as (s).
 
@@ -674,7 +674,7 @@ Subsec. (t)(1)(B). Pub. L. 110–53, §1202(a), amended subpar. (B) generally. P
 
 Subsec. (t)(3)(B). Pub. L. 110–53, §1202(b)(1), inserted “, based on risk assessments conducted or received by the Secretary of Homeland Security (including assessments conducted under the Implementing Recommendations of the 9/11 Commission Act of 2007” after “risk-based priorities”.
 
-Subsec. (t)(3)(D). Pub. L. 110–53, §1202(b)(2), substituted “local, and tribal” for “and local” and “cooperation and participation by private sector entities, including nonprofit employee labor organizations,” for “private sector cooperation and participation”.
+Subsec. (t)(3)(D). Pub. L. 110–53, §1202(b)(2), substituted “local, and tribal” for “and local” and “cooperation and participation by private sector entities,including nonprofit employee labor organizations,” for “private sector cooperation and participation”.
 
 Subsec. (t)(3)(E). Pub. L. 110–53, §1202(b)(3), substituted “prevention, response, and recovery” for “response and recovery” and inserted “and threatened and executed acts of terrorism outside the United States to the extent such acts affect United States transportation systems” before period at end.
 
@@ -698,11 +698,11 @@ Subsec. (v). Pub. L. 110–53, §1302(a), added subsec. (v).
 
 Subsec. (w). Pub. L. 110–53, §1503(a), added subsec. (w).
 
-2004—Subsec. (t). Pub. L. 108–458 added subsec. (t).
+<b>2004</b>—Subsec. (t). Pub. L. 108–458 added subsec. (t).
 
-2003—Subsec. (q)(1). Pub. L. 108–7 inserted “or other Federal agency” after “Transportation Security Administration”.
+<b>2003</b>—Subsec. (q)(1). Pub. L. 108–7 inserted “or other Federal agency” after “Transportation Security Administration”.
 
-2002—Subsec. (<i>l</i>)(2)(B). Pub. L. 107–296, §1707, inserted “for a period not to exceed 90 days” after “effective” and “ratified or” before “disapproved”.
+<b>2002</b>—Subsec. (<i>l</i>)(2)(B). Pub. L. 107–296, §1707, inserted “for a period not to exceed 90 days” after “effective” and “ratified or” before “disapproved”.
 
 Subsec. (s). Pub. L. 107–296, §1601(b), added subsec. (s).
 
@@ -721,6 +721,10 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Deemed References to Chapters 509 and 511 of Title 51
+
+General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 
 #### Registered Traveler Programs and Biometrically-Secure Cards
 

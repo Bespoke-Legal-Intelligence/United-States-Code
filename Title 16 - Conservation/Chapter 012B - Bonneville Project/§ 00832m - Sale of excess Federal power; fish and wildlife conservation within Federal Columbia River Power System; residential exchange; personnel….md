@@ -56,5 +56,7 @@ Section was enacted as part of the Energy and Water Development Appropriations A
 
 #### Voluntary Separation Incentives to Employees
 
-Pub. L. 104–206, title V, §511, Sept. 30, 1996, 110 Stat. 3004, as amended by Pub. L. 106–377, §1(a)(2) \[title III\], Oct. 27, 2000, 114 Stat. 1441, 1441A–76, provided that:“The Administrator may offer employees voluntary separation incentives as deemed necessary which shall not exceed $25,000. Recipients who accept employment with the United States within five years after separation shall repay the entire amount to the Bonneville Power Administration. This authority shall expire January 1, 2003.”
+Pub. L. 104–206, title V, §511, Sept. 30, 1996, 110 Stat. 3004, as amended by Pub. L. 106–377, §1(a)(2) \[title III\], Oct. 27, 2000, 114 Stat. 1441, 1441A–76, provided that: “The Administrator may offer employees voluntary separation incentives as deemed necessary which shall not exceed $25,000. Recipients who accept employment with the United States within five years after separation shall repay the entire amount to the Bonneville Power Administration. This authority shall expire January 1, 2003.”
+
+<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

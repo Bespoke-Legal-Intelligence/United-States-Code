@@ -6,7 +6,7 @@ Under such regulations as the Secretary of State may prescribe, special agents o
 
 &emsp;(1) conduct investigations concerning illegal passport or visa issuance or use;
 
-&emsp;(2) obtain and execute search and arrest warrants, as well as obtain and serve subpoenasand summonses issued under the authority of the United States;
+&emsp;(2) obtain and execute search and arrest warrants, as well as obtain and serve subpoenas and summonses issued under the authority of the United States;
 
 &emsp;(3) protect and perform protective functions directly related to maintaining the security and safety of—
 
@@ -56,9 +56,9 @@ A prior section 37 of act Aug. 1, 1956, was renumbered section 38 by section 125
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–177 substituted “section 3056 or 3056A of title 18” for “section 202 of title 3 or section 3056 of title 18”.
+<b>2006</b>—Subsec. (c). Pub. L. 109–177 substituted “section 3056 or 3056A of title 18” for “section 202 of title 3 or section 3056 of title 18”.
 
-2002—Subsec. (a)(2). Pub. L. 107–228, §202(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “for the purpose of conducting such investigations—
+<b>2002</b>—Subsec. (a)(2). Pub. L. 107–228, §202(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “for the purpose of conducting such investigations—
 
 &emsp;“(A) obtain and execute search and arrest warrants,
 
@@ -80,11 +80,11 @@ Subsec. (a)(5). Pub. L. 107–228, §202(a)(3), amended par. (5) generally. Prio
 
 Subsec. (b). Pub. L. 107–228, §202(b), substituted “Agreements with Attorney General and Secretary of the Treasury and firearms regulations” for “Agreement with Attorney General and firearms regulations” in heading, added pars. (1) and (2), struck out former par. (1), which related to agreement with the Attorney General, and redesignated former par. (2) as (3).
 
-2000—Subsec. (a)(3)(E), (F). Pub. L. 106–553, as renumbered by Pub. L. 106–554, added subpars. (E) and (F).
+<b>2000</b>—Subsec. (a)(3)(E), (F). Pub. L. 106–553, as renumbered by Pub. L. 106–554, added subpars. (E) and (F).
 
-1994—Subsec. (d). Pub. L. 103–236 struck out subsec. (d) which read as follows: “The Secretary of State shall transmit the regulations prescribed under this section to the Committee on Foreign Affairs and the Committee on the Judiciary of the House of Representatives and the Committee on Foreign Relations of the Senate not less than 20 days before the date on which such regulations take effect.”
+<b>1994</b>—Subsec. (d). Pub. L. 103–236 struck out subsec. (d) which read as follows: “The Secretary of State shall transmit the regulations prescribed under this section to the Committee on Foreign Affairs and the Committee on the Judiciary of the House of Representatives and the Committee on Foreign Relations of the Senate not less than 20 days before the date on which such regulations take effect.”
 
-1990—Subsec. (a)(2). Pub. L. 101–246, §113(1), added subpar. (B) and redesignated former subpar. (B) as (C).
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–246, §113(1), added subpar. (B) and redesignated former subpar. (B) as (C).
 
 Subsec. (a)(5). Pub. L. 101–246, §113(2), amended introductory provisions generally, substituting “970, or 1028” for “911, 970, 1001, 1028, 1541, 1542, 1543, 1544, 1545, or 1546”.
 

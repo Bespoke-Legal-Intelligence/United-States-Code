@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of the Interior, in consultation with the Secretaries of Agriculture and Energy, shall conduct an inventory of all onshore Federal lands. The inventory shall identify—
+The Secretary of the Interior, in consultation with the Secretaries of Agriculture and Energy,shall conduct an inventory of all onshore Federal lands. The inventory shall identify—
 
 &emsp;(1) the United States Geological Survey estimates of the oil and gas resources underlying these lands;
 
@@ -36,7 +36,7 @@ Section was enacted as part of the Energy Act of 2000, and not as part of the En
 
 #### Amendments
 
-2005—Subsec. (a)(1). Pub. L. 109–58, §364(a)(1)(A), struck out “reserve” before “estimates” and “and” after the semicolon.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–58, §364(a)(1)(A), struck out “reserve” before “estimates” and “and” after the semicolon.
 
 Subsec. (a)(2), (3). Pub. L. 109–58, §364(a)(1)(B), added pars. (2) and (3) and struck out former par. (2) which read as follows: “the extent and nature of any restrictions or impediments to the development of such resources.”
 

@@ -10,7 +10,7 @@ A prior section 710 of Pub. L. 87–195, pt. IV, Sept. 4, 1961, 75 Stat. 465, am
 
 #### Amendments
 
-2008—Pub. L. 110–246 made technical amendment to reference in original act which appears in text as reference to section 1738m of title 7.
+<b>2008</b>—Pub. L. 110–246 made technical amendment to reference in original act which appears in text as reference to section 1738m of title 7.
 
 #### Effective Date of 2008 Amendment
 

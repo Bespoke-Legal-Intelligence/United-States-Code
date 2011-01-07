@@ -44,7 +44,7 @@ Installation of Safety Devices.—
 
 &emsp;(1)
 
-Highway and railroad grade crossings and drawbridges.—No funds shall be approvedfor expenditure on any Federal-aid highway, or highway affected under chapter 2 of this title, unless proper safety protective devices complying with safety standards determined by the Secretary at that time as being adequate shall be installed or be in operation at any highway and railroad grade crossing or drawbridge on that portion of the highway with respect to which such expenditures are to be made.
+Highway and railroad grade crossings and drawbridges.—No funds shall be approved for expenditure on any Federal-aid highway, or highway affected under chapter 2 of this title, unless proper safety protective devices complying with safety standards determined by the Secretary at that time as being adequate shall be installed or be in operation at any highway and railroad grade crossing or drawbridge on that portion of the highway with respect to which such expenditures are to be made.
 
 &emsp;(2)
 
@@ -120,13 +120,13 @@ Phase Construction.—Safety considerations for a project under this title may b
 
 #### Amendments
 
-2005—Subsec. (c)(2). Pub. L. 109–59, §6008, inserted dash after “Secretary shall consider” and subpar. (A) designation before “the results”, substituted semicolon for period, and added subpars. (B) to (D).
+<b>2005</b>—Subsec. (c)(2). Pub. L. 109–59, §6008, inserted dash after “Secretary shall consider” and subpar. (A) designation before “the results”, substituted semicolon for period, and added subpars. (B) to (D).
 
 Subsec. (e). Pub. L. 109–59, §1110(a), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
 Subsec. (g). Pub. L. 109–59, §1110(c), substituted “Not later than January 30, 1971, the Secretary shall issue” for “The Secretary shall issue within 30 days after the day of enactment of the Federal-Aid Highway Act of 1970”.
 
-1998—Subsecs. (b), (c)(2). Pub. L. 105–178, §1212(a)(2)(A)(ii), substituted “State transportation departments” for “State highway departments”.
+<b>1998</b>—Subsecs. (b), (c)(2). Pub. L. 105–178, §1212(a)(2)(A)(ii), substituted “State transportation departments” for “State highway departments”.
 
 Subsec. (d). Pub. L. 105–178, §1212(a)(2)(A)(i), substituted “State transportation department” for “State highway department”.
 
@@ -138,7 +138,7 @@ Pub. L. 105–178, §1202(c), inserted heading and amended text of subsec. (n) g
 
 Subsecs. (<i>o</i>) to (q). Pub. L. 105–178, §1306(a)(2), (b), added subsec. (q) and redesignated former subsecs. (p) and (q) as (<i>o</i>) and (p), respectively. Former subsec. (<i>o</i>) redesignated (n).
 
-1995—Subsec. (a). Pub. L. 104–59, §304(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary shall not approve plans and specifications for proposed highway projects under this chapter if they fail to provide for a facility (1) that will adequately meet the existing and probable future traffic needs and conditions in a manner conducive to safety, durability, and economy of maintenance; (2) that will be designed and constructed in accordance with standards best suited to accomplish the foregoing objectives and to conform to the particular needs of each locality.”
+<b>1995</b>—Subsec. (a). Pub. L. 104–59, §304(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary shall not approve plans and specifications for proposed highway projects under this chapter if they fail to provide for a facility (1) that will adequately meet the existing and probable future traffic needs and conditions in a manner conducive to safety, durability, and economy of maintenance; (2) that will be designed and constructed in accordance with standards best suited to accomplish the foregoing objectives and to conform to the particular needs of each locality.”
 
 Subsec. (c). Pub. L. 104–59, §304(2), added subsec. (c) and struck out former subsec. (c) which read as follows:
 
@@ -154,7 +154,7 @@ Subsec. (q). Pub. L. 104–59, §304(3), added subsec. (q) and struck out former
 
 Historic and Scenic Values.—If a proposed project under sections 103(e)(4), 133, or 144 involves a historic facility or is located in an area of historic or scenic value, the Secretary may approve such project notwithstanding the requirements of subsections (a) and (b) of this section and section 133(c) if such project is designed to standards that allow for the preservation of such historic or scenic value and such project is designed with mitigation measures to allow preservation of such value and ensure safe use of the facility.”
 
-1991—Subsec. (a). Pub. L. 102–240, §1016(f)(1)(A), substituted “highway projects under this chapter” for “projects on any Federal-aid system”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–240, §1016(f)(1)(A), substituted “highway projects under this chapter” for “projects on any Federal-aid system”.
 
 Subsec. (c). Pub. L. 102–240, §1016(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Projects on the Federal-aid secondary system in which Federal funds participate shall be constructed according to specifications that will provide all-weather service and permit maintenance at a reasonable cost.”
 
@@ -162,11 +162,11 @@ Subsec. (<i>l</i>)(1). Pub. L. 102–240, §1016(f)(1)(B), substituted “highwa
 
 Subsecs. (p), (q). Pub. L. 102–240, §1016(d), (e), added subsecs. (p) and (q).
 
-1983—Subsec. (<i>o</i>). Pub. L. 97–424 added subsec. (<i>o</i>).
+<b>1983</b>—Subsec. (<i>o</i>). Pub. L. 97–424 added subsec. (<i>o</i>).
 
-1979—Subsec. (<i>l</i>)(1)(A). Pub. L. 96–106 struck out “any aspect of” after “adversely affect”.
+<b>1979</b>—Subsec. (<i>l</i>)(1)(A). Pub. L. 96–106 struck out “any aspect of” after “adversely affect”.
 
-1978—Subsec. (f). Pub. L. 95–599, §141(f), inserted “bikeways” after “surfaces, median strips,”.
+<b>1978</b>—Subsec. (f). Pub. L. 95–599, §141(f), inserted “bikeways” after “surfaces, median strips,”.
 
 Subsec. (<i>l</i>). Pub. L. 95–599, §113, added subsec. (<i>l</i>).
 
@@ -174,21 +174,21 @@ Subsec. (m). Pub. L. 95–599, §116(d), added subsec. (m).
 
 Subsec. (n). Pub. L. 95–599, §141(g), added subsec. (n).
 
-1973—Subsec. (g). Pub. L. 93–87, §152(2), substituted “Act” for “Rct”, thus correcting the popular name to read “Federal-Aid Highway Act of 1970”.
+<b>1973</b>—Subsec. (g). Pub. L. 93–87, §152(2), substituted “Act” for “Rct”, thus correcting the popular name to read “Federal-Aid Highway Act of 1970”.
 
 Subsec. (i). Pub. L. 93–87, §114, authorized promulgation of noise-level standards for highways on any Federal-aid system for which project approval has been secured prior to July 1, 1972, and approval of any project on a Federal-aid system to which noise-level standards are made applicable, described the range of the projects, made money available for financing Federal share of the project, and deemed such project a highway project for all purposes of this title.
 
 Subsec. (k). Pub. L. 93–87, §156, added subsec. (k).
 
-1970—Subsec. (g). Pub. L. 91–605, §136(a), substituted provisions ordering the Secretary to issue within 30 days after Dec. 31, 1970, guidelines, which will apply to all proposed projects approved by the Secretary after their issuance, for minimizing soil erosion from highway construction for provisions authorizing the Secretary to consult with the Secretary of Agriculture respecting guidelines for minimizing soil erosion from highway construction and report such guidelines to Congress not later than July 1, 1967.
+<b>1970</b>—Subsec. (g). Pub. L. 91–605, §136(a), substituted provisions ordering the Secretary to issue within 30 days after Dec. 31, 1970, guidelines, which will apply to all proposed projects approved by the Secretary after their issuance, for minimizing soil erosion from highway construction for provisions authorizing the Secretary to consult with the Secretary of Agriculture respecting guidelines for minimizing soil erosion from highway construction and report such guidelines to Congress not later than July 1, 1967.
 
 Subsecs. (h) to (j). Pub. L. 91–605, §136(b), added subsecs. (h) to (j).
 
-1966—Subsec. (b). Pub. L. 89–574, §5(a), required that in all cases the standards provide for at least four lanes of traffic.
+<b>1966</b>—Subsec. (b). Pub. L. 89–574, §5(a), required that in all cases the standards provide for at least four lanes of traffic.
 
 Subsec. (g). Pub. L. 89–574, §14, added subsec. (g).
 
-1963—Subsec. (b). Pub. L. 88–157 substituted “Such standards, as applied to each actual construction project, shall be adequate to enable such project to accommodate the types and volumes of traffic anticipated for such project for the twenty-year period commencing on the date of approval by the Secretary, under section 106 of this title, of the plans, specifications, and estimates for actual construction of such project” for “Such standards shall be adequate to accommodate the types and volumes of traffic forecast for the year 1975”, struck out “up” before “to such standards” and inserted “all” in phrase “throughout all the States”.
+<b>1963</b>—Subsec. (b). Pub. L. 88–157 substituted “Such standards, as applied to each actual construction project, shall be adequate to enable such project to accommodate the types and volumes of traffic anticipated for such project for the twenty-year period commencing on the date of approval by the Secretary, under section 106 of this title, of the plans, specifications, and estimates for actual construction of such project” for “Such standards shall be adequate to accommodate the types and volumes of traffic forecast for the year 1975”, struck out “up” before “to such standards” and inserted “all” in phrase “throughout all the States”.
 
 #### Effective Date of 1991 Amendment
 
@@ -248,7 +248,7 @@ Traffic Flow and Safety Applications of Road Barriers.—
 
 &emsp;“(1)
 
-Study.—The Secretary shall conduct a study on the technologies and methods to enhance safety, streamline construction, and improve capacity by providing positive separation at all times betweentraffic, equipment, and workers on highway construction projects. The study shall also address how such technologies can be used to improve capacity and safety at those specific highway, bridge, and other appropriate locations where reversible lane, contraflow, and high occupancy vehicle lane operations are implemented during peak traffic periods.
+Study.—The Secretary shall conduct a study on the technologies and methods to enhance safety, streamline construction, and improve capacity by providing positive separation at all times between traffic, equipment, and workers on highway construction projects. The study shall also address how such technologies can be used to improve capacity and safety at those specific highway, bridge, and other appropriate locations where reversible lane, contraflow, and high occupancy vehicle lane operations are implemented during peak traffic periods.
 
 &emsp;“(2)
 
@@ -344,7 +344,7 @@ In general.—The Secretary and the Administrator of the Environmental Protectio
 
 &emsp;“(2)
 
-Division of responsibilities.—The Administrator shall conduct the part of the study relating to paragraph (1)(A) and the Secretary shall conduct the part of the study relating to paragraph (1)(C). The Administrator and the Secretary shall jointly conduct the study relating to paragraph (1)(B).
+Division of responsibilities.—The Administrator shall conduct the part of the study relating toparagraph (1)(A) and the Secretary shall conduct the part of the study relating to paragraph (1)(C). The Administrator and the Secretary shall jointly conduct the study relating to paragraph (1)(B).
 
 &emsp;“(3)
 
@@ -430,7 +430,7 @@ Section 1058 of Pub. L. 102–240, as amended by Pub. L. 104–59, title III, §
 
 “(a)
 
-Requirement for Innovative Barriers.—Not less than 21/2 percent of the mileage of new or replacement permanent or temporary crashworthy barriers included in awarded contracts along Federal-aid highways within the boundaries of a State in each calendar year shall be innovative crashworthy safety barriers.
+Requirement for Innovative Barriers.—Not less than 2½ percent of the mileage of new or replacement permanent or temporary crashworthy barriers included in awarded contracts along Federal-aid highways within the boundaries of a State in each calendar year shall be innovative crashworthy safety barriers.
 
 “(b)
 
@@ -456,7 +456,7 @@ Final Rule.—Not later than 1 year after the date of the enactment of this Act 
 
 Section 110(b), (c) of Pub. L. 97–424 provided that:
 
-“(b) The Secretary of Transportation shall enter into appropriate arrangements with the National Academy of Sciences (1) to conduct a study of the safety cost-effectiveness of geometric design criteria of standardscurrently in effect for construction and reconstruction of highways, other than highways access to which is fully controlled, to determine the most appropriate minimum standards to apply to resurfacing, restoration, and rehabilitation projects on such highways, which study shall include a study of the cost effectiveness of the hot dip galvanizing process for the installation, repair, or replacement of exposed structural and miscellaneous steel, and (2) to propose standards to preserve and extend the service life of such highways and enhance highway safety. The National Academy of Sciences shall conduct such study in cooperation with the National Transportation Safety Board, the Congressional Budget Office, and the American Association of State Highway and Transportation Officials. Upon completion of such study, the National Academy of Sciences shall submit such study and its proposed standards to the Secretary of Transportation for review. Within ninety days after submission of such standards to the Secretary of Transportation, the Secretary shall submit such study and the proposed standards of the National Academy of Sciences, together with the recommendations of the Secretary, to Congress for approval.
+“(b) The Secretary of Transportation shall enter into appropriate arrangements with the National Academy of Sciences (1) to conduct a study of the safety cost-effectiveness of geometric design criteria of standards currently in effect for construction and reconstruction of highways, other than highways access to which is fully controlled, to determine the most appropriate minimum standards to apply to resurfacing, restoration, and rehabilitation projects on such highways, which study shall include a study of the cost effectiveness of the hot dip galvanizing process for the installation, repair, or replacement of exposed structural and miscellaneous steel, and (2) to propose standards to preserve and extend the service life of such highways and enhance highway safety. The National Academy of Sciences shall conduct such study in cooperation with the National Transportation Safety Board, the Congressional Budget Office, and the American Association of State Highway and Transportation Officials. Upon completion of such study, the National Academy of Sciences shall submit such study and its proposed standards to the Secretary of Transportation for review. Within ninety days after submission of such standards to the Secretary of Transportation, the Secretary shall submit such study and the proposed standards of the National Academy of Sciences, together with the recommendations of the Secretary, to Congress for approval.
 
 “(c)(1) The Secretary of Transportation is directed to coordinate a study with the National Bureau of Standards, the American Society for Testing and Materials, and other organizations as deemed appropriate, (A) to determine the existing quality of design, construction, products, use, and systems for highways and bridges; (B) to determine the need for uniform standards and criteria for design, processing, products, and applications, including personnel training and implementation of enforcement techniques; and (C) to determine the manpower needs and costs of developing a national system for the evaluation and accreditation of testing and inspection agencies.
 

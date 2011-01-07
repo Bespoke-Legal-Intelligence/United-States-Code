@@ -74,9 +74,9 @@ The Investment Company Act of 1940, referred to in subsec. (b)(1), is title I of
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–188 added subsec. (c).
+<b>1996</b>—Subsec. (c). Pub. L. 104–188 added subsec. (c).
 
-1989—Subsec. (a)(2). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 #### Effective Date of 1996 Amendment
 

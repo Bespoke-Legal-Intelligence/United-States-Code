@@ -30,11 +30,11 @@ For purposes of this chapter:
 
 #### Amendments
 
-1999—Par. (6). Pub. L. 106–65 added par. (6).
+<b>1999</b>—Par. (6). Pub. L. 106–65 added par. (6).
 
-1990—Par. (5). Pub. L. 101–510 added par. (5).
+<b>1990</b>—Par. (5). Pub. L. 101–510 added par. (5).
 
-1989—Par. (2). Pub. L. 101–189 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘sponsor’ means—
+<b>1989</b>—Par. (2). Pub. L. 101–189 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘sponsor’ means—
 
 &emsp;“(A) a member of the Armed Forces serving on active duty, or
 

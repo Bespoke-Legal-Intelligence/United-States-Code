@@ -20,7 +20,7 @@ Changes were also made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000”.
 
-1951—Act July 16, 1951, made section applicable to minor coins (5-cent and 1-cent pieces), and to fraudulent alteration of coins.
+<b>1951</b>—Act July 16, 1951, made section applicable to minor coins (5-cent and 1-cent pieces), and to fraudulent alteration of coins.
 

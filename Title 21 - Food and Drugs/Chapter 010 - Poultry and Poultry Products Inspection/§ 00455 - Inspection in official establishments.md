@@ -16,7 +16,7 @@ All poultry carcasses and parts thereof and other poultry products found to be a
 
 #### Amendments
 
-1968—Par. (a). Pub. L. 90–492, §6(a), substituted “of, or the burdening of commerce by, any poultry product which is capable of use as human food and is adulterated,” for “or a designated major consuming area of any poultry product which is unwholesome or adulterated,” “each official establishment” for “any official establishment”, and “otherwise subject to inspection under this chapter” for “in, or for marketing in a designated city or area”.
+<b>1968</b>—Par. (a). Pub. L. 90–492, §6(a), substituted “of, or the burdening of commerce by, any poultry product which is capable of use as human food and is adulterated,” for “or a designated major consuming area of any poultry product which is unwholesome or adulterated,” “each official establishment” for “any official establishment”, and “otherwise subject to inspection under this chapter” for “in, or for marketing in a designated city or area”.
 
 Par. (b). Pub. L. 90–492, §6(b), substituted “segregation, and reinspection” for “segregation, reinspection”, and “otherwise subject to inspection under this chapter” for “in, or for marketing in a designated city or area”, and inserted “capable of use as human food” after “necessary of poultry and poultry products”.
 

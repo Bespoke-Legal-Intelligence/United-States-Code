@@ -60,11 +60,11 @@ The Secretary, under regulations prescribed by the Secretary, is authorized to p
 
 #### Amendments
 
-2006—Pub. L. 109–432 designated existing provisions as subsec. (a), inserted heading, in par. (1), substituted “or” for “and” at end, in concluding provisions, struck out “(other than interest)” after “amounts”, and added subsec. (b).
+<b>2006</b>—Pub. L. 109–432 designated existing provisions as subsec. (a), inserted heading, in par. (1), substituted “or” for “and” at end, in concluding provisions, struck out “(other than interest)” after “amounts”, and added subsec. (b).
 
-1996—Pub. L. 104–168 substituted “of underpayments and fraud, etc.” for “and punishment of frauds” in section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary, under regulations prescribed by the Secretary, is authorized to pay such sums, not exceeding in the aggregate the sum appropriated therefor, as he may deem necessary for detecting and bringing to trial and punishment persons guilty of violating the internal revenue laws, or conniving at the same, in cases where such expenses are not otherwise provided for by law.”
+<b>1996</b>—Pub. L. 104–168 substituted “of underpayments and fraud, etc.” for “and punishment of frauds” in section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary, under regulations prescribed by the Secretary, is authorized to pay such sums, not exceeding in the aggregate the sum appropriated therefor, as he may deem necessary for detecting and bringing to trial and punishment persons guilty of violating the internal revenue laws, or conniving at the same, in cases where such expenses are not otherwise provided for by law.”
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date of 2006 Amendment
 

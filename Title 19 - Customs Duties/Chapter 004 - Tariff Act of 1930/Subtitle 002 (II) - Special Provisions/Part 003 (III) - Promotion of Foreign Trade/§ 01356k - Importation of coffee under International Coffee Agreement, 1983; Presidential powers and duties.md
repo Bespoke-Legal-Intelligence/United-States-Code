@@ -22,13 +22,13 @@ Section was enacted as part of the International Coffee Agreement Act of 1980, a
 
 #### Amendments
 
-1988—Pub. L. 100–418 substituted “October 1, 1989” for “October 1, 1986”.
+<b>1988</b>—Pub. L. 100–418 substituted “October 1, 1989” for “October 1, 1986”.
 
-1983—Pub. L. 98–120 in provisions preceding par. (1) substituted “, 1983” for “1976” and “before October 1, 1986” for “for such period prior to October 1, 1983 as the agreement remains in effect”.
+<b>1983</b>—Pub. L. 98–120 in provisions preceding par. (1) substituted “, 1983” for “1976” and “before October 1, 1986” for “for such period prior to October 1, 1983 as the agreement remains in effect”.
 
 Pub. L. 97–446 substituted “October 1, 1983” for “the expiration of this joint resolution”.
 
-1982—Pub. L. 97–276 substituted “the expiration of this joint resolution” for “October 1, 1982”.
+<b>1982</b>—Pub. L. 97–276 substituted “the expiration of this joint resolution” for “October 1, 1982”.
 
 #### Effective Date of 1988 Amendment
 

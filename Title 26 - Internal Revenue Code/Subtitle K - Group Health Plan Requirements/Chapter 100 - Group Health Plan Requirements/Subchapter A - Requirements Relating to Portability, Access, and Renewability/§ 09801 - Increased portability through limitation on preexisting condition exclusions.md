@@ -94,7 +94,7 @@ For purposes of this section—
 
 #### (D) TAA-eligible individuals
 
-&emsp;&emsp;In the case of plan years beginning before January 1, 2011—
+&emsp;&emsp;In the case of plan years beginning before February 13, 2011—
 
 #### (i) TAA pre-certification period rule
 
@@ -118,7 +118,7 @@ For purposes of this section—
 
 &emsp;&emsp;In the case of an election with respect to a group health plan under subparagraph (B), the plan shall—
 
-&emsp;&emsp;&emsp;(i) prominently state in any disclosure statements concerning the plan, and state to each enrollee at the time of enrollment under the plan, that the plan has made such election, and
+&emsp;&emsp;&emsp;(i) prominently state in any disclosure statements concerning the plan, and stateto each enrollee at the time of enrollment under the plan, that the plan has made such election, and
 
 &emsp;&emsp;&emsp;(ii) include in such statements a description of the effect of this election.
 
@@ -194,7 +194,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) The employee or dependent was covered under a group health plan or had health insurance coverage at the time coverage was previously offered to the employee or individual.
 
-&emsp;&emsp;(B) The employee stated in writing at such time that coverage under a group health plan or health insurance coverage was the reason for declining enrollment, but only if the plan sponsor (or the health insurance issuer offering health insurance coverage in connection with the plan) required such a statement at such time and provided the employee with notice of such requirement (and the consequences of such requirement) at such time.
+&emsp;&emsp;(B) The employee stated in writing at such time that coverage under a group health plan or health insurance coverage was the reason for declining enrollment, but only if the plan sponsor (or the health insurance issuer offering health insurance coverage inconnection with the plan) required such a statement at such time and provided the employee with notice of such requirement (and the consequences of such requirement) at such time.
 
 &emsp;&emsp;(C) The employee's or dependent's coverage described in subparagraph (A)—
 
@@ -240,7 +240,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;A group health plan shall permit an employee who is eligible, but not enrolled, forcoverage under the terms of the plan (or a dependent of such an employee if the dependent is eligible, but not enrolled, for coverage under such terms) to enroll for coverage under the terms of the plan if either of the following conditions is met:
+&emsp;&emsp;A group health plan shall permit an employee who is eligible, but not enrolled, for coverage under the terms of the plan (or a dependent of such an employee if the dependent is eligible, but not enrolled, for coverage under such terms) to enroll for coverage under the terms of the plan if either of the following conditions is met:
 
 #### (i) Termination of Medicaid or CHIP coverage
 
@@ -256,7 +256,7 @@ For purposes of this section—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Each employer that maintains a group health plan in a State that provides medical assistance under a State Medicaid plan under title XIX of the Social Security Act, or child health assistance under a State child health plan under title XXI of such Act, in the form of premium assistance for the purchase of coverage under a group health plan, shall provide to each employee a written notice informing the employee of potential opportunities then currently available in the State in which the employee resides for premium assistance under such plans for health coverage of the employee or the employee's dependents. For purposes of compliance with this clause, the employer may use any State-specific model notice developed in accordance with section 701(f)(3)(B)(i)(II) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1181(f)(3)(B)(i)(II)).
+&emsp;&emsp;&emsp;&emsp;Each employer that maintains a group health plan in a State that provides medical assistance under a State Medicaid plan under title XIX of the Social Security Act, or child health assistance under a State child health plan under title XXI of such Act, in the form of premium assistance for the purchase of coverage under a group health plan, shall provide to each employee a written notice informing the employee of potential opportunities then currently available in the State in which the employee resides for premium assistance under such plans for health coverage of the employee or the employee's dependents. For purposes of compliance with this clause, the employer may use any State-specific model notice developed in accordance with section 701(f)(3)(B)(i)(II) of the EmployeeRetirement Income Security Act of 1974 (29 U.S.C. 1181(f)(3)(B)(i)(II)).
 
 #### (II) Option to provide concurrent with provision of plan materials to employee
 
@@ -266,7 +266,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;In the case of a participant or beneficiary of a group health plan who is covered under a Medicaid plan of a State under title XIX of the Social Security Act or under a State child health plan under title XXI of such Act, the plan administrator of the group health plan shall disclose to the State, upon request, information about the benefits available under the group health plan in sufficient specificity, as determined under regulations of the Secretary of Health and Human Services in consultation with the Secretary that require use of the model coverage coordination disclosure form developed under section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization Act of 2009, so as to permit the State to make a determination (under paragraph (2)(B), (3), or (10) of section 2105(c) of the Social Security Act or otherwise) concerning the cost-effectiveness of the State providing medical or child health assistance through premium assistance for the purchase of coverage under such group health plan and in order for the State to provide supplemental benefits required under paragraph (10)(E) of such section or other authority.
 
-(Added Pub. L. 104–191, title IV, §401(a), Aug. 21, 1996, 110 Stat. 2073; amended Pub. L. 105–34, title XV, §1531(b)(1)(A), Aug. 5, 1997, 111 Stat. 1084; Pub. L. 111–3, title III, §311(a), Feb. 4, 2009, 123 Stat. 64; Pub. L. 111–5, div. B, title I, §1899D(a), Feb. 17, 2009, 123 Stat. 425.)
+(Added Pub. L. 104–191, title IV, §401(a), Aug. 21, 1996, 110 Stat. 2073; amended Pub. L. 105–34, title XV, §1531(b)(1)(A), Aug. 5, 1997, 111 Stat. 1084; Pub. L. 111–3, title III, §311(a), Feb. 4, 2009, 123 Stat. 64; Pub. L. 111–5, div. B, title I, §1899D(a), Feb. 17, 2009, 123 Stat. 425; Pub. L. 111–344, title I, §114(a), Dec. 29, 2010, 124 Stat. 3615.)
 
 #### References in Text
 
@@ -276,19 +276,25 @@ Section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization 
 
 #### Amendments
 
-2009—Subsec. (c)(2)(D). Pub. L. 111–5 added subpar. (D).
+<b>2010</b>—Subsec. (c)(2)(D). Pub. L. 111–344 substituted “February 13, 2011” for “January 1, 2011” in introductory provisions.
+
+<b>2009</b>—Subsec. (c)(2)(D). Pub. L. 111–5 added subpar. (D).
 
 Subsec. (f)(3). Pub. L. 111–3 added par. (3).
 
-1997—Subsec. (c)(1). Pub. L. 105–34 substituted “section 9832(c)” for “section 9805(c)” in concluding provisions.
+<b>1997</b>—Subsec. (c)(1). Pub. L. 105–34 substituted “section 9832(c)” for “section 9805(c)” in concluding provisions.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–344, title I, §114(d), Dec. 29, 2010, 124 Stat. 3615, provided that: “The amendments made by this section \[amending this section, section 1181 of Title 29, Labor, and section 300gg of Title 42, The Public Health and Welfare\] shall apply to plan years beginning after December 31, 2010.”
 
 #### Effective Date of 2009 Amendment
 
-Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of Title 19, Customs Duties.
+Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of Title 19, Customs Duties.
 
 Pub. L. 111–5, div. B, title I, §1899D(d), Feb. 17, 2009, 123 Stat. 426, provided that: “The amendments made by this section \[amending this section, section 1181 of Title 29, Labor, and section 300gg of Title 42, The Public Health and Welfare\] shall apply to plan years beginning after the date of the enactment of this Act \[Feb. 17, 2009\].”
 
-Amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as a note under section 1396 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as an Effective Date note under section 1396 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1997 Amendment
 

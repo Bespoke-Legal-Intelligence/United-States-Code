@@ -12,5 +12,5 @@ Section 102 of act July 18, 1950, cited as a credit to this section, as applicab
 
 #### Amendments
 
-1955—Act Aug. 11, 1955, included urban renewal projects.
+<b>1955</b>—Act Aug. 11, 1955, included urban renewal projects.
 

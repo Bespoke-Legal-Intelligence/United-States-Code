@@ -24,9 +24,9 @@ Provisions similar to those in this section were contained in section 1163(a) of
 
 #### Amendments
 
-1998—Subsec. (b)(2). Pub. L. 105–261 substituted a period for “; or” at end.
+<b>1998</b>—Subsec. (b)(2). Pub. L. 105–261 substituted a period for “; or” at end.
 
-1997—Subsec. (b). Pub. L. 105–85, §516(a)(1), substituted “apply to any of the following:” for “apply—” in introductory provisions.
+<b>1997</b>—Subsec. (b). Pub. L. 105–85, §516(a)(1), substituted “apply to any of the following:” for “apply—” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 105–85, §516(b)(1), (2), substituted “A” for “to a” and “title.” for “title;”.
 

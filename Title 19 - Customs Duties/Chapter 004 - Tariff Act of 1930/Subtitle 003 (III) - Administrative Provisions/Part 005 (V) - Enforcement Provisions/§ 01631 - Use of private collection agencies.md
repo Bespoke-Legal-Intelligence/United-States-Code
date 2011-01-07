@@ -22,15 +22,11 @@ The debtor shall be assessed and pay any and all costs associated with collectio
 
 (June 17, 1930, ch. 497, title IV, §631, as added Pub. L. 103–182, title VI, §671, Dec. 8, 1993, 107 Stat. 2217; amended Pub. L. 104–295, §3(a)(9), Oct. 11, 1996, 110 Stat. 3516; Pub. L. 106–36, title I, §1001(b)(5)(A), June 25, 1999, 113 Stat. 132.)
 
-#### References in Text
-
-The customs laws, referred to in subsec. (a), are classified generally to this title.
-
 #### Amendments
 
-1999—Subsec. (c). Pub. L. 106–36 amended directory language of Pub. L. 104–295. See 1996 Amendment note below.
+<b>1999</b>—Subsec. (c). Pub. L. 106–36 amended directory language of Pub. L. 104–295. See 1996 Amendment note below.
 
-1996—Subsec. (c). Pub. L. 104–295, as amended by Pub. L. 106–36, added subsec. (c).
+<b>1996</b>—Subsec. (c). Pub. L. 104–295, as amended by Pub. L. 106–36, added subsec. (c).
 
 #### Effective Date of 1996 Amendment
 
@@ -38,5 +34,5 @@ Amendment by Pub. L. 104–295 applicable as of Dec. 8, 1993, see section 3(b) o
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
 

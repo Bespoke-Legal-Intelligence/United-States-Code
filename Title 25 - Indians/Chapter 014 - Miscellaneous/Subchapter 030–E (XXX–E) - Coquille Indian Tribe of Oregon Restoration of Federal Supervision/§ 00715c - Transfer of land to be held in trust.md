@@ -2,7 +2,7 @@
 
 #### (a) Lands to be taken in trust
 
-The Secretary shall accept any real property located in Coos and Curry Counties not to exceed one thousand acres for the benefit of the Tribe if conveyed or otherwise transferred to the Secretary: <i>Provided</i>, That, at the time of such acceptance, there are no adverse legal claims onsuch property including outstanding liens, mortgages, or taxes owed. The Secretary may accept any additional acreage in the Tribe's service area pursuant to his authority under the Act of June 18, 1934 (48 Stat. 984) \[25 U.S.C. 461 et seq.\].
+The Secretary shall accept any real property located in Coos and Curry Counties not to exceed one thousand acres for the benefit of the Tribe if conveyed or otherwise transferred to the Secretary: <i>Provided</i>, That, at the time of such acceptance, there are no adverse legal claims on such property including outstanding liens, mortgages, or taxes owed. The Secretary may accept any additional acreage in the Tribe's service area pursuant to his authority under the Act of June 18, 1934 (48 Stat. 984) \[25 U.S.C. 461 et seq.\].
 
 #### (b) Lands to be part of reservation
 
@@ -70,7 +70,7 @@ Any real property taken into trust for the benefit of the Tribe under this secti
 
 #### (8) Public access
 
-&emsp;The Coquille Forest shall remain open to public access for purposes of hunting, fishing, recreation and transportation, except when closure is required by state <sup>6</sup> or federal <sup>6</sup> law, or when the Coquille Indian Tribe and the State of Oregon agree in writing that restrictions on access are necessary or appropriate to prevent harm to natural resources, cultural resources or environmental quality; <sup>7</sup> <i>Provided</i>, That the State of Oregon's agreement shall not be required when immediate action is necessary to protect archaeological resources.
+&emsp;The Coquille Forest shall remain open to public access for purposes of hunting, fishing, recreation and transportation, except when closure is required by state <sup>6</sup> or federal <sup>6</sup> law, or when the Coquille Indian Tribe and the State of Oregon agree in writing that restrictions on access are necessary or appropriate to prevent harm to natural resources, cultural resources or environmental quality; <sup>7</sup> <i>Provided</i>, That theState of Oregon's agreement shall not be required when immediate action is necessary to protect archaeological resources.
 
 #### (9) Jurisdiction
 
@@ -126,7 +126,7 @@ Act of June 18, 1934, referred to in subsec. (a), popularly known as the Indian 
 
 The Act entitled “An Act relating to the revested Oregon and California Railroad and reconveyed Coos Bay Wagon Road grant land situated in the State of Oregon” (the O\&C Act), approved August 28, 1937 (43 U.S.C. 1181a et seq.), referred to in subsec. (d)(4)(C), is act Aug. 28, 1937, ch. 876, 50 Stat. 874, which enacted sections 1181a to 1181f of Title 43, Public Lands, repealed section 1174 of Title 43, and enacted provisions set out as a note under section 1181a of Title 43. For complete classification of this Act to the Code, see Tables.
 
-The Endangered Species Act, referred to in subsec. (d)(5), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+The Endangered Species Act, referred to in subsec. (d)(5), probably means the Endangered Species Act of1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
 Public Law 101–630, 25 U.S.C. 3107, referred to in subsec. (d)(5), is probably a reference to section 308 of Pub. L. 101–630, which is classified to section 3107 of this title.
 
@@ -134,7 +134,7 @@ The Indian Self-Determination Act, referred to in subsec. (d)(6), is title I of 
 
 #### Amendments
 
-1996—Subsec. (d). Pub. L. 104–208 added subsec. (d).
+<b>1996</b>—Subsec. (d). Pub. L. 104–208 added subsec. (d).
 
 #### Change of Name
 

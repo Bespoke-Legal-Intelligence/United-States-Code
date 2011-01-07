@@ -20,9 +20,9 @@
 
 #### Amendments
 
-2003—Pub. L. 108–170 redesignated last sentence of subsec. (a) as subsec. (c), added subsec. (b), and redesignated former subsecs. (b) and (c) as (d) and (e), respectively.
+<b>2003</b>—Pub. L. 108–170 redesignated last sentence of subsec. (a) as subsec. (c), added subsec. (b), and redesignated former subsecs. (b) and (c) as (d) and (e), respectively.
 
-1991—Pub. L. 102–40 renumbered section 5021 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5021 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in par. (2) and in last sentence.
 
@@ -30,11 +30,11 @@ Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans�
 
 Subsec. (c). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-1980—Subsec. (a). Pub. L. 96–330 substituted “actual direct cost (which may be based on the cost of recent significant purchases of the equipment or supply item involved)” for “actual direct” in par. (2), and, in provisions following par. (3), substituted “At the end of each fiscal year, there shall be covered into the Treasury of the United States as miscellaneous receipts such amounts as the Administrator determines to be in excess of the requirements necessary for the maintenance of adequate inventory levels and for the effective financial management of the revolving supply fund” for “At the end of each fiscal year, any net income of the fund, after making provision for prior losses, shall be covered into the Treasury of the United States as miscellaneous receipts”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–330 substituted “actual direct cost (which may be based on the cost of recent significant purchases of the equipment or supply item involved)” for “actual direct” in par. (2), and, in provisions following par. (3), substituted “At the end of each fiscal year, there shall be covered into the Treasury of the United States as miscellaneous receipts such amounts as the Administrator determines to be in excess of the requirements necessary for the maintenance of adequate inventory levels and for the effective financial management of the revolving supply fund” for “At the end of each fiscal year, any net income of the fund, after making provision for prior losses, shall be covered into the Treasury of the United States as miscellaneous receipts”.
 
-1976—Subsec. (c). Pub. L. 94–581 substituted “the Administrator” for “him”.
+<b>1976</b>—Subsec. (c). Pub. L. 94–581 substituted “the Administrator” for “him”.
 
-1961—Subsec. (a). Pub. L. 87–314 included among the purposes for which the supply fund was established, the repair and reclamation of used, spent, or excess personal property, and authorized the crediting of the fund with property returned to the supply system when no longer required by activities to which it had been furnished.
+<b>1961</b>—Subsec. (a). Pub. L. 87–314 included among the purposes for which the supply fund was established, the repair and reclamation of used, spent, or excess personal property, and authorized the crediting of the fund with property returned to the supply system when no longer required by activities to which it had been furnished.
 
 #### Effective Date of 2003 Amendment
 

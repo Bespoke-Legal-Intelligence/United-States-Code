@@ -58,7 +58,7 @@ Section is comprised of subsecs. (a)–(c) and (e) of section 606 of Pub. L. 97�
 
 #### Amendments
 
-1984—Subsec. (c)(1). Pub. L. 98–620 struck out provision that required review of agency action pursuant to this chapter to be expedited to same extent as expedited review provided by section 1108 of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3168).
+<b>1984</b>—Subsec. (c)(1). Pub. L. 98–620 struck out provision that required review of agency action pursuant to this chapter to be expedited to same extent as expedited review provided by section 1108 of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3168).
 
 #### Effective Date of 1984 Amendment
 

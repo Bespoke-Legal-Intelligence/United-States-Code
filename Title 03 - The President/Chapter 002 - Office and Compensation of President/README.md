@@ -58,7 +58,7 @@ The Domestic Council staff is hereby designated the Domestic Policy Staff and sh
 
 #### Sec. 2. Establishment of an Office of Administration
 
-There is hereby established in the Executive Office of the President the Office of Administration which shall be headed by the President. There shall be a Director of the Office of Administration. The Director shall beappointed by the President and shall serve as chief administrative officer of the Office of Administration. The President is authorized to fix the compensation and duties of the Director.
+There is hereby established in the Executive Office of the President the Office of Administration which shall be headed by the President. There shall be a Director of the Office of Administration. The Director shall be appointed by the President and shall serve as chief administrative officer of the Office of Administration. The President is authorized to fix the compensation and duties of the Director.
 
 The Office of Administration shall provide components of the Executive Office of the President with such administrative services as the President shall from time to time direct.
 
@@ -130,7 +130,7 @@ These recommendations arise from a careful, systematic study of the EOP. They ar
 
 The EOP now consists of the immediate White House Office, the Vice President's Office, the Office of Management and Budget, and fourteen other agencies. The EOP has a budget authority of about $80,000,000 and 1,712 full time employees.
 
-The White House Office concentrates on close personal support including policy and political advice and administrative and operational services. The Office of the Vice President provides similar support to him. OMB's primary mission is to develop and implementthe budget; it also carries out a number of management and reorganization activities.
+The White House Office concentrates on close personal support including policy and political advice and administrative and operational services. The Office of the Vice President provides similar support to him. OMB's primary mission is to develop and implement the budget; it also carries out a number of management and reorganization activities.
 
 Three EOP units have responsibility for policy development:
 
@@ -332,7 +332,7 @@ In summary this plan would:
 
 &emsp;Make other incidental transfers attendant to those mentioned above.
 
-Each of the changes set forth in the plan accompanying this message is necessary to accomplish one ormore of the purposes set forth in Section 901(a) of Title 5 of the United States Code. I have taken care to determine that all functions abolished by the plan are done so only under statutory authority provided by Section 903(b) of Title 5 of the United States Code. The provisions in the plan for the appointment and pay of any head or officer of any agency have been found by me to be necessary.
+Each of the changes set forth in the plan accompanying this message is necessary to accomplish one or more of the purposes set forth in Section 901(a) of Title 5 of the United States Code. I have taken care to determine that all functions abolished by the plan are done so only under statutory authority provided by Section 903(b) of Title 5 of the United States Code. The provisions in the plan for the appointment and pay of any head or officer of any agency have been found by me to be necessary.
 
 As we continue our studies of other parts of the Executive Branch, we will find more ways to improve services in the EOP and elsewhere. This plan is only a beginning, but I am confident that it represents a major step toward a more efficient government that will serve the needs of the people and the President well.
 
@@ -510,7 +510,7 @@ Sec. 2. <i>Membership</i>. The Council shall comprise the:
 
 (aa) Such other officials of Executive departments and agencies as the President may, from time to time, designate.
 
-Sec. 3. <i>Meeting of the Council</i>. The President, or upon his direction, the Assistant to the President for Domestic Policy (“the Assistant”), may convene meetings ofthe Council. The President shall preside over the meetings of the Council, provided that in his absence the Vice President, and in his absence the Assistant, will preside.
+Sec. 3. <i>Meeting of the Council</i>. The President, or upon his direction, the Assistant to the President for Domestic Policy (“the Assistant”), may convene meetings of the Council. The President shall preside over the meetings of the Council, provided that in his absence the Vice President, and in his absence the Assistant, will preside.
 
 Sec. 4. <i>Functions</i>. (a) The principal functions of the Council are: (1) to coordinate the domestic policy-making process; (2) to coordinate domestic policy advice to the President; (3) to ensure that domestic policy decisions and programs are consistent with the President's stated goals, and to ensure that those goals are being effectively pursued; and (4) to monitor implementation of the President's domestic policy agenda. The Assistant may take such actions, including drafting a Charter, as may be necessary or appropriate to implement such functions.
 
@@ -634,7 +634,7 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13503, Feb. 19, 2009, 74 F.R. 8139, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to take a coordinated and comprehensive approach to developing and implementing an effective strategy concerning urban America, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, and in order to take a coordinated and comprehensive approach to developing and implementing an effective strategy concerning urban America, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. About 80 percent of Americans live in urban areas, and the economic health and social vitality of our urban communities are critically important to the prosperity and quality of life for Americans. Vibrant cities spawn innovation, economic growth, and cultural enrichment through the businesses, universities, and civic, cultural, religious, and nonprofit institutions they attract. Forward-looking policies that encourage wise investment and development in our urban areas will create employment and housing opportunities and make our country more competitive, prosperous, and strong. In the past, insufficient attention has been paid to the problems faced by urban areas and to coordinating the many Federal programs that affect our cities. A more comprehensive approach is needed, both to develop an effective strategy for urban America and to coordinate the actions of the many executive departments and agencies whose actions impact urban life.
 
@@ -758,7 +758,7 @@ Sec. 2. <i>White House Council on Automotive Communities and Workers</i>. There 
 
 A member of the Council may designate, to perform the Council functions of the member, a senior-level official who is a part of the member's department, agency, or office, and who is a full-time officer or employee of the Federal Government.
 
-(b) <i>Administration</i>. The Co-Chairs shall convene regular meetings of the Council, determine its agenda, and direct its work. The Director for Recovery of Auto Communities and Workers (Director of Recovery) shall serve as Executive Director of the Council and shall coordinate the Council's activities. At the direction of the Co-Chairs, the Council may establish subgroupsconsisting exclusively of Council members or their designees, as appropriate.
+(b) <i>Administration</i>. The Co-Chairs shall convene regular meetings of the Council, determine its agenda, and direct its work. The Director for Recovery of Auto Communities and Workers (Director of Recovery) shall serve as Executive Director of the Council and shall coordinate the Council's activities. At the direction of the Co-Chairs, the Council may establish subgroups consisting exclusively of Council members or their designees, as appropriate.
 
 Sec. 3. <i>Mission and Functions</i>. The Council shall perform the following functions, to the extent permitted by law:
 
@@ -842,7 +842,7 @@ Sec. 2. <i>Mission and Functions of the Task Force</i>. The Task Force shall wor
 
 Sec. 3. <i>Outreach</i>. Consistent with the objectives set out in section 2 of this memorandum, the Task Force, in accordance with applicable law, in addition to regular meetings, shall conduct outreach with representatives of labor, business, nonprofit organizations, State and local government agencies, and other interested persons that will assist with the Task Force's development of a detailed set of recommendations.
 
-Sec. 4. <i>Transparency and Reports</i>. The Task Force shall facilitate the posting on the Internet of submissions by outside parties and engage in an open, two-way dialogue with the American people. The Task Force shall present to the President annual reports, beginning 1 year from the date of this memorandum, onits findings and recommendations, which shall be made available to the public and posted on the Internet.
+Sec. 4. <i>Transparency and Reports</i>. The Task Force shall facilitate the posting on the Internet of submissions by outside parties and engage in an open, two-way dialogue with the American people. The Task Force shall present to the President annual reports, beginning 1 year from the date of this memorandum, on its findings and recommendations, which shall be made available to the public and posted on the Internet.
 
 Sec. 5. <i>General Provisions</i>. (a) The heads of executive departments and agencies shall assist and provide information to the Task Force, consistent with applicable law, as may be necessary to carry out the functions of the Task Force. Each executive department and agency shall bear its own expense for participating in the Task Force.
 

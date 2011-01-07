@@ -58,7 +58,7 @@ Provisions similar to those in this section were contained in section 3040(a)–
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–181, §1811(a), added pars. (1) to (8) and struck out former pars. (1) to (3) which read as follows:
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §1811(a), added pars. (1) to (8) and struck out former pars. (1) to (3) which read as follows:
 
 “(1) are recommended for such appointment by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard;
 
@@ -70,11 +70,11 @@ Subsec. (b). Pub. L. 110–181, §1825(c)(2), inserted par. (1) designation befo
 
 Pub. L. 110–181, §1811(c), struck out “An officer may not hold that office after becoming 64 years of age.” after “four years.”
 
-Subsec. (c). Pub. L. 110–181, §1811(d), amended subsec. (c) generally. Prior to amendment, text read as follows: “The Chief of the National Guard Bureau is the principal adviser to the Secretary of the Army and the Chief of Staff of the Army, and to the Secretary of the Air Force and the Chief of Staff of the Air Force, on matters relating to the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States.”
+Subsec. (c). Pub. L. 110–181, §1811(d), amended subsec. (c) generally. Prior to amendment, text read as follows:“The Chief of the National Guard Bureau is the principal adviser to the Secretary of the Army and the Chief of Staff of the Army, and to the Secretary of the Air Force and the Chief of Staff of the Air Force, on matters relating to the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States.”
 
 Subsec. (d). Pub. L. 110–181, §1811(b), substituted “general” for “lieutenant general”.
 
-2004—Pub. L. 108–375, §507(b)(1), inserted “; succession” after “grade” in section catchline.
+<b>2004</b>—Pub. L. 108–375, §507(b)(1), inserted “; succession” after “grade” in section catchline.
 
 Subsec. (e). Pub. L. 108–375, §507(a), added subsec. (e).
 

@@ -54,7 +54,7 @@ The Director, through the Institute, shall be responsible for—
 
 &emsp;&emsp;(D) the individuals’ representatives for the individuals described in subparagraph (C);
 
-&emsp;(5)(A) conducting an education program to inform the public about ways of providing for the rehabilitation of individuals with disabilities, including information relating to—
+&emsp;(5)(A) conducting an education program to inform the public about ways of providing forthe rehabilitation of individuals with disabilities, including information relating to—
 
 &emsp;&emsp;(i) family care;
 
@@ -64,7 +64,7 @@ The Director, through the Institute, shall be responsible for—
 
 &emsp;(B) as part of the program, disseminating engineering information about assistive technology devices;
 
-&emsp;(6) conducting conferences, seminars, and workshops (including in-service training programs and programs for individuals with disabilities) concerning advances in rehabilitation research and rehabilitation technology (including advances concerning the selection and use of assistive technology devices and assistive technology services), pertinent to thefull inclusion and integration into society, employment, independent living, family support, and economic and social self-sufficiency of individuals with disabilities;
+&emsp;(6) conducting conferences, seminars, and workshops (including in-service training programs and programs for individuals with disabilities) concerning advances in rehabilitation research and rehabilitation technology (including advances concerning the selection and use of assistive technology devices and assistive technology services), pertinent to the full inclusion and integration into society, employment, independent living, family support, and economic and social self-sufficiency of individuals with disabilities;
 
 &emsp;(7) taking whatever action is necessary to keep the Congress fully and currently informed with respect to the implementation and conduct of programs and activities carried out under this subchapter, including dissemination activities;
 
@@ -156,19 +156,17 @@ In order to promote cooperation among Federal departments and agencies conductin
 
 (2) Any person responsible for administering any program of the National Institutes of Health, the Department of Veterans Affairs, the National Science Foundation, the National Aeronautics and Space Administration, the Office of Special Education and Rehabilitative Services, or of any other Federal entity, shall, through the Interagency Committee established by section 763 of this title, consult and cooperate with the Director in carrying out such program if the program is related to the purposes of this subchapter.
 
-(3) The Director shall support, directly or by grant or contract, a center associated with an institution of higher education, for research and training concerning the delivery of vocational rehabilitation services to rural areas.
+(3) The Director shall support, directly or by grant or contract, a center associated with aninstitution of higher education, for research and training concerning the delivery of vocational rehabilitation services to rural areas.
 
 #### (k) Grants for training
 
 The Director shall make grants to institutions of higher education for the training of rehabilitation researchers, including individuals with disabilities, with particular attention to research areas that support the implementation and objectives of this chapter and that improve the effectiveness of services authorized under this chapter.
 
-(Pub. L. 93–112, title II, §202, as added Pub. L. 105–220, title IV, §405, Aug. 7, 1998, 112 Stat. 1168; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(16)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 106–402, title IV, §401(b)(3)(B), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 107–110, titleX, §1076(u)(1), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 108–173, title IX, §900(e)(6)(A), Dec. 8, 2003, 117 Stat. 2373.)
+(Pub. L. 93–112, title II, §202, as added Pub. L. 105–220, title IV, §405, Aug. 7, 1998, 112 Stat. 1168; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(16)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 106–402, title IV, §401(b)(3)(B), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 107–110, title X, §1076(u)(1), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 108–173, title IX, §900(e)(6)(A), Dec. 8, 2003, 117 Stat. 2373.)
 
 #### References in Text
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (b)(11), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. Section 506 of the Act was renumbered section 507 by Pub. L. 110–325, §6(a)(2), Sept. 25, 2008, 122 Stat. 3558. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
-
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (d)(2), (3), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (h)(2)(D)(iii), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§15001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
@@ -180,13 +178,13 @@ A prior section 762, Pub. L. 93–112, title II, §204, formerly §202, Sept. 26
 
 #### Amendments
 
-2003—Subsec. (b)(8). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
+<b>2003</b>—Subsec. (b)(8). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
 
-2002—Subsec. (b)(4)(A)(i). Pub. L. 107–110 substituted “7801” for “8801”.
+<b>2002</b>—Subsec. (b)(4)(A)(i). Pub. L. 107–110 substituted “7801” for “8801”.
 
-2000—Subsec. (h)(2)(D)(iii). Pub. L. 106–402 substituted “Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6000 et seq.)”.
+<b>2000</b>—Subsec. (h)(2)(D)(iii). Pub. L. 106–402 substituted “Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6000 et seq.)”.
 
-1998—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, §405, which enacted this section.
+<b>1998</b>—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, §405, which enacted this section.
 
 #### Effective Date of 2002 Amendment
 

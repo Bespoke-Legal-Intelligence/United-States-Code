@@ -26,11 +26,13 @@ Section 103, referred to in subsec. (a), which related to interest on certain go
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–326 amended heading and text generally, substituting provisions relating to exemption of all bonds from income taxation by State and local governments for provisions relating to exemption from taxation and definition of State.
+<b>2004</b>—Subsec. (b). Pub. L. 108–326 amended heading and text generally, substituting provisions relating to exemption of all bonds from income taxation by State and local governments for provisions relating to exemption from taxation and definition of State.
 
-1986—Subsecs. (a), (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsecs. (a), (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 #### Effective Date of 2004 Amendment
 
 Pub. L. 108–326, §2, Oct. 16, 2004, 118 Stat. 1270, provided that: “This Act \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Oct. 16, 2004\].”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

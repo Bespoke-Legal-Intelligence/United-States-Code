@@ -12,13 +12,15 @@
 
 (C) If the Secretary determines it to be further necessary in order to obtain or retain the services of nurses at a particular facility, a nurse to whom this paragraph is applicable who performs service in excess of such nurse's regularly scheduled two 12-hour tours of duty may be paid overtime pay under section 7453(e) of this title, or other applicable law, for all or part of the hours of officially ordered or approved service performed by such nurse in excess of 40 hours during an administrative workweek.
 
-(c) A nurse described in subsection (b)(1) who is absent on approved sick leave or annual leave during a regularly scheduled 12-hour tour of duty shall be charged for such leave at a rate of five hours of leave for three hours of absence.
+(c) The Secretary shall prescribe regulations for the implementation of this section.
 
-(d) The Secretary shall prescribe regulations for the implementation of this section.
-
-(Added Pub. L. 102–40, title IV, §401(b)(4), May 7, 1991, 105 Stat. 235.)
+(Added Pub. L. 102–40, title IV, §401(b)(4), May 7, 1991, 105 Stat. 235; amended Pub. L. 111–163, title VI, §602(b), May 5, 2010, 124 Stat. 1173.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 4107(h) of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
+
+#### Amendments
+
+<b>2010</b>—Subsecs. (c), (d). Pub. L. 111–163 redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “A nurse described in subsection (b)(1) who is absent on approved sick leave or annual leave during a regularly scheduled 12-hour tour of duty shall be charged for such leave at a rate of five hours of leave for three hours of absence.”
 

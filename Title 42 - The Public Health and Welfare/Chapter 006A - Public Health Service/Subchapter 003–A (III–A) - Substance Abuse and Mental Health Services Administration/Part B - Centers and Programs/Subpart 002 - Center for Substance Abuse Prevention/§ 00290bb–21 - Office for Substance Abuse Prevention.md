@@ -56,13 +56,13 @@ Another prior section 515 of act July 1, 1944, which was classified to section 2
 
 #### Amendments
 
-2000—Subsec. (b)(9). Pub. L. 106–310, §3112(b)(2), added par. (9). Former par. (9) redesignated (10).
+<b>2000</b>—Subsec. (b)(9). Pub. L. 106–310, §3112(b)(2), added par. (9). Former par. (9) redesignated (10).
 
 Subsec. (b)(10). Pub. L. 106–310, §3112(b)(1), (3), redesignated par. (9) as (10) and substituted “educate the public, especially adolescent audiences, concerning” for “educate the public concerning”. Former par. (10) redesignated (11).
 
 Subsec. (b)(11). Pub. L. 106–310, §3112(b)(1), redesignated par. (10) as (11).
 
-1992—Subsec. (a). Pub. L. 102–321, §113(e)(1), substituted “(hereafter referred to in this part as the ‘Prevention Center’)” for “(hereafter in this part referred to as the ‘Office’)”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–321, §113(e)(1), substituted “(hereafter referred to in this part as the ‘Prevention Center’)” for “(hereafter in this part referred to as the ‘Office’)”.
 
 Subsec. (b). Pub. L. 102–321, §113(e)(2), substituted “Prevention Center” for “Office” in introductory provisions.
 
@@ -90,13 +90,13 @@ Subsec. (d). Pub. L. 102–321, §113(d), amended subsec. (d) generally. Prior t
 
 “(2) Of the amounts appropriated pursuant to paragraph (1) for a fiscal year, the Secretary shall make available not less than $5,000,000 to carry out paragraphs (5) and (11) of subsection (b) of this section.”
 
-1990—Subsec. (b)(12). Pub. L. 101–647 added par. (12).
+<b>1990</b>—Subsec. (b)(12). Pub. L. 101–647 added par. (12).
 
-1989—Subsec. (b)(11)(B). Pub. L. 101–93, §3(a)(2), substituted “subparagraph (A)” for “subparagraph (a)”.
+<b>1989</b>—Subsec. (b)(11)(B). Pub. L. 101–93, §3(a)(2), substituted “subparagraph (A)” for “subparagraph (a)”.
 
 Subsec. (d)(1). Pub. L. 101–93, §3(a)(1), inserted a comma after “290aa–13 of this title”.
 
-1988—Subsec. (b)(5). Pub. L. 100–690, §2051(b)(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “support programs of clinical training of substance abuse counselors and other health professionals;”.
+<b>1988</b>—Subsec. (b)(5). Pub. L. 100–690, §2051(b)(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “support programs of clinical training of substance abuse counselors and other health professionals;”.
 
 Subsec. (b)(10). Pub. L. 100–690, §2051(b)(2) added par. (10).
 

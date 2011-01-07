@@ -242,27 +242,27 @@ For definition of Canal Zone, referred to in pars. (7) and (9), see section 3602
 
 #### Amendments
 
-2006—Par. (24)(C). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Par. (24)(C). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
-2002—Par. (1). Pub. L. 107–314 designated existing provisions as subpar. (A) and added subpar. (B).
+<b>2002</b>—Par. (1). Pub. L. 107–314 designated existing provisions as subpar. (A) and added subpar. (B).
 
 Par. (5)(D). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-2001—Par. (22). Pub. L. 107–107 inserted “(except as provided in section 206(d)(2) of this title)” after “but” in concluding provisions.
+<b>2001</b>—Par. (22). Pub. L. 107–107 inserted “(except as provided in section 206(d)(2) of this title)” after “but” in concluding provisions.
 
-1998—Par. (2). Pub. L. 105–261 struck out “the Canal Zone,” after “includes”.
+<b>1998</b>—Par. (2). Pub. L. 105–261 struck out “the Canal Zone,” after “includes”.
 
-1997—Par. (25). Pub. L. 105–85 substituted “basic allowance for housing” for “basic allowance for quarters (including any variable housing allowance or station housing allowance)”.
+<b>1997</b>—Par. (25). Pub. L. 105–85 substituted “basic allowance for housing” for “basic allowance for quarters (including any variable housing allowance or station housing allowance)”.
 
-1993—Par. (26). Pub. L. 103–160 made technical amendment to directory language of Pub. L. 102–484. See 1992 Amendment note below.
+<b>1993</b>—Par. (26). Pub. L. 103–160 made technical amendment to directory language of Pub. L. 102–484. See 1992 Amendment note below.
 
-1992—Par. (26). Pub. L. 102–484, as amended by Pub. L. 103–160, substituted “section 101 of title 10” for “section 101(47) of title 10”.
+<b>1992</b>—Par. (26). Pub. L. 102–484, as amended by Pub. L. 103–160, substituted “section 101 of title 10” for “section 101(47) of title 10”.
 
-1991—Par. (26). Pub. L. 102–190 added par. (26).
+<b>1991</b>—Par. (26). Pub. L. 102–190 added par. (26).
 
-1988—Par. (5). Pub. L. 100–456 substituted “Secretary” for “secretary” in introductory provisions.
+<b>1988</b>—Par. (5). Pub. L. 100–456 substituted “Secretary” for “secretary” in introductory provisions.
 
-1987—Pub. L. 100–26, §8(e)(1)(A), substituted “the following definitions apply in this title:” for “for the purposes of this title—”.
+<b>1987</b>—Pub. L. 100–26, §8(e)(1)(A), substituted “the following definitions apply in this title:” for “for the purposes of this title—”.
 
 Pub. L. 100–26, §8(e)(1)(B), inserted “The term” at beginning of pars. (1) to (25).
 
@@ -270,9 +270,9 @@ Pub. L. 100–26, §8(e)(1)(C), which directed that this section be amended by r
 
 Pub. L. 100–26, §8(e)(1)(D), (E), which directed a period be substituted for the semicolon at end of pars. (1) to (24) and that “and” be struck out at end of par. (24), was executed by making the substitution in pars. (1) to (23) and by striking “and” at end of par. (23), to reflect the probable intent of Congress, because par. (24) already ended in a period and “and” appeared at end of par. (23), not par. (24).
 
-1984—Cl. (18). Pub. L. 98–525 inserted “full-time National Guard duty,” after “annual training duty,”.
+<b>1984</b>—Cl. (18). Pub. L. 98–525 inserted “full-time National Guard duty,” after “annual training duty,”.
 
-1980—Cls. (3), (5)(E). Pub. L. 96–513, §516(1)(A), substituted “National Oceanic and Atmospheric” for “Environmental Science Services”.
+<b>1980</b>—Cls. (3), (5)(E). Pub. L. 96–513, §516(1)(A), substituted “National Oceanic and Atmospheric” for “Environmental Science Services”.
 
 Cl. (5)(F). Pub. L. 96–513, §516(1)(B), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
@@ -282,13 +282,13 @@ Cl. (18). Pub. L. 96–513, §506(1), struck out “duty on the active list,” 
 
 Cl. (25). Pub. L. 96–579 defined “regular compensation” or “regular military compensation (RMC)” to include with respect to basic allowance for quarters any variable housing allowance or station housing allowance.
 
-1974—Cl. (25). Pub. L. 93–419 added cl. (25).
+<b>1974</b>—Cl. (25). Pub. L. 93–419 added cl. (25).
 
-1972—Cls. (7), (9). Pub. L. 92–492 inserted references to Virgin Islands.
+<b>1972</b>—Cls. (7), (9). Pub. L. 92–492 inserted references to Virgin Islands.
 
-1968—Cl. (5)(D). Pub. L. 90–623 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+<b>1968</b>—Cl. (5)(D). Pub. L. 90–623 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 
-1966—Cls. (3), (5)(E). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
+<b>1966</b>—Cls. (3), (5)(E). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
 
 #### Effective Date of 2002 Amendment
 

@@ -20,11 +20,11 @@ In subsec. (c), “subchapter II of chapter 5, and chapter 7, of title 5” subs
 
 #### Amendments
 
-1996—Subsecs. (b) to (d). Pub. L. 104–104 redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “Radio stations on board vessels of the Maritime Administration of the Department of Transportation or the Inland and Coastwise Waterways Service shall be subject to the provisions of this subchapter.”
+<b>1996</b>—Subsecs. (b) to (d). Pub. L. 104–104 redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “Radio stations on board vessels of the Maritime Administration of the Department of Transportation or the Inland and Coastwise Waterways Service shall be subject to the provisions of this subchapter.”
 
-1981—Subsec. (b). Pub. L. 97–31 substituted “Maritime Administration of the Department of Transportation” for “United States Shipping Board Bureau or the United States Shipping Board Merchant Fleet Corporation”. For prior transfers of functions, see Transfer of Functions note set out below.
+<b>1981</b>—Subsec. (b). Pub. L. 97–31 substituted “Maritime Administration of the Department of Transportation” for “United States Shipping Board Bureau or the United States Shipping Board Merchant Fleet Corporation”. For prior transfers of functions, see Transfer of Functions note set out below.
 
-1962—Subsec. (d). Pub. L. 87–795 added subsec. (d).
+<b>1962</b>—Subsec. (d). Pub. L. 87–795 added subsec. (d).
 
 #### Transfer of Functions
 
@@ -362,7 +362,7 @@ General
 
 6–302. All Executive agencies are authorized and directed to cooperate with the departments and agencies to which functions are assigned pursuant to this Order and to furnish them such information, support and assistance, not inconsistent with law, as they may require in the performance of those functions.
 
-6–303. (a) Nothing in this Order reassigns any function assigned any agency under the Federal Property and Administrative Services Act of 1949, as amended \[now chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and title III of the Act of June 30, 1949 (41 U.S.C. 251 et seq.)\], nor does anything in this Order impair the existing authority of the Administrator of General Services to provide and operate telecommunications services and to prescribe policies and methods of procurement, or impair the policy and oversight roles of the Office of Management and Budget.
+6–303. (a) Nothing in this Order reassigns any function assigned any agency under the Federal Property and Administrative Services Act of 1949, as amended \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], nor does anything in this Order impair the existing authority of the Administrator of General Services to provide and operate telecommunications services and to prescribe policies and methods of procurement, or impair the policy and oversight roles of the Office of Management and Budget.
 
 (b) In carrying out the functions in this Order, the Secretary of Commerce shall coordinate activities as appropriate with the Federal Communications Commission and make appropriate recommendations to it as the regulator of the private sector. Nothing in this Order reassigns any function vested by law in the Federal Communications Commission.
 

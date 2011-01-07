@@ -12,17 +12,25 @@
 
 (4) For the purposes of this section, the term “qualifying work-study activity” means any of the following:
 
-&emsp;(A) The outreach services program under chapter 63 of this title as carried out under the supervision of a Department employee or, during the period preceding June 30, 2010, outreach services to servicemembers and veterans furnished by employees of a State approving agency.
+&emsp;(A) The outreach services program under chapter 63 of this title as carried out under the supervision of a Department employee or, during the period preceding June 30, 2013, outreach services to servicemembers and veterans furnished by employees of a State approving agency.
 
 &emsp;(B) The preparation and processing of necessary papers and other documents at educational institutions or regional offices or facilities of the Department.
 
-&emsp;(C) The provision of hospital and domiciliary care and medical treatment under chapter 17 of this title, including, during the period preceding June 30, 2010, the provision of such care to veterans in a State home for which payment is made under section 1741 of this title.
+&emsp;(C) The provision of hospital and domiciliary care and medical treatment under chapter 17 of this title, including, during the period preceding June 30, 2013, the provision of such careto veterans in a State home for which payment is made under section 1741 of this title.
 
 &emsp;(D) Any other activity of the Department as the Secretary determines appropriate.
 
 &emsp;(E) In the case of an individual who is receiving educational assistance under chapter 1606 or 1607 of title 10, an activity relating to the administration of that chapter at Department of Defense, Coast Guard, or National Guard facilities.
 
-&emsp;(F) During the period preceding June 30, 2010, an activity relating to the administration of a national cemetery or a State veterans’ cemetery.
+&emsp;(F) During the period preceding June 30, 2013, an activity relating to the administration of a national cemetery or a State veterans’ cemetery.
+
+&emsp;(G) Any activity of a State veterans agency related to providing assistance to veterans in obtaining any benefit under the laws administered by the Secretary or the laws of the State.
+
+&emsp;(H) A position working in a Center of Excellence for Veteran Student Success, as established pursuant to part T of title VIII of the Higher Education Act of 1965 (20 U.S.C. 1161t et seq.).
+
+&emsp;(I) A position working in a cooperative program carried out jointly by the Department and an institution of higher learning.
+
+&emsp;(J) Any other veterans-related position in an institution of higher learning.
 
 (5) An individual may elect, in a manner prescribed by the Secretary, to be paid in advance an amount equal to 40 percent of the total amount of the work-study allowance agreed to be paid under the agreement in return for the individual's agreement to perform the number of hours of work specified in the agreement (but not more than an amount equal to 50 times the applicable hourly minimum wage).
 
@@ -46,7 +54,7 @@
 
 &emsp;(i) waive, in whole or in part, the limitations in subsection (a) of this section concerning the number of hours and periods during which services can be performed by the individual and the provisions of subsection (b) of this section requiring the individual's pursuit of a program of rehabilitation, education, or training;
 
-&emsp;(ii) in accordance with such terms and conditions as may be specified in the agreement under this subsection, waive or defer charging interest and administrative costs pursuant to section 5315 of this title on the indebtedness to be satisfied by performance of the agreement; and
+&emsp;(ii) in accordance with such terms and conditions as may be specified in the agreement under this subsection, waive or defer charging interest and administrative costs pursuant tosection 5315 of this title on the indebtedness to be satisfied by performance of the agreement; and
 
 &emsp;(iii) notwithstanding the indebtedness offset provisions of section 5314 of this title, waive or defer until the termination of an agreement under this subsection the deduction of all or any portion of the amount of indebtedness covered by the agreement from future payments to the individual as described in section 5314 of this title.
 
@@ -58,19 +66,25 @@
 
 (4) The Secretary shall promulgate regulations to carry out this subsection.
 
-(Added Pub. L. 92–540, title II, §203, Oct. 24, 1972, 86 Stat. 1079, §1685; amended Pub. L. 93–508, title II, §205, Dec. 3, 1974, 88 Stat. 1582; Pub. L. 94–502, title II, §§208, 211(11), Oct. 15, 1976, 90 Stat. 2388, 2389; Pub. L. 95–202, title I, §105, Nov. 23, 1977, 91 Stat. 1435; Pub. L. 96–466, title VIII, §801(b), Oct. 17, 1980, 94 Stat. 2216; Pub. L. 97–295, §4(42), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 99–576, title III, §308(c), Oct. 28, 1986, 100 Stat. 3270; Pub. L. 101–237, title IV, §§405(a)–(d)(2), (4)(A), 423(b)(1), Dec. 18, 1989, 103 Stat. 2080, 2081, 2092; Pub. L. 102–16, §§6(a)–(b)(2), 10(a)(5), Mar. 22, 1991, 105 Stat. 50, 51, 55; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3485 and amended Pub. L. 102–83, §§2(c)(2), 5(a), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–568, title III, §311, Oct. 29, 1992, 106 Stat. 4330; Pub. L. 105–368, title II, §202(a), Nov. 11, 1998, 112 Stat. 3326; Pub. L. 107–14, §8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 107–103, title I, §107(a), Dec. 27, 2001, 115 Stat. 983; Pub. L. 107–330, title III, §308(g)(11), Dec. 6, 2002, 116 Stat. 2829; Pub. L. 108–183, title III, §306(f)(1), Dec. 16, 2003, 117 Stat. 2661; Pub. L. 109–233, title IV, §402(e)(1), June 15, 2006, 120 Stat. 411; Pub. L. 109–444, §2(g), Dec. 21, 2006, 120 Stat. 3305; Pub. L. 109–461, title III, §§304, 307, title X, §1006(b), Dec. 22, 2006, 120 Stat. 3428, 3429, 3468; Pub. L. 110–157, title III, §302, Dec. 26, 2007, 121 Stat. 1836; Pub. L. 110–252, title V, §5003(b)(2)(A)(i), June 30, 2008, 122 Stat. 2375.)
+(Added Pub. L. 92–540, title II, §203, Oct. 24, 1972, 86 Stat. 1079, §1685; amended Pub. L. 93–508, title II, §205, Dec. 3, 1974, 88 Stat. 1582; Pub. L. 94–502, title II, §§208, 211(11), Oct. 15, 1976, 90 Stat. 2388, 2389; Pub. L. 95–202, title I, §105, Nov. 23, 1977, 91 Stat. 1435; Pub. L. 96–466, title VIII, §801(b), Oct. 17, 1980, 94 Stat. 2216; Pub. L. 97–295, §4(42), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 99–576, title III, §308(c), Oct. 28, 1986, 100 Stat. 3270; Pub. L. 101–237, title IV, §§405(a)–(d)(2), (4)(A), 423(b)(1), Dec. 18, 1989, 103 Stat. 2080, 2081, 2092; Pub. L. 102–16, §§6(a)–(b)(2), 10(a)(5), Mar. 22, 1991, 105 Stat. 50, 51, 55; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3485 and amended Pub. L. 102–83, §§2(c)(2), 5(a), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–568, title III, §311, Oct. 29, 1992, 106 Stat. 4330; Pub. L. 105–368, title II, §202(a), Nov. 11, 1998, 112 Stat. 3326; Pub. L. 107–14, §8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 107–103, title I, §107(a), Dec. 27, 2001, 115 Stat. 983; Pub. L. 107–330, title III, §308(g)(11), Dec. 6, 2002, 116 Stat. 2829; Pub. L. 108–183, title III, §306(f)(1), Dec. 16, 2003, 117 Stat. 2661; Pub. L. 109–233, title IV, §402(e)(1), June 15, 2006, 120 Stat. 411; Pub. L. 109–444, §2(g), Dec. 21, 2006, 120 Stat. 3305; Pub. L. 109–461, title III, §§304, 307, title X, §1006(b), Dec. 22, 2006, 120 Stat. 3428, 3429, 3468; Pub. L. 110–157, title III, §302, Dec. 26, 2007, 121 Stat. 1836; Pub. L. 110–252, title V, §5003(b)(2)(A)(i), June 30, 2008, 122 Stat. 2375; Pub. L. 111–275, title I, §101(a), (b), Oct. 13, 2010, 124 Stat. 2866.)
 
 #### References in Text
+
+The Higher Education Act of 1965, referred to in subsec. (a)(4)(H), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part T of title VIII of the Act is classified generally to part T (§1161t) of subchapter IX of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 Section 2135 of title 10, referred to in subsec. (e)(1), was renumbered section 16135 of Title 10, Armed Forces, by Pub. L. 103–337, div. A, title XVI, §1663(b)(2), Oct. 5, 1994, 108 Stat. 3006.
 
 #### Amendments
 
-2008—Subsecs. (b), (e)(1). Pub. L. 110–252 inserted “33,” after “32,”.
+<b>2010</b>—Subsec. (a)(4)(A), (C), (F). Pub. L. 111–275, §101(a), substituted “June 30, 2013” for “June 30, 2010”.
 
-2007—Subsec. (a)(4)(A), (C), (F). Pub. L. 110–157 substituted “June 30, 2010” for “June 30, 2007”.
+Subsec. (a)(4)(G) to (J). Pub. L. 111–275, §101(b), added subpars. (G) to (J).
 
-2006—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+<b>2008</b>—Subsecs. (b), (e)(1). Pub. L. 110–252 inserted “33,” after “32,”.
+
+<b>2007</b>—Subsec. (a)(4)(A), (C), (F). Pub. L. 110–157 substituted “June 30, 2010” for “June 30, 2007”.
+
+<b>2006</b>—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Subsec. (a)(4)(A). Pub. L. 109–461, §304, substituted “June 30, 2007” for “December 27, 2006”.
 
@@ -92,11 +106,11 @@ Subsec. (b). Pub. L. 109–461, §307(2), substituted “chapter 1606 or 1607”
 
 Subsec. (e)(1). Pub. L. 109–461, §307(3), substituted “a qualifying work-study activity described in subsection (a)(4)” for “services of the kind described in clauses (A) through (E) of subsection (a)(1) of this section” and “chapter 1606 or 1607” for “chapter 106”.
 
-2003—Subsec. (e)(1). Pub. L. 108–183 struck out “(other than an education loan under subchapter III)” after “chapter 30, 31, 32, 35, or 36”.
+<b>2003</b>—Subsec. (e)(1). Pub. L. 108–183 struck out “(other than an education loan under subchapter III)” after “chapter 30, 31, 32, 35, or 36”.
 
-2002—Subsec. (a)(4)(A), (C), (F). Pub. L. 107–330 substituted “the period preceding December 27, 2006” for “the five-year period beginning on the date of the enactment of the Veterans Education and Benefits Expansion Act of 2001”.
+<b>2002</b>—Subsec. (a)(4)(A), (C), (F). Pub. L. 107–330 substituted “the period preceding December 27, 2006” for “the five-year period beginning on the date of the enactment of the Veterans Education and Benefits Expansion Act of 2001”.
 
-2001—Subsec. (a). Pub. L. 107–103 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
+<b>2001</b>—Subsec. (a). Pub. L. 107–103 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
 “(a)(1) Individuals utilized under the authority of subsection (b) of this section shall be paid an additional educational assistance allowance (hereinafter referred to as ‘work-study allowance’). Such work-study allowance shall be paid in an amount equal to the applicable hourly minimum wage times the number of hours worked during the applicable period, in return for such individual's agreement to perform services, during or between periods of enrollment, aggregating not more than a number of hours equal to 25 times the number of weeks in the semester or other applicable enrollment period, required in connection with (A) the out-reach services program under subchapter II of chapter 77 of this title as carried out under the supervision of a Department of Veterans Affairs employee, (B) the preparation and processing of necessary papers and other documents at educational institutions or regional offices or facilities of the Department of Veterans Affairs, (C) the provision of hospital and domiciliary care and medical treatment under chapter 17 of this title, (D) any other activity of the Department of Veterans Affairs as the Secretary shall determine appropriate, or (E) in the case of an individual who is receiving educational assistance under chapter 106 of title 10, activities relating to the administration of such chapter at Department of Defense, Coast Guard, or National Guard facilities. An individual may elect, in a manner prescribed by the Secretary, to be paid in advance an amount equal to 40 percent of the total amount of the work-study allowance agreed to be paid under the agreement in return for the individual's agreement to perform the number of hours of work specified in the agreement (but not more than an amount equal to 50 times the applicable hourly minimum wage).
 
@@ -104,11 +118,11 @@ Subsec. (e)(1). Pub. L. 109–461, §307(3), substituted “a qualifying work-st
 
 Subsec. (a)(1). Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
 
-1998—Subsec. (a)(1). Pub. L. 105–368 substituted “An individual may elect, in a manner prescribed by the Secretary, to be paid in advance” for “An individual shall be paid in advance” in last sentence.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–368 substituted “An individual may elect, in a manner prescribed by the Secretary, to be paid in advance” for “An individual shall be paid in advance” in last sentence.
 
-1992—Subsec. (a)(1). Pub. L. 102–568 substituted “40 percent” for “40 per centum” and inserted before period at end “(but not more than an amount equal to 50 times the applicable hourly minimum wage)”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–568 substituted “40 percent” for “40 per centum” and inserted before period at end “(but not more than an amount equal to 50 times the applicable hourly minimum wage)”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1685 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1685 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 102–83, §2(c)(2), substituted “subchapter II of chapter 77” for “subchapter IV of chapter 3”.
 
@@ -122,7 +136,7 @@ Subsec. (e). Pub. L. 102–40 substituted “5315” for “3115” in par. (2)(
 
 Pub. L. 102–16, §6(a), added subsec. (e).
 
-1989—Pub. L. 101–237, §405(d)(4)(A), substituted “Work-study allowance” for “Veteran-student services” as section catchline.
+<b>1989</b>—Pub. L. 101–237, §405(d)(4)(A), substituted “Work-study allowance” for “Veteran-student services” as section catchline.
 
 Subsec. (a). Pub. L. 101–237, §423(b)(1), substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
@@ -138,21 +152,25 @@ Pub. L. 101–237, §405(d)(2)(B), (E)–(G), substituted “individuals” for 
 
 Subsec. (d). Pub. L. 101–237, §405(d)(2)(B), substituted “individuals” for “veteran-students”.
 
-1986—Subsec. (b). Pub. L. 99–576 substituted “rehabilitation, education, or training under chapter 30, 31, 32, or 34 of this title” for “education or training under chapters 31 and 34 of this title”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–576 substituted “rehabilitation, education, or training under chapter 30, 31, 32, or 34 of this title” for “education or training under chapters 31 and 34 of this title”.
 
-1982—Subsec. (a). Pub. L. 97–295 inserted “(29 U.S.C. 206(a))” after “Act of 1938” the first time it appeared.
+<b>1982</b>—Subsec. (a). Pub. L. 97–295 inserted “(29 U.S.C. 206(a))” after “Act of 1938” the first time it appeared.
 
-1980—Subsec. (d). Pub. L. 96–466 substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1980</b>—Subsec. (d). Pub. L. 96–466 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-1977—Subsec. (a). Pub. L. 95–202 substituted “Such work-study allowance shall be paid in an amount equal to either the amount of the hourly minimum wage in effect under section 6(a) of the Fair Labor Standards Act of 1938 times two hundred and fifty or $625, whichever is the higher,” for “Such work-study allowance shall be paid in the amount of $625” and, in the provisions relating to periods of service of less than two hundred and fifty hours, substituted “amount of the work-study allowance to be paid under any such agreement shall be determined by multiplying the number of hours of work performed by the veteran-student under such agreement times either the hourly minimum wage in effect under section 6(a) of the Fair Labor Standards Act of 1938 during the period the work is to be performed or $2.50, whichever is the higher” for “amount of the work-study allowance to be paid shall bear the same ratio to the number of hours of work agreed to be performed as $625 bears to two hundred and fifty hours” and “A veteran-student shall be paid in advance an amount equal to 40 per centum of the total amount of the work-study allowance agreed to be paid under the agreement to perform the number of hours of work specified in the agreement” for provisions setting a flat amount of $250 in advance or a lesser amount in the case of any agreement providing for periods of less than one hundred hours.
+<b>1977</b>—Subsec. (a). Pub. L. 95–202 substituted “Such work-study allowance shall be paid in an amount equal to either the amount of the hourly minimum wage in effect under section 6(a) of the Fair Labor Standards Act of 1938 times two hundred and fifty or $625, whichever is the higher,” for “Such work-study allowance shall be paid in the amount of $625” and, in the provisions relating to periods of service of less than two hundred and fifty hours, substituted “amount of the work-study allowance to be paid under any such agreement shall be determined by multiplying the number of hours of work performed by the veteran-student under such agreement times either the hourly minimum wage in effect under section 6(a) of the Fair Labor Standards Act of 1938 during the period the work is to be performed or $2.50, whichever is the higher” for “amount of the work-study allowance to be paid shall bear the same ratio to the number of hours of work agreed to be performed as $625 bears to two hundred and fifty hours” and “A veteran-student shall be paid in advance an amount equal to 40 per centum of the total amount of the work-study allowance agreed to be paid under the agreement to perform the number of hours of work specified in the agreement” for provisions setting a flat amount of $250 in advance or a lesser amount in the case of any agreement providing for periods of less than one hundred hours.
 
-1976—Subsec. (b). Pub. L. 94–502, §208, inserted provision permitting the veteran who ceases to be a full-time student to complete the agreement, with the approval of the Administrator.
+<b>1976</b>—Subsec. (b). Pub. L. 94–502, §208, inserted provision permitting the veteran who ceases to be a full-time student to complete the agreement, with the approval of the Administrator.
 
 Subsec. (c). Pub. L. 94–502, §211(11), substituted “the Administrator shall conduct” for “he shall conduct”, “the Administrator shall prescribe,” for “he shall prescribe,”, and “the veteran's” for “his” in two places.
 
-1974—Subsec. (a). Pub. L. 93–508, §205(1), (2), substituted “the amount of $625” for “in advance in the amount of $250”, and “aggregating two hundred and fifty hours” for “aggregating one hundred hours”, and substituted provisions that an agreement may be entered into for the performance of services for periods of less than two hundred and fifty hours, in which case the amount of the work-study allowance to be paid shall bear the same ratio to the number of hours of work agreed to be performed as $625 bears to two hundred and fifty hours and that in the case of any agreement providing for the performance of services for less than one hundred hours, the amount of the advance payment shall bear the same ratio to the number of hours of work agreed to be performed as $625 bears to two hundred and fifty hours, for provisions that advances of lesser amounts may be made in return for agreements to perform services for periods of less than one hundred hours, and that the amount of such advance shall bear the same ratio to the number of hours of work agreed to be performed as $250 bears to one hundred hours.
+<b>1974</b>—Subsec. (a). Pub. L. 93–508, §205(1), (2), substituted “the amount of $625” for “in advance in the amount of $250”, and “aggregating two hundred and fifty hours” for “aggregating one hundred hours”, and substituted provisions that an agreement may be entered into for the performance of services for periods of less than two hundred and fifty hours, in which case the amount of the work-study allowance to be paid shall bear the same ratio to the number of hours of work agreed to be performed as $625 bears to two hundred and fifty hours and that in the case of any agreement providing for the performance of services for less than one hundred hours, the amount of the advance payment shall bear the same ratio to the number of hours of work agreed to be performed as $625 bears to two hundred and fifty hours, for provisions that advances of lesser amounts may be made in return for agreements to perform services for periods of less than one hundred hours, and that the amount of such advance shall bear the same ratio to the number of hours of work agreed to be performed as $250 bears to one hundred hours.
 
 Subsec. (c). Pub. L. 93–508, §205(3), struck out parenthetical provisions relating to a limit of eight-hundred man-years or their equivalent during any fiscal year.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–275, title I, §101(c), Oct. 13, 2010, 124 Stat. 2866, provided that: “The amendment made by subsection (b) \[amending this section\] shall take effect on October 1, 2011.”
 
 #### Effective Date of 2008 Amendment
 
@@ -160,7 +178,7 @@ Amendment by Pub. L. 110–252 effective Aug. 1, 2009, see section 5003(d) of Pu
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–183, title III, §306(h)(2), Dec. 16, 2003, 117 Stat. 2661, provided that: “The amendments made by subsections (e), (f), and (g) \[amending this section and section 3512 of this title and repealing subchapter III ofchapter 36 of this title\] shall take effect 90 days after the date of the enactment of this Act \[Dec. 16, 2003\].”
+Pub. L. 108–183, title III, §306(h)(2), Dec. 16, 2003, 117 Stat. 2661, provided that: “The amendments made by subsections (e), (f), and (g) \[amending this section and section 3512 of this title and repealing subchapter III of chapter 36 of this title\] shall take effect 90 days after the date of the enactment of this Act \[Dec. 16, 2003\].”
 
 #### Effective Date of 2001 Amendment
 

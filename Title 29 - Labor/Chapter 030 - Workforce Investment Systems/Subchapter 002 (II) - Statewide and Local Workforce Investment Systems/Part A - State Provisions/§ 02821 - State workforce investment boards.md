@@ -122,7 +122,7 @@ This Act, referred to in subsec. (e)(2), is Pub. L. 105–220, Aug. 7, 1998, 112
 
 #### Amendments
 
-2006—Subsec. (d)(3). Pub. L. 109–270 substituted “section 2323(b)(3) of title 20” for “section 2323(b)(14) of title 20”.
+<b>2006</b>—Subsec. (d)(3). Pub. L. 109–270 substituted “section 2323(b)(3) of title 20” for “section 2323(b)(14) of title 20”.
 
-1998—Subsec. (c). Pub. L. 105–277 substituted “Chairperson” for “Chairman” in heading.
+<b>1998</b>—Subsec. (c). Pub. L. 105–277 substituted “Chairperson” for “Chairman” in heading.
 

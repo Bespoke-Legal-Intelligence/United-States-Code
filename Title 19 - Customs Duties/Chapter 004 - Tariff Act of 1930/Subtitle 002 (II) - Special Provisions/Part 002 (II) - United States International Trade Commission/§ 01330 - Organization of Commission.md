@@ -48,9 +48,9 @@ The terms of office of the commissioners holding office on January 3, 1975, whic
 
 &emsp;(B) under section 2436 of this title, whether market disruption exists.
 
-> and the commissioners voting are equally divided with respect to such determination, thenthe determination, agreed upon by either group of commissioners may be considered by the President as the determination of the Commission.
+> and the commissioners voting are equally divided with respect to such determination, then the determination, agreed upon by either group of commissioners may be considered by the President as the determination of the Commission.
 
-(2) If under section 2252(b) or 2436 of this title there is an affirmative determination of the Commission, or a determination of the Commission which the President may consider an affirmative determination under paragraph (1), that serious injury or market disruption exists, respectively, and a majority of the commissioners voting are unable to agree on a finding or recommendation described in section 2252(e)(1) of this title or the finding described in section 2436(a)(3) of this title, as the case may be (hereafter in this subsection referred to as a “remedy finding”), then—
+(2) If under section 2252(b) or 2436 of this title there is an affirmative determination of theCommission, or a determination of the Commission which the President may consider an affirmative determination under paragraph (1), that serious injury or market disruption exists, respectively, and a majority of the commissioners voting are unable to agree on a finding or recommendation described in section 2252(e)(1) of this title or the finding described in section 2436(a)(3) of this title, as the case may be (hereafter in this subsection referred to as a “remedy finding”), then—
 
 &emsp;(A) if a plurality of not less than three commissioners so voting agree on a remedy finding, such remedy finding shall, for purposes of section 2253 of this title, be treated as the remedy finding of the Commission, or
 
@@ -88,7 +88,7 @@ The terms of office of the commissioners holding office on January 3, 1975, whic
 
 The Commission shall be considered to be an independent regulatory agency for purposes of chapter 35 of title 44.
 
-(June 17, 1930, ch. 497, title III, §330, 46 Stat. 696; Aug. 7, 1953, ch. 348, title II, §201, 67 Stat. 472; Pub. L. 93–618, title I, §§172(a), (b), 175(b), Jan. 3, 1975, 88 Stat. 2009–2011; Pub. L. 94–455, title XVIII, §1801(a), (b), Oct. 4, 1976, 90 Stat. 1762; Pub. L. 95–106, §§1, 2(a), Aug. 17, 1977, 91 Stat. 867; Pub. L. 95–430, Oct. 10, 1978, 92 Stat. 1020; Pub. L. 97–456, §1(a), Jan. 12, 1983, 96 Stat. 2503; Pub. L. 98–573, title II, §248(c), title VII, §701, Oct. 30, 1984, 98 Stat. 2998, 3043; Pub. L. 99–272, title XIII, §13021, Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–203, title IX, §9502, Dec. 22, 1987, 101 Stat. 1330–380; Pub. L. 100–418, title I, §§1401(b)(4), 1611, 1612, Aug. 23, 1988, 102 Stat. 1240, 1262; Pub. L. 100–647, title IX, §9001(a)(15), Nov. 10, 1988, 102Stat. 3808; Pub. L. 101–207, §2, Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §101, Aug. 20, 1990, 104 Stat. 633; Pub. L. 102–185, §1(a)(1), (2), (c)(1), Dec. 4, 1991, 105 Stat. 1280; Pub. L. 107–210, div. A, title III, §371, Aug. 6, 2002, 116 Stat. 991; Pub. L. 108–429, title II, §2004(a)(13), Dec. 3, 2004, 118 Stat. 2590.)
+(June 17, 1930, ch. 497, title III, §330, 46 Stat. 696; Aug. 7, 1953, ch. 348, title II, §201, 67 Stat. 472; Pub. L. 93–618, title I, §§172(a), (b), 175(b), Jan. 3, 1975, 88 Stat. 2009–2011; Pub. L. 94–455, title XVIII, §1801(a), (b), Oct. 4, 1976, 90 Stat. 1762; Pub. L. 95–106, §§1, 2(a), Aug. 17, 1977, 91 Stat. 867; Pub. L. 95–430, Oct. 10, 1978, 92 Stat. 1020; Pub. L. 97–456, §1(a), Jan. 12, 1983, 96 Stat. 2503; Pub. L. 98–573, title II, §248(c), title VII, §701, Oct. 30, 1984, 98 Stat. 2998, 3043; Pub. L. 99–272, title XIII, §13021, Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–203, title IX, §9502, Dec. 22, 1987, 101 Stat. 1330–380; Pub. L. 100–418, title I, §§1401(b)(4), 1611, 1612, Aug. 23, 1988, 102 Stat. 1240, 1262; Pub. L. 100–647, title IX, §9001(a)(15), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 101–207, §2, Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §101, Aug. 20, 1990, 104 Stat. 633; Pub. L. 102–185, §1(a)(1), (2), (c)(1), Dec. 4, 1991, 105 Stat. 1280; Pub. L. 107–210, div. A, title III, §371, Aug. 6, 2002, 116 Stat. 991; Pub. L. 108–429, title II, §2004(a)(13), Dec. 3, 2004, 118 Stat. 2590.)
 
 #### References in Text
 
@@ -104,15 +104,15 @@ Provisions similar to those in this section were contained in act Sept. 8, 1916,
 
 #### Amendments
 
-2004—Subsec. (e)(4). Pub. L. 108–429 made technical correction to directory language of Pub. L. 107–210, §371(b). See 2002 Amendment note below.
+<b>2004</b>—Subsec. (e)(4). Pub. L. 108–429 made technical correction to directory language of Pub. L. 107–210, §371(b). See 2002 Amendment note below.
 
-2002—Subsec. (e)(2)(A)(i). Pub. L. 107–210, §371(a)(1), added cl. (i) and struck out former cl. (i) which read as follows: “$41,170,000 for fiscal year 1991.”
+<b>2002</b>—Subsec. (e)(2)(A)(i). Pub. L. 107–210, §371(a)(1), added cl. (i) and struck out former cl. (i) which read as follows: “$41,170,000 for fiscal year 1991.”
 
 Subsec. (e)(2)(A)(ii). Pub. L. 107–210, §371(a)(2), added cl. (ii) and struck out former cl. (ii) which read as follows: “$44,052,000 for fiscal year 1992.”
 
 Subsec. (e)(4). Pub. L. 107–210, §371(b), as amended by Pub. L. 108–429, added par. (4).
 
-1991—Subsec. (c)(1). Pub. L. 102–185, §1(c)(1), inserted at end “If, as of the date on which a term begins under paragraph (2), the President has not designated the chairman of the Commission for such term, the Commissioner who, as of such date—
+<b>1991</b>—Subsec. (c)(1). Pub. L. 102–185, §1(c)(1), inserted at end “If, as of the date on which a term begins under paragraph (2), the President has not designated the chairman of the Commission for such term, the Commissioner who, as of such date—
 
 &emsp;“(A) is a member of a different political party than the chairman of the Commission for the immediately preceding term, and
 
@@ -132,11 +132,11 @@ Subsec. (c)(3)(C). Pub. L. 102–185, §1(a)(2)(B), inserted at end “Designati
 
 Pub. L. 102–185, §1(a)(1)(B), struck out at end “Designation of a chairman under this subparagraph may be made without regard to the limitation set forth in subparagraph (A)(i).”
 
-1990—Subsec. (e)(2). Pub. L. 101–382 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “There are authorized to be appropriated to the Commission for necessary expenses (including the rental of conference rooms in the District of Columbia and elsewhere) for fiscal year 1990 not to exceed $39,943,000; of which not to exceed $2,500 may be used, subject to approval by the Chairman of the Commission, for reception and entertainment expenses. No part of any sum that is appropriated under the authority of this paragraph may be used by the Commission for the making of any special study, investigation, or report that is requested by any agency of the executive branch unless that agency reimburses the Commission for the cost thereof.”
+<b>1990</b>—Subsec. (e)(2). Pub. L. 101–382 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “There are authorized to be appropriated to the Commission for necessary expenses (including the rental of conference rooms in the District of Columbia and elsewhere) for fiscal year 1990 not to exceed $39,943,000; of which not to exceed $2,500 may be used, subject to approval by the Chairman of the Commission, for reception and entertainment expenses. No part of any sum that is appropriated under the authority of this paragraph may be used by the Commission for the making of any special study, investigation, or report that is requested by any agency of the executive branch unless that agency reimburses the Commission for the cost thereof.”
 
-1989—Subsec. (e)(2). Pub. L. 101–207 substituted “1990” for “1988” and “$39,943,000” for “$35,386,000”.
+<b>1989</b>—Subsec. (e)(2). Pub. L. 101–207 substituted “1990” for “1988” and “$39,943,000” for “$35,386,000”.
 
-1988—Subsec. (c)(3)(A)(i). Pub. L. 100–647 substituted “with the shortest period of service on” for “most recently appointed to”.
+<b>1988</b>—Subsec. (c)(3)(A)(i). Pub. L. 100–647 substituted “with the shortest period of service on” for “most recently appointed to”.
 
 Pub. L. 100–418, §1611, which directed that subsec. (c)(A)(i) of this section be amended by substituting “with the shortest period of service on” for “most recently appointed to”, was probably intended to be an amendment to subsec. (c)(3)(A)(i). See amendment by Pub. L. 100–647 above.
 
@@ -152,29 +152,29 @@ Subsec. (d)(4). Pub. L. 100–418, §1401(b)(4)(C), substituted “section 2253(
 
 Subsec. (f). Pub. L. 100–418, §1612, added subsec. (f).
 
-1987—Subsec. (e)(2). Pub. L. 100–203 substituted “for fiscal year 1988 not to exceed $35,386,000” for “fiscal year 1986 not to exceed $28,901,000”.
+<b>1987</b>—Subsec. (e)(2). Pub. L. 100–203 substituted “for fiscal year 1988 not to exceed $35,386,000” for “fiscal year 1986 not to exceed $28,901,000”.
 
-1986—Subsec. (e)(2). Pub. L. 99–272 amended first sentence generally, substituting “for fiscal year 1986 not to exceed $28,901,000” for “for fiscal year 1985 not to exceed $28,410,000”.
+<b>1986</b>—Subsec. (e)(2). Pub. L. 99–272 amended first sentence generally, substituting “for fiscal year 1986 not to exceed $28,901,000” for “for fiscal year 1985 not to exceed $28,410,000”.
 
-1984—Subsec. (d)(4). Pub. L. 98–573, §248(c), substituted “the joint resolution described in such section 2192(a)(1)(A)” for “the concurrent resolution described in such section 2192”.
+<b>1984</b>—Subsec. (d)(4). Pub. L. 98–573, §248(c), substituted “the joint resolution described in such section 2192(a)(1)(A)” for “the concurrent resolution described in such section 2192”.
 
 Subsec. (e)(2). Pub. L. 98–573, §701, substituted authorization of appropriation of not more than $28,410,000 for fiscal year 1985 for necessary expenses, including the rental of conference rooms in the District of Columbia and elsewhere for provision authorizing appropriation of not more than $19,737,000 for necessary expenses for fiscal year 1983, and inserted provision that not more than $2,500 may be used, subject to approval by the Chairman of the Commission, for reception and entertainment expenses.
 
-1983—Subsec. (e)(2). Pub. L. 97–456 substituted authorization of appropriation of not exceeding $19,737,000 for fiscal 1983 for authorization not exceeding $12,963,000 for fiscal 1979, and inserted provision relating to reimbursement by agencies of the executive branch for studies requested by them.
+<b>1983</b>—Subsec. (e)(2). Pub. L. 97–456 substituted authorization of appropriation of not exceeding $19,737,000 for fiscal 1983 for authorization not exceeding $12,963,000 for fiscal 1979, and inserted provision relating to reimbursement by agencies of the executive branch for studies requested by them.
 
-1978—Subsec. (e)(2). Pub. L. 95–430 substituted provisions authorizing $12,963,000 to be appropriated for the necessary expenses of the Commission for fiscal year 1979 for provisions authorizing $11,522,000 to be appropriated for similar expenses for fiscal year 1978.
+<b>1978</b>—Subsec. (e)(2). Pub. L. 95–430 substituted provisions authorizing $12,963,000 to be appropriated for the necessary expenses of the Commission for fiscal year 1979 for provisions authorizing $11,522,000 to be appropriated for similar expenses for fiscal year 1978.
 
-1977—Subsec. (c). Pub. L. 95–106, §2(a), inserted provisions in par. (1) for the Congressional notification of Presidential designations, substituted, in par. (2), provisions covering the expiration of terms of office after June 16, 1978, for provisions covering the expiration ofterms of office on and after June 17, 1975, added par. (3), and redesignated as pars. (4) to (6) provisions formerly contained in par. (1).
+<b>1977</b>—Subsec. (c). Pub. L. 95–106, §2(a), inserted provisions in par. (1) for the Congressional notification of Presidential designations, substituted, in par. (2), provisions covering the expiration of terms of office after June 16, 1978, for provisions covering the expiration of terms of office on and after June 17, 1975, added par. (3), and redesignated as pars. (4) to (6) provisions formerly contained in par. (1).
 
 Subsec. (e). Pub. L. 95–106, §1, designated existing provisions as par. (1) and added pars. (2) and (3).
 
-1976—Subsec. (b). Pub. L. 94–455, §1801(a), inserted provisions that any commissioner may continue to serve as a commissioner after an expiration of his term of office until his successor is appointed and qualified.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455, §1801(a), inserted provisions that any commissioner may continue to serve as a commissioner after an expiration of his term of office until his successor is appointed and qualified.
 
 Subsec. (d)(1). Pub. L. 94–455, §1801(b)(2), substituted provisions relating to consideration by the President of determinations of the Commission as to whether increased imports of an article are a substantial cause of serious injury or threat or whether market disruption exists for provisions relating to consideration by the President of findings of the Commission in connection with any authority conferred upon the President by law to make changes in import restrictions.
 
 Subsec. (d)(2) to (5). Pub. L. 94–455, §1801(b), added pars. (2) to (4) and redesignated former par. (2) as (5).
 
-1975—Subsec. (a). Pub. L. 93–618, §172(a), substituted “United States International Trade Commission” for “United States Tariff Commission” and inserted provision that a person who has served as a commissioner for more than five years (excluding service as a commissioner before January 3, 1975) shall not be eligible for reappointment as a commissioner.
+<b>1975</b>—Subsec. (a). Pub. L. 93–618, §172(a), substituted “United States International Trade Commission” for “United States Tariff Commission” and inserted provision that a person who has served as a commissioner for more than five years (excluding service as a commissioner before January 3, 1975) shall not be eligible for reappointment as a commissioner.
 
 Subsec. (b). Pub. L. 93–618, §172(a), lengthened the term of office from 6 years to 9 years for commissioners appointed after Jan. 3, 1975, and substituted Dec. 16, 1976, June 16, 1978, Dec. 16, 1979, June 16, 1981, Dec. 16, 1982, and June 16, 1984, for June 16, 1975, June 16, 1976, June 16, 1977, June 16, 1978, June 16, 1979, and June 16, 1980, respectively, as the expiration dates for the terms of office of commissioners serving on Jan. 3, 1975.
 
@@ -182,7 +182,7 @@ Subsec. (c). Pub. L. 93–618, §172(b), designated existing provisions as par. 
 
 Subsec. (e). Pub. L. 93–618, §175(b), added subsec. (e).
 
-1953—Subsec. (d). Act Aug. 7, 1953, added subsec. (d).
+<b>1953</b>—Subsec. (d). Act Aug. 7, 1953, added subsec. (d).
 
 #### Effective Date of 2002 Amendment
 

@@ -6,7 +6,7 @@ The Director of the Institute shall prepare for inclusion in the biennial report
 
 &emsp;(2) under the current digestive diseases plan formulated under the Arthritis, Diabetes, and Digestive Diseases Amendments of 1976.
 
-> The description submitted by the Director shall include an evaluation of the activities of the centers supported under section 285c–5 of this title.
+> The description submitted by the Director shall include an evaluation of the activities of thecenters supported under section 285c–5 of this title.
 
 (July 1, 1944, ch. 373, title IV, §433, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 848.)
 

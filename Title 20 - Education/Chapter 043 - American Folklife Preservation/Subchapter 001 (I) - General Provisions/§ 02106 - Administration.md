@@ -16,7 +16,7 @@ In addition to any authority vested in it by other provisions of this subchapter
 
 &emsp;(6) accept and utilize the services of voluntary and noncompensated personnel and reimburse them for travel expenses, including per diem, as authorized by section 5703 of title 5;
 
-&emsp;(7) enter into contracts to carry out the provisions of this subchapter, and such contracts may, with the concurrence of two-thirds of the members of the Board, be entered into without performance or other bonds and in conformity with section 5 of title 41; and
+&emsp;(7) enter into contracts to carry out the provisions of this subchapter, and such contracts may, with the concurrence of two-thirds of the members of the Board, be entered into without performance or other bonds and in conformity with section 6101 of title 41; and
 
 &emsp;(8) make advances, progress, and other payments which the Board deems necessary under this subchapter in conformity with the provisions of section 3324(a) and (b) of title 31.
 
@@ -32,9 +32,11 @@ For Federal property disposal statutes, referred to in subsec. (a)(2), see, gene
 
 #### Codification
 
+In subsec. (a)(7), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes, as amended (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 In subsec. (a)(8), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes, as amended (31 U.S.C. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
-1998—Subsec. (a)(4). Pub. L. 105–275 struck out before semicolon at end “, but no individual so appointed shall receive compensation in excess of the rate received by the Deputy Director of the Center”.
+<b>1998</b>—Subsec. (a)(4). Pub. L. 105–275 struck out before semicolon at end “, but no individual so appointed shall receive compensation in excess of the rate received by the Deputy Director of the Center”.
 

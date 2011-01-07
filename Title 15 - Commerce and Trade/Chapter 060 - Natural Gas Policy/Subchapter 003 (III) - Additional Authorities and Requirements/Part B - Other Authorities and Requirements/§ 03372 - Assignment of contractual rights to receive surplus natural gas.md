@@ -20,7 +20,7 @@ The Natural Gas Act, referred to in subsec. (b), is act June 21, 1938, ch. 556, 
 
 #### Amendments
 
-1989—Subsec. (c). Pub. L. 101–60 substituted “any natural gas” for “any natural gas—
+<b>1989</b>—Subsec. (c). Pub. L. 101–60 substituted “any natural gas” for “any natural gas—
 
 &emsp;“(1) which is not committed or dedicated to interstate commerce on November 8, 1978;
 

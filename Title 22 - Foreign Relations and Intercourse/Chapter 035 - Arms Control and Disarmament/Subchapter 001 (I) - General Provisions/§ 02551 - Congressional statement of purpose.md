@@ -16,13 +16,13 @@ The Secretary of State must have the capacity to provide the essential scientifi
 
 #### Amendments
 
-1998—Pub. L. 105–277, §1223(1)(A), in first undesignated par., substituted “addressing” for “creating a new agency of peace to deal with”.
+<b>1998</b>—Pub. L. 105–277, §1223(1)(A), in first undesignated par., substituted “addressing” for “creating a new agency of peace to deal with”.
 
 Pub. L. 105–277, §1223(1)(B), struck out second undesignated par. which read as follows: “Arms control, nonproliferation, and disarmament policy, being an important aspect of foreign policy, must be consistent with national security policy as a whole. The formulation and implementation of United States arms control, nonproliferation, and disarmament policy in a manner which will promote the national security can best be insured by a central organization charged by statute with primary responsibility for this field. This organization must have such a position within the Government that it can provide the President, the Secretary of State, other officials of the executive branch, and the Congress with recommendations concerning United States arms control, nonproliferation, and disarmament policy, and can assess the effect of these recommendations upon our foreign policies, our national security policies, and our economy.”
 
 Pub. L. 105–277, §1223(1)(C), in last undesignated par., in introductory provisions, substituted “The Secretary of State” for “This organization”, substituted “The Secretary shall have” for “It shall have”, and struck out “and the Secretary of State” after “the President”, in subpar. (1) inserted “, nonproliferation,” after “arms control”, redesignated subpar. (3) as (2) and struck out former subpar. (2) which read as follows: “When directed by the President, the preparation for, and management of, United States participation in international negotiations and implementation fora in the nonproliferation field.”, redesignated subpar. (4) as (3) and struck out “, as appropriate,” before “direction of”, and redesignated subpar. (5) as (4).
 
-1994—Pub. L. 103–236, §719(a), inserted “, nonproliferation,” after “Arms control” in second undesignated par. and after “arms control” wherever appearing in second and third undesignated pars.
+<b>1994</b>—Pub. L. 103–236, §719(a), inserted “, nonproliferation,” after “Arms control” in second undesignated par. and after “arms control” wherever appearing in second and third undesignated pars.
 
 Pub. L. 103–236, §703, substituted subpars. (1) to (5) for former subpars. (a) to (d) which read as follows:
 
@@ -34,7 +34,7 @@ Pub. L. 103–236, §703, substituted subpars. (1) to (5) for former subpars. (a
 
 “(d) The preparation for, operation of, or as appropriate, direction of United States participation in such control systems as may become part of United States arms control and disarmament activities.”
 
-1975—Pub. L. 94–141 substituted “It shall have the authority, under the direction of the President and the Secretary of State,” for “It must be able”.
+<b>1975</b>—Pub. L. 94–141 substituted “It shall have the authority, under the direction of the President and the Secretary of State,” for “It must be able”.
 
 #### Effective Date of 1998 Amendment
 

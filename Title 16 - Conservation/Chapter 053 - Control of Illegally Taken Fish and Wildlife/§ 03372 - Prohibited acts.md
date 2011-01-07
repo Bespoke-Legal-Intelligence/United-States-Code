@@ -78,7 +78,7 @@ It is unlawful for any person to import, export, or transport in interstate comm
 
 #### (d) False labeling offenses
 
-It is unlawful for any person to make or submit any false record, account, or label for, or any false identification of, any fish, wildlife, or plant which has been, or is intended to be—
+It is unlawful for any person to make or submit any false record, account, or label for, orany false identification of, any fish, wildlife, or plant which has been, or is intended to be—
 
 &emsp;(1) imported, exported, transported, sold, purchased, or received from any foreign country; or
 
@@ -120,7 +120,7 @@ It is unlawful for any person to make or submit any false record, account, or la
 
 #### (5) Authorization of appropriations
 
-&emsp;There is authorized to be appropriated to carry out subsection (a)(2)(C) of this section$3,000,000 for each of fiscal years 2004 through 2008.
+&emsp;There is authorized to be appropriated to carry out subsection (a)(2)(C) of this section $3,000,000 for each of fiscal years 2004 through 2008.
 
 #### (f) Plant declarations
 
@@ -164,7 +164,7 @@ It is unlawful for any person to make or submit any false record, account, or la
 
 &emsp;&emsp;&emsp;(i) the effectiveness of each type of information required under paragraphs (1) and (2) in assisting enforcement of this section; and
 
-&emsp;&emsp;&emsp;(ii) the potential to harmonize each requirement imposed by paragraphs (1) and (2) with other applicable import regulations in existence as of the date of the report;
+&emsp;&emsp;&emsp;(ii) the potential to harmonize each requirement imposed by paragraphs (1) and\(2) with other applicable import regulations in existence as of the date of the report;
 
 &emsp;&emsp;(B) recommendations for such legislation as the Secretary determines to be appropriate to assist in the identification of plants that are imported into the United States in violation of this section; and
 
@@ -198,13 +198,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a)(2)(B). Pub. L. 110–246, §8204(b)(1)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “any plant taken, possessed, transported, or sold in violation of any law or regulation of any State; or”.
+<b>2008</b>—Subsec. (a)(2)(B). Pub. L. 110–246, §8204(b)(1)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “any plant taken, possessed, transported, or sold in violation of any law or regulation of any State; or”.
 
 Subsec. (a)(3)(B). Pub. L. 110–246, §8204(b)(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “to possess any plant taken, possessed, transported, or sold in violation of any law or regulation of any State; or”.
 
 Subsec. (f). Pub. L. 110–246, §8204(b)(2), added subsec. (f).
 
-2003—Subsec. (a)(2)(C). Pub. L. 108–191, §3(a)(1)(A), added subpar. (C).
+<b>2003</b>—Subsec. (a)(2)(C). Pub. L. 108–191, §3(a)(1)(A), added subpar. (C).
 
 Subsec. (a)(3)(B). Pub. L. 108–191, §3(a)(1)(B), inserted “or” after semicolon at end.
 
@@ -212,7 +212,7 @@ Subsec. (a)(4). Pub. L. 108–191, §3(a)(1)(C), substituted “paragraphs (1) t
 
 Subsec. (e). Pub. L. 108–191, §3(a)(2), added subsec. (e).
 
-1988—Subsec. (a)(1). Pub. L. 100–653, §101(1), substituted “taken, possessed, transported, or sold” for “taken or possessed”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–653, §101(1), substituted “taken, possessed, transported, or sold” for “taken or possessed”.
 
 Subsec. (a)(4), (5). Pub. L. 100–653, §101(2), redesignated par. (5) as (4) and struck out former par. (4), which made it unlawful for any person having imported, exported, transported, sold, purchased, or received any fish or wildlife or plant imported from any foreign country or transported in interstate or foreign commerce, to make or submit any false record, account, label, or identification thereof.
 

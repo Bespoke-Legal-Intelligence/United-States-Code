@@ -70,7 +70,7 @@ The Director shall assure the availability of appropriate resources to carry out
 
 #### (3) Composition
 
-&emsp;The Coordinating Committee shall be composed of the Directors of each of the agencies that, under subsection (c) of this section, have responsibilities under the Program, and any other individuals who are practitioners in thetrauma field as designated by the Director of the National Institutes of Health.
+&emsp;The Coordinating Committee shall be composed of the Directors of each of the agencies that, under subsection (c) of this section, have responsibilities under the Program, and any other individuals who are practitioners in the trauma field as designated by the Director of the National Institutes of Health.
 
 #### (h) Definitions
 
@@ -92,15 +92,15 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### Amendments
 
-2008—Subsec. (b)(2). Pub. L. 110–206, §5(1), substituted “Health, Education, Labor, and Pensions” for “Labor and Human Resources”.
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–206, §5(1), substituted “Health, Education, Labor, and Pensions” for “Labor and Human Resources”.
 
 Subsec. (d)(4)(D). Pub. L. 110–206, §5(2), substituted “brain injury” for “head brain injury”.
 
 Subsec. (i). Pub. L. 110–206, §5(3), inserted “, and such sums as may be necessary for each of the fiscal years 2009 through 2012” before period at end.
 
-2000—Subsec. (d)(4)(A). Pub. L. 106–310, §1303(a)(1), substituted “degree of brain injury” for “degree of injury”.
+<b>2000</b>—Subsec. (d)(4)(A). Pub. L. 106–310, §1303(a)(1), substituted “degree of brain injury” for “degree of injury”.
 
-Subsec. (d)(4)(B). Pub. L. 106–310, §1303(a)(2), which directed amendment of subpar. (B) by substituting “acute brain injury” for “acute injury”, could not be executed because the phrase “acute injury” does not appear in text.
+Subsec. (d)(4)(B). Pub. L. 106–310, §1303(a)(2), which directed amendment of subpar. (B) by substituting “acute brain injury” for “acute injury”, could not beexecuted because the phrase “acute injury” does not appear in text.
 
 Subsec. (d)(4)(C). Pub. L. 106–310, §1303(c)(1), struck out “and” after semicolon at end.
 
@@ -112,7 +112,7 @@ Subsec. (h)(4). Pub. L. 106–310, §1303(b), substituted “anoxia due to traum
 
 Subsec. (i). Pub. L. 106–310, §1303(d), added subsec. (i).
 
-1996—Subsec. (d)(4). Pub. L. 104–166, §2(1), added par. (4).
+<b>1996</b>—Subsec. (d)(4). Pub. L. 104–166, §2(1), added par. (4).
 
 Subsec. (h)(4). Pub. L. 104–166, §2(2), added par. (4).
 

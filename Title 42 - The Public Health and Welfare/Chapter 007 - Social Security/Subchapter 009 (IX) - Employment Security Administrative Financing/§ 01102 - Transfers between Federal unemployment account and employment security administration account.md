@@ -14,7 +14,7 @@ The amount, if any, by which the amount in the Federal unemployment account as o
 
 #### (c) Report to Congress
 
-Whenever the Secretary of Labor has reason to believe that in the next fiscal year the employment security administration account will reach the limit provided for such account in section 1101(f)(3)(A) of this title, and the Federal unemployment account will reach the limit provided for such account in subsection (a) of this section, and the extended unemployment compensation account will reach the limit provided for such account in section 1105(b)(2) of this title, he shall, after consultation with the Secretary of the Treasury, so report to the Congress with a recommendation for appropriate action by the Congress.
+Whenever the Secretary of Labor has reason to believe that in the next fiscal year the employment security administration account willreach the limit provided for such account in section 1101(f)(3)(A) of this title, and the Federal unemployment account will reach the limit provided for such account in subsection (a) of this section, and the extended unemployment compensation account will reach the limit provided for such account in section 1105(b)(2) of this title, he shall, after consultation with the Secretary of the Treasury, so report to the Congress with a recommendation for appropriate action by the Congress.
 
 (Aug. 14, 1935, ch. 531, title IX, §902, as added Aug. 5, 1954, ch. 657, §2, 68 Stat. 669; amended Pub. L. 86–778, title V, §521, Sept. 13, 1960, 74 Stat. 974; Pub. L. 91–373, title III, §304(a), (b), Aug. 10, 1970, 84 Stat. 715, 716; Pub. L. 100–203, title IX, §9154(b)(1), Dec. 22, 1987, 101 Stat. 1330–326; Pub. L. 102–318, title V, §531(b), July 3, 1992, 106 Stat. 316; Pub. L. 105–33, title V, §5402(a), Aug. 5, 1997, 111 Stat. 603.)
 
@@ -24,17 +24,17 @@ A prior section 1102, act Aug. 14, 1935, ch. 531, title IX, §902, 49 Stat. 639,
 
 #### Amendments
 
-1997—Subsec. (a)(2). Pub. L. 105–33 substituted “0.5 percent” for “0.25 percent”.
+<b>1997</b>—Subsec. (a)(2). Pub. L. 105–33 substituted “0.5 percent” for “0.25 percent”.
 
-1992—Subsec. (a)(2). Pub. L. 102–318 substituted “0.25 percent” for “five-eighths of 1 percent”.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–318 substituted “0.25 percent” for “five-eighths of 1 percent”.
 
-1987—Subsec. (a)(2). Pub. L. 100–203 substituted “five-eighths” for “one-eighth”.
+<b>1987</b>—Subsec. (a)(2). Pub. L. 100–203 substituted “five-eighths” for “one-eighth”.
 
-1970—Subsec. (a). Pub. L. 91–373, §304(a), inserted, in provisions preceding par. (1), reference to the retention of the entire amount of the excess in the employment security administration account or the transfer to the extended unemployment compensation account as provided in section 1101(f)(3) of this title and, in par. (2), substituted “one-eighth of 1 percent” for “four-tenths of 1 per centum”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–373, §304(a), inserted, in provisions preceding par. (1), reference to the retention of the entire amount of the excess in the employment security administration account or the transfer to the extended unemployment compensation account as provided in section 1101(f)(3) of this title and, in par. (2), substituted “one-eighth of 1 percent” for “four-tenths of 1 per centum”.
 
 Subsec. (c). Pub. L. 91–373, §304(b), added subsec. (c).
 
-1960—Pub. L. 86–778 substituted provisions for transfers between Federal unemployment account and employment security administration account for former provisions crediting the Federal unemployment account with funds and defining “adjusted balance”.
+<b>1960</b>—Pub. L. 86–778 substituted provisions for transfers between Federal unemployment account and employment security administration account for former provisions crediting the Federal unemployment account with funds and defining “adjusted balance”.
 
 #### Effective Date of 1997 Amendment
 

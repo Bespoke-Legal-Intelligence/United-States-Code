@@ -12,9 +12,9 @@ Section was formerly classified to section 592b of Title 5 prior to the general 
 
 #### Amendments
 
-1954—Act Aug. 20, 1954, established rate of compensation.
+<b>1954</b>—Act Aug. 20, 1954, established rate of compensation.
 
-1952—Act July 17, 1952, redesignated Solicitor as General Counsel and provided that “all laws and orders relating or referring to the Solicitor shall be deemed to relate or refer to the General Counsel”.
+<b>1952</b>—Act July 17, 1952, redesignated Solicitor as General Counsel and provided that “all laws and orders relating or referring to the Solicitor shall be deemed to relate or refer to the General Counsel”.
 
 #### Transfer of Functions
 

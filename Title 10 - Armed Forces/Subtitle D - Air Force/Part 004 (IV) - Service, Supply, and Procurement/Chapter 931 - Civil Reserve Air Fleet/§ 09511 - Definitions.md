@@ -28,7 +28,7 @@ In this chapter:
 
 #### Amendments
 
-1994—Pub. L. 103–355, §3031(c), substituted “In this chapter:” for “In this subchapter:” in introductory provisions.
+<b>1994</b>—Pub. L. 103–355, §3031(c), substituted “In this chapter:” for “In this subchapter:” in introductory provisions.
 
 Par. (1). Pub. L. 103–355, §3031(b)(1)(C), which directed substitution of “section 40102 of title 49” for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. 1301)”, could not be executed because of the intervening amendment by Pub. L. 103–272 which substituted “section 40102(a) of title 49” for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. 1301)”, see below.
 
@@ -50,19 +50,19 @@ Par. (11). Pub. L. 103–355, §3031(b)(3), (4), redesignated par. (12) as (11),
 
 Par. (12). Pub. L. 103–355, §3031(b)(3), redesignated par. (12) as (11).
 
-1989—Par. (2). Pub. L. 101–189, §1636(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘cargo air service’ means the carriage of property or mail on the main deck of a civil aircraft.”
+<b>1989</b>—Par. (2). Pub. L. 101–189, §1636(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘cargo air service’ means the carriage of property or mail on the main deck of a civil aircraft.”
 
 Par. (5). Pub. L. 101–189, §1636(a)(2), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘cargo-convertible feature’ means equipment or design features included or incorporated in a passenger aircraft that can readily enable all or substantially all of that aircraft's main deck to be used for the carriage of property or mail.”
 
-Par. (8)(A). Pub. L. 101–189, §1636(a)(3), substituted “a new or existing aircraft and who contracts with the Secretary to modify that aircraft by including or incorporating specified defense features” for “a civil aircraft and who contracts with the Secretary of the Air Force to modify that aircraft by including or incorporating cargo-convertible features suitable for defense purposes”.
+Par. (8)(A). Pub. L. 101–189, §1636(a)(3), substituted “a new or existing aircraft and who contracts with the Secretary to modify that aircraft by including or incorporating specified defense features” for “a civil aircraftand who contracts with the Secretary of the Air Force to modify that aircraft by including or incorporating cargo-convertible features suitable for defense purposes”.
 
 Par. (12). Pub. L. 101–189, §1636(a)(4), added par. (12).
 
-1988—Par. (1). Pub. L. 100–456 substituted “The terms” for “The term”.
+<b>1988</b>—Par. (1). Pub. L. 100–456 substituted “The terms” for “The term”.
 
-1987—Pars. (1) to (11). Pub. L. 100–180 inserted “The term” after each par. designation, and revised first word in quotes in pars. (1) to (6) and (8) to (10) to make initial letter of each word lowercase.
+<b>1987</b>—Pars. (1) to (11). Pub. L. 100–180 inserted “The term” after each par. designation, and revised first word in quotes in pars. (1) to (6) and (8) to (10) to make initial letter of each word lowercase.
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of this title.
 

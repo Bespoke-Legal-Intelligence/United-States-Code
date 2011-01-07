@@ -50,5 +50,5 @@ In subsection (c), the words “issue an order” are substituted for “seek re
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–432 substituted “death, personal injury, or significant harm to the environment” for “death or personal injury”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–432 substituted “death, personal injury, or significant harm to the environment” for “death or personal injury”.
 

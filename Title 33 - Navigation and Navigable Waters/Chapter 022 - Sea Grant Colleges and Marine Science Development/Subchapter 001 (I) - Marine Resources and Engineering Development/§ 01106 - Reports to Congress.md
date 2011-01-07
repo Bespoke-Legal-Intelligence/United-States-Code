@@ -8,5 +8,5 @@
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–386 substituted “biennially in January” for “in January of each year”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–386 substituted “biennially in January” for “in January of each year”.
 

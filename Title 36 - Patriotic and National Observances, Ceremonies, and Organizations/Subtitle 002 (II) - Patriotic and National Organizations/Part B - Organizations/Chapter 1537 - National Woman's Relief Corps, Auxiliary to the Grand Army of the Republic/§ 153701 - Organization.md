@@ -30,7 +30,9 @@ Historical and Revision Notes
 
 Sept. 7, 1962, Pub. L. 87–650, §§1, 2, 4(1), 76 Stat. 502, 503.
 
-&nbsp;D36:1002.
+&nbsp;
+
+36:1002.
 
 36:1004(1).
 

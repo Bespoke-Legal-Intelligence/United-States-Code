@@ -32,7 +32,7 @@ Records and Information Requirements.—(1) To enable the Secretary to decide wh
 
 &emsp;(C) to allow an officer or employee designated by the Secretary to inspect relevant records of the dealer or distributor.
 
-(2) This subsection and subsection (e)(1)(B) of this section do not authorize the Secretary torequire a dealer or distributor to provide information on a regular periodic basis.
+(2) This subsection and subsection (e)(1)(B) of this section do not authorize the Secretary to require a dealer or distributor to provide information on a regular periodic basis.
 
 (e)
 
@@ -126,9 +126,9 @@ This amends 49:32706(c) to correct a cross-reference necessary because of the re
 
 #### Amendments
 
-1997—Subsec. (c). Pub. L. 105–102 substituted “subchapter I of chapter 135” for “subchapter II of chapter 105”.
+<b>1997</b>—Subsec. (c). Pub. L. 105–102 substituted “subchapter I of chapter 135” for “subchapter II of chapter 105”.
 
-1994—Subsec. (e)(3). Pub. L. 103–429 substituted “any judicial district in which the proceeding by the Secretary is conducted.” for “the judicial district in which the proceeding by the Secretary was conducted.”
+<b>1994</b>—Subsec. (e)(3). Pub. L. 103–429 substituted “any judicial district in which the proceeding by the Secretary is conducted.” for “the judicial district in which the proceeding by the Secretary was conducted.”
 
 #### Effective Date of 1994 Amendment
 

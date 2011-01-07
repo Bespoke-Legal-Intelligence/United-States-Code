@@ -152,11 +152,11 @@ A prior section 1001 of Pub. L. 90–351, title V, June 19, 1968, 82 Stat. 235, 
 
 #### Amendments
 
-2008—Subsec. (a)(23). Pub. L. 110–421 substituted “2012” for “2009”.
+<b>2008</b>—Subsec. (a)(23). Pub. L. 110–421 substituted “2012” for “2009”.
 
 Subsec. (a)(26). Pub. L. 110–199 added par. (26).
 
-2006—Subsec. (a)(11)(A). Pub. L. 109–162, §1163(c)(1), substituted provisions authorizing appropriations for fiscal years 2006 through 2009 for provisions authorizing appropriations for fiscal years 1995 through 2000.
+<b>2006</b>—Subsec. (a)(11)(A). Pub. L. 109–162, §1163(c)(1), substituted provisions authorizing appropriations for fiscal years 2006 through 2009 for provisions authorizing appropriations for fiscal years 1995 through 2000.
 
 Subsec. (a)(11)(B). Pub. L. 109–162, §1163(c)(2), substituted “section 3796dd(d) of this title” for “section 3796dd(f) of this title” and struck out “Of the funds available in relation to grants under subchapter XII–E of this chapter, at least 85 percent shall be applied to grants for the purposes specified in section 3796dd(b) of this title, and no more than 15 percent may be applied to other grants in furtherance of the purposes of subchapter XII–E of this chapter.” after second sentence.
 
@@ -170,7 +170,7 @@ Subsec. (a)(25)(A)(v). Pub. L. 109–177, which directed amendment of par. (25)(
 
 Pub. L. 109–162, §1142(b), which directed amendment of par. (25)(A) of this section by adding cl. (v), relating to fiscal years 2007 and 2008, at end, was executed by adding cl. (v) at end of subsec. (a)(25)(A) of this section, to reflect the probable intent of Congress.
 
-2004—Subsec. (a)(23). Pub. L. 108–372 substituted “2007” for “2004”.
+<b>2004</b>—Subsec. (a)(23). Pub. L. 108–372 substituted “2007” for “2004”.
 
 Subsec. (a)(24). Pub. L. 108–405, §311(d), realigned margins.
 
@@ -178,11 +178,11 @@ Subsec. (a)(24)(G) to (I). Pub. L. 108–405, §311(c), added subpars. (G) to (I
 
 Subsec. (a)(25). Pub. L. 108–405, §311(d), realigned margins.
 
-2002—Subsec. (a)(3). Pub. L. 107–273, §2302(1), inserted “or XVI” after “and XII–L”.
+<b>2002</b>—Subsec. (a)(3). Pub. L. 107–273, §2302(1), inserted “or XVI” after “and XII–L”.
 
 Subsec. (a)(25). Pub. L. 107–273, §2302(2), added par. (25).
 
-2000—Subsec. (a)(7). Pub. L. 106–386, §1302(c), added par. (7) and struck out former par. (7) which read as follows: “There are authorized to be appropriated to carry out subchapter XII–B of this chapter—
+<b>2000</b>—Subsec. (a)(7). Pub. L. 106–386, §1302(c), added par. (7) and struck out former par. (7) which read as follows: “There are authorized to be appropriated to carry out subchapter XII–B of this chapter—
 
 &emsp;“(A) $250,000 for fiscal year 1996;
 
@@ -222,9 +222,9 @@ Subsec. (a)(23). Pub. L. 106–517 inserted “, and $50,000,000 for each of fi
 
 Subsec. (a)(24). Pub. L. 106–561 added par. (24).
 
-1998—Subsec. (a)(23). Pub. L. 105–181 added par. (23).
+<b>1998</b>—Subsec. (a)(23). Pub. L. 105–181 added par. (23).
 
-1996—Subsec. (a)(20). Pub. L. 104–134 struck out par. (20) which read as follows: “There are authorized to be appropriated to carry out subchapter XII–J of this chapter—
+<b>1996</b>—Subsec. (a)(20). Pub. L. 104–134 struck out par. (20) which read as follows: “There are authorized to be appropriated to carry out subchapter XII–J of this chapter—
 
 &emsp;“(A) $100,000,000 for fiscal year 1995;
 
@@ -238,7 +238,7 @@ Subsec. (a)(24). Pub. L. 106–561 added par. (24).
 
 &emsp;“(F) $200,000,000 for fiscal year 2000.”
 
-1994—Subsec. (a)(1), (2). Pub. L. 103–322, §210601(1), (2), substituted “1994 and 1995” for “1993 and 1994”.
+<b>1994</b>—Subsec. (a)(1), (2). Pub. L. 103–322, §210601(1), (2), substituted “1994 and 1995” for “1993 and 1994”.
 
 Subsec. (a)(3). Pub. L. 103–322, §210601(3), substituted “1994 and 1995” for “1993 and 1994”.
 
@@ -272,7 +272,7 @@ Subsec. (a)(8). Pub. L. 103–322, §210601(7), inserted “and 1995” after �
 
 Subsec. (a)(9). Pub. L. 103–322, §210601(8), which directed the insertion of “and 1995” after “1994”, could not be executed because “1994” did not appear in text subsequent to amendment by Pub. L. 103–322, §180101(a). See below.
 
-Pub. L. 103–322, §180101(a), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “There are authorized to be appropriated such sums as may be necessary for fiscal year 1992, $22,000,000 for fiscal year1993, and such sums as may be necessary for fiscal year 1994 to carry out subchapter XII–C of this chapter.”
+Pub. L. 103–322, §180101(a), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “There are authorized to be appropriated such sums as may be necessary for fiscal year 1992, $22,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994 to carry out subchapter XII–C of this chapter.”
 
 Subsec. (a)(11). Pub. L. 103–322, §10003(c)(2), added par. (11).
 
@@ -292,7 +292,7 @@ Subsec. (a)(22). Pub. L. 103–322, §210302(c)(3)(B), which directed amendment 
 
 Subsec. (c). Pub. L. 103–322, §330001(h)(14), substituted “such subchapter” for “such subchapters”.
 
-1992—Subsec. (a)(1). Pub. L. 102–534, §1(2), substituted “fiscal year 1992 and $33,000,000 for each of the fiscal years 1993 and 1994” for “each of the fiscal years 1989, 1990, 1991, and 1992”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–534, §1(2), substituted “fiscal year 1992 and $33,000,000 for each of the fiscal years 1993 and 1994” for “each of the fiscal years 1989, 1990, 1991, and 1992”.
 
 Subsec. (a)(2). Pub. L. 102–534, §1(3), substituted “fiscal year 1992 and $33,000,000 for each of the fiscal years 1993 and 1994” for “each of the fiscal years 1989, 1990, 1991, and 1992”.
 
@@ -318,7 +318,7 @@ Pub. L. 102–521, §4(c)(1), and Pub. L. 102–534, §1(1), amended subsec. (a)
 
 Subsec. (a)(10). Pub. L. 102–521, §4(c)(2), added par. (10).
 
-1990—Subsec. (a)(3). Pub. L. 101–647, §241(c)(1)(A), substituted “XII–A, and XII–B” for “and XII–A”.
+<b>1990</b>—Subsec. (a)(3). Pub. L. 101–647, §241(c)(1)(A), substituted “XII–A, and XII–B” for “and XII–A”.
 
 Subsec. (a)(5). Pub. L. 101–647, §2801, amended par. (5) generally. Prior to amendment, par. (5) read as follows: “There are authorized to be appropriated $275,000,000 for fiscal year 1989; $350,000,000 for fiscal year 1990; $400,000,000 for fiscal year 1991; and such sums as may be necessary for fiscal year 1992 to carry out the programs under subchapters IV and V of this chapter.”
 
@@ -332,15 +332,15 @@ Pub. L. 101–647, §241(c)(1)(B), redesignated par. (6), relating to authorizat
 
 Subsec. (b). Pub. L. 101–647, §241(c)(2), which directed substitution of “XII–A, and XII–B” for “and XII–A”, could not be executed because the words “and XII–A” did not appear.
 
-1988—Pub. L. 100–690 amended section generally, substituting provisions authorizing appropriations for fiscal years 1989 through 1992 for provisions authorizing appropriations for fiscal years 1984 through 1988.
+<b>1988</b>—Pub. L. 100–690 amended section generally, substituting provisions authorizing appropriations for fiscal years 1989 through 1992 for provisions authorizing appropriations for fiscal years 1984 through 1988.
 
-1986—Subsec. (a)(3). Pub. L. 99–570, §1552(c)(1)(A), inserted reference to subchapter XII–A of this chapter.
+<b>1986</b>—Subsec. (a)(3). Pub. L. 99–570, §1552(c)(1)(A), inserted reference to subchapter XII–A of this chapter.
 
 Subsec. (a)(6), (7). Pub. L. 99–570, §1552(c)(1)(B), (C), added par. (6) and redesignated former par. (6) as (7).
 
 Subsec. (b). Pub. L. 99–570, §1552(c)(2), inserted reference to subchapter XII–A of this chapter.
 
-1984—Pub. L. 98–473, in amending section generally, designated existing provisions as subsec. (a), substituted appropriations authorization of necessary sums for fiscal years 1984 through 1988 for authorizations for fiscal years ending Sept. 30, 1980, through 1983, struck out provisions authorizing appropriations for subchapter VIII and for carrying out remaining functions of the Law Enforcement Assistance Administration, and added subsec. (b).
+<b>1984</b>—Pub. L. 98–473, in amending section generally, designated existing provisions as subsec. (a), substituted appropriations authorization of necessary sums for fiscal years 1984 through 1988 for authorizations for fiscal years ending Sept. 30, 1980, through 1983, struck out provisions authorizing appropriations for subchapter VIII and for carrying out remaining functions of the Law Enforcement Assistance Administration, and added subsec. (b).
 
 #### Effective Date of 2006 Amendment
 

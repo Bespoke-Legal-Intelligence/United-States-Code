@@ -18,7 +18,7 @@ There is established a committee to be known as the HIT Standards Committee to r
 
 #### (C) Pilot testing of standards and implementation specifications
 
-&emsp;&emsp;In the development, harmonization, or recognition of standards and implementation specifications, the HIT Standards Committee shall, as appropriate, provide for the testing of such standards and specificationsby the National Institute for Standards and Technology under section 17911(a) of this title.
+&emsp;&emsp;In the development, harmonization, or recognition of standards and implementation specifications, the HIT Standards Committee shall, as appropriate, provide for the testing of such standards and specifications by the National Institute for Standards and Technology under section 17911(a) of this title.
 
 #### (D) Consistency
 
@@ -26,7 +26,7 @@ There is established a committee to be known as the HIT Standards Committee to r
 
 #### (2) Forum
 
-&emsp;The HIT Standards Committee shall serve as a forum for the participation of a broad range of stakeholders to provide input on the development, harmonization, and recognition of standards, implementation specifications, and certification criteria necessary for the development and adoption of a nationwide health information technology infrastructure that allows for the electronic use and exchange of health information.
+&emsp;The HIT Standards Committee shall serve as a forum for the participation of a broad range of stakeholders to provide input on the development, harmonization, and recognition of standards, implementation specifications, andcertification criteria necessary for the development and adoption of a nationwide health information technology infrastructure that allows for the electronic use and exchange of health information.
 
 #### (3) Schedule
 

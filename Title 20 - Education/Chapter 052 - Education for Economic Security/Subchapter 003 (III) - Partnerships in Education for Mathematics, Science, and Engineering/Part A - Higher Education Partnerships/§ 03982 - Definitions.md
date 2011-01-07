@@ -12,7 +12,7 @@ As used in this part—
 
 #### Amendments
 
-1988—Pub. L. 100–418 substituted “part” for “subchapter” in introductory text.
+<b>1988</b>—Pub. L. 100–418 substituted “part” for “subchapter” in introductory text.
 
-1985—Pub. L. 99–159 struck out pars. (3), (4), and (5) which defined “Foundation”, “institution of higher education”, and “States”, respectively, and redesignated par. (6) as (3).
+<b>1985</b>—Pub. L. 99–159 struck out pars. (3), (4), and (5) which defined “Foundation”, “institution of higher education”, and “States”, respectively, and redesignated par. (6) as (3).
 

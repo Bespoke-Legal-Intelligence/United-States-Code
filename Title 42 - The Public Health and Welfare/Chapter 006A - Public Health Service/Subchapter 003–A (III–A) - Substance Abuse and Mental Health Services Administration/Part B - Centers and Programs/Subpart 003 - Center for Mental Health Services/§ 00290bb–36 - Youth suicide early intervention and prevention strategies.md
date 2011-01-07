@@ -10,7 +10,7 @@ The Secretary, acting through the Administrator of the Substance Abuse and Menta
 
 &emsp;(3) provide grants to institutions of higher education to coordinate the implementation of State-sponsored statewide or tribal youth suicide early intervention and prevention strategies;
 
-&emsp;(4) collect and analyze data on State-sponsored statewide or tribal youth suicide early intervention and prevention services that can be used to monitor the effectiveness of such services and for research, technical assistance, and policy development; and
+&emsp;(4) collect and analyze data on State-sponsored statewide or tribal youth suicide early intervention and prevention services that can be used to monitor the effectiveness of suchservices and for research, technical assistance, and policy development; and
 
 &emsp;(5) assist eligible entities, through State-sponsored statewide or tribal youth suicide early intervention and prevention strategies, in achieving targets for youth suicide reductions under title V of the Social Security Act \[42 U.S.C. 701 et seq.\].
 
@@ -134,7 +134,7 @@ States and entities receiving funding under this section and section 290bb–36a
 
 #### (k) Relation to education provisions
 
-Nothing in this section or section 290bb–36a of this title shall be construed to supersede section 1232g of title 20, including the requirement of prior parental consent for the disclosure of anyeducation records. Nothing in this section or section 290bb–36a of this title shall be construed to modify or affect parental notification requirements for programs authorized under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] (as amended by the No Child Left Behind Act of 2001; Public Law 107–110).
+Nothing in this section or section 290bb–36a of this title shall be construed to supersede section 1232g of title 20, including the requirement of prior parental consent for the disclosure of any education records. Nothing in this section or section 290bb–36a of this title shall be construed to modify or affect parental notification requirements for programs authorized under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] (as amended by the No Child Left Behind Act of 2001; Public Law 107–110).
 
 #### (<i>l</i>) Definitions
 

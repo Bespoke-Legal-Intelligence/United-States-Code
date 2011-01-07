@@ -120,7 +120,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(ii) In the case of—
 
-&emsp;&emsp;&emsp;&emsp;(I) an elementary school, the school serves students not less than 60 percent of whom are eligible for a free or reduced price school lunch under the Richard B. Russell National School Lunch Act; or
+&emsp;&emsp;&emsp;&emsp;(I) an elementary school, the school serves students not less than 60 percent of whom are eligible for a free or reducedprice school lunch under the Richard B. Russell National School Lunch Act; or
 
 &emsp;&emsp;&emsp;&emsp;(II) any other school that is not an elementary school, the other school serves students not less than 45 percent of whom are eligible for a free or reduced price school lunch under the Richard B. Russell National School Lunch Act.
 
@@ -172,7 +172,7 @@ In this subchapter:
 
 &emsp;&emsp;(A) High-quality teacher mentoring.
 
-&emsp;&emsp;(B) Periodic, structured time for collaboration with teachers in the same department or field, including mentor teachers, as well as time for information-sharing among teachers, principals, administrators, otherappropriate instructional staff, and participating faculty in the partner institution.
+&emsp;&emsp;(B) Periodic, structured time for collaboration with teachers in the same department or field, including mentor teachers, as well as time for information-sharing among teachers, principals, administrators, other appropriate instructional staff, and participating faculty in the partner institution.
 
 &emsp;&emsp;(C) The application of empirically-based practice and scientifically valid research on instructional practices.
 
@@ -206,7 +206,7 @@ In this subchapter:
 
 &emsp;&emsp;(A) whose graduates exhibit strong performance on State-determined qualifying assessments for new teachers through—
 
-&emsp;&emsp;&emsp;(i) demonstrating that 80 percent or more of the graduates of the program who intend to enter the field of teaching have passed all of the applicable State qualification assessments for new teachers, which shall include an assessment of each prospective teacher's subject matter knowledge in the content area in which the teacher intends to teach; or
+&emsp;&emsp;&emsp;(i) demonstrating that 80 percent or more of the graduates of the program whointend to enter the field of teaching have passed all of the applicable State qualification assessments for new teachers, which shall include an assessment of each prospective teacher's subject matter knowledge in the content area in which the teacher intends to teach; or
 
 &emsp;&emsp;&emsp;(ii) being ranked among the highest-performing teacher preparation programs in the State as determined by the State—
 
@@ -290,7 +290,7 @@ In this subchapter:
 
 &emsp;&emsp;(A) for one academic year, teaches alongside a mentor teacher, who is the teacher of record;
 
-&emsp;&emsp;(B) receives concurrent instruction during the year described in subparagraph (A) from the partner institution, which courses may be taught by local educational agency personnel or residency program faculty, in the teaching of the content area in which the teacher will become certified or licensed;
+&emsp;&emsp;(B) receives concurrent instruction during the year described in subparagraph (A) from the partner institution, which courses may be taught by local educational agency personnel or residency program faculty, in theteaching of the content area in which the teacher will become certified or licensed;
 
 &emsp;&emsp;(C) acquires effective teaching skills; and
 
@@ -338,7 +338,7 @@ The Social Security Act, referred to in par. (11)(A)(i)(III), (B)(ii)(I)(cc), is
 
 A prior section 1021, Pub. L. 89–329, title II, §201, as added Pub. L. 105–244, title II, §201, Oct. 7, 1998, 112 Stat. 1623; amended Pub. L. 107–110, title X, §1051(2), Jan. 8, 2002, 115 Stat. 2080, related to purposes and definitions, prior to repeal by Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3133.
 
-Another prior section 1021, Pub. L. 89–329, title II, §201, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980, 94 Stat. 1383; amended Pub. L. 99–498, title II, §201(b), (c), Oct. 17, 1986, 100 Stat. 1287; Pub. L. 100–418, title VI, §6241, Aug. 23, 1988, 102 Stat. 1520; Pub. L. 102–325, title II, §201, July 23, 1992, 106 Stat. 467, related to congressional statement of purpose and authorization of appropriations, prior to repeal by Pub. L. 104–208, div. A, titleI, §101(e) \[title VII, §708(b)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
+Another prior section 1021, Pub. L. 89–329, title II, §201, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980, 94 Stat. 1383; amended Pub. L. 99–498, title II, §201(b), (c), Oct. 17, 1986, 100 Stat. 1287; Pub. L. 100–418, title VI, §6241, Aug. 23, 1988, 102 Stat. 1520; Pub. L. 102–325, title II, §201, July 23, 1992, 106 Stat. 467, related to congressional statement of purpose and authorization of appropriations, prior to repeal by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §708(b)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
 
 Another prior section 1021, Pub. L. 89–329, title II, §201, as added Pub. L. 92–318, title I, §111(b)(1), June 23, 1972, 86 Stat. 238; amended Pub. L. 94–482, title I, §106, Oct. 12, 1976, 90 Stat. 2089; Pub. L. 96–49, §3(a), Aug. 13, 1979, 93 Stat. 351, provided for college library programs, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
@@ -346,7 +346,7 @@ Another prior section 1021, Pub. L. 89–329, title II, §201, Nov. 8, 1965, 79 
 
 #### Amendments
 
-2009—Par. (22)(D). Pub. L. 111–39 added subpar. (D) and struck out former subpar (D) which read as follows: “prior to completion of the program, earns a master's degree, attains full State teacher certification or licensure, and becomes highly qualified.”
+<b>2009</b>—Par. (22)(D). Pub. L. 111–39 added subpar. (D) and struck out former subpar (D) which read as follows: “prior to completion of the program, earns a master's degree, attains full State teacher certification or licensure, and becomes highly qualified.”
 
 #### Effective Date of 2009 Amendment
 

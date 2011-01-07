@@ -52,11 +52,11 @@ Expiration and Termination of Authority.—The authority of the Secretary concer
 
 #### Amendments
 
-2003—Subsec. (c)(2). Pub. L. 108–136 inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title”.
+<b>2003</b>—Subsec. (c)(2). Pub. L. 108–136 inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title”.
 
-1999—Subsec. (d)(2). Pub. L. 106–65 inserted “and” at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “any unobligated balances which remain in the Navy Housing Investment Account as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996.”
+<b>1999</b>—Subsec. (d)(2). Pub. L. 106–65 inserted “and” at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “any unobligated balances which remain in the Navy Housing Investment Account as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996.”
 
-1996—Subsec. (a)(1). Pub. L. 104–106, §2802(b)(1), substituted “the Secretary of a military department” for “the Secretary of the Navy”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–106, §2802(b)(1), substituted “the Secretary of a military department” for “the Secretary of the Navy”.
 
 Pub. L. 104–106, §2802(a)(1), substituted “of the armed forces” for “of the naval service”.
 

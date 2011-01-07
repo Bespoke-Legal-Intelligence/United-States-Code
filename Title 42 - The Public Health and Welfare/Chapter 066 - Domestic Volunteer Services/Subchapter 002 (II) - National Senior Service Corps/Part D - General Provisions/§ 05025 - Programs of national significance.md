@@ -28,7 +28,7 @@ The Director shall make grants under subsection (a) of this section to support o
 
 &emsp;(4) Programs that establish and support mentoring programs for low-income youth, including mentoring programs that match such youth with mentors and match such youth with employment and training programs, including apprenticeship programs.
 
-&emsp;(5) Programs that provide adult and school-based literacy assistance, including literacy programs that serve youth, and adults, with limited English proficiency.
+&emsp;(5) Programs that provide adult and school-based literacy assistance, including literacyprograms that serve youth, and adults, with limited English proficiency.
 
 &emsp;(6) Programs that provide respite care, including care for elderly individuals and for children and individuals with disabilities or chronic illnesses who are living at home.
 
@@ -72,7 +72,7 @@ The Director shall widely disseminate information on grants that may be made und
 
 #### Amendments
 
-2009—Subsec. (a)(1). Pub. L. 111–13, §2146(d)(1)(A), which directed substitution of “(9), (11), and (14)” for “(10), (12), (15), and (16)” in subpar. (B) and “(9)” for “(10)” in subpar. (C), could not be executed because the words to be stricken did not appear in par. (1).
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–13, §2146(d)(1)(A), which directed substitution of “(9), (11), and (14)” for “(10), (12), (15), and (16)” in subpar. (B) and “(9)” for “(10)” in subpar. (C), could not be executed because the words to be stricken did not appear in par. (1).
 
 Subsec. (a)(2). Pub. L. 111–13, §2146(d)(1)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Except as provided in paragraph (3), the Director may make such grants—
 
@@ -116,7 +116,7 @@ Subsec. (c)(1). Pub. L. 111–13, §2146(d)(3), inserted “and that such applic
 
 Subsec. (e). Pub. L. 111–13, §2146(d)(4), inserted “widely” after “shall”.
 
-1993—Subsec. (a)(2)(B). Pub. L. 103–82, §349(1), substituted “paragraphs (10), (12), (15), and (16)” for “paragraph (10)”.
+<b>1993</b>—Subsec. (a)(2)(B). Pub. L. 103–82, §349(1), substituted “paragraphs (10), (12), (15), and (16)” for “paragraph (10)”.
 
 Subsec. (b)(12) to (18). Pub. L. 103–82, §349(2), added pars. (12) to (18).
 

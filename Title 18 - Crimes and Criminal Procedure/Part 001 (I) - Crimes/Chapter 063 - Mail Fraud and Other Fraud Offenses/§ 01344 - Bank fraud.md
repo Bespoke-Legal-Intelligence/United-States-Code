@@ -12,9 +12,9 @@ Whoever knowingly executes, or attempts to execute, a scheme or artifice—
 
 #### Amendments
 
-1990—Pub. L. 101–647 substituted “30” for “20” before “years”.
+<b>1990</b>—Pub. L. 101–647 substituted “30” for “20” before “years”.
 
-1989—Pub. L. 101–73 amended section generally, restating former subsec. (a) and striking out former subsec. (b) which defined “federally chartered or insured financial institution”. Prior to amendment, subsec. (a) read as follows: “Whoever knowingly executes, or attempts to execute, a scheme or artifice—
+<b>1989</b>—Pub. L. 101–73 amended section generally, restating former subsec. (a) and striking out former subsec. (b) which defined “federally chartered or insured financial institution”. Prior to amendment, subsec. (a) read as follows: “Whoever knowingly executes, or attempts to execute, a scheme or artifice—
 
 &emsp;“(1) to defraud a federally chartered or insured financial institution; or
 

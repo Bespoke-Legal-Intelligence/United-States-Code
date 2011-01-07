@@ -86,7 +86,7 @@ The provisions of this section shall apply notwithstanding any other provision o
 
 #### (2) Administrative expenditures described
 
-&emsp;The administrative expenditures described in this paragraph are expenditures described in section 1396b(a)(7) of this title that a State demonstrates to the satisfaction of the Secretary are attributable to administrative costs of eligibility determinations that (but for the enactment of this section) would not be incurred.
+&emsp;The administrative expenditures described in this paragraph are expenditures described in section 1396b(a)(7) of this title that a State demonstrates to the satisfaction of the Secretary are attributable to administrative costs of eligibility determinations that (but for theenactment of this section) would not be incurred.
 
 #### (3) Limitation
 
@@ -110,7 +110,7 @@ A prior section 1931 of act Aug. 14, 1935, was renumbered section 1939 and is cl
 
 #### Amendments
 
-1999—Subsec. (h)(3). Pub. L. 106–113, §1000(a)(6) \[title VI, §602(a)(1)\], struck out “and ending with fiscal year 2000” after “fiscal year 1997”.
+<b>1999</b>—Subsec. (h)(3). Pub. L. 106–113, §1000(a)(6) \[title VI, §602(a)(1)\], struck out “and ending with fiscal year 2000” after “fiscal year 1997”.
 
 Subsec. (h)(4). Pub. L. 106–113, §1000(a)(6) \[title VI, §602(a)(2)\], struck out heading and text of par. (4). Prior to amendment, text read as follows: “This subsection shall only apply with respect to a State for expenditures incurred during the first 12 calendar quarters in which the State program funded under part A of subchapter IV of this chapter (as in effect on and after the welfare reform effective date) is in effect.”
 

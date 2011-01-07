@@ -118,21 +118,33 @@ In general.—Not later than March 1, 2008, the Secretary shall ensure that all 
 
 &emsp;(B) If the Secretary fails to submit the certification as provided for under subparagraph (A), the Secretary shall, not later than 3 months after the date on which the report is to be submitted under subparagraph (A), and every 3 months thereafter, submit to Congress an explanation as to why the Secretary has not yet complied with the first sentence of subparagraph (A), a detailed description of all actions undertaken within the month for which the report is being submitted to bring the Secretary into compliance with such sentence, and the anticipated date the Secretary expects to be in full compliance with such sentence.
 
-#### (4) Authorization of appropriations
+#### (4) Consultation with nonprofit gynecologic cancer organizations
 
-&emsp;For the purpose of carrying out this subsection, there is authorized to be appropriated $16,500,000 for the period of fiscal years 2007 through 2009.
+&emsp;In carrying out the national campaign under this subsection, the Secretary shall consult with nonprofit gynecologic cancer organizations, with a mission both to conquer ovarian or other gynecologic cancer and to provide outreach to State and local governments and communities, for the purpose of determining the best practices for providing gynecologic cancer information and outreach services to varied populations.
 
-(July 1, 1944, ch. 373, title III, §317P, as added Pub. L. 106–554, §1(a)(1) \[title V, §516(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–72; amended Pub. L. 109–475, §2, Jan. 12, 2007, 120 Stat. 3565.)
+#### (6) <sup>1</sup> Authorization of appropriations
+
+&emsp;For the purpose of carrying out this subsection, there is authorized to be appropriated $16,500,000 for the period of fiscal years 2007 through 2009 and $18,000,000 for the period of fiscal years 2012 through 2014.
+
+(July 1, 1944, ch. 373, title III, §317P, as added Pub. L. 106–554, §1(a)(1) \[title V, §516(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–72; amended Pub. L. 109–475, §2, Jan. 12, 2007, 120 Stat. 3565; Pub. L. 111–324, §1, Dec. 22, 2010, 124 Stat. 3536.)
 
 #### References in Text
 
-Johanna's Law, referred to in section catchline and subsec. (d), is Pub. L. 109–475, Jan. 12, 2007, 120 Stat. 3565, also known as the Gynecologic Cancer Education and Awareness Act of 2005, which amended this section. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under section 201 of this title and Tables.
+Johanna's Law, referred to in section catchline and subsec. (d), is Pub. L. 109–475, Jan. 12, 2007, 120 Stat.3565, also known as the Gynecologic Cancer Education and Awareness Act of 2005, which amended this section. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under section 201 of this title and Tables.
 
 The effective date of this section, referred to in subsecs. (a)(2) and (b)(2), is the date of enactment of Pub. L. 106–554, which was approved Dec. 21, 2000.
 
 #### Amendments
 
-2007—Pub. L. 109–475, §2(1), inserted “(Johanna's Law)” after “papillomavirus” in section catchline.
+<b>2010</b>—Subsec. (d)(4). Pub. L. 111–324, §1(b), added par. (4). Former par. (4) redesignated (6).
+
+Pub. L. 111–324, §1(a)(1), inserted “and $18,000,000 for the period of fiscal years 2012 through 2014” after “2009”.
+
+Subsec. (d)(6). Pub. L. 111–324, §1(a)(2), redesignated par. (4) as (6).
+
+<b>2007</b>—Pub. L. 109–475, §2(1), inserted “(Johanna's Law)” after “papillomavirus” in section catchline.
 
 Subsec. (d). Pub. L. 109–475, §2(2), added subsec. (d).
+
+<i><sup>1</sup></i><i> So in original. No par. (5) has been enacted.</i>
 

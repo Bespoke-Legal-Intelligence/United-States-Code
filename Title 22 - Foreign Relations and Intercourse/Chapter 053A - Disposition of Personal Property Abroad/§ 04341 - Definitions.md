@@ -34,7 +34,7 @@ For purposes of this chapter, the following terms have the following meanings:
 
 #### Amendments
 
-2006—Par. (1)(B). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+<b>2006</b>—Par. (1)(B). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
 #### Effective Date
 

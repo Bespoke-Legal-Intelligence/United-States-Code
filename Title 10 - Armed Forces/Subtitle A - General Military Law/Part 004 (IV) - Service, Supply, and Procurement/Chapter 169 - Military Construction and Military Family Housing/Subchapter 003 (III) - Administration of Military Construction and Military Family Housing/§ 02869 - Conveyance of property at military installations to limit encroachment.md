@@ -56,7 +56,7 @@ Additional Terms and Conditions.—The Secretary concerned may require such addi
 
 #### Amendments
 
-2009—Pub. L. 111–84, §2804(d)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Conveyance of property at military installations to support military construction or limit encroachment”.
+<b>2009</b>—Pub. L. 111–84, §2804(d)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Conveyance of property at military installations to support military construction or limit encroachment”.
 
 Subsec. (a)(1). Pub. L. 111–84, §2804(a)(1)(A), struck out subpar. (A) designation before “to carry out”, substituted “real property,” for “real property—”, “ to carry out a land acquisition” for “to carry out a military construction project or land acquisition”, and a period for “; or”, and struck out subpar. (B) which read as follows: “to transfer to the Secretary concerned housing that is constructed or provided by the person and located at or near a military installation at which there is a shortage of suitable military family housing, military unaccompanied housing, or both.”
 
@@ -76,9 +76,9 @@ Subsec. (e). Pub. L. 111–84, §2804(b), designated par. (3) as entire subsec.,
 
 Subsec. (f). Pub. L. 111–84, §2804(c), amended subsec. (f) generally. Prior to amendment, subsec. (f) related to annual reports on conveyances and effect of failure to submit report.
 
-2006—Pub. L. 109–364, §2811(f)(1), substituted “to support military construction or limit encroachment” for “closed or realigned to support military construction” in section catchline.
+<b>2006</b>—Pub. L. 109–364, §2811(f)(1), substituted “to support military construction or limit encroachment” for “closed or realigned to support military construction” in section catchline.
 
-Subsec. (a). Pub. L. 109–364, §2811(a), (b), designated existing provisions as par. (1), in introductory provisions substituted “described in paragraph (2)” for “located on a military installation that is closed or realigned under a base closure law”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, in subpar. (A) substituted “land acquisition, including the acquisition of all right, title, and interest or a lesser interest in real property under an agreement enteredinto under section 2684a of this title to limit encroachments and other constraints on military training, testing, and operations” for “land acquisition”, and added pars. (2) and (3).
+Subsec. (a). Pub. L. 109–364, §2811(a), (b), designated existing provisions as par. (1), in introductory provisions substituted “described in paragraph (2)” for “located on a military installation that is closed or realigned under a base closure law”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, in subpar. (A) substituted “land acquisition, including the acquisition of all right, title, and interest or a lesser interest in real property under an agreement entered into under section 2684a of this title to limit encroachments and other constraints on military training, testing, and operations” for “land acquisition”, and added pars. (2) and (3).
 
 Subsec. (d)(1). Pub. L. 109–364, §2811(c)(1), substituted “is proposed for conveyance” for “closed or realigned under the base closure laws is to be conveyed”.
 

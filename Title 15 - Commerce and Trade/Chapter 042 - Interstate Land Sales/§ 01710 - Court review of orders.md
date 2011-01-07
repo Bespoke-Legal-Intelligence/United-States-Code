@@ -8,5 +8,13 @@ Any person, aggrieved by an order or determination of the Secretary issued after
 
 The commencement of proceedings under subsection (a) of this section shall not, unless specifically ordered by the court, operate as a stay of the Secretary's order.
 
-(Pub. L. 90–448, title XIV, §1411, Aug. 1, 1968, 82 Stat. 595.)
+(Pub. L. 90–448, title XIV, §1411, Aug. 1, 1968, 82 Stat. 595; Pub. L. 111–203, title X, §1098A(1), July 21, 2010, 124 Stat. 2105.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1098A(1), 1100H, July 21, 2010, 124 Stat. 2105, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Secretary” each place that term appears and inserting “Director”. See Effective Date of 2010 Amendment note below.</i>
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 

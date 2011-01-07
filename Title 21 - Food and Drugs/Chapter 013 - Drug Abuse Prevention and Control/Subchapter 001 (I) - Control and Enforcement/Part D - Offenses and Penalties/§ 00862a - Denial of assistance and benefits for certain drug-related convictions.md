@@ -12,7 +12,7 @@ An individual convicted (under Federal or State law) of any offense which is cla
 
 #### (1) Program of temporary assistance for needy families
 
-&emsp;The amount of assistance otherwise required to be provided under a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] to the family members of an individual to whom subsection (a) of this section applies shall be reduced by the amount which would have otherwise been made available to the individual under such part.
+&emsp;The amount of assistance otherwise required to be provided under a State program fundedunder part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] to the family members of an individual to whom subsection (a) of this section applies shall be reduced by the amount which would have otherwise been made available to the individual under such part.
 
 #### (2) Benefits under the Food Stamp Act of 1977
 
@@ -80,11 +80,11 @@ Section was enacted as part of the Personal Responsibility and Work Opportunity 
 
 #### Amendments
 
-2008—Subsecs. (a)(2), (b)(2). Pub. L. 110–246, §4115(c)(2)(C)(i), substituted “section 3(<i>l</i>)” for “section 3(h)”.
+<b>2008</b>—Subsecs. (a)(2), (b)(2). Pub. L. 110–246, §4115(c)(2)(C)(i), substituted “section 3(<i>l</i>)” for “section 3(h)”.
 
 Subsec. (e)(2). Pub. L. 110–246, §4115(c)(2)(C), substituted “section 3(s)” for “section 3(m)” and “section 3(<i>l</i>)” for “section 3(h)”.
 
-1997—Subsec. (d)(2). Pub. L. 105–33 substituted “a conviction if the conviction is for conduct” for “convictions”.
+<b>1997</b>—Subsec. (d)(2). Pub. L. 105–33 substituted “a conviction if the conviction is for conduct” for “convictions”.
 
 #### Change of Name
 
@@ -94,7 +94,7 @@ References to the food stamp program established under the Food Stamp Act of 197
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Amendment by section 4115(c)(2)(C) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
+Amendment by section 4115(c)(2)(C) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246,set out as a note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 1997 Amendment
 

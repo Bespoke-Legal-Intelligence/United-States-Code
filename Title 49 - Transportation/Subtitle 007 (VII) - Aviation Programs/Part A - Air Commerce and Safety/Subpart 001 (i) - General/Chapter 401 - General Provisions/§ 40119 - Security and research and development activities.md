@@ -68,15 +68,15 @@ In subsection (b)(2), the word “duly” is omitted as surplus. The words “to
 
 #### Amendments
 
-2009—Subsec. (b)(3). Pub. L. 111–83 added par. (3).
+<b>2009</b>—Subsec. (b)(3). Pub. L. 111–83 added par. (3).
 
-2002—Subsec. (a). Pub. L. 107–296, §1601(a)(1), inserted “and the Administrator of the Federal Aviation Administration each” after “for Security” and substituted “criminal violence, aircraft piracy, and terrorism and to ensure security” for “criminal violence and aircraft piracy”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–296, §1601(a)(1), inserted “and the Administrator of the Federal Aviation Administration each” after “for Security” and substituted “criminal violence, aircraft piracy, and terrorism and to ensure security” for “criminal violence and aircraft piracy”.
 
 Subsec. (b)(1). Pub. L. 107–296, §1601(a)(2)(A), (B), in introductory provisions, substituted “and the establishment of a Department of Homeland Security, the Secretary of Transportation” for “, the Under Secretary” and “ensuring security under this title if the Secretary of Transportation” for “carrying out security or research and development activities under section 44501(a) or (c), 44502(a)(1) or (3), (b), or (c), 44504, 44505, 44507, 44508, 44511, 44512, 44513, 44901, 44903(a), (b), (c), or (e), 44905, 44912, 44935, 44936, or 44938(a) or (b) of this title if the Under Secretary”.
 
 Subsec. (b)(1)(C). Pub. L. 107–296, §1601(a)(2)(C), substituted “transportation safety” for “the safety of passengers in transportation”.
 
-2001—Subsec. (a). Pub. L. 107–71, §101(e)(1), substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–71, §101(e)(1), substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration”.
 
 Subsec. (b). Pub. L. 107–71, §101(e)(2), substituted “Under Secretary” for “Administrator” in two places in introductory provisions.
 
@@ -91,4 +91,8 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Deemed References to Chapters 509 and 511 of Title 51
+
+General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 

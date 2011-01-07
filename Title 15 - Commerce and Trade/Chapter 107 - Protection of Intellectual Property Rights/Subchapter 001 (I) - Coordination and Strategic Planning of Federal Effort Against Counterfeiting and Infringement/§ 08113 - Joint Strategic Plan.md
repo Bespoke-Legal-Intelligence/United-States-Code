@@ -8,7 +8,7 @@ The objectives of the Joint Strategic Plan against counterfeiting and infringeme
 
 &emsp;(2) Identifying and addressing structural weaknesses, systemic flaws, or other unjustified impediments to effective enforcement action against the financing, production, trafficking, or sale of counterfeit or infringing goods, including identifying duplicative efforts to enforce, investigate, and prosecute intellectual property crimes across the Federal agencies and Departments that comprise the Advisory Committee and recommending how such duplicative efforts may be minimized. Such recommendations may include recommendations on how to reduce duplication in personnel, materials, technologies, and facilities utilized by the agencies and Departments responsible for the enforcement, investigation, or prosecution of intellectual property crimes.
 
-&emsp;(3) Ensuring that information is identified and shared among the relevant departments and agencies, to the extent permitted by law, including requirements relating to confidentiality and privacy, and to the extent that such sharing of information is consistent with Department of Justice and other law enforcement protocols for handling such information, to aid in the objective of arresting and prosecuting individuals and entities that are knowingly involved in the financing, production, trafficking, or sale of counterfeit or infringing goods.
+&emsp;(3) Ensuring that information is identified and shared among the relevant departments and agencies, to the extent permitted by law, including requirements relating to confidentiality and privacy, and to the extent thatsuch sharing of information is consistent with Department of Justice and other law enforcement protocols for handling such information, to aid in the objective of arresting and prosecuting individuals and entities that are knowingly involved in the financing, production, trafficking, or sale of counterfeit or infringing goods.
 
 &emsp;(4) Disrupting and eliminating domestic and international counterfeiting and infringement networks.
 
@@ -66,7 +66,7 @@ Each joint strategic plan shall include the following:
 
 #### (f) Enhancing enforcement efforts of foreign governments
 
-The joint strategic plan shall include programs to provide training and technical assistance to foreign governments for the purpose of enhancing the efforts of such governments to enforce laws against counterfeiting and infringement. With respect to such programs, the joint strategic plan shall—
+The joint strategic plan shall include programs to provide training and technical assistance to foreign governments for the purpose ofenhancing the efforts of such governments to enforce laws against counterfeiting and infringement. With respect to such programs, the joint strategic plan shall—
 
 &emsp;(1) seek to enhance the efficiency and consistency with which Federal resources are expended, and seek to minimize duplication, overlap, or inconsistency of efforts;
 

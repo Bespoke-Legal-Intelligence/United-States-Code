@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(i) In the case of any plan which provides that after not more than 2 years of service each participant has a right to 100 percent of his accrued benefit under the plan which is nonforfeitable (within the meaning of section 411) at the time such benefit accrues, clause (ii) of subparagraph (A) shall be applied by substituting “2 years of service” for “1 year of service”.
 
-&emsp;&emsp;(ii) In the case of any plan maintained exclusively for employees of an educational institution (as defined in section 170(b)(1)(A)(ii) by an employer which is exempt from tax under section 501(a) which provides that each participant having at least 1 year of service has a right to 100 percent of his accrued benefit under the plan which is nonforfeitable (within the meaning of section 411) at the time such benefit accrues, clause (i) of subparagraph (A) shall beapplied by substituting “26” for “21”. This clause shall not apply to any plan to which clause (i) applies.
+&emsp;&emsp;(ii) In the case of any plan maintained exclusively for employees of an educational institution (as defined in section 170(b)(1)(A)(ii) by an employer which is exempt from tax under section 501(a) which provides that each participant having at least 1 year of service has a right to 100 percent of his accrued benefit under the plan which is nonforfeitable (within the meaning of section 411) at the time such benefit accrues, clause (i) of subparagraph (A) shall be applied by substituting “26” for “21”. This clause shall not apply to any plan to which clause (i) applies.
 
 #### (2) Maximum age conditions
 
@@ -76,7 +76,7 @@
 
 #### (ii) Years of service not taken into account
 
-&emsp;&emsp;&emsp;If any years of service are not required to be taken into account by reason of a period of breaks in service to which clause (i) applies, such years of service shall not be taken into account in applying clause (i) to a subsequent period of breaks in service.
+&emsp;&emsp;&emsp;If any years of service are not required to be taken into account by reason of a period of breaks in service to which clause (i) applies, such years of service shall not betaken into account in applying clause (i) to a subsequent period of breaks in service.
 
 #### (iii) Nonvested participant defined
 
@@ -192,7 +192,7 @@
 
 &emsp;For purposes of this subsection, there shall be excluded from consideration—
 
-&emsp;&emsp;(A) employees who are included in a unit of employees covered by an agreement whichthe Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that retirement benefits were the subject of good faith bargaining between such employee representatives and such employer or employers,
+&emsp;&emsp;(A) employees who are included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that retirement benefits were the subject of good faith bargaining between such employee representatives and such employer or employers,
 
 &emsp;&emsp;(B) in the case of a trust established or maintained pursuant to an agreement which the Secretary of Labor finds to be a collective bargaining agreement between air pilots represented in accordance with title II of the Railway Labor Act and one or more employers, all employees not covered by such agreement, and
 
@@ -254,7 +254,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If a person becomes, or ceases to be, a member of a group described in subsection (b), (c), (m), or (o) of section 414, then the requirements of this subsection shall be treated as having been met during the transition period with respect to any plan covering employees of such person or any other member of such group if—
+&emsp;&emsp;&emsp;If a person becomes, or ceases to be, a member of a group described in subsection\(b), (c), (m), or (o) of section 414, then the requirements of this subsection shall be treated as having been met during the transition period with respect to any plan covering employees of such person or any other member of such group if—
 
 &emsp;&emsp;&emsp;&emsp;(I) such requirements were met immediately before each such change, and
 
@@ -320,13 +320,13 @@ The Railway Labor Act, referred to in subsec. (b)(3), is act May 20, 1926, ch. 3
 
 #### Amendments
 
-2006—Subsec. (b)(3). Pub. L. 109–280, in concluding provisions, substituted “For purposes of subparagraph (B), management pilots who are not represented in accordance with title II of the Railway Labor Act shall be treated as covered by a collective bargaining agreement described in such subparagraph if the management pilots manage the flight operations of air pilots who are so represented and the management pilots are, pursuant to the terms of the agreement, included in the group of employees benefitting under the trust described in such subparagraph. Subparagraph (B) shall not apply in the case of a plan which provides contributions or benefits for employees whose principal duties are not customarily performed aboard an aircraft in flight (other than management pilots described in the preceding sentence).” for “Subparagraph (B) shall not apply in the case of a plan which provides contributions or benefits for employees whose principal duties are not customarily performed aboard aircraft in flight.”
+<b>2006</b>—Subsec. (b)(3). Pub. L. 109–280, in concluding provisions, substituted “For purposes of subparagraph (B), management pilots who are not represented in accordance with title II of the Railway Labor Act shall be treated as covered by a collective bargaining agreement described in such subparagraph if the management pilots manage the flight operations of air pilots who are so represented and the management pilots are, pursuant to the terms of the agreement, included in the group of employees benefitting under the trust described in such subparagraph. Subparagraph (B) shall not apply in the case of a plan which provides contributions or benefits for employees whose principal duties are not customarily performed aboard an aircraft in flight (other than management pilots described in the preceding sentence).” for “Subparagraph (B) shall not apply in the case of a plan which provides contributions or benefits for employees whose principal duties are not customarily performed aboard aircraft in flight.”
 
-1997—Subsec. (c)(2). Pub. L. 105–34 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A plan described in paragraph (1) shall be treated as meeting the requirements of this section, for purposes of section 401(a), if such plan meets the requirements of section 401(a)(3) as in effect on September 1, 1974.”
+<b>1997</b>—Subsec. (c)(2). Pub. L. 105–34 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A plan described in paragraph (1) shall be treated as meeting the requirements of this section, for purposes of section 401(a), if such plan meets the requirements of section 401(a)(3) as in effect on September 1, 1974.”
 
-1989—Subsec. (a)(2). Pub. L. 101–239 struck out comma before period at end.
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–239 struck out comma before period at end.
 
-1988—Subsec. (b)(4)(B). Pub. L. 100–647, §1011(h)(1), substituted “not meeting” for “do not meet” and struck out “and” before “are covered”.
+<b>1988</b>—Subsec. (b)(4)(B). Pub. L. 100–647, §1011(h)(1), substituted “not meeting” for “do not meet” and struck out “and” before “are covered”.
 
 Subsec. (b)(4)(C). Pub. L. 100–647, §1011(h)(11), added subpar. (C).
 
@@ -334,7 +334,7 @@ Subsec. (b)(6)(C)(i)(II). Pub. L. 100–647, §3021(a)(13)(B), inserted “or su
 
 Subsec. (b)(6)(F), (G). Pub. L. 100–647, §1011(h)(2), added subpar. (F) and redesignated former subpar. (F) as (G).
 
-1986—Subsec. (a)(1)(B)(i). Pub. L. 99–514, §1113(c), substituted “2 years of service” for “3 years of service” in two places.
+<b>1986</b>—Subsec. (a)(1)(B)(i). Pub. L. 99–514, §1113(c), substituted “2 years of service” for “3 years of service” in two places.
 
 Subsec. (a)(2). Pub. L. 99–509 substituted a period for “unless—
 
@@ -350,7 +350,7 @@ Subsec. (a)(5)(B). Pub. L. 99–514, §1113(d)(A), substituted “2-year” for 
 
 Subsec. (b). Pub. L. 99–514, §1112(a), substituted “Minimum coverage requirements” for “Eligibility” as subsec. (b) heading and amended subsec. generally, revising and restating as pars. (1) to (6) provisions formerly contained in pars. (1) to (3).
 
-1984—Subsec. (a)(1)(A)(i). Pub. L. 98–397, §202(a)(1), substituted “21” for “25”.
+<b>1984</b>—Subsec. (a)(1)(A)(i). Pub. L. 98–397, §202(a)(1), substituted “21” for “25”.
 
 Subsec. (a)(1)(B)(ii). Pub. L. 98–397, §202(a)(2), substituted “ ‘26’ for ‘21’ ” for “ ‘30’ for ‘25’ ”.
 
@@ -358,11 +358,11 @@ Subsec. (a)(5)(D). Pub. L. 98–397, §202(d)(1), amended subpar. (D) generally.
 
 Subsec. (a)(5)(E). Pub. L. 98–397, §202(e)(1), added subpar. (E).
 
-1981—Subsec. (b)(3)(C). Pub. L. 97–34 substituted “section 911(d)(2)” for “section 911(b)”.
+<b>1981</b>—Subsec. (b)(3)(C). Pub. L. 97–34 substituted “section 911(d)(2)” for “section 911(b)”.
 
-1980—Subsec. (b)(2), (3). Pub. L. 96–605 added par. (2), redesignated former par. (2) as (3) and substituted “paragraphs (1) and (2)” for “paragraph (1)”.
+<b>1980</b>—Subsec. (b)(2), (3). Pub. L. 96–605 added par. (2), redesignated former par. (2) as (3) and substituted “paragraphs (1) and (2)” for “paragraph (1)”.
 
-1976—Subsec. (a)(2)(A)(ii). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a)(2)(A)(ii). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (a)(5)(C), (D). Pub. L. 94–455, §1901(a)(61)(A), substituted “purposes of paragraph (1)” for “purposes of subsection (a)(1)”.
 
@@ -504,7 +504,7 @@ Participation.—In the case of a plan to which section 410 of the Internal Reve
 
 &emsp;“(2)
 
-Vesting.—In the case of a plan to which section 411 of the Internal Revenue Code of 1986 applies, if any plan amendment with respect to breaks in service (which amendment is made or becomes effective after January 1, 1974, and before the date on which such section 411 first becomes effective with respect to such plan) provides that the nonforfeitable benefit derived from employer contributions to which any employee would be entitled is less than the lesser of the nonforfeitable benefit derived from employer contributions to which he would be entitled under—
+Vesting.—In the case of a plan to which section 411 of the Internal Revenue Code of 1986 applies,if any plan amendment with respect to breaks in service (which amendment is made or becomes effective after January 1, 1974, and before the date on which such section 411 first becomes effective with respect to such plan) provides that the nonforfeitable benefit derived from employer contributions to which any employee would be entitled is less than the lesser of the nonforfeitable benefit derived from employer contributions to which he would be entitled under—
 
 &emsp;&emsp;“(A) the break in service rules of section 411(a)(6) of such Code, or
 
@@ -514,7 +514,7 @@ Vesting.—In the case of a plan to which section 411 of the Internal Revenue Co
 
 “(g) 3-
 
-Year Delay for Certain Provisions.—Subparagraphs (B) and (C) of section 404(a)(1) shall apply only in the case of plan years beginning on or after 3years after the date of the enactment of this Act \[Sept. 2, 1974\].
+Year Delay for Certain Provisions.—Subparagraphs (B) and (C) of section 404(a)(1) shall apply only in the case of plan years beginning on or after 3 years after the date of the enactment of this Act \[Sept. 2, 1974\].
 
 “(h)(1) Except as provided in paragraph (2), section 413 of the Internal Revenue Code of 1986 shall apply to plan years beginning after December 31, 1953.
 

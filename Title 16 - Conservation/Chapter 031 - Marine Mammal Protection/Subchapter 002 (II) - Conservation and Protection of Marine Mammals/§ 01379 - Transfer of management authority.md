@@ -6,7 +6,7 @@ No State may enforce, or attempt to enforce, any State law or regulation relatin
 
 #### (b) Findings prerequisite to transfer of authority; State program; implementation
 
-(1) Subject to paragraph (2) and subsection (f) of this section, the Secretary shall transfer management authority for a species of marine mammal to a State if the Secretary finds, afternotice and opportunity for public comment, that the State has developed and will implement a program for the conservation and management of the species that—
+(1) Subject to paragraph (2) and subsection (f) of this section, the Secretary shall transfer management authority for a species of marine mammal to a State if the Secretary finds, after notice and opportunity for public comment, that the State has developed and will implement a program for the conservation and management of the species that—
 
 &emsp;(A) is consistent with the purposes, policies, and goals of this chapter and with international treaty obligations;
 
@@ -20,7 +20,7 @@ No State may enforce, or attempt to enforce, any State law or regulation relatin
 
 &emsp;&emsp;&emsp;(II) the maximum number of animals of that species that may be taken without reducing the species below its OSP, and
 
-&emsp;&emsp;(ii) the determination required under clause (i) is final and implemented under State law, and, if a cooperative allocation agreement for the species is required under subsection (d)(1) of this section, such as agreement is implemented;
+&emsp;&emsp;(ii) the determination required under clause (i) is final and implemented under State law, and, if a cooperative allocation agreement for the species is required under subsection (d)(1) of this section, such an agreement is implemented;
 
 &emsp;(D) does not permit the taking of a number of animals of the species that exceeds the maximum number determined pursuant to subparagraph (C)(i)(II), and, in the case of taking for subsistence uses (as defined in subsection (f)(2) of this section), does not permit the taking of a number of animals that would be inconsistent with the maintenance of the species at its OSP;
 
@@ -62,7 +62,7 @@ The State process required under subsection (b)(1)(C) of this section must compl
 
 &emsp;&emsp;(B) cross-examine persons presenting evidence at the hearing.
 
-> &emsp;The State agency must give public notice of the hearing and make available to the publicwithin a reasonable time before commencing the hearing a list of the witnesses for the State and a general description of the documentation and other evidence that will be relied upon by such witnesses.
+> &emsp;The State agency must give public notice of the hearing and make available to the public within a reasonable time before commencing the hearing a list of the witnesses for the State and a general description of the documentation and other evidence that will be relied upon by such witnesses.
 
 &emsp;(3) The State agency, solely on the basis of the record developed at a hearing held pursuant to paragraph (2), must make a decision regarding its initial determination under paragraph (1) and shall include with the record a statement of the findings and conclusions, and the reason or basis therefor, on all material issues.
 
@@ -88,7 +88,7 @@ The State process required under subsection (b)(1)(C) of this section must compl
 
 &emsp;&emsp;(II) the State does not take such remedial measures as are necessary, in the judgment of the Secretary, to bring its conservation and management program, or the administration or enforcement of the program, into compliance with the provisions of this section.
 
-(B) When a revocation by the Secretary of a transfer of management authority to a State becomes final, or the State voluntarily returns management authority to the Secretary, the Secretary shall regulate the taking, and provide for the conservation and management, of the species within the State in accordance with the provisions of this chapter (and in the case of Alaskan Natives, section 1371(b) of this title and subsection (i) of this section shall apply upon such revocation or return of management authority).
+(B) When a revocation by the Secretary of a transfer of management authority to a State becomes final, or the State voluntarily returns management authority to the Secretary, the Secretary shall regulate the taking, and providefor the conservation and management, of the species within the State in accordance with the provisions of this chapter (and in the case of Alaskan Natives, section 1371(b) of this title and subsection (i) of this section shall apply upon such revocation or return of management authority).
 
 #### (f) Transfer of management authority to State of Alaska
 
@@ -108,7 +108,7 @@ The State process required under subsection (b)(1)(C) of this section must compl
 
 &emsp;&emsp;&emsp;(III) the availability of alternative resources; and
 
-&emsp;(B) the State has adopted a statute or regulation that requires that any consumptive useof marine mammal species, other than for subsistence uses, will be authorized during a regulatory year only if the appropriate agency first makes findings, based on an administrative record before it, that—
+&emsp;(B) the State has adopted a statute or regulation that requires that any consumptive use of marine mammal species, other than for subsistence uses, will be authorized during a regulatory year only if the appropriate agency first makes findings, based on an administrative record before it, that—
 
 &emsp;&emsp;(i) such use will have no significant adverse impact upon subsistence uses of the species, and
 
@@ -172,7 +172,7 @@ The Secretary is authorized and directed to enter into cooperative arrangements 
 
 Section 1362(14) of this title, referred to in subsecs. (b)(3)(B)(i) and (d), was redesignated section 1362(15) by Pub. L. 102–582, title IV, §401(a), Nov. 2, 1992, 106 Stat. 4909.
 
-The Regulatory Flexibility Act, referred to in subsec. (d)(2), is Pub. L. 96–354, Sept. 19, 1980, 94 Stat. 1164,which is classified generally to chapter 6 (§601 et seq.) of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 5 and Tables.
+The Regulatory Flexibility Act, referred to in subsec. (d)(2), is Pub. L. 96–354, Sept. 19, 1980, 94 Stat. 1164, which is classified generally to chapter 6 (§601 et seq.) of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 5 and Tables.
 
 The Paperwork Reduction Act, referred to in subsec. (d)(2), probably means the Paperwork Reduction Act of 1980, Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, as amended, which was classified principally to chapter 35 (§3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by the Paperwork Reduction Act of 1995, Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
 
@@ -180,11 +180,11 @@ Executive Order Numbered 12291, dated February 17, 1981, referred to in subsec. 
 
 #### Amendments
 
-1994—Subsec. (h)(1). Pub. L. 103–238 made technical amendment to reference to subchapter V of this chapter to reflect renumbering of corresponding title of original act.
+<b>1994</b>—Subsec. (h)(1). Pub. L. 103–238 made technical amendment to reference to subchapter V of this chapter to reflect renumbering of corresponding title of original act.
 
-1992—Subsec. (h)(1). Pub. L. 102–587 inserted “or subchapter V of this chapter” in introductory provisions.
+<b>1992</b>—Subsec. (h)(1). Pub. L. 102–587 inserted “or subchapter V of this chapter” in introductory provisions.
 
-1988—Subsec. (b)(1)(E). Pub. L. 100–711, §5(e)(3)(A), substituted “research, public display, or enhancing the survival or recovery of a species or stock” for “research and public display purposes”.
+<b>1988</b>—Subsec. (b)(1)(E). Pub. L. 100–711, §5(e)(3)(A), substituted “research, public display, or enhancing the survival or recovery of a species or stock” for “research and public display purposes”.
 
 Subsec. (b)(3)(B)(ii). Pub. L. 100–711, §5(e)(3)(B), substituted “research, public display, or enhancing the survival or recovery of a species or stock” for “research or public display purposes”.
 
@@ -198,7 +198,7 @@ Subsec. (h). Pub. L. 100–711, §5(a), amended subsec. (h) generally. Prior to 
 
 > and, in any case in which the return of the mammal to its natural habitat is feasible, includes steps designed to achieve that result.”
 
-1981—Subsec. (a). Pub. L. 97–58, §4(a)(2), added subsec. (a). Former subsec. (a), relating to State regulation of the taking of marine mammals, was struck out.
+<b>1981</b>—Subsec. (a). Pub. L. 97–58, §4(a)(2), added subsec. (a). Former subsec. (a), relating to State regulation of the taking of marine mammals, was struck out.
 
 Subsec. (b). Pub. L. 97–58, §4(a)(2), added subsec. (b). Former subsec. (b), relating to the making of grants to States by the Secretary, was struck out. See subsec. (j) of this section.
 
@@ -208,7 +208,7 @@ Subsecs. (e) to (j). Pub. L. 97–58, §4(a)(2), added subsecs. (e) to (j).
 
 Subsecs. (k), (<i>l</i>). Pub. L. 97–58, §4(a)(1), redesignated subsecs. (c) and (d) as (k) and (<i>l</i>), respectively.
 
-1978—Subsec. (d). Pub. L. 95–316 added subsec. (d).
+<b>1978</b>—Subsec. (d). Pub. L. 95–316 added subsec. (d).
 
 #### Enforcement by Hawaii of Laws Relating to Conservation and Management of Humpback Whales With Respect to Recreational and Commercial Vessels
 

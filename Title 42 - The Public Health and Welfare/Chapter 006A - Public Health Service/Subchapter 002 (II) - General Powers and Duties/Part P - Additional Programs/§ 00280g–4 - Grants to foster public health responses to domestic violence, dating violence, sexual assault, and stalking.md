@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(D) The promotion of the inclusion of domestic violence, dating violence, sexual assault, and stalking into health professional training schools, including medical, dental, nursing school, social work, and mental health curriculum.
 
-&emsp;&emsp;(E) The integration of domestic violence, dating violence, sexual assault, and stalkinginto health care accreditation and professional licensing examinations, such as medical, dental, social work, and nursing boards.
+&emsp;&emsp;(E) The integration of domestic violence, dating violence, sexual assault, and stalking into health care accreditation and professional licensing examinations, such as medical, dental, social work, and nursing boards.
 
 #### (c) Allocation of funds
 

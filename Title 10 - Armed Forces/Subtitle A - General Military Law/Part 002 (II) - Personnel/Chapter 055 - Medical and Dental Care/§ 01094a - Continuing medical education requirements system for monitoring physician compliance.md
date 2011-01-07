@@ -30,5 +30,5 @@ Termination of Program.—The pilot program under this section shall terminate o
 
 #### Joint DOD–VA Pilot Program for Providing Graduate Medical Education and Training for Physicians
 
-Pub. L. 107–107, div. A, title VII, §738, Dec. 28, 2001, 115 Stat. 1173, authorized a pilot program providing graduate medical education and training for physicians to be carried out jointly by the Secretary of Defense and the Secretary of Veterans Affairs, prior to repeal by Pub. L. 107–314, div. A, title VII, §725(e), Dec. 2, 2002, 116 Stat. 2599.
+Pub. L. 107–107, div. A, title VII, §738, Dec. 28, 2001, 115 Stat. 1173, authorized a pilot program providing graduate medical education and training for physicians to be carried out jointly by the Secretary of Defense and the Secretary of Veterans Affairs, prior to repeal byPub. L. 107–314, div. A, title VII, §725(e), Dec. 2, 2002, 116 Stat. 2599.
 

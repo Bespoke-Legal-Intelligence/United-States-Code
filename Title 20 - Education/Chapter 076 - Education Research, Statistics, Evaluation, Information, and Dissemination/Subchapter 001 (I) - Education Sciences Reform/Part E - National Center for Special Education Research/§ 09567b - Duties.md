@@ -32,7 +32,7 @@ The Special Education Research Center shall carry out research activities under 
 
 &emsp;(12) examine and incorporate universal design concepts in the development of standards, assessments, curricula, and instructional methods to improve educational and transitional results for children with disabilities;
 
-&emsp;(13) improve the preparation of personnel, including early intervention personnel, who provide educational and related services to children with disabilities to increase the academic achievement and functional performance of students with disabilities;
+&emsp;(13) improve the preparation of personnel, including early intervention personnel, whoprovide educational and related services to children with disabilities to increase the academic achievement and functional performance of students with disabilities;
 
 &emsp;(14) examine the excess costs of educating a child with a disability and expenses associated with high cost special education and related services;
 

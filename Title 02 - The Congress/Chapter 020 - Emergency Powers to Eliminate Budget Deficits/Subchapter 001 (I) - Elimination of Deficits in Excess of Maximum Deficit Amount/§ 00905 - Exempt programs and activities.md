@@ -2,55 +2,23 @@
 
 #### (a) Social security benefits and tier I railroad retirement benefits
 
-Benefits payable under the old-age, survivors, and disability insurance program established under title II of the Social Security Act \[42 U.S.C. 401 et seq.\], and benefits payable under section 231b(a), 231b(f)(3), 231c(a), or 231c(f) of title 45, shall be exempt from reduction under any order issued under this subchapter.
+Benefits payable under the old-age, survivors, and disability insurance program established under title II of the Social Security Act (42 U.S.C. 401 et seq.), and benefits payable under section <sup>1</sup> 231b(a), 231b(f)(2), 231c(a), and 231c(f) of title 45, shall be exempt from reduction under any order issued under this subchapter.
 
 #### (b) Veterans programs
 
 The following programs shall be exempt from reduction under any order issued under this subchapter:
 
-&emsp;National Service Life Insurance Fund (36-8132-0-7-701);
+&emsp;All programs administered by the Department of Veterans Affairs.
 
-&emsp;Service-Disabled Veterans Insurance Fund (36-4012-0-3-701);
-
-&emsp;Veterans Special Life Insurance Fund (36-8455-0-8-701);
-
-&emsp;Veterans Reopened Insurance Fund (36-4010-0-3-701);
-
-&emsp;United States Government Life Insurance Fund (36-8150-0-7-701);
-
-&emsp;Veterans Insurance and Indemnities (36-0120-0-1-701);
-
-&emsp;Special Therapeutic and Rehabilitation Activities Fund (36-4048-0-3-703);
-
-&emsp;Canteen Service Revolving Fund (36-4014-0-3-705);
-
-&emsp;Benefits under chapter 21 of title 38 relating to specially adapted housing and mortgage-protection life insurance for certain veterans with service-connected disabilities (36-0120-0-1-701);
-
-&emsp;Benefits under section 2307 of title 38 relating to burial benefits for veterans who die as a result of service-connected disability (36-0155-0-1-701);
-
-&emsp;Benefits under chapter 39 of title 38 relating to automobiles and adaptive equipment for certain disabled veterans and members of the Armed Forces (36-0137-0-1-702);
-
-&emsp;Compensation (36-0153-0-1-701); and
-
-&emsp;Pensions (36-0154-0-1-701).
-
-&emsp;Benefits under chapter 35 of title 38 related to educational assistance for survivors and dependents of certain veterans with service-connected disabilities (36-0137-0-1-702);
-
-&emsp;Assistance and services under chapter 31 of title 38 relating to training and rehabilitation for certain veterans with service-connected disabilities (36-0137-0-1-702);
-
-&emsp;Benefits under subchapters I, II, and III of chapter 37 of title 38 relating to housing loans for certain veterans and for the spouses and surviving spouses of certain veterans Guaranty and Indemnity Program Account (36-1119-0-1-704);
-
-&emsp;Loan Guaranty Program Account (36-1025-0-1-704); and
-
-&emsp;Direct Loan Program Account (36-1024-0-1-704).
+&emsp;Special benefits for certain World War II veterans (28–0401–0–1–701).
 
 #### (c) Net interest
 
 No reduction of payments for net interest (all of major functional category 900) shall be made under any order issued under this subchapter.
 
-#### (d) Earned income tax credit
+#### (d) Refundable income tax credits
 
-Payments to individuals made pursuant to section 32 of title 26 shall be exempt from reduction under any order issued under this subchapter.
+Payments to individuals made pursuant to provisions of title 26 establishing refundable tax credits shall be exempt from reduction under any order issued under this subchapter.
 
 #### (e) Non-defense unobligated balances
 
@@ -70,237 +38,321 @@ Unobligated balances of budget authority carried over from prior fiscal years, e
 
 (1)(A) The following budget accounts and activities shall be exempt from reduction under any order issued under this subchapter:
 
-&emsp;Activities resulting from private donations, bequests, or voluntary contributions to the Government;
+&emsp;Activities resulting from private donations, bequests, or voluntary contributions to the Government.
 
-&emsp;Activities financed by voluntary payments to the Government for goods or services to be provided for such payments;
+&emsp;Activities financed by voluntary payments to the Government for goods or services to be provided for such payments.
 
-&emsp;Administration of Territories, Northern Mariana Islands Covenant grants (14-0412-0-1-806);
+&emsp;Administration of Territories, Northern Mariana Islands Covenant grants (14–0412–0–1–808).
 
-&emsp;Alaska Power Administration, Operations and maintenance (89-0304-0-1-271);
+&emsp;Advances to the Unemployment Trust Fund and Other Funds (16–0327–0–1–600).
 
-&emsp;Appropriations for the District of Columbia (to the extent they are appropriations of locally raised funds);
+&emsp;Black Lung Disability Trust Fund Refinancing (16–0329–0–1–601).
 
-&emsp;Bonneville Power Administration fund and borrowing authority established pursuant to section 13 of Public Law 93–454 (1974), as amended \[16 U.S.C. 838k\] (89-4045-0-3-271);
+&emsp;Bonneville Power Administration Fund and borrowing authority established pursuant to section 13 of Public Law 93–454 (1974), as amended \[16 U.S.C. 838k\] (89–4045–0–3–271).
 
-&emsp;Bureau of Indian Affairs, Indian land and water claims settlements and miscellaneous payments to Indians (14-2303-0-1-452);
+&emsp;Claims, Judgments, and Relief Acts (20–1895–0–1–808).
 
-&emsp;Bureau of Indian Affairs Miscellaneous trust funds (14-9973-0-7-999);
+&emsp;Compact of Free Association (14–0415–0–1–808).
 
-&emsp;Claims, judgments, and relief acts (20-1895-0-1-808);
+&emsp;Compensation of the President (11–0209–01–1–802).
 
-&emsp;Compact of Free Association (14-0415-0-1-808);
+&emsp;Comptroller of the Currency, Assessment Funds (20–8413–0–8–373).
 
-&emsp;Compensation of the President (11-0001-0-1-802);
+&emsp;Continuing Fund, Southeastern Power Administration (89–5653–0–2–271).
 
-&emsp;Conservation Reserve Program (12-2319-0-1-302);
+&emsp;Continuing Fund, Southwestern Power Administration (89–5649–0–2–271).
 
-&emsp;Customs Service, miscellaneous permanent appropriations (20-9922-0-2-806);
+&emsp;Dual Benefits Payments Account (60–0111–0–1–601).
 
-&emsp;Comptroller of the Currency, Assessment funds (20-8413-0-8-373);
+&emsp;Emergency Fund, Western Area Power Administration (89–5069–0–2–271).
 
-&emsp;Dual benefits payments account (60-0111-0-1-601);
+&emsp;Exchange Stabilization Fund (20–4444–0–3–155).
 
-&emsp;Exchange stabilization fund (20-4444-0-3-155);
+&emsp;Farm Credit Administration Operating Expenses Fund (78–4131–0–3–351).
 
-&emsp;Farm Credit Administration, Limitation on Administrative Expenses (78-4131-0-3-351);
+&emsp;Farm Credit System Insurance Corporation, Farm Credit Insurance Fund (78–4171–0–3–351).
 
-&emsp;Farm Credit System Financial Assistance Corporation, interest payment (20-1850-0-1-908);
+&emsp;Federal Deposit Insurance Corporation, Deposit Insurance Fund (51–4596–0–4–373).
 
-&emsp;Farm Credit System Financial Assistance Corporation, interest payments (20-1850-0-1-351);
+&emsp;Federal Deposit Insurance Corporation, FSLIC Resolution Fund (51–4065–0–3–373).
 
-&emsp;Federal Deposit Insurance Corporation, Bank Insurance Fund (51-4064-0-3-373);
+&emsp;Federal Deposit Insurance Corporation, Noninterest Bearing Transaction Account Guarantee (51–4458–0–3–373).
 
-&emsp;Federal Deposit Insurance Corporation, FSLIC Resolution Fund (51-4065-0-3-373);
+&emsp;Federal Deposit Insurance Corporation, Senior Unsecured Debt Guarantee (51–4457–0–3–373).
 
-&emsp;Federal Deposit Insurance Corporation, Savings Association Insurance Fund (51-4066-0-3-373);
+&emsp;Federal Home Loan Mortgage Corporation (Freddie Mac).
 
-&emsp;Federal Housing Finance Board (95-4039-0-3-371);
+&emsp;Federal Housing Finance Agency, Administrative Expenses (95–5532–0–2–371).
 
-&emsp;Federal payment to the railroad retirement accounts (60-0113-0-1-601);
+&emsp;Federal National Mortgage Corporation (Fannie Mae).
 
-&emsp;Foreign military sales trust fund (11-8242-0-7-155);
+&emsp;Federal Payment to the District of Columbia Judicial Retirement and Survivors Annuity Fund (20–1713–0–1–752).
 
-&emsp;Health professions graduate student loan insurance fund program account (75-0340-0-1-552);
+&emsp;Federal Payment to the District of Columbia Pension Fund (20–1714–0–1–601).
 
-&emsp;Higher education facilities loans (91-0240-01-502);
+&emsp;Federal Payments to the Railroad Retirement Accounts (60–0113–0–1–601).
 
-&emsp;Internal Revenue Collections for Puerto Rico (20-5737-0-2-806);
+&emsp;Federal Reserve Bank Reimbursement Fund (20–1884–0–1–803).
 
-&emsp;Intragovernmental funds, including those from which the outlays are derived primarily from resources paid in from other government accounts, except to the extent such funds are augmented by direct appropriations for the fiscal year during which an order is in effect;
+&emsp;Financial Agent Services (20–1802–0–1–803).
 
-&emsp;Panama Canal Commission, Panama Canal Revolving Fund (95-4061-0-3-403);
+&emsp;Foreign Military Sales Trust Fund (11–8242–0–7–155).
 
-&emsp;Medical facilities guarantee and loan fund, Federal interest subsidies for medical facilities (75-9931-0-3-550);
+&emsp;Hazardous Waste Management, Conservation Reserve Program (12–4336–0–3–999).
 
-&emsp;National Credit Union Administration operating fund (25-4056-0-3-373);
+&emsp;Host Nation Support Fund for Relocation (97–8337–0–7–051).
 
-&emsp;National Credit Union Administration, Central liquidity facility (25-4470-0-3-373);
+&emsp;Internal Revenue Collections for Puerto Rico (20–5737–0–2–806).
 
-&emsp;National Credit Union Administration, Credit union share insurance fund (25-4468-0-3-373);
+&emsp;Intragovernmental funds, including those from which the outlays are derived primarily from resources paid in from other government accounts, except to the extent such funds are augmented by direct appropriations for the fiscal year during which an order is in effect.
 
-&emsp;Office of Thrift Supervision (20-4108-0-3-373);
+&emsp;Medical Facilities Guarantee and Loan Fund (75–9931–0–3–551).
 
-&emsp;Payment of Vietnam and USS Pueblo prisoner-of-war claims (15-0104-0-1-153);
+&emsp;National Credit Union Administration, Central Liquidity Facility (25–4470–0–3–373).
 
-&emsp;Payment to civil service retirement and disability fund (24-0200-0-1-805);
+&emsp;National Credit Union Administration, Corporate Credit Union Share Guarantee Program (25–4476–0–3–376).
 
-&emsp;Payment to Judiciary Trust Funds (10-0941-0-1-752);
+&emsp;National Credit Union Administration, Credit Union Homeowners Affordability Relief Program (25–4473–0–3–371).
 
-&emsp;Payments to copyright owners (03-5175-0-2-376);
+&emsp;National Credit Union Administration, Credit Union Share Insurance Fund (25–4468–0–3–373).
 
-&emsp;Payments to health care trust funds (75-0580-0-1-571);
+&emsp;National Credit Union Administration, Credit Union System Investment Program (25–4474–0–3–376).
 
-&emsp;Payments to military retirement fund (97-0040-0-1-054);
+&emsp;National Credit Union Administration, Operating fund (25–4056–0–3–373).
 
-&emsp;Payments to social security trust funds (75-0404-0-1-651);
+&emsp;National Credit Union Administration, Share Insurance Fund Corporate Debt Guarantee Program (25–4469–0–3–376).
 
-&emsp;Payments to the foreign service retirement and disability fund (11-1036-0-1-153 and 19-0540-0-1-153);
+&emsp;National Credit Union Administration, U.S. Central Federal Credit Union Capital Program (25–4475–0–3–376).
 
-&emsp;Payments to trust funds from excise taxes or other receipts properly creditable to such trust funds;
+&emsp;Office of Thrift Supervision (20–4108–0–3–373).
 
-&emsp;Payments to the United States territories, fiscal assistance (14-0418-0-1-806);
+&emsp;Panama Canal Commission Compensation Fund (16–5155–0–2–602).
 
-&emsp;Payments to widows and heirs of deceased Members of Congress (00-0215-0-1-801);
+&emsp;Payment of Vietnam and USS Pueblo prisoner-of-war claims within the Salaries and Expenses, Foreign Claims Settlement account (15–0100–0–1–153).
 
-&emsp;Postal service fund (18-4020-0-3-372);
+&emsp;Payment to Civil Service Retirement and Disability Fund (24–0200–0–1–805).
 
-&emsp;Resolution Trust Corporation Revolving Fund (22-4055-0-3-373);
+&emsp;Payment to Department of Defense Medicare-Eligible Retiree Health Care Fund (97–0850–0–1–054).
 
-&emsp;Salaries of Article III judges;
+&emsp;Payment to Judiciary Trust Funds (10–0941–0–1–752).
 
-&emsp;Soldiers and Airmen's Home, payment of claims (84-8930-0-7-705);
+&emsp;Payment to Military Retirement Fund (97–0040–0–1–054).
 
-&emsp;Southeastern Power Administration, Operations and maintenance (89-0302-0-1-271);
+&emsp;Payment to the Foreign Service Retirement and Disability Fund (19–0540–0–1–153).
 
-&emsp;Southwestern Power Administration, Operations and maintenance (89-0303-0-1-271);
+&emsp;Payments to Copyright Owners (03–5175–0–2–376).
 
-&emsp;Tennessee Valley Authority fund, except non-power programs and activities (64-4110-0-3-999);
+&emsp;Payments to Health Care Trust Funds (75–0580–0–1–571).
 
-&emsp;Thrift Savings Fund;
+&emsp;Payment to Radiation Exposure Compensation Trust Fund (15–0333–0–1–054).
 
-&emsp;United States Enrichment Corporation (95-4054-0-3-271);
+&emsp;Payments to Social Security Trust Funds (28–0404–0–1–651).
 
-&emsp;Vaccine Injury Compensation (75-0320-0-1-551);
+&emsp;Payments to the United States Territories, Fiscal Assistance (14–0418–0–1–806).
 
-&emsp;Vaccine Injury Compensation Program Trust Fund (20-8175-0-7-551);
+&emsp;Payments to trust funds from excise taxes or other receipts properly creditable to such trust funds.
 
-&emsp;United States Enrichment Corporation;
+&emsp;Payments to widows and heirs of deceased Members of Congress (00–0215–0–1–801).
 
-&emsp;Washington Metropolitan Area Transit Authority, interest payments (46-0300-0-1-401);
+&emsp;Postal Service Fund (18–4020–0–3–372).
 
-&emsp;Western Area Power Administration, Construction, rehabilitation, operations, and maintenance (89-5068-0-2-271); and
+&emsp;Radiation Exposure Compensation Trust Fund (15–8116–0–1–054).
 
-&emsp;Western Area Power Administration, Colorado River basins power marketing fund (89-4452-0-3-271).
+&emsp;Reimbursement to Federal Reserve Banks (20–0562–0–1–803).
+
+&emsp;Salaries of Article III judges.
+
+&emsp;Soldiers and Airmen's Home, payment of claims (84–8930–0–7–705).
+
+&emsp;Tennessee Valley Authority Fund, except nonpower programs and activities (64–4110–0–3–999).
+
+&emsp;Tribal and Indian trust accounts within the Department of the Interior which fund prior legal obligations of the Government or which are established pursuant to Acts of Congress regarding Federal management of tribal real property or other fiduciary responsibilities, including but not limited to Tribal Special Fund (14–5265–0–2–452), Tribal Trust Fund (14–8030–0–7–452), White Earth Settlement (14–2204–0–1–452), and Indian Water Rights and Habitat Acquisition (14–5505–0–2–303).
+
+&emsp;United Mine Workers of America 1992 Benefit Plan (95–8260–0–7–551).
+
+&emsp;United Mine Workers of America 1993 Benefit Plan (95–8535–0–7–551).
+
+&emsp;United Mine Workers of America Combined Benefit Fund (95–8295–0–7–551).
+
+&emsp;United States Enrichment Corporation Fund (95–4054–0–3–271).
+
+&emsp;Universal Service Fund (27–5183–0–2–376).
+
+&emsp;Vaccine Injury Compensation (75–0320–0–1–551).
+
+&emsp;Vaccine Injury Compensation Program Trust Fund (20–8175–0–7–551).
 
 (B) The following Federal retirement and disability accounts and activities shall be exempt from reduction under any order issued under this subchapter:
 
-&emsp;Black Lung Disability Trust Fund (20-8144-0-7-601);
+&emsp;Black Lung Disability Trust Fund (20–8144–0–7–601).
 
-&emsp;Central Intelligence Agency retirement and disability system fund (56-3400-0-1-054);
+&emsp;Central Intelligence Agency Retirement and Disability System Fund (56–3400–0–1–054).
 
-&emsp;Civil service retirement and disability fund (24-8135-0-7-602);
+&emsp;Civil Service Retirement and Disability Fund (24–8135–0–7–602).
 
-&emsp;Comptrollers general retirement system (05-0107-0-1-801);
+&emsp;Comptrollers general retirement system (05–0107–0–1–801).
 
-&emsp;Foreign service retirement and disability fund (19-8186-0-7-602);
+&emsp;Contributions to U.S. Park Police annuity benefits, Other Permanent Appropriations (14–9924–0–2–303).
 
-&emsp;Judicial survivors’ annuities fund (10-8110-0-7-602);
+&emsp;Court of Appeals for Veterans Claims Retirement Fund (95–8290–0–7–705).
 
-&emsp;Judicial Officers’ Retirement Fund (10-8122-0-7-602);
+&emsp;Department of Defense Medicare-Eligible Retiree Health Care Fund (97–5472–0–2–551).
 
-&emsp;Claims Judges’ Retirement Fund (10-8124-0-7-602);
+&emsp;District of Columbia Federal Pension Fund (20–5511–0–2–601).
 
-&emsp;Special workers compensation expenses, Longshoremen's and harborworkers’ compensation benefits (16-9971-0-7-601);
+&emsp;District of Columbia Judicial Retirement and Survivors Annuity Fund (20–8212–0–7–602).
 
-&emsp;Military retirement fund (97-8097-0-7-602);
+&emsp;Energy Employees Occupational Illness Compensation Fund (16–1523–0–1–053).
 
-&emsp;National Oceanic and Atmospheric Administration retirement (13-1450-0-1-306);
+&emsp;Foreign National Employees Separation Pay (97–8165–0–7–051).
 
-&emsp;Pensions for former Presidents (47-0105-0-1-802);
+&emsp;Foreign Service National Defined Contributions Retirement Fund (19–5497–0–2–602).
 
-&emsp;Railroad Industry Pension Fund (60-8011-0-7-601);
+&emsp;Foreign Service National Separation Liability Trust Fund (19–8340–0–7–602).
 
-&emsp;Railroad supplemental annuity pension fund (60-8012-0-7-602);
+&emsp;Foreign Service Retirement and Disability Fund (19–8186–0–7–602).
 
-&emsp;Retired pay, Coast Guard (69-0241-0-1-403);
+&emsp;Government Payment for Annuitants, Employees Health Benefits (24–0206–0–1–551).
 
-&emsp;Retirement pay and medical benefits for commissioned officers, Public Health Service (75-0379-0-1-551);
+&emsp;Government Payment for Annuitants, Employee Life Insurance (24–0500–0–1–602).
 
-&emsp;Special benefits, Federal Employees’ Compensation Act (16-1521-0-1-600);
+&emsp;Judicial Officers’ Retirement Fund (10–8122–0–7–602).
 
-&emsp;Special benefits for disabled coal miners (75-0409-0-1-601); and
+&emsp;Judicial Survivors’ Annuities Fund (10–8110–0–7–602).
 
-&emsp;Tax Court judges survivors annuity fund (23-8115-0-7-602).
+&emsp;Military Retirement Fund (97–8097–0–7–602).
+
+&emsp;National Railroad Retirement Investment Trust (60–8118–0–7–601).
+
+&emsp;National Oceanic and Atmospheric Administration retirement (13–1450–0–1–306).
+
+&emsp;Pensions for former Presidents (47–0105–0–1–802).
+
+&emsp;Postal Service Retiree Health Benefits Fund (24–5391–0–2–551).
+
+&emsp;Public Safety Officer Benefits (15–0403–0–1–754).
+
+&emsp;Rail Industry Pension Fund (60–8011–0–7–601).
+
+&emsp;Retired Pay, Coast Guard (70–0602–0–1–403).
+
+&emsp;Retirement Pay and Medical Benefits for Commissioned Officers, Public Health Service (75–0379–0–1–551).
+
+&emsp;Special Benefits for Disabled Coal Miners (16–0169–0–1–601).
+
+&emsp;Special Benefits, Federal Employees’ Compensation Act (16–1521–0–1–600).
+
+&emsp;Special Workers Compensation Expenses (16–9971–0–7–601).
+
+&emsp;Tax Court Judges Survivors Annuity Fund (23–8115–0–7–602).
+
+&emsp;United States Court of Federal Claims Judges’ Retirement Fund (10–8124–0–7–602).
+
+&emsp;United States Secret Service, DC Annuity (70–0400–0–1–751).
+
+&emsp;Voluntary Separation Incentive Fund (97–8335–0–7–051).
 
 (2) Prior legal obligations of the Government in the following budget accounts and activities shall be exempt from any order issued under this subchapter:
 
-&emsp;Biomass energy development (20-0114-0-1-271);
+&emsp;Biomass Energy Development (20–0114–0–1–271).
 
-&emsp;United States Treasury check forgery insurance fund (20-4109-0-3-803);
+&emsp;Check Forgery Insurance Fund (20–4109–0–3–803).
 
-&emsp;Credit liquidating accounts;
+&emsp;Credit liquidating accounts.
 
-&emsp;Employees life insurance fund (24-8424-0-8-602);
+&emsp;Credit reestimates.
 
-&emsp;Energy security reserve (Synthetic Fuels Corporation) (20-0112-0-1-271);
+&emsp;Employees Life Insurance Fund (24–8424–0–8–602).
 
-&emsp;Federal Aviation Administration, Aviation insurance revolving fund (69-4120-0-3-402);
+&emsp;Federal Aviation Insurance Revolving Fund (69–4120–0–3–402).
 
-&emsp;Federal Crop Insurance Corporation fund (12-4085-0-3-351);
+&emsp;Federal Crop Insurance Corporation Fund (12–4085–0–3–351).
 
-&emsp;Federal Emergency Management Agency, National flood insurance fund (58-4236-0-3-453);
+&emsp;Federal Emergency Management Agency, National Flood Insurance Fund (58–4236–0–3–453).
 
-&emsp;Federal Emergency Management Agency, National insurance development fund (58-4235-0-3-451);
+&emsp;Geothermal resources development fund (89–0206–0–1–271).
 
-&emsp;Geothermal resources development fund (89-0206-0-1-271);
+&emsp;Low-Rent Public Housing—Loans and Other Expenses (86–4098–0–3–604).
 
-&emsp;Homeowners assistance fund, Defense (97-4090-0-3-051);
+&emsp;Maritime Administration, War Risk Insurance Revolving Fund (69–4302–0–3–403).
 
-&emsp;International Trade Administration, Operations and administration (13-1250-0-1-376);
+&emsp;Natural Resource Damage Assessment Fund (14–1618–0–1–302).
 
-&emsp;Low-rent public housing, Loans and other expenses (86-4098-0-3-604);
+&emsp;Overseas Private Investment Corporation, Noncredit Account (71–4184–0–3–151).
 
-&emsp;Maritime Administration, War-risk insurance revolving fund (69-4302-0-3-403);
+&emsp;Pension Benefit Guaranty Corporation Fund (16–4204–0–3–601).
 
-&emsp;Overseas Private Investment Corporation (71-4030-0-3-151);
+&emsp;San Joaquin Restoration Fund (14–5537–0–2–301).
 
-&emsp;Pension Benefit Guaranty Corporation fund (16-4204-0-3-601);
+&emsp;Servicemembers’ Group Life Insurance Fund (36–4009–0–3–701).
 
-&emsp;Rail service assistance (69-0122-0-1-401); and
-
-&emsp;Department of Veterans Affairs, Servicemen's group life insurance fund (36-4009-0-3-701).
+&emsp;Terrorism Insurance Program (20–0123–0–1–376).
 
 #### (h) Low-income programs
 
 The following programs shall be exempt from reduction under any order issued under this subchapter:
 
-&emsp;Block grants to States for temporary assistance for needy families;
+&emsp;Academic Competitiveness/Smart Grant Program (91–0205–0–1–502).
 
-&emsp;Child nutrition programs (with the exception of special milk programs) (12-3539-0-1-605);
+&emsp;Child Care Entitlement to States (75–1550–0–1–609).
 
-&emsp;Temporary assistance for needy families (75-1552-0-1-609);
+&emsp;Child Enrollment Contingency Fund (75–5551–0–2–551).
 
-&emsp;Contingency fund (75-1522-0-1-609);
+&emsp;Child Nutrition Programs (with the exception of special milk programs) (12–3539–0–1–605).
 
-&emsp;Child care entitlement to States (75-1550-0-1-609);
+&emsp;Children's Health Insurance Fund (75–0515–0–1–551).
 
-&emsp;Commodity supplemental food program (12-3512-0-1-605);
+&emsp;Commodity Supplemental Food Program (12–3507–0–1–605).
 
-&emsp;Food stamp programs (12-3505-0-1-605 and 12-3550-0-1-605);
+&emsp;Contingency Fund (75–1522–0–1–609).
 
-&emsp;Grants to States for Medicaid (75-0512-0-1-55l);
+&emsp;Family Support Programs (75–1501–0–1–609).
 
-&emsp;Supplemental Security Income Program (75-0406-0-1-609); and <sup>1</sup>
+&emsp;Federal Pell Grants under section 1070a <sup>2</sup> of title 20.
 
-&emsp;Special supplemental nutrition program for women, infants, and children (WIC) (12-3510-0-1-605); <sup>1</sup>
+&emsp;Grants to States for Medicaid (75–0512–0–1–551).
 
-&emsp;Family support payments to States (75-1501-0-1-609); <sup>2</sup>
+&emsp;Payments for Foster Care and Permanency (75–1545–0–1–609).
 
-#### (i) Identification of programs
+&emsp;Supplemental Nutrition Assistance Program (12–3505–0–1–605).
 
-For purposes of subsections (b), (g), and (h) of this section, each account is identified by the designated budget account identification code number set forth in the Budget of the United States Government 1998–Appendix, and an activity within an account is designated by the name of the activity and the identification code number of the account.
+&emsp;Supplemental Security Income Program (28–0406–0–1–609).
 
-(Pub. L. 99–177, title II, §255, Dec. 12, 1985, 99 Stat. 1082; Pub. L. 99–509, title VII, §7002(a), Oct. 21, 1986, 100 Stat. 1949; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, §506(a), Aug. 10, 1987, 101 Stat. 634; Pub. L. 100–119, title I, §104(a)(1), (2), (b), (c)(1), Sept. 29, 1987, 101 Stat. 775–777; Pub. L. 101–73, title VII, §743(a), (c), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–220, §8, Dec. 12, 1989, 103 Stat. 1881; Pub. L. 101–508, title XIII, §13101(c), Nov. 5, 1990, 104 Stat. 1388–589; Pub. L. 102–54, §13(a), June 13, 1991, 105 Stat. 274; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105Stat. 406; Pub. L. 102–486, title IX, §902(d), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 102–572, title VI, §601, Oct. 29, 1992, 106 Stat. 4514; Pub. L. 104–193, title I, §110(r)(1), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. A, title II, §2704(d)(10), Sept. 30, 1996, 110 Stat. 3009–489; Pub. L. 105–33, title X, §10207, Aug. 5, 1997, 111 Stat. 704; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9.)
+&emsp;Temporary Assistance for Needy Families (75–1552–0–1–609).
+
+#### (i) Economic recovery programs
+
+The following programs shall be exempt from reduction under any order issued under this subchapter:
+
+&emsp;GSE Preferred Stock Purchase Agreements (20–0125–0–1–371).
+
+&emsp;Office of Financial Stability (20–0128–0–1–376).
+
+&emsp;Special Inspector General for the Troubled Asset Relief Program (20–0133–0–1–376).
+
+#### (j) <sup>3</sup> Split treatment programs
+
+Each of the following programs shall be exempt from any order under this subchapter to the extent that the budgetary resources of such programs are subject to obligation limitations in appropriations bills:
+
+&emsp;Federal-Aid Highways (69–8083–0–7–401).
+
+&emsp;Highway Traffic Safety Grants (69–8020–0–7–401).
+
+&emsp;Operations and Research NHTSA and National Driver Register (69–8016–0–7–401).
+
+&emsp;Motor Carrier Safety Operations and Programs (69–8159–0–7–401).
+
+&emsp;Motor Carrier Safety Grants (69–8158–0–7–401).
+
+&emsp;Formula and Bus Grants (69–8350–0–7–401).
+
+&emsp;Grants-In-Aid for Airports (69–8106–0–7–402).
+
+#### (j) <sup>3</sup> Identification of programs
+
+For purposes of subsections (b), (g), and (h) of this section, each account is identified by the designated budget account identification code number set forth in the Budget of the United States Government 2010–Appendix, and an activity within an account is designated by the name of the activity and the identification code number of the account.
+
+(Pub. L. 99–177, title II, §255, Dec. 12, 1985, 99 Stat. 1082; Pub. L. 99–509, title VII, §7002(a), Oct. 21, 1986, 100 Stat. 1949; Pub. L. 99–514, §2, Oct. 22,1986, 100 Stat. 2095; Pub. L. 100–86, title V, §506(a), Aug. 10, 1987, 101 Stat. 634; Pub. L. 100–119, title I, §104(a)(1), (2), (b), (c)(1), Sept. 29, 1987, 101 Stat. 775–777; Pub. L. 101–73, title VII, §743(a), (c), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–220, §8, Dec. 12, 1989, 103 Stat. 1881; Pub. L. 101–508, title XIII, §13101(c), Nov. 5, 1990, 104 Stat. 1388–589; Pub. L. 102–54, §13(a), June 13, 1991, 105 Stat. 274; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–486, title IX, §902(d), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 102–572, title VI, §601, Oct. 29, 1992, 106 Stat. 4514; Pub. L. 104–193, title I, §110(r)(1), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. A, title II, §2704(d)(10), Sept. 30, 1996, 110 Stat. 3009–489; Pub. L. 105–33, title X, §10207, Aug. 5, 1997, 111 Stat. 704; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 111–139, title I, §11, Feb. 12, 2010, 124 Stat. 23.)
 
 #### Termination of Section
 
@@ -308,71 +360,83 @@ For purposes of subsections (b), (g), and (h) of this section, each account is i
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Federal Employees’ Compensation Act, referred to in subsec. (g)(1)(B), which is act Sept. 7, 1916, ch. 458, 39 Stat. 742, was repealed and the provisions thereof reenacted as subchapter I of chapter 81 of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
+Section 1070a of title 20, referred to in subsec. (h), was in the original “section 401 Title IV of the Higher Education Act” and was translated as if it referred to section 401 of title IV of the Higher Education Act of 1965 to reflect the probable intent of Congress.
+
 #### Amendments
+
+2010—Subsecs. (a) to (d). Pub. L. 111–139, §11(b), amended subsecs. (a) to (d) generally. Prior to amendment, subsecs. (a) to (d) related to exemptions for social security benefits and tier I railroad retirement benefits, veterans programs, net interest, and earned income tax credit, respectively.
+
+Subsecs. (g), (h). Pub. L. 111–139, §11(c), amended subsecs. (g) and (h) generally. Prior to amendment, subsecs. (g) and (h) related to exemptions for other programs and activities and low-income programs, respectively.
+
+Subsec. (i). Pub. L. 111–139, §11(d), added subsec. (i). Former subsec. (i) redesignated (j) relating to identification of programs.
+
+Subsec. (j). Pub. L. 111–139, §11(d), added subsec. (j) relating to split treatment programs.
+
+Pub. L. 111–139, §11(a), redesignated subsec. (i) as (j) relating to identification of programs and substituted “2010” for “1998”.
 
 2006—Subsec. (g)(1)(A). Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(10). See 1996 Amendment note below.
 
-1997—Subsec. (b). Pub. L. 105–33, §10207(a), substituted “Veterans Insurance and Indemnities” for “Veterans Insurance and Indemnity”, “Canteen Service Revolving Fund” for “Veterans’ Canteen Service Revolving Fund”, “(36-0120-0-1-701)” for “(36-0137-0-1-702)” in item relating to benefits under chapter 21 of title 38, “Compensation” for “Veterans’ compensation”, and “Pensions” for “Veterans’ pensions” and inserted at end items relating to benefits under chapter 35 of title 38, assistance and services under chapter 31 of title 38, benefits under subchapters I, II, and III of chapter 37 of title 38, Loan Guaranty Program Account, and Direct Loan Program Account.
+1997—Subsec. (b). Pub. L. 105–33, §10207(a), substituted “Veterans Insurance and Indemnities” for “Veterans Insurance and Indemnity”, “Canteen Service Revolving Fund” for “Veterans’ Canteen Service Revolving Fund”, “(36–0120–0–1–701)” for “(36–0137–0–1–702)” in item relating to benefits under chapter 21 of title 38, “Compensation” for “Veterans’ compensation”, and “Pensions” for “Veterans’ pensions” and inserted at end items relating to benefits under chapter 35 of title 38, assistance and services under chapter 31 of title 38, benefits under subchapters I, II, and III of chapter 37 of title 38, Loan Guaranty Program Account, and Direct Loan Program Account.
 
 Subsec. (f). Pub. L. 105–33, §10207(b), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “Outlays for programs specified in paragraph (1) of section 907 of this title shall be subject to reduction only in accordance with the procedures established in section 901(a)(3)(C) and 906(b) of this title.”
 
-Subsec. (g)(1)(A). Pub. L. 105–33, §10207(c)(1)(KK), inserted items relating to Thrift Savings Fund, United States Enrichment Corporation (95-4054-0-3-271), Vaccine Injury Compensation, and Vaccine Injury Compensation Program Trust Fund.
+Subsec. (g)(1)(A). Pub. L. 105–33, §10207(c)(1)(KK), inserted items relating to Thrift Savings Fund, United States Enrichment Corporation (95–4054–0–3–271), Vaccine Injury Compensation, and Vaccine Injury Compensation Program Trust Fund.
 
-Pub. L. 105–33, §10207(c)(1)(JJ), inserted “Revolving Fund (22-4055-0-3-373)” before semicolon in item relating to the Resolution Trust Corporation.
+Pub. L. 105–33, §10207(c)(1)(JJ), inserted “Revolving Fund (22–4055–0–3–373)” before semicolon in item relating to the Resolution Trust Corporation.
 
 Pub. L. 105–33, §10207(c)(1)(II), struck out “Resolution Funding Corporation;” after item relating to postal service fund.
 
 Pub. L. 105–33, §10207(c)(1)(HH), substituted “806” for “852” in item relating to payments to the United States territories.
 
-Pub. L. 105–33, §10207(c)(1)(GG), struck out “Payments to state and local government fiscal assistance trust fund (20-2111-0-1-851);” after item relating to payments to social security trust funds.
+Pub. L. 105–33, §10207(c)(1)(GG), struck out “Payments to state and local government fiscal assistance trust fund (20–2111–0–1–851);” after item relating to payments to social security trust funds.
 
 Pub. L. 105–33, §10207(c)(1)(FF), substituted “651” for “571” in item relating to payments to social security trust funds.
 
-Pub. L. 105–33, §10207(c)(1)(EE), struck out “Compact of Free Association, economic assistance pursuant to Public Law 99–658 (14-0415-0-1-806);” after item relating to payments to military retirement fund.
+Pub. L. 105–33, §10207(c)(1)(EE), struck out “Compact of Free Association, economic assistance pursuant to Public Law 99–658 (14–0415–0–1–806);” after item relating to payments to military retirement fund.
 
 Pub. L. 105–33, §10207(c)(1)(DD), substituted “571” for “572” in item relating to payments to health care trust funds.
 
 Pub. L. 105–33, §10207(c)(1)(CC), inserted item relating to Office of Thrift Supervision.
 
-Pub. L. 105–33, §10207(c)(1)(BB), substituted “Credit union share” for “credit union share” and inserted before semicolon “(25-4468-0-3-373)” in third item relating to National Credit Union Administration.
+Pub. L. 105–33, §10207(c)(1)(BB), substituted “Credit union share” for “credit union share” and inserted before semicolon “(25–4468–0–3–373)” in third item relating to National Credit Union Administration.
 
-Pub. L. 105–33, §10207(c)(1)(AA), substituted “Central” for “central” and inserted before semicolon “(25-4470-0-3-373)” in second item relating to National Credit Union Administration.
+Pub. L. 105–33, §10207(c)(1)(AA), substituted “Central” for “central” and inserted before semicolon “(25–4470–0–3–373)” in second item relating to National Credit Union Administration.
 
-Pub. L. 105–33, §10207(c)(1)(Z), inserted “operating fund (25-4056-0-3-373)” before semicolon in first item relating to National Credit Union Administration.
+Pub. L. 105–33, §10207(c)(1)(Z), inserted “operating fund (25–4056–0–3–373)” before semicolon in first item relating to National Credit Union Administration.
 
-Pub. L. 105–33, §10207(c)(1)(Y), substituted “(75-9931-0-3-550)” for “(75-4430-0-3-551)” in item relating to medical facilities guarantee and loan fund.
+Pub. L. 105–33, §10207(c)(1)(Y), substituted “(75–9931–0–3–550)” for “(75–4430–0–3–551)” in item relating to medical facilities guarantee and loan fund.
 
-Pub. L. 105–33, §10207(c)(1)(X), substituted “Panama Canal Commission, Panama Canal Revolving Fund (95-4061-0-3-403);” for “Panama Canal Commission, operating expenses (95-5190-0-2-403), and Panama Canal Commission, capital outlay (95-5190-0-2-403);”.
+Pub. L. 105–33, §10207(c)(1)(X), substituted “Panama Canal Commission, Panama Canal Revolving Fund (95–4061–0–3–403);” for “Panama Canal Commission, operating expenses (95–5190–0–2–403), and Panama Canal Commission, capital outlay (95–5190–0–2–403);”.
 
 Pub. L. 105–33, §10207(c)(1)(W), substituted “806” for “852” in item relating to internal revenue collections for Puerto Rico.
 
 Pub. L. 105–33, §10207(c)(1)(V), struck out “and insurance” after “Higher education facilities loans”.
 
-Pub. L. 105–33, §10207(c)(1)(U), inserted “program account” after “fund” and substituted “(75-0340-0-1-552)” for “(Health Education Assistance Loan Program) (75-4305-0-3-553)” in item relating to health professions graduate student loan insurance fund.
+Pub. L. 105–33, §10207(c)(1)(U), inserted “program account” after “fund” and substituted “(75–0340–0–1–552)” for “(Health Education Assistance Loan Program) (75–4305–0–3–553)” in item relating to health professions graduate student loan insurance fund.
 
 Pub. L. 105–33, §10207(c)(1)(T), substituted “accounts” for “account” after “Federal payment to the railroad retirement”.
 
-Pub. L. 105–33, §10207(c)(1)(S), inserted “(95-4039-0-3-371)” before semicolon in item relating to Federal Housing Finance Board.
+Pub. L. 105–33, §10207(c)(1)(S), inserted “(95–4039–0–3–371)” before semicolon in item relating to Federal Housing Finance Board.
 
-Pub. L. 105–33, §10207(c)(1)(R), inserted “(51-4066-0-3-373)” before semicolon in third item relating to Federal Deposit Insurance Corporation.
+Pub. L. 105–33, §10207(c)(1)(R), inserted “(51–4066–0–3–373)” before semicolon in third item relating to Federal Deposit Insurance Corporation.
 
-Pub. L. 105–33, §10207(c)(1)(Q), inserted “(51-4065-0-3-373)” before semicolon in second item relating to Federal Deposit Insurance Corporation.
+Pub. L. 105–33, §10207(c)(1)(Q), inserted “(51–4065–0–3–373)” before semicolon in second item relating to Federal Deposit Insurance Corporation.
 
-Pub. L. 105–33, §10207(c)(1)(P), inserted “(51-4064-0-3-373)” before semicolon in first item relating to Federal Deposit Insurance Corporation.
+Pub. L. 105–33, §10207(c)(1)(P), inserted “(51–4064–0–3–373)” before semicolon in first item relating to Federal Deposit Insurance Corporation.
 
-Pub. L. 105–33, §10207(c)(1)(O), struck out “Federal Deposit Insurance Corporation;” after item relating to Farm Credit System Financial Assistance Corporation, interest payments (20-1850-0-1-351).
+Pub. L. 105–33, §10207(c)(1)(O), struck out “Federal Deposit Insurance Corporation;” after item relating to Farm Credit System Financial Assistance Corporation, interest payments (20–1850–0–1–351).
 
-Pub. L. 105–33, §10207(c)(1)(N), inserted items relating to Farm Credit Administration and Farm Credit System Financial Assistance Corporation, interest payment (20-1850-0-1-908).
+Pub. L. 105–33, §10207(c)(1)(N), inserted items relating to Farm Credit Administration and Farm Credit System Financial Assistance Corporation, interest payment (20–1850–0–1–908).
 
-Pub. L. 105–33, §10207(c)(1)(M), struck out “Eastern Indian land claims settlement fund (14-2202-0-1-806);” after item relating to dual benefits payments account.
+Pub. L. 105–33, §10207(c)(1)(M), struck out “Eastern Indian land claims settlement fund (14–2202–0–1–806);” after item relating to dual benefits payments account.
 
 Pub. L. 105–33, §10207(c)(1)(L), struck out “Director of the Office of Thrift Supervision;” after item relating to Comptroller of the Currency.
 
-Pub. L. 105–33, §10207(c)(1)(K), inserted “, Assessment funds (20-8413-0-8-373)” before semicolon in item relating to the Comptroller of the Currency.
+Pub. L. 105–33, §10207(c)(1)(K), inserted “, Assessment funds (20–8413–0–8–373)” before semicolon in item relating to the Comptroller of the Currency.
 
 Pub. L. 105–33, §10207(c)(1)(J), substituted “806” for “852” in item relating to the Customs Service.
 
@@ -380,17 +444,17 @@ Pub. L. 105–33, §10207(c)(1)(I), inserted item relating to Conservation Reser
 
 Pub. L. 105–33, §10207(c)(1)(H), inserted item relating to Compact of Free Association.
 
-Pub. L. 105–33, §10207(c)(1)(G), struck out “Coinage profit fund (20-5811-0-2-803);” after item relating to claims, judgments, and relief acts.
+Pub. L. 105–33, §10207(c)(1)(G), struck out “Coinage profit fund (20–5811–0–2–803);” after item relating to claims, judgments, and relief acts.
 
 Pub. L. 105–33, §10207(c)(1)(F), substituted “808” for “806” in item relating to claims, judgments, and relief acts.
 
-Pub. L. 105–33, §10207(c)(1)(E), struck out “Claims, defense (97-0102-0-1-051);” after second item relating to Bureau of Indian Affairs.
+Pub. L. 105–33, §10207(c)(1)(E), struck out “Claims, defense (97–0102–0–1–051);” after second item relating to Bureau of Indian Affairs.
 
-Pub. L. 105–33, §10207(c)(1)(D), substituted “Miscellaneous trust funds” for “miscellaneous trust funds,tribal trust funds” in second item relating to Bureau of Indian Affairs.
+Pub. L. 105–33, §10207(c)(1)(D), substituted “Miscellaneous trust funds” for “miscellaneous trust funds, tribal trust funds” in second item relating to Bureau of Indian Affairs.
 
 Pub. L. 105–33, §10207(c)(1)(C), inserted “Indian land and water claims settlements and” after comma in first item relating to Bureau of Indian Affairs.
 
-Pub. L. 105–33, §10207(c)(1)(B), struck out “Thrift Savings Fund (26-8141-0-7-602);” after item relating to administration of Territories, Northern Mariana Islands Covenant grants.
+Pub. L. 105–33, §10207(c)(1)(B), struck out “Thrift Savings Fund (26–8141–0–7–602);” after item relating to administration of Territories, Northern Mariana Islands Covenant grants.
 
 Pub. L. 105–33, §10207(c)(1)(A), inserted item relating to activities financed by voluntary payments to Government.
 
@@ -404,15 +468,15 @@ Pub. L. 105–33, §10207(c)(2)(B), substituted “Black Lung Disability Trust F
 
 Pub. L. 105–33, §10207(c)(2)(A), substituted “The following Federal retirement and disability accounts” for “The following budget accounts” in introductory provisions.
 
-Subsec. (g)(2). Pub. L. 105–33, §10207(c)(3)(E), struck out items “Credit union share insurance fund (25-4468-0-3-371);” and “Economic development revolving fund (13-4406-0-3-452);” after item relating to credit liquidating accounts, item “Export-Import Bank of the United States, Limitation of program activity (83-4027-0-3-155);” after item relating to energy security reserve (Synthetic Fuels Corporation), item “Federal Deposit Insurance Corporation (51-8419-0-8-371);” after item relating to Federal Crop Insurance Corporation fund, items “Federal Housing Administration fund (86-4070-0-3-371);”, “Federal ship financing fund (69-4301-0-3-403);”, and “Federal ship financing fund, fishing vessels (13-4417-0-3-376);” after item relating to Federal Emergency Management Agency National insurance development fund, items “Government National Mortgage Association, Guarantees of mortgage-backed securities (86-4238-0-3-371);” and “Health education loans (75-4307-0-3-553);” after item relating to geothermal resources development fund, item “Indian loan guarantee and insurance fund (14-4410-0-3-452);” after item relating to homeowners assistance fund, defense, and items “Railroad rehabilitation and improvement financing fund (69-4411-0-3-401);”, “Rural development insurance fund (12-4155-0-3-452);”, “Rural electric and telephone revolving fund (12-4230-8-3-271);”, “Rural housing insurance fund (12-4141-0-3-371);”, “Small Business Administration, Business loan and investment fund (73-4154-0-3-376);”, “Small Business Administration, Lease guarantees revolving fund (73-4157-0-3-376);”, “Small Business Administration, Pollution control equipment contract guarantee revolving fund (73-4147-0-3-376);”, “Small Business Administration, Surety bond guarantees revolving fund (73-4156-0-3-376);”, and “Department of Veterans Affairs, Loan guaranty revolving fund (36-4025-0-3-704);” after item relating to rail service assistance.
+Subsec. (g)(2). Pub. L. 105–33, §10207(c)(3)(E), struck out items “Credit union share insurance fund (25–4468–0–3–371);” and “Economic development revolving fund (13–4406–0–3–452);” after item relating to credit liquidating accounts, item “Export-Import Bank of the United States, Limitation of program activity (83–4027–0–3–155);” after item relating to energy security reserve (Synthetic Fuels Corporation), item “Federal Deposit Insurance Corporation (51–8419–0–8–371);” after item relating to Federal Crop Insurance Corporation fund, items “Federal Housing Administration fund (86–4070–0–3–371);”, “Federal ship financing fund (69–4301–0–3–403);”, and “Federal ship financing fund, fishing vessels (13–4417–0–3–376);” after item relating to Federal Emergency Management Agency National insurance development fund, items “Government National Mortgage Association, Guarantees of mortgage-backed securities (86–4238–0–3–371);” and “Health education loans (75–4307–0–3–553);” after item relating to geothermal resources development fund, item “Indian loan guarantee and insurance fund (14–4410–0–3–452);” after item relating to homeowners assistance fund, defense, and items “Railroad rehabilitation and improvement financing fund (69–4411–0–3–401);”, “Rural development insurance fund (12–4155–0–3–452);”, “Rural electric and telephone revolving fund (12–4230–8–3–271);”, “Rural housing insurance fund (12–4141–0–3–371);”, “Small Business Administration, Business loan and investment fund (73–4154–0–3–376);”, “Small Business Administration, Lease guarantees revolving fund (73–4157–0–3–376);”, “Small Business Administration, Pollution control equipment contract guarantee revolving fund (73–4147–0–3–376);”, “Small Business Administration, Surety bond guarantees revolving fund (73–4156–0–3–376);”, and “Department of Veterans Affairs, Loan guaranty revolving fund (36–4025–0–3–704);” after item relating to rail service assistance.
 
 Pub. L. 105–33, §10207(c)(3)(D), inserted item relating to credit liquidating accounts.
 
-Pub. L. 105–33, §10207(c)(3)(C), struck out “Community development grant loan guarantees (86-0162-0-1-451);” after item relating to United States Treasury check forgery insurance fund.
+Pub. L. 105–33, §10207(c)(3)(C), struck out “Community development grant loan guarantees (86–0162–0–1–451);” after item relating to United States Treasury check forgery insurance fund.
 
 Pub. L. 105–33, §10207(c)(3)(B), substituted “United States Treasury check forgery insurance fund” for “Check forgery insurance fund”.
 
-Pub. L. 105–33, §10207(c)(3)(A), struck out items “Agency for International Development, Housing, and other credit guarantee programs (72-4340-0-3-151);” and “Agricultural credit insurance fund (12-4140-0-3-351);” after “order issued under this subchapter:”.
+Pub. L. 105–33, §10207(c)(3)(A), struck out items “Agency for International Development, Housing, and other credit guarantee programs (72–4340–0–3–151);” and “Agricultural credit insurance fund (12–4140–0–3–351);” after “order issued under this subchapter:”.
 
 Subsec. (h). Pub. L. 105–33, §10207(f), struck out heading and text of subsec. (h) relating to optional exemption of military personnel. Text read as follows:
 
@@ -422,17 +486,17 @@ Subsec. (h). Pub. L. 105–33, §10207(f), struck out heading and text of subsec
 
 Pub. L. 105–33, §10207(d)(4), inserted item relating to family support payments to States.
 
-Pub. L. 105–33, §10207(d)(3), substituted item relating to special supplemental nutrition program for women, infants, and children (WIC) for “Women, infants, and children program (12-3510-0-1-605).”.
+Pub. L. 105–33, §10207(d)(3), substituted item relating to special supplemental nutrition program for women, infants, and children (WIC) for “Women, infants, and children program (12–3510–0–1–605).”.
 
 Pub. L. 105–33, §10207(d)(2), inserted items relating to temporary assistance for needy families, contingency fund, and child care entitlement to States.
 
-Pub. L. 105–33, §10207(d)(1), substituted item relating to child nutrition programs for “Child nutrition (12-3539-0-1-605);”.
+Pub. L. 105–33, §10207(d)(1), substituted item relating to child nutrition programs for “Child nutrition (12–3539–0–1–605);”.
 
 Subsec. (i). Pub. L. 105–33, §10207(e), amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: “For purposes of subsections (g) and (h) of this section, programs are identified by the designated budget account identification code numbers set forth in the Budget of the United States Government, 1986—Appendix.”
 
 1996—Subsec. (g)(1)(A). Pub. L. 104–208, §2704(d)(10), which directed the amendment of subpar. (A) by substituting “Deposit Insurance Fund” for “Bank Insurance Fund” and by striking “Federal Deposit Insurance Corporation, Savings Association Insurance fund;”, was not executed and was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendments note below.
 
-Subsec. (h). Pub. L. 104–193 substituted “Block grants to States for temporary assistance for needy families;” for “Aid to families with dependent children (75-0412-0-1-609);”.
+Subsec. (h). Pub. L. 104–193 substituted “Block grants to States for temporary assistance for needy families;” for “Aid to families with dependent children (75–0412–0–1–609);”.
 
 1992—Subsec. (g)(1)(A). Pub. L. 102–572, §601(b), inserted item relating to payment to Judiciary Trust Funds.
 
@@ -462,7 +526,7 @@ Pub. L. 101–73, §743(a)(3), substituted item relating to Federal Housing Fina
 
 Pub. L. 101–73, §743(a)(4), inserted items relating to Resolution Funding Corporation and Resolution Trust Corporation after item relating to Postal service fund.
 
-Subsec. (g)(2). Pub. L. 101–73, §743(c), struck out item relating to Federal Savings and Loan Insurance Corporation fund (82-4037-0-3-371).
+Subsec. (g)(2). Pub. L. 101–73, §743(c), struck out item relating to Federal Savings and Loan Insurance Corporation fund (82–4037–0–3–371).
 
 1987—Subsec. (b). Pub. L. 100–119, §104(b)(1), inserted items relating to National Service Life Insurance Fund, Service-Disabled Veterans Insurance Fund, Veterans Special Life Insurance Fund, Veterans Reopened Insurance Fund, United States Government Life Insurance Fund, Veterans Insurance and Indemnity, Special Therapeutic and Rehabilitation Activities Fund, Veterans’ Canteen Service Revolving Fund, benefits under chapter 21 of title 38 relating to specially adapted and mortgage-protection life insurance for certain veterans and service-connected disabilities, benefits under section 907 of title 38 relating to burial benefits for veterans who die as a result of service-connected disability, and benefits under chapter 39 of title 38 relating to automobiles and adaptive equipment for certain disabled veterans and members of the Armed Forces.
 
@@ -477,10 +541,6 @@ Subsec. (h). Pub. L. 100–119, §104(a)(1), inserted item relating to commodity
 1986—Subsec. (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Subsec. (g)(1). Pub. L. 99–509 inserted item relating to dual benefits payments account.
-
-#### Change of Name
-
-References to the food stamp program established under the Food and Nutrition Act of 2008 considered to refer to the supplemental nutrition assistance program established under that Act, see section 4002(c) of Pub. L. 110–246, set out as a note under section 2012 of Title 7, Agriculture.
 
 #### Effective Date of 2006 Amendment
 
@@ -504,19 +564,9 @@ Section 7002(b) of Pub. L. 99–509 provided that: “The amendment made by subs
 
 The Soldiers’ and Airmen's Home, referred to in subsec. (g)(1)(A), was incorporated into the Armed Forces Retirement Home by section 411 of Title 24, Hospitals and Asylums.
 
-#### Transfer of Functions
+<i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
-
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Termination of United States Synthetic Fuels Corporation
-
-The United States Synthetic Fuels Corporation was terminated by Pub. L. 99–272, title VII, §7403(b), Apr. 7, 1986, 100 Stat. 144, set out as a note under section 8791 of Title 42, The Public Health and Welfare.
-
-<i><sup>1</sup></i><i> So in original. The word “and” probably should follow “(12-3510-0-1-605);”.</i>
-
-<i><sup>2</sup></i><i> So in original. The semicolon probably should be a period.</i>
+<i><sup>3</sup></i><i> So in original. Two subsecs. (j) have been enacted.</i>
 

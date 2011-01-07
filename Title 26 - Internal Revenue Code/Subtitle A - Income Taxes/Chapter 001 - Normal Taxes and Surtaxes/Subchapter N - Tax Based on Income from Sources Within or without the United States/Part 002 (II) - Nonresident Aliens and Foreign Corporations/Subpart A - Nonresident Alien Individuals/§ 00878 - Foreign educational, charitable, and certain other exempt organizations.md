@@ -6,7 +6,7 @@
 
 #### Amendments
 
-1969—Pub. L. 91–172 substituted provisions requiring reference to organizations in sections 512(a) and 4948 for provisions requiring reference to trusts in section 512(a), and struck out reference to unrelated business income.
+<b>1969</b>—Pub. L. 91–172 substituted provisions requiring reference to organizations in sections 512(a) and 4948 for provisions requiring reference to trusts in section 512(a), and struck out reference to unrelated business income.
 
 #### Effective Date of 1969 Amendment
 

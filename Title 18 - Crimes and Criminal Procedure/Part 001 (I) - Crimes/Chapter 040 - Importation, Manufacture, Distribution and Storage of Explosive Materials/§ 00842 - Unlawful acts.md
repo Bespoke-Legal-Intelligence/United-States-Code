@@ -60,7 +60,7 @@
 
 &emsp;(9) having been a citizen of the United States, has renounced the citizenship of that person.
 
-(e) It shall be unlawful for any licensee knowingly to distribute any explosive materials to any person in any State where the purchase, possession, or use by such person of such explosive materials would be in violation of any State law or any published ordinance applicable at the place of distribution.
+(e) It shall be unlawful for any licensee knowingly to distribute any explosive materials toany person in any State where the purchase, possession, or use by such person of such explosive materials would be in violation of any State law or any published ordinance applicable at the place of distribution.
 
 (f) It shall be unlawful for any licensee or permittee willfully to manufacture, import, purchase, distribute, or receive explosive materials without making such records as the Attorney General may by regulation require, including, but not limited to, a statement of intended use, the name, date, place of birth, social security number or taxpayer identification number, and place of residence of any natural person to whom explosive materials are distributed. If explosive materials are distributed to a corporation or other business entity, such records shall include the identity and principal and local places of business and the name, date, place of birth, and place of residence of the natural person acting as agent of the corporation or other business entity in arranging the distribution.
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;(C) is a member of a North Atlantic Treaty Organization (NATO) or other friendly foreign military force, as determined by the Attorney General in consultation with the Secretary of Defense, who is present in the United States under military orders for training or other military purpose authorized by the United States and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of the authorized military purpose; or
 
-&emsp;&emsp;(D) is lawfully present in the United States in cooperation with the Director of CentralIntelligence, and the shipment, transportation, receipt, or possession of the explosive materials is in furtherance of such cooperation;
+&emsp;&emsp;(D) is lawfully present in the United States in cooperation with the Director of Central Intelligence, and the shipment, transportation, receipt, or possession of the explosive materials is in furtherance of such cooperation;
 
 &emsp;(6) who has been discharged from the armed forces under dishonorable conditions; <sup>2</sup>
 
@@ -144,13 +144,13 @@ Prohibition.—It shall be unlawful for any person—
 
 #### References in Text
 
-Section 101(a)(20) of the Immigration and Nationality Act, referred to in subsecs. (d)(7)(A) and (i)(5)(A), isclassified to section 1101(a)(20) of Title 8, Aliens and Nationality.
+Section 101(a)(20) of the Immigration and Nationality Act, referred to in subsecs. (d)(7)(A) and (i)(5)(A), is classified to section 1101(a)(20) of Title 8, Aliens and Nationality.
 
 The date of enactment of this subsection, referred to in subsecs. (m)(2), (n)(2), and (<i>o</i>), is the date of enactment of Pub. L. 104–132, which was approved Apr. 24, 1996.
 
 #### Amendments
 
-2003—Subsec. (d)(7)(A). Pub. L. 108–177, §372(a)(1), struck out “or” at end.
+<b>2003</b>—Subsec. (d)(7)(A). Pub. L. 108–177, §372(a)(1), struck out “or” at end.
 
 Subsec. (d)(7)(B). Pub. L. 108–177, §372(a)(2), inserted “or” at end of cl. (i) and struck out cls. (iii) and (iv) which read as follows:
 
@@ -170,7 +170,7 @@ Subsec. (i)(5)(B). Pub. L. 108–177, §372(b)(2), inserted “or” at end of c
 
 Subsec. (i)(5)(C), (D). Pub. L. 108–177, §372(b)(3), added subpars. (C) and (D).
 
-2002—Subsec. (a)(3), (4). Pub. L. 107–296, §1122(b)(1), (2), added pars. (3) and (4) and struck out former par. (3) which read as follows: “other than a licensee or permittee knowingly—
+<b>2002</b>—Subsec. (a)(3), (4). Pub. L. 107–296, §1122(b)(1), (2), added pars. (3) and (4) and struck out former par. (3) which read as follows: “other than a licensee or permittee knowingly—
 
 &emsp;“(A) to transport, ship, cause to be transported, or receive in interstate or foreign commerce any explosive materials, except that a person who lawfully purchases explosive materials from a licensee in a State contiguous to the State in which the purchaser resides may ship, transport, or cause to be transported such explosive materials to the State in which he resides and may receive such explosive materials in the State in which he resides, if such transportation, shipment, or receipt is permitted by the law of the State in which he resides; or
 
@@ -196,21 +196,21 @@ Subsec. (i)(5) to (7). Pub. L. 107–296, §1123(b)(1), (2), added pars. (5) to 
 
 Subsecs. (j), (k), (<i>o</i>). Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secretary” wherever appearing.
 
-1999—Subsec. (p). Pub. L. 106–54 added subsec. (p).
+<b>1999</b>—Subsec. (p). Pub. L. 106–54 added subsec. (p).
 
-1996—Subsec. (h). Pub. L. 104–132, §707, amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “It shall be unlawful for any person to receive, conceal, transport, ship, store, barter, sell, or dispose of any explosive materials knowing or having reasonable cause to believe that such explosive materials were stolen.”
+<b>1996</b>—Subsec. (h). Pub. L. 104–132, §707, amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “It shall be unlawful for any person to receive, conceal, transport, ship, store, barter, sell, or dispose of any explosive materials knowing or having reasonable cause to believe that such explosive materials were stolen.”
 
 Subsecs. (<i>l</i>) to (<i>o</i>). Pub. L. 104–132, §603, added subsecs. (<i>l</i>) to (<i>o</i>).
 
-1994—Subsec. (d). Pub. L. 103–322, §110516, substituted “any person” for “any licensee” in introductory provisions.
+<b>1994</b>—Subsec. (d). Pub. L. 103–322, §110516, substituted “any person” for “any licensee” in introductory provisions.
 
 Subsec. (i). Pub. L. 103–322, §110508, inserted “or possess” after “receive” in concluding provisions.
 
-1990—Subsec. (d)(5). Pub. L. 101–647, §3521(1), substituted “; or” for a period.
+<b>1990</b>—Subsec. (d)(5). Pub. L. 101–647, §3521(1), substituted “; or” for a period.
 
 Subsec. (i)(3). Pub. L. 101–647, §3521(2), substituted “; or” for a period.
 
-1988—Subsec. (d)(5). Pub. L. 100–690, §6474(c), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “is an unlawful user of marihuana (as defined in section 4761 of the Internal Revenue Code of 1954) or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4721(a) of the Internal Revenue Code of 1954); or”.
+<b>1988</b>—Subsec. (d)(5). Pub. L. 100–690, §6474(c), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “is an unlawful user of marihuana (as defined in section 4761 of the Internal Revenue Code of 1954) or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4721(a) of the Internal Revenue Code of 1954); or”.
 
 Subsec. (i)(3). Pub. L. 100–690, §6474(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “who is an unlawful user of or addicted to marihuana (as defined in section 4761 of the Internal Revenue Code of 1954) or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4731(a) of the Internal Revenue Code of 1954); or”.
 

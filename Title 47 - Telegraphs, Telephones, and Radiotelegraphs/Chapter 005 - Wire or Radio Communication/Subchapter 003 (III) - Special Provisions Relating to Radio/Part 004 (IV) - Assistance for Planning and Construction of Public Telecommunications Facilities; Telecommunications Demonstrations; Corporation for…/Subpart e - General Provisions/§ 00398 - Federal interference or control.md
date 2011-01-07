@@ -6,7 +6,7 @@ Nothing contained in this part shall be deemed (1) to amend any other provision 
 
 #### (b) Equal opportunity employment
 
-(1) Equal opportunity in employment shall be afforded to all persons by the Public Broadcasting Service and National Public Radio (or any successor organization) and by all public telecommunications entities receiving funds pursuant to subpart C <sup>1</sup> (hereinafter in this subsectionreferred to as “recipients”), in accordance with the equal employment opportunity regulations of the Commission, and no person shall be subjected to discrimination in employment by any recipient on the grounds of race, color, religion, national origin, or sex.
+(1) Equal opportunity in employment shall be afforded to all persons by the Public Broadcasting Service and National Public Radio (or any successor organization) and by all public telecommunications entities receiving funds pursuant to subpart C <sup>1</sup> (hereinafter in this subsection referred to as “recipients”), in accordance with the equal employment opportunity regulations of the Commission, and no person shall be subjected to discrimination in employment by any recipient on the grounds of race, color, religion, national origin, or sex.
 
 (2)(A) The Secretary is authorized and directed to enforce this subsection and to prescribe such rules and regulations as may be necessary to carry out the functions of the Secretary under this subsection.
 
@@ -42,11 +42,11 @@ Subpart C, referred to in subsec. (b)(1), (3)(A), was redesignated subpart D by 
 
 #### Amendments
 
-1988—Subsec. (b)(1). Pub. L. 100–626, §9(b), inserted “in accordance with the equal employment opportunity regulations of the Commission,” before “and no person”.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–626, §9(b), inserted “in accordance with the equal employment opportunity regulations of the Commission,” before “and no person”.
 
-1978—Pub. L. 95–567 designated existing provisions as subsec. (a), substituted “public telecommunications entity” and “public telecommunications” for “educational broadcasting station or system” and “educational television or radio broadcasting”, respectively, and added subsecs. (b) and (c).
+<b>1978</b>—Pub. L. 95–567 designated existing provisions as subsec. (a), substituted “public telecommunications entity” and “public telecommunications” for “educational broadcasting station or system” and “educational television or radio broadcasting”, respectively, and added subsecs. (b) and (c).
 
-1967—Pub. L. 90–129, §§103(g), 201(5), inserted “or radio” and “, or over the Corporation or any of its grantees or contractors, or over the charter or bylaws of the Corporation,” before and after “broadcasting”, where first appearing, respectively.
+<b>1967</b>—Pub. L. 90–129, §§103(g), 201(5), inserted “or radio” and “, or over the Corporation or any of its grantees or contractors, or over the charter or bylaws of the Corporation,” before and after “broadcasting”, where first appearing, respectively.
 
 #### Effective Date of 1978 Amendment
 

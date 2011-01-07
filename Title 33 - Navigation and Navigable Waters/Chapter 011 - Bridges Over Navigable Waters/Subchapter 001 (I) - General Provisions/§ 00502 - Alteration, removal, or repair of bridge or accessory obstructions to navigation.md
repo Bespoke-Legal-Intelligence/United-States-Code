@@ -28,13 +28,13 @@ The Secretary of War was authorized to make the required changes in bridges obst
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–293 substituted “$5,000 for a violation occurring in 2004; $10,000 for a violation occurring in 2005; $15,000 for a violation occurring in 2006; $20,000 for a violation occurring in 2007; and $25,000 for a violation occurring in 2008 and any year thereafter” for “$1,000”.
+<b>2004</b>—Subsec. (c). Pub. L. 108–293 substituted “$5,000 for a violation occurring in 2004; $10,000 for a violation occurring in 2005; $15,000 for a violation occurring in 2006; $20,000 for a violation occurring in 2007; and $25,000 for a violation occurring in 2008 and any year thereafter” for “$1,000”.
 
-1982—Subsec. (a). Pub. L. 97–322 designated existing provisions as subsec. (a), substituted “Secretary of Transportation” for “Secretary of War” wherever appearing, and struck out “recommended by the Chief of Engineers” after “specify the charges”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–322 designated existing provisions as subsec. (a), substituted “Secretary of Transportation” for “Secretary of War” wherever appearing, and struck out “recommended by the Chief of Engineers” after “specify the charges”.
 
 Subsecs. (b), (c). Pub. L. 97–322 added subsecs. (b) and (c).
 
-1948—Act June 25, 1948, §39, repealed proviso at end relating to appeals. See sections 1252 and 1253 of title 28.
+<b>1948</b>—Act June 25, 1948, §39, repealed proviso at end relating to appeals. See sections 1252 and 1253 of title 28.
 
 #### Change of Name
 

@@ -42,7 +42,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 #### (3) Exportation from an intermediate country
 
-&emsp;Where the subject merchandise is exported to the United States from an intermediate country, normal value shall be determined in the intermediate country, except that normal value may be determined in the country of origin of the subject merchandise if—
+&emsp;Where the subject merchandise is exported to the United States from an intermediatecountry, normal value shall be determined in the intermediate country, except that normal value may be determined in the country of origin of the subject merchandise if—
 
 &emsp;&emsp;(A) the producer knew at the time of the sale that the subject merchandise was destined for exportation;
 
@@ -54,7 +54,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 #### (4) Use of constructed value
 
-&emsp;If the administering authority determines that the normal value of the subject merchandise cannot be determined under paragraph (1)(B)(i), then, notwithstanding paragraph\(1)(B)(ii), the normal value of the subject merchandise may be the constructed value of that merchandise, as determined under subsection (e) of this section.
+&emsp;If the administering authority determines that the normal value of the subject merchandise cannot be determined under paragraph (1)(B)(i), then, notwithstanding paragraph (1)(B)(ii), the normal value of the subject merchandise may be the constructed value of that merchandise, as determined under subsection (e) of this section.
 
 #### (5) Indirect sales or offers for sale
 
@@ -106,7 +106,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 #### (1) Determination; sales disregarded
 
-&emsp;Whenever the administering authority has reasonable grounds to believe or suspect that sales of the foreign like product under consideration for the determination of normal value have been made at prices which represent less than the cost of production of that product, the administering authority shall determine whether, in fact, such sales were made at less than the cost of production. If the administering authority determines that sales made at less than the cost of production—
+&emsp;Whenever the administering authority has reasonable grounds to believe or suspect that sales of the foreign like product under consideration for the determination of normal value have been made at prices which represent less than the cost of production of that product,the administering authority shall determine whether, in fact, such sales were made at less than the cost of production. If the administering authority determines that sales made at less than the cost of production—
 
 &emsp;&emsp;(A) have been made within an extended period of time in substantial quantities, and
 
@@ -274,17 +274,17 @@ For purposes of subsections (b) and (e) of this section.—
 
 #### Amendments
 
-1994—Pub. L. 103–465 amended section generally, substituting present provisions for provisions relating to foreign market value, which provided for determination of value in subsec. (a), sales at less than cost of production in subsec. (b), treatment of merchandise from nonmarket economy countries in subsec. (c), special rule for certain multinational corporations in subsec. (d), determination of constructed value in subsec. (e), and exportation from an intermediate country in subsec. (f).
+<b>1994</b>—Pub. L. 103–465 amended section generally, substituting present provisions for provisions relating to foreign market value, which provided for determination of value in subsec. (a), sales at less than cost of production in subsec. (b), treatment of merchandise from nonmarket economy countries in subsec. (c), special rule for certain multinational corporations in subsec. (d), determination of constructed value in subsec. (e), and exportation from an intermediate country in subsec. (f).
 
-1988—Subsec. (a)(5). Pub. L. 100–418, §1319, added par. (5).
+<b>1988</b>—Subsec. (a)(5). Pub. L. 100–418, §1319, added par. (5).
 
 Subsec. (c). Pub. L. 100–418, §1316(a), amended subsec. (c) generally, substituting provisions relating to nonmarket economy countries, for provisions relating to State-controlled economies.
 
 Subsec. (e)(2) to (4). Pub. L. 100–418, §1318, substituted “(4)” for “(3)” wherever appearing in par. (2), added par. (3), and redesignated former par. (3) as (4) and in introductory provisions substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
-1986—Subsecs. (f), (g). Pub. L. 99–514 redesignated subsec. (g) as (f).
+<b>1986</b>—Subsecs. (f), (g). Pub. L. 99–514 redesignated subsec. (g) as (f).
 
-1984—Subsec. (a)(1). Pub. L. 98–573, §615(1), substituted “time such merchandise is first sold within the United States by the person for whom (or for whose account) the merchandise is imported to any other person who is not described in subsection (e)(3) of this section with respect to such person” for “time of exportation of such merchandise to the United States” in provisions before subpar. (A).
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–573, §615(1), substituted “time such merchandise is first sold within the United States by the person for whom (or for whose account) the merchandise is imported to any other person who is not described in subsection (e)(3) of this section with respect to such person” for “time of exportation of such merchandise to the United States” in provisions before subpar. (A).
 
 Subsecs. (a)(1)(A), (4)(A), (e)(1)(B). Pub. L. 98–573, §615(2), substituted “commercial quantities” for “wholesale quantities” wherever appearing.
 
@@ -298,7 +298,7 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date of 1988 Amendment
 
-Amendment by sections 1316(a) and 1318 of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, and amendment by section 1319 of Pub. L. 100–418 applicable with respect to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, and to reviews initiated under such sections which are pending on Aug. 23, 1988, and in which a request for revocation is pending on Aug. 23, 1988, see section 1337(b), (f) ofPub. L. 100–418, set out as a note under section 1671 of this title.
+Amendment by sections 1316(a) and 1318 of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, and amendment by section 1319 of Pub. L. 100–418 applicable with respect to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, and to reviews initiated under such sections which are pending on Aug. 23, 1988, and in which a request for revocation is pending on Aug. 23, 1988, see section 1337(b), (f) of Pub. L. 100–418, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1984 Amendment
 

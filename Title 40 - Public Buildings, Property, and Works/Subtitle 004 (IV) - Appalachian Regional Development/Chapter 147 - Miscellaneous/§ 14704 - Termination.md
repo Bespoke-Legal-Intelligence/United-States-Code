@@ -22,7 +22,7 @@ Pub. L. 89–4, title IV, §405, Mar. 9, 1965, 79 Stat. 23; Pub. L. 91–123, ti
 
 #### Amendments
 
-2008—Pub. L. 110–371 substituted “2012” for “2007”.
+<b>2008</b>—Pub. L. 110–371 substituted “2012” for “2007”.
 
-2007—Pub. L. 109–289, §20326, as added by Pub. L. 110–5, substituted “October 1, 2007” for “October 1, 2006”.
+<b>2007</b>—Pub. L. 109–289, §20326, as added by Pub. L. 110–5, substituted “October 1, 2007” for “October 1, 2006”.
 

@@ -79,9 +79,9 @@ In subsection (a)(1), reference to a civil action to enforce an order for the pa
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–272 substituted “subchapter III of chapter 311 (except sections 31138 and 31139) or section 31502 of this title” for “section 3102 of this title or the Motor Carrier Safety Act of 1984” and “any of those provisions” for “such section or Act”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–272 substituted “subchapter III of chapter 311 (except sections 31138 and 31139) or section 31502 of this title” for “section 3102 of this title or the Motor Carrier Safety Act of 1984” and “any of those provisions” for “such section or Act”.
 
-1984—Subsecs. (c) to (e). Pub. L. 98–554 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+<b>1984</b>—Subsecs. (c) to (e). Pub. L. 98–554 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
 #### DOT Implementation Plan
 

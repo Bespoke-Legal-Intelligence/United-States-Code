@@ -8,7 +8,7 @@ The Comptroller General of the United States shall assess the effectiveness of F
 
 The Comptroller General of the United States shall assess the availability of liability insurance for owners of residential housing that contains lead-based paint and persons engaged in lead-based paint hazard evaluation and reduction activities. In carrying out the assessment, the Comptroller General shall—
 
-&emsp;(1) analyze any precedents in the insurance industry for the containment and abatement of environmental hazards, such as asbestos, in federally assisted housing;
+&emsp;(1) analyze any precedents in the insurance industry for the containment and abatementof environmental hazards, such as asbestos, in federally assisted housing;
 
 &emsp;(2) provide an assessment of the recent insurance experience in the public housing lead hazard identification and reduction program; and
 

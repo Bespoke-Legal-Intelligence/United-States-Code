@@ -6,7 +6,7 @@ In General.—The Superintendent of Documents, under the direction of the Public
 
 &emsp;(1) maintain an electronic directory of Federal electronic information;
 
-&emsp;(2) provide a system of online access to the Congressional Record, the Federal Register,and, as determined by the Superintendent of Documents, other appropriate publications distributed by the Superintendent of Documents; and
+&emsp;(2) provide a system of online access to the Congressional Record, the Federal Register, and, as determined by the Superintendent of Documents, other appropriate publications distributed by the Superintendent of Documents; and
 
 &emsp;(3) operate an electronic storage facility for Federal electronic information to which online access is made available under paragraph (2).
 

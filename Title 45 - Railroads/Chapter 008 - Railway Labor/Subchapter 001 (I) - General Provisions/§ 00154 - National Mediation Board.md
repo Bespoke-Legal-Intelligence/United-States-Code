@@ -28,10 +28,6 @@ All unexpended appropriations for the operation of the Board of Mediation that a
 
 (May 20, 1926, ch. 347, §4, 44 Stat. 579; June 21, 1934, ch. 691, §4, 48 Stat. 1193; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 88–542, Aug. 31, 1964, 78 Stat. 748.)
 
-#### References in Text
-
-The civil service laws, referred to in par. Third, are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 #### Codification
 
 In par. First, provisions that prescribed the basis compensation of members of the Board were omitted to conform to the provisions of the Executive Schedule. See sections 5314 and 5315 of Title 5, Government Organization and Employees.
@@ -42,13 +38,13 @@ In par. Third, “chapter 51 and subchapter III of chapter 53 of title 5” subs
 
 #### Amendments
 
-1964—Par. First. Pub. L. 88–542 inserted sentences providing that each member of the Board in office on Jan. 1, 1965, shall be deemed to have been appointed for a term of office which shall expire on July 1 of the year his term would have otherwise expired, and that upon the expiration of his term of office a member shall continue to serve until his successor is appointed and shall have qualified, and struck out provisions which related to terms of office of members first appointed.
+<b>1964</b>—Par. First. Pub. L. 88–542 inserted sentences providing that each member of the Board in office on Jan. 1, 1965, shall be deemed to have been appointed for a term of office which shall expire on July 1 of the year his term would have otherwise expired, and that upon the expiration of his term of office a member shall continue to serve until his successor is appointed and shall have qualified, and struck out provisions which related to terms of office of members first appointed.
 
-1949—Par. First. Act Oct. 15, 1949, increased basic rate of compensation for members of the board to $15,000 per year.
+<b>1949</b>—Par. First. Act Oct. 15, 1949, increased basic rate of compensation for members of the board to $15,000 per year.
 
 Par. Third. Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
-1934—Act June 21, 1934, amended section generally.
+<b>1934</b>—Act June 21, 1934, amended section generally.
 
 #### Repeals
 

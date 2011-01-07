@@ -44,7 +44,7 @@ A loan may not be guaranteed under this section unless the applicant for such lo
 
 > the interest paid on such obligation and received by the purchaser thereof (or the purchaser's successors in interest) shall be included in gross income for the purposes of chapter 1 of title 26.
 
-(2) With respect to the amount of obligations described in paragraph (1) that the issuer would have been able to issue as tax exempt obligations (other than obligations secured by the full faith and credit of the issuer as a general obligation of the issuer), the Secretary of Energy is authorized to pay only to the issuer any portion of the interest on such obligations, as determined by the Secretary of the Treasury after taking into account the interest rate which would have been paid on the obligations had they been issued as tax exempt obligations without being so guaranteed by the Secretary of Energy and the interest rate actually paid on the obligations when issued as taxable obligations. Such payments shall be made in amounts determined by the Secretary of Energy, and in accordance with such terms and conditions as the Secretary of the Treasury shall require.
+(2) With respect to the amount of obligations described in paragraph (1) that the issuer would have been able to issue as tax exempt obligations (other than obligations secured by the full faith and credit of the issuer as a general obligation of the issuer), the Secretary of Energy is authorized to pay only to the issuer any portion of the interest on such obligations, as determined by the Secretary of the Treasury after taking into account the interest rate whichwould have been paid on the obligations had they been issued as tax exempt obligations without being so guaranteed by the Secretary of Energy and the interest rate actually paid on the obligations when issued as taxable obligations. Such payments shall be made in amounts determined by the Secretary of Energy, and in accordance with such terms and conditions as the Secretary of the Treasury shall require.
 
 #### (h) Fees
 
@@ -60,5 +60,5 @@ This chapter, referred to in subsec. (d), was in the original “this title”, 
 
 #### Amendments
 
-1986—Subsec. (g)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (g)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 

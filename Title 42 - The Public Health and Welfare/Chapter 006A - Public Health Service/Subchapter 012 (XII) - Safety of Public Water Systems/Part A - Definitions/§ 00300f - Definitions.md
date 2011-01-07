@@ -16,7 +16,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(D) contains criteria and procedures to assure a supply of drinking water which dependably complies with such maximum contaminant levels; including accepted methods for quality control and testing procedures to insure compliance with such levels and to insure proper operation and maintenance of the system, and requirements as to (i) the minimum quality of water which may be taken into the system and (ii) siting for new facilities for public water systems.
 
-> &emsp;At any time after promulgation of a regulation referred to in this paragraph, the Administrator may add equally effective quality control and testing procedures by guidance published in the Federal Register. Such procedures shall be treated as an alternative forpublic water systems to the quality control and testing procedures listed in the regulation.
+> &emsp;At any time after promulgation of a regulation referred to in this paragraph, the Administrator may add equally effective quality control and testing procedures by guidance published in the Federal Register. Such procedures shall be treated as an alternative for public water systems to the quality control and testing procedures listed in the regulation.
 
 &emsp;(2) The term “secondary drinking water regulation” means a regulation which applies to public water systems and which specifies the maximum contaminant levels which, in the judgment of the Administrator, are requisite to protect the public welfare. Such regulations may apply to any contaminant in drinking water (A) which may adversely affect the odor or appearance of such water and consequently may cause a substantial number of the persons served by the public water system providing such water to discontinue its use, or (B) which may otherwise adversely affect the public welfare. Such regulations may vary according to geographic and other circumstances.
 
@@ -28,7 +28,7 @@ Public water system.—
 
 &emsp;&emsp;(A)
 
-In general.—The term “public water system” means a system for the provision to the public of water for human consumption through pipes or other constructed conveyances, if such system has at least fifteen service connections or regularly serves at least twenty-five individuals. Such term includes (i) any collection, treatment, storage, and distribution facilities under control of the operator of such system and used primarily in connection with such system, and (ii) any collection or pretreatment storage facilities not under such control which are used primarily in connection with such system.
+In general.—The term “public water system” means a system for the provision tothe public of water for human consumption through pipes or other constructed conveyances, if such system has at least fifteen service connections or regularly serves at least twenty-five individuals. Such term includes (i) any collection, treatment, storage, and distribution facilities under control of the operator of such system and used primarily in connection with such system, and (ii) any collection or pretreatment storage facilities not under such control which are used primarily in connection with such system.
 
 &emsp;&emsp;(B)
 
@@ -94,7 +94,7 @@ The Safe Drinking Water Act Amendments of 1996, referred to in par. (4)(C), is P
 
 #### Amendments
 
-1996—Par. (1). Pub. L. 104–182, §101(a)(1)(B), inserted at end “At any time after promulgation of a regulation referred to in this paragraph, the Administrator may add equally effective quality control and testing procedures by guidance published in the Federal Register. Such procedures shall be treated as an alternative for public water systems to the quality control and testing procedures listed in the regulation.”
+<b>1996</b>—Par. (1). Pub. L. 104–182, §101(a)(1)(B), inserted at end “At any time after promulgation of a regulationreferred to in this paragraph, the Administrator may add equally effective quality control and testing procedures by guidance published in the Federal Register. Such procedures shall be treated as an alternative for public water systems to the quality control and testing procedures listed in the regulation.”
 
 Par. (1)(D). Pub. L. 104–182, §101(a)(1)(A), inserted “accepted methods for” before “quality control”.
 
@@ -106,13 +106,13 @@ Par. (14). Pub. L. 104–182, §101(a)(3), inserted at end “For purposes of se
 
 Pars. (15), (16). Pub. L. 104–182, §101(a)(4), added pars. (15) and (16).
 
-1986—Par. (10). Pub. L. 99–339, §302(b)(2), substituted “Indian Tribe” for “Indian tribal organization authorized by law”.
+<b>1986</b>—Par. (10). Pub. L. 99–339, §302(b)(2), substituted “Indian Tribe” for “Indian tribal organization authorized by law”.
 
 Par. (14). Pub. L. 99–339, §302(b)(1), added par. (14).
 
-1977—Par. (12). Pub. L. 95–190 expanded definition of “person” to include Federal agency, and officers, employees, and agents of any corporation, company, etc.
+<b>1977</b>—Par. (12). Pub. L. 95–190 expanded definition of “person” to include Federal agency, and officers, employees, and agents of any corporation, company, etc.
 
-1976—Par. (13). Pub. L. 94–484 defined “State” to include Northern Mariana Islands.
+<b>1976</b>—Par. (13). Pub. L. 94–484 defined “State” to include Northern Mariana Islands.
 
 Pub. L. 94–317 added par. (13).
 
@@ -172,7 +172,7 @@ Section 3 of Pub. L. 104–182 provided that: “The Congress finds that—
 
 #### GAO Study
 
-Section 101(b)(2) of Pub. L. 104–182 provided that: “The Comptroller General of the United States shall undertake a study to—
+Pub. L. 104–182, title I, §101(b)(2), Aug. 6, 1996, 110 Stat. 1617, provided that: “The Comptroller General of the United States shall undertake a study to—
 
 &emsp;“(A) ascertain the numbers and locations of individuals and households relying for their residential water needs, including drinking, bathing, and cooking (or other similar uses) on irrigation water systems, mining water systems, industrial water systems, or other water systems covered by section 1401(4)(B) of the Safe Drinking Water Act \[par. (4)(B) of this section\] that are not public water systems subject to the Safe Drinking Water Act \[this subchapter\];
 
@@ -184,11 +184,11 @@ Section 101(b)(2) of Pub. L. 104–182 provided that: “The Comptroller General
 
 #### Safe Drinking Water Amendments of 1977 Restrictions on Appropriations for Research
 
-Section 2(e) of Pub. L. 95–190 provided that: “Nothing in this Act \[see Short Title of 1977 Amendment note set out under section 201 of this title\] shall be construed to authorize the appropriation of any amount for research under title XIV of the Public Health Service Act \[this subchapter\] (relating to safe drinking water).”
+Pub. L. 95–190, §2(e), Nov. 16, 1977, 91 Stat. 1393, provided that: “Nothing in this Act \[see Short Title of 1977 Amendment note set out under section 201 of this title\] shall be construed to authorize the appropriation of any amount for research under title XIV of the Public Health Service Act \[this subchapter\] (relating to safe drinking water).”
 
 #### Safe Drinking Water Amendments of 1977 as Not Affecting Authority of Administrator With Respect to Contaminants
 
-Section 3(e)(2) of Pub. L. 95–190 provided that: “Nothing in this Act \[see Short Title of 1977 Amendment note set out under section 201 of this title\] shall be construed to alter or affect the Administrator's authority or duty under title 14 of the Public Health Service Act \[this subchapter\] to promulgate regulations or take other action with respect to any contaminant.”
+Pub. L. 95–190, §3(e)(2), Nov. 16, 1977, 91 Stat. 1394, provided that: “Nothing in this Act \[see Short Title of 1977 Amendment note set out under section 201 of this title\] shall be construed to alter or affect the Administrator's authority or duty under title 14 of the Public Health Service Act \[this subchapter\] to promulgate regulations or take other action with respect to any contaminant.”
 
 #### Rural Water Survey; Report to President and Congress; Authorization of Appropriations
 

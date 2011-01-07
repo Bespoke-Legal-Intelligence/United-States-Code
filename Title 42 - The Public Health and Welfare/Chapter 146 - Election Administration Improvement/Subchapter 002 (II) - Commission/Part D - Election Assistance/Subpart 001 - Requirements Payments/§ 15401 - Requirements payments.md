@@ -38,7 +38,7 @@ Nothing in this subpart may be construed to require a State to implement any of 
 
 #### (e) Schedule of payments
 
-As soon as practicable after the initial appointment of all members of the Commission (but in no event later than 6 months thereafter), and not less frequently than once each calendar year thereafter, the Commission shall make requirements payments to States under this subpart.
+As soon as practicable after the initial appointment of all members of the Commission (but in no event later than 6 months thereafter), and not less frequently than once each calendaryear thereafter, the Commission shall make requirements payments to States under this subpart.
 
 #### (f) Limitation
 
@@ -52,13 +52,15 @@ A State may not use any portion of a requirements payment—
 
 #### References in Text
 
+Subchapter III of this chapter, referred to in subsec. (b)(1), (2)(A), was in the original “title III”, meaning title III of Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1704, which is classified principally to subchapter III (§15481 et seq.) of this chapter. For complete classification of title III to the Code, see Tables.
+
 The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. (b)(3), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, which is classified principally to subchapter I–G (§1973ff et seq.) of chapter 20 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of this title and Tables.
 
 The Military and Overseas Voter Empowerment Act, referred to in subsec. (b)(3), is subtitle H (§§575–589) of title V of div. A of Pub. L. 111–84, Oct. 28, 2009, 123 Stat. 2318, which enacted sections 1973ff–2a, 1973ff–2b, 1973ff–4a, and 1973ff–7 of this title and section 1566a of Title 10, Armed Forces, amended sections 1973ff to 1973ff–2, 1973ff–3, 1973ff–4, 15401, 15403, 15404, and 15407 of this title, and enacted provisions set out as notes under sections 1971 and 1973ff to 1973ff–2 of this title. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 1971 of this title and Tables.
 
 #### Amendments
 
-2009—Subsec. (b)(1). Pub. L. 111–84, §588(a)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+<b>2009</b>—Subsec. (b)(1). Pub. L. 111–84, §588(a)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
 Subsec. (b)(3). Pub. L. 111–84, §588(a)(2), added par. (3).
 

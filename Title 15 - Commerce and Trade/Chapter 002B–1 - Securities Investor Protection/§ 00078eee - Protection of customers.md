@@ -12,13 +12,17 @@
 
 #### (3) Action by SIPC
 
-&emsp;If SIPC determines that—
+#### (A) In general
 
-&emsp;&emsp;(A) any member of SIPC (including any person who was a member within one hundred eighty days prior to such determination) has failed or is in danger of failing to meet its obligations to customers; and
+&emsp;&emsp;SIPC may, upon notice to a member of SIPC, file an application for a protective decree with any court of competent jurisdiction specified in section 78u(e) or 78aa of this title, except that no such application shall be filed with respect to a member, the only customers of which are persons whose claims could not be satisfied by SIPC advances pursuant to section 78fff–3 of this title, if SIPC determines that—
 
-&emsp;&emsp;(B) one or more of the conditions specified in subsection (b)(1) of this section exist with respect to such member,
+&emsp;&emsp;(A) <sup>1</sup> the member (including any person who was a member within one hundred eighty days prior to such determination) has failed or is in danger of failing to meet its obligations to customers; and
 
-> &emsp;SIPC may, upon notice to such member, file an application for a protective decree with any court of competent jurisdiction specified in section 78u(e) or 78aa, except that no such application shall be filed with respect to a member the only customers of which are personswhose claims could not be satisfied by SIPC advances pursuant to section 78fff–3.
+&emsp;&emsp;(B) <sup>2</sup> one or more of the conditions specified in subsection (b)(1) of this section exist with respect to such member.
+
+#### (B) Consent required
+
+&emsp;&emsp;No member of SIPC that has a customer may enter into an insolvency, receivership, or bankruptcy proceeding, under Federal or State law, without the specific consent of SIPC, except as provided in title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act \[12 U.S.C. 5381 et seq.\].
 
 #### (4) Effect of other pending actions
 
@@ -74,7 +78,7 @@
 
 &emsp;&emsp;(ii) Notwithstanding clause (i), such application, order, or decree may operate as a stay of the foreclosure on, or disposition of, securities collateral pledged by the debtor, whether or not with respect to one or more of such contracts or agreements, securities sold by the debtor under a repurchase agreement, or securities lent under a securities lending agreement.
 
-&emsp;&emsp;(iii) As used in this subparagraph, the term “contractual right” includes a right setforth in a rule or bylaw of a derivatives clearing organization (as defined in the Commodity Exchange Act \[7 U.S.C. 1 et seq.\]), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991), a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act), or in a resolution of the governing board thereof, and a right, whether or not in writing, arising under common law, under law merchant, or by reason of normal business practice.
+&emsp;&emsp;(iii) As used in this subparagraph, the term “contractual right” includes a right set forth in a rule or bylaw of a derivatives clearing organization (as defined in the Commodity Exchange Act \[7 U.S.C. 1 et seq.\]), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991), a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act), or in a resolution of the governing board thereof, and a right, whether or not in writing, arising under common law, under law merchant, or by reason of normal business practice.
 
 #### (3) Appointment of trustee and attorney
 
@@ -134,25 +138,29 @@ The Commission may, on its own motion, file notice of its appearance in any proc
 
 SIPC shall be deemed to be a party in interest as to all matters arising in a liquidation proceeding, with the right to be heard on all such matters, and shall be deemed to have intervened with respect to all such matters with the same force and effect as if a petition for such purpose had been allowed by the court.
 
-(Pub. L. 91–598, §5, Dec. 30, 1970, 84 Stat. 1644; Pub. L. 95–283, §7, May 21, 1978, 92 Stat. 254; Pub. L. 95–598, title III, §308(a)–(f), Nov. 6, 1978, 92 Stat. 2674; Pub. L. 109–8, title IX, §911, Apr. 20, 2005, 119 Stat. 185; Pub. L. 109–390, §5(c), Dec. 12, 2006, 120 Stat. 2698.)
+(Pub. L. 91–598, §5, Dec. 30, 1970, 84 Stat. 1644; Pub. L. 95–283, §7, May 21, 1978, 92 Stat. 254; Pub. L. 95–598, title III, §308(a)–(f), Nov. 6, 1978, 92 Stat. 2674; Pub. L. 109–8, title IX, §911, Apr. 20, 2005, 119 Stat. 185; Pub. L. 109–390, §5(c), Dec. 12,2006, 120 Stat. 2698; Pub. L. 111–203, title IX, §929H(b), July 21, 2010, 124 Stat. 1857.)
 
 #### References in Text
 
-The 1934 Act, referred to in subsec. (b)(1)(C), means act June 6, 1934, ch. 404, 48 Stat. 881, as amended, known as the Securities Exchange Act of 1934, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (a)(3)(B), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376. Title II of the Act is classified principally to subchapter II (§5381 et seq.) of chapter 53 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
+
+The 1934 Act, referred to in subsec. (b)(1)(C), means act June 6, 1934, ch. 404, 48 Stat. 881, known as the Securities Exchange Act of 1934, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 This chapter, referred to in subsecs. (b)(2)(A)(iii), (5)(C), and (c), was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
 
-The Commodity Exchange Act, referred to in subsec. (b)(2)(C)(iii), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in subsec. (b)(2)(C)(iii), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
-The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsec. (b)(2)(C)(iii), is Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2236, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
+The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsec. (b)(2)(C)(iii), is Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2236. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
 #### Amendments
 
-2006—Subsec. (b)(2)(C)(iii). Pub. L. 109–390 inserted “a derivatives clearing organization (as defined in the Commodity Exchange Act), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991),” after “rule or bylaw of” and substituted “a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act),” for “or a securities clearing agency, a right set forth in a bylaw of a clearing organization or contract market”.
+<b>2010</b>—Subsec. (a)(3). Pub. L. 111–203 designated existing provisions as subpar. (A) relating to general rule, inserted heading, substituted “SIPC may, upon notice to a member of SIPC, file an application for a protective decree with any court of competent jurisdiction specified in section 78u(e) or 78aa of this title, except that no such application shall be filed with respect to a member, the only customers of which are persons whose claims could not be satisfied by SIPC advances pursuant to section 78fff–3 of this title, if SIPC determines that—” for “If SIPC determines that—”, in subpar. (A) relating to failure to meet obligations, substituted “the member” for “any member of SIPC”, in subpar. (B) relating to conditions, substituted period for comma at end, added subpar. (B) relating to consent requirement, and struck out concluding provisions which read as follows: “SIPC may, upon notice to such member, file an application for a protective decree with any court of competent jurisdiction specified in section 78u(e) or 78aa of this title, except that no such application shall be filed with respect to a member the only customers of which are persons whose claims could not be satisfied by SIPC advances pursuant to section 78fff–3 of this title.”
 
-2005—Subsec. (b)(2)(C). Pub. L. 109–8 added subpar. (C).
+<b>2006</b>—Subsec. (b)(2)(C)(iii). Pub. L. 109–390 inserted “a derivatives clearing organization (as defined in the Commodity Exchange Act), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991),” after “rule or bylaw of” and substituted “a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act),” for “or a securities clearing agency, a right set forth in a bylaw of a clearing organization or contract market”.
 
-1978—Subsec. (a). Pub. L. 95–283, §7(a), added par. (2), redesignated former par. (2) as (3) and, as so redesignated, revised format of provisions by setting out cls. (A) and (B) and inserted provisions relating to any person who was a member within 180 days prior to such determination and provisions relating to claims filed under section 78fff–3 of this title, and redesignated former par. (3) as (4) and, as so redesignated, substituted “with respect to a member of SIPC filed with a court under paragraph (3)” for “under paragraph (2)” in introductory text and inserted “may,” before “with the” in cl. (A).
+<b>2005</b>—Subsec. (b)(2)(C). Pub. L. 109–8 added subpar. (C).
+
+<b>1978</b>—Subsec. (a). Pub. L. 95–283, §7(a), added par. (2), redesignated former par. (2) as (3) and, as so redesignated, revised format of provisions by setting out cls. (A) and (B) and inserted provisions relating to any person who was a member within 180 days prior to such determination and provisions relating to claims filed under section 78fff–3 of this title, and redesignated former par. (3) as (4) and, as so redesignated, substituted “with respect to a member of SIPC filed with a court under paragraph (3)” for “under paragraph (2)” in introductory text and inserted “may,” before “with the” in cl. (A).
 
 Subsec. (b)(1)(A). Pub. L. 95–598, §308(a)(1), substituted “section 101 of title 11” for “the Bankruptcy Act”.
 
@@ -178,6 +186,10 @@ Subsec. (b). Pub. L. 95–283, §7(b), in par. (1) inserted “protective” aft
 
 Subsec. (d). Pub. L. 95–283, §7(c), added subsec. (d).
 
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–390 not applicable to any cases commenced under Title 11, Bankruptcy, or to appointments made under any Federal or State law, before Dec. 12, 2006, see section 7 of Pub. L. 109–390, set out as a note under section 101 of Title 11.
@@ -189,4 +201,8 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “(i)”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “(ii)”.</i>
 

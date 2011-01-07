@@ -56,7 +56,7 @@ Rulemaking.—The Secretary shall issue regulations to implement and administer 
 
 &emsp;(F)
 
-Report.—The Secretary shall submit a report on the results of the demonstration projects funded under this paragraph to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee onTransportation and Infrastructure of the House of Representatives.
+Report.—The Secretary shall submit a report on the results of the demonstration projects funded under this paragraph to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
 (b)
 
@@ -170,9 +170,9 @@ Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (
 
 #### Amendments
 
-2008—Subsec. (a)(3). Pub. L. 110–244, which directed substitution of “section 5333(b)” for “section 5323(a)(1)(D)” in subsec. (a)(3) of section 5314, without specifying the Code title to be amended, was executed by making the substitution in subsec. (a)(3) of this section, to reflect the probable intent of Congress.
+<b>2008</b>—Subsec. (a)(3). Pub. L. 110–244, which directed substitution of “section 5333(b)” for “section 5323(a)(1)(D)” in subsec. (a)(3) of section 5314, without specifying the Code title to be amended, was executed by making the substitution in subsec. (a)(3) of this section, to reflect the probable intent of Congress.
 
-2005—Pub. L. 109–59, §3016(a)(1), struck out “planning and” before “research” in section catchline.
+<b>2005</b>—Pub. L. 109–59, §3016(a)(1), struck out “planning and” before “research” in section catchline.
 
 Subsec. (a)(1). Pub. L. 109–59, §3016(a)(2), substituted “section 5338(d)” for “subsections (d) and (h)(7) of section 5338 of this title” and “, contracts, cooperative agreements, or other agreements” for “and contracts” and struck out “5303–5306,” before “5312,” and “5317,” before “and 5322”.
 
@@ -182,7 +182,7 @@ Pub. L. 109–59, §3002(b)(4), substituted “public transportation-related” 
 
 Subsec. (a)(4)(A). Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation”.
 
-Subsec. (a)(4)(B), (C). Pub. L. 109–59, §3016(a)(4), (5), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “The Secretary shall establish an Industry Technical Panel composed of representatives of transportation suppliers and operators and others involved in technology development. A majority of the Panel members shall represent the supply industry. The Panel shall assist the Secretary in identifying priority technology development areas and in establishing guidelines for project development, project cost sharing, and project execution.”
+Subsec. (a)(4)(B), (C). Pub. L. 109–59, §3016(a)(4), (5), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “The Secretary shallestablish an Industry Technical Panel composed of representatives of transportation suppliers and operators and others involved in technology development. A majority of the Panel members shall represent the supply industry. The Panel shall assist the Secretary in identifying priority technology development areas and in establishing guidelines for project development, project cost sharing, and project execution.”
 
 Subsec. (a)(6). Pub. L. 109–59, §3016(a)(6), added par. (6).
 
@@ -190,7 +190,7 @@ Subsec. (b). Pub. L. 109–59, §3016(a)(7), substituted “, contract, coopera
 
 Subsec. (c). Pub. L. 109–59, §3016(b), added subsec. (c).
 
-1998—Subsec. (a)(1). Pub. L. 105–178, §3029(b)(6), substituted “subsections (d) and (h)(7) of section 5338” for “section 5338(g)(4)”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–178, §3029(b)(6), substituted “subsections (d) and (h)(7) of section 5338” for “section 5338(g)(4)”.
 
 Subsec. (a)(2). Pub. L. 105–178, §3016, substituted “$3,000,000” for “$2,000,000”.
 

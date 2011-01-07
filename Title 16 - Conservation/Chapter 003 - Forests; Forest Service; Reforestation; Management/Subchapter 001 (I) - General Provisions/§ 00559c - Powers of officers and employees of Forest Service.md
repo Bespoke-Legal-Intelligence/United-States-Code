@@ -18,7 +18,7 @@ For the purposes of sections 559b to 559f of this title, if specifically designa
 
 #### Amendments
 
-1988—Pub. L. 100–690, §6254(b)(1), in introductory provision substituted “1,000 special agents and law enforcement officers” for “500 officers and employees”, and struck out “within the boundaries of the National Forest System” after “shall have authority”.
+<b>1988</b>—Pub. L. 100–690, §6254(b)(1), in introductory provision substituted “1,000 special agents and law enforcement officers” for “500 officers and employees”, and struck out “within the boundaries of the National Forest System” after “shall have authority”.
 
 Par. (2). Pub. L. 100–690, §6254(b)(2), inserted “, within the exterior boundaries of the National Forest System,” after “conduct” and “and to conduct such investigations and enforcement of such laws outside the exterior boundaries of the National Forest System for offenses committed within the National Forest System or which affect the administration of the National Forest System (including the pursuit of persons suspected of such offenses who flee the National Forest System to avoid arrest)” before semicolon at end.
 

@@ -12,11 +12,11 @@ Section was formerly classified to section 611b of Title 5 prior to the general 
 
 #### Amendments
 
-1986—Pub. L. 99–619 substituted “nine offices” for “five offices”.
+<b>1986</b>—Pub. L. 99–619 substituted “nine offices” for “five offices”.
 
-1970—Pub. L. 91–596 increased the number of Assistant Secretaries of Labor from four to five and inserted provision that one of such Assistant Secretaries be an Assistant Secretary of Labor for Occupational Safety and Health.
+<b>1970</b>—Pub. L. 91–596 increased the number of Assistant Secretaries of Labor from four to five and inserted provision that one of such Assistant Secretaries be an Assistant Secretary of Labor for Occupational Safety and Health.
 
-1961—Pub. L. 87–137 increased the number of Assistant Secretaries of Labor from three to four.
+<b>1961</b>—Pub. L. 87–137 increased the number of Assistant Secretaries of Labor from three to four.
 
 #### Effective Date of 1970 Amendment
 

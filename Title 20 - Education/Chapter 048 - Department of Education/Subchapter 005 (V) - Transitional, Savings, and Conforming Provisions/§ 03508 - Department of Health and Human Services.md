@@ -16,9 +16,9 @@ In subsec. (b), “May 4, 1980” substituted for “the effective date of this 
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–178 amended Pub. L. 107–217, §6(b). See 2002 Amendment note below.
+<b>2003</b>—Subsec. (b). Pub. L. 108–178 amended Pub. L. 107–217, §6(b). See 2002 Amendment note below.
 
-2002—Subsec. (b). Pub. L. 107–217, §6(b), which had repealed subsec. (b) of this section, was itself repealed by Pub. L. 108–178 insofar as it related to subsec. (b) of this section, and Pub. L. 108–178 further provided that subsec. (b) of this section was revived to read as if Pub. L. 107–217, §6(b), had not been enacted.
+<b>2002</b>—Subsec. (b). Pub. L. 107–217, §6(b), which had repealed subsec. (b) of this section, was itself repealed by Pub. L. 108–178 insofar as it related to subsec. (b) of this section, and Pub. L. 108–178 further provided that subsec. (b) of this section was revived to read as if Pub. L. 107–217, §6(b), had not been enacted.
 
 #### Effective Date of 2003 Amendment
 

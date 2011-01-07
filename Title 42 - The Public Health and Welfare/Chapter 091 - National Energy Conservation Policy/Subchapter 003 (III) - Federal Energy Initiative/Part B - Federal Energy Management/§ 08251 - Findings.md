@@ -16,7 +16,7 @@ The Congress finds that—
 
 #### Amendments
 
-1988—Pub. L. 100–615 amended Congressional findings provisions generally.
+<b>1988</b>—Pub. L. 100–615 amended Congressional findings provisions generally.
 
 #### Executive Order No. 13123
 

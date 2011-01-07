@@ -32,7 +32,7 @@ In this chapter:
 
 #### (8) Operations research
 
-&emsp;The term “operations research” means the application of social science research methods, statistical analysis, and other appropriate scientific methods to judge, compare, and improve policies and program outcomes, from the earliest stages of defining and designing programs through their development and implementation, with the objective of the rapid dissemination of conclusions and concrete impact on programming.
+&emsp;The term “operations research” means the application of social science research methods,statistical analysis, and other appropriate scientific methods to judge, compare, and improve policies and program outcomes, from the earliest stages of defining and designing programs through their development and implementation, with the objective of the rapid dissemination of conclusions and concrete impact on programming.
 
 #### (9) Paraprofessional
 
@@ -64,5 +64,5 @@ The Foreign Assistance Act of 1961, referred to in par. (12), is Pub. L. 87–19
 
 #### Amendments
 
-2008—Pub. L. 110–293 substituted “Committee on Foreign Affairs of the House of Representatives, the Committee on Appropriations of the Senate, and the Committee on Appropriations” for “Committee on International Relations” in par. (2), added pars. (3) and (7) to (11), and redesignated former pars. (3) to (5) and (6) as (4) to (6) and (12), respectively.
+<b>2008</b>—Pub. L. 110–293 substituted “Committee on Foreign Affairs of the House of Representatives, the Committee on Appropriations of the Senate, and the Committee on Appropriations” for “Committee on International Relations” in par. (2), added pars. (3) and (7) to (11), and redesignated former pars. (3) to (5) and (6) as (4) to (6) and (12), respectively.
 

@@ -44,11 +44,11 @@ The purposes and policies of this chapter are—
 
 There is established the National Marine Sanctuary System, which shall consist of national marine sanctuaries designated by the Secretary in accordance with this chapter.
 
-(Pub. L. 92–532, title III, §301, Oct. 23, 1972, 86 Stat. 1061; Pub. L. 96–332, §1, Aug. 29, 1980, 94 Stat. 1057; Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2296; Pub. L. 102–587, title II, §2101, Nov. 4, 1992, 106 Stat. 5039; Pub. L. 104–283, §9(a),Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, §3, Nov. 13, 2000, 114 Stat. 2381.)
+(Pub. L. 92–532, title III, §301, Oct. 23, 1972, 86 Stat. 1061; Pub. L. 96–332, §1, Aug. 29, 1980, 94 Stat. 1057; Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2296; Pub. L. 102–587, title II, §2101, Nov. 4, 1992, 106 Stat. 5039; Pub. L. 104–283, §9(a), Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, §3, Nov. 13, 2000, 114 Stat. 2381.)
 
 #### Amendments
 
-2000—Pub. L. 106–513, §3(a), inserted “; establishment of system” at end of section catchline.
+<b>2000</b>—Pub. L. 106–513, §3(a), inserted “; establishment of system” at end of section catchline.
 
 Subsec. (a)(2). Pub. L. 106–513, §3(b)(1), substituted “scientific, educational, cultural, archeological, or esthetic” for “research, educational, or esthetic”.
 
@@ -76,9 +76,9 @@ Subsec. (b)(9). Pub. L. 106–513, §3(c)(2), (3), (6), redesignated par. (8) as
 
 Subsec. (c). Pub. L. 106–513, §3(d), added subsec. (c).
 
-1996—Subsec. (b)(2). Pub. L. 104–283 substituted a semicolon for a period at end.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–283 substituted a semicolon for a period at end.
 
-1992—Subsec. (a)(2). Pub. L. 102–587, §2101(a)(1), inserted “, and in some cases international,” after “national”.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–587, §2101(a)(1), inserted “, and in some cases international,” after “national”.
 
 Subsec. (a)(4). Pub. L. 102–587, §2101(a)(2), inserted “, research,” after “conservation” and struck out “and” at end.
 
@@ -96,9 +96,9 @@ Subsec. (b). Pub. L. 102–587, §2101(b), amended subsec. (b) generally. Prior 
 
 &emsp;“(5) to facilitate, to the extent compatible with the primary objective of resource protection, all public and private uses of the resources of these marine areas not prohibited pursuant to other authorities.”
 
-1984—Pub. L. 98–498 amended section generally, substituting provisions relating to Congressional declaration of findings, purposes and policies for provisions defining “Secretary” and “State”. See section 1432 of this title.
+<b>1984</b>—Pub. L. 98–498 amended section generally, substituting provisions relating to Congressional declaration of findings, purposes and policies for provisions defining “Secretary” and “State”. See section 1432 of this title.
 
-1980—Pub. L. 96–332 inserted provisions defining “State”.
+<b>1980</b>—Pub. L. 96–332 inserted provisions defining “State”.
 
 #### Short Title of 2000 Amendment
 
@@ -178,7 +178,7 @@ Sec. 4. <i>National System of MPAs</i>. (a) To the extent permitted by law and s
 
 (d) The Secretary of Commerce and the Secretary of the Interior shall establish and jointly manage a website for information on MPAs and Federal agency reports required by this order. They shall also publish and maintain a list of MPAs that meet the definition of MPA for the purposes of this order.
 
-(e) The Department of Commerce's National Oceanic and Atmospheric Administration shall establish a Marine Protected Area Center to carry out, in cooperation with the Department of the Interior, the requirements of subsection 4(a) of this order, coordinate the website established pursuant to subsection 4(d) of this order, and partner with governmental and nongovernmental entities to conduct necessary research, analysis, and exploration. The goal of the MPA Center shall be, in cooperation with the Department of the Interior, to develop a framework for a national system of MPAs, and to provide Federal, State, territorial, tribal, and local governments with the information, technologies, andstrategies to support the system. This national system framework and the work of the MPA Center is intended to support, not interfere with, agencies’ independent exercise of their own existing authorities.
+(e) The Department of Commerce's National Oceanic and Atmospheric Administration shall establish a Marine Protected Area Center to carry out, in cooperation with the Department of the Interior, the requirements of subsection 4(a) of this order, coordinate the website established pursuant to subsection 4(d) of this order, and partner with governmental and nongovernmental entities to conduct necessary research, analysis, and exploration. The goal of the MPA Center shall be, in cooperation with the Department of the Interior, to develop a framework for a national system of MPAs, and to provide Federal, State, territorial, tribal, and local governments with the information, technologies, and strategies to support the system. This national system framework and the work of the MPA Center is intended to support, not interfere with, agencies’ independent exercise of their own existing authorities.
 
 (f) To better protect beaches, coasts, and the marine environment from pollution, the Environmental Protection Agency (EPA), relying upon existing Clean Water Act \[33 U.S.C. 1251 et seq.\] authorities, shall expeditiously propose new science-based regulations, as necessary, to ensure appropriate levels of protection for the marine environment. Such regulations may include the identification of areas that warrant additional pollution protections and the enhancement of marine water quality standards. The EPA shall consult with the Federal agencies identified in subsection 4(a) of this order, States, territories, tribes, and the public in the development of such new regulations.
 

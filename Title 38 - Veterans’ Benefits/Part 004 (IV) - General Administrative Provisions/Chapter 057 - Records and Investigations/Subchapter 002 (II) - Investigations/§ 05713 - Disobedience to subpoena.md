@@ -6,7 +6,7 @@ In case of disobedience to any such subpoena, the aid of any district court of t
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 3313 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 3313 of this title as this section.
 
 Pub. L. 102–54 amended section as in effect immediately before the enactment of Pub. L. 102–40 by substituting “subpoena” for “subpena” in section catchline and in two places in text.
 

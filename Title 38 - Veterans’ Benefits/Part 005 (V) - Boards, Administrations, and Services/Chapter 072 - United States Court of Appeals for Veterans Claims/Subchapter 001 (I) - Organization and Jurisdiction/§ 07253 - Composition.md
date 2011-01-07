@@ -68,7 +68,7 @@ Temporary Expansion of Court.—(1) During the period from January 1, 2002, thro
 
 (B) If a judge is not appointed under this subsection pursuant to a nomination made in 2002, a judge may be appointed under this subsection pursuant to a nomination made in 2004. If a judge is not appointed under this subsection pursuant to a nomination made in 2003, a judge may be appointed under this subsection pursuant to a nomination made in 2004. In either case, such an appointment may be made only pursuant to a nomination made before October 1, 2004.
 
-(3) The term of office and the eligibility for retirement of a judge appointed under this subsection, other than a judge described in paragraph (4), are governed by the provisions of section 1012 of the Court of Appeals for Veterans Claims Amendments of 1999 (title X of Public Law 106–117; 113 Stat. 1590; 38 U.S.C. 7296 note) ifthe judge is one of the first two judges appointed to the Court after November 30, 1999.
+(3) The term of office and the eligibility for retirement of a judge appointed under this subsection, other than a judge described in paragraph (4), are governed by the provisions of section 1012 of the Court of Appeals for Veterans Claims Amendments of 1999 (title X of Public Law 106–117; 113 Stat. 1590; 38 U.S.C. 7296 note) if the judge is one of the first two judges appointed to the Court after November 30, 1999.
 
 (4) A judge of the Court as of December 27, 2001, who was appointed to the Court before January 1, 1991, may accept appointment as a judge of the Court under this subsection notwithstanding that the term of office of the judge on the Court has not yet expired under this section. The term of office of an incumbent judge who receives an appointment as described in the preceding sentence shall be 15 years, which includes any period remaining in the unexpired term of the judge. Any service following an appointment under this subsection shall be treated as though served as part of the original term of office of that judge on the Court.
 
@@ -84,27 +84,27 @@ Additional Temporary Expansion of Court.—(1) Subject to paragraph (2), effecti
 
 #### Amendments
 
-2008—Subsec. (i). Pub. L. 110–389 added subsec. (i).
+<b>2008</b>—Subsec. (i). Pub. L. 110–389 added subsec. (i).
 
-2006—Subsec. (d)(5). Pub. L. 109–233 substituted “Court” for “court”.
+<b>2006</b>—Subsec. (d)(5). Pub. L. 109–233 substituted “Court” for “court”.
 
-2004—Subsec. (d)(1). Pub. L. 108–454, §802(a), inserted “The chief judge of the Court is the head of the Court.” after “(1)”.
+<b>2004</b>—Subsec. (d)(1). Pub. L. 108–454, §802(a), inserted “The chief judge of the Court is the head of the Court.” after “(1)”.
 
 Subsec. (d)(4)(A). Pub. L. 108–454, §802(b), substituted “Court” for “court” in cls. (i) and (ii).
 
 Subsec. (h)(4). Pub. L. 108–454, §802(c), substituted “December 27, 2001,” for “the date of the enactment of this subsection”.
 
-2002—Subsec. (g)(1). Pub. L. 107–273, §11043(f)(1), substituted “chapter 16” for “section 372(c)” and “such chapter” for “such section”.
+<b>2002</b>—Subsec. (g)(1). Pub. L. 107–273, §11043(f)(1), substituted “chapter 16” for “section 372(c)” and “such chapter” for “such section”.
 
 Subsec. (g)(2). Pub. L. 107–273, §11043(f)(2), substituted “sections 354(b) through 360” for “paragraphs (7) through (15) of section 372(c)” and “section 354(b) or 355” for “paragraph (7) or (8) of section 372(c)”.
 
 Subsec. (g)(3)(B). Pub. L. 107–273, §11043(f)(3), substituted “361” for “372(c)(16)”.
 
-2001—Subsecs. (b), (c), (f), (g). Pub. L. 107–103, §601(b), inserted subsec. headings.
+<b>2001</b>—Subsecs. (b), (c), (f), (g). Pub. L. 107–103, §601(b), inserted subsec. headings.
 
 Subsec. (h). Pub. L. 107–103, §601(a), added subsec. (h).
 
-1999—Subsec. (a). Pub. L. 106–117, §1031, inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “The Court of Appeals for Veterans Claims shall be composed of a chief judge and at least two and not more than six associate judges.”
+<b>1999</b>—Subsec. (a). Pub. L. 106–117, §1031, inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “The Court of Appeals for Veterans Claims shall be composed of a chief judge and at least two and not more than six associate judges.”
 
 Subsec. (d). Pub. L. 106–117, §1032(a), inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “The chief judge is the head of the Court”.
 
@@ -114,19 +114,19 @@ Subsec. (e). Pub. L. 106–117, §1033, inserted heading and amended text of sub
 
 “(2) Each judge of the Court, other than the chief judge, shall receive a salary at the same rate as is received by judges of the United States district courts.”
 
-1998—Subsec. (a). Pub. L. 105–368, §512(a)(1), substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–368, §512(a)(1), substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
 Subsec. (c). Pub. L. 105–368, §512(a)(1), substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
 Pub. L. 105–368, §501, inserted at end “A judge who is nominated by the President for appointment to an additional term on the Court without a break in service and whose term of office expires while that nomination is pending before the Senate may continue in office for up to 1 year while that nomination is pending.”
 
-1992—Subsec. (g). Pub. L. 102–585 designated existing provisions as par. (1) and added pars. (2) and (3).
+<b>1992</b>—Subsec. (g). Pub. L. 102–585 designated existing provisions as par. (1) and added pars. (2) and (3).
 
-1991—Pub. L. 102–40 renumbered section 4053 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 4053 of this title as this section.
 
 Subsec. (g). Pub. L. 102–82 added subsec. (g).
 
-1989—Subsec. (f)(1). Pub. L. 101–94 inserted “or” before “engaging” and substituted “law” for “law, or physical or mental disability which, in the opinion of the President, prevents the proper execution of the judge's duties”.
+<b>1989</b>—Subsec. (f)(1). Pub. L. 101–94 inserted “or” before “engaging” and substituted “law” for “law, or physical or mental disability which, in the opinion of the President, prevents the proper execution of the judge's duties”.
 
 #### Effective Date of 1999 Amendment
 

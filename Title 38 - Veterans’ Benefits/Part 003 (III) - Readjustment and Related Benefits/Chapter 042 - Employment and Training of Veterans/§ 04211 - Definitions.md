@@ -30,19 +30,19 @@ As used in this chapter—
 
 #### Amendments
 
-2008—Par. (4)(D). Pub. L. 110–317 added subpar. (D).
+<b>2008</b>—Par. (4)(D). Pub. L. 110–317 added subpar. (D).
 
-2006—Par. (5). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission” in two places.
+<b>2006</b>—Par. (5). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission” in two places.
 
-2002—Par. (6). Pub. L. 107–288 substituted “three-year period” for “one-year period”.
+<b>2002</b>—Par. (6). Pub. L. 107–288 substituted “three-year period” for “one-year period”.
 
-2000—Par. (6). Pub. L. 106–419 added par. (6).
+<b>2000</b>—Par. (6). Pub. L. 106–419 added par. (6).
 
-1996—Par. (4)(C). Pub. L. 104–106 substituted “section 12301(a), (d), or (g), 12302, or 12304 of title 10” for “section 672(a), (d), or (g), 673, or 673b of title 10”.
+<b>1996</b>—Par. (4)(C). Pub. L. 104–106 substituted “section 12301(a), (d), or (g), 12302, or 12304 of title 10” for “section 672(a), (d), or (g), 673, or 673b of title 10”.
 
-1992—Par. (2). Pub. L. 102–568 substituted “The term” for “(A) Subject to subparagraph (B) of this paragraph, the term” and struck out subpar. (B) which read as follows: “No veteran may be considered to be a veteran of the Vietnam era under this paragraph after December 31, 1994, except for purposes of section 4214 of this title.”
+<b>1992</b>—Par. (2). Pub. L. 102–568 substituted “The term” for “(A) Subject to subparagraph (B) of this paragraph, the term” and struck out subpar. (B) which read as follows: “No veteran may be considered to be a veteran of the Vietnam era under this paragraph after December 31, 1994, except for purposes of section 4214 of this title.”
 
-1991—Pub. L. 102–83, §5(a), renumbered section 2011 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 2011 of this title as this section.
 
 Par. (1)(A). Pub. L. 102–83, §5(c)(1), substituted “3106” for “1506” in cl. (ii).
 
@@ -58,17 +58,17 @@ Par. (3). Pub. L. 102–83, §4(a)(1), substituted “laws administered by the S
 
 Par. (4). Pub. L. 102–127 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The term ‘eligible veteran’ means a person who (A) served on active duty for a period of more than 180 days and was discharged or released therefrom with other than a dishonorable discharge, or (B) was discharged or released from active duty because of a service-connected disability.”
 
-1989—Par. (2)(B). Pub. L. 101–237 inserted before period at end “except for purposes of section 2014 of this title”.
+<b>1989</b>—Par. (2)(B). Pub. L. 101–237 inserted before period at end “except for purposes of section 2014 of this title”.
 
-1984—Par. (1). Pub. L. 98–223 expanded term “special disabled veteran” to include a veteran with a disability rated at 10 to 20 percent in the case of a veteran who has been determined under section 1506 of this title to have a serious employment handicap.
+<b>1984</b>—Par. (1). Pub. L. 98–223 expanded term “special disabled veteran” to include a veteran with a disability rated at 10 to 20 percent in the case of a veteran who has been determined under section 1506 of this title to have a serious employment handicap.
 
-1982—Pars. (1), (3). Pub. L. 97–306, §309(1), inserted “(or who but for the receipt of military retired pay would be entitled to compensation)” after “compensation”.
+<b>1982</b>—Pars. (1), (3). Pub. L. 97–306, §309(1), inserted “(or who but for the receipt of military retired pay would be entitled to compensation)” after “compensation”.
 
 Par. (5). Pub. L. 97–306, §309(2), inserted provision that the United States Postal Service and the Postal Rate Commission are within the definition of “department or agency” and that the term “department, agency, or instrumentality in the executive branch” includes the United States Postal Service and the Postal Rate Commission.
 
-1980—Pub. L. 96–466 added definitions for terms “special disabled veteran” and “eligible veteran”, in provisions defining term “veteran of the Vietnam era” substituted reference to an eligible veteran any part of whose active service was during the Vietnam era with cut-off date of Dec. 31, 1991, for reference to a person who served on active duty for more than 180 days, any part of which occurred during the Vietnam era, and was discharged or released with other than a dishonorable discharge, or was discharged or released for a service-connected disability if any part of the active duty was performed during the Vietnam era, and who was discharged or released within the 48 months preceding the person's application for employment covered under this chapter, in the provisions defining term “disabled veteran” substituted reference to compensation under laws administered by the Veterans’ Administration for reference to disability compensation under such laws for a disability rated at 30 per centum or more and reference to a service-connected disability for reference to a disability incurred or aggravated in the line of duty, and in provisions defining term “department or agency” substituted reference to any agency of the Federal Government or the District of Columbia, including any Executive agency defined in section 105 of title 5, for reference to any department or agency of the Federal Government or any federally owned corporation.
+<b>1980</b>—Pub. L. 96–466 added definitions for terms “special disabled veteran” and “eligible veteran”, in provisions defining term “veteran of the Vietnam era” substituted reference to an eligible veteran any part of whose active service was during the Vietnam era with cut-off date of Dec. 31, 1991, for reference to a person who served on active duty for more than 180 days, any part of which occurred during the Vietnam era, and was discharged or released with other than a dishonorable discharge, or was discharged or released for a service-connected disability if any part of the active duty was performed during the Vietnam era, and who was discharged or released within the 48 months preceding the person's application for employment covered under this chapter, in the provisions defining term “disabled veteran” substituted reference to compensation under laws administered by the Veterans’ Administration for reference to disability compensation under such laws for a disability rated at 30 per centum or more and reference to a service-connected disability for reference to a disability incurred or aggravated in the line of duty, and in provisions defining term “department or agency” substituted reference to any agency of the Federal Government or the District of Columbia, including any Executive agency defined in section 105 of title 5, for reference to any department or agency of the Federal Government or any federally owned corporation.
 
-1976—Par. (2). Pub. L. 94–502 substituted “the person's” for “his”.
+<b>1976</b>—Par. (2). Pub. L. 94–502 substituted “the person's” for “his”.
 
 #### Effective Date of 2008 Amendment
 
@@ -76,7 +76,7 @@ Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship 
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–288, §2(b)(3), Nov. 7, 2002, 116 Stat. 2036, provided that: “The amendments made by this subsection \[amending this section and section 4212 of this title\] shall apply with respect to contracts entered into on or after the first day of the first month that begins 12 months after the date of the enactment of this Act \[Nov. 7, 2002\].”
+Pub. L. 107–288, §2(b)(3), Nov. 7, 2002, 116 Stat. 2036, provided that: “The amendments made by this subsection \[amending this section and section 4212 of thistitle\] shall apply with respect to contracts entered into on or after the first day of the first month that begins 12 months after the date of the enactment of this Act \[Nov. 7, 2002\].”
 
 #### Effective Date of 1996 Amendment
 

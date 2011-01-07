@@ -252,7 +252,7 @@ A prior section 304 of Pub. L. 88–643, as added Pub. L. 99–335, title V, §5
 
 #### Amendments
 
-1993—Subsec. (i)(1). Pub. L. 103–178 substituted “section 2002(a)(4)” for “section 2002(a)(3)”.
+<b>1993</b>—Subsec. (i)(1). Pub. L. 103–178 substituted “section 2002(a)(4)” for “section 2002(a)(3)”.
 
 #### Effective Date of 1993 Amendment
 

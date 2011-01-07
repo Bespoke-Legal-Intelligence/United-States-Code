@@ -20,7 +20,7 @@
 
 (4) No spousal agreement or court order under section 4060(b)(1) of this title involving any participant may provide for an annuity or any combination of annuities under this subsection which exceeds the annuity of the participant, nor may any such court order relating to an annuity under this subsection be given effect if it is issued more than 24 months after the date the divorce or annulment involved becomes final.
 
-(5)(A) The annuity payable to any participant shall be reduced by the amount of an annuity under this subsection paid to any former spouse based upon the service of that participant. Such reduction shall be disregarded in calculating the survivor annuity for any spouse, former spouse, or other survivor under this part, and in calculating any reduction in the annuity of the participant to provide survivor benefits under subsection (b) of this section or section 4046(b)(3) of this title.
+(5)(A) The annuity payable to any participant shall be reduced by the amount of an annuityunder this subsection paid to any former spouse based upon the service of that participant. Such reduction shall be disregarded in calculating the survivor annuity for any spouse, former spouse, or other survivor under this part, and in calculating any reduction in the annuity of the participant to provide survivor benefits under subsection (b) of this section or section 4046(b)(3) of this title.
 
 (B) If any annuitant whose annuity is reduced under subparagraph (A) is recalled to service under section 3948 of this title, or reinstated or reappointed in the Service in the case of a recovered disability annuitant or if any annuitant is reemployed as provided for under section 4064 of this title, the salary of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the Fund.
 
@@ -46,7 +46,7 @@
 
 (3) An annuity payable from the Fund under this part to a surviving former spouse under this subsection shall commence on the day after the annuitant dies and shall terminate on the last day of the month before the former spouse's death or remarriage before attaining age 60. If such a survivor annuity is terminated because of remarriage, it shall be restored at the same rate commencing on the date such remarriage is terminated if any lump sum paid upon termination of the annuity is returned to the Fund.
 
-(4)(A) The maximum survivor annuity or combination of survivor annuities under this section\(and section 4046(b)(3) of this title) with respect to any participant or former participant may not exceed 55 percent of the full amount of the participant's annuity, as calculated under section 4046(a) of this title.
+(4)(A) The maximum survivor annuity or combination of survivor annuities under this section (and section 4046(b)(3) of this title) with respect to any participant or former participant may not exceed 55 percent of the full amount of the participant's annuity, as calculated under section 4046(a) of this title.
 
 (B) Once a survivor annuity has been provided for under this subsection for any former spouse, a survivor annuity may thereafter be provided for under this subsection (or section 4046(b)(3) of this title) with respect to a participant or former participant only for that portion (if any) of the maximum available which is not committed for survivor benefits for any former spouse whose prospective right to such annuity has not terminated by reason of death or remarriage.
 
@@ -94,17 +94,17 @@
 
 #### Amendments
 
-1988—Subsec. (a)(1). Pub. L. 100–238, §217(a), which directed the amendment of par. (1) by inserting “if such former spouse was married to the participant for at least 10 years during service of the participant which is creditable under this subchapter with at least 5 of such years occurring while the participant was a member of the Foreign Service and” after “annuity”, was executed by inserting the new language after “annuity” in introductory provisions, as the probable intent of Congress.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–238, §217(a), which directed the amendment of par. (1) by inserting “if such former spouse was married to the participant for at least 10 years during service of the participant which is creditable under this subchapter with at least 5 of such years occurring while the participant was a member of the Foreign Service and” after “annuity”, was executed by inserting the new language after “annuity” in introductory provisions, as the probable intent of Congress.
 
 Subsec. (a)(4). Pub. L. 100–238, §217(b), substituted “24” for “12”.
 
 Subsec. (d). Pub. L. 100–238, §217(c)(2), struck out subsec. (d) which read as follows: “Section 4046(<i>l</i>) of this title shall not apply—
 
-&emsp;“(1) to any annuity payable under subsection (a) or (b) of this section to any former spouse if the amount of that annuity varies by reason of a spousal agreement or court order under section 4060(b)(1) of this title, or an election under section 4046(b)(1)(B) of thistitle, from the amount which would be calculated under subsection (a)(1) or (b)(1) of this section, as the case may be, in the absence of such spousal agreement, court order, or election; and
+&emsp;“(1) to any annuity payable under subsection (a) or (b) of this section to any former spouse if the amount of that annuity varies by reason of a spousal agreement or court order under section 4060(b)(1) of this title, or an election under section 4046(b)(1)(B) of this title, from the amount which would be calculated under subsection (a)(1) or (b)(1) of this section, as the case may be, in the absence of such spousal agreement, court order, or election; and
 
 &emsp;“(2) to any annuity payable under subsection (c) of this section.”
 
-1986—Subsec. (a)(1). Pub. L. 99–335, §404(b)(1), inserted provision defining “creditable service” as service creditable under part I or II of this subchapter.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–335, §404(b)(1), inserted provision defining “creditable service” as service creditable under part I or II of this subchapter.
 
 Subsec. (a)(3), (5)(A), (6)(A). Pub. L. 99–335, §402(a)(2), substituted “part” for “subchapter”.
 
@@ -114,7 +114,7 @@ Subsec. (b)(3). Pub. L. 99–335, §402(a)(3), inserted “under this part” af
 
 Subsec. (c)(3)(D). Pub. L. 99–335, §402(a)(2), substituted “part” for “subchapter”.
 
-1982—Subsec. (a)(3). Pub. L. 97–241 substituted “or the first” for “on the first” in provision preceding subpar. (A).
+<b>1982</b>—Subsec. (a)(3). Pub. L. 97–241 substituted “or the first” for “on the first” in provision preceding subpar. (A).
 
 #### Effective Date of 1988 Amendment
 

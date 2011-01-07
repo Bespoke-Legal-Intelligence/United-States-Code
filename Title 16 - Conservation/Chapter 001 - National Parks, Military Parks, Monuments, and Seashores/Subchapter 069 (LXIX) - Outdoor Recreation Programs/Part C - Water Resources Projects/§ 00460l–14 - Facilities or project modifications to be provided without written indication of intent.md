@@ -22,7 +22,7 @@ Notwithstanding the absence of an indication of intent as specified in section 4
 
 &emsp;&emsp;(i) will administer the expanded or modified facilities pursuant to a plan for development for the project that is approved by the agency with administrative jurisdiction over the project; and
 
-&emsp;&emsp;(ii) will bear not less than one-half of the planning and capital costs of such expansion or modification and not less than one-half of the costs of the operation, maintenance, and replacement attributable to the expansion of the facility.
+&emsp;&emsp;(ii) will bear not less than one-half of the planning and capital costs of such expansion or modification and not less than one-half of the costs of the operation, maintenance, andreplacement attributable to the expansion of the facility.
 
 (2) The Federal share of the cost of expanding or modifying a recreational facility described in paragraph (1) may not exceed 50 percent of the total cost of expanding or modifying the facility.
 
@@ -30,17 +30,15 @@ Notwithstanding the absence of an indication of intent as specified in section 4
 
 #### References in Text
 
-For surplus property laws of the United States, referred to subsec. (b)(2), see, generally, subtitle I of Title 40, Public Buildings, Property, and Works.
-
 This part, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 89–72, which enacted sections 460<i>l</i>–12 to 460<i>l</i>–21 of this title and amended sections 460<i>l</i>–5(a) and 662(d) of this title.
 
 #### Amendments
 
-1992—Subsec. (b)(1). Pub. L. 102–575, §2804(b), struck out “within ten years” after “execute an agreement” and substituted “not less than one-half the costs of planning studies, and the costs of operation, maintenance, and replacement attributable” for “all costs of operation, maintenance, and replacement attributable”.
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–575, §2804(b), struck out “within ten years” after “execute an agreement” and substituted “not less than one-half the costs of planning studies, and the costs of operation, maintenance, and replacement attributable” for “all costs of operation, maintenance, and replacement attributable”.
 
 Subsec. (c). Pub. L. 102–575, §2804(d), added subsec. (c).
 
-1974—Subsec. (b)(1). Pub. L. 93–251 substituted “modifications provided for recreation, and will bear one-quarter of such costs for fish and wildlife enhancement” for “modifications provided for either or both of those purposes, as the case may be”.
+<b>1974</b>—Subsec. (b)(1). Pub. L. 93–251 substituted “modifications provided for recreation, and will bear one-quarter of such costs for fish and wildlife enhancement” for “modifications provided for either or both of those purposes, as the case may be”.
 
 #### Effective Date of 1974 Amendment
 

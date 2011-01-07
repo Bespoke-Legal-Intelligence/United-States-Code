@@ -6,5 +6,5 @@ The death of any person who had a status which would, under the laws in effect o
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 905 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 905 of this title as this section.
 

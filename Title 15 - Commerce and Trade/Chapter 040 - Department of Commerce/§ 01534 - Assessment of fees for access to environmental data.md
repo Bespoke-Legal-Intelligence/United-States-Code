@@ -2,7 +2,7 @@
 
 #### (a) Basis of assessment
 
-Except as otherwise provided in this section, the Secretary is authorized to assess fees, based on fair market value, for access to environmental data and information and products derived therefrom collected and/or archived by the National Oceanic and Atmospheric Administration.
+Except as otherwise provided in this section, the Secretary is authorized to assess fees, basedon fair market value, for access to environmental data and information and products derived therefrom collected and/or archived by the National Oceanic and Atmospheric Administration.
 
 #### (b) Eligible recipients; waiver of fees in cases of foreign governments and international organizations
 
@@ -14,7 +14,7 @@ Except as otherwise provided in this section, the Secretary is authorized to ass
 
 #### (c) Publication of fee schedules in Federal Register; initial schedule effective for three-year period
 
-The initial schedule of any fees assessed under this section, and any subsequent amendment to such schedule, shall be published by the Secretary in the Federal Register at least 30 daysbefore such fees will take effect. The initial schedule shall remain in effect without amendment for the three-year period beginning on the date that fees under the schedule take effect.
+The initial schedule of any fees assessed under this section, and any subsequent amendment to such schedule, shall be published by the Secretary in the Federal Register at least 30 days before such fees will take effect. The initial schedule shall remain in effect without amendment for the three-year period beginning on the date that fees under the schedule take effect.
 
 #### (d) Effective date of assessments; progressive increments
 
@@ -48,7 +48,7 @@ The authority of the Secretary to assess fees under this section shall be in add
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–508, §10201(a)(1), substituted “and information and products derived therefrom collected and/or archived by the National Oceanic and Atmospheric Administration” for “data archived by the National Environmental Satellite, Data, and Information Service of the National Oceanic and Atmospheric Administration”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §10201(a)(1), substituted “and information and products derived therefrom collected and/or archived by the National Oceanic and Atmospheric Administration” for “data archived by the National Environmental Satellite, Data, and Information Service of the National Oceanic and Atmospheric Administration”.
 
 Subsec. (b)(1). Pub. L. 101–508, §10201(a)(2), inserted “, information, and products” after “provide data” and substituted “data, information, and products are” for “data is”.
 
@@ -80,7 +80,7 @@ Section 10201(b) of Pub. L. 101–508 provided that:
 
 “(2) Increases in revenues to the United States described in paragraph (1) shall be achieved by the Secretary of Commerce through fair and equitable increases in fees for services offered by the various programs of the National Oceanic and Atmospheric Administration.
 
-“(3) The Secretary of Commerce shall notify the Congress of any changes in fee schedules under section 409of the Act of November 17, 1988 (15 U.S.C. 1534), before such changes take effect.”
+“(3) The Secretary of Commerce shall notify the Congress of any changes in fee schedules under section 409 of the Act of November 17, 1988 (15 U.S.C. 1534), before such changes take effect.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “and”.</i>
 

@@ -28,19 +28,19 @@ In this chapter:
 
 &emsp;&emsp;(C) are junior to the junior officer in the promotion zone for that competitive category.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2867; amended Pub. L. 97–86, title IV,§405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title V, §533(a), Oct. 19, 1984, 98 Stat. 2528; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 102–25, title VII, §701(i)(1), Apr. 6, 1991, 105 Stat. 115.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2867; amended Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title V, §533(a), Oct. 19, 1984, 98 Stat. 2528; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 102–25, title VII, §701(i)(1), Apr. 6, 1991, 105 Stat. 115.)
 
 #### Amendments
 
-1991—Pars. (1) to (3). Pub. L. 102–25 inserted “The term” after par. designations and lowercased initial letter of quoted phrases.
+<b>1991</b>—Pars. (1) to (3). Pub. L. 102–25 inserted “The term” after par. designations and lowercased initial letter of quoted phrases.
 
-1985—Par. (1)(A)(ii). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
+<b>1985</b>—Par. (1)(A)(ii). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
 
-1984—Par. (1)(A)(i)(II), (ii)(II). Pub. L. 98–525, §533(a)(1), inserted “(other than after having been placed on that list after a selection from below the promotion zone)”.
+<b>1984</b>—Par. (1)(A)(i)(II), (ii)(II). Pub. L. 98–525, §533(a)(1), inserted “(other than after having been placed on that list after a selection from below the promotion zone)”.
 
 Par. (1)(B). Pub. L. 98–525, §533(a)(2), inserted “in the promotion zone” after “the junior officer” and struck out “in the promotion zone” after “higher grade”.
 
-1981—Par. (1)(A)(ii). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
+<b>1981</b>—Par. (1)(A)(ii). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
 
 #### Effective Date of 1981 Amendment
 

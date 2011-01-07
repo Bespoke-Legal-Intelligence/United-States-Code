@@ -48,11 +48,11 @@ In subsection (b), the words “Territory, Puerto Rico, or the District of Colum
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–106, §1501(37)(A), substituted “18233(a)(1)” for “2233(a)(1)”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106, §1501(37)(A), substituted “18233(a)(1)” for “2233(a)(1)”.
 
 Subsec. (b). Pub. L. 104–106, §1501(37)(B), substituted “18233(a)” for “2233(a)”.
 
-1994—Pub. L. 103–337, §1664(b)(2), renumbered section 2237 of this title as this section.
+<b>1994</b>—Pub. L. 103–337, §1664(b)(2), renumbered section 2237 of this title as this section.
 
 Subsec. (a). Pub. L. 103–337, §1664(b)(9)(A), which directed amendment of subsec. (a) by substituting “paragraph (2), (3), or (4) of section 18233(a)” for “section 2233(a)(2), (3) and (4)”, could not be executed because the words “section 2233(a)(2), (3) and (4)” did not appear subsequent to intervening amendment by Pub. L. 103–337, §2852(a). See below.
 
@@ -62,11 +62,11 @@ Subsec. (b). Pub. L. 103–337, §1664(b)(9)(B), which directed amendment of sub
 
 Pub. L. 103–337, §2852(b), substituted “paragraph (2), (3), (4), (5), or (6) of section 2233(a)” for “section 2233(a)(2), (3), or (4)”.
 
-1982—Subsec. (b). Pub. L. 97–214 struck out “or Territory, Puerto Rico, or the District of Columbia” after “facilities in a State”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–214 struck out “or Territory, Puerto Rico, or the District of Columbia” after “facilities in a State”.
 
-1966—Subsec. (a). Pub. L. 89–718 substituted “the head of such office or agency in the Department of the Navy as the Secretary of the Navy may designate” for “the Chief of the Bureau of Yards and Docks of the Navy”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted “the head of such office or agency in the Department of the Navy as the Secretary of the Navy may designate” for “the Chief of the Bureau of Yards and Docks of the Navy”.
 
-1958—Pub. L. 85–861 inserted “: compliance with State law” in section catchline.
+<b>1958</b>—Pub. L. 85–861 inserted “: compliance with State law” in section catchline.
 
 Subsec. (a). Pub. L. 85–861 designated existing provisions as subsec. (a) and substituted “under any provision of this chapter except section 2233(a)(2), (3), and (4) of this title” for “under this chapter”.
 

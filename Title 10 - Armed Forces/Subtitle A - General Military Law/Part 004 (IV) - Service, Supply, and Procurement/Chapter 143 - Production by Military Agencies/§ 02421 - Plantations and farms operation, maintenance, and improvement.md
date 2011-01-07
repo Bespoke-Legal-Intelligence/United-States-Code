@@ -6,7 +6,7 @@
 
 (c) Of the persons employed by the United States under subsection (a), only nationals of the United States are entitled to the benefits provided by laws relating to the employment, work, compensation, or other benefits of civilian employees of the United States.
 
-(d) A plantation or farm covered by subsection (a) shall be operated, maintained, and improved by a private contractor or lessee, so far as practicable. Before using members of the Army, Navy, Air Force, or Marine Corps, as the case may be, the Secretary concerned must make a reasonable effort to make a contract or lease with a person in civil life for his services for that operation, maintenance, or improvement, on terms advantageous to the United States. A determination by the Secretary as to the reasonableness of effort to make a contract or lease, and as to the advantageous nature of its terms, is final.
+(d) A plantation or farm covered by subsection (a) shall be operated, maintained, and improved by a private contractor or lessee, so far as practicable. Before using members of the Army, Navy, Air Force, or Marine Corps, as the case may be, the Secretary concerned must make a reasonable effort to make a contract or lease with a person in civil life for his services forthat operation, maintenance, or improvement, on terms advantageous to the United States. A determination by the Secretary as to the reasonableness of effort to make a contract or lease, and as to the advantageous nature of its terms, is final.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 138.)
 
@@ -60,7 +60,7 @@ In subsections (a) and (b), the word “continental” is omitted, since section
 
 In subsection (b), the words “of the United States” are omitted as surplusage. The words “Fruits and vegetables produced under subsection (a)” are substituted for the words “That surplus production”.
 
-In subsection (c), the words “nationals of the United States” are substituted for the words “American nationals”. The words “civil-service laws and other of the United States” and “rights or obligations” are omitted as surplusage.
+In subsection (c), the words “nationals of the United States” are substituted for the words “American nationals”. The words “civil-service laws and other \* \* \* of the United States” and “rights \* \* \* or obligations” are omitted as surplusage.
 
 In subsection (d), the words “after the termination of the present war” are omitted as executed. The word “by” is substituted for the words “through the instrumentality of”. The words “partnership, association” are omitted as covered by the definition of “person” in section 1 of title 1. The words “United States” are substituted for the word “Government”. The words “management”, “for that purpose”, and “or agreement” are omitted as surplusage.
 

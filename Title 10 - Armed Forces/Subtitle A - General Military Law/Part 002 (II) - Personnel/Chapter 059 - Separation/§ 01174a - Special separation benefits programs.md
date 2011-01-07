@@ -52,7 +52,7 @@ Program Applicability.—The Secretary concerned may provide for the program und
 
 Applicability Subject to Needs of the Service.—(1) Subject to paragraphs (2) and (3), the Secretary concerned may limit the applicability of a program under this section to any category of personnel defined by the Secretary in order to meet a need of the armed force under the Secretary's jurisdiction to reduce the number of members in certain grades, the number of members who have completed a certain number of years of active service, or the number of members who possess certain military skills or are serving in designated competitive categories.
 
-(2) Any category prescribed by the Secretary concerned for regular officers, regular enlisted members, or other members pursuant to paragraph (1) shall be consistent with the categories applicable to regular officers, regular enlisted members, or other members, respectively, underthe voluntary separation incentive program under section 1175 of this title or any other program established by law or by that Secretary for the involuntary separation of such members in the administration of a reduction in force.
+(2) Any category prescribed by the Secretary concerned for regular officers, regular enlisted members, or other members pursuant to paragraph (1) shall be consistent with the categories applicable to regular officers, regular enlisted members, or other members, respectively, under the voluntary separation incentive program under section 1175 of this title or any other program established by law or by that Secretary for the involuntary separation of such members in the administration of a reduction in force.
 
 (3) A member of the armed forces offered a voluntary separation incentive under section 1175 of this title shall also be offered the opportunity to request separation under a program established pursuant to this section. If the Secretary concerned approves a request for separation under either such section, the member shall be separated under the authority of the section selected by such member.
 
@@ -84,11 +84,11 @@ Termination of Program.—(1) Except as provided in paragraph (2), the Secretary
 
 #### Amendments
 
-2000—Subsec. (h)(1). Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001”.
+<b>2000</b>—Subsec. (h)(1). Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001”.
 
-1998—Subsec. (h)(1). Pub. L. 105–261 substituted “September 30, 2001” for “September 30, 1999”.
+<b>1998</b>—Subsec. (h)(1). Pub. L. 105–261 substituted “September 30, 2001” for “September 30, 1999”.
 
-1994—Subsec. (a). Pub. L. 103–337, §542(b)(1), substituted “concerned” for “of each military department”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337, §542(b)(1), substituted “concerned” for “of each military department”.
 
 Subsec. (d). Pub. L. 103–337, §542(b)(2), substituted “concerned” for “of a military department”.
 
@@ -96,7 +96,7 @@ Subsec. (e)(3). Pub. L. 103–337, §542(b)(3), struck out “of the military de
 
 Subsec. (h). Pub. L. 103–337, §542(b)(4), substituted “concerned” for “of a military department”.
 
-1993—Subsec. (c)(2). Pub. L. 103–160, §502, struck out “before December 5, 1991” after “6 years”.
+<b>1993</b>—Subsec. (c)(2). Pub. L. 103–160, §502, struck out “before December 5, 1991” after “6 years”.
 
 Subsec. (c)(3). Pub. L. 103–35, §202(a)(17)(A), made technical amendment to directory language of Pub. L. 102–484, §4422(a)(3). See 1992 Amendment note below.
 
@@ -104,7 +104,7 @@ Subsec. (c)(4). Pub. L. 103–35, §202(a)(17)(B), made technical amendment to d
 
 Subsec. (h)(1). Pub. L. 103–160, §561(g), substituted “September 30, 1999” for “September 30, 1995”.
 
-1992—Subsec. (b)(1). Pub. L. 102–484, §4422(a)(1), inserted “or full-time National Guard duty” after “active duty”.
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–484, §4422(a)(1), inserted “or full-time National Guard duty” after “active duty”.
 
 Subsec. (b)(2)(B). Pub. L. 102–484, §4405(a), inserted “, sections 404 and 406 of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 406 note)” after “chapter 58 of this title”.
 
@@ -144,7 +144,7 @@ Procedure for Review.—(1) The Secretary of each military department shall esta
 
 “(b)
 
-Application.—A review under this section shall be conducted in any case submitted to the Secretary concerned by application from the officer or former officer under regulations prescribed by the Secretary.
+Application.—A review under this section shall be conducted in any case submitted to the Secretaryconcerned by application from the officer or former officer under regulations prescribed by the Secretary.
 
 “(c)
 

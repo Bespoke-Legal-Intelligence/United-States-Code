@@ -10,5 +10,5 @@ A prior section 5 of Pub. L. 92–367 was classified to section 467d of this tit
 
 #### Amendments
 
-1996—Pub. L. 104–303 inserted section catchline.
+<b>1996</b>—Pub. L. 104–303 inserted section catchline.
 

@@ -32,7 +32,7 @@ Section 1701 of title XVII of div. A of Pub. L. 102–484 provided that: “This
 
 Ex. Ord. No. 12854, July 4, 1993, 58 F.R. 36587, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Trading with the Enemy Act, as amended (50 U.S.C. App. 1–6, 7–39, 41–44), the Cuban Democracy Act of 1992 (Public Law 102–484, sections 1701–1712, October 23, 1992, 106 Stat. 2575) (the “Act”) \[22 U.S.C. 6001 et seq.\], and section 301 of title 3, United States Code,
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Trading with the Enemy Act, as amended (50 U.S.C. App. 1–6, 7–39, 41–44), the Cuban Democracy Act of 1992 (Public Law 102–484, sections1701–1712, October 23, 1992, 106 Stat. 2575) (the “Act”) \[22 U.S.C. 6001 et seq.\], and section 301 of title 3, United States Code,
 
 I, WILLIAM J. CLINTON, President of the United States of America, hereby order:
 

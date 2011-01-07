@@ -4,10 +4,6 @@ The Secretary may appoint, for terms not to exceed 3 years, without regard to th
 
 (Pub. L. 89–329, title VII, §743, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1797; amended Pub. L. 110–315, title VII, §707(h)(2), Aug. 14, 2008, 122 Stat. 3360.)
 
-#### References in Text
-
-The provisions of title 5 governing appointments in the competitive service, referred to in text, are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 1135a–1 of this title, prior to repeal by Pub. L. 105–244.
@@ -20,5 +16,5 @@ A prior section 743 of Pub. L. 89–329 was classified to section 1132c–2 of t
 
 #### Amendments
 
-2008—Pub. L. 110–315 struck out subsec. (a) designation and heading before “The Secretary may appoint,” and struck out subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “The Director shall establish procedures for reviewing and evaluating grants and contracts made or entered into under this part. Procedures for reviewing grant applications or contracts for financial assistance under this section may not be subject to any review outside of officials responsible for the administration of the Fund for the Improvement of Postsecondary Education.”
+<b>2008</b>—Pub. L. 110–315 struck out subsec. (a) designation and heading before “The Secretary may appoint,” and struck out subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “The Director shall establish procedures for reviewing and evaluating grants andcontracts made or entered into under this part. Procedures for reviewing grant applications or contracts for financial assistance under this section may not be subject to any review outside of officials responsible for the administration of the Fund for the Improvement of Postsecondary Education.”
 

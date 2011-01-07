@@ -62,13 +62,13 @@ The Inspector General Act of 1978, referred to in subsec. (a)(3)(A), is Pub. L. 
 
 #### Amendments
 
-1999—Subsec. (b)(2). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §502(2)\], which directed amendment of par. (2) by inserting “, subject to the advice and consent of the Senate” at end, was executed by making the insertion before period at end, to reflect the probable intent of Congress.
+<b>1999</b>—Subsec. (b)(2). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §502(2)\], which directed amendment of par. (2) by inserting “, subject to the advice and consent of the Senate” at end, was executed by making the insertion before period at end, to reflect the probable intent of Congress.
 
 Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §502(1)\], substituted “appoint” for “designate”.
 
 Subsec. (g). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §504\], added subsec. (g).
 
-1998—Subsec. (a). Pub. L. 105–277, §1322, amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There is hereby established within the United States Information Agency a Broadcasting Board of Governors (hereafter in this chapter referred to as the ‘Board’).”
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §1322, amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There is hereby established within the United States Information Agency a Broadcasting Board of Governors (hereafter in this chapter referred to as the ‘Board’).”
 
 Subsec. (b). Pub. L. 105–277, §1323(b), substituted “Secretary of State” for “Director of the United States Information Agency” wherever appearing.
 

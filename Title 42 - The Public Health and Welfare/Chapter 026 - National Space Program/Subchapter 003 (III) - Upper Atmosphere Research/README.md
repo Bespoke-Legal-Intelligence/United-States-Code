@@ -5,7 +5,4 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 02481 - Congressional declaration of purpose and policy](%C2%A7%2002481%20-%20Congressional%20declaration%20of%20purpose%20and%20policy.md)
-- [&sect; 02482 - &#8220;Upper atmosphere&#8221; defined](%C2%A7%2002482%20-%20%E2%80%9CUpper%20atmosphere%E2%80%9D%20defined.md)
-- [&sect; 02483 - Program authorized](%C2%A7%2002483%20-%20Program%20authorized.md)
-- [&sect; 02484 - International cooperation](%C2%A7%2002484%20-%20International%20cooperation.md)
+- [&sect; 02481 to 2484 - Repealed. Pub. L. 111&#8211;314, &sect;6, Dec. 18, 2010, 124 Stat. 3444](%C2%A7%2002481%20to%202484%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93314%2C%20%C2%A76%2C%20Dec.%2018%2C%202010%2C%20124%20Stat.%203444.md)

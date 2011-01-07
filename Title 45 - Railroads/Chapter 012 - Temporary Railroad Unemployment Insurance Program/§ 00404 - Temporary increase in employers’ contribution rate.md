@@ -10,3 +10,5 @@ Section 358(a) of this title, referred to in text, was amended generally by Pub.
 
 The Railroad Unemployment Insurance Act, referred to in text, is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of this title. For complete classification of this Act to the Code, see section 367 of this title and Tables.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

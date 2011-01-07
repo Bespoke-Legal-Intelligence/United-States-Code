@@ -10,7 +10,7 @@ As Trustee for the Miccosukee Tribe, the Secretary shall—
 
 &emsp;&emsp;(A) sign the Settlement Agreement on behalf of the United States; and
 
-&emsp;&emsp;(B) ensure that an individual other than the Secretary who is a representative of theBureau of Indian Affairs also signs the Settlement Agreement;
+&emsp;&emsp;(B) ensure that an individual other than the Secretary who is a representative of the Bureau of Indian Affairs also signs the Settlement Agreement;
 
 &emsp;(3) upon finding that all necessary conditions precedent to the transfer of Miccosukee land to the Florida Department of Transportation as provided in the Settlement Agreement have been or will be met so that the Agreement has been or will be fulfilled, but for the execution of that land transfer and related land transfers—
 

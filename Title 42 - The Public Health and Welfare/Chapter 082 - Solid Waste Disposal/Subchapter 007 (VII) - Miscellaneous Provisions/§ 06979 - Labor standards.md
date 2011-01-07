@@ -18,5 +18,5 @@ Provisions similar to those in this section were contained in section 3256 of th
 
 #### Amendments
 
-1980—Pub. L. 96–482 substituted “Administrator” for “Secretary”.
+<b>1980</b>—Pub. L. 96–482 substituted “Administrator” for “Secretary”.
 

@@ -50,7 +50,7 @@ Competitive Service Position Defined.—In this section, the term “competitive
 
 #### Amendments
 
-1998—Subsecs. (d), (e). Pub. L. 105–261 redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows:
+<b>1998</b>—Subsecs. (d), (e). Pub. L. 105–261 redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows:
 
 “(d)
 
@@ -58,7 +58,7 @@ Employment Preference Program for Military Spouses.—(1) The Secretary of Defen
 
 “(2) A spouse who is provided a preference under this subsection at a military child development center may not be precluded from obtaining another preference, in accordance with section 1784 of this title, in the same geographic area as the military child development center.”
 
-1997—Subsec. (a)(1). Pub. L. 105–85, §1073(a)(34)(A), struck out comma after “implementing”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–85, §1073(a)(34)(A), struck out comma after “implementing”.
 
 Subsec. (d)(2). Pub. L. 105–85, §1073(a)(34)(B), substituted “section 1784” for “section 1794”.
 

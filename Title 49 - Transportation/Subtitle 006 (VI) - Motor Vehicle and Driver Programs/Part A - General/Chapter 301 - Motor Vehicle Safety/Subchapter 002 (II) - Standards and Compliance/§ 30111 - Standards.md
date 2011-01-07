@@ -86,6 +86,84 @@ In subsection (e), the words “duties and powers” are substituted for “resp
 
 Act of August 20, 1958, referred to in subsec. (b)(2), is set out as a note under former section 313 of Title 23, Highways.
 
+#### Pedestrian Safety Enhancement
+
+Pub. L. 111–373, Jan. 4, 2011, 124 Stat. 4086, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Pedestrian Safety Enhancement Act of 2010’.
+
+#### “SEC. 2. DEFINITIONS.
+
+“As used in this Act—
+
+&emsp;“(1) the term ‘Secretary’ means the Secretary of Transportation;
+
+&emsp;“(2) the term ‘alert sound’ (herein referred to as the ‘sound’) means a vehicle-emitted sound to enable pedestrians to discern vehicle presence, direction, location, and operation;
+
+&emsp;“(3) the term ‘cross-over speed’ means the speed at which tire noise, wind resistance, or other factors eliminate the need for a separate alert sound as determined by the Secretary;
+
+&emsp;“(4) the term ‘motor vehicle’ has the meaning given such term in section 30102(a)(6) of title 49, United States Code, except that such term shall not include a trailer (as such term is defined in section 571.3 of title 49, Code of Federal Regulations);
+
+&emsp;“(5) the term ‘conventional motor vehicle’ means a motor vehicle powered by a gasoline, diesel, or alternative fueled internal combustion engine as its sole means of propulsion;
+
+&emsp;“(6) the term ‘manufacturer’ has the meaning given such term in section 30102(a)(5) of title 49, United States Code;
+
+&emsp;“(7) the term ‘dealer’ has the meaning given such term in section 30102(a)(1) of title 49, United States Code;
+
+&emsp;“(8) the term ‘defect’ has the meaning given such term in section 30102(a)(2) of title 49, United States Code;
+
+&emsp;“(9) the term ‘hybrid vehicle’ means a motor vehicle which has more than one means of propulsion; and
+
+&emsp;“(10) the term ‘electric vehicle’ means a motor vehicle with an electric motor as its sole means of propulsion.
+
+#### “SEC. 3. MINIMUM SOUND REQUIREMENT FOR MOTOR VEHICLES.
+
+“(a)
+
+Rulemaking Required.—Not later than 18 months after the date of enactment of this Act \[Jan. 4, 2011\] the Secretary shall initiate rulemaking, under section 30111 of title 49, United States Code, to promulgate a motor vehicle safety standard—
+
+&emsp;“(1) establishing performance requirements for an alert sound that allows blind and other pedestrians to reasonably detect a nearby electric or hybrid vehicle operating below the cross-over speed, if any; and
+
+&emsp;“(2) requiring new electric or hybrid vehicles to provide an alert sound conforming to the requirements of the motor vehicle safety standard established under this subsection.
+
+> “The motor vehicle safety standard established under this subsection shall not require either driver or pedestrian activation of the alert sound and shall allow the pedestrian to reasonably detect a nearby electric or hybrid vehicle in critical operating scenarios including, but not limited to, constant speed, accelerating, or decelerating. The Secretary shall allow manufacturers to provide each vehicle with one or more sounds that comply with the motor vehicle safety standard at the time of manufacture. Further, the Secretary shall require manufacturers to provide, within reasonable manufacturing tolerances, the same sound or set of sounds for all vehicles of the same make and model and shall prohibit manufacturers from providing any mechanism for anyone other than the manufacturer or the dealer to disable, alter, replace, or modify the sound or set of sounds, except that the manufacturer or dealer may alter, replace, or modify the sound or set of sounds in order to remedy a defect or non-compliance with the motor vehicle safety standard. The Secretary shall promulgate the required motor vehicle safety standard pursuant to this subsection not later than 36 months after the date of enactment of this Act.
+
+“(b)
+
+Consideration.—When conducting the required rulemaking, the Secretary shall—
+
+&emsp;“(1) determine the minimum level of sound emitted from a motor vehicle that is necessary to provide blind and other pedestrians with the information needed to reasonably detect a nearby electric or hybrid vehicle operating at or below the cross-over speed, if any;
+
+&emsp;“(2) determine the performance requirements for an alert sound that is recognizable to a pedestrian as a motor vehicle in operation; and
+
+&emsp;“(3) consider the overall community noise impact.
+
+“(c)
+
+Phase-in Required.—The motor vehicle safety standard prescribed pursuant to subsection (a) of this section shall establish a phase-in period for compliance, as determined by the Secretary, and shall require full compliance with the required motor vehicle safety standard for motor vehicles manufactured on or after September 1st of the calendar year that begins 3 years after the date on which the final rule is issued.
+
+“(d)
+
+Required Consultation.—When conducting the required study and rulemaking, the Secretary shall—
+
+&emsp;“(1) consult with the Environmental Protection Agency to assure that the motor vehicle safety standard is consistent with existing noise requirements overseen by the Agency;
+
+&emsp;“(2) consult consumer groups representing individuals who are blind;
+
+&emsp;“(3) consult with automobile manufacturers and professional organizations representing them;
+
+&emsp;“(4) consult technical standardization organizations responsible for measurement methods such as the Society of Automotive Engineers, the International Organization for Standardization, and the United Nations Economic Commission for Europe, World Forum for Harmonization of Vehicle Regulations.
+
+“(e)
+
+Required Study and Report to Congress.—Not later than 48 months after the date of enactment of this Act, the Secretary shall complete a study and report to Congress as to whether there exists a safety need to apply the motor vehicle safety standard required by subsection (a) to conventional motor vehicles. In the event that the Secretary determines there exists a safety need, the Secretary shall initiate rulemaking under section 30111 of title 49, United States Code, to extend the standard to conventional motor vehicles.
+
+#### “SEC. 4. FUNDING.
+
+“Notwithstanding any other provision of law, $2,000,000 of any amounts made available to the Secretary of Transportation under under section 406 of title 23, United States Code, shall be made available to the Administrator of the National Highway Transportation Safety Administration for carrying out section 3 of this Act.”
+
 #### Child Safety Standards for Motor Vehicles
 
 Pub. L. 110–189, Feb. 28, 2008, 122 Stat. 639, provided that:
@@ -150,7 +228,7 @@ Publication of noncompliant vehicles.—
 
 &emsp;&emsp;“(A)
 
-Information submission.—Not later than 60 days after the date of the enactment of this Act \[Feb. 28, 2008\], for the current model year and annually thereafter through 2010, each motor vehicle manufacturer shall transmit to the Secretary the make and model of motor vehicles with automatictransmissions that include a ‘park’ position that do not comply with the requirements of paragraph (1).
+Information submission.—Not later than 60 days after the date of the enactment of this Act \[Feb. 28, 2008\], for the current model year and annually thereafter through 2010, each motor vehicle manufacturer shall transmit to the Secretary the make and model of motor vehicles with automatic transmissions that include a ‘park’ position that do not comply with the requirements of paragraph (1).
 
 &emsp;&emsp;“(B)
 

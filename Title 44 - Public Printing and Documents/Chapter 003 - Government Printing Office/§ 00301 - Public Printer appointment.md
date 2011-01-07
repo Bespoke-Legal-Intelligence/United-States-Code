@@ -12,5 +12,5 @@ Changes are made in phraseology.
 
 #### Amendments
 
-1972—Pub. L. 92–310 struck out “; bond” in section catchline, and provisions from text which required the Public Printer to give a bond in the sum of $25,000.
+<b>1972</b>—Pub. L. 92–310 struck out “; bond” in section catchline, and provisions from text which required the Public Printer to give a bond in the sum of $25,000.
 

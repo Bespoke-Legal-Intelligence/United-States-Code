@@ -46,7 +46,7 @@ Standards for making grants.—Grants under this section for construction shall 
 
 &emsp;(3)
 
-Limitation on available amounts.—A grant for the construction or equipment of any component of a demonstration health project shall not be more than 80 percent of the cost.
+Limitation on available amounts.—A grant for the construction or equipment of anycomponent of a demonstration health project shall not be more than 80 percent of the cost.
 
 &emsp;(4)
 
@@ -202,7 +202,7 @@ The Social Security Act, referred to in subsec. (d)(3), (5), is act Aug. 14, 193
 
 #### Amendments
 
-2008—Subsec. (d)(2). Pub. L. 110–371, §2(b)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “Grants under this section for the operation (including initial operating amounts andoperating deficits, which include the cost of attracting, training, and retaining qualified personnel) of a demonstration health project, whether or not constructed with amounts authorized by this section, may be made for up to 50 percent of the cost of that operation (or 80 percent of the cost of that operation for a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title).”
+<b>2008</b>—Subsec. (d)(2). Pub. L. 110–371, §2(b)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “Grants under this section for the operation (including initial operating amounts and operating deficits, which include the cost of attracting, training, and retaining qualified personnel) of a demonstration health project, whether or not constructed with amounts authorized by this section, may be made for up to 50 percent of the cost of that operation (or 80 percent of the cost of that operation for a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title).”
 
 Subsec. (f)(1). Pub. L. 110–371, §2(b)(2)(A), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 

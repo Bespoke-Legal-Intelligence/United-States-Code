@@ -72,7 +72,7 @@ For purposes of this section—
 
 #### (d) Treatment of transfers of interests in portion of trust
 
-In the case of a transfer of an income or remainder interest with respect to a specified portion of the property in a trust, only such portion shall be taken into account in applying this section to such transfer.
+In the case of a transfer of an income or remainder interest with respect to a specified portion of the property in a trust, only such portionshall be taken into account in applying this section to such transfer.
 
 #### (e) Member of the family
 
@@ -82,7 +82,7 @@ For purposes of this section, the term “member of the family” shall have the
 
 #### Amendments
 
-1996—Subsec. (a)(3)(A)(i). Pub. L. 104–188, §1702(f)(11)(A)(i), (ii), (B)(i), substituted “if” for “to the extent” and “incomplete gift” for “incomplete transfer”, and struck out “or” at end.
+<b>1996</b>—Subsec. (a)(3)(A)(i). Pub. L. 104–188, §1702(f)(11)(A)(i), (ii), (B)(i), substituted “if” for “to the extent” and “incomplete gift” for “incomplete transfer”, and struck out “or” at end.
 
 Subsec. (a)(3)(A)(ii). Pub. L. 104–188, §1702(f)(11)(A)(iii), substituted “, or” for period at end.
 

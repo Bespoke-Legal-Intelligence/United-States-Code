@@ -14,7 +14,7 @@ There shall be deposited into the Fund the following, which shall constitute the
 
 #### Amendments
 
-2001—Par. (4). Pub. L. 107–107 added par. (4).
+<b>2001</b>—Par. (4). Pub. L. 107–107 added par. (4).
 
 #### Effective Date of 2001 Amendment
 

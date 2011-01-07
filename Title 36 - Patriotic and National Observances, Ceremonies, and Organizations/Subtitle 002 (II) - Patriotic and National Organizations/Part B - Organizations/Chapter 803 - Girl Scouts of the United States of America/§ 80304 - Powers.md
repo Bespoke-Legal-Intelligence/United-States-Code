@@ -32,7 +32,11 @@ Historical and Revision Notes
 
 Mar. 16, 1950, ch. 62, §§2 (words after 2d comma), 8, 64 Stat. 23, 24.
 
-&nbsp;D36:34 (last sentence).DMar. 16, 1950, ch. 62, §4 (last sentence), 64 Stat. 23; Aug. 14, 1953, ch. 486, §1, 67 Stat. 582.
+&nbsp;
+
+36:34 (last sentence).
+
+Mar. 16, 1950, ch. 62, §4 (last sentence), 64 Stat. 23; Aug. 14, 1953, ch. 486, §1, 67 Stat. 582.
 
 &nbsp;
 

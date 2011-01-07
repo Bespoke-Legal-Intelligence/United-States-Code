@@ -12,7 +12,7 @@ Not later than 12 months after May 18, 2000, the President, after consulting wit
 
 In creating the Forum, the President shall meet the following requirements:
 
-&emsp;(1) The President shall direct the Secretary of Commerce, the Secretary of the Treasury, the Secretary of State, and the United States Trade Representative to host the first annual meeting with their counterparts from the governments of sub-Saharan African countries eligible under section 3703 of this title, and those sub-Saharan African countries that the President determines are taking substantial positive steps towards meeting the eligibility requirements in section 3703 of this title. The purpose of the meeting shall be to discuss expanding trade and investment relations between the United States and sub-Saharan Africa and the implementation of this chapter including encouraging joint ventures between small and large businesses. The President shall also direct the Secretaries and the United States Trade Representative to invite to the meeting representatives from appropriate sub-Saharan African regional organizations and government officials from other appropriate countries in sub-Saharan Africa.
+&emsp;(1) The President shall direct the Secretary of Commerce, the Secretary of the Treasury, the Secretary of State, and the United States Trade Representative to host the first annual meeting with their counterparts from the governments of sub-Saharan African countries eligible under section 3703 of this title, andthose sub-Saharan African countries that the President determines are taking substantial positive steps towards meeting the eligibility requirements in section 3703 of this title. The purpose of the meeting shall be to discuss expanding trade and investment relations between the United States and sub-Saharan Africa and the implementation of this chapter including encouraging joint ventures between small and large businesses. The President shall also direct the Secretaries and the United States Trade Representative to invite to the meeting representatives from appropriate sub-Saharan African regional organizations and government officials from other appropriate countries in sub-Saharan Africa.
 
 &emsp;(2)(A) The President, in consultation with the Congress, shall encourage United States nongovernmental organizations to host annual meetings with nongovernmental organizations from sub-Saharan Africa in conjunction with the annual meetings of the Forum for the purpose of discussing the issues described in paragraph (1).
 
@@ -22,7 +22,7 @@ In creating the Forum, the President shall meet the following requirements:
 
 #### (d) Dissemination of information by USIS
 
-In order to assist in carrying out the purposes of the Forum, the United States Information Service shall disseminate regularly, throughmultiple media, economic information in support of the free market economic reforms described in this chapter.
+In order to assist in carrying out the purposes of the Forum, the United States Information Service shall disseminate regularly, through multiple media, economic information in support of the free market economic reforms described in this chapter.
 
 #### (e) HIV/AIDS effect on the sub-Saharan African workforce
 

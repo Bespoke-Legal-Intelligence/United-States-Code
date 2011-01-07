@@ -32,7 +32,7 @@ General Written Assurances.—The Secretary of Transportation may approve a proj
 
 &emsp;(8) a proposal to close the airport temporarily for a nonaeronautical purpose must first be approved by the Secretary;
 
-&emsp;(9) appropriate action will be taken to ensure that terminal airspace required to protect instrument and visual operations to theairport (including operations at established minimum flight altitudes) will be cleared and protected by mitigating existing, and preventing future, airport hazards;
+&emsp;(9) appropriate action will be taken to ensure that terminal airspace required to protect instrument and visual operations to the airport (including operations at established minimum flight altitudes) will be cleared and protected by mitigating existing, and preventing future, airport hazards;
 
 &emsp;(10) appropriate action, including the adoption of zoning laws, has been or will be taken to the extent reasonable to restrict the use of land next to or near the airport to uses that are compatible with normal airport operations;
 
@@ -108,7 +108,7 @@ Written Assurances on Acquiring Land.—(1) In this subsection, land is needed f
 
 &emsp;&emsp;(i) the owner or operator will dispose of the land at fair market value at the earliest practicable time after the land no longer is needed for a noise compatibility purpose;
 
-&emsp;&emsp;(ii) the disposition will be subject to retaining or reserving an interest in the land necessary to ensure that the land will be used in a way that is compatible with noise levels associated with operating the airport; and
+&emsp;&emsp;(ii) the disposition will be subject to retaining or reserving an interest in the landnecessary to ensure that the land will be used in a way that is compatible with noise levels associated with operating the airport; and
 
 &emsp;&emsp;(iii) the part of the proceeds from disposing of the land that is proportional to the Government's share of the cost of acquiring the land will be paid to the Secretary for deposit in the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) or, as the Secretary prescribes, reinvested in an approved noise compatibility project, including the purchase of nonresidential buildings or property in the vicinity of residential buildings or property previously purchased by the airport as part of a noise compatibility program; or
 
@@ -204,7 +204,7 @@ Use of Revenue in Hawaii.—(1) In this subsection—
 
 &emsp;(B) “highway” and “Federal-aid system” have the same meanings given those terms in section 101(a) of title 23.
 
-(2) Notwithstanding subsection (b)(1) of this section, Hawaii may use, for a project for construction or reconstruction of a highway on aFederal-aid system that is not more than 10 miles by road from an airport and that will facilitate access to the airport, revenue from the sales at off-airport locations in Hawaii of duty-free merchandise under a contract between Hawaii and a duty-free sales enterprise. However, the revenue resulting during a Hawaiian fiscal year may be used only if the amount of the revenue, plus amounts Hawaii receives in the fiscal year from all other sources for costs Hawaii incurs for operating all airports it operates and for debt service related to capital projects for the airports (including interest and amortization of principal costs), is more than 150 percent of the projected costs for the fiscal year.
+(2) Notwithstanding subsection (b)(1) of this section, Hawaii may use, for a project for construction or reconstruction of a highway on a Federal-aid system that is not more than 10 miles by road from an airport and that will facilitate access to the airport, revenue from the sales at off-airport locations in Hawaii of duty-free merchandise under a contract between Hawaii and a duty-free sales enterprise. However, the revenue resulting during a Hawaiian fiscal year may be used only if the amount of the revenue, plus amounts Hawaii receives in the fiscal year from all other sources for costs Hawaii incurs for operating all airports it operates and for debt service related to capital projects for the airports (including interest and amortization of principal costs), is more than 150 percent of the projected costs for the fiscal year.
 
 (3)(A) Revenue from sales referred to in paragraph (2) of this subsection in a Hawaiian fiscal year that Hawaii may use may not be more than the amount that is greater than 150 percent as determined under paragraph (2).
 
@@ -384,9 +384,9 @@ Competitive access.—On February 1 and August 1 of each year, an airport that d
 
 &emsp;(3)
 
-Sunset provision.—This subsection shall cease to be effective beginning April 1, 2010.
+Sunset provision.—This subsection shall cease to be effective beginning April 1, 2011.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1256; Pub. L. 103–305, title I, §§111(a), (c), 112(a), Aug. 23, 1994, 108 Stat. 1573, 1574; Pub. L. 104–264, title I, §143, title VIII, §805(a), (b)(2), Oct. 9, 1996, 110 Stat. 3221, 3271, 3274; Pub. L. 104–287, §5(9), (80), Oct. 11, 1996, 110 Stat. 3389, 3397; Pub. L. 105–135, title VI, §604(h)(1), Dec. 2, 1997, 111 Stat. 2634; Pub. L. 106–181, title I, §125(a), Apr. 5, 2000, 114 Stat. 75; Pub. L. 107–217, §3(n)(7), Aug. 21, 2002, 116 Stat. 1303; Pub. L. 108–7, div. I, title III, §321(a), Feb. 20, 2003, 117 Stat. 411; Pub. L. 108–11, title II, §2702, Apr. 16, 2003, 117 Stat. 600; Pub. L. 108–176, title I, §§144, 164, 165, title IV, §424, Dec. 12, 2003, 117 Stat. 2503, 2513, 2514, 2554; Pub. L. 110–330, §5(e), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(d), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(e), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(d), Dec. 16, 2009, 123 Stat. 3032.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1256; Pub. L. 103–305, title I, §§111(a), (c), 112(a), Aug. 23, 1994, 108 Stat. 1573, 1574; Pub. L. 104–264, title I, §143, title VIII, §805(a), (b)(2), Oct. 9, 1996, 110 Stat. 3221, 3271, 3274; Pub. L. 104–287, §5(9), (80), Oct. 11, 1996, 110 Stat. 3389, 3397; Pub. L. 105–135, title VI, §604(h)(1), Dec. 2, 1997, 111 Stat. 2634; Pub. L. 106–181, title I, §125(a), Apr. 5, 2000, 114 Stat. 75; Pub. L. 107–217, §3(n)(7), Aug. 21, 2002, 116 Stat. 1303; Pub. L. 108–7, div. I, title III, §321(a), Feb. 20, 2003, 117 Stat. 411; Pub. L. 108–11, title II, §2702, Apr. 16, 2003, 117 Stat. 600; Pub. L. 108–176, title I, §§144, 164, 165, title IV, §424, Dec. 12, 2003, 117 Stat. 2503, 2513, 2514, 2554; Pub. L. 110–330, §5(e), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(d), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(e), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(d), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(d), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(d), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(d), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(d), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(e), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(d), Dec. 22, 2010, 124 Stat. 3567.)
 
 Historical and Revision Notes
 
@@ -590,7 +590,7 @@ In subsection (b)(2), the words “Paragraph (1) of this subsection does not app
 
 In subsection (c)(1), before clause (A), the words “considered to be” are omitted as surplus. In clause (B), the words “department, agency, or instrumentality of the Government” are substituted for “Federal agency” for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (c)(2), before clause (A), the words “may approve an application under this subchapter for anairport development project grant only if” are substituted for 49 App.:2208(b)(1)(E) (related to 49 App.:2210(a)(13), (14)) and “As a condition precedent to approval of an airport development project contained in a project grant application submitted under this chapter” in 49 App.:2210(a) for clarity and to eliminate unnecessary words. The words “has received or will receive” are substituted for “before, on, or after December 30, 1987” and “before, on, or after December 31, 1987” because of the restatement. In clauses (A)(ii) and (B)(ii), the words “or right” and “only” are omitted as surplus. In clause (A)(iii), the words “at the discretion of the Secretary” in 49 App.:2210(a)(13)(C) are omitted as surplus. In clause (B)(iii), the words “under this subchapter” are substituted for “at that airport or within the national airport system” for clarity and to eliminate unnecessary words.
+In subsection (c)(2), before clause (A), the words “may approve an application under this subchapter for an airport development project grant only if” are substituted for 49 App.:2208(b)(1)(E) (related to 49 App.:2210(a)(13), (14)) and “As a condition precedent to approval of an airport development project contained in a project grant application submitted under this chapter” in 49 App.:2210(a) for clarity and to eliminate unnecessary words. The words “has received or will receive” are substituted for “before, on, or after December 30, 1987” and “before, on, or after December 31, 1987” because of the restatement. In clauses (A)(ii) and (B)(ii), the words “or right” and “only” are omitted as surplus. In clause (A)(iii), the words “at the discretion of the Secretary” in 49 App.:2210(a)(13)(C) are omitted as surplus. In clause (B)(iii), the words “under this subchapter” are substituted for “at that airport or within the national airport system” for clarity and to eliminate unnecessary words.
 
 Subsection (c)(3) is added for clarity.
 
@@ -626,9 +626,9 @@ In subsection (j)(5), the words “from fee increases” and “for approval” 
 
 #### References in Text
 
-The Federal Airport Act, referred to in subsecs. (a)(13)(B) and (i), is act May 13, 1946, ch. 251, 60 Stat. 170, as amended, which was classified to chapter 14 (§1101 et seq.) of former Title 49, Transportation, prior to repeal by Pub. L. 91–258, title I, §52(a), May 21, 1970, 84 Stat. 235.
+The Federal Airport Act, referred to in subsecs. (a)(13)(B) and (i), is act May 13, 1946, ch. 251, 60 Stat. 170, which was classified to chapter 14 (§1101 et seq.) of former Title 49, Transportation, prior to repeal by Pub. L. 91–258, title I, §52(a), May 21, 1970, 84 Stat. 235.
 
-The Airport and Airway Development Act of 1970, referred to in subsecs. (a)(13)(B) and (i), is title I of Pub. L. 91–258, May 21, 1970, 84 Stat. 219, as amended, which was classified principally to chapter 25 (§1701 et seq.) of former Title 49, Transportation. Sections 1 through 30 of title I of Pub. L. 91–258, which enacted sections 1701 to 1703, 1711 to 1713, and 1714 to 1730 of former Title 49, and a provision set out as a note under section 1701 of former Title 49, were repealed by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695. Sections 31, 51, 52(a), (b)(4), (6), (c), (d), and 53 of title I of Pub. L. 91–258 were repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
+The Airport and Airway Development Act of 1970, referred to in subsecs. (a)(13)(B) and (i), is title I of Pub. L. 91–258, May 21, 1970, 84 Stat. 219, which was classified principally to chapter 25 (§1701 et seq.) of former Title 49, Transportation. Sections 1 through 30 of title I of Pub. L. 91–258, which enacted sections 1701 to 1703, 1711 to 1713, and 1714 to 1730 of former Title 49, and a provision set out as a note under section 1701 of former Title 49, were repealed by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695. Sections 31, 51, 52(a), (b)(4), (6), (c), (d), and 53 of title I of Pub. L. 91–258 were repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
 
 Section 3(p) of the Small Business Act, referred to in subsec. (e)(1), (4)(B), (6), is classified to section 632(p) of Title 15, Commerce and Trade.
 
@@ -636,15 +636,27 @@ Section 111(b) of the Federal Aviation Administration Authorization Act of 1994,
 
 #### Amendments
 
-2009—Subsec. (s)(3). Pub. L. 111–116 substituted “April 1, 2010.” for “January 1, 2010.”
+<b>2010</b>—Subsec. (s)(3). Pub. L. 111–329 substituted “April 1, 2011.” for “January 1, 2011.”
+
+Pub. L. 111–249 substituted “January 1, 2011.” for “October 1, 2010.”
+
+Pub. L. 111–216 substituted “October 1, 2010.” for “August 2, 2010.”
+
+Pub. L. 111–197 substituted “August 2, 2010.” for “July 4, 2010.”
+
+Pub. L. 111–161 substituted “July 4, 2010.” for “May 1, 2010.”
+
+Pub. L. 111–153 substituted “May 1, 2010.” for “April 1, 2010.”
+
+<b>2009</b>—Subsec. (s)(3). Pub. L. 111–116 substituted “April 1, 2010.” for “January 1, 2010.”
 
 Pub. L. 111–69 substituted “January 1, 2010.” for “October 1, 2009.”
 
 Pub. L. 111–12 substituted “October 1, 2009.” for “April 1, 2009.”
 
-2008—Subsec. (s)(3). Pub. L. 110–330 substituted “April 1, 2009” for “October 1, 2008”.
+<b>2008</b>—Subsec. (s)(3). Pub. L. 110–330 substituted “April 1, 2009” for “October 1, 2008”.
 
-2003—Subsec. (a)(21). Pub. L. 108–176, §165, added par. (21).
+<b>2003</b>—Subsec. (a)(21). Pub. L. 108–176, §165, added par. (21).
 
 Subsec. (c)(2)(A)(iii). Pub. L. 108–176, §164, inserted before semicolon at end “, including the purchase of nonresidential buildings or property in the vicinity of residential buildings or property previously purchased by the airport as part of a noise compatibility program”.
 
@@ -664,21 +676,21 @@ Subsec. (r). Pub. L. 108–7 added subsec. (r).
 
 Subsec. (s). Pub. L. 108–176, §424, added subsec. (s).
 
-2002—Subsec. (a)(17). Pub. L. 107–217 substituted “chapter 11 of title 40” for “title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.)”.
+<b>2002</b>—Subsec. (a)(17). Pub. L. 107–217 substituted “chapter 11 of title 40” for “title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.)”.
 
-2000—Subsec. (h). Pub. L. 106–181 amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “Before modifying an assurance required of a person receiving a grant under this subchapter and in effect after December 29, 1987, or to require compliance with an additional assurance from the person, the Secretary of Transportation must—
+<b>2000</b>—Subsec. (h). Pub. L. 106–181 amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “Before modifying an assurance required of a person receiving a grant under this subchapter and in effect after December 29, 1987, or to require compliance with an additional assurance from the person, the Secretary of Transportation must—
 
 &emsp;“(1) publish notice of the proposed modification in the Federal Register; and
 
 &emsp;“(2) provide an opportunity for comment on the proposal.”
 
-1997—Subsec. (e)(1). Pub. L. 105–135, §604(h)(1)(A), inserted before period at end “or qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act)”.
+<b>1997</b>—Subsec. (e)(1). Pub. L. 105–135, §604(h)(1)(A), inserted before period at end “or qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act)”.
 
 Subsec. (e)(4)(B). Pub. L. 105–135, §604(h)(1)(B), which directed the amendment of subpar. (B) by inserting before the period “or as a qualified HUBZone small business concern (as defined in section 3(p) of the Small Business Act)”, was executed by inserting the material before period at end of last sentence to reflect the probable intent of Congress.
 
 Subsec. (e)(6). Pub. L. 105–135, §604(h)(1)(C), inserted “or a qualified HUBZone small business concern (as defined in section 3(p) of the Small Business Act)” after “disadvantaged individual”.
 
-1996—Subsec. (a)(20). Pub. L. 104–264, §143, added par. (20).
+<b>1996</b>—Subsec. (a)(20). Pub. L. 104–264, §143, added par. (20).
 
 Subsec. (k). Pub. L. 104–287, §5(9), substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
 
@@ -688,13 +700,27 @@ Subsec. (<i>l</i>)(5). Pub. L. 104–264, §805(b)(2), added par. (5).
 
 Subsecs. (m) to (p). Pub. L. 104–264, §805(a), added subsecs. (m) to (p).
 
-1994—Subsec. (a)(15). Pub. L. 103–305, §111(a)(1), inserted before semicolon at end “and make such reports available to the public”.
+<b>1994</b>—Subsec. (a)(15). Pub. L. 103–305, §111(a)(1), inserted before semicolon at end “and make such reports available to the public”.
 
 Subsec. (a)(19). Pub. L. 103–305, §111(a)(2)–(4), added par. (19).
 
 Subsec. (k). Pub. L. 103–305, §111(c), added subsec. (k).
 
 Subsec. (<i>l</i>). Pub. L. 103–305, §112(a), added subsec. (<i>l</i>).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–329 effective Jan. 1, 2011, see section 5(j) of Pub. L. 111–329, set out as a note under section 40117 of this title.
+
+Amendment by Pub. L. 111–249 effective Oct. 1, 2010, see section 5(<i>l</i>) of Pub. L. 111–249, set out as a note under section 40117 of this title.
+
+Amendment by Pub. L. 111–216 effective Aug. 2, 2010, see section 104(j) of Pub. L. 111–216, set out as a note under section 40117 of this title.
+
+Amendment by Pub. L. 111–197 effective July 4, 2010, see section 5(j) of Pub. L. 111–197, set out as a note under section 40117 of this title.
+
+Amendment by Pub. L. 111–161 effective May 1, 2010, see section 5(j) of Pub. L. 111–161, set out as a note under section 40117 of this title.
+
+Amendment by Pub. L. 111–153 effective Apr. 1, 2010, see section 5(j) of Pub. L. 111–153, set out as a note under section 40117 of this title.
 
 #### Effective Date of 2009 Amendment
 
@@ -727,6 +753,10 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 #### Construction of 2000 Amendment
 
 Pub. L. 106–181, title I, §125(e), Apr. 5, 2000, 114 Stat. 76, provided that: “Nothing in any amendment made by this section \[amending this section and sections 47125, 47151, and 47153 of this title\] shall be construed to authorize the Secretary \[of Transportation\] to issue a waiver or make a modification referred to in such amendment.”
+
+#### Deemed References to Chapters 509 and 511 of Title 51
+
+General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 
 #### Diversion of Airport Revenues for Claims Related to Certain Ceded Lands
 

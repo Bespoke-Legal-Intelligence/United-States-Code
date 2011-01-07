@@ -36,7 +36,7 @@ Automated Surveillance Targeting Systems.—
 
 &emsp;(1)
 
-In general.—The Administrator shall give high priority to developing and deploying a fully enhanced safety performance analysis system that includes automated surveillance to assist the Administrator in prioritizing and targeting surveillance and inspection activities of the Federal Aviation Administration.
+In general.—The Administrator shall give high priority to developing and deployinga fully enhanced safety performance analysis system that includes automated surveillance to assist the Administrator in prioritizing and targeting surveillance and inspection activities of the Federal Aviation Administration.
 
 &emsp;(2)
 
@@ -126,7 +126,7 @@ In subsection (d)(2), the words “Not later than September 18, 1989” and “f
 
 #### Amendments
 
-1996—Subsec. (e). Pub. L. 104–264 added subsec. (e).
+<b>1996</b>—Subsec. (e). Pub. L. 104–264 added subsec. (e).
 
 #### Effective Date of 1996 Amendment
 

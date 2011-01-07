@@ -26,7 +26,7 @@ The Board of Directors of the Corporation shall be comprised as follows:
 
 &emsp;(ii) No person shall be eligible to be appointed as a special court trustee under this subparagraph who, at any time during the 30 months immediately preceding such appointment, was an officer, employee, or director of the United States Railway Association, the Corporation, or the Department of Transportation.
 
-&emsp;(3)(A) After the sale date, one director shall be elected by the public shareholders of the Corporation for each increment of 12.5 percentof the interest of the United States in the Corporation that has been sold through public offering.
+&emsp;(3)(A) After the sale date, one director shall be elected by the public shareholders of the Corporation for each increment of 12.5 percent of the interest of the United States in the Corporation that has been sold through public offering.
 
 &emsp;(B) With respect to the period ending June 30, 1987—
 

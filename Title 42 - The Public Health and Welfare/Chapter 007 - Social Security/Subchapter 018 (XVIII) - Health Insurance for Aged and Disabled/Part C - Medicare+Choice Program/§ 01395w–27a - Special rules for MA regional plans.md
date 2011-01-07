@@ -70,7 +70,7 @@ An MA regional plan shall include the following:
 
 #### (B) Notification of allowable costs under the plan
 
-&emsp;&emsp;In the case of an MA organization that offers an MA regional plan in an MA region in2006 or 2007, the organization shall notify the Secretary, before such date in the succeeding year as the Secretary specifies, of—
+&emsp;&emsp;In the case of an MA organization that offers an MA regional plan in an MA region in 2006 or 2007, the organization shall notify the Secretary, before such date in the succeeding year as the Secretary specifies, of—
 
 &emsp;&emsp;&emsp;(i) its total amount of costs that the organization incurred in providing benefits covered under the original medicare fee-for-service program option for all enrollees under the plan in the region in the year and the portion of such costs that is attributable to administrative expenses described in subparagraph (C); and
 
@@ -162,183 +162,7 @@ An MA regional plan shall include the following:
 
 &emsp;In applying paragraph (1) in the case of an MA organization that meets the requirements of section 1395w–25(a)(1) of this title with respect to more than one State in a region, the organization shall select, in a manner specified by the Secretary among such States, one State the rules of which shall apply in the case of the States described in paragraph (1)(B).
 
-#### (e) Stabilization Fund
-
-#### (1) Establishment
-
-&emsp;The Secretary shall establish under this subsection an MA Regional Plan Stabilization Fund (in this subsection referred to as the “Fund”) which shall be available for two purposes:
-
-#### (A) Plan entry
-
-&emsp;&emsp;To provide incentives to have MA regional plans offered in each MA region under paragraph (3).
-
-#### (B) Plan retention
-
-&emsp;&emsp;To provide incentives to retain MA regional plans in certain MA regions with below-national-average MA market penetration under paragraph (4).
-
-#### (2) Funding
-
-#### (A) Initial funding
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;There shall be available to the Fund, for expenditures from the Fund during 2014, $1.
-
-#### (ii) Payment from trust funds
-
-&emsp;&emsp;&emsp;Such amount shall be available to the Fund, as expenditures are made from the Fund, from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund in the proportion specified in section 1395w–23(f) of this title.
-
-#### (B) Additional funding from savings
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;There shall also be made available to the Fund, 50 percent of savings described in clause (ii).
-
-#### (ii) Savings
-
-&emsp;&emsp;&emsp;The savings described in this clause are 25 percent of the average per capita savings described in section 1395w–24(b)(4)(C) of this title for which monthly rebates are provided under section 1395w–24(b)(1)(C) of this title in the fiscal year involved that are attributable to MA regional plans.
-
-#### (iii) Availability
-
-&emsp;&emsp;&emsp;Funds made available under this subparagraph shall be transferred into a special account in the Treasury from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund in the proportion specified in section 1395w–23(f) of this title on a monthly basis.
-
-#### (C) Obligations
-
-&emsp;&emsp;Amounts in the Fund shall be available in advance of appropriations to MA regional plans in qualifying MA regions only in accordance with paragraph (5).
-
-#### (D) Ordering
-
-&emsp;&emsp;Expenditures from the Fund shall first be made from amounts made available under subparagraph (A).
-
-#### (3) Plan entry funding
-
-#### (A) In general
-
-&emsp;&emsp;Funding is available under this paragraph for a year only as follows:
-
-#### (i) National plan
-
-&emsp;&emsp;&emsp;For a national bonus payment described in subparagraph (B) for the offering by a single MA organization of an MA regional plan in each MA region in the year, but only if there was not such a plan offered in each such region in the previous year. Funding under this clause is only available with respect to any individual MA organization for a single year, but may be made available to more than one such organization in the same year.
-
-#### (ii) Regional plans
-
-&emsp;&emsp;&emsp;Subject to clause (iii), for an increased amount under subparagraph (C) for an MAregional plan offered in an MA region which did not have any MA regional plan offered in the prior year.
-
-#### (iii) Limitation on regional plan funding in case of national plan
-
-&emsp;&emsp;&emsp;In no case shall there be any payment adjustment under subparagraph (C) for a year for which a national payment adjustment is made under subparagraph (B).
-
-#### (B) National bonus payment
-
-&emsp;&emsp;The national bonus payment under this subparagraph shall—
-
-&emsp;&emsp;&emsp;(i) be available to an MA organization only if the organization offers MA regional plans in every MA region;
-
-&emsp;&emsp;&emsp;(ii) be available with respect to all MA regional plans of the organization regardless of whether any other MA regional plan is offered in any region; and
-
-&emsp;&emsp;&emsp;(iii) subject to amounts available under paragraph (5) for a year, be equal to 3 percent of the benchmark amount otherwise applicable for each MA regional plan offered by the organization.
-
-#### (C) Regional payment adjustment
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;The increased amount under this subparagraph for an MA regional plan in an MA region for a year shall be an amount, determined by the Secretary, based on the bid submitted for such plan (or plans) and shall be available to all MA regional plans offered in such region and year. Such amount may be based on the mean, mode, or median, or other measure of such bids and may vary from region to region. The Secretary may not limit the number of plans or bids in a region.
-
-#### (ii) Multi-year funding
-
-#### (I) In general
-
-&emsp;&emsp;&emsp;&emsp;Subject to amounts available under paragraph (5), funding under this subparagraph shall be available for a period determined by the Secretary.
-
-#### (II) Report
-
-&emsp;&emsp;&emsp;&emsp;If the Secretary determines that funding will be provided for a second consecutive year with respect to an MA region, the Secretary shall submit to the Congress a report that describes the underlying market dynamics in the region and that includes recommendations concerning changes in the payment methodology otherwise provided for MA regional plans under this part.
-
-#### (iii) Application to all plans in a region
-
-&emsp;&emsp;&emsp;Funding under this subparagraph with respect to an MA region shall be made available with respect to all MA regional plans offered in the region.
-
-#### (iv) Limitation on availability of plan retention funding in next year
-
-&emsp;&emsp;&emsp;If an increased amount is made available under this subparagraph with respect to an MA region for a period determined by the Secretary under clause (ii)(I), in no case shall funding be available under paragraph (4) with respect to MA regional plans offered in the region in the year following such period.
-
-#### (D) Application
-
-&emsp;&emsp;Any additional payment under this paragraph provided for an MA regional plan for a year shall be treated as if it were an addition to the benchmark amount otherwise applicable to such plan and year, but shall not be taken into account in the computation of any benchmark amount for any subsequent year.
-
-#### (4) Plan retention funding
-
-#### (A) In general
-
-&emsp;&emsp;Funding is available under this paragraph for a year with respect to MA regional plans offered in an MA region for the increased amount specified in subparagraph (B) but only if the region meets the requirements of subparagraphs (C) and (E).
-
-#### (B) Payment increase
-
-&emsp;&emsp;The increased amount under this subparagraph for an MA regional plan in an MA region for a year shall be an amount, determined by the Secretary, that does not exceed the greater of—
-
-&emsp;&emsp;&emsp;(i) 3 percent of the benchmark amount applicable in the region; or
-
-&emsp;&emsp;&emsp;(ii) such amount as (when added to the benchmark amount applicable to the region) will result in the ratio of—
-
-&emsp;&emsp;&emsp;&emsp;(I) such additional amount plus the benchmark amount computed under section 1395w–24(b)(4)(B)(i) of this title for the region and year, to the adjusted average per capita cost for the region and year, as estimated by the Secretary under section 1395mm(a)(4) of this title and adjusted as appropriate for the purpose of risk adjustment; being equal to
-
-&emsp;&emsp;&emsp;&emsp;(II) the weighted average of such benchmark amounts for all the regions and such year, to the average per capita cost for the United States and such year, as estimated by the Secretary under section 1395mm(a)(4) of this title and adjusted as appropriate for the purpose of risk adjustment.
-
-#### (C) Regional requirements
-
-&emsp;&emsp;The requirements of this subparagraph for an MA region for a year are as follows:
-
-#### (i) Notification of plan exit
-
-&emsp;&emsp;&emsp;The Secretary has received notice (in such form and manner as the Secretary specifies) before a year that one or more MA regional plans that were offered in the region in the previous year will not be offered in the succeeding year.
-
-#### (ii) Regional plans available from fewer than 2 MA organizations in the region
-
-&emsp;&emsp;&emsp;The Secretary determines that if the plans referred to in clause (i) are not offered in the year, fewer than 2 MA organizations will be offering MA regional plans in the region in the year involved.
-
-#### (iii) Percentage enrollment in MA regional plans below national average
-
-&emsp;&emsp;&emsp;For the previous year, the Secretary determines that the average percentage of MA eligible individuals residing in the region who are enrolled in MA regional plans is less than the average percentage of such individuals in the United States enrolled in such plans.
-
-#### (D) Application
-
-&emsp;&emsp;Any additional payment under this paragraph provided for an MA regional plan for a year shall be treated as if it were an addition to the benchmark amount otherwise applicable to such plan and year, but shall not be taken into account in the computation of any benchmark amount for any subsequent year.
-
-#### (E) 2-consecutive-year limitation
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;In no case shall any funding be available under this paragraph in an MA region in a period of consecutive years that exceeds 2 years.
-
-#### (ii) Report
-
-&emsp;&emsp;&emsp;If the Secretary determines that funding will be provided under this paragraph for a second consecutive year with respect to an MA region, the Secretary shall submit to the Congress a report that describes the underlying market dynamics in the region and that includes recommendations concerning changes in the payment methodology otherwise provided for MA regional plans under this part.
-
-#### (5) Funding limitation
-
-#### (A) In general
-
-&emsp;&emsp;The total amount expended from the Fund as a result of the application of this subsection through the end of a calendar year may not exceed the amount available to the Fund as of the first day of such year. For purposes of this subsection, amounts that are expended under this subchapter insofar as such amounts would not have been expended but for the application of this subsection shall be counted as amounts expended as a result of such application.
-
-#### (B) Application of limitation
-
-&emsp;&emsp;The Secretary may obligate funds from the Fund for a year only if the Secretary determines (and the Chief Actuary of the Centers for Medicare \& Medicaid Services and the appropriate budget officer certify) that there are available in the Fund at the beginning of the year sufficient amounts to cover all such obligations incurred during the year consistent with subparagraph (A). The Secretary shall take such steps, in connection with computing additional payment amounts under paragraphs (3) and (4) and including limitations on enrollment in MA regional plans receiving such payments, as will ensure that sufficient funds are available to make such payments for the entire year. Funds shall only be made available from the Fund pursuant to an apportionment made in accordance with applicable procedures.
-
-#### (6) Secretary reports
-
-&emsp;Not later than April 1 of each year (beginning in 2008), the Secretary shall submit a report to Congress and the Comptroller General of the United States that includes—
-
-&emsp;&emsp;(A) a detailed description of—
-
-&emsp;&emsp;&emsp;(i) the total amount expended as a result of the application of this subsection in the previous year compared to the total amount that would have been expended under this subchapter in the year if this subsection had not been enacted;
-
-&emsp;&emsp;&emsp;(ii) the projections of the total amount that will be expended as a result of the application of this subsection in the year in which the report is submitted compared to the total amount that would have been expended under this subchapter in the year if this subsection had not been enacted;
-
-&emsp;&emsp;&emsp;(iii) amounts remaining within the funding limitation specified in paragraph (5); and
-
-&emsp;&emsp;&emsp;(iv) the steps that the Secretary will take under paragraph (5)(B) to ensure that the application of this subsection will not cause expenditures to exceed the amount available in the Fund; and
-
-&emsp;&emsp;(B) a certification from the Chief Actuary of the Centers for Medicare \& Medicaid Services that the description provided under subparagraph (A) is reasonable, accurate, and based on generally accepted actuarial principles and methodologies.
+#### (e) Repealed. Pub. L. 111–148, title X, §10327(c)(1), Mar. 23, 2010, 124 Stat. 964
 
 #### (f) Computation of applicable MA region-specific non-drug monthly benchmark amounts
 
@@ -442,7 +266,7 @@ Instead of applying section 1395w–22(a)(2)(C) of this title with respect to an
 
 &emsp;For purposes of enabling MA organizations that offer MA regional plans to meet applicable provider access requirements under section 1395w–22 of this title with respect to such plans, the Secretary may provide for payment under this section to an essential hospital that provides inpatient hospital services to enrollees in such a plan where the MA organization offering the plan certifies to the Secretary that the organization was unable to reach an agreement between the hospital and the organization regarding provision of such services under the plan. Such payment shall be available only if—
 
-&emsp;&emsp;(A) the organization provides assurances satisfactory to the Secretary that the organization will make payment to the hospital for inpatient hospital services of an amountthat is not less than the amount that would be payable to the hospital under section 1395ww of this title with respect to such services; and
+&emsp;&emsp;(A) the organization provides assurances satisfactory to the Secretary that the organization will make payment to the hospital for inpatient hospital services of an amount that is not less than the amount that would be payable to the hospital under section 1395ww of this title with respect to such services; and
 
 &emsp;&emsp;(B) with respect to specific inpatient hospital services provided to an enrollee, the hospital demonstrates to the satisfaction of the Secretary that the hospital's costs of such services exceed the payment amount described in subparagraph (A).
 
@@ -468,15 +292,23 @@ Instead of applying section 1395w–22(a)(2)(C) of this title with respect to an
 
 &emsp;In this subsection, the term “essential hospital” means, with respect to an MA regional plan offered by an MA organization, a subsection (d) hospital (as defined in section 1395ww(d) of this title) that the Secretary determines, based upon an application filed by the organization with the Secretary, is necessary to meet the requirements referred to in paragraph (1) for such plan.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1858, as added Pub. L. 108–173, title II, §221(c), Dec. 8, 2003, 117 Stat. 2181; amended Pub. L. 109–432, div. B, title III, §301, Dec. 20, 2006, 120 Stat. 2990; Pub. L. 110–48, §3, July 18, 2007, 121 Stat. 244; Pub. L. 110–173, title I, §110, Dec. 29, 2007, 121 Stat. 2497; Pub. L. 110–275, title I, §166, July 15, 2008, 122 Stat. 2575; Pub. L. 111–8, div. G, title I, §1301(f), Mar. 11, 2009, 123 Stat. 829.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1858, as added Pub. L. 108–173, title II, §221(c), Dec. 8, 2003, 117 Stat. 2181; amended Pub. L. 109–432, div. B, title III, §301, Dec. 20, 2006, 120 Stat. 2990; Pub. L. 110–48, §3, July 18, 2007, 121 Stat. 244; Pub. L. 110–173, title I, §110, Dec. 29, 2007, 121 Stat. 2497; Pub. L. 110–275, title I, §166, July 15, 2008, 122 Stat. 2575; Pub. L. 111–8, div. G, title I, §1301(f), Mar. 11, 2009, 123 Stat. 829; Pub. L. 111–148, title III, §3201(a)(2)(C), (f)(2), title X, §10327(c)(1), Mar. 23, 2010, 124 Stat. 444, 450, 964; Pub. L. 111–152, title I, §1102(a), Mar. 30, 2010, 124 Stat. 1040.)
 
 #### Amendments
 
-2009—Subsec. (e)(7). Pub. L. 111–8 struck out par. (7) which related to biennial GAO reports to be submitted by the Comptroller General to the Secretary and Congress.
+<b>2010</b>—Subsec. (e). Pub. L. 111–148, §10327(c)(1), struck out subsec. (e) which related to the MA Regional Plan Stabilization Fund.
 
-2008—Subsec. (e)(2)(A)(i). Pub. L. 110–275 substituted “2014” for “2013” and “$1” for “$1,790,000,000”.
+Subsec. (f)(1). Pub. L. 111–148, §3201(a)(2)(C)(i), (f)(2)(A), which directed substitution of “1395w–23(j)(1)(B)” for “1395w–23(j)(2)” and “subsections (e) and (i)” for “subsection (e)”, respectively, was repealed by Pub. L. 111–152, §1102(a). See Effective Date of 2010 Amendment note below.
 
-2007—Subsec. (e)(2)(A)(i). Pub. L. 110–173, which directed substitution of “the Fund during 2013, $1,790,000,000.” for “the Fund” and all that follows, was executed by making the substitution for “the Fund—
+Subsec. (f)(3)(A). Pub. L. 111–148, §3201(a)(2)(C)(ii), which directed substitution of “1395w–23(j)(1)(A)(i)” for “1395w–23(j)(1)(A)”, was repealed by Pub. L. 111–152, §1102(a). See Effective Date of 2010 Amendment note below.
+
+Subsec. (i). Pub. L. 111–148, §3201(f)(2)(B), which directed addition of subsec. (i), was repealed by Pub. L. 111–152, §1102(a). As enacted, text read as follows: “For years beginning with 2014, the Secretary shall apply the performance bonuses under section 1395w–23(n) of this title (relating to bonuses for care coordination and management, quality performance, and new and low enrollment MA plans) to MA regional plans in a similar manner as such performance bonuses apply to MA plans under such subsection.” See Effective Date of 2010 Amendment note below.
+
+<b>2009</b>—Subsec. (e)(7). Pub. L. 111–8 struck out par. (7) which related to biennial GAO reports to be submitted by the Comptroller General to the Secretary and Congress.
+
+<b>2008</b>—Subsec. (e)(2)(A)(i). Pub. L. 110–275 substituted “2014” for “2013” and “$1” for “$1,790,000,000”.
+
+<b>2007</b>—Subsec. (e)(2)(A)(i). Pub. L. 110–173, which directed substitution of “the Fund during 2013, $1,790,000,000.” for “the Fund” and all that follows, was executed by making the substitution for “the Fund—
 
 &emsp;“(I) during 2012, $1,600,000,000; and
 
@@ -492,9 +324,17 @@ Pub. L. 110–48 substituted “the Fund—
 
 > for “the Fund during the period beginning on January 1, 2012, and ending on December 31, 2013, a total of $3,500,000,000.”
 
-2006—Subsec. (e)(2)(A)(i). Pub. L. 109–432 substituted “2012” for “2007” and “$3,500,000,000” for “$10,000,000,000”.
+<b>2006</b>—Subsec. (e)(2)(A)(i). Pub. L. 109–432 substituted “2012” for “2007” and “$3,500,000,000” for “$10,000,000,000”.
+
+#### Effective Date of 2010 Amendment
+
+Repeal of sections 3201 and 3203 of Pub. L. 111–148 and the amendments made by such sections, effective as if included in the enactment of Pub. L. 111–148, see section 1102(a) of Pub. L. 111–152, set out as a note under section 1395w–21 of this title.
 
 #### Effective Date
 
 Section applicable with respect to plan years beginning on or after Jan. 1, 2006, see section 223(a) of Pub. L. 108–173, set out as an Effective Date of 2003 Amendment note under section 1395w–21 of this title.
+
+#### Elimination of MA Regional Plan Stabilization Fund; Transition
+
+Pub. L. 111–148, title X, §10327(c)(2), Mar. 23, 2010, 124 Stat. 964, provided that: “Any amount contained in the MA Regional Plan Stabilization Fund as of the date of the enactment of this Act \[Mar. 23, 2010\] shall be transferred to the Federal Supplementary Medical Insurance Trust Fund.”
 

@@ -6,7 +6,7 @@ Records containing the identity of individual youths pursuant to this chapter ma
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
 
 #### Prior Provisions
 
@@ -14,7 +14,7 @@ A prior section 384 of Pub. L. 93–415 was renumbered section 386 and is classi
 
 #### Amendments
 
-1977—Pub. L. 95–115 substituted provisions relating to restrictions on disclosure and transfer of records, for provisions relating to scope, etc., of statistical report to Congress.
+<b>1977</b>—Pub. L. 95–115 substituted provisions relating to restrictions on disclosure and transfer of records, for provisions relating to scope, etc., of statistical report to Congress.
 
 #### Effective Date of 1977 Amendment
 

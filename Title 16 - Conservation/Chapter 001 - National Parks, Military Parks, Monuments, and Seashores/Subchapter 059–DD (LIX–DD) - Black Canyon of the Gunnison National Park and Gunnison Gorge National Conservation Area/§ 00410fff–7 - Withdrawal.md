@@ -4,11 +4,3 @@ Subject to valid existing rights, the Federal lands identified on the Map as “
 
 (Pub. L. 106–76, §9, Oct. 21, 1999, 113 Stat. 1131.)
 
-#### References in Text
-
-The public land laws, referred to in text, are classified generally to Title 43, Public Lands.
-
-The mining laws and the mineral leasing laws, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
-
-Geothermal leasing laws, referred to in text, are classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining.
-

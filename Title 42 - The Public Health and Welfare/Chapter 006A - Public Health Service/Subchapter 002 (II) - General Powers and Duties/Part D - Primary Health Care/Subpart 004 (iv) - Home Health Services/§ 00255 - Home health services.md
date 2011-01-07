@@ -76,7 +76,7 @@ Another prior section 339 of act July 1, 1944, ch. 373, title III, formerly §33
 
 #### Amendments
 
-1984—Subsecs. (a)(5), (b)(5). Pub. L. 98–555 inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1985, 1986, and 1987.
+<b>1984</b>—Subsecs. (a)(5), (b)(5). Pub. L. 98–555 inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1985, 1986, and 1987.
 
 #### Change of Name
 

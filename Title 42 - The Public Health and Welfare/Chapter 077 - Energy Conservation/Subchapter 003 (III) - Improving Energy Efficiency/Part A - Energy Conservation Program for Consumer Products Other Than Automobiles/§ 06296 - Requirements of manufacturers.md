@@ -32,7 +32,7 @@ Each manufacturer shall use labels reflecting the range data required to be disc
 
 #### (d) Information requirements
 
-(1) For purposes of carrying out this part, the Secretary may require, under this part or other provision of law administered by the Secretary, each manufacturer of a covered product to submit information or reports to the Secretary with respect to energy efficiency, energy use, or, in the case of showerheads, faucets, water closets, and urinals, water use of such covered product and the economic impact of any proposedenergy conservation standard, as the Secretary determines may be necessary to establish and revise test procedures, labeling rules, and energy conservation standards for such product and to insure compliance with the requirements of this part. In making any determination under this paragraph, the Secretary shall consider existing public sources of information, including nationally recognized certification programs of trade associations.
+(1) For purposes of carrying out this part, the Secretary may require, under this part or other provision of law administered by the Secretary,each manufacturer of a covered product to submit information or reports to the Secretary with respect to energy efficiency, energy use, or, in the case of showerheads, faucets, water closets, and urinals, water use of such covered product and the economic impact of any proposed energy conservation standard, as the Secretary determines may be necessary to establish and revise test procedures, labeling rules, and energy conservation standards for such product and to insure compliance with the requirements of this part. In making any determination under this paragraph, the Secretary shall consider existing public sources of information, including nationally recognized certification programs of trade associations.
 
 (2) The Secretary shall exercise authority under this section in a manner designed to minimize unnecessary burdens on manufacturers of covered products.
 
@@ -42,11 +42,11 @@ Each manufacturer shall use labels reflecting the range data required to be disc
 
 #### Amendments
 
-1992—Subsec. (b)(4). Pub. L. 102–486, §123(g)(1), inserted “or water use” after “consumption”.
+<b>1992</b>—Subsec. (b)(4). Pub. L. 102–486, §123(g)(1), inserted “or water use” after “consumption”.
 
 Subsec. (d)(1). Pub. L. 102–486, §123(g)(2), substituted “, energy use, or, in the case of showerheads, faucets, water closets, and urinals, water use” for “or energy use”.
 
-1987—Subsec. (a). Pub. L. 100–12, §11(b)(3)(A), inserted heading.
+<b>1987</b>—Subsec. (a). Pub. L. 100–12, §11(b)(3)(A), inserted heading.
 
 Subsec. (b). Pub. L. 100–12, §11(b)(3)(B), inserted heading.
 
@@ -56,7 +56,7 @@ Subsec. (c). Pub. L. 100–12, §11(b)(3)(C), inserted heading.
 
 Subsec. (d). Pub. L. 100–12, §6, inserted “Information requirements” as heading and amended text generally. Prior to amendment, text read as follows: “For purposes of carrying out this part, the Secretary may require, under authority otherwise available to him under this part or other provisions of law administered by him, each manufacturer of covered products to submit such information or reports of any kind or nature directly to the Secretary with respect to energy efficiency of such covered products, and with respect to the economic impact of any proposed energy efficiency standard, as the Secretary determines may be necessary to establish and revise test procedures, labeling rules, and energy efficiency standards for such products and to insure compliance with the requirements of this part. The provisions of section 796(d) of title 15 shall apply with respect to information obtained under this subsection to the same extent and in the same manner as it applies with respect to energy information obtained under section 796 of title 15.”
 
-1978—Subsec. (b)(1). Pub. L. 95–619, §425(d)(2), inserted requirement that manufacturers of covered products give notice to the Secretary of models affected by rules promulgated under section 6294 of this title and expanded the notice requirement itself to include models manufactured more than sixty days after the date a particular rule takes effect.
+<b>1978</b>—Subsec. (b)(1). Pub. L. 95–619, §425(d)(2), inserted requirement that manufacturers of covered products give notice to the Secretary of models affected by rules promulgated under section 6294 of this title and expanded the notice requirement itself to include models manufactured more than sixty days after the date a particular rule takes effect.
 
 Subsec. (b)(2). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration.
 

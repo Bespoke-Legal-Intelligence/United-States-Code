@@ -18,7 +18,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Amendments
 
-1963—Pub. L. 88–200 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1963</b>—Pub. L. 88–200 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Delegation of Functions
 

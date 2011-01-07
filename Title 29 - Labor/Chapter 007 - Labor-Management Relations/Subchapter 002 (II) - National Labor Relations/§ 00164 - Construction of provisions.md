@@ -22,9 +22,9 @@ In subsec. (c)(1), “subchapter II of chapter 5 of title 5” substituted for �
 
 #### Amendments
 
-1959—Subsec. (c). Pub. L. 86–257 added subsec. (c).
+<b>1959</b>—Subsec. (c). Pub. L. 86–257 added subsec. (c).
 
-1947—Act June 23, 1947, amended section generally by inserting new subject matter. Section formerly referred to conflict of laws, see section 165 of this title.
+<b>1947</b>—Act June 23, 1947, amended section generally by inserting new subject matter. Section formerly referred to conflict of laws, see section 165 of this title.
 
 #### Effective Date of 1947 Amendment
 

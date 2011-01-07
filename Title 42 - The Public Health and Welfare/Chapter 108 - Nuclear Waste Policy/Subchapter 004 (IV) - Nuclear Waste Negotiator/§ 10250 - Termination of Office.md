@@ -10,5 +10,5 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 #### Amendments
 
-1992—Pub. L. 102–486 substituted “7 years” for “5 years”.
+<b>1992</b>—Pub. L. 102–486 substituted “7 years” for “5 years”.
 

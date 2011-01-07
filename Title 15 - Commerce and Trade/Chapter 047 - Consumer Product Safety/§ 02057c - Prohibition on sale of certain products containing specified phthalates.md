@@ -56,7 +56,7 @@ A violation of subsection (a) or (b)(1) or any rule promulgated by the Commissio
 
 #### (d) Treatment as consumer product safety standards; effect on State laws
 
-Subsections (a) and (b)(1) and any rule promulgated under subsection (b)(3) shall be considered consumer product safety standards under the Consumer Product Safety Act \[15 U.S.C. 2051 et seq.\]. Nothing in this section or the Consumer Product Safety Act (15 U.S.C. 2051 et seq.) shall be construed to preempt or otherwise affect any State requirement with respect to any phthalate alternative not specifically regulated in a consumer product safety standard under the Consumer Product Safety Act.
+Subsections (a) and (b)(1) and any rule promulgated under subsection (b)(3) shall be consideredconsumer product safety standards under the Consumer Product Safety Act \[15 U.S.C. 2051 et seq.\]. Nothing in this section or the Consumer Product Safety Act (15 U.S.C. 2051 et seq.) shall be construed to preempt or otherwise affect any State requirement with respect to any phthalate alternative not specifically regulated in a consumer product safety standard under the Consumer Product Safety Act.
 
 #### (e) Definitions
 

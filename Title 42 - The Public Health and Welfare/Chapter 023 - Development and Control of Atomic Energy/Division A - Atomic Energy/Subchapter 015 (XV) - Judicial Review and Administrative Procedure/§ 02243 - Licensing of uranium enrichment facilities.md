@@ -60,13 +60,15 @@ No license or certificate of compliance may be issued to the United States Enric
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(1), is Pub. L. 91–190, Jan. 1, 1970,83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
 #### Amendments
 
-1996—Subsec. (f). Pub. L. 104–134 added subsec. (f).
+<b>1996</b>—Subsec. (f). Pub. L. 104–134 added subsec. (f).
 
 #### References to United States Enrichment Corporation
 
 References to the United States Enrichment Corporation deemed, as of the privatization date (July 28, 1998), to be references to the private corporation, see section 3116(e) of Pub. L. 104–134, set out as a note under former section 2297 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

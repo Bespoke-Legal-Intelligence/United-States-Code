@@ -10,7 +10,7 @@ The Secretary shall, directly or through contracts with public and nonprofit pri
 
 &emsp;The Secretary shall conduct a study for the purpose of determining—
 
-&emsp;&emsp;(A) an estimate of the annual number of infants and young children relinquished, abandoned, or found deceased in the UnitedStates and the number of such infants and young children who are infants and young children described in section 5117aa–11(b) of this title;
+&emsp;&emsp;(A) an estimate of the annual number of infants and young children relinquished, abandoned, or found deceased in the United States and the number of such infants and young children who are infants and young children described in section 5117aa–11(b) of this title;
 
 &emsp;&emsp;(B) an estimate of the annual number of infants and young children who are victims of homicide;
 
@@ -30,9 +30,9 @@ The Secretary shall evaluate and report on effective methods of intervening befo
 
 #### Amendments
 
-2003—Pub. L. 108–36 amended section generally. Prior to amendment, text consisted of subsecs. (a) to (d) relating to evaluations of demonstration projects, dissemination of information on assistance programs to individuals with special needs, a study and report on the estimated number of abandoned children to be completed by Apr. 1, 1992, and a study and report on effective care methods to be completed by Apr. 1, 1991.
+<b>2003</b>—Pub. L. 108–36 amended section generally. Prior to amendment, text consisted of subsecs. (a) to (d) relating to evaluations of demonstration projects, dissemination of information on assistance programs to individuals with special needs, a study and report on the estimated number of abandoned children to be completed by Apr. 1, 1992, and a study and report on effective care methods to be completed by Apr. 1, 1991.
 
-1991—Subsec. (b). Pub. L. 102–236, §4(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
+<b>1991</b>—Subsec. (b). Pub. L. 102–236, §4(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 102–236, §4(a)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 

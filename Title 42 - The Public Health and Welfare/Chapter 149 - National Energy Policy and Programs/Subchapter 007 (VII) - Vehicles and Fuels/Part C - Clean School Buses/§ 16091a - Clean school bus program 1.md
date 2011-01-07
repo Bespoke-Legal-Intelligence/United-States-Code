@@ -86,7 +86,7 @@ In this section, the following definitions apply:
 
 #### (A) In general
 
-&emsp;&emsp;All school buses acquired or retrofitted with funds provided under this section shall be operated as part of the school bus fleet for which the grant was made for not less than 5 years.
+&emsp;&emsp;All school buses acquired or retrofitted with funds provided under this section shallbe operated as part of the school bus fleet for which the grant was made for not less than 5 years.
 
 #### (B) Maintenance, operation, and fueling
 
@@ -128,7 +128,7 @@ In this section, the following definitions apply:
 
 &emsp;&emsp;In the case of a grant recipient receiving a grant for the acquisition of ultra-low sulfur diesel fuel school buses with engines manufactured in model year 2005 or 2006, the grant recipient shall provide, to the satisfaction of the Administrator—
 
-&emsp;&emsp;&emsp;(i) documentation that diesel fuel containing sulfur at not more than 15 partsper million is available for carrying out the purposes of the grant; and
+&emsp;&emsp;&emsp;(i) documentation that diesel fuel containing sulfur at not more than 15 parts per million is available for carrying out the purposes of the grant; and
 
 &emsp;&emsp;&emsp;(ii) a commitment by the applicant to use that fuel in carrying out the purposes of the grant.
 

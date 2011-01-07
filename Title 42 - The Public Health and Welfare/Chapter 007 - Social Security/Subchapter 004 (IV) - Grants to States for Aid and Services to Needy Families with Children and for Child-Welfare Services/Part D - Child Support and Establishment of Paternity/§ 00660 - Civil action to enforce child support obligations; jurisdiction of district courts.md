@@ -6,7 +6,7 @@ The district courts of the United States shall have jurisdiction, without regard
 
 #### Amendments
 
-1984—Pub. L. 98–369 substituted “Health and Human Services” for “Health, Education, and Welfare”.
+<b>1984</b>—Pub. L. 98–369 substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
 #### Effective Date of 1984 Amendment
 

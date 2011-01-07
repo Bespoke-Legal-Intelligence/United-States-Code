@@ -34,13 +34,13 @@ Project Reports.—(1) The Secretary of Defense shall transmit to the appropriat
 
 &emsp;(ii) assess the extent and likelihood, if any, of the liability of the United States with respect to the guarantee.
 
-(4) The report shall be submitted not later than 30 days before the date on which the Secretary issues the contract solicitation or offers the conveyance or lease.
+(4) The report shall be submitted not later than 30 days before the date on which the Secretary issues the contract solicitation or offers the conveyance or lease or, if earlier, a period of 20 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title.
 
 (b)
 
 Annual Reports.—The Secretary of Defense shall include each year in the materials that the Secretary submits to Congress in support of the budget submitted by the President pursuant to section 1105 of title 31 the following:
 
-&emsp;(1) A separate report on the expenditures and receipts during the preceding fiscal year covering each of the Funds established under section 2883 of this title, including a description of the specific construction, acquisition, or improvement projects from which funds weretransferred and the privatization projects or contracts to which those funds were transferred. Each report shall also include, for each military department or defense agency, a description of all funds to be transferred to such Funds for the current fiscal year and the next fiscal year.
+&emsp;(1) A separate report on the expenditures and receipts during the preceding fiscal year covering each of the Funds established under section 2883 of this title, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred and the privatization projects or contracts to which those funds were transferred. Each report shall also include, for each military department or defense agency, a description of all funds to be transferred to such Funds for the current fiscal year and the next fiscal year.
 
 &emsp;(2) A methodology for evaluating the extent and effectiveness of the use of the authorities under this subchapter during such preceding fiscal year, and such recommendations as the Secretary considers necessary for improving the extent and effectiveness of the use of such authorities in the future.
 
@@ -70,29 +70,37 @@ Annual Reports.—The Secretary of Defense shall include each year in the materi
 
 &emsp;(8) A report identifying each family housing unit acquired or constructed under this subchapter that is used, or intended to be used, as quarters for a general officer or flag officer and for which the total operation, maintenance, and repair costs for the unit exceeded $50,000. For each housing unit so identified, the report shall also include the total of such operation, maintenance, and repair costs.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 550; amended Pub. L. 108–136, div. B, title XXVIII, §2807, Nov. 24, 2003, 117 Stat. 1722; Pub. L. 108–375, div. B, title XXVIII, §2806, Oct. 28, 2004, 118 Stat. 2122; Pub. L. 109–163, div. B, title XXVIII, §2806(c), Jan. 6, 2006, 119 Stat. 3507; Pub. L. 110–417, div. B, title XXVIII, §2805(b), (f), Oct. 14, 2008, 122 Stat. 4723, 4724.)
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 550; amended Pub. L. 108–136, div. B, title XXVIII, §2807, Nov. 24, 2003, 117 Stat. 1722; Pub. L. 108–375, div. B, title XXVIII, §2806, Oct. 28, 2004, 118 Stat. 2122; Pub. L. 109–163, div. B, title XXVIII, §2806(c), Jan. 6, 2006, 119 Stat. 3507; Pub. L. 110–417, div. B, title XXVIII, §2805(b), (f), Oct. 14, 2008, 122 Stat. 4723, 4724; Pub. L. 111–383, div. A, title X, §1075(h)(6), div. B, title XXVIII, §2803(g), Jan. 7, 2011, 124 Stat. 4377, 4459.)
 
 #### Amendments
 
-2008—Subsec. (b)(7). Pub. L. 110–417, §2805(b), added par. (7).
+<b>2011</b>—Subsec. (a)(4). Pub. L. 111–383, §2803(g), inserted before period at end “or, if earlier, a period of 20 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title”.
+
+Subsec. (b)(1). Pub. L. 111–383, §1075(h)(6), made technical correction to directory language of Pub. L. 109–163, §2806(c)(2)(A). See 2006 Amendment note below.
+
+<b>2008</b>—Subsec. (b)(7). Pub. L. 110–417, §2805(b), added par. (7).
 
 Subsec. (b)(8). Pub. L. 110–417, §2805(f), added par. (8).
 
-2006—Subsec. (a)(2)(D). Pub. L. 109–163, §2806(c)(1), inserted before period “, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred to the Funds established under section 2883 of this title in order to finance the contract, conveyance, or lease”.
+<b>2006</b>—Subsec. (a)(2)(D). Pub. L. 109–163, §2806(c)(1), inserted before period “, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred to the Funds established under section 2883 of this title in order to finance the contract, conveyance, or lease”.
 
 Subsec. (b)(1). Pub. L. 109–163, §2806(c)(2)(B), (C), substituted “covering each of the Funds” for “covering the Funds” and inserted before period at end “, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred and the privatization projects or contracts to which those funds were transferred. Each report shall also include, for each military department or defense agency, a description of all funds to be transferred to such Funds for the current fiscal year and the next fiscal year”.
 
-Pub. L. 109–163, §2806(c)(2)(A), which directed the substitution of “a separate report” for “a report”, was executed by substituting “A separate report” for “A report”, to reflect the probable intent of Congress.
+Pub. L. 109–163, §2806(c)(2)(A), as amended by Pub. L. 111–383, §1075(h)(6), substituted “A separate report” for “A report”.
 
-2004—Subsec. (a)(2). Pub. L. 108–375, §2806(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The report shall describe the proposed contract, conveyance, or lease and the intended method of participation of the United States in the contract, conveyance, or lease and provide a justification of such method of participation.”
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–375, §2806(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The report shall describe the proposed contract, conveyance, or lease and the intended method of participation of the United States in the contract, conveyance, or lease and provide a justification of such method of participation.”
 
 Subsec. (b)(5), (6). Pub. L. 108–375, §2806(b), added par. (5) and redesignated former par. (5) as (6).
 
-2003—Subsec. (a)(2) to (4). Pub. L. 108–136, §2807(a), designated second sentence of par. (2) as par. (4) and added par. (3).
+<b>2003</b>—Subsec. (a)(2) to (4). Pub. L. 108–136, §2807(a), designated second sentence of par. (2) as par. (4) and added par. (3).
 
 Subsec. (b)(2). Pub. L. 108–136, §2807(b)(1), inserted before period at end “, and such recommendations as the Secretary considers necessary for improving the extent and effectiveness of the use of such authorities in the future”.
 
 Subsec. (b)(3) to (5). Pub. L. 108–136, §2807(b)(2), added pars. (3) to (5) and struck out former par. (3) which read as follows: “A description of the objectives of the Department of Defense for providing military family housing and military unaccompanied housing for members of the armed forces.”
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–383, div. A, title X, §1075(h), Jan. 7, 2011, 124 Stat. 4377, provided that amendment by section 1075(h)(6) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
 
 #### Final Report
 

@@ -2,7 +2,7 @@
 
 #### (a) Charges, services, etc.
 
-It shall be unlawful for any common carrier to make any unjust or unreasonable discrimination in charges, practices, classifications, regulations, facilities, or services for or in connection with like communication service, directly or indirectly, by any means or device, or to make or give any undue or unreasonable preference oradvantage to any particular person, class of persons, or locality, or to subject any particular person, class of persons, or locality to any undue or unreasonable prejudice or disadvantage.
+It shall be unlawful for any common carrier to make any unjust or unreasonable discrimination in charges, practices, classifications, regulations, facilities, or services for or in connection with like communication service, directly or indirectly, by any means or device, or to make or give any undue or unreasonable preference or advantage to any particular person, class of persons, or locality, or to subject any particular person, class of persons, or locality to any undue or unreasonable prejudice or disadvantage.
 
 #### (b) Charges or services included
 
@@ -16,7 +16,7 @@ Any carrier who knowingly violates the provisions of this section shall forfeit 
 
 #### Amendments
 
-1989—Subsec. (c). Pub. L. 101–239 substituted “$6,000” for “$500” and “$300” for “$25”.
+<b>1989</b>—Subsec. (c). Pub. L. 101–239 substituted “$6,000” for “$500” and “$300” for “$25”.
 
-1960—Subsec. (b). Pub. L. 86–751 substituted “common carrier lines of communication, whether derived from wire or radio facilities,” for “wires”.
+<b>1960</b>—Subsec. (b). Pub. L. 86–751 substituted “common carrier lines of communication, whether derived from wire or radio facilities,” for “wires”.
 

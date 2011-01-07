@@ -24,7 +24,7 @@
 
 (3) A written request for guidance as described in paragraph (2) sent by certified mail (return receipt requested) shall be conclusive proof of receipt by the Department.
 
-(4) If the Secretary responds to a written request for guidance described in paragraph (2)(B)more than 90 days after its receipt, the State or local educational agency that submitted the request shall comply with the guidance received at the earliest practicable time.
+(4) If the Secretary responds to a written request for guidance described in paragraph (2)(B) more than 90 days after its receipt, the State or local educational agency that submitted the request shall comply with the guidance received at the earliest practicable time.
 
 (5) In order to demonstrate the existence of the mitigating circumstances described in paragraph (2)(B), the State or local educational agency shall demonstrate that—
 
@@ -44,7 +44,7 @@ The Secretary shall periodically review the written requests for guidance submit
 
 #### Amendments
 
-1988—Pub. L. 100–297 amended section generally, substituting provisions relating to measure of recovery for provisions relating to withholdings. See section 1234d of this title.
+<b>1988</b>—Pub. L. 100–297 amended section generally, substituting provisions relating to measure of recovery for provisions relating to withholdings. See section 1234d of this title.
 
 #### Effective Date of 1988 Amendment
 

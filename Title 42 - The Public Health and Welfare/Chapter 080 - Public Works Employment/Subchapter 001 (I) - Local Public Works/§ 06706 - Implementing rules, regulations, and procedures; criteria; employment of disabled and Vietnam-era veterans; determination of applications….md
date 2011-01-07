@@ -6,9 +6,9 @@ The Secretary shall, not later than thirty days after July 22, 1976, prescribe t
 
 #### Amendments
 
-1994—Pub. L. 103–446, which directed substitution of “section 4211(2)” for “section 4211(2)(A)” and “section 4211(1)” for “section 2011(1)”, was executed by substituting “section 4211(2)” for “section 4211(2)(A)”. Previously, “section 4211(1)” was substituted for “section 2011(1)” by Pub. L. 103–83. See 1991 Amendment note below.
+<b>1994</b>—Pub. L. 103–446, which directed substitution of “section 4211(2)” for “section 4211(2)(A)” and “section 4211(1)” for “section 2011(1)”, was executed by substituting “section 4211(2)” for “section 4211(2)(A)”. Previously, “section 4211(1)” was substituted for “section 2011(1)” by Pub. L. 103–83. See 1991 Amendment note below.
 
-1991—Pub. L. 102–83 substituted references to section 4211 of title 38 for references to section 2011 of title 38 in two places.
+<b>1991</b>—Pub. L. 102–83 substituted references to section 4211 of title 38 for references to section 2011 of title 38 in two places.
 
-1977—Pub. L. 95–28 inserted provision directing Secretary to promulgate regulations to assure special consideration to employment in projects of qualified disabled veterans and qualified Vietnam-era veterans.
+<b>1977</b>—Pub. L. 95–28 inserted provision directing Secretary to promulgate regulations to assure special consideration to employment in projects of qualified disabled veterans and qualified Vietnam-era veterans.
 

@@ -28,9 +28,9 @@ For the purpose of this chapter—
 
 #### Amendments
 
-1998—Pars. (4), (5). Pub. L. 105–384 renumbered par. (4) defining “exclusive economic zone” as par. (5) and made technical amendment to reference in original act which appears in text as reference to section 1802 of this title.
+<b>1998</b>—Pars. (4), (5). Pub. L. 105–384 renumbered par. (4) defining “exclusive economic zone” as par. (5) and made technical amendment to reference in original act which appears in text as reference to section 1802 of this title.
 
-1995—Par. (3). Pub. L. 104–43, §303(1), added par. (3). Former par. (3) redesignated (4).
+<b>1995</b>—Par. (3). Pub. L. 104–43, §303(1), added par. (3). Former par. (3) redesignated (4).
 
 Par. (4). Pub. L. 104–43, §303(2), added par. (4) defining “exclusive economic zone”. Former par. (4) redesignated (5).
 
@@ -42,9 +42,9 @@ Pub. L. 104–43, §303(1), redesignated par. (4) as (5). Former par. (5) redesi
 
 Pars. (6) to (11). Pub. L. 104–43, §303(1), redesignated pars. (5) to (10) as (6) to (11), respectively.
 
-1977—Par. (4). Pub. L. 95–33 struck out the comma between “zone” and “contiguous”, substituted “two hundred” for “200”, and substituted a semicolon for a comma after “is measured”.
+<b>1977</b>—Par. (4). Pub. L. 95–33 struck out the comma between “zone” and “contiguous”, substituted “two hundred” for “200”, and substituted a semicolon for a comma after “is measured”.
 
-1976—Par. (4). Pub. L. 94–265, which directed the substitution of “the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal state, and the outer boundary is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured,” for “the fisheries zone established pursuant to the Act of October 14, 1966 (80 Stat. 908; 16 U.S.C. 1091–1094)”, was executed by making the substitution for “the entire zone established by the United States under the Act of October 14, 1966 (80 Stat. 908; 16 U.S.C. 1091–1094)”, to reflect the probable intent of Congress.
+<b>1976</b>—Par. (4). Pub. L. 94–265, which directed the substitution of “the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal state, and the outer boundary is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured,” for “the fisheries zone established pursuant to the Act of October 14, 1966 (80 Stat. 908; 16 U.S.C. 1091–1094)”, was executed by making the substitution for “the entire zone established by the United States under the Act of October 14, 1966 (80 Stat. 908; 16 U.S.C. 1091–1094)”, to reflect the probable intent of Congress.
 
 #### Effective Date of 1976 Amendment
 

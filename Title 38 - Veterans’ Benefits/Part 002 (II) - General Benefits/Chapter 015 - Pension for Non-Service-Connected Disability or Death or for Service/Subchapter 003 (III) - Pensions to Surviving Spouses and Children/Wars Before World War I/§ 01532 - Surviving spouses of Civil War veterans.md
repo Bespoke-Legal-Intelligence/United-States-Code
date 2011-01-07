@@ -18,13 +18,13 @@
 
 &emsp;(3) for any period of time if a child was born of the marriage, or was born to them before the marriage.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1137, §532; Pub. L. 90–77, title I, §§101(a), 105, Aug. 31, 1967, 81 Stat. 178, 179; Pub. L. 94–169, title I, §106(20)–(23), Dec. 23, 1975, 89 Stat. 1018; Pub. L. 102–54, §14(b)(7), June 13, 1991, 105 Stat. 283; renumbered §1532 and amended Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 103–446, title XII, §1201(a)(2), Nov. 2, 1994, 108 Stat. 4682.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1137, §532; Pub. L. 90–77, title I, §§101(a), 105, Aug. 31, 1967, 81 Stat. 178, 179; Pub. L. 94–169, title I, §106(20)–(23), Dec. 23, 1975, 89 Stat. 1018; Pub. L.102–54, §14(b)(7), June 13, 1991, 105 Stat. 283; renumbered §1532 and amended Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 103–446, title XII, §1201(a)(2), Nov. 2, 1994, 108 Stat. 4682.)
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–446 substituted “Veterans’ Administration” for “Secretary”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–446 substituted “Veterans’ Administration” for “Secretary”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 532 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 532 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
@@ -32,7 +32,7 @@ Pub. L. 102–54 substituted a period for semicolon at end of par. (2) and struc
 
 Subsec. (c). Pub. L. 102–83, §4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-1975—Pub. L. 94–169, §106(23), substituted “Surviving spouses” for “Widows” in section catchline.
+<b>1975</b>—Pub. L. 94–169, §106(23), substituted “Surviving spouses” for “Widows” in section catchline.
 
 Subsec. (a). Pub. L. 94–169, §106(20), substituted “pay to the surviving spouse” for “pay to the widow”, “such surviving spouse” for “she” wherever appearing, “was the spouse” for “was the wife” and “such veteran's” for “his”.
 
@@ -42,7 +42,7 @@ Subsec. (c). Pub. L. 94–169, §106(21), substituted “such veteran” for “
 
 Subsec. (d). Pub. L. 94–169, §106(22), substituted “surviving spouse”, “such surviving spouse” and “such veteran” for “widow”, “she” and “him”, respectively.
 
-1967—Subsec. (a)(2). Pub. L. 90–77, §105, substituted ”$70” for “$65”.
+<b>1967</b>—Subsec. (a)(2). Pub. L. 90–77, §105, substituted ”$70” for “$65”.
 
 Subsec. (d). Pub. L. 90–77, §101(a), qualified widow of a veteran for a pension by reducing in par. (2) the requisite marriage period from five years to one year and by making her eligible for benefits in par. (3) in event of antenuptial birth.
 
@@ -52,5 +52,5 @@ Section 106 of Pub. L. 94–169 provided that the amendment made by that section
 
 #### Effective Date of 1967 Amendment
 
-Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten daysafter Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
+Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
 

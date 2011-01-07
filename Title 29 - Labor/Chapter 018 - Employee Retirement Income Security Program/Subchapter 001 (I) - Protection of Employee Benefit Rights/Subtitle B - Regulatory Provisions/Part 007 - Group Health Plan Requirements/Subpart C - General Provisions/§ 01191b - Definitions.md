@@ -182,11 +182,11 @@ The Public Health Service Act, referred to in subsec. (d)(1)(C), is act July 1, 
 
 #### Amendments
 
-2008—Subsec. (d)(5) to (9). Pub. L. 110–233 added pars. (5) to (9).
+<b>2008</b>—Subsec. (d)(5) to (9). Pub. L. 110–233 added pars. (5) to (9).
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–233 applicable with respect to group health plans for plan years beginningafter the date that is one year after May 21, 2008, see section 101(f)(2) of Pub. L. 110–233, set out as a note under section 1132 of this title.
+Amendment by Pub. L. 110–233 applicable with respect to group health plans for plan years beginning after the date that is one year after May 21, 2008, see section 101(f)(2) of Pub. L. 110–233, set out as a note under section 1132 of this title.
 
 #### Effective Date
 

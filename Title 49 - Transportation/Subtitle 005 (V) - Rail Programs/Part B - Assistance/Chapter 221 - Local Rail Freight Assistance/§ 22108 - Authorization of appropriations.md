@@ -62,9 +62,9 @@ Section 5(i) of the Department of Transportation Act, referred to in subsec. (c)
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–287 substituted “Committee on Transportation and Infrastructure” for “Committee on Energy and Commerce”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–287 substituted “Committee on Transportation and Infrastructure” for “Committee on Energy and Commerce”.
 
-1994—Subsec. (a)(3). Pub. L. 103–429 inserted “under this subsection” after “appropriated”.
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–429 inserted “under this subsection” after “appropriated”.
 
 #### Effective Date of 1994 Amendment
 
@@ -73,4 +73,6 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 11th item on page 135 identifies a reporting provision which, as subsequently amended, is contained in subsec. (b) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

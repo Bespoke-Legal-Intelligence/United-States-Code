@@ -204,7 +204,7 @@ Amount of grants.—The Secretary shall make a grant of $500,000 for each of fis
 
 (h)
 
-Support of National Strategy for Surface Transportation Research.—In order to be eligible to receive a grant under this section, a nonprofit institution of higher learning shall provide assurances satisfactory to the Secretary that the research and education activities of its university transportation center will support the national strategy for surface transportation research, as identified by—
+Support of National Strategy for Surface Transportation Research.—In order to be eligible to receive a grant under this section, a nonprofit institution of higher learning shall provide assurances satisfactory to the Secretary that the research and education activities of its university transportation center will supportthe national strategy for surface transportation research, as identified by—
 
 &emsp;(1) the report of the National Highway Research and Technology Partnership entitled “Highway Research and Technology: The Need for Greater Investment”, dated April 2002; and
 
@@ -216,7 +216,7 @@ Maintenance of Effort.—
 
 &emsp;(1)
 
-In general.—In order to be eligible to receive a grant under this section, a nonprofit institution of higher learning shall enter into an agreement with the Secretary to ensure that the institution will maintain total expenditures from all other sources to establishand operate a university transportation center and related research activities at a level at least equal to the average level of such expenditures in its 2 fiscal years prior to award of a grant under this section.
+In general.—In order to be eligible to receive a grant under this section, a nonprofit institution of higher learning shall enter into an agreement with the Secretary to ensure that the institution will maintain total expenditures from all other sources to establish and operate a university transportation center and related research activities at a level at least equal to the average level of such expenditures in its 2 fiscal years prior to award of a grant under this section.
 
 &emsp;(2)
 
@@ -254,7 +254,7 @@ Limitation on Availability of Funds.—Funds made available to carry out this se
 
 #### Amendments
 
-2008—Subsec. (c)(2)(B). Pub. L. 110–244, §111(g)(3)(A), substituted “Tier” for “tier” in introductory provisions.
+<b>2008</b>—Subsec. (c)(2)(B). Pub. L. 110–244, §111(g)(3)(A), substituted “Tier” for “tier” in introductory provisions.
 
 Subsec. (e)(5)(C). Pub. L. 110–244, §116, substituted “$2,250,000” for “$2,225,000”.
 
@@ -262,5 +262,5 @@ Subsec. (i). Pub. L. 110–244, §111(g)(3)(B), designated existing provisions a
 
 Subsec. (k)(3). Pub. L. 110–244, §111(g)(3)(C), substituted “For each of fiscal years 2008 and 2009, the Secretary shall expend not more than 1.5 percent of amounts made available to carry out this section” for “The Secretary shall expend not more than $400,000 for each of fiscal years 2005 through 2009 from amounts made available to carry out this section”.
 
-2005—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to university transportation research for provisions relating to advanced vehicle technologies program.
+<b>2005</b>—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to university transportation research for provisions relating to advanced vehicle technologies program.
 

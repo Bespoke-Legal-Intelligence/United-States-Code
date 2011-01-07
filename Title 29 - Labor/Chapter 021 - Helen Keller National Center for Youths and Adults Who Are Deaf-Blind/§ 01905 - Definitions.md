@@ -22,7 +22,7 @@ For purposes of this chapter—
 
 #### Amendments
 
-1992—Par. (1). Pub. L. 102–569, §§905(1), 908(c)(1), substituted “Youths and Adults who are Deaf-Blind” for “Deaf-Blind Youths and Adults” in two places and struck out “section 313 of the Rehabilitation Act of 1973 and continued under” after “operated pursuant to”.
+<b>1992</b>—Par. (1). Pub. L. 102–569, §§905(1), 908(c)(1), substituted “Youths and Adults who are Deaf-Blind” for “Deaf-Blind Youths and Adults” in two places and struck out “section 313 of the Rehabilitation Act of 1973 and continued under” after “operated pursuant to”.
 
 Par. (2). Pub. L. 102–569, §905(2), amended par. (2) generally, substituting present provisions for provisions defining “deaf-blind individual”.
 

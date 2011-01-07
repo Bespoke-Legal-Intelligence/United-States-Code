@@ -6,7 +6,7 @@
 
 &emsp;(A) all junction or distribution boxes used for making multiple power connections inby the last open crosscut shall be permissible;
 
-&emsp;(B) all handheld electric drills, blower and exhaust fans, electric pumps, and such other low horsepower electric face equipment as the Secretary may designate within two months after the operative date of this subchapter which are taken into or used inby the last open crosscut of any coal mine shall be permissible;
+&emsp;(B) all handheld electric drills, blower and exhaust fans, electric pumps, and such other low horsepower electric face equipment as theSecretary may designate within two months after the operative date of this subchapter which are taken into or used inby the last open crosscut of any coal mine shall be permissible;
 
 &emsp;(C) all electric face equipment which is taken into or used inby the last open crosscut of any coal mine classified under any provision of law as gassy prior to the operative date of this subchapter shall be permissible; and
 
@@ -92,7 +92,7 @@ Automatic circuit-breaking devices or fuses of the correct type and capacity sha
 
 #### (n) Disconnecting switches for main power circuits; location and installation
 
-In all main power circuits, disconnecting switches shall be installed underground within five hundred feet of the bottoms of shafts and boreholes through which main power circuits enter the underground area of the mine and within five hundred feet of all other places where main power circuits enter the underground area of the mine.
+In all main power circuits, disconnecting switches shall be installed underground withinfive hundred feet of the bottoms of shafts and boreholes through which main power circuits enter the underground area of the mine and within five hundred feet of all other places where main power circuits enter the underground area of the mine.
 
 #### (<i>o</i>) Switches
 

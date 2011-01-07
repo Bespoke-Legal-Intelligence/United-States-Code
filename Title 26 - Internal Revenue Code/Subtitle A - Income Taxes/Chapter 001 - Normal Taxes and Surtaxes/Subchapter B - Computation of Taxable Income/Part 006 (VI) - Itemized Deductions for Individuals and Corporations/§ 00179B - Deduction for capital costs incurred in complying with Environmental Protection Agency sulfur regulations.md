@@ -40,15 +40,15 @@ Section 280B shall not apply to amounts which are treated as expenses under this
 
 #### (3) Written notice to owners
 
-&emsp;If any portion of the deduction available under subsection (a) is allocated to ownersunder paragraph (1), the cooperative shall provide any owner receiving an allocation written notice of the amount of the allocation. Such notice shall be provided before the date on which the return described in paragraph (2) is due.
+&emsp;If any portion of the deduction available under subsection (a) is allocated to owners under paragraph (1), the cooperative shall provide any owner receiving an allocation written notice of the amount of the allocation. Such notice shall be provided before the date on which the return described in paragraph (2) is due.
 
 (Added Pub. L. 108–357, title III, §338(a), Oct. 22, 2004, 118 Stat. 1480; amended Pub. L. 109–58, title XIII, §1324(a), Aug. 8, 2005, 119 Stat. 1015; Pub. L. 110–172, §7(a)(3)(A), (C), Dec. 29, 2007, 121 Stat. 2482.)
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–172 substituted “qualified costs” for “qualified capital costs” and inserted “and which are properly chargeable to capital account” before period at end.
+<b>2007</b>—Subsec. (a). Pub. L. 110–172 substituted “qualified costs” for “qualified capital costs” and inserted “and which are properly chargeable to capital account” before period at end.
 
-2005—Subsec. (e). Pub. L. 109–58 added subsec. (e).
+<b>2005</b>—Subsec. (e). Pub. L. 109–58 added subsec. (e).
 
 #### Effective Date of 2007 Amendment
 

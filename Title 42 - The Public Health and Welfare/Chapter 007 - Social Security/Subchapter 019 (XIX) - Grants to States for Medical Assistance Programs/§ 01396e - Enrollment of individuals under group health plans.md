@@ -34,11 +34,11 @@ Each State plan—
 
 In this section:
 
-&emsp;(1) The term “group health plan” has the meaning given such term in section 5000(b)(1) of the Internal Revenue Code of 1986, and includes the provision of continuation coverage by such a plan pursuant to title XXII of the Public Health Service Act \[42 U.S.C. 300bb–1 et seq.\], section 4980B of the Internal Revenue Code of 1986, or title VI <sup>1</sup> of the Employee Retirement Income Security Act of 1974.
+&emsp;(1) The term “group health plan” has the meaning given such term in section 5000(b)(1) of the Internal Revenue Code of 1986, and includes the provision of continuation coverageby such a plan pursuant to title XXII of the Public Health Service Act \[42 U.S.C. 300bb–1 et seq.\], section 4980B of the Internal Revenue Code of 1986, or title VI <sup>1</sup> of the Employee Retirement Income Security Act of 1974.
 
-&emsp;(2) The term “cost-effective” means, as established by the Secretary, that the reduction in expenditures under this subchapter with respect to an individual who is enrolled in a group health plan is likely to be greater than the additional expenditures for premiums and cost-sharing required under this section with respect to such enrollment.
+&emsp;(2) The term “cost-effective” has the meaning given that term in section 1397ee(c)(3)(A) of this title.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1906, as added Pub. L. 101–508, title IV, §4402(a)(2), Nov. 5, 1990, 104 Stat. 1388–161; amended Pub. L. 105–33, title IV, §4741(b), Aug. 5, 1997, 111 Stat. 523.)
+(Aug. 14, 1935, ch. 531, title XIX, §1906, as added Pub. L. 101–508, title IV, §4402(a)(2), Nov. 5, 1990, 104 Stat. 1388–161; amended Pub. L. 105–33, title IV, §4741(b), Aug. 5, 1997, 111 Stat. 523; Pub. L. 111–148, title X, §10203(b)(1), Mar. 23, 2010, 124 Stat. 927.)
 
 #### References in Text
 
@@ -54,13 +54,19 @@ A prior section 1396e, act Aug. 14, 1935, ch. 531, title XIX, §1906, as added J
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–33, §4741(b)(1), in introductory provisions, substituted “Each” for “For purposes of section 1396a(a)(25)(G) of this title and subject to subsection (d) of this section, each” and, in pars. (1) and (2), substituted “may” for “shall”.
+<b>2010</b>—Subsec. (e)(2). Pub. L. 111–148 substituted “has the meaning given that term in section 1397ee(c)(3)(A) of this title.” for “means, as established by the Secretary, that the reduction in expenditures under this subchapter with respect to an individual who is enrolled in a group health plan is likely to be greater than the additional expenditures for premiums and cost-sharing required under this section with respect to such enrollment.”
+
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §4741(b)(1), in introductory provisions, substituted “Each” for “For purposes of section 1396a(a)(25)(G) of this title and subject to subsection (d) of this section, each” and, in pars. (1) and (2), substituted “may” for “shall”.
 
 Subsec. (d). Pub. L. 105–33, §4741(b)(2), struck out subsec. (d) which read as follows:
 
 “(1) In the case of any State which is providing medical assistance to its residents under a waiver granted under section 1315 of this title, the Secretary shall require the State to meet the requirements of this section in the same manner as the State would be required to meet such requirement if the State had in effect a plan approved under this subchapter.
 
 “(2) This section, and section 1396a(a)(25)(G) of this title, shall only apply to a State that is one of the 50 States or the District of Columbia.”
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–148, title X, §10203(b), Mar. 23, 2010, 124 Stat. 927, provided that the amendment made by section 10203(b)(1) of Pub. L. 111–148 is effective as if included in the enactment of the Children's Health Insurance Program Reauthorization Act of 2009 (Pub. L. 111–3).
 
 #### Effective Date
 

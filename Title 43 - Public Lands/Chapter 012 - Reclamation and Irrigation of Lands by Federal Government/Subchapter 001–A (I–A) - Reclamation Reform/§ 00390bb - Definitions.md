@@ -8,7 +8,7 @@ As used in this subchapter:
 
 &emsp;(3)(A) The term “full cost” means an annual rate as determined by the Secretary that shall amortize the expenditures for construction properly allocable to irrigation facilities in service, including all operation and maintenance deficits funded, less payments, over such periods as may be required under Federal reclamation law or applicable contract provisions, with interest on both accruing from October 12, 1982, on costs outstanding at that date, or from the date incurred in the case of costs arising subsequent to October 12, 1982: <i>Provided</i>, That operation, maintenance, and replacement charges required under Federal reclamation law, including this subchapter, shall be collected in addition to the full cost charge.
 
-&emsp;(B) The interest rate used for expenditures made on or before October 12, 1982, shall be determined by the Secretary of the Treasury on the basis of the weighted average yield of all interest bearing, marketable issues sold by the Treasury during the fiscal year in which the expenditures by the United States were made, but shall not be less than 71/2 per centum per annum.
+&emsp;(B) The interest rate used for expenditures made on or before October 12, 1982, shall be determined by the Secretary of the Treasury on the basis of the weighted average yield of all interest bearing, marketable issues sold by the Treasury during the fiscal year in which the expenditures by the United States were made, but shall not be less than 7½ per centum per annum.
 
 &emsp;(C) The interest rate used for expenditures made after October 12, 1982, shall be determined by the Secretary of the Treasury on the basis of the arithmetic average of—
 
@@ -20,7 +20,7 @@ As used in this subchapter:
 
 &emsp;(5) The term “irrigation water” means water made available for agricultural purposes from the operation of reclamation project facilities pursuant to a contract with the Secretary.
 
-&emsp;(6) The term “landholding” means total irrigable acreage of one or more tracts of land situated in one or more districts owned or operated under a lease which is served with irrigation water pursuant to a contract with the Secretary. In determining the extent of alandholding the Secretary shall add to any landholding held directly by a qualified or limited recipient that portion of any landholding held indirectly by such qualified or limited recipient which benefits that qualified or limited recipient in proportion to that landholding.
+&emsp;(6) The term “landholding” means total irrigable acreage of one or more tracts of land situated in one or more districts owned or operated under a lease which is served with irrigation water pursuant to a contract with the Secretary. In determining the extent of a landholding the Secretary shall add to any landholding held directly by a qualified or limited recipient that portion of any landholding held indirectly by such qualified or limited recipient which benefits that qualified or limited recipient in proportion to that landholding.
 
 &emsp;(7) The term “limited recipient” means any legal entity established under State or Federal law benefiting more than twenty-five natural persons.
 
@@ -40,5 +40,5 @@ Federal reclamation law, referred to in pars. (1), (3)(A), (8), and (10), is def
 
 #### Amendments
 
-1986—Par. (4). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Par. (4). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 

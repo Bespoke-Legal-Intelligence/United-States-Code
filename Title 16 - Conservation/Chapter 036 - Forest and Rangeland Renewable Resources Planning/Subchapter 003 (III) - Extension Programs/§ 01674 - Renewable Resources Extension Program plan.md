@@ -22,11 +22,11 @@ Subsec. (c) of this section, which required the Secretary to prepare an annual r
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–624, §1251(c), inserted before period at end “, and give special attention to water quality protection and natural resource and environmental education for landowners and managers, public officials, and the public”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–624, §1251(c), inserted before period at end “, and give special attention to water quality protection and natural resource and environmental education for landowners and managers, public officials, and the public”.
 
 Pub. L. 101–624, §1219(b)(2), substituted “for urban and community forestry activities” for “for planting and management of trees and forests in urban areas”.
 
-1988—Subsec. (a). Pub. L. 100–231, §3(1), substituted “the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate” for “Congress”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–231, §3(1), substituted “the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate” for “Congress”.
 
 Subsec. (d). Pub. L. 100–231, §3(2), added subsec. (d).
 

@@ -14,7 +14,7 @@ For purposes of this subchapter, the term—
 
 #### Amendments
 
-1990—Par. (2). Pub. L. 101–511, §8077(b), inserted at end “means the inherent power of Indian tribes, hereby recognized and affirmed, to exercise criminal jurisdiction over all Indians;”.
+<b>1990</b>—Par. (2). Pub. L. 101–511, §8077(b), inserted at end “means the inherent power of Indian tribes, hereby recognized and affirmed, to exercise criminal jurisdiction over all Indians;”.
 
 Par. (4). Pub. L. 101–511, §8077(c), added par. (4).
 

@@ -34,13 +34,13 @@ The antitrust laws, referred to in subsec. (a)(1)(B), are defined in section 12 
 
 #### Amendments
 
-1993—Subsec. (a)(5). Pub. L. 103–203 substituted “January 31” for “October 30”.
+<b>1993</b>—Subsec. (a)(5). Pub. L. 103–203 substituted “January 31” for “October 30”.
 
-1990—Pub. L. 101–588 amended section generally, completely revising it in form by substituting text divided into a subsec. (a) consisting of five numbered paragraphs and a subsec. (b) consisting of a single unnumbered paragraph for former provisions which had consisted of a series of five undesignated paragraphs, and in substance by increasing the jurisdictional threshold for application of the section to corporations from $1,000,000 in net worth to $10,000,000 in net worth, creating three “de minimis” exceptions to applications of the section in cases of insignificant competitive overlaps, and expanding the section to cover officers elected or chosen by the Board of Directors.
+<b>1990</b>—Pub. L. 101–588 amended section generally, completely revising it in form by substituting text divided into a subsec. (a) consisting of five numbered paragraphs and a subsec. (b) consisting of a single unnumbered paragraph for former provisions which had consisted of a series of five undesignated paragraphs, and in substance by increasing the jurisdictional threshold for application of the section to corporations from$1,000,000 in net worth to $10,000,000 in net worth, creating three “de minimis” exceptions to applications of the section in cases of insignificant competitive overlaps, and expanding the section to cover officers elected or chosen by the Board of Directors.
 
-1935—Act Aug. 23, 1935, amended section generally.
+<b>1935</b>—Act Aug. 23, 1935, amended section generally.
 
-1929—Act Mar. 2, 1929, amended second par.
+<b>1929</b>—Act Mar. 2, 1929, amended second par.
 
-1928—Act Mar. 9, 1928, amended second par.
+<b>1928</b>—Act Mar. 9, 1928, amended second par.
 

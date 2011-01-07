@@ -34,15 +34,15 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–132, §901(b)(1), inserted “or on, above, or below any portion of the territorial sea of the United States not within the jurisdiction of any State, Commonwealth, territory, possession, or district” after “section 7 of this title,”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–132, §901(b)(1), inserted “or on, above, or below any portion of the territorial sea of the United States not within the jurisdiction of any State, Commonwealth, territory, possession, or district” after “section 7 of this title,”.
 
 Subsec. (b)(2)(A). Pub. L. 104–294 substituted “under this title” for “of not more than $1,000”.
 
 Subsec. (c). Pub. L. 104–132, §901(b)(2), added subsec. (c).
 
-1994—Subsec. (b). Pub. L. 103–322 designated existing provisions as par. (1), substituted “Subject to paragraph (2) and for purposes” for “For purposes”, and added par. (2).
+<b>1994</b>—Subsec. (b). Pub. L. 103–322 designated existing provisions as par. (1), substituted “Subject to paragraph (2) and for purposes” for “For purposes”, and added par. (2).
 
-1988—Pub. L. 100–690 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1988</b>—Pub. L. 100–690 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1996 Amendment
 

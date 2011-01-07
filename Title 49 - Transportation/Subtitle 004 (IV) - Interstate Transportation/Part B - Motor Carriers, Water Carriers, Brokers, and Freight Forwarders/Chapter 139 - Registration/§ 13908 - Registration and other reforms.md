@@ -58,7 +58,7 @@ Application to Certain Intrastate Operations.—Nothing in this section requires
 
 #### Historical and Revision Notes
 
-I74Pub. L. 104–287, §5(36)(A)
+#### Pub. L. 104–287, §5(36)(A)
 
 This amends 49:13908(d)(1) for clarity and consistency.
 
@@ -76,11 +76,11 @@ The effective date of this section, referred to in subsec. (c), probably means t
 
 #### Amendments
 
-2008—Subsecs. (e), (f). Pub. L. 110–244 added subsec. (e) and redesignated former subsec. (e) as (f).
+<b>2008</b>—Subsecs. (e), (f). Pub. L. 110–244 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-2005—Pub. L. 109–59 amended heading and text of section generally. Prior to amendment, text consisted of subsecs. (a) to (e) relating to issuance of regulations to replace the current Department of Transportation identification number system, the single State registration system under section 14504, the registration system contained in this chapter, and the financial responsibility information system under section 13906 with a single, online, Federal system.
+<b>2005</b>—Pub. L. 109–59 amended heading and text of section generally. Prior to amendment, text consisted of subsecs. (a) to (e) relating to issuance of regulations to replace the current Department of Transportation identification number system, the single State registration system under section 14504, the registration system contained in this chapter, and the financial responsibility information system under section 13906 with a single, online, Federal system.
 
-1996—Subsec. (d)(1). Pub. L. 104–287, §5(36)(A), substituted “December 31, 1995” for “the day before the effective date of this section”.
+<b>1996</b>—Subsec. (d)(1). Pub. L. 104–287, §5(36)(A), substituted “December 31, 1995” for “the day before the effective date of this section”.
 
 Subsec. (e). Pub. L. 104–287, §5(36)(B), substituted “January 1, 1996” for “the effective date of this section”.
 
@@ -88,7 +88,13 @@ Subsec. (e). Pub. L. 104–287, §5(36)(B), substituted “January 1, 1996” fo
 
 Pub. L. 110–53, title XV, §1537(b), Aug. 3, 2007, 121 Stat. 467, provided that: “Not later than October 1, 2007, the Federal Motor Carrier Safety Administration shall issue final regulations to establish the Unified Carrier Registration System, as required by section 13908 of title 49, United States Code, and set fees for the unified carrier registration agreement for calendar year 2007 or subsequent calendar years to be charged to motor carriers, motor private carriers, and freight forwarders under such agreement, as required by 14504a of title 49, United States Code.”
 
+#### Deemed References to Chapters 509 and 511 of Title 51
+
+General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+
 #### Relationship to Other Laws
 
 Except as provided in sections 14504, 14504a, and 14506 of this title, subtitle C (§§4301–4308) of title IV of Pub. L. 109–59 is not intended to prohibit any State or any political subdivision of any State from enacting, imposing, or enforcing any law or regulation with respect to a motor carrier, motor private carrier, broker, freight forwarder, or leasing company that is not otherwise prohibited by law, see section 4302 of Pub. L. 109–59, set out as a note under section 13902 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

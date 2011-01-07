@@ -36,5 +36,5 @@ This section is substituted for the source provisions for consistency in the rev
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–398 substituted “Pennsylvania” for “Delaware”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398 substituted “Pennsylvania” for “Delaware”.
 

@@ -6,7 +6,7 @@ The Secretary may make grants to or enter into contracts with public or private 
 
 #### (b) Loans to public or private nonprofit corporations, etc., for necessary planning and financing expenses; interest rates; factors determinative of amount; terms and conditions of repayment
 
-The Secretary is authorized to make loans to public or private nonprofit corporations, agencies, institutions, organizations, Indian tribes, and other associations approved by him for the necessary expenses, prior to construction, of planning, and obtaining financing for, the rehabilitation or construction of housing for low-income individuals or families under any Federal, State, or local housing program which is or could be used in rural areas. Such loans shall be made without interest and shall be for the reasonable costs expected to be incurred in planning, and in obtaining financing for, such housing prior to the availability of financing, including but not limited to preliminary surveys and analyses of market needs, preliminary site engineering and architectural fees, and construction loan fees and discounts. The Secretary shall require repayment of loans made under this subsection, under such terms and conditions as he may require, upon completion of the housing or sooner.
+The Secretary is authorized to make loans to public or private nonprofit corporations, agencies, institutions, organizations, Indian tribes, and other associations approved by him for the necessary expenses, prior to construction, ofplanning, and obtaining financing for, the rehabilitation or construction of housing for low-income individuals or families under any Federal, State, or local housing program which is or could be used in rural areas. Such loans shall be made without interest and shall be for the reasonable costs expected to be incurred in planning, and in obtaining financing for, such housing prior to the availability of financing, including but not limited to preliminary surveys and analyses of market needs, preliminary site engineering and architectural fees, and construction loan fees and discounts. The Secretary shall require repayment of loans made under this subsection, under such terms and conditions as he may require, upon completion of the housing or sooner.
 
 #### (c) Repealed. Pub. L. 98–181, title V, §518(b), Nov. 30, 1983, 97 Stat. 1249
 
@@ -18,13 +18,13 @@ All funds appropriated for the purpose of subsection (b) of this section shall b
 
 #### Amendments
 
-1983—Subsec. (b). Pub. L. 98–181, §518(a), struck out provisions setting forth conditions under which any part or all of the loan is subject to cancellation.
+<b>1983</b>—Subsec. (b). Pub. L. 98–181, §518(a), struck out provisions setting forth conditions under which any part or all of the loan is subject to cancellation.
 
 Subsec. (c). Pub. L. 98–181, §518(b), struck out subsec. (c), which related to authorization of appropriations for fiscal years ending June 30, 1975, June 30, 1976, and Sept. 30, 1979, and availability of amounts.
 
-1980—Subsecs. (a), (b). Pub. L. 96–399 inserted references to Indian tribes.
+<b>1980</b>—Subsecs. (a), (b). Pub. L. 96–399 inserted references to Indian tribes.
 
-1978—Subsec. (c). Pub. L. 95–557 inserted “There are also authorized to be appropriated for the fiscal year ending September 30, 1979, not to exceed $5,000,000 for the purposes of subsection (a) of this section and not to exceed $5,000,000 for the purposes of subsection (b) of this section.”
+<b>1978</b>—Subsec. (c). Pub. L. 95–557 inserted “There are also authorized to be appropriated for the fiscal year ending September 30, 1979, not to exceed $5,000,000 for the purposes of subsection (a) of this section and not to exceed $5,000,000 for the purposes of subsection (b) of this section.”
 
 #### Housing Assistance Council
 

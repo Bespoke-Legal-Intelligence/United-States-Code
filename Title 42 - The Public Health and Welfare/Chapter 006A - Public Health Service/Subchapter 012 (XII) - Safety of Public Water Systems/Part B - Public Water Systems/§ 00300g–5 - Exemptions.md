@@ -60,7 +60,7 @@ Each State which grants an exemption under subsection (a) of this section shall 
 
 &emsp;(iii) as appropriate, propose revocations of specific exemptions or propose revised schedules for specific exempt public water systems, or both.
 
-(B) The Administrator shall provide reasonable notice and public hearing on the provisions of each notice given pursuant to subparagraph (A). After a hearing on notice pursuant to subparagraph (A), the Administrator shall (i) rescind the finding for which the notice was given and promptly notify the State of such rescission, or (ii) promulgate (with such modifications as he deems appropriate) such exemption revocations and revised schedules proposed in suchnotice as he deems appropriate. Not later than 180 days after the date a notice is given pursuant to subparagraph (A), the Administrator shall complete the hearing on the notice and take the action required by the preceding sentence.
+(B) The Administrator shall provide reasonable notice and public hearing on the provisions of each notice given pursuant to subparagraph (A). After a hearing on notice pursuant to subparagraph (A), the Administrator shall (i) rescind the finding for which the notice was given and promptly notify the State of such rescission, or (ii) promulgate (with such modifications as he deems appropriate) such exemption revocations and revised schedules proposed in such notice as he deems appropriate. Not later than 180 days after the date a notice is given pursuant to subparagraph (A), the Administrator shall complete the hearing on the notice and take the action required by the preceding sentence.
 
 (C) If a State is notified under subparagraph (A) of a finding of the Administrator made with respect to an exemption granted a public water system within that State or to a schedule prescribed pursuant to such an exemption and if before a revocation of such exemption or a revision of such schedule promulgated by the Administrator takes effect the State takes corrective action with respect to such exemption or schedule which the Administrator determines makes his finding inapplicable to such exemption or schedule, the Administrator shall rescind the application of his finding to that exemption or schedule. No exemption revocation or revised schedule may take effect before the expiration of 90 days following the date of the notice in which the revocation or revised schedule was proposed.
 
@@ -80,7 +80,7 @@ If an application for an exemption under this section is made, the State receivi
 
 #### Amendments
 
-1996—Subsec. (a)(1). Pub. L. 104–182, §117(a)(1), inserted “, including qualification of the public water system as a system serving a disadvantaged community pursuant to section 300j–12(d) of this title” after “(which may include economic factors” and “or to implement measures to develop an alternative source of water supply,” after “treatment technique requirement,”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–182, §117(a)(1), inserted “, including qualification of the public water system as a system serving a disadvantaged community pursuant to section 300j–12(d) of this title” after “(which may include economic factors” and “or to implement measures to develop an alternative source of water supply,” after “treatment technique requirement,”.
 
 Subsec. (a)(4). Pub. L. 104–182, §117(a)(2), added par. (4).
 
@@ -102,7 +102,7 @@ Subsec. (b)(2)(C). Pub. L. 104–182, §117(a)(4)(D), substituted “a populatio
 
 Subsec. (b)(2)(D). Pub. L. 104–182, §117(a)(4)(E), added subpar. (D).
 
-1986—Subsec. (b)(1). Pub. L. 99–339, §105(a)(1), substituted “at the time” for “within one year of the date”.
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–339, §105(a)(1), substituted “at the time” for “within one year of the date”.
 
 Subsec. (b)(2)(A)(i). Pub. L. 99–339, §105(a)(2), struck out “interim” before “national primary” and substituted “not later than 12 months after June 19, 1986” for “not later than January 1, 1984”.
 
@@ -118,13 +118,13 @@ Subsec. (b)(2)(C). Pub. L. 99–339, §105(a)(4), added subpar. (C).
 
 Subsec. (e). Pub. L. 99–339, §101(c)(4), substituted “300g–1(b)” for “300g–1(b)(3)”.
 
-1980—Subsec. (a)(2). Pub. L. 96–502, §4(b), substituted “treatment technique requirement, or, for a system that was not in operation by that date, only if no reasonable alternative source of drinking water is available to such new system, and” for “treatment technique requirement, and”.
+<b>1980</b>—Subsec. (a)(2). Pub. L. 96–502, §4(b), substituted “treatment technique requirement, or, for a system that was not in operation by that date, only if no reasonable alternative source of drinking water is available to such new system, and” for “treatment technique requirement, and”.
 
 Subsec. (b)(2)(A)(i). Pub. L. 96–502, §1, substituted “January 1, 1984” for “January 1, 1981”.
 
 Subsec. (b)(2)(B)(i). Pub. L. 96–502, §1, substituted “January 1, 1986” for “January 1, 1983”.
 
-1977—Subsec. (b)(1). Pub. L. 95–190 substituted “contaminant” for “containment” wherever appearing.
+<b>1977</b>—Subsec. (b)(1). Pub. L. 95–190 substituted “contaminant” for “containment” wherever appearing.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

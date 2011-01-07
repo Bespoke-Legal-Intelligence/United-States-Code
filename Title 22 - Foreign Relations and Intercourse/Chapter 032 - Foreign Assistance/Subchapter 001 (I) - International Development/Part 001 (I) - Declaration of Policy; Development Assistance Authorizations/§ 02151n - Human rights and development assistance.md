@@ -66,7 +66,7 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 &emsp;(9) wherever applicable, consolidated information regarding the commission of war crimes, crimes against humanity, and evidence of acts that may constitute genocide (as defined in article 2 of the Convention on the Prevention and Punishment of the Crime of Genocide and modified by the United States instrument of ratification to that convention and section 2(a) of the Genocide Convention Implementation Act of 1987);
 
-&emsp;(10) for each country with respect to which the report indicates that extrajudicial killings, torture, or other serious violations of human rights have occurred in the country, the extent to which the United States has taken or will take action to encourage an end to such practices in the country; and
+&emsp;(10) for each country with respect to which the report indicates that extrajudicial killings, torture, or other serious violations of human rights have occurred in the country, the extent to which the United States has taken or will take action to encourage an end to such practices in the country;
 
 &emsp;(11)(A) wherever applicable, a description of the nature and extent—
 
@@ -74,9 +74,21 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 &emsp;&emsp;(ii) that such individuals take a direct part in hostilities;
 
-&emsp;(B) what steps, if any, taken by the government of the country to eliminate such practices; and
+&emsp;(B) what steps, if any, taken by the government of the country to eliminate such practices;
 
-&emsp;(C) such other information related to the use by such government of individuals under the age of 18 as soldiers, as determined to be appropriate by the Secretary.
+&emsp;(C) such other information related to the use by such government of individuals under the age of 18 as soldiers, as determined to be appropriate by the Secretary; and
+
+&emsp;(12) wherever applicable—
+
+&emsp;&emsp;(A) a description of the status of freedom of the press, including initiatives in favor of freedom of the press and efforts to improve or preserve, as appropriate, the independence of the media, together with an assessment of progress made as a result of those efforts;
+
+&emsp;&emsp;(B) an identification of countries in which there were violations of freedom of the press, including direct physical attacks, imprisonment, indirect sources of pressure, and censorship by governments, military, intelligence, or police forces, criminal groups, or armed extremist or rebel groups; and
+
+&emsp;&emsp;(C) in countries where there are particularly severe violations of freedom of the press—
+
+&emsp;&emsp;&emsp;(i) whether government authorities of each such country participate in, facilitate, or condone such violations of the freedom of the press; and
+
+&emsp;&emsp;&emsp;(ii) what steps the government of each such country has taken to preserve the safety and independence of the media, and to ensure the prosecution of those individuals who attack or murder journalists.
 
 #### (e) Promotion of civil and political rights
 
@@ -100,7 +112,7 @@ The President is authorized and encouraged to use not less than $3,000,000 of th
 
 &emsp;&emsp;(v) What steps the government of that country has taken to assist victims of such trafficking, including efforts to prevent victims from being further victimized by traffickers, government officials, or others, grants of relief from deportation, and provision of humanitarian relief, including provision of mental and physical health care and shelter.
 
-&emsp;&emsp;(vi) Whether the government of that country is cooperating with governments of other countries to extradite traffickers when requested, or, to the extent that such cooperation would be inconsistent with the laws of such country or with extradition treaties to which such country is a party, whether the government of that country is taking all appropriate measures to modify or replace such laws and treaties so as to permit such cooperation.
+&emsp;&emsp;(vi) Whether the government of that country is cooperating with governments of other countries to extradite traffickers when requested, or, to the extent that such cooperation would be inconsistent with the laws ofsuch country or with extradition treaties to which such country is a party, whether the government of that country is taking all appropriate measures to modify or replace such laws and treaties so as to permit such cooperation.
 
 &emsp;&emsp;(vii) Whether the government of that country is assisting in international investigations of transnational trafficking networks and in other cooperative efforts to combat severe forms of trafficking in persons.
 
@@ -110,9 +122,9 @@ The President is authorized and encouraged to use not less than $3,000,000 of th
 
 &emsp;(C) Such other information relating to trafficking in persons as the Secretary of State considers appropriate.
 
-(2) In compiling data and making assessments for the purposes of paragraph (1), United Statesdiplomatic mission personnel shall consult with human rights organizations and other appropriate nongovernmental organizations.
+(2) In compiling data and making assessments for the purposes of paragraph (1), United States diplomatic mission personnel shall consult with human rights organizations and other appropriate nongovernmental organizations.
 
-(Pub. L. 87–195, pt. I, §116, as added Pub. L. 94–161, title III, §310, Dec. 20, 1975, 89 Stat. 860; amended Pub. L. 95–88, title I, §111, Aug. 3, 1977, 91 Stat. 537; Pub. L. 95–105, title I, §109(a)(2), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–424, title I, §109, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §106, title V, §504(a), Aug. 14, 1979, 93 Stat. 362, 378; Pub. L. 96–533, title III, §305, title VII, §701(a), Dec. 16, 1980, 94 Stat. 3147, 3156; Pub. L. 97–113, title III, §306, Dec. 29, 1981, 95 Stat. 1533; Pub. L. 98–164, title X, §1002(a), Nov. 22, 1983, 97 Stat. 1052; Pub. L. 99–440, title II, §202, Oct. 2, 1986, 100 Stat. 1095; Pub. L. 99–631, §1(b)(2), Nov. 7, 1986, 100 Stat. 3519; Pub. L. 100–204, title I, §127(1), Dec. 22, 1987, 101 Stat. 1342; Pub. L. 101–513, title V, §§562(d)(3), 599D, Nov. 5, 1990, 104 Stat. 2031, 2066; Pub. L. 103–149, §4(a)(3)(B), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 103–236, title I, §162(e)(1), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–319, title II, §201(a), Oct. 19, 1996, 110 Stat. 3866; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2216, Oct. 21, 1998, 112 Stat. 2681–815; Pub. L. 105–292, title I, §102(d)(1), title IV, §421(a), title V, §501(b), Oct. 27, 1998, 112 Stat. 2794, 2809, 2811; Pub. L. 106–113, div. B, §§1000(a)(2) \[title V, §597\], 1000(a)(7) \[div. A, title VIII, §806(a)\], Nov. 29, 1999, 113 Stat. 1535, 1536, 1501A–126, 1501A–471; Pub. L. 106–386, div. A, §104(a), Oct. 28, 2000, 114 Stat. 1471; Pub. L. 107–228, div. A, title VI, §§665(a), 683(a), Sept. 30, 2002, 116 Stat. 1406, 1410; Pub. L. 108–332, §6(a)(1), Oct. 16, 2004, 118 Stat. 1285.)
+(Pub. L. 87–195, pt. I, §116, as added Pub. L. 94–161, title III, §310, Dec. 20, 1975, 89 Stat. 860; amended Pub. L. 95–88, title I, §111, Aug. 3, 1977, 91 Stat. 537; Pub. L. 95–105, title I, §109(a)(2), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–424, title I, §109, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §106, title V, §504(a), Aug. 14, 1979, 93 Stat. 362, 378; Pub. L. 96–533, title III, §305, title VII, §701(a), Dec. 16, 1980, 94 Stat. 3147, 3156; Pub. L. 97–113, title III, §306, Dec. 29, 1981, 95 Stat. 1533; Pub. L. 98–164, title X, §1002(a), Nov. 22, 1983, 97 Stat. 1052; Pub. L. 99–440, title II, §202, Oct. 2, 1986, 100 Stat. 1095; Pub. L. 99–631, §1(b)(2), Nov. 7, 1986, 100 Stat. 3519; Pub. L. 100–204, title I, §127(1), Dec. 22, 1987, 101 Stat. 1342; Pub. L. 101–513, title V, §§562(d)(3), 599D, Nov. 5, 1990, 104 Stat. 2031, 2066; Pub. L. 103–149, §4(a)(3)(B), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 103–236, title I, §162(e)(1), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–319, title II, §201(a), Oct. 19, 1996, 110 Stat. 3866; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2216, Oct. 21, 1998, 112 Stat. 2681–815; Pub. L. 105–292, title I, §102(d)(1), title IV, §421(a), title V, §501(b), Oct. 27, 1998, 112 Stat. 2794, 2809, 2811; Pub. L. 106–113, div. B, §§1000(a)(2) \[title V, §597\], 1000(a)(7) \[div. A, title VIII, §806(a)\], Nov. 29, 1999, 113 Stat. 1535, 1536, 1501A–126, 1501A–471; Pub. L. 106–386, div. A, §104(a), Oct. 28, 2000, 114 Stat. 1471; Pub. L. 107–228, div. A, title VI, §§665(a), 683(a), Sept. 30, 2002, 116 Stat. 1406, 1410; Pub. L. 108–332, §6(a)(1), Oct. 16, 2004, 118 Stat. 1285; Pub. L. 111–166, §2(1), May 17, 2010, 124 Stat. 1186.)
 
 #### References in Text
 
@@ -128,19 +140,21 @@ The amendment by section 102(d)(1) of Pub. L. 105–292 was executed before the 
 
 #### Amendments
 
-2004—Subsec. (d)(8) to (11). Pub. L. 108–332 added par. (8) and redesignated former pars. (8) to (10) as (9) to (11), respectively.
+<b>2010</b>—Subsec. (d)(12). Pub. L. 111–166 added par. (12).
 
-2002—Subsec. (d)(9). Pub. L. 107–228, §665(a), added par. (9).
+<b>2004</b>—Subsec. (d)(8) to (11). Pub. L. 108–332 added par. (8) and redesignated former pars. (8) to (10) as (9) to (11), respectively.
+
+<b>2002</b>—Subsec. (d)(9). Pub. L. 107–228, §665(a), added par. (9).
 
 Subsec. (d)(10). Pub. L. 107–228, §683(a), added par. (10).
 
-2000—Subsec. (f). Pub. L. 106–386 amended subsec. (f) generally, substituting present provisions for provisions listing information required for report under subsec. (d) of this section, providing for consultation with human rights and other appropriate nongovernmental organizations in compiling data for required information, and defining “trafficking” and “victims of trafficking” for purposes of subsection.
+<b>2000</b>—Subsec. (f). Pub. L. 106–386 amended subsec. (f) generally, substituting present provisions for provisions listing information required for report under subsec. (d) of this section, providing for consultation with human rights and other appropriate nongovernmental organizations in compiling data for required information, and defining “trafficking” and “victims of trafficking” for purposes of subsection.
 
-1999—Subsec. (d)(8). Pub. L. 106–113, §1000(a)(7) \[div. A, title VIII, §806(a)\], added par. (8).
+<b>1999</b>—Subsec. (d)(8). Pub. L. 106–113, §1000(a)(7) \[div. A, title VIII, §806(a)\], added par. (8).
 
 Subsec. (f). Pub. L. 106–113, §1000(a)(2) \[title V, §597\], added subsec. (f).
 
-1998—Subsec. (c). Pub. L. 105–292, §421(a)(1), inserted “and in consultation with the Ambassador at Large for International Religious Freedom” after “Labor” in introductory provisions.
+<b>1998</b>—Subsec. (c). Pub. L. 105–292, §421(a)(1), inserted “and in consultation with the Ambassador at Large for International Religious Freedom” after “Labor” in introductory provisions.
 
 Subsec. (c)(3). Pub. L. 105–292, §421(a)(2)–(4), added par. (3).
 
@@ -156,23 +170,23 @@ Subsec. (d)(7). Pub. L. 105–277, §2216(2), redesignated par. (6) as (7). See 
 
 Subsec. (e). Pub. L. 105–292, §501(b), inserted “, including the right to free religious belief and practice” after “adherence to civil and political rights”.
 
-1996—Subsec. (d)(3) to (5). Pub. L. 104–319 added pars. (3) and (4) and redesignated former par. (3) as (5).
+<b>1996</b>—Subsec. (d)(3) to (5). Pub. L. 104–319 added pars. (3) and (4) and redesignated former par. (3) as (5).
 
-1994—Subsec. (b). Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations” in subsec. (b) relating to submittal of information to Congress.
+<b>1994</b>—Subsec. (b). Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations” in subsec. (b) relating to submittal of information to Congress.
 
 Subsec. (c). Pub. L. 103–236 substituted “Assistant Secretary of State for Democracy, Human Rights, and Labor” for “Assistant Secretary for Human Rights and Humanitarian Affairs” in introductory provisions.
 
-1993—Subsec. (e). Pub. L. 103–149 struck out “(1)” before “The President is authorized” and struck out par. (2) which authorized grants to nongovernmental organizations in South Africa promoting political, economic, social, juridical, and humanitarian efforts to foster a just society and to help victims of apartheid.
+<b>1993</b>—Subsec. (e). Pub. L. 103–149 struck out “(1)” before “The President is authorized” and struck out par. (2) which authorized grants to nongovernmental organizations in South Africa promoting political, economic, social, juridical, and humanitarian efforts to foster a just society and to help victims of apartheid.
 
-Subsecs. (f), (g). Pub. L. 103–149 struck out subsec. (f) which authorized assistance to political detainees and prisoners and support for black-led community organizations in South Africa and subsec. (g) which authorized assistance to families of victims of violence in South Africa.
+Subsecs. (f), (g). Pub. L. 103–149 struck out subsec. (f) which authorized assistance to political detainees andprisoners and support for black-led community organizations in South Africa and subsec. (g) which authorized assistance to families of victims of violence in South Africa.
 
-1990—Subsec. (b). Pub. L. 101–513, §599D, added subsec. (b) prohibiting assistance to governments failing to protect children from exploitation, abuse or conscription.
+<b>1990</b>—Subsec. (b). Pub. L. 101–513, §599D, added subsec. (b) prohibiting assistance to governments failing to protect children from exploitation, abuse or conscription.
 
 Subsec. (e)(1). Pub. L. 101–513, §562(d)(3), inserted “, part X of this subchapter,” after “available under this part” and “or under part X of this subchapter, except that funds made available under part X of this subchapter may only be used under this subsection with respect to countries in sub-Saharan Africa” before period at end of first sentence.
 
-1987—Subsec. (d). Pub. L. 100–204 added par. (2) and redesignated former par. (2) as (3).
+<b>1987</b>—Subsec. (d). Pub. L. 100–204 added par. (2) and redesignated former par. (2) as (3).
 
-1986—Subsec. (e)(2)(A). Pub. L. 99–440, §202(a), inserted authorization of appropriations of $1,500,000 for fiscal year 1986 and for each fiscal year thereafter.
+<b>1986</b>—Subsec. (e)(2)(A). Pub. L. 99–440, §202(a), inserted authorization of appropriations of $1,500,000 for fiscal year 1986 and for each fiscal year thereafter.
 
 Subsec. (f). Pub. L. 99–440, §202(b), added subsec. (f).
 
@@ -180,21 +194,21 @@ Subsec. (f)(2)(B). Pub. L. 99–631 substituted “subsection” for “paragrap
 
 Subsec. (g). Pub. L. 99–440, §202(b), added subsec. (g).
 
-1983—Subsec. (e). Pub. L. 98–164, §1002(a), designated existing provisions as par. (1), substituted “$3,000,000 of the funds made available under this part and part IV of subchapter II of this chapter for each fiscal year” for “$1,500,000 of the funds made available under this part for each of the fiscal years 1982 and 1983”, and added par. (2).
+<b>1983</b>—Subsec. (e). Pub. L. 98–164, §1002(a), designated existing provisions as par. (1), substituted “$3,000,000 of the funds made available under this part and part IV of subchapter II of this chapter for each fiscal year” for “$1,500,000 of the funds made available under this part for each of the fiscal years 1982 and 1983”, and added par. (2).
 
-1981—Subsec. (e). Pub. L. 97–113 substituted “each of the fiscal years 1982 and 1983” for “the fiscal year 1981”.
+<b>1981</b>—Subsec. (e). Pub. L. 97–113 substituted “each of the fiscal years 1982 and 1983” for “the fiscal year 1981”.
 
-1980—Subsec. (a). Pub. L. 96–533, §701(a), prohibited assistance for government of any country causing thedisappearance of persons by the abduction and clandestine detention of those persons.
+<b>1980</b>—Subsec. (a). Pub. L. 96–533, §701(a), prohibited assistance for government of any country causing the disappearance of persons by the abduction and clandestine detention of those persons.
 
 Subsec. (e). Pub. L. 96–533, §305, substituted “1981” for “1980”.
 
-1979—Subsec. (d)(1). Pub. L. 96–53, §504(a), designated existing provisions as cl. (A) and added cl. (B).
+<b>1979</b>—Subsec. (d)(1). Pub. L. 96–53, §504(a), designated existing provisions as cl. (A) and added cl. (B).
 
 Subsec. (e). Pub. L. 96–53, §106, substituted “1980” for “1979”.
 
-1978—Subsec. (e). Pub. L. 95–424 substituted “The President is authorized and encouraged to use not less than $1,500,000 of” for “Of”, and “1979” for “1978, not less than $750,000 may be used only”.
+<b>1978</b>—Subsec. (e). Pub. L. 95–424 substituted “The President is authorized and encouraged to use not less than $1,500,000 of” for “Of”, and “1979” for “1978, not less than $750,000 may be used only”.
 
-1977—Subsec. (c). Pub. L. 95–105 substituted “Assistant Secretary” for “Coordinator”.
+<b>1977</b>—Subsec. (c). Pub. L. 95–105 substituted “Assistant Secretary” for “Coordinator”.
 
 Pub. L. 95–88, §111(a), inserted references to the formulation of development assistance programs under this subchapter and the consultation of the Administrator with the Coordinator for Human Rights and Humanitarian Affairs in the introductory provisions, designated the remainder of the existing provisions as par. (1), and added par. (2).
 
@@ -238,7 +252,7 @@ Pub. L. 107–228, div. A, title VI, §702, Sept. 30, 2002, 116 Stat. 1420, prov
 
 &emsp;“(1) Improving the Government of Vietnam's commercial and criminal codes to bring them into conformity with international standards, including the repeal of the Government of Vietnam's administrative detention decree (Directive 31/CP).
 
-&emsp;“(2) Releasing political and religious activists who have been imprisoned or otherwise detained by the Government of Vietnam, and ceasing surveillance and harassment of those who have been released.
+&emsp;“(2) Releasing political and religious activists who have been imprisoned or otherwise detained by theGovernment of Vietnam, and ceasing surveillance and harassment of those who have been released.
 
 &emsp;“(3) Ending official restrictions on religious activity, including implementing the recommendations of the United Nations Special Rapporteur on Religious Intolerance.
 

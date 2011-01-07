@@ -1,7 +1,5 @@
 ### <b>\[Subchapter A—Repealed\]</b>
 
-<i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
-
 
 ---
 

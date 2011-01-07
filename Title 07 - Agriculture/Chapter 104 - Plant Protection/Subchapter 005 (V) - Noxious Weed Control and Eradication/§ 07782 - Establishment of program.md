@@ -10,7 +10,7 @@ Subject to the availability of appropriations under section 7786(a) of this titl
 
 #### (c) Agreements
 
-Subject to the availability of appropriations under section 7786(b) of this title, the Secretaryshall enter into agreements under section 7784 of this title with weed management entities to provide financial and technical assistance for the control or eradication of noxious weeds.
+Subject to the availability of appropriations under section 7786(b) of this title, the Secretary shall enter into agreements under section 7784 of this title with weed management entities to provide financial and technical assistance for the control or eradication of noxious weeds.
 
 (Pub. L. 106–224, title IV, §453, as added Pub. L. 108–412, §1, Oct. 30, 2004, 118 Stat. 2321.)
 

@@ -4,7 +4,7 @@
 
 Grant funds received under this subpart shall be used for one or more of the following:
 
-&emsp;(1) To assist parents in participating effectively in their children's education and to helptheir children meet State and local standards, such as assisting parents—
+&emsp;(1) To assist parents in participating effectively in their children's education and to help their children meet State and local standards, such as assisting parents—
 
 &emsp;&emsp;(A) to engage in activities that will improve student academic achievement, including understanding the accountability systems in place within their State educational agency and local educational agency and understanding their children's educational academic achievement in comparison to State and local standards;
 

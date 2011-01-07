@@ -13,9 +13,9 @@
 
 #### Amendments
 
-2005—Pub. L. 109–59, title III, §3002(c), Aug. 10, 2005, 119 Stat. 1545, substituted “Public” for “Mass” in item for chapter 53.
+<b>2005</b>—Pub. L. 109–59, title III, §3002(c), Aug. 10, 2005, 119 Stat. 1545, substituted “Public” for “Mass” in item for chapter 53.
 
-1998—Pub. L. 105–178, title VII, §7302(b), June 9, 1998, 112 Stat. 482, added item for chapter 61.
+<b>1998</b>—Pub. L. 105–178, title VII, §7302(b), June 9, 1998, 112 Stat. 482, added item for chapter 61.
 
 
 ---

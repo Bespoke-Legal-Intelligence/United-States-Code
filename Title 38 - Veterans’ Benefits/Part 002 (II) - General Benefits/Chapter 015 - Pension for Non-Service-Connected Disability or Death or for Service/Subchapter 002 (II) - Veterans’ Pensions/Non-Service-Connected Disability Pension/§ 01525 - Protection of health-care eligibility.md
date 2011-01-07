@@ -1,6 +1,6 @@
 ### §1525. Protection of health-care eligibility
 
-(a) In the case of a veteran whose entitlement to pension is terminated after January 31, 1985, by reason of income from work or training, the veteran shall retain for a period of three years beginning on the date of such termination all eligibility for care and services under such chapter that the veteran would have had if the veteran's entitlement to pension had not been terminated. Care and services for which such a veteran retains eligibility include, when applicable, drugs and medicines under section 1712(d) of this title.
+(a) In the case of a veteran whose entitlement to pension is terminated after January 31, 1985, by reason of income from work or training, the veteran shall retain for a period of three yearsbeginning on the date of such termination all eligibility for care and services under such chapter that the veteran would have had if the veteran's entitlement to pension had not been terminated. Care and services for which such a veteran retains eligibility include, when applicable, drugs and medicines under section 1712(d) of this title.
 
 (b) For purposes of this section, the term “terminated by reason of income from work or training” means terminated as a result of the veteran's receipt of earnings from activity performed for remuneration or with gain, but only if the veteran's annual income from sources other than such earnings would, taken alone, not result in the termination of the veteran's pension.
 
@@ -8,11 +8,11 @@
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–262, §101(e)(1)(A), substituted “section 1712(d) of this title” for “section 1712(h) of this title and special priority with respect to such care and services under clauses (5) and (6) of section 1712(i)”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–262, §101(e)(1)(A), substituted “section 1712(d) of this title” for “section 1712(h) of this title and special priority with respect to such care and services under clauses (5) and (6) of section 1712(i)”.
 
 Subsec. (b). Pub. L. 104–262, §101(e)(1)(B), substituted “remuneration” for “renumeration”.
 
-1992—Pub. L. 102–568, §403(b)(1), substituted “Protection” for “Temporary protection” in section catchline.
+<b>1992</b>—Pub. L. 102–568, §403(b)(1), substituted “Protection” for “Temporary protection” in section catchline.
 
 Subsec. (a). Pub. L. 102–568, §403(a)(1), substituted “after January 31, 1985,” for “during the program period”.
 
@@ -24,13 +24,13 @@ Subsec. (b). Pub. L. 102–568, §403(a)(2), added subsec. (b) and struck out fo
 
 Pub. L. 102–291 substituted “December 31, 1992” for “January 31, 1992” in par. (2).
 
-1991—Pub. L. 102–83, §5(a), renumbered section 525 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 525 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “1712(h)” for “612(h)” and “1712(i)” for “612(i)”.
 
-1988—Subsec. (b)(2). Pub. L. 100–687 substituted “1992” for “1989”.
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–687 substituted “1992” for “1989”.
 
-1986—Subsec. (a). Pub. L. 99–576 struck out “under section 521 of this title” after “entitlement to pension”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–576 struck out “under section 521 of this title” after “entitlement to pension”.
 
 Pub. L. 99–272 substituted “clauses (5) and (6) of section 612(i)” for “section 612(i)(5) of this title”.
 

@@ -44,7 +44,7 @@ In this section, the term “Indian tribe” has the meaning given the term in s
 
 #### (A) In general
 
-&emsp;&emsp;Any cost-sharing agreement for a study under subsection (b) of this section shall be subject to the ability of the non-Federal interest to pay.
+&emsp;&emsp;Any cost-sharing agreement for a study under subsection (b) of this section shall besubject to the ability of the non-Federal interest to pay.
 
 #### (B) Use of procedures
 
@@ -66,7 +66,7 @@ Section was enacted as part of the Water Resources Development Act of 2000, and 
 
 #### Amendments
 
-2007—Subsec. (b)(1). Pub. L. 110–114, §2011(a)(1), inserted “carry out water-related planning activities and” after “the Secretary may” in introductory provisions.
+<b>2007</b>—Subsec. (b)(1). Pub. L. 110–114, §2011(a)(1), inserted “carry out water-related planning activities and” after “the Secretary may” in introductory provisions.
 
 Subsec. (b)(1)(B). Pub. L. 110–114, §2011(a)(2), inserted “, and including lands that are within the jurisdictional area of an Oklahoma Indian tribe, as determined by the Secretary of the Interior, and are recognized by the Secretary of the Interior as eligible for trust land status under part 151 of title 25, Code of Federal Regulations” after “section 1151 of title 18”.
 

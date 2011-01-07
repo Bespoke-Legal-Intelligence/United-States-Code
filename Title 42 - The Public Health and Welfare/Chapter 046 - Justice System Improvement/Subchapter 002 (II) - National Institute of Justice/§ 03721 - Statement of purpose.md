@@ -14,13 +14,17 @@ It is the purpose of this subchapter to establish a National Institute of Justic
 
 (Pub. L. 90–351, title I, §201, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1172; amended Pub. L. 98–473, title II, §604(a), Oct. 12, 1984, 98 Stat. 2078.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 90–351, as addedby Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1167, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+
 #### Prior Provisions
 
-A prior section 3721, Pub. L. 90–351, title I, §201, June 19, 1968, 82 Stat. 198; Pub. L. 93–83, §2, Aug. 6, 1973, 87Stat. 197; Pub. L. 94–503, title I, §104, Oct. 15, 1976, 90 Stat. 2408, set out Congressional statement of purpose in providing for a program of planning grants, prior to the general amendment of this chapter by Pub. L. 96–157.
+A prior section 3721, Pub. L. 90–351, title I, §201, June 19, 1968, 82 Stat. 198; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 197; Pub. L. 94–503, title I, §104, Oct. 15, 1976, 90 Stat. 2408, set out Congressional statement of purpose in providing for a program of planning grants, prior to the general amendment of this chapter by Pub. L. 96–157.
 
 #### Amendments
 
-1984—Pub. L. 98–473 redesignated par. (5) as (4), struck out former par. (4) relating to improvement of efforts to detect, investigate, prosecute, and otherwise combat and prevent white-collar crime and public corruption, and in closing provisions struck out “to develop alternatives to judicial resolution of disputes,” after “local governments,”, and inserted “and demonstrate” after “to develop”.
+<b>1984</b>—Pub. L. 98–473 redesignated par. (5) as (4), struck out former par. (4) relating to improvement of efforts to detect, investigate, prosecute, and otherwise combat and prevent white-collar crime and public corruption, and in closing provisions struck out “to develop alternatives to judicial resolution of disputes,” after “local governments,”, and inserted “and demonstrate” after “to develop”.
 
 #### Effective Date of 1984 Amendment
 

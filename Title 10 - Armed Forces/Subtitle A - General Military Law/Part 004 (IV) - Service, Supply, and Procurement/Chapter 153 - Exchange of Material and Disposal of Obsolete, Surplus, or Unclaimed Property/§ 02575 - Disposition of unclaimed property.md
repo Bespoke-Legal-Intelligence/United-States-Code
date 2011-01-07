@@ -18,7 +18,7 @@
 
 (3) Unless a claim is filed under this subsection within 5 years after the date of the disposal of the property to which the claim relates, the claim may not be considered by a court, the Secretary of Defense (in the case of a claim filed under paragraph (1)), or the Secretary of Defense (in the case of a claim filed under paragraph (2)).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 144; Pub. L. 89–143, Aug. 28, 1965, 79 Stat. 581; Pub. L. 96–513, title V, §511(84), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 101–189, div. A, title III, §322(a), (b), title XVI, §1622(f)(1), Nov. 29, 1989, 103 Stat. 1413, 1605; Pub. L. 101–510, div. A, title XV, §1533(a)(2), Nov. 5, 1990, 104 Stat. 1733; Pub. L. 104–106, div. A, title III, §374(a), Feb. 10, 1996, 110 Stat. 281; Pub. L. 104–316, title II, §202(d), Oct. 19, 1996, 110 Stat. 3842; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 144; Pub. L. 89–143, Aug. 28, 1965, 79 Stat. 581; Pub. L. 96–513, title V, §511(84), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 101–189, div. A, title III, §322(a), (b), title XVI,§1622(f)(1), Nov. 29, 1989, 103 Stat. 1413, 1605; Pub. L. 101–510, div. A, title XV, §1533(a)(2), Nov. 5, 1990, 104 Stat. 1733; Pub. L. 104–106, div. A, title III, §374(a), Feb. 10, 1996, 110 Stat. 281; Pub. L. 104–316, title II, §202(d), Oct. 19, 1996, 110 Stat. 3842; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 Historical and Revision Notes
 
@@ -52,27 +52,27 @@ Apr. 14, 1949, ch. 50, 63 Stat. 45.
 
 5:150i.
 
-In subsection (a), the words “under such regulations as they may respectively prescribe” are substituted for 5:150h. The words “other than property subject to subsection (c)” of this section are substituted for the words “subject to the provisions of section 150i of this title”. The words “other than property subject to sections 4712, 4713, 6522, 9712, or 9713 of this title” are inserted, since uncodified section 6 of the source statute provided that the source statute for this revised section did not repeal or amend the source statutes for those revised sections. The words “that comes into” are substituted for the words “which is now or may hereafter come into”. The word “possession” is omitted as covered by the words “custody or control”. The words “However, property may not be disposed of until” are inserted for clarity. The word “find” is substituted for the words “determine and locate”. The words “until the expiration” are substituted for the words “prior to the expiration of a period”. The words “determined but not found” are substituted for the words “have or has been determined”. The words “or owners”, “or representatives”, and “sold or otherwise” are omitted as surplusage.
+In subsection (a), the words “under such regulations as they may respectively prescribe” are substituted for 5:150h. The words “other than property \* \* \* subject to subsection (c)” of this section are substituted for the words “subject to the provisions of section 150i of this title”. The words “other than property subject to sections 4712, 4713, 6522, 9712, or 9713 of this title” are inserted, since uncodified section 6 of the source statute provided that the source statute for this revised section did not repeal or amend the source statutes for those revised sections. The words “that comes into” are substituted for the words “which is now or may hereafter come into”. The word “possession” is omitted as covered by the words “custody or control”. The words “However, property may not be disposed of until” are inserted for clarity. The word “find” is substituted for the words “determine and locate”. The words “until the expiration” are substituted for the words “prior to the expiration of a period”. The words “determined but not found” are substituted for the words “have or has been determined”. The words “or owners”, “or representatives”, and “sold or otherwise” are omitted as surplusage.
 
-In subsection (b), the words “may file within five years” are substituted for the words “may be filed at any time prior to the expiration of five years”, in 5:150g, since the claim must be disallowed if not filed within that period. The words “If not filed within that period” are substituted for the words “If claims are not filed prior to the expiration of five years from the date of the disposal of the property”, in 5:150g. The words “such a claim may not be considered” are substituted for the words “they shall be barred from being acted on”, in 5:150g.
+In subsection (b), the words “may file \* \* \* within five years” are substituted for the words “may be filed \* \* \* at any time prior to the expiration of five years”, in 5:150g, since the claim must be disallowed if not filed within that period. The words “If not filed within that period” are substituted for the words “If claims are not filed prior to the expiration of five years from the date of the disposal of the property”, in 5:150g. The words “such a claim may not be considered” are substituted for the words “they shall be barred from being acted on”, in 5:150g.
 
-In subsection (c), the words “No property may except” are substituted for the words “Any property shallbe limited”. The last sentence is substituted for 5:150i (proviso).
+In subsection (c), the words “No property \* \* \* may \* \* \* except” are substituted for the words “Any property \* \* \* shall be limited”. The last sentence is substituted for 5:150i (proviso).
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1996—Subsec. (b). Pub. L. 104–106, §374(a)(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “The net proceeds from the sale of property under this section shall be covered into the Treasury as miscellaneous receipts. The owner (or the heirs, next of kin, or legal representative of the owner) may file a claim for those proceeds with the General Accounting Office within five years after the date of the disposal of the property. If not filed within that period, such a claim may not be considered by a court or the General Accounting Office.”
+<b>1996</b>—Subsec. (b). Pub. L. 104–106, §374(a)(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “The net proceeds from the sale of property under this section shall be covered into the Treasury as miscellaneous receipts. The owner (or the heirs, next of kin, or legal representative of the owner) may file a claim for those proceeds with the General Accounting Office within five years after the date of the disposal of the property. If not filed within that period, such a claim may not be considered by a court or the General Accounting Office.”
 
 Subsec. (d). Pub. L. 104–106, §374(a)(2), added subsec. (d).
 
 Subsec. (d)(2), (3). Pub. L. 104–316 substituted “Secretary of Defense” for “Comptroller General of the United States”.
 
-1990—Subsec. (a). Pub. L. 101–510, §1533(a)(2)(A), substituted “section 4712, 6522, or 9712” for “section 4712, 4713, 6522, 9712, or 9713”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–510, §1533(a)(2)(A), substituted “section 4712, 6522, or 9712” for “section 4712, 4713, 6522, 9712, or 9713”.
 
 Subsec. (c). Pub. L. 101–510, §1533(a)(2)(B), substituted “Armed Forces Retirement Home” for “United States Soldiers’ and Airmen's Home” and “Secretary of a military department” for “Secretary of the Army or the Secretary of the Air Force” and struck out at end “The Home shall deliver the property to the owner (or the heirs, next of kin, or legal representative of the owner), if that person establishes a right to it within two years after its receipt by the Home.”
 
-1989—Subsec. (a). Pub. L. 101–189, §1622(f)(1), struck out “of this section” after “subsection (c)”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–189, §1622(f)(1), struck out “of this section” after “subsection (c)”.
 
 Pub. L. 101–189, §322(b)(2)(A), substituted “the Secretary's department” for “his department”.
 
@@ -90,11 +90,11 @@ Subsec. (b). Pub. L. 101–189, §322(b)(1), substituted “owner (or the heirs,
 
 Subsec. (c). Pub. L. 101–189, §322(b)(1), (3), substituted “owner (or the heirs, next of kin, or legal representative of the owner)” for “owner, his heirs or next of kin, or his legal representative”, and “that person” for “he” before “establishes a right”.
 
-1980—Subsec. (a). Pub. L. 96–513, §511(84)(A), substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513, §511(84)(A), substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 
 Subsec. (c). Pub. L. 96–513, §511(84)(B), substituted “United States Soldiers’ and Airmen's Home” for “Soldiers’ Home”.
 
-1965—Subsec. (a). Pub. L. 89–143 provided for notice by certified mail and substituted provision for disposition of property without delay when diligent effort to determine ownership is unsuccessful and after three months following receipt at designated storage point of property with fair market value of $25 or more, for former provision for disposition of property one year after receipt at designated storage point.
+<b>1965</b>—Subsec. (a). Pub. L. 89–143 provided for notice by certified mail and substituted provision for disposition of property without delay when diligent effort to determine ownership is unsuccessful and after three months following receipt at designated storage point of property with fair market value of $25 or more, for former provision for disposition of property one year after receipt at designated storage point.
 
 #### Effective Date of 2002 Amendment
 

@@ -20,7 +20,7 @@ No person shall engage in business, in or for commerce, as a poultry products br
 
 #### (d) Regulation of transactions, transportation, or importation of dead, dying, disabled or diseased poultry or carcasses to prevent use as human food
 
-No person engaged in the business of buying, selling, or transporting in commerce, or importing, dead, dying, disabled, or diseased poultry, or any parts of the carcasses of any poultry that died otherwise than by slaughter, shall buy, sell, transport, offer for sale or transportation, or receive for transportation, in commerce, or import, any dead, dying, disabled, or diseased poultry or parts of the carcasses of any poultry that died otherwise than by slaughter, unless such transaction, transportation or importation is made in accordance with such regulations as the Secretary may prescribe to assure that such poultry, or the unwholesome parts or products thereof, will be prevented from being used for human food.
+No person engaged in the business of buying, selling, or transporting in commerce, or importing, dead, dying, disabled, or diseased poultry, or any parts of the carcasses of any poultry that died otherwise than by slaughter, shall buy, sell, transport, offer for sale or transportation, or receive for transportation, in commerce, or import, any dead, dying, disabled, or diseased poultry or parts of the carcasses of any poultry that died otherwise than by slaughter, unless such transaction, transportation or importation is made in accordance with such regulations as theSecretary may prescribe to assure that such poultry, or the unwholesome parts or products thereof, will be prevented from being used for human food.
 
 #### (e) Federal provisions applicable to State or Territorial business transactions of a local nature and not subject to local authority
 
@@ -30,7 +30,7 @@ The authority conferred on the Secretary by paragraph (b), (c), or (d) of this s
 
 #### Amendments
 
-1968—Pub. L. 90–492 designated existing provisions as par. (b), added pars. (a), and (c) to (e), and in par. (b), as so designated, extended the types of persons required to maintain records necessary for the enforcement of this chapter, required such persons to give representatives of the Secretary access to their places of business, and opportunity to examine records, facilities, and inventories and to copy records and take inventory samples upon payment.
+<b>1968</b>—Pub. L. 90–492 designated existing provisions as par. (b), added pars. (a), and (c) to (e), and in par. (b), as so designated, extended the types of persons required to maintain records necessary for the enforcement of this chapter, required such persons to give representatives of the Secretary access to their places of business, and opportunity to examine records, facilities, and inventories and to copy records and take inventory samples upon payment.
 
 #### Effective Date of 1968 Amendment
 

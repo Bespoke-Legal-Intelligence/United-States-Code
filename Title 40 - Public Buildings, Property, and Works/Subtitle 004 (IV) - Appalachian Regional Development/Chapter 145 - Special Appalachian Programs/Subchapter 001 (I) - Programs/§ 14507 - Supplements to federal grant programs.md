@@ -152,9 +152,9 @@ The Communications Act of 1934, referred to in subsec. (a)(1)(A)(ix), is act Jun
 
 #### Amendments
 
-2008—Subsec. (g)(1). Pub. L. 110–371, §2(g)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+<b>2008</b>—Subsec. (g)(1). Pub. L. 110–371, §2(g)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
 Subsec. (g)(3). Pub. L. 110–371, §2(g)(2), added par. (3).
 
-2006—Subsec. (a)(1)(A)(iv). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
+<b>2006</b>—Subsec. (a)(1)(A)(iv). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
 

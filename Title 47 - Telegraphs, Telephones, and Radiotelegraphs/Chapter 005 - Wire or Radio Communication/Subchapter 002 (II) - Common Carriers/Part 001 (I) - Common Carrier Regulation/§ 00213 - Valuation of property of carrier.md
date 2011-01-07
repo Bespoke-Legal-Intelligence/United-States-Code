@@ -32,5 +32,5 @@ Nothing in this section shall impair or diminish the powers of any State commiss
 
 #### Amendments
 
-1994—Subsecs. (g), (h). Pub. L. 103–414 redesignated subsec. (h) as (g) and struck out former subsec. (g) which read as follows: “Notwithstanding any provision of this chapter the Interstate Commerce Commission, if requested to do so by the Commission, shall complete, at the earliest practicable date, such valuations of properties of carriers subject to this chapter as are now in progress, and shall thereafter transfer to the Commission the records relating thereto.”
+<b>1994</b>—Subsecs. (g), (h). Pub. L. 103–414 redesignated subsec. (h) as (g) and struck out former subsec. (g) which read as follows: “Notwithstanding any provision of this chapter the Interstate Commerce Commission, if requested to do so by the Commission, shall complete, at the earliest practicable date, such valuations of properties of carriers subject to this chapter as are now in progress, and shall thereafter transfer to the Commission the records relating thereto.”
 

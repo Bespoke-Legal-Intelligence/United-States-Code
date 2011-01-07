@@ -182,7 +182,7 @@ The purposes of this section are—
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated $50,000,000 to remain available until expended for each of the fiscal years 2007 through 2011 to carry out the provisions of this section.
+&emsp;There are authorized to be appropriated $50,000,000 to remain available until expendedfor each of the fiscal years 2007 through 2011 to carry out the provisions of this section.
 
 #### (2) Allocations
 

@@ -16,17 +16,17 @@ At the expiration of the period of postponement provided for in subsection (a), 
 
 #### Amendments
 
-1976—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (b). Pub. L. 94–455, §2004(c)(3), substituted provisions relating to extension of time for payment for a reasonable cause for provisions relating to extension of time for payment for undue hardship to the estate.
 
 Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1975—Subsec. (c). Pub. L. 93–625 struck out par. (1) cross reference to interest provisions of section 6601(b) of this title and struck out par. (2) designation of cross reference to security, now incorporated in present subsec. (c) provision.
+<b>1975</b>—Subsec. (c). Pub. L. 93–625 struck out par. (1) cross reference to interest provisions of section 6601(b) of this title and struck out par. (2) designation of cross reference to security, now incorporated in present subsec. (c) provision.
 
-1964—Subsec. (b). Pub. L. 88–272 substituted “or periods not in excess of 3” for “not in excess of 2”.
+<b>1964</b>—Subsec. (b). Pub. L. 88–272 substituted “or periods not in excess of 3” for “not in excess of 2”.
 
-1958—Subsecs. (b), (c). Pub. L. 85–866 added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>1958</b>—Subsecs. (b), (c). Pub. L. 85–866 added subsec. (b) and redesignated former subsec. (b) as (c).
 
 #### Effective Date of 1976 Amendment
 
@@ -46,5 +46,5 @@ Section 240(c) of Pub. L. 88–272, as amended by Pub. L. 99–514, §2, Oct. 22
 
 #### Effective Date of 1958 Amendment
 
-Section 66(b)(3) of Pub. L. 85–866 provided that: “The amendments made by paragraphs (1) and (2) \[amendingthis section and sections 925 and 926 of I.R.C. 1939\] shall apply in the case of any reversionary or remainder interest only if the precedent interest or interests in the property did not terminate before the beginning of the 6-month period which ends on the date of the enactment of this Act \[Sept. 2, 1958\].”
+Section 66(b)(3) of Pub. L. 85–866 provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and sections 925 and 926 of I.R.C. 1939\] shall apply in the case of any reversionary or remainder interest only if the precedent interest or interests in the property did not terminate before the beginning of the 6-month period which ends on the date of the enactment of this Act \[Sept. 2, 1958\].”
 

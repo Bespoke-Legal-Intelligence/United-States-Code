@@ -10,9 +10,9 @@
 
 #### Amendments
 
-1986—Subsec. (c). Pub. L. 99–616 substituted a comma for “or” after “Receiving Office” and “International Preliminary Examining Authority” for “both”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–616 substituted a comma for “or” after “Receiving Office” and “International Preliminary Examining Authority” for “both”.
 
-1984—Subsecs. (a), (c). Pub. L. 98–622 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1984</b>—Subsecs. (a), (c). Pub. L. 98–622 substituted “Patent and Trademark Office” for “Patent Office”.
 
 #### Effective Date of 1986 Amendment
 

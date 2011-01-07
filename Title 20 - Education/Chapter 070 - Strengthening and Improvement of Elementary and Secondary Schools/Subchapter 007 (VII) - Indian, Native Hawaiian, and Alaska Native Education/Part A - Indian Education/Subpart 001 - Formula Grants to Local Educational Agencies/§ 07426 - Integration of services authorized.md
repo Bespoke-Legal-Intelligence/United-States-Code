@@ -86,7 +86,7 @@ The Secretary is authorized to take such action as may be necessary to provide f
 
 #### (m) Overage
 
-The eligible entity may commingle all administrative funds from the consolidated programs and shall be entitled to the full amount of such funds (under each program's or agency's regulations). The overage (defined as the difference between the amount of the commingled funds and the actual administrative cost of the programs) shall be considered to be properly spent for Federal audit purposes, if the overage is used for the purposes provided for under this section.
+The eligible entity may commingle all administrative funds from the consolidated programsand shall be entitled to the full amount of such funds (under each program's or agency's regulations). The overage (defined as the difference between the amount of the commingled funds and the actual administrative cost of the programs) shall be considered to be properly spent for Federal audit purposes, if the overage is used for the purposes provided for under this section.
 
 #### (n) Fiscal accountability
 
@@ -118,7 +118,7 @@ The Education Amendments of 1978, referred to in subsecs. (g)(1) and (p)(1), is 
 
 #### Prior Provisions
 
-A prior section 7426, Pub. L. 89–10, title VII, §7116, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3723, related to applications for grants, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6914 of this title.
+A prior section 7426, Pub. L. 89–10, title VII, §7116, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3723, related to applications for grants, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6914 of this title.
 
 #### Change of Name
 

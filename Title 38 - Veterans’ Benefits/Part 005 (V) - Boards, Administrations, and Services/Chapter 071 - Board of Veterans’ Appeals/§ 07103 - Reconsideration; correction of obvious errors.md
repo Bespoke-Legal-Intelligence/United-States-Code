@@ -18,7 +18,7 @@
 
 #### Amendments
 
-1994—Pub. L. 103–271 amended section generally. Prior to amendment, text read as follows:
+<b>1994</b>—Pub. L. 103–271 amended section generally. Prior to amendment, text read as follows:
 
 “(a) Decisions by a section of the Board shall be made by a majority of the members of the section. The decision of the section is final unless the Chairman orders reconsideration of the case.
 
@@ -26,9 +26,9 @@
 
 “(c) Notwithstanding subsections (a) and (b) of this section, the Board on its own motion may correct an obvious error in the record.”
 
-1991—Pub. L. 102–40 renumbered section 4003 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 4003 of this title as this section.
 
-1988—Pub. L. 100–687, in amending section generally, added subsec. (a), struck out former subsec. (a) which provided that determination of section, when unanimous, be final determination of Board, added subsec. (b), struck out former subsec. (b) which provided that when there is disagreement among members of section, concurrence of Chairman with majority of members of section shall constitute final determination of Board, and added subsec. (c).
+<b>1988</b>—Pub. L. 100–687, in amending section generally, added subsec. (a), struck out former subsec. (a) which provided that determination of section, when unanimous, be final determination of Board, added subsec. (b), struck out former subsec. (b) which provided that when there is disagreement among members of section, concurrence of Chairman with majority of members of section shall constitute final determination of Board, and added subsec. (c).
 
 #### Effective Date of 1988 Amendment
 

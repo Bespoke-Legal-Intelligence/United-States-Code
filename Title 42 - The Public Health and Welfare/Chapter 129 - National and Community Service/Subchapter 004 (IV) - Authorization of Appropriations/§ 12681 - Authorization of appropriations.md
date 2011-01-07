@@ -18,7 +18,7 @@
 
 #### (C) Section 12561a
 
-&emsp;&emsp;Of the amount appropriated under subparagraph (A) and not reserved under subparagraph (B) for a fiscal year, not more than $7,000,000 shall be made available forawards to Campuses of Service under section 12561a of this title.
+&emsp;&emsp;Of the amount appropriated under subparagraph (A) and not reserved under subparagraph (B) for a fiscal year, not more than $7,000,000 shall be made available for awards to Campuses of Service under section 12561a of this title.
 
 #### (D) Section 12563(c)(8)
 
@@ -110,7 +110,7 @@
 
 #### (6) Evaluation, training, and technical assistance
 
-&emsp;Notwithstanding paragraphs (1), (2), and (4) and any other provision of law, of the amounts appropriated for a fiscal year under divisions B, C, and H of subchapter I of this chapter and under titles I and II of the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4951 et seq., 5000 et seq.\], the Corporation shall reserve notmore than 2.5 percent to carry out sections 12523(e) and 12639a of this title and division K of subchapter I,<sup>1</sup> of which $1,000,000 shall be used by the Corporation to carry out section 12639a of this title. Notwithstanding subsection (b), amounts so reserved shall be available only for the fiscal year for which the amounts are reserved.
+&emsp;Notwithstanding paragraphs (1), (2), and (4) and any other provision of law, of the amounts appropriated for a fiscal year under divisions B, C, and H of subchapter I of this chapter and under titles I and II of the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4951 et seq., 5000 et seq.\], the Corporation shall reserve not more than 2.5 percent to carry out sections 12523(e) and 12639a of this title and division K of subchapter I,<sup>1</sup> of which $1,000,000 shall be used by the Corporation to carry out section 12639a of this title. Notwithstanding subsection (b), amounts so reserved shall be available only for the fiscal year for which the amounts are reserved.
 
 #### (b) Availability of appropriations
 
@@ -128,13 +128,13 @@ Division K of subchapter I, referred to in subsec. (a)(6), was in the original �
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–13, §1841(1), added subsec. (a) and struck out former subsec. (a) which authorized appropriations for subchapter I of this chapter.
+<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1841(1), added subsec. (a) and struck out former subsec. (a) which authorized appropriations for subchapter I of this chapter.
 
 Subsecs. (b) to (d). Pub. L. 111–13, §1841(2), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b), which authorized appropriations for subchapter II of this chapter, and subsec. (d), which specified the budget function for the appropriations authorized in this section.
 
-1993—Pub. L. 103–82 amended section generally, substituting subsecs. (a) to (d) for former subsecs. (a) and (b) which authorized appropriations to carry out subchapter I for fiscal year 1993 and subchapter II for fiscal years 1991 to 1993.
+<b>1993</b>—Pub. L. 103–82 amended section generally, substituting subsecs. (a) to (d) for former subsecs. (a) and (b) which authorized appropriations to carry out subchapter I for fiscal year 1993 and subchapter II for fiscal years 1991 to 1993.
 
-1992—Subsec. (a)(1). Pub. L. 102–384, §11(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There are authorized to be appropriated to carry out subchapter I of this chapter, $56,000,000 for fiscal year 1991, $95,500,000 for fiscal year 1992, and $105,000,000 for fiscal year 1993.”
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–384, §11(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There are authorized to be appropriated to carry out subchapter I of this chapter, $56,000,000 for fiscal year 1991, $95,500,000 for fiscal year 1992, and $105,000,000 for fiscal year 1993.”
 
 Subsec. (a)(2). Pub. L. 102–384, §11(b), substituted “paragraph (1)(A)” for “paragraph (1)” in introductory provisions, redesignated subpars. (B) to (D) as (A) to (C), respectively, added subpar. (D), and struck out former subpar. (A) which read as follows: “$2,000,000 shall be made available to carry out part G of subchapter I of this chapter in each such fiscal year;”.
 

@@ -16,11 +16,11 @@ The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oc
 
 #### Amendments
 
-1990—Subsecs. (b), (c). Pub. L. 101–510 substituted “Regulations under this section” for “(1) Within 90 days after September 24, 1983, the Secretary of Defense shall propose regulations to implement this section. Such regulations” in subsec. (b) and redesignated former subsec. (b)(2) as subsec. (c).
+<b>1990</b>—Subsecs. (b), (c). Pub. L. 101–510 substituted “Regulations under this section” for “(1) Within 90 days after September 24, 1983, the Secretary of Defense shall propose regulations to implement this section. Such regulations” in subsec. (b) and redesignated former subsec. (b)(2) as subsec. (c).
 
-1987—Subsec. (b)(2). Pub. L. 100–26 inserted “the term” after “In this section,”.
+<b>1987</b>—Subsec. (b)(2). Pub. L. 100–26 inserted “the term” after “In this section,”.
 
-1986—Pub. L. 99–433 renumbered section 140c of this title as this section and substituted “Authority” for “Secretary of Defense: authority” in section catchline.
+<b>1986</b>—Pub. L. 99–433 renumbered section 140c of this title as this section and substituted “Authority” for “Secretary of Defense: authority” in section catchline.
 
-1985—Subsec. (b)(1). Pub. L. 99–145 substituted “September 24, 1983” for “enactment of this section”.
+<b>1985</b>—Subsec. (b)(1). Pub. L. 99–145 substituted “September 24, 1983” for “enactment of this section”.
 

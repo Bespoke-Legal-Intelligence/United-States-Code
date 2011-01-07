@@ -56,29 +56,29 @@ In subsection (d) the words “rules and” and “any office or position” are
 
 #### Amendments
 
-2001—Subsec. (a)(1). Pub. L. 107–107, §533(b)(1), substituted “60” for “40”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–107, §533(b)(1), substituted “60” for “40”.
 
 Subsec. (b)(2). Pub. L. 107–107, §533(b)(2)(A), struck out “unless a written waiver of reimbursement is granted by the Secretary of Defense” before period at end of first sentence.
 
 Subsec. (b)(3). Pub. L. 107–107, §533(b)(2)(B), added par. (3) and struck out former par. (3) which read as follows: “The amount of reimbursement waived under paragraph (2) may not exceed 50 percent of the per-person reimbursement amount otherwise required to be paid by a foreign country under such paragraph, except in the case of not more than 20 persons receiving instruction at the Naval Academy under this section at any one time.”
 
-2000—Subsec. (a)(3). Pub. L. 106–398 added par. (3).
+<b>2000</b>—Subsec. (a)(3). Pub. L. 106–398 added par. (3).
 
-1999—Subsec. (b)(3). Pub. L. 106–65 substituted “50 percent” for “35 percent” and “20 persons” for “five persons”.
+<b>1999</b>—Subsec. (b)(3). Pub. L. 106–65 substituted “50 percent” for “35 percent” and “20 persons” for “five persons”.
 
-1997—Subsec. (b)(2). Pub. L. 105–85, §543(b)(1), substituted “, except that the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a midshipman appointed from the United States.” for period at end.
+<b>1997</b>—Subsec. (b)(2). Pub. L. 105–85, §543(b)(1), substituted “, except that the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a midshipman appointed from the United States.” for period at end.
 
 Subsec. (b)(3). Pub. L. 105–85, §543(b)(2), added par. (3).
 
 Subsec. (d). Pub. L. 105–85, §541(b), added subsec. (d).
 
-1983—Pub. L. 98–94 substituted “Selection of persons from foreign countries” for “Admission of foreigners for instruction: restrictions; conditions” in section catchline.
+<b>1983</b>—Pub. L. 98–94 substituted “Selection of persons from foreign countries” for “Admission of foreigners for instruction: restrictions; conditions” in section catchline.
 
 Subsec. (a). Pub. L. 98–94 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “No person from a foreign country may be permitted to receive instruction at the Naval Academy except as authorized by this section.”
 
 Subsec. (b). Pub. L. 98–94 amended subsec. (b) generally, redesignating former subsec. (c) as par. (1) and in par. (1), as so redesignated, substituted “pay, allowances, and emoluments of a midshipman appointed from the United States, and from the same appropriations” for “same pay and allowances, to be paid from the same appropriations, as midshipmen”, and added par. (2). Former subsec. (b), relating to the authority of the Secretary of the Navy to limit the numbers of foreigners studying at the Academy, was struck out.
 
-Subsec. (c). Pub. L. 98–94 amended subsec. (c) generally, designating first sentence of former subsec. (d) as par. (1) and in par. (1), as so designated, substituted “as a midshipman at the Academy appointed from the United States” for “as a midshipman”, and inserted sentence authorizing the Secretary to prescribe regulations with respect to access to classified information by a person receiving instruction under this section that differ from the regulations that apply to a midshipman at the Academy appointed from the United States; and designating the second sentence of former subsec. (d) as par. (2) and in par. (2), as so designated, substituted “A person” for “However, a person” and“an armed force of the United States” for “the Navy or the Marine Corps”. Former subsec. (c) was redesignated (b)(1).
+Subsec. (c). Pub. L. 98–94 amended subsec. (c) generally, designating first sentence of former subsec. (d) as par. (1) and in par. (1), as so designated, substituted “as a midshipman at the Academy appointed from the United States” for “as a midshipman”, and inserted sentence authorizing the Secretary to prescribe regulations with respect to access to classified information by a person receiving instruction under this section that differ from the regulations that apply to a midshipman at the Academy appointed from the United States; and designating the second sentence of former subsec. (d) as par. (2) and in par. (2), as so designated, substituted “A person” for “However, a person” and “an armed force of the United States” for “the Navy or the Marine Corps”. Former subsec. (c) was redesignated (b)(1).
 
 Subsec. (d). Pub. L. 98–94, as part of the general amendment of this section, omitted subsec. (d) and incorporated its provisions into subsec. (c).
 

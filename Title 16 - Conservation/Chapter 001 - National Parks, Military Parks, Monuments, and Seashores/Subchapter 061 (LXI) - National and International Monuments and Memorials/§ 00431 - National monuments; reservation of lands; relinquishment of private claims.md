@@ -462,7 +462,7 @@ U.S.S. Indianapolis Memorial, Indiana.—Pub. L. 103–160, div. A, title XI, §
 
 USS Oklahoma Memorial, Hawaii.—Pub. L. 109–163, div. A, title X, §1017, Jan. 6, 2006, 119 Stat. 3425.
 
-Vietnam Veterans Memorial, District of Columbia.—Pub. L. 96–297, July 1, 1980, 94 Stat. 827, as amended by Pub. L. 106–214, §1, June 15, 2000, 114 Stat. 335; Pub. L. 108–126, title I, §101, Nov. 17, 2003, 117 Stat. 1348.
+Vietnam Veterans Memorial, District of Columbia.—Pub. L. 96–297, July 1, 1980, 94 Stat. 827, as amended by Pub. L. 106–214, §1, June 15, 2000, 114 Stat. 335; Pub. L. 108–126, title I, §101, Nov. 17, 2003, 117 Stat. 1348; Pub. L. 111–270, §1, Oct. 12, 2010, 124 Stat. 2851.
 
 Washington Monument National Memorial, District of Columbia.—Act Aug. 2, 1876, ch. 250, §1, 19 Stat. 123.
 

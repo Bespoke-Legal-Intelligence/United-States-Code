@@ -6,5 +6,5 @@ There are authorized to be appropriated to the President to carry out this chapt
 
 #### Amendments
 
-1980—Pub. L. 96–533 substituted appropriations authorization of $12,000,000 for fiscal year 1981 for such authorization of $23,750,000 for fiscal year 1980.
+<b>1980</b>—Pub. L. 96–533 substituted appropriations authorization of $12,000,000 for fiscal year 1981 for such authorization of $23,750,000 for fiscal year 1980.
 

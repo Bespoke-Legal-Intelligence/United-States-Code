@@ -54,9 +54,9 @@
 
 &emsp;&emsp;(i) the amounts requested are only for performance in accordance with the specifications, terms, and conditions of the contract;
 
-&emsp;&emsp;(ii) payments to subcontractors and suppliers have been made from previous payments received under the contract, and timely payments will be made from the proceeds of the payment covered by the certification, in accordance with their subcontract agreements and the requirements of this chapter; and
+&emsp;&emsp;(ii) payments to subcontractors and suppliers have been made from previous payments received under the contract, andtimely payments will be made from the proceeds of the payment covered by the certification, in accordance with their subcontract agreements and the requirements of this chapter; and
 
-&emsp;&emsp;(iii) the application does not include any amounts which the prime contractor intendsto withhold or retain from a subcontractor or supplier in accordance with the terms and conditions of their subcontract.
+&emsp;&emsp;(iii) the application does not include any amounts which the prime contractor intends to withhold or retain from a subcontractor or supplier in accordance with the terms and conditions of their subcontract.
 
 (2) The agency shall return any such payment request which is defective to the contractor within 7 days after receipt, with a statement identifying the defect.
 
@@ -96,11 +96,11 @@ Section 3903(c) of this title, referred to in subsec. (a)(9), was redesignated s
 
 #### Amendments
 
-1999—Subsecs. (c), (d). Pub. L. 106–65 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>1999</b>—Subsecs. (c), (d). Pub. L. 106–65 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1991—Subsec. (a)(2). Pub. L. 102–190 inserted provisions relating to fresh or frozen fish as defined in 16 U.S.C. 4003(3) and substituted “meat, meat food product, or fish” for “meat or meat food product”.
+<b>1991</b>—Subsec. (a)(2). Pub. L. 102–190 inserted provisions relating to fresh or frozen fish as defined in 16 U.S.C. 4003(3) and substituted “meat, meat food product, or fish” for “meat or meat food product”.
 
-1988—Subsec. (a). Pub. L. 100–496, §6(1), designated existing provisions as subsec. (a).
+<b>1988</b>—Subsec. (a). Pub. L. 100–496, §6(1), designated existing provisions as subsec. (a).
 
 Subsec. (a)(2). Pub. L. 100–496, §13(a), included any edible fresh or frozen poultry meat, any perishable poultry meat food product, fresh eggs, and any perishable egg product.
 
@@ -124,7 +124,7 @@ Amendment by Pub. L. 100–496 applicable to payments under contracts awarded, c
 
 #### Implementation Through Federal Acquisition Regulation
 
-Section 11 of Pub. L. 100–496 provided that:
+Pub. L. 100–496, §11, Oct. 17, 1988, 102 Stat. 2463, provided that:
 
 “(a) The Federal Acquisition Regulation shall be modified to provide appropriate solicitation provisions and contract clauses that implement chapter 39 of title 31, United States Code, as amended by this Act \[see Short Title of 1988 Amendment note set out under section 3901 of this title\], and the regulations prescribed under section 3903 of such title (as amended).
 
@@ -136,7 +136,7 @@ Section 11 of Pub. L. 100–496 provided that:
 
 &emsp;&emsp;“(B) in the case of payments for noncommercial items and services, does not exceed 30 days unless the circumstances of the procurement action is determined to require a longer period for payment and such determination is approved above the level of the contracting officer;
 
-&emsp;&emsp;“(C) in the case of payments for items of property or services in an amount less than the amount specified as a small purchase in section 303(g)(2) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(2)), does not exceed 15 days after the date of receipt of the invoice, if—
+&emsp;&emsp;“(C) in the case of payments for items of property or services in an amount less than the amount specified as a small purchase in section 303(g)(2) of the Federal Property and Administrative Services Act of 1949 (\[former\] 41 U.S.C. 253(g)(2)) \[now 41 U.S.C. 3305(b)\], does not exceed 15 days after the date of receipt of the invoice, if—
 
 &emsp;&emsp;&emsp;“(i) the contract provides for such ‘fast payment’ terms;
 
@@ -166,7 +166,7 @@ Section 11 of Pub. L. 100–496 provided that:
 
 &emsp;“(7) The requirements of section 3905 of title 31, United States Code.
 
-“(c) The regulations required by subsection (a) of this section shall be published as proposed regulations for public comment as provided in section 22 of the Office of Federal Procurement Policy Act (41 U.S.C. 418b) within 120 days after the date of the enactment of this Act \[Oct. 17, 1988\].”
+“(c) The regulations required by subsection (a) of this section shall be published as proposed regulations for public comment as provided in section 22 of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 418b) \[now 41 U.S.C. 1707\] within 120 days after the date of the enactment of this Act \[Oct. 17, 1988\].”
 
 #### Edible Fresh or Frozen Poultry Meat, Perishable Poultry Meat Food Products, Fresh Eggs, and Perishable Egg Products
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A State may elect to offer a premium assistance subsidy (as defined in subsection (c)) for qualified employer-sponsored coverage (as defined in subsection (b)) to all individuals under age 19 who are entitled to medical assistance under this subchapter (and to the parent of such an individual) who have access to such coverage if the State meets the requirements of this section.
+A State may elect to offer a premium assistance subsidy (as defined in subsection (c)) for qualified employer-sponsored coverage (as defined in subsection (b)) to all individuals under age 19 who are entitled to medical assistance under this subchapter (and to the parent of such an individual) who have access to such coverage if the State meets the requirements of this section and the offering of such a subsidy is cost-effective, as defined for purposes of section 1397ee(c)(3)(A) of this title.
 
 #### (b) Qualified employer-sponsored coverage
 
@@ -10,7 +10,7 @@ A State may elect to offer a premium assistance subsidy (as defined in subsectio
 
 &emsp;Subject to paragraph (2)),<sup>1</sup> in this paragraph, the term “qualified employer-sponsored coverage” means a group health plan or health insurance coverage offered through an employer—
 
-&emsp;&emsp;(A) that qualifies as creditable coverage as a group health plan under section 300gg(c)(1) of this title;
+&emsp;&emsp;(A) that qualifies as creditable coverage as a group health plan under section 2701(c)(1) of the Public Health Service Act; <sup>2</sup>
 
 &emsp;&emsp;(B) for which the employer contribution toward any premium for such coverage is at least 40 percent; and
 
@@ -26,7 +26,7 @@ A State may elect to offer a premium assistance subsidy (as defined in subsectio
 
 #### (3) Treatment as third party liability
 
-&emsp;The State shall treat the coverage provided under qualified employer-sponsored coverage as a third party liability under section 1396a(a)(25) of this title.
+&emsp;The State shall treat the coverage provided under qualified employer-sponsored coverageas a third party liability under section 1396a(a)(25) of this title.
 
 #### (c) Premium assistance subsidy
 
@@ -40,7 +40,7 @@ In this section, the term “premium assistance subsidy” means the amount of t
 
 #### (2) Beneficiaries
 
-&emsp;No subsidy shall be provided to an individual under age 19 under this section unless the individual (or the individual's parent) voluntarily elects to receive such a subsidy. A State may not require such an election as a condition of receipt of medical assistance. State <sup>2</sup> may not require, as a condition of an individual under age 19 (or the individual's parent) being or remaining eligible for medical assistance under this subchapter, apply for enrollment in qualified employer-sponsored coverage under this section.
+&emsp;No subsidy shall be provided to an individual under age 19 under this section unless the individual (or the individual's parent) voluntarily elects to receive such a subsidy. A State may not require such an election as a condition of receipt of medical assistance. State <sup>3</sup> may not require, as a condition of an individual under age 19 (or the individual's parent) being or remaining eligible for medical assistance under this subchapter, apply for enrollment in qualified employer-sponsored coverage under this section.
 
 #### (3) Opt-out permitted for any month
 
@@ -50,17 +50,63 @@ In this section, the term “premium assistance subsidy” means the amount of t
 
 In the case of the participation of an individual under age 19 (or the individual's parent) in a premium assistance subsidy under this section for qualified employer-sponsored coverage, the State shall provide for payment of all enrollee premiums for enrollment in such coverage and all deductibles, coinsurance, and other cost-sharing obligations for items and services otherwise covered under the State plan under this subchapter (exceeding the amount otherwise permitted under section 1396<i>o</i> of this title or, if applicable, section 1396<i>o</i>–1 of this title). The fact that an individual under age 19 (or a parent) elects to enroll in qualified employer-sponsored coverage under this section shall not change the individual's (or parent's) eligibility for medical assistance under the State plan, except insofar as section 1396a(a)(25) of this title provides that payments for such assistance shall first be made under such coverage.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1906A, as added Pub. L. 111–3, title III, §301(b), Feb. 4, 2009, 123 Stat. 61.)
+(Aug. 14, 1935, ch. 531, title XIX, §1906A, as added Pub. L. 111–3, title III, §301(b), Feb. 4, 2009, 123 Stat. 61; amended Pub. L. 111–148, title II, §2003(a), (b), title X, §10203(b)(2), Mar. 23, 2010, 124 Stat. 282, 283, 927.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–148, title II, §2003, title X, §10203(b)(2)(B), Mar. 23, 2010, 124 Stat. 282, 283, 927, provided that, effective Jan. 1, 2014, this section is amended:</i>
+
+<i>(1) in the section catchline, by striking “option for children”;</i>
+
+<i>(2) in subsection (a)—</i>
+
+<i>(A) \[Omitted\]</i>
+
+<i>(B) by striking “under age 19”; and</i>
+
+<i>(C) by inserting “, in the case of an individual under age 19,” after “(and”;</i>
+
+<i>(3) in subsection (c), in the first sentence, by striking “under age 19”; and</i>
+
+<i>(4) in subsection (d)—</i>
+
+<i>(A) in paragraph (2)—</i>
+
+<i>(i) in the first sentence, by striking “under age 19”; and</i>
+
+<i>(ii) by striking the third sentence and inserting “A State may not require, as a condition of an individual (or the individual's parent) being or remaining eligible for medical assistance under this subchapter, that the individual (or the individual's parent) apply for enrollment in qualified employer-sponsored coverage under this section.”; and</i>
+
+<i>(B) in paragraph (3), by striking “the parent of an individual under age 19” and inserting “an individual (or the parent of an individual)”; and</i>
+
+<i>(5) in subsection (e), by striking “under age 19” each place it appears.</i>
 
 #### References in Text
 
+Section 2701 of the Public Health Service Act, referred to in subsec. (b)(1)(A), is section 2701 of act July 1, 1944, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
+
 The Internal Revenue Code of 1986, referred to in subsec. (b)(1)(C), (2), is classified generally to Title 26, Internal Revenue Code.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–148, §10203(b)(2)(A), inserted “and the offering of such a subsidy is cost-effective, as defined for purposes of section 1397ee(c)(3)(A) of this title” before period at end.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–148, title II, §2003(c), Mar. 23, 2010, 124 Stat. 283, provided that: “The amendments made by this section \[amending this section\] take effect on January 1, 2014.”
+
+Pub. L. 111–148, title X, §10203(b), Mar. 23, 2010, 124 Stat. 927, provided that the amendment made by section 10203(b)(2)(A) of Pub. L. 111–148 is effective as if included in the enactment of the Children's Health Insurance Program Reauthorization Act of 2009 (Pub. L. 111–3).
 
 #### Effective Date
 
-Section effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as a note under section 1396 of this title.
+Section effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on orafter that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as a note under section 1396 of this title.
+
+#### Effect of Certain Amendment by Pub. L. 111–148
+
+Pub. L. 111–148, title X, §10203(b)(2)(B), Mar. 23, 2010, 124 Stat. 927, provided that: “This Act shall be applied without regard to subparagraph (A) of section 2003(a)(1) of this Act \[amending this section\] and that subparagraph and the amendment made by that subparagraph are hereby deemed null, void, and of no effect.”
 
 <i><sup>1</sup></i><i> So in original. The second closing parenthesis probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by “A”.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be preceded by “A”.</i>
 

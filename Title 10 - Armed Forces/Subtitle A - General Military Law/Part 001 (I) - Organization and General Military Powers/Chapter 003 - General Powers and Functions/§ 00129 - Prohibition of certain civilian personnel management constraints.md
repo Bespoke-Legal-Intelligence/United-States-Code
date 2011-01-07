@@ -34,11 +34,11 @@
 
 #### Amendments
 
-1999—Subsec. (f)(1). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+<b>1999</b>—Subsec. (f)(1). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-1997—Subsec. (f). Pub. L. 105–85 added subsec. (f).
+<b>1997</b>—Subsec. (f). Pub. L. 105–85 added subsec. (f).
 
-1996—Subsec. (a). Pub. L. 104–201, §1074(a)(1), substituted “February 10, 1996,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201, §1074(a)(1), substituted “February 10, 1996,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996”.
 
 Pub. L. 104–106, §1031(1), substituted “constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees. The Secretary of Defense and the Secretaries of the military departments may not be required to make a reduction in the number of full-time equivalent positions in the Department of Defense unless such reduction is necessary due to a reduction in funds available to the Department or is required under a law that is enacted after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996 and that refers specifically to this subsection.” for “man-year constraint or limitation.”
 
@@ -50,9 +50,9 @@ Subsec. (d). Pub. L. 104–106, §1031(3), added subsec. (d).
 
 Subsec. (e). Pub. L. 104–201, §1603(2), added subsec. (e).
 
-1991—Subsec. (a). Pub. L. 102–190 substituted “department and (2)” for “department, (2)” and struck out “, and (3) the authorized end strength for the civilian personnel of the department for such fiscal year” at end of first sentence.
+<b>1991</b>—Subsec. (a). Pub. L. 102–190 substituted “department and (2)” for “department, (2)” and struck out “, and (3) the authorized end strength for the civilian personnel of the department for such fiscal year” at end of first sentence.
 
-1986—Pub. L. 99–661 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+<b>1986</b>—Pub. L. 99–661 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 Pub. L. 99–433 renumbered section 140b of this title as this section.
 

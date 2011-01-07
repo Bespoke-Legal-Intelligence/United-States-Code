@@ -18,6 +18,7 @@
 | [14511\.](Subchapter%20002%20%28II%29%20-%20Formal%20Systems/%C2%A7%2014511%20-%20Application.md) | Application. |
 | [14512\.](Subchapter%20002%20%28II%29%20-%20Formal%20Systems/%C2%A7%2014512%20-%20Standard%20tonnage%20measurement.md) | Standard tonnage measurement. |
 | [14513\.](Subchapter%20002%20%28II%29%20-%20Formal%20Systems/%C2%A7%2014513%20-%20Dual%20tonnage%20measurement.md) | Dual tonnage measurement. |
+| [14514\.](Subchapter%20002%20%28II%29%20-%20Formal%20Systems/%C2%A7%2014514%20-%20Reciprocity%20for%20foreign%20vessels.md) | Reciprocity for foreign vessels. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -33,6 +34,10 @@
 #### Historical and Revision Notes
 
 This chapter provides for the measurement of vessels for the purpose of the application of domestic laws.
+
+#### Amendments
+
+<b>2010</b>—Pub. L. 111–281, title III, §303(j), Oct. 15, 2010, 124 Stat. 2926, added item 14514.
 
 
 ---

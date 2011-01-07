@@ -62,13 +62,13 @@ A prior section 6037 was renumbered section 6040 of this title.
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–188 added subsec. (c).
+<b>1996</b>—Subsec. (c). Pub. L. 104–188 added subsec. (c).
 
-1984—Pub. L. 98–369 designated existing provisions as subsec. (a) and added subsec. (a) heading and subsec. (b).
+<b>1984</b>—Pub. L. 98–369 designated existing provisions as subsec. (a) and added subsec. (a) heading and subsec. (b).
 
-1982—Pub. L. 97–354 substituted “S corporation” for “electing small business corporation” in section catchline, substituted “Every S corporation” for “Every electing small business corporation (as defined in section 1371(b))”, and substituted “each shareholder's pro rata share of each item of the corporation for the taxable year, and such other information” for “and such other information”.
+<b>1982</b>—Pub. L. 97–354 substituted “S corporation” for “electing small business corporation” in section catchline, substituted “Every S corporation” for “Every electing small business corporation (as defined in section 1371(b))”, and substituted “each shareholder's pro rata share of each item of the corporation for the taxable year, and such other information” for “and such other information”.
 
-1976—Pub. L. 94–455 substituted “section 1371(b)” for “section 1371(a)(2)” and struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 substituted “section 1371(b)” for “section 1371(a)(2)” and struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 1996 Amendment
 
@@ -76,7 +76,7 @@ Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1984, see section 714(q)(5)of Pub. L. 98–369, set out as an Effective Date note under section 6034A of this title.
+Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1984, see section 714(q)(5) of Pub. L. 98–369, set out as an Effective Date note under section 6034A of this title.
 
 #### Effective Date of 1982 Amendment
 

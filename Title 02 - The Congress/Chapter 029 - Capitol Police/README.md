@@ -17,6 +17,7 @@
 | [1908\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20A%20-%20General/%C2%A7%2001908%20-%20Legal%20representation%20authority.md) | Legal representation authority. |
 | [1909\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20A%20-%20General/%C2%A7%2001909%20-%20Inspector%20General%20for%20the%20United%20States%20Capitol%20Police.md) | Inspector General for the United States Capitol Police. |
 | [1910\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20A%20-%20General/%C2%A7%2001910%20-%20Report%20of%20disbursements.md) | Report of disbursements. |
+| [1911\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20A%20-%20General/%C2%A7%2001911%20-%20General%20Counsel%20to%20the%20Chief%20of%20Police%20and%20the%20United%20States%20Capitol%20Police.md) | General Counsel to the Chief of Police and the United States Capitol Police. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -28,15 +29,14 @@
 | [1921a.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001921a%20-%20Sole%20and%20exclusive%20authority%20of%20Board%20and%20Chief%20to%20determine%20rates%20of%20pay.md) | Sole and exclusive authority of Board and Chief to determine rates of pay. |
 | [1922\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001922%20-%20Unified%20payroll%20administration.md) | Unified payroll administration. |
 | [1923\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001923%20-%20Unified%20schedules%20of%20rates%20of%20basic%20pay%20and%20leave%20system.md) | Unified schedules of rates of basic pay and leave system. |
-| [1924\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001924%20-%20Emergency%20duty%20overtime%20pay%20from%20funds%20disbursed%20by%20the%20Chief%20Administrative%20Officer%20of%20the%20House%20of%20Representatives.md) | Emergency duty overtime pay from funds disbursed by the Chief Administrative Officer of the House of Representatives. |
-| [1925\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001925%20-%20Emergency%20duty%20overtime%20pay%20from%20funds%20disbursed%20by%20Secretary%20of%20the%20Senate.md) | Emergency duty overtime pay from funds disbursed by Secretary of the Senate. |
+| 1924, 1925. Repealed. |  |
 | [1926\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001926%20-%20Educational%20assistance%20program%20for%20employees.md) | Educational assistance program for employees. |
 | [1927\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001927%20-%20Bonuses%2C%20retention%20allowances%2C%20and%20additional%20compensation.md) | Bonuses, retention allowances, and additional compensation. |
-| [1928\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001928%20-%20Suspension.md) | Suspension. |
-| [1929\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001929%20-%20Pay%20of%20members%20under%20suspension.md) | Pay of members under suspension. |
+| 1928, 1929. Repealed. |  |
 | [1930\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001930%20-%20Applicable%20pay%20rate%20upon%20appointment.md) | Applicable pay rate upon appointment. |
 | [1931\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001931%20-%20Additional%20compensation%20for%20employees%20with%20specialty%20assignments%20and%20proficiencies.md) | Additional compensation for employees with specialty assignments and proficiencies. |
 | [1932\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001932%20-%20Application%20of%20premium%20pay%20limits%20on%20annualized%20basis.md) | Application of premium pay limits on annualized basis. |
+| [1933\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001933%20-%20Clarification%20of%20authorities%20regarding%20certain%20personnel%20benefits.md) | Clarification of authorities regarding certain personnel benefits. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -46,7 +46,7 @@
 | :--- | ---: |
 | [1941\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20C%20-%20Uniform%20and%20Arms/%C2%A7%2001941%20-%20Uniform.md) | Uniform. |
 | [1942\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20C%20-%20Uniform%20and%20Arms/%C2%A7%2001942%20-%20Uniform%20to%20display%20United%20States%20flag%20or%20colors.md) | Uniform to display United States flag or colors. |
-| [1943\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20C%20-%20Uniform%20and%20Arms/%C2%A7%2001943%20-%20Uniform%3B%20at%20whose%20expense.md) | Uniform; at whose expense. |
+| [1943\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20C%20-%20Uniform%20and%20Arms/%C2%A7%2001943%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93145%2C%20%C2%A76%28b%29%2C%20Mar.%204%2C%202010%2C%20124%20Stat.%2054.md) | Repealed. |
 | [1944\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20C%20-%20Uniform%20and%20Arms/%C2%A7%2001944%20-%20Wearing%20uniform%20on%20duty.md) | Wearing uniform on duty. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

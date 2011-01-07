@@ -4,7 +4,7 @@ As used in this chapter:
 
 (1) The term “Administrator” means the Administrator of the Environmental Protection Agency.
 
-(2) The term “construction,” with respect to any project of construction under this chapter, means (A) the erection or building of new structures and acquisition of lands or interests therein, or the acquisition, replacement, expansion, remodeling, alteration, modernization, or extension of existing structures, and (B) the acquisition and installation of initial equipment of, or required in connection with, new or newly acquired structures or the expanded, remodeled, altered, modernized or extended part of existing structures (including trucks and other motor vehicles, and tractors, cranes, and other machinery) necessary for the proper utilization and operation of the facility after completion of the project; and includes preliminary planning to determine the economic and engineering feasibility and the public health and safety aspects of the project, the engineering, architectural, legal, fiscal, and economic investigations and studies, and any surveys, designs, plans, working drawings, specifications, and other action necessary for the carrying out of the project, and (C) the inspection and supervision of the process of carrying out the project to completion.
+(2) The term “construction,” with respect to any project of construction under this chapter, means (A) the erection or building of new structures and acquisition of lands or interests therein, or the acquisition, replacement, expansion, remodeling, alteration, modernization, or extension of existing structures, and (B) the acquisition and installation of initial equipment of, or required in connection with, new or newly acquired structures or the expanded, remodeled,altered, modernized or extended part of existing structures (including trucks and other motor vehicles, and tractors, cranes, and other machinery) necessary for the proper utilization and operation of the facility after completion of the project; and includes preliminary planning to determine the economic and engineering feasibility and the public health and safety aspects of the project, the engineering, architectural, legal, fiscal, and economic investigations and studies, and any surveys, designs, plans, working drawings, specifications, and other action necessary for the carrying out of the project, and (C) the inspection and supervision of the process of carrying out the project to completion.
 
 (2A) The term “demonstration” means the initial exhibition of a new technology process or practice or a significantly new combination or use of technologies, processes or practices, subsequent to the development stage, for the purpose of proving technological feasibility and cost effectiveness.
 
@@ -102,13 +102,13 @@ As used in this chapter:
 
 (40) Except as otherwise provided in this paragraph, the term “medical waste” means any solid waste which is generated in the diagnosis, treatment, or immunization of human beings or animals, in research pertaining thereto, or in the production or testing of biologicals. Such term does not include any hazardous waste identified or listed under subchapter III of this chapter or any household waste as defined in regulations under subchapter III of this chapter.
 
-(41) The term “mixed waste” means waste that contains both hazardous waste and source, special nuclear, or by-product material subject tothe Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.).
+(41) The term “mixed waste” means waste that contains both hazardous waste and source, special nuclear, or by-product material subject to the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.).
 
 (Pub. L. 89–272, title II, §1004, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2798; amended Pub. L. 95–609, §7(b), Nov. 8, 1978, 92 Stat. 3081; Pub. L. 96–463, §3, Oct. 15, 1980, 94 Stat. 2055; Pub. L. 96–482, §2, Oct. 21, 1980, 94 Stat. 2334; Pub. L. 100–582, §3, Nov. 1, 1988, 102 Stat. 2958; Pub. L. 102–386, title I, §§103, 105(b), Oct. 6, 1992, 106 Stat. 1507, 1512.)
 
 #### References in Text
 
-The Atomic Energy Act of 1954, referred to in pars. (27) and (41), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, referred to in pars. (27) and (41), is act Aug. 1, 1946, ch. 724, as added by actAug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 #### Prior Provisions
 
@@ -116,19 +116,19 @@ Provisions similar to those in this section were contained in section 3252 of th
 
 #### Amendments
 
-1992—Par. (15). Pub. L. 102–386, §103, inserted before period at end “and shall include each department, agency, and instrumentality of the United States”.
+<b>1992</b>—Par. (15). Pub. L. 102–386, §103, inserted before period at end “and shall include each department, agency, and instrumentality of the United States”.
 
 Par. (41). Pub. L. 102–386, §105(b), added par. (41).
 
-1988—Par. (40). Pub. L. 100–582 added par. (40).
+<b>1988</b>—Par. (40). Pub. L. 100–582 added par. (40).
 
-1980—Par. (14). Pub. L. 96–482, §2(a), defined “open dump” to include a facility, substituted requirement that disposal facility or site not be a sanitary landfill meeting section 6944 of this title criteria for prior requirement that disposal site not be a sanitary landfill within meaning of section 6944 of this title, and required that the disposal facility or site not be a facility for disposal of hazardous waste.
+<b>1980</b>—Par. (14). Pub. L. 96–482, §2(a), defined “open dump” to include a facility, substituted requirement that disposal facility or site not be a sanitary landfill meeting section 6944 of this title criteria for prior requirement that disposal site not be a sanitary landfill within meaning of section 6944 of this title, and required that the disposal facility or site not be a facility for disposal of hazardous waste.
 
 Par. (19). Pub. L. 96–482, §2(b), defined “recovered material” to cover byproducts, substituted provision for recovery or diversion of waste material and byproducts from solid waste for prior provision for collection or recovery of material from solid waste, and excluded materials and byproducts generated from and commonly reused within an original manufacturing process.
 
 Pars. (36) to (39). Pub. L. 96–463, §3, added pars. (36) to (39).
 
-1978—Par. (8). Pub. L. 95–609, §7(b)(1), struck out provision stating that employees’ salaries due pursuant to subchapter IV of this chapter would not be included after Dec. 31, 1979.
+<b>1978</b>—Par. (8). Pub. L. 95–609, §7(b)(1), struck out provision stating that employees’ salaries due pursuant to subchapter IV of this chapter would not be included after Dec. 31, 1979.
 
 Par. (10). Pub. L. 95–609, §7(b)(2), substituted “management” for “disposal”.
 

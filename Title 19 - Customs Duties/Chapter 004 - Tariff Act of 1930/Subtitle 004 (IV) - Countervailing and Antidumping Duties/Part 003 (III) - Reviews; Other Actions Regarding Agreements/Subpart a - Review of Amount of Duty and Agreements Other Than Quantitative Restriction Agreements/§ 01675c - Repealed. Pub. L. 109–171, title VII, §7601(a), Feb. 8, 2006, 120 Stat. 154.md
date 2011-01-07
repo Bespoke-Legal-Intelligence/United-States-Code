@@ -44,5 +44,15 @@ Limitation.—Nothing in this section shall be construed to prevent the Secretar
 
 #### Distributions on Certain Entries
 
+Pub. L. 111–291, title VIII, §822, Dec. 8, 2010, 124 Stat. 3163, as amended by Pub. L. 111–312, title V, §504(a), Dec. 17, 2010, 124 Stat. 3308, provided that: “Notwithstanding section 1701(b) \[probably means 7601(b)\] of the Deficit Reduction Act of 2005 (Public Law 109–171; 120 Stat. 154 (19 U.S.C. 1675c note) \[set out below\]) or any other provision of law, no payments shall be distributed under section 754 of the Tariff Act of 1930 \[this section\], as in effect on the day before the date of the enactment of such section 1701 \[probably means 7601, which was approved Feb. 8, 2006\], with respect to the entries of any goods that are, on the date of the enactment of this Act \[Dec. 8, 2010\]—
+
+&emsp;“(1) unliquidated; and
+
+&emsp;“(2)(A) not in litigation; and
+
+&emsp;“(B) not under an order of liquidation from the Department of Commerce.”
+
+\[Pub. L. 111–312, title V, §504(b), Dec. 17, 2010, 124 Stat. 3308, provided that: “The amendment made by subsection (a) \[amending section 822 of Pub. L. 111–291, set out above\] shall take effect as if included in the provisions of the Claims Resolution Act of 2010 \[Pub. L. 111–291\].”\]
+
 Pub. L. 109–171, title VII, §7601(b), Feb. 8, 2006, 120 Stat. 154, provided that: “All duties on entries of goods made and filed before October 1, 2007, that would, but for subsection (a) of this section \[repealing this section\], be distributed under section 754 of the Tariff Act of 1930 \[this section\], shall be distributed as if section 754 of the Tariff Act of 1930 had not been repealed by subsection (a).”
 

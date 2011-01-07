@@ -2,7 +2,7 @@
 
 (a) Under regulations prescribed by the Secretaries concerned, when dependents of members of the uniformed services are authorized or ordered to depart by competent authority, they may be authorized such allowances as the Secretary concerned determines necessary to offset the expenses incident to the departure. Allowances authorized by this section are in addition to those authorized by any other section of this title. Such allowances may be paid in advance. For the purposes of this section, a dependent “authorized or ordered to depart by competent authority” includes—
 
-&emsp;(1) a dependent who is present at or in the vicinity of the member's duty station whenthe departure of dependents is authorized or ordered by competent authority and who actually moved to an authorized safe haven designated by that authority, whether such safe haven is at or in the vicinity of the member's duty station or elsewhere;
+&emsp;(1) a dependent who is present at or in the vicinity of the member's duty station when the departure of dependents is authorized or ordered by competent authority and who actually moved to an authorized safe haven designated by that authority, whether such safe haven is at or in the vicinity of the member's duty station or elsewhere;
 
 &emsp;(2) a dependent who resides at or in the vicinity of a former duty station of the member following the assignment of the member elsewhere or who resides at or in the vicinity of a duty station (other than the duty station of the member) incident to orders in connection with an unaccompanied tour of duty of the member, if a departure of dependents is authorized or ordered by competent authority from the duty station at which or in the vicinity of which the dependent resides and the dependent actually moves to an authorized safe haven designated by that authority;
 
@@ -18,23 +18,23 @@
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–261 designated existing provisions as par. (1) and added par. (2).
+<b>1998</b>—Subsec. (b). Pub. L. 105–261 designated existing provisions as par. (1) and added par. (2).
 
-1996—Subsec. (a). Pub. L. 104–106 substituted “authorized or ordered” for “ordered” wherever appearing.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106 substituted “authorized or ordered” for “ordered” wherever appearing.
 
-1992—Subsec. (a)(2) to (4). Pub. L. 102–484 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+<b>1992</b>—Subsec. (a)(2) to (4). Pub. L. 102–484 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-1991—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 
-1986—Pub. L. 99–661 substituted “departure” for “evacuation” in section catchline.
+<b>1986</b>—Pub. L. 99–661 substituted “departure” for “evacuation” in section catchline.
 
-1981—Subsec. (a). Pub. L. 97–60, §123, inserted provision authorizing the payment of allowances in advance.
+<b>1981</b>—Subsec. (a). Pub. L. 97–60, §123, inserted provision authorizing the payment of allowances in advance.
 
 Subsec. (b). Pub. L. 97–60, §121(c), substituted “that is owned by the member (or a dependent of the member) and is for the personal use of the member or his dependents” for “owned by him and for his personal use, or the use of the dependents,”.
 
-1980—Subsec. (a). Pub. L. 96–465 substituted “to depart” and “departure” for “evacuated” and “evacuation”, respectively, wherever appearing.
+<b>1980</b>—Subsec. (a). Pub. L. 96–465 substituted “to depart” and “departure” for “evacuated” and “evacuation”, respectively, wherever appearing.
 
-1966—Subsec. (a). Pub. L. 89–608 struck out provision requiring that to qualify for allowances the evacuated dependents have been evacuated from places outside the United States to places inside the United States.
+<b>1966</b>—Subsec. (a). Pub. L. 89–608 struck out provision requiring that to qualify for allowances the evacuated dependents have been evacuated from places outside the United States to places inside the United States.
 
 #### Effective Date of 1998 Amendment
 

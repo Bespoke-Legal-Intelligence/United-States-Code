@@ -10,7 +10,7 @@ Any money realized by proceedings under this subchapter (whether by seizure, by 
 
 #### (2) Specific tax liability on seized property
 
-&emsp;If the property seized and sold is subject to a tax imposed by any internal revenue lawwhich has not been paid, the amount remaining after applying paragraph (1) shall then be applied against such tax liability (and, if such tax was not previously assessed, it shall then be assessed);
+&emsp;If the property seized and sold is subject to a tax imposed by any internal revenue law which has not been paid, the amount remaining after applying paragraph (1) shall then be applied against such tax liability (and, if such tax was not previously assessed, it shall then be assessed);
 
 #### (3) Liability of delinquent taxpayer
 
@@ -26,13 +26,11 @@ Any surplus proceeds remaining after the application of subsection (a) shall, up
 
 Section 6332(c), referred to in subsec. (a), was redesignated section 6332(d) by Pub. L. 100–647, title VI, §6236(e)(1), Nov. 10, 1988, 102 Stat. 3739.
 
-The internal revenue law, referred to in subsec. (a)(2), is classified generally to this title.
-
 #### Amendments
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1966—Subsec. (a). Pub. L. 89–719 inserted in introductory provisions, references to an exception in the case of surrender under section 6332(c)(2) and to sale of property redeemed by the United States if the interest of the United States in such property was a lien arising under the provisions of this title, struck out “under this subchapter” after “proceedings” in par. (1), and inserted “or the sale was conducted” after “levy was made” in par. (3).
+<b>1966</b>—Subsec. (a). Pub. L. 89–719 inserted in introductory provisions, references to an exception in the case of surrender under section 6332(c)(2) and to sale of property redeemed by the United States if the interest of the United States in such property was a lien arising under the provisions of this title, struck out “under this subchapter” after “proceedings” in par. (1), and inserted “or the sale was conducted” after “levy was made” in par. (3).
 
 #### Effective Date of 1966 Amendment
 

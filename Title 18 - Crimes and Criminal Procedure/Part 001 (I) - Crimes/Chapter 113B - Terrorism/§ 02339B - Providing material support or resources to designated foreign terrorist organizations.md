@@ -180,7 +180,7 @@ Appeals during trial.—If an appeal is taken during trial, the trial court shal
 
 &emsp;&emsp;(C)
 
-Effect of ruling.—An interlocutory appeal and decision shall not affect the right of the defendant, in a subsequent appeal from a final judgment, to claim as error reversal by the trial court on remand of a ruling appealed from during trial.
+Effect of ruling.—An interlocutory appeal and decision shall not affect the rightof the defendant, in a subsequent appeal from a final judgment, to claim as error reversal by the trial court on remand of a ruling appealed from during trial.
 
 &emsp;(6)
 
@@ -230,13 +230,13 @@ Section 219 of the Immigration and Nationality Act, referred to in subsec. (g)(6
 
 #### Amendments
 
-2009—Subsec. (f)(5)(B)(ii). Pub. L. 111–16, §3(6), substituted “14 days” for “10 days”.
+<b>2009</b>—Subsec. (f)(5)(B)(ii). Pub. L. 111–16, §3(6), substituted “14 days” for “10 days”.
 
 Subsec. (f)(5)(B)(iii)(I). Pub. L. 111–16, §3(7), inserted “, excluding intermediate weekends and holidays” after “trial”.
 
-Subsec. (f)(5)(B)(iii)(III). Pub. L. 111–16, §3(8), inserted “, excluding intermediate weekends and holidays” for “appeal”.
+Subsec. (f)(5)(B)(iii)(III). Pub. L. 111–16, §3(8), inserted “, excluding intermediate weekends and holidays” after “appeal”.
 
-2004—Subsec. (a)(1). Pub. L. 108–458, §6603(c), struck out “, within the United States or subject to the jurisdiction of the United States,” after “Whoever” and inserted at end “To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).”
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–458, §6603(c), struck out “, within the United States or subject to the jurisdiction of the United States,” after “Whoever” and inserted at end “To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).”
 
 Subsec. (d). Pub. L. 108–458, §6603(d), designated existing provisions as par. (2), inserted par. (2) heading, and added par. (1).
 
@@ -244,7 +244,7 @@ Subsec. (g)(4). Pub. L. 108–458, §6603(e), amended par. (4) generally. Prior 
 
 Subsecs. (h) to (j). Pub. L. 108–458, §6603(f), added subsecs. (h) to (j).
 
-2001—Subsec. (a)(1). Pub. L. 107–56 substituted “15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life” for “10 years, or both”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–56 substituted “15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life” for “10 years, or both”.
 
 #### Effective Date of 2009 Amendment
 

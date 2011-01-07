@@ -10,7 +10,7 @@ In the case of taxable years beginning after December 31, 1987, of an insurance 
 
 &emsp;&emsp;(B) the amount of the related discounted, unpaid losses determined under section 846,
 
-> &emsp;to the extent such amount was not deducted under this paragraph in a preceding taxable year. Section 6655 shall be applied to any taxable year without regard to the deduction allowed under the preceding sentence.
+> &emsp;to the extent such amount was not deducted under this paragraph in a preceding taxableyear. Section 6655 shall be applied to any taxable year without regard to the deduction allowed under the preceding sentence.
 
 #### (2) Special estimated tax payments
 
@@ -50,7 +50,7 @@ In the case of taxable years beginning after December 31, 1987, of an insurance 
 
 #### (8) Tax benefit determination
 
-&emsp;The tax benefit attributable to the deduction under paragraph (1) shall be determined under regulations prescribed by the Secretary, by taking into account tax benefits that would arise from the carryback of any net operating loss for the year, as well as current year tax benefits. Tax benefits for the current year and carryback years shall include those that would arise from the filing of a consolidated return with another insurance company required to determine discounted, unpaid losses under section 846 without regard to the limitations on consolidation contained in section 1503(c). The limitations on consolidation contained in section 1503(c) shall not apply to the deduction allowed under paragraph (1).
+&emsp;The tax benefit attributable to the deduction under paragraph (1) shall be determined under regulations prescribed by the Secretary, by taking into account tax benefits that would arise from the carryback of any net operating loss for the year, as well as current year tax benefits. Tax benefits for the current year and carryback years shall include those that would arise from the filing of a consolidated return with another insurance company required to determine discounted, unpaid losses under section 846 without regard to the limitations on consolidation contained in section1503(c). The limitations on consolidation contained in section 1503(c) shall not apply to the deduction allowed under paragraph (1).
 
 #### (9) Effect on earnings and profits
 
@@ -80,7 +80,7 @@ Enactment of this section, referred to in par. (7), means enactment of Pub. L. 1
 
 #### Amendments
 
-1989—Par. (1). Pub. L. 101–239, §7816(n)(1), substituted “special estimated tax” for “separate estimated tax” in introductory provisions and inserted “in taxable years beginning” after “attributable to losses incurred” in subpar. (A).
+<b>1989</b>—Par. (1). Pub. L. 101–239, §7816(n)(1), substituted “special estimated tax” for “separate estimated tax” in introductory provisions and inserted “in taxable years beginning” after “attributable to losses incurred” in subpar. (A).
 
 Par. (2). Pub. L. 101–239, §7816(n)(2), amended first sentence generally. Prior to amendment, first sentence read as follows: “The deduction under paragraph (1) shall be allowed only to the extent that special estimated tax payments are made in an amount equal to the tax benefit attributable to such deduction, on or before the date that any taxes (determined without regard to this section) for the taxable year for which the deduction is allowed are due to be paid.”
 

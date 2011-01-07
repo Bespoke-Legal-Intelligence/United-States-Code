@@ -58,7 +58,7 @@ Civil Service Employees.—The Office of Personnel Management shall establish a 
 
 &emsp;“(2) the total annual leave that has been donated under paragraph (1) shall be divided equally among the annual leave accounts of all employees who have been members of the Armed Forces serving on active duty during the Persian Gulf conflict pursuant to an order issued under section 672(a) \[now 12301(a)\], 672(g) \[now 12301(g)\], 673 \[now 12302\], 673b \[now 12304\], 674 \[now 12306\], 675 \[now 12307\], or 688 of title 10, United States Code, and who return to civilian employment with their agencies; and
 
-&emsp;“(3) such Persian Gulf concflict \[sic\] participants who have returned to civilian employment may use such annual leave, after it is credited to their leave accounts, in the same manner as any other annual leave to their credit.
+&emsp;“(3) such Persian Gulf concflict \[sic\] participants who have returned to civilian employment may usesuch annual leave, after it is credited to their leave accounts, in the same manner as any other annual leave to their credit.
 
 “(b)
 

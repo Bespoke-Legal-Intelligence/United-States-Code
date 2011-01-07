@@ -4,9 +4,11 @@ As used in this part:
 
 #### (a) Total income
 
-(1) Except as provided in paragraph (2), the term “total income” is equal to adjusted gross income plus untaxed income and benefits for the preceding tax year minus excludable income (as defined in subsection (e) of this section).
+(1)(A) Except as provided in subparagraph (B) and paragraph (2), the term “total income” is equal to adjusted gross income plus untaxed income and benefits for the preceding tax year minus excludable income (as defined in subsection (e) of this section).
 
-(2) No portion of any student financial assistance received from any program by an individual, no portion of a national service educational award or post-service benefit received by an individual under title I of the National and Community Service Act of 1990 (42 U.S.C. 12511 et seq.), no portion of any tax credit taken under section 25A of title 26, and no distribution from any qualified education benefit described in subsection (f)(3) that is not subject to Federal income tax, shall be included as income or assets in the computation of expected family contribution for any program funded in whole or in part under this chapter.
+(B) Notwithstanding section 1087rr(a) of this title, the Secretary may provide for the use of data from the second preceding tax year when and to the extent necessary to carry out the simplification of applications (including simplification for a subset of applications) used for the estimation and determination of financial aid eligibility. Such simplification may include the sharing of data between the Internal Revenue Service and the Department, pursuant to the consent of the taxpayer.
+
+(2) No portion of any student financial assistance received from any program by an individual, no portion of veterans’ education benefits received by an individual, no portion of a national service educational award or post-service benefit received by an individual under title I of the National and Community Service Act of 1990 (42 U.S.C. 12511 et seq.), no portion of any tax credit taken under section 25A of title 26, and no distribution from any qualified education benefit described in subsection (f)(3) that is not subject to Federal income tax, shall be included as income or assets in the computation of expected family contribution for any program funded in whole or in part under this chapter and part C of subchapter I of chapter 34 of title 42.
 
 #### (b) Untaxed income and benefits
 
@@ -20,7 +22,7 @@ As used in this part:
 
 &emsp;(D) interest on tax-free bonds;
 
-&emsp;(E) housing, food, and other allowances (excluding rent subsidies for low-income housing) for military, clergy, and others (including cash payments and cash value of benefits);
+&emsp;(E) housing, food, and other allowances (excluding rent subsidies for low-income housing) for military, clergy, and others (including cash payments and cash value of benefits), except that the value of on-base military housing or the value of basic allowance for housing determined under section 403(b) of title 37 received by the parents, in the case of a dependent student, or the student or student's spouse, in the case of an independent student, shall be excluded;
 
 &emsp;(F) cash support or any money paid on the student's behalf, except, for dependent students, funds provided by the student's parents;
 
@@ -86,9 +88,9 @@ As used in this part:
 
 &emsp;&emsp;(A) is 24 years of age or older by December 31 of the award year;
 
-&emsp;&emsp;(B) is an orphan, in foster care, or a ward of the court, at any time when the individual is 13 years of age or older;
+&emsp;&emsp;(B) is an orphan, in foster care, or a ward of the court, or was an orphan, in foster care, or a ward of the court at any time when the individual was 13 years of age or older;
 
-&emsp;&emsp;(C) is an emancipated minor or is in legal guardianship as determined by a court of competent jurisdiction in the individual's State of legal residence;
+&emsp;&emsp;(C) is, or was immediately prior to attaining the age of majority, an emancipated minor or in legal guardianship as determined by a court of competent jurisdiction in the individual's State of legal residence;
 
 &emsp;&emsp;(D) is a veteran of the Armed Forces of the United States (as defined in subsection (c)(1) of this section) or is currently serving on active duty in the Armed Forces for other than training purposes;
 
@@ -120,13 +122,15 @@ The term “excludable income” means—
 
 &emsp;(1) any student financial assistance awarded based on need as determined in accordance with the provisions of this part, including any income earned from work under part C of subchapter I of chapter 34 of title 42;
 
-&emsp;(2) any living allowance received by a participant in a program established under the National and Community Service Act of 1990 \[42 U.S.C. 12501 et seq.\];
+&emsp;(2) any income earned from work under a cooperative education program offered by an institution of higher education;
 
-&emsp;(3) child support payments made by the student or parent;
+&emsp;(3) any living allowance received by a participant in a program established under the National and Community Service Act of 1990 \[42 U.S.C. 12501 et seq.\];
 
-&emsp;(4) payments made and services provided under part E of title IV of the Social Security Act \[42 U.S.C. 670 et seq.\]; and
+&emsp;(4) child support payments made by the student or parent;
 
-&emsp;(5) special combat pay.
+&emsp;(5) payments made and services provided under part E of title IV of the Social Security Act \[42 U.S.C. 670 et seq.\]; and
+
+&emsp;(6) special combat pay.
 
 #### (f) Assets
 
@@ -168,13 +172,13 @@ The term “net assets” means the current market value at the time of applicat
 
 #### (h) Treatment of income taxes paid to other jurisdictions
 
-(1) The tax on income paid to the Governments of the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, or the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, theFederated States of Micronesia, or Palau under the laws applicable to those jurisdictions, or the comparable tax paid to the central government of a foreign country, shall be treated as Federal income taxes.
+(1) The tax on income paid to the Governments of the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, or the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or Palau under the laws applicable to those jurisdictions, or the comparable tax paid to the central government of a foreign country, shall be treated as Federal income taxes.
 
 (2) References in this part to title 26, Federal income tax forms, and the Internal Revenue Service shall, for purposes of the tax described in paragraph (1), be treated as references to the corresponding laws, tax forms, and tax collection agencies of those jurisdictions, respectively, subject to such adjustments as the Secretary may provide by regulation.
 
 #### (i) Current balance
 
-The term “current balance of checking and savings accounts” does not include any funds over which an individual is barred from exercising discretion and control because of the actions of any State in declaring a bank emergency due to the insolvency of a private deposit insurance fund.
+The term “current balance of checking and savings accounts” does not include any fundsover which an individual is barred from exercising discretion and control because of the actions of any State in declaring a bank emergency due to the insolvency of a private deposit insurance fund.
 
 #### (j) Other financial assistance
 
@@ -216,55 +220,15 @@ The term “business assets” means property that is used in the operation of a
 
 The term “special combat pay” means pay received by a member of the Armed Forces because of exposure to a hazardous situation.
 
-(Pub. L. 89–329, title IV, §480, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(28), June 3, 1987, 101 Stat. 353; Pub. L. 100–369, §7(b), July 18, 1988, 102 Stat. 837; Pub. L. 101–610, title I, §185(3), (4), Nov. 16, 1990, 104 Stat. 3168; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606; Pub. L. 103–82, title I, §102(c)(4), (5), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(g)(17)–(20), Dec. 20, 1993, 107 Stat. 2474; Pub. L. 104–193, title I, §110(h)(2), Aug. 22, 1996, 110 Stat. 2172; Pub. L. 105–78, title VI, §609(j), (k), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §479, Oct. 7, 1998, 112 Stat. 1732; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(B), (f)(12)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 109–171, title VIII, §8019, Feb. 8, 2006, 120 Stat.176; Pub. L. 110–84, title VI, §604(a), Sept. 27, 2007, 121 Stat. 806; Pub. L. 110–153, §1(a), Dec. 21, 2007, 121 Stat. 1824; Pub. L. 110–315, title IV, §473(a)–(e), Aug. 14, 2008, 122 Stat. 3270, 3271; Pub. L. 111–39, title IV, §406(a)(6)–(8), July 1, 2009, 123 Stat. 1949, 1950.)
-
-#### Amendment of Section
-
-<i>Pub. L. 110–315, title IV, §473(a)–(d), (f), Aug. 14, 2008, 122 Stat. 3270, 3271, provided that, effective July 1, 2010, this section is amended—</i>
-
-<i>(a) in subsection (a)—</i>
-
-<i>(1) in paragraph (1)—</i>
-
-<i>(A) by inserting “(A)” after “(1)”;</i>
-
-<i>(B) by inserting “subparagraph (B) and” after “provided in”; and</i>
-
-<i>(C) by adding at the end the following new subparagraph:</i>
-
-<i>“(B) Notwithstanding section 1087rr(a) of this title, the Secretary may provide for the use of data from the second preceding tax year when and to the extent necessary to carry out the simplification of applications (including simplification for a subset of applications) used for the estimation and determination of financial aid eligibility. Such simplification may include the sharing of data between the Internal Revenue Service and the Department, pursuant to the consent of the taxpayer.”; and</i>
-
-<i>(2) in paragraph (2), by inserting “no portion of veterans’ education benefits received by an individual,” after “any program by an individual,”.</i>
-
-<i>(b) in subsection (b)(1)(E) by inserting “, except that the value of on-base military housing or the value of basic allowance for housing determined under section 403(b) of title 37 received by the parents, in the case of a dependent student, or the student or student's spouse, in the case of an independent student, shall be excluded” before the semicolon.</i>
-
-<i>(c) in subsection (d)(1)—</i>
-
-<i>(1) by striking subparagraph (B) and inserting the following:</i>
-
-&emsp;&emsp;<i>“(B) is an orphan, in foster care, or a ward of the court, or was an orphan, in foster care, or a ward of the court at any time when the individual was 13 years of age or older;”; and</i>
-
-<i>(2) by striking subparagraph (C) and inserting the following:</i>
-
-&emsp;&emsp;<i>“(C) is, or was immediately prior to attaining the age of majority, an emancipated minor or in legal guardianship as determined by a court of competent jurisdiction in the individual's State of legal residence;”.</i>
-
-<i>(d) in subsection (e)—</i>
-
-<i>(1) by redesignating paragraphs (2) through (5) as paragraphs (3) through (6), respectively; and</i>
-
-<i>(2) by inserting after paragraph (1) the following new paragraph:</i>
-
-&emsp;<i>“(2) any income earned from work under a cooperative education program offered by an institution of higher education;”.</i>
+(Pub. L. 89–329, title IV, §480, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(28), June 3, 1987, 101 Stat. 353; Pub. L. 100–369, §7(b), July 18, 1988, 102 Stat. 837; Pub. L. 101–610, title I, §185(3), (4), Nov. 16, 1990, 104 Stat. 3168; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606; Pub. L. 103–82, title I, §102(c)(4), (5), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(g)(17)–(20), Dec. 20, 1993, 107 Stat. 2474; Pub. L. 104–193, title I, §110(h)(2), Aug. 22, 1996, 110 Stat. 2172; Pub. L. 105–78, title VI, §609(j), (k), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §479, Oct. 7, 1998, 112 Stat. 1732; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(B), (f)(12)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 109–171, title VIII, §8019, Feb. 8, 2006, 120 Stat. 176; Pub. L. 110–84, title VI, §604(a), Sept. 27, 2007, 121 Stat. 806; Pub. L. 110–153, §1(a), Dec. 21, 2007, 121 Stat. 1824; Pub. L. 110–315, title IV, §473(a)–(e), Aug. 14, 2008, 122 Stat. 3270, 3271; Pub. L. 111–39, title IV, §406(a)(6)–(8), July 1, 2009, 123 Stat. 1949, 1950.)
 
 #### References in Text
 
-The National and Community Service Act of 1990, referred to in subsecs. (a)(2), (e)(2), and (j)(1), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. Title I of the Act enacted subchapter I (§12511 et seq.) of chapter 129 of Title 42 and amended this section and section 1070a–6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
-
-This chapter, referred to in subsec. (a)(2), was in the original “this Act”, meaning Pub. L. 89–329, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The National and Community Service Act of 1990, referred to in subsecs. (a)(2), (e)(3), and (j)(1), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. Title I of the Act enacted subchapter I (§12511 et seq.) of chapter 129 of Title 42 and amended this section and section 1070a–6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 The Workforce Investment Act of 1998, referred to in subsec. (b)(1)(I), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
-The Social Security Act, referred to in subsecs. (b)(2)(B) and (e)(4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and E of title IV of the Act are classified generally to parts A (§601 et seq.) and E (§670 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (b)(2)(B) and (e)(5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and E of title IV of the Act are classified generally to parts A (§601 et seq.) and E (§670 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 903 of the Department of Defense Authorization Act, 1981, referred to in subsec. (c)(2)(J), is section 903 of Pub. L. 96–342, which is set out as a note under section 2141 of Title 10, Armed Forces.
 
@@ -280,15 +244,29 @@ Amendment by section 2(g)(19) of Pub. L. 103–208 (which was effective as if in
 
 #### Amendments
 
-2009—Subsec. (a)(2). Pub. L. 111–39, §406(a)(6), substituted “12511” for “12571”.
+<b>2009</b>—Subsec. (a)(2). Pub. L. 111–39, §406(a)(6), substituted “12511” for “12571”.
 
 Subsec. (c)(2). Pub. L. 111–39, §406(a)(7), substituted “benefits under the following provisions of law” for “the following” in introductory provisions, added subpars. (A) to (L), and struck out former subpars. (A) to (J) which listed, respectively, the following provisions of law: title 10, chapter 2; title 10, chapter 106; title 10, chapter 107; title 37, chapter 2; title 38, chapter 30; title 38, chapter 31; title 38, chapter 32; title 38, chapter 35; Public Law 97–376, section 156; and Public Law 96–342, section 903.
 
 Subsec. (j)(1). Pub. L. 111–39, §406(a)(8), substituted “12511” for “12571”.
 
-2008—Subsec. (j)(1). Pub. L. 110–315, §473(e), struck out “veterans’ education benefits as defined in subsection (c) of this section, and” before “national service educational awards” and inserted “, but excluding veterans’ education benefits as defined in subsection (c)” before period at end.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–315, §473(a)(1), designated existing provisions as subpar. (A), inserted “subparagraph (B) and” after “provided in”, and added subpar. (B).
 
-2007—Subsec. (a)(2). Pub. L. 110–84, §604(a)(1), substituted “no portion of any” for “and no portion of any” and inserted “and no distribution from any qualified education benefit described in subsection (f)(3) that is not subject to Federal income tax,” after “section 25A of title 26,”.
+Subsec. (a)(2). Pub. L. 110–315, §473(a)(2), inserted “no portion of veterans’ education benefits received by an individual,” after “any program by an individual,”.
+
+Subsec. (b)(1)(E). Pub. L. 110–315, §473(b), inserted “, except that the value of on-base military housing or the value of basic allowance for housing determined under section 403(b) of title 37 received by the parents, in the case of a dependent student, or the student or student's spouse, in the case of an independent student, shall be excluded” before semicolon.
+
+Subsec. (d)(1)(B), (C). Pub. L. 110–315, §473(c), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
+
+“(B) is an orphan, in foster care, or a ward of the court, at any time when the individual is 13 years of age or older;
+
+“(C) is an emancipated minor or is in legal guardianship as determined by a court of competent jurisdiction in the individual's State of legal residence;”.
+
+Subsec. (e)(2) to (6). Pub. L. 110–315, §473(d), added par. (2) and redesignated former pars. (2) to (5) as (3) to (6), respectively.
+
+Subsec. (j)(1). Pub. L. 110–315, §473(e), struck out “veterans’ education benefits as defined in subsection (c) of this section, and” before “national service educational awards” and inserted “, but excluding veterans’ education benefits as defined in subsection (c)” before period at end.
+
+<b>2007</b>—Subsec. (a)(2). Pub. L. 110–84, §604(a)(1), substituted “no portion of any” for “and no portion of any” and inserted “and no distribution from any qualified education benefit described in subsection (f)(3) that is not subject to Federal income tax,” after “section 25A of title 26,”.
 
 Subsec. (b). Pub. L. 110–84, §604(a)(2), added subsec. (b) and struck out former subsec. (b) which defined “untaxed income and benefits”.
 
@@ -312,7 +290,7 @@ Subsec. (j)(4). Pub. L. 110–84, §604(a)(6)(B), added par. (4).
 
 Subsec. (n). Pub. L. 110–84, §604(a)(7), added subsec. (n).
 
-2006—Subsec. (d)(3). Pub. L. 109–171, §8019(a), inserted “or is currently serving on active duty in the Armed Forces for other than training purposes” before semicolon at end.
+<b>2006</b>—Subsec. (d)(3). Pub. L. 109–171, §8019(a), inserted “or is currently serving on active duty in the Armed Forces for other than training purposes” before semicolon at end.
 
 Subsec. (f)(1). Pub. L. 109–171, §8019(b), inserted “qualified education benefits (except as provided in paragraph (3)),” after “tax shelters,”.
 
@@ -328,7 +306,7 @@ Subsec. (j)(2), (3). Pub. L. 109–171, §8019(e)(2)–(4), struck out par. (2),
 
 “(B) If the institutional expense covered by the prepayment must be part of the student's cost of attendance for accounting purposes, the prepayment shall be considered estimated financial assistance.”
 
-1998—Subsec. (b)(14). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(12)(B)\], struck out “Job Training Partnership Act noneducational benefits or” after “railroad retirement benefits, or”.
+<b>1998</b>—Subsec. (b)(14). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(12)(B)\], struck out “Job Training Partnership Act noneducational benefits or” after “railroad retirement benefits, or”.
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(15)(B)\], substituted “Job Training Partnership Act noneducational benefits or benefits received through participation in employment and training activities under title I of the Workforce Investment Act of 1998” for “Job Training Partnership Act noneducational benefits”.
 
@@ -336,13 +314,13 @@ Subsec. (j)(1). Pub. L. 105–244, §479(1), inserted before period at end “,�
 
 Subsec. (j)(3), (4). Pub. L. 105–244, §479(2), (3), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “Notwithstanding paragraph (1), a national service educational award or post-service benefit under title I of the National and Community Service Act of 1990 shall not be treated as financial assistance for purposes of section 1087kk(3) of this title.”
 
-1997—Subsec. (a)(2). Pub. L. 105–78, §609(j), substituted “program by an individual, no” for “program by an individual, and no” and inserted “and no portion of any tax credit taken under section 25A of title 26,” before “shall be included”.
+<b>1997</b>—Subsec. (a)(2). Pub. L. 105–78, §609(j), substituted “program by an individual, no” for “program by an individual, and no” and inserted “and no portion of any tax credit taken under section 25A of title 26,” before “shall be included”.
 
 Subsec. (j)(4). Pub. L. 105–78, §609(k), added par. (4).
 
-1996—Subsec. (b)(2). Pub. L. 104–193 substituted “assistance under a State program funded” for “aid to families with dependent children under a State plan approved”.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–193 substituted “assistance under a State program funded” for “aid to families with dependent children under a State plan approved”.
 
-1993—Subsec. (a)(2). Pub. L. 103–82, §102(c)(4), inserted “, and no portion of a national service educational award or post-service benefit received by an individual under title I of the National and Community Service Act of 1990,” after “by an individual”.
+<b>1993</b>—Subsec. (a)(2). Pub. L. 103–82, §102(c)(4), inserted “, and no portion of a national service educational award or post-service benefit received by an individual under title I of the National and Community Service Act of 1990,” after “by an individual”.
 
 Subsec. (c)(2). Pub. L. 103–208, §2(g)(17), made technical amendment to references to titles of the United States Code in subpars. (A) to (H).
 
@@ -354,15 +332,15 @@ Pub. L. 103–82, §102(c)(5), added par. (3).
 
 Subsecs. (k) to (m). Pub. L. 103–208, §2(g)(20), added subsecs. (k) to (m).
 
-1992—Pub. L. 102–325 amended section generally, substituting subsecs. (a) to (j) for former subsecs. (a) to (i).
+<b>1992</b>—Pub. L. 102–325 amended section generally, substituting subsecs. (a) to (j) for former subsecs. (a) to (i).
 
-1990—Subsec. (d)(2)(F). Pub. L. 101–610, §185(4), inserted “and living allowances as a result of participation in a program established under the National and Community Service Act of 1990)” after “other than parents”.
+<b>1990</b>—Subsec. (d)(2)(F). Pub. L. 101–610, §185(4), inserted “and living allowances as a result of participation in a program established under the National and Community Service Act of 1990)” after “other than parents”.
 
 Subsec. (f)(3). Pub. L. 101–610, §185(3), added par. (3).
 
-1988—Subsec. (i). Pub. L. 100–369 added subsec. (i).
+<b>1988</b>—Subsec. (i). Pub. L. 100–369 added subsec. (i).
 
-1987—Subsec. (a)(1). Pub. L. 100–50, §14(28)(A), (B), substituted “paragraphs (2) through (4)” for “paragraphs (2) and (3)” and inserted “minus excludable income (as defined in subsection (f) of this section)” before period at end.
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–50, §14(28)(A), (B), substituted “paragraphs (2) through (4)” for “paragraphs (2) and (3)” and inserted “minus excludable income (as defined in subsection (f) of this section)” before period at end.
 
 Subsec. (a)(2). Pub. L. 100–50, §14(28)(C), added par. (2) and struck out former par. (2) which read as follows: “The Secretary shall promulgate special regulations to permit, in the computation of family contributions for the programs under subpart 2 of part A and parts B and D of this subchapter and part C of subchapter I of chapter 34 of title 42 for any academic year the exclusion from family income of any proceeds of a sale of farm or business assets of that family if such sale results from a voluntary or involuntary foreclosure, forfeiture, liquidation, or bankruptcy.”
 
@@ -376,7 +354,7 @@ Subsecs. (f) to (h). Pub. L. 100–50, §14(28)(G), added subsecs. (f) to (h).
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14,2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2008 Amendment
 

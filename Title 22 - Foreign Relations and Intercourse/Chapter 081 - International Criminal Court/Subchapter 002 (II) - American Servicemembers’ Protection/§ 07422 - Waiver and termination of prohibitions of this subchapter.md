@@ -74,7 +74,7 @@ The prohibitions and requirements of sections 7423, 7424, and 7425 of this title
 
 #### Amendments
 
-2008—Subsecs. (a), (b). Pub. L. 110–181, §1212(b)(1)(A), (B), substituted “section 7424” for “sections 7424 and 7426” in heading and text.
+<b>2008</b>—Subsecs. (a), (b). Pub. L. 110–181, §1212(b)(1)(A), (B), substituted “section 7424” for “sections 7424 and 7426” in heading and text.
 
 Subsecs. (c)(2)(A), (d). Pub. L. 110–181, §1212(b)(1)(C), (D), substituted “section 7424” for “sections 7424 and 7426”.
 

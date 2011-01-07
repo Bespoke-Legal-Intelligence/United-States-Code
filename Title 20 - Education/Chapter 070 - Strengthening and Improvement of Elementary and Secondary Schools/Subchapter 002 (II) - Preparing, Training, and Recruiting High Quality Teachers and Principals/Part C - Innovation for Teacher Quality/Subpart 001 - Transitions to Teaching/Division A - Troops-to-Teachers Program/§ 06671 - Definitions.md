@@ -52,9 +52,9 @@ A prior section 6671, Pub. L. 89–10, title II, §2301, as added Pub. L. 103–
 
 #### Amendments
 
-2006—Par. (4)(C). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Par. (4)(C). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
-2002—Par. (5)(D). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Par. (5)(D). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 #### Effective Date of 2002 Amendment
 

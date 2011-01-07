@@ -22,7 +22,7 @@ As used in this chapter—
 
 #### Amendments
 
-1980—Par. (6). Pub. L. 96–254 redefined “restructured Milwaukee Railroad” to mean the entity that is designated as the reorganized railroad under the reorganization plan for the Milwaukee Railroad finally certified by the Commission.
+<b>1980</b>—Par. (6). Pub. L. 96–254 redefined “restructured Milwaukee Railroad” to mean the entity that is designated as the reorganized railroad under the reorganization plan for the Milwaukee Railroad finally certified by the Commission.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

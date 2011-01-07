@@ -28,7 +28,11 @@ The Attorney General may promulgate such regulations and guidelines as may be ne
 
 #### (d) Authorization of appropriations
 
-For purposes of carrying out the activities under this section, there are authorized to be appropriated such sums as are necessary for fiscal years 2000 through 2004.
+For purposes of carrying out the activities under this section, there are authorized to be appropriated such sums as are necessary for fiscal years 2011 through 2015.
 
-(Pub. L. 106–559, title II, §201, Dec. 21, 2000, 114 Stat. 2781.)
+(Pub. L. 106–559, title II, §201, Dec. 21, 2000, 114 Stat. 2781; Pub. L. 111–211, title II, §242(b)(3)(B), July 29, 2010, 124 Stat. 2292.)
+
+#### Amendments
+
+<b>2010</b>—Subsec. (d). Pub. L. 111–211 substituted “2011 through 2015” for “2000 through 2004”.
 

@@ -18,19 +18,19 @@ The Appalachian Forest Act, referred to in the first undesignated paragraph, is 
 
 #### Amendments
 
-1981—Pub. L. 97–78, in first par., substituted “gilsonite (including all vein-type solid hydrocarbons),” for “native asphalt, solid and semisolid bitumen, and bituminous rock (including oil-impregnated rock or sands from which oil is recoverable only by special treatment after the deposit is mined or quarried)”, and added, after first par. three paragraphs which defined “oil”, “combined hydrocarbon lease”, and “special tar sand area”, respectively.
+<b>1981</b>—Pub. L. 97–78, in first par., substituted “gilsonite (including all vein-type solid hydrocarbons),” for “native asphalt, solid and semisolid bitumen, and bituminous rock (including oil-impregnated rock or sands from which oil is recoverable only by special treatment after the deposit is mined or quarried)”, and added, after first par. three paragraphs which defined “oil”, “combined hydrocarbon lease”, and “special tar sand area”, respectively.
 
-1960—Pub. L. 86–705 included deposits of native asphalt, solid and semisolid bitumen, and bituminous rock.
+<b>1960</b>—Pub. L. 86–705 included deposits of native asphalt, solid and semisolid bitumen, and bituminous rock.
 
-1946—Act Aug. 8, 1946, reenacted: existing par., less three provisos, as first sentence of first par., inserting “potassium” after “sodium”, which was also included in the 1927 amendment, and substituting provision for disposition of deposits “in incorporated cities, towns, and villages, and in national parks and monuments, those acquired under other Acts subsequent to February 25, 1920, and lands within the naval petroleum and oil-shale reserves” for such disposition “in national parks, and in lands withdrawn or reserved for military or naval uses or purposes” and phrase “associations of such citizens” for “any association of such persons”; former third proviso as second sentence of first par.; former first proviso, as second par., inserting reservation of ownership provision and striking out “permitted” before “leased or otherwise granted”; and former second proviso as proviso in second par.
+<b>1946</b>—Act Aug. 8, 1946, reenacted: existing par., less three provisos, as first sentence of first par., inserting “potassium” after “sodium”, which was also included in the 1927 amendment, and substituting provision for disposition of deposits “in incorporated cities, towns, and villages, and in national parks and monuments, those acquired under other Acts subsequent to February 25, 1920, and lands within the naval petroleum and oil-shale reserves” for such disposition “in national parks, and in lands withdrawn or reserved for military or naval uses or purposes” and phrase “associations of such citizens” for “any association of such persons”; former third proviso as second sentence of first par.; former first proviso, as second par., inserting reservation of ownership provision and striking out “permitted” before “leased or otherwise granted”; and former second proviso as proviso in second par.
 
-1927—Act Feb. 7, 1927, included deposits of potassium.
+<b>1927</b>—Act Feb. 7, 1927, included deposits of potassium.
 
 #### Short Title of 2000 Amendments
 
 Pub. L. 106–463, §1, Nov. 7, 2000, 114 Stat. 2010, provided that: “This Act \[amending section 184 of this title and enacting provisions set out as a note under section 184 of this title\] may be cited as the ‘Coal Market Competition Act of 2000’.”
 
-Pub. L. 106–393, title V, §501, Oct. 30, 2000, 114 Stat. 1624, provided that: “This title \[amending section 191 ofthis title and enacting provisions set out as a note under section 191 of this title\] may be cited as the ‘Mineral Revenue Payments Clarification Act of 2000’.”
+Pub. L. 106–393, title V, §501, Oct. 30, 2000, 114 Stat. 1624, provided that: “This title \[amending section 191 of this title and enacting provisions set out as a note under section 191 of this title\] may be cited as the ‘Mineral Revenue Payments Clarification Act of 2000’.”
 
 #### Short Title of 1987 Amendment
 
@@ -42,7 +42,7 @@ Pub. L. 97–78, Nov. 16, 1981, 95 Stat. 1070, which amended this section and se
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–377, §1(a), Aug. 4, 1976, 90 Stat. 1083, as amended by Pub. L. 95–554, §8, Oct. 30, 1978, 92 Stat. 2075, provided that: “This Act \[enacting sections 202a, 208–1, and 208–2 of this title, amending sections 184, 191, 201, 203, 207, 209, and 352 of this title, repealing sections 201–1 and 204 of this title, and enacting provisions set out as notes under sections 184, 201, 201–1, 203, and 204 of this title\] may be cited as the ‘Federal Coal Leasing Amendments Act of 1976’.”
+Pub. L. 94–377, §1(a), Aug. 4, 1976, 90 Stat. 1083, as amended by Pub. L. 95–554, §8, Oct. 30, 1978, 92 Stat.2075, provided that: “This Act \[enacting sections 202a, 208–1, and 208–2 of this title, amending sections 184, 191, 201, 203, 207, 209, and 352 of this title, repealing sections 201–1 and 204 of this title, and enacting provisions set out as notes under sections 184, 201, 201–1, 203, and 204 of this title\] may be cited as the ‘Federal Coal Leasing Amendments Act of 1976’.”
 
 #### Short Title of 1960 Amendment
 

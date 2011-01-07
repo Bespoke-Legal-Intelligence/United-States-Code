@@ -1,7 +1,5 @@
 ### SUBCHAPTER III—RECOGNITION OF CONVENTION ADOPTIONS IN THE UNITED STATES
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “14923(b)(1)(A)(ii)”.</i>
-
 
 ---
 

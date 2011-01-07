@@ -2,7 +2,7 @@
 
 (a)
 
-Annual Report Required.—Not later than the date of the submission of the President's budget request for a fiscal year under section 1105 of title 31, the Secretary of Defense shall submit to the congressional defense committees a report on the status of the materiel in the prepositioned stocks as of the end of the fiscal year preceding the fiscal year during which the report is submitted. Each report shall be unclassified and may contain a classified annex. Each report shall include the following information:
+Annual Report Required.—Not later than the date of the submission of the President'sbudget request for a fiscal year under section 1105 of title 31, the Secretary of Defense shall submit to the congressional defense committees a report on the status of the materiel in the prepositioned stocks as of the end of the fiscal year preceding the fiscal year during which the report is submitted. Each report shall be unclassified and may contain a classified annex. Each report shall include the following information:
 
 &emsp;(1) The level of fill for major end items of equipment and spare parts in each prepositioned set as of the end of the fiscal year covered by the report.
 

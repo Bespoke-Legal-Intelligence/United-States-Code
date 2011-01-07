@@ -14,7 +14,7 @@ Section was not enacted as part of the International Organizations Immunities Ac
 
 #### Amendments
 
-1987—Pub. L. 100–204 inserted sentence at end.
+<b>1987</b>—Pub. L. 100–204 inserted sentence at end.
 
 #### Ex. Ord. No. 12651. Offices of the Commission of the European Communities
 
@@ -40,7 +40,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 11689, Dec. 5, 1972, 37 F.R. 25987, provided:
 
-By virtue of the authority vested in me by the Act of October 18, 1972 (Public Law 92–499) \[this section\], and as President of the United States, I hereby extend to the Mission to the United States of America of the Commission of the European Communities, and to the officers of that Mission assigned to Washington to represent the Commission to the Government of the United States and duly notified to and accepted by the Secretary of State, and to their families, the sameprivileges and immunities, subject to corresponding conditions and obligations, as are enjoyed by diplomatic missions accredited to the United States and by members of the diplomatic staffs thereof.
+By virtue of the authority vested in me by the Act of October 18, 1972 (Public Law 92–499) \[this section\], and as President of the United States, I hereby extend to the Mission to the United States of America of the Commission of the European Communities, and to the officers of that Mission assigned to Washington to represent the Commission to the Government of the United States and duly notified to and accepted by the Secretary of State, and to their families, the same privileges and immunities, subject to corresponding conditions and obligations, as are enjoyed by diplomatic missions accredited to the United States and by members of the diplomatic staffs thereof.
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

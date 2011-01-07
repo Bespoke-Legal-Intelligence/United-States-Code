@@ -16,23 +16,23 @@ The Secretary may not make payments under section 290cc–21 of this title unles
 
 The Administrator of the Substance Abuse and Mental Health Services Administration shall evaluate at least once every 3 years the expenditures of grants under this part by eligible entities in order to ensure that expenditures are consistent with the provisions of this part, and shall include in such evaluation recommendations regarding changes needed in program design or operations.
 
-(July 1, 1944, ch. 373, title V, §528, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat. 520; amended Pub. L. 100–607, title VIII, §812(b), Nov. 4, 1988, 102 Stat. 3170; Pub. L. 100–628, title VI, §612(b), Nov. 7, 1988, 102 Stat. 3243; Pub. L. 100–690, title II, §2614(a), Nov. 18, 1988, 102 Stat. 4239; Pub. L. 101–93, §5(t)(1), Aug. 16, 1989, 103 Stat. 615; Pub. L. 101–645, title V, §511, Nov. 29, 1990, 104 Stat. 4730; Pub. L. 102–321, title I, §163(a)(1), formerly §163(a)(2), July 10, 1992, 106 Stat. 375, renumbered §163(a)(1), Pub. L. 102–352, §2(b)(2), Aug. 26, 1992, 106 Stat. 939; Pub. L. 104–316, title I, §122(c), Oct. 19, 1996, 110 Stat. 3836.)
+(July 1, 1944, ch. 373, title V, §528, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat. 520; amended Pub. L. 100–607, title VIII, §812(b), Nov. 4, 1988, 102 Stat. 3170; Pub. L. 100–628, titleVI, §612(b), Nov. 7, 1988, 102 Stat. 3243; Pub. L. 100–690, title II, §2614(a), Nov. 18, 1988, 102 Stat. 4239; Pub. L. 101–93, §5(t)(1), Aug. 16, 1989, 103 Stat. 615; Pub. L. 101–645, title V, §511, Nov. 29, 1990, 104 Stat. 4730; Pub. L. 102–321, title I, §163(a)(1), formerly §163(a)(2), July 10, 1992, 106 Stat. 375, renumbered §163(a)(1), Pub. L. 102–352, §2(b)(2), Aug. 26, 1992, 106 Stat. 939; Pub. L. 104–316, title I, §122(c), Oct. 19, 1996, 110 Stat. 3836.)
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–316, §122(c)(1), struck out “the Comptroller General of the United States, and” after “(after consultation with”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–316, §122(c)(1), struck out “the Comptroller General of the United States, and” after “(after consultation with”.
 
 Subsec. (c). Pub. L. 104–316, §122(c)(2), struck out “Comptroller General of the United States in cooperation with the” before “Administrator” and struck out comma after “Administration”.
 
-1992—Subsec. (a). Pub. L. 102–321, §163(a)(1)(A), as renumbered by Pub. L. 102–352, substituted “and the Administrator of the Substance Abuse and Mental Health Services Administration” for “the National Institute of Mental Health, the National Institute on Alcohol Abuse and Alcoholism, and the National Institute on Drug Abuse”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–321, §163(a)(1)(A), as renumbered by Pub. L. 102–352, substituted “and the Administrator of the Substance Abuse and Mental Health Services Administration” for “the National Institute of Mental Health, the National Institute on Alcohol Abuse and Alcoholism, and the National Institute on Drug Abuse”.
 
 Subsec. (c). Pub. L. 102–321, §163(a)(1)(B), as renumbered by Pub. L. 102–352, substituted “Administrator of the Substance Abuse and Mental Health Services Administration” for “National Institute of Mental Health”.
 
-1990—Pub. L. 101–645 amended section generally, substituting provisions relating to requirement of reports by States for provisions relating to determination of amount of allotments.
+<b>1990</b>—Pub. L. 101–645 amended section generally, substituting provisions relating to requirement of reports by States for provisions relating to determination of amount of allotments.
 
-1989—Subsec. (a)(1). Pub. L. 101–93 directed that subsec. (a)(1) of this section as similarly amended by title VIII of Pub. L. 100–607 and title VI of Pub. L. 100–628 be amended to read as if the amendments made by title VI of Pub. L. 100–628 had not been enacted. See 1988 Amendment note below.
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–93 directed that subsec. (a)(1) of this section as similarly amended by title VIII of Pub. L. 100–607 and title VI of Pub. L. 100–628 be amended to read as if the amendments made by title VI of Pub. L. 100–628 had not been enacted. See 1988 Amendment note below.
 
-1988—Subsec. (a)(1). Pub. L. 100–690 substituted “the Commonwealth of the Northern Mariana Islands” for “the Northern Mariana Islands”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–690 substituted “the Commonwealth of the Northern Mariana Islands” for “the Northern Mariana Islands”.
 
 Pub. L. 100–607 and Pub. L. 100–628 made identical amendments, amending par. (1) generally. Prior to amendment, par. (1) read as follows: “$275,000; and”.
 

@@ -58,15 +58,15 @@ For purposes of this section, for a plan year—
 
 #### (f) Financial assistance from corporation; conditions and criteria applicable
 
-(1) If the plan sponsor of an insolvent plan, for which the resource benefit level is above thelevel of basic benefits, anticipates that, for any month in an insolvency year, the plan will not have funds sufficient to pay basic benefits, the plan sponsor may apply for financial assistance from the corporation under section 1431 of this title.
+(1) If the plan sponsor of an insolvent plan, for which the resource benefit level is above the level of basic benefits, anticipates that, for any month in an insolvency year, the plan will not have funds sufficient to pay basic benefits, the plan sponsor may apply for financial assistance from the corporation under section 1431 of this title.
 
 (2) A plan sponsor who has determined a resource benefit level for an insolvency year which is below the level of basic benefits shall apply for financial assistance from the corporation under section 1431 of this title.
 
-(Pub. L. 93–406, title IV, §4245, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1259; amended Pub. L. 109–280, title II, §203(a), Aug. 17, 2006, 120 Stat. 886.)
+(Pub. L. 93–406, title IV, §4245, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1259;amended Pub. L. 109–280, title II, §203(a), Aug. 17, 2006, 120 Stat. 886.)
 
 #### Amendments
 
-2006—Subsec. (d)(1). Pub. L. 109–280 substituted “5 plan years” for “3 plan years” the second place it appeared and inserted at end “If the plan sponsor makes such a determination that the plan will be insolvent in any of the next 5 plan years, the plan sponsor shall make the comparison under this paragraph at least annually until the plan sponsor makes a determination that the plan will not be insolvent in any of the next 5 plan years.”
+<b>2006</b>—Subsec. (d)(1). Pub. L. 109–280 substituted “5 plan years” for “3 plan years” the second place it appeared and inserted at end “If the plan sponsor makes such a determination that the plan will be insolvent in any of the next 5 plan years, the plan sponsor shall make the comparison under this paragraph at least annually until the plan sponsor makes a determination that the plan will not be insolvent in any of the next 5 plan years.”
 
 #### Effective Date of 2006 Amendment
 

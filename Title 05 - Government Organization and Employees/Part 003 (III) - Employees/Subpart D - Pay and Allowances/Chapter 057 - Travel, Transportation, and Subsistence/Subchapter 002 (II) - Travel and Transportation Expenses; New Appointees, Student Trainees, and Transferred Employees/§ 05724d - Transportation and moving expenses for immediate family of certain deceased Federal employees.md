@@ -1,0 +1,42 @@
+### §5724d. Transportation and moving expenses for immediate family of certain deceased Federal employees
+
+(a)
+
+In General.—Under regulations prescribed by the President, the head of the agency concerned (or a designee) may determine that a covered employee died as a result of personal injury sustained while in the performance of the employee's duty and authorize or approve the payment by the agency, from Government funds, of—
+
+&emsp;(1) any qualified expense of the immediate family of the covered employee attributable to a change in their place of residence, if the place where the immediate family will reside following the death of the employee is—
+
+&emsp;&emsp;(A) different from the place where the immediate family resided at the time of the employee's death; and
+
+&emsp;&emsp;(B) within the United States; and
+
+&emsp;(2) any expense of preparing and transporting the remains of the deceased to—
+
+&emsp;&emsp;(A) the place where the immediate family will reside following the death of the employee; or
+
+&emsp;&emsp;(B) such other place appropriate for interment as is determined by the agency head (or designee).
+
+(b)
+
+No Duplicate Payment of Expenses.—No expenses may be paid under this section if those expenses are paid from Government funds under section 5742 or any other authority.
+
+(c)
+
+Definitions.—For purposes of this section—
+
+&emsp;(1) the term “covered employee” means—
+
+&emsp;&emsp;(A) a law enforcement officer, as defined in section 5541;
+
+&emsp;&emsp;(B) any employee in or under the Federal Bureau of Investigation who is not described in subparagraph (A); and
+
+&emsp;&emsp;(C) a customs and border protection officer, as defined in section 8331(31); and
+
+&emsp;(2) the term “qualified expense”, as used with respect to an immediate family changing its place of residence, means the transportation expenses of the immediate family, the expenses of moving (including transporting, packing, crating, temporarily storing, draying, and unpacking) the household goods and personal effects of such immediate family, not in excess of 18,000 pounds net weight, and, when authorized or approved by the agency head (or designee), the transportation of 1 privately owned motor vehicle.
+
+(Added Pub. L. 111–178, §2(a), June 9, 2010, 124 Stat. 1262.)
+
+#### No Relevance as to Compensation Claims
+
+Pub. L. 111–178, §2(b), June 9, 2010, 124 Stat. 1263, provided that: “No determination made under section 5724d of title 5, United States Code, shall be deemed relevant to or be considered in connection with any claim for compensation under chapter 81 of that title or under any other law under which compensation may be provided on account of death or personal injury, nor shall any determination made with respect to any such claim be deemed relevant to or be considered in connection with any request for payment of expenses under such section 5724d.”
+

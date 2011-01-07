@@ -10,13 +10,13 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-1996—Pub. L. 104–164 substituted “before he intends” for “prior to the date he intends”.
+<b>1996</b>—Pub. L. 104–164 substituted “before he intends” for “prior to the date he intends”.
 
-1985—Pub. L. 99–83 inserted reference to section 2348a(c)(2) of this title.
+<b>1985</b>—Pub. L. 99–83 inserted reference to section 2348a(c)(2) of this title.
 
-1980—Pub. L. 96–533 struck out reference to section 2364(a) of this title.
+<b>1980</b>—Pub. L. 96–533 struck out reference to section 2364(a) of this title.
 
-1972—Pub. L. 92–226 struck out provision which limited exercise of special authority for purpose of providing additional assistance to Cambodia and which required thirty days notice to congressional committee (ten days in emergencies requiring immediate assistance) of intention to exercise such authority.
+<b>1972</b>—Pub. L. 92–226 struck out provision which limited exercise of special authority for purpose of providing additional assistance to Cambodia and which required thirty days notice to congressional committee (ten days in emergencies requiring immediate assistance) of intention to exercise such authority.
 
 #### Effective Date of 1985 Amendment
 

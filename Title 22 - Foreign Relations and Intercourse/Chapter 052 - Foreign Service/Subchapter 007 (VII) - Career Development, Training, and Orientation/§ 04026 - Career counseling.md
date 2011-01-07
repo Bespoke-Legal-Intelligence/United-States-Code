@@ -20,7 +20,7 @@ In order to facilitate their transition from the Service, the Secretary may prov
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–277 inserted at end “Career counseling and related services provided pursuant to this chapter shall not be construed to permit an assignment that consists primarily of paid time to conduct a job search and without other substantive duties for more than one month.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–277 inserted at end “Career counseling and related services provided pursuant to this chapter shall not be construed to permit an assignment that consists primarily of paid time to conduct a job search and without other substantive duties for more than one month.”
 
 #### Effective Date of 1998 Amendment
 

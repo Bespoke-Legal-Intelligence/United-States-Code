@@ -64,7 +64,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The term “unforeseeable emergency” means a severe financial hardship to the participant resulting from an illness or accident of the participant, the participant's spouse, or a dependent (as defined in section 152(a)) of the participant, lossof the participant's property due to casualty, or other similar extraordinary and unforeseeable circumstances arising as a result of events beyond the control of the participant.
+&emsp;&emsp;&emsp;&emsp;The term “unforeseeable emergency” means a severe financial hardship to the participant resulting from an illness or accident of the participant, the participant's spouse, or a dependent (as defined in section 152(a)) of the participant, loss of the participant's property due to casualty, or other similar extraordinary and unforeseeable circumstances arising as a result of events beyond the control of the participant.
 
 #### (II) Limitation on distributions
 
@@ -272,13 +272,13 @@ A prior section 409A was renumbered section 409 of this title.
 
 #### Amendments
 
-2008—Subsec. (b)(3)(A)(ii). Pub. L. 110–458 inserted “to an applicable covered employee” after “under the plan”.
+<b>2008</b>—Subsec. (b)(3)(A)(ii). Pub. L. 110–458 inserted “to an applicable covered employee” after “under the plan”.
 
-2006—Subsec. (b)(3). Pub. L. 109–280, §116(a), added par. (3). Former par. (3) redesignated (4).
+<b>2006</b>—Subsec. (b)(3). Pub. L. 109–280, §116(a), added par. (3). Former par. (3) redesignated (4).
 
 Subsec. (b)(4), (5). Pub. L. 109–280 redesignated pars. (3) and (4) as (4) and (5), respectively, and substituted “paragraph (1), (2), or (3)” for “paragraph (1) or (2)” wherever appearing.
 
-2005—Subsec. (a)(4)(C)(ii). Pub. L. 109–135 struck out “first” after “requires that the”.
+<b>2005</b>—Subsec. (a)(4)(C)(ii). Pub. L. 109–135 struck out “first” after “requires that the”.
 
 #### Effective Date of 2008 Amendment
 
@@ -328,7 +328,7 @@ Exception for nonelective deferred compensation.—The amendments made by this s
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
 
 #### Guidance Relating to Conformance With Funding Rules
 
@@ -345,4 +345,6 @@ Pub. L. 108–357, title VIII, §885(f), Oct. 22, 2004, 118 Stat. 1641, as amend
 &emsp;“(1) to provide that a participant may terminate participation in the plan, or cancel an outstanding deferral election with regard to amounts deferred after December 31, 2004, but only if amounts subject to the termination or cancellation are includible in income of the participant as earned (or, if later, when no longer subject to substantial risk of forfeiture), and
 
 &emsp;“(2) to conform to the requirements of such section 409A with regard to amounts deferred after December 31, 2004.”
+
+<i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

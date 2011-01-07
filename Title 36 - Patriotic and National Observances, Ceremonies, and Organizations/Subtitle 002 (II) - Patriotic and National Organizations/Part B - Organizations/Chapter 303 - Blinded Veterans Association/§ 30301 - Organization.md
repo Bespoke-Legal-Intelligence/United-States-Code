@@ -20,7 +20,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-30301D36:851.DAug. 27, 1958, Pub. L. 85–769, §§1, 2, 72 Stat. 922.
+30301
+
+36:851.
+
+Aug. 27, 1958, Pub. L. 85–769, §§1, 2, 72 Stat. 922.
 
 &nbsp;
 

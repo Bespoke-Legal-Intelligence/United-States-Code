@@ -126,9 +126,9 @@ In subsection (b)(2), the words “the limitations contained in” and “applic
 
 #### Amendments
 
-2005—Pub. L. 109–59 substituted “grant program” for “formula grant program” in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (g) relating to definitions, authority of Secretary, application for grants, apportionment of funds, additional requirements, and availability of funds.
+<b>2005</b>—Pub. L. 109–59 substituted “grant program” for “formula grant program” in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (g) relating to definitions, authority of Secretary, application for grants, apportionment of funds, additional requirements, and availability of funds.
 
-1998—Pub. L. 105–178, §3008(a), amended section catchline and text generally. Prior to amendment, text read as follows:
+<b>1998</b>—Pub. L. 105–178, §3008(a), amended section catchline and text generally. Prior to amendment, text read as follows:
 
 “(a)
 
@@ -152,7 +152,7 @@ Pub. L. 109–59, title III, §3045, Aug. 10, 2005, 119 Stat. 1705, provided tha
 
 “(a)
 
-Establishment.—The Secretary \[of Transportation\] shall establish a national fuel cell bus technology development program (in this section referred to as the ‘program’) to facilitate the development of commercially viable fuel cell bus technology and related infrastructure.
+Establishment.—The Secretary \[of Transportation\] shall establish a national fuel cell bus technology development program (in this section referred to as the ‘program’) to facilitate the development ofcommercially viable fuel cell bus technology and related infrastructure.
 
 “(b)
 

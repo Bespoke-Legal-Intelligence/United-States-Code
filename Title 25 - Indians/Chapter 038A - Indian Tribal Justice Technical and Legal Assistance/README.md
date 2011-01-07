@@ -17,6 +17,7 @@
 | [3663\.](Subchapter%20001%20%28I%29%20-%20Training%20and%20Technical%20Assistance%2C%20Civil%20and%20Criminal%20Legal%20Assistance%20Grants/%C2%A7%2003663%20-%20Tribal%20criminal%20assistance%20grants.md) | Tribal criminal assistance grants. |
 | [3664\.](Subchapter%20001%20%28I%29%20-%20Training%20and%20Technical%20Assistance%2C%20Civil%20and%20Criminal%20Legal%20Assistance%20Grants/%C2%A7%2003664%20-%20No%20offset.md) | No offset. |
 | [3665\.](Subchapter%20001%20%28I%29%20-%20Training%20and%20Technical%20Assistance%2C%20Civil%20and%20Criminal%20Legal%20Assistance%20Grants/%C2%A7%2003665%20-%20Tribal%20authority.md) | Tribal authority. |
+| [3665a.](Subchapter%20001%20%28I%29%20-%20Training%20and%20Technical%20Assistance%2C%20Civil%20and%20Criminal%20Legal%20Assistance%20Grants/%C2%A7%2003665a%20-%20Office%20of%20Tribal%20Justice.md) | Office of Tribal Justice. |
 | [3666\.](Subchapter%20001%20%28I%29%20-%20Training%20and%20Technical%20Assistance%2C%20Civil%20and%20Criminal%20Legal%20Assistance%20Grants/%C2%A7%2003666%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,6 +27,7 @@
 |  |  |
 | :--- | ---: |
 | [3681\.](Subchapter%20002%20%28II%29%20-%20Indian%20Tribal%20Courts/%C2%A7%2003681%20-%20Grants.md) | Grants. |
+| [3682\.](Subchapter%20002%20%28II%29%20-%20Indian%20Tribal%20Courts/%C2%A7%2003682%20-%20Assistant%20probation%20officers.md) | Assistant probation officers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

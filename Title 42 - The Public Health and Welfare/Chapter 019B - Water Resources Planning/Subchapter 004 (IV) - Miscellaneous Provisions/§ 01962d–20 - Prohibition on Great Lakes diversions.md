@@ -48,7 +48,7 @@ Section was enacted as part of the Water Resources Development Act of 1986, and 
 
 #### Amendments
 
-2000—Subsec. (b)(2) to (4). Pub. L. 106–541, §504(a), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+<b>2000</b>—Subsec. (b)(2) to (4). Pub. L. 106–541, §504(a), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
 Subsec. (d). Pub. L. 106–541, §504(b), inserted “or exported” after “diverted” and “or export” after “diversion”.
 

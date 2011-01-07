@@ -8,7 +8,7 @@
 
 #### (2) State and other employees
 
-&emsp;It shall be unlawful for any person (not described in paragraph (1)) willfully to disclose to any person, except as authorized in this title, any return or return information (as defined in section 6103(b)) acquired by him or another person under subsection (d), (i)(3)(B)(i) or (7)(A)(ii), (<i>l</i>)(6), (7), (8), (9), (10), (12), (15), (16), (19), or (20) or (m)(2), (4), (5), (6), or (7) of section 6103 or under section 6104(c). Any violation of this paragraph shall be a felony punishable by a fine in any amount not exceeding $5,000, or imprisonment of not more than 5 years, or both, together with the costs of prosecution.
+&emsp;It shall be unlawful for any person (not described in paragraph (1)) willfully to disclose to any person, except as authorized in this title, any return or return information (as defined in section 6103(b)) acquired by him or another person under subsection (d), (i)(3)(B)(i) or (7)(A)(ii), (<i>l</i>)(6), (7), (8), (9), (10), (12), (15), (16), (19), (20), or (21) or (m)(2), (4), (5), (6), or (7) of section 6103 or under section 6104(c). Any violation of this paragraph shall be a felony punishable by a fine in any amount not exceeding $5,000, or imprisonment of not morethan 5 years, or both, together with the costs of prosecution.
 
 #### (3) Other persons
 
@@ -44,45 +44,47 @@ Any person who willfully divulges or makes known software (as defined in section
 
 &emsp;&emsp;<b>For penalties for disclosure of confidential information by any officer or employee of the United States or any department or agency thereof, see 18 U.S.C. 1905.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 855; Pub. L. 85–866, title I, §90(c), Sept. 2, 1958, 72 Stat. 1666; Pub. L. 86–778, title I, §103(s), Sept. 13, 1960, 74Stat. 940; Pub. L. 94–455, title XII, §1202(d), (h)(3), Oct. 4, 1976, 90 Stat. 1686, 1688; Pub. L. 95–600, title VII, §701(bb)(1)(C), (6), Nov. 6, 1978, 92 Stat. 2922, 2923; Pub. L. 96–249, title I, §127(a)(2)(D), May 26, 1980, 94 Stat. 366; Pub. L. 96–265, title IV, §408(a)(2)(D), June 9, 1980, 94 Stat. 468, as amended Pub. L. 96–611, §11(a)(2)(B)(iv), Dec. 28, 1980, 94 Stat. 3574; Pub. L. 96–499, title III, §302(b), Dec. 5, 1980, 94 Stat. 2604; Pub. L. 96–611, §11(a)(4)(A), Dec. 28, 1980, 94 Stat. 3574; Pub. L. 97–248, title III, §356(b)(2), Sept. 3, 1982, 96 Stat. 645; Pub. L. 97–365, §8(c)(2), Oct. 25, 1982, 96 Stat. 1754; Pub. L. 98–369, div. A, title IV, §453(b)(4), div. B, title VI, §2653(b)(4), July 18, 1984, 98 Stat. 820, 1156; Pub. L. 98–378, §21(f)(5), Aug. 16, 1984, 98 Stat. 1326; Pub. L. 100–485, title VII, §701(b)(2)(C), Oct. 13, 1988, 102 Stat. 2426; Pub. L. 100–647, title VIII, §8008(c)(2)(B), Nov. 10, 1988, 102 Stat. 3787; Pub. L. 101–239, title VI, §6202(a)(1)(C), Dec. 19, 1989, 103 Stat. 2228; Pub. L. 101–508, title V, §5111(b)(3), Nov. 5, 1990, 104 Stat. 1388–273; Pub. L. 104–168, title XII, §1206(b)(5), July 30, 1996, 110 Stat. 1473; Pub. L. 105–33, title XI, §11024(b)(8), Aug. 5, 1997, 111 Stat. 722; Pub. L. 105–35, §2(b)(1), Aug. 5, 1997, 111 Stat. 1104; Pub. L. 105–206, title III, §3413(b), July 22, 1998, 112 Stat. 754; Pub. L. 107–134, title II, §201(c)(10), Jan. 23, 2002, 115 Stat. 2444; Pub. L. 108–173, title I, §105(e)(4), title VIII, §811(c)(2)(C), Dec. 8, 2003, 117 Stat. 2167, 2369; Pub. L. 109–280, title XII, §1224(b)(5), Aug. 17, 2006, 120 Stat. 1093.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 855; Pub. L. 85–866, title I, §90(c), Sept. 2, 1958, 72 Stat. 1666; Pub. L. 86–778, title I, §103(s), Sept. 13, 1960, 74 Stat. 940; Pub. L. 94–455, title XII, §1202(d), (h)(3), Oct. 4, 1976, 90 Stat. 1686, 1688; Pub. L. 95–600, title VII, §701(bb)(1)(C), (6), Nov. 6, 1978, 92 Stat. 2922, 2923; Pub. L. 96–249, title I, §127(a)(2)(D), May 26, 1980, 94 Stat. 366; Pub. L. 96–265, title IV, §408(a)(2)(D), June 9, 1980, 94 Stat. 468, as amended Pub. L. 96–611, §11(a)(2)(B)(iv), Dec. 28, 1980, 94 Stat. 3574; Pub. L. 96–499, title III, §302(b), Dec. 5, 1980, 94 Stat. 2604; Pub. L. 96–611, §11(a)(4)(A), Dec. 28, 1980, 94 Stat. 3574; Pub. L. 97–248, title III, §356(b)(2), Sept. 3, 1982, 96 Stat. 645; Pub. L. 97–365, §8(c)(2), Oct. 25, 1982, 96 Stat. 1754; Pub. L. 98–369, div. A, title IV, §453(b)(4), div. B, title VI, §2653(b)(4), July 18, 1984, 98 Stat. 820, 1156; Pub. L. 98–378, §21(f)(5), Aug. 16, 1984, 98 Stat. 1326; Pub. L. 100–485, title VII, §701(b)(2)(C), Oct. 13, 1988, 102 Stat. 2426; Pub. L. 100–647, title VIII, §8008(c)(2)(B), Nov. 10, 1988, 102 Stat. 3787; Pub. L. 101–239, title VI, §6202(a)(1)(C), Dec. 19, 1989, 103 Stat. 2228; Pub. L. 101–508, title V, §5111(b)(3), Nov. 5, 1990, 104 Stat. 1388–273; Pub. L. 104–168, title XII, §1206(b)(5), July 30, 1996, 110 Stat. 1473; Pub. L. 105–33, title XI, §11024(b)(8), Aug. 5, 1997, 111 Stat. 722; Pub. L. 105–35, §2(b)(1), Aug. 5, 1997, 111 Stat. 1104; Pub. L. 105–206, title III, §3413(b), July 22, 1998, 112 Stat. 754; Pub. L. 107–134, title II, §201(c)(10), Jan. 23, 2002, 115 Stat. 2444; Pub. L. 108–173, title I, §105(e)(4), title VIII, §811(c)(2)(C), Dec. 8, 2003, 117 Stat. 2167, 2369; Pub. L. 109–280, title XII, §1224(b)(5), Aug. 17, 2006, 120 Stat. 1093; Pub. L. 111–148, title I, §1414(d), Mar. 23, 2010, 124 Stat. 237.)
 
 #### Amendments
 
-2006—Subsec. (a)(2). Pub. L. 109–280, which directed insertion of “or under section 6104(c)” after “6103” in subsec. (a)(2) of section 7213, without specifying the act to be amended, was executed by making the insertion in subsec. (a)(2) of this section, which is section 7213 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
+<b>2010</b>—Subsec. (a)(2). Pub. L. 111–148 substituted “(20), or (21)” for “or (20)”.
 
-2003—Subsec. (a)(2). Pub. L. 108–173, §811(c)(2)(C), substituted “(19), or (20)” for “or (19)”.
+<b>2006</b>—Subsec. (a)(2). Pub. L. 109–280, which directed insertion of “or under section 6104(c)” after “6103” in subsec. (a)(2) of section 7213, without specifying the act to be amended, was executed by making the insertion in subsec. (a)(2) of this section, which is section 7213 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
+
+<b>2003</b>—Subsec. (a)(2). Pub. L. 108–173, §811(c)(2)(C), substituted “(19), or (20)” for “or (19)”.
 
 Pub. L. 108–173, §105(e)(4), substituted “(16), or (19)” for “or (16)”.
 
-2002—Subsec. (a)(2). Pub. L. 107–134 substituted “(i)(3)(B)(i) or (7)(A)(ii),” for “(i)(3)(B)(i),”.
+<b>2002</b>—Subsec. (a)(2). Pub. L. 107–134 substituted “(i)(3)(B)(i) or (7)(A)(ii),” for “(i)(3)(B)(i),”.
 
-1998—Subsecs. (d), (e). Pub. L. 105–206 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1998</b>—Subsecs. (d), (e). Pub. L. 105–206 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1997—Subsec. (a)(2). Pub. L. 105–35 inserted “(5),” after “(m)(2), (4),”.
+<b>1997</b>—Subsec. (a)(2). Pub. L. 105–35 inserted “(5),” after “(m)(2), (4),”.
 
 Pub. L. 105–33 substituted “(15), or (16)” for “or (15),”.
 
-1996—Subsec. (a)(2). Pub. L. 104–168 substituted “(12), or (15)” for “or (12)”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–168 substituted “(12), or (15)” for “or (12)”.
 
-1990—Subsec. (a)(2). Pub. L. 101–508 substituted “(6), or (7)” for “or (6)”.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–508 substituted “(6), or (7)” for “or (6)”.
 
-1989—Subsec. (a)(2). Pub. L. 101–239 substituted “(10), or (12)” for “or (10)”.
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–239 substituted “(10), or (12)” for “or (10)”.
 
-1988—Subsec. (a)(2). Pub. L. 100–647 substituted “(m)(2), (4), or (6)” for “(m)(2) or (4)”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–647 substituted “(m)(2), (4), or (6)” for “(m)(2) or (4)”.
 
 Pub. L. 100–485 substituted “(9), or (10)” for “(9), (10), or (11)”.
 
-1984—Subsec. (a)(2). Pub. L. 98–378 substituted “(10), or (11)” for “or (10)”.
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–378 substituted “(10), or (11)” for “or (10)”.
 
 Pub. L. 98–369, §2653(b)(4), substituted “(9), or (10)” for “or (9)”.
 
 Pub. L. 98–369, §453(b)(4), substituted “(7), (8), or (9)” for “(7), or (8)”.
 
-1982—Subsec. (a)(2). Pub. L. 97–365 substituted “(m)(2) or (4)” for “(m)(4)”.
+<b>1982</b>—Subsec. (a)(2). Pub. L. 97–365 substituted “(m)(2) or (4)” for “(m)(4)”.
 
 Pub. L. 97–248 inserted “(i)(3)(B)(i),” after “under subsection (d),”.
 
-1980—Subsec. (a)(2). Pub. L. 96–611, §11(a)(4)(A), substituted “(<i>l</i>)(6), (7), or (8)” for “(<i>l</i>)(6) or (7)”.
+<b>1980</b>—Subsec. (a)(2). Pub. L. 96–611, §11(a)(4)(A), substituted “(<i>l</i>)(6), (7), or (8)” for “(<i>l</i>)(6) or (7)”.
 
 Pub. L. 96–499 substituted “person (not described in paragraph (1))” for “officer, employee, or agent, or former officer, employee, or agent, of any State (as defined in section 6103(b)(5)), any local child support enforcement agency, any educational institution, or any State food stamp agency (as defined in section 6103(<i>l</i>)(7)(C)” and “(m)(4) of section 6103” for “(m)(4)(B) of section 6103”.
 
@@ -90,7 +92,7 @@ Pub. L. 96–265, §408(a)(2)(D), as amended by Pub. L. 96–611, §11(a)(2)(B)(
 
 Pub. L. 96–249 substituted “any educational institution, or any State food stamp agency (as defined in section 6103(<i>l</i>)(7)(C))” for “or any educational institution” and “subsection (d), (<i>l</i>)(6) or (7), or (m)(4)(B)” for “subsection (d), (<i>l</i>)(6), or (m)(4)(B)”.
 
-1978—Subsec. (a)(1). Pub. L. 95–600, §701(bb)(6)(A), inserted “willfully” before “to disclose”.
+<b>1978</b>—Subsec. (a)(1). Pub. L. 95–600, §701(bb)(6)(A), inserted “willfully” before “to disclose”.
 
 Subsec. (a)(2). Pub. L. 95–600, §701(bb)(1)(C), (6)(A), inserted provision relating to educational institutions, inserted “willfully” before “to disclose”, and substituted “subsection (d), (<i>l</i>)(6), or (m)(4)(B) of section 6103” for “section 6103(d) or (<i>l</i>)(6)”.
 
@@ -100,15 +102,15 @@ Subsec. (a)(4). Pub. L. 95–600, §701(bb)(6)(C), inserted “willfully” befo
 
 Subsec. (a)(5). Pub. L. 95–600, §701(bb)(6)(A), inserted “willfully” before “to disclose”.
 
-1976—Subsec. (a). Pub. L. 94–455, §1202(d), added pars. (3) and (4), redesignated former par. (3) as (5), and in pars. (1), (2), and (5) raised from a misdemeanor to a felony any criminal violation of the disclosure rules, increased from $1,000 to $5,000 and from one year imprisonment to five years imprisonment the maximum criminal penalties for an unauthorized disclosure of a return or return information, extended the criminal penalties to apply to unauthorized disclosures of any return or return information and not merely income returns and other financial information appearing on income returns, and extended the criminal penalties to apply to former Federal and State officers and to officers and employees of contractors having access to returns and return information in connection with the processing, storage, transmission, and reproduction of such returns and return information, and the programming, maintenance, etc., of equipment.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1202(d), added pars. (3) and (4), redesignated former par. (3) as (5), and in pars. (1), (2), and (5) raised from a misdemeanor to a felony any criminal violation of the disclosure rules, increased from $1,000 to $5,000 and from one year imprisonment to five years imprisonment the maximum criminal penalties for an unauthorized disclosure of a return or return information, extended the criminal penalties to apply to unauthorized disclosures of any return or return information and not merely income returns and other financial information appearing on income returns, and extended the criminal penalties to apply to former Federal and State officers and to officers and employees of contractors having access to returns and return information in connection with the processing, storage, transmission, and reproduction of such returns and return information, and the programming, maintenance, etc., of equipment.
 
 Subsec. (c). Pub. L. 94–455, §1202(d), redesignated subsec. (d) as (c). Former subsec. (c), covering offenses relating to the reproduction of documents, was struck out.
 
 Subsecs. (d), (e). Pub. L. 94–455, §1202(d), (h)(3), redesignated subsec. (e) as (d) and, in par. (1) of subsec. (d) as so redesignated, substituted a cross reference to section 7216 as covering penalties for disclosure or use of information by preparers of returns for a cross reference to section 6106 as covering special provisions applicable to returns of tax under chapter 23 (relating to Federal Unemployment Tax). Former subsec. (d) redesignated (c).
 
-1960—Subsecs. (d), (e). Pub. L. 86–778 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1960</b>—Subsecs. (d), (e). Pub. L. 86–778 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1958—Subsecs. (c), (d). Pub. L. 85–866 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>1958</b>—Subsecs. (c), (d). Pub. L. 85–866 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 #### Effective Date of 2006 Amendment
 

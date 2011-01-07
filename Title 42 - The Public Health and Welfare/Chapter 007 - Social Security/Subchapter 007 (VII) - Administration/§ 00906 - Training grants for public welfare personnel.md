@@ -32,13 +32,13 @@ The amount of any allotment to a State under subsection (b) of this section for 
 
 #### Amendments
 
-1962—Subsec. (a). Pub. L. 87–543, §123(a), substituted “for the fiscal year ending June 30, 1963, the sum of $3,500,000, and for each fiscal year thereafter the sum of $5,000,000” for “for the fiscal year ending June 30, 1958, the sum of $5,000,000, and for each of the five succeeding fiscal years such sums as the Congress may determine”.
+<b>1962</b>—Subsec. (a). Pub. L. 87–543, §123(a), substituted “for the fiscal year ending June 30, 1963, the sum of $3,500,000, and for each fiscal year thereafter the sum of $5,000,000” for “for the fiscal year ending June 30, 1958, the sum of $5,000,000, and for each of the five succeeding fiscal years such sums as the Congress may determine”.
 
 Subsec. (b). Pub. L. 87–543, §123(b), required appropriated moneys to be made available for carrying out subsec. (f) of this section.
 
 Subsec. (f). Pub. L. 87–543, §123(c), added subsec. (f).
 
-1961—Subsec. (a). Pub. L. 87–31, §3(a), substituted “five” for “four”.
+<b>1961</b>—Subsec. (a). Pub. L. 87–31, §3(a), substituted “five” for “four”.
 
 Subsec. (c). Pub. L. 87–31, §3(b), substituted “its costs of carrying out the purposes of this section” for “80 per centum of the total of its expenditures in carrying out the purposes of this section”.
 

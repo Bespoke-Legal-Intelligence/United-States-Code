@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) During the eighteen month period following promulgation of implementing rules pursuant to subsection (e) of this section, a person described in subsection (b) of this section shall be eligible for an allotment of not more than two parcels of federal <sup>1</sup> land totaling 160 acres or less under the Act of May 17, 1906 (chapter 2469; 34 Stat. 197), as such Act was in effect before December 18, 1971.
+(1) During the eighteen month period following promulgation of implementing rules pursuant to subsection (e) of this section, a person described in subsection (b) of this section shall be eligible for an allotment of not more than two parcels of federal <sup>1</sup> land totaling 160 acres or less under the Act of May 17, 1906 (chapter 2469; 34Stat. 197), as such Act was in effect before December 18, 1971.
 
 (2) Allotments may be selected only from lands that were vacant, unappropriated, and unreserved on the date when the person eligible for the allotment first used and occupied those lands.
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(5) Cemetery sites.
 
-(4) A person who qualifies for an allotment on lands prohibited from conveyance by a provision of subsection (a)(3) of this section may select an alternative allotment from the following landslocated within the geographic boundaries of the same Regional Corporation as the excluded allotment—
+(4) A person who qualifies for an allotment on lands prohibited from conveyance by a provision of subsection (a)(3) of this section may select an alternative allotment from the following lands located within the geographic boundaries of the same Regional Corporation as the excluded allotment—
 
 &emsp;(A) lands withdrawn pursuant to section 1610(a)(1) of this title which were not selected, or were relinquished after selection;
 
@@ -108,17 +108,15 @@ No later than 18 months after October 21, 1998, the Secretary of the Interior sh
 
 Act of May 17, 1906, referred to in subsecs. (a)(1), (b)(1)(A), (3) and (c)(1)(B), (C), is act May 17, 1906, ch. 2469, 34 Stat. 197, as amended, which was classified to sections 270–1 to 270–3 of this title prior to its repeal by Pub. L. 92–203, §18(a), Dec. 18, 1971, 85 Stat. 710.
 
-The Alaska Statehood Act, referred to in subsec. (a)(3)(B), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
-
-Public land law, referred to in subsec. (a)(3)(I), is classified generally to this title.
+The Alaska Statehood Act, referred to in subsec. (a)(3)(B), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-2004—Subsec. (b)(1)(A). Pub. L. 108–452, §306(1), inserted before semicolon at end “(except that the term ‘nonmineral’, as used in that Act, shall for the purpose of this subsection be defined as provided in section 1634(a)(3) of this title, except that such definition shall not apply to land within a conservation system unit)”.
+<b>2004</b>—Subsec. (b)(1)(A). Pub. L. 108–452, §306(1), inserted before semicolon at end “(except that the term ‘nonmineral’, as used in that Act, shall for the purpose of this subsection be defined as provided in section 1634(a)(3) of this title, except that such definition shall not apply to land within a conservation system unit)”.
 
 Subsec. (b)(2). Pub. L. 108–452, §306(2), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), inserted “or based on other evidence acceptable to the Secretary” after “Department of Veterans Affairs” in cl. (ii), and added subpar. (B).
 
-2000—Subsec. (a)(3)(I)(4). Pub. L. 106–559, §301(1), substituted “or” for “and Reindeer”.
+<b>2000</b>—Subsec. (a)(3)(I)(4). Pub. L. 106–559, §301(1), substituted “or” for “and Reindeer”.
 
 Subsec. (a)(4)(B). Pub. L. 106–559, §301(2), substituted “; or” for “; and” at end.
 

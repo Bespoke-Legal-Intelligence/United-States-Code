@@ -48,7 +48,7 @@ For purposes of this section, a backlog in the analysis of forensic science evid
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–405, §311(a)(1), substituted “shall use the grant to do any one or more of the following:
+<b>2004</b>—Subsec. (a). Pub. L. 108–405, §311(a)(1), substituted “shall use the grant to do any one or more of the following:
 
 &emsp;“(1) To carry out”
 
@@ -58,7 +58,7 @@ Subsec. (b). Pub. L. 108–405, §311(a)(2), substituted “for the purpose set 
 
 Subsec. (e). Pub. L. 108–405, §311(a)(3), added subsec. (e).
 
-2002—Subsec. (a). Pub. L. 107–273, §5001(b)(4)(A), inserted “or unit of local government” after “A State”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273, §5001(b)(4)(A), inserted “or unit of local government” after “A State”.
 
 Subsec. (c)(1). Pub. L. 107–273, §5001(b)(4)(B), inserted “(including grants received by units of local government within a State)” after “under this subchapter”.
 

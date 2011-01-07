@@ -68,7 +68,7 @@ Immunity From Civil Liability.—Notwithstanding any Federal, State, or local la
 
 (e)
 
-Limitation on Use.—(1) Health information about an individual that is disclosed under this section may not be used in, or disclosed to any person for use in, any administrative, civil, or criminal action or investigation directedagainst the individual who is the subject of the information unless the action or investigation arises out of and is directly related to receipt of health care or payment for health care or action involving a fraudulent claim related to health; or if authorized by an appropriate order of a court of competent jurisdiction, granted after application showing good cause therefor.
+Limitation on Use.—(1) Health information about an individual that is disclosed under this section may not be used in, or disclosed to any person for use in, any administrative, civil, or criminal action or investigation directed against the individual who is the subject of the information unless the action or investigation arises out of and is directly related to receipt of health care or payment for health care or action involving a fraudulent claim related to health; or if authorized by an appropriate order of a court of competent jurisdiction, granted after application showing good cause therefor.
 
 (2) In assessing good cause, the court shall weigh the public interest and the need for disclosure against the injury to the patient, to the physician-patient relationship, and to the treatment services.
 
@@ -82,11 +82,11 @@ A prior section 3486, acts June 25, 1948, ch. 645, 62 Stat. 833; Aug. 20, 1954, 
 
 #### Amendments
 
-2008—Subsec. (a)(1)(D). Pub. L. 110–457 inserted “1591,” after “1201,”.
+<b>2008</b>—Subsec. (a)(1)(D). Pub. L. 110–457 inserted “1591,” after “1201,”.
 
-2003—Subsec. (a)(1)(C)(i). Pub. L. 108–21 substituted “the information specified in section 2703(c)(2)” for “the name, address, local and long distance telephone toll billing records, telephone number or other subscriber number or identity, and length of service of a subscriber to or customer of such service and the types of services the subscriber or customer utilized”.
+<b>2003</b>—Subsec. (a)(1)(C)(i). Pub. L. 108–21 substituted “the information specified in section 2703(c)(2)” for“the name, address, local and long distance telephone toll billing records, telephone number or other subscriber number or identity, and length of service of a subscriber to or customer of such service and the types of services the subscriber or customer utilized”.
 
-2000—Pub. L. 106–544, §5(b)(1), struck out “in Federal health care investigations” after “subpoenas” in section catchline.
+<b>2000</b>—Pub. L. 106–544, §5(b)(1), struck out “in Federal health care investigations” after “subpoenas” in section catchline.
 
 Subsec. (a)(1). Pub. L. 106–544, §5(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In any investigation relating to any act or activity involving a Federal health care offense, or any act or activity involving a Federal offense relating to the sexual exploitation or other abuse of children, the Attorney General or the Attorney General's designee may issue in writing and cause to be served a subpoena—
 
@@ -102,7 +102,7 @@ Subsec. (a)(5) to (10). Pub. L. 106–544, §5(a)(3), added pars. (5) to (10).
 
 Subsec. (d). Pub. L. 106–544, §5(c)(2), substituted “subpoena” for “summons” in two places.
 
-1998—Pub. L. 105–314 substituted “Administrative subpoenas in Federal health care investigations” for “Authorized investigative demand procedures” in section catchline.
+<b>1998</b>—Pub. L. 105–314 substituted “Administrative subpoenas in Federal health care investigations” for “Authorized investigative demand procedures” in section catchline.
 
 Subsec. (a)(1). Pub. L. 105–277 inserted “or any act or activity involving a Federal offense relating to the sexual exploitation or other abuse of children,” after “health care offense,” in introductory provisions.
 

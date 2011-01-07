@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, within 60 days from October 24, 1992
 
 #### (b) Full patent
 
-The holder of a valid oil shale mining claim who has filed a patent application and received first half final certificate for patent by October 24, 1992, may obtain a patent pursuant to the general mining laws of the United States.
+The holder of a valid oil shale mining claim who has filed a patent application and received first half final certificate for patent by October24, 1992, may obtain a patent pursuant to the general mining laws of the United States.
 
 #### (c) Patent
 
@@ -40,7 +40,7 @@ The holder of a valid oil shale mining claim who has filed a patent application 
 
 #### (f) Reclamation
 
-In addition to other applicable requirements, any person who holds a limited patent or maintains a claim pursuant to this section shall be required to carry out reclamation as prescribed by the Secretary and to furnish a bond or other appropriate financial guarantee in an amountsufficient to ensure adequate reclamation of the lands to be disturbed by any aspect of the proposed mining activities.
+In addition to other applicable requirements, any person who holds a limited patent or maintains a claim pursuant to this section shall be required to carry out reclamation as prescribed by the Secretary and to furnish a bond or other appropriate financial guarantee in an amount sufficient to ensure adequate reclamation of the lands to be disturbed by any aspect of the proposed mining activities.
 
 #### (g) Reaffirmation of requirements
 
@@ -54,7 +54,7 @@ Notwithstanding any other provision of law, with respect to any oil shale mining
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, known as the Energy Policy Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of Title 42, The Public Health and Welfare, and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, known as the Energy Policy Act of 1992. For complete classification of this Act tothe Code, see Short Title note set out under section 13201 of Title 42, The Public Health and Welfare, and Tables.
 
 #### Codification
 

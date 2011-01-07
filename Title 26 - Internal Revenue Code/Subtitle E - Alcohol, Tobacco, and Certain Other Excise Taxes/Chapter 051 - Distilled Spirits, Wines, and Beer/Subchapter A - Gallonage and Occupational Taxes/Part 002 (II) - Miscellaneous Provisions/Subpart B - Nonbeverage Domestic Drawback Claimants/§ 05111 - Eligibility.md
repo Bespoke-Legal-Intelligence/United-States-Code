@@ -12,17 +12,17 @@ Another prior section 5111, act Aug. 16, 1954, ch. 736, 68A Stat. 618, related t
 
 #### Amendments
 
-2005—Pub. L. 109–59, §11125(b)(3)(C), struck out “and rate of tax” after “Eligibility” in section catchline, struck out “(a) Eligibility for drawback” before “Any person”, and struck out subsec. (b). Text read as follows: “The special tax imposed by subsection (a) shall be $500 per year.”
+<b>2005</b>—Pub. L. 109–59, §11125(b)(3)(C), struck out “and rate of tax” after “Eligibility” in section catchline, struck out “(a) Eligibility for drawback” before “Any person”, and struck out subsec. (b). Text read as follows: “The special tax imposed by subsection (a) shall be $500 per year.”
 
 Pub. L. 109–59, §11125(b)(3)(A), renumbered section 5131 of this title as this section.
 
 Subsec. (a). Pub. L. 109–59, §11125(a)(2), struck out “, on payment of a special tax per annum,” after “beverage purposes”.
 
-1994—Subsec. (a). Pub. L. 103–465 substituted “flavoring extracts, or perfume” for “or flavoring extracts”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–465 substituted “flavoring extracts, or perfume” for “or flavoring extracts”.
 
-1987—Subsec. (b). Pub. L. 100–203 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The special tax imposed by subsection (a) shall be graduated in amount as follows: (1) for total annual use not exceeding 25 proof gallons, $25 a year; (2) for total annual use not exceeding 50 proof gallons, $50 a year; (3) for total annual use of more than 50 proof gallons, $100 a year.”
+<b>1987</b>—Subsec. (b). Pub. L. 100–203 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The special tax imposed by subsection (a) shall be graduated in amount as follows: (1) for total annual use not exceeding 25 proof gallons, $25 a year; (2) for total annual use not exceeding 50 proof gallons, $50 a year; (3) for total annual use of more than 50 proof gallons, $100 a year.”
 
-1976—Subsec. (a). Pub. L. 94–455 struck out “produced in a domestic registered distillery or industrial alcohol plant and withdrawn from bond, or using distilled spirits withdrawn from the bonded premises of a distilled spirits plant,” after “Any person using distilled spirits”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “produced in a domestic registered distillery or industrial alcohol plant and withdrawn from bond, or using distilled spirits withdrawn from the bonded premises of a distilled spirits plant,” after “Any person using distilled spirits”.
 
 #### Effective Date of 2005 Amendment
 

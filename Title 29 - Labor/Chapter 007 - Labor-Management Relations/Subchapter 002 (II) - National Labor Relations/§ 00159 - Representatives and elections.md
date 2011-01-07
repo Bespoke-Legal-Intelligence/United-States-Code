@@ -18,7 +18,7 @@ The Board shall decide in each case whether, in order to assure to employees the
 
 > the Board shall investigate such petition and if it has reasonable cause to believe that a question of representation affecting commerce exists shall provide for an appropriate hearing upon due notice. Such hearing may be conducted by an officer or employee of the regional office, who shall not make any recommendations with respect thereto. If the Board finds upon the record of such hearing that such a question of representation exists, it shall direct an election by secret ballot and shall certify the results thereof.
 
-(2) In determining whether or not a question of representation affecting commerce exists, the same regulations and rules of decision shall apply irrespective of the identity of the personsfiling the petition or the kind of relief sought and in no case shall the Board deny a labor organization a place on the ballot by reason of an order with respect to such labor organization or its predecessor not issued in conformity with section 160(c) of this title.
+(2) In determining whether or not a question of representation affecting commerce exists, the same regulations and rules of decision shall apply irrespective of the identity of the persons filing the petition or the kind of relief sought and in no case shall the Board deny a labor organization a place on the ballot by reason of an order with respect to such labor organization or its predecessor not issued in conformity with section 160(c) of this title.
 
 (3) No election shall be directed in any bargaining unit or any subdivision within which in the preceding twelve-month period, a valid election shall have been held. Employees engaged in an economic strike who are not entitled to reinstatement shall be eligible to vote under such regulations as the Board shall find are consistent with the purposes and provisions of this subchapter in any election conducted within twelve months after the commencement of the strike. In any election where none of the choices on the ballot receives a majority, a run-off shall be conducted, the ballot providing for a selection between the two choices receiving the largest and second largest number of valid votes cast in the election.
 
@@ -40,17 +40,17 @@ Whenever an order of the Board made pursuant to section 160(c) of this title is 
 
 #### Amendments
 
-1959—Subsec. (c)(3). Pub. L. 86–257, §702, substituted “Employees engaged in an economic strike who are not entitled to reinstatement shall be eligible to vote under such regulations as the Board shall find are consistent with the purposes and provisions of this subchapter in any election conducted within twelve months after the commencement of the strike” for “Employees on strike who are not entitled to reinstatement shall not be eligible to vote.”
+<b>1959</b>—Subsec. (c)(3). Pub. L. 86–257, §702, substituted “Employees engaged in an economic strike who are not entitled to reinstatement shall be eligible to vote under such regulations as the Board shall find are consistent with the purposes and provisions of this subchapter in any election conducted within twelve months after the commencement of the strike” for “Employees on strike who are not entitled to reinstatement shall not be eligible to vote.”
 
 Subsecs. (f), (g). Pub. L. 86–257, §201(d), repealed subsecs. (f) and (g) which required unions to file their constitutions, bylaws and a report, prescribed the contents of the report and directed the filing of annual financial reports, and are now covered by section 431 of this title.
 
 Subsec. (h). Pub. L. 86–257, §201(d), repealed subsec. (h) which related to affidavits showing union's officers free from Communist Party affiliation or belief.
 
-1951—Subsec. (e). Act Oct. 22, 1951, §1(c), struck out par. (1) and renumbered pars. (2) and (3) as (1) and (2).
+<b>1951</b>—Subsec. (e). Act Oct. 22, 1951, §1(c), struck out par. (1) and renumbered pars. (2) and (3) as (1) and (2).
 
 Subsecs. (f) to (h). Act Oct. 22, 1951, §1(d), struck out “No petition under section 159(e)(1) shall be entertained” wherever appearing.
 
-1947—Act June 23, 1947, amended section generally to allow employees to carry their grievances directly to the employer, to circumscribe certain powers of the Board, to make the union file with the Secretary of Labor its constitution, bylaws, and report before being certified as a bargaining agent, to require annual reports by labor unions, and to require labor unions to file affidavits with the Board showing that none of its officers are affiliated with or believe in the Communist Party.
+<b>1947</b>—Act June 23, 1947, amended section generally to allow employees to carry their grievances directly to the employer, to circumscribe certain powers of the Board, to make the union file with the Secretary of Labor its constitution, bylaws, and report before being certified as a bargaining agent, to require annual reports by labor unions, and to require labor unions to file affidavits with the Board showing that none of its officers are affiliated with or believe in the Communist Party.
 
 #### Effective Date of 1959 Amendment
 

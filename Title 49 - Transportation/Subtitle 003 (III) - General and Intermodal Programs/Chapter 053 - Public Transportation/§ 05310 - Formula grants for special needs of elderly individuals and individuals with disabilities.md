@@ -200,7 +200,7 @@ In subsection (e)(1), the words “and is deemed” are substituted for “and b
 
 In subsection (e)(2), the words “insofar as may be appropriate” and “necessary or . . . for purposes of this paragraph” are omitted as surplus.
 
-In subsection (f), the words “any applicable” are omitted as surplus. The words “prescribe regulations establishing” are substituted for “not later than ninety days after January 6, 1983, publish in the Federal Register for public comment, proposed regulations and, not later than one hundred and eighty days after January 6, 1983, promulgate final regulations, establishing” to eliminate unnecessary and executed words. Section 3021(1) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2110) is applied to 49 App.:1612(e) to carry out the apparent intent of Congress.
+In subsection (f), the words “any applicable” are omitted as surplus. The words “prescribe regulations establishing” are substituted for “not later than ninety days after January 6, 1983, publish in the Federal Register for public comment, proposed regulations and, not later than one hundred and eighty days after January6, 1983, promulgate final regulations, establishing” to eliminate unnecessary and executed words. Section 3021(1) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2110) is applied to 49 App.:1612(e) to carry out the apparent intent of Congress.
 
 In subsection (g), the words “not later than 60 days following December 18, 1991” are omitted as obsolete. The words “and agencies” are omitted as surplus.
 
@@ -208,15 +208,15 @@ In subsection (j), the words “elderly individuals and individuals with disabil
 
 #### Amendments
 
-2005—Pub. L. 109–59, §3012(a), amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (j) relating to formula grants and loans for special needs of elderly individuals and individuals with disabilities.
+<b>2005</b>—Pub. L. 109–59, §3012(a), amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (j) relating to formula grants and loans for special needs of elderly individuals and individuals with disabilities.
 
 Subsec. (h). Pub. L. 109–59, §3002(b)(2), substituted “Public” for “Mass”.
 
-1998—Pub. L. 105–178 substituted “Formula grants” for “Grants” in section catchline.
+<b>1998</b>—Pub. L. 105–178 substituted “Formula grants” for “Grants” in section catchline.
 
 #### Elderly Individuals and Individuals With Disabilities Pilot Program
 
-Pub. L. 109–59, title III, §3012(b), Aug. 10, 2005, 119 Stat. 1591, provided that:
+Pub. L. 109–59, title III, §3012(b), Aug. 10, 2005, 119 Stat. 1591, as amended by Pub. L. 111–147, title IV, §437(c), Mar. 18, 2010, 124 Stat. 92; Pub. L. 111–322, title II, §2307(c), Dec. 22, 2010, 124 Stat. 3530, provided that:
 
 “(1)
 
@@ -274,7 +274,7 @@ Report.—Not later than 2 years after the date of enactment of this Act \[Aug. 
 
 “(8)
 
-Sunset.—This subsection shall cease to be effective on September 30, 2009.”
+Sunset.—This subsection shall cease to be effective on March 4, 2011.”
 
 #### Over-the-Road Bus Accessibility Program
 

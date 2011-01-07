@@ -30,13 +30,13 @@ Section 3503 requires the use of fire retardant materials on a vessel having ber
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–324 substituted “Before November 1, 2008, this section does not apply to any vessel in operation before January 1, 1968, and operating only within the Boundary Line.” for “Before November 1, 1998, this section does not apply to a vessel in operation before January 1, 1968, and operating only on the inland rivers.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–324 substituted “Before November 1, 2008, this section does not apply to any vessel in operation before January 1, 1968, and operating only within the Boundary Line.” for “Before November 1, 1998, this section does not apply to a vessel in operation before January 1, 1968, and operating only on the inland rivers.”
 
-1991—Subsec. (a). Pub. L. 102–241, §20(1), substituted “1998” for “1993”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–241, §20(1), substituted “1998” for “1993”.
 
 Subsec. (b)(1)(D). Pub. L. 102–241, §20(2), added subpar. (D).
 
-1986—Pub. L. 99–307 designated existing provision as subsec. (a), substituted “November 1, 1993” for “November 1, 1988” and inserted “in operation before January 1, 1968, and” after “to a vessel”, and added subsec. (b).
+<b>1986</b>—Pub. L. 99–307 designated existing provision as subsec. (a), substituted “November 1, 1993” for “November 1, 1988” and inserted “in operation before January 1, 1968, and” after “to a vessel”, and added subsec. (b).
 
 #### Transfer of Functions
 

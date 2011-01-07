@@ -100,7 +100,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of subtitle A, in the case of a gift loan directly between individuals, theamount treated as retransferred by the borrower to the lender as of the close of any year shall not exceed the borrower's net investment income for such year.
+&emsp;&emsp;For purposes of subtitle A, in the case of a gift loan directly between individuals, the amount treated as retransferred by the borrower to the lender as of the close of any year shall not exceed the borrower's net investment income for such year.
 
 #### (B) Limitation not to apply where 1 of principal purposes is tax avoidance
 
@@ -270,7 +270,7 @@ For purposes of this section—
 
 #### (C) Nursing homes excluded
 
-&emsp;&emsp;The term “qualified continuing care facility” shall not include any facility which is of a type which is traditionally considered a nursing home.
+&emsp;&emsp;The term “qualified continuing care facility” shall not include any facility which isof a type which is traditionally considered a nursing home.
 
 #### (5) Adjustment of limit for inflation
 
@@ -350,7 +350,7 @@ For purposes of this section—
 
 #### Amendments
 
-2006—Subsec. (g)(6). Pub. L. 109–222, §209(b)(1), added par. (6).
+<b>2006</b>—Subsec. (g)(6). Pub. L. 109–222, §209(b)(1), added par. (6).
 
 Subsec. (h). Pub. L. 109–222, §209(a), added subsec. (h). Former subsec. (h) redesignated (i).
 
@@ -358,13 +358,13 @@ Subsec. (h)(4). Pub. L. 109–432 struck out heading and text of par. (4). Text 
 
 Subsec. (i). Pub. L. 109–222, §209(a), redesignated subsec. (h) as (i).
 
-2000—Subsec. (f)(3). Pub. L. 106–554 substituted “forgoing” for “foregoing”.
+<b>2000</b>—Subsec. (f)(3). Pub. L. 106–554 substituted “forgoing” for “foregoing”.
 
-1998—Subsec. (f)(2)(B). Pub. L. 105–206 substituted “forgone” for “foregone”.
+<b>1998</b>—Subsec. (f)(2)(B). Pub. L. 105–206 substituted “forgone” for “foregone”.
 
-1997—Subsec. (f)(11)(A). Pub. L. 105–34 substituted “section 121” for “section 1034”.
+<b>1997</b>—Subsec. (f)(11)(A). Pub. L. 105–34 substituted “section 121” for “section 1034”.
 
-1996—Subsec. (a)(1), (2). Pub. L. 104–188, §1704(t)(58)(A), substituted “forgone” for “foregone”.
+<b>1996</b>—Subsec. (a)(1), (2). Pub. L. 104–188, §1704(t)(58)(A), substituted “forgone” for “foregone”.
 
 Subsec. (e). Pub. L. 104–188, §1704(t)(58)(B), substituted “forgone” for “foregone” in heading.
 
@@ -376,11 +376,11 @@ Subsec. (f)(12). Pub. L. 104–188, §1602(b)(7), struck out par. (12) which rea
 
 Special rule for certain employer security loans.—This section shall not apply to any loan between a corporation (or any member of the controlled group of corporations which includes such corporation) and an employee stock ownership plan described in section 4975(e)(7) to the extent that the interest rate on such loan is equal to the interest rate paid on a related securities acquisition loan (as described in section 133(b)) to such corporation.”
 
-1988—Subsec. (d)(1)(E)(i). Pub. L. 100–647, §1005(c)(15), directed substitution of “section 163(d)(4)” for “section 163(d)(3)”, which substitution had been previously made by Pub. L. 99–514, §511(d)(1).
+<b>1988</b>—Subsec. (d)(1)(E)(i). Pub. L. 100–647, §1005(c)(15), directed substitution of “section 163(d)(4)” for “section 163(d)(3)”, which substitution had been previously made by Pub. L. 99–514, §511(d)(1).
 
 Subsec. (f)(11), (12). Pub. L. 100–647, §1018(u)(48), redesignated former par. (11), Pub. L. 99–514, relating to special rule for certain employer security loans, as (12).
 
-1986—Subsec. (d)(1)(E)(i). Pub. L. 99–514, §511(d)(1), substituted “section 163(d)(4)” for “section 163(d)(3)”.
+<b>1986</b>—Subsec. (d)(1)(E)(i). Pub. L. 99–514, §511(d)(1), substituted “section 163(d)(4)” for “section 163(d)(3)”.
 
 Subsec. (f)(2)(B). Pub. L. 99–514, §1812(b)(4), inserted “, compounded semiannually” before the period at end.
 
@@ -390,7 +390,7 @@ Subsec. (f)(9). Pub. L. 99–514, §1812(b)(2), amended par. (9) generally, inse
 
 Subsec. (f)(11). Pub. L. 99–514, §1854(c)(2)(B), added par. (11) relating to special rule for certain employer security loans.
 
-1985—Subsec. (c)(1). Pub. L. 99–121, §201(c)(1), inserted “and subsection (g)” after “this subsection” in provisions preceding subpar. (A).
+<b>1985</b>—Subsec. (c)(1). Pub. L. 99–121, §201(c)(1), inserted “and subsection (g)” after “this subsection” in provisions preceding subpar. (A).
 
 Subsec. (c)(1)(E). Pub. L. 99–121, §201(c)(2), substituted “(C), or (F)” for “or (C)”.
 
@@ -460,7 +460,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 “(2)
 
-Exception for demand loans outstanding on june 6, 1984, and repaid within 60 days after date of enactment.—The amendments made by this section shall not apply to any demand loan which—
+Exception for demand loans outstanding on june 6, 1984, and repaid within 60 days after date ofenactment.—The amendments made by this section shall not apply to any demand loan which—
 
 &emsp;“(A) was outstanding on June 6, 1984, and
 
@@ -488,7 +488,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Certain Israel or Polish Bonds Not Subject to Rules Relating to Below-Market Loans
 
-Section 1812(b)(5) of Pub. L. 99–514, as amended by Pub. L. 101–179, title III, §307(a), Nov. 28, 1989, 103 Stat.1314, provided that: “Section 7872 of the Internal Revenue Code of 1954 \[now 1986\] (relating to treatment of loans with below-market interest rates) shall not apply to any obligation issued by Israel or Poland if—
+Section 1812(b)(5) of Pub. L. 99–514, as amended by Pub. L. 101–179, title III, §307(a), Nov. 28, 1989, 103 Stat. 1314, provided that: “Section 7872 of the Internal Revenue Code of 1954 \[now 1986\] (relating to treatment of loans with below-market interest rates) shall not apply to any obligation issued by Israel or Poland if—
 
 &emsp;“(A) the obligation is payable in United States dollars, and
 

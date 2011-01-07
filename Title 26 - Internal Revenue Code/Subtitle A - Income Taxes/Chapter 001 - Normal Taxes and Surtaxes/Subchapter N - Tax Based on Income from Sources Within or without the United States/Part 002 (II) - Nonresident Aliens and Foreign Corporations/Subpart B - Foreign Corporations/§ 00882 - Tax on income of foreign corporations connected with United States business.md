@@ -56,7 +56,7 @@ In the case of a foreign corporation, except where the context clearly indicates
 
 &emsp;&emsp;(B) which, but for this subsection, would not be treated as income effectively connected with the conduct of a trade or business within the United States,
 
-> &emsp;may elect for such taxable year to treat all such income as income which is effectively connected with the conduct of a trade or business within the United States. In such case, such income shall be taxable as provided in subsection (a)(1) whether or not such corporation is engaged in trade or business within theUnited States during the taxable year. An election under this paragraph for any taxable year shall remain in effect for all subsequent taxable years, except that it may be revoked with the consent of the Secretary with respect to any taxable year.
+> &emsp;may elect for such taxable year to treat all such income as income which is effectively connected with the conduct of a trade or business within the United States. In such case, such income shall be taxable as provided in subsection (a)(1) whether or not such corporation is engaged in trade or business within the United States during the taxable year. An election under this paragraph for any taxable year shall remain in effect for all subsequent taxable years, except that it may be revoked with the consent of the Secretary with respect to any taxable year.
 
 #### (2) Election after revocation, etc.
 
@@ -78,27 +78,27 @@ If any foreign corporation has no office or place of business in the United Stat
 
 #### Amendments
 
-1988—Subsec. (a)(1). Pub. L. 100–647, §2001(c)(2), inserted reference to section 59A.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–647, §2001(c)(2), inserted reference to section 59A.
 
 Subsec. (b). Pub. L. 100–647, §1012(s)(2)(B), inserted “, except where the context clearly indicates otherwise” after “foreign corporation”.
 
 Subsec. (e). Pub. L. 100–647, §6133(a), substituted “interest on obligations of the United States which is not portfolio interest (as defined in section 881(c)(2))” for “interest on obligations of the United States”, and struck out at end “The preceding sentence shall not apply to any Guam corporation which is treated as not being a foreign corporation by section 881(b)(1) for the taxable year.”
 
-1986—Subsec. (a)(1). Pub. L. 99–514, §701(e)(4)(F), inserted reference to section 55.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §701(e)(4)(F), inserted reference to section 55.
 
 Subsec. (e). Pub. L. 99–514, §1236(a), inserted “The preceding sentence shall not apply to any Guam corporation which is treated as not being a foreign corporation by section 881(b)(1) for the taxable year.”
 
-1984—Subsec. (c)(2). Pub. L. 98–369 substituted reference to section “33” for “32” and “34” for “39”.
+<b>1984</b>—Subsec. (c)(2). Pub. L. 98–369 substituted reference to section “33” for “32” and “34” for “39”.
 
-1983—Subsec. (c)(2). Pub. L. 97–424 struck out “and lubricating oil” after “gasoline”.
+<b>1983</b>—Subsec. (c)(2). Pub. L. 97–424 struck out “and lubricating oil” after “gasoline”.
 
-1980—Subsec. (a)(3). Pub. L. 96–499 added par. (3).
+<b>1980</b>—Subsec. (a)(3). Pub. L. 96–499 added par. (3).
 
-1978—Subsec. (a). Pub. L. 95–600 substituted in subsec. (a) heading “Imposition of tax” for “Normal tax and surtax” and in par. (1) heading “In general” for “Imposition of tax”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–600 substituted in subsec. (a) heading “Imposition of tax” for “Normal tax and surtax” and in par. (1) heading “In general” for “Imposition of tax”.
 
-1976—Subsecs. (c)(1)(A), (2), (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (c)(1)(A), (2), (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1966—Pub. L. 89–809 substantially revised the income tax treatment of foreign corporations, introduced the concept of taxable income effectively connected with the conduct of a trade or business within the United States into provisions dealing with the imposition of tax, substituted a concept of gross income that included gross income derived from sources within the United States not effectively connected with the conduct of a trade or business within the United States and gross income effectively connected with the conduct of a trade or business within the United States for a concept of gross income that included only gross income from sources within the United States, and inserted provisions for an election to treat real property income as income connected with United States business, treatment of interest on United States obligations received by banks organized in possessions, and the returns of tax by agents, and inserted cross reference to section 906(b)(1).
+<b>1966</b>—Pub. L. 89–809 substantially revised the income tax treatment of foreign corporations, introduced the concept of taxable income effectively connected with the conduct of a trade or business within the United States into provisions dealing with the imposition of tax, substituted a concept of gross income that included gross income derived from sources within theUnited States not effectively connected with the conduct of a trade or business within the United States and gross income effectively connected with the conduct of a trade or business within the United States for a concept of gross income that included only gross income from sources within the United States, and inserted provisions for an election to treat real property income as income connected with United States business, treatment of interest on United States obligations received by banks organized in possessions, and the returns of tax by agents, and inserted cross reference to section 906(b)(1).
 
 #### Effective Date of 1988 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There shall be established in each local area of a State, and certified by the Governor of the State, a local workforce investment board, to set policy for the portion of the statewide workforce investment system within the local area (referred to in this chapter as a “local workforce investment system”).
+There shall be established in each local area of a State, and certified by the Governor of theState, a local workforce investment board, to set policy for the portion of the statewide workforce investment system within the local area (referred to in this chapter as a “local workforce investment system”).
 
 #### (b) Membership
 
@@ -72,7 +72,7 @@ There shall be established in each local area of a State, and certified by the G
 
 #### (C) Concentrated employment programs
 
-&emsp;&emsp;In the case of a local area designated in accordance with section 2831(a)(2)(B) of this title, the governing body of the concentrated employment program involved shall act inconsultation with the chief elected official in the local area to appoint members of the local board, in accordance with the State criteria established under subsection (b) of this section, and to carry out any other responsibility relating to workforce investment activities assigned to such official under this Act.
+&emsp;&emsp;In the case of a local area designated in accordance with section 2831(a)(2)(B) of this title, the governing body of the concentrated employment program involved shall act in consultation with the chief elected official in the local area to appoint members of the local board, in accordance with the State criteria established under subsection (b) of this section, and to carry out any other responsibility relating to workforce investment activities assigned to such official under this Act.
 
 #### (2) Certification
 
@@ -82,7 +82,7 @@ There shall be established in each local area of a State, and certified by the G
 
 #### (B) Criteria
 
-&emsp;&emsp;Such certification shall be based on criteria established under subsection (b) of this section and, for a second or subsequent certification, the extent to which the local board has ensured that workforce investment activities carried out in the local area have enabled the local area to meet the local performance measures.
+&emsp;&emsp;Such certification shall be based on criteria established under subsection (b) of thissection and, for a second or subsequent certification, the extent to which the local board has ensured that workforce investment activities carried out in the local area have enabled the local area to meet the local performance measures.
 
 #### (C) Failure to achieve certification
 
@@ -156,7 +156,7 @@ The functions of the local board shall include the following:
 
 #### (II) Designation
 
-&emsp;&emsp;&emsp;&emsp;In order to assist in the administration of the grant funds, the chief elected official or the Governor, where the Governorserves as the local grant recipient for a local area, may designate an entity to serve as a local grant subrecipient for such funds or as a local fiscal agent. Such designation shall not relieve the chief elected official or the Governor of the liability for any misuse of grant funds as described in subclause (I).
+&emsp;&emsp;&emsp;&emsp;In order to assist in the administration of the grant funds, the chief elected official or the Governor, where the Governor serves as the local grant recipient for a local area, may designate an entity to serve as a local grant subrecipient for such funds or as a local fiscal agent. Such designation shall not relieve the chief elected official or the Governor of the liability for any misuse of grant funds as described in subclause (I).
 
 #### (III) Disbursal
 
@@ -228,7 +228,7 @@ The local board shall make available to the public, on a regular basis through o
 
 #### (2) Core services; intensive services; designation or certification as one-stop operators
 
-&emsp;A local board may provide core services described in section 2864(d)(2) of this title or intensive services described in section 2864(d)(3)of this title through a one-stop delivery system described in section 2864(c) of this title or be designated or certified as a one-stop operator only with the agreement of the chief elected official and the Governor.
+&emsp;A local board may provide core services described in section 2864(d)(2) of this title or intensive services described in section 2864(d)(3) of this title through a one-stop delivery system described in section 2864(c) of this title or be designated or certified as a one-stop operator only with the agreement of the chief elected official and the Governor.
 
 #### (3) Limitation on authority
 
@@ -328,7 +328,7 @@ Section 1512 of this title, referred to in subsec. (i)(1)(C)(i), was repealed by
 
 #### Amendments
 
-1998—Subsec. (f)(1)(D). Pub. L. 105–277, §101(f) \[title VIII, §401(4)(A)\], substituted “if the Governor” for “if the State”.
+<b>1998</b>—Subsec. (f)(1)(D). Pub. L. 105–277, §101(f) \[title VIII, §401(4)(A)\], substituted “if the Governor” for “if the State”.
 
 Subsec. (i)(1)(D)(ii)(II). Pub. L. 105–277, §101(f) \[title VIII, §401(4)(B)\], added subcl. (II) and struck out former subcl. (II) which read as follows: “(for a local area in which no employees are represented by such organizations), other representatives of employees in the local area.”
 

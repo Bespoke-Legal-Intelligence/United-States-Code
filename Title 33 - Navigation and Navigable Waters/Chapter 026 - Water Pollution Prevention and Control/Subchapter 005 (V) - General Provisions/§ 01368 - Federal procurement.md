@@ -2,7 +2,7 @@
 
 #### (a) Contracts with violators prohibited
 
-No Federal agency may enter into any contract with any person, who has been convicted ofany offense under section 1319(c) of this title, for the procurement of goods, materials, and services if such contract is to be performed at any facility at which the violation which gave rise to such conviction occurred, and if such facility is owned, leased, or supervised by such person. The prohibition in the preceding sentence shall continue until the Administrator certifies that the condition giving rise to such conviction has been corrected.
+No Federal agency may enter into any contract with any person, who has been convicted of any offense under section 1319(c) of this title, for the procurement of goods, materials, and services if such contract is to be performed at any facility at which the violation which gave rise to such conviction occurred, and if such facility is owned, leased, or supervised by such person. The prohibition in the preceding sentence shall continue until the Administrator certifies that the condition giving rise to such conviction has been corrected.
 
 #### (b) Notification of agencies
 
@@ -22,7 +22,7 @@ The President shall annually report to the Congress on measures taken in complia
 
 (1) No certification by a contractor, and no contract clause, may be required in the case of a contract for the acquisition of commercial items in order to implement a prohibition or requirement of this section or a prohibition or requirement issued in the implementation of this section.
 
-(2) In paragraph (1), the term “commercial item” has the meaning given such term in section 403(12) of title 41.
+(2) In paragraph (1), the term “commercial item” has the meaning given such term in section 103 of title 41.
 
 (June 30, 1948, ch. 758, title V, §508, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 891; amended Pub. L. 103–355, title VIII, §8301(a), Oct. 13, 1994, 108 Stat. 3396.)
 
@@ -30,13 +30,15 @@ The President shall annually report to the Congress on measures taken in complia
 
 Subsec. (c) of this section authorized the President to cause to be issued, not more than 180 days after October 18, 1972, an order (1) requiring each Federal agency authorized to enter into contracts or to extend Federal assistance by way of grant, loan, or contract, to effectuate the purpose and policy of this chapter, and (2) setting forth procedures, sanctions and penalties as the President determines necessary to carry out such requirement.
 
+In subsec. (f)(2), “section 103 of title 41” substituted for “section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-1994—Subsec. (f). Pub. L. 103–355 added subsec. (f).
+<b>1994</b>—Subsec. (f). Pub. L. 103–355 added subsec. (f).
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of Title 10, Armed Forces.
 
 #### Administration of Chapter With Respect to Federal Contracts, Grants, or Loans
 

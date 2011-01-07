@@ -6,17 +6,17 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (b) Duties
 
-#### (1) Review of access policies and annual reports
+#### (1) Review of access policies for all States and annual reports
 
 &emsp;MACPAC shall—
 
-&emsp;&emsp;(A) review policies of the Medicaid program established under this subchapter (in this section referred to as “Medicaid”) and the State Children's Health Insurance Program established under subchapter XXI (in this section referred to as “CHIP”) affecting children's access to covered items and services, including topics described in paragraph (2);
+&emsp;&emsp;(A) review policies of the Medicaid program established under this subchapter (in this section referred to as “Medicaid”) and the State Children's Health Insurance Program established under subchapter XXI (in this section referred to as “CHIP”) affecting access to covered items and services, including topics described in paragraph (2);
 
-&emsp;&emsp;(B) make recommendations to Congress concerning such access policies;
+&emsp;&emsp;(B) make recommendations to Congress, the Secretary, and States concerning such access policies;
 
-&emsp;&emsp;(C) by not later than March 1 of each year (beginning with 2010), submit a report to Congress containing the results of such reviews and MACPAC's recommendations concerning such policies; and
+&emsp;&emsp;(C) by not later than March 15 of each year (beginning with 2010), submit a report to Congress containing the results of such reviews and MACPAC's recommendations concerning such policies; and
 
-&emsp;&emsp;(D) by not later than June 1 of each year (beginning with 2010), submit a report to Congress containing an examination of issues affecting Medicaid and CHIP, including the implications of changes in health care delivery in the United States and in the market for health care services on such programs.
+&emsp;&emsp;(D) by not later than June 15 of each year (beginning with 2010), submit a report to Congress containing an examination of issues affecting Medicaid and CHIP, including the implications of changes in health care delivery in the United States and in the market for health care services on such programs.
 
 #### (2) Specific topics to be reviewed
 
@@ -26,47 +26,103 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 &emsp;&emsp;Payment policies under Medicaid and CHIP, including—
 
-&emsp;&emsp;&emsp;(i) the factors affecting expenditures for items and services in different sectors, including the process for updating hospital, skilled nursing facility, physician, Federally-qualified health center, rural health center, and other fees;
+&emsp;&emsp;&emsp;(i) the factors affecting expenditures for the efficient provision of items and services in different sectors, including the process for updating payments to medical, dental, and health professionals, hospitals, residential and long-term care providers, providers of home and community based services, Federally-qualified health centers and rural health clinics, managed care entities, and providers of other covered items and services;
 
 &emsp;&emsp;&emsp;(ii) payment methodologies; and
 
-&emsp;&emsp;&emsp;(iii) the relationship of such factors and methodologies to access and quality of care for Medicaid and CHIP beneficiaries.
+&emsp;&emsp;&emsp;(iii) the relationship of such factors and methodologies to access and quality of care for Medicaid and CHIP beneficiaries (including how such factors and methodologies enable such beneficiaries to obtain the services for which they are eligible, affect provider supply, and affect providers that serve a disproportionate share of low-income and other vulnerable populations).
 
-#### (B) Interaction of Medicaid and CHIP payment policies with health care delivery generally
+#### (B) Eligibility policies
+
+&emsp;&emsp;Medicaid and CHIP eligibility policies, including a determination of the degree to which Federal and State policies provide health care coverage to needy populations.
+
+#### (C) Enrollment and retention processes
+
+&emsp;&emsp;Medicaid and CHIP enrollment and retention processes, including a determination of the degree to which Federal and State policies encourage the enrollment of individuals who are eligible for such programs and screen out individuals who are ineligible, while minimizing the share of program expenses devoted to such processes.
+
+#### (D) Coverage policies
+
+&emsp;&emsp;Medicaid and CHIP benefit and coverage policies, including a determination of the degree to which Federal and State policies provide access to the services enrollees require to improve and maintain their health and functional status.
+
+#### (E) Quality of care
+
+&emsp;&emsp;Medicaid and CHIP policies as they relate to the quality of care provided under those programs, including a determination of the degree to which Federal and State policies achieve their stated goals and interact with similar goals established by other purchasers of health care services.
+
+#### (F) Interaction of Medicaid and CHIP payment policies with health care delivery generally
 
 &emsp;&emsp;The effect of Medicaid and CHIP payment policies on access to items and services for children and other Medicaid and CHIP populations other than under this subchapter or subchapter XXI and the implications of changes in health care delivery in the United States and in the general market for health care items and services on Medicaid and CHIP.
 
-#### (C) Other access policies
+#### (G) Interactions with Medicare and Medicaid
 
-&emsp;&emsp;The effect of other Medicaid and CHIP policies on access to covered items and services, including policies relating to transportation and language barriers.
+&emsp;&emsp;Consistent with paragraph (11), the interaction of policies under Medicaid and the Medicare program under subchapter XVIII, including with respect to how such interactions affect access to services, payments, and dual eligible individuals.
 
-#### (3) Creation of early-warning system
+#### (H) Other access policies
 
-&emsp;MACPAC shall create an early-warning system to identify provider shortage areas or any other problems that threaten access to care or the health care status of Medicaid and CHIP beneficiaries.
+&emsp;&emsp;The effect of other Medicaid and CHIP policies on access to covered items and services, including policies relating to transportation and language barriers and preventive, acute, and long-term services and supports.
 
-#### (4) Comments on certain secretarial reports
+#### (3) Recommendations and reports of State-specific data
 
-&emsp;If the Secretary submits to Congress (or a committee of Congress) a report that is required by law and that relates to access policies, including with respect to payment policies, under Medicaid or CHIP, the Secretary shall transmit a copy of the report to MACPAC. MACPAC shall review the report and, not later than 6 months after the date of submittal of the Secretary's report to Congress, shall submit to the appropriate committees of Congress written comments on such report. Such comments may include such recommendations as MACPAC deems appropriate.
+&emsp;MACPAC shall—
 
-#### (5) Agenda and additional reviews
+&emsp;&emsp;(A) review national and State-specific Medicaid and CHIP data; and
+
+&emsp;&emsp;(B) submit reports and recommendations to Congress, the Secretary, and States based on such reviews.
+
+#### (4) Creation of early-warning system
+
+&emsp;MACPAC shall create an early-warning system to identify provider shortage areas, as well as other factors that adversely affect, or have the potential to adversely affect, access to care by, or the health care status of, Medicaid and CHIP beneficiaries. MACPAC shall include in the annual report required under paragraph (1)(D) a description of all such areas or problems identified with respect to the period addressed in the report.
+
+#### (5) Comments on certain secretarial reports and regulations
+
+#### (A) Certain secretarial reports
+
+&emsp;&emsp;If the Secretary submits to Congress (or a committee of Congress) a report that is required by law and that relates to access policies, including with respect to payment policies, under Medicaid or CHIP, the Secretary shall transmit a copy of the report to MACPAC. MACPAC shall review the report and, not later than 6 months after the date of submittal of the Secretary's report to Congress, shall submit to the appropriate committees of Congress and the Secretary written comments on such report. Such comments may include such recommendations as MACPAC deems appropriate.
+
+#### (B) Regulations
+
+&emsp;&emsp;MACPAC shall review Medicaid and CHIP regulations and may comment through submission of a report to the appropriate committees of Congress and the Secretary, on any such regulations that affect access, quality, or efficiency of health care.
+
+#### (6) Agenda and additional reviews
 
 &emsp;MACPAC shall consult periodically with the chairmen and ranking minority members of the appropriate committees of Congress regarding MACPAC's agenda and progress towards achieving the agenda. MACPAC may conduct additional reviews, and submit additional reports to the appropriate committees of Congress, from time to time on such topics relating to the program under this subchapter or subchapter XXI as may be requested by such chairmen and members and as MACPAC deems appropriate.
 
-#### (6) Availability of reports
+#### (7) Availability of reports
 
 &emsp;MACPAC shall transmit to the Secretary a copy of each report submitted under this subsection and shall make such reports available to the public.
 
-#### (7) Appropriate committee of Congress
+#### (8) Appropriate committee of Congress
 
 &emsp;For purposes of this section, the term “appropriate committees of Congress” means the Committee on Energy and Commerce of the House of Representatives and the Committee on Finance of the Senate.
 
-#### (8) Voting and reporting requirements
+#### (9) Voting and reporting requirements
 
 &emsp;With respect to each recommendation contained in a report submitted under paragraph (1), each member of MACPAC shall vote on the recommendation, and MACPAC shall include, by member, the results of that vote in the report containing the recommendation.
 
-#### (9) Examination of budget consequences
+#### (10) Examination of budget consequences
 
-&emsp;Before making any recommendations, MACPAC shall examine the budget consequences of such recommendations, directly or through consultation with appropriate expert entities.
+&emsp;Before making any recommendations, MACPAC shall examine the budget consequences of such recommendations, directly or through consultation with appropriate expert entities, and shall submit with any recommendations, a report on the Federal and State-specific budget consequences of the recommendations.
+
+#### (11) Consultation and coordination with MEDPAC
+
+#### (A) In general
+
+&emsp;&emsp;MACPAC shall consult with the Medicare Payment Advisory Commission (in this paragraph referred to as “MedPAC”) established under section 1395b–6 of this title in carrying out its duties under this section, as appropriate and particularly with respect to the issues specified in paragraph (2) as they relate to those Medicaid beneficiaries who are dually eligible for Medicaid and the Medicare program under subchapter XVIII, adult Medicaid beneficiaries (who are not dually eligible for Medicare), and beneficiaries under Medicare. Responsibility for analysis of and recommendations to change Medicare policy regarding Medicare beneficiaries, including Medicare beneficiaries who are dually eligible for Medicare and Medicaid, shall rest with MedPAC.
+
+#### (B) Information sharing
+
+&emsp;&emsp;MACPAC and MedPAC shall have access to deliberations and records of the other suchentity, respectively, upon the request of the other such entity.
+
+#### (12) Consultation with States
+
+&emsp;MACPAC shall regularly consult with States in carrying out its duties under this section, including with respect to developing processes for carrying out such duties, and shall ensure that input from States is taken into account and represented in MACPAC's recommendations and reports.
+
+#### (13) Coordinate and consult with the Federal Coordinated Health Care Office
+
+&emsp;MACPAC shall coordinate and consult with the Federal Coordinated Health Care Office established under section 2081 <sup>1</sup> of the Patient Protection and Affordable Care Act before making any recommendations regarding dual eligible individuals.
+
+#### (14) Programmatic oversight vested in the Secretary
+
+&emsp;MACPAC's authority to make recommendations in accordance with this section shall not affect, or be considered to duplicate, the Secretary's authority to carry out Federal responsibilities with respect to Medicaid and CHIP.
 
 #### (c) Membership
 
@@ -78,11 +134,11 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (A) In general
 
-&emsp;&emsp;The membership of MACPAC shall include individuals who have had direct experience as enrollees or parents of enrollees in Medicaid or CHIP and individuals with national recognition for their expertise in Federal safety net health programs, health finance and economics, actuarial science, health facility management, health plans and integrated delivery systems, reimbursement of health facilities, health information technology, pediatric physicians, dentists, and other providers of health services, and other related fields, who provide a mix of different professionals, broad geographic representation, and a balance between urban and rural representatives.
+&emsp;&emsp;The membership of MACPAC shall include individuals who have had direct experience as enrollees or parents or caregivers of enrollees in Medicaid or CHIP and individuals with national recognition for their expertise in Federal safety net health programs, health finance and economics, actuarial science, health plans and integrated delivery systems, reimbursement for health care, health information technology, and other providers of health services, public health, and other related fields, who provide a mix of different professions, broad geographic representation, and a balance between urban and rural representation.
 
 #### (B) Inclusion
 
-&emsp;&emsp;The membership of MACPAC shall include (but not be limited to) physicians and other health professionals, employers, third-party payers, and individuals with expertise in the delivery of health services. Such membership shall also include consumers representing children, pregnant women, the elderly, and individuals with disabilities, current or former representatives of State agencies responsible for administering Medicaid, and current or former representatives of State agencies responsible for administering CHIP.
+&emsp;&emsp;The membership of MACPAC shall include (but not be limited to) physicians, dentists, and other health professionals, employers, third-party payers, and individuals with expertise in the delivery of health services. Such membership shall also include representatives of children, pregnant women, the elderly, individuals with disabilities, caregivers, and dual eligible individuals, current or former representatives of State agencies responsible for administering Medicaid, and current or former representatives of State agencies responsible for administering CHIP.
 
 #### (C) Majority nonproviders
 
@@ -108,7 +164,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (5) Chairman; Vice Chairman
 
-&emsp;The Comptroller General of the United States shall designate a member of MACPAC, at the time of appointment of the member <sup>1</sup> as Chairman and a member as Vice Chairman for that term of appointment, except that in the case of vacancy of the Chairmanship or Vice Chairmanship, the Comptroller General of the United States may designate another member for the remainder of that member's term.
+&emsp;The Comptroller General of the United States shall designate a member of MACPAC, at the time of appointment of the member <sup>2</sup> as Chairman and a member as Vice Chairman for that term of appointment, except that in the case of vacancy of the Chairmanship or Vice Chairmanship, the Comptroller General of the United States may designate another member for the remainder of that member's term.
 
 #### (6) Meetings
 
@@ -120,9 +176,9 @@ Subject to such review as the Comptroller General of the United States deems nec
 
 &emsp;(1) employ and fix the compensation of an Executive Director (subject to the approval of the Comptroller General of the United States) and such other personnel as may be necessary to carry out its duties (without regard to the provisions of title 5 governing appointments in the competitive service);
 
-&emsp;(2) seek such assistance and support as may be required in the performance of its duties from appropriate Federal departments and agencies;
+&emsp;(2) seek such assistance and support as may be required in the performance of its duties from appropriate Federal and State departments and agencies;
 
-&emsp;(3) enter into contracts or make other arrangements, as may be necessary for the conduct of the work of MACPAC (without regard to section 5 of title 41);
+&emsp;(3) enter into contracts or make other arrangements, as may be necessary for the conduct of the work of MACPAC (without regard to section 6101 of title 41);
 
 &emsp;(4) make advance, progress, and other payments which relate to the work of MACPAC;
 
@@ -134,7 +190,7 @@ Subject to such review as the Comptroller General of the United States deems nec
 
 #### (1) Obtaining official data
 
-&emsp;MACPAC may secure directly from any department or agency of the United States information necessary to enable it to carry out thissection. Upon request of the Chairman, the head of that department or agency shall furnish that information to MACPAC on an agreed upon schedule.
+&emsp;MACPAC may secure directly from any department or agency of the United States and, as a condition for receiving payments under sections 1396b(a) and 1397ee(a) of this title, from any State agency responsible for administering Medicaid or CHIP, information necessary to enable it to carry out this section. Upon request of the Chairman, the head of that department or agency shall furnish that information to MACPAC on an agreed upon schedule.
 
 #### (2) Data collection
 
@@ -154,25 +210,81 @@ Subject to such review as the Comptroller General of the United States deems nec
 
 &emsp;MACPAC shall be subject to periodic audit by the Comptroller General of the United States.
 
-#### (f) Authorization of appropriations
+#### (f) Funding
 
 #### (1) Request for appropriations
 
-&emsp;MACPAC shall submit requests for appropriations in the same manner as the Comptroller General of the United States submits requests for appropriations, but amounts appropriated for MACPAC shall be separate from amounts appropriated for the Comptroller General of the United States.
+&emsp;MACPAC shall submit requests for appropriations (other than for fiscal year 2010) in the same manner as the Comptroller General of the United States submits requests for appropriations, but amounts appropriated for MACPAC shall be separate from amounts appropriated for the Comptroller General of the United States.
 
 #### (2) Authorization
 
 &emsp;There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1900, as added Pub. L. 111–3, title V, §506(a), Feb. 4, 2009, 123 Stat. 91.)
+#### (3) Funding for fiscal year 2010
+
+#### (A) In general
+
+&emsp;&emsp;Out of any funds in the Treasury not otherwise appropriated, there is appropriated to MACPAC to carry out the provisions of this section for fiscal year 2010, $9,000,000.
+
+#### (B) Transfer of funds
+
+&emsp;&emsp;Notwithstanding section 1397dd(a)(13) of this title, from the amounts appropriated in such section for fiscal year 2010, $2,000,000 is hereby transferred and made available in such fiscal year to MACPAC to carry out the provisions of this section.
+
+#### (4) Availability
+
+&emsp;Amounts made available under paragraphs (2) and (3) to MACPAC to carry out the provisions of this section shall remain available until expended.
+
+(Aug. 14, 1935, ch. 531, title XIX, §1900, as added Pub. L. 111–3, title V, §506(a), Feb. 4, 2009, 123 Stat. 91; amended Pub. L. 111–148, title II, §2801(a), Mar. 23, 2010, 124 Stat. 328.)
 
 #### References in Text
 
+Section 2081 of the Patient Protection and Affordable Care Act, referred to in subsec. (b)(13), probably means section 2602 of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 315, which is classified to section 1315b of this title. Section 2602 of Pub. L. 111–148 established the Federal Coordinated Health Care Office, and Pub. L. 111–148 does not contain a section 2081.
+
 The Ethics in Government Act of 1978, referred to in subsec. (c)(2)(D), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
+
+#### Codification
+
+In subsec. (d)(3), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions
 
 A prior section 1396, act Aug. 14, 1935, ch. 531, title XIX, §1901, as added Pub. L. 89–97, title I, §121(a), July 30, 1965, 79 Stat. 343; amended Pub. L. 93–233, §13(a)(1), Dec. 31, 1973, 87 Stat. 960; Pub. L. 98–369, div. B, title VI, §2663(j)(3)(C), July 18, 1984, 98 Stat. 1171, which related to appropriations, was transferred to section 1396–1 of this title.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (b)(1). Pub. L. 111–148, §2801(a)(1)(A)(i), inserted “for all States” before “and annual” in heading.
+
+Subsec. (b)(1)(A). Pub. L. 111–148, §2801(a)(1)(A)(ii), struck out “children's” before “access”.
+
+Subsec. (b)(1)(B). Pub. L. 111–148, §2801(a)(1)(A)(iii), inserted “, the Secretary, and States” after “Congress”.
+
+Subsec. (b)(1)(C). Pub. L. 111–148, §2801(a)(1)(A)(iv), substituted “March 15” for “March 1”.
+
+Subsec. (b)(1)(D). Pub. L. 111–148, §2801(a)(1)(A)(v), substituted “June 15” for “June 1”.
+
+Subsec. (b)(2)(A)(i). Pub. L. 111–148, §2801(a)(1)(B)(i)(I), inserted “the efficient provision of” after “expenditures for” and substituted “payments to medical, dental, and health professionals, hospitals, residential and long-term care providers, providers of home and community based services, Federally-qualified health centers and rural health clinics, managed care entities, and providers of other covered items and services” for “hospital, skilled nursing facility, physician, Federally-qualified health center, rural health center, and other fees”.
+
+Subsec. (b)(2)(A)(iii). Pub. L. 111–148, §2801(a)(1)(B)(i)(II), inserted “(including how such factors and methodologies enable such beneficiaries to obtain the services for which they are eligible, affect provider supply, and affect providers that serve a disproportionate share of low-income and other vulnerable populations)” after “CHIP beneficiaries”.
+
+Subsec. (b)(2)(B) to (H). Pub. L. 111–148, §2801(a)(1)(B)(ii)–(v), added subpars. (B) to (E) and (G), redesignated former subpars. (B) and (C) as (F) and (H), respectively, and, in subpar. (H), inserted “and preventive, acute, and long-term services and supports” after “barriers”.
+
+Subsec. (b)(3). Pub. L. 111–148, §2801(a)(1)(D), added par. (3). Former par. (3) redesignated (4).
+
+Subsec. (b)(4). Pub. L. 111–148, §2801(a)(1)(C), (E), redesignated par. (3) as (4) and substituted “, as well as other factors that adversely affect, or have the potential to adversely affect, access to care by, or the health care status of, Medicaid and CHIP beneficiaries. MACPAC shall include in the annual report required under paragraph (1)(D) a description of all such areas or problems identified with respect to the period addressed in the report.” for “or any other problems that threaten access to care or the health care status of Medicaid and CHIP beneficiaries.” Former par. (4) redesignated (5).
+
+Subsec. (b)(5). Pub. L. 111–148, §2801(a)(1)(C), (F), redesignated par. (4) as (5), inserted “and regulations” after “reports” in heading, designated existing provisions as subpar. (A) and inserted heading, inserted “and the Secretary” after “appropriate committees of Congress” in subpar. (A), and added subpar. (B). Former par. (5) redesignated (6).
+
+Subsec. (b)(6) to (10). Pub. L. 111–148, §2801(a)(1)(C), (G), redesignated pars. (5) to (9) as (6) to (10), respectively, and inserted “, and shall submit with any recommendations, a report on the Federal and State-specific budget consequences of the recommendations” in par. (10) before period at end.
+
+Subsec. (b)(11) to (14). Pub. L. 111–148, §2801(a)(1)(H), added pars. (11) to (14).
+
+Subsec. (c)(2)(A), (B). Pub. L. 111–148, §2801(a)(2)(A), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which related to MACPAC membership qualifications.
+
+Subsec. (d)(2). Pub. L. 111–148, §2801(a)(3), inserted “and State” after “Federal”.
+
+Subsec. (e)(1). Pub. L. 111–148, §2801(a)(4), inserted “and, as a condition for receiving payments under sections 1396b(a) and 1397ee(a) of this title, from any State agency responsible for administering Medicaid or CHIP,” after “United States”.
+
+Subsec. (f). Pub. L. 111–148, §2801(a)(5), substituted “Funding” for “Authorization of appropriations” in heading, inserted “(other than for fiscal year 2010)” before “in the same manner” in par. (1), and added pars. (3) and (4).
 
 #### Effective Date
 
@@ -200,7 +312,7 @@ Reliance on Law.—With respect to amendments made by this Act (other than title
 
 &emsp;“(1) such amendments are effective as of such date whether or not regulations implementing such amendments have been issued; and
 
-&emsp;“(2) Federal financial participation for medical assistance or child health assistance furnished under title XIX or XXI, respectively, of the Social Security Act \[this subchapter and subchapter XXI of this chapter\] on or after such date by a State in good faith reliance on such amendments before the date of promulgation of final regulations, if any, to carry out such amendments (or before the date of guidance, if any, regarding the implementation of such amendments) shall not be denied on the basis of the State's failure to comply with such regulations or guidance.”
+&emsp;“(2) Federal financial participation for medical assistance or child health assistance furnished under title XIX or XXI, respectively, of the Social Security Act \[this subchapter and subchapter XXI of this chapter\] on or after such date by a State in good faith reliance on such amendments before the date of promulgation of final regulations, if any, to carry outsuch amendments (or before the date of guidance, if any, regarding the implementation of such amendments) shall not be denied on the basis of the State's failure to comply with such regulations or guidance.”
 
 #### Purpose
 
@@ -236,7 +348,7 @@ Pub. L. 111–3, title V, §506(c), Feb. 4, 2009, 123 Stat. 95, provided that: �
 
 #### No Federal Funding for Illegal Aliens; Disallowance for Unauthorized Expenditures
 
-Pub. L. 111–3, title VI, §605, Feb. 4, 2009, 123 Stat. 100, provided that: “Nothing in this Act \[see Effective Date note above\] allows Federal payment for individuals who are not legal residents. Titles XI, XIX, and XXI of the Social Security Act \[subchapters XI, XIX, and XXI of this chapter\] provide for the disallowance of Federal financial participation for erroneous expenditures under Medicaid and under CHIP, respectively.”
+Pub. L. 111–3, title VI, §605, Feb. 4, 2009, 123 Stat. 100, as amended by Pub. L. 111–148, title II, §2102(a)(2), Mar. 23, 2010, 124 Stat. 288, provided that: “Nothing in this Act \[see Effective Date note above\] allows Federal payment for individuals who are not lawfully residing in the United States. Titles XI, XIX, and XXI of the Social Security Act \[subchapters XI, XIX, and XXI of this chapter\] provide for the disallowance of Federal financial participation for erroneous expenditures under Medicaid and under CHIP, respectively.”
 
 #### Definitions
 
@@ -252,5 +364,7 @@ Medicaid.—The term ‘Medicaid’ means the program for medical assistance est
 
 Secretary.—The term ‘Secretary’ means the Secretary of Health and Human Services.”
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

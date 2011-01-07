@@ -28,7 +28,7 @@ It is the purpose of this chapter to promote aquaculture in the United States by
 
 &emsp;(2) establishing and implementing a national aquaculture development plan;
 
-&emsp;(3) establishing the Department of Agriculture as the lead Federal agency with respect to the coordination and dissemination of national aquaculture information by designating the Secretary of Agriculture as the permanent chairman of the coordinating group and by establishing a National Aquaculture Information Center within the Department of Agriculture; and
+&emsp;(3) establishing the Department of Agriculture as the lead Federal agency with respect to the coordination and dissemination ofnational aquaculture information by designating the Secretary of Agriculture as the permanent chairman of the coordinating group and by establishing a National Aquaculture Information Center within the Department of Agriculture; and
 
 &emsp;(4) encouraging aquaculture activities and programs in both the public and private sectors of the economy;
 
@@ -42,7 +42,7 @@ Congress declares that aquaculture has the potential for reducing the United Sta
 
 #### Amendments
 
-1985—Subsec. (a)(3). Pub. L. 99–198, §1732(1), substituted “13 percent” for “10 per centum” and “6 percent” for “3 per centum”.
+<b>1985</b>—Subsec. (a)(3). Pub. L. 99–198, §1732(1), substituted “13 percent” for “10 per centum” and “6 percent” for “3 per centum”.
 
 Subsec. (a)(7). Pub. L. 99–198, §1732(2), inserted “scientific,” before “economic,” and “the lack of supportive Government policies,” after “management information,”.
 

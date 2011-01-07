@@ -14,7 +14,7 @@ The Secretary shall adopt approval procedures designed to assure that there is e
 
 #### Amendments
 
-1988—Subsec. (a)(1). Pub. L. 100–418 substituted “part” for “subchapter”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–418 substituted “part” for “subchapter”.
 
-1985—Pub. L. 99–159 substituted “Secretary” for “Foundation” in pars. (1) and (2) of subsec. (a) and in subsec. (b).
+<b>1985</b>—Pub. L. 99–159 substituted “Secretary” for “Foundation” in pars. (1) and (2) of subsec. (a) and in subsec. (b).
 

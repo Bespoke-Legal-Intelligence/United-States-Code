@@ -44,11 +44,11 @@ For fiscal year 1988 and thereafter each comprehensive statewide outdoor recreat
 
 In addition to assistance for planning projects, the Secretary may provide financial assistance to any State for the following types of projects or combinations thereof if they are in accordance with the State comprehensive plan:
 
-&emsp;(1) For the acquisition of land, waters, or interests in land or waters, or wetland areas and interests therein as identified in the wetlands provisions of the comprehensive plan (other than land, waters, or interests in land or waters acquired from the United States for less than fair market value), but not including incidental costs relating to acquisition.
+&emsp;(1) For the acquisition of land, waters, or interests in land or waters, or wetland areas andinterests therein as identified in the wetlands provisions of the comprehensive plan (other than land, waters, or interests in land or waters acquired from the United States for less than fair market value), but not including incidental costs relating to acquisition.
 
 &emsp;Whenever a State provides that the owner of a single-family residence may, at his option, elect to retain a right of use and occupancy for not less than six months from the date of acquisition of such residence and such owner elects to retain such a right, such owner shall be deemed to have waived any benefits under sections 4623, 4624, 4625, and 4626 of title 42 and for the purposes of those sections such owner shall not be considered a displaced person as defined in section 4601(6) of title 42.
 
-&emsp;(2) For development of basic outdoor recreation facilities to serve the general public, including the development of Federal lands under lease to States for terms of twenty-fiveyears or more: <i>Provided</i>, That no assistance shall be available under this part to enclose or shelter facilities normally used for outdoor recreation activities, but the Secretary may permit local funding, and after September 28, 1976, not to exceed 10 per centum of the total amount allocated to a State in any one year to be used for sheltered facilities for swimming pools and ice skating rinks in areas where the Secretary determines that the severity of climatic conditions and the increased public use thereby made possible justifies the construction of such facilities.
+&emsp;(2) For development of basic outdoor recreation facilities to serve the general public, including the development of Federal lands under lease to States for terms of twenty-five years or more: <i>Provided</i>, That no assistance shall be available under this part to enclose or shelter facilities normally used for outdoor recreation activities, but the Secretary may permit local funding, and after September 28, 1976, not to exceed 10 per centum of the total amount allocated to a State in any one year to be used for sheltered facilities for swimming pools and ice skating rinks in areas where the Secretary determines that the severity of climatic conditions and the increased public use thereby made possible justifies the construction of such facilities.
 
 #### (f) Requirements for project approval; conditions; progress payments; payments to Governors or State officials or agencies; State transfer of funds to public agencies; conversion of property to other uses; reports to Secretary; accounting; records; audit; discrimination prohibited
 
@@ -70,13 +70,13 @@ In addition to assistance for planning projects, the Secretary may provide finan
 
 #### (g) Coordination with Federal agencies
 
-In order to assure consistency in policies and actions under this part with other related Federal programs and activities (including those conducted pursuant to title VII of the Housing Act of 1961 \[42 U.S.C. 1500 et seq.\] and section 701 <sup>4</sup> of the Housing Act of 1954) and to assure coordination of the planning, acquisition, and development assistance to States under this section with other related Federal programs and activities, the President may issue such regulations with respect thereto as he deems desirable and such assistance may be provided only in accordance with such regulations.
+In order to assure consistency in policies and actions under this part with other related Federal programs and activities (including those conducted pursuant to title VII of the HousingAct of 1961 \[42 U.S.C. 1500 et seq.\] and section 701 <sup>4</sup> of the Housing Act of 1954) and to assure coordination of the planning, acquisition, and development assistance to States under this section with other related Federal programs and activities, the President may issue such regulations with respect thereto as he deems desirable and such assistance may be provided only in accordance with such regulations.
 
 #### (h) Capital improvement and other projects to reduce crime
 
 #### (1) Availability of funds
 
-&emsp;In addition to assistance for planning projects, and in addition to the projects identified in subsection (e) of this section, and from amounts appropriated out of the Violent Crime Reduction Trust Fund, the Secretary may provide financial assistance to theStates, not to exceed $15,000,000, for projects or combinations thereof for the purpose of making capital improvements and other measures to increase safety in urban parks and recreation areas, including funds to—
+&emsp;In addition to assistance for planning projects, and in addition to the projects identified in subsection (e) of this section, and from amounts appropriated out of the Violent Crime Reduction Trust Fund, the Secretary may provide financial assistance to the States, not to exceed $15,000,000, for projects or combinations thereof for the purpose of making capital improvements and other measures to increase safety in urban parks and recreation areas, including funds to—
 
 &emsp;&emsp;(A) increase lighting within or adjacent to public parks and recreation areas;
 
@@ -110,21 +110,21 @@ A prior section 6 of Pub. L. 88–578 was renumbered section 7 and is classified
 
 #### Amendments
 
-1996—Subsec. (f)(7). Pub. L. 104–333 struck out par. (7) relating to annual State evaluations, lists of funded projects, and reports.
+<b>1996</b>—Subsec. (f)(7). Pub. L. 104–333 struck out par. (7) relating to annual State evaluations, lists of funded projects, and reports.
 
-1994—Subsec. (f)(7). Pub. L. 103–437 substituted “Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate” for “Committees on Interior and Insular Affairs of the United States Congress”.
+<b>1994</b>—Subsec. (f)(7). Pub. L. 103–437 substituted “Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate” for “Committees on Interior and Insular Affairs of the United States Congress”.
 
 Subsec. (h). Pub. L. 103–322 added subsec. (h).
 
-1986—Subsec. (d). Pub. L. 99–645, §303(1), inserted provision requiring that for fiscal year 1988 and thereafter, each comprehensive statewide outdoor recreation plan specifically address wetlands within the State as an important outdoor recreation resource, or alternatively, submission of a wetlands priority plan developed in consultation with the State agency responsible for fish and wildlife resources in the State.
+<b>1986</b>—Subsec. (d). Pub. L. 99–645, §303(1), inserted provision requiring that for fiscal year 1988 and thereafter, each comprehensive statewide outdoor recreation plan specifically address wetlands within the State as an important outdoor recreation resource, or alternatively, submission of a wetlands priority plan developed in consultation with the State agency responsible for fish and wildlife resources in the State.
 
 Subsec. (e)(1). Pub. L. 99–645, §303(2), inserted “, or wetland areas and interests therein as identified in the wetlands provisions of the comprehensive plan”.
 
 Subsec. (f)(3). Pub. L. 99–645, §303(3), inserted provision that wetland areas and interests therein as identified in the wetlands provisions of the comprehensive plan and proposed to be acquired as suitable replacement property within that same State that is otherwise acceptable to the Secretary, acting through the Director of the National Park Service, shall be considered to be of reasonably equivalent usefulness with the property proposed for conversion.
 
-1978—Subsec. (f)(7). Pub. L. 95–625 provided that grant program evaluations be transmitted so as to be received by the Secretary no later than December 31 and that reports to Congressional committees be made by no later than March 1 of each year.
+<b>1978</b>—Subsec. (f)(7). Pub. L. 95–625 provided that grant program evaluations be transmitted so as to be received by the Secretary no later than December 31 and that reports to Congressional committees be made by no later than March 1 of each year.
 
-1976—Subsec. (a). Pub. L. 94–422 reenacted subsec. (a) without change.
+<b>1976</b>—Subsec. (a). Pub. L. 94–422 reenacted subsec. (a) without change.
 
 Subsec. (b)(1). Pub. L. 94–422 substituted “Forty per centum of the first $275,000,000; thirty per centum of the next $275,000,000; and twenty per centum of all additional appropriations” for “two-fifths”.
 
@@ -146,7 +146,7 @@ Subsec. (f). Pub. L. 94–422 designated existing six paragraphs as pars. (1) to
 
 Subsec. (g). Pub. L. 94–422 reenacted subsec. (g) without change.
 
-1974—Subsec. (e)(1). Pub. L. 93–303 inserted sentence relating to waiver of benefits by an owner of a single-family residence who elects to retain a right of use and occupancy for not less than six months from the date of acquisition of the residence.
+<b>1974</b>—Subsec. (e)(1). Pub. L. 93–303 inserted sentence relating to waiver of benefits by an owner of a single-family residence who elects to retain a right of use and occupancy for not less than six months from the date of acquisition of the residence.
 
 #### Transfer of Functions
 

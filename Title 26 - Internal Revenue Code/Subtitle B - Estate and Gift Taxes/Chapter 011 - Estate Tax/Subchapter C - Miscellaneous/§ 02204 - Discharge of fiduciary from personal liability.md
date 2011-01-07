@@ -24,17 +24,17 @@ If the executor in good faith relies on gift tax returns furnished under section
 
 #### Amendments
 
-1981—Subsecs. (a) to (c). Pub. L. 97–34, §422(e)(1), (3), struck out reference to section 6166A in subsecs. (a) and (b), and two such references in subsec. (c).
+<b>1981</b>—Subsecs. (a) to (c). Pub. L. 97–34, §422(e)(1), (3), struck out reference to section 6166A in subsecs. (a) and (b), and two such references in subsec. (c).
 
-1978—Subsec. (d). Pub. L. 95–600 added subsec. (d).
+<b>1978</b>—Subsec. (d). Pub. L. 95–600 added subsec. (d).
 
-1976—Subsec. (a). Pub. L. 94–455, §§1906(b)(13)(A), 2004(f)(6), substituted “6166 or 6166A” for “or 6166” after “6161, 6163” and struck out “or his delegate” in two places after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1906(b)(13)(A), 2004(f)(6), substituted “6166 or 6166A” for “or 6166” after “6161, 6163” and struck out “or his delegate” in two places after “Secretary”.
 
 Subsec. (b). Pub. L. 94–455, §§1902(a)(9), 1906(b)(13)(A), 2004(f)(4), (6), substituted “6166 or 6166A” for “or 6166” after “6161, 6163”, “has been” for “has not been” after “payment of which”, and struck out “or his delegate” after “Secretary”.
 
 Subsec. (c). Pub. L. 94–455, §2004(d)(2), added subsec. (c).
 
-1970—Pub. L. 91–614, §101(d)(1)(A), substituted “fiduciary” for “executor” in section catchline.
+<b>1970</b>—Pub. L. 91–614, §101(d)(1)(A), substituted “fiduciary” for “executor” in section catchline.
 
 Subsec. (a). Pub. L. 91–614, §§101(d)(1)(B), (C), (f), designated existing provisions as subsec. (a), inserted “General Rule—” immediately preceding first sentence and permitted a discharge of the executor even where an extension of time has been granted under sections 6161, 6163, or 6166 of this title, where a bond, if required, is provided to assure payment of taxes for which the extension was granted, and substituted “9 months” for “1 year” in two places.
 
@@ -52,7 +52,7 @@ Section 702(p)(2) of Pub. L. 95–600 provided that: “The amendment made by pa
 
 Amendment by section 1902(a)(9) of Pub. L. 94–455 applicable in the case of estates of decedents dying after Dec. 31, 1970, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under section 2011 of this title.
 
-Amendment by section 2004(d)(4) of Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976, see section 2004(g) of Pub. L. 94–455, set out as a note under section 6166 of this title.
+Amendment by section 2004(d)(4) of Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31,1976, see section 2004(g) of Pub. L. 94–455, set out as a note under section 6166 of this title.
 
 #### Effective Date of 1970 Amendment
 

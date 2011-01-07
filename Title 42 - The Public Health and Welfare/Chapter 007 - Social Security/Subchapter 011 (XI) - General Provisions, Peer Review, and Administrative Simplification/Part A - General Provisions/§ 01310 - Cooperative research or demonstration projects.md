@@ -20,7 +20,7 @@
 
 &emsp;(C) the Commissioner shall, to the extent feasible and appropriate, include recipients who are under age 18 as well as adult recipients; and
 
-&emsp;(D) the Commissioner shall include in the projects carried out under this section such experimental, pilot, or demonstration projects as may be necessary to ascertain the feasibility of treating alcoholics and drug addicts toprevent the onset of irreversible medical conditions which may result in permanent disability, including programs in residential care treatment centers.
+&emsp;(D) the Commissioner shall include in the projects carried out under this section such experimental, pilot, or demonstration projects as may be necessary to ascertain the feasibility of treating alcoholics and drug addicts to prevent the onset of irreversible medical conditions which may result in permanent disability, including programs in residential care treatment centers.
 
 #### (c) Survey of use of payments
 
@@ -28,17 +28,17 @@
 
 (2) Not later than 18 months after March 2, 2004, the Commissioner of Social Security shall submit a report on the survey conducted in accordance with paragraph (1) to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
 
-(Aug. 14, 1935, ch. 531, title XI, §1110, as added Aug. 1, 1956, ch. 836, title III, §331, 70 Stat. 850; amended Pub. L. 90–248, title II, §246, Jan. 2, 1968, 81 Stat. 918; Pub. L. 96–265, title V, §505(b), June 9, 1980, 94 Stat. 474; Pub. L. 98–369, div. B, title III, §2331(a), July 18, 1984, 98 Stat. 1088; Pub. L. 99–272, title XII, §12101(d), Apr. 7, 1986, 100 Stat. 283; Pub. L. 103–296, title I, §108(b)(7), Aug. 15, 1994, 108 Stat. 1482; Pub. L. 105–33, title V, §5524, Aug. 5, 1997, 111 Stat. 623; Pub. L. 106–170, title IV, §404(a), Dec. 17, 1999, 113 Stat. 1910; Pub. L. 108–203, title I, §107(a), Mar. 2, 2004, 118 Stat. 506.)
+(Aug. 14, 1935, ch. 531, title XI, §1110, as added Aug. 1, 1956, ch. 836, title III, §331, 70 Stat. 850; amended Pub. L. 90–248, title II, §246, Jan. 2, 1968, 81 Stat. 918; Pub. L. 96–265, title V, §505(b), June 9, 1980, 94 Stat. 474; Pub. L. 98–369, div. B, title III, §2331(a), July 18, 1984, 98 Stat. 1088; Pub. L. 99–272, title XII, §12101(d), Apr. 7, 1986, 100 Stat. 283; Pub. L. 103–296, title I, §108(b)(7), Aug.15, 1994, 108 Stat. 1482; Pub. L. 105–33, title V, §5524, Aug. 5, 1997, 111 Stat. 623; Pub. L. 106–170, title IV, §404(a), Dec. 17, 1999, 113 Stat. 1910; Pub. L. 108–203, title I, §107(a), Mar. 2, 2004, 118 Stat. 506.)
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–203 added subsec. (c).
+<b>2004</b>—Subsec. (c). Pub. L. 108–203 added subsec. (c).
 
-1999—Subsec. (a)(3). Pub. L. 106–170 substituted “subchapter II or XVI” for “subchapter XVI”.
+<b>1999</b>—Subsec. (a)(3). Pub. L. 106–170 substituted “subchapter II or XVI” for “subchapter XVI”.
 
-1997—Subsec. (a)(3). Pub. L. 105–33 inserted “(or the Commissioner, with respect to any jointly financed cooperative agreement or grant concerning subchapter XVI of this chapter)” after “Secretary” the first place appearing and “(or the Commissioner, as applicable)” after “Secretary” the second place appearing.
+<b>1997</b>—Subsec. (a)(3). Pub. L. 105–33 inserted “(or the Commissioner, with respect to any jointly financed cooperative agreement or grant concerning subchapter XVI of this chapter)” after “Secretary” the first place appearing and “(or the Commissioner, as applicable)” after “Secretary” the second place appearing.
 
-1994—Subsec. (a)(2). Pub. L. 103–296, §108(b)(7)(B), inserted “(or the Commissioner, with respect to any jointly financed cooperative agreement or grant concerning subchapters II or XVI of this chapter)” after “Secretary”.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–296, §108(b)(7)(B), inserted “(or the Commissioner, with respect to any jointly financed cooperative agreement or grant concerning subchapters II or XVI of this chapter)” after “Secretary”.
 
 Subsec. (b)(1). Pub. L. 103–296, §108(b)(7)(A), (C), in first sentence substituted “The Commissioner” for “The Secretary”, “as the Commissioner” for “as he”, and “in the Commissioner's judgment” for “in his judgment”, in second sentence substituted “by the Commissioner” for “by the Secretary” and “available to the Commissioner” for “available to him”, in third sentence substituted “determined by the Commissioner with respect to the old-age, survivors, and disability insurance programs under subchapter II of this chapter and the supplemental security income program under subchapter XVI of this chapter, and by the Secretary with respect to other subchapters of this chapter,” for “determined by the Secretary,”, and substituted fourth and fifth sentences for former fourth sentence which read as follows: “If, in order to carry out a project under this subsection, the Secretary requests a State to make supplementary payments (or makes them himself pursuant to an agreement under section 1382e of this title), or to provide medical assistance under its plan approved under subchapter XIX of this chapter, to individuals who are not eligible therefor, or in amounts or under circumstances in which the State does not make such payments or provide such medical assistance, the Secretary shall reimburse such State for the non-Federal share of such payments or assistance from amounts appropriated to carry out subchapter XVI of this chapter.”
 
@@ -46,13 +46,13 @@ Subsec. (b)(2). Pub. L. 103–296, §108(b)(7)(A), (D), substituted “the Commi
 
 Subsec. (b)(3). Pub. L. 103–296, §108(b)(7)(E), struck out par. (3) which read as follows: “All reports of the Secretary with respect to projects carried out under this subsection shall be incorporated into the Secretary's annual report to the Congress required by section 904 of this title.”
 
-1986—Subsec. (b)(3). Pub. L. 99–272 added par. (3).
+<b>1986</b>—Subsec. (b)(3). Pub. L. 99–272 added par. (3).
 
-1984—Subsec. (a)(1)(A). Pub. L. 98–369 struck out “nonprofit” before first reference to “organizations and agencies”.
+<b>1984</b>—Subsec. (a)(1)(A). Pub. L. 98–369 struck out “nonprofit” before first reference to “organizations and agencies”.
 
-1980—Pub. L. 96–265 redesignated provisions of subsec. (a) and cls. (1) and (2) thereof as subsec. (a)(1) and cls. (A) and (B) thereof, respectively, redesignated provisions of subsecs. (b) and (c) as subsec. (a)(2) and (3), respectively, added subsec. (b), and made conforming amendments to subsec. (a)(2) and (3) as redesignated.
+<b>1980</b>—Pub. L. 96–265 redesignated provisions of subsec. (a) and cls. (1) and (2) thereof as subsec. (a)(1) and cls. (A) and (B) thereof, respectively, redesignated provisions of subsecs. (b) and (c) as subsec. (a)(2) and (3), respectively, added subsec. (b), and made conforming amendments to subsec. (a)(2) and (3) as redesignated.
 
-1968—Subsec. (a). Pub. L. 90–248 struck out “nonprofit” before “organizations” in cl. (2).
+<b>1968</b>—Subsec. (a). Pub. L. 90–248 struck out “nonprofit” before “organizations” in cl. (2).
 
 #### Effective Date of 1999 Amendment
 

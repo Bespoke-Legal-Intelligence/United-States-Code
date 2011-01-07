@@ -70,7 +70,7 @@
 
 #### (3) Renewal of accreditation or approval
 
-&emsp;The standards prescribed under subsection (a) of this section shall provide that the accreditation of an agency or approval of a person under this subchapter shall be for a period of not less than 3 years and not more than 5 years, and may be renewed on a showing that the agency or person meets the requirements applicable to original accreditation or approval under this subchapter.
+&emsp;The standards prescribed under subsection (a) of this section shall provide that the accreditation of an agency or approval of a person under this subchapter shall be for a periodof not less than 3 years and not more than 5 years, and may be renewed on a showing that the agency or person meets the requirements applicable to original accreditation or approval under this subchapter.
 
 #### (c) Temporary registration of community based agencies
 
@@ -100,7 +100,9 @@
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(1)(B), (D)(iv), (F) and (c)(3)(D) was in the original “this Act”, meaning Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 14901 of this title and Tables.
+This subchapter, referred to in subsec. (b), was in the original “this title”, meaning title II of Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 830, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+
+This chapter, referred to in subsecs. (b)(1)(B), (D)(iv), (F) and (c)(3)(D) was in the original “this Act”, meaning Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, known as the Intercountry Adoption Act of 2000, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 14901 of this title and Tables.
 
 #### Effective Date
 

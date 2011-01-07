@@ -28,15 +28,15 @@ A State operating a program funded under this part may apply to a family the rul
 
 &emsp;Subject to paragraph (2), a State may use not more than 30 percent of the amount of any grant made to the State under section 603(a) of this title for a fiscal year to carry out a State program pursuant to any or all of the following provisions of law:
 
-&emsp;&emsp;(A) Subchapter XX of this chapter.
+&emsp;&emsp;(A) Division A <sup>1</sup> of subchapter XX of this chapter.
 
 &emsp;&emsp;(B) The Child Care and Development Block Grant Act of 1990 \[42 U.S.C. 9858 et seq.\].
 
-#### (2) Limitation on amount transferable to subchapter XX programs
+#### (2) Limitation on amount transferable to division A <sup>1</sup> of subchapter XX programs
 
 #### (A) In general
 
-&emsp;&emsp;A State may use not more than the applicable percent of the amount of any grant made to the State under section 603(a) of this title for a fiscal year to carry out State programs pursuant to subchapter XX of this chapter.
+&emsp;&emsp;A State may use not more than the applicable percent of the amount of any grant made to the State under section 603(a) of this title for a fiscal year to carry out State programs pursuant to division A <sup>1</sup> of subchapter XX of this chapter.
 
 #### (B) Applicable percent
 
@@ -48,9 +48,9 @@ A State operating a program funded under this part may apply to a family the rul
 
 &emsp;&emsp;Except as provided in subparagraph (B) of this paragraph, any amount paid to a State under this part that is used to carry out a State program pursuant to a provision of law specified in paragraph (1) shall not be subject to the requirements of this part, but shall be subject to the requirements that apply to Federal funds provided directly under the provision of law to carry out the program, and the expenditure of any amount so used shall not be considered to be an expenditure under this part.
 
-#### (B) Exception relating to subchapter XX programs
+#### (B) Exception relating to division A <sup>1</sup> of subchapter XX programs
 
-&emsp;&emsp;All amounts paid to a State under this part that are used to carry out State programs pursuant to subchapter XX of this chapter shall be used only for programs and services to children or their families whose income is less than 200 percent of the income official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title) applicable to a family of the size involved.
+&emsp;&emsp;All amounts paid to a State under this part that are used to carry out State programs pursuant to division A <sup>1</sup> of subchapter XX of this chapter shall be used only for programs and services to children or their families whose income is less than 200 percent of the income official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title) applicable to a family of the size involved.
 
 #### (e) Authority to carry over certain amounts for benefits or services or for future contingencies
 
@@ -148,7 +148,7 @@ A State to which a grant is made under section 603 of this title is encouraged t
 
 #### (E) Qualified business capitalization expenses
 
-&emsp;&emsp;The term “qualified business capitalization expenses” means qualified expenditures for the capitalization of a qualified business pursuant to a qualified plan.
+&emsp;&emsp;The term “qualified business capitalization expenses” means qualified expendituresfor the capitalization of a qualified business pursuant to a qualified plan.
 
 #### (F) Qualified expenditures
 
@@ -210,17 +210,19 @@ A State to which a grant is made under section 603 of this title shall not be pr
 
 #### (2) Amount limitation
 
-&emsp;From a grant made to a State under section 603(a) of this title, the amount that a State uses to match funds described in paragraph (1) of this subsection shall not exceed the amount (if any) by which 30 percent of the total amount of the grant exceeds the amount (ifany) of the grant that is used by the State to carry out any State program described in subsection (d)(1) of this section.
+&emsp;From a grant made to a State under section 603(a) of this title, the amount that a State uses to match funds described in paragraph (1) of this subsection shall not exceed the amount (if any) by which 30 percent of the total amount of the grant exceeds the amount (if any) of the grant that is used by the State to carry out any State program described in subsection (d)(1) of this section.
 
 #### (3) Rule of interpretation
 
 &emsp;The provision by a State of a transportation benefit under a program conducted under section 3037 of the Transportation Equity Act for the 21st Century, to an individual who is not otherwise a recipient of assistance under the State program funded under this part, using funds from a grant made under section 603(a) of this title, shall not be considered to be the provision of assistance to the individual under the State program funded under this part.
 
-(Aug. 14, 1935, ch. 531, title IV, §404, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2124; amended Pub. L. 105–33, title V, §§5002(a), 5503, 5514(c), Aug. 5, 1997, 111 Stat. 593, 609, 620; Pub. L. 105–178, title VIII, §8401(b), June 9, 1998, 112 Stat. 499; Pub. L. 105–200, title IV, §403(a), July 16, 1998, 112 Stat. 670; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §801(d)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–283; Pub. L. 106–169, title IV, §401(<i>l</i>), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (2)(V), 4115(c)(2)(G), May 22, 2008, 122 Stat. 1095–1097, 1110; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (2)(V), 4115(c)(2)(G), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1871; Pub. L. 111–5, div. B, title II, §2103, Feb. 17, 2009, 123 Stat. 449.)
+(Aug. 14, 1935, ch. 531, title IV, §404, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996,110 Stat. 2124; amended Pub. L. 105–33, title V, §§5002(a), 5503, 5514(c), Aug. 5, 1997, 111 Stat. 593, 609, 620; Pub. L. 105–178, title VIII, §8401(b), June 9, 1998, 112 Stat. 499; Pub. L. 105–200, title IV, §403(a), July 16, 1998, 112 Stat. 670; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §801(d)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–283; Pub. L. 106–169, title IV, §401(<i>l</i>), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (2)(V), 4115(c)(2)(G), May 22, 2008, 122 Stat. 1095–1097, 1110; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (2)(V), 4115(c)(2)(G), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1871; Pub. L. 111–5, div. B, title II, §2103, Feb. 17, 2009, 123 Stat. 449; Pub. L. 111–148, title VI, §6703(d)(2)(A), Mar. 23, 2010, 124 Stat. 803.)
 
 #### References in Text
 
 Part F of this subchapter, referred to in subsec. (a)(2), was classified to section 681 et seq. of this title, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
+
+Division A of subchapter XX, referred to in subsec. (d)(1)(A), (2), (3)(B), was in the original a reference to subtitle 1 of title XX, which was translated as if referring to subtitle A of title XX of the Social Security Act, to reflect the probable intent of Congress. Title XX of the Act, enacting subchapter XX of this chapter, does not contain a subtitle 1.
 
 The Child Care and Development Block Grant Act of 1990, referred to in subsec. (d)(1)(B), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
 
@@ -244,21 +246,31 @@ A prior section 604, acts Aug. 14, 1935, ch. 531, title IV, §404, 49 Stat. 628;
 
 #### Amendments
 
-2009—Subsec. (e). Pub. L. 111–5 amended subsec. (e) generally. Prior to amendment, text read as follows: “A State or tribe may reserve amounts paid to the State or tribe under this part for any fiscal year for the purpose of providing, without fiscal year limitation, assistance under the State or tribal program funded under this part.”
+<b>2010</b>—Subsec. (d)(1)(A). Pub. L. 111–148, §6703(d)(2)(A)(i), inserted “division A of” before “subchapter XX”.
 
-2008—Subsecs. (i), (j). Pub. L. 110–246, §4115(c)(2)(G), substituted “section 2012(<i>l</i>)” for “section 2012(h)”.
+Subsec. (d)(2). Pub. L. 111–148, §6703(d)(2)(A)(ii), inserted “division A of” before “subchapter XX” in heading.
+
+Subsec. (d)(2)(A). Pub. L. 111–148, §6703(d)(2)(A)(i), inserted “division A of” before “subchapter XX”.
+
+Subsec. (d)(3)(B). Pub. L. 111–148, §6703(d)(2)(A)(iii), inserted “division A of” before “subchapter XX” in heading.
+
+Pub. L. 111–148, §6703(d)(2)(A)(i), inserted “division A of” before “subchapter XX”.
+
+<b>2009</b>—Subsec. (e). Pub. L. 111–5 amended subsec. (e) generally. Prior to amendment, text read as follows: “A State or tribe may reserve amounts paid to the State or tribe under this part for any fiscal year for the purpose of providing, without fiscal year limitation, assistance under the State or tribal program funded under this part.”
+
+<b>2008</b>—Subsecs. (i), (j). Pub. L. 110–246, §4115(c)(2)(G), substituted “section 2012(<i>l</i>)” for “section 2012(h)”.
 
 Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(V), substituted “supplemental nutrition assistance program” for “food stamp program” and made technical amendment to reference in original act which appears in text as reference to section 2012(h) of title 7.
 
-1999—Subsec. (e). Pub. L. 106–169 inserted “or tribe” after “A State” and “to the State” and inserted “or tribal” after “under the State”.
+<b>1999</b>—Subsec. (e). Pub. L. 106–169 inserted “or tribe” after “A State” and “to the State” and inserted “or tribal” after “under the State”.
 
 Subsec. (k)(1)(C)(iii). Pub. L. 106–113 substituted “section 603(a)(5)(C)(iii) of this title” for “item (aa) or (bb) of section 603(a)(5)(C)(ii)(II) of this title”.
 
-1998—Subsec. (d)(2). Pub. L. 105–178 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “A State may use not more than 10 percent of the amount of any grant made to the State under section 603(a) of this title for a fiscal year to carry out State programs pursuant to subchapter XX of this chapter.”
+<b>1998</b>—Subsec. (d)(2). Pub. L. 105–178 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “A State may use not more than 10 percent of the amount of any grant made to the State under section 603(a) of this title for a fiscal year to carry out State programs pursuant to subchapter XX of this chapter.”
 
 Subsec. (k). Pub. L. 105–200 added subsec. (k).
 
-1997—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
+<b>1997</b>—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 
 Subsec. (a)(2). Pub. L. 105–33, §5503, inserted “, or (at the option of the State) August 21, 1996” before period.
 
@@ -308,7 +320,7 @@ Pub. L. 105–285, title IV, Oct. 27, 1998, 112 Stat. 2759, as amended by Pub. L
 
 &emsp;“(1) Economic well-being does not come solely from income, spending, and consumption, but also requires savings, investment, and accumulation of assets because assets can improve economic independence and stability, connect individuals with a viable and hopeful future, stimulate development of human and other capital, and enhance the welfare of offspring.
 
-&emsp;“(2) Fully 1/2 of all Americans have either no, negligible, or negative assets available for investment, just as the price of entry to the economic mainstream, the cost of a house, an adequate education, and starting a business, is increasing. Further, the household savings rate of the United States lags far behind other industrial nations, presenting a barrier to economic growth.
+&emsp;“(2) Fully ½ of all Americans have either no, negligible, or negative assets available for investment, just as the price of entry to the economic mainstream, the cost of a house, an adequate education, and starting a business, is increasing. Further, the household savings rate of the United States lags far behind other industrial nations, presenting a barrier to economic growth.
 
 &emsp;“(3) In the current tight fiscal environment, the United States should invest existing resources in high-yield initiatives. There is reason to believe that the financial returns, including increased income, tax revenue, and decreased welfare cash assistance, resulting from individual development accounts will far exceed the cost of investment in those accounts.
 
@@ -486,7 +498,7 @@ Qualified business.—The term ‘qualified business’ means any business that 
 
 Qualified plan.—The term ‘qualified plan’ means a business plan, or a plan to use a business asset purchased, which—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) is approved by a financial institution, a microenterprise development organization, or a nonprofit loan fund having demonstrated fiduciary integrity;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) is approved by a financial institution, a microenterprise development organization, or anonprofit loan fund having demonstrated fiduciary integrity;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) includes a description of services or goods to be sold, a marketing plan, and projected financial statements; and
 
@@ -720,7 +732,7 @@ Limitation on Deposits for a Household.—Not more than $4,000 from a grant made
 
 “(d)
 
-Withdrawal of Funds.—The Secretary shall establish such guidelines as may be necessary to ensure that funds held in an individual development account are not withdrawn, except for one or more qualified expenses, or for an emergency withdrawal. Such guidelines shall include a requirement that a responsible official of the qualified entity conducting a project approve a withdrawal from such an account in writing. The guidelines shall provide that no individual may withdraw funds from an individual development account earlier than 6 months after the date on which the individual first deposits funds in the account.
+Withdrawal of Funds.—The Secretary shall establish such guidelines as may be necessary to ensurethat funds held in an individual development account are not withdrawn, except for one or more qualified expenses, or for an emergency withdrawal. Such guidelines shall include a requirement that a responsible official of the qualified entity conducting a project approve a withdrawal from such an account in writing. The guidelines shall provide that no individual may withdraw funds from an individual development account earlier than 6 months after the date on which the individual first deposits funds in the account.
 
 “(e)
 
@@ -859,4 +871,6 @@ Evaluation Expenses.—Of the amount appropriated under section 416 for a fiscal
 \[Pub. L. 106–554, §1(a)(1) \[title VI, §607(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–76, provided that: “Notwithstanding the amendment made by subsection (a) \[amending section 412(c) of Pub. L. 105–285, set out above\], the submission of the initial report of a qualified entity under section 412(c) \[section 412(c) of Pub. L. 105–285, set out above\] shall not be required prior to the date that is 90 days after the date of enactment of this title \[Dec. 21, 2000\].”\]
 
 \[Pub. L. 106–554, §1(a)(1) \[title VI, §608(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–76, provided that: “Notwithstanding the amendment made by subsection (a) \[amending section 414(d)(1) of Pub. L. 105–285, set out above\], the submission of the initial interim report of the Secretary under section 412(c) \[section 412(c) of Pub. L. 105–285, set out above\] shall not be required prior to the date that is 90 days after the date of enactment of this title \[Dec. 21, 2000\].”\]
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

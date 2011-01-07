@@ -16,9 +16,13 @@ No applicant for assistance under section 5172 of this title (relating to repair
 
 #### (c) State acting as self-insurer
 
-A State may elect to act as a self-insurer with respect to any or all of the facilities owned by the State. Such an election, if declared in writing at the time of acceptance of assistance under section 5172 or 5189 of this title or section 3149(c)(2) of this title or subsequently and accompanied by a plan for self-insurance which is satisfactory to the President, shall be deemed compliance with subsection (a) of this section. No such self-insurer may receive assistance under section 5172 or 5189 of this title for any property or part thereof for which it has previously received assistance under this chapter, to the extent that insurance for such property or part thereof would have been reasonably available.
+A State may elect to act as a self-insurer with respect to any or all of the facilities owned by the State. Such an election, if declared in writing at the time of acceptance of assistance under section 5172 or 5189 of this title or section 3149(c)(2) of this title or subsequently and accompanied by a plan for self-insurance which is satisfactory to the President, shall be deemed compliance with subsection (a) of this section. No such self-insurer may receive assistanceunder section 5172 or 5189 of this title for any property or part thereof for which it has previously received assistance under this chapter, to the extent that insurance for such property or part thereof would have been reasonably available.
 
 (Pub. L. 93–288, title III, §311, as added Pub. L. 100–707, title I, §105(h), Nov. 23, 1988, 102 Stat. 4692; amended Pub. L. 103–325, title V, §521, Sept. 23, 1994, 108 Stat. 2257; Pub. L. 106–390, title II, §201, Oct. 30, 2000, 114 Stat. 1559.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (b) and (c), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Prior Provisions
 
@@ -28,7 +32,7 @@ A prior section 311 of Pub. L. 93–288 was renumbered section 308 by Pub. L. 10
 
 #### Amendments
 
-2000—Subsecs. (a)(1), (b), (c). Pub. L. 106–390 substituted “section 3149(c)(2) of this title” for “section 3233 of this title”.
+<b>2000</b>—Subsecs. (a)(1), (b), (c). Pub. L. 106–390 substituted “section 3149(c)(2) of this title” for “section 3233 of this title”.
 
-1994—Subsec. (b). Pub. L. 103–325 inserted at end “The requirements of this subsection may not be waived under section 5141 of this title.”
+<b>1994</b>—Subsec. (b). Pub. L. 103–325 inserted at end “The requirements of this subsection may not be waived under section 5141 of this title.”
 

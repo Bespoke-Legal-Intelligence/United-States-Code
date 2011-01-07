@@ -56,7 +56,7 @@ Congress finds that—
 
 &emsp;(11)(A) often, there are significant interactions between insects and diseases;
 
-&emsp;(B) many diseases (such as white pine blister rust, beech bark disease, and many other diseases) can weaken trees and forest stands and predispose trees and forest stands to insect attack; and
+&emsp;(B) many diseases (such as white pine blister rust, beech bark disease, and many other diseases) can weaken trees and forest stands andpredispose trees and forest stands to insect attack; and
 
 &emsp;(C) certain diseases are spread using insects as vectors (including Dutch elm disease and pine pitch canker); and
 

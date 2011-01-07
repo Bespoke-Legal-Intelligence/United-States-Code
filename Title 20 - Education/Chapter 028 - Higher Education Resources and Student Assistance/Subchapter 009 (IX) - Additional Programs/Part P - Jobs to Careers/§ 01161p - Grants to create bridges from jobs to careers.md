@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this section is to provide grants on a competitive basis to institutions ofhigher education for the purpose of improving developmental education to help students move more rapidly into for-credit occupational courses and into better jobs that may require a certificate or degree.
+The purpose of this section is to provide grants on a competitive basis to institutions of higher education for the purpose of improving developmental education to help students move more rapidly into for-credit occupational courses and into better jobs that may require a certificate or degree.
 
 #### (b) Authorization of program
 
@@ -62,7 +62,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### Amendments
 
-2009—Subsec. (j). Pub. L. 111–39 inserted “to be appropriated” after “authorized”.
+<b>2009</b>—Subsec. (j). Pub. L. 111–39 inserted “to be appropriated” after “authorized”.
 
 #### Effective Date of 2009 Amendment
 

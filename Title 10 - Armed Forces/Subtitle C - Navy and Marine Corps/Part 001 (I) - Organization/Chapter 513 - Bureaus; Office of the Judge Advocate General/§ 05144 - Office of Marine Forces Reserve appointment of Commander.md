@@ -14,7 +14,7 @@ Appointment.—(1) The President, by and with the advice and consent of the Sena
 
 &emsp;(B) is determined by the Chairman of the Joint Chiefs of Staff, in accordance with criteria and as a result of a process established by the Chairman, to have significant joint duty experience.
 
-(3) An officer on active duty for service as the Commander, Marine Forces Reserve, shall becounted for purposes of the grade limitations under sections 525 and 526 of this title.
+(3) An officer on active duty for service as the Commander, Marine Forces Reserve, shall be counted for purposes of the grade limitations under sections 525 and 526 of this title.
 
 (4) Until December 31, 2006, the Secretary of Defense may waive subparagraph (B) of paragraph (2) with respect to the appointment of an officer as Commander, Marine Forces Reserve, if the Secretary of the Navy requests the waiver and, in the judgment of the Secretary of Defense—
 
@@ -44,11 +44,11 @@ A prior section 5144, act Aug. 10, 1956, ch. 1041, 70A Stat. 289, related to app
 
 #### Amendments
 
-2004—Subsec. (b)(4). Pub. L. 108–375 substituted “December 31, 2006” for “December 31, 2004”.
+<b>2004</b>—Subsec. (b)(4). Pub. L. 108–375 substituted “December 31, 2006” for “December 31, 2004”.
 
-2002—Subsec. (b)(4). Pub. L. 107–314 substituted “December 31, 2004” for “October 1, 2003”.
+<b>2002</b>—Subsec. (b)(4). Pub. L. 107–314 substituted “December 31, 2004” for “October 1, 2003”.
 
-2000—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title V, §507(c)\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The President, by and with the advice and consent of the Senate, shall appoint the Commander, Marine Forces Reserve, from officers of the Marine Corps who—
+<b>2000</b>—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title V, §507(c)\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The President, by and with the advice and consent of the Senate, shall appoint the Commander, Marine Forces Reserve, from officers of the Marine Corps who—
 
 &emsp;“(1) have had at least 10 years of commissioned service;
 
@@ -66,7 +66,7 @@ Term of Office; Grade.—(1) The Commander, Marine Forces Reserve, holds office 
 
 Subsec. (c)(2). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(19)\], substituted “has the grade of” for “has a grade”.
 
-1999—Subsec. (c)(2). Pub. L. 106–65 substituted “major general” for “above brigadier general” and inserted at end “However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general.”
+<b>1999</b>—Subsec. (c)(2). Pub. L. 106–65 substituted “major general” for “above brigadier general” and inserted at end “However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general.”
 
 #### Effective Date of 1999 Amendment; Applicability to Incumbents
 

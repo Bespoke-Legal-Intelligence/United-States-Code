@@ -16,5 +16,5 @@ Section was not enacted as part of act Aug. 9, 1946, ch. 933, 60 Stat. 968, whic
 
 #### Amendments
 
-1964—Subsec. (a). Pub. L. 88–540 struck out provisions that title to lands, interests, improvements, or rights acquired under section 608 of this title by the Secretary for the Yakima Tribes through purchase or exchange shall be held by the United States in trust for the Yakima Tribes.
+<b>1964</b>—Subsec. (a). Pub. L. 88–540 struck out provisions that title to lands, interests, improvements, or rights acquired under section 608 of this title by the Secretary for the Yakima Tribes through purchase or exchange shall be held by the United States in trust for the Yakima Tribes.
 

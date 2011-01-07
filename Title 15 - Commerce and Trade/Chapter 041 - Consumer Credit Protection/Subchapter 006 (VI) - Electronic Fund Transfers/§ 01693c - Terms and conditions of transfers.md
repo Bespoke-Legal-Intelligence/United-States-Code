@@ -2,7 +2,7 @@
 
 #### (a) Disclosures; time; form; contents
 
-The terms and conditions of electronic fund transfers involving a consumer's account shallbe disclosed at the time the consumer contracts for an electronic fund transfer service, in accordance with regulations of the Board. Such disclosures shall be in readily understandable language and shall include, to the extent applicable—
+The terms and conditions of electronic fund transfers involving a consumer's account shall be disclosed at the time the consumer contracts for an electronic fund transfer service, in accordance with regulations of the Board. Such disclosures shall be in readily understandable language and shall include, to the extent applicable—
 
 &emsp;(1) the consumer's liability for unauthorized electronic fund transfers and, at the financial institution's option, notice of the advisability of prompt reporting of any loss, theft, or unauthorized use of a card, code, or other means of access;
 
@@ -40,7 +40,11 @@ For any account of a consumer made accessible to electronic fund transfers prior
 
 &emsp;(2) thirty days after the effective date of this subchapter.
 
-(Pub. L. 90–321, title IX, §905, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3730; amended Pub. L. 106–102, title VII, §703, Nov. 12, 1999, 113 Stat. 1464.)
+(Pub. L. 90–321, title IX, §905, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3730; amended Pub. L. 106–102, title VII, §703, Nov. 12, 1999, 113 Stat. 1464; Pub. L. 111–203, title X, §1084(1), July 21, 2010, 124 Stat. 2081.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1084(1), 1100H, July 21, 2010, 124 Stat. 2081, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -48,7 +52,11 @@ For effective date of this subchapter, referred to in subsec. (c), see section 9
 
 #### Amendments
 
-1999—Subsec. (a)(10). Pub. L. 106–102 added par. (10).
+<b>1999</b>—Subsec. (a)(10). Pub. L. 106–102 added par. (10).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “that”.</i>
 

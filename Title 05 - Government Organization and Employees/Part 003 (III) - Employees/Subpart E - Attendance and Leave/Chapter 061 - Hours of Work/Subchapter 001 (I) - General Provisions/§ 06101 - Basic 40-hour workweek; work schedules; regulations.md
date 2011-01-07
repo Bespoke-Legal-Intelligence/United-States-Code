@@ -104,7 +104,7 @@ Oct. 29, 1965, Pub. L. 89–301, §16, 79 Stat. 1123.
 
 \[None.\]
 
-In subsection (a)(4), the words “without regard to the requirements of such paragraph” are omitted as redundant in view of the words “notwithstanding paragraph (3) of this subsection” at the beginning thereof. The words “an Executive agency, a military department” are coextensive with and substituted for “each such department, establishment, or agency” and to conform to subsections (a)(2) and (a)(3). The words “officers” and “officer” are omitted as included in “employees” and “employee”. The word “pay” is substituted for “compensation” to conform to the style of title 5, United States Code.
+In subsection (a)(4), the words “without regard to the requirements of such paragraph” are omitted as redundant in view of the words “notwithstanding paragraph (3) of this subsection” at the beginning thereof. The words “an Executive agency, a military department” are coextensive with and substituted for “each such department, establishment, or agency” and to conform to subsections (a)(2) and (a)(3). The words “officers” and“officer” are omitted as included in “employees” and “employee”. The word “pay” is substituted for “compensation” to conform to the style of title 5, United States Code.
 
 Subsection (b)(1) is added on authority of former sections 901 and 902 of title 5, which are now codified in 5 U.S.C. 5541.
 
@@ -188,7 +188,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 “(c) The Commission shall provide educational material, and technical aids and assistance, for use by an agency before and during the period such agency is conducting experiments under this Act \[enacting section 5550a of this title and this note\].
 
-“(d) If the head of an agency determines that the implementation of an experimental program referred to in subsection (a) would substantially disrupt the agency in carrying out its functions, such agency head shall request the Commission to exempt such agency from the requirements of any experiment conducted by the Commission under subsection (a). Such request shall be accompanied by a report detailing the reasons for such determination. The Commission shall exempt an agency from such requirements only if it finds that including the agency within the experiment would not be in the best interest of the public, the Government, or the employees. The filing of such a request with the Commission shall exclude the agency from the experiment until the Commission has made its determination or until 180 days after the date the request is filed, whichever first occurs.
+“(d) If the head of an agency determines that the implementation of an experimental program referred to in subsection (a) would substantially disrupt the agencyin carrying out its functions, such agency head shall request the Commission to exempt such agency from the requirements of any experiment conducted by the Commission under subsection (a). Such request shall be accompanied by a report detailing the reasons for such determination. The Commission shall exempt an agency from such requirements only if it finds that including the agency within the experiment would not be in the best interest of the public, the Government, or the employees. The filing of such a request with the Commission shall exclude the agency from the experiment until the Commission has made its determination or until 180 days after the date the request is filed, whichever first occurs.
 
 #### “TITLE I—FLEXIBLE SCHEDULING OF WORK HOURS
 
@@ -262,7 +262,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 #### “credit hours; accumulation and compensation
 
-“Sec. 106. (a) Subject to any limitation prescribed by the Commission or the agency, a full-time employee on a flexible schedule can accumulate not more than 10 credit hours, and a part-time employee can accumulate not more than one-eighth of the hours in such employee's biweekly basic work requirement, for carryover from a biweekly pay period to a succeeding biweekly pay period for credit to the basic work requirement for such period.
+“Sec. 106. (a) Subject to any limitation prescribed by the Commission or the agency, a full-time employee ona flexible schedule can accumulate not more than 10 credit hours, and a part-time employee can accumulate not more than one-eighth of the hours in such employee's biweekly basic work requirement, for carryover from a biweekly pay period to a succeeding biweekly pay period for credit to the basic work requirement for such period.
 
 “(b) Any employee who is on a flexible schedule experiment under this title and who is no longer subject to such an experiment shall be paid at such employee's then current rate of basic pay for—
 
@@ -290,7 +290,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 “(b)(1) An employee in a unit with respect to which an organization of Government employees has not been accorded exclusive recognition shall not be required to participate in any experiment under subsection (a) unless a majority of the employees in such unit who, but for this paragraph, would be included in such experiment have voted to be so included.
 
-“(2) Upon written request to any agency by an employee, the agency, if it determines that participationin an experiment under subsection (a) would impose a personal hardship on such employee, shall—
+“(2) Upon written request to any agency by an employee, the agency, if it determines that participation in an experiment under subsection (a) would impose a personal hardship on such employee, shall—
 
 &emsp;“(A) except such employee from such experiment; or
 

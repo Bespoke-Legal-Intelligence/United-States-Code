@@ -2,7 +2,7 @@
 
 The President shall receive in full for his services during the term for which he shall have been elected compensation in the aggregate amount of $400,000 a year, to be paid monthly, and in addition an expense allowance of $50,000 to assist in defraying expenses relating to or resulting from the discharge of his official duties. Any unused amount of such expense allowance shall revert to the Treasury pursuant to section 1552 of title 31, United States Code. No amount of such expense allowance shall be included in the gross income of the President. He shall be entitled also to the use of the furniture and other effects belonging to the United States and kept in the Executive Residence at the White House.
 
-(June 25, 1948, ch. 644, 62 Stat. 678; Jan. 19, 1949, ch. 2, §1(a), 63 Stat. 4; Oct. 20, 1951, ch. 521, title VI, §619(a), 65 Stat. 569; Pub. L. 91–1, §1, Jan. 17, 1969, 83 Stat. 3; Pub. L. 95–570, §5(a), Nov. 2, 1978, 92 Stat. 2450; Pub. L. 106–58, title VI, §644(a), Sept. 29, 1999, 113 Stat. 478; Pub. L. 108–199, div. F, title III, §301, Jan. 23, 2004, 118 Stat. 326.)
+(June 25, 1948, ch. 644, 62 Stat. 678; Jan. 19, 1949, ch. 2, §1(a), 63 Stat. 4; Oct. 20, 1951, ch. 521, title VI, §619(a), 65 Stat. 569; Pub. L. 91–1, §1, Jan. 17, 1969, 83 Stat. 3; Pub. L. 95–570, §5(a), Nov. 2, 1978, 92 Stat. 2450; Pub. L. 106–58, title VI, §644(a),Sept. 29, 1999, 113 Stat. 478; Pub. L. 108–199, div. F, title III, §301, Jan. 23, 2004, 118 Stat. 326.)
 
 #### Amendments
 
@@ -38,6 +38,40 @@ Section 619(e) of act Oct. 20, 1951, provided that: “The amendments made by su
 
 Amendment by act Jan. 19, 1949, effective noon, Jan. 19, 1949, see section 3 of that act.
 
+#### Authorization of Transition Activities by the Incumbent Administration
+
+Pub. L. 111–283, §3, Oct. 15, 2010, 124 Stat. 3048, provided that:
+
+“(a)
+
+In General.—The President of the United States, or the President's delegate, may take such actions as the President determines necessary and appropriate to plan and coordinate activities by the Executive branch of the Federal Government to facilitate an efficient transfer of power to a successor President, including—
+
+&emsp;“(1) the establishment and operation of a transition coordinating council comprised of—
+
+&emsp;&emsp;“(A) high-level officials of the Executive branch selected by the President, which may include the Chief of Staff to the President, any Cabinet officer, the Director of the Office of Management and Budget, the Administrator of the General Services Administration, the Director of the Office of Personnel Management, the Director of the Office of Government Ethics, and the Archivist of the United States, and
+
+&emsp;&emsp;“(B) any other persons the President determines appropriate;
+
+&emsp;“(2) the establishment and operation of an agency transition directors council which includes career employees designated to lead transition efforts within Executive Departments or agencies;
+
+&emsp;“(3) the development of guidance to Executive Departments and agencies regarding briefing materials for an incoming administration, and the development of such materials; and
+
+&emsp;“(4) the development of computer software, publications, contingency plans, issue memoranda, memoranda of understanding, training and exercises (including crisis training and exercises), programs, lessons learned from previous transitions, and other items appropriate for improving the effectiveness and efficiency of a Presidential transition that may be disseminated to eligible candidates (as defined in section 3(h)(4) of the Presidential Transition Act of 1963, as added by section 2(a) \[section 3(h)(4) of Pub. L. 88–277, set out in a note below\]) and to the President-elect and Vice-President-elect.
+
+> Any information and other assistance to eligible candidates under this subsection shall be offered on an equal basis and without regard to political affiliation.
+
+“(b)
+
+Reports.—
+
+&emsp;“(1)
+
+In general.—The President of the United States, or the President's delegate, shall provide to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate reports describing the activities undertaken by the President and the Executive Departments and agencies to prepare for the transfer of power to a new President.
+
+&emsp;“(2)
+
+Timing.—The reports under paragraph (1) shall be provided six months and three months before the date of the general election for the Office of President of the United States.”
+
 #### Disclosure of In-Kind Contributions to 1988–1989 Transition
 
 Pub. L. 100–398, §5, Aug. 17, 1988, 102 Stat. 987, provided that:
@@ -64,7 +98,7 @@ Form and Availability of Estimates.—The estimates made under subsection (a) sh
 
 #### Presidential Transition Act of 1963
 
-Pub. L. 88–277, Mar. 7, 1964, 78 Stat. 153, as amended by Pub. L. 94–499, §§1, 2, Oct. 14, 1976, 90 Stat. 2380; Pub. L. 100–398, §§2(a), 3, 4, Aug. 17, 1988, 102 Stat. 985, 986; Pub. L. 106–293, §2, Oct. 12, 2000, 114 Stat. 1035; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title VII, §7601(a), Dec. 17, 2004, 118 Stat. 3856, provided: “That this Act may be cited as the ‘Presidential Transition Act of 1963.’
+Pub. L. 88–277, Mar. 7, 1964, 78 Stat. 153, as amended by Pub. L. 94–499, §§1, 2, Oct. 14, 1976, 90 Stat. 2380; Pub. L. 100–398, §§2(a), 3, 4, Aug. 17, 1988, 102 Stat. 985, 986; Pub. L. 106–293, §2, Oct. 12, 2000, 114 Stat. 1035; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title VII, §7601(a), Dec. 17, 2004, 118 Stat. 3856; Pub. L. 111–283, §2(a), (b), (d), Oct. 15, 2010, 124 Stat. 3045, 3047, 3048, provided: “That this Act may be cited as the ‘Presidential Transition Act of 1963.’
 
 #### “purpose of this act
 
@@ -110,15 +144,13 @@ Sec. 3. (a) The Administrator of General Services, referred to hereafter in this
 
 &emsp;“(v) Activities under this paragraph shall include the preparation of a detailed classified, compartmented summary by the relevant outgoing executive branch officials of specific operational threats to national security; major military or covert operations; and pending decisions on possible uses of military force. This summary shall be provided to the President-elect as soon as possible after the date of the general elections held to determine the electors of President and Vice President under section 1 or 2 of title 3, United States Code.
 
-&emsp;“(B) Activities under this paragraph shall be conducted primarily for individuals the President-elect intends to nominate as department heads or appoint to key positions in the Executive Office of the President.
+&emsp;“(B) Activities under this paragraph shall be conducted primarily for individuals the President-elect or eligible candidate (as defined in subsection (h)(4)) for President intends to nominate as department heads or appoint to key positions in the Executive Office of the President.
 
 &emsp;“(9)(A) Notwithstanding subsection (b), development of a transition directory by the Administrator of General Services Administration, in consultation with the Archivist of the United States (head of the National Archives and Records Administration) for activities conducted under paragraph (8).
 
-&emsp;“(B) The transition directory shall be a compilation of Federal publications and materials with supplementary materials developed by the Administrator that provides information on the officers, organization, and statutory and administrative authorities, functions, duties, responsibilities, and mission of each department and agency.
+&emsp;“(B) The transition directory shall be a compilation of Federal publications and materials with supplementary materials developed by the Administratorthat provides information on the officers, organization, and statutory and administrative authorities, functions, duties, responsibilities, and mission of each department and agency.
 
-&emsp;“(10)(A) Notwithstanding subsection (b), consultation by the Administrator with any candidate for President or Vice President to develop a systems architecture plan for the computer and communications systems of the candidate to coordinate a transition to Federal systems, if the candidate is elected.
-
-&emsp;“(B) Consultations under this paragraph shall be conducted at the discretion of the Administrator.
+&emsp;“(10) Notwithstanding subsection (b), consultation by the Administrator with any President-elect, Vice-President-elect, or eligible candidate (as defined in subsection (h)(4)) to develop a systems architecture plan for the computer and communications systems of the candidate to coordinate a transition to Federal systems if the candidate is elected.
 
 “(b) The Administrator may not expend funds for the provision of services and facilities under section 3 of this Act in connection with any obligations incurred by the President-elect or Vice-President-elect—
 
@@ -130,13 +162,75 @@ Sec. 3. (a) The Administrator of General Services, referred to hereafter in this
 
 “(d) Each President-elect shall be entitled to conveyance within the United States and its territories and possessions of all mail matter, including airmail, sent by him in connection with his preparations for the assumption of official duties as President, and such mail matter shall be transmitted as penalty mail as provided in title 39, United States Code, section 4152 \[now section 3202 of title 39\]. Each Vice-President-elect shall be entitled to conveyance within the United States and its territories and possessions of all mail matter, including airmail, sent by him under his written autograph signature in connection with his preparations for the assumption of official duties as Vice President.
 
-“(e) Each President-elect and Vice-President-elect may designate to the Administrator an assistant authorized to make on his behalf such designations or findings of necessity as may be required in connection with the services and facilities to be provided under this Act. Not more than 10 per centum of the total expenditures under this Act for any President-elect or Vice-President-elect may be made upon the basis of a certificate by him or the assistant designated by him pursuant to this section that such expenditures are classified and are essential to the national security, and that they accord with the provisions of subsections (a), (b), and (d) of this section.
+“(e) Each President-elect and Vice-President-elect, or eligible candidate (as defined in subsection (h)(4)) for President or Vice-President, may designate to the Administrator an assistant authorized to make on his behalf such designations or findings of necessity as may be required in connection with the services and facilities to be provided under this Act. Not more than 10 per centum of the total expenditures under this Act for any President-elect or Vice-President-elect may be made upon the basis of a certificate by him or the assistant designated by him pursuant to this section that such expenditures are classified and are essential to the national security, and that they accord with the provisions of subsections (a), (b), and (d) of this section.
 
 “(f)(1) The President-elect should submit to the Federal Bureau of Investigation or other appropriate agency and then, upon taking effect and designation, to the agency designated by the President under section 115(b) of the National Intelligence Reform Act of 2004 \[probably should be section 3001(c) of Pub. L. 108–458, 50 U.S.C. 435b(c)\], the names of candidates for high level national security positions through the level of undersecretary of cabinet departments as soon as possible after the date of the general elections held to determine the electors of President and Vice President under section 1 or 2 of title 3, United States Code.
 
 “(2) The responsible agency or agencies shall undertake and complete as expeditiously as possible the background investigations necessary to provide appropriate security clearances to the individuals who are candidates described under paragraph (1) before the date of the inauguration of the President-elect as President and the inauguration of the Vice-President-elect as Vice President.
 
 “(g) In the case where the President-elect is the incumbent President or in the case where the Vice-President-elect is the incumbent Vice President, there shall be no expenditures of funds for the provision of services and facilities to such incumbent under this Act, and any funds appropriated for such purposes shall be returned to the general funds of the Treasury.
+
+“(h)(1)(A) In the case of an eligible candidate, the Administrator—
+
+&emsp;“(i) shall notify the candidate of the candidate's right to receive the services and facilities described in paragraph (2) and shall provide with such notice a description of the nature and scope of each such service and facility; and
+
+&emsp;“(ii) upon notification by the candidate of which such services and facilities such candidate will accept, shall, notwithstanding subsection (b), provide such services and facilities to the candidate during the period beginning on the date of the notification and ending on the date of the general elections described in subsection (b)(1).
+
+> The Administrator shall also notify the candidate that sections 7601(c) and 8403(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 \[Pub. L. 108–458; 50 U.S.C. 435b note and 5 U.S.C. 1101 note\] provide additional services.
+
+“(B) The Administrator shall provide the notice under subparagraph (A)(i) to each eligible candidate—
+
+&emsp;“(i) in the case of a candidate of a major party (as defined in section 9002(6) of the Internal Revenue Code of 1986 \[26 U.S.C. 9002(6)\]), on one of the first 3 business days following the last nominating convention for such major parties; and
+
+&emsp;“(ii) in the case of any other candidate, as soon as practicable after an individual becomes an eligible candidate (or, if later, at the same time as notice is provided under clause (i)).
+
+“(C)(i) The Administrator shall, not later than 12 months before the date of each general election for President and Vice-President (beginning with the election to be held in 2012), prepare a report summarizing modern presidential transition activities, including a bibliography of relevant resources.
+
+“(ii) The Administrator shall promptly make the report under clause (i) generally available to the public (including through electronic means) and shall include such report with the notice provided to each eligible candidate under subparagraph (A)(i).
+
+“(2)(A) Except as provided in subparagraph (B), the services and facilities described in this paragraph are the services and facilities described in subsection (a) (other than paragraphs (2), (3), (4), (7), and 8(A)(v) thereof), but only to the extent that the use of the services and facilities is for use in connection with the eligible candidate's preparations for the assumption of official duties as President or Vice-President.
+
+“(B) The Administrator—
+
+&emsp;“(i) shall determine the location of any office space provided to an eligible candidate under this subsection;
+
+&emsp;“(ii) shall, as appropriate, ensure that any computers or communications services provided to an eligible candidate under this subsection are secure;
+
+&emsp;“(iii) shall offer information and other assistance to eligible candidates on an equal basis and without regard to political affiliation; and
+
+&emsp;“(iv) may modify the scope of any services to be provided under this subsection to reflect that the services are provided to eligible candidates rather than the President-elect or Vice-President-elect, except that any such modification must apply to all eligible candidates.
+
+“(C) An eligible candidate, or any person on behalf of the candidate, shall not use any services or facilities provided under this subsection other than for the purposes described in subparagraph (A), and the candidate or the candidate's campaign shall reimburse the Administrator for any unauthorized use of such services or facilities.
+
+“(3)(A) Notwithstanding any other provision of law, an eligible candidate may establish a separate fund for the payment of expenditures in connection with the eligible candidate's preparations for the assumption of official duties as President or Vice-President, including expenditures in connection with any services or facilities provided under this subsection (whether before such services or facilities are available under this section or to supplement such services or facilities when so provided). Such fund shall be established and maintained in such manner as to qualify such fund for purposes of section 501(c)(4) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(4)\].
+
+“(B)(i) The eligible candidate may—
+
+&emsp;“(I) transfer to any separate fund established under subparagraph (A) contributions (within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 (2 U.S.C. 431(8))) the candidate received for the general election for President or Vice-President or payments from the Presidential Election Campaign Fund under chapter 95 of the Internal Revenue Code of 1986 \[26 U.S.C. 9001 et seq.\] the candidate received for the general election; and
+
+&emsp;“(II) solicit and accept amounts for receipt by such separate fund.
+
+“(ii) Any expenditures from the separate fund that are made from such contributions or payments described in clause (i)(I) shall be treated as expenditures (within the meaning of section 301(9) of such Act (2 U.S.C. 431(9))) or qualified campaign expenses (within the meaning of section 9002(11) of such Code \[26 U.S.C. 9002(11)\]), whichever is applicable.
+
+“(iii) An eligible candidate establishing a separate fund under subparagraph (A) shall (as a condition for receiving services and facilities described in paragraph (2)) comply with all requirements and limitations of section 5 in soliciting or expending amounts in the same manner as the President-elect or Vice-President-elect, including reporting on the transfer and expenditure of amounts described in subparagraph (B)(i) in the disclosures required by section 5.
+
+“(4)(A) In this subsection, the term ‘eligible candidate’ means, with respect to any presidential election (as defined in section 9002(10) of the Internal Revenue Code of 1986 \[26 U.S.C. 9002(10)\])—
+
+&emsp;“(i) a candidate of a major party (as defined in section 9002(6) of such Code \[26 U.S.C. 9002(6)\]) for President or Vice-President of the United States; and
+
+&emsp;“(ii) any other candidate who has been determined by the Administrator to be among the principal contenders for the general election to such offices.
+
+“(B) In making a determination under subparagraph (A)(ii), the Administrator shall—
+
+&emsp;“(i) ensure that any candidate determined to be an eligible candidate under such subparagraph—
+
+&emsp;&emsp;“(I) meets the requirements described in Article II, Section 1, of the United States Constitution for eligibility to the office of President;
+
+&emsp;&emsp;“(II) has qualified to have his or her name appear on the ballots of a sufficient number of States such that the total number of electors appointed in those States is greater than 50 percent of the total number of electors appointed in all of the States; and
+
+&emsp;&emsp;“(III) has demonstrated a significant level of public support in national public opinion polls, so as to be realistically considered among the principal contenders for President or Vice-President of the United States; and
+
+&emsp;“(ii) consider whether other national organizations have recognized the candidate as being among the principal contenders for the general election to such offices, including whether the Commission on Presidential Debates has determined that the candidate is eligible to participate in the candidate debates for the general election to such offices.
 
 #### “services and facilities authorized to be provided to former presidents and former vice presidents
 
@@ -176,7 +270,7 @@ Sec. 6. (a) There are hereby authorized to be appropriated to the Administrator 
 
 &emsp;“(1) not more than $3,500,000 may be appropriated for the purposes of providing services and facilities to the President-elect and Vice President-elect under section 3, and
 
-&emsp;“(2) not more than $1,500,000 may be appropriated for the purposes of providing services and facilities to the former President and former Vice President under section 4, except that any amount appropriated pursuant to this paragraph in excess of $1,250,000 shall be returned to the general fund of the Treasury in the case where the former Vice President is the incumbent President.
+&emsp;“(2) not more than $1,500,000 may be appropriated for the purposes of providing services and facilities tothe former President and former Vice President under section 4, except that any amount appropriated pursuant to this paragraph in excess of $1,250,000 shall be returned to the general fund of the Treasury in the case where the former Vice President is the incumbent President.
 
 > The President shall include in the budget transmitted to Congress, for each fiscal year in which his regular term of office will expire, a proposed appropriation for carrying out the purposes of this Act.
 
@@ -194,7 +288,7 @@ Sec. 6. (a) There are hereby authorized to be appropriated to the Administrator 
 
 #### Expense Allowance: Use; Reversion of Unexpended Portion; Nontaxable
 
-Provisions prohibiting expenditure of funds made available for official expenses for any other purpose and requiring reversion of any unused amount to the Treasury pursuant to 31 U.S.C. 1552 were contained in a paragraph under the headings “EXECUTIVE OFFICEOF THE PRESIDENT AND FUNDS APPROPRIATED TO THE PRESIDENT” and “
+Provisions prohibiting expenditure of funds made available for official expenses for any other purpose and requiring reversion of any unused amount to the Treasury pursuant to 31 U.S.C. 1552 were contained in a paragraph under the headings “EXECUTIVE OFFICE OF THE PRESIDENT AND FUNDS APPROPRIATED TO THE PRESIDENT” and “
 
 Compensation of the President” in the Executive Office of the President Appropriations Act, 2006, Pub. L. 109–115, div. A, title V, Nov. 30, 2005, 119 Stat. 2472, and were repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriation acts:
 
@@ -256,7 +350,7 @@ Pub. L. 85–745, Aug. 25, 1958, 72 Stat. 838, as amended by Pub. L. 86–682, �
 
 “(a) Each former President shall be entitled for the remainder of his life to receive from the United States a monetary allowance at a rate per annum, payable monthly by the Secretary of the Treasury, which is equal to the annual rate of basic pay, as in effect from time to time, of the head of an executive department, as defined in section 101 of title 5, United States Code. However, such allowance shall not be paid for any period during which such former President holds an appointive or elective office or position in or under the Federal Government or the government of the District of Columbia to which is attached a rate of pay other than a nominal rate.
 
-“(b) The Administrator of General Services shall, without regard to the civil-service and classification laws, provide for each former President an office staff. Persons employed under this subsection shall be selected by the former President and shall be responsible only to him for the performance of their duties. Each former President shall fix basic rates of compensation for persons employed for him under this paragraph which in the aggregate shall not exceed $96,000 per annum except that for the first 30-month period during which a former President is entitled to staff assistance under this subsection, such rates of compensation in the aggregate shall not exceed $150,000 per annum. The annual rate of compensation payable to any such person shall not exceed the highest annual rate of basic pay now or hereafter provided by law for positions at level II of the Executive Schedule under section 5313 of title 5, United States Code. Amounts provided for ‘Allowances and Office Staff for Former Presidents’ may be used to pay fees of an independent contractor who is not a member of the staff of the office of a former President for the review of Presidential records of a former President in connection with the transfer of such records to the National Archives and Records Administration or a Presidential Library without regard to the limitation on staff compensation set forth herein.
+“(b) The Administrator of General Services shall, without regard to the civil-service and classification laws, provide for each former President an office staff. Persons employed under this subsection shall be selected by the former President and shall be responsible only to him for the performance of their duties. Each former President shall fix basic rates of compensation for persons employed for him under this paragraph which in the aggregate shall not exceed $96,000 per annum except that for the first 30-month period during which a former President is entitled to staff assistance under this subsection, such rates of compensation in the aggregate shall not exceed $150,000 per annum. The annual rate of compensation payable to any such person shall not exceed the highest annual rate of basic pay now or hereafter provided by law for positions at level II of the Executive Schedule under section 5313 oftitle 5, United States Code. Amounts provided for ‘Allowances and Office Staff for Former Presidents’ may be used to pay fees of an independent contractor who is not a member of the staff of the office of a former President for the review of Presidential records of a former President in connection with the transfer of such records to the National Archives and Records Administration or a Presidential Library without regard to the limitation on staff compensation set forth herein.
 
 “(c) The Administrator of General Services shall furnish for each former President suitable office space appropriately furnished and equipped, as determined by the Administrator, at such place within the United States as the former President shall specify.
 

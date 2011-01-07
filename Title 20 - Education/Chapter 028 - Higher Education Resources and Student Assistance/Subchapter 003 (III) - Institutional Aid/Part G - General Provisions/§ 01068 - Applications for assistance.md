@@ -26,7 +26,7 @@ An institution, in its application for a grant, shall—
 
 &emsp;(3) set forth policies and procedures for evaluating the effectiveness in accomplishing the purpose of the activities for which a grant is sought under this subchapter;
 
-&emsp;(4) provide for such fiscal control and fund accounting procedures as may be necessary to ensure proper disbursement of and accounting for funds made available to the applicant under this subchapter;
+&emsp;(4) provide for such fiscal control and fund accounting procedures as may be necessary to ensure proper disbursement of and accountingfor funds made available to the applicant under this subchapter;
 
 &emsp;(5) provide (A) for making such reports, in such form and containing such information, as the Secretary may require to carry out the functions under this subchapter, including not less than one report annually setting forth the institution's progress toward achieving the objectives for which the funds were awarded, and (B) for keeping such records and affording such access thereto, as the Secretary may find necessary to assure the correctness and verification of such reports;
 
@@ -62,7 +62,7 @@ The Secretary, directly or by grant or contract, may provide technical assistanc
 
 #### References in Text
 
-The Government Performance and Results Act of 1993, referred to in subsec. (a)(1)(C), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 ofTitle 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
+The Government Performance and Results Act of 1993, referred to in subsec. (a)(1)(C), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
 
 #### Codification
 
@@ -78,19 +78,19 @@ Another prior section 1068, Pub. L. 89–329, title IV, §408, Nov. 8, 1965, 79 
 
 #### Amendments
 
-2008—Subsec. (b)(7)(E). Pub. L. 110–315, §320(4), substituted “subparagraph (D)” for “subparagraph (E)”.
+<b>2008</b>—Subsec. (b)(7)(E). Pub. L. 110–315, §320(4), substituted “subparagraph (D)” for “subparagraph (E)”.
 
 Subsec. (e). Pub. L. 110–315, §317, added subsec. (e).
 
-1998—Subsec. (a). Pub. L. 105–244, §308(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Any institution which is eligible for assistance under this subchapter shall submit to the Secretary an application for assistance at such time, in such form, and containing such information, as may be necessary to enable the Secretary to evaluate its need for assistance. Subject to the availability of appropriations to carry out this subchapter, the Secretary may approve an application for a grant under this subchapter if the application meets the requirements of subsection (b) of this section and shows that the applicant is eligible for assistance in accordance with the part of this subchapter under which the assistance is sought.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–244, §308(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Any institution which is eligible for assistance under this subchapter shall submit to the Secretary an application for assistance at such time, in such form, and containing such information, as may be necessary to enable the Secretary to evaluate its need for assistance. Subject to the availability of appropriations to carry out this subchapter, the Secretary may approve an application for a grant under this subchapter if the application meets the requirements of subsection (b) of this section and shows that the applicant is eligible for assistance in accordance with the part of this subchapter under which the assistance is sought.”
 
 Subsec. (b)(1). Pub. L. 105–244, §308(b), inserted “, D or E” after “part C”.
 
 Subsec. (b)(6). Pub. L. 105–244, §§301(c)(11), 308(c), substituted “section 1068e” for “section 1069c” and inserted “, except that for purposes of section 1059c of this title, paragraphs (2) and (3) of section 1068e of this title shall not apply” before semicolon.
 
-1992—Subsec. (b)(7)(D) to (F). Pub. L. 102–325 redesignated subpars. (E) and (F) as (D) and (E), respectively, and struck out former subpar. (D) which read as follows: “information explaining the manner in which the proposed project will assist the applicant to prepare for the critical financial problems that all institutions of higher education will face during the subsequent decade as a result of declining enrollment, and other problems;”.
+<b>1992</b>—Subsec. (b)(7)(D) to (F). Pub. L. 102–325 redesignated subpars. (E) and (F) as (D) and (E), respectively, and struck out former subpar. (D) which read as follows: “information explaining the manner in which the proposed project will assist the applicant to prepare for the critical financial problems that all institutions of higher education will face during the subsequent decade as a result of declining enrollment, and other problems;”.
 
-1987—Subsec. (b)(6). Pub. L. 100–50 substituted “section 1069c of this title” for “section 1069b of this title”.
+<b>1987</b>—Subsec. (b)(6). Pub. L. 100–50 substituted “section 1069c of this title” for “section 1069b of this title”.
 
 #### Effective Date of 1998 Amendment
 

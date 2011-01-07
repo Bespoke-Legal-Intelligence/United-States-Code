@@ -7,6 +7,7 @@ Part A—Environmental Restoration and Waste Management
 
 - [&sect; 02581 - Defense Environmental Restoration and Waste Management Account](%C2%A7%2002581%20-%20Defense%20Environmental%20Restoration%20and%20Waste%20Management%20Account.md)
 - [&sect; 02582 - Requirement to develop future use plans for environmental management programs](%C2%A7%2002582%20-%20Requirement%20to%20develop%20future%20use%20plans%20for%20environmental%20management%20programs.md)
+- [&sect; 02582a - Future-years defense environmental management plan](%C2%A7%2002582a%20-%20Future-years%20defense%20environmental%20management%20plan.md)
 - [&sect; 02583 - Integrated fissile materials management plan](%C2%A7%2002583%20-%20Integrated%20fissile%20materials%20management%20plan.md)
 - [&sect; 02584 - Baseline environmental management reports](%C2%A7%2002584%20-%20Baseline%20environmental%20management%20reports.md)
 - [&sect; 02585 - Accelerated schedule for environmental restoration and waste management activities](%C2%A7%2002585%20-%20Accelerated%20schedule%20for%20environmental%20restoration%20and%20waste%20management%20activities.md)

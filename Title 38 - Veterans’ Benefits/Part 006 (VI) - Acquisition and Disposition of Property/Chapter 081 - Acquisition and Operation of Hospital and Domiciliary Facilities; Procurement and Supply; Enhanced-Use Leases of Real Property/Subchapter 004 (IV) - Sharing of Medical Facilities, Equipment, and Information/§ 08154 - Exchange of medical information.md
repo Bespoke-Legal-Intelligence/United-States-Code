@@ -10,17 +10,17 @@
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 5054 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5054 of this title as this section.
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
 Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-1982—Subsec. (b). Pub. L. 97–251 inserted “(including State home facilities furnishing domiciliary, nursing home, or hospital care to veterans)” after “by the surrounding medical community”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–251 inserted “(including State home facilities furnishing domiciliary, nursing home, or hospital care to veterans)” after “by the surrounding medical community”.
 
-1979—Subsec. (c). Pub. L. 96–151 added subsec. (c).
+<b>1979</b>—Subsec. (c). Pub. L. 96–151 added subsec. (c).
 
-1976—Subsec. (b). Pub. L. 94–581 substituted “by the surrounding” for “by surrounding” and “which the Administrator determines” for “which he determines”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–581 substituted “by the surrounding” for “by surrounding” and “which the Administrator determines” for “which he determines”.
 
 Pub. L. 94–424 inserted provision that any proceeds to the Government received therefrom shall be credited to the applicable Veterans’ Administration medical appropriation.
 

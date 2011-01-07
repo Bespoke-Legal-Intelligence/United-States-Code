@@ -68,7 +68,7 @@ To the extent determined without regard to the income of the partnership, paymen
 
 #### Amendments
 
-1986—Subsec. (a)(2)(B)(iii). Pub. L. 99–514, §1805(b), substituted “sale or exchange of property” for “sale of property”.
+<b>1986</b>—Subsec. (a)(2)(B)(iii). Pub. L. 99–514, §1805(b), substituted “sale or exchange of property” for “sale of property”.
 
 Subsec. (b)(1). Pub. L. 99–514, §1812(c)(3)(B), inserted at end “For purposes of section 267(a)(2), partnerships described in subparagraph (B) of this paragraph shall be treated as persons specified in section 267(b).”
 
@@ -80,9 +80,9 @@ Pub. L. 99–514, §642(a)(2), substituted “50 percent” for “80 percent”
 
 Subsec. (b)(2)(B). Pub. L. 99–514, §642(a)(2), substituted “50 percent” for “80 percent”.
 
-1984—Subsec. (a). Pub. L. 98–369 designated existing provisions as par. (1) and added par. (2).
+<b>1984</b>—Subsec. (a). Pub. L. 98–369 designated existing provisions as par. (1) and added par. (2).
 
-1976—Subsec. (b)(2). Pub. L. 94–455, §1901(b)(3)(C), substituted “as ordinary income” for “as gain from the sale or exchange of property other than a capital asset”.
+<b>1976</b>—Subsec. (b)(2). Pub. L. 94–455, §1901(b)(3)(C), substituted “as ordinary income” for “as gain from the sale or exchange of property other than a capital asset”.
 
 Subsec. (c). Pub. L. 94–455, §213(b)(3), substituted “and, subject to section 263, for purposes of section 162(a)” for “and section 162(a)”.
 

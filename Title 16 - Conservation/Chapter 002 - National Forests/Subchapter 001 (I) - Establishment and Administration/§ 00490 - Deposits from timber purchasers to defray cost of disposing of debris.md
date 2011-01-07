@@ -6,5 +6,5 @@ Purchasers of national-forest timber may be required by the Secretary of Agricul
 
 #### Amendments
 
-1950—Act Apr. 24, 1950, covered excess deposits into miscellaneous receipts instead of returning them to the depositors as was formerly the practice.
+<b>1950</b>—Act Apr. 24, 1950, covered excess deposits into miscellaneous receipts instead of returning them to the depositors as was formerly the practice.
 

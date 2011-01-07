@@ -78,7 +78,7 @@
 
 &emsp;&emsp;&emsp;(i) the electronic mail address of the recipient was obtained using an automated means from an Internet website or proprietary online service operated by another person, and such website or online service included, at the time the address was obtained, a notice stating that the operator of such website or online service will not give, sell, or otherwise transfer addresses maintained by such website or online service to any other party for the purposes of initiating, or enabling others to initiate, electronic mail messages; or
 
-&emsp;&emsp;&emsp;(ii) the electronic mail address of the recipient was obtained using an automated means that generates possible electronic mail addresses by combining names, letters, or numbers into numerous permutations.
+&emsp;&emsp;&emsp;(ii) the electronic mail address of the recipient was obtained using an automatedmeans that generates possible electronic mail addresses by combining names, letters, or numbers into numerous permutations.
 
 #### (B) Disclaimer
 

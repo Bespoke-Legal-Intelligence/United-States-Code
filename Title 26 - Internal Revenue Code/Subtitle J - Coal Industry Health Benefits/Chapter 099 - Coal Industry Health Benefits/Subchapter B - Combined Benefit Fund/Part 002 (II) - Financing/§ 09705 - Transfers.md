@@ -58,7 +58,7 @@
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–432, §212(a)(1)(C), struck out “from abandoned mine reclamation fund” after “Transfers” in heading.
+<b>2006</b>—Subsec. (b). Pub. L. 109–432, §212(a)(1)(C), struck out “from abandoned mine reclamation fund” after “Transfers” in heading.
 
 Subsec. (b)(1). Pub. L. 109–432, §212(a)(1)(A), substituted “subsections (h) and (i) of section 402” for “section 402(h)”.
 

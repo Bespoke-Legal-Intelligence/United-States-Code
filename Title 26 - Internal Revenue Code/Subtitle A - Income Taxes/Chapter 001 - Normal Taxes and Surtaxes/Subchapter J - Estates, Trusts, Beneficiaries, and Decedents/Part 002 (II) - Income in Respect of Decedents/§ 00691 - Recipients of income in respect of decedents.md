@@ -128,11 +128,11 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 #### Amendments
 
-2004—Subsec. (c)(4). Pub. L. 108–311 struck out “of any gain” before “taken into account”.
+<b>2004</b>—Subsec. (c)(4). Pub. L. 108–311 struck out “of any gain” before “taken into account”.
 
-1997—Subsec. (c)(1)(C). Pub. L. 105–34 struck out heading and text of subpar. (C). Text read as follows: “For purposes of this subsection, no deduction shall be allowed for the portion of the estate tax attributable to the increase in such tax under section 4980A(d).”
+<b>1997</b>—Subsec. (c)(1)(C). Pub. L. 105–34 struck out heading and text of subpar. (C). Text read as follows: “For purposes of this subsection, no deduction shall be allowed for the portion of the estate tax attributable to the increase in such tax under section 4980A(d).”
 
-1996—Subsec. (c)(5). Pub. L. 104–188, §1704(t)(73), provided that section 521(b)(27) of Pub. L. 102–318 shall be applied as if “Section 691(c)(5)” appeared instead of “Section 691(c)”. See 1992 Amendment note below.
+<b>1996</b>—Subsec. (c)(5). Pub. L. 104–188, §1704(t)(73), provided that section 521(b)(27) of Pub. L. 102–318 shall be applied as if “Section 691(c)(5)” appeared instead of “Section 691(c)”. See 1992 Amendment note below.
 
 Pub. L. 104–188, §1401(b)(9), struck out par. (5) which read as follows:
 
@@ -140,19 +140,19 @@ Pub. L. 104–188, §1401(b)(9), struck out par. (5) which read as follows:
 
 Coordination with section 402(d).—For purposes of section 402(d) (other than paragraph (1)(C) thereof), the total taxable amount of any lump sum distribution shall be reduced by the amount of the deduction allowable under paragraph (1) of this subsection which is attributable to the total taxable amount (determined without regard to this paragraph).”
 
-1993—Subsec. (c)(4). Pub. L. 103–66 inserted “1202,” after “1201,”.
+<b>1993</b>—Subsec. (c)(4). Pub. L. 103–66 inserted “1202,” after “1201,”.
 
-1992—Subsec. (c)(5). Pub. L. 102–318, which directed that section 691(c) be amended “in the text and heading” by substituting “402(d)” for “402(e)”, was executed by making the substitution in subsec. (c)(5). See 1996 Amendment note above.
+<b>1992</b>—Subsec. (c)(5). Pub. L. 102–318, which directed that section 691(c) be amended “in the text and heading” by substituting “402(d)” for “402(e)”, was executed by making the substitution in subsec. (c)(5). See 1996 Amendment note above.
 
-1990—Subsec. (c)(4). Pub. L. 101–508 substituted “1(h)” for “1(j)”.
+<b>1990</b>—Subsec. (c)(4). Pub. L. 101–508 substituted “1(h)” for “1(j)”.
 
-1989—Subsec. (c)(5). Pub. L. 101–239 substituted “paragraph (1)(C)” for “paragraph (1)(D)”.
+<b>1989</b>—Subsec. (c)(5). Pub. L. 101–239 substituted “paragraph (1)(C)” for “paragraph (1)(D)”.
 
-1988—Subsec. (c)(1)(C). Pub. L. 100–647 added subpar. (C).
+<b>1988</b>—Subsec. (c)(1)(C). Pub. L. 100–647 added subpar. (C).
 
-1987—Subsec. (a)(4), (5)(A). Pub. L. 100–203 struck out “or 453A” after “section 453”.
+<b>1987</b>—Subsec. (a)(4), (5)(A). Pub. L. 100–203 struck out “or 453A” after “section 453”.
 
-1986—Subsec. (c)(3). Pub. L. 99–514, §1432(a)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “For purposes of this section—
+<b>1986</b>—Subsec. (c)(3). Pub. L. 99–514, §1432(a)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “For purposes of this section—
 
 &emsp;“(A) the tax imposed by section 2601 or any State inheritance tax described in section 2602(c)(5)(B) on any generation-skipping transfer shall be treated as a tax imposed by section 2001 on the estate of the deemed transferor (as defined in section 2612(a));
 
@@ -162,11 +162,11 @@ Coordination with section 402(d).—For purposes of section 402(d) (other than p
 
 Subsec. (c)(4). Pub. L. 99–514, §301(b)(8), substituted “capital gain provisions” for “capital gain deduction, etc.” in heading and in text substituted “1(j), 1201, and 1211” for “1201, 1202, and 1211, and for purposes of section 57(a)(9)”.
 
-1984—Subsec. (b). Pub. L. 98–369 substituted “section 27” for “section 33” in provisions preceding par. (1) and in provisions of par. (1) preceding subpar. (A).
+<b>1984</b>—Subsec. (b). Pub. L. 98–369 substituted “section 27” for “section 33” in provisions preceding par. (1) and in provisions of par. (1) preceding subpar. (A).
 
-1981—Subsec. (c)(3)(A). Pub. L. 97–34 substituted “section 2602(c)(5)(B)” for “section 2602(c)(5)(C)”.
+<b>1981</b>—Subsec. (c)(3)(A). Pub. L. 97–34 substituted “section 2602(c)(5)(B)” for “section 2602(c)(5)(C)”.
 
-1980—Subsec. (a)(4). Pub. L. 96–471, §2(b)(5), substituted “reportable by the decedent on the installment method under section 453 or 453A” for “received by a decedent on the sale or other disposition of property, the income from which was properly reportable by the decedent on the installment basis under section 453” in text preceding subpar. (A) and “section 453B” for “section 453(d)” in subpars. (A) and (B).
+<b>1980</b>—Subsec. (a)(4). Pub. L. 96–471, §2(b)(5), substituted “reportable by the decedent on the installment method under section 453 or 453A” for “received by a decedent on the sale or other disposition of property, the income from which was properly reportable by the decedent on the installment basis under section 453” in text preceding subpar. (A) and “section 453B” for “section 453(d)” in subpars. (A) and (B).
 
 Subsec. (a)(5). Pub. L. 96–471, §3, added par. (5).
 
@@ -174,9 +174,9 @@ Subsec. (c)(2)(A), (C). Pub. L. 96–223 repealed the amendments made by Pub. L.
 
 Subsec. (c)(5). Pub. L. 96–222 added par. (5).
 
-1978—Subsec. (c)(4). Pub. L. 95–600 added par. (4).
+<b>1978</b>—Subsec. (c)(4). Pub. L. 95–600 added par. (4).
 
-1976—Subsec. (c)(1)(B). Pub. L. 94–455, §1901(a)(91), struck out provision that this subparagraph applies to same taxable years, and to same extent, as is provided in section 683 of this title.
+<b>1976</b>—Subsec. (c)(1)(B). Pub. L. 94–455, §1901(a)(91), struck out provision that this subparagraph applies to same taxable years, and to same extent, as is provided in section 683 of this title.
 
 Subsec. (c)(2)(A). Pub. L. 94–455, §2005(a)(4)(A), substituted “Federal and State estate taxes (within the meaning of section 1023(f)(3))” for “the tax imposed on the estate of the decedent or any prior decedent under section 2001 or 2101, reduced by the credits against such tax”. See Repeals note below.
 
@@ -188,7 +188,7 @@ Subsec. (d)(3)(A), (B). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his
 
 Subsecs. (e), (f). Pub. L. 94–455, §1951(b)(10)(A), redesignated subsec. (f) as (e) and struck out former subsec. (e) relating to certain installment obligations transmitted at death.
 
-1964—Subsec. (c)(2)(B). Pub. L. 88–272 substituted “421(c)(2), relating to the deduction for estate tax with respect to stock options to which part II of subchapter D applies” for “421(d)(6)(B), relating to the deduction for estate tax with respect to restricted stock options”.
+<b>1964</b>—Subsec. (c)(2)(B). Pub. L. 88–272 substituted “421(c)(2), relating to the deduction for estate tax with respect to stock options to which part II of subchapter D applies” for “421(d)(6)(B), relating to the deduction for estate tax with respect to restricted stock options”.
 
 Subsecs. (e), (f). Pub. L. 88–570 added subsec. (e) and redesignated former subsec. (e) as (f).
 

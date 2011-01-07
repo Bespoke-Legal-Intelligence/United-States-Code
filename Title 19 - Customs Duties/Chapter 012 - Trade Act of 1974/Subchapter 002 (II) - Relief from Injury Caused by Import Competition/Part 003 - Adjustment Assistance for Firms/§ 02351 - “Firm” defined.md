@@ -22,7 +22,7 @@ A prior section 259 of Pub. L. 93–618 was temporarily renumbered section 257 a
 
 #### Amendments
 
-2009—Pub. L. 111–5, §§1861(b), 1893, temporarily substituted “part:” for “part,”, inserted par. (1) designation and heading, substituted “The term ‘firm’ ” for “the term ‘firm’ ”, and added par. (2). See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Pub. L. 111–5, §§1861(b), 1893, temporarily substituted “part:” for “part,”, inserted par. (1) designation and heading, substituted “The term ‘firm’ ” for “the term ‘firm’ ”, and added par. (2). See Effective and Termination Dates of 2009 Amendment note below.
 
 #### Effective and Termination Dates of 2009 Amendment
 
@@ -30,9 +30,9 @@ Amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period 
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 
 #### Termination Date
 
-Except as otherwise provided, technical assistance and grants may not be provided under this part after Dec. 31, 2010, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+Except as otherwise provided, technical assistance and grants may not be provided under this section after Feb. 12, 2011, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

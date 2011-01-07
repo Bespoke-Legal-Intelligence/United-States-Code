@@ -10,7 +10,7 @@ A prior section 1975d, Pub. L. 85–315, pt. I, §105, Sept. 9, 1957, 71 Stat. 6
 
 #### Amendments
 
-1994—Pub. L. 103–419 amended section generally, substituting provisions terminating this chapter Sept. 30, 1996, for provisions relating to powers of Commission.
+<b>1994</b>—Pub. L. 103–419 amended section generally, substituting provisions terminating this chapter Sept. 30, 1996, for provisions relating to powers of Commission.
 
-1991—Subsec. (f). Pub. L. 102–167 substituted “Chairperson” for “Chairman” in two places.
+<b>1991</b>—Subsec. (f). Pub. L. 102–167 substituted “Chairperson” for “Chairman” in two places.
 

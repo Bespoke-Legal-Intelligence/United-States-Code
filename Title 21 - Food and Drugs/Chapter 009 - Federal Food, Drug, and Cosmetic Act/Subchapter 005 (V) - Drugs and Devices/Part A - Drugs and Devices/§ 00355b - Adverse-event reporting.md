@@ -32,7 +32,7 @@ Section was enacted as part of the Best Pharmaceuticals for Children Act, and no
 
 #### Amendments
 
-2003—Subsec. (b)(1). Pub. L. 108–155 struck out “Advisory Subcommittee of the Anti-Infective Drugs” before “Advisory Committee”.
+<b>2003</b>—Subsec. (b)(1). Pub. L. 108–155 struck out “Advisory Subcommittee of the Anti-Infective Drugs” before “Advisory Committee”.
 
 #### Effective Date of 2003 Amendment
 

@@ -144,7 +144,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;As a condition of the receipt of funds under this paragraph, the Secretary shall require that any Federal funds made available under a cooperative agreement shall be matched on a 1-to-1 basis by non-Federal funds.
+&emsp;&emsp;&emsp;As a condition of the receipt of funds under this paragraph, the Secretary shallrequire that any Federal funds made available under a cooperative agreement shall be matched on a 1-to-1 basis by non-Federal funds.
 
 #### (ii) Form
 
@@ -214,7 +214,7 @@ In this section:
 
 &emsp;&emsp;The Secretary shall appoint the initial members of the Commission not later than the earlier of—
 
-&emsp;&emsp;&emsp;(i) the date that is 30 days after the date on which the Secretary has received all ofthe recommendations for appointments under subparagraph (A); or
+&emsp;&emsp;&emsp;(i) the date that is 30 days after the date on which the Secretary has received all of the recommendations for appointments under subparagraph (A); or
 
 &emsp;&emsp;&emsp;(ii) the date that is 30 days after the Park is established in accordance with subsection (b).
 
@@ -270,7 +270,7 @@ In this section:
 
 #### (ii) Travel expenses
 
-&emsp;&emsp;&emsp;Members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, while away from the home or regular place of business of the member in the performance of the duties of the Commission.
+&emsp;&emsp;&emsp;Members of the Commission shall be allowed travel expenses, including per diemin lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, while away from the home or regular place of business of the member in the performance of the duties of the Commission.
 
 #### (B) Staff
 

@@ -76,7 +76,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 (2) If written notice of intent to apply for such a property for use to assist the homeless is received by the Secretary of Health and Human Services within the 60-day period described under paragraph (1), such property may not be made available for any other purpose until the date the Secretary of Health and Human Services or other appropriate landholding agency has completed action on the application submitted under subsection (e) of this section with respect to that written notice of intent.
 
-(3) Property that is reviewed by the Secretary under subsection (a) of this section and that isnot identified by the Secretary as being suitable for use to assist the homeless may not be made available for any other purpose for 20 days after the determination of unsuitability to allow for review of the determination at the request of the representative of the homeless. The Secretary shall disseminate immediately this information to the regional offices of the Department of Housing and Urban Development and to the United States Interagency Council on Homelessness.
+(3) Property that is reviewed by the Secretary under subsection (a) of this section and that is not identified by the Secretary as being suitable for use to assist the homeless may not be made available for any other purpose for 20 days after the determination of unsuitability to allow for review of the determination at the request of the representative of the homeless. The Secretary shall disseminate immediately this information to the regional offices of the Department of Housing and Urban Development and to the United States Interagency Council on Homelessness.
 
 (4)(A) Written notice of intent to apply for a property published under subsection (c)(1)(A)(ii) of this section may be filed at any time after the 60-day period described in paragraph (1) has expired. In such case, an application submitted pursuant to the notice may be approved for disposal for use to assist the homeless only if the property remains available for application for use to assist the homeless. If the property remains available, the use to assist the homeless shall be given priority of consideration over other competing disposal opportunities under sections 541–555 of title 40, except as provided in subsection (f)(3)(A) of this section.
 
@@ -84,7 +84,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 #### (e) Application for property
 
-(1) A representative of the homeless may submit an application to the Secretary of Health and Human Services for any property that is published under subsection (c)(1)(A)(ii) of this section as available for application for use to assist the homeless.
+(1) A representative of the homeless may submit an application to the Secretary of Healthand Human Services for any property that is published under subsection (c)(1)(A)(ii) of this section as available for application for use to assist the homeless.
 
 (2) No later than 90 days after the submission of written notice of intent to apply for a property, an applicant shall submit a complete application to the Secretary of Health and Human Services. The Secretary of Health and Human Services shall, with the concurrence of the appropriate landholding agency, grant reasonable extensions.
 
@@ -146,11 +146,11 @@ In subsec. (a), “section 524(a)(2) and (3) of title 40” substituted for “s
 
 #### Amendments
 
-2004—Subsecs. (c)(2)(A), (d)(3). Pub. L. 108–199 substituted “United States Interagency Council on Homelessness” for “Interagency Council on the Homeless”.
+<b>2004</b>—Subsecs. (c)(2)(A), (d)(3). Pub. L. 108–199 substituted “United States Interagency Council on Homelessness” for “Interagency Council on the Homeless”.
 
-1994—Subsecs. (h), (i). Pub. L. 103–421 added subsec. (h) and redesignated former subsec. (h) as (i).
+<b>1994</b>—Subsecs. (h), (i). Pub. L. 103–421 added subsec. (h) and redesignated former subsec. (h) as (i).
 
-1992—Subsec. (c)(4)(C). Pub. L. 102–484, §2824(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “For purposes of subparagraph (A), property shall be considered to remain available for application for use to assist the homeless if, subsequent to the 60-day holding period provided under subsection (d) of this section—
+<b>1992</b>—Subsec. (c)(4)(C). Pub. L. 102–484, §2824(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “For purposes of subparagraph (A), property shall be considered to remain available for application for use to assist the homeless if, subsequent to the 60-day holding period provided under subsection (d) of this section—
 
 &emsp;“(i) no application or written expression of interest has been made under any law for use of the property for any purpose; and
 
@@ -158,9 +158,9 @@ In subsec. (a), “section 524(a)(2) and (3) of title 40” substituted for “s
 
 Subsec. (f)(2). Pub. L. 102–484, §2824(b), inserted “or” after “Unutilized”.
 
-1990—Pub. L. 101–645 amended section generally, substituting present provisions consisting of subsecs. (a) to (h) for former provisions consisting of subsecs. (a) to (e).
+<b>1990</b>—Pub. L. 101–645 amended section generally, substituting present provisions consisting of subsecs. (a) to (h) for former provisions consisting of subsecs. (a) to (e).
 
-1988—Pub. L. 100–628, §501(1), substituted “unutilized and underutilized” for “underutilized” in section catchline.
+<b>1988</b>—Pub. L. 100–628, §501(1), substituted “unutilized and underutilized” for “underutilized” in section catchline.
 
 Subsec. (a). Pub. L. 100–628, §501(2), substituted “unutilized or underutilized” for “underutilized” in heading and text and inserted “, within 2 months after collecting such information,” before “shall identify” in text.
 

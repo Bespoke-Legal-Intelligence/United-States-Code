@@ -20,6 +20,12 @@ Historical and Revision Notes
 
 A definition of “agency” is added to avoid having to repeat the substance of the definition at various places in the revised title.
 
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–281, title VI, §601, Oct. 15, 2010, 124 Stat. 2959, provided that: “This title \[see Tables for classification\] may be cited as the ‘Maritime Safety Act of 2010’.”
+
+Pub. L. 111–207, §1(a), July 27, 2010, 124 Stat. 2243, provided that: “This Act \[enacting sections 3507 and 3508 of this title, amending section 676 of Title 14, Coast Guard, and section 355 of Title 37, Pay and Allowances of the Uniformed Services, enacting provisions set out as notes under section 3507 of this title and section 1828 of Title 16, Conservation, amending provisions set out as a note under section 2720 of Title 33, Navigation and Navigable Waters, and repealing provisions set out as notes under section 70101 of this title and section 637 of Title 14\] may be cited as the ‘Cruise Vessel Security and Safety Act of 2010’.”
+
 #### Short Title of 2009 Amendment
 
 Pub. L. 111–83, title V, §561(a), Oct. 28, 2009, 123 Stat. 2182, provided that: “This section \[amending section 70103 of this title and sections 114 and 40119 of Title 49, Transportation\] may be cited as the ‘American Communities’ Right to Public Information Act’.”
@@ -76,7 +82,7 @@ Pub. L. 99–626, §1, Nov. 7, 1986, 100 Stat. 3504, provided that: “This act 
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–498, title II, §210, Oct. 19, 1984, 98 Stat. 2303, provided that: “This subtitle \[subtitle A (§§210–214) oftitle II of Pub. L. 98–498, see Tables for classification\] may be cited as the ‘Maritime Safety Act of 1984’.”
+Pub. L. 98–498, title II, §210, Oct. 19, 1984, 98 Stat. 2303, provided that: “This subtitle \[subtitle A (§§210–214) of title II of Pub. L. 98–498, see Tables for classification\] may be cited as the ‘Maritime Safety Act of 1984’.”
 
 Pub. L. 98–364, title IV, §401, July 17, 1984, 98 Stat. 445, provided that: “This title \[see Tables for classification\] may be cited as the ‘Commercial Fishing Industry Vessel Act’.”
 

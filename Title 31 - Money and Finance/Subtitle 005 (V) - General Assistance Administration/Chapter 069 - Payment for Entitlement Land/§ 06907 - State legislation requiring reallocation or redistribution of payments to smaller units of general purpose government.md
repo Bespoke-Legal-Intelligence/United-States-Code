@@ -10,5 +10,5 @@
 
 #### Amendments
 
-1994—Pub. L. 103–272 inserted section catchline.
+<b>1994</b>—Pub. L. 103–272 inserted section catchline.
 

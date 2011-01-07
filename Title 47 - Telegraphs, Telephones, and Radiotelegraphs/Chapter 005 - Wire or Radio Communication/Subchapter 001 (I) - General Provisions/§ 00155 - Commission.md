@@ -6,7 +6,7 @@ The member of the Commission designated by the President as chairman shall be th
 
 #### (b) Organization of staff
 
-From time to time as the Commission may find necessary, the Commission shall organizeits staff into (1) integrated bureaus, to function on the basis of the Commission's principal workload operations, and (2) such other divisional organizations as the Commission may deem necessary. Each such integrated bureau shall include such legal, engineering, accounting, administrative, clerical, and other personnel as the Commission may determine to be necessary to perform its functions.
+From time to time as the Commission may find necessary, the Commission shall organize its staff into (1) integrated bureaus, to function on the basis of the Commission's principal workload operations, and (2) such other divisional organizations as the Commission may deem necessary. Each such integrated bureau shall include such legal, engineering, accounting, administrative, clerical, and other personnel as the Commission may determine to be necessary to perform its functions.
 
 #### (c) Delegation of functions; exceptions to initial orders; force, effect and enforcement of orders; administrative and judicial review; qualifications and compensation of delegates; assignment of cases; separation of review and investigative or prosecuting functions; secretary; seal
 
@@ -34,7 +34,7 @@ Meetings of the Commission shall be held at regular intervals, not less frequent
 
 #### (e) Managing Director; appointment, functions, pay
 
-The Commission shall have a Managing Director who shall be appointed by the Chairman subject to the approval of the Commission. The Managing Director, under the supervision and direction of the Chairman, shall perform such administrative and executive functions as the Chairman shall delegate. The Managing Director shall be paid at a rate equal to the rate then payable for level V of the Executive Schedule.
+The Commission shall have a Managing Director who shall be appointed by the Chairman subject to the approval of the Commission. TheManaging Director, under the supervision and direction of the Chairman, shall perform such administrative and executive functions as the Chairman shall delegate. The Managing Director shall be paid at a rate equal to the rate then payable for level V of the Executive Schedule.
 
 (June 19, 1934, ch. 652, title I, §5, 48 Stat. 1068; July 16, 1952, ch. 879, §4, 66 Stat. 712; Pub. L. 87–192, §§1, 2, Aug. 31, 1961, 75 Stat. 420; Pub. L. 96–470, title I, §116, Oct. 19, 1980, 94 Stat. 2240; Pub. L. 97–35, title XII, §1252, Aug. 13, 1981, 95 Stat. 738; Pub. L. 97–259, title I, §105, Sept. 13, 1982, 96 Stat. 1091; Pub. L. 99–272, title V, §5002(c), Apr. 7, 1986, 100 Stat. 118; Pub. L. 100–594, §§4, 8(a), Nov. 3, 1988, 102 Stat. 3021, 3023; Pub. L. 103–414, title III, §303(a)(2), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 104–104, title IV, §403(c), Feb. 8, 1996, 110 Stat. 130.)
 
@@ -48,25 +48,25 @@ In subsec. (c)(1), (8), “adjudication (as defined in section 551 of title 5)�
 
 #### Amendments
 
-1996—Subsec. (c)(1). Pub. L. 104–104 inserted last sentence and struck out former last sentence which read as follows: “Nothing in this paragraph shall authorize the Commission to provide for the conduct, by any person or persons other than persons referred to in clauses (2) and (3) of section 556(b) of title 5, of any hearing to which such section 556(b) applies.”
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–104 inserted last sentence and struck out former last sentence which read as follows: “Nothing in this paragraph shall authorize the Commission to provide for the conduct, by any person or persons other than persons referred to in clauses (2) and (3) of section 556(b) of title 5, of any hearing to which such section 556(b) applies.”
 
-1994—Subsecs. (e), (f). Pub. L. 103–414 redesignated subsec. (f) as (e).
+<b>1994</b>—Subsecs. (e), (f). Pub. L. 103–414 redesignated subsec. (f) as (e).
 
-1988—Subsec. (c)(1). Pub. L. 100–594, §8(a), inserted “and except any action referred to in sections 204(a)(2), 208(b), and 405(b) of this title” after “and (6) of this subsection” in first sentence.
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–594, §8(a), inserted “and except any action referred to in sections 204(a)(2), 208(b), and 405(b) of this title” after “and (6) of this subsection” in first sentence.
 
 Subsec. (g). Pub. L. 100–594, §4, struck out subsec. (g) which required an annual report to Congress and specified its contents.
 
-1986—Subsec. (g). Pub. L. 99–272 substituted “March 31” for “January 31”.
+<b>1986</b>—Subsec. (g). Pub. L. 99–272 substituted “March 31” for “January 31”.
 
-1982—Subsec. (b). Pub. L. 97–259, §105(a), substituted “From” for “Within six months after July 16, 1952, and from” at beginning of subsection, and struck out “thereafter” after “time to time”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–259, §105(a), substituted “From” for “Within six months after July 16, 1952, and from” at beginning of subsection, and struck out “thereafter” after “time to time”.
 
 Subsecs. (c) to (e). Pub. L. 97–259, §105(b), (c), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and in par. (1) of subsec. (c), as so redesignated, substituted “two” for “three” after “employee board consisting of”.
 
-1981—Subsecs. (f), (g). Pub. L. 97–35 added subsecs. (f) and (g).
+<b>1981</b>—Subsecs. (f), (g). Pub. L. 97–35 added subsecs. (f) and (g).
 
-1980—Subsec. (e). Pub. L. 96–470 struck out “; and the Commission shall promptly report to the Congress each such case which has been pending before it more than such three- or six-month period, respectively, stating the reasons therefor” after “hearing cases”.
+<b>1980</b>—Subsec. (e). Pub. L. 96–470 struck out “; and the Commission shall promptly report to the Congress each such case which has been pending before it more than such three- or six-month period, respectively, stating the reasons therefor” after “hearing cases”.
 
-1961—Subsec. (c). Pub. L. 87–192, §1, repealed subsec. (c) which provided for establishment of review staff, its composition, responsibility and duties.
+<b>1961</b>—Subsec. (c). Pub. L. 87–192, §1, repealed subsec. (c) which provided for establishment of review staff, its composition, responsibility and duties.
 
 Subsec. (d)(1). Pub. L. 87–192, §2, substituted provisions which authorized the delegation of functions by published rule or by order to a panel of commissioners, and individual commissioner, an employee board, or an individual employee, and of review functions to an employee board of three or more employees, enumerated the functions to be delegated, with stated exceptions, and prescribed majority vote for order delegating review functions for former provision which authorized the assignment of reference of work, business or functions by order to an individual commissioner or commissioners or to a board of one or more employees and eliminated provision concerning force, effect and enforcement of orders, now incorporated in par. (3) of this subsection.
 
@@ -84,5 +84,5 @@ Subsec. (d)(7), (8). Pub. L. 87–192, §2, added pars. (7) and (8).
 
 Subsec. (d)(9). Pub. L. 87–192, §2, redesignated former par. (3) as (9) and made it applicable to each panel of the Commission, each employee board instead of each board, and each individual employee.
 
-1952—Act July 16, 1952, amended section generally to provide for the organization of the staff, integrated bureaus, and for a review staff.
+<b>1952</b>—Act July 16, 1952, amended section generally to provide for the organization of the staff, integrated bureaus, and for a review staff.
 

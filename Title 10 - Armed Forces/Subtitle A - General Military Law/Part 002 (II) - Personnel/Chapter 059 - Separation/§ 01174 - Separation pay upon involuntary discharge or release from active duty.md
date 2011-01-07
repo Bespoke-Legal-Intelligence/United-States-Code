@@ -26,7 +26,7 @@ Other Members.—(1) Except as provided in paragraphs (2) and (3), a member of a
 
 (2) If the Secretary concerned determines that the conditions under which a member described in paragraph (1) is discharged or separated do not warrant separation pay under this section, that member is not entitled to that pay.
 
-(3) A member described in paragraph (1) who was not on the active-duty list when discharged or separated is not entitled to separation pay under this section unless such member had completed at least six years of continuous active duty immediately before such discharge or release. For purposes of this paragraph, a period of active duty is continuous if it is not interrupted by a break in service of more than 30 days.
+(3) A member described in paragraph (1) who was not on the active-duty list when discharged or separated is not entitled to separation payunder this section unless such member had completed at least six years of continuous active duty immediately before such discharge or release. For purposes of this paragraph, a period of active duty is continuous if it is not interrupted by a break in service of more than 30 days.
 
 (4) In the case of an officer who is subject to discharge or release from active duty under a law or regulation requiring that an officer who has failed of selection for promotion to the next higher grade for the second time be discharged or released from active duty and who, after such second failure of selection for promotion, is selected for, and declines, continuation on active duty—
 
@@ -74,15 +74,15 @@ Coordination With Retired or Retainer Pay and Disability Compensation.—(1) A m
 
 (i)
 
-Special Rule for Members Receiving Sole Survivorship Discharge.—(1) A member of the Armed Forces who receives a sole survivorship discharge shall be entitled to separation pay under this section even though the member has completed less than six years of active service immediately before that discharge. Subsection (e) shall not apply to a member who receives a sole survivorship discharge.
+Special Rule for Members Receiving Sole Survivorship Discharge.—(1) A memberof the armed forces who receives a sole survivorship discharge shall be entitled to separation pay under this section even though the member has completed less than six years of active service immediately before that discharge. Subsection (e) shall not apply to a member who receives a sole survivorship discharge.
 
 (2) The amount of the separation pay to be paid to a member pursuant to this subsection shall be based on the years of active service actually completed by the member before the member's sole survivorship discharge.
 
-(3) In this subsection, the term “sole survivorship discharge” means the separation of a member from the Armed Forces, at the request of the member, pursuant to the Department of Defense policy permitting the early separation of a member who is the only surviving child in a family in which—
+(3) In this subsection, the term “sole survivorship discharge” means the separation of a member from the armed forces, at the request of the member, pursuant to the Department of Defense policy permitting the early separation of a member who is the only surviving child in a family in which—
 
 &emsp;(A) the father or mother or one or more siblings—
 
-&emsp;&emsp;(i) served in the Armed Forces; and
+&emsp;&emsp;(i) served in the armed forces; and
 
 &emsp;&emsp;(ii) was killed, died as a result of wounds, accident, or disease, is in a captured or missing in action status, or is permanently 100 percent disabled or hospitalized on a continuing basis (and is not employed gainfully because of the disability or hospitalization); and
 
@@ -94,7 +94,7 @@ Regulations; Crediting of Other Commissioned Service.—(1) The Secretary of Def
 
 (2) Active commissioned service in the National Oceanic and Atmospheric Administration or the Public Health Service shall be credited as active service in the armed forces for the purposes of this section.
 
-(Added Pub. L. 96–513, title I, §109(c), Dec. 12, 1980, 94 Stat. 2870; amended Pub. L. 97–22, §10(b)(10)(A), July 10, 1981, 95 Stat. 137; Pub. L. 98–94, title IX, §§911(a), (b), 923(b), title X, §1007(c)(2), Sept. 24, 1983, 97 Stat. 639, 640, 643, 662; Pub. L. 98–498, title III, §320(a)(2), Oct. 19, 1984, 98 Stat. 2308; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §501(a)–(d), (g), (h), Nov. 5, 1990, 104 Stat. 1549–1551; Pub. L. 102–190, div. A, title XI, §1131(6), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–160, div. A, title V, §501(a), Nov. 30, 1993, 107 Stat. 1644; Pub. L. 103–337, div. A, title V, §560(c), Oct. 5, 1994, 108 Stat. 2778; Pub. L. 104–201, div. A, title VI, §653(a), Sept. 23, 1996, 110 Stat. 2583; Pub. L. 105–85, div. A, title X, §1073(a)(22), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title V, §502(a), Oct. 17, 1998, 112 Stat. 2003; Pub. L. 106–398, §1 \[\[div. A\], title V, §508(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–107; Pub. L. 108–375, div. A, title V, §501(c)(2), Oct. 28, 2004, 118 Stat. 1874; Pub. L. 110–317, §3, Aug. 29, 2008, 122 Stat. 3527; Pub. L. 111–32, title III, §318(a), June 24, 2009, 123 Stat. 1873.)
+(Added Pub. L. 96–513, title I, §109(c), Dec. 12, 1980, 94 Stat. 2870; amended Pub. L. 97–22, §10(b)(10)(A), July 10, 1981, 95 Stat. 137; Pub. L. 98–94, title IX, §§911(a), (b), 923(b), title X, §1007(c)(2), Sept. 24, 1983, 97 Stat. 639, 640, 643, 662; Pub. L. 98–498, title III, §320(a)(2), Oct. 19, 1984, 98 Stat. 2308; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §501(a)–(d), (g), (h), Nov. 5, 1990, 104 Stat. 1549–1551; Pub. L. 102–190, div. A, title XI, §1131(6), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–160, div. A, title V, §501(a), Nov. 30, 1993, 107 Stat. 1644; Pub. L. 103–337, div. A, title V, §560(c), Oct. 5, 1994, 108 Stat. 2778; Pub. L. 104–201, div. A, title VI, §653(a), Sept. 23, 1996, 110 Stat. 2583; Pub. L. 105–85, div. A, title X, §1073(a)(22), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title V, §502(a), Oct. 17, 1998, 112 Stat. 2003; Pub. L. 106–398, §1 \[\[div. A\], title V, §508(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–107; Pub. L. 108–375, div. A, title V, §501(c)(2), Oct. 28, 2004, 118 Stat. 1874; Pub. L. 110–317, §3, Aug. 29, 2008, 122 Stat. 3527; Pub. L. 111–32, title III, §318(a), June 24, 2009, 123 Stat. 1873; Pub. L. 111–383, div. A, title X, §1075(b)(17), Jan. 7, 2011, 124 Stat. 4370.)
 
 #### References in Text
 
@@ -102,29 +102,31 @@ Chapter 24 of the Internal Revenue Code of 1986, referred to in subsec. (h)(2), 
 
 #### Amendments
 
-2009—Subsec. (h)(1). Pub. L. 111–32 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “A member who has received separation pay under this section, or separation pay, severance pay, or readjustment pay under any other provision of law, based on service in the armed forces, and who later qualifies for retired or retainer pay under this title or title 14 shall have deducted from each payment of such retired or retainer pay so much of such pay as is based on the service for which he received separation pay under this section or separation pay, severance pay, or readjustment pay under any other provision of law until the total amount deducted is equal to the total amount of separation pay, severance pay, and readjustment pay received.”
+<b>2011</b>—Subsec. (i). Pub. L. 111–383 substituted “armed forces” for “Armed Forces” wherever appearing.
 
-2008—Subsecs. (i), (j). Pub. L. 110–317 added subsec. (i) and redesignated former subsec. (i) as (j).
+<b>2009</b>—Subsec. (h)(1). Pub. L. 111–32 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “A member who has received separation pay under this section, or separation pay, severance pay, or readjustment pay under any other provision of law, based on service in the armed forces, and who later qualifies for retired or retainer pay under this title or title 14 shall have deducted from each payment of such retired or retainer pay so much of such pay as is based on the service for which he received separation pay under this section or separation pay, severance pay, or readjustment pay under any other provision of law until the total amount deducted is equal to the total amount of separation pay, severance pay, and readjustment pay received.”
 
-2004—Subsec. (e)(2)(B). Pub. L. 108–375 inserted “, unless the member is an officer discharged or released under the authority of section 647 of this title” after “obligated service”.
+<b>2008</b>—Subsecs. (i), (j). Pub. L. 110–317 added subsec. (i) and redesignated former subsec. (i) as (j).
 
-2000—Subsec. (a)(4). Pub. L. 106–398, §1 \[\[div. A\], title V, §508(a)\], added par. (4).
+<b>2004</b>—Subsec. (e)(2)(B). Pub. L. 108–375 inserted “, unless the member is an officer discharged or released under the authority of section 647 of this title” after “obligated service”.
+
+<b>2000</b>—Subsec. (a)(4). Pub. L. 106–398, §1 \[\[div. A\], title V, §508(a)\], added par. (4).
 
 Subsec. (c)(4). Pub. L. 106–398, §1 \[\[div. A\], title V, §508(b)\], added par. (4).
 
-1998—Subsec. (a)(3). Pub. L. 105–261 added par. (3).
+<b>1998</b>—Subsec. (a)(3). Pub. L. 105–261 added par. (3).
 
-1997—Subsec. (a)(1). Pub. L. 105–85 struck out “, 1177,” before “or 6383 of this title”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–85 struck out “, 1177,” before “or 6383 of this title”.
 
-1996—Subsec. (h)(2). Pub. L. 104–201 inserted “, less the amount of Federal income tax withheld from such pay (such withholding being at the flat withholding rate for Federal income tax withholding, as in effect pursuant to regulations prescribed under chapter 24 of the Internal Revenue Code of 1986)” before period at end of first sentence.
+<b>1996</b>—Subsec. (h)(2). Pub. L. 104–201 inserted “, less the amount of Federal income tax withheld from such pay (such withholding being at the flat withholding rate for Federal income tax withholding, as in effect pursuant to regulations prescribed under chapter 24 of the Internal Revenue Code of 1986)” before period at end of first sentence.
 
-1994—Subsec. (a)(1). Pub. L. 103–337 inserted “, 1177,” after “section 580”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–337 inserted “, 1177,” after “section 580”.
 
-1993—Subsec. (a)(1). Pub. L. 103–160 substituted “six” for “five”.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–160 substituted “six” for “five”.
 
-1991—Subsec. (a)(1). Pub. L. 102–190 substituted “section 580” for “section 564”.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–190 substituted “section 580” for “section 564”.
 
-1990—Subsec. (a). Pub. L. 101–510, §501(a)(1), inserted heading.
+<b>1990</b>—Subsec. (a). Pub. L. 101–510, §501(a)(1), inserted heading.
 
 Subsec. (a)(1). Pub. L. 101–510, §501(g)(1), substituted “or under section 564 or 6383 of this title” for “, under section 564 or 6383 of this title, or under section 603 or 604 of the Defense Officer Personnel Management Act” and struck out “or release” after “that discharge”.
 
@@ -168,11 +170,11 @@ Subsec. (h). Pub. L. 101–510, §501(h)(5), inserted heading.
 
 Subsec. (i). Pub. L. 101–510, §501(h)(6), inserted heading.
 
-1989—Subsec. (h)(2). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1989</b>—Subsec. (h)(2). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1984—Subsec. (h)(1). Pub. L. 98–498 substituted “separation pay, severance pay,” for “severance pay” before “or readjustment pay” in two places.
+<b>1984</b>—Subsec. (h)(1). Pub. L. 98–498 substituted “separation pay, severance pay,” for “severance pay” before “or readjustment pay” in two places.
 
-1983—Subsec. (c). Pub. L. 98–94, §911(a), amended subsec. (c) generally, designating existing provisions as par. (1) and existing pars. (1) and (2) as subpars. (A) and (B), respectively, and in provisions preceding subpar. (A) substituted “Except as provided in paragraphs (2) and (3), a member” for “A member” and “fewer than 20, years of active service immediately before that discharge or release is entitled to separation pay” for “less than twenty, years of active service immediately before that discharge or release is entitled, unless the Secretary concerned determines that the conditions under which the member is discharged or separated do not warrant such pay, to separation pay”, and added pars. (2) and (3).
+<b>1983</b>—Subsec. (c). Pub. L. 98–94, §911(a), amended subsec. (c) generally, designating existing provisions as par. (1) and existing pars. (1) and (2) as subpars. (A) and (B), respectively, and in provisions preceding subpar. (A) substituted “Except as provided in paragraphs (2) and (3), a member” for “A member” and “fewer than 20, years of active service immediately before that discharge or release is entitled to separation pay” for “less than twenty, years of active service immediately before that discharge or release is entitled, unless the Secretary concerned determines that the conditions under which the member is discharged or separated do not warrant such pay, to separation pay”, and added pars. (2) and (3).
 
 Subsec. (f). Pub. L. 98–94, §923(b), amended subsec. (f) generally, substituting “each full month of service that is in addition to the number of full years of service creditable to the member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded” for “a part of a year that is six months or more is counted as a whole year and a part of a year that is less than six months is disregarded”.
 
@@ -180,7 +182,7 @@ Subsec. (g)(2). Pub. L. 98–94, §911(b), inserted “, other than section 121
 
 Subsec. (i). Pub. L. 98–94, §1007(c)(2), designated existing provisions as par. (1) and added par. (2).
 
-1981—Subsec. (c). Pub. L. 97–22 substituted “after September 14, 1981,” for “on or after the effective date of the Defense Officer Personnel Management Act”.
+<b>1981</b>—Subsec. (c). Pub. L. 97–22 substituted “after September 14, 1981,” for “on or after the effective date of the Defense Officer Personnel Management Act”.
 
 #### Effective Date of 2009 Amendment
 

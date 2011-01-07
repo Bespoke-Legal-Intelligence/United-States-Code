@@ -14,13 +14,13 @@ In case of contumacy by, or refusal to obey a subpena issued to, any person, the
 
 #### (d) Action for injunction
 
-Whenever it shall appear to the Commission that any person has engaged or is about to engage in any act or practice constituting a violation of any provision of this subchapter, or of any rule, regulation, or order hereunder, it may in its discretion bring an action in the proper district court of the United States, or the proper United States court of any Territory or other place subject to the jurisdiction of the United States, to enjoin such acts or practices and to enforce compliance with this subchapter or any rule, regulation, or order hereunder. Upon a showing that such person has engaged or is about to engage in any such act or practice, a permanent or temporary injunction or decree or restraining order shall be granted without bond. In any proceeding under this subsection to enforce compliance with section 80a–7 of this title, the court as a court of equity may, to the extent it deems necessary or appropriate, take exclusive jurisdiction and possession of the investment company or companies involved and the books, records, and assets thereof, wherever located; and the court shall have jurisdiction to appoint a trustee, who with the approval of the court shall have power to dispose of any or all of such assets, subject to such terms and conditions as the court may prescribe. The Commission may transmit such evidence as may be available concerning any violation of the provisions of this subchapter or of any rule, regulation, or order thereunder, to the Attorney General, who, in his discretion, may institute the appropriate criminal proceedings under this subchapter.
+Whenever it shall appear to the Commission that any person has engaged or is about to engage in any act or practice constituting a violation of any provision of this subchapter, or of any rule, regulation, or order hereunder, it may in its discretion bring an action in the proper district court of the United States, or the proper United States court of any Territory or other place subject to the jurisdiction of the United States, to enjoin such acts or practices and to enforce compliance with this subchapter or any rule, regulation, or order hereunder. Upon a showing that such person has engaged or is about to engage in any such act or practice, a permanent or temporary injunction or decree or restraining order shall be granted without bond. In any proceeding under this subsection to enforce compliance with section 80a–7 of this title, the court as a court of equity may, to the extent it deems necessary or appropriate, take exclusive jurisdiction and possession of the investment company or companies involved and the books, records, and assets thereof, wherever located; and the court shall have jurisdiction to appoint a trustee, who with the approval of thecourt shall have power to dispose of any or all of such assets, subject to such terms and conditions as the court may prescribe. The Commission may transmit such evidence as may be available concerning any violation of the provisions of this subchapter or of any rule, regulation, or order thereunder, to the Attorney General, who, in his discretion, may institute the appropriate criminal proceedings under this subchapter.
 
 #### (e) Money penalties in civil actions
 
 #### (1) Authority of Commission
 
-&emsp;Whenever it shall appear to the Commission that any person has violated any provision of this subchapter, the rules or regulations thereunder, or a cease-and-desist order entered by the Commission pursuant to section 80a–9(f) of this title, the Commission may bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, upon a proper showing, a civil penalty tobe paid by the person who committed such violation.
+&emsp;Whenever it shall appear to the Commission that any person has violated any provision of this subchapter, the rules or regulations thereunder, or a cease-and-desist order entered by the Commission pursuant to section 80a–9(f) of this title, the Commission may bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, upon a proper showing, a civil penalty to be paid by the person who committed such violation.
 
 #### (2) Amount of penalty
 
@@ -44,7 +44,7 @@ Whenever it shall appear to the Commission that any person has engaged or is abo
 
 #### (A) Payment of penalty to Treasury
 
-&emsp;&emsp;A penalty imposed under this section shall be payable into the Treasury of the United States, except as otherwise provided in section 7246 of this title.
+&emsp;&emsp;A penalty imposed under this section shall be payable into the Treasury of the United States, except as otherwise provided in section 7246 of this title and section 78u–6 of this title.
 
 #### (B) Collection of penalties
 
@@ -62,17 +62,23 @@ Whenever it shall appear to the Commission that any person has engaged or is abo
 
 &emsp;In an action to enforce a cease-and-desist order entered by the Commission pursuant to section 80a–9(f) of this title, each separate violation of such order shall be a separate offense, except that in the case of a violation through a continuing failure to comply with the order, each day of the failure to comply shall be deemed a separate offense.
 
-(Aug. 22, 1940, ch. 686, title I, §42, 54 Stat. 842; Pub. L. 91–452, title II, §215, Oct. 15, 1970, 84 Stat. 929; Pub. L. 100–181, title VI, §623, Dec. 4, 1987, 101 Stat. 1262; Pub. L. 101–429, title III, §302, Oct. 15, 1990, 104 Stat. 945; Pub. L. 107–204, title III, §308(d)(4), July 30, 2002, 116 Stat. 785.)
+(Aug. 22, 1940, ch. 686, title I, §42, 54 Stat. 842; Pub. L. 91–452, title II, §215, Oct. 15, 1970, 84 Stat. 929; Pub. L. 100–181, title VI, §623, Dec. 4, 1987, 101 Stat. 1262; Pub. L. 101–429, title III, §302, Oct. 15, 1990, 104 Stat. 945; Pub. L. 107–204, title III, §308(d)(4), July 30, 2002, 116 Stat. 785; Pub. L. 111–203, title IX, §923(a)(2), July 21, 2010, 124 Stat. 1849.)
 
 #### Amendments
 
-2002—Subsec. (e)(3)(A). Pub. L. 107–204 inserted “, except as otherwise provided in section 7246 of this title” before period at end.
+<b>2010</b>—Subsec. (e)(3)(A). Pub. L. 111–203 inserted “and section 78u–6 of this title” after “section 7246 of this title”.
 
-1990—Subsec. (e). Pub. L. 101–429 added subsec. (e).
+<b>2002</b>—Subsec. (e)(3)(A). Pub. L. 107–204 inserted “, except as otherwise provided in section 7246 of this title” before period at end.
 
-1987—Subsecs. (d), (e). Pub. L. 100–181 redesignated subsec. (e) as (d).
+<b>1990</b>—Subsec. (e). Pub. L. 101–429 added subsec. (e).
 
-1970—Subsec. (d). Pub. L. 91–452 struck out subsec. (d) which related to immunity from prosecution of any individual compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
+<b>1987</b>—Subsecs. (d), (e). Pub. L. 100–181 redesignated subsec. (e) as (d).
+
+<b>1970</b>—Subsec. (d). Pub. L. 91–452 struck out subsec. (d) which related to immunity from prosecution of any individual compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Effective Date of 1990 Amendment
 

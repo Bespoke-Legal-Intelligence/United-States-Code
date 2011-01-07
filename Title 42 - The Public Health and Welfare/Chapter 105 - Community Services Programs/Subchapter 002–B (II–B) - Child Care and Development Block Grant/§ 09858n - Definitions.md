@@ -38,7 +38,7 @@ As used in this subchapter:
 
 > &emsp;&emsp;applicable to the child care services it provides; or
 
-&emsp;&emsp;(B) a child care provider that is 18 years of age or older who provides child care services only to eligible children who are, by affinity or consanguinity, or by court decree, the grandchild, great grandchild, sibling (if such provider lives in a separate residence), niece, or nephew of such provider, if such provider complies with any applicable requirements that govern child care provided by the relative involved.
+&emsp;&emsp;(B) a child care provider that is 18 years of age or older who provides child care services only to eligible children who are, by affinityor consanguinity, or by court decree, the grandchild, great grandchild, sibling (if such provider lives in a separate residence), niece, or nephew of such provider, if such provider complies with any applicable requirements that govern child care provided by the relative involved.
 
 #### (6) Family child care provider
 
@@ -90,9 +90,9 @@ Section 4909 of title 20, referred to in par. (14)(B), was repealed by Pub. L. 1
 
 #### Amendments
 
-1997—Par. (13). Pub. L. 105–33 substituted “and” for “or” after “American Samoa,”.
+<b>1997</b>—Par. (13). Pub. L. 105–33 substituted “and” for “or” after “American Samoa,”.
 
-1996—Par. (2). Pub. L. 104–193, §614(1), in first sentence, inserted “or as a deposit for child care services if such a deposit is required of other children being cared for by the provider” after “payment for child care services”.
+<b>1996</b>—Par. (2). Pub. L. 104–193, §614(1), in first sentence, inserted “or as a deposit for child care services if such a deposit is required of other children being cared for by the provider” after “payment for child care services”.
 
 Par. (3). Pub. L. 104–193, §614(2), struck out heading and text of par. (3). Text read as follows: “The term ‘elementary school’ means a day or residential school that provides elementary education, as determined under State law.”
 
@@ -106,9 +106,9 @@ Par. (13). Pub. L. 104–193, §614(6), inserted “or” after “Samoa,” and
 
 Par. (14). Pub. L. 104–193, §614(7), designated existing text as subpar. (A), inserted heading, and added subpar. (B).
 
-1993—Pars. (7), (14). Pub. L. 103–171 made technical correction to directory language of Pub. L. 102–586, §8(c)(2). See 1992 Amendment note below.
+<b>1993</b>—Pars. (7), (14). Pub. L. 103–171 made technical correction to directory language of Pub. L. 102–586, §8(c)(2). See 1992 Amendment note below.
 
-1992—Pub. L. 102–401, §3(a), and Pub. L. 102–586, §8(c)(1), made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
+<b>1992</b>—Pub. L. 102–401, §3(a), and Pub. L. 102–586, §8(c)(1), made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
 
 Par. (7). Pub. L. 102–586, §8(c)(2)(A), as amended by Pub. L. 103–171, which directed the amendment of par. (7) by substituting “section 450b(e) of title 25” for “section 450b(b) of title 25”, could not be executed because the words “section 450b(b) of title 25” did not appear subsequent to execution of the amendment by Pub. L. 102–401, §3(b)(1). See below.
 

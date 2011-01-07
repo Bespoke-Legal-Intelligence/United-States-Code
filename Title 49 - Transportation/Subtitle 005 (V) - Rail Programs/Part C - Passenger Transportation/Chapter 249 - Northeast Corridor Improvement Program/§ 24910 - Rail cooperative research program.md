@@ -28,7 +28,7 @@ Content.—The program to be carried out under this section shall include resear
 
 &emsp;(6) to explore improvements in management, financing, and institutional structures;
 
-&emsp;(7) to address rail capacity constraints that affect passenger and freight rail service through a wide variety of options, ranging from operating improvements to dedicated new infrastructure, taking into account the impact of such options on operations;
+&emsp;(7) to address rail capacity constraints that affect passenger and freight rail service through a wide variety of options, rangingfrom operating improvements to dedicated new infrastructure, taking into account the impact of such options on operations;
 
 &emsp;(8) to improve maintenance, operations, customer service, or other aspects of intercity rail passenger and freight service;
 

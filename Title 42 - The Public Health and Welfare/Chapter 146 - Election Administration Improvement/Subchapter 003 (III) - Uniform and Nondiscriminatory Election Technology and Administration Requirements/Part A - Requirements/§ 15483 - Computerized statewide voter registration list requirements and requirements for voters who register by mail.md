@@ -204,7 +204,7 @@ The last 4 digits of a social security number described in subsections (a)(5)(A)
 
 #### (B) Waiver
 
-&emsp;&emsp;If a State or jurisdiction certifies to the Commission not later than January 1, 2004, that the State or jurisdiction will not meet the deadline described in subparagraph (A) for good cause and includes in the certification the reasons for the failure to meet such deadline, subparagraph (A) shall apply to the State or jurisdiction as if the reference in such subparagraph to “January 1, 2004” were a reference to “January 1, 2006”.
+&emsp;&emsp;If a State or jurisdiction certifies to the Commission not later than January 1, 2004, that the State or jurisdiction will not meet the deadline described in subparagraph (A) for good cause and includes in the certification the reasons for the failure to meet such deadline, subparagraph (A) shall applyto the State or jurisdiction as if the reference in such subparagraph to “January 1, 2004” were a reference to “January 1, 2006”.
 
 #### (2) Requirement for voters who register by mail
 

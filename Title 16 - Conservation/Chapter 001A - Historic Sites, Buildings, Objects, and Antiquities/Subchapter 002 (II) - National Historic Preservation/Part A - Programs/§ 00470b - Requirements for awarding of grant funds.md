@@ -44,21 +44,21 @@ The Land and Water Conservation Fund Act of 1965, referred to in subsec. (a)(2),
 
 #### Amendments
 
-2000—Subsec. (a)(3). Pub. L. 106–208 substituted “year;” for “year.” at end.
+<b>2000</b>—Subsec. (a)(3). Pub. L. 106–208 substituted “year;” for “year.” at end.
 
-1992—Subsec. (a)(3). Pub. L. 102–575, §4009(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “for more than 50 per centum of the aggregate cost of carrying out projects and programs specified in section 470a(d)(1) and (2) of this title in any one fiscal year, except that for the costs of State or local historic surveys or inventories the Secretary shall provide 70per centum of the aggregate cost involved in any one fiscal year.”
+<b>1992</b>—Subsec. (a)(3). Pub. L. 102–575, §4009(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “for more than 50 per centum of the aggregate cost of carrying out projects and programs specified in section 470a(d)(1) and (2) of this title in any one fiscal year, except that for the costs of State or local historic surveys or inventories the Secretary shall provide 70 per centum of the aggregate cost involved in any one fiscal year.”
 
 Subsec. (b). Pub. L. 102–575, §4009(2), which directed amendment of subsec. (b) by striking out “, in which case a grant to the National Trust may include funds for the maintenance, repair, and administration of the property in a manner satisfactory for the Secretary”, was executed by striking out “, in which case a grant to the National Trust may include funds for the maintenance, repair, and administration of the property in a manner satisfactory to the Secretary” after “United States” to reflect the probable intent of Congress.
 
 Subsecs. (d), (e). Pub. L. 102–575, §4009(3), added subsec. (d), relating to availability, and subsec. (e).
 
-1986—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1980—Subsec. (a). Pub. L. 96–515, §202(a), (b), in par. (3) substituted provision directing that no grant be made for more than 50 per centum of the aggregate cost of carrying out projects and programs specified in section 470a(d)(1) and (2) of this title in any one fiscal year, except that for costs of State or local historic surveys or inventories the Secretary provide 70 per centum of the aggregate cost involved in any one fiscal year for provision directing that no grant be made for more than 50 per centum of the total cost involved, as determined by the Secretary, which determination was to be final, and inserted provision following cl. (6), that, except as otherwise permitted, the State share of the costs referred to in par. (3) be contributed by non-Federal sources and no grant made be treated as taxable income.
+<b>1980</b>—Subsec. (a). Pub. L. 96–515, §202(a), (b), in par. (3) substituted provision directing that no grant be made for more than 50 per centum of the aggregate cost of carrying out projects and programs specified in section 470a(d)(1) and (2) of this title in any one fiscal year, except that for costs of State or local historic surveys or inventories the Secretary provide 70 per centum of the aggregate cost involved in any one fiscal year for provision directing that no grant be made for more than 50 per centum of the total cost involved, as determined by the Secretary, which determination was to be final, and inserted provision following cl. (6), that, except asotherwise permitted, the State share of the costs referred to in par. (3) be contributed by non-Federal sources and no grant made be treated as taxable income.
 
 Subsec. (c). Pub. L. 96–515, §202(c), struck out subsec. (c) which authorized the Secretary in his discretion to waive the requirements of subsec. (a)(3) of this section for the purposes of making grants for the preparation of statewide historic preservation plans and surveys and project plans and restricted any grant made pursuant to this subsection to not to exceed 70 per centum of the cost of the project, with the total cost of grants made pursuant to this subsection in any fiscal year not to exceed one-half of the funds appropriated for that fiscal year pursuant to section 470h of this title.
 
-1976—Pub. L. 94–422 reenacted subsecs. (a) and (b) without change, added subsec. (c), and redesignated former subsec. (c) as (d).
+<b>1976</b>—Pub. L. 94–422 reenacted subsecs. (a) and (b) without change, added subsec. (c), and redesignated former subsec. (c) as (d).
 
 <i><sup>1</sup></i><i> So in original. Two subsecs. (d) have been enacted.</i>
 

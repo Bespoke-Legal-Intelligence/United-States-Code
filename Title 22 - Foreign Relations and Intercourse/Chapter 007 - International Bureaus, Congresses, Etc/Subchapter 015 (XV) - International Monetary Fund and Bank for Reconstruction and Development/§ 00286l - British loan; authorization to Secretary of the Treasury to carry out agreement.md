@@ -14,7 +14,7 @@ Section was not enacted as a part of act July 31, 1945, ch. 339, 59 Stat. 512, k
 
 #### Amendments
 
-1957—Pub. L. 85–21 inserted “, and the action of the Secretary of the Treasury in signing the agreement dated March 6, 1957, amending said agreement is approved”.
+<b>1957</b>—Pub. L. 85–21 inserted “, and the action of the Secretary of the Treasury in signing the agreement dated March 6, 1957, amending said agreement is approved”.
 
 #### Delegation of Functions
 
@@ -62,7 +62,7 @@ Forty-nine annual installments of principal repayments and interest shall be equ
 
 8\. Other exchange arrangements:
 
-(i) Government of the United Kingdom agrees that after the effective date of this Agreement it will not apply exchange controls in such a manner as to restrict\(a) payments or transfers in respect of products of the United States permitted to be imported into the United Kingdom or other current transactions between the two countries or (b) the use of sterling balances to the credit of residents of the United States arising out of current transactions. Nothing in this paragraph (i) shall affect the provisions of Article VII of the Articles of Agreement of the International Monetary Fund when those Articles have come into force.
+(i) Government of the United Kingdom agrees that after the effective date of this Agreement it will not apply exchange controls in such a manner as to restrict (a) payments or transfers in respect of products of the United States permitted to be imported into the United Kingdom or other current transactions between the two countries or (b) the use of sterling balances to the credit of residents of the United States arising out of current transactions. Nothing in this paragraph (i) shall affect the provisions of Article VII of the Articles of Agreement of the International Monetary Fund when those Articles have come into force.
 
 (ii) The Governments of the United States and the United Kingdom agree that not later than one year after the effective date of this Agreement, unless in exceptional cases a later date is agreed upon after consultation, they will impose no restrictions on payments and transfers for current transactions. The obligations of this paragraph (ii) shall not apply:
 

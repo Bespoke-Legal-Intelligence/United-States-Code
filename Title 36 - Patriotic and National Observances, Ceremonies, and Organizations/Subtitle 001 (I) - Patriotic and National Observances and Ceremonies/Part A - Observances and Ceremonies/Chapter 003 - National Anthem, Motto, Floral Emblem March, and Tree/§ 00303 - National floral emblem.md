@@ -26,7 +26,7 @@ The text of 36:187 (words after comma) is omitted as executed because the procla
 
 Proc. No. 5574, Nov. 20, 1986, 51 F.R. 42197, provided:
 
-Americans have always loved the flowers with which God decorates our land. More often than any other flower, we hold the rose dear as the symbol of life and love and devotion, of beauty and eternity. For the love of man and woman, for the love of mankind and God, for the love of country, Americans who would speak the language of the heart do so with a rose.
+Americans have always loved the flowers with which God decorates our land. More often than any other flower, we hold the rose dear as the symbol of life and love and devotion, of beauty and eternity. For the loveof man and woman, for the love of mankind and God, for the love of country, Americans who would speak the language of the heart do so with a rose.
 
 We see proofs of this everywhere. The study of fossils reveals that the rose has existed in America for age upon age. We have always cultivated roses in our gardens. Our first President, George Washington, bred roses, and a variety he named after his mother is still grown today. The White House itself boasts a beautiful Rose Garden. We grow roses in all our fifty States. We find roses throughout our art, music, and literature. We decorate our celebrations and parades with roses. Most of all, we present roses to those we love, and we lavish them on our altars, our civil shrines, and the final resting places of our honored dead.
 

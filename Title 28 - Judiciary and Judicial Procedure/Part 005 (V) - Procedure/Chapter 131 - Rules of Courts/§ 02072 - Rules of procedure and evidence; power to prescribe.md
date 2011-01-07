@@ -14,7 +14,7 @@ A prior section 2072, acts June 25, 1948, ch. 646, 62 Stat. 961; May 24, 1949, c
 
 #### Amendments
 
-1990—Subsec. (c). Pub. L. 101–650 added subsec. (c).
+<b>1990</b>—Subsec. (c). Pub. L. 101–650 added subsec. (c).
 
 #### Change of Name
 
@@ -30,5 +30,5 @@ Rules of civil procedure promulgated under this section as applicable to the Dis
 
 #### Admiralty Rules
 
-The Rules of Practice in Admiralty and Maritime Cases, promulgated by the Supreme Court on Dec. 20, 1920, effective Mar. 7, 1921, as revised, amended, and supplemented, were rescinded, effective July 1, 1966, in accordance with the general unification of civil and admiralty procedure which became effective July 1, 1966. Provision for certain distinctly maritime remedies were preserved however, in the Supplemental Rules for Certain Admiralty and Maritime Claims, Rules A to F, Federal Rules of Civil Procedure, Appendix to this title.
+The Rules of Practice in Admiralty and Maritime Cases, promulgated by the Supreme Court on Dec. 20, 1920, effective Mar. 7, 1921, as revised, amended, and supplemented, were rescinded, effective July 1, 1966, in accordance with the general unification of civil and admiralty procedure which became effective July 1, 1966. Provision for certain distinctly maritime remedieswere preserved however, in the Supplemental Rules for Certain Admiralty and Maritime Claims, Rules A to F, Federal Rules of Civil Procedure, Appendix to this title.
 

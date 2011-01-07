@@ -10,7 +10,7 @@ In any action under this title, other than an action brought for a violation of 
 
 #### Historical and Revision Notes
 
-I74house report no. 94–1476
+#### house report no. 94–1476
 
 The need for section 412 arises from two basic changes the bill will make in the present law.
 
@@ -24,11 +24,11 @@ In providing that statutory damages and attorney's fees are not recoverable for 
 
 #### Amendments
 
-2008—Pub. L. 110–403 substituted “section 411(c)” for “section 411(b)” in introductory provisions.
+<b>2008</b>—Pub. L. 110–403 substituted “section 411(c)” for “section 411(b)” in introductory provisions.
 
-2005—Pub. L. 109–9 inserted “, an action for infringement of the copyright of a work that has been preregistered under section 408(f) before the commencement of the infringement and that has an effective date of registration not later than the earlier of 3 months after the first publication of the work or 1 month after the copyright owner has learned of the infringement,” after “section 106A(a)” in introductory provisions.
+<b>2005</b>—Pub. L. 109–9 inserted “, an action for infringement of the copyright of a work that has been preregistered under section 408(f) before the commencement of the infringement and that has an effective date of registration not later than the earlier of 3 months after the first publication of the work or 1 month after the copyright owner has learned of the infringement,” after “section 106A(a)” in introductory provisions.
 
-1990—Pub. L. 101–650 inserted “an action brought for a violation of the rights of the author under section 106A(a) or” after “other than” in introductory provisions.
+<b>1990</b>—Pub. L. 101–650 inserted “an action brought for a violation of the rights of the author under section 106A(a) or” after “other than” in introductory provisions.
 
 #### Effective Date of 1990 Amendment
 

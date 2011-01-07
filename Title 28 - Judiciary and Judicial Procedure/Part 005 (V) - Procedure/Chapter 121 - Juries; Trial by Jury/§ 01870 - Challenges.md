@@ -20,5 +20,5 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1959—Pub. L. 86–282 substituted “may” for “shall” after “several plaintiffs”, and “, or the court may allow” for “. If there is more than one defendant the court may allow the defendants”.
+<b>1959</b>—Pub. L. 86–282 substituted “may” for “shall” after “several plaintiffs”, and “, or the court may allow” for “. If there is more than one defendant the court may allow the defendants”.
 

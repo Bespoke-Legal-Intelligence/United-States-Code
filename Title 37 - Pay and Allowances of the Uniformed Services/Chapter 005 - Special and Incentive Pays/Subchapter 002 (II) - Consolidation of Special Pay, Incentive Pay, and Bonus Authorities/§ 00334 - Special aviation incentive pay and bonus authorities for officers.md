@@ -22,7 +22,7 @@ Aviation Bonus.—The Secretary concerned may pay an aviation bonus under this s
 
 &emsp;(2) has completed any active duty service commitment incurred for undergraduate aviator training or is within one year of completing such commitment;
 
-&emsp;(3) executes a written agreement to remain on active duty in a regular component or toserve in an active status in a reserve component in aviation service for at least one year; and
+&emsp;(3) executes a written agreement to remain on active duty in a regular component or to serve in an active status in a reserve component in aviation service for at least one year; and
 
 &emsp;(4) meets such other criteria as the Secretary concerned determines appropriate.
 
@@ -92,13 +92,15 @@ Definitions.—In this section:
 
 (i)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2010.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2011.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 167; amended Pub. L. 110–417, \[div. A\], title VI, §618(b), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §614(4), Oct. 28, 2009, 123 Stat. 2353.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 167; amended Pub. L. 110–417, \[div. A\], title VI, §618(b), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §614(4), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §614(4), Jan. 7, 2011, 124 Stat. 4237.)
 
 #### Amendments
 
-2009—Subsec. (i). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+<b>2011</b>—Subsec. (i). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
 
-2008—Subsec. (f)(1). Pub. L. 110–417 substituted “section 351(a)(2)” for “section 351”.
+<b>2009</b>—Subsec. (i). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+
+<b>2008</b>—Subsec. (f)(1). Pub. L. 110–417 substituted “section 351(a)(2)” for “section 351”.
 

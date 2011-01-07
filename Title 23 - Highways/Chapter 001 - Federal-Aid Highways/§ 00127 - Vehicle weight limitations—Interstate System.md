@@ -4,7 +4,7 @@
 
 In General.—
 
-&emsp;(1) No funds shall be apportioned in any fiscal year under section 104(b)(1) of this title toany State which does not permit the use of The Dwight D. Eisenhower System of Interstate and Defense Highways within its boundaries by vehicles with a weight of twenty thousand pounds carried on any one axle, including enforcement tolerances, or with a tandem axle weight of thirty-four thousand pounds, including enforcement tolerances, or a gross weight of at least eighty thousand pounds for vehicle combinations of five axles or more.
+&emsp;(1) No funds shall be apportioned in any fiscal year under section 104(b)(1) of this title to any State which does not permit the use of The Dwight D. Eisenhower System of Interstate and Defense Highways within its boundaries by vehicles with a weight of twenty thousand pounds carried on any one axle, including enforcement tolerances, or with a tandem axle weight of thirty-four thousand pounds, including enforcement tolerances, or a gross weight of at least eighty thousand pounds for vehicle combinations of five axles or more.
 
 &emsp;(2) However, the maximum gross weight to be allowed by any State for vehicles using The Dwight D. Eisenhower System of Interstate and Defense Highways shall be twenty thousand pounds carried on one axle, including enforcement tolerances, and a tandem axle weight of thirty-four thousand pounds, including enforcement tolerances and with an overall maximum gross weight, including enforcement tolerances, on a group of two or more consecutive axles produced by application of the following formula:
 
@@ -32,7 +32,7 @@ In General.—
 
 &emsp;(10) With respect to Interstate Routes 89, 93, and 95 in the State of New Hampshire, State laws (including regulations) concerning vehicle weight limitations that were in effect on January 1, 1987, and are applicable to State highways other than the Interstate System, shall be applicable in lieu of the requirements of this subsection.
 
-&emsp;(11) With respect to all portions of the Interstate Highway System in the State, laws (including regulations) of the State of Maine concerning vehicle weight limitations that were in effect on October 1, 1995, and are applicable to State highways other than the Interstate System, shall be applicable in lieu of the requirements of this subsection.
+&emsp;(11) With respect to that portion of the Maine Turnpike designated Route 95 and 495,and that portion of Interstate Route 95 from the southern terminus of the Maine Turnpike to the New Hampshire State line, laws (including regulations) of the State of Maine concerning vehicle weight limitations that were in effect on October 1, 1995, and are applicable to State highways other than the Interstate System, shall be applicable in lieu of the requirements of this subsection.
 
 &emsp;(12)
 
@@ -53,14 +53,6 @@ Proof.—On request by a regulatory agency or law enforcement agency, the vehicl
 &emsp;&emsp;&emsp;(i) the idle reduction technology is fully functional at all times; and
 
 &emsp;&emsp;&emsp;(ii) the 400-pound gross weight increase is not used for any purpose other than the use of idle reduction technology described in subparagraph (A).
-
-&emsp;(13)
-
-Vermont pilot program.—
-
-&emsp;&emsp;(A) <sup>1</sup>
-
-In general.—With respect to Interstate Routes 89, 91, and 93 in the State of Vermont, laws (including regulations) of that State concerning vehicle weight limitations applicable to State highways other than the Interstate system shall be applicable in lieu of the requirements of this subsection.
 
 (b)
 
@@ -92,7 +84,7 @@ Wyoming.—In addition to those vehicles allowed under subparagraph (A), the Sta
 
 &emsp;&emsp;(D)
 
-Ohio.—In addition to vehicles which the State of Ohio may continue to allow to be operated under subparagraph (A), such State may allow longer combination vehicles with 3 cargo carrying units of 281/2 feet each (not including the truck tractor) not in actual operation on June 1, 1991, to be operated within its boundaries on the 1-mile segment of Ohio State Route 7 which begins at and is south of exit 16 of the Ohio Turnpike.
+Ohio.—In addition to vehicles which the State of Ohio may continue to allow to be operated under subparagraph (A), such State may allow longer combination vehicles with 3 cargo carrying units of 28½ feet each (not including the truck tractor) not in actual operation on June 1, 1991, to be operated within its boundaries on the 1-mile segment of Ohio State Route 7 which begins at and is south of exit 16 of the Ohio Turnpike.
 
 &emsp;&emsp;(E)
 
@@ -120,7 +112,7 @@ Publication of list.—
 
 &emsp;&emsp;(A)
 
-Submission to secretary.—Within 60 days of the date of the enactment of this subsection, each State (i) shall submit to the Secretary for publication in the Federal Register a complete list of (I) all operations of longer combination vehicles being conducted as of June 1, 1991, pursuant to State statutes and regulations; (II) all limitations and conditions, including, but not limited to, routing-specific and configuration-specific designations and all other restrictions, governing the operation of longer combination vehicles otherwise prohibited under this subsection; and (III) such statutes, regulations, limitations, and conditions; and (ii) shall submit to the Secretary copies of such statutes, regulations, limitations, and conditions.
+Submission to secretary.—Within 60 days of the date of the enactment of this subsection, each State (i) shall submit to the Secretary for publication in the Federal Register a complete list of (I) all operationsof longer combination vehicles being conducted as of June 1, 1991, pursuant to State statutes and regulations; (II) all limitations and conditions, including, but not limited to, routing-specific and configuration-specific designations and all other restrictions, governing the operation of longer combination vehicles otherwise prohibited under this subsection; and (III) such statutes, regulations, limitations, and conditions; and (ii) shall submit to the Secretary copies of such statutes, regulations, limitations, and conditions.
 
 &emsp;&emsp;(B)
 
@@ -170,15 +162,7 @@ In general.—Notwithstanding any other provision of this section, the Secretary
 
 Applicability.—Emergency limits established under paragraph (1) shall preempt any inconsistent State vehicle weight limits.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–624, §17(e), July 12, 1960, 74 Stat. 416; Pub. L. 93–643, §106, Jan. 4, 1975, 88 Stat. 2283; Pub. L. 94–280, title I, §120, May 5, 1976, 90 Stat. 438; Pub. L. 97–424, title I, §133, formerly §133(a), Jan. 6, 1983, 96 Stat. 2123, renumbered §133, Pub. L. 100–17, title I, §133(a)(3), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §119, Apr. 2, 1987, 101 Stat. 157; Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(c)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 101–427, Oct. 15, 1990, 104 Stat. 927; Pub. L. 102–240, title I, §1023(a), (b), (d), Dec. 18, 1991, 105 Stat. 1951, 1952, 1954; Pub. L. 103–331, title III, §332, Sept. 30, 1994, 108 Stat. 2493; Pub. L. 103–429, §3(3), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §312(a)(1), (2), (b), Nov. 28, 1995, 109 Stat. 584; Pub. L. 104–88, title IV, §§404, 405(a)(1), Dec. 29, 1995, 109 Stat. 956; Pub. L. 105–178, title I, §§1106(c)(2)(B), 1212(d)(1), June 9, 1998, 112 Stat. 136, 194; Pub. L. 107–107, div. A, title X, §1064, Dec. 28, 2001, 115 Stat. 1233; Pub. L. 108–447, div. J, title I, §121, Dec. 8, 2004, 118 Stat. 3347; Pub. L. 109–58, title VII, §756(c), Aug. 8, 2005, 119 Stat. 832; Pub. L. 109–59, title I, §1111(b)(3), Aug. 10, 2005, 119 Stat. 1171; Pub. L. 111–117, div. A, title I, §194(a), (c), (d), (f), Dec. 16, 2009, 123 Stat. 3072, 3073.)
-
-#### Amendment of Subsection (a)(11)
-
-<i>Pub. L. 111–117, div. A, title I, §194(c), Dec. 16, 2009, 123 Stat. 3072, provided that, effective as of the date that is 366 days after Dec. 16, 2009, subsection (a)(11) of this section is amend</i><i>ed by striking “all portions of the Interstate Highway System in the State, laws (including regulations)” and inserting “that portion of the Maine Turnpike designated Route 95 and 495, and that portion of Interstate Route 95 from the southern terminus of the Maine Turnpike to the New Hampshire State line, laws (including regulations)”. See Effective and Termination Dates of 2009 Amendment note below.</i>
-
-#### Repeal of Subsection (a)(13)
-
-<i>Pub. L. 111–117, div. A, title I, §194(f), Dec. 16, 2009, 123 Stat. 3073, provided that, effective as of the date that is 366 days after Dec. 16, 2009, subsection (a) of this section is amended by striking paragraph (13). See Effective and Termination Dates of 2009 Amendment note below.</i>
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–624, §17(e), July 12, 1960, 74 Stat. 416; Pub. L. 93–643, §106, Jan. 4, 1975, 88 Stat. 2283; Pub. L. 94–280, title I, §120, May 5, 1976, 90 Stat. 438; Pub. L. 97–424, title I, §133, formerly §133(a), Jan. 6, 1983, 96 Stat. 2123, renumbered §133, Pub. L. 100–17, title I, §133(a)(3), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §119, Apr. 2, 1987, 101 Stat. 157; Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(c)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 101–427, Oct. 15, 1990, 104 Stat. 927; Pub.L. 102–240, title I, §1023(a), (b), (d), Dec. 18, 1991, 105 Stat. 1951, 1952, 1954; Pub. L. 103–331, title III, §332, Sept. 30, 1994, 108 Stat. 2493; Pub. L. 103–429, §3(3), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §312(a)(1), (2), (b), Nov. 28, 1995, 109 Stat. 584; Pub. L. 104–88, title IV, §§404, 405(a)(1), Dec. 29, 1995, 109 Stat. 956; Pub. L. 105–178, title I, §§1106(c)(2)(B), 1212(d)(1), June 9, 1998, 112 Stat. 136, 194; Pub. L. 107–107, div. A, title X, §1064, Dec. 28, 2001, 115 Stat. 1233; Pub. L. 108–447, div. J, title I, §121, Dec. 8, 2004, 118 Stat. 3347; Pub. L. 109–58, title VII, §756(c), Aug. 8, 2005, 119 Stat. 832; Pub. L. 109–59, title I, §1111(b)(3), Aug. 10, 2005, 119 Stat. 1171; Pub. L. 111–117, div. A, title I, §194(a), (c), (d), (f), Dec. 16, 2009, 123 Stat. 3072, 3073.)
 
 #### References in Text
 
@@ -194,25 +178,33 @@ The date of the enactment of this subsection, referred to in subsec. (f), is the
 
 The date of the enactment of this subsection, referred to in subsec. (g), is the date of enactment of Pub. L. 104–88, which was approved Dec. 29, 1995.
 
+#### Codification
+
+Amendments by section 194(c), (f) of Pub. L. 111–117 were executed as if the amendments by section 194(a), (d) of Pub. L. 111–117 were still in effect, notwithstanding section 194(b), (e) of Pub. L. 111–117 which provided that the amendments by section 194(a), (d) were only effective during the 1-year period beginning on the date of enactment of Pub. L. 111–117. See 2009 Amendment notes and Effective and Termination Dates of 2009 Amendment notes below.
+
 #### Amendments
 
-2009—Subsec. (a)(11). Pub. L. 111–117, §194(a), (b), which directed temporary substitution of “all portions of the Interstate Highway System in the State, laws (including regulations)” for “that portion of the Maine Turnpike designated Route 95 and 495, and that portion of Interstate Route 95 from the southern terminus of the Maine Turnpike to the New Hampshire State line, laws (including regulations)”, was executed by making the temporary substitution for “that portion of the Maine Turnpike designated Interstate Route 95 and 495, and that portion of Interstate Route 95 from the southern terminus of the Maine Turnpike to the New Hampshire State line, laws (including regulations)” to reflect the probable intent of Congress. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Subsec. (a)(11). Pub. L. 111–117, §194(c), substituted “that portion of the Maine Turnpike designated Route 95 and 495, and that portion of Interstate Route 95 from the southern terminus of the Maine Turnpike to the New Hampshire State line, laws (including regulations)” for “all portions of the Interstate Highway System in the State, laws (including regulations)”. See Codification note above.
 
-Subsec. (a)(13). Pub. L. 111–117, §194(d), (e), temporarily added par. (13). See Effective and Termination Dates of 2009 Amendment note below.
+Pub. L. 111–117, §194(a), (b), which directed temporary substitution of “all portions of the Interstate Highway System in the State, laws (including regulations)” for “that portion of the Maine Turnpike designated Route 95 and 495, and that portion of Interstate Route 95 from the southern terminus of the Maine Turnpike to the New Hampshire State line, laws (including regulations)”, was executed by making the temporary substitution for “that portion of the Maine Turnpike designated Interstate Route 95 and 495, and that portion of Interstate Route 95 from the southern terminus of the Maine Turnpike to the New Hampshire State line, laws (including regulations)” to reflect the probable intent of Congress. See Effective and Termination Dates of 2009 Amendment note below.
 
-2005—Subsec. (a). Pub. L. 109–58 designated first to eleventh sentences as pars. (1) to (11), respectively, and added par. (12).
+Subsec. (a)(13). Pub. L. 111–117, §194(f), struck out par. (13), which consisted of subpar. (A) only. Text read as follows: “With respect to Interstate Routes 89, 91, and 93 in the State of Vermont, laws (including regulations) of that State concerning vehicle weight limitations applicable to State highways other than the Interstate system shall be applicable in lieu of the requirements of this subsection.” See Codification note above.
+
+Pub. L. 111–117, §194(d), (e), temporarily added par. (13). See Effective and Termination Dates of 2009 Amendment note below.
+
+<b>2005</b>—Subsec. (a). Pub. L. 109–58 designated first to eleventh sentences as pars. (1) to (11), respectively, and added par. (12).
 
 Subsec. (a)(3). Pub. L. 109–59 substituted “118(b)(2)” for “118(b)(1)”.
 
-2004—Subsec. (a). Pub. L. 108–447 substituted “Interstate Routes 89, 93, and 95 in the State of New Hampshire” for “Interstate Route 95 in the State of New Hampshire” in the penultimate sentence.
+<b>2004</b>—Subsec. (a). Pub. L. 108–447 substituted “Interstate Routes 89, 93, and 95 in the State of New Hampshire” for “Interstate Route 95 in the State of New Hampshire” in the penultimate sentence.
 
-2001—Subsec. (h). Pub. L. 107–107 added subsec. (h).
+<b>2001</b>—Subsec. (h). Pub. L. 107–107 added subsec. (h).
 
-1998—Subsec. (a). Pub. L. 105–178, §1212(d)(1), inserted before penultimate sentence “With respect to the State of Colorado, vehicles designed to carry 2 or more precast concrete panels shall be considered a nondivisible load.” and inserted at end “The State of Louisiana may allow, by special permit, the operation of vehicles with a gross vehicle weight of up to 100,000 pounds for the hauling of sugarcane during the harvest season, not to exceed 100 days annually. With respect to Interstate Route 95 in the State of New Hampshire, State laws (including regulations) concerning vehicle weight limitations that were in effect on January 1, 1987, and are applicable to State highways other than the Interstate System, shall be applicable in lieu of the requirements of this subsection. With respect to that portion of the Maine Turnpike designated Interstate Route 95 and 495, and that portion of Interstate Route 95 from the southern terminus of the Maine Turnpike to the New Hampshire State line, laws (including regulations) of the State of Maine concerning vehicle weight limitations that were in effect on October 1, 1995, and are applicable to State highways other than the Interstate System, shall be applicable in lieu of the requirements of this subsection.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §1212(d)(1), inserted before penultimate sentence “With respect to the State of Colorado, vehicles designed to carry 2 or more precast concrete panels shall be considered a nondivisible load.” and inserted at end “The State of Louisiana may allow, by special permit, the operation of vehicles with a gross vehicle weight of up to 100,000 pounds for the hauling of sugarcane during the harvest season, not to exceed 100 days annually. With respect to Interstate Route 95 in the State of New Hampshire, State laws (including regulations) concerning vehicle weight limitations that were in effect on January 1, 1987, and are applicable to State highways other than the Interstate System, shall be applicable in lieu of the requirements of this subsection. With respect to that portion of the Maine Turnpike designated Interstate Route 95 and 495, and that portion of Interstate Route 95 from the southern terminus of the Maine Turnpike to the New Hampshire State line, laws (including regulations) of the State of Maine concerning vehicle weight limitations that were in effect on October 1, 1995, and are applicable to State highways other than the Interstate System, shall be applicable in lieu of the requirements of this subsection.”
 
 Subsec. (f). Pub. L. 105–178, §1106(c)(2)(B), substituted “section 103(c)(4)(A)” for “section 139(a)”.
 
-1995—Subsec. (a). Pub. L. 104–59, §312(a)(1), in proviso of second sentence substituted “except for vehicles using Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or vehicles using Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska, and except for those” for “except for those”.
+<b>1995</b>—Subsec. (a). Pub. L. 104–59, §312(a)(1), in proviso of second sentence substituted “except for vehicles using Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or vehicles using Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska, and except for those” for “except for those”.
 
 Subsec. (d)(1)(F). Pub. L. 104–59, §312(a)(2), added subpar. (F).
 
@@ -220,17 +212,17 @@ Subsec. (f). Pub. L. 104–59, §312(b), as amended by Pub. L. 104–88, §405(a
 
 Subsec. (g). Pub. L. 104–88, §404, added subsec. (g).
 
-1994—Subsec. (a). Pub. L. 103–331 inserted at end “With respect to the State of Maryland, laws and regulations in effect on June 1, 1993, shall be applicable for the purposes of this subsection.”
+<b>1994</b>—Subsec. (a). Pub. L. 103–331 inserted at end “With respect to the State of Maryland, laws and regulations in effect on June 1, 1993, shall be applicable for the purposes of this subsection.”
 
 Subsec. (d)(2)(A). Pub. L. 103–429 substituted “sections 31111–31114 of title 49” for “sections 411, 412, and 416 of the Surface Transportation Assistance Act of 1982 (49 U.S.C. App. 2311, 2312, and 2316)”.
 
-1991—Subsec. (a). Pub. L. 102–240, §1023(a), substituted “funds shall be apportioned in any fiscal year under section 104(b)(1) of this title” for “funds authorized to be appropriated for any fiscal year under provisions of the Federal-Aid Highway Act of 1956 shall be apportioned” in first sentence and inserted “, other than vehicles or combinations subject to subsection (d) of this section,” after “thereof” in fourth sentence.
+<b>1991</b>—Subsec. (a). Pub. L. 102–240, §1023(a), substituted “funds shall be apportioned in any fiscal year under section 104(b)(1) of this title” for “funds authorized to be appropriated for any fiscal year under provisions of the Federal-Aid Highway Act of 1956 shall be apportioned” in first sentence and inserted “, other than vehicles or combinations subject to subsection (d) of this section,” after “thereof” in fourth sentence.
 
 Subsecs. (d), (e). Pub. L. 102–240, §1023(b), (d), added subsecs. (d) and (e).
 
-1990—Subsec. (a). Pub. L. 101–427 substituted “The Dwight D. Eisenhower System of Interstate and Defense Highways” for “the National System of Interstate and Defense Highways” in two places.
+<b>1990</b>—Subsec. (a). Pub. L. 101–427 substituted “The Dwight D. Eisenhower System of Interstate and Defense Highways” for “the National System of Interstate and Defense Highways” in two places.
 
-1987—Subsec. (a). Pub. L. 100–202 substituted “September 1, 1989” for “September 1, 1988” in two places.
+<b>1987</b>—Subsec. (a). Pub. L. 100–202 substituted “September 1, 1989” for “September 1, 1988” in two places.
 
 Pub. L. 100–17, §119(d)(1), inserted heading.
 
@@ -242,17 +234,17 @@ Subsec. (b). Pub. L. 100–17, §119(d)(2), inserted heading.
 
 Subsec. (c). Pub. L. 100–17, §119(c), added subsec. (c).
 
-1983—Pub. L. 97–424 struck out “and width” after “weight” in section catchline.
+<b>1983</b>—Pub. L. 97–424 struck out “and width” after “weight” in section catchline.
 
-Subsec. (a). Pub. L. 97–424 designated existing provisions as subsec. (a) and substituted provisions relating to authority to appropriate funds for any fiscal year under the Federal-Aid Highway Act of 1956 with respectto apportionment to any State not permitting the use of the National System of Interstate and Defense Highways within its boundaries by vehicles with specified weights, provisions setting forth formula of maximum gross weight to be allowed by any State for vehicles using such Highways, and provisions setting forth further limitations for apportionment, for provisions relating to authority to appropriate funds for any fiscal year under section 108(b) of the Federal-Aid Highway Act of 1956 with respect to apportionment to any State not permitting the use of the Interstate System within its boundaries by vehicles with specified weights, provisions setting forth formula for determination of overall gross weight, provisions relating to maximum widths permitted for vehicles, and provisions setting forth further limitations for apportionment.
+Subsec. (a). Pub. L. 97–424 designated existing provisions as subsec. (a) and substituted provisions relating to authority to appropriate funds for any fiscal year under the Federal-Aid Highway Act of 1956 with respect to apportionment to any State not permitting the use of the National System of Interstate and Defense Highways within its boundaries by vehicles with specified weights, provisions setting forth formula of maximum gross weight to be allowed by any State for vehicles using such Highways, and provisions setting forth further limitations for apportionment, for provisions relating to authority to appropriate funds for any fiscal year under section 108(b) of the Federal-Aid Highway Act of 1956 with respect to apportionment to any State not permitting the use of the Interstate System within its boundaries by vehicles with specified weights, provisions setting forth formula for determination of overall gross weight, provisions relating to maximum widths permitted for vehicles, and provisions setting forth further limitations for apportionment.
 
 Subsec. (b). Pub. L. 97–424 added subsec. (b).
 
-1976—Pub. L. 94–280 authorized a State to permit any bus with a width of 102 inches or less to operate on any lane of twelve feet or more in width on the Interstate System.
+<b>1976</b>—Pub. L. 94–280 authorized a State to permit any bus with a width of 102 inches or less to operate on any lane of twelve feet or more in width on the Interstate System.
 
-1975—Pub. L. 93–643 substituted weight limitations of 20,000 lbs. carried on any one axle, including all enforcement tolerances, for 18,000 lbs. carried on any one axle, of 34,000 lbs. for tandem axle weight, including all enforcement tolerances, for 32,000 lbs. for tandem axle weight, overall gross weight limitation of 80,000, including enforcement tolerances, for overall gross weight of 73,280 lbs. prescribed a formula for determination of overall gross weight on a group of two or more consecutive axles, authorized a gross load of 34,000 lbs. each for two consecutive sets of tandem axles having an overall distance of 36 or more feet between such axles, excepted from the new weight limitations cases of overall gross weight of any group of two or more consecutive axles, on Jan. 4, 1975, and inserted “, except in the case of the overall gross weight of any group of two or more consecutive axles, on the date of enactment of the Federal-Aid Highway Amendments of 1974” in third sentence.
+<b>1975</b>—Pub. L. 93–643 substituted weight limitations of 20,000 lbs. carried on any one axle, including all enforcement tolerances, for 18,000 lbs. carried on any one axle, of 34,000 lbs. for tandem axle weight, including all enforcement tolerances, for 32,000 lbs. for tandem axle weight, overall gross weight limitation of 80,000, including enforcement tolerances, for overall gross weight of 73,280 lbs. prescribed a formula for determination of overall gross weight on a group of two or more consecutive axles, authorized a gross load of 34,000 lbs. each for two consecutive sets of tandem axles having an overall distance of 36 or more feet between such axles, excepted from the new weight limitations cases of overall gross weight of any group of two or more consecutive axles, on Jan. 4, 1975, and inserted “, except in the case of the overall gross weight of any group of two or more consecutive axles, on the date of enactment of the Federal-Aid Highway Amendments of 1974” in third sentence.
 
-1960—Pub. L. 86–624 made the laws or regulation in effect on Feb. 1, 1960, applicable, with respect to the State of Hawaii, for the purposes of this section, in lieu of those in effect on July 1, 1956.
+<b>1960</b>—Pub. L. 86–624 made the laws or regulation in effect on Feb. 1, 1960, applicable, with respect to the State of Hawaii, for the purposes of this section, in lieu of those in effect on July 1, 1956.
 
 #### Effective and Termination Dates of 2009 Amendment
 
@@ -312,7 +304,7 @@ In general.—The Secretary shall request the Transportation Research Board of t
 
 “(2)
 
-Factors to consider and evaluate.—In developing recommendations under paragraph (1), the Board shall consider and evaluate the impact of the recommendations described in paragraph (1) on the economy, the environment, safety, and service to communities.
+Factors to consider and evaluate.—In developing recommendations under paragraph (1), the Boardshall consider and evaluate the impact of the recommendations described in paragraph (1) on the economy, the environment, safety, and service to communities.
 
 “(3)
 
@@ -397,6 +389,4 @@ Pub. L. 97–369, title III, §321, Dec. 18, 1982, 96 Stat. 1784, related to Sta
 #### Steering Axle Study; Report to Congress
 
 Section 210 of Pub. L. 94–280 directed Secretary of Transportation to conduct an investigation into relationship between gross load on front steering axles of truck tractors and safety of operation of vehicle combinations of which such truck tractors are a part, such investigation to be conducted in cooperation with representatives of (A) manufacturers of truck tractors and related equipment, (B) labor, and (C) users of such equipment, and the results of such study to be reported to Congress not later than July 1, 1977.
-
-<i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

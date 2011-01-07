@@ -36,7 +36,7 @@ Considerations.—When making a contract under this section, the Administrator s
 
 (d)
 
-Ending Contracts.—A contract made under this section shall be ended if amounts are not made available to continue the contractinto a subsequent fiscal year. The cost of ending the contract may be paid from—
+Ending Contracts.—A contract made under this section shall be ended if amounts are not made available to continue the contract into a subsequent fiscal year. The cost of ending the contract may be paid from—
 
 &emsp;(1) an appropriation originally available for carrying out the contract;
 

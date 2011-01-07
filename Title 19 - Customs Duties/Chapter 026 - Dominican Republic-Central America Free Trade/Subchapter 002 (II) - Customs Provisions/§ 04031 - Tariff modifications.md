@@ -22,7 +22,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding section 212(a) of the Caribbean Basin Economic Recovery Act (19 U.S.C. 2702(a)), the President shall terminate the designation of each CAFTA–DR country as a beneficiary country for purposes of that Act \[19 U.S.C. 2701 et seq.\] on the date the Agreement enters into force with respect to that country.
+&emsp;&emsp;Notwithstanding section 212(a) of the Caribbean Basin Economic Recovery Act (19 U.S.C. 2702(a)), the President shall terminate the designation of each CAFTA–DR country as a beneficiary country for purposes of thatAct \[19 U.S.C. 2701 et seq.\] on the date the Agreement enters into force with respect to that country.
 
 #### (B) Exception
 
@@ -66,5 +66,5 @@ The Caribbean Basin Economic Recovery Act, referred to in subsec. (a)(3)(A), is 
 
 #### Effective and Termination Dates
 
-Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be inforce with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
+Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
 

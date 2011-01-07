@@ -26,7 +26,7 @@ Determination of importance and restraint on competition.—Prior to the effecti
 
 &emsp;(3)
 
-Hearing.—If the Board determines either that the agreement or combination is of major transportation importance or that there is substantial likelihood that the agreement or combination will unduly restrain competition, the Board shall hold a hearing concerning whether the agreement or combination will be in the interest of better service to the public or of economy in operation and whether it will unduly restrain competition and shall suspend operation of such agreement or combination pending such hearing and final decision thereon. After such hearing, the Board shall indicate to what extent it finds that the agreement or combination will be in the interest of better service to the public or of economy in operation and will not unduly restrain competition and if assented to by all the carriers involved, shall to that extent, approve and authorize the agreement or combination, undersuch rules and regulations as the Board may issue, and for such consideration between such carriers and upon such terms and conditions as shall be found by the Board to be just and reasonable.
+Hearing.—If the Board determines either that the agreement or combination is of major transportation importance or that there is substantial likelihood that the agreement or combination will unduly restrain competition, the Board shall hold a hearing concerning whether the agreement or combination will be in the interest of better service to the public or of economy in operation and whether it will unduly restrain competition and shall suspend operation of such agreement or combination pending such hearing and final decision thereon. After such hearing, the Board shall indicate to what extent it finds that the agreement or combination will be in the interest of better service to the public or of economy in operation and will not unduly restrain competition and if assented to by all the carriers involved, shall to that extent, approve and authorize the agreement or combination, under such rules and regulations as the Board may issue, and for such consideration between such carriers and upon such terms and conditions as shall be found by the Board to be just and reasonable.
 
 &emsp;(4)
 
@@ -68,7 +68,7 @@ Transportation.—The term “transportation” means transportation that would 
 
 #### Historical and Revision Notes
 
-I74Pub. L. 104–287, §5(37)(A), (B)
+#### Pub. L. 104–287, §5(37)(A), (B)
 
 This sets out the effective date of 49:14302.
 
@@ -78,7 +78,7 @@ This amends 49:14302(h)(1) and (2) for clarity and consistency.
 
 #### References in Text
 
-Section 10102(11) of this title, referred to in subsec. (h)(1), was omitted and a new section 10102 enacted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 20, 1995, 109 Stat. 804, 806, effective Jan. 1, 1996.
+Section 10102(11) of this title, referred to in subsec. (h)(1), was omitted and a new section 10102 enacted inthe general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 20, 1995, 109 Stat. 804, 806, effective Jan. 1, 1996.
 
 Subchapter II of chapter 105 of this title, referred to in subsec. (h)(2), was omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
 
@@ -88,7 +88,7 @@ Provisions similar to those in this section were contained in sections 11341 and
 
 #### Amendments
 
-1996—Subsec. (c)(4). Pub. L. 104–287, §5(37)(A), substituted “January 1, 1996” for “the effective date of this section”.
+<b>1996</b>—Subsec. (c)(4). Pub. L. 104–287, §5(37)(A), substituted “January 1, 1996” for “the effective date of this section”.
 
 Subsec. (g). Pub. L. 104–287, §5(37)(B), substituted “January 1, 1996,” for “the effective date of this section”.
 

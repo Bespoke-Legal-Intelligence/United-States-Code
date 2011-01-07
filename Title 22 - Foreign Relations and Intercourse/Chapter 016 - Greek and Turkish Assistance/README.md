@@ -1,7 +1,5 @@
 ### <b>CHAPTER 16—GREEK AND TURKISH ASSISTANCE</b>
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

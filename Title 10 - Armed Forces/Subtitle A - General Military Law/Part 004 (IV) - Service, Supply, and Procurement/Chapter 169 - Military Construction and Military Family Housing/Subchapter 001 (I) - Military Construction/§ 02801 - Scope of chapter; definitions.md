@@ -12,7 +12,7 @@
 
 &emsp;(3) The term “life-cycle cost-effective”, with respect to a project, product, or measure, means that the sum of the present values of investment costs, capital costs, installation costs, energy costs, operating costs, maintenance costs, and replacement costs, as estimated for the lifetime of the project, product, or measure, does not exceed the base case (current or standard) for the practice, product, or measure.
 
-&emsp;(4) The term “military installation” means a base, camp, post, station, yard, center, or other activity under the jurisdiction of the Secretary of a military department or, in the case of an activity in a foreign country, under the operational control of the Secretary of a military department or the Secretary of Defense, without regard to the duration of operational control.
+&emsp;(4) The term “military installation” means a base, camp, post, station, yard, center, orother activity under the jurisdiction of the Secretary of a military department or, in the case of an activity in a foreign country, under the operational control of the Secretary of a military department or the Secretary of Defense, without regard to the duration of operational control.
 
 &emsp;(5) The term “Secretary concerned” includes the Secretary of Defense with respect to matters concerning the Defense Agencies.
 
@@ -22,29 +22,29 @@
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–181 inserted “, or any acquisition of land or construction of a defense access road (as described in section 210 of title 23)” before period at end.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181 inserted “, or any acquisition of land or construction of a defense access road (as described in section 210 of title 23)” before period at end.
 
 Subsec. (c). Pub. L. 110–417 added par. (3) and redesignated former pars. (4), (1), (2), and (3) as (1), (2), (4), and (5), respectively.
 
-2006—Subsec. (c). Pub. L. 109–364 inserted “and chapter 173 of this title” after “this chapter” in introductory provisions.
+<b>2006</b>—Subsec. (c). Pub. L. 109–364 inserted “and chapter 173 of this title” after “this chapter” in introductory provisions.
 
 Subsec. (d). Pub. L. 109–163 substituted “sections 2830, 2835, and 2836 of this chapter” for “sections 2830 and 2835”.
 
-2003—Subsec. (a). Pub. L. 108–136, §2801(a), inserted before period at end “, whether to satisfy temporary or permanent requirements”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §2801(a), inserted before period at end “, whether to satisfy temporary or permanent requirements”.
 
 Subsec. (c)(2). Pub. L. 108–136, §2801(b), inserted before period at end “, without regard to the duration of operational control”.
 
 Subsec. (c)(4). Pub. L. 108–136, §1043(b)(16), substituted “the congressional defense committees” for “the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives”.
 
-1999—Subsec. (c)(4). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+<b>1999</b>—Subsec. (c)(4). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-1996—Subsec. (c)(4). Pub. L. 104–106 substituted “the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the” for “the Committees on Armed Services and on Appropriations of the Senate and”.
+<b>1996</b>—Subsec. (c)(4). Pub. L. 104–106 substituted “the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the” for “the Committees on Armed Services and on Appropriations of the Senate and”.
 
-1992—Subsec. (c)(4). Pub. L. 102–496 inserted before period at end “and, with respect to any project to be carried out by, or for the use of, an intelligence component of the Department of Defense, the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate”.
+<b>1992</b>—Subsec. (c)(4). Pub. L. 102–496 inserted before period at end “and, with respect to any project to be carried out by, or for the use of, an intelligence component of the Department of Defense, the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate”.
 
 Subsec. (d). Pub. L. 102–484 substituted “sections 2830 and 2835” for “sections 2828(g) and 2830”.
 
-1987—Subsec. (c). Pub. L. 100–26 inserted “The term” after each par. designation and struck out uppercase letter of first word after first quotation marks in pars. (1), (2), and (4) and substituted lowercase letter.
+<b>1987</b>—Subsec. (c). Pub. L. 100–26 inserted “The term” after each par. designation and struck out uppercase letter of first word after first quotation marks in pars. (1), (2), and (4) and substituted lowercase letter.
 
 Subsec. (c)(3). Pub. L. 100–180, §1231(15), substituted “Defense Agencies” for “defense agencies”.
 

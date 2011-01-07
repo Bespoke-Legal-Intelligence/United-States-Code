@@ -4,7 +4,7 @@
 
 For the purpose of this section, the term—
 
-&emsp;(1) “oil” means oil of any kind or in any form, including, but not limited to, petroleum, fuel oil, sludge, oil refuse, and oil mixed with wastes other than dredged spoil;
+&emsp;(1) “oil” means oil of any kind or in any form, including, but not limited to, petroleum,fuel oil, sludge, oil refuse, and oil mixed with wastes other than dredged spoil;
 
 &emsp;(2) “discharge” includes, but is not limited to, any spilling, leaking, pumping, pouring, emitting, emptying or dumping, but excludes (A) discharges in compliance with a permit under section 1342 of this title, (B) discharges resulting from circumstances identified and reviewed and made a part of the public record with respect to a permit issued or modified under section 1342 of this title, and subject to a condition in such permit,,<sup>1</sup> (C) continuous or anticipated intermittent discharges from a point source, identified in a permit or permit application under section 1342 of this title, which are caused by events occurring within the scope of relevant operating or treatment systems, and (D) discharges incidental to mechanical removal authorized by the President under subsection (c) of this section;
 
@@ -18,7 +18,7 @@ For the purpose of this section, the term—
 
 &emsp;(7) “person” includes an individual, firm, corporation, association, and a partnership;
 
-&emsp;(8) “remove” or “removal” refers to containment and removal of the oil or hazardous substances from the water and shorelines or the taking of such other actions as may be necessary to prevent, minimize, or mitigate damage to the public health or welfare, including,but not limited to, fish, shellfish, wildlife, and public and private property, shorelines, and beaches;
+&emsp;(8) “remove” or “removal” refers to containment and removal of the oil or hazardous substances from the water and shorelines or the taking of such other actions as may be necessary to prevent, minimize, or mitigate damage to the public health or welfare, including, but not limited to, fish, shellfish, wildlife, and public and private property, shorelines, and beaches;
 
 &emsp;(9) “contiguous zone” means the entire zone established or to be established by the United States under article 24 of the Convention on the Territorial Sea and the Contiguous Zone;
 
@@ -78,7 +78,7 @@ For the purpose of this section, the term—
 
 (2)(A) The Administrator shall develop, promulgate, and revise as may be appropriate, regulations designating as hazardous substances, other than oil as defined in this section, such elements and compounds which, when discharged in any quantity into or upon the navigable waters of the United States or adjoining shorelines or the waters of the contiguous zone or in connection with activities under the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\] or the Deepwater Port Act of 1974 \[33 U.S.C. 1501 et seq.\], or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\]), present an imminent and substantial danger to the public health or welfare, including, but not limited to, fish, shellfish, wildlife, shorelines, and beaches.
 
-(B) The Administrator shall within 18 months after the date of enactment of this paragraph, conduct a study and report to the Congress on methods, mechanisms, and procedures to create incentives to achieve a higher standard of care in all aspects of the management and movementof hazardous substances on the part of owners, operators, or persons in charge of onshore facilities, offshore facilities, or vessels. The Administrator shall include in such study (1) limits of liability, (2) liability for third party damages, (3) penalties and fees, (4) spill prevention plans, (5) current practices in the insurance and banking industries, and (6) whether the penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of subsection (b)(2) of section 311 of Public Law 92–500 should be enacted.
+(B) The Administrator shall within 18 months after the date of enactment of this paragraph, conduct a study and report to the Congress on methods, mechanisms, and procedures to create incentives to achieve a higher standard of care in all aspects of the management and movement of hazardous substances on the part of owners, operators, or persons in charge of onshore facilities, offshore facilities, or vessels. The Administrator shall include in such study (1) limits of liability, (2) liability for third party damages, (3) penalties and fees, (4) spill prevention plans, (5) current practices in the insurance and banking industries, and (6) whether the penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of subsection (b)(2) of section 311 of Public Law 92–500 should be enacted.
 
 (3) The discharge of oil or hazardous substances (i) into or upon the navigable waters of the United States, adjoining shorelines, or into or upon the waters of the contiguous zone, or (ii) in connection with activities under the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\] or the Deepwater Port Act of 1974 \[33 U.S.C. 1501 et seq.\], or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\]), in such quantities as may be harmful as determined by the President under paragraph (4) of this subsection, is prohibited, except (A) in the case of such discharges into the waters of the contiguous zone or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Magnuson-Stevens Fishery Conservation and Management Act), where permitted under the Protocol of 1978 Relating to the International Convention for the Prevention of Pollution from Ships, 1973, and (B) where permitted in quantities and at times and locations or under such circumstances or conditions as the President may, by regulation, determine not to be harmful. Any regulations issued under this subsection shall be consistent with maritime safety and with marine and navigation laws and regulations and applicable water quality standards.
 
@@ -122,7 +122,7 @@ Public notice.—Before issuing an order assessing a class II civil penalty unde
 
 &emsp;&emsp;(ii)
 
-Presentation of evidence.—Any person who comments on a proposed assessment of a class II civil penalty under this paragraph shall be given notice of any hearingheld under this paragraph and of the order assessing such penalty. In any hearing held under this paragraph, such person shall have a reasonable opportunity to be heard and to present evidence.
+Presentation of evidence.—Any person who comments on a proposed assessment of a class II civil penalty under this paragraph shall be given notice of any hearing held under this paragraph and of the order assessing such penalty. In any hearing held under this paragraph, such person shall have a reasonable opportunity to be heard and to present evidence.
 
 &emsp;&emsp;(iii)
 
@@ -154,7 +154,7 @@ Judicial review.—Any person against whom a civil penalty is assessed under thi
 
 &emsp;&emsp;(ii) in the case of assessment of a class II civil penalty, in United States Court of Appeals for the District of Columbia Circuit or for any other circuit in which such person resides or transacts business,
 
-> &emsp;by filing a notice of appeal in such court within the 30-day period beginning on the date the civil penalty order is issued and by simultaneously sending a copy of such notice by certified mail to the Administrator or Secretary, as the case may be, and the Attorney General. The Administrator or Secretary shall promptly file in such court a certified copy of the record on which the order was issued. Such court shall not set aside or remand such order unless there is not substantial evidence in the record, taken as a whole, to support the finding of a violation or unless the Administrator's or Secretary's assessment of the penalty constitutes an abuse of discretion and shall not impose additional civil penalties for the same violation unless the Administrator's or Secretary's assessment of the penalty constitutes an abuse of discretion.
+> &emsp;by filing a notice of appeal in such court within the 30-day period beginning on the date the civil penalty order is issued and by simultaneously sending a copy of such notice by certified mail to the Administrator or Secretary, as the case may be, and the Attorney General. The Administrator or Secretary shall promptly file in such court a certified copy of the record on which the order was issued. Such court shall not set aside or remand such orderunless there is not substantial evidence in the record, taken as a whole, to support the finding of a violation or unless the Administrator's or Secretary's assessment of the penalty constitutes an abuse of discretion and shall not impose additional civil penalties for the same violation unless the Administrator's or Secretary's assessment of the penalty constitutes an abuse of discretion.
 
 &emsp;(H)
 
@@ -168,7 +168,7 @@ Collection.—If any person fails to pay an assessment of a civil penalty—
 
 &emsp;(I)
 
-Subpoenas.—The Administrator or Secretary, as the case may be, may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, or documents in connection with hearings under this paragraph. In case of contumacy or refusal to obey a subpoena issued pursuant to this subparagraph and served upon any person, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the administrative law judge or to appear and produce documents before the administrative law judge, or both, and any failure to obey such order of the courtmay be punished by such court as a contempt thereof.
+Subpoenas.—The Administrator or Secretary, as the case may be, may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, or documents in connection with hearings under this paragraph. In case of contumacy or refusal to obey a subpoena issued pursuant to this subparagraph and served upon any person, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the administrative law judge or to appear and produce documents before the administrative law judge, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 (7)
 
@@ -450,7 +450,7 @@ In any case where an owner or operator of a vessel or an onshore facility or an 
 
 #### (4) Area Committees and Area Contingency Plans
 
-&emsp;(A) There is established for each area designated by the President an Area Committeecomprised of members appointed by the President from qualified personnel of Federal, State, and local agencies.
+&emsp;(A) There is established for each area designated by the President an Area Committee comprised of members appointed by the President from qualified personnel of Federal, State, and local agencies.
 
 &emsp;(B) Each Area Committee, under the direction of the Federal On-Scene Coordinator for its area, shall—
 
@@ -546,7 +546,7 @@ In any case where an owner or operator of a vessel or an onshore facility or an 
 
 &emsp;&emsp;(A) periodic inspection of containment booms, skimmers, vessels, and other major equipment used to remove discharges; and
 
-&emsp;&emsp;(B) vessels operating on navigable waters and carrying oil or a hazardous substance in bulk as cargo, and nontank vessels carrying oil of any kind as fuel for main propulsion, to carry appropriate removal equipment that employs the best technology economically feasible and that is compatible with the safe operation of the vessel.
+&emsp;&emsp;(B) vessels operating on navigable waters and carrying oil or a hazardous substance in bulk as cargo, and nontank vessels carryingoil of any kind as fuel for main propulsion, to carry appropriate removal equipment that employs the best technology economically feasible and that is compatible with the safe operation of the vessel.
 
 #### (7) Area drills
 
@@ -606,7 +606,7 @@ The several district courts of the United States are invested with jurisdiction 
 
 #### (<i>o</i>) Obligation for damages unaffected; local authority not preempted; existing Federal authority not modified or affected
 
-(1) Nothing in this section shall affect or modify in any way the obligations of any owner or operator of any vessel, or of any owner or operator of any onshore facility or offshore facility to any person or agency under any provision of law for damages to any publicly owned or privately owned property resulting from a discharge of any oil or hazardous substance or from the removal of any such oil or hazardous substance.
+(1) Nothing in this section shall affect or modify in any way the obligations of any owner or operator of any vessel, or of any owner or operator of any onshore facility or offshore facility to any person or agency under any provision of law for damages to any publicly owned or privately owned property resulting from a discharge ofany oil or hazardous substance or from the removal of any such oil or hazardous substance.
 
 (2) Nothing in this section shall be construed as preempting any State or political subdivision thereof from imposing any requirement or liability with respect to the discharge of oil or hazardous substance into any waters within such State, or with respect to any removal activities related to such discharge.
 
@@ -626,7 +626,7 @@ Nothing in this section shall be construed to impose, or authorize the impositio
 
 The Oil Spill Liability Trust Fund established under section 9509 of title 26 shall be available to carry out subsections (b), (c), (d), (j), and (<i>l</i>) of this section as those subsections apply to discharges, and substantial threats of discharges, of oil. Any amounts received by the United States under this section shall be deposited in the Oil Spill Liability Trust Fund.
 
-(June 30, 1948, ch. 758, title III, §311, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 862; amended Pub. L. 93–207, §1(4), Dec. 28, 1973, 87 Stat. 906; Pub. L. 95–217, §§57, 58(a)–(g), (i), (k)–(m), Dec. 27, 1977, 91 Stat. 1593–1596; Pub. L. 95–576, §1(b), Nov. 2, 1978, 92 Stat. 2467; Pub. L. 96–478, §13(b), Oct. 21, 1980, 94 Stat. 2303; Pub. L. 96–483, §8, Oct. 21, 1980, 94 Stat. 2362; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 97–164, title I, §161(5), Apr. 2, 1982, 96 Stat. 49; Pub. L. 100–4, title V, §502(b), Feb. 4, 1987, 101 Stat. 75; Pub. L. 101–380, title II, §2002(b), title IV, §§4201(a), (b), (b)\[(c)\], 4202(a),\(c), 4204, 4301(a), (b), 4305, 4306, Aug. 18, 1990, 104 Stat. 507, 523–527, 532, 533, 540, 541; Pub. L. 102–388, title III, §349, Oct. 6, 1992, 106 Stat. 1554; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–324, title XI, §§1143, 1144, Oct. 19, 1996, 110 Stat. 3992; Pub. L. 105–383, title IV, §411, Nov. 13, 1998, 112 Stat. 3432; Pub. L. 108–293, title VII, §701(a), (b), (d), Aug. 9, 2004, 118 Stat. 1067, 1068; Pub. L. 109–241, title VI, §608, title IX, §901(i), July 11, 2006, 120 Stat. 558, 564.)
+(June 30, 1948, ch. 758, title III, §311, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 862; amended Pub. L. 93–207, §1(4), Dec. 28, 1973, 87 Stat. 906; Pub. L. 95–217, §§57, 58(a)–(g), (i), (k)–(m), Dec. 27, 1977, 91 Stat. 1593–1596; Pub. L. 95–576, §1(b), Nov. 2, 1978, 92 Stat. 2467; Pub. L. 96–478, §13(b), Oct. 21, 1980, 94 Stat. 2303; Pub. L. 96–483, §8, Oct. 21, 1980, 94 Stat. 2362; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 97–164, title I, §161(5), Apr. 2, 1982, 96 Stat. 49; Pub. L. 100–4, title V, §502(b), Feb. 4, 1987, 101 Stat. 75; Pub. L. 101–380, title II, §2002(b), title IV, §§4201(a), (b), (b)\[(c)\], 4202(a), (c), 4204, 4301(a), (b), 4305, 4306, Aug. 18, 1990, 104 Stat. 507, 523–527, 532, 533, 540, 541; Pub. L. 102–388, title III, §349, Oct. 6, 1992, 106 Stat. 1554; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–324, title XI, §§1143, 1144, Oct. 19, 1996, 110 Stat. 3992; Pub. L. 105–383, title IV, §411, Nov. 13, 1998, 112 Stat. 3432; Pub. L. 108–293, title VII, §701(a), (b), (d), Aug. 9, 2004, 118 Stat. 1067, 1068; Pub. L. 109–241, title VI, §608, title IX, §901(i), July 11, 2006, 120 Stat. 558, 564.)
 
 #### References in Text
 
@@ -652,11 +652,11 @@ Par. (3) of section 1901(a) of this title, referred to in subsec. (j)(5)(B), was
 
 #### Codification
 
-In subsec. (b)(12)(A), “section 60105 of title 46” substituted for “section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
+In subsec. (b)(12)(A), “section 60105 of title 46” substituted for “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
 
 #### Amendments
 
-2006—Subsec. (a)(26). Pub. L. 109–241, §608, amended par. (26) generally. Prior to amendment, par. (26) read as follows: “ ‘nontank vessel’ means a self-propelled vessel of 400 gross tons as measured under section 14302 of title 46 or greater, other than a tank vessel, that carries oil of any kind as fuel for main propulsion and that—
+<b>2006</b>—Subsec. (a)(26). Pub. L. 109–241, §608, amended par. (26) generally. Prior to amendment, par. (26) read as follows: “ ‘nontank vessel’ means a self-propelledvessel of 400 gross tons as measured under section 14302 of title 46 or greater, other than a tank vessel, that carries oil of any kind as fuel for main propulsion and that—
 
 &emsp;“(A) is a vessel of the United States; or
 
@@ -666,7 +666,7 @@ Subsec. (j)(5)(A)(ii), (B), (F), and (G). Pub. L. 109–241, §901(i)(1), substi
 
 Subsec. (j)(5)(H). Pub. L. 109–241, §901(i)(2), amended directory language of Pub. L. 108–293, §701(b)(9). See 2004 Amendment note below.
 
-2004—Subsec. (a)(26). Pub. L. 108–293, §701(a), added par. (26).
+<b>2004</b>—Subsec. (a)(26). Pub. L. 108–293, §701(a), added par. (26).
 
 Subsec. (j)(5). Pub. L. 108–293, §701(b)(1), inserted “, nontank vessel,” after “vessel” in heading.
 
@@ -706,7 +706,7 @@ Subsec. (j)(6)(B). Pub. L. 108–293, §701(b)(11), inserted “, and nontank v
 
 Subsec. (j)(7). Pub. L. 108–293, §701(b)(12), inserted “, nontank vessel,” after “vessel”.
 
-1998—Subsec. (a)(2). Pub. L. 105–383, §411(b), substituted “, (C)” for “and (C)” and inserted “, and (D) discharges incidental to mechanical removal authorized by the President under subsection (c) of this section” before semicolon at end.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–383, §411(b), substituted “, (C)” for “and (C)” and inserted “, and (D) discharges incidental to mechanical removal authorized by the President under subsection (c) of this section” before semicolon at end.
 
 Subsec. (a)(8). Pub. L. 105–383, §411(a)(1), substituted “to prevent, minimize, or mitigate damage” for “to minimize or mitigate damage”.
 
@@ -714,7 +714,7 @@ Subsec. (a)(25). Pub. L. 105–383, §411(a)(2), added par. (25).
 
 Subsec. (c)(4)(A). Pub. L. 105–383, §411(a)(3), inserted “relating to a discharge or a substantial threat of a discharge of oil or a hazardous substance” before period at end.
 
-1996—Subsec. (b)(1), (2)(A), (3). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery” wherever appearing.
+<b>1996</b>—Subsec. (b)(1), (2)(A), (3). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery” wherever appearing.
 
 Subsec. (c)(3)(B). Pub. L. 104–324, §1144, inserted “, except that the owner or operator may deviate from the applicable response plan if the President or the Federal On-Scene Coordinator determines that deviation from the response plan would provide for a more expeditious or effective response to the spill or mitigation of its environmental effects” before period at end.
 
@@ -722,11 +722,11 @@ Subsec. (j)(2)(A). Pub. L. 104–324, §1143(1), inserted “and of information 
 
 Subsec. (j)(4)(C)(v). Pub. L. 104–324, §1143(2), inserted “compile a list of local scientists, both inside and outside Federal Government service, with expertise in the environmental effects of spills of the types of oil typically transported in the area, who may be contacted to provide information or, where appropriate, participate in meetings of the scientific support team convened in response to a spill, and” before “describe”.
 
-1992—Subsec. (b)(12). Pub. L. 102–388 added par. (12).
+<b>1992</b>—Subsec. (b)(12). Pub. L. 102–388 added par. (12).
 
 Subsec. (i). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1990—Subsec. (a)(8). Pub. L. 101–380, §4201(b)(1)\[(c)(1)\], inserted “containment and” after “refers to”.
+<b>1990</b>—Subsec. (a)(8). Pub. L. 101–380, §4201(b)(1)\[(c)(1)\], inserted “containment and” after “refers to”.
 
 Subsec. (a)(16). Pub. L. 101–380, §4201(b)(2)\[(c)(2)\], substituted semicolon for period at end.
 
@@ -766,11 +766,11 @@ Subsec. (p). Pub. L. 101–380, §2002(b)(4), struck out subsec. (p) which provi
 
 Subsec. (s). Pub. L. 101–380, §2002(b)(5), added subsec. (s).
 
-1987—Subsec. (a)(5). Pub. L. 100–4 substituted “the Commonwealth of the Northern Mariana Islands” for “the Canal Zone”.
+<b>1987</b>—Subsec. (a)(5). Pub. L. 100–4 substituted “the Commonwealth of the Northern Mariana Islands” for “the Canal Zone”.
 
-1982—Subsec. (i)(1), (3). Pub. L. 97–164 substituted “Claims Court” for “Court of Claims”.
+<b>1982</b>—Subsec. (i)(1), (3). Pub. L. 97–164 substituted “Claims Court” for “Court of Claims”.
 
-1980—Subsec. (b)(1), (2)(A), (3). Pub. L. 96–561 substituted “Magnuson Fishery Conservation and Management Act” for “Fishery Conservation and Management Act of 1976”.
+<b>1980</b>—Subsec. (b)(1), (2)(A), (3). Pub. L. 96–561 substituted “Magnuson Fishery Conservation and Management Act” for “Fishery Conservation and Management Act of 1976”.
 
 Subsec. (b)(3)(A). Pub. L. 96–478 struck out “of oil” after “in the case of such discharges” and substituted “Protocol of 1978 Relating to the International Convention for the Prevention of Pollution from Ships, 1973” for “International Convention for the Prevention of Pollution of the Sea by Oil, 1954, as amended”.
 
@@ -778,7 +778,7 @@ Subsec. (c)(1). Pub. L. 96–561 substituted “Magnuson Fishery Conservation an
 
 Subsec. (k). Pub. L. 96–483 designated existing provisions as par. (1) and added par. (2).
 
-1978—Subsec. (a)(2). Pub. L. 95–576, §1(b)(1), excluded discharges described in cls. (A) to (C) from term “discharge”.
+<b>1978</b>—Subsec. (a)(2). Pub. L. 95–576, §1(b)(1), excluded discharges described in cls. (A) to (C) from term “discharge”.
 
 Subsec. (a)(17). Pub. L. 95–576, §1(b)(2), added par. (17).
 
@@ -792,7 +792,7 @@ Subsec. (b)(5). Pub. L. 95–576, §1(b)(6), inserted “at the time of the disc
 
 Subsec. (b)(6)(A) to (E). Pub. L. 95–576, §1(b)(7), designated existing provisions as subpar. (A), inserted “at the time of the discharge” after “jurisdiction of the United States”, and added subpars. (B) to (E).
 
-1977—Subsec. (a)(11). Pub. L. 95–217, §58(k), inserted “, and any facility of any kind which is subject to the jurisdiction of the United States and is located in, on, or under any other waters,” after “United States”.
+<b>1977</b>—Subsec. (a)(11). Pub. L. 95–217, §58(k), inserted “, and any facility of any kind which is subject to the jurisdiction of the United States and is located in, on, or under any other waters,” after “United States”.
 
 Subsec. (a)(15), (16). Pub. L. 95–217, §58(d)(1), added pars. (15) and (16).
 
@@ -834,7 +834,7 @@ Subsec. (p)(1). Pub. L. 95–217, §58(d)(4), substituted “, in the case of a
 
 Subsecs. (q), (r). Pub. L. 95–217, §58(i), added subsecs. (q) and (r).
 
-1973—Subsec. (f). Pub. L. 93–207, §1(4)(A), (B), substituted “(b)(3)” for “(b)(2)” wherever appearing in pars. (1) to (3), and substituted “Administrator” for “Secretary” in last sentence of par. (2).
+<b>1973</b>—Subsec. (f). Pub. L. 93–207, §1(4)(A), (B), substituted “(b)(3)” for “(b)(2)” wherever appearing in pars. (1) to (3), and substituted “Administrator” for “Secretary” in last sentence of par. (2).
 
 Subsecs. (g), (i). Pub. L. 93–207, §1(4)(C), substituted “(b)(3)” for “(b)(2)” wherever appearing.
 
@@ -852,7 +852,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of this title.
+Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L.101–380, set out as an Effective Date note under section 2701 of this title.
 
 #### Effective Date of 1982 Amendment
 
@@ -885,6 +885,36 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 #### Termination of United States District Court for the District of the Canal Zone
 
 For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+
+#### Rulemakings
+
+Pub. L. 111–281, title VII, §701(a), (b), Oct. 15, 2010, 124 Stat. 2980, provided that:
+
+“(a)
+
+Status Report.—
+
+&emsp;“(1)
+
+In general.—Not later than 90 days after the date of enactment of this Act \[Oct. 15, 2010\], the Secretary of the department in which the Coast Guard is operating shall provide a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure on the status of all Coast Guard rulemakings required or otherwise being developed (but for which no final rule has been issued as of the date of enactment of this Act) under section 311 of the Federal Water Pollution Control Act (33 U.S.C. 1321).
+
+&emsp;“(2)
+
+Information required.—The Secretary shall include in the report required in paragraph (1)—
+
+&emsp;&emsp;“(A) a detailed explanation with respect to each such rulemaking as to—
+
+&emsp;&emsp;&emsp;“(i) what steps have been completed;
+
+&emsp;&emsp;&emsp;“(ii) what areas remain to be addressed; and
+
+&emsp;&emsp;&emsp;“(iii) the cause of any delays; and
+
+&emsp;&emsp;“(B) the date by which a final rule may reasonably be expected to be issued.
+
+“(b)
+
+Final Rules.—The Secretary shall issue a final rule in each pending rulemaking described in subsection (a) as soon as practicable, but in no event later than 18 months after the date of enactment of this Act.”
 
 #### Implementation Date for Vessel Response Plans for Nontank Vessels
 

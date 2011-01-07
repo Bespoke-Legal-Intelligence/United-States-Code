@@ -24,23 +24,23 @@ The clause in said last paragraph of section 1 of title 28 providing that any di
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–317 inserted “the Southern District of New York, and the Eastern District ofNew York,” after “the District of Columbia,” and inserted “Each district judge of the Southern District of New York and the Eastern District of New York may reside within 20 miles of the district to which he or she is appointed.” at end.
+<b>1996</b>—Subsec. (b). Pub. L. 104–317 inserted “the Southern District of New York, and the Eastern District of New York,” after “the District of Columbia,” and inserted “Each district judge of the Southern District of New York and the Eastern District of New York may reside within 20 miles of the district to which he or she is appointed.” at end.
 
-1971—Subsec. (c). Pub. L. 92–208 struck out provision requiring that one of the district judges for the Eastern District of Louisiana reside in East Baton Rouge Parish, Louisiana.
+<b>1971</b>—Subsec. (c). Pub. L. 92–208 struck out provision requiring that one of the district judges for the Eastern District of Louisiana reside in East Baton Rouge Parish, Louisiana.
 
-1966—Subsec. (a). Pub. L. 89–571 struck out provisions which excepted district judges in Puerto Rico from tenure during good behavior and which instead set eight-year terms for them to be served until their successors were appointed and qualified.
+<b>1966</b>—Subsec. (a). Pub. L. 89–571 struck out provisions which excepted district judges in Puerto Rico from tenure during good behavior and which instead set eight-year terms for them to be served until their successors were appointed and qualified.
 
-1961—Subsec. (c). Pub. L. 87–36 required the residence of one of the district judges for the Eastern District of Louisiana to be in East Baton Rouge Parish, Louisiana.
+<b>1961</b>—Subsec. (c). Pub. L. 87–36 required the residence of one of the district judges for the Eastern District of Louisiana to be in East Baton Rouge Parish, Louisiana.
 
-1959—Subsec. (a). Pub. L. 86–3 struck out provisions which limited district judges in Hawaii to a term of six years.
+<b>1959</b>—Subsec. (a). Pub. L. 86–3 struck out provisions which limited district judges in Hawaii to a term of six years.
 
-1954—Subsecs. (a) and (b) reenacted without change by act Feb. 10, 1954.
+<b>1954</b>—Subsecs. (a) and (b) reenacted without change by act Feb. 10, 1954.
 
 Subsec. (c). Act Feb. 10, 1954, substituted entirely new provisions giving the judicial council of the circuit the authority to determine residence of district judges when it is in the public interest and the nature of the business of the district court necessitates the presence of a judge at or near a particular place for holding court in the district or within a particular part of the district, for former provisions relating to residence of one of the district judges for the District of Kansas.
 
 Subsecs. (d), (e). Act Feb. 10, 1954, struck out subsecs. (d) and (e) which related to residence of one of the district judges for the Southern District of California and one of the district judges for the Southern District of Texas.
 
-1949—Subsecs. (c) to (e). Act Aug. 3, 1949, added subsecs. (c) to (e).
+<b>1949</b>—Subsecs. (c) to (e). Act Aug. 3, 1949, added subsecs. (c) to (e).
 
 #### Effective Date of 1971 Amendment
 

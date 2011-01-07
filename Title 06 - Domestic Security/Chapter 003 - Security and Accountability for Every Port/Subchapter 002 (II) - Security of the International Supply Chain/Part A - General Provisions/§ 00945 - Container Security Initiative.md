@@ -114,7 +114,7 @@ The Secretary, acting through the Commissioner, may treat cargo loaded in a fore
 
 #### (2) Updated report
 
-&emsp;Not later than September 30, 2010, the Secretary, acting through the Commissioner, shall, in consultation with other appropriate government officials and the Commercial Operations Advisory Committee, submit an updated report to the appropriate congressional committees on the effectiveness of, and theneed for any improvements to, the Container Security Initiative. The updated report shall address each of the elements required to be included in the report provided for under paragraph (1).
+&emsp;Not later than September 30, 2010, the Secretary, acting through the Commissioner, shall, in consultation with other appropriate government officials and the Commercial Operations Advisory Committee, submit an updated report to the appropriate congressional committees on the effectiveness of, and the need for any improvements to, the Container Security Initiative. The updated report shall address each of the elements required to be included in the report provided for under paragraph (1).
 
 #### (m) Authorization of appropriations
 
@@ -127,4 +127,32 @@ There are authorized to be appropriated to the United States Customs and Border 
 &emsp;(3) $153,300,000 for fiscal year 2010.
 
 (Pub. L. 109–347, title II, §205, Oct. 13, 2006, 120 Stat. 1906.)
+
+#### International Port and Facility Inspection Coordination
+
+Pub. L. 111–281, title VIII, §825, Oct. 15, 2010, 124 Stat. 3004, provided that:
+
+“(a)
+
+Coordination.—The Secretary of the department in which the Coast Guard is operating shall, to the extent practicable, conduct the assessments required by the following provisions of law concurrently, or develop a process by which they are integrated and conducted by the Coast Guard:
+
+&emsp;“(1) Section 205 of the SAFE Port Act (6 U.S.C. 945).
+
+&emsp;“(2) Section 213 of that Act (6 U.S.C. 964 \[963\]).
+
+&emsp;“(3) Section 70108 of title 46, United States Code.
+
+“(b)
+
+Limitation.—Nothing in subsection (a) shall be construed to affect or diminish the Secretary's authority or discretion—
+
+&emsp;“(1) to conduct an assessment of a foreign port at any time;
+
+&emsp;“(2) to compel the Secretary to conduct an assessment of a foreign port so as to ensure that 2 or more assessments are conducted concurrently; or
+
+&emsp;“(3) to cancel an assessment of a foreign port if the Secretary is unable to conduct 2 or more assessments concurrently.
+
+“(c)
+
+Multiple Assessment Report.—The Secretary shall provide written notice to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Homeland Security of the House of Representatives whenever the Secretary conducts 2 or more assessments of the same port within a 3-year period.”
 

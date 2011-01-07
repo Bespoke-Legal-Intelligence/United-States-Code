@@ -48,7 +48,7 @@ For purposes of the deficiency procedures of subtitle F, any tax imposed by this
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–647, §2004(<i>o</i>)(1)(A), substituted “gain or other income of such person by reason of such receipt” for “gain realized by such person on such receipt”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §2004(<i>o</i>)(1)(A), substituted “gain or other income of such person by reason of such receipt” for “gain realized by such person on such receipt”.
 
 Subsec. (b). Pub. L. 100–647, §2004(<i>o</i>)(1)(B)(i), substituted “a corporation (or any person acting in concert with such corporation) to directly or indirectly acquire stock of such corporation” for “a corporation to directly or indirectly acquire its stock”.
 

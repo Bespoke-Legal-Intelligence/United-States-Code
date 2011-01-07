@@ -18,7 +18,7 @@ A prior part IV, relating to effective date for subchapter, consisted of section
 
 #### Amendments
 
-1997—Pub. L. 105–34, title XII, §1221(a), Aug. 5, 1997, 111 Stat. 1001, added part heading and section analysis.
+<b>1997</b>—Pub. L. 105–34, title XII, §1221(a), Aug. 5, 1997, 111 Stat. 1001, added part heading and section analysis.
 
 
 ---

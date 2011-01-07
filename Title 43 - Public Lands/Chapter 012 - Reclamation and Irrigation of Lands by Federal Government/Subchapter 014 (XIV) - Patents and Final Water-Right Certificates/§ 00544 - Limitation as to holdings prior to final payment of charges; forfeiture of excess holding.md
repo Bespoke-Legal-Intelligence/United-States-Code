@@ -14,7 +14,7 @@ Section comprises part of section 3 of act Aug. 9, 1912. Remainder of section 3 
 
 #### Amendments
 
-1956—Act July 11, 1956, increased period during which land could be held from two years to five years, and to authorize delivery of water for that period.
+<b>1956</b>—Act July 11, 1956, increased period during which land could be held from two years to five years, and to authorize delivery of water for that period.
 
 #### Amendment of Existing Contracts
 

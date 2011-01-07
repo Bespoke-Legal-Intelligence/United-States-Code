@@ -66,7 +66,7 @@ There is hereby imposed on all wines (including imitation, substandard, or artif
 
 #### (d) Wine gallon
 
-For the purpose of this chapter, the term “wine gallon” means a United States gallon of liquid measure equivalent to the volume of 231 cubic inches. On lesser quantities the tax shall be paid proportionately (fractions of less than one-tenth gallon being converted to the nearest one-tenth gallon, and five-hundredths gallonbeing converted to the next full one-tenth gallon).
+For the purpose of this chapter, the term “wine gallon” means a United States gallon of liquid measure equivalent to the volume of 231 cubic inches. On lesser quantities the tax shall be paid proportionately (fractions of less than one-tenth gallon being converted to the nearest one-tenth gallon, and five-hundredths gallon being converted to the next full one-tenth gallon).
 
 #### (e) Tolerances
 
@@ -84,19 +84,19 @@ A prior section 5041, acts Aug. 16, 1954, ch. 736, 68A Stat. 609; Mar. 30, 1955,
 
 #### Amendments
 
-1998—Subsec. (b)(6). Pub. L. 105–206 inserted “which is a still wine” after “hard cider”.
+<b>1998</b>—Subsec. (b)(6). Pub. L. 105–206 inserted “which is a still wine” after “hard cider”.
 
-1997—Subsec. (b)(6). Pub. L. 105–34, §908(a), added par. (6).
+<b>1997</b>—Subsec. (b)(6). Pub. L. 105–34, §908(a), added par. (6).
 
 Subsec. (c)(1). Pub. L. 105–34, §908(b), inserted at end “In the case of wine described in subsection (b)(6), the preceding sentence shall be applied by substituting ‘5.6 cents’ for ‘90 cents’.”
 
-1996—Subsec. (c)(6), (7). Pub. L. 104–188 added pars. (6) and (7) and struck out former par. (6) which read as follows:
+<b>1996</b>—Subsec. (c)(6), (7). Pub. L. 104–188 added pars. (6) and (7) and struck out former par. (6) which read as follows:
 
 “(6)
 
 Regulations.—The Secretary may prescribe such regulations as may be necessary to prevent the credit provided in this subsection from benefiting any person who produces more than 250,000 wine gallons of wine during a calendar year and to assure proper reduction of such credit for persons producing more than 150,000 wine gallons of wine during a calendar year.”
 
-1990—Subsec. (b)(1). Pub. L. 101–508, §11201(b)(1)(A), substituted “$1.07” for “17 cents”.
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–508, §11201(b)(1)(A), substituted “$1.07” for “17 cents”.
 
 Subsec. (b)(2). Pub. L. 101–508, §11201(b)(1)(B), substituted “$1.57” for “67 cents”.
 
@@ -106,27 +106,27 @@ Subsec. (b)(5). Pub. L. 101–508, §11201(b)(1)(D), substituted “$3.30” for
 
 Subsecs. (c) to (f). Pub. L. 101–508, §11201(b)(2), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 
-1988—Subsecs. (d), (e). Pub. L. 100–647 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1988</b>—Subsecs. (d), (e). Pub. L. 100–647 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1974—Subsec. (a). Pub. L. 93–490 substituted “0.392” for “0.277”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–490 substituted “0.392” for “0.277”.
 
-1965—Subsec. (a). Pub. L. 89–44, §806(a), substituted “0.277” for “0.256”.
+<b>1965</b>—Subsec. (a). Pub. L. 89–44, §806(a), substituted “0.277” for “0.256”.
 
 Subsec. (b). Pub. L. 89–44, §501(c)(1)–(5), struck out provisions at end of each par. setting out a specified reduced rate to be applied on and after July 1, 1965.
 
-1964—Subsec. (b). Pub. L. 88–348 substituted “July 1, 1965” for “July 1, 1964” in five places.
+<b>1964</b>—Subsec. (b). Pub. L. 88–348 substituted “July 1, 1965” for “July 1, 1964” in five places.
 
-1963—Subsec. (b). Pub. L. 88–52 substituted “July 1, 1964” for “July 1, 1963” in five places.
+<b>1963</b>—Subsec. (b). Pub. L. 88–52 substituted “July 1, 1964” for “July 1, 1963” in five places.
 
-1962—Subsec. (b). Pub. L. 87–508 substituted “July 1, 1963” for “July 1, 1962” in five places.
+<b>1962</b>—Subsec. (b). Pub. L. 87–508 substituted “July 1, 1963” for “July 1, 1962” in five places.
 
-1961—Subsec. (b). Pub. L. 87–72 substituted “July 1, 1962” for “July 1, 1961” in five places.
+<b>1961</b>—Subsec. (b). Pub. L. 87–72 substituted “July 1, 1962” for “July 1, 1961” in five places.
 
-1960—Subsec. (b). Pub. L. 86–564 substituted “July 1, 1961” for “July 1, 1960” in five places.
+<b>1960</b>—Subsec. (b). Pub. L. 86–564 substituted “July 1, 1961” for “July 1, 1960” in five places.
 
-1959—Subsec. (b). Pub. L. 86–75 substituted “July 1, 1960” for “July 1, 1959” in five places.
+<b>1959</b>—Subsec. (b). Pub. L. 86–75 substituted “July 1, 1960” for “July 1, 1959” in five places.
 
 #### Effective Date of 1998 Amendment
 

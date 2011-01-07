@@ -12,15 +12,15 @@ See note under section 31.
 
 #### Amendments
 
-2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
+<b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
 
-1999—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” in first and last sentences.
+<b>1999</b>—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” in first and last sentences.
 
 Pub. L. 106–113, §1000(a)(9) \[title IV, §4719\], inserted before last sentence “The Director shall have the discretion to designate any attorney who is an officer or employee of the United States Patent and Trademark Office to conduct the hearing required by this section.”
 
 Pub. L. 106–113, §1000(a)(9) \[title IV, §4715(c)\], substituted “2(b)(2)(D)” for “31”.
 
-1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
 #### Effective Date of 1999 Amendment
 

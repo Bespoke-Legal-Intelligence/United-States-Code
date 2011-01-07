@@ -90,9 +90,9 @@ The basis of property received in a distribution to which subsection (a) applies
 
 #### Amendments
 
-2003—Subsec. (f)(4). Pub. L. 108–27, §§302(e)(2), 303, temporarily added par. (4). See Effective and Termination Dates of 2003 Amendment note below.
+<b>2003</b>—Subsec. (f)(4). Pub. L. 108–27, §§302(e)(2), 303, temporarily added par. (4). See Effective and Termination Dates of 2003 Amendment note below.
 
-1988—Subsec. (b)(1). Pub. L. 100–647, §1006(e)(10), amended par. (1) generally. Prior to amendment, par. (1) contained subpars. (A) to (D) which provided what the amount of any distribution would be for noncorporate distributees, corporate distributees, certain corporate distributees of foreign corporations, and foreign corporate distributees.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–647, §1006(e)(10), amended par. (1) generally. Prior to amendment, par. (1) contained subpars. (A) to (D) which provided what the amount of any distribution would be for noncorporate distributees, corporate distributees, certain corporate distributees of foreign corporations, and foreign corporate distributees.
 
 Subsec. (d). Pub. L. 100–647, §1006(e)(11), amended subsec. (d) generally. Prior to amendment, subsec. (d) contained pars. (1) to (4) which provided what the basis of property received would be for noncorporate distributees, corporate distributees, foreign corporate distributees, and certain corporate distributees of foreign corporations.
 
@@ -102,13 +102,13 @@ Pub. L. 100–647, §1006(e)(12), redesignated subsec. (f) as (e) and struck out
 
 Subsecs. (f), (g). Pub. L. 100–647, §1006(e)(12), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-1987—Subsec. (f)(1). Pub. L. 100–203 substituted “subsections (k) and (n)” for “subsection (n)”.
+<b>1987</b>—Subsec. (f)(1). Pub. L. 100–203 substituted “subsections (k) and (n)” for “subsection (n)”.
 
-1986—Subsec. (f)(3). Pub. L. 99–514, §1804(f)(2)(B), substituted “this subsection” for “this section”.
+<b>1986</b>—Subsec. (f)(3). Pub. L. 99–514, §1804(f)(2)(B), substituted “this subsection” for “this section”.
 
 Subsec. (g)(4). Pub. L. 99–514, §612(b)(1), struck out par. (4) which provided: “For partial exclusion from gross income of dividends received by individuals, see section 116.”
 
-1984—Subsec. (e). Pub. L. 98–369, §54(b), added subsec. (e). Former subsec. (e) redesignated (f).
+<b>1984</b>—Subsec. (e). Pub. L. 98–369, §54(b), added subsec. (e). Former subsec. (e) redesignated (f).
 
 Subsec. (e)(2). Pub. L. 98–369, §712(i)(1), substituted “complete liquidation” for “partial or complete liquidation” in subsec. (e)(2), which became subsec. (g)(2).
 
@@ -120,11 +120,11 @@ Subsec. (g). Pub. L. 98–369, §§54(b), 61(d), redesignated former subsec. (e)
 
 Subsec. (g)(2). Pub. L. 98–369, §712(i)(1), substituted “complete liquidation” for “partial or complete liquidation” in subsec. (e)(2), which became subsec. (g)(2).
 
-1978—Subsec. (b)(1)(B)(ii). Pub. L. 95–628, §3(a), substituted “amount of gain recognized to the distributing corporation on the distribution” for “amount of gain to the distributing corporation which is recognized under subsection (b), (c), or (d) of section 311, under section 341(f), or under section 617(d)(1), 1245(a), 1250(a), 1251(c), 1252(a), or 1254(a)”.
+<b>1978</b>—Subsec. (b)(1)(B)(ii). Pub. L. 95–628, §3(a), substituted “amount of gain recognized to the distributing corporation on the distribution” for “amount of gain to the distributing corporation which is recognized under subsection (b), (c), or (d) of section 311, under section 341(f), or under section 617(d)(1), 1245(a), 1250(a), 1251(c), 1252(a), or 1254(a)”.
 
 Subsec. (d)(2)(B). Pub. L. 95–628, §3(b), substituted “amount of gain recognized to the distributing corporation on the distribution” for “amount of gain to the distributing corporation which is recognized under subsection (b), (c), or (d) of section 311, under section 341(f), or under section 617(d)(1), 1245(a), 1250(a), 1251(c), 1252(a), or 1254(a)”.
 
-1976—Subsec. (b)(1)(B)(ii). Pub. L. 94–455, §205(c)(1)(B), substituted “1252(a), or 1254(a)” for “or 1252(a)”.
+<b>1976</b>—Subsec. (b)(1)(B)(ii). Pub. L. 94–455, §205(c)(1)(B), substituted “1252(a), or 1254(a)” for “or 1252(a)”.
 
 Subsec. (b)(1)(C). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
@@ -136,7 +136,7 @@ Subsec. (f). Pub. L. 94–455, §1901(b)(32)(A), struck out subsec. (f) which re
 
 Subsec. (g). Pub. L. 94–455, §1901(b)(32)(A), redesignated subsec. (g) as (e).
 
-1971—Subsec. (b)(1)(B). Pub. L. 92–178, §312(a)(1), substituted “corporation, unless subparagraph (D) applies” for “corporation” where first appearing.
+<b>1971</b>—Subsec. (b)(1)(B). Pub. L. 92–178, §312(a)(1), substituted “corporation, unless subparagraph (D) applies” for “corporation” where first appearing.
 
 Subsec. (b)(1)(D). Pub. L. 92–178, §312(a)(2), added subpar. (D).
 
@@ -144,17 +144,17 @@ Subsec. (d)(2). Pub. L. 92–178, §312(a)(3), substituted “corporation, unles
 
 Subsec. (d)(3), (4). Pub. L. 92–178, §312(a)(4), added par. (3) and redesignated former par. (3) as (4).
 
-1969—Subsec. (b)(1)(B)(ii). Pub. L. 91–172, §§211(b)(1), 905(b)(2), substituted “1250(a), 1251(c), or 1252(a)” for “or 1250(a)” and inserted reference to section 311(a).
+<b>1969</b>—Subsec. (b)(1)(B)(ii). Pub. L. 91–172, §§211(b)(1), 905(b)(2), substituted “1250(a), 1251(c), or 1252(a)” for “or 1250(a)” and inserted reference to section 311(a).
 
 Subsec. (d)(2)(B). Pub. L. 91–172, §§211(b)(2), 905(b)(2), substituted “1250(a), 1251(c), or 1252(a)”, for “or 1250(a)” and inserted reference to section 311(a).
 
-1966—Subsec. (b)(1)(B)(ii). Pub. L. 89–570 included reference to section 617(d)(1).
+<b>1966</b>—Subsec. (b)(1)(B)(ii). Pub. L. 89–570 included reference to section 617(d)(1).
 
 Subsec. (b)(1)(C). Pub. L. 89–809 substituted “gross income which is effectively connected with the conduct of a trade or business within the United States” for “gross income from sources within the United States” in cl. (i), “gross income which is not effectively connected with the conduct of a trade or business within the United States” for “gross income from sources without the United States” in cl. (ii), and inserted text following cl. (ii) setting out the treatment to be accorded gross income for any period before the first taxable year beginning after December 31, 1966.
 
 Subsec. (d)(2)(B). Pub. L. 89–570 included reference to section 617(d)(1).
 
-1964—Subsec. (b). Pub. L. 88–484 included amount of gain recognized under section 341(f).
+<b>1964</b>—Subsec. (b). Pub. L. 88–484 included amount of gain recognized under section 341(f).
 
 Pub. L. 88–272 inserted reference to section 1250(a).
 
@@ -162,7 +162,7 @@ Subsec. (d). Pub. L. 88–484 included amount of gain recognized under section 3
 
 Pub. L. 88–272 inserted reference to section 1250(a).
 
-1962—Subsec. (b)(1)(B). Pub. L. 87–834, §13(f)(2), substituted “subsection (b) or (c) of section 311 or under section 1245(a)” for “subsection (b) or (c) of section 311”.
+<b>1962</b>—Subsec. (b)(1)(B). Pub. L. 87–834, §13(f)(2), substituted “subsection (b) or (c) of section 311 or under section 1245(a)” for “subsection (b) or (c) of section 311”.
 
 Subsec. (b)(1)(C). Pub. L. 87–834, §5(a), added subpar. (C).
 
@@ -176,7 +176,7 @@ Subsecs. (f), (g). Pub. L. 87–403 added subsec. (f) and redesignated former su
 
 Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as a note under section 1 of this title.
 
-Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
+Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, as amended, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -204,7 +204,7 @@ Exception.—The amendment made by paragraph (1) shall not apply for purposes of
 
 Section 612(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and sections 584, 642, 643, 702, 854, and 857 of this title, repealing section 116 of this title, and enacting provisions set out as a note under section 584 of this title\] shall apply to taxable years beginning after December 31, 1986.”
 
-Amendment by section 1804(f)(2)(B) of Pub. L. 99–514 effective, except as otherwise provided, as if included inthe provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1804(f)(2)(B) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 

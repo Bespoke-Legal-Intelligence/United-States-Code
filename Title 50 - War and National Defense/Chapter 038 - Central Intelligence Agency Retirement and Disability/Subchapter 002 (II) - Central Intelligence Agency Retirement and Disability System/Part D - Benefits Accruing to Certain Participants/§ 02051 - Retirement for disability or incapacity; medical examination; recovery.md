@@ -32,7 +32,7 @@
 
 #### (2) Coordination with military retired pay and veterans’ compensation and pension
 
-&emsp;If a participant retiring under this section is receiving retired pay or retainer pay for military service (except that specified in section 2082(e)(3) of this title) or Department of Veterans Affairs compensation or pension in lieu of such retired or retainer pay, the annuity of that participant shall be computed under section 2031(a) of this title, excluding credit for such military service from that computation. If the amount of the annuity so computed, plus the retired or retainer pay which is received, or which would be received but for the application of the limitation in section 5532 <sup>1</sup> of title 5, or the Department of Veterans Affairs compensation or pension in lieu of such retired or retainer pay, is less than the annuity that would be payable under this section in the absence of the previous sentence, an amount equal to the difference shall be added to the annuity payable under section 2031(a) of this title.
+&emsp;If a participant retiring under this section is receiving retired pay or retainer pay for military service (except that specified in section 2082(e)(3) of this title) or Department of Veterans Affairs compensation or pension in lieu ofsuch retired or retainer pay, the annuity of that participant shall be computed under section 2031(a) of this title, excluding credit for such military service from that computation. If the amount of the annuity so computed, plus the retired or retainer pay which is received, or which would be received but for the application of the limitation in section 5532 <sup>1</sup> of title 5, or the Department of Veterans Affairs compensation or pension in lieu of such retired or retainer pay, is less than the annuity that would be payable under this section in the absence of the previous sentence, an amount equal to the difference shall be added to the annuity payable under section 2031(a) of this title.
 
 #### (c) Medical examinations
 
@@ -126,7 +126,7 @@ A prior section 231 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1046;
 
 #### Amendments
 
-1993—Subsec. (d)(2). Pub. L. 103–178 substituted “2071(a) of this title” for “2071(b) of this title”.
+<b>1993</b>—Subsec. (d)(2). Pub. L. 103–178 substituted “2071(a) of this title” for “2071(b) of this title”.
 
 #### Effective Date of 1993 Amendment
 

@@ -30,7 +30,7 @@ For purposes of this section—
 
 #### (2) Special trial judges
 
-&emsp;Any special trial judge may by written election filed with the chief judge bring himself or herself within the purview of this section.Such election shall be filed not later than the later of 6 months after—
+&emsp;Any special trial judge may by written election filed with the chief judge bring himself or herself within the purview of this section. Such election shall be filed not later than the later of 6 months after—
 
 &emsp;&emsp;(A) 6 months after the date of the enactment of this paragraph,
 
@@ -156,7 +156,7 @@ The annuity of the surviving spouse of a judge or special trial judge electing u
 
 #### (n) Includible service
 
-Subject to the provisions of subsection (d), the years of service of a judge or special trial judge which are allowable as the basis for calculating the amount of the annuity of his surviving spouse shall include his years of service as a member of the United States Board of Tax Appeals, as a judge or special trial judge of the Tax Court of the United States, and as a judge orspecial trial judge of the Tax Court, his years of service pursuant to any appointment under section 7443A, his years of service as a Senator, Representative, Delegate, or Resident Commissioner in Congress, his years of active service as a member of the Armed Forces of the United States not exceeding 5 years in the aggregate and not including any such service for which credit is allowed for the purposes of retirement or retired pay under any other provision of law, and his years of any other civilian service within the purview of section 8332 of title 5 of the United States Code.
+Subject to the provisions of subsection (d), the years of service of a judge or special trial judge which are allowable as the basis for calculating the amount of the annuity of his surviving spouse shall include his years of service as a member of the United States Board of Tax Appeals, as a judge or special trial judge of the Tax Court of the United States, and as a judge or special trial judge of the Tax Court, his years of service pursuant to any appointment under section 7443A, his years of service as a Senator, Representative, Delegate, or Resident Commissioner in Congress, his years of active service as a member of the Armed Forces of the United States not exceeding 5 years in the aggregate and not including any such service for which credit is allowed for the purposes of retirement or retired pay under any other provision of law, and his years of any other civilian service within the purview of section 8332 of title 5 of the United States Code.
 
 #### (<i>o</i>) Simultaneous entitlement
 
@@ -194,7 +194,7 @@ The date of the enactment of this paragraph, referred to in subsec. (b)(2)(A), i
 
 #### Amendments
 
-2006—Pub. L. 109–280, §854(c)(3), which directed amendment of subsec. (u) of this section by inserting “or special trial judge” after “judge” and “or special trial judge's” after “judge's” wherever appearing, could not be executed because no subsec. (u) has been enacted.
+<b>2006</b>—Pub. L. 109–280, §854(c)(3), which directed amendment of subsec. (u) of this section by inserting “or special trial judge” after “judge” and “or special trial judge's” after “judge's” wherever appearing, could not be executed because no subsec. (u) has been enacted.
 
 Pub. L. 109–280, §854(c)(1), inserted “and special trial judges” after “children of judges” in section catchline.
 
@@ -228,7 +228,7 @@ Subsec. (n). Pub. L. 109–280, §854(c)(3)(A), (7), inserted “or special tria
 
 Subsec. (s). Pub. L. 109–280, §851(a), amended heading and text of subsec. (s) generally. Prior to amendment, text read as follows: “Whenever the salary of a judge under section 7443(c) is increased, each annuity payable from the survivors annuity fund which is based, in whole or in part, upon a deceased judge having rendered some portion of his or her final 18 months of service as a judge of the Tax Court, shall also be increased. The amount of the increase in such an annuity shall be determined by multiplying the amount of the annuity, on the date on which the increase in salary becomes effective, by 3 percent for each full 5 percent by which such salary has been increased.”
 
-1986—Subsec. (c). Pub. L. 99–514, §1559(a)(1)(A), (2)(A), substituted “Survivors annuity fund” for “Salary deductions” in heading, inserted par. (1) designation and heading “Salary deductions” before existing text, realigned margin of text and substituted “3.5 percent” for “3 percent”, and added par. (2).
+<b>1986</b>—Subsec. (c). Pub. L. 99–514, §1559(a)(1)(A), (2)(A), substituted “Survivors annuity fund” for “Salary deductions” in heading, inserted par. (1) designation and heading “Salary deductions” before existing text, realigned margin of text and substituted “3.5 percent” for “3 percent”, and added par. (2).
 
 Subsec. (d). Pub. L. 99–514, §1559(a)(1)(B), substituted “3.5 percent” for second reference to “3 percent”.
 
@@ -242,7 +242,7 @@ Subsec. (h)(2). Pub. L. 99–514, §1559(b)(2)(A), substituted “the lesser of�
 
 &emsp;“(A) 10 percent of the average annual salary of such judge (determined in accordance with subsection (m)), or
 
-&emsp;“(B) 20 percent of such average annual salary, divided by the number of such children; or” for “one-half the amount of the annuity of such surviving spouse, but not to exceed $4,644 per year divided by the number of such children or $1,548 per year, whichever is lesser; or”.
+&emsp;“(B) 20 percent of such average annual salary, divided by the number of such children; or” for “one-half the amount of the annuity of such survivingspouse, but not to exceed $4,644 per year divided by the number of such children or $1,548 per year, whichever is lesser; or”.
 
 Subsec. (h)(3). Pub. L. 99–514, §1559(b)(2)(B), substituted “the lesser of—
 
@@ -254,17 +254,17 @@ Subsec. (m). Pub. L. 99–514, §1559(b)(1)(A), substituted “1.5 percent” fo
 
 Pub. L. 99–514, §1557(c), inserted last sentence.
 
-1984—Subsec. (h)(2). Pub. L. 98–369,§462(a)(1), substituted “$4,644” for “$900” and “$1,548” for “$360”.
+<b>1984</b>—Subsec. (h)(2). Pub. L. 98–369,§462(a)(1), substituted “$4,644” for “$900” and “$1,548” for “$360”.
 
 Subsec. (h)(3). Pub. L. 98–369, §462(a)(2), substituted “$5,580 per year divided by the number of such children or $1,860 per year, whichever is lesser” for “$480 per year”.
 
 Subsec. (p). Pub. L. 98–216 substituted “President” for “Bureau of the Budget”.
 
-1982—Subsec. (m). Pub. L. 97–362, §105(a), substituted “3 consecutive years” for “5 consecutive years”, and “40 percent” for “371/2 percent”.
+<b>1982</b>—Subsec. (m). Pub. L. 97–362, §105(a), substituted “3 consecutive years” for “5 consecutive years”, and “40 percent” for “371/2 percent”.
 
 Subsecs. (s), (t). Pub. L. 97–362, §105(b), added subsec. (s) and redesignated former subsec. (s) as (t).
 
-1976—Pub. L. 94–455, §1906(a)(46)(F), substituted “surviving spouses” for “widows” in section catchline.
+<b>1976</b>—Pub. L. 94–455, §1906(a)(46)(F), substituted “surviving spouses” for “widows” in section catchline.
 
 Subsec. (a)(6). Pub. L. 94–455, §1906(a)(46)(A), substituted “The term ‘surviving spouse’ means a surviving spouse of” for “The term ‘widow’ means a surviving wife of” and “a parent of issue” for “the mother of issue”.
 
@@ -278,9 +278,9 @@ Subsec. (<i>o</i>). Pub. L. 94–455, §1906(a)(46)(C), (D), (E), substituted �
 
 Subsec. (q). Pub. L. 94–455, §1906(a)(46)(E), substituted “surviving spouse” for “widow”.
 
-1971—Subsec. (m). Pub. L. 92–41 inserted “(whether judge's salary or compensation for other allowable service)” and “(including periods in which he received retired pay under section 7447(d))” after “average annual salary” and “judicial service”, respectively, and substituted “or for any other prior allowable service during the period of 5 consecutive years in which he received the largest such average annual salary, multiplied by the sum of his years of such judicial service” for “and any other prior allowable service during the last 5 years of such service prior to his death, or prior to his receiving retired pay under section 7447(d), whichever first occurs, multiplied by the sum of his years of judicial service”.
+<b>1971</b>—Subsec. (m). Pub. L. 92–41 inserted “(whether judge's salary or compensation for other allowable service)” and “(including periods in which he received retired pay under section 7447(d))” after “average annual salary” and “judicial service”, respectively, and substituted “or for any other prior allowable service during the period of 5 consecutive years in which he received the largest such average annual salary, multiplied by the sum of his years of such judicial service” for “and any other prior allowable service during the last 5 years of such service prior to his death, or prior to his receiving retired pay under section 7447(d), whichever first occurs, multiplied by the sum of his years of judicial service”.
 
-1969—Subsec. (a)(1). Pub. L. 91–172, §960(c), substituted “United States Tax Court” for “Tax Court of the United States”.
+<b>1969</b>—Subsec. (a)(1). Pub. L. 91–172, §960(c), substituted “United States Tax Court” for “Tax Court of the United States”.
 
 Subsec. (b). Pub. L. 91–172, §955(a), substituted provisions authorizing a judge to file notice of election to take benefits relating to survivor annuities while a judge, and if not reappointed, authorizing such election at any time before the day after the day on which his successor takes office, for provisions authorizing a judge to file within 6 months after he takes office or is reappointed, or within 6 months after he becomes eligible for retirement under former section 7447(b) of this title, or within 6 months after Oct. 4, 1961.
 
@@ -377,4 +377,10 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 Section 105(c) of Pub. L. 97–362, as amended by Pub. L. 97–448, title III, §305(e), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If an annuity payable under section 7448(h) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to entitlement to annuity) to the surviving spouse of a judge of the United States Tax Court is being paid on the date of the enactment of this Act, then the amount of that annuity shall be adjusted, as of the first day of the first month beginning more than 30 days after such date, to reflect the amount of the annuity which would have been payable if the amendment made by subsection (b) applied with respect to increases in the salary of a judge under section 7443(c) of such Code taking effect after December 31, 1963.”
 
 \[Pub. L. 97–448, title III, §311(c)(5), Jan. 12, 1983, 96 Stat. 2412, provided that: “The amendment made by subsection (e) of section 305 \[amending section 105(c) of Pub. L. 97–362, set out above\] shall take effect on the date of the enactment of the Miscellaneous Revenue Act of 1982 \[Oct. 25, 1982\].”\]
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
+
+<i><sup>3</sup></i><i> So in original. A closing parenthesis probably should precede the comma.</i>
 

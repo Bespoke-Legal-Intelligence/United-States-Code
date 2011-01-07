@@ -58,6 +58,7 @@
 | :--- | :---: | ---: |
 | [<b>61.</b>](Subpart%20E%20-%20Attendance%20and%20Leave/Chapter%20061%20-%20Hours%20of%20Work/README.md) | <b>Hours of Work</b> | <b>6101</b> |
 | [<b>63.</b>](Subpart%20E%20-%20Attendance%20and%20Leave/Chapter%20063%20-%20Leave/README.md) | <b>Leave</b> | <b>6301</b> |
+| [<b>65.</b>](Subpart%20E%20-%20Attendance%20and%20Leave/Chapter%20065%20-%20Telework/README.md) | <b>Telework</b> | <b>6501</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -112,10 +113,15 @@
 | [<b>98.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20098%20-%20National%20Aeronautics%20and%20Space%20Administration/README.md) | <b>National Aeronautics and Space Administration</b> | <b>9801</b> |
 | [<b>99.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20099%20-%20Department%20of%20Defense%20National%20Security%20Personnel%20System/README.md) | <b>Department of Defense National Security Personnel System</b> | <b>9901</b> |
 | [<b>101.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20101%20-%20Federal%20Emergency%20Management%20Agency%20Personnel/README.md) | <b>Federal Emergency Management Agency Personnel</b> | <b>10101</b> |
+| [<b>102.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20102%20-%20United%20States%20Secret%20Service%20Uniformed%20Division%20Personnel/README.md) | <b>United States Secret Service Uniformed Division Personnel</b> | <b>10201</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2010—Pub. L. 111–292, §2(b)(1), Dec. 9, 2010, 124 Stat. 3170, added item for chapter 65.
+
+Pub. L. 111–282, §4(c)(3), Oct. 15, 2010, 124 Stat. 3044, added item for chapter 102.
 
 2006—Pub. L. 109–295, title VI, §621(b), Oct. 4, 2006, 120 Stat. 1416, added item for chapter 101.
 

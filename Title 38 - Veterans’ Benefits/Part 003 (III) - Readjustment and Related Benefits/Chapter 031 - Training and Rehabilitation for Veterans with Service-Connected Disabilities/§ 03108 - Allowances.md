@@ -4,7 +4,7 @@
 
 (2) In any case in which the Secretary determines, at the conclusion of such veteran's pursuit of a vocational rehabilitation program under this chapter, that such veteran has been rehabilitated to the point of employability, such veteran shall be paid a subsistence allowance, as prescribed in this section for full-time training for the type of program that the veteran was pursuing, for two months while satisfactorily following a program of employment services provided under section 3104(a)(5) of this title.
 
-(3) A subsistence allowance may not be paid under this chapter to a veteran for any period during which such veteran is being provided with an initial evaluation under section 3106(a) of this title or during which such veteran is being provided only with counseling or with placement or postplacement services under section 3105(b) of this title.
+(3) A subsistence allowance may not be paid under this chapter to a veteran for any period during which such veteran is being provided with an initial evaluation under section 3106(a) of this title or during which such veteran isbeing provided only with counseling or with placement or postplacement services under section 3105(b) of this title.
 
 (b)(1) Except as otherwise provided in this section, the Secretary shall determine the subsistence allowance to be paid to a veteran under this chapter in accordance with the following table, which shall be the monthly amount shown in column II, III, IV, or V (whichever is applicable as determined by the veteran's dependency status) opposite the appropriate type of program being pursued as specified in column I:
 
@@ -31,9 +31,11 @@
 
 (3) With respect to any fiscal year beginning on or after October 1, 1995, the Secretary shall continue to pay, in lieu of the rates payable under paragraph (1) of this subsection, the monthly rates payable under this subsection for the previous fiscal year and shall provide, for any such fiscal year, a percentage increase in such rates equal to the percentage by which—
 
-&emsp;(A) the Consumer Price Index (all items, United States city average) for the 12-monthperiod ending on June 30 preceding the beginning of the fiscal year for which the increase is made, exceeds
+&emsp;(A) the Consumer Price Index (all items, United States city average) for the 12-month period ending on June 30 preceding the beginning of the fiscal year for which the increase is made, exceeds
 
 &emsp;(B) such Consumer Price Index for the 12-month period preceding the 12-month period described in subparagraph (A).
+
+(4) A veteran entitled to a subsistence allowance under this chapter and educational assistance under chapter 33 of this title may elect to receive payment from the Secretary in lieu of an amount otherwise determined by the Secretary under this subsection in an amount equal to the applicable monthly amount of basic allowance for housing payable under section 403 of title 37 for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the institution providing <sup>1</sup> rehabilitation program concerned.
 
 (c)(1) In any case in which the vocational rehabilitation program for a veteran includes training on the job by an employer in any month, such employer shall be required to submit to the Secretary a statement in writing showing any wage, compensation, or other income paid (directly or indirectly) by the employer to such veteran for such month. Based upon such written statement, the Secretary is authorized to reduce the subsistence allowance of such veteran to an amount considered equitable and just in accordance with criteria which the Secretary shall establish in regulations which the Secretary shall prescribe.
 
@@ -67,7 +69,7 @@
 
 (i) Payment of a subsistence allowance may be made in advance in accordance with the provisions of section 3680(d) of this title.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2178, §1508; amended Pub. L. 97–306, title II, §205(a), Oct. 14, 1982, 96 Stat. 1434; Pub. L. 98–525, title VII, §703(a), Oct. 19, 1984, 98 Stat. 2564; Pub. L. 98–543, title II, §201, Oct. 24, 1984, 98 Stat. 2740; Pub. L. 101–237, title IV, §§402(a), 423(b)(1), Dec. 18, 1989, 103 Stat. 2078, 2092; Pub. L. 102–16, §3(c), Mar. 22, 1991, 105 Stat. 49; renumbered §3108 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title IV, §405(a), (b), Oct. 29, 1992, 106 Stat. 4338, 4339; Pub. L. 103–446, title VI, §602(b), Nov. 2, 1994, 108 Stat. 4671; Pub. L. 104–275, title I, §101(g), Oct. 9, 1996, 110 Stat. 3325; Pub. L. 109–461, title X, §1002(b), Dec. 22, 2006, 120 Stat. 3465.)
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2178, §1508; amended Pub. L. 97–306, title II, §205(a), Oct. 14, 1982, 96 Stat. 1434; Pub. L. 98–525, title VII, §703(a), Oct. 19, 1984, 98 Stat. 2564; Pub. L. 98–543, title II, §201, Oct. 24, 1984, 98 Stat. 2740; Pub. L. 101–237, title IV, §§402(a), 423(b)(1), Dec. 18, 1989, 103 Stat. 2078, 2092; Pub. L. 102–16, §3(c), Mar. 22, 1991, 105 Stat. 49; renumbered §3108 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title IV, §405(a), (b), Oct. 29, 1992, 106 Stat. 4338, 4339; Pub. L. 103–446, title VI, §602(b), Nov. 2, 1994, 108 Stat. 4671; Pub. L. 104–275, title I, §101(g), Oct. 9, 1996, 110 Stat. 3325; Pub. L. 109–461, title X, §1002(b), Dec. 22, 2006, 120 Stat. 3465; Pub. L. 111–377, title II, §205(a), Jan. 4, 2011, 124 Stat. 4126.)
 
 #### Prior Provisions
 
@@ -77,21 +79,23 @@ Provisions similar to those comprising this section were contained in former sec
 
 #### Amendments
 
-2006—Subsec. (g)(1). Pub. L. 109–461 substituted “local, or other penal institution or correctional facility” for “or local penal institution”.
+<b>2011</b>—Subsec. (b)(4). Pub. L. 111–377 added par. (4).
 
-1996—Subsec. (a)(2). Pub. L. 104–275, §101(g)(1), substituted “while satisfactorily following a program of employment services provided under section 3104(a)(5) of this title” for “following the conclusion of such pursuit”.
+<b>2006</b>—Subsec. (g)(1). Pub. L. 109–461 substituted “local, or other penal institution or correctional facility” for “or local penal institution”.
+
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–275, §101(g)(1), substituted “while satisfactorily following a program of employment services provided under section 3104(a)(5) of this title” for “following the conclusion of such pursuit”.
 
 Subsec. (f)(1)(A). Pub. L. 104–275, §101(g)(2)(A), inserted “eligible for and” after “veteran is” and substituted “chapter 30” for “chapter 30 or 34” and “enrolled under chapter 30” for “enrolled under either chapter 30 or chapter 34”.
 
 Subsec. (f)(1)(B). Pub. L. 104–275, §101(g)(2)(B), substituted “chapter 30” for “chapter 30 or 34”.
 
-1994—Subsec. (c)(2). Pub. L. 103–446 inserted “or federally recognized Indian tribe” after “local government agency”.
+<b>1994</b>—Subsec. (c)(2). Pub. L. 103–446 inserted “or federally recognized Indian tribe” after “local government agency”.
 
-1992—Subsec. (b). Pub. L. 102–568, §405(b), designated existing provisions as par. (1) and added pars. (2) and (3).
+<b>1992</b>—Subsec. (b). Pub. L. 102–568, §405(b), designated existing provisions as par. (1) and added pars. (2) and (3).
 
 Pub. L. 102–568, §405(a), increased the monthly rehabilitation subsistence allowance for eligible veterans in column II from $333, $250, $167, $291, $333, $333, $250, and $167 to $366, $275, $184, $320, $366, $366, $275, and $184; in column III from $413, $310, $207, $352, $413, $413, $310, and $207 to $454, $341, $228, $387, $454, $454, $341, and $228; in column IV from $486, $364, $244, $405, $486, $486, $364, and $244 to $535, $400, $268, $446, $535, $535, $$400, and $268; and in column V from $35, $27, $18, $26, $35, $35, $27, and $18 to $39, $30, $20, $29, $39, $39, $30, and $20, respectively.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1508 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1508 of this title as this section.
 
 Subsec. (a)(3). Pub. L. 102–83, §5(c)(1), substituted “3106(a)” for “1506(a)” and “3105(b)” for “1505(b)”.
 
@@ -105,7 +109,7 @@ Subsec. (h). Pub. L. 102–83, §5(c)(1), substituted “1114(j)” for “314(j
 
 Subsec. (i). Pub. L. 102–83, §5(c)(1), substituted “3680(d)” for “1780(d)”.
 
-1989—Subsec. (a)(1), (2). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator”.
+<b>1989</b>—Subsec. (a)(1), (2). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator”.
 
 Subsec. (b). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator”.
 
@@ -115,11 +119,15 @@ Subsecs. (c)(1) to (f)(1)(A). Pub. L. 101–237, §423(b)(1)(A), substituted “
 
 Subsec. (h). Pub. L. 101–237, §423(b)(1)(B), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1984—Subsec. (b). Pub. L. 98–543 increased the monthly rehabilitation subsistence allowance for eligible veterans in column II from $282, $212, $141, $246, $282, $282, $212, and $141 to $310, $233, $155, $271, $310, $310, $233, and $155; in column III from $349, $262, $175, $297, $349, $349, $262, and $175 to $384, $288, $193, $323, $384, $384, $288, and $193; in column IV from $411, $308, $206, $343, $411, $411, $308, and $206 to $452, $339, $227, $377, $452, $452, $339, and $227; in column V from $30, $23, $15, $22, $30, $30, $23, and $15 to $33, $25, $17, $24, $33, $33, $25, and $17, respectively.
+<b>1984</b>—Subsec. (b). Pub. L. 98–543 increased the monthly rehabilitation subsistence allowance for eligible veterans in column II from $282, $212, $141, $246, $282, $282, $212, and $141 to $310, $233, $155, $271, $310, $310, $233, and $155; in column III from $349, $262, $175, $297, $349, $349, $262, and $175 to $384, $288, $193, $323, $384, $384, $288, and $193; in column IV from $411, $308, $206, $343, $411, $411, $308, and $206 to $452, $339, $227, $377, $452, $452, $339, and $227; in column V from $30, $23, $15, $22, $30, $30, $23, and $15 to $33, $25, $17, $24, $33, $33, $25, and $17, respectively.
 
 Subsec. (f)(1)(A), (B). Pub. L. 98–525 inserted references to chapter 30 of this title.
 
-1982—Subsec. (g)(2). Pub. L. 97–306 inserted “not” after “shall” and struck out “if the Administrator determines that all the veteran's living expenses are being defrayed by a Federal, State, or local government” at end.
+<b>1982</b>—Subsec. (g)(2). Pub. L. 97–306 inserted “not” after “shall” and struck out “if the Administrator determines that all the veteran's living expenses are being defrayed by a Federal, State, or local government” at end.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–377, title II, §205(b), Jan. 4, 2011, 124 Stat. 4126, provided that: “The amendment made by this section \[amending this section\] shall take effect on August 1, 2011.”
 
 #### Effective Date of 1992 Amendment
 
@@ -140,4 +148,6 @@ Section effective Oct. 1, 1980, and during period beginning on Oct. 1, 1980, and
 #### Applicability of Subsection (g)(1) to Apportionments Made Before October 17, 1980
 
 Section 101(c) of Pub. L. 96–466 provided that: “The provisions of section 1508(g)(1) \[now 3108(g)(1)\] of title 38, United States Code, as added by subsection (a) shall not apply to an apportionment made under section 3107(c) \[now 5307(c)\] of such title before the date of the enactment of this Act \[Oct. 17, 1980\].”
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “the”.</i>
 

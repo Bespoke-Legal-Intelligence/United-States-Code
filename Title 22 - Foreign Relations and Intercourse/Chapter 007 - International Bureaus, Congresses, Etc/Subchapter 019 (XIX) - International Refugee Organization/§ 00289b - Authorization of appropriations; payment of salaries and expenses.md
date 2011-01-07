@@ -14,8 +14,6 @@ There is hereby authorized to be appropriated annually to the Department of Stat
 
 #### References in Text
 
-The civil-service laws, referred to in subsec. (b)(1), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 Subchapter XVI \[§287 et seq.\] of this chapter, referred to in subsec. (b)(2), was in the original a reference to the United Nations Participation Act of 1945.
 
 #### Codification
@@ -24,7 +22,7 @@ In subsec. (b)(1), “chapter 51 and subchapter III of chapter 53 of title 5” 
 
 #### Amendments
 
-1949—Subsec. (b)(1). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+<b>1949</b>—Subsec. (b)(1). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
 #### Repeals
 

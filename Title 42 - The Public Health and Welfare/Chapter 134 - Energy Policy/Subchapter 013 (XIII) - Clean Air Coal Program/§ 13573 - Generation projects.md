@@ -12,7 +12,7 @@ Projects supported under section 13572(a)(1) of this title may include—
 
 #### (b) Criteria
 
-The Secretary shall establish criteria for the selection of generation projects under section13572(a)(1) of this title. The Secretary may modify the criteria as appropriate to reflect improvements in equipment, except that the criteria shall not be modified to be less stringent. The selection criteria shall include—
+The Secretary shall establish criteria for the selection of generation projects under section 13572(a)(1) of this title. The Secretary may modify the criteria as appropriate to reflect improvements in equipment, except that the criteria shall not be modified to be less stringent. The selection criteria shall include—
 
 &emsp;(1) prioritization of projects whose installation is likely to result in significant air quality improvements in nonattainment air quality areas;
 

@@ -32,5 +32,5 @@ Section 4273, act Aug. 16, 1954, ch. 736, 68A Stat. 507, 508, related to registr
 
 #### Amendments
 
-1976—Subsec. (b)(2). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b)(2). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 

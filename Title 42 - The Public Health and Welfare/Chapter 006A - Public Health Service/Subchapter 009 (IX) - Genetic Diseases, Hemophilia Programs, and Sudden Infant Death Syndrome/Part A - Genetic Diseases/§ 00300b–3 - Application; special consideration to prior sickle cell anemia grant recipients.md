@@ -2,7 +2,7 @@
 
 #### (a) Manner of submission; contents
 
-A grant or contract under this part may be made upon application submitted to the Secretary at such time, in such manner, and containing and accompanied by such information, as the Secretary may require, including assurances for an evaluation whether performed by the applicant or by the Secretary. Such grant orcontract may be made available on less than a statewide or regional basis. Each applicant shall—
+A grant or contract under this part may be made upon application submitted to the Secretary at such time, in such manner, and containing and accompanied by such information, as the Secretary may require, including assurances for an evaluation whether performed by the applicant or by the Secretary. Such grant or contract may be made available on less than a statewide or regional basis. Each applicant shall—
 
 &emsp;(1) provide that the programs and activities for which assistance under this part is sought will be administered by or under the supervision of the applicant;
 
@@ -24,7 +24,7 @@ A prior section 300b–3, act July 1, 1944, ch. 373, title XI, §1104, as added 
 
 #### Amendments
 
-1981—Subsec. (a)(4), (5). Pub. L. 97–35, §2193(b)(2), redesignated par. (5) as (4). Former par. (4), which related to testing and counseling requirements, was struck out.
+<b>1981</b>—Subsec. (a)(4), (5). Pub. L. 97–35, §2193(b)(2), redesignated par. (5) as (4). Former par. (4), which related to testing and counseling requirements, was struck out.
 
 Subsec. (b). Pub. L. 97–35, §2193(b)(3), struck out subsec. (b) which related to grants and contracts under section 300b of this title. Former subsec. (c) was redesignated (b) and, as so redesignated, struck out reference to section 300b of this title.
 
@@ -32,7 +32,7 @@ Subsec. (c). Pub. L. 97–35, §2193(b)(3), redesignated subsec. (c) as (b).
 
 Subsec. (d). Pub. L. 97–35, §2193(b)(3), struck out subsec. (d) which related to procedures applicable to grants, etc., under section 300b of this title.
 
-1978—Subsec. (a). Pub. L. 95–626, §205(c)(1), inserted requirement that application contain assurances for an evaluation whether performed by applicant or by Secretary and that grant or contract be made available on less than a statewide or regional basis.
+<b>1978</b>—Subsec. (a). Pub. L. 95–626, §205(c)(1), inserted requirement that application contain assurances for an evaluation whether performed by applicant or by Secretary and that grant or contract be made available on less than a statewide or regional basis.
 
 Subsec. (d). Pub. L. 95–626, §205(c)(2), added subsec. (d).
 

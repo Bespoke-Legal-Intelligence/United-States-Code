@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall make available a model program to provide grants to public and private nonprofit organizations and community housing development organizations to provide technical and supervisory assistance to low-income and very low-income families, including the homeless, in acquiring, rehabilitating, and constructing housing by the self-help housing method.
+The Secretary shall make available a model program to provide grants to public and privatenonprofit organizations and community housing development organizations to provide technical and supervisory assistance to low-income and very low-income families, including the homeless, in acquiring, rehabilitating, and constructing housing by the self-help housing method.
 
 #### (b) Rehabilitation of properties
 
@@ -168,7 +168,7 @@ Secretary.—The term ‘Secretary’ means the Secretary of Housing and Urban D
 
 &emsp;“(3)
 
-United states.—The term ‘United States’ includes the States of the United States, the District ofColumbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, and any other territory or possession of the United States.
+United states.—The term ‘United States’ includes the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, and any other territory or possession of the United States.
 
 “(p)
 

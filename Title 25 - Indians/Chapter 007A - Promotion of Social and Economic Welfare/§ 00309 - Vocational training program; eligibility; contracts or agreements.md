@@ -6,5 +6,5 @@ In order to help adult Indians who reside on or near Indian reservations to obta
 
 #### Amendments
 
-1963—Pub. L. 88–230 authorized Secretary of the Interior to undertake a program for nurses’ training for periods not exceeding 36 months and to enter into contracts with accredited schools of nursing offering a 3-year course of study leading to a diploma in nursing.
+<b>1963</b>—Pub. L. 88–230 authorized Secretary of the Interior to undertake a program for nurses’ training for periods not exceeding 36 months and to enter into contracts with accredited schools of nursing offering a 3-year course of study leading to a diploma in nursing.
 

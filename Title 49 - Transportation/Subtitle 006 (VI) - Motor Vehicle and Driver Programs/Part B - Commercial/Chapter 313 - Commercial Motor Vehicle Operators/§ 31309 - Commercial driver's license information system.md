@@ -144,13 +144,13 @@ The date of enactment of this subsection, referred to in subsec. (e)(1), is the 
 
 #### Amendments
 
-2008—Subsec. (f). Pub. L. 110–244 substituted “31313” for “31318”.
+<b>2008</b>—Subsec. (f). Pub. L. 110–244 substituted “31313” for “31318”.
 
-2005—Subsec. (b)(1)(D) to (F), (2). Pub. L. 109–59, §4122(2)(E), inserted “or learner's permit” after “license”.
+<b>2005</b>—Subsec. (b)(1)(D) to (F), (2). Pub. L. 109–59, §4122(2)(E), inserted “or learner's permit” after “license”.
 
 Subsecs. (e), (f). Pub. L. 109–59, §4123(a), added subsecs. (e) and (f).
 
-1998—Subsec. (a). Pub. L. 105–178, §4011(d)(1), (2), substituted “maintain an information system” for “make an agreement under subsection (b) of this section for the operation of, or establish under subsection (c) of this section, an information system” and inserted “The system shall be coordinated with activities carried out under section 31106.” before “The Secretary shall consult”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §4011(d)(1), (2), substituted “maintain an information system” for “make an agreement under subsection (b) of this section for the operation of, or establish under subsection (c) of this section, an information system” and inserted “The system shall be coordinated with activities carried out under section 31106.” before “The Secretary shall consult”.
 
 Subsec. (b). Pub. L. 105–178, §4011(d)(3), (8), redesignated subsec. (d) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “If the Secretary decides that an information system used by a State or States about the driving status of operators of motor vehicles or another State-operated information system could be used to carry out this section, and the State or States agree to the use of the system for carrying out this section, the Secretary may make an agreement with the State or States to use the system as provided in this section and section 31311(c) of this title. An agreement made under this subsection shall contain terms the Secretary considers necessary to carry out this chapter.”
 
@@ -178,7 +178,7 @@ Pub. L. 105–178, §4011(d)(6), (7), substituted “The Secretary may establish
 
 #### Grants for Modernization of Commercial Driver's License Information Systems
 
-Pub. L. 109–59, title IV, §4123(c)–(e), Aug. 10, 2005, 119 Stat. 1735, 1736, provided that:
+Pub. L. 109–59, title IV, §4123(c)–(e), Aug. 10, 2005, 119 Stat. 1735, 1736, as amended by Pub. L. 111–147, title IV, §422(f), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(f), Dec. 22, 2010, 124 Stat. 3525, provided that:
 
 “(c)
 
@@ -208,9 +208,13 @@ Funding.—There are authorized to be appropriated from the Highway Trust Fund (
 
 &emsp;“(2) $7,000,000 for fiscal year 2007;
 
-&emsp;“(3) $8,000,000 for fiscal year 2008; and
+&emsp;“(3) $8,000,000 for fiscal year 2008;
 
-&emsp;“(4) $8,000,000 for fiscal year 2009.
+&emsp;“(4) $8,000,000 for fiscal year 2009;
+
+&emsp;“(5) $8,000,000 for fiscal year 2010; and
+
+&emsp;“(6) and \[sic\] $3,397,260 for the period beginning October 1, 2010, and ending on March 4, 2011.
 
 “(e)
 

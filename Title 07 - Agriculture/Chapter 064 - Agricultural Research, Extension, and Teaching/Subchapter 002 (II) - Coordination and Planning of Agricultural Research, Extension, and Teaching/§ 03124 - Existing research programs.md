@@ -1,6 +1,6 @@
 ### §3124. Existing research programs
 
-It is the intent of Congress in enacting this chapter to augment, coordinate, and supplementthe planning, initiation, and conduct of agricultural research programs existing prior to September 29, 1977, except that it is not the intent of Congress in enacting this title to limit the authority of the Secretary of Health and Human Services under any Act which the Secretary of Health and Human Services administers.
+It is the intent of Congress in enacting this chapter to augment, coordinate, and supplement the planning, initiation, and conduct of agricultural research programs existing prior to September 29, 1977, except that it is not the intent of Congress in enacting this title to limit the authority of the Secretary of Health and Human Services under any Act which the Secretary of Health and Human Services administers.
 
 (Pub. L. 95–113, title XIV, §1409, Sept. 29, 1977, 91 Stat. 989; Pub. L. 97–98, title XIV, §1409, Dec. 22, 1981, 95 Stat. 1301.)
 

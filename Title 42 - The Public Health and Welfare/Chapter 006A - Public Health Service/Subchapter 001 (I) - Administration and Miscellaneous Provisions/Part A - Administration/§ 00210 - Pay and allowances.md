@@ -12,7 +12,7 @@ Commissioned officers on active duty and retired officers entitled to retired pa
 
 #### (c) Members of national advisory or review councils or committees
 
-Members of the National Advisory Health Council and members of other national advisoryor review councils or committees established under this chapter, including members of the Technical Electronic Product Radiation Safety Standards Committee and the Board of Regents of the National Library of Medicine, but excluding ex officio members, while attending conferences or meetings of their respective councils or committees or while otherwise serving at the request of the Secretary, shall be entitled to receive compensation at rates to be fixed by the Secretary, but at rates not exceeding the daily equivalent of the rate specified at the time of such service for grade GS–18 of the General Schedule, including traveltime; and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently.
+Members of the National Advisory Health Council and members of other national advisory or review councils or committees established under this chapter, including members of the Technical Electronic Product Radiation Safety Standards Committee and the Board of Regents of the National Library of Medicine, but excluding ex officio members, while attending conferences or meetings of their respective councils or committees or while otherwise serving at the request of the Secretary, shall be entitled to receive compensation at rates to be fixed by the Secretary, but at rates not exceeding the daily equivalent of the rate specified at the time of such service for grade GS–18 of the General Schedule, including traveltime; and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently.
 
 #### (d) Field employees
 
@@ -42,7 +42,7 @@ A prior section 208 of act July 1, 1944, was renumbered section 207 and is class
 
 #### Amendments
 
-2000—Subsec. (a)(2). Pub. L. 106–398 added par. (2) and struck out former par. (2) which read as follows:
+<b>2000</b>—Subsec. (a)(2). Pub. L. 106–398 added par. (2) and struck out former par. (2) which read as follows:
 
 “(2)(A) Except as provided in subparagraph (B), commissioned medical and dental officers in the Regular and Reserve Corps shall while on active duty be paid special pay in the same amounts as, and under the same terms and conditions which apply to, the special pay now or hereafter paid to commissioned medical and dental officers of the Armed Forces under chapter 5 of title 37.
 
@@ -50,51 +50,51 @@ A prior section 208 of act July 1, 1944, was renumbered section 207 and is class
 
 Subsec. (a)(3). Pub. L. 106–398, §1 \[\[div. A\], title VI, §634(b)(1)\], struck out par. (3) which read as follows: “Commissioned nurse officers in the Regular and Reserve Corps shall, while in active duty, be paid incentive special pay in the same amounts as, and under the same terms and conditions which apply to, the incentive special pay now or hereafter paid to commissioned nurse officers of the Armed Forces under chapter 5 of title 37.”
 
-1988—Subsec. (a)(3). Pub. L. 100–607 added par. (3).
+<b>1988</b>—Subsec. (a)(3). Pub. L. 100–607 added par. (3).
 
-1986—Subsec. (a)(2)(B). Pub. L. 99–272, §17002(a)(1), inserted “(other than an officer serving in the Indian Health Service)”.
+<b>1986</b>—Subsec. (a)(2)(B). Pub. L. 99–272, §17002(a)(1), inserted “(other than an officer serving in the Indian Health Service)”.
 
 Subsec. (e). Pub. L. 99–272, §17002(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Whenever any noncommissioned officer or other employee of the Service is assigned for duty which the Surgeon General finds requires intimate contact with persons afflicted with leprosy, he may be entitled to receive, as provided by regulations of the President, in addition to any pay or compensation to which he may otherwise be entitled, not more than one-half of such pay or compensation.”
 
-1985—Subsec. (a)(2). Pub. L. 99–117 substituted “(A) Except as provided in subparagraph (B), commissioned” for “Commissioned”, and added subpar. (B).
+<b>1985</b>—Subsec. (a)(2). Pub. L. 99–117 substituted “(A) Except as provided in subparagraph (B), commissioned” for “Commissioned”, and added subpar. (B).
 
-1980—Subsec. (a). Pub. L. 96–398 redesignated existing provisions as par. (1) and added par. (2).
+<b>1980</b>—Subsec. (a). Pub. L. 96–398 redesignated existing provisions as par. (1) and added par. (2).
 
-1979—Subsec. (c). Pub. L. 96–32 substituted “section 5703 of title 5” for “section 5703(b) of title 5”.
+<b>1979</b>—Subsec. (c). Pub. L. 96–32 substituted “section 5703 of title 5” for “section 5703(b) of title 5”.
 
-1978—Subsec. (g). Pub. L. 95–623 increased limitation on establishment of positions to one hundred and seventy-nine from one hundred and fifty-five and required minimum number of positions for certain National Centers: ten, National Center for Health Services Research; twelve, National Center for Health Statistics; and seven, National Center for Health Care Technology.
+<b>1978</b>—Subsec. (g). Pub. L. 95–623 increased limitation on establishment of positions to one hundred and seventy-nine from one hundred and fifty-five and required minimum number of positions for certain National Centers: ten, National Center for Health Services Research; twelve, National Center for Health Statistics; and seven, National Center for Health Care Technology.
 
-1977—Subsec. (g). Pub. L. 95–83 increased limitation on establishment of positions to one hundred and fifty-five from one hundred and fifty and required not less than five for the National Institute on Alcohol Abuse and Alcoholism for individuals engaged in research on alcohol abuse and alcoholism.
+<b>1977</b>—Subsec. (g). Pub. L. 95–83 increased limitation on establishment of positions to one hundred and fifty-five from one hundred and fifty and required not less than five for the National Institute on Alcohol Abuse and Alcoholism for individuals engaged in research on alcohol abuse and alcoholism.
 
-1971—Subsec. (f). Pub. L. 92–157, which directed that “subsection (g)” be substituted for “section 209(f)”, was executed by substituting “section 209(g) of this title” for “section 209(f) of this title”, to reflect the probable intent of Congress.
+<b>1971</b>—Subsec. (f). Pub. L. 92–157, which directed that “subsection (g)” be substituted for “section 209(f)”, was executed by substituting “section 209(g) of this title” for “section 209(f) of this title”, to reflect the probable intent of Congress.
 
-1970—Subsec. (c). Pub. L. 91–515 extended coverage to encompass members of other national review councils or national advisory or review committees established under this chapter, including members of the Technical Electronic Product Radiation Safety Standards Committee and the Board of Regents of the National Library of Medicine, authorized service to be at the request of the Secretary in place of the Surgeon General, and revised rates of compensation and travel allowances.
+<b>1970</b>—Subsec. (c). Pub. L. 91–515 extended coverage to encompass members of other national review councils or national advisory or review committees established under this chapter, including members of the Technical Electronic Product Radiation Safety Standards Committee and the Board of Regents of the National Library of Medicine, authorized service to be at the request of the Secretary in place of the Surgeon General, and revised rates of compensation and travel allowances.
 
-1968—Subsec. (g). Pub. L. 90–574 inserted “(1)” after “nor more than” and added cl. (2).
+<b>1968</b>—Subsec. (g). Pub. L. 90–574 inserted “(1)” after “nor more than” and added cl. (2).
 
-1962—Subsec. (b). Pub. L. 87–649 struck out sentence which permitted commissioned officers on active duty to make allotments from their pay, and substituted “Commissioned officers on active duty and retired officers” for “Such officers, and retired officers.” See section 704 of Title 37, Pay and Allowances of the Uniformed Services.
+<b>1962</b>—Subsec. (b). Pub. L. 87–649 struck out sentence which permitted commissioned officers on active duty to make allotments from their pay, and substituted “Commissioned officers on active duty and retired officers” for “Such officers, and retired officers.” See section 704 of Title 37, Pay and Allowances of the Uniformed Services.
 
 Subsec. (g). Pub. L. 87–793 substituted provisions requiring the rates of compensation to be not less than the minimum rate of grade 16 nor more than the highest rate of grade 18 of the General Schedule, for provisions which prescribed annual rates of compensation of not less than $12,500 nor more than $19,000.
 
-1960—Subsec. (b). Pub. L. 86–415 authorized retired officers entitled to retired pay pursuant to section 211(g)(3), 212, or 213a(a) of this title, to purchase supplies, and included the purchase of supplies from the Air Force.
+<b>1960</b>—Subsec. (b). Pub. L. 86–415 authorized retired officers entitled to retired pay pursuant to section 211(g)(3), 212, or 213a(a) of this title, to purchase supplies, and included the purchase of supplies from the Air Force.
 
 Subsec. (g). Pub. L. 86–703 substituted “one hundred and fifty” for “eighty-five” and “one hundred and fifteen” for “seventy-three”.
 
-1958—Subsec. (g). Pub. L. 85–929 substituted “in the professional, scientific, and executive service” for “in the professional and scientific service”, and substituted “of specially qualified scientific, professional, and administrative personnel” for “of specially qualified scientific or professional personnel”.
+<b>1958</b>—Subsec. (g). Pub. L. 85–929 substituted “in the professional, scientific, and executive service” for “in the professional and scientific service”, and substituted “of specially qualified scientific, professional, and administrative personnel” for “of specially qualified scientific or professional personnel”.
 
 Pub. L. 85–462, substituted “eighty-five positions, of which not less than seventy-three shall be for the National Institutes of Health” for “sixty positions”.
 
-1956—Subsec. (g). Act June 29, 1956, substituted “$20,000” for “$15,000”.
+<b>1956</b>—Subsec. (g). Act June 29, 1956, substituted “$20,000” for “$15,000”.
 
-1955—Subsec. (g). Act Aug. 1, 1955, increased from thirty to sixty the number of positions which the Administrator may establish in the professional and scientific service.
+<b>1955</b>—Subsec. (g). Act Aug. 1, 1955, increased from thirty to sixty the number of positions which the Administrator may establish in the professional and scientific service.
 
-1950—Subsec. (b). Act Aug. 9, 1950, struck out “and may be granted leaves of absence without any deduction from their pay” after “allotments from their pay” in first sentence.
+<b>1950</b>—Subsec. (b). Act Aug. 9, 1950, struck out “and may be granted leaves of absence without any deduction from their pay” after “allotments from their pay” in first sentence.
 
 Subsec. (c). Act Aug. 15, 1950, §3(e), made provisions applicable to members of all national advisory councils.
 
 Subsec. (g). Act Aug. 15, 1950, §4(b), added subsec. (g).
 
-1949—Subsec. (a). Act Oct. 12, 1949, made section applicable to Reserve officers.
+<b>1949</b>—Subsec. (a). Act Oct. 12, 1949, made section applicable to Reserve officers.
 
 Subsec. (b). Act Oct. 12, 1949, redesignated subsec. (c) as (b) and repealed former subsec. (b) relating to Reserve officers.
 
@@ -108,13 +108,13 @@ Subsec. (f). Act Oct. 12, 1949, redesignated subsec. (h) as (f). Former subsec. 
 
 Subsecs. (g), (h). Act Oct. 12, 1949, redesignated subsecs. (g) and (h) as (e) and (f), respectively.
 
-1948—Subsec. (b). Act Feb. 28, 1948, inserted “except as otherwise provided by law”.
+<b>1948</b>—Subsec. (b). Act Feb. 28, 1948, inserted “except as otherwise provided by law”.
 
 Subsec. (e). Acts June 16, 1948, §4(d), and June 24, 1948, §4(d), made section applicable to the National Advisory Heart Council and increased the per diem of all members from $25 to $50, and made section applicable to the National Advisory Dental Research Council, respectively.
 
 Subsec. (h). Act Feb. 28, 1948, substituted “section 209(f) of this title” for “section 209(d) of this title”.
 
-1946—Subsec. (e). Act July 3, 1946, inserted “members of the National Advisory Mental Health Council”.
+<b>1946</b>—Subsec. (e). Act July 3, 1946, inserted “members of the National Advisory Mental Health Council”.
 
 #### Change of Name
 

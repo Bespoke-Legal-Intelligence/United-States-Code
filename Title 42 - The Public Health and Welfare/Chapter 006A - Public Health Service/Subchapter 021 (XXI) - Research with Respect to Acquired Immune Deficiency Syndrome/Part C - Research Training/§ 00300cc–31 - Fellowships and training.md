@@ -10,7 +10,7 @@ The Secretary, acting through the Director of the National Institute of Mental H
 
 #### (c) Relationship to limitation on number of employees
 
-Any individual receiving a fellowship or receiving training under subsection (a) or (b) ofthis section shall not be included in any determination of the number of full-time equivalent employees of the Department of Health and Human Services for the purpose of any limitation on the number of such employees established by law prior to, on, or after November 4, 1988.
+Any individual receiving a fellowship or receiving training under subsection (a) or (b) of this section shall not be included in any determination of the number of full-time equivalent employees of the Department of Health and Human Services for the purpose of any limitation on the number of such employees established by law prior to, on, or after November 4, 1988.
 
 #### (d) Authorization of appropriations
 
@@ -20,11 +20,11 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### Amendments
 
-1993—Subsec. (d). Pub. L. 103–43 substituted “fiscal year” for “of the fiscal years 1989 through 1991”.
+<b>1993</b>—Subsec. (d). Pub. L. 103–43 substituted “fiscal year” for “of the fiscal years 1989 through 1991”.
 
-1992—Subsec. (a). Pub. L. 102–531, which directed the substitution of “Centers for Disease Control and Prevention” for “Centers for Disease Control”, was executed by making the substitution in two places to reflect the probable intent of Congress.
+<b>1992</b>—Subsec. (a). Pub. L. 102–531, which directed the substitution of “Centers for Disease Control and Prevention” for “Centers for Disease Control”, was executed by making the substitution in two places to reflect the probable intent of Congress.
 
-1988—Subsec. (c). Pub. L. 100–690 substituted “date of the enactment of the AIDS Amendments of 1988” for “date of the enactment of the AIDS Federal Policy Act of 1988” which for purposes of codification was translated as “November 4, 1988”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–690 substituted “date of the enactment of the AIDS Amendments of 1988” for “date of the enactment of the AIDS Federal Policy Act of 1988” which for purposes of codification was translated as “November 4, 1988”.
 
 #### Effective Date of 1988 Amendment
 

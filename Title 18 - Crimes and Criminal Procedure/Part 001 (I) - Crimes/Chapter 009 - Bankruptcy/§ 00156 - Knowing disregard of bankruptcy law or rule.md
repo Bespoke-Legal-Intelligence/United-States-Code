@@ -20,7 +20,7 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b), are set o
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–8, in first par., inserted “(1) the term” before “ ‘bankruptcy petition preparer’ ” and substituted “; and” for period at end and, in second par., inserted “(2) the term” before “ ‘document for filing’ ” and substituted “title 11” for “this title”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–8, in first par., inserted “(1) the term” before “ ‘bankruptcy petition preparer’ ” and substituted “; and” for period at end and, in second par., inserted “(2) the term” before “ ‘document for filing’ ” and substituted “title 11” for “this title”.
 
 #### Effective Date of 2005 Amendment
 

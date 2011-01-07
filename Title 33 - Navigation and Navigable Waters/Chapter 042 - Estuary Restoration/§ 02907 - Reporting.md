@@ -24,5 +24,5 @@ A report under subsection (a) of this section shall include—
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–114 substituted “Not later than September 30, 2008, and every 2 years thereafter” for “At the end of the third and fifth fiscal years following November 7, 2000”.
+<b>2007</b>—Subsec. (a). Pub. L. 110–114 substituted “Not later than September 30, 2008, and every 2 years thereafter” for “At the end of the third and fifth fiscal years following November 7, 2000”.
 

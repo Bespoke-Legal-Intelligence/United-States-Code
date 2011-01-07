@@ -36,7 +36,7 @@ The Federal Power Act, referred to in subsec. (a)(4), is act June 10, 1920, ch. 
 
 #### Amendments
 
-1977—Subsec. (a)(4). Pub. L. 95–91 added par. (4).
+<b>1977</b>—Subsec. (a)(4). Pub. L. 95–91 added par. (4).
 
 #### Effective Date
 

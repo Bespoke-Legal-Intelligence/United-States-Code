@@ -24,5 +24,5 @@ The words “On and after June 14, 1946” are omitted as obsolete. The words �
 
 #### Amendments
 
-2006—Pub. L. 109–284 substituted “post office” for “post-office”.
+<b>2006</b>—Pub. L. 109–284 substituted “post office” for “post-office”.
 

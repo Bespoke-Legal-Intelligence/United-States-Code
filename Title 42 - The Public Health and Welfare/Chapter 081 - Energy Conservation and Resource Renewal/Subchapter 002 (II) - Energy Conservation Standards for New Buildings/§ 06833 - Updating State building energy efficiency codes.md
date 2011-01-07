@@ -2,7 +2,7 @@
 
 #### (a) Consideration and determination respecting residential building energy codes
 
-(1) Not later than 2 years after October 24, 1992, each State shall certify to the Secretary that it has reviewed the provisions of its residential building code regarding energy efficiency and made a determination as to whether it is appropriate for such State to revise such residential building code provisions to meet or exceed CABO Model Energy Code, 1992.
+(1) Not later than 2 years after October 24, 1992, each State shall certify to the Secretarythat it has reviewed the provisions of its residential building code regarding energy efficiency and made a determination as to whether it is appropriate for such State to revise such residential building code provisions to meet or exceed CABO Model Energy Code, 1992.
 
 (2) The determination referred to in paragraph (1) shall be—
 
@@ -44,7 +44,7 @@ The Secretary shall provide technical assistance to States to implement the requ
 
 #### (e) Availability of incentive funding
 
-(1) The Secretary shall provide incentive funding to States to implement the requirements of this section, and to improve and implement State residential and commercial building energy efficiency codes, including increasing and verifying compliance with such codes. In determining whether, and in what amount, to provideincentive funding under this subsection, the Secretary shall consider the actions proposed by the State to implement the requirements of this section, to improve and implement residential and commercial building energy efficiency codes, and to promote building energy efficiency through the use of such codes.
+(1) The Secretary shall provide incentive funding to States to implement the requirements of this section, and to improve and implement State residential and commercial building energy efficiency codes, including increasing and verifying compliance with such codes. In determining whether, and in what amount, to provide incentive funding under this subsection, the Secretary shall consider the actions proposed by the State to implement the requirements of this section, to improve and implement residential and commercial building energy efficiency codes, and to promote building energy efficiency through the use of such codes.
 
 (2) Additional funding shall be provided under this subsection for implementation of a plan to achieve and document at least a 90 percent rate of compliance with residential and commercial building energy efficiency codes, based on energy performance—
 
@@ -52,7 +52,7 @@ The Secretary shall provide technical assistance to States to implement the requ
 
 &emsp;&emsp;(i) a residential building energy efficiency code that meets or exceeds the requirements of the 2004 International Energy Conservation Code, or any succeeding version of that code that has received an affirmative determination from the Secretary under subsection (a)(5)(A) of this section; and
 
-&emsp;&emsp;(ii) a commercial building energy efficiency code that meets or exceeds the requirements of the ASHRAE Standard 90.1–2004, or any succeeding version of that standard that has received an affirmative determination from the Secretary under subsection (b)(2)(A) of this section; or
+&emsp;&emsp;(ii) a commercial building energy efficiency code that meets or exceeds the requirements of the ASHRAE Standard90.1–2004, or any succeeding version of that standard that has received an affirmative determination from the Secretary under subsection (b)(2)(A) of this section; or
 
 &emsp;(B) in a State in which there is no statewide energy code either for residential buildings or for commercial buildings, to a local government that has adopted and is implementing residential and commercial building energy efficiency codes, as described in subparagraph (A).
 
@@ -74,7 +74,7 @@ A prior section 6833, Pub. L. 94–385, title III, §304, Aug. 14, 1976, 90 Stat
 
 #### Amendments
 
-2005—Subsec. (e)(1). Pub. L. 109–58, §128(1), inserted “, including increasing and verifying compliance with such codes” before period at end of first sentence.
+<b>2005</b>—Subsec. (e)(1). Pub. L. 109–58, §128(1), inserted “, including increasing and verifying compliance with such codes” before period at end of first sentence.
 
 Subsec. (e)(2) to (4). Pub. L. 109–58, §128(2), added pars. (2) to (4) and struck out former par. (2) which read as follows: “There are authorized to be appropriated such sums as may be necessary to carry out this subsection.”
 

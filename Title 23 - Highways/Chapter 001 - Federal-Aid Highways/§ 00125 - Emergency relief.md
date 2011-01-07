@@ -22,13 +22,13 @@ Funding.—Subject to the following limitations, there are authorized to be appr
 
 (d) The Secretary may expend funds from the emergency fund herein authorized for the repair or reconstruction of highways on Federal-aid highways in accordance with the provisions of this chapter: <i>Provided</i>, That (1) obligations for projects under this section, including those on highways, roads, and trails mentioned in subsection (e) of this section, resulting from a single natural disaster or a single catastrophic failure in a State shall not exceed $100,000,000, and (2) the total obligations for projects under this section in any fiscal year in the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall not exceed $20,000,000. Notwithstanding any provision of this chapter actual and necessary costs of maintenance and operation of ferryboats providing temporary substitute highway traffic service, less the amount of fares charged, may be expended from the emergency fund herein authorized on Federal-aid highways. Except as to highways, roads, and trails mentioned in subsection (e) of this section, no funds shall be so expended unless the Secretary has received an application therefor from the State transportation department, and unless an emergency has been declared by the Governor of the State and concurred in by the Secretary, except that if the President has declared such emergency to be a major disaster for the purposes of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) concurrence of the Secretary is not required.
 
-(e) The Secretary may expend funds from the emergency fund herein authorized, either independently or in cooperation with any other branch of the Government, State agency, organization, or person, for the repair or reconstruction of forest highways, forest development roads and trails, park roads and trails, parkways, public lands highways, public lands development roads and trails, and Indian reservation roads, whether or not such highways, roads, or trails are Federal-aid highways.
+(e) The Secretary may expend funds from the emergency fund herein authorized, either independently or in cooperation with any other branch of the Government, State agency, organization, or person, for the repair or reconstruction of forest highways, forest developmentroads and trails, park roads and trails, parkways, public lands highways, public lands development roads and trails, and Indian reservation roads, whether or not such highways, roads, or trails are Federal-aid highways.
 
 (f)
 
 Treatment of Territories.—For purposes of this section, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be considered to be States and parts of the United States, and the chief executive officer of each such territory shall be considered to be a Governor of a State.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 901; Pub. L. 86–342, title I, §107(a), Sept. 21, 1959, 73 Stat. 612; Pub. L. 89–574, §9(b), (c), Sept. 13, 1966, 80 Stat. 769; Pub. L. 90–495, §27(a), Aug. 23, 1968, 82 Stat. 829; Pub. L. 91–605, title I, §109(a), Dec. 31, 1970, 84 Stat. 1718; Pub. L. 92–361, Aug. 3, 1972, 86 Stat. 503; Pub. L. 94–280, title I, §119, May 5, 1976, 90 Stat. 437; Pub. L. 95–599, title I, §119, Nov. 6, 1978, 92 Stat. 2700; Pub. L. 96–106, §19, Nov. 9, 1979, 93 Stat. 799; Pub. L. 97–424, title I, §153(a), (c), (d), (h), Jan. 6, 1983, 96 Stat. 2132, 2133; Pub. L. 99–190, §101(e) \[title III, §334\], Dec. 19, 1985, 99 Stat. 1267, 1290; Pub. L. 99–272, title IV, §4103, Apr. 7, 1986, 100 Stat. 114; Pub. L. 100–17, title I, §§118(a)(1), (b)(1), (2), 133(b)(9), Apr. 2, 1987, 101 Stat. 156, 171; Pub. L. 100–707, §109(k), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 102–240, title I, §1022(b), Dec. 18,1991, 105 Stat. 1951; Pub. L. 102–302, §101, June 22, 1992, 106 Stat. 252; Pub. L. 105–178, title I, §§1113(b), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 151, 193.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 901; Pub. L. 86–342, title I, §107(a), Sept. 21, 1959, 73 Stat. 612; Pub. L. 89–574, §9(b), (c), Sept. 13, 1966, 80 Stat. 769; Pub. L. 90–495, §27(a), Aug. 23, 1968, 82 Stat. 829; Pub. L. 91–605, title I, §109(a), Dec. 31, 1970, 84 Stat. 1718; Pub. L. 92–361, Aug. 3, 1972, 86 Stat. 503; Pub. L. 94–280, title I, §119, May 5, 1976, 90 Stat. 437; Pub. L. 95–599, title I, §119, Nov. 6, 1978, 92 Stat. 2700; Pub. L. 96–106, §19, Nov. 9, 1979, 93 Stat. 799; Pub. L. 97–424, title I, §153(a), (c), (d), (h), Jan. 6, 1983, 96 Stat. 2132, 2133; Pub. L. 99–190, §101(e) \[title III, §334\], Dec. 19, 1985, 99 Stat. 1267, 1290; Pub. L. 99–272, title IV, §4103, Apr. 7, 1986, 100 Stat. 114; Pub. L. 100–17, title I, §§118(a)(1), (b)(1), (2), 133(b)(9), Apr. 2, 1987, 101 Stat. 156, 171; Pub. L. 100–707, §109(k), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 102–240, title I, §1022(b), Dec. 18, 1991, 105 Stat. 1951; Pub. L. 102–302, §101, June 22, 1992, 106 Stat. 252; Pub. L. 105–178, title I, §§1113(b), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 151, 193.)
 
 #### References in Text
 
@@ -36,7 +36,7 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–178, §1113(b)(2), added subsec. (a) and struck out former subsec. (a) which authorized expenditures by Secretary from emergency fund for repair or reconstruction of highways, roads, or trails which have suffered serious damage from natural disasters or catastrophic failures from external sources, including provisions relating to restrictions on eligibility and funding.
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §1113(b)(2), added subsec. (a) and struck out former subsec. (a) which authorized expenditures by Secretary from emergency fund for repair or reconstruction of highways, roads, or trails which have suffered serious damage from natural disasters or catastrophic failures from external sources, including provisions relating to restrictions on eligibility and funding.
 
 Subsecs. (b), (c). Pub. L. 105–178, §1113(b)(1), (2), added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively.
 
@@ -52,13 +52,13 @@ Pub. L. 105–178, §1113(b)(1), redesignated subsec. (c) as (e).
 
 Subsec. (f). Pub. L. 105–178, §1113(b)(1), redesignated subsec. (d) as (f).
 
-1992—Subsec. (b). Pub. L. 102–302, which directed the substitution of “on Federal-aid highways” for “on the Federal-aid highway systems including the Interstate System” in two places, could not be executed because phrase “on the Federal-aid highway systems including the Interstate System” did not appear in text.
+<b>1992</b>—Subsec. (b). Pub. L. 102–302, which directed the substitution of “on Federal-aid highways” for “on the Federal-aid highway systems including the Interstate System” in two places, could not be executed because phrase “on the Federal-aid highway systems including the Interstate System” did not appear in text.
 
-1991—Subsec. (b)(2). Pub. L. 102–240 substituted “$20,000,000” for “$5,000,000”.
+<b>1991</b>—Subsec. (b)(2). Pub. L. 102–240 substituted “$20,000,000” for “$5,000,000”.
 
-1988—Subsec. (b). Pub. L. 100–707 substituted “and Emergency Assistance Act” for “Act of 1974”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–707 substituted “and Emergency Assistance Act” for “Act of 1974”.
 
-1987—Subsec. (b). Pub. L. 100–17, §133(b)(9)(A), substituted “the Federal-aid highway systems, including the Interstate System” for “the Interstate System, the Primary System, and on any routes functionally classified as arterials or major collectors” in two places.
+<b>1987</b>—Subsec. (b). Pub. L. 100–17, §133(b)(9)(A), substituted “the Federal-aid highway systems, including the Interstate System” for “the Interstate System, the Primary System, and on any routes functionally classified as arterials or major collectors” in two places.
 
 Pub. L. 100–17, §118(a)(1), substituted “in a State shall not exceed $100,000,000.” for “shall not exceed $30,000,000 ($55,000,000 for projects in connection with disasters or failures occurring in calendar year 1985) in any State.”
 
@@ -68,11 +68,11 @@ Subsec. (c). Pub. L. 100–17, §133(b)(9)(B), substituted “on any of the Fede
 
 Subsec. (d). Pub. L. 100–17, §118(b)(1), added subsec. (d).
 
-1986—Subsec. (b). Pub. L. 99–272 inserted parenthetical provision allowing obligations not exceeding $55,000,000 for projects in connection with disasters or failures occurring in calendar year 1985.
+<b>1986</b>—Subsec. (b). Pub. L. 99–272 inserted parenthetical provision allowing obligations not exceeding $55,000,000 for projects in connection with disasters or failures occurring in calendar year 1985.
 
-1985—Pub. L. 99–190 amended section in manner substantially identical to amendment by Pub. L. 99–272.
+<b>1985</b>—Pub. L. 99–190 amended section in manner substantially identical to amendment by Pub. L. 99–272.
 
-1983—Subsec. (a). Pub. L. 97–424, §153(a)(1), inserted “(1)” before “the repair or reconstruction of highways”, and substituted “Secretary” for “he” before “shall find have suffered”; (A) and (B) for (1) and (2), respectively; “In no event shall funds be used pursuant to this section for the” for “and (2)”; and “or responsible local official” for “after December 31, 1967, and prior to December 31, 1970,”.
+<b>1983</b>—Subsec. (a). Pub. L. 97–424, §153(a)(1), inserted “(1)” before “the repair or reconstruction of highways”, and substituted “Secretary” for “he” before “shall find have suffered”; (A) and (B) for (1) and (2), respectively; “In no event shall funds be used pursuant to this section for the” for “and (2)”; and “or responsible local official” for “after December 31, 1967, and prior to December 31, 1970,”.
 
 Pub. L. 97–424, §153(a)(2), inserted “from the Highway Trust Fund” after “appropriated”.
 
@@ -84,25 +84,25 @@ Pub. L. 97–424, §153(h)(1), substituted “the Interstate System, the Primary
 
 Subsec. (c). Pub. L. 97–424, §153(h)(2), substituted “routes functionally classified as arterials or major collectors” for “on any of the Federal-aid highway systems”.
 
-1979—Subsec. (b). Pub. L. 96–106 inserted provision that notwithstanding any provision of this chapter actual and necessary costs of maintenance and operation of ferryboats providing temporary substitute highway traffic service, less the amount of fares charged, may be expended from the emergency fund herein authorized on the Federal-aid highway systems, including the Interstate System.
+<b>1979</b>—Subsec. (b). Pub. L. 96–106 inserted provision that notwithstanding any provision of this chapter actual and necessary costs of maintenance and operation of ferryboats providing temporary substitute highway traffic service, less the amount of fares charged, may be expended from the emergency fund herein authorized on the Federal-aid highway systems, including the Interstate System.
 
-1978—Subsec. (a). Pub. L. 95–599 inserted “prior to the fiscal year ending September 30, 1978” after “such years, and (2)”, and inserted provision authorizing appropriations of 100 percent of expenditures out of the Highway Trust Fund.
+<b>1978</b>—Subsec. (a). Pub. L. 95–599 inserted “prior to the fiscal year ending September 30, 1978” after “such years, and (2)”, and inserted provision authorizing appropriations of 100 percent of expenditures out of the Highway Trust Fund.
 
-1976—Subsec. (a). Pub. L. 94–280, §119(a)(1)–(3), inserted “, and ending before June 1, 1976,” after “June 30, 1972,”, authorized expenditure of not more than $25,000,000 for the three-month period beginning July 1, 1976, and ending September 30, 1976, and not more than $100,000,000 in any one fiscal year commencing after September 30, 1976, and inserted provision that for the purposes of this section the period beginning July 1, 1976, and ending September 30, 1976, shall be deemed to be a part of the fiscal year ending September 30, 1977.
+<b>1976</b>—Subsec. (a). Pub. L. 94–280, §119(a)(1)–(3), inserted “, and ending before June 1, 1976,” after “June 30, 1972,”, authorized expenditure of not more than$25,000,000 for the three-month period beginning July 1, 1976, and ending September 30, 1976, and not more than $100,000,000 in any one fiscal year commencing after September 30, 1976, and inserted provision that for the purposes of this section the period beginning July 1, 1976, and ending September 30, 1976, shall be deemed to be a part of the fiscal year ending September 30, 1977.
 
 Subsec. (b). Pub. L. 94–280, §119(b), excepted from the requirement of a concurrence by the Secretary an emergency declared by the President to be a major disaster for purposes of the Disaster Relief Act of 1974.
 
-1972—Subsec. (a). Pub. L. 92–361 substituted provisions setting forth maximum expendable amounts for fiscal years ending July 1, 1972 and for fiscal years commencing after June 30, 1972 and an additional amount for fiscal year ending June 30, 1973 for provisions setting forth maximum expendable amount for any fiscal year.
+<b>1972</b>—Subsec. (a). Pub. L. 92–361 substituted provisions setting forth maximum expendable amounts for fiscal years ending July 1, 1972 and for fiscal years commencing after June 30, 1972 and an additional amount for fiscal year ending June 30, 1973 for provisions setting forth maximum expendable amount for any fiscal year.
 
-1970—Subsec. (a). Pub. L. 91–605 provided emergency relief for the repair or reconstruction of bridges which have been permanently closed to all vehicular traffic by the State after December 31, 1967, and prior to December 31, 1970, because of imminent danger of collapse due to structural deficiencies or physical deterioration.
+<b>1970</b>—Subsec. (a). Pub. L. 91–605 provided emergency relief for the repair or reconstruction of bridges which have been permanently closed to all vehicular traffic by the State after December 31, 1967, and prior to December 31, 1970, because of imminent danger of collapse due to structural deficiencies or physical deterioration.
 
-1968—Subsec. (a). Pub. L. 90–495 permitted the use of the emergency fund for repair or construction caused by other than natural catastrophes.
+<b>1968</b>—Subsec. (a). Pub. L. 90–495 permitted the use of the emergency fund for repair or construction caused by other than natural catastrophes.
 
-1966—Subsec. (a). Pub. L. 89–574, §9(c), raised from $30,000,000 to $50,000,000 the upper limit on allowable annual appropriations to establish and replenish the fund, provided that, if, in any fiscal year the total of all expenditures under this section is less than $50,000,000,the unexpended balance of such amount shall remain available for expenditure during the next two succeeding fiscal years in addition to amount otherwise available, and provided that 60 per centum of the expenditures under this section are authorized to be appropriated from the Highway Trust Fund and the remaining 40 per centum of such expenditures are authorized to be appropriated only from any monies in the Treasury not otherwise appropriated.
+<b>1966</b>—Subsec. (a). Pub. L. 89–574, §9(c), raised from $30,000,000 to $50,000,000 the upper limit on allowable annual appropriations to establish and replenish the fund, provided that, if, in any fiscal year the total of all expenditures under this section is less than $50,000,000, the unexpended balance of such amount shall remain available for expenditure during the next two succeeding fiscal years in addition to amount otherwise available, and provided that 60 per centum of the expenditures under this section are authorized to be appropriated from the Highway Trust Fund and the remaining 40 per centum of such expenditures are authorized to be appropriated only from any monies in the Treasury not otherwise appropriated.
 
 Subsec. (c). Pub. L. 89–574, §9(b), added parkways, public lands highways, public lands development roads, and trails to the list of types of roads the repair or reconstruction of which may be paid for out of the emergency fund.
 
-1959—Pub. L. 86–342, among other changes, made expenditures from the emergency fund subject to the provisions of section 120 of this title, and permitted the Secretary to expend funds from the emergency fund, either independently or in cooperation with any other branch of the Government, State agency, organization, or person, for the repair or reconstruction of forest highways, forest development roads and trails, park roads and trails, and Indian reservation roads, whether or not such highways, roads, or trails are on any of the Federal-aid highway systems.
+<b>1959</b>—Pub. L. 86–342, among other changes, made expenditures from the emergency fund subject to the provisions of section 120 of this title, and permitted the Secretary to expend funds from the emergency fund, either independently or in cooperation with any other branch of the Government, State agency, organization, or person, for the repair or reconstruction of forest highways, forest development roads and trails, park roads and trails, and Indian reservation roads, whether or not such highways, roads, or trails are on any of the Federal-aid highway systems.
 
 #### Effective Date of 1991 Amendment
 

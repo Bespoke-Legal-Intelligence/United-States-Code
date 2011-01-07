@@ -24,7 +24,7 @@ Cooperative agreements under this section shall provide, whenever appropriate, t
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–11, §7117(b)(1), inserted “Hawthorn Hill, the Wright Company factory,” before “the Wright Cycle Company Building”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–11, §7117(b)(1), inserted “Hawthorn Hill, the Wright Company factory,” before “the Wright Cycle Company Building”.
 
 Subsec. (b). Pub. L. 111–11, §7117(b)(2), redesignated last sentence as subsec. (d).
 

@@ -22,7 +22,7 @@ Such marine research plan shall include—
 
 &emsp;(4) an assessment of how the plan will incorporate existing marine, coastal, and estuarine research and management in the region, including activities pursuant to section 1330 of title 33 and section 1461 of this title; and
 
-&emsp;(5) a general description of marine research and monitoring objectives and timetables forachievement through the funding of projects under this chapter during the 4-year period covered by the plan so as to meet the priorities specified in the plan in accordance with paragraph (3).
+&emsp;(5) a general description of marine research and monitoring objectives and timetables for achievement through the funding of projects under this chapter during the 4-year period covered by the plan so as to meet the priorities specified in the plan in accordance with paragraph (3).
 
 #### (c) Plan review and approval
 

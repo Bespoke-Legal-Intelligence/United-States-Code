@@ -12,17 +12,35 @@ All hearings shall be public and appropriate records thereof shall be kept, and 
 
 The Secretary shall conduct all actions with respect to rulemaking or adjudication under this chapter in accordance with the provisions of chapter 5 of title 5. Notice shall be given of any adverse action or final disposition and such notice and the entry of any order shall be accompanied by a written statement of supporting facts and legal authority.
 
-(Pub. L. 90–448, title XIV, §1416, Aug. 1, 1968, 82 Stat. 597; Pub. L. 95–251, §2(a)(5), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–454, title VIII, §801(a)(3)(J), Oct. 13, 1978, 92 Stat. 1222; Pub. L. 96–153, title IV, §407, Dec. 21, 1979, 93 Stat. 1131; Pub. L. 98–479, title II, §202(d), Oct. 17, 1984, 98 Stat. 2228.)
+(Pub. L. 90–448, title XIV, §1416, Aug. 1, 1968, 82 Stat. 597; Pub. L. 95–251, §2(a)(5), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–454, title VIII, §801(a)(3)(J), Oct. 13, 1978, 92 Stat. 1222; Pub. L. 96–153, title IV, §407, Dec. 21, 1979, 93 Stat. 1131; Pub. L. 98–479, title II, §202(d), Oct. 17, 1984, 98 Stat. 2228; Pub. L. 111–203, title X, §1098A(1)–(3), (5), July 21, 2010, 124 Stat. 2105.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1098A(1)–(3), (5), 1100H, July 21, 2010, 124 Stat. 2105, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
+
+<i>(1) by striking “Secretary” each place that term appears and inserting “Director”;</i>
+
+<i>(2) by striking “Department of Housing and Urban Development” each place that term appears and inserting “Bureau of Consumer Financial Protection”;</i>
+
+<i>(3) by striking “Department” each place that term appears and inserting “Bureau”; and</i>
+
+<i>(4) in subsection (a), by striking “Secretary of Housing and Urban Development” and inserting “Director of the Bureau of Consumer Financial Protection”.</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–479 substituted “subchapter II of chapter 5, and chapter 7, of title 5” for “the Administrative Procedure Act”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–479 substituted “subchapter II of chapter 5, and chapter 7, of title 5” for “the Administrative Procedure Act”.
 
-1979—Subsec. (c). Pub. L. 96–153 added subsec. (c).
+<b>1979</b>—Subsec. (c). Pub. L. 96–153 added subsec. (c).
 
-1978—Subsec. (a). Pub. L. 95–454 substituted “5372” for “5362”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–454 substituted “5372” for “5362”.
 
 Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners” wherever appearing.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1979 Amendment
 

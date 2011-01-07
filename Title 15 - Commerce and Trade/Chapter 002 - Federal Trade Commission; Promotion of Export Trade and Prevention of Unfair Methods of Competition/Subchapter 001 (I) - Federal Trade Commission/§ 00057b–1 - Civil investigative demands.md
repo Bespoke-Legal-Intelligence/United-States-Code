@@ -166,7 +166,7 @@ A prior section 20 of act Sept. 26, 1914, ch. 311, was renumbered section 24 and
 
 #### Amendments
 
-1994—Subsec. (a)(2). Pub. L. 103–312, §7(a)(1), inserted before period at end “or in any antitrust violations”.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–312, §7(a)(1), inserted before period at end “or in any antitrust violations”.
 
 Subsec. (a)(3). Pub. L. 103–312, §7(a)(2), inserted before period at end “or any provisions relating to antitrust violations”.
 

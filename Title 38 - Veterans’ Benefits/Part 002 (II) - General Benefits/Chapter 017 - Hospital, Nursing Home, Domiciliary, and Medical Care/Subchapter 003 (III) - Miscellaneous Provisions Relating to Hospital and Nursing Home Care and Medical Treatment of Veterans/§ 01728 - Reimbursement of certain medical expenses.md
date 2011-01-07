@@ -26,13 +26,13 @@
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–387, §402(b)(1), added subsec. (a) and struck out former subsec. (a) which authorized the Secretary to reimburse veterans entitled to hospital care or medical services for the reasonable value of such care or services for which such veterans made payment from sources other than the Department under certain conditions.
+<b>2008</b>—Subsec. (a). Pub. L. 110–387, §402(b)(1), added subsec. (a) and struck out former subsec. (a) which authorized the Secretary to reimburse veterans entitled to hospital care or medical services for the reasonable value of such care or services for which such veterans made payment from sources other than the Department under certain conditions.
 
 Subsec. (b). Pub. L. 110–387, §402(b)(2), substituted “emergency treatment” for “care or services” in introductory provisions and in par. (1).
 
 Subsec. (c). Pub. L. 110–387, §402(b)(3), added subsec. (c).
 
-1991—Pub. L. 102–83, §5(a), renumbered section 628 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 628 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places in introductory provisions.
 
@@ -44,11 +44,11 @@ Pub. L. 102–54 substituted “(i) is” for “is (i)”.
 
 Subsec. (b). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
-1989—Subsec. (a)(2)(D). Pub. L. 101–237 substituted “(i) a participant in a vocational rehabilitation program (as defined in section 1501(9) of this title), and (ii)” for “found to be (i) in need of vocational rehabilitation under chapter 31 of this title and for whom an objective had been selected or (ii) pursuing a course of vocational rehabilitation training and”.
+<b>1989</b>—Subsec. (a)(2)(D). Pub. L. 101–237 substituted “(i) a participant in a vocational rehabilitation program (as defined in section 1501(9) of this title), and (ii)” for “found to be (i) in need of vocational rehabilitationunder chapter 31 of this title and for whom an objective had been selected or (ii) pursuing a course of vocational rehabilitation training and”.
 
-1979—Subsec. (a). Pub. L. 96–151 substituted provisions relating to travel and incidental expenses for provisions relating to necessary travel.
+<b>1979</b>—Subsec. (a). Pub. L. 96–151 substituted provisions relating to travel and incidental expenses for provisions relating to necessary travel.
 
-1976—Subsec. (a). Pub. L. 94–581 substituted “as the Administrator shall prescribe” for “as he shall prescribe” in provisions preceding par. (1), substituted “delay” for “they” in par. (1), and substituted “make possible such veteran's entrance” for “make possible his entrance” in par. (2)(D)(ii).
+<b>1976</b>—Subsec. (a). Pub. L. 94–581 substituted “as the Administrator shall prescribe” for “as he shall prescribe” in provisions preceding par. (1), substituted “delay” for “they” in par. (1), and substituted “make possible such veteran's entrance” for “make possible his entrance” in par. (2)(D)(ii).
 
 #### Effective Date of 1989 Amendment
 

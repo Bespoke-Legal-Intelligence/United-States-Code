@@ -22,13 +22,13 @@ The Secretary of Labor shall take such actions as the Secretary determines to be
 
 #### (2) Final regulations
 
-&emsp;Not later than December 31, 1999, the Secretary shall develop and publish in the FederalRegister final regulations relating to the transition to, and implementation of, this Act.
+&emsp;Not later than December 31, 1999, the Secretary shall develop and publish in the Federal Register final regulations relating to the transition to, and implementation of, this Act.
 
 #### (d) Expenditure of funds during transition
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2) and in accordance with regulations developed under subsection (c) of this section, States, grant recipients, administrative entities, and other recipients of financial assistance under the Job Training Partnership Act (29 U.S.C. 1501 et seq.) or under this Act may expend funds received under the Job Training Partnership Act or under this Act, prior to July 1, 2000, in order to plan and implement programs and activities authorized under this Act.
+&emsp;Subject to paragraph (2) and in accordance with regulations developed under subsection (c) of this section, States, grant recipients, administrative entities, and other recipients of financial assistance under the Job Training Partnership Act (29 U.S.C. 1501 et seq.) or under this Act may expend funds received under the Job Training Partnership Act or under this Act, prior to July 1, 2000, in orderto plan and implement programs and activities authorized under this Act.
 
 #### (2) Additional requirements
 
@@ -52,7 +52,7 @@ The Adult Education and Family Literacy Act, referred to in subsec. (b)(1), is t
 
 #### Amendments
 
-1998—Subsec. (b)(2). Pub. L. 105–332 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The authority to take actions under paragraph (1) shall apply only for the 1-year period beginning on August 7, 1998.”
+<b>1998</b>—Subsec. (b)(2). Pub. L. 105–332 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The authority to take actions under paragraph (1) shall apply only for the 1-year period beginning on August 7, 1998.”
 
 Subsec. (d)(1). Pub. L. 105–277, §101(f) \[title VIII, §401(19)(A)\], substituted “subsection (c)” for “subsection (b)”.
 

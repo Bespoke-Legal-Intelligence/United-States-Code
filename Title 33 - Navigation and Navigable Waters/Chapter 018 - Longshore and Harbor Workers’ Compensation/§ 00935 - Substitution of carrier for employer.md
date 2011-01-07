@@ -6,9 +6,9 @@ In any case where the employer is not a self-insurer, in order that the liabilit
 
 #### Amendments
 
-1984—Pub. L. 98–426 substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
+<b>1984</b>—Pub. L. 98–426 substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
 
-1972—Pub. L. 92–576 inserted reference to the Board in cls. (2) and (3).
+<b>1972</b>—Pub. L. 92–576 inserted reference to the Board in cls. (2) and (3).
 
 #### Effective Date of 1984 Amendment
 

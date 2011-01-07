@@ -32,7 +32,3 @@ The Secretary shall, in carrying out the Secretary's responsibilities and functi
 
 (Pub. L. 101–501, title IX, §984, Nov. 3, 1990, 104 Stat. 1281.)
 
-#### References in Text
-
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (a)(5), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-

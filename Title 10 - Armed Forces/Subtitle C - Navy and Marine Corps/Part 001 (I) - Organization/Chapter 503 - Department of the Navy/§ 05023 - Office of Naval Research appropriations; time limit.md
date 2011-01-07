@@ -36,7 +36,7 @@ The authorization to make appropriations for the Office of Naval Research is omi
 
 #### Amendments
 
-1986—Pub. L. 99–433, §511(d), renumbered section 5152 of this title as this section.
+<b>1986</b>—Pub. L. 99–433, §511(d), renumbered section 5152 of this title as this section.
 
 Subsec. (a). Pub. L. 99–433, §514(c)(2), substituted “section 5022” for “section 5151”.
 

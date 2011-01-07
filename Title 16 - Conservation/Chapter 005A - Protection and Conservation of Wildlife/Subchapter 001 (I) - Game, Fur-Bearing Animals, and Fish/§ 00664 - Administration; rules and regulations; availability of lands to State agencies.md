@@ -6,9 +6,9 @@ Such areas as are made available to the Secretary of the Interior for the purpos
 
 #### Amendments
 
-1958—Pub. L. 85–624 permitted lands having value to the National Bird Management Program to be made available directly to the State agency having control over wildlife resources.
+<b>1958</b>—Pub. L. 85–624 permitted lands having value to the National Bird Management Program to be made available directly to the State agency having control over wildlife resources.
 
-1946—Act Aug. 14, 1946, amended section generally to provide for administration of wildlife areas, and for the promulgation of rules and regulations.
+<b>1946</b>—Act Aug. 14, 1946, amended section generally to provide for administration of wildlife areas, and for the promulgation of rules and regulations.
 
 #### Transfer of Functions
 

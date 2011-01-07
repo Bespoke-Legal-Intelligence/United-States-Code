@@ -28,7 +28,7 @@ After payment in full of all awards certified to the Secretary of the Treasury p
 
 #### Amendments
 
-1968—Pub. L. 90–421 designated existing provisions as subsec. (a) and added subsecs. (b) to (f).
+<b>1968</b>—Pub. L. 90–421 designated existing provisions as subsec. (a) and added subsecs. (b) to (f).
 
-1958—Pub. L. 85–604 authorized the Commission to determine the validity and amount of claims by natural persons who were citizens of the United States on Aug. 9, 1955.
+<b>1958</b>—Pub. L. 85–604 authorized the Commission to determine the validity and amount of claims by natural persons who were citizens of the United States on Aug. 9, 1955.
 

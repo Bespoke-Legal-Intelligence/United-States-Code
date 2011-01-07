@@ -26,21 +26,17 @@ In order to carry out its functions under this chapter, the Commission is author
 
 (Pub. L. 94–118, §6, Oct. 20, 1975, 89 Stat. 605; Pub. L. 94–350, title IV, §401(1), July 12, 1976, 90 Stat. 833; Pub. L. 95–426, title VII, §703(a), Oct. 7, 1978, 92 Stat. 992; Pub. L. 97–241, title V, §503(a), Aug. 24, 1982, 96 Stat. 298; Pub. L. 102–138, title I, §167, Oct. 28, 1991, 105 Stat. 676; Pub. L. 105–277, div. A, §101(b) \[title IV, §404(a)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–101.)
 
-#### References In Text
-
-The provisions of title 5 governing appointments in the competitive service, referred to in par. (5), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 #### Amendments
 
-1998—Par. (4). Pub. L. 105–277 substituted “needed” for “needed, except that any amounts expended from amounts appropriated to the Fund under section 2902(e)(1) of this title shall be expended in Japan or for not more than 50 percent of administrative expenses in the United States”.
+<b>1998</b>—Par. (4). Pub. L. 105–277 substituted “needed” for “needed, except that any amounts expended from amounts appropriated to the Fund under section 2902(e)(1) of this title shall be expended in Japan or for not more than 50 percent of administrative expenses in the United States”.
 
-1991—Par. (4). Pub. L. 102–138 inserted “or for not more than 50 percent of administrative expenses in the United States” after “Japan”.
+<b>1991</b>—Par. (4). Pub. L. 102–138 inserted “or for not more than 50 percent of administrative expenses in the United States” after “Japan”.
 
-1982—Par. (4). Pub. L. 97–241 substituted “, any amount of the contributions deposited in the Fund from nonappropriated sources pursuant to paragraph (2) or (3) of this section, and not to exceed 5 percent annually of the principal of the total amount appropriated to the Fund” for “and not to exceed 5 per centum annually of the principal of the Fund”.
+<b>1982</b>—Par. (4). Pub. L. 97–241 substituted “, any amount of the contributions deposited in the Fund from nonappropriated sources pursuant to paragraph (2) or (3) of this section, and not to exceed 5 percent annually of the principal of the total amount appropriated to the Fund” for “and not to exceed 5 per centum annually of the principal of the Fund”.
 
-1978—Par. (11). Pub. L. 95–426 added par. (11).
+<b>1978</b>—Par. (11). Pub. L. 95–426 added par. (11).
 
-1976—Par. (10). Pub. L. 94–350 struck out “from the Secretary of State, on a reimbursable basis,” after “obtain”.
+<b>1976</b>—Par. (10). Pub. L. 94–350 struck out “from the Secretary of State, on a reimbursable basis,” after “obtain”.
 
 #### Effective Date of 1978 Amendment
 

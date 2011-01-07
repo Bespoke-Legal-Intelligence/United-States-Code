@@ -24,3 +24,5 @@ Each report under subsection (a) of this section shall set forth, at a minimum�
 
 (Pub. L. 106–286, div. B, title V, §505, Oct. 10, 2000, 114 Stat. 904.)
 
+<i><sup>1</sup></i><i> So in original. Probably should be “People's”.</i>
+

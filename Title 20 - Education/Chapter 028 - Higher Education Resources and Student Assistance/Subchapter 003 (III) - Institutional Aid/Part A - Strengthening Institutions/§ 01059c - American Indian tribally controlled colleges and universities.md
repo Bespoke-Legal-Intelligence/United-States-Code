@@ -82,7 +82,7 @@ In this section:
 
 #### (C) Comparability
 
-&emsp;&emsp;The provisions of part C of this subchapter regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this paragraph, shall apply to funds used under subparagraph (A).
+&emsp;&emsp;The provisions of part C of this subchapter regarding the establishment or increase ofan endowment fund, that the Secretary determines are not inconsistent with this paragraph, shall apply to funds used under subparagraph (A).
 
 #### (d) Application, plan, and allocation
 
@@ -148,13 +148,13 @@ Section 532 of the Equity in Educational Land-Grant Status Act of 1994, referred
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–39, §301(1)(A), substituted “Tribal” for “Indian Tribal”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–39, §301(1)(A), substituted “Tribal” for “Indian Tribal”.
 
 Subsec. (b)(1), (2). Pub. L. 111–39, §301(1)(B)(i), (ii), substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
 
 Subsec. (b)(3)(A). Pub. L. 111–39, §301(1)(B)(iii), substituted “the Navajo Community College Act” for “the Navajo Community College Assistance Act of 1978”.
 
-2008—Subsec. (b)(3). Pub. L. 110–315, §303(1), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term ‘Tribal College or University’ has the meaning give the term ‘tribally controlled college or university’ in section 1801 of title 25, and includes an institution listed in the Equity in Educational Land Grant Status Act of 1994.
+<b>2008</b>—Subsec. (b)(3). Pub. L. 110–315, §303(1), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term ‘Tribal College or University’ has the meaning give the term ‘tribally controlled college or university’ in section 1801 of title 25, and includes an institution listed in the Equity in Educational Land Grant Status Act of 1994.
 
 Subsec. (c)(2)(B). Pub. L. 110–315, §303(2)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “construction, maintenance, renovation, and improvement in classrooms, libraries, laboratories, and other instructional facilities, including purchase or rental of telecommunications technology equipment or services;”.
 
@@ -166,13 +166,13 @@ Subsec. (c)(2)(G) to (N). Pub. L. 110–315, §303(2)(D)–(H), added subpars. (
 
 Subsec. (d). Pub. L. 110–315, §303(3), added subsec. (d) and struck out former subsec. (d) which related to the application process for assistance under this section.
 
-2000—Subsec. (d)(2). Pub. L. 106–211, §1(a), inserted after first sentence “The Secretary shall, to the extent possible, prescribe a simplified and streamlined format for such applications that takes into account the limited number of institutions that are eligible for assistance under this section.”
+<b>2000</b>—Subsec. (d)(2). Pub. L. 106–211, §1(a), inserted after first sentence “The Secretary shall, to the extent possible, prescribe a simplified and streamlined format for such applications that takes into account the limited number of institutions that are eligible for assistance under this section.”
 
 Subsec. (d)(3). Pub. L. 106–211, §1(b)(1), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “For the purposes of this part, no Tribal College or University that is eligible for and receives funds under this section may concurrently receive other funds under this part or part B of this subchapter.”
 
-1998—Pub. L. 105–244 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (e) authorizing grants and related assistance to Hispanic-serving institutions to enable such institutions to improve and expand their capacity to serve Hispanic and other low-income students.
+<b>1998</b>—Pub. L. 105–244 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (e) authorizing grants and related assistance to Hispanic-serving institutions to enable such institutions to improve and expand their capacity to serve Hispanic and other low-income students.
 
-1993—Subsec. (c). Pub. L. 103–208 substituted “(2)
+<b>1993</b>—Subsec. (c). Pub. L. 103–208 substituted “(2)
 
 Examples of authorized activities.—Such programs may include—” for “Such programs may include—”.
 

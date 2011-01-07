@@ -6,11 +6,11 @@ There are authorized to be appropriated to the Administrator, for purposes of ca
 
 #### Amendments
 
-1989—Pub. L. 101–178 inserted provisions authorizing appropriations of $1,525,000 for each of fiscal years 1990, 1991, 1992, 1993, and 1994.
+<b>1989</b>—Pub. L. 101–178 inserted provisions authorizing appropriations of $1,525,000 for each of fiscal years 1990, 1991, 1992, 1993, and 1994.
 
-1986—Pub. L. 99–507 inserted provisions authorizing appropriations of $1,500,000 for each of fiscal years ending Sept. 30, 1987, Sept. 30, 1988, and Sept. 30, 1989.
+<b>1986</b>—Pub. L. 99–507 inserted provisions authorizing appropriations of $1,500,000 for each of fiscal years ending Sept. 30, 1987, Sept. 30, 1988, and Sept. 30, 1989.
 
-1984—Pub. L. 98–623 inserted provisions authorizing appropriations of $1,500,000 for each of fiscal years ending Sept. 30, 1985, and Sept. 30, 1986.
+<b>1984</b>—Pub. L. 98–623 inserted provisions authorizing appropriations of $1,500,000 for each of fiscal years ending Sept. 30, 1985, and Sept. 30, 1986.
 
-1983—Pub. L. 97–416 inserted provisions authorizing appropriations of $1,469,000 for fiscal year ending Sept. 30, 1983, and $2,150,000 for fiscal year ending Sept. 30, 1984.
+<b>1983</b>—Pub. L. 97–416 inserted provisions authorizing appropriations of $1,469,000 for fiscal year ending Sept. 30, 1983, and $2,150,000 for fiscal year ending Sept. 30, 1984.
 

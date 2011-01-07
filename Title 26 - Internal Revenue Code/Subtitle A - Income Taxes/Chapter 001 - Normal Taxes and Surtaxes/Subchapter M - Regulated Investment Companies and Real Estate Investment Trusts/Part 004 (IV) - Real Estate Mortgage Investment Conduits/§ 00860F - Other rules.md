@@ -36,7 +36,7 @@
 
 #### (3) Determination of net income
 
-&emsp;For purposes of paragraph (1), the term “net income derived from prohibited transactions” means the excess of the gross income from prohibited transactions over the deductions allowed by this chapter which are directly connected with such transactions; except that there shall not be taken into account any item attributable to any prohibited transaction for which there was a loss.
+&emsp;For purposes of paragraph (1), the term “net income derived from prohibited transactions” means the excess of the gross income fromprohibited transactions over the deductions allowed by this chapter which are directly connected with such transactions; except that there shall not be taken into account any item attributable to any prohibited transaction for which there was a loss.
 
 #### (4) Qualified liquidation
 
@@ -74,7 +74,7 @@
 
 #### (A) Nonrecognition gain or loss
 
-&emsp;&emsp;No gain or loss shall be recognized to the transferor on the transfer of any property toa REMIC in exchange for regular or residual interests in such REMIC.
+&emsp;&emsp;No gain or loss shall be recognized to the transferor on the transfer of any property to a REMIC in exchange for regular or residual interests in such REMIC.
 
 #### (B) Adjusted bases of interests
 
@@ -128,9 +128,9 @@ For purposes of subtitle F, a REMIC shall be treated as a partnership (and holde
 
 #### Amendments
 
-1996—Subsec. (a)(5). Pub. L. 104–188 substituted “paragraph (2)” for “paragraph (1)” in introductory provisions.
+<b>1996</b>—Subsec. (a)(5). Pub. L. 104–188 substituted “paragraph (2)” for “paragraph (1)” in introductory provisions.
 
-1988—Subsec. (a)(2)(A). Pub. L. 100–647, §1006(t)(3)(B)(i), struck out at end “Notwithstanding the preceding sentence, the term ‘prohibited transaction’ shall not include any disposition required to prevent default on a regular interest where the threatened default resulted from a default on 1 or more qualified mortgages.”
+<b>1988</b>—Subsec. (a)(2)(A). Pub. L. 100–647, §1006(t)(3)(B)(i), struck out at end “Notwithstanding the preceding sentence, the term ‘prohibited transaction’ shall not include any disposition required to prevent default on a regular interest where the threatened default resulted from a default on 1 or more qualified mortgages.”
 
 Subsec. (a)(2)(A)(i). Pub. L. 100–647, §1006(t)(3)(A), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the substitution of a qualified replacement mortgage for a qualified mortgage,”.
 

@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(C) a simplified employee pension described in section 408(k),
 
-> &emsp;such a contract, plan, or pension shall not be considered to be described in section 403(a), 403(b), or 408(k), as the case may be, unless it satisfies the requirements of subparagraph (A) or subparagraph (B) of paragraph (1), whichever is appropriate, and has not been disqualified under subsection (g). In the case of an annuity contract described in section 403(b), the preceding sentence shall apply only to the portion of the annuity contract which exceeds the limitation of subsection (b) or the limitation of subsection (c), whichever is appropriate.
+> &emsp;such a contract, plan, or pension shall not be considered to be described in section 403(a), 403(b), or 408(k), as the case may be, unless it satisfies the requirements of subparagraph (A) or subparagraph (B) of paragraph (1), whichever is appropriate, and has not been disqualified under subsection (g). In the case of an annuity contract described in section 403(b), thepreceding sentence shall apply only to the portion of the annuity contract which exceeds the limitation of subsection (b) or the limitation of subsection (c), whichever is appropriate.
 
 #### (b) Limitation for defined benefit plans
 
@@ -36,7 +36,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1), the term “annual benefit” means a benefit payableannually in the form of a straight life annuity (with no ancillary benefits) under a plan to which employees do not contribute and under which no rollover contributions (as defined in sections 402(c), 403(a)(4), 403(b)(8), 408(d)(3), and 457(e)(16)) are made.
+&emsp;&emsp;For purposes of paragraph (1), the term “annual benefit” means a benefit payable annually in the form of a straight life annuity (with no ancillary benefits) under a plan to which employees do not contribute and under which no rollover contributions (as defined in sections 402(c), 403(a)(4), 403(b)(8), 408(d)(3), and 457(e)(16)) are made.
 
 #### (B) Adjustment for certain other forms of benefit
 
@@ -84,7 +84,7 @@
 
 &emsp;&emsp;&emsp;(ii) with respect to whom the period of service taken into account in determining the amount of the benefit under such defined benefit plan includes at least 15 years of service of the participant—
 
-&emsp;&emsp;&emsp;&emsp;(I) as a full-time employee of any police department or fire department which is organized and operated by the State, Indian tribal government (as so defined), or any political subdivision maintaining such defined benefit plan to provide police protection, firefighting services, or emergency medical services for any area within the jurisdiction of such State, Indian tribal government (as so defined), or any political subdivision, or
+&emsp;&emsp;&emsp;&emsp;(I) as a full-time employee of any police department or fire department which is organized and operated by theState, Indian tribal government (as so defined), or any political subdivision maintaining such defined benefit plan to provide police protection, firefighting services, or emergency medical services for any area within the jurisdiction of such State, Indian tribal government (as so defined), or any political subdivision, or
 
 &emsp;&emsp;&emsp;&emsp;(II) as a member of the Armed Forces of the United States.
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;Subparagraph (C) of this paragraph and paragraph (5) shall not apply to—
 
-&emsp;&emsp;&emsp;(i) income received from a governmental plan (as defined in section 414(d)) as a pension, annuity, or similar allowance as the result of the recipient becoming disabledby reason of personal injuries or sickness, or
+&emsp;&emsp;&emsp;(i) income received from a governmental plan (as defined in section 414(d)) as a pension, annuity, or similar allowance as the result of the recipient becoming disabled by reason of personal injuries or sickness, or
 
 &emsp;&emsp;&emsp;(ii) amounts received from a governmental plan by the beneficiaries, survivors, or the estate of an employee as the result of the death of the employee.
 
@@ -156,7 +156,7 @@
 
 &emsp;&emsp;(E) which requires, as a condition of participation in the plan, that an employee complete a period of not more than 60 consecutive days of service with the employer or employers maintaining the plan.
 
-> &emsp;This paragraph shall not apply to a participant whose compensation for any 3 years during the 10-year period immediately preceding the year in which he separates from service exceeded the average compensation for such 3 years of all participants in such plan. This paragraph shall not apply to a participant for any period for which he is a participant under another plan to which this section applies which is maintained by an employer maintaining this plan. For any year for which the paragraph applies to benefits with respect to a participant, paragraph (1)(A) and subsection (d)(1)(A) shall be applied with respect to such participant by substituting one-half the amount otherwise applicable for such year under paragraph (1)(A) for “$160,000”.
+> &emsp;This paragraph shall not apply to a participant whose compensation for any 3 years during the 10-year period immediately preceding the year in which he separates from service exceeded the average compensation for such 3 years of all participants in such plan. This paragraph shall not apply to a participant forany period for which he is a participant under another plan to which this section applies which is maintained by an employer maintaining this plan. For any year for which the paragraph applies to benefits with respect to a participant, paragraph (1)(A) and subsection (d)(1)(A) shall be applied with respect to such participant by substituting one-half the amount otherwise applicable for such year under paragraph (1)(A) for “$160,000”.
 
 #### (8) Social security retirement age defined
 
@@ -294,7 +294,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) a lay person,
 
-&emsp;&emsp;&nbsp;as an employee of a church, a convention or association of churches, including an organization described in section 414(e)(3)(B)(ii), shall be considered as years of service for 1 employer, and
+&emsp;&emsp;&nbsp;as an employee of a church, a convention or association of churches, including an organization described in section414(e)(3)(B)(ii), shall be considered as years of service for 1 employer, and
 
 &emsp;&emsp;&emsp;(ii) all amounts contributed for annuity contracts by each such church (or convention or association of churches) or such organization during such years for such minister or lay person shall be considered to have been contributed by 1 employer.
 
@@ -384,7 +384,7 @@
 
 #### (g) Aggregation of plans
 
-Except as provided in subsection (f)(3),<sup>1</sup> the Secretary, in applying the provisions of this section to benefits or contributions under more than one plan maintained by the same employer, and to any trusts, contracts, accounts, or bonds referred to in subsection (a)(2), with respect to which the participant has the control required under section 414(b) or (c), as modified by subsection (h), shall, under regulations prescribed by the Secretary, disqualify one or more trusts, plans, contracts, accounts, or bonds, or any combination thereof until such benefits or contributions do not exceed the limitations contained in this section. In addition to taking into account such other factors as may be necessary to carry out the purposes of subsection (f), the regulations prescribed under this paragraph shall provide that no plan which has been terminated shall be disqualified until all other trusts, plans, contracts, accounts, or bonds have been disqualified.
+Except as provided in subsection (f)(3),<sup>1</sup> the Secretary, in applying the provisions of this section to benefits or contributions under morethan one plan maintained by the same employer, and to any trusts, contracts, accounts, or bonds referred to in subsection (a)(2), with respect to which the participant has the control required under section 414(b) or (c), as modified by subsection (h), shall, under regulations prescribed by the Secretary, disqualify one or more trusts, plans, contracts, accounts, or bonds, or any combination thereof until such benefits or contributions do not exceed the limitations contained in this section. In addition to taking into account such other factors as may be necessary to carry out the purposes of subsection (f), the regulations prescribed under this paragraph shall provide that no plan which has been terminated shall be disqualified until all other trusts, plans, contracts, accounts, or bonds have been disqualified.
 
 #### (h) 50 percent control
 
@@ -588,7 +588,7 @@ Subsection (f)(3), referred to in subsec. (g), was redesignated subsection (f)(2
 
 #### Amendments
 
-2008—Subsec. (b)(2)(E)(v). Pub. L. 110–458, §103(b)(2)(B)(i), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “For purposes of adjusting any benefit or limitation under subparagraph (B), (C), or (D), the mortality table used shall be the table prescribed by the Secretary. Such table shall be based on the prevailing commissioners’ standard table (described in section 807(d)(5)(A)) used to determine reserves for group annuity contracts issued on the date the adjustment is being made (without regard to any other subparagraph of section 807(d)(5)).”
+<b>2008</b>—Subsec. (b)(2)(E)(v). Pub. L. 110–458, §103(b)(2)(B)(i), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “For purposes of adjusting any benefit or limitation under subparagraph (B), (C), or (D), the mortality table used shall be the table prescribed by the Secretary. Such table shall be based on the prevailing commissioners’ standard table (described in section 807(d)(5)(A)) used to determine reserves for group annuity contracts issued on the date the adjustment is being made (without regard to any other subparagraph of section 807(d)(5)).”
 
 Subsec. (b)(2)(E)(vi). Pub. L. 110–458, §122(a), added cl. (vi).
 
@@ -596,7 +596,7 @@ Subsec. (b)(10). Pub. L. 110–458, §109(d)(1), made technical correction to di
 
 Subsec. (f)(2), (3). Pub. L. 110–458, §108(g), redesignated par. (3) as par. (2) and struck out former par. (2) which related to annual compensation taken into account for defined benefit plans.
 
-2006—Subsec. (b)(2)(E)(ii). Pub. L. 109–280, §303(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “For purposes of adjusting any benefit under subparagraph (B) for any form of benefit subject to section 417(e)(3), the applicable interest rate (as defined in section 417(e)(3)) shall be substituted for ‘5 percent’ in clause (i), except that in the case of plan years beginning in 2004 or 2005, ‘5.5 percent’ shall be substituted for ‘5 percent’ in clause (i).”
+<b>2006</b>—Subsec. (b)(2)(E)(ii). Pub. L. 109–280, §303(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “For purposes of adjusting any benefit under subparagraph (B) for any form of benefit subject to section 417(e)(3), the applicable interest rate (as defined in section 417(e)(3)) shall be substituted for ‘5 percent’ in clause (i), except that in the case of plan years beginning in 2004 or 2005, ‘5.5 percent’ shall be substituted for ‘5 percent’ in clause (i).”
 
 Subsec. (b)(2)(H)(i). Pub. L. 109–280, §906(b)(1)(A)(i), substituted “State, Indian tribal government (as defined in section 7701(a)(40)), or any political subdivision” for “State or political subdivision”.
 
@@ -622,21 +622,21 @@ Subsec. (n)(3)(C)(ii). Pub. L. 109–280, §821(c)(3), substituted “or a compa
 
 Subsec. (n)(3)(D). Pub. L. 109–280, §821(b), added subpar. (D).
 
-2005—Subsec. (c)(7)(C). Pub. L. 109–135, §407(b), substituted “$3,000. This subparagraph shall not apply with respect to any taxable year to any individual whose adjusted gross income for such taxable year (determined separately and without regard to community property laws) exceeds $17,000” for “the greater of $3,000 or the employee's includible compensation determined under section 403(b)(3)”.
+<b>2005</b>—Subsec. (c)(7)(C). Pub. L. 109–135, §407(b), substituted “$3,000. This subparagraph shall not apply with respect to any taxable year to any individual whose adjusted gross income for such taxable year (determined separately and without regard to community property laws) exceeds $17,000” for “the greater of $3,000 or the employee's includible compensation determined under section 403(b)(3)”.
 
 Subsec. (<i>l</i>)(1). Pub. L. 109–135, §412(y), substituted “individual medical benefit account” for “individual medical account”.
 
 Subsec. (n)(3)(C). Pub. L. 109–135, §412(z), substituted “clause” for “clauses” in concluding provisions.
 
-2004—Subsec. (b)(2)(E)(ii). Pub. L. 108–218 inserted before period at end “, except that in the case of plan years beginning in 2004 or 2005, ‘5.5 percent’ shall be substituted for ‘5 percent’ in clause (i)”.
+<b>2004</b>—Subsec. (b)(2)(E)(ii). Pub. L. 108–218 inserted before period at end “, except that in the case of plan years beginning in 2004 or 2005, ‘5.5 percent’ shall be substituted for ‘5 percent’ in clause (i)”.
 
 Subsec. (c)(7)(C). Pub. L. 108–311, §408(a)(17), substituted “subparagraph (B)” for “subparagraph (D)”.
 
 Subsec. (d)(4)(A). Pub. L. 108–311, §404(b)(2), inserted at end “This subparagraph shall also apply for purposes of any provision of this title that provides for adjustments in accordance with the method contained in this subsection, except to the extent provided in such provision.”
 
-2002—Subsec. (c)(7). Pub. L. 107–147 amended heading and text of par. (7) generally, substituting provisions relating to special rules relating to church plans for provisions relating to certain contributions by church plans not treated as exceeding limit and adding provisions relating to foreign missionaries and definitions of “church” and “convention or association of churches”.
+<b>2002</b>—Subsec. (c)(7). Pub. L. 107–147 amended heading and text of par. (7) generally, substituting provisions relating to special rules relating to church plans for provisions relating to certain contributions by church plans not treated as exceeding limit and adding provisions relating to foreign missionaries and definitions of “church” and “convention or association of churches”.
 
-2001—Subsec. (a)(2). Pub. L. 107–16, §632(a)(3)(C), struck out “, and the amount of the contribution for such portion shall reduce the exclusion allowance as provided in section 403(b)(2)” before period at end.
+<b>2001</b>—Subsec. (a)(2). Pub. L. 107–16, §632(a)(3)(C), struck out “, and the amount of the contribution for such portion shall reduce the exclusion allowance as provided in section 403(b)(2)” before period at end.
 
 Subsec. (b)(1)(A). Pub. L. 107–16, §611(a)(1)(A), substituted “$160,000” for “$90,000”.
 
@@ -686,9 +686,9 @@ Subsec. (g). Pub. L. 107–16, §654(b)(2), substituted “Except as provided in
 
 Subsec. (k)(4). Pub. L. 107–16, §632(b)(1), added par. (4).
 
-2000—Subsec. (c)(3)(D)(ii). Pub. L. 106–554 substituted “section 125, 132(f)(4), or” for “section 125 or”.
+<b>2000</b>—Subsec. (c)(3)(D)(ii). Pub. L. 106–554 substituted “section 125, 132(f)(4), or” for “section 125 or”.
 
-1997—Subsec. (b)(2)(G). Pub. L. 105–34, §1527(a), substituted “participant, subparagraph (C) of this paragraph shall not apply.” for “participant—
+<b>1997</b>—Subsec. (b)(2)(G). Pub. L. 105–34, §1527(a), substituted “participant, subparagraph (C) of this paragraph shall not apply.” for “participant—
 
 &emsp;“(i) subparagraph (C) shall not reduce the limitation of paragraph (1)(A) to an amount less than $50,000, and
 
@@ -704,7 +704,7 @@ Subsec. (k)(3). Pub. L. 105–34, §1526(b), added par. (3).
 
 Subsec. (n). Pub. L. 105–34, §1526(a), added subsec. (n).
 
-1996—Subsec. (a)(1). Pub. L. 104–188, §1452(c)(1), inserted “or” at end of subpar. (A), struck out “, or” at end of subpar. (B), and struck out subpar. (C) which read as follows: “in any case in which an individual is a participant in both a defined benefit plan and a defined contribution plan maintained by the employer, the trust has been disqualified under subsection (g).”
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–188, §1452(c)(1), inserted “or” at end of subpar. (A), struck out “, or” at end of subpar. (B), and struck out subpar. (C) which read as follows: “in any case in which an individual is a participant in both a defined benefit plan and a defined contribution plan maintained by the employer, the trust has been disqualified under subsection (g).”
 
 Subsec. (b)(2)(E)(i). Pub. L. 104–188, §1449(b)(1), substituted “For purposes of adjusting any limitation under subparagraph (C) and, except as provided in clause (ii), for purposes of adjusting any benefit under subparagraph (B),” for “Except as provided in clause (ii), for purposes of adjusting any benefit or limitation under subparagraph (B) or (C),”.
 
@@ -744,17 +744,17 @@ Subsec. (k)(2)(A)(ii). Pub. L. 104–188, §1452(c)(6), substituted “subsectio
 
 Subsec. (m). Pub. L. 104–188, §1444(b)(1), added subsec. (m).
 
-1994—Subsec. (b)(2)(E). Pub. L. 103–465, §767(b), added cls. (i), (ii), and (v), redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively, and struck out former cl. (i) which read as follows: “For purposes of adjusting any benefit or limitation under subparagraph (B) or (C), the interest rate assumption shall not be less than the greater of 5 percent or the rate specified in the plan.”
+<b>1994</b>—Subsec. (b)(2)(E). Pub. L. 103–465, §767(b), added cls. (i), (ii), and (v), redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively, and struck out former cl. (i) which read as follows: “For purposes of adjusting any benefit or limitation under subparagraph (B) or (C), the interest rate assumption shall not be less than the greater of 5 percent or the rate specified in the plan.”
 
 Subsec. (c)(1)(A). Pub. L. 103–465, §732(b)(2), struck out “(or, if greater, 1/4 of the dollar limitation in effect under subsection (b)(1)(A))” after “$30,000”.
 
 Subsec. (d). Pub. L. 103–465, §732(b)(1), amended subsec. (d) generally, substituting present provisions for provisions authorizing annual cost-of-living adjustments, outlining base periods, and providing for a freeze on adjustment to defined contribution and benefit limits.
 
-1992—Subsecs. (b)(2)(A), (B), (c)(2). Pub. L. 102–318 substituted “402(c)” for “402(a)(5)”.
+<b>1992</b>—Subsecs. (b)(2)(A), (B), (c)(2). Pub. L. 102–318 substituted “402(c)” for “402(a)(5)”.
 
-1989—Subsec. (c)(6). Pub. L. 101–239 substituted “Special rule for employee stock ownership plans” for “Special limitation for employee stock ownership plan” in heading and amended text generally, substituting introductory provisions and subpars. (A) and (B) for former subpars. (A) to (C).
+<b>1989</b>—Subsec. (c)(6). Pub. L. 101–239 substituted “Special rule for employee stock ownership plans” for “Special limitation for employee stock ownership plan” in heading and amended text generally, substituting introductory provisions and subpars. (A) and (B) for former subpars. (A) to (C).
 
-1988—Subsec. (b)(2)(H)(ii). Pub. L. 100–647, §6059(a), substituted “15” for “20”.
+<b>1988</b>—Subsec. (b)(2)(H)(ii). Pub. L. 100–647, §6059(a), substituted “15” for “20”.
 
 Subsec. (b)(5)(B). Pub. L. 100–647, §1011(d)(6), inserted “and subsection (e)” after “paragraphs (1)(B) and (4)”.
 
@@ -780,7 +780,7 @@ Subsec. (k)(2)(D). Pub. L. 100–647, §1011(d)(3)(B), added subpar. (D) and str
 
 Subsec. (<i>l</i>)(1). Pub. L. 100–647, §1018(t)(3)(B), made technical correction to directory language of Pub. L. 99–514, §1852(h)(2). See 1986 Amendment note below.
 
-1986—Subsec. (b)(2)(B). Pub. L. 99–514, §1898(b)(15)(C), substituted reference to section 417 for reference to section 401(a)(11)(G)(iii).
+<b>1986</b>—Subsec. (b)(2)(B). Pub. L. 99–514, §1898(b)(15)(C), substituted reference to section 417 for reference to section 401(a)(11)(G)(iii).
 
 Subsec. (b)(2)(C). Pub. L. 99–514, §1106(b)(1)(A), substituted in heading and in two places in text “the social security retirement age” for “age 62” and substituted new last sentence for “The reduction under this subparagraph shall not reduce the limitation of paragraph (1)(A) below—
 
@@ -824,7 +824,7 @@ Subsec. (c)(6)(A). Pub. L. 99–514, §1174(d)(1), substituted “highly compens
 
 Subsec. (c)(6)(B)(iii), (iv). Pub. L. 99–514, §1174(d)(2)(A), struck out cls. (iii) and (iv) which read as follows:
 
-&emsp;“(iii) an employee described in this clause is any participant whose compensation for a year exceeds an amount equal to twice the amount described in paragraph (1)(A) for such year (as adjusted for such year pursuant to subsection (d)(1)), determined without regard to subparagraph (A) of this paragraph, and
+&emsp;“(iii) an employee described in this clause is any participant whose compensation for a year exceeds anamount equal to twice the amount described in paragraph (1)(A) for such year (as adjusted for such year pursuant to subsection (d)(1)), determined without regard to subparagraph (A) of this paragraph, and
 
 &emsp;“(iv) an individual shall be considered to own more than 10 percent of the employer's stock if, without regard to stock held under the employee stock ownership plan, he owns (after application of section 1563(e)) more than 10 percent of the total combined voting power of all classes of stock entitled to vote or more than 10 percent of the total value of shares of all classes of stock.”
 
@@ -846,7 +846,7 @@ Subsec. (<i>l</i>). Pub. L. 99–514, §1852(h)(3), substituted “a pension or 
 
 Pub. L. 99–514, §1852(h)(2), as amended by Pub. L. 100–647, §1018(t)(3)(B), inserted at end of par. (1) “Subparagraph (B) of subsection (c)(1) shall not apply to any amount treated as an annual addition under the preceding sentence.”
 
-1984—Subsec. (a)(2). Pub. L. 98–369, §491(d)(28), struck out subpar. (D) which related to application of this section to a plan described in section 405(a), and in provision following subpar. (C) struck out “405(a),” after “403(b),”.
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–369, §491(d)(28), struck out subpar. (D) which related to application of this section to a plan described in section 405(a), and in provision following subpar. (C) struck out “405(a),” after “403(b),”.
 
 Subsec. (b)(2)(A), (B). Pub. L. 98–369, §491(d)(29), (30), substituted “and 408(d)(3)” for “408(d)(3) and 409(b)(3)(C)”.
 
@@ -878,9 +878,9 @@ Subsec. (k)(1). Pub. L. 98–369, §491(d)(32), struck out subpars. (C) and (H),
 
 Subsec. (<i>l</i>). Pub. L. 98–369, §528(a), added subsec. (<i>l</i>).
 
-1983—Subsec. (c)(3)(C)(i). Pub. L. 98–21 substituted “section 37(e)(3)” for “section 105(d)(4)”.
+<b>1983</b>—Subsec. (c)(3)(C)(i). Pub. L. 98–21 substituted “section 37(e)(3)” for “section 105(d)(4)”.
 
-1982—Subsec. (b)(1)(A). Pub. L. 97–248, §235(a)(1), substituted “$90,000” for “$75,000”.
+<b>1982</b>—Subsec. (b)(1)(A). Pub. L. 97–248, §235(a)(1), substituted “$90,000” for “$75,000”.
 
 Subsec. (b)(2)(C). Pub. L. 97–248, §235(a)(3)(A), (e)(1), (2), inserted provisions relating to reduction under this subparagraph, and substituted “$90,000” for “$75,000” and “62” for “55”, wherever appearing.
 
@@ -914,7 +914,7 @@ Subsec. (e)(3)(B). Pub. L. 97–248, §235(c)(2)(B), substituted provision that 
 
 Subsec. (e)(6). Pub. L. 97–248, §235(d), added par. (6).
 
-1981—Subsec. (a)(2). Pub. L. 97–34, §311(g)(4)(A), struck out in provision preceding subpar. (A) “Except as provided in paragraph (3)”, redesignated former subpar. (E) as (C), and in subpar. (C) as so designated, inserted “described in section 408(k), or”, redesignated former subpar. (F) as (D), struck out former subpars. (C), relating to an individual retirement account described under section 408(a), (D), relating to an individual retirement annuity described in section 408(b), and (G), relating to a retirement bond described in section 409, and in provision following subpar. (D), substituted “such a contract, plan, or pension,” for “such contract, annuity plan, account, annuity, plan, or bond” and “408(k)” for “408(a), 408(b), or 409”.
+<b>1981</b>—Subsec. (a)(2). Pub. L. 97–34, §311(g)(4)(A), struck out in provision preceding subpar. (A) “Except as provided in paragraph (3)”, redesignated former subpar. (E) as (C), and in subpar. (C) as so designated, inserted “described in section 408(k), or”, redesignated former subpar. (F) as (D), struck out former subpars. (C), relating to an individual retirement account described under section 408(a), (D), relating to an individual retirement annuity described in section 408(b), and (G), relating to a retirement bond described in section 409, and in provision following subpar. (D), substituted “such a contract, plan, or pension,” for “such contract, annuity plan, account, annuity, plan, or bond” and “408(k)” for “408(a), 408(b), or 409”.
 
 Subsec. (a)(3). Pub. L. 97–34, §311(h)(3), struck out par. (3) which provided that par. (2) not apply to an account, annuity, or bond described in section 408(a), 408(b), or 409, established for the benefit of the spouse of the individual contributing to such account, or for such annuity or bond, if a deduction is allowed under section 220 to such individual with respect to such contribution for such year.
 
@@ -924,7 +924,7 @@ Subsec. (c)(6)(C). Pub. L. 97–34, §333(b)(1), added subpar. (C).
 
 Subsec. (e)(5). Pub. L. 97–34, §311(g)(4)(C), struck out “, any individual retirement account described in section 408(a), any individual retirement annuity described in section 408(b), and any retirement bond described in section 409,” before “for the benefit”.
 
-1980—Subsec. (b)(7). Pub. L. 96–222, §101(a)(11), substituted in subpar. (C) “under which benefits are determined solely by reference to length of service, the particular years during which service was rendered, age at retirement, and date of retirement” for “benefits under which are determined by multiplying a specified amount (which is the same amount for each participant) by the number of the participant's years of service” and inserted in text following subpar. (E) provisions requiring that this paragraph not apply to a participant for any period for which he is a participant under another plan to which this section applies which is maintained by an employer maintaining this plan.
+<b>1980</b>—Subsec. (b)(7). Pub. L. 96–222, §101(a)(11), substituted in subpar. (C) “under which benefits are determined solely by reference to length of service, the particular years during which service was rendered, age at retirement, and date of retirement” for “benefits under which are determined by multiplying a specified amount (which is the same amount for each participant) by the number of the participant's years of service” and inserted in text following subpar. (E) provisions requiring that this paragraph not apply to a participant for any period for which he is a participant under another plan to which this section applies which is maintained by an employer maintaining this plan.
 
 Subsec. (c)(6)(A). Pub. L. 96–605 inserted “, or purchased with cash contributed,” after “securities contributed”.
 
@@ -932,7 +932,7 @@ Subsec. (c)(6)(B)(i). Pub. L. 96–222, §101(a)(7)(L)(i)(VII), (iv)(I), substit
 
 Subsec. (e)(5). Pub. L. 96–222, §101(a)(10)(I), inserted provisions requiring that for purposes of this section, any contribution by an employer to a simplified employee pension for an individual for a taxable year be treated as an employer contribution to a defined contribution plan for such individual for such year.
 
-1978—Subsec. (a)(2). Pub. L. 95–600, §152(g)(1), (2), as amended by Pub. L. 96–222, §101(a)(10)(J)(iii), added subpar. (E), redesignated former subpars. (E) and (F) as (F) and (G), respectively, and in provision following subpar. (G) as so redesignated, inserted “408(k),” after “408(b),”.
+<b>1978</b>—Subsec. (a)(2). Pub. L. 95–600, §152(g)(1), (2), as amended by Pub. L. 96–222, §101(a)(10)(J)(iii), added subpar. (E), redesignated former subpars. (E) and (F) as (F) and (G), respectively, and in provision following subpar. (G) as so redesignated, inserted “408(k),” after “408(b),”.
 
 Subsec. (b)(7). Pub. L. 95–600, §153(a), added par. (7).
 
@@ -944,7 +944,7 @@ Subsec. (e)(5). Pub. L. 95–600, §152(g)(3), inserted “any simplified employ
 
 Subsec. (k)(1)(G), (H). Pub. L. 95–600, §152(g)(4), added subpar. (G) and redesignated former subpar. (G) as (H).
 
-1976—Subsec. (a)(2). Pub. L. 94–455, §1501(b)(3)(A), substituted “Except as provided in paragraph (3), in the case” for “In the case”.
+<b>1976</b>—Subsec. (a)(2). Pub. L. 94–455, §1501(b)(3)(A), substituted “Except as provided in paragraph (3), in the case” for “In the case”.
 
 Subsec. (a)(3). Pub. L. 94–455, §1501(b)(3)(B), added par. (3).
 
@@ -994,7 +994,7 @@ In general.—The amendments made by subsections (a) and (c) \[amending this sec
 
 “(2)
 
-Subsection (b).—The amendments made by subsection (b) \[amending this section\] shall take effect asif included in the amendments made by section 647 of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[see section 647(c) of Pub. L. 107–16, set out as an Effective Date of 2001 Amendment note under section 403 of this title\].”
+Subsection (b).—The amendments made by subsection (b) \[amending this section\] shall take effect as if included in the amendments made by section 647 of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[see section 647(c) of Pub. L. 107–16, set out as an Effective Date of 2001 Amendment note under section 403 of this title\].”
 
 Pub. L. 109–280, title VIII, §832(b), Aug. 17, 2006, 120 Stat. 1003, provided that: “The amendment made by this section \[amending this section\] shall apply to years beginning after December 31, 2005.”
 
@@ -1180,7 +1180,7 @@ Special rule.—For purposes of determining the amount of any individual's curre
 
 “(4)
 
-Transition rule where the sum of defined contribution and defined benefit plan fractions exceeds 1.0.—In the case of a plan which satisfied the requirements of section 415 of the Internal Revenue Code of 1986 for its last year beginning before January 1, 1987, the Secretary of the Treasury or his delegate shall prescribe regulations under which an amount is subtracted from the numerator of the defined contribution plan fraction (not exceeding such numerator) so that the sum of the defined benefit plan fraction and the defined contribution plan fraction computed under section 415(e)(1) of such Code does not exceed 1.0 for such year (determined as if the amendments made by this section were in effect for such year).
+Transition rule where the sum of defined contribution and defined benefit plan fractions exceeds 1.0.—In the case of a plan which satisfied the requirements of section 415 of the Internal Revenue Code of 1986 for its last year beginning before January 1, 1987, the Secretary of the Treasury or his delegate shall prescribe regulations under which an amount is subtracted from the numerator of the defined contribution planfraction (not exceeding such numerator) so that the sum of the defined benefit plan fraction and the defined contribution plan fraction computed under section 415(e)(1) of such Code does not exceed 1.0 for such year (determined as if the amendments made by this section were in effect for such year).
 
 “(5)
 
@@ -1300,7 +1300,7 @@ Special rule.—For purposes of determining the amount of any individual's curre
 
 “(5)
 
-Special rule for collective bargaining agreements.—In the case of a plan maintained on the date of the enactment of this Act \[Sept. 3, 1982\] pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers, the amendments made by this section \[amending this section and section 404 of this title\] and section 242\[amending section 401 of this title and enacting a provision set out as a note under section 401 of this title\] (relating to age 701/2) shall not apply to years beginning before the earlier of—
+Special rule for collective bargaining agreements.—In the case of a plan maintained on the date of the enactment of this Act \[Sept. 3, 1982\] pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers, the amendments made by this section \[amending this section and section 404 of this title\] and section 242 \[amending section 401 of this title and enacting a provision set out as a note under section 401 of this title\] (relating to age 701/2) shall not apply to years beginning before the earlier of—
 
 &emsp;“(A) the date on which the last of the collective bargaining agreements relating to the plan terminates (determined without regard to any extension thereof agreed to after the date of the enactment of this Act \[Sept. 3, 1982\]), or
 
@@ -1364,7 +1364,7 @@ Transition rule for defined benefit plans.—In the case of an individual who wa
 
 &emsp;&emsp;“(A) the annual benefit (within the meaning of section 415(b)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) payable to such participant on retirement does not exceed 100 percent of his annual rate of compensation on the earlier of (i) October 2, 1973, or (ii) the date on which he separated from the service of the employer,
 
-&emsp;&emsp;“(B) such annual benefit is no greater than the annual benefit which would have been payable to such participant on retirement if (i) all the terms and conditions of such plan in existence on such date had remained in existence until such retirement, and (ii) his compensation taken into account for any period after October 2, 1973, had not exceeded his annual rate of compensation on such date, and
+&emsp;&emsp;“(B) such annual benefit is no greater than the annual benefit which would have been payable to such participant on retirement if (i) all the termsand conditions of such plan in existence on such date had remained in existence until such retirement, and (ii) his compensation taken into account for any period after October 2, 1973, had not exceeded his annual rate of compensation on such date, and
 
 &emsp;&emsp;“(C) in the case of a participant who separated from the service of the employer prior to October 2, 1973, such annual benefit is no greater than his vested accrued benefit as of the date he separated from the service,
 
@@ -1380,7 +1380,7 @@ Section 1106(h) of Pub. L. 99–514 provided that: “Notwithstanding any other 
 
 #### Plan Amendments Not Required Until January 1, 1998
 
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L.104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1994
 

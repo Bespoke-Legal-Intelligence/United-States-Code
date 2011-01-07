@@ -2,7 +2,7 @@
 
 (a)
 
-Eligibility of Members.—A member of the National Guard who, although not in Federalservice, is called or ordered to duty in response to a federally declared disaster or national emergency shall be permitted to use commissary stores and MWR retail facilities during the period of such duty on the same basis as members of the armed forces on active duty.
+Eligibility of Members.—A member of the National Guard who, although not in Federal service, is called or ordered to duty in response to a federally declared disaster or national emergency shall be permitted to use commissary stores and MWR retail facilities during the period of such duty on the same basis as members of the armed forces on active duty.
 
 (b)
 
@@ -32,11 +32,11 @@ A prior section 1064, added Pub. L. 101–510, div. A, title III, §321(b), Nov.
 
 #### Amendments
 
-2003—Pub. L. 108–136, §651(b)(3), renumbered section 1063a of this title as this section.
+<b>2003</b>—Pub. L. 108–136, §651(b)(3), renumbered section 1063a of this title as this section.
 
 Subsec. (c)(2). Pub. L. 108–136, §651(b)(2), substituted “section 1063(e)” for “section 1065(e)”.
 
-2002—Pub. L. 107–314, §322(b)(1), inserted “or national emergency” after “disaster” in section catchline.
+<b>2002</b>—Pub. L. 107–314, §322(b)(1), inserted “or national emergency” after “disaster” in section catchline.
 
 Subsec. (a). Pub. L. 107–314, §322(a)(1), inserted “or national emergency” after “disaster”.
 

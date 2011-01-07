@@ -34,9 +34,9 @@ Section 31104(f)(2), referred to in subsec. (b), was struck out by Pub. L. 110�
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–59 substituted “31102(b)(1)(E)” for “31102(b)(1)(D)” and inserted before last sentence “Amounts generated under the unified carrier registration agreement under section 14504a and received by a State and used for motor carrier safety purposes may be included as part of the State's share not provided by the United States.”
+<b>2005</b>—Subsec. (a). Pub. L. 109–59 substituted “31102(b)(1)(E)” for “31102(b)(1)(D)” and inserted before last sentence “Amounts generated under the unified carrier registration agreement under section 14504a and received by a State and used for motor carrier safety purposes may be included as part of the State's share not provided by the United States.”
 
-1998—Pub. L. 105–178 designated existing provisions as subsec. (a), inserted subsec. heading, inserted “improve commercial motor vehicle safety and” after “implementing programs to”, and added subsec. (b).
+<b>1998</b>—Pub. L. 105–178 designated existing provisions as subsec. (a), inserted subsec. heading, inserted “improve commercial motor vehicle safety and” after “implementing programs to”, and added subsec. (b).
 
 #### Relationship to Other Laws
 

@@ -54,7 +54,7 @@
 
 #### Amendments
 
-1994—Subsec. (a)(2). Pub. L. 103–465, §302(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Commission shall submit a report on the results of the monitoring under paragraph (1) to the President and to the Congress not later than—
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–465, §302(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Commission shall submit a report on the results of the monitoring under paragraph (1) to the President and to the Congress not later than—
 
 &emsp;“(A) the 2nd-anniversary of the day on which the action under section 2253 of this title first took effect; and
 
@@ -66,7 +66,7 @@ Subsec. (b)(3). Pub. L. 103–465, §129(a)(7), added par. (3).
 
 Subsecs. (c) to (e). Pub. L. 103–465, §302(d), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectivley.
 
-1988—Subsecs. (c) to (e). Pub. L. 100–647 redesignated subsecs. (d) and (e) as (c) and (d), respectively.
+<b>1988</b>—Subsecs. (c) to (e). Pub. L. 100–647 redesignated subsecs. (d) and (e) as (c) and (d), respectively.
 
 #### Effective Date of 1994 Amendment
 

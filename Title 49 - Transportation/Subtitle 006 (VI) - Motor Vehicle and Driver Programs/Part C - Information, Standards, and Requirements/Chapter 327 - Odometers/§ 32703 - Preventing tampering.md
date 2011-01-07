@@ -56,7 +56,7 @@ This amends 49:32703(3) to correct an error in the codification enacted by secti
 
 #### Amendments
 
-1994—Par. (3). Pub. L. 103–429 struck out “public” before “street”.
+<b>1994</b>—Par. (3). Pub. L. 103–429 struck out “public” before “street”.
 
 #### Effective Date of 1994 Amendment
 

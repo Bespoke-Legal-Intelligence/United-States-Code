@@ -54,19 +54,19 @@ Changes were made in arrangement and phraseology.
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–482 inserted “Plattsburgh,” after “Malone,”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–482 inserted “Plattsburgh,” after “Malone,”.
 
 Pub. L. 108–455 substituted “Watertown, and Plattsburgh” for “and Watertown”.
 
-1999—Subsec. (c). Pub. L. 106–113 amended last sentence generally. Prior to amendment, last sentence read as follows: “Court for the Eastern District shall be held at Brooklyn, Hauppauge, and Hempstead (including the village of Uniondale).”
+<b>1999</b>—Subsec. (c). Pub. L. 106–113 amended last sentence generally. Prior to amendment, last sentence read as follows: “Court for the Eastern District shall be held at Brooklyn, Hauppauge, and Hempstead (including the village of Uniondale).”
 
-1996—Subsec. (b). Pub. L. 104–317 amended last sentence generally, substituting “Court for the Southern District shall be held at New York, White Plains, and in the Middletown-Wallkill area of Orange County or such nearby location as may be deemed appropriate.” for “Court for the Southern District shall be held at New York and White Plains.”
+<b>1996</b>—Subsec. (b). Pub. L. 104–317 amended last sentence generally, substituting “Court for the Southern District shall be held at New York, White Plains, and in the Middletown-Wallkill area of Orange County or such nearby location as may be deemed appropriate.” for “Court for the Southern District shall be held at New York and White Plains.”
 
-1990—Subsec. (a). Pub. L. 101–650 substituted “Utica, and Watertown” for “and Utica”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–650 substituted “Utica, and Watertown” for “and Utica”.
 
-1984—Subsec. (c). Pub. L. 98–620 provided for holding court at Hauppauge.
+<b>1984</b>—Subsec. (c). Pub. L. 98–620 provided for holding court at Hauppauge.
 
-1978—Subsec. (a). Pub. L. 95–408, §4(c)(1), added counties of Columbia, Greene, and Ulster to those counties comprising the Northern District of New York.
+<b>1978</b>—Subsec. (a). Pub. L. 95–408, §4(c)(1), added counties of Columbia, Greene, and Ulster to those counties comprising the Northern District of New York.
 
 Subsec. (b). Pub. L. 95–573 provided for holding court at White Plains.
 
@@ -74,9 +74,9 @@ Pub. L. 95–408, §4(c)(2), struck out Columbia, Greene, and Ulster from those 
 
 Subsec. (c). Pub. L. 95–271 substituted “and Hempstead (including the village of Uniondale)” for “Mineola, and Westbury”.
 
-1970—Subsec. (c). Pub. L. 91–546 provided for holding court at Westbury.
+<b>1970</b>—Subsec. (c). Pub. L. 91–546 provided for holding court at Westbury.
 
-1967—Subsec. (c). Pub. L. 90–217 provided for holding court at Mineola.
+<b>1967</b>—Subsec. (c). Pub. L. 90–217 provided for holding court at Mineola.
 
 #### Effective Date of 1984 Amendment
 

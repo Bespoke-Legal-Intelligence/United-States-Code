@@ -18,11 +18,11 @@ In carrying out the Congressional Award Program, the Board shall—
 
 &emsp;(5) take such other actions as may be appropriate for the administration of the Congressional Award Program.
 
-> No salary established by the Board under paragraph (3) shall exceed $75,000 per annum, except that for calendar years after 1986, such limit shall be increased in proportion to increases in the Consumer Price Index.
+> No salary established by the Board shall exceed $75,000 per annum, except that for calendar years after 1986, such limit shall be increased in proportion to increases in the Consumer Price Index.
 
 #### (c) Presentation of awards
 
-The Board shall arrange for the presentation of the awards to the recipients and shall provide for participation by Members of Congress in such presentation, when appropriate. To the extent possible, recipients shall be provided with opportunities to exchange information and views with Members of Congress during the presentation of the awards.
+The Board shall arrange for the presentation of the awards to the recipients and shall provide for participation by Members of Congress in such presentation, when appropriate. To the extent possible, recipients shall be provided with opportunities to exchange information and views with Members of Congress in connection with the presentation of the awards.
 
 #### (d) Scholarships for recipients of Congressional Award Gold, Silver, and Bronze Medals
 
@@ -44,13 +44,17 @@ The Board may award scholarships in such amounts as the Board determines to be a
 
 &emsp;There are authorized to be charged against the Numismatic Public Enterprise Fund such amounts as may be necessary to pay for the cost of the medals struck pursuant to this chapter.
 
-(Pub. L. 96–114, title I, §102, formerly §3, Nov. 16, 1979, 93 Stat. 851; Pub. L. 99–161, §4(a)–(c), Nov. 25, 1985, 99 Stat. 934; Pub. L. 100–674, §2(a), Nov. 17, 1988, 102 Stat. 3996; Pub. L. 101–525, §3, Nov. 6, 1990, 104 Stat. 2305; Pub. L. 103–329, title VI, §637, Sept. 30, 1994, 108 Stat. 2431; Pub. L. 106–63, §1(a), Oct. 1, 1999, 113 Stat. 510; renumbered title I, §102, and amended Pub. L. 106–533, §1(b)(1), (2), (4), Nov. 22, 2000, 114 Stat. 2553.)
+(Pub. L. 96–114, title I, §102, formerly §3, Nov. 16, 1979, 93 Stat. 851; Pub. L. 99–161, §4(a)–(c), Nov. 25, 1985, 99 Stat. 934; Pub. L. 100–674, §2(a), Nov. 17, 1988, 102 Stat. 3996; Pub. L. 101–525, §3, Nov. 6, 1990, 104 Stat. 2305; Pub. L. 103–329, title VI, §637, Sept. 30, 1994, 108 Stat. 2431; Pub. L. 106–63, §1(a), Oct. 1, 1999, 113 Stat. 510; renumbered title I, §102, and amended Pub. L. 106–533, §1(b)(1), (2), (4), Nov. 22, 2000, 114 Stat. 2553; Pub. L. 111–200, §2(a), July 7, 2010, 124 Stat. 1368.)
 
 #### Codification
 
 Subsection (e), which required the Board to submit an annual report to Congress on the activities of the Congressional Award Program, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 199 of House Document No. 103–7.
 
 #### Amendments
+
+2010—Subsec. (b). Pub. L. 111–200, §2(a)(1), struck out “under paragraph (3)” after “established by the Board” in concluding provisions.
+
+Subsec. (c). Pub. L. 111–200, §2(a)(2), substituted “in connection with” for “during” in second sentence.
 
 2000—Subsec. (e)(3). Pub. L. 106–533, §1(b)(4)(A), which directed technical amendment to reference in original act which would have appeared in text as reference to section 804(g)(1) of this title could not be executed because that reference did not appear in the original. See Codification note above.
 

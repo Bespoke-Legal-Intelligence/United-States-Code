@@ -6,7 +6,7 @@ In order to alleviate water damage on the shoreline of Lake Michigan and others 
 
 #### (b) Establishment of monthly controllable diversion rates; average annual level of Lake Michigan and total diversion for succeeding accounting year
 
-During the demonstration program a controllable diversion rate will be established for each month calculated to establish an annual averagediversion from three thousand two hundred cubic feet per second to not more than ten thousand cubic feet per second. When the level of Lake Michigan is below its average level, the total diversion for the succeeding accounting year shall not exceed three thousand two hundred cubic feet per second on an annual basis. The average level of Lake Michigan will be based upon the average monthly level for the period from 1900 to 1975.
+During the demonstration program a controllable diversion rate will be established for each month calculated to establish an annual average diversion from three thousand two hundred cubic feet per second to not more than ten thousand cubic feet per second. When the level of Lake Michigan is below its average level, the total diversion for the succeeding accounting year shall not exceed three thousand two hundred cubic feet per second on an annual basis. The average level of Lake Michigan will be based upon the average monthly level for the period from 1900 to 1975.
 
 #### (c) River stages approaching bankfull conditions on Illinois Waterway or Mississippi River or further increased diversion adversely affecting St. Lawrence Seaway water levels: limitation on diversion
 
@@ -18,7 +18,7 @@ The Chief of Engineers shall conduct a study and a demonstration program to dete
 
 #### (e) “Controllable diversion” defined
 
-For purposes of this section, controllable diversion is defined as that diversion at Wilmette, O'Brien, and Chicago River control structures which is not attributable to leakage or which is not necessary for navigational requirements.
+For purposes of this section, controllable diversion is defined as that diversion at Wilmette,O'Brien, and Chicago River control structures which is not attributable to leakage or which is not necessary for navigational requirements.
 
 (Pub. L. 94–587, §166, Oct. 22, 1976, 90 Stat. 2934.)
 

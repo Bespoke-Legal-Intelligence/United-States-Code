@@ -6,7 +6,7 @@ Establishment.—The Secretary shall establish a surface transportation program 
 
 (b)
 
-Eligible Projects.—A State may obligate funds apportioned to it under section 104(b)(3) for the surface transportation program only for the following:
+Eligible Projects.—A State may obligate funds apportioned to it under section 104(b)(3)for the surface transportation program only for the following:
 
 &emsp;(1) Construction, reconstruction, rehabilitation, resurfacing, restoration, and operational improvements for highways (including Interstate highways) and bridges (including bridges on public roads of all functional classifications), including any such construction or reconstruction necessary to accommodate other transportation modes, and including the seismic retrofit and painting of and application of calcium magnesium acetate, sodium acetate/formate, or other environmentally acceptable, minimally corrosive anti-icing and de-icing compositions on bridges and approaches thereto and other elevated structures, mitigation of damage to wildlife, habitat, and ecosystems caused by a transportation project funded under this title.
 
@@ -86,7 +86,7 @@ Noncontiguous states exemption.—Subparagraph (A) shall not apply to Hawaii and
 
 &emsp;&emsp;(D)
 
-Distribution between urbanized areas of over 200,000 population.—The amount of funds which a State is required to obligate under subparagraph (A)(i) shall be obligated in urbanized areas described in subparagraph (A)(i) based on the relative population of such areas; except that the State may obligate such funds based on other factors if the State and the relevantmetropolitan planning organizations jointly apply to the Secretary for the permission to do so and the Secretary grants the request.
+Distribution between urbanized areas of over 200,000 population.—The amount of funds which a State is required to obligate under subparagraph (A)(i) shall be obligated in urbanized areas described in subparagraph (A)(i) based on the relative population of such areas; except that the State may obligate such funds based on other factors if the State and the relevant metropolitan planning organizations jointly apply to the Secretary for the permission to do so and the Secretary grants the request.
 
 &emsp;(4)
 
@@ -170,7 +170,7 @@ Transportation enhancement activities.—
 
 &emsp;&emsp;(A)
 
-Categorical exclusions.—To the extent appropriate, the Secretary shall develop categorical exclusions from the requirement that an environmental assessment or an environmental impact statement under section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332) be prepared for transportation enhancement activities funded from the allocation required by subsection (d)(2).
+Categorical exclusions.—To the extent appropriate, the Secretary shall develop categorical exclusions from the requirement that an environmental assessment or an environmental impact statement under section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332) be prepared fortransportation enhancement activities funded from the allocation required by subsection (d)(2).
 
 &emsp;&emsp;(B)
 
@@ -186,7 +186,7 @@ Cost sharing.—
 
 &emsp;&emsp;&emsp;(i)
 
-Required aggregate non-federal share.—The average annual non-Federalshare of the total cost of all projects to carry out transportation enhancement activities in a State for a fiscal year shall be not less than the non-Federal share authorized for the State under section 120(b).
+Required aggregate non-federal share.—The average annual non-Federal share of the total cost of all projects to carry out transportation enhancement activities in a State for a fiscal year shall be not less than the non-Federal share authorized for the State under section 120(b).
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -238,13 +238,13 @@ A prior section 133, Pub. L. 87–866, §5(a), Oct. 23, 1962, 76 Stat. 1146, pro
 
 #### Amendments
 
-2005—Subsec. (b)(6). Pub. L. 109–59, §1113(a)(1), inserted “, including advanced truck stop electrification systems” before period at end.
+<b>2005</b>—Subsec. (b)(6). Pub. L. 109–59, §1113(a)(1), inserted “, including advanced truck stop electrification systems” before period at end.
 
 Subsec. (b)(12). Pub. L. 109–59, §1113(a)(2), added par. (12).
 
 Subsec. (b)(14), (15). Pub. L. 109–59, §6006(a)(2), added pars. (14) and (15) and struck out former par. (14) which read as follows: “Environmental restoration and pollution abatement projects (including the retrofit or construction of storm water treatment systems) to address water pollution or environmental degradation caused or contributed to by transportation facilities, which projects shall be carried out when the transportation facilities are undergoing reconstruction, rehabilitation, resurfacing, or restoration; except that the expenditure of funds under this section for any such environmental restoration or pollution abatement project shall not exceed 20 percent of the total cost of the reconstruction, rehabilitation, resurfacing, or restoration project.”
 
-Subsec. (d)(1). Pub. L. 109–59, §1113(b)(1), struck out heading and text of par. (1). Text read as follows: “10 percent of the funds apportioned to a State under section 104(b)(3) for the surface transportation program for a fiscal year shall only be available for carrying out sections 130 and 152 of this title. Of the funds set aside under the preceding sentence, the State shall reserve in such fiscal year an amount of such funds for carrying out each such section which is not less than the amount of funds apportioned to the State in fiscal year 1991 under such section.”
+Subsec. (d)(1). Pub. L. 109–59, §1113(b)(1), struck out heading and text of par. (1). Text read as follows: “10 percent of the funds apportioned to a State under section 104(b)(3) for the surface transportation program fora fiscal year shall only be available for carrying out sections 130 and 152 of this title. Of the funds set aside under the preceding sentence, the State shall reserve in such fiscal year an amount of such funds for carrying out each such section which is not less than the amount of funds apportioned to the State in fiscal year 1991 under such section.”
 
 Subsec. (d)(2). Pub. L. 109–59, §1113(c), substituted “In a fiscal year, the greater of 10 percent of the funds apportioned to a State under section 104(b)(3) for such fiscal year, or the amount set aside under this paragraph with respect to the State for fiscal year 2005,” for “10 percent of the funds apportioned to a State under section 104(b)(3) for a fiscal year”.
 
@@ -260,7 +260,7 @@ Subsec. (f). Pub. L. 109–59, §1113(e), amended directory language of Pub. L. 
 
 Subsec. (f)(1). Pub. L. 109–59, §1113(d), substituted “2004 through 2006” for “1998 through 2000” and “2007 through 2009” for “2001 through 2003” in introductory provisions.
 
-1998—Subsec. (b)(1). Pub. L. 105–178, §1108(a)(1), inserted “, sodium acetate/formate, or other environmentally acceptable, minimally corrosive anti-icing and de-icing compositions” after “calcium magnesium acetate”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–178, §1108(a)(1), inserted “, sodium acetate/formate, or other environmentally acceptable, minimally corrosive anti-icing and de-icing compositions” after “calcium magnesium acetate”.
 
 Subsec. (b)(2). Pub. L. 105–178, §1108(a)(2), substituted “, including vehicles and facilities, whether publicly or privately owned, that are used to provide intercity passenger service by bus” for “and publicly owned intracity or intercity bus terminals and facilities”.
 
@@ -292,13 +292,13 @@ Subsec. (f). Pub. L. 105–178, §1108(e), as amended by Pub. L. 109–59, §111
 
 &emsp;“(2) the ratio of the aggregate amount of obligation authority distributed to the State for Federal-aid highways and highway safety construction during such period to the total sums apportioned to the State for Federal-aid highways and highway safety construction (excluding sums not subject to an obligation limitation) during such period.”
 
-1995—Subsec. (d)(5). Pub. L. 104–59, §315, added par. (5).
+<b>1995</b>—Subsec. (d)(5). Pub. L. 104–59, §315, added par. (5).
 
 Subsec. (e)(3). Pub. L. 104–59, §316(1), designated existing provisions as subpar. (A), inserted subpar. (A) heading, realigned margins, substituted “Except as provided in subparagraph (B), the” for “The”, and added subpar. (B).
 
 Subsec. (e)(5). Pub. L. 104–59, §316(2), added par. (5).
 
-1994—Subsec. (b)(2). Pub. L. 103–429 substituted “chapter 53 of title 49” for “the Federal Transit Act”.
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–429 substituted “chapter 53 of title 49” for “the Federal Transit Act”.
 
 #### Effective Date of 2005 Amendment
 

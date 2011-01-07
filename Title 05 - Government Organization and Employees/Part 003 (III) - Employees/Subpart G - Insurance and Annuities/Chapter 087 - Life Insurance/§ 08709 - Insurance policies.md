@@ -1,6 +1,6 @@
 ### §8709. Insurance policies
 
-(a) The Office of Personnel Management, without regard to section 5 of title 41, may purchase from one or more life insurance companies a policy or policies of group life and accidental death and dismemberment insurance to provide the benefits specified by this chapter. A company must meet the following requirements:
+(a) The Office of Personnel Management, without regard to section 6101(b) to (d) of title 41, may purchase from one or more life insurance companies a policy or policies of group life and accidental death and dismemberment insurance to provide the benefits specified by this chapter. A company must meet the following requirements:
 
 &emsp;(1) It must be licensed to transact life and accidental death and dismemberment insurance under the laws of 48 of the States and the District of Columbia.
 
@@ -14,7 +14,7 @@
 
 (2) For the purpose of this section, “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and a territory or possession of the United States.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 596; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–427, §5(a), Oct. 10, 1980, 94 Stat. 1834.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 596; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–427, §5(a), Oct. 10, 1980, 94 Stat. 1834; Pub. L. 111–350, §5(a)(11), Jan. 4, 2011, 124 Stat. 3841.)
 
 Historical and Revision Notes
 
@@ -35,6 +35,8 @@ In subsection (a), the words “as determined by it” are omitted as unnecessar
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+
+2011—Subsec. (a). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 5 of title 41” in introductory provisions.
 
 1980—Subsec. (d). Pub. L. 96–427 added subsec. (d).
 

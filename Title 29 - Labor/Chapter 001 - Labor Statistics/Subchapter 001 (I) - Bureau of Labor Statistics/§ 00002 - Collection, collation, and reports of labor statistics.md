@@ -8,7 +8,7 @@ The Bureau of Labor Statistics shall also collect, collate, report, and publish 
 
 #### Amendments
 
-1930—Act July 7, 1930, inserted second par.
+<b>1930</b>—Act July 7, 1930, inserted second par.
 
 #### Transfer of Functions
 

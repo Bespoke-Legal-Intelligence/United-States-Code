@@ -30,7 +30,7 @@
 
 Based on title 18, U.S.C., 1940 ed., §§744d, 744e, 744f, 744<i>l</i> (May 27, 1930, ch. 340, §§4–6, 46 Stat. 391, 392; June 23, 1934, ch. 736, §4, 48 Stat. 1211).
 
-This section is a restatement of section 744<i>l</i> of title 18, U.S.C., 1940 ed., with which sections 744d and 744f and the first sentence of section 744e of title 18, U.S.C., 1940 ed., are consolidated, in view of the fact that those provisions have been superseded by section 744<i>l</i> of title 18, U.S.C., 1940 ed., in connection with other provisions of the act of June 23, 1934, ch. 736, 48 Stat. 1211.
+This section is a restatement of section 744<i>l</i> of title 18, U.S.C., 1940 ed., with which sections 744d and 744f and the first sentence of section 744e of title 18, U.S.C.,1940 ed., are consolidated, in view of the fact that those provisions have been superseded by section 744<i>l</i> of title 18, U.S.C., 1940 ed., in connection with other provisions of the act of June 23, 1934, ch. 736, 48 Stat. 1211.
 
 The first sentence of section 744<i>l</i> of title 18, U.S.C., 1940 ed., authorizing replacement of the prison industries working capital fund by the prison industries fund was omitted, as executed. That provision superseded section 744d of title 18, U.S.C., 1940 ed., which authorized creation of the prison industries working capital fund and the first sentence of section 744e of title 18, U.S.C., 1940 ed., directing that certain funds should be credited to the consolidated prison industries working capital fund.
 
@@ -52,9 +52,9 @@ This section \[section 64\] incorporates in section 4126 of title 18, U.S.C., pr
 
 #### Amendments
 
-2004—Subsecs. (a), (d). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsecs. (a), (d). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1988—Subsecs. (a), (b). Pub. L. 100–690, §7094(1), designated first and second pars. as subsecs. (a) and (b), respectively.
+<b>1988</b>—Subsecs. (a), (b). Pub. L. 100–690, §7094(1), designated first and second pars. as subsecs. (a) and (b), respectively.
 
 Subsec. (c). Pub. L. 100–690, §7094(1), (2), designated third par. as subsec. (c) and amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The corporation, in accordance with the laws generally applicable to the expenditures of the several departments and establishments of the government, is authorized to employ the fund, and any earnings that may accrue to the corporation, as operating capital in performing the duties imposed by this chapter; in the repair, alteration, erection and maintenance of industrial buildings and equipment; in the vocational training of inmates without regard to their industrial or other assignments; in paying, under rules and regulations promulgated by the Attorney General, compensation to inmates employed in any industry, or performing outstanding services in institutional operations, and compensation to inmates or their dependents for injuries suffered in any industry or in any work activity in connection with the maintenance or operation of the institution where confined. In no event shall compensation be paid in a greater amount than that provided in the Federal Employees’ Compensation Act.”
 
@@ -62,7 +62,7 @@ Subsecs. (d), (e). Pub. L. 100–690, §7094(1), designated fourth and fifth par
 
 Subsec. (f). Pub. L. 100–690, §7094(3), added subsec. (f).
 
-1961—Pub. L. 87–317 authorized compensation for injuries to inmates incurred while working in connection with the maintenance or operation of the institution where confined.
+<b>1961</b>—Pub. L. 87–317 authorized compensation for injuries to inmates incurred while working in connection with the maintenance or operation of the institution where confined.
 
-1949—Act May 24, 1949, inserted “in the vocational training of inmates without regard to their industrial or other assignments;” after second semicolon in third par.
+<b>1949</b>—Act May 24, 1949, inserted “in the vocational training of inmates without regard to their industrial or other assignments;” after second semicolon in third par.
 

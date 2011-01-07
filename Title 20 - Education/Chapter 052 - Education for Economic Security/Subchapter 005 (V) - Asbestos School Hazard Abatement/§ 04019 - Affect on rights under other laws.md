@@ -10,5 +10,5 @@ Except as otherwise provided in section 4017 of this title, nothing in this subc
 
 #### Amendments
 
-1990—Pub. L. 101–637 inserted section catchline.
+<b>1990</b>—Pub. L. 101–637 inserted section catchline.
 

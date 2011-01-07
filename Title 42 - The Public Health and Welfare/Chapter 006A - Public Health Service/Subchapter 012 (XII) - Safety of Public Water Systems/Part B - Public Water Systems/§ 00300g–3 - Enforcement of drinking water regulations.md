@@ -38,7 +38,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 &emsp;(2) if requested by (A) the chief executive officer of the State in which is located the public water system which is not in compliance with such regulation or requirement, or (B) the agency of such State which has jurisdiction over compliance by public water systems in the State with national primary drinking water regulations or State drinking water regulations.
 
-> The court may enter, in an action brought under this subsection, such judgement as protection of public health may require, taking into consideration the time necessary to comply and the availability of alternative water supplies; and, if the court determines that there has been a violation of the regulation or schedule or other requirement with respect to which the action was brought, the court may, taking into account the seriousness of the violation, the population at risk, and other appropriate factors, impose on the violator a civil penalty of not to exceed $25,000 for each day in which such violation occurs.
+> The court may enter, in an action brought under this subsection, such judgement as protection ofpublic health may require, taking into consideration the time necessary to comply and the availability of alternative water supplies; and, if the court determines that there has been a violation of the regulation or schedule or other requirement with respect to which the action was brought, the court may, taking into account the seriousness of the violation, the population at risk, and other appropriate factors, impose on the violator a civil penalty of not to exceed $25,000 for each day in which such violation occurs.
 
 #### (c) Notice to persons served
 
@@ -118,7 +118,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Regulations issued under subparagraph (A) shall specify notification procedures for violations other than the violations covered by subparagraph (C). The procedures shall specify that a public water system shall provide written notice to each person served by the system by notice (I) in the first bill (if any) prepared after the date of occurrence of the violation, (II) in an annual report issued not later than 1 year after the date of occurrence of the violation, or (III) by mail or direct delivery as soon as practicable, but not later than 1 year after the date of occurrence of the violation.
+&emsp;&emsp;&emsp;Regulations issued under subparagraph (A) shall specify notification procedures for violations other than the violations covered by subparagraph (C). The procedures shall specify that a public water system shall provide written notice to each person served by the system by notice (I) in the first bill (if any) prepared after the date of occurrence of the violation, (II) inan annual report issued not later than 1 year after the date of occurrence of the violation, or (III) by mail or direct delivery as soon as practicable, but not later than 1 year after the date of occurrence of the violation.
 
 #### (ii) Form and manner of notice
 
@@ -212,7 +212,7 @@ If the Administrator makes a finding of noncompliance (described in subparagraph
 
 (1) In any case in which the Administrator is authorized to bring a civil action under this section or under section 300j–4 of this title with respect to any applicable requirement, the Administrator also may issue an order to require compliance with such applicable requirement.
 
-(2) An order issued under this subsection shall not take effect, in the case of a State having primary enforcement responsibility for public water systems in that State, until after the Administrator has provided the State with an opportunity to confer with the Administrator regarding the order. A copy of any order issued under this subsection shall be sent to the appropriate State agency of the State involved if the State has primary enforcement responsibility for public water systems in that State. Any order issued under this subsection shall state with reasonable specificity the nature of the violation. In any case in which an order under this subsection is issued to a corporation, a copy of such order shall be issued to appropriate corporate officers.
+(2) An order issued under this subsection shall not take effect, in the case of a State having primary enforcement responsibility for public water systems in that State, until after the Administrator has provided the State with an opportunity to confer with the Administrator regarding the order. A copy of any order issuedunder this subsection shall be sent to the appropriate State agency of the State involved if the State has primary enforcement responsibility for public water systems in that State. Any order issued under this subsection shall state with reasonable specificity the nature of the violation. In any case in which an order under this subsection is issued to a corporation, a copy of such order shall be issued to appropriate corporate officers.
 
 (3)(A) Any person who violates, or fails or refuses to comply with, an order under this subsection shall be liable to the United States for a civil penalty of not more than $25,000 per day of violation.
 
@@ -254,9 +254,9 @@ In this section, the term “applicable requirement” means—
 
 #### Amendments
 
-2002—Subsec. (i)(1). Pub. L. 107–188 inserted “300i–2” after “300g–6”.
+<b>2002</b>—Subsec. (i)(1). Pub. L. 107–188 inserted “300i–2” after “300g–6”.
 
-1996—Subsec. (a)(1)(A). Pub. L. 104–182, §113(a)(1)(A)(i)(II), substituted “with the requirement” for “with such regulation or requirement” in concluding provisions.
+<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–182, §113(a)(1)(A)(i)(II), substituted “with the requirement” for “with such regulation or requirement” in concluding provisions.
 
 Subsec. (a)(1)(A)(i). Pub. L. 104–182, §113(a)(1)(A)(i)(I), substituted “any applicable requirement” for “any national primary drinking water regulation in effect under section 300g–1 of this title”.
 
@@ -272,7 +272,7 @@ Subsec. (a)(2). Pub. L. 104–182, §113(a)(1)(B), added par. (2) and struck out
 
 Subsec. (b). Pub. L. 104–182, §113(a)(2), substituted “any applicable requirement” for “a national primary drinking water regulation” in introductory provisions.
 
-Subsec. (c). Pub. L. 104–182, §114(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to notice of owner or operator of public water system to persons served, regulations for form, manner, and frequency of notice, amendment of regulations to provide different types and frequencies of notice, and penalties.
+Subsec. (c). Pub. L. 104–182, §114(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to notice of owner or operator of public water system to persons served, regulations for form, manner, andfrequency of notice, amendment of regulations to provide different types and frequencies of notice, and penalties.
 
 Subsec. (g)(1). Pub. L. 104–182, §113(a)(3)(A), substituted “applicable requirement” for “regulation, schedule, or other requirement” in two places.
 
@@ -284,7 +284,7 @@ Subsec. (g)(3)(C). Pub. L. 104–182, §113(a)(3)(C)(ii), substituted “subsect
 
 Subsecs. (h), (i). Pub. L. 104–182, §113(a)(4), added subsecs. (h) and (i).
 
-1986—Pub. L. 99–339, §102(d)(2), substituted “Enforcement” for “Failure of State to assure enforcement” in section catchline.
+<b>1986</b>—Pub. L. 99–339, §102(d)(2), substituted “Enforcement” for “Failure of State to assure enforcement” in section catchline.
 
 Subsec. (a)(1)(A). Pub. L. 99–339, §102(a), inserted “and such public water system” after “notify the State” in provisions following cl. (ii).
 
@@ -298,7 +298,7 @@ Subsec. (c). Pub. L. 99–339, §103, substituted provisions relating to amendme
 
 Subsec. (g). Pub. L. 99–339, §102(d), added subsec. (g).
 
-1977—Subsec. (c). Pub. L. 95–190 inserted provisions relating to frequency of required notice, and notice respecting contaminant levels, and substituted “issued under this subsection” for “thereunder”.
+<b>1977</b>—Subsec. (c). Pub. L. 95–190 inserted provisions relating to frequency of required notice, and notice respecting contaminant levels, and substituted “issued under this subsection” for “thereunder”.
 
 <i><sup>1</sup></i><i> So in original. There probably should be a comma.</i>
 

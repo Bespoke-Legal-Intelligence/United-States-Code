@@ -78,7 +78,7 @@ United states sovereign immunity inapplicable.—Any property of a foreign state
 
 Third-party joint property holders.—Nothing in this subsection shall be construed to supersede the authority of a court to prevent appropriately the impairment of an interest held by a person who is not liable in the action giving rise to a judgment in property subject to attachment in aid of execution, or execution, upon such judgment.
 
-(Added Pub. L. 94–583, § 4(a), Oct. 21, 1976, 90 Stat. 2896; amended Pub. L. 100–640, §2, Nov. 9, 1988, 102 Stat. 3333; Pub. L. 100–669, §3, Nov. 16, 1988, 102 Stat. 3969; Pub. L. 101–650, title III, §325(b)(9), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 104–132, title II, §221(b), Apr. 24, 1996, 110 Stat. 1242; Pub. L. 105–277, div. A, §101(h) \[title I, §117(a)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–491; Pub. L. 106–386, div. C, §2002(g)(1), formerly §2002(f)(1), Oct. 28, 2000, 114 Stat. 1543, renumbered §2002(g)(1), Pub. L. 107–297, title II, §201(c)(3), Nov. 26, 2002, 116 Stat. 2337; Pub. L. 110–181, div. A, title X, §1083(b)(3), Jan. 28, 2008, 122 Stat. 341.)
+(Added Pub. L. 94–583, § 4(a), Oct. 21, 1976, 90 Stat. 2896; amended Pub. L. 100–640, §2, Nov. 9,1988, 102 Stat. 3333; Pub. L. 100–669, §3, Nov. 16, 1988, 102 Stat. 3969; Pub. L. 101–650, title III, §325(b)(9), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 104–132, title II, §221(b), Apr. 24, 1996, 110 Stat. 1242; Pub. L. 105–277, div. A, §101(h) \[title I, §117(a)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–491; Pub. L. 106–386, div. C, §2002(g)(1), formerly §2002(f)(1), Oct. 28, 2000, 114 Stat. 1543, renumbered §2002(g)(1), Pub. L. 107–297, title II, §201(c)(3), Nov. 26, 2002, 116 Stat. 2337; Pub. L. 110–181, div. A, title X, §1083(b)(3), Jan. 28, 2008, 122 Stat. 341.)
 
 #### References in Text
 
@@ -92,7 +92,7 @@ The International Emergency Economic Powers Act, referred to in subsec. (g)(2), 
 
 #### Amendments
 
-2008—Subsec. (a)(7). Pub. L. 110–181, §1083(b)(3)(A), substituted “1605A” for “1605(a)(7)”.
+<b>2008</b>—Subsec. (a)(7). Pub. L. 110–181, §1083(b)(3)(A), substituted “1605A” for “1605(a)(7)”.
 
 Subsec. (b)(2). Pub. L. 110–181, §1083(b)(3)(B), substituted “or (5), 1605(b), or 1605A” for “(5), or (7), or 1605(b)”.
 
@@ -100,19 +100,19 @@ Subsec. (f)(1)(A), (2)(A). Pub. L. 110–181, §1083(b)(3)(C), inserted “(as i
 
 Subsec. (g). Pub. L. 110–181, §1083(b)(3)(D), added subsec. (g).
 
-2000—Subsec. (f)(2)(A), (B)(ii). Pub. L. 106–386, §2002(g)(1)(A), formerly §2002(f)(1)(A), as renumbered by Pub. L. 107–297, substituted “should make every effort to” for “shall”.
+<b>2000</b>—Subsec. (f)(2)(A), (B)(ii). Pub. L. 106–386, §2002(g)(1)(A), formerly §2002(f)(1)(A), as renumbered by Pub. L. 107–297, substituted “should make every effort to” for “shall”.
 
 Subsec. (f)(3). Pub. L. 106–386, §2002(g)(1)(B), formerly §2002(f)(1)(B), as renumbered by Pub. L. 107–297, added par. (3).
 
-1998—Subsec. (f). Pub. L. 105–277 added subsec. (f).
+<b>1998</b>—Subsec. (f). Pub. L. 105–277 added subsec. (f).
 
-1996—Subsec. (a)(7). Pub. L. 104–132, §221(b)(1), added par. (7).
+<b>1996</b>—Subsec. (a)(7). Pub. L. 104–132, §221(b)(1), added par. (7).
 
 Subsec. (b)(2). Pub. L. 104–132, §221(b)(2), substituted “(5), or (7),” for “or (5),” and “involved in the act” for “used for the activity”.
 
-1990—Subsecs. (a)(6), (e). Pub. L. 101–650 substituted “state” for “State” after “foreign”.
+<b>1990</b>—Subsecs. (a)(6), (e). Pub. L. 101–650 substituted “state” for “State” after “foreign”.
 
-1988—Subsec. (a)(6). Pub. L. 100–669 added par. (6).
+<b>1988</b>—Subsec. (a)(6). Pub. L. 100–669 added par. (6).
 
 Subsec. (e). Pub. L. 100–640 added subsec. (e).
 
@@ -176,7 +176,7 @@ Blocked asset.—The term ‘blocked asset’ means—
 
 &emsp;&emsp;“(B) does not include property that—
 
-&emsp;&emsp;&emsp;“(i) is subject to a license issued by the United States Government for final payment, transfer, or disposition by or to a person subject to the jurisdiction of the United States in connection with a transaction for which the issuance of such license has been specifically required by statute other than the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) or the United Nations Participation Act of 1945 (22 U.S.C. 287 et seq.); or
+&emsp;&emsp;&emsp;“(i) is subject to a license issued by the United States Government for final payment, transfer, or disposition by or to a person subject to the jurisdiction of the United States in connection with a transaction for which the issuance of such license has been specifically required by statute other than the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) or the UnitedNations Participation Act of 1945 (22 U.S.C. 287 et seq.); or
 
 &emsp;&emsp;&emsp;“(ii) in the case of property subject to the Vienna Convention on Diplomatic Relations or the Vienna Convention on Consular Relations, or that enjoys equivalent privileges and immunities under the law of the United States, is being used exclusively for diplomatic or consular purposes.
 

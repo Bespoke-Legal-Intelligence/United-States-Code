@@ -62,7 +62,7 @@
 
 #### (b) Criminal
 
-Any person who violates section 8124 of this title or section 8141 of this title may, in additionto or in lieu of any civil penalty which may be imposed under subsection (a) for such violation, be fined under title 18, imprisoned for not more than five years, or both.
+Any person who violates section 8124 of this title or section 8141 of this title may, in addition to or in lieu of any civil penalty which may be imposed under subsection (a) for such violation, be fined under title 18, imprisoned for not more than five years, or both.
 
 (Pub. L. 109–401, title II, §242, Dec. 18, 2006, 120 Stat. 2747.)
 

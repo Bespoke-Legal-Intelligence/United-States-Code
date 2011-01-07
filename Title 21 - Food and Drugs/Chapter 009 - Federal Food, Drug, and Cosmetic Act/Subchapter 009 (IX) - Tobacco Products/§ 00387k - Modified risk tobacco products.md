@@ -96,7 +96,7 @@ The Secretary shall make the application described in subsection (d) publicly av
 
 &emsp;&emsp;&emsp;(i) such order would be appropriate to promote the public health;
 
-&emsp;&emsp;&emsp;(ii) any aspect of the label, labeling, and advertising for such product that would cause the tobacco product to be a modified risk tobacco product under subsection (b)is limited to an explicit or implicit representation that such tobacco product or its smoke does not contain or is free of a substance or contains a reduced level of a substance, or presents a reduced exposure to a substance in tobacco smoke;
+&emsp;&emsp;&emsp;(ii) any aspect of the label, labeling, and advertising for such product that would cause the tobacco product to be a modified risk tobacco product under subsection (b) is limited to an explicit or implicit representation that such tobacco product or its smoke does not contain or is free of a substance or contains a reduced level of a substance, or presents a reduced exposure to a substance in tobacco smoke;
 
 &emsp;&emsp;&emsp;(iii) scientific evidence is not available and, using the best available scientific methods, cannot be made available without conducting long-term epidemiological studies for an application to meet the standards set forth in paragraph (1); and
 
@@ -126,7 +126,7 @@ The Secretary shall make the application described in subsection (d) publicly av
 
 #### (ii) Agreements by applicant
 
-&emsp;&emsp;&emsp;An order under this paragraph shall be conditioned on the applicant's agreement to conduct postmarket surveillance and studies and to submit to the Secretary the results of such surveillance and studies to determine the impact of the order on consumer perception, behavior, and health and to enable the Secretary to review the accuracy of the determinations upon which the order was based in accordance with a protocol approved by the Secretary.
+&emsp;&emsp;&emsp;An order under this paragraph shall be conditioned on the applicant's agreementto conduct postmarket surveillance and studies and to submit to the Secretary the results of such surveillance and studies to determine the impact of the order on consumer perception, behavior, and health and to enable the Secretary to review the accuracy of the determinations upon which the order was based in accordance with a protocol approved by the Secretary.
 
 #### (iii) Annual submission
 
@@ -164,7 +164,7 @@ The Secretary shall make the application described in subsection (d) publicly av
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may require for the marketing of a product under this subsection that a claim comparing a tobacco product to 1 or more other commercially marketed tobacco products shall compare the tobacco product to a commercially marketed tobacco product that is representative of that type of tobacco product on the market (for examplethe average value of the top 3 brands of an established regular tobacco product).
+&emsp;&emsp;The Secretary may require for the marketing of a product under this subsection that a claim comparing a tobacco product to 1 or more other commercially marketed tobacco products shall compare the tobacco product to a commercially marketed tobacco product that is representative of that type of tobacco product on the market (for example the average value of the top 3 brands of an established regular tobacco product).
 
 #### (B) Quantitative comparisons
 
@@ -196,7 +196,7 @@ The Secretary shall make the application described in subsection (d) publicly av
 
 #### (2) Surveillance protocol
 
-&emsp;Each applicant required to conduct a surveillance of a tobacco product under paragraph (1) shall, within 30 days after receiving notice that the applicant is required to conduct such surveillance, submit, for the approval of the Secretary, a protocol for the required surveillance. The Secretary, within 60 days of the receipt of such protocol, shall determine if the principal investigator proposed to be used in the surveillance has sufficient qualifications and experience to conduct such surveillance and if such protocol will result in collection of the data or other information designated by the Secretary as necessary to protect the public health.
+&emsp;Each applicant required to conduct a surveillance of a tobacco product under paragraph (1) shall, within 30 days after receiving notice that the applicant is required to conduct such surveillance, submit, for the approval of the Secretary, a protocol for the required surveillance. The Secretary, within 60 days of the receipt of such protocol, shall determine if the principal investigator proposed to be used in the surveillance has sufficient qualifications and experience to conduct such surveillance and if such protocol will result incollection of the data or other information designated by the Secretary as necessary to protect the public health.
 
 #### (j) Withdrawal of authorization
 
@@ -234,7 +234,7 @@ A product for which the Secretary has issued an order pursuant to subsection (g)
 
 &emsp;&emsp;(C) establish minimum standards for postmarket studies, that shall include regular and long-term assessments of health outcomes and mortality, intermediate clinical endpoints, consumer perception of harm reduction, and the impact on quitting behavior and new use of tobacco products, as appropriate;
 
-&emsp;&emsp;(D) establish minimum standards for required postmarket surveillance, includingongoing assessments of consumer perception;
+&emsp;&emsp;(D) establish minimum standards for required postmarket surveillance, including ongoing assessments of consumer perception;
 
 &emsp;&emsp;(E) require that data from the required studies and surveillance be made available to the Secretary prior to the decision on renewal of a modified risk tobacco product; and
 

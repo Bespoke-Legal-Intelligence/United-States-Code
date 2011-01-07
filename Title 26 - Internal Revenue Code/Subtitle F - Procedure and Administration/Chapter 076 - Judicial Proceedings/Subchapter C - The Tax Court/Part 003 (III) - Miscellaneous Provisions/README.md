@@ -12,7 +12,7 @@
 
 #### Amendments
 
-1988—Pub. L. 100–647, title I, §1018(u)(45), Nov. 10, 1988, 102 Stat. 3592, added item 7475.
+<b>1988</b>—Pub. L. 100–647, title I, §1018(u)(45), Nov. 10, 1988, 102 Stat. 3592, added item 7475.
 
 
 ---

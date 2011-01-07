@@ -10,5 +10,5 @@ Section was not enacted as part of act Mar. 24, 1937, ch. 50, 50 Stat. 51, which
 
 #### Amendments
 
-1976—Pub. L. 94–418 inserted provision authorizing alternate interest rate to existing interest rate of 4 per centum per annum.
+<b>1976</b>—Pub. L. 94–418 inserted provision authorizing alternate interest rate to existing interest rate of 4 per centum per annum.
 

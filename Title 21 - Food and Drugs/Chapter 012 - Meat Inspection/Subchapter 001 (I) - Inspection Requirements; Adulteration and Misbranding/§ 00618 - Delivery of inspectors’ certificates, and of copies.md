@@ -12,11 +12,11 @@ Section was formerly classified to section 86 of this title.
 
 #### Amendments
 
-2005—Pub. L. 109–97 substituted “amenable species” for “cattle, sheep, swine, goats, horses, mules, and other equines” in two places.
+<b>2005</b>—Pub. L. 109–97 substituted “amenable species” for “cattle, sheep, swine, goats, horses, mules, and other equines” in two places.
 
-2002—Pub. L. 107–171 substituted “of the carcasses and products of cattle, sheep, swine, goats, horses, mules, and other equines” for “of the cattle, sheep, swine, goats, horses, mules, and other equines, their carcasses and products as described in this subchapter”.
+<b>2002</b>—Pub. L. 107–171 substituted “of the carcasses and products of cattle, sheep, swine, goats, horses, mules, and other equines” for “of the cattle, sheep, swine, goats, horses, mules, and other equines, their carcasses and products as described in this subchapter”.
 
-1967—Pub. L. 90–201, §12(a), (h), included horses, mules, and other equines in the list of animals and struck out “sound and wholesome” before “conditions”, respectively.
+<b>1967</b>—Pub. L. 90–201, §12(a), (h), included horses, mules, and other equines in the list of animals and struck out “sound and wholesome” before “conditions”, respectively.
 
 #### Effective Date of 2005 Amendment
 

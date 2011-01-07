@@ -54,7 +54,7 @@ Issuance.—The Secretary shall issue regulations required by this section perta
 
 (h)
 
-Impact of Regulations.—The Secretary shall include in regulations prescribed under this section a concise statement of the impact of such regulations with respect to the operation ofsection 20106 of this title (national uniformity of regulation).
+Impact of Regulations.—The Secretary shall include in regulations prescribed under this section a concise statement of the impact of such regulations with respect to the operation of section 20106 of this title (national uniformity of regulation).
 
 (i)
 
@@ -78,7 +78,7 @@ Effective Date of Regulations.—Any regulations under this section shall not ta
 
 #### Amendments
 
-1996—Subsec. (g). Pub. L. 104–287 substituted “November 2, 1994” for “the date of enactment of this section” in two places.
+<b>1996</b>—Subsec. (g). Pub. L. 104–287 substituted “November 2, 1994” for “the date of enactment of this section” in two places.
 
 Subsecs. (i), (j). Pub. L. 104–264 added subsecs. (i) and (j).
 

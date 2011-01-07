@@ -48,7 +48,7 @@ The following lands within the recreation area are hereby designated as wilderne
 
 #### (g) Forest plans; integrated management plans
 
-Management direction for the recreation area shall be developed in either the forest plans developed for the Umpqua, Winema, Deschutes and Willamette Forests in accordance with section 6 of the Forest and Rangeland Renewable Resources Planning Act of 1974, as amended \[16 U.S.C. 1604\], or in an integrated management plan that shall be prepared within three years from June 26, 1984, and revised in accordancewith the Forest and Rangeland Renewable Resources Planning Act of 1974, as amended \[16 U.S.C. 1600 et seq.\]. Any plan developed by the Secretary for the recreation area shall identify and designate specific and appropriate areas and routes for the use of motorized recreation vehicles within the recreation area.
+Management direction for the recreation area shall be developed in either the forest plans developed for the Umpqua, Winema, Deschutes and Willamette Forests in accordance with section 6 of the Forest and Rangeland Renewable Resources Planning Act of 1974, as amended \[16 U.S.C. 1604\], or in an integrated management plan that shall be prepared within three years from June 26, 1984, and revised in accordance with the Forest and Rangeland Renewable Resources Planning Act of 1974, as amended \[16 U.S.C. 1600 et seq.\]. Any plan developed by the Secretary for the recreation area shall identify and designate specific and appropriate areas and routes for the use of motorized recreation vehicles within the recreation area.
 
 (Pub. L. 98–328, §4, June 26, 1984, 98 Stat. 275.)
 
@@ -56,13 +56,9 @@ Management direction for the recreation area shall be developed in either the fo
 
 This subchapter, referred to in subsec. (a), was in the original “the Act”, meaning Pub. L. 98–328, June 26, 1984, 98 Stat. 272, known as the Oregon Wilderness Act of 1984, which enacted this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
 
-The mining laws and the mineral leasing laws, referred to in subsec. (d)(2), are classified generally to Title 30, Mineral Lands and Mining.
+The Wilderness Act and Public Law 88–577, referred to in subsec. (f), are Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
-Geothermal leasing laws, referred to in subsec. (d)(2), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
-
-The Wilderness Act and Public Law 88–577, referred to in subsec. (f), are Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
-
-The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (g), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
+The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (g), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
 
 #### Map of Recreation Area
 

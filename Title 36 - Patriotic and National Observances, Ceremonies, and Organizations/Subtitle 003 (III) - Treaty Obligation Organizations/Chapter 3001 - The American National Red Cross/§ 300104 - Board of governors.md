@@ -194,5 +194,5 @@ In subsection (c)(2), the words “of the corporation” are substituted for “
 
 #### Amendments
 
-2007—Pub. L. 110–26 reenacted section catchline without change and amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to the board of governors, its terms of office and filling of vacancies, the executive committee, and voting by proxy.
+<b>2007</b>—Pub. L. 110–26 reenacted section catchline without change and amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to the board of governors, its terms of office and filling of vacancies, the executive committee, and voting by proxy.
 

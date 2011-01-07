@@ -46,7 +46,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–181, §1305(1), substituted “Subject to the provisions of this section, the Secretary of Defense may obligate and expend Cooperative Threat Reduction funds for a fiscal year, and any Cooperative Threat Reduction funds for a fiscal year before such fiscal year that remain available for obligation, for a proliferation threat reduction project or activity outside the states of the former Soviet Union if the Secretary of Defense, with the concurrence of the Secretary of State, determines each of the following:” for “Subject to the provisions of this section, the Secretary of Defense may obligate and expend Cooperative Threat Reduction funds for a fiscal year, and any Cooperative Threat Reduction funds for a fiscal year before such fiscal year that remain available for obligation, for a proliferation threat reduction project or activity outside the states of the former Soviet Union if the Secretary of Defense, with the concurrence of the Secretary of State, determines each of the following:”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §1305(1), substituted “Subject to the provisions of this section, the Secretary of Defense may obligate and expend Cooperative Threat Reduction funds for a fiscal year, and any Cooperative Threat Reduction funds for a fiscal year before such fiscal year that remain available for obligation, for a proliferation threat reduction project or activity outside the states of the former Soviet Union if the Secretary of Defense, with the concurrence of the Secretary of State, determines each of the following:” for “Subject to the provisions of this section, the Secretary of Defense may obligate and expend Cooperative Threat Reduction funds for a fiscal year, and any Cooperative Threat Reduction funds for a fiscal year before such fiscal year that remain available for obligation, for a proliferation threat reduction project or activity outside the states of the former Soviet Union if the Secretary of Defense, with the concurrence of the Secretary of State, determines each of the following:”.
 
 Subsec. (c). Pub. L. 110–181, §1305(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) required the Secretary of Defense, with the concurrence of the Secretary of State, to make certain determinations before obligating funds under subsec. (a).
 
@@ -54,7 +54,7 @@ Pub. L. 110–181, §1305(2), redesignated subsec. (d) as (c) and struck out for
 
 Subsecs. (d), (e). Pub. L. 110–181, §1305(2), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-2007—Subsec. (a). Pub. L. 110–53, §1811(4)(A), in introductory provisions, substituted “the Secretary of Defense may” for “the President may” and “if the Secretary of Defense, with the concurrence of the Secretary of State,” for “if the President”.
+<b>2007</b>—Subsec. (a). Pub. L. 110–53, §1811(4)(A), in introductory provisions, substituted “the Secretary of Defense may” for “the President may” and “if the Secretary of Defense, with the concurrence of the Secretary of State,” for “if the President”.
 
 Subsec. (d)(1). Pub. L. 110–53, §1811(4)(B), substituted “The Secretary of Defense may not” for “The President may not” and “until the Secretary of Defense, with the concurrence of the Secretary of State,” for “until the President”.
 

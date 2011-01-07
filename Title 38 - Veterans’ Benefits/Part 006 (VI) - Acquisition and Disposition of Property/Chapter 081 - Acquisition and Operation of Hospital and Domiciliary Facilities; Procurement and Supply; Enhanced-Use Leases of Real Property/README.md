@@ -10,7 +10,7 @@
 | [8104\.](Subchapter%20001%20%28I%29%20-%20Acquisition%20and%20Operation%20of%20Medical%20Facilities/%C2%A7%2008104%20-%20Congressional%20approval%20of%20certain%20medical%20facility%20acquisitions.md) | Congressional approval of certain medical facility acquisitions. |
 | [8105\.](Subchapter%20001%20%28I%29%20-%20Acquisition%20and%20Operation%20of%20Medical%20Facilities/%C2%A7%2008105%20-%20Structural%20requirements.md) | Structural requirements. |
 | [8106\.](Subchapter%20001%20%28I%29%20-%20Acquisition%20and%20Operation%20of%20Medical%20Facilities/%C2%A7%2008106%20-%20Construction%20contracts.md) | Construction contracts. |
-| [8107\.](Subchapter%20001%20%28I%29%20-%20Acquisition%20and%20Operation%20of%20Medical%20Facilities/%C2%A7%2008107%20-%20Operational%20and%20construction%20plans%20for%20medical%20facilities.md) | Operational and construction plans for medical facilities. |
+| \[8107. | Repealed.\] |
 | [8108\.](Subchapter%20001%20%28I%29%20-%20Acquisition%20and%20Operation%20of%20Medical%20Facilities/%C2%A7%2008108%20-%20Contributions%20to%20local%20authorities.md) | Contributions to local authorities. |
 | [8109\.](Subchapter%20001%20%28I%29%20-%20Acquisition%20and%20Operation%20of%20Medical%20Facilities/%C2%A7%2008109%20-%20Parking%20facilities.md) | Parking facilities. |
 | [8110\.](Subchapter%20001%20%28I%29%20-%20Acquisition%20and%20Operation%20of%20Medical%20Facilities/%C2%A7%2008110%20-%20Operation%20of%20medical%20facilities.md) | Operation of medical facilities. |
@@ -94,29 +94,31 @@
 
 #### Amendments
 
-2008—Pub. L. 110–387, title VII, §708(c), Oct. 10, 2008, 122 Stat. 4140, added item 8119.
+<b>2010</b>—Pub. L. 111–163, title V, §501(b)(2), May 5, 2010, 124 Stat. 1157, struck out item 8107 “Operational and construction plans for medical facilities”.
 
-2006—Pub. L. 109–461, title II, §211(c)(2), title V, §§502(a)(2), 503(a)(2), Dec. 22, 2006, 120 Stat. 3421, 3435, 3436, added items 8127, 8128, and 8138.
+<b>2008</b>—Pub. L. 110–387, title VII, §708(c), Oct. 10, 2008, 122 Stat. 4140, added item 8119.
 
-2004—Pub. L. 108–422, title IV, §411(a)(2), Nov. 30, 2004, 118 Stat. 2389, added item 8118.
+<b>2006</b>—Pub. L. 109–461, title II, §211(c)(2), title V, §§502(a)(2), 503(a)(2), Dec. 22, 2006, 120 Stat. 3421, 3435, 3436, added items 8127, 8128, and 8138.
 
-2003—Pub. L. 108–170, title II, §202(d)(2), Dec. 6, 2003, 117 Stat. 2048, substituted “Hearing and notice requirements regarding proposed leases” for “Designation of property to be leased” in item 8163.
+<b>2004</b>—Pub. L. 108–422, title IV, §411(a)(2), Nov. 30, 2004, 118 Stat. 2389, added item 8118.
 
-2002—Pub. L. 107–314, div. A, title VII, §721(a)(2), Dec. 2, 2002, 116 Stat. 2595, substituted “Sharing of Department of Veterans Affairs and Department of Defense health care resources” for “Sharing of Department and Department of Defense health-care resources” in item 8111.
+<b>2003</b>—Pub. L. 108–170, title II, §202(d)(2), Dec. 6, 2003, 117 Stat. 2048, substituted “Hearing and notice requirements regarding proposed leases” for “Designation of property to be leased” in item 8163.
+
+<b>2002</b>—Pub. L. 107–314, div. A, title VII, §721(a)(2), Dec. 2, 2002, 116 Stat. 2595, substituted “Sharing of Department of Veterans Affairs and Department of Defense health care resources” for “Sharing of Department and Department of Defense health-care resources” in item 8111.
 
 Pub. L. 107–287, §6(a)(2), Nov. 7, 2002, 116 Stat. 2032, added item 8117.
 
-1997—Pub. L. 105–114, title II, §205(b)(2), Nov. 21, 1997, 111 Stat. 2289, struck out item 8168 “Limitation on number of agreements”.
+<b>1997</b>—Pub. L. 105–114, title II, §205(b)(2), Nov. 21, 1997, 111 Stat. 2289, struck out item 8168 “Limitation on number of agreements”.
 
-1996—Pub. L. 104–262, title III, §301(d)(2), Oct. 9, 1996, 110 Stat. 3193, substituted “Sharing of health-care resources” for “Specialized medical resources” in item 8153.
+<b>1996</b>—Pub. L. 104–262, title III, §301(d)(2), Oct. 9, 1996, 110 Stat. 3193, substituted “Sharing of health-care resources” for “Specialized medical resources” in item 8153.
 
-1994—Pub. L. 103–446, title XII, §1201(h)(5), (6), Nov. 2, 1994, 108 Stat. 4688, inserted “ENHANCED-USE” before “LEASES OF REAL” in chapter heading and “and certain other Federal agencies” after “Department” in item 8126.
+<b>1994</b>—Pub. L. 103–446, title XII, §1201(h)(5), (6), Nov. 2, 1994, 108 Stat. 4688, inserted “ENHANCED-USE” before “LEASES OF REAL” in chapter heading and “and certain other Federal agencies” after “Department” in item 8126.
 
-1992—Pub. L. 102–585, title VI, §603(a)(2), Nov. 4, 1992, 106 Stat. 4975, added item 8126.
+<b>1992</b>—Pub. L. 102–585, title VI, §603(a)(2), Nov. 4, 1992, 106 Stat. 4975, added item 8126.
 
 Pub. L. 102–405, title I, §103(a)(2), Oct. 9, 1992, 106 Stat. 1975, added items 8157 and 8158.
 
-1991—Pub. L. 102–86, title IV, §401(b)(1), (3), Aug. 14, 1991, 105 Stat. 422, inserted “; LEASES OF REAL PROPERTY” in chapter heading and added analysis for subchapter V.
+<b>1991</b>—Pub. L. 102–86, title IV, §401(b)(1), (3), Aug. 14, 1991, 105 Stat. 422, inserted “; LEASES OF REAL PROPERTY” in chapter heading and added analysis for subchapter V.
 
 Pub. L. 102–83, §4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, substituted “Department and” for “Veterans’ Administration and” in item 8111.
 
@@ -124,27 +126,27 @@ Pub. L. 102–54, §14(f)(1), June 13, 1991, 105 Stat. 287, amended the table of
 
 Pub. L. 102–40, title IV, §402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 5001 to 5056 as 8101 to 8156, respectively.
 
-1988—Pub. L. 100–322, title II, §205(b), May 20, 1988, 102 Stat. 513, added at end item 5016.
+<b>1988</b>—Pub. L. 100–322, title II, §205(b), May 20, 1988, 102 Stat. 513, added at end item 5016.
 
 Pub. L. 100–322, title IV, §403(a)(2), May 20, 1988, 102 Stat. 545, added item 5025.
 
-1986—Pub. L. 99–576, title II, §§223(a)(2), 231(c)(2)(B), Oct. 28, 1986, 100 Stat. 3261, 3264, substituted “Parking facilities” for “Garages and parking facilities” in item 5009 and struck out item 5057 “Reports to Congress”.
+<b>1986</b>—Pub. L. 99–576, title II, §§223(a)(2), 231(c)(2)(B), Oct. 28, 1986, 100 Stat. 3261, 3264, substituted “Parking facilities” for “Garages and parking facilities” in item 5009 and struck out item 5057 “Reports to Congress”.
 
-1985—Pub. L. 99–166, title III, §302(c)(2), Dec. 3, 1985, 99 Stat. 955, substituted “Operational and construction plans for medical facilities” for “Reports to congressional committees” in item 5007.
+<b>1985</b>—Pub. L. 99–166, title III, §302(c)(2), Dec. 3, 1985, 99 Stat. 955, substituted “Operational and construction plans for medical facilities” for “Reports to congressional committees” in item 5007.
 
-1982—Pub. L. 97–174, §§3(b)(2), 4(b), May 4, 1982, 96 Stat. 74, 75, substituted “Sharing of Veterans’ Administration and Department of Defense health-care resources” for “Use of Armed Forces facilities” in item 5011, and added item 5011A.
+<b>1982</b>—Pub. L. 97–174, §§3(b)(2), 4(b), May 4, 1982, 96 Stat. 74, 75, substituted “Sharing of Veterans’ Administration and Department of Defense health-care resources” for “Use of Armed Forces facilities” in item 5011, and added item 5011A.
 
-1979—Pub. L. 96–22, title III, §301(c), June 13, 1979, 93 Stat. 61, substituted “ACQUISITION AND OPERATION OF MEDICAL FACILITIES” for “PROVISIONS RELATING TO HOSPITALS AND HOMES” in heading for subchapter I, substituted “Definitions” for “Hospital and domiciliary facilities” in item 5001, “Acquisition of medical facilities” for “Construction and repair of buildings” in item 5002, “Authority to construct and alter, and acquire sites for, medical facilities” for “Use of Armed Forces facilities” in item 5003, “Congressional approval of certain medical facility acquisitions” for “Garages and parking facilities” in item 5004, “Structural requirements” for “Acceptance of certain property” in item 5005, “Construction contracts” for “Property formerly owned by National Home for Disabled Volunteer Soldiers” in item 5006, and “Reports to congressional committees” for “Partial relinquishment of legislative jurisdiction” in item 5007, added items 5008 to 5015, and redesignated former items 5011 to 5014 as 5021 to 5024, respectively.
+<b>1979</b>—Pub. L. 96–22, title III, §301(c), June 13, 1979, 93 Stat. 61, substituted “ACQUISITION AND OPERATION OF MEDICAL FACILITIES” for “PROVISIONS RELATING TO HOSPITALS AND HOMES” in heading for subchapter I, substituted “Definitions” for “Hospital and domiciliary facilities” in item 5001, “Acquisition of medical facilities” for “Construction and repair of buildings” in item 5002, “Authority to construct and alter, and acquire sites for, medical facilities” for “Use of Armed Forces facilities” in item 5003, “Congressional approval of certain medical facility acquisitions” for “Garages and parking facilities” in item 5004, “Structural requirements” for “Acceptance of certain property” in item 5005, “Construction contracts” for “Property formerly owned by National Home for Disabled Volunteer Soldiers” in item 5006, and “Reports to congressional committees” for “Partial relinquishment of legislative jurisdiction” in item 5007, added items 5008 to 5015, and redesignated former items 5011 to 5014 as 5021 to 5024, respectively.
 
-1977—Pub. L. 95–62, §4(c), July 5, 1977, 91 Stat. 263, substituted “DOMICILIARY, NURSING HOME, AND HOSPITAL CARE” for “NURSING HOME CARE” in heading for subchapter III.
+<b>1977</b>—Pub. L. 95–62, §4(c), July 5, 1977, 91 Stat. 263, substituted “DOMICILIARY, NURSING HOME, ANDHOSPITAL CARE” for “NURSING HOME CARE” in heading for subchapter III.
 
-1976—Pub. L. 94–581, title I, §115(b), Oct. 21, 1976, 90 Stat. 2853, substituted “health services development activities carried out under the National Health Planning and Resources Development Act of 1974” for “programs carried out under the Heart Disease, Cancer, and Stroke Amendments of 1965” in item 5056.
+<b>1976</b>—Pub. L. 94–581, title I, §115(b), Oct. 21, 1976, 90 Stat. 2853, substituted “health services development activities carried out under the National Health Planning and Resources Development Act of 1974” for “programs carried out under the Heart Disease, Cancer, and Stroke Amendments of 1965” in item 5056.
 
-1973—Pub. L. 93–82, title III, §302(3), Aug. 2, 1973, 87 Stat. 195, added item 5007.
+<b>1973</b>—Pub. L. 93–82, title III, §302(3), Aug. 2, 1973, 87 Stat. 195, added item 5007.
 
-1966—Pub. L. 89–785, title II, §§201(b), 202(c), 2, Nov. 7, 1966, 80 Stat. 1372, 1373, 1376, substituted “Garages and parking facilities” for “Garages on hospital and domiciliary reservations” in item 5004, inserted “and to negotiate for common services” in item 5012, and added heading for subchapter IV and items 5051 to 5056 and 5075.
+<b>1966</b>—Pub. L. 89–785, title II, §§201(b), 202(c), 2, Nov. 7, 1966, 80 Stat. 1372, 1373, 1376, substituted “Garages and parking facilities” for “Garages on hospital and domiciliary reservations” in item 5004, inserted “and to negotiate for common services” in item 5012, and added heading for subchapter IV and items 5051 to 5056 and 5075.
 
-1964—Pub. L. 88–450, §4(b), Aug. 19, 1964, 78 Stat. 503, added heading for subchapter III and items 5031 to 5037.
+<b>1964</b>—Pub. L. 88–450, §4(b), Aug. 19, 1964, 78 Stat. 503, added heading for subchapter III and items 5031 to 5037.
 
 
 ---

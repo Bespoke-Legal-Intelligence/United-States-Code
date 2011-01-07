@@ -1,7 +1,5 @@
 Part B—Next Generation Nuclear Plant Project
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “to”.</i>
-
 
 ---
 

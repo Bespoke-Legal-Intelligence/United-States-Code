@@ -12,7 +12,7 @@
 
 #### Amendments
 
-2003—Pub. L. 108–183 designated existing provisions as subsec. (a), struck out “(rounded to the nearest dollar)” after “percentage increase”, and added subsec. (b).
+<b>2003</b>—Pub. L. 108–183 designated existing provisions as subsec. (a), struck out “(rounded to the nearest dollar)” after “percentage increase”, and added subsec. (b).
 
 #### Effective Date
 

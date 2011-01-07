@@ -52,13 +52,13 @@ Definition.—As used in this chapter the term “State” includes the District
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–33, §11204(1)(A), inserted “in the custody of the Bureau of Prisons” after “certifies that a person”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §11204(1)(A), inserted “in the custody of the Bureau of Prisons” after “certifies that a person”.
 
 Subsec. (h). Pub. L. 105–33, §11204(1)(B), added subsec. (h).
 
-1990—Subsec. (g). Pub. L. 101–647 substituted “chapter” for “subchapter”.
+<b>1990</b>—Subsec. (g). Pub. L. 101–647 substituted “chapter” for “subchapter”.
 
-1984—Pub. L. 98–473 amended section generally, substituting “Hospitalization of a person due for release but suffering from mental disease or defect” for “Procedure upon finding of mental incompetency” in section catchline, and substituting provisions relating to proceedings, examination and report, hearing, etc., regarding hospitalization of a person due for release but suffering from mental disease or defect, for provisions relating to powers of the trial court with respect to finding of mental incompetency of accused.
+<b>1984</b>—Pub. L. 98–473 amended section generally, substituting “Hospitalization of a person due for release but suffering from mental disease or defect” for “Procedure upon finding of mental incompetency” in section catchline, and substituting provisions relating to proceedings, examination and report, hearing, etc., regarding hospitalization of a person due for release but suffering from mental disease or defect, for provisions relating to powers of the trial court with respect to finding of mental incompetency of accused.
 
 #### Effective Date of 1997 Amendment
 

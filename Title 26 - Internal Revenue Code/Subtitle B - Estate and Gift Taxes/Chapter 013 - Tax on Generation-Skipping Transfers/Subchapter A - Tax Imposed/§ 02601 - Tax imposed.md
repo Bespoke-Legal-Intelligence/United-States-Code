@@ -6,7 +6,7 @@ A tax is hereby imposed on every generation-skipping transfer (within the meanin
 
 #### Amendments
 
-1986—Pub. L. 99–514 amended section generally, substituting “(within the meaning of subchapter B)” for “in the amount determined under section 2602”.
+<b>1986</b>—Pub. L. 99–514 amended section generally, substituting “(within the meaning of subchapter B)” for “in the amount determined under section 2602”.
 
 #### Effective Date of 1986 Amendment
 

@@ -4,7 +4,3 @@ Upon receipt of a proper deed from the State of North Dakota, executed under aut
 
 (July 3, 1916, ch. 219, 39 Stat. 344.)
 
-#### References in Text
-
-The public land laws, referred to in text, are classified generally to this title.
-

@@ -12,7 +12,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-1992—Pub. L. 102–366 inserted at end “It is the intention of the Congress that in the award of financial assistance under this chapter, when practicable, priority be accorded to small business concerns which lease or purchase equipment and supplies which are produced in the United States and that small business concerns receiving such assistance be encouraged to continue to lease or purchase such equipment and supplies.”
+<b>1992</b>—Pub. L. 102–366 inserted at end “It is the intention of the Congress that in the award of financial assistance under this chapter, when practicable, priority be accorded to small business concerns which lease or purchase equipment and supplies which are produced in the United States and that small business concerns receiving such assistance be encouraged to continue to lease or purchase such equipment and supplies.”
 
 #### Short Title of 2004 Amendment
 
@@ -44,7 +44,7 @@ Section 401 of title IV of Pub. L. 102–366 provided that: “This Act \[probab
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–590, title II, §201, Nov. 3, 1988, 102 Stat. 3007, provided that: “This title \[amending sections 694b and 694c of this title and enacting provisions set out as notes under section 694b of this title\] may be cited as the ‘Preferred Surety Bond Guarantee Program Act of 1988’.”
+Pub. L. 100–590, title II, §201, Nov. 3, 1988, 102 Stat. 3007, provided that: “This title \[amending sections 694band 694c of this title and enacting provisions set out as notes under section 694b of this title\] may be cited as the ‘Preferred Surety Bond Guarantee Program Act of 1988’.”
 
 #### Short Title of 1972 Amendment
 
@@ -68,7 +68,7 @@ Section 1 of Pub. L. 87–341, Oct. 3, 1961, 75 Stat. 752, provided: “That thi
 
 #### Short Title of 1960 Amendment
 
-Section 1 of Pub. L. 86–502, June 11, 1960, 74 Stat. 196, provided: “That this Act \[amending sections 662, 681,682, and 684 of this title, and section 26–610 of the District of Columbia Code, 1973 edition\] may be cited as the ‘Small Business Investment Act Amendments of 1960’.”
+Section 1 of Pub. L. 86–502, June 11, 1960, 74 Stat. 196, provided: “That this Act \[amending sections 662, 681, 682, and 684 of this title, and section 26–610 of the District of Columbia Code, 1973 edition\] may be cited as the ‘Small Business Investment Act Amendments of 1960’.”
 
 #### Short Title
 

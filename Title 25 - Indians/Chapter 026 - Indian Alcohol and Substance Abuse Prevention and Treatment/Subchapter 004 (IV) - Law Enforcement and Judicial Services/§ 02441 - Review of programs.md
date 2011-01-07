@@ -2,7 +2,7 @@
 
 #### (a) Law enforcement and judicial services
 
-In the development of the Memorandum of Agreement required by section 2411 of this title, the Secretary of the Interior and the Secretary of Health and Human Services, in cooperation with the Attorney General of the United States, shall review and consider—
+In the development of the Memorandum of Agreement required by section 2411 of this title, the Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services, in cooperation with the Attorney General of the United States, shall review and consider—
 
 &emsp;(1) the various programs established by Federal law providing law enforcement or judicial services for Indian tribes, and
 
@@ -14,5 +14,9 @@ In the development of the Memorandum of Agreement required by section 2411 of th
 
 The results of the review conducted pursuant to subsection (a) of this section shall be made available to every Indian tribe as soon as possible for their consideration and use in the development and modification of a Tribal Action Plan.
 
-(Pub. L. 99–570, title IV, §4215, Oct. 27, 1986, 100 Stat. 3207–145.)
+(Pub. L. 99–570, title IV, §4215, Oct. 27, 1986, 100 Stat. 3207–145; Pub. L. 111–211, title II, §241(d), July 29, 2010, 124 Stat. 2290.)
+
+#### Amendments
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–211 inserted “, the Attorney General,” after “the Secretary of the Interior” in introductory provisions.
 

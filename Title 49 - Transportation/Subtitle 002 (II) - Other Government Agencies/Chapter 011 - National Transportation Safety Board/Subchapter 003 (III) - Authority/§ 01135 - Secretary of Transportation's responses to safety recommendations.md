@@ -2,7 +2,7 @@
 
 (a)
 
-General.—When the National Transportation Safety Board submits a recommendation about transportation safety to the Secretary of Transportation, the Secretary shall give a formal written response to each recommendation not later than 90 days after receiving the recommendation. The response shall indicate whether the Secretary intends—
+General.—When the National Transportation Safety Board submits a recommendation about transportation safety to the Secretary ofTransportation, the Secretary shall give to the Board a formal written response to each recommendation not later than 90 days after receiving the recommendation. The response shall indicate whether the Secretary intends—
 
 &emsp;(1) to carry out procedures to adopt the complete recommendation;
 
@@ -20,6 +20,46 @@ Public Availability.—The Board shall make a copy of each recommendation and re
 
 (d)
 
+Annual Report on Air Carrier Safety Recommendations.—
+
+&emsp;(1)
+
+In general.—The Secretary shall submit to Congress and the Board, on an annual basis, a report on the recommendations made by the Board to the Secretary regarding air carrier operations conducted under part 121 of title 14, Code of Federal Regulations.
+
+&emsp;(2)
+
+Recommendations to be covered.—The report shall cover—
+
+&emsp;&emsp;(A) any recommendation for which the Secretary has developed, or intends to develop, procedures to adopt the recommendation or part of the recommendation, but has yet to complete the procedures; and
+
+&emsp;&emsp;(B) any recommendation for which the Secretary, in the preceding year, has issued a response under subsection (a)(2) or (a)(3) refusing to carry out all or part of the procedures to adopt the recommendation.
+
+&emsp;(3)
+
+Contents.—
+
+&emsp;&emsp;(A)
+
+Plans to adopt recommendations.—For each recommendation of the Board described in paragraph (2)(A), the report shall contain—
+
+&emsp;&emsp;&emsp;(i) a description of the recommendation;
+
+&emsp;&emsp;&emsp;(ii) a description of the procedures planned for adopting the recommendation or part of the recommendation;
+
+&emsp;&emsp;&emsp;(iii) the proposed date for completing the procedures; and
+
+&emsp;&emsp;&emsp;(iv) if the Secretary has not met a deadline contained in a proposed timeline developed in connection with the recommendation under subsection (b), an explanation for not meeting the deadline.
+
+&emsp;&emsp;(B)
+
+Refusals to adopt recommendations.—For each recommendation of the Board described in paragraph (2)(B), the report shall contain—
+
+&emsp;&emsp;&emsp;(i) a description of the recommendation; and
+
+&emsp;&emsp;&emsp;(ii) a description of the reasons for the refusal to carry out all or part of the procedures to adopt the recommendation.
+
+(e)
+
 Reporting Requirements.—
 
 &emsp;(1)
@@ -28,13 +68,13 @@ Annual secretarial regulatory status reports.—On February 1 of each year, the 
 
 &emsp;(2)
 
-Failure to report.—If on March 1 of each year the Board has not received the Secretary's report required by this subsection, theBoard shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the Secretary's failure to submit the required report.
+Failure to report.—If on March 1 of each year the Board has not received the Secretary's report required by this subsection, the Board shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the Secretary's failure to submit the required report.
 
 &emsp;(3)
 
 Compliance report with recommendations.—Within 90 days after the date on which the Secretary submits a report under this subsection, the Board shall review the Secretary's report and transmit comments on the report to the Secretary, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 755; Pub. L. 108–168, §6, Dec. 6, 2003, 117 Stat. 2034; Pub. L. 109–443, §2(b), Dec. 21, 2006, 120 Stat. 3298.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 755; Pub. L. 108–168, §6, Dec. 6, 2003, 117 Stat. 2034; Pub. L. 109–443, §2(b), Dec. 21, 2006, 120 Stat. 3298; Pub. L. 111–216, title II, §202, Aug. 1, 2010, 124 Stat. 2351; Pub. L. 111–249, §6(1), (2), Sept. 30, 2010, 124 Stat. 2628.)
 
 Historical and Revision Notes
 
@@ -68,9 +108,17 @@ In subsection (a)(1), the word “complete” is substituted for “in full” f
 
 #### Amendments
 
-2006—Subsec. (d)(3). Pub. L. 109–443 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “This subsection shall cease to be in effect after the report required to be filed on February 1, 2008, is filed.”
+<b>2010</b>—Subsec. (a). Pub. L. 111–216, §202(a), as amended by Pub. L. 111–249, §6(1), inserted “to the Board” after “shall give” in introductory provisions.
 
-2003—Subsec. (d). Pub. L. 108–168 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “The Secretary shall submit to Congress on January 1 of each year a report containing each recommendation on transportation safety made by the Board to the Secretary during the prior year and a copy of the Secretary's response to each recommendation.”
+Subsecs. (d), (e). Pub. L. 111–216, §202(b), as amended by Pub. L. 111–249, §6(2), added subsec. (d) and redesignated former subsec. (d) as (e).
+
+<b>2006</b>—Subsec. (d)(3). Pub. L. 109–443 amended heading and text of par. (3) generally. Prior to amendment, textread as follows: “This subsection shall cease to be in effect after the report required to be filed on February 1, 2008, is filed.”
+
+<b>2003</b>—Subsec. (d). Pub. L. 108–168 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “The Secretary shall submit to Congress on January 1 of each year a report containing each recommendation on transportation safety made by the Board to the Secretary during the prior year and a copy of the Secretary's response to each recommendation.”
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–249, §6, Sept. 30, 2010, 124 Stat. 2628, provided that the amendments made by section 6 of Pub. L. 111–249 are effective as of Aug. 1, 2010, and as if included in Pub. L. 111–216 as enacted.
 
 #### Reports on Certain Open Safety Recommendations
 

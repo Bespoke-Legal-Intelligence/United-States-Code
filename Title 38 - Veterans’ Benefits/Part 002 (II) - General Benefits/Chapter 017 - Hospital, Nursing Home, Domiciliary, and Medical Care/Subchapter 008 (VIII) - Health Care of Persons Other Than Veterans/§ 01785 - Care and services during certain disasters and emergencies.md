@@ -10,7 +10,7 @@ Covered Disasters and Emergencies.—A disaster or emergency referred to in this
 
 &emsp;(1) A major disaster or emergency declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
 
-&emsp;(2) A disaster or emergency in which the National Disaster Medical System established pursuant to section 2811(b) of the Public Health Service Act (42 U.S.C. 300hh–11(b)) <sup>1</sup> is activated by the Secretary of Health and Human Services under paragraph (3)(A) of that section or as otherwise authorized by law.
+&emsp;(2) A disaster or emergency in which the National Disaster Medical System established pursuant to section 2812 of the Public Health Service Act (42 U.S.C. 300hh) <sup>1</sup> is activated by the Secretary of Health and Human Services under that section or as otherwise authorized by law.
 
 (c)
 
@@ -30,49 +30,23 @@ Report to Congressional Committees.—Within 60 days of the commencement of a di
 
 Regulations.—The Secretary shall prescribe regulations governing the exercise of the authority of the Secretary under this section.
 
-(Added Pub. L. 107–287, §4(a)(1), Nov. 7, 2002, 116 Stat. 2028; amended Pub. L. 109–444, §8(a)(2), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(2), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468.)
+(Added Pub. L. 107–287, §4(a)(1), Nov. 7, 2002, 116 Stat. 2028; amended Pub. L. 109–444, §8(a)(2), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(2), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468; Pub. L. 111–275, title X, §1001(c)(2), Oct. 13, 2010, 124 Stat. 2896.)
 
 #### References in Text
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
-Section 2811(b) of the Public Health Service Act, referred to in subsec. (b)(2), was redesignated section 2812(a) of the Public Health Service Act by Pub. L. 109–417, title I, §102(a)(2), title III, §301(a)(3), Dec. 19, 2006, 120 Stat. 2832, 2853, and is classified to section 300hh–11(a) of Title 42, The Public Health and Welfare.
+Section 2812 of the Public Health Service Act, referred to in subsec. (b)(2), is classified to section 300hh–11 of Title 42, The Public Health and Welfare.
 
 #### Prior Provisions
 
-Prior sections 1785 and 1786 were renumbered sections 3685 and 3686 of this title, respectively.
-
-Another prior section 1786, added Pub. L. 89–358, §3(b), Mar. 3, 1966, 80 Stat. 23, related to the examination of records, prior to repeal by section 316(1) of Pub. L. 92–540. See section 3690 of this title.
-
-Prior section 1787 was renumbered section 3687 of this title.
-
-Another prior section 1787, added Pub. L. 89–358, §3(b), Mar. 3, 1966, 80 Stat. 23, related to the submission of false or misleading statements by educational institutions, persons or veterans, prior to repeal by section 316(1) of Pub. L. 92–540. See section 3690 of this title.
-
-Prior section 1788 was renumbered section 3688 of this title.
-
-Another prior section 1788 was renumbered section 3692 of this title.
-
-Prior section 1789 was renumbered section 3689 of this title.
-
-Another prior section 1789, which required the Administrator not to approve of enrollments in courses in institutions listed by the Attorney General under section 12 of Ex. Ord. No. 10450, was renumbered section 1793 of this title.
-
-Prior section 1790 was renumbered section 3690 of this title.
-
-Another prior section 1790 was renumbered section 3694 of this title.
-
-Prior section 1791 was renumbered section 3691 of this title.
-
-Another prior section 1791 was renumbered section 3695 of this title.
-
-Prior sections 1792 and 1793 were renumbered sections 3692 and 3693 of this title, respectively.
-
-Another prior section 1793, added Pub. L. 89–358, §3(b), Mar. 3, 1966, 80 Stat. 23, §1789; amended Pub. L. 91–24, §15, June 11, 1969, 83 Stat. 35; renumbered and amended Pub. L. 92–540, title III, §316(2), title IV, §403(12), Oct. 24, 1972, 86 Stat. 1086, 1090, required that the Administrator not to approve of enrollment in any course in an institution listed by the Attorney General under section 12 of Executive Order 10450, prior to repeal by section 511(1) of Pub. L. 94–502.
-
-Prior sections 1794 to 1799 were renumbered sections 3694 to 3699 of this title, respectively, and sections 3698 and 3699 were subsequently repealed.
+A prior section 1785 was renumbered section 3685 of this title.
 
 #### Amendments
 
-2006—Subsec. (b)(1). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+<b>2010</b>—Subsec. (b)(2). Pub. L. 111–275 substituted “section 2812 of the Public Health Service Act (42 U.S.C. 300hh)” for “section 2811(b) of the Public Health Service Act (42 U.S.C. 300hh–11(b))” and struck out “paragraph (3)(A) of” before “that section”.
+
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Pub. L. 109–461, §1004(a)(2), substituted “Robert T.” for “Robert B.”.
 
@@ -83,4 +57,6 @@ Pub. L. 109–444, which substituted “Robert T.” for “Robert B.”, was te
 For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System, including the functions of the Secretary of Homeland Security and the Under Secretary for Emergency Preparedness and Response relating thereto, to the Secretary of Health and Human Services, see title III of Pub. L. 109–295, set out in part as a note under section 300hh–11 of Title 42, The Public Health and Welfare, and section 301(b) of Pub. L. 109–417, set out as a note under section 300hh–11 of Title 42.
 
 For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness \[now Assistant Secretary for Preparedness and Response\] relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(5) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

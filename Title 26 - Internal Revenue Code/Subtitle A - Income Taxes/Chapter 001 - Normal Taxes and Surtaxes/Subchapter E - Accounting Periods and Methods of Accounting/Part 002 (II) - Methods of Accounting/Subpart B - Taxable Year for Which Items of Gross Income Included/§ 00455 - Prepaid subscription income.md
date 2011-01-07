@@ -10,7 +10,7 @@ In the case of any prepaid subscription income to which this section applies—
 
 &emsp;(1) If the liability described in subsection (d)(2) ends, then so much of such income as was not includible in gross income under subsection (a) for preceding taxable years shall be included in gross income for the taxable year in which the liability ends.
 
-&emsp;(2) If the taxpayer dies or ceases to exist, then so much of such income as was not includible in gross income under subsection (a)for preceding taxable years shall be included in gross income for the taxable year in which such death, or such cessation of existence, occurs.
+&emsp;(2) If the taxpayer dies or ceases to exist, then so much of such income as was not includible in gross income under subsection (a) for preceding taxable years shall be included in gross income for the taxable year in which such death, or such cessation of existence, occurs.
 
 #### (c) Prepaid subscription income to which this section applies
 
@@ -30,7 +30,7 @@ In the case of any prepaid subscription income to which this section applies—
 
 #### (B) Without consent
 
-&emsp;&emsp;A taxpayer may, without the consent of the Secretary, make an election under this section for his first taxable year in which he receives prepaid subscription income in the trade or business. Such election shall be made not later than the time prescribed by law for filing the return for the taxable year (including extensions thereof) with respect to which such election is made.
+&emsp;&emsp;A taxpayer may, without the consent of the Secretary, make an election under this section for his first taxable year in which hereceives prepaid subscription income in the trade or business. Such election shall be made not later than the time prescribed by law for filing the return for the taxable year (including extensions thereof) with respect to which such election is made.
 
 #### (4) Period to which election applies
 
@@ -60,7 +60,7 @@ Notwithstanding the provisions of this section, any taxpayer who has, for taxabl
 
 #### Amendments
 
-1976—Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 Subsec. (c)(3)(B). Pub. L. 94–455, §1901(a)(67), substituted “for his first taxable year in which he receives prepaid subscription income in the trade or business” for “for his first taxable year (i) which begins after December 31, 1957, and (ii) in which he receives prepaid subscription income in the trade or business”.
 

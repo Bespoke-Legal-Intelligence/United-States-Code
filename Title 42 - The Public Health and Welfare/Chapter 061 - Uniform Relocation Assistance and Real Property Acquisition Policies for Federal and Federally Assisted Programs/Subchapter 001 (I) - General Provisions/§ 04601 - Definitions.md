@@ -58,11 +58,11 @@ As used in this chapter—
 
 #### References in Text
 
-This chapter, referred to in introductory provision and par. (6)(B)(i), was in the original “this Act”, meaning Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, known as the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in introductory provision and par. (6)(B)(i), was in the original “this Act”, meaning Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, known as the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
-1987—Par. (1). Pub. L. 100–17, §402(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘Federal agency’ means any department, agency, or instrumentality in the executive branch of the Government (except the National Capital Housing Authority), any wholly owned Government corporation (except the District of Columbia Redevelopment Land Agency), and the Architect of the Capitol, the Federal Reserve banks and branches thereof.”
+<b>1987</b>—Par. (1). Pub. L. 100–17, §402(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘Federal agency’ means any department, agency, or instrumentality in the executive branch of the Government (except the National Capital Housing Authority), any wholly owned Government corporation (except the District of Columbia Redevelopment Land Agency), and the Architect of the Capitol, the Federal Reserve banks and branches thereof.”
 
 Par. (3). Pub. L. 100–17, §402(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘State agency’ means the National Capital Housing Authority, the District of Columbia Redevelopment Land Agency, and any department, agency, or instrumentality of a State or of a political subdivision of a State, or any department, agency, or instrumentality of two or more States or of two or more political subdivisions of a State or States.”
 

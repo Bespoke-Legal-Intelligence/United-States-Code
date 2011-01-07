@@ -34,7 +34,7 @@ This restores to 31:5103 the reference to public charges, taxes, and dues becaus
 
 #### Amendments
 
-1983—Pub. L. 97–452 inserted “, public charges, taxes, and dues” after “all debts”.
+<b>1983</b>—Pub. L. 97–452 inserted “, public charges, taxes, and dues” after “all debts”.
 
 #### Effective Date of 1983 Amendment
 

@@ -2,7 +2,7 @@
 
 (a) At a scheduled meeting of a committee appointed under section 1102 of this title, at which a majority of the members of such committee are present, and with the court's approval, such committee may select and authorize the employment by such committee of one or more attorneys, accountants, or other agents, to represent or perform services for such committee.
 
-(b) An attorney or accountant employed to represent a committee appointed under section 1102 of this title may not, while employed by such committee, represent any other entity having an adverse interest in connection with the case. Representation of one or more creditors ofthe same class as represented by the committee shall not per se constitute the representation of an adverse interest.
+(b) An attorney or accountant employed to represent a committee appointed under section 1102 of this title may not, while employed by such committee, represent any other entity having an adverse interest in connection with the case. Representation of one or more creditors of the same class as represented by the committee shall not per se constitute the representation of an adverse interest.
 
 (c) A committee appointed under section 1102 of this title may—
 
@@ -36,7 +36,7 @@ Subsection (a) of this section authorizes a committee appointed under section 11
 
 Subsection (b) requires a committee's counsel to cease representation of any other entity in connection with the case after he begins to represent the committee. This will prevent the potential of severe conflicts of interest.
 
-Subsection (c) lists a committee's functions in a chapter 11 case. The committee may consult with the trustee or debtor in possession concerning the administration of the case, may investigate the acts, conduct, assets, liabilities and financial condition of the debtor, the operation of the debtor's business, and the desirability of the continuance of the business, and any other matter relevant to the case or to the formulation of a plan. The committee may participate in the formulation of a plan, advise those it represents of the committee's recommendation with respect to any plan formulated, and collect and file acceptances. These will be its most important functions. The committee may also determine the need for the appointment of a trustee, if one has not previously been appointed, and perform such other services as are in the interest of those represented.
+Subsection (c) lists a committee's functions in a chapter 11 case. The committee may consult with the trustee or debtor in possession concerning the administration of the case, may investigate the acts, conduct,assets, liabilities and financial condition of the debtor, the operation of the debtor's business, and the desirability of the continuance of the business, and any other matter relevant to the case or to the formulation of a plan. The committee may participate in the formulation of a plan, advise those it represents of the committee's recommendation with respect to any plan formulated, and collect and file acceptances. These will be its most important functions. The committee may also determine the need for the appointment of a trustee, if one has not previously been appointed, and perform such other services as are in the interest of those represented.
 
 Subsection (d) requires the trustee and each committee to meet as soon as practicable after their appointments to transact such business as may be necessary and proper.
 

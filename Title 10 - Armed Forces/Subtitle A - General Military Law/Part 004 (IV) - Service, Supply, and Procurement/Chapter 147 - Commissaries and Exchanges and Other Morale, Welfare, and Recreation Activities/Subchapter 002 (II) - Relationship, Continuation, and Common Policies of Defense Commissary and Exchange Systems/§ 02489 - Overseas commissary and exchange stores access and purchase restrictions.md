@@ -12,7 +12,7 @@ General Authority.—(1) The Secretary of Defense may establish restrictions on 
 
 (b)
 
-Controlled Item Lists.—For each location outside the United States that is served by the commissary system or the exchange system, the Secretary of Defense may maintain a list of controlled merchandise items, except that, after October 17, 1998, the Secretary may not change the list to add a merchandise item unless, beforemaking the change, the Secretary submits to Congress a notice of the proposed addition and the reasons for the addition of the item.
+Controlled Item Lists.—For each location outside the United States that is served by the commissary system or the exchange system, the Secretary of Defense may maintain a list of controlled merchandise items, except that, after October 17, 1998, the Secretary may not change the list to add a merchandise item unless, before making the change, the Secretary submits to Congress a notice of the proposed addition and the reasons for the addition of the item.
 
 (c)
 
@@ -34,9 +34,9 @@ Another prior section 2490a was renumbered section 2783 of this title.
 
 #### Amendments
 
-2004—Pub. L. 108–375 renumbered section 2492 of this title as this section.
+<b>2004</b>—Pub. L. 108–375 renumbered section 2492 of this title as this section.
 
-2002—Subsec. (c). Pub. L. 107–314 added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “The Secretary of Defense shall notify Congress of any change proposed or made to any of the host nation laws or any of the treaty obligations of the United States, and any changed conditions within host nations, if the change would necessitate the use of quantity or other restrictions on purchases in commissary and exchange stores located outside the United States.”
+<b>2002</b>—Subsec. (c). Pub. L. 107–314 added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “The Secretary of Defense shall notify Congress of any change proposed or made to any of the host nation laws or any of the treaty obligations of the United States, and any changed conditions within host nations, if the change would necessitate the use of quantity or other restrictions on purchases in commissary and exchange stores located outside the United States.”
 
-1999—Subsec. (b). Pub. L. 106–65 substituted “October 17, 1998” for “the date of the enactment of this section”.
+<b>1999</b>—Subsec. (b). Pub. L. 106–65 substituted “October 17, 1998” for “the date of the enactment of this section”.
 

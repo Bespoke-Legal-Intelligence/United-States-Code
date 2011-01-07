@@ -36,7 +36,7 @@ In subsection (b), the words “from his place of duty” are omitted as surplus
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–201 substituted “section 1167” for “section 1178” in par. (2).
+<b>1996</b>—Subsec. (b). Pub. L. 104–201 substituted “section 1167” for “section 1178” in par. (2).
 
 Pub. L. 104–106 struck out “or” after “three months,”, added par. (2), and redesignated former par. (2) as (3).
 

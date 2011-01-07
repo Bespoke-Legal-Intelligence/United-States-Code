@@ -28,13 +28,13 @@ Provisions similar to those in this section were contained in Pub. L. 101–189,
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–364 substituted “April 1 of each year” for “January 15 of each year” in introductory provisions.
+<b>2006</b>—Subsec. (a). Pub. L. 109–364 substituted “April 1 of each year” for “January 15 of each year” in introductory provisions.
 
-2003—Subsec. (a). Pub. L. 108–136 substituted “January 15” for “December 15” in introductory provisions and “in that year” for “in the following year” in par. (1).
+<b>2003</b>—Subsec. (a). Pub. L. 108–136 substituted “January 15” for “December 15” in introductory provisions and “in that year” for “in the following year” in par. (1).
 
-1993—Subsec. (a). Pub. L. 103–160 substituted “Not later than December 15 of each year” for “Not later than the day on which the budget for any fiscal year is submitted to Congress pursuant to section 1105 of title 31” in introductory provisions and “the budget to be submitted to Congress in the following year pursuant to section 1105 of title 31” for “that budget” in par. (1).
+<b>1993</b>—Subsec. (a). Pub. L. 103–160 substituted “Not later than December 15 of each year” for “Not later than the day on which the budget for any fiscal year is submitted to Congress pursuant to section 1105 of title 31” in introductory provisions and “the budget to be submitted to Congress in the following year pursuant to section 1105 of title 31” for “that budget” in par. (1).
 
-1992—Pub. L. 102–484 renumbered section 221 of this title as this section.
+<b>1992</b>—Pub. L. 102–484 renumbered section 221 of this title as this section.
 
 #### Sense of Congress Regarding Budget Resolutions, Budget Scorekeeping, and Required Reductions in National Defense Outlays
 
@@ -46,5 +46,5 @@ Sense of Congress Regarding Budget Resolutions and Budget Scorekeeping.—It is 
 
 “(b)
 
-Sense of Congress Regarding Required Reductions and Other Changes in National Defense Outlays in Relation to Budget Authority.—It is the sense of Congress that the outlay level specified for national defense for any fiscal year in the budget resolution for that fiscal year should not require a reduction (or other change) in outlays for national defense for that fiscal year below (or in relation to) the estimated outlays specified for national defense in the budget for such fiscal year (submitted to Congress pursuant to section 1105 of title 31, United States Code) by more than the amount by which such estimated outlays would be reduced (or otherwise changed) if the amount of budget authority provided for in each title of the President's request for budget authority for national defense (as contained in such budget) were reduced (or otherwise changed) by the uniform percentage necessary for the requested budget authority for national defense to be equal to the budget authority specified for national defense in that budget resolution unless the budget resolution is accompanied by a report that describes the difference between the budget authority and outlays for National Defense (function 050) in the President's budget and the budget resolution.”
+Sense of Congress Regarding Required Reductions and Other Changes in National Defense Outlays in Relation to Budget Authority.—It is the sense of Congress that the outlay level specified for national defense for any fiscal year in the budget resolution for that fiscal year should not require a reduction (or other change) in outlays for national defense for that fiscal year below (or in relation to) the estimated outlays specified for national defense in the budget for such fiscal year (submitted to Congress pursuant to section 1105 of title 31, United States Code) by more than the amount by which such estimated outlays would be reduced (or otherwise changed) if the amount of budget authority provided for in each title of the President's request for budget authority for national defense (as contained in such budget) were reduced (orotherwise changed) by the uniform percentage necessary for the requested budget authority for national defense to be equal to the budget authority specified for national defense in that budget resolution unless the budget resolution is accompanied by a report that describes the difference between the budget authority and outlays for National Defense (function 050) in the President's budget and the budget resolution.”
 

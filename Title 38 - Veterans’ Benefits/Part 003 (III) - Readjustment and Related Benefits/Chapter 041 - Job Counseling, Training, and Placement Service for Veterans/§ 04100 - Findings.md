@@ -10,9 +10,9 @@ The Congress makes the following findings:
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 2000 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 2000 of this title as this section.
 
-1988—Par. (2). Pub. L. 100–323, §15(b)(1), inserted “and Training” after “for Veterans’ Employment”.
+<b>1988</b>—Par. (2). Pub. L. 100–323, §15(b)(1), inserted “and Training” after “for Veterans’ Employment”.
 
 #### Committee To Raise Employer Awareness of Skills of Veterans and Benefits of Hiring Veterans
 

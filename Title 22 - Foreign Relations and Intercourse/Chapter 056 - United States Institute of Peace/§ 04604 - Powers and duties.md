@@ -22,7 +22,7 @@ The Institute, acting through the Board, may—
 
 &emsp;(7) develop, for publication or other public communication, and disseminate, the carefully selected products of the Institute;
 
-&emsp;(8) establish a clearinghouse and other means for disseminating information, including classified information that is properly safeguarded, from the field of peace learningto the public and to government personnel with appropriate security clearances;
+&emsp;(8) establish a clearinghouse and other means for disseminating information, including classified information that is properly safeguarded, from the field of peace learning to the public and to government personnel with appropriate security clearances;
 
 &emsp;(9) secure directly, upon request of the president of the Institute to the head of any Federal department or agency and in accordance with section 552 of title 5 (relating to freedom of information), information necessary to enable the Institute to carry out the purposes of this chapter if such release of the information would not unduly interfere with the proper functioning of a department or agency, including classified information if the Institute staff and members of the Board who have access to such classified information obtain appropriate security clearances from the Department of Defense and the Department of State; and
 
@@ -40,7 +40,7 @@ The Institute, acting through the Board, may—
 
 (2) The Board shall establish an advisory panel composed of persons eminent in peacemaking, diplomacy, public affairs, and scholarship, and such advisory panel shall advise the Board during its consideration of the selection of the recipient of the award.
 
-(3) The Institute shall inform the Committee on Foreign Relations and the Committee on Labor and Human Resources of the Senate and the Committee on Foreign Affairs and the Committee on Education and Labor of the House of Representatives about the selection procedures it intends to follow, together with any other matters relevant to making the award and emphasizing its prominence and significance.
+(3) The Institute shall inform the Committee on Foreign Relations and the Committee on Labor and Human Resources of the Senate and the Committee on Foreign Affairs and the Committee on Education and Labor of the House of Representatives about the selection procedures it intends to follow, together with any othermatters relevant to making the award and emphasizing its prominence and significance.
 
 #### (d) Description of extension and outreach activities
 
@@ -72,7 +72,7 @@ The Institute may fix the duties of its officers, employees, and agents, and est
 
 #### (h) Grants and contracts; gifts and contributions; domestic and foreign restrictions
 
-(1) Except as provided in paragraphs (2) and (3), the Institute may obtain grants and contracts, including contracts for classified research for the Department of State, the Department of Defense, the Arms Control and Disarmament Agency, and the intelligence community,and receive gifts and contributions from government at all levels.
+(1) Except as provided in paragraphs (2) and (3), the Institute may obtain grants and contracts, including contracts for classified research for the Department of State, the Department of Defense, the Arms Control and Disarmament Agency, and the intelligence community, and receive gifts and contributions from government at all levels.
 
 (2) The Institute and the legal entity described in section 4603(c) of this title may not accept any gift, contribution or grant from a foreign government, any agency or instrumentality of such government, any international organization, or any corporation or other legal entity in which natural persons who are nationals of a foreign country own, directly or indirectly, more than 50 percent of the outstanding capital stock or other beneficial interest in such legal entity.
 
@@ -104,7 +104,7 @@ The Institute may do any and all lawful acts and things necessary or desirable t
 
 #### (n) Legislative influencing-activity prohibition; communications or testimony of personnel
 
-The Institute shall not itself undertake to influence the passage or defeat of any legislation by the Congress of the United States or by any State or local legislative bodies, or by the United Nations, except that personnel of the Institute may testify or make other appropriate communication when formally requested to do so by a legislative body, a committee, or a member thereof.
+The Institute shall not itself undertake to influence the passage or defeat of any legislation by the Congress of the United States or by any State or local legislative bodies, or by the United Nations, except that personnel of the Institute may testify or make other appropriate communication when formally requested to doso by a legislative body, a committee, or a member thereof.
 
 #### (<i>o</i>) Administrative services from General Services Administration
 
@@ -118,13 +118,13 @@ The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a), 
 
 #### Amendments
 
-2008—Subsec. (b)(3). Pub. L. 110–315 struck out “the Arms Control and Disarmament Agency,” after “Defense,”.
+<b>2008</b>—Subsec. (b)(3). Pub. L. 110–315 struck out “the Arms Control and Disarmament Agency,” after “Defense,”.
 
-1998—Subsec. (f). Pub. L. 105–244, §931(1)(A), inserted “personal service and other” after “may enter into”.
+<b>1998</b>—Subsec. (f). Pub. L. 105–244, §931(1)(A), inserted “personal service and other” after “may enter into”.
 
 Subsec. (<i>o</i>). Pub. L. 105–244, §931(1)(B), inserted “and use all sources of supply and services of the General Services Administration” after “Services”.
 
-1992—Subsec. (b)(10). Pub. L. 102–325, §1554(b), added par. (10).
+<b>1992</b>—Subsec. (b)(10). Pub. L. 102–325, §1554(b), added par. (10).
 
 Subsec. (h)(2). Pub. L. 102–325, §1554(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Institute may not accept any gift, contribution, or grant from, or enter into any contract with, a foreign government, any agency or instrumentality of such government, any international organization, or any foreign national, except that the Institute may accept the payment of tuition by foreign nationals for instruction provided by the Institute. For purposes of this paragraph, the term—
 
@@ -138,13 +138,13 @@ Subsec. (h)(2). Pub. L. 102–325, §1554(c)(1), amended par. (2) generally. Pri
 
 Subsec. (h)(3). Pub. L. 102–325, §1554(c)(2), substituted at end “individual, except such Institute or legal entity may accept such a gift or contribution to—” for “individual.” and added subpars. (A) and (B).
 
-1990—Subsec. (b)(9), (10). Pub. L. 101–520, §319(a)(1), redesignated par. (10) as (9) and struck out former par. (9) which read as follows: “recommend to the Congress the establishment of a United States Medal of Peace to be awarded under such procedures as the Congress may determine, except that no person associated with the Institute may receive the United States Medal of Peace; and”.
+<b>1990</b>—Subsec. (b)(9), (10). Pub. L. 101–520, §319(a)(1), redesignated par. (10) as (9) and struck out former par. (9) which read as follows: “recommend to the Congress the establishment of a United States Medal of Peace to be awarded under such procedures as the Congress may determine, except that no person associated with the Institute may receive the United States Medal of Peace; and”.
 
 Subsecs. (c) to (<i>o</i>). Pub. L. 101–520, §319(a)(2), (3), added subsec. (c) and redesignated former subsecs. (c) to (n) as (d) to (<i>o</i>), respectively.
 
-1988—Subsec. (b)(3). Pub. L. 100–418 made technical amendment to directory language of Pub. L. 100–50, see 1987 Amendment note below.
+<b>1988</b>—Subsec. (b)(3). Pub. L. 100–418 made technical amendment to directory language of Pub. L. 100–50, see 1987 Amendment note below.
 
-1987—Subsec. (b)(3). Pub. L. 100–50, as amended by Pub. L. 100–418, inserted “establish a Jeannette Rankin Research Program on Peace to” before “conduct research”.
+<b>1987</b>—Subsec. (b)(3). Pub. L. 100–50, as amended by Pub. L. 100–418, inserted “establish a Jeannette Rankin Research Program on Peace to” before “conduct research”.
 
 #### Change of Name
 

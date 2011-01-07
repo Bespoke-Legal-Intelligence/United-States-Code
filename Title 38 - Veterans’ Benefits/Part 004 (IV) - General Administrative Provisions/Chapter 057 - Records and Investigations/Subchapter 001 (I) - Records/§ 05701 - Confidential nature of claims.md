@@ -1,6 +1,6 @@
 ### §5701. Confidential nature of claims
 
-(a) All files, records, reports, and other papers and documents pertaining to any claim under any of the laws administered by the Secretary and the names and addresses of present or former members of the Armed Forces, and their dependents, in the possession of the Department shall be confidential and privileged, and no disclosure thereof shall be made except as provided in this section.
+(a) All files, records, reports, and other papers and documents pertaining to any claim underany of the laws administered by the Secretary and the names and addresses of present or former members of the Armed Forces, and their dependents, in the possession of the Department shall be confidential and privileged, and no disclosure thereof shall be made except as provided in this section.
 
 (b) The Secretary shall make disclosure of such files, records, reports, and other papers and documents as are described in subsection (a) of this section as follows:
 
@@ -88,7 +88,7 @@
 
 &emsp;(i) the individual is near death (as determined by the Secretary) or is deceased; and
 
-&emsp;(ii) the disclosure is permitted under regulations promulgated pursuant to section 264 ofthe Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note).
+&emsp;(ii) the disclosure is permitted under regulations promulgated pursuant to section 264 of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note).
 
 (B) An entity described in this subparagraph is—
 
@@ -116,13 +116,13 @@ Section 264 of the Health Insurance Portability and Accountability Act of 1996, 
 
 #### Amendments
 
-2006—Subsec. (k). Pub. L. 109–461 added subsec. (k).
+<b>2006</b>—Subsec. (k). Pub. L. 109–461 added subsec. (k).
 
-2001—Subsec. (g)(2)(B). Pub. L. 107–14 substituted “subparagraph (A)(i)” for “clause (A)(i)”.
+<b>2001</b>—Subsec. (g)(2)(B). Pub. L. 107–14 substituted “subparagraph (A)(i)” for “clause (A)(i)”.
 
 Subsec. (g)(3). Pub. L. 107–14 substituted “subparagraph (A) or (B)” for “clause (A) or (B)”.
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 3301 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 3301 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
@@ -170,13 +170,13 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administ
 
 Subsec. (i)(2). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1989—Subsec. (b)(1). Pub. L. 101–94 substituted “section 3009 or 4009” for “section 4009”.
+<b>1989</b>—Subsec. (b)(1). Pub. L. 101–94 substituted “section 3009 or 4009” for “section 4009”.
 
-1980—Subsec. (a). Pub. L. 96–466, §606(a), substituted “members of the Armed Forces” for “personnel of the armed services”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–466, §606(a), substituted “members of the Armed Forces” for “personnel of the armed services”.
 
 Subsec. (b)(6). Pub. L. 96–466, §606(b), added par. (6).
 
-Subsec. (c). Pub. L. 96–466, §606(c), designated existing provisions as pars. (1) and (3) with minor changes in language, and in par. (1) as so designated, substituted reference to the amount of any payment made by the Veterans’ Administration to any person receiving benefits under a program administered by the Veterans’ Administration for reference to the amount of pension, compensation, or dependency and indemnity compensation of any beneficiary, and added par. (2).
+Subsec. (c). Pub. L. 96–466, §606(c), designated existing provisions as pars. (1) and (3) with minor changes in language, and in par. (1) as so designated, substituted reference to the amount of any payment made by the Veterans’ Administration to any person receiving benefits under a program administered by the Veterans’ Administration for reference to the amount of pension,compensation, or dependency and indemnity compensation of any beneficiary, and added par. (2).
 
 Subsec. (f). Pub. L. 96–466, §606(d), substituted “name or address, or both, of any present or former member of the Armed Forces, or a dependent of a present or former member of the Armed Forces” for “names or addresses, or both, of any present or former members of the Armed Forces, and/or their dependents” and “written request that such name or address” for “written request that such names or addresses”.
 
@@ -184,11 +184,11 @@ Subsecs. (g) to (i). Pub. L. 96–466, §606(e), added subsecs. (g) to (i). Form
 
 Subsec. (j). Pub. L. 96–466, §606(e), (f), redesignated former subsec. (g) as (j) and substituted “Except as provided in subsection (i)(1) of this section, any” for “Any”.
 
-1976—Subsec. (a). Pub. L. 94–321, §1(a)(1), (2), designated introductory par. as subsec. (a) and as so designated, substituted “provided in this section.” for “follows:”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–321, §1(a)(1), (2), designated introductory par. as subsec. (a) and as so designated, substituted “provided in this section.” for “follows:”.
 
 Subsec. (b). Pub. L. 94–321, §1(a)(2), added subsec. (b). Pars. (1) to (5), formerly set out following introductory par., became part of such subsec. (b).
 
-Subsec. (b)(1). Pub. L. 94–581, §210(b)(1), substituted “claimant or duly authorized agent or representative ofa claimant as to matters concerning the claimant alone” for “claimant or his duly authorized agent or representative as to matters concerning himself alone”.
+Subsec. (b)(1). Pub. L. 94–581, §210(b)(1), substituted “claimant or duly authorized agent or representative of a claimant as to matters concerning the claimant alone” for “claimant or his duly authorized agent or representative as to matters concerning himself alone”.
 
 Subsec. (c). Pub. L. 94–321, §1(a)(3), redesignated par. (6) as subsec. (c).
 
@@ -204,11 +204,11 @@ Subsec. (f). Pub. L. 94–321, §1(a)(3), (5), redesignated par. (9) as subsec. 
 
 Subsec. (g). Pub. L. 94–321, §1(a)(5), added subsec. (g).
 
-1972—Pub. L. 92–540 in introductory provision inserted reference to the names and addresses of present or former personnel of the armed forces, and their dependents, in the possession of the Veterans’ Administration, and added par. (9).
+<b>1972</b>—Pub. L. 92–540 in introductory provision inserted reference to the names and addresses of present or former personnel of the armed forces, and their dependents, in the possession of the Veterans’ Administration, and added par. (9).
 
-1969—Par. (1). Pub. L. 91–24 substituted “the claimant and to an independent” for “the claimant. And to an independent”.
+<b>1969</b>—Par. (1). Pub. L. 91–24 substituted “the claimant and to an independent” for “the claimant. And to an independent”.
 
-1962—Par. (1). Pub. L. 87–671 inserted provisions authorizing disclosure to an independent medical expert or experts for an advisory opinion pursuant to section 4009 of this title.
+<b>1962</b>—Par. (1). Pub. L. 87–671 inserted provisions authorizing disclosure to an independent medical expert or experts for an advisory opinion pursuant to section 4009 of this title.
 
 #### Effective Date of 1989 Amendment
 

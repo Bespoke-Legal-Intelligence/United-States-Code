@@ -24,7 +24,7 @@ Congress finds that—
 
 &emsp;&emsp;(A) have the authority to prevent or minimize adverse uses of these historic resources; and
 
-&emsp;&emsp;(B) can play a significant role in the protection of the historic resources related to the Civil War battles fought in the area in and around the city of Corinth.
+&emsp;&emsp;(B) can play a significant role in the protection of the historic resources related tothe Civil War battles fought in the area in and around the city of Corinth.
 
 #### (b) Purposes
 

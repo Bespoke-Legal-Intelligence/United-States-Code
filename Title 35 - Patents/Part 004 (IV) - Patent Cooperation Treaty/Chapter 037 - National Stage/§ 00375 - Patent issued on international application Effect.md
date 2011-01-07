@@ -8,9 +8,9 @@
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
-1999—Subsec. (a). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
 
 #### Effective Date of 1999 Amendment
 

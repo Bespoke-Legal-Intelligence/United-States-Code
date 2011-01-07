@@ -8,5 +8,5 @@
 
 #### Amendments
 
-1965—Subsec. (b). Pub. L. 89–216 inserted reference to section 441 of this title in two places.
+<b>1965</b>—Subsec. (b). Pub. L. 89–216 inserted reference to section 441 of this title in two places.
 

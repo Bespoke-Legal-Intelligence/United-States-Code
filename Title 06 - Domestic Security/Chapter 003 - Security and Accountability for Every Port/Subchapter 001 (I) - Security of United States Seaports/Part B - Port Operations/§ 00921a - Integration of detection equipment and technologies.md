@@ -12,5 +12,5 @@ Not later than 6 months after August 3, 2007, the Secretary shall submit a repor
 
 #### Codification
 
-Section was enacted as part of the Implementing Recommendations of the 9/11 Commission Act of 2007, and not as part of the Security and Accountability For Every Port Act of 2006, also known as the SAFE Port Act, which comprises this chapter.
+Section was enacted as part of the Implementing Recommendations of the 9/11 Commission Act of 2007, andnot as part of the Security and Accountability For Every Port Act of 2006, also known as the SAFE Port Act, which comprises this chapter.
 

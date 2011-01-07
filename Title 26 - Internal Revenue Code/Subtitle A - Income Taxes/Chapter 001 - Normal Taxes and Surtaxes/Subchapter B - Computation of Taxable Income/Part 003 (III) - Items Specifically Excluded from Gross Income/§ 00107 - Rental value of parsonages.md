@@ -10,7 +10,7 @@ In the case of a minister of the gospel, gross income does not include—
 
 #### Amendments
 
-2002—Par. (2). Pub. L. 107–181 inserted “and to the extent such allowance does not exceed the fair rental value of the home, including furnishings and appurtenances such as a garage, plus the cost of utilities” before period at end.
+<b>2002</b>—Par. (2). Pub. L. 107–181 inserted “and to the extent such allowance does not exceed the fair rental value of the home, including furnishings and appurtenances such as a garage, plus the cost of utilities” before period at end.
 
 #### Effective Date of 2002 Amendment
 

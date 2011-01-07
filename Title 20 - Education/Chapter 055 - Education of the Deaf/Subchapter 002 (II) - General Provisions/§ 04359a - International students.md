@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), effective with new admissions for academic year 1993–1994 and each succeeding academic year, the University (including undergraduate andgraduate students) and NTID shall limit the enrollment of international students to approximately 15 percent of the total postsecondary student population enrolled respectively at the University or NTID, except that in any school year no United States citizen who is qualified to be admitted to the University or NTID and applies for admission to the University or NTID shall be denied admission because of the admission of an international student.
+&emsp;Except as provided in paragraph (2), effective with new admissions for academic year 1993–1994 and each succeeding academic year, the University (including undergraduate and graduate students) and NTID shall limit the enrollment of international students to approximately 15 percent of the total postsecondary student population enrolled respectively at the University or NTID, except that in any school year no United States citizen who is qualified to be admitted to the University or NTID and applies for admission to the University or NTID shall be denied admission because of the admission of an international student.
 
 #### (2) Distance learning
 
@@ -20,7 +20,7 @@ Except as provided in subsections (a)(2)(B) and (c), the tuition for postseconda
 
 &emsp;(1) 100 percent for a postsecondary international student from a non-developing country; and
 
-&emsp;(2) 50 percent for a postsecondary international student from a developing country, or a country that was a developing country for any academic year during the student's period of uninterrupted enrollment in a degree program at the University or NTID, except that such a surcharge shall not be adjusted retroactively.
+&emsp;(2) 50 percent for a postsecondary international student from a developing country, or a country that was a developing country for any academic year during the student's periodof uninterrupted enrollment in a degree program at the University or NTID, except that such a surcharge shall not be adjusted retroactively.
 
 #### (c) Reduction of surcharge
 
@@ -60,15 +60,15 @@ A prior section 209 of Pub. L. 99–371 was renumbered section 208 and is classi
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–315, §911(1), designated existing provisions as par. (1), inserted heading, substituted “Except as provided in paragraph (2), effective with” for “Effective with” and “undergraduate” for “preparatory, undergraduate,”, and added par. (2).
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §911(1), designated existing provisions as par. (1), inserted heading, substituted “Except as provided in paragraph (2), effective with” for “Effective with” and “undergraduate” for “preparatory, undergraduate,”, and added par. (2).
 
 Subsecs. (b) to (d). Pub. L. 110–315, §911(2), added subsecs. (b) to (d) and struck out former subsecs. (b) to (d), which related to tuition surcharge, reduction of surcharge, and definition of “developing country”, respectively.
 
-1998—Subsec. (a). Pub. L. 105–244, §922(a)(1), substituted “15 percent” for “10 percent” and inserted before period “, except that in any school year no United States citizen who is qualified to be admitted to the University or NTID and applies for admission to the University or NTID shall be denied admission because of the admission of an international student”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–244, §922(a)(1), substituted “15 percent” for “10 percent” and inserted before period “, except that in any school year no United States citizen who is qualified to be admitted to the University or NTID and applies for admission to the University or NTID shall be denied admission because of the admission of an international student”.
 
 Subsec. (b). Pub. L. 105–244, §922(a)(2), substituted “surcharge of 100 percent for the academic year 1999–2000 and any succeeding academic year” for “surcharge of 75 percent for the academic year 1993–1994 and 90 percent beginning with the academic year 1994–1995”.
 
-1993—Subsec. (b). Pub. L. 103–73, §204(h)(1), substituted “75 percent for the academic year 1993–1994 and 90 percent beginning with the academic year 1994–1995” for “75 percent beginning the academic year 1993–1994, and 90 percent beginning the academic year 1994–1995”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–73, §204(h)(1), substituted “75 percent for the academic year 1993–1994 and 90 percent beginning with the academic year 1994–1995” for “75 percent beginning the academic year 1993–1994, and 90 percent beginning the academic year 1994–1995”.
 
 Subsec. (c). Pub. L. 103–73, §204(h)(2), substituted “Beginning with the academic year 1993–1994” for “Beginning the academic year 1993–1994 and thereafter” in introductory provisions and redesignated subpars. (A) to (C) as pars. (1) to (3), respectively.
 

@@ -10,7 +10,7 @@ This chapter, referred to in text, was in the original “this title”, and was
 
 #### Amendments
 
-1992—Pub. L. 102–550 inserted before period at end “and families of such persons”.
+<b>1992</b>—Pub. L. 102–550 inserted before period at end “and families of such persons”.
 
 #### Short Title
 

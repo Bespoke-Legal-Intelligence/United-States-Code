@@ -16,7 +16,7 @@ Nothing in this subchapter may be construed as prohibiting any private person, F
 
 #### Amendments
 
-1994—Pub. L. 103–465 added subsec. (a), designated existing provisions as subsec. (b), and inserted subsec. (b) heading.
+<b>1994</b>—Pub. L. 103–465 added subsec. (a), designated existing provisions as subsec. (b), and inserted subsec. (b) heading.
 
 #### Effective Date of 1994 Amendment
 

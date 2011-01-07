@@ -2,7 +2,7 @@
 
 #### (a) Sanctions
 
-(1) Subject to subsections (c) through (g) <sup>1</sup> of this section, if the President determines that a foreign person, after November 5, 1990, knowingly—
+(1) Subject to subsections (c) through (g) <sup>1</sup> of this section, if the President determines that aforeign person, after November 5, 1990, knowingly—
 
 &emsp;(A) exports, transfers, or otherwise engages in the trade of any MTCR equipment or technology that contributes to the acquisition, design, development, or production of missiles in a country that is not an MTCR adherent and would be, if it were United States-origin equipment or technology, subject to the jurisdiction of the United States under this chapter,
 
@@ -66,7 +66,7 @@ The Secretary of State, in consultation with the Secretary of Defense and the Se
 
 #### (f) Presumption
 
-In determining whether to apply sanctions under subsection (a) of this section to a foreign person involved in the export, transfer, or trade of an item on the MTCR Annex, it should be a rebuttable presumption that such item is designed for use in a missile listed in the MTCR Annex if the President determines that the final destination of the item is a country the government of which the Secretary of State has determined, for purposes of 2405(j)(1)(A) <sup>2</sup> of title 50, Appendix, has repeatedly provided support for acts of international terrorism.
+In determining whether to apply sanctions under subsection (a) of this section to a foreign person involved in the export, transfer, or tradeof an item on the MTCR Annex, it should be a rebuttable presumption that such item is designed for use in a missile listed in the MTCR Annex if the President determines that the final destination of the item is a country the government of which the Secretary of State has determined, for purposes of 2405(j)(1)(A) <sup>2</sup> of title 50, Appendix, has repeatedly provided support for acts of international terrorism.
 
 #### (g) Additional waiver
 
@@ -96,7 +96,7 @@ The President shall not apply the sanction under this section prohibiting the im
 
 &emsp;&emsp;(B) component parts, but not finished products, essential to United States products or production,
 
-&emsp;&emsp;(C) routine services and maintenance of products, to the extent that alternativesources are not readily or reasonably available, or
+&emsp;&emsp;(C) routine services and maintenance of products, to the extent that alternative sources are not readily or reasonably available, or
 
 &emsp;&emsp;(D) information and technology essential to United States products or production.
 
@@ -106,9 +106,11 @@ The President shall not apply the sanction under this section prohibiting the im
 
 Subsections (f) and (g) of this section, referred to in subsec. (a)(1), were redesignated subsecs. (g) and (h), respectively, by Pub. L. 103–236, title VII, §734(b)(1), Apr. 30, 1994, 108 Stat. 505.
 
+This chapter, referred to in subsec. (a)(1)(A), (2)(A)(ii), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+
 #### Amendments
 
-1999—Subsec. (b). Pub. L. 106–113, §1000(a)(7) \[title XI, §1136(b)\], designated existing provisions as par. (1), inserted par. heading, in introductory provisions, substituted “Except as provided in paragraph (2), subsection (a)” for “Subsection (a)”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+<b>1999</b>—Subsec. (b). Pub. L. 106–113, §1000(a)(7) \[title XI, §1136(b)\], designated existing provisions as par. (1), inserted par. heading, in introductory provisions, substituted “Except as provided in paragraph (2), subsection (a)” for “Subsection (a)”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
 Subsec. (c). Pub. L. 106–113, §1000(a)(7) \[title XI, §1136(c)\], inserted before period at end “, and if the President certifies to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives that—
 
@@ -120,15 +122,15 @@ Subsec. (c). Pub. L. 106–113, §1000(a)(7) \[title XI, §1136(c)\], inserted b
 
 &emsp;“(2) with respect to any finding of innocence of wrongdoing, the United States is satisfied with the basis for such finding”.
 
-1998—Subsec. (d). Pub. L. 105–277 substituted “and the Secretary of Commerce” for “, the Secretary of Commerce, and the Director of the United States Arms Control and Disarmament Agency”.
+<b>1998</b>—Subsec. (d). Pub. L. 105–277 substituted “and the Secretary of Commerce” for “, the Secretary of Commerce, and the Director of the United States Arms Control and Disarmament Agency”.
 
-1996—Subsec. (e)(2). Pub. L. 104–106 substituted “the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations of the House of Representatives” for “the Congress” and “45 working days” for “20 working days”.
+<b>1996</b>—Subsec. (e)(2). Pub. L. 104–106 substituted “the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations of the House of Representatives” for “the Congress” and “45 working days” for “20 working days”.
 
-1994—Subsec. (d). Pub. L. 103–236, §714(a)(7), substituted “, the Secretary of Commerce, and the Director of the United States Arms Control and Disarmament Agency,” for “and the Secretary of Commerce,”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–236, §714(a)(7), substituted “, the Secretary of Commerce, and the Director of the United States Arms Control and Disarmament Agency,” for “and the Secretary of Commerce,”.
 
 Subsecs. (f) to (h). Pub. L. 103–236, §734(b), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
-1991—Subsec. (a)(1)(A). Pub. L. 102–138 inserted “acquisition,” before “design,”.
+<b>1991</b>—Subsec. (a)(1)(A). Pub. L. 102–138 inserted “acquisition,” before “design,”.
 
 #### Change of Name
 
@@ -142,7 +144,7 @@ Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. 
 
 #### Delegation of Functions
 
-For delegation of certain functions of the President under this section, see Ex. Ord. No. 12851, §2(a), June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of this title.
+For delegation of certain functions of the President under this section, see Ex. Ord. No. 12851, §2(a), June 11,1993, 58 F.R. 33181, set out as a note under section 2797 of this title.
 
 #### Space Cooperation With Russian Persons
 

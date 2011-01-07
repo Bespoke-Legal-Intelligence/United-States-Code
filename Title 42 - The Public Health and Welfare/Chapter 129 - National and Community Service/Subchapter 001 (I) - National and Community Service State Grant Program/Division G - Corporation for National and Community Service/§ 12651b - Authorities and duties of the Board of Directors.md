@@ -68,7 +68,7 @@ The Board shall have responsibility for setting overall policy for the Corporati
 
 &emsp;(7) make recommendations relating to a program of research for the Corporation with respect to national and community service programs, including service-learning programs;
 
-&emsp;(8) advise the President and the authorizing committees concerning developments in national and community service that merit theattention of the President and the authorizing committees;
+&emsp;(8) advise the President and the authorizing committees concerning developments in national and community service that merit the attention of the President and the authorizing committees;
 
 &emsp;(9) ensure effective dissemination of information regarding the programs and initiatives of the Corporation;
 
@@ -108,7 +108,7 @@ The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–
 
 #### Amendments
 
-2009—Subsec. (g). Pub. L. 111–13, §1702(1), substituted “shall have responsibility for setting overall policy for the Corporation and shall—” for “shall—” in introductory provisions.
+<b>2009</b>—Subsec. (g). Pub. L. 111–13, §1702(1), substituted “shall have responsibility for setting overall policy for the Corporation and shall—” for “shall—” in introductory provisions.
 
 Subsec. (g)(1). Pub. L. 111–13, §1702(2), inserted “, and review the budget proposal in advance of submission to the Office of Management and Budget” before semicolon at end.
 
@@ -120,7 +120,7 @@ Subsec. (g)(10). Pub. L. 111–13, §1702(5), added par. (10) and struck out for
 
 Subsec. (g)(11). Pub. L. 111–13, §1702(6), substituted “authorizing committees” for “Congress” in two places, “section 12651d(b)(11)” for “section 12651d(b)(10)”, and “January 1, 2012” for “September 30, 1995”.
 
-1993—Subsec. (g)(5)(A), (B). Pub. L. 103–82, §203(a)(1)(B), which directed amendment of section 192A(g)(5) of subtitle I of the National and Community Service Act of 1990 by substituting “the national service laws” for “this chapter”, was executed to subsec. (g)(5) of this section, which is section 192A of subtitle G of title I of the National Community Service Act of 1990, to reflect the probable intent of Congress.
+<b>1993</b>—Subsec. (g)(5)(A), (B). Pub. L. 103–82, §203(a)(1)(B), which directed amendment of section 192A(g)(5) of subtitle I of the National and Community Service Act of 1990 by substituting “the national service laws” for “this chapter”, was executed to subsec. (g)(5) of this section, which is section 192A of subtitle G of title I of the National Community Service Act of 1990, to reflect the probable intent of Congress.
 
 Subsec. (g)(9). Pub. L. 103–82, §203(a)(2)(A), struck out “and” at end.
 

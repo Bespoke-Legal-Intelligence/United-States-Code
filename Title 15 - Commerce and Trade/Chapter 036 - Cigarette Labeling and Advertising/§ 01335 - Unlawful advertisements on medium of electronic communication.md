@@ -6,9 +6,9 @@ After January 1, 1971, it shall be unlawful to advertise cigarettes and little c
 
 #### Amendments
 
-1973—Pub. L. 93–109 extended prohibition against advertisements to little cigars.
+<b>1973</b>—Pub. L. 93–109 extended prohibition against advertisements to little cigars.
 
-1970—Pub. L. 91–222 substituted provision that after January 1, 1971, it shall be unlawful to advertise cigarettes on any medium of electronic communication subject to the jurisdiction of the Federal Communications Commission, for provision that a violation of this chapter should constitute misdemeanor and be punishable by fine. See, now, section 1338 of this title.
+<b>1970</b>—Pub. L. 91–222 substituted provision that after January 1, 1971, it shall be unlawful to advertise cigarettes on any medium of electronic communication subject to the jurisdiction of the Federal Communications Commission, for provision that a violation of this chapter should constitute misdemeanor and be punishable by fine. See, now, section 1338 of this title.
 
 #### Effective Date of 1973 Amendment
 

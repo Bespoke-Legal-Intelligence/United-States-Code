@@ -22,5 +22,5 @@ The words “active training and service, active duty for training” are omitte
 
 #### Amendments
 
-1994—Pub. L. 103–337 renumbered section 685 of this title as this section.
+<b>1994</b>—Pub. L. 103–337 renumbered section 685 of this title as this section.
 

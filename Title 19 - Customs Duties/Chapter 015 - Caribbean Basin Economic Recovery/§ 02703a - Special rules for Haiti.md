@@ -4,31 +4,9 @@
 
 In this section:
 
-#### (1) Applicable 1-year period
+#### (1) Initial applicable 1-year period
 
-#### (A) In general
-
-&emsp;&emsp;The term “applicable 1-year period” means each of the 1-year periods described in subparagraphs (B) through (F).
-
-#### (B) Initial applicable 1-year period
-
-&emsp;&emsp;The term “initial applicable 1-year period” means the 1-year period beginning on December 20, 2006.
-
-#### (C) Second applicable 1-year period
-
-&emsp;&emsp;The term “second applicable 1-year period” means the 1-year period beginning on the day after the last day of the initial applicable 1-year period.
-
-#### (D) Third applicable 1-year period
-
-&emsp;&emsp;The term “third applicable 1-year period” means the 1-year period beginning on the day after the last day of the second applicable 1-year period.
-
-#### (E) Fourth applicable 1-year period
-
-&emsp;&emsp;The term “fourth applicable 1-year period” means the 1-year period beginning on the day after the last day of the third applicable 1-year period.
-
-#### (F) Fifth applicable 1-year period
-
-&emsp;&emsp;The term “fifth applicable 1-year period” means the 1-year period beginning on the day after the last day of the fourth applicable 1-year period.
+&emsp;The term “initial applicable 1-year period” means the 1-year period beginning on December 20, 2006.
 
 #### (2) Appropriate congressional committees
 
@@ -62,7 +40,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) the articles in the shipment do not enter into the commerce of any intermediate country, and the invoices, bills of lading, and other shipping documents specify the United States as the final destination; or
 
-&emsp;&emsp;&emsp;(ii) the invoices and other documents do not specify the United States as the finaldestination, but the articles in the shipment—
+&emsp;&emsp;&emsp;(ii) the invoices and other documents do not specify the United States as the final destination, but the articles in the shipment—
 
 &emsp;&emsp;&emsp;&emsp;(I) remain under the control of the customs authority in the intermediate country;
 
@@ -88,13 +66,13 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Apparel articles described in subparagraph (B) of a producer or entity controlling production that are imported directly from Haiti or the Dominican Republic shall enter the United States free of duty during an applicable 1-year period, subject to the limitations set forth in subparagraphs (B) and (C), and subject to subparagraph (D).
+&emsp;&emsp;Apparel articles described in subparagraph (B) of a producer or entity controlling production that are imported directly from Haiti or the Dominican Republic shall enter the United States free of duty during the initial applicable 1-year period and any 1-year period thereafter, subject to the limitations set forth in subparagraphs (B) and (C), and subject to subparagraph (D).
 
 #### (B) Apparel articles described
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In any applicable 1-year period, apparel articles described in this paragraph are apparel articles that are wholly assembled, or are knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, and yarns, only if, for each entry in the applicable 1-year period, the sum of—
+&emsp;&emsp;&emsp;In the initial applicable 1-year period and any 1-year period thereafter, apparel articles described in this paragraph are apparel articles that are wholly assembled, or are knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, and yarns, only if, for each entry in that 1-year period, the sum of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the cost or value of the materials produced in Haiti or one or more countries described in clause (iii), or any combination thereof, plus
 
@@ -136,15 +114,15 @@ In this section:
 
 > &emsp;&emsp;&emsp;&emsp;of all apparel articles of that producer or entity controlling production that are wholly assembled, or are knit-to-shape, in Haiti and are entered during the initial applicable 1-year period.
 
-#### (II) Other applicable 1-year periods
+#### (II) Other 1-year periods
 
-&emsp;&emsp;&emsp;&emsp;In each of the second, third, fourth, and fifth applicable 1-year periods, the requirements under clause (i) relating to applicable percentage may also be metfor articles of a producer or an entity controlling production that enter during the applicable 1-year period by aggregating—
+&emsp;&emsp;&emsp;&emsp;In any 1-year period after the initial applicable 1-year period, the requirements under clause (i) relating to applicable percentage may also be met for articles of a producer or an entity controlling production that enter during the 1-year period by aggregating—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the cost or value of materials under subclause (I) of clause (i), and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the direct costs of processing operations under subclause (II) of clause (i),
 
-> &emsp;&emsp;&emsp;&emsp;of all apparel articles of that producer or entity controlling production that are wholly assembled, or are knit-to-shape, in Haiti and are entered during the preceding applicable 1-year period.
+> &emsp;&emsp;&emsp;&emsp;of all apparel articles of that producer or entity controlling production that arewholly assembled, or are knit-to-shape, in Haiti and are entered during the preceding 1-year period.
 
 #### (III) Deductions
 
@@ -166,11 +144,11 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;The term “applicable percentage” means—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) 50 percent or more during the initial applicable 1-year period, the second applicable 1-year period, and the third applicable 1-year period;
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) 50 percent or more during the initial applicable 1-year period and the succeeding 8 1-year periods;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) 55 percent or more during the fourth applicable 1-year period; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) 55 percent or more during the 1-year period beginning on December 20, 2015, and the 1-year period beginning on December 20, 2016; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) 60 percent or more during the fifth applicable 1-year period.
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) 60 percent or more during the 1-year period beginning on December 20, 2017.
 
 #### (II) Foreign material
 
@@ -184,25 +162,25 @@ In this section:
 
 #### (II) Noncompliance
 
-&emsp;&emsp;&emsp;&emsp;If U.S. Customs and Border Protection finds that a producer or an entity controlling production has not satisfied such requirements in any applicable 1-year period, either for individual entries entered pursuant to clause (i) or for entries entered in aggregate pursuant to clause (iv), then apparel articles described in clause (i) of that producer or entity shall be ineligible for preferential treatment under paragraph (1) during any succeeding applicable 1-year period until—
+&emsp;&emsp;&emsp;&emsp;If U.S. Customs and Border Protection finds that a producer or an entity controlling production has not satisfied such requirements in the initial applicable 1-year period or any 1-year period thereafter, either for individual entries entered pursuant to clause (i) or for entries entered in aggregate pursuant to clause (iv), then apparel articles described in clause (i) of that producer or entity shall be ineligible for preferential treatment under paragraph (1) during any succeeding 1-year period until—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the cost or value of materials under subclause (I) of clause (i), plus
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the direct costs of processing operations under subclause (II) of clause (i),
 
-> &emsp;&emsp;&emsp;&emsp;of that producer or entity controlling production, is not less than the applicable percentage under clause (v)(I), plus 10 percent, of the aggregate declared customs value of all apparel articles of that producer or entity controlling production that are wholly assembled, or are knit-to-shape, in Haiti and are entered during the preceding applicable 1-year period.
+> &emsp;&emsp;&emsp;&emsp;of that producer or entity controlling production, is not less than the applicable percentage under clause (v)(I), plus 10 percent, of the aggregate declared customs value of all apparel articles of that producer or entity controlling production that are wholly assembled, or are knit-to-shape, in Haiti and are entered during the preceding 1-year period.
 
 #### (III) Retroactive application of duty-free treatment
 
 &emsp;&emsp;&emsp;&emsp;If—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) a producer or an entity controlling production is ineligible for preferential treatment under subparagraph (A) in an applicable 1-year period because that producer or entity controlling production did not satisfy the requirements of clause (i) or (iv), and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) a producer or an entity controlling production is ineligible for preferential treatment under subparagraph (A) in the initial applicable 1-year period or any 1-year period thereafter because that producer or entity controlling production did not satisfy the requirements of clause (i) or (iv), and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) that producer or entity controlling production satisfies the requirements of subclause (II) of this clause in that applicable 1-year period,
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) that producer or entity controlling production satisfies the requirements of subclause (II) of this clause in that 1-year period,
 
 > &emsp;&emsp;&emsp;&emsp;then, notwithstanding section 1514 of this title or any other provision of law, upon proper request filed with U.S. Customs and Border Protection before the 90th day after U.S. Customs and Border Protection determines that item (bb) applies, the entry of any articles—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(AA) that was made during that applicable 1-year period, and
+&emsp;&emsp;&emsp;&emsp;&emsp;(AA) that was made during that 1-year period, and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(BB) with respect to which there would have been preferential treatment under subparagraph (A) if the producer or entity controlling production had satisfied the requirements in clause (i) or (iv) (as the case may be),
 
@@ -214,7 +192,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;For purposes of determining the applicable percentage under clause (i) or (iv), there may be included in that percentage—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the cost of fabrics or yarns to the extent that apparel articles of suchfabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 401 of the NAFTA; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the cost of fabrics or yarns to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 401 of the NAFTA; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the cost of fabrics or yarns that are designated as not being available in commercial quantities for purposes of—
 
@@ -240,20 +218,14 @@ In this section:
 
 #### (C) Quantitative limitations
 
-&emsp;&emsp;The preferential treatment described in subparagraph (A) shall be extended, during each of the applicable 1-year periods set forth in the following table, to not more than the corresponding percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the most recent 12-month period for which data are available:
+&emsp;&emsp;The preferential treatment described in subparagraph (A) shall be extended, during each of the 1-year periods set forth in the following table, to not more than the corresponding percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the most recent 12-month period for which data are available:
 
-&nbsp;
-
-| &nbsp; | &nbsp; |
+| <b>During:</b> | <b>the corresponding percentage is:</b> |
 | :--- | ---: |
-| <b>During the:</b> | <b>the corresponding percentage is:</b> |
-| initial applicable 1-year period | 1 percent. |
-| second applicable 1-year period | 1\.25 percent. |
-| third applicable 1-year period | 1\.25 percent. |
-| fourth applicable 1-year period | 1\.25 percent. |
-| fifth applicable 1-year period | 1\.25 percent. |
+| the initial applicable 1-year period | 1 percent. |
+| each of the succeeding 11 1-year periods | 1\.25 percent. |
 
-> &emsp;&emsp;No preferential treatment shall be provided under subparagraph (A) after the last day of the fifth applicable 1-year period.
+> &emsp;&emsp;No preferential treatment shall be provided under subparagraph (A) after December 19, 2018.
 
 #### (D) Other preferential treatment not affected by quantitative limitations
 
@@ -269,7 +241,7 @@ In this section:
 
 #### (ii) Limitation
 
-&emsp;&emsp;&emsp;The preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008, and in each of the 9 succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
+&emsp;&emsp;&emsp;Except as provided in paragraph (2A), the preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008, and in each of the 11 succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
 
 #### (iii) Other preferential treatment not affected by quantitative limitation
 
@@ -305,11 +277,123 @@ In this section:
 
 #### (iii) Limitation
 
-&emsp;&emsp;&emsp;The preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008, and in each of the 9 succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
+&emsp;&emsp;&emsp;Except as provided in paragraph (2A), the preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008, and in each of the 11 succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
 
 #### (iv) Other preferential treatment not affected by quantitative limitation
 
 &emsp;&emsp;&emsp;Any apparel article that qualifies for preferential treatment under paragraph (1), (3), (4), or (5) or subparagraph (A) of this paragraph or any other provision of this chapter shall not be subject to, or included in the calculation of, the quantitative limitation under clause (iii).
+
+#### (2A) Special rule for certain woven articles and certain knit articles entered during fiscal year 2010 and succeeding 1-year periods
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C) and subject to subparagraph (D), if 52,000,000 square meter equivalents of apparel articles described in paragraph (2)(A)(i) or (2)(B)(i) enter the United States during the 1-year period beginning October 1, 2009, or any of the succeeding 1-year periods, the President shall extend the preferential treatment described in paragraph (2)(A)(i) or (2)(B)(i) (as the case may be) to not more than 200,000,000 square meter equivalents of apparel articles described in paragraph (2)(A)(i) or (2)(B)(i) (as the case may be) during that 1-year period, and shall publish notice of the extension in the Federal Register.
+
+#### (B) Exception for certain woven articles
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In the case of apparel articles described in clause (ii), subparagraph (A) shall be applied by substituting “70,000,000” for “200,000,000”.
+
+#### (ii) Apparel articles described
+
+&emsp;&emsp;&emsp;Apparel articles described in this clause are apparel articles described in paragraph (2)(A)(i) that are the following:
+
+#### (I) Category 347
+
+&emsp;&emsp;&emsp;&emsp;Apparel articles in category 347 that fall within the following statistical reporting numbers of the HTS (as in effect on the day before May 24, 2010):
+
+| &nbsp; | &nbsp; | &nbsp; |
+| :--- | :---: | ---: |
+| 6203\.19.1020 | 6203\.42.4011 | 6203\.42.4061 |
+| 6203\.19.9020 | 6203\.42.4016 | 6203\.49.8020 |
+| 6203\.22.3020 | 6203\.42.4026 | 6210\.40.9033 |
+| 6203\.22.3030 | 6203\.42.4036 | 6211\.20.1520 |
+| 6203\.42.4003 | 6203\.42.4046 | 6211\.20.3810 |
+| 6203\.42.4006 | 6203\.42.4051 | 6211\.32.0040 |
+
+#### (II) Category 348
+
+&emsp;&emsp;&emsp;&emsp;Apparel articles in category 348 that fall within the following statistical reporting numbers of the HTS (as in effect on the day before May 24, 2010):
+
+| &nbsp; | &nbsp; | &nbsp; |
+| :--- | :---: | ---: |
+| 6204\.12.0030 | 6204\.62.4011 | 6204\.69.9010 |
+| 6204\.19.8030 | 6204\.62.4021 | 6210\.50.9060 |
+| 6204\.22.3040 | 6204\.62.4031 | 6211\.20.1550 |
+| 6204\.22.3050 | 6204\.62.4041 | 6211\.20.6810 |
+| 6204\.29.4034 | 6204\.62.4051 | 6211\.42.0030 |
+| 6204\.62.3000 | 6204\.62.4056 | 6217\.90.9050 |
+| 6204\.62.4003 | 6204\.62.4066 |  |
+| 6204\.62.4006 | 6204\.69.6010 |  |
+
+#### (III) Category 647
+
+&emsp;&emsp;&emsp;&emsp;Apparel articles in category 647 that fall within the following statistical reporting numbers of the HTS (as in effect on the day before May 24, 2010):
+
+| &nbsp; | &nbsp; | &nbsp; |
+| :--- | :---: | ---: |
+| 6203\.23.0060 | 6203\.43.4020 | 6203\.49.8030 |
+| 6203\.23.0070 | 6203\.43.4030 | 6210\.40.5031 |
+| 6203\.29.2030 | 6203\.43.4040 | 6210\.40.5039 |
+| 6203\.29.2035 | 6203\.49.1500 | 6211\.20.1525 |
+| 6203\.43.2500 | 6203\.49.2015 | 6211\.20.3820 |
+| 6203\.43.3510 | 6203\.49.2030 | 6211\.33.0030 |
+| 6203\.43.3590 | 6203\.49.2045 |  |
+| 6203\.43.4010 | 6203\.49.2060 |  |
+
+#### (IV) Category 648
+
+&emsp;&emsp;&emsp;&emsp;Apparel articles in category 648 that fall within the following statistical reporting numbers of the HTS (as in effect on the day before May 24, 2010):
+
+| &nbsp; | &nbsp; | &nbsp; |
+| :--- | :---: | ---: |
+| 6204\.23.0040 | 6204\.63.3510 | 6204\.69.6030 |
+| 6204\.23.0045 | 6204\.63.3530 | 6204\.69.9030 |
+| 6204\.29.2020 | 6204\.63.3532 | 6210\.50.5031 |
+| 6204\.29.2025 | 6204\.63.3540 | 6210\.50.5039 |
+| 6204\.29.4038 | 6204\.69.2510 | 6211\.20.1555 |
+| 6204\.63.2000 | 6204\.69.2530 | 6211\.20.6820 |
+| 6204\.63.3010 | 6204\.69.2540 | 6211\.43.0040 |
+| 6204\.63.3090 | 6204\.69.2560 | 6217\.90.9060 |
+
+#### (C) Exception for certain knit articles
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In the case of apparel articles described in clause (ii), subparagraph (A) shall be applied by substituting “85,000,000” for “200,000,000”.
+
+#### (ii) Apparel articles described
+
+&emsp;&emsp;&emsp;Apparel articles described in this clause are apparel articles described in paragraph (2)(B)(i) that fall within the following statistical reporting numbers of the HTS (as in effect on the day before May 24, 2010), other than shirts with plackets and pointed collars:
+
+| &nbsp; | &nbsp; | &nbsp; |
+| :--- | :---: | ---: |
+| 6105\.10.0010 | 6109\.10.0040 | 6110\.30.3053 |
+| 6109\.10.0018 | 6109\.10.0045 | 6110\.30.3059 |
+| 6109\.10.0027 | 6110\.20.2079 |  |
+
+#### (D) Verification with respect to transshipment for certain apparel articles
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Not later than April 1, July 1, October 1, and January 1 of each year, the Commissioner responsible for United States Customs and Border Protection shall verify that apparel articles imported into the United States under this paragraph are not being unlawfully transshipped (within the meaning of subsection (f)) into the United States.
+
+#### (ii) Report to President
+
+&emsp;&emsp;&emsp;If the Commissioner determines pursuant to clause (i) that apparel articles imported into the United States under this paragraph are being unlawfully transshipped into the United States, the Commissioner shall report that determination to the President.
+
+#### (iii) Authority to reduce quantitative limitation
+
+&emsp;&emsp;&emsp;If, in any 1-year period with respect to which the President extends preferential treatment as described in this paragraph, the Commissioner reports to the President pursuant to clause (ii) regarding unlawful transshipments, the President—
+
+&emsp;&emsp;&emsp;&emsp;(I) may modify the quantitative limitation under this paragraph as the President considers appropriate to account for such transshipments; and
+
+&emsp;&emsp;&emsp;&emsp;(II) if the President modifies the limitation under subclause (I), shall publish notice of the modification in the Federal Register.
+
+#### (E) Category defined
+
+&emsp;&emsp;In this paragraph, the term “category” means the number assigned under the U.S. Textile and Apparel Category System of the Office of Textiles and Apparel of the Department of Commerce, as listed in the HTS under the applicable heading or subheading (as in effect on the day before May 24, 2010).
 
 #### (3) Apparel and other articles subject to certain assembly rules
 
@@ -343,11 +427,291 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) Pajama bottoms and other sleepwear for girls, of other textile materials, that are classifiable under subheading 6208.99.20.
 
+#### (F) Certain other apparel articles
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Any of the apparel articles described in clause (ii) that is wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabric, fabric components, components knit-to-shape, or yarns from which the article is made.
+
+#### (ii) Articles described
+
+&emsp;&emsp;&emsp;Apparel articles described in this clause are apparel articles in the following category numbers that fall within the following statistical reporting numbers of the HTS (as in effect on the day before May 24, 2010):
+
+| &nbsp; | &nbsp; |
+| :--- | ---: |
+| <b>Category Number</b> | <b>HTS Statistical Reporting Number</b> |
+|  |  |
+| 334 | 6101\.90.9010 |
+|  | 6112\.11.0010 |
+|  | 6103\.22.0010 |
+|  | 6113\.00.9015 |
+|  |  |
+| 335 | 6104\.22.0010 |
+|  | 6104\.29.2010 |
+|  | 6112\.11.0020 |
+|  |  |
+| 336 | 6104\.49.9010 |
+|  |  |
+| 338 | 6103\.22.0050 |
+|  | 6105\.90.8010 |
+|  | 6112\.11.0030 |
+|  |  |
+| 339 | 6104\.22.0060 |
+|  | 6104\.29.2049 |
+|  | 6106\.90.2510 |
+|  | 6106\.90.3010 |
+|  | 6110\.20.1031 |
+|  | 6110\.20.1033 |
+|  | 6112\.11.0040 |
+|  |  |
+| 342 | 6104\.22.0030 |
+|  | 6104\.29.2022 |
+|  | 6104\.52.0010 |
+|  | 6104\.52.0020 |
+|  | 6104\.59.8010 |
+|  |  |
+| 350 | 6107\.91.0040 |
+|  | 6107\.91.0090 |
+|  |  |
+| 351 | 6107\.21.0010 |
+|  | 6107\.21.0020 |
+|  | 6107\.91.0030 |
+|  | 6108\.31.0010 |
+|  | 6108\.31.0020 |
+|  |  |
+| 433 | 6103\.23.0007 |
+|  | 6103\.29.0520 |
+|  | 6103\.31.0000 |
+|  | 6103\.33.1000 |
+|  | 6103\.39.8020 |
+|  |  |
+| 434 | 6101\.30.1500 |
+|  | 6101\.90.0500 |
+|  | 6101\.90.9020 |
+|  | 6103\.23.0005 |
+|  | 6103\.29.0510 |
+|  |  |
+| 435 | 6102\.30.1000 |
+|  | 6102\.90.9010 |
+|  | 6104\.23.0010 |
+|  | 6104\.29.0510 |
+|  | 6104\.29.2012 |
+|  | 6104\.33.1000 |
+|  | 6104\.39.2020 |
+|  |  |
+| 438 | 6103\.23.0025 |
+|  | 6103\.29.0550 |
+|  | 6104\.23.0020 |
+|  | 6104\.29.0560 |
+|  | 6104\.29.2051 |
+|  | 6105\.90.1000 |
+|  | 6105\.90.8020 |
+|  | 6106\.20.1020 |
+|  | 6106\.90.1010 |
+|  | 6106\.90.1020 |
+|  | 6106\.90.2520 |
+|  | 6106\.90.3020 |
+|  | 6110\.11.0070 |
+|  | 6110\.12.2070 |
+|  | 6110\.12.2080 |
+|  | 6110\.19.0070 |
+|  | 6110\.19.0080 |
+|  | 6110\.30.1550 |
+|  | 6110\.30.1560 |
+|  |  |
+| 633 | 6103\.23.0037 |
+|  | 6103\.29.1015 |
+|  | 6103\.33.2000 |
+|  | 6103\.39.1000 |
+|  | 6103\.39.8030 |
+|  |  |
+| 634 | 6101\.30.1000 |
+|  | 6101\.90.9030 |
+|  | 6103\.23.0036 |
+|  | 6103\.29.1010 |
+|  | 6112\.12.0010 |
+|  | 6112\.19.1010 |
+|  | 6112\.20.1010 |
+|  | 6112\.20.1030 |
+|  | 6113\.00.9025 |
+|  |  |
+| 635 | 6102\.30.0500 |
+|  | 6102\.90.9015 |
+|  | 6104\.23.0026 |
+|  | 6104\.29.1010 |
+|  | 6104\.29.2014 |
+|  | 6104\.39.2030 |
+|  | 6112\.12.0020 |
+|  | 6112\.19.1020 |
+|  | 6112\.20.1020 |
+|  | 6112\.20.1040 |
+|  | 6113\.00.9030 |
+|  |  |
+| 636 | 6104\.49.9030 |
+|  | 6104\.44.2020 |
+|  |  |
+| 638 | 6103\.23.0075 |
+|  | 6103\.29.1050 |
+|  | 6105\.90.8030 |
+|  | 6110\.30.1050 |
+|  | 6110\.30.2051 |
+|  | 6110\.30.2053 |
+|  | 6112\.12.0030 |
+|  | 6112\.19.1030 |
+|  |  |
+| 639 | 6104\.23.0036 |
+|  | 6104\.29.1050 |
+|  | 6104\.29.2055 |
+|  | 6106\.90.2530 |
+|  | 6106\.90.3030 |
+|  | 6110\.30.1060 |
+|  | 6110\.30.2061 |
+|  | 6110\.30.2063 |
+|  | 6112\.12.0040 |
+|  | 6112\.19.1040 |
+|  |  |
+| 651 | 6107\.22.0010 |
+|  | 6107\.22.0015 |
+|  | 6107\.22.0025 |
+|  | 6107\.99.1030 |
+|  | 6108\.32.0015 |
+
+#### (iii) Category defined
+
+&emsp;&emsp;&emsp;In this subparagraph, the term “category” has the meaning given that term in paragraph (2A)(E) of this subsection.
+
+#### (G) Made-up textile articles
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Any of the made-up textile articles described in clauses (ii) and (iii) that is wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and is imported directly from Haitior the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabric, fabric components, components knit-to-shape, or yarns from which the article is made.
+
+#### (ii) Articles described
+
+&emsp;&emsp;&emsp;Made-up textile articles described in this clause are articles in the following category numbers that fall within the following statistical reporting numbers of the HTS (as in effect on the day before May 24, 2010):
+
+| &nbsp; | &nbsp; |
+| :--- | ---: |
+| <b>Category Number</b> | <b>HTS Statistical Reporting Number</b> |
+|  |  |
+| 363 | 6302\.60.0020 |
+|  | 6302\.91.0015 |
+|  | 6302\.91.0035 |
+|  | 6307\.90.8940 |
+|  |  |
+| 369 | 6304\.91.0020 |
+|  | 6304\.92.0000 |
+|  | 6302\.60.0010 |
+|  | 6302\.60.0030 |
+|  | 6302\.91.0005 |
+|  | 6302\.91.0050 |
+|  | 6307\.90.8910 |
+|  | 6307\.90.8945 |
+|  | 5701\.90.2020 |
+|  | 5702\.39.2010 |
+|  | 5702\.50.5600 |
+|  | 5702\.99.0500 |
+|  | 5702\.99.1500 |
+|  | 5705\.00.2020 |
+|  | 5807\.10.0510 |
+|  | 5807\.90.0510 |
+|  | 6307\.90.3010 |
+|  | 6301\.30.0010 |
+|  | 6305\.20.0000 |
+|  | 6307\.10.1020 |
+|  | 6307\.10.1090 |
+|  | 6406\.10.7700 |
+|  | 9404\.90.1000 |
+|  | 9404\.90.9505 |
+|  | 6301\.30.0020 |
+|  | 6302\.91.0045 |
+|  |  |
+| 465 | 5701\.10.9000 |
+|  | 5702\.50.2000 |
+|  | 5702\.50.4000 |
+|  | 5702\.91.3000 |
+|  | 5702\.91.4000 |
+|  | 5703\.10.2000 |
+|  | 5703\.10.8000 |
+|  | 5704\.10.0010 |
+|  | 5705\.00.2005 |
+|  | 5705\.00.2015 |
+|  | 5702\.31.1000 |
+|  | 5702\.31.2000 |
+|  |  |
+| 469 | 6304\.19.3040 |
+|  | 6304\.91.0050 |
+|  | 6304\.99.1500 |
+|  | 6304\.99.6010 |
+|  | 5601\.29.0020 |
+|  | 6302\.39.0010 |
+|  | 6406\.10.9020 |
+|  |  |
+| 665 | 5701\.90.1030 |
+|  | 5701\.90.2030 |
+|  | 5702\.32.1000 |
+|  | 5702\.32.2000 |
+|  | 5702\.42.2090 |
+|  | 5702\.50.5200 |
+|  | 5702\.92.1000 |
+|  | 5702\.92.9000 |
+|  | 5703\.20.1000 |
+|  | 5703\.30.2000 |
+|  | 5703\.30.8030 |
+|  | 5703\.30.8080 |
+|  | 5704\.10.0090 |
+|  | 5705\.00.2030 |
+|  | 5703\.20.2010 |
+|  | 5703\.20.2090 |
+|  |  |
+| 666 | 6304\.11.2000 |
+|  | 6304\.91.0040 |
+|  | 6304\.93.0000 |
+|  | 6304\.99.6020 |
+|  | 6301\.40.0010 |
+|  | 6301\.40.0020 |
+|  | 6301\.90.0010 |
+|  |  |
+| 669 | 5601\.10.2000 |
+|  | 5601\.22.0090 |
+|  | 5807\.10.0520 |
+|  | 5807\.90.0520 |
+|  | 6307\.90.3020 |
+|  | 6305\.32.0010 |
+|  | 6305\.32.0020 |
+|  | 6305\.32.0050 |
+|  | 6305\.32.0060 |
+|  | 6305\.39.0000 |
+|  | 6406\.10.9040 |
+|  | 6308\.00.0020 |
+|  |  |
+| 899 | 6304\.11.3000 |
+|  | 6304\.19.3060 |
+|  | 6304\.91.0070 |
+|  | 6304\.99.3500 |
+|  | 6304\.99.6040 |
+|  | 5601\.29.0090 |
+|  | 6301\.90.0030 |
+|  | 6305\.90.0000 |
+|  | 6406\.10.9060 |
+|  |  |
+| 900 | 5601\.29.0010 |
+|  | 5701\.90.2010 |
+|  | 6301\.90.0020 |
+
+#### (iii) Other articles described
+
+&emsp;&emsp;&emsp;Made-up textile articles described in this clause are articles that fall within statistical reporting number 6406.10.9090 of the HTS (as in effect on the day before May 24, 2010).
+
+#### (iv) Category defined
+
+&emsp;&emsp;&emsp;In this subparagraph, the term “category” has the meaning given that term in paragraph (2A)(E) of this subsection.
+
 #### (4) Earned import allowance rule
 
 #### (A) In general
 
-&emsp;&emsp;Apparel articles wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabric, fabric components, components knit-to-shape, or yarns from which the articles are made, if such apparel articles are accompanied by an earned import allowance certificate that reflects the amount of credits equal to the total square meter equivalents of such apparel articles, in accordance with the program established under subparagraph\(B). For purposes of determining the quantity of square meter equivalents under this subparagraph, the conversion factors listed in “Correlation: U.S. Textile and Apparel Industry Category System with the Harmonized Tariff Schedule of the United States of America, 2008”, or its successor publications, of the United States Department of Commerce, shall apply.
+&emsp;&emsp;Apparel articles wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabric, fabric components, components knit-to-shape, or yarns from which the articles are made, if such apparel articles are accompanied by an earned import allowance certificate that reflects the amount of credits equal to the total square meter equivalents of such apparel articles, in accordance with the program established under subparagraph (B). For purposes of determining the quantity of square meter equivalents under thissubparagraph, the conversion factors listed in “Correlation: U.S. Textile and Apparel Industry Category System with the Harmonized Tariff Schedule of the United States of America, 2008”, or its successor publications, of the United States Department of Commerce, shall apply.
 
 #### (B) Earned import allowance program
 
@@ -359,7 +723,7 @@ In this section:
 
 &emsp;&emsp;&emsp;The elements referred to in clause (i) are the following:
 
-&emsp;&emsp;&emsp;&emsp;(I) One credit shall be issued to a producer or an entity controlling production for every three square meter equivalents of qualifying woven fabric or qualifying knit fabric that the producer or entity controlling production can demonstrate that it purchased for the manufacture in Haiti of articles like or similar to any article eligible for preferential treatment under subparagraph (A). The Secretary of Commerce shall, if requested by a producer or entity controlling production, create and maintain an account for such producer or entity controlling production, into which such credits shall be deposited.
+&emsp;&emsp;&emsp;&emsp;(I) One credit shall be issued to a producer or an entity controlling production for every two square meter equivalents of qualifying woven fabric or qualifying knit fabric that the producer or entity controlling production can demonstrate that it purchased for the manufacture in Haiti of articles like or similar to any article eligible for preferential treatment under subparagraph (A). The Secretary of Commerce shall, if requested by a producer or entity controlling production, create and maintain an account for such producer or entity controlling production, into which such credits shall be deposited.
 
 &emsp;&emsp;&emsp;&emsp;(II) Such producer or entity controlling production may redeem credits issued under subclause (I) for earned import allowance certificates reflecting such number of earned credits as the producer or entity may request and has available.
 
@@ -395,7 +759,7 @@ In this section:
 
 #### (iv) Qualifying knit fabric defined
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “qualifying knit fabric” means fabric or knit-to-shape components whollyformed or knit-to-shape in any country or any combination of countries described in paragraph (1)(B)(iii), from yarns wholly formed in the United States, except that—
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “qualifying knit fabric” means fabric or knit-to-shape components wholly formed or knit-to-shape in any country or any combination of countries described inparagraph (1)(B)(iii), from yarns wholly formed in the United States, except that—
 
 &emsp;&emsp;&emsp;&emsp;(I) fabric or knit-to-shape components otherwise eligible as qualifying knit fabric shall not be ineligible as qualifying knit fabric because the fabric or knit-to-shape components contain nylon filament yarn to which section 2703(b)(2)(A)(vii)(IV) of this title applies;
 
@@ -453,7 +817,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Any wire harness automotive component that is the product or manufacture of Haiti and is imported directly from Haiti into the customs territory of the United States shall enter the United States free of duty, during the 5-year period beginning on December 20, 2006, if Haiti has met the requirements of subsection (d) and if the sum of—
+&emsp;Any wire harness automotive component that is the product or manufacture of Haiti and is imported directly from Haiti into the customs territory of the United States shall enter the United States free of duty, during the 10-year period beginning on December 20, 2006, if Haiti has met the requirements of subsection (d) and if the sum of—
 
 &emsp;&emsp;(A) the cost or value of the materials produced in Haiti or one or more countries described in subsection (b)(2)(C), or any combination thereof, plus
 
@@ -463,7 +827,7 @@ In this section:
 
 #### (2) Wire harness automotive component
 
-&emsp;For purposes of this subsection, the term “wire harness automotive component” meansany article provided for in subheading 8544.30.00 of the HTS, as in effect on December 20, 2006.
+&emsp;For purposes of this subsection, the term “wire harness automotive component” means any article provided for in subheading 8544.30.00 of the HTS, as in effect on December 20, 2006.
 
 #### (d) Eligibility requirements
 
@@ -665,7 +1029,7 @@ In this section:
 
 #### (iii) Reinstating preferential treatment
 
-&emsp;&emsp;&emsp;If the President, after withdrawing, suspending, or limiting the application ofpreferential treatment under clause (ii) to articles of a producer, determines that such producer is complying with core labor standards and with the labor laws of Haiti that directly relate to and are consistent with core labor standards, the President shall reinstate the application of preferential treatment under subsection (b) to the articles of the producer.
+&emsp;&emsp;&emsp;If the President, after withdrawing, suspending, or limiting the application of preferential treatment under clause (ii) to articles of a producer, determines that such producer is complying with core laborstandards and with the labor laws of Haiti that directly relate to and are consistent with core labor standards, the President shall reinstate the application of preferential treatment under subsection (b) to the articles of the producer.
 
 #### (iv) Consideration of reports
 
@@ -725,13 +1089,13 @@ In this section:
 
 #### (g) Regulations
 
-The President shall issue regulations to carry out this section not later than 180 days after December 20, 2006. The President shall consult withthe Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate in preparing such regulations.
+The President shall issue regulations to carry out this section not later than 180 days after December 20, 2006. The President shall consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate in preparing such regulations.
 
 #### (h) Termination
 
-Except as provided in subsection (b)(1), the duty-free treatment provided under this section shall remain in effect until September 30, 2018.
+Except as provided in subsection (b)(1), the duty-free treatment provided under this section shall remain in effect until September 30, 2020.
 
-(Pub. L. 98–67, title II, §213A, as added Pub. L. 109–432, div. D, title V, §5002(a), Dec. 20, 2006, 120 Stat. 3181; amended Pub. L. 110–234, title XV, §§15402–15405, May 22, 2008, 122 Stat. 1527–1545; Pub. L. 110–246, §4(a), title XV, §§15402–15405, June 18, 2008, 122 Stat. 1664, 2289–2307; Pub. L. 110–436, §7, Oct. 16, 2008, 122 Stat. 4981.)
+(Pub. L. 98–67, title II, §213A, as added Pub. L. 109–432, div. D, title V, §5002(a), Dec. 20, 2006, 120 Stat. 3181; amended Pub. L. 110–234, title XV, §§15402–15405, May 22, 2008, 122 Stat. 1527–1545; Pub. L. 110–246, §4(a), title XV, §§15402–15405, June 18, 2008, 122 Stat. 1664, 2289–2307; Pub. L. 110–436, §7, Oct. 16, 2008, 122 Stat. 4981; Pub. L. 111–171, §§3(2)–8, May 24, 2010, 124 Stat. 1195–1205.)
 
 #### References in Text
 
@@ -747,7 +1111,43 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a)(2). Pub. L. 110–246, §15403(1)(C), added par. (2). Former par. (2) redesignated (4).
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–171, §7(1), added par. (1) and struck out former par. (1) which defined “applicable 1-year period”, “initial applicable 1-year period”, “second applicable 1-year period”, “third applicable 1-year period”, “fourth applicable 1-year period”, and “fifth applicable 1-year period” in subpars. (A) to (F), respectively.
+
+Subsec. (b)(1)(A). Pub. L. 111–171, §7(2)(A), substituted “the initial applicable 1-year period and any 1-year period thereafter” for “an applicable 1-year period”.
+
+Subsec. (b)(1)(B)(i). Pub. L. 111–171, §7(2)(B)(i), in introductory provisions, substituted “the initial applicable 1-year period and any 1-year period thereafter” for “any applicable 1-year period” and “that 1-year period” for “the applicable 1-year period”.
+
+Subsec. (b)(1)(B)(iv)(II). Pub. L. 111–171, §7(2)(B)(ii), struck out “applicable” after “Other” in heading and substituted “In any 1-year period after the initial applicable 1-year period” for “In each of the second, third, fourth, and fifth applicable 1-year periods” and “during the 1-year period” for “during the applicable 1-year period” in introductory provisions and “preceding 1-year period” for “preceding applicable 1-year period” in concluding provisions.
+
+Subsec. (b)(1)(B)(v)(I)(aa). Pub. L. 111–171, §7(2)(B)(iii)(I), substituted “and the succeeding 8 1-year periods” for “, the second applicable 1-year period, and the third applicable 1-year period”.
+
+Subsec. (b)(1)(B)(v)(I)(bb). Pub. L. 111–171, §7(2)(B)(iii)(II), substituted “the 1-year period beginning on December 20, 2015, and the 1-year period beginning on December 20, 2016” for “the fourth applicable 1-year period”.
+
+Subsec. (b)(1)(B)(v)(I)(cc). Pub. L. 111–171, §7(2)(B)(iii)(III), substituted “the 1-year period beginning on December 20, 2017” for “the fifth applicable 1-year period”.
+
+Subsec. (b)(1)(B)(vi)(II). Pub. L. 111–171, §7(2)(B)(iv)(I), substituted “the initial applicable 1-year period or any 1-year period thereafter” for “any applicable 1-year period” and “succeeding 1-year period” for “succeeding applicable 1-year period” in introductory provisions and “preceding 1-year period” for “preceding applicable 1-year period” in concluding provisions.
+
+Subsec. (b)(1)(B)(vi)(III)(aa). Pub. L. 111–171, §7(2)(B)(iv)(II)(aa), substituted “the initial applicable 1-year period or any 1-year period thereafter” for “an applicable 1-year period”.
+
+Subsec. (b)(1)(B)(vi)(III)(bb). Pub. L. 111–171, §7(2)(B)(iv)(II)(bb), substituted “1-year period” for “applicable 1-year period” in item (bb) and subitem (AA).
+
+Subsec. (b)(1)(C). Pub. L. 111–171, §7(2)(C), substituted “1-year periods” for “applicable 1-year periods” in introductory provisions, added table, struck out former table which designated 1 percent for the initial and 1.25 percent for the second through fifth applicable 1-year periods, and substituted “December 19, 2018” for “the last day of the fifth applicable 1-year period” in concluding provisions.
+
+Subsec. (b)(2)(A)(ii), (B)(iii). Pub. L. 111–171, §5(1), substituted “Except as provided in paragraph (2A), the preferential treatment” for “The preferential treatment” and “11” for “9”.
+
+Subsec. (b)(2A). Pub. L. 111–171, §5(2), added par. (2A).
+
+Subsec. (b)(3)(F). Pub. L. 111–171, §4(a), added subpar. (F).
+
+Subsec. (b)(3)(G). Pub. L. 111–171, §4(b), added subpar. (G).
+
+Subsec. (b)(4)(B)(ii)(I). Pub. L. 111–171, §6, substituted “two” for “three”.
+
+Subsec. (c)(1). Pub. L. 111–171, §8, substituted “10-year period” for “5-year period” in introductory provisions.
+
+Subsec. (h). Pub. L. 111–171, §3(2), substituted “September 30, 2020” for “September 30, 2018”.
+
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–246, §15403(1)(C), added par. (2). Former par. (2) redesignated (4).
 
 Subsec. (a)(3). Pub. L. 110–246, §15403(1)(C), added par. (3). Former par. (3) redesignated (5).
 
@@ -771,7 +1171,7 @@ Subsec. (b). Pub. L. 110–246, §15402(a)(5), (b), (c), as amended by Pub. L. 1
 
 Pub. L. 110–246, §15402(a)(4), as amended by Pub. L. 110–436, §7(1), redesignated par. (3) as subpar. (C) of par. (1), realigned margins, substituted “subparagraph (A)” for “paragraph (1)” in two places, in table substituted “1.25 percent” for “1.5 percent” during the third applicable 1-year period, “1.25 percent” for “1.75 percent” during the fourth applicable 1-year period, and “1.25 percent” for “2 percent” during the fifth applicable 1-year period.
 
-Pub. L. 110–246, §15402(a)(3), as amended by Pub. L. 110–436, §7(1), redesignated par. (2) as subpar. (B) of par. (1), redesignated former subpars. as cls., former cls. as subcls., former subcls. as items, and former items as subitems, realigned margins, made conforming changes to references in text, in par. (1)(B)(iii)(II) substituted “that enters into force thereafter” for “that enters into force under the Bipartisan Trade Promotion Authority Act of 2002 (19 U.S.C. 3801 et seq.)”, amended par. (1)(B)(iv)(IV) generally, in par. (1)(B)(vi) substituted “U.S. Customs and Border Protection” for “The Bureau of Customs and Border Protection” in subcl. (I) and for “the Bureau of Customs and Border Protection” in subcl. (II) and in two places in subcl. (III), and in par. (1)(B)(vii)(I)(bb)(DD) substituted “with respect to the United States” for “under the Bipartisan Trade Promotion Authority Act of 2002”.
+Pub. L. 110–246, §15402(a)(3), as amended by Pub. L. 110–436, §7(1), redesignated par. (2) as subpar. (B) of par. (1), redesignated former subpars. as cls., former cls. as subcls., former subcls. as items, and former items as subitems, realigned margins, made conforming changes to references in text, in par. (1)(B)(iii)(II) substituted “that enters into force thereafter” for “that enters into force under the Bipartisan Trade Promotion Authority Act of 2002 (19 U.S.C. 3801 et seq.)”, amended par. (1)(B)(iv)(IV) generally, in par. (1)(B)(vi) substituted “U.S. Customs and Border Protection” for “The Bureau of Customs and Border Protection” in subcl. (I) and for “the Bureau of Customs and Border Protection” in subcl. (II) and in two places in subcl.\(III), and in par. (1)(B)(vii)(I)(bb)(DD) substituted “with respect to the United States” for “under the Bipartisan Trade Promotion Authority Act of 2002”.
 
 Pub. L. 110–246, §15402(a)(2), as amended by Pub. L. 110–436, §7(1), amended par. (1) generally. Prior to amendment, text read as follows: “In addition to any other preferential treatment under this chapter, apparel articles described in paragraph (2) of a producer or entity controlling production that are imported directly from Haiti shall enter the United States free of duty during an applicable 1-year period, subject to the limitations set forth in paragraphs (2) and (3), if Haiti has met the requirements of subsections (d) and (e).”
 
@@ -832,6 +1232,90 @@ Pub. L. 110–234, title XV, §15407, May 22, 2008, 122 Stat. 1546, and Pub. L. 
 Proc. No. 8296, Sept. 30, 2008, 73 F.R. 57476, provided in par. (3) that the United States Trade Representative is authorized to perform the functions under subsec. (d)(4) of this section, the reporting function under subsec. (e)(1)(B)(ii) of this section, the consultation function under subsec. (e)(1)(C)(i) of this section, and the functions under subsec. (e)(5) of this section and provided in par. (4) that the Secretary of Labor, in consultation with the United States Trade Representative, is authorized to perform the functions under subsec. (e)(4)(B)(i), (ii) of this section.
 
 Proc. No. 8114, Mar. 19, 2007, 72 F.R. 13656, provided in par. (5) that the Secretary of the Treasury is authorized to perform the functions assigned to the President under subsec. (f) of this section.
+
+#### Findings
+
+Pub. L. 111–171, §2, May 24, 2010, 124 Stat. 1194, provided that: “Congress finds the following:
+
+&emsp;“(1) On January 12, 2010, Haiti was hit by a 7.0 magnitude earthquake, the worst earthquake to affect Haiti in recorded history. Aftershocks from the earthquake, measuring up to 6.0 on the Richter scale, continued for days afterwards.
+
+&emsp;“(2) The earthquake has devastated Haiti's infrastructure, including homes, offices, factories, roads, ports, communications, and other facilities. The loss of life attributable to the earthquake was massive.
+
+&emsp;“(3) Even before the earthquake, Haiti was the poorest country in the Western Hemisphere, ranking 149 out of 182 countries according to the United Nation's Human Development Index.
+
+&emsp;“(4) In recent years, however, the Government and people of Haiti had taken important steps forward to promote economic growth and development, including making strides towards establishing a competitive apparel sector.
+
+&emsp;“(5) United States trade preference programs, including the Caribbean Basin Economic Recovery Act \[19 U.S.C. 2701 et seq.\] (as amended by the United States-Caribbean Basin Trade Partnership Act \[Pub. L. 106–200, title II, see Tables for classification\], the Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2006 \[Pub. L. 109–432, div. D, title V, see Tables for classification\], and the Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2008 \[Pub. L. 110–234, title XV, subtitle D, part I, and Pub. L. 110–246, title XV, subtitle D, part I, see Tables for classification\]), which extend duty-free tariff treatment to certain apparel produced in Haiti, have made an important contribution to Haiti's economic development efforts.
+
+&emsp;“(6) However, the Haitian apparel sector has been hard hit by the January 12, 2010, earthquake. A number of apparel factories based in and around Port-au-Prince have been heavily damaged, including the collapse of one major apparel factory that had employed nearly 4,000 workers.
+
+&emsp;“(7) The Port-au-Prince seaport that had served the apparel trade has been badly damaged. And extensive damage to roads has made it difficult to transport apparel to the Dominican Republic for shipment from ports in that country.
+
+&emsp;“(8) According to estimates by the Department of Commerce, imports of apparel articles from Haiti to the United States in 2010 have decreased by 43 percent as compared to the same period in 2009.
+
+&emsp;“(9) The earthquake has increased significantly the costs and uncertainty of doing business in Haiti. A strong and unequivocal commitment from the United States is needed to help Haiti offset these costs and preserve the gains made under United States trade preference programs, and to encourage buyers and investors to stand with Haiti through this crisis.”
+
+#### Customs Support Services
+
+Pub. L. 111–171, §9, May 24, 2010, 124 Stat. 1205, provided that:
+
+“(a)
+
+In General.—
+
+&emsp;“(1)
+
+Rapid response team.—The Commissioner responsible for United States Customs and Border Protection (in this section referred to as the ‘Commissioner’) shall, in consultation with the United States Coast Guard, the Drug Enforcement Agency, and other Federal agencies, as appropriate, seek to send a rapid response team to Haiti—
+
+&emsp;&emsp;“(A) to assess the short-term and long-term technical, capacity-building, and training needs of the authorities of the Government of Haiti responsible for customs services; and
+
+&emsp;&emsp;“(B) to provide immediate assistance, as warranted, particularly with respect to—
+
+&emsp;&emsp;&emsp;“(i) reestablishing full capacity for commercial port operations at the seaport at Port-au-Prince;
+
+&emsp;&emsp;&emsp;“(ii) facilitating trade between the United States and Haiti under the Caribbean Basin Economic Recovery Act \[19 U.S.C. 2701 et seq.\], as amended by this Act;
+
+&emsp;&emsp;&emsp;“(iii) preventing unlawful transshipment of goods through Haiti to the United States; and
+
+&emsp;&emsp;&emsp;“(iv) otherwise strengthening cooperation between the customs authorities of the United States, Haiti, and the Dominican Republic with respect to trade facilitation and economic development, customs compliance and law enforcement, and efforts to combat unlawful trafficking in narcotic drugs and psychotropic substances.
+
+&emsp;“(2)
+
+Report.—Not later than 75 days after the date of the enactment of this Act \[May 24, 2010\], the Commissioner shall prepare and submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a nonconfidential report summarizing the results of the assessment required by paragraph (1)(A), including—
+
+&emsp;&emsp;“(A) a description of the short-term and long-term technical, capacity-building, and training needs of the authorities of the Government of Haiti responsible for customs services, including a prioritization of immediate infrastructure needs;
+
+&emsp;&emsp;“(B) a multi-year plan for supplying technical, capacity-building, and training assistance to those authorities, including specific responsibilities to be undertaken by the support team authorized by subsection (b); and
+
+&emsp;&emsp;“(C) a statement of the amount and purpose for which any funds were expended by the rapid response team in Haiti to administer the provisions of this section, including any expenditure of funds authorized to be appropriated pursuant to subsection (c)(1).
+
+“(b)
+
+Support Team.—
+
+&emsp;“(1)
+
+In general.—The Commissioner shall, in consultation with other Federal agencies, as appropriate, seek to establish a support team in Haiti for the purpose of helping to meet the short-term and long-term technical, capacity-building, and training needs of the authorities of the Government of Haiti responsible for customs services, as described in this section.
+
+&emsp;“(2)
+
+Termination.—The support team authorized by paragraph (1) shall terminate on September 30, 2020.
+
+“(c)
+
+Authorization of Appropriations.—
+
+&emsp;“(1)
+
+In general.—There are authorized to be appropriated to the United States Customs and Border Protection Agency, to remain available until expended—
+
+&emsp;&emsp;“(A) $100,000 to help meet the immediate infrastructure needs of the authorities of the Government of Haiti responsible for customs services for the purpose of facilitating trade between the United States and Haiti under the Caribbean Basin Economic Recovery Act \[19 U.S.C. 2701 et seq.\], as amended by this Act; and
+
+&emsp;&emsp;“(B) $750,000 for each of the fiscal years 2011 through 2020 for the purpose of maintaining the support team authorized by subsection (b).
+
+&emsp;“(2)
+
+Supplement and not supplant.—The amounts authorized to be appropriated by paragraph (1) shall supplement and not supplant any other funds authorized to be appropriated to the Department of Homeland Security.”
 
 #### Presidential Proclamation Authority
 

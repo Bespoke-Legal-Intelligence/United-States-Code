@@ -10,7 +10,7 @@ Research on Effect of Automation on Performance.—To develop the means necessar
 
 &emsp;(3) the attributes and aptitudes needed to function well in a highly automated air traffic control system and the development of appropriate testing methods for identifying individuals with those attributes and aptitudes;
 
-&emsp;(4) innovative methods for training potential air traffic controllers to enhance the benefitsof automation and maximize the effectiveness of the air traffic control system; and
+&emsp;(4) innovative methods for training potential air traffic controllers to enhance the benefits of automation and maximize the effectiveness of the air traffic control system; and
 
 &emsp;(5) new technologies and procedures for exploiting automated communication systems, including Mode S Transponders, to improve information transfers between air traffic controllers and aircraft pilots.
 
@@ -28,7 +28,7 @@ Research on Human Factor Aspects of Automation.—The Administrators of the Fede
 
 Collegiate Training Initiative.—(1) The Administrator of the Federal Aviation Administration may maintain the Collegiate Training Initiative program by making new agreements and continuing existing agreements with institutions of higher education (as defined by the Administrator) under which the institutions prepare students for the position of air traffic controller with the Department of Transportation (as defined in section 2109 of title 5). The Administrator may establish standards for the entry of institutions into the program and for their continued participation.
 
-(2)(A) The Administrator of the Federal Aviation Administration may appoint an individual who has successfully completed a course of training in a program described in paragraph (1) of this subsection to the position of air traffic controller noncompetitively in the excepted service (as defined in section 2103 of title 5). An individual appointed under this paragraph serves at the pleasure of the Administrator, subject to section 7511 of title 5. However, an appointment under this paragraph may be converted from one in the excepted service to a career conditional or career appointment in the competitive civil service (as defined in section 2102 of title 5) when the individual achieves full performance level air traffic controller status, as decided by the Administrator.
+(2)(A) The Administrator of the Federal Aviation Administration may appoint an individual who has successfully completed a course of training in a program described in paragraph (1) of this subsection to the position of air traffic controller noncompetitively in the excepted service (as defined in section 2103 of title 5). An individual appointed under this paragraph serves at the pleasure of the Administrator, subject to section 7511 of title 5. However, an appointment under this paragraph may be converted from one in the excepted service to a career conditional or career appointment in the competitive civil service (as defined in section 2102 of title 5) when the individual achieves fullperformance level air traffic controller status, as decided by the Administrator.
 
 (B) The authority under subparagraph (A) of this paragraph to make appointments in the excepted service expires on October 6, 1997, except that the Administrator of the Federal Aviation Administration may extend the authority for one or more successive one-year periods.
 
@@ -78,7 +78,7 @@ In subsection (c), the words “institutions of higher education” are substitu
 
 #### Amendments
 
-1996—Subsec. (d). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+<b>1996</b>—Subsec. (d). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
 
 #### Controller Staffing
 
@@ -106,7 +106,7 @@ Development.—The Administrator shall develop a comprehensive human capital wor
 
 &emsp;“(2)
 
-Completion date.—Not later than 1 year after the date of enactment of this Act \[Dec. 12, 2003\], theAdministrator shall complete development of the strategy.
+Completion date.—Not later than 1 year after the date of enactment of this Act \[Dec. 12, 2003\], the Administrator shall complete development of the strategy.
 
 &emsp;“(3)
 

@@ -12,7 +12,7 @@
 
 #### Amendments
 
-1976—Par. (1). Pub. L. 94–455, §1952(n)(1), redesignated par. (3) as (1).
+<b>1976</b>—Par. (1). Pub. L. 94–455, §1952(n)(1), redesignated par. (3) as (1).
 
 Par. (2). Pub. L. 94–455, §1952(n)(1), redesignated par. (6) as (2). Former par. (2), relating to cotton futures, with the included reference to subchapter D of chapter 39, was struck out.
 
@@ -30,15 +30,15 @@ Par. (11). Pub. L. 94–455, §1952(n)(1), redesignated par. (11) as (3).
 
 Par. (12). Pub. L. 94–455, §1904(b)(8)(B), struck out par. (12) relating to white phosphorous matches, with the included reference to subchapter B of chapter 39.
 
-1974—Par. (5). Pub. L. 93–490 struck out par. (5) relating to filled cheese, with the included reference to subchapter C of chapter 39.
+<b>1974</b>—Par. (5). Pub. L. 93–490 struck out par. (5) relating to filled cheese, with the included reference to subchapter C of chapter 39.
 
-1970—Par. (8). Pub. L. 91–513 struck out par. (8) relating to opium, opium for smoking, opiates, coca leaves, and marihuana, with the included reference to subchapter A of chapter 39.
+<b>1970</b>—Par. (8). Pub. L. 91–513 struck out par. (8) relating to opium, opium for smoking, opiates, coca leaves, and marihuana, with the included reference to subchapter A of chapter 39.
 
-1965—Par. (1). Pub. L. 89–44 struck out par. (1) relating to capital stock.
+<b>1965</b>—Par. (1). Pub. L. 89–44 struck out par. (1) relating to capital stock.
 
 Par. (9). Pub. L. 89–44 struck out par (9) relating to playing cards.
 
-1963—Pars. (11) to (13). Pub. L. 88–36 redesignated pars. (12) and (13) as (11) and (12), respectively, and struck out former par. (11), which was a cross reference provision for silver bullion, to subchapter F of chapter 9.
+<b>1963</b>—Pars. (11) to (13). Pub. L. 88–36 redesignated pars. (12) and (13) as (11) and (12), respectively, and struck out former par. (11), which was a cross reference provision for silver bullion, to subchapter F of chapter 9.
 
 #### Effective Date of 1976 Amendment
 

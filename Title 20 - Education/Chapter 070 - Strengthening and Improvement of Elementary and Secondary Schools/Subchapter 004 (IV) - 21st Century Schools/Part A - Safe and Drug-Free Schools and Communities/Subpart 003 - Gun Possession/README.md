@@ -1,7 +1,5 @@
 subpart 3—gun possession
 
-<i><sup>1</sup></i><i> So in original. No cl. (vii) has been enacted.</i>
-
 
 ---
 

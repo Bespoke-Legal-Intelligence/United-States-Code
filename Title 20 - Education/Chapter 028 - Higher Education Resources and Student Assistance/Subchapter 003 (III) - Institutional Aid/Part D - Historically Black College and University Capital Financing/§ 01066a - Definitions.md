@@ -48,7 +48,7 @@ A prior section 342 of Pub. L. 89–329 was classified to section 1067 of this t
 
 #### Amendments
 
-2008—Par. (5). Pub. L. 110–315, §320(1)(A), inserted a comma after “1066c(b) of this title” in introductory provisions.
+<b>2008</b>—Par. (5). Pub. L. 110–315, §320(1)(A), inserted a comma after “1066c(b) of this title” in introductory provisions.
 
 Par. (5)(C). Pub. L. 110–315, §320(1)(B), substituted “equipment, technology,” for “equipment technology,,”.
 
@@ -56,7 +56,7 @@ Par. (5)(G). Pub. L. 110–315, §314(a)(1), substituted “by an accrediting ag
 
 Par. (8). Pub. L. 110–315, §314(a)(2), inserted “capital project” after “issuing taxable”.
 
-1998—Par. (3). Pub. L. 105–244, §301(c)(4)(A), substituted “section 1066b(b)” for “section 1132c–2(b)”.
+<b>1998</b>—Par. (3). Pub. L. 105–244, §301(c)(4)(A), substituted “section 1066b(b)” for “section 1132c–2(b)”.
 
 Par. (4). Pub. L. 105–244, §301(c)(4)(B), substituted “section 1066b” for “section 1132c–2”.
 

@@ -20,7 +20,7 @@
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 534 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 534 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “1511” for “511” in introductory provisions.
 
@@ -28,7 +28,7 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administ
 
 Pub. L. 102–54 substituted a period for semicolon at end of par. (2) and struck out at end “; unless such surviving spouse was the spouse of the veteran during such veteran's service in one of the Indian Wars, in which case the monthly rate shall be $75.”
 
-1975—Pub. L. 94–169, §106(29), substituted “Surviving spouses” for “Widows” in section catchline.
+<b>1975</b>—Pub. L. 94–169, §106(29), substituted “Surviving spouses” for “Widows” in section catchline.
 
 Subsec. (a). Pub. L. 94–169, §106(26), substituted “pay to a surviving spouse” for “paid to a widow”, “unless such surviving spouse” for “she” wherever appearing, “was the spouse” for “was the wife” and “such veteran's” for “his”.
 
@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 94–169, §106(27), substituted “surviving spouse” for
 
 Subsec. (c). Pub. L. 94–169, §106(28), substituted “paid to a surviving spouse” for “paid to a widow”, “unless such surviving spouse” for “unless she” and “such veteran” for “him”.
 
-1967—Subsec. (a)(2). Pub. L. 90–77, §105, substituted “$70” for “$65”.
+<b>1967</b>—Subsec. (a)(2). Pub. L. 90–77, §105, substituted “$70” for “$65”.
 
 Subsec. (c). Pub. L. 90–77, §101(a), qualified widow of a veteran for a pension by reducing in par. (2) the requisite marriage period from five years to one year and by making her eligible for benefits in par. (3) in event of antenuptial birth.
 

@@ -42,7 +42,7 @@ If the President determines it to be in the national interest pursuant to subsec
 
 &emsp;(C) the recovery of ordinary inventory losses associated with the sale from stock of defense articles that are being stored at the expense of the purchaser of such articles.
 
-(2)(A) The President may reduce or waive the charge or charges which would otherwise be considered appropriate under paragraph (1)(B) for particular sales that would, if made, significantly advance United States Government interests in North Atlantic Treaty Organization standardization, standardization with the Armed Forces of Japan, Australia, the Republic of Korea, or New Zealand in furtherance of the mutual defense treaties between the United States and those countries, or foreign procurement in the United States under coproduction arrangements.
+(2)(A) The President may reduce or waive the charge or charges which would otherwise be considered appropriate under paragraph (1)(B) for particular sales that would, if made, significantly advance United States Government interests in North Atlantic Treaty Organization standardization, standardization with the Armed Forces of Japan, Australia, the Republic of Korea, Israel, or New Zealand in furtherance of the mutual defense treaties between the United States and those countries, or foreign procurement in the United States under coproduction arrangements.
 
 (B) The President may waive the charge or charges which would otherwise be considered appropriate under paragraph (1)(B) for a particular sale if the President determines that—
 
@@ -72,7 +72,7 @@ If the President determines it to be in the national interest pursuant to subsec
 
 #### (f) Public inspection of contracts
 
-Any contracts entered into between the United States and a foreign country under the authority of this section or section 2762 of this title shall be prepared in a manner which will permit them to be made available for public inspection to the fullest extent possible consistent with the national security of the United States.
+Any contracts entered into between the United States and a foreign country under theauthority of this section or section 2762 of this title shall be prepared in a manner which will permit them to be made available for public inspection to the fullest extent possible consistent with the national security of the United States.
 
 #### (g) North Atlantic Treaty Organization standardization agreements, similar agreements; reimbursement for costs; transmittal to Congress
 
@@ -90,7 +90,7 @@ The President may enter into North Atlantic Treaty Organization standardization 
 
 #### (i) Sales affecting combat readiness of Armed Forces; statement to Congress; limitation on delivery
 
-(1) Sales of defense articles and defense services which could have significant adverse effect on the combat readiness of the Armed Forces of the United States shall be kept to an absolute minimum. The President shall transmit to the Speaker of the House of Representatives and the Committees on Armed Services and Foreign Relations of the Senate on the same day a written statement giving a complete explanation with respect to any proposal to sell, under this section or under authority of subchapter II–B of this chapter, any defense articles or defense services if such sale could have a significant adverse effect on the combat readiness of the Armed Forces of the United States. Each such statement shall be unclassified except to the extent that public disclosure of any item of information contained therein would be clearly detrimental to the security of the United States. Any necessarily classified information shall be confined to a supplemental report. Each such statement shall include an explanation relating to only one such proposal to sell and shall set forth—
+(1) Sales of defense articles and defense services which could have significant adverse effect on the combat readiness of the Armed Forces of the United States shall be kept to an absolute minimum. The President shall transmit to the Speaker of the House of Representatives and the Committees on Armed Services and Foreign Relations of the Senate on the same day a written statement giving a complete explanation with respect to any proposal to sell, under this section or under authority of subchapter II–B, any defense articles or defense services if such sale could have a significant adverse effect on the combat readiness of the Armed Forces of the United States. Each such statement shall be unclassified except to the extent that public disclosure of any item of information contained therein would be clearly detrimental to the security of the United States. Any necessarily classified information shall be confined to a supplemental report. Each such statement shall include an explanation relating to only one such proposal to sell and shall set forth—
 
 &emsp;(A) the country or international organization to which the sale is proposed to be made;
 
@@ -178,11 +178,13 @@ Before entering into the sale under this chapter of defense articles that are ex
 
 &emsp;The authority of the President to accept the return of a defense article as provided in paragraph (1) shall not be subject to chapter 137 of title 10 or any other provision of law relating to the conclusion of contracts.
 
-(Pub. L. 90–629, ch. 2, §21, Oct. 22, 1968, 82 Stat. 1323; Pub. L. 94–329, title II, §§205, 206, June 30, 1976, 90 Stat. 736, 738; Pub. L. 95–384, §16, Sept. 26,1978, 92 Stat. 740; Pub. L. 96–92, §12, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §§102, 103, 105(b)(1), 115(b)(2), Dec. 16, 1980, 94 Stat. 3132, 3134, 3140; Pub. L. 97–113, title I, §§103, 104, Dec. 29, 1981, 95 Stat. 1521; Pub. L. 97–392, §3, Dec. 29, 1982, 96 Stat. 1963; Pub. L. 98–473, title I, §101(1) \[title III, §301\], Oct. 12, 1984, 98 Stat. 1884, 1895; Pub. L. 99–83, title I, §§107(a), 108–111, Aug. 8, 1985, 99 Stat. 196, 197; Pub. L. 100–202, §101(e) \[title V, §580\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–181; Pub. L. 100–456, div. A, title X, §1002, Sept. 29, 1988, 102 Stat. 2037; Pub. L. 101–165, title IX, §9104(c), Nov. 21, 1989, 103 Stat. 1152; Pub. L. 102–25, title VII, §705(d)(1), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–484, div. A, title I, §114, Oct. 23, 1992, 106 Stat. 2333; Pub. L. 103–236, title VII, §731(d), Apr. 30, 1994, 108 Stat. 503; Pub. L. 104–106, div. A, title I, §112, div. D, title XLIII, §4303(a), Feb. 10, 1996, 110 Stat. 206, 658; Pub. L. 104–164, title I, §§104(b)(1), 112(c)(2), 147(a)(3)(A), (b), 152(a), (b), July 21, 1996, 110 Stat. 1426, 1428, 1435, 1438, 1439; Pub. L. 104–201, div. B, title XXVIII, §2802(d)(2), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1222\], Nov. 29, 1999, 113 Stat. 1536, 1501A–498; Pub. L. 109–102, title V, §534(<i>l</i>)(1), (2), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 110–429, title II, §203(b)(1), (3), (4), Oct. 15, 2008, 122 Stat. 4845.)
+(Pub. L. 90–629, ch. 2, §21, Oct. 22, 1968, 82 Stat. 1323; Pub. L. 94–329, title II, §§205, 206, June 30, 1976, 90 Stat. 736, 738; Pub. L. 95–384, §16, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–92, §12, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §§102, 103, 105(b)(1), 115(b)(2), Dec. 16, 1980, 94 Stat. 3132, 3134, 3140; Pub. L. 97–113, title I, §§103, 104, Dec. 29, 1981, 95 Stat. 1521; Pub. L. 97–392, §3, Dec. 29, 1982, 96 Stat. 1963; Pub. L. 98–473, title I, §101(1) \[title III, §301\], Oct. 12, 1984, 98 Stat. 1884, 1895; Pub. L. 99–83, title I, §§107(a), 108–111, Aug. 8, 1985, 99 Stat. 196, 197; Pub. L. 100–202, §101(e) \[title V, §580\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–181; Pub. L. 100–456, div. A, title X, §1002, Sept. 29, 1988, 102 Stat. 2037; Pub. L. 101–165, title IX, §9104(c), Nov. 21, 1989, 103 Stat. 1152; Pub. L. 102–25, title VII, §705(d)(1), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–484, div. A, title I, §114, Oct. 23, 1992, 106 Stat. 2333; Pub. L. 103–236, title VII, §731(d), Apr. 30, 1994, 108 Stat. 503; Pub. L. 104–106, div. A, title I, §112, div. D, title XLIII, §4303(a), Feb. 10, 1996, 110 Stat. 206, 658; Pub. L. 104–164, title I, §§104(b)(1), 112(c)(2), 147(a)(3)(A), (b), 152(a), (b), July 21, 1996, 110 Stat. 1426, 1428, 1435, 1438, 1439; Pub. L. 104–201, div. B, title XXVIII, §2802(d)(2), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1222\], Nov. 29, 1999, 113 Stat. 1536, 1501A–498; Pub. L. 109–102, title V, §534(<i>l</i>)(1), (2), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 110–429, title II, §203(b)(1), (3), (4), Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title III, §301(1), Oct. 8, 2010, 124 Stat. 2804.)
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1)(C) and (c)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. Chapter 5 of part II of such Act is classified generally to part V of subchapter II (§2347 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+
+The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1)(C) and (c)(2), is Pub. L. 87–195, Sept. 4, 1961,75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. Chapter 5 of part II of such Act is classified generally to part V of subchapter II (§2347 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 Section 814 of the act of October 7, 1975 (Public Law 94–106), referred to in subsec. (g), is not classified to the Code.
 
@@ -192,19 +194,21 @@ Amendment by Pub. L. 98–473 is based on section 102 of S. 2346, Ninety-eighth 
 
 #### Amendments
 
-2008—Subsec. (e)(2)(A). Pub. L. 110–429, §203(b)(1), inserted “the Republic of Korea,” before “or New Zealand”.
+<b>2010</b>—Subsec. (e)(2)(A). Pub. L. 111–266 inserted “Israel,” before “or New Zealand”.
+
+<b>2008</b>—Subsec. (e)(2)(A). Pub. L. 110–429, §203(b)(1), inserted “the Republic of Korea,” before “or New Zealand”.
 
 Subsec. (h)(1)(A). Pub. L. 110–429, §203(b)(3), inserted “the Republic of Korea,” before “or Israel”.
 
 Subsec. (h)(2). Pub. L. 110–429, §203(b)(4), substituted “, to any member government of that Organization, or to the Governments of the Republic of Korea, Australia, New Zealand, Japan, or Israel if that Organization, member government, or the Governments of the Republic of Korea, Australia, New Zealand, Japan, or Israel” for “or to any member government of that Organization if that Organization or member government”.
 
-2005—Subsec. (h)(1)(A). Pub. L. 109–102, §534(<i>l</i>)(1), inserted “or the Governments of Australia, New Zealand, Japan, or Israel” after “North Atlantic Treaty Organization”.
+<b>2005</b>—Subsec. (h)(1)(A). Pub. L. 109–102, §534(<i>l</i>)(1), inserted “or the Governments of Australia, New Zealand, Japan, or Israel” after “North Atlantic Treaty Organization”.
 
 Subsec. (h)(2). Pub. L. 109–102, §534(<i>l</i>)(2), which directed the substitution of “, to any member of that Organization, or to the Governments of Australia, New Zealand, Japan, or Israel if that Organization, member government, or the Governments of Australia, New Zealand, Japan, or Israel” for “or to any member government that Organization if that Organization or member government”, could not be executed because the phrase “or to any member government that Organization if that Organization or member government” does not appear in text.
 
-1999—Subsec. (a)(1). Pub. L. 106–113 inserted “and the Coast Guard” after “Department of Defense” in introductory provisions.
+<b>1999</b>—Subsec. (a)(1). Pub. L. 106–113 inserted “and the Coast Guard” after “Department of Defense” in introductory provisions.
 
-1996—Subsec. (a)(1)(C). Pub. L. 104–164, §112(c)(2), inserted “or to any high-income foreign country (as described in that chapter)”.
+<b>1996</b>—Subsec. (a)(1)(C). Pub. L. 104–164, §112(c)(2), inserted “or to any high-income foreign country (as described in that chapter)”.
 
 Subsec. (e)(2). Pub. L. 104–106, §4303(a), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
@@ -228,13 +232,13 @@ Subsec. (<i>l</i>). Pub. L. 104–164, §152(a), added subsec. (<i>l</i>).
 
 Subsec. (m). Pub. L. 104–164, §152(b), added subsec. (m).
 
-1994—Subsec. (k). Pub. L. 103–236 added subsec. (k).
+<b>1994</b>—Subsec. (k). Pub. L. 103–236 added subsec. (k).
 
-1992—Subsec. (j). Pub. L. 102–484 added subsec. (j).
+<b>1992</b>—Subsec. (j). Pub. L. 102–484 added subsec. (j).
 
-1991—Subsec. (g). Pub. L. 102–25 substituted “section 2350a(i)(3) of title 10” for “section 2767a of this title”.
+<b>1991</b>—Subsec. (g). Pub. L. 102–25 substituted “section 2350a(i)(3) of title 10” for “section 2767a of this title”.
 
-1989—Subsec. (e)(1)(A). Pub. L. 101–165, §9104(c)(1), inserted reference to section 2792(b) and (c) of this title.
+<b>1989</b>—Subsec. (e)(1)(A). Pub. L. 101–165, §9104(c)(1), inserted reference to section 2792(b) and (c) of this title.
 
 Subsec. (e)(1)(B). Pub. L. 101–165, §9104(c)(2), (3), redesignated subpar. (C) as (B) and inserted exception for equipment wholly paid for from funds transferred under the Foreign Assistance Act of 1961 or from funds made available under section 2763 of this title. Former subpar. (B), which included charges for any use of plant and production equipment in connection with defense articles, was struck out.
 
@@ -242,11 +246,11 @@ Subsec. (e)(1)(C), (D). Pub. L. 101–165, §9104(c)(3), redesignated subpar. (D
 
 Subsec. (e)(2). Pub. L. 101–165, §9104(c)(4), substituted reference to par. (1)(B) for reference to pars. (1)(B) and (1)(C).
 
-1988—Subsec. (e)(3). Pub. L. 100–456 added par. (3).
+<b>1988</b>—Subsec. (e)(3). Pub. L. 100–456 added par. (3).
 
-1987—Subsec. (g). Pub. L. 100–202 inserted “and with other countries which are major non-NATO allies,” after “New Zealand,” and inserted last sentence defining “major non-NATO allies”.
+<b>1987</b>—Subsec. (g). Pub. L. 100–202 inserted “and with other countries which are major non-NATO allies,” after “New Zealand,” and inserted last sentence defining “major non-NATO allies”.
 
-1985—Subsec. (a)(1). Pub. L. 99–83, §107(a)(1), (2), designated existing provisions as par. (1), and substituted“(A)”, “(B)”, and “(C)” for “(1)”, “(2)”, and “(3)”, respectively.
+<b>1985</b>—Subsec. (a)(1). Pub. L. 99–83, §107(a)(1), (2), designated existing provisions as par. (1), and substituted “(A)”, “(B)”, and “(C)” for “(1)”, “(2)”, and “(3)”, respectively.
 
 Subsec. (a)(1)(C). Pub. L. 99–83, §108(a), inserted provisions relating to training sold to a purchaser receiving assistance under chapter 5 of part II of the Foreign Assistance Act of 1961.
 
@@ -260,17 +264,17 @@ Subsec. (h)(1). Pub. L. 99–83, §§110, 111(1), (2), designated existing provi
 
 Subsec. (h)(2). Pub. L. 99–83, §111(3), added par. (2).
 
-1984—Subsec. (a)(3). Pub. L. 98–473 struck out “sold to a purchaser who is concurrently receiving assistance under chapter 5 of part II of the Foreign Assistance Act of 1961” after “in the case of training”.
+<b>1984</b>—Subsec. (a)(3). Pub. L. 98–473 struck out “sold to a purchaser who is concurrently receiving assistance under chapter 5 of part II of the Foreign Assistance Act of 1961” after “in the case of training”.
 
 Subsec. (g). Pub. L. 98–473 struck out subsec. (g) which related to NATO standardization agreements and similar agreements with Japan, Australia, and New Zealand.
 
-1982—Subsec. (i)(1). Pub. L. 97–392 inserted reference to proposals to sell under the authority of subchapter II–B of this chapter.
+<b>1982</b>—Subsec. (i)(1). Pub. L. 97–392 inserted reference to proposals to sell under the authority of subchapter II–B.
 
-1981—Subsec. (c)(2). Pub. L. 97–113, §103, substituted provision for a report within forty-eight hours of existence of or change in status of significant hostilities or terrorist acts or series of such acts, which may endanger American lives or property for provision for a report within 48 hours after outbreak of significant hostilities and omitted provision for statement of relation between the defense services and hostilities in the country, the location and precise nature of personnel activities, and likelihood of personnel engagement in the hostilities.
+<b>1981</b>—Subsec. (c)(2). Pub. L. 97–113, §103, substituted provision for a report within forty-eight hours of existence of or change in status of significant hostilities or terrorist acts or series of such acts, which may endanger American lives or property for provision for a report within 48 hours after outbreak of significant hostilities and omitted provision for statement of relation between the defense services and hostilities in the country, the location and precise nature of personnel activities, and likelihood of personnel engagement in the hostilities.
 
 Subsec. (e)(2). Pub. L. 97–113, §104, authorized reduction or waiver of charges for use and nonrecurring research, development, and production costs respecting sales significantly advancing United States interests in standardization with Armed Forces of Japan, Australia, or New Zealand in furtherance of the mutual defense treaties between the United States and those countries.
 
-1980—Subsec. (a)(3). Pub. L. 96–533, §115(b)(2), included payment, in case of training sold to a purchaser currently receiving international military education and training assistance, of additional costs incurred by the United States Government in furnishing the training.
+<b>1980</b>—Subsec. (a)(3). Pub. L. 96–533, §115(b)(2), included payment, in case of training sold to a purchaser currently receiving international military education and training assistance, of additional costs incurred by the United States Government in furnishing the training.
 
 Subsec. (c). Pub. L. 96–533, §102, designated existing provision as par. (1), substituted “training and advising that may engage United States personnel in combat activities” for “training, advising, or otherwise providing assistance regarding combat activities”, and added par. (2).
 
@@ -278,11 +282,11 @@ Subsec. (g). Pub. L. 96–533, §103, authorized the President to enter into sta
 
 Subsec. (h). Pub. L. 96–533, §105(b)(1), substituted “defense articles, defense services, or design and construction services” for “defense articles or defense services” in two places.
 
-1979—Subsecs. (h), (i). Pub. L. 96–92 added subsec. (h) and redesignated former subsec. (h) as (i).
+<b>1979</b>—Subsecs. (h), (i). Pub. L. 96–92 added subsec. (h) and redesignated former subsec. (h) as (i).
 
-1978—Subsec. (e)(1)(D). Pub. L. 95–384 added subpar. (D).
+<b>1978</b>—Subsec. (e)(1)(D). Pub. L. 95–384 added subpar. (D).
 
-1976—Subsec. (a). Pub. L. 94–329, §205, designated existing provisions as subsec. (a) and substituted provisions authorizing President to sell defense articles and defense services from Department of Defense stocks to eligible countries and international organizations who agree to pay specified values for such articles and services in United States dollars, for provisions requiring that payment for defense articles and defense services from stocks be made in advance, or if in the best interest of the United States as determined by the President, within a reasonable period not to exceed 120 days after delivery of the articles or rendering of the services.
+<b>1976</b>—Subsec. (a). Pub. L. 94–329, §205, designated existing provisions as subsec. (a) and substituted provisions authorizing President to sell defense articles and defense services from Department of Defense stocks to eligible countries and international organizations who agree to pay specified values for such articles and services in United States dollars, for provisions requiring that payment for defense articles and defense services from stocks be made in advance, or if in the best interest of the United States as determined by the President, within a reasonable period not to exceed 120 days after delivery of the articles or rendering of the services.
 
 Subsecs. (b) to (h). Pub. L. 94–329, §§205, 206, added subsecs. (b) to (h).
 

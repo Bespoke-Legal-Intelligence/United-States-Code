@@ -34,11 +34,11 @@ In determining the period for which a partner has held property received in a di
 
 #### Amendments
 
-1997—Subsecs. (a)(2), (c)(1). Pub. L. 105–34 substituted “section 751(d)” for “section 751(d)(2)”.
+<b>1997</b>—Subsecs. (a)(2), (c)(1). Pub. L. 105–34 substituted “section 751(d)” for “section 751(d)(2)”.
 
-1984—Subsec. (c). Pub. L. 98–369 added subsec. (c).
+<b>1984</b>—Subsec. (c). Pub. L. 98–369 added subsec. (c).
 
-1976—Subsec. (a)(1), (2). Pub. L. 94–455 substituted “as ordinary income or as ordinary loss, as the case may be” for “gain or loss from the sale or exchange of property other than a capital asset”.
+<b>1976</b>—Subsec. (a)(1), (2). Pub. L. 94–455 substituted “as ordinary income or as ordinary loss, as the case may be” for “gain or loss from the sale or exchange of property other than a capital asset”.
 
 #### Effective Date of 1997 Amendment
 

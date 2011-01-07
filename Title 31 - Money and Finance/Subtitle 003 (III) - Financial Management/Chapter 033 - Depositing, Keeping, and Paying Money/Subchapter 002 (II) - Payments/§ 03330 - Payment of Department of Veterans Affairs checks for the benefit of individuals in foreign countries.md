@@ -64,7 +64,7 @@ In subsection (a)(1), before clause (A), the word “issued” is substituted fo
 
 In subsection (b), the words “under section 3329(b)(4) of this title” are substituted for “to the special deposit account” for clarity and because of the restatement. The words “deposited in” are substituted for “covered into” for clarity and consistency in the revised title.
 
-In subsection (c), before clause (1), the word “accruing” is omitted as surplus. In clauses (1) and (2), the words “surviving spouse” and “spouse” are substituted for “widow”, and the word “spouse's” is substituted for “widow's”, to conform to amendments made generally to title 38 by the Veterans Disability Compensation and Survivor Benefits Act of 1976 (Pub. L. 94–433, 90 Stat. 1374). In clause (1), the words “first to” are omitted as surplus. In clause (4), the word “only” is substituted for “no disbursement whatsoever of such pension, compensation, or emergency officers’ retirement pay shall be made or allowed except so much” to eliminate unnecessary words.
+In subsection (c), before clause (1), the word “accruing” is omitted as surplus. In clauses (1) and (2), the words “surviving spouse” and “spouse” are substituted for “widow”, and the word “spouse's” is substituted for “widow's”, to conform to amendments made generally to title 38 by the Veterans Disability Compensation and Survivor Benefits Act of 1976 (Pub. L. 94–433, 90 Stat. 1374). In clause (1), the words “first to” are omitted assurplus. In clause (4), the word “only” is substituted for “no disbursement whatsoever of such pension, compensation, or emergency officers’ retirement pay shall be made or allowed except so much” to eliminate unnecessary words.
 
 In subsection (d)(1)(B), the word “completed” is substituted for “perfected” for clarity.
 
@@ -72,9 +72,9 @@ In subsection (d)(2), the words “and unpaid” are omitted as surplus.
 
 #### Amendments
 
-1994—Subsec. (d)(1)(B). Pub. L. 103–272 substituted “Secretary of Veterans Affairs” for “Administrator”.
+<b>1994</b>—Subsec. (d)(1)(B). Pub. L. 103–272 substituted “Secretary of Veterans Affairs” for “Administrator”.
 
-1991—Pub. L. 102–54, §13(<i>l</i>)(4)(A), substituted “Department of Veterans Affairs” for “Veterans’ Administration” in section catchline.
+<b>1991</b>—Pub. L. 102–54, §13(<i>l</i>)(4)(A), substituted “Department of Veterans Affairs” for “Veterans’ Administration” in section catchline.
 
 Subsec. (a)(1)(B). Pub. L. 102–54, §13(<i>l</i>)(3)(A), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 

@@ -6,7 +6,7 @@ A homeownership program under this subchapter shall provide for acquisition by e
 
 #### (b) Affordability
 
-A homeownership program under this subchapter shall provide for the establishment of sales prices (including principal, insurance, taxes, and interest and closing costs) for initial acquisition of the property from the public housing agency if the applicant is not a publichousing agency, and for sales to eligible families, such that an eligible family shall not be required to expend more than 30 percent of the adjusted income of the family per month to complete a sale under the homeownership program.
+A homeownership program under this subchapter shall provide for the establishment of sales prices (including principal, insurance, taxes, and interest and closing costs) for initial acquisition of the property from the public housing agency if the applicant is not a public housing agency, and for sales to eligible families, such that an eligible family shall not be required to expend more than 30 percent of the adjusted income of the family per month to complete a sale under the homeownership program.
 
 #### (c) Plan
 
@@ -66,7 +66,7 @@ The application shall include a plan ensuring that the unit—
 
 #### (2) Replacement assistance
 
-&emsp;If the tenant decides not to purchase a unit, or is not qualified to do so, the recipient shall, during the term of any operating assistance under the implementation grant, permit each otherwise qualified tenant to continue to reside in the project at rents that do not exceed levels consistent with section 1437a(a) of this title or, if an otherwise qualified tenant chooses to move (at any time during the term of such operating assistance contract), the public housing agency shall, to the extent approved in appropriations Acts, offer such tenant (A) a unit in another public housing project, or (B) section 8 \[42 U.S.C. 1437f\] assistance for use in other housing.
+&emsp;If the tenant decides not to purchase a unit, or is not qualified to do so, the recipient shall,during the term of any operating assistance under the implementation grant, permit each otherwise qualified tenant to continue to reside in the project at rents that do not exceed levels consistent with section 1437a(a) of this title or, if an otherwise qualified tenant chooses to move (at any time during the term of such operating assistance contract), the public housing agency shall, to the extent approved in appropriations Acts, offer such tenant (A) a unit in another public housing project, or (B) section 8 \[42 U.S.C. 1437f\] assistance for use in other housing.
 
 #### (3) Relocation assistance
 
@@ -86,11 +86,11 @@ This subchapter, referred to in subsec. (e)(3), was in the original “this subt
 
 #### Amendments
 
-1998—Subsec. (g). Pub. L. 105–276 struck out subsec. (g) which prohibited transfer of projects without plan for replacement housing. See 1995 Amendment note below.
+<b>1998</b>—Subsec. (g). Pub. L. 105–276 struck out subsec. (g) which prohibited transfer of projects without plan for replacement housing. See 1995 Amendment note below.
 
-1995—Subsec. (g). Pub. L. 104–19 struck out subsec. (g) which prohibited transfer of projects without plan for replacement housing.
+<b>1995</b>—Subsec. (g). Pub. L. 104–19 struck out subsec. (g) which prohibited transfer of projects without plan for replacement housing.
 
-1992—Subsec. (d). Pub. L. 102–550 struck out “(not including scattered site single family housing of a public housing agency)” after “housing project”.
+<b>1992</b>—Subsec. (d). Pub. L. 102–550 struck out “(not including scattered site single family housing of a public housing agency)” after “housing project”.
 
 #### Effective Date of 1998 Amendment
 

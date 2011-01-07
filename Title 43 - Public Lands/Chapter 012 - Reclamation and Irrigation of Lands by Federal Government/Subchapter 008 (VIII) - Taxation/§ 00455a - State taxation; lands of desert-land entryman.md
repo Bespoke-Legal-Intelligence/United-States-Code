@@ -10,5 +10,5 @@ The Reclamation Act, referred to in text, is identified in section 455 of this t
 
 #### Amendments
 
-1930—Act June 13, 1930, reenacted section without change.
+<b>1930</b>—Act June 13, 1930, reenacted section without change.
 

@@ -12,9 +12,9 @@ Provisions similar to those comprising this section were contained in prior sect
 
 #### Amendments
 
-1997—Pub. L. 105–34 substituted “paid on such beer if there is such proof of exportation as the Secretary may by regulations require.” for “found to have been paid on such beer, to be paid on submission of such evidence, records and certificates indicating exportation, as the Secretary may by regulations prescribe.”
+<b>1997</b>—Pub. L. 105–34 substituted “paid on such beer if there is such proof of exportation as the Secretary may by regulations require.” for “found to have been paid on such beer, to be paid on submission of such evidence, records and certificates indicating exportation, as the Secretary may by regulations prescribe.”
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 1997 Amendment
 

@@ -16,7 +16,7 @@ The Secretary of the Treasury shall cover into the Hungarian Claims Fund, such s
 
 #### Amendments
 
-1974—Subsec. (c). Pub. L. 93–460 added subsec. (c).
+<b>1974</b>—Subsec. (c). Pub. L. 93–460 added subsec. (c).
 
-1968—Pub. L. 90–421 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1968</b>—Pub. L. 90–421 designated existing provisions as subsec. (a) and added subsec. (b).
 

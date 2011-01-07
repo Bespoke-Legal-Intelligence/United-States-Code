@@ -8,11 +8,11 @@ The personnel employed in connection with, and the assets, liabilities, contract
 
 #### (c) Employment, compensation, authority, and duties of personnel
 
-The Secretary is authorized, subject to the civil service and classification laws, to select, appoint, employ, and fix the compensation of such officers and employees, including attorneys, as shall be necessary to carry out the provisions of this chapter and to prescribe their authority and duties: <i>Provided</i>, That any other provision of law to the contrary notwithstanding, the Secretary may fix the compensation for not more than six positions in the Department atthe annual rate applicable to positions in level V of the Executive Schedule provided by subchapter II of chapter 53 of title 5.
+The Secretary is authorized, subject to the civil service and classification laws, to select, appoint, employ, and fix the compensation of such officers and employees, including attorneys, as shall be necessary to carry out the provisions of this chapter and to prescribe their authority and duties: <i>Provided</i>, That any other provision of law to the contrary notwithstanding, the Secretary may fix the compensation for not more than six positions in the Department at the annual rate applicable to positions in level V of the Executive Schedule provided by subchapter II of chapter 53 of title 5.
 
 #### (d) Delegation of authority; rules and regulations
 
-The Secretary may delegate any of his functions, powers, and duties to such officers and employees of the Department as he may designate, may authorize such successive redelegations of such functions, powers, and duties as he may deem desirable, and may make such rules and regulations as may be necessary to carry out his functions, powers, and duties.
+The Secretary may delegate any of his functions, powers, and duties to such officers andemployees of the Department as he may designate, may authorize such successive redelegations of such functions, powers, and duties as he may deem desirable, and may make such rules and regulations as may be necessary to carry out his functions, powers, and duties.
 
 #### (e) Temporary employment of experts or consultants; compensation
 
@@ -30,11 +30,11 @@ The Secretary shall cause a seal of office to be made for the Department of such
 
 Except as such authority is otherwise expressly provided in any other Act administered by the Secretary, such financial transactions of the Secretary as the making of loans or grants (and vouchers approved by the Secretary in connection with such financial transactions) shall be final and conclusive upon all officers of the Government. Funds made available to the Secretary pursuant to any provision of law for such financial transactions shall be deposited in a checking account or accounts with the Treasury of the United States. Such funds and any receipts and assets obtained or held by the Secretary in connection with such financial transactions shall be available, in such amounts as may from year to year be authorized by the Congress, for the administrative expenses of the Secretary in connection with such financial transactions. Notwithstanding the provisions of any other law, the Secretary may, with the approval of the Comptroller General, consolidate into one or more accounts for banking and checking purposes all cash obtained or held in connection with such financial transactions, including amounts appropriated, from whatever source derived.
 
-#### (i) Foreclosure of property; actions for protection and enforcement of rights; purchase of property; dealing with property after such acquisition; deprivation of State court civil and criminal jurisdiction; impairment of civil rights under State laws; application of section 5 of title 41; annual payments in lieu of local property taxes; sale and exchanges of property; insurance; modification of interest, time for installment payment, and other terms; other covenants, conditions, and provisions
+#### (i) Foreclosure of property; actions for protection and enforcement of rights; purchase of property; dealing with property after such acquisition; deprivation of State court civil and criminal jurisdiction; impairment of civil rights under State laws; application of section 6101 of title 41; annual payments in lieu of local property taxes; sale and exchanges of property; insurance; modification of interest, time for installment payment, and other terms; other covenants, conditions, and provisions
 
 Except as such authority is otherwise expressly provided in any other Act administered by the Secretary, the Secretary is authorized to—
 
-&emsp;(1) foreclose on any property or commence any action to protect or enforce any right conferred upon him by any law, contract, or other agreement, and bid for and purchase at any foreclosure or any other sale any property in connection with which he has made a loan or grant. In the event of any such acquisition, the Secretary may, notwithstanding any other provision of law relating to the acquisition, handling, or disposal of real property by the United States, complete, administer, remodel and convert, dispose of, lease, and otherwise deal with, such property: <i>Provided</i>, That any such acquisition of real property shall not deprive any State or political subdivision thereof of its civil or criminal jurisdiction in and over such property or impair the civil rights under the State or local laws of the inhabitants on such property: <i>Provided further</i>, That section 5 of title 41 shall not apply to any contract for services or supplies on account of any property so acquired or owned if the amount of such contract does not exceed $2,500;
+&emsp;(1) foreclose on any property or commence any action to protect or enforce any right conferred upon him by any law, contract, or other agreement, and bid for and purchase at any foreclosure or any other sale any property in connection with which he has made a loan or grant. In the event of any such acquisition, the Secretary may, notwithstanding any other provision of law relating to the acquisition, handling, or disposal of real property by the United States, complete, administer, remodel and convert, dispose of, lease, and otherwise deal with, such property: <i>Provided</i>, That any such acquisition of real property shall not deprive any State or political subdivision thereof of its civil or criminal jurisdiction in and over such property or impair the civil rights under the State or local laws of the inhabitants on such property: <i>Provided further</i>, That section 6101 of title 41 shall not apply to any contract for services or supplies on account of any property so acquired or owned if the amount of such contract does not exceed $2,500;
 
 &emsp;(2) enter into agreements to pay annual sums in lieu of taxes to any State or local taxing authority with respect to any real property so acquired or owned;
 
@@ -42,7 +42,7 @@ Except as such authority is otherwise expressly provided in any other Act admini
 
 &emsp;(4) obtain insurance against loss in connection with property and other assets held;
 
-&emsp;(5) consent to the modification, with respect to the rate of interest, time of payment of any installment of principal or interest, security, or any other term of any contract or agreement to which he is a party or which has been transferred to him; and
+&emsp;(5) consent to the modification, with respect to the rate of interest, time of payment of any installment of principal or interest, security,or any other term of any contract or agreement to which he is a party or which has been transferred to him; and
 
 &emsp;(6) include in any contract or instrument such other covenants, conditions, or provisions as he may deem necessary, including any provisions relating to the authority or requirements under paragraph (5).
 
@@ -150,11 +150,11 @@ A plan for the reorganization of any regional, area, insuring, or other field of
 
 &emsp;(I) section 3616a of this title;
 
-&emsp;(J) title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11361 et seq.\]; and
+&emsp;(J) title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11360 et seq.\]; and
 
 &emsp;(K) titles II \[42 U.S.C. 12721 et seq.\], III, and IV and section 811 \[42 U.S.C. 8013\] of the Cranston-Gonzalez National Affordable Housing Act.
 
-(3) In conducting evaluations and monitoring pursuant to the authority under this subsection,and collecting and maintaining data pursuant to the authority under this subsection, the Secretary shall determine any need for additional staff and funding relating to evaluating and monitoring the programs under paragraph (2) and collecting and maintaining data for such purposes.
+(3) In conducting evaluations and monitoring pursuant to the authority under this subsection, and collecting and maintaining data pursuant to the authority under this subsection, the Secretary shall determine any need for additional staff and funding relating to evaluating and monitoring the programs under paragraph (2) and collecting and maintaining data for such purposes.
 
 (4)(A) The Secretary may provide for evaluation and monitoring under this subsection and collecting and maintaining data for such purposes directly or by grants, contracts, or interagency agreements. Not more than 50 percent of the amounts made available under paragraph (1) may be used for grants, contracts, or interagency agreements.
 
@@ -178,29 +178,27 @@ The Secretary shall ensure that all personnel employed in field offices of the D
 
 #### References in Text
 
-The civil service laws, referred to in subsecs. (c) and (<i>l</i>), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
+This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 89–174, Sept. 9, 1965, 79 Stat. 667, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3531 of this title and Tables.
 
-The classification laws, referred to in subsec. (c), are classified generally to chapter 51 (§5101 et seq.) and to subchapter III (§5331 et seq.) of chapter 53 of Title 5.
+The National Housing Act, referred to in subsecs. (m) and (s)(2), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. Title II of the Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
-The National Housing Act, referred to in subsecs. (m) and (s)(2), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. Title II of the Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
-
-The Housing and Urban Development Act of 1965, referred to in subsec. (m), is Pub. L. 89–117, Aug. 10, 1965, 79 Stat. 451, as amended. Title I of the Housing and Urban Development Act of 1965 enacted sections 1421b, 1466 of this title, and sections 1701q, 1701s, 1735g, 1735h of Title 12, amended sections 1402, 1422, 1451, 1465 of this title, sections 1715c, 1715<i>l</i>, 1715n, 1717 of Title 12, and section 1816 \[now 3732\] of Title 38, Veterans’ Benefits, and enacted provisions set out as notes under section 1466 of this title and section 1701q of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 12 and Tables.
+The Housing and Urban Development Act of 1965, referred to in subsec. (m), is Pub. L. 89–117, Aug. 10, 1965, 79 Stat. 451. Title I of the Housing and Urban Development Act of 1965 enacted sections 1421b, 1466 of this title, and sections 1701q, 1701s, 1735g, 1735h of Title 12, amended sections 1402, 1422, 1451, 1465 of this title, sections 1715c, 1715<i>l</i>, 1715n, 1717 of Title 12, and section 1816 \[now 3732\] of Title 38, Veterans’ Benefits, and enacted provisions set out as notes under section 1466 of this title and section 1701q of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 12 and Tables.
 
 The Department of Housing and Urban Development Reform Act of 1989, referred to in subsec. (<i>o</i>)(3), is Pub. L. 101–235, Dec. 15, 1989, 103 Stat. 1987. For complete classification of this Act to the Code, see Short Title of 1989 Amendment note set out under section 3531 of this title and Tables.
 
 The United States Housing Act of 1937, referred to in subsec. (r)(2)(A), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended. Title I of the Act is classified generally to subchapter I (§1437 et seq.) of chapter 8 of this title. Title II of the Act, which was classified generally to subchapter II (§1437aa et seq.) of chapter 8 of this title, was repealed by Pub. L. 104–330, title V, §501(a), Oct. 26, 1996, 110 Stat. 4041. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
-The Fair Housing Act, referred to in subsec. (r)(2)(D), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I of chapter 45 (§3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+The Fair Housing Act, referred to in subsec. (r)(2)(D), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I of chapter 45 (§3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
-The Housing and Community Development Act of 1974, referred to in subsec. (r)(2)(E), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Actis classified principally to chapter 69 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables. Section 810 of the Act which was classified to section 1706e of Title 12, Banks and Banking, was repealed by Pub. L. 101–625, title II, §289(b), Nov. 28, 1990, 104 Stat. 4128.
+The Housing and Community Development Act of 1974, referred to in subsec. (r)(2)(E), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables. Section 810 of the Act which was classified to section 1706e of Title 12, Banks and Banking, was repealed by Pub. L. 101–625, title II, §289(b), Nov. 28, 1990, 104 Stat. 4128.
 
 Section 201 of the Housing and Community Development Amendments of 1978, referred to in subsec. (r)(2)(F), is section 201 of Pub. L. 95–557, title II, Oct. 31, 1978, 92 Stat. 2084, which enacted section 1715z–1a of Title 12, Banks and Banking, and amended section 1715z–1 of Title 12.
 
-The Congregate Housing Services Act of 1978, referred to in subsec. (r)(2)(G), is title IV of Pub. L. 95–557, Oct. 31, 1978, 92 Stat. 2104, as amended, which is classified principally to chapter 89 (§8001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8001 of this title and Tables.
+The Congregate Housing Services Act of 1978, referred to in subsec. (r)(2)(G), is title IV of Pub. L. 95–557, Oct. 31, 1978, 92 Stat. 2104, which is classified principally to chapter 89 (§8001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8001 of this title and Tables.
 
 Section 222 of the Housing and Urban-Rural Recovery Act of 1983, referred to in subsec. (r)(2)(H), is section 222 of Pub. L. 98–181, which is set out as a note under section 1701z–6 of Title 12, Banks and Banking.
 
-The McKinney-Vento Homeless Assistance Act, referred to in subsec. (r)(2)(J), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Title IV of the Act is classified generally to subchapter IV (§11361 et seq.) of chapter 119 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (r)(2)(J), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Title IV of the Act is classified principally to subchapter IV (§11360 et seq.) of chapter 119 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (r)(2)(K), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, known as the HOME Investment Partnerships Act, is classified principally to subchapter II (§12721 et seq.) of chapter 130 of this title. Title III of the Act enacted subchapter III (§12851 et seq.) of chapter 130 of this title and sections 1735f–17 and 1735f–18 of Title 12, Banks and Banking, amended sections 1703, 1708, 1709, 1715d, 1715z–20, 1721, and 1735f–9 of Title 12, and enacted provisions set out as notes under sections 1703, 1709, 1713, and 1735f–18 of Title 12. Title IV of the Act, known as the Homeownership and Opportunity Through HOPE Act, enacted subchapter II–A (§1437aaa et seq.) of chapter 8 of this title and subchapter IV (§12871 et seq.) of chapter 130 of this title, amended sections 1437c, 1437f, 1437<i>l</i>, 1437p, 1437r, and 1437s of this title and section 1709 of Title 12, and enacted provisions set out as notes under sections 1437c, 1437aa, and 1437aaa of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
@@ -210,23 +208,25 @@ Section 202 of the LEGACY Act of 2003, referred to in subsec. (t), is section 20
 
 In subsec. (c), “the Executive Schedule provided by subchapter II of chapter 53 of title 5” substituted for “the Federal Executive Salary Schedule provided by the Federal Executive Salary Act of 1964” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
+Subsec. (d) is comprised of the first sentence of subsec. (d) of section 7 of Pub. L. 89–174. The second sentence of subsec. (d) repealed the second proviso of section 1451(c) of this title.
+
 In subsec. (e), “section 3109 of title 5” substituted for “section 15 of the Act of August 2, 1946” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5. Prior to the enactment of Title 5, section 15 of the Act of Aug. 2, 1946, was classified to section 55a of former Title 5.
+
+In subsec. (i)(1), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Section was formerly classified to section 624d of former Title 5, Executive Departments and Government Officers and Employees, prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 1, 1966, 80 Stat. 378.
 
-Subsec. (d) is comprised of the first sentence of subsec. (d) of section 7 of Pub. L. 89–174. The second sentence of subsec. (d) repealed the second proviso of section 1451(c) of this title.
-
 #### Amendments
 
-2003—Subsec. (t). Pub. L. 108–186 added subsec. (t).
+<b>2003</b>—Subsec. (t). Pub. L. 108–186 added subsec. (t).
 
-2000—Subsec. (r)(2)(J). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
+<b>2000</b>—Subsec. (r)(2)(J). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 
-1998—Subsec. (r)(5), (6). Pub. L. 105–362 redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “Not later than December 31 of each year, the Secretary shall submit to the Congress a report regarding the use of amounts made available under this subsection during the fiscal year ending on September 30 of that year, including an analysis of the ability of the Department to monitor and evaluate the programs under paragraph (2) and a statement of any needs determined under paragraph (3).”
+<b>1998</b>—Subsec. (r)(5), (6). Pub. L. 105–362 redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “Not later than December 31 of each year, the Secretary shall submit to the Congress a report regarding the use of amounts made available under this subsection during the fiscal year ending on September 30 of that year, including an analysis of the ability of the Department to monitor and evaluate the programs under paragraph (2) and a statement of any needs determined under paragraph (3).”
 
-1994—Subsec. (i)(5). Pub. L. 103–233 struck out before last semicolon “; except that with respect to any mortgage held by the Secretary, the Secretary shall, subject to the availability of amounts provided in appropriation Acts, implement the authority under this paragraph to reduce the interest rate on the mortgage to a rate not less than the rate for recently issued marketable obligations of the Treasury having a comparable maturity if (and to the extent that) such a reduction, when taken together with other actions authorized under the National Housing Act, is necessary to avoid foreclosure on the mortgage; and except that for any mortgage for which the interest rate is reduced pursuant to an appropriation under the preceding clause, if the Secretary determines that the income or ability of the mortgagor to make interest payments has increased, the Secretary may (not more than once for each such mortgage) increase such interest rate to a rate not exceeding the prevailing market rate, as determined by the Secretary”.
+<b>1994</b>—Subsec. (i)(5). Pub. L. 103–233 struck out before last semicolon “; except that with respect to any mortgage held by the Secretary, the Secretary shall, subject to the availability of amounts provided in appropriation Acts, implement the authority under this paragraph to reduce the interest rate on the mortgage to a rate not less than the rate for recently issued marketable obligations of the Treasury having a comparable maturity if (and to the extent that) such a reduction, when taken together with other actions authorized under the National Housing Act, is necessary to avoid foreclosure on the mortgage; and except that for any mortgage for which the interest rate is reduced pursuant to an appropriation under the preceding clause, if the Secretary determines that the income or ability of the mortgagor to make interest payments has increased, the Secretary may (not more than once for each such mortgage) increase such interest rate to a rate not exceeding the prevailing market rate, as determined by the Secretary”.
 
-1992—Subsec. (i)(5). Pub. L. 102–550, §902(b)(1), inserted before semicolon “; except that with respect to any mortgage held by the Secretary, the Secretary shall, subject to the availability of amounts provided in appropriation Acts, implement the authority under this paragraph to reduce the interest rate on the mortgage to a rate not less than the rate for recently issued marketable obligations of the Treasury having a comparable maturity if (and to the extent that) such a reduction, when taken together with other actions authorized under the National Housing Act, is necessary to avoid foreclosure on the mortgage; and except that for any mortgage for which the interest rate is reduced pursuant to an appropriation under the preceding clause, if the Secretary determines that the income or ability of the mortgagor to make interest payments has increased, the Secretary may (not more than once for each such mortgage) increase such interest rate to a rate not exceeding the prevailing market rate, as determined by the Secretary”.
+<b>1992</b>—Subsec. (i)(5). Pub. L. 102–550, §902(b)(1), inserted before semicolon “; except that with respect to any mortgage held by the Secretary, the Secretary shall, subject to the availability of amounts provided in appropriation Acts, implement the authority under this paragraph to reduce the interest rate on the mortgage to a rate not less than the rate for recently issued marketable obligations of the Treasury having a comparable maturity if (and to the extent that) such a reduction, when taken together with other actions authorized under the National Housing Act, is necessary to avoid foreclosure on the mortgage; and except that for any mortgage for which the interest rate is reduced pursuant to an appropriation under the preceding clause, if the Secretary determines that the income or ability of the mortgagor to make interest payments has increased, the Secretary may (not more than once for each such mortgage) increase such interest rate to a rate not exceeding the prevailing market rate, as determined by the Secretary”.
 
 Subsec. (i)(6). Pub. L. 102–550, §902(b)(2), inserted before period “, including any provisions relating to the authority or requirements under paragraph (5)”.
 
@@ -234,7 +234,7 @@ Subsec. (r)(6). Pub. L. 102–550, §902(c), amended first sentence generally. P
 
 Subsec. (s). Pub. L. 102–550, §929, added subsec. (s).
 
-1990—Subsec. (r)(1). Pub. L. 101–625, §954(a)(1), inserted “and collecting and maintaining data for such purposes” before periods at end of first and last sentences.
+<b>1990</b>—Subsec. (r)(1). Pub. L. 101–625, §954(a)(1), inserted “and collecting and maintaining data for such purposes” before periods at end of first and last sentences.
 
 Subsec. (r)(2)(K). Pub. L. 101–625, §954(a)(2), added subpar. (K).
 
@@ -244,7 +244,7 @@ Subsec. (r)(4)(A). Pub. L. 101–625, §954(a)(4)(A), inserted “and collecting
 
 Subsec. (r)(4)(B). Pub. L. 101–625, §954(a)(4)(B), inserted “and to collect and maintain data for such purposes” after “paragraph (2)”.
 
-1989—Subsec. (e). Pub. L. 101–235, §141, inserted at end “The Secretary is authorized to enter into contracts with private companies for the provision of such managerial support to the Federal Housing Administration as the Secretary determines to be appropriate, including but not limited to the management of insurance risk and the improvement of the delivery of mortgage insurance.”
+<b>1989</b>—Subsec. (e). Pub. L. 101–235, §141, inserted at end “The Secretary is authorized to enter into contracts with private companies for the provision of such managerial support to the Federal Housing Administration as the Secretary determines to be appropriate, including but not limited to the management of insurance risk and the improvement of the delivery of mortgage insurance.”
 
 Subsec. (<i>o</i>)(2)(A). Pub. L. 101–235, §123(1), substituted “15-calendar day period beginning on the day” for “first period of 15 calendar days of continuous session of Congress which occurs” and struck out “of continuous session” before “prior to its being published”.
 
@@ -268,29 +268,29 @@ Subsec. (q). Pub. L. 101–235, §106, added subsec. (q).
 
 Subsec. (r). Pub. L. 101–235, §124, added subsec. (r).
 
-1988—Subsec. (<i>o</i>)(7). Pub. L. 100–242 added par. (7).
+<b>1988</b>—Subsec. (<i>o</i>)(7). Pub. L. 100–242 added par. (7).
 
-1984—Subsec. (<i>o</i>)(6)(C). Pub. L. 98–479 substituted “section 235 or 236 of the National Housing Act” for “section 3 of Public Law 90–301”.
+<b>1984</b>—Subsec. (<i>o</i>)(6)(C). Pub. L. 98–479 substituted “section 235 or 236 of the National Housing Act” for “section 3 of Public Law 90–301”.
 
-1980—Subsec. (<i>o</i>)(3). Pub. L. 96–399 substituted “30” for “20” wherever appearing.
+<b>1980</b>—Subsec. (<i>o</i>)(3). Pub. L. 96–399 substituted “30” for “20” wherever appearing.
 
-1978—Subsec. (n). Pub. L. 95–557, §316, inserted “or facilities, or to assist in establishing, equipping, and operating interagency day care facilities” after “a day care center facility”, substituted “any such day care center” for “such a day care center” and inserted provision relating to limited start-up costs in an amount limited to 3 per centum of the first year's operating budget, but not to exceed $3,500.
+<b>1978</b>—Subsec. (n). Pub. L. 95–557, §316, inserted “or facilities, or to assist in establishing, equipping, and operating interagency day care facilities” after “a day care center facility”, substituted “any such day care center” for “such a day care center” and inserted provision relating to limited start-up costs in an amount limited to 3 per centum of the first year's operating budget, but not to exceed $3,500.
 
 Subsec. (<i>o</i>). Pub. L. 95–557, §324, added subsec. (<i>o</i>).
 
 Subsec. (p). Pub. L. 95–557, §908, added subsec. (p).
 
-1976—Subsec. (c). Pub. L. 94–375, §17(d), substituted “six” for “seven” in proviso.
+<b>1976</b>—Subsec. (c). Pub. L. 94–375, §17(d), substituted “six” for “seven” in proviso.
 
 Subsec. (n). Pub. L. 94–375, §21, added subsec. (n).
 
-1970—Subsec. (e). Pub. L. 91–609, §906, substituted “for individuals not to exceed the per diem equivalent to the highest rate for grade GS–18 of the General Schedule under section 5332 of title 5” for “not to exceed $100 per diem for individuals”.
+<b>1970</b>—Subsec. (e). Pub. L. 91–609, §906, substituted “for individuals not to exceed the per diem equivalent to the highest rate for grade GS–18 of the General Schedule under section 5332 of title 5” for “not to exceed $100 per diem for individuals”.
 
 Subsecs. (h) to (<i>l</i>). Pub. L. 91–609, §905, added subsecs. (h) to (<i>l</i>).
 
 Subsec. (m). Pub. L. 91–609, §120(c), added subsec. (m).
 
-1968—Subsec. (b). Pub. L. 90–448 repealed subsec. (b) which restricted transfer of functions in connection with secondary market operations of the Federal National Mortgage Association.
+<b>1968</b>—Subsec. (b). Pub. L. 90–448 repealed subsec. (b) which restricted transfer of functions in connection with secondary market operations of the Federal National Mortgage Association.
 
 Subsec. (c). Pub. L. 90–284 increased from six to seven the number of positions in the Department whose compensation may be fixed at annual rate applicable to positions in level V.
 
@@ -338,7 +338,7 @@ In General.—Not later than 12 months after the date of the enactment of this A
 
 &emsp;&emsp;&emsp;“(viii) indications of rodent infestation; and
 
-&emsp;“(2) with respect to multifamily housing projects (as that term is defined in section 203 of the Housingand Community Development Amendments of 1978 \[12 U.S.C. 1701z–11\]) owned by the Department of Housing and Urban Development on a monthly average basis—
+&emsp;“(2) with respect to multifamily housing projects (as that term is defined in section 203 of the Housing and Community Development Amendments of 1978 \[12 U.S.C. 1701z–11\]) owned by the Department of Housing and Urban Development on a monthly average basis—
 
 &emsp;&emsp;“(A) the total number of units in those projects;
 

@@ -14,7 +14,7 @@ Under regulations to be prescribed by the Secretary concerned, round trip transp
 
 #### Amendments
 
-1983—Pub. L. 98–94 inserted sentence allowing the payment of allowances in advance.
+<b>1983</b>—Pub. L. 98–94 inserted sentence allowing the payment of allowances in advance.
 
 #### Effective Date of 1983 Amendment
 
@@ -38,7 +38,7 @@ Sec. 6. The Comptroller General of the United States, or his designee, shall rel
 
 “
 
-Sec. 7. No regulations under section 1 of this Act \[enacting this section\] relating to the military departments shall be prescribed by the Secretary of a military department unless such regulations are first approved under procedures prescribed by the Secretary of Defense. Regulations of the Secretaries of the Treasury, Commerce, and Health, Education, and Welfare \[now Health and Human Services\] under section 1, 2, or 3 of this Act \[enacting this section and amending section 857a of Title 33, Navigation and Navigable Waters, and section 213a of Title 42, The Public Health and Welfare\] shall, to the extent practicable, agree with regulations so approved.”
+Sec. 7. No regulations under section 1 of this Act \[enacting this section\] relating to the military departments shall be prescribed by the Secretary of a military department unless such regulations are first approved under procedures prescribed by the Secretary of Defense. Regulations of the Secretaries of the Treasury, Commerce, and Health, Education, and Welfare \[now Health and Human Services\] under section 1, 2, or 3 of this Act \[enacting this section and amending section 857a of Title 33, Navigation and Navigable Waters,and section 213a of Title 42, The Public Health and Welfare\] shall, to the extent practicable, agree with regulations so approved.”
 
 #### Public Health Service
 

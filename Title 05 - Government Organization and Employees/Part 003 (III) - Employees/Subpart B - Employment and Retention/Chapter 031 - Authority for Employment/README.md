@@ -17,7 +17,7 @@
 | [3111\.](Subchapter%20001%20%28I%29%20-%20Employment%20Authorities/%C2%A7%2003111%20-%20Acceptance%20of%20volunteer%20service.md) | Acceptance of volunteer service. |
 | [3112\.](Subchapter%20001%20%28I%29%20-%20Employment%20Authorities/%C2%A7%2003112%20-%20Disabled%20veterans%3B%20noncompetitive%20appointment.md) | Disabled veterans; noncompetitive appointment. |
 | [3113\.](Subchapter%20001%20%28I%29%20-%20Employment%20Authorities/%C2%A7%2003113%20-%20Restriction%20on%20reemployment%20after%20conviction%20of%20certain%20crimes.md) | Restriction on reemployment after conviction of certain crimes. |
-| [3114\.](Subchapter%20001%20%28I%29%20-%20Employment%20Authorities/%C2%A7%2003114%20-%20Appointment%20of%20accountants%2C%20economists%2C%20and%20examiners%20by%20the%20Securities%20and%20Exchange%20Commission.md) | Appointment of accountants, economists, and examiners by the Securities and Exchange Commission. |
+| [3114\.](Subchapter%20001%20%28I%29%20-%20Employment%20Authorities/%C2%A7%2003114%20-%20Appointment%20of%20candidates%20to%20certain%20positions%20in%20the%20competitive%20service%20by%20the%20Securities%20and%20Exchange%20Commission.md) | Appointment of candidates to positions in the competitive service by the Securities and Exchange Commission.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -52,6 +52,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2010—Pub. L. 111–203, title IX, §929G(b), July 21, 2010, 124 Stat. 1856, added item 3114 and struck out former item 3114 “Appointment of accountants, economists, and examiners by the Securities and Exchange Commission”.
 
 2003—Pub. L. 108–44, §2(b), July 3, 2003, 117 Stat. 843, added item 3114.
 

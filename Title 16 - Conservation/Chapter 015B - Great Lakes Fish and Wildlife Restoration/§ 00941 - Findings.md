@@ -24,7 +24,7 @@ Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted identical
 
 #### Amendments
 
-1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §2002, which enacted this section.
+<b>1996</b>—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §2002, which enacted this section.
 
 #### Short Title of 2006 Amendment
 
@@ -44,7 +44,7 @@ Pub. L. 109–326, §8, Oct. 11, 2006, 120 Stat. 1766, provided that: “The Dir
 
 &emsp;“(1) shall continue to monitor the status, and the assessment, management, and restoration needs, of the fish and wildlife resources of the Great Lakes Basin; and
 
-&emsp;“(2) may reassess and update, as necessary, the findings and recommendations of the report entitled‘Great Lakes Fishery Resources Restoration Study’, submitted to the President of the Senate and the Speaker of the House of Representatives on September 13, 1995.”
+&emsp;“(2) may reassess and update, as necessary, the findings and recommendations of the report entitled ‘Great Lakes Fishery Resources Restoration Study’, submitted to the President of the Senate and the Speaker of the House of Representatives on September 13, 1995.”
 
 #### Congressional Findings
 

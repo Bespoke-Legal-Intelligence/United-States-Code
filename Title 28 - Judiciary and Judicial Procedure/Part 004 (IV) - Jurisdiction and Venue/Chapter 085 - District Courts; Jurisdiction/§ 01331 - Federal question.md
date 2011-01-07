@@ -22,11 +22,11 @@ Changes were made in arrangement and phraseology.
 
 #### Amendments
 
-1980—Pub. L. 96–486 struck out “; amount in controversy; costs” in section catchline, struck out minimum amount in controversy requirement of $10,000 for original jurisdiction in federal question cases which necessitated striking the exception to such required minimum amount that authorized original jurisdiction in actions brought against the United States, any agency thereof, or any officer or employee thereof in an official capacity, struck out provision authorizing the district court except where express provision therefore was made in a federal statute to deny costs to a plaintiff and in fact impose such costs upon such plaintiff where plaintiff was adjudged to be entitled to recover less than the required amount in controversy, computed without regard to set-off or counterclaim and exclusive of interests and costs, and struck out existing subsection designations.
+<b>1980</b>—Pub. L. 96–486 struck out “; amount in controversy; costs” in section catchline, struck out minimum amount in controversy requirement of $10,000 for original jurisdiction in federal question cases which necessitated striking the exception to such required minimum amount that authorized original jurisdiction in actions brought against the United States, any agency thereof, or any officer or employee thereof in an official capacity, struck out provision authorizing the district court except where express provision therefore was made in a federal statute to deny costs to a plaintiff and in fact impose such costs upon such plaintiff where plaintiff was adjudged to be entitled to recover less than the required amount in controversy, computed without regard to set-off or counterclaim and exclusive of interests and costs, and struck out existing subsection designations.
 
-1976—Subsec. (a). Pub. L. 94–574 struck out $10,000 jurisdictional amount where action is brought against the United States, any agency thereof, or any officer or employee thereof in his official capacity.
+<b>1976</b>—Subsec. (a). Pub. L. 94–574 struck out $10,000 jurisdictional amount where action is brought against the United States, any agency thereof, or any officer or employee thereof in his official capacity.
 
-1958—Pub. L. 85–554 included costs in section catchline, designated existing provisions as subsec. (a), substituted “$10,000” for “$3,000”, and added subsec. (b).
+<b>1958</b>—Pub. L. 85–554 included costs in section catchline, designated existing provisions as subsec. (a), substituted “$10,000” for “$3,000”, and added subsec. (b).
 
 #### Effective Date of 1980 Amendment; Applicability
 
@@ -34,5 +34,5 @@ Section 4 of Pub. L. 96–486 provided: “This Act \[amending this section and 
 
 #### Effective Date of 1958 Amendment
 
-Section 3 of Pub. L. 85–554 provided that: “This Act \[amending this section and sections 1332 and 1345 of thistitle\] shall apply only in the case of actions commenced after the date of the enactment of this Act \[July 25, 1958\].”
+Section 3 of Pub. L. 85–554 provided that: “This Act \[amending this section and sections 1332 and 1345 of this title\] shall apply only in the case of actions commenced after the date of the enactment of this Act \[July 25, 1958\].”
 

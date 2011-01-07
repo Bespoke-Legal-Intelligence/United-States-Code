@@ -14,7 +14,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 #### Amendments
 
-2006—Pub. L. 109–469 substituted “chapter except activities otherwise specified,” for “chapter,” and “2006 through 2010” for “1999 through 2003”.
+<b>2006</b>—Pub. L. 109–469 substituted “chapter except activities otherwise specified,” for “chapter,” and “2006 through 2010” for “1999 through 2003”.
 
 #### Appropriations
 

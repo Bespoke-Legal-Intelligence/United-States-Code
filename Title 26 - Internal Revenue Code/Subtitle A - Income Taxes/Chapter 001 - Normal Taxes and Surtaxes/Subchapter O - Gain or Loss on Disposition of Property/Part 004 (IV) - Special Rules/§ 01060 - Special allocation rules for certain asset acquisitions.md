@@ -78,15 +78,15 @@ A prior section 1060 was renumbered section 1061 of this title.
 
 #### Amendments
 
-1993—Subsec. (b)(1). Pub. L. 103–66, §13261(e)(1), substituted “section 197 intangibles” for “goodwill or going concern value”.
+<b>1993</b>—Subsec. (b)(1). Pub. L. 103–66, §13261(e)(1), substituted “section 197 intangibles” for “goodwill or going concern value”.
 
 Subsec. (d)(1). Pub. L. 103–66, §13261(e)(2), substituted “section 197 intangibles” for “goodwill or going concern value (or similar items)”.
 
-1990—Subsec. (a). Pub. L. 101–508, §11323(a), inserted at end “If in connection with an applicable asset acquisition, the transferee and transferor agree in writing as to the allocation of any consideration, or as to the fair market value of any of the assets, such agreement shall be binding on both the transferee and transferor unless the Secretary determines that such allocation (or fair market value) is not appropriate.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §11323(a), inserted at end “If in connection with an applicable asset acquisition, the transferee and transferor agree in writing as to the allocation of any consideration, or as to the fair market value of any of the assets, such agreement shall be binding on both the transferee and transferor unless the Secretary determines that such allocation (or fair market value) is not appropriate.”
 
 Subsecs. (e), (f). Pub. L. 101–508, §11323(b)(1), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1988—Subsec. (b)(3). Pub. L. 100–647, §1006(h)(1), substituted “deems” for “may find”.
+<b>1988</b>—Subsec. (b)(3). Pub. L. 100–647, §1006(h)(1), substituted “deems” for “may find”.
 
 Subsec. (d). Pub. L. 100–647, §1006(h)(2), added subsec. (d).
 

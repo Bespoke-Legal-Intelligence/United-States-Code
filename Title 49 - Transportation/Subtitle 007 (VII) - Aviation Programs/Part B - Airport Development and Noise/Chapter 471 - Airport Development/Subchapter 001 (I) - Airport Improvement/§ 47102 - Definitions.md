@@ -74,7 +74,7 @@ In this subchapter—
 
 &emsp;&emsp;(J) constructing an air traffic control tower or acquiring and installing air traffic control, communications, and related equipment at an air traffic control tower under the terms specified in section 47124(b)(4).
 
-&emsp;&emsp;(K) work necessary to construct or modify airport facilities to provide low-emission fuel systems, gate electrification, and other related air quality improvements at a commercial service airport if the airport is located in an air quality nonattainment or maintenance area (as defined in sections171(2) and 175A of the Clean Air Act (42 U.S.C. 7501(2); 7505a) <sup>1</sup> and if such project will result in an airport receiving appropriate emission credits, as described in section 47139.
+&emsp;&emsp;(K) work necessary to construct or modify airport facilities to provide low-emission fuel systems, gate electrification, and other related air quality improvements at a commercial service airport if the airport is located in an air quality nonattainment or maintenance area (as defined in sections 171(2) and 175A of the Clean Air Act (42 U.S.C. 7501(2); 7505a) <sup>1</sup> and if such project will result in an airport receiving appropriate emission credits, as described in section 47139.
 
 &emsp;&emsp;(L) a project for the acquisition or conversion of vehicles and ground support equipment, owned by a commercial service airport, to low-emission technology, if the airport is located in an air quality nonattainment or maintenance area (as defined in sections 171(2) and 175A of the Clean Air Act (42 U.S.C. 7501(2); 7505a) <sup>1</sup> and if such project will result in an airport receiving appropriate emission credits as described in section 47139.
 
@@ -266,7 +266,7 @@ Sept. 3, 1982, Pub. L. 97–248, §503(a)(12), 96 Stat. 673; Dec. 30, 1987, Pub.
 
 49 App.:2202(a)(23).
 
-In this section, before clause (1), the words “In this subchapter” are substituted for “As used in this chapter” and “Whenever in this chapter reference is made to . . . such reference shall mean” for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words.
+In this section, before clause (1), the words “In this subchapter” are substituted for “As used in this chapter” and “Whenever in this chapter reference is madeto . . . such reference shall mean” for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words.
 
 Clause (1) restates the definition of “air carrier airport” that was contained in section 11(1) of the Airport and Airway Development Act of 1970 as in effect both on February 18, 1980, and immediately before September 3, 1982. The clause is added to this section to eliminate the cross-references to definitions in section 11 of the Airport and Airway Development Act of 1970 that are contained in the source provisions restated in sections 47106(d) and 47119(a) of the revised title. Because some of the terms used in the definition of “air carrier airport” were themselves defined in section 11, the definitions of those terms are incorporated in the definition added in clause (1) to the extent they differ from the definitions of those terms restated in this section. The words “Secretary of Transportation” and “Secretary” are substituted for “Civil Aeronautics Board” because of the transfer of authority under 49 App.:1551(b)(1)(E).
 
@@ -308,7 +308,7 @@ The Federal Water Pollution Control Act, referred to in par. (3)(F), is act June
 
 #### Amendments
 
-2003—Par. (3)(B)(x). Pub. L. 108–176, §142, inserted “; except that such activities shall be eligible for funding under this subchapter only using amounts apportioned under section 47114” before period at end.
+<b>2003</b>—Par. (3)(B)(x). Pub. L. 108–176, §142, inserted “; except that such activities shall be eligible for funding under this subchapter only using amounts apportioned under section 47114” before period at end.
 
 Par. (3)(H). Pub. L. 108–176, §141, inserted “nonhub airports and” before “airports that are not primary airports”.
 
@@ -348,11 +348,11 @@ Par. (23). Pub. L. 108–176, §801(a)(2), added par. (23).
 
 Pars. (24), (25). Pub. L. 108–176, §801(a)(1), redesignated pars. (19) and (20) as (24) and (25), respectively.
 
-2001—Par. (3)(B)(x). Pub. L. 107–71, §119(a)(5), added cl. (x).
+<b>2001</b>—Par. (3)(B)(x). Pub. L. 107–71, §119(a)(5), added cl. (x).
 
 Par. (3)(J) to (L). Pub. L. 107–71, §119(a)(1), added subpars. (J) to (L).
 
-2000—Par. (3)(B)(ii). Pub. L. 106–181, §121(c)(1), substituted “, universal access systems, and emergency call boxes,” for “and universal access systems,” and inserted “and integrated in-pavement lighting systems for runways and taxiways and other runway and taxiway incursion prevention devices” before semicolon at end.
+<b>2000</b>—Par. (3)(B)(ii). Pub. L. 106–181, §121(c)(1), substituted “, universal access systems, and emergency call boxes,” for “and universal access systems,” and inserted “and integrated in-pavement lighting systems for runways and taxiways and other runway and taxiway incursion prevention devices” before semicolon at end.
 
 Par. (3)(B)(iii). Pub. L. 106–181, §121(c)(2), inserted before semicolon at end “, including closed circuit weather surveillance equipment if the airport is located in Alaska”.
 
@@ -364,11 +364,11 @@ Par. (3)(H). Pub. L. 106–181, §123(b), added subpar. (H).
 
 Par. (3)(I). Pub. L. 106–181, §137(b), added subpar. (I).
 
-1996—Par. (3)(E). Pub. L. 104–264, §142(b)(1)(A), inserted “or under section 40117” before period at end.
+<b>1996</b>—Par. (3)(E). Pub. L. 104–264, §142(b)(1)(A), inserted “or under section 40117” before period at end.
 
 Par. (3)(F). Pub. L. 104–264, §142(b)(1)(B), struck out “paid for by a grant under this subchapter and” after “airport, if”.
 
-1994—Par. (3)(B)(ii). Pub. L. 103–305 inserted “, including explosive detection devices and universal access systems,” after “or security equipment”.
+<b>1994</b>—Par. (3)(B)(ii). Pub. L. 103–305 inserted “, including explosive detection devices and universal access systems,” after “or security equipment”.
 
 #### Effective Date of 2003 Amendment
 
@@ -376,7 +376,7 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1996 Amendment
 

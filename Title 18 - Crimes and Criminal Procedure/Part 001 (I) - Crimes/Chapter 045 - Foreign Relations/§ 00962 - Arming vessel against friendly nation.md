@@ -24,5 +24,5 @@ Minor change was made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in third par.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in third par.
 

@@ -38,7 +38,7 @@ If a vessel used in a violation of section 973c(a)(1), (2), (3), (4), (5), (6), 
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–350, §4(1), substituted “and gravity” for “any gravity” and “history of prior” for “history or prior”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–350, §4(1), substituted “and gravity” for “any gravity” and “history of prior” for “history or prior”.
 
 Subsec. (g)(1). Pub. L. 100–350, §4(2), substituted “Treaty” for “Treasury”.
 

@@ -1,72 +1,66 @@
 ### §1621c. Diabetes prevention, treatment, and control
 
-#### (a) Incidence and complications
+#### (a) Determinations regarding diabetes
 
-The Secretary, in consultation with the tribes, shall determine—
+The Secretary, acting through the Service, and in consultation with Indian tribes and tribal organizations, shall determine—
 
-&emsp;(1) by tribe and by Service unit of the Service, the incidence of, and the types of complications resulting from, diabetes among Indians; and
+&emsp;(1) by Indian tribe and by Service unit, the incidence of, and the types of complications resulting from, diabetes among Indians; and
 
-&emsp;(2) based on paragraph (1), the measures (including patient education) each Service unit should take to reduce the incidence of, and prevent, treat, and control the complications resulting from, diabetes among tribes within that Service unit.
+&emsp;(2) based on the determinations made pursuant to paragraph (1), the measures (including patient education and effective ongoing monitoring of disease indicators) each Service unit should take to reduce the incidence of, and prevent, treat, and control the complications resulting from, diabetes among Indian tribes within that Service unit.
 
-#### (b) Screening
+#### (b) Diabetes screening
 
-The Secretary shall screen each Indian who receives services from the Service for diabetes and for conditions which indicate a high risk that the individual will become diabetic. Such screening may be done by a tribe or tribal organization operating health care programs or facilities with funds from the Service under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\].
+To the extent medically indicated and with informed consent, the Secretary shall screen each Indian who receives services from the Service for diabetes and for conditions which indicate a high risk that the individual will become diabetic and establish a cost-effective approach to ensure ongoing monitoring of disease indicators. Such screening and monitoring may be conducted by a tribal health program and may be conducted through appropriate Internet-based health care management programs.
 
-#### (c) Model diabetes projects
+#### (c) Diabetes projects
 
-(1) The Secretary shall continue to maintain through fiscal year 2000 each model diabetes project in existence on October 29, 1992, and located—
+The Secretary shall continue to maintain each model diabetes project in existence on March 23, 2010, any such other diabetes programs operated by the Service or tribal health programs, and any additional diabetes projects, such as the Medical Vanguard program provided for in title IV of Public Law 108–87, as implemented to serve Indian tribes. tribal <sup>1</sup> health programs shall receive recurring funding for the diabetes projects that they operate pursuant to this section, both at March 23, 2010, and for projects which are added and funded thereafter.
 
-&emsp;(A) at the Claremore Indian Hospital in Oklahoma;
+#### (d) Dialysis programs
 
-&emsp;(B) at the Fort Totten Health Center in North Dakota;
+The Secretary is authorized to provide, through the Service, Indian tribes, and tribal organizations, dialysis programs, including the purchase of dialysis equipment and the provision of necessary staffing.
 
-&emsp;(C) at the Sacaton Indian Hospital in Arizona;
+#### (e) Other duties of the Secretary
 
-&emsp;(D) at the Winnebago Indian Hospital in Nebraska;
+#### (1) In general
 
-&emsp;(E) at the Albuquerque Indian Hospital in New Mexico;
+&emsp;The Secretary shall, to the extent funding is available—
 
-&emsp;(F) at the Perry, Princeton, and Old Town Health Centers in Maine;
+&emsp;&emsp;(A) in each area office, consult with Indian tribes and tribal organizations regarding programs for the prevention, treatment, and control of diabetes;
 
-&emsp;(G) at the Bellingham Health Center in Washington;
+&emsp;&emsp;(B) establish in each area office a registry of patients with diabetes to track the incidence of diabetes and the complications from diabetes in that area; and
 
-&emsp;(H) at the Fort Berthold Reservation;
+&emsp;&emsp;(C) ensure that data collected in each area office regarding diabetes and related complications among Indians are disseminated to all other area offices, subject to applicable patient privacy laws.
 
-&emsp;(I) at the Navajo Reservation;
+#### (2) Diabetes control officers
 
-&emsp;(J) at the Papago Reservation;
+#### (A) In general
 
-&emsp;(K) at the Zuni Reservation; or
+&emsp;&emsp;The Secretary may establish and maintain in each area office a position of diabetes control officer to coordinate and manage any activity of that area office relating to the prevention, treatment, or control of diabetes to assist the Secretary in carrying out a program under this section or section 254c–3 of title 42.
 
-&emsp;(L) in the States of Alaska, California, Minnesota, Montana, Oregon, or Utah.
+#### (B) Certain activities
 
-(2) The Secretary may establish new model diabetes projects under this section taking into consideration applications received under this section from all service areas, except that the Secretary may not establish a greater number of such projects in one service area than in any other service area until there is an equal number of such projects established with respect to all service areas from which the Secretary receives qualified applications during the application period (as determined by the Secretary).
+&emsp;&emsp;Any activity carried out by a diabetes control officer under subparagraph (A) that is the subject of a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), and any funds made available to carry out such an activity, shall not be divisible for purposes of that Act.
 
-#### (d) Control officer; registry of patients
-
-The Secretary shall—
-
-&emsp;(1) employ in each area office of the Service at least one diabetes control officer who shall coordinate and manage on a full-time basis activities within that area office for the prevention, treatment, and control of diabetes;
-
-&emsp;(2) establish in each area office of the Service a registry of patients with diabetes to track the incidence of diabetes and the complications from diabetes in that area;
-
-&emsp;(3) ensure that data collected in each area office regarding diabetes and related complications among Indians is disseminated to all other area offices; and
-
-&emsp;(4) evaluate the effectiveness of services provided through model diabetes projects established under this section.
-
-#### (e) Authorization of appropriations
-
-Funds appropriated under this section in any fiscal year shall be in addition to base resources appropriated to the Service for that year.
-
-(Pub. L. 94–437, title II, §204, as added Pub. L. 100–713, title II, §203(c), Nov. 23, 1988, 102 Stat. 4806; amended Pub. L. 102–573, title II, §§204, 217(b)(3), title IX, §901(2), Oct. 29, 1992, 106 Stat. 4546, 4559, 4590.)
+(Pub. L. 94–437, title II, §204, as added Pub. L. 100–713, title II, §203(c), Nov. 23, 1988, 102 Stat. 4806; amended Pub. L. 102–573, title II, §§204, 217(b)(3), title IX, §901(2), Oct. 29, 1992, 106 Stat. 4546, 4559, 4590; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 #### References in Text
 
-The Indian Self-Determination Act, referred to in subsec. (b), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+Public Law 108–87, referred to in subsec. (c), is Pub. L. 108–87, Sept. 30, 2003, 117 Stat. 1054, known as the Department of Defense Appropriations Act, 2004. Title IV of the Act (117 Stat. 1067) is not classified to the Code. For complete classification of this Act to the Code, see Tables.
+
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (e)(2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+
+#### Codification
+
+Amendment by Pub. L. 111–148 is based on sections 101(c)(1) and 123 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which were enacted into law by section 10221(a) of Pub. L. 111–148.
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–573, §901(2), redesignated par. (1) as entire subsec., redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, substituted “paragraph (1)” for “subparagraph (A)” in par. (2), and struck out former par. (2) which read as follows: “Within 18 months after November 23, 1988, the Secretary shall prepare and transmit to the President and the Congress a report describing the determinations made and measures taken under paragraph (1) and making recommendations for additional funding to prevent, treat, and control diabetes among Indians.”
+<b>2010</b>—Pub. L. 111–148 amended section generally. Prior to amendment, section related to determination of incidence of, and types of complications resulting from, diabetes among Indians, measures for treatment and control of diabetes among tribes, screening of each Indian receiving services from the Service, model diabetes projects, establishment by diabetes control officers of registry of patients with diabetes, and authorization of appropriations.
+
+Subsec. (c)(1). Pub. L. 111–148 struck out “through fiscal year 2000” before “each model diabetes project” in introductory provisions prior to general amendment of section. See above.
+
+<b>1992</b>—Subsec. (a). Pub. L. 102–573, §901(2), redesignated par. (1) as entire subsec., redesignated subpars. (A) and\(B) as pars. (1) and (2), respectively, substituted “paragraph (1)” for “subparagraph (A)” in par. (2), and struck out former par. (2) which read as follows: “Within 18 months after November 23, 1988, the Secretary shall prepare and transmit to the President and the Congress a report describing the determinations made and measures taken under paragraph (1) and making recommendations for additional funding to prevent, treat, and control diabetes among Indians.”
 
 Subsec. (c). Pub. L. 102–573, §204(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
@@ -101,4 +95,6 @@ Subsec. (c). Pub. L. 102–573, §204(1), amended subsec. (c) generally. Prior t
 Subsec. (d)(4). Pub. L. 102–573, §204(2), added par. (4).
 
 Subsec. (e). Pub. L. 102–573, §217(b)(3), substituted “this section” for “subsection (c) of this section” and struck out at beginning “There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

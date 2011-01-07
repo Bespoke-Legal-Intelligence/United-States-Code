@@ -8,9 +8,9 @@
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–242 amended subsec. (a) generally, substituting provisions authorizing appropriations to carry out this chapter for fiscal years 1988 and 1989, for provisions authorizing appropriations to carry out this chapter for fiscal years 1979 through 1982, 1984, and 1985.
+<b>1988</b>—Subsec. (a). Pub. L. 100–242 amended subsec. (a) generally, substituting provisions authorizing appropriations to carry out this chapter for fiscal years 1988 and 1989, for provisions authorizing appropriations to carry out this chapter for fiscal years 1979 through 1982, 1984, and 1985.
 
-1984—Subsec. (a)(4). Pub. L. 98–479 inserted a semicolon at end.
+<b>1984</b>—Subsec. (a)(4). Pub. L. 98–479 inserted a semicolon at end.
 
-1983—Subsec. (a)(5), (6). Pub. L. 98–181 added pars. (5) and (6).
+<b>1983</b>—Subsec. (a)(5), (6). Pub. L. 98–181 added pars. (5) and (6).
 

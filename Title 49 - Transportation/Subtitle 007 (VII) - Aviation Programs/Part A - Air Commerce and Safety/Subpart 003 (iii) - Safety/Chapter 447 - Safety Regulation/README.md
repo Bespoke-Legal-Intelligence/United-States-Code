@@ -36,13 +36,13 @@
 
 #### Amendments
 
-2007—Pub. L. 110–135, §2(b), Dec. 13, 2007, 121 Stat. 1452, added item 44729.
+<b>2007</b>—Pub. L. 110–135, §2(b), Dec. 13, 2007, 121 Stat. 1452, added item 44729.
 
-2003—Pub. L. 108–176, title II, §227(e)(2), title V, §502(b), title VIII, §814(b), Dec. 12, 2003, 117 Stat. 2532, 2557, 2592, substituted “Type certificates, production certificates, airworthiness certificates, and design organization certificates” for “Type certificates, production certificates, and airworthiness certificates” in item 44704 and added items 44727 and 44728.
+<b>2003</b>—Pub. L. 108–176, title II, §227(e)(2), title V, §502(b), title VIII, §814(b), Dec. 12, 2003, 117 Stat. 2532, 2557, 2592, substituted “Type certificates, production certificates, airworthiness certificates, and design organization certificates” for “Type certificates, production certificates, and airworthiness certificates” in item 44704 and added items 44727 and 44728.
 
-2000—Pub. L. 106–181, title V, §§504(c), 505(a)(2), title VI, §603(b), Apr. 5, 2000, 114 Stat. 134, 136, 152, substituted “Aeronautical charts and related products and services” for “Aeronautical maps and charts” in item 44721 and added items 44725 and 44726.
+<b>2000</b>—Pub. L. 106–181, title V, §§504(c), 505(a)(2), title VI, §603(b), Apr. 5, 2000, 114 Stat. 134, 136, 152, substituted “Aeronautical charts and related products and services” for “Aeronautical maps and charts” in item 44721 and added items 44725 and 44726.
 
-1996—Pub. L. 104–264, title VI, §602(a)(2), Oct. 9, 1996, 110 Stat. 3264, added item 44724.
+<b>1996</b>—Pub. L. 104–264, title VI, §602(a)(2), Oct. 9, 1996, 110 Stat. 3264, added item 44724.
 
 
 ---

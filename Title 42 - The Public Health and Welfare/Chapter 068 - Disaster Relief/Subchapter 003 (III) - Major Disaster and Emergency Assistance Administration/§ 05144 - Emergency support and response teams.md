@@ -28,7 +28,11 @@ The President shall form emergency support teams of Federal personnel to be depl
 
 &emsp;The Administrator shall evaluate team readiness on a regular basis and report team readiness levels in the report required under section 752(a) of title 6.
 
-(Pub. L. 93–288, title III, §303, formerly §304, May 22, 1974, 88 Stat. 148; renumbered §303, Pub. L. 100–707, title I, §105(c), Nov. 23, 1988, 102 Stat. 4691; amended Pub. L. 109–295, title VI, §§612(c), 633, Oct. 4, 2006, 120 Stat. 1410, 1421.)
+(Pub. L. 93–288, title III, §303, formerly §304, May 22, 1974, 88 Stat. 148; renumbered §303, Pub. L. 100–707, title I, §105(c), Nov. 23, 1988, 102 Stat. 4691; amended Pub. L. 109–295, title VI, §633, Oct. 4, 2006, 120 Stat. 1421; Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Prior Provisions
 
@@ -36,9 +40,7 @@ A prior section 303 of Pub. L. 93–288 was renumbered section 302 by Pub. L. 10
 
 #### Amendments
 
-2006—Pub. L. 109–295 substituted “Emergency support and response teams” for “Emergency support teams” in section catchline, designated existing provisions as subsec. (a), inserted subsec. heading, and added subsec. (b).
+<b>2011</b>—Subsec. (b). Pub. L. 111–351 substituted “Administrator” for “Director” wherever appearing.
 
-#### Change of Name
-
-“Administrator of the Federal Emergency Management Agency” and “Administrator” substituted for “Director of the Federal Emergency Management Agency” and “Director”, respectively, in subsec. (b) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+<b>2006</b>—Pub. L. 109–295 substituted “Emergency support and response teams” for “Emergency support teams” in section catchline, designated existing provisions as subsec. (a), inserted subsec. heading, and added subsec. (b).
 

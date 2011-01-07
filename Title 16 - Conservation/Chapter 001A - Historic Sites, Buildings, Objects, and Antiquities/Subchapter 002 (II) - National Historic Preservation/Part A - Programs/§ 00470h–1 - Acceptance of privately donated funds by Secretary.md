@@ -6,7 +6,7 @@ In furtherance of the purposes of this subchapter, the Secretary may accept the 
 
 #### (b) Consideration of factors respecting expenditure of funds
 
-In expending said funds, the Secretary shall give due consideration to the following factors: the national significance of the project; its historical value to the community; the imminence of its destruction or loss; and the expressed intentions of the donor. Funds expended under this subsection shall be made available without regard to the matching requirements established by section 470b of this title but the recipient of such funds shall be permitted to utilize them to match any grants from the Historic Preservation Fund established by section 470h of this title.
+In expending said funds, the Secretary shall give due consideration to the following factors:the national significance of the project; its historical value to the community; the imminence of its destruction or loss; and the expressed intentions of the donor. Funds expended under this subsection shall be made available without regard to the matching requirements established by section 470b of this title but the recipient of such funds shall be permitted to utilize them to match any grants from the Historic Preservation Fund established by section 470h of this title.
 
 #### (c) Transfer of unobligated funds
 

@@ -18,7 +18,7 @@
 
 #### (b) Membership; appointment; qualifications; Chairman; term of office; reappointment; vacancies; meetings; compensation and travel expenses; Federal nonemployee status
 
-(1) The Board shall be composed of nine members appointed by the Commission. Each member of the Board shall be qualified by trainingand experience in one or more fields applicable to the duties of the Board, and at least three of the members of the Board shall be members of the American Board of Medical Toxicology. The Chairman of the Board shall be elected by the Board from among its members.
+(1) The Board shall be composed of nine members appointed by the Commission. Each member of the Board shall be qualified by training and experience in one or more fields applicable to the duties of the Board, and at least three of the members of the Board shall be members of the American Board of Medical Toxicology. The Chairman of the Board shall be elected by the Board from among its members.
 
 (2) The members of the Board shall be appointed for terms of three years. Members of the Board may be reappointed.
 
@@ -36,11 +36,11 @@ The Board shall terminate on the date six years after the date it is established
 
 #### References in Text
 
-Section 5703 of title 5, referred to in subsec. (b)(5), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
+Section 5703 of title 5, referred to in subsec. (b)(5), was amended generally by Pub. L. 94–22, §4, May 19,1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–314 substituted “Commission” for “Consumer Product Safety Commission” after “November 10, 1978, the” and struck out “(hereinafter in this section referred to as the ‘Commission’)” immediately thereafter.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–314 substituted “Commission” for “Consumer Product Safety Commission” after “November 10, 1978, the” and struck out “(hereinafter in this section referred to as the ‘Commission’)” immediately thereafter.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

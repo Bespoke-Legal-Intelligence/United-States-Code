@@ -32,7 +32,7 @@ Members of the Board, other than full-time employees of the United States, while
 
 (1) The Secretary of Energy shall ensure that the members and staff of the Board, and the contractors performing work in support of the Board, are afforded the opportunity to apply for a security clearance for any matter for which such a clearance is appropriate. The Secretary should, not later than 180 days after receiving a completed application, make a determination whether or not the individual concerned is eligible for the clearance.
 
-(2) For fiscal year 2007 and each fiscal year thereafter, the Secretary of Energy shall includein the budget justification materials submitted to Congress in support of the Department of Energy budget for that fiscal year (as submitted with the budget of the President under section 1105(a) of title 31) a report specifying the number of applications for security clearances under this subsection, the number of such applications granted, and the number of such applications denied.
+(2) For fiscal year 2007 and each fiscal year thereafter, the Secretary of Energy shall include in the budget justification materials submitted to Congress in support of the Department of Energy budget for that fiscal year (as submitted with the budget of the President under section 1105(a) of title 31) a report specifying the number of applications for security clearances under this subsection, the number of such applications granted, and the number of such applications denied.
 
 #### (f) Information
 
@@ -46,7 +46,7 @@ The Privacy Act, referred to in subsec. (f), is probably a reference to section 
 
 #### Amendments
 
-2004—Subsecs. (e), (f). Pub. L. 108–375 added subsecs. (e) and (f).
+<b>2004</b>—Subsecs. (e), (f). Pub. L. 108–375 added subsecs. (e) and (f).
 
 #### Termination of Advisory Boards
 

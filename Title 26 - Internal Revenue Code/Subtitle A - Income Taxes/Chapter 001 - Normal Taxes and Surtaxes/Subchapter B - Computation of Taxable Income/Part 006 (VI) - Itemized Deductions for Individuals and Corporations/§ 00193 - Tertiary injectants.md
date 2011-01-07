@@ -40,9 +40,9 @@ Section 4996(b)(8)(C), referred to in subsec. (b)(3)(A), was repealed by Pub. L.
 
 #### Amendments
 
-1988—Subsec. (b)(3)(A). Pub. L. 100–418 substituted “section 4996(b)(8)(C) as in effect before its repeal” for “section 4996(b)(8)(C)”.
+<b>1988</b>—Subsec. (b)(3)(A). Pub. L. 100–418 substituted “section 4996(b)(8)(C) as in effect before its repeal” for “section 4996(b)(8)(C)”.
 
-1983—Subsec. (b)(1). Pub. L. 97–448 struck out “during the taxable year” after “any cost paid or incurred”.
+<b>1983</b>—Subsec. (b)(1). Pub. L. 97–448 struck out “during the taxable year” after “any cost paid or incurred”.
 
 #### Effective Date of 1988 Amendment
 

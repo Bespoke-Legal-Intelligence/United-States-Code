@@ -12,7 +12,7 @@ If the taxpayer fails to substantially comply with any formal document request a
 
 #### (2) Foreign nondisclosure law not reasonable cause
 
-&emsp;For purposes of paragraph (1), the fact that a foreign jurisdiction would impose a civil orcriminal penalty on the taxpayer (or any other person) for disclosing the requested documentation is not reasonable cause.
+&emsp;For purposes of paragraph (1), the fact that a foreign jurisdiction would impose a civil or criminal penalty on the taxpayer (or any other person) for disclosing the requested documentation is not reasonable cause.
 
 #### (c) Formal document request
 
@@ -68,7 +68,7 @@ If any person takes any action as provided in subsection (c)(2), the running of 
 
 #### Amendments
 
-1984—Subsec. (d)(3), (4). Pub. L. 98–369 redesignated par. (4) as (3) and struck out former par. (3) which provided that an item was to be treated as foreign connected if directly or indirectly from a source outside the United States, or the item (in whole or in part) purported to arise outside the United States, or was otherwise dependent on transactions occurring outside the United States.
+<b>1984</b>—Subsec. (d)(3), (4). Pub. L. 98–369 redesignated par. (4) as (3) and struck out former par. (3) which provided that an item was to be treated as foreign connected if directly or indirectly from a source outside the United States, or the item (in whole or in part) purported to arise outside the United States, or was otherwise dependent on transactions occurring outside the United States.
 
 #### Effective Date of 1984 Amendment
 

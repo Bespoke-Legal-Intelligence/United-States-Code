@@ -20,7 +20,7 @@ The Congress finds that—
 
 #### Amendments
 
-1992—Pars. (3) to (7). Pub. L. 102–586 added pars. (3) and (5) and redesignated former pars. (3), (4), and (5) as (4), (6), and (7), respectively.
+<b>1992</b>—Pars. (3) to (7). Pub. L. 102–586 added pars. (3) and (5) and redesignated former pars. (3), (4), and (5) as (4), (6), and (7), respectively.
 
 #### Short Title
 

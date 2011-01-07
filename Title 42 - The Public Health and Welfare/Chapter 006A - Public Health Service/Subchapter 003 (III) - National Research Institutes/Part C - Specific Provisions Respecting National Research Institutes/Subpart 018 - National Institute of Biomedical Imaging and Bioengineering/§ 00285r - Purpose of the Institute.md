@@ -52,7 +52,7 @@ The establishment under section 284a of this title of an advisory council for th
 
 #### Amendments
 
-2007—Subsec. (d). Pub. L. 109–482 struck out subsec. (d) which related to appropriations for fiscal years 2001 to 2003.
+<b>2007</b>—Subsec. (d). Pub. L. 109–482 struck out subsec. (d) which related to appropriations for fiscal years 2001 to 2003.
 
 #### Effective Date of 2007 Amendment
 
@@ -66,7 +66,7 @@ Pub. L. 106–580, §4, Dec. 29, 2000, 114 Stat. 3092, provided that: “This Ac
 
 Pub. L. 106–580, §2, Dec. 29, 2000, 114 Stat. 3088, provided that: “The Congress makes the following findings:
 
-&emsp;“(1) Basic research in imaging, bioengineering, computer science, informatics, and related fields is critical to improving health care but is fundamentally different from the research in molecular biology on which the current national research institutes at the National Institutes of Health (‘NIH’) are based. To ensure the development of new techniques and technologies for the 21st century, these disciplines therefore require an identity and research home atthe NIH that is independent of the existing institute structure.
+&emsp;“(1) Basic research in imaging, bioengineering, computer science, informatics, and related fields is critical to improving health care but is fundamentally different from the research in molecular biology on which the current national research institutes at the National Institutes of Health (‘NIH’) are based. To ensure the development of new techniques and technologies for the 21st century, these disciplines therefore require an identity and research home at the NIH that is independent of the existing institute structure.
 
 &emsp;“(2) Advances based on medical research promise new, more effective treatments for a wide variety of diseases, but the development of new, noninvasive imaging techniques for earlier detection and diagnosis of disease is essential to take full advantage of such new treatments and to promote the general improvement of health care.
 

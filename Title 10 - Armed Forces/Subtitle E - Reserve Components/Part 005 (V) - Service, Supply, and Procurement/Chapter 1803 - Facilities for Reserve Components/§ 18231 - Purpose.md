@@ -32,7 +32,7 @@ In clause (4), the words “United States” are substituted for the words “Fe
 
 #### Amendments
 
-1994—Pub. L. 103–337 renumbered section 2231 of this title as this section.
+<b>1994</b>—Pub. L. 103–337 renumbered section 2231 of this title as this section.
 
-1957—Par. (1). Pub. L. 85–215 included troop housing and messing facilities.
+<b>1957</b>—Par. (1). Pub. L. 85–215 included troop housing and messing facilities.
 

@@ -172,7 +172,7 @@ The Immigration and Nationality Act, referred to in subsec. (b)(3), is act June 
 
 The enactment by the United States Congress of the Compact of Free Association Amendments Act of 2003, referred to in subsec. (b)(4), is the enactment of Pub. L. 108–188, which was approved Dec. 17, 2003.
 
-The Palau Compact, referred to in subsec. (e)(2)(B), probably means the Compact of Free Association between the United States and the Government of Palau, which is contained in section 201 of Pub. L. 99–658, set out as a note under section 1931 of this title.
+The Palau Compact, referred to in subsec. (e)(2)(B), probably means the Compact of Free Association between the United States and the Government of Palau,which is contained in section 201 of Pub. L. 99–658, set out as a note under section 1931 of this title.
 
 The Compact of Free Association, approved by Public Law 99–239, referred to in subsec. (e)(6), is the Compact of Free Association between the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, as amended, set out as a note under section 1901 of this title.
 
@@ -186,9 +186,9 @@ The enactment of this resolution, referred to in subsec. (h)(1), is the enactmen
 
 #### Amendments
 
-2009—Subsec. (h)(3). Pub. L. 111–68 struck out par. (3). Text read as follows: “Not later than the date that is three years after December 17, 2003, and every 5 years thereafter, the Comptroller General of the United States shall submit to Congress a report on the Federated States of Micronesia and the Republic of the Marshall Islands including the topics set forth in paragraphs (1) (A) through (E) above, and on the effectiveness of administrative oversight by the United States.”
+<b>2009</b>—Subsec. (h)(3). Pub. L. 111–68 struck out par. (3). Text read as follows: “Not later than the date that is three years after December 17, 2003, and every 5 years thereafter, the Comptroller General of the United States shall submit to Congress a report on the Federated States of Micronesia and the Republic of the Marshall Islands including the topics set forth in paragraphs (1) (A) through (E) above, and on the effectiveness of administrative oversight by the United States.”
 
-2008—Subsec. (b)(1). Pub. L. 110–229, §806(a)(2)(A), inserted “the” before “U.S.-RMI Compact,”.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–229, §806(a)(2)(A), inserted “the” before “U.S.-RMI Compact,”.
 
 Subsec. (e)(8). Pub. L. 110–229, §806(a)(2)(B)(i), substituted “and include” for “to include” in introductory provisions.
 

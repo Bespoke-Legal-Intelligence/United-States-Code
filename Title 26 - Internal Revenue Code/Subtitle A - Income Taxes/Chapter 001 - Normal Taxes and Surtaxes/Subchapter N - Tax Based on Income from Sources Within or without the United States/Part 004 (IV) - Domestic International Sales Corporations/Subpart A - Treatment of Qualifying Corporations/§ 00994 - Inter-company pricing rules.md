@@ -26,5 +26,5 @@ For purposes of this section, the term “export promotion expenses” means tho
 
 #### Amendments
 
-1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 

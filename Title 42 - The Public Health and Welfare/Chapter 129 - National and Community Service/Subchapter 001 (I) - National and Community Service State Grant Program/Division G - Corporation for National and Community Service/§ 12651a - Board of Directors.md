@@ -64,7 +64,7 @@ A voting member of the Board whose term has expired may continue to serve on the
 
 #### Amendments
 
-2009—Subsec. (c). Pub. L. 111–13, §1701(1), added subsec. (c) and struck out former subsec. (c), which provided term lengths for members first appointed to the Board.
+<b>2009</b>—Subsec. (c). Pub. L. 111–13, §1701(1), added subsec. (c) and struck out former subsec. (c), which provided term lengths for members first appointed to the Board.
 
 Subsec. (e). Pub. L. 111–13, §1701(2), added subsec. (e).
 

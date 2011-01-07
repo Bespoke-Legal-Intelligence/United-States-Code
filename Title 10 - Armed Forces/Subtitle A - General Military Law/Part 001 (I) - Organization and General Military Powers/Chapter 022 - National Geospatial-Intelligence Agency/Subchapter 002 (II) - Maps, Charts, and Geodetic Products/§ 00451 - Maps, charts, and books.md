@@ -28,9 +28,9 @@ A prior section 451 was renumbered section 481 of this title.
 
 #### Amendments
 
-2003—Par. (1). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+<b>2003</b>—Par. (1). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-1996—Pub. L. 104–201 renumbered section 2792 of this title as this section and substituted “National Imagery and Mapping Agency” for “Defense Mapping Agency” in par. (1).
+<b>1996</b>—Pub. L. 104–201 renumbered section 2792 of this title as this section and substituted “National Imagery and Mapping Agency” for “Defense Mapping Agency” in par. (1).
 
 #### Effective Date of 1996 Amendment
 

@@ -42,7 +42,7 @@
 
 #### (7) Notice
 
-&emsp;Not later than 60 days after the Secretary of the Treasury first assesses an additional duty in a calendar year on a good under subsection (b), the Secretary shall notify the country whose good is subject to the additional duty in writing of such action and shall provide to that country data supporting the assessment of the additional duty.
+&emsp;Not later than 60 days after the Secretary of the Treasury first assesses an additional dutyin a calendar year on a good under subsection (b), the Secretary shall notify the country whose good is subject to the additional duty in writing of such action and shall provide to that country data supporting the assessment of the additional duty.
 
 #### (b) Additional duties on safeguard goods
 
@@ -78,7 +78,7 @@
 
 #### References in Text
 
-Part A of subchapter III of this chapter, referred to in subsec. (a)(5)(A), was in the original “subtitle A of titleIII of this Act”, meaning subtitle A (§§311–316) of title III of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 488, which enacted part A of subchapter III (§4061 et seq.) of this chapter and amended section 2252 of this title. For complete classification of subtitle A to the Code, see Tables.
+Part A of subchapter III of this chapter, referred to in subsec. (a)(5)(A), was in the original “subtitle A of title III of this Act”, meaning subtitle A (§§311–316) of title III of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 488, which enacted part A of subchapter III (§4061 et seq.) of this chapter and amended section 2252 of this title. For complete classification of subtitle A to the Code, see Tables.
 
 The Trade Act of 1974, referred to in subsec. (a)(5)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 1 of title II of the Act is classified generally to part 1 (§2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 

@@ -34,7 +34,7 @@
 
 (d) Of the total amount recovered or collected by the Department during a fiscal year under the provisions of law referred to in subsection (b) and made available from the fund, the Secretary shall make available to each Department health care facility of the Department an amount that bears the same ratio to the total amount so made available as the amount recovered or collected by such facility during that fiscal year under such provisions of law bears to such total amount recovered or collected during that fiscal year. The Secretary shall make available to each facility the entirety of the amount specified to be made available to such facility by the preceding sentence.
 
-(e) Amounts recovered or collected under the provisions of law referred to in subsection (b)shall be treated for the purposes of sections 251 and 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901, 902) as offsets to discretionary appropriations (rather than as offsets to direct spending) to the extent that such amounts are made available for expenditure in appropriations Acts for the purposes specified in subsection (c).
+(e) Amounts recovered or collected under the provisions of law referred to in subsection (b) shall be treated for the purposes of sections 251 and 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901, 902) as offsets to discretionary appropriations (rather than as offsets to direct spending) to the extent that such amounts are made available for expenditure in appropriations Acts for the purposes specified in subsection (c).
 
 (Added Pub. L. 105–33, title VIII, §8023(a)(1), Aug. 5, 1997, 111 Stat. 665; amended Pub. L. 106–117, title I, §111(b)(1), title II, §203, Nov. 30, 1999, 113 Stat. 1556, 1561; Pub. L. 107–135, title II, §208(e)(5), Jan. 23, 2002, 115 Stat. 2463; Pub. L. 108–7, div. K, title I, §113(b), Feb. 20, 2003, 117 Stat. 482; Pub. L. 108–183, title VII, §708(a)(2), Dec. 16, 2003, 117 Stat. 2673.)
 
@@ -44,7 +44,7 @@ Public Law 87–693, popularly known as the Federal Medical Care Recovery Act, r
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–183, §708(a)(2)(A), struck out “after June 30, 1997,” after “collected” in introductory provisions.
+<b>2003</b>—Subsec. (b). Pub. L. 108–183, §708(a)(2)(A), struck out “after June 30, 1997,” after “collected” in introductory provisions.
 
 Subsec. (b)(8) to (10). Pub. L. 108–7 added pars. (8) and (9) and redesignated former par. (8) as (10).
 
@@ -52,15 +52,15 @@ Subsec. (c)(3). Pub. L. 108–183, §708(a)(2)(B), struck out par. (3) which rel
 
 Subsecs. (e), (f). Pub. L. 108–183, §708(a)(2)(C), (D), redesignated subsec. (f) as (e) and struck out former subsec. (e) which required the Secretary to submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives quarterly reports on the operation of the section for fiscal years 1998, 1999, and 2000 and for the first quarter of fiscal year 2001.
 
-2002—Subsec. (b)(7), (8). Pub. L. 107–135 added par. (7) and redesignated former par. (7) as (8).
+<b>2002</b>—Subsec. (b)(7), (8). Pub. L. 107–135 added par. (7) and redesignated former par. (7) as (8).
 
-1999—Subsec. (b)(5) to (7). Pub. L. 106–117, §111(b)(1), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
+<b>1999</b>—Subsec. (b)(5) to (7). Pub. L. 106–117, §111(b)(1), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 
 Subsec. (d). Pub. L. 106–117, §203, struck out par. (1) designation, substituted “each Department health care facility” for “each designated health care region” and “each facility” for “each region”, substituted “such facility” for “such region” in two places, and struck out par. (2) which read as follows: “In this subsection, the term ‘designated health care regions of the Department’ means the geographic areas designated by the Secretary for purposes of the management of, and allocation of resources for, health care services provided by the Department.”
 
 #### Effective Date of 1999 Amendment
 
-Amendment by section 111(b)(1) of Pub. L. 106–117 effective 180 days after Nov. 30, 1999, see section 111(c) of Pub. L. 106–117, set out as an Effective Date note under section 1725 of this title.
+Amendment by section 111(b)(1) of Pub. L. 106–117 effective 180 days after Nov. 30, 1999, see section 111(c) ofPub. L. 106–117, set out as an Effective Date note under section 1725 of this title.
 
 #### Effective Date
 

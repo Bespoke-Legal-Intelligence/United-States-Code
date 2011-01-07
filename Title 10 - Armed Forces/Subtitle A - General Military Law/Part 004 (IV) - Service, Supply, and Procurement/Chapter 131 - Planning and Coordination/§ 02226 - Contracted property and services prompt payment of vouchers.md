@@ -2,13 +2,17 @@
 
 (a)
 
-Requirement.—Of the contract vouchers that are received by the Defense Finance and Accounting Service by means of the mechanization of contract administration services system, the number of such vouchers that remain unpaid for more than 30 days as of the last day of each month may not exceed 5 percent of the total number of the contract vouchers so received that remain unpaid on that day.
+Requirement.—Of the contract vouchers that are received by the Defense Finance and Accounting Service by means of the mechanization of contract administration services system,the number of such vouchers that remain unpaid for more than 30 days as of the last day of each month may not exceed 5 percent of the total number of the contract vouchers so received that remain unpaid on that day.
 
 (b)
 
-Contract Voucher Defined.—In this section, the term “contract voucher” means a voucher or invoice for the payment to a contractor for services, commercial items (as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))), or other deliverable items provided by the contractor under a contract funded by the Department of Defense.
+Contract Voucher Defined.—In this section, the term “contract voucher” means a voucher or invoice for the payment to a contractor for services, commercial items (as defined in section 103 of title 41), or other deliverable items provided by the contractor under a contract funded by the Department of Defense.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1006(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–247.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1006(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–247; amended Pub. L. 111–350, §5(b)(7), Jan. 4, 2011, 124 Stat. 3842.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (b). Pub. L. 111–350 substituted “section 103 of title 41” for “section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))”.
 
 #### Effective Date
 

@@ -18,11 +18,11 @@ A prior section 11 was renumbered section 10 of this title.
 
 #### Amendments
 
-2002—Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
+<b>2002</b>—Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
 
 Pub. L. 107–273, §13205(2)(B), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4507(2)\]. See 1999 Amendment note below.
 
-1999—Pub. L. 106–113, §1000(a)(9) \[title IV, §4808\], inserted at end “The Director shall not enter into an agreement to provide such copies of specifications and drawings of United States patents and applications to a foreign country, other than a NAFTA country or a WTO member country, without the express authorization of the Secretary of Commerce. For purposes of this section, the terms ‘NAFTA country’ and ‘WTO member country’ have the meanings given those terms in section 104(b).”
+<b>1999</b>—Pub. L. 106–113, §1000(a)(9) \[title IV, §4808\], inserted at end “The Director shall not enter into an agreement to provide such copies of specifications and drawings of United States patents and applications to a foreign country, other than a NAFTA country or a WTO member country, without the express authorization of the Secretary of Commerce. For purposes of this section, the terms ‘NAFTA country’ and ‘WTO member country’ have the meanings given those terms in section 104(b).”
 
 Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, §13206(b)(1)(B), substituted “Director” for “Commissioner”.
 

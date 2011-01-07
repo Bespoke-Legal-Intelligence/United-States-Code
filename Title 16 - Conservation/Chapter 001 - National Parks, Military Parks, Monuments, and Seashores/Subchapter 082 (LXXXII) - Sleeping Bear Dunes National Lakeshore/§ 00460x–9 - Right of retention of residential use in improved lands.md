@@ -16,7 +16,7 @@ Any person who is—
 
 #### (c) Limitation on use in instrument evidencing right; Secretary's power of termination of right
 
-Any deed or other instrument used to transfer title to property, with respect to which a right of use and occupancy is retained under this section, and any instrument evidencing any right of use and occupancy retained by any occupier under this section, shall provide that such property shall not be used for any purpose which is incompatible with purposes of this subchapter, or which impairs the usefulness and attractiveness of such area, and if it should be so used, that the Secretary many <sup>1</sup> terminate such right. In the event the Secretary exercises his power oftermination under this subsection he shall pay to the owner of the right terminated an amount equal to the value of that portion of such right which remained unexpired on the date of such termination.
+Any deed or other instrument used to transfer title to property, with respect to which a right of use and occupancy is retained under this section, and any instrument evidencing any right of use and occupancy retained by any occupier under this section, shall provide that such property shall not be used for any purpose which isincompatible with purposes of this subchapter, or which impairs the usefulness and attractiveness of such area, and if it should be so used, that the Secretary many <sup>1</sup> terminate such right. In the event the Secretary exercises his power of termination under this subsection he shall pay to the owner of the right terminated an amount equal to the value of that portion of such right which remained unexpired on the date of such termination.
 
 #### (d) Transfer of right to member of immediate family; owner option to terminate; payment by Secretary; “member of the immediate family” defined
 
@@ -30,7 +30,7 @@ Any deed or other instrument used to transfer title to property, with respect to
 
 #### Amendments
 
-1982—Subsec. (b). Pub. L. 97–361 substituted provisions granting owners and occupiers of improved lakeshore property described in section 460x–10 of this title the right of retention of a compatible residential use for a limited term upon notification of the Secretary and payment for the right retained for former provisions which were redesignated as subsec. (c) and amended.
+<b>1982</b>—Subsec. (b). Pub. L. 97–361 substituted provisions granting owners and occupiers of improved lakeshore property described in section 460x–10 of this title the right of retention of a compatible residential use for a limited term upon notification of the Secretary and payment for the right retained for former provisions which were redesignated as subsec. (c) and amended.
 
 Subsec. (c). Pub. L. 97–361 redesignated subsec. (b) as (c), and amended it to apply expressly to any instrument evidencing any right of use and occupancy retained by any occupier under this section.
 

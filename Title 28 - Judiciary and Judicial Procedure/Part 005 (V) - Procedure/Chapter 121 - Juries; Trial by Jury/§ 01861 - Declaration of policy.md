@@ -14,9 +14,9 @@ The last paragraph is added to exclude jurors incompetent to serve as jurors in 
 
 #### Amendments
 
-1968—Pub. L. 90–274 substituted provisions declaring the policy of the United States with respect to trial by jury and the opportunity to serve on such juries for provisions setting out the required qualifications of Federal jurors, including age, citizenship, residence, freedom from conviction of certain crimes, ability to read, write, speak, and understand the English language, and capability of rendering efficient jury service.
+<b>1968</b>—Pub. L. 90–274 substituted provisions declaring the policy of the United States with respect to trial by jury and the opportunity to serve on such juries for provisions setting out the required qualifications of Federal jurors, including age, citizenship, residence, freedom from conviction of certain crimes, ability to read, write, speak, and understand the English language, and capability of rendering efficient jury service.
 
-1957—Pub. L. 85–315 substituted “Qualifications of Federal jurors” for “Qualifications” in section catchline.
+<b>1957</b>—Pub. L. 85–315 substituted “Qualifications of Federal jurors” for “Qualifications” in section catchline.
 
 Pub. L. 85–315 substituted “and who has resided for a period of one year within the judicial district” for “and resides within the judicial district”, and struck out provisions which prohibited service as a grand or petit juror if a person was incompetent to serve as a grand or petit juror by the law of the State in which the district court is held.
 

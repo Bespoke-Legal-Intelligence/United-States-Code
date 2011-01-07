@@ -6,7 +6,7 @@ There are hereby authorized to be appropriated the sum of not more than $22,400,
 
 #### Amendments
 
-1976—Pub. L. 94–578 substituted “$22,400,000” for “$21,050,000”.
+<b>1976</b>—Pub. L. 94–578 substituted “$22,400,000” for “$21,050,000”.
 
-1972—Pub. L. 92–272 substituted “$21,050,000 (including such sums, together with interest, as may be necessary to satisfy final judgments rendered against the United States)” for “$16,250,000”.
+<b>1972</b>—Pub. L. 92–272 substituted “$21,050,000 (including such sums, together with interest, as may be necessary to satisfy final judgments rendered against the United States)” for “$16,250,000”.
 

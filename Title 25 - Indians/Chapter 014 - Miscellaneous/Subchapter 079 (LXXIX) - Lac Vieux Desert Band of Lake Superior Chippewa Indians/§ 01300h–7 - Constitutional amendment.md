@@ -16,5 +16,5 @@
 
 #### Amendments
 
-1990—Pub. L. 101–301 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1990</b>—Pub. L. 101–301 designated existing provisions as subsec. (a) and added subsec. (b).
 

@@ -30,7 +30,7 @@
 
 &emsp;(iii) A cadet or former cadet under this section who signs an agreement under section 2122 of this title for participation in the Armed Forces Health Professions Scholarship and Financial Assistance program.
 
-(C) The modification of an agreement described in paragraph (1)(F) may be made only if the Secretary determines that it is in the best interests of the United States to do so.
+(C) The modification of an agreement described in paragraph (1)(F) may be made only ifthe Secretary determines that it is in the best interests of the United States to do so.
 
 (c)(1) The Secretary of the Army shall provide for the payment of all expenses of the Department of the Army in administering the financial assistance program under this section, including the cost of tuition, fees, books, and laboratory expenses which are incurred by members of the program appointed as cadets under this section while such members are students at a military junior college.
 
@@ -70,13 +70,13 @@
 
 #### Amendments
 
-2009—Subsec. (h). Pub. L. 111–84 substituted “22 cadets” for “17 cadets”, “22 members” for “17 members”, and “22 such members” for “17 such members”.
+<b>2009</b>—Subsec. (h). Pub. L. 111–84 substituted “22 cadets” for “17 cadets”, “22 members” for “17 members”, and “22 such members” for “17 such members”.
 
-2008—Subsec. (b)(3). Pub. L. 110–181, §522, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “In the case of a cadet under this section at a military junior college, or a cadet or former cadet under this section who signs an agreement under section 2122 of this title, the Secretary may, at any time and with the consent of the cadet, or former cadet, concerned, modify an agreement described in paragraph (1)(F) submitted by the cadet, or former cadet, to reduce or eliminate the troop program unit service obligation specified in the agreement and to establish, in lieu of that obligation, an active duty service obligation. Such a modification may be made only if the Secretary determines that it is in the best interests of the United States to do so.”
+<b>2008</b>—Subsec. (b)(3). Pub. L. 110–181, §522, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “In the case of a cadet under this section at a military junior college, or a cadet or former cadet under this section who signs an agreement under section 2122 of this title, the Secretary may, at any time and with the consent of the cadet, or former cadet, concerned, modify an agreement described in paragraph (1)(F) submitted by the cadet, or former cadet, to reduce or eliminate the troop program unit service obligation specified in the agreement and to establish, in lieu of that obligation, an active duty service obligation. Such a modification may be made only if the Secretary determines that it is in the best interests of the United States to do so.”
 
 Subsec. (h). Pub. L. 110–181, §523, substituted “each year under this section” for “not more than 416 cadets each year under this section, to include”.
 
-2006—Subsec. (b)(1)(A). Pub. L. 109–163, §534(b), inserted “or national” after “citizen”.
+<b>2006</b>—Subsec. (b)(1)(A). Pub. L. 109–163, §534(b), inserted “or national” after “citizen”.
 
 Subsec. (b)(3). Pub. L. 109–364 inserted “or a cadet or former cadet under this section who signs an agreement under section 2122 of this title,” after “military junior college,” and “, or former cadet,” after “consent of the cadet” and after “submitted by the cadet”.
 
@@ -86,25 +86,25 @@ Subsec. (h). Pub. L. 109–163, §532, substituted “416” for “208”.
 
 Subsec. (j). Pub. L. 109–163, §536, added subsec. (j).
 
-2004—Subsec. (c)(4). Pub. L. 108–375 added par. (4).
+<b>2004</b>—Subsec. (c)(4). Pub. L. 108–375 added par. (4).
 
-2003—Subsec. (c). Pub. L. 108–136, §521(b), designated existing provisions as par. (1) and added pars. (2) and (3).
+<b>2003</b>—Subsec. (c). Pub. L. 108–136, §521(b), designated existing provisions as par. (1) and added pars. (2) and (3).
 
 Subsec. (h). Pub. L. 108–136, §522, substituted “17” for “10” wherever appearing.
 
-2001—Subsec. (a)(1). Pub. L. 107–107, §534(b), substituted “31 years of age on December 31” for “27 years of age on June 30” and struck out “, except that the age of any such member who has served on active duty in the armed forces may exceed such age limitation on such date by a period equal to the period such member served on active duty, but only if such member will be under 30 years of age on such date” before period at end.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–107, §534(b), substituted “31 years of age on December 31” for “27 years of age on June 30” and struck out “, except that the age of any such member who has served on active duty in the armed forces may exceed such age limitation on such date by a period equal to the period such member served on active duty, but only if such member will be under 30 years of age on such date” before period at end.
 
 Subsec. (b). Pub. L. 107–107, §536(a), designated introductory provisions of subsec. (b) as introductory provisions of par. (1), redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), redesignated former concluding provisions as par. (2), and added par. (3).
 
 Subsec. (h). Pub. L. 107–107, §536(c), substituted “At any military junior college” for “At any military college” in second sentence.
 
-1997—Subsec. (g). Pub. L. 105–85 inserted “the” after “August 1, 1979, as a member of”.
+<b>1997</b>—Subsec. (g). Pub. L. 105–85 inserted “the” after “August 1, 1979, as a member of”.
 
-1996—Subsec. (a)(1). Pub. L. 104–201, §555(a), substituted “27 years of age” for “25 years of age” and “30 years of age” for “29 years of age”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–201, §555(a), substituted “27 years of age” for “25 years of age” and “30 years of age” for “29 years of age”.
 
 Subsec. (g). Pub. L. 104–201, §507(a)(3), inserted “, other than enlisted service performed after August 1, 1979, as a member of Selected Reserve” before period at end.
 
-1991—Pub. L. 102–190, §522(b)(1), substituted “Army Reserve and Army National Guard” for “military junior colleges” in section catchline.
+<b>1991</b>—Pub. L. 102–190, §522(b)(1), substituted “Army Reserve and Army National Guard” for “military junior colleges” in section catchline.
 
 Subsec. (a)(1). Pub. L. 102–190, §522(a)(1), substituted “enrolled in the Advanced Course of the Army Reserve Officers’ Training Corps at a military college, military junior college, or civilian institution” for “a student at a military junior college” and inserted “Reserve or Army National Guard” after “second lieutenant in the Army”.
 

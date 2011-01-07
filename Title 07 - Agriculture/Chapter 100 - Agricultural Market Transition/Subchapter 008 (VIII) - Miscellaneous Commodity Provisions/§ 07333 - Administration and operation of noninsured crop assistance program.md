@@ -60,11 +60,11 @@
 
 #### (1) Timely application
 
-&emsp;To be eligible for assistance under this section, a producer shall submit an applicationfor noninsured crop disaster assistance at a local office of the Department. The application shall be in such form, contain such information, and be submitted not later than 30 days before the beginning of the coverage period, as determined by the Secretary.
+&emsp;To be eligible for assistance under this section, a producer shall submit an application for noninsured crop disaster assistance at a local office of the Department. The application shall be in such form, contain such information, and be submitted not later than 30 days before the beginning of the coverage period, as determined by the Secretary.
 
 #### (2) Records
 
-&emsp;To be eligible for assistance under this section, a producer shall provide annually to the Secretary records of crop acreage, acreage yields, and production for each crop, as required by the Secretary.
+&emsp;To be eligible for assistance under this section, a producer shall provide annually to theSecretary records of crop acreage, acreage yields, and production for each crop, as required by the Secretary.
 
 #### (3) Acreage reports
 
@@ -230,7 +230,7 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 &emsp;The Secretary shall deposit service fees collected under this subsection in the Commodity Credit Corporation Fund.
 
-(Pub. L. 104–127, title I, §196, Apr. 4, 1996, 110 Stat. 947; Pub. L. 105–277, div. A, §101(a) \[title VIII, §803(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–38; Pub. L. 106–224, title I, §109, June 20, 2000, 114 Stat. 371; Pub. L. 107–171, title X, §10101, May 13, 2002, 116 Stat. 488; Pub. L. 110–234, title I, §1603(f)(1), title XII, §§12020(b), 12025(b), 12027, 12028, May 22, 2008, 122 Stat. 1010, 1381, 1390; Pub. L. 110–246, §4(a), title I, §1603(f)(1), title XII, §§12020(b), 12025(b), 12027, 12028, June 18, 2008, 122 Stat. 1664, 1739, 2143, 2152.)
+(Pub. L. 104–127, title I, §196, Apr. 4, 1996, 110 Stat. 947; Pub. L. 105–277, div. A, §101(a) \[title VIII, §803(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–38; Pub. L. 106–224, title I, §109, June 20, 2000, 114 Stat. 371; Pub. L. 107–171, title X, §10101, May 13, 2002, 116 Stat. 488; Pub. L. 110–234, title I, §1603(f)(1), title XII, §§12020(b), 12025(b), 12027, 12028, May 22, 2008, 122 Stat. 1010, 1381, 1390; Pub.L. 110–246, §4(a), title I, §1603(f)(1), title XII, §§12020(b), 12025(b), 12027, 12028, June 18, 2008, 122 Stat. 1664, 1739, 2143, 2152.)
 
 #### References in Text
 

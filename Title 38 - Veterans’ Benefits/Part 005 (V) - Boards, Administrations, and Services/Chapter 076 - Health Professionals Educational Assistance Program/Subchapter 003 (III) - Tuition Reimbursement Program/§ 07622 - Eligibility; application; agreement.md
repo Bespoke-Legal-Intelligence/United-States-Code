@@ -26,11 +26,11 @@
 
 #### Amendments
 
-1994—Subsecs. (b)(1), (c)(2)(A). Pub. L. 103–446, §1201(b)(1), substituted “Veterans Health Administration” for “Department of Medicine and Surgery”.
+<b>1994</b>—Subsecs. (b)(1), (c)(2)(A). Pub. L. 103–446, §1201(b)(1), substituted “Veterans Health Administration” for “Department of Medicine and Surgery”.
 
 Subsec. (c)(2)(B). Pub. L. 103–446, §1201(b)(2), substituted “the Veterans Health Administration” for “such Department”.
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 4322 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 4322 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 

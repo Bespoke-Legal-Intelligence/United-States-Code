@@ -2,8 +2,6 @@ Part 1—
 
 Rates of Duty and Other Trade Barriers
 
-<i><sup>1</sup></i><i> So in original.</i>
-
 
 ---
 

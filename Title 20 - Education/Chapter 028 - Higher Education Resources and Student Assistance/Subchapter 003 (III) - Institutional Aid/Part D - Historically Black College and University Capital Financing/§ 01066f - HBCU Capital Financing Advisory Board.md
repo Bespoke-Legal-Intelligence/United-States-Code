@@ -64,7 +64,7 @@ A prior section 347 of Pub. L. 89–329 was classified to section 1069c of this 
 
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–315, §314(e)(1)(A), substituted “11 members” for “9 members” in introductory provisions.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–315, §314(e)(1)(A), substituted “11 members” for “9 members” in introductory provisions.
 
 Subsec. (b)(1)(C). Pub. L. 110–315, §314(e)(1)(B), substituted “Three members” for “Two members”.
 
@@ -72,7 +72,7 @@ Subsec. (b)(1)(G). Pub. L. 110–315, §314(e)(1)(C), added subpar. (G).
 
 Subsec. (c). Pub. L. 110–315, §314(e)(2), added subsec. (c).
 
-1998—Subsec. (b)(1)(D). Pub. L. 105–244, §306(e)(1)(A), inserted “, or the president's designee.” after “Fund, Inc.”
+<b>1998</b>—Subsec. (b)(1)(D). Pub. L. 105–244, §306(e)(1)(A), inserted “, or the president's designee.” after “Fund, Inc.”
 
 Subsec. (b)(1)(E). Pub. L. 105–244, §306(e)(1)(B), inserted “, or the designee of the Association” before the period.
 

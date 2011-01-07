@@ -10,9 +10,9 @@ The Migratory Bird Conservation Act, referred to in text, is act Feb. 18, 1929, 
 
 #### Amendments
 
-2000—Pub. L. 106–408 in first sentence inserted “, at the time at which a deduction or apportionment is made,” after “certify” and struck out “and executing” after “for administering”.
+<b>2000</b>—Pub. L. 106–408 in first sentence inserted “, at the time at which a deduction or apportionment is made,” after “certify” and struck out “and executing” after “for administering”.
 
-1970—Pub. L. 91–503 struck out requirement that apportionments be made by February 20 of each year preceding commencement of fiscal year in which funds would be used.
+<b>1970</b>—Pub. L. 91–503 struck out requirement that apportionments be made by February 20 of each year preceding commencement of fiscal year in which funds would be used.
 
 #### Transfer of Functions
 

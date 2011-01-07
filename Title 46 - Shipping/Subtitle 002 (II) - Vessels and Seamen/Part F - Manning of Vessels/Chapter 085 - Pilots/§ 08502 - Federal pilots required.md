@@ -20,7 +20,7 @@
 
 (e) The owner, charterer, managing operator, agent, master, or individual in charge of a vessel operated in violation of this section or a regulation prescribed under this section is liable to the United States Government for a civil penalty of $10,000. The vessel also is liable in rem for the penalty.
 
-(f) An individual serving as a pilot without having a license required by this section or aregulation prescribed under this section is liable to the Government for a civil penalty of $10,000.
+(f) An individual serving as a pilot without having a license required by this section or a regulation prescribed under this section is liable to the Government for a civil penalty of $10,000.
 
 (g)(1) The Secretary shall designate by regulation the areas of the approaches to and waters of Prince William Sound, Alaska, if any, on which a vessel subject to this section is not required to be under the direction and control of a pilot licensed under section 7101 of this title.
 
@@ -60,9 +60,9 @@ Subsections (e) and (f) prescribe civil penalties for violation of this section.
 
 #### Amendments
 
-1998—Subsec. (a)(3). Pub. L. 105–383 substituted “not beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured” for “not on the high seas”.
+<b>1998</b>—Subsec. (a)(3). Pub. L. 105–383 substituted “not beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured” for “not on the high seas”.
 
-1990—Subsec. (a). Pub. L. 101–595, §307(1), substituted “subsections (g) and (i)” for “subsection (g)” in introductory provisions.
+<b>1990</b>—Subsec. (a). Pub. L. 101–595, §307(1), substituted “subsections (g) and (i)” for “subsection (g)” in introductory provisions.
 
 Subsecs. (e), (f). Pub. L. 101–380, §4302(g), substituted “$10,000” for “$500”.
 
@@ -72,9 +72,9 @@ Subsec. (h). Pub. L. 101–380, §4116(b), added subsec. (h).
 
 Subsec. (i). Pub. L. 101–595, §307(2), added subsec. (i).
 
-1986—Subsec. (a)(4)(A). Pub. L. 99–307 substituted “part” for “Part”.
+<b>1986</b>—Subsec. (a)(4)(A). Pub. L. 99–307 substituted “part” for “Part”.
 
-1984—Subsec. (a). Pub. L. 98–557, §29(f)(1), amended subsec. (a) generally, which prior to amendment read as follows: “A coastwise seagoing vessel, when not sailing on register and when underway (except on the high seas), shall be under the direction and control of a pilot licensed under section 7101 of this title if the vessel is—
+<b>1984</b>—Subsec. (a). Pub. L. 98–557, §29(f)(1), amended subsec. (a) generally, which prior to amendment read as follows: “A coastwise seagoing vessel, when not sailingon register and when underway (except on the high seas), shall be under the direction and control of a pilot licensed under section 7101 of this title if the vessel is—
 
 &emsp;“(1) propelled by machinery and subject to inspection under part B of this subtitle; or
 

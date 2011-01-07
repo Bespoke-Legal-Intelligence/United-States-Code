@@ -32,13 +32,13 @@ Act of March 1, 1911, referred to in text, is act Mar. 1, 1911, ch. 186, 36 Stat
 
 #### Amendments
 
-1958—Subsec. (a). Pub. L. 85–624 designated first sentence of existing provisions as subsec. (a), and, among other changes, inserted “Subject to the exceptions prescribed in section 662(h) of this title” before “whenever the waters”, substituted “diverted, the channel deepened, or the stream or other body of water otherwise controlled or modified for any purpose whatever, including navigation and drainage” for “diverted, or otherwise controlled for any purpose whatever”, and inserted provisions requiring adequate provision to be made for the development and improvement of wildlife resources pursuant to the provisions of section 662 of this title.
+<b>1958</b>—Subsec. (a). Pub. L. 85–624 designated first sentence of existing provisions as subsec. (a), and, among other changes, inserted “Subject to the exceptions prescribed in section 662(h) of this title” before “whenever the waters”, substituted “diverted, the channel deepened, or the stream or other body of water otherwise controlled or modified for any purpose whatever, including navigation and drainage” for “diverted, or otherwise controlled for any purpose whatever”, and inserted provisions requiring adequate provision to be made for the development and improvement of wildlife resources pursuant to the provisions of section 662 of this title.
 
 Subsec. (b). Pub. L. 85–624 designated second sentence of existing provisions as subsec. (b), included the use of land for wildlife conservation purpose, and provided that nothing in this section shall be construed as effecting the authority of the Secretary of Agriculture to cooperate with the States or in making lands available to the States with respect to the management of wildlife and wildlife habitat on lands administered by him.
 
 Subsecs. (c) to (f). Pub. L. 85–624 added subsecs. (c) to (f).
 
-1946—Act Aug. 14, 1946, amended section generally to provide for conservation and maintenance of wildlife resources upon impounding of waters, and to provide for free use of waters under certain conditions.
+<b>1946</b>—Act Aug. 14, 1946, amended section generally to provide for conservation and maintenance of wildlife resources upon impounding of waters, and to provide for free use of waters under certain conditions.
 
 #### Transfer of Functions
 

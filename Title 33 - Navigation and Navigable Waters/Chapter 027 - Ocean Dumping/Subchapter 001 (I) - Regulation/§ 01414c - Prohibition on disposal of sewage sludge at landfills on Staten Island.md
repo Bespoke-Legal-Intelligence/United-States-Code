@@ -22,5 +22,5 @@ For purposes of this section, the term “sewage sludge” has the meaning such 
 
 #### References in Text
 
-This Act, referred to in subsec. (b)(1), means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§2801 et seq.) of this title, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation.
+This Act, referred to in subsec. (b)(1), means Pub. L. 92–532, which is classified generally to this chapter,chapter 41 (§2801 et seq.) of this title, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation.
 

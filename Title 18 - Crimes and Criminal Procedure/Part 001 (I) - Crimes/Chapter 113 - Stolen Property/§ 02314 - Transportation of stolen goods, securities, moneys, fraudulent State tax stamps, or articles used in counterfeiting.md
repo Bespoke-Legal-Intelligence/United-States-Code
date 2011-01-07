@@ -12,9 +12,9 @@ Whoever, with unlawful or fraudulent intent, transports in interstate or foreign
 
 Shall be fined under this title or imprisoned not more than ten years, or both.
 
-This section shall not apply to any falsely made, forged, altered, counterfeited or spurious representation of an obligation or other security of the United States, or of an obligation, bond, certificate, security, treasury note, bill, promise to pay or bank note issued by any foreign government. This section also shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of any bank note or bill issued by a bank or corporation of any foreign country which is intended by the laws or usage of such country to circulate as money.
+This section shall not apply to any falsely made, forged, altered, counterfeited or spuriousrepresentation of an obligation or other security of the United States, or of an obligation, bond, certificate, security, treasury note, bill, promise to pay or bank note issued by any foreign government. This section also shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of any bank note or bill issued by a bank or corporation of any foreign country which is intended by the laws or usage of such country to circulate as money.
 
-(June 25, 1948, ch. 645, 62 Stat. 806; May 24, 1949, ch. 139, §45, 63 Stat. 96; July 9, 1956, ch. 519, 70Stat. 507; Pub. L. 87–371, §2, Oct. 4, 1961, 75 Stat. 802; Pub. L. 90–535, Sept. 28, 1968, 82 Stat. 885; Pub. L. 100–690, title VII, §§7057, 7080, Nov. 18, 1988, 102 Stat. 4402, 4406; Pub. L. 101–647, title XII, §1208, Nov. 29, 1990, 104 Stat. 4832; Pub. L. 103–322, title XXXIII, §330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 806; May 24, 1949, ch. 139, §45, 63 Stat. 96; July 9, 1956, ch. 519, 70 Stat. 507; Pub. L. 87–371, §2, Oct. 4, 1961, 75 Stat. 802; Pub. L. 90–535, Sept. 28, 1968, 82 Stat. 885; Pub. L. 100–690, title VII, §§7057, 7080, Nov. 18, 1988, 102 Stat. 4402, 4406; Pub. L. 101–647, title XII, §1208, Nov. 29, 1990, 104 Stat. 4832; Pub. L. 103–322, title XXXIII, §330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 
@@ -48,23 +48,23 @@ This amendment \[see section 45\] restates and clarifies the first paragraph of 
 
 #### Amendments
 
-1994—Pub. L. 103–322, §330016(1)(L), substituted “fined under this title” for “fined not more than $10,000” in penultimate par.
+<b>1994</b>—Pub. L. 103–322, §330016(1)(L), substituted “fined under this title” for “fined not more than $10,000” in penultimate par.
 
 Pub. L. 103–322, §330016(1)(K), which directed the amendment of this section by striking “not more than $5,000” and inserting “under this title”, could not be executed because the phrase “not more than $5,000” did not appear in text.
 
-1990—Pub. L. 101–647 inserted “or foreign” after “interstate” in second par.
+<b>1990</b>—Pub. L. 101–647 inserted “or foreign” after “interstate” in second par.
 
-1988—Pub. L. 100–690, §7057(a), substituted “transports, transmits, or transfers” for “transports” in first par.
+<b>1988</b>—Pub. L. 100–690, §7057(a), substituted “transports, transmits, or transfers” for “transports” in first par.
 
 Pub. L. 100–690, §7080, inserted “or persons” after “any person” and “or those persons” after “that person” in second par.
 
 Pub. L. 100–690, §7057(b), struck out “or by a bank or corporation of any foreign country” after “foreign government” in last par. and inserted at end “This section also shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of any bank note or bill issued by a bank or corporation of any foreign country which is intended by the laws or usage of such country to circulate as money.”
 
-1968—Pub. L. 90–535 prohibited transportation with unlawful or fraudulent intent in interstate or foreign commerce of traveler's checks bearing forged countersignatures.
+<b>1968</b>—Pub. L. 90–535 prohibited transportation with unlawful or fraudulent intent in interstate or foreign commerce of traveler's checks bearing forged countersignatures.
 
-1961—Pub. L. 87–371 inserted “or tax stamps” after “securities” in third par. and after “security” in fourth par., and “fraudulent State tax stamps,” in section catchline.
+<b>1961</b>—Pub. L. 87–371 inserted “or tax stamps” after “securities” in third par. and after “security” in fourth par., and “fraudulent State tax stamps,” in section catchline.
 
-1956—Act July 9, 1956, inserted par. relating to interstate transportation of persons in schemes to defraud.
+<b>1956</b>—Act July 9, 1956, inserted par. relating to interstate transportation of persons in schemes to defraud.
 
-1949—Act May 24, 1949, substituted “knowing the same to have been stolen, converted or taken by fraud” for “theretofore stolen, converted, or taken by fraud” in first par.
+<b>1949</b>—Act May 24, 1949, substituted “knowing the same to have been stolen, converted or taken by fraud” for “theretofore stolen, converted, or taken by fraud” in first par.
 

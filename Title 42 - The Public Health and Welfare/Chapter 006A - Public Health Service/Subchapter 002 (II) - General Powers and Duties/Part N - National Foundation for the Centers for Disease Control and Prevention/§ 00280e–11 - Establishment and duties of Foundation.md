@@ -80,7 +80,7 @@ In carrying out subsection (b) of this section, the Foundation may provide for t
 
 &emsp;(A) Subject to subparagraph (B), the Board shall be composed of 7 individuals, appointed in accordance with paragraph (4), who collectively possess education or experience appropriate for representing the general field of public health, the general field of international health, and the general public. Each such individual shall be a voting member of the Board.
 
-&emsp;(B) The Board may, through amendments to the bylaws of the Foundation, provide that the number of members of the Board shall be a greater number than the number specified in subparagraph (A).
+&emsp;(B) The Board may, through amendments to the bylaws of the Foundation, provide that thenumber of members of the Board shall be a greater number than the number specified in subparagraph (A).
 
 #### (3) Chair
 
@@ -138,7 +138,7 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 #### (4) Applicability of certain standards to non-Federal employees
 
-&emsp;In the case of any individual who is not an employee of the Federal Government and whoserves in association with the Centers for Disease Control and Prevention pursuant to financial support from the Foundation, the Foundation shall negotiate a memorandum of understanding with the individual and the Director of the Centers for Disease Control and Prevention specifying that the individual—
+&emsp;In the case of any individual who is not an employee of the Federal Government and who serves in association with the Centers for Disease Control and Prevention pursuant to financial support from the Foundation, the Foundation shall negotiate a memorandum of understanding with the individual and the Director of the Centers for Disease Control and Prevention specifying that the individual—
 
 &emsp;&emsp;(A) shall be subject to the ethical and procedural standards regulating Federal employment, scientific investigation, and research findings (including publications and patents) that are required of individuals employed by the Centers for Disease Control and Prevention, including standards under this chapter, the Ethics in Government Act, and the Technology Transfer Act; <sup>1</sup> and
 
@@ -208,7 +208,7 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 &emsp;(A) For the purpose of grants under paragraph (1), there is authorized to be appropriated $1,250,000 for each fiscal year.
 
-&emsp;(B) For the purpose of grants under paragraph (1), the Secretary may for each fiscalyear make available not less than $500,000, and not more than $1,250,000 from the amounts appropriated for the fiscal year for the programs of the Department of Health and Human Services. Such amounts may be made available without regard to whether amounts have been appropriated under subparagraph (A).
+&emsp;(B) For the purpose of grants under paragraph (1), the Secretary may for each fiscal year make available not less than $500,000, and not more than $1,250,000 from the amounts appropriated for the fiscal year for the programs of the Department of Health and Human Services. Such amounts may be made available without regard to whether amounts have been appropriated under subparagraph (A).
 
 #### (3) Certain restriction
 
@@ -304,7 +304,7 @@ A prior section 399G of act July 1, 1944, was renumbered section 399H and was cl
 
 #### Amendments
 
-2006—Subsec. (h)(2)(A). Pub. L. 109–245, §1(a), substituted “In the case of an individual, such Director may accept the services provided under the preceding sentence by the individual until such time as the private funding for such individual ends.” for “In the case of an individual, such Director may accept the services provided under the preceding sentence by the individual for not more than 2 years.”
+<b>2006</b>—Subsec. (h)(2)(A). Pub. L. 109–245, §1(a), substituted “In the case of an individual, such Director may accept the services provided under the preceding sentence by the individual until such time as the private funding for such individual ends.” for “In the case of an individual, such Director may accept the services provided under the preceding sentence by the individual for not more than 2 years.”
 
 Subsec. (h)(7)(A). Pub. L. 109–245, §1(b)(1), inserted “, including an accounting of the use of amounts provided for under subsection (i)” before period at end of second sentence.
 
@@ -315,4 +315,6 @@ Subsec. (i)(2)(A). Pub. L. 109–245, §1(c)(1)(A), substituted “$1,250,000”
 Subsec. (i)(2)(B). Pub. L. 109–245, §1(c)(1)(B), substituted “not less than $500,000, and not more than $1,250,000” for “not more than $500,000”.
 
 Subsec. (i)(4). Pub. L. 109–245, §1(c)(2), added par. (4).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

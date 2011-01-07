@@ -22,7 +22,7 @@
 
 #### (3) Scope
 
-&emsp;The method adopted under this subsection shall apply to all expenditures described inparagraph (1). The method adopted shall be adhered to in computing taxable income for the taxable year and for all subsequent taxable years unless, with the approval of the Secretary, a change to a different method is authorized with respect to part or all of such expenditures.
+&emsp;The method adopted under this subsection shall apply to all expenditures described in paragraph (1). The method adopted shall be adhered to in computing taxable income for the taxable year and for all subsequent taxable years unless, with the approval of the Secretary, a change to a different method is authorized with respect to part or all of such expenditures.
 
 #### (b) Amortization of certain research and experimental expenditures
 
@@ -64,15 +64,15 @@ This section shall apply to a research or experimental expenditure only to the e
 
 #### Amendments
 
-1989—Subsecs. (e), (f). Pub. L. 101–239 added subsec. (e) and redesignated former subsec. (e) as (f).
+<b>1989</b>—Subsecs. (e), (f). Pub. L. 101–239 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1988—Subsec. (e)(2). Pub. L. 100–647 substituted “section 59(e)” for “section 59(d)”.
+<b>1988</b>—Subsec. (e)(2). Pub. L. 100–647 substituted “section 59(e)” for “section 59(d)”.
 
-1986—Subsec. (e)(2). Pub. L. 99–514 substituted “section 59(d)” for “section 58(i)”.
+<b>1986</b>—Subsec. (e)(2). Pub. L. 99–514 substituted “section 59(d)” for “section 58(i)”.
 
-1982—Subsec. (e). Pub. L. 97–248, §201(d)(9)(B), substituted “Cross references” for “Cross reference” in heading, designated existing provisions as par. (1), and added par. (2).
+<b>1982</b>—Subsec. (e). Pub. L. 97–248, §201(d)(9)(B), substituted “Cross references” for “Cross reference” inheading, designated existing provisions as par. (1), and added par. (2).
 
-1976—Subsec. (a)(2)(A). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a)(2)(A). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (a)(2)(A)(i). Pub. L. 94–455, §1901(a)(30), substituted “August 16, 1954” for “the date on which this title is enacted” after “ends after”.
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, see section 201(e)(1)of Pub. L. 97–248, set out as a note under section 5 of this title.
+Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, see section 201(e)(1) of Pub. L. 97–248, set out as a note under section 5 of this title.
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

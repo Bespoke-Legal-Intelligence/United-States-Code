@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Office of Personnel Management shall, without regard to section 5 of title 41 or any other statute requiring competitive bidding, contract with one or more qualified carriers for a policy or policies of long-term care insurance. The Office shall ensure that each resulting contract (hereafter in this chapter referred to as a “master contract”) is awarded on the basis of contractor qualifications, price, and reasonable competition.
+In General.—The Office of Personnel Management shall, without regard to section 6101(b) to (d) of title 41 or any other statute requiring competitive bidding, contract with one or more qualified carriers for a policy or policies of long-term care insurance. The Office shall ensure that each resulting contract (hereafter in this chapter referred to as a “master contract”) is awarded on the basis of contractor qualifications, price, and reasonable competition.
 
 (b)
 
@@ -50,11 +50,11 @@ Eligibility.—A carrier's determination as to whether or not a particular indiv
 
 &emsp;(3)
 
-Other claims.—For purposes of applying the Contract Disputes Act of 1978 to disputes arising under this chapter between a carrier and the Office—
+Other claims.—For purposes of applying chapter 71 of title 41 to disputes arising under this chapter between a carrier and the Office—
 
-&emsp;&emsp;(A) the agency board having jurisdiction to decide an appeal relative to such a dispute shall be such board of contract appeals as the Director of the Office of Personnel Management shall specify in writing (after appropriate arrangements, as described in section 8(c) of such Act); and
+&emsp;&emsp;(A) the agency board having jurisdiction to decide an appeal relative to such a dispute shall be such board of contract appeals as the Director of the Office of Personnel Management shall specify in writing; and
 
-&emsp;&emsp;(B) the district courts of the United States shall have original jurisdiction, concurrent with the United States Court of Federal Claims, of any action described in section 10(a)(1) of such Act relative to such a dispute.
+&emsp;&emsp;(B) the district courts of the United States shall have original jurisdiction, concurrent with the United States Court of Federal Claims, of any action described in section 7104(b)(1) of title 41 relative to such a dispute.
 
 &emsp;(4)
 
@@ -88,11 +88,17 @@ Congressional notification.—No later than 180 days after receiving the second 
 
 Full portability.—Each master contract under this chapter shall include such provisions as may be necessary to ensure that, once an individual becomes duly enrolled, long-term care insurance coverage obtained by such individual pursuant to that enrollment shall not be terminated due to any change in status (such as separation from Government service or the uniformed services) or ceasing to meet the requirements for being considered a qualified relative (whether as a result of dissolution of marriage or otherwise).
 
-(Added Pub. L. 106–265, title I, §1002(a), Sept. 19, 2000, 114 Stat. 764.)
+(Added Pub. L. 106–265, title I, §1002(a), Sept. 19, 2000, 114 Stat. 764; amended Pub. L. 111–350, §5(a)(18), Jan. 4, 2011, 124 Stat. 3842.)
 
-#### References in Text
+#### Amendments
 
-The Contract Disputes Act of 1978, referred to in subsec. (c)(3), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, as amended, which is classified principally to chapter 9 (§601 et seq.) of Title 41, Public Contracts. Sections 8(c) and 10(a)(1) of the Act are classified to sections 607(c) and 609(a)(1), respectively, of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 41 and Tables.
+2011—Subsec. (a). Pub. L. 111–350, §5(a)(18)(A), substituted “section 6101(b) to (d) of title 41” for “section 5 of title 41”.
+
+Subsec. (c)(3). Pub. L. 111–350, §5(a)(18)(B), substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978” in introductory provisions.
+
+Subsec. (c)(3)(A). Pub. L. 111–350, §5(a)(18)(C), struck out “(after appropriate arrangements, as described in section 8(c) of such Act)” after “specify in writing”.
+
+Subsec. (c)(3)(B). Pub. L. 111–350, §5(a)(18)(D), substituted “section 7104(b)(1) of title 41” for “section 10(a)(1) of such Act”.
 
 #### Change of Name
 

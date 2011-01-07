@@ -6,7 +6,7 @@ The Secretary is authorized to make grants, or to provide financial assistance i
 
 #### (b) Terms and conditions
 
-Any grant or other financial assistance provided by the Secretary pursuant to this section shall be subject to such terms and conditions as the Secretary deems necessary to protect the interests of the United States and shall be made after review by the Marine Mammal Commission.
+Any grant or other financial assistance provided by the Secretary pursuant to this sectionshall be subject to such terms and conditions as the Secretary deems necessary to protect the interests of the United States and shall be made after review by the Marine Mammal Commission.
 
 #### (c) Gulf of Maine ecosystem protection
 
@@ -40,17 +40,17 @@ Section 1404 of this title, referred to in subsec. (d)(3), was omitted from the 
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–42 struck out “(1)” before “The Secretary is authorized” and struck out par. (2) which read as follows: “For purposes of identifying appropriate research into promising new methods of locating and catching yellowfin tuna without the incidental taking of marine mammals, the Secretary shall contract for an independent review of information pertaining to such potential alternative methods to be conducted by the National Academy of Sciences with individuals having scientific, technical, or other expertise that may be relevant to the identification of promising alternative fishing techniques. The Secretary shall request that the independent review be submitted to the Secretary on or before September 8, 1989, and the Secretary shall submit the report of the independent review, together with a proposed plan for research, development, and implementation of alternative fishing techniques, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives on or before December 5, 1989.”
+<b>1997</b>—Subsec. (a). Pub. L. 105–42 struck out “(1)” before “The Secretary is authorized” and struck out par. (2) which read as follows: “For purposes of identifying appropriate research into promising new methods of locating and catching yellowfin tuna without the incidental taking of marine mammals, the Secretary shall contract for an independent review of information pertaining to such potential alternative methods to be conducted by the National Academy of Sciences with individuals having scientific, technical, or other expertise that may be relevant to the identification of promising alternative fishing techniques. The Secretary shall request that the independent review be submitted to the Secretary on or before September 8, 1989, and the Secretary shall submit the report of the independent review, together with a proposed plan for research, development, and implementation of alternative fishing techniques, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives on or before December 5, 1989.”
 
-1994—Subsecs. (c), (d). Pub. L. 103–238 added subsecs. (c) and (d) and struck out former subsec. (c) which authorized appropriations to be made available to the Secretary of Commerce and the Secretary of the Interior for purposes of carrying out this section for fiscal year ending June 30, 1973, to fiscal year ending Sept. 30, 1981.
+<b>1994</b>—Subsecs. (c), (d). Pub. L. 103–238 added subsecs. (c) and (d) and struck out former subsec. (c) which authorized appropriations to be made available to the Secretary of Commerce and the Secretary of the Interior for purposes of carrying out this section for fiscal year ending June 30, 1973, to fiscal year ending Sept. 30, 1981.
 
-1988—Subsec. (a). Pub. L. 100–711 designated existing provisions as par. (1) and added par. (2).
+<b>1988</b>—Subsec. (a). Pub. L. 100–711 designated existing provisions as par. (1) and added par. (2).
 
-1981—Subsec. (a). Pub. L. 97–58 directed the Secretary to undertake a program of research into new methods of locating and catching yellowfin tuna without the incidental taking of marine mammals and directed that the Secretary include a description of the annual results of that research in the report required under section 1373(f) of this title.
+<b>1981</b>—Subsec. (a). Pub. L. 97–58 directed the Secretary to undertake a program of research into new methods of locating and catching yellowfin tuna without the incidental taking of marine mammals and directed that the Secretary include a description of the annual results of that research in the report required under section 1373(f) of this title.
 
-1978—Subsec. (c)(4) to (6). Pub. L. 95–316 added pars. (4) to (6).
+<b>1978</b>—Subsec. (c)(4) to (6). Pub. L. 95–316 added pars. (4) to (6).
 
-1977—Subsec. (c). Pub. L. 95–136 incorporated existing provisions into text preceding par. (1) and, as so incorporated, struck out provisions authorizing to be appropriated such sums as may be necessary to carry out this section for the fiscal year in which this section takes effect and the next four years thereafter, limiting appropriations for any one year to $2,500,000, and requiring that one-third of such sums be made available to the Secretary of the Interior and two-thirds of such sums be made available to the Secretary of the department in which the National Oceanic and Atmospheric Administration is operating, and added pars. (1) to (3).
+<b>1977</b>—Subsec. (c). Pub. L. 95–136 incorporated existing provisions into text preceding par. (1) and, as so incorporated, struck out provisions authorizing to be appropriated such sums as may be necessary to carry out this section for the fiscal year in which this section takes effect and the next four years thereafter, limiting appropriations for any one year to $2,500,000, and requiring that one-third of such sums be made available to the Secretary of the Interior and two-thirds of such sums be made available to the Secretary of the department in which the National Oceanic and Atmospheric Administration is operating, and added pars. (1) to (3).
 
 #### Effective Date of 1997 Amendment
 

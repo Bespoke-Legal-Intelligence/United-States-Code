@@ -66,7 +66,7 @@ Reports.—Until the Transportation Security Administration has met the requirem
 
 (e)
 
-Mandatory Screening Where EDS Not Yet Available.—As soon as practicable but notlater than the 60th day following the date of enactment of the Aviation and Transportation Security Act and until the requirements of subsection (b)(1)(A) are met, the Under Secretary shall require alternative means for screening any piece of checked baggage that is not screened by an explosive detection system. Such alternative means may include 1 or more of the following:
+Mandatory Screening Where EDS Not Yet Available.—As soon as practicable but not later than the 60th day following the date of enactment of the Aviation and Transportation Security Act and until the requirements of subsection (b)(1)(A) are met, the Under Secretary shall require alternative means for screening any piece of checked baggage that is not screened by an explosive detection system. Such alternative means may include 1 or more of the following:
 
 &emsp;(1) A bag-match program that ensures that no checked baggage is placed aboard an aircraft unless the passenger who checked the baggage is aboard the aircraft.
 
@@ -138,7 +138,7 @@ In general.—The Under Secretary shall order the deployment of law enforcement 
 
 &emsp;(2)
 
-Minimum requirements.—Except at airports required to enter into agreements under subsection (c), the Under Secretary shall orderthe deployment of at least 1 law enforcement officer at each airport security screening location. At the 100 largest airports in the United States, in terms of annual passenger enplanements for the most recent calendar year for which data are available, the Under Secretary shall order the deployment of additional law enforcement personnel at airport security screening locations if the Under Secretary determines that the additional deployment is necessary to ensure passenger safety and national security.
+Minimum requirements.—Except at airports required to enter into agreements under subsection (c), the Under Secretary shall order the deployment of at least 1 law enforcement officer at each airport security screening location. At the 100 largest airports in the United States, in terms of annual passenger enplanements for the most recent calendar year for which data are available, the Under Secretary shall order the deployment of additional law enforcement personnel at airport security screening locations if the Under Secretary determines that the additional deployment is necessary to ensure passenger safety and national security.
 
 (i)
 
@@ -194,7 +194,7 @@ Grant program.—Not later than 6 months after the date of enactment of this sub
 
 Application to general aviation aircraft.—Not later than 180 days after the date of enactment of this subsection, the Administrator shall develop a risk-based system under which—
 
-&emsp;&emsp;(A) general aviation aircraft, as identified by the Administrator, in coordination with the Administrator of the Federal Aviation Administration, are required to submit passenger information and advance notification requirements for United States Customs and Border Protection before entering United States airspace; and
+&emsp;&emsp;(A) general aviation aircraft, as identified by the Administrator, in coordination withthe Administrator of the Federal Aviation Administration, are required to submit passenger information and advance notification requirements for United States Customs and Border Protection before entering United States airspace; and
 
 &emsp;&emsp;(B) such information is checked against appropriate databases.
 
@@ -254,15 +254,15 @@ Subsection (b) of section 1602 of the Implementing Recommendations of the 9/11 C
 
 #### Amendments
 
-2007—Subsecs. (g) to (i). Pub. L. 110–53, §1602(a), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
+<b>2007</b>—Subsecs. (g) to (i). Pub. L. 110–53, §1602(a), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
 Subsec. (j). Pub. L. 110–53, §1609, added subsec. (j).
 
 Subsec. (k). Pub. L. 110–53, §1617, added subsec. (k).
 
-2002—Subsec. (d)(2), (3). Pub. L. 107–296 added pars. (2) and (3).
+<b>2002</b>—Subsec. (d)(2), (3). Pub. L. 107–296 added pars. (2) and (3).
 
-2001—Subsec. (a). Pub. L. 107–71, §110(b)(2), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Administrator of the Federal Aviation Administration shall prescribe regulations requiring screening of all passengers and property that will be carried in a cabin of an aircraft in air transportation or intrastate air transportation. The screening must take place before boarding and be carried out by a weapon-detecting facility or procedure used or operated by an employee or agent of an air carrier, intrastate air carrier, or foreign air carrier.”
+<b>2001</b>—Subsec. (a). Pub. L. 107–71, §110(b)(2), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Administrator of the Federal Aviation Administration shall prescribe regulations requiring screening of all passengers and property that will be carried in a cabin of an aircraft in air transportation or intrastate air transportation. The screening must take place before boarding and be carried out by a weapon-detecting facility or procedure used or operated by an employee or agent of an air carrier, intrastate air carrier, or foreign air carrier.”
 
 Subsec. (b). Pub. L. 107–71, §110(b)(2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “Notwithstanding subsection (a) of this section, the Administrator may amend a regulation prescribed under subsection (a) to require screening only to ensure security against criminal violence and aircraft piracy in air transportation and intrastate air transportation.”
 
@@ -292,7 +292,7 @@ Legal Documents.—All orders, determinations, rules, regulations, permits, gran
 
 &emsp;“(1) that have been issued, made, granted, or allowed to become effective by the Federal Aviation Administration, any officer or employee thereof, or any other Government official, or by a court of competent jurisdiction, in the performance of any function that is transferred by this Act; and
 
-&emsp;“(2) that are in effect on the effective date of such transfer (or become effective after such date pursuant to their terms as in effect on such effective date), shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the Under Secretary of Transportation for Security, any other authorized official, a court of competent jurisdiction, or operation of law.
+&emsp;“(2) that are in effect on the effective date of such transfer (or become effective after such date pursuant to their terms as in effect on such effective date),shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the Under Secretary of Transportation for Security, any other authorized official, a court of competent jurisdiction, or operation of law.
 
 “(c)
 
@@ -416,7 +416,7 @@ Pub. L. 108–458, title IV, §4019(a), (b), Dec. 17, 2004, 118 Stat. 3721, prov
 
 “(a)
 
-In-Line Baggage Screening Equipment.—The Assistant Secretary of Homeland Security (Transportation Security Administration) shall take such action as may be necessary to expedite the installation anduse of in-line baggage screening equipment at airports at which screening is required by section 44901 of title 49, United States Code.
+In-Line Baggage Screening Equipment.—The Assistant Secretary of Homeland Security (Transportation Security Administration) shall take such action as may be necessary to expedite the installation and use of in-line baggage screening equipment at airports at which screening is required by section 44901 of title 49, United States Code.
 
 “(b)
 
@@ -600,7 +600,7 @@ Debate on resolution.—Debate in the Senate on an approval resolution, and appe
 
 &emsp;&emsp;“(C)
 
-Debate on motions and appeals.—Debate in the Senate on any debatable motion or appeal in connection with an approval resolution shall be limited to not more than 1 hour, which shall be equally divided between, and controlled by, the mover and the manager of the resolution, except that in the event the manager of the resolution is in favor of any such motion or appeal, the time in opposition thereto, shall be controlled by the Minority Leader or designee. Such leaders, or either of them, may, from time under their control on the passage of an approval resolution, allot additional time to any Senator during the consideration of any debatable motion or appeal.
+Debate on motions and appeals.—Debate in the Senate on any debatable motion or appeal in connection with an approval resolution shall be limited to not more than 1 hour, which shall be equally divided between, and controlled by, the mover and the manager of the resolution, except that in the event the manager of the resolution is in favor of any such motion or appeal, the time in opposition thereto, shall be controlled by the Minority Leader or designee. Such leaders, or either of them, may, from time under their control on thepassage of an approval resolution, allot additional time to any Senator during the consideration of any debatable motion or appeal.
 
 &emsp;&emsp;“(D)
 

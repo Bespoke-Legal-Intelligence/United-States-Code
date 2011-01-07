@@ -8,17 +8,17 @@
 
 #### Amendments
 
-1994—Pub. L. 103–446 designated existing provisions as subsec. (a), substituted “Except as provided in subsection (b), no person” for “No person”, and added subsec. (b).
+<b>1994</b>—Pub. L. 103–446 designated existing provisions as subsec. (a), substituted “Except as provided in subsection (b), no person” for “No person”, and added subsec. (b).
 
-1991—Pub. L. 102–83, §5(a), renumbered section 417 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 417 of this title as this section.
 
 Pub. L. 102–83, §4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-1982—Pub. L. 97–295 substituted “subchapter I of chapter 81 of title 5” for “the Federal Employees’ Compensation Act”.
+<b>1982</b>—Pub. L. 97–295 substituted “subchapter I of chapter 81 of title 5” for “the Federal Employees’ Compensation Act”.
 
-1971—Pub. L. 92–197 struck out subsec. (a) which, among other provisions, restricted payment of dependency and indemnity compensation in certain cases where death of a veteran occurred while United States Government life insurance or National Service Life Insurance was in force under an in-service waiver of premiums continued under section 724 of this title, and designated subsec. (b) as entire section.
+<b>1971</b>—Pub. L. 92–197 struck out subsec. (a) which, among other provisions, restricted payment of dependency and indemnity compensation in certain cases where death of a veteran occurred while United States Government life insurance or National Service Life Insurance was in force under an in-service waiver of premiums continued under section 724 of this title, and designated subsec. (b) as entire section.
 
-1970—Subsec. (a). Pub. L. 91–291 designated material after “unless” in first sentence as cl. (1), added cl. (2), and in last sentence substituted “first sentence” for “preceding sentence”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–291 designated material after “unless” in first sentence as cl. (1), added cl. (2), and in last sentence substituted “first sentence” for “preceding sentence”.
 
 #### Effective Date of 1971 Amendment
 

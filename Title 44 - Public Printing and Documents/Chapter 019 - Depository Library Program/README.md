@@ -23,9 +23,9 @@
 
 #### Amendments
 
-1978—Pub. L. 95–261, §2, Apr. 17, 1978, 92 Stat. 199, added item 1916.
+<b>1978</b>—Pub. L. 95–261, §2, Apr. 17, 1978, 92 Stat. 199, added item 1916.
 
-1972—Pub. L. 92–368, §1(b), Aug. 10, 1972, 86 Stat. 507, added item 1915.
+<b>1972</b>—Pub. L. 92–368, §1(b), Aug. 10, 1972, 86 Stat. 507, added item 1915.
 
 #### Federal Records Management Provisions Without Effect on Chapter
 

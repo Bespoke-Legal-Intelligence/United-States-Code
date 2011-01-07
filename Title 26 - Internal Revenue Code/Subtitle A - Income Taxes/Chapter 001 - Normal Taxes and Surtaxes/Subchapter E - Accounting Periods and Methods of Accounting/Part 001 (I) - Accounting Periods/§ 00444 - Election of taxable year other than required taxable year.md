@@ -84,7 +84,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–647, §2004(e)(1)(A), substituted “as otherwise provided in this section” for “as provided in subsections (b) and (c)”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §2004(e)(1)(A), substituted “as otherwise provided in this section” for “as provided in subsections (b) and (c)”.
 
 Subsec. (b)(4). Pub. L. 100–647, §2004(e)(13), inserted “except as provided in regulations,” before “the term”.
 

@@ -2,7 +2,7 @@
 
 #### (a) Requirement of reporting
 
-Every person who, with respect to any individual, during any calendar year makes paymentsof refunds of State or local income taxes (or allows credits or offsets with respect to such taxes) aggregating $10 or more shall make a return according to forms or regulations prescribed by the Secretary setting forth the aggregate amount of such payments, credits, or offsets, and the name and address of the individual with respect to whom such payment, credit, or offset was made.
+Every person who, with respect to any individual, during any calendar year makes payments of refunds of State or local income taxes (or allows credits or offsets with respect to such taxes) aggregating $10 or more shall make a return according to forms or regulations prescribed by the Secretary setting forth the aggregate amount of such payments, credits, or offsets, and the name and address of the individual with respect to whom such payment, credit, or offset was made.
 
 #### (b) Statements to be furnished to individuals with respect to whom information is required
 
@@ -22,9 +22,9 @@ For purposes of this section, the term “person” means the officer or employe
 
 #### Amendments
 
-1986—Subsec. (b). Pub. L. 99–514, in amending subsec. (b) generally, substituted “information is required” for “information is furnished” in heading and, in text, substituted references to persons required to make a return for former references to persons making a return and references to persons whose name is required to be set forth for former references to persons whose name is set forth.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514, in amending subsec. (b) generally, substituted “information is required” for “information is furnished” in heading and, in text, substituted references to persons required to make a return for former references to persons making a return and references to persons whose name is required to be set forth for former references to persons whose name is set forth.
 
-1984—Subsec. (b). Pub. L. 98–369 inserted provision that no statement is required under this subsection with respect to any individual if it is determined (in the manner provided by regulations) that such individual did not claim itemized deductions under chapter 1 for the taxable year giving rise to the refund, credit, or offset.
+<b>1984</b>—Subsec. (b). Pub. L. 98–369 inserted provision that no statement is required under this subsection with respect to any individual if it is determined (in the manner provided by regulations) that such individual did not claim itemized deductions under chapter 1 for the taxable year giving rise to the refund, credit, or offset.
 
 #### Effective Date of 1986 Amendment
 

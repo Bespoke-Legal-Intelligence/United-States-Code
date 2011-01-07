@@ -16,17 +16,17 @@ Priority in grants shall be given to institutions which are operating on October
 
 In making grants pursuant to this section, the Secretary shall, to the extent practicable, consult with national Indian organizations and with tribal governments chartering the institutions being considered.
 
-(Pub. L. 95–471, title I, §107, formerly §106, Oct. 17, 1978, 92 Stat. 1327; Pub. L. 97–375, title I, §108(c), Dec. 21, 1982, 96 Stat. 1820; renumbered§107 and amended Pub. L. 98–192, §§3(b), 4(a)(1), (b)(2), 6(b), Dec. 1, 1983, 97 Stat. 1336, 1337; Pub. L. 105–244, title IX, §901(b)(4)–(6), Oct. 7, 1998, 112 Stat. 1828.)
+(Pub. L. 95–471, title I, §107, formerly §106, Oct. 17, 1978, 92 Stat. 1327; Pub. L. 97–375, title I, §108(c), Dec. 21, 1982, 96 Stat. 1820; renumbered §107 and amended Pub. L. 98–192, §§3(b), 4(a)(1), (b)(2), 6(b), Dec. 1, 1983, 97 Stat. 1336, 1337; Pub. L. 105–244, title IX, §901(b)(4)–(6), Oct. 7, 1998, 112 Stat. 1828.)
 
 #### Amendments
 
-1998—Pub. L. 105–244, §901(b)(4), substituted “colleges or universities” for “community colleges” in section catchline.
+<b>1998</b>—Pub. L. 105–244, §901(b)(4), substituted “colleges or universities” for “community colleges” in section catchline.
 
 Subsec. (a). Pub. L. 105–244, §901(b)(5), (6), substituted “colleges or universities” for “community colleges” and “college or university” for “community college”.
 
 Subsec. (b). Pub. L. 105–244, §901(b)(5), substituted “college or university” for “community college”.
 
-1983—Subsec. (a). Pub. L. 98–192, §6(b)(1), substituted “eligibility” for “feasibility”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–192, §6(b)(1), substituted “eligibility” for “feasibility”.
 
 Pub. L. 98–192, §4(b)(2), made a technical amendment to reference to section 1806 of this title to reflect renumbering of that section.
 
@@ -34,7 +34,7 @@ Pub. L. 98–192, §3(b), inserted provision that such application include a des
 
 Subsec. (b). Pub. L. 98–192, §6(b)(2), substituted “Secretary of Education” for “Assistant Secretary of Education of the Department of Health, Education, and Welfare”.
 
-1982—Subsec. (e). Pub. L. 97–375 struck out subsec. (e) which directed the Secretary to report to Congress on Jan. 15 of each year the current status of tribally controlled community colleges and his recommendations for needed action.
+<b>1982</b>—Subsec. (e). Pub. L. 97–375 struck out subsec. (e) which directed the Secretary to report to Congress on Jan. 15 of each year the current status of tribally controlled community colleges and his recommendations for needed action.
 
 #### Effective Date of 1998 Amendment
 

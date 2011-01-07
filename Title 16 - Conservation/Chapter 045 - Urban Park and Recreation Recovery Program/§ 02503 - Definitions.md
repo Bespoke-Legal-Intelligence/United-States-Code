@@ -36,9 +36,9 @@ When used in this chapter the term—
 
 #### Amendments
 
-1994—Subsecs. (d) to (k). Pub. L. 103–322 added subsec. (d) and redesignated former subsecs. (d) to (j) as (e) to (k), respectively.
+<b>1994</b>—Subsecs. (d) to (k). Pub. L. 103–322 added subsec. (d) and redesignated former subsecs. (d) to (j) as (e) to (k), respectively.
 
 #### “Secretary” Defined
 
-Section 2 of Pub. L. 95–625 provided that: “As used in this Act \[see Short Title of 1978 Amendment note set out under section 1 of this title\], except as otherwisespecifically provided, the term ‘Secretary’ means the Secretary of the Interior.”
+Section 2 of Pub. L. 95–625 provided that: “As used in this Act \[see Short Title of 1978 Amendment note set out under section 1 of this title\], except as otherwise specifically provided, the term ‘Secretary’ means the Secretary of the Interior.”
 

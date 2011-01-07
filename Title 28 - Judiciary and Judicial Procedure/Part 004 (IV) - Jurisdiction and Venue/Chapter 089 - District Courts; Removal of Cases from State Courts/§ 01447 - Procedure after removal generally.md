@@ -16,7 +16,7 @@
 
 #### 1948 Act
 
-Based on title 28, U.S.C., 1940 ed., §§71, 72, 74, 76, 80, 81 and 83 (Mar. 3, 1911, ch. 231, §§28, 29, 31, 33, 37 and 38,36 Stat. 1094–1098; Jan. 20, 1914, ch. 11, 39 Stat. 278; Aug. 23, 1916, ch. 399, 39 Stat. 532; Apr. 16, 1920, ch. 146, 41 Stat. 554; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54).
+Based on title 28, U.S.C., 1940 ed., §§71, 72, 74, 76, 80, 81 and 83 (Mar. 3, 1911, ch. 231, §§28, 29, 31, 33, 37 and 38, 36 Stat. 1094–1098; Jan. 20, 1914, ch. 11, 39 Stat. 278; Aug. 23, 1916, ch. 399, 39 Stat. 532; Apr. 16, 1920, ch. 146, 41 Stat. 554; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54).
 
 Section consolidates procedural provisions of sections 71, 72, 74, 76, 80, 81 and 83 of title 28, U.S.C., 1940 ed., with important changes in substance and phraseology.
 
@@ -44,17 +44,17 @@ This section strikes out subsections (c) and (d) of section 1447 of title 28, U.
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–219 substituted “any defect other than lack of subject matter jurisdiction” for “any defect in removal procedure” in first sentence.
+<b>1996</b>—Subsec. (c). Pub. L. 104–219 substituted “any defect other than lack of subject matter jurisdiction” for “any defect in removal procedure” in first sentence.
 
-1991—Subsec. (b). Pub. L. 102–198 substituted “removing party” for “petitioner”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–198 substituted “removing party” for “petitioner”.
 
-1988—Subsec. (c). Pub. L. 100–702, §1016(c)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If at any time before final judgment it appears that the case was removed improvidently and without jurisdiction, the district court shall remand the case, and may order the payment of just costs. A certified copy of the order of remand shall be mailed by its clerk to the clerk of the State court. The State court may thereupon proceed with such case.”
+<b>1988</b>—Subsec. (c). Pub. L. 100–702, §1016(c)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If at any time before final judgment it appears that the case was removed improvidently and without jurisdiction, the district court shall remand the case, and may order the payment of just costs. A certified copy of the order of remand shall be mailed by its clerk to the clerk of the State court. The State court may thereupon proceed with such case.”
 
 Subsec. (e). Pub. L. 100–702, §1016(c)(2), added subsec. (e).
 
-1964—Subsec. (d). Pub. L. 88–352, inserted exception provision.
+<b>1964</b>—Subsec. (d). Pub. L. 88–352, inserted exception provision.
 
-1949—Subsec. (c). Act May 24, 1949, §84(a), struck out former subsecs. (c) and (d), renumbered former subsec. (e) to be subsec. (c) and inserted at end of first sentence of new subsec. (c) “and may order the payment of just costs”.
+<b>1949</b>—Subsec. (c). Act May 24, 1949, §84(a), struck out former subsecs. (c) and (d), renumbered former subsec. (e) to be subsec. (c) and inserted at end of first sentence of new subsec. (c) “and may order the payment of just costs”.
 
 Subsec. (d). Act May 24, 1949, §84(b), added subsec. (d).
 

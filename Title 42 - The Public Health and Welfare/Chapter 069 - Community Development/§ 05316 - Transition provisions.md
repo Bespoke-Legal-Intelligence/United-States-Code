@@ -20,7 +20,7 @@ Sections 702 and 703 of the Housing and Urban Development Act of 1965 \[42 U.S.C
 
 The Housing Amendments of 1955, referred to in subsec. (a), is act Aug. 11, 1955, ch. 783, 69 Stat. 645, as amended. Title II of the Housing Amendments of 1955 was classified generally to chapter 8B (§1491 et seq.) of this title, and was omitted from the Code pursuant to this section which terminated authority to make grants or loans under such title II after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 12, Banks and Banking, and Tables.
 
-The Housing Act of 1961, referred to in subsec. (a), is Pub. L. 87–70, June 30, 1961, 87 Stat. 149, as amended. Title VII of the Housing Act of 1961 was classified generally to chapter 8C (§1500 et seq.) of this title, and was omitted from the Code pursuant to this section which terminated authority to make grants or loans under such title VII after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 12, Banks and Banking, and Tables.
+The Housing Act of 1961, referred to in subsec. (a), is Pub. L. 87–70, June 30, 1961, 87 Stat. 149, as amended. Title VII of the Housing Act of 1961 was classified generally to chapter 8C (§1500 et seq.) of this title, and was omitted from the Code pursuant to this section which terminated authority to make grants or loans under such title VII after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note setout under section 1701 of Title 12, Banks and Banking, and Tables.
 
 #### Codification
 
@@ -28,11 +28,11 @@ Subsecs. (c), (d), and (e) of section 116 of Pub. L. 93–383 were omitted from 
 
 #### Amendments
 
-1983—Subsec. (b). Pub. L. 98–181 substituted “prior to such date” for “prior to such date (in that fiscal year)”, and “for that year” for “in that year”.
+<b>1983</b>—Subsec. (b). Pub. L. 98–181 substituted “prior to such date” for “prior to such date (in that fiscal year)”, and “for that year” for “in that year”.
 
-1981—Subsec. (b). Pub. L. 97–35 substituted provisions relating to submission of required statement for provisions relating to submission of required application.
+<b>1981</b>—Subsec. (b). Pub. L. 97–35 substituted provisions relating to submission of required statement for provisions relating to submission of required application.
 
-1980—Subsec. (b). Pub. L. 96–399, §111(h), redesignated subsec. (g) as (b) and struck out “or from a unit of general local government for a grant pursuant to section 5306(h) of this title” after “section 5306(a) of this title”. Former subsec. (b), relating to deductions from grants for fiscal year 1975, was struck out.
+<b>1980</b>—Subsec. (b). Pub. L. 96–399, §111(h), redesignated subsec. (g) as (b) and struck out “or from a unit of general local government for a grant pursuant to section 5306(h) of this title” after “section 5306(a) of this title”. Former subsec. (b), relating to deductions from grants for fiscal year 1975, was struck out.
 
 Subsec. (f). Pub. L. 96–399, §111(h)(1), struck out subsec. (f) relating to advances for program period beginning Jan. 1, 1975.
 
@@ -40,7 +40,7 @@ Subsec. (g). Pub. L. 96–399, §111(h)(1), redesignated subsec. (g) as (b).
 
 Subsec. (h). Pub. L. 96–399, §111(h)(1), struck out subsec. (h) relating to sources of funds to meet deficiency in fiscal year 1977.
 
-1976—Subsec. (h). Pub. L. 94–375 added subsec. (h).
+<b>1976</b>—Subsec. (h). Pub. L. 94–375 added subsec. (h).
 
 #### Effective Date of 1983 Amendment
 

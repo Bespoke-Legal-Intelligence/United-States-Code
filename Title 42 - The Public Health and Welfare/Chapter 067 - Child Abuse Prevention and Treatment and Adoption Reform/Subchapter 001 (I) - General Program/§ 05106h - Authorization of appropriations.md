@@ -4,13 +4,13 @@
 
 #### (1) General authorization
 
-&emsp;There are authorized to be appropriated to carry out this subchapter $120,000,000 for fiscal year 2004 and such sums as may be necessary for each of the fiscal years 2005 through 2008.
+&emsp;There are authorized to be appropriated to carry out this subchapter $120,000,000 for fiscal year 2010 and such sums as may be necessary for each of the fiscal years 2011 through 2015.
 
 #### (2) Discretionary activities
 
 #### (A) In general
 
-&emsp;&emsp;Of the amounts appropriated for a fiscal year under paragraph (1), the Secretary shall make available 30 percent of such amounts to fund discretionary activities under this subchapter.
+&emsp;&emsp;Of the amounts appropriated for a fiscal year under paragraph (1), the Secretary shall make available 30 percent of such amountsto fund discretionary activities under this subchapter.
 
 #### (B) Demonstration projects
 
@@ -20,7 +20,7 @@
 
 The Secretary shall ensure that funds appropriated pursuant to authorizations in this subchapter shall remain available until expended for the purposes for which they were appropriated.
 
-(Pub. L. 93–247, title I, §112, formerly §15, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 117; renumbered title I, §114, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(8), Oct. 25, 1989, 103 Stat. 764, 765; Pub. L. 102–295, title I, §117(a), May 28, 1992, 106 Stat. 197; renumbered §112 and amended Pub. L. 104–235, title I, §§111, 113(a)(1)(B), Oct. 3, 1996, 110 Stat. 3078, 3079; Pub. L. 108–36, title I, §117, June 25, 2003, 117 Stat. 812.)
+(Pub. L. 93–247, title I, §112, formerly §15, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 117; renumbered title I, §114, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(8), Oct. 25, 1989, 103 Stat. 764, 765; Pub. L. 102–295, title I, §117(a), May 28, 1992, 106 Stat. 197; renumbered §112 and amended Pub. L. 104–235, title I, §§111, 113(a)(1)(B), Oct. 3, 1996, 110 Stat. 3078, 3079; Pub. L. 108–36, title I, §117, June 25, 2003, 117 Stat. 812; Pub. L. 111–320, title I, §120, Dec. 20, 2010, 124 Stat. 3477.)
 
 #### Prior Provisions
 
@@ -28,11 +28,13 @@ A prior section 112 of Pub. L. 93–247 was renumbered section 110 and is classi
 
 #### Amendments
 
-2003—Subsec. (a)(1). Pub. L. 108–36, §117(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this subchapter, $100,000,000 for fiscal year 1997, and such sums as may be necessary for each of the fiscal years 1998 through 2001.”
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–320 substituted “2010” for “2004” and “2011 through 2015” for “2005 through 2008”.
+
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–36, §117(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this subchapter, $100,000,000 for fiscal year 1997, and such sums as may be necessary for each of the fiscal years 1998 through 2001.”
 
 Subsec. (a)(2)(B). Pub. L. 108–36, §117(b), substituted “Secretary shall make” for “Secretary make” and “section 5105” for “section 5106a”.
 
-1996—Subsec. (a). Pub. L. 104–235 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows:
+<b>1996</b>—Subsec. (a). Pub. L. 104–235 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows:
 
 “(1)
 
@@ -50,9 +52,9 @@ Allocations.—
 
 &emsp;&emsp;“(ii) 662/3 percent of such amounts shall be made available in each such fiscal year for activities under sections 5106a and 5106b of this title.”
 
-1992—Subsec. (a). Pub. L. 102–295 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There are authorized to be appropriated for purposes of carrying out this subchapter $48,000,000 for fiscal year 1988, and such sums as may be necessary for fiscal years 1989, 1990, and 1991. Of the funds appropriated for any fiscal year under this section, except as provided in the succeeding sentence (1)(A) $11,000,000 shall be available for activities under sections 5104, 5105, and 5106 of this title, and (B), $9,000,000 shall be available in each fiscal year for activities under sections 5106a(a) and 5106b of this title, giving special consideration to continued funding of child abuse and neglect programs or projects (previously funded by the Department of Health and Human Services) of national or regional scope and demonstrated effectiveness, (2) $5,000,000 shall be available in each such year for grants and contracts under section 5106(a) of this title, for identification, treatment, and prevention of sexual abuse, and (3) $5,000,000 shall be available in each such year for the purpose of making additional grants to the States to carry out the provisions of section 5106a(f) of this title. With respect to any fiscal year in which the total amount appropriated under this section is less than $30,000,000, no less than $20,000,000 of the funds appropriated in such fiscal year shall be available as provided in clause (1) in the preceding sentence and of the remainder, one-half shall be available as provided for in clause (2) and one-half as provided for in clause (3) in the preceding sentence.”
+<b>1992</b>—Subsec. (a). Pub. L. 102–295 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There are authorized to be appropriated for purposes of carrying out this subchapter $48,000,000 for fiscal year 1988, and such sums as may be necessary for fiscal years 1989, 1990, and 1991. Of the funds appropriated for any fiscal year under this section, except as provided in the succeeding sentence (1)(A) $11,000,000 shall be available for activities under sections 5104, 5105, and 5106 of this title, and (B), $9,000,000 shall be available in each fiscal year for activities under sections 5106a(a) and 5106b of this title, giving special consideration to continued funding of child abuse and neglect programs or projects (previously funded by the Department of Health and Human Services) of national or regional scope and demonstrated effectiveness, (2) $5,000,000 shall be available in each such year for grants and contracts under section 5106(a) of this title, for identification, treatment, and prevention of sexual abuse, and (3) $5,000,000 shall be available in each such year for the purpose of making additional grants to the States to carry out the provisions of section 5106a(f) of this title. With respect to any fiscal year in which the total amount appropriated under this section is less than $30,000,000, no less than $20,000,000 of the funds appropriated in such fiscal year shall be available as provided in clause (1) in the preceding sentence and of the remainder, one-half shall be available as provided for in clause (2) and one-half as provided for in clause (3) in the preceding sentence.”
 
-1989—Pub. L. 101–126, §3(b)(8), made technical amendments to references to this subchapter and to sections 5104, 5105, 5106, 5106a, and 5106b of this title to reflect the insertion of title designations and renumbering of corresponding sections in original act.
+<b>1989</b>—Pub. L. 101–126, §3(b)(8), made technical amendments to references to this subchapter and to sections 5104, 5105, 5106, 5106a, and 5106b of this title to reflect the insertion of title designations and renumbering of corresponding sections in original act.
 
 #### Effective Date of 1992 Amendment
 

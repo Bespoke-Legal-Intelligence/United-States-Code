@@ -1,6 +1,6 @@
 ### §6393. Administrative procedure and judicial review
 
-(a)(1) Subject to paragraphs (2), (3), and (4) of this subsection, the provisions of subchapter II of chapter 5 of title 5 shall apply to any rule, regulation, or order having the applicability and effect of a rule as defined in section 551(4) of title 5 issued under subchapter I of this chapter (other than section 6212 of this title) and subchapter II of this chapter, or this subchapter.
+(a)(1) Subject to paragraphs (2), (3), and (4) of this subsection, the provisions of subchapter II of chapter 5 of title 5 shall apply to any rule, regulation, or order having the applicability and effect of a rule as defined in section 551(4) of title 5 issued under title I (other than section 103 thereof \[42 U.S.C. 6212\]) and title II of this Act, or this title <sup>1</sup> (other than any provision of such titles which amends another law).
 
 (2)(A) Notice of any proposed rule, regulation, or order described in paragraph (1) which is substantive and of general applicability shall be given by publication of such proposed rule, regulation, or order in the Federal Register. In each case, a minimum of 30 days following the date of such publication and prior to the effective date of the rule shall be provided for opportunity to comment; except that the 30-day period for opportunity to comment prior to the effective date of the rule may be—
 
@@ -8,11 +8,11 @@
 
 &emsp;(ii) waived entirely, if the President finds that such waiver is necessary to act expeditiously during an emergency affecting the national security of the United States.
 
-(B) Public notice of any rule, regulation, or order which is substantive and of general applicability which is promulgated by officers of a State or political subdivision thereof or to State or local boards which have been delegated authority pursuant to subchapter I or II of this chapter or this subchapter shall, to the maximum extent practicable, be achieved by publication of such rules, regulations, or orders in a sufficient number of newspapers of general circulation calculated to receive widest practicable notice.
+(B) Public notice of any rule, regulation, or order which is substantive and of general applicability which is promulgated by officers of a State or political subdivision thereof or to State or local boards which have been delegated authority pursuant to title I or II of this Act or this title (other than any provision of such title) <sup>2</sup> which amend <sup>3</sup> another law shall, to the maximum extent practicable, be achieved by publication of such rules, regulations, or orders in a sufficient number of newspapers of general circulation calculated to receive widest practicable notice.
 
 (3) In addition to the requirements of paragraph (2) and to the maximum extent practicable, an opportunity for oral presentation of data, views, and arguments shall be afforded and such opportunity shall be afforded prior to the effective date of such rule, regulation, or order, but in all cases such opportunity shall be afforded no later than 45 days, and no later than 10 days (in the case of a waiver of the entire comment period under paragraph (2) (ii)), after such date. A transcript shall be made of any oral presentation.
 
-(4) Any officer or agency authorized to issue rules, regulations, or orders described in paragraph (1) shall provide for the making of such adjustments, consistent with the other purposes of this chapter as may be necessary to prevent special hardship, inequity, or an unfair distribution of burdens and shall in rules prescribed by it establish procedures which are available to any person for the purpose of seeking an interpretation, modification, or rescission of, or an exception to or exemption from, such rules, regulations and orders. If such person is aggrieved or adversely affected by the denial of a request for such action under the preceding sentence, he may request a review of such denial by the officer or agency and may obtain judicial review in accordance with subsection (b) of this section or other applicable law when such denial becomes final. The officer or agency shall, by rule, establish appropriate procedures, including a hearing where deemed advisable, for considering such requests for action under this paragraph.
+(4) Any officer or agency authorized to issue rules, regulations, or orders described in paragraph (1) shall provide for the making of such adjustments, consistent with the other purposes of this Act as may be necessary to prevent special hardship, inequity, or an unfair distribution of burdens and shall in rules prescribed by it establish procedures which are available to any person for the purpose of seeking an interpretation, modification, or rescission of, or an exception to or exemption from, such rules, regulations and orders. If such person is aggrieved or adversely affected by the denial of a request for such action under the preceding sentence, he may request a review of such denial by the officer or agency and may obtain judicial review in accordance with subsection (b) of this section or other applicable law when such denial becomes final. The officer or agency shall, by rule, establish appropriate procedures, including a hearing where deemed advisable, for considering such requests for action under this paragraph.
 
 (b) The procedures for judicial review established by section 211 of the Economic Stabilization Act of 1970 shall apply to proceedings to which subsection (a) of this section applies, as if such proceedings took place under such Act. Such procedures for judicial review shall apply notwithstanding the expiration of the Economic Stabilization Act of 1970.
 
@@ -22,11 +22,15 @@
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(4), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classificationof this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+This Act, referred to in subsec. (a)(1), (2)(B), (4), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, known as the Energy Policy and Conservation Act. Title I of the Act is classified principally to subchapter I (§6211 et seq.) of this chapter. Title II of the Act is classified generally to subchapter II (§6271 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
-The Economic Stabilization Act of 1970, referred to in subsec. (b), is title II of Pub. L. 91–379, Aug. 15, 1970, 84 Stat. 799, as amended, formerly set out as an Economic Stabilization Provisions note under section 1904 of Title 12, Banks and Banking.
+This title, referred to in subsec. (a)(1), (2)(B), is title V of Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 956, which is classified principally to this subchapter. For complete classification of title V to the Code, see Tables.
 
-#### Codification
+The Economic Stabilization Act of 1970, referred to in subsec. (b), is title II of Pub. L. 91–379, Aug. 15, 1970, 84 Stat. 799, formerly set out as an Economic Stabilization Provisions note under section 1904 of Title 12, Banks and Banking.
 
-Words “(other than any provision of such titles which amends another law)”, appearing in the original at the end of subsec. (a), have been omitted as unnecessary. Such titles meant titles I, II, and V of Pub. L. 94–163, which titles are classified to subchapters I, II, and V of this chapter. The provisions of such titles that amended other laws were not classified to subchapters I, II, and V of this chapter.
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The closing parenthesis probably should follow “another law”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “amends”.</i>
 

@@ -90,7 +90,7 @@ The word “officer” is omitted as included in “employee”, and the word �
 
 1993—Subsec. (e). Pub. L. 103–89, §3(b)(1)(H)(i), struck out “covered by the performance management and recognition system established under chapter 54 of this title, or,” after “individual”.
 
-Subsecs. (f), (g). Pub. L. 103–89, §3(b)(1)(H)(ii), redesignated subsec. (g) as (f) and struck out former subsec. (f)which read as follows: “Notwithstanding subsection (b) or (e) of this section, an increase in pay granted under section 5404 of this title is an equivalent increase in pay within the meaning of subsection (a) of this section and shall be taken into account in the case of any employee who, before becoming subject to this section, was granted such an increase while covered by the performance management and recognition system established under chapter 54 of this title.”
+Subsecs. (f), (g). Pub. L. 103–89, §3(b)(1)(H)(ii), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “Notwithstanding subsection (b) or (e) of this section, an increase in pay granted under section 5404 of this title is an equivalent increase in pay within the meaning of subsection (a) of this section and shall be taken into account in the case of any employee who, before becoming subject to this section, was granted such an increase while covered by the performance management and recognition system established under chapter 54 of this title.”
 
 1990—Subsec. (a)(B). Pub. L. 101–509 struck out “, except an administrative law judge appointed under section 3105 of this title,” after “work of the employee”.
 

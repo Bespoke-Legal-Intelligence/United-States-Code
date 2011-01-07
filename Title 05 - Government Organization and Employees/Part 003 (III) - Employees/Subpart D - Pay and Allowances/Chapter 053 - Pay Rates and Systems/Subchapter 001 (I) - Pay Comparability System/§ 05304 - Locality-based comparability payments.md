@@ -30,7 +30,7 @@
 
 &emsp;(4) Nothing in this section shall be considered to preclude the President, in his discretion, from adjusting comparability payments to a level higher than the minimum level otherwise required in a calendar year, including to the level necessary to eliminate a locality's pay disparity completely.
 
-(b) After the ninth calendar year (referred to in subsection (a)(3)(I)), the level of comparability payments payable within such locality may be reduced for any subsequent calendar year, butonly if, or to the extent that, the reduction would not immediately create another pay disparity in excess of 5 percent within the locality (taking into consideration any comparability payments remaining payable).
+(b) After the ninth calendar year (referred to in subsection (a)(3)(I)), the level of comparability payments payable within such locality may be reduced for any subsequent calendar year, but only if, or to the extent that, the reduction would not immediately create another pay disparity in excess of 5 percent within the locality (taking into consideration any comparability payments remaining payable).
 
 (c)(1) The amount of the comparability payment payable within any particular locality during a calendar year—
 
@@ -148,7 +148,7 @@
 
 (B) A request by an agency head or exercise of authority by the President under subparagraph (A) shall cover—
 
-&emsp;(i) with respect to the positions under subparagraphs (A) through (C) of paragraph (1), all positions described in the subparagraph or subparagraphs involved (excluding any underclause (i), (ii), (iii), (iv), (v), (vi), or (vii) of such paragraph); and
+&emsp;(i) with respect to the positions under subparagraphs (A) through (C) of paragraph (1), all positions described in the subparagraph or subparagraphs involved (excluding any under clause (i), (ii), (iii), (iv), (v), (vi), or (vii) of such paragraph); and
 
 &emsp;(ii) with respect to positions under paragraph (1)(D), such positions as may be considered appropriate (excluding any under clause (i), (ii), (iii), (iv), (v), (vi), or (vii) of paragraph (1)).
 
@@ -262,7 +262,7 @@ Subsec. (e)(1). Pub. L. 102–378, §2(26)(C)(i), inserted after second sentence
 
 Subsec. (e)(2)(A)(ii). Pub. L. 102–378, §2(26)(C)(ii), substituted “surveys of pay localities” for “annual survey” and “industries” for “industries,”.
 
-Subsec. (g)(2). Pub. L. 102–378, §2(26)(D), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For positions under subparagraphs (A)–(E) of subsection (h)(1), the applicable maximum under this subsection shall be level III of the Executive Schedule.”
+Subsec. (g)(2). Pub. L. 102–378, §2(26)(D), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For positions under subparagraphs (A)–(E) ofsubsection (h)(1), the applicable maximum under this subsection shall be level III of the Executive Schedule.”
 
 Subsec. (h)(1)(F). Pub. L. 102–378, §2(26)(E)(i)(I), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “a position within an Executive agency not covered under any of the preceding subparagraphs, the rate of basic pay for which is (or, but for this section, would be) less than the rate payable for level V of the Executive Schedule;”.
 
@@ -322,11 +322,11 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 #### Delegation of Functions
 
-For designation of agents of President under subsecs. (d)(1) and (h) of this section, see Ex. Ord. No. 12748,§2(a), Feb. 1, 1991, 56 F.R. 4521, eff. Feb. 3, 1991, set out as a note under section 5301 of this title.
+For designation of agents of President under subsecs. (d)(1) and (h) of this section, see Ex. Ord. No. 12748, §2(a), Feb. 1, 1991, 56 F.R. 4521, eff. Feb. 3, 1991, set out as a note under section 5301 of this title.
 
 #### Non-Foreign Area Retirement Equity Assurance
 
-Pub. L. 111–84, div. A, title XIX, subtitle B, Oct. 28, 2009, 123 Stat. 2619, provided that:
+Pub. L. 111–84, div. A, title XIX, subtitle B, Oct. 28, 2009, 123 Stat. 2619, as amended by Pub. L. 111–383, div. A, title X, §1075(d)(22), Jan. 7, 2011, 124 Stat. 4374, provided that:
 
 #### “SEC. 1911. SHORT TITLE.
 
@@ -412,7 +412,7 @@ Continuation of cost of living allowance rate.—If an employee, who the day bef
 
 &emsp;&emsp;“(B) the employee is entitled to receive basic pay (including any applicable locality-based comparability payment or similar supplement) at a higher rate,
 
-> &emsp;but, when any such position becomes vacant, the pay of any subsequent appointee thereto shall be fixed inthe manner provided by applicable law and regulation.
+> &emsp;but, when any such position becomes vacant, the pay of any subsequent appointee thereto shall be fixed in the manner provided by applicable law and regulation.
 
 &emsp;“(3)
 
@@ -652,7 +652,7 @@ Pub. L. 106–554, §1(a)(3) \[title VI, §637\], Dec. 21, 2000, 114 Stat. 2763,
 
 “(f)(1) No later than March 1, 2001, the President's pay agent shall submit to the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, and the Committees on Appropriations of the House of Representatives and of the Senate, a report on the use of pay comparison data, as described in subsection (b)(2) or (3) (as appropriate), for purposes of comparability payments.
 
-“(2) The report shall include the cost of obtaining such data, the rationale underlying the decisions reached based on such data, and the relative advantages and disadvantages of using such data (including whether the effort involved in analyzing and integrating such data is commensurate with the benefits derived from their use). The report may include specific recommendations regarding the continued use of such data.
+“(2) The report shall include the cost of obtaining such data, the rationale underlying the decisions reached based on such data, and the relative advantages and disadvantages of using such data (including whether the effort involved in analyzing and integrating such data is commensurate with the benefits derived from their use). The report may include specificrecommendations regarding the continued use of such data.
 
 “(g)(1) No later than May 1, 2001, the President's pay agent shall prepare and submit to the committees specified in subsection (f)(1) a report relating to the ongoing efforts of the Office of Personnel Management, the Office of Management and Budget, and the Bureau of Labor Statistics to revise the methodology currently being used by the Bureau of Labor Statistics in performing its surveys under section 5304 of title 5, United States Code.
 
@@ -736,7 +736,7 @@ Effective Date.—This section shall take effect on the date of enactment of thi
 
 \[Amendment by Pub. L. 103–89 to section 529 \[title III, §302\] of Pub. L. 101–509, set out above, effective Nov. 1, 1993, see section 3(c) of Pub. L. 103–89, set out as an Effective Date of 1993 Amendment note under section 3372 of this title.\]
 
-\[Amendment by Pub. L. 102–378 to section 529 \[title III, §302\] of Pub. L. 101–509, set out above, effective Nov. 5, 1990, see section 9(b)(6) of Pub. L. 102–378, set out as an Effective Date of 1992 Amendment note under section 6303 of this title.\]
+\[Amendment by Pub. L. 102–378 to section 529 \[title III, §302\] of Pub. L. 101–509, set out above, effective Nov.5, 1990, see section 9(b)(6) of Pub. L. 102–378, set out as an Effective Date of 1992 Amendment note under section 6303 of this title.\]
 
 Interim geographic adjustments pursuant to section 529 \[title III, §302\] of Pub. L. 101–509, set out above, were provided by the following executive orders, formerly set out as notes under section 5332 of this title, effective on the first day of first pay period beginning on or after the effective date shown:
 

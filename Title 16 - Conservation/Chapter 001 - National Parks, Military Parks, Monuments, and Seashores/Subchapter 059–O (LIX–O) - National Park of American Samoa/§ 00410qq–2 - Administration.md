@@ -42,7 +42,7 @@ The Secretary, in cooperation with the Governor of American Samoa, shall prepare
 
 #### (h) Review
 
-At least every 10 years, the Secretary and the Governor, or their designees, shall review theoperation and management of the park. Such review shall include, but need not be limited to, consideration of how the objectives of the park can better be achieved, the need for additional technical or other assistance, cooperative arrangements between the Government of American Samoa and the National Park Service in the interpretation and management of the park, and the desirability of extension of the lease arrangement.
+At least every 10 years, the Secretary and the Governor, or their designees, shall review the operation and management of the park. Such review shall include, but need not be limited to, consideration of how the objectives of the park can better be achieved, the need for additional technical or other assistance, cooperative arrangements between the Government of American Samoa and the National Park Service in the interpretation and management of the park, and the desirability of extension of the lease arrangement.
 
 #### (i) Technical assistance
 
@@ -51,8 +51,6 @@ The Secretary, in providing technical or other assistance to the Government of A
 (Pub. L. 100–571, §3, Oct. 31, 1988, 102 Stat. 2881.)
 
 #### References in Text
-
-The civil service laws, referred to in subsec. (d), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
 
 Section 14(b) of the Federal Advisory Committee Act, referred to in subsec. (g)(4), is section 14(b) of Pub. L. 92–463, which is set out in the Appendix to Title 5.
 

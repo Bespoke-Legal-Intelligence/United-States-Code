@@ -4,7 +4,7 @@ Pistols, revolvers, and other firearms capable of being concealed on the person 
 
 Whoever knowingly deposits for mailing or delivery, or knowingly causes to be delivered by mail according to the direction thereon, or at any place to which it is directed to be delivered by the person to whom it is addressed, any pistol, revolver, or firearm declared nonmailable by this section, shall be fined under this title or imprisoned not more than two years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 781; May 24, 1949, ch. 139, §40, 63 Stat. 95; Pub. L. 91–375, §6(j)(24), Aug. 12, 1970, 84 Stat. 779; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §607(f), Oct. 11, 1996, 110 Stat. 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 781; May 24, 1949, ch. 139, §40, 63 Stat. 95; Pub. L. 91–375, §6(j)(24),Aug. 12, 1970, 84 Stat. 779; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §607(f), Oct. 11, 1996, 110 Stat. 3511.)
 
 #### Historical and Revision Notes
 
@@ -22,13 +22,13 @@ This section \[section 40\] inserts “Air Force,” in section 1715 of title 18
 
 #### Amendments
 
-1996—Pub. L. 104–294, in first par., substituted “State, Territory, Commonwealth, Possession, or District” for “State, Territory, or District” wherever appearing.
+<b>1996</b>—Pub. L. 104–294, in first par., substituted “State, Territory, Commonwealth, Possession, or District” for “State, Territory, or District” wherever appearing.
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in second par.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in second par.
 
-1970—Pub. L. 91–375 substituted “Postal Service” for “Postmaster General” after “such regulations as the” in two places and “officer or employee of” for “postmaster, letter carrier, or other person in” in first par., respectively.
+<b>1970</b>—Pub. L. 91–375 substituted “Postal Service” for “Postmaster General” after “such regulations as the” in two places and “officer or employee of” for “postmaster, letter carrier, or other person in” in first par., respectively.
 
-1949—Act May 24, 1949, inserted “Air Force” after “Navy” and substituted “Organized” for “Officers’ ” before “Reserve Corps” in first par., to make section applicable to the Air Force and to conform to the grouping of all reserve branches into a single reserve component.
+<b>1949</b>—Act May 24, 1949, inserted “Air Force” after “Navy” and substituted “Organized” for “Officers’ ” before “Reserve Corps” in first par., to make section applicable to the Air Force and to conform to the grouping of all reserve branches into a single reserve component.
 
 #### Effective Date of 1970 Amendment
 

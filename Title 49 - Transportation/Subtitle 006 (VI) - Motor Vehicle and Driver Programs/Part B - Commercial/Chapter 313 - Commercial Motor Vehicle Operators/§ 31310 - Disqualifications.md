@@ -2,7 +2,7 @@
 
 (a)
 
-Blood Alcohol Concentration Level.—In this section, the blood alcohol concentration level at or above which an individual when operating a commercial motor vehicle is deemed to be driving under the influence of alcohol is .04 percent.
+Blood Alcohol Concentration Level.—In this section, the blood alcohol concentration level at or above which an individual when operating a commercial motor vehicle is deemed tobe driving under the influence of alcohol is .04 percent.
 
 (b)
 
@@ -18,7 +18,7 @@ First Violation or Committing Felony.—(1) Except as provided in paragraph (2) 
 
 &emsp;(E) convicted of causing a fatality through negligent or criminal operation of a commercial motor vehicle.
 
-(2) If the vehicle involved in a violation referred to in paragraph (1) of this subsection is transporting hazardous material required to beplacarded under section 5103 of this title, the Secretary shall disqualify the individual for at least 3 years.
+(2) If the vehicle involved in a violation referred to in paragraph (1) of this subsection is transporting hazardous material required to be placarded under section 5103 of this title, the Secretary shall disqualify the individual for at least 3 years.
 
 (c)
 
@@ -88,7 +88,7 @@ Out-of-Service Orders.—(1)(A) To enforce section 392.5 of title 49, Code of Fe
 
 (2) The Secretary shall prescribe regulations establishing sanctions and penalties related to violations of out-of-service orders by individuals operating commercial motor vehicles. The regulations shall require at least that—
 
-&emsp;(A) an operator of a commercial motor vehicle found to have committed a first violationof an out-of-service order shall be disqualified from operating such a vehicle for at least 180 days and liable for a civil penalty of at least $2,500;
+&emsp;(A) an operator of a commercial motor vehicle found to have committed a first violation of an out-of-service order shall be disqualified from operating such a vehicle for at least 180 days and liable for a civil penalty of at least $2,500;
 
 &emsp;(B) an operator of a commercial motor vehicle found to have committed a 2d violation of an out-of-service order shall be disqualified from operating such a vehicle for at least 2 years and not more than 5 years and liable for a civil penalty of at least $5,000;
 
@@ -176,7 +176,7 @@ The date of the enactment of this Act, referred to in subsec. (g)(1), is the dat
 
 #### Amendments
 
-2005—Subsec. (i)(2). Pub. L. 109–59, §4102(b)(1), substituted “The Secretary” for “Not later than December 18, 1992, the Secretary” in introductory provisions.
+<b>2005</b>—Subsec. (i)(2). Pub. L. 109–59, §4102(b)(1), substituted “The Secretary” for “Not later than December 18, 1992, the Secretary” in introductory provisions.
 
 Subsec. (i)(2)(A). Pub. L. 109–59, §4102(b)(2), substituted “180 days” for “90 days” and “$2,500” for “$1,000”.
 
@@ -186,7 +186,7 @@ Subsec. (i)(2)(C). Pub. L. 109–59, §4102(b)(4), substituted “$25,000; and�
 
 Subsec. (i)(2)(D). Pub. L. 109–59, §4102(b)(5), added subpar. (D).
 
-1999—Subsec. (b)(1)(D), (E). Pub. L. 106–159, §201(a)(1), added subpars. (D) and (E).
+<b>1999</b>—Subsec. (b)(1)(D), (E). Pub. L. 106–159, §201(a)(1), added subpars. (D) and (E).
 
 Subsec. (c)(1)(D), (E). Pub. L. 106–159, §201(a)(2)(A), (C), added subpars. (D) and (E). Former subpar. (D) redesignated (F).
 
@@ -198,7 +198,7 @@ Subsec. (h). Pub. L. 106–159, §201(b)(1), (3), redesignated subsec. (f) as (h
 
 Subsecs. (i), (j). Pub. L. 106–159, §201(b)(1), redesignated subsecs. (g) and (h) as (i) and (j), respectively.
 
-1995—Subsec. (h). Pub. L. 104–88 added subsec. (h).
+<b>1995</b>—Subsec. (h). Pub. L. 104–88 added subsec. (h).
 
 #### Effective Date of 1995 Amendment
 

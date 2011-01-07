@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Administrator shall conduct a continuing program of studies to identify groups within the general population that may be at greater risk than the general population of adverse health effects from exposure to contaminants in drinking water. The study shall examine whether and to what degree infants, children, pregnant women, the elderly, individuals with a history of serious illness, or other subpopulations that can be identified and characterized are likely to experience elevated health risks, including risks of cancer, from contaminants in drinking water.
+&emsp;The Administrator shall conduct a continuing program of studies to identify groups within the general population that may be at greater risk than the general population of adverse health effects from exposure to contaminants in drinking water. The study shall examine whether and to what degree infants, children, pregnant women, the elderly, individuals with a history of serious illness, orother subpopulations that can be identified and characterized are likely to experience elevated health risks, including risks of cancer, from contaminants in drinking water.
 
 #### (2) Report
 
@@ -18,7 +18,7 @@ The Administrator shall conduct biomedical studies to—
 
 &emsp;(2) understand the effects of contaminants and the mechanisms by which the contaminants cause adverse effects (especially noncancer and infectious effects) and the variations in the effects among humans, especially subpopulations at greater risk of adverse effects, and between test animals and humans; and
 
-&emsp;(3) develop new approaches to the study of complex mixtures, such as mixtures found in drinking water, especially to determine theprospects for synergistic or antagonistic interactions that may affect the shape of the dose-response relationship of the individual chemicals and microbes, and to examine noncancer endpoints and infectious diseases, and susceptible individuals and subpopulations.
+&emsp;(3) develop new approaches to the study of complex mixtures, such as mixtures found in drinking water, especially to determine the prospects for synergistic or antagonistic interactions that may affect the shape of the dose-response relationship of the individual chemicals and microbes, and to examine noncancer endpoints and infectious diseases, and susceptible individuals and subpopulations.
 
 #### (c) Studies on harmful substances in drinking water
 
@@ -78,7 +78,7 @@ Epidemiological Study of Exposure to Perchlorate.—The Secretary of Defense sha
 
 &emsp;“(2) ensure that the study is of sufficient scope and scale to permit the making of meaningful conclusions of the measurable public health threat associated with exposure to perchlorate, especially the threat to sensitive subpopulations; and
 
-&emsp;“(3) examine thyroid function, including measurements of urinary iodine and thyroid hormone levels, in a sufficient number of pregnant women, neonates, and infants exposed to perchlorate in drinking water and match measurements of perchlorate levels in the drinking water of each study participant in order to permit the development of meaningful conclusions on the public health threat to individuals exposed to perchlorate.
+&emsp;“(3) examine thyroid function, including measurements of urinary iodine and thyroid hormone levels,in a sufficient number of pregnant women, neonates, and infants exposed to perchlorate in drinking water and match measurements of perchlorate levels in the drinking water of each study participant in order to permit the development of meaningful conclusions on the public health threat to individuals exposed to perchlorate.
 
 “(b)
 
@@ -96,5 +96,5 @@ Performance of Study and Review.—(1) The Secretary shall provide for the perfo
 
 “(d)
 
-Reporting Requirements.—Not later than June 1, 2005, the Federal entities conducting the study andreview under this section shall submit to the Secretary reports containing the results of the study and review.”
+Reporting Requirements.—Not later than June 1, 2005, the Federal entities conducting the study and review under this section shall submit to the Secretary reports containing the results of the study and review.”
 

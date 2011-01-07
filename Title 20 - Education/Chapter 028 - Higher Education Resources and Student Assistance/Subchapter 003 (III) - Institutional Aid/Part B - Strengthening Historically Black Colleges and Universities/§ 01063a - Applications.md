@@ -4,7 +4,7 @@
 
 No part B institution shall be entitled to its allotment of Federal funds for any grant under section 1063 of this title for any period unless that institution meets the requirements of subparagraphs (C), (D), and (E) <sup>1</sup> of section 1058(b)(1) of this title and submits an application to the Secretary at such time, in such manner, and containing or accompanied by such information, as the Secretary may reasonably require. Each such application shall—
 
-&emsp;(1) provide that the payments under this chapter will be used for the purposes set forth in section 1062 of this title; and
+&emsp;(1) provide that the payments under this chapter and part C of subchapter I of chapter 34 of title 42 will be used for the purposes set forth in section 1062 of this title; and
 
 &emsp;(2) provide for making an annual report to the Secretary and provide for—
 
@@ -26,13 +26,11 @@ Any application for a grant under this part shall describe measurable goals for 
 
 Section 1058(b)(1)(E) of this title, referred to in subsec. (a), was repealed and section 1058(b)(1)(F) was redesignated section 1058(b)(1)(E) by Pub. L. 102–325, title III, §302(a)(1)(B), (C), July 23, 1992, 106 Stat. 472.
 
-This chapter, referred to in subsec. (a)(1), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
-
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102–325 added subsec. (c).
+<b>1992</b>—Subsec. (c). Pub. L. 102–325 added subsec. (c).
 
-1987—Subsec. (a)(1). Pub. L. 100–50 substituted “section 1062 of this title” for “section 1061 of this title”.
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–50 substituted “section 1062 of this title” for “section 1061 of this title”.
 
 #### Effective Date of 1992 Amendment
 

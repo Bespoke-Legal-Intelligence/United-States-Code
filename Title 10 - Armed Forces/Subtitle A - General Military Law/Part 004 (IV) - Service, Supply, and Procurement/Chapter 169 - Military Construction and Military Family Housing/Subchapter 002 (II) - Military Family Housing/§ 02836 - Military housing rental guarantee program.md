@@ -58,7 +58,7 @@ Conditions on Obligation of Funds.—An agreement entered into for a project pur
 
 (e)
 
-Competitive Process.—An agreement under subsection (a) shall be made through the use of publicly advertised, competitively bid, or competitively negotiated, contracting procedures as provided in chapter 137 of this title. In accordance with such procedures, the Secretary of a military department, or the Secretary of Homeland Security, as the case may be, shall solicit bids or proposals for a guaranty agreement for each military housing rental guaranty project authorized in accordance with subsection (b).
+Competitive Process.—An agreement under subsection (a) shall be made through theuse of publicly advertised, competitively bid, or competitively negotiated, contracting procedures as provided in chapter 137 of this title. In accordance with such procedures, the Secretary of a military department, or the Secretary of Homeland Security, as the case may be, shall solicit bids or proposals for a guaranty agreement for each military housing rental guaranty project authorized in accordance with subsection (b).
 
 (f)
 
@@ -70,13 +70,9 @@ Notice and Wait Requirements.—An agreement may not be entered into under subse
 
 (g)
 
-Disputes.—The Secretary concerned may require that disputes arising under an agreement entered into under subsection (a) be decided in accordance with the procedures provided for by the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.).
+Disputes.—The Secretary concerned may require that disputes arising under an agreement entered into under subsection (a) be decided in accordance with the procedures provided for by chapter 71 of title 41.
 
-(Added Pub. L. 102–190, div. B, title XXVIII, §2809(a)(1), Dec. 5, 1991, 105 Stat. 1541; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §1031(a)(43), Nov. 24, 2003, 117 Stat. 1602.)
-
-#### References in Text
-
-The Contract Disputes Act of 1978, referred to in subsec. (g), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, as amended, which is classified principally to chapter 9 (§601 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 41 and Tables.
+(Added Pub. L. 102–190, div. B, title XXVIII, §2809(a)(1), Dec. 5, 1991, 105 Stat. 1541; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §1031(a)(43), Nov. 24, 2003, 117 Stat. 1602; Pub. L. 111–350, §5(b)(48), Jan. 4, 2011, 124 Stat. 3846.)
 
 #### Prior Provisions
 
@@ -84,9 +80,11 @@ Similar provisions were contained in Pub. L. 98–115, title VIII, §802, Oct. 1
 
 #### Amendments
 
-2003—Subsec. (f)(2). Pub. L. 108–136 substituted “21 days” for “21 calendar days” and inserted before period at end “or, if over sooner, a period of 14 days has expired following the date on which a copy of the economic analysis is provided in an electronic medium pursuant to section 480 of this title”.
+<b>2011</b>—Subsec. (g). Pub. L. 111–350 substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)”.
 
-2002—Subsecs. (a), (b), (c)(4)(B), (11), (e), (f)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” wherever appearing.
+<b>2003</b>—Subsec. (f)(2). Pub. L. 108–136 substituted “21 days” for “21 calendar days” and inserted before period at end “or, if over sooner, a period of 14 days has expired following the date on which a copy of the economic analysis is provided in an electronic medium pursuant to section 480 of this title”.
+
+<b>2002</b>—Subsecs. (a), (b), (c)(4)(B), (11), (e), (f)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” wherever appearing.
 
 #### Effective Date of 2002 Amendment
 
@@ -94,5 +92,5 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date
 
-Section 2809(c) of Pub. L. 102–190 provided that: “Section 2836 of title 10, United States Code, as added bysubsection (a), shall apply with respect to contracts entered into under that section on or after the date of the enactment of this Act \[Dec. 5, 1991\]. The amendment made by subsection (b) \[repealing provisions set out as a note under section 2821 of this title\] shall not affect the validity of any contract entered into before that date under section 802 of the Military Construction Authorization Act, 1984 (10 U.S.C. 2821 note), as in effect on the day before that date.”
+Section 2809(c) of Pub. L. 102–190 provided that: “Section 2836 of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts entered into under that section on or after the date of the enactment of this Act \[Dec. 5, 1991\]. The amendment made by subsection (b) \[repealing provisions set out as a note under section 2821 of this title\] shall not affect the validity of any contract entered into before that date under section 802 of the Military Construction Authorization Act, 1984 (10 U.S.C. 2821 note), as in effect on the day before that date.”
 

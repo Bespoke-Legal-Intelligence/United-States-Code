@@ -10,9 +10,9 @@ A prior section 816 of Pub. L. 90–351 was renumbered section 810 and is classi
 
 #### Amendments
 
-1984—Pub. L. 98–473, §609B(n), substituted “Assistant Attorney General” for “Administration”.
+<b>1984</b>—Pub. L. 98–473, §609B(n), substituted “Assistant Attorney General” for “Administration”.
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 609B(n) of Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473,set out as an Effective Date note under section 3711 of this title.
+Amendment by section 609B(n) of Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under section 3711 of this title.
 

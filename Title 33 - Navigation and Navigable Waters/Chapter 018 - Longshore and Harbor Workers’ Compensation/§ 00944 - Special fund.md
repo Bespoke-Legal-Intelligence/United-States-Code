@@ -70,7 +70,7 @@ The fund shall be audited annually and the results of such audit shall be includ
 
 #### Amendments
 
-1984—Subsecs. (a), (b). Pub. L. 98–426, §27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
+<b>1984</b>—Subsecs. (a), (b). Pub. L. 98–426, §27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
 
 Subsec. (c)(2). Pub. L. 98–426, §24(a), substituted provisions requiring that, at the beginning of each calendar year the Secretary estimate the probable expenses of the fund during that calendar year and the amount of payments required (and the schedule therefor) to maintain adequate reserves in the fund and that each carrier and self-insurer make payments into the fund on a prorated assessment by the Secretary determined by (A) computing the ratio (expressed as a percent) of (i) the carrier's or self-insured's workers’ compensation payments under this chapter during the preceding calendar year, to (ii) the total of such payments by all carriers and self-insureds under this chapter during such year; (B) computing the ratio (expressed as a percent) of (i) the payments under section 908(f) of this title during the preceding calendar year which are attributable to the carrier or self-insured, to (ii) the total of such payments during such year attributable to all carriers and self-insureds; (C) dividing the sum of the percentages computed under (A) and (B) for the carrier or self-insured by two; and (D) multiplying the percent computed under (C) by such probable expenses of the fund (as determined under the first sentence of this paragraph) for provisions which had formerly required that at the beginning of each calendar year the Secretary estimate the probable expenses of the fund during that calendar year and each carrier or self-insurer make payments into the fund on a prorated assessment by the Secretary in the proportion that the total compensation and medical payments made on risks covered by this chapter by each carrier and self-insurer bore to the total of such payments made by all carriers and self-insurers under the chapter in the prior calendar year in accordance with a formula and schedule to be determined from time to time by the Secretary to maintain adequate reserves in the fund.
 
@@ -104,7 +104,7 @@ Pub. L. 98–426, §24(e), substituted “The fund shall be audited annually and
 
 Subsec. (k). Pub. L. 98–426, §24(b), redesignated subsec. (k) as (j).
 
-1972—Subsec. (a). Pub. L. 92–576, §8(a), substituted “special fund” for “special fund for the purpose of making payments in accordance with the provisions of subsections (f) and (g) of section 908, of subsection (b) of section 918, and of subsection (c) of section 939 of this title”.
+<b>1972</b>—Subsec. (a). Pub. L. 92–576, §8(a), substituted “special fund” for “special fund for the purpose of making payments in accordance with the provisions of subsections (f) and (g) of section 908, of subsection (b) of section 918, and of subsection (c) of section 939 of this title”.
 
 Subsec. (c)(1). Pub. L. 92–576, §8(b), increased compensation payment for death to $5,000 from $1,000; inserted provision for compensation which would otherwise be compensable under this chapter; deleted second sentence, less two provisos, now incorporated in subsec. (j)(2) of this section; deleted first such proviso for priority of payments authorized by subsec. (f) over other payments authorized from the fund; and deleted second such proviso, now incorporated in subsec. (k) of this section.
 
@@ -120,7 +120,7 @@ Subsec. (j). Pub. L. 92–576, §8(d), added pars. (1), (3), and (4), and incorp
 
 Subsec. (k). Pub. L. 92–576, §8(d), incorporated former provisions of subsec. (c)(1), last proviso, in provisions designated as subsec. (k).
 
-1956—Subsec. (a). Act July 26, 1956, §8(a), substituted “, of subsection (b) of section 918 of this title, and of subsection (c) of section 939 of this title” for “of this title.”
+<b>1956</b>—Subsec. (a). Act July 26, 1956, §8(a), substituted “, of subsection (b) of section 918 of this title, and of subsection (c) of section 939 of this title” for “of this title.”
 
 Subsec. (c)(1). Act July 26, 1956, §8(b), substituted provisions relating to availability of fund for payments under sections 908(f) and (g), 918(b), and 939(c) of this title, proviso that subsec. (f) payments have priority, and further proviso requiring annual audit, for former provision that fifty per centum of each payment shall be available for the payments under section 908(f) and (g) of this title.
 

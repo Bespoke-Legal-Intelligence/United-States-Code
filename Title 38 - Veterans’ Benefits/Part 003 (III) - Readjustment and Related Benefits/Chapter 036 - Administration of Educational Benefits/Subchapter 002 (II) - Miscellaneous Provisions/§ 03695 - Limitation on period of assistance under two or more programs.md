@@ -38,31 +38,31 @@ The Omnibus Diplomatic Security and Antiterrorism Act of 1986, referred to in su
 
 #### Amendments
 
-2008—Subsec. (a)(4). Pub. L. 110–252 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Chapters 30, 32, 34, 35, and 36 of this title, and the former chapter 33.”
+<b>2008</b>—Subsec. (a)(4). Pub. L. 110–252 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Chapters 30, 32, 34, 35, and 36 of this title, and the former chapter 33.”
 
-2004—Subsec. (a)(5). Pub. L. 108–375 inserted “1607,” after “1606,”.
+<b>2004</b>—Subsec. (a)(5). Pub. L. 108–375 inserted “1607,” after “1606,”.
 
-2001—Subsec. (a)(5). Pub. L. 107–103 and Pub. L. 107–107 amended par. (5) identically, substituting “1611” for “1610”.
+<b>2001</b>—Subsec. (a)(5). Pub. L. 107–103 and Pub. L. 107–107 amended par. (5) identically, substituting “1611” for “1610”.
 
-1999—Subsec. (a)(5). Pub. L. 106–65 substituted “Chapters 107, 1606, and 1610” for “Chapters 106 and 107”.
+<b>1999</b>—Subsec. (a)(5). Pub. L. 106–65 substituted “Chapters 107, 1606, and 1610” for “Chapters 106 and 107”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1795 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1795 of this title as this section.
 
 Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “3101(5)” for “1501(5)”.
 
-1989—Subsec. (a)(8). Pub. L. 101–237, §423(a)(8)(B), added par. (8).
+<b>1989</b>—Subsec. (a)(8). Pub. L. 101–237, §423(a)(8)(B), added par. (8).
 
 Subsec. (b). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator”.
 
-1984—Subsec. (a). Pub. L. 98–525 inserted reference in cl. (4) to chapter 30 of this title, and in cl. (5) to chapter 106 of title 10.
+<b>1984</b>—Subsec. (a). Pub. L. 98–525 inserted reference in cl. (4) to chapter 30 of this title, and in cl. (5) to chapter 106 of title 10.
 
 Pub. L. 98–223, §203(c)(2)(A), substituted “48 months” for “forty-eight months”, capitalized the first word in cls. (1) to (4), and added cls. (5) to (7).
 
 Subsec. (b). Pub. L. 98–223, §203(c)(2)(B), substituted “subsection (a)” for “clauses (1), (2), (3), and (4)” and “48” for “forty-eight”.
 
-1980—Pub. L. 96–466 designated existing provisions as subsec. (a), substituted in par. (4) “chapters 32, 34, 35, and 36 of this title and the former chapter 33;” for “chapters 31, 34, 35, and 36 of this title, and the former chapter 33”, in provisions following par. (4) struck out “, but this section shall not be deemed to limit the period for which assistance may be received under chapter 31 alone” after “(or the part-time equivalent thereof)”, and added subsec. (b).
+<b>1980</b>—Pub. L. 96–466 designated existing provisions as subsec. (a), substituted in par. (4) “chapters 32, 34, 35, and 36 of this title and the former chapter 33;” for “chapters 31, 34, 35, and 36 of this title, and the former chapter 33”, in provisions following par. (4) struck out “, but this section shall not be deemed to limit the period for which assistance may be received under chapter 31 alone” after “(or the part-time equivalent thereof)”, and added subsec. (b).
 
-1972—Pub. L. 92–540, §403(13), inserted reference to chapter 36 of this title.
+<b>1972</b>—Pub. L. 92–540, §403(13), inserted reference to chapter 36 of this title.
 
 #### Effective Date of 2008 Amendment
 

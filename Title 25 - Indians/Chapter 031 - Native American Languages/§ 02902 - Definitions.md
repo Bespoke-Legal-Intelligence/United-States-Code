@@ -22,11 +22,11 @@ For purposes of this chapter—
 
 #### Amendments
 
-2002—Par. (2). Pub. L. 107–110, §702(f)(1), substituted “section 7491(3) of title 20” for “section 7881(4) of title 20”.
+<b>2002</b>—Par. (2). Pub. L. 107–110, §702(f)(1), substituted “section 7491(3) of title 20” for “section 7881(4) of title 20”.
 
 Par. (3). Pub. L. 107–110, §702(f)(2), substituted “section 7517 of title 20” for “section 7912(1) of title 20”.
 
-1996—Par. (2). Pub. L. 104–109, §11(1), substituted “section 7881(4) of title 20” for “section 2651(4) of this title”.
+<b>1996</b>—Par. (2). Pub. L. 104–109, §11(1), substituted “section 7881(4) of title 20” for “section 2651(4) of this title”.
 
 Par. (3). Pub. L. 104–109, §11(2), substituted “section 7912(1) of title 20” for “section 4909 of title 20”.
 

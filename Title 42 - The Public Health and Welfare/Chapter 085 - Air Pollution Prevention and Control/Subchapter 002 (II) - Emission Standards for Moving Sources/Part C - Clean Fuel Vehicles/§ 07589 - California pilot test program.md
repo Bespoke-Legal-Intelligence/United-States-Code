@@ -19,8 +19,8 @@ Not later than 24 months after November 15, 1990, the Administrator shall promul
 &nbsp;
 
 | Model Years | Number of Clean-Fuel Vehicles |
-| --- | --- |
-| 1996, 1997, 1998 D150,000 vehicles |  |
+| :--- | ---: |
+| 1996, 1997, 1998 | 150,000 vehicles |
 | 1999 and thereafter | 300,000 vehicles |
 
 #### (2) Clean alternative fuels

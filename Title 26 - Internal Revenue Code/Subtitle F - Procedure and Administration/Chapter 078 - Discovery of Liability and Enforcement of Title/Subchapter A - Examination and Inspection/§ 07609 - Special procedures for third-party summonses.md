@@ -8,7 +8,7 @@
 
 #### (2) Sufficiency of notice
 
-&emsp;Such notice shall be sufficient if, on or before such third day, such notice is served in the manner provided in section 7603 (relating to service of summons) upon the person entitled to notice, or is mailed by certified or registered mail to the last known address of such person, or, in the absence of a last known address, is left with the person summoned. If such notice is mailed, it shall be sufficient if mailed to the last known address of the person entitled to notice or, in the case of notice to the Secretary under section 6903 of the existence of a fiduciary relationship, to the last known address of the fiduciary of such person, even if such person or fiduciary is then deceased, under a legal disability, or no longer in existence.
+&emsp;Such notice shall be sufficient if, on or before such third day, such notice is served in the manner provided in section 7603 (relating to service of summons) upon the person entitled to notice, or is mailed by certified or registered mail to the last known address of such person, or, in the absence of a last known address, is left with the person summoned. If such notice is mailed, it shall be sufficient if mailed to the last known address of the person entitled to notice or, in the case of notice to the Secretary under section 6903 of the existence of a fiduciary relationship, to the lastknown address of the fiduciary of such person, even if such person or fiduciary is then deceased, under a legal disability, or no longer in existence.
 
 #### (3) Nature of summons
 
@@ -84,7 +84,7 @@ No examination of any records required to be produced under a summons as to whic
 
 #### (2) Suspension after 6 months of service of summons
 
-&emsp;In the absence of the resolution of the summoned party's response to the summons, the running of any period of limitations under section 6501 or under section 6531 with respect to any person with respect to whose liability the summons is issued (other than a person taking action as provided in subsection (b)) shall be suspended for the period—
+&emsp;In the absence of the resolution of the summoned party's response to the summons, the running of any period of limitations under section 6501 or under section 6531 with respect to any person with respect to whose liability the summons is issued (other than a person takingaction as provided in subsection (b)) shall be suspended for the period—
 
 &emsp;&emsp;(A) beginning on the date which is 6 months after the service of such summons, and
 
@@ -122,7 +122,7 @@ A summons is described in this subsection if, upon petition by the Secretary, th
 
 #### (2) Secretary may give summoned party certificate
 
-&emsp;The Secretary may issue a certificate to the summoned party that the period prescribed forbeginning a proceeding to quash a summons has expired and that no such proceeding began within such period, or that the taxpayer consents to the examination.
+&emsp;The Secretary may issue a certificate to the summoned party that the period prescribed for beginning a proceeding to quash a summons has expired and that no such proceeding began within such period, or that the taxpayer consents to the examination.
 
 #### (3) Protection for summoned party who discloses
 
@@ -144,11 +144,11 @@ A prior section 7609 was renumbered section 7613 of this title.
 
 #### Amendments
 
-2005—Subsec. (c)(2)(D) to (F). Pub. L. 109–135, §408(a)(1), inserted “or” at end of subpar. (D), substituted period for “; or” at end of subpar. (E), and struck out subpar. (F) which read as follows: “described in subsection (f) or (g).”
+<b>2005</b>—Subsec. (c)(2)(D) to (F). Pub. L. 109–135, §408(a)(1), inserted “or” at end of subpar. (D), substituted period for “; or” at end of subpar. (E), and struck out subpar. (F) which read as follows: “described in subsection (f) or (g).”
 
 Subsec. (c)(3), (4). Pub. L. 109–135, §408(a)(2), added par. (3) and redesignated former par. (3) as (4).
 
-1998—Subsec. (a)(1). Pub. L. 105–206, §3415(a), reenacted heading without change and in text substituted “If any summons to which this section applies requires the giving of testimony on or relating to, the production of any portion of records made or kept on or relating to, or the production of any computer software source code (as defined in 7612(d)(2)) with respect to, any person (other than the person summoned) who is identified in the summons, then” for “If—
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–206, §3415(a), reenacted heading without change and in text substituted “If any summons to which this section applies requires the giving of testimony on or relating to, the production of any portion of records made or kept on or relating to, or the production of any computer software source code (as defined in 7612(d)(2)) with respect to, any person (other than the person summoned) who is identified in the summons, then” for “If—
 
 &emsp;“(A) any summons described in subsection (c) is served on any person who is a third-party recordkeeper, and
 
@@ -206,9 +206,9 @@ Subsec. (i)(3). Pub. L. 105–206, §3415(c)(6)(D), substituted “summoned part
 
 Subsec. (j). Pub. L. 105–206, §3415(b), added subsec. (j).
 
-1996—Subsec. (a)(3)(I). Pub. L. 104–168 added subpar. (I).
+<b>1996</b>—Subsec. (a)(3)(I). Pub. L. 104–168 added subpar. (I).
 
-1988—Subsec. (c)(1). Pub. L. 100–647, §1017(c)(12), made technical correction to language of Pub. L. 99–514, §1703(e)(2)(G), see 1986 Amendment note below.
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–647, §1017(c)(12), made technical correction to language of Pub. L. 99–514, §1703(e)(2)(G), see 1986 Amendment note below.
 
 Pub. L. 100–647, §1017(c)(9), substituted “6421(g)(2)” for “6421(f)(2)”.
 
@@ -218,7 +218,7 @@ Subsec. (i). Pub. L. 100–647, §1015(<i>l</i>)(2)(B), inserted “and summoned
 
 Subsec. (i)(4). Pub. L. 100–647, §1015(<i>l</i>)(2)(A), substituted “the summoned party” for “the third-party recordkeeper”.
 
-1986—Subsec. (a)(3)(H). Pub. L. 99–514, §656(a), added subpar. (H).
+<b>1986</b>—Subsec. (a)(3)(H). Pub. L. 99–514, §656(a), added subpar. (H).
 
 Subsec. (c)(1). Pub. L. 99–514, §1703(e)(2)(G), as amended by Pub. L. 100–647, §1017(c)(12), substituted “6427(j)(2)” for “6427(i)(2)”.
 
@@ -226,19 +226,19 @@ Subsec. (e). Pub. L. 99–514, §1561(a), amended subsec. (e) generally, designa
 
 Subsec. (i)(4). Pub. L. 99–514, §1561(b), added par. (4).
 
-1984—Subsec. (c)(1). Pub. L. 98–369, §714(i), substituted “7602(a)” for “7602”.
+<b>1984</b>—Subsec. (c)(1). Pub. L. 98–369, §714(i), substituted “7602(a)” for “7602”.
 
 Pub. L. 98–369, §911(d)(2)(G), substituted “6427(i)(2)” for “6427(h)(2)”.
 
 Subsec. (h)(3). Pub. L. 98–620 struck out par. (3) which had provided that except as to cases the court considered to be of greater importance, proceedings brought for the enforcement of any summons, or proceedings under this section, and appeals, would take precedence on the docket over all other cases and would be assigned for hearing and decided at the earliest practicable date.
 
-1983—Subsec. (c)(1). Pub. L. 97–424 struck out “6424(d)(2),” after “6421(f)(2),”.
+<b>1983</b>—Subsec. (c)(1). Pub. L. 97–424 struck out “6424(d)(2),” after “6421(f)(2),”.
 
-1982—Subsec. (a)(1). Pub. L. 97–248, §331(d)(1), substituted “the 23rd day” for “the 14th day”, and substituted “an explanation of the right under subsection (b)(2) to bring a proceeding to quash the summons” for “directions for staying compliance with the summons under subsection (b)(2)” at the end.
+<b>1982</b>—Subsec. (a)(1). Pub. L. 97–248, §331(d)(1), substituted “the 23rd day” for “the 14th day”, and substituted “an explanation of the right under subsection (b)(2) to bring a proceeding to quash the summons” for “directions for staying compliance with the summons under subsection (b)(2)” at the end.
 
 Subsec. (a)(3)(G). Pub. L. 97–248, §311(b), added subpar. (G).
 
-Subsec. (b). Pub. L. 97–248, §331(a), (d)(2), substituted “right to proceeding to quash” for “right to stay compliance” in heading, and in par. (2) substituted “Proceeding to quash” for “Right to stay compliance” as par. (2) heading, designated former undesignated matter as subpar. (A), in (A) as so designated substituted provisions giving persons entitled to notice 20 days to begin a proceeding to quash, for provisions giving persons entitled to notice the right to stay compliance if they complied with the provisions of former subpars. (A) and (B) within 14 days, and inserted provision that the Secretary may seek to compel compliance with the summons, struck out former subpar. (A) which provided that notice to the person summoned not to comply with the summons be given in writing, in subpar. (B) substituted provisions that copies of the petition in the proceeding to quash the summons be mailed within the 20-day period, for provisions that copies of the notice not to comply with the summons be mailed, and added subpar. (C).
+Subsec. (b). Pub. L. 97–248, §331(a), (d)(2), substituted “right to proceeding to quash” for “right to stay compliance” in heading, and in par. (2) substituted “Proceeding to quash” for “Right to stay compliance” as par. (2) heading, designated former undesignated matter as subpar. (A), in (A) as so designated substituted provisions giving persons entitled to notice 20 days to begin a proceeding to quash, for provisions giving persons entitled to notice the right to stay compliance if they complied with the provisions of former subpars. (A) and (B) within 14 days, and inserted provision that the Secretary may seek to compel compliance with thesummons, struck out former subpar. (A) which provided that notice to the person summoned not to comply with the summons be given in writing, in subpar. (B) substituted provisions that copies of the petition in the proceeding to quash the summons be mailed within the 20-day period, for provisions that copies of the notice not to comply with the summons be mailed, and added subpar. (C).
 
 Subsec. (d). Pub. L. 97–248, §331(b), substituted in par. (1) provision that, no examination of records be made before the close of the 23rd day after the notice of summons, for provision that the examination may not be made before the end of the former 14-day period allowed for notice to be given to the person summoned not to comply, and in par. (2) substituted “where a proceeding under subsection (b)(2)(A) was begun within the 20-day period referred to in such subsection and the requirements of subsection (b)(2)(B) have been met,” for “when the requirements of subsection (b)(2) have been met,” and “of the court having jurisdiction of such proceeding or with the consent of the person beginning the proceeding to quash” for “issued by a court of competent jurisdiction authorizing examination of such records or with the consent of the person staying compliance”.
 
@@ -246,9 +246,9 @@ Subsec. (h). Pub. L. 97–248, §331(c), inserted “; etc.” after “court�
 
 Subsec. (i). Pub. L. 97–248, §332(a), added subsec. (i).
 
-1980—Subsec. (c)(1). Pub. L. 96–223 substituted “6427(h)(2)” for “6427(g)(2)”.
+<b>1980</b>—Subsec. (c)(1). Pub. L. 96–223 substituted “6427(h)(2)” for “6427(g)(2)”.
 
-1978—Subsec. (c)(1). Pub. L. 95–600 which purported to substitute “6427(f)(2)” for “6427(e)(2)” was not executed in view of the amendment made by Pub. L. 95–599. See below.
+<b>1978</b>—Subsec. (c)(1). Pub. L. 95–600 which purported to substitute “6427(f)(2)” for “6427(e)(2)” was not executed in view of the amendment made by Pub. L. 95–599. See below.
 
 Pub. L. 95–599 substituted “6427(g)(2)” for “6427(e)(2)”.
 

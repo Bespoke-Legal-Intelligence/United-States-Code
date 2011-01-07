@@ -101,7 +101,7 @@
 
 1968—Pub. L. 90–291, §1(b), Apr. 19, 1968, 82 Stat. 100, added subchapter III consisting of items 8191, 8192, and 8193.
 
-1967—Pub. L. 90–83, §1(59), (66)(B), (67)(B), (70), Sept. 11, 1967, 81 Stat. 211, 212, 213, inserted “; hearings” initem 8124, added item 8143a relating to members of the National Teachers Corps and item 8146a relating to cost-of-living adjustment of compensation, and struck out item 8148 relating to reports.
+1967—Pub. L. 90–83, §1(59), (66)(B), (67)(B), (70), Sept. 11, 1967, 81 Stat. 211, 212, 213, inserted “; hearings” in item 8124, added item 8143a relating to members of the National Teachers Corps and item 8146a relating to cost-of-living adjustment of compensation, and struck out item 8148 relating to reports.
 
 
 ---

@@ -2,7 +2,7 @@
 
 (a)
 
-Security and Safety Assistance.—At the request of a Federal, State, or local government agency responsible for providing law enforcement services, security services, or safety services, the Secretary of Defense may authorize the commander of a military installation or other facility of the Department of Defense or the commander of a specified or unified combatant command to provide assistance for the World Cup Soccer Games, the Goodwill Games, the Olympics, and any other civilian sporting event in support of essential security and safety at such event, but only if the Attorney General certifies that such assistance is necessary to meet essential security and safety needs.
+Security and Safety Assistance.—At the request of a Federal, State, or local government agency responsible for providing law enforcement services, security services, or safety services, the Secretary of Defense may authorize thecommander of a military installation or other facility of the Department of Defense or the commander of a specified or unified combatant command to provide assistance for the World Cup Soccer Games, the Goodwill Games, the Olympics, and any other civilian sporting event in support of essential security and safety at such event, but only if the Attorney General certifies that such assistance is necessary to meet essential security and safety needs.
 
 (b)
 
@@ -74,13 +74,13 @@ Funding for Support of Certain Events.—(1) Amounts for the provision of suppor
 
 #### Amendments
 
-2008—Subsec. (c)(4), (5). Pub. L. 110–181, §372(a)(1), added pars. (4) and (5).
+<b>2008</b>—Subsec. (c)(4), (5). Pub. L. 110–181, §372(a)(1), added pars. (4) and (5).
 
 Subsec. (g). Pub. L. 110–181, §372(a)(2), added subsec. (g).
 
-2000—Pub. L. 106–398 renumbered section 2554 of this title as this section.
+<b>2000</b>—Pub. L. 106–398 renumbered section 2554 of this title as this section.
 
-1997—Pub. L. 105–85, §1073(c)(2)(A), made technical amendment to directory language of Pub. L. 104–201, §367(a), which enacted this section.
+<b>1997</b>—Pub. L. 105–85, §1073(c)(2)(A), made technical amendment to directory language of Pub. L. 104–201, §367(a), which enacted this section.
 
 Subsec. (c)(1). Pub. L. 105–85, §1073(a)(56), substituted “September 23, 1996” for “the date of the enactment of this Act”.
 

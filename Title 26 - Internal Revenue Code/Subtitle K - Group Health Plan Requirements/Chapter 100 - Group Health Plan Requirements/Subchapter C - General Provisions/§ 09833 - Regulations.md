@@ -10,5 +10,5 @@ Section 104 of the Health Care Portability and Accountability Act of 1996, refer
 
 #### Amendments
 
-1997—Pub. L. 105–34 renumbered section 9806 of this title as this section.
+<b>1997</b>—Pub. L. 105–34 renumbered section 9806 of this title as this section.
 

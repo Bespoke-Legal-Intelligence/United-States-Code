@@ -2,21 +2,21 @@
 
 (a) In addition to the other powers, express and implied, the National Institute of Corrections shall have authority—
 
-&emsp;(1) to receive from or make grants to and enter into contracts with Federal, State, and general units of local government, public and private agencies, educational institutions, organizations, and individuals to carry out the purposes of this chapter;
+&emsp;(1) to receive from or make grants to and enter into contracts with Federal, State, tribal, and general units of local government, public and private agencies, educational institutions, organizations, and individuals to carry out the purposes of this chapter;
 
 &emsp;(2) to serve as a clearinghouse and information center for the collection, preparation, and dissemination of information on corrections, including, but not limited to, programs for prevention of crime and recidivism, training of corrections personnel, and rehabilitation and treatment of criminal and juvenile offenders;
 
-&emsp;(3) to assist and serve in a consulting capacity to Federal, State, and local courts, departments, and agencies in the development, maintenance, and coordination of programs, facilities, and services, training, treatment, and rehabilitation with respect to criminal and juvenile offenders;
+&emsp;(3) to assist and serve in a consulting capacity to Federal, State, tribal, and local courts, departments, and agencies in the development, maintenance, and coordination of programs, facilities, and services, training, treatment, and rehabilitation with respect to criminal and juvenile offenders;
 
-&emsp;(4) to encourage and assist Federal, State, and local government programs and services, and programs and services of other public and private agencies, institutions, and organizations in their efforts to develop and implement improved corrections programs;
+&emsp;(4) to encourage and assist Federal, State, tribal, and local government programs and services, and programs and services of other public and private agencies, institutions, and organizations in their efforts to develop and implement improved corrections programs;
 
-&emsp;(5) to devise and conduct, in various geographical locations, seminars, workshops, and training programs for law enforcement officers, judges, and judicial personnel, probation and parole personnel, correctional personnel,welfare workers, and other persons, including lay ex-offenders, and paraprofessional personnel, connected with the treatment and rehabilitation of criminal and juvenile offenders;
+&emsp;(5) to devise and conduct, in various geographical locations, seminars, workshops, and training programs for law enforcement officers, judges, and judicial personnel, probation and parole personnel, correctional personnel, welfare workers, and other persons, including lay ex-offenders, and paraprofessional personnel, connected with the treatment and rehabilitation of criminal and juvenile offenders;
 
-&emsp;(6) to develop technical training teams to aid in the development of seminars, workshops, and training programs within the several States and with the State and local agencies which work with prisoners, parolees, probationers, and other offenders;
+&emsp;(6) to develop technical training teams to aid in the development of seminars, workshops, and training programs within the several States and tribal communities, and with the State, tribal, and local agencies which work with prisoners, parolees, probationers, and other offenders;
 
 &emsp;(7) to conduct, encourage, and coordinate research relating to corrections, including the causes, prevention, diagnosis, and treatment of criminal offenders;
 
-&emsp;(8) to formulate and disseminate correctional policy, goals, standards, and recommendations for Federal, State, and local correctional agencies, organizations, institutions, and personnel;
+&emsp;(8) to formulate and disseminate correctional policy, goals, standards, and recommendations for Federal, State, tribal, and local correctional agencies, organizations, institutions, and personnel;
 
 &emsp;(9) to conduct evaluation programs which study the effectiveness of new approaches, techniques, systems, programs, and devices employed to improve the corrections system;
 
@@ -24,7 +24,7 @@
 
 &emsp;(11) to arrange with and reimburse the heads of Federal departments and agencies for the use of personnel, facilities, or equipment of such departments and agencies;
 
-&emsp;(12) to confer with and avail itself of the assistance, services, records, and facilities of State and local governments or other public or private agencies, organizations, or individuals;
+&emsp;(12) to confer with and avail itself of the assistance, services, records, and facilities of State, tribal, and local governments or other public or private agencies, organizations, or individuals;
 
 &emsp;(13) to enter into contracts with public or private agencies, organizations, or individuals, for the performance of any of the functions of the Institute; and
 
@@ -38,13 +38,21 @@
 
 (e) The provision of this section shall apply to all recipients of assistance under this title, whether by direct grant or contract from the Institute or by subgrant or subcontract from primary grantees or contractors of the Institute.
 
-(Added Pub. L. 93–415, title V, §521, Sept. 7, 1974, 88 Stat. 1140; amended Pub. L. 97–375, title I, §109(a), Dec. 21, 1982, 96 Stat. 1820; Pub. L. 101–647, title XXXV, §3599F, Nov. 29, 1990, 104 Stat. 4932.)
+(Added Pub. L. 93–415, title V, §521, Sept. 7, 1974, 88 Stat. 1140; amended Pub. L. 97–375, title I, §109(a), Dec. 21, 1982, 96 Stat. 1820; Pub. L. 101–647, title XXXV, §3599F, Nov. 29, 1990, 104 Stat. 4932; Pub. L. 111–211, title II, §261(b), July 29, 2010, 124 Stat. 2299.)
 
 #### Amendments
 
-1990—Subsec. (c). Pub. L. 101–647 substituted “this chapter shall” for “this shall”.
+<b>2010</b>—Subsec. (a)(1), (3), (4). Pub. L. 111–211, §261(b)(1), inserted “tribal,” after “State,”.
 
-1982—Subsec. (b). Pub. L. 97–375 struck out subsec. (b) which directed the Institute to submit an annual report to the President and Congress, including a comprehensive and detailed report of the Institute's operations, activities, financial condition and accomplishments under this title, and which might include such recommendations related to corrections as the Institute deemed appropriate.
+Subsec. (a)(6). Pub. L. 111–211, §261(b)(2), inserted “and tribal communities,” after “States” and “, tribal,” after “State”.
+
+Subsec. (a)(8). Pub. L. 111–211, §261(b)(1), inserted “tribal,” after “State,”.
+
+Subsec. (a)(12). Pub. L. 111–211, §261(b)(3), inserted “, tribal,” after “State”.
+
+<b>1990</b>—Subsec. (c). Pub. L. 101–647 substituted “this chapter shall” for “this shall”.
+
+<b>1982</b>—Subsec. (b). Pub. L. 97–375 struck out subsec. (b) which directed the Institute to submit an annual report to the President and Congress, including a comprehensive and detailed report of the Institute's operations, activities, financial condition and accomplishments under this title, and which might include such recommendations related to corrections as the Institute deemed appropriate.
 
 #### Inclusion of National Institute of Corrections in Federal Prison System Salaries and Expenses Budget
 

@@ -6,5 +6,5 @@ Any person who buys, sells, offers for sale, uses, transfers, takes or gives in 
 
 #### Amendments
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 

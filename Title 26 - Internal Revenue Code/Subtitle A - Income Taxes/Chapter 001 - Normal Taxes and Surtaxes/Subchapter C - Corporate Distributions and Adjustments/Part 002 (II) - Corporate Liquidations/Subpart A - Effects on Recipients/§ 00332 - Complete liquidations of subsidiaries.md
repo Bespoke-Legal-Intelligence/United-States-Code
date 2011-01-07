@@ -10,7 +10,7 @@ For purposes of this section, a distribution shall be considered to be in comple
 
 &emsp;(1) the corporation receiving such property was, on the date of the adoption of the plan of liquidation, and has continued to be at all times until the receipt of the property, the owner of stock (in such other corporation) meeting the requirements of section 1504(a)(2); and either
 
-&emsp;(2) the distribution is by such other corporation in complete cancellation or redemption ofall its stock, and the transfer of all the property occurs within the taxable year; in such case the adoption by the shareholders of the resolution under which is authorized the distribution of all the assets of such corporation in complete cancellation or redemption of all its stock shall be considered an adoption of a plan of liquidation, even though no time for the completion of the transfer of the property is specified in such resolution; or
+&emsp;(2) the distribution is by such other corporation in complete cancellation or redemption of all its stock, and the transfer of all the property occurs within the taxable year; in such case the adoption by the shareholders of the resolution under which is authorized the distribution of all the assets of such corporation in complete cancellation or redemption of all its stock shall be considered an adoption of a plan of liquidation, even though no time for the completion of the transfer of the property is specified in such resolution; or
 
 &emsp;(3) such distribution is one of a series of distributions by such other corporation in complete cancellation or redemption of all its stock in accordance with a plan of liquidation under which the transfer of all the property under the liquidation is to be completed within 3 years from the close of the taxable year during which is made the first of the series of distributions under the plan, except that if such transfer is not completed within such period, or if the taxpayer does not continue qualified under paragraph (1) until the completion of such transfer, no distribution under the plan shall be considered a distribution in complete liquidation.
 
@@ -62,19 +62,19 @@ If a corporation receives a distribution from a regulated investment company or 
 
 #### Amendments
 
-2005—Subsec. (d)(1)(B). Pub. L. 109–135 substituted “distribution of property to which section 301 applies” for “distribution to which section 301 applies”.
+<b>2005</b>—Subsec. (d)(1)(B). Pub. L. 109–135 substituted “distribution of property to which section 301 applies” for “distribution to which section 301 applies”.
 
-2004—Subsec. (d). Pub. L. 108–357 added subsec. (d).
+<b>2004</b>—Subsec. (d). Pub. L. 108–357 added subsec. (d).
 
-1998—Subsec. (b). Pub. L. 105–277, §3001(b)(1), substituted “this section” for “subsection (a)” in introductory provisions.
+<b>1998</b>—Subsec. (b). Pub. L. 105–277, §3001(b)(1), substituted “this section” for “subsection (a)” in introductory provisions.
 
 Subsec. (c). Pub. L. 105–277, §3001(a), added subsec. (c).
 
-1986—Subsec. (b)(1). Pub. L. 99–514, §1804(e)(6)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the corporation receiving such property was, on the date of the adoption of the plan of liquidation, and has continued to be at all times until the receipt of the property, the owner of stock (in such other corporation) possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote and the owner of at least 80 percent of the total number of shares of all other classes of stock (except nonvoting stock which is limited and preferred as to dividends); and either”.
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–514, §1804(e)(6)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the corporation receiving such property was, on the date of the adoption of the plan of liquidation, and has continued to be at all times until the receipt of the property, the owner of stock (in such other corporation) possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote and the owner of at least 80 percent of the total number of shares of all other classes of stock (except nonvoting stock which is limited and preferred as to dividends); and either”.
 
 Subsec. (c). Pub. L. 99–514, §631(e)(2), struck out subsec. (c) containing special rule for indebtedness of subsidiary to parent in relation to complete liquidations of subsidiaries.
 
-1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 2004 Amendment
 

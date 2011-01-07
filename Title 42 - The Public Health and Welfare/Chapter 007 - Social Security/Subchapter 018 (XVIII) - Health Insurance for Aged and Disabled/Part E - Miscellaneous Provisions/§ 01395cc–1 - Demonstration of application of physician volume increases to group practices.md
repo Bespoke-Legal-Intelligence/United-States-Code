@@ -6,7 +6,7 @@
 
 &emsp;The Secretary shall conduct demonstration projects to test and, if proven effective, expand the use of incentives to health care groups participating in the program under this subchapter that—
 
-&emsp;&emsp;(A) encourage coordination of the care furnished to individuals under the programsunder parts A and B of this subchapter by institutional and other providers, practitioners, and suppliers of health care items and services;
+&emsp;&emsp;(A) encourage coordination of the care furnished to individuals under the programs under parts A and B of this subchapter by institutional and other providers, practitioners, and suppliers of health care items and services;
 
 &emsp;&emsp;(B) encourage investment in administrative structures and processes to ensure efficient service delivery; and
 
@@ -78,7 +78,7 @@
 
 #### (3) Additional bonus for process and outcome improvements
 
-&emsp;At such time as the Secretary has established appropriate criteria based on evidence the Secretary determines to be sufficient, the Secretary shall also pay to a participating health care group (subject to paragraph (4)) an additional bonus for a year, equal to such portion as the Secretary may designate of thesaving to the program under this subchapter resulting from process improvements made by and patient outcome improvements attributable to activities of the group.
+&emsp;At such time as the Secretary has established appropriate criteria based on evidence the Secretary determines to be sufficient, the Secretary shall also pay to a participating health care group (subject to paragraph (4)) an additional bonus for a year, equal to such portion as the Secretary may designate of the saving to the program under this subchapter resulting from process improvements made by and patient outcome improvements attributable to activities of the group.
 
 #### (4) Limitation
 

@@ -72,7 +72,7 @@ Field.—The term “field” means a part of a farm that is separated from the 
 
 &emsp;(11)(A) The term “highly erodible land” means land—
 
-&emsp;&emsp;(i) that is classified by the Soil Conservation Service as class IV, VI, VII, or VIII landunder the land capability classification system in effect on December 23, 1985; or
+&emsp;&emsp;(i) that is classified by the Soil Conservation Service as class IV, VI, VII, or VIII land under the land capability classification system in effect on December 23, 1985; or
 
 &emsp;&emsp;(ii) that has, or that if used to produce an agricultural commodity, would have an excessive average annual rate of erosion in relation to the soil loss tolerance level, as established by the Secretary, and as determined by the Secretary through application of factors from the universal soil loss equation and the wind erosion equation, including factors for climate, soil erodibility, and field slope.
 
@@ -158,7 +158,7 @@ Technical assistance.—The term “technical assistance” means technical expe
 
 &emsp;(2) lists of such soils and such vegetation.
 
-(Pub. L. 99–198, title XII, §1201, Dec. 23, 1985, 99 Stat. 1504; Pub. L. 99–349, title I, July 2, 1986, 100Stat. 714; Pub. L. 101–624, title XIV, §1421(a), Nov. 28, 1990, 104 Stat. 3572; Pub. L. 104–127, title III, §301(a)–(c), Apr. 4, 1996, 110 Stat. 980, 981; Pub. L. 110–234, title II, §2001, May 22, 2008, 122 Stat. 1025; Pub. L. 110–246, §4(a), title II, §2001, June 18, 2008, 122 Stat. 1664, 1753.)
+(Pub. L. 99–198, title XII, §1201, Dec. 23, 1985, 99 Stat. 1504; Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 714; Pub. L. 101–624, title XIV, §1421(a), Nov. 28, 1990, 104 Stat. 3572; Pub. L. 104–127, title III, §301(a)–(c), Apr. 4, 1996, 110 Stat. 980, 981; Pub. L. 110–234, title II, §2001, May 22, 2008, 122 Stat. 1025; Pub. L. 110–246, §4(a), title II, §2001, June 18, 2008, 122 Stat. 1664, 1753.)
 
 #### References in Text
 
@@ -174,9 +174,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a)(2) to (27). Pub. L. 110–246, §2001, added pars. (2), (8), (14), (16) to (19), (23), and (25) and redesignated former pars. (2) to (18) as (3) to (7), (9) to (13), (15), (20) to (22), (24), (26), and (27), respectively.
+<b>2008</b>—Subsec. (a)(2) to (27). Pub. L. 110–246, §2001, added pars. (2), (8), (14), (16) to (19), (23), and (25) and redesignated former pars. (2) to (18) as (3) to (7), (9) to (13), (15), (20) to (22), (24), (26), and (27), respectively.
 
-1996—Subsec. (a)(2) to (6). Pub. L. 104–127, §301(a), added pars. (2) and (3) and redesignated former pars. (2) to (4) as (4) to (6), respectively. Former pars. (5) and (6) redesignated (7) and (8), respectively.
+<b>1996</b>—Subsec. (a)(2) to (6). Pub. L. 104–127, §301(a), added pars. (2) and (3) and redesignated former pars. (2) to (4) as (4) to (6), respectively. Former pars. (5) and (6) redesignated (7) and (8), respectively.
 
 Subsec. (a)(7). Pub. L. 104–127, §301(b), added par. (7) and struck out former par. (7) which read as follows: “The term ‘field’ means such term as is defined in section 718.2(b)(9) of title 7 of the Code of Federal Regulations (as of January 1, 1985), except that any highly erodible land on which an agricultural commodity is produced after December 23, 1985, and that is not exempt under section 3812 of this title shall be considered as part of the field in which such land was included on December 23, 1985, unless the Secretary permits modification of the boundaries of the field to carry out subchapters I through V of this chapter.”
 
@@ -190,13 +190,13 @@ Subsec. (a)(9)(C). Pub. L. 104–127, §301(c), added subpar. (C).
 
 Subsec. (a)(10) to (18). Pub. L. 104–127, §301(a)(1), redesignated pars. (8) to (16) as (10) to (18), respectively.
 
-1990—Subsec. (a)(16). Pub. L. 101–624 substituted introductory provisions and subpars. (A) to (C) for “The term ‘wetland’, except when such term is part of the term ‘converted wetland’, means land that has a predominance of hydric soils and that is inundated or saturated by surface or groundwater at a frequency and duration sufficient to support, and that under normal circumstances does support, a prevalence of hydrophytic vegetation typically adapted for life in saturated soil conditions.”
+<b>1990</b>—Subsec. (a)(16). Pub. L. 101–624 substituted introductory provisions and subpars. (A) to (C) for “The term ‘wetland’, except when such term is part of the term ‘converted wetland’, means land that has a predominance of hydric soils and that is inundated or saturated by surface or groundwater at a frequency and duration sufficient to support, and that under normal circumstances does support, a prevalence of hydrophytic vegetation typically adapted for life in saturated soil conditions.”
 
-1986—Subsec. (a)(16). Pub. L. 99–349 inserted provision that for purposes of this Act, and any other Act, the term “wetland” shall not include lands in Alaska identified as having high potential for agricultural development which have a predominance of permafrost soils.
+<b>1986</b>—Subsec. (a)(16). Pub. L. 99–349 inserted provision that for purposes of this Act, and any other Act, the term “wetland” shall not include lands in Alaska identified as having high potential for agricultural development which have a predominance of permafrost soils.
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Short Title of 2006 Amendment
 
@@ -246,7 +246,7 @@ Applicable Authority.—The promulgation of regulations under subsection (a) and
 
 Congressional Review of Agency Rulemaking.—In carrying out this section, the Secretary shall use the authority provided under section 808(2) of title 5, United States Code.”
 
-\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a)of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 Pub. L. 107–171, title II, §2702, May 13, 2002, 116 Stat. 279, provided that:
 

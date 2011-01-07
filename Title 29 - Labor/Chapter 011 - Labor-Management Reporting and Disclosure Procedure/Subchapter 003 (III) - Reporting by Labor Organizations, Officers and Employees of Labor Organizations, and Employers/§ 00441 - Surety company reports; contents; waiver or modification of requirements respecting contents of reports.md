@@ -10,7 +10,7 @@ The Employee Retirement Income Security Act of 1974, referred to in text, is Pub
 
 #### Amendments
 
-1974—Pub. L. 93–406 substituted “Employee Retirement Income Security Act of 1974” for “Welfare and Pension Plans Disclosure Act”.
+<b>1974</b>—Pub. L. 93–406 substituted “Employee Retirement Income Security Act of 1974” for “Welfare and Pension Plans Disclosure Act”.
 
 #### Effective Date of 1974 Amendment
 

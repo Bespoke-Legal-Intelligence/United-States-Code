@@ -30,15 +30,15 @@
 
 #### Amendments
 
-2002—Subsecs. (a)(1), (2)(B), (b), (e). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsecs. (a)(1), (2)(B), (b), (e). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1986—Subsec. (a)(1). Pub. L. 99–661, §1343(a)(19)(A), substituted “(as determined under regulations prescribed by the Secretary of Defense or the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy) the” for “it is determined, under regulations prescribed by the Secretary of Defense and the Secretary of Transportation when the Coast Guard is not operating as a service in the Navy, that the”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–661, §1343(a)(19)(A), substituted “(as determined under regulations prescribed by the Secretary of Defense or the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy) the” for “it is determined, under regulations prescribed by the Secretary of Defense and the Secretary of Transportation when the Coast Guard is not operating as a service in the Navy, that the”.
 
 Subsec. (b). Pub. L. 99–661, §1343(a)(19)(B), inserted a comma after “Secretary of Defense”, substituted “with respect to the Coast Guard when it” for “when the Coast Guard”, and inserted a comma after “Navy”.
 
 Subsec. (e). Pub. L. 99–661, §1343(a)(19)(C), substituted “with respect to the Coast Guard when it” for “when the Coast Guard”.
 
-1985—Pub. L. 99–167, §802(d)(1), substituted “assigned to military housing” for “for damage to housing and related equipment and furnishings” in section catchline.
+<b>1985</b>—Pub. L. 99–167, §802(d)(1), substituted “assigned to military housing” for “for damage to housing and related equipment and furnishings” in section catchline.
 
 Subsec. (a). Pub. L. 99–167, §802(a), (b)(1), designated existing provisions as par. (1), and in par. (1) as so designated, inserted “and the Secretary of Transportation when the Coast Guard is not operating as a service in the Navy”, and added par. (2).
 
@@ -50,7 +50,7 @@ Subsec. (d). Pub. L. 99–167, §802(b)(2), (c)(3), inserted “or failure to cl
 
 Subsec. (e). Pub. L. 99–167, §802(c)(4), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary of Defense shall prescribe regulations to carry out the provisions of this section, including (1) regulations for determining the cost of repairs and replacements made necessary as the result of abuse or negligence referred to in subsection (a), and (2) regulations providing for limitations of liability, the compromise or waiver of claims, and the collection of amounts owed under this section.”
 
-1984—Pub. L. 98–407 substituted “Liability of members for damage to housing and related equipment and furnishings” for “Liability of member for damages to family housing, equipment, and furnishings” in section catchline.
+<b>1984</b>—Pub. L. 98–407 substituted “Liability of members for damage to housing and related equipment and furnishings” for “Liability of member for damages to family housing, equipment, and furnishings” in section catchline.
 
 Subsec. (a). Pub. L. 98–407 amended subsec. (a) generally, inserting references to unaccompanied personnel housing units, and expanding liability of members of the Armed Forces to include damages caused by the abuse or negligence of a guest of the member or of a dependent of the member.
 
@@ -62,7 +62,7 @@ Subsec. (d). Pub. L. 98–407 redesignated former subsec. (c) as (d) and substit
 
 Subsec. (e). Pub. L. 98–407 redesignated former subsec. (d) as (e)(1), substituted reference to abuse or negligence referred to in subsec. (a) for reference to abuse or negligence on the part of a member or dependent of a member, and added par. (2).
 
-1982—Subsec. (c). Pub. L. 97–214, §10(a)(6), substituted “Military Family Housing Management Account provided for in section 2831 of this title” for “family housing management account established under section 501 of Public Law 87–554 (76 Stat. 236; 42 U.S.C. 1594a–1)”.
+<b>1982</b>—Subsec. (c). Pub. L. 97–214, §10(a)(6), substituted “Military Family Housing Management Account provided for in section 2831 of this title” for “family housing management account established under section 501 of Public Law 87–554 (76 Stat. 236; 42 U.S.C. 1594a–1)”.
 
 #### Effective Date of 2002 Amendment
 

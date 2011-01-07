@@ -92,7 +92,7 @@
 
 > The chairman of the special panel may be removed by the President only for inefficiency, neglect of duty, or malfeasance in office.
 
-(B) The chairman is entitled to pay at a rate equal to the maximum annual rate of basic pay payable under the General Schedule for each day he is engaged in the performance of official business on the work of the special panel.
+(B) The chairman is entitled to pay at a rate equal to the maximum annual rate of basic paypayable under the General Schedule for each day he is engaged in the performance of official business on the work of the special panel.
 
 (C) The Board and the Commission shall provide such administrative assistance to the special panel as may be necessary and, to the extent practicable, shall equally divide the costs of providing the administrative assistance.
 
@@ -113,10 +113,6 @@
 (f) In any case in which an employee is required to file any action, appeal, or petition under this section and the employee timely files the action, appeal, or petition with an agency other than the agency with which the action, appeal, or petition is to be filed, the employee shall be treated as having timely filed the action, appeal, or petition as of the date it is filed with the proper agency.
 
 (Added Pub. L. 95–454, title II, §205, Oct. 13, 1978, 92 Stat. 1140; amended Pub. L. 96–54, §2(a)(46), Aug. 14, 1979, 93 Stat. 384.)
-
-#### References in Text
-
-The civil service law, referred to in subsec. (c)(2), is set out in this title. See, particularly, section 3301 et seq. of this title. The General Schedule, referred to in subsec. (d)(6)(B), is set out under section 5332 of this title.
 
 #### Amendments
 

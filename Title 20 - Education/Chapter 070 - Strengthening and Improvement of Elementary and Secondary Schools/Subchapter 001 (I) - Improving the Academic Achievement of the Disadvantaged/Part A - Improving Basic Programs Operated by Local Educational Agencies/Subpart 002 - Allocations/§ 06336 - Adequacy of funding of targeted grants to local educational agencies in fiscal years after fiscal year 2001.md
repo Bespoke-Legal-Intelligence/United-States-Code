@@ -30,7 +30,7 @@ Pursuant to section 6332 of this title, the total amount allocated in any fiscal
 
 #### References in Text
 
-The Improving America's Schools Act of 1994, referred to in subsec. (a)(5), is Pub. L. 103–382, Oct. 20, 1994, 108 Stat. 3518, as amended. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 6301 of this title and Tables.
+The Improving America's Schools Act of 1994, referred to in subsec. (a)(5), is Pub. L. 103–382, Oct. 20,1994, 108 Stat. 3518, as amended. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 6301 of this title and Tables.
 
 #### Prior Provisions
 

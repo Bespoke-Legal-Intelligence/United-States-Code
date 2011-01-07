@@ -78,7 +78,7 @@ Not later than 180 days after March 30, 2009, the Secretary shall establish a pr
 
 #### (v) Exception
 
-&emsp;&emsp;&emsp;A watershed group that has not applied for or received first-phase grants may apply for and receive second-phase grantsunder subparagraph (B) if the Secretary determines that the group has satisfied the requirements of first-phase grants.
+&emsp;&emsp;&emsp;A watershed group that has not applied for or received first-phase grants may apply for and receive second-phase grants under subparagraph (B) if the Secretary determines that the group has satisfied the requirements of first-phase grants.
 
 #### (B) Second phase
 
@@ -180,7 +180,7 @@ Not later than 180 days after March 30, 2009, the Secretary shall establish a pr
 
 #### (1) In general
 
-&emsp;Not later than 1 year after the date on which a grant recipient first receives funds underthis section, and annually thereafter, in accordance with paragraph (2), the watershed group shall submit to the Secretary a report that describes the progress of the watershed group.
+&emsp;Not later than 1 year after the date on which a grant recipient first receives funds under this section, and annually thereafter, in accordance with paragraph (2), the watershed group shall submit to the Secretary a report that describes the progress of the watershed group.
 
 #### (2) Required degree of detail
 

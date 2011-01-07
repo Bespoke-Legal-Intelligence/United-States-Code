@@ -2,7 +2,7 @@
 
 #### (a) Submission to Congress of property transfer document
 
-Any provision of law relating to the transfer and disposal of Federal property to the contrary notwithstanding, the Secretary, after consultation with the Secretary of the department in which the Coast Guard is operating, is authorized to bargain, grant, sell or otherwise convey, on such terms as he deems to be in the best interests of the United States and in furtherance of the purposes of this chapter, any and all right, title, and interest of the United States in and to the property, both real and personal, held by the Secretary on the Pribilof Islands: <i>Provided</i>, That such property is specified in a document entitled “Transfer of Property on the Pribilof Islands: Descriptions, Terms and Conditions,” which is submitted to the Congress on or before October 31, 1983.
+Any provision of law relating to the transfer and disposal of Federal property to the contrary notwithstanding, the Secretary, after consultation with the Secretary of the department in which the Coast Guard is operating, is authorized to bargain, grant, sell or otherwise convey, on such terms as he deems to be in the best interests of the United States and in furtherance of the purposes of this chapter, any and all right, title, and interest of the United States inand to the property, both real and personal, held by the Secretary on the Pribilof Islands: <i>Provided</i>, That such property is specified in a document entitled “Transfer of Property on the Pribilof Islands: Descriptions, Terms and Conditions,” which is submitted to the Congress on or before October 31, 1983.
 
 #### (b) Contents of property transfer document
 
@@ -42,7 +42,7 @@ A Memorandum of Understanding shall be entered into by the Secretary, a represen
 
 &emsp;(5) continued activities relating to the implementation of the Convention;
 
-&emsp;(6) oversight of the operation of the Trust established by section 1166(a) <sup>1</sup> of this title to further progress toward creation of a stable, diversified, and enduring economy not dependent up commercial fur sealing;
+&emsp;(6) oversight of the operation of the Trust established by section 1166(a) <sup>1</sup> of this title to further progress toward creation of a stable, diversified, and enduring economy not dependent on commercial fur sealing;
 
 &emsp;(7) the cooperation of government agencies, rendered through existing programs, in assisting with an orderly transition from Federal management and the creation of a private enterprise economy on the Pribilof Islands as described in this chapter; and
 
@@ -68,17 +68,17 @@ In carrying out the purposes of this chapter, the Secretary is authorized to ent
 
 #### References in Text
 
-December 23, 2000, referred to in subsec. (c), was in the original “the date of the enactment of the Pribilof Islands Transition Act” which was translated as referring to the date of enactment of title I of Pub. L. 106–562. Section 1(a)(4) \[div. B, title I, §144(e)\] of Pub. L. 106–554, which was approved Dec. 21, 2000, is also known as the “Pribilof Islands Transition Act”. See Short Title of 2000 Amendments notes under section 1151 of this title.
+December 23, 2000, referred to in subsec. (c), was in the original “the date of the enactment of the PribilofIslands Transition Act” which was translated as referring to the date of enactment of title I of Pub. L. 106–562. Section 1(a)(4) \[div. B, title I, §144(e)\] of Pub. L. 106–554, which was approved Dec. 21, 2000, is also known as the “Pribilof Islands Transition Act”. See Short Title of 2000 Amendments notes under section 1151 of this title.
 
 Section 1166(a) of this title, referred to in subsec. (d)(6), was amended generally by Pub. L. 106–554 and Pub. L. 106–562, and, as so amended, no longer contains provisions relating to establishment of a Trust.
 
 #### Amendments
 
-2000—Subsec. (c). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(4)(A)\], and Pub. L. 106–562, §104(1), generally amended subsec. (c) identically, substituting present provisions for provisions which read as follows: “Within 60 days of the transfer of real or personal property specified in the document described in subsection (a) of this section, the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate shall be given a report prepared by the Secretary stating the fair market value at the time of the transfer of all real and personal property conveyed.”
+<b>2000</b>—Subsec. (c). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(4)(A)\], and Pub. L. 106–562, §104(1), generally amended subsec. (c) identically, substituting present provisions for provisions which read as follows: “Within 60 days of the transfer of real or personal property specified in the document described in subsection (a) of this section, the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate shall be given a report prepared by the Secretary stating the fair market value at the time of the transfer of all real and personal property conveyed.”
 
 Subsec. (g). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(4)(B)\], and Pub. L. 106–562, §104(2), struck out subsec. (g) which read as follows: “The Secretary shall submit to Congress a report, no later than October 1, 1983, providing information on the status of the negotiations for concluding the documents described in subsections (a) and (d) of this section.”
 
-1983—Pub. L. 98–129 amended section generally, substituting provisions relating to the disposal of Federal property on the Pribilof Islands for provisions relating to the medical and dental care of Pribilof Islands natives. See section 1164 of this title.
+<b>1983</b>—Pub. L. 98–129 amended section generally, substituting provisions relating to the disposal of Federal property on the Pribilof Islands for provisions relating to the medical and dental care of Pribilof Islands natives. See section 1164 of this title.
 
 #### Change of Name
 
@@ -90,7 +90,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Pribilof Islands Environmental Cleanup
 
-Pub. L. 104–91, §3, Jan. 6, 1996, 110 Stat. 8, as amended by Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(5)(A)(iv), (6)(A), (7)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–246, 2763A–248; Pub. L. 106–562, title I, §§105(a)(4), 106(a), 107, Dec. 23, 2000, 114 Stat. 2797, 2799; Pub. L.108–447, div. B, title II, §212, Dec. 8, 2004, 118 Stat. 2884, provided that:
+Pub. L. 104–91, §3, Jan. 6, 1996, 110 Stat. 8, as amended by Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(5)(A)(iv), (6)(A), (7)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–246, 2763A–248; Pub. L. 106–562, title I, §§105(a)(4), 106(a), 107, Dec. 23, 2000, 114 Stat. 2797, 2799; Pub. L. 108–447, div. B, title II, §212, Dec. 8, 2004, 118 Stat. 2884, provided that:
 
 “(a)
 
@@ -154,7 +154,7 @@ Low-interest loans.—The Secretary shall require that any revolving fund establ
 
 &emsp;“(3)
 
-Natives of the pribilof islands defined.—The definitions set forth in section 101 of the Fur Seal Act of 1966 (16 U.S.C. 1151) shall apply to this section, except that the term ‘Natives of the Pribilof Islands’ includes the Tanadgusix and Tanaq Corporations.
+Natives of the pribilof islands defined.—The definitions set forth in section 101 of the FurSeal Act of 1966 (16 U.S.C. 1151) shall apply to this section, except that the term ‘Natives of the Pribilof Islands’ includes the Tanadgusix and Tanaq Corporations.
 
 &emsp;“(4)
 

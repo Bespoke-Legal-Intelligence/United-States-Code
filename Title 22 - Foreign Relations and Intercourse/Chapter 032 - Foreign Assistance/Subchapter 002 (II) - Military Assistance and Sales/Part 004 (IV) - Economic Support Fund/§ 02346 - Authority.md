@@ -36,9 +36,9 @@ A prior section 2346, Pub. L. 87–195, pt. II, §531, as added Pub. L. 92–226
 
 #### Amendments
 
-1998—Subsec. (d). Pub. L. 105–277 struck out subsec. (d) which read as follows: “To the maximum extent feasible, funds made available pursuant to this part for commodity import programs or other program assistance shall be used to generate local currencies, not less than 50 percent of which shall be available to support activities consistent with the objectives of sections 2151a through 2151d of this title, and administered by the agency primarily responsible for administering subchapter I of this chapter.”
+<b>1998</b>—Subsec. (d). Pub. L. 105–277 struck out subsec. (d) which read as follows: “To the maximum extent feasible, funds made available pursuant to this part for commodity import programs or other program assistance shall be used to generate local currencies, not less than 50 percent of which shall be available to support activities consistent with the objectives of sections 2151a through 2151d of this title, and administered by the agency primarily responsible for administering subchapter I of this chapter.”
 
-1990—Subsec. (a). Pub. L. 101–513 inserted “or, in the case of countries in sub-Saharan Africa, part X of subchapter I of this chapter” after “part I of subchapter I of this chapter”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–513 inserted “or, in the case of countries in sub-Saharan Africa, part X of subchapter I of this chapter” after “part I of subchapter I of this chapter”.
 
 #### Effective Date
 

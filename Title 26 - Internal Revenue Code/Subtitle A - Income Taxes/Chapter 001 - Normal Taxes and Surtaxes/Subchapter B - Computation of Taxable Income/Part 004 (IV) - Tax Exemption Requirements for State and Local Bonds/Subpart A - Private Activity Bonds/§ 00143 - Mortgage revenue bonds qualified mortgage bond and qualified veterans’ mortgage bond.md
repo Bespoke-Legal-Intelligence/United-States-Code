@@ -80,7 +80,7 @@ For purposes of this part, the term “qualified veterans’ mortgage bond” me
 
 #### (2) For an issue
 
-&emsp;An issue meets the requirements of this subsection only if all of the residences for which owner-financing is provided under the issue meet the requirements of paragraph (1).
+&emsp;An issue meets the requirements of this subsection only if all of the residences for whichowner-financing is provided under the issue meet the requirements of paragraph (1).
 
 #### (d) 3-year requirement
 
@@ -981,7 +981,7 @@ Provisions similar to this section were contained in section 103A of this title 
 
 #### Amendments
 
-2008—Subsec. (d)(2)(D). Pub. L. 110–245, §103(a), struck out “and before January 1, 2008” after “enactment of this subparagraph”.
+<b>2008</b>—Subsec. (d)(2)(D). Pub. L. 110–245, §103(a), struck out “and before January 1, 2008” after “enactment of this subparagraph”.
 
 Subsec. (k)(11). Pub. L. 110–289, §3026(a), substituted “May 1, 2008” for “December 31, 1996” and “January 1, 2010” for “January 1, 1999” in concluding provisions.
 
@@ -993,7 +993,7 @@ Subsec. (<i>l</i>)(3)(B)(ii). Pub. L. 110–245, §103(b), substituted “$100,0
 
 Subsec. (<i>l</i>)(4). Pub. L. 110–245, §103(c), reenacted heading without change and amended text generally. Prior to amendment, par. (4) defined “qualified veteran” differently with respect to different States.
 
-2006—Subsec. (d)(2)(D). Pub. L. 109–432, §416(a), added subpar. (D).
+<b>2006</b>—Subsec. (d)(2)(D). Pub. L. 109–432, §416(a), added subpar. (D).
 
 Subsec. (<i>l</i>)(3)(B). Pub. L. 109–222, §203(b)(1), reenacted heading without change, substituted introductory provisions of cl. (i) for “A State veterans limit for any calendar year is the amount equal to—” and inserted heading, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i) and adjusted margins, and added cls. (ii) to (iv).
 
@@ -1001,17 +1001,17 @@ Subsec. (<i>l</i>)(3)(B)(iv). Pub. L. 109–432, §411(a), struck out heading an
 
 Subsec. (<i>l</i>)(4). Pub. L. 109–222, §203(a)(1), amended par. (4) generally. Prior to amendment, par. (4) defined the term “qualified veteran”.
 
-1997—Subsec. (i)(1)(C)(i)(I). Pub. L. 105–34, §312(d)(1), substituted “section 121” for “section 1034”.
+<b>1997</b>—Subsec. (i)(1)(C)(i)(I). Pub. L. 105–34, §312(d)(1), substituted “section 121” for “section 1034”.
 
 Subsec. (k)(11). Pub. L. 105–34, §914, added par. (11).
 
 Subsec. (m)(6)(A). Pub. L. 105–34, §312(d)(3), inserted “(as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997)” after “1034(e)”.
 
-1996—Subsec. (d)(2)(C). Pub. L. 104–188, §1703(n)(3), substituted “thereon,” for “thereon.”.
+<b>1996</b>—Subsec. (d)(2)(C). Pub. L. 104–188, §1703(n)(3), substituted “thereon,” for “thereon.”.
 
 Subsec. (m)(4)(C)(ii). Pub. L. 104–188, §1702(d)(2), substituted “any year of the 4-year period” for “any month of the 10-year period”, “succeeding years” for “succeeding months”, and “to zero over the succeeding 5 years” for “over the remainder of such period (or, if lesser, over 5 years)”.
 
-1993—Subsec. (a)(1). Pub. L. 103–66, §13141(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows:
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–66, §13141(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows:
 
 “(A)
 
@@ -1031,9 +1031,9 @@ Subsec. (k)(7). Pub. L. 103–66, §13141(e), inserted at end “Subparagraph (B
 
 Subsec. (k)(10). Pub. L. 103–66, §13141(c), added par. (10).
 
-1991—Subsec. (a)(1)(B). Pub. L. 102–227 substituted “June 30, 1992” for “December 31, 1991” in heading and text.
+<b>1991</b>—Subsec. (a)(1)(B). Pub. L. 102–227 substituted “June 30, 1992” for “December 31, 1991” in heading and text.
 
-1990—Subsec. (a)(1)(B). Pub. L. 101–508, §11408(a), substituted “December 31, 1991” for “September 30, 1990” in heading and text.
+<b>1990</b>—Subsec. (a)(1)(B). Pub. L. 101–508, §11408(a), substituted “December 31, 1991” for “September 30, 1990” in heading and text.
 
 Subsec. (m)(1). Pub. L. 101–508, §11408(c)(3)(A), substituted “increased by the lesser of—” and subpars. (A) and (B) for “increased by the recapture amount with respect to such indebtedness.”
 
@@ -1073,9 +1073,9 @@ Subsec. (m)(6)(A). Pub. L. 101–508, §11408(c)(3)(B)(ii), (iii), struck out at
 
 Subsec. (m)(7)(B)(ii). Pub. L. 101–508, §11408(c)(3)(C), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the amounts described in paragraph (5)(B)(ii) for each category of family size for each year of the 10-year period beginning on the date the financing was provided.”
 
-1989—Subsec. (a)(1)(B). Pub. L. 101–239 substituted “September 30, 1990” for “December 31, 1989” in heading and in text.
+<b>1989</b>—Subsec. (a)(1)(B). Pub. L. 101–239 substituted “September 30, 1990” for “December 31, 1989” in heading and in text.
 
-1988—Subsec. (a)(1)(B). Pub. L. 100–647, §4005(a)(1), substituted “1989” for “1988” in heading and in text.
+<b>1988</b>—Subsec. (a)(1)(B). Pub. L. 100–647, §4005(a)(1), substituted “1989” for “1988” in heading and in text.
 
 Subsec. (a)(2)(A). Pub. L. 100–647, §4005(f), inserted sentence at end relating to application of cl. (iv).
 

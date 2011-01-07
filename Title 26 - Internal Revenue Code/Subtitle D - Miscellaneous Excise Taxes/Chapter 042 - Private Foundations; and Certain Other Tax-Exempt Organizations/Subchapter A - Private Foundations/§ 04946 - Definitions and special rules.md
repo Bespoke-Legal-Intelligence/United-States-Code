@@ -86,15 +86,15 @@ For purposes of subsection (a)(1), the family of any individual shall include on
 
 #### Amendments
 
-2000—Subsec. (c)(3)(B). Pub. L. 106–554 substituted “the lowest rate of basic pay for the Senior Executive Service under section 5382” for “the lowest rate of compensation prescribed for GS–16 of the General Schedule under section 5332”.
+<b>2000</b>—Subsec. (c)(3)(B). Pub. L. 106–554 substituted “the lowest rate of basic pay for the Senior Executive Service under section 5382” for “the lowest rate of compensation prescribed for GS–16 of the General Schedule under section 5332”.
 
-1998—Subsec. (c)(7). Pub. L. 105–206 added par. (7).
+<b>1998</b>—Subsec. (c)(7). Pub. L. 105–206 added par. (7).
 
-1986—Subsec. (c)(5). Pub. L. 99–514 substituted “$20,000” for “$15,000”.
+<b>1986</b>—Subsec. (c)(5). Pub. L. 99–514 substituted “$20,000” for “$15,000”.
 
-1984—Subsec. (d). Pub. L. 98–369 amended subsec. (d) generally, substituting references to children, grandchildren, and great grandchildren for references to lineal descendants in two places.
+<b>1984</b>—Subsec. (d). Pub. L. 98–369 amended subsec. (d) generally, substituting references to children, grandchildren, and great grandchildren for references to lineal descendants in two places.
 
-1978—Subsecs. (a)(1), (b). Pub. L. 95–227 substituted “subchapter” for “chapter”.
+<b>1978</b>—Subsecs. (a)(1), (b). Pub. L. 95–227 substituted “subchapter” for “chapter”.
 
 #### Effective Date of 1986 Amendment
 
@@ -106,5 +106,5 @@ Section 306(c) of Pub. L. 98–369 provided that: “The amendments made by this
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–227 applicable with respect to contributions, acts, and expenditures made after Dec. 31, 1977, in and for taxable years beginning after such date, see section 4(f) of Pub. L. 95–227, set out as an Effective Date note under section 192 of this title.
+Amendment by Pub. L. 95–227 applicable with respect to contributions, acts, and expenditures made afterDec. 31, 1977, in and for taxable years beginning after such date, see section 4(f) of Pub. L. 95–227, set out as an Effective Date note under section 192 of this title.
 

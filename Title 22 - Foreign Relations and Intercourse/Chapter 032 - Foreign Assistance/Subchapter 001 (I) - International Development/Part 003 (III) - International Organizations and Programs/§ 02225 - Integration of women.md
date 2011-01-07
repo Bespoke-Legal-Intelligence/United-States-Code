@@ -6,9 +6,9 @@ The President is requested to instruct each representative of the United States 
 
 #### Amendments
 
-1977—Pub. L. 95–88 inserted request that President, in making United States contributions, take into account the progress, or lack of progress, of organizations in adopting and implementing policies and practices which encourage and promote the integration of women into the national economies of member and recipient countries, and into professional and policy-making positions within such organizations, in accordance with the World Plan of Action of the Decade for Women.
+<b>1977</b>—Pub. L. 95–88 inserted request that President, in making United States contributions, take into account the progress, or lack of progress, of organizations in adopting and implementing policies and practices which encourage and promote the integration of women into the national economies of member and recipient countries, and into professional and policy-making positions within such organizations, in accordance with the World Plan of Action of the Decade for Women.
 
-1975—Pub. L. 94–161 corrected the credit to read “pt. I” rather than “pt. III”.
+<b>1975</b>—Pub. L. 94–161 corrected the credit to read “pt. I” rather than “pt. III”.
 
 #### Delegation of Functions
 

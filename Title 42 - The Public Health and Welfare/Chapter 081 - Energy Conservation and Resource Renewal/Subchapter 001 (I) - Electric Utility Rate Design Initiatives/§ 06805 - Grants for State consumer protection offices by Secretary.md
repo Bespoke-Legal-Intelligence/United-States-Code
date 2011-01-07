@@ -22,5 +22,5 @@ Assistance may be provided under this section to an office of consumer services 
 
 #### Amendments
 
-1978—Subsecs. (a), (b). Pub. L. 95–617 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration.
+<b>1978</b>—Subsecs. (a), (b). Pub. L. 95–617 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration.
 

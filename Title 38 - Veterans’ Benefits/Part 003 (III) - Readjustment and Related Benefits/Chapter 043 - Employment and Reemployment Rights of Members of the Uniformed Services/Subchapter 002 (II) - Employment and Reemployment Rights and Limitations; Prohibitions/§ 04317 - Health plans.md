@@ -38,15 +38,15 @@ A prior section 4317 was renumbered section 7617 of this title.
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–233, §303(a), inserted “or such person becomes eligible for medical and dental care under chapter 55 of title 10 by reason of subsection (d) of section 1074 of that title,” after “by reason of service in the uniformed services,”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–233, §303(a), inserted “or such person becomes eligible for medical and dental care under chapter 55 of title 10 by reason of subsection (d) of section 1074 of that title,” after “by reason of service in the uniformed services,”.
 
 Subsec. (b)(1). Pub. L. 109–233, §303(b)(1), inserted “or by reason of the person's having become eligible for medical and dental care under chapter 55 of title 10 by reason of subsection (d) of section 1074 of that title,” after “by reason of service in the uniformed services,” and “or eligibility” after “such service”.
 
 Subsec. (b)(3). Pub. L. 109–233, §303(b)(2), added par. (3).
 
-2004—Subsec. (a)(1)(A). Pub. L. 108–454 substituted “24-month period” for “18-month period”.
+<b>2004</b>—Subsec. (a)(1)(A). Pub. L. 108–454 substituted “24-month period” for “18-month period”.
 
-1996—Subsec. (a). Pub. L. 104–275 substituted “(a)(1) In” for “(a)(1)(A) Subject to paragraphs (2) and (3), in”, redesignated cls. (i) and (ii) of par. (1) as subpars. (A) and (B), respectively, redesignated former subpars. (B) and (C) as pars. (2) and (3), respectively, and in par. (3), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and subcls. (I) and (II) as cls. (i) and (ii), respectively.
+<b>1996</b>—Subsec. (a). Pub. L. 104–275 substituted “(a)(1) In” for “(a)(1)(A) Subject to paragraphs (2) and (3), in”, redesignated cls. (i) and (ii) of par. (1) as subpars. (A) and (B), respectively, redesignated former subpars. (B) and (C) as pars. (2) and (3), respectively, and in par. (3), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and subcls. (I) and (II) as cls. (i) and (ii), respectively.
 
 #### Effective Date of 2004 Amendment
 

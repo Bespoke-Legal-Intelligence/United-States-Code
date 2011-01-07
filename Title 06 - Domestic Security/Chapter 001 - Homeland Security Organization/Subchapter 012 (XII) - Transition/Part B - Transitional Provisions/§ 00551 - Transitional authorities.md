@@ -42,6 +42,8 @@ Upon the transfer of an agency to the Department—
 
 The effective date of this chapter, referred to in subsecs. (a) and (c)(1), is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
 
+This chapter, referred to in subsecs. (c), (d)(2), and (e)(1), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+
 #### Amendments
 
 2005—Subsec. (e)(2). Pub. L. 109–59 substituted “Sport Fish Restoration and Boating Trust Fund” for “Aquatic Resources Trust Fund of the Highway Trust Fund”.

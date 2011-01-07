@@ -8,7 +8,7 @@ As used in this chapter:
 
 &emsp;(3) The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Northern Mariana Islands, and any other territory or possession of the United States.
 
-&emsp;(4) The term “without expense to the United States” means that no funds may be expended by Federal agencies for the development oftrail related facilities or for the acquisition of lands or interests in lands outside the exterior boundaries of Federal areas. For the purposes of the preceding sentence, amounts made available to any State or political subdivision under the Land and Water Conservation Fund Act of 1965 \[16 U.S.C. 460<i>l</i>–4 et seq.\] or any other provision of law shall not be treated as an expense to the United States.
+&emsp;(4) The term “without expense to the United States” means that no funds may be expended by Federal agencies for the development of trail related facilities or for the acquisition of lands or interests in lands outside the exterior boundaries of Federal areas. For the purposes of the preceding sentence, amounts made available to any State or political subdivision under the Land and Water Conservation Fund Act of 1965 \[16 U.S.C. 460<i>l</i>–4 et seq.\] or any other provision of law shall not be treated as an expense to the United States.
 
 (Pub. L. 90–543, §12, as added Pub. L. 98–11, title II, §210, Mar. 28, 1983, 97 Stat. 50.)
 

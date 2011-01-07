@@ -32,7 +32,7 @@ The Secretary of Commerce (hereinafter referred to as the “Secretary”) is au
 
 #### (d) Grant requirements
 
-The Secretary shall require, as a condition to any grant (or amendment or modification thereof) made to an applicant under this section, that a sum equal to the amount of such grant be provided from sources other than the Federal Government: <i>Provided</i>, That the additional amount shall not include any amount of indirect costsor in-kind contributions paid for under any Federal program, nor shall indirect costs or in-kind contributions exceed 50 per centum of the non-Federal additional amount.
+The Secretary shall require, as a condition to any grant (or amendment or modification thereof) made to an applicant under this section, that a sum equal to the amount of such grant be provided from sources other than the Federal Government: <i>Provided</i>, That the additional amount shall not include any amount of indirect costs or in-kind contributions paid for under any Federal program, nor shall indirect costs or in-kind contributions exceed 50 per centum of the non-Federal additional amount.
 
 #### (e) Program evaluation; reports
 
@@ -65,4 +65,172 @@ Section was not enacted as part of the Small Business Act which comprises this c
 #### Termination of Advisory Boards
 
 Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### State Trade and Export Promotion Grant Program
+
+Pub. L. 111–240, title I, §1207, Sept. 27, 2010, 124 Stat. 2532, provided that:
+
+“(a)
+
+Definitions.—In this section—
+
+&emsp;“(1) the term ‘eligible small business concern’ means a small business concern that—
+
+&emsp;&emsp;“(A) has been in business for not less than the 1-year period ending on the date on which assistance is provided using a grant under this section;
+
+&emsp;&emsp;“(B) is operating profitably, based on operations in the United States;
+
+&emsp;&emsp;“(C) has demonstrated understanding of the costs associated with exporting and doing business with foreign purchasers, including the costs of freight forwarding, customs brokers, packing and shipping, as determined by the Associate Administrator; and
+
+&emsp;&emsp;“(D) has in effect a strategic plan for exporting;
+
+&emsp;“(2) the term ‘program’ means the State Trade and Export Promotion Grant Program established under subsection (b);
+
+&emsp;“(3) the term ‘small business concern owned and controlled by women’ has the meaning given that term in section 3 of the Small Business Act (15 U.S.C. 632);
+
+&emsp;“(4) the term ‘socially and economically disadvantaged small business concern’ has the meaning given that term in section 8(a)(4)(A) of the Small Business Act (15 U.S.C. 6537(a)(4)(A) \[637(a)(4)(A)\]); and
+
+&emsp;“(5) the term ‘State’ means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa.
+
+“(b)
+
+Establishment of Program.—The Associate Administrator shall establish a 3-year trade and export promotion pilot program to be known as the State Trade and Export Promotion Grant Program, to make grants to States to carry out export programs that assist eligible small business concerns in—
+
+&emsp;“(1) participation in a foreign trade mission;
+
+&emsp;“(2) a foreign market sales trip;
+
+&emsp;“(3) a subscription to services provided by the Department of Commerce;
+
+&emsp;“(4) the payment of website translation fees;
+
+&emsp;“(5) the design of international marketing media;
+
+&emsp;“(6) a trade show exhibition;
+
+&emsp;“(7) participation in training workshops; or
+
+&emsp;“(8) any other export initiative determined appropriate by the Associate Administrator.
+
+“(c)
+
+Grants.—
+
+&emsp;“(1)
+
+Joint review.—In carrying out the program, the Associate Administrator may make a grant to a State to increase the number of eligible small business concerns in the State that export or to increase the value of the exports by eligible small business concerns in the State.
+
+&emsp;“(2)
+
+Considerations.—In making grants under this section, the Associate Administrator may give priority to an application by a State that proposes a program that—
+
+&emsp;&emsp;“(A) focuses on eligible small business concerns as part of an export promotion program;
+
+&emsp;&emsp;“(B) demonstrates success in promoting exports by—
+
+&emsp;&emsp;&emsp;“(i) socially and economically disadvantaged small business concerns;
+
+&emsp;&emsp;&emsp;“(ii) small business concerns owned or controlled by women; and
+
+&emsp;&emsp;&emsp;“(iii) rural small business concerns;
+
+&emsp;&emsp;“(C) promotes exports from a State that is not 1 of the 10 States with the highest percentage of exporters that are small business concerns, based upon the latest data available from the Department of Commerce; and
+
+&emsp;&emsp;“(D) promotes new-to-market export opportunities to the People's Republic of China for eligible small business concerns in the United States.
+
+&emsp;“(3)
+
+Limitations.—
+
+&emsp;&emsp;“(A)
+
+Single application.—A State may not submit more than 1 application for a grant under the program in any 1 fiscal year.
+
+&emsp;&emsp;“(B)
+
+Proportion of amounts.—The total value of grants under the program made during a fiscal year to the 10 States with the highest number of exporters that are small business concerns, based upon the latest data available from the Department of Commerce, shall be not more than 40 percent of the amounts appropriated for the program for that fiscal year.
+
+&emsp;“(4)
+
+Application.—A State desiring a grant under the program shall submit an application at such time, in such manner, and accompanied by such information as the Associate Administrator may establish.
+
+“(d)
+
+Competitive Basis.—The Associate Administrator shall award grants under the program on a competitive basis.
+
+“(e)
+
+Federal Share.—The Federal share of the cost of an export program carried out using a grant under the program shall be—
+
+&emsp;“(1) for a State that has a high export volume, as determined by the Associate Administrator, not more than 65 percent; and
+
+&emsp;“(2) for a State that does not have a high export volume, as determined by the Associate Administrator, not more than 75 percent.
+
+“(f)
+
+Non-Federal Share.—The non-Federal share of the cost of an export program carried \[out\] using a grant under the program shall be comprised of not less than 50 percent cash and not more than 50 percent of indirect costs and in-kind contributions, except that no such costs or contributions may be derived from funds from any other Federal program.
+
+“(g)
+
+Reports.—
+
+&emsp;“(1)
+
+Initial report.—Not later than 120 days after the date of enactment of this Act \[Sept. 27, 2010\], the Associate Administrator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report, which shall include—
+
+&emsp;&emsp;“(A) a description of the structure of and procedures for the program;
+
+&emsp;&emsp;“(B) a management plan for the program; and
+
+&emsp;&emsp;“(C) a description of the merit-based review process to be used in the program.
+
+&emsp;“(2)
+
+Annual reports.—The Associate Administrator shall submit an annual report to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives regarding the program, which shall include—
+
+&emsp;&emsp;“(A) the number and amount of grants made under the program during the preceding year;
+
+&emsp;&emsp;“(B) a list of the States receiving a grant under the program during the preceding year, including the activities being performed with grant; and
+
+&emsp;&emsp;“(C) the effect of each grant on exports by eligible small business concerns in the State receiving the grant.
+
+“(h)
+
+Reviews by Inspector General.—
+
+&emsp;“(1)
+
+In general.—The Inspector General of the Administration shall conduct a review of—
+
+&emsp;&emsp;“(A) the extent to which recipients of grants under the program are measuring the performance of the activities being conducted and the results of the measurements; and
+
+&emsp;&emsp;“(B) the overall management and effectiveness of the program.
+
+&emsp;“(2)
+
+Report.—Not later than September 30, 2012, the Inspector General of the Administration shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report regarding the review conducted under paragraph (1).
+
+“(i)
+
+Authorization of Appropriations.—There is authorized to be appropriated to carry out the program $30,000,000 for each of fiscal years 2011, 2012, and 2013.
+
+“(j)
+
+Termination.—The authority to carry out the program shall terminate 3 years after the date on which the Associate Administrator establishes the program.”
+
+\[For definitions of “Associate Administrator” and “rural small business concern” as used in section 1207 of Pub. L. 111–240, set out above, see section 1202(a) of Pub. L. 111–240, set out as a note below.\]
+
+\[For definitions of “Administration” and “small business concern” as used in section 1207 of Pub. L. 111–240, set out above, see section 1001 of Pub. L. 111–240, set out as a note under section 632 of this title.\]
+
+#### Definitions
+
+Pub. L. 111–240, title I, §1202(a), Sept. 27, 2010, 124 Stat. 2520, provided that: “In this subtitle \[subtitle B (§§1201–1209) of title I of Pub. L. 111–240, see Short Title of 2010 Amendment note set out under section 631 of this title\]—
+
+&emsp;“(1) the term ‘Associate Administrator’ means the Associate Administrator for International Trade appointed under section 22(a)(2) of the Small Business Act \[15 U.S.C. 649(a)(2)\], as amended by this subtitle;
+
+&emsp;“(2) the term ‘Export Assistance Center’ means a one-stop shop referred to in section 2301(b)(8) of the Omnibus Trade and Competitiveness Act of 1988 (15 U.S.C. 4721(b)(8)); and
+
+&emsp;“(3) the term ‘rural small business concern’ means a small business concern located in a rural area, as that term is defined in section 1393(a)(2) of the Internal Revenue Code of 1986 \[26 U.S.C. 1393(a)(2)\].”
+
+\[For definition of “small business concern” as used in section 1202(a) of Pub. L. 111–240, set out above, see section 1001 of Pub. L. 111–240, set out as a note under section 632 of this title.\]
 

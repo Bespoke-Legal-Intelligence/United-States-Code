@@ -10,13 +10,13 @@ A prior section 376 of act July 1, 1944, added by act Aug. 3, 1956, ch. 907, §1
 
 #### Amendments
 
-1990—Pub. L. 101–616 substituted “Not later than February 10 of 1991 and of each second year thereafter, the Secretary shall publish, and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.” for “The Secretary shall, not later than October 1 of each year, publish”.
+<b>1990</b>—Pub. L. 101–616 substituted “Not later than February 10 of 1991 and of each second year thereafter, the Secretary shall publish, and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.” for “The Secretary shall, not later than October 1 of each year, publish”.
 
-1988—Pub. L. 100–607 substituted “shall, not later than October 1 of each year,” for “shall annually”.
+<b>1988</b>—Pub. L. 100–607 substituted “shall, not later than October 1 of each year,” for “shall annually”.
 
 #### Change of Name
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor,and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

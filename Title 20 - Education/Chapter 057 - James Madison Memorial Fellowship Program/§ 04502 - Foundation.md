@@ -44,7 +44,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-1991—Subsec. (b)(3). Pub. L. 102–221 added par. (3).
+<b>1991</b>—Subsec. (b)(3). Pub. L. 102–221 added par. (3).
 
-1989—Subsec. (d). Pub. L. 101–208 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.”
+<b>1989</b>—Subsec. (d). Pub. L. 101–208 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.”
 

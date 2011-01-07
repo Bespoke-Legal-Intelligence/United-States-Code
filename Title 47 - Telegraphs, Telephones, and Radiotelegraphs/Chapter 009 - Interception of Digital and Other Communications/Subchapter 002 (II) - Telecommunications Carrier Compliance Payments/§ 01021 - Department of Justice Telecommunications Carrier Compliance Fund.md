@@ -48,3 +48,7 @@ Subchapter I of this chapter, referred to in subsec. (f), was in the original �
 
 Pub. L. 106–246, div. B, title II, July 13, 2000, 114 Stat. 542, provided in part: “That, hereafter, in the discretion of the Attorney General, any expenditures from the \[Telecommunications Carrier Compliance\] Fund to pay or reimburse pursuant to sections 104(e) and 109(a) of Public Law 103–414 \[47 U.S.C. 1003(e), 1008(a)\], may be made directly to any parties specified in section 401(a) thereof \[47 U.S.C. 1021(a)\], and may be made either pursuant to the regulations promulgated under such section 109, or pursuant to firm fixed-price agreements, upon provision of such information as the Attorney General may require”.
 
+<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (3),”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+

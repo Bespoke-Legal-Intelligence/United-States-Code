@@ -12,13 +12,13 @@
 
 #### Amendments
 
-2002—Subsec. (d). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
+<b>2002</b>—Subsec. (d). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
-1999—Subsec. (d). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
+<b>1999</b>—Subsec. (d). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
 
-1986—Subsec. (d). Pub. L. 99–616 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The basic fee portion of the international fee, and the transmittal and search fees prescribed under section 376(a) of this part, shall be paid on filing of an international application or within one month after the date of such filing. Payment of designation fees may be made on filing and shall be made not later than one year from the priority date of the international application.”
+<b>1986</b>—Subsec. (d). Pub. L. 99–616 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The basic fee portion of the international fee, and the transmittal and search fees prescribed under section 376(a) of this part, shall be paid on filing of an international application or within one month after the date of such filing. Payment of designation fees may be made on filing and shall be made not later than one year from the priority date of the international application.”
 
-1984—Subsecs. (a) to (c). Pub. L. 98–622, §403(a), substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1984</b>—Subsecs. (a) to (c). Pub. L. 98–622, §403(a), substituted “Patent and Trademark Office” for “Patent Office”.
 
 Subsec. (d). Pub. L. 98–622, §401(a), inserted “or within one month after the date of such filing” after “application”.
 

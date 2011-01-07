@@ -42,7 +42,7 @@ When used in this chapter, except where the context requires otherwise—
 
 &emsp;(t) the terms “false”, “incorrect”, and “misleading” mean, respectively, false, incorrect, and misleading in any particular;
 
-&emsp;(u) the term “deceptive loading, handling, weighing, or sampling” means any manner of loading, handling, weighing, or sampling that deceives or tends to deceive official inspection personnel, as specified by regulations of the Secretary under this chapter;
+&emsp;(u) the term “deceptive loading, handling, weighing, or sampling” means any manner of loading, handling, weighing, or sampling thatdeceives or tends to deceive official inspection personnel, as specified by regulations of the Secretary under this chapter;
 
 &emsp;(v) the term “export elevator” means any grain elevator, warehouse, or other storage or handling facility in the United States as determined by the Secretary, from which grain is shipped from the United States to an area outside thereof;
 
@@ -50,7 +50,7 @@ When used in this chapter, except where the context requires otherwise—
 
 &emsp;(x) the term “official weighing” means the determination and certification by official inspection personnel of the quantity of a lot of grain under standards provided for in this chapter, based on the actual performance of weighing or the physical supervision thereof, including the physical inspection and testing for accuracy of the weights and scales and the physical inspection of the premises at which the weighing is performed and the monitoring of the discharge of grain into the elevator or conveyance (the terms “officially weigh” and “officially weighed” shall be construed accordingly);
 
-&emsp;(y) the term “supervision of weighing” means such supervision by official inspection personnel of the grain-weighing process as is determined by the Secretary to be adequate to reasonably assure the integrity and accuracyof the weighing and of certificates which set forth the weight of the grain and such physical inspection by such personnel of the premises at which the grain weighing is performed as will reasonably assure that all the grain intended to be weighed has been weighed and discharged into the elevator or conveyance; and
+&emsp;(y) the term “supervision of weighing” means such supervision by official inspection personnel of the grain-weighing process as is determined by the Secretary to be adequate to reasonably assure the integrity and accuracy of the weighing and of certificates which set forth the weight of the grain and such physical inspection by such personnel of the premises at which the grain weighing is performed as will reasonably assure that all the grain intended to be weighed has been weighed and discharged into the elevator or conveyance; and
 
 &emsp;(z) the term “intracompany shipment” means the shipment, within the United States, of grain lots between facilities owned or controlled by the person owning the grain. The shipment of grain owned by a cooperative, from a facility owned by that cooperative, to an export facility which it jointly owns with other cooperatives, qualifies as an intracompany shipment.
 
@@ -92,7 +92,7 @@ Subsec. (k). Pub. L. 94–582, §3(c), substituted “Administrator” for “Se
 
 Subsec. (<i>l</i>). Pub. L. 94–582, §3(d), substituted “standards relating to kind, class, quality, and condition of grain,” for “standards”.
 
-Subsec. (m). Pub. L. 94–582, §3(e), substituted definition of “official agency” meaning “any State or local governmental agency, or any person, designated by the Administrator pursuant to subsection (f) of section 79 of this title for the conduct of official inspection (other than appeal inspection), or subsection (b) of section 79a of this title for the conduct of supervision of weighing” for definition of “official inspection agency” meaning “the agency or person located at an inspection point designated by the Secretary for the conduct of official inspection under this chapter”.
+Subsec. (m). Pub. L. 94–582, §3(e), substituted definition of “official agency” meaning “any State or local governmental agency, or any person, designated by theAdministrator pursuant to subsection (f) of section 79 of this title for the conduct of official inspection (other than appeal inspection), or subsection (b) of section 79a of this title for the conduct of supervision of weighing” for definition of “official inspection agency” meaning “the agency or person located at an inspection point designated by the Secretary for the conduct of official inspection under this chapter”.
 
 Subsec. (n). Pub. L. 94–582, §3(f), substituted “Administrator” for “Secretary”.
 

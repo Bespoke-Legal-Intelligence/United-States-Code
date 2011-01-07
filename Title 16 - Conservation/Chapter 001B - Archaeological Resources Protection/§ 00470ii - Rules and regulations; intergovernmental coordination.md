@@ -20,9 +20,9 @@ The American Indian Religious Freedom Act, referred to in subsec. (a), is Pub. L
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–333 struck out at end “Each such land manager shall submit an annual report to the Committee on Natural Resources of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate regarding the actions taken under such program.”
+<b>1996</b>—Subsec. (c). Pub. L. 104–333 struck out at end “Each such land manager shall submit an annual report to the Committee on Natural Resources of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate regarding the actions taken under such program.”
 
-1994—Subsecs. (a), (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Subsecs. (a), (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
-1988—Subsec. (c). Pub. L. 100–588 added subsec. (c).
+<b>1988</b>—Subsec. (c). Pub. L. 100–588 added subsec. (c).
 

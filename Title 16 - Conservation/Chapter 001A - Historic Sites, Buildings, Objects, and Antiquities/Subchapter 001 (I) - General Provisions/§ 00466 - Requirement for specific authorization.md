@@ -24,5 +24,5 @@ October 30, 1992, referred to in subsec. (a), was in the original “the date of
 
 #### Amendments
 
-1992—Pub. L. 102–575 amended section generally. Prior to amendment, section read as follows: “There is authorized to be appropriated for carrying out the purposes of sections 461 to 467 of this title such sums as the Congress may from time to time determine.”
+<b>1992</b>—Pub. L. 102–575 amended section generally. Prior to amendment, section read as follows: “There is authorized to be appropriated for carrying out the purposes of sections 461 to 467 of this title such sums as the Congress may from time to time determine.”
 

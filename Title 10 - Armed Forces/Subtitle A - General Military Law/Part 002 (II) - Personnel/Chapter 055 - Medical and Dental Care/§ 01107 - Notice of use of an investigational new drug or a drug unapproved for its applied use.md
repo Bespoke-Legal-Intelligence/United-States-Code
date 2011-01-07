@@ -64,7 +64,7 @@ Definitions.—In this section:
 
 #### Amendments
 
-2004—Subsec. (f)(1). Pub. L. 108–375, §726(a)(1), substituted “obtaining consent is” for “obtaining consent—
+<b>2004</b>—Subsec. (f)(1). Pub. L. 108–375, §726(a)(1), substituted “obtaining consent is” for “obtaining consent—
 
 &emsp;“(A) is not feasible;
 
@@ -74,15 +74,15 @@ Definitions.—In this section:
 
 Subsec. (f)(2). Pub. L. 108–375, §726(a)(2), added par. (2) and struck out former par. (2) which read as follows: “In making a determination to waive the prior consent requirement on a ground described in subparagraph (A) or (B) of paragraph (1), the President shall apply the standards and criteria that are set forth in the relevant FDA regulations for a waiver of the prior consent requirement on that ground.”
 
-2003—Subsec. (f)(4)(C). Pub. L. 108–136 struck out subpar. (C) which read as follows: “The term ‘congressional defense committee’ means each of the following:
+<b>2003</b>—Subsec. (f)(4)(C). Pub. L. 108–136 struck out subpar. (C) which read as follows: “The term ‘congressional defense committee’ means each of the following:
 
 &emsp;“(i) The Committee on Armed Services and the Committee on Appropriations of the Senate.
 
 &emsp;“(ii) The Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
 
-1999—Subsec. (f)(4)(C)(ii). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
+<b>1999</b>—Subsec. (f)(4)(C)(ii). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
-1998—Subsec. (b). Pub. L. 105–261, §731(b)(1), struck out “, if practicable, but in no case later than 30 days after the drug is first administered to the member” after “administered to the member”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–261, §731(b)(1), struck out “, if practicable, but in no case later than 30 days after the drug is first administered to the member” after “administered to the member”.
 
 Subsec. (c). Pub. L. 105–261, §731(b)(2), struck out “unless the Secretary of Defense determines that the use of written notice is impractical because of the number of members receiving the investigational new drug or drug unapproved for its applied use, time constraints, or similar reasons. If the Secretary provides notice under subsection (a)(1) in a form other than in writing, the Secretary shall submit to Congress a report describing the notification method used and the reasons for the use of the alternative method” after “provided in writing”.
 
@@ -126,7 +126,7 @@ Sec. 3. <i>Informed Consent Requirements and Waiver Provisions.</i>
 
 (a) Before administering an investigational drug to members of the Armed Forces, the Department of Defense (DoD) must obtain informed consent from each individual unless the Secretary can justify to the President a need for a waiver of informed consent in accordance with 10 U.S.C. 1107(f). Waivers of informed consent will be granted only when absolutely necessary.
 
-(b) In accordance with 10 U.S.C. 1107(f), the President may waive the informed consent requirement for theadministration of an investigational drug to a member of the Armed Forces in connection with the member's participation in a particular military operation, upon a written determination by the President that obtaining consent:
+(b) In accordance with 10 U.S.C. 1107(f), the President may waive the informed consent requirement for the administration of an investigational drug to a member of the Armed Forces in connection with the member's participation in a particular military operation, upon a written determination by the President that obtaining consent:
 
 &emsp;(1) is not feasible;
 

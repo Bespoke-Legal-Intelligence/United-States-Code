@@ -20,9 +20,9 @@ Provisions similar to those in this section were contained in section 3013 of th
 
 #### Amendments
 
-2008—Subsec. (b)(4). Pub. L. 110–181 added par. (4).
+<b>2008</b>—Subsec. (b)(4). Pub. L. 110–181 added par. (4).
 
-1988—Subsec. (a). Pub. L. 100–456, §702(d), substituted “four” for “three”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–456, §702(d), substituted “four” for “three”.
 
 Subsec. (b)(3). Pub. L. 100–456, §702(c)\[(1)\], added par. (3).
 

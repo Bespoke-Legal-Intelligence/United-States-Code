@@ -26,7 +26,7 @@ Qualifying Educational Institutions.—(1) A qualifying educational institution 
 
 (B) In order to assist the Secretary concerned in making determinations under subparagraph (A), any unaccredited institution that seeks to be considered to be a qualifying educational institution for purposes of this paragraph shall submit to the Secretary of Defense each year such information as the Secretary may require concerning the program of instruction at that institution.
 
-(C) In the case of a person with a degree from an unaccredited institution that is a qualifying educational institution under this paragraph, the degree may not have been awarded more than eight years before the date on which the person is to be appointed to, or recognized in, the grade of captain or, in the case of the Navy Reserve, lieutenant, in order for that person to be considered for purposes of subsection (a) to have been awarded a baccalaureate degree by a qualifying educational institution.
+(C) In the case of a person with a degree from an unaccredited institution that is a qualifying educational institution under this paragraph, the degree may not have been awarded more than eight years before the date on which theperson is to be appointed to, or recognized in, the grade of captain or, in the case of the Navy Reserve, lieutenant, in order for that person to be considered for purposes of subsection (a) to have been awarded a baccalaureate degree by a qualifying educational institution.
 
 (d)
 
@@ -36,7 +36,7 @@ Waiver Authority for Army OCS Graduates and Certain Marine Corps Officers.—(1)
 
 (3) Any such waiver shall be made on a case-by-case basis, considering the individual circumstances of the officer involved, and may continue in effect for no more than two years after the waiver is granted. The Secretary concerned may provide for such a waiver to be effective before the date of the waiver, as appropriate in an individual case.
 
-(Added Pub. L. 102–484, div. A, title V, §515(a), Oct. 23, 1992, 106 Stat. 2406, §596; renumbered §12205 and amended Pub. L. 103–337, div. A, title V, §§519, 520, title XVI, §1662(c)(2), Oct. 5, 1994, 108 Stat. 2755, 2990; Pub. L. 104–201, div. A, titleV, §§504, 505, title X, §1074(a)(22), Sept. 23, 1996, 110 Stat. 2512, 2660; Pub. L. 107–107, div. A, title V, §512(a), Dec. 28, 2001, 115 Stat. 1092; Pub. L. 109–163, div. A, title V, §515(b)(1)(KK), Jan. 6, 2006, 119 Stat. 3234.)
+(Added Pub. L. 102–484, div. A, title V, §515(a), Oct. 23, 1992, 106 Stat. 2406, §596; renumbered §12205 and amended Pub. L. 103–337, div. A, title V, §§519, 520, title XVI, §1662(c)(2), Oct. 5, 1994, 108 Stat. 2755, 2990; Pub. L. 104–201, div. A, title V, §§504, 505, title X, §1074(a)(22), Sept. 23, 1996, 110 Stat. 2512, 2660; Pub. L. 107–107, div. A, title V, §512(a), Dec. 28, 2001, 115 Stat. 1092; Pub. L. 109–163, div. A, title V, §515(b)(1)(KK), Jan. 6, 2006, 119 Stat. 3234.)
 
 #### Prior Provisions
 
@@ -44,17 +44,17 @@ Provisions similar to those in this section were contained in Pub. L. 102–190,
 
 #### Amendments
 
-2006—Subsecs. (a), (b)(2), (3), (c)(2)(C). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Subsecs. (a), (b)(2), (3), (c)(2)(C). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
-2001—Subsec. (d). Pub. L. 107–107 added subsec. (d).
+<b>2001</b>—Subsec. (d). Pub. L. 107–107 added subsec. (d).
 
-1996—Subsec. (a). Pub. L. 104–201, §1074(a)(22), substituted “No person” for “After September 30, 1995, no person”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201, §1074(a)(22), substituted “No person” for “After September 30, 1995, no person”.
 
 Subsec. (b)(3). Pub. L. 104–201, §505, inserted “or the Seaman to Admiral program” after “(NAVCAD) program”.
 
 Subsec. (c)(2)(C). Pub. L. 104–201, §504, substituted “eight years” for “three years”.
 
-1994—Pub. L. 103–337, §1662(c)(2), renumbered section 596 of this title as this section.
+<b>1994</b>—Pub. L. 103–337, §1662(c)(2), renumbered section 596 of this title as this section.
 
 Subsec. (a). Pub. L. 103–337, §519(1), substituted “a qualifying educational institution” for “an accredited educational institution”.
 

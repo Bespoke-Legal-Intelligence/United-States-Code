@@ -12,11 +12,11 @@ The Secretary shall establish an advisory committee to be known as the Advisory 
 
 #### (2) Appointment
 
-&emsp;Not later than 90 days after November 13, 1998, the Secretary shall appoint the members of the Advisory Committee from among individuals who are health professionals from schools of the types described in sections 294a(a)(1)(A), 294a(a)(1)(B), 294c(b), 294d(3)(A), and 294e(b) of this title. In making such appointments, the Secretary shall ensure a fair balance between the health professions, that at least 75 percent of the members of the Advisory Committee are health professionals, a broad geographic representation of members and a balance between urban and rural members. Members shall be appointed based on their competence, interest, and knowledge of the mission of the profession involved.
+&emsp;Not later than 90 days after November 13, 1998, the Secretary shall appoint the members of the Advisory Committee from among individuals who are health professionals from schools of the types described in sections 294a(b)(1)(A), 294c(b), and 294e(b) of this title. In making such appointments, the Secretary shall ensure a fair balance between the health professions, that at least 75 percent of the members of the Advisory Committee are health professionals, a broad geographic representation of members and a balance between urban and rural members. Members shall be appointed based on their competence, interest, and knowledge of the mission of the profession involved.
 
 #### (3) Minority representation
 
-&emsp;In appointing the members of the Advisory Committee under paragraph (2), the Secretaryshall ensure the adequate representation of women and minorities.
+&emsp;In appointing the members of the Advisory Committee under paragraph (2), the Secretary shall ensure the adequate representation of women and minorities.
 
 #### (c) Terms
 
@@ -44,9 +44,15 @@ The Secretary shall establish an advisory committee to be known as the Advisory 
 
 The Advisory Committee shall—
 
-&emsp;(1) provide advice and recommendations to the Secretary concerning policy and program development and other matters of significance concerning the activities under this part; and
+&emsp;(1) provide advice and recommendations to the Secretary concerning policy and program development and other matters of significance concerning the activities under this part;
 
-&emsp;(2) not later than 3 years after November 13, 1998, and annually thereafter, prepare and submit to the Secretary, and the Committee on Labor and Human Resources of the Senate, and the Committee on Commerce of the House of Representatives, a report describing the activities of the Committee, including findings and recommendations made by the Committee concerning the activities under this part.
+&emsp;(2) not later than 3 years after November 13, 1998, and annually thereafter, prepare and submit to the Secretary, and the Committee on Labor and Human Resources of the Senate, and the Committee on Commerce of the House of Representatives, a report describing the activities of the Committee, including findings and recommendations made by the Committee concerning the activities under this part;
+
+&emsp;(3) develop, publish, and implement performance measures for programs under this part;
+
+&emsp;(4) develop and publish guidelines for longitudinal evaluations (as described in section 294n(d)(2) of this title) for programs under this part; and
+
+&emsp;(5) recommend appropriation levels for programs under this part.
 
 #### (e) Meetings and documents
 
@@ -72,13 +78,15 @@ The Advisory Committee shall—
 
 The Federal Advisory Committee Act shall apply to the Advisory Committee under this section only to the extent that the provisions of such Act do not conflict with the requirements of this section.
 
-(July 1, 1944, ch. 373, title VII, §756, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3549.)
+(July 1, 1944, ch. 373, title VII, §757, formerly §756, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3549; renumbered §757 and amended Pub. L. 111–148, title V, §§5103(d)(2), 5306(a)(2), (b), Mar. 23, 2010, 124 Stat. 606, 626, 628.)
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
+
+Pub. L. 111–148, title V, §5306(a)(2), Mar. 23, 2010, 124 Stat. 626, which directed the amendment of part D of title VII by redesignating section 756 as section 757, without specifying the act to be amended, was executed by redesignating section 756 of act July 1, 1944, as section 757 of the Act, to reflect the probable intent of Congress.
 
 November 13, 1998, referred to in subsec. (b)(2), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 105–392, which amended this part generally, to reflect the probable intent of Congress.
 
@@ -88,6 +96,14 @@ A prior section 294f, act July 1, 1944, ch. 373, title VII, §733, as added Oct.
 
 Another prior section 294f, act July 1, 1944, ch. 373, title VII, §746, as added Aug. 16, 1968, Pub. L. 90–490, title I, §121(e), 82 Stat. 778; amended Nov. 18, 1971, Pub. L. 92–157, title I, §§105(f)(2), 106(b)(5), 85 Stat. 451, 453, provided for transfer of funds to scholarships in relation to loans to students studying in United States, prior to repeal by Pub. L. 94–484, title IV, §406(a)(1), Oct. 12, 1976, 90 Stat. 2268.
 
+A prior section 757 of act July 1, 1944, was classified to section 294g of this title, prior to repeal by Pub. L. 111–148, title V, §5306(a)(1), Mar. 23, 2010, 124 Stat. 626.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (b)(2). Pub. L. 111–148, §5306(b), substituted “294a(b)(1)(A), 294c(b), and 294e(b)” for “294a(a)(1)(A), 294a(a)(1)(B), 294c(b), 294d(3)(A), and 294e(b)”.
+
+Subsec. (d)(3) to (5). Pub. L. 111–148, §5103(d)(2), added pars. (3) to (5).
+
 #### Change of Name
 
 Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
@@ -96,7 +112,7 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
 #### Termination of Advisory Committees
 
-Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that anadvisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Committee”.</i>
 

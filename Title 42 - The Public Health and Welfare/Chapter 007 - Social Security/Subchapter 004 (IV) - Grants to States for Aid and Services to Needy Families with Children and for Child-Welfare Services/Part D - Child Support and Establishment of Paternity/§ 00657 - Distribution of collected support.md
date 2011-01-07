@@ -144,7 +144,7 @@ Notwithstanding the preceding provisions of this section, amounts collected by a
 
 > and any balance shall be paid to the State agency responsible for supervising the placement of the child, for use by such agency in accordance with paragraph (2).
 
-(Aug. 14, 1935, ch. 531, title IV, §457, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2356; amended Pub. L. 95–171, §11, Nov. 12, 1977, 91 Stat. 1357; Pub. L. 97–35, title XXIII, §2332(e), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2640(b), July 18, 1984, 98 Stat. 1145; Pub. L. 98–378, §§7(a), 11(a), Aug. 16, 1984, 98 Stat. 1315, 1317; Pub. L. 99–514, title XVIII, §§1883(b)(6), 1899(a), Oct. 22, 1986, 100 Stat. 2917, 2957; Pub. L. 100–203, title IX, §9141(a)(1), Dec. 22, 1987, 101 Stat. 1330–321; Pub. L. 100–485, title I, §102(b), Oct. 13, 1988, 102 Stat. 2346; Pub. L. 104–193, title III, §302(a), Aug. 22, 1996, 110 Stat. 2200; Pub. L. 105–33, title V, §§5532(a), (b)(1), (c)–(h), 5547, Aug. 5, 1997, 111 Stat. 626, 627, 632; Pub. L. 106–169, title III, §301(a), (c), title IV, §401(j), (k), Dec. 14, 1999, 113 Stat. 1857, 1858; Pub. L. 109–171, title VII, §§7301(b)(1)(A), (B)(i), (iii), (2), (c), 7310(b), Feb. 8, 2006, 120 Stat. 141–143, 147.)
+(Aug. 14, 1935, ch. 531, title IV, §457, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2356;amended Pub. L. 95–171, §11, Nov. 12, 1977, 91 Stat. 1357; Pub. L. 97–35, title XXIII, §2332(e), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2640(b), July 18, 1984, 98 Stat. 1145; Pub. L. 98–378, §§7(a), 11(a), Aug. 16, 1984, 98 Stat. 1315, 1317; Pub. L. 99–514, title XVIII, §§1883(b)(6), 1899(a), Oct. 22, 1986, 100 Stat. 2917, 2957; Pub. L. 100–203, title IX, §9141(a)(1), Dec. 22, 1987, 101 Stat. 1330–321; Pub. L. 100–485, title I, §102(b), Oct. 13, 1988, 102 Stat. 2346; Pub. L. 104–193, title III, §302(a), Aug. 22, 1996, 110 Stat. 2200; Pub. L. 105–33, title V, §§5532(a), (b)(1), (c)–(h), 5547, Aug. 5, 1997, 111 Stat. 626, 627, 632; Pub. L. 106–169, title III, §301(a), (c), title IV, §401(j), (k), Dec. 14, 1999, 113 Stat. 1857, 1858; Pub. L. 109–171, title VII, §§7301(b)(1)(A), (B)(i), (iii), (2), (c), 7310(b), Feb. 8, 2006, 120 Stat. 141–143, 147.)
 
 #### References in Text
 
@@ -152,7 +152,7 @@ Parts A and E of this subchapter, referred to in subsecs. (b)(1)(A), (2)(A), (c)
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–171, §7301(b)(1)(A), which directed general amendment of subsec. (a), was executed by adding pars. (1) to (5) and striking out former pars. (1) to (6), to reflect the probable intent of Congress and the amendment by Pub. L. 109–171, §7301(b)(1)(B)(iii). See below. Prior to amendment, pars. (1) to (6) related to families receiving assistance, families that formerly received assistance, families that never received assistance, families under certain agreements, the Secretary's report to Congress, and a State option for applicability, respectively.
+<b>2006</b>—Subsec. (a). Pub. L. 109–171, §7301(b)(1)(A), which directed general amendment of subsec. (a), was executed by adding pars. (1) to (5) and striking out former pars. (1) to (6), to reflect the probable intent of Congress and the amendment by Pub. L. 109–171, §7301(b)(1)(B)(iii). See below. Prior to amendment, pars. (1) to (6) related to families receiving assistance, families that formerly received assistance, families that never received assistance, families under certain agreements, the Secretary's report to Congress, and a State option for applicability, respectively.
 
 Subsec. (a)(3). Pub. L. 109–171, §7310(b), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “In the case of any other family, the State shall distribute the amount so collected to the family.”
 
@@ -166,7 +166,7 @@ Subsec. (b). Pub. L. 109–171, §7301(c), amended heading and text of subsec. (
 
 Subsec. (c)(5). Pub. L. 109–171, §7301(b)(2), added par. (5).
 
-1999—Subsec. (a). Pub. L. 106–169, §301(c)(1), substituted “subsections (d) and (e)” for “subsections (e) and (f)” in introductory provisions.
+<b>1999</b>—Subsec. (a). Pub. L. 106–169, §301(c)(1), substituted “subsections (d) and (e)” for “subsections (e) and (f)” in introductory provisions.
 
 Subsec. (a)(2)(B)(i)(I). Pub. L. 106–169, §401(j), made technical amendment to reference in original act which appears in text as reference to August 22, 1996.
 
@@ -194,7 +194,7 @@ Pub. L. 106–169, §301(c)(3), struck out at end “For purposes of subsection 
 
 Subsec. (f). Pub. L. 106–169, §301(c)(4), redesignated subsec. (f) as (e).
 
-1997—Subsec. (a). Pub. L. 105–33, §5547(1), substituted “subsections (e) and (f)” for “subsection (e)” in introductory provisions.
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §5547(1), substituted “subsections (e) and (f)” for “subsection (e)” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 105–33, §5532(c), inserted concluding provisions.
 
@@ -218,17 +218,17 @@ Subsec. (c)(3)(B). Pub. L. 105–33, §5532(h)(2), substituted “as such sectio
 
 Subsec. (f). Pub. L. 105–33, §5547(2), added subsec. (f).
 
-1996—Pub. L. 104–193 substituted “collected support” for “proceeds” in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (d) relating to distribution of amounts collected by States as child support during 15 months beginning July 1, 1975, and during any fiscal year beginning after Sept. 30, 1976, distribution of support collected for families whose assistance under part A of this subchapter has terminated, and distribution of support collected on behalf of children for whom foster care maintenance payments were being made.
+<b>1996</b>—Pub. L. 104–193 substituted “collected support” for “proceeds” in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (d) relating to distribution of amounts collected by States as child support during 15 months beginning July 1, 1975, and during any fiscal year beginning after Sept. 30, 1976, distribution of support collected for families whose assistance under part A of this subchapter has terminated, and distribution of support collected on behalf of children for whom foster care maintenance payments were being made.
 
-1988—Subsec. (b)(1). Pub. L. 100–485 substituted “of such amounts as are collected periodically which represent monthly support payments, the first $50 of any payments for a month received in that month, and the first $50 of payments for each prior month received in that month which were made by the absent parent in the month when due,” for “the first $50 of such amounts as are collected periodically which represent monthly support payments”.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–485 substituted “of such amounts as are collected periodically which represent monthly support payments, the first $50 of any payments for a month received in that month, and the first $50 of payments for each prior month received in that month which were made by the absent parent in the month when due,” for “the first $50 of such amounts as are collected periodically which represent monthly support payments”.
 
-1987—Subsec. (c). Pub. L. 100–203 amended subsec. (c) generally, revising and restating as single unnumbered subsection provisions of former pars. (1) and (2).
+<b>1987</b>—Subsec. (c). Pub. L. 100–203 amended subsec. (c) generally, revising and restating as single unnumbered subsection provisions of former pars. (1) and (2).
 
-1986—Subsec. (b)(3). Pub. L. 99–514, §1899(a), inserted “or administrative” after “court”.
+<b>1986</b>—Subsec. (b)(3). Pub. L. 99–514, §1899(a), inserted “or administrative” after “court”.
 
 Subsec. (c). Pub. L. 99–514, §1883(b)(6), substituted “subsection (b)(4)(A) and (B)” for “subsection (b)(3)(A) and (B)”.
 
-1984—Subsec. (b). Pub. L. 98–378, §11(a)(2), inserted “(subject to subsection (d) of this section)” after “shall” in provisions preceding par. (1).
+<b>1984</b>—Subsec. (b). Pub. L. 98–378, §11(a)(2), inserted “(subject to subsection (d) of this section)” after “shall” in provisions preceding par. (1).
 
 Subsec. (b)(1). Pub. L. 98–369, §2640(b)(1), added par. (1). Former par. (1) redesignated (2).
 
@@ -244,11 +244,11 @@ Subsec. (c)(2). Pub. L. 98–378, §7(a)(2), substituted “any amount so collec
 
 Subsec. (d). Pub. L. 98–378, §11(a)(1), added subsec. (d).
 
-1981—Subsec. (b). Pub. L. 97–35, §2332(e)(1), substituted in provision preceding par. (1) “as support” for “as child support”.
+<b>1981</b>—Subsec. (b). Pub. L. 97–35, §2332(e)(1), substituted in provision preceding par. (1) “as support” for “as child support”.
 
 Subsec. (c). Pub. L. 97–35, §2332(e)(2), substituted in provision preceding par. (1) “whom support payments” for “whom child support payments” and in pars. (1) and (2) “amounts of support payments” for “amounts of child support payments” in two places and “amounts of support so” for “amounts of child support so”.
 
-1977—Subsec. (c). Pub. L. 95–171, §11(a)–(c), in par. (1), substituted “amounts of child support payments which represent monthly support payments” for “such support payments” and inserted “, which represent monthly support payments,” after “amounts so collected”; in par. (2), substituted “amounts of child support payments which represent monthly support payments” for “such support payments” and inserted “, which represents monthly support payments,” after “amount so collected”; changed to a comma the period at end of par. (2); and inserted provision for distribution of child support proceeds.
+<b>1977</b>—Subsec. (c). Pub. L. 95–171, §11(a)–(c), in par. (1), substituted “amounts of child support payments which represent monthly support payments” for “such support payments” and inserted “, which represent monthly support payments,” after “amounts so collected”; in par. (2), substituted “amounts of child support payments which represent monthly support payments” for “such support payments” and inserted “, which represents monthly support payments,” after “amount so collected”; changed to a comma the period at end of par. (2); and inserted provision for distribution of child support proceeds.
 
 #### Effective Date of 2006 Amendment
 
@@ -300,7 +300,7 @@ Section 1899(b) of Pub. L. 99–514 provided that: “The amendment made by this
 
 Section 7(b) of Pub. L. 98–378 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective October 1, 1984.”
 
-Amendment by section 11(a) of Pub. L. 98–378 effective Oct. 1, 1984, and applicable to collections made on or after that date, see section 11(e) of Pub. L. 98–378, set out as a note under section 654 of this title.
+Amendment by section 11(a) of Pub. L. 98–378 effective Oct. 1, 1984, and applicable to collections made onor after that date, see section 11(e) of Pub. L. 98–378, set out as a note under section 654 of this title.
 
 Section 2646 of Pub. L. 98–369 provided that: “Except as otherwise specifically provided in this subtitle \[subtitle B (§§2611–2646) of Pub. L. 98–369\], the provisions of parts 1 and 2 \[sections 2611 to 2642 of Pub. L. 98–369, enacting section 1320b–6 of this title, amending this section and sections 602, 609, 614, 615, 1320a–6, 1382 to 1382b, 1382j, and 1383 of this title and section 51 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under sections 602, 609, 614, 1320a–6, 1382a, and 1383 of this title and section 51 of Title 26\] and the amendments made thereby shall take effect on October 1, 1984.”
 

@@ -86,7 +86,7 @@ A prior section 1070a–23, Pub. L. 89–329, title IV, §404C, as added Pub. L.
 
 #### Amendments
 
-2008—Pub. L. 110–315, §404(c)(1), substituted “Applications” for “Eligible entity plans” in section catchline.
+<b>2008</b>—Pub. L. 110–315, §404(c)(1), substituted “Applications” for “Eligible entity plans” in section catchline.
 
 Subsec. (a). Pub. L. 110–315, §404(c)(2)(A), substituted “Application” for “Plan” in heading.
 

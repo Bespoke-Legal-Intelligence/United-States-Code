@@ -56,13 +56,13 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–11, §3001(1), substituted “fiscal year 2006 and each fiscal year thereafter” for “each of fiscal years 2006 through 2011”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–11, §3001(1), substituted “fiscal year 2006 and each fiscal year thereafter” for “each of fiscal years 2006 through 2011”.
 
 Subsecs. (d), (e). Pub. L. 111–11, §3001(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-2005—Subsec. (a). Pub. L. 109–54 substituted “each of fiscal years 2006 through 2011” for “fiscal year 1999, 2000 and 2001, and fiscal years 2002 through 2005”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–54 substituted “each of fiscal years 2006 through 2011” for “fiscal year 1999, 2000 and 2001, and fiscal years 2002 through 2005”.
 
-2001—Subsec. (a). Pub. L. 107–63 inserted “and fiscal years 2002 through 2005,” before “to the extent funds are otherwise available”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–63 inserted “and fiscal years 2002 through 2005,” before “to the extent funds are otherwise available”.
 
 #### Similar Provisions
 

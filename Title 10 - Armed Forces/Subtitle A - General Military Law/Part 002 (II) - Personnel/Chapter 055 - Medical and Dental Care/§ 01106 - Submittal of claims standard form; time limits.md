@@ -12,7 +12,7 @@ Time for Submission.—A claim for payment for services provided under this chap
 
 #### Amendments
 
-1997—Pub. L. 105–85 substituted “: standard form; time limits” for “under CHAMPUS” in section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>1997</b>—Pub. L. 105–85 substituted “: standard form; time limits” for “under CHAMPUS” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a)
 
@@ -64,7 +64,7 @@ System Functions.—The claims processing system shall include at least the foll
 
 &emsp;&emsp;“(C) the services available to beneficiaries under each insurance plan, medical service plan, or health plan, and the payment required of the beneficiaries and the insurer, medical service, or health plan for such services under the plan.
 
-&emsp;“(2) The ability to receive in electronic or written form claims submitted by insurers, medical services, and health plans for services provided to covered beneficiaries.
+&emsp;“(2) The ability to receive in electronic or written form claims submitted by insurers, medical services,and health plans for services provided to covered beneficiaries.
 
 &emsp;“(3) The ability to process, adjudicate, and pay (by electronic or other means) such claims.
 

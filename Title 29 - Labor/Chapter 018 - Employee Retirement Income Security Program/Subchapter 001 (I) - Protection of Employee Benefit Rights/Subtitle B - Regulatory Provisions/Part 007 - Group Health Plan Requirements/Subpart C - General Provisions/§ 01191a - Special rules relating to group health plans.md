@@ -48,7 +48,7 @@ For purposes of this part—
 
 &emsp;In the case of a group health plan, the term “participant” also includes—
 
-&emsp;&emsp;(A) in connection with a group health plan maintained by a partnership, an individualwho is a partner in relation to the partnership, or
+&emsp;&emsp;(A) in connection with a group health plan maintained by a partnership, an individual who is a partner in relation to the partnership, or
 
 &emsp;&emsp;(B) in connection with a group health plan maintained by a self-employed individual (under which one or more employees are participants), the self-employed individual,
 
@@ -58,7 +58,7 @@ For purposes of this part—
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–204, §603(b)(2), inserted “(other than section 1185 of this title)” after “part”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–204, §603(b)(2), inserted “(other than section 1185 of this title)” after “part”.
 
 Subsecs. (b), (c)(1) to (3). Pub. L. 104–204, §603(b)(3)(I)–(L), made technical amendment to references in original act which appear in text as references to section 1191b of this title.
 

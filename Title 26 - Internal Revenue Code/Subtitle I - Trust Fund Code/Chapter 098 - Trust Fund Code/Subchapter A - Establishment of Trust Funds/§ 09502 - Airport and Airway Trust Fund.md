@@ -2,7 +2,7 @@
 
 #### (a) Creation of Trust Fund
 
-There is established in the Treasury of the United States a trust fund to be known as the “Airport and Airway Trust Fund”, consisting of such amounts as may be appropriated, credited, or paid into the Airport and Airway Trust Fund as provided in this section, section 9503(c)(7),<sup>1</sup> or section 9602(b).
+There is established in the Treasury of the United States a trust fund to be known as the “Airport and Airway Trust Fund”, consisting of such amounts as may be appropriated, credited, or paid into the Airport and Airway Trust Fund as provided in this section, section 9503(c)(5), or section 9602(b).
 
 #### (b) Transfers to Airport and Airway Trust Fund
 
@@ -28,9 +28,9 @@ There are hereby authorized to be appropriated to the Airport and Airway Trust F
 
 #### (1) Airport and airway program
 
-&emsp;Amounts in the Airport and Airway Trust Fund shall be available, as provided by appropriation Acts, for making expenditures before April 1, 2010, to meet those obligations of the United States—
+&emsp;Amounts in the Airport and Airway Trust Fund shall be available, as provided by appropriation Acts, for making expenditures before April 1, 2011, to meet those obligations of the United States—
 
-&emsp;&emsp;(A) incurred under title I of the Airport and Airway Development Act of 1970 or of the Airport and Airway Development Act Amendments of 1976 or of the Aviation Safety and Noise Abatement Act of 1979 or under the Fiscal Year 1981 Airport Development Authorization Act or the provisions of the Airport and Airway Improvement Act of 1982 or the Airport and Airway Safety and Capacity Expansion Act of 1987 or the Federal Aviation Administration Research, Engineering, and Development Authorization Act of 1990 or the Aviation Safety and Capacity Expansion Act of 1990 or the Airport and Airway Safety, Capacity, Noise Improvement, and Intermodal Transportation Act of 1992 or the Airport Improvement Program Temporary Extension Act of 1994 or the Federal Aviation Administration Authorization Act of 1994 or the Federal Aviation Reauthorization Act of 1996 or the provisions of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 providing for payments from the Airport and Airway Trust Fund or the Interim Federal Aviation Administration Authorization Act or section 6002 of the 1999 Emergency Supplemental Appropriations Act, Public Law 106–59, or the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century or the Aviation and Transportation Security Act or the Vision 100—Century of Aviation Reauthorization Act or any joint resolution making continuing appropriations for the fiscal year 2008 or the Department of Transportation Appropriations Act, 2008 or the Airport and Airway Extension Act of 2008 or the Federal Aviation Administration Extension Act of 2008 or the Federal Aviation Administration Extension Act of 2008, Part II or the Federal Aviation Administration Extension Act of 2009 or any joint resolution making continuing appropriations for the fiscal year 2010 or the Fiscal Year 2010 Federal Aviation Administration Extension Act or the Fiscal Year 2010 Federal Aviation Administration Extension Act, Part II;
+&emsp;&emsp;(A) incurred under title I of the Airport and Airway Development Act of 1970 or of the Airport and Airway Development Act Amendments of 1976 or of the Aviation Safety and Noise Abatement Act of 1979 or under the Fiscal Year 1981 Airport Development Authorization Act or the provisions of the Airport and Airway Improvement Act of 1982 or the Airport and Airway Safety and Capacity Expansion Act of 1987 or the Federal Aviation Administration Research, Engineering, and Development Authorization Act of 1990 or the Aviation Safety and Capacity Expansion Act of 1990 or the Airport and Airway Safety, Capacity, Noise Improvement, and Intermodal Transportation Act of 1992 or the Airport Improvement Program Temporary Extension Act of 1994 or the Federal Aviation Administration Authorization Act of 1994 or the Federal Aviation Reauthorization Act of 1996 or the provisions of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 providing for payments from the Airport and Airway Trust Fund or the Interim Federal Aviation Administration Authorization Act or section 6002 of the 1999 Emergency Supplemental Appropriations Act, Public Law 106–59, or the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century or the Aviation and Transportation Security Act or the Vision 100—Century of Aviation Reauthorization Act or any joint resolution making continuing appropriations for the fiscal year 2008 or the Department of Transportation Appropriations Act, 2008 or the Airport and Airway Extension Act of 2008 or the Federal Aviation Administration Extension Act of 2008 or the Federal Aviation Administration Extension Act of 2008, Part II or the Federal Aviation Administration Extension Act of 2009 or any joint resolution making continuing appropriations for the fiscal year 2010 or the Fiscal Year 2010 Federal Aviation Administration Extension Act or the Fiscal Year 2010 Federal Aviation Administration Extension Act, Part II or the Federal Aviation Administration Extension Act of 2010 or the Airport and Airway Extension Act of 2010 or the Airport and Airway Extension Act of 2010, Part II or the Airline Safety andFederal Aviation Administration Extension Act of 2010 or the Airport and Airway Extension Act of 2010, Part III or the Airport and Airway Extension Act of 2010, Part IV;
 
 &emsp;&emsp;(B) heretofore or hereafter incurred under part A of subtitle VII of title 49, United States Code, which are attributable to planning, research and development, construction, or operation and maintenance of—
 
@@ -50,7 +50,7 @@ There are hereby authorized to be appropriated to the Airport and Airway Trust F
 
 #### (2) Transfers from Airport and Airway Trust Fund on account of certain refunds
 
-&emsp;The Secretary of the Treasury shall pay from time to time from the Airport and Airway Trust Fund into the general fund of the Treasury amounts equivalent to the amounts paid after August 31, 1982, in respect of fuel used in aircraft, under section 6420 (relating to amounts paid in respect of gasoline used on farms,<sup>2</sup> 6421 (relating to amounts paid in respect of gasoline used for certain nonhighway purposes), or 6427 (relating to fuels not used for taxable purposes) (other than subsection (<i>l</i>)(4) thereof).
+&emsp;The Secretary of the Treasury shall pay from time to time from the Airport and Airway Trust Fund into the general fund of the Treasury amounts equivalent to the amounts paid after August 31, 1982, in respect of fuel used in aircraft, under section 6420 (relating to amounts paid in respect of gasoline used on farms,<sup>1</sup> 6421 (relating to amounts paid in respect of gasoline used for certain nonhighway purposes), or 6427 (relating to fuels not used for taxable purposes) (other than subsection (<i>l</i>)(4) thereof).
 
 #### (3) Transfers from the Airport and Airway Trust Fund on account of certain section 34 credits
 
@@ -80,17 +80,15 @@ There are hereby authorized to be appropriated to the Airport and Airway Trust F
 
 #### (2) Exception for prior obligations
 
-&emsp;Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before April 1, 2010, in accordance with the provisions of this section.
+&emsp;Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before April 1, 2011, in accordance with the provisions of this section.
 
-(Added Pub. L. 97–248, title II, §281(a), Sept. 3, 1982, 96 Stat. 565; amended Pub. L. 97–424, title IV, §426(e), Jan. 6, 1983, 96 Stat. 2168; Pub. L. 98–369, div. A, title IV, §474(r)(42), title VII, §735(c)(15), July 18, 1984, 98 Stat. 847, 984; Pub. L. 99–499, title V, §521(b)(2), Oct. 17, 1986, 100 Stat. 1778; Pub. L. 100–203, title X, §10502(d)(12), (g), Dec. 22, 1987, 101 Stat. 1330–444, 1330–446; Pub. L. 100–223, title IV, §§402(a)(3), 403, Dec. 30, 1987, 101 Stat. 1532; Pub. L. 101–239, title VII, §7822(b)(5), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 101–508, title XI, §§11211(b)(6)(G), 11213(c), (d)(3), (4), Nov. 5, 1990, 104 Stat. 1388–426, 1388–435, 1388–436; Pub. L. 102–581, title V, §§501, 502(a), Oct. 31, 1992, 106 Stat. 4898; Pub. L. 103–66, title XIII, §13242(d)(32), (33), Aug. 10, 1993, 107 Stat. 526, 527; Pub. L. 103–260, title I, §108, May 26, 1994, 108 Stat. 700; Pub. L. 103–272, §5(g)(3), July 5, 1994, 108 Stat. 1375; Pub. L. 103–305, title IV, §401, Aug. 23, 1994, 108 Stat. 1594; Pub. L. 104–188, title I, §§1609(c), (g)(4)(C), (D), 1703(n)(10), Aug. 20, 1996, 110 Stat. 1841, 1843, 1877; Pub. L. 104–264, title VIII, §806, title X, §1001, Oct. 9, 1996, 110 Stat. 3274, 3278; Pub. L. 105–2, §2(c), Feb. 28, 1997, 111 Stat. 5; Pub. L. 105–34, title X, §1031(d), title XVI, §1604(g)(5), Aug. 5, 1997, 111 Stat. 932, 1099; Pub. L. 105–206, title VI, §§6010(g)(2), 6023(31), July 22, 1998, 112 Stat. 814, 826; Pub. L. 106–181, title X, §1001, Apr. 5, 2000, 114 Stat. 196; Pub. L. 107–71, title I, §123(b), Nov. 19, 2001, 115 Stat. 631; Pub. L. 108–176, title IX, §901, Dec. 12, 2003, 117 Stat. 2597; Pub. L. 108–357, title VIII, §853(d)(2)(N), (O), Oct. 22, 2004, 118 Stat. 1613, 1614; Pub. L. 109–59, title XI, §11161(c)(2)(A), (B), (d), Aug. 10, 2005, 119 Stat. 1972; Pub. L. 109–432, div. A, title IV, §420(b)(5), Dec. 20, 2006, 120 Stat. 2969; Pub. L. 110–92, §149(b), Sept. 29, 2007, 121 Stat. 996; Pub. L. 110–161, div. K, title I, §116(c), Dec. 26, 2007, 121 Stat. 2382; Pub. L. 110–172, §11(f)(1), Dec. 29, 2007, 121 Stat. 2489; Pub. L. 110–190, §3(a), (b), Feb. 28, 2008, 122 Stat. 643; Pub. L. 110–253, §3(a), (b), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §3(a), (b), Sept. 30, 2008, 122 Stat. 3717; Pub. L. 111–12, §3(a), (b), Mar. 30, 2009, 123 Stat. 1457; Pub. L. 111–68, div. B, §156(c), Oct. 1, 2009, 123 Stat. 2050; Pub. L. 111–69, §3(a), (b), Oct. 1, 2009, 123 Stat. 2054; Pub. L. 111–116, §3(a), (b), Dec. 16, 2009, 123 Stat. 3031.)
+(Added Pub. L. 97–248, title II, §281(a), Sept. 3, 1982, 96 Stat. 565; amended Pub. L. 97–424, title IV, §426(e), Jan. 6, 1983, 96 Stat. 2168; Pub. L. 98–369, div. A, title IV, §474(r)(42), title VII, §735(c)(15), July 18, 1984, 98 Stat. 847, 984; Pub. L. 99–499, title V, §521(b)(2), Oct. 17, 1986, 100 Stat. 1778; Pub. L. 100–203, title X, §10502(d)(12), (g), Dec. 22, 1987, 101 Stat. 1330–444, 1330–446; Pub. L. 100–223, title IV, §§402(a)(3), 403, Dec. 30, 1987, 101 Stat. 1532; Pub. L. 101–239, title VII, §7822(b)(5), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 101–508, title XI, §§11211(b)(6)(G), 11213(c), (d)(3), (4), Nov. 5, 1990, 104 Stat. 1388–426, 1388–435, 1388–436; Pub. L. 102–581, title V, §§501, 502(a), Oct. 31, 1992, 106 Stat. 4898; Pub. L. 103–66, title XIII, §13242(d)(32), (33), Aug. 10, 1993, 107 Stat. 526, 527; Pub. L. 103–260, title I, §108, May 26, 1994, 108 Stat. 700; Pub. L. 103–272, §5(g)(3), July 5, 1994, 108 Stat. 1375; Pub. L. 103–305, title IV, §401, Aug. 23, 1994, 108 Stat. 1594; Pub. L. 104–188, title I, §§1609(c), (g)(4)(C), (D), 1703(n)(10), Aug. 20, 1996, 110 Stat. 1841, 1843, 1877; Pub. L. 104–264, title VIII, §806,title X, §1001, Oct. 9, 1996, 110 Stat. 3274, 3278; Pub. L. 105–2, §2(c), Feb. 28, 1997, 111 Stat. 5; Pub. L. 105–34, title X, §1031(d), title XVI, §1604(g)(5), Aug. 5, 1997, 111 Stat. 932, 1099; Pub. L. 105–206, title VI, §§6010(g)(2), 6023(31), July 22, 1998, 112 Stat. 814, 826; Pub. L. 106–181, title X, §1001, Apr. 5, 2000, 114 Stat. 196; Pub. L. 107–71, title I, §123(b), Nov. 19, 2001, 115 Stat. 631; Pub. L. 108–176, title IX, §901, Dec. 12, 2003, 117 Stat. 2597; Pub. L. 108–357, title VIII, §853(d)(2)(N), (O), Oct. 22, 2004, 118 Stat. 1613, 1614; Pub. L. 109–59, title XI, §11161(c)(2)(A), (B), (d), Aug. 10, 2005, 119 Stat. 1972; Pub. L. 109–432, div. A, title IV, §420(b)(5), Dec. 20, 2006, 120 Stat. 2969; Pub. L. 110–92, §149(b), Sept. 29, 2007, 121 Stat. 996; Pub. L. 110–161, div. K, title I, §116(c), Dec. 26, 2007, 121 Stat. 2382; Pub. L. 110–172, §11(f)(1), Dec. 29, 2007, 121 Stat. 2489; Pub. L. 110–190, §3(a), (b), Feb. 28, 2008, 122 Stat. 643; Pub. L. 110–253, §3(a), (b), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §3(a), (b), Sept. 30, 2008, 122 Stat. 3717; Pub. L. 111–12, §3(a), (b), Mar. 30, 2009, 123 Stat. 1457; Pub. L. 111–68, div. B, §156(c), Oct. 1, 2009, 123 Stat. 2050; Pub. L. 111–69, §3(a), (b), Oct. 1, 2009, 123 Stat. 2054; Pub. L. 111–116, §3(a), (b), Dec. 16, 2009, 123 Stat. 3031; Pub. L. 111–147, title IV, §444(b)(1), Mar. 18, 2010, 124 Stat. 94; Pub. L. 111–153, §3(a), (b), Mar. 31, 2010, 124 Stat. 1084; Pub. L. 111–161, §3(a), (b), Apr. 30, 2010, 124 Stat. 1126; Pub. L. 111–197, §3(a), (b), July 2, 2010, 124 Stat. 1353; Pub. L. 111–216, title I, §102(a), (b), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §3(a), (b), Sept. 30, 2010, 124 Stat. 2627; Pub. L. 111–329, §3(a), (b), Dec. 22, 2010, 124 Stat. 3566.)
 
 #### References in Text
 
-Section 9503(c)(7), referred to in subsec. (a), was redesignated as section 9503(c)(6) by Pub. L. 110–172, §11(a)(44), Dec. 29, 2007, 121 Stat. 2488.
-
 Title I of the Airport and Airway Development Act of 1970, referred to in subsec. (d)(1)(A), is title I of Pub. L. 91–258, May 21, 1970, 84 Stat. 219, as amended, which was classified principally to chapter 25 (§1701 et seq.) of former Title 49, Transportation. Sections 1 through 30 of title I of Pub. L. 91–258, which enacted sections 1701 to 1703, 1711 to 1713, and 1714 to 1730 of former Title 49, and a provision set out as a note under section 1701 of former Title 49, were repealed by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695. Sections 31, 51, 52(a), (b)(4), (6), (c), (d), and 53 of title I of Pub. L. 91–258 were repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
 
-The Airport and Airway Development Act Amendments of 1976, referred to in subsec. (d)(1)(A), is Pub. L.94–353, July 12, 1976, 90 Stat. 871, as amended, which was repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
+The Airport and Airway Development Act Amendments of 1976, referred to in subsec. (d)(1)(A), is Pub. L. 94–353, July 12, 1976, 90 Stat. 871, as amended, which was repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
 
 The Aviation Safety and Noise Abatement Act of 1979, referred to in subsec. (d)(1)(A), is Pub. L. 96–193, Feb. 18, 1980, 94 Stat. 50, which was classified principally to chapter 30 (§2101 et seq.) of former Title 49, and was substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as subchapter I (§47501 et seq.) of chapter 475 of Title 49.
 
@@ -110,7 +108,7 @@ The Airport Improvement Program Temporary Extension Act of 1994, referred to in 
 
 The Federal Aviation Administration Authorization Act of 1994, referred to in subsec. (d)(1)(A), is Pub. L. 103–305, Aug. 23, 1994, 108 Stat. 1569. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 40101 of Title 49 and Tables.
 
-The Federal Aviation Reauthorization Act of 1996, referred to in subsec. (d)(1)(A), is Pub. L. 104–264, Oct. 9, 1996, 110 Stat. 3213. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 40101 of Title 49, Transportation, and Tables.
+The Federal Aviation Reauthorization Act of 1996, referred to in subsec. (d)(1)(A), is Pub. L. 104–264, Oct. 9,1996, 110 Stat. 3213. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 40101 of Title 49, Transportation, and Tables.
 
 The Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, referred to in subsec. (d)(1)(A), is Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681, as amended. For complete classification of this Act to the Code, see Tables.
 
@@ -132,7 +130,7 @@ The Airport and Airway Extension Act of 2008, referred to in subsec. (d)(1)(A), 
 
 The Federal Aviation Administration Extension Act of 2008, referred to in subsec. (d)(1)(A), is Pub. L. 110–253, June 30, 2008, 122 Stat. 2417. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 1 of this title and Tables.
 
-The Federal Aviation Administration Extension Act of 2008, Part II, referred to in subsec. (d)(1)(A), is Pub. L. 110–330, Sept. 30, 2008, 122 Stat. 3717. For complete classification of this Act to the Code, see Short Title of2008 Amendment note set out under section 1 of this title and Tables.
+The Federal Aviation Administration Extension Act of 2008, Part II, referred to in subsec. (d)(1)(A), is Pub. L. 110–330, Sept. 30, 2008, 122 Stat. 3717. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 1 of this title and Tables.
 
 The Federal Aviation Administration Extension Act of 2009, referred to in subsec. (d)(1)(A), is Pub. L. 111–12, Mar. 30, 2009, 123 Stat. 1457. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 1 of this title and Tables.
 
@@ -140,11 +138,61 @@ The Fiscal Year 2010 Federal Aviation Administration Extension Act, referred to 
 
 The Fiscal Year 2010 Federal Aviation Administration Extension Act, Part II, referred to in subsec. (d)(1)(A), is Pub. L. 111–116, Dec. 16, 2009, 123 Stat. 3031. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 1 of this title and Tables.
 
-The date of the enactment of the last Act referred to in subparagraph (A), referred to in subsec. (d)(1), is the date of enactment of the Fiscal Year 2010 Federal Aviation Administration Extension Act, Part II, Pub. L. 111–116, which was approved Dec. 16, 2009.
+The Federal Aviation Administration Extension Act of 2010, referred to in subsec. (d)(1)(A), is Pub. L. 111–153, Mar. 31, 2010, 124 Stat. 1084. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 1 of this title and Tables.
+
+The Airport and Airway Extension Act of 2010, referred to in subsec. (d)(1)(A), is Pub. L. 111–161, Apr. 30, 2010, 124 Stat. 1126. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 1 of this title and Tables.
+
+The Airport and Airway Extension Act of 2010, Part II, referred to in subsec. (d)(1)(A), is Pub. L. 111–197, July 2, 2010, 124 Stat. 1353. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 1 of this title and Tables.
+
+The Airline Safety and Federal Aviation Administration Extension Act of 2010, referred to in subsec. (d)(1)(A), is Pub. L. 111–216, Aug. 1, 2010, 124 Stat. 2348. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 40101 of Title 49, Transportation, and Tables.
+
+The Airport and Airway Extension Act of 2010, Part III, referred to in subsec. (d)(1)(A), is Pub. L. 111–249, Sept. 30, 2010, 124 Stat. 2627. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 1 of this title and Tables.
+
+The Airport and Airway Extension Act of 2010, Part IV, referred to in subsec. (d)(1)(A), is Pub. L. 111–329, Dec. 22, 2010, 124 Stat. 3566. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 1 of this title and Tables.
+
+The date of the enactment of the last Act referred to in subparagraph (A), referred to in subsec. (d)(1), is the date of the enactment of the Airport and Airway Extension Act of 2010, Part IV, Pub. L. 111–329, which was approved Dec. 22, 2010.
 
 #### Amendments
 
-2009—Subsec. (d)(1). Pub. L. 111–116, §3(a)(1), substituted “April 1, 2010” for “January 1, 2010” in introductory provisions.
+<b>2010</b>—Subsec. (a). Pub. L. 111–147 substituted “section 9503(c)(5)” for “section 9503(c)(7)”.
+
+Subsec. (d)(1). Pub. L. 111–329, §3(a)(1), substituted “April 1, 2011” for “January 1, 2011” in introductory provisions.
+
+Pub. L. 111–249, §3(a)(1), substituted “January 1, 2011” for “October 1, 2010” in introductory provisions.
+
+Pub. L. 111–216, §102(a)(1), substituted “October 1, 2010” for “August 2, 2010” in introductory provisions.
+
+Pub. L. 111–197, §3(a)(1), substituted “August 2, 2010” for “July 4, 2010” in introductory provisions.
+
+Pub. L. 111–161, §3(a)(1), substituted “July 4, 2010” for “May 1, 2010” in introductory provisions.
+
+Pub. L. 111–153, §3(a)(1), substituted “May 1, 2010” for “April 1, 2010” in introductory provisions.
+
+Subsec. (d)(1)(A). Pub. L. 111–329, §3(a)(2), inserted “or the Airport and Airway Extension Act of 2010, Part IV” before semicolon at end.
+
+Pub. L. 111–249, §3(a)(2), inserted “or the Airport and Airway Extension Act of 2010, Part III” before semicolon at end.
+
+Pub. L. 111–216, §102(a)(2), inserted “or the Airline Safety and Federal Aviation Administration Extension Act of 2010” before semicolon at end.
+
+Pub. L. 111–197, §3(a)(2), inserted “or the Airport and Airway Extension Act of 2010, Part II” before semicolon at end.
+
+Pub. L. 111–161, §3(a)(2), inserted “or the Airport and Airway Extension Act of 2010” before semicolon at end.
+
+Pub. L. 111–153, §3(a)(2), inserted “or the Federal Aviation Administration Extension Act of 2010” before semicolon at end.
+
+Subsec. (e)(2). Pub. L. 111–329, §3(b), substituted “April 1, 2011” for “January 1, 2011”.
+
+Pub. L. 111–249, §3(b), substituted “January 1, 2011” for “October 1, 2010”.
+
+Pub. L. 111–216, §102(b), substituted “October 1, 2010” for “August 2, 2010”.
+
+Pub. L. 111–197, §3(b), substituted “August 2, 2010” for “July 4, 2010”.
+
+Pub. L. 111–161, §3(b), substituted “July 4, 2010” for “May 1, 2010”.
+
+Pub. L. 111–153, §3(b), substituted “May 1, 2010” for “April 1, 2010”.
+
+<b>2009</b>—Subsec. (d)(1). Pub. L. 111–116, §3(a)(1), substituted “April 1, 2010” for “January 1, 2010” in introductory provisions.
 
 Pub. L. 111–69, §3(a)(1), substituted “January 1, 2010” for “October 1, 2009” in introductory provisions.
 
@@ -164,7 +212,7 @@ Pub. L. 111–69, §3(b), substituted “January 1, 2010” for “October 1, 20
 
 Pub. L. 111–12, §3(b), substituted “October 1, 2009” for “April 1, 2009”.
 
-2008—Subsec. (d)(1). Pub. L. 110–330, §3(a)(1), substituted “April 1, 2009” for “October 1, 2008” in introductory provisions.
+<b>2008</b>—Subsec. (d)(1). Pub. L. 110–330, §3(a)(1), substituted “April 1, 2009” for “October 1, 2008” in introductory provisions.
 
 Pub. L. 110–253, §3(a)(1), substituted “October 1, 2008” for “July 1, 2008” in introductory provisions.
 
@@ -182,7 +230,7 @@ Pub. L. 110–253, §3(b), substituted “October 1, 2008” for “July 1, 2008
 
 Pub. L. 110–190, §3(b), which directed substitution of “July 1, 2008” for “March 1, 2008” in subsec. (f)(2), was executed to subsec. (e)(2) as redesignated by Pub. L. 110–172, to reflect the probable intent of Congress. See 2007 Amendment notes below.
 
-2007—Subsec. (d)(1). Pub. L. 110–161, §116(c)(1)(A), substituted “March 1, 2008” for “October 1, 2007” in introductory provisions.
+<b>2007</b>—Subsec. (d)(1). Pub. L. 110–161, §116(c)(1)(A), substituted “March 1, 2008” for “October 1, 2007” in introductory provisions.
 
 Subsec. (d)(1)(A). Pub. L. 110–161, §116(c)(1)(B), inserted “or the Department of Transportation Appropriations Act, 2008” before semicolon at end.
 
@@ -198,11 +246,11 @@ Subsec. (f). Pub. L. 110–172 redesignated subsec. (f) as (e).
 
 Subsec. (f)(2). Pub. L. 110–161, §116(c)(2), substituted “March 1, 2008” for “October 1, 2007”.
 
-2006—Subsec. (d)(2). Pub. L. 109–432, §420(b)(5)(A), struck out “and (<i>l</i>)(5)” after “subsection (<i>l</i>)(4)”.
+<b>2006</b>—Subsec. (d)(2). Pub. L. 109–432, §420(b)(5)(A), struck out “and (<i>l</i>)(5)” after “subsection (<i>l</i>)(4)”.
 
 Subsec. (d)(3). Pub. L. 109–432, §420(b)(5)(B), struck out “or (5)” after “paragraph (4)”.
 
-2005—Subsec. (a). Pub. L. 109–59, §11161(c)(2)(A), substituted “appropriated, credited, or paid into the Airport and Airway Trust Fund as provided in this section, section 9503(c)(7), or section 9602(b)” for “appropriated or credited to the Airport and Airway Trust Fund as provided in this section or section 9602(b)”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §11161(c)(2)(A), substituted “appropriated, credited, or paid into the Airport and Airway Trust Fund as provided in this section, section 9503(c)(7), or section 9602(b)” for “appropriated or credited to the Airport and Airway Trust Fund as provided in this section or section 9602(b)”.
 
 Subsec. (b)(1)(A). Pub. L. 109–59, §11161(c)(2)(B)(i), substituted “section 4041(c)” for “subsections (c) and (e) of section 4041”.
 
@@ -212,7 +260,7 @@ Subsec. (d)(2). Pub. L. 109–59, §11161(d)(1), inserted “(other than subsect
 
 Subsec. (d)(3). Pub. L. 109–59, §11161(d)(2), inserted “(other than payments made by reason of paragraph (4) or (5) of section 6427(<i>l</i>))” after “section 34”.
 
-2004—Subsec. (b). Pub. L. 108–357, §853(d)(2)(O), amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: “There shall not be taken into account under paragraph (1) so much of the taxes imposed by sections 4081 and 4091 as are determined at the rates specified in section 4081(a)(2)(B) or 4091(b)(2).”
+<b>2004</b>—Subsec. (b). Pub. L. 108–357, §853(d)(2)(O), amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: “There shall not be taken into account under paragraph (1) so much of the taxes imposed by sections 4081 and 4091 as are determined at the rates specified in section 4081(a)(2)(B) or 4091(b)(2).”
 
 Subsec. (b)(1)(B) to (D). Pub. L. 108–357, §853(d)(2)(N), inserted “and” at end of subpar. (B), added subpar. (C), and struck out former subpars. (C) and (D) which read as follows:
 
@@ -220,21 +268,21 @@ Subsec. (b)(1)(B) to (D). Pub. L. 108–357, §853(d)(2)(N), inserted “and” 
 
 “(D) section 4091 (relating to aviation fuel), and”.
 
-2003—Subsec. (d)(1). Pub. L. 108–176, §901(a)(1), substituted “October 1, 2007” for “October 1, 2003” in introductory provisions.
+<b>2003</b>—Subsec. (d)(1). Pub. L. 108–176, §901(a)(1), substituted “October 1, 2007” for “October 1, 2003” in introductory provisions.
 
 Subsec. (d)(1)(A). Pub. L. 108–176, §901(a)(2), inserted “or the Vision 100—Century of Aviation Reauthorization Act” before semicolon at end.
 
 Subsec. (f)(2). Pub. L. 108–176, §901(b), substituted “October 1, 2007” for “October 1, 2003”.
 
-2001—Subsec. (d)(1)(A). Pub. L. 107–71 inserted “or the Aviation and Transportation Security Act” before semicolon at end.
+<b>2001</b>—Subsec. (d)(1)(A). Pub. L. 107–71 inserted “or the Aviation and Transportation Security Act” before semicolon at end.
 
-2000—Subsec. (d)(1). Pub. L. 106–181, §1001(a)(1), substituted “October 1, 2003” for “October 1, 1998” in introductory provisions.
+<b>2000</b>—Subsec. (d)(1). Pub. L. 106–181, §1001(a)(1), substituted “October 1, 2003” for “October 1, 1998” in introductory provisions.
 
 Subsec. (d)(1)(A). Pub. L. 106–181, §1001(a)(2), inserted before the semicolon at end “or the provisions of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 providing for payments from the Airport and Airway Trust Fund or the Interim Federal Aviation Administration Authorization Act or section 6002 of the 1999 Emergency Supplemental Appropriations Act, Public Law 106–59, or the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century”.
 
 Subsec. (f). Pub. L. 106–181, §1001(b), added subsec. (f).
 
-1998—Subsec. (b). Pub. L. 105–206, §6010(g)(2), moved concluding provisions from end of par. (1) to end of subsec. (b).
+<b>1998</b>—Subsec. (b). Pub. L. 105–206, §6010(g)(2), moved concluding provisions from end of par. (1) to end of subsec. (b).
 
 Subsec. (e). Pub. L. 105–206, §6023(31), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows:
 
@@ -246,11 +294,11 @@ Increases in tax revenues before 1993 to remain in general fund.—In the case o
 
 Certain taxes on alcohol mixtures to remain in general fund.—For purposes of this section, the amounts which would (but for this paragraph) be required to be appropriated under paragraphs (1), (2), and (3) of subsection (b) shall be reduced by—
 
-&emsp;“(A) 0.6 cent per gallon in the case of taxes imposed on any mixture at least 10 percent of which is alcohol (as defined in section 4081(c)(3)) if any portion of such alcohol is ethanol, and
+&emsp;“(A) 0.6 cent per gallon in the case of taxes imposed on any mixture at least 10 percent of which is alcohol\(as defined in section 4081(c)(3)) if any portion of such alcohol is ethanol, and
 
 &emsp;“(B) 0.67 cent per gallon in the case of fuel used in producing a mixture described in subparagraph (A).”
 
-1997—Subsec. (b)(1). Pub. L. 105–34, §1031(d)(1)(C), inserted concluding provisions.
+<b>1997</b>—Subsec. (b)(1). Pub. L. 105–34, §1031(d)(1)(C), inserted concluding provisions.
 
 Pub. L. 105–2, §2(c)(1), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “There is hereby appropriated to the Airport and Airway Trust Fund—
 
@@ -294,7 +342,7 @@ Subsec. (f)(3). Pub. L. 105–2, §2(c)(2), amended heading and text of par. (3)
 
 &emsp;“(B) taxes imposed after December 31, 1996.”
 
-1996—Subsec. (b)(1). Pub. L. 104–188, §1609(c)(1), substituted “January 1, 1997” for “January 1, 1996”.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–188, §1609(c)(1), substituted “January 1, 1997” for “January 1, 1996”.
 
 Subsec. (b)(2). Pub. L. 104–188, §1703(n)(10), inserted “and before” after “1982,”.
 
@@ -316,7 +364,7 @@ Subsec. (f)(1)(A). Pub. L. 104–188, §1609(g)(4)(C), substituted “section 40
 
 Subsec. (f)(3). Pub. L. 104–188, §1609(c)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Notwithstanding the preceding provisions of this subsection, the Airport and Airway Trust Fund financing rate is zero with respect to tax received after December 31, 1995.”
 
-1994—Subsec. (d)(1). Pub. L. 103–305, §401(1), (4), in introductory provisions substituted “October 1, 1996” for “October 1, 1995” and inserted last sentence which read: “Any reference in subparagraph (A) to an Act shall be treated as a reference to such Act and the corresponding provisions (if any) of title 49, United States Code, as such Act and provisions were in effect on the date of the enactment of the last Act referred to in subparagraph (A).”
+<b>1994</b>—Subsec. (d)(1). Pub. L. 103–305, §401(1), (4), in introductory provisions substituted “October 1, 1996” for “October 1, 1995” and inserted last sentence which read: “Any reference in subparagraph (A) to an Act shall be treated as a reference to such Act and the corresponding provisions (if any) of title 49, United States Code, as such Act and provisions were in effect on the date of the enactment of the last Act referred to in subparagraph (A).”
 
 Subsec. (d)(1)(A). Pub. L. 103–305, §401(2), (3), inserted “or the Airport and Airway Safety, Capacity, Noise Improvement, and Intermodal Transportation Act of 1992” after “Capacity Expansion Act of 1990” and substituted “or the Federal Aviation Administration Authorization Act of 1994” for “(as such Acts were in effect on the date of the enactment of the Airport Improvement Program Temporary Extension Act of 1994)”.
 
@@ -324,17 +372,17 @@ Pub. L. 103–260 substituted “or the Airport Improvement Program Temporary Ex
 
 Subsec. (d)(1)(B). Pub. L. 103–272 substituted “part A of subtitle VII of title 49, United States Code,” for “the Federal Aviation Act of 1958, as amended (49 U.S.C. 1301 et seq.),”.
 
-1993—Subsec. (b)(2). Pub. L. 103–66, §13242(d)(33), substituted “(to the extent of 14 cents per gallon)” for “(to the extent attributable to the Highway Trust Fund financing rate and the deficit reduction rate)”.
+<b>1993</b>—Subsec. (b)(2). Pub. L. 103–66, §13242(d)(33), substituted “(to the extent of 14 cents per gallon)” for “(to the extent attributable to the Highway Trust Fund financing rate and the deficit reduction rate)”.
 
 Subsec. (f). Pub. L. 103–66, §13242(d)(32), added subsec. (f).
 
-1992—Subsec. (d)(1). Pub. L. 102–581, §501(1), substituted “October 1, 1995” for “October 1, 1992”.
+<b>1992</b>—Subsec. (d)(1). Pub. L. 102–581, §501(1), substituted “October 1, 1995” for “October 1, 1992”.
 
 Subsec. (d)(1)(A). Pub. L. 102–581, §501(2), substituted “(as such Acts were in effect on the date of the enactment of the Airport and Airway Safety, Capacity, Noise Improvement, and Intermodal Transportation Act of 1992)” for “(as such Acts were in effect on the date of the enactment of the Aviation Safety and Capacity Expansion Act of 1990)”.
 
-Subsec. (e)(1). Pub. L. 102–581, §502(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In the case of taxes imposed before January 1, 1993, the amounts which would (but for this paragraph) be required to be appropriated under paragraphs (1), (2), and (3) of subsection (b) shall be 3 cents per gallon less (3.5 cents per gallon less in the case of taxes imposed by section 4041(c)(1) and 4091) than the amounts which would (but for this sentence) be appropriated under such paragraphs.”
+Subsec. (e)(1). Pub. L. 102–581, §502(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In the case of taxes imposed before January 1, 1993, the amounts which would (but for this paragraph) be required to be appropriated under paragraphs (1), (2),and (3) of subsection (b) shall be 3 cents per gallon less (3.5 cents per gallon less in the case of taxes imposed by section 4041(c)(1) and 4091) than the amounts which would (but for this sentence) be appropriated under such paragraphs.”
 
-1990—Subsec. (b). Pub. L. 101–508, §11213(c)(2), (d)(3), inserted “and the deficit reduction rate” after “financing rate” in par. (2) and substituted “January 1, 1996” for “January 1, 1991” in pars. (1) to (4).
+<b>1990</b>—Subsec. (b). Pub. L. 101–508, §11213(c)(2), (d)(3), inserted “and the deficit reduction rate” after “financing rate” in par. (2) and substituted “January 1, 1996” for “January 1, 1991” in pars. (1) to (4).
 
 Subsec. (d)(1)(A). Pub. L. 101–508, §11213(d)(4), substituted “or the Federal Aviation Administration Research, Engineering, and Development Authorization Act of 1990 or the Aviation Safety and Capacity Expansion Act of 1990 (as such Acts were in effect on the date of the enactment of the Aviation Safety and Capacity Expansion Act of 1990)” for “(as such Acts were in effect on the date of the enactment of the Airport and Airway Safety and Capacity Expansion Act of 1987)”.
 
@@ -342,9 +390,9 @@ Subsec. (d)(4). Pub. L. 101–508, §11211(b)(6)(G), added par. (4).
 
 Subsec. (e). Pub. L. 101–508, §11213(c)(1), added subsec. (e).
 
-1989—Subsec. (b)(3). Pub. L. 101–239 substituted “; and” for “, and” at end.
+<b>1989</b>—Subsec. (b)(3). Pub. L. 101–239 substituted “; and” for “, and” at end.
 
-1987—Subsec. (b). Pub. L. 100–223, §402(a)(3), substituted “January 1, 1991” for “January 1, 1988”, wherever appearing.
+<b>1987</b>—Subsec. (b). Pub. L. 100–223, §402(a)(3), substituted “January 1, 1991” for “January 1, 1988”, wherever appearing.
 
 Subsec. (b)(3). Pub. L. 100–203, §10502(g), substituted “January 1, 1991” for “January 1, 1988” in the par. (3) added by Pub. L. 100–203, §10502(d)(12).
 
@@ -354,15 +402,31 @@ Subsec. (b)(4). Pub. L. 100–203, §10502(d)(12), redesignated former par. (3) 
 
 Subsec. (d)(1). Pub. L. 100–223, §403, in introductory provisions substituted “October 1, 1992” for “October 1, 1987”, and in subpar. (A), substituted “or the Airport and Airway Safety and Capacity Expansion Act of 1987 (as such Acts were in effect on the date of the enactment of the Airport and Airway Safety and Capacity Expansion Act of 1987)” for “(as such Acts were in effect on the date of the enactment of the Surface Transportation Assistance Act of 1982)”.
 
-1986—Subsec. (b)(1). Pub. L. 99–499, §521(b)(2)(A), substituted “subsections (c) and (e) of section 4041” for “subsections (c) and (d) of section 4041”.
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–499, §521(b)(2)(A), substituted “subsections (c) and (e) of section 4041” for “subsections (c) and (d) of section 4041”.
 
 Subsec. (b)(2). Pub. L. 99–499, §521(b)(2)(B), inserted “(to the extent attributable to the Highway Trust Fund financing rate)” after “section 4081”.
 
-1984—Subsec. (b)(3). Pub. L. 98–369, §735(c)(15), substituted “under section 4071 with respect to tires of the types used on aircraft” for “under paragraphs (2) and (3) of section 4071(a), with respect to tires and tubes of types used on aircraft”.
+<b>1984</b>—Subsec. (b)(3). Pub. L. 98–369, §735(c)(15), substituted “under section 4071 with respect to tires of the types used on aircraft” for “under paragraphs (2) and (3) of section 4071(a), with respect to tires and tubes of types used on aircraft”.
 
 Subsec. (d)(3). Pub. L. 98–369, §474(r)(42), substituted references to section 34 for references to section 39 in heading and text.
 
-1983—Subsec. (d)(1)(A). Pub. L. 97–424 substituted “the Surface Transportation Assistance Act of 1982” for “the Airport and Airway Improvement Act of 1982”.
+<b>1983</b>—Subsec. (d)(1)(A). Pub. L. 97–424 substituted “the Surface Transportation Assistance Act of 1982” for “the Airport and Airway Improvement Act of 1982”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–329, §3(c), Dec. 22, 2010, 124 Stat. 3566, provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 2011.”
+
+Pub. L. 111–249, §3(c), Sept. 30, 2010, 124 Stat. 2627, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 2010.”
+
+Pub. L. 111–216, title I, §102(c), Aug. 1, 2010, 124 Stat. 2349, provided that: “The amendments made by this section \[amending this section\] shall take effect on August 2, 2010.”
+
+Pub. L. 111–197, §3(c), July 2, 2010, 124 Stat. 1353, provided that: “The amendments made by this section \[amending this section\] shall take effect on July 4, 2010.”
+
+Pub. L. 111–161, §3(c), Apr. 30, 2010, 124 Stat. 1126, provided that: “The amendments made by this section \[amending this section\] shall take effect on May 1, 2010.”
+
+Pub. L. 111–153, §3(c), Mar. 31, 2010, 124 Stat. 1084, provided that: “The amendments made by this section \[amending this section\] shall take effect on April 1, 2010.”
+
+Pub. L. 111–147, title IV, §444(c), Mar. 18, 2010, 124 Stat. 94, provided that: “The amendment made by this section \[amending this section and sections 9503 and 9504 of this title\] shall apply to transfers relating to amounts paid and credits allowed after the date of the enactment of this Act \[Mar. 18, 2010\].”
 
 #### Effective Date of 2009 Amendment
 
@@ -404,13 +468,13 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of Title 49, Transportation.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of Title 49, Transportation.
 
 #### Effective Date of 1998 Amendment
 
 Amendment by section 6023(31) of Pub. L. 105–206 effective July 22, 1998, see section 6023(32) of Pub. L. 105–206, set out as a note under section 34 of this title.
 
-Amendment by section 6010(g)(2) of Pub. L. 105–206 effective, except as otherwise provided, as if included inthe provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by section 6010(g)(2) of Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -468,7 +532,5 @@ In general.—The amendments made by this section \[enacting this section, amend
 
 Savings provisions.—The Airport and Airway Trust Fund established by the amendments made by this section shall be treated for all purposes of law as the continuation of the Airport and Airway Trust Fund established by section 208 of the Airport and Airway Revenue Act of 1970 \[section 208 of Pub. L. 91–258, May 21, 1970, 84 Stat. 250, enacted section 1742 of former Title 49 and amended provisions set out as a note under section 120 of Title 23\]. Any reference in any law to the Airport and Airway Trust Fund established by such section 208 shall be deemed to include a reference to the Airport and Airway Trust Fund established by the amendments made by this section.”
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. A closing parenthesis probably should precede the comma.</i>
+<i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the comma.</i>
 

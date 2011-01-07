@@ -22,13 +22,13 @@ The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), refe
 
 #### Amendments
 
-2009—Subsec. (d). Pub. L. 111–84 added subsec. (d).
+<b>2009</b>—Subsec. (d). Pub. L. 111–84 added subsec. (d).
 
-1989—Subsecs. (a), (c). Pub. L. 101–189 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+<b>1989</b>—Subsecs. (a), (c). Pub. L. 101–189 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
-1983—Subsec. (a). Pub. L. 98–209 inserted provision that with respect to a discharge or dismissal adjudged by a court-martial case tried or reviewed under chapter 47 of this title (or under the Uniform Code of Military Justice (Public Law 506 of the 81st Congress)), action under this subsection may extend only to a change in the discharge or dismissal or issuance of a new discharge for purposes of clemency.
+<b>1983</b>—Subsec. (a). Pub. L. 98–209 inserted provision that with respect to a discharge or dismissal adjudged by a court-martial case tried or reviewed under chapter 47 of this title (or under the Uniform Code of Military Justice (Public Law 506 of the 81st Congress)), actionunder this subsection may extend only to a change in the discharge or dismissal or issuance of a new discharge for purposes of clemency.
 
-1962—Pub. L. 87–651 amended section generally without substantive change to conform to the style adopted for the revision of this title.
+<b>1962</b>—Pub. L. 87–651 amended section generally without substantive change to conform to the style adopted for the revision of this title.
 
 #### Effective Date
 

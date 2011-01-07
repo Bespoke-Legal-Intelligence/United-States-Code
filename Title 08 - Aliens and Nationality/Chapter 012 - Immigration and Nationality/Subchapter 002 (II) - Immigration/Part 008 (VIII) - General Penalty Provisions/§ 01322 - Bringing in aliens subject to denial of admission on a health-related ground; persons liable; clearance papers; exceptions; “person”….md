@@ -4,7 +4,7 @@
 
 (b) No vessel or aircraft shall be granted clearance papers pending determination of the question of liability to the payment of any fine under this section, or while the fines remain unpaid, nor shall such fines be remitted or refunded; but clearance may be granted prior to the determination of such question upon the deposit of a sum sufficient to cover such fines or of a bond with sufficient surety to secure the payment thereof, approved by the Commissioner.
 
-(c) Nothing contained in this section shall be construed to subject transportation companies to a fine for bringing to ports of entry in theUnited States aliens who are entitled by law to exemption from the provisions of section 1182(a) of this title.
+(c) Nothing contained in this section shall be construed to subject transportation companies to a fine for bringing to ports of entry in the United States aliens who are entitled by law to exemption from the provisions of section 1182(a) of this title.
 
 (d) As used in this section, the term “person” means the owner, master, agent, commanding officer, charterer, or consignee of any vessel or aircraft.
 

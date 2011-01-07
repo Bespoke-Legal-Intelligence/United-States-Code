@@ -1,6 +1,6 @@
 ### §1422. Eligibility for naturalization
 
-The right of a person to become a naturalized citizen of the United States shall not be deniedor abridged because of race or sex or because such person is married.
+The right of a person to become a naturalized citizen of the United States shall not be denied or abridged because of race or sex or because such person is married.
 
 (June 27, 1952, ch. 477, title III, ch. 2, §311, 66 Stat. 239; Pub. L. 100–525, §9(t), Oct. 24, 1988, 102 Stat. 2621.)
 

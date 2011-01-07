@@ -6,7 +6,7 @@ The Secretary shall arrange to have each member insured under a policy purchased
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 772 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 772 of this title as this section.
 
 Pub. L. 102–83, §5(c)(1), substituted “1966” for “766”.
 

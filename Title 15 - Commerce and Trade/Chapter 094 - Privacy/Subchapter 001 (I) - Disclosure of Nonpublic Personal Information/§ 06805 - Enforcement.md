@@ -44,19 +44,51 @@ If a State insurance authority fails to adopt regulations to carry out this subc
 
 The terms used in subsection (a)(1) of this section that are not defined in this subchapter or otherwise defined in section 1813(s) of title 12 shall have the same meaning as given in section 3101 of title 12.
 
-(Pub. L. 106–102, title V, §505, Nov. 12, 1999, 113 Stat. 1440.)
+(Pub. L. 106–102, title V, §505, Nov. 12, 1999, 113 Stat. 1440; Pub. L. 111–203, title X, §1093(4), (5), July 21, 2010, 124 Stat. 2096, 2097.)
+
+#### Amendment of Subsections (a) and (b)(1)
+
+<i>Pub. L. 111–203, title X, §§1093(4), (5), 1100H, July 21, 2010, 124 Stat. 2096, 2097, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
+
+<i>(1) in subsection (a)—</i>
+
+<i>(A) by striking “This subchapter” and all that follows through “as follows:” and inserting “Subject to subtitle B of the Consumer Financial Protection Act of 2010, this subchapter and the regulations prescribed thereunder shall be enforced by the Bureau of Consumer Financial Protection, the Federal functional regulators, the State insurance authorities, and the Federal Trade Commission with respect to financial institutions and other persons subject to their jurisdiction under applicable law, as follows:”;</i>
+
+<i>(B) in paragraph (1)—</i>
+
+<i>(i) in the matter preceding subparagraph (A), by inserting “by the appropriate Federal banking agency, as defined in section 1813(q) of title 12,” after “title 12,”;</i>
+
+<i>(ii) in subparagraph (A), by striking “, by the Office of the Comptroller of the Currency”;</i>
+
+<i>(iii) in subparagraph (B), by striking “, by the Board of Governors of the Federal Reserve System”;</i>
+
+<i>(iv) in subparagraph (C), by striking “, by the Board of Directors of the Federal Deposit Insurance Corporation”; and</i>
+
+<i>(v) in subparagraph (D), by striking “, by the Director of the Office of Thrift Supervision”; and</i>
+
+<i>(C) by adding at the end the following:</i>
+
+&emsp;<i>“(8) Under subtitle E of the Consumer Financial Protection Act of 2010, by the Bureau of Consumer Financial Protection, in the case of any financial institution and other covered person or service provider that is subject to the jurisdiction of the Bureau and any person subject to this subchapter, but not with respect to the standards under section 6801 of this title.”; and</i>
+
+<i>(2) in subsection (b)(1), by inserting “, other than the Bureau of Consumer Financial Protection,” after “subsection (a) of this section”.</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
 Section 25 of the Federal Reserve Act, referred to in subsec. (a)(1)(B), is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25A of the Federal Reserve Act is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12.
 
-The Federal Credit Union Act, referred to in subsec. (a)(2), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified generally to chapter 14 (§1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
+The Federal Credit Union Act, referred to in subsec. (a)(2), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (a)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (a)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (a)(4), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (a)(4), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
-The Investment Advisers Act of 1940, referred to in subsec. (a)(5), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, as amended, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80b–20 of this title and Tables.
+The Investment Advisers Act of 1940, referred to in subsec. (a)(5), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80b–20 of this title and Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (a)(7), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (a)(7), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 

@@ -60,7 +60,7 @@ Qualified steel company.—The term ‘qualified steel company’ means any comp
 
 &emsp;&emsp;“(A) is incorporated under the laws of any State;
 
-&emsp;&emsp;“(B) is engaged in the production and manufacture of a product defined by the American Iron and Steel Institute as a basic steel mill product, including ingots, slab and billets, plates, flat-rolled steel, sections and structural products, bars, rail type products, pipe and tube, and wire rod; and
+&emsp;&emsp;“(B) is engaged in the production and manufacture of a product defined by the American Iron and Steel Institute as a basic steel mill product, including ingots, slab and billets, plates, flat-rolled steel,sections and structural products, bars, rail type products, pipe and tube, and wire rod; and
 
 &emsp;&emsp;“(C) has experienced layoffs, production losses, or financial losses since the beginning of the steel import crisis in 1998, and thereafter, or that operates substantial assets of a company that meets these qualifications.
 
@@ -186,7 +186,7 @@ Total guarantee limit for iron ore company.—Of the aggregate amount of loans a
 
 #### “federal administrative and travel expenses
 
-I74“(rescissions)
+#### “(rescissions)
 
 “
 
@@ -272,7 +272,7 @@ Loan guarantee board.—There is established to administer the Program a Loan Gu
 
 &emsp;&emsp;“(A) the Secretary of Commerce;
 
-&emsp;&emsp;“(B) the Chairman of the Board of Governors of the Federal Reserve System, or a member of theBoard of Governors of the Federal Reserve System designated by the Chairman, who shall serve as Chairman of the Board; and
+&emsp;&emsp;“(B) the Chairman of the Board of Governors of the Federal Reserve System, or a member of the Board of Governors of the Federal Reserve System designated by the Chairman, who shall serve as Chairman of the Board; and
 
 &emsp;&emsp;“(C) the Chairman of the Securities and Exchange Commission, or a commissioner of the Securities and Exchange Commission designated by the Chairman.
 
@@ -350,7 +350,7 @@ Regulatory Action.—Not later than 60 days after the date of the enactment of t
 
 #### “federal administrative and travel expenses
 
-I74“(rescissions)
+#### “(rescissions)
 
 “
 

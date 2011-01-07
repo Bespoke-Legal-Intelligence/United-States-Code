@@ -14,7 +14,7 @@
 
 (d) If the conviction is overturned on appeal, the removal shall be set aside retroactively to the date on which the removal occurred, with back pay under section 5596 for the period during which the removal was in effect, unless the removal was properly effected other than under this section.
 
-(e)(1) If removal is required under this section, the agency shall deliver written notice to theemployee as soon as practicable, and not later than 5 calendar days after the conviction notice date. The notice shall include a description of the specific reasons for the removal, the date of removal, and the procedures made applicable under paragraph (2).
+(e)(1) If removal is required under this section, the agency shall deliver written notice to the employee as soon as practicable, and not later than 5 calendar days after the conviction notice date. The notice shall include a description of the specific reasons for the removal, the date of removal, and the procedures made applicable under paragraph (2).
 
 (2) The procedures under section 7513(b)(2), (3), and (4), (c), (d), and (e) shall apply to any removal under this section. The employee may use the procedures to contest or appeal a removal, but only with respect to whether—
 

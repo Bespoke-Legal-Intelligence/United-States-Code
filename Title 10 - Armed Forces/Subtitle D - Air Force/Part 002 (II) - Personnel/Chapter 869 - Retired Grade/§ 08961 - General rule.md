@@ -34,19 +34,19 @@ Feb. 14, 1885, ch. 67 (43d through 53d words); restated Sept. 30, 1890, ch. 1125
 
 R.S. 1254.
 
-The applicability of the rule stated in the revised section to situations not expressly covered by the lawsnamed in the source credits above is necessarily implied from laws providing for retirement in higher grade in those situations.
+The applicability of the rule stated in the revised section to situations not expressly covered by the laws named in the source credits above is necessarily implied from laws providing for retirement in higher grade in those situations.
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–398 struck out “or for nonregular service under chapter 1223 of this title” before “, is determined”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398 struck out “or for nonregular service under chapter 1223 of this title” before “, is determined”.
 
-1994—Subsec. (a). Pub. L. 103–337 substituted “chapter 1223” for “chapter 67”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337 substituted “chapter 1223” for “chapter 67”.
 
-1980—Pub. L. 96–513 added subsec. (a), designated existing provisions as subsec. (b), and inserted “not covered by subsection (a)” after “a Regular or Reserve of the Air Force”.
+<b>1980</b>—Pub. L. 96–513 added subsec. (a), designated existing provisions as subsec. (b), and inserted “not covered by subsection (a)” after “a Regular or Reserve of the Air Force”.
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–398 applicable to Reserve commissioned officers who are promoted to a higher grade as a result of selection for promotion by a board convened under chapter 36 or 1403 of this title, or having been found qualified for Federal recognition in a higher grade under chapter 3 of Title 32, National Guard, after Oct. 1, 1996, see section 1 \[\[div. A\], title V, §506(c)\] of Pub. L. 106–398, set out as a note under section 3961 of this title.
+Amendment by Pub. L. 106–398 applicable to Reserve commissioned officers who are promoted to a higher grade as a result of selection for promotion by a board convened under chapter 36 or 1403 of this title, or having been found qualified for Federal recognition in a higher grade under chapter 3 of Title 32, National Guard, after Oct. 1, 1996, see section 1 \[\[div. A\], title V,§506(c)\] of Pub. L. 106–398, set out as a note under section 3961 of this title.
 
 #### Effective Date of 1994 Amendment
 

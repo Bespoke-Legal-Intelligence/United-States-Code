@@ -66,11 +66,11 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–201 inserted before period at end “and may accept from any foreign government or international organization any contribution of services made by such foreign government or international organization for use by the Department of Defense”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201 inserted before period at end “and may accept from any foreign government or international organization any contribution of services made by such foreign government or international organization for use by the Department of Defense”.
 
-1993—Pub. L. 103–160, §1105(b)(2), inserted “; Defense Cooperation Account” in section catchline.
+<b>1993</b>—Pub. L. 103–160, §1105(b)(2), inserted “; Defense Cooperation Account” in section catchline.
 
-Subsec. (i). Pub. L. 103–160, §1105(b)(1), substituted “Periodic Audits” for “Annual Audit” in heading and amended text generally. Prior to amendment, text readas follows: “The Comptroller General of the United States shall conduct an annual audit of money and property accepted by the Secretary of Defense under this section and shall submit a copy of the results of each such audit to Congress.”
+Subsec. (i). Pub. L. 103–160, §1105(b)(1), substituted “Periodic Audits” for “Annual Audit” in heading and amended text generally. Prior to amendment, text read as follows: “The Comptroller General of the United States shall conduct an annual audit of money and property accepted by the Secretary of Defense under this section and shall submit a copy of the results of each such audit to Congress.”
 
-1991—Subsec. (g)(1). Pub. L. 102–190 inserted “(1)” before “Upon request”.
+<b>1991</b>—Subsec. (g)(1). Pub. L. 102–190 inserted “(1)” before “Upon request”.
 

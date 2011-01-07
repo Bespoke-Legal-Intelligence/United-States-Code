@@ -24,15 +24,15 @@ The Antitrust Civil Process Act, referred to in text, is Pub. L. 87–664, Sept.
 
 #### Amendments
 
-2008—Pub. L. 110–289 substituted “Federal Housing Finance Agency” for “Office of Federal Housing Enterprise Oversight”.
+<b>2008</b>—Pub. L. 110–289 substituted “Federal Housing Finance Agency” for “Office of Federal Housing Enterprise Oversight”.
 
-2002—Pub. L. 107–347 inserted “or being an employee of a private sector organization who is or was assigned to an agency under chapter 37 of title 5,” after “(15 U.S.C. 1311–1314),”.
+<b>2002</b>—Pub. L. 107–347 inserted “or being an employee of a private sector organization who is or was assigned to an agency under chapter 37 of title 5,” after “(15 U.S.C. 1311–1314),”.
 
-1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000”.
+<b>1996</b>—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000”.
 
-1992—Pub. L. 102–550 inserted “any person acting on behalf of the Office of Federal Housing Enterprise Oversight,” after “or agency thereof,”.
+<b>1992</b>—Pub. L. 102–550 inserted “any person acting on behalf of the Office of Federal Housing Enterprise Oversight,” after “or agency thereof,”.
 
-1980—Pub. L. 96–349 provided for punishment and removal from office of an agent of the Department of Justice as defined in the Antitrust Civil Process Act for disclosure of confidential information.
+<b>1980</b>—Pub. L. 96–349 provided for punishment and removal from office of an agent of the Department of Justice as defined in the Antitrust Civil Process Act for disclosure of confidential information.
 
 #### Effective Date of 2002 Amendment
 

@@ -22,7 +22,7 @@ The Reconstruction Finance Corporation Act, referred to in text, is act Jan. 22,
 
 The Agricultural Adjustment Act, referred to in text, is title I of act May 12, 1933, ch. 25, 48 Stat. 31, as amended, which is classified generally to chapter 26 (§601 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 7 and Tables.
 
-The Federal Farm Loan Act, referred to in text, is act July 17, 1916, ch. 245, 39 Stat. 360, as amended, which was classified principally to sections 641 et seq. of Title 12, Banks and Banking. The Federal Farm Loan Act, as amended, was repealed by section 5.26(a) of the Farm Credit Act of 1971, Pub. L. 92–181, Dec. 10, 1971, 85 Stat.624. Section 5.26(a) of the Farm Credit Act of 1971 also provided that all references in other legislation to the Acts repealed thereby “shall be deemed to refer to comparable provisions of this Act”. For further details, see notes under section 2001 of Title 12. For complete classification of the Federal Farm Loan Act to the Code prior to such repeal, see Tables.
+The Federal Farm Loan Act, referred to in text, is act July 17, 1916, ch. 245, 39 Stat. 360, as amended, which was classified principally to sections 641 et seq. of Title 12, Banks and Banking. The Federal Farm Loan Act, as amended, was repealed by section 5.26(a) of the Farm Credit Act of 1971, Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 624. Section 5.26(a) of the Farm Credit Act of 1971 also provided that all references in other legislation to the Acts repealed thereby “shall be deemed to refer to comparable provisions of this Act”. For further details, see notes under section 2001 of Title 12. For complete classification of the Federal Farm Loan Act to the Code prior to such repeal, see Tables.
 
 The Emergency Farm Mortgage Act of 1933, referred to in text, is title II of act May 12, 1933, ch. 25, 48 Stat. 31, as amended. Such title II was substantially repealed by act June 30, 1947, ch. 166, title II, §206(c), 61 Stat. 208; act Aug. 6, 1953, ch. 335, §19, 67 Stat. 400; act Oct. 4, 1961, Pub. L. 87–353, §3(a), (b), (w), 75 Stat. 773, 774; act Dec. 10, 1971, Pub. L. 92–181, title V, §5.26(a), 85 Stat. 624. For complete classification of this Act to the Code, see Tables.
 
@@ -36,7 +36,7 @@ The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, c
 
 #### Amendments
 
-1961—Pub. L. 87–353 struck out “the Federal Farm Mortgage Corporation Act,” after “the Emergency Farm Mortgage Act of 1933,”.
+<b>1961</b>—Pub. L. 87–353 struck out “the Federal Farm Mortgage Corporation Act,” after “the Emergency Farm Mortgage Act of 1933,”.
 
 #### Abolition of Reconstruction Finance Corporation
 

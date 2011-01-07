@@ -1,5 +1,5 @@
 
-38 U.S.C.<br>United States Code, 2009 Edition<br>Title 38 - VETERANS’ BENEFITS<br>From the U.S. Government Publishing Office, www.gpo.gov
+38 U.S.C.<br>United States Code, 2010 Edition<br>Title 38 - VETERANS’ BENEFITS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 38—VETERANS’ BENEFITS
 
@@ -18,13 +18,13 @@
 
 #### Amendments
 
-2002—Pub. L. 107–330, title III, §308(g)(1)(B), Dec. 6, 2002, 116 Stat. 2828, substituted “5100” for “5101” in item for part IV.
+<b>2002</b>—Pub. L. 107–330, title III, §308(g)(1)(B), Dec. 6, 2002, 116 Stat. 2828, substituted “5100” for “5101” in item for part IV.
 
-1991—Pub. L. 102–83, §5(b)(2), Aug. 6, 1991, 105 Stat. 406, substituted “1101” for “301” in item for part II and “3001” for “1401” in item for part III.
+<b>1991</b>—Pub. L. 102–83, §5(b)(2), Aug. 6, 1991, 105 Stat. 406, substituted “1101” for “301” in item for part II and “3001” for “1401” in item for part III.
 
 Pub. L. 102–40, title IV, §§402(c)(2), 403(e)(2), May 7, 1991, 105 Stat. 239, 240, substituted “5101” for “3001” in item for part IV, “Boards, Administrations, and Services . . . 7101” for “Boards and Departments . . . 4001” in item for part V, and “8101” for “5001” in item for part VI.
 
-1986—Pub. L. 99–576, title VII, §702(18), Oct. 28, 1986, 100 Stat. 3302, substituted “1401” for “1501” in item for part III.
+<b>1986</b>—Pub. L. 99–576, title VII, §702(18), Oct. 28, 1986, 100 Stat. 3302, substituted “1401” for “1501” in item for part III.
 
 Table I<br>(Showing Disposition of All Sections of Former Title 38 by 1958 Revision)
 
@@ -5693,6 +5693,7 @@ General Savings Provision.—An action taken or an offense committed under a pro
 | [<b>72.</b>](Part%20005%20%28V%29%20-%20Boards%2C%20Administrations%2C%20and%20Services/Chapter%20072%20-%20United%20States%20Court%20of%20Appeals%20for%20Veterans%20Claims/README.md) | <b>United States Court of Appeals for Veterans Claims</b> | <b>7251</b> |
 | [<b>73.</b>](Part%20005%20%28V%29%20-%20Boards%2C%20Administrations%2C%20and%20Services/Chapter%20073%20-%20Veterans%20Health%20Administration%E2%80%94Organization%20and%20Functions/README.md) | <b>Veterans Health Administration—Organization and Functions</b> | <b>7301</b> |
 | [<b>74.</b>](Part%20005%20%28V%29%20-%20Boards%2C%20Administrations%2C%20and%20Services/Chapter%20074%20-%20Veterans%20Health%20Administration%E2%80%94Personnel/README.md) | <b>Veterans Health Administration—Personnel</b> | <b>7401</b> |
+| [<b>75.</b>](Part%20005%20%28V%29%20-%20Boards%2C%20Administrations%2C%20and%20Services/Chapter%20075%20-%20Visual%20Impairment%20and%20Orientation%20and%20Mobility%20Professionals%20Educational%20Assistance%20Program/README.md) | <b>Visual Impairment and Orientation and Mobility Professionals Educational Assistance Program</b> | <b>7501</b> |
 | [<b>76.</b>](Part%20005%20%28V%29%20-%20Boards%2C%20Administrations%2C%20and%20Services/Chapter%20076%20-%20Health%20Professionals%20Educational%20Assistance%20Program/README.md) | <b>Health Professionals Educational Assistance Program</b> | <b>7601</b> |
 | [<b>77.</b>](Part%20005%20%28V%29%20-%20Boards%2C%20Administrations%2C%20and%20Services/Chapter%20077%20-%20Veterans%20Benefits%20Administration/README.md) | <b>Veterans Benefits Administration</b> | <b>7701</b> |
 | [<b>78.</b>](Part%20005%20%28V%29%20-%20Boards%2C%20Administrations%2C%20and%20Services/Chapter%20078%20-%20Veterans%E2%80%99%20Canteen%20Service/README.md) | <b>Veterans’ Canteen Service</b> | <b>7801</b> |
@@ -5718,29 +5719,31 @@ General Savings Provision.—An action taken or an offense committed under a pro
 
 #### Amendments
 
-2008—Pub. L. 110–252, title V, §5003(a)(2), June 30, 2008, 122 Stat. 2375, added item for chapter 33.
+<b>2010</b>—Pub. L. 111–163, title III, §302(b), May 5, 2010, 124 Stat. 1149, added item for chapter 75.
 
-2006—Pub. L. 109–461, title IX, §903(a)(2), Dec. 22, 2006, 120 Stat. 3464, added item for chapter 79.
+<b>2008</b>—Pub. L. 110–252, title V, §5003(a)(2), June 30, 2008, 122 Stat. 2375, added item for chapter 33.
+
+<b>2006</b>—Pub. L. 109–461, title IX, §903(a)(2), Dec. 22, 2006, 120 Stat. 3464, added item for chapter 79.
 
 Pub. L. 109–233, title IV, §402(d)(3), June 15, 2006, 120 Stat. 411, added item for chapter 63.
 
-2003—Pub. L. 108–183, title I, §102(e)(2), Dec. 16, 2003, 117 Stat. 2655, substituted “Benefits for Children of Vietnam Veterans and Certain Other Veterans” for “Benefits for Children of Vietnam Veterans” in item for chapter 18.
+<b>2003</b>—Pub. L. 108–183, title I, §102(e)(2), Dec. 16, 2003, 117 Stat. 2655, substituted “Benefits for Children of Vietnam Veterans and Certain Other Veterans” for “Benefits for Children of Vietnam Veterans” in item for chapter 18.
 
-2002—Pub. L. 107–330, title III, §308(g)(1)(A), Dec. 6, 2002, 116 Stat. 2828, substituted “5100” for “5101” in item for chapter 51.
+<b>2002</b>—Pub. L. 107–330, title III, §308(g)(1)(A), Dec. 6, 2002, 116 Stat. 2828, substituted “5100” for “5101” in item for chapter 51.
 
-2001—Pub. L. 107–95, §5(a)(2), Dec. 21, 2001, 115 Stat. 918, added item for chapter 20.
+<b>2001</b>—Pub. L. 107–95, §5(a)(2), Dec. 21, 2001, 115 Stat. 918, added item for chapter 20.
 
-2000—Pub. L. 106–419, title IV, §401(f)(2), Nov. 1, 2000, 114 Stat. 1861, substituted “Benefits for Children of Vietnam Veterans” and “1802” for “Benefits for Children of Vietnam Veterans Who Are Born With Spina Bifida” and “1801”, respectively, in item for chapter 18.
+<b>2000</b>—Pub. L. 106–419, title IV, §401(f)(2), Nov. 1, 2000, 114 Stat. 1861, substituted “Benefits for Children of Vietnam Veterans” and “1802” for “Benefits for Children of Vietnam Veterans Who Are Born With Spina Bifida” and “1801”, respectively, in item for chapter 18.
 
-1998—Pub. L. 105–368, title V, §512(a)(4)(B), Nov. 11, 1998, 112 Stat. 3341, substituted “Appeals for Veterans Claims” for “Veterans Appeals” in item for chapter 72.
+<b>1998</b>—Pub. L. 105–368, title V, §512(a)(4)(B), Nov. 11, 1998, 112 Stat. 3341, substituted “Appeals for Veterans Claims” for “Veterans Appeals” in item for chapter 72.
 
-1996—Pub. L. 104–204, title IV, §421(b)(2), Sept. 26, 1996, 110 Stat. 2926, added item for chapter 18.
+<b>1996</b>—Pub. L. 104–204, title IV, §421(b)(2), Sept. 26, 1996, 110 Stat. 2926, added item for chapter 18.
 
-1994—Pub. L. 103–446, title XII, §1201(h)(1), Nov. 2, 1994, 108 Stat. 4688, struck out item for chapter 42 and added identical new item for chapter 42.
+<b>1994</b>—Pub. L. 103–446, title XII, §1201(h)(1), Nov. 2, 1994, 108 Stat. 4688, struck out item for chapter 42 and added identical new item for chapter 42.
 
 Pub. L. 103–353, §2(b)(1), Oct. 13, 1994, 108 Stat. 3169, substituted “Employment and Reemployment Rights of Members of the Uniformed Services” and “4301” for “Veterans’ Reemployment Rights” and “2021”, respectively, in item for chapter 43.
 
-1991—Pub. L. 102–86, title IV, §401(b)(2), Aug. 14, 1991, 105 Stat. 422, inserted “; Enhanced-Use Leases of Real Property” in item for chapter 81.
+<b>1991</b>—Pub. L. 102–86, title IV, §401(b)(2), Aug. 14, 1991, 105 Stat. 422, inserted “; Enhanced-Use Leases of Real Property” in item for chapter 81.
 
 Pub. L. 102–83, §§2(d)(1), 5(b)(2), Aug. 6, 1991, 105 Stat. 402, 406, substituted “Department of Veterans Affairs . . . 301” for “Veterans’ Administration; Officers and Employees . . . 201” in item for chapter 3, added items for chapters 5, 7, 9, and 77, substituted “1101” for “301” in item for chapter 11, “1301” for “401” in item for chapter 13, “1501” for “501” in item for chapter 15, “1701” for “601” in item for chapter 17, “1901” for “701” in item for chapter 19, “2101” for “801” in item for chapter 21, “2301” for “901” in item for chapter 23, “2400” for “1000” in item for chapter 24, “3001” for “1401” in item for chapter 30, “3100” for “1500” in item for chapter 31, “3201” for “1601” in item for chapter 32, “3451” for “1651” in item for chapter 34, “3500” for “1700” in item for chapter 35, “3670” for “1770” in item for chapter 36, “3701” for “1801” in item for chapter 37, “3901” for “1901” in item for chapter 39, “4100” for “2000” in item for chapter 41, and “4211” for “2011” in item for chapter 42.
 
@@ -5750,13 +5753,13 @@ Pub. L. 102–40, title IV, §§402(c)(2), 403(f)(1), May 7, 1991, 105 Stat. 239
 
 Pub. L. 102–16, §9(c)(2), Mar. 22, 1991, 105 Stat. 55, struck out “Disabled and Vietnam Era” after “Employment and Training of” in item for chapter 42.
 
-1988—Pub. L. 100–687, div. A, title I, §103(c)(1), title III, §301(b), Nov. 18, 1988, 102 Stat. 4107, 4121, substituted “Claims” for “Applications” in item for chapter 51 and added item for chapter 72.
+<b>1988</b>—Pub. L. 100–687, div. A, title I, §103(c)(1), title III, §301(b), Nov. 18, 1988, 102 Stat. 4107, 4121, substituted“Claims” for “Applications” in item for chapter 51 and added item for chapter 72.
 
 Pub. L. 100–322, title II, §216(e)(2), May 20, 1988, 102 Stat. 530, added item for chapter 76.
 
-1984—Pub. L. 98–525, title VII, §702(a)(2), Oct. 19, 1984, 98 Stat. 2563, added item for chapter 30.
+<b>1984</b>—Pub. L. 98–525, title VII, §702(a)(2), Oct. 19, 1984, 98 Stat. 2563, added item for chapter 30.
 
-1982—Pub. L. 97–306, title III, §301(b)(2), Oct. 14, 1982, 96 Stat. 1437, substituted “2000” for “2001” in item for chapter 41.
+<b>1982</b>—Pub. L. 97–306, title III, §301(b)(2), Oct. 14, 1982, 96 Stat. 1437, substituted “2000” for “2001” in item for chapter 41.
 
 Pub. L. 97–295, §4(1)(A), Oct. 12, 1982, 96 Stat. 1304, substituted “1500” for “1,500” in item for chapter 31.
 
@@ -5764,31 +5767,35 @@ Pub. L. 97–295, §4(1)(B), Oct. 12, 1982, 96 Stat. 1304, substituted “1651�
 
 Pub. L. 97–295, §4(1)(C), Oct. 12, 1982, 96 Stat. 1304, added item for chapter 82.
 
-1981—Pub. L. 97–72, title III, §302(b)(2), Nov. 3, 1981, 95 Stat. 1059, substituted “Housing and Small Business Loans” for “Home, Condominium, and Mobile Home Loans” in item for chapter 37.
+<b>1981</b>—Pub. L. 97–72, title III, §302(b)(2), Nov. 3, 1981, 95 Stat. 1059, substituted “Housing and Small Business Loans” for “Home, Condominium, and Mobile Home Loans” in item for chapter 37.
 
-1980—Pub. L. 96–466, title I, §101(b), Oct. 17, 1980, 94 Stat. 2186, substituted “Training and Rehabilitation for Veterans with Service-Connected Disabilities . . . 1,500” for “Vocational Rehabilitation . . . 1501” in item for chapter 31.
+<b>1980</b>—Pub. L. 96–466, title I, §101(b), Oct. 17, 1980, 94 Stat. 2186, substituted “Training and Rehabilitation for Veterans with Service-Connected Disabilities . . . 1,500” for “Vocational Rehabilitation . . . 1501” in item for chapter 31.
 
-1976—Pub. L. 94–581, title II, §203(a), Oct. 21, 1976, 90 Stat. 2856, inserted “Nursing Home,” in item for chapter 17.
+<b>1976</b>—Pub. L. 94–581, title II, §203(a), Oct. 21, 1976, 90 Stat. 2856, inserted “Nursing Home,” in item for chapter 17.
 
 Pub. L. 94–502, title III, §309(b), Oct. 15, 1976, 90 Stat. 2391, substituted “Survivors’ and Dependents’ Educational Assistance” for “War Orphans’ and Widows’ Education Assistance” in item for chapter 35.
 
 Pub. L. 94–502, title IV, §405, Oct. 15, 1976, 90 Stat. 2397, added item for chapter 32.
 
-1974—Pub. L. 93–569, §7(d), Dec. 31, 1974, 88 Stat. 1866, substituted “Home, Condominium, and Mobile Home Loans” for “Home, Farm, and Business Loans” in item for chapter 37.
+<b>1974</b>—Pub. L. 93–569, §7(d), Dec. 31, 1974, 88 Stat. 1866, substituted “Home, Condominium, and Mobile Home Loans” for “Home, Farm, and Business Loans” in item for chapter 37.
 
 Pub. L. 93–508, title IV, §404(b), Dec. 3, 1974, 88 Stat. 1600, added item for chapter 43.
 
-1973—Pub. L. 93–43, §2(b), June 18, 1973, 87 Stat. 78, added item for chapter 24.
+<b>1973</b>—Pub. L. 93–43, §2(b), June 18, 1973, 87 Stat. 78, added item for chapter 24.
 
-1972—Pub. L. 92–540, title V, §§502(b), 503(b), Oct. 24, 1972, 86 Stat. 1097, 1098, substituted “, Training and” for “and Employment” in item for chapter 41, and added item for chapter 42.
+<b>1972</b>—Pub. L. 92–540, title V, §§502(b), 503(b), Oct. 24, 1972, 86 Stat. 1097, 1098, substituted “, Training and” for “and Employment” in item for chapter 41, and added item for chapter 42.
 
-1971—Pub. L. 91–666, §2(b), Jan. 11, 1971, 84 Stat. 2000, substituted “Automobiles and Adaptive Equipment for Certain Disabled Veterans and Members of the Armed Forces” for “Automobiles for Disabled Veterans” in item for chapter 39.
+<b>1971</b>—Pub. L. 91–666, §2(b), Jan. 11, 1971, 84 Stat. 2000, substituted “Automobiles and Adaptive Equipment for Certain Disabled Veterans and Members of the Armed Forces” for “Automobiles for Disabled Veterans” in item for chapter 39.
 
-1968—Pub. L. 90–631, §2(h)(2), Oct. 23, 1968, 82 Stat. 1333, substituted “War Orphans’ and Widows’ Educational Assistance . . . 1700” for “War Orphans’ Educational Assistance . . . 1701” in item for chapter 35.
+<b>1968</b>—Pub. L. 90–631, §2(h)(2), Oct. 23, 1968, 82 Stat. 1333, substituted “War Orphans’ and Widows’ Educational Assistance . . . 1700” for “War Orphans’ Educational Assistance . . . 1701” in item for chapter 35.
 
-1966—Pub. L. 89–358, §§4(c), 6(b), Mar. 3, 1966, 80 Stat. 23, 27, substituted chapter “34. Veterans’ Educational Assistance . . . 1650” for chapter “33. Education of Korean Conflict Veterans . . . 1601” and added chapter 36; and substituted “Job Counseling and Employment Placement Service for Veterans” for “Unemployment Benefits for Veterans” in item for chapter 41, respectively.
+<b>1966</b>—Pub. L. 89–358, §§4(c), 6(b), Mar. 3, 1966, 80 Stat. 23, 27, substituted chapter “34. Veterans’ Educational Assistance . . . 1650” for chapter “33. Education of Korean Conflict Veterans . . . 1601” and added chapter 36; and substituted “Job Counseling and Employment Placement Service for Veterans” for “Unemployment Benefits for Veterans” in item for chapter 41, respectively.
 
-1965—Pub. L. 89–50, §1(b), June 24, 1965, 79 Stat. 173, struck out item for chapter 43 which related to mustering out payments.
+<b>1965</b>—Pub. L. 89–50, §1(b), June 24, 1965, 79 Stat. 173, struck out item for chapter 43 which related to mustering out payments.
+
+<i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. Does not conform to chapter heading.</i>
 
 
 ---

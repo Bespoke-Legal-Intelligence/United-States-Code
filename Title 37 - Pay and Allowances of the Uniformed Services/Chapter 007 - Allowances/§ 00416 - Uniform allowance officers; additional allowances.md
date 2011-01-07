@@ -8,7 +8,7 @@
 
 &emsp;(2) the officer enters on that tour within two years after completing a period of active duty of more than 90 days’ duration.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 477; Pub. L. 88–624, §1, Oct. 3, 1964, 78 Stat. 1002; Pub. L. 88–647, title II, §202(3), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–718, §63, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 96–513, title V, §516(13), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 101–189, div. A, title VI, §663(a), Nov. 29, 1989, 103 Stat. 1465; Pub. L. 106–398, §1 \[\[div. A\], title VI, §610(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–150; Pub. L. 107–107, div. A, title VI, §606(a), Dec. 28, 2001, 115 Stat. 1134.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 477; Pub. L. 88–624, §1, Oct. 3, 1964, 78 Stat. 1002; Pub. L. 88–647, title II, §202(3), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–718, §63, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 96–513, title V, §516(13), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 101–189, div. A, title VI,§663(a), Nov. 29, 1989, 103 Stat. 1465; Pub. L. 106–398, §1 \[\[div. A\], title VI, §610(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–150; Pub. L. 107–107, div. A, title VI, §606(a), Dec. 28, 2001, 115 Stat. 1134.)
 
 Historical and Revision Notes
 
@@ -34,19 +34,19 @@ In subsection (b), the introductory clause is substituted for the word “furthe
 
 #### Amendments
 
-2001—Subsec. (b)(1). Pub. L. 107–107 substituted “$400” for “$200”.
+<b>2001</b>—Subsec. (b)(1). Pub. L. 107–107 substituted “$400” for “$200”.
 
-2000—Subsec. (a). Pub. L. 106–398 substituted “$200” for “$100”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398 substituted “$200” for “$100”.
 
-1989—Subsec. (a). Pub. L. 101–189 redesignated first sentence of subsec. (b) as (a), substituted “section 415 of this title” for “section 415(a)–(c) of this title and subsection (a) of this section” and “the officer” for “he”, and struck out former subsec. (a) which read as follows: “In addition to the initial uniform allowance authorized by section 415(a)–(c) of this title, a reserve officer of an armed force who has not become entitled to a uniform reimbursement or allowance as an officer during the preceding four years, is entitled to not more than $50 as reimbursement for the purchase of required uniforms and equipment, upon completion of each period, after July 9, 1952, of four years of service, as prescribed by section 1332(a)(2) of title 10, in an active status in one or more reserve components, including at least 28 days of active duty. However, periods of active duty of more than 90 days may not be included in computing that four years of service.”
+<b>1989</b>—Subsec. (a). Pub. L. 101–189 redesignated first sentence of subsec. (b) as (a), substituted “section 415 of this title” for “section 415(a)–(c) of this title and subsection (a) of this section” and “the officer” for “he”, and struck out former subsec. (a) which read as follows: “In addition to the initial uniform allowance authorized by section 415(a)–(c) of this title, a reserve officer of an armed force who has not become entitled to a uniform reimbursement or allowance as an officer during the preceding four years, is entitled to not more than $50 as reimbursement for the purchase of required uniforms and equipment, upon completion of each period, after July 9, 1952, of four years of service, as prescribed by section 1332(a)(2) of title 10, in an active status in one or more reserve components, including at least 28 days of active duty. However, periods of active duty of more than 90 days may not be included in computing that four years of service.”
 
-Subsec. (b). Pub. L. 101–189 redesignated first sentence of subsec. (b) as (a) and in remaining provisionsof subsec. (b) substituted “Subsection (a) does not apply” for “However, this subsection does not apply”.
+Subsec. (b). Pub. L. 101–189 redesignated first sentence of subsec. (b) as (a) and in remaining provisions of subsec. (b) substituted “Subsection (a) does not apply” for “However, this subsection does not apply”.
 
-1980—Pub. L. 96–513 substituted “additional allowances” for “additional allowance” in section catchline.
+<b>1980</b>—Pub. L. 96–513 substituted “additional allowances” for “additional allowance” in section catchline.
 
-1966—Subsec. (b). Pub. L. 89–718 struck out “, United States Code,” after “title 10”.
+<b>1966</b>—Subsec. (b). Pub. L. 89–718 struck out “, United States Code,” after “title 10”.
 
-1964—Subsec. (a). Pub. L. 88–624 substituted “in one or more reserve components” for “in a reserve component” and “section 1332(a)(2)” for “section 1332”.
+<b>1964</b>—Subsec. (a). Pub. L. 88–624 substituted “in one or more reserve components” for “in a reserve component” and “section 1332(a)(2)” for “section 1332”.
 
 Subsec. (b). Pub. L. 88–647 included a regular officer of an armed force appointed under section 2106 or 2107 of title 10.
 

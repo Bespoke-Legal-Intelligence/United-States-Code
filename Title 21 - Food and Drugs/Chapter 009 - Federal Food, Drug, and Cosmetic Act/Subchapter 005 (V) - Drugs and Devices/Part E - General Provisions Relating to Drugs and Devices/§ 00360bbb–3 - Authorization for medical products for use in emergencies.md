@@ -56,7 +56,7 @@
 
 #### (B) Renewal
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the Secretary may renew a declaration underthis subsection, and this paragraph shall apply to any such renewal.
+&emsp;&emsp;Notwithstanding subparagraph (A), the Secretary may renew a declaration under this subsection, and this paragraph shall apply to any such renewal.
 
 #### (C) Disposition of product
 
@@ -224,5 +224,5 @@ Nothing in this section provides the Secretary any authority to require any pers
 
 #### Amendments
 
-2004—Pub. L. 108–276 amended section generally, substituting provisions of subsecs. (a) to (<i>l</i>) for similar former provisions, except for additional provisions in subsec. (b)(1) allowing Secretary to authorize use of medical products in actual or potential domestic and public health emergencies in addition to actual or potential military emergencies.
+<b>2004</b>—Pub. L. 108–276 amended section generally, substituting provisions of subsecs. (a) to (<i>l</i>) for similar former provisions, except for additional provisions in subsec. (b)(1) allowing Secretary to authorize use of medical products in actual or potential domestic and public health emergencies in addition to actual or potential military emergencies.
 

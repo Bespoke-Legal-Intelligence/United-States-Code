@@ -70,7 +70,7 @@ Notice and Wait Requirements.—The Secretary of the Navy may not carry out a tr
 
 &emsp;&emsp;(B) a justification for the transaction specifying the manner in which the transaction will meet the purposes of this section; and
 
-&emsp;(2) a period of 30 calendar days has elapsed following the date on which the notification is received by those committees.
+&emsp;(2) a period of 30 calendar days has elapsed following the date on which the notification is received by those committees or, if earlier, a period of 20 days has elapsed from the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title.
 
 (h)
 
@@ -114,7 +114,7 @@ Inapplicability of Certain Property Management Laws.—Except as otherwise provi
 
 (k)
 
-Scoring.—Nothing in this section shall be construed to waive the applicability to any lease entered into under this section of the budget scorekeeping guidelines used to measure compliance with the Balanced Budget and Emergency Deficit Control Act of 1985.
+Scoring.—Nothing in this section shall be construed to waive the applicability to any leaseentered into under this section of the budget scorekeeping guidelines used to measure compliance with the Balanced Budget and Emergency Deficit Control Act of 1985.
 
 (<i>l</i>)
 
@@ -124,7 +124,7 @@ Property Support Service Defined.—In this section, the term ‘property suppor
 
 &emsp;(2) Any other service determined by the Secretary to be a service that supports the operation and maintenance of real property, personal property, or facilities.
 
-(Added Pub. L. 106–65, div. B, title XXVIII, §2802(a)(1), Oct. 5, 1999, 113 Stat. 845; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(16)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 107–107, div. A, title X, §1048(d)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–217, §3(b)(18), Aug. 21, 2002, 116 Stat. 1296.)
+(Added Pub. L. 106–65, div. B, title XXVIII, §2802(a)(1), Oct. 5, 1999, 113 Stat. 845; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(16)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 107–107, div. A, title X, §1048(d)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–217, §3(b)(18), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 111–383, div. B, title XXVIII, §2803(c), Jan. 7, 2011, 124 Stat. 4459.)
 
 #### References in Text
 
@@ -132,9 +132,11 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 
 #### Amendments
 
-2002—Subsec. (j)(3). Pub. L. 107–217 substituted “Subchapter II of chapter 5 and sections 541–555 of title 40” for “Sections 202 and 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483, 484)”.
+<b>2011</b>—Subsec. (g)(2). Pub. L. 111–383 inserted before period at end “or, if earlier, a period of 20 days has elapsed from the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”.
 
-2001—Subsec. (j)(2). Pub. L. 107–107 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
+<b>2002</b>—Subsec. (j)(3). Pub. L. 107–217 substituted “Subchapter II of chapter 5 and sections 541–555 of title 40” for “Sections 202 and 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483, 484)”.
 
-2000—Subsec. (k). Pub. L. 106–398 inserted “and” after “Balanced Budget”.
+<b>2001</b>—Subsec. (j)(2). Pub. L. 107–107 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
+
+<b>2000</b>—Subsec. (k). Pub. L. 106–398 inserted “and” after “Balanced Budget”.
 

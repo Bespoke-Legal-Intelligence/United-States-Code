@@ -88,7 +88,7 @@ In carrying out the activities of this section, the Secretary shall coordinate r
 
 #### (4) Plans
 
-&emsp;No later than 1 year after December 19, 2007, and every 5 years thereafter, the Council, inconjunction with the Secretary, shall develop a 5-year plan for integrating basic and applied research so that the United States retains a globally competitive domestic energy storage industry for electric drive vehicles, stationary applications, and electricity transmission and distribution.
+&emsp;No later than 1 year after December 19, 2007, and every 5 years thereafter, the Council, in conjunction with the Secretary, shall develop a 5-year plan for integrating basic and applied research so that the United States retains a globally competitive domestic energy storage industry for electric drive vehicles, stationary applications, and electricity transmission and distribution.
 
 #### (5) Review
 
@@ -178,13 +178,13 @@ In carrying out the activities of this section, the Secretary shall coordinate r
 
 #### (7) Intellectual property
 
-&emsp;In accordance with section 202(a)(ii) of title 35, section 2182 of this title, and section 5908 of this title, the Secretary may require, for any new invention developed under this subsection, that—
+&emsp;In accordance with section 202(a)(ii) of title 35, section 2182 of this title, and section 5908 ofthis title, the Secretary may require, for any new invention developed under this subsection, that—
 
 &emsp;&emsp;(A) if an industrial participant is active in a <sup>1</sup> energy storage research center established under this subsection relating to the advancement of energy storage technologies carried out, in whole or in part, with Federal funding, the industrial participant be granted the first option to negotiate with the invention owner, at least in the field of energy storage technologies, nonexclusive licenses, and royalties on terms that are reasonable, as determined by the Secretary;
 
 &emsp;&emsp;(B) if 1 or more industry participants are active in a center, during a 2-year period beginning on the date on which an invention is made—
 
-&emsp;&emsp;&emsp;(i) the patent holder shall not negotiate any license or royalty agreement with anyentity that is not an industrial participant under this subsection; and
+&emsp;&emsp;&emsp;(i) the patent holder shall not negotiate any license or royalty agreement with any entity that is not an industrial participant under this subsection; and
 
 &emsp;&emsp;&emsp;(ii) the patent holder shall negotiate nonexclusive licenses and royalties in good faith with any interested industrial participant under this subsection; and
 
@@ -288,7 +288,7 @@ In carrying out the activities of this section, the Secretary shall coordinate r
 
 &emsp;&emsp;(E) Integration of advanced vehicle technologies with electricity distribution system and smart metering technology.
 
-&emsp;&emsp;(F) Control systems that minimize emissions profiles in cases in which clean diesel engines are part of a plug-in hybrid drive system.
+&emsp;&emsp;(F) Control systems that minimize emissions profiles in cases in which clean dieselengines are part of a plug-in hybrid drive system.
 
 #### (k) Secondary applications and disposal of electric drive vehicle batteries
 
@@ -335,4 +335,8 @@ There are authorized to be appropriated to carry out—
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (e)(3)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

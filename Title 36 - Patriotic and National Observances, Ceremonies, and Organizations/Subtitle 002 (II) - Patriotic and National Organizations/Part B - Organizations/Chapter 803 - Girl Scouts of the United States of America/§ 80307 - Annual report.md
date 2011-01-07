@@ -14,7 +14,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-80307D36:37.DMar. 16, 1950, ch. 62, §7, 64 Stat. 24; Aug. 14, 1953, ch. 486, §2, 67 Stat. 583; Aug. 30, 1964, Pub. L. 88–504, §4(2), 78 Stat. 636.
+80307
+
+36:37.
+
+Mar. 16, 1950, ch. 62, §7, 64 Stat. 24; Aug. 14, 1953, ch. 486, §2, 67 Stat. 583; Aug. 30, 1964, Pub. L. 88–504, §4(2), 78 Stat. 636.
 
 &nbsp;
 

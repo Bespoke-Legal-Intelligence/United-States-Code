@@ -28,7 +28,7 @@ A prior section 124, added Pub. L. 87–651, title II, §201(a), Sept. 7, 1962, 
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–190 designated existing provisions as par. (1) and added par. (2).
+<b>1991</b>—Subsec. (a). Pub. L. 102–190 designated existing provisions as par. (1) and added par. (2).
 
 #### Condition on Development of Forward Operating Locations for United States Southern Command Counter-Drug Detection and Monitoring Flights
 

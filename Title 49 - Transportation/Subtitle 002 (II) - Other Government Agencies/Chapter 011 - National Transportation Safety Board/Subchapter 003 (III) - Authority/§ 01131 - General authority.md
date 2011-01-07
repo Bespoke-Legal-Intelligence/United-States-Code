@@ -150,17 +150,17 @@ Section 2101(46) of title 46, referred to in subsec. (a)(1)(E), was repealed and
 
 #### Amendments
 
-2006—Subsec. (a)(1)(E). Pub. L. 109–443, §9(b), substituted “on or under the navigable waters, internal waters, or the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988,” for “on the navigable waters or territorial sea of the United States,” and inserted “(as defined in section 2101(46) of title 46)” after “vessel of the United States”.
+<b>2006</b>—Subsec. (a)(1)(E). Pub. L. 109–443, §9(b), substituted “on or under the navigable waters, internal waters, or the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988,” for “on the navigable waters or territorial sea of the United States,” and inserted “(as defined in section 2101(46) of title 46)” after “vessel of the United States”.
 
 Subsec. (c)(1). Pub. L. 109–443, §9(c), inserted “or the Secretary of the department in which the Coast Guard is operating” after “Transportation” in introductory provisions.
 
-2003—Subsec. (a)(2)(B), (C). Pub. L. 108–168 realigned margins.
+<b>2003</b>—Subsec. (a)(2)(B), (C). Pub. L. 108–168 realigned margins.
 
-2000—Subsec. (a)(2). Pub. L. 106–424, §6(a), designated existing provisions as subpar. (A), substituted “Subject to the requirements of this paragraph, an investigation” for “An investigation”, and added subpars. (B) and (C).
+<b>2000</b>—Subsec. (a)(2). Pub. L. 106–424, §6(a), designated existing provisions as subpar. (A), substituted “Subject to the requirements of this paragraph, an investigation” for “An investigation”, and added subpars. (B) and (C).
 
 Subsec. (d). Pub. L. 106–424, §7, substituted “1134(a), (b), (d), and (f)” for “1134(b)(2)”.
 
-1994—Subsec. (a)(1)(A). Pub. L. 103–411, §3(c)(1), inserted before semicolon at end “or an aircraft accident involving a public aircraft as defined by section 40102(a)(37) of this title other than an aircraft operated by the Armed Forces or by an intelligence agency of the United States”.
+<b>1994</b>—Subsec. (a)(1)(A). Pub. L. 103–411, §3(c)(1), inserted before semicolon at end “or an aircraft accident involving a public aircraft as defined by section 40102(a)(37) of this title other than an aircraft operated by the Armed Forces or by an intelligence agency of the United States”.
 
 Subsecs. (d), (e). Pub. L. 103–411, §3(c)(2), added subsec. (d) and redesignated former subsec. (d) as (e).
 

@@ -6,7 +6,7 @@ In this subchapter, except as specified otherwise:
 
 #### (A) In general
 
-&emsp;&emsp;The term “breach” means the unauthorized acquisition, access, use, or disclosure of protected health information which compromises the security or privacy of such information, except where an unauthorized person to whom such information is disclosed would not reasonably have been able to retain such information.
+&emsp;&emsp;The term “breach” means the unauthorized acquisition, access, use, or disclosure ofprotected health information which compromises the security or privacy of such information, except where an unauthorized person to whom such information is disclosed would not reasonably have been able to retain such information.
 
 #### (B) Exceptions
 
@@ -97,4 +97,8 @@ In this subchapter, except as specified otherwise:
 This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle D (§13400 et seq.) of title XIII of div. A of Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 258, which is classified principally to this subchapter. For complete classification of subtitle D to the Code, see Tables.
 
 Section 13101, referred to in par. (9), means section 13101 of div. A of Pub. L. 111–5.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “the”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

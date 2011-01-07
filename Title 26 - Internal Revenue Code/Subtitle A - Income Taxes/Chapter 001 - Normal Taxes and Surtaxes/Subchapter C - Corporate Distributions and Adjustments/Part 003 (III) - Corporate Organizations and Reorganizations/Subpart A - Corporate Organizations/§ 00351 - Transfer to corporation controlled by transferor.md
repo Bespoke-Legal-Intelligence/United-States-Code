@@ -62,7 +62,7 @@ This section shall not apply to—
 
 &emsp;&emsp;&emsp;(vi) except as otherwise provided in regulations prescribed by the Secretary, interests in any entity if substantially all of the assets of such entity consist (directly or indirectly) of any assets described in any preceding clause or clause (viii),
 
-&emsp;&emsp;&emsp;(vii) to the extent provided in regulations prescribed by the Secretary, any interest in any entity not described in clause (vi), but only to the extent of the value of such interest that is attributable to assets listed in clauses (i) through (v) or clause (viii), or
+&emsp;&emsp;&emsp;(vii) to the extent provided in regulations prescribed by the Secretary, any interest in any entity not described in clause (vi), but only to the extent of the value of such interest that is attributable to assetslisted in clauses (i) through (v) or clause (viii), or
 
 &emsp;&emsp;&emsp;(viii) any other asset specified in regulations prescribed by the Secretary.
 
@@ -148,7 +148,7 @@ If—
 
 #### (4) Regulations
 
-&emsp;The Secretary may prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection and sections 354(a)(2)(C), 355(a)(3)(D), and 356(e). The Secretary may also prescribe regulations, consistent with the treatment under this subsection and such sections, for the treatment of nonqualified preferred stock under other provisions of this title.
+&emsp;The Secretary may prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection andsections 354(a)(2)(C), 355(a)(3)(D), and 356(e). The Secretary may also prescribe regulations, consistent with the treatment under this subsection and such sections, for the treatment of nonqualified preferred stock under other provisions of this title.
 
 #### (h) Cross references
 
@@ -162,19 +162,19 @@ If—
 
 &emsp;&emsp;<b>(5) For coordination of this section with section 304, see section 304(b)(3).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 111; Pub. L. 89–809, title II, §203(a), (b), Nov. 13, 1966, 80 Stat. 1577; Pub. L. 94–455, title XIX, §1901(a)(48)(A), (B), Oct. 4, 1976, 90 Stat. 1772; Pub. L. 96–589, §5(e), Dec. 24, 1980, 94 Stat. 3406; Pub. L. 97–248, title II, §226(a)(1)(B), Sept. 3, 1982, 96 Stat. 491; Pub. L. 100–647, title I, §1018(d)(5)(G), Nov. 10, 1988, 102 Stat. 3580; Pub. L. 101–239, title VII, §7203(a), (b), Dec. 19, 1989, 103 Stat. 2333; Pub. L. 101–508, title XI, §11704(a)(3), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 105–34, title X, §§1002(a), 1012(c)(1), 1014(a), Aug. 5, 1997, 111 Stat. 909, 916, 919; Pub. L. 105–206, title VI, §6010(c)(3)(A), (e)(1), July 22, 1998, 112 Stat. 813, 814; Pub. L. 105–277,div. J, title IV, §4003(f)(1), Oct. 21, 1998, 112 Stat. 2681–910; Pub. L. 106–36, title III, §3001(d)(1), June 25, 1999, 113 Stat. 183; Pub. L. 107–147, title IV, §417(9), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–357, title VIII, §899(a), Oct. 22, 2004, 118 Stat. 1649; Pub. L. 109–135, title IV, §403(kk), Dec. 21, 2005, 119 Stat. 2632.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 111; Pub. L. 89–809, title II, §203(a), (b), Nov. 13, 1966, 80 Stat. 1577; Pub. L. 94–455, title XIX, §1901(a)(48)(A), (B), Oct. 4, 1976, 90 Stat. 1772; Pub. L. 96–589, §5(e), Dec. 24, 1980, 94 Stat. 3406; Pub. L. 97–248, title II, §226(a)(1)(B), Sept. 3, 1982, 96 Stat. 491; Pub. L. 100–647, title I, §1018(d)(5)(G), Nov. 10, 1988, 102 Stat. 3580; Pub. L. 101–239, title VII, §7203(a), (b), Dec. 19, 1989, 103 Stat. 2333; Pub. L. 101–508, title XI, §11704(a)(3), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 105–34, title X, §§1002(a), 1012(c)(1), 1014(a), Aug. 5, 1997, 111 Stat. 909, 916, 919; Pub. L. 105–206, title VI, §6010(c)(3)(A), (e)(1), July 22, 1998, 112 Stat. 813, 814; Pub. L. 105–277, div. J, title IV, §4003(f)(1), Oct. 21, 1998, 112 Stat. 2681–910; Pub. L. 106–36, title III, §3001(d)(1), June 25, 1999, 113 Stat. 183; Pub. L. 107–147, title IV, §417(9), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–357, title VIII, §899(a), Oct. 22, 2004, 118 Stat. 1649; Pub. L. 109–135, title IV, §403(kk), Dec. 21, 2005, 119 Stat. 2632.)
 
 #### Amendments
 
-2005—Subsec. (g)(3)(A). Pub. L. 109–135 inserted at end “If there is not a real and meaningful likelihood that dividends beyond any limitation or preference will actually be paid, the possibility of such payments will be disregarded in determining whether stock is limited and preferred as to dividends.”
+<b>2005</b>—Subsec. (g)(3)(A). Pub. L. 109–135 inserted at end “If there is not a real and meaningful likelihood that dividends beyond any limitation or preference will actually be paid, the possibility of such payments will be disregarded in determining whether stock is limited and preferred as to dividends.”
 
-2004—Subsec. (g)(3)(A). Pub. L. 108–357 inserted at end “Stock shall not be treated as participating in corporate growth to any significant extent unless there is a real and meaningful likelihood of the shareholder actually participating in the earnings and growth of the corporation.”
+<b>2004</b>—Subsec. (g)(3)(A). Pub. L. 108–357 inserted at end “Stock shall not be treated as participating in corporate growth to any significant extent unless there is a real and meaningful likelihood of the shareholder actually participating in the earnings and growth of the corporation.”
 
-2002—Subsec. (h)(1). Pub. L. 107–147 inserted comma after “liability”.
+<b>2002</b>—Subsec. (h)(1). Pub. L. 107–147 inserted comma after “liability”.
 
-1999—Subsec. (h)(1). Pub. L. 106–36 struck out “, or acquires property subject to a liability,” after “liability”.
+<b>1999</b>—Subsec. (h)(1). Pub. L. 106–36 struck out “, or acquires property subject to a liability,” after “liability”.
 
-1998—Subsec. (c). Pub. L. 105–206, §6010(c)(3)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In determining control for purposes of this section—
+<b>1998</b>—Subsec. (c). Pub. L. 105–206, §6010(c)(3)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In determining control for purposes of this section—
 
 &emsp;“(1) the fact that any corporate transferor distributes part or all of the stock in the corporation which it receives in the exchange to its shareholders shall not be taken into account, and
 
@@ -192,25 +192,25 @@ Subsec. (g)(1)(A) to (C). Pub. L. 105–206, §6010(e)(1), inserted “and” at
 
 “(C) such nonqualified preferred stock shall be treated as other property for purposes of applying subsection (b).”
 
-1997—Subsec. (c). Pub. L. 105–34, §1012(c)(1), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “In determining control, for purposes of this section, the fact that any corporate transferor distributes part or all of the stock which it receives in the exchange to its shareholders shall not be taken into account.”
+<b>1997</b>—Subsec. (c). Pub. L. 105–34, §1012(c)(1), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “In determining control, for purposes of this section, the fact that any corporate transferor distributes part or all of the stock which it receives in the exchange to its shareholders shall not be taken into account.”
 
 Subsec. (e)(1). Pub. L. 105–34, §1002(a), inserted last two sentences.
 
 Subsecs. (g), (h). Pub. L. 105–34, §1014(a), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-1990—Subsec. (e)(2). Pub. L. 101–508 substituted “is used” for “are used”.
+<b>1990</b>—Subsec. (e)(2). Pub. L. 101–508 substituted “is used” for “are used”.
 
-1989—Subsec. (a). Pub. L. 101–239, §7203(a), struck out “or securities” after “stock”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7203(a), struck out “or securities” after “stock”.
 
 Subsecs. (b), (d), (e)(2). Pub. L. 101–239, §7203(b)(1), struck out “or securities” after “stock”.
 
 Subsec. (g)(2). Pub. L. 101–239, §7203(b)(2), substituted “stock or property” for “stock, securities, or property”.
 
-1988—Subsecs. (f), (g). Pub. L. 100–647 added subsec. (f) and redesignated former subsec. (f) as (g).
+<b>1988</b>—Subsecs. (f), (g). Pub. L. 100–647 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1982—Subsec. (f)(5). Pub. L. 97–248 added par. (5).
+<b>1982</b>—Subsec. (f)(5). Pub. L. 97–248 added par. (5).
 
-1980—Subsec. (a). Pub. L. 96–589, §5(e)(2), struck out provision that stock or securities issued for services shall not be considered as issued in return for property for purposes of this section.
+<b>1980</b>—Subsec. (a). Pub. L. 96–589, §5(e)(2), struck out provision that stock or securities issued for services shall not be considered as issued in return for property for purposes of this section.
 
 Subsec. (d). Pub. L. 96–589, §5(e)(1), added subsec. (d). Former subsec. (d) redesignated (e)(1).
 
@@ -218,11 +218,11 @@ Subsec. (e). Pub. L. 96–589, §5(e)(2), redesignated former subsec. (d) as par
 
 Subsec. (f). Pub. L. 96–589, §5(e)(1), redesignated former subsec. (e) as (f).
 
-1976—Subsec. (a). Pub. L. 94–455, §1901(a)(48)(A), struck out “(including, in the case of transfers made on or before June 30, 1967, an investment company)” after “property is transferred to a corporation”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1901(a)(48)(A), struck out “(including, in the case of transfers made on or before June 30, 1967, an investment company)” after “property is transferred to a corporation”.
 
 Subsec. (d). Pub. L. 94–455, §1901(a)(48)(B), among other changes, substituted “Exception” for “Application of June 30, 1967, date” in heading and in text provision that this section does not apply to a transfer of property to an investment company for provisions relating to treatment of a transfer of property to an investment company as made on or before June 30, 1967.
 
-1966—Subsec. (a). Pub. L. 89–809, §203(a), inserted “(including, in the case of transfers made on or before June 30, 1967, an investment company)” after “if property is transferred to a corporation”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–809, §203(a), inserted “(including, in the case of transfers made on or before June 30, 1967, an investment company)” after “if property is transferred to a corporation”.
 
 Subsecs. (d), (e). Pub. L. 89–809, §203(b), added subsec. (d) and redesignated former subsec. (d) as (e).
 
@@ -236,7 +236,7 @@ Pub. L. 108–357, title VIII, §899(b), Oct. 22, 2004, 118 Stat. 1649, provided
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–36, title III, §3001(e), June 25, 1999, 113 Stat. 184, provided that: “The amendments made by this section \[amending this section and sections 357, 358, 362, 368, 584, and 1031 of this title\] shall apply to transfers after October 18, 1998.”
+Pub. L. 106–36, title III, §3001(e), June 25, 1999, 113 Stat. 184, provided that: “The amendments made bythis section \[amending this section and sections 357, 358, 362, 368, 584, and 1031 of this title\] shall apply to transfers after October 18, 1998.”
 
 #### Effective Date of 1998 Amendments
 
@@ -260,7 +260,7 @@ Section 1012(d) of Pub. L. 105–34, as amended by Pub. L. 105–206, title VI, 
 
 “(1)
 
-Section 355 rules.—The amendments made by subsections (a) and (b) \[amending sections 355 and 358 of this title\] shall apply to distributions after April 16,1997; except that the amendment made by subsection (a) \[amending section 355 of this title\] shall apply to such distributions only if pursuant to a plan (or series of related transactions) which involves an acquisition described in section 355(e)(2)(A)(ii) of the Internal Revenue Code of 1986 occurring after such date.
+Section 355 rules.—The amendments made by subsections (a) and (b) \[amending sections 355 and 358 of this title\] shall apply to distributions after April 16, 1997; except that the amendment made by subsection (a) \[amending section 355 of this title\] shall apply to such distributions only if pursuant to a plan (or series of related transactions) which involves an acquisition described in section 355(e)(2)(A)(ii) of the Internal Revenue Code of 1986 occurring after such date.
 
 “(2)
 

@@ -36,7 +36,7 @@ The term “net earnings from self-employment” means the gross income derived 
 
 &emsp;(9) the exclusion from gross income provided by section 931 shall not apply;
 
-&emsp;(10) there shall be excluded amounts received by a partner pursuant to a written plan of the partnership, which meets such requirements as are prescribed by the Secretary, and which provides for payments on account of retirement, on a periodic basis, to partners generally or to a class or classes of partners, such payments to continue at least until such partner's death, if—
+&emsp;(10) there shall be excluded amounts received by a partner pursuant to a written plan of the partnership, which meets such requirements as are prescribed by the Secretary, and whichprovides for payments on account of retirement, on a periodic basis, to partners generally or to a class or classes of partners, such payments to continue at least until such partner's death, if—
 
 &emsp;&emsp;(A) such partner rendered no services with respect to any trade or business carried on by such partnership (or its successors) during the taxable year of such partnership (or its successors), ending within or with his taxable year, in which such amounts were received, and
 
@@ -148,7 +148,7 @@ The term “employee” and the term “wages” shall have the same meaning as 
 
 #### (f) Partner's taxable year ending as the result of death
 
-In computing a partner's net earnings from self-employment for his taxable year which ends as a result of his death (but only if such taxableyear ends within, and not with, the taxable year of the partnership), there shall be included so much of the deceased partner's distributive share of the partnership's ordinary income or loss for the partnership taxable year as is not attributable to an interest in the partnership during any period beginning on or after the first day of the first calendar month following the month in which such partner died. For purposes of this subsection—
+In computing a partner's net earnings from self-employment for his taxable year which ends as a result of his death (but only if such taxable year ends within, and not with, the taxable year of the partnership), there shall be included so much of the deceased partner's distributive share of the partnership's ordinary income or loss for the partnership taxable year as is not attributable to an interest in the partnership during any period beginning on or after the first day of the first calendar month following the month in which such partner died. For purposes of this subsection—
 
 &emsp;(1) in determining the portion of the distributive share which is attributable to any period specified in the preceding sentence, the ordinary income or loss of the partnership shall be treated as having been realized or sustained ratably over the partnership taxable year; and
 
@@ -162,7 +162,7 @@ In computing a partner's net earnings from self-employment for his taxable year 
 
 &emsp;&emsp;(A) such evidence of such individual's membership in, and adherence to the tenets or teachings of, the sect or division thereof as the Secretary may require for purposes of determining such individual's compliance with the preceding sentence, and
 
-&emsp;&emsp;(B) his waiver of all benefits and other payments under titles II and XVIII of the Social Security Act on the basis of his wages and self-employment income as well as all such benefits and other payments to him on the basis of the wages and self-employment income of any other person,
+&emsp;&emsp;(B) his waiver of all benefits and other payments under titles II and XVIII of the Social Security Act on the basis of his wages and self-employment income as well as all such benefits and other payments to him onthe basis of the wages and self-employment income of any other person,
 
 > &emsp;and only if the Commissioner of Social Security finds that—
 
@@ -272,7 +272,11 @@ For purposes of subsection (a)—
 
 &emsp;The upper limit for any taxable year is the amount equal to 150 percent of the lower limit for such taxable year.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 353; Sept. 1, 1954, ch. 1206, title II, §201(a)–(c), 68 Stat. 1087; Aug. 1, 1956, ch. 836, title II, §201(e)(2), (3), (f), (g), (i), 70 Stat. 840–842; Pub. L. 85–239, §§1(a), (b), 2, 5(b), Aug. 30, 1957, 71 Stat. 521–523; Pub. L. 85–840, title IV, §§402(a), 403(a), Aug. 28, 1958, 72 Stat. 1042, 1043; Pub. L. 86–778, title I, §§101(a)–(c), 103(k), (<i>l</i>), 105(c)(1), 106(b), Sept. 13, 1960, 74 Stat. 926, 927, 938, 944, 945; Pub. L. 87–64, title II, §202(a), June 30, 1961, 75 Stat. 141; Pub. L. 88–272, title II, §227(b)(6), Feb. 26, 1964, 78 Stat. 98; Pub. L. 88–650, §2(a), (b), Oct. 13, 1964, 78 Stat. 1076, 1077; Pub. L. 89–97, title III, §§311(b)(1)–(3), 312(b), 319(a), (c), 320(b)(1), 331(a), 341(a), (b), July 30, 1965, 79 Stat. 381, 390, 391, 393, 401, 411; Pub. L. 89–368, title I, §102(c), Mar. 15, 1966, 80 Stat. 64; Pub. L. 90–248, title I, §§108(b)(1), 115(b), 118(a), 122(b), title V, §§501(a), 502(b)(1), Jan. 2, 1968, 81 Stat. 835, 839, 841, 843, 933, 934; Pub. L. 92–5, title II, §203(b)(1), Mar. 17, 1971, 85 Stat. 10; Pub. L. 92–336, title II, §203(b)(1), July 1, 1972, 86 Stat. 418; Pub. L. 92–603, title I, §§121(b), 124(b), 140(b), Oct. 30, 1972, 86 Stat. 1353, 1357, 1366; Pub. L. 93–66, title II, §203(b)(1), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(b)(1), Dec. 31, 1973, 87 Stat. 954; Pub. L. 93–368, §10(b), Aug. 7, 1974, 88 Stat. 422; Pub. L. 94–92, title II, §203(a), Aug. 9, 1975, 89 Stat. 465; Pub. L. 94–455, title XII, §1207(e)(1)(B), title XIX, §§1901(a)(155), (b)(1)(I)(iii), (X), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1707, 1789, 1791, 1792, 1834; Pub. L. 95–216, title III, §313(b), Dec. 20, 1977, 91 Stat. 1536; Pub. L. 95–600, title VII, §703(j)(8), Nov. 6, 1978, 92 Stat. 2941; Pub. L. 95–615, §202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5), Pub. L. 96–222, title I, §108(a)(1)(A), Apr. 1, 1980, 94 Stat. 223; Pub. L. 97–34, title I, §111(b)(3), (5), Aug. 13, 1981, 95 Stat. 194; Pub. L. 97–248, title II, §278(a)(2), Sept. 3, 1982, 96 Stat. 559; Pub. L. 98–21, title I, §124(c)(2), title III, §§321(e)(3), 322(b)(2), 323(b)(1), Apr. 20, 1983, 97 Stat. 90, 120, 121; Pub. L. 98–369, div. A, title I, §102(c)(1), div. B, title VI, §§2603(c)(2), (d)(2), 2663(j)(5)(B), July 18, 1984, 98 Stat. 622, 1129, 1130, 1171; Pub. L. 99–272, title XIII, §13205(a)(2)(B), Apr. 7, 1986, 100 Stat. 315; Pub. L. 99–509, title IX, §9002(b)(1)(B), Oct. 21, 1986, 100 Stat. 1971; Pub. L. 99–514, title III, §301(b)(12), title XII, §1272(d)(8), (9), title XVII, §1704(a)(1), (2), title XVIII, §§1882(a), (b)(1), 1883(a)(11)(A), Oct. 22, 1986, 100 Stat. 2218, 2594, 2779, 2914, 2916; Pub. L. 100–203, title IX, §9022(b),Dec. 22, 1987, 101 Stat. 1330–295; Pub. L. 100–647, title III, §3043(c)(1), title VIII, §8007(c), Nov. 10, 1988, 102 Stat. 3642, 3783; Pub. L. 101–239, title X, §10204(a)(1), Dec. 19, 1989, 103 Stat. 2474; Pub. L. 101–508, title V, §§5123(a)(3), 5130(a)(2), title XI, §11331(b), Nov. 5, 1990, 104 Stat. 1388–284, 1388–289, 1388–467; Pub. L. 103–66, title XIII, §13207(b), Aug. 10, 1993, 107 Stat. 468; Pub. L. 103–296, title I, §108(h)(1), title III, §319(a)(4), Aug. 15, 1994, 108 Stat. 1487, 1534; Pub. L. 104–188, title I, §1456(a), Aug. 20, 1996, 110 Stat. 1818; Pub. L. 105–34, title IX, §922(a), Aug. 5, 1997, 111 Stat. 879; Pub. L. 108–203, title IV, §425(b), Mar. 2, 2004, 118 Stat. 536; Pub. L. 108–357, title I, §102(d)(7), Oct. 22, 2004, 118 Stat. 1429; Pub. L. 110–28, title VIII, §8215(b)(1), May 25, 2007, 121 Stat. 193; Pub. L. 110–234, title XV, §§15301(a), 15352(a), May 22, 2008, 122 Stat. 1501, 1525; Pub. L. 110–246, §4(a), title XV, §§15301(a), 15352(a), June 18, 2008, 122 Stat. 1664, 2263, 2287.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 353; Sept. 1, 1954, ch. 1206, title II, §201(a)–(c), 68 Stat. 1087; Aug. 1, 1956, ch. 836, title II, §201(e)(2), (3), (f), (g), (i), 70 Stat. 840–842; Pub. L. 85–239, §§1(a), (b), 2, 5(b), Aug. 30, 1957, 71 Stat. 521–523; Pub. L. 85–840, title IV, §§402(a), 403(a), Aug. 28, 1958, 72 Stat. 1042, 1043; Pub. L. 86–778, title I, §§101(a)–(c), 103(k), (<i>l</i>), 105(c)(1), 106(b), Sept. 13, 1960, 74 Stat. 926, 927, 938, 944, 945; Pub. L. 87–64, title II, §202(a), June 30, 1961, 75 Stat. 141; Pub. L. 88–272, title II, §227(b)(6), Feb. 26, 1964, 78 Stat. 98; Pub. L. 88–650, §2(a), (b), Oct. 13, 1964, 78 Stat. 1076, 1077; Pub. L. 89–97, title III, §§311(b)(1)–(3), 312(b), 319(a), (c), 320(b)(1), 331(a), 341(a), (b), July 30, 1965, 79 Stat. 381, 390, 391, 393, 401, 411; Pub. L. 89–368, title I, §102(c), Mar. 15, 1966, 80 Stat. 64; Pub. L. 90–248, title I, §§108(b)(1), 115(b), 118(a), 122(b), title V, §§501(a), 502(b)(1), Jan. 2, 1968, 81 Stat. 835, 839, 841, 843, 933, 934; Pub. L. 92–5, title II, §203(b)(1), Mar. 17, 1971, 85 Stat. 10; Pub. L. 92–336, title II, §203(b)(1), July 1, 1972, 86 Stat. 418; Pub. L. 92–603, title I, §§121(b), 124(b), 140(b), Oct. 30, 1972, 86 Stat. 1353, 1357, 1366; Pub. L. 93–66, title II, §203(b)(1), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(b)(1), Dec. 31, 1973, 87 Stat. 954; Pub. L. 93–368, §10(b), Aug. 7, 1974, 88 Stat. 422; Pub. L. 94–92, title II, §203(a), Aug. 9, 1975, 89 Stat. 465; Pub. L. 94–455, title XII, §1207(e)(1)(B), title XIX, §§1901(a)(155), (b)(1)(I)(iii), (X), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1707, 1789, 1791, 1792, 1834; Pub. L. 95–216, title III, §313(b), Dec. 20, 1977, 91 Stat. 1536; Pub. L. 95–600, title VII, §703(j)(8), Nov. 6, 1978, 92 Stat. 2941; Pub. L. 95–615, §202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5), Pub. L. 96–222, title I, §108(a)(1)(A), Apr. 1, 1980, 94 Stat. 223; Pub. L. 97–34, title I, §111(b)(3), (5), Aug. 13, 1981, 95 Stat. 194; Pub. L. 97–248, title II, §278(a)(2), Sept. 3, 1982, 96 Stat. 559; Pub. L. 98–21, title I, §124(c)(2), title III, §§321(e)(3), 322(b)(2), 323(b)(1), Apr. 20, 1983, 97 Stat. 90, 120, 121; Pub. L. 98–369, div. A, title I, §102(c)(1), div. B, title VI, §§2603(c)(2), (d)(2), 2663(j)(5)(B), July 18, 1984, 98 Stat. 622, 1129, 1130, 1171; Pub. L. 99–272, title XIII, §13205(a)(2)(B), Apr. 7, 1986, 100 Stat. 315; Pub. L. 99–509, title IX, §9002(b)(1)(B), Oct. 21, 1986, 100 Stat. 1971; Pub. L. 99–514, title III, §301(b)(12), title XII, §1272(d)(8), (9), title XVII, §1704(a)(1), (2), title XVIII, §§1882(a), (b)(1), 1883(a)(11)(A), Oct. 22, 1986, 100 Stat. 2218, 2594, 2779, 2914, 2916; Pub. L. 100–203, title IX, §9022(b), Dec. 22, 1987, 101 Stat. 1330–295; Pub. L. 100–647, title III, §3043(c)(1), title VIII, §8007(c), Nov. 10, 1988, 102 Stat. 3642, 3783; Pub. L. 101–239, title X, §10204(a)(1), Dec. 19, 1989, 103 Stat. 2474; Pub. L. 101–508, title V, §§5123(a)(3), 5130(a)(2), title XI, §11331(b), Nov. 5, 1990, 104 Stat. 1388–284, 1388–289, 1388–467; Pub. L. 103–66, title XIII, §13207(b), Aug. 10, 1993, 107 Stat. 468; Pub. L. 103–296, title I, §108(h)(1), title III, §319(a)(4), Aug. 15, 1994, 108 Stat. 1487, 1534; Pub. L. 104–188, title I, §1456(a), Aug. 20, 1996, 110 Stat. 1818; Pub. L. 105–34, title IX, §922(a), Aug. 5, 1997, 111 Stat. 879; Pub. L. 108–203, title IV, §425(b), Mar. 2, 2004, 118 Stat. 536; Pub. L. 108–357, title I, §102(d)(7), Oct. 22, 2004, 118 Stat. 1429; Pub. L. 110–28, title VIII, §8215(b)(1), May 25, 2007, 121 Stat. 193; Pub. L. 110–234, title XV, §§15301(a), 15352(a), May 22, 2008, 122 Stat. 1501, 1525; Pub. L. 110–246, §4(a), title XV, §§15301(a), 15352(a), June 18, 2008, 122 Stat. 1664, 2263, 2287; Pub. L. 111–148, title IX, §9015(b)(2)(B), Mar. 23, 2010, 124 Stat. 871.)
+
+#### Amendment of Subsection (a)(12)(B)
+
+<i>Pub. L. 111–148, title IX, §9015(b)(2)(B), (c), Mar. 23, 2010, 124 Stat. 871, 872, provided that, applicable with respect to remuneration received, and taxable years beginning, after Dec. 31, 2012, subsection (a)(12)(B) of this section is amended by inserting “(determined without regard to the rate imposed under paragraph (2) of section 1401(b))” after “for such year”.</i>
 
 #### References in Text
 
@@ -286,35 +290,35 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §15352(a)(1), in concluding provisions, substituted “the upper limit” for “$2,400” wherever appearing and “the lower limit” for “$1,600” wherever appearing.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §15352(a)(1), in concluding provisions, substituted “the upper limit” for “$2,400” wherever appearing and “the lower limit” for “$1,600” wherever appearing.
 
 Subsec. (a)(1). Pub. L. 110–246, §15301(a), inserted “, and including payments under section 1233(2) of the Food Security Act of 1985 (16 U.S.C. 3833(2)) to individuals receiving benefits under section 202 or 223 of the Social Security Act” after “crop shares”.
 
 Subsec. (<i>l</i>). Pub. L. 110–246, §15352(a)(2), added subsec. (<i>l</i>).
 
-2007—Subsec. (a)(17). Pub. L. 110–28 added par. (17).
+<b>2007</b>—Subsec. (a)(17). Pub. L. 110–28 added par. (17).
 
-2004—Subsec. (a)(5)(A). Pub. L. 108–203 substituted “the gross income and deductions attributable to such trade or business shall be treated as the gross income and deductions of the spouse carrying on such trade or business or, if such trade or business is jointly operated, treated as the gross income and deductions of each spouse on the basis of their respective distributive share of the gross income and deductions; and” for “all of the gross income and deductions attributable to such trade or business shall be treated as the gross income and deductions of the husband unless the wife exercises substantially all of the management and control of such trade or business, in which case all of such gross income and deductions shall be treated as the gross income and deductions of the wife; and”.
+<b>2004</b>—Subsec. (a)(5)(A). Pub. L. 108–203 substituted “the gross income and deductions attributable to such trade or business shall be treated as the gross income and deductions of the spouse carrying on such trade or business or, if such trade or business is jointly operated, treated as the gross income and deductions of each spouse on the basis of their respective distributive share of the gross income and deductions; and” for “all of the gross income and deductions attributable to such trade or business shall be treated as the gross income and deductions of the husband unless the wife exercises substantially all of the management and control of such trade or business, in which case all of such gross income and deductions shall be treated as the gross income and deductions of the wife; and”.
 
 Subsec. (a)(16). Pub. L. 108–357 added par. (16).
 
-1997—Subsec. (k). Pub. L. 105–34 added subsec. (k).
+<b>1997</b>—Subsec. (k). Pub. L. 105–34 added subsec. (k).
 
-1996—Subsec. (a)(8). Pub. L. 104–188 inserted before semicolon at end “, but shall not include in such net earnings from self-employment the rental value of any parsonage or any parsonage allowance (whether or not excludable under section 107) provided after the individual retires, or any other retirement benefit received by such individual from a church plan (as defined in section 414(e)) after the individual retires”.
+<b>1996</b>—Subsec. (a)(8). Pub. L. 104–188 inserted before semicolon at end “, but shall not include in such net earnings from self-employment the rental value of any parsonage or any parsonage allowance (whether or not excludable under section 107) provided after the individual retires, or any other retirement benefit received by such individual from a church plan (as defined in section 414(e)) after the individual retires”.
 
-1994—Subsec. (c)(1). Pub. L. 103–296, §108(h)(1), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
+<b>1994</b>—Subsec. (c)(1). Pub. L. 103–296, §108(h)(1), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
 
 Subsec. (c)(2)(C). Pub. L. 103–296, §319(a)(4), inserted at end “except service which constitutes ‘employment’ under section 3121(y),”.
 
 Subsecs. (c)(2)(E), (e)(2), (g)(1), (2)(A), (B). Pub. L. 103–296, §108(h)(1), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
 
-1993—Subsec. (b). Pub. L. 103–66, §13207(b)(1)(C), (D), in concluding provisions, inserted “and” after “section 3121(b),” and struck out “and (C) includes, but only with respect to the tax imposed by section 1401(b), remuneration paid for medicare qualified government employment (as defined in section 3121(u)(3)) which is subject to the taxes imposed by sections 3101(b) and 3111(b)” after “section 3201 or 3211,”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–66, §13207(b)(1)(C), (D), in concluding provisions, inserted “and” after “section 3121(b),” and struck out “and (C) includes, but only with respect to the tax imposed by section 1401(b), remuneration paid for medicare qualified government employment (as defined in section 3121(u)(3)) which is subject to the taxes imposed by sections 3101(b) and 3111(b)” after “section 3201 or 3211,”.
 
 Subsec. (b)(1). Pub. L. 103–66, §13207(b)(1)(A), (B), substituted “in the case of the tax imposed by section 1401(a), that part of the net” for “that part of the net” and “contribution and benefit base (as determined under section 230 of the Social Security Act)” for “applicable contribution base (as determined under subsection (k))”.
 
 Subsec. (k). Pub. L. 103–66, §13207(b)(2), struck out subsec. (k) which defined parameters of the applicable contribution base under this chapter.
 
-1990—Subsec. (a). Pub. L. 101–508, §5123(a)(3), struck out last undesignated par. which read as follows: “Any income of an individual which results from or is attributable to the performance of services by such individual as a director of a corporation during any taxable year shall be deemed to have been derived (and received) by such individual in that year, at the time the services were performed, regardless of when the income is actually paid to or received by such individual (unless it was actually paid and received prior to that year).”
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §5123(a)(3), struck out last undesignated par. which read as follows: “Any income of an individual which results from or is attributable to the performance of services by such individual as a director of a corporation during any taxable year shall be deemed to have been derived (and received) by such individual in that year, at the time the services were performed, regardless of when the income is actually paid to or received by such individual (unless it was actually paid and received prior to that year).”
 
 Subsec. (b). Pub. L. 101–508, §5130(a)(2), amended directory language of Pub. L. 98–21, §322(b)(2). See 1983 Amendment note below.
 
@@ -322,17 +326,17 @@ Subsec. (b)(1)(i). Pub. L. 101–508, §11331(b)(1), substituted “the applicab
 
 Subsec. (k). Pub. L. 101–508, §11331(b)(2), added subsec. (k).
 
-1989—Subsec. (g)(3). Pub. L. 101–239 substituted “to apply” for “not to apply” in heading and “shall apply” for “shall not apply” in text.
+<b>1989</b>—Subsec. (g)(3). Pub. L. 101–239 substituted “to apply” for “not to apply” in heading and “shall apply” for “shall not apply” in text.
 
-1988—Subsec. (a)(15). Pub. L. 100–647, §3043(c)(1), added par. (15).
+<b>1988</b>—Subsec. (a)(15). Pub. L. 100–647, §3043(c)(1), added par. (15).
 
 Subsec. (g)(2) to (5). Pub. L. 100–647, §8007(c), struck out par. (2) which related to time for filing applications, struck out par. (4) which related to application by fiduciaries or survivors, and redesignated pars. (3) and (5) as (2) and (3), respectively.
 
-1987—Subsec. (a). Pub. L. 100–203 inserted par. at end relating to income of an individual which results from or is attributable to the performance of services by such individual as a director of a corporation.
+<b>1987</b>—Subsec. (a). Pub. L. 100–203 inserted par. at end relating to income of an individual which results from or is attributable to the performance of services by such individual as a director of a corporation.
 
-1986—Subsec. (a)(8). Pub. L. 99–514, §1272(d)(8), inserted “and” after “of the employer),” and struck out “and section 931 (relating to income from sources within possessions of the United States)” after “living abroad)”.
+<b>1986</b>—Subsec. (a)(8). Pub. L. 99–514, §1272(d)(8), inserted “and” after “of the employer),” and struck out “and section 931 (relating to income from sources within possessions of the United States)” after “living abroad)”.
 
-Subsec. (a)(9). Pub. L. 99–514, §1272(d)(9), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “the term ‘possession of the United States’ as used in sections 931 (relating to income from sources within possessions of the United States) and 932 (relating to citizens of possessions of the United States) shallbe deemed not to include the Virgin Islands, Guam, or American Samoa;”.
+Subsec. (a)(9). Pub. L. 99–514, §1272(d)(9), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “the term ‘possession of the United States’ as used in sections 931 (relating to income from sources within possessions of the United States) and 932 (relating to citizens of possessions of the United States) shall be deemed not to include the Virgin Islands, Guam, or American Samoa;”.
 
 Subsec. (a)(14). Pub. L. 99–514, §1882(b)(1)(B)(i), amended par. (14) generally. Prior to amendment, par. (14) read as follows: “with respect to remuneration for services which are treated as services in a trade or business under subsection (c)(2)(G)—
 
@@ -364,7 +368,7 @@ Subsec. (i)(1). Pub. L. 99–514, §301(b)(12), amended par. (1) generally. Prio
 
 Subsec. (j). Pub. L. 99–514, §1882(b)(1)(A), added subsec. (j).
 
-1984—Subsec. (a)(14). Pub. L. 98–369, §2603(d)(2), added par. (14).
+<b>1984</b>—Subsec. (a)(14). Pub. L. 98–369, §2603(d)(2), added par. (14).
 
 Subsec. (c)(1), (2)(E). Pub. L. 98–369, §2663(j)(5)(B), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
@@ -374,7 +378,7 @@ Subsec. (g)(1), (3)(A), (B). Pub. L. 98–369, §2663(j)(5)(B), substituted “S
 
 Subsec. (i). Pub. L. 98–369, §102(c)(1), added subsec. (i).
 
-1983—Subsec. (a)(11). Pub. L. 98–21, §323(b)(1), struck out “in the case of an individual described in section 911(d)(1)(B),” before “the exclusion”.
+<b>1983</b>—Subsec. (a)(11). Pub. L. 98–21, §323(b)(1), struck out “in the case of an individual described in section 911(d)(1)(B),” before “the exclusion”.
 
 Subsec. (a)(12), (13). Pub. L. 98–21, §124(c)(2), added par. (12) and redesignated former par. (12) as (13).
 
@@ -382,21 +386,21 @@ Subsec. (b). Pub. L. 98–21, §322(b)(2), as amended by Pub. L. 101–508, §51
 
 Pub. L. 98–21, §321(e)(3), substituted “employees of foreign affiliates of American employers” for “employees of foreign subsidiaries of domestic corporations” in cl. (A) of provisions following par. (2).
 
-1982—Subsec. (b). Pub. L. 97–248 struck out “and” before “(B)” and inserted “, and (C) includes, but only with respect to the tax imposed by section 1401(b), remuneration paid for medicare qualified Federal employment (as defined in section 3121(u)(2)) which is subject to the taxes imposed by sections 3101(b) and 3111(b)”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–248 struck out “and” before “(B)” and inserted “, and (C) includes, but only with respect to the tax imposed by section 1401(b), remuneration paid for medicare qualified Federal employment (as defined in section 3121(u)(2)) which is subject to the taxes imposed by sections 3101(b) and 3111(b)”.
 
-1981—Subsec. (a)(8). Pub. L. 97–34, §111(b)(3), substituted “relating to citizens or residents of the United States living abroad” for “relating to income earned by employees in certain camps”.
+<b>1981</b>—Subsec. (a)(8). Pub. L. 97–34, §111(b)(3), substituted “relating to citizens or residents of the United States living abroad” for “relating to income earned by employees in certain camps”.
 
 Subsec. (a)(11). Pub. L. 97–34, §111(b)(5), substituted “in the case of an individual described in section 911(d)(1)(B), the exclusion from gross income provided by section 911(a)(1) shall not apply” for “in the case of an individual who has been a resident of the United States during the entire taxable year, the exclusion from gross income provided by section 911(a)(2) shall not apply”.
 
-1978—Subsec. (a). Pub. L. 95–615 substituted “(relating to income earned by employees in certain camps)” for “(relating to earned income from sources without the United States)” in par. (8).
+<b>1978</b>—Subsec. (a). Pub. L. 95–615 substituted “(relating to income earned by employees in certain camps)” for “(relating to earned income from sources without the United States)” in par. (8).
 
 Pub. L. 95–600, §703(j)(8)(A), substituted “subsection (h)” for “subsection (i)” wherever appearing in last par.
 
 Subsec. (c)(6). Pub. L. 95–600, §703(j)(8)(B), substituted “subsection (g)” for “subsection (h)”.
 
-1977—Subsec. (a)(12). Pub. L. 95–216 added par. (12).
+<b>1977</b>—Subsec. (a)(12). Pub. L. 95–216 added par. (12).
 
-1976—Subsec. (a). Pub. L. 94–455, §§1901(b)(1) (I)(iii), (X), 1906(b)(13)(A), substituted, in provisions preceding par. (1) and in two places in cl. (iv) of provisions extending the application of provisions relating to agricultural labor to trade or business carried on by individuals, self-employed or in partnership, “section 702(a)(8)” for “section 702(a)(9)” and struck out in par. (2) “(other than interest described in section 35)” after “unless such dividends and interest” and in par. (10) “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1901(b)(1) (I)(iii), (X), 1906(b)(13)(A), substituted, in provisions preceding par. (1) and in two places in cl. (iv) of provisions extending the application of provisions relating to agricultural labor to trade or business carried on by individuals, self-employed or in partnership, “section 702(a)(8)” for “section 702(a)(9)” and struck out in par. (2) “(other than interest described in section 35)” after “unless such dividends and interest” and in par. (10) “or his delegate” after “Secretary”.
 
 Subsec. (b)(1). Pub. L. 94–455, §1901(a)(155)(A), among other changes, struck out provisions spelling out fixed Social Security contributions and benefit base limits on wages paid during taxable years between 1955 through 1974.
 
@@ -406,15 +410,15 @@ Subsec. (g). Pub. L. 94–455, §§1901(a)(155)(B), (C), 1906(b)(13)(A), redesig
 
 Subsecs. (h), (i). Pub. L. 94–455, §1901(a)(155)(B), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
 
-1975—Subsec. (b). Pub. L. 94–92 struck out from item B of second sentence the limitation of “wages” to include “compensation” solely with respect to the tax imposed by section 1401(b).
+<b>1975</b>—Subsec. (b). Pub. L. 94–92 struck out from item B of second sentence the limitation of “wages” to include “compensation” solely with respect to the tax imposed by section 1401(b).
 
-1974—Subsec. (a)(1). Pub. L. 93–368 inserted “(as determined without regard to any activities of an agent of such owner or tenant)” after “material participation by the owner or tenant” wherever appearing.
+<b>1974</b>—Subsec. (a)(1). Pub. L. 93–368 inserted “(as determined without regard to any activities of an agent of such owner or tenant)” after “material participation by the owner or tenant” wherever appearing.
 
-1973—Subsec. (b)(1)(H). Pub. L. 93–233 substituted “$13,200” for “$12,600”.
+<b>1973</b>—Subsec. (b)(1)(H). Pub. L. 93–233 substituted “$13,200” for “$12,600”.
 
 Pub. L. 93–66 substituted “$12,600” for “$12,000”.
 
-1972—Subsec. (a)(8), (11). Pub. L. 92–603, §§121(b)(1), 124(b), 140(b), in par. (8), struck out limitation under which provisions authorizing the computation of net earnings without regard to sections 911 and 931 were limited to citizens of the United States performing religious service as employees of an American employer or as ministers in a foreign country having a congregationpredominantly of citizens of the United States, added par. (11), and extended the application of provisions relating to agricultural labor to trade or business carried on by individuals, self-employed or in partnership, with certain exceptions.
+<b>1972</b>—Subsec. (a)(8), (11). Pub. L. 92–603, §§121(b)(1), 124(b), 140(b), in par. (8), struck out limitation under which provisions authorizing the computation of net earnings without regard to sections 911 and 931 were limited to citizens of the United States performing religious service as employees of an American employer or as ministers in a foreign country having a congregation predominantly of citizens of the United States, added par. (11), and extended the application of provisions relating to agricultural labor to trade or business carried on by individuals, self-employed or in partnership, with certain exceptions.
 
 Subsec. (b)(1)(F). Pub. L. 92–336, §203(b)(1)(A), inserted “and before 1973” after “1971”.
 
@@ -422,11 +426,11 @@ Subsec. (b)(1)(G) to (I). Pub. L. 92–336, §203(b)(1)(B), added subpars. (G) t
 
 Subsec. (i). Pub. L. 92–603, §121(b)(2), added subsec. (i).
 
-1971—Subsec. (b)(1)(E). Pub. L. 92–5, §203(b)(1)(A), inserted “and beginning before 1972” after “1967” and substituted “; and” for “; or”.
+<b>1971</b>—Subsec. (b)(1)(E). Pub. L. 92–5, §203(b)(1)(A), inserted “and beginning before 1972” after “1967” and substituted “; and” for “; or”.
 
 Subsec. (b)(1)(F). Pub. L. 92–5, §203(b)(1)(B), added subpar. (F).
 
-1968—Subsec. (a)(10). Pub. L. 90–248, §118(a), added par. (10).
+<b>1968</b>—Subsec. (a)(10). Pub. L. 90–248, §118(a), added par. (10).
 
 Subsec. (b). Pub. L. 90–248, §502(b)(1), designated existing provisions of second sentence respecting “wages” as item “A” and added item “B”.
 
@@ -444,9 +448,9 @@ Subsec. (e). Pub. L. 90–248, §115(b)(2), substituted provisions allowing cler
 
 Subsec. (h)(2). Pub. L. 90–248, §501(a), substituted “December 31, 1967” and “December 31, 1968” for “December 31, 1965” and “April 15, 1966”, respectively, in subpar. (A) and “December 31, 1967” for “December 31, 1965” in subpar. (B) and inserted in such subpar. (B) exception provision as to when an application shall be deemed timely filed.
 
-1966—Subsec. (e)(3)(E). Pub. L. 89–368 added subpar. (E).
+<b>1966</b>—Subsec. (e)(3)(E). Pub. L. 89–368 added subpar. (E).
 
-1965—Subsec. (a). Pub. L. 89–97, §312(b), substituted “2,400” for “$1,800” in cls. (i) to (iv) and “$1,600” for “$1,200” in cls. (ii) and (iv) of second sentence following par. (9), wherever appearing.
+<b>1965</b>—Subsec. (a). Pub. L. 89–97, §312(b), substituted “2,400” for “$1,800” in cls. (i) to (iv) and “$1,600” for “$1,200” in cls. (ii) and (iv) of second sentence following par. (9), wherever appearing.
 
 Subsec. (b)(1)(C). Pub. L. 89–97, §320(b)(1)(C), inserted “and before 1966” after “1958” and substituted “and” for “or” after the semicolon.
 
@@ -468,15 +472,15 @@ Subsec. (e)(6). Pub. L. 89–97, §331(a), struck out par. (6) which dealt with 
 
 Subsec. (h). Pub. L. 89–97, §319(c), added subsec. (h).
 
-1964—Subsec. (a)(3)(B). Pub. L. 88–272 inserted reference to iron ore.
+<b>1964</b>—Subsec. (a)(3)(B). Pub. L. 88–272 inserted reference to iron ore.
 
 Subsec. (e)(2)(B). Pub. L. 88–650, §2(a), substituted “his second taxable year ending after 1962” for “his second taxable year ending after 1959”.
 
 Subsec. (e)(3)(C). Pub. L. 88–650, §2(b), added subpar. (C).
 
-1961—Subsec. (e)(6). Pub. L. 87–64 added par. (6).
+<b>1961</b>—Subsec. (e)(6). Pub. L. 87–64 added par. (6).
 
-1960—Subsec. (a). Pub. L. 86–778, §103(k), added par. (9) and inserted references to paragraph (9) in cls. (v) and (vi) of last sentence.
+<b>1960</b>—Subsec. (a). Pub. L. 86–778, §103(k), added par. (9) and inserted references to paragraph (9) in cls. (v) and (vi) of last sentence.
 
 Subsec. (b). Pub. L. 86–778, §103(<i>l</i>), substituted “the Commonwealth of Puerto Rico, the Virgin Islands, Guam, or American Samoa” for “the Virgin Islands or a resident of Puerto Rico” in last sentence.
 
@@ -490,11 +494,11 @@ Subsec. (e)(5). Pub. L. 86–778, §101(c), added par. (5).
 
 Subsec. (g). Pub. L. 86–778, §105(c)(1), added subsec. (g).
 
-1958—Subsec. (b)(1). Pub. L. 85–840, §402(a), increased limitation on self-employment income subject to tax, for taxable years ending after 1958, from $4,200 to $4,800.
+<b>1958</b>—Subsec. (b)(1). Pub. L. 85–840, §402(a), increased limitation on self-employment income subject to tax, for taxable years ending after 1958, from $4,200 to $4,800.
 
 Subsec. (f). Pub. L. 85–840, §403(a), added subsec. (f).
 
-1957—Subsec. (a)(8). Pub. L. 85–239, §5(b), permitted computation of net earnings without regard to sections 107 and 119 of this title.
+<b>1957</b>—Subsec. (a)(8). Pub. L. 85–239, §5(b), permitted computation of net earnings without regard to sections 107 and 119 of this title.
 
 Subsec. (e)(2). Pub. L. 85–239, §1(a), permitted a person to file a certificate on or before the due date of the return (including any extension thereof) for his second taxable year ending after 1956.
 
@@ -502,7 +506,7 @@ Subsec. (e)(3). Pub. L. 85–239, §1(b), provided for the effective date of cer
 
 Subsec. (e)(4). Pub. L. 85–239, §2, added par. (4).
 
-1956—Subsec. (a). Act Aug. 1, 1956, §201(i), amended generally last two sentences to include those businesses in which the income is computed under an accrual method, and partnerships, to change the method of computation of net earnings for individuals by permitting those whose gross income is not more than $1,800 to deem their net earnings to be 662/3 percent of such gross income, and those whose gross income is more than $1,800 and the net earnings are less than $1,200, to deem the net earnings to be $1,200, and to provide for the computation of net earnings for members of partnerships.
+<b>1956</b>—Subsec. (a). Act Aug. 1, 1956, §201(i), amended generally last two sentences to include those businesses in which the income is computed under an accrual method, and partnerships, to change the method of computation of net earnings for individuals by permitting those whose gross income is not more than $1,800 to deem their net earnings to be 662/3 percent of such gross income, and those whose gross income is more than $1,800 and the net earnings are less than $1,200, to deem the net earnings to be $1,200, and to provide for the computation of net earnings for members of partnerships.
 
 Subsec. (a)(1). Act Aug. 1, 1956, §201(e)(2), struck out from the exclusion income derived by an owner or tenant of land if such income is derived under an arrangement with another individual for the production by such other individual of agricultural or horticultural commodities if such arrangement provides for material participation by the owner or tenant in the production or the management of the production of such commodities, and there is material participation by the owner or tenant with respect to any such commodity.
 
@@ -512,7 +516,7 @@ Subsec. (c)(2). Act Aug. 1, 1956, §201(e)(3), included within “trade or busin
 
 Subsec. (c)(5). Act Aug. 1, 1956, §201(f), struck out exclusion of lawyers, dentists, osteopaths, veterinarians, chiropractors, naturopaths, and optometrists.
 
-1954—Subsec. (a). Act Sept. 1, 1954, §201(a), (c)(4), in par. (1) clarified the term rentals to indicate that it includes rentals paid in the form of crop shares, struck out par. (2), redesignated pars. (3) to (8) as (2) to (7), respectively, added a new par. (8), and inserted provisions at end establishing an optional method of reporting income for self-employed farmers.
+<b>1954</b>—Subsec. (a). Act Sept. 1, 1954, §201(a), (c)(4), in par. (1) clarified the term rentals to indicate that it includes rentals paid in the form of crop shares, struck out par. (2), redesignated pars. (3) to (8) as (2) to (7), respectively, added a new par. (8), and inserted provisions at end establishing an optional method of reporting income for self-employed farmers.
 
 Subsec. (b). Act Sept. 1, 1954, §201(b), increased the limitation on self-employment income subject to tax, for taxable years ending after 1954, from $3,600 to $4,200 and included as “wages”, for purposes of computing “self-employment income,” remuneration of United States citizens employed by a foreign subsidiary of a domestic corporation which has agreed to have the Social Security insurance system extended to service performed by such citizens.
 
@@ -523,6 +527,10 @@ Subsec. (c)(2). Act Sept. 1, 1954, §201(c)(1), inserted “and other than servi
 Subsec. (c)(5). Act Sept. 1, 1954, §201(c)(5), struck out exclusions from self-employment tax in the case of architects, certified public accountants, accountants registered or licensed as accountants under State or municipal law, full-time practicing public accountants, funeral directors and professional engineers.
 
 Subsec. (e). Act Sept. 1, 1954, §201(c)(3), added subsec. (e).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–148 applicable with respect to remuneration received, and taxable years beginning, after Dec. 31, 2012, see section 9015(c) of Pub. L. 111–148, set out as a note under section 164 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -664,7 +672,7 @@ Amendment by Pub. L. 92–336 applicable only with respect to taxable years begi
 
 #### Effective Date of 1971 Amendment
 
-Amendment by Pub. L. 92–5 applicable only with respect to taxable years beginning after 1971, see section 203(c) of Pub. L. 92–5, set out as a note under section 409 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 92–5 applicable only with respect to taxable years beginning after 1971, see section203(c) of Pub. L. 92–5, set out as a note under section 409 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1968 Amendment
 
@@ -704,7 +712,7 @@ Section 341(c) of Pub. L. 89–97, as amended by Pub. L. 99–514, §2, Oct. 22,
 
 #### Effective Date of 1964 Amendments
 
-Section 2(c) of Pub. L. 88–650, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“The amendments made by subsections (a) and (b) \[amending this section\] shall be applicable only with respect to certificates filed pursuant to section 1402(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] after the date of the enactment of this Act \[Oct. 13, 1964\]; except that no monthly benefits under title II of the Social Security Act \[section 401 et seq. of Title 42, The Public Health and Welfare\] for the month in which this Act \[Oct. 1964\] is enacted or any prior month shall be payable or increased by reason of such amendments.”
+Section 2(c) of Pub. L. 88–650, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall be applicable only with respect to certificates filed pursuant to section 1402(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] after the date of the enactment of this Act \[Oct. 13, 1964\]; except that no monthly benefits under title II of the Social Security Act \[section 401 et seq. of Title 42, The Public Health and Welfare\] for the month in which this Act \[Oct. 1964\] is enacted or any prior month shall be payable or increased by reason of such amendments.”
 
 Amendment by Pub. L. 88–272 applicable with respect to amounts received or accrued in taxable years beginning after Dec. 31, 1963, attributable to iron ore mined in such years, see section 227(c) of Pub. L. 88–272, set out as a note under section 272 of this title.
 
@@ -714,7 +722,7 @@ Section 202(b) of Pub. L. 87–64 provided that: “The amendment made by subsec
 
 #### Effective Date of 1960 Amendment
 
-Section 101(f) of Pub. L. 86–778, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall be applicable (except as otherwise specifically indicated therein) only with respect to certificates (and supplemental certificates) filed pursuant to section 1402(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] after the date of the enactment of this Act \[Sept. 13, 1960\]; except that no monthly benefits under title II of the Social Security Act \[section 401 et seq. of Title 42, The Public Health and Welfare\] for the month in which this Act is enacted or any prior month shall be payable or increased by reason of such amendments, and no lump-sum death payment under such title shall be payable or increased by reason of such amendments in the case of any individual who died prior to the date of the enactment of this Act \[Sept. 13, 1960\].”
+Section 101(f) of Pub. L. 86–778, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall be applicable (except as otherwise specifically indicated therein) only with respect to certificates (and supplemental certificates) filed pursuant to section 1402(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] after the date of the enactment ofthis Act \[Sept. 13, 1960\]; except that no monthly benefits under title II of the Social Security Act \[section 401 et seq. of Title 42, The Public Health and Welfare\] for the month in which this Act is enacted or any prior month shall be payable or increased by reason of such amendments, and no lump-sum death payment under such title shall be payable or increased by reason of such amendments in the case of any individual who died prior to the date of the enactment of this Act \[Sept. 13, 1960\].”
 
 Amendment by section 103(k) of Pub. L. 86–778 applicable only in the case of taxable years beginning after 1960, except that, insofar as such enactment involves the nonapplication of section 932 of this title to the Virgin Islands for purposes of section 1401 et seq. of this title and section 411 of Title 42, such enactment shall be effective in the case of all taxable years with respect to which such chapter 2 (and corresponding provisions of prior law) and section 411 of Title 42 are applicable, see section 103(v)(1) of Pub. L. 86–778, set out as a note under section 402 of Title 42.
 
@@ -754,7 +762,7 @@ Section 4 of Pub. L. 85–239, as amended by Pub. L. 99–514, §2, Oct. 22, 198
 
 “(c) The preceding provisions of this section shall not render erroneous any monthly insurance benefits under title II of the Social Security Act \[section 401 et seq. of Title 42\] for the month in which this Act \[August 1957\] is enacted or any prior month.”
 
-Section 5(c) of Pub. L. 85–239 provided that: “The amendments made by this section \[amending this section and section 411 of Title 42\] shall, except for purposes of section 203 of the Social Security Act \[section403 of title 42\], apply only with respect to taxable years ending on or after December 31, 1957. For purposes of section 203 of the Social Security Act \[section 403 of Title 42\] (other than subsection (a)), such amendments shall apply only with respect to taxable years beginning after the month in which this Act is enacted \[August 1957\]. For purposes of subsection (a) of such section 203, such amendments shall apply only with respect to taxable years of the insured individual ending on or after December 31, 1957.”
+Section 5(c) of Pub. L. 85–239 provided that: “The amendments made by this section \[amending this section and section 411 of Title 42\] shall, except for purposes of section 203 of the Social Security Act \[section 403 of title 42\], apply only with respect to taxable years ending on or after December 31, 1957. For purposes of section 203 of the Social Security Act \[section 403 of Title 42\] (other than subsection (a)), such amendments shall apply only with respect to taxable years beginning after the month in which this Act is enacted \[August 1957\]. For purposes of subsection (a) of such section 203, such amendments shall apply only with respect to taxable years of the insured individual ending on or after December 31, 1957.”
 
 #### Effective Date of 1956 Amendment
 
@@ -770,7 +778,7 @@ Pub. L. 106–170, title IV, §403, Dec. 17, 1999, 113 Stat. 1910, provided that
 
 “(a)
 
-In General.—Notwithstanding section 1402(e)(4) of the Internal Revenue Code of 1986, any exemption which has been received under section 1402(e)(1) of such Code by a duly ordained, commissioned, or licensed minister of a church, a member of a religious order, or a Christian Science practitioner, and which is effective for the taxable year in which this Act is enacted \[enacted Dec. 17, 1999\], may be revoked by filing an application therefor (in such form and manner, and with such official, as may be prescribed by the Commissioner of Internal Revenue), if such application is filed no later than the due date of the Federal income tax return (including any extension thereof) for the applicant's second taxable year beginning after December 31, 1999. Any such revocation shall be effective (for purposes of chapter 2 of the Internal Revenue Code of 1986 and title II of the Social Security Act (42 U.S.C. 401 et seq.)), as specified in the application, either with respect to the applicant's first taxable year beginning after December 31, 1999, or with respect to the applicant's second taxable year beginning after such date, and for all succeeding taxable years; and the applicant for any such revocation may not thereafter again file application for an exemption under such section 1402(e)(1). If the application is filed after the due date of the applicant's Federal income tax return for a taxable year and is effective with respect to that taxable year, it shall include or be accompanied by payment in full of an amount equal to the total of the taxes that would have been imposed by section 1401 of the Internal Revenue Code of 1986 with respect to all of the applicant's income derived in that taxable year which would have constituted net earnings from self-employment for purposes of chapter 2 of such Code (notwithstanding paragraphs (4) and (5) of section 1402(c)) except for the exemption under section 1402(e)(1) of such Code.
+In General.—Notwithstanding section 1402(e)(4) of the Internal Revenue Code of 1986, any exemption which has been received under section 1402(e)(1) of such Code by a duly ordained, commissioned, or licensedminister of a church, a member of a religious order, or a Christian Science practitioner, and which is effective for the taxable year in which this Act is enacted \[enacted Dec. 17, 1999\], may be revoked by filing an application therefor (in such form and manner, and with such official, as may be prescribed by the Commissioner of Internal Revenue), if such application is filed no later than the due date of the Federal income tax return (including any extension thereof) for the applicant's second taxable year beginning after December 31, 1999. Any such revocation shall be effective (for purposes of chapter 2 of the Internal Revenue Code of 1986 and title II of the Social Security Act (42 U.S.C. 401 et seq.)), as specified in the application, either with respect to the applicant's first taxable year beginning after December 31, 1999, or with respect to the applicant's second taxable year beginning after such date, and for all succeeding taxable years; and the applicant for any such revocation may not thereafter again file application for an exemption under such section 1402(e)(1). If the application is filed after the due date of the applicant's Federal income tax return for a taxable year and is effective with respect to that taxable year, it shall include or be accompanied by payment in full of an amount equal to the total of the taxes that would have been imposed by section 1401 of the Internal Revenue Code of 1986 with respect to all of the applicant's income derived in that taxable year which would have constituted net earnings from self-employment for purposes of chapter 2 of such Code (notwithstanding paragraphs (4) and (5) of section 1402(c)) except for the exemption under section 1402(e)(1) of such Code.
 
 “(b)
 
@@ -814,7 +822,7 @@ Section 1704(b) of Pub. L. 99–514 provided that:
 
 “(1)
 
-In general.—Notwithstanding section 1402(e)(3) of the Internal Revenue Code of 1986, as redesignated by subsection (a)(2)(B) of this section, any exemption which has been received under section 1402(e)(1) of such Code by a duly ordained, commissioned, or licensed minister of a church, a member of a religious order, or a Christian Science practitioner, and which is effectivefor the taxable year in which this Act is enacted \[enacted Oct. 22, 1986\], may be revoked by filing an application therefor (in such form and manner, and with such official, as may be prescribed in regulations made under chapter 2 of subtitle A of such Code), if such application is filed—
+In general.—Notwithstanding section 1402(e)(3) of the Internal Revenue Code of 1986, as redesignated by subsection (a)(2)(B) of this section, any exemption which has been received under section 1402(e)(1) of such Code by a duly ordained, commissioned, or licensed minister of a church, a member of a religious order, or a Christian Science practitioner, and which is effective for the taxable year in which this Act is enacted \[enacted Oct. 22, 1986\], may be revoked by filing an application therefor (in such form and manner, and with such official, as may be prescribed in regulations made under chapter 2 of subtitle A of such Code), if such application is filed—
 
 &emsp;“(A) before the applicant becomes entitled to benefits under section 202(a) or 223 of the Social Security Act \[42 U.S.C. 402(a), 423\] (without regard to section 202(j)(1) or 223(b) of such Act \[42 U.S.C. 402(j)(1), 423(b)\]), and
 
@@ -852,7 +860,7 @@ Section 319(f) of Pub. L. 89–97 authorized the payment of a refund or credit o
 
 #### Computation of Interest or Assessment of Penalties on Self-Employment Taxes Payable by Ministers, Members of Religious Orders, and Christian Science Practitioners
 
-Section 331(b) of Pub. L. 89–97 established, for purposes of computing interest, Apr. 15, 1967, as the due date for the payment, under section 1401 of this title, of taxes due for any taxable year ending before Jan. 1, 1966 solely by reason of the filing of a certificate or supplementary certificate under subsec. (e)(5) of this section,which was struck out by section 115(b)(2) of Pub. L. 90–248.
+Section 331(b) of Pub. L. 89–97 established, for purposes of computing interest, Apr. 15, 1967, as the due date for the payment, under section 1401 of this title, of taxes due for any taxable year ending before Jan. 1, 1966 solely by reason of the filing of a certificate or supplementary certificate under subsec. (e)(5) of this section, which was struck out by section 115(b)(2) of Pub. L. 90–248.
 
 #### Computation of Interest or Assessment of Penalties on Self-Employment Taxes Payable by Ministers, Members of Religious Orders, and Christian Science Practitioners
 

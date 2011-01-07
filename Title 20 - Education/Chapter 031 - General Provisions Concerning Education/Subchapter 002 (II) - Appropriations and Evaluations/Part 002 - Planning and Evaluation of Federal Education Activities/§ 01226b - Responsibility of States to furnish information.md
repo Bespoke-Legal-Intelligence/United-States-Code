@@ -26,7 +26,7 @@ If the Secretary does not receive a report by the date required under subsection
 
 #### (d) Availability of information
 
-When the Secretary receives a report required under subsection (a) of this section, the Secretary shall provide such information to the National Center for Education Statistics, and shallmake such information available, at a reasonable cost, to any individual who requests such information.
+When the Secretary receives a report required under subsection (a) of this section, the Secretary shall provide such information to the National Center for Education Statistics, and shall make such information available, at a reasonable cost, to any individual who requests such information.
 
 #### (e) Congressional telecommunications network
 

@@ -98,29 +98,29 @@ The Social Security Act, referred to in subsec. (b)(8)(B), is act Aug. 14, 1935,
 
 #### Amendments
 
-2006—Subsec. (e). Pub. L. 109–280 added subsec. (e).
+<b>2006</b>—Subsec. (e). Pub. L. 109–280 added subsec. (e).
 
-1998—Subsec. (b)(7). Pub. L. 105–200, §401(h)(2)(A)(ii), substituted “they apply to” for “enforced by”.
+<b>1998</b>—Subsec. (b)(7). Pub. L. 105–200, §401(h)(2)(A)(ii), substituted “they apply to” for “enforced by”.
 
 Pub. L. 105–200, §401(h)(2)(A)(i), amended directory language of Pub. L. 103–66, §4301(c)(4)(A). See 1993 Amendment note below.
 
-1996—Subsec. (b)(9). Pub. L. 104–204 made technical amendment to reference in original act which appears in text as reference to section 1191 of this title.
+<b>1996</b>—Subsec. (b)(9). Pub. L. 104–204 made technical amendment to reference in original act which appears in text as reference to section 1191 of this title.
 
 Pub. L. 104–191 added par. (9).
 
-1993—Subsec. (b)(7). Pub. L. 103–66, §4301(c)(4)(A), as amended by Pub. L. 105–200, §401(h)(1)(A)(i), inserted “, qualified medical child support orders (within the meaning of section 1169(a)(2)(A) of this title), and the provisions of law referred to in section 1169(a)(2)(B)(ii) of this title to the extent enforced by qualified medical child support orders” before period at end.
+<b>1993</b>—Subsec. (b)(7). Pub. L. 103–66, §4301(c)(4)(A), as amended by Pub. L. 105–200, §401(h)(1)(A)(i), inserted “, qualified medical child support orders (within the meaning of section 1169(a)(2)(A) of this title), and the provisions of law referred to in section 1169(a)(2)(B)(ii) of this title to the extent enforced by qualified medical child support orders” before period at end.
 
 Subsec. (b)(8). Pub. L. 103–66, §4301(c)(4)(B), added par. (8) and struck out former par. (8) which read as follows: “Subsection (a) of this section shall not apply to any State law mandating that an employee benefit plan not include any provision which has the effect of limiting or excluding coverage or payment for any health care for an individual who would otherwise be covered or entitled to benefits or services under the terms of the employee benefit plan, because that individual is provided, or is eligible for, benefits or services pursuant to a plan under title XIX of the Social Security Act, to the extent such law is necessary for the State to be eligible to receive reimbursement under title XIX of that Act.”
 
-1989—Subsec. (b)(5)(C). Pub. L. 101–239, §7894(f)(2)(A), substituted “by such parts 1 and 4 and the preceding sections of this part” for “by such parts”.
+<b>1989</b>—Subsec. (b)(5)(C). Pub. L. 101–239, §7894(f)(2)(A), substituted “by such parts 1 and 4 and the preceding sections of this part” for “by such parts”.
 
 Subsec. (b)(6)(B). Pub. L. 101–239, §7894(f)(3)(A), substituted “section 1002(1)” for “section 1002(<i>l</i>)”.
 
-1986—Subsec. (b)(8). Pub. L. 99–272 added par. (8).
+<b>1986</b>—Subsec. (b)(8). Pub. L. 99–272 added par. (8).
 
-1984—Subsec. (b)(7). Pub. L. 98–397 added par. (7).
+<b>1984</b>—Subsec. (b)(7). Pub. L. 98–397 added par. (7).
 
-1983—Subsec. (b)(5). Pub. L. 97–473, §301(a), added par. (5).
+<b>1983</b>—Subsec. (b)(5). Pub. L. 97–473, §301(a), added par. (5).
 
 Subsec. (b)(6). Pub. L. 97–473, §302(b), added par. (6).
 

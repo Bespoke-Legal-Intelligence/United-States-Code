@@ -20,7 +20,7 @@
 
 &emsp;(5) administer grants, cooperative agreements, and contracts to provide technical assistance and other activities as necessary to support activities related to improving health care in rural areas.
 
-(Aug. 14, 1935, ch. 531, title VII, §711, as added Pub. L. 100–203, title IV, §4401, Dec. 22, 1987, 101Stat. 1330–225; amended Pub. L. 100–360, title IV, §411(m)(1), July 1, 1988, 102 Stat. 806; Pub. L. 101–239, title VI, §6213(g), Dec. 19, 1989, 103 Stat. 2251; Pub. L. 108–173, title IV, §432, Dec. 8, 2003, 117 Stat. 2288.)
+(Aug. 14, 1935, ch. 531, title VII, §711, as added Pub. L. 100–203, title IV, §4401, Dec. 22, 1987, 101 Stat. 1330–225; amended Pub. L. 100–360, title IV, §411(m)(1), July 1, 1988, 102 Stat. 806; Pub. L. 101–239, title VI, §6213(g), Dec. 19, 1989, 103 Stat. 2251; Pub. L. 108–173, title IV, §432, Dec. 8, 2003, 117 Stat. 2288.)
 
 #### References in Text
 
@@ -28,15 +28,15 @@ Section 4403 of the Omnibus Budget Reconciliation Act of 1987, referred to in su
 
 #### Amendments
 
-2003—Subsec. (b)(5). Pub. L. 108–173 added par. (5).
+<b>2003</b>—Subsec. (b)(5). Pub. L. 108–173 added par. (5).
 
-1989—Subsec. (b)(2)(A). Pub. L. 101–239, §6213(g)(1), substituted “health care issues, including rural mental health, rural infant mortality prevention, and rural occupational safety and preventive health promotion” for “health care issues”.
+<b>1989</b>—Subsec. (b)(2)(A). Pub. L. 101–239, §6213(g)(1), substituted “health care issues, including rural mental health, rural infant mortality prevention, and rural occupational safety and preventive health promotion” for “health care issues”.
 
 Subsec. (b)(2)(C). Pub. L. 101–239, §6213(g)(2), substituted “health care in rural areas, including programs providing community-based mental health services, pre-natal and infant care services, and rural occupational safety and preventive health education and promotion” for “health care in rural areas”.
 
 Subsec. (b)(4). Pub. L. 101–239, §6213(g)(3), substituted “rural health care, including activities relating to rural mental health, rural infant mortality, and rural occupational safety and preventive health promotion” for “rural health care”.
 
-1988—Subsec. (b)(1). Pub. L. 100–360 substituted “section 4403 of the Omnibus Budget Reconciliation Act of 1987 (as such section pertains to rural health issues)” for “section 4083 of the Omnibus Budget Reconciliation Act of 1987”.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–360 substituted “section 4403 of the Omnibus Budget Reconciliation Act of 1987 (as such section pertains to rural health issues)” for “section 4083 of the Omnibus Budget Reconciliation Act of 1987”.
 
 #### Effective Date of 1988 Amendment
 

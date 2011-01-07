@@ -20,7 +20,7 @@ Every individual who—
 
 (1) An individual may enroll under this section only in such manner and form as may be prescribed in regulations, and only during an enrollment period prescribed in or under this section.
 
-(2) The individual's initial enrollment period shall begin with the month in which the individual receives notice that the individual's entitlement to benefits under section 426(b) of this title will end due solely to the individual havingearnings that exceed the substantial gainful activity amount (as defined in section 423(d)(4) of this title and shall end 7 months later.
+(2) The individual's initial enrollment period shall begin with the month in which the individual receives notice that the individual's entitlement to benefits under section 426(b) of this title will end due solely to the individual having earnings that exceed the substantial gainful activity amount (as defined in section 423(d)(4) of this title and shall end 7 months later.
 
 (3) There shall be a general enrollment period during the period beginning on January 1 and ending on March 31 of each year (beginning with 1990).
 
@@ -66,7 +66,7 @@ Every individual who—
 
 #### Amendments
 
-1990—Subsec. (d)(1)(A). Pub. L. 101–508, §4008(m)(3)(C)(i), inserted “for enrollment under this section” after “Premiums”.
+<b>1990</b>—Subsec. (d)(1)(A). Pub. L. 101–508, §4008(m)(3)(C)(i), inserted “for enrollment under this section” after “Premiums”.
 
 Subsec. (d)(1)(C). Pub. L. 101–508, §4008(m)(3)(C)(ii), struck out subpar. (C) which read as follows: “For purposes of applying section 1395r(g) of this title and section 59B(f)(1)(B)(i) of the Internal Revenue Code of 1986, any reference to section 1395i–2 of this title shall be deemed to include a reference to this section.”
 

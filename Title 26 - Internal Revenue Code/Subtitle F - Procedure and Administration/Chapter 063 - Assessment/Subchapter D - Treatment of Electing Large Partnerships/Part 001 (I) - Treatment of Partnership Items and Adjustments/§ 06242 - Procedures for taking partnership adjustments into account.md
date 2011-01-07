@@ -72,7 +72,7 @@
 
 #### (2) Interest
 
-&emsp;For purposes of determining interest, any payment required by subsection (a)(2) or (b)(1)(A) shall be treated as an underpayment of tax.
+&emsp;For purposes of determining interest, any payment required by subsection (a)(2) or\(b)(1)(A) shall be treated as an underpayment of tax.
 
 #### (3) Penalties
 

@@ -30,7 +30,7 @@ The Board may prescribe regulations to carry out the responsibilities of the Boa
 
 #### (d) Reporting requirements
 
-The Board may establish reporting requirements for the Secretary of Energy which shallbe binding upon the Secretary. The information which the Board may require the Secretary of Energy to report under this subsection may include any information designated as classified information, or any information designated as safeguards information and protected from disclosure under section 2167 or 2168 of this title.
+The Board may establish reporting requirements for the Secretary of Energy which shall be binding upon the Secretary. The information which the Board may require the Secretary of Energy to report under this subsection may include any information designated as classified information, or any information designated as safeguards information and protected from disclosure under section 2167 or 2168 of this title.
 
 #### (e) Use of Government facilities, etc.
 
@@ -68,9 +68,9 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a)(2)(D), are set 
 
 #### Amendments
 
-1991—Subsec. (b)(1)(A). Pub. L. 102–190, §3202(a)(1), substituted “150” for “100”.
+<b>1991</b>—Subsec. (b)(1)(A). Pub. L. 102–190, §3202(a)(1), substituted “150” for “100”.
 
 Subsec. (g). Pub. L. 102–190, §3202(a)(2), substituted “Notwithstanding any other provision of law relating to the use of competitive procedures, the Board may” for “The Board may”.
 
-1990—Subsec. (b). Pub. L. 101–510 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, inserted “including such scientific and technical personnel as the Board may determine necessary,” after “Board,” in subpar. (A), and added par. (2).
+<b>1990</b>—Subsec. (b). Pub. L. 101–510 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, inserted “including such scientific and technical personnel as the Board may determine necessary,” after “Board,” in subpar. (A), and added par. (2).
 

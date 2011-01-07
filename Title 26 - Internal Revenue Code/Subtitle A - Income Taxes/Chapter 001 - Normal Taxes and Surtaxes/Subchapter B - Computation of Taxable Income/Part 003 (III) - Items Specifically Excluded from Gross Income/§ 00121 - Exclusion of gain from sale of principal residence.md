@@ -86,7 +86,7 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 #### (1) In general
 
-&emsp;In the case of a sale or exchange to which this subsection applies, the ownership and use requirements of subsection (a), and subsection (b)(3), shall not apply; but the dollar limitation under paragraph (1) or (2) of subsection (b), whichever is applicable, shall be equal to—
+&emsp;In the case of a sale or exchange to which this subsection applies, the ownership and userequirements of subsection (a), and subsection (b)(3), shall not apply; but the dollar limitation under paragraph (1) or (2) of subsection (b), whichever is applicable, shall be equal to—
 
 &emsp;&emsp;(A) the amount which bears the same ratio to such limitation (determined without regard to this paragraph) as
 
@@ -254,17 +254,7 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 &emsp;If a taxpayer acquires property in an exchange with respect to which gain is not recognized (in whole or in part) to the taxpayer under subsection (a) or (b) of section 1031, subsection (a) shall not apply to the sale or exchange of such property by such taxpayer (or by any person whose basis in such property is determined, in whole or in part, by reference to the basis in the hands of such taxpayer) during the 5-year period beginning with the date of such acquisition.
 
-#### (11) Property acquired from a decedent
-
-&emsp;The exclusion under this section shall apply to property sold by—
-
-&emsp;&emsp;(A) the estate of a decedent,
-
-&emsp;&emsp;(B) any individual who acquired such property from the decedent (within the meaning of section 1022), and
-
-&emsp;&emsp;(C) a trust which, immediately before the death of the decedent, was a qualified revocable trust (as defined in section 645(b)(1)) established by the decedent,
-
-> &emsp;determined by taking into account the ownership and use by the decedent.
+#### \[(11) Repealed. Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300\]
 
 #### (12) Peace Corps
 
@@ -274,7 +264,7 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 &emsp;&emsp;&emsp;(i) on qualified official extended duty (as defined in paragraph (9)(C)) as an employee of the Peace Corps, or
 
-&emsp;&emsp;&emsp;(ii) as an enrolled volunteer or volunteer leader under section 5 or 6 (as the case may be) of the Peace Corps Act (22 U.S.C. 2504, 2505).
+&emsp;&emsp;&emsp;(ii) as an enrolled volunteer or volunteer leader under section 5 or 6 (as the casemay be) of the Peace Corps Act (22 U.S.C. 2504, 2505).
 
 #### (B) Applicable rules
 
@@ -292,9 +282,11 @@ This section shall not apply to any sale or exchange with respect to which the t
 
 For purposes of this section, in the case of property the acquisition of which by the taxpayer resulted under section 1034 <sup>3</sup> (as in effect on the day before the date of the enactment of this section) in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, in determining the period for which the taxpayer has owned and used such property as the taxpayer's principal residence, there shall be included the aggregate periods for which such other residence (and each prior residence taken into account under section 1223(6) in determining the holding period of such property) had been so owned and used.
 
-(Added Pub. L. 88–272, title II, §206(a), Feb. 26, 1964, 78 Stat. 38; amended Pub. L. 94–455, title XIV, §1404(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1733, 1834; Pub. L. 95–600, title IV, §404(a)–(c)(2), Nov. 6, 1978, 92 Stat. 2869, 2870; Pub. L. 97–34, title I, §123(a), Aug. 13, 1981, 95 Stat. 197; Pub. L. 100–647, title VI, §6011(a), Nov. 10, 1988, 102 Stat. 3691; Pub. L. 105–34, title III, §312(a), Aug. 5, 1997, 111 Stat. 836; Pub. L. 105–206, title VI, §6005(e)(1), (2), July 22, 1998, 112 Stat. 805; Pub. L. 107–16, title V, §542(c), June 7, 2001, 115 Stat. 84; Pub. L. 108–121, title I, §101(a), Nov. 11, 2003, 117 Stat. 1336; Pub. L. 108–357, title VIII, §840(a), Oct. 22, 2004, 118 Stat. 1597; Pub. L. 109–135, title IV, §§402(a)(3), 403(ee), Dec. 21, 2005, 119 Stat. 2610, 2631; Pub. L. 109–432, div. A, title IV, §417(a)–(d), Dec. 20, 2006, 120 Stat. 2965, 2966; Pub. L. 110–142, §7(a), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–172, §11(a)(11)(A), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–245, title I, §§110(a), 113(a), (b), June 17, 2008, 122 Stat. 1633, 1635; Pub. L. 110–289, div. C, title III, §3092(a), July 30, 2008, 122 Stat. 2911.)
+(Added Pub. L. 88–272, title II, §206(a), Feb. 26, 1964, 78 Stat. 38; amended Pub. L. 94–455, title XIV, §1404(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1733, 1834; Pub. L. 95–600, title IV, §404(a)–(c)(2), Nov. 6, 1978, 92 Stat. 2869, 2870; Pub. L. 97–34, title I, §123(a), Aug. 13, 1981, 95 Stat. 197; Pub. L. 100–647, title VI, §6011(a), Nov. 10, 1988, 102 Stat. 3691; Pub. L. 105–34, title III, §312(a), Aug. 5, 1997, 111 Stat. 836; Pub. L. 105–206, title VI, §6005(e)(1), (2), July 22, 1998, 112 Stat. 805; Pub. L. 107–16, title V, §542(c), June 7, 2001, 115 Stat. 84; Pub. L. 108–121, title I, §101(a), Nov. 11, 2003, 117 Stat. 1336; Pub. L. 108–357, title VIII, §840(a), Oct. 22, 2004, 118 Stat. 1597; Pub. L. 109–135, title IV, §§402(a)(3), 403(ee), Dec. 21, 2005, 119 Stat. 2610, 2631; Pub. L. 109–432, div. A, title IV, §417(a)–(d), Dec. 20, 2006, 120 Stat. 2965, 2966; Pub. L. 110–142, §7(a), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–172, §11(a)(11)(A), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–245, title I, §§110(a), 113(a), (b), June 17, 2008, 122 Stat. 1633, 1635; Pub. L. 110–289, div. C, title III, §3092(a), July 30, 2008, 122 Stat. 2911; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300.)
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 304 of Pub. L. 111–312, see Effective and Termination Dates of 2010 Amendment note below.</i>
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
@@ -318,7 +310,19 @@ A prior section 121 was renumbered section 140 of this title.
 
 #### Amendments
 
-2008—Subsec. (b)(4). Pub. L. 110–289 added par. (4) relating to exclusion of gain allocated to nonqualified use.
+<b>2010</b>—Subsec. (d)(11). Pub. L. 111–312, §§301(a), 304, temporarily amended subsec. (d) to read as if amendment by Pub. L. 107–16, §542(c), which originally added par. (9), had never been enacted. See Codification notes above and 2001 Amendment note and Effective and Termination Dates of 2010 Amendment note below. Prior to amendment, par. (11) read as follows: “
+
+Property acquired from a decedent.—The exclusion under this section shall apply to property sold by—
+
+&emsp;“(A) the estate of a decedent,
+
+&emsp;“(B) any individual who acquired such property from the decedent (within the meaning of section 1022), and
+
+&emsp;“(C) a trust which, immediately before the death of the decedent, was a qualified revocable trust (as defined in section 645(b)(1)) established by the decedent,
+
+> determined by taking into account the ownership and use by the decedent.”
+
+<b>2008</b>—Subsec. (b)(4). Pub. L. 110–289 added par. (4) relating to exclusion of gain allocated to nonqualified use.
 
 Subsec. (d)(9)(C)(vi). Pub. L. 110–245, §113(b), struck out heading and text of cl. (vi). Text read as follows: “An employee of the intelligence community shall not be treated as serving on qualified extended duty unless such duty is at a duty station located outside the United States.”
 
@@ -326,11 +330,11 @@ Subsec. (d)(9)(E). Pub. L. 110–245, §113(a), struck out heading and text of s
 
 Subsec. (d)(12). Pub. L. 110–245, §110(a), added par. (12).
 
-2007—Subsec. (b)(4). Pub. L. 110–142 added par. (4) relating to special rule for certain sales by surviving spouses.
+<b>2007</b>—Subsec. (b)(4). Pub. L. 110–142 added par. (4) relating to special rule for certain sales by surviving spouses.
 
 Subsec. (d)(9)(E). Pub. L. 110–172 added subpar. (E).
 
-2006—Subsec. (d)(9). Pub. L. 109–432, §417(d), substituted “Uniformed services, Foreign Service, and intelligence community” for “Members of uniformed services and Foreign Service” in heading.
+<b>2006</b>—Subsec. (d)(9). Pub. L. 109–432, §417(d), substituted “Uniformed services, Foreign Service, and intelligence community” for “Members of uniformed services and Foreign Service” in heading.
 
 Subsec. (d)(9)(A). Pub. L. 109–432, §417(a), substituted “duty—
 
@@ -346,19 +350,19 @@ Subsec. (d)(9)(C)(iv), (v). Pub. L. 109–432, §417(b), added cl. (iv) and rede
 
 Subsec. (d)(9)(C)(vi). Pub. L. 109–432, §417(c), added cl. (vi).
 
-2005—Subsec. (d)(10). Pub. L. 109–135, §403(ee)(2), amended heading and text of par. (10) relating to property acquired in like-kind exchange generally. Prior to amendment, text read as follows: “If a taxpayer acquired property in an exchange to which section 1031 applied, subsection (a) shall not apply to the sale or exchange of such property if it occurs during the 5-year period beginning with the date of the acquisition of such property.”
+<b>2005</b>—Subsec. (d)(10). Pub. L. 109–135, §403(ee)(2), amended heading and text of par. (10) relating to property acquired in like-kind exchange generally. Prior to amendment, text read as follows: “If a taxpayer acquired property in an exchange to which section 1031 applied, subsection (a) shall not apply to the sale or exchange of such property if it occurs during the 5-year period beginning with the date of the acquisition of such property.”
 
 Subsec. (d)(11). Pub. L. 109–135, §403(ee)(1), redesignated par. (10), formerly par. (9), as temporarily added by Pub. L. 107–16, as (11). See Codification notes above and 2001 and 2003 Amendment notes and Effective and Termination Dates of 2001 Amendment note below.
 
 Subsec. (g). Pub. L. 109–135, §402(a)(3), substituted “section 1223(6)” for “section 1223(7)”.
 
-2004—Subsec. (d)(10). Pub. L. 108–357 added par. (10) relating to property acquired in like-kind exchange.
+<b>2004</b>—Subsec. (d)(10). Pub. L. 108–357 added par. (10) relating to property acquired in like-kind exchange.
 
-2003—Subsec. (d)(9), (10). Pub. L. 108–121 added par. (9) and redesignated former par. (9), as temporarily added by Pub. L. 107–16, as (10). See Codification notes above and 2001 Amendment note and Effective and Termination Dates of 2001 Amendment note below.
+<b>2003</b>—Subsec. (d)(9), (10). Pub. L. 108–121 added par. (9) and redesignated former par. (9), as temporarily added by Pub. L. 107–16, as (10). See Codification notes above and 2001 Amendment note and Effective and Termination Dates of 2001 Amendment note below.
 
-2001—Subsec. (d)(9). Pub. L. 107–16, §§542(c), 901, temporarily added par. (9). See Codification notes above and Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (d)(9). Pub. L. 107–16, §§542(c), 901, temporarily added par. (9). See Codification notes above and Effective and Termination Dates of 2001 Amendment note below.
 
-1998—Subsec. (b)(2). Pub. L. 105–206, §6005(e)(1), substituted “Special rules for joint returns” for “$500,000 limitation for certain joint returns” in heading and amended text generally. Prior to amendment, text read as follows: “Paragraph (1) shall be applied by substituting ‘$500,000’ for ‘$250,000’ if—
+<b>1998</b>—Subsec. (b)(2). Pub. L. 105–206, §6005(e)(1), substituted “Special rules for joint returns” for “$500,000 limitation for certain joint returns” in heading and amended text generally. Prior to amendment, text read as follows: “Paragraph (1) shall be applied by substituting ‘$500,000’ for ‘$250,000’ if—
 
 &emsp;“(A) a husband and wife make a joint return for the taxable year of the sale or exchange of the property,
 
@@ -380,13 +384,13 @@ Subsec. (c)(1). Pub. L. 105–206, §6005(e)(2), reenacted heading without chang
 
 > &emsp;bears to 2 years.”
 
-1997—Pub. L. 105–34 amended section catchline and text generally. Prior to amendment, section related to one-time exclusion of gain from sale of principal residence by individual who had attained age 55.
+<b>1997</b>—Pub. L. 105–34 amended section catchline and text generally. Prior to amendment, section related to one-time exclusion of gain from sale of principal residence by individual who had attained age 55.
 
-1988—Subsec. (d)(9). Pub. L. 100–647 added par. (9).
+<b>1988</b>—Subsec. (d)(9). Pub. L. 100–647 added par. (9).
 
-1981—Subsec. (b)(1). Pub. L. 97–34 substituted “$125,000 ($62,500” for “$100,000 ($50,000”.
+<b>1981</b>—Subsec. (b)(1). Pub. L. 97–34 substituted “$125,000 ($62,500” for “$100,000 ($50,000”.
 
-1978—Pub. L. 95–600, §404(a), substituted “One-time exclusion of gain from sale of principal residence by individual who has attained age 55” for “Gain from sale or exchange of residence of individual who has attained age 65” in section catchline.
+<b>1978</b>—Pub. L. 95–600, §404(a), substituted “One-time exclusion of gain from sale of principal residence by individual who has attained age 55” for “Gain from sale or exchange of residence of individual who has attained age 65” in section catchline.
 
 Subsec. (a). Pub. L. 95–600, §404(a), substituted “55” for “65”, “5-year” for “8-year”, and “3 years” for “5 years”.
 
@@ -398,9 +402,15 @@ Subsec. (d)(5). Pub. L. 95–600, §404(c)(2), substituted “5-year period” f
 
 Subsec. (d)(8). Pub. L. 95–600, §404(b), added par. (8).
 
-1976—Subsec. (b)(1). Pub. L. 94–455, §1404(a), substituted “$35,000” for “$20,000” in three places.
+<b>1976</b>—Subsec. (b)(1). Pub. L. 94–455, §1404(a), substituted “$35,000” for “$20,000” in three places.
 
 Subsecs. (c), (d)(5). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+
+#### Effective and Termination Dates of 2010 Amendment
+
+Pub. L. 111–312, title III, §301(e), Dec. 17, 2010, 124 Stat. 3301, provided that: “Except as otherwise provided in this section, the amendments made by this section \[amending this section and sections 170, 684, 1014, 1040, 1221, 1246, 1291, 1296, 2505, 4947, 6018, 6019, 6075, and 7701 of this title and repealing sections 1022, 2210, 2664, and 6716 of this title\] shall apply to estates of decedents dying, and transfers made, after December 31, 2009.”
+
+Pub. L. 111–312, title III, §304, Dec. 17, 2010, 124 Stat. 3304, provided that: “Section 901 of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16, set out as a note under section 1 of this title\] shall apply to the amendments made by this title \[amending this section and sections 170, 684, 1014, 1040, 1221, 1246, 1291, 1296, 2001, 2010, 2502, 2505, 2511, 2631, 4947, 6018, 6019, 6075, and 7701 of this title and repealing sections 1022, 2210, 2664, and 6716 of this title\].”
 
 #### Effective Date of 2008 Amendment
 
@@ -412,7 +422,7 @@ Pub. L. 110–245, title I, §113(c), June 17, 2008, 122 Stat. 1635, provided th
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–142, §7(b), Dec. 20, 2007, 121 Stat. 1806, provided that: “The amendment made by this section \[amending this section\] shall apply to sales or exchanges after December 31, 2007.”
+Pub. L. 110–142, §7(b), Dec. 20, 2007, 121 Stat. 1806, provided that: “The amendment made by this section\[amending this section\] shall apply to sales or exchanges after December 31, 2007.”
 
 #### Effective Date of 2006 Amendment
 
@@ -420,7 +430,7 @@ Pub. L. 109–432, div. A, title IV, §417(e), Dec. 20, 2006, 120 Stat. 2966, as
 
 #### Effective Date of 2005 Amendment
 
-Amendment by section 402(a)(3) of Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates, but not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
+Amendment by section 402(a)(3) of Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates, but not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 36C of this title.
 
 Amendment by section 403(ee) of Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
@@ -434,7 +444,7 @@ Pub. L. 108–121, title I, §101(b), Nov. 11, 2003, 117 Stat. 1336, provided th
 
 “(1)
 
-Effective date.—The amendments made by this section \[amending this section\] shall take effect as ifincluded in the amendments made by section 312 of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34\].
+Effective date.—The amendments made by this section \[amending this section\] shall take effect as if included in the amendments made by section 312 of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34\].
 
 “(2)
 
@@ -456,7 +466,7 @@ Transfers to nonresidents.—The amendments made by subsection (e)(1) \[amending
 
 Section 4947.—The amendment made by subsection (e)(4) \[amending section 4947 of this title\] shall apply to deductions for taxable years beginning after December 31, 2009.”
 
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -506,7 +516,7 @@ Section 1404(b) of Pub. L. 94–455 provided that: “The amendment made by subs
 
 #### Effective Date
 
-Section 206(c) of Pub. L. 88–272 provided that: “The amendments made by this section \[enacting this section, redesignating former section 121 as 122, and amending sections 1033, 1034, and 6012 of this title\] shall apply to dispositions after Dec. 31, 1963, in taxable years ending after such date.”
+Section 206(c) of Pub. L. 88–272 provided that: “The amendments made by this section \[enacting this section, redesignating former section 121 as 122, andamending sections 1033, 1034, and 6012 of this title\] shall apply to dispositions after Dec. 31, 1963, in taxable years ending after such date.”
 
 #### Sense of Congress Concerning Tax Treatment of Principal Residence of Members of Armed Forces While Away From Home on Active Duty
 

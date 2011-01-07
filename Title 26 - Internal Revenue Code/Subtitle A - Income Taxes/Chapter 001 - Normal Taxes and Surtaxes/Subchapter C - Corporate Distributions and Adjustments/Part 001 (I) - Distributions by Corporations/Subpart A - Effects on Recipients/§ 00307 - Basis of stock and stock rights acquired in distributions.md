@@ -28,5 +28,5 @@ If a shareholder in a corporation receives its stock or rights to acquire its st
 
 #### Amendments
 
-1976—Subsecs. (a), (b)(2). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (a), (b)(2). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 

@@ -38,7 +38,7 @@ No agreement entered into pursuant to subsection (b) of this section shall provi
 
 &emsp;(3) the disposal into the ocean or sea of byproduct, source, or special nuclear waste materials as defined in regulations or orders of the Commission;
 
-&emsp;(4) the disposal of such other byproduct, source, or special nuclear material as the Commission determines by regulation or order should, because of the hazards or potential hazards thereof, not be so disposed of without a license from the Commission.
+&emsp;(4) the disposal of such other byproduct, source, or special nuclear material as the Commission determines by regulation or order should, because of the hazards or potentialhazards thereof, not be so disposed of without a license from the Commission.
 
 > The Commission shall also retain authority under any such agreement to make a determination that all applicable standards and requirements have been met prior to termination of a license for byproduct material, as defined in section 2014(e)(2) of this title. Notwithstanding any agreement between the Commission and any State pursuant to subsection (b) of this section, the Commission is authorized by rule, regulation, or order to require that the manufacturer, processor, or producer of any equipment, device, commodity, or other product containing source, byproduct, or special nuclear material shall not transfer possession or control of such product except pursuant to a license issued by the Commission.
 
@@ -106,7 +106,7 @@ In the licensing and regulation of byproduct material, as defined in section 201
 
 &emsp;(1) compliance with the requirements of subsection (b) of section 2113 of this title (respecting ownership of byproduct material and land), and
 
-&emsp;(2) compliance with standards which shall be adopted by the State for the protection of the public health, safety, and the environmentfrom hazards associated with such material which are equivalent, to the extent practicable, or more stringent than, standards adopted and enforced by the Commission for the same purpose, including requirements and standards promulgated by the Commission and the Administrator of the Environmental Protection Agency pursuant to sections 2113, 2114, and 2022 of this title, and
+&emsp;(2) compliance with standards which shall be adopted by the State for the protection of the public health, safety, and the environment from hazards associated with such material which are equivalent, to the extent practicable, or more stringent than, standards adopted and enforced by the Commission for the same purpose, including requirements and standards promulgated by the Commission and the Administrator of the Environmental Protection Agency pursuant to sections 2113, 2114, and 2022 of this title, and
 
 &emsp;(3) procedures which—
 
@@ -146,7 +146,7 @@ In subsec. (h) of this section, provisions for the establishment of a Federal Ra
 
 #### Amendments
 
-2005—Subsec. (b). Pub. L. 109–58 substituted “State:” for “State—” in introductory provisions, added pars. (1) to (3), and struck out former pars. (1) to (4) which read as follows:
+<b>2005</b>—Subsec. (b). Pub. L. 109–58 substituted “State:” for “State—” in introductory provisions, added pars. (1) to (3), and struck out former pars. (1) to (4) which read as follows:
 
 “(1) byproduct materials as defined in section 2014(e)(1) of this title;
 
@@ -156,13 +156,13 @@ In subsec. (h) of this section, provisions for the establishment of a Federal Ra
 
 “(4) special nuclear materials in quantities not sufficient to form a critical mass.”
 
-1992—Subsec. (c)(1). Pub. L. 102–486, §902(a)(6), inserted before semicolon at end “or any uranium enrichment facility”.
+<b>1992</b>—Subsec. (c)(1). Pub. L. 102–486, §902(a)(6), inserted before semicolon at end “or any uranium enrichment facility”.
 
-1983—Subsec. (<i>o</i>). Pub. L. 97–415 inserted provisions relating to the adoption of equivalent alternative requirements by the States.
+<b>1983</b>—Subsec. (<i>o</i>). Pub. L. 97–415 inserted provisions relating to the adoption of equivalent alternative requirements by the States.
 
-1980—Subsec. (j). Pub. L. 96–295 designated existing provisions as par. (1) and added par. (2).
+<b>1980</b>—Subsec. (j). Pub. L. 96–295 designated existing provisions as par. (1) and added par. (2).
 
-1978—Subsec. (b). Pub. L. 95–604, §204(a), inserted in par. (1) “as defined in section 2014(e)(1) of this title” after “byproduct materials”, added par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+<b>1978</b>—Subsec. (b). Pub. L. 95–604, §204(a), inserted in par. (1) “as defined in section 2014(e)(1) of this title” after “byproduct materials”, added par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
 Subsec. (c). Pub. L. 95–604, §204(f), required the Commission to retain authority under the agreement to make a determination that all applicable standards and requirements have been met prior to termination of a license for byproduct material as defined in section 2014(e)(2) of this title.
 
@@ -182,7 +182,7 @@ Amendment by Pub. L. 95–604 effective Nov. 8, 1978, see section 208 of Pub. L.
 
 #### State Authorities and Agreements Respecting Byproduct Material; Entry and Effective Dates of Agreements
 
-Section 204(g), (h) of Pub. L. 95–604, as amended by Pub. L. 96–106, §22(a), (b), Nov. 9, 1979, 93 Stat. 799; Pub. L. 97–415, §19(b), Jan. 4, 1983, 96 Stat. 2079, provided that:
+Section 204(g), (h) of Pub. L. 95–604, as amended by Pub. L. 96–106, §22(a), (b), Nov. 9, 1979, 93 Stat. 799; Pub.L. 97–415, §19(b), Jan. 4, 1983, 96 Stat. 2079, provided that:
 
 “(g) Nothing in any amendment made by this section \[amending this section\] shall preclude any State from exercising any other authority as permitted under the Atomic Energy Act of 1954 \[this chapter\] respecting any byproduct material, as defined in section 11 e. (2) of the Atomic Energy Act of 1954 \[section 2014(e)(2) of this title\].
 

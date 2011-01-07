@@ -4,7 +4,7 @@
 
 (b) A participant who on such participant's course completion date is a full-time employee in the Veterans Health Administration shall be considered to have begun serving such participant's period of obligated service on the course completion date.
 
-(c) Except in the case of a participant whose tuition was paid pursuant to section 7622(e) of this title, if a participant in the Tuition Reimbursement Program fails to successfully complete a course, no reimbursement will be provided and no period of obligated service will be incurred.
+(c) Except in the case of a participant whose tuition was paid pursuant to section 7622(e) ofthis title, if a participant in the Tuition Reimbursement Program fails to successfully complete a course, no reimbursement will be provided and no period of obligated service will be incurred.
 
 (d) In the case of a participant whose tuition was paid pursuant to section 7622(e) of this title and who fails to complete the course involved, the period of obligation shall be of the same duration as it would have been if the participant had successfully completed the course and the course completion date shall be considered to be the date on which the participant's failure becomes an established fact.
 
@@ -14,9 +14,9 @@
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–446 substituted “Veterans Health Administration” for “Department of Medicine and Surgery”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–446 substituted “Veterans Health Administration” for “Department of Medicine and Surgery”.
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 4323 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 4323 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83 substituted “Department” for “Veterans’ Administration”.
 
@@ -24,5 +24,5 @@ Pub. L. 102–40, §402(d)(1), substituted “7603” for “4303”.
 
 Subsecs. (c), (d). Pub. L. 102–40, §402(d)(1), substituted “7622(e)” for “4322(e)”.
 
-1988—Subsecs. (c), (d). Pub. L. 100–687 substituted “4322(e)” for “4322(f)”.
+<b>1988</b>—Subsecs. (c), (d). Pub. L. 100–687 substituted “4322(e)” for “4322(f)”.
 

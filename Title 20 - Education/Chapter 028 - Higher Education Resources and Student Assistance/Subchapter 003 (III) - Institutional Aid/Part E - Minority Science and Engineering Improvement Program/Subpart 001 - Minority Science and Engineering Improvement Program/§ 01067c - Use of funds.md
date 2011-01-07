@@ -70,7 +70,7 @@ A prior section 353 of Pub. L. 89–329 was renumbered section 393 and is classi
 
 #### Amendments
 
-1998—Subsec. (a)(1). Pub. L. 105–244, §301(c)(8)(A), substituted “section 1067k(6)” for “section 1135d–5(6)”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–244, §301(c)(8)(A), substituted “section 1067k(6)” for “section 1135d–5(6)”.
 
 Subsec. (a)(2). Pub. L. 105–244, §301(c)(8)(B), substituted “section 1067k(7)” for “section 1135d–5(7)”.
 

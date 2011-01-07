@@ -16,7 +16,7 @@ A prior section 1805 was renumbered section 3705 of this title.
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–419, §401(e)(2), substituted “this section” for “this chapter”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–419, §401(e)(2), substituted “this section” for “this chapter”.
 
 Subsecs. (c), (d). Pub. L. 106–419, §401(c)(2), struck out subsecs. (c) and (d) which read as follows:
 

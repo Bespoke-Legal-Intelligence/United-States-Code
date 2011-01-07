@@ -8,5 +8,5 @@
 
 #### Amendments
 
-1991—Subsecs. (a), (b). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+<b>1991</b>—Subsecs. (a), (b). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 

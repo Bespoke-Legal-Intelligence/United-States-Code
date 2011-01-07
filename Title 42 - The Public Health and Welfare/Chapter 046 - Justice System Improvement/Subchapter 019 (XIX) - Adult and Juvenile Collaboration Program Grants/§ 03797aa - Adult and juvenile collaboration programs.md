@@ -104,7 +104,7 @@ In this section, the following definitions shall apply:
 
 #### (B) Combined planning and implementation grant application
 
-&emsp;&emsp;The Attorney General and the Secretary shall develop a procedure under which applicants may apply at the same time and in asingle application for a planning grant and an implementation grant, with receipt of the implementation grant conditioned on successful completion of the activities funded by the planning grant.
+&emsp;&emsp;The Attorney General and the Secretary shall develop a procedure under which applicants may apply at the same time and in a single application for a planning grant and an implementation grant, with receipt of the implementation grant conditioned on successful completion of the activities funded by the planning grant.
 
 #### (4) Planning grants
 
@@ -118,7 +118,7 @@ In this section, the following definitions shall apply:
 
 #### (C) Period of grant
 
-&emsp;&emsp;A planning grant shall be effective for a period of 1 year, beginning on the first day of the month in which the planning grant is made. Applicants may not receive more than 1 such planning grant.
+&emsp;&emsp;A planning grant shall be effective for a period of 1 year, beginning on the first day of the month in which the planning grant ismade. Applicants may not receive more than 1 such planning grant.
 
 #### (D) Amount
 
@@ -178,7 +178,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;&emsp;(V) ensure that preliminarily qualified offenders served by the collaboration program will have adequate supervision and access to effective and appropriate community-based mental health services, including, in the case of individuals with co-occurring mental health and substance abuse disorders, coordinated services, which may range from consultation or collaboration to integration in a single setting treatment model;
 
-&emsp;&emsp;&emsp;&emsp;(VI) make available, to the extent practicable, other support services that will ensure the preliminarily qualified offender's successful reintegration into the community (such as housing, education, job placement, mentoring, and health care and benefits, as well as theservices of faith-based and community organizations for mentally ill individuals served by the collaboration program); and
+&emsp;&emsp;&emsp;&emsp;(VI) make available, to the extent practicable, other support services that will ensure the preliminarily qualified offender's successful reintegration into the community (such as housing, education, job placement, mentoring, and health care and benefits, as well as the services of faith-based and community organizations for mentally ill individuals served by the collaboration program); and
 
 &emsp;&emsp;&emsp;&emsp;(VII) include strategies, to the extent practicable, to address developmental and learning disabilities and problems arising from a documented history of physical or sexual abuse.
 
@@ -196,7 +196,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(i) explain the applicant's inability to fund the collaboration program adequately without Federal assistance;
 
-&emsp;&emsp;&emsp;(ii) specify how the Federal support provided will be used to supplement, and not supplant, State, local, Indian tribe, or tribal organization sources of funding that would otherwise be available, including billing third-party resources for services already covered under programs (such as Medicaid, Medicare, and the State Children's Insurance Program); and
+&emsp;&emsp;&emsp;(ii) specify how the Federal support provided will be used to supplement, and not supplant, State, local, Indian tribe, or tribal organization sources of funding thatwould otherwise be available, including billing third-party resources for services already covered under programs (such as Medicaid, Medicare, and the State Children's Insurance Program); and
 
 &emsp;&emsp;&emsp;(iii) outline plans for obtaining necessary support and continuing the proposed collaboration program following the conclusion of Federal support.
 
@@ -278,7 +278,7 @@ The Attorney General, in awarding funds under this section, shall give priority 
 
 #### (e) Federal use of funds
 
-The Attorney General, in consultation with the Secretary, in administering grants under this section, may use up to 3 percent of funds appropriated to—
+The Attorney General, in consultation with the Secretary, in administering grants underthis section, may use up to 3 percent of funds appropriated to—
 
 &emsp;(1) research the use of alternatives to prosecution through pretrial diversion in appropriate cases involving individuals with mental illness;
 
@@ -368,7 +368,7 @@ The Mentally Ill Offender Treatment and Crime Reduction Act of 2004, referred to
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–416, §3(c), amended subsec. (c) generally. Prior to amendment, text read as follows:
+<b>2008</b>—Subsec. (c). Pub. L. 110–416, §3(c), amended subsec. (c) generally. Prior to amendment, text read as follows:
 
 “The Attorney General, in awarding funds under this section, shall give priority to applications that—
 
@@ -428,7 +428,7 @@ Pub. L. 108–414, §3, Oct. 30, 2004, 118 Stat. 2328, provided that: “The pur
 
 &emsp;“(4) promote adequate training for criminal justice system personnel about mental illness and substance abuse disorders and the appropriate responses to people with such illnesses;
 
-&emsp;“(5) promote adequate training for mental health and substance abuse treatment personnel about criminal offenders with mental illness or co-occurring substance abuse disorders and the appropriateresponse to such offenders in the criminal justice system;
+&emsp;“(5) promote adequate training for mental health and substance abuse treatment personnel about criminal offenders with mental illness or co-occurring substance abuse disorders and the appropriate response to such offenders in the criminal justice system;
 
 &emsp;“(6) promote communication among adult or juvenile justice personnel, mental health and co-occurring mental illness and substance abuse disorders treatment personnel, nonviolent offenders with mental illness or co-occurring mental illness and substance abuse disorders, and support services such as housing, job placement, community, faith-based, and crime victims organizations; and
 

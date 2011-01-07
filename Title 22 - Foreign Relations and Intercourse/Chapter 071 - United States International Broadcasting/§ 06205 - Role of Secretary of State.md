@@ -12,7 +12,7 @@ The Secretary of State is authorized to use Worldnet broadcasts for the purposes
 
 #### Amendments
 
-1998—Pub. L. 105–277, §1323(j)(1), substituted “Role of Secretary of State” for “Foreign policy guidance” in section catchline.
+<b>1998</b>—Pub. L. 105–277, §1323(j)(1), substituted “Role of Secretary of State” for “Foreign policy guidance” in section catchline.
 
 Subsec. (a). Pub. L. 105–277, §1323(j)(2)–(4), designated existing provisions as subsec. (a), inserted heading, substituted “State” for “State, acting through the Director of the United States Information Agency,”, and inserted before period at end “, as the Secretary may deem appropriate”.
 

@@ -64,7 +64,7 @@ Except as provided in subsection (g)(3) of this section—
 
 #### (1) In general
 
-&emsp;Patient safety work product that is disclosed under subsection (c) of this sectionshall continue to be privileged and confidential as provided for in subsections (a) and (b) of this section, and such disclosure shall not be treated as a waiver of privilege or confidentiality, and the privileged and confidential nature of such work product shall also apply to such work product in the possession or control of a person to whom such work product was disclosed.
+&emsp;Patient safety work product that is disclosed under subsection (c) of this section shall continue to be privileged and confidential as provided for in subsections (a) and (b) of this section, and such disclosure shall not be treated as a waiver of privilege or confidentiality, and the privileged and confidential nature of such work product shall also apply to such work product in the possession or control of a person to whom such work product was disclosed.
 
 #### (2) Exception
 
@@ -182,7 +182,7 @@ Section 264(c)(1) of the Health Insurance Portability and Accountability Act of 
 
 #### Prior Provisions
 
-A prior section 922 of act July 1, 1944, was renumbered section 932 and is classified to section 299c–1 of this title.
+A prior section 922 of act July 1, 1944, was renumbered section 942 and is classified to section 299c–1 of this title.
 
 Another prior section 922 of act July 1, 1944, was classified to section 299c–1 of this title prior to the general amendment of this subchapter by Pub. L. 106–129.
 

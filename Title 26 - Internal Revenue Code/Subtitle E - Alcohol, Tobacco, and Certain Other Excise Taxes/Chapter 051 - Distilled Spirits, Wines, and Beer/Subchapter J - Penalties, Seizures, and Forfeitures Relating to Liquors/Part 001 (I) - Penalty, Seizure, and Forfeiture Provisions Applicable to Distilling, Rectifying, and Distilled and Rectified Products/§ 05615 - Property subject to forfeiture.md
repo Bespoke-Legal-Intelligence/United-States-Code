@@ -66,7 +66,7 @@ The following property shall be forfeited to the United States:
 
 #### Prior Provisions
 
-A prior section 5615, act Aug. 16, 1954, ch. 736, 68A Stat. 686, related to penalty for refusal or neglect of distillers and rectifiers to give assistance to officers, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5203(e) and 5687 of this title.
+A prior section 5615, act Aug. 16, 1954, ch. 736, 68A Stat. 686, related to penalty for refusal or neglect ofdistillers and rectifiers to give assistance to officers, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5203(e) and 5687 of this title.
 
 Provisions similar to those comprising this section were contained in prior sections of act Aug. 16, 1954, prior to the general revision of this chapter by Pub. L. 85–859, as follows:
 
@@ -156,9 +156,9 @@ A prior section 5650, act Aug. 16, 1954, ch. 736, 68A Stat. 695, related to pena
 
 #### Amendments
 
-1984—Par. (2). Pub. L. 98–369 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any still, boiler, or other vessel to be used for the purpose of distilling which is removed without notice having been given as required by section 5105(a) or which is set up without permit first having been obtained as required by such section; and”.
+<b>1984</b>—Par. (2). Pub. L. 98–369 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any still, boiler, or other vessel to be used for the purpose of distilling which is removed without notice having been given as required by section 5105(a) or which is set up without permit first having been obtained as required by such section; and”.
 
-1979—Par. (5). Pub. L. 96–39 substituted “distilled spirits plant” for “distillery, bonded warehouse, or rectifying or bottling establishment” in three places.
+<b>1979</b>—Par. (5). Pub. L. 96–39 substituted “distilled spirits plant” for “distillery, bonded warehouse, or rectifying or bottling establishment” in three places.
 
 #### Effective Date of 1984 Amendment
 

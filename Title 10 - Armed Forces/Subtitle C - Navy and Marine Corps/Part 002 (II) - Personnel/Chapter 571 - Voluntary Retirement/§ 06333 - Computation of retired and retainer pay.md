@@ -22,17 +22,17 @@
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–181 substituted “Retired pay multiplier prescribed under section 1409 for the years of service that may be credited to the member under section 1405.” for “75 percent.” in Formula A under Column 2 in table.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181 substituted “Retired pay multiplier prescribed under section 1409 for the years of service that may be credited to the member under section 1405.” for “75 percent.” in Formula A under Column 2 in table.
 
-2006—Subsec. (a). Pub. L. 109–163 inserted “6970 or” after “section” in text and “6970” below “6325(b)” in Formula B under “For sections” column in table.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 inserted “6970 or” after “section” in text and “6970” below “6325(b)” in Formula B under “For sections” column in table.
 
-1996—Subsec. (a). Pub. L. 104–106 struck out first period after “section 1405” in Formula C under Column 2 in table.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106 struck out first period after “section 1405” in Formula C under Column 2 in table.
 
 Subsec. (c). Pub. L. 104–201 added subsec. (c).
 
-1994—Subsec. (a). Pub. L. 103–337 substituted “the years of service that may be credited to him under section 1405.” for “his years of active service in the armed forces” in Formula C under Column 2 in table.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337 substituted “the years of service that may be credited to him under section 1405.” for “his years of active service in the armed forces” in Formula C under Column 2 in table.
 
-1986—Pub. L. 99–348 amended section generally, designating existing provision as subsec. (b)(1), substituting “under this section” for “under this chapter”, and adding subsecs. (a) and (b)(2).
+<b>1986</b>—Pub. L. 99–348 amended section generally, designating existing provision as subsec. (b)(1), substituting “under this section” for “under this chapter”, and adding subsecs. (a) and (b)(2).
 
 #### Effective Date of 2008 Amendment
 
@@ -40,7 +40,7 @@ Amendment by Pub. L. 110–181 effective as of Jan. 1, 2007, and applicable with
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 applicable to computation of retired pay of any enlisted member who retires on or after Oct. 5, 1994, to computation of retainer pay of any enlisted member who is transferred to Fleet Reserve or Fleet Marine Corps Reserve on or after Oct. 5, 1994, and to recomputation of retired pay of any enlisted member who is advanced on retired list on or after Oct. 5, 1994, see section 635(e) of Pub. L. 103–337, set out as a note under section 1405 of this title.
+Amendment by Pub. L. 103–337 applicable to computation of retired pay of any enlisted member who retireson or after Oct. 5, 1994, to computation of retainer pay of any enlisted member who is transferred to Fleet Reserve or Fleet Marine Corps Reserve on or after Oct. 5, 1994, and to recomputation of retired pay of any enlisted member who is advanced on retired list on or after Oct. 5, 1994, see section 635(e) of Pub. L. 103–337, set out as a note under section 1405 of this title.
 
 #### Effective Date
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Whistleblower Protection for Employees of Publicly Traded Companies.—No company with a class of securities registered under section 12 of the Securities Exchange Act of 1934 (15 U.S.C. 78<i>l</i>), or that is required to file reports under section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78<i>o</i>(d)), or any officer, employee, contractor, subcontractor, or agent of such company, may discharge, demote, suspend, threaten, harass, or in any other manner discriminate against an employee in the terms and conditions of employment because of any lawful act done by the employee—
+Whistleblower Protection for Employees of Publicly Traded Companies.—No company with a class of securities registered under section 12 of the Securities Exchange Act of 1934 (15 U.S.C. 78<i>l</i>), or that is required to file reports under section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78<i>o</i>(d)) including any subsidiary or affiliate whose financial information is included in the consolidated financial statements of such company, or nationally recognized statistical rating organization (as defined in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c),<sup>1</sup> or any officer, employee, contractor, subcontractor, or agent of such company or nationally recognized statistical rating organization, may discharge, demote, suspend, threaten, harass, or in any other manner discriminate against an employee in the terms and conditions of employment because of any lawful act done by the employee—
 
 &emsp;(1) to provide information, cause information to be provided, or otherwise assist in an investigation regarding any conduct which the employee reasonably believes constitutes a violation of section 1341, 1343, 1344, or 1348, any rule or regulation of the Securities and Exchange Commission, or any provision of Federal law relating to fraud against shareholders, when the information or assistance is provided to or the investigation is conducted by—
 
@@ -24,7 +24,7 @@ In general.—A person who alleges discharge or other discrimination by any pers
 
 &emsp;&emsp;(A) filing a complaint with the Secretary of Labor; or
 
-&emsp;&emsp;(B) if the Secretary has not issued a final decision within 180 days of the filing of the complaint and there is no showing that such delay is due to the bad faith of the claimant, bringing an action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy.
+&emsp;&emsp;(B) if the Secretary has not issued a final decision within 180 days of the filing of thecomplaint and there is no showing that such delay is due to the bad faith of the claimant, bringing an action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy.
 
 &emsp;(2)
 
@@ -36,7 +36,7 @@ In general.—An action under paragraph (1)(A) shall be governed under the rules
 
 &emsp;&emsp;(B)
 
-Exception.—Notification made under section 42121(b)(1) of title 49, United StatesCode, shall be made to the person named in the complaint and to the employer.
+Exception.—Notification made under section 42121(b)(1) of title 49, United States Code, shall be made to the person named in the complaint and to the employer.
 
 &emsp;&emsp;(C)
 
@@ -44,7 +44,11 @@ Burdens of proof.—An action brought under paragraph (1)(B) shall be governed b
 
 &emsp;&emsp;(D)
 
-Statute of limitations.—An action under paragraph (1) shall be commenced not later than 90 days after the date on which the violation occurs.
+Statute of limitations.—An action under paragraph (1) shall be commenced not later than 180 days after the date on which the violation occurs, or after the date on which the employee became aware of the violation.
+
+&emsp;&emsp;(E)
+
+Jury trial.—A party to an action brought under paragraph (1)(B) shall be entitled to trial by jury.
 
 (c)
 
@@ -68,5 +72,35 @@ Compensatory damages.—Relief for any action under paragraph (1) shall include�
 
 Rights Retained by Employee.—Nothing in this section shall be deemed to diminish the rights, privileges, or remedies of any employee under any Federal or State law, or under any collective bargaining agreement.
 
-(Added Pub. L. 107–204, title VIII, §806(a), July 30, 2002, 116 Stat. 802.)
+(e)
+
+Nonenforceability of Certain Provisions Waiving Rights and Remedies or Requiring Arbitration of Disputes.—
+
+&emsp;(1)
+
+Waiver of rights and remedies.—The rights and remedies provided for in this section may not be waived by any agreement, policy form, or condition of employment, including by a predispute arbitration agreement.
+
+&emsp;(2)
+
+Predispute arbitration agreements.—No predispute arbitration agreement shall be valid or enforceable, if the agreement requires arbitration of a dispute arising under this section.
+
+(Added Pub. L. 107–204, title VIII, §806(a), July 30, 2002, 116 Stat. 802; amended Pub. L. 111–203, title IX, §§922(b), (c), 929A, July 21, 2010, 124 Stat. 1848, 1852.)
+
+#### Amendments
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §929A, in introductory provisions, inserted “including any subsidiary or affiliate whose financial information is included in the consolidated financial statements of such company” after “the Securities Exchange Act of 1934 (15 U.S.C. 78<i>o</i>(d))”.
+
+Pub. L. 111–203, §922(b), in introductory provisions, inserted “or nationally recognized statistical rating organization (as defined in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c),” before “or any officer,” and “or nationally recognized statistical rating organization” before “, may discharge,”.
+
+Subsec. (b)(2)(D). Pub. L. 111–203, §922(c)(1)(A), substituted “180” for “90” and inserted “, or after the date on which the employee became aware of the violation” before period at end.
+
+Subsec. (b)(2)(E). Pub. L. 111–203, §922(c)(1)(B), added subpar. (E).
+
+Subsec. (e). Pub. L. 111–203, §922(c)(2), added subsec. (e).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+
+<i><sup>1</sup></i><i> So in original. Another closing parenthesis probably should precede the comma.</i>
 

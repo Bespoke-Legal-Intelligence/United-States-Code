@@ -82,11 +82,11 @@ Section was enacted as part of the Federal Stewardship Act of 1990 and also as p
 
 #### Amendments
 
-2008—Subsec. (c)(3)(A). Pub. L. 110–246, §1603(g)(5), inserted “(before the amendment made by section 1703(a) of the Food, Conservation, and Energy Act of 2008)” after “section 1308 of title 7”.
+<b>2008</b>—Subsec. (c)(3)(A). Pub. L. 110–246, §1603(g)(5), inserted “(before the amendment made by section 1703(a) of the Food, Conservation, and Energy Act of 2008)” after “section 1308 of title 7”.
 
-1996—Subsec. (c)(3)(C). Pub. L. 104–127 substituted “environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985” for “Agricultural Conservation Program established under section 590p(b) of this title”.
+<b>1996</b>—Subsec. (c)(3)(C). Pub. L. 104–127 substituted “environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985” for “Agricultural Conservation Program established under section 590p(b) of this title”.
 
-1991—Subsec. (c)(3)(C). Pub. L. 102–237 inserted “(16 U.S.C. 2101 et seq.)” after “1978” and made technical amendment to reference to section 590p(b) of this title to correct corresponding provision of original Act.
+<b>1991</b>—Subsec. (c)(3)(C). Pub. L. 102–237 inserted “(16 U.S.C. 2101 et seq.)” after “1978” and made technical amendment to reference to section 590p(b) of this title to correct corresponding provision of original Act.
 
 #### Effective Date of 2008 Amendment
 

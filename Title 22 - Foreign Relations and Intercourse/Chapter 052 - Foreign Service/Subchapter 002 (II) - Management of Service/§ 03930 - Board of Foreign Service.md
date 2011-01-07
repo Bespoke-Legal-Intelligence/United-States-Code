@@ -6,11 +6,11 @@ The President shall establish a Board of the Foreign Service to advise the Secre
 
 #### Amendments
 
-1998—Pub. L. 105–277, §1422(b)(4)(B), substituted “Agency for International Development” for “United States International Development Cooperation Agency”.
+<b>1998</b>—Pub. L. 105–277, §1422(b)(4)(B), substituted “Agency for International Development” for “UnitedStates International Development Cooperation Agency”.
 
 Pub. L. 105–277, §1335(k)(2), substituted “Broadcasting Board of Governors” for “United States Information Agency”.
 
-1985—Pub. L. 99–93 substituted “shall be chaired by an individual appointed by the President” for “shall be chaired by a career member of the Senior Foreign Service designated by the Secretary of State”.
+<b>1985</b>—Pub. L. 99–93 substituted “shall be chaired by an individual appointed by the President” for “shall be chaired by a career member of the Senior Foreign Service designated by the Secretary of State”.
 
 #### Change of Name
 

@@ -36,7 +36,7 @@ Grants awarded under this section shall be used for 1 or more of the following a
 
 &emsp;(2) Construction, maintenance, renovation, and improvement in classrooms, libraries, laboratories, and other instructional facilities, including the integration of computer technology into institutional facilities to create smart buildings.
 
-&emsp;(3) Support of faculty exchanges, faculty development, and faculty fellowships to assist inattaining advanced degrees in the field of instruction of the faculty.
+&emsp;(3) Support of faculty exchanges, faculty development, and faculty fellowships to assist in attaining advanced degrees in the field of instruction of the faculty.
 
 &emsp;(4) Development and improvement of academic programs.
 
@@ -76,7 +76,7 @@ Grants awarded under this section shall be used for 1 or more of the following a
 
 &emsp;The provisions of part C of this subchapter, regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this subsection, shall apply to funds used under paragraph (1).
 
-(Pub. L. 89–329, title III, §311, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1291; amended Pub. L. 100–50, §2(a)(1), June 3, 1987, 101 Stat. 335; Pub. L. 105–244, title III, §§301(c)(1), 303(a), Oct. 7, 1998, 112 Stat. 1636, 1638; Pub. L. 110–315, title III, §301, Aug. 14, 2008, 122 Stat. 3166.)
+(Pub. L. 89–329, title III, §311, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1291; amended Pub. L. 100–50, §2(a)(1), June 3, 1987, 101 Stat. 335; Pub. L. 105–244, title III,§§301(c)(1), 303(a), Oct. 7, 1998, 112 Stat. 1636, 1638; Pub. L. 110–315, title III, §301, Aug. 14, 2008, 122 Stat. 3166.)
 
 #### Prior Provisions
 
@@ -84,7 +84,7 @@ A prior section 1057, Pub. L. 89–329, title III, §311, as added Pub. L. 96–
 
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–315, §301(1)(A), made technical amendment to reference in original act which appears in text as reference to section 1068 of this title.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–315, §301(1)(A), made technical amendment to reference in original act which appears in text as reference to section 1068 of this title.
 
 Subsec. (b)(3)(F). Pub. L. 110–315, §301(1)(B), inserted “, including services that will assist in the education of special populations” before period at end.
 
@@ -92,11 +92,11 @@ Subsec. (c)(6). Pub. L. 110–315, §301(2)(A), inserted “, including innovat
 
 Subsec. (c)(7) to (13). Pub. L. 110–315, §301(2)(B)–(E), added par. (7), redesignated former pars. (7) to (12) as pars. (8) to (13), respectively, in par. (12), substituted “distance education technologies” for “distance learning academic instruction capabilities” and, in introductory provisions of par. (13), substituted “subsection (b) and section 1068 of this title” for “subsection (c)”.
 
-1998—Subsec. (b)(1). Pub. L. 105–244, §301(c)(1), substituted “section 1068h(a)(1)” for “section 1069f(a)(1)”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–244, §301(c)(1), substituted “section 1068h(a)(1)” for “section 1069f(a)(1)”.
 
 Subsecs. (c), (d). Pub. L. 105–244, §303(a), added subsecs. (c) and (d).
 
-1987—Subsec. (b)(1). Pub. L. 100–50 substituted “section 1069f(a)(1) of this title” for “section 1069d(a)(1) of this title”.
+<b>1987</b>—Subsec. (b)(1). Pub. L. 100–50 substituted “section 1069f(a)(1) of this title” for “section 1069d(a)(1) of this title”.
 
 #### Effective Date of 1998 Amendment
 

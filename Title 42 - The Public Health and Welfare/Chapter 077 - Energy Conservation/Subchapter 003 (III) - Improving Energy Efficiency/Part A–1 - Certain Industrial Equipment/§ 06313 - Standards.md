@@ -18,9 +18,9 @@
 
 &emsp;(G) The minimum energy efficiency ratio of water-cooled, evaporatively-cooled and water-source central air conditioners and central air conditioning heat pumps less than 65,000 Btu per hour (cooling capacity) shall be 9.3 (at a standard rating of 95 degrees F db, outdoor temperature for evaporatively cooled equipment, and 85 degrees Fahrenheit entering water temperature for water-source and water-cooled equipment).
 
-&emsp;(H) The minimum energy efficiency ratio of water-cooled, evaporatively-cooled and water-source central air conditioners and central air conditioning heat pumps at or above 65,000 Btu per hour (cooling capacity) and less than 135,000 Btu per hour (cooling capacity) shall be 10.5 (at a standard rating of 95 degrees F db, outdoor temperature for evaporatively cooled equipment, and 85 degrees Fahrenheit entering water temperature for water source and water-cooled equipment).
+&emsp;(H) The minimum energy efficiency ratio of water-cooled, evaporatively-cooled and water-source central air conditioners and central air conditioning heat pumps at or above 65,000 Btuper hour (cooling capacity) and less than 135,000 Btu per hour (cooling capacity) shall be 10.5 (at a standard rating of 95 degrees F db, outdoor temperature for evaporatively cooled equipment, and 85 degrees Fahrenheit entering water temperature for water source and water-cooled equipment).
 
-&emsp;(I) The minimum coefficient of performance in the heating mode of water-source heat pumps less than 135,000 Btu per hour (coolingcapacity) shall be 3.8 (at a standard rating of 70 degrees Fahrenheit entering water).
+&emsp;(I) The minimum coefficient of performance in the heating mode of water-source heat pumps less than 135,000 Btu per hour (cooling capacity) shall be 3.8 (at a standard rating of 70 degrees Fahrenheit entering water).
 
 (2) Each large commercial package air conditioning and heating equipment (including single package vertical air conditioners and single package vertical heat pumps) manufactured on or after January 1, 1995, but before January 1, 2010, shall meet the following standard levels:
 
@@ -80,7 +80,7 @@ Amended uniform national standard for products.—
 
 &emsp;&emsp;&emsp;(I)
 
-In general.—Except as provided in subclause (II), not later than 18 months after the date of publication of the amendment to the ASHRAE/IES Standard 90.1 for a product described in clause (i), the Secretary shall establish an amended uniform national standard for the product at theminimum level specified in the amended ASHRAE/IES Standard 90.1.
+In general.—Except as provided in subclause (II), not later than 18 months after the date of publication of the amendment to the ASHRAE/IES Standard 90.1 for a product described in clause (i), the Secretary shall establish an amended uniform national standard for the product at the minimum level specified in the amended ASHRAE/IES Standard 90.1.
 
 &emsp;&emsp;&emsp;(II)
 
@@ -220,7 +220,7 @@ In general.—Single package vertical air conditioners and single package vertic
 
 &emsp;&emsp;(iv) The minimum energy efficiency ratio of single package vertical air conditioners at or above 135,000 Btu per hour (cooling capacity) but less than 240,000 Btu per hour (cooling capacity), shall be 8.6.
 
-&emsp;&emsp;(v) The minimum energy efficiency ratio of single package vertical heat pumps less than 65,000 Btu per hour (cooling capacity), single-phase, shall be 9.0 and the minimumcoefficient of performance in the heating mode shall be 3.0.
+&emsp;&emsp;(v) The minimum energy efficiency ratio of single package vertical heat pumps less than 65,000 Btu per hour (cooling capacity), single-phase, shall be 9.0 and the minimum coefficient of performance in the heating mode shall be 3.0.
 
 &emsp;&emsp;(vi) The minimum energy efficiency ratio of single package vertical heat pumps less than 65,000 Btu per hour (cooling capacity), 3-phase, shall be 9.0 and the minimum coefficient of performance in the heating mode shall be 3.0.
 
@@ -234,7 +234,7 @@ Review.—Not later than 3 years after December 19, 2007, the Secretary shall re
 
 #### (b) Electric motors
 
-(1) Except for definite purpose motors, special purpose motors, and those motors exempted by the Secretary under paragraph (2), each electric motor manufactured (alone or as a component of another piece of equipment) after the 60-month period beginning on October 24, 1992, or in the case of an electric motor which requires listing or certification by a nationally recognized safety testing laboratory, after the 84-month period beginning on October 24, 1992, shall have a nominal full load efficiency of not less than the following:
+(1) Except for definite purpose motors, special purpose motors, and those motors exempted by the Secretary under paragraph (2),<sup>1</sup> each electric motor manufactured (alone or as a component of another piece of equipment) after the 60-month period beginning on October 24, 1992, or in the case of an electric motor which requires listing or certification by a nationally recognized safety testing laboratory, after the 84-month period beginning on October 24, 1992, shall have a nominal full load efficiency of not less than the following:
 
 &nbsp;
 
@@ -263,7 +263,27 @@ Review.—Not later than 3 years after December 19, 2007, the Secretary shall re
 | 150 | 94\.5 | 95\.0 | 93\.6 | 95\.0 | 95\.0 | 94\.5 |
 | 200 | 94\.5 | 95\.0 | 94\.5 | 95\.0 | 95\.0 | 95\.0 |
 
-(2)(A) The Secretary may, by rule, provide that the standards specified in paragraph (1) shall not apply to certain types or classes of electric motors if—
+(2)
+
+Electric motors.—
+
+&emsp;(A)
+
+General purpose electric motors (subtype i).—Except as provided in subparagraph (B), each general purpose electric motor (subtype I) with a power rating of 1 horsepower or greater, but not greater than 200 horsepower, manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007, shall have a nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–12.
+
+&emsp;(B)
+
+Fire pump motors.—Each fire pump motor manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007, shall have nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–11.
+
+&emsp;(C)
+
+General purpose electric motors (subtype ii).—Each general purpose electric motor (subtype II) with a power rating of 1 horsepower or greater, but not greater than 200 horsepower, manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007, shall have a nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–11.
+
+&emsp;(D) NEMA
+
+design b, general purpose electric motors.—Each NEMA Design B, general purpose electric motor with a power rating of more than 200 horsepower, but not greater than 500 horsepower, manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007, shall have a nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–11.
+
+(3)(A) The Secretary may, by rule, provide that the standards specified in paragraph (1) shall not apply to certain types or classes of electric motors if—
 
 &emsp;(i) compliance with such standards would not result in significant energy savings because such motors cannot be used in most general purpose applications or are very unlikely to be used in most general purpose applications; and
 
@@ -273,9 +293,9 @@ Review.—Not later than 3 years after December 19, 2007, the Secretary shall re
 
 (C) Not later than two years after October 24, 1992, the Secretary shall rule on each petition for exemption submitted pursuant to subparagraph (B). In making such ruling, the Secretary shall afford an opportunity for public comment.
 
-(D) Manufacturers of types or classes of motors developed after October 24, 1992, to which standards under paragraph (1) would be applicable may petition the Secretary for exemptions from compliance with such standards based on the criteria specified in subparagraph (A).
+(D) Manufacturers of types or classes of motors developed after October 24, 1992, to which standards under paragraph (1) would be applicable may petition the Secretary for exemptionsfrom compliance with such standards based on the criteria specified in subparagraph (A).
 
-(3)(A) The Secretary shall publish a final rule no later than the end of the 24-month period beginning on the effective date of the standards established under paragraph (1) to determine if such standards should be amended. Such rule shall provide that any amendment shall apply to electric motors manufactured on or after a date which is five years after the effective date of the standards established under paragraph (1).
+(4)(A) The Secretary shall publish a final rule no later than the end of the 24-month period beginning on the effective date of the standards established under paragraph (1) to determine if such standards should be amended. Such rule shall provide that any amendment shall apply to electric motors manufactured on or after a date which is five years after the effective date of the standards established under paragraph (1).
 
 (B) The Secretary shall publish a final rule no later than 24 months after the effective date of the previous final rule to determine whether to amend the standards in effect for such product. Any such amendment shall apply to electric motors manufactured after a date which is five years after—
 
@@ -487,27 +507,15 @@ Water use is for the condenser only and does not include potable water used to m
 
 (Pub. L. 94–163, title III, §342, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3269; amended Pub. L. 102–486, title I, §122(d), Oct. 24, 1992, 106 Stat. 2810; Pub. L. 109–58, title I, §136(b)–(e), Aug. 8, 2005, 119 Stat. 636–641; Pub. L. 110–140, title III, §§305(b), 306(c), 312(b), 313(b)(1), 314(b), Dec. 19, 2007, 121 Stat. 1554, 1559, 1564, 1568, 1570.)
 
-#### Amendment of Subsection (b)
-
-<i>Pub. L. 110–140, title III, §313(b), Dec. 19, 2007, 121 Stat. 1568, provided that, effective on the date that is 3 years after Dec. 19, 2007, subsection (b) of this section is amended by redesignating paragraphs (2) and (3) as (3) and (4), respectively, and by adding a new paragraph (2) to read as follows:</i>
-
-<i>(2) ELECTRIC MOTORS.—</i>
-
-&emsp;<i>(A) GENERAL PURPOSE ELECTRIC MOTORS (SUBTYPE I)</i>.—<i>Except as provided in subparagraph (B), each general purpose electric motor (subtype I) with a power rating of 1 horsepower or greater, but not greater than 200 horsepower, manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007, shall have a nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–12.</i>
-
-&emsp;<i>(B) FIRE PUMP MOTORS</i>.—<i>Each fire pump motor manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007, shall have nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–11.</i>
-
-&emsp;<i>(C) GENERAL PURPOSE ELECTRIC MOTORS (SUBTYPE II)</i>.—<i>Each general purpose electric motor (subtype II) with a power rating of 1 horsepower or greater, but not greater than 200 horsepower, manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007, shall have a nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–11.</i>
-
-&emsp;<i>(D) NEMA DESIGN B, GENERAL PURPOSE ELECTRIC MOTORS</i>.—<i>Each NEMA Design B, general purpose electric motor with a power rating of more than 200 horsepower, but not greater than 500 horsepower, manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007, shall have a nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–11.</i>
-
 #### References in Text
 
-Clauses (i) and (ii)(II), referred to in subsc. (a)(6)(B), probably mean clauses (i) and (ii)(II) of subsec. (a)(6)(A) of this section.
+Clauses (i) and (ii)(II), referred to in subsc. (a)(6)(B), probably mean cls. (i) and (ii)(II) of subsec. (a)(6)(A) of this section.
+
+Paragraph (2), referred to in subsec. (b)(1), probably means par. (3), formerly par. (2), of subsec. (b) of thissection, which was redesignated by Pub. L. 110–140, §313(b)(1)(A).
 
 #### Amendments
 
-2007—Subsec. (a)(1). Pub. L. 110–140, §314(b)(1), (2), in introductory provisions, inserted “(including single package vertical air conditioners and single package vertical heat pumps)” after “heating equipment” and struck out “but before January 1, 2010,” after “January 1, 1994,”.
+<b>2007</b>—Subsec. (a)(1). Pub. L. 110–140, §314(b)(1), (2), in introductory provisions, inserted “(including single package vertical air conditioners and single package vertical heat pumps)” after “heating equipment” and struck out “but before January 1, 2010,” after “January 1, 1994,”.
 
 Subsec. (a)(2). Pub. L. 110–140, §314(b)(1), inserted “(including single package vertical air conditioners and single package vertical heat pumps)” after “heating equipment” in introductory provisions.
 
@@ -525,9 +533,11 @@ Subsec. (a)(8), (9). Pub. L. 110–140, §314(b)(3), inserted “(other than sin
 
 Subsec. (a)(10). Pub. L. 110–140, §314(b)(5), added par. (10).
 
+Subsec. (b)(2) to (4). Pub. L. 110–140, §313(b)(1), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+
 Subsec. (f). Pub. L. 110–140, §312(b), added subsec. (f).
 
-2005—Subsec. (a). Pub. L. 109–58, §136(b)(1), substituted “Small, large, and very large” for “Small and large” in heading.
+<b>2005</b>—Subsec. (a). Pub. L. 109–58, §136(b)(1), substituted “Small, large, and very large” for “Small and large” in heading.
 
 Subsec. (a)(1). Pub. L. 109–58, §136(b)(2), inserted “but before January 1, 2010,” after “January 1, 1994,” in introductory provisions.
 
@@ -541,7 +551,7 @@ Subsec. (a)(7) to (9). Pub. L. 109–58, §136(b)(5), added pars. (7) to (9).
 
 Subsecs. (c) to (e). Pub. L. 109–58, §136(c)–(e), added subsecs. (c) to (e).
 
-1992—Pub. L. 102–486 amended section generally, substituting present provisions for former provisions requiring Secretary to conduct evaluations of electric motors and pumps and other industrial equipment for purposes of determining standards.
+<b>1992</b>—Pub. L. 102–486 amended section generally, substituting present provisions for former provisions requiring Secretary to conduct evaluations of electric motors and pumps and other industrial equipment for purposes of determining standards.
 
 #### Effective Date of 2007 Amendment
 

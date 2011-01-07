@@ -18,7 +18,7 @@ Works Commemorating Events, Individuals, or Groups.—A commemorative work comme
 
 (d)
 
-Consultation with National Capital Memorial Advisory Commission.—In considering legislation authorizing commemorative works in the District of Columbia and its environs, the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate shall solicit the views of the National Capital Memorial Advisory Commission.
+Consultation with National Capital Memorial Advisory Commission.—In consideringlegislation authorizing commemorative works in the District of Columbia and its environs, the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate shall solicit the views of the National Capital Memorial Advisory Commission.
 
 (e)
 
@@ -76,9 +76,9 @@ In subsection (d), the words “House Administration” are substituted for “H
 
 #### Amendments
 
-2009—Subsec. (d). Pub. L. 111–11, which directed insertion of “Natural” before “Resources”, was executed bymaking the insertion before “Resources of the House”, to reflect the probable intent of Congress.
+<b>2009</b>—Subsec. (d). Pub. L. 111–11, which directed insertion of “Natural” before “Resources”, was executed by making the insertion before “Resources of the House”, to reflect the probable intent of Congress.
 
-2003—Subsec. (b). Pub. L. 108–126, §203(c)(1), substituted “work solely commemorating a limited military engagement” for “work commemorating a lesser conflict” and “such war or conflict” for “the event”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–126, §203(c)(1), substituted “work solely commemorating a limited military engagement” for “work commemorating a lesser conflict” and “such war or conflict” for “the event”.
 
 Subsec. (d). Pub. L. 108–126, §203(c)(2), substituted “Memorial Advisory Commission” for “Memorial Commission” in heading, and in text substituted “Resources” for “House Administration” and inserted “Advisory” before “Commission”.
 
@@ -92,7 +92,7 @@ Commemorative Works
 
 &nbsp;
 
-Adams Memorial.—Pub. L. 107–62, Nov. 5, 2001, 115 Stat. 411; Pub. L. 107–315, Dec. 2, 2002, 116 Stat. 2763; Pub. L. 108–7, div. F, title I, §142, Feb. 20, 2003, 117 Stat. 244.
+Adams Memorial.—Pub. L. 107–62, Nov. 5, 2001, 115 Stat. 411; Pub. L. 107–315, Dec. 2, 2002, 116 Stat. 2763; Pub. L. 108–7, div. F, title I, §142, Feb. 20, 2003, 117 Stat. 244; Pub. L. 111–169, §1, May 24, 2010, 124 Stat. 1192.
 
 African-Americans Civil War Union Memorial.—Pub. L. 102–412, Oct. 14, 1992, 106 Stat. 2104.
 

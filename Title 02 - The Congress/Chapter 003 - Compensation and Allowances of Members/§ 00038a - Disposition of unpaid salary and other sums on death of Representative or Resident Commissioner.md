@@ -1,6 +1,6 @@
 ### §38a. Disposition of unpaid salary and other sums on death of Representative or Resident Commissioner
 
-When any individual who has been elected a Member of, or Resident Commissioner to, the House of Representatives dies after the commencement of the Congress to which he has been elected, any unpaid balance of salary and other sums due such individual shall be paid to the person or persons surviving at the date of death,in the following order of precedence, and such payment shall be a bar to the recovery by any other person of amounts so paid:
+When any individual who has been elected a Member of, or Resident Commissioner to, theHouse of Representatives dies after the commencement of the Congress to which he has been elected, any unpaid balance of salary and other sums due such individual shall be paid to the person or persons surviving at the date of death, in the following order of precedence, and such payment shall be a bar to the recovery by any other person of amounts so paid:
 
 First, to the beneficiary or beneficiaries designated by such individual in writing to receive such unpaid balance and other sums due filed with the Chief Administrative Officer of the House of Representatives and received by the Chief Administrative Officer prior to such individual's death;
 

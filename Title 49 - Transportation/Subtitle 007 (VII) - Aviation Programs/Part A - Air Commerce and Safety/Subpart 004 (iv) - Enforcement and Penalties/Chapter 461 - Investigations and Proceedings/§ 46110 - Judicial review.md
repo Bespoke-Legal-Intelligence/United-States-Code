@@ -118,9 +118,9 @@ In subsection (d), the words “made in the proceeding conducted by” are subst
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–176, in first sentence, struck out “safety” before “duties and powers designated to be carried out by the Administrator)” and substituted “in whole or in part under this part, part B, or subsection (<i>l</i>) or (s) of section 114” for “under this part”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–176, in first sentence, struck out “safety” before “duties and powers designated to be carried out by the Administrator)” and substituted “in whole or in part under this part, part B, or subsection (<i>l</i>) or (s) of section 114” for “under this part”.
 
-2001—Subsec. (a). Pub. L. 107–71, §140(b)(1), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–71, §140(b)(1), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
 
 Subsecs. (b) to (d). Pub. L. 107–71, §140(b)(2), substituted “, Under Secretary, or Administrator” for “or Administrator” wherever appearing.
 
@@ -130,5 +130,5 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland SecurityReorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

@@ -10,13 +10,15 @@ Nothing in subsection (a) of this section shall apply to—
 
 &emsp;(1) the exportation of such substances from the United States in conformity with subchapter II of this chapter;
 
-&emsp;(2) the delivery of such a substance to or by a common or contract carrier for carriage in the lawful and usual course of its business, or to or by a warehouseman for storage in the lawful and usual course of its business; but where such carriage or storage is in connection with the distribution by the owner of the substance to a third person, this paragraph shall not relieve the distributor from compliance with subsection (a) of this section.
+&emsp;(2) the delivery of such a substance to or by a common or contract carrier for carriage in the lawful and usual course of its business, or to or by a warehouseman for storage in the lawful and usual course of its business; but where such carriage or storage is in connection with the distribution by the owner of the substance to a third person, this paragraph shall not relieve the distributor from compliance with subsection (a) of this section; or
+
+&emsp;(3) the delivery of such a substance for the purpose of disposal by an ultimate user, long-term care facility, or other person acting in accordance with section 822(g) of this title.
 
 #### (c) Preservation and availability
 
 (1) Every person who in pursuance of an order required under subsection (a) of this section distributes a controlled substance shall preserve such order for a period of two years, and shall make such order available for inspection and copying by officers and employees of the United States duly authorized for that purpose by the Attorney General, and by officers or employees of States or their political subdivisions who are charged with the enforcement of State or local laws regulating the production, or regulating the distribution or dispensing, of controlled substances and who are authorized under such laws to inspect such orders.
 
-(2) Every person who gives an order required under subsection (a) of this section shall, at or before the time of giving such order, make orcause to be made a duplicate thereof on a form to be issued by the Attorney General in blank in accordance with subsection (d) of this section and regulations prescribed by him pursuant to this section, and shall, if such order is accepted, preserve such duplicate for a period of two years and make it available for inspection and copying by the officers and employees mentioned in paragraph (1) of this subsection.
+(2) Every person who gives an order required under subsection (a) of this section shall, at or before the time of giving such order, make or cause to be made a duplicate thereof on a form to be issued by the Attorney General in blank in accordance with subsection (d) of this section and regulations prescribed by him pursuant to this section, and shall, if such order is accepted, preserve such duplicate for a period of two years and make it available for inspection and copying by the officers and employees mentioned in paragraph (1) of this subsection.
 
 #### (d) Issuance
 
@@ -28,9 +30,13 @@ Nothing in subsection (a) of this section shall apply to—
 
 It shall be unlawful for any person to obtain by means of order forms issued under this section controlled substances for any purpose other than their use, distribution, dispensing, or administration in the conduct of a lawful business in such substances or in the course of his professional practice or research.
 
-(Pub. L. 91–513, title II, §308, Oct. 27, 1970, 84 Stat. 1259.)
+(Pub. L. 91–513, title II, §308, Oct. 27, 1970, 84 Stat. 1259; Pub. L. 111–273, §3(b), Oct. 12, 2010, 124 Stat. 2860.)
 
 #### References in Text
 
 Schedules I and II, referred to in subsec. (a), are set out in section 812(c) of this title.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (b)(3). Pub. L. 111–273 added par. (3).
 

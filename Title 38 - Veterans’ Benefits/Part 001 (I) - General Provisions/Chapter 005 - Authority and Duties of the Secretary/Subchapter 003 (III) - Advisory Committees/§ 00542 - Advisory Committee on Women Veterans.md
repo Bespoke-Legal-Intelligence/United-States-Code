@@ -6,9 +6,11 @@
 
 &emsp;(i) representatives of women veterans;
 
-&emsp;(ii) individuals who are recognized authorities in fields pertinent to the needs of women veterans, including the gender-specific health-care needs of women; and
+&emsp;(ii) individuals who are recognized authorities in fields pertinent to the needs of women veterans, including the gender-specific health-care needs of women;
 
-&emsp;(iii) representatives of both female and male veterans with service-connected disabilities, including at least one female veteran with a service-connected disability and at least one male veteran with a service-connected disability.
+&emsp;(iii) representatives of both female and male veterans with service-connected disabilities, including at least one female veteran with a service-connected disability and at least one male veteran with a service-connected disability; and
+
+&emsp;(iv) women veterans who are recently separated from service in the Armed Forces.
 
 (B) The Committee shall include, as ex officio members—
 
@@ -38,7 +40,7 @@
 
 (4) The Secretary shall submit with each annual report submitted to the Congress pursuant to section 529 of this title a summary of all reports and recommendations of the Committee submitted to the Secretary since the previous annual report of the Secretary submitted pursuant to such section.
 
-(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 393; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–275, title V, §501(e)(1), Oct. 9, 1996, 110 Stat. 3341; Pub. L. 106–419, title IV, §403(c)(3), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 109–444, §5, Dec. 21, 2006, 120 Stat. 3308; Pub. L. 109–461, title II, §208(b), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3413, 3468; Pub. L. 110–387, title VIII, §808, Oct. 10, 2008, 122 Stat. 4141.)
+(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 393; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–275, title V, §501(e)(1), Oct. 9, 1996, 110 Stat. 3341; Pub. L. 106–419, title IV, §403(c)(3), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 109–444, §5, Dec. 21, 2006, 120 Stat. 3308; Pub. L. 109–461, title II, §208(b), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3413, 3468; Pub. L. 110–387, title VIII, §808, Oct. 10,2008, 122 Stat. 4141; Pub. L. 111–163, title II, §204(a), May 5, 2010, 124 Stat. 1144.)
 
 #### Prior Provisions
 
@@ -48,23 +50,29 @@ Provisions similar to those in this section were contained in section 222 of thi
 
 #### Amendments
 
-2008—Subsec. (c)(1). Pub. L. 110–387 struck out “through 2008” after “year” in introductory provisions.
+<b>2010</b>—Subsec. (a)(2)(A)(iv). Pub. L. 111–163 added cl. (iv).
 
-2006—Subsec. (c)(1). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+<b>2008</b>—Subsec. (c)(1). Pub. L. 110–387 struck out “through 2008” after “year” in introductory provisions.
+
+<b>2006</b>—Subsec. (c)(1). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Pub. L. 109–461, §208(b), substituted “2008” for “2004” in introductory provisions.
 
 Pub. L. 109–444, which substituted “2008” for “2004” in introductory provisions, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
-2000—Subsec. (c)(1). Pub. L. 106–419 inserted “through 2004” after “each even-numbered year” in introductory provisions.
+<b>2000</b>—Subsec. (c)(1). Pub. L. 106–419 inserted “through 2004” after “each even-numbered year” in introductory provisions.
 
-1996—Subsec. (b). Pub. L. 104–275 inserted “, including the Center for Women Veterans” before period at end.
+<b>1996</b>—Subsec. (b). Pub. L. 104–275 inserted “, including the Center for Women Veterans” before period at end.
 
-1992—Subsec. (a)(2)(B)(iii). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” and “Under Secretary for Benefits” for “Chief Benefits Director”.
+<b>1992</b>—Subsec. (a)(2)(B)(iii). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” and “Under Secretary for Benefits” for “Chief Benefits Director”.
 
 #### Change of Name
 
 Reference to Assistant Secretary of Labor for Veterans’ Employment in any law in force on Nov. 6, 1986, deemed to be a reference to Assistant Secretary of Labor for Veterans’ Employment and Training, see section 2(b)(3) of Pub. L. 99–619, set out as a References in Other Laws note under section 553 of Title 29, Labor.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–163, title II, §204(c), May 5, 2010, 124 Stat. 1144, provided that: “The amendments made by this section \[amending this section and section 544 of this title\] shall apply to appointments made on or after the date of the enactment of this Act \[May 5, 2010\].”
 
 #### Termination of Advisory Committees
 

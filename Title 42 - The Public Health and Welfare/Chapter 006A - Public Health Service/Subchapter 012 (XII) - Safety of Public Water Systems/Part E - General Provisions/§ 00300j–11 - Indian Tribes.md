@@ -24,13 +24,13 @@ Subject to the provisions of subsection (b) of this section, the Administrator�
 
 #### (2) Provisions where treatment as State inappropriate
 
-&emsp;For any provision of this subchapter where treatment of Indian Tribes as identical to States is inappropriate, administratively infeasible or otherwise inconsistent with the purposes of this subchapter, the Administrator may include in the regulations promulgated under this section, other means for administering such provision in a manner that will achieve the purpose of the provision. Nothing in this section shall be construed to allow Indian Tribes to assume or maintain primary enforcement responsibility for public water systems or for underground injection control in a manner less protective of the health of persons than such responsibility may be assumed or maintained by a State. An Indian tribe <sup>1</sup> shall not be required to exercise criminal enforcement jurisdiction for purposes of complying with the preceding sentence.
+&emsp;For any provision of this subchapter where treatment of Indian Tribes as identical toStates is inappropriate, administratively infeasible or otherwise inconsistent with the purposes of this subchapter, the Administrator may include in the regulations promulgated under this section, other means for administering such provision in a manner that will achieve the purpose of the provision. Nothing in this section shall be construed to allow Indian Tribes to assume or maintain primary enforcement responsibility for public water systems or for underground injection control in a manner less protective of the health of persons than such responsibility may be assumed or maintained by a State. An Indian tribe <sup>1</sup> shall not be required to exercise criminal enforcement jurisdiction for purposes of complying with the preceding sentence.
 
 (July 1, 1944, ch. 373, title XIV, §1451, as added Pub. L. 99–339, title III, §302(a), June 19, 1986, 100 Stat. 665; amended Pub. L. 104–182, title V, §501(f)(6), Aug. 6, 1996, 110 Stat. 1692.)
 
 #### Amendments
 
-1996—Pub. L. 104–182 made technical amendment to section catchline and subsec. (a) designation.
+<b>1996</b>—Pub. L. 104–182 made technical amendment to section catchline and subsec. (a) designation.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

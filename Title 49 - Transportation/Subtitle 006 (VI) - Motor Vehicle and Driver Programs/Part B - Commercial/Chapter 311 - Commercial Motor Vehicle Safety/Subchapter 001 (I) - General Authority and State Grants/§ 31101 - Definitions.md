@@ -56,7 +56,7 @@ In clause (4), the words “the Commonwealth of” are omitted for consistency i
 
 #### Amendments
 
-1998—Par. (1)(A). Pub. L. 105–178, §4003(a)(1), inserted “or gross vehicle weight” after “rating” and substituted “10,001 pounds, whichever is greater” for “10,000 pounds”.
+<b>1998</b>—Par. (1)(A). Pub. L. 105–178, §4003(a)(1), inserted “or gross vehicle weight” after “rating” and substituted “10,001 pounds, whichever is greater” for “10,000 pounds”.
 
 Par. (1)(C). Pub. L. 105–178, §4003(a)(2), inserted “and transported in a quantity requiring placarding under regulations prescribed by the Secretary under section 5103” before period at end.
 

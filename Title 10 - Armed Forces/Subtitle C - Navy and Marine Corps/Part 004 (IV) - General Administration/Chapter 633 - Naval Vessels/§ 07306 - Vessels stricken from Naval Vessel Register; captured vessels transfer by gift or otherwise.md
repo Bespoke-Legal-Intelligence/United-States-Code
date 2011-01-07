@@ -40,9 +40,9 @@ A prior section 7306, acts Aug. 10, 1956, ch. 1041, 70A Stat. 452; Nov. 8, 1965,
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–217 substituted “section 113 of title 40” for “subsections (c) and (d) of section 602 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 474)”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–217 substituted “section 113 of title 40” for “subsections (c) and (d) of section 602 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 474)”.
 
-1999—Subsec. (d). Pub. L. 106–65 amended heading and text of subsec. (d) generally. Text read as follows:
+<b>1999</b>—Subsec. (d). Pub. L. 106–65 amended heading and text of subsec. (d) generally. Text read as follows:
 
 “(1) No transfer under this section takes effect unless—
 

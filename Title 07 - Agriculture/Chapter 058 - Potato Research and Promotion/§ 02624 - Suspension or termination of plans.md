@@ -10,7 +10,7 @@ The Secretary may conduct a referendum at any time and shall hold a referendum o
 
 #### (c) Limitation
 
-The termination or suspension of any plan, or any provision thereof, shall not be considered the issuance of a plan within the meaning of this chapter.
+The termination or suspension of any plan, or any provision thereof, shall not be consideredthe issuance of a plan within the meaning of this chapter.
 
 (Pub. L. 91–670, title III, §315, Jan. 11, 1971, 84 Stat. 2047; Pub. L. 101–624, title XIX, §1945, Nov. 28, 1990, 104 Stat. 3868.)
 
@@ -20,7 +20,7 @@ This chapter, referred to in subsec. (c), was in the original “this part”, a
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–624, §1945(1), inserted “, or of the total number of producers and importers when importers are subject to a plan,” after first reference to “potato producers”, “and importers” aftersecond reference to “potato producers”, and “and import” after “produce”, and substituted “and imported by those voting in the referendum” for “by the potato producers voting in the referendum”.
+1990—Subsec. (b). Pub. L. 101–624, §1945(1), inserted “, or of the total number of producers and importers when importers are subject to a plan,” after first reference to “potato producers”, “and importers” after second reference to “potato producers”, and “and import” after “produce”, and substituted “and imported by those voting in the referendum” for “by the potato producers voting in the referendum”.
 
 Subsec. (c). Pub. L. 101–624, §1945(2), added subsec. (c).
 

@@ -18,7 +18,7 @@ Subject to the notification requirement under subsection (b), not more than 10 p
 
 #### (2) Notice required
 
-&emsp;Not later than 15 days before obligating or expending funds under the authority provided in subsection (a), the Secretary of Defense shall notify the appropriate congressional committees of the determination made under paragraph (1). The notice shall include—
+&emsp;Not later than 15 days before obligating or expending funds under the authority providedin subsection (a), the Secretary of Defense shall notify the appropriate congressional committees of the determination made under paragraph (1). The notice shall include—
 
 &emsp;&emsp;(A) the determination;
 

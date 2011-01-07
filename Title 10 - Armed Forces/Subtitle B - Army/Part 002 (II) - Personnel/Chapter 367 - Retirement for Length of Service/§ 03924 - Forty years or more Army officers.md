@@ -36,7 +36,7 @@ In subsection (b), the applicability of 10:942 to warrant officers is based on a
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–513 substituted “1186” for “3786”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “1186” for “3786”.
 
 #### Effective Date of 1980 Amendment
 

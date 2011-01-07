@@ -20,7 +20,7 @@ The Agreement, referred to in subsec. (b), is the Agreement Concerning Automotiv
 
 #### Amendments
 
-1988—Subsecs. (a), (b). Pub. L. 100–418 substituted “Harmonized Tariff Schedule of the United States” for “Tariff Schedules of the United States”.
+<b>1988</b>—Subsecs. (a), (b). Pub. L. 100–418 substituted “Harmonized Tariff Schedule of the United States” for “Tariff Schedules of the United States”.
 
 #### Effective Date of 1988 Amendment
 

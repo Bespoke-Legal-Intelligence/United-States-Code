@@ -118,11 +118,11 @@ Section 2905 of the Defense Base Closure and Realignment Act of 1990, referred t
 
 #### Amendments
 
-2003—Subsec. (e). Pub. L. 108–176, §153(1), substituted “From amounts the Secretary distributes to an airport under section 47115, $10,000,000 for each of fiscal years 2004 and 2005, and $7,000,000 for each fiscal year thereafter, is available” for “Not more than $7,000,000 for each airport from amounts the Secretary distributes under section 47115 of this title for a fiscal year is available” in introductory provisions.
+<b>2003</b>—Subsec. (e). Pub. L. 108–176, §153(1), substituted “From amounts the Secretary distributes to an airport under section 47115, $10,000,000 for each of fiscal years 2004 and 2005, and $7,000,000 for each fiscal year thereafter, is available” for “Not more than $7,000,000 for each airport from amounts the Secretary distributes under section 47115 of this title for a fiscal year is available” in introductory provisions.
 
 Subsec. (f). Pub. L. 108–176, §153(2), (3), inserted par. (1) designation and heading, substituted “From amounts the Secretary distributes to an airport under section 47115, $10,000,000 for each of fiscal years 2004 and 2005, and $7,000,000 for each fiscal year thereafter, is available” for “Not more than a total of $7,000,000 for each airport from amounts the Secretary distributes under section 47115 of this title for fiscal years beginning after September 30, 1992, is available”, and added par. (2).
 
-2000—Subsec. (a). Pub. L. 106–181, §130(a)(1)(A), substituted “15” for “12” in introductory provisions.
+<b>2000</b>—Subsec. (a). Pub. L. 106–181, §130(a)(1)(A), substituted “15” for “12” in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 106–181, §130(a)(1)(B), added par. (2) and struck out former par. (2) which read as follows: “the Secretary finds that such grants would—
 
@@ -140,7 +140,7 @@ Subsec. (f). Pub. L. 106–181, §130(c), in heading, substituted “Hangars, an
 
 Subsec. (g). Pub. L. 106–181, §130(a)(4), added subsec. (g).
 
-1996—Subsec. (a). Pub. L. 104–287, §5(83)(A), which directed amendment of subsec. (a) by substituting “before August 24, 1994” for “on or before the date of the enactment of this sentence”, could not be executed because the phrase to be amended did not appear subsequent to amendment by Pub. L. 104–264, §124(a). See below.
+<b>1996</b>—Subsec. (a). Pub. L. 104–287, §5(83)(A), which directed amendment of subsec. (a) by substituting “before August 24, 1994” for “on or before the date of the enactment of this sentence”, could not be executed because the phrase to be amended did not appear subsequent to amendment by Pub. L. 104–264, §124(a). See below.
 
 Pub. L. 104–264, §124(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
@@ -154,7 +154,7 @@ Subsec. (e). Pub. L. 104–287, §5(83)(B), substituted “Not” for “Notwith
 
 Subsec. (f). Pub. L. 104–264, §124(c), amended subsec. (f) by substituting “Utilities, and Hangars” for “and Utilities” in heading and “for fiscal years beginning after September 30, 1992,” for “for the fiscal years ending September 30, 1993–1996,” and “utilities, and hangars” for “and utilities” in text.
 
-1994—Subsec. (a). Pub. L. 103–305, §116(b), substituted “15” for “12” and inserted at end “The Secretary may only designate an airport for such grants (other than an airport designated for such grants on or before the date of the enactment of this sentence) if the Secretary finds that grants under such section for projects at such airport would reduce delays at an airport with more than 20,000 hours of annual delays in commercial passenger aircraft takeoffs and landings.”
+<b>1994</b>—Subsec. (a). Pub. L. 103–305, §116(b), substituted “15” for “12” and inserted at end “The Secretary may only designate an airport for such grants (other than an airport designated for such grants on or before the date of the enactment of this sentence) if the Secretary finds that grants under such section for projects at such airport would reduce delays at an airport with more than 20,000 hours of annual delays in commercial passenger aircraft takeoffs and landings.”
 
 Subsec. (d). Pub. L. 103–305, §116(c), struck out at end “If an airport does not have a level of passengers getting on aircraft during that 5-year period that qualifies the airport as a small hub airport (as defined on January 1, 1990) or reliever airport, the Secretary may redesignate the airport for grants for additional fiscal years that the Secretary decides.”
 

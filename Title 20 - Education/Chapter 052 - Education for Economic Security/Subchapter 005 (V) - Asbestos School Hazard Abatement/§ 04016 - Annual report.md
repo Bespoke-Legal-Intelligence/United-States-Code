@@ -18,7 +18,7 @@ During each calendar year until 1999, the Administrator shall prepare and submit
 
 #### Amendments
 
-1990—Pub. L. 101–637, §14(a)(7), made technical amendment to section catchline.
+<b>1990</b>—Pub. L. 101–637, §14(a)(7), made technical amendment to section catchline.
 
 Pub. L. 101–637, §8(a), amended first sentence generally. Prior to amendment, first sentence read as follows: “During each of the ten calendar years after 1984, the Administrator shall prepare and submit not later than February 1 of each year a report to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives on the loan and grant program authorized by section 4014 of this title.”
 

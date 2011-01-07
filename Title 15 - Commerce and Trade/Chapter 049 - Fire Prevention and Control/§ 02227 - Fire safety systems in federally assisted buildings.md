@@ -64,7 +64,7 @@ For purposes of this section, the following definitions apply:
 
 (3) No Federal funds may be used for the renovation of a Federal employee office building of 6 or more stories that is owned by the Federal Government unless after that renovation the Federal employee office building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for the renovation of any other Federal employee office building that is owned by the Federal Government unless after that renovation the hazardous areas of the Federal employee office building are protected by automatic sprinkler systems or an equivalent level of safety.
 
-(4) No Federal funds may be used for entering into or renewing a lease of a Federal employee office building of 6 or more stories that is renovated after October 26, 1992, where at least some portion of the federally leased space is on the sixth floor or above and at least 35,000 square feet of space is federally occupied, unless after that renovation the Federal employee office building is protected by an automatic sprinkler system or equivalent level of safety. NoFederal funds may be used for entering into or renewing a lease of any other Federal employee office building that is renovated after October 26, 1992, unless after that renovation the hazardous areas of the Federal employee office building are protected by automatic sprinkler systems or an equivalent level of safety.
+(4) No Federal funds may be used for entering into or renewing a lease of a Federal employee office building of 6 or more stories that is renovated after October 26, 1992, where at least some portion of the federally leased space is on the sixth floor or above and at least 35,000 square feet of space is federally occupied, unless after that renovation the Federal employee office building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for entering into or renewing a lease of any other Federal employeeoffice building that is renovated after October 26, 1992, unless after that renovation the hazardous areas of the Federal employee office building are protected by automatic sprinkler systems or an equivalent level of safety.
 
 #### (c) Housing
 
@@ -118,7 +118,7 @@ Nothing in this section shall be construed to limit the power of any State or po
 
 #### (f) Prefire plan
 
-The head of any Federal agency that owns, leases, or operates a building or housing unitwith Federal funds shall invite the local agency or voluntary organization having responsibility for fire protection in the jurisdiction where the building or housing unit is located to prepare, and biennially review, a prefire plan for the building or housing unit.
+The head of any Federal agency that owns, leases, or operates a building or housing unit with Federal funds shall invite the local agencyor voluntary organization having responsibility for fire protection in the jurisdiction where the building or housing unit is located to prepare, and biennially review, a prefire plan for the building or housing unit.
 
 #### (g) Reports to Congress
 
@@ -146,13 +146,13 @@ The National Housing Act, referred to in subsec. (a)(5)(B), is act June 27, 1934
 
 #### Amendments
 
-1997—Subsec. (c)(2)(B)(i). Pub. L. 105–108, §3(4), inserted “or any successor standard to that standard” after “(known as the Life Safety Code)”.
+<b>1997</b>—Subsec. (c)(2)(B)(i). Pub. L. 105–108, §3(4), inserted “or any successor standard to that standard” after “(known as the Life Safety Code)”.
 
 Subsec. (c)(2)(B)(ii). Pub. L. 105–108, §3(5), inserted “or any successor standard to that standard” after “Association Standard 101”.
 
-1996—Subsec. (b)(1)(B)(iii). Pub. L. 104–316 struck out cl. (iii) which read as follows: “Within 3 years after October 26, 1992, and periodically thereafter, the Comptroller General shall audit a selection of certifications made under clause (ii) and report to Congress on the results of such audit.”
+<b>1996</b>—Subsec. (b)(1)(B)(iii). Pub. L. 104–316 struck out cl. (iii) which read as follows: “Within 3 years after October 26, 1992, and periodically thereafter, the Comptroller General shall audit a selection of certifications made under clause (ii) and report to Congress on the results of such audit.”
 
-1994—Subsec. (c)(1)(A). Pub. L. 103–254, §6(1), substituted “Except as otherwise provided in this paragraph, no Federal” for “No Federal”.
+<b>1994</b>—Subsec. (c)(1)(A). Pub. L. 103–254, §6(1), substituted “Except as otherwise provided in this paragraph, no Federal” for “No Federal”.
 
 Subsec. (c)(1)(C), (D). Pub. L. 103–254, §6(2), added subpars. (C) and (D).
 

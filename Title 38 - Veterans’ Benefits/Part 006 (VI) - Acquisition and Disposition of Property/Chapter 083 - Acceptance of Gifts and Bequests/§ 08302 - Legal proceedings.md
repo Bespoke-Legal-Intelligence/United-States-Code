@@ -6,9 +6,9 @@ For the purpose of acquiring title to and possession of any property which the S
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 5102 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5102 of this title as this section.
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing, “Secretary's” for “Administrator's”, and “Department” for “Veterans’ Administration”.
 
-1986—Pub. L. 99–576 substituted “the Administrator” for “he” in two places, “the Administrator's” for “his”, and “The Administrator” for “He”.
+<b>1986</b>—Pub. L. 99–576 substituted “the Administrator” for “he” in two places, “the Administrator's” for “his”, and “The Administrator” for “He”.
 

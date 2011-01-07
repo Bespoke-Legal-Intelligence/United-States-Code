@@ -22,17 +22,11 @@ A prior subpart A, comprising sections 5001 to 5012, related to tax on distilled
 
 #### Amendments
 
-2005—Pub. L. 109–59, title XI, §11126(c), Aug. 10, 2005, 119 Stat. 1958, added item 5011.
+<b>2005</b>—Pub. L. 109–59, title XI, §11126(c), Aug. 10, 2005, 119 Stat. 1958, added item 5011.
 
-1980—Pub. L. 96–598, §6(b), Dec. 24, 1980, 94 Stat. 3489, added item 5010.
+<b>1980</b>—Pub. L. 96–598, §6(b), Dec. 24, 1980, 94 Stat. 3489, added item 5010.
 
-1979—Pub. L. 96–39, title VIII, §807(b)(2), July 26, 1979, 93 Stat. 290, struck out item 5009 “Drawback”.
-
-<i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
-
-<i><sup>2</sup></i><i> Chapter heading amended by Pub. L. 90–618 without corresponding amendment of analysis.</i>
-
-<i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
+<b>1979</b>—Pub. L. 96–39, title VIII, §807(b)(2), July 26, 1979, 93 Stat. 290, struck out item 5009 “Drawback”.
 
 
 ---

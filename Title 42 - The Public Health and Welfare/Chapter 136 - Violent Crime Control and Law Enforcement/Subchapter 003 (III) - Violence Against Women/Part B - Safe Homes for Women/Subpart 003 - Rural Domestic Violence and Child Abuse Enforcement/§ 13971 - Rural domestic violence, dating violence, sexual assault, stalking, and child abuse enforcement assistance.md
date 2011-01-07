@@ -50,7 +50,7 @@ Funds appropriated pursuant to this section shall be used only for specific prog
 
 #### (A) In general
 
-&emsp;&emsp;Not less than 10 percent of the total amount available under this section for eachfiscal year shall be available for grants under the program authorized by section 3796gg–10 of this title.
+&emsp;&emsp;Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized by section 3796gg–10 of this title.
 
 #### (B) Applicability of part <sup>1</sup>
 
@@ -96,13 +96,13 @@ The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (
 
 #### Amendments
 
-2006—Pub. L. 109–162, §203, amended section generally, substituting provisions relating to rural domestic violence, dating violence, sexual assault, stalking, and child abuse enforcement assistance for provisions relating to rural domestic violence and child abuse enforcement assistance.
+<b>2006</b>—Pub. L. 109–162, §203, amended section generally, substituting provisions relating to rural domestic violence, dating violence, sexual assault, stalking, and child abuse enforcement assistance for provisions relating to rural domestic violence and child abuse enforcement assistance.
 
 Subsec. (c)(3). Pub. L. 109–162, §906(d), which directed the amendment of subsec. (c) by striking par. (3) and inserting a new par. (3) which read “Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized in section 3796gg–10 of this title. The requirements of this paragraph shall not apply to funds allocated for such program.”, was repealed by Pub. L. 109–271, §7(b)(2)(A).
 
 Subsec. (d)(1). Pub. L. 109–271, §7(b)(1), added par. (1) and struck out former par. (1) which read as follows: “Not less than 10 percent of the total amount made available for each fiscal year to carry out this section shall be allocated for grants to Indian tribes or tribal organizations.”
 
-2000—Subsec. (a)(1). Pub. L. 106–386, §1109(d)(1), inserted “and dating violence (as defined in section 3796gg–2 of this title)” after “domestic violence”.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–386, §1109(d)(1), inserted “and dating violence (as defined in section 3796gg–2 of this title)” after “domestic violence”.
 
 Subsec. (a)(2). Pub. L. 106–386, §1512(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “to provide treatment and counseling to victims of domestic violence and dating violence (as defined in section 3796gg–2 of this title) and child abuse; and”.
 
@@ -121,4 +121,6 @@ Subsec. (c)(3). Pub. L. 106–386, §1105(2), added par. (3).
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–162 not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as a note under section 3793 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

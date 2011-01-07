@@ -20,5 +20,5 @@ Section was formerly classified to section 2358(b) of Title 5 period to the gene
 
 #### Amendments
 
-1964—Subsec. (b). Pub. L. 88–448 made section 301 of the Dual Compensation Act inapplicable and struck out provisions which referred to former section 62 of title 5 and section 6 of the act of May 10, 1916.
+<b>1964</b>—Subsec. (b). Pub. L. 88–448 made section 301 of the Dual Compensation Act inapplicable and struck out provisions which referred to former section 62 of title 5 and section 6 of the act of May 10, 1916.
 

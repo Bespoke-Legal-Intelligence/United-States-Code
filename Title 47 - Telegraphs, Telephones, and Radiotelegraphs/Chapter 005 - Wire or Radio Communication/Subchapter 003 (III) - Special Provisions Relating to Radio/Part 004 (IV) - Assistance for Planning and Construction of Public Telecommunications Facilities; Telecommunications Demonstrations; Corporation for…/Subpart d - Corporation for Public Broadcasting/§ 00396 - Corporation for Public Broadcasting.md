@@ -6,7 +6,7 @@ The Congress hereby finds and declares that—
 
 &emsp;(1) it is in the public interest to encourage the growth and development of public radio and television broadcasting, including the use of such media for instructional, educational, and cultural purposes;
 
-&emsp;(2) it is in the public interest to encourage the growth and development of nonbroadcast telecommunications technologies for the delivery of public telecommunications services;
+&emsp;(2) it is in the public interest to encourage the growth and development of nonbroadcasttelecommunications technologies for the delivery of public telecommunications services;
 
 &emsp;(3) expansion and development of public telecommunications and of diversity of its programming depend on freedom, imagination, and initiative on both local and national levels;
 
@@ -52,7 +52,7 @@ There is authorized to be established a nonprofit corporation, to be known as th
 
 #### (e) Officers and employees; term of office, compensation, qualifications, and removal; political party affiliation, political test or qualification when taking personnel actions
 
-(1) The Corporation shall have a President, and such other officers as may be named and appointed by the Board for terms and at rates of compensation fixed by the Board. No officer or employee of the Corporation may be compensated by the Corporation at an annual rate of pay which exceeds the rate of basic pay in effect from time to time for level I of the Executive Schedule under section 5312 of title 5. No individual other than a citizen of the United States may be an officer of the Corporation. No officer of the Corporation, other than the Chairman or a Vice Chairman, may receive any salary or other compensation (except for compensation for services on boards of directors of other organizations that do not receive funds from the Corporation, on committees of such boards, and in similar activities for such organizations) from any sources other than the Corporation for services rendered during the period of his or her employment by the Corporation. Service by any officer on boards of directors of other organizations, on committees of such boards, and in similar activities for such organizations shall besubject to annual advance approval by the Board and subject to the provisions of the Corporation's Statement of Ethical Conduct. All officers shall serve at the pleasure of the Board.
+(1) The Corporation shall have a President, and such other officers as may be named and appointed by the Board for terms and at rates of compensation fixed by the Board. No officer or employee of the Corporation may be compensated by the Corporation at an annual rate of pay which exceeds the rate of basic pay in effect from time to time for level I of the Executive Schedule under section 5312 of title 5. No individual other than a citizen of the United States may be an officer of the Corporation. No officer of the Corporation, other than the Chairman or a Vice Chairman, may receive any salary or other compensation (except for compensation for services on boards of directors of other organizations that do not receive funds from the Corporation, on committees of such boards, and in similar activities for such organizations) from any sources other than the Corporation for services rendered during the period of his or her employment by the Corporation. Service by any officer on boards of directors of other organizations, on committees of such boards, and in similar activities for such organizations shall be subject to annual advance approval by the Board and subject to the provisions of the Corporation's Statement of Ethical Conduct. All officers shall serve at the pleasure of the Board.
 
 (2) Except as provided in the second sentence of subsection (c)(1) of this section, no political test or qualification shall be used in selecting, appointing, promoting, or taking other personnel actions with respect to officers, agents, and employees of the Corporation.
 
@@ -188,7 +188,7 @@ The right to repeal, alter, or amend this section at any time is expressly reser
 
 &emsp;(II) 25 percent shall be available for distribution for the purposes referred to in clause (iii)(II) and (III).
 
-(B)(i) The Corporation shall utilize the funds allocated pursuant to subparagraph (A)(ii)(II) and subparagraph (A)(iii)(II) to make grants for production of public television or radio programs by independent producers and production entities and public telecommunications entities, producers of national children's educational programming, and producers of programs addressing the needs and interests of minorities, and for acquisition of such programs by public telecommunications entities. The Corporation may make grants to public telecommunications entities and producers for the production of programs in languages other than English. Of the funds utilized pursuant to this clause, a substantial amount shall be distributed to independentproducers and production entities, producers of national children's educational programming, and producers of programming addressing the needs and interests of minorities for the production of programs.
+(B)(i) The Corporation shall utilize the funds allocated pursuant to subparagraph (A)(ii)(II) and subparagraph (A)(iii)(II) to make grants for production of public television or radio programs by independent producers and production entities and public telecommunications entities, producers of national children's educational programming, and producers of programs addressing the needs and interests of minorities, and for acquisition of such programs by public telecommunications entities. The Corporation may make grants to public telecommunications entities and producers for the production of programs in languages other than English. Of the funds utilized pursuant to this clause, a substantial amount shall be distributed to independent producers and production entities, producers of national children's educational programming, and producers of programming addressing the needs and interests of minorities for the production of programs.
 
 (ii) All funds available for distribution under clause (i) shall be distributed to entities outside the Corporation and shall not be used for the general administrative costs of the Corporation, the salaries or related expenses of Corporation personnel and members of the Board, or for expenses of consultants and advisers to the Corporation.
 
@@ -208,7 +208,7 @@ The right to repeal, alter, or amend this section at any time is expressly reser
 
 (5) Funds may not be distributed pursuant to this subsection to any public telecommunications entity that does not maintain for public examination copies of the annual financial and audit reports, or other information regarding finances, submitted to the Corporation pursuant to subsection (<i>l</i>)(3)(B) of this section.
 
-(6)(A) The Corporation shall conduct a study and prepare a plan, in consultation with public television licensees (or designated representatives of those licensees) and the Public Broadcasting Service, on how funds available to the Corporation under paragraph (3)(A)(ii)(II) can be best allocated to meet the objectives of this chapter with regard to national public television programming. The plan, which shall be based on the conclusions resulting from the study, shall be submitted by the Corporation to the Congress not later than January 31, 1990. Unless directed otherwise by an Act of Congress, the Corporation shall implement the plan during the first fiscal year beginning after the fiscal year in which the plan is submitted to Congress.
+(6)(A) The Corporation shall conduct a study and prepare a plan, in consultation with public television licensees (or designated representatives of those licensees) and the Public Broadcasting Service, on how funds available to the Corporation under paragraph (3)(A)(ii)(II) can be best allocated to meet the objectives of this chapter with regard to national public television programming. The plan, which shall be based onthe conclusions resulting from the study, shall be submitted by the Corporation to the Congress not later than January 31, 1990. Unless directed otherwise by an Act of Congress, the Corporation shall implement the plan during the first fiscal year beginning after the fiscal year in which the plan is submitted to Congress.
 
 (B) The Corporation shall make a basic grant from the portion reserved for television stations under paragraph (3)(A)(ii)(I) to each licensee and permittee of a public television station that is on the air. The Corporation shall assist radio stations to maintain and improve their service where public radio is the only broadcast service available. The balance of the portion reserved for television stations and the total portion reserved for radio stations under paragraph (3)(A)(iii)(I) shall be distributed to licensees and permittees of such stations in accordance with eligibility criteria (which the Corporation shall review periodically in consultation with public radio and television licensees or permittees, or their designated representatives) that promote the public interest in public broadcasting, and on the basis of a formula designed to—
 
@@ -292,7 +292,7 @@ The right to repeal, alter, or amend this section at any time is expressly reser
 
 (B) A report of each such audit shall be made by the Comptroller General to the Congress. The report to the Congress shall contain such comments and information as the Comptroller General may deem necessary to inform Congress of the financial operations and condition of the Corporation, together with such recommendations with respect thereto as he may deem advisable. The report shall also show specifically any program, expenditure, or other financial transaction or undertaking observed in the course of the audit, which, in the opinion of the Comptroller General, has been carried on or made without authority of law. A copy of each report shall be furnished to the President, to the Secretary, and to the Corporation at the time submitted to the Congress.
 
-(3)(A) Not later than 1 year after November 2, 1978, the Corporation, in consultation with the Comptroller General, and as appropriate with others, shall develop accounting principles which shall be used uniformly by all public telecommunications entities receiving funds under this subpart, taking into account organizationaldifferences among various categories of such entities. Such principles shall be designed to account fully for all funds received and expended for public telecommunications purposes by such entities.
+(3)(A) Not later than 1 year after November 2, 1978, the Corporation, in consultation with the Comptroller General, and as appropriate with others, shall develop accounting principles which shall be used uniformly by all public telecommunications entities receiving funds under this subpart, taking into account organizational differences among various categories of such entities. Such principles shall be designed to account fully for all funds received and expended for public telecommunications purposes by such entities.
 
 (B) Each public telecommunications entity receiving funds under this subpart shall be required—
 
@@ -348,15 +348,15 @@ A prior section 396, act June 19, 1934, ch. 652, title III, §396, as added May 
 
 #### Amendments
 
-2004—Subsec. (<i>l</i>)(2)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
+<b>2004</b>—Subsec. (<i>l</i>)(2)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
 
-2001—Subsec. (k)(1)(D) to (F). Pub. L. 107–20 added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
+<b>2001</b>—Subsec. (k)(1)(D) to (F). Pub. L. 107–20 added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 
-1999—Subsec. (k)(12). Pub. L. 106–113 added par. (12).
+<b>1999</b>—Subsec. (k)(12). Pub. L. 106–113 added par. (12).
 
-1998—Subsec. (k)(9). Pub. L. 105–277 which directed the substitution of “in excess of reasonable compensation as determined pursuant to Section 4958 of title 26 for services that the officer or employee renders to organization” for “at an annual rate of pay which exceeds the rate of basic pay in effect from time to time for level I of the Executive Schedule under 5312 of title 5,”, was executed by making the substitution for text which read “section 5312 of title 5” to reflect the probable intent of Congress.
+<b>1998</b>—Subsec. (k)(9). Pub. L. 105–277 which directed the substitution of “in excess of reasonable compensation as determined pursuant to Section 4958 of title 26 for services that the officer or employee renders to organization” for “at an annual rate of pay which exceeds the rate of basic pay in effect from time to time for level I of the Executive Schedule under 5312 of title 5,”, was executed by making the substitution for text which read “section 5312 of title 5” to reflect the probable intent of Congress.
 
-1992—Subsec. (a)(8) to (10). Pub. L. 102–356, §4, added pars. (8) and (9) and redesignated former par. (8) as (10).
+<b>1992</b>—Subsec. (a)(8) to (10). Pub. L. 102–356, §4, added pars. (8) and (9) and redesignated former par. (8) as (10).
 
 Subsec. (c)(1). Pub. L. 102–356, §5(a)(1), substituted “9” for “10” and “5” for “6”.
 
@@ -382,7 +382,7 @@ Subsec. (k)(6)(B). Pub. L. 102–356, §11, inserted “(which the Corporation s
 
 Subsec. (k)(11). Pub. L. 102–356, §12(a), added par. (11).
 
-Subsec. (<i>l</i>)(3)(B)(ii). Pub. L. 102–356, §13(a), (b)(1), designated existing provisions as subcl. (I), substituted “biennial” for “biannual”, substituted “or” for “and” after semicolon, and added subcl. (II).
+Subsec. (<i>l</i>)(3)(B)(ii). Pub. L. 102–356, §13(a), (b)(1), designated existing provisions as subcl. (I), substituted“biennial” for “biannual”, substituted “or” for “and” after semicolon, and added subcl. (II).
 
 Subsec. (<i>l</i>)(3)(B)(iii). Pub. L. 102–356, §13(b)(2), substituted “biennially” for “biannually”.
 
@@ -390,7 +390,7 @@ Subsec. (<i>l</i>)(4). Pub. L. 102–356, §14(a), added par. (4) and struck out
 
 Subsec. (m)(2). Pub. L. 102–356, §12(b), inserted at end “Such report shall include a summary of the statistical reports received by the Corporation pursuant to subsection (k)(11), and a comparison of the information contained in those reports with the information submitted by the Corporation in the previous year's annual report.”
 
-1988—Subsec. (a)(6) to (8). Pub. L. 100–626, §5, added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
+<b>1988</b>—Subsec. (a)(6) to (8). Pub. L. 100–626, §5, added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
 Subsec. (g)(2)(B)(ii). Pub. L. 100–626, §6, struck out “contract or” after “respect to any”.
 
@@ -442,13 +442,13 @@ Subsec. (k)(10). Pub. L. 100–626, §4(a), added par. (10).
 
 Subsec. (m). Pub. L. 100–626, §9(a), added subsec. (m).
 
-1986—Subsec. (k)(1)(C). Pub. L. 99–272, §5001(c)(1), substituted “1986, 1987, 1988, 1989, and 1990” for “and 1986”, struck out “and” after “fiscal year 1985,”, and inserted “, $200,000,000 for fiscal year 1987, $214,000,000 for fiscal year 1988, $238,000,000 for fiscal year 1989, and $254,000,000 for fiscal year 1990” before period at end.
+<b>1986</b>—Subsec. (k)(1)(C). Pub. L. 99–272, §5001(c)(1), substituted “1986, 1987, 1988, 1989, and 1990” for “and 1986”, struck out “and” after “fiscal year 1985,”, and inserted “, $200,000,000 for fiscal year 1987, $214,000,000 for fiscal year 1988, $238,000,000 for fiscal year 1989, and $254,000,000 for fiscal year 1990” before period at end.
 
 Subsec. (k)(3)(A)(i)(II). Pub. L. 99–272, §5001(c)(2), struck out “research, training, technical assistance, engineering, instructional support, payment of interest on indebtedness,” after “Corporation, including”.
 
 Subsec. (k)(8) to (10). Pub. L. 99–272, §5001(c)(3), redesignated paragraphs (9) and (10) as (8) and (9), respectively. Former subsec. (8), which related to refunding to the Corporation of an amount equal to the amount of unrelated business income tax, was struck out.
 
-1983—Subsec. (c)(1). Pub. L. 98–214, §6(a), struck out “, and the President of the Corporation” after “advice and consent of the Senate” and provision directing that the President of the Corporation serve as the Chairman of the Board.
+<b>1983</b>—Subsec. (c)(1). Pub. L. 98–214, §6(a), struck out “, and the President of the Corporation” after “advice and consent of the Senate” and provision directing that the President of the Corporation serve as the Chairman of the Board.
 
 Subsec. (d)(1). Pub. L. 98–214, §6(b)(1), inserted “elect one of their members to be Chairman and” after “Members of the Board shall annually”.
 
@@ -460,7 +460,7 @@ Subsec. (k)(10). Pub. L. 98–214, §3(b), inserted provision requiring assuranc
 
 Subsec. (<i>l</i>)(4). Pub. L. 98–214, §5, added par. (4).
 
-1981—Subsec. (a)(5). Pub. L. 97–35, §1224, inserted provisions respecting alternative telecommunications services.
+<b>1981</b>—Subsec. (a)(5). Pub. L. 97–35, §1224, inserted provisions respecting alternative telecommunications services.
 
 Subsec. (c). Pub. L. 97–35, §1225(a)(1), amended subsec. (c) generally, substituting provisions respecting appointment, selection, service, etc., of the ten members of the Board of Directors, for provisions respecting appointment, selection, service, etc., of the 15 members of the Board of Directors.
 
@@ -468,7 +468,7 @@ Subsec. (d). Pub. L. 97–35, §1225(b), amended subsec. (d) generally, substitu
 
 Subsec. (e)(1). Pub. L. 97–35, §1225(c), inserted reference to services rendered by a Vice Chairman, and struck out reference to the Chairman.
 
-Subsec. (g). Pub. L. 97–35, §1234(a), struck out par. (5) relating to study and report concerning manner of including personal services of volunteers in determiningnon-Federal financial support, and redesignated par. (6) as (5).
+Subsec. (g). Pub. L. 97–35, §1234(a), struck out par. (5) relating to study and report concerning manner of including personal services of volunteers in determining non-Federal financial support, and redesignated par. (6) as (5).
 
 Subsec. (i)(1). Pub. L. 97–35, §1226, substituted “May” for “February”.
 
@@ -496,7 +496,7 @@ Subsec. (k)(9). Pub. L. 97–35, §1227(g), in subpar. (A) substituted “to ass
 
 Subsec. (<i>l</i>). Pub. L. 97–35, §1228, inserted provisions in par. (1)(A) respecting shared auditing arrangements, and substituted in par. (3)(B)(ii) and (iii) provisions relating to biannual audits and accompanying report, for provisions relating to annual audits and accompanying report.
 
-1978—Subsec. (a). Pub. L. 95–567, §301, substituted “public” for “noncommercial educational” and “telecommunications” for “radio and television” wherever appearing and inserted provisions relating to the growth and development of nonbroadcast telecommunications technologies for the delivery of public telecommunications services.
+<b>1978</b>—Subsec. (a). Pub. L. 95–567, §301, substituted “public” for “noncommercial educational” and “telecommunications” for “radio and television” wherever appearing and inserted provisions relating to thegrowth and development of nonbroadcast telecommunications technologies for the delivery of public telecommunications services.
 
 Subsec. (d)(1). Pub. L. 95–567, §302, struck out provision authorizing the President to designate one of the members first appointed to the Board as Chairman.
 
@@ -512,27 +512,27 @@ Subsec. (k). Pub. L. 95–567, §307(a), completely revised and restructured sub
 
 Subsec. (<i>l</i>)(3). Pub. L. 95–567, §308, completely revised and restructured par. (3) and, in so doing, inserted provisions requiring an annual audit, furnishing a copy of the audit report, and use of uniform accounting principals.
 
-1975—Subsec. (g)(2)(H). Pub. L. 94–192, §3, inserted “and the use of nonbroadcast communications technologies for the dissemination of educational television or radio programs” after “broadcasting”.
+<b>1975</b>—Subsec. (g)(2)(H). Pub. L. 94–192, §3, inserted “and the use of nonbroadcast communications technologies for the dissemination of educational television or radio programs” after “broadcasting”.
 
 Subsec. (i). Pub. L. 94–192, §4, directed that officers and directors be available to testify before Congressional committees concerning the annual fiscal report, audit report, or any other matter.
 
 Subsec. (k)(3) to (7). Pub. L. 94–192, §2, added pars. (3) to (7).
 
-1973—Subsec. (k)(1). Pub. L. 93–84, §1(a), substituted authorization of appropriation of $50,000,000 and $60,000,000 for the fiscal years ending June 30, 1974 and June 30, 1975, respectively, for authorization of appropriation of $40,000,000 for the fiscal year ending June 30, 1973.
+<b>1973</b>—Subsec. (k)(1). Pub. L. 93–84, §1(a), substituted authorization of appropriation of $50,000,000 and $60,000,000 for the fiscal years ending June 30, 1974 and June 30, 1975, respectively, for authorization of appropriation of $40,000,000 for the fiscal year ending June 30, 1973.
 
 Subsec. (k)(2). Pub. L. 93–84, §1(b), substituted “1975” for “1973”.
 
-1972—Subsec. (k)(1). Pub. L. 92–411 struck out authorization of appropriation for fiscal years ending June 30, 1969, June 30, 1970, and the two succeeding fiscal years and provided for an appropriation of $40,000 for fiscal year ending June 30, 1973.
+<b>1972</b>—Subsec. (k)(1). Pub. L. 92–411 struck out authorization of appropriation for fiscal years ending June 30, 1969, June 30, 1970, and the two succeeding fiscal years and provided for an appropriation of $40,000 for fiscal year ending June 30, 1973.
 
 Subsec. (k)(2). Pub. L. 92–411 substituted “June 30, 1973” for “June 30, 1972”.
 
-1970—Subsec. (k). Pub. L. 91–437 authorized appropriations of $20,000,000 for the fiscal year ending June 30, 1970, and $30,000,000 for each of the two succeeding fiscal years, and further authorized appropriation of amounts equal to the amount of total grants, donations, bequests, or other contributions from non-Federal sources received by the Corporation during each fiscal year with a maximum limit of $5,000,000 for any fiscal year.
+<b>1970</b>—Subsec. (k). Pub. L. 91–437 authorized appropriations of $20,000,000 for the fiscal year ending June 30, 1970, and $30,000,000 for each of the two succeeding fiscal years, and further authorized appropriation of amounts equal to the amount of total grants, donations, bequests, or other contributions from non-Federal sources received by the Corporation during each fiscal year with a maximum limit of $5,000,000 for any fiscal year.
 
-1969—Subsec. (k)(1). Pub. L. 91–97, §3(a), inserted “and for the next fiscal year the sum of $20,000,000” after “the sum of $9,000,000”.
+<b>1969</b>—Subsec. (k)(1). Pub. L. 91–97, §3(a), inserted “and for the next fiscal year the sum of $20,000,000” after “the sum of $9,000,000”.
 
 Subsec. (k)(2). Pub. L. 91–97, §3(b), inserted “or the next fiscal year” after “the fiscal year ending June 30, 1969,”.
 
-1968—Subsec. (k). Pub. L. 90–294 substituted “1969” for “1968”.
+<b>1968</b>—Subsec. (k). Pub. L. 90–294 substituted “1969” for “1968”.
 
 #### Effective Date of 1999 Amendment
 
@@ -580,7 +580,7 @@ Section 5(c) of Pub. L. 102–356 provided that:
 
 #### Objectivity and Balance Policy, Procedures, and Report
 
-Section 19 of Pub. L. 102–356 provided that: “Pursuant to the existing responsibility of the Corporation for Public Broadcasting under section 396(g)(1)(A) of the Communications Act of 1934 (47 U.S.C. 396(g)(1)(A)) to facilitate the full development of public telecommunications in which programs of high quality, diversity, creativity, excellence, and innovation, which are obtained from diverse sources, will be made available to public telecommunications entities, with strict adherence to objectivity and balance in all programs or series of programs of a controversial nature, the Board of Directors of the Corporation shall—
+Section 19 of Pub. L. 102–356 provided that: “Pursuant to the existing responsibility of the Corporation forPublic Broadcasting under section 396(g)(1)(A) of the Communications Act of 1934 (47 U.S.C. 396(g)(1)(A)) to facilitate the full development of public telecommunications in which programs of high quality, diversity, creativity, excellence, and innovation, which are obtained from diverse sources, will be made available to public telecommunications entities, with strict adherence to objectivity and balance in all programs or series of programs of a controversial nature, the Board of Directors of the Corporation shall—
 
 &emsp;“(1) review the Corporation's existing efforts to meet its responsibility under section 396(g)(1)(A);
 
@@ -590,7 +590,7 @@ Section 19 of Pub. L. 102–356 provided that: “Pursuant to the existing respo
 
 &emsp;&emsp;“(B) review, on a regular basis, national public broadcasting programming for quality, diversity, creativity, excellence, innovation, objectivity, and balance, as well as for any needs not met by such programming;
 
-&emsp;&emsp;“(C) on the basis of information received through such comment and review, take such steps inawarding programming grants pursuant to clauses (ii)(II), (iii)(II), and (iii)(III) of section 396(k)(3)(A) of the Communications Act of 1934 (47 U.S.C. 396(k)(3)(A)) that it finds necessary to meet the Corporation's responsibility under section 396(g)(1)(A), including facilitating objectivity and balance in programming of a controversial nature; and
+&emsp;&emsp;“(C) on the basis of information received through such comment and review, take such steps in awarding programming grants pursuant to clauses (ii)(II), (iii)(II), and (iii)(III) of section 396(k)(3)(A) of the Communications Act of 1934 (47 U.S.C. 396(k)(3)(A)) that it finds necessary to meet the Corporation's responsibility under section 396(g)(1)(A), including facilitating objectivity and balance in programming of a controversial nature; and
 
 &emsp;&emsp;“(D) disseminate among public broadcasting entities information about its efforts to address concerns about objectivity and balance relating to programming of a controversial nature so that such entities can utilize the Corporation's experience in addressing such concerns within their own operations; and
 
@@ -625,4 +625,12 @@ Sections 1232 and 1233 of Pub. L. 97–35 established a Temporary Commission on 
 Section 303(b) of Pub. L. 95–567 provided that: “The amendment made by subsection (a) \[amending this section\] shall not be construed to reduce the annual rate of pay of any officer or employee of the Corporation for Public Broadcasting in any case in which (1) such officer or employee was appointed or named to any position in the Corporation before the date of the enactment of this Act \[Nov. 2, 1978\]; and (2) the annual rate of pay for such position, as in effect on such date of enactment, exceeds the maximum rate of pay established in section 396(e)(1) of the Communications Act of 1934 \[subsec. (e)(1) of this section\], as amended by subsection (a).”
 
 Section 307(b) of Pub. L. 95–567 provided that: “Section 396(k)(10) of the Communications Act of 1934 \[subsec. (k)(10) of this section\], as added by subsection (a), shall not be construed to reduce the annual rate of pay of any officer or employee of the Public Broadcasting Service or National Public Radio (or any successor organization) in any case in which (1) such officer or employee was appointed or named to any position in the Public Broadcasting Service or National Public Radio (or any successor organization) before the date of the enactment of this Act \[Nov. 2, 1978\]; and (2) the annual rate of pay for such position, as in effect on such date of enactment, exceeds the maximum rate of pay established in section 396(k)(10) of the Communications Act of 1934 \[subsec. (k)(10) of this section\], as added by subsection (a).”
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “is”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should not be capitalized.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be “the organization,”.</i>
 

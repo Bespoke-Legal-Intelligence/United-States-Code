@@ -42,7 +42,7 @@ A prior section 3315 was renumbered section 3316 of this title.
 
 #### Amendments
 
-2007—Pub. L. 110–140 renumbered section 3314 of this title as this section.
+<b>2007</b>—Pub. L. 110–140 renumbered section 3314 of this title as this section.
 
 #### Effective Date of 2007 Amendment
 

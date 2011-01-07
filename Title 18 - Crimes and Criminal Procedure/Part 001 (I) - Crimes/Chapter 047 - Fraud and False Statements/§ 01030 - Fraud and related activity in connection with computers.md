@@ -88,7 +88,7 @@
 
 &emsp;(C) except as provided in subparagraphs (E) and (F), a fine under this title, imprisonment for not more than 20 years, or both, in the case of—
 
-&emsp;&emsp;(i) an offense or an attempt to commit an offense under subparagraphs (A) or (B) of subsection (a)(5) that occurs after a conviction for another offense under this section; or
+&emsp;&emsp;(i) an offense or an attempt to commit an offense under subparagraphs (A) or (B) ofsubsection (a)(5) that occurs after a conviction for another offense under this section; or
 
 &emsp;&emsp;(ii) an attempt to commit an offense punishable under this subparagraph;
 
@@ -110,7 +110,7 @@
 
 (d)(1) The United States Secret Service shall, in addition to any other agency having such authority, have the authority to investigate offenses under this section.
 
-(2) The Federal Bureau of Investigation shall have primary authority to investigate offensesunder subsection (a)(1) for any cases involving espionage, foreign counterintelligence, information protected against unauthorized disclosure for reasons of national defense or foreign relations, or Restricted Data (as that term is defined in section 11y of the Atomic Energy Act of 1954 (42 U.S.C. 2014(y)), except for offenses affecting the duties of the United States Secret Service pursuant to section 3056(a) of this title.
+(2) The Federal Bureau of Investigation shall have primary authority to investigate offenses under subsection (a)(1) for any cases involving espionage, foreign counterintelligence, information protected against unauthorized disclosure for reasons of national defense or foreign relations, or Restricted Data (as that term is defined in section 11y of the Atomic Energy Act of 1954 (42 U.S.C. 2014(y)), except for offenses affecting the duties of the United States Secret Service pursuant to section 3056(a) of this title.
 
 (3) Such authority shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury and the Attorney General.
 
@@ -158,7 +158,7 @@
 
 &emsp;(10) the term “conviction” shall include a conviction under the law of any State for a crime punishable by imprisonment for more than 1 year, an element of which is unauthorized access, or exceeding authorized access, to a computer;
 
-&emsp;(11) the term “loss” means any reasonable cost to any victim, including the cost of responding to an offense, conducting a damage assessment, and restoring the data, program, system, or information to its condition prior to the offense, and any revenue lost, cost incurred, or other consequential damages incurred because of interruption of service; and
+&emsp;(11) the term “loss” means any reasonable cost to any victim, including the cost of responding to an offense, conducting a damageassessment, and restoring the data, program, system, or information to its condition prior to the offense, and any revenue lost, cost incurred, or other consequential damages incurred because of interruption of service; and
 
 &emsp;(12) the term “person” means any individual, firm, corporation, educational institution, financial institution, governmental entity, or legal or other entity.
 
@@ -166,7 +166,7 @@
 
 (g) Any person who suffers damage or loss by reason of a violation of this section may maintain a civil action against the violator to obtain compensatory damages and injunctive relief or other equitable relief. A civil action for a violation of this section may be brought only if the conduct involves 1 of the factors set forth in subclauses <sup>5</sup> (I), (II), (III), (IV), or (V) of subsection (c)(4)(A)(i). Damages for a violation involving only conduct described in subsection (c)(4)(A)(i)(I) are limited to economic damages. No action may be brought under this subsection unless such action is begun within 2 years of the date of the act complained of or the date of the discovery of the damage. No action may be brought under this subsection for the negligent design or manufacture of computer hardware, computer software, or firmware.
 
-(h) The Attorney General and the Secretary of the Treasury shall report to the Congress annually, during the first 3 years following the dateof the enactment of this subsection, concerning investigations and prosecutions under subsection (a)(5).
+(h) The Attorney General and the Secretary of the Treasury shall report to the Congress annually, during the first 3 years following the date of the enactment of this subsection, concerning investigations and prosecutions under subsection (a)(5).
 
 (i)(1) The court, in imposing sentence on any person convicted of a violation of this section, or convicted of conspiracy to violate this section, shall order, in addition to any other sentence imposed and irrespective of any provision of State law, that such person forfeit to the United States—
 
@@ -202,13 +202,13 @@ The date of the enactment of this subsection, referred to in subsec. (h), is the
 
 #### Amendments
 
-2008—Subsec. (a)(2)(C). Pub. L. 110–326, §203, struck out “if the conduct involved an interstate or foreign communication” after “computer”.
+<b>2008</b>—Subsec. (a)(2)(C). Pub. L. 110–326, §203, struck out “if the conduct involved an interstate or foreign communication” after “computer”.
 
 Subsec. (a)(5). Pub. L. 110–326, §204(a)(1), redesignated cls. (i) to (iii) of subpar. (A) as subpars. (A) to (C), respectively, substituted “damage and loss.” for “damage; and” in subpar. (C), and struck out former subpar. (B) which read as follows:
 
 “(B) by conduct described in clause (i), (ii), or (iii) of subparagraph (A), caused (or, in the case of an attempted offense, would, if completed, have caused)—
 
-&emsp;“(i) loss to 1 or more persons during any 1-year period (and, for purposes of an investigation, prosecution, or other proceeding brought by the United States only, loss resulting from a related course of conduct affecting 1 or more other protected computers) aggregating at least $5,000 in value;
+&emsp;“(i) loss to 1 or more persons during any 1-year period (and, for purposes of an investigation, prosecution, or other proceeding brought by the UnitedStates only, loss resulting from a related course of conduct affecting 1 or more other protected computers) aggregating at least $5,000 in value;
 
 &emsp;“(ii) the modification or impairment, or potential modification or impairment, of the medical examination, diagnosis, treatment, or care of 1 or more individuals;
 
@@ -234,11 +234,11 @@ Subsec. (e)(2)(B). Pub. L. 110–326, §207, inserted “or affecting” after �
 
 Subsec. (g). Pub. L. 110–326, §204(a)(3)(B), in the third sentence, substituted “subsection (c)(4)(A)(i)(I)” for “subsection (a)(5)(B)(i)”.
 
-Pub. L. 110–326, §204(a)(3)(A), which directed substitution of “in subclauses (I), (II), (III), (IV), or (V) of subsection (c)(4)(A)(i)” for “in clauses (i), (ii), (iii), (iv),or (v) of subsection (a)(5)(B)” in the second sentence, was executed by making the substitution for “in clause (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B)” to reflect the probable intent of Congress.
+Pub. L. 110–326, §204(a)(3)(A), which directed substitution of “in subclauses (I), (II), (III), (IV), or (V) of subsection (c)(4)(A)(i)” for “in clauses (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B)” in the second sentence, was executed by making the substitution for “in clause (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B)” to reflect the probable intent of Congress.
 
 Subsecs. (i), (j). Pub. L. 110–326, §208, added subsecs. (i) and (j).
 
-2002—Subsec. (a)(5)(B). Pub. L. 107–273, §4005(a)(3), realigned margins.
+<b>2002</b>—Subsec. (a)(5)(B). Pub. L. 107–273, §4005(a)(3), realigned margins.
 
 Subsec. (c)(2)(B). Pub. L. 107–273, §4002(b)(1), realigned margins.
 
@@ -252,7 +252,7 @@ Subsec. (c)(5). Pub. L. 107–296, §225(g)(1), (3), (4), added par. (5).
 
 Subsec. (e)(4)(I). Pub. L. 107–273, §4002(b)(12)(B), substituted semicolon for period at end.
 
-2001—Subsec. (a)(5)(A). Pub. L. 107–56, §814(a)(1)–(3), designated existing provisions as cl. (i), redesignated subpars. (B) and (C) as cls. (ii) and (iii), respectively, of subpar. (A), and inserted “and” at end of cl. (iii).
+<b>2001</b>—Subsec. (a)(5)(A). Pub. L. 107–56, §814(a)(1)–(3), designated existing provisions as cl. (i), redesignated subpars. (B) and (C) as cls. (ii) and (iii), respectively, of subpar. (A), and inserted “and” at end of cl. (iii).
 
 Subsec. (a)(5)(B). Pub. L. 107–56, §814(a)(4), added subpar. (B). Former subpar. (B) redesignated cl. (ii) of subpar. (A).
 
@@ -290,13 +290,13 @@ Subsec. (e)(10) to (12). Pub. L. 107–56, §814(d)(4), (5), added pars. (10) to
 
 Subsec. (g). Pub. L. 107–56, §814(e), substituted “A civil action for a violation of this section may be brought only if the conduct involves 1 of the factors set forth in clause (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B). Damages for a violation involving only conduct described in subsection (a)(5)(B)(i) are limited to economic damages.” for “Damages for violations involving damage as defined in subsection (e)(8)(A) are limited to economic damages.” and inserted at end “No action may be brought under this subsection for the negligent design or manufacture of computer hardware, computer software, or firmware.”
 
-1996—Subsec. (a)(1). Pub. L. 104–294, §201(1)(A), substituted “having knowingly accessed” for “knowingly accesses”, “exceeding authorized access” for “exceeds authorized access”, “such conduct having obtained information” for “such conduct obtains information”, and “could be used to the injury of the United States” for “is to be used to the injury of the United States”, struck out “the intent or” before “reason to believe”, and inserted before semicolon at end “willfully communicates, delivers, transmits, or causes to be communicated, delivered, or transmitted, or attempts to communicate, deliver, transmit or cause to be communicated, delivered, or transmitted the same to any person not entitled to receive it, or willfully retains the same and fails to deliver it to the officer or employee of the United States entitled to receive it”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–294, §201(1)(A), substituted “having knowingly accessed” for “knowingly accesses”, “exceeding authorized access” for “exceeds authorized access”, “such conduct having obtained information” for “such conduct obtains information”, and “could be used to the injury of the United States” for “is to be used to the injury of the United States”, struck out “the intent or” before “reason to believe”, and inserted before semicolon at end “willfully communicates, delivers, transmits, or causes to be communicated, delivered, or transmitted, or attempts to communicate, deliver, transmit or cause to be communicated, delivered, or transmitted the same to any person not entitled to receive it, or willfully retains the same and fails to deliver it to the officer or employee of the United States entitled to receive it”.
 
 Subsec. (a)(2). Pub. L. 104–294, §201(1)(B), inserted dash after “thereby obtains”, redesignated remainder of par. (2) as subpar. (A), and added subpars. (B) and (C).
 
 Subsec. (a)(3). Pub. L. 104–294, §201(1)(C), inserted “nonpublic” before “computer of a department or agency”, struck out “adversely” after “and such conduct”, and substituted “that use by or for the Government of the United States” for “the use of the Government's operation of such computer”.
 
-Subsec. (a)(4). Pub. L. 104–294, §201(1)(D), substituted “protected computer” for “Federal interest computer” and inserted “and the value of such use is not more than $5,000 in any 1-year period” before semicolon at end.
+Subsec. (a)(4). Pub. L. 104–294, §201(1)(D), substituted “protected computer” for “Federal interest computer”and inserted “and the value of such use is not more than $5,000 in any 1-year period” before semicolon at end.
 
 Subsec. (a)(5). Pub. L. 104–294, §201(1)(E), inserted par. (5) and struck out former par. (5) which related to fraud in connection with computers in causing transmission of program, information, code, or command to a computer or computer system in interstate or foreign commerce which damages such system, program, information, or code, or causes a withholding or denial of use of hardware or software, or transmits viruses which causes damage in excess of $1,000 or more during any one-year period, or modifies or impairs medical examination, diagnosis, treatment or care of individuals.
 
@@ -318,7 +318,7 @@ Pub. L. 104–294, §201(2)(B)(ii), redesignated subpar. (B) as (C).
 
 Subsec. (c)(3)(A). Pub. L. 104–294, §201(2)(C)(i), substituted “(a)(4), (a)(5)(A), (a)(5)(B), or (a)(7)” for “(a)(4) or (a)(5)(A)” and “under this section” for “under such subsection”.
 
-Subsec. (c)(3)(B). Pub. L. 104–294, §201(2)(C)(ii), substituted “(a)(4), (a)(5)(A), (a)(5)(B), (a)(5)(C), or (a)(7)”for “(a)(4) or (a)(5)” and “under this section” for “under such subsection”.
+Subsec. (c)(3)(B). Pub. L. 104–294, §201(2)(C)(ii), substituted “(a)(4), (a)(5)(A), (a)(5)(B), (a)(5)(C), or (a)(7)” for “(a)(4) or (a)(5)” and “under this section” for “under such subsection”.
 
 Subsec. (c)(4). Pub. L. 104–294, §201(2)(D), struck out par. (4) which read as follows: “a fine under this title or imprisonment for not more than 1 year, or both, in the case of an offense under subsection (a)(5)(B).”
 
@@ -338,7 +338,7 @@ Pub. L. 104–294, §201(5), struck out “, other than a violation of subsecti
 
 Subsec. (h). Pub. L. 104–294, §604(b)(36)(D), substituted “subsection (a)(5)” for “section 1030(a)(5) of title 18, United States Code” before period at end.
 
-1994—Subsec. (a)(3). Pub. L. 103–322, §290001(f), inserted “adversely” before “affects the use of the Government's”.
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–322, §290001(f), inserted “adversely” before “affects the use of the Government's”.
 
 Subsec. (a)(5). Pub. L. 103–322, §290001(b), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “intentionally accesses a Federal interest computer without authorization, and by means of one or more instances of such conduct alters, damages, or destroys information in any such Federal interest computer, or prevents authorized use of any such computer or information, and thereby—
 
@@ -354,7 +354,7 @@ Subsec. (g). Pub. L. 103–322, §290001(d), added subsec. (g).
 
 Subsec. (h). Pub. L. 103–322, §290001(e), added subsec. (h).
 
-1990—Subsec. (a)(1). Pub. L. 101–647, §3533, substituted “paragraph y” for “paragraph r”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–647, §3533, substituted “paragraph y” for “paragraph r”.
 
 Subsec. (e)(3). Pub. L. 101–647, §1205(e), inserted “commonwealth,” before “possession or territory of the United States”.
 
@@ -362,13 +362,13 @@ Subsec. (e)(4)(G). Pub. L. 101–647, §2597(j)(2), which directed substitution 
 
 Subsec. (e)(4)(H), (I). Pub. L. 101–647, §2597(j), added subpars. (H) and (I).
 
-1989—Subsec. (e)(4)(A). Pub. L. 101–73, §962(a)(5)(A), substituted “an institution,” for “a bank”.
+<b>1989</b>—Subsec. (e)(4)(A). Pub. L. 101–73, §962(a)(5)(A), substituted “an institution,” for “a bank”.
 
 Subsec. (e)(4)(C) to (H). Pub. L. 101–73, §962(a)(5)(B), (C), redesignated subpars. (D) to (H) as (C) to (G), respectively, and struck out former subpar. (C) which read as follows: “an institution with accounts insured by the Federal Savings and Loan Insurance Corporation;”.
 
-1988—Subsec. (a)(2). Pub. L. 100–690 inserted a comma after “financial institution” and struck out the comma that followed a comma after “title 15”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–690 inserted a comma after “financial institution” and struck out the comma that followed a comma after “title 15”.
 
-1986—Subsec. (a). Pub. L. 99–474, §2(b)(2), struck out last sentence which read as follows: “It is not an offense under paragraph (2) or (3) of this subsection in the case of a person having accessed a computer with authorization and using the opportunity such access provides for purposes to which such access does not extend, if the using of such opportunity consists only of the use of the computer.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–474, §2(b)(2), struck out last sentence which read as follows: “It is not an offense under paragraph (2) or (3) of this subsection in the case of a person having accessed a computer with authorization and using the opportunity such access provides for purposes to which such access does not extend, if the using of such opportunity consists only of the use of the computer.”
 
 Subsec. (a)(1). Pub. L. 99–474, §2(c), substituted “or exceeds authorized access” for “, or having accessed a computer with authorization, uses the opportunity such access provides for purposes to which such authorization does not extend”.
 

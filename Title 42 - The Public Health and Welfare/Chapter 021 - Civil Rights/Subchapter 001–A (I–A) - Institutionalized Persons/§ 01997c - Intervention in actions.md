@@ -28,13 +28,13 @@ The Attorney General shall personally sign any motion to intervene made pursuant
 
 #### (d) Discretionary award of attorney fees; other award provisions unaffected
 
-In any action in which the United States joins as an intervenor under this section, the court may allow the prevailing party, other than the United States, a reasonable attorney's fee against the United States as part of the costs. Nothing in this subsection precludes the award of attorney's fees available under any other provisions of the United States Code.
+In any action in which the United States joins as an intervenor under this section, the courtmay allow the prevailing party, other than the United States, a reasonable attorney's fee against the United States as part of the costs. Nothing in this subsection precludes the award of attorney's fees available under any other provisions of the United States Code.
 
 (Pub. L. 96–247, §5, May 23, 1980, 94 Stat. 351; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §803(c)\], Apr. 26, 1996, 110 Stat. 1321, 1321–71; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### Amendments
 
-1996—Subsec. (b)(1)(A). Pub. L. 104–134, §101\[(a)\] \[title VIII, §803(c)(1)(A)\], substituted “the Attorney General” for “he” in introductory provisions and in cl. (iii).
+<b>1996</b>—Subsec. (b)(1)(A). Pub. L. 104–134, §101\[(a)\] \[title VIII, §803(c)(1)(A)\], substituted “the Attorney General” for “he” in introductory provisions and in cl. (iii).
 
 Subsec. (b)(1)(B). Pub. L. 104–134, §101\[(a)\] \[title VIII, §803(c)(1)(A)\], substituted “the Attorney General” for “he”.
 

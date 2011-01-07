@@ -168,13 +168,13 @@ For purposes of this subtitle (other than this part), any amount shall not fail 
 
 #### Amendments
 
-2004—Subsec. (a)(2) to (4). Pub. L. 108–357 redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which related to limitation on alternative minimum tax foreign tax credit and carryback and carryforward of excess.
+<b>2004</b>—Subsec. (a)(2) to (4). Pub. L. 108–357 redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which related to limitation on alternative minimum tax foreign tax credit and carryback and carryforward of excess.
 
-1998—Subsec. (a)(3), (4). Pub. L. 105–206, §6011(a), redesignated par. (3), relating to election to use simplified section 904 limitation, as (4).
+<b>1998</b>—Subsec. (a)(3), (4). Pub. L. 105–206, §6011(a), redesignated par. (3), relating to election to use simplified section 904 limitation, as (4).
 
 Subsec. (b). Pub. L. 105–206, §6023(2), substituted “credits under section 30A or 936” for “section 936 credit” in heading.
 
-1997—Subsec. (a)(2)(C). Pub. L. 105–34, §1057(a), struck out subpar. (C) which read as follows:
+<b>1997</b>—Subsec. (a)(2)(C). Pub. L. 105–34, §1057(a), struck out subpar. (C) which read as follows:
 
 “(C)
 
@@ -192,7 +192,7 @@ Subsec. (a)(3). Pub. L. 105–34, §1103(a), added par. (3) relating to election
 
 Subsec. (j). Pub. L. 105–34, §1201(b)(1), amended subsec. (j) generally, restating limitation on exemption amount, adding provisions for inflation adjustment of such amount, and deleting provisions relating to limitation based on parental minimum tax and unused parental minimum tax exemption.
 
-1996—Subsec. (a)(1)(A). Pub. L. 104–188, §1703(e)(1), substituted “the pre-credit tentative minimum tax” for “the amount determined under section 55(b)(1)(A)”.
+<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–188, §1703(e)(1), substituted “the pre-credit tentative minimum tax” for “the amount determined under section 55(b)(1)(A)”.
 
 Subsec. (a)(1)(C). Pub. L. 104–188, §1703(e)(2), substituted “specified in subparagraph (A)(i) or (B)(i) of section 55(b)(1) (whichever applies)” for “specified in section 55(b)(1)(A)”.
 
@@ -208,9 +208,9 @@ Subsec. (j)(1)(B). Pub. L. 104–188, §1704(m)(3), substituted “twice the amo
 
 Subsec. (j)(3)(B). Pub. L. 104–188, §1702(a)(1), substituted “section 1(g)(3)(B)” for “section 1(i)(3)(B)”.
 
-1992—Subsec. (a)(2)(A)(ii). Pub. L. 102–486 substituted “and section 57(a)(2)(E)” for “and the alternative tax energy preference deduction under section 56(h)”.
+<b>1992</b>—Subsec. (a)(2)(A)(ii). Pub. L. 102–486 substituted “and section 57(a)(2)(E)” for “and the alternative tax energy preference deduction under section 56(h)”.
 
-1990—Subsec. (a)(1)(B) to (D). Pub. L. 101–508, §11801(c)(2)(D), inserted “and” at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: “for purposes of section 904, any increase in alternative minimum taxable income by reason of section 56(c)(1)(A) (relating to adjustment for book income) shall have the same proportionate source (and character) as alternative minimum taxable income determined without regard to such increase, and”.
+<b>1990</b>—Subsec. (a)(1)(B) to (D). Pub. L. 101–508, §11801(c)(2)(D), inserted “and” at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: “for purposes of section 904, any increase in alternative minimum taxable income by reason of section 56(c)(1)(A) (relating to adjustment for book income) shall have the same proportionate source (and character) as alternative minimum taxable income determined without regard to such increase, and”.
 
 Subsec. (a)(2)(A)(ii). Pub. L. 101–508, §11531(b)(2), inserted before period at end “and the alternative tax energy preference deduction under section 56(h)”.
 
@@ -224,7 +224,7 @@ Subsec. (j)(2)(D). Pub. L. 101–508, §11702(d)(3), substituted “paragraphs (
 
 Subsec. (j)(3). Pub. L. 101–508, §11702(d)(2), added par. (3).
 
-1989—Subsec. (a)(2)(C). Pub. L. 101–239, §7612(e)(1), added subpar. (C).
+<b>1989</b>—Subsec. (a)(2)(C). Pub. L. 101–239, §7612(e)(1), added subpar. (C).
 
 Subsec. (e)(1). Pub. L. 101–239, §7611(f)(5)(B), inserted before period at end “(or, in the case of a qualified expenditure described in paragraph (2)(C), over the 60-month period beginning with the month in which such expenditure was paid or incurred)”.
 
@@ -234,7 +234,7 @@ Subsec. (i). Pub. L. 101–239, §7611(f)(6), substituted “amounts” for “i
 
 Subsec. (j)(2)(D). Pub. L. 101–239, §7811(j)(7), substituted “Other rules” for “Others rules” in heading.
 
-1988—Subsec. (a)(1)(D). Pub. L. 100–647, §1007(e)(3), added subpar. (D).
+<b>1988</b>—Subsec. (a)(1)(D). Pub. L. 100–647, §1007(e)(3), added subpar. (D).
 
 Subsec. (e)(2). Pub. L. 100–647, §1007(e)(1), inserted “(determined without regard to section 291)” after “as a deduction”.
 
@@ -318,7 +318,7 @@ Section applicable to taxable years beginning after Dec. 31, 1986, with certain 
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11801 of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990,see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by section 11801 of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Consideration of Certain Taxes Treated as Paid or Accrued Under Section 904(c) in Determination of Alternative Minimum Tax Foreign Tax Credit
 

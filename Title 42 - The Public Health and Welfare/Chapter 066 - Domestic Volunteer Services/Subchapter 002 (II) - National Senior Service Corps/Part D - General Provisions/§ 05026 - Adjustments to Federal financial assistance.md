@@ -10,9 +10,9 @@
 
 #### Amendments
 
-1995—Pub. L. 104–66 in subsec. (a), redesignated par. (1)(A) as (1), redesignated par. (1)(B) as (2) and substituted “paragraph (1)” for “subparagraph (A)” after “referred to in”, redesignated former par. (2) as subsec. (b), and struck out former subsec. (b) which read as follows: “The Director shall submit, once every 2 years, to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate, a report on the extent to which adjustments are made under subsection (a) of this section.”
+<b>1995</b>—Pub. L. 104–66 in subsec. (a), redesignated par. (1)(A) as (1), redesignated par. (1)(B) as (2) and substituted “paragraph (1)” for “subparagraph (A)” after “referred to in”, redesignated former par. (2) as subsec. (b), and struck out former subsec. (b) which read as follows: “The Director shall submit, once every 2 years, to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate, a report on the extent to which adjustments are made under subsection (a) of this section.”
 
-1993—Subsec. (b). Pub. L. 103–82 struck out par. (1) designation before “The Director shall”, substituted “, once every 2 years” for “annually”, and struck out par. (2) which read as follows: “With respect to each of parts A, B, and C of this subchapter, the Director shall include in such report—
+<b>1993</b>—Subsec. (b). Pub. L. 103–82 struck out par. (1) designation before “The Director shall”, substituted “, once every 2 years” for “annually”, and struck out par. (2) which read as follows: “With respect to each of parts A, B, and C of this subchapter, the Director shall include in such report—
 
 &emsp;“(A) a summary of the number of, and purposes for which, such adjustments are requested by the recipients of grants and contracts under parts A, B, and C of this subchapter, respectively;
 

@@ -6,7 +6,7 @@ In connection with the national defense program, the Departments of the Navy, Ar
 
 #### Amendments
 
-1942—Act Oct. 26, 1942, substituted “and officers of the Army and Marine Corps not above the grade of captain, and officers of the Navy and Coast Guard, not above the grade of lieutenant” for “(excluding officers)”.
+<b>1942</b>—Act Oct. 26, 1942, substituted “and officers of the Army and Marine Corps not above the grade of captain, and officers of the Navy and Coast Guard, not above the grade of lieutenant” for “(excluding officers)”.
 
 #### Change of Name
 

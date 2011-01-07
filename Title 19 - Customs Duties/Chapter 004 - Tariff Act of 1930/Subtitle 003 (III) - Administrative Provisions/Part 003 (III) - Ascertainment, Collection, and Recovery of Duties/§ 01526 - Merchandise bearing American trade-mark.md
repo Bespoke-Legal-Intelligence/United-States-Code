@@ -24,7 +24,7 @@ Any person dealing in any such merchandise may be enjoined from dealing therein 
 
 #### (e) Merchandise bearing counterfeit mark; seizure and forfeiture; disposition of seized goods
 
-Any such merchandise bearing a counterfeit mark (within the meaning of section 1127 of title 15) imported into the United States in violation of the provisions of section 1124 of title 15, shall be seized and, in the absence of the written consent of the trademark owner, forfeited for violations of the customs laws. Upon seizure of such merchandise, the Secretary shall notify the owner of the trademark, and shall, after forfeiture, destroy the merchandise. Alternatively, if the merchandise is not unsafe or a hazard to health, and the Secretary has the consent of the trademark owner, the Secretary may obliterate the trademark where feasible and dispose of the goods seized—
+Any such merchandise bearing a counterfeit mark (within the meaning of section 1127 of title15) imported into the United States in violation of the provisions of section 1124 of title 15, shall be seized and, in the absence of the written consent of the trademark owner, forfeited for violations of the customs laws. Upon seizure of such merchandise, the Secretary shall notify the owner of the trademark, and shall, after forfeiture, destroy the merchandise. Alternatively, if the merchandise is not unsafe or a hazard to health, and the Secretary has the consent of the trademark owner, the Secretary may obliterate the trademark where feasible and dispose of the goods seized—
 
 &emsp;(1) by delivery to such Federal, State, and local government agencies as in the opinion of the Secretary have a need for such merchandise,
 
@@ -50,21 +50,19 @@ Sections 81 to 109 of title 15, referred to in subsecs. (a) and (c), were repeal
 
 Section 106 of title 15, referred to in subsec. (a), was repealed by act July 15, 1946, ch. 540, §46(a), 60 Stat. 444. See section 1124 of Title 15.
 
-The customs laws, referred to in subsec. (b), are classified generally to this title.
-
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §526, 42 Stat. 975. That section was superseded by section 526 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 
-1996—Subsec. (e). Pub. L. 104–153, §9, inserted “destroy the merchandise. Alternatively, if the merchandise is not unsafe or a hazard to health, and the Secretary has the consent of the trademark owner, the Secretary may” after “shall, after forfeiture,” in second sentence, inserted “or” at end of par. (2), substituted period for “, or” at end of par. (3), and struck out par. (4) which read as follows: “if the merchandise is unsafe or a hazard to health, by destruction.”
+<b>1996</b>—Subsec. (e). Pub. L. 104–153, §9, inserted “destroy the merchandise. Alternatively, if the merchandise is not unsafe or a hazard to health, and the Secretary has the consent of the trademark owner, the Secretary may” after “shall, after forfeiture,” in second sentence, inserted “or” at end of par. (2), substituted period for “, or” at end of par. (3), and struck out par. (4) which read as follows: “if the merchandise is unsafe or a hazard to health, by destruction.”
 
 Subsec. (f). Pub. L. 104–153, §10, added subsec. (f).
 
-1993—Subsec. (e)(3). Pub. L. 103–182 substituted “90 days” for “1 year” and “the Customs Service” for “appropriate customs officers”.
+<b>1993</b>—Subsec. (e)(3). Pub. L. 103–182 substituted “90 days” for “1 year” and “the Customs Service” for “appropriate customs officers”.
 
-1978—Subsec. (a). Pub. L. 95–410, §211(a)(1), substituted “Except as provided in subsection (d) of this section, it” for “It”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–410, §211(a)(1), substituted “Except as provided in subsection (d) of this section, it” for “It”.
 
 Subsec. (d). Pub. L. 95–410, §211(a)(2), added subsec. (d).
 
@@ -76,5 +74,5 @@ Subsec. (e). Pub. L. 95–410, §211(c), added subsec. (e).
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
 

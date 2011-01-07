@@ -34,7 +34,7 @@ In this section, the term “medically necessary leave of absence” means, with
 
 #### (c) Notice
 
-A group health plan shall include, with any notice regarding a requirement for certificationof student status for coverage under the plan, a description of the terms of this section for continued coverage during medically necessary leaves of absence. Such description shall be in language which is understandable to the typical plan participant.
+A group health plan shall include, with any notice regarding a requirement for certification of student status for coverage under the plan, a description of the terms of this section for continued coverage during medically necessary leaves of absence. Such description shall be in language which is understandable to the typical plan participant.
 
 #### (d) No change in benefits
 

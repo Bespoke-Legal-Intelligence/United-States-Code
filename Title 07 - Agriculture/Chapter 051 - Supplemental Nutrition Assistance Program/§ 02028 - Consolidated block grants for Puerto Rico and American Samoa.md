@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;For fiscal year 2003 and each fiscal year thereafter, the Secretary shall use 99.6 percent of the funds made available under subparagraph (A) for payment to the Commonwealth of Puerto Rico to pay—
 
-&emsp;&emsp;&emsp;&emsp;(I) 100 percent of the expenditures by the Commonwealth for the fiscal yearfor the provision of nutrition assistance included in the plan of the Commonwealth approved under subsection (b) of this section; and
+&emsp;&emsp;&emsp;&emsp;(I) 100 percent of the expenditures by the Commonwealth for the fiscal year for the provision of nutrition assistance included in the plan of the Commonwealth approved under subsection (b) of this section; and
 
 &emsp;&emsp;&emsp;&emsp;(II) 50 percent of the related administrative expenses.
 
@@ -74,7 +74,7 @@
 
 (B) Within 120 days of the end of the fiscal year, the Commonwealth shall provide the Secretary with a statement as to whether the payments received under subsection (a) of this section for that fiscal year exceeded the expenditures by it during that year for which payment is authorized under this section, and if so, by how much, and such other information as the Secretary may require.
 
-(C)(i) If the Secretary finds that there is a substantial failure by the Commonwealth to comply with any of the requirements of subparagraphs (A) and (B), or to comply with the requirements of subsection (b)(1)(A) of this sectionin the administration of a plan approved under subsection (b)(1)(B) of this section, the Secretary shall, except as provided in subparagraph (C)(ii), notify the appropriate agency in the Commonwealth that further payments will not be made to it under subsection (a) of this section until the Secretary is satisfied that there will no longer be any such failure to comply, and until the Secretary is so satisfied, the Secretary shall make no further payments.
+(C)(i) If the Secretary finds that there is a substantial failure by the Commonwealth to comply with any of the requirements of subparagraphs (A) and (B), or to comply with the requirements of subsection (b)(1)(A) of this section in the administration of a plan approved under subsection (b)(1)(B) of this section, the Secretary shall, except as provided in subparagraph (C)(ii), notify the appropriate agency in the Commonwealth that further payments will not be made to it under subsection (a) of this section until the Secretary is satisfied that there will no longer be any such failure to comply, and until the Secretary is so satisfied, the Secretary shall make no further payments.
 
 (ii) The Secretary may suspend the termination of payments under subparagraph (C)(i) for such period as the Secretary determines appropriate, and instead withhold payments provided for under subsection (a) of this section, in whole or in part, until the Secretary is satisfied that there will no longer be any failure to comply with the requirements of subparagraphs (A) and (B) and subsection (b)(1)(A) of this section, at which time such withheld payments shall be paid.
 
@@ -90,7 +90,7 @@
 
 Whoever knowingly and willfully embezzles, misapplies, steals, or obtains by fraud, false statement, or forgery, any funds, assets, or property provided or financed under this section shall be fined not more than $10,000 or imprisoned for not more than five years, or both, but if the value of the funds, assets or property involved is not over $200, the penalty shall be a fine of not more than $1,000 or imprisonment for not more than one year, or both.
 
-(Pub. L. 88–525, §19, as added Pub. L. 97–35, title I, §116(a)(2), Aug. 13, 1981, 95 Stat. 364; amended Pub. L. 97–253, title I, §184(a), Sept. 8, 1982, 96 Stat. 785; Pub. L. 98–204, §1, Dec. 2, 1983, 97 Stat. 1385; Pub. L. 99–114, §2, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, §3, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, §3, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title XV, §1543, Dec. 23, 1985, 99 Stat. 1589; Pub. L. 101–624, title XVII, §1762(b), Nov. 28, 1990, 104 Stat. 3804; Pub. L. 102–237, title IX, §941(9), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 103–66, title XIII, §13917, Aug. 10, 1993, 107 Stat. 674; Pub. L. 104–127, title IV, §401(f), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 106–387, §1(a) \[title VIII, §821\], Oct. 28, 2000, 114 Stat. 1549, 1549A–59; Pub. L. 107–171, title IV, §4124(a), May 13, 2002, 116 Stat. 324; Pub. L. 110–234, title IV, §§4115(b)(13), 4406(a)(6), May 22, 2008, 122 Stat. 1108, 1141; Pub. L. 110–246, §4(a), title IV, §§4115(b)(13), 4406(a)(6), June 18, 2008, 122 Stat. 1664, 1870, 1902.)
+(Pub. L. 88–525, §19, as added Pub. L. 97–35, title I, §116(a)(2), Aug. 13, 1981, 95 Stat. 364; amended Pub. L. 97–253, title I, §184(a), Sept. 8, 1982, 96 Stat. 785; Pub. L. 98–204, §1, Dec. 2, 1983, 97 Stat. 1385; Pub. L. 99–114, §2, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, §3, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, §3, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title XV, §1543, Dec. 23, 1985, 99 Stat. 1589; Pub. L. 101–624, title XVII, §1762(b), Nov. 28, 1990, 104 Stat. 3804; Pub. L. 102–237, title IX, §941(9), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 103–66, title XIII, §13917, Aug. 10, 1993, 107 Stat. 674; Pub. L.104–127, title IV, §401(f), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 106–387, §1(a) \[title VIII, §821\], Oct. 28, 2000, 114 Stat. 1549, 1549A–59; Pub. L. 107–171, title IV, §4124(a), May 13, 2002, 116 Stat. 324; Pub. L. 110–234, title IV, §§4115(b)(13), 4406(a)(6), May 22, 2008, 122 Stat. 1108, 1141; Pub. L. 110–246, §4(a), title IV, §§4115(b)(13), 4406(a)(6), June 18, 2008, 122 Stat. 1664, 1870, 1902.)
 
 #### Codification
 
@@ -122,7 +122,7 @@ Subsec. (c). Pub. L. 107–171, §4124(a)(3), substituted “subsection (a)(2)(A
 
 2000—Subsec. (a)(1)(A). Pub. L. 106–387 substituted “Puerto Rico—” and cls. (i) to (iii) for “Puerto Rico $1,143,000,000 for fiscal year 1996, $1,174,000,000 for fiscal year 1997, $1,204,000,000 for fiscal year 1998, $1,236,000,000 for fiscal year 1999, $1,268,000,000 for fiscal year 2000, $1,301,000,000 for fiscal year 2001, and $1,335,000,000 for fiscal year 2002,”.
 
-1996—Subsec. (a)(1)(A). Pub. L. 104–127 substituted “$1,143,000,000 for fiscal year 1996, $1,174,000,000 for fiscal year 1997, $1,204,000,000 for fiscal year 1998, $1,236,000,000 for fiscal year 1999, $1,268,000,000 for fiscal year 2000, $1,301,000,000 for fiscal year 2001, and $1,335,000,000 for fiscal year 2002” for “$974,000,000 for fiscal year 1991, $1,013,000,000 for fiscal year 1992, $1,051,000,000 for fiscalyear 1993, $1,097,000,000 for fiscal year 1994, and $1,143,000,000 for fiscal year 1995”.
+1996—Subsec. (a)(1)(A). Pub. L. 104–127 substituted “$1,143,000,000 for fiscal year 1996, $1,174,000,000 for fiscal year 1997, $1,204,000,000 for fiscal year 1998, $1,236,000,000 for fiscal year 1999, $1,268,000,000 for fiscal year 2000, $1,301,000,000 for fiscal year 2001, and $1,335,000,000 for fiscal year 2002” for “$974,000,000 for fiscal year 1991, $1,013,000,000 for fiscal year 1992, $1,051,000,000 for fiscal year 1993, $1,097,000,000 for fiscal year 1994, and $1,143,000,000 for fiscal year 1995”.
 
 1993—Subsec. (a)(1)(A). Pub. L. 103–66 substituted “$1,097,000,000” for “$1,091,000,000” and “$1,143,000,000” for “$1,133,000,000”.
 
@@ -214,7 +214,7 @@ Study of Nutritional Needs of Puerto Ricans.—The Comptroller General of the Un
 
 &emsp;“(1) the nutritional needs of the citizens of the Commonwealth of Puerto Rico, including—
 
-&emsp;&emsp;“(A) the adequacy of the nutritional level of the diets of members of households receiving assistanceunder the nutrition assistance program and other households not currently receiving the assistance;
+&emsp;&emsp;“(A) the adequacy of the nutritional level of the diets of members of households receiving assistance under the nutrition assistance program and other households not currently receiving the assistance;
 
 &emsp;&emsp;“(B) the incidence of inadequate nutrition among children and the elderly residing in the Commonwealth;
 

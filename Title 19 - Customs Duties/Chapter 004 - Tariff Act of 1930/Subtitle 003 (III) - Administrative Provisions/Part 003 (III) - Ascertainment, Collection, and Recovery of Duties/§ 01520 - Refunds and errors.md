@@ -42,7 +42,7 @@ Notwithstanding the fact that a valid protest was not filed, the Customs Service
 
 #### References in Text
 
-Section 202 of the United States-Chile Free Trade Agreement Implementation Act, referred to in subsec.\(d), is section 202 of Pub. L. 108–77, which is set out in a note under section 3805 of this title.
+Section 202 of the United States-Chile Free Trade Agreement Implementation Act, referred to in subsec. (d), is section 202 of Pub. L. 108–77, which is set out in a note under section 3805 of this title.
 
 Section 202 of the United States-Oman Free Trade Agreement Implementation Act, referred to in subsec. (d), is section 202 of Pub. L. 109–283, which is set out in a note under section 3805 of this title.
 
@@ -54,7 +54,7 @@ Act June 26, 1934, effective July 1, 1935, provided for repeal of certain perman
 
 #### Prior Provisions
 
-This section, as originally enacted, contained a paragraph (b) making a permanent appropriation of the moneys necessary to make refunds. Effective July 1, 1935, paragraph (b) was repealed by act June 26, 1934, ch. 756, §2, 48 Stat. 1225, such act authorizing, in lieu thereof, an annual appropriation from the general fund of the Treasury.
+This section, as originally enacted, contained a paragraph (b) making a permanent appropriation of themoneys necessary to make refunds. Effective July 1, 1935, paragraph (b) was repealed by act June 26, 1934, ch. 756, §2, 48 Stat. 1225, such act authorizing, in lieu thereof, an annual appropriation from the general fund of the Treasury.
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §520, 42 Stat. 973. That section was superseded by section 520 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
@@ -62,33 +62,33 @@ Prior provisions somewhat similar to those in subdivisions (1) and (3) of paragr
 
 Provisions concerning the refund of moneys collected as duties in accordance with any decision, etc., of the Secretary of the Treasury, with provisos concerning reliquidations, correction of errors, household effects and other articles exempt from duty, were contained in act March 3, 1875, ch. 136, 18 Stat. 469, which was also repealed by section 643 of the act of Sept. 21, 1922.
 
-R.S. §3011 (as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247, and act Feb. 1, 1888, ch. 4, 25 Stat. 6) and section 3012, relative to actions to recover duties paid under protest, and sections 30121/2 and 3013, relative to refunds, were repealed by the Customs Administrative Act of June 10, 1890, ch. 407, §29. 26 Stat. 141.
+R.S. §3011 (as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247, and act Feb. 1, 1888, ch. 4, 25 Stat. 6) and section 3012, relative to actions to recover duties paid under protest, and sections 3012½ and 3013, relative to refunds, were repealed by the Customs Administrative Act of June 10, 1890, ch. 407, §29. 26 Stat. 141.
 
 Act June 7, 1924, ch. 357, 43 Stat. 660, authorizing the remission of unpaid customs duties on material belonging to the United States and theretofore imported by the War Department, was omitted from the Code as temporary.
 
 #### Amendments
 
-2007—Subsec. (d). Pub. L. 110–138, §§107(c), 206, in introductory provisions, temporarily struck out “or” before “section 202 of the United States-Oman” and substituted “, or section 203 of the United States-Peru Trade Promotion Agreement Implementation Act for which” for “for which”. See Effective and Termination Dates of 2007 Amendment note below.
+<b>2007</b>—Subsec. (d). Pub. L. 110–138, §§107(c), 206, in introductory provisions, temporarily struck out “or” before “section 202 of the United States-Oman” and substituted “, or section 203 of the United States-Peru Trade Promotion Agreement Implementation Act for which” for “for which”. See Effective and Termination Dates of 2007 Amendment note below.
 
-2006—Subsec. (a). Pub. L. 109–280, in par. (1), substituted period for semicolon at end, in par. (2), substituted period for “; and” at end, and, in par. (4), inserted “an importer of record declares or” after “whenever” and struck out “by reason of clerical error” before period at end.
+<b>2006</b>—Subsec. (a). Pub. L. 109–280, in par. (1), substituted period for semicolon at end, in par. (2), substituted period for “; and” at end, and, in par. (4), inserted “an importer of record declares or” after “whenever” and struck out “by reason of clerical error” before period at end.
 
 Subsec. (d). Pub. L. 109–283, §§107(c), 205(1), in introductory provisions, temporarily struck out “or” before “section 4033” and substituted “, or section 202 of the United States-Oman Free Trade Agreement Implementation Act for which” for “for which”. See Effective and Termination Dates of 2006 Amendment note below.
 
 Subsec. (d)(3). Pub. L. 109–283, §§107(c), 205(2), temporarily inserted “and information” after “documentation”. See Effective and Termination Dates of 2006 Amendment note below.
 
-2005—Subsec. (d). Pub. L. 109–53, §§107(d), 207, temporarily substituted “, section 202 of the United States-Chile Free Trade Agreement Implementation Act, or section 4033 of this title” for “or section 202 of the United States-Chile Free Trade Agreement Implementation Act” in introductory provisions and inserted “or certifications” after “other certificates” in par. (2). See Effective and Termination Dates of 2005 Amendment note below.
+<b>2005</b>—Subsec. (d). Pub. L. 109–53, §§107(d), 207, temporarily substituted “, section 202 of the United States-Chile Free Trade Agreement Implementation Act, or section 4033 of this title” for “or section 202 of the United States-Chile Free Trade Agreement Implementation Act” in introductory provisions and inserted “or certifications” after “other certificates” in par. (2). See Effective and Termination Dates of 2005 Amendment note below.
 
-2004—Subsec. (c). Pub. L. 108–429 struck out subsec. (c) which related to reliquidation of entry or reconciliation.
+<b>2004</b>—Subsec. (c). Pub. L. 108–429 struck out subsec. (c) which related to reliquidation of entry or reconciliation.
 
-2003—Subsec. (d). Pub. L. 108–77, §§107(c), 206(1), (2), temporarily inserted heading and inserted “or section 202 of the United States-Chile Free Trade Agreement Implementation Act” after “title” in introductory provisions. See Effective and Termination Dates of 2003 Amendment note below.
+<b>2003</b>—Subsec. (d). Pub. L. 108–77, §§107(c), 206(1), (2), temporarily inserted heading and inserted “or section 202 of the United States-Chile Free Trade Agreement Implementation Act” after “title” in introductory provisions. See Effective and Termination Dates of 2003 Amendment note below.
 
 Subsec. (d)(1). Pub. L. 108–77, §§107(c), 206(3), temporarily substituted “the applicable” for “those”. See Effective and Termination Dates of 2003 Amendment note below.
 
 Subsec. (d)(2). Pub. L. 108–77, §§107(c), 206(4), temporarily inserted “, or other certificates of origin, as the case may be” before semicolon. See Effective and Termination Dates of 2003 Amendment note below.
 
-1999—Subsec. (d). Pub. L. 106–36 inserted “(including any merchandise processing fees)” after “excess duties” in introductory provisions.
+<b>1999</b>—Subsec. (d). Pub. L. 106–36 inserted “(including any merchandise processing fees)” after “excess duties” in introductory provisions.
 
-1993—Subsec. (a)(1), (4). Pub. L. 103–182, §646(1), inserted “or reconciliation” after “entry”.
+<b>1993</b>—Subsec. (a)(1), (4). Pub. L. 103–182, §646(1), inserted “or reconciliation” after “entry”.
 
 Subsec. (c). Pub. L. 103–182, §646(2)(A), (B), substituted “Customs Service” for “appropriate customs officer” and inserted “or reconciliation” after “entry” in introductory provisions.
 
@@ -98,23 +98,23 @@ Subsec. (d). Pub. L. 103–182, §206, added subsec. (d). See Construction of 19
 
 Pub. L. 103–182, §642(b), struck out subsec. (d) which read as follows: “If a determination is made to reliquidate an entry as a result of a protest filed under section 1514 of this title or an application for relief made under subsection (c)(1) of this section, or if reliquidation is ordered by an appropriate court, interest shall be allowed on any amount paid as increased or additional duties under section 1505(c) of this title at the annual rate established pursuant to that section and determined as of the 15th day after the date of liquidation or reliquidation. The interest shall be calculated from the date of payment to the date of (1) the refund, or (2) the filing of a summons under section 2632 of title 28, whichever occurs first.” See Construction of 1993 Amendment note below.
 
-1984—Subsec. (a)(4). Pub. L. 98–573, §212(b)(7)(B), added par. (4).
+<b>1984</b>—Subsec. (a)(4). Pub. L. 98–573, §212(b)(7)(B), added par. (4).
 
 Subsec. (d). Pub. L. 98–573, §210(b), added subsec. (d).
 
-1978—Subsec. (c)(1). Pub. L. 95–410 substituted “appropriate customs officer within one year after the date of liquidation or exaction” for “customs service within one year after the date of entry, or transaction, or within ninety days after liquidation or exaction when the liquidation or exaction is made more than nine months after the date of the entry, or transaction”.
+<b>1978</b>—Subsec. (c)(1). Pub. L. 95–410 substituted “appropriate customs officer within one year after the date of liquidation or exaction” for “customs service within one year after the date of entry, or transaction, or within ninety days after liquidation or exaction when the liquidation or exaction is made more than nine months after the date of the entry, or transaction”.
 
-1970—Subsec. (c). Pub. L. 91–271 in introductory material substituted “the appropriate customs officer may, in accordance with regulations prescribed by the Secretary,” for “the Secretary of the Treasury may authorize a collector to”, and in par. (1) struck out “appraisement” wherever appearing and substituted “ninety” and “nine” for “sixty” and “ten”, respectively.
+<b>1970</b>—Subsec. (c). Pub. L. 91–271 in introductory material substituted “the appropriate customs officer may, in accordance with regulations prescribed by the Secretary,” for “the Secretary of the Treasury may authorize a collector to”, and in par. (1) struck out “appraisement” wherever appearing and substituted “ninety” and “nine” for “sixty” and “ten”, respectively.
 
-1953—Subsec. (c)(1). Act Aug. 8, 1953, extended the relief provision to situations involving clerical errors, mistakes of fact, or any other inadvertence not amounting to an error in the construction of a law, in any entry, liquidation, appraisement or other customs transaction, when such error, mistake or other inadvertence is adverse to the record or established by written evidence.
+<b>1953</b>—Subsec. (c)(1). Act Aug. 8, 1953, extended the relief provision to situations involving clerical errors, mistakes of fact, or any other inadvertence not amounting to an error in the construction of a law, in any entry, liquidation, appraisement or other customs transaction, when such error, mistake or other inadvertence is adverse to the record or established by written evidence.
 
 Subsec. (c)(2). Act Aug. 8, 1953, permitted correction of assessments of duty on household or personal effects which are subject to duty.
 
-1938—Subsecs. (b), (c). Act June 25, 1938, added subsecs. (b) and (c).
+<b>1938</b>—Subsecs. (b), (c). Act June 25, 1938, added subsecs. (b) and (c).
 
 #### Effective and Termination Dates of 2007 Amendment
 
-Amendment by Pub. L. 110–138 effective on the date the United States-Peru Trade Promotion Agreement enters into force (Feb. 1, 2009) and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 110–138, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 110–138 effective on the date the United States-Peru Trade Promotion Agreement enters into force (Feb. 1, 2009) and to cease to be effective on the date the Agreement ceases to be in force,see section 107(a), (c) of Pub. L. 110–138, set out in a note under section 3805 of this title.
 
 #### Effective and Termination Dates of 2006 Amendment
 

@@ -56,15 +56,21 @@ The Librarian may charge a fee for services under any of the programs and activi
 
 &emsp;In the case of any amount in the revolving fund consisting of a payment received for services of the United States Capitol Police in connection with a special event or program described in subsection (a)(4), the Librarian shall transfer such amount upon receipt to the Capitol Police for deposit into the applicable appropriations accounts of the Capitol Police.
 
-(Pub. L. 106–481, title I, §102, Nov. 9, 2000, 114 Stat. 2188; Pub. L. 107–68, title II, §208(a), Nov. 12, 2001, 115 Stat. 587; Pub. L. 110–161, div. H, title I, §1004(f)(1), Dec. 26, 2007, 121 Stat. 2235; Pub. L. 110–178, §6(a), Jan. 7, 2008, 121 Stat. 2553.)
+(Pub. L. 106–481, title I, §102, Nov. 9, 2000, 114 Stat. 2188; Pub. L. 107–68, title II, §208(a), Nov. 12, 2001, 115 Stat. 587; Pub. L. 110–161, div. H, title I, §1004(f)(1), Dec. 26, 2007, 121 Stat. 2235; Pub. L. 110–178, §6(a), Jan. 7, 2008, 121 Stat. 2553; Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
 
 #### Amendments
 
-2008—Subsec. (e). Pub. L. 110–178 made an amendment identical to that made by Pub. L. 110–161. See 2007 Amendment note below.
+2010—Subsec. (e). Pub. L. 111–145 repealed Pub. L. 110–161, §1004(f)(1). See 2007 Amendment note below.
 
-2007—Subsec. (e). Pub. L. 110–161 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Amounts in the accounts of the revolving fund under this section shall be available to the Librarian, in amounts specified in appropriations Acts and without fiscal year limitation, to carry out the programs and activities covered by such accounts.”
+2008—Subsec. (e). Pub. L. 110–178 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Amounts in the accounts of the revolving fund under this section shall be available to the Librarian, in amounts specified in appropriations Acts and without fiscal year limitation, to carry out the programs and activities covered by such accounts.”
+
+2007—Subsec. (e). Pub. L. 110–161, §1004(f)(1), which made an amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
 
 2001—Subsec. (a)(4). Pub. L. 107–68 added par. (4).
+
+#### Effective Date of 2010 Amendment
+
+Repeal of section 1004 of Pub. L. 110–161 by Pub. L. 111–145 effective as if included in the enactment of Pub. L. 110–161 and provisions amended by section 1004 of Pub. L. 110–161 to be restored as if such section had not been enacted, and repeal to have no effect on the enactment or implementation of any provision of Pub. L. 110–178, see section 6(d) of Pub. L. 111–145, set out as a note under section 1901 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -72,7 +78,7 @@ Pub. L. 110–178, §6(c), Jan. 7, 2008, 121 Stat. 2554, provided that: “The a
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–161, div. H, title I, §1004(f)(3), Dec. 26, 2007, 121 Stat. 2236, provided that: “The amendments made by this subsection \[amending this section\] shall apply with respect to services provided by the United States Capitol Police on or after the date of the enactment of this Act \[Dec. 26, 2007\].”
+Pub. L. 110–161, div. H, title I, §1004(f)(3), Dec. 26, 2007, 121 Stat. 2236, which provided that the amendments made by section 1004(f) (amending this section) would apply with respect to services provided by the United States Capitol Police on or after Dec. 26, 2007, was repealed by Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54.
 
 #### Effective Date of 2001 Amendment
 

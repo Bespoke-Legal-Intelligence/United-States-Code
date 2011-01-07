@@ -42,6 +42,10 @@ In subsection (a), the words “public money” are substituted for “the money
 
 In subsection (b), the words “Except as provided in section 3326 of this title” are added for clarity. The words “endorse . . . as required by subsection (a)(4) of this section” are substituted for “so signed” for clarity and consistency.
 
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–204, §1, July 22, 2010, 124 Stat. 2224, provided that: “This Act \[amending sections 3501 and 3562 of this title and section 612 of Title 6, Domestic Security, repealing sections 3561 and 3563 to 3567 of this title, enacting provisions set out as notes under section 3321 of this title, and amending provisions set out as a note under section 3321 of this title\] may be cited as the ‘Improper Payments Elimination and Recovery Act of 2010’.”
+
 #### Short Title of 2000 Amendment
 
 Pub. L. 106–433, §1, Nov. 6, 2000, 114 Stat. 1910, provided that: “This Act \[amending section 3327 of this title and enacting provisions set out as a note under section 3327 of this title\] may be cited as the ‘Social Security Number Confidentiality Act of 2000’.”

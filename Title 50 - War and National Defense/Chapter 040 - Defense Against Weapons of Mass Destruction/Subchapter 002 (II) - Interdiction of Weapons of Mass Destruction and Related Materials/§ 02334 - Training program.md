@@ -6,9 +6,9 @@ The Secretary of Defense may participate in a training program carried out joint
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1995, and not as partof the Defense Against Weapons of Mass Destruction Act of 1996 which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1995, and not as part of the Defense Against Weapons of Mass Destruction Act of 1996 which comprises this chapter.
 
 #### Amendments
 
-2004—Pub. L. 108–375 substituted “The Secretary of Defense may participate in a” for “The training program referred to in paragraph (1)(B) is a”, inserted “of” after “acquisition”, struck out “and” after “countries,”, and inserted before period at end “, and in other countries in which, as determined by the Secretary of Defense, there exists a significant threat of such proliferation and acquisition”.
+<b>2004</b>—Pub. L. 108–375 substituted “The Secretary of Defense may participate in a” for “The training program referred to in paragraph (1)(B) is a”, inserted “of” after “acquisition”, struck out “and” after “countries,”, and inserted before period at end “, and in other countries in which, as determined by the Secretary of Defense, there exists a significant threat of such proliferation and acquisition”.
 

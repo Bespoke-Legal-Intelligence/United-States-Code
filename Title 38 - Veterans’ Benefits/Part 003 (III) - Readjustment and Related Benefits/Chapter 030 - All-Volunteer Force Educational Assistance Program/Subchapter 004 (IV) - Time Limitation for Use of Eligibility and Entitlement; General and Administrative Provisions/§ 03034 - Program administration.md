@@ -16,7 +16,7 @@
 
 &emsp;(2) the individual possesses a valid private pilot certificate and meets, on the day the individual begins a course of flight training, the medical requirements necessary for a commercial pilot certificate; and
 
-&emsp;(3) the flight school courses meet Federal Aviation Administration standards for such courses and are approved by the Federal Aviation Administration and the State approving agency.
+&emsp;(3) the flight school courses are approved by the Federal Aviation Administration and are offered by a certified pilot school that possesses a valid Federal Aviation Administration pilot school certificate.
 
 (e)(1) In the case of a member of the Armed Forces who participates in basic educational assistance under this chapter, the Secretary shall furnish the information described in paragraph (2) to each such member. The Secretary shall furnish such information as soon as practicable after the basic pay of the member has been reduced by $1,200 in accordance with section 3011(b) or 3012(c) of this title and at such additional times as the Secretary determines appropriate.
 
@@ -26,21 +26,23 @@
 
 (4) The Secretary shall use amounts appropriated for readjustment benefits to carry out this subsection and section 5102 of this title with respect to application forms under that section for basic educational assistance under this chapter.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2562, §1434; amended Pub. L. 99–576, title III, §§301(c), 302, 305, 308(a), Oct. 28, 1986, 100 Stat. 3268–3270; Pub. L. 100–689, title I, §§106(a), 111(a)(7)(B), Nov. 18, 1988, 102 Stat. 4166, 4172; Pub. L. 101–237, title IV, §§415(b), 422(a)(1), 423(a)(5)(A), (6), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2086, 2088, 2091, 2092; Pub. L. 102–16, §2(b)(2), Mar. 22, 1991, 105 Stat. 49; renumbered §3034 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §313(a)(4), Oct. 29, 1992, 106 Stat. 4332; Pub. L. 103–446, title VI, §601(a), Nov. 2, 1994, 108 Stat. 4670; Pub. L. 105–368, title II, §§204(a), 206(a), Nov. 11, 1998, 112 Stat. 3327.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2562, §1434; amended Pub. L. 99–576, title III, §§301(c), 302, 305, 308(a), Oct. 28, 1986, 100 Stat. 3268–3270; Pub. L. 100–689, title I, §§106(a), 111(a)(7)(B), Nov. 18, 1988, 102 Stat. 4166, 4172; Pub. L. 101–237, title IV, §§415(b), 422(a)(1), 423(a)(5)(A), (6), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2086, 2088, 2091, 2092; Pub. L. 102–16, §2(b)(2), Mar. 22, 1991, 105 Stat. 49; renumbered §3034 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §313(a)(4), Oct. 29, 1992, 106 Stat. 4332; Pub. L. 103–446, title VI, §601(a), Nov. 2, 1994, 108 Stat. 4670; Pub. L. 105–368, title II, §§204(a), 206(a), Nov. 11, 1998, 112 Stat. 3327; Pub. L. 111–377, title II, §203(a)(2)(A), Jan. 4, 2011, 124 Stat. 4125.)
 
 #### Amendments
 
-1998—Subsec. (d)(2). Pub. L. 105–368, §204(a), substituted “pilot certificate” for “pilot's license” in two places and inserted “, on the day the individual begins a course of flight training,” after “meets”.
+<b>2011</b>—Subsec. (d)(3). Pub. L. 111–377 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the flight school courses meet Federal Aviation Administration standards for such courses and are approved by the Federal Aviation Administration and the State approving agency.”
+
+<b>1998</b>—Subsec. (d)(2). Pub. L. 105–368, §204(a), substituted “pilot certificate” for “pilot's license” in twoplaces and inserted “, on the day the individual begins a course of flight training,” after “meets”.
 
 Subsec. (e). Pub. L. 105–368, §206(a), added subsec. (e).
 
-1994—Subsec. (d). Pub. L. 103–446 struck out “(1)” before “The Secretary may approve”, redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and struck out former par. (2) which read as follows: “This subsection shall not apply to a course of flight training that commences on or after October 1, 1994.”
+<b>1994</b>—Subsec. (d). Pub. L. 103–446 struck out “(1)” before “The Secretary may approve”, redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and struck out former par. (2) which read as follows: “This subsection shall not apply to a course of flight training that commences on or after October 1, 1994.”
 
-1992—Subsec. (a)(1). Pub. L. 102–568, §313(a)(4)(A), struck out “3473,” after “3471,”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–568, §313(a)(4)(A), struck out “3473,” after “3471,”.
 
 Subsec. (d)(1). Pub. L. 102–568, §313(a)(4)(B), substituted “3680A(b)” for “3473(b)” in introductory provisions.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1434 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1434 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 102–83, §5(c)(1), substituted “3470, 3471, 3473, 3474, 3476, 3482(g), 3483, and 3485” for “1670, 1671, 1673, 1674, 1676, 1682(g), 1683, and 1685” and “3680(c), 3680(f), 3686(a), and 3687” for “1780(c), 1780(f), 1786(a), and 1787”.
 
@@ -52,7 +54,7 @@ Subsec. (c). Pub. L. 102–83, §5(c)(1), substituted “3032(b)” for “1432(
 
 Subsec. (d)(1). Pub. L. 102–83, §5(c)(1), substituted “3473(b)” for “1673(b)” in introductory provisions.
 
-1989—Subsec. (a)(1). Pub. L. 101–237, §423(a)(6)(A), inserted “1780(f),” after “1780(c),”.
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–237, §423(a)(6)(A), inserted “1780(f),” after “1780(c),”.
 
 Pub. L. 101–237, §415(b)(1), struck out “1780(g),” after “1780(c),”.
 
@@ -68,7 +70,7 @@ Pub. L. 101–237, §415(b)(3), redesignated subsec. (c) as (b).
 
 Subsec. (d). Pub. L. 101–237, §422(a)(1), added subsec. (d).
 
-1988—Subsec. (a)(1). Pub. L. 100–689, §§106(a)(1), 111(a)(7)(B)(i), designated existing first sentence as par. (1) and inserted “1786(a),” after “1780(g),”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–689, §§106(a)(1), 111(a)(7)(B)(i), designated existing first sentence as par. (1) and inserted “1786(a),” after “1780(g),”.
 
 Subsec. (a)(2). Pub. L. 100–689, §106(a)(2), (3), designated existing second sentence, defining “eligible veteran”, as par. (2) and substituted “the provisions of the sections enumerated in paragraph (1) of this subsection” for “those provisions”.
 
@@ -76,7 +78,7 @@ Subsec. (a)(3). Pub. L. 100–689, §106(a)(4), added par. (3).
 
 Subsecs. (c), (d). Pub. L. 100–689, §111(a)(7)(B)(ii), (iii), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “When an eligible individual is pursuing a program of education under this chapter by correspondence, the individual's entitlement under this chapter shall be charged at the rate of one month's entitlement for each month of benefits paid to the individual.”
 
-1986—Subsec. (a). Pub. L. 99–576, §§301(c), 308(a), substituted “1683, and 1685” for “and 1683” and “(with the exception of sections 1780(c), 1780(g), and 1787)” for “(with the exception of sections 1777, 1780(a)(5), 1780(b), 1786, 1787, and 1792 of such chapter)”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–576, §§301(c), 308(a), substituted “1683, and 1685” for “and 1683” and “(with the exception of sections 1780(c), 1780(g), and 1787)” for “(with the exception of sections 1777, 1780(a)(5), 1780(b), 1786, 1787, and 1792 of such chapter)”.
 
 Subsec. (b). Pub. L. 99–576, §305, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “An educational assistance allowance for any period may not be paid to an individual enrolled in or pursuing a program of education under this chapter until the Administrator has received—
 
@@ -85,6 +87,10 @@ Subsec. (b). Pub. L. 99–576, §305, amended subsec. (b) generally. Prior to am
 &emsp;“(2) from the educational institution a certification, or an endorsement of the individual's certificate, that such individual was enrolled in and pursuing a program of education during such period.”
 
 Subsecs. (c), (d). Pub. L. 99–576, §302, added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–377, title II, §203(e), Jan. 4, 2011, 124 Stat. 4126, provided that: “The amendments made by this section \[amending this section and sections 3671 to 3673, 3675, 3679, and 3689 of this title\] shall take effect on August 1, 2011.”
 
 #### Effective Date of 1998 Amendment
 

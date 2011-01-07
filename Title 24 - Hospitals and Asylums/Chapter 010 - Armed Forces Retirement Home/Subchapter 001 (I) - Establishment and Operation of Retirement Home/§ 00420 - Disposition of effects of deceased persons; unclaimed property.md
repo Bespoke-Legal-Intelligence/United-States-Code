@@ -60,11 +60,11 @@ In the case of property delivered to the Retirement Home under section 2575 of t
 
 #### Amendments
 
-2003—Subsec. (b)(1)(C). Pub. L. 108–136 inserted “Armed Forces” before “Retirement Home Trust Fund”.
+<b>2003</b>—Subsec. (b)(1)(C). Pub. L. 108–136 inserted “Armed Forces” before “Retirement Home Trust Fund”.
 
-2002—Subsec. (e). Pub. L. 107–314 made technical correction to directory language of Pub. L. 107–107, §1410(a)(3)(C). See 2001 Amendment note below.
+<b>2002</b>—Subsec. (e). Pub. L. 107–314 made technical correction to directory language of Pub. L. 107–107, §1410(a)(3)(C). See 2001 Amendment note below.
 
-2001—Subsec. (a). Pub. L. 107–107, §1410(a)(3)(A), substituted “a facility” for “each facility that is maintained as a separate establishment” in introductory provisions.
+<b>2001</b>—Subsec. (a). Pub. L. 107–107, §1410(a)(3)(A), substituted “a facility” for “each facility that is maintained as a separate establishment” in introductory provisions.
 
 Subsec. (b)(1)(B). Pub. L. 107–107, §1408(b), inserted “Armed Forces” before “Retirement Home Trust Fund”.
 
@@ -72,15 +72,15 @@ Subsec. (b)(2)(A). Pub. L. 107–107, §§1408(a), 1410(a)(3)(B), struck out “
 
 Subsec. (e). Pub. L. 107–107, §1410(a)(3)(C), as amended by Pub. L. 107–314, substituted “Director of the facility” for “Directors” in two places.
 
-1996—Subsec. (b)(1)(C). Pub. L. 104–316, §202(j)(1), substituted “Secretary of Defense” for “Comptroller General of the United States” and “Secretary” for “Comptroller General”.
+<b>1996</b>—Subsec. (b)(1)(C). Pub. L. 104–316, §202(j)(1), substituted “Secretary of Defense” for “Comptroller General of the United States” and “Secretary” for “Comptroller General”.
 
 Subsec. (d). Pub. L. 104–316, §202(j)(2), substituted “Secretary of Defense” for “Comptroller General of the United States” in par. (1), “Secretary” for “Comptroller General” in par. (2), and “allowed by the Secretary” for “allowed by the Comptroller General” in par. (3).
 
-1993—Subsec. (a). Pub. L. 103–160, §366(d), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Directors of the establishments of the Retirement Home shall safeguard and dispose of the effects of a deceased person delivered to the Retirement Home under section 4712(f) or 9712(f) of title 10 and the estate and effects of a deceased resident of the Armed Forces Retirement Home as follows:
+<b>1993</b>—Subsec. (a). Pub. L. 103–160, §366(d), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Directors of the establishments of the Retirement Home shall safeguard and dispose of the effects of a deceased person delivered to the Retirement Home under section 4712(f) or 9712(f) of title 10 and the estate and effects of a deceased resident of the Armed Forces Retirement Home as follows:
 
 &emsp;“(1) A will or other paper involving property rights shall be promptly delivered to the proper court of record.
 
-&emsp;“(2) If the heirs or legal representative of the deceased cannot sooner be ascertained, the Directorsshall retain the remaining effects until three years after the death of the deceased, and then, if a right to the effects is established to the satisfaction of the Directors, shall deliver the effects to the living person highest on the following list who can be found:
+&emsp;“(2) If the heirs or legal representative of the deceased cannot sooner be ascertained, the Directors shall retain the remaining effects until three years after the death of the deceased, and then, if a right to the effects is established to the satisfaction of the Directors, shall deliver the effects to the living person highest on the following list who can be found:
 
 &emsp;&emsp;“(A) The surviving spouse or legal representative.
 

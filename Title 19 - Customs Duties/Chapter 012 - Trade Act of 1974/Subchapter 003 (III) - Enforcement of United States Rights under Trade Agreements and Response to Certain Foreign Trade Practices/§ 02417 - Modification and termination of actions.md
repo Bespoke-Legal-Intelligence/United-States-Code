@@ -10,7 +10,7 @@
 
 &emsp;(C) such action is being taken under section 2411(b) of this title and is no longer appropriate.
 
-(2) Before taking any action under paragraph (1) to modify or terminate any action takenunder section 2411 of this title, the Trade Representative shall consult with the petitioner, if any, and with representatives of the domestic industry concerned, and shall provide opportunity for the presentation of views by other interested persons affected by the proposed modification or termination concerning the effects of the modification or termination and whether any modification or termination of the action is appropriate.
+(2) Before taking any action under paragraph (1) to modify or terminate any action taken under section 2411 of this title, the Trade Representative shall consult with the petitioner, if any, and with representatives of the domestic industry concerned, and shall provide opportunity for the presentation of views by other interested persons affected by the proposed modification or termination concerning the effects of the modification or termination and whether any modification or termination of the action is appropriate.
 
 #### (b) Notice; report to Congress
 

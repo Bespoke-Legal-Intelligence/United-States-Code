@@ -10,7 +10,7 @@ Eligible Members.—The following members are eligible to receive a cost-of-livi
 
 &emsp;(1) A member assigned to a high cost area in the continental United States.
 
-&emsp;(2) A member assigned to an unaccompanied tour of duty outside the continental UnitedStates if the primary dependent of the member resides in a high cost area in the continental United States.
+&emsp;(2) A member assigned to an unaccompanied tour of duty outside the continental United States if the primary dependent of the member resides in a high cost area in the continental United States.
 
 &emsp;(3) A member assigned to duty in the continental United States if the Secretary of the uniformed service concerned determines that—
 
@@ -20,7 +20,7 @@ Eligible Members.—The following members are eligible to receive a cost-of-livi
 
 (c)
 
-High Cost Area Defined.—An area is a high cost area for a fiscal year for purposes of this section if the uniformed services cost of living for that area for the base period exceeds the average cost of living in the continental United States for such base period by at least the threshold percentage. The Secretary of Defense, in consultation with the other administering Secretaries, shall establish the threshold percentage, except that the threshold percentage may not be less than 8 percent. The administering Secretaries shall prescribe a higher threshold percentage to be applied for a fiscal year when it is necessary to do so in order to ensure that the total amount of the payments of the cost-of-living allowance made to members of the uniformed services under this section for such fiscal year does not exceed the total amount available to all uniformed services for that fiscal year for paying such allowance.
+High Cost Area Defined.—An area is a high cost area for a fiscal year for purposes of this section if the uniformed services cost of living for that area for the base period exceeds the average cost of living in the continental United States for such base period by at least the threshold percentage. The Secretary of Defense, in consultation with the other administering Secretaries, shall establish the threshold percentage, except that the threshold percentage may not be less than 8 percent. The administering Secretaries shall prescribe a higher threshold percentage to be applied for a fiscal year when it is necessary to do so in order to ensure that the total amount of the payments of the cost-of-living allowance made to members of the uniformed services under this section for such fiscal year does not exceed the total amountavailable to all uniformed services for that fiscal year for paying such allowance.
 
 (d)
 
@@ -100,7 +100,7 @@ Other Definitions.—In this section:
 
 #### Amendments
 
-2002—Subsec. (i)(5)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (i)(5)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 Subsec. (i)(6). Pub. L. 107–314 struck out par. (6) which read as follows: “The term ‘continental United States’ means the 48 contiguous States and the District of Columbia.”
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Conditions on Provision of Allowance
 

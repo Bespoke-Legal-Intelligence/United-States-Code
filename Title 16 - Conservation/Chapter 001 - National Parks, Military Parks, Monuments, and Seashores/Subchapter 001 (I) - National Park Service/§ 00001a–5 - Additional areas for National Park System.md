@@ -6,7 +6,7 @@ The Secretary of the Interior is directed to investigate, study, and continually
 
 #### (b) Studies of areas for potential addition
 
-(1) At the beginning of each calendar year, along with the annual budget submission, the Secretary shall submit to the Committee on Resources of the House of Representatives and tothe Committee on Energy and Natural Resources of the United States Senate a list of areas recommended for study for potential inclusion in the National Park System.
+(1) At the beginning of each calendar year, along with the annual budget submission, the Secretary shall submit to the Committee on Resources of the House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate a list of areas recommended for study for potential inclusion in the National Park System.
 
 (2) In developing the list to be submitted under this subsection, the Secretary shall consider—
 
@@ -86,7 +86,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (c)(4), is
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–391, §303(1), (2), inserted heading and struck out after first sentence “At the beginning of each fiscal year, the Secretary shall transmit to the Speaker of the House of Representatives and to the President of the Senate, comprehensive reports on each of those areas upon which studies have been completed. Each such report shall indicate and elaborate on the theme(s) which the area represents as indicated in the National Park System Plan. On this same date, and accompanying such reports, the Secretary shall transmit a listing, in generally descending order of importance or merit, of not less than twelve such areas which appear to be of national significance and which may have potential for inclusion in the National Park System. Threats to resource values, and cost escalation factors shall be considered in listing the order of importance or merit. Such listing may be comprised of any areas heretofore submitted under terms of this section, and which at the time of listing are not included in the National Park System.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–391, §303(1), (2), inserted heading and struck out after first sentence “At the beginning of each fiscal year, the Secretary shall transmit to the Speaker of the House of Representatives and to the President of the Senate, comprehensive reports on each of those areas upon which studies have been completed. Each such report shall indicate and elaborate on the theme(s) which the area represents as indicated in the National Park System Plan. On this same date, and accompanying such reports, the Secretary shall transmit a listing, in generally descending order of importance or merit, of not less than twelve such areas which appear to be of national significance and which may have potential for inclusion in the National Park System. Threats to resource values, and cost escalation factors shall be considered in listing the order of importance or merit. Such listing may be comprised of any areas heretofore submitted under terms of this section, and which at the time of listing are not included in the National Park System.”
 
 Pub. L. 105–391, §303(3), redesignated last two sentences as subsec. (f).
 
@@ -94,19 +94,19 @@ Subsecs. (b) to (e). Pub. L. 105–391, §303(4), added subsecs. (b) to (e).
 
 Subsec. (f). Pub. L. 105–391, §303(3), (5), redesignated last two sentences of subsec. (a) as (f), inserted heading, and inserted at end “For carrying out subsections (b) through (d) of this section there are authorized to be appropriated $2,000,000 for each fiscal year.”
 
-1996—Subsec. (b). Pub. L. 104–333 struck out subsec. (b) which read as follows: “The Secretary shall submit to the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate, a comprehensive, ‘National Park System Plan’, which document shall constitute a professional guide for the identification of natural and historic themes of the United States, and from which candidate areas can be identified and selected to constitute units of the National Park System. Such plan shall be revised and updated annually.”
+<b>1996</b>—Subsec. (b). Pub. L. 104–333 struck out subsec. (b) which read as follows: “The Secretary shall submit to the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate, a comprehensive, ‘National Park System Plan’, which document shall constitute a professional guide for the identification of natural and historic themes of the United States, and from which candidate areas can be identified and selected to constitute units of the National Park System. Such plan shall be revised and updated annually.”
 
-1994—Subsec. (a). Pub. L. 103–437, §6(b)(1), substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–437, §6(b)(1), substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
 Subsec. (b). Pub. L. 103–437, §6(b)(2), substituted “The Secretary shall submit to the Committee on Natural Resources” for “Within six months of March 5, 1980, the Secretary shall submit to the Committee on Interior and Insular Affairs”.
 
-1980—Subsec. (a). Pub. L. 96–344 inserted provisions requiring that each report indicate and elaborate on the theme or themes which the area represents as indicated in the National Park System Plan and the annual priority listing of areas be accomplished by a synopsis, for each report previously submitted, of current and changed conditions of the resource integrity of the area or other relevant factors, to cover the period since the previous such submission or initial report submission one year earlier.
+<b>1980</b>—Subsec. (a). Pub. L. 96–344 inserted provisions requiring that each report indicate and elaborate on the theme or themes which the area represents as indicated in the National Park System Plan and the annual priority listing of areas be accomplished by a synopsis, for each report previously submitted, of current and changed conditions of the resource integrity of the area or other relevant factors, to cover the period since the previous such submission or initial report submission one year earlier.
 
 Pub. L. 96–199, §104(a), (b), designated existing provisions as subsec. (a) and inserted provision that should adequate supplies of previously printed identical reports remain available, newly submitted identical reports shall be omitted from printing upon the receipt by the Speaker of the United States House of Representatives of a joint letter from the chairman of the Committee on Interior and Insular Affairs of the United States House of Representatives and the chairman of the Committee on Energy and Natural Resources of the United States Senate indicating such to be the case.
 
 Subsec. (b). Pub. L. 96–199, §104(b), added subsec. (b).
 
-1978—Pub. L. 95–625 authorized annual appropriations of $1,000,000 for studies for potential new Park System units and for monitoring the welfare of those resources and $1,500,000 for monitoring the welfare and integrity of the national landmarks.
+<b>1978</b>—Pub. L. 95–625 authorized annual appropriations of $1,000,000 for studies for potential new Park System units and for monitoring the welfare of those resources and $1,500,000 for monitoring the welfare and integrity of the national landmarks.
 
 #### Cold War Sites Theme Study
 

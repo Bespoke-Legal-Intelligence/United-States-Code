@@ -10,5 +10,5 @@ Section is from part of section 16 of act Mar. 3, 1899, popularly known as the �
 
 #### Amendments
 
-1996—Pub. L. 104–303 substituted “407, 408, 409, 414, and 415” for “407, 408, and 409” and “of up to $25,000 per day” for “not exceeding twenty-five hundred dollars nor less than five hundred dollars”.
+<b>1996</b>—Pub. L. 104–303 substituted “407, 408, 409, 414, and 415” for “407, 408, and 409” and “of up to $25,000 per day” for “not exceeding twenty-five hundred dollars nor less than five hundred dollars”.
 

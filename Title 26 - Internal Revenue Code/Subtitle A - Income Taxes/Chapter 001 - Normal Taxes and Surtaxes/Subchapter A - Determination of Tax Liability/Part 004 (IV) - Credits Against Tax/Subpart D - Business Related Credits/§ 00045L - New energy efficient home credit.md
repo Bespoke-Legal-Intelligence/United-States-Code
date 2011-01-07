@@ -78,7 +78,7 @@ A dwelling unit meets the energy saving requirements of this subsection if such 
 
 #### (2) Form
 
-&emsp;Any certification described in subsection (c) shall be made in writing in a manner which specifies in readily verifiable fashion the energy efficient building envelope components and energy efficient heating or cooling equipment installed and their respective rated energy efficiency performance.
+&emsp;Any certification described in subsection (c) shall be made in writing in a manner whichspecifies in readily verifiable fashion the energy efficient building envelope components and energy efficient heating or cooling equipment installed and their respective rated energy efficiency performance.
 
 #### (e) Basis adjustment
 
@@ -90,9 +90,9 @@ For purposes of this section, expenditures taken into account under section 47 o
 
 #### (g) Termination
 
-This section shall not apply to any qualified new energy efficient home acquired after December 31, 2009.
+This section shall not apply to any qualified new energy efficient home acquired after December 31, 2011.
 
-(Added Pub. L. 109–58, title XIII, §1332(a), Aug. 8, 2005, 119 Stat. 1024; amended Pub. L. 109–432, div. A, title II, §205, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, §11(a)(7), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–343, div. B, title III, §304, Oct. 3, 2008, 122 Stat. 3845.)
+(Added Pub. L. 109–58, title XIII, §1332(a), Aug. 8, 2005, 119 Stat. 1024; amended Pub. L. 109–432, div. A, title II, §205, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, §11(a)(7), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–343, div. B, title III, §304, Oct. 3, 2008, 122 Stat. 3845; Pub. L. 111–312, title VII, §703(a), Dec. 17, 2010, 124 Stat. 3311.)
 
 #### References in Text
 
@@ -102,11 +102,17 @@ The National Appliance Energy Conservation Act of 1987, referred to in subsec. (
 
 #### Amendments
 
-2008—Subsec. (g). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2008”.
+<b>2010</b>—Subsec. (g). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”.
 
-2007—Subsec. (c)(2), (3). Pub. L. 110–172 substituted “part 3280” for “section 3280” in par. (2) and in introductory provisions of par. (3).
+<b>2008</b>—Subsec. (g). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2008”.
 
-2006—Subsec. (g). Pub. L. 109–432 substituted “2008” for “2007”.
+<b>2007</b>—Subsec. (c)(2), (3). Pub. L. 110–172 substituted “part 3280” for “section 3280” in par. (2) and in introductory provisions of par. (3).
+
+<b>2006</b>—Subsec. (g). Pub. L. 109–432 substituted “2008” for “2007”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–312, title VII, §703(b), Dec. 17, 2010, 124 Stat. 3311, provided that: “The amendment made by this section \[amending this section\] shall apply to homes acquired after December 31, 2009.”
 
 #### Effective Date
 

@@ -34,9 +34,11 @@ In this section:
 
 &emsp;&emsp;(G) ocean engineering;
 
-&emsp;&emsp;(H) environmental engineering; and
+&emsp;&emsp;(H) environmental engineering;
 
-&emsp;&emsp;(I) computer science, as computer science relates to a science described in this subsection.
+&emsp;&emsp;(I) computer science, as computer science relates to a science described in this subsection; and
+
+&emsp;&emsp;(J) hydrocarbon spill response and remediation.
 
 #### (c) Establishment
 
@@ -126,9 +128,15 @@ The Secretary shall establish, in accordance with this section, a program to exp
 
 &emsp;&emsp;(A) $3,500,000 for fiscal year 2008;
 
-&emsp;&emsp;(B) $6,500,000 for fiscal year 2009; and
+&emsp;&emsp;(B) $6,500,000 for fiscal year 2009;
 
-&emsp;&emsp;(C) $9,500,000 for fiscal year 2010.
+&emsp;&emsp;(C) $9,500,000 for fiscal year 2010;
+
+&emsp;&emsp;(D) $9,800,000 for fiscal year 2011;
+
+&emsp;&emsp;(E) $10,000,000 for fiscal year 2012; and
+
+&emsp;&emsp;(F) $10,400,000 for fiscal year 2013.
 
 #### (2) Hydrocarbon systems science competitiveness grants for institutions of higher education
 
@@ -140,5 +148,11 @@ The Secretary shall establish, in accordance with this section, a program to exp
 
 &emsp;&emsp;(C) $8,000,000 for fiscal year 2010.
 
-(Pub. L. 110–69, title V, §5005, Aug. 9, 2007, 121 Stat. 613.)
+(Pub. L. 110–69, title V, §5005, Aug. 9, 2007, 121 Stat. 613; Pub. L. 111–358, title IX, §902(b), Jan. 4, 2011, 124 Stat. 4044.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (b)(2)(J). Pub. L. 111–358, §902(b)(1), added subpar. (J).
+
+Subsec. (f)(1)(D) to (F). Pub. L. 111–358, §902(b)(2), added subpars. (D) to (F).
 

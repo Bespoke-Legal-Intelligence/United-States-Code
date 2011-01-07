@@ -4,3 +4,5 @@ There is authorized to be appropriated to the Administrator $8,000,000 for each 
 
 (Pub. L. 101–508, title VI, §6610, Nov. 5, 1990, 104 Stat. 1388–327.)
 
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
+

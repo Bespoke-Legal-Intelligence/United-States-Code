@@ -32,3 +32,5 @@ The Secretary shall make the study conducted under subsection (a)(1) of this sec
 
 (Pub. L. 89–10, title V, §5414, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1813.)
 
+<i><sup>1</sup></i><i> So in original. Probably should be “environmentally”.</i>
+

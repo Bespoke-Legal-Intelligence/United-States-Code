@@ -34,7 +34,7 @@ Source of Funds.—Amounts available from any of the following shall be availabl
 
 &emsp;(3) Research, development, test, and evaluation.
 
-&emsp;(4) The Support for United States Relocation to Guam Account established under section 2824 of the Military Construction Act for Fiscal Year 2009 <sup>1</sup> (division B of Public Law 110–417; 122 Stat. 4730; 10 U.S.C. 2687 note).
+&emsp;(4) The Support for United States Relocation to Guam Account established under section 2824 of the Military Construction Authorization Act for Fiscal Year 2009 (division B of Public Law 110–417; 122 Stat. 4730; 10 U.S.C. 2687 note).
 
 (e)
 
@@ -44,17 +44,17 @@ Secretary Concerned Defined.—In this section, the term “Secretary concerned�
 
 &emsp;(2) the Secretary of Defense with respect to a Defense Agency.
 
-(Added Pub. L. 110–417, \[div. A\], title III, §311(a), Oct. 14, 2008, 122 Stat. 4408; amended Pub. L. 111–84, div. A, title III, §311, Oct. 28, 2009, 123 Stat. 2247.)
+(Added Pub. L. 110–417, \[div. A\], title III, §311(a), Oct. 14, 2008, 122 Stat. 4408; amended Pub. L. 111–84, div. A, title III, §311, Oct. 28, 2009, 123 Stat. 2247; Pub. L. 111–383, div. A, title X, §1075(b)(45), Jan. 7, 2011, 124 Stat. 4371.)
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–84, §311(1), struck out “to carry out this section” after “appropriated funds” in introductory provisions.
+<b>2011</b>—Subsec. (d)(4). Pub. L. 111–383 inserted “Authorization” after “Military Construction”.
+
+<b>2009</b>—Subsec. (a). Pub. L. 111–84, §311(1), struck out “to carry out this section” after “appropriated funds” in introductory provisions.
 
 Subsecs. (d), (e). Pub. L. 111–84, §311(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 #### Effective Date
 
 Pub. L. 110–417, \[div. A\], title III, §311(c), Oct. 14, 2008, 122 Stat. 4409, provided that: “Section 2694c of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 2008, and only funds appropriated for fiscal years beginning after September 30, 2008, may be used to carry out such section.”
-
-<i><sup>1</sup></i><i> So in original. Probably should be “Military Construction Authorization Act for Fiscal Year 2009”.</i>
 

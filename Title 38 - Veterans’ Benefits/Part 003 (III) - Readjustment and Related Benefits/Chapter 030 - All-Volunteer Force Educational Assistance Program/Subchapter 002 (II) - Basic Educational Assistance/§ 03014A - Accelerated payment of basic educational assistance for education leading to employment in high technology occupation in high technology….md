@@ -40,7 +40,7 @@
 
 #### Amendments
 
-2002—Pub. L. 107–330, §308(b)(2)(A), amended section catchline generally. Prior to amendment, catchline read as follows: “Accelerated payment of basic educational assistance for education leading to employment in high technology industry”.
+<b>2002</b>—Pub. L. 107–330, §308(b)(2)(A), amended section catchline generally. Prior to amendment, catchline read as follows: “Accelerated payment of basic educational assistance for education leading to employment in high technology industry”.
 
 Subsec. (b)(1). Pub. L. 107–330, §308(b)(1), substituted “employment in a high technology occupation in a high technology industry” for “employment in a high technology industry”.
 

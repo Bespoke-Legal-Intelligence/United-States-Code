@@ -16,7 +16,7 @@ For the purposes of this subchapter:
 
 #### Amendments
 
-1966—Par. (3). Pub. L. 89–780, §2(1), inserted reference to the Chinese Communist regime in three places.
+<b>1966</b>—Par. (3). Pub. L. 89–780, §2(1), inserted reference to the Chinese Communist regime in three places.
 
 Par. (5). Pub. L. 89–780, §2(2), added par. (5).
 

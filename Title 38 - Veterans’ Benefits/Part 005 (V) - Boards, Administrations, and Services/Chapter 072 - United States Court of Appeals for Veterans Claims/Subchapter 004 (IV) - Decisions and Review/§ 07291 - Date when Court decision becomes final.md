@@ -2,7 +2,7 @@
 
 (a) A decision of the United States Court of Appeals for Veterans Claims shall become final upon the expiration of the time allowed for filing, under section 7292 of this title, a notice of appeal from such decision, if no such notice is duly filed within such time. If such a notice is filed within such time, such a decision shall become final—
 
-&emsp;(1) upon the expiration of the time allowed for filing a petition for certiorari with the Supreme Court of the United States, if the decision of the Court of Appeals for Veterans Claims is affirmed or the appeal is dismissed by the United States Court of Appeals for the Federal Circuit and no petition for certiorari is duly filed;
+&emsp;(1) upon the expiration of the time allowed for filing a petition for certiorari with the Supreme Court of the United States, if the decision of the Court of Appeals for Veterans Claims is affirmed or the appeal is dismissedby the United States Court of Appeals for the Federal Circuit and no petition for certiorari is duly filed;
 
 &emsp;(2) upon the denial of a petition for certiorari, if the decision of the Court of Appeals for Veterans Claims is affirmed or the appeal is dismissed by the United States Court of Appeals for the Federal Circuit; or
 
@@ -36,11 +36,11 @@
 
 #### Amendments
 
-1998—Pub. L. 105–368, §512(a)(2)(B), substituted “Court decision” for “United States Court of Veterans Appeals decision” in section catchline.
+<b>1998</b>—Pub. L. 105–368, §512(a)(2)(B), substituted “Court decision” for “United States Court of Veterans Appeals decision” in section catchline.
 
 Subsecs. (a) to (c). Pub. L. 105–368, §512(a)(1), substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals” wherever appearing.
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 4091 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 4091 of this title as this section.
 
 Subsec. (a). Pub. L. 102–40, §402(d)(1), substituted “7292” for “4092” in introductory provisions.
 

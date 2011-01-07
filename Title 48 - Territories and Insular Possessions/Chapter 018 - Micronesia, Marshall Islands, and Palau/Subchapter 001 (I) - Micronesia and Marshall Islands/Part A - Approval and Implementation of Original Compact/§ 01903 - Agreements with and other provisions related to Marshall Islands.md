@@ -12,7 +12,7 @@
 
 #### (B) Narcotics and control of illegal substances
 
-&emsp;&emsp;The United States and the Marshall Islands will take all reasonable and necessary steps, as mutually agreed, based upon consultations in which the Attorney General or other designated official of each Government participates, to prevent the use of the lands, waters, and facilities of the United States or the Marshall Islands for the purposes of cultivation of, production of, smuggling of, trafficking in, and abuse of any controlled substance as defined in section 802(6) of title 21 and Schedules I through V of Subchapter II of the Controlled Substances Act of the Marshall Islands, or for the distribution of any such substance to or from the Marshall Islands or to or from the United States or any of its territories or commonwealths.
+&emsp;&emsp;The United States and the Marshall Islands will take all reasonable and necessary steps, as mutually agreed, based upon consultations in which the Attorney General or other designated official of each Government participates, to prevent the use of the lands, waters, and facilities of the United States or the Marshall Islands for the purposes of cultivation of, production of, smuggling of, trafficking in, and abuse of any controlled substance as defined in section 802(6) of title 21 and Schedules I through V of SubchapterII of the Controlled Substances Act of the Marshall Islands, or for the distribution of any such substance to or from the Marshall Islands or to or from the United States or any of its territories or commonwealths.
 
 #### (C) Other criminal laws
 
@@ -28,7 +28,7 @@
 
 #### (4) Report
 
-&emsp;The President shall report annually to Congress on the implementation of this subsection. Such report shall provide statistical and other information about the incidence of crimes in the Marshall Islands which have animpact upon United States jurisdictions, and propose measures which the United States and the Marshall Islands should take in order better to prevent and prosecute violations of the laws of the United States and the Marshall Islands. The reports required under section 2291(e) <sup>1</sup> of title 22 shall include relevant information concerning the Marshall Islands.
+&emsp;The President shall report annually to Congress on the implementation of this subsection. Such report shall provide statistical and other information about the incidence of crimes in the Marshall Islands which have an impact upon United States jurisdictions, and propose measures which the United States and the Marshall Islands should take in order better to prevent and prosecute violations of the laws of the United States and the Marshall Islands. The reports required under section 2291(e) <sup>1</sup> of title 22 shall include relevant information concerning the Marshall Islands.
 
 #### (b) Economic development plans review process
 
@@ -64,7 +64,7 @@
 
 #### (1) Statement of policy
 
-&emsp;The Congress of the United States hereby declares that it is the policy of the United States that payment of funds by the Government of the Marshall Islands to the landowners of Kwajalein Atoll in accordance with the land use agreement dated October 19, 1982, and the related allocation agreements, is required in order to ensure that the Government of the United States will be able to fulfill its obligations and responsibilities under Title Three of the Compact and the subsidiary agreements concluded pursuant thereto.
+&emsp;The Congress of the United States hereby declares that it is the policy of the United Statesthat payment of funds by the Government of the Marshall Islands to the landowners of Kwajalein Atoll in accordance with the land use agreement dated October 19, 1982, and the related allocation agreements, is required in order to ensure that the Government of the United States will be able to fulfill its obligations and responsibilities under Title Three of the Compact and the subsidiary agreements concluded pursuant thereto.
 
 #### (2) Failure to pay
 
@@ -132,7 +132,7 @@ In approving the Compact, the Congress understands and intends that the peoples 
 
 #### (k) Enjebi Community Trust Fund
 
-Notwithstanding any other provision of law, the Secretary of the Treasury shall establish on the books of the Treasury of the United Statesa fund having the status specified in Article V of the subsidiary agreement for the implementation of Section 177 of the Compact, to be known as the “Enjebi Community Trust Fund” (hereafter in this subsection referred to as the “Fund”), and shall credit to the Fund the amount of $7,500,000. Such amount, which shall be ex gratia, shall be in addition to and not charged against any other funds provided for in the Compact and its subsidiary agreements, this joint resolution, or any other Act. Upon receipt by the President of the United States of the agreement described in this subsection, the Secretary of the Treasury, upon request of the Government of the Marshall Islands, shall transfer the Fund to the Government of the Marshall Islands, provided that the Government of the Marshall Islands agrees as follows:
+Notwithstanding any other provision of law, the Secretary of the Treasury shall establish on the books of the Treasury of the United States a fund having the status specified in Article V of the subsidiary agreement for the implementation of Section 177 of the Compact, to be known as the “Enjebi Community Trust Fund” (hereafter in this subsection referred to as the “Fund”), and shall credit to the Fund the amount of $7,500,000. Such amount, which shall be ex gratia, shall be in addition to and not charged against any other funds provided for in the Compact and its subsidiary agreements, this joint resolution, or any other Act. Upon receipt by the President of the United States of the agreement described in this subsection, the Secretary of the Treasury, upon request of the Government of the Marshall Islands, shall transfer the Fund to the Government of the Marshall Islands, provided that the Government of the Marshall Islands agrees as follows:
 
 #### (1) Enjebi trust agreement
 
@@ -156,7 +156,7 @@ Notwithstanding any other provision of law, the Secretary of the Treasury shall 
 
 #### (5) Interest from Fund
 
-&emsp;Prior to and during the distribution of the corpus of the Fund pursuant to paragraphs (3) and (4) of this subsection, the people of Enjebi may, if they so request, receive the interest earned by the Fund on no less frequent a basis than quarterly.
+&emsp;Prior to and during the distribution of the corpus of the Fund pursuant to paragraphs (3) and (4) of this subsection, the people of Enjebi may, if they so request, receive the interestearned by the Fund on no less frequent a basis than quarterly.
 
 #### (6) Disclaimer of liability
 
@@ -216,7 +216,7 @@ In accordance with section 233 of the Compact, the President of the United State
 
 #### (6) Cooperation by Marshall Islands
 
-&emsp;The Government of the Marshall Islands will cooperate fully with the Comptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller General to fully discharge his responsibilities under this joint resolution.
+&emsp;The Government of the Marshall Islands will cooperate fully with the Comptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller Generalto fully discharge his responsibilities under this joint resolution.
 
 (Pub. L. 99–239, title I, §103, Jan. 14, 1986, 99 Stat. 1778; Pub. L. 100–446, title I, §115, Sept. 27, 1988, 102 Stat. 1802; Pub. L. 102–247, title III, §304, Feb. 24, 1992, 106 Stat. 39; Pub. L. 105–209, §2, July 29, 1998, 112 Stat. 880.)
 
@@ -240,13 +240,13 @@ Section was formerly set out as a note under section 1681 of this title.
 
 #### Amendments
 
-1998—Subsec. (h)(2). Pub. L. 105–209, §2(1), substituted “fifteen years” for “ten years” in introductory provisions.
+<b>1998</b>—Subsec. (h)(2). Pub. L. 105–209, §2(1), substituted “fifteen years” for “ten years” in introductory provisions.
 
 Subsec. (h)(2)(B). Pub. L. 105–209, §2(2), inserted at end “The President shall ensure the assistance provided under these programs reflects the changes in the population since the inception of such programs.”
 
-1992—Subsec. (h)(2). Pub. L. 102–247 substituted “ten years” for “five years” in introductory provisions.
+<b>1992</b>—Subsec. (h)(2). Pub. L. 102–247 substituted “ten years” for “five years” in introductory provisions.
 
-1988—Subsec. (h)(2). Pub. L. 100–446, in introductory provisions, inserted “or by a grant to the Government of the Republic of the Marshall Islands which may further contract only with a United States firm or a Republic of the Marshall Islands firm, the owners, officers and majority of the employees of which are citizens of the United States or the Republic of the Marshall Islands” after “United States firm” and, in subpar. (B), inserted “, Rongelap, Utrik,” after “Bikini”.
+<b>1988</b>—Subsec. (h)(2). Pub. L. 100–446, in introductory provisions, inserted “or by a grant to the Government of the Republic of the Marshall Islands which may further contract only with a United States firm or a Republic of the Marshall Islands firm, the owners, officers and majority of the employees of which are citizens of the United States or the Republic of the Marshall Islands” after “United States firm” and, in subpar. (B), inserted “, Rongelap, Utrik,” after “Bikini”.
 
 #### Termination of Reporting Requirements
 
@@ -276,7 +276,7 @@ Pub. L. 95–134, title I, §106, as added by Pub. L. 96–205, title I, §102, 
 
 &emsp;“(3) an education and information program to enable the people of such atolls to more fully understand nuclear radiation and its effects;
 
-“(b)(1) The Secretary shall submit the plan to the Congress no later than January 1, 1981, together with his recommendations, if any, for further legislation. The plan shall set forth the specific agencies responsible for implementing the various elements of the plan. With respect to general health care the Secretary shall consider, and shall include in his recommendations, the feasibility of using the Public Health Service. After consultation with the Chairman of the National Academy of Sciences, the Secretary of Energy, the Secretary of Defense, and the Secretary of Health and Human Services, the Secretary shall establish a scientific advisory committee to review and evaluate the implementation of the plan and to make such recommendations for its improvement as such committee deems advisable.
+“(b)(1) The Secretary shall submit the plan to the Congress no later than January 1, 1981, together with his recommendations, if any, for further legislation. The plan shall set forth the specific agencies responsible for implementing the various elements of the plan. With respect to general health care the Secretary shall consider, and shall include in his recommendations, the feasibility of using the Public Health Service. After consultation with the Chairman of the National Academy of Sciences, the Secretary of Energy, the Secretary of Defense, and the Secretary of Health and Human Services, the Secretary shall establish ascientific advisory committee to review and evaluate the implementation of the plan and to make such recommendations for its improvement as such committee deems advisable.
 
 “(2) At the request of the Secretary, any Federal agency shall provide such information, personnel, facilities, logistical support, or other assistance as the Secretary deems necessary to carry out the functions of this program; the costs of all such assistance shall be reimbursed to the provider thereof out of the sums appropriated pursuant to this section.
 

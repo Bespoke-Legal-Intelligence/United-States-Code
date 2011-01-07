@@ -36,7 +36,17 @@ Data To Be Collected.—The data required to be collected under subsection (a) i
 
 (c)
 
-Inventory.—(1) Not later than the end of the third quarter of each fiscal year, the Secretary of Defense shall submit to Congress an annual inventory of the activities performed during the preceding fiscal year pursuant to contracts for services for or on behalf of the Department of Defense. The entry for an activityon an inventory under this subsection shall include, for the fiscal year covered by such entry, the following:
+Inventory.—(1) Not later than the end of the third quarter of each fiscal year, the Secretary of Defense shall submit to Congress an annual inventory of the activities performed during the preceding fiscal year pursuant to contracts for services for or on behalf of the Department of Defense. The guidance for compiling the inventory shall be issued by the Under Secretary of Defense for Personnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition, Technology, and Logistics, as follows:
+
+&emsp;(A) The Under Secretary of Defense for Personnel and Readiness, as supported by the Under Secretary of Defense (Comptroller), shall be responsible for developing guidance for—
+
+&emsp;&emsp;(i) the collection of data regarding functions and missions performed by contractors in a manner that is comparable to the manpower data elements used in inventories of functions performed by Department of Defense employees; and
+
+&emsp;&emsp;(ii) the calculation of contractor manpower equivalents in a manner that is comparable to the calculation of full-time equivalents for use in inventories of functions performed by Department of Defense employees.
+
+&emsp;(B) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall be responsible for developing guidance on other data elements and implementing procedures.
+
+(2) The entry for an activity on an inventory under this subsection shall include, for the fiscal year covered by such entry, the following:
 
 &emsp;(A) The functions and missions performed by the contractor.
 
@@ -46,13 +56,13 @@ Inventory.—(1) Not later than the end of the third quarter of each fiscal year
 
 &emsp;(D) The fiscal year for which the activity first appeared on an inventory under this section.
 
-&emsp;(E) The number of full-time contractor employees (or its equivalent) paid for the performance of the activity.
+&emsp;(E) The number of contractor employees, expressed as full-time equivalents for direct labor, using direct labor hours and associated cost data collected from contractors (except that estimates may be used where such data is not available and cannot reasonably be made available in a timely manner for the purpose of the inventory).
 
 &emsp;(F) A determination whether the contract pursuant to which the activity is performed is a personal services contract.
 
 &emsp;(G) A summary of the data required to be collected for the activity under subsection (a).
 
-(2) The inventory required under this subsection shall be submitted in unclassified form, but may include a classified annex.
+(3) The inventory required under this subsection shall be submitted in unclassified form, but may include a classified annex.
 
 (d)
 
@@ -108,13 +118,17 @@ Inherently governmental functions.—The term “inherently governmental functio
 
 Personal services contract.—The term “personal services contract” means a contract under which, as a result of its terms or conditions or the manner of its administration during performance, contractor personnel are subject to the relatively continuous supervision and control of one or more Government officers or employees, except that the giving of an order for a specific article or service, with the right to reject the finished product or result, is not the type of supervision or control that makes a contract a personal services contract.
 
-(Added Pub. L. 107–107, div. A, title VIII, §801(c), Dec. 28, 2001, 115 Stat. 1176; amended Pub. L. 110–181, div. A, title VIII, §807(a), Jan. 28, 2008, 122 Stat. 213; Pub. L. 111–84, div. A, title VIII, §803(b), Oct. 28, 2009, 123 Stat. 2402.)
+(Added Pub. L. 107–107, div. A, title VIII, §801(c), Dec. 28, 2001, 115 Stat. 1176; amended Pub. L. 110–181, div. A, title VIII, §807(a), Jan. 28, 2008, 122 Stat. 213; Pub. L. 111–84, div. A, title VIII, §803(b), Oct. 28, 2009, 123 Stat. 2402; Pub. L. 111–383, div. A, title III, §321, Jan. 7, 2011, 124 Stat. 4183.)
 
 #### Amendments
 
-2009—Subsec. (e)(4). Pub. L. 111–84 inserted “, including an enforcement mechanism and approval process,” after “plan”.
+<b>2011</b>—Subsec. (c). Pub. L. 111–383, §321(2) to (4), substituted “The guidance for compiling the inventory shall be issued by the Under Secretary of Defense for Personnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition, Technology, and Logistics, as follows:” for “The entry for an activity on an inventory under this subsection shall include, for the fiscal year covered by such entry, the following:” in par. (1), added new subpars. (A) and (B) to par. (1), inserted par. (2) designation and introductory provisions before former subpars. (A) to (G) of par. (1) thereby making them part of par. (2), added subpar. (E), and struck out former subpar. (E) which read as follows: “The number of full-time contractor employees (or its equivalent) paid for the performance of the activity.”
 
-2008—Subsecs. (c) to (g). Pub. L. 110–181, §807(a)(1), (2), added subsecs. (c) to (f), redesignated former subsec. (d) as (g), and struck out heading and text of former subsec. (c). Former text read as follows: “To the maximum extent practicable, a single data collection system shall be used to collect data under this section and information under section 2225 of this title.”
+Subsec. (c)(2), (3). Pub. L. 111–383, §321(1), redesignated par. (2) as (3).
+
+<b>2009</b>—Subsec. (e)(4). Pub. L. 111–84 inserted “, including an enforcement mechanism and approval process,” after “plan”.
+
+<b>2008</b>—Subsecs. (c) to (g). Pub. L. 110–181, §807(a)(1), (2), added subsecs. (c) to (f), redesignated former subsec. (d) as (g), and struck out heading and text of former subsec. (c). Former text read as follows: “To the maximum extent practicable, a single data collection system shall be used to collect data under this section and information under section 2225 of this title.”
 
 Subsec. (g)(3) to (5). Pub. L. 110–181, §807(a)(3), added pars. (3) to (5).
 

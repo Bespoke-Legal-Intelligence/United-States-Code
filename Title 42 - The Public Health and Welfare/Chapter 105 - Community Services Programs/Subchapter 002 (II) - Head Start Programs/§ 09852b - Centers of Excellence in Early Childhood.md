@@ -76,7 +76,7 @@ The Secretary shall, subject to the availability of funds under this section, es
 
 #### (5) Amount of bonus grant
 
-&emsp;The Secretary shall base the amount of funding provided through a bonus grant made under subsection (b) to a center of excellence on the number of children eligible for Head Start services in the community involved. The Secretary shall, subject to the availability of funding, make such a bonus grant in an amount of not less than $200,000 per year.
+&emsp;The Secretary shall base the amount of funding provided through a bonus grant madeunder subsection (b) to a center of excellence on the number of children eligible for Head Start services in the community involved. The Secretary shall, subject to the availability of funding, make such a bonus grant in an amount of not less than $200,000 per year.
 
 #### (d) Use of funds
 

@@ -16,5 +16,5 @@
 
 #### Amendments
 
-2001—Subsec. (a)(1). Pub. L. 107–107 substituted “hereinafter” for “hereafter”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–107 substituted “hereinafter” for “hereafter”.
 

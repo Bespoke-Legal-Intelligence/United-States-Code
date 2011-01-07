@@ -30,7 +30,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;(1) The outstanding balance in the account at the beginning of the statement period.
 
-&emsp;(2) The amount and date of each extension of credit during the period, and a brief identification, on or accompanying the statement of each extension of credit in a form prescribed by the Board sufficient to enable the obligor either to identify the transaction or to relate it to copies of sales vouchers or similar instruments previously furnished, except that a creditor's failure to disclose such informationin accordance with this paragraph shall not be deemed a failure to comply with this part or this subchapter if (A) the creditor maintains procedures reasonably adapted to procure and provide such information, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section 1666 of this title. In lieu of complying with the requirements of the previous sentence, in the case of any transaction in which the creditor and seller are the same person, as defined by the Board, and such person's open end credit plan has fewer than 15,000 accounts, the creditor may elect to provide only the amount and date of each extension of credit during the period and the seller's name and location where the transaction took place if (A) a brief identification of the transaction has been previously furnished, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section 1666 of this title.
+&emsp;(2) The amount and date of each extension of credit during the period, and a brief identification, on or accompanying the statement of each extension of credit in a form prescribed by the Board sufficient to enable the obligor either to identify the transaction or to relate it to copies of sales vouchers or similar instruments previously furnished, except that a creditor's failure to disclose such information in accordance with this paragraph shall not be deemed a failure to comply with this part or this subchapter if (A) the creditor maintains procedures reasonably adapted to procure andprovide such information, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section 1666 of this title. In lieu of complying with the requirements of the previous sentence, in the case of any transaction in which the creditor and seller are the same person, as defined by the Board, and such person's open end credit plan has fewer than 15,000 accounts, the creditor may elect to provide only the amount and date of each extension of credit during the period and the seller's name and location where the transaction took place if (A) a brief identification of the transaction has been previously furnished, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section 1666 of this title.
 
 &emsp;(3) The total amount credited to the account during the period.
 
@@ -78,7 +78,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;(F) In prescribing the form of the table under subparagraph (E), the Board shall require that—
 
-&emsp;&emsp;(i) all of the information in the table, and not just a reference to the table, be placed on the billing statement, as required by this paragraph; and
+&emsp;&emsp;(i) all of the information in the table, and not just a reference to the table, be placedon the billing statement, as required by this paragraph; and
 
 &emsp;&emsp;(ii) the items required to be included in the table shall be listed in the order in which such items are set forth in subparagraph (B).
 
@@ -226,7 +226,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (E) Prompt response to information requests
 
-&emsp;&emsp;Upon receipt of a request for any of the information referred to in subparagraph (B), (C), or (D), the card issuer or the agent of such issuer shall promptly disclose all of the information described in paragraph (1).
+&emsp;&emsp;Upon receipt of a request for any of the information referred to in subparagraph (B), (C), or (D), the card issuer or the agent ofsuch issuer shall promptly disclose all of the information described in paragraph (1).
 
 #### (4) Charge card applications and solicitations
 
@@ -296,7 +296,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (5) Regulatory authority of the Board
 
-&emsp;The Board may, by regulation, require the disclosure of information in addition to that otherwise required by this subsection or subsection (d) of this section, and modify any disclosure of information required by this subsection or subsection (d) of this section, in any application to open a credit card account for any person under an open end consumer credit plan or any application to open a charge card account for any person, or a solicitation to open any such account without requiring anapplication, if the Board determines that such action is necessary to carry out the purposes of, or prevent evasions of, any paragraph of this subsection.
+&emsp;The Board may, by regulation, require the disclosure of information in addition to that otherwise required by this subsection or subsection (d) of this section, and modify any disclosure of information required by this subsection or subsection (d) of this section, in any application to open a credit card account for any person under an open end consumer credit plan or any application to open a charge card account for any person, or a solicitation to open any such account without requiring an application, if the Board determines that such action is necessary to carry out the purposes of, or prevent evasions of, any paragraph of this subsection.
 
 #### (6) Additional notice concerning “introductory rates”
 
@@ -368,7 +368,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (A) Prohibition on issuance
 
-&emsp;&emsp;No credit card may be issued to, or open end consumer credit plan established by or on behalf of, a consumer who has not attained the age of 21, unless the consumer has submitted a written application to the card issuer that meets the requirements of subparagraph (B).
+&emsp;&emsp;No credit card may be issued to, or open end consumer credit plan established by oron behalf of, a consumer who has not attained the age of 21, unless the consumer has submitted a written application to the card issuer that meets the requirements of subparagraph (B).
 
 #### (B) Application requirements
 
@@ -502,7 +502,7 @@ A creditor of an account under an open end consumer credit plan may not terminat
 
 #### (6) Rule of construction
 
-&emsp;Nothing in this subsection shall be construed to prohibit a creditor from completingan over-the-limit transaction, provided that a consumer who has not made a valid election under paragraph (1) is not charged an over-the-limit fee for such transaction.
+&emsp;Nothing in this subsection shall be construed to prohibit a creditor from completing an over-the-limit transaction, provided that a consumer who has not made a valid election under paragraph (1) is not charged an over-the-limit fee for such transaction.
 
 #### (7) Restriction on fees charged for an over-the-limit transaction
 
@@ -596,11 +596,15 @@ No increase may be made in the amount of credit authorized to be extended under 
 
 &emsp;The Board shall submit to the Congress, and make available to the public, an annual report that lists the information concerning credit card agreements submitted to the Board under paragraph (2) by each institution of higher education, alumni organization, or foundation.
 
-(Pub. L. 90–321, title I, §127, May 29, 1968, 82 Stat. 153; Pub. L. 93–495, title III, §§304, 305, title IV, §§411, 415, Oct. 28, 1974, 88 Stat. 1511, 1519, 1521; Pub. L. 96–221, title VI, §613(a)–(e), Mar. 31, 1980, 94 Stat. 176, 177; Pub. L. 100–583, §§2(a), 6, Nov. 3, 1988, 102 Stat. 2960, 2968; Pub. L. 100–709, §2(b), Nov. 23, 1988, 102 Stat. 4729; Pub. L. 109–8, title XIII, §§1301(a), 1303(a), 1304(a), 1305(a), 1306(a), Apr. 20, 2005, 119 Stat. 204, 209, 211, 212; Pub. L. 111–24, title I, §§101(a)(1), 102(a), 103, 105, 106(a), title II, §§201(a), 202, 203, title III, §§301, 303, 305(a), May 22, 2009, 123 Stat. 1735, 1738, 1741–1743, 1745–1749.)
+(Pub. L. 90–321, title I, §127, May 29, 1968, 82 Stat. 153; Pub. L. 93–495, title III, §§304, 305, title IV, §§411, 415, Oct. 28, 1974, 88 Stat. 1511, 1519, 1521; Pub. L. 96–221, title VI, §613(a)–(e), Mar. 31, 1980, 94 Stat. 176, 177; Pub. L. 100–583, §§2(a), 6, Nov. 3, 1988, 102 Stat. 2960, 2968; Pub. L. 100–709, §2(b), Nov. 23, 1988, 102 Stat. 4729; Pub. L. 109–8, title XIII, §§1301(a), 1303(a), 1304(a), 1305(a), 1306(a), Apr. 20, 2005, 119 Stat. 204, 209, 211, 212; Pub. L. 111–24, title I, §§101(a)(1), 102(a), 103, 105, 106(a), title II, §§201(a), 202, 203, title III, §§301, 303, 305(a), May 22, 2009, 123 Stat. 1735, 1738, 1741–1743, 1745–1749; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
-2009—Subsec. (b)(11). Pub. L. 111–24, §201(a), amended par. (11) generally, revising the minimum payment disclosures required from creditors.
+<b>2009</b>—Subsec. (b)(11). Pub. L. 111–24, §201(a), amended par. (11) generally, revising the minimum payment disclosures required from creditors.
 
 Subsec. (b)(12). Pub. L. 111–24, §202, amended par. (12) generally. Prior to amendment, par. (12) read as follows: “If a late payment fee is to be imposed due to the failure of the obligor to make payment on or before a required payment due date, the following shall be stated clearly and conspicuously on the billing statement:
 
@@ -628,7 +632,7 @@ Subsec. (p). Pub. L. 111–24, §303, added subsec. (p).
 
 Subsec. (r). Pub. L. 111–24, §305(a), added subsec. (r).
 
-2005—Subsec. (b)(11). Pub. L. 109–8, §1301(a), added par. (11).
+<b>2005</b>—Subsec. (b)(11). Pub. L. 109–8, §1301(a), added par. (11).
 
 Subsec. (b)(12). Pub. L. 109–8, §1305(a), added par. (12).
 
@@ -638,13 +642,13 @@ Subsec. (c)(7). Pub. L. 109–8, §1304(a), added par. (7).
 
 Subsec. (h). Pub. L. 109–8, §1306(a), added subsec. (h).
 
-1988—Subsec. (a)(8). Pub. L. 100–709 added par. (8).
+<b>1988</b>—Subsec. (a)(8). Pub. L. 100–709 added par. (8).
 
 Subsecs. (c) to (f). Pub. L. 100–583, §2(a), added subsecs. (c) to (f).
 
 Subsec. (g). Pub. L. 100–583, §6, added subsec. (g).
 
-1980—Subsec. (a)(1). Pub. L. 96–221, §613(a)(1), inserted provisions requiring the creditor to disclose that no time period is provided.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–221, §613(a)(1), inserted provisions requiring the creditor to disclose that no time period is provided.
 
 Subsec. (a)(5). Pub. L. 96–221, §613(a)(2), (3), redesignated par. (6) as (5) and inserted provisions relating to identification of other charges, and regulations by the Board. Former par. (5), relating to elective rights of the creditor, was struck out.
 
@@ -658,7 +662,7 @@ Subsec. (b)(7) to (11). Pub. L. 96–221, §613(c), struck out par. (7) which re
 
 Subsec. (c). Pub. L. 96–221, §613(e), struck out subsec. (c) which related to the time for making disclosures with respect to open end consumer credit plans having an outstanding balance of more than $1 at or after the close of the first full billing cycle.
 
-1974—Subsec. (a)(1). Pub. L. 93–495, §415(1), inserted exception relating to nonimposition of a finance charge at the election of the creditor and without disclosure.
+<b>1974</b>—Subsec. (a)(1). Pub. L. 93–495, §415(1), inserted exception relating to nonimposition of a finance charge at the election of the creditor and without disclosure.
 
 Subsec. (a)(8). Pub. L. 93–495, §304(a), added par. (8).
 
@@ -669,6 +673,10 @@ Subsec. (b)(10). Pub. L. 93–495, §415(2), inserted exception relating to noni
 Subsec. (b)(11). Pub. L. 93–495, §305, added par. (11).
 
 Subsec. (c). Pub. L. 93–495, §304(b), substituted provisions relating to disclosure requirements in a notice mailed or delivered to the obligor not later than the time of mailing the next statement required by subsec. (b) of this section, for provisions relating to disclosure requirements in a notice mailed or delivered to the obligor not later than thirty days after July 1, 1969.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2009 Amendment
 
@@ -736,7 +744,7 @@ In general.—Not later than 6 months after the date of enactment of this Act \[
 
 Approved agencies.—Guidelines issued under this subsection shall ensure that referrals provided by the toll-free number referred to in paragraph (1) include only those nonprofit budget and credit counseling agencies approved by a United States bankruptcy trustee pursuant to section 111(a) of title 11, United States Code.”
 
-Pub. L. 109–8, title XIII, §1301(b)(1), Apr. 20, 2005, 119 Stat. 207, provided that: “The Board of Governors of the Federal Reserve System (hereafter in this title \[amending this section and sections 1637a, 1638, 1664, and 1665b of this title and enacting provisions set out as notes under this section and section 1637a of this title\] referred to as the ‘Board’) shall promulgate regulations implementing the requirements of section 127(b)(11) of the Truth in Lending Act \[subsec. (b)(11) of this section\], as added by subsection (a) of this section.”
+Pub. L. 109–8, title XIII, §1301(b)(1), Apr. 20, 2005, 119 Stat. 207, provided that: “The Board of Governors of the Federal Reserve System (hereafter in this title \[amending this section and sections 1637a, 1638, 1664, and 1665b of this title and enacting provisions set out as notes under this section and section 1637a of this title\] referred to as the ‘Board’) shall promulgate regulationsimplementing the requirements of section 127(b)(11) of the Truth in Lending Act \[subsec. (b)(11) of this section\], as added by subsection (a) of this section.”
 
 Pub. L. 109–8, title XIII, §1303(b)(1), Apr. 20, 2005, 119 Stat. 211, provided that: “The Board \[of Governors of the Federal Reserve System\] shall promulgate regulations implementing the requirements of section 127(c)(6) of the Truth in Lending Act \[subsec. (c)(6) of this section\], as added by this section.”
 

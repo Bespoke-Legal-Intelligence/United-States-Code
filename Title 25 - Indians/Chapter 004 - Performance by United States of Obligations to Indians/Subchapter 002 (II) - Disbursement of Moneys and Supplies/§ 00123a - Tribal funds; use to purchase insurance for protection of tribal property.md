@@ -6,5 +6,5 @@ On and after April 13, 1926, the funds of any tribe of Indians under the control
 
 #### Amendments
 
-1946—Act Aug. 2, 1946, provided for use of funds to pay premiums on personal and property damage insurance.
+<b>1946</b>—Act Aug. 2, 1946, provided for use of funds to pay premiums on personal and property damage insurance.
 

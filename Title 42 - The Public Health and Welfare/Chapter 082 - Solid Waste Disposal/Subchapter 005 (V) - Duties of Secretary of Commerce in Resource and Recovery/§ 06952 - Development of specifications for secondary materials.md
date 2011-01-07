@@ -6,7 +6,7 @@ The Secretary of Commerce, acting through the National Institute of Standards an
 
 #### Amendments
 
-1988—Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
+<b>1988</b>—Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
-1980—Pub. L. 96–482 substituted “September 1, 1979” for “October 21, 1976”.
+<b>1980</b>—Pub. L. 96–482 substituted “September 1, 1979” for “October 21, 1976”.
 

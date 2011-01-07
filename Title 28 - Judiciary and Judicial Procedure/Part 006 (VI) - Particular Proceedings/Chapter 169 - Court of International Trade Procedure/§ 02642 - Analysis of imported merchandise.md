@@ -14,7 +14,7 @@ A prior section 2642, act May 24, 1949, ch. 139, §123, 63 Stat. 106, authorized
 
 #### Amendments
 
-1993—Pub. L. 103–182 inserted before period at end “or laboratories accredited by the Customs Service under section 499(b) of the Tariff Act of 1930”.
+<b>1993</b>—Pub. L. 103–182 inserted before period at end “or laboratories accredited by the Customs Service under section 499(b) of the Tariff Act of 1930”.
 
 #### Application of 1993 Amendment
 
@@ -22,5 +22,5 @@ For purposes of applying amendment by Pub. L. 103–182, any decision or order o
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

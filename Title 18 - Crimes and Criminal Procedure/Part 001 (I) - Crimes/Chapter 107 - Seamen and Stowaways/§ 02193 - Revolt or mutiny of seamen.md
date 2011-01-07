@@ -1,6 +1,6 @@
 ### §2193. Revolt or mutiny of seamen
 
-Whoever, being of the crew of a vessel of the United States, on the high seas, or on any other waters within the admiralty and maritime jurisdiction of the United States, unlawfully and with force, or by fraud, or intimidation, usurps the command of such vessel from the master or other lawful officer in command thereof, or deprives him of authority and command on board, or resists or prevents him in the free and lawful exercise thereof, or transfers such authority and command to another not lawfully entitled thereto, is guilty of a revolt and mutiny, and shall be fined under this title or imprisoned not more than ten years, or both.
+Whoever, being of the crew of a vessel of the United States, on the high seas, or on any otherwaters within the admiralty and maritime jurisdiction of the United States, unlawfully and with force, or by fraud, or intimidation, usurps the command of such vessel from the master or other lawful officer in command thereof, or deprives him of authority and command on board, or resists or prevents him in the free and lawful exercise thereof, or transfers such authority and command to another not lawfully entitled thereto, is guilty of a revolt and mutiny, and shall be fined under this title or imprisoned not more than ten years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 800; Pub. L. 103–322, title XXXIII, §330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
 
@@ -12,5 +12,5 @@ Punishment provision for mandatory fine and imprisonment was rephrased in the al
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000”.
 

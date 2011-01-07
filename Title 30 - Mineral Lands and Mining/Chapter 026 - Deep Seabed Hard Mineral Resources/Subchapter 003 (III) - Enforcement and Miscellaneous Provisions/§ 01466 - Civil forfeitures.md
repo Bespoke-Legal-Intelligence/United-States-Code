@@ -22,7 +22,3 @@ For purposes of this section, it shall be a rebuttable presumption that all hard
 
 (Pub. L. 96–283, title III, §306, June 28, 1980, 94 Stat. 580.)
 
-#### References in Text
-
-The customs laws, referred to in subsec. (a), are classified generally to Title 19, Customs Duties.
-

@@ -24,5 +24,5 @@ Section was enacted as part of the Trafficking Victims Protection Reauthorizatio
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–457 substituted “$8,000,000 for each of the fiscal years 2008 through 2011” for “$10,000,000 for each of the fiscal years 2006 and 2007”.
+<b>2008</b>—Subsec. (d). Pub. L. 110–457 substituted “$8,000,000 for each of the fiscal years 2008 through 2011” for “$10,000,000 for each of the fiscal years 2006 and 2007”.
 

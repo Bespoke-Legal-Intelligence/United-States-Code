@@ -6,7 +6,7 @@ The chief clerk of the Department of the Interior on and after July 3, 1926, sha
 
 #### References in Text
 
-Section 3683 of the Revised Statutes, referred to in text, was classified to section 675 of former Title 31,Money and Finance, and repealed by act Sept. 12, 1950, ch. 946, title III, §301(76), 64 Stat. 843.
+Section 3683 of the Revised Statutes, referred to in text, was classified to section 675 of former Title 31, Money and Finance, and repealed by act Sept. 12, 1950, ch. 946, title III, §301(76), 64 Stat. 843.
 
 #### Codification
 

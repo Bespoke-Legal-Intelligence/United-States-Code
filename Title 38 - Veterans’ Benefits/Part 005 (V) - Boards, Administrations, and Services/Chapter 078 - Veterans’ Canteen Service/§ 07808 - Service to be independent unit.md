@@ -6,9 +6,9 @@ It is the purpose of this chapter that, under control and supervision of the Sec
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 4208 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 4208 of this title as this section.
 
 Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Department” for “Veterans’ Administration”.
 
-1982—Pub. L. 97–295 substituted “provided in this chapter” for “herein provided”.
+<b>1982</b>—Pub. L. 97–295 substituted “provided in this chapter” for “herein provided”.
 

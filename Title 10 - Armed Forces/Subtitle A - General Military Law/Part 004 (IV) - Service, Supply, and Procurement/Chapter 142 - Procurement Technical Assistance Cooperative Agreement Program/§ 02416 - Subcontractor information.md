@@ -22,7 +22,7 @@ A prior section 2416 was renumbered section 2419 of this title.
 
 #### Amendments
 
-2004—Subsec. (d). Pub. L. 108–375 substituted “$1,000,000” for “$500,000”.
+<b>2004</b>—Subsec. (d). Pub. L. 108–375 substituted “$1,000,000” for “$500,000”.
 
 #### Effective Date
 

@@ -20,7 +20,7 @@ For purposes of this section—
 
 #### (1) Entity
 
-&emsp;The term “entity” means any corporation, partnership, trust, association, estate, or other form of carrying on a business or activity.
+&emsp;The term “entity” means any corporation, partnership, trust, association, estate, orother form of carrying on a business or activity.
 
 #### (2) Stapled entities
 
@@ -54,7 +54,7 @@ Nothing in section 894 or 7852(d) or in any other provision of law shall be cons
 
 #### Amendments
 
-1986—Subsec. (b). Pub. L. 99–514, §1810(j)(1), inserted “and regulations providing that any tax imposed on the foreign corporation referred to in subsection (a)(1) may, if not paid by such corporation, be collected from the domestic corporation referred to in such subsection or the shareholders of such foreign corporation”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514, §1810(j)(1), inserted “and regulations providing that any tax imposed on the foreign corporation referred to in subsection (a)(1) may, if not paid by such corporation, be collected from the domestic corporation referred to in such subsection or the shareholders of such foreign corporation”.
 
 Subsec. (e). Pub. L. 99–514, §1810(j)(2), added subsec. (e).
 
@@ -236,7 +236,7 @@ In general.—Except as provided in subparagraph (B), any interest in real prope
 
 &emsp;&emsp;“(B)
 
-Exception for interests in real property held on march 26, 1998, etc.—In the case of an entity which was a 10-percent subsidiary entity of an exempt REIT or stapled entity on March 26, 1998, and at all times thereafter, an interest in real property held by such subsidiary entity shall be treated as aqualified real property interest if such interest would be so treated if held or acquired directly by the exempt REIT or the stapled entity.
+Exception for interests in real property held on march 26, 1998, etc.—In the case of an entity which was a 10-percent subsidiary entity of an exempt REIT or stapled entity on March 26, 1998, and at all times thereafter, an interest in real property held by such subsidiary entity shall be treated as a qualified real property interest if such interest would be so treated if held or acquired directly by the exempt REIT or the stapled entity.
 
 &emsp;“(3)
 
@@ -248,7 +248,7 @@ Special rules for determining ownership.—For purposes of this subsection—
 
 &emsp;&emsp;“(A) percentage ownership of an entity shall be determined in accordance with subsection (e)(4);
 
-&emsp;&emsp;“(B) interests in the entity which are acquired by an exempt REIT or a member of the stapled REIT group in any acquisition described in an agreement, announcement, or filing described in subsection (b)(2) shall be treated as acquired on March 26, 1998; and
+&emsp;&emsp;“(B) interests in the entity which are acquired by an exempt REIT or a member of the stapled REITgroup in any acquisition described in an agreement, announcement, or filing described in subsection (b)(2) shall be treated as acquired on March 26, 1998; and
 
 &emsp;&emsp;“(C) except as provided in guidance prescribed by the Secretary, any change in proportionate ownership which is attributable solely to fluctuations in the relative fair market values of different classes of stock shall not be taken into account.
 

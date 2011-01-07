@@ -24,7 +24,7 @@ No deduction shall be allowed under this section with respect to any payment if,
 
 #### Amendments
 
-1984—Pub. L. 98–369 amended section generally, substituting present provisions for provisions which had declared in: subsec. (a) a general rule as to allowance of deduction for amounts includible under section 71 in the gross income of the wife, payment of which was made within husband's taxable year, and prohibited any deduction with respect to any payment where by reason of section 71(d) or 682 the amount thereof was not includible in husband's gross income; and subsec. (b) cross reference to definitions of husband and wife in section 7701(a)(17).
+<b>1984</b>—Pub. L. 98–369 amended section generally, substituting present provisions for provisions which had declared in: subsec. (a) a general rule as to allowance of deduction for amounts includible under section 71 in the gross income of the wife, payment of which was made within husband's taxable year, and prohibited any deduction with respect to any payment where by reason of section 71(d) or 682 the amount thereof was not includible in husband's gross income; and subsec. (b) cross reference to definitions of husband and wife in section 7701(a)(17).
 
 #### Effective Date of 1984 Amendment
 

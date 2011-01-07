@@ -10,13 +10,13 @@ Notwithstanding any other prohibition of Federal law, no funds provided to the C
 
 #### (c) Prohibition on requiring Federal approval or certification standards
 
-Notwithstanding any other provision of Federal law, not <sup>1</sup> State shall be required to haveacademic content or student academic achievement standards approved or certified by the Federal Government, in order to receive assistance under this chapter.
+Notwithstanding any other provision of Federal law, not <sup>1</sup> State shall be required to have academic content or student academic achievement standards approved or certified by the Federal Government, in order to receive assistance under this chapter.
 
 (Pub. L. 101–610, title I, §189C, as added Pub. L. 111–13, title I, §1612, Apr. 21, 2009, 123 Stat. 1540.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
 #### Effective Date
 

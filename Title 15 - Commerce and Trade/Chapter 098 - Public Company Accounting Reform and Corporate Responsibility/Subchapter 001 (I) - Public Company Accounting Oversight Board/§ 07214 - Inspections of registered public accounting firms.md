@@ -2,7 +2,19 @@
 
 #### (a) In general
 
-The Board shall conduct a continuing program of inspections to assess the degree of compliance of each registered public accounting firm and associated persons of that firm with this Act, the rules of the Board, the rules of the Commission, or professional standards, in connection with its performance of audits, issuance of audit reports, and related matters involving issuers.
+#### (1) Inspections generally
+
+&emsp;The Board shall conduct a continuing program of inspections to assess the degree of compliance of each registered public accounting firm and associated persons of that firm with this Act, the rules of the Board, the rules of the Commission, or professional standards, in connection with its performance of audits,issuance of audit reports, and related matters involving issuers.
+
+#### (2) Inspections of audit reports for brokers and dealers
+
+&emsp;(A) The Board may, by rule, conduct and require a program of inspection in accordance with paragraph (1), on a basis to be determined by the Board, of registered public accounting firms that provide one or more audit reports for a broker or dealer. The Board, in establishing such a program, may allow for differentiation among classes of brokers and dealers, as appropriate.
+
+&emsp;(B) If the Board determines to establish a program of inspection pursuant to subparagraph (A), the Board shall consider in establishing any inspection schedules whether differing schedules would be appropriate with respect to registered public accounting firms that issue audit reports only for one or more brokers or dealers that do not receive, handle, or hold customer securities or cash or are not a member of the Securities Investor Protection Corporation.
+
+&emsp;(C) Any rules of the Board pursuant to this paragraph shall be subject to prior approval by the Commission pursuant to section 7217(b) of this title before the rules become effective, including an opportunity for public notice and comment.
+
+&emsp;(D) Notwithstanding anything to the contrary in section 7212 of this title, a public accounting firm shall not be required to register with the Board if the public accounting firm is exempt from the inspection program which may be established by the Board under subparagraph (A).
 
 #### (b) Inspection frequency
 
@@ -52,7 +64,7 @@ A written report of the findings of the Board for each inspection under this sec
 
 &emsp;(1) transmitted, in appropriate detail, to the Commission and each appropriate State regulatory authority, accompanied by any letter or comments by the Board or the inspector, and any letter of response from the registered public accounting firm; and
 
-&emsp;(2) made available in appropriate detail to the public (subject to section 7215(b)(5)(A) of this title, and to the protection of such confidential and proprietary information as the Board may determine to be appropriate, or as may be required by law), except that no portions of the inspection report that deal withcriticisms of or potential defects in the quality control systems of the firm under inspection shall be made public if those criticisms or defects are addressed by the firm, to the satisfaction of the Board, not later than 12 months after the date of the inspection report.
+&emsp;(2) made available in appropriate detail to the public (subject to section 7215(b)(5)(A) of this title, and to the protection of such confidential and proprietary information as the Board may determine to be appropriate, or as may be required by law), except that no portions of the inspection report that deal with criticisms of or potential defects in the quality control systems of the firm under inspection shall be made public if those criticisms or defects are addressed by the firm, to the satisfaction of the Board, not later than 12 months after the date of the inspection report.
 
 #### (h) Interim Commission review
 
@@ -72,9 +84,17 @@ A written report of the findings of the Board for each inspection under this sec
 
 &emsp;Review under paragraph (1) may be sought during the 30-day period following the date of the event giving rise to the review under subparagraph (A) or (B) of paragraph (1).
 
-(Pub. L. 107–204, title I, §104, July 30, 2002, 116 Stat. 757.)
+(Pub. L. 107–204, title I, §104, July 30, 2002, 116 Stat. 757; Pub. L. 111–203, title IX, §982(e)(1), July 21, 2010, 124 Stat. 1929.)
 
 #### References in Text
 
-This Act, referred to in subsecs. (a), (b), and (c), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a)(1), (b), and (c), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (a). Pub. L. 111–203 designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 

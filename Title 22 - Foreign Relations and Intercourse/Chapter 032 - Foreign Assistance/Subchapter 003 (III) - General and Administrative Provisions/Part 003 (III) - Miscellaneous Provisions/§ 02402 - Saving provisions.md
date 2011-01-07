@@ -24,7 +24,7 @@ The Foreign Assistance Act of 1969, referred to in subsecs. (a) to (c), is Pub. 
 
 #### Amendments
 
-1969—Subsec. (a). Pub. L. 91–175 inserted “and Foreign Assistance Act of 1969” after “section 642(a),” and “section 642(a)(2)”.
+<b>1969</b>—Subsec. (a). Pub. L. 91–175 inserted “and Foreign Assistance Act of 1969” after “section 642(a),” and “section 642(a)(2)”.
 
-1962—Subsec. (d). Pub. L. 87–565 repealed subsec. (d) which provided that nothing in the chapter was to affect the Peace Corps pending enactment of the Peace Corps Act or adjournment of the first session of the 87th Congress, whichever was earlier.
+<b>1962</b>—Subsec. (d). Pub. L. 87–565 repealed subsec. (d) which provided that nothing in the chapter was to affect the Peace Corps pending enactment of the Peace Corps Act or adjournment of the first session of the 87th Congress, whichever was earlier.
 

@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) gross receipts from the sale, exchange, or other disposition of qualified export assets (other than export property),
 
-&emsp;&emsp;(E) dividends (or amounts includible in gross income under section 951) with respectto stock of a related foreign export corporation (as defined in subsection (e)),
+&emsp;&emsp;(E) dividends (or amounts includible in gross income under section 951) with respect to stock of a related foreign export corporation (as defined in subsection (e)),
 
 &emsp;&emsp;(F) interest on any obligation which is a qualified export asset,
 
@@ -110,7 +110,7 @@ For purposes of this part, the qualified export assets of a corporation are—
 
 #### (2) Limitation
 
-&emsp;An obligation shall be treated as arising out of a producer's loan only to the extent that such loan, when added to the unpaid balance of all other producer's loans to the borrower outstanding at the time such loan is made, does not exceed an amount determined by multiplying the sum of—
+&emsp;An obligation shall be treated as arising out of a producer's loan only to the extent that such loan, when added to the unpaid balance of all other producer's loans to the borrower outstanding at the time such loan is made, doesnot exceed an amount determined by multiplying the sum of—
 
 &emsp;&emsp;(A) the amount of the borrower's adjusted basis determined at the beginning of the borrower's taxable year in which the loan is made, in plant, machinery, and equipment, and supporting production facilities in the United States;
 
@@ -168,7 +168,7 @@ In determining whether a corporation (hereinafter in this subsection referred to
 
 &emsp;A foreign corporation is a related foreign export corporation if—
 
-&emsp;&emsp;(A) stock possessing more than 50 percent of the total combined voting power of all classes of stock entitled to vote is owned directly by the domestic corporation,
+&emsp;&emsp;(A) stock possessing more than 50 percent of the total combined voting power of allclasses of stock entitled to vote is owned directly by the domestic corporation,
 
 &emsp;&emsp;(B) 95 percent or more of such foreign corporation's gross receipts for its taxable year ending with or within the taxable year of the domestic corporation consists of qualified export receipts described in subparagraphs (A), (B), (C), and (D) of subsection (a)(1) and interest on any obligation described in paragraphs (3) and (4) of subsection (b), and
 
@@ -206,17 +206,17 @@ Sections 3(2)(C) and 7(a) of the Export Administration Act of 1979, referred to 
 
 #### Amendments
 
-1993—Subsec. (c)(2). Pub. L. 103–66, §13239(b)(2), inserted at end “For purposes of subparagraph (E), theterm ‘unprocessed timber’ means any log, cant, or similar form of timber.”
+<b>1993</b>—Subsec. (c)(2). Pub. L. 103–66, §13239(b)(2), inserted at end “For purposes of subparagraph (E), the term ‘unprocessed timber’ means any log, cant, or similar form of timber.”
 
 Subsec. (c)(2)(E). Pub. L. 103–66, §13239(b)(1), added subpar. (E).
 
-1984—Subsec. (a)(3). Pub. L. 98–369 substituted “the term ‘controlled group of corporations’ by” for “such term by”.
+<b>1984</b>—Subsec. (a)(3). Pub. L. 98–369 substituted “the term ‘controlled group of corporations’ by” for “such term by”.
 
-1979—Subsec. (c)(1). Pub. L. 96–39 substituted “of the Tariff Act of 1930 (19 U.S.C. 1401a)” for “402a of the Tariff Act of 1930 (19 U.S.C., sec. 1401a or 1402)”.
+<b>1979</b>—Subsec. (c)(1). Pub. L. 96–39 substituted “of the Tariff Act of 1930 (19 U.S.C. 1401a)” for “402a of the Tariff Act of 1930 (19 U.S.C., sec. 1401a or 1402)”.
 
 Subsec. (c)(2)(D). Pub. L. 96–72 substituted “7(a) of the Export Administration Act of 1979” for “4(b) of the Export Administration Act of 1969 (50 U.S.C. App. 2403(b))” and “paragraph (2)(C)” for “paragraph (2)(A)”.
 
-1976—Subsecs. (a)(2), (b)(9). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (a)(2), (b)(9). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (c). Pub. L. 94–455, §§1101(b), 1906(b)(13)(A), in par. (1) in provisions following subpar. (C), struck out “or his delegate” after “Secretary”, in par. (2)(B) “or” after “like property”, and in par. (2)(C), substituted “under section 613 or 613A” for “under section 611” after “uranium products)”.
 
@@ -226,9 +226,9 @@ Subsec. (d)(2). Pub. L. 94–455, §1101(c)(2), inserted “(determined without 
 
 Subsecs. (d)(4)(A), (e)(3)(B). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1975—Subsec. (c)(2). Pub. L. 94–12 added subpars. (C) and (D) and provisions following subpar. (D).
+<b>1975</b>—Subsec. (c)(2). Pub. L. 94–12 added subpars. (C) and (D) and provisions following subpar. (D).
 
-1974—Subsec. (b)(3). Pub. L. 93–482 inserted “or of another corporation which is a DISC and which is a member of a controlled group which includes such corporation” after “such corporation”.
+<b>1974</b>—Subsec. (b)(3). Pub. L. 93–482 inserted “or of another corporation which is a DISC and which is a member of a controlled group which includes such corporation” after “such corporation”.
 
 #### Effective Date of 1993 Amendment
 

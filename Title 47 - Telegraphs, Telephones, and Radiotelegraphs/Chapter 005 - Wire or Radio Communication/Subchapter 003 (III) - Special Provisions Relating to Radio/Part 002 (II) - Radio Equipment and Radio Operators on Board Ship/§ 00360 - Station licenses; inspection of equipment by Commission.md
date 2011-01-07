@@ -2,7 +2,7 @@
 
 (a) In addition to any other provisions required to be included in a radio station license, the station license of each ship of the United States subject to this subchapter shall include particulars with reference to the items specifically required by this subchapter.
 
-(b) Every ship of the United States that is subject to this part shall have the equipment andapparatus prescribed therein inspected at least once each year by the Commission or an entity designated by the Commission. If, after such inspection, the Commission is satisfied that all relevant provisions of this chapter and the station license have been complied with, the fact shall be so certified on the station license by the Commission. The Commission shall make such additional inspections at frequent intervals as the Commission determines may be necessary to ensure compliance with the requirements of this chapter. The Commission may, upon a finding that the public interest could be served thereby—
+(b) Every ship of the United States that is subject to this part shall have the equipment and apparatus prescribed therein inspected at least once each year by the Commission or an entity designated by the Commission. If, after such inspection, the Commission is satisfied that all relevant provisions of this chapter and the station license have been complied with, the fact shall be so certified on the station license by the Commission. The Commission shall make such additional inspections at frequent intervals as the Commission determines may be necessary to ensure compliance with the requirements of this chapter. The Commission may, upon a finding that the public interest could be served thereby—
 
 &emsp;(1) waive the annual inspection required under this section for a period of up to 90 days for the sole purpose of enabling a vessel to complete its voyage and proceed to a port in the United States where an inspection can be held; or
 
@@ -16,9 +16,9 @@ This part, referred to in subsec. (b), commences with section 351 of this title.
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–104 amended subsec. (b) generally, revising structure of subsec. so as to contain 2 pars. and adding provisions relating to inspection by an entity designated by Commission, waiver of inspection for up to 90 days, and waiver for vessels in compliance with radio provisions of Safety Convention that are outside the jurisdiction of the United States.
+<b>1996</b>—Subsec. (b). Pub. L. 104–104 amended subsec. (b) generally, revising structure of subsec. so as to contain 2 pars. and adding provisions relating to inspection by an entity designated by Commission, waiver of inspection for up to 90 days, and waiver for vessels in compliance with radio provisions of Safety Convention that are outside the jurisdiction of the United States.
 
-1962—Subsec. (b). Pub. L. 87–811 empowered the Commission to waive the annual inspection from the time of first arrival at a United States port from a foreign port, for the sole purpose of enabling the vessel to proceed coastwise to another port in the United States where an inspection can be held, and limiting such waiver to not more than a period of 30 days.
+<b>1962</b>—Subsec. (b). Pub. L. 87–811 empowered the Commission to waive the annual inspection from the time of first arrival at a United States port from a foreign port, for the sole purpose of enabling the vessel to proceed coastwise to another port in the United States where an inspection can be held, and limiting such waiver to not more than a period of 30 days.
 
 #### Effective Date
 

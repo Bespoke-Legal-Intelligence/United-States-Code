@@ -10,9 +10,9 @@
 
 #### Amendments
 
-1997—Pub. L. 105–134, title I, §161(b), Dec. 2, 1997, 111 Stat. 2578, added item 28103.
+<b>1997</b>—Pub. L. 105–134, title I, §161(b), Dec. 2, 1997, 111 Stat. 2578, added item 28103.
 
-1994—Pub. L. 103–440, title I, §103(a)(1), (b)(2), Nov. 2, 1994, 108 Stat. 4616, 4619, renumbered chapter 261 of this title as chapter 281 and items 26101 and 26102 as 28101 and 28102, respectively.
+<b>1994</b>—Pub. L. 103–440, title I, §103(a)(1), (b)(2), Nov. 2, 1994, 108 Stat. 4616, 4619, renumbered chapter 261 of this title as chapter 281 and items 26101 and 26102 as 28101 and 28102, respectively.
 
 #### United States-Canada Alaska Rail Commission
 
@@ -211,8 +211,6 @@ Agreement.—The term ‘Agreement’ means an agreement described in section 30
 &emsp;“(2)
 
 Commission.—The term ‘Commission’ means a commission established pursuant to any Agreement.”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 
 ---

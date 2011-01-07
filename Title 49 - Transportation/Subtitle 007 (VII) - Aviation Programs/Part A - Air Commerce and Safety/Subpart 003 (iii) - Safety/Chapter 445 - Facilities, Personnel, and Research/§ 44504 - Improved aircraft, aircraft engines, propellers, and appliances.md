@@ -70,7 +70,7 @@ In subsection (a), the words “to improve” are substituted for “such . . 
 
 #### Amendments
 
-2000—Subsec. (b)(1). Pub. L. 106–181 inserted “, including nonstructural aircraft systems,” after “life of aircraft”.
+<b>2000</b>—Subsec. (b)(1). Pub. L. 106–181 inserted “, including nonstructural aircraft systems,” after “life of aircraft”.
 
 #### Effective Date of 2000 Amendment
 

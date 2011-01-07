@@ -10,7 +10,7 @@ All purchases and contracts for supplies or services, except for personal servic
 
 #### (c) Audits
 
-The Comptroller General of the United States shall audit the transactions of the Corporation at such times as he shall determine, but not less frequently than once each governmental fiscal year, with personnel of his selection. In such connection he and his representatives shall have free and open access to all papers, books, records, files, accounts, plants, warehouses, offices, and all other things, property, and places belonging to or under the control of or used or employed by the Corporation, and shall be afforded full facilities for counting all cash and verifying transactions with and balances in depositaries. He shall make report of each such audit in quadruplicate, one copy for the President of the United States, one for the chairman of the Board, one for public inspection at the principal office of the Corporation, and the other to be retained by him for the uses of the Congress: <i>Provided</i>, That such report shall not be made until the Corporation shall have had reasonable opportunity to examine the exceptions and criticisms of the Comptroller General or the Government Accountability Office, to point out errors therein, explain or answer the same, and to file a statement which shall be submitted by the Comptroller General with his report. The expenses for each such audit shall be paid from any appropriation or appropriations for the Government Accountability Office, and such part of such expenses as may be allocated to the cost of generating, transmitting, and distributing electric energy shall be reimbursed promptly by the Corporation as billed by the Comptroller General. Nothing in this chapter shall be construed to relieve the Treasurer or other accountable officers or employees of the Corporation from compliance with the provisions of existing law requiring the rendition of accounts for adjustment and settlement pursuant to sections 3526(a) and 3702(a) of title 31, and accounts for all receipts and disbursements by or for the Corporation shall be rendered accordingly: <i>Provided</i>, That, subject only to the provisions of this chapter, the Corporation is authorized to make such expenditures and to enter into such contracts, agreements, and arrangements, upon such terms and conditions and in such manner as it may deem necessary, including the final settlement of all claims and litigation by or against the Corporation; and, notwithstanding the provisions of any other law governing the expenditure of public funds, the Government Accountability Office, in the settlement of the accounts of the Treasurer or other accountable officer or employee of the Corporation, shall not disallow credit for, nor withhold funds because of, any expenditure which the Board shall determine to have been necessary to carry out the provisions of said chapter.
+The Comptroller General of the United States shall audit the transactions of the Corporation at such times as he shall determine, but not less frequently than once each governmental fiscal year, with personnel of his selection. In such connection he and his representatives shall havefree and open access to all papers, books, records, files, accounts, plants, warehouses, offices, and all other things, property, and places belonging to or under the control of or used or employed by the Corporation, and shall be afforded full facilities for counting all cash and verifying transactions with and balances in depositaries. He shall make report of each such audit in quadruplicate, one copy for the President of the United States, one for the chairman of the Board, one for public inspection at the principal office of the Corporation, and the other to be retained by him for the uses of the Congress: <i>Provided</i>, That such report shall not be made until the Corporation shall have had reasonable opportunity to examine the exceptions and criticisms of the Comptroller General or the Government Accountability Office, to point out errors therein, explain or answer the same, and to file a statement which shall be submitted by the Comptroller General with his report. The expenses for each such audit shall be paid from any appropriation or appropriations for the Government Accountability Office, and such part of such expenses as may be allocated to the cost of generating, transmitting, and distributing electric energy shall be reimbursed promptly by the Corporation as billed by the Comptroller General. Nothing in this chapter shall be construed to relieve the Treasurer or other accountable officers or employees of the Corporation from compliance with the provisions of existing law requiring the rendition of accounts for adjustment and settlement pursuant to sections 3526(a) and 3702(a) of title 31, and accounts for all receipts and disbursements by or for the Corporation shall be rendered accordingly: <i>Provided</i>, That, subject only to the provisions of this chapter, the Corporation is authorized to make such expenditures and to enter into such contracts, agreements, and arrangements, upon such terms and conditions and in such manner as it may deem necessary, including the final settlement of all claims and litigation by or against the Corporation; and, notwithstanding the provisions of any other law governing the expenditure of public funds, the Government Accountability Office, in the settlement of the accounts of the Treasurer or other accountable officer or employee of the Corporation, shall not disallow credit for, nor withhold funds because of, any expenditure which the Board shall determine to have been necessary to carry out the provisions of said chapter.
 
 #### (d) Administrative accounts and business documents
 
@@ -24,7 +24,7 @@ In subsec. (c), “sections 3526(a) and 3702(a) of title 31” substituted for �
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–447, §603(a)(2), substituted “Board” for “board”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–447, §603(a)(2), substituted “Board” for “board”.
 
 Subsec. (b). Pub. L. 108–447, §603(b), designated second and third pars. as subsecs. (c) and (d), respectively.
 
@@ -32,17 +32,17 @@ Pub. L. 108–271, in second par., substituted “Government Accountability Offi
 
 Subsecs. (c), (d). Pub. L. 108–447, §603(b), designated second and third pars. of subsec. (b) as subsecs. (c) and (d), respectively, and inserted headings.
 
-1983—Subsec. (b)(3). Pub. L. 98–191 substituted “$25,000” for “$10,000”.
+<b>1983</b>—Subsec. (b)(3). Pub. L. 98–191 substituted “$25,000” for “$10,000”.
 
-1976—Subsec. (a). Pub. L. 94–273 substituted “March” for “December”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–273 substituted “March” for “December”.
 
-1974—Subsec. (b)(3). Pub. L. 93–356 substituted “$10,000” for “$500”.
+<b>1974</b>—Subsec. (b)(3). Pub. L. 93–356 substituted “$10,000” for “$500”.
 
-1954—Subsec. (b). Act Aug. 30, 1954, in second paragraph, repealed a sentence requiring the Comptroller General to make special reports of any transactions or conditions found to be in conflict with the powers or duties entrusted to the Tennessee Valley Authority by law, such provision now being covered by section 9101 et seq. of Title 31, Money and Finance.
+<b>1954</b>—Subsec. (b). Act Aug. 30, 1954, in second paragraph, repealed a sentence requiring the Comptroller General to make special reports of any transactions or conditions found to be in conflict with the powers or duties entrusted to the Tennessee Valley Authority by law, such provision now being covered by section 9101 et seq. of Title 31, Money and Finance.
 
-1941—Subsec. (b). Act Nov. 21, 1941, inserted last paragraph and last sentence of next to last paragraph.
+<b>1941</b>—Subsec. (b). Act Nov. 21, 1941, inserted last paragraph and last sentence of next to last paragraph.
 
-1935—Subsec. (b). Act Aug. 31, 1935, amended subsec. (b) generally.
+<b>1935</b>—Subsec. (b). Act Aug. 31, 1935, amended subsec. (b) generally.
 
 #### Effective Date of 2004 Amendment
 

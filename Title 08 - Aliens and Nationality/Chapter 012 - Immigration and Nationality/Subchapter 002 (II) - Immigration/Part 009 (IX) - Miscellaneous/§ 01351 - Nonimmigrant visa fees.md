@@ -78,7 +78,7 @@ Pub. L. 104–134, title I, §101\[(a)\] \[title IV\], Apr. 26, 1996, 110 Stat. 
 
 Pub. L. 105–277, div. A, §101(b) \[title IV, §410(a)\], Oct. 21, 1998, 112 Stat. 2681–50, 1681–102, provided that:
 
-“(1)(A) Notwithstanding any other provision of law and subject to subparagraph (B), the Secretary of State and the Attorney General shall impose, for the processing of any application for the issuance of a machine readable combined border crossing card and nonimmigrant visa under section 101(a)(15)(B) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(B)\], a fee of $13 (for recovery of the costs of manufacturing the combined card and visa) in the case of any alien under 15 years of age where the application for the machine readable combined border crossing card and nonimmigrant visa is made in Mexico by a citizen of Mexico who has at least one parent or guardian who has a visa under such section or is applying for a machinereadable combined border crossing card and nonimmigrant visa under such section as well.
+“(1)(A) Notwithstanding any other provision of law and subject to subparagraph (B), the Secretary of State and the Attorney General shall impose, for the processing of any application for the issuance of a machine readable combined border crossing card and nonimmigrant visa under section 101(a)(15)(B) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(B)\], a fee of $13 (for recovery of the costs of manufacturing the combined card and visa) in the case of any alien under 15 years of age where the application for the machine readable combined border crossing card and nonimmigrant visa is made in Mexico by a citizen of Mexico who has at least one parent or guardian who has a visa under such section or is applying for a machine readable combined border crossing card and nonimmigrant visa under such section as well.
 
 “(B) The Secretary of State and the Attorney General may not commence implementation of the requirement in subparagraph (A) until the later of—
 
@@ -104,7 +104,7 @@ Pub. L. 103–236, title I, §140(a), Apr. 30, 1994, 108 Stat. 399, as amended b
 
 “(1) Notwithstanding any other provision of law, the Secretary of State is authorized to charge a fee or surcharge for processing machine readable nonimmigrant visas and machine readable combined border crossing identification cards and nonimmigrant visas.
 
-“(2) Fees collected under the authority of paragraph (1) shall be deposited as an offsetting collection to any Department of State appropriation, to recover the costs of providing consular services. Such fees shall remain available for obligation until expended.
+“(2) Fees collected under the authority of paragraph (1) shall be deposited as an offsetting collection to anyDepartment of State appropriation, to recover the costs of providing consular services. Such fees shall remain available for obligation until expended.
 
 “(3) For the fiscal year 2003, any amount that exceeds $460,000,000 may be made available only if a notification is submitted to Congress in accordance with the procedures applicable to reprogramming notifications under section 34 of the State Department Basic Authorities Act of 1956 \[22 U.S.C. 2706\].”
 

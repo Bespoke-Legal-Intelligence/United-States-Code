@@ -34,7 +34,7 @@ Governance.—The Secretary of each military department shall establish a system
 
 (d)
 
-Central Fund.—The Secretary of each military department shall establish a single fund as the source of funding for the operation, maintenance, and improvement of all Fisher Houses and Fisher Suites of the nonappropriated fund instrumentality required by subsection (b) for that military department.
+Central Fund.—The Secretary of each military department shall establish a single fund as the source of funding for the operation, maintenance, and improvement of all FisherHouses and Fisher Suites of the nonappropriated fund instrumentality required by subsection (b) for that military department.
 
 (e)
 
@@ -68,9 +68,9 @@ Annual Report.—Not later than January 15 of each year, the Secretary of each m
 
 #### Amendments
 
-2002—Subsec. (f). Pub. L. 107–314 amended heading and text of subsec. (f) generally. Prior to amendment text read as follows: “The Secretary of the Navy shall provide base operating support for Fisher Houses associated with health care facilities of the Navy. The level of the support shall be equivalent to the base operating support that the Secretary provides for morale, welfare, and recreation category B community activities (as defined in regulations, prescribed by the Secretary, that govern morale, welfare, and recreation activities associated with Navy installations).”
+<b>2002</b>—Subsec. (f). Pub. L. 107–314 amended heading and text of subsec. (f) generally. Prior to amendment text read as follows: “The Secretary of the Navy shall provide base operating support for Fisher Houses associated with health care facilities of the Navy. The level of the support shall be equivalent to the base operating support that the Secretary provides for morale, welfare, and recreation category B community activities (as defined in regulations, prescribed by the Secretary, that govern morale, welfare, and recreation activities associated with Navy installations).”
 
-2000—Subsecs. (f), (g). Pub. L. 106–398 added subsec. (f) and redesignated former subsec. (f) as (g).
+<b>2000</b>—Subsecs. (f), (g). Pub. L. 106–398 added subsec. (f) and redesignated former subsec. (f) as (g).
 
 #### Effective Date of 2000 Amendment
 

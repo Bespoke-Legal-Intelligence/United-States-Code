@@ -16,7 +16,7 @@ A countervailing duty investigation shall be initiated whenever the administerin
 
 #### (3) Petition based upon a derogation of an international undertaking on official export credits
 
-&emsp;If the sole basis of a petition filed under paragraph (1) is the derogation of an international undertaking on official export credits, the Administering Authority shall immediately notify the Secretary of the Treasury who shall, in consultation with the Administering Authority, within 5 days after the date on which the administering authority initiates an investigation under subsection (c) of this section, determine the existence and estimated value of the derogation, if any, and shall publish such determination in the Federal Register.
+&emsp;If the sole basis of a petition filed under paragraph (1) is the derogation of an international undertaking on official export credits, the Administering Authority shall immediately notify the Secretary of the Treasury who shall, in consultation with the Administering Authority, within 5 days after thedate on which the administering authority initiates an investigation under subsection (c) of this section, determine the existence and estimated value of the derogation, if any, and shall publish such determination in the Federal Register.
 
 #### (4) Action with respect to petitions
 
@@ -92,7 +92,7 @@ A countervailing duty investigation shall be initiated whenever the administerin
 
 #### (C) Special rule for regional industries
 
-&emsp;&emsp;If the petition alleges that the industry is a regional industry, the administering authority shall determine whether the petition has been filed by or on behalf of the industryby applying subparagraph (A) on the basis of production in the region.
+&emsp;&emsp;If the petition alleges that the industry is a regional industry, the administering authority shall determine whether the petition has been filed by or on behalf of the industry by applying subparagraph (A) on the basis of production in the region.
 
 #### (D) Polling the industry
 
@@ -126,9 +126,9 @@ If, at any time after the initiation of an investigation under this part, the ad
 
 #### Amendments
 
-1996—Subsec. (c)(5). Pub. L. 104–295 substituted “(b)(1)” for “(b)(1)(A)”.
+<b>1996</b>—Subsec. (c)(5). Pub. L. 104–295 substituted “(b)(1)” for “(b)(1)(A)”.
 
-1994—Subsecs. (a), (b)(1). Pub. L. 103–465, §233(a)(6)(A)(i), (ii), substituted “initiated” for “commenced”.
+<b>1994</b>—Subsecs. (a), (b)(1). Pub. L. 103–465, §233(a)(6)(A)(i), (ii), substituted “initiated” for “commenced”.
 
 Subsec. (b)(3). Pub. L. 103–465, §§211(a)(1), 212(b)(1)(E), substituted “paragraph (1)” for “subsection (b)(1) of this section” and “5 days after the date on which the administering authority initiates an investigation under subsection (c) of this section,” for “twenty days”.
 
@@ -146,13 +146,13 @@ Subsec. (e). Pub. L. 103–465, §270(a)(1)(A), (d), substituted “countervaila
 
 Pub. L. 103–465, §233(a)(5)(B), substituted “subject merchandise” for “class or kind of merchandise that is the subject of the investigation” in two places.
 
-1988—Subsec. (b)(1). Pub. L. 100–418, §1326(d)(1), substituted “(F), or (G)” for “or (F)”.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–418, §1326(d)(1), substituted “(F), or (G)” for “or (F)”.
 
 Subsec. (e). Pub. L. 100–418, §1324(a)(1), added subsec. (e).
 
-1986—Subsec. (b)(1). Pub. L. 99–514 inserted reference to subpar. (F) of section 1677(9) of this title.
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–514 inserted reference to subpar. (F) of section 1677(9) of this title.
 
-1983—Subsec. (b)(3). Pub. L. 98–181 added par. (3).
+<b>1983</b>—Subsec. (b)(3). Pub. L. 98–181 added par. (3).
 
 #### Effective Date of 1994 Amendment
 
@@ -160,7 +160,7 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1324(a)(1) of Pub. L. 100–418 applicable with respect to investigations initiated afterAug. 23, 1988, and amendment by section 1326(d)(1) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b), (c) of Pub. L. 100–418, set out as a note under section 1671 of this title.
+Amendment by section 1324(a)(1) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and amendment by section 1326(d)(1) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b), (c) of Pub. L. 100–418, set out as a note under section 1671 of this title.
 
 #### Transfer of Functions
 

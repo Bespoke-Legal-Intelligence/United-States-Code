@@ -8,7 +8,7 @@ The Secretary may not, except as provided in subsection (b) of this section, mak
 
 &emsp;(2) information provided under this part will be scientifically accurate and factually correct;
 
-&emsp;(3) in carrying out section 300ee–11(b) of this title, the State will give priority to programsdescribed in section 300ee–12(10) of this title for individuals described in such section;
+&emsp;(3) in carrying out section 300ee–11(b) of this title, the State will give priority to programs described in section 300ee–12(10) of this title for individuals described in such section;
 
 &emsp;(4) with respect to a State in which there is a substantial number of individuals who are intravenous substance abusers, the State will place priority on activities under this part directed at such substance abusers;
 
@@ -44,7 +44,7 @@ The Secretary may not, except as provided in subsection (b) of this section, mak
 
 &emsp;&emsp;(E) such other information as the Secretary may prescribe;
 
-&emsp;(7) with respect to programs carried out pursuant to section 300ee–12(10) of this title, the State will give preference to any applicant for a grant pursuant to such section that is located in, has a history of service in, and will serve under the program, any geographic area in which—
+&emsp;(7) with respect to programs carried out pursuant to section 300ee–12(10) of this title, the State will give preference to any applicant fora grant pursuant to such section that is located in, has a history of service in, and will serve under the program, any geographic area in which—
 
 &emsp;&emsp;(A) there is a significant incidence of acquired immune deficiency syndrome;
 
@@ -74,7 +74,7 @@ A prior section 2506 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–690, §2619(d)(1) \[(e)(1)\], designated existing provisions as subsec. (a).
+<b>1988</b>—Subsec. (a). Pub. L. 100–690, §2619(d)(1) \[(e)(1)\], designated existing provisions as subsec. (a).
 
 Subsec. (a)(5). Pub. L. 100–690, §2619(d)(2) \[(e)(2)\], struck out concluding provisions which read as follows: “(For purposes of this section, the term ‘significant percentage’ means at least a percentage of 1 percent of the number of reported cases of such syndrome in the United States);”.
 

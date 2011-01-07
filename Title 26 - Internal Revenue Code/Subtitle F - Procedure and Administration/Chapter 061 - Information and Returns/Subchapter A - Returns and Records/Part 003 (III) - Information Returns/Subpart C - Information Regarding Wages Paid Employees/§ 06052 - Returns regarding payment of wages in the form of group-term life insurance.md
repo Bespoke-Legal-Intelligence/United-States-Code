@@ -2,7 +2,7 @@
 
 #### (a) Requirement of reporting
 
-Every employer who during any calendar year provides group-term life insurance on the life ofan employee during part or all of such calendar year under a policy (or policies) carried directly or indirectly by such employer shall make a return according to the forms or regulations prescribed by the Secretary, setting forth the cost of such insurance and the name and address of the employee on whose life such insurance is provided, but only to the extent that the cost of such insurance is includible in the employee's gross income under section 79(a). For purposes of this section, the extent to which the cost of group-term life insurance is includible in the employee's gross income under section 79(a) shall be determined as if the employer were the only employer paying such employee remuneration in the form of such insurance.
+Every employer who during any calendar year provides group-term life insurance on the life of an employee during part or all of such calendar year under a policy (or policies) carried directly or indirectly by such employer shall make a return according to the forms or regulations prescribed by the Secretary, setting forth the cost of such insurance and the name and address of the employee on whose life such insurance is provided, but only to the extent that the cost ofsuch insurance is includible in the employee's gross income under section 79(a). For purposes of this section, the extent to which the cost of group-term life insurance is includible in the employee's gross income under section 79(a) shall be determined as if the employer were the only employer paying such employee remuneration in the form of such insurance.
 
 #### (b) Statements to be furnished to employees with respect to whom information is required
 
@@ -12,9 +12,9 @@ Every employer required to make a return under subsection (a) shall furnish to e
 
 #### Amendments
 
-1986—Subsec. (b). Pub. L. 99–514, in amending subsec. (b) generally, substituted “information is required” for “information is furnished” in heading, and in text substituted reference to employers required to make a return for former reference to employers making a return and reference to employees whose name is required to be set forth for former reference to employees whose name is set forth.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514, in amending subsec. (b) generally, substituted “information is required” for “information is furnished” in heading, and in text substituted reference to employers required to make a return for former reference to employers making a return and reference to employees whose name is required to be set forth for former reference to employees whose name is set forth.
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date of 1986 Amendment
 

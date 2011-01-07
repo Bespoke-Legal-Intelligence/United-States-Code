@@ -50,7 +50,7 @@ This section shall not apply with respect to—
 
 #### (1) Date of deposit
 
-&emsp;If any deposit required to be made (pursuant to regulations prescribed by the Secretary under section 6302(c)) on or before a prescribed date is, after such date, delivered by the United States mail to the bank, trust company, domestic building and loan association, or credit union authorized to receive such deposit, such deposit shall be deemed received by such bank, trust company, domestic building and loan association, or credit union on the date the deposit was mailed.
+&emsp;If any deposit required to be made (pursuant to regulations prescribed by the Secretaryunder section 6302(c)) on or before a prescribed date is, after such date, delivered by the United States mail to the bank, trust company, domestic building and loan association, or credit union authorized to receive such deposit, such deposit shall be deemed received by such bank, trust company, domestic building and loan association, or credit union on the date the deposit was mailed.
 
 #### (2) Mailing requirements
 
@@ -74,7 +74,7 @@ This section shall not apply with respect to—
 
 #### (2) Designated delivery service
 
-&emsp;For purposes of this subsection, the term “designated delivery service” means any delivery service provided by a trade or business if such service is designated by the Secretary for purposes of this section. The Secretarymay designate a delivery service under the preceding sentence only if the Secretary determines that such service—
+&emsp;For purposes of this subsection, the term “designated delivery service” means any delivery service provided by a trade or business if such service is designated by the Secretary for purposes of this section. The Secretary may designate a delivery service under the preceding sentence only if the Secretary determines that such service—
 
 &emsp;&emsp;(A) is available to the general public,
 
@@ -92,7 +92,7 @@ This section shall not apply with respect to—
 
 #### Amendments
 
-1998—Subsec. (c). Pub. L. 105–206 inserted “; electronic filing” after “mailing” in heading and amended text of subsec. (c) generally. Prior to amendment, text read as follows:
+<b>1998</b>—Subsec. (c). Pub. L. 105–206 inserted “; electronic filing” after “mailing” in heading and amended text of subsec. (c) generally. Prior to amendment, text read as follows:
 
 “(1)
 
@@ -106,21 +106,21 @@ Registered mail.—For purposes of this section, if any such return, claim, stat
 
 Certified mail.—The Secretary is authorized to provide by regulations the extent to which the provisions of paragraph (1) of this subsection with respect to prima facie evidence of delivery and the postmark date shall apply to certified mail.”
 
-1996—Subsec. (f). Pub. L. 104–168 added subsec. (f).
+<b>1996</b>—Subsec. (f). Pub. L. 104–168 added subsec. (f).
 
-1986—Subsec. (e)(3). Pub. L. 99–514 substituted “any tax” for “the tax”.
+<b>1986</b>—Subsec. (e)(3). Pub. L. 99–514 substituted “any tax” for “the tax”.
 
-1984—Subsec. (e)(3). Pub. L. 98–369 added par. (3).
+<b>1984</b>—Subsec. (e)(3). Pub. L. 98–369 added par. (3).
 
-1977—Subsec. (e). Pub. L. 95–147 substituted “, trust company, domestic building and loan association, or credit union” for “or trust company” in three places.
+<b>1977</b>—Subsec. (e). Pub. L. 95–147 substituted “, trust company, domestic building and loan association, or credit union” for “or trust company” in three places.
 
-1976—Subsec. (b). Pub. L. 94–455, §1906(a)(49), (b)(13)(A), substituted “United States Postal Service” for “United States Post Office” after “made by the”, and struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455, §1906(a)(49), (b)(13)(A), substituted “United States Postal Service” for “United States Post Office” after “made by the”, and struck out “or his delegate” after “Secretary”.
 
 Subsecs. (c)(2), (e)(1). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1968—Subsec. (e). Pub. L. 90–364 added subsec. (e).
+<b>1968</b>—Subsec. (e). Pub. L. 90–364 added subsec. (e).
 
-1966—Subsec. (a). Pub. L. 89–713 inserted filing of tax returns and the payments of tax to the list of operations to which the timely-mailing-timely-filing provisions of the subsec. apply and altered the subsec. structurally by dividing its provisions into pars. (1) and (2).
+<b>1966</b>—Subsec. (a). Pub. L. 89–713 inserted filing of tax returns and the payments of tax to the list of operations to which the timely-mailing-timely-filing provisions of the subsec. apply and altered the subsec. structurally by dividing its provisions into pars. (1) and (2).
 
 Subsec. (b). Pub. L. 89–713 substituted “Postmarks” for “Stamp machine” in heading.
 
@@ -128,7 +128,7 @@ Subsec. (c). Pub. L. 89–713 inserted returns and payments to the list of opera
 
 Subsec. (d). Pub. L. 89–713 designated existing provisions as par. (1) and added pars. (2) and (3).
 
-1958—Subsec. (c). Pub. L. 85–866 designated existing provisions as par. (1) and added par. (2).
+<b>1958</b>—Subsec. (c). Pub. L. 85–866 designated existing provisions as par. (1) and added par. (2).
 
 #### Effective Date of 1986 Amendment
 

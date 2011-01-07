@@ -14,7 +14,7 @@ Except as otherwise provided in this section, any creditor who fails to comply w
 
 &emsp;(4) in the case of a failure to comply with any requirement under section 1639 of this title, an amount equal to the sum of all finance charges and fees paid by the consumer, unless the creditor demonstrates that the failure to comply is not material.
 
-> In determining the amount of award in any class action, the court shall consider, among other relevant factors, the amount of any actual damages awarded, the frequency and persistence of failures of compliance by the creditor, the resources of the creditor, the number of persons adversely affected, and the extent to which the creditor's failure of compliance was intentional. In connection with the disclosures referred to in subsections (a) and (b) of section 1637 of this title, a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of section 1635 of this title, 1637(a) <sup>2</sup> of this title, or any of paragraphs (4) through (13) of section 1637(b) of this title, or for failing to comply with disclosure requirements under State law for any term or item that the Board has determined to be substantially the same in meaning under section 1610(a)(2) of this title as any of the terms or items referred to in section 1637(a) of this title, or any of paragraphs (4) through (13) of section 1637(b) of this title. In connection with the disclosures referred to in subsection (c) or (d) of section 1637 of this title, a card issuer shall have a liability under this section only to a cardholder who pays a fee described in section 1637(c)(1)(A)(ii)(I) or section 1637(c)(4)(A)(i) of this title or who uses the credit card or charge card. In connection with the disclosures referred to in section 1638 of this title, a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of section 1635 of this title, of paragraph (2) (insofar as it requires a disclosure of the “amount financed”), (3), (4), (5), (6), or (9) of section 1638(a) of this title, or section 1638(b)(2)(C)(ii) of this title, of subparagraphs (A), (B), (D), (F), or (J) of section 1638(e)(2) of this title (for purposes of paragraph (2) or (4) of section 1638(e) of this title), or paragraph (4)(C), (6), (7), or (8) of section 1638(e) of this title, or for failing to comply with disclosure requirements under State law for any term which the Board has determined to be substantially the same in meaning under section 1610(a)(2) of this title as any of the terms referred to in any of those paragraphs of section 1638(a) of this title or section 1638(b)(2)(C)(ii) of this title. With respect to any failure to make disclosures required under this part or part D or E of this subchapter, liability shall be imposed only upon the creditor required to make disclosure, except as provided in section 1641 of this title.
+> In determining the amount of award in any class action, the court shall consider, among other relevant factors, the amount of any actual damages awarded, the frequency and persistence of failures of compliance by the creditor, the resources of the creditor, the number of persons adversely affected, and the extent to which the creditor's failure of compliance was intentional. In connection with the disclosures referred to in subsections (a) and (b) of section 1637 of this title, a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of section 1635 of this title, 1637(a) <sup>2</sup> of this title, or any of paragraphs (4) through (13) of section 1637(b) of this title, or for failing to comply with disclosure requirements under State law for any term or item that the Board has determined to be substantially the same in meaning under section 1610(a)(2) of this title as any of the terms or items referred to in section 1637(a) of this title, or any of paragraphs (4) through (13) of section 1637(b) of this title. In connection with the disclosures referred to in subsection (c) or (d) of section 1637 of this title, a card issuer shall have a liability under this section only to a cardholder who pays a fee described in section 1637(c)(1)(A)(ii)(I) or section1637(c)(4)(A)(i) of this title or who uses the credit card or charge card. In connection with the disclosures referred to in section 1638 of this title, a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of section 1635 of this title, of paragraph (2) (insofar as it requires a disclosure of the “amount financed”), (3), (4), (5), (6), or (9) of section 1638(a) of this title, or section 1638(b)(2)(C)(ii) of this title, of subparagraphs (A), (B), (D), (F), or (J) of section 1638(e)(2) of this title (for purposes of paragraph (2) or (4) of section 1638(e) of this title), or paragraph (4)(C), (6), (7), or (8) of section 1638(e) of this title, or for failing to comply with disclosure requirements under State law for any term which the Board has determined to be substantially the same in meaning under section 1610(a)(2) of this title as any of the terms referred to in any of those paragraphs of section 1638(a) of this title or section 1638(b)(2)(C)(ii) of this title. With respect to any failure to make disclosures required under this part or part D or E of this subchapter, liability shall be imposed only upon the creditor required to make disclosure, except as provided in section 1641 of this title.
 
 #### (b) Correction of errors
 
@@ -48,7 +48,7 @@ No provision of this section, section 1607(b) of this title, section 1607(c) of 
 
 #### (g) Recovery for multiple failures to disclose
 
-The multiple failure to disclose to any person any information required under this part or part D or E of this subchapter to be disclosed in connection with a single account under an open end consumer credit plan, other single consumer credit sale, consumer loan, consumer lease, or other extension of consumer credit, shall entitle the person to a single recovery under this section but continued failure to disclose after a recovery has been granted shall give rise to rights to additional recoveries. This subsection does not bar any remedy permitted by section 1635 of this title.
+The multiple failure to disclose to any person any information required under this part or part D or E of this subchapter to be disclosed in connection with a single account under an open end consumer credit plan, other single consumer credit sale, consumer loan, consumer lease, or other extension of consumer credit, shall entitlethe person to a single recovery under this section but continued failure to disclose after a recovery has been granted shall give rise to rights to additional recoveries. This subsection does not bar any remedy permitted by section 1635 of this title.
 
 #### (h) Offset from amount owed to creditor or assignee; rights of defaulting consumer
 
@@ -86,17 +86,63 @@ A person may not take any action to offset any amount for which a creditor or as
 
 A private educational lender (as that term is defined in section 1650(a) of this title) has no liability under this section for failure to comply with section 1638(e)(3) of this title).<sup>3</sup>
 
-(Pub. L. 90–321, title I, §130, May 29, 1968, 82 Stat. 157; Pub. L. 93–495, title IV, §§406, 407, 408(a)–(d), Oct. 28, 1974, 88 Stat. 1518; Pub. L. 94–222, §3(b), Feb. 27, 1976, 90 Stat. 197; Pub. L. 94–240, §4, Mar. 23, 1976, 90 Stat. 260; Pub. L. 96–221, title VI, §615, Mar. 31, 1980, 94 Stat. 180; Pub. L. 100–583, §3, Nov. 3, 1988, 102 Stat. 2966; Pub. L. 103–325, title I, §153(a), (b), Sept. 23, 1994, 108 Stat. 2195; Pub. L. 104–12, §2, May 18, 1995, 109 Stat. 161; Pub. L. 104–29, §6, Sept. 30, 1995, 109 Stat. 274; Pub. L. 110–289, div. B, title V, §2502(b), July 30, 2008, 122 Stat. 2857; Pub. L. 110–315, title X, §1012(a), Aug. 14, 2008, 122 Stat. 3482; Pub. L. 111–22, div. A, title IV, §404(b), May 20, 2009, 123 Stat. 1658; Pub. L. 111–24, title I, §107, title II, §201(b), May 22, 2009, 123 Stat. 1743, 1745.)
+(Pub. L. 90–321, title I, §130, May 29, 1968, 82 Stat. 157; Pub. L. 93–495, title IV, §§406, 407, 408(a)–(d), Oct. 28, 1974, 88 Stat. 1518; Pub. L. 94–222, §3(b), Feb. 27, 1976, 90 Stat. 197; Pub. L. 94–240, §4, Mar. 23, 1976, 90 Stat. 260; Pub. L. 96–221, title VI, §615, Mar. 31, 1980, 94 Stat. 180; Pub. L. 100–583, §3, Nov. 3, 1988, 102 Stat. 2966; Pub. L. 103–325, title I, §153(a), (b), Sept. 23, 1994, 108 Stat. 2195; Pub. L. 104–12, §2, May 18, 1995, 109 Stat. 161; Pub. L. 104–29, §6, Sept. 30, 1995, 109 Stat. 274; Pub. L. 110–289, div. B, title V, §2502(b), July 30, 2008, 122 Stat. 2857; Pub. L. 110–315, title X, §1012(a), Aug. 14, 2008, 122 Stat. 3482; Pub. L. 111–22, div. A, title IV, §404(b), May 20, 2009, 123 Stat. 1658; Pub. L. 111–24, title I, §107, title II, §201(b), May 22, 2009, 123 Stat. 1743, 1745; Pub. L. 111–203, title X, §1100A(2), title XIV, §§1413, 1416, 1417, 1422, July 21, 2010, 124 Stat. 2107, 2148, 2153, 2157.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
+
+<i>Pub. L. 111–203, title XIV, §§1400(c), 1413, 1416, 1417, 1422, July 21, 2010, 124 Stat. 2107, 2148, 2153, 2157, provided that, effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, this section is amended as follows:</i>
+
+<i>(1) in subsection (a)—</i>
+
+<i>(A) in paragraph (2)(A)(ii) by striking “$100” and inserting “$200” and by striking “$1,000” and inserting “$2,000”;</i>
+
+<i>(B) in paragraph (2)(B), by striking “$500,000” and inserting “$1,000,000”; and</i>
+
+<i>(C) in paragraph (4), by inserting “, paragraph (1) or (2) of section 1639b(c) of this title, or section 1639c(a) of this title” after “section 1639 of this title”;</i>
+
+<i>(2) in subsection (e)—</i>
+
+<i>(A) in the first sentence, by striking “Any action” and inserting “Except as provided in the subsequent sentence, any action”;</i>
+
+<i>(B) by inserting after the first sentence: “Any action under this section with respect to any violation of section 1639, 1639b, or 1639c of this title may be brought in any United States district court, or in any other court of competent jurisdiction, before the end of the 3-year period beginning on the date of the occurrence of the violation.”; and</i>
+
+<i>(C) by striking “section 1639 of this title may also” and inserting “section 1639, 1639b, 1639c, 1639d, 1639e, 1639f, 1639g, or 1639h of this title may also”; and</i>
+
+<i>(3) by adding at the end the following new subsections:</i>
+
+#### <i>“(k) Defense to foreclosure</i>
+
+#### <i>“(1) In general</i>
+
+&emsp;<i>“Notwithstanding any other provision of law, when a creditor, assignee, or other holder of a res</i><i>idential mortgage loan or anyone acting on behalf of such creditor, assignee, or holder, initiates a judicial or nonjudicial foreclosure of the residential mortgage loan, or any other action to collect the debt in connection with such loan, a consumer may assert a violation by a creditor of paragraph (1) or (2) of section 1639b(c) of this title, or of section 1639c(a) of this title, as a matter of defense by recoupment or set off without regard for the time limit on a private action for damages under subsection (e).</i>
+
+#### <i>“(2) Amount of recoupment or setoff</i>
+
+#### <i>“(A) In general</i>
+
+&emsp;&emsp;<i>“The amount of recoupment or set-off under paragraph (1) shall equal the amount to which the consumer would be entitled under subsection (a) for damages for a valid claim brought in an original action against the creditor, plus the costs to the consumer of the action, including a reasonable attorney's fee.</i>
+
+#### <i>“(B) Special rule</i>
+
+&emsp;&emsp;<i>“Where such judgment is rendered after the expiration of the applicable time limit on a private action for damages under subsection (e), the amount of recoupment or set-off under paragraph (1) derived from damages under subsection (a)(4) shall not exceed the amount to which the consumer would have been entitled under subsection (a)(4) for damages computed up to the day preceding the expiration of the applicable time limit.</i>
+
+#### <i>“(l) Exemption from liability and rescission in case of borrower fraud or deception</i>
+
+<i>“In addition to any other remedy available by law or contract, no creditor or assignee shall be liable to an obligor under this section, if such obligor, or co-obligor has been convicted of obtaining by actual fraud such residential mortgage loan.”</i>
+
+<i>See Effective Date of 2010 Amendment notes below.</i>
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–24, §201(b), in concluding provisions, substituted “In connection with the disclosures referred to in subsections (a) and (b) of section 1637 of this title, a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of section 1635 of this title, 1637(a) of this title, or any of paragraphs (4) through (13) of section 1637(b) of this title, or for failing to comply with disclosure requirements under State law for any term or item that the Board has determined to be substantially the same in meaning under section 1610(a)(2) of this title as any of the terms or items referred to in section 1637(a) of this title, or any of paragraphs (4) through (13) of section 1637(b) of this title.” for “In connection with the disclosures referred to in subsections (a) and (b) of section 1637 of this title, a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of section 1635 of this title, section 1637(a) of this title, or of paragraph (4), (5), (6), (7), (8), (9), or (10) of section 1637(b) of this title or for failing to comply with disclosure requirements under State law for any term or item which the Board has determined to be substantially the same in meaning under section 1610(a)(2) of this title as any of the terms or items referred to in section 1637(a) of this title or any of those paragraphs of section 1637(b) of this title.”
+<b>2009</b>—Subsec. (a). Pub. L. 111–24, §201(b), in concluding provisions, substituted “In connection with the disclosures referred to in subsections (a) and (b) of section 1637 of this title, a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of section 1635 of this title, 1637(a) of this title, or any of paragraphs (4) through (13) of section 1637(b) of this title, or for failing to comply with disclosure requirements under State law for any term or item that the Board has determined to be substantially the same in meaning under section 1610(a)(2) of this title as any of the terms or items referred to in section 1637(a) of this title, or any of paragraphs (4) through (13) of section 1637(b) of this title.” for “In connection with the disclosures referred to in subsections (a) and (b) of section 1637 of this title, a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of section 1635 of this title, section 1637(a) of this title, or of paragraph (4), (5), (6), (7), (8), (9), or (10) of section 1637(b) of this title or for failing to comply with disclosure requirements under State law for any term or item which the Board has determined to be substantially the same in meaning under section 1610(a)(2) of this title as any of the terms or items referred to in section 1637(a) of this title or any of those paragraphs of section 1637(b) of this title.”
 
 Pub. L. 111–22, §404(b), which directed insertion of “subsection (f) or (g) of section 1641 of this title,” after “section 1635 of this title,”, was executed by making the insertion only in the introductory provisions to reflect the probable intent of Congress.
 
 Subsec. (a)(2)(A)(iii), (iv). Pub. L. 111–24, §107, added cl. (iii) and redesignated former cl. (iii) as (iv).
 
-2008—Subsec. (a). Pub. L. 110–315, §1012(a)(1)(B), in fourth sentence of concluding provisions, substituted “1635 of this title,” for “1635 of this title or” and inserted “of subparagraphs (A), (B), (D), (F), or (J) of section 1638(e)(2) of this title (for purposes of paragraph (2) or (4) of section 1638(e) of this title), or paragraph (4)(C), (6), (7), or (8) of section 1638(e) of this title,” before “or for failing”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §1012(a)(1)(B), in fourth sentence of concluding provisions, substituted “1635 of this title,” for “1635 of this title or” and inserted “of subparagraphs (A), (B), (D), (F), or (J) of section 1638(e)(2) of this title (for purposes of paragraph (2) or (4) of section 1638(e) of this title), or paragraph (4)(C), (6), (7), or (8) of section 1638(e) of this title,” before “or for failing”.
 
 Pub. L. 110–289, §2502(b)(2), in concluding provisions, inserted “or section 1638(b)(2)(C)(ii) of this title,” before “or for failing to comply” and “or section 1638(b)(2)(C)(ii) of this title” before “. With respect to”.
 
@@ -108,11 +154,11 @@ Subsec. (e). Pub. L. 110–315, §1012(a)(2), inserted before period at end of f
 
 Subsec. (j). Pub. L. 110–315, §1012(a)(3), added subsec. (j).
 
-1995—Subsec. (a)(2)(A)(iii). Pub. L. 104–29 added cl. (iii).
+<b>1995</b>—Subsec. (a)(2)(A)(iii). Pub. L. 104–29 added cl. (iii).
 
 Subsec. (i). Pub. L. 104–12 added subsec. (i).
 
-1994—Subsec. (a)(4). Pub. L. 103–325, §153(a), added par. (4).
+<b>1994</b>—Subsec. (a)(4). Pub. L. 103–325, §153(a), added par. (4).
 
 Subsec. (e). Pub. L. 103–325, §153(b), inserted at end “An action to enforce a violation of section 1639 of this title may also be brought by the appropriate State attorney general in any appropriate United States district court, or any other court of competent jurisdiction, not later than 3 years after the date on which the violation occurs. The State attorney general shall provide prior written notice of any such civil action to the Federal agency responsible for enforcement under section 1607 of this title and shall provide the agency with a copy of the complaint. If prior notice is not feasible, the State attorney general shall provide notice to such agency immediately upon instituting the action. The Federal agency may—
 
@@ -126,9 +172,9 @@ Subsec. (e). Pub. L. 103–325, §153(b), inserted at end “An action to enforc
 
 &emsp;“(3) file a petition for appeal.”
 
-1988—Subsec. (a). Pub. L. 100–583 substituted “in subsections (a) and (b) of section 1637” for “in section 1637” in third sentence and inserted provisions limiting liability of card issuer under this section to cardholders who pay fee or use credit card or charge card.
+<b>1988</b>—Subsec. (a). Pub. L. 100–583 substituted “in subsections (a) and (b) of section 1637” for “in section 1637” in third sentence and inserted provisions limiting liability of card issuer under this section to cardholders who pay fee or use credit card or charge card.
 
-1980—Subsec. (a). Pub. L. 96–221, §615(b), in introductory text inserted provisions respecting applicability of section 1635 of this title, and in text following numbered pars. inserted provisions relating to disclosures required under sections 1637 and 1638 of this title.
+<b>1980</b>—Subsec. (a). Pub. L. 96–221, §615(b), in introductory text inserted provisions respecting applicability of section 1635 of this title, and in text following numbered pars. inserted provisions relating to disclosures required under sections 1637 and 1638 of this title.
 
 Subsec. (a)(2)(B). Pub. L. 96–221, §615(a)(1), substituted provisions respecting recovery under this subparagraph in any class action or series of class actions, for provisions respecting recovery in a class action.
 
@@ -136,7 +182,7 @@ Subsec. (a)(3). Pub. L. 96–221, §615(a)(2), inserted provisions relating to r
 
 Subsec. (b). Pub. L. 96–221, §615(a)(3), substituted provisions relating to correction of errors within sixty days by a creditor or assignee, for provisions relating to correction of errors within fifteen days by a creditor.
 
-Subsec. (c). Pub. L. 96–221, §615(a)(3), substituted provisions relating to liability of a creditor or assignee in any action brought under this section or section 1635 of this title, for provisions relating to liability of a creditor in any action brought under this section.
+Subsec. (c). Pub. L. 96–221, §615(a)(3), substituted provisions relating to liability of a creditor or assignee inany action brought under this section or section 1635 of this title, for provisions relating to liability of a creditor in any action brought under this section.
 
 Subsec. (d). Pub. L. 96–221, §615(a)(3), substituted provisions relating to liability in transaction or lease involving multiple obligors, for provisions relating to liability of subsequent assignees original creditor.
 
@@ -148,7 +194,7 @@ Subsec. (g). Pub. L. 96–221, §615(a)(6), inserted provisions relating to reme
 
 Subsec. (h). Pub. L. 96–221, §615(a)(7), substituted provisions relating to offset from amounts owed to the creditor or assignee, and rights of defaulting consumer, for provisions relating to offset from amounts owed to the creditor.
 
-1976—Subsec. (a). Pub. L. 94–240, §4(1), inserted “or E” after “part D”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–240, §4(1), inserted “or E” after “part D”.
 
 Subsec. (a)(2)(A). Pub. L. 94–240, §4(2), designated existing provision as cl. (i) and added cl. (ii).
 
@@ -160,7 +206,7 @@ Subsec. (f). Pub. L. 94–222 inserted “or in conformity with any interpretati
 
 Subsec. (g). Pub. L. 94–240, §4(5), inserted “or part D or E of this subchapter” after “this part”, and “consumer lease” after “consumer loan”.
 
-1974—Subsec. (a). Pub. L. 93–495, §408(a), substituted provisions setting forth determination of amount of liability of any creditor failing to comply with any requirement imposed under part D of this subchapter or this part, for provisions setting forth determination of amount of liability of any creditor failing to disclose in connection with any consumer credit transaction any information required under this part to be disclosed to specified persons.
+<b>1974</b>—Subsec. (a). Pub. L. 93–495, §408(a), substituted provisions setting forth determination of amount of liability of any creditor failing to comply with any requirement imposed under part D of this subchapter or this part, for provisions setting forth determination of amount of liability of any creditor failing to disclose in connection with any consumer credit transaction any information required under this part to be disclosed to specified persons.
 
 Subsec. (b). Pub. L. 93–495, §408(b), inserted “for any failure to comply with any requirement imposed under this part,” before “if within”.
 
@@ -171,6 +217,12 @@ Subsec. (f). Pub. L. 93–495, §406, added subsec. (f).
 Subsec. (g). Pub. L. 93–495, §407, added subsec. (g).
 
 Subsec. (h). Pub. L. 93–495, §408(d), added subsec. (h).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 1100A(2) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+
+Amendment by sections 1413, 1416, 1417, and 1422 of Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date, if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of this title.
 
 #### Effective Date of 2009 Amendment
 

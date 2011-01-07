@@ -42,7 +42,7 @@ Pub. L. 92–570, title VII, §745, Oct. 26, 1972, 86 Stat. 1203.
 
 #### Amendments
 
-2001—Pub. L. 107–107 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>2001</b>—Pub. L. 107–107 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date
 

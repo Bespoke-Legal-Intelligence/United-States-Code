@@ -22,7 +22,7 @@ The committee shall consist of 7 members, of whom—
 
 &emsp;(3) the Secretary shall designate one member as chairman.
 
-> The Secretary may not appoint to the committee any individual who is an officer or employeeof the Government (including the Smithsonian Institution) or any individual who is otherwise affiliated with the Smithsonian Institution.
+> The Secretary may not appoint to the committee any individual who is an officer or employee of the Government (including the Smithsonian Institution) or any individual who is otherwise affiliated with the Smithsonian Institution.
 
 #### (c) Access
 
@@ -62,7 +62,7 @@ The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–278, §5(1), in first sentence, inserted “and unassociated funerary objects, sacred objects, and objects of cultural patrimony under section 80q–9a of this title” before period.
+<b>1996</b>—Subsec. (a). Pub. L. 104–278, §5(1), in first sentence, inserted “and unassociated funerary objects, sacred objects, and objects of cultural patrimony under section 80q–9a of this title” before period.
 
 Subsec. (b). Pub. L. 104–278, §5(2)(A), substituted “7 members” for “five members” in introductory provisions.
 

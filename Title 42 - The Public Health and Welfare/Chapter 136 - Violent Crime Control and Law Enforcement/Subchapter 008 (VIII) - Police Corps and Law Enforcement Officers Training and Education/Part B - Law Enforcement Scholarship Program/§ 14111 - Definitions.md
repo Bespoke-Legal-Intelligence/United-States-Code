@@ -24,7 +24,7 @@ In this part—
 
 #### Amendments
 
-1998—Pub. L. 105–244 substituted “section 1001” for “section 1141(a)” in par. defining “institution of higher education”.
+<b>1998</b>—Pub. L. 105–244 substituted “section 1001” for “section 1141(a)” in par. defining “institution of higher education”.
 
 #### Effective Date of 1998 Amendment
 

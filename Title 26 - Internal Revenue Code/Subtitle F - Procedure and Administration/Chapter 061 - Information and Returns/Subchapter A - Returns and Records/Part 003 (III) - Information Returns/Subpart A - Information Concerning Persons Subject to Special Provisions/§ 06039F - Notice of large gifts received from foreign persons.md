@@ -16,7 +16,7 @@ For purposes of this section, the term “foreign gift” means any amount recei
 
 &emsp;&emsp;(A) the tax consequences of the receipt of such gift shall be determined by the Secretary, and
 
-&emsp;&emsp;(B) such United States person shall pay (upon notice and demand by the Secretary and in the same manner as tax) an amount equal to 5 percent of the amount of such foreign gift for each month for which the failure continues (not to exceed 25 percent of such amount in the aggregate).
+&emsp;&emsp;(B) such United States person shall pay (upon notice and demand by the Secretary and in the same manner as tax) an amountequal to 5 percent of the amount of such foreign gift for each month for which the failure continues (not to exceed 25 percent of such amount in the aggregate).
 
 #### (2) Reasonable cause exception
 

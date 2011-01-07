@@ -68,7 +68,7 @@ It is the sense of Congress that the Secretary of Energy, the Director of the Fe
 
 For purposes of this section:
 
-&emsp;(1) The term “background review”, commonly known as an indices check, means a review of information provided by the Director of Central Intelligence and the Director of the Federal Bureau of Investigation regarding personal background, including information relating to any history of criminal activity or to any evidence of espionage.
+&emsp;(1) The term “background review”, commonly known as an indices check, means a review of information provided by the Director of Central Intelligence and the Director of theFederal Bureau of Investigation regarding personal background, including information relating to any history of criminal activity or to any evidence of espionage.
 
 &emsp;(2) The term “sensitive countries list” means the list prescribed by the Secretary of Energy known as the Department of Energy List of Sensitive Countries as in effect on January 1, 1999.
 
@@ -90,7 +90,7 @@ Section was formerly classified to section 7383c of Title 42, The Public Health 
 
 #### Amendments
 
-2003—Subsec. (b)(2). Pub. L. 108–136, §3141(h)(3)(D)(i)(I), substituted “on November 4, 1999,” for “30 days after October 5, 1999,” in introductory provisions.
+<b>2003</b>—Subsec. (b)(2). Pub. L. 108–136, §3141(h)(3)(D)(i)(I), substituted “on November 4, 1999,” for “30 days after October 5, 1999,” in introductory provisions.
 
 Subsec. (b)(2)(A). Pub. L. 108–136, §3141(h)(3)(D)(i)(II), substituted “January 3, 2000” for “The date that is 90 days after October 5, 1999”.
 

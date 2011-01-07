@@ -60,13 +60,13 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Amendments
 
-1998—Subsec. (b)(12). Pub. L. 105–292 added par. (12).
+<b>1998</b>—Subsec. (b)(12). Pub. L. 105–292 added par. (12).
 
-1983—Subsec. (b)(11). Pub. L. 98–164 added par. (11).
+<b>1983</b>—Subsec. (b)(11). Pub. L. 98–164 added par. (11).
 
-1966—Subsec. (b)(10). Pub. L. 89–698 added par. (10).
+<b>1966</b>—Subsec. (b)(10). Pub. L. 89–698 added par. (10).
 
-1962—Subsec. (a)(3). Pub. L. 87–565 inserted “abroad” after “expositions”.
+<b>1962</b>—Subsec. (a)(3). Pub. L. 87–565 inserted “abroad” after “expositions”.
 
 #### Effective Date of 1962 Amendment
 

@@ -104,7 +104,7 @@ The Secretary shall establish a program of research, development, demonstration,
 
 #### Amendments
 
-2007—Subsecs. (g), (h). Pub. L. 110–140 added subsecs. (g) and (h).
+<b>2007</b>—Subsecs. (g), (h). Pub. L. 110–140 added subsecs. (g) and (h).
 
 #### Effective Date of 2007 Amendment
 

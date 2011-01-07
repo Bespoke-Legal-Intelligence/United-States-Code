@@ -58,7 +58,7 @@
 
 #### (C) Property attributable to accrued interest
 
-&emsp;&emsp;Neither paragraph (1) nor so much of section 356 as relates to paragraph (1) shallapply to the extent that any stock (including nonqualified preferred stock, as defined in section 351(g)(2)), securities, or other property received is attributable to interest which has accrued on securities on or after the beginning of the holder's holding period.
+&emsp;&emsp;Neither paragraph (1) nor so much of section 356 as relates to paragraph (1) shall apply to the extent that any stock (including nonqualified preferred stock, as defined in section 351(g)(2)), securities, or other property received is attributable to interest which has accrued on securities on or after the beginning of the holder's holding period.
 
 #### (D) Nonqualified preferred stock
 
@@ -110,7 +110,7 @@
 
 #### (C) Treatment of trade or business conducted by acquired member
 
-&emsp;&emsp;If a corporation became a member of a separate affiliated group as a result of one or more transactions in which gain or loss was recognized in whole or in part, any trade or business conducted by such corporation (at the time that such corporation became such a member) shall be treated for purposes of paragraph (2) as acquired in a transaction in which gain or loss was recognized in whole or in part.
+&emsp;&emsp;If a corporation became a member of a separate affiliated group as a result of one ormore transactions in which gain or loss was recognized in whole or in part, any trade or business conducted by such corporation (at the time that such corporation became such a member) shall be treated for purposes of paragraph (2) as acquired in a transaction in which gain or loss was recognized in whole or in part.
 
 #### (D) Regulations
 
@@ -480,17 +480,17 @@ The date of the enactment of this subsection, referred to in subsec. (g)(2)(A)(i
 
 #### Amendments
 
-2007—Subsec. (b)(2)(A). Pub. L. 110–172, §4(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “it is engaged in the active conduct of a trade or business, or substantially all of its assets consist of stock and securities of a corporation controlled by it (immediately after the distribution) which is so engaged,”.
+<b>2007</b>—Subsec. (b)(2)(A). Pub. L. 110–172, §4(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “it is engaged in the active conduct of a trade or business, or substantially all of its assets consist of stock and securities of a corporation controlled by it (immediately after the distribution) which is so engaged,”.
 
-Subsec. (b)(3). Pub. L. 110–172, §4(b)(2), amended par. (3) generally. Prior to amendment, par. (3) provided forspecial rule relating to active business requirement applicable in the case of any distribution made after May 17, 2006.
+Subsec. (b)(3). Pub. L. 110–172, §4(b)(2), amended par. (3) generally. Prior to amendment, par. (3) provided for special rule relating to active business requirement applicable in the case of any distribution made after May 17, 2006.
 
-2006—Subsec. (b)(3). Pub. L. 109–222, §202, added par. (3).
+<b>2006</b>—Subsec. (b)(3). Pub. L. 109–222, §202, added par. (3).
 
 Subsec. (b)(3)(A), (D). Pub. L. 109–432 struck out “and on or before December 31, 2010” after “this paragraph” in subpar. (A) and after “such date” in subpar. (D).
 
 Subsec. (g). Pub. L. 109–222, §507(a), added subsec. (g).
 
-1998—Subsec. (e)(3)(A). Pub. L. 105–206, §6010(c)(2)(A), substituted “shall not be taken into account in applying” for “shall not be treated as described in” in introductory provisions.
+<b>1998</b>—Subsec. (e)(3)(A). Pub. L. 105–206, §6010(c)(2)(A), substituted “shall not be taken into account in applying” for “shall not be treated as described in” in introductory provisions.
 
 Subsec. (e)(3)(A)(iv). Pub. L. 105–206, §6010(c)(2)(B), added cl. (iv) and struck out former cl. (iv) which read as follows: “The acquisition of stock in a corporation if shareholders owning directly or indirectly stock possessing—
 
@@ -500,7 +500,7 @@ Subsec. (e)(3)(A)(iv). Pub. L. 105–206, §6010(c)(2)(B), added cl. (iv) and st
 
 > in the distributing corporation or any controlled corporation before such acquisition own directly or indirectly stock possessing such vote and value in such distributing or controlled corporation after such acquisition.”
 
-1997—Subsec. (a)(3)(C). Pub. L. 105–34, §1014(e)(1), inserted “(including nonqualified preferred stock, as defined in section 351(g)(2))” after “stock”.
+<b>1997</b>—Subsec. (a)(3)(C). Pub. L. 105–34, §1014(e)(1), inserted “(including nonqualified preferred stock, as defined in section 351(g)(2))” after “stock”.
 
 Subsec. (a)(3)(D). Pub. L. 105–34, §1014(c), added subpar. (D).
 
@@ -510,9 +510,9 @@ Subsec. (e). Pub. L. 105–34, §1012(a), added subsec. (e).
 
 Subsec. (f). Pub. L. 105–34, §1012(b)(1), added subsec. (f).
 
-1996—Subsec. (d)(7)(A). Pub. L. 104–188 inserted “section” before “267(b)”.
+<b>1996</b>—Subsec. (d)(7)(A). Pub. L. 104–188 inserted “section” before “267(b)”.
 
-1990—Subsec. (c). Pub. L. 101–508, §11321(a), added subsec. (c) and struck out former subsec. (c) which read as follows:
+<b>1990</b>—Subsec. (c). Pub. L. 101–508, §11321(a), added subsec. (c) and struck out former subsec. (c) which read as follows:
 
 “(1)
 
@@ -550,7 +550,7 @@ Pub. L. 101–508, §11702(e)(2), amended subsec. (c) generally. Prior to amendm
 
 Subsec. (d). Pub. L. 101–508, §11321(a), added subsec. (d).
 
-1988—Subsec. (b)(2)(D)(i), (ii). Pub. L. 100–647, §2004(k)(1), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+<b>1988</b>—Subsec. (b)(2)(D)(i), (ii). Pub. L. 100–647, §2004(k)(1), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
 “(i) was not acquired by any distributee corporation directly (or through 1 or more corporations, whether through the distributing corporation or otherwise) within the period described in subparagraph (B), or
 
@@ -558,17 +558,17 @@ Subsec. (d). Pub. L. 101–508, §11321(a), added subsec. (d).
 
 Subsec. (c). Pub. L. 100–647, §1018(d)(5)(C), added subsec. (c).
 
-1987—Subsec. (b)(2)(D). Pub. L. 100–203, §10223(b)(3), inserted at end “For purposes of subparagraph (D), all distributee corporations which are members of the same affiliated group (as defined in section 1504(a) without regard to section 1504(b)) shall be treated as 1 distributee corporation.”
+<b>1987</b>—Subsec. (b)(2)(D). Pub. L. 100–203, §10223(b)(3), inserted at end “For purposes of subparagraph (D), all distributee corporations which are members of the same affiliated group (as defined in section 1504(a) without regard to section 1504(b)) shall be treated as 1 distributee corporation.”
 
 Subsec. (b)(2)(D)(i). Pub. L. 100–203, §10223(b)(1), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “was not acquired directly (or through one or more corporations) by another corporation within the period described in subparagraph (B), or”.
 
 Subsec. (b)(2)(D)(ii). Pub. L. 100–203, §10223(b)(2), substituted “such distributee corporation” for “by another corporation”.
 
-1980—Subsec. (a)(3). Pub. L. 96–589 designated existing provisions as subpars. (A) and (B) and added subpar. (C).
+<b>1980</b>—Subsec. (a)(3). Pub. L. 96–589 designated existing provisions as subpars. (A) and (B) and added subpar. (C).
 
 Subsec. (a)(4). Pub. L. 96–589, §4(e)(2), designated existing provisions as subpar. (A), substituted “exchange if any property” for “distribution if any property”, inserted provisions excluding property to which paragraph (3)(C) applies, and added subpar. (B).
 
-1976—Subsec. (a)(1)(D)(ii). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a)(1)(D)(ii). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 2007 Amendment
 
@@ -676,7 +676,7 @@ Amendment by section 2004(k)(1) of Pub. L. 100–647 effective, except as otherw
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to distributions or transfers after Dec. 15, 1987, with exceptions for certain distributee corporations and distributions covered by prior transition rule, see section 10223(d) of Pub. L. 100–203, set out as a note under section 304 of this title.
+Amendment by Pub. L. 100–203 applicable to distributions or transfers after Dec. 15, 1987, with exceptions forcertain distributee corporations and distributions covered by prior transition rule, see section 10223(d) of Pub. L. 100–203, set out as a note under section 304 of this title.
 
 #### Effective Date of 1980 Amendment
 

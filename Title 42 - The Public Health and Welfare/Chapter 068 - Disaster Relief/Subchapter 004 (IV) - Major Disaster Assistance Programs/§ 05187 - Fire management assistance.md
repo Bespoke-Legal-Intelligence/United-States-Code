@@ -20,7 +20,7 @@ The President shall prescribe such rules and regulations as are necessary to car
 
 #### Amendments
 
-2000—Pub. L. 106–390 amended section catchline and text generally. Prior to amendment, text read as follows: “The President is authorized to provide assistance, including grants, equipment, supplies, and personnel, to any State for the suppression of any fire on publicly or privately owned forest or grassland which threatens such destruction as would constitute a major disaster.”
+<b>2000</b>—Pub. L. 106–390 amended section catchline and text generally. Prior to amendment, text read as follows: “The President is authorized to provide assistance, including grants, equipment, supplies, and personnel, to any State for the suppression of any fire on publicly or privately owned forest or grassland which threatens such destruction as would constitute a major disaster.”
 
 #### Effective Date of 2000 Amendment
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) the Postal Service puts into effect rates of compensation to be charged another country for transportation; and
 
-&emsp;(2) the United States is required to collect from another country the amounts owed fortransportation for the account of the air carriers.
+&emsp;(2) the United States is required to collect from another country the amounts owed for transportation for the account of the air carriers.
 
 (b) When the Postal Service has proceeded under authority of subsection (a) of this section, it shall—
 

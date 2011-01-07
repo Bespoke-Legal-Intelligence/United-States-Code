@@ -40,7 +40,7 @@ For purposes of subsection (a), the following property shall be considered to ha
 
 &emsp;&emsp;(C) property described in any other paragraph of this subsection.
 
-&emsp;(10) Property includible in the gross estate of the decedent under section 2044 (relating to certain property for which marital deductionwas previously allowed). In any such case, the last 3 sentences of paragraph (9) shall apply as if such property were described in the first sentence of paragraph (9).
+&emsp;(10) Property includible in the gross estate of the decedent under section 2044 (relating to certain property for which marital deduction was previously allowed). In any such case, the last 3 sentences of paragraph (9) shall apply as if such property were described in the first sentence of paragraph (9).
 
 #### (c) Property representing income in respect of a decedent
 
@@ -74,13 +74,11 @@ If stock owned by a decedent in a DISC or former DISC (as defined in section 992
 
 &emsp;&emsp;In the case of any appreciated property described in subparagraph (A) of paragraph (1) sold by the estate of the decedent or by a trust of which the decedent was the grantor, rules similar to the rules of paragraph (1) shall apply to the extent the donor of such property (or the spouse of such donor) is entitled to the proceeds from such sale.
 
-#### (f) Termination
-
-This section shall not apply with respect to decedents dying after December 31, 2009.
-
-(Aug. 16, 1954, ch. 736, 68A Stat. 296; Pub. L. 85–320, §2, Feb. 11, 1958, 72 Stat. 5; Pub. L. 92–178, title V, §502(f), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title XIX, §1901(c)(8), title XX, §2005(a)(1), Oct. 4, 1976, 90 Stat. 1803, 1872; Pub. L. 95–600, title V, §515(1), title VII, §702(c)(1)(A), Nov. 6, 1978, 92 Stat. 2884, 2926; Pub. L. 96–222, title I, §107(a)(2)(A), Apr. 1, 1980, 94 Stat. 222; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 97–34, title IV, §425(a), Aug. 13, 1981, 95 Stat. 318; Pub. L. 97–448, title I, §104(a)(1)(A), Jan. 12, 1983, 96 Stat. 2379; Pub. L. 105–34, title V, §508(b), Aug. 5, 1997, 111 Stat. 860; Pub. L. 107–16, title V, §541, June 7, 2001, 115 Stat. 76; Pub. L. 108–357, title IV, §413(c)(18), Oct. 22, 2004, 118 Stat. 1508.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 296; Pub. L. 85–320, §2, Feb. 11, 1958, 72 Stat. 5; Pub. L. 92–178, title V, §502(f), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title XIX, §1901(c)(8), title XX, §2005(a)(1), Oct. 4, 1976, 90 Stat. 1803, 1872; Pub. L. 95–600, title V, §515(1), title VII, §702(c)(1)(A), Nov. 6, 1978, 92 Stat. 2884, 2926; Pub. L. 96–222, title I, §107(a)(2)(A), Apr. 1, 1980, 94 Stat. 222; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 97–34, title IV, §425(a), Aug. 13, 1981, 95 Stat. 318; Pub. L. 97–448, title I, §104(a)(1)(A), Jan. 12, 1983, 96 Stat. 2379; Pub. L. 105–34, title V, §508(b), Aug. 5, 1997, 111 Stat. 860; Pub. L. 107–16, title V, §541, June 7, 2001, 115 Stat. 76; Pub. L. 108–357, title IV, §413(c)(18), Oct. 22, 2004, 118 Stat. 1508; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300.)
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 304 of Pub. L. 111–312, see Effective and Termination Dates of 2010 Amendment note below.</i>
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Termination Date of 2001 Amendment note below.</i>
 
@@ -96,31 +94,39 @@ The Internal Revenue Code of 1939, referred to in subsec. (b)(9), is act Feb. 10
 
 #### Amendments
 
-2004—Subsec. (b)(5). Pub. L. 108–357 inserted “and before January 1, 2005,” after “August 26, 1937,”.
+<b>2010</b>—Subsec. (f). Pub. L. 111–312, §§301(a), 304, temporarily amended section to read as if amendment by Pub. L. 107–16, §541, had never been enacted. See 2001 Amendment note and Effective and Termination Dates of 2010 Amendment note below. Prior to amendment, text of subsec. (f) read as follows: “This section shall not apply with respect to decedents dying after December 31, 2009.”
 
-2001—Subsec. (f). Pub. L. 107–16, §§541, 901, temporarily added subsec. (f). See Termination Date of 2001 Amendment note below.
+<b>2004</b>—Subsec. (b)(5). Pub. L. 108–357 inserted “and before January 1, 2005,” after “August 26, 1937,”.
 
-1997—Subsec. (a). Pub. L. 105–34 struck out “or” at end of pars. (1) and (2), struck out the period at end of par. (3) and inserted “, or”, and added par. (4).
+<b>2001</b>—Subsec. (f). Pub. L. 107–16, §§541, 901, temporarily added subsec. (f). See Termination Date of 2001 Amendment note below.
 
-1983—Subsec. (b)(10). Pub. L. 97–448 added par. (10).
+<b>1997</b>—Subsec. (a). Pub. L. 105–34 struck out “or” at end of pars. (1) and (2), struck out the period at end of par. (3) and inserted “, or”, and added par. (4).
 
-1981—Subsec. (e). Pub. L. 97–34 added subsec. (e).
+<b>1983</b>—Subsec. (b)(10). Pub. L. 97–448 added par. (10).
 
-1980—Subsec. (a)(3). Pub. L. 96–222 substituted “section 2032A” for “section 2032.1”.
+<b>1981</b>—Subsec. (e). Pub. L. 97–34 added subsec. (e).
+
+<b>1980</b>—Subsec. (a)(3). Pub. L. 96–222 substituted “section 2032A” for “section 2032.1”.
 
 Subsec. (d). Pub. L. 96–223 repealed the amendment made by Pub. L. 94–455, §2005(a)(1). See 1976 Amendment note below.
 
-1978—Subsec. (a). Pub. L. 95–600, §702(c)(1)(A), designated existing provisions as pars. (1) and (2) and added par. (3).
+<b>1978</b>—Subsec. (a). Pub. L. 95–600, §702(c)(1)(A), designated existing provisions as pars. (1) and (2) and added par. (3).
 
 Subsec. (d). Pub. L. 95–600, §515(1), substituted “December 31, 1979” for “December 31, 1976” in heading and text.
 
-1976—Subsec. (b)(6), (7). Pub. L. 94–455, §1901(c)(8), struck out “Territory,” after “under the community property laws of any State,”.
+<b>1976</b>—Subsec. (b)(6), (7). Pub. L. 94–455, §1901(c)(8), struck out “Territory,” after “under the community property laws of any State,”.
 
 Subsec. (d). Pub. L. 94–455, §2005(a)(1), substituted provision relating to the applicability of this section to decedents dying after 1976 for provision relating to a special rule with respect to DISC stock. See Repeals note below.
 
-1971—Subsec. (d). Pub. L. 92–178 added subsec. (d).
+<b>1971</b>—Subsec. (d). Pub. L. 92–178 added subsec. (d).
 
-1958—Subsec. (d). Pub. L. 85–320 repealed subsec. (d) which made section inapplicable to restricted stock options described in section 421 which the employee has not exercised at death.
+<b>1958</b>—Subsec. (d). Pub. L. 85–320 repealed subsec. (d) which made section inapplicable to restricted stock options described in section 421 which the employee has not exercised at death.
+
+#### Effective and Termination Dates of 2010 Amendment
+
+Amendment by Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31, 2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as a note under section 121 of this title.
+
+Section 901 of Pub. L. 107–16 applicable to amendments by section 301(a) of Pub. L. 111–312, see section 304 of Pub. L. 111–312, set out as a note under section 121 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -128,7 +134,7 @@ Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporatio
 
 #### Termination Date of 2001 Amendment
 
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -136,7 +142,7 @@ Section 508(e)(1) of Pub. L. 105–34 provided that: “The amendments made by s
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in theprovision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date of 1981 Amendment
 

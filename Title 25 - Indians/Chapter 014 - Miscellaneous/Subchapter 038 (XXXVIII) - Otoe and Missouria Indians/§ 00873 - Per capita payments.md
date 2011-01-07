@@ -16,5 +16,5 @@ No part of any per capita payment shall be subject to any debt or debts, other t
 
 #### Amendments
 
-1960—Subsec. (b). Pub. L. 86–540 authorized per capita payments to be made in accordance with such procedures as the Secretary determines will adequately protect the best interests of the persons.
+<b>1960</b>—Subsec. (b). Pub. L. 86–540 authorized per capita payments to be made in accordance with such procedures as the Secretary determines will adequately protect the best interests of the persons.
 

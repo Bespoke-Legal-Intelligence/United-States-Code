@@ -128,7 +128,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, §201(k)(2); added Sept. 8, 1982, Pub. L. 97
 
 #### Amendments
 
-1983—Subsec. (a). Pub. L. 97–452 redesignated existing provision as par. (1) and added par. (2).
+<b>1983</b>—Subsec. (a). Pub. L. 97–452 redesignated existing provision as par. (1) and added par. (2).
 
 #### Termination of Reporting Requirements Contained in This Section
 
@@ -168,7 +168,7 @@ Implementation of great lakes water quality agreement of 1978.—Section 118(c)(
 
 &emsp;“(3)
 
-Comprehensive conservation and management plan for long island sound.—Section 119(c)(7) of the Federal Water Pollution Control Act (33 U.S.C. 1269(c)(7)).
+Comprehensive conservation and management plan for long island sound.—Section 119(c)(7)of the Federal Water Pollution Control Act (33 U.S.C. 1269(c)(7)).
 
 &emsp;“(4)
 
@@ -232,7 +232,7 @@ Pub. L. 107–74, §1, Nov. 28, 2001, 115 Stat. 701, as amended by Pub. L. 110�
 
 &emsp;“(3) Section 7(a) of the Marine Resources and Engineering Development Act of 1966 (33 U.S.C. 1106(a)).
 
-&emsp;“(4) Section 206 of the National Aeronautics and Space Act of 1958 (42 U.S.C. 2476).
+&emsp;“(4) Section 206 of the National Aeronautics and Space Act of 1958 (\[former\] 42 U.S.C. 2476) \[now 51 U.S.C. 20116\].
 
 &emsp;“(5) Section 404 of the Communications Satellite Act of 1962 (\[former\] 47 U.S.C. 744).
 
@@ -258,7 +258,7 @@ Pub. L. 107–74, §1, Nov. 28, 2001, 115 Stat. 701, as amended by Pub. L. 110�
 
 &emsp;“(16) Section 2367(c) of title 10, United States Code.
 
-&emsp;“(17) Section 303(c)(7) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(7)).
+&emsp;“(17) Section 303(c)(7) of the Federal Property and Administrative Services Act of 1949 (\[former\] 41 U.S.C. 253(c)(7)) \[see 41 U.S.C. 3304(a)(7)\].
 
 &emsp;“(18) Section 102(e)(7) of the Global Change Research Act of 1990 (15 U.S.C. 2932(e)(7)).
 
@@ -688,7 +688,7 @@ Pub. L. 106–65, div. A, title X, §1031, Oct. 5, 1999, 113 Stat. 749, provided
 
 &emsp;“(12) Section 205(b) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486(b)) \[now 40 U.S.C. 121(b)\].
 
-&emsp;“(13) Section 3732 of the Revised Statutes, popularly known as the ‘Food and Forage Act’ (41 U.S.C. 11).
+&emsp;“(13) Section 3732 of the Revised Statutes, popularly known as the ‘Food and Forage Act’ (\[former\] 41 U.S.C. 11) \[now 41 U.S.C. 6301(a), (b)\].
 
 &emsp;“(14) Section 101(b)(6) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff(b)(6)).
 

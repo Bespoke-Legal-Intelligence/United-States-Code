@@ -18,7 +18,7 @@ The following terms and conditions shall apply to the Fund in the same manner as
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–323 inserted “and principal” after “interest”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–323 inserted “and principal” after “interest”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “and”.</i>
 

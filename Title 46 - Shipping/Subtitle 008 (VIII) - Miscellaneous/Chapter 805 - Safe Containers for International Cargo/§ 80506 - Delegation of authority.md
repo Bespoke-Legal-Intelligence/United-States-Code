@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of the department in which the Coast Guard is operating may delegate to any person, including a public or private agency or nonprofit organization, authority to grant initial approval for containers and designs and to attach safety approval plates.
+In General.—The Secretary of the department in which the Coast Guard is operating maydelegate to any person, including a public or private agency or nonprofit organization, authority to grant initial approval for containers and designs and to attach safety approval plates.
 
 (b)
 

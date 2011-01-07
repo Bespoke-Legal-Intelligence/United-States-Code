@@ -42,7 +42,7 @@ The Assistant Secretary shall prepare and submit to the appropriate committees o
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–365, §404(1), inserted “mental health services,” after “adult day health care,”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–365, §404(1), inserted “mental health services,” after “adult day health care,”.
 
 Subsec. (b)(1)(B)(i). Pub. L. 109–365, §404(2), inserted “mental health,” after “public health,”.
 

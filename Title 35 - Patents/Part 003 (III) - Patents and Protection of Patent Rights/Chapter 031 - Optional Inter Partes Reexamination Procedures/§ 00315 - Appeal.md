@@ -18,13 +18,13 @@ Third-Party Requester.—A third-party requester—
 
 (c)
 
-Civil Action.—A third-party requester whose request for an inter partes reexamination results in an order under section 313 is estoppedfrom asserting at a later time, in any civil action arising in whole or in part under section 1338 of title 28, the invalidity of any claim finally determined to be valid and patentable on any ground which the third-party requester raised or could have raised during the inter partes reexamination proceedings. This subsection does not prevent the assertion of invalidity based on newly discovered prior art unavailable to the third-party requester and the Patent and Trademark Office at the time of the inter partes reexamination proceedings.
+Civil Action.—A third-party requester whose request for an inter partes reexamination results in an order under section 313 is estopped from asserting at a later time, in any civil action arising in whole or in part under section 1338 of title 28, the invalidity of any claim finally determined to be valid and patentable on any ground which the third-party requester raised or could have raised during the inter partes reexamination proceedings. This subsection does not prevent the assertion of invalidity based on newly discovered prior art unavailable to the third-party requester and the Patent and Trademark Office at the time of the inter partes reexamination proceedings.
 
 (Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4604(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–569; amended Pub. L. 107–273, div. C, title III, §§13106(a), 13202(a)(4), (c)(1), Nov. 2, 2002, 116 Stat. 1900–1902.)
 
 #### Amendments
 
-2002—Pub. L. 107–273, §13202(c)(1), made technical correction to directory language of Pub. L. 106–113, which enacted this section.
+<b>2002</b>—Pub. L. 107–273, §13202(c)(1), made technical correction to directory language of Pub. L. 106–113, which enacted this section.
 
 Subsec. (b). Pub. L. 107–273, §13106(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A third-party requester may—
 
@@ -40,5 +40,5 @@ Amendment by section 13106(a) of Pub. L. 107–273 applicable with respect to an
 
 #### Estoppel Effect of Reexamination
 
-Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, subtitle F, §4607\], Nov. 29, 1999, 113 Stat. 1536, 1501A–571, provided that: “Any party who requests an inter partes reexamination under section 311 of title 35, United States Code, is estopped from challenging at a later time, in any civil action, any fact determined during the process of such reexamination, except with respect to a fact determination later proved to be erroneous based on information unavailable at the time of the inter partes reexamination decision. If this section is held to be unenforceable, the enforceability of the remainder of this subtitle \[see Short Title of 1999 Amendment note set out under section 1 of this title\] or of this title \[see Tables for classification\] shall not be denied as a result.”
+Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, subtitle F, §4607\], Nov. 29, 1999, 113 Stat. 1536, 1501A–571, provided that: “Any party who requests an inter partes reexamination under section 311 of title 35, United States Code, is estopped from challenging at a later time, in any civil action, any fact determined during the process of such reexamination, except with respect to a fact determination later proved to be erroneous based on information unavailable at the time of the inter partes reexamination decision. If this section is held to be unenforceable, the enforceability of the remainder of this subtitle \[see Short Title of 1999 Amendment note setout under section 1 of this title\] or of this title \[see Tables for classification\] shall not be denied as a result.”
 

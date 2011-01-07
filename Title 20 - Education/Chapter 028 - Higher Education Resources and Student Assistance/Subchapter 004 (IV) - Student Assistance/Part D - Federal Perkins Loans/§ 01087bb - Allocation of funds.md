@@ -264,11 +264,11 @@ A prior section 1087bb, Pub. L. 89–329, title IV, §462, as added Pub. L. 92�
 
 #### Amendments
 
-2009—Subsec. (a)(1)(A). Pub. L. 111–39 added subpar. (A) and struck out former subpar. (A), resulting in text identical to that after execution of the amendment by Pub. L. 105–244, §462(a)(1)(A). See 1998 Amendment note below.
+<b>2009</b>—Subsec. (a)(1)(A). Pub. L. 111–39 added subpar. (A) and struck out former subpar. (A), resulting in text identical to that after execution of the amendment by Pub. L. 105–244, §462(a)(1)(A). See 1998 Amendment note below.
 
-2008—Subsec. (c)(4)(D). Pub. L. 110–315 substituted “$600” for “$450”.
+<b>2008</b>—Subsec. (c)(4)(D). Pub. L. 110–315 substituted “$600” for “$450”.
 
-1998—Subsec. (a)(1). Pub. L. 105–244, §462(e)(1), inserted “cohort” before “default” in two places in concluding provisions.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–244, §462(e)(1), inserted “cohort” before “default” in two places in concluding provisions.
 
 Pub. L. 105–244, §462(a)(2)(A)(ii), substituted “subsection (f)” for “subsection (g)” in concluding provisions.
 
@@ -392,13 +392,13 @@ Subsec. (j)(2)(A)(i). Pub. L. 105–244, §462(a)(2)(G)(i), substituted “subse
 
 Subsec. (j)(2)(B). Pub. L. 105–244, §462(a)(2)(G)(ii), substituted “subsection (b)” for “subsection (c)”.
 
-1993—Subsec. (a)(1), (2)(D). Pub. L. 103–208, §2(f)(1), substituted “if the institution has” for “if the institution which has” in closing provisions.
+<b>1993</b>—Subsec. (a)(1), (2)(D). Pub. L. 103–208, §2(f)(1), substituted “if the institution has” for “if the institution which has” in closing provisions.
 
 Subsec. (d)(4)(C). Pub. L. 103–208, §2(f)(2), substituted “150 percent of the difference between the income protection allowance for a family of five with one in college and the income protection allowance for a family of six with one in college” for “three-fourths in the Pell Grant family size offset”.
 
 Subsecs. (e)(2), (h)(4)(B). Pub. L. 103–208, §2(f)(3), (4), realigned margins.
 
-1992—Subsec. (a)(1)(A). Pub. L. 102–325, §462(a), substituted “allocated to such institution” for “such institution received”.
+<b>1992</b>—Subsec. (a)(1)(A). Pub. L. 102–325, §462(a), substituted “allocated to such institution” for “such institution received”.
 
 Subsec. (e). Pub. L. 102–325, §462(b), designated existing provisions as par. (1) and added par. (2).
 
@@ -414,7 +414,7 @@ Subsec. (h). Pub. L. 102–325, §462(e), substituted “Definitions of default 
 
 Subsec. (j). Pub. L. 102–325, §462(f), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “If an institution returns to the Secretary any portion of the sums allocated to such institution under this section for any fiscal year the Secretary shall, in accordance with regulations, reallocate such excess to other institutions.”
 
-1987—Subsec. (a)(1)(A). Pub. L. 100–50, §13(a), amended subpar. (A) generally, substituting “of Federal capital contribution such institution received” for “such institution expended”.
+<b>1987</b>—Subsec. (a)(1)(A). Pub. L. 100–50, §13(a), amended subpar. (A) generally, substituting “of Federal capital contribution such institution received” for “such institution expended”.
 
 Subsec. (d)(3), (4). Pub. L. 100–50, §13(b), redesignated par. (3), defining “average cost of attendance” and calculating average undergraduate and graduate and professional tuition and fees, standard living expenses, and allowance for books and supplies, as (4).
 

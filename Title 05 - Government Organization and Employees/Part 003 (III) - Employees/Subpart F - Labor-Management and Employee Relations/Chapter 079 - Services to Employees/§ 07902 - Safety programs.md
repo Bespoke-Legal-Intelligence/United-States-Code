@@ -104,7 +104,7 @@ Heads of Agencies
 
 (e) Assure prompt abatement of unsafe or unhealthy working conditions. Whenever an agency cannot promptly abate such conditions, it shall develop an abatement plan setting forth a timetable for abatement and a summary of interim steps to protect employees. Employees exposed to the conditions shall be informed of the provisions of the plan. When a hazard cannot be abated without assistance of the General Services Administration or other Federal lessor agency, an agency shall act with the lessor agency to secure abatement.
 
-(f) Establish procedures to assure that no employee is subject to restraint, interference, coercion, discrimination or reprisal for filing a report of an unsafe or unhealthy working condition, or other participation inagency occupational safety and health program activities.
+(f) Establish procedures to assure that no employee is subject to restraint, interference, coercion, discrimination or reprisal for filing a report of an unsafe or unhealthy working condition, or other participation in agency occupational safety and health program activities.
 
 (g) Assure that periodic inspections of all agency workplaces are performed by personnel with equipment and competence to recognize hazards.
 
@@ -194,7 +194,7 @@ General Provisions
 
 1–701. Employees shall be authorized official time to participate in the activities provided for by this order.
 
-1–702. Nothing in this order shall be construed to impair or alter the powers and duties of the Secretary or heads of other Federal agencies pursuant to Section 19 of the Occupational Safety and Health Act of 1970 \[29 U.S.C. 668\]. Chapter 71 of Title 5 of the United States Code, Sections 7901, 7902, and 7903 of Title 5 of the United States Code, nor shall it be construed to alter any other provisions of law or Executive Order providing for collective bargaining agreements and related procedures, or affect the responsibilities of the Director of Central Intelligence to protect intelligence sources and methods (\[former\] 50 U.S.C. 403(d)(3)).
+1–702. Nothing in this order shall be construed to impair or alter the powers and duties of the Secretary or heads of other Federal agencies pursuant to Section 19 of the Occupational Safety and Health Act of 1970 \[29U.S.C. 668\]. Chapter 71 of Title 5 of the United States Code, Sections 7901, 7902, and 7903 of Title 5 of the United States Code, nor shall it be construed to alter any other provisions of law or Executive Order providing for collective bargaining agreements and related procedures, or affect the responsibilities of the Director of Central Intelligence to protect intelligence sources and methods (\[former\] 50 U.S.C. 403(d)(3)).
 
 1–703. Executive Order No. 11807 of September 28, 1974, is revoked.
 
@@ -241,4 +241,40 @@ Term of the Federal Advisory Council on Occupational Safety and Health extended 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+
+#### The Presidential POWER Initiative: Protecting Our Workers and Ensuring Reemployment
+
+Memorandum of President of the United States, July 19, 2010, 75 F.R. 43029, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+Each year Federal civilian employees are injured or fall ill on the job in significant numbers. Although the Federal Government has made progress in reducing workplace injuries and illnesses in recent years, its workers (excluding those employed by the U.S. Postal Service) still filed more than 79,000 new claims and received over $1.6 billion in workers’ compensation payments in fiscal year 2009. Many of these work-related injuries and illnesses are preventable, and executive departments and agencies can and should do even more to improve workplace safety and health, reduce the financial burden of injury on taxpayers, and relieve unnecessary suffering by workers and their families.
+
+Therefore, I am establishing a 4-year Protecting Our Workers and Ensuring Reemployment (POWER) Initiative, covering fiscal years 2011 through 2014. The POWER Initiative will extend prior workplace safety and health efforts of the Federal Government by setting more aggressive performance targets, encouraging the collection and analysis of data on the causes and consequences of frequent or severe injury and illness, and prioritizing safety and health management programs that have proven effective in the past.
+
+Under the POWER Initiative, each executive department and agency will be expected to improve its performance in seven areas:
+
+(i) reducing total injury and illness case rates;
+
+(ii) reducing lost time injury and illness case rates;
+
+(iii) analyzing lost time injury and illness data;
+
+(iv) increasing the timely filing of workers’ compensation claims;
+
+(v) increasing the timely filing of wage-loss claims;
+
+(vi) reducing lost production day rates; and
+
+(vii) speeding employees’ return to work in cases of serious injury or illness.
+
+Executive departments and agencies (except the U.S. Postal Service) shall coordinate with the Department of Labor's Occupational Safety and Health Administration and Office of Workers’ Compensation Programs to establish performance targets in each category. TheSecretary of Labor shall lead the POWER Initiative by measuring both Government-wide and agency-level performance and reporting to me annually.
+
+Each executive department and agency shall bear its own costs for participating in the POWER Initiative, and nothing in this memorandum shall be construed to impair or otherwise affect the authority granted by law to an executive department or agency, or the head thereof.
+
+This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+The Secretary of Labor is authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

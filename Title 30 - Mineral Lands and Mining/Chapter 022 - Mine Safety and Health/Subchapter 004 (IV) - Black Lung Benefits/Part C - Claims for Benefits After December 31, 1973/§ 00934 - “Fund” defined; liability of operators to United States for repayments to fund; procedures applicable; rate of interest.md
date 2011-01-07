@@ -52,19 +52,19 @@ In subsec. (b)(3)(B), “section 3713(a) of title 31” substituted for “secti
 
 #### Amendments
 
-1986—Subsec. (b)(3)(A), (C), (D), (5)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (b)(3)(A), (C), (D), (5)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1981—Subsec. (a). Pub. L. 97–119, §104(b)(6), substituted provision defining “fund” as used in this section for provision specifying payments, repayments, and reimbursements which funds from the Black Lung Disability Trust Fund would be available to pay.
+<b>1981</b>—Subsec. (a). Pub. L. 97–119, §104(b)(6), substituted provision defining “fund” as used in this section for provision specifying payments, repayments, and reimbursements which funds from the Black Lung Disability Trust Fund would be available to pay.
 
 Subsec. (b)(1). Pub. L. 97–119, §104(a)(2), inserted “plus interest thereon” after “attributed to him”.
 
 Subsec. (b)(5). Pub. L. 97–119, §104(a)(1), added par. (5).
 
-1980—Subsec. (b)(3)(A)(i). Pub. L. 96–222 substituted “Federal Mine Safety and Health Act of 1977” for “Federal Coal Mine Health and Safety Act of 1969”.
+<b>1980</b>—Subsec. (b)(3)(A)(i). Pub. L. 96–222 substituted “Federal Mine Safety and Health Act of 1977” for “Federal Coal Mine Health and Safety Act of 1969”.
 
-1978—Pub. L. 95–227 added subsec. (a), redesignated existing provisions constituting entire section as subsec. (b) and expanded applicability and set out procedures for enforcement of rights of United States against operators liable to the Fund.
+<b>1978</b>—Pub. L. 95–227 added subsec. (a), redesignated existing provisions constituting entire section as subsec. (b) and expanded applicability and set out procedures for enforcement of rights of United States against operators liable to the Fund.
 
-1972—Pub. L. 92–303 substituted “widow, child, parent, brother, or sister” for “widow” wherever appearing.
+<b>1972</b>—Pub. L. 92–303 substituted “widow, child, parent, brother, or sister” for “widow” wherever appearing.
 
 #### Effective Date of 1981 Amendment
 
@@ -72,7 +72,7 @@ Section 104(a)(3) of Pub. L. 97–119 provided that: “The amendment made by pa
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–222 effective as if included in the provisions of Pub. L. 95–227, which amended this section effective Apr. 1, 1978, see section 108(b)(4) of Pub. L. 96–222, set out as a note under section 192 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 96–222 effective as if included in the provisions of Pub. L. 95–227, which amended thissection effective Apr. 1, 1978, see section 108(b)(4) of Pub. L. 96–222, set out as a note under section 192 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1978 Amendment
 

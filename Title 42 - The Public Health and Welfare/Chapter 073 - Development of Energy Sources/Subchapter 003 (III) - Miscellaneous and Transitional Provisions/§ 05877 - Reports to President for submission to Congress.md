@@ -32,7 +32,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (c) of this se
 
 #### Transfer of Functions
 
-For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
+For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg.Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
 
 Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
 

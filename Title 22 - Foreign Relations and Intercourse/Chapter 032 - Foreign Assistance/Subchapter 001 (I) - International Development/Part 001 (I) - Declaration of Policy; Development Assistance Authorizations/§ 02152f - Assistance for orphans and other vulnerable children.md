@@ -166,7 +166,7 @@ Pub. L. 109–95, §2, Nov. 8, 2005, 119 Stat. 2111, provided that: “Congress 
 
 &emsp;“(12) The HIV/AIDS pandemic is placing huge burdens on communities and is leaving many orphans with little support. Alternatives to traditional orphanages, such as community-based resource centers, continue to evolve in response to the massive number of orphans that has resulted from the pandemic.
 
-&emsp;“(13) The AIDS orphans crisis in sub-Saharan Africa has implications for political stability, human welfare, and development that extend far beyond the region, affecting governments and people worldwide, and this crisis requires an accelerated response from the international community.
+&emsp;“(13) The AIDS orphans crisis in sub-Saharan Africa has implications for political stability, human welfare, and development that extend far beyond the region, affecting governments and people worldwide,and this crisis requires an accelerated response from the international community.
 
 &emsp;“(14) Although section 403(b) of the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 (22 U.S.C. 7673(b)) establishes the requirement that not less than 10 percent of amounts appropriated for HIV/AIDS assistance for each of fiscal years 2006 through 2008 shall be expended for assistance for orphans and other vulnerable children affected by HIV/AIDS, there is an urgent need to provide assistance to such children prior to 2006.
 

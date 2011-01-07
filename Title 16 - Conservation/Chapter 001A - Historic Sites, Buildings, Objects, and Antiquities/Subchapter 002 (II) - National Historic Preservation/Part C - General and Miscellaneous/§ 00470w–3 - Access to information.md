@@ -12,7 +12,7 @@ The head of a Federal agency or other public official receiving grant assistance
 
 #### (b) Access determination
 
-When the head of a Federal agency or other public official has determined that information should be withheld from the public pursuant to subsection (a) of this section, the Secretary, in consultation with such Federal agency head or official, shall determine who may have access to the information for the purpose of carrying out this subchapter.
+When the head of a Federal agency or other public official has determined that information should be withheld from the public pursuant to subsection (a) of this section, the Secretary, in consultation with such Federal agency head or official, shall determine who may have access tothe information for the purpose of carrying out this subchapter.
 
 #### (c) Consultation with Council
 
@@ -22,5 +22,5 @@ When the information in question has been developed in the course of an agency's
 
 #### Amendments
 
-1992—Pub. L. 102–575 amended section generally. Prior to amendment, section read as follows: “The head of any Federal agency, after consultation with the Secretary, shall withhold from disclosure to the public, information relating to the location or character of historic resources whenever the head of the agency or the Secretary determines that the disclosure of such information may create a substantial risk of harm, theft, or destruction to such resources or to the area or place where such resources are located.”
+<b>1992</b>—Pub. L. 102–575 amended section generally. Prior to amendment, section read as follows: “The head of any Federal agency, after consultation with the Secretary, shall withhold from disclosure to the public, information relating to the location or character of historic resources whenever the head of the agency or the Secretary determines that the disclosure of such information may create a substantial risk of harm, theft, or destruction to such resources or to the area or place where such resources are located.”
 

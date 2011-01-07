@@ -38,7 +38,7 @@ The words “when not on active duty, to retainer pay or retired pay” are subs
 
 #### Amendments
 
-1958—Pub. L. 85–861 substituted “to retainer pay or retired pay in accordance” for “to retain pay or retired pay in accordance”.
+<b>1958</b>—Pub. L. 85–861 substituted “to retainer pay or retired pay in accordance” for “to retain pay or retired pay in accordance”.
 
 Pub. L. 85–583 inserted “or the Retired Reserve” after “Navy” in cl. (3) and after “Marine Corps” in cl. (4).
 

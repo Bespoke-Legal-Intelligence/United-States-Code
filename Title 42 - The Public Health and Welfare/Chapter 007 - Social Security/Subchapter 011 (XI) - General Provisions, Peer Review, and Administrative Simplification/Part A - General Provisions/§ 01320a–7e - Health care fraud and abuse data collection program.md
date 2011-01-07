@@ -1,8 +1,8 @@
 ### §1320a–7e. Health care fraud and abuse data collection program
 
-#### (a) General purpose
+#### (a) In general
 
-Not later than January 1, 1997, the Secretary shall establish a national health care fraud and abuse data collection program for the reporting of final adverse actions (not including settlements in which no findings of liability have been made) against health care providers, suppliers, or practitioners as required by subsection (b) of this section, with access as set forth in subsection (c) of this section, and shall maintain a database of the information collected under this section.
+The Secretary shall maintain a national health care fraud and abuse data collection program under this section for the reporting of certain final adverse actions (not including settlements in which no findings of liability have been made) against health care providers, suppliers, or practitioners as required by subsection (b), with access as set forth in subsection (d), and shall furnish the information collected under this section to the National Practitioner Data Bank established pursuant to the Health Care Quality Improvement Act of 1986 (42 U.S.C. 11101 et seq.).
 
 #### (b) Reporting of information
 
@@ -48,7 +48,7 @@ Not later than January 1, 1997, the Secretary shall establish a national health 
 
 #### (1) Disclosure
 
-&emsp;With respect to the information about final adverse actions (not including settlements inwhich no findings of liability have been made) reported to the Secretary under this section with respect to a health care provider, supplier, or practitioner, the Secretary shall, by regulation, provide for—
+&emsp;With respect to the information about final adverse actions (not including settlements in which no findings of liability have been made) reported to the Secretary under this section with respect to a health care provider, supplier, or practitioner, the Secretary shall, by regulation, provide for—
 
 &emsp;&emsp;(A) disclosure of the information, upon request, to the health care provider, supplier, or licensed practitioner, and
 
@@ -62,19 +62,19 @@ Not later than January 1, 1997, the Secretary shall establish a national health 
 
 #### (1) Availability
 
-&emsp;The information in the database maintained under this section shall be available to Federal and State government agencies and health plans pursuant to procedures that the Secretary shall provide by regulation.
+&emsp;The information collected under this section shall be available from the National Practitioner Data Bank to the agencies, authorities, and officials which are provided under section 1396r–2(b) of this title information reported under section 1396r–2(a) of this title.
 
 #### (2) Fees for disclosure
 
-&emsp;The Secretary may establish or approve reasonable fees for the disclosure of information in such database (other than with respect to requests by Federal agencies). The amount of such a fee shall be sufficient to recover the full costs of operating the database. Such fees shall be available to the Secretary or, in the Secretary's discretion to the agency designated under this section to cover such costs.
+&emsp;The Secretary may establish or approve reasonable fees for the disclosure of information under this section. The amount of such a fee may not exceed the costs of processing the requests for disclosure and of providing such information. Such fees shall be available to the Secretary to cover such costs.
 
 #### (e) Protection from liability for reporting
 
 No person or entity, including the agency designated by the Secretary in subsection (b)(5) of this section shall be held liable in any civil action with respect to any report made as required by this section, without knowledge of the falsity of the information contained in the report.
 
-#### (f) Coordination with National Practitioner Data Bank
+#### (f) Appropriate coordination
 
-The Secretary shall implement this section in such a manner as to avoid duplication with the reporting requirements established for the National Practitioner Data Bank under the Health Care Quality Improvement Act of 1986 (42 U.S.C. 11101 et seq.).
+In implementing this section, the Secretary shall provide for the maximum appropriate coordination with part B of the Health Care Quality Improvement Act of 1986 (42 U.S.C. 11131 et seq.) and section 1396r–2 of this title.
 
 #### (g) Definitions and special rules
 
@@ -90,15 +90,17 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) Federal or State criminal convictions related to the delivery of a health care item or service.
 
-&emsp;&emsp;&emsp;(iii) Actions by Federal or State agencies responsible for the licensing and certification of health care providers, suppliers, and licensed health care practitioners, including—
+&emsp;&emsp;&emsp;(iii) Actions by Federal agencies responsible for the licensing and certification of health care providers, suppliers, and licensed health care practitioners, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) formal or official actions, such as revocation or suspension of a license (and the length of any such suspension), reprimand, censure or probation,
 
-&emsp;&emsp;&emsp;&emsp;(II) any other loss of license or the right to apply for, or renew, a license of the provider, supplier, or practitioner, whether by operation of law, voluntary surrender, non-renewability, or otherwise, or
+&emsp;&emsp;&emsp;&emsp;(II) any dismissal or closure of the proceedings by reason of the provider, supplier, or practitioner surrendering their license or leaving the State or jurisdiction <sup>1</sup>
 
-&emsp;&emsp;&emsp;&emsp;(III) any other negative action or finding by such Federal or State agency that is publicly available information.
+&emsp;&emsp;&emsp;&emsp;(III) any other loss of license or the right to apply for, or renew, a license of the provider, supplier, or practitioner, whether by operation of law, voluntary surrender, non-renewability, or otherwise, or
 
-&emsp;&emsp;&emsp;(iv) Exclusion from participation in Federal or State health care programs (as defined in sections 1320a–7b(f) and 1320a–7(h) of this title, respectively).
+&emsp;&emsp;&emsp;&emsp;(IV) any other negative action or finding by such Federal agency that is publicly available information.
+
+&emsp;&emsp;&emsp;(iv) Exclusion from participation in a Federal health care program (as defined in section 1320a–7b(f) of this title).
 
 &emsp;&emsp;&emsp;(v) Any other adjudicated actions or decisions that the Secretary shall establish by regulation.
 
@@ -120,11 +122,7 @@ For purposes of this section:
 
 &emsp;&emsp;(C) Any other Federal agency that either administers or provides payment for the delivery of health care services, including, but not limited to the Department of Defense and the Department of Veterans Affairs.
 
-&emsp;&emsp;(D) State law enforcement agencies.
-
-&emsp;&emsp;(E) State medicaid fraud control units.
-
-&emsp;&emsp;(F) Federal or State agencies responsible for the licensing and certification of health care providers and licensed health care practitioners.
+&emsp;&emsp;(D) Federal agencies responsible for the licensing and certification of health care providers and licensed health care practitioners.
 
 #### (4) Health plan
 
@@ -132,19 +130,53 @@ For purposes of this section:
 
 #### (5) Determination of conviction
 
-&emsp;For purposes of paragraph (1), the existence of a conviction shall be determined under paragraphs (1) through (4) of section 1320a–7(i) of this title.
+&emsp;For purposes of paragraph (1), the existence of a conviction shall be determined underparagraphs (1) through (4) of section 1320a–7(i) of this title.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128E, as added Pub. L. 104–191, title II, §221(a), Aug. 21, 1996, 110 Stat. 2009; amended Pub. L. 105–33, title IV, §4331(a)(2), (b), (d), Aug. 5, 1997, 111 Stat. 395, 396.)
+(Aug. 14, 1935, ch. 531, title XI, §1128E, as added Pub. L. 104–191, title II, §221(a), Aug. 21, 1996, 110 Stat. 2009; amended Pub. L. 105–33, title IV, §4331(a)(2), (b), (d), Aug. 5, 1997, 111 Stat. 395, 396; Pub. L. 111–148, title VI, §6403(a), Mar. 23, 2010, 124 Stat. 763.)
 
 #### References in Text
 
-The Internal Revenue Code of 1986, referred to in subsec. (b)(2)(A), is classified generally to Title 26, Internal Revenue Code.
+The Health Care Quality Improvement Act of 1986, referred to in subsecs. (a) and (f), is title IV of Pub. L. 99–660, Nov. 14, 1986, 100 Stat. 3784, which is classified generally to chapter 117 (§11101 et seq.) of this title. Part B of the Act is classified generally to subchapter II (§11131 et seq.) of chapter 117 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11101 of this title and Tables.
 
-The Health Care Quality Improvement Act of 1986, referred to in subsec. (f), is title IV of Pub. L. 99–660, Nov. 14, 1986, 100 Stat. 3784, as amended, which is classified generally to chapter 117 (§11101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11101 of this title and Tables.
+The Internal Revenue Code of 1986, referred to in subsec. (b)(2)(A), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
 
-1997—Subsec. (b)(6). Pub. L. 105–33, §4331(d), added par. (6).
+<b>2010</b>—Subsec. (a). Pub. L. 111–148, §6403(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Not later than January 1, 1997, the Secretary shall establish a national health care fraud and abuse data collection program for the reporting of final adverse actions (not including settlements in which no findings of liability have been made) against health care providers, suppliers, or practitioners as required by subsection (b) of this section, with access as set forth in subsection (c) of this section, and shall maintain a database of the information collected under this section.”
+
+Subsec. (d). Pub. L. 111–148, §6403(a)(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows:
+
+“(1)
+
+Availability.—The information in the database maintained under this section shall be available to Federal and State government agencies and health plans pursuant to procedures that the Secretary shall provide by regulation.
+
+“(2)
+
+Fees for disclosure.—The Secretary may establish or approve reasonable fees for the disclosure of information in such database (other than with respect to requests by Federal agencies). The amount of such a fee shall be sufficient to recover the full costs of operating the database. Such fees shall be available to the Secretary or, in the Secretary's discretion to the agency designated under this section to cover such costs.”
+
+Subsec. (f). Pub. L. 111–148, §6403(a)(3), added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “The Secretary shall implement this section in such a manner as to avoid duplication with the reporting requirements established for the National Practitioner Data Bank under the Health Care Quality Improvement Act of 1986 (42 U.S.C. 11101 et seq.).”
+
+Subsec. (g)(1)(A)(iii). Pub. L. 111–148, §6403(a)(4)(A)(i)(I), struck out “or State” after “Federal” in introductory provisions.
+
+Subsec. (g)(1)(A)(iii)(II). Pub. L. 111–148, §6403(a)(4)(A)(i)(III), added subcl. (II).
+
+Subsec. (g)(1)(A)(iii)(III). Pub. L. 111–148, §6403(a)(4)(A)(i)(II), redesignated subcl. (II) as (III). Former subcl. (III) redesignated (IV).
+
+Pub. L. 111–148, §6403(a)(4)(A)(i)(I), struck out “or State” after “Federal”.
+
+Subsec. (g)(1)(A)(iii)(IV). Pub. L. 111–148, §6403(a)(4)(A)(i)(II), redesignated subcl. (III) as (IV).
+
+Subsec. (g)(1)(A)(iv). Pub. L. 111–148, §6403(a)(4)(A)(ii), added cl. (iv) and struck out former cl. (iv) which read as follows: “Exclusion from participation in Federal or State health care programs (as defined in sections 1320a–7b(f) and 1320a–7(h) of this title, respectively).”
+
+Subsec. (g)(3)(D). Pub. L. 111–148, §6403(a)(4)(C), which directed amendment of subpar. (D) of subsec. (g) by striking out “or State”, was executed by striking out “or State” after “Federal” in subpar. (D) of subsec. (g)(3) to reflect the probable intent of Congress.
+
+Pub. L. 111–148, §6403(a)(4)(B), redesignated subpar. (F) as (D) and struck out former subpar. (D) which read as follows: “State law enforcement agencies.”
+
+Subsec. (g)(3)(E). Pub. L. 111–148, §6403(a)(4)(B)(i), struck out subpar. (E) which read as follows: “State medicaid fraud control units.”
+
+Subsec. (g)(3)(F). Pub. L. 111–148, §6403(a)(4)(B)(ii), redesignated subpar. (F) as (D).
+
+<b>1997</b>—Subsec. (b)(6). Pub. L. 105–33, §4331(d), added par. (6).
 
 Subsec. (g)(3)(C). Pub. L. 105–33, §4331(a)(2), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
@@ -165,4 +197,54 @@ Federal health program.—The amendments made by subsection (c) \[amending secti
 “(3)
 
 Sanction for failure to report.—The amendment made by subsection (d) \[amending this section\] shall apply to failures occurring on or after the date of the enactment of this Act.”
+
+#### Transition Process; Regulations; Effective Date of 2010 Amendment
+
+Pub. L. 111–148, title VI, §6403(d), Mar. 23, 2010, 124 Stat. 766, provided that:
+
+“(1)
+
+In general.—Effective on the date of enactment of this Act \[Mar. 23, 2010\], the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall implement a transition process under which, by not later than the end of the transition period described in paragraph (5), the Secretary shall cease operating the Healthcare Integrity and Protection Data Bank established under section 1128E of the Social Security Act \[42 U.S.C. 1320a–7e\] (as in effect before the effective date specified in paragraph (6)) and shall transfer all data collected in the Healthcare Integrity and Protection Data Bank to the National Practitioner Data Bank established pursuant to the Health Care Quality Improvement Act of 1986 (42 U.S.C. 11101 et seq.). During such transition process, the Secretary shall have in effect appropriate procedures to ensure that data collection and access to the Healthcare Integrity and Protection Data Bank and the National Practitioner Data Bank are not disrupted.
+
+“(2)
+
+Regulations.—The Secretary shall promulgate regulations to carry out the amendments made by subsections (a) and (b) \[amending this section and section 1396r–2 of this title\].
+
+“(3)
+
+Funding.—
+
+&emsp;“(A)
+
+Availability of fees.—Fees collected pursuant to section 1128E(d)(2) of the Social Security Act \[42 U.S.C. 1320a–7e(d)(2)\] prior to the effective date specified in paragraph (6) for the disclosure of information in the Healthcare Integrity and Protection Data Bank shall be available to the Secretary, without fiscal year limitation, for payment of costs related to the transition process described in paragraph (1). Any such fees remaining after the transition period is complete shall be available to the Secretary, without fiscal year limitation, for payment of the costs of operating the National Practitioner Data Bank.
+
+&emsp;“(B)
+
+Availability of additional funds.—In addition to the fees described in subparagraph (A), anyfunds available to the Secretary or to the Inspector General of the Department of Health and Human Services for a purpose related to combating health care fraud, waste, or abuse shall be available to the extent necessary for operating the Healthcare Integrity and Protection Data Bank during the transition period, including systems testing and other activities necessary to ensure that information formerly reported to the Healthcare Integrity and Protection Data Bank will be accessible through the National Practitioner Data Bank after the end of such transition period.
+
+“(4)
+
+Special provision for access to the national practitioner data bank by the department of veterans affairs.—
+
+&emsp;“(A)
+
+In general.—Notwithstanding any other provision of law, during the 1-year period that begins on the effective date specified in paragraph (6), the information described in subparagraph (B) shall be available from the National Practitioner Data Bank to the Secretary of Veterans Affairs without charge.
+
+&emsp;“(B)
+
+Information described.—For purposes of subparagraph (A), the information described in this subparagraph is the information that would, but for the amendments made by this section \[amending this section and sections 1320a–7c and 1396r–2 of this title\], have been available to the Secretary of Veterans Affairs from the Healthcare Integrity and Protection Data Bank.
+
+“(5)
+
+Transition period defined.—For purposes of this subsection, the term ‘transition period’ means the period that begins on the date of enactment of this Act \[Mar. 23, 2010\] and ends on the later of—
+
+&emsp;“(A) the date that is 1 year after such date of enactment; or
+
+&emsp;“(B) the effective date of the regulations promulgated under paragraph (2).
+
+“(6)
+
+Effective date.—The amendments made by subsections (a), (b), and (c) \[amending this section and sections 1320a–7c and 1396r–2 of this title\] shall take effect on the first day after the final day of the transition period.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

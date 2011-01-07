@@ -6,7 +6,7 @@ Except as provided in sections 204(f) and 205(a) of this title, the Secretary is
 
 #### Amendments
 
-1998—Pub. L. 105–178 substituted “State transportation departments” for “State highway departments”.
+<b>1998</b>—Pub. L. 105–178 substituted “State transportation departments” for “State highway departments”.
 
-1987—Pub. L. 100–17 which directed that this section be amended by substituting “204(f) and 205(a)” for “204(d), 205(a), 207(b), and 208(c)” was executed by substituting “204(f) and 205(a)” for “204(d), 205(a), 206(b), 207(b), and 208(c)”, to reflect the probable intent of Congress.
+<b>1987</b>—Pub. L. 100–17 which directed that this section be amended by substituting “204(f) and 205(a)” for “204(d), 205(a), 207(b), and 208(c)” was executed by substituting “204(f) and 205(a)” for “204(d), 205(a), 206(b), 207(b), and 208(c)”, to reflect the probable intent of Congress.
 

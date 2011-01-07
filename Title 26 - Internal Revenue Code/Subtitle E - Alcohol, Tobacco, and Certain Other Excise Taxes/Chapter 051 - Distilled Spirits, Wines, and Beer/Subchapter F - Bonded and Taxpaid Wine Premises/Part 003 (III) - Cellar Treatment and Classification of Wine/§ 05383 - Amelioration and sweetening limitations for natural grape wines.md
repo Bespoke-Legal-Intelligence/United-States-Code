@@ -18,7 +18,7 @@ Any natural grape wine may be sweetened after fermentation and before taxpayment
 
 &emsp;Wine spirits may be added (whether or not wine spirits were previously added) to wine produced under this subsection only if the wine contains not more than 14 percent of alcohol by volume derived from fermentation.
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1384; amended Pub. L. 89–44, title VIII, §806(b)(1), June 21, 1965, 79 Stat. 162; Pub. L. 90–619, §3, Oct. 22, 1968, 82 Stat. 1237.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1384; amended Pub. L. 89–44, title VIII,§806(b)(1), June 21, 1965, 79 Stat. 162; Pub. L. 90–619, §3, Oct. 22, 1968, 82 Stat. 1237.)
 
 #### Prior Provisions
 
@@ -26,11 +26,11 @@ A prior section 5383, act Aug. 16, 1954, ch. 736, 68A Stat. 669, consisted of pr
 
 #### Amendments
 
-1968—Subsec. (a). Pub. L. 90–619, §3(b), substituted “not more than 14 percent” for “less than 14 percent”.
+<b>1968</b>—Subsec. (a). Pub. L. 90–619, §3(b), substituted “not more than 14 percent” for “less than 14 percent”.
 
 Subsec. (b). Pub. L. 90–619, §3(a), simplified production procedures and calculations, provided that the limitation on sweetening high acid wine is to be based upon the total solids content of the finished wine, authorized the use of liquid sugar but only to the extent that it did not increase the total volume of the finished wine above what it would be if the maximum authorized use had been made of dry sugar only, and inserted provisions making it clear that wine spirits may be added at more than one stage in the process of wine production.
 
-1965—Pub. L. 89–44 divided subsec. (b) relating to high acid wines into pars. (1) and (2) and par. (2) into subpars. (A) to (E), struck out reserve inventory requirement with respect to the amelioration and sweetening of wines, authorized use of other than pure, dry sugar, and allowed limited use of liquid sugar at appropriate points where use of pure dry sugar had formerly been prescribed.
+<b>1965</b>—Pub. L. 89–44 divided subsec. (b) relating to high acid wines into pars. (1) and (2) and par. (2) into subpars. (A) to (E), struck out reserve inventory requirement with respect to the amelioration and sweetening of wines, authorized use of other than pure, dry sugar, and allowed limited use of liquid sugar at appropriate points where use of pure dry sugar had formerly been prescribed.
 
 #### Effective Date of 1968 Amendment
 

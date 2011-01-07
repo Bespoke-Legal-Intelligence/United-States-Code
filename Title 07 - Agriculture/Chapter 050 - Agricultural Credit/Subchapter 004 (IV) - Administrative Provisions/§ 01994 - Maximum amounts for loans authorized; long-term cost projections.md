@@ -90,7 +90,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 #### (B) Supplemental appropriations
 
-&emsp;&emsp;The transfer authority provided under subparagraph (A) shall not apply to any funds made available to the Secretary for any fiscal year under an Act making supplemental appropriations.
+&emsp;&emsp;The transfer authority provided under subparagraph (A) shall not apply to any fundsmade available to the Secretary for any fiscal year under an Act making supplemental appropriations.
 
 #### (C) Limitation
 
@@ -104,7 +104,7 @@ The Secretary shall develop long-term cost projections for loan program authoriz
 
 (1) Notwithstanding any other provision of law, not less than 25 per centum of the loans for farm ownership purposes under subchapter I of this chapter, and not less than 25 per centum of the loans for farm operating purposes under subchapter II of this chapter, authorized to be insured, or made to be sold and insured, from the Agricultural Credit Insurance Fund during each fiscal year shall be for low-income, limited-resource borrowers.
 
-(2) The Secretary shall provide notification to farm borrowers under this chapter, as soon as practicable after April 10, 1984, and in the normal course of loan making and loan servicing operations, of the provisions of this chapter relating to low-income, limited-resource borrowers and the procedures by which persons mayapply for loans under the low-income, limited-resource borrower program.
+(2) The Secretary shall provide notification to farm borrowers under this chapter, as soon as practicable after April 10, 1984, and in the normal course of loan making and loan servicing operations, of the provisions of this chapter relating to low-income, limited-resource borrowers and the procedures by which persons may apply for loans under the low-income, limited-resource borrower program.
 
 (Pub. L. 87–128, title III, §346, as added Pub. L. 95–334, title I, §125, Aug. 4, 1978, 92 Stat. 428; amended Pub. L. 96–438, §4, Oct. 13, 1980, 94 Stat. 1876; Pub. L. 97–35, title I, §164, Aug. 13, 1981, 95 Stat. 379; Pub. L. 98–258, title VI, §607, Apr. 10, 1984, 98 Stat. 140; Pub. L. 99–198, title XIII, §1317, Dec. 23, 1985, 99 Stat. 1529; Pub. L. 101–508, title I, §1202(a), Nov. 5, 1990, 104 Stat. 1388–9; Pub. L. 101–624, title XXIII, §2388(i), Nov. 28, 1990, 104 Stat. 4053; Pub. L. 102–237, title VII, §§701(h)(1)(F), 702(i), Dec. 13, 1991, 105 Stat. 1880, 1881; Pub. L. 102–554, §20, Oct. 28, 1992, 106 Stat. 4159; Pub. L. 104–127, title VI, §641, Apr. 4, 1996, 110 Stat. 1098; Pub. L. 107–171, title V, §§5311, 5312, May 13, 2002, 116 Stat. 346, 347; Pub. L. 110–234, title V, §§5302(b), 5303, May 22, 2008, 122 Stat. 1152; Pub. L. 110–246, §4(a), title V, §§5302(b), 5303, June 18, 2008, 122 Stat. 1664, 1913, 1914.)
 
@@ -146,7 +146,7 @@ Subsec. (b)(5), (6). Pub. L. 102–554, §20(a), (e), added pars. (5) and (6).
 
 Subsec. (b)(3)(C). Pub. L. 102–237, §701(h)(1)(F), substituted “this chapter” for “this Act” in two places.
 
-1990—Subsec. (b). Pub. L. 101–624, §2388(i), which amended subsec. (b), in par. (1)(B), by striking “subparagraph (C)” and inserting “paragraph (3)”; in par. (1)(C), by striking “subparagraph (A)” and inserting “paragraph (1)”; by redesignating pars. (1)(A), (B), (C), (D)(i), and (E) as (1), (2), (3), (4), and (5), respectively; in par. (2), by redesignating cls. (i), (ii), and (iii) as subpars. (A), (B), and (C), respectively; in subpars. (A) to (C) of par. (2), by redesignating subcls. (I) and (II) as cls. (i) and (ii), respectively; and in par. (5), by redesignating cls. (i), (ii), and (iii) as subpars. (A), (B), and (C), respectively, was repealed by Pub. L. 102–237, §702(i). See Construction of 1990 Amendment note below.
+1990—Subsec. (b). Pub. L. 101–624, §2388(i), which amended subsec. (b), in par. (1)(B), by striking “subparagraph (C)” and inserting “paragraph (3)”; in par. (1)(C), by striking “subparagraph (A)” and inserting “paragraph (1)”; by redesignating pars. (1)(A), (B), (C),\(D)(i), and (E) as (1), (2), (3), (4), and (5), respectively; in par. (2), by redesignating cls. (i), (ii), and (iii) as subpars. (A), (B), and (C), respectively; in subpars. (A) to (C) of par. (2), by redesignating subcls. (I) and (II) as cls. (i) and (ii), respectively; and in par. (5), by redesignating cls. (i), (ii), and (iii) as subpars. (A), (B), and (C), respectively, was repealed by Pub. L. 102–237, §702(i). See Construction of 1990 Amendment note below.
 
 Pub. L. 101–508, §1202(a), amended subsec. (b) generally, substituting present provisions for provisions relating to maximum amounts for loans under the Agricultural Credit Insurance Fund and the Rural Development Insurance Fund for fiscal years 1986 through 1988.
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub.
 
 #### Construction of 1990 Amendment
 
-Section 702(i) of Pub. L. 102–237 provided that: “Subsection (i) of section 2388 of the Food, Agriculture, Conservation, and Trade Act of 1990 (104 Stat. 4053) \[Pub. L. 101–624, amending this section\] is hereby repealed and the Consolidated Farm and Rural Development Act \[see Short Title note set out under section 1921 of this title\]shall be applied and administered as if the amendments made by such subsection had never been enacted.”
+Section 702(i) of Pub. L. 102–237 provided that: “Subsection (i) of section 2388 of the Food, Agriculture, Conservation, and Trade Act of 1990 (104 Stat. 4053) \[Pub. L. 101–624, amending this section\] is hereby repealed and the Consolidated Farm and Rural Development Act \[see Short Title note set out under section 1921 of this title\] shall be applied and administered as if the amendments made by such subsection had never been enacted.”
 
 #### Nullification of Reservation of Funds During Fiscal Year 1999 for Guaranteed Loans for Qualified Beginning Farmers and Ranchers
 

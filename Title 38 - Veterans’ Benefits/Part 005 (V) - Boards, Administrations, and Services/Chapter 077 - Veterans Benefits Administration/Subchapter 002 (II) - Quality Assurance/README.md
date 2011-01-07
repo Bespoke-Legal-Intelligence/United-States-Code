@@ -20,7 +20,7 @@ Section 7727, added Pub. L. 107–14, §6(b)(1), June 5, 2001, 115 Stat. 31, rel
 
 #### Amendments
 
-2006—Pub. L. 109–233, title IV, §402(d)(1), June 15, 2006, 120 Stat. 411, redesignated subchapter III of this chapter as this subchapter.
+<b>2006</b>—Pub. L. 109–233, title IV, §402(d)(1), June 15, 2006, 120 Stat. 411, redesignated subchapter III of this chapter as this subchapter.
 
 
 ---

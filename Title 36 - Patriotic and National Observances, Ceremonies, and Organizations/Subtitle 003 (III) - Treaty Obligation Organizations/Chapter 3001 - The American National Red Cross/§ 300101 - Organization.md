@@ -46,7 +46,7 @@ This section is substituted for the source provisions to eliminate unnecessary a
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–26, §3(1), inserted “a Federally chartered instrumentality of the United States and” before “a body corporate and politic”.
+<b>2007</b>—Subsec. (a). Pub. L. 110–26, §3(1), inserted “a Federally chartered instrumentality of the United States and” before “a body corporate and politic”.
 
 Subsec. (b). Pub. L. 110–26, §3(2), inserted at end “The corporation may conduct its business and affairs, and otherwise hold itself out, as the ‘American Red Cross’ in any jurisdiction.”
 

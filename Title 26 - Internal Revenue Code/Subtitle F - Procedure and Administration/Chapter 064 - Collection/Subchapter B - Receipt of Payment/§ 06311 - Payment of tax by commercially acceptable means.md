@@ -6,7 +6,7 @@ It shall be lawful for the Secretary to receive for internal revenue taxes (or i
 
 #### (b) Ultimate liability
 
-If a check, money order, or other method of payment, including payment by credit card, debit card, or charge card so received is not dulypaid, or is paid and subsequently charged back to the Secretary, the person by whom such check, or money order, or other method of payment has been tendered shall remain liable for the payment of the tax or for the stamps, and for all legal penalties and additions, to the same extent as if such check, money order, or other method of payment had not been tendered.
+If a check, money order, or other method of payment, including payment by credit card, debit card, or charge card so received is not duly paid, or is paid and subsequently charged back to the Secretary, the person by whom such check, or money order, or other method of payment has been tendered shall remain liable for the payment of the tax or for the stamps, and for all legal penalties and additions, to the same extent as if such check, money order, or other method of payment had not been tendered.
 
 #### (c) Liability of banks and others
 
@@ -56,13 +56,13 @@ If any certified, treasurer's, or cashier's check (or other guaranteed draft), o
 
 #### (1) In general
 
-&emsp;Except as otherwise authorized by this subsection, no person may use or disclose any information relating to credit or debit card transactions obtained pursuant to section 6103(k)(9) other than for purposes directly related to the processing of such transactions, or the billing or collection of amounts charged or debited pursuant thereto.
+&emsp;Except as otherwise authorized by this subsection, no person may use or disclose any information relating to credit or debit cardtransactions obtained pursuant to section 6103(k)(9) other than for purposes directly related to the processing of such transactions, or the billing or collection of amounts charged or debited pursuant thereto.
 
 #### (2) Exceptions
 
 &emsp;(A) Debit or credit card issuers or others acting on behalf of such issuers may also use and disclose such information for purposes directly related to servicing an issuer's accounts.
 
-&emsp;(B) Debit or credit card issuers or others directly involved in the processing of credit or debit card transactions or the billing or collection of amounts charged or debited theretomay also use and disclose such information for purposes directly related to—
+&emsp;(B) Debit or credit card issuers or others directly involved in the processing of credit or debit card transactions or the billing or collection of amounts charged or debited thereto may also use and disclose such information for purposes directly related to—
 
 &emsp;&emsp;(i) statistical risk and profitability assessment;
 
@@ -86,15 +86,15 @@ If any certified, treasurer's, or cashier's check (or other guaranteed draft), o
 
 #### Amendments
 
-1998—Subsec. (d)(2). Pub. L. 105–277 substituted “under any such contract for the use of credit, debit, or charge cards for the payment of taxes imposed by subtitle A” for “under such contracts”.
+<b>1998</b>—Subsec. (d)(2). Pub. L. 105–277 substituted “under any such contract for the use of credit, debit, or charge cards for the payment of taxes imposed by subtitle A” for “under such contracts”.
 
 Subsec. (e)(1). Pub. L. 105–206 substituted “section 6103(k)(9)” for “section 6103(k)(8)”.
 
-1997—Pub. L. 105–34 amended section catchline and text generally, substituting provisions relating to payment of tax by commercially acceptable means for provisions consisting of subsecs. (a) and (b) relating to payment by check or money order and liability if a check or money order received is not duly paid.
+<b>1997</b>—Pub. L. 105–34 amended section catchline and text generally, substituting provisions relating to payment of tax by commercially acceptable means for provisions consisting of subsecs. (a) and (b) relating to payment by check or money order and liability if a check or money order received is not duly paid.
 
-1984—Subsec. (b)(2). Pub. L. 98–369 substituted “or cashier's check (or other guaranteed draft)” for “or cashier's check”, “the amount of such check (or draft)” for “the amount of such check”, and “the financial institution” for “the bank or trust company”, and substituted “such financial institution” for “such bank” in two places.
+<b>1984</b>—Subsec. (b)(2). Pub. L. 98–369 substituted “or cashier's check (or other guaranteed draft)” for “or cashier's check”, “the amount of such check (or draft)” for “the amount of such check”, and “the financial institution” for “the bank or trust company”, and substituted “such financial institution” for “such bank” in two places.
 
-1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date of 1998 Amendments
 

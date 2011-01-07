@@ -16,7 +16,7 @@
 | [1409\.](%C2%A7%2001409%20-%20Retired%20pay%20multiplier.md) | Retired pay multiplier. |
 | [1410\.](%C2%A7%2001410%20-%20Restoral%20of%20full%20retirement%20amount%20at%20age%2062%20for%20certain%20members%20entering%20on%20or%20after%20August%201%2C%201986.md) | Restoral of full retirement amount at age 62 for certain members entering on or after August 1, 1986. |
 | [1411\.](%C2%A7%2001411%20-%20Rules%20of%20construction.md) | Rules of construction. |
-| [1412\.](%C2%A7%2001412%20-%20Rounding%20to%20next%20lower%20dollar.md) | Rounding to next lower dollar. |
+| [1412\.](%C2%A7%2001412%20-%20Administrative%20provisions.md) | Administrative provisions. |
 | \[1413. | Repealed.\] |
 | [1413a.](%C2%A7%2001413a%20-%20Combat-related%20special%20compensation.md) | Combat-related special compensation. |
 | [1414\.](%C2%A7%2001414%20-%20Members%20eligible%20for%20retired%20pay%20who%20are%20also%20eligible%20for%20veterans%E2%80%99%20disability%20compensation%20for%20disabilities%20rated%2050%20percent%20or%20higher%E2%80%A6.md) | Members eligible for retired pay who are also eligible for veterans’ disability compensation for disabilities rated 50 percent or higher: concurrent payment of retired pay and veterans’ disability compensation. |
@@ -25,33 +25,35 @@
 
 #### Amendments
 
-2006—Pub. L. 109–364, div. A, title VI, §641(b), Oct. 17, 2006, 120 Stat. 2259, added item 1407a.
+<b>2011</b>—Pub. L. 111–383, div. A, title VI, §632(b)(2), Jan. 7, 2011, 124 Stat. 4240, added item 1412 and struck out former item 1412 “Rounding to next lower dollar”.
 
-2003—Pub. L. 108–136, div. A, title VI, §641(d), (e)(2), Nov. 24, 2003, 117 Stat. 1516, 1517, struck out item 1413 “Special compensation for certain severely disabled uniformed services retirees”, and substituted “Combat-related special compensation” for “Special compensation for certain combat-related disabled uniformed services retirees” in item 1413a and “Members eligible for retired pay who are also eligible for veterans’ disability compensation for disabilities rated 50 percent or higher: concurrent payment of retired pay and veterans’ disability compensation” for “Members eligible for retired pay who have service-connected disabilities: payment of retired pay and veterans’ disability compensation; contingent authority” in item 1414.
+<b>2006</b>—Pub. L. 109–364, div. A, title VI, §641(b), Oct. 17, 2006, 120 Stat. 2259, added item 1407a.
 
-2002—Pub. L. 107–314, div. A, title VI, §636(a)(3), Dec. 2, 2002, 116 Stat. 2576, added item 1413a.
+<b>2003</b>—Pub. L. 108–136, div. A, title VI, §641(d), (e)(2), Nov. 24, 2003, 117 Stat. 1516, 1517, struck out item 1413 “Special compensation for certain severely disabled uniformed services retirees”, and substituted “Combat-related special compensation” for “Special compensation for certain combat-related disabled uniformed services retirees” in item 1413a and “Members eligible for retired pay who are also eligible for veterans’ disability compensation for disabilities rated 50 percent or higher: concurrent payment of retired pay and veterans’ disability compensation” for “Members eligible for retired pay who have service-connected disabilities: payment of retired pay and veterans’ disability compensation; contingent authority” in item 1414.
 
-2001—Pub. L. 107–107, div. A, title VI, §641(c), Dec. 28, 2001, 115 Stat. 1150, added item 1414.
+<b>2002</b>—Pub. L. 107–314, div. A, title VI, §636(a)(3), Dec. 2, 2002, 116 Stat. 2576, added item 1413a.
 
-1999—Pub. L. 106–65, div. A, title VI, §§643(b)(3)(B), 658(a)(2), Oct. 5, 1999, 113 Stat. 664, 669, inserted “certain” before “members” in item 1410 and added item 1413.
+<b>2001</b>—Pub. L. 107–107, div. A, title VI, §641(c), Dec. 28, 2001, 115 Stat. 1150, added item 1414.
 
-1987—Pub. L. 100–26, §7(h)(2)(B), Apr. 21, 1987, 101 Stat. 282, substituted colon for semicolon and “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” in item 1403.
+<b>1999</b>—Pub. L. 106–65, div. A, title VI, §§643(b)(3)(B), 658(a)(2), Oct. 5, 1999, 113 Stat. 664, 669, inserted “certain” before “members” in item 1410 and added item 1413.
 
-1986—Pub. L. 99–348, title III, §304(b)(2), July 1, 1986, 100 Stat. 703, inserted “of members who first becamemembers before September 8, 1980” in item 1402, substituted “Retired pay base for members who first became members before September 8, 1980: final basic pay” for “Limitations on revocation of retired pay” in item 1406 and “Retired pay base for members who first became members after September 7, 1980: high-36 month average” for “Retired pay base” in item 1407, and added items 1409 to 1412.
+<b>1987</b>—Pub. L. 100–26, §7(h)(2)(B), Apr. 21, 1987, 101 Stat. 282, substituted colon for semicolon and “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” in item 1403.
 
-1982—Pub. L. 97–252, title X, §1002(b), Sept. 8, 1982, 96 Stat. 735, added item 1408.
+<b>1986</b>—Pub. L. 99–348, title III, §304(b)(2), July 1, 1986, 100 Stat. 703, inserted “of members who first became members before September 8, 1980” in item 1402, substituted “Retired pay base for members who first became members before September 8, 1980: final basic pay” for “Limitations on revocation of retired pay” in item 1406 and “Retired pay base for members who first became members after September 7, 1980: high-36 month average” for “Retired pay base” in item 1407, and added items 1409 to 1412.
 
-1980—Pub. L. 96–513, title V, §511(51)(C), (52)(C), Dec. 12, 1980, 94 Stat. 2924, 2925, substituted “of members who first became members after September 7, 1980” for “in case of members who first became members after the enactment of the Department of Defense Authorization Act, 1981” in item 1402a, and substituted “Internal Revenue Code of 1954” for “title 26” in item 1403.
+<b>1982</b>—Pub. L. 97–252, title X, §1002(b), Sept. 8, 1982, 96 Stat. 735, added item 1408.
+
+<b>1980</b>—Pub. L. 96–513, title V, §511(51)(C), (52)(C), Dec. 12, 1980, 94 Stat. 2924, 2925, substituted “of members who first became members after September 7, 1980” for “in case of members who first became members after the enactment of the Department of Defense Authorization Act, 1981” in item 1402a, and substituted “Internal Revenue Code of 1954” for “title 26” in item 1403.
 
 Pub. L. 96–342, title VIII, §813(a)(2), (b)(3)(B), 94 Stat. 1101, 1104, added items 1402a and 1407.
 
-1966—Pub. L. 89–718, §3, Nov. 2, 1966, 80 Stat. 1115, substituted “8301” for “47a” in item 1404.
+<b>1966</b>—Pub. L. 89–718, §3, Nov. 2, 1966, 80 Stat. 1115, substituted “8301” for “47a” in item 1404.
 
 Pub. L. 89–652, §2(2), Oct. 14, 1966, 80 Stat. 902, added item 1406.
 
-1963—Pub. L. 88–132, §5(g)(2), Oct. 2, 1963, 77 Stat. 214, added item 1401a.
+<b>1963</b>—Pub. L. 88–132, §5(g)(2), Oct. 2, 1963, 77 Stat. 214, added item 1401a.
 
-1958—Pub. L. 85–422, §11(a)(1)(B), May 20, 1958, 72 Stat. 131, added item 1405.
+<b>1958</b>—Pub. L. 85–422, §11(a)(1)(B), May 20, 1958, 72 Stat. 131, added item 1405.
 
 
 ---
@@ -72,7 +74,7 @@ Pub. L. 89–652, §2(2), Oct. 14, 1966, 80 Stat. 902, added item 1406.
 - [&sect; 01409 - Retired pay multiplier](%C2%A7%2001409%20-%20Retired%20pay%20multiplier.md)
 - [&sect; 01410 - Restoral of full retirement amount at age 62 for certain members entering on or after August 1, 1986](%C2%A7%2001410%20-%20Restoral%20of%20full%20retirement%20amount%20at%20age%2062%20for%20certain%20members%20entering%20on%20or%20after%20August%201%2C%201986.md)
 - [&sect; 01411 - Rules of construction](%C2%A7%2001411%20-%20Rules%20of%20construction.md)
-- [&sect; 01412 - Rounding to next lower dollar](%C2%A7%2001412%20-%20Rounding%20to%20next%20lower%20dollar.md)
+- [&sect; 01412 - Administrative provisions](%C2%A7%2001412%20-%20Administrative%20provisions.md)
 - [&sect; 01413 - Repealed. Pub. L. 108&#8211;136, div. A, title VI, &sect;641(b), Nov. 24, 2003, 117 Stat. 1514](%C2%A7%2001413%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93136%2C%20div.%20A%2C%20title%20VI%2C%20%C2%A7641%28b%29%2C%20Nov.%2024%2C%202003%2C%20117%20Stat.%201514.md)
 - [&sect; 01413a - Combat-related special compensation](%C2%A7%2001413a%20-%20Combat-related%20special%20compensation.md)
 - [&sect; 01414 - Members eligible for retired pay who are also eligible for veterans&#8217; disability compensation for disabilities rated 50 percent or higher&#8230;](%C2%A7%2001414%20-%20Members%20eligible%20for%20retired%20pay%20who%20are%20also%20eligible%20for%20veterans%E2%80%99%20disability%20compensation%20for%20disabilities%20rated%2050%20percent%20or%20higher%E2%80%A6.md)

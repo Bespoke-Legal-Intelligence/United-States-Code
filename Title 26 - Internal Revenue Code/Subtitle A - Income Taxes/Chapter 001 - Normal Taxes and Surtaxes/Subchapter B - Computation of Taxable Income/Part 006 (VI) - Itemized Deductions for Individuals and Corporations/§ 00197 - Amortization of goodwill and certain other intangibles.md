@@ -298,7 +298,7 @@ The date of the enactment of this section, referred to in subsecs. (c)(1)(A) and
 
 #### Amendments
 
-2004—Subsec. (e)(6) to (8). Pub. L. 108–357, §886(a), redesignated pars. (7) and (8) as (6) and (7), respectively, and struck out heading and text of former par. (6). Text read as follows: “A franchise to engage in professional football, basketball, baseball, or other professional sport, and any item acquired in connection with such a franchise.”
+<b>2004</b>—Subsec. (e)(6) to (8). Pub. L. 108–357, §886(a), redesignated pars. (7) and (8) as (6) and (7), respectively, and struck out heading and text of former par. (6). Text read as follows: “A franchise to engage in professional football, basketball, baseball, or other professional sport, and any item acquired in connection with such a franchise.”
 
 Subsec. (f)(10). Pub. L. 108–357, §847(b)(3), added par. (10).
 

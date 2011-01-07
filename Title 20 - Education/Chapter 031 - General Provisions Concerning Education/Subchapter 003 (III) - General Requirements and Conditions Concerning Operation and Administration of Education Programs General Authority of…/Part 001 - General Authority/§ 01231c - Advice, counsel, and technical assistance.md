@@ -40,7 +40,7 @@ Another prior section 433 of Pub. L. 90–247 was renumbered section 443, and wa
 
 #### Amendments
 
-1978—Subsecs. (c), (d). Pub. L. 95–561 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>1978</b>—Subsecs. (c), (d). Pub. L. 95–561 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 #### Effective Date of 1978 Amendment
 

@@ -58,11 +58,7 @@ Pub. L. 108–458, title I, §1018, Dec. 17, 2004, 118 Stat. 3670, provided that
 
 #### Improvement of Equality of Employment Opportunities in the Intelligence Community
 
-Pub. L. 108–177, title III, §319, Dec. 13, 2003, 117 Stat. 2614, as amended by Pub. L. 108–458, title I, §1071(g)(3)(A)(iv), (B), Dec. 17, 2004, 118 Stat. 3692, provided that:
-
-“(a)
-
-Findings.—Congress makes the following findings:
+Pub. L. 108–177, title III, §319, Dec. 13, 2003, 117 Stat. 2614, as amended by Pub. L. 108–458, title I, §1071(g)(3)(A)(iv), (B), Dec. 17, 2004, 118 Stat. 3692; Pub. L. 111–259, title III, §313(b)(1)(A), (3), Oct. 7, 2010, 124 Stat. 2666, provided that: “Congress makes the following findings:
 
 &emsp;“(1) It is the recommendation of the Joint Inquiry of the Senate Select Committee on Intelligence and the House Permanent Select Committee on Intelligence into Intelligence Community Activities Before and After the Terrorist Attacks of September 11, 2001, that the Intelligence Community should enhance recruitment of a more ethnically and culturally diverse workforce and devise a strategy to capitalize upon the unique cultural and linguistic capabilities of first generation Americans.
 
@@ -70,37 +66,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(3) The Intelligence Community has a significantly lower percentage of women and minorities than the total workforce of the Federal government and the total civilian labor force.
 
-&emsp;“(4) Women and minorities continue to be under-represented in senior grade levels, and in core mission areas, of the intelligence community.
-
-“(b)
-
-Pilot Project To Promote Equality of Employment Opportunities for Women and Minorities Throughout the Intelligence Community Using Innovative Methodologies.—The Director of National Intelligence shall carry out a pilot project under this section to test and evaluate alternative, innovative methods to promote equality of employment opportunities in the intelligence community for women, minorities, and individuals with diverse ethnic and cultural backgrounds, skills, language proficiency, and expertise.
-
-“(c)
-
-Methods.—In carrying out the pilot project, the Director shall employ methods to increase diversity of officers and employees in the intelligence community.
-
-“(d)
-
-Duration of Project.—The Director shall carry out the project under this section for a 3-year period.
-
-“(e)
-
-Report.—Not later than 2 years after the date the Director implements the pilot project under this section, the Director shall submit to Congress a report on the project. The report shall include—
-
-&emsp;“(1) an assessment of the effectiveness of the project; and
-
-&emsp;“(2) recommendations on the continuation of the project, as well recommendations as for improving the effectiveness of the project in meeting the goals of promoting equality of employment opportunities in the intelligence community for women, minorities, and individuals with diverse ethnic and cultural backgrounds, skills, language proficiency, and expertise.
-
-“(f)
-
-Diversity Plan.—(1) Not later than February 15, 2004, the Director of Central Intelligence shall submit to Congress a report which describes the plan of the Director, entitled the ‘DCI Diversity Strategic Plan’, and any subsequent revision to that plan, to increase diversity of officers and employees in the intelligence community, including the short- and long-term goals of the plan. The report shall also provide a detailed description of the progress that has been made by each element of the intelligence community in implementing the plan.
-
-“(2) In implementing the plan, the Director of National Intelligence shall incorporate innovative methods for recruitment and hiring that the Director has determined to be effective from the pilot project carried out under this section.
-
-“(g)
-
-Intelligence Community Defined.—In this section, the term ‘intelligence community’ has the meaning given that term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401(4) \[401a(4)\]).”
+&emsp;“(4) Women and minorities continue to be under-represented in senior grade levels, and in core mission areas, of the intelligence community.”
 
 #### Report on Lessons Learned From Military Operations in Iraq
 

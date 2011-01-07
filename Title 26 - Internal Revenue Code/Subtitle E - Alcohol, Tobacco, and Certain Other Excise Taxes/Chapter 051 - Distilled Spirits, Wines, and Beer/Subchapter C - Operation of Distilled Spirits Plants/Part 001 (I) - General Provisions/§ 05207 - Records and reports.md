@@ -70,11 +70,11 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 637, 63
 
 #### Amendments
 
-1997—Subsec. (c). Pub. L. 105–34 struck out “shall be kept on the premises where the operations covered by the record are carried on and” after “required by subsection (b)”.
+<b>1997</b>—Subsec. (c). Pub. L. 105–34 struck out “shall be kept on the premises where the operations covered by the record are carried on and” after “required by subsection (b)”.
 
-1984—Subsec. (a)(4)(D). Pub. L. 98–369, §454(c)(6), struck out subpar. (D) which required every distilled spirits plant proprietor to keep records in such form and manner as prescribed by the Secretary of the receipt, use, and balance on hand of all stamps required by law or regulations to be used by the proprietor.
+<b>1984</b>—Subsec. (a)(4)(D). Pub. L. 98–369, §454(c)(6), struck out subpar. (D) which required every distilled spirits plant proprietor to keep records in such form and manner as prescribed by the Secretary of the receipt, use, and balance on hand of all stamps required by law or regulations to be used by the proprietor.
 
-1979—Subsec. (a). Pub. L. 96–39 struck out provisions relating to the bottling of distilled spirits in bond and relating to the kind and quantity of distilled spirits returned to bonded premises and inserted provisions relating to the kind and quantity of distilled spirits returned to storage and relating to receipt, use, and balance on hand of all stamps required by law or regulations to be used by the Secretary.
+<b>1979</b>—Subsec. (a). Pub. L. 96–39 struck out provisions relating to the bottling of distilled spirits in bond and relating to the kind and quantity of distilled spirits returned to bonded premises and inserted provisions relating to the kind and quantity of distilled spirits returned to storage and relating to receipt, use, and balance on hand of all stamps required by law or regulations to be used by the Secretary.
 
 Subsec. (b). Pub. L. 96–39 redesignated subsec. (c) as (b) and struck out “or (b)” after “subsection (a)”. Former subsec. (b), relating to records of rectifiers and bottlers, was struck out.
 
@@ -82,9 +82,9 @@ Subsec. (c). Pub. L. 96–39 redesignated subsec. (d) as (c), struck out “and 
 
 Subsecs. (d), (e). Pub. L. 96–39 redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-1977—Subsec. (a)(10), (11). Pub. L. 95–176, §2(e)(2), (3), added par. (10) and redesignated former par. (10) as (11).
+<b>1977</b>—Subsec. (a)(10), (11). Pub. L. 95–176, §2(e)(2), (3), added par. (10) and redesignated former par. (10) as (11).
 
-1976—Subsecs. (a) to (d). Pub. L. 94—455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a) to (d). Pub. L. 94—455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date of 1997 Amendment
 

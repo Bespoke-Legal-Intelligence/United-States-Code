@@ -12,5 +12,5 @@ If a member of the Service who is assigned abroad, or a member of his or her fam
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–236 substituted “institution” for “Institute” after “through the”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–236 substituted “institution” for “Institute” after “through the”.
 

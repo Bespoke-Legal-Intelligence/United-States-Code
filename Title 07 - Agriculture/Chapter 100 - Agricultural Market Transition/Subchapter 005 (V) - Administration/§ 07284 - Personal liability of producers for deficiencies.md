@@ -12,11 +12,11 @@ Subsection (a) of this section shall not prevent the Commodity Credit Corporatio
 
 &emsp;(2) a failure to properly care for and preserve a commodity; or
 
-&emsp;(3) a failure or refusal to deliver a commodity in accordance with a program establishedunder this chapter <sup>1</sup> title I of the Farm Security and Rural Investment Act of 2002 \[7 U.S.C. 7901 et seq.\], and title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8701 et seq.\].
+&emsp;(3) a failure or refusal to deliver a commodity in accordance with a program established under this chapter <sup>1</sup> title I of the Farm Security and Rural Investment Act of 2002 \[7 U.S.C. 7901 et seq.\], and title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8701 et seq.\].
 
 #### (c) Acquisition of collateral
 
-In the case of a nonrecourse loan made under this chapter <sup>1</sup> title I of the Farm Security and Rural Investment Act of 2002 \[7 U.S.C. 7901 et seq.\], and title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8701 et seq.\] or the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), if the Commodity Credit Corporation acquires title to the unredeemed collateral, the Corporation shall be under no obligation to pay for any market value that the collateral may have in excess of the loan indebtedness.
+In the case of a nonrecourse loan made under this chapter <sup>1</sup> title I of the Farm Security andRural Investment Act of 2002 \[7 U.S.C. 7901 et seq.\], and title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8701 et seq.\] or the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), if the Commodity Credit Corporation acquires title to the unredeemed collateral, the Corporation shall be under no obligation to pay for any market value that the collateral may have in excess of the loan indebtedness.
 
 #### (d) Sugarcane and sugar beets
 

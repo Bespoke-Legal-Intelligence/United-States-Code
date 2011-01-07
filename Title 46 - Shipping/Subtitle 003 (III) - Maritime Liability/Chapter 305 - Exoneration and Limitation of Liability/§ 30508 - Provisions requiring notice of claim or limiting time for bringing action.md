@@ -14,7 +14,7 @@ Minimum Time Limits.—The owner, master, manager, or agent of a vessel transpor
 
 (c)
 
-Effect of Failure To Give Notice.—When notice of a claim for personal injury or death isrequired by a contract, the failure to give the notice is not a bar to recovery if—
+Effect of Failure To Give Notice.—When notice of a claim for personal injury or death is required by a contract, the failure to give the notice is not a bar to recovery if—
 
 &emsp;(1) the court finds that the owner, master, or agent of the vessel had knowledge of the injury or death and the owner has not been prejudiced by the failure;
 

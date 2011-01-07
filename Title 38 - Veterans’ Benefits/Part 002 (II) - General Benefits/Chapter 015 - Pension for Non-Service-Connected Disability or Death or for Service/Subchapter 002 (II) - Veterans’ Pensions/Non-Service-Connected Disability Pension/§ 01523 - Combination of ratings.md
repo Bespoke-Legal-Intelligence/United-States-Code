@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 523 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 523 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
@@ -16,7 +16,7 @@ Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “1521” for “521”.
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1975—Subsec. (b). Pub. L. 94–169 substituted “such veteran” for “him”.
+<b>1975</b>—Subsec. (b). Pub. L. 94–169 substituted “such veteran” for “him”.
 
 #### Effective Date of 1975 Amendment
 

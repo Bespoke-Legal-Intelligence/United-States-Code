@@ -2,7 +2,7 @@
 
 #### (a) Scientific and economic research
 
-The purposes of the corporation shall be to administer and expend its funds and other property for scientific and economic research for thebenefit and development of the textile industry, its allied branches, and including that of production of raw materials.
+The purposes of the corporation shall be to administer and expend its funds and other property for scientific and economic research for the benefit and development of the textile industry, its allied branches, and including that of production of raw materials.
 
 #### (b) Payment by Textile Alliance, Incorporated
 

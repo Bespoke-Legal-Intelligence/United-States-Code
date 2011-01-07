@@ -18,7 +18,7 @@
 
 (C) Nothing in this subsection affects any provision of chapter 9 of this title.
 
-(2)(A) Nothing in this subsection shall apply to the lending of a computer program for nonprofit purposes by a nonprofit library, if each copy of a computer program which is lent by such library has affixed to the packaging containing the program a warning of copyright in accordance with requirements that the Register of Copyrights shall prescribe by regulation.
+(2)(A) Nothing in this subsection shall apply to the lending of a computer program for nonprofit purposes by a nonprofit library, if each copy ofa computer program which is lent by such library has affixed to the packaging containing the program a warning of copyright in accordance with requirements that the Register of Copyrights shall prescribe by regulation.
 
 (B) Not later than three years after the date of the enactment of the Computer Software Rental Amendments Act of 1990, and at such times thereafter as the Register of Copyrights considers appropriate, the Register of Copyrights, after consultation with representatives of copyright owners and librarians, shall submit to the Congress a report stating whether this paragraph has achieved its intended purpose of maintaining the integrity of the copyright system while providing nonprofit libraries the capability to fulfill their function. Such report shall advise the Congress as to any information or recommendations that the Register of Copyrights considers necessary to carry out the purposes of this subsection.
 
@@ -30,13 +30,13 @@
 
 (d) The privileges prescribed by subsections (a) and (c) do not, unless authorized by the copyright owner, extend to any person who has acquired possession of the copy or phonorecord from the copyright owner, by rental, lease, loan, or otherwise, without acquiring ownership of it.
 
-(e) Notwithstanding the provisions of sections 106(4) and 106(5), in the case of an electronicaudiovisual game intended for use in coin-operated equipment, the owner of a particular copy of such a game lawfully made under this title, is entitled, without the authority of the copyright owner of the game, to publicly perform or display that game in coin-operated equipment, except that this subsection shall not apply to any work of authorship embodied in the audiovisual game if the copyright owner of the electronic audiovisual game is not also the copyright owner of the work of authorship.
+(e) Notwithstanding the provisions of sections 106(4) and 106(5), in the case of an electronic audiovisual game intended for use in coin-operated equipment, the owner of a particular copy of such a game lawfully made under this title, is entitled, without the authority of the copyright owner of the game, to publicly perform or display that game in coin-operated equipment, except that this subsection shall not apply to any work of authorship embodied in the audiovisual game if the copyright owner of the electronic audiovisual game is not also the copyright owner of the work of authorship.
 
 (Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2548; Pub. L. 98–450, §2, Oct. 4, 1984, 98 Stat. 1727; Pub. L. 100–617, §2, Nov. 5, 1988, 102 Stat. 3194; Pub. L. 101–650, title VIII, §§802, 803, Dec. 1, 1990, 104 Stat. 5134, 5135; Pub. L. 103–465, title V, §514(b), Dec. 8, 1994, 108 Stat. 4981; Pub. L. 105–80, §12(a)(5), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 110–403, title II, §209(a)(1), Oct. 13, 2008, 122 Stat. 4264.)
 
 #### Historical and Revision Notes
 
-I74house report no. 94–1476
+#### house report no. 94–1476
 
 <b>Effect on Further Disposition of Copy or Phonorecord.</b> Section 109(a) restates and confirms the principle that, where the copyright owner has transferred ownership of a particular copy or phonorecord of a work, the person to whom the copy or phonorecord is transferred is entitled to dispose of it by sale, rental, or any other means. Under this principle, which has been established by the court decisions and section 27 of the present law \[section 27 of former title 17\], the copyright owner's exclusive right of public distribution would have no effect upon anyone who owns “a particular copy or phonorecord lawfully made under this title” and who wishes to transfer it to someone else or to destroy it.
 
@@ -50,7 +50,7 @@ Section 109(b) adopts the general principle that the lawful owner of a copy of a
 
 The exclusive right of public display granted by section 106(5) would not apply where the owner of a copy wishes to show it directly to the public, as in a gallery or display case, or indirectly, as through an opaque projector. Where the copy itself is intended for projection, as in the case of a photographic slide, negative, or transparency, the public projection of a single image would be permitted as long as the viewers are “present at the place where the copy is located.”
 
-On the other hand, section 109(b) takes account of the potentialities of the new communications media, notably television, cable and optical transmission devices, and information storage and retrieval devices, for replacing printed copies with visual images. First of all, the public display of an image of a copyrighted work would not be exempted from copyright control if the copy from which the image was derived were outside the presence of the viewers. In other words, the display of a visual image of a copyrighted work would be an infringement if the image were transmitted by any method (by closed or open circuit television, for example, or by a computer system) from one place to members of the public located elsewhere.
+On the other hand, section 109(b) takes account of the potentialities of the new communications media, notably television, cable and optical transmission devices, and information storage and retrieval devices, for replacing printed copies with visual images. First of all, the public display of an image of a copyrighted work would not be exempted from copyright control if the copy from which the image was derived were outside the presence of the viewers. In other words, the displayof a visual image of a copyrighted work would be an infringement if the image were transmitted by any method (by closed or open circuit television, for example, or by a computer system) from one place to members of the public located elsewhere.
 
 Moreover, the exemption would extend only to public displays that are made “either directly or by the projection of no more than one image at a time.” Thus, even where the copy and the viewers are located at the same place, the simultaneous projection of multiple images of the work would not be exempted. For example, where each person in a lecture hall is supplied with a separate viewing apparatus, the copyright owner's permission would generally be required in order to project an image of a work on each individual screen at the same time.
 
@@ -70,11 +70,11 @@ Section 5 of the Federal Trade Commission Act, referred to in subsec. (b)(3), is
 
 #### Amendments
 
-2008—Subsec. (b)(4). Pub. L. 110–403 substituted “and 505” for “505, and 509”.
+<b>2008</b>—Subsec. (b)(4). Pub. L. 110–403 substituted “and 505” for “505, and 509”.
 
-1997—Subsec. (b)(2)(B). Pub. L. 105–80 substituted “Register of Copyrights considers appropriate” for “Register of Copyright considers appropriate”.
+<b>1997</b>—Subsec. (b)(2)(B). Pub. L. 105–80 substituted “Register of Copyrights considers appropriate” for “Register of Copyright considers appropriate”.
 
-1994—Subsec. (a). Pub. L. 103–465 inserted at end “Notwithstanding the preceding sentence, copies or phonorecords of works subject to restored copyright under section 104A that are manufactured before the date of restoration of copyright or, with respect to reliance parties, before publication or service of notice under section 104A(e), may be sold or otherwise disposed of without the authorization of the owner of the restored copyright for purposes of direct or indirect commercial advantage only during the 12-month period beginning on—
+<b>1994</b>—Subsec. (a). Pub. L. 103–465 inserted at end “Notwithstanding the preceding sentence, copies or phonorecords of works subject to restored copyright under section 104A that are manufactured before the date of restoration of copyright or, with respect to reliance parties, before publication or service of notice under section 104A(e), may be sold or otherwise disposed of without the authorization of the owner of the restored copyright for purposes of direct or indirect commercial advantage only during the 12-month period beginning on—
 
 &emsp;“(1) the date of the publication in the Federal Register of the notice of intent filed with the Copyright Office under section 104A(d)(2)(A), or
 
@@ -82,7 +82,7 @@ Section 5 of the Federal Trade Commission Act, referred to in subsec. (b)(3), is
 
 > whichever occurs first.”
 
-1990—Subsec. (b)(1). Pub. L. 101–650, §802(2), added par. (1) and struck out former par. (1) which read as follows: “Notwithstanding the provisions of subsection (a), unless authorized by the owners of copyright in the sound recording and in the musical works embodied therein, the owner of a particular phonorecord may not, for purposes of direct or indirect commercial advantage, dispose of, or authorize the disposal of, the possession of that phonorecord by rental, lease, or lending, or by any other act or practice in the nature of rental, lease, or lending. Nothing in the preceding sentence shall apply to the rental, lease, or lending of a phonorecord for nonprofit purposes by a nonprofit library or nonprofit educational institution.”
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–650, §802(2), added par. (1) and struck out former par. (1) which read as follows: “Notwithstanding the provisions of subsection (a), unless authorized by the owners of copyright in the sound recording and in the musical works embodied therein, the owner of a particular phonorecord may not, for purposes of direct or indirect commercial advantage, dispose of, or authorize the disposal of, the possession of that phonorecord by rental, lease, or lending, or by any other act or practice in the nature of rental, lease, or lending. Nothing in the preceding sentence shall apply to the rental, lease, or lending of a phonorecord for nonprofit purposes by a nonprofit library or nonprofit educational institution.”
 
 Subsec. (b)(2), (3). Pub. L. 101–650, §802(1), (2), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
@@ -92,9 +92,9 @@ Pub. L. 101–650, §802(1), redesignated par. (3) as (4).
 
 Subsec. (e). Pub. L. 101–650, §803, added subsec. (e).
 
-1988—Subsec. (d). Pub. L. 100–617 substituted “(a) and (c)” for “(a) and (b)” and “copyright” for “coyright”.
+<b>1988</b>—Subsec. (d). Pub. L. 100–617 substituted “(a) and (c)” for “(a) and (b)” and “copyright” for “coyright”.
 
-1984—Subsecs. (b) to (d). Pub. L. 98–450 added subsec. (b) and redesignated existing subsecs. (b) and (c) as (c) and (d), respectively.
+<b>1984</b>—Subsecs. (b) to (d). Pub. L. 98–450 added subsec. (b) and redesignated existing subsecs. (b) and (c) as (c) and (d), respectively.
 
 #### Effective Date of 1990 Amendment
 

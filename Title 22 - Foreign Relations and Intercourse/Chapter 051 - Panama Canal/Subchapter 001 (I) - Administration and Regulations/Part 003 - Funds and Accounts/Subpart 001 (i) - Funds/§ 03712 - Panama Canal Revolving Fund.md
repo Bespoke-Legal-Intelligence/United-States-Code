@@ -26,7 +26,7 @@ There is established in the Treasury of the United States a revolving fund to be
 
 #### (b) Tolls and other receipts into Panama Canal Revolving Fund; restriction on use of funds
 
-(1) There shall be deposited in the Panama Canal Revolving Fund, on a continuing basis, toll receipts (other than amounts of toll receiptsdeposited into the Panama Canal Commission Dissolution Fund under section 3714a of this title) and all other receipts of the Commission. Except as provided in section 3713 of this title, no funds may be obligated or expended by the Commission in any fiscal year unless such obligation or expenditure has been specifically authorized by law.
+(1) There shall be deposited in the Panama Canal Revolving Fund, on a continuing basis, toll receipts (other than amounts of toll receipts deposited into the Panama Canal Commission Dissolution Fund under section 3714a of this title) and all other receipts of the Commission. Except as provided in section 3713 of this title, no funds may be obligated or expended by the Commission in any fiscal year unless such obligation or expenditure has been specifically authorized by law.
 
 (2) No funds may be authorized for the use of the Commission, or obligated or expended by the Commission in any fiscal year; in excess of—
 
@@ -54,7 +54,7 @@ With the approval of the Secretary of the Treasury, the Commission may deposit a
 
 (2) Upon termination pursuant to paragraph (1), the Panama Canal Revolving Fund shall be transferred to the General Services Administration (GSA). GSA shall use the amounts in the Fund to make payments of any outstanding liabilities of the Commission, as well as any expenses associated with the termination of the Office of Transition Administration and the Commission. The fund shall be the exclusive source available for payment of any outstanding liabilities of the Commission.
 
-(Pub. L. 96–70, title I, §1302, Sept. 27, 1979, 93 Stat. 477; Pub. L. 99–195, §1(a), Dec. 23, 1985, 99 Stat. 1349; Pub. L. 100–203, title V, §5422(a), (b)(1), Dec. 22, 1987, 101 Stat. 1330–271, 1330–272; Pub. L. 100–705, §9, Nov. 19, 1988, 102 Stat. 4687; Pub. L. 102–484, div. C, title XXXV, §3521(b)(1), Oct. 23, 1992, 106 Stat. 2657; Pub. L. 104–106, div. C, title XXXV, §3525, Feb. 10, 1996, 110 Stat. 640; Pub. L. 104–201, div. C, title XXXV, §3539, Sept. 23, 1996, 110 Stat. 2865; Pub. L. 105–85, div. C, title XXXV, §3528, Nov. 18, 1997, 111 Stat. 2069; Pub. L. 108–309, §121, Sept. 30, 2004, 118 Stat. 1140.)
+(Pub. L. 96–70, title I, §1302, Sept. 27, 1979, 93 Stat. 477; Pub. L. 99–195, §1(a), Dec. 23, 1985, 99 Stat. 1349; Pub. L. 100–203, title V, §5422(a), (b)(1), Dec. 22, 1987, 101 Stat. 1330–271, 1330–272; Pub. L. 100–705, §9, Nov. 19, 1988, 102 Stat. 4687; Pub. L. 102–484, div. C, title XXXV, §3521(b)(1), Oct. 23, 1992, 106 Stat. 2657; Pub. L. 104–106, div. C, title XXXV, §3525, Feb. 10, 1996, 110 Stat. 640; Pub. L. 104–201, div. C, title XXXV, §3539, Sept.23, 1996, 110 Stat. 2865; Pub. L. 105–85, div. C, title XXXV, §3528, Nov. 18, 1997, 111 Stat. 2069; Pub. L. 108–309, §121, Sept. 30, 2004, 118 Stat. 1140.)
 
 #### References in Text
 
@@ -64,9 +64,9 @@ Section 3504 of Public Law 106–65, referred to in subsec. (e)(1), is section 3
 
 #### Amendments
 
-2004—Subsec. (e). Pub. L. 108–309 added subsec. (e).
+<b>2004</b>—Subsec. (e). Pub. L. 108–309 added subsec. (e).
 
-1997—Subsec. (a). Pub. L. 105–85, §3528(b)(1), substituted “for the following purposes:” for “for—” in introductory provisions.
+<b>1997</b>—Subsec. (a). Pub. L. 105–85, §3528(b)(1), substituted “for the following purposes:” for “for—” in introductory provisions.
 
 Subsec. (a)(1) to (7). Pub. L. 105–85, §3528(b)(2), (3), capitalized initial letter of first word and substituted a period for the semicolon at end.
 
@@ -76,7 +76,7 @@ Subsec. (a)(9). Pub. L. 105–85, §3528(b)(2), capitalized initial letter of fi
 
 Subsec. (a)(10). Pub. L. 105–85, §3528(a), added par. (10).
 
-1996—Pub. L. 104–201 amended section generally, reenacting section catchline without change, revising and restating former subsecs. (a)(1), (c), (d), and (f) as subsecs. (a) to (d), and striking out provisions of former subsecs. (a)(2), (b), and (e), which related to termination of the Fund, transfer of funds, and congressional review of Commission budgets.
+<b>1996</b>—Pub. L. 104–201 amended section generally, reenacting section catchline without change, revising and restating former subsecs. (a)(1), (c), (d), and (f) as subsecs. (a) to (d), and striking out provisions of former subsecs. (a)(2), (b), and (e), which related to termination of the Fund, transfer of funds, and congressional review of Commission budgets.
 
 Subsec. (c)(1). Pub. L. 104–106, §3525(1)(A), struck out “and subject to paragraph (2)” after “section 3713 of this title”.
 
@@ -84,19 +84,19 @@ Subsec. (c)(2), (3). Pub. L. 104–106, §3525(1)(B), (C), redesignated par. (3)
 
 Subsec. (e). Pub. L. 104–106, §3525(2), added subsec. (e) and struck out former subsec. (e) which read as follows: “The Committee on Appropriations of each House of Congress shall review the annual budget of the Commission, including operations and capital expenditures.”
 
-1992—Subsec. (c)(1). Pub. L. 102–484, §3521(b)(1)(A), inserted “(other than amounts of toll receipts deposited into the Panama Canal Commission Dissolution Fund under section 3714a of this title)” after “toll receipts”.
+<b>1992</b>—Subsec. (c)(1). Pub. L. 102–484, §3521(b)(1)(A), inserted “(other than amounts of toll receipts deposited into the Panama Canal Commission Dissolution Fund under section 3714a of this title)” after “toll receipts”.
 
 Subsec. (c)(3)(A). Pub. L. 102–484, §3521(b)(1)(B), inserted “and the Panama Canal Dissolution Fund” after “Panama Canal Revolving Fund”.
 
-1988—Subsecs. (e), (f). Pub. L. 100–705 redesignated subsec. (e), relating to costs of implementation, as (f).
+<b>1988</b>—Subsecs. (e), (f). Pub. L. 100–705 redesignated subsec. (e), relating to costs of implementation, as (f).
 
-1987—Pub. L. 100–203, §5422(b)(1), substituted “Panama Canal Revolving Fund” for “Panama Canal Commission Fund” in section catchline.
+<b>1987</b>—Pub. L. 100–203, §5422(b)(1), substituted “Panama Canal Revolving Fund” for “Panama Canal Commission Fund” in section catchline.
 
 Subsecs. (a) to (d). Pub. L. 100–203, §5422(a), added subsecs. (a) to (d) and struck out former subsecs. (a) to (d) which related to termination of Panama Canal Company Fund on Oct. 1, 1979, subsequent deposit of tolls and other receipts into Panama Canal Commission Fund, restriction on use of funds, and authority of the Commission to enter into contracts, respectively.
 
 Subsec. (e). Pub. L. 100–203, §5422(a), added subsec. (e), directing Appropriations Committee of each House to review annual budget of the Commission.
 
-1985—Subsec. (b). Pub. L. 99–195 provided for deposit of interest receipts as miscellaneous receipts.
+<b>1985</b>—Subsec. (b). Pub. L. 99–195 provided for deposit of interest receipts as miscellaneous receipts.
 
 #### Effective Date of 1988 Amendment
 

@@ -12,17 +12,13 @@ For the purpose of carrying out and effecting the objects of this section the Se
 
 #### (d) Disposition of land not contracted for
 
-Any of such lands not contracted for in accordance with the provisions of subsection (c) of this section within ten years from the time water is available for the same, or sooner, if the Secretary of the Interior may deem it desirable, shall be disposed of in accordance with the public land laws applicable thereto, and the proceeds from the disposition of lands reverting to the United States under the provisions of this section, and from sales of water rights, shall be covered into the reclamation fund and placed tothe credit of the project wherein the lands are situate.
+Any of such lands not contracted for in accordance with the provisions of subsection (c) of this section within ten years from the time water is available for the same, or sooner, if the Secretary of the Interior may deem it desirable, shall be disposed of in accordance with the public land laws applicable thereto, and the proceeds from the disposition of lands reverting to the United States under the provisions of this section, and from sales of water rights, shall be covered into the reclamation fund and placed to the credit of the project wherein the lands are situate.
 
 (Oct. 5, 1914, ch. 316, §§1–4, 38 Stat. 727, 728; Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792.)
 
-#### References in Text
-
-The public land laws, referred to in subsec. (d), are classified generally to this title.
-
 #### Amendments
 
-1976—Subsec. (a). Pub. L. 94–579 struck out subsec. (a) authorizing Secretary of the Interior to withdraw and reserve lands for country parks, public playgrounds, etc.
+<b>1976</b>—Subsec. (a). Pub. L. 94–579 struck out subsec. (a) authorizing Secretary of the Interior to withdraw and reserve lands for country parks, public playgrounds, etc.
 
 #### Effective Date of 1976 Amendment
 

@@ -44,7 +44,7 @@ Additional Responses.—If there is a default on an obligation, the Secretary or
 
 &emsp;(4) requires appraisal of assets by an independent appraiser.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1618; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), (F), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (11), (b), Jan. 28, 2008, 122 Stat. 598.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1618; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C),\(F), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (11), (b), Jan. 28, 2008, 122 Stat. 598.)
 
 Historical and Revision Notes
 
@@ -78,11 +78,11 @@ In subsection (a), before paragraph (1), the words “an obligation or related a
 
 #### Amendments
 
-2008—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(C), (F). See 2006 Amendment note below.
+<b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(C), (F). See 2006 Amendment note below.
 
 Pub. L. 110–181, 3522(a)(10)(B), (11), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(C), (F), into this section by inserting “or Administrator” after “Secretary” in section catchline and wherever appearing in subsecs. (a) to (c) and “or Administrator's” after “Secretary's” in subsecs. (a)(1) and (b)(1)(B). See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
 Subsec. (d). Pub. L. 110–181, §3522(a)(10)(B), inserted “or Administrator” after “Secretary” in introductory provisions.
 
-2006—Pub. L. 109–163, §3507(a)(1)(C), (F), which directed the amendment of sections 1273(e) and 1275(b) of the former Appendix to this title from which this section was derived in part, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes and Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–163, §3507(a)(1)(C), (F), which directed the amendment of sections 1273(e) and 1275(b) of the former Appendix to this title from which this section was derived in part, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes and Historical and Revision notes above.
 

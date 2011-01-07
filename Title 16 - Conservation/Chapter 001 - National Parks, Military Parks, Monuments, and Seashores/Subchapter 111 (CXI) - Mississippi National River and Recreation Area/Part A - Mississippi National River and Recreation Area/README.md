@@ -1,7 +1,5 @@
 Part A—Mississippi National River and Recreation Area
 
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
-
 
 ---
 

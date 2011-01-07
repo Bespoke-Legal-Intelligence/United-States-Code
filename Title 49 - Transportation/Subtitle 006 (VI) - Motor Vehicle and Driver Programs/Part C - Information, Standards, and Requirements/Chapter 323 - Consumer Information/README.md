@@ -17,9 +17,9 @@
 
 #### Amendments
 
-2007—Pub. L. 110–140, title I, §111(c), Dec. 19, 2007, 121 Stat. 1507, added item 32304A.
+<b>2007</b>—Pub. L. 110–140, title I, §111(c), Dec. 19, 2007, 121 Stat. 1507, added item 32304A.
 
-1994—Pub. L. 103–429, §6(28), Oct. 31, 1994, 108 Stat. 4380, substituted “Civil” for “Criminal” in item 32309.
+<b>1994</b>—Pub. L. 103–429, §6(28), Oct. 31, 1994, 108 Stat. 4380, substituted “Civil” for “Criminal” in item 32309.
 
 
 ---

@@ -16,7 +16,7 @@ The Secretary may approve such application only if—
 
 &emsp;(4) he obtains assurances that the applicant will keep such records, and afford such access thereto, and make such reports, in such form and containing such information, as the Secretary may reasonably require, and
 
-&emsp;(5) he also determines, in the case of a loan for which a guarantee is sought, that the terms, conditions, maturity, security (if any), and schedule and amounts of repayments with respect to the loan are sufficient to protect the financial interests of the United States and are otherwise reasonable and in accord with regulations, including a determination that the rate of interest does not exceed such per centum per annum on the principal obligation outstanding as the Secretary determines to be reasonable, taking into account the range of interest rates prevailing in the private market for similar loans and the risks assumed by the United States.
+&emsp;(5) he also determines, in the case of a loan for which a guarantee is sought, that the terms, conditions, maturity, security (if any), and schedule and amounts of repayments with respect to the loan are sufficient to protectthe financial interests of the United States and are otherwise reasonable and in accord with regulations, including a determination that the rate of interest does not exceed such per centum per annum on the principal obligation outstanding as the Secretary determines to be reasonable, taking into account the range of interest rates prevailing in the private market for similar loans and the risks assumed by the United States.
 
 #### (c) Hearing
 

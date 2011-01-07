@@ -26,15 +26,15 @@
 
 #### Amendments
 
-2004—Pub. L. 108–375 reenacted section catchline without change and amended text generally. Prior to amendment, section related to, in subsec. (a), calculation of the Department of Defense monthly contribution to the Fund, in subsec. (b), separate calculation by a participating uniformed service, in subsec. (c), payments to the Fund at the beginning of each fiscal year by the Secretary of the Treasury, and, in subsec. (d), amounts paid into the Fund under subsec. (a) from the pay of members of the participating uniformed services.
+<b>2004</b>—Pub. L. 108–375 reenacted section catchline without change and amended text generally. Prior to amendment, section related to, in subsec. (a), calculation of the Department of Defense monthly contribution to the Fund, in subsec. (b), separate calculation by a participating uniformed service, in subsec. (c), payments to the Fund at the beginning of each fiscal year by the Secretary of the Treasury, and, in subsec. (d), amounts paid into the Fund under subsec. (a) from the pay of members of the participating uniformed services.
 
-2003—Subsec. (a). Pub. L. 108–136, §722(b)(1), substituted “the amount that, subject to subsection (b),” for “the amount that” in introductory provisions.
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §722(b)(1), substituted “the amount that, subject to subsection (b),” for “the amount that” in introductory provisions.
 
 Subsecs. (b) to (d). Pub. L. 108–136, §722(b)(2), (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-2002—Subsec. (c). Pub. L. 107–314 substituted “pay of members” for “health care programs”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–314 substituted “pay of members” for “health care programs”.
 
-2001—Subsec. (a)(1)(A). Pub. L. 107–107, §711(e)(1), substituted “uniformed services retiree health care programs” for “Department of Defense retiree health care programs”.
+<b>2001</b>—Subsec. (a)(1)(A). Pub. L. 107–107, §711(e)(1), substituted “uniformed services retiree health care programs” for “Department of Defense retiree health care programs”.
 
 Subsec. (a)(1)(B). Pub. L. 107–107, §711(b)(4), inserted “under the jurisdiction of the Secretary of Defense” after “uniformed services”.
 

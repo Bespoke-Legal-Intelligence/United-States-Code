@@ -46,5 +46,5 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
-1999—Subsec. (d). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+<b>1999</b>—Subsec. (d). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 

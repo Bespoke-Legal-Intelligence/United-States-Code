@@ -112,7 +112,7 @@ Aug. 14, 1964, Pub. L. 88–428, §1(6), 78 Stat. 437.
 
 Only that portion of the source law which is applicable to civilian officers and employees and their dependents is codified in this section.
 
-In subsection (a), the words “employee . . . in a missing status” are substituted for the reference to “person . . . entitled under section 2 of this Act to receive or be credited with pay and allowances” to conform to the definitions in section 5561(2) and (5). The words “except as otherwise provided herein” are omitted as unnecessary.
+In subsection (a), the words “employee . . . in a missing status” are substituted for the reference to “person. . . entitled under section 2 of this Act to receive or be credited with pay and allowances” to conform to the definitions in section 5561(2) and (5). The words “except as otherwise provided herein” are omitted as unnecessary.
 
 In subsection (b), the words “head of the agency concerned, he or his designee” are substituted for “head of the department concerned . . . head of the department concerned, or such subordinate as he may designate”. The word “employee” is substituted for “person” to conform to the definition in section 5561(2).
 

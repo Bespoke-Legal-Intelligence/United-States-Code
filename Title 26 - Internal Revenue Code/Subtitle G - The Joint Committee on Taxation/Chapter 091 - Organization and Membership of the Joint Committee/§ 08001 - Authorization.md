@@ -6,7 +6,7 @@ There shall be a joint congressional committee known as the Joint Committee on T
 
 #### Amendments
 
-1976—Pub. L. 94–455 struck out “Internal Revenue” after “Committee on”.
+<b>1976</b>—Pub. L. 94–455 struck out “Internal Revenue” after “Committee on”.
 
 #### Effective Date of 1976 Amendment
 

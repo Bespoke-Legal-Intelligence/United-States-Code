@@ -124,7 +124,7 @@ Assistance and other activities under the SEED Program (which may be referred to
 
 #### (18) Cultural centers
 
-&emsp;Contributions toward the establishment of reciprocal cultural centers that can facilitate educational and cultural exchange and expanded understanding of Western social democracy.
+&emsp;Contributions toward the establishment of reciprocal cultural centers that can facilitateeducational and cultural exchange and expanded understanding of Western social democracy.
 
 #### (19) Sister institutions
 
@@ -164,9 +164,9 @@ The Foreign Assistance Act of 1961, referred to in subsec. (c)(14), is Pub. L. 8
 
 #### Amendments
 
-1998—Subsec. (c)(11). Pub. L. 105–206 in heading substituted “Normal trade relations” for “Most favored nation trade status” and in text struck out “(commonly referred to as ‘most favored nation status’)” after “nondiscriminatory treatment”.
+<b>1998</b>—Subsec. (c)(11). Pub. L. 105–206 in heading substituted “Normal trade relations” for “Most favored nation trade status” and in text struck out “(commonly referred to as ‘most favored nation status’)” after “nondiscriminatory treatment”.
 
-1992—Subsec. (c)(14). Pub. L. 102–549 substituted “Agency” for “Program”.
+<b>1992</b>—Subsec. (c)(14). Pub. L. 102–549 substituted “Agency” for “Program”.
 
 #### Short Title
 
@@ -180,7 +180,7 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 Ex. Ord. No. 12703, Feb. 20, 1990, 55 F.R. 6351, as amended by Ex. Ord. No. 13118, §10(2), Mar. 31, 1999, 64 F.R. 16598, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, including the Support for East European Democracy (SEED) Act (P.L. 101–179, hereinafter referred to as the “Act”) \[22 U.S.C. 5401 et seq.\] and section 301 of Title 3of the United States Code, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America, including the Support for East European Democracy (SEED) Act (P.L. 101–179, hereinafter referred to as the “Act”) \[22 U.S.C. 5401 et seq.\] and section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
 
 Section 1. <i>SEED Program Coordinator</i>. The functions conferred by Title VII of the Act \[22 U.S.C. 5471 et seq.\] relating to reports to the Congress are hereby delegated to the Coordinator of the SEED Program. The Coordinator is authorized to assign responsibility for particular aspects of the reports to appropriate agencies.
 

@@ -46,7 +46,7 @@ In order to ensure high quality, rigorous scientific review of complementary and
 
 #### (2) Clearinghouse
 
-&emsp;The Director of the Center shall establish an information clearinghouse to facilitate and enhance, through the effective dissemination of information, knowledge and understanding of alternative medical treatment, diagnostic and prevention practices by health professionals, patients, industry, and the public.
+&emsp;The Director of the Center shall establish an information clearinghouse to facilitate andenhance, through the effective dissemination of information, knowledge and understanding of alternative medical treatment, diagnostic and prevention practices by health professionals, patients, industry, and the public.
 
 #### (h) Research centers
 

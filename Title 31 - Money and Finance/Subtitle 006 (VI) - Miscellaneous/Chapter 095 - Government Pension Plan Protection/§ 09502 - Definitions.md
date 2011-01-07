@@ -66,7 +66,7 @@ The Employee Retirement Income Security Act of 1974, referred to in par. (1)(A),
 
 #### Amendments
 
-1986—Par. (1)(A). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Par. (1)(A). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 #### Transfer of Functions
 

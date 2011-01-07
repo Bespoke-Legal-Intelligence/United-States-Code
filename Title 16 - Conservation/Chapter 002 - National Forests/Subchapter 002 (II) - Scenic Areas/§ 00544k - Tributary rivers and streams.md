@@ -4,7 +4,7 @@
 
 The following rivers and streams shall be subject to the same restrictions on the licensing, permitting, and exempting from licensing and the construction of water resource projects as provided for components of the National Wild and Scenic Rivers System pursuant to section 7(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1278(a)):
 
-&emsp;(1) any tributary river or stream to the Columbia River not designated in subsections <sup>1</sup> (c) or (d) of this section or otherwise specified in this subsection which flows in whole or in part through a special management area, unless the construction of a water resources project would not have a direct and adverse effect on the scenic, cultural, recreation, and natural resources of the scenic area;
+&emsp;(1) any tributary river or stream to the Columbia River not designated in subsections <sup>1</sup>\(c) or (d) of this section or otherwise specified in this subsection which flows in whole or in part through a special management area, unless the construction of a water resources project would not have a direct and adverse effect on the scenic, cultural, recreation, and natural resources of the scenic area;
 
 &emsp;(2) any river or river segment which flows in whole or in part through the scenic area and which is established pursuant to State law as a wild, scenic, or recreation river or which is under study pursuant to State law for the potential inclusion in any such State protected river system, unless such project or projects meet terms and conditions set by State agencies exercising administration over such river or river segment;
 
@@ -38,7 +38,7 @@ Section 13 of Pub. L. 99–663, which enacted this section, consisted of subsecs
 
 #### Amendments
 
-2009—Subsec. (a)(4). Pub. L. 111–11 struck out “for a period not to exceed twenty years from November 17, 1986,” before “if such facility”.
+<b>2009</b>—Subsec. (a)(4). Pub. L. 111–11 struck out “for a period not to exceed twenty years from November 17, 1986,” before “if such facility”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

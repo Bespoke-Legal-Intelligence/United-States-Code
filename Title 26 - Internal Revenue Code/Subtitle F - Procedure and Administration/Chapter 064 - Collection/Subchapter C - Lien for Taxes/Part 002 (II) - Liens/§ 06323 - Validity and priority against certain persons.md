@@ -66,7 +66,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 #### (10) Deposit-secured loans
 
-&emsp;With respect to a savings deposit, share, or other account with an institution described in section 581 or 591, to the extent of any loan made by such institution without actual notice or knowledge of the existence of such lien, as against such institution, if such loan is secured by such account.
+&emsp;With respect to a savings deposit, share, or other account with an institution described insection 581 or 591, to the extent of any loan made by such institution without actual notice or knowledge of the existence of such lien, as against such institution, if such loan is secured by such account.
 
 #### (c) Protection for certain commercial transactions financing agreements, etc.
 
@@ -152,7 +152,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 &emsp;&emsp;Where the obligatory disbursement agreement is an agreement ensuring the performance of a contract between the taxpayer and another person—
 
-&emsp;&emsp;&emsp;(i) the term “qualified property” shall be treated as also including the proceeds of the contract the performance of which was ensured, and
+&emsp;&emsp;&emsp;(i) the term “qualified property” shall be treated as also including the proceeds ofthe contract the performance of which was ensured, and
 
 &emsp;&emsp;&emsp;(ii) if the contract the performance of which was ensured was a contract to construct or improve real property, to produce goods, or to furnish services, the term “qualified property” shall be treated as also including any tangible personal property used by the taxpayer in the performance of such ensured contract.
 
@@ -160,7 +160,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 Even though notice of a lien imposed by section 6321 has been filed, such lien shall not be valid with respect to a security interest which came into existence after tax lien filing by reason of disbursements made before the 46th day after the date of tax lien filing, or (if earlier) before the person making such disbursements had actual notice or knowledge of tax lien filing, but only if such security interest—
 
-&emsp;(1) is in property (A) subject, at the time of tax lien filing, to the lien imposed by section6321, and (B) covered by the terms of a written agreement entered into before tax lien filing, and
+&emsp;(1) is in property (A) subject, at the time of tax lien filing, to the lien imposed by section 6321, and (B) covered by the terms of a written agreement entered into before tax lien filing, and
 
 &emsp;(2) is protected under local law against a judgment lien arising, as of the time of tax lien filing, out of an unsecured obligation.
 
@@ -312,7 +312,7 @@ For purposes of this section and section 6324—
 
 #### (1) Actual notice or knowledge
 
-&emsp;For purposes of this subchapter, an organization shall be deemed for purposes of a particular transaction to have actual notice or knowledge of any fact from the time such fact is brought to the attention of the individual conducting such transaction, and in any event from the time such fact would have been brought to such individual's attention if the organization had exercised due diligence. An organization exercises due diligence if it maintains reasonable routines for communicating significant information to the person conducting the transaction and there is reasonable compliance with the routine. Due diligence does not require an individual acting for the organization to communicate information unless such communication is part of his regular duties or unless he has reason to know of the transaction and that the transaction would be materially affected by the information.
+&emsp;For purposes of this subchapter, an organization shall be deemed for purposes of a particular transaction to have actual notice orknowledge of any fact from the time such fact is brought to the attention of the individual conducting such transaction, and in any event from the time such fact would have been brought to such individual's attention if the organization had exercised due diligence. An organization exercises due diligence if it maintains reasonable routines for communicating significant information to the person conducting the transaction and there is reasonable compliance with the routine. Due diligence does not require an individual acting for the organization to communicate information unless such communication is part of his regular duties or unless he has reason to know of the transaction and that the transaction would be materially affected by the information.
 
 #### (2) Subrogation
 
@@ -360,7 +360,7 @@ For purposes of this section and section 6324—
 
 #### Amendments
 
-1998—Subsec. (b)(4). Pub. L. 105–206, §3435(a)(1)(A), substituted “$1,000” for “$250”.
+<b>1998</b>—Subsec. (b)(4). Pub. L. 105–206, §3435(a)(1)(A), substituted “$1,000” for “$250”.
 
 Subsec. (b)(7). Pub. L. 105–206, §3435(a)(1)(B), substituted “$5,000” for “$1,000”.
 
@@ -370,23 +370,23 @@ Subsec. (i)(4). Pub. L. 105–206, §3435(a)(2), added par. (4).
 
 Subsec. (j)(1)(D). Pub. L. 105–206, §1102(d)(1)(A), substituted “National Taxpayer Advocate” for “Taxpayer Advocate” in two places.
 
-1996—Subsec. (j). Pub. L. 104–168 added subsec. (j).
+<b>1996</b>—Subsec. (j). Pub. L. 104–168 added subsec. (j).
 
-1990—Subsec. (a). Pub. L. 101–508, §11704(a)(26), substituted “Purchasers” for “Purchases” in heading.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §11704(a)(26), substituted “Purchasers” for “Purchases” in heading.
 
 Subsec. (g)(3). Pub. L. 101–508, §11317(b), substituted “10 years” for “6 years” wherever appearing.
 
-1988—Subsec. (f)(1)(A)(ii). Pub. L. 100–647, §1015(s)(1)(A), inserted exception that State law merely conforming to or reenacting Federal law establishing a national filing system does not constitute a second office for filing as designated by the laws of such State.
+<b>1988</b>—Subsec. (f)(1)(A)(ii). Pub. L. 100–647, §1015(s)(1)(A), inserted exception that State law merely conforming to or reenacting Federal law establishing a national filing system does not constitute a second office for filing as designated by the laws of such State.
 
 Subsec. (f)(5). Pub. L. 100–647, §1015(s)(1)(B), added par. (5).
 
-1986—Subsec. (i)(3). Pub. L. 99–514 added par. (3).
+<b>1986</b>—Subsec. (i)(3). Pub. L. 99–514 added par. (3).
 
-1978—Subsec. (f)(4). Pub. L. 95–600, §702(q)(1), in heading substituted “Indexing required with respect to certain real property” for “Index” and in text inserted provisions relating to the validity of a deed, under the laws of the State in which the real property is located, as against a purchaser who does not have actual notice or knowledge of the existence of such deed and provisions relating to the maintenance of an adequate system for the public indexing of Federal tax liens.
+<b>1978</b>—Subsec. (f)(4). Pub. L. 95–600, §702(q)(1), in heading substituted “Indexing required with respect to certain real property” for “Index” and in text inserted provisions relating to the validity of a deed, under the laws of the State in which the real property is located, as against a purchaser who does not have actual notice or knowledge of the existence of such deed and provisions relating to the maintenance of an adequate system for the public indexing of Federal tax liens.
 
 Subsec. (g)(2)(A). Pub. L. 95–600, §702(q)(2), inserted reference to real property.
 
-1976—Subsecs. (a), (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 Subsec. (f)(2). Pub. L. 94–455, §2008(c)(1)(B), inserted introductory reference to par. (4).
 
@@ -398,7 +398,7 @@ Subsec. (g)(2)(A), (B). Pub. L. 94–455, §§1906(b)(13)(A), 2008(c)(2), requir
 
 Subsec. (i)(3). Pub. L. 94–455, §1202(h)(2), struck out par. (3) which related to a special rule respecting disclosure of amount of outstanding lien.
 
-1966—Subsec. (a). Pub. L. 89–719 redesignated as subsec. (a) that part of former subsec. (a) which preceded pars. (1) to (3) thereof, and, in subsec. (a) as so redesignated, substituted holder of a security interest, mechanic's lienor, and judgment lien creditor for mortgagee, pledgee, and judgment creditor, struck out reference to an exception provided in subsecs. (c) and (d), and inserted reference to requirements of subsec. (f).
+<b>1966</b>—Subsec. (a). Pub. L. 89–719 redesignated as subsec. (a) that part of former subsec. (a) which preceded pars. (1) to (3) thereof, and, in subsec. (a) as so redesignated, substituted holder of a security interest, mechanic's lienor, and judgment lien creditor for mortgagee, pledgee, and judgment creditor, struck out reference to an exception provided in subsecs. (c) and (d), and inserted reference to requirements of subsec. (f).
 
 Subsec. (a)(3). Pub. L. 89–493 substituted the Recorder of Deeds of the District of Columbia for the clerk of the United States District Court for the District of Columbia.
 
@@ -430,7 +430,7 @@ Subsec. (i)(1), (2). Pub. L. 89–719 added pars. (1), (2).
 
 Subsec. (i)(3). Pub. L. 89–719 redesignated provisions of former subsec. (e) as subsec. (i)(3) and substituted “regulations” for “rules and relations”.
 
-1964—Subsec. (a). Pub. L. 88–272, §236(c)(1), substituted “subsections (c) and (d)” for “subsection (c)”.
+<b>1964</b>—Subsec. (a). Pub. L. 88–272, §236(c)(1), substituted “subsections (c) and (d)” for “subsection (c)”.
 
 Subsecs. (d), (e). Pub. L. 88–272, §236(a), added subsec. (d) and redesignated former subsec. (d) as (e).
 
@@ -484,7 +484,7 @@ Section 114(a)–(c) of title I of Pub. L. 89–719 provided that:
 
 “(a)
 
-General Rule.—Except as otherwise provided, the amendments made by this title \[enacting sections 3505, 7425, 7426, and 7810 of this title, amending this section, sections 545, 6322, 6324, 6325, 6331, 6332, 6334, 6335, 6337, 6338, 6339, 6342, 6343, 6502, 6503, 6532, 7402, 7403, 7421, 7424, 7505, 7506, and 7809 of this title, and section 270a of former Title 40, Public Buildings, Property, and Works, redesignating former section 7425 as 7427 of this title, and enacting provisions set out as notes under this section and section 7424 of this title\] shall apply after the date of enactment of this Act \[Nov. 2, 1966\], regardless of when a lien or a title of the United States arose or when the lien or interest of any other person was acquired.
+General Rule.—Except as otherwise provided, the amendments made by this title \[enacting sections3505, 7425, 7426, and 7810 of this title, amending this section, sections 545, 6322, 6324, 6325, 6331, 6332, 6334, 6335, 6337, 6338, 6339, 6342, 6343, 6502, 6503, 6532, 7402, 7403, 7421, 7424, 7505, 7506, and 7809 of this title, and section 270a of former Title 40, Public Buildings, Property, and Works, redesignating former section 7425 as 7427 of this title, and enacting provisions set out as notes under this section and section 7424 of this title\] shall apply after the date of enactment of this Act \[Nov. 2, 1966\], regardless of when a lien or a title of the United States arose or when the lien or interest of any other person was acquired.
 
 “(b)
 
@@ -504,7 +504,7 @@ Exceptions.—The amendments made by this title shall not apply in any case—
 
 Liability for Withheld Taxes.—
 
-&emsp;“(1) The amendments made by section 105(a) (relating to effect on third parties) \[adding section 3505 ofthis title\] shall apply only with respect to wages paid on or after January 1, 1967.
+&emsp;“(1) The amendments made by section 105(a) (relating to effect on third parties) \[adding section 3505 of this title\] shall apply only with respect to wages paid on or after January 1, 1967.
 
 &emsp;“(2) The amendments made by section 105(b) (relating to performance bonds of contractors for public buildings or works) \[amending section 270a of former Title 40\] shall apply to contracts entered into pursuant to invitations for bids issued after June 30, 1967.”
 

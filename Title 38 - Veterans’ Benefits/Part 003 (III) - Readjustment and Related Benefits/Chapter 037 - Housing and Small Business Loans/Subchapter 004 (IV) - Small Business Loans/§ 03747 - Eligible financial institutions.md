@@ -6,7 +6,7 @@ The Secretary may not guarantee under this subchapter a loan made by an entity n
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 1847 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1847 of this title as this section.
 
-1989—Pub. L. 101–237 substituted “Secretary” for “Administrator”.
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary” for “Administrator”.
 

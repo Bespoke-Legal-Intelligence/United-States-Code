@@ -26,7 +26,7 @@ Section 1101(a)(13) of the Transportation Equity Act for the 21st Century, refer
 
 #### Amendments
 
-2005—Subsec. (b). Pub. L. 109–59 inserted “section 1702 of the SAFETEA–LU,” after “described in” and “section 1101(a)(16) of the SAFETEA–LU,” after “for such projects by” and substituted “section 117 of this title,” for “117 of title 23, United States Code,”.
+<b>2005</b>—Subsec. (b). Pub. L. 109–59 inserted “section 1702 of the SAFETEA–LU,” after “described in” and “section 1101(a)(16) of the SAFETEA–LU,” after “for such projects by” and substituted “section 117 of this title,” for “117 of title 23, United States Code,”.
 
-1998—Pub. L. 105–178 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>1998</b>—Pub. L. 105–178 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 

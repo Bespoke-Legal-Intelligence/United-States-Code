@@ -40,7 +40,7 @@ Pounds or Less.—A person from whom the additional legally applicable and effec
 
 Claims Involving Shipments Weighing More Than 10,000
 
-Pounds.—A person from whom the additional legally applicable and effective tariff rate or charges are sought may elect to satisfy the claim if the shipments each weighed more than 10,000 pounds, by payment of 15 percent of the difference between the carrier's applicable and effective tariff rate and the rate originally billed and paid. In the event that a dispute arises as to the rate that was legally applicable to the shipment, such dispute shall be resolved by the Board.
+Pounds.—A person from whom the additional legally applicable and effectivetariff rate or charges are sought may elect to satisfy the claim if the shipments each weighed more than 10,000 pounds, by payment of 15 percent of the difference between the carrier's applicable and effective tariff rate and the rate originally billed and paid. In the event that a dispute arises as to the rate that was legally applicable to the shipment, such dispute shall be resolved by the Board.
 
 (d)
 
@@ -52,7 +52,7 @@ Effects of Election.—When a person from whom additional legally applicable fre
 
 (f)
 
-Stay of Additional Compensation.—When a person proceeds under this section to challenge the reasonableness of the legally applicable freight rate or charges being claimed by acarrier or freight forwarder in addition to those already billed and collected, the person shall not have to pay any additional compensation to the carrier or freight forwarder until the Board has made a determination as to the reasonableness of the challenged rate as applied to the freight of the person against whom the claim is made.
+Stay of Additional Compensation.—When a person proceeds under this section to challenge the reasonableness of the legally applicable freight rate or charges being claimed by a carrier or freight forwarder in addition to those already billed and collected, the person shall not have to pay any additional compensation to the carrier or freight forwarder until the Board has made a determination as to the reasonableness of the challenged rate as applied to the freight of the person against whom the claim is made.
 
 (g)
 
@@ -104,7 +104,7 @@ Recyclable materials defined.—In this subsection, the term “recyclable mater
 
 #### Historical and Revision Notes
 
-I74Pub. L. 104–287, §5(29)(A)
+#### Pub. L. 104–287, §5(29)(A)
 
 This amends 49:13709(a)(1) and (3) for clarity and consistency.
 
@@ -128,7 +128,7 @@ Provisions similar to those in this section were contained in section 10701 of t
 
 #### Amendments
 
-1996—Subsec. (a)(1), (3). Pub. L. 104–287, §5(29)(A), substituted “December 31, 1995” for “the day before the effective date of this section”.
+<b>1996</b>—Subsec. (a)(1), (3). Pub. L. 104–287, §5(29)(A), substituted “December 31, 1995” for “the day before the effective date of this section”.
 
 Subsec. (e). Pub. L. 104–287, §5(29)(B), substituted “January 1, 1996” for “the effective date of this section” and “December 31, 1995” for “the day before such effective date”.
 

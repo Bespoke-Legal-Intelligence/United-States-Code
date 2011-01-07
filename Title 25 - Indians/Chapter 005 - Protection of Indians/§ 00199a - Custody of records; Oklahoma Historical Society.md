@@ -1,6 +1,6 @@
 ### §199a. Custody of records; Oklahoma Historical Society
 
-Title to records of Indian tribes heretofore placed with the Oklahoma Historical Society of the State of Oklahoma by the Secretary of the Interior shall remain vested in the United States and such records shall be held by the said society under rules and regulations prescribed by the Archivist of the United States: <i>Provided</i>, That copies of any such records, documents, books, or papers held by the said society when certified by the secretary or chief clerk thereof under its seal, or by the officer or person acting as secretary or chief clerk, shall be evidence equally with the original, and in making such certified copies the said secretary or acting secretary and the said chief clerk or acting chief clerk shall be acting as a Federal agent, and such certified copies shall have the same force and effect as if made by the Archivist of the United States as provided in section 2116(b) of title 44: <i>Provided further</i>, That whenever such certified copies are desired for official use by the Federal Government they shall be furnished without cost: <i>Provided further</i>, That any such records held by the said society shall be promptly returned to the Government official designated by the Archivist of the United States upon his request therefor.
+Title to records of Indian tribes heretofore placed with the Oklahoma Historical Society of the State of Oklahoma by the Secretary of the Interior shall remain vested in the United States and such records shall be held by the said society under rules and regulations prescribed by the Archivist of the United States: <i>Provided</i>, That copies of any such records, documents, books, or papers held by the said society when certified by the secretary or chief clerk thereof under its seal, or by the officer or person acting as secretary or chief clerk, shall be evidence equally with the original, and in making such certified copies the said secretary or acting secretary and the said chief clerk or acting chief clerk shall be acting as a Federal agent, and such certified copies shall have the same forceand effect as if made by the Archivist of the United States as provided in section 2116(b) of title 44: <i>Provided further</i>, That whenever such certified copies are desired for official use by the Federal Government they shall be furnished without cost: <i>Provided further</i>, That any such records held by the said society shall be promptly returned to the Government official designated by the Archivist of the United States upon his request therefor.
 
 (Mar. 27, 1934, ch. 93, 48 Stat. 501; Oct. 25, 1951, ch. 562, §4(5), 65 Stat. 640; Pub. L. 98–497, title I, §107(i), Oct. 19, 1984, 98 Stat. 2292.)
 
@@ -10,9 +10,9 @@ Title to records of Indian tribes heretofore placed with the Oklahoma Historical
 
 #### Amendments
 
-1984—Pub. L. 98–497 substituted “Archivist of the United States” for “Administrator of General Services” in three places.
+<b>1984</b>—Pub. L. 98–497 substituted “Archivist of the United States” for “Administrator of General Services” in three places.
 
-1951—Act Oct. 25, 1951, transferred control of Indian tribal records, heretofore placed hereunder with Oklahoma Historical Society, from Secretary of the Interior to Administrator of General Services.
+<b>1951</b>—Act Oct. 25, 1951, transferred control of Indian tribal records, heretofore placed hereunder with Oklahoma Historical Society, from Secretary of the Interior to Administrator of General Services.
 
 #### Effective Date of 1984 Amendment
 

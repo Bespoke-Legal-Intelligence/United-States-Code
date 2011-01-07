@@ -90,7 +90,7 @@
 
 #### Amendments
 
-2006—Subsec. (b)(1). Pub. L. 109–163, §534(a), inserted “or national” after “citizen”.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–163, §534(a), inserted “or national” after “citizen”.
 
 Subsec. (c)(4). Pub. L. 109–163, §531(a)(1), struck out par. (4) which read as follows: “The total amount of financial assistance, including the payment of room and board and other educational expenses, provided to a cadet or midshipman in an academic year under this subsection may not exceed an amount equal to the amount that could be provided as financial assistance for such cadet or midshipman under paragraph (1) or (2), or another amount determined by the Secretary concerned, without regard to whether room and board and other educational expenses for such cadet or midshipman are paid under paragraph (3).”
 
@@ -98,19 +98,19 @@ Subsec. (c)(5)(B). Pub. L. 109–163, §531(a)(2), substituted “or (3)” for 
 
 Subsec. (j). Pub. L. 109–163, §533(a), added subsec. (j).
 
-2004—Subsec. (c)(5). Pub. L. 108–375 added par. (5).
+<b>2004</b>—Subsec. (c)(5). Pub. L. 108–375 added par. (5).
 
-2003—Subsec. (c)(3), (4). Pub. L. 108–136 added pars. (3) and (4).
+<b>2003</b>—Subsec. (c)(3), (4). Pub. L. 108–136 added pars. (3) and (4).
 
-2002—Subsec. (h)(1). Pub. L. 107–314, §532(e), struck out first sentence which read as follows: “Not more than 29,500 cadets and midshipmen appointed under this section may be in the financial assistance programs at any one time.”
+<b>2002</b>—Subsec. (h)(1). Pub. L. 107–314, §532(e), struck out first sentence which read as follows: “Not more than 29,500 cadets and midshipmen appointed under this section may be in the financial assistance programs at any one time.”
 
 Subsec. (i). Pub. L. 107–314, §532(d), added subsec. (i).
 
-2001—Subsec. (a). Pub. L. 107–107 substituted “31 years of age on December 31” for “27 years of age on June 30” and struck out “, except that the age of any such member who has served on active duty in the armed forces may exceed such age limitation on such date by a period equal to the period such member served on active duty, but only if such member will be under 30 years of age on such date” before period at end.
+<b>2001</b>—Subsec. (a). Pub. L. 107–107 substituted “31 years of age on December 31” for “27 years of age on June 30” and struck out “, except that the age of any such member who has served on active duty in the armed forces may exceed such age limitation on such date by a period equal to the period such member served on active duty, but only if such member will be under 30 years of age on such date” before period at end.
 
-1999—Subsec. (c)(2). Pub. L. 106–65 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary of Defense shall authorize the Secretaries of the military departments to carry out a test program to determine the desirability of enabling graduate students to participate in the financial assistance program under this section. As part of such test program, the Secretary of a military department may provide financial assistance, as described in paragraph (1), to a student enrolled in an advanced education program beyond the baccalaureate degree level if the student also is a cadet or midshipman in an advanced training program. Not more than 15 percent of the total number of scholarships awarded under this section in any year may be awarded under the test program. No scholarship may be awarded under the test program after September 30, 1999.”
+<b>1999</b>—Subsec. (c)(2). Pub. L. 106–65 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary of Defense shall authorize the Secretaries of the military departments to carry out a test program to determine the desirability of enabling graduate students to participate in the financial assistance program under this section. As part of such test program, the Secretary of a military department may provide financial assistance, as described in paragraph (1), to a student enrolled in an advanced education program beyond the baccalaureate degree level if the student also is a cadet or midshipman in an advanced training program. Not more than 15 percent of the total number of scholarships awarded under this section in any year may be awarded under the test program. No scholarship may be awarded under the test program after September 30, 1999.”
 
-1996—Subsec. (a). Pub. L. 104–201, §555(a), substituted “27 years of age” for “25 years of age” and “30 years of age” for “29 years of age”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201, §555(a), substituted “27 years of age” for “25 years of age” and “30 years of age” for “29 years of age”.
 
 Subsec. (c). Pub. L. 104–201, §553(a), designated existing provisions as par. (1) and added par. (2).
 
@@ -118,11 +118,11 @@ Subsec. (g). Pub. L. 104–201, §507(a)(2), substituted “performed on or afte
 
 Subsec. (h)(2). Pub. L. 104–106 inserted “A cadet designated under this paragraph who, having initially contracted for service as provided in subsection (b)(5)(A) and having received financial assistance for two years under an award providing for four years of financial assistance under this section, modifies such contract with the consent of the Secretary of the Army to provide for service as described in subsection (b)(5)(B), may be counted, for the year in which the contract is modified, toward the number of appointments required under the preceding sentence for financial assistance awarded for a period of four years.” after first sentence and “full-time” after “for service on” in penultimate sentence.
 
-1992—Subsec. (g). Pub. L. 102–484, §517(a)(2), inserted before period at end “, other than concurrent enlisted service while serving on active duty other than for training after July 31, 1990, while a member of the Selected Reserve”.
+<b>1992</b>—Subsec. (g). Pub. L. 102–484, §517(a)(2), inserted before period at end “, other than concurrent enlisted service while serving on active duty other than for training after July 31, 1990, while a member of the Selected Reserve”.
 
 Subsec. (h). Pub. L. 102–484, §532(a), designated existing provisions as par. (1) and added par. (2).
 
-1987—Subsec. (h). Pub. L. 100–180 amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Not more than the following numbers of cadets and midshipmen appointed under this section may be in the financial assistance programs at any one time:
+<b>1987</b>—Subsec. (h). Pub. L. 100–180 amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Not more than the following numbers of cadets and midshipmen appointed under this section may be in the financial assistance programs at any one time:
 
 &emsp;“Army program: 12,000.
 
@@ -130,21 +130,21 @@ Subsec. (h). Pub. L. 102–484, §532(a), designated existing provisions as par.
 
 &emsp;“Air Force program: 9,500.”
 
-1984—Subsec. (b). Pub. L. 98–525, §1405(33), aligned margin of provision following par. (5)(C)(ii) flush with left margin.
+<b>1984</b>—Subsec. (b). Pub. L. 98–525, §1405(33), aligned margin of provision following par. (5)(C)(ii) flush with left margin.
 
 Subsec. (b)(5)(A)(i). Pub. L. 98–525, §542(a)(1), inserted “or before such other date, not beyond the eighth anniversary of the midshipman's date of rank, that the Secretary of Defense may prescribe”.
 
 Subsec. (b)(5)(C)(ii). Pub. L. 98–525, §542(a)(2), substituted “at least the sixth anniversary and, at the discretion of the Secretary of Defense, up to the eighth anniversary” for “the sixth anniversary”.
 
-1983—Subsec. (b)(5). Pub. L. 98–94, §1003(c)(1), struck out “either” after “he will” in provisions preceding subpar. (A)(i), and added subpar. (C).
+<b>1983</b>—Subsec. (b)(5). Pub. L. 98–94, §1003(c)(1), struck out “either” after “he will” in provisions preceding subpar. (A)(i), and added subpar. (C).
 
 Pub. L. 98–94, §1003(c)(2), inserted in provisions following subpar. (C) “or (5)(C)” after “(5)(B)” and “, except that performance of service under clause (5)(C) shall include not less than two years of active duty”.
 
 Subsec. (c). Pub. L. 98–94, §1003(a)(3), inserted provision relating to a student enrolled in an approved academic program which requires more than four academic years for completion of the baccalaureate degree requirements.
 
-1981—Subsec. (h). Pub. L. 97–60 substituted “8,000” for “6,000” in item covering the Navy program and “9,500” for “6,500” in item covering the Air Force program.
+<b>1981</b>—Subsec. (h). Pub. L. 97–60 substituted “8,000” for “6,000” in item covering the Navy program and “9,500” for “6,500” in item covering the Air Force program.
 
-1980—Subsec. (a). Pub. L. 96–357, §1(a), authorized cadet or midshipmen appointments in the reserve of an armed force for eligible members of the program with active duty service in the armed forces beyond the age limitation equal to period of active duty service not to exceed 29 years of age by June 30 of calendar year of appointment and deleted provision for appointment as cadets or midshipmen from persons in two-year Senior Reserve Officers’ Training Corps course up to 20 percent of number of appointees.
+<b>1980</b>—Subsec. (a). Pub. L. 96–357, §1(a), authorized cadet or midshipmen appointments in the reserve of an armed force for eligible members of the program with active duty service in the armed forces beyond the age limitation equal to period of active duty service not to exceed 29 years of age by June 30 of calendar year of appointment and deleted provision for appointment as cadets or midshipmen from persons in two-year Senior Reserve Officers’ Training Corps course up to 20 percent of number of appointees.
 
 Subsec. (b)(5). Pub. L. 96–357, §1(b)(2), provided for exercise of discretion by the Secretary concerned, incorporated existing provisions in subcl. (A)(i), incorporated in subcl. (A)(ii) provision of former cl. (6), added subcl. (B) and defined the performance of service under such subcl. (B).
 
@@ -156,7 +156,7 @@ Subsec. (h). Pub. L. 96–513, §511(62)(B), substituted “this section” for 
 
 Pub. L. 96–357, §1(b)(3), substituted “Army program: 12,000” for “Army program: 6,500”.
 
-1971—Subsec. (a). Pub. L. 92–166, §1(1), substituted “Not more than 20 percent of the persons appointed as cadets or midshipmen by the Secretary in any year may be appointed from persons in the two-year Senior Reserve Officers’ Training Corps course.”, for “However, a member whose enrollment in the Senior Reserve Officers’ Training Corps program contemplates less than four years of participation in the program may not be appointed a cadet or midshipman under this section, or receive any financial assistance authorized by this section.”.
+<b>1971</b>—Subsec. (a). Pub. L. 92–166, §1(1), substituted “Not more than 20 percent of the persons appointed as cadets or midshipmen by the Secretary in any year may be appointed from persons in the two-year Senior Reserve Officers’ Training Corps course.”, for “However, a member whose enrollment in the Senior Reserve Officers’ Training Corps program contemplates less than four years of participation in the program may not be appointed a cadet or midshipman under this section, or receive any financial assistance authorized by this section.”.
 
 Subsec. (c). Pub. L. 92–166, §1(2), provided that at least 50% of the cadets and midshipmen appointed under this section must qualify for in-State tuition rates at their respective institutions and will receive tuition benefits at the rate.
 
@@ -208,7 +208,7 @@ Review.—The Secretary of the Navy should review the process and criteria used 
 
 Purpose of Review.—The review should seek to determine—
 
-&emsp;“(1) whether the method used by the Navy to allocate NROTC scholarships could be changed so as to increase the likelihood that scholarship awardees attend the school of their choice while maintaining the Navy's capability to attain the objectives of the Naval ROTC program to meet the annual requirement for newly commissioned Navy ensigns and Marine Corps second lieutenants, as well as the overall needs of the officer corps of the Department of the Navy; and
+&emsp;“(1) whether the method used by the Navy to allocate NROTC scholarships could be changed so as to increase the likelihood that scholarship awardees attend the school of their choice while maintaining theNavy's capability to attain the objectives of the Naval ROTC program to meet the annual requirement for newly commissioned Navy ensigns and Marine Corps second lieutenants, as well as the overall needs of the officer corps of the Department of the Navy; and
 
 &emsp;“(2) within the determination under paragraph (1), whether the likelihood of a scholarship awardee who wants to attend a school of choice in the student's State of residence can be increased.
 

@@ -6,11 +6,11 @@ The purpose of this subchapter is to authorize the Secretary to implement a pilo
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 5071 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5071 of this title as this section.
 
 Pub. L. 102–83 substituted “Secretary” for “Administrator” in two places and substituted “Department” for “Veterans’ Administration”.
 
-1976—Pub. L. 94–581 substituted “the Administrator” for “he”.
+<b>1976</b>—Pub. L. 94–581 substituted “the Administrator” for “he”.
 
 #### Effective Date of 1976 Amendment
 

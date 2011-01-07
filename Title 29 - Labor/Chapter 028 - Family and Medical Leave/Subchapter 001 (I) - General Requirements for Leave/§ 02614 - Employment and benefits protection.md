@@ -70,11 +70,11 @@
 
 &emsp;&emsp;An employer may require that a claim that an employee is unable to return to work because of the continuation, recurrence, or onset of the serious health condition described in paragraph (2)(B)(i) be supported by—
 
-&emsp;&emsp;&emsp;(i) a certification issued by the health care provider of the son, daughter, spouse,or parent of the employee, as appropriate, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(1)(C) of this title;
+&emsp;&emsp;&emsp;(i) a certification issued by the health care provider of the son, daughter, spouse, or parent of the employee, as appropriate, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(1)(C) of this title;
 
 &emsp;&emsp;&emsp;(ii) a certification issued by the health care provider of the eligible employee, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(1)(D) of this title; or
 
-&emsp;&emsp;&emsp;(iii) a certification issued by the health care provider of the servicemember being cared for by the employee, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(3) of this title.
+&emsp;&emsp;&emsp;(iii) a certification issued by the health care provider of the servicemember being cared for by the employee, in the case ofan employee unable to return to work because of a condition specified in section 2612(a)(3) of this title.
 
 #### (B) Copy
 
@@ -94,7 +94,7 @@
 
 #### Amendments
 
-2008—Subsec. (c)(2)(B)(i). Pub. L. 110–181, §585(a)(3)(F)(i), inserted “or under section 2612(a)(3) of this title” before semicolon.
+<b>2008</b>—Subsec. (c)(2)(B)(i). Pub. L. 110–181, §585(a)(3)(F)(i), inserted “or under section 2612(a)(3) of this title” before semicolon.
 
 Subsec. (c)(3)(A)(iii). Pub. L. 110–181, §585(a)(3)(F)(ii), added cl. (iii).
 

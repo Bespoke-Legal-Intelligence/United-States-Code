@@ -10,11 +10,11 @@ Provisions similar to this section are contained in section 3032 of this title.
 
 #### Amendments
 
-1955—Act June 21, 1955, credited all service as deck officer and junior engineer.
+<b>1955</b>—Act June 21, 1955, credited all service as deck officer and junior engineer.
 
-1949—Act Oct. 12, 1949, repealed that part of second proviso of subsec. (b) relating to service credit as deck officer or junior engineer for pay, longevity pay, or retirement purposes.
+<b>1949</b>—Act Oct. 12, 1949, repealed that part of second proviso of subsec. (b) relating to service credit as deck officer or junior engineer for pay, longevity pay, or retirement purposes.
 
-1948—Act June 3, 1948, repealed subsecs. (a), (c), (d) and all of subsec. (b) except for second proviso which now comprises this section.
+<b>1948</b>—Act June 3, 1948, repealed subsecs. (a), (c), (d) and all of subsec. (b) except for second proviso which now comprises this section.
 
 #### Effective Date of 1949 Amendment
 

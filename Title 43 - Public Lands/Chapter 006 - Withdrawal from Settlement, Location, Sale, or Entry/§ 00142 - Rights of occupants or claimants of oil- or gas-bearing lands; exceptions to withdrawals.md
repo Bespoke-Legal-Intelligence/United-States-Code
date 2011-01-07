@@ -18,7 +18,7 @@ The provisions of the last proviso of this section were also classified to secti
 
 #### Amendments
 
-1976—Pub. L. 94–579 struck out provisions that all lands withdrawn under the act of June 25, 1910, be open to exploration, occupation, and purchase under the mineral laws of the United States in respect to minerals other than coal, oil, gas, and phosphates and that no national forest be created or additions thereto made to those created before Aug. 24, 1912, in Oregon, Washington, Idaho, Montana, Colorado, or Wyoming, except by Act of Congress.
+<b>1976</b>—Pub. L. 94–579 struck out provisions that all lands withdrawn under the act of June 25, 1910, be open to exploration, occupation, and purchase under the mineral laws of the United States in respect to minerals other than coal, oil, gas, and phosphates and that no national forest be created or additions thereto made to those created before Aug. 24, 1912, in Oregon, Washington, Idaho, Montana, Colorado, or Wyoming, except by Act of Congress.
 
 #### Effective Date of 1976 Amendment
 

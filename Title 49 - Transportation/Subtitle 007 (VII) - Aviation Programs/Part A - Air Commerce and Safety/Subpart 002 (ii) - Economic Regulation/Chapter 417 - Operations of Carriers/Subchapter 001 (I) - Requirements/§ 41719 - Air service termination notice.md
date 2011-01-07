@@ -54,13 +54,13 @@ This amends 49:41715(a) to conform to the style of title 49.
 
 #### Amendments
 
-2003—Subsec. (d). Pub. L. 108–176 redesignated pars. (2) to (5) as (1) to (4), respectively, and struck out former par. (1) which defined “nonhub airport”.
+<b>2003</b>—Subsec. (d). Pub. L. 108–176 redesignated pars. (2) to (5) as (1) to (4), respectively, and struck out former par. (1) which defined “nonhub airport”.
 
-2000—Pub. L. 106–181 renumbered section 41715 of this title as this section.
+<b>2000</b>—Pub. L. 106–181 renumbered section 41715 of this title as this section.
 
-1996—Subsec. (a). Pub. L. 104–287 substituted “Secretary of Transportation's” for “Secretary's”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–287 substituted “Secretary of Transportation's” for “Secretary's”.
 
-1994—Subsec. (d)(1). Pub. L. 103–429 substituted “41731(a)(4)” for “41731(a)(3)”.
+<b>1994</b>—Subsec. (d)(1). Pub. L. 103–429 substituted “41731(a)(4)” for “41731(a)(3)”.
 
 #### Effective Date of 2003 Amendment
 

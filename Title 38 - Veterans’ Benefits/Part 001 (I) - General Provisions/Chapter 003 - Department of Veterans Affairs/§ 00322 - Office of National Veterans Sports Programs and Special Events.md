@@ -52,7 +52,7 @@ Pub. L. 110–389, title VII, §701, Oct. 10, 2008, 122 Stat. 4180, provided tha
 
 Findings.—Congress makes the following findings:
 
-&emsp;“(1) In 1998, Congress enacted the Olympic and Amateur Sports Act Amendments of 1998 (33 \[36\] U.S.C. 101 note) \[see Short Title of 1998 Amendment note set out under section 101 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations\], which amended chapter 2205 of title 36, United States Code, and included a statement that the purpose of the Act was ‘to encourage and provide assistance to amateur athletic programs and competitionfor amateur athletes with disabilities, including, where feasible, the expansion of opportunities for meaningful participation by such amateur athletes in programs of athletic competition for able-bodied amateur athletes’.
+&emsp;“(1) In 1998, Congress enacted the Olympic and Amateur Sports Act Amendments of 1998 (33 \[36\] U.S.C. 101 note) \[see Short Title of 1998 Amendment note set out under section 101 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations\], which amended chapter 2205 of title 36, United States Code, and included a statement that the purpose of the Act was ‘to encourage and provide assistance to amateur athletic programs and competition for amateur athletes with disabilities, including, where feasible, the expansion of opportunities for meaningful participation by such amateur athletes in programs of athletic competition for able-bodied amateur athletes’.
 
 &emsp;“(2) The United States Olympic Committee manages and administers the Paralympic Program for physically disabled athletes.
 

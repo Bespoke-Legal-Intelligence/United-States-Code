@@ -64,9 +64,9 @@ Section is comprised of pars. designated First to Eleventh of section 2 of act M
 
 #### Amendments
 
-1951—Act Jan. 10, 1951, added par. Eleventh.
+<b>1951</b>—Act Jan. 10, 1951, added par. Eleventh.
 
-1934—Act June 21, 1934, substituted “by the carrier or carriers” for “by the carriers” in par. Second, generally amended pars. Third, Fourth, and Fifth, and added pars. Sixth to Tenth.
+<b>1934</b>—Act June 21, 1934, substituted “by the carrier or carriers” for “by the carriers” in par. Second, generally amended pars. Third, Fourth, and Fifth, and added pars. Sixth to Tenth.
 
 #### Change of Name
 

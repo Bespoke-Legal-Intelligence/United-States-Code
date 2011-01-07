@@ -16,13 +16,13 @@ In this subtitle:
 
 &emsp;&emsp;(A) the consumer submits the order for such sale by means of a telephone or other method of voice transmission, the mail, or the Internet or other online service, or the seller is otherwise not in the physical presence of the buyer when the request for purchase or order is made; or
 
-&emsp;&emsp;(B) the cigarettes or smokeless tobacco product is delivered by use of a common carrier, private delivery service, or the mail, or the seller is not in the physical presence of the buyer when the buyer obtains personal possession of the delivered cigarettes or smokeless tobacco product.
+&emsp;&emsp;(B) the cigarettes or smokeless tobacco product is delivered by use of a common carrier, private delivery service, or the mail, or the seller is not in the physical presence ofthe buyer when the buyer obtains personal possession of the delivered cigarettes or smokeless tobacco product.
 
 (June 17, 1930, ch. 497, title VIII, §801, as added Pub. L. 106–476, title IV, §4004(a), Nov. 9, 2000, 114 Stat. 2178; amended Pub. L. 109–432, div. C, title IV, §401(a), Dec. 20, 2006, 120 Stat. 3047.)
 
 #### Amendments
 
-2006—Par. (3). Pub. L. 109–432 added par. (3).
+<b>2006</b>—Par. (3). Pub. L. 109–432 added par. (3).
 
 #### Effective Date of 2006 Amendment
 

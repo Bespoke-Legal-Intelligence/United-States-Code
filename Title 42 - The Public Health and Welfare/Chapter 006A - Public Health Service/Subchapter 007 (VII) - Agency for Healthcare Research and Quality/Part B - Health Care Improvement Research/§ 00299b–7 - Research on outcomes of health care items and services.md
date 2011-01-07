@@ -84,7 +84,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In making use of administrative, clinical, and program data and information developed or collected with respect to the programs established under titles XVIII, XIX, and XXI ofthe Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\], for purposes of carrying out the requirements of this section or the activities authorized under title IX of the Public Health Service Act (42 U.S.C. 299 et seq.), such data and information shall be protected in accordance with the confidentiality requirements of title IX of the Public Health Service Act.
+&emsp;&emsp;In making use of administrative, clinical, and program data and information developed or collected with respect to the programs established under titles XVIII, XIX, and XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\], for purposes of carrying out the requirements of this section or the activities authorized under title IX of the Public Health Service Act (42 U.S.C. 299 et seq.), such data and information shall be protected in accordance with the confidentiality requirements of title IX of the Public Health Service Act.
 
 #### (B) Rule of construction
 
@@ -92,7 +92,7 @@
 
 #### (5) Evaluations
 
-&emsp;The Secretary shall conduct and support evaluations of the activities carried out under this section to determine the extent to which such activities have had an effect on outcomes and utilization of health care items and services.
+&emsp;The Secretary shall conduct and support evaluations of the activities carried out under this section to determine the extent to which such activities have had an effect on outcomesand utilization of health care items and services.
 
 #### (6) Improving information available to health care providers, patients, and policymakers
 

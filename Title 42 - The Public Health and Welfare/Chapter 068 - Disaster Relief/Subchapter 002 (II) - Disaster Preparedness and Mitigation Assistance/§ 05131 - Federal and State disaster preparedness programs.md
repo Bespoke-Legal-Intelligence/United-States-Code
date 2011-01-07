@@ -28,7 +28,7 @@ Upon application by a State, the President is authorized to make grants, not to 
 
 &emsp;(1) set forth a comprehensive and detailed State program for preparation against and assistance following, emergencies and major disasters, including provisions for assistance to individuals, businesses, and local governments; and
 
-&emsp;(2) include provisions for appointment and training of appropriate staffs, formulation ofnecessary regulations and procedures and conduct of required exercises.
+&emsp;(2) include provisions for appointment and training of appropriate staffs, formulation of necessary regulations and procedures and conduct of required exercises.
 
 #### (d) Grants for improvement, maintenance, and updating of State plans
 
@@ -38,7 +38,7 @@ The President is authorized to make grants not to exceed 50 per centum of the co
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–707, §104(b)(1), struck out “(including the Defense Civil Preparedness Agency)” after “agencies”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–707, §104(b)(1), struck out “(including the Defense Civil Preparedness Agency)” after “agencies”.
 
 Subsec. (d). Pub. L. 100–707, §104(a), (b)(2), inserted “including evaluations of natural hazards and development of the programs and actions required to mitigate such hazards;” after “plans,” and substituted “$50,000” for “$25,000”.
 

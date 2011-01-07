@@ -38,7 +38,7 @@
 
 #### (B) Treatment when annuitant returns to service
 
-&emsp;&emsp;If an annuitant whose annuity is reduced under subparagraph (A) is recalled to service under section 2111 of this title, or reinstated or reappointed, in the case of a recovered disability annuitant, or if any annuitant is reemployed as provided for under sections 2112 and 2113 of this title, the pay of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the fund.
+&emsp;&emsp;If an annuitant whose annuity is reduced under subparagraph (A) is recalled to service under section 2111 of this title, or reinstated or reappointed, in the case of a recovereddisability annuitant, or if any annuitant is reemployed as provided for under sections 2112 and 2113 of this title, the pay of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the fund.
 
 #### (6) Disability annuitant
 
@@ -78,7 +78,7 @@
 
 #### (A) Maximum amount
 
-&emsp;&emsp;The maximum survivor annuity or combination of survivor annuities under this subsection (and section 2031(b)(3) of this title)with respect to any participant may not exceed 55 percent of the full amount of the participant's annuity, as calculated under section 2031(a) of this title.
+&emsp;&emsp;The maximum survivor annuity or combination of survivor annuities under this subsection (and section 2031(b)(3) of this title) with respect to any participant may not exceed 55 percent of the full amount of the participant's annuity, as calculated under section 2031(a) of this title.
 
 #### (B) Limitation on other survivor annuities based on service of same participant
 
@@ -96,7 +96,7 @@
 
 #### (B) Election of spouse annuity
 
-&emsp;&emsp;Subject to paragraph (4)(B), the participant may elect in writing within one year after receipt of notice of the death or remarriage of the former spouse to continue the reduction in order to provide a higher survivor annuity under section 2031(b)(3) of this title for any spouse of the participant.
+&emsp;&emsp;Subject to paragraph (4)(B), the participant may elect in writing within one yearafter receipt of notice of the death or remarriage of the former spouse to continue the reduction in order to provide a higher survivor annuity under section 2031(b)(3) of this title for any spouse of the participant.
 
 #### (c) Optional additional survivor annuities for other former spouse or surviving spouse
 
@@ -158,7 +158,7 @@ A prior section 222 of Pub. L. 88–643, as added Pub. L. 97–269, title VI, §
 
 #### Amendments
 
-1993—Subsec. (a)(7). Pub. L. 103–178, §202(a)(5)(A), substituted “any survivor annuity” for “any other annuity”.
+<b>1993</b>—Subsec. (a)(7). Pub. L. 103–178, §202(a)(5)(A), substituted “any survivor annuity” for “any other annuity”.
 
 Subsec. (c)(3)(C). Pub. L. 103–178, §202(a)(5)(B), inserted “the participant” before “or does not qualify”.
 
@@ -182,7 +182,7 @@ In general.—
 
 &emsp;&emsp;“(A)
 
-Entitlement of former wife or husband.—Any person who was divorced on or before December 4, 1991, from a participant or retired participant in the Central Intelligence Agency Retirement and Disability System and who was married to such participant for not less than 10 years during such participant's creditable service, at least five years of which were spent by the participant during the participant's service as an employee of the Central Intelligence Agency outside the United States, or otherwise in a position the duties of which qualified the participant for designation by the Director of Central Intelligence as a participant under section 203 of the Central Intelligence Agency Retirement Act (50 U.S.C. 2013), shall be entitled, except to the extent such person is disqualified under paragraph (2), to a survivor annuity equal to 55 percent of the greater of—
+Entitlement of former wife or husband.—Any person who was divorced on or before December 4, 1991, from a participant or retired participantin the Central Intelligence Agency Retirement and Disability System and who was married to such participant for not less than 10 years during such participant's creditable service, at least five years of which were spent by the participant during the participant's service as an employee of the Central Intelligence Agency outside the United States, or otherwise in a position the duties of which qualified the participant for designation by the Director of Central Intelligence as a participant under section 203 of the Central Intelligence Agency Retirement Act (50 U.S.C. 2013), shall be entitled, except to the extent such person is disqualified under paragraph (2), to a survivor annuity equal to 55 percent of the greater of—
 
 &emsp;&emsp;&emsp;“(i) the unreduced amount of the participant's annuity, as computed under section 221(a) of such Act \[50 U.S.C. 2031(a)\]; or
 
@@ -254,7 +254,7 @@ Applicability in cases of participants transferred to fers.—
 
 &emsp;&emsp;“(A)
 
-Entitlement.—Except as provided in paragraph (2), this subsection shall apply to a formerwife or husband of a participant under the Central Intelligence Agency Retirement and Disability System who has elected to become subject to chapter 84 of title 5, United States Code.
+Entitlement.—Except as provided in paragraph (2), this subsection shall apply to a former wife or husband of a participant under the Central Intelligence Agency Retirement and Disability System who has elected to become subject to chapter 84 of title 5, United States Code.
 
 &emsp;&emsp;“(B)
 
@@ -294,7 +294,7 @@ Apportionment.—The term ‘apportionment’ means a portion of a retired parti
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II)
 
-Court order.—The term ‘court order’ means any decree of divorce or annulment or any court order or court-approved property settlement agreement incident to such decree.
+Court order.—The term ‘court order’ means any decree of divorce or annulment orany court order or court-approved property settlement agreement incident to such decree.
 
 &emsp;“(2)
 

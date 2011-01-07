@@ -4,21 +4,21 @@
 
 &emsp;(A) of all copies or phonorecords claimed to have been made or used in violation of the exclusive right of the copyright owner;
 
-&emsp;(B) of all plates, molds, matrices, masters, tapes, film negatives, or other articles by means of which such copies of phonorecords may be reproduced; and
+&emsp;(B) of all plates, molds, matrices, masters, tapes, film negatives, or other articles by means of which such copies or phonorecords may be reproduced; and
 
 &emsp;(C) of records documenting the manufacture, sale, or receipt of things involved in any such violation, provided that any records seized under this subparagraph shall be taken into the custody of the court.
 
 (2) For impoundments of records ordered under paragraph (1)(C), the court shall enter an appropriate protective order with respect to discovery and use of any records or information that has been impounded. The protective order shall provide for appropriate procedures to ensure that confidential, private, proprietary, or privileged information contained in such records is not improperly disclosed or used.
 
-(3) The relevant provisions of paragraphs (2) through (11) of section 34(d) of the Trademark Act (15 U.S.C. 1116(d)(2) through (11)) shall extend to any impoundment of records ordered under paragraph (1)(C) that is based upon an ex parte application, notwithstanding the provisions of rule 65 of the Federal Rules of Civil Procedure. Any references in paragraphs (2) through (11) of section 34(d) of the Trademark Act to section 32 of such Act shall be read as references to section 501 of this title, and references to use of a counterfeit mark in connection with the sale, offering for sale, or distribution of goods or services shall be read as references to infringement of a copyright.
+(3) The relevant provisions of paragraphs (2) through (11) of section 34(d) of the Trademark Act (15 U.S.C. 1116(d)(2) through (11)) shall extend to any impoundment of records ordered under paragraph (1)(C) that is based upon an ex parte application, notwithstanding the provisions of rule 65 of the Federal Rules of Civil Procedure. Any references in paragraphs (2) through (11) of section 34(d) of the Trademark Act to section 32 of such Act shall be read as references to section 501 of this title, and references to use ofa counterfeit mark in connection with the sale, offering for sale, or distribution of goods or services shall be read as references to infringement of a copyright.
 
 (b) As part of a final judgment or decree, the court may order the destruction or other reasonable disposition of all copies or phonorecords found to have been made or used in violation of the copyright owner's exclusive rights, and of all plates, molds, matrices, masters, tapes, film negatives, or other articles by means of which such copies or phonorecords may be reproduced.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2585; Pub. L. 110–403, title I, §102(a), Oct. 13, 2008, 122 Stat. 4258.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2585; Pub. L. 110–403, title I, §102(a), Oct. 13, 2008, 122 Stat. 4258; Pub. L. 111–295, §6(d), Dec. 9, 2010, 124 Stat. 3181.)
 
 #### Historical and Revision Notes
 
-I74house report no. 94–1476
+#### house report no. 94–1476
 
 The two subsections of section 503 deal respectively with the courts’ power to impound allegedly infringing articles during the time an action is pending, and to order the destruction or other disposition of articles found to be infringing. In both cases the articles affected include “all copies or phonorecords” which are claimed or found “to have been made or used in violation of the copyright owner's exclusive rights,” and also “all plates, molds, matrices, masters, tapes, film negatives, or other articles by means of which such copies of phonorecords may be reproduced.” The alternative phrase “made or used” in both subsections enables a court to deal as it sees fit with articles which, though reproduced and acquired lawfully, have been used for infringing purposes such as rentals, performances, and displays.
 
@@ -34,5 +34,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a)(3), are set out
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–403 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “At any time while an action under this title is pending, the court may order the impounding, on such terms as it may deem reasonable, of all copies or phonorecords claimed to have been made or used in violation of the copyright owner's exclusive rights, and of all plates, molds, matrices, masters, tapes, film negatives, or other articles by means of which such copies or phonorecords may be reproduced.”
+<b>2010</b>—Subsec. (a)(1)(B). Pub. L. 111–295 substituted “copies or phonorecords” for “copies of phonorecords”.
+
+<b>2008</b>—Subsec. (a). Pub. L. 110–403 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “At any time while an action under this title is pending, the court may order the impounding, on such terms as it may deem reasonable, of all copies or phonorecords claimed to have been made or used in violation of the copyright owner's exclusive rights, and of all plates, molds, matrices, masters, tapes, film negatives, or other articles by means of which such copies or phonorecords may be reproduced.”
 

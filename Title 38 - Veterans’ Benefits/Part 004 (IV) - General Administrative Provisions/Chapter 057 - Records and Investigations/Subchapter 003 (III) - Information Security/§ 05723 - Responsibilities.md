@@ -32,7 +32,7 @@ Secretary of Veterans Affairs.—In accordance with the provisions of subchapter
 
 Assistant Secretary for Information and Technology.—The Assistant Secretary for Information and Technology, as the Chief Information Officer of the Department, is responsible for the following:
 
-&emsp;(1) Establishing, maintaining, and monitoring Department-wide information security policies, procedures, control techniques, training, and inspection requirements as elements of the Department information security program.
+&emsp;(1) Establishing, maintaining, and monitoring Department-wide information security policies, procedures, control techniques, training, and inspection requirements as elementsof the Department information security program.
 
 &emsp;(2) Issuing policies and handbooks to provide direction for implementing the elements of the information security program to all Department organizations.
 
@@ -104,7 +104,7 @@ Other Key Officials.—In accordance with the provisions of subchapter III of ch
 
 &emsp;&emsp;&emsp;(iii) implement the provisions of a bulletin or alert of the Security Operations Center; and
 
-&emsp;&emsp;(B) organizational managers have all necessary authority and means to direct fullcompliance with such orders from the Assistant Secretary.
+&emsp;&emsp;(B) organizational managers have all necessary authority and means to direct full compliance with such orders from the Assistant Secretary.
 
 &emsp;(6) Ensuring the VA National Rules of Behavior is signed and enforced by all system users to ensure appropriate use and protection of the information which is used to support Department missions and functions on an annual basis.
 
@@ -128,11 +128,13 @@ Inspector General of Department of Veterans Affairs.—In accordance with the pr
 
 &emsp;(1) Conducting an annual audit of the Department information security program.
 
-&emsp;(2) Submitting an independent annual report to the Office of Management and Budget on the status of <sup>1</sup> Department information security program, based on the results of the annual audit.
+&emsp;(2) Submitting an independent annual report to the Office of Management and Budget on the status of the Department information security program, based on the results of the annual audit.
 
 &emsp;(3) Conducting investigations of complaints and referrals of violations as considered appropriate by the Inspector General.
 
-(Added Pub. L. 109–461, title IX, §902(a), Dec. 22, 2006, 120 Stat. 3451.)
+(Added Pub. L. 109–461, title IX, §902(a), Dec. 22, 2006, 120 Stat. 3451; amended Pub. L. 111–275, title X, §1001(m)(1), Oct. 13, 2010, 124 Stat. 2897.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “the”.</i>
+#### Amendments
+
+<b>2010</b>—Subsec. (g)(2). Pub. L. 111–275 inserted “the” before “Department”.
 

@@ -22,7 +22,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;(9) The term “write” or “written” shall include printed, lithographed, or any means of graphic communication.
 
-&emsp;(10) The term “prospectus” means any prospectus, notice, circular, advertisement, letter, or communication, written or by radio or television, which offers any security for sale or confirms the sale of any security; except that (a) a communication sent or given after the effective date of the registration statement (other than a prospectus permitted under subsection (b) of section 77j of this title) shall not be deemed a prospectus if it is proved that prior to or at the same time with such communication a written prospectus meeting the requirements of subsection (a) of section 77j of this title at the time of <sup>1</sup> such communication was sent or given to the person to whom the communication was made, and (b) a notice, circular, advertisement, letter, or communication in respect of a security shall not be deemed to be a prospectus if it states from whom a written prospectus meeting the requirements of section 77j of this title may be obtained and, in addition, does no more than identify the security, state the price thereof, state by whom orders will be executed, and contain such other information as the Commission, by rules or regulations deemed necessary or appropriate in the public interest and for the protection of investors, and subject to such terms and conditions as may be prescribed therein, may permit.
+&emsp;(10) The term “prospectus” means any prospectus, notice, circular, advertisement, letter, or communication, written or by radio or television, which offers any security for sale or confirms the sale of any security; except that (a) a communication sent or given after the effective date of the registration statement (other than a prospectus permitted under subsection (b) of section 77j of this title) shall not be deemed a prospectus if it is proved that prior to or at the same time with suchcommunication a written prospectus meeting the requirements of subsection (a) of section 77j of this title at the time of <sup>1</sup> such communication was sent or given to the person to whom the communication was made, and (b) a notice, circular, advertisement, letter, or communication in respect of a security shall not be deemed to be a prospectus if it states from whom a written prospectus meeting the requirements of section 77j of this title may be obtained and, in addition, does no more than identify the security, state the price thereof, state by whom orders will be executed, and contain such other information as the Commission, by rules or regulations deemed necessary or appropriate in the public interest and for the protection of investors, and subject to such terms and conditions as may be prescribed therein, may permit.
 
 &emsp;(11) The term “underwriter” means any person who has purchased from an issuer with a view to, or offers or sells for an issuer in connection with, the distribution of any security, or participates or has a direct or indirect participation in any such undertaking, or participates or has a participation in the direct or indirect underwriting of any such undertaking; but such term shall not include a person whose interest is limited to a commission from an underwriter or dealer not in excess of the usual and customary distributors’ or sellers’ commission. As used in this paragraph the term “issuer” shall include, in addition to an issuer, any person directly or indirectly controlling or controlled by the issuer, or any person under direct or indirect common control with the issuer.
 
@@ -34,7 +34,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;(15) The term “accredited investor” shall mean—
 
-&emsp;&emsp;(i) a bank as defined in section 77c(a)(2) of this title whether acting in its individual orfiduciary capacity; an insurance company as defined in paragraph (13) of this subsection; an investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] or a business development company as defined in section 2(a)(48) of that Act \[15 U.S.C. 80a–2(a)(48)\]; a Small Business Investment Company licensed by the Small Business Administration; or an employee benefit plan, including an individual retirement account, which is subject to the provisions of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\], if the investment decision is made by a plan fiduciary, as defined in section 3(21) of such Act \[29 U.S.C. 1002(21)\], which is either a bank, insurance company, or registered investment adviser; or
+&emsp;&emsp;(i) a bank as defined in section 77c(a)(2) of this title whether acting in its individual or fiduciary capacity; an insurance company as defined in paragraph (13) of this subsection; an investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] or a business development company as defined in section 2(a)(48) of that Act \[15 U.S.C. 80a–2(a)(48)\]; a Small Business Investment Company licensed by the Small Business Administration; or an employee benefit plan, including an individual retirement account, which is subject to the provisions of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\], if the investment decision is made by a plan fiduciary, as defined in section 3(21) of such Act \[29 U.S.C. 1002(21)\], which is either a bank, insurance company, or registered investment adviser; or
 
 &emsp;&emsp;(ii) any person who, on the basis of such factors as financial sophistication, net worth, knowledge, and experience in financial matters, or amount of assets under management qualifies as an accredited investor under rules and regulations which the Commission shall prescribe.
 
@@ -44,7 +44,21 @@ When used in this subchapter, unless the context otherwise requires—
 
 Whenever pursuant to this subchapter the Commission is engaged in rulemaking and is required to consider or determine whether an action is necessary or appropriate in the public interest, the Commission shall also consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation.
 
-(May 27, 1933, ch. 38, title I, §2, 48 Stat. 74; June 6, 1934, ch. 404, title II, §201, 48 Stat. 905; Aug. 10, 1954, ch. 667, title I, §§1–4, 68 Stat. 683, 684; Pub. L. 86–70, §12(a), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §7(a), July 12, 1960, 74 Stat. 412; Pub. L. 91–547, §27(a), Dec. 14, 1970, 84 Stat. 1433; Pub. L. 96–477, title VI, §603, Oct. 21, 1980, 94 Stat. 2294; Pub. L. 97–303, §1, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 100–181, title II, §§201, 202, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 104–290, title I, §106(a), Oct. 11, 1996, 110 Stat. 3424; Pub. L. 105–353, title III, §301(a)(1), Nov. 3, 1998, 112 Stat. 3235; Pub. L. 106–554, §1(a)(5) \[title II, §208(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–434.)
+(May 27, 1933, ch. 38, title I, §2, 48 Stat. 74; June 6, 1934, ch. 404, title II, §201, 48 Stat. 905; Aug. 10, 1954, ch. 667, title I, §§1–4, 68 Stat. 683, 684; Pub. L. 86–70, §12(a), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §7(a), July 12, 1960, 74 Stat. 412; Pub. L. 91–547, §27(a), Dec. 14, 1970, 84 Stat. 1433; Pub. L. 96–477, title VI, §603, Oct. 21, 1980, 94 Stat. 2294; Pub. L. 97–303, §1, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 100–181, title II, §§201, 202, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 104–290, title I, §106(a), Oct. 11, 1996, 110 Stat. 3424; Pub. L. 105–353, title III, §301(a)(1), Nov. 3, 1998, 112 Stat. 3235; Pub. L. 106–554, §1(a)(5) \[title II, §208(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–434; Pub. L. 111–203, title VII, §768(a), July 21, 2010, 124 Stat. 1800.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 111–203, title VII, §§768(a), 774, July 21, 2010, 124 Stat. 1800, 1802, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, subsection (a) of this section is amended as follows:</i>
+
+<i>(1) in paragraph (1), by inserting “security-based swap,” after “security future,”;</i>
+
+<i>(2) in paragraph (3), by adding at the end the following: “Any offer or sale of a security-based</i><i>swap by or on behalf of the issuer of the securities upon which such security-based swap is based or is referenced, an affiliate of the issuer, or an underwriter, shall constitute a contract for sale of, sale of, offer for sale, or offer to sell such securities.”; and</i>
+
+<i>(3) by adding at the end the following:</i>
+
+&emsp;<i>(17) The terms “swap” and “security-based swap” have the same meanings as in section 1a of title 7.</i>
+
+&emsp;<i>(18) The terms “purchase” or “sale” of a security-based swap shall be deemed to mean the execution, termination (prior to its scheduled maturity date), assignment, exchange, or similar transfer or conveyance of, or extinguishing of rights or obligations under, a security-based swap, as the context may require.</i>
 
 #### References in Text
 
@@ -58,33 +72,37 @@ Words “Philippine Islands” deleted from definition of term “Territory” u
 
 #### Amendments
 
-2000—Subsec. (a)(1). Pub. L. 106–554, §1(a)(5) \[title II, §208(a)(1)(A)\], inserted “security future,” after “treasury stock,”.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–554, §1(a)(5) \[title II, §208(a)(1)(A)\], inserted “security future,” after “treasury stock,”.
 
 Subsec. (a)(3). Pub. L. 106–554, §1(a)(5) \[title II, §208(a)(1)(B)\], inserted at end “Any offer or sale of a security futures product by or on behalf of the issuer of the securities underlying the security futures product, an affiliate of the issuer, or an underwriter, shall constitute a contract for sale of, sale of, offer for sale, or offer to sell the underlying securities.”
 
 Subsec. (a)(16). Pub. L. 106–554, §1(a)(5) \[title II, §208(a)(1)(C)\], added par. (16).
 
-1998—Subsec. (a)(15)(i). Pub. L. 105–353 made technical amendment to reference in original act which appears in text as reference to section 77c(a)(2) of this title and inserted “of this subsection” after “paragraph (13)”.
+<b>1998</b>—Subsec. (a)(15)(i). Pub. L. 105–353 made technical amendment to reference in original act which appears in text as reference to section 77c(a)(2) of this title and inserted “of this subsection” after “paragraph (13)”.
 
-1996—Pub. L. 104–290 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>1996</b>—Pub. L. 104–290 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-1987—Par. (5). Pub. L. 100–181, §201, substituted “Securities and Exchange Commission” for “Federal Trade Commission”.
+<b>1987</b>—Par. (5). Pub. L. 100–181, §201, substituted “Securities and Exchange Commission” for “Federal Trade Commission”.
 
 Par. (6). Pub. L. 100–181, §202, struck out reference to Canal Zone.
 
-1982—Par. (1). Pub. L. 97–303 inserted “any put, call, straddle, option, or privilege on any security, certificate of deposit, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency,” after “mineral rights,”.
+<b>1982</b>—Par. (1). Pub. L. 97–303 inserted “any put, call, straddle, option, or privilege on any security, certificate of deposit, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency,” after “mineral rights,”.
 
-1980—Par. (15). Pub. L. 96–477 added par. (15).
+<b>1980</b>—Par. (15). Pub. L. 96–477 added par. (15).
 
-1970—Pars. (13), (14). Pub. L. 91–547 added pars. (13) and (14).
+<b>1970</b>—Pars. (13), (14). Pub. L. 91–547 added pars. (13) and (14).
 
-1960—Par. (6). Pub. L. 86–624 struck out reference to Hawaii.
+<b>1960</b>—Par. (6). Pub. L. 86–624 struck out reference to Hawaii.
 
-1959—Par. (6). Pub. L. 86–70 struck out reference to Alaska.
+<b>1959</b>—Par. (6). Pub. L. 86–70 struck out reference to Alaska.
 
-1954—Act Aug. 10, 1954, in pars. (3), (8), (10), and (11), redefined term “sale” so as to distinguish between “offers” and “sales”, clarified definition of “registration statement”, and conformed definition of “prospectus” to changes made by act Aug. 10, 1954, to sections 77e and 77j of this title.
+<b>1954</b>—Act Aug. 10, 1954, in pars. (3), (8), (10), and (11), redefined term “sale” so as to distinguish between “offers” and “sales”, clarified definition of “registration statement”, and conformed definition of “prospectus” to changes made by act Aug. 10, 1954, to sections 77e and 77j of this title.
 
-1934—Act June 6, 1934, amended pars. (1), (4), and (10).
+<b>1934</b>—Act June 6, 1934, amended pars. (1), (4), and (10).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–203, title VII, §774, July 21, 2010, 124 Stat. 1802, provided that: “Unless otherwise provided, the provisions of this subtitle \[subtitle B (§§761–774) of title VII of Pub. L. 111–203, enacting subchapter II (§8341 et seq.) of chapter 109 and sections 78c–3 to 78c–5, 78j–2, 78m–1, and 78<i>o</i>–10 of this title, amending this section and sections 77b–1, 77e, 77q, 78c, 78c–1, 78f, 78i, 78j, 78m, 78<i>o</i>, 78p, 78q–1, 78t, 78u–1, 78u–2, 78bb, 78dd, 78mm, 80a–2, and 80b–2 of this title, and amending provisions set out as a note under section 78c of this title\] shall take effect on the later of 360 days after the date of the enactment of this subtitle \[July 21, 2010\] or, to the extent a provision of this subtitle requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of this subtitle.”
 
 #### Effective Date of 1970 Amendment
 
@@ -97,6 +115,42 @@ Section 501 of act Aug. 10, 1954, provided that: “This Act \[amending this sec
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+
+#### Adjusting the Accredited Investor Standard
+
+Pub. L. 111–203, title IV, §413, July 21, 2010, 124 Stat. 1577, provided that:
+
+“(a)
+
+In General.—The \[Securities and Exchange\] Commission shall adjust any net worth standard for an accredited investor, as set forth in the rules of the Commission under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], so that the individual net worth of any natural person, or joint net worth with the spouse of that person, at the time of purchase, is more than $1,000,000 (as such amount is adjusted periodically by rule of the Commission), excluding the value of the primary residence of such natural person, except that during the 4-year period that begins on the date of enactment of this Act \[July 21, 2010\], any net worth standard shall be $1,000,000, excluding the value of the primary residence of such natural person.
+
+“(b)
+
+Review and Adjustment.—
+
+&emsp;“(1)
+
+Initial review and adjustment.—
+
+&emsp;&emsp;“(A)
+
+Initial review.—The Commission may undertake a review of the definition of the term ‘accredited investor’, as such term applies to natural persons, to determine whether the requirements of the definition, excluding the requirement relating to the net worth standard described in subsection (a), should be adjusted or modified for the protection of investors, in the public interest, and in light of the economy.
+
+&emsp;&emsp;“(B)
+
+Adjustment or modification.—Upon completion of a review under subparagraph (A), the Commission may, by notice and comment rulemaking, make such adjustments to the definition ofthe term ‘accredited investor’, excluding adjusting or modifying the requirement relating to the net worth standard described in subsection (a), as such term applies to natural persons, as the Commission may deem appropriate for the protection of investors, in the public interest, and in light of the economy.
+
+&emsp;“(2)
+
+Subsequent reviews and adjustment.—
+
+&emsp;&emsp;“(A)
+
+Subsequent reviews.—Not earlier than 4 years after the date of enactment of this Act \[July 21, 2010\], and not less frequently than once every 4 years thereafter, the Commission shall undertake a review of the definition, in its entirety, of the term ‘accredited investor’, as defined in section 230.215 of title 17, Code of Federal Regulations, or any successor thereto, as such term applies to natural persons, to determine whether the requirements of the definition should be adjusted or modified for the protection of investors, in the public interest, and in light of the economy.
+
+&emsp;&emsp;“(B)
+
+Adjustment or modification.—Upon completion of a review under subparagraph (A), the Commission may, by notice and comment rulemaking, make such adjustments to the definition of the term ‘accredited investor’, as defined in section 230.215 of title 17, Code of Federal Regulations, or any successor thereto, as such term applies to natural persons, as the Commission may deem appropriate for the protection of investors, in the public interest, and in light of the economy.”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

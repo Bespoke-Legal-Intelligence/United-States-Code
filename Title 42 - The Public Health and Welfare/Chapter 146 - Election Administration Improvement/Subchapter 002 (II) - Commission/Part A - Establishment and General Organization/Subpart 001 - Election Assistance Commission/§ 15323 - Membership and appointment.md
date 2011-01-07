@@ -40,7 +40,7 @@
 
 #### (B) Expired terms
 
-&emsp;&emsp;A member of the Commission shall serve on the Commission after the expiration ofthe member's term until the successor of such member has taken office as a member of the Commission.
+&emsp;&emsp;A member of the Commission shall serve on the Commission after the expiration of the member's term until the successor of such member has taken office as a member of the Commission.
 
 #### (C) Unexpired terms
 

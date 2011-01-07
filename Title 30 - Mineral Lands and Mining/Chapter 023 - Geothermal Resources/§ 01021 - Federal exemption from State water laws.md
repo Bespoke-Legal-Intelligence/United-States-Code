@@ -6,5 +6,5 @@ Nothing in this chapter shall constitute an express or implied claim or denial o
 
 #### Amendments
 
-2005—Pub. L. 109–58 inserted section catchline.
+<b>2005</b>—Pub. L. 109–58 inserted section catchline.
 

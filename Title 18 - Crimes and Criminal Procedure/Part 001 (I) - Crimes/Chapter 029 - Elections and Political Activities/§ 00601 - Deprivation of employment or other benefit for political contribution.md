@@ -30,7 +30,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in concluding provisions.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in concluding provisions.
 
-1976—Pub. L. 94–453 struck out provisions relating to deprivations based upon race, creed, and color which are now set out in section 246 of this title, replaced term “political activity” with more precise terms and definitions, and raised the amount of maximum fine from $1,000 to $10,000.
+<b>1976</b>—Pub. L. 94–453 struck out provisions relating to deprivations based upon race, creed, and color which are now set out in section 246 of this title, replaced term “political activity” with more precise terms and definitions, and raised the amount of maximum fine from $1,000 to $10,000.
 

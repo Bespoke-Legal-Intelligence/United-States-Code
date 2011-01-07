@@ -40,7 +40,7 @@ The Secretary is authorized to obtain and administer, according to the provision
 
 &emsp;(A) to clear title if necessary for any transfer to the Secretary under this subsection; or
 
-&emsp;(B) to purchase fee title or such lesser interest as may be sufficient to prevent significant damage to the scenic, soil, or water resourcesof the lakeshore. Action under this subparagraph shall be used only after attempts to negotiate a solution to the problem have failed. If the Secretary determines that such attempts have failed, the Secretary shall notify in writing the owner of the property involved of the proposed action to be taken under this subparagraph and the Secretary shall seek an injunction to prevent such resource damage. The Secretary may at any time, and if an injunction is granted under this subparagraph the Secretary shall within 30 days after the date of such injunction, send in writing to the owner of the property the Secretary's best and final offer for the purchase of such property. If the owner does not accept such offer, the Secretary may file for condemnation. The Secretary must notify the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives of any action taken under this subparagraph.
+&emsp;(B) to purchase fee title or such lesser interest as may be sufficient to prevent significant damage to the scenic, soil, or water resources of the lakeshore. Action under this subparagraph shall be used only after attempts to negotiate a solution to the problem have failed. If the Secretary determines that such attempts have failed, the Secretary shall notify in writing the owner of the property involved of the proposed action to be taken under this subparagraph and the Secretary shall seek an injunction to prevent such resource damage. The Secretary may at any time, and if an injunction is granted under this subparagraph the Secretary shall within 30 days after the date of such injunction, send in writing to the owner of the property the Secretary's best and final offer for the purchase of such property. If the owner does not accept such offer, the Secretary may file for condemnation. The Secretary must notify the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives of any action taken under this subparagraph.
 
 #### (f) Zoning restrictions for protection of scenic resources
 
@@ -64,7 +64,7 @@ Section 17 of this Act, referred to in subsec. (b), probably means proposed sect
 
 #### Amendments
 
-1994—Subsec. (e)(4)(B). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Subsec. (e)(4)(B). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
-1982—Pub. L. 97–361 designated existing provisions as subsec. (a), inserted “Benzie County and within” after “generally lying within”, and added subsecs. (b) to (h).
+<b>1982</b>—Pub. L. 97–361 designated existing provisions as subsec. (a), inserted “Benzie County and within” after “generally lying within”, and added subsecs. (b) to (h).
 

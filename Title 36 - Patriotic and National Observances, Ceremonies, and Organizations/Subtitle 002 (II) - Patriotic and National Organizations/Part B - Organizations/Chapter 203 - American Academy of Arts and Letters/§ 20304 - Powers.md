@@ -24,7 +24,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-20304D36:4203 (words after 1st comma).DApr. 17, 1916, ch. 77, §§3 (words after 1st comma), 5, 39 Stat. 51, 52.
+20304
+
+36:4203 (words after 1st comma).
+
+Apr. 17, 1916, ch. 77, §§3 (words after 1st comma), 5, 39 Stat. 51, 52.
 
 &nbsp;
 

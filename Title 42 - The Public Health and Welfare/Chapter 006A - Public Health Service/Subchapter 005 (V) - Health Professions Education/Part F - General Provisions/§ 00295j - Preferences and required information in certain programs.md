@@ -6,9 +6,11 @@
 
 &emsp;Subject to paragraph (2), in making awards of grants or contracts under any of sections 293k and 294 of this title, the Secretary shall give preference to any qualified applicant that—
 
-&emsp;&emsp;(A) has a high rate for placing graduates in practice settings having the principal focus of serving residents of medically underserved communities; or
+&emsp;&emsp;(A) has a high rate for placing graduates in practice settings having the principal focus of serving residents of medically underserved communities;
 
-&emsp;&emsp;(B) during the 2-year period preceding the fiscal year for which such an award is sought, has achieved a significant increase in the rate of placing graduates in such settings.
+&emsp;&emsp;(B) during the 2-year period preceding the fiscal year for which such an award is sought, has achieved a significant increase in the rate of placing graduates in such settings; or
+
+&emsp;&emsp;(C) utilizes a longitudinal evaluation (as described in section 294n(d)(2) of this title) and reports data from such system to the national workforce database (as established under section 294n(b)(2)(E) of this title).
 
 #### (2) Limitation regarding peer review
 
@@ -46,7 +48,7 @@ For purposes of this section, the term “graduate” means, unless otherwise sp
 
 &emsp;&emsp;(G) The program provides a placement mechanism for deploying graduates to medically underserved communities.
 
-(July 1, 1944, ch. 373, title VII, §791, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2058; amended Pub. L. 102–531, title III, §313(a)(5), Oct. 27, 1992, 106 Stat. 3507; Pub. L. 105–392, title I, §§106(a)(2)(B), 107, Nov. 13, 1998, 112 Stat. 3557, 3560.)
+(July 1, 1944, ch. 373, title VII, §791, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2058; amended Pub. L. 102–531, title III, §313(a)(5), Oct. 27, 1992, 106 Stat. 3507; Pub. L. 105–392, title I, §§106(a)(2)(B), 107, Nov. 13, 1998, 112 Stat. 3557, 3560; Pub. L. 111–148, title V, §5103(c), Mar. 23, 2010, 124 Stat. 605.)
 
 #### Prior Provisions
 
@@ -58,7 +60,9 @@ A prior section 791 of act July 1, 1944, was classified to section 295h of this 
 
 #### Amendments
 
-1998—Subsec. (a)(1). Pub. L. 105–392, §107(b)(1), substituted “sections 293k and 294 of this title” for “sections 293k through 293<i>o</i> of this title, under section 294b of this title, or under section 294d or 294e of this title” in introductory provisions.
+<b>2010</b>—Subsec. (a)(1)(C). Pub. L. 111–148 added subpar. (C).
+
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–392, §107(b)(1), substituted “sections 293k and 294 of this title” for “sections 293k through 293<i>o</i> of this title, under section 294b of this title, or under section 294d or 294e of this title” in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 105–392, §107(b)(2), struck out “under section 295<i>o</i>(a) of this title” before period at end.
 
@@ -66,7 +70,7 @@ Subsec. (b). Pub. L. 105–392, §106(a)(2)(B), redesignated subsec. (c) as (b) 
 
 Subsec. (c). Pub. L. 105–392, §§106(a)(2)(B)(ii), 107(a), added subsec. (c) and redesignated former subsec. (c) as (b).
 
-1992—Subsec. (b). Pub. L. 102–531, in introductory provisions, inserted references to sections 294d and 294e ofthis title and substituted reference to section 295<i>o</i>(f)(2) of this title for reference to section 293p(a) of this title.
+<b>1992</b>—Subsec. (b). Pub. L. 102–531, in introductory provisions, inserted references to sections 294d and 294e of this title and substituted reference to section 295<i>o</i>(f)(2) of this title for reference to section 293p(a) of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -74,5 +78,5 @@ Amendment by Pub. L. 102–531 effective immediately after enactment of Pub. L. 
 
 #### Required Assurances Regarding Bloodborne Diseases
 
-Section 308 of Pub. L. 102–408 provided that: “With respect to awards of grants or contracts under title VII or VIII of the Public Health Service Act \[this subchapter or subchapter VI of this chapter\], the Secretary of Health and Human Services may make such an award for the provision of traineeships only if the applicant for the award provides assurances satisfactory to the Secretary that all trainees will, as appropriate, receive instruction in the utilization of universal precautions and infection control procedures for the prevention of the transmission of bloodborne diseases.”
+Pub. L. 102–408, title III, §308, Oct. 13, 1992, 106 Stat. 2089, provided that: “With respect to awards of grants or contracts under title VII or VIII of the Public Health Service Act \[this subchapter or subchapter VI of this chapter\], the Secretary of Health and Human Services may make such an award for the provision of traineeships only if the applicant for the award provides assurances satisfactory to the Secretary that all trainees will, as appropriate, receive instruction in the utilization of universal precautions and infection control procedures for the prevention of the transmission of bloodborne diseases.”
 

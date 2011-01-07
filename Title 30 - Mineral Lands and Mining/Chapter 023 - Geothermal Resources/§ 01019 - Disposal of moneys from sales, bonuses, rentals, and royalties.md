@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except with respect to lands in the State of Alaska, all monies received by the United States from sales, bonuses, rentals, and royalties under this chapter shall be paid into the Treasury ofthe United States. Of amounts deposited under this subsection, subject to the provisions of subsection (b) of section 191 of this title and section 1004(a)(2) of this title—
+Except with respect to lands in the State of Alaska, all monies received by the United States from sales, bonuses, rentals, and royalties under this chapter shall be paid into the Treasury of the United States. Of amounts deposited under this subsection, subject to the provisions of subsection (b) of section 191 of this title and section 1004(a)(2) of this title—
 
 &emsp;(1) 50 percent shall be paid to the State within the boundaries of which the leased lands or geothermal resources are or were located; and
 
@@ -16,9 +16,9 @@ Amounts paid to a State or county under subsection (a) of this section shall be 
 
 #### Amendments
 
-2005—Pub. L. 109–58 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “Subject to the provisions of section 191(b) of this title, all moneys received from the sales, bonuses, royalties and rentals under the provisions of this chapter, including the payments referred to in section 1005(i) of this title, shall be disposed of in the same manner as such moneys received pursuant to section 191 of this title or pursuant to section 355 of this title, as the case may be.”
+<b>2005</b>—Pub. L. 109–58 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “Subject to the provisions of section 191(b) of this title, all moneys received from the sales, bonuses, royalties and rentals under the provisions of this chapter, including the payments referred to in section 1005(i) of this title, shall be disposed of in the same manner as such moneys received pursuant to section 191 of this title or pursuant to section 355 of this title, as the case may be.”
 
-1993—Pub. L. 103–66 substituted “Subject to the provisions of section 191(b) of this title, all moneys” for “All moneys”.
+<b>1993</b>—Pub. L. 103–66 substituted “Subject to the provisions of section 191(b) of this title, all moneys” for “All moneys”.
 
-1988—Pub. L. 100–443 amended section generally. Prior to amendment, section read as follows: “All moneys received under this chapter from public lands under the jurisdiction of the Secretary shall be disposed of in the same manner as moneys received from the sale of public lands. Moneys received under this chapter from other lands shall be disposed of in the same manner as other receipts from such lands.”
+<b>1988</b>—Pub. L. 100–443 amended section generally. Prior to amendment, section read as follows: “All moneys received under this chapter from public lands under the jurisdiction of the Secretary shall be disposed of in the same manner as moneys received from the sale of public lands. Moneys received under this chapter from other lands shall be disposed of in the same manner as other receipts from such lands.”
 

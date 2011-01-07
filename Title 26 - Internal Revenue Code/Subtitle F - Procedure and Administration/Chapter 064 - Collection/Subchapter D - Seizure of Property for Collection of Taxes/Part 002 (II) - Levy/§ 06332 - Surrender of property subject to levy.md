@@ -8,7 +8,7 @@ Except as otherwise provided in this section, any person in possession of (or ob
 
 #### (1) In general
 
-&emsp;A levy on an organization with respect to a life insurance or endowment contract issued by such organization shall, without necessity for the surrender of the contract document, constitute a demand by the Secretary for payment of the amount described in paragraph (2) and the exercise of the right of the person against whom the tax is assessed to the advance of such amount. Such organization shall pay over such amount 90 days after service of notice of levy. Such notice shall include a certification by the Secretary that a copy of such notice has been mailed to the person against whom the tax is assessed at his last known address.
+&emsp;A levy on an organization with respect to a life insurance or endowment contract issued by such organization shall, without necessity for the surrender of the contract document, constitute a demand by the Secretary for payment of the amount described in paragraph (2) and the exercise of the right of the person against whom the tax is assessed to the advance of such amount. Such organization shall pay over such amount 90 days after service ofnotice of levy. Such notice shall include a certification by the Secretary that a copy of such notice has been mailed to the person against whom the tax is assessed at his last known address.
 
 #### (2) Satisfaction of levy
 
@@ -44,9 +44,9 @@ The term “person,” as used in subsection (a), includes an officer or employe
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–508 substituted “this section” for “subsections (b) and (c)”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508 substituted “this section” for “subsections (b) and (c)”.
 
-1988—Subsec. (a). Pub. L. 100–647, §6236(e)(2)(A), substituted “subsections (b) and (c)” for “subsection (b)”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §6236(e)(2)(A), substituted “subsections (b) and (c)” for “subsection (b)”.
 
 Subsec. (c). Pub. L. 100–647, §6236(e)(1), added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -58,17 +58,17 @@ Subsec. (e). Pub. L. 100–647, §6236(e)(1), (2)(B), redesignated subsec. (d) a
 
 Subsec. (f). Pub. L. 100–647, §6236(e)(1), redesignated subsec. (e) as (f).
 
-1986—Subsec. (c)(1). Pub. L. 99–514 substituted “the underpayment rate established under section 6621” for “an annual rate established under section 6621”.
+<b>1986</b>—Subsec. (c)(1). Pub. L. 99–514 substituted “the underpayment rate established under section 6621” for “an annual rate established under section 6621”.
 
-1976—Subsecs. (a), (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 Subsec. (c)(1). Pub. L. 94–455, §§1209(d)(3), 1906(b)(13)(A), inserted “(or, in the case of a levy described in section 6331(d)(3), from the date such person would otherwise have been obligated to pay over such amounts to the taxpayer)” after “date of such levy”, and struck out “or his delegate” after “Secretary”.
 
 Subsec. (d). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1975—Subsec. (c)(1). Pub. L. 93–625 substituted “an annual rate established under section 6621” for “the rate of 6 percent per annum”.
+<b>1975</b>—Subsec. (c)(1). Pub. L. 93–625 substituted “an annual rate established under section 6621” for “the rate of 6 percent per annum”.
 
-1966—Subsec. (a). Pub. L. 89–719, §104(b)(1), substituted “Except as otherwise provided in subsection (b), any person” for “Any person”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–719, §104(b)(1), substituted “Except as otherwise provided in subsection (b), any person” for “Any person”.
 
 Subsec. (b). Pub. L. 89–719, §104(b)(2), added subsec. (b). Former subsec. (b) redesignated, with amendments, as subsec. (c)(1).
 

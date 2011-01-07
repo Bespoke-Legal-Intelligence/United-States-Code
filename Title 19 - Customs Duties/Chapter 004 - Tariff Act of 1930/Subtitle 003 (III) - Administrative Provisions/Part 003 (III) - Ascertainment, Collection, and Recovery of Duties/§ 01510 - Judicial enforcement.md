@@ -2,7 +2,7 @@
 
 #### (a) Order of court
 
-If any person summoned under section 1509 of this title does not comply with the summons, the district court of the United States for any district in which such person is found or resides or is doing business, upon application and after notice to any such person and hearing, shall have jurisdiction to issue an order requiring such person to comply with the summons. Failure to obey such order of the court may be punished by such court as a contempt thereof and such court may assess a monetary penalty.
+If any person summoned under section 1509 of this title does not comply with the summons,the district court of the United States for any district in which such person is found or resides or is doing business, upon application and after notice to any such person and hearing, shall have jurisdiction to issue an order requiring such person to comply with the summons. Failure to obey such order of the court may be punished by such court as a contempt thereof and such court may assess a monetary penalty.
 
 #### (b) Sanctions
 
@@ -18,10 +18,6 @@ If any person summoned under section 1509 of this title does not comply with the
 
 (June 17, 1930, ch. 497, title IV, §510, 46 Stat. 733; Pub. L. 91–271, title III, §301(<i>o</i>), June 2, 1970, 84 Stat. 290; Pub. L. 95–410, title I, §106, Oct. 3, 1978, 92 Stat. 891; Pub. L. 103–182, title VI, §616, Dec. 8, 1993, 107 Stat. 2179.)
 
-#### References in Text
-
-The customs laws, referred to in subsec. (b)(2), are classified generally to this title.
-
 #### Prior Provisions
 
 Provisions substantially the same as those in this section were contained in act Oct. 3, 1913, ch. 16, §III, P, 38 Stat. 188, which substantially reenacted the provisions of the Customs Administrative Act of June 10, 1890, ch. 407, §17, 26 Stat. 139, as renumbered and reenacted without other change by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §23, 36 Stat. 100. Section III, P, of the 1913 act was superseded by act Sept. 21, 1922, ch. 356, title IV, §509, 42 Stat. 968, and repealed by section 643 thereof. Section 509 of the 1922 act was superseded by section 510 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
@@ -30,11 +26,11 @@ Prior provisions similar to those in this section were contained in R.S. §§292
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–182 inserted before period at end “and such court may assess a monetary penalty”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–182 inserted before period at end “and such court may assess a monetary penalty”.
 
-1978—Pub. L. 95–410 substituted judicial enforcement provisions covering court order for compliance with administrative summonses and imposition of specified sanctions for prior provisions covering imposition of penalties for refusal to give testimony, including provision for a penalty of not less than $20 nor more than $500 for refusing to appear or to produce documents or to subscribe his name to a deposition or refusing to answer interrogatories; deeming the last made appraisement of the merchandise as final where an owner, importer, or consignee failed to comply with the examination provisions; deeming the person falsely swearing on an examination guilty of perjury; and forfeiture of the merchandise where the person was an owner, importer, or consignee, or the recovery of its value from him.
+<b>1978</b>—Pub. L. 95–410 substituted judicial enforcement provisions covering court order for compliance with administrative summonses and imposition of specified sanctions for prior provisions covering imposition of penalties for refusal to give testimony, including provision for a penalty of not less than $20 nor more than $500 for refusing to appear or to produce documents or to subscribe his name to a deposition or refusing to answer interrogatories; deeming the last made appraisement of the merchandise as final where an owner, importer, or consignee failed to comply with the examination provisions; deeming the person falsely swearing on an examination guilty of perjury; and forfeiture of the merchandise where the person was an owner, importer, or consignee, or the recovery of its value from him.
 
-1970—Pub. L. 91–271 substituted references to appropriate customs officer for references to collector or appraiser wherever appearing, and struck out references to divisions of United States Customs Court.
+<b>1970</b>—Pub. L. 91–271 substituted references to appropriate customs officer for references to collector or appraiser wherever appearing, and struck out references to divisions of United States Customs Court.
 
 #### Effective Date of 1970 Amendment
 

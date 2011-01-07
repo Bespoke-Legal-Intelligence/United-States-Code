@@ -72,11 +72,11 @@ Institution of Higher Education Defined.—In this section, the term “institut
 
 #### Amendments
 
-2006—Subsec. (f)(1). Pub. L. 109–163, §687(c)(15)(A), substituted “shall be subject to the repayment provisions of section 303a(e) of title 37” for “may be required to repay the full amount of financial assistance” in introductory provisions.
+<b>2006</b>—Subsec. (f)(1). Pub. L. 109–163, §687(c)(15)(A), substituted “shall be subject to the repayment provisions of section 303a(e) of title 37” for “may be required to repay the full amount of financial assistance” in introductory provisions.
 
 Subsec. (f)(2). Pub. L. 109–163, §687(c)(15)(B), inserted “Any requirement to repay any portion of financial assistance received under this section shall be administered under the regulations issued under section 303a(e) of title 37.” before “The Secretary of the Navy may waive” in introductory provisions.
 
-2000—Pub. L. 106–398, §1 \[\[div. A\], title V, §533(f)(1)\], substituted “Class: college tuition assistance program” for “Class program: officer candidates pursuing degrees” in section catchline.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title V, §533(f)(1)\], substituted “Class: college tuition assistance program” for “Class program: officer candidates pursuing degrees” in section catchline.
 
 Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title V, §533(a)(1), (f)(2)\], struck out “for Financial Assistance Program” after “Authority” in heading and “enlisted” after “an eligible” in introductory provisions.
 
@@ -100,7 +100,7 @@ Subsec. (f)(1). Pub. L. 106–398, §1 \[\[div. A\], title V, §533(d)(1)(A), (B
 
 Subsec. (f)(1)(A). Pub. L. 106–398, §1 \[\[div. A\], title V, §533(d)(1)(C)\], inserted “or, if already a commissioned officer in the Marine Corps, refuses to accept an assignment on active duty when offered” after “when offered”.
 
-Subsec. (f)(2). Pub. L. 106–398, §1 \[\[div. A\], title V, §533(d)(2)\], added par. (2) and struck out former par. (2) which read as follows: “The Secretary of the Navy may waive the obligated service under paragraph (1) of a person who is not physically qualified for appointment under section 532 of this title and later is determined by the Secretary of the Navy under section 505 of this title to be unqualified for service as an enlisted member of the Marine Corps due to a physical or medical condition that was not the result of misconduct or grossly negligent conduct.”
+Subsec. (f)(2). Pub. L. 106–398, §1 \[\[div. A\], title V, §533(d)(2)\], added par. (2) and struck out former par. (2) which read as follows: “The Secretary of the Navy may waive the obligated service under paragraph (1) of a person who is not physically qualified for appointment under section 532 of this title and later is determinedby the Secretary of the Navy under section 505 of this title to be unqualified for service as an enlisted member of the Marine Corps due to a physical or medical condition that was not the result of misconduct or grossly negligent conduct.”
 
 #### Savings Provision
 

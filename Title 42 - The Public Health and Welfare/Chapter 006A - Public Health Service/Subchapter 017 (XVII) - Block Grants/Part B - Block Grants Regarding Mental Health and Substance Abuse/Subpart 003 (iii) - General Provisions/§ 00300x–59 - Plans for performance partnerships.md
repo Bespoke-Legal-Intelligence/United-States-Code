@@ -36,7 +36,7 @@ October 17, 2000, referred to in subsec. (b), was in the original “the date of
 
 #### Amendments
 
-2000—Pub. L. 106–310 amended section catchline and text generally. Prior to amendment, text read as follows: “Not later than January 24, 1994, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report on the activities of the States carried out pursuant to the programs established in sections 300x and 300x–21 of this title. Such report may include any recommendations of the Secretary for appropriate changes in legislation.”
+<b>2000</b>—Pub. L. 106–310 amended section catchline and text generally. Prior to amendment, text read as follows: “Not later than January 24, 1994, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report on the activities of the States carried out pursuant to the programs established in sections 300x and 300x–21 of this title. Such report may include any recommendations of the Secretary for appropriate changes in legislation.”
 
 #### Change of Name
 

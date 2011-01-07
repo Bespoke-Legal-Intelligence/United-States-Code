@@ -76,7 +76,7 @@ Section 718b, Pub. L. 93–112, §21, as added Pub. L. 102–569, title I, §111
 
 #### Amendments
 
-1998—Pub. L. 105–277, §101(f) \[title VIII, §402(b)(6)\], made technical amendment in original to section designation and catchline.
+<b>1998</b>—Pub. L. 105–277, §101(f) \[title VIII, §402(b)(6)\], made technical amendment in original to section designation and catchline.
 
 Subsec. (a)(3). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(3)\], substituted “is denied” for “are denied” and “is closed” for “are closed”.
 

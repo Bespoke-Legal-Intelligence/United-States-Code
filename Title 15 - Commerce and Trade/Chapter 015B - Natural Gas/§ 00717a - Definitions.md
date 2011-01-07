@@ -32,9 +32,9 @@ When used in this chapter, unless the context otherwise requires—
 
 #### Amendments
 
-2005—Par. (11). Pub. L. 109–58 added par. (11).
+<b>2005</b>—Par. (11). Pub. L. 109–58 added par. (11).
 
-1992—Par. (10). Pub. L. 102–486 added par. (10).
+<b>1992</b>—Par. (10). Pub. L. 102–486 added par. (10).
 
 #### Termination of Federal Power Commission; Transfer of Functions
 

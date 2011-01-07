@@ -1,6 +1,6 @@
 ### §1959. Violent crimes in aid of racketeering activity
 
-(a) Whoever, as consideration for the receipt of, or as consideration for a promise or agreement to pay, anything of pecuniary value from an enterprise engaged in racketeering activity, or for the purpose of gaining entrance to or maintaining or increasing position in an enterprise engaged in racketeering activity, murders, kidnaps, maims, assaults with a dangerous weapon, commits assault resulting in serious bodily injury upon, or threatens to commit a crime of violence against any individual in violation of the laws of any State or the UnitedStates, or attempts or conspires so to do, shall be punished—
+(a) Whoever, as consideration for the receipt of, or as consideration for a promise or agreement to pay, anything of pecuniary value from an enterprise engaged in racketeering activity, or for the purpose of gaining entrance to or maintaining or increasing position in an enterprise engaged in racketeering activity, murders, kidnaps, maims, assaults with a dangerous weapon, commits assault resulting in serious bodily injury upon, or threatens to commit a crime of violence against any individual in violation of the laws of any State or the United States, or attempts or conspires so to do, shall be punished—
 
 &emsp;(1) for murder, by death or life imprisonment, or a fine under this title, or both; and for kidnapping, by imprisonment for any term of years or for life, or a fine under this title, or both;
 
@@ -24,7 +24,7 @@
 
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–322, §330016(2)(C), substituted “fine under this title” for “fine of not more than $250,000” in two places.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–322, §330016(2)(C), substituted “fine under this title” for “fine of not more than $250,000” in two places.
 
 Pub. L. 103–322, §60003(a)(12), amended par. (1) generally. Prior to amendment, par. (1) read as follows:
 
@@ -38,7 +38,7 @@ Pub. L. 103–322, §330016(2)(C), substituted “fine under this title” for �
 
 Subsec. (a)(6). Pub. L. 103–322, §330016(1)(J), substituted “under this title” for “not more than $3,000” after “fine of”.
 
-1988—Pub. L. 100–690 renumbered section 1952B of this title as this section.
+<b>1988</b>—Pub. L. 100–690 renumbered section 1952B of this title as this section.
 
 <i><sup>1</sup></i><i> So in original. The word “of” probably should not appear.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Comprehensive annual financial report; contents; other reports
 
-The Governor of American Samoa shall prepare, publish, and submit to the Congress and the Secretary of the Interior a comprehensive annual financial report in conformance with the standards of the National Council on Governmental Accounting within one hundred and twenty days after the close of the fiscal year. The comprehensive annual financial report shall include statistical data as set forth in the standards of the National Council of Governmental Accounting relating to the physical, economic, social, and political characteristics of the government, and any other information required by the Congress. The Governor shall also make such other reports at such other times as may be required by the Congress or under applicable Federal law.
+The Governor of American Samoa shall prepare, publish, and submit to the Congress andthe Secretary of the Interior a comprehensive annual financial report in conformance with the standards of the National Council on Governmental Accounting within one hundred and twenty days after the close of the fiscal year. The comprehensive annual financial report shall include statistical data as set forth in the standards of the National Council of Governmental Accounting relating to the physical, economic, social, and political characteristics of the government, and any other information required by the Congress. The Governor shall also make such other reports at such other times as may be required by the Congress or under applicable Federal law.
 
 #### (b) Functions, powers, and duties transferred
 
@@ -10,7 +10,7 @@ The following functions, powers, and duties heretofore vested in the government 
 
 &emsp;(1) The authority to audit all accounts pertaining to the revenue and receipts of the government of American Samoa, and of funds derived from bond issues, and the authority to audit, in accordance with law and administrative regulations, all expenditures of funds and property pertaining to the government of American Samoa including those pertaining to trust funds held by the government of American Samoa.
 
-&emsp;(2) The authority to report to the Secretary of the Interior and the Governor of American Samoa all failures to collect amounts due the government, and expenditures of funds or usesor property which are irregular or not pursuant to law.
+&emsp;(2) The authority to report to the Secretary of the Interior and the Governor of American Samoa all failures to collect amounts due the government, and expenditures of funds or uses or property which are irregular or not pursuant to law.
 
 #### (c) Scope of authority transferred
 
@@ -32,7 +32,7 @@ A prior section 1668, Pub. L. 96–205, title V, §501, Mar. 12, 1980, 94 Stat. 
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–362 struck out “The Governor shall transmit the comprehensive annual financial report to the Inspector General of the Department of the Interior who shall audit it and report his findings to the Congress.” after “other information required by the Congress.” and “He shall also submit to the Congress, the Secretary of the Interior, and the cognizant Federal auditors a written statement of actions taken or contemplated on Federal audit recommendations within sixty days after the issuance date of the audit report.” after “under applicable Federal law.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–362 struck out “The Governor shall transmit the comprehensive annual financial report to the Inspector General of the Department of the Interior who shall audit it and report his findings to the Congress.” after “other information required by the Congress.” and “He shall also submit to the Congress, the Secretary of the Interior, and the cognizant Federal auditors a written statement of actions taken or contemplated on Federal audit recommendations within sixty days after the issuance date of the audit report.” after “under applicable Federal law.”
 
 #### Termination of Reporting Requirements
 

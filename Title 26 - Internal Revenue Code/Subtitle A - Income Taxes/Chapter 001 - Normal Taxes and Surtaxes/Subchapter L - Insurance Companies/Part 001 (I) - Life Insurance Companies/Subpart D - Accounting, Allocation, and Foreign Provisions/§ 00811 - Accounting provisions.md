@@ -72,9 +72,9 @@ Another prior section 811, act Aug. 16, 1954, ch. 736, §811, as added Mar. 13, 
 
 #### Amendments
 
-1988—Subsec. (d)(1). Pub. L. 100–647 substituted “the greater of the prevailing State assumed interest rate or applicable Federal interest rate in effect under section 807 for the contract” for “the prevailing State assumed interest rate for the contract”.
+<b>1988</b>—Subsec. (d)(1). Pub. L. 100–647 substituted “the greater of the prevailing State assumed interest rate or applicable Federal interest rate in effect under section 807 for the contract” for “the prevailing State assumed interest rate for the contract”.
 
-1984—Subsec. (b)(3). Pub. L. 98–369, §42(a)(8), substituted “section 1273” for “section 1232(b)”.
+<b>1984</b>—Subsec. (b)(3). Pub. L. 98–369, §42(a)(8), substituted “section 1273” for “section 1232(b)”.
 
 #### Effective Date of 1988 Amendment
 

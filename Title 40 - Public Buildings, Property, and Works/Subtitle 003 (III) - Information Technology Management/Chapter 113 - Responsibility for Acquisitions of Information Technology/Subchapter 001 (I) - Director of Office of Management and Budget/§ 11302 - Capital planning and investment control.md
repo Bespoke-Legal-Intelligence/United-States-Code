@@ -6,7 +6,7 @@ Federal Information Technology.—The Director of the Office of Management and B
 
 (b)
 
-Use of Information Technology in Federal Programs.—The Director shall promote and improve the acquisition, use, security, and disposal of information technology by the Federal Government to improve the productivity, efficiency, and effectiveness of federal programs, including through dissemination of public information and the reduction of information collection burdens on the public.
+Use of Information Technology in Federal Programs.—The Director shall promoteand improve the acquisition, use, security, and disposal of information technology by the Federal Government to improve the productivity, efficiency, and effectiveness of federal programs, including through dissemination of public information and the reduction of information collection burdens on the public.
 
 (c)
 
@@ -72,7 +72,7 @@ Pub. L. 104–106, div. E, title LI, §5112, Feb. 10, 1996, 110 Stat. 680.
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–458, §8401(1), inserted “security,” after “use,”.
+<b>2004</b>—Subsec. (b). Pub. L. 108–458, §8401(1), inserted “security,” after “use,”.
 
 Subsec. (c)(1). Pub. L. 108–458, §8401(2), inserted “, including information security risks,” after “evaluating the risks” and “costs, benefits, and risks”.
 
@@ -82,7 +82,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title VIII, §813\], Oct. 30, 2000, 114 Sta
 
 “(a)
 
-Amendment of the Federal Acquisition Regulation.—Not later than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\], the Federal Acquisition Regulation issued in accordance with sections 6 and 25 of the Office of Federal Procurement Policy Act (41 U.S.C. 405 and 421) shall be amended to address the use, in the procurement of information technology services, of requirements regarding the experience and education of contractor personnel.
+Amendment of the Federal Acquisition Regulation.—Not later than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\], the Federal Acquisition Regulation issued in accordance with sections 6 and 25 of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 405 and 421) \[see 41 U.S.C. 1121, 1303\] shall be amended to address the use, in the procurement of information technology services, of requirements regarding the experience and education of contractor personnel.
 
 “(b)
 
@@ -104,9 +104,9 @@ GAO Report.—Not later than one year after the date on which the regulations re
 
 Definitions.—In this section:
 
-&emsp;“(1) The term ‘executive agency’ has the meaning given that term in section 4(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(1)).
+&emsp;“(1) The term ‘executive agency’ has the meaning given that term in section 4(1) of the Office of Federal Procurement Policy Act (former 41 U.S.C. 403(1)) \[now 41 U.S.C. 133\].
 
 &emsp;“(2) The term ‘information technology’ has the meaning given that term in section 5002(3) of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401(3)) \[now 40 U.S.C. 11101(6)\].
 
-&emsp;“(3) The term ‘performance-based’, with respect to a contract, means that the contract includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes.”
+&emsp;“(3) The term ‘performance-based’, with respect to a contract, means that the contract includes the useof performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes.”
 

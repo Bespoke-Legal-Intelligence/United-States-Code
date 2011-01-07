@@ -2,7 +2,7 @@
 
 #### (a) Criminal penalties; payment for information leading to conviction
 
-A person who knowingly violates the MARPOL Protocol, Annex IV to the Antarctic Protocol, this chapter, or the regulations issued thereunder commits a class D felony. In the discretion of the Court, an amount equal to not more than 1/2 of such fine may be paid to the person giving information leading to conviction.
+A person who knowingly violates the MARPOL Protocol, Annex IV to the Antarctic Protocol, this chapter, or the regulations issued thereunder commits a class D felony. In the discretion of the Court, an amount equal to not more than ½ of such fine may be paid to the person giving information leading to conviction.
 
 #### (b) Civil penalties; separate violations; assessment notice; considerations affecting amount; payment for information leading to assessment of penalty
 
@@ -12,7 +12,7 @@ A person who is found by the Secretary, or the Administrator as provided for in 
 
 &emsp;(2) made a false, fictitious, or fraudulent statement or representation in any matter in which a statement or representation is required to be made to the Secretary, or the Administrator as provided for in this chapter, under the MARPOL Protocol, Annex IV to the Antarctic Protocol, this chapter, or the regulations thereunder, shall be liable to the United States for a civil penalty, not to exceed $5,000 for each statement or representation.
 
-> Each day of a continuing violation shall constitute a separate violation. The amount of the civil penalty shall be assessed by the Secretary, or the Administrator as provided for in this chapter or his designee, by written notice. In determining the amount of the penalty, the Secretary, or the Administrator as provided for in this chapter, shall take into account the nature, circumstances, extent, and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and other matters as justice may require. An amount equal to not more than 1/2 of such penalties may be paid by the Secretary, or the Administrator as provided for in this chapter, to the person giving information leading to the assessment of such penalties.
+> Each day of a continuing violation shall constitute a separate violation. The amount of the civil penalty shall be assessed by the Secretary, or the Administrator as provided for in this chapter or his designee, by written notice. In determining the amount of the penalty, the Secretary, or the Administrator as provided for in this chapter, shall take into account the nature, circumstances, extent, and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and other matters as justice may require. An amount equal to not more than ½ of such penalties may be paid by the Secretary, or the Administrator as provided for in this chapter, to the person giving information leading to the assessment of such penalties.
 
 #### (c) Abatement of civil penalties; collection by Attorney General
 
@@ -38,7 +38,7 @@ In subsec. (e), “section 60105 of title 46” substituted for “section 4197 
 
 #### Amendments
 
-2008—Pub. L. 110–280, §10(1), substituted “MARPOL Protocol,” for “MARPOL Protocol,,” wherever appearing in subsecs. (a), (b), and (d).
+<b>2008</b>—Pub. L. 110–280, §10(1), substituted “MARPOL Protocol,” for “MARPOL Protocol,,” wherever appearing in subsecs. (a), (b), and (d).
 
 Subsec. (b). Pub. L. 110–280, §10(2)(C), in concluding provisions, inserted “or the Administrator as provided for in this chapter” after “Secretary,” and “, or the Administrator as provided for in this chapter,” after “Secretary” in two places.
 
@@ -50,7 +50,7 @@ Subsec. (c). Pub. L. 110–280, §10(3), inserted “, or the Administrator as 
 
 Subsec. (f). Pub. L. 110–280, §10(4), inserted “or the Administrator as provided for in this chapter” after “Secretary,”.
 
-1996—Subsec. (a). Pub. L. 104–227, §201(f)(1), inserted “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol,”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–227, §201(f)(1), inserted “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol,”.
 
 Subsec. (b). Pub. L. 104–227, §201(f)(2), (3), inserted “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol,” in pars. (1) and (2).
 
@@ -60,7 +60,7 @@ Subsec. (e). Pub. L. 104–227, §201(f)(5), inserted “, Annex IV to the Anta
 
 Subsec. (f). Pub. L. 104–227, §201(f)(6), inserted “or the Antarctic Protocol” after “MARPOL Protocol” in two places.
 
-1993—Subsec. (e). Pub. L. 103–182 substituted “shall refuse or revoke the clearance required by section 91 of title 46, Appendix. Clearance may be granted upon the filing of a bond or other surety satisfactory to the Secretary.” for “shall refuse or revoke—
+<b>1993</b>—Subsec. (e). Pub. L. 103–182 substituted “shall refuse or revoke the clearance required by section 91 of title 46, Appendix. Clearance may be granted upon the filing of a bond or other surety satisfactory to the Secretary.” for “shall refuse or revoke—
 
 &emsp;“(1) the clearance required by section 91 of title 46, Appendix; or
 
@@ -68,11 +68,11 @@ Subsec. (f). Pub. L. 104–227, §201(f)(6), inserted “or the Antarctic Protoc
 
 > Clearance or a permit to proceed may be granted upon the filing of a bond or other surety satisfactory to the Secretary.”
 
-1990—Subsec. (a). Pub. L. 101–380 substituted “commits a class D felony” for “shall, for each violation, be fined not more than $50,000 or be imprisoned for not more than 5 years, or both”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–380 substituted “commits a class D felony” for “shall, for each violation, be fined not more than $50,000 or be imprisoned for not more than 5 years, or both”.
 
-1987—Subsec. (a). Pub. L. 100–220, §2105(a)(1), inserted at end “In the discretion of the Court, an amount equal to not more than 1/2 of such fine may be paid to the person giving information leading to conviction.”
+<b>1987</b>—Subsec. (a). Pub. L. 100–220, §2105(a)(1), inserted at end “In the discretion of the Court, an amount equal to not more than ½ of such fine may be paid to the person giving information leading to conviction.”
 
-Subsec. (b). Pub. L. 100–220, §2105(a)(2), inserted at end “An amount equal to not more than 1/2 of such penalties may be paid by the Secretary to the person giving information leading to the assessment of such penalties.”
+Subsec. (b). Pub. L. 100–220, §2105(a)(2), inserted at end “An amount equal to not more than ½ of such penalties may be paid by the Secretary to the person giving information leading to the assessment of such penalties.”
 
 Subsec. (f). Pub. L. 100–220, §2105(b), substituted “to the government of the country of the ship's registry or nationality, or under whose authority the ship is operating” for “to that country”.
 

@@ -8,7 +8,7 @@
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–273 inserted “to” after “serious bodily injury”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273 inserted “to” after “serious bodily injury”.
 
 #### Short Title of 2000 Amendment
 

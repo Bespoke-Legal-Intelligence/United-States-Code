@@ -2,7 +2,7 @@
 
 (a)
 
-Authorities.—Notwithstanding any other provision of law, an independent counsel appointed under this chapter shall have, with respect to all matters in such independent counsel's prosecutorial jurisdiction established under this chapter, full power and independent authority to exercise all investigative and prosecutorial functions and powers of the Department of Justice, the Attorney General, and any other officer or employee of the Department of Justice, except that the Attorney General shall exercise direction or control as to those matters that specifically require the Attorney General's personal action under section 2516 of title 18. Such investigative and prosecutorial functions and powers shall include—
+Authorities.—Notwithstanding any other provision of law, an independent counsel appointed under this chapter shall have, with respect to all matters in such independent counsel's prosecutorial jurisdiction established underthis chapter, full power and independent authority to exercise all investigative and prosecutorial functions and powers of the Department of Justice, the Attorney General, and any other officer or employee of the Department of Justice, except that the Attorney General shall exercise direction or control as to those matters that specifically require the Attorney General's personal action under section 2516 of title 18. Such investigative and prosecutorial functions and powers shall include—
 
 &emsp;(1) conducting proceedings before grand juries and other investigations;
 
@@ -66,7 +66,7 @@ Assistance of Department of Justice.—
 
 &emsp;(1)
 
-In carrying out functions.—An independent counsel may request assistance from the Department of Justice in carrying out the functions of the independent counsel, and the Department of Justice shall provide that assistance, which may include access to any records, files, or other materials relevant to matters within such independent counsel's prosecutorial jurisdiction, and the use of the resources and personnel necessary to perform such independent counsel's duties. At the request of an independent counsel, prosecutors, administrative personnel, and other employees of the Department of Justice may be detailed to the staff of the independent counsel.
+In carrying out functions.—An independent counsel may request assistance from the Department of Justice in carrying out the functions of the independent counsel, and the Department of Justice shall provide that assistance, which may include access to any records, files, or other materials relevant to matters within such independent counsel's prosecutorial jurisdiction, and the use of the resources and personnel necessary to performsuch independent counsel's duties. At the request of an independent counsel, prosecutors, administrative personnel, and other employees of the Department of Justice may be detailed to the staff of the independent counsel.
 
 &emsp;(2)
 
@@ -160,7 +160,7 @@ Custody of Records of an Independent Counsel.—
 
 &emsp;(1)
 
-Transfer of records.—Upon termination of the office of an independent counsel, that independent counsel shall transfer to theArchivist of the United States all records which have been created or received by that office. Before this transfer, the independent counsel shall clearly identify which of these records are subject to rule 6(e) of the Federal Rules of Criminal Procedure as grand jury materials and which of these records have been classified as national security information. Any records which were compiled by an independent counsel and, upon termination of the independent counsel's office, were stored with the division of the court or elsewhere before the enactment of the Independent Counsel Reauthorization Act of 1987, shall also be transferred to the Archivist of the United States by the division of the court or the person in possession of such records.
+Transfer of records.—Upon termination of the office of an independent counsel, that independent counsel shall transfer to the Archivist of the United States all records which have been created or received by that office. Before this transfer, the independent counsel shall clearly identify which of these records are subject to rule 6(e) of the Federal Rules of Criminal Procedure as grand jury materials and which of these records have been classified as national security information. Any records which were compiled by an independent counsel and, upon termination of the independent counsel's office, were stored with the division of the court or elsewhere before the enactment of the Independent Counsel Reauthorization Act of 1987, shall also be transferred to the Archivist of the United States by the division of the court or the person in possession of such records.
 
 &emsp;(2)
 
@@ -210,7 +210,7 @@ In general.—An independent counsel shall—
 
 &emsp;&emsp;(B)
 
-Liability for invalid certification.—An employee making a certification under subparagraph (A)(iii) shall be liable for an invalid certification to the same extent as a certifying official certifying a voucher is liable under section 3528 of title 31.
+Liability for invalid certification.—An employee making a certification undersubparagraph (A)(iii) shall be liable for an invalid certification to the same extent as a certifying official certifying a voucher is liable under section 3528 of title 31.
 
 &emsp;&emsp;(C)
 
@@ -236,11 +236,11 @@ The enactment of the Independent Counsel Reauthorization Act of 1987, referred t
 
 #### Amendments
 
-1996—Subsec. (b)(3)(A). Pub. L. 104–208, §101(a) \[title I, §118(a), (b)\], in second sentence substituted “for successive 6-month periods” for “by 6-months” and “independent counsel and the division of the court certify” for “employee assigned duties under subsection (<i>l</i>)(1)(A)(iii) certifies”.
+<b>1996</b>—Subsec. (b)(3)(A). Pub. L. 104–208, §101(a) \[title I, §118(a), (b)\], in second sentence substituted “for successive 6-month periods” for “by 6-months” and “independent counsel and the division of the court certify” for “employee assigned duties under subsection (<i>l</i>)(1)(A)(iii) certifies”.
 
 Subsec. (b)(3)(B). Pub. L. 104–208, §101(a) \[title I, §118(c)\], which directed the amendment of second sentence of subsec. (b)(3)(A) by striking “such employee” and inserting “the independent counsel” and “the division of the court”, was executed to introductory provisions of subsec. (b)(3)(B) by substituting “the independent counsel and the division of the court” for “such employee” to reflect the probable intent of Congress.
 
-1994—Subsec. (b). Pub. L. 103–270, §3(b), designated existing text as par. (1) and inserted heading, and added pars. (2) and (3).
+<b>1994</b>—Subsec. (b). Pub. L. 103–270, §3(b), designated existing text as par. (1) and inserted heading, and added pars. (2) and (3).
 
 Subsec. (c). Pub. L. 103–270, §3(c), substituted last sentence for former last sentence which read as follows: “No such employee may be compensated at a rate exceeding the maximum rate of pay payable for GS–18 of the General Schedule under section 5332 of title 5.”
 
@@ -256,11 +256,11 @@ Subsec. (j)(5). Pub. L. 103–270, §3(d), added par. (5).
 
 Subsec. (<i>l</i>). Pub. L. 103–270, §3(a), added subsec. (<i>l</i>).
 
-1987—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (k) for former subsecs. (a) to (g) which related to similar subject matter.
+<b>1987</b>—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (k) for former subsecs. (a) to (g) which related to similar subject matter.
 
-1986—Subsec. (a)(8). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (a)(8). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1983—Pub. L. 97–409, §2(a)(1)(A), substituted “independent counsel” for “special prosecutor” in section catchline.
+<b>1983</b>—Pub. L. 97–409, §2(a)(1)(A), substituted “independent counsel” for “special prosecutor” in section catchline.
 
 Subsec. (a). Pub. L. 97–409, §2(a)(1), substituted “independent counsel” for “special prosecutor” wherever appearing and “independent counsel's” for “special prosecutor's”.
 
@@ -280,5 +280,5 @@ Amendment by Pub. L. 103–270 applicable with respect to independent counsels a
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to proceedings initiated and independent counsels appointed on and after Dec. 15, 1987, but with the following provisions applicable to previously initiated proceedings pending on Dec. 15, 1987: subsec. (d)(2) (relating to reports by Attorney General on expenditures by independent counsel, except that the first such report shall be made only with respect to expenditures on or after Dec. 15, 1987), subsec. (h)(1)(A) except that the 6-month periods described in subsec. (h)(1)(A) of this section shall be calculated from Dec. 15, 1987, subsec. (i), subsec. (k) of this section, and 90 days after Dec. 15, 1987, subsec. (j), see section 6 of Pub. L. 100–191, set out as a note under section 591 of this title.
+Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to proceedings initiated and independent counsels appointed on and after Dec. 15, 1987, but with the following provisions applicable to previously initiated proceedings pending on Dec. 15, 1987: subsec. (d)(2) (relating to reports by Attorney General on expenditures by independent counsel, except that the first such report shall be made only with respect to expenditures on or after Dec. 15, 1987), subsec. (h)(1)(A) except that the 6-month periods described in subsec. (h)(1)(A) ofthis section shall be calculated from Dec. 15, 1987, subsec. (i), subsec. (k) of this section, and 90 days after Dec. 15, 1987, subsec. (j), see section 6 of Pub. L. 100–191, set out as a note under section 591 of this title.
 

@@ -1,6 +1,6 @@
 ### §57513. Minimum bid
 
-The Secretary of Transportation shall reject any bid for the charter under this subchapter of a vessel constructed under this subtitle or the Merchant Marine Act, 1936, if the charter hireoffered is lower than the minimum charter hire would be if the vessel were chartered under section 57531 of this title.
+The Secretary of Transportation shall reject any bid for the charter under this subchapter of a vessel constructed under this subtitle or the Merchant Marine Act, 1936, if the charter hire offered is lower than the minimum charter hire would be if the vessel were chartered under section 57531 of this title.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1666.)
 

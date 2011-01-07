@@ -18,7 +18,7 @@ For purposes of this section—
 
 #### (2) Special rule for expenditures for depreciable property
 
-&emsp;Such term shall not include any expenditure for the acquisition of property of a character subject to the allowance for depreciation which is used in connection with the abatement or control of hazardous substances at a qualified contaminated site; except that the portion of the allowance under section 167 for such property which is otherwise allocated to such site shall be treated as a qualified environmental remediation expenditure.
+&emsp;Such term shall not include any expenditure for the acquisition of property of a character subject to the allowance for depreciation which is used in connection with the abatement or control of hazardous substances at a qualified contaminated site; except that theportion of the allowance under section 167 for such property which is otherwise allocated to such site shall be treated as a qualified environmental remediation expenditure.
 
 #### (c) Qualified contaminated site
 
@@ -80,9 +80,9 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### (h) Termination
 
-This section shall not apply to expenditures paid or incurred after December 31, 2009.
+This section shall not apply to expenditures paid or incurred after December 31, 2011.
 
-(Added Pub. L. 105–34, title IX, §941(a), Aug. 5, 1997, 111 Stat. 882; amended Pub. L. 106–170, title V, §§511, 532(c)(2)(A), Dec. 17, 1999, 113 Stat. 1924, 1930; Pub. L. 106–554, §1(a)(7) \[title I, §162(a), (b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–625; Pub. L. 108–311, title III, §308(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 109–432, div. A, title I, §109(a), (b), Dec. 20, 2006, 120 Stat. 2939; Pub. L. 110–343, div. C, title III, §318(a), Oct. 3, 2008, 122 Stat. 3873.)
+(Added Pub. L. 105–34, title IX, §941(a), Aug. 5, 1997, 111 Stat. 882; amended Pub. L. 106–170, title V, §§511, 532(c)(2)(A), Dec. 17, 1999, 113 Stat. 1924, 1930; Pub. L. 106–554, §1(a)(7) \[title I, §162(a), (b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–625; Pub. L. 108–311, title III, §308(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 109–432, div. A, title I, §109(a), (b), Dec. 20, 2006, 120 Stat. 2939; Pub. L. 110–343, div. C, title III, §318(a), Oct. 3, 2008, 122 Stat. 3873; Pub. L. 111–312, title VII, §745(a), Dec. 17, 2010, 124 Stat. 3319.)
 
 #### References in Text
 
@@ -92,21 +92,27 @@ Sections 101(14), 102, 104, and 105(a)(8)(B) of the Comprehensive Environmental 
 
 #### Amendments
 
-2008—Subsec. (h). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2007”.
+<b>2010</b>—Subsec. (h). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”.
 
-2006—Subsec. (d)(1)(C). Pub. L. 109–432, §109(b), added subpar. (C).
+<b>2008</b>—Subsec. (h). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2007”.
+
+<b>2006</b>—Subsec. (d)(1)(C). Pub. L. 109–432, §109(b), added subpar. (C).
 
 Subsec. (h). Pub. L. 109–432, §109(a), substituted “2007” for “2005”.
 
-2004—Subsec. (h). Pub. L. 108–311 substituted “2005” for “2003”.
+<b>2004</b>—Subsec. (h). Pub. L. 108–311 substituted “2005” for “2003”.
 
-2000—Subsec. (c). Pub. L. 106–554, §1(a)(7) \[title I, §162(a)\], amended subsec. (c) generally. Prior to amendment, subsec. (c) defined the term “qualified contaminated site” to include certain property described in section 1221(a)(1) of this title, within a targeted area, and at which there had been a release or disposal of any hazardous substance, provided that an area could be treated as a qualified contaminated site only if the taxpayer received a certain statement from an appropriate State agency, provided for designation of appropriate State agencies, and defined targeted area.
+<b>2000</b>—Subsec. (c). Pub. L. 106–554, §1(a)(7) \[title I, §162(a)\], amended subsec. (c) generally. Prior to amendment, subsec. (c) defined the term “qualified contaminated site” to include certain property described in section 1221(a)(1) of this title, within a targeted area, and at which there had been a release or disposal of any hazardous substance, provided that an area could be treated as a qualified contaminated site only if the taxpayer received a certain statement from an appropriate State agency, provided for designation of appropriate State agencies, and defined targeted area.
 
 Subsec. (h). Pub. L. 106–554, §1(a)(7) \[title I, §162(b)\], substituted “2003” for “2001”.
 
-1999—Subsec. (c)(1)(A)(i). Pub. L. 106–170, §532(c)(2)(A), substituted “section 1221(a)(1)” for “section 1221(1)”.
+<b>1999</b>—Subsec. (c)(1)(A)(i). Pub. L. 106–170, §532(c)(2)(A), substituted “section 1221(a)(1)” for “section 1221(1)”.
 
 Subsec. (h). Pub. L. 106–170, §511, substituted “2001” for “2000”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–312, title VII, §745(b), Dec. 17, 2010, 124 Stat. 3319, provided that: “The amendment made by this section \[amending this section\] shall apply to expenditures paid or incurred after December 31, 2009.”
 
 #### Effective Date of 2008 Amendment
 

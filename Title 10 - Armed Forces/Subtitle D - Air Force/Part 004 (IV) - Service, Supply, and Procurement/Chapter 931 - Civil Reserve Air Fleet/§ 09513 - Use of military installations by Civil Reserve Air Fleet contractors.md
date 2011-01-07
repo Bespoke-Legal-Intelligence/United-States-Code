@@ -24,7 +24,7 @@ Hold Harmless Requirement.—A contract entered into under subsection (a) shall 
 
 (e)
 
-Reservation of Right To Exclude Contractor.—A contract entered into under subsection (a) shall provide that the Secretary concerned may, without providing prior notice,deny access to an installation designated under the contract when the Secretary determines that it is necessary to do so in order to meet military exigencies.
+Reservation of Right To Exclude Contractor.—A contract entered into under subsection (a) shall provide that the Secretary concerned may, without providing prior notice, deny access to an installation designated under the contract when the Secretary determines that it is necessary to do so in order to meet military exigencies.
 
 (Added Pub. L. 103–355, title III, §3033(a), Oct. 13, 1994, 108 Stat. 3335.)
 
@@ -34,5 +34,5 @@ A prior section 9513, added Pub. L. 97–86, title IX, §915(2), Dec. 1, 1981, 9
 
 #### Effective Date
 
-For effective date and applicability, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 2302 of this title.
 

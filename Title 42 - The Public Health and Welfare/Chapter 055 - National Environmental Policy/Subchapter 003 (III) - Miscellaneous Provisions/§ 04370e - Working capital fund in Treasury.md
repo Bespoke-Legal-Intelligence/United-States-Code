@@ -12,7 +12,7 @@ Section was enacted as part of the Departments of Veterans Affairs and Housing a
 
 #### Amendments
 
-1998—Pub. L. 105–276, which directed the insertion of “or reimbursed” after “that such fund shall be paid in advance”, was executed by making the insertion after “That such fund shall be paid in advance”, to reflect the probable intent of Congress.
+<b>1998</b>—Pub. L. 105–276, which directed the insertion of “or reimbursed” after “that such fund shall be paid in advance”, was executed by making the insertion after “That such fund shall be paid in advance”, to reflect the probable intent of Congress.
 
-1997—Pub. L. 105–65 substituted “a ‘Working capital fund’ to be available without fiscal year limitation for expenses and equipment” for “a franchise fund pilot to be known as the ‘Working capital fund’, as authorized by section 403 of Public Law 103–356, to be available as provided in such section for expenses and equipment” and struck out proviso at end which read “: <i>Provided further</i>, That such franchise fund pilot shall terminate pursuant to section 403(f) of Public Law 103–356”.
+<b>1997</b>—Pub. L. 105–65 substituted “a ‘Working capital fund’ to be available without fiscal year limitation for expenses and equipment” for “a franchise fund pilot to be known as the ‘Working capital fund’, as authorized by section 403 of Public Law 103–356, to be available as provided in such section for expenses and equipment” and struck out proviso at end which read “: <i>Provided further</i>, That such franchise fund pilot shall terminate pursuant to section 403(f) of Public Law 103–356”.
 

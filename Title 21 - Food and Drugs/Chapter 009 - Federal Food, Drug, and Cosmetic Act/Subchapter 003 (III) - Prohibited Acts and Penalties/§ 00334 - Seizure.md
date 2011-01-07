@@ -36,7 +36,7 @@ The court at any time after seizure up to a reasonable time before trial shall b
 
 (2) The provisions of paragraph (1) of this subsection shall, to the extent deemed appropriate by the court, apply to any equipment or other thing which is not otherwise within the scope of such paragraph and which is referred to in paragraph (2) of subsection (a) of this section.
 
-(3) Whenever in any proceeding under this section, involving paragraph (2) of subsection (a) of this section, the condemnation of any equipment or thing (other than a drug) is decreed, the court shall allow the claim of any claimant, to the extent of such claimant's interest, for remission or mitigation of such forfeiture if such claimant proves to the satisfaction of the court (i) that he has not committed or caused to be committed any prohibited act referred to in such paragraph (2) and has no interest in any drug referred to therein, (ii) that he has an interest in such equipment or other thing as owner or lienor or otherwise, acquired by him in good faith, and (iii) that he at no time had anyknowledge or reason to believe that such equipment or other thing was being or would be used in, or to facilitate, the violation of laws of the United States relating to counterfeit drugs.
+(3) Whenever in any proceeding under this section, involving paragraph (2) of subsection (a) of this section, the condemnation of any equipment or thing (other than a drug) is decreed, the court shall allow the claim of any claimant, to the extent of such claimant's interest, for remission or mitigation of such forfeiture if such claimant proves to the satisfaction of the court (i) that he has not committed or caused to be committed any prohibited act referred to in such paragraph (2) and has no interest in any drug referred to therein, (ii) that he has an interest in such equipment or other thing as owner or lienor or otherwise, acquired by him in good faith, and (iii) that he at no time had any knowledge or reason to believe that such equipment or other thing was being or would be used in, or to facilitate, the violation of laws of the United States relating to counterfeit drugs.
 
 #### (e) Costs
 
@@ -74,7 +74,7 @@ In the case of removal for trial of any case as provided by subsection (a) or (b
 
 #### (A) In general
 
-&emsp;&emsp;An officer or qualified employee of the Food and Drug Administration may order the detention, in accordance with this subsection, of any article of food that is found during an inspection, examination, or investigation under this chapter conducted by such officer or qualified employee, if the officer or qualified employee has credible evidence or information indicating that such article presents a threat of serious adverse health consequences or death to humans or animals.
+&emsp;&emsp;An officer or qualified employee of the Food and Drug Administration may order the detention, in accordance with this subsection, of any article of food that is found during an inspection, examination, or investigation under this chapter conducted by such officer or qualified employee, if the officer or qualified employee has reason to believe that such article is adulterated or misbranded.
 
 #### (B) Secretary's approval
 
@@ -92,17 +92,19 @@ In the case of removal for trial of any case as provided by subsection (a) or (b
 
 #### (A) In general
 
-&emsp;&emsp;With respect to an article of food ordered detained under paragraph (1), any personwho would be entitled to be a claimant for such article if the article were seized under subsection (a) of this section may appeal the order to the Secretary. Within five days after such an appeal is filed, the Secretary, after providing opportunity for an informal hearing, shall confirm or terminate the order involved, and such confirmation by the Secretary shall be considered a final agency action for purposes of section 702 of title 5. If during such five-day period the Secretary fails to provide such an opportunity, or to confirm or terminate such order, the order is deemed to be terminated.
+&emsp;&emsp;With respect to an article of food ordered detained under paragraph (1), any person who would be entitled to be a claimant for such article if the article were seized under subsection (a) of this section may appeal the order to the Secretary. Within five days after such an appeal is filed, the Secretary, after providing opportunity for an informal hearing, shall confirm or terminate the order involved, and such confirmation by the Secretary shall be considered a final agency action for purposes of section 702 of title 5. If during such five-day period the Secretary fails to provide such an opportunity, or to confirm or terminate such order, the order is deemed to be terminated.
 
 #### (B) Effect of instituting court action
 
 &emsp;&emsp;The process under subparagraph (A) for the appeal of an order under paragraph (1) terminates if the Secretary institutes an action under subsection (a) of this section or section 332 of this title regarding the article of food involved.
 
-(June 25, 1938, ch. 675, §304, 52 Stat. 1044; June 24, 1948, ch. 613, §2, 62 Stat. 582; Aug. 7, 1953, ch. 350, §3, 67 Stat. 477; Pub. L. 85–250, Aug. 31, 1957, 71 Stat. 567; Pub. L. 89–74, §6, July 15, 1965, 79 Stat. 232; Pub. L. 90–639, §4(b), Oct. 24, 1968, 82 Stat. 1362; Pub. L. 91–513, title II, §701(c), (d), Oct. 27, 1970, 84 Stat. 1281, 1282; Pub. L. 94–278, title V, §502(a)(2)(C), Apr. 22, 1976, 90 Stat. 411; Pub. L. 94–295, §§3(c), 7(a), May 28, 1976, 90 Stat. 576, 582; Pub. L. 102–300, §6(c), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §3(f), Aug. 13, 1993, 107 Stat. 775; Pub. L. 105–115, title IV, §418, Nov. 21, 1997, 111 Stat. 2379; Pub. L. 107–188, title III, §303(a), June 12, 2002, 116 Stat. 663; Pub. L. 110–85, title IX, §912(b)(1), Sept. 27, 2007, 121 Stat. 952; Pub. L. 111–31, div. A, title I, §103(d), June 22, 2009, 123 Stat. 1836.)
+(June 25, 1938, ch. 675, §304, 52 Stat. 1044; June 24, 1948, ch. 613, §2, 62 Stat. 582; Aug. 7, 1953, ch. 350, §3, 67 Stat. 477; Pub. L. 85–250, Aug. 31, 1957, 71 Stat. 567; Pub. L. 89–74, §6, July 15, 1965, 79 Stat. 232; Pub. L. 90–639, §4(b), Oct. 24, 1968, 82 Stat. 1362; Pub. L. 91–513, title II, §701(c), (d), Oct. 27, 1970, 84 Stat. 1281, 1282; Pub. L. 94–278, title V, §502(a)(2)(C), Apr. 22, 1976, 90 Stat. 411; Pub. L. 94–295, §§3(c), 7(a), May 28, 1976, 90 Stat. 576, 582; Pub. L. 102–300, §6(c), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §3(f), Aug. 13, 1993, 107 Stat. 775; Pub. L. 105–115, title IV, §418, Nov. 21, 1997, 111 Stat. 2379; Pub. L. 107–188, title III, §303(a), June 12, 2002, 116 Stat. 663; Pub. L. 110–85, title IX, §912(b)(1), Sept. 27, 2007, 121 Stat. 952; Pub. L.111–31, div. A, title I, §103(d), June 22, 2009, 123 Stat. 1836; Pub. L. 111–353, title II, §207(a), Jan. 4, 2011, 124 Stat. 3944.)
 
 #### Amendments
 
-2009—Subsec. (a)(2)(E). Pub. L. 111–31, §103(d)(1), added cl. (E).
+<b>2011</b>—Subsec. (h)(1)(A). Pub. L. 111–353 substituted “reason to believe” for “credible evidence or information indicating” and “is adulterated or misbranded” for “presents a threat of serious adverse health consequences or death to humans or animals”.
+
+<b>2009</b>—Subsec. (a)(2)(E). Pub. L. 111–31, §103(d)(1), added cl. (E).
 
 Subsec. (d)(1). Pub. L. 111–31, §103(d)(2), inserted “tobacco product,” after “device,” in first sentence.
 
@@ -110,19 +112,19 @@ Subsec. (g)(1). Pub. L. 111–31, §103(d)(3), inserted “or tobacco product”
 
 Subsec. (g)(2)(A). Pub. L. 111–31, §103(d)(4), inserted “or tobacco product” after “device” in introductory provisions.
 
-2007—Subsec. (a)(1). Pub. L. 110–85 substituted “section 331(<i>ll</i>), 344, or 355” for “section 344 or 355”.
+<b>2007</b>—Subsec. (a)(1). Pub. L. 110–85 substituted “section 331(<i>ll</i>), 344, or 355” for “section 344 or 355”.
 
-2002—Subsec. (h). Pub. L. 107–188 added subsec. (h).
+<b>2002</b>—Subsec. (h). Pub. L. 107–188 added subsec. (h).
 
-1997—Subsec. (d)(1). Pub. L. 105–115 substituted “subparagraphs (A) and (B) of section 381(e)(1) of this title” for “paragraphs (1) and (2) of section 381(e) of this title” and inserted “Any person seeking to export an imported article pursuant to any of the provisions of this subsection shall establish that the article was intended for export at the time the article entered commerce.” before “Any article condemned by reason”.
+<b>1997</b>—Subsec. (d)(1). Pub. L. 105–115 substituted “subparagraphs (A) and (B) of section 381(e)(1) of this title” for “paragraphs (1) and (2) of section 381(e) of this title” and inserted “Any person seeking to export an imported article pursuant to any of the provisions of this subsection shall establish that the article was intended for export at the time the article entered commerce.” before “Any article condemned by reason”.
 
-1993—Subsec. (a)(1). Pub. L. 103–80, §3(f)(1), substituted “found. No libel” for “found: <i>Provided, however</i>, That no libel”.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–80, §3(f)(1), substituted “found. No libel” for “found: <i>Provided, however</i>, That no libel”.
 
 Subsec. (d)(1). Pub. L. 103–80, §3(f)(2), substituted “sold. After entry” for “sold: <i>Provided</i>, That after entry”, “met. The provisions of this sentence” for “met: <i>Provided, however</i>, That the provisions of this sentence”, “title. Where such exportation” for “title: <i>And provided further</i>, That where such exportation”, and “the preceding sentence shall not be applicable” for “the foregoing proviso shall not be applicable”.
 
-1992—Subsec. (d)(1). Pub. L. 102–300 substituted “381(e)” for “381(d)” in three places and “paragraphs” for “clauses” before “(1) and (2) of section 381(e)”.
+<b>1992</b>—Subsec. (d)(1). Pub. L. 102–300 substituted “381(e)” for “381(d)” in three places and “paragraphs” for “clauses” before “(1) and (2) of section 381(e)”.
 
-1976—Subsec. (a)(1). Pub. L. 94–295, §3(c)(1), struck out “device,” after “Any article of food, drug,”.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–295, §3(c)(1), struck out “device,” after “Any article of food, drug,”.
 
 Subsec. (a)(2). Pub. L. 94–295, §3(c)(2), (3), added cl. (D) covering adulterated or misbranded devices.
 
@@ -130,23 +132,27 @@ Subsec. (a)(3). Pub. L. 94–278 added par. (3).
 
 Subsec. (g). Pub. L. 94–295, §7(a), added subsec. (g).
 
-1970—Subsec. (a)(2). Pub. L. 91–513, §701(c), struck out cls. (A) and (D) which dealt with depressant or stimulant drugs, struck out reference to depressant or stimulant drugs in cl. (C), and redesignated cls. (B), (C), and (E) as cls. (A), (B), and (C), respectively.
+<b>1970</b>—Subsec. (a)(2). Pub. L. 91–513, §701(c), struck out cls. (A) and (D) which dealt with depressant or stimulant drugs, struck out reference to depressant or stimulant drugs in cl. (C), and redesignated cls. (B), (C), and (E) as cls. (A), (B), and (C), respectively.
 
 Subsec. (d)(3)(iii). Pub. L. 91–513, §701(d), struck out reference to depressant or stimulant drugs.
 
-1968—Subsec. (a). Pub. L. 90–639 inserted references to the United States courts of Territories.
+<b>1968</b>—Subsec. (a). Pub. L. 90–639 inserted references to the United States courts of Territories.
 
-1965—Subsec. (a). Pub. L. 89–74, §6(a), designated existing provisions as par. (1), redesignated cls. (1) and (2) of proviso as (A) and (B), and added par. (2).
+<b>1965</b>—Subsec. (a). Pub. L. 89–74, §6(a), designated existing provisions as par. (1), redesignated cls. (1) and (2) of proviso as (A) and (B), and added par. (2).
 
 Subsec. (b). Pub. L. 89–74, §6(b)(1), inserted “equipment, or other thing proceeded against” after “article” in first sentence.
 
 Subsec. (d). Pub. L. 89–74, §6(b)(2), designated existing provisions as par. (1), redesignated cls. (1) and (2) of the second sentence thereof as (A) and (B), and added pars. (2) and (3).
 
-1957—Subsec. (d). Pub. L. 85–250 permitted, under certain circumstances, reexportation of articles condemned at places other than original port of entry.
+<b>1957</b>—Subsec. (d). Pub. L. 85–250 permitted, under certain circumstances, reexportation of articles condemned at places other than original port of entry.
 
-1953—Subsec. (c). Act Aug. 7, 1953, provided that a true copy of the analysis in any case shall be furnished the owner.
+<b>1953</b>—Subsec. (c). Act Aug. 7, 1953, provided that a true copy of the analysis in any case shall be furnished the owner.
 
-1948—Subsec. (a). Act June 24, 1948, inserted “or while held for sale (whether or not the first sale) after shipment in interstate commerce” to make this subsection coextensive with section 331(k) of this title.
+<b>1948</b>—Subsec. (a). Act June 24, 1948, inserted “or while held for sale (whether or not the first sale) after shipment in interstate commerce” to make this subsection coextensive with section 331(k) of this title.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–353, title II, §207(c), Jan. 4, 2011, 124 Stat. 3944, provided that: “The amendment made by this section \[amending this section\] shall take effect 180 days after the date of enactment of this Act \[Jan. 4, 2011\].”
 
 #### Effective Date of 1997 Amendment
 
@@ -168,9 +174,17 @@ Amendment by Pub. L. 90–639 applicable only with respect to violations of this
 
 Amendment by Pub. L. 89–74 effective Feb. 1, 1966, see section 11 of Pub. L. 89–74, set out as a note under section 321 of this title.
 
+#### Regulations
+
+Pub. L. 111–353, title II, §207(b), Jan. 4, 2011, 124 Stat. 3944, provided that: “Not later than 120 days after the date of enactment of this Act \[Jan. 4, 2011\], the Secretary shall issue an interim final rule amending subpart K of part 1 of title 21, Code of Federal Regulations, to implement the amendment made by this section \[amending this section\].”
+
 #### Savings Provision
 
 Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for any violation of law or any civil seizures or forfeitures and injunctive proceedings commenced prior to the effective date of such amendment, and all administrative proceedings pending before the Bureau of Narcotics and Dangerous Drugs \[now the Drug Enforcement Administration\] on Oct. 27, 1970, to be continued and brought to final determination in accord with laws and regulations in effect prior to Oct. 27, 1970, see section 702 of Pub. L. 91–513, set out as a note under section 321 of this title.
+
+#### Construction of 2011 Amendment
+
+Nothing in amendment by Pub. L. 111–353 to be construed to alter jurisdiction and authorities established under certain other Acts or in a manner inconsistent with international agreements to which the United States is a party, see sections 2251 and 2252 of this title.
 
 #### Transfer of Functions
 

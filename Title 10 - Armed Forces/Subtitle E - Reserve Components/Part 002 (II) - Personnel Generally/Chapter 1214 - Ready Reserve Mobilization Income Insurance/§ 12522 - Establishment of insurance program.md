@@ -16,7 +16,7 @@ Agreement With Secretary of Homeland Security.—The Secretary and the Secretary
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–296 substituted “Homeland Security” for “Transportation” in heading and text.
+<b>2002</b>—Subsec. (c). Pub. L. 107–296 substituted “Homeland Security” for “Transportation” in heading and text.
 
 #### Effective Date of 2002 Amendment
 

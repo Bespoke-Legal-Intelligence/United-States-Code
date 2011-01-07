@@ -10,13 +10,13 @@
 
 &emsp;(4) approximately nine thousand six hundred and thirty-eight acres, and to exclude from the park approximately three thousand three hundred and fifty-two acres, as generally depicted on the maps entitled “Boundary Modifications, Olympic National Forest and Olympic National Park”, numbered 149/60,030A, sheets 1 through 9, and dated September 1986, which shall be on file and available for public inspection in the office of the National Park Service, United States Department of the Interior.
 
-(b) The boundary of Olympic National Forest, Washington, is hereby revised to include in the national forest approximately three thousand three hundred and fifty-two acres and to exclude from the national forest approximately nine thousand three hundred and twenty-four acres, as generally depicted on the maps entitled “Boundary Modifications, Olympic National Forest and Olympic National Park”, numbered 149/60,030A, sheets 1 through 9, and dated September 1986, which shall be on file and available for public inspection in the office of the Forest Service, United States Department of Agriculture.
+(b) The boundary of Olympic National Forest, Washington, is hereby revised to include in the national forest approximately three thousand three hundred and fifty-two acres and to exclude from the national forest approximately nine thousand three hundred and twenty-four acres,as generally depicted on the maps entitled “Boundary Modifications, Olympic National Forest and Olympic National Park”, numbered 149/60,030A, sheets 1 through 9, and dated September 1986, which shall be on file and available for public inspection in the office of the Forest Service, United States Department of Agriculture.
 
 (Pub. L. 99–635, §1(a), (b), Nov. 7, 1986, 100 Stat. 3527; Pub. L. 100–668, title I, §104(c)(1)–(3), Nov. 16, 1988, 102 Stat. 3962.)
 
 #### Amendments
 
-1988—Subsec. (a)(2). Pub. L. 100–668, §104(c)(1), (2), inserted “, above the point of lowest low tide,” after “islands”, substituted “34 minutes north” for “38 minutes north”, and inserted proviso at end.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–668, §104(c)(1), (2), inserted “, above the point of lowest low tide,” after “islands”, substituted “34 minutes north” for “38 minutes north”, and inserted proviso at end.
 
 Subsec. (b). Pub. L. 100–668, §104(c)(3), substituted “sheets 1 through 9” for “sheets 1 through 10”.
 
@@ -34,7 +34,7 @@ Sec. 2. (a) Federal lands, waters, and interests therein formerly within the bou
 
 Sec. 3. (a) The Secretary of the Interior is authorized to acquire by donation, purchase with donated or appropriated funds, exchange, bequest or otherwise any non-Federal lands, waters, and interests therein included within the boundary of Olympic National Park pursuant to section 1 of this Act \[16 U.S.C. 251n\]: <i>Provided</i>: That any lands, waters, or interests therein owned by the State of Washington or any political subdivision thereof may be acquired only by donation or exchange.
 
-“(b) For the purpose of section 7 of the Land and Water Conservation Fund Act of 1965 (78 Stat. 903, asamended; 16 U.S.C. 460<i>l</i>–9), the boundary of the Olympic National Forest, as modified pursuant to section 1 of this Act \[16 U.S.C. 251n\], shall be treated as if it was the boundary of that national forest on January 1, 1965.
+“(b) For the purpose of section 7 of the Land and Water Conservation Fund Act of 1965 (78 Stat. 903, as amended; 16 U.S.C. 460<i>l</i>–9), the boundary of the Olympic National Forest, as modified pursuant to section 1 of this Act \[16 U.S.C. 251n\], shall be treated as if it was the boundary of that national forest on January 1, 1965.
 
 “Sec. 4. Effective upon acceptance thereof by the State of Washington, the jurisdiction which the United States acquired over those lands excluded from the boundaries of Olympic National Park by this Act \[enacting this section and this note\] is hereby retroceded to the State.
 

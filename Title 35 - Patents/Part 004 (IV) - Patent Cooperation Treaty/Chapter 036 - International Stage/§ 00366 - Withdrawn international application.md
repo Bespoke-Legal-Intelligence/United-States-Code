@@ -6,7 +6,7 @@ Subject to section 367 of this part, if an international application designating
 
 #### Amendments
 
-1984—Pub. L. 98–622 inserted “after the date of withdrawal,” after “effect” and “, unless a claim for the benefit of a prior filing date under section 365(c) of this part was made in a national application, or an international application designating the United States, filed before the date of such withdrawal” after “having been made” in first sentence, and inserted “withdrawn” after “such” in second sentence.
+<b>1984</b>—Pub. L. 98–622 inserted “after the date of withdrawal,” after “effect” and “, unless a claim for the benefit of a prior filing date under section 365(c) of this part was made in a national application, or an international application designating the United States, filed before the date of such withdrawal” after “having been made” in first sentence, and inserted “withdrawn” after “such” in second sentence.
 
 #### Effective Date of 1984 Amendment
 

@@ -1,6 +1,6 @@
 ### §1919. Dismissal for lack of jurisdiction
 
-Whenever any action or suit is dismissed in any district court, the Court of International Trade, or the Court of Federal Claims for want of jurisdiction, such court may order the payment of just costs.
+Whenever any action or suit is dismissed in any district court, the Court of InternationalTrade, or the Court of Federal Claims for want of jurisdiction, such court may order the payment of just costs.
 
 (June 25, 1948, ch. 646, 62 Stat. 955; Pub. L. 96–417, title V, §510, Oct. 10, 1980, 94 Stat. 1743; Pub. L. 102–572, title IX, §908(a), (b)(1), Oct. 29, 1992, 106 Stat. 4519.)
 
@@ -14,9 +14,9 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “Dismissal” for “District courts; dismissal” in section catchline and inserted reference to Court of Federal Claims in text.
+<b>1992</b>—Pub. L. 102–572 substituted “Dismissal” for “District courts; dismissal” in section catchline and inserted reference to Court of Federal Claims in text.
 
-1980—Pub. L. 96–417 included dismissals in Court of International Trade for want of jurisdiction.
+<b>1980</b>—Pub. L. 96–417 included dismissals in Court of International Trade for want of jurisdiction.
 
 #### Effective Date of 1992 Amendment
 

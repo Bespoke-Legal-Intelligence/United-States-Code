@@ -18,7 +18,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) 98 percent of the regulated investment company's ordinary income for such calendar year, plus
 
-&emsp;&emsp;(B) 98 percent of the regulated investment company's capital gain net income for the 1-year period ending on October 31 of such calendar year.
+&emsp;&emsp;(B) 98.2 percent of the regulated investment company's capital gain net income for the 1-year period ending on October 31 of such calendar year.
 
 #### (2) Increase by prior year shortfall
 
@@ -64,6 +64,20 @@ For purposes of this section—
 
 &emsp;&emsp;(B) any exempt-interest dividend as defined in section 852(b)(5).
 
+#### (4) Special rule for estimated tax payments
+
+#### (A) In general
+
+&emsp;&emsp;In the case of a regulated investment company which elects the application of this paragraph for any calendar year—
+
+&emsp;&emsp;&emsp;(i) the distributed amount with respect to such company for such calendar year shall be increased by the amount on which qualified estimated tax payments are made by such company during such calendar year, and
+
+&emsp;&emsp;&emsp;(ii) the distributed amount with respect to such company for the following calendar year shall be reduced by the amount of such increase.
+
+#### (B) Qualified estimated tax payments
+
+&emsp;&emsp;For purposes of this paragraph, the term “qualified estimated tax payments” means, with respect to any calendar year, payments of estimated tax of a tax described in paragraph (1)(B) for any taxable year which begins (but does not end) in such calendar year.
+
 #### (d) Time for payment of tax
 
 The tax imposed by this section for any calendar year shall be paid on or before March 15 of the following calendar year.
@@ -86,7 +100,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “capital gain net income” has the meaning given such term by section 1222(9) (determined by treating the 1-year period ending on October 31 of any calendar year as the company's taxable year).
+&emsp;&emsp;Except as provided in subparagraph (B), the term “capital gain net income” has themeaning given such term by section 1222(9) (determined by treating the 1-year period ending on October 31 of any calendar year as the company's taxable year).
 
 #### (B) Reduction by net ordinary loss for calendar year
 
@@ -128,45 +142,95 @@ For purposes of this section—
 
 &emsp;&emsp;An election under this paragraph, once made, may be revoked only with the consent of the Secretary.
 
-#### (5) Treatment of foreign currency gains and losses after October 31 of calendar year
+#### (5) Treatment of specified gains and losses after October 31 of calendar year
 
-&emsp;Any foreign currency gain or loss which is attributable to a section 988 transaction and which is properly taken into account for the portion of the calendar year after October 31 shall not be taken into account in determining the amount of the ordinary income of the regulated investment company for such calendar year but shall be taken into account in determining the ordinary income of the investment company for the following calendar year. In the case of any company making an election under paragraph (4), the preceding sentence shall be applied by substituting the last day of the company's taxable year for October 31.
+#### (A) In general
 
-#### (6) Treatment of gain recognized under section 1296
+&emsp;&emsp;Any specified gain or specified loss which (but for this paragraph) would be properly taken into account for the portion of the calendar year after October 31 shall be treated as arising on January 1 of the following calendar year.
 
-&emsp;For purposes of determining a regulated investment company's ordinary income—
+#### (B) Specified gains and losses
 
-&emsp;&emsp;(A) notwithstanding paragraph (1)(C), section 1296 shall be applied as if such company's taxable year ended on October 31, and
+&emsp;&emsp;For purposes of this paragraph—
 
-&emsp;&emsp;(B) any ordinary gain or loss from an actual disposition of stock in a passive foreign investment company during the portion of the calendar year after October 31 shall be taken into account in determining such regulated investment company's ordinary income for the following calendar year.
+#### (i) Specified gain
 
-> &emsp;In the case of a company making an election under paragraph (4), the preceding sentence shall be applied by substituting the last day of the company's taxable year for October 31.
+&emsp;&emsp;&emsp;The term “specified gain” means ordinary gain from the sale, exchange, or other disposition of property (including the termination of a position with respect to such property). Such term shall include any foreign currency gain attributable to a section 988 transaction (within the meaning of section 988) and any amount includible in gross income under section 1296(a)(1).
+
+#### (ii) Specified loss
+
+&emsp;&emsp;&emsp;The term “specified loss” means ordinary loss from the sale, exchange, or other disposition of property (including the termination of a position with respect to such property). Such term shall include any foreign currency loss attributable to a section 988 transaction (within the meaning of section 988) and any amount allowable as a deduction under section 1296(a)(2).
+
+#### (C) Special rule for companies electing to use the taxable year
+
+&emsp;&emsp;In the case of any company making an election under paragraph (4), subparagraph (A) shall be applied by substituting the last day of the company's taxable year for October 31.
+
+#### (6) Treatment of mark to market gain
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of determining a regulated investment company's ordinary income, notwithstanding paragraph (1)(C), each specified mark to market provision shall be applied as if such company's taxable year ended on October 31. In the case of a company making an election under paragraph (4), the preceding sentence shall be applied by substituting the last day of the company's taxable year for October 31.
+
+#### (B) Specified mark to market provision
+
+&emsp;&emsp;For purposes of this paragraph, the term “specified mark to market provision” means sections 1256 and 1296 and any other provision of this title (or regulations thereunder) which treats property as disposed of on the last day of the taxable year.
+
+#### (7) Elective deferral of certain ordinary losses
+
+&emsp;Except as provided in regulations prescribed by the Secretary, in the case of a regulated investment company which has a taxable year other than the calendar year—
+
+&emsp;&emsp;(A) such company may elect to determine its ordinary income for the calendar year without regard to any net ordinary loss (determined without regard to specified gains and losses taken into account under paragraph (5)) which is attributable to the portion of such calendar year which is after the beginning of the taxable year which begins in such calendar year, and
+
+&emsp;&emsp;(B) any amount of net ordinary loss not taken into account for a calendar year by reason of subparagraph (A) shall be treated as arising on the 1st day of the following calendar year.
 
 #### (f) Exception for certain regulated investment companies
 
-This section shall not apply to any regulated investment company for any calendar year if at all times during such calendar year each shareholder in such company was either—
+This section shall not apply to any regulated investment company for any calendar year if atall times during such calendar year each shareholder in such company was—
 
-&emsp;(1) a trust described in section 401(a) and exempt from tax under section 501(a), or
+&emsp;(1) a trust described in section 401(a) and exempt from tax under section 501(a),
 
-&emsp;(2) a segregated asset account of a life insurance company held in connection with variable contracts (as defined in section 817(d)).
+&emsp;(2) a segregated asset account of a life insurance company held in connection with variable contracts (as defined in section 817(d)) <sup>1</sup>
+
+&emsp;(3) any other tax-exempt entity whose ownership of beneficial interests in the company would not preclude the application of section 817(h)(4), or
+
+&emsp;(4) another regulated investment company described in this subsection.
 
 > For purposes of the preceding sentence, any shares attributable to an investment in the regulated investment company (not exceeding $250,000) made in connection with the organization of such company shall not be taken into account.
 
-(Added Pub. L. 99–514, title VI, §651(a), Oct. 22, 1986, 100 Stat. 2294; amended Pub. L. 100–203, title X, §10104(b)(1), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §1006(<i>l</i>)(2), (5), (6), Nov. 10, 1988, 102 Stat. 3413, 3414; Pub. L. 101–239, titleVII, §7204(a)(1), Dec. 19, 1989, 103 Stat. 2334; Pub. L. 105–34, title XI, §1122(c)(1), Aug. 5, 1997, 111 Stat. 976.)
+(Added Pub. L. 99–514, title VI, §651(a), Oct. 22, 1986, 100 Stat. 2294; amended Pub. L. 100–203, title X, §10104(b)(1), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §1006(<i>l</i>)(2), (5), (6), Nov. 10, 1988, 102 Stat. 3413, 3414; Pub. L. 101–239, title VII, §7204(a)(1), Dec. 19, 1989, 103 Stat. 2334; Pub. L. 105–34, title XI, §1122(c)(1), Aug. 5, 1997, 111 Stat. 976; Pub. L. 111–325, title IV, §§401(a), 402(a), 403(a), 404(a), Dec. 22, 2010, 124 Stat. 3552–3554.)
 
 #### Amendments
 
-1997—Subsec. (e)(6). Pub. L. 105–34 added par. (6).
+<b>2010</b>—Subsec. (b)(1)(B). Pub. L. 111–325, §404(a), substituted “98.2 percent” for “98 percent”.
 
-1989—Subsec. (b)(1)(A). Pub. L. 101–239 substituted “98 percent” for “97 percent”.
+Subsec. (c)(4). Pub. L. 111–325, §403(a), added par. (4).
 
-1988—Subsec. (e)(2). Pub. L. 100–647, §1006(<i>l</i>)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘capital gain net income’ has the meaning given to such term by section 1222(9) (determined by treating the 1-year period ending on October 31 of any calendar year as the company's taxable year).”
+Subsec. (e)(5) to (7). Pub. L. 111–325, §402(a), added pars. (5) to (7) and struck out former pars. (5) and (6) which related to treatment of foreign currency gains and losses after October 31 of calendar year and treatment of gain recognized under section 1296, respectively.
+
+Subsec. (f). Pub. L. 111–325, §401(a)(1), struck out “either” before dash at end of introductory provisions.
+
+Subsec. (f)(3), (4). Pub. L. 111–325, §401(a)(2)–(4), added pars. (3) and (4).
+
+<b>1997</b>—Subsec. (e)(6). Pub. L. 105–34 added par. (6).
+
+<b>1989</b>—Subsec. (b)(1)(A). Pub. L. 101–239 substituted “98 percent” for “97 percent”.
+
+<b>1988</b>—Subsec. (e)(2). Pub. L. 100–647, §1006(<i>l</i>)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘capital gain net income’ has the meaning given to such term by section 1222(9) (determined by treating the 1-year period ending on October 31 of any calendar year as the company's taxable year).”
 
 Subsec. (e)(5). Pub. L. 100–647, §1006(<i>l</i>)(5), added par. (5).
 
 Subsec. (f). Pub. L. 100–647, §1006(<i>l</i>)(6), added subsec. (f).
 
-1987—Subsec. (b)(1)(B). Pub. L. 100–203 substituted “98 percent” for “90 percent”.
+<b>1987</b>—Subsec. (b)(1)(B). Pub. L. 100–203 substituted “98 percent” for “90 percent”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–325, title IV, §401(b), Dec. 22, 2010, 124 Stat. 3552, provided that: “The amendment made by this section \[amending this section\] shall apply to calendar years beginning after the date of the enactment of this Act \[Dec. 22, 2010\].”
+
+Pub. L. 111–325, title IV, §402(b), Dec. 22, 2010, 124 Stat. 3553, provided that: “The amendments made by this section \[amending this section\] shall apply to calendar years beginning after the date of the enactment of this Act \[Dec. 22, 2010\].”
+
+Pub. L. 111–325, title IV, §403(b), Dec. 22, 2010, 124 Stat. 3554, provided that: “The amendment made by this section \[amending this section\] shall apply to calendar years beginning after the date of the enactment of this Act \[Dec. 22, 2010\].”
+
+Pub. L. 111–325, title IV, §404(b), Dec. 22, 2010, 124 Stat. 3554, provided that: “The amendments made by this section \[amending this section\] shall apply to calendar years beginning after the date of the enactment of this Act \[Dec. 22, 2010\].”
 
 #### Effective Date of 1997 Amendment
 
@@ -187,4 +251,6 @@ Section 10104(b)(2) of Pub. L. 100–203 provided that: “The amendment made by
 #### Effective Date
 
 Section 651(d) of Pub. L. 99–514 provided that: “The amendments made by this section \[enacting this section and amending sections 852 and 855 of this title\] shall apply to calendar years beginning after December 31, 1986.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

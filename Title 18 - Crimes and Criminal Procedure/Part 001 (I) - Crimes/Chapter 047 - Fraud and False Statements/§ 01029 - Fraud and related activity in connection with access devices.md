@@ -24,7 +24,7 @@
 
 &emsp;(9) knowingly uses, produces, traffics in, has control or custody of, or possesses hardware or software, knowing it has been configured to insert or modify telecommunication identifying information associated with or contained in a telecommunications instrument so that such instrument may be used to obtain telecommunications service without authorization; or
 
-&emsp;(10) without the authorization of the credit card system member or its agent, knowingly and with intent to defraud causes or arranges for another person to present to the member or its agent, for payment, 1 or more evidences or records of transactions made by an access device;
+&emsp;(10) without the authorization of the credit card system member or its agent, knowinglyand with intent to defraud causes or arranges for another person to present to the member or its agent, for payment, 1 or more evidences or records of transactions made by an access device;
 
 > shall, if the offense affects interstate or foreign commerce, be punished as provided in subsection (c) of this section.
 
@@ -44,7 +44,7 @@ Generally.—The punishment for an offense under subsection (a) of this section 
 
 &emsp;&emsp;&emsp;(i) if the offense is under paragraph (1), (2), (3), (6), (7), or (10) of subsection (a), a fine under this title or imprisonment for not more than 10 years, or both; and
 
-&emsp;&emsp;&emsp;(ii) if the offense is under paragraph (4), (5), (8), or (9) of subsection (a), a fine underthis title or imprisonment for not more than 15 years, or both;
+&emsp;&emsp;&emsp;(ii) if the offense is under paragraph (4), (5), (8), or (9) of subsection (a), a fine under this title or imprisonment for not more than 15 years, or both;
 
 &emsp;&emsp;(B) in the case of an offense that occurs after a conviction for another offense under this section, a fine under this title or imprisonment for not more than 20 years, or both; and
 
@@ -82,7 +82,7 @@ Forfeiture procedure.—The forfeiture of property under this section, including
 
 (f) This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a political subdivision of a State, or of an intelligence agency of the United States, or any activity authorized under chapter 224 of this title. For purposes of this subsection, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(g)(1) It is not a violation of subsection (a)(9) for an officer, employee, or agent of, or a person engaged in business with, a facilities-based carrier, to engage in conduct (other than trafficking) otherwise prohibited by that subsection for the purpose of protecting the property or legal rights of that carrier, unless such conduct is for the purpose of obtaining telecommunications service provided by another facilities-based carrier without the authorization of such carrier.
+(g)(1) It is not a violation of subsection (a)(9) for an officer, employee, or agent of, or a person engaged in business with, a facilities-based carrier, to engage in conduct (other than trafficking) otherwise prohibited by that subsection forthe purpose of protecting the property or legal rights of that carrier, unless such conduct is for the purpose of obtaining telecommunications service provided by another facilities-based carrier without the authorization of such carrier.
 
 (2) In a prosecution for a violation of subsection (a)(9), (other than a violation consisting of producing or trafficking) it is an affirmative defense (which the defendant must establish by a preponderance of the evidence) that the conduct charged was engaged in for research or development in connection with a lawful purpose.
 
@@ -92,7 +92,7 @@ Forfeiture procedure.—The forfeiture of property under this section, including
 
 &emsp;(2) the person transports, delivers, conveys, transfers to or through, or otherwise stores, secrets, or holds within the jurisdiction of the United States, any article used to assist in the commission of the offense or the proceeds of such offense or property derived therefrom.
 
-(Added Pub. L. 98–473, title II, §1602(a), Oct. 12, 1984, 98 Stat. 2183; amended Pub. L. 99–646, §44(b), Nov. 10, 1986, 100 Stat. 3601; Pub. L. 101–647, title XII, §1205(f), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXV, §250007, title XXXIII,§330016(2)(I), Sept. 13, 1994, 108 Stat. 2087, 2148; Pub. L. 103–414, title II, §206, Oct. 25, 1994, 108 Stat. 4291; Pub. L. 104–294, title VI, §601(<i>l</i>), Oct. 11, 1996, 110 Stat. 3501; Pub. L. 105–172, §2(a)–(d), Apr. 24, 1998, 112 Stat. 53, 54; Pub. L. 107–56, title III, §377, Oct. 26, 2001, 115 Stat. 342; Pub. L. 107–273, div. B, title IV, §4002(b)(11), Nov. 2, 2002, 116 Stat. 1808.)
+(Added Pub. L. 98–473, title II, §1602(a), Oct. 12, 1984, 98 Stat. 2183; amended Pub. L. 99–646, §44(b), Nov. 10, 1986, 100 Stat. 3601; Pub. L. 101–647, title XII, §1205(f), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXV, §250007, title XXXIII, §330016(2)(I), Sept. 13, 1994, 108 Stat. 2087, 2148; Pub. L. 103–414, title II, §206, Oct. 25, 1994, 108 Stat. 4291; Pub. L. 104–294, title VI, §601(<i>l</i>), Oct. 11, 1996, 110 Stat. 3501; Pub. L. 105–172, §2(a)–(d), Apr. 24, 1998, 112 Stat. 53, 54; Pub. L. 107–56, title III, §377, Oct. 26, 2001, 115 Stat. 342; Pub. L. 107–273, div. B, title IV, §4002(b)(11), Nov. 2, 2002, 116 Stat. 1808.)
 
 #### References in Text
 
@@ -102,13 +102,13 @@ The Communications Act of 1934, referred to in subsec. (e)(10), is act June 19, 
 
 #### Amendments
 
-2002—Subsec. (c)(1)(A)(ii). Pub. L. 107–273, §4002(b)(11)(A), substituted “(9)” for “(9),”.
+<b>2002</b>—Subsec. (c)(1)(A)(ii). Pub. L. 107–273, §4002(b)(11)(A), substituted “(9)” for “(9),”.
 
 Subsec. (e)(8). Pub. L. 107–273, §4002(b)(11)(B), inserted semicolon at end.
 
-2001—Subsec. (h). Pub. L. 107–56 added subsec. (h).
+<b>2001</b>—Subsec. (h). Pub. L. 107–56 added subsec. (h).
 
-1998—Subsec. (a)(8) to (10). Pub. L. 105–172, §2(a), added pars. (8) and (9), redesignated former par. (9) as (10), and struck out former par. (8) which read as follows: “knowingly and with intent to defraud uses, produces, traffics in, has control or custody of, or possesses—
+<b>1998</b>—Subsec. (a)(8) to (10). Pub. L. 105–172, §2(a), added pars. (8) and (9), redesignated former par. (9) as (10), and struck out former par. (8) which read as follows: “knowingly and with intent to defraud uses, produces, traffics in, has control or custody of, or possesses—
 
 &emsp;“(A) a scanning receiver; or
 
@@ -130,7 +130,7 @@ Subsec. (e)(9) to (11). Pub. L. 105–172, §2(d)(2), added pars. (9) to (11).
 
 Subsec. (g). Pub. L. 105–172, §2(d)(1), added subsec. (g).
 
-1996—Subsec. (a)(5). Pub. L. 104–294, §601(<i>l</i>)(1)(A), redesignated par. (5), relating to instruments that have been modified or altered to obtain unauthorized access to telecommunications services, as (7).
+<b>1996</b>—Subsec. (a)(5). Pub. L. 104–294, §601(<i>l</i>)(1)(A), redesignated par. (5), relating to instruments that have been modified or altered to obtain unauthorized access to telecommunications services, as (7).
 
 Subsec. (a)(6). Pub. L. 104–294, §601(<i>l</i>)(1)(C), in par. (6) relating to solicitations, struck out “or” at end.
 
@@ -150,7 +150,7 @@ Subsec. (c)(2). Pub. L. 104–294, §601(<i>l</i>)(3)(B), substituted “(6), (7
 
 Subsec. (e)(7), (8). Pub. L. 104–294, §601(<i>l</i>)(2), redesignated par. (7), defining “scanning receiver”, as (8).
 
-1994—Subsec. (a)(3). Pub. L. 103–322, §250007(1)(A), and Pub. L. 103–414, §206(a)(1), amended par. (3) identically, striking “or” at end.
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–322, §250007(1)(A), and Pub. L. 103–414, §206(a)(1), amended par. (3) identically, striking “or” at end.
 
 Subsec. (a)(5). Pub. L. 103–414, §206(a)(2), added par. (5) relating to instruments that have been modified or altered to obtain unauthorized use of telecommunications services.
 
@@ -180,9 +180,9 @@ Subsec. (e)(7). Pub. L. 103–414, §206(c)(4), added par. (7) defining “scann
 
 Pub. L. 103–322, §250007(3)(C), added par. (7) defining “credit card system member”.
 
-1990—Subsec. (f). Pub. L. 101–647 inserted at end “For purposes of this subsection, the term ‘State’ includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.”
+<b>1990</b>—Subsec. (f). Pub. L. 101–647 inserted at end “For purposes of this subsection, the term ‘State’ includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.”
 
-1986—Subsec. (f). Pub. L. 99–646 which directed that subsec. (f) be amended by substituting “chapter 224 of this title” for “title V of the Organized Crime Control Act of 1970 (18 U.S.C. note prec. 3481)” was executed by making the substitution for “title V of the Organized Crime Control Act of 1970) 18 U.S.C. note prec. 3481)” to reflect the probable intent of Congress.
+<b>1986</b>—Subsec. (f). Pub. L. 99–646 which directed that subsec. (f) be amended by substituting “chapter 224 of this title” for “title V of the Organized Crime Control Act of 1970 (18 U.S.C. note prec. 3481)” was executed by making the substitution for “title V of the Organized Crime Control Act of 1970) 18 U.S.C. note prec. 3481)” to reflect the probable intent of Congress.
 
 #### Transfer of Functions
 

@@ -1,6 +1,6 @@
 ### §1071. Concealing person from arrest
 
-Whoever harbors or conceals any person for whose arrest a warrant or process has been issued under the provisions of any law of the United States, so as to prevent his discovery and arrest, after notice or knowledge of the fact thata warrant or process has been issued for the apprehension of such person, shall be fined under this title or imprisoned not more than one year, or both; except that if the warrant or process issued on a charge of felony, or after conviction of such person of any offense, the punishment shall be a fine under this title, or imprisonment for not more than five years, or both.
+Whoever harbors or conceals any person for whose arrest a warrant or process has been issued under the provisions of any law of the United States, so as to prevent his discovery and arrest, after notice or knowledge of the fact that a warrant or process has been issued for the apprehension of such person, shall be fined under this title or imprisoned not more than one year, or both; except that if the warrant or process issued on a charge of felony, or after conviction of such person of any offense, the punishment shall be a fine under this title, or imprisonment for not more than five years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 755; Aug. 20, 1954, ch. 771, 68 Stat. 747; Pub. L. 103–322, title XXXIII, §330016(1)(H), (K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–273, div. B, title IV, §4003(a)(3), Nov. 2, 2002, 116 Stat. 1811.)
 
@@ -14,9 +14,9 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-2002—Pub. L. 107–273 substituted “fine under this title” for “fine of under this title”.
+<b>2002</b>—Pub. L. 107–273 substituted “fine under this title” for “fine of under this title”.
 
-1994—Pub. L. 103–322 substituted “under this title” for “not more than $1,000” after “person, shall be fined” and for “not more than $5,000” after “shall be a fine of”.
+<b>1994</b>—Pub. L. 103–322 substituted “under this title” for “not more than $1,000” after “person, shall be fined” and for “not more than $5,000” after “shall be a fine of”.
 
-1954—Act Aug. 20, 1954, increased the penalty from 6 months to 1 year where the violator harbored a person for whom process has been issued on a misdemeanor charge and inserted the penalty provision where the violation occurred after a person has been convicted of any offense or where a process has been issued for a felony.
+<b>1954</b>—Act Aug. 20, 1954, increased the penalty from 6 months to 1 year where the violator harbored a person for whom process has been issued on a misdemeanor charge and inserted the penalty provision where the violation occurred after a person has been convicted of any offense or where a process has been issued for a felony.
 

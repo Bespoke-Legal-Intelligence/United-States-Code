@@ -24,19 +24,21 @@ As used in this chapter, the term—
 
 #### References in Text
 
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–498, Oct. 29, 1974, 88 Stat. 1535, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
+
 For definition of Canal Zone, referred to in par. (8), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
 
-2008—Par. (3). Pub. L. 110–376, §10(1), substituted “Administration, within the Federal Emergency Management Agency” for “Administration”.
+<b>2008</b>—Par. (3). Pub. L. 110–376, §10(1), substituted “Administration, within the Federal Emergency Management Agency” for “Administration”.
 
 Par. (9). Pub. L. 110–376, §10(2)–(4), added par. (9).
 
-2000—Pars. (7) to (9). Pub. L. 106–503 inserted “and” after semicolon in par. (7), redesignated par. (9) as (8), and struck out former par. (8) which read as follows: “ ‘Secretary’ means the Secretary of Commerce; and”.
+<b>2000</b>—Pars. (7) to (9). Pub. L. 106–503 inserted “and” after semicolon in par. (7), redesignated par. (9) as (8), and struck out former par. (8) which read as follows: “ ‘Secretary’ means the Secretary of Commerce; and”.
 
-1990—Pars. (4) to (9). Pub. L. 101–391 added pars. (4) and (7) and redesignated former pars. (4), (5), (6), and (7) as (5), (6), (8), and (9), respectively.
+<b>1990</b>—Pars. (4) to (9). Pub. L. 101–391 added pars. (4) and (7) and redesignated former pars. (4), (5), (6), and (7) as (5), (6), (8), and (9), respectively.
 
-1978—Pars. (2), (3). Pub. L. 95–422 substituted “United States Fire Administration” for “National Fire Prevention and Control Administration”.
+<b>1978</b>—Pars. (2), (3). Pub. L. 95–422 substituted “United States Fire Administration” for “National Fire Prevention and Control Administration”.
 
 #### Change of Name
 

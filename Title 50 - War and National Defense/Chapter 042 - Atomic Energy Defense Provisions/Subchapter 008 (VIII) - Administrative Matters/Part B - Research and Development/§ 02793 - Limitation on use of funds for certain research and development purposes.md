@@ -12,7 +12,7 @@ No funds authorized to be appropriated or otherwise made available to the Depart
 
 (3) Each report shall set forth the criteria utilized by the officials preparing the report in determining whether or not the activities reviewed by such officials support the national security mission of the Department.
 
-(Pub. L. 107–314, div. D, title XLVIII, §4812A, formerly Pub. L. 104–201, div. C, title XXXI, §3136, Sept. 23, 1996, 110 Stat. 2830; Pub. L. 107–314, div. D, title XLVIII, §4812(c), formerly Pub. L. 105–85, div. C, title XXXI, §3137(c), Nov. 18, 1997, 111 Stat. 2039, renumbered Pub. L. 107–314, div. D, title XLVIII, §4812(c), by Pub. L. 108–136, div. C, title XXXI, §3141(k)(7)(A)(i)–(iii), Nov. 24, 2003, 117 Stat. 1784; renumbered Pub. L. 107–314, div. D, title XLVIII, §4812A, and amended Pub. L. 108–136, div. C, title XXXI, §3141(k)(7)(B), Nov. 24, 2003, 117 Stat. 1784.)
+(Pub. L. 107–314, div. D, title XLVIII, §4812A, formerly Pub. L. 104–201, div. C, title XXXI, §3136, Sept. 23, 1996, 110 Stat. 2830; Pub. L. 107–314, div. D, title XLVIII, §4812(c), formerly Pub. L. 105–85, div. C, title XXXI, §3137(c), Nov. 18, 1997, 111 Stat. 2039, renumbered Pub. L. 107–314, div. D, title XLVIII, §4812(c), by Pub. L. 108–136, div. C, title XXXI, §3141(k)(7)(A)(i)–(iii), Nov. 24, 2003,117 Stat. 1784; renumbered Pub. L. 107–314, div. D, title XLVIII, §4812A, and amended Pub. L. 108–136, div. C, title XXXI, §3141(k)(7)(B), Nov. 24, 2003, 117 Stat. 1784.)
 
 #### References in Text
 
@@ -24,7 +24,7 @@ Subsec. (b) of this section was formerly classified to section 7257b of Title 42
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–136, §3141(k)(7)(B)(iv), inserted “of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201)” after “section 3101”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §3141(k)(7)(B)(iv), inserted “of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201)” after “section 3101”.
 
-1997—Subsec. (b)(1). Pub. L. 107–314, §4812(c), formerly Pub. L. 105–85, §3137(c), substituted “Not later than February 1 each year, the Secretary of Energy shall submit” for “The Secretary of Energy shall annually submit”.
+<b>1997</b>—Subsec. (b)(1). Pub. L. 107–314, §4812(c), formerly Pub. L. 105–85, §3137(c), substituted “Not later than February 1 each year, the Secretary of Energy shall submit” for “The Secretary of Energy shall annually submit”.
 

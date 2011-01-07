@@ -4,6 +4,10 @@ Whenever any person makes application for a visa or any other document required 
 
 (June 27, 1952, ch. 477, title II, ch. 9, §291, 66 Stat. 234; Pub. L. 97–116, §18(k)(1), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 104–208, div. C, title III, §308(d)(4)(N), (e)(1)(N), (g)(9)(A), Sept. 30, 1996, 110 Stat. 3009–618, 3009–619, 3009–624.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+
 #### Amendments
 
 1996—Pub. L. 104–208, §308(g)(9)(A), substituted “part IV” for “Part V”.

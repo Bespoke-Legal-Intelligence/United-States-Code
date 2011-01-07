@@ -4,7 +4,7 @@ For the purposes of this chapter, the following definitions shall apply:
 
 #### (1) Abatement
 
-&emsp;The term “abatement” means any set of measures designed to permanently eliminate lead-based paint hazards in accordance with standards established by appropriate Federal agencies. Such term includes—
+&emsp;The term “abatement” means any set of measures designed to permanently eliminatelead-based paint hazards in accordance with standards established by appropriate Federal agencies. Such term includes—
 
 &emsp;&emsp;(A) the removal of lead-based paint and lead-contaminated dust, the permanent containment or encapsulation of lead-based paint, the replacement of lead-painted surfaces or fixtures, and the removal or covering of lead contaminated soil; and
 
@@ -80,7 +80,7 @@ For the purposes of this chapter, the following definitions shall apply:
 
 #### (16) Lead-contaminated dust
 
-&emsp;The term “lead-contaminated dust” means surface dust in residential dwellings that contains an area or mass concentration of lead in excess of levels determined by the appropriate Federal agency to pose a threat of adverse health effects in pregnant women or young children.
+&emsp;The term “lead-contaminated dust” means surface dust in residential dwellings that contains an area or mass concentration of lead inexcess of levels determined by the appropriate Federal agency to pose a threat of adverse health effects in pregnant women or young children.
 
 #### (17) Lead-contaminated soil
 
@@ -151,6 +151,8 @@ For the purposes of this chapter, the following definitions shall apply:
 (Pub. L. 102–550, title X, §1004, Oct. 28, 1992, 106 Stat. 3898.)
 
 #### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning title X of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3897, known as the Residential Lead-Based Paint Hazard Reduction Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 4851 of this title and Tables.
 
 Section 1 of the Housing and Urban Development Act of 1965, referred to in par. (7)(B), is section 1 of Pub. L. 89–117, which is set out as a Short Title of 1965 Amendment note under section 1701 of Title 12, Banks and Banking.
 

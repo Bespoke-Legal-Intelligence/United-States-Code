@@ -84,7 +84,7 @@ For purposes of this part, the term “incentive stock option” means an option
 
 &emsp;For purposes of paragraph (1), the fair market value of any stock shall be determined as of the time the option with respect to such stock is granted.
 
-(Added Pub. L. 97–34, title II, §251(a), Aug. 13, 1981, 95 Stat. 256, §422A; amended Pub. L. 97–448,title I, §102(j)(1)–(4), Jan. 12, 1983, 96 Stat. 2373; Pub. L. 98–369, div. A, title V, §555(a)(1), div. B, title VI, §2662(f)(1), July 18, 1984, 98 Stat. 897, 1159; Pub. L. 99–514, title III, §321(a), (b), title XVIII, §1847(b)(5), Oct. 22, 1986, 100 Stat. 2220, 2856; Pub. L. 100–647, title I, §1003(d)(1)(A), (2), Nov. 10, 1988, 102 Stat. 3384; renumbered §422 and amended Pub. L. 101–508, title XI, §11801(c)(9)(A)(i), (C), Nov. 5, 1990, 104 Stat. 1388–524, 1388–525.)
+(Added Pub. L. 97–34, title II, §251(a), Aug. 13, 1981, 95 Stat. 256, §422A; amended Pub. L. 97–448, title I, §102(j)(1)–(4), Jan. 12, 1983, 96 Stat. 2373; Pub. L. 98–369, div. A, title V, §555(a)(1), div. B, title VI, §2662(f)(1), July 18, 1984, 98 Stat. 897, 1159; Pub. L. 99–514, title III, §321(a), (b), title XVIII, §1847(b)(5), Oct. 22, 1986, 100 Stat. 2220, 2856; Pub. L. 100–647, title I, §1003(d)(1)(A), (2), Nov. 10, 1988, 102 Stat. 3384; renumbered §422 and amended Pub. L. 101–508, title XI, §11801(c)(9)(A)(i), (C), Nov. 5, 1990, 104 Stat. 1388–524, 1388–525.)
 
 #### Prior Provisions
 
@@ -92,13 +92,13 @@ A prior section 422, added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 
 
 #### Amendments
 
-1990—Pub. L. 101–508, §11801(c)(9)(A)(i), renumbered section 422A of this title as this section.
+<b>1990</b>—Pub. L. 101–508, §11801(c)(9)(A)(i), renumbered section 422A of this title as this section.
 
 Subsec. (a)(2). Pub. L. 101–508, §11801(c)(9)(C)(i), substituted “424(a)” for “425(a)”.
 
 Subsec. (c)(5) to (8). Pub. L. 101–508, §11801(c)(9)(C)(ii), redesignated pars. (6) to (8) as (5) to (7), respectively, and struck out former par. (5) “Coordination with sections 422 and 424” which read as follows: “Sections 422 and 424 shall not apply to an incentive stock option.”
 
-1988—Subsec. (b). Pub. L. 100–647, §1003(d)(1)(A), inserted at end “Such term shall not include any option if (as of the time the option is granted) the terms of such option provide that it will not be treated as an incentive stock option.”
+<b>1988</b>—Subsec. (b). Pub. L. 100–647, §1003(d)(1)(A), inserted at end “Such term shall not include any option if (as of the time the option is granted) the terms of such option provide that it will not be treated as an incentive stock option.”
 
 Subsec. (b)(7). Pub. L. 100–647, §1003(d)(2)(B), struck out par. (7) which read as follows: “under the terms of the plan, the aggregate fair market value (determined at the time the option is granted) of the stock with respect to which incentive stock options are exercisable for the 1st time by such individual during any calendar year (under all such plans of the individual's employer corporation and its parent and subsidiary corporations) shall not exceed $100,000.”
 
@@ -106,7 +106,7 @@ Subsec. (c)(1). Pub. L. 100–647, §1003(d)(2)(C), substituted “subsection (d
 
 Subsec. (d). Pub. L. 100–647, §1003(d)(2)(A), added subsec. (d).
 
-1986—Subsec. (b)(7). Pub. L. 99–514, §321(a), added par. (7) and struck out former par. (7) which read as follows: “such option by its terms is not exercisable while there is outstanding (within the meaning of subsection (c)(7)) any incentive stock option which was granted, before the granting of such option, to such individual to purchase stock in his employer corporation or in a corporation which (at the time of the granting of such option) is a parent or subsidiary corporation of the employer corporation, or in a predecessor corporation of any of such corporations; and”.
+<b>1986</b>—Subsec. (b)(7). Pub. L. 99–514, §321(a), added par. (7) and struck out former par. (7) which read as follows: “such option by its terms is not exercisable while there is outstanding (within the meaning of subsection (c)(7)) any incentive stock option which was granted, before the granting of such option, to such individual to purchase stock in his employer corporation or in a corporation which (at the time of the granting of such option) is a parent or subsidiary corporation of the employer corporation, or in a predecessor corporation of any of such corporations; and”.
 
 Subsec. (b)(8). Pub. L. 99–514, §321(a), struck out par. (8) which read as follows: “in the case of an option granted after December 31, 1980, under the terms of the plan the aggregate fair market value (determined as of the time the option is granted) of the stock for which any employee may be granted incentive stock options in any calendar year (under all such plans of his employer corporation and its parent and subsidiary corporation) shall not exceed $100,000 plus any unused limit carryover to such year.”
 
@@ -126,11 +126,11 @@ Pub. L. 99–514, §1847(b)(5), substituted “section 22(e)(3)” for “sectio
 
 Subsec. (c)(10). Pub. L. 99–514, §321(b)(1)(B), redesignated par. (10) as (8).
 
-1984—Subsec. (c)(9). Pub. L. 98–369, §2662(f)(1), substituted “section 37(e)(3)” for “section 105(d)(4)”.
+<b>1984</b>—Subsec. (c)(9). Pub. L. 98–369, §2662(f)(1), substituted “section 37(e)(3)” for “section 105(d)(4)”.
 
 Subsec. (c)(10). Pub. L. 98–369, §555(a)(1), added par. (10).
 
-1983—Subsec. (b)(8). Pub. L. 97–448, §102(j)(1), substituted “granted incentive stock options” for “granted options”.
+<b>1983</b>—Subsec. (b)(8). Pub. L. 97–448, §102(j)(1), substituted “granted incentive stock options” for “granted options”.
 
 Subsec. (c)(1). Pub. L. 97–448, §102(j)(2), substituted “Good faith efforts to value stock” for “Exercise of option when price is less than value of stock” as par. (1) heading and inserted sentence providing that, to the extent provided in regulations by the Secretary, a rule similar to that already enunciated in the paragraph applies for purposes of par. (8) of subsec. (b) and par. (4) of subsec. (c).
 

@@ -48,7 +48,7 @@ The Committee on Rules and Administration of the Senate and the Committee on Hou
 
 #### (g) Congressional consent not conferred for production of official records or to testimony concerning activities related to employment
 
-No provision of this section shall be construed to confer the consent of either House of the Congress to the production of official records of thatHouse or to testimony by an employee of that House concerning activities related to his employment.
+No provision of this section shall be construed to confer the consent of either House of the Congress to the production of official records of that House or to testimony by an employee of that House concerning activities related to his employment.
 
 (Pub. L. 91–563, §6, Dec. 19, 1970, 84 Stat. 1478; Pub. L. 94–310, §2, June 15, 1976, 90 Stat. 687; Pub. L. 104–186, title II, §204(74), (75), Aug. 20, 1996, 110 Stat. 1741.)
 
@@ -70,7 +70,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Effective Date of 1976 Amendment
 
-Section 4 of Pub. L. 94–310 provided that: “The amendments made by this Act \[amending this section and sections 6322 and 8906 of Title 5, Government Organization and Employees\] shall take effect on October 1, 1976, or on the date of the enactment of this Act \[June 15, 1976\], whichever date is later.”
+Section 4 of Pub. L. 94–310 provided that: “The amendments made by this Act \[amending this section and sections 6322 and 8906 of Title 5, Government Organization and Employees\] shall take effect on October 1,1976, or on the date of the enactment of this Act \[June 15, 1976\], whichever date is later.”
 
 #### Termination of Trust Territory of the Pacific Islands
 

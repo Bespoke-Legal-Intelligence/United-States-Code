@@ -26,7 +26,7 @@ Waiver.—The Secretary of each military department (acting through the service 
 
 #### Amendments
 
-2003—Subsec. (a)(1). Pub. L. 108–136, §833(2), substituted “the Acquisition Corps” for “an Acquisition Corps”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136, §833(2), substituted “the Acquisition Corps” for “an Acquisition Corps”.
 
 Subsec. (c). Pub. L. 108–136, §831(b)(5), substituted “The Secretary” for “(1) The Secretary” and struck out par. (2) which read as follows: “The authority to grant such waivers may be delegated—
 
@@ -36,11 +36,11 @@ Subsec. (c). Pub. L. 108–136, §831(b)(5), substituted “The Secretary” for
 
 Subsec. (d). Pub. L. 108–136, §832(b)(4), struck out heading and text of subsec. (d). Text read as follows: “The Secretary of Defense shall submit any requirement with respect to civilian employees established under this subchapter to the Director of the Office of Personnel Management for approval. If the Director does not disapprove the requirement within 30 days after the date on which the Director receives the requirement, the requirement is deemed to be approved by the Director.”
 
-2001—Subsec. (c)(1), (2)(B). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+<b>2001</b>—Subsec. (c)(1), (2)(B). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
-1993—Subsec. (c)(1), (2)(B). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
+<b>1993</b>—Subsec. (c)(1), (2)(B). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
 
-1991—Subsec. (a)(3). Pub. L. 102–190, §1061(c), substituted “the dollar threshold set forth in section 2302(5)(A) of this title for such purposes for a major system” for “$50,000,000 (based on fiscal year 1980 constant dollars)” and “the dollar threshold set forth in section 2302(5)(A) of this title for such purpose for a major system” for “$250,000,000 (based on fiscal year 1980 constant dollars)”.
+<b>1991</b>—Subsec. (a)(3). Pub. L. 102–190, §1061(c), substituted “the dollar threshold set forth in section 2302(5)(A) of this title for such purposes for a major system” for “$50,000,000 (based on fiscal year 1980 constant dollars)” and “the dollar threshold set forth in section 2302(5)(A) of this title for such purpose for a major system” for “$250,000,000 (based on fiscal year 1980 constant dollars)”.
 
 Subsec. (c)(2)(B). Pub. L. 102–190, §1061(a)(8), struck out comma after “Director of Acquisition”.
 

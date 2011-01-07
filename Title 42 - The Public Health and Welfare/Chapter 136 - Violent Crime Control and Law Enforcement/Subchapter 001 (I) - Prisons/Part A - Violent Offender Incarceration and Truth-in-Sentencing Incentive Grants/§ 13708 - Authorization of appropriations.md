@@ -64,7 +64,7 @@ A prior section 13708, Pub. L. 103–322, title II, §20108, Sept. 13, 1994, 108
 
 #### Amendments
 
-2008—Subsec. (b)(4). Pub. L. 110–199 inserted at end “Funds obligated, but subsequently unspent and deobligated, may remain available, to the extent as may provided in appropriations Acts, for the purpose described in section 13702(a)(4) of this title for any subsequent fiscal year. The further obligation of such funds by an official for such purpose shall not be delayed, directly or indirectly, in any manner by any officer or employee in the executive branch.”
+<b>2008</b>—Subsec. (b)(4). Pub. L. 110–199 inserted at end “Funds obligated, but subsequently unspent and deobligated, may remain available, to the extent as may provided in appropriations Acts, for the purpose described in section 13702(a)(4) of this title for any subsequent fiscal year. The further obligation of such funds by an official for such purpose shall not be delayed, directly or indirectly, in any manner by any officer or employee in the executive branch.”
 
 #### Construction of 2008 Amendment
 

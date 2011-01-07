@@ -22,9 +22,9 @@
 
 #### Amendments
 
-1982—Par. (6). Pub. L. 97–258 substituted “section 3713(a) of title 31, United States Code” for “R.S. 3466 (31U.S.C. 191)”. Notwithstanding the directory language that amendment be made to section 7430, the amendment was executed to this section to reflect the probable intent of Congress and the intervening renumbering of section 7430 as 7432 by Pub. L. 97–248.
+<b>1982</b>—Par. (6). Pub. L. 97–258 substituted “section 3713(a) of title 31, United States Code” for “R.S. 3466 (31 U.S.C. 191)”. Notwithstanding the directory language that amendment be made to section 7430, the amendment was executed to this section to reflect the probable intent of Congress and the intervening renumbering of section 7430 as 7432 by Pub. L. 97–248.
 
-1980—Par. (1). Pub. L. 96–589, §6(d)(1), added par. (1). Former par. (1), which provided cross reference to former section 35 of title 11 for exclusion of tax liability from discharge in bankruptcy, was struck out.
+<b>1980</b>—Par. (1). Pub. L. 96–589, §6(d)(1), added par. (1). Former par. (1), which provided cross reference to former section 35 of title 11 for exclusion of tax liability from discharge in bankruptcy, was struck out.
 
 Par. (2). Pub. L. 96–589, §6(d)(1), (i)(13), added par. (2). Former par. (2), which provided cross reference to former section 93 of title 11 for limit on amount allowed in bankruptcy proceedings on debts owing to the United States, was struck out.
 
@@ -32,7 +32,7 @@ Par. (3). Pub. L. 96–589, §6(d)(1), (i)(13), added par. (3). Former par. (3),
 
 Par. (4). Pub. L. 96–589, §6(d)(1), (i)(13), added par. (4). Former par. (4), which provided for cross reference to former section 1080 of title 11 for collection of taxes in connection with wage earners’ plans in bankruptcy courts, was struck out.
 
-1976—Par. (1). Pub. L. 94–455, §1906(a)(45)(A), struck out “52 Stat. 851;” before “11 U.S.C. 35”.
+<b>1976</b>—Par. (1). Pub. L. 94–455, §1906(a)(45)(A), struck out “52 Stat. 851;” before “11 U.S.C. 35”.
 
 Par. (2). Pub. L. 94–455, §1906(a)(45)(B), struck out “52 Stat. 867;” before “11 U.S.C. 93”.
 

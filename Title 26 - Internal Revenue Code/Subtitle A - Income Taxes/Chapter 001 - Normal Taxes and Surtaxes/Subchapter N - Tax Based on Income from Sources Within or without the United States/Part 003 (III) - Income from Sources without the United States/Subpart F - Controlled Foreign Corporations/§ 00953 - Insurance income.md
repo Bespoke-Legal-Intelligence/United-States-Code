@@ -380,25 +380,27 @@ For purposes of this section—
 
 #### (10) Application
 
-&emsp;This subsection and section 954(i) shall apply only to taxable years of a foreign corporation beginning after December 31, 1998, and before January 1, 2010, and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends. If this subsection does not apply to a taxable year of a foreign corporation beginning after December 31, 2009 (and taxable years of United States shareholders ending with or within such taxable year), then, notwithstanding the preceding sentence, subsection (a) shall be applied to such taxable years in the same manner as it would if the taxable year of the foreign corporation began in 1998.
+&emsp;This subsection and section 954(i) shall apply only to taxable years of a foreign corporation beginning after December 31, 1998, and before January 1, 2012, and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends. If this subsection does not apply to a taxable year of a foreign corporation beginning after December 31, 2011 (and taxable years of United States shareholders ending with or within such taxable year), then, notwithstanding the preceding sentence, subsection (a) shall be applied to such taxable years in the same manner as it would if the taxable year of the foreign corporation began in 1998.
 
 #### (11) Cross reference
 
 &emsp;&emsp;<b>For income exempt from foreign personal holding company income, see section 954(i).</b>
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1008; amended Pub. L. 89–809, title I, §104(m)(2), Nov. 13, 1966, 80 Stat. 1563; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title II, §211(b)(13), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title XII, §1221(b)(1), (2), (3)(D), Oct. 22, 1986, 100 Stat. 2551, 2553; Pub. L. 100–647, title I, §1012(i)(1)–(3)(B), (4), (5), (7)–(9), (21), title VI, §6135(a), Nov. 10, 1988, 102 Stat. 3507–3509, 3511, 3721; Pub. L. 101–239, title VII, §7816(p), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 105–277, div. J, title I, §1005(b)(1), (3), Oct. 21, 1998, 112 Stat. 2681–893, 2681–899; Pub. L. 106–170, title V, §503(a), (b), Dec. 17, 1999, 113 Stat. 1921; Pub. L. 107–147, title VI, §614(a)(1), Mar. 9, 2002, 116 Stat. 61; Pub. L. 109–222, title I, §103(a)(1), May 17, 2006, 120 Stat. 346; Pub. L. 110–343, div. C, title III, §303(a), Oct. 3, 2008, 122 Stat. 3866.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1008; amended Pub. L. 89–809, title I, §104(m)(2), Nov. 13, 1966, 80 Stat. 1563; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title II, §211(b)(13), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title XII, §1221(b)(1), (2), (3)(D), Oct. 22, 1986, 100 Stat. 2551, 2553; Pub. L. 100–647, title I, §1012(i)(1)–(3)(B), (4), (5), (7)–(9), (21), title VI, §6135(a), Nov. 10, 1988, 102 Stat. 3507–3509, 3511, 3721; Pub. L. 101–239, title VII, §7816(p), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 105–277, div. J, title I, §1005(b)(1), (3), Oct. 21, 1998, 112 Stat. 2681–893, 2681–899; Pub. L. 106–170, title V, §503(a), (b), Dec. 17, 1999, 113 Stat. 1921; Pub. L. 107–147, title VI, §614(a)(1), Mar. 9, 2002, 116 Stat. 61; Pub. L. 109–222, title I, §103(a)(1), May 17, 2006, 120 Stat. 346; Pub. L. 110–343, div. C, title III, §303(a), Oct. 3, 2008, 122 Stat. 3866; Pub. L. 111–312, title VII, §750(a), (b), Dec. 17, 2010, 124 Stat. 3320.)
 
 #### Amendments
 
-2008—Subsec. (e)(10). Pub. L. 110–343 substituted “January 1, 2010” for “January 1, 2009” and “December 31, 2009” for “December 31, 2008”.
+<b>2010</b>—Subsec. (e)(10). Pub. L. 111–312 substituted “January 1, 2012” for “January 1, 2010” and “December 31, 2011” for “December 31, 2009”.
 
-2006—Subsec. (e)(10). Pub. L. 109–222 substituted “January 1, 2009” for “January 1, 2007” and “December 31, 2008” for “December 31, 2006”.
+<b>2008</b>—Subsec. (e)(10). Pub. L. 110–343 substituted “January 1, 2010” for “January 1, 2009” and “December 31, 2009” for “December 31, 2008”.
 
-2002—Subsec. (e)(10). Pub. L. 107–147 substituted “January 1, 2007” for “January 1, 2002” and “December 31, 2006” for “December 31, 2001”.
+<b>2006</b>—Subsec. (e)(10). Pub. L. 109–222 substituted “January 1, 2009” for “January 1, 2007” and “December 31, 2008” for “December 31, 2006”.
 
-1999—Subsec. (e)(10). Pub. L. 106–170 substituted “taxable years” for “the first taxable year”, “January 1, 2002” for “January 1, 2000”, and “within which any such” for “within which such”, and inserted at end “If this subsection does not apply to a taxable year of a foreign corporation beginning after December 31, 2001 (and taxable years of United States shareholders ending with or within such taxable year), then, notwithstanding the preceding sentence, subsection (a) shall be applied to such taxable years in the same manner as it would if the taxable year of the foreign corporation began in 1998.”
+<b>2002</b>—Subsec. (e)(10). Pub. L. 107–147 substituted “January 1, 2007” for “January 1, 2002” and “December 31, 2006” for “December 31, 2001”.
 
-1998—Subsec. (a). Pub. L. 105–277, §1005(b)(1)(A), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “For purposes of section 952(a)(1), the term ‘insurance income’ means any income which—
+<b>1999</b>—Subsec. (e)(10). Pub. L. 106–170 substituted “taxable years” for “the first taxable year”, “January 1, 2002” for “January 1, 2000”, and “within which any such” for “within which such”, and inserted at end “If this subsection does not apply to a taxable year of a foreign corporation beginning after December 31, 2001 (and taxable years of United States shareholders ending with or within such taxable year), then, notwithstanding the preceding sentence, subsection (a) shall be applied to such taxable years in the same manner as it would if the taxable year of the foreign corporation began in 1998.”
+
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §1005(b)(1)(A), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “For purposes of section 952(a)(1), the term ‘insurance income’ means any income which—
 
 &emsp;“(1) is attributable to the issuing (or reinsuring) of any insurance or annuity contract—
 
@@ -412,9 +414,9 @@ Subsec. (b)(3), (4). Pub. L. 105–277, §1005(b)(3), added par. (3) and redesig
 
 Subsec. (e). Pub. L. 105–277, §1005(b)(1)(B), added subsec. (e).
 
-1989—Subsec. (d)(3). Pub. L. 101–239 substituted “for purposes of section 1503(d) without regard to paragraph (2)(B) thereof” for “(as defined in section 1503(d))”.
+<b>1989</b>—Subsec. (d)(3). Pub. L. 101–239 substituted “for purposes of section 1503(d) without regard to paragraph (2)(B) thereof” for “(as defined in section 1503(d))”.
 
-1988—Subsec. (b)(1). Pub. L. 100–647, §1012(i)(7)(A), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “A corporation which would, if it were a domestic insurance corporation, be taxable under part II of subchapter L shall apply subsection (a) as if it were taxable under part III of subchapter L.”
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–647, §1012(i)(7)(A), redesignated par. (2) as (1) and struck out former par. (1)which read as follows: “A corporation which would, if it were a domestic insurance corporation, be taxable under part II of subchapter L shall apply subsection (a) as if it were taxable under part III of subchapter L.”
 
 Subsec. (b)(1)(A). Pub. L. 100–647, §1012(i)(7)(B), added subpar. (A) and struck out former subpar. (A) which read as follows: “The special life insurance company deduction and the small life insurance company deduction.”
 
@@ -448,13 +450,13 @@ Subsec. (c)(8). Pub. L. 100–647, §1012(i)(21), added par. (8).
 
 Subsec. (d). Pub. L. 100–647, §6135(a), added subsec. (d).
 
-1986—Pub. L. 99–514, §1221(b)(3)(D), substituted “Insurance income” for “Income from insurance of United States risks” in section catchline.
+<b>1986</b>—Pub. L. 99–514, §1221(b)(3)(D), substituted “Insurance income” for “Income from insurance of United States risks” in section catchline.
 
 Subsec. (a). Pub. L. 99–514, §1221(b)(1), amended subsec. (a) generally, substituting provisions defining “insurance income” for former provisions defining “income derived from the insurance of United States risks”.
 
 Subsec. (c). Pub. L. 99–514, §1221(b)(2), added subsec. (c).
 
-1984—Subsec. (a)(2). Pub. L. 98–369, §211(b)(13)(D), substituted “and (2)” for “, (2), and (3)”.
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–369, §211(b)(13)(D), substituted “and (2)” for “, (2), and (3)”.
 
 Subsec. (b)(1). Pub. L. 98–369, §211(b)(13)(A), redesignated par. (2) as (1). Former par. (1), which provided that the application of part I of subchapter L of this chapter, life insurance company taxable income was the gain from operations as defined in section 809(b), was struck out.
 
@@ -494,9 +496,13 @@ Subsec. (b)(3)(C). Pub. L. 98–369, §211(b)(13)(C)(iii), substituted “sectio
 
 Subsec. (b)(4), (5). Pub. L. 98–369, §211(b)(13)(A), (E), redesignated par. (5) as (4) and substituted “paragraph (3)” for “paragraph (4)”. Former par. (4) redesignated (3).
 
-1976—Subsec. (b)(5). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b)(5). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1966—Subsec. (b)(3)(F). Pub. L. 89–809 substituted “832(c)(5)” for “832(b)(5)”.
+<b>1966</b>—Subsec. (b)(3)(F). Pub. L. 89–809 substituted “832(c)(5)” for “832(b)(5)”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–312, title VII, §750(c), Dec. 17, 2010, 124 Stat. 3320, provided that: “The amendments made by this section \[amending this section and section 954 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 2009, and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends.”
 
 #### Effective Date of 2002 Amendment
 
@@ -512,7 +518,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Section 1012(i)(3)(C) of Pub. L. 100–647 provided that: “The amendments made by this paragraph \[amending this section\] to the extent such amendments add the phrase ‘(directly or indirectly)’ shall apply only to taxable years beginning after December 31, 1987.”
+Section 1012(i)(3)(C) of Pub. L. 100–647 provided that: “The amendments made by this paragraph \[amendingthis section\] to the extent such amendments add the phrase ‘(directly or indirectly)’ shall apply only to taxable years beginning after December 31, 1987.”
 
 Amendment by section 1012(i)(1), (2), (4), (5), (7)–(9), (21) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 

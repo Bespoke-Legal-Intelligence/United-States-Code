@@ -16,19 +16,19 @@ Act Mar. 19, 1920, ch. 104, §2, 41 Stat. 534.
 
 #### Amendments
 
-2006—Pub. L. 109–312 amended second sentence generally. Prior to amendment, second sentence read as follows: “Whenever any person believes that he is or will be damaged by the registration of a mark on this register, including as a result of dilution under section 1125(c) of this title, he may at any time, upon payment of the prescribed fee and the filing of a petition stating the ground therefor, apply to the Director to cancel such registration.” The words following “tarnishment,” in second sentence are shown as a flush provision notwithstanding directory language showing them as part of cl. (2), to reflect the probable intent of Congress.
+<b>2006</b>—Pub. L. 109–312 amended second sentence generally. Prior to amendment, second sentence read as follows: “Whenever any person believes that he is or will be damaged by the registration of a mark on this register, including as a result of dilution under section 1125(c) of this title, he may at any time, upon payment of the prescribed fee and the filing of a petition stating the ground therefor, apply to the Director to cancel such registration.” The words following “tarnishment,” in second sentence are shown as a flush provision notwithstanding directory language showing them as part of cl. (2), to reflect the probable intent of Congress.
 
-1999—Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
+<b>1999</b>—Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
 
 Pub. L. 106–43 inserted “, including as a result of dilution under section 1125(c) of this title,” after “register” in second sentence.
 
-1988—Pub. L. 100–667 struck out “verified” after “filing of a”, substituted “is not entitled to registration,” for “was not entitled to register the mark at the time of his application for registration thereof,” struck out “is not used by the registrant or” after “that the mark”, and inserted provision that no final judgment be entered before mark is registered if applicant cannot prevail without establishing constructive use.
+<b>1988</b>—Pub. L. 100–667 struck out “verified” after “filing of a”, substituted “is not entitled to registration,” for “was not entitled to register the mark at the time of his application for registration thereof,” struck out “is not used by the registrant or” after “that the mark”, and inserted provision that no final judgment be entered before mark is registered if applicant cannot prevail without establishing constructive use.
 
-1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
-1962—Pub. L. 87–772 provided for payment of the prescribed fee and the filing of a verified petition.
+<b>1962</b>—Pub. L. 87–772 provided for payment of the prescribed fee and the filing of a verified petition.
 
-1958—Pub. L. 85–609 substituted provisions requiring the Commissioner to refer applications to the Trademark Trial and Appeal Board for provisions which required referral to the examiner in charge of interferences.
+<b>1958</b>—Pub. L. 85–609 substituted provisions requiring the Commissioner to refer applications to the Trademark Trial and Appeal Board for provisions which required referral to the examiner in charge of interferences.
 
 #### Effective Date of 1999 Amendments
 

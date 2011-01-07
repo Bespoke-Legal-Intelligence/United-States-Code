@@ -12,7 +12,7 @@ Congress makes the following findings:
 
 &emsp;(C) Women and children who are refugees or are internally displaced persons are especially vulnerable to sexual exploitation and violence, thereby increasing the possibility of HIV infection.
 
-&emsp;(4) As the leading cause of death in sub-Saharan Africa, AIDS has killed more than 19,400,000 individuals (more than 3 times the number of AIDS deaths in the rest of the world) and will claim the lives of one-quarter of the population, mostly adults, in the next decade.
+&emsp;(4) As the leading cause of death in sub-Saharan Africa, AIDS has killed more than 19,400,000 individuals (more than 3 times thenumber of AIDS deaths in the rest of the world) and will claim the lives of one-quarter of the population, mostly adults, in the next decade.
 
 &emsp;(5) An estimated 2,000,000 individuals in Latin America and the Caribbean and another 7,100,000 individuals in Asia and the Pacific region are infected with HIV or living with AIDS. Infection rates are rising alarmingly in Eastern Europe (especially in the Russian Federation), Central Asia, and China.
 
@@ -46,7 +46,7 @@ Congress makes the following findings:
 
 &emsp;(17) Appropriate treatment of individuals with HIV/AIDS can prolong the lives of such individuals, preserve their families, prevent children from becoming orphans, and increase productivity of such individuals by allowing them to lead active lives and reduce the need for costly hospitalization for treatment of opportunistic infections caused by HIV.
 
-&emsp;(18) Nongovernmental organizations, including faith-based organizations, with experience in health care and HIV/AIDS counseling, have proven effective in combating the HIV/AIDS pandemic and can be a resource in assisting indigenous organizations in severely affected countries in their efforts to provide treatment and care for individuals infected with HIV/AIDS.
+&emsp;(18) Nongovernmental organizations, including faith-based organizations, with experiencein health care and HIV/AIDS counseling, have proven effective in combating the HIV/AIDS pandemic and can be a resource in assisting indigenous organizations in severely affected countries in their efforts to provide treatment and care for individuals infected with HIV/AIDS.
 
 &emsp;(19) Faith-based organizations are making an important contribution to HIV prevention and AIDS treatment programs around the world. Successful HIV prevention programs in Uganda, Jamaica, and elsewhere have included local churches and faith-based groups in efforts to promote behavior changes to prevent HIV, to reduce stigma associated with HIV infection, to treat those afflicted with the disease, and to care for orphans. The Catholic Church alone currently cares for one in four people being treated for AIDS worldwide. Faith-based organizations possess infrastructure, experience, and knowledge that will be needed to carry out these programs in the future and should be an integral part of United States efforts.
 
@@ -56,7 +56,7 @@ Congress makes the following findings:
 
 &emsp;(C) Uganda's successful AIDS treatment and prevention program is referred to as the ABC model: “Abstain, Be faithful, use Condoms”, in order of priority. Jamaica, Zambia, Ethiopia and Senegal have also successfully used the ABC model. Beginning in 1986, Uganda brought about a fundamental change in sexual behavior by developing a low-cost program with the message: “Stop having multiple partners. Be faithful. Teenagers, wait until you are married before you begin sex.”.
 
-&emsp;(D) By 1995, 95 percent of Ugandans were reporting either one or zero sexual partners in the past year, and the proportion of sexually active youth declined significantly from the late 1980s to the mid-1990s. The greatest percentage decline in HIV infections and the greatest degree of behavioral change occurred in those 15 to 19 years old. Uganda's success shows that behavior change, through the useof the ABC model, is a very successful way to prevent the spread of HIV.
+&emsp;(D) By 1995, 95 percent of Ugandans were reporting either one or zero sexual partners in the past year, and the proportion of sexually active youth declined significantly from the late 1980s to the mid-1990s. The greatest percentage decline in HIV infections and the greatest degree of behavioral change occurred in those 15 to 19 years old. Uganda's success shows that behavior change, through the use of the ABC model, is a very successful way to prevent the spread of HIV.
 
 &emsp;(21) The magnitude and scope of the HIV/AIDS crisis demands a comprehensive, long-term, international response focused upon addressing the causes, reducing the spread, and ameliorating the consequences of the HIV/AIDS pandemic, including—
 
@@ -82,7 +82,7 @@ Congress makes the following findings:
 
 &emsp;&emsp;(F) encouraging active involvement of the private sector, including businesses, pharmaceutical and biotechnology companies, the medical and scientific communities, charitable foundations, private and voluntary organizations and nongovernmental organizations, faith-based organizations, community-based organizations, and other nonprofit entities.
 
-&emsp;(23) Prostitution and other sexual victimization are degrading to women and children and it should be the policy of the United States to eradicate such practices. The sex industry, the trafficking of individuals into such industry, and sexual violence are additional causes of and factors in the spread of the HIV/AIDS epidemic. One in nine South Africans is living with AIDS, and sexual assault is rampant, at a victimization rate of one in three women. Meanwhile in Cambodia, as many as 40 percent of prostitutes are infected with HIV and the country has the highest rate of increase of HIV infection in all of Southeast Asia. Victims of coercive sexual encounters do not get to make choices about their sexual activities.
+&emsp;(23) Prostitution and other sexual victimization are degrading to women and children and it should be the policy of the United States to eradicate such practices. The sex industry, the trafficking of individuals into such industry, and sexual violence are additional causes of and factors in the spread of the HIV/AIDS epidemic. One in nine South Africans is living with AIDS, and sexual assault is rampant, at a victimization rate of one in three women. Meanwhile in Cambodia, as many as 40 percentof prostitutes are infected with HIV and the country has the highest rate of increase of HIV infection in all of Southeast Asia. Victims of coercive sexual encounters do not get to make choices about their sexual activities.
 
 &emsp;(24) Strong coordination must exist among the various agencies of the United States to ensure effective and efficient use of financial and technical resources within the United States Government with respect to the provision of international HIV/AIDS assistance.
 
@@ -94,7 +94,7 @@ Congress makes the following findings:
 
 &emsp;(28) Finally, the President stated that “\[w\]e have confronted, and will continue to confront, HIV/AIDS in our own country”, proposing now that the United States should lead the world in sparing innocent people from a plague of nature, and asking Congress “to commit $15,000,000,000 over the next five years, including nearly $10,000,000,000 in new money, to turn the tide against AIDS in the most afflicted nations of Africa and the Caribbean”.
 
-&emsp;(29) On May 27, 2003, the President signed this chapter into law, launching the largestinternational public health program of its kind ever created.
+&emsp;(29) On May 27, 2003, the President signed this chapter into law, launching the largest international public health program of its kind ever created.
 
 &emsp;(30) Between 2003 and 2008, the United States, through the President's Emergency Plan for AIDS Relief (PEPFAR) and in conjunction with other bilateral programs and the multilateral Global Fund has helped to—
 
@@ -174,7 +174,7 @@ This chapter, referred to in pars. (29) and (41), was in the original “this Ac
 
 #### Amendments
 
-2008—Pars. (29) to (41). Pub. L. 110–293 added pars. (29) to (41).
+<b>2008</b>—Pars. (29) to (41). Pub. L. 110–293 added pars. (29) to (41).
 
 #### Short Title of 2008 Amendment
 

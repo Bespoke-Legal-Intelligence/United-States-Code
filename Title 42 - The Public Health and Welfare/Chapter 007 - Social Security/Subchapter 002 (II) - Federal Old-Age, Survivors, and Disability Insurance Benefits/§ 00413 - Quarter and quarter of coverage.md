@@ -8,7 +8,7 @@ For the purposes of this subchapter—
 
 (2)(A) The term “quarter of coverage” means—
 
-&emsp;(i) for calendar years before 1978, and subject to the provisions of subparagraph (B), a quarter in which an individual has been paid $50 or more in wages (except wages for agriculturallabor paid after 1954) or for which he has been credited (as determined under section 412 of this title) with $100 or more of self-employment income; and
+&emsp;(i) for calendar years before 1978, and subject to the provisions of subparagraph (B), a quarter in which an individual has been paid $50 or more in wages (except wages for agricultural labor paid after 1954) or for which he has been credited (as determined under section 412 of this title) with $100 or more of self-employment income; and
 
 &emsp;(ii) for calendar years after 1977, and subject to the provisions of subparagraph (B), each portion of the total of the wages paid and the self-employment income credited (pursuant to section 412 of this title) to an individual in a calendar year which equals the amount required for a quarter of coverage in that calendar year (as determined under subsection (d) of this section), with such quarter of coverage being assigned to a specific calendar quarter in such calendar year only if necessary in the case of any individual who has attained age 62 or died or is under a disability and the requirements for insured status in subsection (a) or (b) of section 414 of this title, the requirements for entitlement to a computation or recomputation of his primary insurance amount, or the requirements of paragraph (3) of section 416(i) of this title would not otherwise be met.
 
@@ -20,7 +20,7 @@ For the purposes of this subchapter—
 
 &emsp;(iii) if an individual has self-employment income for a taxable year, and if the sum of such income and the wages paid to him during such year equals $3,600 in the case of a taxable year beginning after 1950 and ending before 1955, or $4,200 in the case of a taxable year ending after 1954 and before 1959, or $4,800 in the case of a taxable year ending after 1958 and before 1966, or $6,600 in the case of a taxable year ending after 1965 and before 1968, or $7,800 in the case of a taxable year ending after 1967 and before 1972, or $9,000 in the case of a taxable year beginning after 1971 and before 1973, or $10,800 in the case of a taxable year beginning after 1972 and before 1974, or $13,200 in the case of a taxable year beginning after 1973 and before 1975, or an amount equal to the contribution and benefit base (as determined under section 430 of this title) which is effective for the calendar year in the case of any taxable year beginning in any calendar year after 1974 and before 1978, each quarter any part of which falls in such year shall (subject to clauses (i) and (v)) be a quarter of coverage;
 
-&emsp;(iv) if an individual is paid wages for agricultural labor in a calendar year after 1954 and before 1978, then, subject to clauses (i) and (v), (I) the last quarter of such year which can be but is not otherwise a quarter of coverage shall be a quarter of coverage if such wages equal or exceed $100 but are less than $200; (II) the last two quarters of such year which can be but are not otherwise quarters of coverage shall be quarters of coverage if such wages equal or exceed $200 but are less than $300; (III) the last three quarters of such year which can be but are not otherwise quarters of coverage shall be quarters of coverage if such wages equal or exceed $300 but are less than $400; and (IV) each quarter of such year which is not otherwise a quarter of coverage shall be a quarter of coverage if such wages are $400 or more;
+&emsp;(iv) if an individual is paid wages for agricultural labor in a calendar year after 1954 andbefore 1978, then, subject to clauses (i) and (v), (I) the last quarter of such year which can be but is not otherwise a quarter of coverage shall be a quarter of coverage if such wages equal or exceed $100 but are less than $200; (II) the last two quarters of such year which can be but are not otherwise quarters of coverage shall be quarters of coverage if such wages equal or exceed $200 but are less than $300; (III) the last three quarters of such year which can be but are not otherwise quarters of coverage shall be quarters of coverage if such wages equal or exceed $300 but are less than $400; and (IV) each quarter of such year which is not otherwise a quarter of coverage shall be a quarter of coverage if such wages are $400 or more;
 
 &emsp;(v) no quarter shall be counted as a quarter of coverage prior to the beginning of such quarter;
 
@@ -50,77 +50,77 @@ For purposes of sections 414(a) and 415(d) of this title, an individual shall be
 
 > with such product, if not a multiple of $10, being rounded to the next higher multiple of $10 where such amount is a multiple of $5 but not of $10 and to the nearest multiple of $10 in any other case.
 
-(Aug. 14, 1935, ch. 531, title II, §213, as added Aug. 28, 1950, ch. 809, title I, §104(a), 64 Stat. 492, 504; amended July 18, 1952, ch. 945, §§3(a), 66 Stat. 770; Sept. 1, 1954, ch. 1206, title I, §§104(c), 106(a), 108(b), 68 Stat. 1078, 1084; Aug. 1, 1956, ch. 836, title I, §105(c), 70 Stat. 828; Pub. L. 85–840, title I, §102(c), Aug. 28, 1958, 72 Stat. 1019; Pub. L. 86–442, §3, Apr. 22, 1960, 74 Stat. 82; Pub. L. 86–778, title II, §206(a), Sept. 13, 1960, 74 Stat. 949; Pub. L. 87–64, title I, §102(c)(2)(A), (3)(B), June 30, 1961, 75 Stat. 134, 135; Pub. L. 89–97, title III, §320(a)(3), July 30, 1965, 79 Stat. 393; Pub. L. 90–248, title I, §§108(a)(3), 155(b)(1), Jan. 2, 1968, 81 Stat. 834, 865; Pub. L. 92–5, title II, §203(a)(3), Mar. 17, 1971, 85 Stat. 10; Pub. L. 92–336, title II, §203(a)(3), July 1, 1972, 86 Stat. 418; Pub. L. 93–66, title II, §203(a)(3), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(a)(3), Dec. 31, 1973, 87 Stat. 953; Pub. L. 95–216, title III, §§351(c), 352(a), (b), Dec. 20, 1977, 91 Stat. 1550, 1552; Pub. L. 96–473, §6(c), Oct. 19, 1980, 94 Stat. 2265; Pub. L. 98–369, div. B, title VI, §2663(a)(9), July 18, 1984, 98 Stat. 1164; Pub. L. 101–239, title X, §10208(b)(2)(A), (B), (d)(2)(A)(i), Dec. 19, 1989, 103 Stat. 2477, 2478, 2480; Pub. L. 101–508, title V, §5117(c)(1), Nov. 5, 1990, 104 Stat. 1388–278; Pub. L. 103–296, title I, §107(a)(4), title III, §321(a)(15), (e)(2)(A), Aug. 15, 1994, 108 Stat. 1478, 1536, 1539.)
+(Aug. 14, 1935, ch. 531, title II, §213, as added Aug. 28, 1950, ch. 809, title I, §104(a), 64 Stat. 492, 504; amended July 18, 1952, ch. 945, §§3(a), 66 Stat. 770; Sept. 1, 1954, ch. 1206, title I, §§104(c), 106(a), 108(b), 68 Stat. 1078, 1084; Aug. 1, 1956, ch. 836, title I, §105(c), 70 Stat. 828; Pub. L. 85–840, title I, §102(c), Aug. 28, 1958, 72 Stat. 1019; Pub. L. 86–442, §3, Apr. 22, 1960, 74 Stat. 82; Pub. L. 86–778, title II, §206(a), Sept. 13, 1960, 74 Stat. 949; Pub. L. 87–64, title I, §102(c)(2)(A), (3)(B), June 30, 1961, 75 Stat. 134, 135; Pub. L. 89–97, title III, §320(a)(3), July 30, 1965, 79 Stat. 393; Pub. L. 90–248, title I, §§108(a)(3), 155(b)(1), Jan. 2, 1968, 81 Stat. 834, 865;Pub. L. 92–5, title II, §203(a)(3), Mar. 17, 1971, 85 Stat. 10; Pub. L. 92–336, title II, §203(a)(3), July 1, 1972, 86 Stat. 418; Pub. L. 93–66, title II, §203(a)(3), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(a)(3), Dec. 31, 1973, 87 Stat. 953; Pub. L. 95–216, title III, §§351(c), 352(a), (b), Dec. 20, 1977, 91 Stat. 1550, 1552; Pub. L. 96–473, §6(c), Oct. 19, 1980, 94 Stat. 2265; Pub. L. 98–369, div. B, title VI, §2663(a)(9), July 18, 1984, 98 Stat. 1164; Pub. L. 101–239, title X, §10208(b)(2)(A), (B), (d)(2)(A)(i), Dec. 19, 1989, 103 Stat. 2477, 2478, 2480; Pub. L. 101–508, title V, §5117(c)(1), Nov. 5, 1990, 104 Stat. 1388–278; Pub. L. 103–296, title I, §107(a)(4), title III, §321(a)(15), (e)(2)(A), Aug. 15, 1994, 108 Stat. 1478, 1536, 1539.)
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–296, §321(a)(15), substituted “sections” for “section” before “414(a) and 415(d) of this title”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–296, §321(a)(15), substituted “sections” for “section” before “414(a) and 415(d) of this title”.
 
 Subsec. (d)(2). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” in introductory provisions.
 
 Subsec. (d)(2)(B). Pub. L. 103–296, §321(e)(2)(A), substituted “national average wage index” for “deemed average total wages” before “(as defined in” and “the national average wage index (as so defined) for 1976,” for “the average of the total wages (as defined in regulations of the Secretary and computed without regard to the limitations specified in section 409(a)(1) of this title) reported to the Secretary of the Treasury or his delegate for 1976 (as published in the Federal Register in accordance with section 415(a)(1)(D) of this title),”.
 
-1990—Subsec. (c). Pub. L. 101–508 inserted “and 415(d)” after “section 414(a)” and substituted “except where such individual is not a fully insured individual on the basis of the number of quarters of coverage so derived plus the number of quarters of coverage derived from the wages and self-employment income credited to such individual for periods after 1950.” for “except where—
+<b>1990</b>—Subsec. (c). Pub. L. 101–508 inserted “and 415(d)” after “section 414(a)” and substituted “except where such individual is not a fully insured individual on the basis of the number of quarters of coverage so derived plus the number of quarters of coverage derived from the wages and self-employment income credited to such individual for periods after 1950.” for “except where—
 
 &emsp;“(1) such individual is not a fully insured individual on the basis of the number of quarters of coverage so derived plus the number of quarters of coverage derived from the wages and self-employment income credited to him for periods after 1950, or
 
 &emsp;“(2) such individual's elapsed years (for purposes of section 414(a)(1) of this title) are less than 7.”
 
-1989—Subsec. (d)(2)(B). Pub. L. 101–239, §10208(b)(2)(A), (B), substituted “the deemed average total wages (as defined in section 409(k)(1) of this title)” for “the average of the total wages (as defined in regulations of the Secretary and computed without regard to the limitations specified in section 409(a)(1) of this title) reported to the Secretary of the Treasury or his delegate” and “(as defined in regulations of the Secretary and computed without regard to the limitations specified in section 409(a)(1) of this title)” for “(as so defined and computed)”.
+<b>1989</b>—Subsec. (d)(2)(B). Pub. L. 101–239, §10208(b)(2)(A), (B), substituted “the deemed average total wages (as defined in section 409(k)(1) of this title)” for “the average of the total wages (as defined in regulations of the Secretary and computed without regard to the limitations specified in section 409(a)(1) of this title) reported to the Secretary of the Treasury or his delegate” and “(as defined in regulations of the Secretary and computed without regard to the limitations specified in section 409(a)(1) of this title)” for “(as so defined and computed)”.
 
 Pub. L. 101–239, §10208(d)(2)(A)(i), substituted “409(a)(1)” for “409(a)”.
 
-1984—Subsec. (a)(1). Pub. L. 98–369, §2663(a)(9)(A), substituted “mean” for “means”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–369, §2663(a)(9)(A), substituted “mean” for “means”.
 
 Subsec. (a)(2)(B)(ii). Pub. L. 98–369, §2663(a)(9)(B), substituted “equal $3,000” for “equal to $3,000”.
 
-1980—Subsec. (a)(2)(A). Pub. L. 96–473 substituted reference to quarter of coverage, for reference to quarters of coverage.
+<b>1980</b>—Subsec. (a)(2)(A). Pub. L. 96–473 substituted reference to quarter of coverage, for reference to quarters of coverage.
 
-1977—Subsec. (a)(2). Pub. L. 95–216, §§351(c), 352(a), substituted provisions relating to factors respecting definition of “quarters of coverage” for calendar yearsbefore 1978, subject to the provisions of subpar. (B) of this par., and for calendar years after 1977, subject to the provisions of subpar. (B) of this par., for provisions relating to factors respecting definition of “quarter of coverage” as a quarter in which the individual has been paid $50 or more in wages (except wages for agricultural labor paid after 1954) or for which he has been credited (as determined under section 412 of this title) with $100 or more of self-employment income.
+<b>1977</b>—Subsec. (a)(2). Pub. L. 95–216, §§351(c), 352(a), substituted provisions relating to factors respecting definition of “quarters of coverage” for calendar years before 1978, subject to the provisions of subpar. (B) of this par., and for calendar years after 1977, subject to the provisions of subpar. (B) of this par., for provisions relating to factors respecting definition of “quarter of coverage” as a quarter in which the individual has been paid $50 or more in wages (except wages for agricultural labor paid after 1954) or for which he has been credited (as determined under section 412 of this title) with $100 or more of self-employment income.
 
 Subsec. (d). Pub. L. 95–216, §352(b), added subsec. (d).
 
-1973—Subsec. (a)(2)(ii), (iii). Pub. L. 93–233 substituted “$13,200” for “$12,600”.
+<b>1973</b>—Subsec. (a)(2)(ii), (iii). Pub. L. 93–233 substituted “$13,200” for “$12,600”.
 
 Pub. L. 93–66 substituted “$12,600” for “$12,000”, in cls. (ii) and (iii).
 
-1972—Subsec. (a)(2)(ii). Pub. L. 92–336, §203(a)(3)(A), inserted provisions for determining a quarter of coverage based on amounts earned as wages after 1971 and before 1975, and amounts equal to the contribution and benefit base in the case of any calendar year after 1974 with respect to which such contribution and benefit base is effective.
+<b>1972</b>—Subsec. (a)(2)(ii). Pub. L. 92–336, §203(a)(3)(A), inserted provisions for determining a quarter of coverage based on amounts earned as wages after 1971 and before 1975, and amounts equal to the contribution and benefit base in the case of any calendar year after 1974 with respect to which such contribution and benefit base is effective.
 
 Subsec. (a)(2)(iii). Pub. L. 92–336, §203(a)(3)(B), inserted provisions for determining a quarter of coverage based on amounts earned as wages after 1971 and before 1975, and amounts equal to the contribution and benefit base which is effective for the calendar year in the case of any taxable year beginning in any calendar year after 1974.
 
-1971—Subsec. (a)(2)(ii). Pub. L. 92–5, §203(a)(3)(A), substituted “after 1967 and before 1972, or $9,000 in the case of a calendar year after 1971” for “after 1967”.
+<b>1971</b>—Subsec. (a)(2)(ii). Pub. L. 92–5, §203(a)(3)(A), substituted “after 1967 and before 1972, or $9,000 in the case of a calendar year after 1971” for “after 1967”.
 
 Subsec. (a)(2)(iii). Pub. L. 92–5, §203(a)(3)(B), substituted “after 1967 and beginning before 1972, or $9,000 in the case of a taxable year beginning after 1971” for “after 1967”.
 
-1968—Subsec. (a)(2)(ii). Pub. L. 90–248, §108(a)(3)(A), inserted “and before 1968, or $7,800 in the case of a calendar year after 1967” after “1965”.
+<b>1968</b>—Subsec. (a)(2)(ii). Pub. L. 90–248, §108(a)(3)(A), inserted “and before 1968, or $7,800 in the case of a calendar year after 1967” after “1965”.
 
 Subsec. (a)(2)(iii). Pub. L. 90–248, §108(a)(3)(B), inserted “and before 1968, or $7,800 in the case of a taxable year ending after 1967” after “1965”.
 
 Subsec. (c). Pub. L. 90–248, §155(b)(1), added subsec. (c).
 
-1965—Subsec. (a)(2)(ii). Pub. L. 89–97, §320(a)(3)(A), substituted “after 1958 and before 1966, or $6,600 in the case of a calendar year after 1965” for “after 1958”.
+<b>1965</b>—Subsec. (a)(2)(ii). Pub. L. 89–97, §320(a)(3)(A), substituted “after 1958 and before 1966, or $6,600 in the case of a calendar year after 1965” for “after 1958”.
 
 Subsec. (a)(2)(iii). Pub. L. 89–97, §320(a)(3)(B), substituted “after 1958 and before 1966, or $6,600 in the case of a taxable year ending after 1965” for “after 1958”.
 
-1961—Subsec. (a). Pub. L. 87–64 substituted “has attained age 62” for “has attained retirement age”, and “who attained age 62 (if a woman) or age 65 (if a man)” for “who attained retirement age”.
+<b>1961</b>—Subsec. (a). Pub. L. 87–64 substituted “has attained age 62” for “has attained retirement age”, and “who attained age 62 (if a woman) or age 65 (if a man)” for “who attained retirement age”.
 
-1960—Subsec. (a)(2). Pub. L. 86–778 required each quarter of a calendar year before 1951 to be counted as a quarter of coverage if the individual received wages equal to $3,000 in the calendar year.
+<b>1960</b>—Subsec. (a)(2). Pub. L. 86–778 required each quarter of a calendar year before 1951 to be counted as a quarter of coverage if the individual received wages equal to $3,000 in the calendar year.
 
 Pub. L. 86–442 inserted sentence in cl. (B) to permit the quarters of coverage in a calendar year to be determined on the basis of the periods during which wages were earned in the case of individuals who did not die prior to Jan. 1, 1955, and who attained retirement age or died before July 1, 1957, who did not meet the requirements for insured status because of having too few quarters of coverage but who would meet the requirements if the quarters of coverage in the first calendar year in which they had any covered employment had been determined on the basis of the period during which wages were earned rather than on the basis of the period during which wages were paid.
 
-1958—Subsec. (a)(2)(B). Pub. L. 85–840 inserted “and before 1959, or $4,800 in the case of a calendar year after 1958” after “after 1954” in cl. (ii), and “and before 1959, or $4,800 in the case of a taxable year ending after 1958” after “after 1954” in cl. (iii).
+<b>1958</b>—Subsec. (a)(2)(B). Pub. L. 85–840 inserted “and before 1959, or $4,800 in the case of a calendar year after 1958” after “after 1954” in cl. (ii), and “and before 1959, or $4,800 in the case of a taxable year ending after 1958” after “after 1954” in cl. (iii).
 
-1956—Subsec. (a)(2)(B)(iv). Act Aug. 1, 1956, substituted “if such wages equal or exceed $100 but are less than $200” for “if such wages are less than $200”.
+<b>1956</b>—Subsec. (a)(2)(B)(iv). Act Aug. 1, 1956, substituted “if such wages equal or exceed $100 but are less than $200” for “if such wages are less than $200”.
 
-1954—Subsec. (a)(2)(A). Act Sept. 1, 1954, §106(a)(1), redefined “quarter of coverage,” in the case of quarters occurring before 1951, to exclude any quarter any part of which was included in a period of disability, other than the initial quarter of such period, and which provided that any quarter any part of which was included in a period of disability, other than the first quarter of such period, could not be counted as a quarter of coverage in a calendar year in which wages of $3,000 or more were paid.
+<b>1954</b>—Subsec. (a)(2)(A). Act Sept. 1, 1954, §106(a)(1), redefined “quarter of coverage,” in the case of quarters occurring before 1951, to exclude any quarter any part of which was included in a period of disability, other than the initial quarter of such period, and which provided that any quarter any part of which was included in a period of disability, other than the first quarter of such period, could not be counted as a quarter of coverage in a calendar year in which wages of $3,000 or more were paid.
 
-Subsec. (a)(2)(B). Act Sept. 1, 1954, §104(c), provided that for calendar years after 1954 an individual shall be credited with a quarter of coverage for each quarter of the year if his wages for the year equal $4,200 and he shall be credited with a quarter of coverage for each quarter of a taxable year ending after 1954 in which the sum of his wages and self-employment income equal $4,200.
+Subsec. (a)(2)(B). Act Sept. 1, 1954, §104(c), provided that for calendar years after 1954 an individual shall becredited with a quarter of coverage for each quarter of the year if his wages for the year equal $4,200 and he shall be credited with a quarter of coverage for each quarter of a taxable year ending after 1954 in which the sum of his wages and self-employment income equal $4,200.
 
 Act Sept. 1, 1954, §108(b), provided for crediting quarters of coverage on basis of annual amounts of wages received for agricultural labor.
 
 Subsec. (a)(2)(B)(i). Act Sept. 1, 1954, §106(a)(2), redefined “quarter of coverage”, for quarters occurring after 1950, to exclude any quarter any part of which was included in a period of disability, other than the first and last quarters of such period.
 
-1952—Subsec. (a)(2)(A). Act July 18, 1952, §3(a)(1), redefined “quarter of coverage”.
+<b>1952</b>—Subsec. (a)(2)(A). Act July 18, 1952, §3(a)(1), redefined “quarter of coverage”.
 
 Subsec. (a)(2)(B)(i). Act July 18, 1952, §3(a)(2), inserted “and no quarter any part of which was included in a period of disability (other than the initial quarter and the last quarter of such period) shall be a quarter of coverage”.
 
@@ -190,7 +190,7 @@ Section 206(b) of Pub. L. 86–778 provided that:
 
 &emsp;“(B) who is (or would, but for the provisions of section 215(f)(6) of the Social Security Act \[section 415(f)(6) of this title\], be) entitled to a recomputation of his primary insurance amount under section 215(f)(2)(A) of such Act on the basis of an application filed in or after the month in which this Act is enacted \[September 1960\]; or
 
-&emsp;“(C) who dies without becoming entitled to benefits under section 202(a) or 223 of the Social Security Act \[section 402(a) or 423 of this title\], and (unless he dies a currently insured individual but not a fully insured individual (as those terms are defined in section 214 of such Act \[section 414 of this title\])) without leaving any individual entitled (on the basis of his wages and self-employment income) to survivor's benefits or a lump-sum death payment under section 202 of such Act \[section 402 of this title\] on the basis of an application filed prior to the month in which this Act is enacted \[September 1960\]; or
+&emsp;“(C) who dies without becoming entitled to benefits under section 202(a) or 223 of the Social Security Act \[section 402(a) or 423 of this title\], and (unless he dies a currently insured individual but not a fully insured individual (as those terms are defined in section 214 of such Act \[section 414 of this title\])) without leaving any individual entitled (on the basis of his wages and self-employment income) to survivor's benefits or a lump-sum death payment under section 202 ofsuch Act \[section 402 of this title\] on the basis of an application filed prior to the month in which this Act is enacted \[September 1960\]; or
 
 &emsp;“(D) who dies in or after the month in which this Act is enacted \[September 1960\] and whose survivors are (or would, but for the provisions of section 215(f)(6) of the Social Security Act \[section 415(f)(6) of this title\], be) entitled to a recomputation of his primary insurance amount under section 215(f)(4)(A) of such Act; or
 
@@ -204,7 +204,7 @@ Section 206(b) of Pub. L. 86–778 provided that:
 
 “(3) Notwithstanding any other provisions of this subsection, in the case of any individual who would not be a fully insured individual under section 214(a) of the Social Security Act \[section 414(a) of this title\] except for the enactment of this section, no benefits shall be payable on the basis of his wages and self-employment income for any month prior to the month in which this Act is enacted \[September 1960\].”
 
-Section 3 of Pub. L. 86–442 provided in part that: “This amendment \[amending this section\] shall be applicable in the case of monthly benefits under title II of the Social Security Act \[this subchapter\] for months after June 1957, and in the case of the lump-sum death payments under such title, with respect to deaths occurring after such month; the requirements for filing applications for such benefits and payments within certain time limits, as prescribed in sections 202(i) and 202(j) of such title \[sections 402(i) and 402(j) of this title\], shall not apply if an application is filed withinthe one-year period beginning with the first day of the month after the month in which this Act is enacted \[April 1960\].”
+Section 3 of Pub. L. 86–442 provided in part that: “This amendment \[amending this section\] shall be applicable in the case of monthly benefits under title II of the Social Security Act \[this subchapter\] for months after June 1957, and in the case of the lump-sum death payments under such title, with respect to deaths occurring after such month; the requirements for filing applications for such benefits and payments within certain time limits, as prescribed in sections 202(i) and 202(j) of such title \[sections 402(i) and 402(j) of this title\], shall not apply if an application is filed within the one-year period beginning with the first day of the month after the month in which this Act is enacted \[April 1960\].”
 
 #### Effective Date of 1954 Amendment
 

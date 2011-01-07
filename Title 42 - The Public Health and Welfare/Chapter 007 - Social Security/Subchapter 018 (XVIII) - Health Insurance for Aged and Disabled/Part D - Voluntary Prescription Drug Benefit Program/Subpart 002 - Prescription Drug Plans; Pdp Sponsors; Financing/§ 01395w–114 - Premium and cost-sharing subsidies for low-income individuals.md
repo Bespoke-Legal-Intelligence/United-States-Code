@@ -22,7 +22,7 @@
 
 #### (i) Institutionalized individuals
 
-&emsp;&emsp;&emsp;In the case of an individual who is a full-benefit dual eligible individual and who is an institutionalized individual or couple (as defined in section 1396a(q)(1)(B) of this title), the elimination of any beneficiary coinsurance described in section 1395w–102(b)(2) of this title (for all amounts through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title).
+&emsp;&emsp;&emsp;In the case of an individual who is a full-benefit dual eligible individual and who is an institutionalized individual or couple (as defined in section 1396a(q)(1)(B) of this title) or, effective on a date specified by the Secretary (but in no case earlier than January 1, 2012), who would be such an institutionalized individual or couple, if the full-benefit dual eligible individual were not receiving services under a home and community-based waiver authorized for a State under section 1315 of this title or subsection (c) or (d) of section 1396n of this title or under a State plan amendment under subsection (i) of such section or services provided through enrollment in a medicaid managed care organization with a contract under section 1396b(m) of this title or under section 1396u–2 of this title, the elimination of any beneficiary coinsurance described in section 1395w–102(b)(2) of this title (for all amounts through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title).
 
 #### (ii) Lowest income dual eligible individuals
 
@@ -106,6 +106,10 @@
 
 &emsp;&emsp;&nbsp;Insofar as the Secretary determines that the eligibility requirements under the State plan for medical assistance referred to in subclause (II) are substantially the same as the requirements for being treated as a subsidy eligible individual described in paragraph (1), the Secretary shall provide for the treatment described in such subclause.
 
+#### (vi) Special rule for widows and widowers
+
+&emsp;&emsp;&emsp;Notwithstanding the preceding provisions of this subparagraph, in the case of an individual whose spouse dies during the effective period for a determination or redetermination that has been made under this subparagraph, such effective period shall be extended through the date that is 1 year after the date on which the determination or redetermination would (but for the application of this clause) otherwise cease to be effective.
+
 #### (C) Income determinations
 
 &emsp;&emsp;For purposes of applying this section—
@@ -120,7 +124,7 @@
 
 &emsp;&emsp;The resources requirement of this subparagraph is that an individual's resources (as determined under section 1382b of this title for purposes of the supplemental security income program subject to the life insurance policy exclusion provided under subparagraph (G)) do not exceed—
 
-&emsp;&emsp;&emsp;(i) for 2006 three times the maximum amount of resources that an individual may have and obtain benefits under that program; and
+&emsp;&emsp;&emsp;(i) for 2006 three times the maximum amount of resources that an individualmay have and obtain benefits under that program; and
 
 &emsp;&emsp;&emsp;(ii) for a subsequent year the resource limitation established under this clause for the previous year increased by the annual percentage increase in the consumer price index (all items; U.S. city average) as of September of such previous year.
 
@@ -190,6 +194,10 @@
 
 > &emsp;&emsp;Any amount established under clause (i) or (ii) that is not a multiple of $1 shall be rounded to the nearest multiple of $1.
 
+#### (5) Waiver of de minimis premiums
+
+&emsp;The Secretary shall, under procedures established by the Secretary, permit a prescriptiondrug plan or an MA–PD plan to waive the monthly beneficiary premium for a subsidy eligible individual if the amount of such premium is de minimis. If such premium is waived under the plan, the Secretary shall not reassign subsidy eligible individuals enrolled in the plan to other plans based on the fact that the monthly beneficiary premium under the plan was greater than the low-income benchmark premium amount.
+
 #### (b) Premium subsidy amount
 
 #### (1) In general
@@ -214,7 +222,7 @@
 
 &emsp;&emsp;&emsp;(ii) a prescription drug plan that provides alternative prescription drug coverage the actuarial value of which is greater than that of standard prescription drug coverage, the portion of the monthly beneficiary premium that is attributable to basic prescription drug coverage; and
 
-&emsp;&emsp;&emsp;(iii) an MA–PD plan, the portion of the MA monthly prescription drug beneficiary premium that is attributable to basic prescription drug benefits (described in section 1395w–22(a)(6)(B)(ii) of this title <sup>1</sup>).
+&emsp;&emsp;&emsp;(iii) an MA–PD plan, the portion of the MA monthly prescription drug beneficiary premium that is attributable to basic prescription drug benefits (described in section 1395w–22(a)(6)(B)(ii) <sup>1</sup> of this title) and determined before the application of the monthly rebate computed under section 1395w–24(b)(1)(C)(i) of this title for that plan and year involved and, in the case of a qualifying plan, before the application of the increase under section 1395w–23(<i>o</i>) of this title for that plan and year involved.
 
 > &emsp;&emsp;The premium amounts described in this subparagraph do not include any amounts attributable to late enrollment penalties under section 1395w–113(b) of this title.
 
@@ -242,15 +250,35 @@
 
 &emsp;The reimbursement under this section with respect to cost-sharing subsidies may be computed on a capitated basis, taking into account the actuarial value of the subsidies and with appropriate adjustments to reflect differences in the risks actually involved.
 
-#### (d) Relation to medicaid program
+#### (d) Facilitation of reassignments
+
+Beginning not later than January 1, 2011, the Secretary shall, in the case of a subsidy eligible individual who is enrolled in one prescription drug plan and is subsequently reassigned by the Secretary to a new prescription drug plan, provide the individual, within 30 days of such reassignment, with—
+
+&emsp;(1) information on formulary differences between the individual's former plan and the plan to which the individual is reassigned with respect to the individual's drug regimens; and
+
+&emsp;(2) a description of the individual's right to request a coverage determination, exception, or reconsideration under section 1395w–104(g) of this title, bring an appeal under section 1395w–104(h) of this title, or resolve a grievance under section 1395w–104(f) of this title.
+
+#### (e) Relation to medicaid program
 
 For special provisions under the medicaid program relating to medicare prescription drug benefits, see section 1396u–5 of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–14, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2107; amended Pub. L. 110–275, title I, §§114(a)(2), 116(a), 117(a), July 15, 2008, 122 Stat. 2506, 2507.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–14, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2107; amended Pub. L. 110–275, title I, §§114(a)(2), 116(a), 117(a), July 15, 2008, 122 Stat. 2506, 2507; Pub. L. 111–148, title III, §§3302(a), 3303(a), 3304(a), 3305, 3309, Mar. 23, 2010, 124 Stat. 468–470, 475; Pub. L. 111–152, title I, §1102(c)(4), Mar. 30, 2010, 124 Stat. 1045.)
 
 #### Amendments
 
-2008—Subsec. (a)(1)(A). Pub. L. 110–275, §114(a)(2), substituted “equal to 100 percent of the amount described in subsection (b)(1), but not to exceed the premium amount specified in subsection (b)(2)(B).” for “equal to—
+<b>2010</b>—Subsec. (a)(1)(D)(i). Pub. L. 111–148, §3309, inserted “or, effective on a date specified by the Secretary (but in no case earlier than January 1, 2012), who would be such an institutionalized individual or couple, if the full-benefit dual eligible individual were not receiving services under a home and community-based waiver authorized for a State under section 1315 of this title or subsection (c) or (d) of section 1396n of this title or under a State plan amendment under subsection (i) of such section or services provided through enrollment in a medicaid managed care organization with a contract under section 1396b(m) of this title or under section 1396u–2 of this title” after “1396a(q)(1)(B) of this title)”.
+
+Subsec. (a)(3)(B)(vi). Pub. L. 111–148, §3304(a), added cl. (vi).
+
+Subsec. (a)(5). Pub. L. 111–148, §3303(a), added par. (5).
+
+Subsec. (b)(2)(B)(iii). Pub. L. 111–152 substituted “and determined before the application of the monthly rebate computed under section 1395w–24(b)(1)(C)(i) of this title for that plan and year involved and, in the case of a qualifying plan, before the application of the increase under section 1395w–23(<i>o</i>) of this title for that plan and year involved” for “, determined without regard to any reduction in such premium as a result of any beneficiary rebate under section 1395w–24(b)(1)(C) of this title or bonus payment under section 1395w–23(n) of this title”.
+
+Pub. L. 111–148, §3302(a), inserted “, determined without regard to any reduction in such premium as a result of any beneficiary rebate under section 1854(b)(1)(C) or bonus payment under section 1395w–23(n) of this title” before period at end.
+
+Subsecs. (d), (e). Pub. L. 111–148, §3305, added subsec. (d) and redesignated former subsec. (d) as (e).
+
+<b>2008</b>—Subsec. (a)(1)(A). Pub. L. 110–275, §114(a)(2), substituted “equal to 100 percent of the amount described in subsection (b)(1), but not to exceed the premium amount specified in subsection (b)(2)(B).” for “equal to—
 
 &emsp;“(i) 100 percent of the amount described in subsection (b)(1) of this section, but not to exceed the premium amount specified in subsection (b)(2)(B) of this section; plus
 
@@ -263,6 +291,14 @@ Subsec. (a)(3)(C)(i). Pub. L. 110–275, §116(a)(1), inserted “and except tha
 Subsec. (a)(3)(D), (E)(i). Pub. L. 110–275, §116(a)(2), (3), inserted “subject to the life insurance policy exclusion provided under subparagraph (G)” after “program” in introductory provisions.
 
 Subsec. (a)(3)(G). Pub. L. 110–275, §116(a)(4), added subpar. (G).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–148, title III, §3302(b), Mar. 23, 2010, 124 Stat. 468, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to premiums for months beginning on or after January 1, 2011.”
+
+Amendment by section 3303(a) of Pub. L. 111–148 applicable to premiums for months, and enrollments for plan years, beginning on or after January 1, 2011, see section 3303(c) of Pub. L. 111–148, set out as a note under section 1395w–101 of this title.
+
+Pub. L. 111–148, title III, §3304(b), Mar. 23, 2010, 124 Stat. 470, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2011.”
 
 #### Effective Date of 2008 Amendment
 

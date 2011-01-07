@@ -48,7 +48,7 @@ Another section 40121 was renumbered section 40124 of this title.
 
 #### Amendments
 
-2000—Subsec. (c)(2). Pub. L. 106–181 substituted “section 40110(d)(2) of this title” for “section 348(b) of Public Law 104–50”.
+<b>2000</b>—Subsec. (c)(2). Pub. L. 106–181 substituted “section 40110(d)(2) of this title” for “section 348(b) of Public Law 104–50”.
 
 #### Effective Date of 2000 Amendment
 

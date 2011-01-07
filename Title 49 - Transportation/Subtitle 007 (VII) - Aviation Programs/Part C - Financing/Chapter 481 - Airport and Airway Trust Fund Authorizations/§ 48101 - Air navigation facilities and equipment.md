@@ -14,7 +14,7 @@ General Authorization of Appropriations.—Not more than a total of the followin
 
 &emsp;(5) $2,742,095,000 for fiscal year 2009; and
 
-&emsp;(6) $1,466,888,500 for the 6-month period beginning on October 1, 2009.
+&emsp;(6) $2,936,203,000 for fiscal year 2010.
 
 (b)
 
@@ -30,7 +30,7 @@ Operational Benefits of Wake Vortex Advisory System.—Of amounts appropriated u
 
 (e)
 
-Ground-Based Precision Navigational Aids.—Of amounts appropriated under subsection (a), such sums as may be necessary for each of fiscal years 2004 to 2007 may be used to establish a program for the installation of a precision approach aid designed to improve aircraft accessibility at mountainous airports with limited land if the approach aid is able to providecurved and segmented approach guidance for noise abatement purposes and other such approach aids and is certified or approved by the Administrator.
+Ground-Based Precision Navigational Aids.—Of amounts appropriated under subsection (a), such sums as may be necessary for each of fiscal years 2004 to 2007 may be used to establish a program for the installation of a precision approach aid designed to improve aircraft accessibility at mountainous airports with limited land if the approach aid is able to provide curved and segmented approach guidance for noise abatement purposes and other such approach aids and is certified or approved by the Administrator.
 
 (f)
 
@@ -48,7 +48,7 @@ Standby Power Efficiency Program.—Of amounts appropriated under subsection (a)
 
 Pilot Program To Provide Incentives for Development of New Technologies.—Of amounts appropriated under subsection (a), $500,000 for fiscal year 2004 may be used for the conduct of a pilot program to provide operating incentives to users of the airspace for the deployment of new technologies, including technologies to facilitate expedited flight routing and sequencing of takeoffs and landings.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title I, §102(a), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 104–264, title I, §102(a), (b)(1), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 106–6, §3, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §102, Apr. 5, 2000, 114 Stat. 65; Pub. L. 108–176, title I, §102, Dec. 12, 2003, 117 Stat. 2494; Pub. L. 110–330, §7, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §7, Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §7, Oct. 1, 2009, 123 Stat. 2056; Pub. L. 111–116, §7, Dec. 16, 2009, 123 Stat. 3033.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title I, §102(a), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 104–264, title I, §102(a), (b)(1), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 106–6, §3, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §102, Apr. 5, 2000, 114 Stat. 65; Pub. L. 108–176, title I, §102, Dec. 12, 2003, 117 Stat. 2494; Pub. L. 110–330, §7, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §7, Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §7, Oct. 1, 2009, 123 Stat. 2056; Pub. L. 111–116, §7, Dec. 16, 2009, 123 Stat. 3033; Pub. L. 111–153, §7, Mar. 31, 2010, 124 Stat. 1086; Pub. L. 111–161, §7, Apr. 30, 2010, 124 Stat. 1128; Pub. L. 111–197, §7, July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §106, Aug. 1, 2010, 124 Stat. 2350.)
 
 Historical and Revision Notes
 
@@ -90,15 +90,23 @@ In subsection (a), the words “to the Secretary of Transportation” are added 
 
 #### Amendments
 
-2009—Subsec. (a)(5). Pub. L. 111–12 substituted “$2,742,095,000 for fiscal year 2009” for “$1,360,188,750 for the 6-month period beginning on October 1, 2008”.
+<b>2010</b>—Subsec. (a)(6). Pub. L. 111–216 amended par. (6) generally. Prior to amendment, par. (6) read as follows: “$2,453,539,493 for the period beginning on October 1, 2009, and ending on August 1, 2010.”
+
+Pub. L. 111–197 amended par. (6) generally. Prior to amendment, par. (6) read as follows: “$2,220,252,132 for the period beginning on October 1, 2009, and ending on July 3, 2010.”
+
+Pub. L. 111–161 amended par. (6) generally. Prior to amendment, par. (6) read as follows: “$1,712,785,083 for the 7-month period beginning on October 1, 2009.”
+
+Pub. L. 111–153 amended par. (6) generally. Prior to amendment, par. (6) read as follows: “$1,466,888,500 for the 6-month period beginning on October 1, 2009.”
+
+<b>2009</b>—Subsec. (a)(5). Pub. L. 111–12 substituted “$2,742,095,000 for fiscal year 2009” for “$1,360,188,750 for the 6-month period beginning on October 1, 2008”.
 
 Subsec. (a)(6). Pub. L. 111–116 amended par. (6) generally. Prior to amendment, par. (6) read as follows: “$733,444,250 for the 3-month period beginning on October 1, 2009.”
 
 Pub. L. 111–69 added par. (6).
 
-2008—Subsec. (a)(5). Pub. L. 110–330 added par. (5).
+<b>2008</b>—Subsec. (a)(5). Pub. L. 110–330 added par. (5).
 
-2003—Subsec. (a)(1) to (5). Pub. L. 108–176, §102(1), added pars. (1) to (4) and struck out formers par. (1) to (5) which read as follows:
+<b>2003</b>—Subsec. (a)(1) to (5). Pub. L. 108–176, §102(1), added pars. (1) to (4) and struck out formers par. (1) to (5) which read as follows:
 
 “(1) $2,131,000,000 for fiscal year 1999.
 
@@ -116,7 +124,7 @@ Subsec. (f). Pub. L. 108–176, §102(4), struck out “for fiscal years beginni
 
 Subsecs. (h), (i). Pub. L. 108–176, §102(5), added subsecs. (h) and (i).
 
-2000—Subsec. (a). Pub. L. 106–181, §102(a), added pars. (1) to (5) and struck out former pars. (1) to (3) which read as follows:
+<b>2000</b>—Subsec. (a). Pub. L. 106–181, §102(a), added pars. (1) to (5) and struck out former pars. (1) to (3) which read as follows:
 
 “(1) $2,068,000,000 for fiscal year 1997.
 
@@ -132,9 +140,9 @@ Subsec. (f). Pub. L. 106–181, §102(d), added subsec. (f).
 
 Subsec. (g). Pub. L. 106–181, §102(e), added subsec. (g).
 
-1999—Subsec. (a)(3). Pub. L. 106–6 added par. (3).
+<b>1999</b>—Subsec. (a)(3). Pub. L. 106–6 added par. (3).
 
-1996—Pub. L. 104–264, §102(b)(1), inserted “and equipment” after “facilities” in section catchline.
+<b>1996</b>—Pub. L. 104–264, §102(b)(1), inserted “and equipment” after “facilities” in section catchline.
 
 Subsec. (a). Pub. L. 104–264, §102(a), added pars. (1) and (2) and struck out former pars. (1) to (4) which read as follows:
 
@@ -146,7 +154,7 @@ Subsec. (a). Pub. L. 104–264, §102(a), added pars. (1) and (2) and struck out
 
 “(4) For the fiscal years ending September 30, 1991–1996, $16,129,000,000.”
 
-1994—Subsec. (a)(1). Pub. L. 103–305, §102(a)(1), substituted “For” for “for”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–305, §102(a)(1), substituted “For” for “for”.
 
 Subsec. (a)(2). Pub. L. 103–305, §102(a)(2), substituted “For” for “for” and “$10,724,000,000” for “$11,100,000,000”.
 

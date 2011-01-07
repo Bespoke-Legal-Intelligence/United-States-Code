@@ -6,7 +6,7 @@ In any civil action instituted under this chapter by the United States in any di
 
 #### Amendments
 
-1984—Pub. L. 98–620 struck out provision that the judge so designated had to assign such action for hearing as soon as practicable, participate in the hearings and determination thereof, and cause such action to be expedited in every way.
+<b>1984</b>—Pub. L. 98–620 struck out provision that the judge so designated had to assign such action for hearing as soon as practicable, participate in the hearings and determination thereof, and cause such action to be expedited in every way.
 
 #### Effective Date of 1984 Amendment
 

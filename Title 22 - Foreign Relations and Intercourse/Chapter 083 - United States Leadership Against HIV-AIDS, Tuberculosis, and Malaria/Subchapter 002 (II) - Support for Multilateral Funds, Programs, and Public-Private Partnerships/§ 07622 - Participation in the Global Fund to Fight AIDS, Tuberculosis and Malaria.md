@@ -190,7 +190,7 @@ Not later than 1 year after May 27, 2003, and annually thereafter for the durati
 
 &emsp;&emsp;(A) periodically reviewing all proposals received by the Global Fund; and
 
-&emsp;&emsp;(B) providing guidance to the United States persons who are representatives onthe panels, committees, and boards of the Global Fund, on the technical efficacy, suitability, and appropriateness of the proposals, and ensuring that such persons are fully informed of technical inadequacies or other aspects of the proposals that are inconsistent with the purposes of this chapter or any other Act relating to the provision of foreign assistance in the area of AIDS.
+&emsp;&emsp;(B) providing guidance to the United States persons who are representatives on the panels, committees, and boards of the Global Fund, on the technical efficacy, suitability, and appropriateness of the proposals, and ensuring that such persons are fully informed of technical inadequacies or other aspects of the proposals that are inconsistent with the purposes of this chapter or any other Act relating to the provision of foreign assistance in the area of AIDS.
 
 #### (3) Membership
 
@@ -248,11 +248,11 @@ It is the sense of the Congress that the President should—
 
 The Global AIDS and Tuberculosis Relief Act of 2000, referred to in subsec. (a)(1)(A), is Pub. L. 106–264, Aug. 19, 2000, 114 Stat. 748, which is classified principally to chapter 76 (§6801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
-This chapter, referred to in subsecs. (a)(1)(B)(ii), (d)(5), and (e)(2)(B), was in the original a reference to this Act, meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1)(B)(ii), (d)(5), and (e)(2)(B), was in the original a reference to this Act, meaning Pub. L. 108–25, May 27, 2003, 117 Stat.711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–293, §202(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) stated findings of Congress.
+<b>2008</b>—Subsec. (a). Pub. L. 110–293, §202(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) stated findings of Congress.
 
 Subsec. (b)(3). Pub. L. 110–293, §202(b), added par. (3).
 
@@ -270,13 +270,13 @@ Subsec. (d)(4)(C)(ii). Pub. L. 110–293, §202(c)(2)(C), substituted “Committ
 
 Subsec. (d)(5), (6). Pub. L. 110–293, §202(c)(3), added pars. (5) and (6).
 
-2004—Subsec. (d)(4)(A)(vi). Pub. L. 108–199, §595(1), added cl. (vi).
+<b>2004</b>—Subsec. (d)(4)(A)(vi). Pub. L. 108–199, §595(1), added cl. (vi).
 
 Subsec. (d)(4)(B)(iv). Pub. L. 108–199, §595(2), added cl. (iv).
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title, and Memorandum of President of Feb. 23, 2004, 69 F.R. 9509, set out as a note under section 7611 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title, and Memorandum of President of Feb. 23, 2004, 69 F.R. 9509, set out as a note under section 7611 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

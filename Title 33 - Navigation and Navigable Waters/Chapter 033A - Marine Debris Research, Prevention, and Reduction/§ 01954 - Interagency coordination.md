@@ -4,7 +4,7 @@
 
 #### (b) Definition of marine debris
 
-The Administrator and the Commandant of the Coast Guard, in consultation with the Interagency Committee established under subsection (a),<sup>1</sup> shall jointly develop and promulgatethrough regulations a definition of the term “marine debris” for purposes of this chapter.
+The Administrator and the Commandant of the Coast Guard, in consultation with the Interagency Committee established under subsection (a),<sup>1</sup> shall jointly develop and promulgate through regulations a definition of the term “marine debris” for purposes of this chapter.
 
 #### (c) Reports
 

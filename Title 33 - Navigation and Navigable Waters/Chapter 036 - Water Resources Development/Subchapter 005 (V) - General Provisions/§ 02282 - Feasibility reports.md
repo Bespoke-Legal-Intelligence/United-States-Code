@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(A) any study with respect to which a report has been submitted to Congress before November 17, 1986;
 
-&emsp;&emsp;(B) any study for a project, which project is authorized for construction by this Act and is not subject to section 903(b);<sup>1</sup>
+&emsp;&emsp;(B) any study for a project, which project is authorized for construction by this Act and is not subject to section 903(b); <sup>1</sup>
 
 &emsp;&emsp;(C) any study for a project which does not require specific authorization by Congress in law or otherwise; and
 
@@ -68,13 +68,13 @@ The Water Resources Development Act of 2000, referred to in subsec. (a)(4), is P
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–114, §2043(b)(1), designated first sentence of existing provisions as par. (1) and inserted subsec. (a) and par. (1) headings, substituted “the Secretary that results in recommendations concerning a project or the operation of a project and that requires specific authorization by Congress in law or otherwise, the Secretary shall perform a reconnaissance study and” for “the Secretary, the Secretary shall” in par. (1), designated second and third sentences of existing provisions as par. (2) and inserted heading, substituted “A feasibility report” for “Such feasibility report” and “The feasibility report” in par. (2), added pars. (3) and (4), and struck out last sentence of existing provisions which read as follows: “This subsection shall not apply to (1) any study with respect to which a report has been submitted to Congress before November 17, 1986, (2) any study for a project, which project is authorized for construction by this Act and is not subject to section 903(b), (3) any study for a project which is authorized under any of the following sections: section 205 of the Flood Control Act of 1948 (33 U.S.C. 701s), section 2 of the Flood Control Act of August 28, 1946 (33 U.S.C. 701r), section 107 of the River and Harbor Act of 1960 (33 U.S.C. 577), section 3 of the Act entitled ‘An Act authorizing Federal participation in the cost of protecting the shores of publicly owned property’, approved August 13, 1946 (33 U.S.C. 426g), and section 111 of the River and Harbor Act of 1968 (33 U.S.C. 426i), and (4) general studies not intended to lead to recommendation of a specific water resources project.”
+<b>2007</b>—Subsec. (a). Pub. L. 110–114, §2043(b)(1), designated first sentence of existing provisions as par. (1) and inserted subsec. (a) and par. (1) headings, substituted “the Secretary that results in recommendations concerning a project or the operation of a project and that requires specific authorization by Congress in law or otherwise, the Secretary shall perform a reconnaissance study and” for “the Secretary, the Secretary shall” in par. (1), designated second and third sentences of existing provisions as par. (2) and inserted heading, substituted “A feasibility report” for “Such feasibility report” and “The feasibility report” in par. (2), added pars. (3) and (4), and struck out last sentence of existing provisions which read as follows: “This subsection shall not apply to (1) any study with respect to which a report has been submitted to Congress before November 17, 1986, (2) any study for a project, which project is authorized for construction by this Act and is not subject to section 903(b), (3) any study for a project which is authorized under any of the following sections: section 205 of the Flood Control Act of 1948 (33 U.S.C. 701s), section 2 of the Flood Control Act of August 28, 1946 (33 U.S.C. 701r), section 107 of the River and Harbor Act of 1960 (33 U.S.C. 577), section 3 of the Act entitled ‘An Act authorizing Federal participation in the cost of protecting the shores of publicly owned property’, approved August 13, 1946 (33 U.S.C. 426g), and section 111 of the River and Harbor Act of 1968 (33 U.S.C. 426i), and (4) general studies not intended to lead to recommendation of a specific water resources project.”
 
 Subsec. (b). Pub. L. 110–114, §2043(b)(2)(A), inserted heading.
 
 Subsecs. (c) to (f). Pub. L. 110–114, §2043(b)(2)(B)–(E), added subsec. (c), redesignated former subsecs. (c) to (e) as (d) to (f), respectively, and inserted headings in subsecs. (d) and (e).
 
-2000—Subsec. (e). Pub. L. 106–541 added subsec. (e).
+<b>2000</b>—Subsec. (e). Pub. L. 106–541 added subsec. (e).
 
 #### National Academy of Sciences Study
 
@@ -142,7 +142,7 @@ In general.—Not later than 90 days after the date of enactment of this Act \[D
 
 &emsp;&emsp;“(C) a review of a sample of instances in which the Secretary has applied the methods identified under subparagraph (B) in the analysis of each type of water resources project; and
 
-&emsp;&emsp;“(D) a comparative evaluation of the basis and validity of state-of-the-art methods identified under subparagraph (A) and the methods identified under subparagraphs (B) and (C).
+&emsp;&emsp;“(D) a comparative evaluation of the basis and validity of state-of-the-art methods identifiedunder subparagraph (A) and the methods identified under subparagraphs (B) and (C).
 
 &emsp;“(2)
 

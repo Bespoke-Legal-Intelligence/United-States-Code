@@ -14,5 +14,5 @@ As used in this chapter—
 
 #### Amendments
 
-1966—Pub. L. 89–644 inserted provisions in par. (1) exempting petroleum or any of its constituent parts, title to which has been acquired by a State pursuant to its laws.
+<b>1966</b>—Pub. L. 89–644 inserted provisions in par. (1) exempting petroleum or any of its constituent parts, title to which has been acquired by a State pursuant to its laws.
 

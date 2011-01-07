@@ -78,7 +78,7 @@ Jan. 2, 1942, ch. 645, §§1 (less last proviso), 6, 7, 55 Stat. 880; restated A
 
 31:224h.
 
-In subsection (a), the words “for such purposes”, “or destruction”, “public”, “private”, “Army forces”, and “whether under a lease, express or implied” are omitted as surplusage. The words “armed forces under his jurisdiction” are substituted for the words “Army, Air Force, Navy, or Marine Corps”. The same words are substituted for the words “Army, Air Force, Navy, or Marine Corps forces” to reflect the opinion of the Judge Advocate General of the Army (JAGD/D–55–51000, 17 Jan. 55). The word “settle” is substituted for the words “consider, ascertain, adjust, determine”, since the word “settle”, as defined in section 2731 of thistitle, includes those actions. The words “a member thereof, or by a civilian employee of the department concerned” are substituted for the words “or individual members thereof, including military personnel and civilian employees”. The last sentence is substituted for the words “including places located therein which are under the temporary or permanent jurisdiction of the United States”.
+In subsection (a), the words “for such purposes”, “or destruction”, “public”, “private”, “Army \* \* \* forces”, and “whether under a lease, express or implied” are omitted as surplusage. The words “armed forces under his jurisdiction” are substituted for the words “Army, Air Force, Navy, or Marine Corps”. The same words are substituted for the words “Army, Air Force, Navy, or Marine Corps forces” to reflect the opinion of the Judge Advocate General of the Army (JAGD/D–55–51000, 17 Jan. 55). The word “settle” is substituted for the words “consider, ascertain, adjust, determine”, since the word “settle”, as defined in section 2731 of this title, includes those actions. The words “a member thereof, or by a civilian employee of the department concerned” are substituted for the words “or individual members thereof, including military personnel and civilian employees”. The last sentence is substituted for the words “including places located therein which are under the temporary or permanent jurisdiction of the United States”.
 
 In subsection (a)(2), the words “United States” are substituted for the word “Government”.
 
@@ -88,7 +88,7 @@ In subsection (c), the first 28 words of the second proviso of 31:224d and the w
 
 In subsection (d), the word “may” is substituted for the words “shall have authority, if he deems”. The words “that would otherwise be covered by this section” are inserted for clarity. The words “to be meritorious” and “character of such” are omitted as surplusage.
 
-In subsection (f), the words “a military department” are substituted for the words “service concerned” after the words “the request of the”. The words “or Commissions” and “even though not” are omitted as surplusage. The words “an armed force under the jurisdiction of another military department” are substituted for the words “service concerned” after the words “officers of the”. 31:224i (last 19 words) is omitted, since all claims are paid from one appropriation made to the Department of Defense.
+In subsection (f), the words “a military department” are substituted for the words “service concerned” afterthe words “the request of the”. The words “or Commissions” and “even though not” are omitted as surplusage. The words “an armed force under the jurisdiction of another military department” are substituted for the words “service concerned” after the words “officers of the”. 31:224i (last 19 words) is omitted, since all claims are paid from one appropriation made to the Department of Defense.
 
 1958
 
@@ -124,15 +124,15 @@ In subsection (h), the word “settle” is substituted for the words “conside
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–163 substituted “Commonwealths or possessions” for “Territories, Commonwealths, or possessions” in concluding provisions.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted “Commonwealths or possessions” for “Territories, Commonwealths, or possessions” in concluding provisions.
 
-2002—Subsec. (g). Pub. L. 107–296 substituted “Department of Homeland Security” for “Department of Transportation”.
+<b>2002</b>—Subsec. (g). Pub. L. 107–296 substituted “Department of Homeland Security” for “Department of Transportation”.
 
-1996—Subsec. (d). Pub. L. 104–316 substituted “Secretary of the Treasury” for “Comptroller General”.
+<b>1996</b>—Subsec. (d). Pub. L. 104–316 substituted “Secretary of the Treasury” for “Comptroller General”.
 
-1990—Subsec. (h). Pub. L. 101–510 substituted “as provided in section 2732 of this title” for “available to the Office of the Secretary of Defense for the payment of claims”.
+<b>1990</b>—Subsec. (h). Pub. L. 101–510 substituted “as provided in section 2732 of this title” for “available to the Office of the Secretary of Defense for the payment of claims”.
 
-1984—Subsec. (a). Pub. L. 98–564, §2(1), substituted “$100,000” for “$25,000” and inserted provisions whereby employees as well as officers of the Secretary may settle claims in text preceding par. (1).
+<b>1984</b>—Subsec. (a). Pub. L. 98–564, §2(1), substituted “$100,000” for “$25,000” and inserted provisions whereby employees as well as officers of the Secretary may settle claims in text preceding par. (1).
 
 Pub. L. 98–564, §2(2), inserted “or employee” after “An officer” in last sentence.
 
@@ -140,23 +140,23 @@ Subsec. (c). Pub. L. 98–564, §2(3), substituted provisions whereby the Secret
 
 Subsec. (d). Pub. L. 98–564, §2(4), substituted provisions providing that if the Secretary considers a claim in excess of $100,000 meritorious, the Secretary may pay $100,000 and report any excess amount to the Comptroller General for provisions which provided that for claims in excess of $25,000 the Secretary may pay $25,000 and certify any excess to Congress as a legal claim to be paid from appropriations.
 
-1980—Subsec. (g). Pub. L. 96–513 substituted “Department of Transportation” for “Department of the Treasury”.
+<b>1980</b>—Subsec. (g). Pub. L. 96–513 substituted “Department of Transportation” for “Department of the Treasury”.
 
-1974—Subsec. (a). Pub. L. 93–336 substituted “$25,000” for “$15,000”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–336 substituted “$25,000” for “$15,000”.
 
 Subsec. (d). Pub. L. 93–336 substituted “$25,000” for “$15,000” in two places.
 
-1970—Subsec. (d). Pub. L. 91–312 authorized the Secretary to pay, without certification to Congress, up to $15,000 towards the settlement of meritorious claims in excess of $15,000.
+<b>1970</b>—Subsec. (d). Pub. L. 91–312 authorized the Secretary to pay, without certification to Congress, up to $15,000 towards the settlement of meritorious claims in excess of $15,000.
 
 Subsec. (e). Pub. L. 91–312 excepted claims under subsec. (d) from requirement that all claims paid be accepted by the claimant in full satisfaction, and struck out provision limiting the application of such requirement to claims payable under subsec. (a) of this section.
 
-1968—Subsec. (a). Pub. L. 90–521, §1, struck out “under his jurisdiction” after “armed forces” in text preceding cl. (1) and permitted an officer to serve on a claims commission under the jurisdiction of another armed force only with the consent of the Secretary of his department, or his designee, but required him to perform his duties under regulations of the department appointing the commission, respectively.
+<b>1968</b>—Subsec. (a). Pub. L. 90–521, §1, struck out “under his jurisdiction” after “armed forces” in text preceding cl. (1) and permitted an officer to serve on a claims commission under the jurisdiction of another armed force only with the consent of the Secretary of his department, or his designee, but required him to perform his duties under regulations of the department appointing the commission, respectively.
 
 Subsec. (b)(3). Pub. L. 90–521, §3, provided for allowance of claim if it arises from an accident or malfunction incident to the operation of an aircraft of the armed forces of the United States, including the airborne ordnance, indirectly related to combat, and occurring while preparing for, going to, or returning from a combat mission.
 
-1960—Subsec. (b). Pub. L. 86–411 substituted “two years” for “one year” in cl. (1).
+<b>1960</b>—Subsec. (b). Pub. L. 86–411 substituted “two years” for “one year” in cl. (1).
 
-1959—Pub. L. 86–223, §1(1)(A), substituted “the armed forces” for “Department of Army, Navy, or Air Force” in section catchline.
+<b>1959</b>—Pub. L. 86–223, §1(1)(A), substituted “the armed forces” for “Department of Army, Navy, or Air Force” in section catchline.
 
 Subsec. (a). Pub. L. 86–223, §1(1)(B), substituted “concerned” and “the military department concerned or the Coast Guard, as the case may be” for “of a military department” and “the department concerned”, respectively.
 
@@ -166,7 +166,7 @@ Subsec. (f). Pub. L. 86–223, §1(1)(D), substituted “the department concerne
 
 Subsec. (g). Pub. L. 86–223, §1(1)(E), substituted provision for payment of claims against the Coast Guard arising while it is operating as a service in the Department of the Treasury out of the appropriation for the operating expenses of the Coast Guard for provisions excluding such claims unless they arise, are settled and paid while the Coast Guard is operating as a service of the Navy and authorizing Coast Guard officers to serve on claims commissions or to approve settlements, only for claims against the Coast Guard.
 
-1958—Subsec. (a). Pub. L. 85–861, §1(55)(A)–(D), struck out “arising in foreign countries” after “meritorious claims”, and substituted “$15,000” for “$5,000”, “outside the United States, or the Territories, Commonwealths, or possessions,” for “in that country”, and “a foreign country” for “that country” in cls. (1) and (2).
+<b>1958</b>—Subsec. (a). Pub. L. 85–861, §1(55)(A)–(D), struck out “arising in foreign countries” after “meritorious claims”, and substituted “$15,000” for “$5,000”, “outside the United States, or the Territories, Commonwealths, or possessions,” for “in that country”, and “a foreign country” for “that country” in cls. (1) and (2).
 
 Subsec. (d). Pub. L. 85–861, §1(55)(A), substituted “$15,000” for “$5,000”.
 

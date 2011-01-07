@@ -8,7 +8,7 @@ Not later than 180 days after the submission of the Pakistan Assistance Strategy
 
 &emsp;(2) a list of persons or entities from the United States or other countries that have received funds in excess of $100,000 to conduct projects under subchapter I of this chapter during the period covered by the report, which may be included in a classified annex, if necessary to avoid a security risk, and a justification for the classification;
 
-&emsp;(3) with respect to the plan described in section 8441(a)(3) of this title, updates to suchplan and a description of best practices to improve the impact of the assistance authorized under subchapter I of this chapter;
+&emsp;(3) with respect to the plan described in section 8441(a)(3) of this title, updates to such plan and a description of best practices to improve the impact of the assistance authorized under subchapter I of this chapter;
 
 &emsp;(4) an assessment of the effectiveness of assistance provided under subchapter I of this chapter during the period covered by the report in achieving desired objectives and outcomes as guided by the plan described in section 8441(a)(3) of this title, and as updated pursuant to paragraph (3) of this subsection, including a systematic, qualitative, and where possible, quantitative basis for assessing whether desired outcomes are achieved and a timeline for completion of each project and program;
 

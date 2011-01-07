@@ -66,9 +66,9 @@ In subsection (c), the first sentence is substituted for 50 App. U.S.C. 1009(b) 
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–106, §569(c)(1)(A), substituted “Except as provided in subsection (d), when” for “When”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106, §569(c)(1)(A), substituted “Except as provided in subsection (d), when” for “When”.
 
 Subsec. (d). Pub. L. 104–106, §569(c)(1)(B), added subsec. (d).
 
-1991—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)” in two places.
+<b>1991</b>—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)” in two places.
 

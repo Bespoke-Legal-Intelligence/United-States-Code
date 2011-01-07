@@ -6,11 +6,11 @@ The Secretary is authorized and directed to assist and cooperate with other Fede
 
 #### Amendments
 
-1987—Pub. L. 100–17 inserted reference in second sentence to Commonwealth of the Northern Mariana Islands.
+<b>1987</b>—Pub. L. 100–17 inserted reference in second sentence to Commonwealth of the Northern Mariana Islands.
 
-1984—Pub. L. 98–363 struck out “, except that all expenditures for carrying out this chapter in the Virgin Islands, Guam, and American Samoa shall be paid out of money in the Treasury not otherwise appropriated” after “and American Samoa”.
+<b>1984</b>—Pub. L. 98–363 struck out “, except that all expenditures for carrying out this chapter in the Virgin Islands, Guam, and American Samoa shall be paid out of money in the Treasury not otherwise appropriated” after “and American Samoa”.
 
-1973—Pub. L. 93–87 inserted definition of “State” and provided that all expenditures for carrying out this chapter in the Virgin Islands, Guam, and American Samoa shall be paid out of money in the Treasury not otherwise appropriated.
+<b>1973</b>—Pub. L. 93–87 inserted definition of “State” and provided that all expenditures for carrying out this chapter in the Virgin Islands, Guam, and American Samoa shall be paid out of money in the Treasury not otherwise appropriated.
 
 #### Effective Date of 1984 Amendment
 
@@ -18,7 +18,7 @@ Section 3(c) of Pub. L. 98–363 provided that: “The amendments made by subsec
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–240, title II, §2001, Dec. 18, 1991, 105 Stat. 2070, provided that: “This part \[part A (§§2001–2009) of title II of Pub. L. 102–240, amending sections 402, 403, and 410 of this title, enacting provisions set out as notes under sections 402, 403, and 410 of this title, and amending provisions set out below\] may be cited as the ‘Highway Safety Act of 1991’.”
+Pub. L. 102–240, title II, §2001, Dec. 18, 1991, 105 Stat. 2070, provided that: “This part \[part A (§§2001–2009) oftitle II of Pub. L. 102–240, amending sections 402, 403, and 410 of this title, enacting provisions set out as notes under sections 402, 403, and 410 of this title, and amending provisions set out below\] may be cited as the ‘Highway Safety Act of 1991’.”
 
 #### Short Title of 1988 Amendment
 
@@ -38,7 +38,7 @@ Pub. L. 95–599, title II, §201, Nov. 6, 1978, 92 Stat. 2727, provided that: �
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–280, title II, §201, May 5, 1976, 90 Stat. 451, provided that: “That title \[amending sections 104, 151, 402, 404, and 406 of this title and provisions set out asa note under section 130 of this title and enacting provisions set out as notes under sections 127 and 402 of this title\] may be cited as the ‘Highway Safety Act of 1976’.”
+Pub. L. 94–280, title II, §201, May 5, 1976, 90 Stat. 451, provided that: “That title \[amending sections 104, 151, 402, 404, and 406 of this title and provisions set out as a note under section 130 of this title and enacting provisions set out as notes under sections 127 and 402 of this title\] may be cited as the ‘Highway Safety Act of 1976’.”
 
 #### Short Title of 1973 Amendment
 
@@ -178,7 +178,7 @@ Contract authority.—Funds authorized by this subsection shall be available for
 
 #### Prohibition on Other Uses
 
-Pub. L. 109–59, title II, §2001(b), Aug. 10, 2005, 119 Stat. 1520, provided that: “Except as otherwise provided in chapter 4 of title 23, United States Code, and this title\[enacting section 412 of this title and section 39 of Title 18, Crimes and Criminal Procedure, amending sections 402 to 406, 408, and 410 of this title, and enacting provisions set out as notes under sections 402, 403, 405, and 410 of this title\], (including the amendments made by this title), the amounts made available from the Highway Trust Fund (other than the Mass Transit Account) for a program under such chapter shall only be used to carry out such program and may not be used by States or local governments for construction purposes.”
+Pub. L. 109–59, title II, §2001(b), Aug. 10, 2005, 119 Stat. 1520, provided that: “Except as otherwise provided in chapter 4 of title 23, United States Code, and this title \[enacting section 412 of this title and section 39 of Title 18, Crimes and Criminal Procedure, amending sections 402 to 406, 408, and 410 of this title, and enacting provisions set out as notes under sections 402, 403, 405, and 410 of this title\], (including the amendments made by this title), the amounts made available from the Highway Trust Fund (other than the Mass Transit Account) for a program under such chapter shall only be used to carry out such program and may not be used by States or local governments for construction purposes.”
 
 #### Use of Uniformed Police Officers on Federal-Aid Highway Construction Projects
 
@@ -266,7 +266,7 @@ Section 208 of Pub. L. 100–17, as amended by Pub. L. 100–202, §101(<i>l</i>
 
 #### Annual Report by Secretary of Transportation on Highway Safety Performance of Each State
 
-Pub. L. 97–424, title II, §207, Jan. 6, 1983, 96 Stat. 2139, provided that: “The Secretary of Transportation shall prepare, publish, and submit to Congress not later thanDecember 31 of each calendar year beginning after December 31, 1982, a report on the highway safety performance of each State in the preceding calendar year. Such report shall provide data on highway fatalities and injuries and motor vehicle accidents involving fatalities and injuries and travel in urban areas of each State for each system of highways and in rural areas of such State for each system of highways. Such report shall be in such form and contain such other information on highway accidents as will permit an evaluation and comparison of highway safety performance of the States. For purposes of this section (1) the systems of highways in a State are the Federal-aid primary system, the Federal-aid secondary system, the Federal-aid urban system, and the Interstate System (as such terms are defined in section 101 of title 23, United States Code) and the other highways in such State which are not on the Federal-aid system, and (2) the terms ‘State’, ‘rural areas’, and ‘urban area’ have the meaning such terms have under section 101.”
+Pub. L. 97–424, title II, §207, Jan. 6, 1983, 96 Stat. 2139, provided that: “The Secretary of Transportation shall prepare, publish, and submit to Congress not later than December 31 of each calendar year beginning after December 31, 1982, a report on the highway safety performance of each State in the preceding calendar year. Such report shall provide data on highway fatalities and injuries and motor vehicle accidents involving fatalities and injuries and travel in urban areas of each State for each system of highways and in rural areas of such State for each system of highways. Such report shall be in such form and contain such other information on highway accidents as will permit an evaluation and comparison of highway safety performance of the States. For purposes of this section (1) the systems of highways in a State are the Federal-aid primary system, the Federal-aid secondary system, the Federal-aid urban system, and the Interstate System (as such terms are defined in section 101 of title 23, United States Code) and the other highways in such State which are not on the Federal-aid system, and (2) the terms ‘State’, ‘rural areas’, and ‘urban area’ have the meaning such terms have under section 101.”
 
 \[For termination, effective May 15, 2000, of provisions relating to submittal of report to Congress in section 207 of Pub. L. 97–424, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 136 of House Document No. 103–7.\]
 
@@ -294,7 +294,7 @@ National Highway Safety Campaign.—Utilizing those techniques, methods, and pra
 
 “(g) The Secretary of Transportation shall submit a report to the Congress on July 1 of each year in which the campaign is in progress on the results of such evaluation and on the steps being taken by the Secretary of Transportation to implement the recommendations of such evaluation.
 
-“(h) For the purpose of carrying out subsections (d), (e), (f), and (g) of this section, there is authorized to be appropriated out of the Highway Trust Fund, $10,000,000, to remain available until expended. None of the amounts authorized by this subsection shall be available for obligation for any education or information program conducted in connection with the implementation of Federal Motor Vehicle Safety Standard 208 (49 C.F.R. 571.208).
+“(h) For the purpose of carrying out subsections (d), (e), (f), and (g) of this section, there is authorized to be appropriated out of the Highway Trust Fund,$10,000,000, to remain available until expended. None of the amounts authorized by this subsection shall be available for obligation for any education or information program conducted in connection with the implementation of Federal Motor Vehicle Safety Standard 208 (49 C.F.R. 571.208).
 
 “(i) All provisions of chapter 1 of title 23, United States Code, that are applicable to Federal-aid primary highway funds, other than provisions relating to the apportionment formula and provisions limiting the expenditure of such funds to the Federal-aid systems, shall apply to the funds authorized to be appropriated to carry out this section, except as determined by the Secretary to be inconsistent with this section and except that the funds authorized to be appropriated to carry out this section shall not be subject to any obligation limitation.”
 
@@ -302,7 +302,7 @@ National Highway Safety Campaign.—Utilizing those techniques, methods, and pra
 
 #### Highway Safety Educational Programing and Study; Report to Congress; Series of Highway Safety Television Programs; Appropriations Authorizations
 
-Section 211 of Pub. L. 93–87 directed Secretary of Transportation, in cooperation with government and nongovernment authorities and individuals, to conduct a full and complete investigation and study of use of mass media for informing and educating the public of ways and means for reducing number and severity of highway accidents, to report to Congress his findings and recommendations by June 30, 1974, and to develop, in consultation with State and local highway safety officials, a series of highway safety television programsof varying lengths for use in accordance with provisions of the Communication Act of 1934 (47 U.S.C. 151 et seq.).
+Section 211 of Pub. L. 93–87 directed Secretary of Transportation, in cooperation with government and nongovernment authorities and individuals, to conduct a full and complete investigation and study of use of mass media for informing and educating the public of ways and means for reducing number and severity of highway accidents, to report to Congress his findings and recommendations by June 30, 1974, and to develop, in consultation with State and local highway safety officials, a series of highway safety television programs of varying lengths for use in accordance with provisions of the Communication Act of 1934 (47 U.S.C. 151 et seq.).
 
 #### Highway Safety Citizen Participation Study
 
@@ -340,7 +340,7 @@ Section 202 of Pub. L. 89–564, as amended by Pub. L. 93–87, title II, §224,
 
 #### Detailed Cost Estimate of Highway Safety Act of 1966
 
-Section 207 of Pub. L. 89–564 directed Secretary, in cooperation with the Governors of appropriate State highway safety agencies, make a detailed estimate of the cost of carrying out the Highway Safety Act of 1966 in order to provide a basis for evaluating continuing programs under the Act and to furnish Congress information necessary for authorization of appropriations for fiscal years beginning after June 30, 1969, such estimates to be submitted to Congress not later than Jan. 10, 1968.
+Section 207 of Pub. L. 89–564 directed Secretary, in cooperation with the Governors of appropriate State highway safety agencies, make a detailed estimate of the cost of carrying out the Highway Safety Act of 1966 in order to provide a basis for evaluating continuingprograms under the Act and to furnish Congress information necessary for authorization of appropriations for fiscal years beginning after June 30, 1969, such estimates to be submitted to Congress not later than Jan. 10, 1968.
 
 #### Interstate Compacts for Highway Safety
 

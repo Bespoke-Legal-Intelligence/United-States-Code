@@ -62,15 +62,13 @@ The executive director and staff of the Council may be appointed without regard 
 
 The General Schedule, referred to in subsecs. (h) and (i), is set out under section 5332 of Title 5, Government Organization and Employees.
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (i), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 #### Prior Provisions
 
 A prior section 407 of Pub. L. 100–533, title IV, Oct. 25, 1988, 102 Stat. 2696; Pub. L. 103–81, §11, Aug. 13, 1993, 107 Stat. 783, related to authorization of appropriations to carry out this chapter, prior to the general amendment of title IV of Pub. L. 100–533 by Pub. L. 103–403. See section 7110 of this title.
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–554, §1(a)(9) \[title VII, §702(1)\], substituted “The President” for “Not later than 45 days after December 2, 1997, the President”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–554, §1(a)(9) \[title VII, §702(1)\], substituted “The President” for “Not later than 45 days after December 2, 1997, the President”.
 
 Subsec. (b). Pub. L. 106–554, §1(a)(9) \[title VII, §702(2)\], in introductory provisions, substituted “The Administrator” for “Not later than 60 days after December 2, 1997, the Administrator” and struck out “the Assistant Administrator of the Office of Women's Business Ownership and” after “in consultation with”.
 
@@ -84,7 +82,7 @@ Subsec. (d). Pub. L. 106–554, §1(a)(9) \[title VII, §702(3)\], struck out be
 
 Subsec. (h). Pub. L. 106–554, §1(a)(9) \[title VII, §702(4)\], substituted “The Administrator” for “Not later than 60 days after October 22, 1994, the Administrator”.
 
-1997—Subsec. (a). Pub. L. 105–135, §304(1), made substitution in original which was executed by substituting “December 2, 1997” for “October 22, 1994” to reflect the probable intent of Congress.
+<b>1997</b>—Subsec. (a). Pub. L. 105–135, §304(1), made substitution in original which was executed by substituting “December 2, 1997” for “October 22, 1994” to reflect the probable intent of Congress.
 
 Subsec. (b). Pub. L. 105–135, §304(2)(A)–(C), in introductory provisions made substitution in original which was executed by substituting “December 2, 1997” for “October 22, 1994” to reflect the probable intent of Congress, inserted “, after receiving the recommendations of the Chairman and the Ranking Member of the Committees on Small Business of the House of Representatives and the Senate,” after “the Administrator shall”, and substituted “14” for “9”.
 

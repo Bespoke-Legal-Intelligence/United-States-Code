@@ -106,7 +106,7 @@ For purposes of this section—
 
 #### (2) Subsequently listed transaction
 
-&emsp;The term “subsequently listed transaction” means any transaction to which a tax-exemptentity is a party and which is determined by the Secretary to be a listed transaction at any time after the entity has become a party to the transaction. Such term shall not include a transaction which is a prohibited reportable transaction at the time the entity became a party to the transaction.
+&emsp;The term “subsequently listed transaction” means any transaction to which a tax-exempt entity is a party and which is determined by the Secretary to be a listed transaction at any time after the entity has become a party to the transaction. Such term shall not include a transaction which is a prohibited reportable transaction at the time the entity became a party to the transaction.
 
 #### (f) Regulatory authority
 
@@ -124,7 +124,7 @@ The date of the enactment of this section, referred to in subsecs. (b)(1)(B) and
 
 #### Amendments
 
-2007—Subsec. (c)(6). Pub. L. 110–172 substituted “section 457(e)(1)(A)” for “section 4457(e)(1)(A)”.
+<b>2007</b>—Subsec. (c)(6). Pub. L. 110–172 substituted “section 457(e)(1)(A)” for “section 4457(e)(1)(A)”.
 
 #### Effective Date
 

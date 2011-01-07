@@ -1,6 +1,6 @@
 ### §527. Evaluation and data collection
 
-(a) The Secretary, pursuant to general standards which the Secretary shall prescribe in regulations, shall measure and evaluate on a continuing basis the effect of all programs authorized under this title, in order to determine their effectiveness in achieving stated goals in general, and in achieving such goals in relation to their cost, their effect on related programs, and their structure and mechanisms for delivery of services. Such information as the Secretary may consider necessary for purposes of such evaluations shall be made available to the Secretary, upon request, by all departments, agencies, and instrumentalities of the executive branch.
+(a) The Secretary, pursuant to general standards which the Secretary shall prescribe in regulations, shall measure and evaluate on a continuing basis the effect of all programs authorized under this title, in order to determine their effectiveness in achieving stated goals in general, and in achieving such goals in relation to their cost, their effect on related programs, and their structure and mechanisms for delivery ofservices. Such information as the Secretary may consider necessary for purposes of such evaluations shall be made available to the Secretary, upon request, by all departments, agencies, and instrumentalities of the executive branch.
 
 (b) In carrying out this section, the Secretary shall collect, collate, and analyze on a continuing basis full statistical data regarding participation (including the duration thereof), provision of services, categories of beneficiaries, planning and construction of facilities, acquisition of real property, proposed excessing of land, accretion and attrition of personnel, and categorized expenditures attributable thereto, under all programs carried out under this title.
 
@@ -14,7 +14,7 @@ Provisions similar to those in this section were contained in section 219 of thi
 
 #### Persian Gulf War Veterans’ Health Status
 
-Pub. L. 102–585, title VII, Nov. 4, 1992, 106 Stat. 4975, as amended by Pub. L. 103–446, title I, §108, Nov. 2, 1994, 108 Stat. 4653; Pub. L. 105–368, title I, §§104, 106, Nov. 11, 1998, 112 Stat. 3323, 3325, provided that:
+Pub. L. 102–585, title VII, Nov. 4, 1992, 106 Stat. 4975, as amended by Pub. L. 103–446, title I, §108, Nov. 2, 1994, 108 Stat. 4653; Pub. L. 105–368, title I, §§104, 106, Nov. 11, 1998, 112 Stat. 3323, 3325; Pub. L. 111–163, title V, §502, May 5, 2010, 124 Stat. 1157, provided that:
 
 #### “SEC. 701. SHORT TITLE.
 
@@ -70,7 +70,7 @@ Ongoing Outreach to Individuals Listed in Registry.—The Secretary of Veterans 
 
 In General.—(1) The Secretary of Veterans Affairs—
 
-&emsp;“(A) shall, upon the request of a veteran described in subsection (b)(1), provide the veteran with a healthexamination (including any appropriate diagnostic tests) and consultation and counseling with respect to the results of the examination and the tests; and
+&emsp;“(A) shall, upon the request of a veteran described in subsection (b)(1), provide the veteran with a health examination (including any appropriate diagnostic tests) and consultation and counseling with respect to the results of the examination and the tests; and
 
 &emsp;“(B) may, upon the request of a veteran described in subsection (b)(2), provide the veteran with such an examination (including diagnostic tests) and such consultation and counseling.
 
@@ -162,7 +162,7 @@ Report.—(1) The agreement under this section shall require the National Academ
 
 “(c)
 
-Funding.—(1) The Secretary of Veterans Affairs and the Secretary of Defense shall make available up to a total of $500,000 in fiscal year 1993, from funds available to the Department of Veterans Affairs andthe Department of Defense in that fiscal year, to carry out the review. Any amounts provided by the two departments shall be provided in equal amounts.
+Funding.—(1) The Secretary of Veterans Affairs and the Secretary of Defense shall make available up to a total of $500,000 in fiscal year 1993, from funds available to the Department of Veterans Affairs and the Department of Defense in that fiscal year, to carry out the review. Any amounts provided by the two departments shall be provided in equal amounts.
 
 “(2) If the Secretary of Veterans Affairs and the Secretary of Defense enter into an agreement under subsection (a) with the National Academy of Sciences—
 
@@ -194,7 +194,7 @@ Public Advisory Committee.—Not later than January 1, 1999, the head of the dep
 
 “(c)
 
-Reports.—(1) Not later than March 1 of each year, the head of the department or agency designated under subsection (a) shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on—
+Reports.—(1) Not later than July 1, 2010, and July 1 of each of the five following years, the head of the department or agency designated under subsection (a) shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on—
 
 &emsp;“(A) the status and results of all such research activities undertaken by the executive branch during the previous year; and
 

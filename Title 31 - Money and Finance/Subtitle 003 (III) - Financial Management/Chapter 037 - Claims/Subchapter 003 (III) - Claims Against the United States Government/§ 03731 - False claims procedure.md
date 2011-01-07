@@ -6,11 +6,11 @@
 
 &emsp;(1) more than 6 years after the date on which the violation of section 3729 is committed, or
 
-&emsp;(2) more than 3 years after the date when facts material to the right of action are known or reasonably should have been known by the official of the United States charged with responsibility to act in the circumstances, but in no event more than 10 yearsafter the date on which the violation is committed,
+&emsp;(2) more than 3 years after the date when facts material to the right of action are known or reasonably should have been known by the official of the United States charged with responsibility to act in the circumstances, but in no event more than 10 years after the date on which the violation is committed,
 
 > whichever occurs last.
 
-(c) If the Government elects to intervene and proceed with an action brought under 3730(b),<sup>1</sup> the Government may file its own complaint or amend the complaint of a person who has brought an action under section 3730(b) to clarify or add detail to the claims in which the Government is intervening and to add any additional claims with respect to which the Government contends it is entitled to relief. For statute of limitations purposes, any such Government pleading shall relate back to the filing date of the complaint of the person who originally brought the action, to the extent that the claim of the Government arises out of the conduct, transactions, or occurrences set forth, or attempted to be set forth, in the prior complaint of that person.
+(c) If the Government elects to intervene and proceed with an action brought under 3730(b),<sup>1</sup>the Government may file its own complaint or amend the complaint of a person who has brought an action under section 3730(b) to clarify or add detail to the claims in which the Government is intervening and to add any additional claims with respect to which the Government contends it is entitled to relief. For statute of limitations purposes, any such Government pleading shall relate back to the filing date of the complaint of the person who originally brought the action, to the extent that the claim of the Government arises out of the conduct, transactions, or occurrences set forth, or attempted to be set forth, in the prior complaint of that person.
 
 (d) In any action brought under section 3730, the United States shall be required to prove all essential elements of the cause of action, including damages, by a preponderance of the evidence.
 
@@ -48,9 +48,9 @@ The Federal Rules of Evidence, referred to in subsec. (e), are set out in the Ap
 
 #### Amendments
 
-2009—Subsecs. (c) to (e). Pub. L. 111–21, which directed amendment of section “3731(b)” of this title by adding subsec. (c) and redesignating former subsecs. (c) and (d) as (d) and (e), respectively, was executed by making the amendment to this section, to reflect the probable intent of Congress.
+<b>2009</b>—Subsecs. (c) to (e). Pub. L. 111–21, which directed amendment of section “3731(b)” of this title by adding subsec. (c) and redesignating former subsecs. (c) and (d) as (d) and (e), respectively, was executed by making the amendment to this section, to reflect the probable intent of Congress.
 
-1986—Subsecs. (b) to (d). Pub. L. 99–562 added subsecs. (b) to (d) and struck out former subsec. (b) which read as follows: “A civil action under section 3730 of this title must be brought within 6 years from the date the violation is committed.”
+<b>1986</b>—Subsecs. (b) to (d). Pub. L. 99–562 added subsecs. (b) to (d) and struck out former subsec. (b) which read as follows: “A civil action under section 3730 of this title must be brought within 6 years from the date the violation is committed.”
 
 #### Effective Date of 2009 Amendment
 

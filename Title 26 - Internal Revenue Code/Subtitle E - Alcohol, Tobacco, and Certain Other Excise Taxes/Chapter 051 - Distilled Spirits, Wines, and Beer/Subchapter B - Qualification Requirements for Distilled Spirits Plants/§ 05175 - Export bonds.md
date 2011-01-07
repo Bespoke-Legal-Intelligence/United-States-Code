@@ -22,15 +22,15 @@ Provisions similar to those comprising this section were contained in a prior se
 
 #### Amendments
 
-1997—Subsec. (c). Pub. L. 105–34 substituted “if there is such proof of exportation as the Secretary may by regulations require.” for “on the submission of such evidence, records, and certification indicating exportation as the Secretary may by regulations prescribe.”
+<b>1997</b>—Subsec. (c). Pub. L. 105–34 substituted “if there is such proof of exportation as the Secretary may by regulations require.” for “on the submission of such evidence, records, and certification indicating exportation as the Secretary may by regulations prescribe.”
 
-1979—Subsec. (a). Pub. L. 96–39, §807(a)(15)(A), struck out “for storage therein pending exportation” after “customs bonded warehouse”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–39, §807(a)(15)(A), struck out “for storage therein pending exportation” after “customs bonded warehouse”.
 
 Subsec. (b). Pub. L. 96–39, §807(a)(15)(B), substituted “from bonded premises by the proprietor for exportation without payment of tax, the bond of such proprietor required to be furnished under paragraph (1) of section 5173(a) covering such premises shall cover such exportation, and subsection (a) shall not apply” for “for exportation without payment of tax on application of the proprietor of bonded premises, the bond of such proprietor covering such bonded premises shall cover such exportation and subsection (a) shall not be applicable”.
 
-1977—Subsec. (a). Pub. L. 95–176 required export bonds for withdrawals from bonded premises, without payment of tax, for transfer to a customs bonded warehouse for storage therein pending exportation.
+<b>1977</b>—Subsec. (a). Pub. L. 95–176 required export bonds for withdrawals from bonded premises, without payment of tax, for transfer to a customs bonded warehouse for storage therein pending exportation.
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date of 1997 Amendment
 

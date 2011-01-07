@@ -8,13 +8,13 @@
 
 (3) The credit against the tax for any taxable year shall be permitted only for contributions paid on or before the last day upon which the taxpayer is required under section 6071 to file a return for such year; except that credit shall be permitted for contributions paid after such last day, but such credit shall not exceed 90 percent of the amount which would have been allowable as credit on account of such contributions had they been paid on or before such last day.
 
-(4) Upon the payment of contributions into the unemployment fund of a State which are required under the unemployment compensation law of that State with respect to remuneration on the basis of which, prior to such payment into the proper fund, the taxpayer erroneously paid an amount as contributions under another unemployment compensation law, the payment into the proper fund shall, for purposes of credit against the tax, be deemed to have been made at the time of the erroneous payment. If, by reasonof such other law, the taxpayer was entitled to cease paying contributions with respect to services subject to such other law, the payment into the proper fund shall, for purposes of credit against the tax, be deemed to have been made on the date the return for the taxable year was filed under section 6071.
+(4) Upon the payment of contributions into the unemployment fund of a State which are required under the unemployment compensation law of that State with respect to remuneration on the basis of which, prior to such payment into the proper fund, the taxpayer erroneously paid an amount as contributions under another unemployment compensation law, the payment into the proper fund shall, for purposes of credit against the tax, be deemed to have been made at the time of the erroneous payment. If, by reason of such other law, the taxpayer was entitled to cease paying contributions with respect to services subject to such other law, the payment into the proper fund shall, for purposes of credit against the tax, be deemed to have been made on the date the return for the taxable year was filed under section 6071.
 
 (5) In the case of wages paid by the trustee of an estate under title 11 of the United States Code, if the failure to pay contributions on time was without fault by the trustee, paragraph (3) shall be applied by substituting “100 percent” for “90 percent”.
 
 #### (b) Additional credit
 
-In addition to the credit allowed under subsection (a), a taxpayer may credit against the tax imposed by section 3301 for any taxable year an amount, with respect to the unemployment compensation law of each State certified as provided in section 3303 for the 12-month period ending on October 31 of such year, or with respect to any provisions thereof so certified, equal to the amount, if any, by which the contributions required to be paid by him with respect to the taxable year were less than the contributions such taxpayer would have been required to pay if throughout the taxable year he had been subject under such State law to the highest rate applied thereunder in such 12-month period to any person having individuals in his employ, or to a rate of 5.4 percent, whichever rate is lower.
+In addition to the credit allowed under subsection (a), a taxpayer may credit against the tax imposed by section 3301 for any taxable year an amount, with respect to the unemploymentcompensation law of each State certified as provided in section 3303 for the 12-month period ending on October 31 of such year, or with respect to any provisions thereof so certified, equal to the amount, if any, by which the contributions required to be paid by him with respect to the taxable year were less than the contributions such taxpayer would have been required to pay if throughout the taxable year he had been subject under such State law to the highest rate applied thereunder in such 12-month period to any person having individuals in his employ, or to a rate of 5.4 percent, whichever rate is lower.
 
 #### (c) Limit on total credits
 
@@ -52,7 +52,7 @@ In addition to the credit allowed under subsection (a), a taxpayer may credit ag
 
 #### (1) Rate of tax deemed to be 6 percent
 
-&emsp;In applying subsection (c), the tax imposed by section 3301 shall be computed at the rateof 6 percent in lieu of the rate provided by such section.
+&emsp;In applying subsection (c), the tax imposed by section 3301 shall be computed at the rate of 6 percent in lieu of the rate provided by such section.
 
 #### (2) Wages attributable to a particular State
 
@@ -60,7 +60,7 @@ In addition to the credit allowed under subsection (a), a taxpayer may credit ag
 
 #### (3) Additional taxes inapplicable where advances are repaid before November 10 of taxable year
 
-&emsp;Paragraph (2) of subsection (c) shall not apply with respect to any State for the taxable year if (as of the beginning of November 10 of such year) there is no balance of advances referred to in such paragraph.
+&emsp;Paragraph (2) of subsection (c) shall not apply with respect to any State for the taxableyear if (as of the beginning of November 10 of such year) there is no balance of advances referred to in such paragraph.
 
 #### (4) Average employer contribution rate
 
@@ -114,7 +114,7 @@ Subject to the limits provided by subsection (c), if—
 
 &emsp;The requirements of this paragraph are met by any State with respect to any taxable year if the Secretary of Labor determines (on or before November 10 of such taxable year) that—
 
-&emsp;&emsp;(A) no State action was taken during the 12-month period ending on September 30 ofsuch taxable year (excluding any action required under State law as in effect prior to the date of the enactment of this subsection) which has resulted or will result in a reduction in such State's unemployment tax effort (as defined by the Secretary of Labor in regulations),
+&emsp;&emsp;(A) no State action was taken during the 12-month period ending on September 30 of such taxable year (excluding any action required under State law as in effect prior to the date of the enactment of this subsection) which has resulted or will result in a reduction in such State's unemployment tax effort (as defined by the Secretary of Labor in regulations),
 
 &emsp;&emsp;(B) no State action was taken during the 12-month period ending on September 30 of such taxable year (excluding any action required under State law as in effect prior to the date of the enactment of this subsection) which has resulted or will result in a net decrease in the solvency of the State unemployment compensation system (as defined by the Secretary of Labor in regulations),
 
@@ -194,7 +194,7 @@ Subject to the limits provided by subsection (c), if—
 
 #### (7) Definitions and special rules
 
-&emsp;The definitions and special rules set forth in subsection (d) shall apply to this subsection in the same manner as they apply to subsection (c).
+&emsp;The definitions and special rules set forth in subsection (d) shall apply to this subsection inthe same manner as they apply to subsection (c).
 
 #### (8) Partial limitation
 
@@ -256,11 +256,11 @@ The date of the enactment of this subsection, referred to in subsec. (g)(2)(C), 
 
 #### Amendments
 
-1986—Subsec. (c)(2)(B). Pub. L. 99–514, §1884(1), substituted “denominator” for second reference to “determination”, and in cl. (i) inserted “percent” after “2.7” and struck out “percent” after “is to be made”.
+<b>1986</b>—Subsec. (c)(2)(B). Pub. L. 99–514, §1884(1), substituted “denominator” for second reference to “determination”, and in cl. (i) inserted “percent” after “2.7” and struck out “percent” after “is to be made”.
 
 Subsec. (f)(8)(A). Pub. L. 99–514, §1884(2), substituted “1986” for “1987”.
 
-1983—Subsec. (c)(2)(B). Pub. L. 98–21, §513(c), inserted “, multiplied by a fraction, the numerator of which is the State's average annual wage in covered employment for the calendar year in which the determination is made and the determination of which is the wage base under this chapter,” in provisions preceding cl. (i).
+<b>1983</b>—Subsec. (c)(2)(B). Pub. L. 98–21, §513(c), inserted “, multiplied by a fraction, the numerator of which is the State's average annual wage in covered employment for the calendar year in which the determination is made and the determination of which is the wage base under this chapter,” in provisions preceding cl. (i).
 
 Subsec. (c)(2)(B)(i). Pub. L. 98–21, §513(b), inserted “multiplied by a fraction, the numerator of which is the wage base under this chapter and the denominator of which is the estimated United States average annual wage in covered employment for the calendar year in which the determination is to be made” after “2.7”.
 
@@ -270,7 +270,7 @@ Subsec. (f)(1). Pub. L. 98–21, §512(b), struck out “beginning before Januar
 
 Subsec. (f)(8). Pub. L. 98–21, §512(a)(1), added par. (8).
 
-1982—Subsec. (b). Pub. L. 97–248, §271(c)(2)(A), substituted “5.4 percent” for “2.7 percent”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–248, §271(c)(2)(A), substituted “5.4 percent” for “2.7 percent”.
 
 Subsec. (c)(2). Pub. L. 97–248, §273(a), inserted provision at end that subpar. (C) shall not apply with respect to any taxable year to which it would otherwise apply (but that subpar. (B) would apply to such taxable year) if the Secretary of Labor determines (on or before Nov. 10 of such taxable year) that the State meets the requirements of subsec. (f)(2)(B) of this section for such taxable year.
 
@@ -282,13 +282,13 @@ Subsec. (d)(1). Pub. L. 97–248, §271(c)(2)(B), substituted “6 percent” fo
 
 Subsec. (g). Pub. L. 97–248, §272(a), added subsec. (g).
 
-1981—Subsec. (f). Pub. L. 97–35 added subsec. (f).
+<b>1981</b>—Subsec. (f). Pub. L. 97–35 added subsec. (f).
 
-1980—Subsec. (a)(5). Pub. L. 96–589 added par. (5).
+<b>1980</b>—Subsec. (a)(5). Pub. L. 96–589 added par. (5).
 
-1977—Subsec. (c)(2). Pub. L. 95–19 substituted “January 1, 1980” for “January 1, 1978” wherever appearing.
+<b>1977</b>—Subsec. (c)(2). Pub. L. 95–19 substituted “January 1, 1980” for “January 1, 1978” wherever appearing.
 
-1976—Subsec. (a)(1). Pub. L. 94–455, §1903(a)(12)(A), struck out “(10-month period in the case of October 31, 1972)” after “ending on October 31 of such year”.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–455, §1903(a)(12)(A), struck out “(10-month period in the case of October 31, 1972)” after “ending on October 31 of such year”.
 
 Subsec. (b). Pub. L. 94–455, §1903(a)(12)(B), struck out “(10-month period in the case of October 31, 1972)” after “ending on October 31, of such year” and substituted “12-month period” for “12 or 10–month period, as the case may be,”.
 
@@ -306,25 +306,25 @@ Subsec. (d)(7). Pub. L. 94–455, §1903(a)(12)(C)(vi), substituted “subsectio
 
 Subsec. (d)(8). Pub. L. 94–455, §1903(a)(12)(D), struck out par. (8) which provided for a cross reference to section 104 of the Temporary Unemployment Compensation Act of 1958 relating to the reduction of total credits allowable under subsec. (c) of this section.
 
-1975—Subsec. (c)(3). Pub. L. 94–45, §110(a), provided that par. (3) shall not be applicable with respect to the taxable year beginning Jan. 1, 1975, or any succeeding taxable year which begins before Jan. 1, 1978, and that, for the purposes of par. (3), Jan. 1, 1978, shall be deemed to be the first Jan. 1 occurring after Jan. 1, 1974, and consecutive taxable years in the period commencing Jan. 1, 1978, shall be determined as if the taxable year which begins Jan. 1, 1978, were the taxable year immediately succeeding the taxable year which began on Jan. 1, 1974.
+<b>1975</b>—Subsec. (c)(3). Pub. L. 94–45, §110(a), provided that par. (3) shall not be applicable with respect to the taxable year beginning Jan. 1, 1975, or any succeeding taxable year which begins before Jan. 1, 1978, and that, for the purposes of par. (3), Jan. 1, 1978, shall be deemed to be the first Jan. 1 occurring after Jan. 1, 1974, and consecutive taxable years in the period commencing Jan. 1, 1978, shall be determined as if the taxable year which begins Jan. 1, 1978, were the taxable year immediately succeeding the taxable year which began on Jan. 1, 1974.
 
 Subsec. (c)(4). Pub. L. 94–45, §302, substituted “July 15, 1975” for “July 1, 1975”.
 
 Pub. L. 93–618 added par. (4).
 
-1970—Subsec. (a)(1). Pub. L. 91–373, §142(a), substituted “certified as provided in section 3304 for the 12–month period ending on October 31 of such year (10–month period in the case of October 31, 1972)” for “certified for the taxable year as provided in section 3304”.
+<b>1970</b>—Subsec. (a)(1). Pub. L. 91–373, §142(a), substituted “certified as provided in section 3304 for the 12–month period ending on October 31 of such year (10–month period in the case of October 31, 1972)” for “certified for the taxable year as provided in section 3304”.
 
 Subsec. (b). Pub. L. 91–373, §142(b), changed the certification date from December 31 to October 31, with a provision for a 10–month period in the case of October 31, 1972, and provided for certification based on a 12-month period ending each October 31.
 
-1963—Subsec. (c). Pub. L. 88–173, in cl. (2), substituted “on January 1, 1963 (and in the case of any succeeding taxable year beginning before January 1, 1968),” for “with the fourth consecutive January 1”, in subpar. (A), and “on or after January 1, 1968,” for “with a consecutive January 1”, in subpar. (B), and inserted paragraph following subpar. (B).
+<b>1963</b>—Subsec. (c). Pub. L. 88–173, in cl. (2), substituted “on January 1, 1963 (and in the case of any succeeding taxable year beginning before January 1, 1968),” for “with the fourth consecutive January 1”, in subpar. (A), and “on or after January 1, 1968,” for “with a consecutive January 1”, in subpar. (B), and inserted paragraph following subpar. (B).
 
 Subsec. (d)(1). Pub. L. 88–31 substituted “the rate provided by such section” for “3.1 percent (or, in the case of the tax imposed with respect to the calendar years 1962 and 1963, in lieu of 3.5 percent)”.
 
-1961—Subsec. (d)(1). Pub. L. 87–6 provided for computation of the tax at the rate of 3 percent in lieu of 3.5 percent for calendar years 1962 and 1968.
+<b>1961</b>—Subsec. (d)(1). Pub. L. 87–6 provided for computation of the tax at the rate of 3 percent in lieu of 3.5 percent for calendar years 1962 and 1968.
 
 Subsec. (e). Pub. L. 87–321 added subsec. (e).
 
-1960—Subsec. (c). Pub. L. 86–778 restricted cl. (2) to advances made before the date of the enactment of the Employment Security Act of 1960, added cl. (3), and struck out provisions which related to the attributing of wages to a particular State, which provisions are now covered by subsec. (d)(2).
+<b>1960</b>—Subsec. (c). Pub. L. 86–778 restricted cl. (2) to advances made before the date of the enactment of the Employment Security Act of 1960, added cl. (3), and struck out provisions which related to the attributing of wages to a particular State, which provisions are now covered by subsec. (d)(2).
 
 Subsec. (d). Pub. L. 86–778 added subsec. (d).
 
@@ -458,7 +458,7 @@ Required rate.—For purposes of subparagraph (B), the required rate for any tax
 
 &emsp;“(D)
 
-Qualified small business provision.—For purposes of this paragraph, the term ‘qualified small business provision’ means a provision contained in a State unemployment compensation law (as in effect on the date of the enactment of this paragraph \[Oct. 30, 1984\]) which provides a maximum rate at which an employer is subject to contribution for wages paid during a calendar quarter if the total wages paid by such employer during such calendar quarter are less than $50,000.
+Qualified small business provision.—For purposes of this paragraph, the term ‘qualified smallbusiness provision’ means a provision contained in a State unemployment compensation law (as in effect on the date of the enactment of this paragraph \[Oct. 30, 1984\]) which provides a maximum rate at which an employer is subject to contribution for wages paid during a calendar quarter if the total wages paid by such employer during such calendar quarter are less than $50,000.
 
 &emsp;“(E)
 

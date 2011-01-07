@@ -32,7 +32,7 @@ For the purposes of subsections (e), (f), and (g) of this section, the term “e
 
 #### (i) Promulgation of implementation regulations by President
 
-The President may prescribe regulations necessary to carry out the provisions of subsections (e), (f), (g), and (h) of this section and to protect and assure the compensation, retirement, insurance, leave, reemployment rights, and such other similar civil service employment rights as he finds appropriate.
+The President may prescribe regulations necessary to carry out the provisions of subsections\(e), (f), (g), and (h) of this section and to protect and assure the compensation, retirement, insurance, leave, reemployment rights, and such other similar civil service employment rights as he finds appropriate.
 
 #### (j) Additional employee employment rights
 
@@ -60,11 +60,11 @@ A prior section 104 of Pub. L. 93–638 was renumbered section 103 by Pub. L. 10
 
 #### Amendments
 
-2007—Subsec. (j). Pub. L. 110–81 amended subsec. (j) generally. Prior to amendment, text read as follows: “Anything in sections 205 and 207 of title 18 to the contrary notwithstanding, officers and employees of the United States assigned to an Indian tribe as authorized under section 3372 of title 5, or section 48 of this title and former officers and employees of the United States employed by Indian tribes may act as agents or attorneys for or appear on behalf of such tribes in connection wth \[sic\] any matter pending before any department, agency, court, or commission, including any matter in which the United States is a party or has a direct and substantial interest: <i>Provided</i>, That each such officer or employee or former officer or employee must advise in writing the head of the department, agency, court, or commission with which he is dealing or appearing on behalf of the tribe of any personal and substantial involvement he may have had as an officer or employee of the United States in connection with the matter involved.”
+<b>2007</b>—Subsec. (j). Pub. L. 110–81 amended subsec. (j) generally. Prior to amendment, text read as follows: “Anything in sections 205 and 207 of title 18 to the contrary notwithstanding, officers and employees of the United States assigned to an Indian tribe as authorized under section 3372 of title 5, or section 48 of this title and former officers and employees of the United States employed by Indian tribes may act as agents or attorneys for or appear on behalf of such tribes in connection wth \[sic\] any matter pending before any department, agency, court, or commission, including any matter in which the United States is a party or has a direct and substantial interest: <i>Provided</i>, That each such officer or employee or former officer or employee must advise in writing the head of the department, agency, court, or commission with which he is dealing or appearing on behalf of the tribe of any personal and substantial involvement he may have had as an officer or employee of the United States in connection with the matter involved.”
 
-1990—Subsec. (m). Pub. L. 101–301 substituted “an Indian (as defined in section 479 of this title) appointed (except temporary appointments)” for “an Indian appointed”.
+<b>1990</b>—Subsec. (m). Pub. L. 101–301 substituted “an Indian (as defined in section 479 of this title) appointed (except temporary appointments)” for “an Indian appointed”.
 
-1988—Subsecs. (a), (b). Pub. L. 100–472, §203(b), (c), amended subsecs. (a) and (b). See Codification note above.
+<b>1988</b>—Subsecs. (a), (b). Pub. L. 100–472, §203(b), (c), amended subsecs. (a) and (b). See Codification note above.
 
 Subsec. (e). Pub. L. 100–472, §203(d), (e), in introductory provisions, substituted “Notwithstanding the provisions of sections 8347(<i>o</i>), 8713, and 8914 of title 5” for “Notwithstanding any other law” and struck out “on or before December 31, 1988” after “title 43”, and in par. (2), inserted “or chapter 84 (‘Federal Employees Retirement System’)”. Notwithstanding directory language that the substitution of “Notwithstanding the provisions of sections 8347(<i>o</i>), 8713, and 8914 of title 5” be made in par. (2) of subsec. (e), the substitution was made in introductory provisions of subsec. (e) to reflect the probable intent of Congress because the language replaced appeared only in those introductory provisions.
 
@@ -72,9 +72,9 @@ Subsecs. (k), (<i>l</i>). Pub. L. 100–472, §203(f), added subsecs. (k) and (<
 
 Subsec. (m). Pub. L. 100–472, §203(f), added subsec. (m).
 
-1985—Subsec. (e). Pub. L. 99–221 substituted “1988” for “1985”.
+<b>1985</b>—Subsec. (e). Pub. L. 99–221 substituted “1988” for “1985”.
 
-1983—Subsec. (e). Pub. L. 89–702, §210(a), as added by Pub. L. 98–129, inserted “, the city of St. Paul, Alaska, the city of St. George, Alaska, upon incorporation, or the Village Corporations of St. Paul and St. George Islands established pursuant to section 1607 of title 43”.
+<b>1983</b>—Subsec. (e). Pub. L. 89–702, §210(a), as added by Pub. L. 98–129, inserted “, the city of St. Paul, Alaska, the city of St. George, Alaska, upon incorporation, or the Village Corporations of St. Paul and St. George Islands established pursuant to section 1607 of title 43”.
 
 #### Effective Date of 2007 Amendment
 

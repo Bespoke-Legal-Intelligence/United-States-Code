@@ -66,7 +66,7 @@ The Administrator, after consultation, with appropriate Federal and State agenci
 
 (3) The Administrator, after consultation with appropriate Federal and State agencies and other interested persons, shall promulgate within one hundred and eighty days after December 27, 1977, guidelines for identifying and evaluating innovative and alternative wastewater treatment processes and techniques referred to in section 1281(g)(5) of this title.
 
-(4) For the purposes of this subsection, such biological treatment facilities as oxidation ponds, lagoons, and ditches and trickling filters shall be deemed the equivalent of secondary treatment. The Administrator shall provide guidance under paragraph (1) of this subsectionon design criteria for such facilities, taking into account pollutant removal efficiencies and, consistent with the objectives of this chapter, assuring that water quality will not be adversely affected by deeming such facilities as the equivalent of secondary treatment.
+(4) For the purposes of this subsection, such biological treatment facilities as oxidation ponds, lagoons, and ditches and trickling filters shall be deemed the equivalent of secondary treatment. The Administrator shall provide guidance under paragraph (1) of this subsection on design criteria for such facilities, taking into account pollutant removal efficiencies and, consistent with the objectives of this chapter, assuring that water quality will not be adversely affected by deeming such facilities as the equivalent of secondary treatment.
 
 #### (e) Best management practices for industry
 
@@ -136,7 +136,7 @@ The Administrator shall, within 1 year after February 4, 1987, and biennially th
 
 &emsp;&emsp;(C) for each segment of the navigable waters included on such lists, a determination of the specific point sources discharging any such toxic pollutant which is believed to be preventing or impairing such water quality and the amount of each such toxic pollutant discharged by each such source; and
 
-&emsp;&emsp;(D) for each such segment, an individual control strategy which the State determines will produce a reduction in the discharge of toxic pollutants from point sources identified by the State under this paragraph through the establishment of effluent limitations under section 1342 of this title and water quality standards under section 1313(c)(2)(B) of this title, which reduction is sufficient, in combination with existing controls on point and nonpoint sources of pollution, to achieve the applicable water quality standard as soon as possible, but not later than 3 years after the date of the establishment of such strategy.
+&emsp;&emsp;(D) for each such segment, an individual control strategy which the State determines will produce a reduction in the discharge of toxic pollutants from point sources identified by the State under this paragraph through the establishment of effluent limitations under section 1342 of this title and water quality standards under section 1313(c)(2)(B) of this title, which reduction is sufficient, in combination with existing controls on point and nonpoint sources of pollution, to achieve the applicable water quality standard as soon as possible, but not laterthan 3 years after the date of the establishment of such strategy.
 
 #### (2) Approval or disapproval
 
@@ -170,9 +170,9 @@ Section 50 of Pub. L. 95–217 provided in part that, upon the enactment of subs
 
 #### Amendments
 
-2000—Subsec. (a)(9). Pub. L. 106–284 added par. (9).
+<b>2000</b>—Subsec. (a)(9). Pub. L. 106–284 added par. (9).
 
-1987—Subsec. (a)(7), (8). Pub. L. 100–4, §308(c), added pars. (7) and (8).
+<b>1987</b>—Subsec. (a)(7), (8). Pub. L. 100–4, §308(c), added pars. (7) and (8).
 
 Subsec. (j). Pub. L. 100–4, §315(c), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “The Administrator shall issue information biennially on methods, procedures, and processes as may be appropriate to restore and enhance the quality of the Nation's publicly owned freshwater lakes.”
 
@@ -184,9 +184,9 @@ Subsec. (<i>l</i>). Pub. L. 100–4, §308(a), added subsec. (<i>l</i>).
 
 Subsec. (m). Pub. L. 100–4, §308(f), added subsec. (m).
 
-1981—Subsec. (d)(4). Pub. L. 97–117 added par. (4).
+<b>1981</b>—Subsec. (d)(4). Pub. L. 97–117 added par. (4).
 
-1977—Subsec. (a)(4) to (6). Pub. L. 95–217, §48(a), added pars. (4) to (6).
+<b>1977</b>—Subsec. (a)(4) to (6). Pub. L. 95–217, §48(a), added pars. (4) to (6).
 
 Subsec. (b)(4). Pub. L. 95–217, §48(b), added par. (4).
 

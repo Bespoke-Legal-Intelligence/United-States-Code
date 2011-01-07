@@ -6,7 +6,7 @@ A person is guilty of any <sup>1</sup> offense if he commits an act prohibited 
 
 #### (b) Fines; imprisonment
 
-Any offense described in subsection (a) of this section is punishable by a fine of not more than $200,000 or imprisonment for not more than 6 months, or both; except that if in the commission of any offense the person uses a dangerousweapon, engages in conduct that causes bodily injury to any officer authorized to enforce the provisions of this subchapter, or places any such officer in fear of imminent bodily injury the offense is punishable by a fine of not more than $400,000, or imprisonment for not more than 10 years or both.
+Any offense described in subsection (a) of this section is punishable by a fine of not more than $200,000 or imprisonment for not more than 6 months, or both; except that if in the commission of any offense the person uses a dangerous weapon, engages in conduct that causes bodily injury to any officer authorized to enforce the provisions of this subchapter, or places any such officer in fear of imminent bodily injury the offense is punishable by a fine of not more than $400,000, or imprisonment for not more than 10 years or both.
 
 #### (c) Federal jurisdiction
 
@@ -16,7 +16,7 @@ There is Federal jurisdiction over any offense described in this section.
 
 #### Amendments
 
-2007—Subsec. (b). Pub. L. 109–479 substituted “$200,000” for “$50,000” and “$400,000,” for “$100,000,”.
+<b>2007</b>—Subsec. (b). Pub. L. 109–479 substituted “$200,000” for “$50,000” and “$400,000,” for “$100,000,”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 

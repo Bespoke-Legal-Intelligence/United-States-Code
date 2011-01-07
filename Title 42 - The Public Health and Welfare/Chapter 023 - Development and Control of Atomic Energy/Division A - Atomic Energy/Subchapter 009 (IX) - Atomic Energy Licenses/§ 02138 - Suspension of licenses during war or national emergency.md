@@ -6,5 +6,5 @@ Whenever the Congress declares that a state of war or national emergency exists,
 
 #### Amendments
 
-1959—Pub. L. 86–373 struck out “distributed under the provisions of section 2073(a) of this title,” before “or to order”.
+<b>1959</b>—Pub. L. 86–373 struck out “distributed under the provisions of section 2073(a) of this title,” before “or to order”.
 

@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(i) the number of hours during which such employee must be present for work, plus
 
-&emsp;&emsp;(ii) the number of hours during which such employee may elect to work credit hours or elect the time of arrival at and departure from work,
+&emsp;&emsp;(ii) the number of hours during which such employee may elect to work credit hours orelect the time of arrival at and departure from work,
 
 > &emsp;which occur outside of the nightwork hours designated in or under such section 5545(a) total less than 8 hours, such premium pay shall be paid for those hours which, when combined with such total, do not exceed 8 hours, and
 

@@ -16,5 +16,5 @@
 
 #### Amendments
 
-1984—Subsec. (c). Pub. L. 98–473 added subsec. (c).
+<b>1984</b>—Subsec. (c). Pub. L. 98–473 added subsec. (c).
 

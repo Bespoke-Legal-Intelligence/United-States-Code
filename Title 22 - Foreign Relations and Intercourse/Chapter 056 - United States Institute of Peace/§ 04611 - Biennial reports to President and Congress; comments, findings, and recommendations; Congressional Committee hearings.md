@@ -6,11 +6,11 @@ Beginning two years after October 19, 1984, and at intervals of two years therea
 
 #### Amendments
 
-1998—Pub. L. 105–244 substituted “President may prepare” for “President shall prepare” and “may hold hearings” for “shall hold hearings”.
+<b>1998</b>—Pub. L. 105–244 substituted “President may prepare” for “President shall prepare” and “may hold hearings” for “shall hold hearings”.
 
 #### Change of Name
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor,and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1998 Amendment
 

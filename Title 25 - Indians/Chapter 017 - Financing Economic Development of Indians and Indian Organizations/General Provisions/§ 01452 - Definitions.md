@@ -28,5 +28,5 @@ The Alaska Native Claims Settlement Act, referred to in pars. (b) to (d), is Pub
 
 #### Amendments
 
-1988—Pars. (h), (i). Pub. L. 100–442 added pars. (h) and (i).
+<b>1988</b>—Pars. (h), (i). Pub. L. 100–442 added pars. (h) and (i).
 

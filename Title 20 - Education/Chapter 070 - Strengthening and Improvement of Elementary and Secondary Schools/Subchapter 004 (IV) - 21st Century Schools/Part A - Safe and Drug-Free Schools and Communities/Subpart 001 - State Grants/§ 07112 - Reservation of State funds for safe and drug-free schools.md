@@ -60,7 +60,7 @@
 
 #### (1) In general
 
-&emsp;A State educational agency may use not more than 5 percent of the amount made available to the State under section 7111(b) of this title for each fiscal year less the amount reserved under subsection (a) of this section, for activities described in this subsection.
+&emsp;A State educational agency may use not more than 5 percent of the amount madeavailable to the State under section 7111(b) of this title for each fiscal year less the amount reserved under subsection (a) of this section, for activities described in this subsection.
 
 #### (2) Activities
 
@@ -100,7 +100,7 @@
 
 #### (C) Compilation of statistics
 
-&emsp;&emsp;In compiling the statistics required for the uniform management information and reporting system, the offenses described insubparagraph (B)(ii) shall be defined pursuant to the State's criminal code, but shall not identify victims of crimes or persons accused of crimes. The collected data shall include incident reports by school officials, anonymous student surveys, and anonymous teacher surveys.
+&emsp;&emsp;In compiling the statistics required for the uniform management information and reporting system, the offenses described in subparagraph (B)(ii) shall be defined pursuant to the State's criminal code, but shall not identify victims of crimes or persons accused of crimes. The collected data shall include incident reports by school officials, anonymous student surveys, and anonymous teacher surveys.
 
 #### (D) Reporting
 

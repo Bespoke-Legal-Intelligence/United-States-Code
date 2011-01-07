@@ -6,5 +6,7 @@ There are hereby authorized to be appropriated such sums,<sup>1</sup> as may be 
 
 #### Amendments
 
-1992—Pub. L. 102–486 struck out “not to exceed $500,000 annually,” after “such sums,”.
+<b>1992</b>—Pub. L. 102–486 struck out “not to exceed $500,000 annually,” after “such sums,”.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

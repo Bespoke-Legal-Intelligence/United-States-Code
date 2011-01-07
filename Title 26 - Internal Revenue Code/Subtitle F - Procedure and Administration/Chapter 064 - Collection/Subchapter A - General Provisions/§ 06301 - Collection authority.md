@@ -6,7 +6,7 @@ The Secretary shall collect the taxes imposed by the internal revenue laws.
 
 #### Amendments
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Approval Process for Liens, Levies, and Seizures
 

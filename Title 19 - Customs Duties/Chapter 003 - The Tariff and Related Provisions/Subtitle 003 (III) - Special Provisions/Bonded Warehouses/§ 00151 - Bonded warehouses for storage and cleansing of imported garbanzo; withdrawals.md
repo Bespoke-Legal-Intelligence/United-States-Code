@@ -6,7 +6,7 @@ Under such regulations and conditions as may be prescribed by the Secretary of t
 
 #### Amendments
 
-1970—Pub. L. 91–271 substituted reference to the appropriate customs officer for reference to the collector of customs.
+<b>1970</b>—Pub. L. 91–271 substituted reference to the appropriate customs officer for reference to the collector of customs.
 
 #### Effective Date of 1970 Amendment
 

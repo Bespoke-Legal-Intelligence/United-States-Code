@@ -24,7 +24,3 @@ Availability of federal employee rates for travel.—For purposes of any schedul
 
 (Added Pub. L. 107–252, title VI, §601(a), Oct. 29, 2002, 116 Stat. 1719.)
 
-#### References in Text
-
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (b)(1)(B), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-

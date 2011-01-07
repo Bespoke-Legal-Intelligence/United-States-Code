@@ -24,3 +24,9 @@ Reporting Requirements.—When the authority granted by subsection (a) is used t
 
 (Added Pub. L. 111–84, div. C, title XXXV, §3503(a), Oct. 28, 2009, 123 Stat. 2719.)
 
+<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. The period probably should be “; and”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “contracts”.</i>
+

@@ -44,15 +44,15 @@ Amounts provided as a grant by the Foundation shall not be used for—
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–363, §202, substituted “fiscal years 2006 through 2010” for “fiscal years 2001 through 2005”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–363, §202, substituted “fiscal years 2006 through 2010” for “fiscal years 2001 through 2005”.
 
 Subsec. (a)(3). Pub. L. 109–363, §204, inserted “, or to a recipient of a grant provided by the Foundation,” after “made to the Foundation”.
 
-2002—Subsec. (a)(1). Pub. L. 107–141, §6(1), substituted “2005” for “2003”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–141, §6(1), substituted “2005” for “2003”.
 
 Subsec. (a)(1)(A). Pub. L. 107–141, §6(2), substituted “$25,000,000” for “$20,000,000”.
 
-2000—Pub. L. 106–408 added text of section and struck out former text which read as follows:
+<b>2000</b>—Pub. L. 106–408 added text of section and struck out former text which read as follows:
 
 “(a)
 
@@ -68,19 +68,19 @@ Use of Amounts Appropriated.—(1) Subject to paragraph (2), amounts appropriate
 
 Additional Authorization.—The amounts authorized to be appropriated under this section are in addition to any amounts provided or available to the Foundation under any other Federal law.”
 
-1994—Subsec. (a). Pub. L. 103–232, §104(a)(1), substituted “$25,000,000 for each of fiscal years 1994, 1995, 1996, 1997, and 1998” for “not to exceed $15,000,000 for fiscal year 1991, not to exceed $20,000,000 for fiscal year 1992, and not to exceed $25,000,000 for fiscal year 1993”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–232, §104(a)(1), substituted “$25,000,000 for each of fiscal years 1994, 1995, 1996, 1997, and 1998” for “not to exceed $15,000,000 for fiscal year 1991, not to exceed $20,000,000 for fiscal year 1992, and not to exceed $25,000,000 for fiscal year 1993”.
 
 Subsec. (b). Pub. L. 103–232, §104(b), substituted “paragraph (2)” for “paragraphs (2) and (3)”.
 
 Subsec. (c). Pub. L. 103–232, §104(a)(2), added subsec. (c).
 
-1990—Pub. L. 101–593 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to the Department of the Interior for each of fiscal years 1988 through 1993, inclusive, not to exceed $5,000,000 to be made available to the Foundation—
+<b>1990</b>—Pub. L. 101–593 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to the Department of the Interior for each of fiscal years 1988 through 1993, inclusive, not to exceed $5,000,000 to be made available to the Foundation—
 
 &emsp;“(1) to match partially or wholly the amount or value of contributions (whether in currency, services, or property) made to the Foundation by private persons and State and local government agencies; and
 
 &emsp;“(2) to provide administrative services under section 3704 of this title.”
 
-1988—Pub. L. 100–240 amended section generally. Prior to amendment, section read as follows: “For the ten-year period beginning on October 1, 1984, there are authorized to be appropriated to the Department of the Interior not to exceed $1,000,000 to be made available to the Foundation—
+<b>1988</b>—Pub. L. 100–240 amended section generally. Prior to amendment, section read as follows: “For the ten-year period beginning on October 1, 1984, there are authorized to be appropriated to the Department of the Interior not to exceed $1,000,000 to be made available to the Foundation—
 
 &emsp;“(1) to match, on a one-for-one basis, private contributions made to the Foundation; and
 

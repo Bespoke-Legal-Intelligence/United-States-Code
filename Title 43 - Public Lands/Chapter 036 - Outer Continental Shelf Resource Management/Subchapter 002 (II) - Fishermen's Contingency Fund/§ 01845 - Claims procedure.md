@@ -14,7 +14,7 @@ The Secretary of the Interior shall make reasonable efforts to notify all person
 
 #### (d) Acceptance of claim by Secretary; time to render decision; review of initial determination
 
-(1) The Secretary shall, under regulations prescribed pursuant to section 1843(a) of this title, specify the time, form and manner in which claims must be filed.
+(1) The Secretary shall, under regulations prescribed pursuant to section 1843(a) of this title,specify the time, form and manner in which claims must be filed.
 
 (2) The Secretary may not accept any claim that does not meet the filing requirements specified under paragraph (1), and shall give a claimant whose claim is not accepted written notice of the reasons for nonacceptance. Such written notice must be given to the claimant within 30 days after the date on which the claim was filed and if the claimant does not refile an acceptable claim within 30 days after the date of such written notice, the claimant is not eligible for compensation under this subchapter for the damages concerned; except that the Secretary—
 
@@ -56,7 +56,7 @@ Any proceeding conducted with respect to an initial determination on a claim und
 
 #### (i) Judicial review
 
-Any claimant or other person who suffers a legal wrong or who is adversely affected or aggrieved by a final determination of the Secretary under subsection (d) of this section, may, no later than 30 days after such determination is made, seek judicial review of the determination in the United States district court for such United States judicial district as may be mutually agreeable to the parties concerned or, if noagreement can be reached, in the United States district court for the United States judicial district in which is located the home port of the claimant.
+Any claimant or other person who suffers a legal wrong or who is adversely affected or aggrieved by a final determination of the Secretary under subsection (d) of this section, may, no later than 30 days after such determination is made, seek judicial review of the determination in the United States district court for such United States judicial district as may be mutually agreeable to the parties concerned or, if no agreement can be reached, in the United States district court for the United States judicial district in which is located the home port of the claimant.
 
 (Pub. L. 95–372, title IV, §405, Sept. 18, 1978, 92 Stat. 688; Pub. L. 97–212, §5, June 30, 1982, 96 Stat. 145; Pub. L. 98–498, title IV, §420(3), (4), Oct. 19, 1984, 98 Stat. 2309, 2310.)
 
@@ -66,11 +66,11 @@ Section 1847 of this title, referred to in subsec. (f)(2), was repealed by Pub. 
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–498 substituted “under subsection (d)(1) of this section” for “, except that no such claim may be filed more than 60 days after the date of discovery of the damages with respect to which such claim is made”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–498 substituted “under subsection (d)(1) of this section” for “, except that no such claim may be filed more than 60 days after the date of discovery of the damages with respect to which such claim is made”.
 
 Subsec. (d)(1). Pub. L. 98–498 inserted “time,” before “form”.
 
-1982—Subsec. (b). Pub. L. 97–212, §5(1), struck out pars. (1) and (2) designations, and substituted “shall take such further action regarding the claim that is required under subsection (d) of this section” for “refer such matter to a hearing examiner appointed under section 3105 of title 5”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–212, §5(1), struck out pars. (1) and (2) designations, and substituted “shall take such further action regarding the claim that is required under subsection (d) of this section” for “refer such matter to a hearing examiner appointed under section 3105 of title 5”.
 
 Subsec. (c). Pub. L. 97–212, §5(2), substituted “proceeding” for “hearing”.
 

@@ -28,7 +28,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 #### (c) Indian Health Service
 
-The programs under subsection (a) of this section shall include programs provided through the Indian Health Service or through tribal contracts, compacts, grants, or cooperative agreements with the Indian Health Service and which are determined appropriate to raising the health status of Indians.
+The programs under subsection (a) of this section shall include programs provided throughthe Indian Health Service or through tribal contracts, compacts, grants, or cooperative agreements with the Indian Health Service and which are determined appropriate to raising the health status of Indians.
 
 #### (d) Grant and contract authority
 
@@ -46,7 +46,7 @@ Sections 4 and 5 of the Radiation Exposure Compensation Act, referred to in subs
 
 #### Amendments
 
-2007—Subsec. (f). Pub. L. 109–482, §104(b)(1)(F), struck out heading and text of subsec. (f). Text read as follows: “Beginning on October 1 of the year following the date on which amounts are first appropriated to carry out this section and annually on each October 1 thereafter, the Secretary shall submit a report to the Committee on the Judiciary and the Committee on Health, Education, Labor, and Pensions of the Senate and to the Committee on the Judiciary and the Committee on Commerce of the House of Representatives. Each report shall summarize the expenditures and programs funded under this section as the Secretary determines to be appropriate.”
+<b>2007</b>—Subsec. (f). Pub. L. 109–482, §104(b)(1)(F), struck out heading and text of subsec. (f). Text read as follows: “Beginning on October 1 of the year following the date on which amounts are first appropriated to carry out this section and annually on each October 1 thereafter, the Secretary shall submit a report to the Committee on the Judiciary and the Committee on Health, Education, Labor, and Pensions of the Senate and to the Committee on the Judiciary and the Committee on Commerce of the House of Representatives. Each report shall summarize the expenditures and programs funded under this section as the Secretary determines to be appropriate.”
 
 Subsec. (g). Pub. L. 109–482, §103(b)(16), struck out heading and text of subsec. (g). Text read as follows: “There are authorized to be appropriated for the purpose of carrying out this section $20,000,000 for fiscal year 1999 and such sums as may be necessary for each of the fiscal years 2000 through 2009.”
 

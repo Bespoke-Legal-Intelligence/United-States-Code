@@ -10,9 +10,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-1978—Pub. L. 95–424 substituted “Whenever” for “Notwithstanding section 2151f of this title, whenever”.
+<b>1978</b>—Pub. L. 95–424 substituted “Whenever” for “Notwithstanding section 2151f of this title, whenever”.
 
-1977—Pub. L. 95–88 provided that the authority under sections 2360(a) and 2364(a) of this title may be used to transfer for the purposes of section 2427 of this title not to exceed five per centum of the amount of funds made available for section 2427(a)(1) of this title.
+<b>1977</b>—Pub. L. 95–88 provided that the authority under sections 2360(a) and 2364(a) of this title may be used to transfer for the purposes of section 2427 of this title not to exceed five per centum of the amount of funds made available for section 2427(a)(1) of this title.
 
 #### Effective Date of 1978 Amendment
 

@@ -6,7 +6,7 @@ The Congress declares it to be the policy of the United States, in connection wi
 
 #### Amendments
 
-1981—Pub. L. 97–35 redesignated subsec. (a) as entire section and struck out subsec. (b) which related to an annual report to Congress on the progress towards achieving the goals of this section.
+<b>1981</b>—Pub. L. 97–35 redesignated subsec. (a) as entire section and struck out subsec. (b) which related to an annual report to Congress on the progress towards achieving the goals of this section.
 
 #### Effective Date of 1981 Amendment
 

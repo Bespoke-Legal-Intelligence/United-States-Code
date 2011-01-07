@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(D) be based in a graduate medical education program in internal medicine or family medicine or in a department of geriatrics or behavioral or mental health;
 
-&emsp;&emsp;(E) provide training in geriatrics and exposure to the physical and mental disabilities of elderly individuals through a variety of service rotations, such as geriatric consultation services, acute care services, dental services, geriatric behavioral or mental health units, day and home care programs, rehabilitation services, extended care facilities, geriatric ambulatory care and comprehensive evaluation units, and community care programs for elderly mentally retarded individuals; and
+&emsp;&emsp;(E) provide training in geriatrics and exposure to the physical and mental disabilities of elderly individuals through a variety of service rotations, such as geriatric consultation services, acute care services, dental services, geriatric behavioral or mental health units, day and home care programs, rehabilitation services, extended care facilities, geriatric ambulatory care and comprehensive evaluation units, and community care programs for elderly individuals with intellectual disabilities; and
 
 &emsp;&emsp;(F) provide training in geriatrics through one or both of the training options described in subparagraphs (A) and (B) of paragraph (3).
 
@@ -88,35 +88,127 @@
 
 &emsp;To be eligible to receive an Award under paragraph (1), an individual shall—
 
-&emsp;&emsp;(A) be board certified or board eligible in internal medicine, family practice, or psychiatry;
+&emsp;&emsp;(A) be board certified or board eligible in internal medicine, family practice, psychiatry, or licensed dentistry, or have completed any required training in a discipline and employed in an accredited health professions school that is approved by the Secretary;
 
-&emsp;&emsp;(B) have completed an approved fellowship program in geriatrics; and
+&emsp;&emsp;(B) have completed an approved fellowship program in geriatrics or have completed specialty training in geriatrics as required by the discipline and any addition <sup>2</sup> geriatrics training as required by the Secretary; and
 
-&emsp;&emsp;(C) have a junior faculty appointment at an accredited (as determined by the Secretary) school of medicine or osteopathic medicine.
+&emsp;&emsp;(C) have a junior (non-tenured) faculty appointment at an accredited (as determined by the Secretary) school of medicine, osteopathic medicine, nursing, social work, psychology, dentistry, pharmacy, or other allied health disciplines in an accredited health professions school that is approved by the Secretary.
 
 #### (3) Limitations
 
 &emsp;No Award under paragraph (1) may be made to an eligible individual unless the individual—
 
-&emsp;&emsp;(A) has submitted to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, and the Secretary has approved such application; and
+&emsp;&emsp;(A) has submitted to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, and the Secretary has approved such application;
 
-&emsp;&emsp;(B) provides, in such form and manner as the Secretary may require, assurances that the individual will meet the service requirement described in subsection (e) <sup>2</sup>.
+&emsp;&emsp;(B) provides, in such form and manner as the Secretary may require, assurances that the individual will meet the service requirement described in paragraph (6); and
 
-#### (4) Amount and term
+&emsp;&emsp;(C) provides, in such form and manner as the Secretary may require, assurances that the individual has a full-time faculty appointment in a health professions institution and documented commitment from such institution to spend 75 percent of the total time of such individual on teaching and developing skills in interdisciplinary education in geriatrics.
+
+#### (4) Maintenance of effort
+
+&emsp;An eligible individual that receives an Award under paragraph (1) shall provide assurances to the Secretary that funds provided to the eligible individual under this subsectionwill be used only to supplement, not to supplant, the amount of Federal, State, and local funds otherwise expended by the eligible individual.
+
+#### (5) Amount and term
 
 #### (A) Amount
 
-&emsp;&emsp;The amount of an Award under this section shall equal $50,000 for fiscal year 1998, adjusted for subsequent fiscal years to reflect the increase in the Consumer Price Index.
+&emsp;&emsp;The amount of an Award under this section for individuals who are physicians shall equal $50,000 for fiscal year 1998, adjusted for subsequent fiscal years to reflect the increase in the Consumer Price Index. The Secretary shall determine the amount of an Award under this section for individuals who are not physicians.
 
 #### (B) Term
 
 &emsp;&emsp;The term of any Award made under this subsection shall not exceed 5 years.
 
-#### (5) Service requirement
+#### (C) Payment to institution
+
+&emsp;&emsp;The Secretary shall make payments to institutions which include schools of medicine, osteopathic medicine, nursing, social work, psychology, dentistry, and pharmacy, or other allied health discipline in an accredited health professions school that is approved by the Secretary.
+
+#### (6) Service requirement
 
 &emsp;An individual who receives an Award under this subsection shall provide training in clinical geriatrics, including the training of interdisciplinary teams of health care professionals. The provision of such training shall constitute at least 75 percent of the obligations of such individual under the Award.
 
-(July 1, 1944, ch. 373, title VII, §753, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3544; amended Pub. L. 107–205, title II, §202(b), Aug. 1, 2002, 116 Stat. 817.)
+#### (d) Geriatric workforce development
+
+#### (1) In general
+
+&emsp;The Secretary shall award grants or contracts under this subsection to entities that operate a geriatric education center pursuant to subsection (a)(1).
+
+#### (2) Application
+
+&emsp;To be eligible for an award under paragraph (1), an entity described in such paragraph shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+
+#### (3) Use of funds
+
+&emsp;Amounts awarded under a grant or contract under paragraph (1) shall be used to—
+
+&emsp;&emsp;(A) carry out the fellowship program described in paragraph (4); and
+
+&emsp;&emsp;(B) carry out 1 of the 2 activities described in paragraph (5).
+
+#### (4) Fellowship program
+
+#### (A) In general
+
+&emsp;&emsp;Pursuant to paragraph (3), a geriatric education center that receives an award under this subsection shall use such funds to offer short-term intensive courses (referred to in this subsection as a “fellowship”) that focus on geriatrics, chronic care management, and long-term care that provide supplemental training for faculty members in medical schools and other health professions schools with programs in psychology, pharmacy, nursing, social work, dentistry, public health, allied health, or other health disciplines, as approved by the Secretary. Such a fellowship shall be open to current faculty, and appropriately credentialed volunteer faculty and practitioners, who do not have formal training in geriatrics, to upgrade their knowledge and clinical skills for the care of older adults and adults with functional limitations and to enhance their interdisciplinary teaching skills.
+
+#### (B) Location
+
+&emsp;&emsp;A fellowship shall be offered either at the geriatric education center that is sponsoring the course, in collaboration with other geriatric education centers, or at medical schools, schools of dentistry, schools of nursing, schools of pharmacy, schools of social work, graduate programs in psychology, or allied health and other health professions schools approved by the Secretary with which the geriatric education centers are affiliated.
+
+#### (C) CME credit
+
+&emsp;&emsp;Participation in a fellowship under this paragraph shall be accepted with respect to complying with continuing health profession education requirements. As a condition of such acceptance, the recipient shall agree to subsequently provide a minimum of 18 hours of voluntary instructional support through a geriatric education center that is providing clinical training to students or trainees in long-term care settings.
+
+#### (5) Additional required activities described
+
+&emsp;Pursuant to paragraph (3), a geriatric education center that receives an award under this subsection shall use such funds to carry out 1 of the following 2 activities.
+
+#### (A) Family caregiver and direct care provider training
+
+&emsp;&emsp;A geriatric education center that receives an award under this subsection shall offer at least 2 courses each year, at no charge or nominal cost, to family caregivers and direct care providers that are designed to provide practical training for supporting frail elders and individuals with disabilities. The Secretary shall require such Centers to work with appropriate community partners to develop training program content and to publicize the availability of training courses in their service areas. All family caregiver and direct care provider training programs shall include instruction on the management of psychological and behavioral aspects of dementia, communication techniques for working with individuals who have dementia, and the appropriate, safe, and effective use of medications for older adults.
+
+#### (B) Incorporation of best practices
+
+&emsp;&emsp;A geriatric education center that receives an award under this subsection shall develop and include material on depression and other mental disorders common among older adults, medication safety issues for older adults, and management of the psychological and behavioral aspects of dementia and communication techniques with individuals who have dementia in all training courses, where appropriate.
+
+#### (6) Targets
+
+&emsp;A geriatric education center that receives an award under this subsection shall meet targets approved by the Secretary for providing geriatric training to a certain number of faculty or practitioners during the term of the award, as well as other parameters established by the Secretary.
+
+#### (7) Amount of award
+
+&emsp;An award under this subsection shall be in an amount of $150,000. Not more than 24 geriatric education centers may receive an award under this subsection.
+
+#### (8) Maintenance of effort
+
+&emsp;A geriatric education center that receives an award under this subsection shall provide assurances to the Secretary that funds provided to the geriatric education center under this subsection will be used only to supplement, not to supplant, the amount of Federal, State, and local funds otherwise expended by the geriatric education center.
+
+#### (9) Authorization of appropriations
+
+&emsp;In addition to any other funding available to carry out this section, there is authorized to be appropriated to carry out this subsection, $10,800,000 for the period of fiscal year 2011 through 2014.
+
+#### (e) Geriatric career incentive awards
+
+#### (1) In general
+
+&emsp;The Secretary shall award grants or contracts under this section to individuals described in paragraph (2) to foster greater interest among a variety of health professionals in entering the field of geriatrics, long-term care, and chronic care management.
+
+#### (2) Eligible individuals
+
+&emsp;To be eligible to received an award under paragraph (1), an individual shall—
+
+&emsp;&emsp;(A) be an advanced practice nurse, a clinical social worker, a pharmacist, or student of psychology who is pursuing a doctorate or other advanced degree in geriatrics or related fields in an accredited health professions school; and
+
+&emsp;&emsp;(B) submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+
+#### (3) Condition of award
+
+&emsp;As a condition of receiving an award under this subsection, an individual shall agree that, following completion of the award period, the individual will teach or practice in the field of geriatrics, long-term care, or chronic care management for a minimum of 5 years under guidelines set by the Secretary.
+
+#### (4) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated to carry out this subsection, $10,000,000 for the period of fiscal years 2011 through 2013.
+
+(July 1, 1944, ch. 373, title VII, §753, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3544; amended Pub. L. 107–205, title II, §202(b), Aug. 1, 2002, 116 Stat. 817; Pub. L. 111–148, title V, §5305(a), (b), Mar. 23, 2010, 124 Stat. 622, 624; Pub. L. 111–256, §2(f)(5), Oct. 5, 2010, 124 Stat. 2644.)
 
 #### Prior Provisions
 
@@ -128,9 +220,27 @@ Another prior section 294c, act July 1, 1944, ch. 373, title VII, §743, as adde
 
 #### Amendments
 
-2002—Subsec. (a)(1). Pub. L. 107–205 substituted “, and section 296(2) of this title,” for “, and section 298b(2) of this title,”.
+<b>2010</b>—Subsec. (b)(2)(E). Pub. L. 111–256 substituted “elderly individuals with intellectual disabilities” for “elderly mentally retarded individuals”.
+
+Subsec. (c)(2) to (4). Pub. L. 111–148, §5305(b)(2), added pars. (2) to (4) and struck out former pars. (2) and (3) which described eligible individuals and limitations for Geriatric Academic Career Awards. Former par. (4) redesignated (5).
+
+Subsec. (c)(5). Pub. L. 111–148, §5305(b)(1), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Subsec. (c)(5)(A). Pub. L. 111–148, §5305(b)(3)(A), inserted “for individuals who are physicians” before “shall equal” and inserted at end “The Secretary shall determine the amount of an Award under this section for individuals who are not physicians.”
+
+Subsec. (c)(5)(C). Pub. L. 111–148, §5305(b)(3)(B), added subpar. (C).
+
+Subsec. (c)(6). Pub. L. 111–148, §5305(b)(1), redesignated par. (5) as (6).
+
+Subsecs. (d), (e). Pub. L. 111–148, §5305(a), added subsecs. (d) and (e).
+
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–205 substituted “, and section 296(2) of this title,” for “, and section 298b(2) of this title,”.
+
+#### Definitions
+
+For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under section 1400 of Title 20, Education.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “paragraph (5)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “additional”.</i>
 

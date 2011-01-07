@@ -92,7 +92,7 @@ Functions vested by this subchapter in hearing examiners employed by Department 
 
 #### Hearing Examiners Employed by Department of Labor
 
-Functions vested by this subchapter in hearing examiners employed by Department of Labor not included in functions of officers, agencies, and employees of that Department transferred to Secretary of Labor by 1950 Reorg. Plan No. 6, §1, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to this title.
+Functions vested by this subchapter in hearing examiners employed by Department of Labor not included in functions of officers, agencies, and employees of thatDepartment transferred to Secretary of Labor by 1950 Reorg. Plan No. 6, §1, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to this title.
 
 #### Hearing Examiners Employed by Department of the Treasury
 

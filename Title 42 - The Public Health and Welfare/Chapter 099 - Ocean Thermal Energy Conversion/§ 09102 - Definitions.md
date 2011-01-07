@@ -6,7 +6,7 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(2) “Administrator” means the Administrator of the National Oceanic and Atmospheric Administration;
 
-&emsp;(3) “antitrust laws” includes the Act of July 2, 1890, as amended \[15 U.S.C. 1 et seq.\], the Act of October 15, 1914, as amended \[15 U.S.C. 12 et seq.\], and sections 73 and 74 of the Act of August 27, 1894, as amended \[15 U.S.C. 8 and 9\];
+&emsp;(3) “antitrust laws” includes the Act of July 2, 1890, as amended \[15 U.S.C. 1 et seq.\], the Actof October 15, 1914, as amended \[15 U.S.C. 12 et seq.\], and sections 73 and 74 of the Act of August 27, 1894, as amended \[15 U.S.C. 8 and 9\];
 
 &emsp;(4) “application” means any application submitted under this chapter (A) for issuance of a license for the ownership, construction, and operation of an ocean thermal energy conversion facility or plantship; (B) for transfer or renewal of any such license; or (C) for any substantial change in any of the conditions and provisions of any such license;
 
@@ -42,15 +42,17 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 #### References in Text
 
-Act of July 2, 1890, as amended, referred to in par. (3), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, known as the Sherman Act, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 15 and Tables.
+This chapter, referred to in introductory provisions and pars. (4), (8), and (10), was in the original “this Act”, meaning Pub. L. 96–320, Aug. 3, 1980, 94 Stat. 974, known as the Ocean Thermal Energy Conversion Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of this title and Tables.
 
-Act of October 15, 1914, as amended, referred to in par. (3), is act Oct. 15, 1914, ch. 323, 78 Stat. 730, as amended, known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
+Act of July 2, 1890, as amended, referred to in par. (3), is act July 2, 1890, ch. 647, 26 Stat. 209, known as the Sherman Act, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 15 and Tables.
+
+Act of October 15, 1914, as amended, referred to in par. (3), is act Oct. 15, 1914, ch. 323, 78 Stat. 730, known as the Clayton Act, which is classified generally to sections12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
 
 Sections 73 and 74 of the Act of August 27, 1894, as amended, referred to in par. (3), are sections 73 and 74 of act Aug. 27, 1894, ch. 349, 28 Stat. 570. Sections 73 to 77 of such Act are known as the Wilson Tariff Act. Sections 73 to 76 enacted sections 8 to 11 of Title 15. Section 77 is not classified to the Code. For complete classification of this Act to the Code, see Short Title note under section 8 of Title 15 and Tables.
 
 #### Amendments
 
-1984—Par. (11). Pub. L. 98–623, §602(a)(2), substituted “standing, fixed or moored in whole or in part seaward of the highwater mark” for “standing or moored in or beyond the territorial sea of the United States”.
+<b>1984</b>—Par. (11). Pub. L. 98–623, §602(a)(2), substituted “standing, fixed or moored in whole or in part seaward of the highwater mark” for “standing or moored in or beyond the territorial sea of the United States”.
 
 Pub. L. 98–623, §602(e)(7), substituted “fresh water” for “freshwater”.
 

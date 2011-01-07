@@ -22,17 +22,17 @@ The method of computing and paying such amounts shall be as follows:
 
 &emsp;(3) The Secretary of the Treasury shall thereupon, through the Fiscal Service of the Treasury Department and prior to audit or settlement by the Government Accountability Office, pay to the State, at the time or times fixed by the Secretary of Health and Human Services, the amount so certified.
 
-(Aug. 14, 1935, ch. 531, title I, §3, 49 Stat. 621; Aug. 10, 1939, ch. 666, title I, §102, 53 Stat. 1361; 1940 Reorg. Plan No. III, §1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; Aug. 10, 1946, ch. 951, title V, §501, 60 Stat. 991; June 14, 1948, ch. 468, §3(a), 62 Stat. 439; Aug. 28, 1950, ch. 809, title III, pt. 1, §302(a), pt. 6, §361(c), (d), 64 Stat. 548, 558; July 18, 1952, ch. 945, §8(a), 66 Stat. 778; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Sept. 1, 1954, ch. 1206, title III, §303, 68 Stat. 1097; Aug. 1, 1956, ch. 836, title III, §§301, 311(c), 341, 70 Stat. 846, 848, 852; Pub. L. 85–840, title V, §501, Aug. 28, 1958, 72 Stat. 1047; Pub. L. 86–778, title VI, §601(c), (d), Sept. 13, 1960, 74 Stat. 989, 990; Pub. L. 87–31, §5(a), (b), May 8, 1961, 75 Stat. 77; Pub. L. 87–64, title III, §303(a), June 30, 1961, 75 Stat. 143; Pub. L. 87–543, title I, §§101(a)(1), (b)(1), 132(a), July 25, 1962, 76 Stat. 173, 179, 193; Pub. L. 89–97, title I, §122, title II, §221(a)(4), title IV, §401(a), July 30, 1965, 79 Stat. 353, 357, 414; Pub. L. 90–248, title II, §212(a), Jan. 2, 1968, 81 Stat. 897; Pub. L. 92–512, title III, §301(b), (d), Oct. 20, 1972, 86 Stat. 946, 947; Pub. L. 93–647, §§3(e)(2), 5(a), Jan. 4, 1975, 88 Stat. 2349, 2350; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–35, title XXI, §2184(a)(4), title XXIII, §2353(a), Aug. 13, 1981, 95 Stat. 816, 871; Pub. L. 99–603, title I, §121(b)(4), Nov. 6, 1986, 100 Stat. 3391; Pub. L. 103–66, title XIII, §13741(b), Aug. 10, 1993, 107 Stat. 663; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Aug. 14, 1935, ch. 531, title I, §3, 49 Stat. 621; Aug. 10, 1939, ch. 666, title I, §102, 53 Stat. 1361; 1940 Reorg. Plan No. III, §1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; Aug. 10, 1946, ch. 951, title V, §501, 60 Stat. 991; June 14, 1948, ch.468, §3(a), 62 Stat. 439; Aug. 28, 1950, ch. 809, title III, pt. 1, §302(a), pt. 6, §361(c), (d), 64 Stat. 548, 558; July 18, 1952, ch. 945, §8(a), 66 Stat. 778; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Sept. 1, 1954, ch. 1206, title III, §303, 68 Stat. 1097; Aug. 1, 1956, ch. 836, title III, §§301, 311(c), 341, 70 Stat. 846, 848, 852; Pub. L. 85–840, title V, §501, Aug. 28, 1958, 72 Stat. 1047; Pub. L. 86–778, title VI, §601(c), (d), Sept. 13, 1960, 74 Stat. 989, 990; Pub. L. 87–31, §5(a), (b), May 8, 1961, 75 Stat. 77; Pub. L. 87–64, title III, §303(a), June 30, 1961, 75 Stat. 143; Pub. L. 87–543, title I, §§101(a)(1), (b)(1), 132(a), July 25, 1962, 76 Stat. 173, 179, 193; Pub. L. 89–97, title I, §122, title II, §221(a)(4), title IV, §401(a), July 30, 1965, 79 Stat. 353, 357, 414; Pub. L. 90–248, title II, §212(a), Jan. 2, 1968, 81 Stat. 897; Pub. L. 92–512, title III, §301(b), (d), Oct. 20, 1972, 86 Stat. 946, 947; Pub. L. 93–647, §§3(e)(2), 5(a), Jan. 4, 1975, 88 Stat. 2349, 2350; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–35, title XXI, §2184(a)(4), title XXIII, §2353(a), Aug. 13, 1981, 95 Stat. 816, 871; Pub. L. 99–603, title I, §121(b)(4), Nov. 6, 1986, 100 Stat. 3391; Pub. L. 103–66, title XIII, §13741(b), Aug. 10, 1993, 107 Stat. 663; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Repeal of Section
 
-<i>Pub. L. 92–603, title III, §303(a), (b), Oct. 30, 1972, 86 Stat. 1484, provided that this section is</i><i>repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.</i>
+<i>Pub. L. 92–603, title III, §303(a), (b), Oct. 30, 1972, 86 Stat. 1484, provided that this section is repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.</i>
 
 #### Amendments
 
-2004—Subsec. (b)(3). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (b)(3). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1993—Subsec. (a)(4). Pub. L. 103–66 substituted “50 percent of the total amounts expended during such quarter as found necessary by the Secretary for the proper and efficient administration of the State plan.” for “the sum of the following proportions of the total amounts expended during such quarter as found necessary by the Secretary of Health and Human Services for the proper and efficient administration of the State plan—
+<b>1993</b>—Subsec. (a)(4). Pub. L. 103–66 substituted “50 percent of the total amounts expended during such quarter as found necessary by the Secretary for the proper and efficient administration of the State plan.” for “the sum of the following proportions of the total amounts expended during such quarter as found necessary by the Secretary of Health and Human Services for the proper and efficient administration of the State plan—
 
 &emsp;“(A) 75 per centum of so much of such expenditures as are for the training (including both short- and long-term training at educational institutions through grants to such institutions or by direct financial assistance to students enrolled in such institutions) of personnel employed or preparing for employment by the State agency or by the local agency administering the plan in the political subdivision; plus
 
@@ -40,9 +40,9 @@ The method of computing and paying such amounts shall be as follows:
 
 &emsp;“(C) one-half of the remainder of such expenditures.”
 
-1986—Subsec. (a)(4)(B), (C). Pub. L. 99–603 added subpar. (B) and redesignated former subpar. (B) as (C).
+<b>1986</b>—Subsec. (a)(4)(B), (C). Pub. L. 99–603 added subpar. (B) and redesignated former subpar. (B) as (C).
 
-1981—Subsec. (a)(1). Pub. L. 97–35, §2184(a)(4)(A), struck out par. (1) which provided for computation of amount of payments in case of any State other than Puerto Rico, the Virgin Islands, and Guam.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–35, §2184(a)(4)(A), struck out par. (1) which provided for computation of amount of payments in case of any State other than Puerto Rico, the Virgin Islands, and Guam.
 
 Subsec. (a)(2). Pub. L. 97–35, §2184(a)(4)(B), amended par. (2) generally, striking out provisions including as old-age assistance under the State plan expenditures for premiums under part B of subchapter XVIII of this chapter for individuals who are recipients of money payments under such plan and other insurance premiums for medical or any other type of remedial care and increasing amount payable by larger of two specifically computable amounts.
 
@@ -56,33 +56,33 @@ Subsec. (c). Pub. L. 97–35, §2353(a)(2), struck out subsec. (c) which provide
 
 Subsec. (d). Pub. L. 97–35, §2184(a)(4)(C), struck out subsec. (d) which provided that the amount determined for any State for any quarter which is attributable to expenditures with respect to patients in institutions for mental diseases be paid only to the extent that the State makes a satisfactory showing that the total expenditures in the State from Federal, State, and local sources for mental health services under State and local public health and public welfare programs for such quarter exceed the average of the total expenditures in the State from such sources for such services under such programs for each quarter of fiscal year ending June 30, 1965.
 
-1975—Subsec. (a). Pub. L. 93–647, §3(e)(2), struck out “(subject to section 1320b of this title)” after “the Secretary of the Treasury shall”.
+<b>1975</b>—Subsec. (a). Pub. L. 93–647, §3(e)(2), struck out “(subject to section 1320b of this title)” after “the Secretary of the Treasury shall”.
 
 Subsec. (a)(4)(A)(iv). Pub. L. 93–647, §5(a), inserted “(including both short- and long-term training at educational institutions through grants to such institutions or by direct financial assistance to students enrolled in such institutions)” after “training”.
 
-1972—Subsec. (a). Pub. L. 92–512, §301(d), substituted “shall (subject to section 1320b of this title) pay” for “shall pay” in text preceding par. (1).
+<b>1972</b>—Subsec. (a). Pub. L. 92–512, §301(d), substituted “shall (subject to section 1320b of this title) pay” for “shall pay” in text preceding par. (1).
 
 Subsec. (a)(4)(E). Pub. L. 92–512, §301(b), substituted “under conditions which shall be” for “subject to limitations”.
 
-1968—Subsec. (a)(4)(D). Pub. L. 90–248 inserted “, except to the extent specified by the Secretary” after “shall” in introductory text to subpar. (D).
+<b>1968</b>—Subsec. (a)(4)(D). Pub. L. 90–248 inserted “, except to the extent specified by the Secretary” after “shall” in introductory text to subpar. (D).
 
-1965—Subsec. (a)(1). Pub. L. 89–97, §§122, 401(a), inserted “premiums under part B of subchapter XVIII of this chapter for individuals who are recipients of money payments under such plan and other” after “expenditures for” in parenthetical phrase appearing in so much of par. (1) as precedes cl. (A); and changed first step of formula for determining Federal payments to States with approved plans for old-age assistance under this subchapter, contained in cl. (A), by providing Federal sharing in 31/37ths of first $37 of the average monthly assistance payment instead of 29/35ths of first $35 of the average monthly assistance payment, extended the application of the Federal percentage in second step of formula to an additional $38 of the State's average payment, restated formula for second and third steps by striking out cl. (C) and combining such steps in cl. (B) and making provision therein to give recognition to the State's expenditures for medical care before applying the Federal percentage to remaining expenditures for which Federal participation is available, respectively.
+<b>1965</b>—Subsec. (a)(1). Pub. L. 89–97, §§122, 401(a), inserted “premiums under part B of subchapter XVIII of this chapter for individuals who are recipients of money payments under such plan and other” after “expenditures for” in parenthetical phrase appearing in so much of par. (1) as precedes cl. (A); and changed first step of formula for determining Federal payments to States with approved plans for old-age assistance under this subchapter, contained in cl. (A), by providing Federal sharing in 31/37ths of first $37 of the average monthly assistance payment instead of 29/35ths of first $35 of the average monthly assistance payment, extended the application of the Federal percentage in second step of formula to an additional $38 of the State's average payment, restated formula for second and third steps by striking out cl. (C) and combining such steps in cl. (B) and making provision therein to give recognition to the State's expenditures for medical care before applying the Federal percentage to remaining expenditures for which Federal participation is available, respectively.
 
 Subsec. (a)(2)(A). Pub. L. 89–97, §122, inserted “premiums under part B of subchapter XVIII of this chapter for individuals who are recipients of money payments under such plan and other” after “expenditures for” in parenthetical phrase.
 
 Subsec. (d). Pub. L. 89–97, §221(a)(4), added subsec. (d).
 
-1962—Subsec. (a)(1). Pub. L. 87–543, §132(a), substituted “29/35” and “$35” for “four-fifths” and “$31”, respectively, in subpar. (A), “$70” for “$66” in subpar. (B), and “$85” and “$70” for “$81” and “$66”, respectively, in subpar. (C).
+<b>1962</b>—Subsec. (a)(1). Pub. L. 87–543, §132(a), substituted “29/35” and “$35” for “four-fifths” and “$31”, respectively, in subpar. (A), “$70” for “$66” in subpar. (B), and “$85” and “$70” for “$81” and “$66”, respectively, in subpar. (C).
 
 Subsec. (a)(2). Pub. L. 87–543, §132(a), substituted “$37.50” for “$35.50”, in subpar. (A) and “$45” and “$37.50” for “$43” and “$35.50”, respectively, in subpar. (B).
 
-Subsec. (a)(4). Pub. L. 87–543, §101(a)(1), (b)(1)(A), inserted in opening provisions “whose State plan approved under section 302 of this title meets the requirements of subsection (c) of this section” after “any State”, and substituted provisions which increased the Federal share of expenses of administration of State public assistance plans by providing quarterly payments of the sum of 75 per centum of the quarterly expenses for certain prescribed services to help attain and retain capability for self-care, services likely to prevent or reduce dependency, and services appropriate for individuals who were or are likely to become applicantsfor or recipients of assistance and request such services, and training of State or local public assistance personnel administering such plans and one-half of other administrative expenses for other services, permitted State health or vocational rehabilitation or other appropriate State agencies to furnish such services, except vocational rehabilitation services, and required the determination of the portion of expenses covered by the 75 and 50 per centum provisions in accordance with methods and procedures permitted by the Secretary for former provisions requiring quarterly payments of one-half of quarterly expenses of administration of State plans, including staff services of State or local public assistance agencies to applicants for and recipients of old-age assistance to help them attain self-care.
+Subsec. (a)(4). Pub. L. 87–543, §101(a)(1), (b)(1)(A), inserted in opening provisions “whose State plan approved under section 302 of this title meets the requirements of subsection (c) of this section” after “any State”, and substituted provisions which increased the Federal share of expenses of administration of State public assistance plans by providing quarterly payments of the sum of 75 per centum of the quarterly expenses for certain prescribed services to help attain and retain capability for self-care, services likely to prevent or reduce dependency, and services appropriate for individuals who were or are likely to become applicants for or recipients of assistance and request such services, and training of State or local public assistance personnel administering such plans and one-half of other administrative expenses for other services, permitted State health or vocational rehabilitation or other appropriate State agencies to furnish such services, except vocational rehabilitation services, and required the determination of the portion of expenses covered by the 75 and 50 per centum provisions in accordance with methods and procedures permitted by the Secretary for former provisions requiring quarterly payments of one-half of quarterly expenses of administration of State plans, including staff services of State or local public assistance agencies to applicants for and recipients of old-age assistance to help them attain self-care.
 
 Subsec. (a)(5). Pub. L. 87–543, §101(b)(1)(B), added par. (5).
 
 Subsec. (c). Pub. L. 87–543, §101(b)(1)(C), added subsec. (c).
 
-1961—Subsec. (a)(1). Pub. L. 87–64, §303(a)(1), substituted “$31” for “$30” in subpar. (A), “$66” for “$65” in subpar. (B), and “$81” for “$80” and “$66” for “$65” in subpar. (C).
+<b>1961</b>—Subsec. (a)(1). Pub. L. 87–64, §303(a)(1), substituted “$31” for “$30” in subpar. (A), “$66” for “$65” in subpar. (B), and “$81” for “$80” and “$66” for “$65” in subpar. (C).
 
 Pub. L. 87–31, §5(a), substituted “$80” and “$15” for “$77” and “$12”, respectively, in subpar. (C).
 
@@ -90,33 +90,33 @@ Subsec. (a)(2). Pub. L. 87–64, §303(a)(2), substituted “$35.50” for “$3
 
 Pub. L. 87–31, §5(b), substituted “$42.50” and “$7.50” for “$41” and “$6”, respectively, in subpar. (B).
 
-1960—Subsec. (a). Pub. L. 86–778, §601(c), added pars. (1)(C), (2)(B), and (3).
+<b>1960</b>—Subsec. (a). Pub. L. 86–778, §601(c), added pars. (1)(C), (2)(B), and (3).
 
 Subsec. (b)(2). Pub. L. 86–778, §601(d), substituted “assistance furnished under the State plan” for “old-age assistance furnished under the State plan” in cl. (B).
 
-1958—Subsec. (a). Pub. L. 85–840 increased payments to the States to four-fifths of the first $30 of the average monthly payment per recipient, including assistance in the form of money payments and in the form of medical or any other type of remedial care, plus Federal percentage of the amount by which the expenditures exceed the maximum which may be counted under cl. (A), but excluding that part of the average monthly payment per recipient in excess of $65, increased average monthly payment to Puerto Rico and the Virgin Islands from $30 to $35, excluded Guam from provisions which authorize an average monthly payment of $65 and included Guam within provisions which authorize an average monthly payment of $35, and permitted the counting of individuals with respect to whom expenditures were made as old-age assistance in the form of medical or any other type of remedial care in determining the total number of recipients.
+<b>1958</b>—Subsec. (a). Pub. L. 85–840 increased payments to the States to four-fifths of the first $30 of the average monthly payment per recipient, including assistance in the form of money payments and in the form of medical or any other type of remedial care, plus Federal percentage of the amount by which the expenditures exceed the maximum which may be counted under cl. (A), but excluding that part of the average monthly payment per recipient in excess of $65, increased average monthly payment to Puerto Rico and the Virgin Islands from $30 to $35, excluded Guam from provisions which authorize an average monthly payment of $65 and included Guam within provisions which authorize an average monthly payment of $35, and permitted the counting of individuals with respect to whom expenditures were made as old-age assistance in the form of medical or any other type of remedial care in determining the total number of recipients.
 
-1956—Subsec. (a). Act Aug. 1, 1956, §301, substituted “during such quarter as old-age assistance in the form of money payments under the State plan” for “during such quarter as old-age assistance under the State plan” in cls. (1) and (2), “who received old-age assistance in the form of money payments for such month” for “who received old-age assistance for such month” in par. (A) of cl. (1), and inserted cl. (4).
+<b>1956</b>—Subsec. (a). Act Aug. 1, 1956, §301, substituted “during such quarter as old-age assistance in the form of money payments under the State plan” for “during such quarter as old-age assistance under the State plan” in cls. (1) and (2), “who received old-age assistance in the form of money payments for such month” for “who received old-age assistance for such month” in par. (A) of cl. (1), and inserted cl. (4).
 
 Act Aug. 1, 1956, §311(c), struck out “, which shall be used exclusively as old-age assistance,” after “the Virgin Islands, an amount” in cls. (1) and (2), and substituted “including services which are provided by the staff of the State agency (or of the local agency administering the State plan in the political subdivision) to applicants for and recipients of old-age assistance to help them attain self-care” for “which amount shall be used for paying the costs of administering the State plan or for old-age assistance, or both, and for no other purpose” in cl. (3).
 
 Act Aug. 1, 1956, §341, substituted “October 1, 1956” for “October 1, 1952”, struck out “, which shall be used exclusively as old-age assistance,” after “the Virgin Islands, an amount”, and substituted “$60” for “$55”, in cl. (1), substituted “the product of $30” for “the product of $25” in par. (A) of cl. (1), and “including services which are provided by the staff of the State agency (or of the local agency administering the State plan in the political subdivision) to applicants for and recipients of old-age assistance to help them attain self-care” for “which amount shall be used for paying the costs of administering the State plan or for old-age assistance, or both, and for no other purpose” in cl. (3).
 
-1954—Subsec. (b). Act Sept. 1, 1954, §303(b), substituted “subsection (a)” for “clause (1) of subsection (a)”, wherever appearing, substituted “such subsection” for “such clause” in par. (1), and struck out “increased by five per centum” at end of par. (3).
+<b>1954</b>—Subsec. (b). Act Sept. 1, 1954, §303(b), substituted “subsection (a)” for “clause (1) of subsection (a)”, wherever appearing, substituted “such subsection” for “such clause” in par. (1), and struck out “increased by five per centum” at end of par. (3).
 
 Subsec. (b)(1). Act Sept. 1, 1954, §303(a), substituted “the State's proportionate share” for “one-half”.
 
-1952—Subsec. (a). Act July 18, 1952, increased Federal share of State's average monthly payment to four-fifths of the first $25 plus one-half of the remainder within individual maximums of $55, and changed formulas for computing Federal share of public assistance for Puerto Rico and Virgin Islands.
+<b>1952</b>—Subsec. (a). Act July 18, 1952, increased Federal share of State's average monthly payment to four-fifths of the first $25 plus one-half of the remainder within individual maximums of $55, and changed formulas for computing Federal share of public assistance for Puerto Rico and Virgin Islands.
 
-1950—Act Aug. 28, 1950, substituted “Administrator” for “Board”, and “he”, “him” or “his” for “it”, or “its” wherever appearing and in subsec. (a) changed basis for computation of Federal portion of old-age assistance.
+<b>1950</b>—Act Aug. 28, 1950, substituted “Administrator” for “Board”, and “he”, “him” or “his” for “it”, or “its” wherever appearing and in subsec. (a) changed basis for computation of Federal portion of old-age assistance.
 
-1948—Subsec. (a). Act June 14, 1948, substituted $50 for $45 and $20 for $15.
+<b>1948</b>—Subsec. (a). Act June 14, 1948, substituted $50 for $45 and $20 for $15.
 
-1946—Subsec. (a). Act Aug. 10, 1946, §501(a), temporarily increased maximum monthly State expenditure for an individual to which Federal Government will contribute from $40 to $45, increased Federal contribution for assistance from one-half the State's expenditure to two-thirds the State's expenditure up to $15 monthly per individual plus one-half the State's expenditure over $15 and changed the Federal contribution for administration from 5 percent of Federal contribution for assistance to one-half the State expenditure for administration. See Effective and Termination Date of 1946 Amendment note below.
+<b>1946</b>—Subsec. (a). Act Aug. 10, 1946, §501(a), temporarily increased maximum monthly State expenditure for an individual to which Federal Government will contribute from $40 to $45, increased Federal contribution for assistance from one-half the State's expenditure to two-thirds the State's expenditure up to $15 monthly per individual plus one-half the State's expenditure over $15 and changed the Federal contribution for administration from 5 percent of Federal contribution for assistance to one-half the State expenditure for administration. See Effective and Termination Date of 1946 Amendment note below.
 
 Subsec. (b). Act Aug. 10, 1946, §501(b), temporarily changed references to cl. (1) of subsec. (a) to refer to entire subsection, substituted “the State's proportionate share” for “one-half” in par. (1) and struck out “increased by 5 per centum” at end of par. (3). See Effective and Termination Date of 1986 Amendment note below.
 
-1939—Act Aug. 10, 1939, amended section generally, including substitution of $40 for $30 in subsec. (a).
+<b>1939</b>—Act Aug. 10, 1939, amended section generally, including substitution of $40 for $30 in subsec. (a).
 
 #### Effective Date of 1993 Amendment
 
@@ -140,7 +140,7 @@ Amendment by section 2353(a) of Pub. L. 97–35 effective, except as otherwise s
 
 #### Effective Date of 1975 Amendment
 
-Section 7 of Pub. L. 93–647, as amended by Pub. L. 94–120, §3, Oct. 21, 1975, 89 Stat. 609; Pub. L. 94–401, §2,Sept. 7, 1976, 90 Stat. 1215, eff. Feb. 1, 1976; Pub. L. 95–171, §1(d), Nov. 12, 1977, 91 Stat. 1353; eff. Oct. 1, 1977, provided that:
+Section 7 of Pub. L. 93–647, as amended by Pub. L. 94–120, §3, Oct. 21, 1975, 89 Stat. 609; Pub. L. 94–401, §2, Sept. 7, 1976, 90 Stat. 1215, eff. Feb. 1, 1976; Pub. L. 95–171, §1(d), Nov. 12, 1977, 91 Stat. 1353; eff. Oct. 1, 1977, provided that:
 
 “(a)(1) The amendments made by sections 2 and 5 of this Act \[enacting sections 1397 to 1397f of this title and amending this section, sections 603, 1203, and 1353 of this title, and provisions set out as a note under section 1383 of this title\] shall be effective with respect to payments for quarters commencing after September 30, 1975.
 
@@ -178,7 +178,7 @@ Section 202(f) of Pub. L. 87–543 provided that: “The amendments made by sect
 
 #### Effective Date of 1961 Amendments
 
-Section 303(e) of Pub. L. 87–64, as amended by Pub. L. 87–543, title I, §132(e), provided that: “The amendments made by subsections (a), (b), and (c) of this section \[amending this section and sections 1203 and 1353 of this title\] shall apply only in the case of expenditures made after September 30, 1961, and before October 1, 1962, under a State plan approved under title I, X, or XIV, as the case may be, of the Social Security Act \[subchapter I, X, or XIV of this chapter\].”
+Section 303(e) of Pub. L. 87–64, as amended by Pub. L. 87–543, title I, §132(e), provided that: “The amendments made by subsections (a), (b), and (c) of this section \[amending this section and sections 1203 and 1353 of this title\] shall apply only in the case of expenditures made after September 30, 1961, and before October 1, 1962,under a State plan approved under title I, X, or XIV, as the case may be, of the Social Security Act \[subchapter I, X, or XIV of this chapter\].”
 
 Section 5(c) of Pub. L. 87–31 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply in the case of expenditures made after June 30, 1961, under a State plan approved under title I of the Social Security Act \[this subchapter\].”
 

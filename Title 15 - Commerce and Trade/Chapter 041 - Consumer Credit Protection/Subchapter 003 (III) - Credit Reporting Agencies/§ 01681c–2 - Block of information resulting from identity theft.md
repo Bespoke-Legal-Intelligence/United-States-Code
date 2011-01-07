@@ -54,7 +54,7 @@ A consumer reporting agency shall promptly notify the furnisher of information i
 
 &emsp;&emsp;(B) is not, at the time of the request of the consumer under subsection (a) of this section, otherwise furnishing or reselling a consumer report concerning the information identified by the consumer; and
 
-&emsp;&emsp;(C) informs the consumer, by any means, that the consumer may report the identitytheft to the Commission to obtain consumer information regarding identity theft.
+&emsp;&emsp;(C) informs the consumer, by any means, that the consumer may report the identity theft to the Commission to obtain consumer information regarding identity theft.
 
 #### (2) Reseller with file
 
@@ -76,7 +76,15 @@ The provisions of this section do not apply to a check services company, acting 
 
 No provision of this section shall be construed as requiring a consumer reporting agency to prevent a Federal, State, or local law enforcement agency from accessing blocked information in a consumer file to which the agency could otherwise obtain access under this subchapter.
 
-(Pub. L. 90–321, title VI, §605B, as added Pub. L. 108–159, title I, §152(a), Dec. 4, 2003, 117 Stat. 1964.)
+(Pub. L. 90–321, title VI, §605B, as added Pub. L. 108–159, title I, §152(a), Dec. 4, 2003, 117 Stat. 1964; amended Pub. L. 111–203, title X, §1088(a)(2)(C), July 21, 2010, 124 Stat. 2087.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1088(a)(2)(C), 1100H, July 21, 2010, 124 Stat. 2087, 2113, provided that, effective on the designated transfer date, this section is amended by striking “the Commission” each place that term appears and inserting “the Bureau”. See Effective Date of 2010 Amendment note below.</i>
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

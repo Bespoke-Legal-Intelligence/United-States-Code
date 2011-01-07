@@ -18,7 +18,7 @@ A prior section 11 of Pub. L. 94–70 was renumbered section 13 and is set out a
 
 #### Amendments
 
-1998—Pub. L. 105–384 made technical amendment to style of heading and section designation in original act.
+<b>1998</b>—Pub. L. 105–384 made technical amendment to style of heading and section designation in original act.
 
 #### Change of Name
 

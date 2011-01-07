@@ -20,5 +20,5 @@ The Commission is authorized on behalf of the United States to appeal from, and 
 
 #### Amendments
 
-1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 

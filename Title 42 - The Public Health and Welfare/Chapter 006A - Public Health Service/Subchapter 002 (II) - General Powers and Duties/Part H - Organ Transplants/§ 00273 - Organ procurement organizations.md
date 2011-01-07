@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(II) members who represent the public residing in such area,
 
-&emsp;&emsp;&emsp;(III) a physician with knowledge, experience, or skill in the field of histocompatability <sup>3</sup> or an individual with a doctorate degree in a biological science with knowledge, experience, or skill in the field of histocompatibility,
+&emsp;&emsp;&emsp;(III) a physician with knowledge, experience, or skill in the field of histocompatability <sup>3</sup> or an individual witha doctorate degree in a biological science with knowledge, experience, or skill in the field of histocompatibility,
 
 &emsp;&emsp;&emsp;(IV) a physician with knowledge or skill in the field of neurology, and
 
@@ -108,13 +108,13 @@ A prior section 371 of act July 1, 1944, added by act Aug. 3, 1956, ch. 907, §1
 
 #### Amendments
 
-2004—Subsec. (a)(3). Pub. L. 108–216 struck out par. (3) which read as follows: “The Secretary may make grants to, and enter into contracts with, qualified organ procurement organizations described in subsection (b) of this section and other nonprofit private entities for the purpose of carrying out special projects designed to increase the number of organ donors.”
+<b>2004</b>—Subsec. (a)(3). Pub. L. 108–216 struck out par. (3) which read as follows: “The Secretary may make grants to, and enter into contracts with, qualified organ procurement organizations described in subsection (b) of this section and other nonprofit private entities for the purpose of carrying out special projects designed to increase the number of organ donors.”
 
 Subsec. (c). Pub. L. 108–362 added subsec. (c).
 
-2000—Subsec. (b)(1)(D) to (H). Pub. L. 106–505 and Pub. L. 106–554 amended par. (1) identically, adding subpar. (D), redesignating former subpars. (D) to (G) as (E) to (H), respectively, and realigning margins of subpar. (F).
+<b>2000</b>—Subsec. (b)(1)(D) to (H). Pub. L. 106–505 and Pub. L. 106–554 amended par. (1) identically, adding subpar. (D), redesignating former subpars. (D) to (G) as (E) to (H), respectively, and realigning margins of subpar. (F).
 
-1990—Pub. L. 101–616, §201(a), substituted “Organ procurement organizations” for “Assistance for organ procurement organizations” in section catchline.
+<b>1990</b>—Pub. L. 101–616, §201(a), substituted “Organ procurement organizations” for “Assistance for organ procurement organizations” in section catchline.
 
 Subsec. (a)(3). Pub. L. 101–616, §201(b)(1), substituted “may make grants to, and enter into contracts with, qualified organ procurement organizations described in subsection (b) of this section and other nonprofit private entities for the purpose of carrying out special projects” for “may make grants for special projects”.
 
@@ -128,7 +128,7 @@ Subsec. (b)(2), (3). Pub. L. 101–616, §201(d), added par. (2) and redesignate
 
 Subsec. (c). Pub. L. 101–616, §206(b), struck out subsec. (c) which authorized appropriations for subsec. (a) grants for fiscal years 1988 through 1990.
 
-1988—Subsec. (a)(2). Pub. L. 100–607, §402(a)(1), inserted “consolidation,” after “initial operation,”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–607, §402(a)(1), inserted “consolidation,” after “initial operation,”.
 
 Subsec. (a)(3). Pub. L. 100–607, §402(a)(2), added par. (3). Former par. (3) redesignated (4).
 

@@ -34,23 +34,43 @@ It shall be unlawful for any broker or dealer for whom a trustee has been appoin
 
 &emsp;&emsp;&emsp;(vii) withholds, from any person entitled to its possession, any document affecting or relating to the property or affairs of a debtor,
 
-> &emsp;shall be fined not more than $50,000 or imprisoned for not more than five years, or both.
+> &emsp;shall be fined not more than $250,000 or imprisoned for not more than five years, or both.
 
 #### (2) Fraudulent conversion
 
-&emsp;Any person who, directly or indirectly steals, embezzles, or fraudulently, or with intent to defeat this chapter, abstracts or converts to his own use or to the use of another any of the moneys, securities, or other assets of SIPC, or otherwise defrauds or attempts to defraud SIPC or a trustee by any means, shall be fined not more than $50,000 or imprisoned not more than five years, or both.
+&emsp;Any person who, directly or indirectly steals, embezzles, or fraudulently, or with intent to defeat this chapter, abstracts or converts to his own use or to the use of another any of the moneys, securities, or other assets of SIPC, or otherwise defrauds or attempts to defraud SIPC or a trustee by any means, shall be fined not more than $250,000 or imprisoned not more than five years, or both.
 
-(Pub. L. 91–598, §14, formerly §10, Dec. 30, 1970, 84 Stat. 1655; renumbered §14 and amended Pub. L. 95–283, §§9, 13, May 21, 1978, 92 Stat. 260, 269.)
+#### (d) Misrepresentation of SIPC membership or protection
+
+#### (1) In general
+
+&emsp;Any person who falsely represents by any means (including, without limitation, through the Internet or any other medium of mass communication), with actual knowledge of the falsity of the representation and with an intent to deceive or cause injury to another, that such person, or another person, is a member of SIPC or that any person or account is protected or is eligible for protection under this chapter or by SIPC, shall be liable for any damages caused thereby and shall be fined not more than $250,000 or imprisoned for not more than 5 years.
+
+#### (2) Injunctions
+
+&emsp;Any court having jurisdiction of a civil action arising under this chapter may grant temporary injunctions and final injunctions on such terms as the court deems reasonable to prevent or restrain any violation of paragraph (1). Any such injunction may be served anywhere in the United States on the person enjoined, shall be operative throughout the United States, and shall be enforceable, by proceedings in contempt or otherwise, by any United States court having jurisdiction over that person. The clerk of the court granting the injunction shall, when requested by any other court in which enforcement of the injunction is sought, transmit promptly to the other court a certified copy of all papers in the case on file in such clerk's office.
+
+(Pub. L. 91–598, §14, formerly §10, Dec. 30, 1970, 84 Stat. 1655; renumbered §14 and amended Pub. L. 95–283, §§9, 13, May 21, 1978, 92 Stat. 260, 269; Pub. L. 111–203, title IX, §929V(b), (c), July 21, 2010, 124 Stat. 1868.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (b), and (c)(1)(C), (2), was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–283, §13(a), inserted “and penalty” after “interest”, and substituted “it” for “he” wherever appearing.
+<b>2010</b>—Subsec. (c)(1). Pub. L. 111–203, §929V(b)(1), substituted “$250,000” for “$50,000” in concluding provisions.
+
+Subsec. (c)(2). Pub. L. 111–203, §929V(b)(2), substituted “$250,000” for “$50,000”.
+
+Subsec. (d). Pub. L. 111–203, §929V(c), added subsec. (d).
+
+<b>1978</b>—Subsec. (a). Pub. L. 95–283, §13(a), inserted “and penalty” after “interest”, and substituted “it” for “he” wherever appearing.
 
 Subsec. (b). Pub. L. 95–283, §13(b), in heading inserted “or initiation of direct payment procedure” after “trustee”, and in text inserted references to initiation of direct payment procedure in two places.
 
 Subsec. (c). Pub. L. 95–283, §13(c), in heading substituted “Concealment of assets; false statements or claims” for “Embezzlement, etc., of assets of SIPC”, added par. (1), and designated existing provisions as par. (2) and, as so designated, inserted references to direct or indirect acts, and provisions covering defrauding or attempts to defraud SIPC or a trustee, and substituted provisions covering activities constituting fraudulent, or with intent to defeat this chapter, abstracts or conversions, for provisions covering activities constituting unlawfully abstracting or unlawfully and willfully converting moneys, etc.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 

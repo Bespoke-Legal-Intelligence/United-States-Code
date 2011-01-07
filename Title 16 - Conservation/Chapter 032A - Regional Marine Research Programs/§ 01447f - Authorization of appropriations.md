@@ -12,7 +12,7 @@ For purposes of carrying out the provisions of this chapter, there are authorize
 
 (3) Seventy-five percent of funds appropriated in a fiscal year available after allocation pursuant to paragraphs (1) and (2), shall be allocated equally among Boards located in regions submitting research project grant applications pursuant to section 1447d(b) of this title.
 
-(4) Twenty-five percent of funds appropriated in a fiscal year available after allocation pursuant to paragraphs (1) and (2), shall be allocated among Boards located in regions submitting research project grant applications pursuant to section 1447d(b) of this title which, in the judgment of the Administrator of the National Oceanic and Atmospheric Administration, in consultation with the Administrator of the Environmental Protection Agency, propose the most needed and highest quality research.
+(4) Twenty-five percent of funds appropriated in a fiscal year available after allocation pursuant to paragraphs (1) and (2), shall be allocatedamong Boards located in regions submitting research project grant applications pursuant to section 1447d(b) of this title which, in the judgment of the Administrator of the National Oceanic and Atmospheric Administration, in consultation with the Administrator of the Environmental Protection Agency, propose the most needed and highest quality research.
 
 (Pub. L. 92–532, title IV, §407, as added Pub. L. 101–593, title III, §301, Nov. 16, 1990, 104 Stat. 2969.)
 

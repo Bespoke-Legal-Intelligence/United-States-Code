@@ -114,19 +114,19 @@ The certification referred to in subsection (a)(3) of this section for a fiscal 
 
 &emsp;A condition under paragraph (1) for a State is that the State public health officer serves as the chair of the Committee, and that the Committee meets not less than twice each fiscal year.
 
-(July 1, 1944, ch. 373, title XIX, §1905, as added Pub. L. 97–35, title IX, §901, Aug. 13, 1981, 95 Stat. 538; amended Pub. L. 98–555, §5(a), (d), Oct. 30, 1984, 98 Stat. 2855, 2856; Pub. L. 99–646, §87(d)(1)(B), Nov. 10, 1986, 100 Stat. 3624; Pub. L. 99–654, §3(b)(1)(B), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 100–607, title III, §301(c), Nov. 4, 1988, 102Stat. 3112; Pub. L. 101–590, §4, Nov. 16, 1990, 104 Stat. 2928; Pub. L. 102–531, title I, §103(a), Oct. 27, 1992, 106 Stat. 3470.)
+(July 1, 1944, ch. 373, title XIX, §1905, as added Pub. L. 97–35, title IX, §901, Aug. 13, 1981, 95 Stat. 538; amended Pub. L. 98–555, §5(a), (d), Oct. 30, 1984, 98 Stat. 2855, 2856; Pub. L. 99–646, §87(d)(1)(B), Nov. 10, 1986, 100 Stat. 3624; Pub. L. 99–654, §3(b)(1)(B), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 100–607, title III, §301(c), Nov. 4, 1988, 102 Stat. 3112; Pub. L. 101–590, §4, Nov. 16, 1990, 104 Stat. 2928; Pub. L. 102–531, title I, §103(a), Oct. 27, 1992, 106 Stat. 3470.)
 
 #### Amendments
 
-1992—Pub. L. 102–531 amended section generally, substituting present provisions for provisions relating to submission and form of application for assistance under this part as well as required assurances, public hearings on proposed use and distribution of funds, certifications by chief executive officer of State, and a description of intended use of funds as well as public access to and revision of such description.
+<b>1992</b>—Pub. L. 102–531 amended section generally, substituting present provisions for provisions relating to submission and form of application for assistance under this part as well as required assurances, public hearings on proposed use and distribution of funds, certifications by chief executive officer of State, and a description of intended use of funds as well as public access to and revision of such description.
 
-1990—Subsec. (c). Pub. L. 101–590, which directed amendment of subsec. (c) by adding at the end thereof a new par. (7), was executed by adding par. (7) after par. (6) and before the last sentence to reflect the probable intent of Congress.
+<b>1990</b>—Subsec. (c). Pub. L. 101–590, which directed amendment of subsec. (c) by adding at the end thereof a new par. (7), was executed by adding par. (7) after par.\(6) and before the last sentence to reflect the probable intent of Congress.
 
-1988—Subsec. (d). Pub. L. 100–607 inserted at end “The description shall include a statement of the public health objectives expected to be achieved by the State through the use of the payments the State will receive under section 300w–2 of this title.”
+<b>1988</b>—Subsec. (d). Pub. L. 100–607 inserted at end “The description shall include a statement of the public health objectives expected to be achieved by the State through the use of the payments the State will receive under section 300w–2 of this title.”
 
-1986—Subsec. (c)(6). Pub. L. 99–646 and Pub. L. 99–654 amended par. (6) identically, substituting “sex offense” for “rape”.
+<b>1986</b>—Subsec. (c)(6). Pub. L. 99–646 and Pub. L. 99–654 amended par. (6) identically, substituting “sex offense” for “rape”.
 
-1984—Subsec. (c)(2). Pub. L. 98–555, §5(a), redesignated par. (3) as (2). Former par. (2), which related to grants for fiscal year 1982, was struck out.
+<b>1984</b>—Subsec. (c)(2). Pub. L. 98–555, §5(a), redesignated par. (3) as (2). Former par. (2), which related to grants for fiscal year 1982, was struck out.
 
 Subsec. (c)(3). Pub. L. 98–555, §5(a), redesignated par. (5) as (3). Former par. (3) redesignated (2).
 

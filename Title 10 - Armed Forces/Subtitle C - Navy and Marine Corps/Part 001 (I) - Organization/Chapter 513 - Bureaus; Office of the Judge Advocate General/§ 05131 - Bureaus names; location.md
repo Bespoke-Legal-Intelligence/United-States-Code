@@ -26,13 +26,13 @@ The bureaus are listed alphabetically for convenience. This listing has no effec
 
 #### Amendments
 
-1966—Pub. L. 89–718 struck out cls. (3) to (6) which related to the Bureau of Naval Weapons, the Bureau of Ships, the Bureau of Supplies and Accounts, and the Bureau of Yards and Docks, respectively.
+<b>1966</b>—Pub. L. 89–718 struck out cls. (3) to (6) which related to the Bureau of Naval Weapons, the Bureau of Ships, the Bureau of Supplies and Accounts, and the Bureau of Yards and Docks, respectively.
 
-1959—Pub. L. 86–174 inserted reference to Bureau of Naval Weapons and struck out reference to Bureau of Aeronautics and Bureau of Ordnance.
+<b>1959</b>—Pub. L. 86–174 inserted reference to Bureau of Naval Weapons and struck out reference to Bureau of Aeronautics and Bureau of Ordnance.
 
 #### Effective Date of 1959 Amendment
 
-Section 2 of Pub. L. 86–174 provided that the amendment of this section and section 5133 of this title and the repeal of sections 5136 and 5144 of this title shall be effective on July 1, 1960, or on any earlier date on which the Secretary of the Navy makes a formal finding that all the functions of the Bureau of Aeronautics and the Bureau of Ordnance have been transferred to the Bureau of Naval Weapons or elsewhere.
+Section 2 of Pub. L. 86–174 provided that the amendment of this section and section 5133 of this title andthe repeal of sections 5136 and 5144 of this title shall be effective on July 1, 1960, or on any earlier date on which the Secretary of the Navy makes a formal finding that all the functions of the Bureau of Aeronautics and the Bureau of Ordnance have been transferred to the Bureau of Naval Weapons or elsewhere.
 
 #### Bureau of Naval Weapons; Transfer of Funds
 

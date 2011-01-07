@@ -26,7 +26,7 @@ This section shall not apply to any tax imposed by chapter 21 or chapter 23.
 
 #### Amendments
 
-1976—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (c). Pub. L. 94–455, §1906(a)(50), struck out “after May 28, 1938” in par. (2) after “or remitted” and in par. (3) after “been refunded”.
 

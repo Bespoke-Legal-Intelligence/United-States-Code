@@ -46,7 +46,7 @@
 
 #### (C) Indian enrollment
 
-&emsp;&emsp;A State may not require under paragraph (1) the enrollment in a managed care entity of an individual who is an Indian (as defined in section 4(c) of the Indian Health Care Improvement Act of 1976 (25 U.S.C. 1603(c)) unless the entity is one of the following (and only if such entity is participating under the plan):
+&emsp;&emsp;A State may not require under paragraph (1) the enrollment in a managed care entityof an individual who is an Indian (as defined in section 4(c) <sup>1</sup> of the Indian Health Care Improvement Act of 1976 (25 U.S.C. 1603(c)) unless the entity is one of the following (and only if such entity is participating under the plan):
 
 &emsp;&emsp;&emsp;(i) The Indian Health Service.
 
@@ -250,11 +250,11 @@
 
 #### (7) Antidiscrimination
 
-&emsp;A medicaid managed care organization shall not discriminate with respect to participation, reimbursement, or indemnification as to any provider who is acting within the scope of the provider's license or certification under applicable State law, solely on the basis of such license or certification. This paragraph shall not be construed to prohibit an organization from including providers only to the extent necessary to meet the needs of the organization's enrollees or from establishing any measure designed to maintain quality and control costs consistent with the responsibilities of the organization.
+&emsp;A medicaid managed care organization shall not discriminate with respect to participation, reimbursement, or indemnification as to any provider who is acting within the scope of the provider's license or certification under applicable State law, solely on the basis of such license or certification. This paragraph shallnot be construed to prohibit an organization from including providers only to the extent necessary to meet the needs of the organization's enrollees or from establishing any measure designed to maintain quality and control costs consistent with the responsibilities of the organization.
 
 #### (8) Compliance with certain maternity and mental health requirements
 
-&emsp;Each medicaid managed care organization shall comply with the requirements of subpart 2 of part A of title XXVII of the Public Health Service Act \[42 U.S.C. 300gg–4 et seq.\] insofar as such requirements apply and are effective with respect to a health insurance issuer that offers group health insurance coverage.
+&emsp;Each medicaid managed care organization shall comply with the requirements of subpart 2 of part A of title XXVII of the Public Health Service Act <sup>1</sup> insofar as such requirements apply and are effective with respect to a health insurance issuer that offers group health insurance coverage.
 
 #### (c) Quality assurance standards
 
@@ -386,11 +386,11 @@
 
 #### (3) State conflict-of-interest safeguards in medicaid risk contracting
 
-&emsp;A medicaid managed care organization may not enter into a contract with any State under section 1396b(m) of this title unless the State has in effect conflict-of-interest safeguards with respect to officers and employees of the State with responsibilities relating to contracts with such organizations or to the default enrollment process described in subsection (a)(4)(C)(ii) of this section that are at least as effective as the Federal safeguards provided under section 423 of title 41, against conflicts of interest that apply with respect to Federal procurement officials with comparable responsibilities with respect to such contracts.
+&emsp;A medicaid managed care organization may not enter into a contract with any State under section 1396b(m) of this title unless the State has in effect conflict-of-interest safeguards with respect to officers and employees of the State with responsibilities relating to contracts with such organizations or to the default enrollment process described in subsection (a)(4)(C)(ii) of this section that are at least as effective as the Federal safeguards provided under chapter 21 of title 41, against conflicts of interest that apply with respect to Federal procurement officials with comparable responsibilities with respect to such contracts.
 
 #### (4) Use of unique physician identifier for participating physicians
 
-&emsp;Each medicaid managed care organization shall require each physician providing services to enrollees eligible for medical assistance under the State plan under this subchapter to have a unique identifier in accordance with the system established under section 1320d–2(b) of this title.
+&emsp;Each medicaid managed care organization shall require each physician providing services to enrollees eligible for medical assistance under the State plan under this subchapter tohave a unique identifier in accordance with the system established under section 1320d–2(b) of this title.
 
 #### (e) Sanctions for noncompliance
 
@@ -460,7 +460,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a managed care entity which has failed to meet the requirements of this part or a contract under section 1396b(m) or 1396d(t)(3) of this title, the State shall have the authority to terminate such contract with the entity and to enroll such entity's enrollees with other managed care entities (or to permit such enrollees to receive medical assistance under the State plan under this subchapter other than through a managed care entity).
+&emsp;&emsp;In the case of a managed care entity which has failed to meet the requirements of thispart or a contract under section 1396b(m) or 1396d(t)(3) of this title, the State shall have the authority to terminate such contract with the entity and to enroll such entity's enrollees with other managed care entities (or to permit such enrollees to receive medical assistance under the State plan under this subchapter other than through a managed care entity).
 
 #### (B) Availability of hearing prior to termination of contract
 
@@ -478,9 +478,9 @@
 
 &emsp;Before imposing any sanction against a managed care entity other than termination of the entity's contract, the State shall provide the entity with notice and such other due process protections as the State may provide, except that a State may not provide a managed care entity with a pre-termination hearing before imposing the sanction described in paragraph (2)(B).
 
-#### (f) Timeliness of payment
+#### (f) Timeliness of payment; adequacy of payment for primary care services
 
-A contract under section 1396b(m) of this title with a medicaid managed care organization shall provide that the organization shall make payment to health care providers for items and services which are subject to the contract and that are furnished to individuals eligible for medical assistance under the State plan under this subchapter who are enrolled with the organization on a timely basis consistent with the claims payment procedures described in section 1396a(a)(37)(A) of this title, unless the health care provider and the organization agree to an alternate payment schedule.
+A contract under section 1396b(m) of this title with a medicaid managed care organization shall provide that the organization shall make payment to health care providers for items and services which are subject to the contract and that are furnished to individuals eligible for medical assistance under the State plan under this subchapter who are enrolled with the organization on a timely basis consistent with the claims payment procedures described in section 1396a(a)(37)(A) of this title, unless the health care provider and the organization agree to an alternate payment schedule and, in the case of primary care services described in section 1396a(a)(13)(C) of this title, consistent with the minimum payment rates specified in such section (regardless of the manner in which such payments are made, including in the form of capitation or partial capitation).
 
 #### (g) Identification of patients for purposes of making DSH payments
 
@@ -526,7 +526,7 @@ Each contract with a managed care entity under section 1396b(m) of this title or
 
 #### (I) Managed care entity payment requirement
 
-&emsp;&emsp;&emsp;&emsp;To agree to pay any Indian health care provider that is a federally-qualified health center under this subchapter but not a participating provider with respect to the entity, for the provision of covered Medicaid managed care services bysuch provider to an Indian enrollee of the entity at a rate equal to the amount of payment that the entity would pay a federally-qualified health center that is a participating provider with respect to the entity but is not an Indian health care provider for such services.
+&emsp;&emsp;&emsp;&emsp;To agree to pay any Indian health care provider that is a federally-qualified health center under this subchapter but not a participating provider with respect to the entity, for the provision of covered Medicaid managed care services by such provider to an Indian enrollee of the entity at a rate equal to the amount of payment that the entity would pay a federally-qualified health center that is a participating provider with respect to the entity but is not an Indian health care provider for such services.
 
 #### (II) Continued application of State requirement to make supplemental payment
 
@@ -568,11 +568,13 @@ Each contract with a managed care entity under section 1396b(m) of this title or
 
 &emsp;&emsp;The term “Medicaid managed care program” means a program under sections 1396b(m), 1396d(t), and 1396u–2 of this title and includes a managed care program operating under a waiver under section 1396n(b) or 1315 of this title or otherwise.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1932, as added and amended Pub. L. 105–33, title IV, §§4701(a), 4704(a), 4705(a), 4707(a), 4708(c), Aug. 5, 1997, 111 Stat. 489, 495, 498, 501, 506; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(w)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §701(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–570; Pub. L. 109–171, title VI, §6085(a), Feb. 8, 2006, 120 Stat. 121; Pub. L. 111–5, div. B, title V, §5006(d)(1), Feb. 17, 2009, 123 Stat. 507.)
+(Aug. 14, 1935, ch. 531, title XIX, §1932, as added and amended Pub. L. 105–33, title IV, §§4701(a), 4704(a), 4705(a), 4707(a), 4708(c), Aug. 5, 1997, 111 Stat. 489, 495, 498, 501, 506; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(w)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §701(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–570; Pub. L. 109–171, title VI, §6085(a), Feb. 8, 2006, 120 Stat. 121; Pub. L. 111–5, div. B, title V, §5006(d)(1), Feb. 17, 2009, 123 Stat. 507; Pub. L. 111–152, title I, §1202(a)(2), Mar. 30, 2010, 124 Stat. 1053.)
 
 #### References in Text
 
 Part E of subchapter IV of this chapter, referred to in subsec. (a)(2)(A)(iv), is classified to section 670 et seq. of this title.
+
+Section 4(c) of the Indian Health Care Improvement Act of 1976, referred to in subsec. (a)(2)(C), probably means section 4(c) of the Indian Health Care Improvement Act, which was redesignated section 4(13) of the Act by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935, and is classified to section 1603(13) of Title 25, Indians.
 
 The Indian Self-Determination Act, referred to in subsec. (a)(2)(C)(ii), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
@@ -584,9 +586,19 @@ Part C of subchapter XVIII of this chapter, referred to in subsecs. (b)(2)(A)(ii
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(3)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-The Public Health Service Act, referred to in subsec. (b)(8), is act July 1, 1944, ch. 373, 58 Stat. 682. Subpart2 of part A of title XXVII of the Act is classified generally to subpart 2 (§300gg–4 et seq.) of part A of subchapter XXV of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsec. (b)(8), is act July 1, 1944, ch. 373, 58 Stat. 682. Subpart 2 of part A of title XXVII of the Act may refer to subpart II of part A of subchapter XXV of chapter 6A of this title. Pub. L. 111–148, title I, §§1001(5), 1563(c)(2), (11), formerly §1562(c)(2), (11), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 265, 268, 911, amended part A by inserting “
+
+subpart ii—improving coverage” (preceding section 300gg–11 of this title), by striking out “
+
+subpart 2—other requirements” (preceding section 300gg–4 of this title), and by redesignating subpart 4 as subpart 2 “
+
+exclusion of plans; enforcement; preemption” (preceding section 300gg–21 of this title). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 Executive Order No. 12549, referred to in subsec. (d)(1)(C)(i), is set out as a note under section 6101 of Title 31, Money and Finance.
+
+#### Codification
+
+In subsec. (d)(3), “chapter 21 of title 41” substituted for “section 27 of the Office of Federal Procurement Policy Act (41 U.S.C. 423)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions
 
@@ -594,19 +606,21 @@ A prior section 1932 of act Aug. 14, 1935, was renumbered section 1939 and is cl
 
 #### Amendments
 
-2009—Subsec. (h). Pub. L. 111–5 added subsec. (h).
+<b>2010</b>—Subsec. (f). Pub. L. 111–152 inserted “; adequacy of payment for primary care services” after “payment” in heading and “and, in the case of primary care services described in section 1396a(a)(13)(C) of this title, consistent with the minimum payment rates specified in such section (regardless of the manner in which such payments are made, including in the form of capitation or partial capitation)” before period at end of text.
 
-2006—Subsec. (b)(2)(D). Pub. L. 109–171 added subpar. (D).
+<b>2009</b>—Subsec. (h). Pub. L. 111–5 added subsec. (h).
 
-2000—Subsec. (g). Pub. L. 106–554 added subsec. (g).
+<b>2006</b>—Subsec. (b)(2)(D). Pub. L. 109–171 added subpar. (D).
 
-1999—Subsec. (c)(2)(C). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(w)(1)\], inserted “part” before “C of subchapter XVIII”.
+<b>2000</b>—Subsec. (g). Pub. L. 106–554 added subsec. (g).
+
+<b>1999</b>—Subsec. (c)(2)(C). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(w)(1)\], inserted “part” before “C of subchapter XVIII”.
 
 Subsec. (d)(1)(C)(ii). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(w)(2)(A)\], substituted “Regulation” for “Act”.
 
 Subsec. (d)(2)(B). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(w)(2)(B)\], substituted “1396d(t)(3) of this title” for “1396b(t)(3) of this title”.
 
-1997—Subsec. (b). Pub. L. 105–33, §4704(a), added subsec. (b).
+<b>1997</b>—Subsec. (b). Pub. L. 105–33, §4704(a), added subsec. (b).
 
 Subsec. (c). Pub. L. 105–33, §4705(a), added subsec. (c).
 
@@ -665,4 +679,6 @@ Study.—The Secretary of Health and Human Services, in consultation with States
 &emsp;“(B)
 
 Report.—Not later than 2 years after the date of the enactment of this Act \[Aug. 5, 1997\], the Secretary shall submit to Committees described in paragraph (1)(B) a report on such study.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

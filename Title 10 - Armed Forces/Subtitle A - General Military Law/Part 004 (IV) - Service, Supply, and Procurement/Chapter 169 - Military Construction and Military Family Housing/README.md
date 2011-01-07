@@ -11,7 +11,7 @@
 
 #### Amendments
 
-1996—Pub. L. 104–106, div. B, title XXVIII, §2801(a)(2), Feb. 10, 1996, 110 Stat. 551, added item for subchapter IV.
+<b>1996</b>—Pub. L. 104–106, div. B, title XXVIII, §2801(a)(2), Feb. 10, 1996, 110 Stat. 551, added item for subchapter IV.
 
 
 ---

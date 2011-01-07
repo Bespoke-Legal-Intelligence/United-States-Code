@@ -10,5 +10,5 @@ Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, know
 
 #### Amendments
 
-1948—Act June 3, 1948, increased renewal term from ten to twenty years, provided for reasonable adjustment of terms, provided minimum conditions, and permitted suspension of operations under certain conditions.
+<b>1948</b>—Act June 3, 1948, increased renewal term from ten to twenty years, provided for reasonable adjustment of terms, provided minimum conditions, and permitted suspension of operations under certain conditions.
 

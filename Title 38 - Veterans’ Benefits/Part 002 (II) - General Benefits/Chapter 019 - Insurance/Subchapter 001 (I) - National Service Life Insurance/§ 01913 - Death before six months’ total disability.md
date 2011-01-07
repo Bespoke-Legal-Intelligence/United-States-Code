@@ -6,7 +6,7 @@ Whenever premiums are not waived under section 1912 of this title solely because
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 713 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 713 of this title as this section.
 
 Pub. L. 102–83, §5(c)(1), substituted “1912” for “712”.
 
@@ -14,5 +14,5 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administ
 
 Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-1986—Pub. L. 99–576 substituted “the” for “his” in three places.
+<b>1986</b>—Pub. L. 99–576 substituted “the” for “his” in three places.
 

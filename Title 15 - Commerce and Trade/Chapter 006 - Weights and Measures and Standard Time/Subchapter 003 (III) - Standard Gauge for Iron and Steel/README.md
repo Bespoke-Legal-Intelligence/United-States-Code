@@ -1,7 +1,5 @@
 ### SUBCHAPTER III—STANDARD GAUGE FOR IRON AND STEEL
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “section”.</i>
-
 
 ---
 

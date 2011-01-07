@@ -18,7 +18,7 @@ If any one of the transfers, trusts, interests, rights, or powers enumerated and
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–369 amended subsec. (b) generally, designating existing provisions as par. (1) and adding par. (2).
+<b>1984</b>—Subsec. (b). Pub. L. 98–369 amended subsec. (b) generally, designating existing provisions as par. (1) and adding par. (2).
 
 #### Effective Date of 1984 Amendment
 

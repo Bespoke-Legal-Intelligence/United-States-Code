@@ -14,7 +14,7 @@ Another section 2555 was renumbered section 2565 of this title.
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–107 substituted “Air Mobility Command” for “Military Airlift Command”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–107 substituted “Air Mobility Command” for “Military Airlift Command”.
 
-2000—Pub. L. 106–398 renumbered section 2545 of this title as this section.
+<b>2000</b>—Pub. L. 106–398 renumbered section 2545 of this title as this section.
 

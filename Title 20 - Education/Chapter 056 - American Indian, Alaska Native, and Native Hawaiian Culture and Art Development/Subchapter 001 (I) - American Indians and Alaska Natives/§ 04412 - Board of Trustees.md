@@ -52,7 +52,7 @@
 
 #### (c) Vacancies
 
-Any member of the Board appointed under subsection (a) of this section to fill a vacancy occurring before the expiration of the term to which such member's predecessor was appointed shall be appointed for the remainder of such term. If the vacancy occurs prior to the expiration of the term of a member of the Board appointed under subsection (a)(1)(B) of this section, a replacement shall be appointed in the same manner in which the original appointment was made.
+Any member of the Board appointed under subsection (a) of this section to fill a vacancyoccurring before the expiration of the term to which such member's predecessor was appointed shall be appointed for the remainder of such term. If the vacancy occurs prior to the expiration of the term of a member of the Board appointed under subsection (a)(1)(B) of this section, a replacement shall be appointed in the same manner in which the original appointment was made.
 
 #### (d) Removal
 
@@ -92,7 +92,7 @@ Members of the Board appointed pursuant to subsection (a)(1)(A) of this section 
 
 #### Amendments
 
-1992—Subsec. (a)(1)(A). Pub. L. 102–325, §1331(a)(1), substituted “Subject to the provisions of subsection (i)of this section, the voting” for “The voting” and inserted before period at end “, and diverse fields of expertise, including finance, law, fine arts, and higher education administration”.
+<b>1992</b>—Subsec. (a)(1)(A). Pub. L. 102–325, §1331(a)(1), substituted “Subject to the provisions of subsection (i) of this section, the voting” for “The voting” and inserted before period at end “, and diverse fields of expertise, including finance, law, fine arts, and higher education administration”.
 
 Subsec. (a)(3), (4). Pub. L. 102–325, §1331(a)(2), (3), added par. (3) and redesignated former par. (3) as (4).
 

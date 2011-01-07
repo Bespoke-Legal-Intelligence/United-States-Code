@@ -104,17 +104,17 @@ A prior section 502 of act July 1, 1944, which was classified to section 220 of 
 
 #### Amendments
 
-2000—Subsec. (e). Pub. L. 106–310 substituted “2 times during each fiscal year” for “3 times during each fiscal year”.
+<b>2000</b>—Subsec. (e). Pub. L. 106–310 substituted “2 times during each fiscal year” for “3 times during each fiscal year”.
 
-1994—Subsec. (b)(2)(D). Pub. L. 103–446 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “the Chief Medical Director of the Veterans Administration; and”.
+<b>1994</b>—Subsec. (b)(2)(D). Pub. L. 103–446 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “the Chief Medical Director of the Veterans Administration; and”.
 
-1992—Pub. L. 102–352 substituted “or management” for “and management” in subsec. (b)(3)(B).
+<b>1992</b>—Pub. L. 102–352 substituted “or management” for “and management” in subsec. (b)(3)(B).
 
 Pub. L. 102–321 amended section generally, substituting provisions relating to appointment of advisory councils to Substance Abuse and Mental Health Services Administration, Center for Substance Abuse Treatment, Center for Substance Abuse Prevention, and Center for Mental Health Services for provisions appointing advisory councils for National Institute on Alcohol Abuse and Alcoholism, National Institute on Drug Abuse, and National Institute of Mental Health.
 
-1990—Subsec. (a)(2). Pub. L. 101–381 made technical amendment to reference to section 300aaa of this title to reflect renumbering of corresponding section of original act.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–381 made technical amendment to reference to section 300aaa of this title to reflect renumbering of corresponding section of original act.
 
-1988—Subsec. (b)(2)(A). Pub. L. 100–527 substituted “Chief Medical Director of the Department of Veterans Affairs” for “Chief Medical Director of the Veterans’ Administration”.
+<b>1988</b>—Subsec. (b)(2)(A). Pub. L. 100–527 substituted “Chief Medical Director of the Department of Veterans Affairs” for “Chief Medical Director of the Veterans’ Administration”.
 
 #### Effective Date of 1992 Amendments
 

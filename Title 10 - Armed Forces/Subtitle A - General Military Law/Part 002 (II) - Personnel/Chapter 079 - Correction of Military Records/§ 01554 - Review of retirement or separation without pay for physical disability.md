@@ -1,12 +1,12 @@
 ### §1554. Review of retirement or separation without pay for physical disability
 
-(a) The Secretary concerned shall from time to time establish boards of review, each consisting of five commissioned officers, two of whom shall be selected from officers of the Army Medical Corps, officers of the Navy Medical Corps, Air Force officers designated as medical officers, or officers of the Public Health Service, as the case may be, to review, upon the request of an officer retired or released from active duty without pay for physical disability, the findings and decisions of the retiring board, board of medical survey, or disposition board in his case. A request for review must be made within 15 years after the date of the retirement or separation.
+(a) The Secretary concerned shall from time to time establish boards of review, each consisting of five commissioned officers, two of whom shall be selected from officers of the Army Medical Corps, officers of the Navy Medical Corps, Air Force officers designated as medical officers, or officers of the Public Health Service, as the case may be, to review, upon the request of a member or former member of the uniformed services retired or released from active duty without pay for physical disability, the findings and decisions of the retiring board, board of medical survey, or disposition board in the member's case. A request for review must be made within 15 years after the date of the retirement or separation.
 
 (b) A board established under this section has the same powers as the board whose findings and decision are being reviewed. The findings of the board shall be sent to the Secretary concerned, who shall submit them to the President for approval.
 
 (c) A review by a board established under this section shall be based upon the records of the armed forces concerned and such other evidence as may be presented to the board. A witness may present evidence to the board in person or by affidavit. A person who requests a review under this section may appear before the board in person or by counsel or an accredited representative of an organization recognized by the Secretary of Veterans Affairs under chapter 59 of title 38.
 
-(Added Pub. L. 85–857, §13(v)(2), Sept. 2, 1958, 72 Stat. 1267; amended Pub. L. 87–651, title I, §110(a), Sept. 7, 1962, 76 Stat. 510; Pub. L. 101–189, div. A, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1603.)
+(Added Pub. L. 85–857, §13(v)(2), Sept. 2, 1958, 72 Stat. 1267; amended Pub. L. 87–651, title I, §110(a), Sept. 7, 1962, 76 Stat. 510; Pub. L. 101–189, div. A, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 111–383, div. A, title V, §533(a), Jan. 7, 2011, 124 Stat. 4216.)
 
 #### Historical and Revision Notes
 
@@ -14,9 +14,11 @@ Sections 1553 and 1554 are restated, without substantive change, to conform to t
 
 #### Amendments
 
-1989—Subsec. (c). Pub. L. 101–189 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+<b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted “a member or former member of the uniformed services” for “an officer” and “the member's case” for “his case”.
 
-1962—Pub. L. 87–651 amended section generally without substantive change to conform to the style adopted for the revision of this title.
+<b>1989</b>—Subsec. (c). Pub. L. 101–189 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+
+<b>1962</b>—Pub. L. 87–651 amended section generally without substantive change to conform to the style adopted for the revision of this title.
 
 #### Effective Date
 

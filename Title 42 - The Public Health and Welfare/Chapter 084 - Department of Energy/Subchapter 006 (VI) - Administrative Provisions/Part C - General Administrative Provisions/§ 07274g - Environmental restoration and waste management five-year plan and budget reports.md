@@ -66,7 +66,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–337, §3160(a)(1), substituted “all facilities owned or operated by the Department of Energy except defense nuclear facilities” for “(A) defense nuclear facilities and (B) all other facilities owned or operated by the Department of Energy” in first sentence and inserted “such” after “restoration at all” in third sentence.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–337, §3160(a)(1), substituted “all facilities owned or operated by the Department of Energy except defense nuclear facilities” for “(A) defense nuclear facilities and (B) all other facilities owned or operated by the Department of Energy” in first sentence and inserted “such” after “restoration at all” in third sentence.
 
 Subsec. (a)(4). Pub. L. 103–337, §3160(a)(2), substituted “The plan shall include, with respect to the Department of Energy facilities required by paragraph (1) to be covered by the plan, the following matters:” for “The plan shall contain the following matters:” in introductory provisions.
 

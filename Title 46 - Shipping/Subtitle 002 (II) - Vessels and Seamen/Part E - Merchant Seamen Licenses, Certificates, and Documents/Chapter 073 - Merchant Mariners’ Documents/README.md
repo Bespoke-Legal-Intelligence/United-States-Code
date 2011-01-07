@@ -31,7 +31,7 @@ Chapter 73 establishes the general requirements for the issuance of a merchant m
 
 #### Amendments
 
-1984—Pub. L. 98–364, title IV, §402(9)(A), July 17, 1984, 98 Stat. 448, added item 7311a.
+<b>1984</b>—Pub. L. 98–364, title IV, §402(9)(A), July 17, 1984, 98 Stat. 448, added item 7311a.
 
 
 ---

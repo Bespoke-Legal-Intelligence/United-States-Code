@@ -28,9 +28,9 @@ The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (a), i
 
 #### Amendments
 
-2001—Subsec. (c). Pub. L. 107–56 inserted “or trap and trace device” after “pen register” and “, routing, addressing,” after “dialing” and substituted “the processing and transmitting of wire or electronic communications so as not to include the contents of any wire or electronic communications” for “call processing”.
+<b>2001</b>—Subsec. (c). Pub. L. 107–56 inserted “or trap and trace device” after “pen register” and “, routing, addressing,” after “dialing” and substituted “the processing and transmitting of wire or electronic communications so as not to include the contents of any wire or electronic communications” for “call processing”.
 
-1994—Subsecs. (c), (d). Pub. L. 103–414 added subsec. (c) and redesignated former subsec. (c) as (d).
+<b>1994</b>—Subsecs. (c), (d). Pub. L. 103–414 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 #### Effective Date
 

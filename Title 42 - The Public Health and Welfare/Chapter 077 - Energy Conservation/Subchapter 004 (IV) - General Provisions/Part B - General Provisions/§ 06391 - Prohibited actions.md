@@ -2,7 +2,7 @@
 
 #### (a) Unreasonable classifications and differentiations
 
-Action taken under the authorities to which this section applies, resulting in the allocation of petroleum products or electrical energy among classes of users or resulting in restrictions on use of petroleum products and electrical energy shall not be based upon unreasonable classifications of, or unreasonable differentiations between, classes of users. In making any such allocation the President, or any agency of the United States to which such authority is delegated, shall give consideration to the need to foster reciprocal and nondiscriminatory treatment by foreign countries of United States citizens engaged in commerce in those countries.
+Action taken under the authorities to which this section applies, resulting in the allocationof petroleum products or electrical energy among classes of users or resulting in restrictions on use of petroleum products and electrical energy shall not be based upon unreasonable classifications of, or unreasonable differentiations between, classes of users. In making any such allocation the President, or any agency of the United States to which such authority is delegated, shall give consideration to the need to foster reciprocal and nondiscriminatory treatment by foreign countries of United States citizens engaged in commerce in those countries.
 
 #### (b) Unreasonably disproportionate share of burdens between segments of business community
 
@@ -12,17 +12,23 @@ To the maximum extent practicable, any restriction under authorities to which th
 
 This section applies to actions under any of the following authorities:
 
-&emsp;(1) subchapters I and II of this chapter.
+&emsp;(1) titles I and II of this Act (other than any provision of such titles which amends another law).
 
-&emsp;(2) this subchapter.
+&emsp;(2) this title.<sup>1</sup>
 
-&emsp;(3) the Emergency Petroleum Allocation Act of 1973 <sup>1</sup> \[15 U.S.C. 751 et seq.\].
+&emsp;(3) the Emergency Petroleum Allocation Act of 1973.<sup>1</sup>
 
 (Pub. L. 94–163, title V, §521, Dec. 22, 1975, 89 Stat. 960.)
 
 #### References in Text
 
-The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (c)(3), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§751 et seq.) of Title 15, Commerce and Trade, and was omitted from the Code pursuant to section 760g of Title 15, which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
+Title I of this Act, referred to in subsec. (c)(1), is title I of Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 875, which is classified principally to subchapter I (§6211 et seq.) of this chapter. For complete classification of title I to the Code, see Tables.
+
+Title II of this Act, referred to in subsec. (c)(1), is title II of Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 890, which is classified generally to subchapter II (§6271 et seq.) of this chapter. For complete classification of title II to the Code, see Tables.
+
+This title, referred to in subsec. (c)(2), is title V of Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 956, which is classified principally to this subchapter. For complete classification of title V to the Code, see Tables.
+
+The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (c)(3), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, which was classified generally to chapter 16A (§751 et seq.) of Title 15, Commerce and Trade, and was omitted from the Code pursuant to section 760g of Title 15, which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

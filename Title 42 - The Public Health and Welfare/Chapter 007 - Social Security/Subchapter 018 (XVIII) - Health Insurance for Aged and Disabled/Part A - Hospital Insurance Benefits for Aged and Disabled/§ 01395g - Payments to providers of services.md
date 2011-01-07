@@ -2,7 +2,7 @@
 
 #### (a) Determination of amount
 
-The Secretary shall periodically determine the amount which should be paid under this part to each provider of services with respect to the services furnished by it, and the provider of services shall be paid, at such time or times as the Secretary believes appropriate (but not less often than monthly) and prior to audit or settlement by the Government Accountability Office,from the Federal Hospital Insurance Trust Fund, the amounts so determined, with necessary adjustments on account of previously made overpayments or underpayments; except that no such payments shall be made to any provider unless it has furnished such information as the Secretary may request in order to determine the amounts due such provider under this part for the period with respect to which the amounts are being paid or any prior period.
+The Secretary shall periodically determine the amount which should be paid under this part to each provider of services with respect to the services furnished by it, and the provider of services shall be paid, at such time or times as the Secretary believes appropriate (but not less often than monthly) and prior to audit or settlement by the Government Accountability Office, from the Federal Hospital Insurance Trust Fund, the amounts so determined, with necessary adjustments on account of previously made overpayments or underpayments; except that no such payments shall be made to any provider unless it has furnished such information as the Secretary may request in order to determine the amounts due such provider under this part for the period with respect to which the amounts are being paid or any prior period.
 
 #### (b) Conditions
 
@@ -10,7 +10,7 @@ No payment shall be made to a provider of services which is a hospital for or wi
 
 #### (c) Payments under assignment or power of attorney
 
-No payment which may be made to a provider of services under this subchapter for any service furnished to an individual shall be made to any other person under an assignment or power of attorney; but nothing in this subsection shall be construed (1) to prevent the making of such a payment in accordance with an assignment from the provider if such assignment is made to a governmental agency or entity or is established by or pursuant to the order of a court of competent jurisdiction, or (2) to preclude an agent of the provider of services from receiving any such payment if (but only if) such agent does so pursuant to an agency agreement under which the compensation to be paid to the agent for his services for or in connection with the billing or collection of payments due such provider under this subchapter is unrelated (directly or indirectly) to the amount of such payments or the billings therefor, and is not dependent upon the actual collection of any such payment.
+No payment which may be made to a provider of services under this subchapter for any servicefurnished to an individual shall be made to any other person under an assignment or power of attorney; but nothing in this subsection shall be construed (1) to prevent the making of such a payment in accordance with an assignment from the provider if such assignment is made to a governmental agency or entity or is established by or pursuant to the order of a court of competent jurisdiction, or (2) to preclude an agent of the provider of services from receiving any such payment if (but only if) such agent does so pursuant to an agency agreement under which the compensation to be paid to the agent for his services for or in connection with the billing or collection of payments due such provider under this subchapter is unrelated (directly or indirectly) to the amount of such payments or the billings therefor, and is not dependent upon the actual collection of any such payment.
 
 #### (d) Accrual of interest on balance of excess or deficit not paid
 
@@ -66,29 +66,29 @@ Whenever a final determination is made that the amount of payment made under thi
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-2003—Subsec. (e)(1)(B). Pub. L. 108–173, §736(a)(3), substituted “of a hospital” for “of hospital” in introductory provisions.
+<b>2003</b>—Subsec. (e)(1)(B). Pub. L. 108–173, §736(a)(3), substituted “of a hospital” for “of hospital” in introductory provisions.
 
 Subsec. (e)(2). Pub. L. 108–173, §405(c)(1)(A), inserted “, in the cases described in subparagraphs (A) through (D)” after “1986” in introductory provisions.
 
 Subsec. (e)(2)(E). Pub. L. 108–173, §405(c)(1)(B)–(D), added subpar. (E).
 
-1997—Subsec. (e)(2)(C) to (E). Pub. L. 105–33 inserted “and” at end of subpar. (C), redesignated subpar. (E) as (D), and struck out former subpar. (D) which read as follows: “home health services; and”.
+<b>1997</b>—Subsec. (e)(2)(C) to (E). Pub. L. 105–33 inserted “and” at end of subpar. (C), redesignated subpar. (E) as (D), and struck out former subpar. (D) which read as follows: “home health services; and”.
 
-1989—Subsec. (e)(4). Pub. L. 101–239 added par. (4).
+<b>1989</b>—Subsec. (e)(4). Pub. L. 101–239 added par. (4).
 
-1986—Subsec. (e). Pub. L. 99–509 added subsec. (e).
+<b>1986</b>—Subsec. (e). Pub. L. 99–509 added subsec. (e).
 
-1982—Subsec. (b). Pub. L. 97–248, §148(b), substituted “quality control and peer review organization” for “Professional Standards Review Organization” wherever appearing.
+<b>1982</b>—Subsec. (b). Pub. L. 97–248, §148(b), substituted “quality control and peer review organization” for “Professional Standards Review Organization” wherever appearing.
 
 Subsec. (d). Pub. L. 97–248, §117(a)(1), added subsec. (d).
 
-1980—Subsec. (c). Pub. L. 96–473 substituted “for or in connection with” for “for on in connection with”.
+<b>1980</b>—Subsec. (c). Pub. L. 96–473 substituted “for or in connection with” for “for on in connection with”.
 
-1977—Subsec. (c). Pub. L. 95–142 added subsec. (c).
+<b>1977</b>—Subsec. (c). Pub. L. 95–142 added subsec. (c).
 
-1975—Pub. L. 94–182 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1975</b>—Pub. L. 94–182 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 2003 Amendment
 
@@ -134,7 +134,7 @@ Section 9311(a)(3) of Pub. L. 99–509 provided that: “Upon the request of a h
 
 &emsp;“(C) is paid through an agency or organization with an agreement under section 1816 of such Act \[section 1395h of this title\],
 
-> the Secretary of Health and Human Services shall continue payment on such a basis until not earlier than the end of the first period of three consecutive calendarmonths (beginning no earlier than April 1987) during all of which the agency or organization has met the requirements of section 1816(c)(2) of such Act (relating to prompt payment of claims).”
+> the Secretary of Health and Human Services shall continue payment on such a basis until not earlier than the end of the first period of three consecutive calendar months (beginning no earlier than April 1987) during all of which the agency or organization has met the requirements of section 1816(c)(2) of such Act (relating to prompt payment of claims).”
 
 #### Delay in Periodic Interim Payments
 

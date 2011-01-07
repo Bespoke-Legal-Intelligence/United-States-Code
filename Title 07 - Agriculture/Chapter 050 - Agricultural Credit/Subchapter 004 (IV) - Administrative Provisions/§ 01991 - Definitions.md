@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(bb) provide substantial day-to-day labor and management of the farm or ranch, consistent with the practices in the State or county in which the farm or ranch is located; or
 
-&emsp;&emsp;&emsp;(II)(aa) in the case of a loan made to a cooperative, corporation, partnership, orjoint operation, will have members, stockholders, partners, or joint operators, materially and substantially participate in the operation of the farm or ranch; and
+&emsp;&emsp;&emsp;(II)(aa) in the case of a loan made to a cooperative, corporation, partnership, or joint operation, will have members, stockholders, partners, or joint operators, materially and substantially participate in the operation of the farm or ranch; and
 
 &emsp;&emsp;&emsp;(bb) in the case of a loan made to a corporation, has stockholders, all of whom are qualified beginning farmers or ranchers;
 
@@ -200,7 +200,7 @@ Hawaii and puerto rico.—Notwithstanding any other provision of this paragraph,
 
 Preservation loan service program.—The term “preservation loan service program” means homestead retention as authorized under section 2000 of this title.
 
-(Pub. L. 87–128, title III, §343, as added Pub. L. 87–703, title IV, §401(5), Sept. 27, 1962, 76 Stat. 632; amended Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809; Pub. L. 92–419, title I, §128(a), Aug. 30, 1972, 86 Stat. 666; Pub. L. 95–334, title I, §124, Aug. 4, 1978, 92 Stat. 428; Pub. L. 96–438, §2(2), Oct. 13, 1980, 94 Stat. 1872; Pub. L. 99–198, title XIII, §1301(b), Dec. 23, 1985, 99 Stat. 1519; Pub. L. 100–233, title VI, §602, Jan. 6, 1988, 101 Stat. 1665; Pub. L. 101–624, title XVIII, §1814, title XXIII, §2388(h), Nov. 28, 1990, 104 Stat. 3824, 4053; Pub. L. 102–237, title VII, §702(h)(1), Dec. 13, 1991, 105 Stat. 1880; Pub. L. 102–554, §19, Oct. 28, 1992, 106 Stat. 4158; Pub. L. 104–127, title VI, §§640, 661(h), title VII, §749(b)(2), Apr. 4, 1996, 110 Stat. 1098, 1107, 1129; Pub. L. 105–113, §3(c), Nov. 21, 1997, 111 Stat. 2275; Pub. L. 107–171, title V, §5310, title VI, §6020(a), May 13, 2002, 116 Stat. 346, 362; Pub. L. 110–234, title VI, §6018(a), May 22, 2008, 122 Stat. 1170; Pub. L. 110–246, §4(a), title VI, §6018(a), June 18, 2008, 122 Stat. 1664, 1931.)
+(Pub. L. 87–128, title III, §343, as added Pub. L. 87–703, title IV, §401(5), Sept. 27, 1962, 76 Stat. 632; amended Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809; Pub. L. 92–419, title I, §128(a), Aug. 30, 1972, 86 Stat. 666; Pub. L. 95–334, title I, §124, Aug. 4, 1978, 92 Stat. 428; Pub. L. 96–438, §2(2),Oct. 13, 1980, 94 Stat. 1872; Pub. L. 99–198, title XIII, §1301(b), Dec. 23, 1985, 99 Stat. 1519; Pub. L. 100–233, title VI, §602, Jan. 6, 1988, 101 Stat. 1665; Pub. L. 101–624, title XVIII, §1814, title XXIII, §2388(h), Nov. 28, 1990, 104 Stat. 3824, 4053; Pub. L. 102–237, title VII, §702(h)(1), Dec. 13, 1991, 105 Stat. 1880; Pub. L. 102–554, §19, Oct. 28, 1992, 106 Stat. 4158; Pub. L. 104–127, title VI, §§640, 661(h), title VII, §749(b)(2), Apr. 4, 1996, 110 Stat. 1098, 1107, 1129; Pub. L. 105–113, §3(c), Nov. 21, 1997, 111 Stat. 2275; Pub. L. 107–171, title V, §5310, title VI, §6020(a), May 13, 2002, 116 Stat. 346, 362; Pub. L. 110–234, title VI, §6018(a), May 22, 2008, 122 Stat. 1170; Pub. L. 110–246, §4(a), title VI, §6018(a), June 18, 2008, 122 Stat. 1664, 1931.)
 
 #### References in Text
 
@@ -218,7 +218,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-Subsec. (a)(13). Pub. L. 110–246, §6018(a), amended par. (13) generally, substituting provisions defining “rural” and “rural area”, provisions defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans and community facility loans and grants, and provisions relating to areas rural in character, exclusions, urban area growth, and designations in Hawaii and Puerto Rico, for provisions defining “rural” and “rural area” and defining suchterms for the purpose of water and waste disposal grants and direct and guaranteed loans, community facility loans and grants, multijurisdictional regional planning organizations, and the rural business investment program.
+Subsec. (a)(13). Pub. L. 110–246, §6018(a), amended par. (13) generally, substituting provisions defining “rural” and “rural area”, provisions defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans and community facility loans and grants, and provisions relating to areas rural in character, exclusions, urban area growth, and designations in Hawaii and Puerto Rico, for provisions defining “rural” and “rural area” and defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans, community facility loans and grants, multijurisdictional regional planning organizations, and the rural business investment program.
 
 2002—Subsec. (a)(11)(F). Pub. L. 107–171, §5310(a), substituted “30 percent” for “25 percent”.
 
@@ -278,7 +278,7 @@ Section 3(d) of Pub. L. 104–113 provided that: “This section \[amending this
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 640(1) of Pub. L. 104–127 effective 90 days after Apr. 4, 1996, and amendment by sections 640(2) and 661(h) of Pub. L. 104–127 effective Apr. 4, 1996, see section 663(a), (b) of Pub. L. 104–127, set out as a note under section 1922 of this title.
+Amendment by section 640(1) of Pub. L. 104–127 effective 90 days after Apr. 4, 1996, and amendment by sections 640(2) and 661(h) of Pub. L. 104–127 effective Apr.4, 1996, see section 663(a), (b) of Pub. L. 104–127, set out as a note under section 1922 of this title.
 
 #### Effective Date of 1991 Amendment
 

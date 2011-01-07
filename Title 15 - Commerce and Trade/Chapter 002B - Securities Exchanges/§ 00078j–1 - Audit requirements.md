@@ -96,11 +96,11 @@ A registered public accounting firm may engage in any non-audit service, includi
 
 &emsp;&emsp;All auditing services (which may entail providing comfort letters in connection with securities underwritings or statutory audits required for insurance companies for purposes of State law) and non-audit services, other than as provided in subparagraph (B), provided to an issuer by the auditor of the issuer shall be preapproved by the audit committee of the issuer.
 
-#### (B) De minimus <sup>1</sup> exception
+#### (B) De minimis exception
 
 &emsp;&emsp;The preapproval requirement under subparagraph (A) is waived with respect to the provision of non-audit services for an issuer, if—
 
-&emsp;&emsp;&emsp;(i) the aggregate amount of all such non-audit services provided to the issuer constitutes not more than 5 percent of the total amount of revenues paid by the issuer to its auditor during the fiscal year in which the nonaudit services are provided;
+&emsp;&emsp;&emsp;(i) the aggregate amount of all such non-audit services provided to the issuer constitutes not more than 5 percent of the total amount of revenues paid by the issuer to its auditor during the fiscal year in which the non-audit services are provided;
 
 &emsp;&emsp;&emsp;(ii) such services were not recognized by the issuer at the time of the engagement to be non-audit services; and
 
@@ -190,7 +190,7 @@ It shall be unlawful for a registered public accounting firm to perform for an i
 
 &emsp;&emsp;(B) to any advisers employed by the audit committee under paragraph (5).
 
-(June 6, 1934, ch. 404, title I, §10A, as added Pub. L. 104–67, title III, §301(a), Dec. 22, 1995, 109 Stat.762; amended Pub. L. 107–204, title II, §§201(a), 202–204, 205(b), (d), 206, title III, §301, July 30, 2002, 116 Stat. 771–775.)
+(June 6, 1934, ch. 404, title I, §10A, as added Pub. L. 104–67, title III, §301(a), Dec. 22, 1995, 109 Stat. 762; amended Pub. L. 107–204, title II, §§201(a), 202–204, 205(b), (d), 206, title III, §301, July 30, 2002, 116 Stat. 771–775; Pub. L. 111–203, title IX, §985(b)(3), July 21, 2010, 124 Stat. 1933.)
 
 #### References in Text
 
@@ -200,7 +200,9 @@ The Securities Act of 1933, referred to in subsec. (f), is title I of act May 27
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–204, §205(b)(1), substituted “a registered public accounting firm” for “an independent public accountant” in introductory provisions.
+<b>2010</b>—Subsec. (i)(1)(B). Pub. L. 111–203 substituted “minimis” for “minimus” in heading and “the non-audit” for “the nonaudit” in cl. (i).
+
+<b>2002</b>—Subsec. (a). Pub. L. 107–204, §205(b)(1), substituted “a registered public accounting firm” for “an independent public accountant” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 107–204, §205(b)(2), (4)(A), in introductory provisions, substituted “the registered public accounting firm” for “the independent public accountant” and “the firm” for “the accountant”.
 
@@ -230,6 +232,10 @@ Subsec. (<i>l</i>). Pub. L. 107–204, §206, added subsec. (<i>l</i>).
 
 Subsec. (m). Pub. L. 107–204, §301, added subsec. (m).
 
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+
 #### Effective Date
 
 Section 301(b) of Pub. L. 104–67 provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply to each annual report—
@@ -241,6 +247,4 @@ Section 301(b) of Pub. L. 104–67 provided that: “The amendment made by subse
 #### Construction
 
 Section 203 of Pub. L. 104–67 provided that: “Nothing in this Act \[see Short Title of 1995 Amendment note set out under section 78a of this title\] or the amendments made by this Act shall be deemed to create or ratify any implied private right of action, or to prevent the Commission, by rule or regulation, from restricting or otherwise regulating private actions under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\].”
-
-<i><sup>1</sup></i><i> So in original. Probably should be “De minimis”.</i>
 

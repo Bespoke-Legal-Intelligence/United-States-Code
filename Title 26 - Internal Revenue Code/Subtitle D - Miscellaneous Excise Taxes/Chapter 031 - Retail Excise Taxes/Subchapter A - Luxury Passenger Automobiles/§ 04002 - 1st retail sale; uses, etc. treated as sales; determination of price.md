@@ -90,7 +90,7 @@ For purposes of this subchapter—
 
 #### Amendments
 
-1993—Pub. L. 103–66 amended section generally, substituting provisions relating to imposition of luxury tax upon first retail sale or use of luxury automobile for provisions relating to imposition of similar tax upon boats.
+<b>1993</b>—Pub. L. 103–66 amended section generally, substituting provisions relating to imposition of luxury tax upon first retail sale or use of luxury automobile for provisions relating to imposition of similar tax upon boats.
 
 #### Effective Date of 1993 Amendment
 

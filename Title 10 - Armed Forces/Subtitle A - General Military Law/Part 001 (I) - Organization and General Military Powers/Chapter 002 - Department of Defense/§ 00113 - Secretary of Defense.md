@@ -12,7 +12,7 @@
 
 &emsp;(C) such recommendations as he considers appropriate.
 
-(2) At the same time that the Secretary submits the annual report under paragraph (1), the Secretary shall transmit to the President and Congress a separate report from the Reserve Forces Policy Board on the reserve programs of the Department of Defense and on any other matters that the Reserve Forces Policy Board considers appropriate to include in the report.
+(2) At the same time that the Secretary submits the annual report under paragraph (1), the Secretary shall transmit to the President and Congress a separate report from the Reserve Forces Policy Board on on <sup>1</sup> any reserve component matter that the Reserve Forces Policy Board considers appropriate to include in the report.
 
 (d) Unless specifically prohibited by law, the Secretary may, without being relieved of his responsibility, perform any of his functions or duties, or exercise any of his powers through, or with the aid of, such persons in, or organizations of, the Department of Defense as he may designate.
 
@@ -26,7 +26,7 @@
 
 (2) In preparing the matter referred to in paragraph (1), the Secretary shall take into consideration the content of the annual national security strategy report of the President under section 108 of the National Security Act of 1947 (50 U.S.C. 404a) for the fiscal year concerned.
 
-(f) When a vacancy occurs in an office within the Department of Defense and the office is to be filled by a person appointed from civilian life by the President, by and with the advice and consent of the Senate, the Secretary of Defense shall inform the President of the qualifications needed by a person serving in that office to carry out effectively the duties and responsibilities of that office.
+(f) When a vacancy occurs in an office within the Department of Defense and the office is tobe filled by a person appointed from civilian life by the President, by and with the advice and consent of the Senate, the Secretary of Defense shall inform the President of the qualifications needed by a person serving in that office to carry out effectively the duties and responsibilities of that office.
 
 (g)(1) The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall provide annually to the heads of Department of Defense components written policy guidance for the preparation and review of the program recommendations and budget proposals of their respective components. Such guidance shall include guidance on—
 
@@ -82,13 +82,13 @@
 
 (m)
 
-Information To Accompany Funding Request for Contingency Operation.—Wheneverthe President submits to Congress a request for appropriations for costs associated with a contingency operation that involves, or likely will involve, the deployment of more than 500 members of the armed forces, the Secretary of Defense shall submit to Congress a report on the objectives of the operation. The report shall include a discussion of the following:
+Information To Accompany Funding Request for Contingency Operation.—Whenever the President submits to Congress a request for appropriations for costs associated with a contingency operation that involves, or likely will involve, the deployment of more than 500 members of the armed forces, the Secretary of Defense shall submit to Congress a report on the objectives of the operation. The report shall include a discussion of the following:
 
 &emsp;(1) What clear and distinct objectives guide the activities of United States forces in the operation.
 
 &emsp;(2) What the President has identified on the basis of those objectives as the date, or the set of conditions, that defines the endpoint of the operation.
 
-(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 517, §133; amended Pub. L. 96–513, title V, §511(3), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 97–252, title XI, §1105, Sept. 8, 1982, 96 Stat. 739; Pub. L. 97–295, §1(1), Oct. 12, 1982, 96 Stat. 1287; renumbered §113 and amended Pub. L. 99–433, title I, §§101(a)(2), 102, 110(b)(2), (d)(2), title III, §301(b)(2), title VI, §603(b), Oct. 1, 1986, 100 Stat. 994, 996, 1002, 1022, 1075; Pub. L. 100–26, §7(d)(1), Apr. 21, 1987, 101 Stat. 280; Pub. L. 100–180, div. A, title XII, §1214, Dec. 4, 1987, 101 Stat. 1157; Pub. L. 100–370, §1(<i>o</i>)(1), July 19, 1988, 102 Stat. 850; Pub. L. 100–456, div. A, title VII, §731, title XI, §1101, Sept. 29, 1988, 102 Stat. 2003, 2042; Pub. L. 101–189, div. A, title XVI, §1622(c)(1), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 101–510, div. A, title XIII, §1322(a)(1), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 102–190, div. A, title III, §341, Dec. 5, 1991, 105 Stat. 1343; Pub. L. 103–337, div. A, title X, §1070(a)(1), title XVI, §1671(c)(2), Oct. 5, 1994, 108 Stat. 2855, 3014; Pub. L. 104–106, div. A, title XV, §§1501(a)(8)(B), 1502(a)(3), 1503(a)(1), Feb. 10, 1996, 110 Stat. 495, 502, 510; Pub. L. 104–201, div. A, title XII, §1255(c), Sept. 23, 1996, 110 Stat. 2698; Pub. L. 105–85, div. A, title IX, §903, Nov. 18, 1997, 111 Stat. 1854; Pub. L. 105–261, div. A, title IX, §915(a), title XII, §1212(b), Oct. 17, 1998, 112 Stat. 2101, 2152; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 110–181, div. A, title IX, §903(a), title XVIII, §1815(e), Jan. 28, 2008, 122 Stat. 273, 500.)
+(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 517, §133; amended Pub. L. 96–513, title V, §511(3), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 97–252, title XI, §1105, Sept. 8, 1982, 96 Stat. 739; Pub. L. 97–295, §1(1), Oct. 12, 1982, 96 Stat. 1287; renumbered §113 and amended Pub. L. 99–433, title I, §§101(a)(2), 102, 110(b)(2), (d)(2), title III, §301(b)(2), title VI, §603(b), Oct. 1, 1986, 100 Stat. 994, 996, 1002, 1022, 1075; Pub. L. 100–26, §7(d)(1), Apr. 21, 1987, 101 Stat. 280; Pub. L. 100–180, div. A, title XII, §1214, Dec. 4, 1987, 101 Stat. 1157; Pub. L. 100–370, §1(<i>o</i>)(1), July 19, 1988, 102 Stat. 850; Pub. L. 100–456, div. A, title VII, §731, title XI, §1101, Sept. 29, 1988, 102 Stat. 2003, 2042; Pub. L. 101–189, div. A, title XVI, §1622(c)(1), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 101–510, div. A, title XIII, §1322(a)(1), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 102–190, div. A, title III, §341, Dec. 5, 1991, 105 Stat. 1343; Pub. L. 103–337, div. A, title X, §1070(a)(1), title XVI, §1671(c)(2), Oct. 5, 1994, 108 Stat. 2855, 3014; Pub. L. 104–106, div. A, title XV, §§1501(a)(8)(B), 1502(a)(3), 1503(a)(1), Feb. 10, 1996, 110 Stat. 495, 502, 510; Pub. L. 104–201, div. A, title XII, §1255(c), Sept. 23, 1996, 110 Stat. 2698; Pub. L. 105–85, div. A, title IX, §903, Nov. 18, 1997, 111 Stat. 1854; Pub. L. 105–261, div. A, title IX, §915(a), title XII, §1212(b), Oct. 17, 1998, 112 Stat. 2101, 2152; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 110–181, div. A, title IX, §903(a), title XVIII, §1815(e), Jan. 28, 2008, 122 Stat. 273, 500; Pub. L. 111–383, div. A, title V, §514(b), Jan. 7, 2011, 124 Stat. 4213.)
 
 Historical and Revision Notes<br>1962
 
@@ -180,25 +180,27 @@ Subsection (k) is based on Pub. L. 100–202, §101(b) \[title VIII, §8042\], 1
 
 Section 8042 of the FY88 Defense Appropriations Act (Public Law 100–202) established a requirement for the Secretary of Defense to submit an annual report on the cost of stationing United States forces overseas. Under that section, the annual report is to be sent to the Committees on Appropriations of the two Houses. In codifying that section as section 113(k) of title 10, the committee added the two Armed Services Committees as committees to be sent the annual report. This minor change from the source law does not change the nature of the report to be submitted.
 
-The committee notes that the source section does not specify the period of time to be covered by the report. In the absence of statutory language specifying the period to be covered by the report, it would seem reasonable to conclude that the report should cover the previous fiscal year. The committee notes, however, that the report of the Senate Appropriations Committee on its FY88 defense appropriations bill (S. Rpt. 100–235) states that this new annual report “should cover the budget years and the 2 previous fiscal years” (page 54). The committee believes that such a requirement may be unnecessarily burdensome and in any case, if such a requirement is intended, should be stated in the statute. In the absence of clear intent, the provision is proposed to be codified without specifying the period of time to be covered by the annual report.
+The committee notes that the source section does not specify the period of time to be covered by the report. In the absence of statutory language specifying the period to be covered by the report, it would seem reasonable to conclude that the report should cover the previous fiscal year. The committee notes, however, that the report of the Senate Appropriations Committee on its FY88 defense appropriations bill (S. Rpt. 100–235)states that this new annual report “should cover the budget years and the 2 previous fiscal years” (page 54). The committee believes that such a requirement may be unnecessarily burdensome and in any case, if such a requirement is intended, should be stated in the statute. In the absence of clear intent, the provision is proposed to be codified without specifying the period of time to be covered by the annual report.
 
-In codifying this provision, the committee also changed the term “United States troops” in the source law to “United States forces” for consistency in usage in title 10 and as being preferable usage. No change in meaning is intended. The committee also changed “overseas” to “outside the United States” and defined “United States” for this purpose to include the territories and possessions of the United States. The committee was concerned that the term “overseas” read literally could include Hawaii or Guam, an interpretation clearly not intended in enacting section 8042. The committee notes that the Senate report referred to above states “For the purposes of this report \[meaningthe new DOD annual report\], U.S. forces stationed overseas are considered to be those outside of the United States and its territories.”. The committee extrapolates from this statement that provisions in the report requirement relating to expenditures “overseas” and costs incurred “overseas” are also to be construed as relating to matters outside the United States and its territories and has prepared the codified provision accordingly.
+In codifying this provision, the committee also changed the term “United States troops” in the source law to “United States forces” for consistency in usage in title 10 and as being preferable usage. No change in meaning is intended. The committee also changed “overseas” to “outside the United States” and defined “United States” for this purpose to include the territories and possessions of the United States. The committee was concerned that the term “overseas” read literally could include Hawaii or Guam, an interpretation clearly not intended in enacting section 8042. The committee notes that the Senate report referred to above states “For the purposes of this report \[meaning the new DOD annual report\], U.S. forces stationed overseas are considered to be those outside of the United States and its territories.”. The committee extrapolates from this statement that provisions in the report requirement relating to expenditures “overseas” and costs incurred “overseas” are also to be construed as relating to matters outside the United States and its territories and has prepared the codified provision accordingly.
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–181, §903(a), substituted “seven” for “10”.
+<b>2011</b>—Subsec. (c)(2). Pub. L. 111–383 substituted “on any reserve component matter” for “the reserve programs of the Department of Defense and on any other matters”.
+
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §903(a), substituted “seven” for “10”.
 
 Subsec. (g)(2). Pub. L. 110–181, §1815(e), substituted “contingency plans, including plans for providing support to civil authorities in an incident of national significance or a catastrophic incident, for homeland defense, and for military support to civil authorities” for “contingency plans”.
 
-1999—Subsec. (j)(1). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
+<b>1999</b>—Subsec. (j)(1). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
 
-1998—Subsec. (<i>l</i>). Pub. L. 105–261, §915(a), added subsec. (<i>l</i>).
+<b>1998</b>—Subsec. (<i>l</i>). Pub. L. 105–261, §915(a), added subsec. (<i>l</i>).
 
 Subsec. (m). Pub. L. 105–261, §1212(b), added subsec. (m).
 
-1997—Subsec. (g)(2). Pub. L. 105–85 struck out “annually” after “Staff, shall provide” and inserted “be provided every two years or more frequently as needed and shall” after “Such guidance shall”.
+<b>1997</b>—Subsec. (g)(2). Pub. L. 105–85 struck out “annually” after “Staff, shall provide” and inserted “be provided every two years or more frequently as needed and shall” after “Such guidance shall”.
 
-1996—Subsec. (c). Pub. L. 104–201, §1255(c)(2)–(5), inserted “(1)” after “(c)”, redesignated former pars. (1), (2), and (4) as subpars. (A), (B), and (C), respectively, inserted “and” at end of subpar. (B), and added par. (2).
+<b>1996</b>—Subsec. (c). Pub. L. 104–201, §1255(c)(2)–(5), inserted “(1)” after “(c)”, redesignated former pars. (1), (2), and (4) as subpars. (A), (B), and (C), respectively, inserted “and” at end of subpar. (B), and added par. (2).
 
 Subsec. (c)(3). Pub. L. 104–201, §1255(c)(1), struck out par. (3) which read as follows: “a report from the Reserve Forces Policy Board on the reserve programs of the Department of Defense, including a review of the effectiveness of chapters 51, 337, 361, 363, 549, 573, 837, 861 and 863 of this title, as far as they apply to reserve officers; and”.
 
@@ -208,27 +210,27 @@ Subsec. (i)(2)(B). Pub. L. 104–106, §1503(a)(1), substituted “the period co
 
 Subsec. (j)(1). Pub. L. 104–106, §1502(a)(3), substituted “Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the” for “Committees on Armed Services and Committees on Appropriations of the Senate and”.
 
-1994—Subsec. (c)(3). Pub. L. 103–337, §1671(c)(2), as amended by Pub. L. 104–106, §1501(a)(8)(B), which directed the substitution of “1219 and 1401 through 1411 of this title” for “51, 337, 361, 363, 549, 573, 837, 861 and 863 of this title, as far as they apply to reserve officers”, effective Oct. 1, 1996, could not be executed because of the intervening amendment by Pub. L. 104–201, §1255(c)(1). See 1996 Amendment note above.
+<b>1994</b>—Subsec. (c)(3). Pub. L. 103–337, §1671(c)(2), as amended by Pub. L. 104–106, §1501(a)(8)(B), which directed the substitution of “1219 and 1401 through 1411 of this title” for “51, 337, 361, 363, 549, 573, 837, 861 and 863 of this title, as far as they apply to reserve officers”, effective Oct. 1, 1996, could not be executed because of the intervening amendment by Pub. L. 104–201, §1255(c)(1). See 1996 Amendment note above.
 
 Subsec. (e)(2). Pub. L. 103–337, §1070(a)(1), substituted “section 108” for “section 104”.
 
-1991—Subsec. (i)(2)(C) to (E). Pub. L. 102–190 added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
+<b>1991</b>—Subsec. (i)(2)(C) to (E). Pub. L. 102–190 added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
 
-1990—Subsecs. (i) to (<i>l</i>). Pub. L. 101–510 redesignated subsecs. (j) to (<i>l</i>) as (i) to (k), respectively, and struck out former subsec. (i) which read as follows: “The Secretary of Defense shall submit to Congress a written report, not later than February 15 of each fiscal year, recommending the amount of funds to be appropriated to the Department of Defense for the next fiscal year for functions relating to the formulation and carrying out of Department of Defense policies on the control of technology transfer and activities related to the control of technology transfer. The Secretary shall include in that report the proposed allocation of the funds requested for such purpose and the number of personnel proposed to be assigned to carry out such activities during such fiscal year.”
+<b>1990</b>—Subsecs. (i) to (<i>l</i>). Pub. L. 101–510 redesignated subsecs. (j) to (<i>l</i>) as (i) to (k), respectively, and struck out former subsec. (i) which read as follows: “The Secretary of Defense shall submit to Congress a written report, not later than February 15 of each fiscal year, recommending the amount of funds to be appropriated to the Department of Defense for the next fiscal year for functions relating to the formulation and carrying out of Department of Defense policies on the control of technology transfer and activities related to the control of technology transfer. The Secretary shall include in that report the proposed allocation of the funds requested for such purpose and the number of personnel proposed to be assigned to carry out such activities during such fiscal year.”
 
-1989—Subsec. (j)(2)(B). Pub. L. 101–189 substituted “five-year defense program” for “Five-Year Defense Program”.
+<b>1989</b>—Subsec. (j)(2)(B). Pub. L. 101–189 substituted “five-year defense program” for “Five-Year Defense Program”.
 
-1988—Subsec. (j). Pub. L. 100–456, §731, designated existing provisions as par. (1), struck out provision requiring that each report be transmitted in both a classified and an unclassified form, and added pars. (2) and (3).
+<b>1988</b>—Subsec. (j). Pub. L. 100–456, §731, designated existing provisions as par. (1), struck out provision requiring that each report be transmitted in both a classified and an unclassified form, and added pars. (2) and (3).
 
 Subsec. (k). Pub. L. 100–370 added subsec. (k).
 
 Subsec. (<i>l</i>). Pub. L. 100–456, §1101, added subsec. (<i>l</i>).
 
-1987—Subsec. (e)(2). Pub. L. 100–26 inserted “(50 U.S.C. 404a)” after “National Security Act of 1947”.
+<b>1987</b>—Subsec. (e)(2). Pub. L. 100–26 inserted “(50 U.S.C. 404a)” after “National Security Act of 1947”.
 
 Subsec. (j). Pub. L. 100–180 added subsec. (j).
 
-1986—Pub. L. 99–433, §110(d)(2), struck out “: appointment; powers and duties; delegation by” at end of section catchline.
+<b>1986</b>—Pub. L. 99–433, §110(d)(2), struck out “: appointment; powers and duties; delegation by” at end of section catchline.
 
 Subsecs. (a) to (e). Pub. L. 99–443, §101(a)(2), redesignated subsecs. (a) to (e) of section 133 of this title as subsecs. (a) to (e) of this section.
 
@@ -246,11 +248,11 @@ Subsecs. (f) to (h). Pub. L. 99–433, §102, added subsecs. (f) to (h).
 
 Subsec. (i). Pub. L. 99–433, §§101(a)(2), 110(b)(2), successively redesignated subsec. (h) of section 138 of this title as subsec. (h) of section 114 of this title and then as subsec. (i) of this section.
 
-1982—Subsec. (e). Pub. L. 97–295 added subsec. (e).
+<b>1982</b>—Subsec. (e). Pub. L. 97–295 added subsec. (e).
 
 Subsec. (i) \[formerly §138(h)\]. Pub. L. 97–252, §1105, added subsec. (h). See 1986 Amendment note above.
 
-1980—Subsec. (b). Pub. L. 96–513 substituted “section 2 of the National Security Act of 1947 (50 U.S.C. 401)” for “section 401 of title 50”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–513 substituted “section 2 of the National Security Act of 1947 (50 U.S.C. 401)” for “section 401 of title 50”.
 
 #### Effective Date of 1996 Amendment
 
@@ -270,11 +272,231 @@ Functions of President under various sections delegated to Secretary of Defense,
 
 #### Emergency Preparedness Functions
 
-For assignment of certain emergency preparedness functions to Secretary of Defense, see Parts 1, 2, and 5of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+For assignment of certain emergency preparedness functions to Secretary of Defense, see Parts 1, 2, and 5 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
 #### Order of Succession
 
-For order of succession during any period when the Secretary has died, resigned, or is otherwise unable to perform the functions and duties of the office of Secretary, see Ex. Ord. No. 13394, Dec. 22, 2005, 70 F.R. 76665, set out as a note under section 3345 of Title 5, Government Organization and Employees.
+For order of succession during any period when the Secretary has died, resigned, or is otherwise unable to perform the functions and duties of the office of Secretary, see Ex. Ord. No. 13533, Mar. 1, 2010, 75 F.R. 10163, set out as a note under section 3345 of Title 5, Government Organization and Employees.
+
+#### Counter-Improvised Explosive Device Initiatives Database
+
+Pub. L. 111–383, div. A, title I, §124, Jan. 7, 2011, 124 Stat. 4159, provided that:
+
+“(a)
+
+Comprehensive Database.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Defense, acting through the Director of the Joint Improvised Explosive Device Defeat Organization, shall develop and maintain a comprehensive database containing appropriate information for coordinating, tracking, and archiving each counter-improvised explosive device initiative within the Department of Defense. The database shall, at a minimum, ensure the visibility of each counter-improvised explosive device initiative.
+
+&emsp;“(2)
+
+Use of information.—Using information contained in the database developed under paragraph (1), the Secretary, acting through the Director of the Joint Improvised Explosive Device Defeat Organization, shall—
+
+&emsp;&emsp;“(A) identify and eliminate redundant counter-improvised explosive device initiatives;
+
+&emsp;&emsp;“(B) facilitate the transition of counter-improvised explosive device initiatives from funding under the Joint Improvised Explosive Device Defeat Fund to funding provided by the military departments; and
+
+&emsp;&emsp;“(C) notify the appropriate personnel and organizations prior to a counter-improvised explosive device initiative being funded through the Joint Improvised Explosive Device Defeat Fund.
+
+&emsp;“(3)
+
+Coordination.—In carrying out paragraph (1), the Secretary shall ensure that the Secretary of each military department coordinates and collaborates on development of the database to ensure its interoperability, completeness, consistency, and effectiveness.
+
+“(b)
+
+Metrics.—The Secretary of Defense, acting through the Director of the Joint Improvised Explosive Device Defeat Organization, shall—
+
+&emsp;“(1) develop appropriate means to measure the effectiveness of counter-improvised explosive device initiatives; and
+
+&emsp;“(2) prioritize the funding of such initiatives according to such means.
+
+“(c)
+
+Counter-improvised Explosive Device Initiative Defined.—In this section, the term ‘counter-improvised explosive device initiative’ means any project, program, or research activity funded by any component of the Department of Defense that is intended to assist or support efforts to counter, combat, or defeat the use of improvised explosive devices.”
+
+#### Program to Commemorate 60th Anniversary of the Korean War
+
+Pub. L. 111–383, div. A, title V, §574, Jan. 7, 2011, 124 Stat. 4223, provided that:
+
+“(a)
+
+Commemorative Program Authorized.—The Secretary of Defense may establish and conduct a program to commemorate the 60th anniversary of the Korean War (in this section referred to as the ‘commemorative program’). In conducting the commemorative program, the Secretary of Defense shall coordinate and support other programs and activities of the Federal Government, State and local governments, and other persons and organizations in commemoration of the Korean War.
+
+“(b)
+
+Schedule.—If the Secretary of Defense establishes the commemorative program, the Secretary shall determine the schedule of major events and priority of efforts for the commemorative program to achieve the commemorative objectives specified in subsection (c). The Secretary of Defense may establish a committee to assist the Secretary in determining the schedule and conducting the commemorative program.
+
+“(c)
+
+Commemorative Activities and Objectives.—The commemorative program may include activities and ceremonies to achieve the following objectives:
+
+&emsp;“(1) To thank and honor veterans of the Korean War, including members of the Armed Forces who were held as prisoners of war or listed as missing in action, for their service and sacrifice on behalf of the United States.
+
+&emsp;“(2) To thank and honor the families of veterans of the Korean War for their sacrifices and contributions, especially families who lost a loved one in the Korean War.
+
+&emsp;“(3) To highlight the service of the Armed Forces during the Korean War and the contributions of Federal agencies and governmental and non-governmental organizations that served with, or in support of, the Armed Forces.
+
+&emsp;“(4) To pay tribute to the sacrifices and contributions made on the home front by the people of the United States during the Korean War.
+
+&emsp;“(5) To provide the people of the United States with a clear understanding and appreciation of the lessons and history of the Korean War.
+
+&emsp;“(6) To highlight the advances in technology, science, and medicine related to military research conducted during the Korean War.
+
+&emsp;“(7) To recognize the contributions and sacrifices made by the allies of the United States during the Korean War.
+
+“(d)
+
+Use of The United States of America Korean War Commemoration and Symbols.—Subsection (c) of section 1083 of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 111 Stat. 1918)\[10 U.S.C. 113 note\], as amended by section 1067 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 112 Stat. 2134) and section 1052 of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65; 113 Stat. 764), shall apply to the commemorative program.
+
+“(e)
+
+Commemorative Fund.—
+
+&emsp;“(1)
+
+Establishment of new account.—If the Secretary of Defense establishes the commemorative program, the Secretary \[of\] the Treasury shall establish in the Treasury of the United States an account to be known as the ‘Department of Defense Korean War Commemoration Fund’ (in this section referred to as the ‘Fund’).
+
+&emsp;“(2)
+
+Administration and use of fund.—The Fund shall be available to, and administered by, the Secretary of Defense. The Secretary of Defense shall usethe assets of the Fund only for the purpose of conducting the commemorative program and shall prescribe such regulations regarding the use of the Fund as the Secretary of Defense considers to be necessary.
+
+&emsp;“(3)
+
+Deposits.—There shall be deposited into the Fund the following:
+
+&emsp;&emsp;“(A) Amounts appropriated to the Fund.
+
+&emsp;&emsp;“(B) Proceeds derived from the use by the Secretary of Defense of the exclusive rights described in subsection (c) of section 1083 of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 111 Stat. 1918).
+
+&emsp;&emsp;“(C) Donations made in support of the commemorative program by private and corporate donors.
+
+&emsp;“(4)
+
+Availability.—Subject to paragraph (5), amounts in the Fund shall remain available until expended.
+
+&emsp;“(5)
+
+Treatment of unobligated funds; transfer.—If unobligated amounts remain in the Fund as of September 30, 2013, the Secretary of the Treasury shall transfer the remaining amounts to the Department of Defense Vietnam War Commemorative Fund established pursuant to section 598(e) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. 113 note). The transferred amounts shall be merged with, and available for the same purposes as, other amounts in the Department of Defense Vietnam War Commemorative Fund.
+
+“(f)
+
+Acceptance of Voluntary Services.—
+
+&emsp;“(1)
+
+Authority to accept services.—Notwithstanding section 1342 of title 31, United States Code, the Secretary of Defense may accept from any person voluntary services to be provided in furtherance of the commemorative program. The Secretary of Defense shall prohibit the solicitation of any voluntary services if the nature or circumstances of such solicitation would compromise the integrity or the appearance of integrity of any program of the Department of Defense or of any individual involved in the program.
+
+&emsp;“(2)
+
+Compensation for work-related injury.—A person providing voluntary services under this subsection shall be considered to be a Federal employee for purposes of chapter 81 of title 5, United States Code, relating to compensation for work-related injuries. The person shall also be considered a special governmental employee for purposes of standards of conduct and sections 202, 203, 205, 207, 208, and 209 of title 18, United States Code. A person who is not otherwise employed by the Federal Government shall not be considered to be a Federal employee for any other purpose by reason of the provision of voluntary services under this subsection.
+
+&emsp;“(3)
+
+Reimbursement of incidental expenses.—The Secretary of Defense may provide for reimbursement of incidental expenses incurred by a person providing voluntary services under this subsection. The Secretary of Defense shall determine which expenses are eligible for reimbursement under this paragraph.
+
+“(g)
+
+Report Required.—If the Secretary of Defense conducts the commemorative program, the Inspector General of the Department of Defense shall submit to Congress, not later than 60 days after the end of the commemorative program, a report containing an accounting of—
+
+&emsp;“(1) all of the funds deposited into and expended from the Fund;
+
+&emsp;“(2) any other funds expended under this section; and
+
+&emsp;“(3) any unobligated funds remaining in the Fund as of September 30, 2013, that are transferred to the Department of Defense Vietnam War Commemorative Fund pursuant to subsection (e)(5).
+
+“(h)
+
+Limitation on Expenditures.—Using amounts appropriated to the Department of Defense, the Secretary of Defense may not expend more than $5,000,000 to carry out the commemorative program.”
+
+#### Report on Organizational Structure and Policy Guidance of the Department of Defense Regarding Information Operations
+
+Pub. L. 111–383, div. A, title IX, §943, Jan. 7, 2011, 124 Stat. 4341, provided that:
+
+“(a)
+
+Report Required.—Not later than 90 days after the date of the enactment of this Act \[Jan. 7, 2011\], the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the organizational structure and policy guidance of the Department of Defense with respect to information operations.
+
+“(b)
+
+Review.—In preparing the report required by subsection (a), the Secretary shall review the following:
+
+&emsp;“(1) The extent to which the current definition of ‘information operations’ in Department of Defense Directive 3600.1 is appropriate.
+
+&emsp;“(2) The location of the office within the Department of the lead official responsible for information operations of the Department, including assessments of the most effective location and the need to designate a principal staff assistant to the Secretary of Defense for information operations.
+
+&emsp;“(3) Departmental responsibility for the development, coordination, and oversight of Department policy on information operations and for the integration of such operations.
+
+&emsp;“(4) Departmental responsibility for the planning, execution, and oversight of Department information operations.
+
+&emsp;“(5) Departmental responsibility for coordination within the Department, and between the Department and other departments and agencies of the Federal Government, regarding Department information operations, and for the resolution of conflicts in the discharge of such operations, including an assessment of current coordination bodies and decisionmaking processes.
+
+&emsp;“(6) The roles and responsibilities of the military departments, combat support agencies, the United States Special Operations Command, and the other combatant commands in the development and implementation of information operations.
+
+&emsp;“(7) The roles and responsibilities of the defense intelligence agencies for support of information operations.
+
+&emsp;“(8) The role in information operations of the following Department officials:
+
+&emsp;&emsp;“(A) The Assistant Secretary of Defense for Public Affairs.
+
+&emsp;&emsp;“(B) The Assistant Secretary of Defense for Special Operations and Low-Intensity Conflict.
+
+&emsp;&emsp;“(C) The senior official responsible for information processing and networking capabilities.
+
+&emsp;“(9) The role of related capabilities in the discharge of information operations, including public affairs capabilities, civil-military operations capabilities, defense support of public diplomacy, and intelligence.
+
+&emsp;“(10) The management structure of computer network operations in the Department for the discharge of information operations, and the policy in support of that component.
+
+&emsp;“(11) The appropriate use, management, and oversight of contractors in the development and implementation of information operations, including an assessment of current guidance and policy directives pertaining to the uses of contractors for these purposes.
+
+“(c)
+
+Form.—The report required by subsection (a) shall be submitted in unclassified form, with a classified annex, if necessary.
+
+“(d)
+
+Department of Defense Directive.—Upon the submittal of the report required by subsection (a), the Secretary shall prescribe a revised directive for the Department of Defense on information operations. The directive shall take into account the results of the review conducted for purposes of the report.
+
+“(e)
+
+Information Operations Defined.—In this section, the term ‘information operations’ means the information operations specified in Department of Defense Directive 3600.1, as follows:
+
+&emsp;“(1) Electronic warfare.
+
+&emsp;“(2) Computer network operations.
+
+&emsp;“(3) Psychological operations.
+
+&emsp;“(4) Military deception.
+
+&emsp;“(5) Operations security.”
+
+#### Biennial Report on Nuclear Triad
+
+Pub. L. 111–383, div. A, title X, §1054, Jan. 7, 2011, 124 Stat. 4358, provided that:
+
+“(a)
+
+Report.—Not later than March 1 of each even-numbered year, beginning March 1, 2012, the Secretary of Defense, in consultation with the Administrator for Nuclear Security, shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the nuclear triad.
+
+“(b)
+
+Matters Included.—The report under subsection (a) shall include the following:
+
+&emsp;“(1) A detailed discussion of the modernization and sustainment plans for each component of the nuclear triad over the 10-year period beginning on the date of the report.
+
+&emsp;“(2) The funding required for each platform of the nuclear triad with respect to operation and maintenance, modernization, and replacement.
+
+&emsp;“(3) Any industrial capacities that the Secretary considers vital to ensure the viability of the nuclear triad.
+
+“(c)
+
+Nuclear Triad Defined.—In this section, the term ‘nuclear triad’ means the nuclear deterrent capabilities of the United States composed of ballistic missile submarines, land-based missiles, and strategic bombers.”
+
+#### Treatment of Successor Contingency Operation to Operation Iraqi Freedom
+
+Pub. L. 111–383, div. A, title X, §1077, Jan. 7, 2011, 124 Stat. 4379, provided that: “Any law applicable to Operation Iraqi Freedom shall apply in the same manner and to the same extent to the successor contingency operation known as Operation New Dawn, except as specifically provided in this Act \[see Tables for classification\], any amendment made by this Act, or any other law enacted after the date of the enactment of this Act \[Jan. 7, 2011\].”
 
 #### Policy and Requirements To Ensure the Safety of Facilities, Infrastructure, and Equipment for Military Operations
 
@@ -427,56 +649,6 @@ Report.—Not later than 120 days after the date of the enactment of this Act \[
 &emsp;“(1) the policy required by subsection (a); and
 
 &emsp;“(2) the acquisition strategy required by subsection (a).”
-
-#### Defense Incident-Based Reporting System and Defense Sexual Assault Incident Database
-
-Pub. L. 111–84, div. A, title V, §598, Oct. 28, 2009, 123 Stat. 2345, provided that: “Not later than 120 days after the date of the enactment of this Act \[Oct. 28, 2009\], and every six months thereafter, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report detailing the progress of the Secretary with respect to the completion of the following:
-
-&emsp;“(1) The Defense Incident-Based Reporting System.
-
-&emsp;“(2) The Defense Sexual Assault Incident Database.”
-
-Pub. L. 110–417, \[div. A\], title V, §563(a)–(d), Oct. 14, 2008, 122 Stat. 4470, 4471, provided that:
-
-“(a)
-
-Database Required.—The Secretary of Defense shall implement a centralized, case-level database for the collection, in a manner consistent with Department of Defense regulations for restricted reporting, and maintenance of information regarding sexual assaults involving a member of the Armed Forces, including information, if available, about the nature of the assault, the victim, the offender, and the outcome of any legal proceedings in connection with the assault.
-
-“(b)
-
-Availability of Database.—The database required by subsection (a) shall be available to personnel of the Sexual Assault Prevention and Response Office of the Department of Defense.
-
-“(c)
-
-Implementation.—
-
-&emsp;“(1)
-
-Plan for implementation.—Not later than 90 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan to provide for the implementation of the database required by subsection (a).
-
-&emsp;“(2)
-
-Relation to defense incident-based reporting system.—Not later than 180 days after the date of enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing—
-
-&emsp;&emsp;“(A) a description of the current status of the Defense Incident-Based Reporting System; and
-
-&emsp;&emsp;“(B) an explanation of how the Defense Incident-Based Reporting System will relate to the database required by subsection (a).
-
-&emsp;“(3)
-
-Completion.—Not later than 15 months after the date of enactment of this Act, the Secretary shall complete implementation of the database required by subsection (a).
-
-“(d)
-
-Reports.—The database required by subsection (a) shall be used to develop and implement congressional reports, as required by—
-
-&emsp;“(1) section 577(f) of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375) \[set out below\];
-
-&emsp;“(2) section 596(c) of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163) \[amending Pub. L. 108–375, §577, set out below\];
-
-&emsp;“(3) section 532 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364) \[enacting sections 4361, 6980, and 9361 of this title and provisions set out as a note under section 4361 of this title and repealing provisions set out as a note under section 4331 of this title\]; and
-
-&emsp;“(4) sections 4361, 6980, and 9361 of title 10, United States Code.”
 
 #### Report on Command and Control Structure for Military Forces Operating in Afghanistan
 
@@ -650,7 +822,7 @@ Additional criteria.—The standards required under paragraph (1) may—
 
 &emsp;&emsp;“(B) provide for closer scrutiny of categories of individuals determined by the Secretary of Defense to pose a higher potential security risk; and
 
-&emsp;&emsp;“(C) in the case of an installation that the Secretary determines contains particularly sensitive facilities, provide additional screening requirements, as well as physical and other security measures for the installation.
+&emsp;&emsp;“(C) in the case of an installation that the Secretary determines contains particularly sensitivefacilities, provide additional screening requirements, as well as physical and other security measures for the installation.
 
 “(b)
 
@@ -818,29 +990,7 @@ Geographic combatant commander.—The term ‘commander of a combatant command�
 
 #### Report on Support From Iran for Attacks Against Coalition Forces in Iraq
 
-Pub. L. 110–181, div. A, title XII, §1225, Jan. 28, 2008, 122 Stat. 375, provided that:
-
-“(a)
-
-Report Required.—Not later than 60 days after the date of the enactment of this Act \[Jan. 28, 2008\], and every 180 days thereafter, the Secretary of Defense, in coordination with the Director of National Intelligence, shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report describing and assessing in detail—
-
-&emsp;“(1) any support or direction provided to anti-coalition forces in Iraq by the Government of Iran or its agents;
-
-&emsp;“(2) the strategy and ambitions in Iraq of the Government of Iran; and
-
-&emsp;“(3) any strategy or efforts by the United States Government to counter the activities of agents of the Government of Iran in Iraq.
-
-“(b)
-
-Form.—Each report required under subsection (a) shall be submitted in unclassified form, to the maximum extent practicable, but may contain a classified annex, if necessary.
-
-“(c)
-
-Termination.—The requirement to submit reports under subsection (a) shall terminate on the date on which the Secretary of Defense, in coordination with the Director of National Intelligence, submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a certification in writing that the Government of Iran has ceased to provide military support to anti-coalition forces that conduct attacks against coalition forces in Iraq.
-
-“(d)
-
-Rule of Construction.—Nothing in this section shall be construed to authorize or otherwise speak to the use of the Armed Forces against Iran.”
+Pub. L. 110–181, div. A, title XII, §1225, Jan. 28, 2008, 122 Stat. 375, which required the Secretary of Defense, in coordination with the Director of National Intelligence, to submit to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives reports describing and assessing any support provided to anti-coalition forces in Iraq by Iran or its agents, the strategy and ambitions in Iraq of Iran, and any strategy or efforts by the United States to counter the activities of agents of Iran in Iraq, was repealed by Pub. L. 111–383, div. A, title XII, §1233(f)(2), Jan. 7, 2011, 124 Stat. 4397.
 
 #### Requirement for Secretary of Defense To Prepare Plan for Response to Natural Disasters and Terrorist Events
 
@@ -1088,7 +1238,7 @@ Implementation Reports.—Not later than September 15, 2006, March 15, 2007, Sep
 
 “(e)
 
-Definitions.—In this section, the terms ‘operational range’ and ‘range activities’ have the meaninggiven those terms in section 101(e) of title 10, United States Code.”
+Definitions.—In this section, the terms ‘operational range’ and ‘range activities’ have the meaning given those terms in section 101(e) of title 10, United States Code.”
 
 #### Reports by Officers and Senior Enlisted Members of Conviction of Criminal Law
 
@@ -1136,7 +1286,7 @@ In general.—Except as provided in paragraph (2), for purposes of this section,
 
 &emsp;“(2)
 
-Exception.—For purposes of this section, a criminal law of the United States shall not include a law or ordinance specifying a minor traffic offense (as determined by the Secretary for purposes of such regulations).
+Exception.—For purposes of this section, a criminal law of the United States shall not include a law or ordinance specifying a minor traffic offense (asdetermined by the Secretary for purposes of such regulations).
 
 “(d)
 
@@ -1204,7 +1354,7 @@ Elements of Policy.—The comprehensive policy developed under subsection (a) sh
 
 &emsp;“(6) The provision, through a computer accessible Internet website and other means and at no cost to severely wounded or injured servicemembers, of personalized, integrated information on the benefits and financial assistance available to such members from the Federal Government.
 
-&emsp;“(7) The provision of information to severely wounded or injured servicemembers on mechanismsfor registering complaints about, or requests for, additional assistance.
+&emsp;“(7) The provision of information to severely wounded or injured servicemembers on mechanisms for registering complaints about, or requests for, additional assistance.
 
 &emsp;“(8) Participation of family members.
 
@@ -1215,38 +1365,6 @@ Elements of Policy.—The comprehensive policy developed under subsection (a) sh
 “(c)
 
 Adoption by Military Departments.—Not later than September 1, 2006, the Secretary of each military department shall prescribe regulations, or modify current regulations, on the policies and procedures of such military department on the provision of assistance to severely wounded or injured servicemembers in order to conform such policies and procedures to the policy prescribed under subsection (a).”
-
-#### Improvement to Department of Defense Capacity To Respond to Sexual Assault Affecting Members of the Armed Forces
-
-Pub. L. 109–163, div. A, title V, §596(a), (b), Jan. 6, 2006, 119 Stat. 3282, provided that:
-
-“(a)
-
-Plan for System to Track Cases in Which Care or Prosecution Hindered by Lack of Availability.—
-
-&emsp;“(1)
-
-Plan required.—The Secretary of Defense shall develop and implement a system to track cases under the jurisdiction of the Department of Defense in which care to a victim of rape or sexual assault, or the investigation or prosecution of an alleged perpetrator of rape or sexual assault, is hindered by the lack of availability of a rape kit or other needed supplies or by the lack of timely access to appropriate laboratory testing resources.
-
-&emsp;“(2)
-
-Submittal to congressional committees.—The Secretary shall submit the plan developed under paragraph (1) to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives not later than 120 days after the date of the enactment of this Act \[Jan. 6, 2006\].
-
-“(b)
-
-Accessibility Plan for Deployed Units.—
-
-&emsp;“(1)
-
-Plan required.—The Secretary of Defense shall develop and implement a plan for ensuring accessibility and availability of supplies, trained personnel, and transportation resources for responding to sexual assaults occurring in deployed units. The plan shall include the following:
-
-&emsp;&emsp;“(A) A plan for the training of personnel who are considered to be ‘first responders’ to sexual assaults (including criminal investigators, medical personnel responsible for rape kit evidence collection, and victims advocates), such training to include current techniques on the processing of evidence, including rape kits, and on conducting investigations.
-
-&emsp;&emsp;“(B) A plan for ensuring the availability at military hospitals of supplies needed for the treatment of victims of sexual assault who present at a military hospital, including rape kits, equipment for processing rape kits, and supplies for testing and treatment for sexually transmitted infections and diseases, including HIV, and for testing for pregnancy.
-
-&emsp;“(2)
-
-Submittal to congressional committees.—The Secretary shall submit the plan developed under paragraph (1) to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives not later than 120 days after the date of the enactment of this Act \[Jan. 6, 2006\].”
 
 #### Preservation of Records Pertaining to Radioactive Fallout From Nuclear Weapons Testing
 
@@ -1322,7 +1440,7 @@ Pub. L. 109–163, div. A, title XII, §1221, Jan. 6, 2006, 119 Stat. 3462, as a
 
 “(a)
 
-Report Required for Operation Iraqi Freedom, Operation Enduring Freedom, and Operation NobleEagle.—The Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], in accordance with this section, a report on procurement and equipment maintenance costs for each of Operation Iraqi Freedom, Operation Enduring Freedom, and Operation Noble Eagle and on facility infrastructure costs associated with each of Operation Iraqi Freedom and Operation Enduring Freedom. The report shall include the following:
+Report Required for Operation Iraqi Freedom, Operation Enduring Freedom, and Operation Noble Eagle.—The Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], in accordance with this section, a report on procurement and equipment maintenance costs for each of Operation Iraqi Freedom, Operation Enduring Freedom, and Operation Noble Eagle and on facility infrastructure costs associated with each of Operation Iraqi Freedom and Operation Enduring Freedom. The report shall include the following:
 
 &emsp;“(1)
 
@@ -1392,7 +1510,7 @@ Matters to Be Included.—Each report under subsection (a) shall set forth the f
 
 &emsp;“(4) All efforts made to seek credit against past United Nations expenditures.
 
-&emsp;“(5) All efforts made to seek compensation from the United Nations for costs incurred by the Department of Defense in implementing and supporting United Nations activities.
+&emsp;“(5) All efforts made to seek compensation from the United Nations for costs incurred by the Departmentof Defense in implementing and supporting United Nations activities.
 
 “(c)
 
@@ -1428,7 +1546,7 @@ Criteria.—As part of the Integrated Global Presence and Basing Strategy (IGPBS
 
 “(b)
 
-Analysis of Alternatives to Basing or Operating Locations.—The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, shall develop a mechanism for analyzing alternatives to any particular overseas basing or operatinglocation. Such a mechanism shall incorporate the factors specified in each of paragraphs (1) through (5) of subsection (a).
+Analysis of Alternatives to Basing or Operating Locations.—The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, shall develop a mechanism for analyzing alternatives to any particular overseas basing or operating location. Such a mechanism shall incorporate the factors specified in each of paragraphs (1) through (5) of subsection (a).
 
 “(c)
 
@@ -1478,134 +1596,6 @@ Training.—The Secretary shall take such measures as the Secretary considers ap
 
 &emsp;“(2) in the prescribed procedures to ensure protection of the chain of custody of such kits once used.”
 
-#### Department of Defense Policy and Procedures on Prevention and Response to Sexual Assaults Involving Members of the Armed Forces
-
-Pub. L. 111–84, div. A, title V, §567(c), Oct. 28, 2009, 123 Stat. 2314, provided that:
-
-“(1)
-
-Requirement for data collection.—
-
-&emsp;“(A)
-
-In general.—Pursuant to regulations prescribed by the Secretary of Defense, information shall be collected on—
-
-&emsp;&emsp;“(i) whether a military protective order was issued that involved either the victim or alleged perpetrator of a sexual assault; and
-
-&emsp;&emsp;“(ii) whether military protective orders involving members of the Armed Forces were violated in the course of substantiated incidents of sexual assaults against members of the Armed Forces.
-
-&emsp;“(B)
-
-Submission of data.—The data required to be collected under this subsection shall be included in the annual report submitted to Congress on sexual assaults involving members of the Armed Forces.
-
-“(2)
-
-Information to members.—Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report explaining the measures being taken to ensure that, when a military protective order has been issued, the member of the Armed Forces who is protected by the order is informed, in a timely manner, of the member's option to request transfer from the command to which the member is assigned.”
-
-Pub. L. 108–375, div. A, title V, §577, Oct. 28, 2004, 118 Stat. 1926, as amended by Pub. L. 109–163, div. A, title V, §596(c), Jan. 6, 2006, 119 Stat. 3283; Pub. L. 109–364, div. A, title V, §583, Oct. 17, 2006, 120 Stat. 2230; Pub. L. 110–417, \[div. A\], title V, §563(e), Oct. 14, 2008, 122 Stat. 4471, provided that:
-
-“(a)
-
-Comprehensive Policy on Prevention and Response to Sexual Assaults.—(1) Not later than January 1, 2005, the Secretary of Defense shall develop a comprehensive policy for the Department of Defense on the prevention of and response to sexual assaults involving members of the Armed Forces.
-
-“(2) The policy shall be based on the recommendations of the Department of Defense Task Force on Care for Victims of Sexual Assaults and on such other matters as the Secretary considers appropriate.
-
-“(3) Before developing the comprehensive policy required by paragraph (1), the Secretary of Defense shall develop a definition of sexual assault. The definition so developed shall be used in the comprehensive policy under paragraph (1) and otherwise within the Department of Defense and Coast Guard in matters involving members of the Armed Forces. The definition shall be uniform for all the Armed Forces and shall be developed in consultation with the Secretaries of the military departments and the Secretary of Homeland Security with respect to the Coast Guard.
-
-“(b)
-
-Elements of Comprehensive Policy.—The comprehensive policy developed under subsection (a) shall, at a minimum, address the following matters:
-
-&emsp;“(1) Prevention measures.
-
-&emsp;“(2) Education and training on prevention and response.
-
-&emsp;“(3) Investigation of complaints by command and law enforcement personnel.
-
-&emsp;“(4) Medical treatment of victims.
-
-&emsp;“(5) Confidential reporting of incidents.
-
-&emsp;“(6) Victim advocacy and intervention.
-
-&emsp;“(7) Oversight by commanders of administrative and disciplinary actions in response to substantiated incidents of sexual assault.
-
-&emsp;“(8) Disposition of victims of sexual assault, including review by appropriate authority of administrative separation actions involving victims of sexual assault.
-
-&emsp;“(9) Disposition of members of the Armed Forces accused of sexual assault.
-
-&emsp;“(10) Liaison and collaboration with civilian agencies on the provision of services to victims of sexual assault.
-
-&emsp;“(11) Uniform collection of data on the incidence of sexual assaults and on disciplinary actions taken in substantiated cases of sexual assault.
-
-&emsp;“(12) The Secretary shall implement \[sic\] clear, consistent, and streamlined sexual assault terminology for use throughout the Department of Defense.
-
-“(c)
-
-Report on Improvement of Capability To Respond to Sexual Assaults.—Not later than March 1, 2005, the Secretary of Defense shall submit to Congress a proposal for such legislation as the Secretary considers necessary to enhance the capability of the Department of Defense to address matters relating to sexual assaults involving members of the Armed Forces.
-
-“(d)
-
-Application of Comprehensive Policy To Military Departments.—The Secretary of Defense shall ensure that, to the maximum extent practicable, the policy developed under subsection (a) is implemented uniformly by the military departments.
-
-“(e)
-
-Policies and Procedures of Military Departments.—(1) Not later than March 1, 2005, the Secretaries of the military departments shall prescribe regulations, or modify current regulations, on the policies and procedures of the military departments on the prevention of and response to sexual assaults involving members of the Armed Forces in order—
-
-&emsp;“(A) to conform such policies and procedures to the policy developed under subsection (a); and
-
-&emsp;“(B) to ensure that such policies and procedures include the elements specified in paragraph (2).
-
-“(2) The elements specified in this paragraph are as follows:
-
-&emsp;“(A) A program to promote awareness of the incidence of sexual assaults involving members of the Armed Forces.
-
-&emsp;“(B) A program to provide victim advocacy and intervention for members of the Armed Force concerned who are victims of sexual assault, which program shall make available, at home stations and in deployed locations, trained advocates who are readily available to intervene on behalf of such victims.
-
-&emsp;“(C) Procedures for members of the Armed Force concerned to follow in the case of an incident of sexual assault involving a member of such Armed Force, including—
-
-&emsp;&emsp;“(i) specification of the person or persons to whom the alleged offense should be reported;
-
-&emsp;&emsp;“(ii) specification of any other person whom the victim should contact;
-
-&emsp;&emsp;“(iii) procedures for the preservation of evidence; and
-
-&emsp;&emsp;“(iv) procedures for confidential reporting and for contacting victim advocates.
-
-&emsp;“(D) Procedures for disciplinary action in cases of sexual assault by members of the Armed Force concerned.
-
-&emsp;“(E) Other sanctions authorized to be imposed in substantiated cases of sexual assault, whether forcible or nonforcible, by members of the Armed Force concerned.
-
-&emsp;“(F) Training on the policies and procedures for all members of the Armed Force concerned, including specific training for members of the Armed Force concerned who process allegations of sexual assault against members of such Armed Force.
-
-&emsp;“(G) Any other matters that the Secretary of Defense considers appropriate.
-
-“(f)
-
-Annual Report on Sexual Assaults.—(1) Not later than January 15 of each year, the Secretary of each military department shall submit to the Secretary of Defense a report on the sexual assaults involving members of the Armed Forces under the jurisdiction of that Secretary during the preceding year. In the case of the Secretary of the Navy, separate reports shall be prepared for the Navy and for the Marine Corps.
-
-“(2) Each report on an Armed Force under paragraph (1) shall contain the following:
-
-&emsp;“(A) The number of sexual assaults against members of the Armed Force, and the number of sexual assaults by members of the Armed Force, that were reported to military officials during the year covered by such report, and the number of the cases so reported that were substantiated.
-
-&emsp;“(B) A synopsis of each such substantiated case and, for each such case, the disciplinary action taken in the case, including the type of disciplinary or administrative sanction imposed, if any.
-
-&emsp;“(C) The policies, procedures, and processes implemented by the Secretary concerned during the year covered by such report in response to incidents of sexual assault involving members of the Armed Force concerned.
-
-&emsp;“(D) A description of the implementation during the year covered by the report of the tracking system implemented pursuant to section 596(a) of the National Defense Authorization Act for Fiscal Year 2006 \[Pub. L. 109–163, set out as a note above\], including information collected on cases during that year in which care to a victim of rape or sexual assault was hindered by the lack of availability of a rape kit or other needed supplies or by the lack of timely access to appropriate laboratory testing resources.
-
-&emsp;“(E) A description of the implementation during the year covered by the report of the accessibility plan implemented pursuant to section 596(b) of the National Defense Authorization Act for Fiscal Year 2006 \[Pub. L. 109–163, set out as a note above\], including a description of the steps taken during that year to provide that trained personnel, appropriate supplies, and transportation resources are accessible to deployed units in order to provide an appropriate and timely response in any case of reported sexual assault in a deployed unit.
-
-&emsp;“(F) A description of the required supply inventory, location, accessibility, and availability of supplies, trained personnel, and transportation resources needed, and in fact in place, in order to be able to provide an appropriate and timely response in any case of reported sexual assault in a deployed unit.
-
-&emsp;“(G) A plan for the actions that are to be taken in the year following the year covered by such report on the prevention of and response to sexual assault involving members of the Armed Forces concerned.
-
-“(3) Each report under paragraph (1) for any year after 2005 shall include an assessment by the Secretary of the military department submitting the report of the implementation during the preceding fiscal year of the policies and procedures of such department on the prevention of and response to sexual assaults involving members of the Armed Forces in order to determine the effectiveness of such policies and procedures during such fiscal year in providing an appropriate response to such sexual assaults.
-
-“(4) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives each report submitted to the Secretary under this subsection, together with the comments of the Secretary on the report. The Secretary shall submit each such report not later than March 15 of the year following the year covered by the report.
-
-“(5) For the report under this subsection covering 2004, the applicable date under paragraph (1) is April 1, 2005, and the applicable date under paragraph (4) is May 1, 2005.”
-
 #### Policy for Timely Notification of Next of Kin of Members Seriously Ill or Injured in Combat Zones
 
 Pub. L. 108–375, div. A, title VII, §724, Oct. 28, 2004, 118 Stat. 1990, provided that:
@@ -1616,7 +1606,7 @@ Policy Required.—The Secretary of Defense shall prescribe the policy of the De
 
 “(b)
 
-Submission of Policy.—Not later than 120 days after the date of the enactment of this Act \[Oct. 28,2004\], the Secretary of Defense shall submit to Congress a copy of the policy.”
+Submission of Policy.—Not later than 120 days after the date of the enactment of this Act \[Oct. 28, 2004\], the Secretary of Defense shall submit to Congress a copy of the policy.”
 
 #### Secretary of Defense Criteria for and Guidance on Identification and Internal Transmission of Critical Information
 
@@ -1624,7 +1614,7 @@ Pub. L. 108–375, div. A, title IX, §932, Oct. 28, 2004, 118 Stat. 2031, provi
 
 “(a)
 
-Criteria for Critical Information.—(1) The Secretary of Defense shall establish criteria for determining categories of critical information that should be made known expeditiously to senior civilian and military officials in the Department of Defense. Those categories should be limited to matters of extraordinary significance and strategic impact to which rapid access by those officials is essential to the successful accomplishment of the national security strategy or a major military mission. The Secretary may from time to time modify the list to suit the current strategic situation.
+Criteria for Critical Information.—(1) The Secretary of Defense shall establish criteria for determining categories of critical information that should be made known expeditiously to senior civilian and military officials in the Department of Defense. Those categories should be limited to matters of extraordinary significance and strategic impact to which rapid access by those officials is essential to the successful accomplishment of the national security strategy or a major military mission. The Secretary may from timeto time modify the list to suit the current strategic situation.
 
 “(2) The Secretary shall provide the criteria established under paragraph (1) to the Chairman of the Joint Chiefs of Staff, the Secretaries of the military departments, the commanders of the unified and specified commands, the commanders of deployed forces, and such other elements of the Department of Defense as the Secretary considers necessary.
 
@@ -1652,7 +1642,7 @@ Pub. L. 108–375, div. A, title X, §1032, Oct. 28, 2004, 118 Stat. 2045, autho
 
 #### Preservation of Search and Rescue Capabilities of the Federal Government
 
-Pub. L. 108–375, div. A, title X, §1085, Oct. 28, 2004, 118 Stat. 2065, as amended by Pub. L. 110–181, div. A, title III, §360(c), Jan. 28, 2008, 122 Stat. 78, provided that: “The Secretary of Defense may not reduce or eliminate search and rescue capabilities at any military installation in the United States unless the Secretary, after reviewing the search and rescue capabilities report prepared by the Secretary of the Air Force under subsection (a) \[probably means section 360(a) of Pub. L. 110–181, 122 Stat. 77, which is not classified to the Code\], first certifies to the Committees on Armed Services of the Senate and the House of Representatives that equivalent search and rescue capabilities will be provided, without interruption and consistent with the policies and objectives set forth in the United States National Search and Rescue Plan entered into force on January 1, 1999, by—
+Pub. L. 108–375, div. A, title X, §1085, Oct. 28, 2004, 118 Stat. 2065, as amended by Pub. L. 110–181, div. A, title III, §360(c), Jan. 28, 2008, 122 Stat. 78; Pub. L. 111–383, div. A, title X, §1075(i)(2), Jan. 7, 2011, 124 Stat. 4378, provided that: “The Secretary of Defense may not reduce or eliminate search and rescue capabilities at any military installation in the United States unless the Secretary, after reviewing the search and rescue capabilities report prepared by the Secretary of the Air Force under section 360(a) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 77), first certifies to the Committees on Armed Services of the Senate and the House of Representatives that equivalent search and rescue capabilities will be provided, without interruption and consistent with the policies and objectives set forth in the United States National Search and Rescue Plan entered into force on January 1, 1999, by—
 
 &emsp;“(1) the Department of Interior, the Department of Commerce, the Department of Homeland Security, the Department of Transportation, the Federal Communications Commission, or the National Aeronautics and Space Administration; or
 
@@ -1724,7 +1714,7 @@ Consistency With Other Laws.—The Secretary concerned shall require that any ac
 
 “(c)
 
-Consultation.—In carrying out this section (including the issuance after the date of the enactment of this Act \[Oct. 28, 2004\] of regulations implementing thissection), the Secretary concerned shall consult with the head of each Federal agency having authority under Federal law with respect to activities directed at sunken military craft or the locations of such craft.
+Consultation.—In carrying out this section (including the issuance after the date of the enactment of this Act \[Oct. 28, 2004\] of regulations implementing this section), the Secretary concerned shall consult with the head of each Federal agency having authority under Federal law with respect to activities directed at sunken military craft or the locations of such craft.
 
 “(d)
 
@@ -1738,7 +1728,7 @@ In General.—Any person who violates this title, or any regulation or permit is
 
 “(b)
 
-Assessment and Amount.—The Secretary concerned may assess a civil penalty under this section, after notice and an opportunity for a hearing, of not more than $100,000 for each violation.
+Assessment and Amount.—The Secretary concerned may assess a civil penalty under this section,after notice and an opportunity for a hearing, of not more than $100,000 for each violation.
 
 “(c)
 
@@ -1882,7 +1872,7 @@ United states territorial sea.—The term ‘United States territorial sea’ me
 
 &emsp;“(7)
 
-United states waters.—The term ‘United States waters’ means United States internal waters, the United States territorial sea, and the United States contiguous zone.”
+United states waters.—The term ‘United States waters’ means United States internal waters,the United States territorial sea, and the United States contiguous zone.”
 
 #### Reports on Weapons and Ammunition Obtained by Iraq
 
@@ -1964,7 +1954,7 @@ Pub. L. 108–136, div. A, title III, §337, Nov. 24, 2003, 117 Stat. 1445, prov
 
 “(a)
 
-Pilot Program.—The Secretary of Defense shall establish a pilot program under which the Secretary concerned shall create, or continue the implementation of, high-performing organizations through the conduct of a Business Process Reengineering initiative at selected military installations and facilities under the jurisdiction of the Secretary concerned.
+Pilot Program.—The Secretary of Defense shall establish a pilot program under which the Secretaryconcerned shall create, or continue the implementation of, high-performing organizations through the conduct of a Business Process Reengineering initiative at selected military installations and facilities under the jurisdiction of the Secretary concerned.
 
 “(b)
 
@@ -2046,7 +2036,7 @@ Requirement for Policy.—Not later than 180 days after the date of the enactmen
 
 “(b)
 
-Guidance on Timing of Release.—The policy under subsection (a) shall include guidance for ensuring that any public release of information on a member under the policy occurs only after the lapse of an appropriate period following notification of the next-of-kin regarding the casualty status of such member.”
+Guidance on Timing of Release.—The policy under subsection (a) shall include guidance for ensuringthat any public release of information on a member under the policy occurs only after the lapse of an appropriate period following notification of the next-of-kin regarding the casualty status of such member.”
 
 #### Plan for Prompt Global Strike Capability
 
@@ -2136,7 +2126,7 @@ Pub. L. 108–287, title IX, §9010, Aug. 5, 2004, 118 Stat. 1008, as amended by
 
 &emsp;“(5) For the half-fiscal year ending during the month preceding the due date of the report, the costs incurred for repair of Department of Defense equipment used in the operations and activities in Iraq and Afghanistan.
 
-&emsp;“(6) The foreign countries, international organizations, and nongovernmental organizations that arecontributing support for the ongoing military operations and reconstruction activities, together with a discussion of the amount and types of support contributed by each during the half-fiscal year ending during the month preceding the due date of the report.
+&emsp;“(6) The foreign countries, international organizations, and nongovernmental organizations that are contributing support for the ongoing military operations and reconstruction activities, together with a discussion of the amount and types of support contributed by each during the half-fiscal year ending during the month preceding the due date of the report.
 
 &emsp;“(7) The extent to which, and the schedule on which, the Selected Reserve of the Ready Reserve of the Armed Forces is being involuntarily ordered to active duty under section 12302 of title 10, United States Code.
 
@@ -2202,7 +2192,7 @@ System Features.—The system required by subsection (a) shall be designed to ac
 
 #### Training Range Sustainment Plan, Global Status of Resources and Training System, and Training Range Inventory
 
-Pub. L. 107–314, div. A, title III, §366, Dec. 2, 2002, 116 Stat. 2522, as amended by Pub. L. 109–364, div. A, title III, §348, Oct. 17, 2006, 120 Stat. 2159; Pub. L. 110–181, div. A, title X, §1063(c)(2), Jan. 28, 2008, 122 Stat. 322, provided that:
+Pub. L. 107–314, div. A, title III, §366, Dec. 2, 2002, 116 Stat. 2522, as amended by Pub. L. 109–364, div. A, title III, §348, Oct. 17, 2006, 120 Stat. 2159; Pub. L. 110–181, div. A, title X, §1063(c)(2), Jan. 28, 2008, 122 Stat. 322; Pub. L. 111–383, div. A, title X, §1075(g)(2), Jan. 7, 2011, 124 Stat. 4376, provided that:
 
 “(a)
 
@@ -2236,7 +2226,7 @@ Plan Required.—(1) The Secretary of Defense shall develop a comprehensive plan
 
 “(b)
 
-Readiness Reporting Improvement.—Not later than June 30, 2003, the Secretary of Defense, using existing measures within the authority of the Secretary, shall submit to Congress a report on the plans of the Department of Defense to improve the Global Status of Resources and Training System to reflect the readiness impact that training constraints caused by limitations on the use of military lands, marine areas, and airspace have on specific units of the Armed Forces.
+Readiness Reporting Improvement.—Not later than June 30, 2003, the Secretary of Defense, using existing measures within the authority of the Secretary, shall submit to Congress a report on the plans of the Department of Defense to improve the Global Status of Resources and Training System to reflect the readinessimpact that training constraints caused by limitations on the use of military lands, marine areas, and airspace have on specific units of the Armed Forces.
 
 “(c)
 
@@ -2257,8 +2247,6 @@ Evaluation.—The Secretary of Defense shall transmit copies of each report requ
 “(e)
 
 Armed Forces Defined.—In this section, the term ‘Armed Forces’ means the Army, Navy, Air Force, and Marine Corps.”
-
-\[Pub. L. 109–364, §348(2), as amended by Pub. L. 110–181, §1063(c)(2), which directed amendment of section 366(d) of Pub. L. 107–314, set out above, by substituting “within 90 days of receiving a report” for “within 60 days after receiving a report”, was executed by substituting “Within 90 days of receiving a report” for “Within 60 days after receiving a report” to reflect the probable intent of Congress.\]
 
 #### Development and Implementation of Financial Management Enterprise Architecture
 
@@ -2322,7 +2310,7 @@ Limitation on Inspector General Audits.—(1) On each financial statement that a
 
 &emsp;“(A) An estimate of the resources that the Inspector General is saving or expects to save as a result of actions taken and to be taken under paragraph (1) with respect to the auditing of financial statements.
 
-&emsp;“(B) A discussion of how the resources saved as estimated under subparagraph (A) have been redirected or are to be redirected from the auditing of financial statements to the oversight and improvement of systems underlying financial management within the Department of Defense and to the oversight and improvement of financial management policies, procedures, and internal controls within the Department of Defense.
+&emsp;“(B) A discussion of how the resources saved as estimated under subparagraph (A) have been redirectedor are to be redirected from the auditing of financial statements to the oversight and improvement of systems underlying financial management within the Department of Defense and to the oversight and improvement of financial management policies, procedures, and internal controls within the Department of Defense.
 
 “(e)
 
@@ -2686,7 +2674,7 @@ Report on Significant Sales and Transfers to China.—(1) The report to be submi
 
 \[“(1)
 
-In general.—The amendments made by this section \[amending section 1202 of Pub. L. 106–65, set out above, and provisions set out as a note under section 168 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 28, 2009\], and shall apply with respect to reports required to be submitted under subsection (a) of section 1202 of the National Defense Authorization Act for Fiscal Year 2000 \[Pub. L. 106–65, set out above\], as so amended, on or after that date.
+In general.—The amendments made by this section \[amending section 1202 of Pub. L. 106–65, set outabove, and provisions set out as a note under section 168 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 28, 2009\], and shall apply with respect to reports required to be submitted under subsection (a) of section 1202 of the National Defense Authorization Act for Fiscal Year 2000 \[Pub. L. 106–65, set out above\], as so amended, on or after that date.
 
 \[“(2)
 
@@ -2732,7 +2720,7 @@ Implementing Office.—If the Secretary of Defense makes the designation referre
 
 Pilot Program.—The pilot program referred to in subsection (a) is the defense reform initiative enterprise pilot program for military manpower and personnel information established pursuant to section 8147 of the Department of Defense Appropriations Act, 1999 (Public Law 105–262; 112 Stat. 2341; 10 U.S.C. 113 note).”
 
-Pub. L. 105–262, title VIII, §8147, Oct. 17, 1998, 112 Stat. 2341, provided that: “The Secretary of Defense shall establish, through a revised Defense Integrated Military Human Resources System (DIMHRS), a defense reform initiative enterprise pilot program for military manpower and personnel information: <i>Provided</i>, That this pilot program should include all functions and systems currently included in DIMHRS and shall be expanded to include all appropriate systems within the enterprise of personnel, manpower, training, and compensation: <i>Provided further</i>, That in establishing a revised DIMHRS enterprise program for manpower and personnel information superiority the functions of this program shall include, but not be limited to: (1) an analysis and determination of the number and kinds of information systems necessary to support manpower and personnel within the Department of Defense; and (2) the establishment of programs to develop and implement information systems in support of manpower and personnel to include an enterprise level strategic approach, performance and results based management, business process improvement and other non-material solutions, the use of commercial or government off-the-shelf technology, the use of modular contracting as defined by Public Law 104–106 \[see 41 U.S.C. 434\], and the integration and consolidation of existing manpower and personnel information systems: <i>Provided further</i>, That the Secretary of Defense shall re-instate fulfillment standards designated as ADS–97–03–GD, dated January, 1997: <i>Provided further</i>, That the requirements of this section should be implemented not later than 6 months after the date of the enactment of this Act \[Oct. 17, 1998\].”
+Pub. L. 105–262, title VIII, §8147, Oct. 17, 1998, 112 Stat. 2341, provided that: “The Secretary of Defense shall establish, through a revised Defense Integrated Military Human Resources System (DIMHRS), a defense reform initiative enterprise pilot program for military manpower and personnel information: <i>Provided</i>, That this pilot program should include all functions and systems currently included in DIMHRS and shall be expanded to include all appropriate systems within the enterprise of personnel, manpower, training, and compensation: <i>Provided further</i>, That in establishing a revised DIMHRS enterprise program for manpower and personnel information superiority the functions of this program shall include, but not be limited to: (1) an analysis and determination of the number and kinds of information systems necessary to support manpower and personnel within the Department of Defense; and (2) the establishment of programs to develop and implement information systems in support of manpower and personnel to include an enterprise level strategic approach, performance and results based management, business process improvement and other non-material solutions, the use of commercial or government off-the-shelf technology, the use of modular contracting as defined by Public Law 104–106 \[see 41 U.S.C. 2308\], and the integration and consolidation of existing manpower and personnel information systems: <i>Provided further</i>, That the Secretary of Defense shall re-instate fulfillment standards designated as ADS–97–03–GD, dated January, 1997: <i>Provided further</i>, That the requirements of this section should be implemented not later than 6 months after the date of the enactment of this Act \[Oct. 17, 1998\].”
 
 #### Oversight of Development and Implementation of Automated Identification Technology
 
@@ -2748,7 +2736,7 @@ Pilot Program Authorized.—The Secretary of each military department may carry 
 
 “(b)
 
-Landing Fee Defined.—In this section, the term ‘landing fee’ means any fee that is established under or in accordance with regulations of the military department concerned (whether prescribed in a fee schedule or imposed under a joint-use agreement) to recover costs incurred for use by civil aircraft of an airfield of the military department in the United States or in a territory or possession of the United States.
+Landing Fee Defined.—In this section, the term ‘landing fee’ means any fee that is established under or in accordance with regulations of the military department concerned (whether prescribed in a fee schedule or imposed under a joint-use agreement) to recovercosts incurred for use by civil aircraft of an airfield of the military department in the United States or in a territory or possession of the United States.
 
 “(c)
 
@@ -3138,66 +3126,6 @@ Definitions.—In this section:
 
 Section 830 of Pub. L. 104–201, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §808(c)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–394, provided that Secretary of Defense was to include in report submitted in 1997 under section 381(f) of Pub. L. 103–337 \[set out above\] a discussion of progress made in implementing div. E of Pub. L. 104–106 \[§§5001–5703, see Tables for classification\] and strategy for development or modernization of automated information systems for Department of Defense, and plans of Department of Defense for establishing an integrated framework for management of information resources within the Department, and provided further specifications of the elements to be included in the discussion.
 
-#### Department of Defense Policies and Procedures on Discrimination and Sexual Harassment
-
-Pub. L. 103–337, div. A, title V, §532, Oct. 5, 1994, 108 Stat. 2759, provided that:
-
-“(a)
-
-Report of Task Force.—(1) The Department of Defense Task Force on Discrimination and Sexual Harassment, constituted by the Secretary of Defense on March 15, 1994, shall transmit a report of its findings and recommendations to the Secretary of Defense not later than October 1, 1994.
-
-“(2) The Secretary shall transmit to Congress the report of the task force not later than October 10, 1994.
-
-“(b)
-
-Secretarial Review.—Not later than 45 days after receiving the report under subsection (a), the Secretary shall—
-
-&emsp;“(1) review the recommendations for action contained in the report;
-
-&emsp;“(2) determine which recommendations the Secretary approves for implementation and which recommendations the Secretary disapproves; and
-
-&emsp;“(3) submit to Congress a report that—
-
-&emsp;&emsp;“(A) identifies the approved recommendations and the disapproved recommendations; and
-
-&emsp;&emsp;“(B) explains the reasons for each such approval and disapproval.
-
-“(c)
-
-Comprehensive DOD Policy.—(1) Based on the approved recommendations of the task force and such other factors as the Secretary considers appropriate, the Secretary shall develop a comprehensive Department of Defense policy for processing complaints of sexual harassment and discrimination involving members of the Armed Forces under the jurisdiction of the Secretary.
-
-“(2) The Secretary shall issue policy guidance for the implementation of the comprehensive policy and shall require the Secretaries of the military departments to prescribe regulations to implement that policy not later than March 1, 1995.
-
-“(3) The Secretary shall ensure that the policy is implemented uniformly by the military departments insofar as practicable.
-
-“(4) Not later than March 31, 1995, the Secretary of Defense shall submit to Congress a proposal for any legislation necessary to enhance the capability of the Department of Defense to address the issues of unlawful discrimination and sexual harassment.
-
-“(d)
-
-Military Department Policies.—(1) The Secretary of the Navy and the Secretary of the Air Force shall review and revise the regulations of the Department of the Navy and the Department of the Air Force, respectively, relating to equal opportunity policy and procedures in that Department for the making of, and responding to, complaints of unlawful discrimination and sexual harassment in order to ensure that those regulations are substantially equivalent to the regulations of the Department of the Army on such matters.
-
-“(2) In revising regulations pursuant to paragraph (1), the Secretary of the Navy and the Secretary of the Air Force may make such additions and modifications as the Secretary of Defense determines appropriate to strengthen those regulations beyond the substantial equivalent of the Army regulations in accordance with—
-
-&emsp;“(A) the approved recommendations of the Department of Defense Task Force on Discrimination and Sexual Harassment; and
-
-&emsp;“(B) the experience of the Army, Navy, Air Force, and Marine Corps regarding equal opportunity cases.
-
-“(3) The Secretary of the Army shall review the regulations of the Department of the Army relating to equal opportunity policy and complaint procedures and revise the regulations as the Secretary of Defense considers appropriate to strengthen the regulations in accordance with the recommendations and experience described in subparagraphs (A) and (B) of paragraph (2).
-
-“(e)
-
-Report of Advisory Board.—(1) The Secretary of Defense shall direct the Advisory Board on the Investigative Capability of the Department of Defense, established by the Secretary of Defense in November 1993, to include in its report to the Secretary (scheduled to be transmitted to the Secretary during December 1994)—
-
-&emsp;“(A) the recommendations of the Advisory Board as to whether the current Department of Defense organizational structure is adequate to oversee all investigative matters related to unlawful discrimination, sexual harassment, and other misconduct related to the gender of the victim; and
-
-&emsp;“(B) recommendations as to whether additional data collection and reporting procedures are needed to enhance the ability of the Department of Defense to respond to unlawful discrimination, sexual harassment, and other misconduct related to the gender of the victim.
-
-“(2) The Secretary shall transmit to Congress the report of the Advisory Board not later than 15 days after receiving the report.
-
-“(f)
-
-Performance Evaluation Standards for Members of the Armed Forces.—The Secretary of Defense shall ensure that Department of Defense regulations governing consideration of equal opportunity matters in evaluations of the performance of members of the Armed Forces include provisions requiring as a factor in such evaluations consideration of a member's commitment to elimination of unlawful discrimination or of sexual harassment in the Armed Forces.”
-
 #### Annual Report on Personnel Readiness Factors by Race and Gender
 
 Section 533 of Pub. L. 103–337 provided that:
@@ -3264,7 +3192,7 @@ Interdisciplinary Councils.—(1) The Secretary of Defense shall establish a Dep
 
 “(d)
 
-Assistance.—(1) Under a victims’ advocates program established under subsection (a), individuals working in the program shall principally serve the interests of a victim by initiating action to provide (A) information on available benefits and services, (B) assistance in obtaining those benefits and services, and (C) other appropriate assistance.
+Assistance.—(1) Under a victims’ advocates program established under subsection (a), individuals working in the program shall principally serve the interests of a victim by initiating action to provide (A)information on available benefits and services, (B) assistance in obtaining those benefits and services, and (C) other appropriate assistance.
 
 “(2) Services under such a program in the case of an individual who is a victim of family violence (including intrafamilial sexual, physical, and emotional abuse) shall be provided principally through the family advocacy programs of the military departments.
 
@@ -3360,7 +3288,7 @@ Pub. L. 103–335, title VIII, §8137, Sept. 30, 1994, 108 Stat. 2654.
 
 #### Notice to Congress of Proposed Changes in Combat Assignments to Which Female Members May Be Assigned
 
-Pub. L. 103–160, div. A, title V, §542, Nov. 30, 1993, 107 Stat. 1659, as amended by Pub. L. 106–398, §1 \[\[div. A\], title V, §573(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–136; Pub. L. 107–107, div. A, title V, §591, Dec. 28, 2001, 115 Stat. 1125, which generally required the Secretary of Defense to transmit to the Committees on Armed Services of the Senate and House of Representatives notice of a proposed change in military personnel policies in order to make available to female members of the Armed Forces assignment to any type of combat unit, class of combat vessel, or type of combat platform that was not open to such assignments, and also required the Secretary to submit to Congress a report providing notice of certain proposed changes to the ground combat exclusion policy, was repealed and restated as section 652 of this title by Pub. L. 109–163, div. A, title V, §541(a)(1), (c), Jan. 6, 2006, 119 Stat. 3251, 3253.
+Pub. L. 103–160, div. A, title V, §542, Nov. 30, 1993, 107 Stat. 1659, as amended by Pub. L. 106–398, §1 \[\[div. A\], title V, §573(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–136; Pub. L. 107–107, div. A, title V, §591, Dec. 28, 2001, 115 Stat. 1125, which generally required the Secretary of Defense to transmit to the Committees on Armed Services of the Senate and House of Representatives notice of a proposed change in military personnel policies in order to make available to female members of the Armed Forces assignment to any type of combat unit,class of combat vessel, or type of combat platform that was not open to such assignments, and also required the Secretary to submit to Congress a report providing notice of certain proposed changes to the ground combat exclusion policy, was repealed and restated as section 652 of this title by Pub. L. 109–163, div. A, title V, §541(a)(1), (c), Jan. 6, 2006, 119 Stat. 3251, 3253.
 
 #### Gender-Neutral Occupational Performance Standards
 
@@ -3434,7 +3362,7 @@ Review Required.—The Secretary of Defense shall provide for a review of the pr
 
 “(b)
 
-Purpose.—The purpose of the review is to determine whether the practices and procedures referred to in subsection (a) should be modified to better protect the public safety while meeting training requirements of the Armed Forces.
+Purpose.—The purpose of the review is to determine whether the practices and procedures referred to in subsection (a) should be modified to better protectthe public safety while meeting training requirements of the Armed Forces.
 
 “(c)
 
@@ -3458,7 +3386,7 @@ Requirement.—The Secretary of each military department shall ensure that fatal
 
 &emsp;“(2)
 
-Information to be provided after notification of death.—Within a reasonable period of timeafter family members of a service member are notified of the member's death, but not more than 30 days after the date of notification, the Secretary concerned shall ensure that the family members—
+Information to be provided after notification of death.—Within a reasonable period of time after family members of a service member are notified of the member's death, but not more than 30 days after the date of notification, the Secretary concerned shall ensure that the family members—
 
 &emsp;&emsp;“(A) in any case in which the cause or circumstances surrounding the death are under investigation, are informed of that fact, of the names of the agencies within the Department of Defense conducting the investigations, and of the existence of any reports by such agencies that have been or will be issued as a result of the investigations; and
 
@@ -3556,7 +3484,7 @@ Pub. L. 102–484, div. A, title XIII, §1302, Oct. 23, 1992, 106 Stat. 2545, wh
 
 #### Reports on Overseas Basing
 
-Pub. L. 111–84, div. A, title X, §1063, Oct. 28, 2009, 123 Stat. 2469, provided that:
+Pub. L. 111–84, div. A, title X, §1063, Oct. 28, 2009, 123 Stat. 2469, as amended by Pub. L. 111–383, div. A, title X, §1075(d)(14), Jan. 7, 2011, 124 Stat. 4373, provided that:
 
 “(a)
 
@@ -3594,7 +3522,7 @@ Unit.—The term ‘unit’ has the meaning determined by the Secretary of Defen
 
 &emsp;“(2)
 
-Geographic combatant command.—For purposes of this section, the term ‘geographic combatant command’ means a combatant command with a geographic area of responsibility that does not include North America.”
+Geographic combatant command.—The term ‘geographic combatant command’ means a combatant command with a geographic area of responsibility that does not include North America.”
 
 Pub. L. 102–484, div. A, title XIII, §1304, Oct. 23, 1992, 106 Stat. 2546, as amended by Pub. L. 103–160, div. B, title XXIX, §2924(a), Nov. 30, 1993, 107 Stat. 1931; Pub. L. 104–106, div. A, title XV, §1502(c)(2)(A), Feb. 10, 1996, 110 Stat. 506, provided that:
 
@@ -3626,7 +3554,7 @@ Report on Budget Implications of Overseas Basing Agreements.—Whenever the Secr
 
 #### Commission on Assignment of Women in Armed Forces
 
-Sections 541–550 of Pub. L. 102–190 provided for the creation of a Commission on the Assignment of Women in the Armed Forces to assess the laws and policies restricting the assignment of female service members and the implications, if any, for the combat readinessof the Armed Forces of permitting female members to qualify for assignment to positions in some or all categories of combat positions, with a report to be submitted to the President no later than Nov. 15, 1992, and to the Congress no later than Dec. 15, 1992, containing recommendations as to what roles female members should have in combat and what laws and policies restricting such assignments should be repealed or modified, and further provided for powers and procedures of the Commission, personnel matters, payment of Commission expenses and other miscellaneous administrative provisions, termination of the Commission 90 days after submission of its final report, and test assignments of female service members to combat positions.
+Sections 541–550 of Pub. L. 102–190 provided for the creation of a Commission on the Assignment of Women in the Armed Forces to assess the laws and policies restricting the assignment of female service members and the implications, if any, for the combat readiness of the Armed Forces of permitting female members to qualify for assignment to positions in some or all categories of combat positions, with a report to be submitted to the President no later than Nov. 15, 1992, and to the Congress no later than Dec. 15, 1992, containing recommendations as to what roles female members should have in combat and what laws and policies restricting such assignments should be repealed or modified, and further provided for powers and procedures of the Commission, personnel matters, payment of Commission expenses and other miscellaneous administrative provisions, termination of the Commission 90 days after submission of its final report, and test assignments of female service members to combat positions.
 
 #### Requirements Relating to European Military Procurement Practices
 
@@ -3686,7 +3614,7 @@ Duties.—The center should be organized and provided with such personnel as nec
 
 #### Reports on Foreign Contributions and Costs of Operation Desert Storm
 
-Pub. L. 102–25, title IV, Apr. 6, 1991, 105 Stat. 99, directed Director of Office of Management and Budget to submit to Congress a number of reports on incremental costs associated with Operation Desert Storm and amounts of contributions made to United States by foreign countries to offset those costs, with a final report due not later than Nov. 15, 1992, and directed Secretary of State and Secretary of the Treasury to jointly submit to Congress a number of reports on contributions made by foreign countries as part of international response to Persian Gulf crisis, with a final report due not later than Nov. 15, 1992.
+Pub. L. 102–25, title IV, Apr. 6, 1991, 105 Stat. 99, directed Director of Office of Management and Budget to submit to Congress a number of reports on incrementalcosts associated with Operation Desert Storm and amounts of contributions made to United States by foreign countries to offset those costs, with a final report due not later than Nov. 15, 1992, and directed Secretary of State and Secretary of the Treasury to jointly submit to Congress a number of reports on contributions made by foreign countries as part of international response to Persian Gulf crisis, with a final report due not later than Nov. 15, 1992.
 
 #### Child Care Assistance to Families of Members Serving on Active Duty During Persian Gulf Conflict
 
@@ -3694,7 +3622,7 @@ Pub. L. 102–25, title VI, §601, Apr. 6, 1991, 105 Stat. 105, as amended by Pu
 
 #### Family Education and Support Services to Families of Members Serving on Active Duty in Operation Desert Storm
 
-Pub. L. 102–25, title VI, §602, Apr. 6, 1991, 105 Stat. 106, as amended by Pub. L. 102–190, div. A, title X, §1063(d)(2), Dec. 5, 1991, 105 Stat. 1476, authorized the Secretary of Defense to provide assistance to families of members of the Armed Forces and National Guard who had served on active duty during the Persian Gulfconflict in Operation Desert Storm in order to ensure that they would receive educational assistance and support services necessary to meet needs.
+Pub. L. 102–25, title VI, §602, Apr. 6, 1991, 105 Stat. 106, as amended by Pub. L. 102–190, div. A, title X, §1063(d)(2), Dec. 5, 1991, 105 Stat. 1476, authorized the Secretary of Defense to provide assistance to families of members of the Armed Forces and National Guard who had served on active duty during the Persian Gulf conflict in Operation Desert Storm in order to ensure that they would receive educational assistance and support services necessary to meet needs.
 
 #### Withholding of Payments to Indirect-Hire Civilian Personnel of Nonpaying Pledging Nations
 
@@ -3774,7 +3702,7 @@ Sense of Congress on Allied Burden Sharing.—(1) Congress recognizes that Japan
 
 “(d)
 
-Negotiations.—At the earliest possible date after the date of the enactment of this Act \[Nov. 5, 1990\], the President shall enter into negotiations with Japan for the purpose of achieving an agreement before September 30, 1991, under which Japan offsets all direct costs (other than pay and allowances for United States military and civilian personnel) incurred by the United States related to the presence of all United States military personnel stationed in Japan.
+Negotiations.—At the earliest possible date after the date of the enactment of this Act \[Nov. 5, 1990\], the President shall enter into negotiations with Japan for the purpose of achieving an agreement before September 30, 1991, under which Japan offsets all direct costs (other than pay and allowances for United Statesmilitary and civilian personnel) incurred by the United States related to the presence of all United States military personnel stationed in Japan.
 
 “(e)
 
@@ -3836,7 +3764,7 @@ Pub. L. 100–463, title VIII, §8125, Oct. 1, 1988, 102 Stat. 2270–41, as ame
 
 “(f) As of September 30 of each fiscal year, the number of members of the Armed Forces on active duty assigned to permanent duty ashore in Japan and the Republic of Korea may not exceed 94,450 (the number of members of the Armed Forces on active duty assigned to permanent duty ashore in Japan and the Republic of Korea on September 30, 1987). The limitation in the preceding sentence may be increased if and when (1) a major reduction of United States forces in the Republic of the Philippines is required because of a loss of basing rights in that nation, and (2) the President determines and certifies to Congress that, as a consequence of such loss, an increase in United States forces stationed in Japan and the Republic of Korea is necessary.
 
-“(g)(1) After fiscal year 1990, budget submissions to Congress under section 1105 of title 31, United States Code, shall identify funds requested for Department of Defense personnel and units in permanent duty stations ashore outside the United States that exceed the amount of such costs incurred in fiscal year 1989 and shall set forth a detailed description of (A) the types of expenditures increased, by appropriation account, activity and program; and (B) specific efforts to obtain allied host nations’ financing for these cost increases.
+“(g)(1) After fiscal year 1990, budget submissions to Congress under section 1105 of title 31, United States Code, shall identify funds requested for Department of Defense personnel and units in permanent duty stations ashore outside the United States that exceed the amount of such costs incurred in fiscal year 1989 and shall set forth a detailed description of (A) the types ofexpenditures increased, by appropriation account, activity and program; and (B) specific efforts to obtain allied host nations’ financing for these cost increases.
 
 “(2) The Secretary of Defense shall notify in advance the Committee on Appropriations and the Committee on Armed Services of the Senate and the Committee on Appropriations and the Committee on Armed Services of the House of Representatives, through existing notification procedures, when costs of maintaining Department of Defense personnel and units in permanent duty stations ashore outside the United States will exceed the amounts as defined in the Department of Defense budget as enacted for that fiscal year. Such notification shall describe: (A) the type of expenditures that increased; and (B) the source of funds (including prior year unobligated balances) by appropriation account, activity and program, proposed to finance these costs.
 
@@ -3894,7 +3822,7 @@ Pub. L. 99–433, title IV, §406(g), Oct. 1, 1986, 100 Stat. 1034, required tha
 
 #### Security at Military Bases Abroad
 
-Pub. L. 99–399, title XI, Aug. 27, 1986, 100 Stat. 894, directed the Secretary of Defense to report to Congress not later than June 30, 1987, on actions taken to review the security of each base and installation of the Department of Defense outside the United States, to improve the security of such bases and installations, and to institute a training program for members of the Armed Forces stationed outside the United States and their families concerning security and antiterrorism.
+Pub. L. 99–399, title XI, Aug. 27, 1986, 100 Stat. 894, directed the Secretary of Defense to report to Congressnot later than June 30, 1987, on actions taken to review the security of each base and installation of the Department of Defense outside the United States, to improve the security of such bases and installations, and to institute a training program for members of the Armed Forces stationed outside the United States and their families concerning security and antiterrorism.
 
 #### Surcharge for Sales by Animal Disease Prevention and Control Centers; Fee for Veterinary Services
 
@@ -3916,7 +3844,7 @@ Pub. L. 98–94, title X, §1033, Sept. 24, 1983, 97 Stat. 672, as amended by Pu
 
 #### Military Family Policy and Programs
 
-Pub. L. 99–145, title VIII, Nov. 8, 1985, 99 Stat. 678, as amended by Pub. L. 99–661, div. A, title VI, §653, Nov. 14, 1986, 100 Stat. 3890; Pub. L. 100–180, div. A, title VI, §635, Dec. 4, 1987, 101 Stat. 1106; Pub. L. 100–456, div. A, title V, §524, Sept. 29, 1988, 102 Stat. 1975, which provided that such title could be cited as the “MilitaryFamily Act of 1985”, and which related to Office of Family Policy, transfer of Military Family Resource Center, surveys of military families, family members serving on advisory committees, employment opportunities for military spouses, youth sponsorship program, dependent student travel within United States, relocation and housing, food programs, reporting of child abuse, miscellaneous reporting requirements, and effective date, was repealed and restated in subchapter I (§1781 et seq.) of chapter 88 of this title by Pub. L. 104–106, div. A, title V, §568(a)(1), (e)(1), Feb. 10, 1996, 110 Stat. 329, 336.
+Pub. L. 99–145, title VIII, Nov. 8, 1985, 99 Stat. 678, as amended by Pub. L. 99–661, div. A, title VI, §653, Nov. 14, 1986, 100 Stat. 3890; Pub. L. 100–180, div. A, title VI, §635, Dec. 4, 1987, 101 Stat. 1106; Pub. L. 100–456, div. A, title V, §524, Sept. 29, 1988, 102 Stat. 1975, which provided that such title could be cited as the “Military Family Act of 1985”, and which related to Office of Family Policy, transfer of Military Family Resource Center, surveys of military families, family members serving on advisory committees, employment opportunities for military spouses, youth sponsorship program, dependent student travel within United States, relocation and housing, food programs, reporting of child abuse, miscellaneous reporting requirements, and effective date, was repealed and restated in subchapter I (§1781 et seq.) of chapter 88 of this title by Pub. L. 104–106, div. A, title V, §568(a)(1), (e)(1), Feb. 10, 1996, 110 Stat. 329, 336.
 
 #### Academic Institutions Eligible To Provide Educational Services; Prohibition of Certain Restrictions
 
@@ -3960,7 +3888,7 @@ Pub. L. 99–145, title XII, §1212, Nov. 8, 1985, 99 Stat. 726, as amended by P
 
 #### Report of Unobligated Balances
 
-Pub. L. 99–145, title XIV, §1407, Nov. 8, 1985, 99 Stat. 745, required reports on unobligated balances, prior to repeal by Pub. L. 99–661, div. A, title XIII, §1307(b), Nov. 14, 1986, 100 Stat. 3981. See section 2215 of this title.
+Pub. L. 99–145, title XIV, §1407, Nov. 8, 1985, 99 Stat. 745, required reports on unobligated balances, prior torepeal by Pub. L. 99–661, div. A, title XIII, §1307(b), Nov. 14, 1986, 100 Stat. 3981. See section 2215 of this title.
 
 #### Defense Industrial Base for Textile and Apparel Products
 
@@ -3976,7 +3904,7 @@ Sec. 2. (a) The Secretary of Defense may use any funds available to the Departme
 
 “(b) Funds received from Russia as payment for such equipment and services shall be credited to the appropriate account of Department of Defense.”
 
-\[Pub. L. 103–199, title IV, §404(b), Dec. 17, 1993, 107 Stat. 2325, provided that: “The amendment made by subsection (a)(2) \[amending section 2(b) of Pub. L. 99–85,set out above\] does not affect the applicability of section 2(b) of that joint resolution to funds received from the Soviet Union.”\]
+\[Pub. L. 103–199, title IV, §404(b), Dec. 17, 1993, 107 Stat. 2325, provided that: “The amendment made by subsection (a)(2) \[amending section 2(b) of Pub. L. 99–85, set out above\] does not affect the applicability of section 2(b) of that joint resolution to funds received from the Soviet Union.”\]
 
 #### Consolidation of Functions of Military Transportation Commands Prohibited
 
@@ -4010,7 +3938,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. The Secretary of Defense is hereby designated and empowered, without the approval, ratification, or other action by the President, to exercise the authority vested in the President by section 749 of title 10 of the United States Code to assign the command without regard to rank in grade to any commissioned officer otherwise eligible to command when two or more commissioned officers of the same grade or corresponding grades are assigned to the same area, field command, or organization.
 
-Sec. 2. The Secretary of Defense is hereby designated and empowered, without the approval, ratification, or other action by the President, to exercise the authority vested in the President by section 7299a(a) of title 10 of the United States Code to direct that combatant vessels and escort vessels be constructed in a Navy or private yard, as the case may be, if the requirement of the Act of March 27, 1934 (ch. 95, 48 Stat. 503) that the first and each succeeding alternate vessel of the same class be constructed in a Navy yard is inconsistent with the public interest.
+Sec. 2. The Secretary of Defense is hereby designated and empowered, without the approval, ratification, or other action by the President, to exercise the authority vested in the President by section 7299a(a) of title 10 ofthe United States Code to direct that combatant vessels and escort vessels be constructed in a Navy or private yard, as the case may be, if the requirement of the Act of March 27, 1934 (ch. 95, 48 Stat. 503) that the first and each succeeding alternate vessel of the same class be constructed in a Navy yard is inconsistent with the public interest.
 
 Sec. 3. For vessels, and for any major component of the hull or superstructure of vessels to be constructed or repaired for any of the armed forces, the Secretary of Defense is hereby designated and empowered, without the approval, ratification, or other action by the President, to exercise the authority vested in the President by section 7309(b) of title 10 of the United States Code to authorize exceptions to the prohibition in section 7309(a) of title 10 of the United States Code. Such exceptions shall be based on a determination that it is in the national security interest of the United States to authorize an exception. The Secretary of Defense shall transmit notice of any such determination to the Congress, as required by section 7309(b).
 
@@ -4035,4 +3963,6 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Justification Pursuant to Section 8105(d)(2) of the Department of Defense Appropriations Act, 1991 (Public Law No. 101–511; 104 Stat. 1856)
 
 In January of this year the Department of Defense signed a new Host Nation Support Agreement with the Government of Japan in which that government agreed to pay all utility and Japanese labor costs incrementally over the next five years (worth $1.7 billion). Because United States forward deployed forces stationed in Japan have regional missions in addition to the defense of Japan, we did not seek to have the Government of Japan offset all of the direct costs incurred by the United States related to the presence of all United States military personnel in Japan (excluding military personnel title costs).
+
+<i><sup>1</sup></i><i> So in original.</i>
 

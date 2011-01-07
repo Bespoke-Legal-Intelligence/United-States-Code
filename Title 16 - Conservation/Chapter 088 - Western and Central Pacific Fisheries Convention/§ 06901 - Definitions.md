@@ -12,7 +12,7 @@ In this chapter:
 
 #### (3) Commission
 
-&emsp;The term “Commission” means the Commission for the Conservation and Management of Highly Migratory Fish Stocks in the Western and Central Pacific Ocean established in accordance with this Convention.
+&emsp;The term “Commission” means the Commission for the Conservation and Management ofHighly Migratory Fish Stocks in the Western and Central Pacific Ocean established in accordance with this Convention.
 
 #### (4) Convention area
 

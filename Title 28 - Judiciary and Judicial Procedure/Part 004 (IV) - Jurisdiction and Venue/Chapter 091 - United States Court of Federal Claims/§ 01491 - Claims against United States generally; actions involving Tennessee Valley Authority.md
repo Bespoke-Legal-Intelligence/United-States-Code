@@ -2,9 +2,9 @@
 
 (a)(1) The United States Court of Federal Claims shall have jurisdiction to render judgment upon any claim against the United States founded either upon the Constitution, or any Act of Congress or any regulation of an executive department, or upon any express or implied contract with the United States, or for liquidated or unliquidated damages in cases not sounding in tort. For the purpose of this paragraph, an express or implied contract with the Army and Air Force Exchange Service, Navy Exchanges, Marine Corps Exchanges, Coast Guard Exchanges, or Exchange Councils of the National Aeronautics and Space Administration shall be considered an express or implied contract with the United States.
 
-(2) To provide an entire remedy and to complete the relief afforded by the judgment, the court may, as an incident of and collateral to any such judgment, issue orders directing restoration to office or position, placement in appropriate duty or retirement status, and correction of applicable records, and such orders may be issued to any appropriate official of the United States. In any case within its jurisdiction, the court shall have the power to remand appropriate matters to any administrative or executive body or official with such direction as it may deem proper and just. The Court of Federal Claims shall have jurisdiction to render judgment upon any claim by or against, or dispute with, a contractor arising under section 10(a)(1) of the Contract Disputes Act of 1978, including a dispute concerning termination of a contract, rights in tangible or intangible property, compliance with cost accounting standards, and other nonmonetary disputes on which a decision of the contracting officer has been issued under section 6 of that Act.
+(2) To provide an entire remedy and to complete the relief afforded by the judgment, the court may, as an incident of and collateral to any such judgment, issue orders directing restoration to office or position, placement in appropriate duty or retirement status, and correction of applicable records, and such orders may be issued to any appropriate official of the United States. In any case within its jurisdiction, the court shall have the power to remand appropriate matters to any administrative or executive body or official with such direction as it may deem proper and just. The Court of Federal Claims shall have jurisdiction to render judgment upon any claim by or against, or dispute with, a contractor arising under section 7104(b)(1) of title 41, including a dispute concerning termination of a contract, rights in tangible or intangible property, compliance with cost accounting standards, and other nonmonetary disputes on which a decision of the contracting officer has been issued under section 6 <sup>1</sup> of that Act.
 
-(b)(1) Both the Unites <sup>1</sup> States Court of Federal Claims and the district courts of the United States shall have jurisdiction to render judgment on an action by an interested party objecting to a solicitation by a Federal agency for bids or proposals for a proposed contract or to a proposed award or the award of a contract or any alleged violation of statute or regulation in connection with a procurement or a proposed procurement. Both the United States Court of Federal Claims and the district courts of the United States shall have jurisdiction to entertain such an action without regard to whether suit is instituted before or after the contract is awarded.
+(b)(1) Both the Unites <sup>2</sup> States Court of Federal Claims and the district courts of the United States shall have jurisdiction to render judgment on an action by an interested party objecting to a solicitation by a Federal agency for bids or proposals for a proposed contract or to a proposed award or the award of a contract or any alleged violation of statute or regulation in connection with a procurement or a proposed procurement. Both the United States Court of Federal Claims and the district courts of the United States shall have jurisdiction to entertain such an action without regard to whether suit is instituted before or after the contract is awarded.
 
 (2) To afford relief in such an action, the courts may award any relief that the court considers proper, including declaratory and injunctive relief except that any monetary relief shall be limited to bid preparation and proposal costs.
 
@@ -16,7 +16,7 @@
 
 (c) Nothing herein shall be construed to give the United States Court of Federal Claims jurisdiction of any civil action within the exclusive jurisdiction of the Court of International Trade, or of any action against, or founded on conduct of, the Tennessee Valley Authority, or to amend or modify the provisions of the Tennessee Valley Authority Act of 1933 with respect to actions by or against the Authority.
 
-(June 25, 1948, ch. 646, 62 Stat. 940; July 28, 1953, ch. 253, §7, 67 Stat. 226; Sept. 3, 1954, ch. 1263, §44(a), (b), 68 Stat. 1241; Pub. L. 91–350, §1(b), July 23, 1970, 84 Stat. 449; Pub. L. 92–415, §1, Aug. 29, 1972, 86 Stat. 652; Pub. L. 95–563, §14(i), Nov. 1, 1978, 92 Stat. 2391; Pub. L. 96–417, title V, §509, Oct. 10, 1980, 94 Stat. 1743; Pub. L. 97–164, title I, §133(a), Apr. 2, 1982, 96 Stat. 39; Pub. L. 102–572, title IX, §§902(a), 907(b)(1), Oct. 29, 1992, 106 Stat. 4516, 4519; Pub. L. 104–320, §12(a), Oct. 19, 1996, 110 Stat. 3874; Pub. L. 110–161, div. D, title VII, §739(c)(2), Dec. 26, 2007, 121 Stat. 2031; Pub. L. 110–181, div. A, title III, §326(c), Jan. 28, 2008, 122 Stat. 63; Pub. L. 110–417, \[div. A\], title X, §1061(d), Oct. 14, 2008, 122 Stat. 4613.)
+(June 25, 1948, ch. 646, 62 Stat. 940; July 28, 1953, ch. 253, §7, 67 Stat. 226; Sept. 3, 1954, ch. 1263, §44(a), (b), 68 Stat. 1241; Pub. L. 91–350, §1(b), July 23, 1970, 84 Stat. 449; Pub. L. 92–415, §1, Aug. 29, 1972, 86 Stat. 652; Pub. L. 95–563, §14(i), Nov. 1, 1978, 92 Stat. 2391; Pub. L. 96–417, title V, §509, Oct. 10, 1980, 94 Stat. 1743; Pub. L. 97–164, title I, §133(a), Apr. 2, 1982, 96 Stat. 39; Pub. L. 102–572, title IX, §§902(a), 907(b)(1), Oct. 29, 1992, 106 Stat. 4516, 4519; Pub. L. 104–320, §12(a), Oct. 19, 1996, 110 Stat. 3874; Pub. L. 110–161, div. D, title VII, §739(c)(2), Dec. 26, 2007, 121 Stat. 2031; Pub. L. 110–181, div. A, title III, §326(c), Jan. 28, 2008, 122 Stat. 63; Pub. L. 110–417, \[div. A\], title X, §1061(d), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–350, §5(g)(7), Jan. 4, 2011, 124 Stat. 3848.)
 
 #### Historical and Revision Notes
 
@@ -36,23 +36,25 @@ Changes were made in phraseology.
 
 #### References in Text
 
-Sections 6 and 10(a)(1) of the Contract Disputes Act of 1978, referred to in subsec. (a)(2), are classified to sections 605 and 609(a)(1), respectively, of Title 41, Public Contracts.
+Section 6 of the Contract Disputes Act of 1978, referred to in subsec. (a)(2), was classified to section 605 of former Title 41, Public Contracts, and was repealed and restated as subsecs. (a) to (c)(1) and (d) to (h) of section 7103 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
 
-The Tennessee Valley Authority Act of 1933, referred to in subsec. (c), is act May 18, 1933, ch. 32, 48 Stat. 58, as amended, which is classified generally to chapter 12A (§831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 831 of Title 16 and Tables.
+The Tennessee Valley Authority Act of 1933, referred to in subsec. (c), is act May 18, 1933, ch. 32, 48 Stat. 58, which is classified generally to chapter 12A (§831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 831 of Title 16 and Tables.
 
 #### Amendments
 
-2008—Subsec. (b)(5). Pub. L. 110–417 struck out par. (5), as added by Pub. L. 110–161, which read as follows: “If a private sector interested party commences an action described in paragraph (1) in the case of a public-private competition conducted under Office of Management and Budget Circular A–76 regarding performance of an activity or function of a Federal agency, or a decision to convert a function performed by Federal employees to private sector performance without a competition under Office of Management and Budget Circular A–76, then an official or person described in section 3551(2)(B) of title 31 shall be entitled to intervene in that action.”
+<b>2011</b>—Subsec. (a)(2). Pub. L. 111–350 substituted “section 7104(b)(1) of title 41” for “section 10(a)(1) of the Contract Disputes Act of 1978”.
+
+<b>2008</b>—Subsec. (b)(5). Pub. L. 110–417 struck out par. (5), as added by Pub. L. 110–161, which read as follows: “If a private sector interested party commences an action described in paragraph (1) in the case of a public-private competition conducted under Office of Management and Budget Circular A–76 regarding performance of an activity or function of a Federal agency, or a decision to convert a function performed by Federal employees to private sector performance without a competition under Office of Management and Budget Circular A–76, then an official or person described in section 3551(2)(B) of title 31 shall be entitled to intervene in that action.”
 
 Pub. L. 110–181 added par. (5).
 
-2007—Subsec. (b)(5). Pub. L. 110–161 added par. (5).
+<b>2007</b>—Subsec. (b)(5). Pub. L. 110–161 added par. (5).
 
-1996—Subsec. (a)(3). Pub. L. 104–320, §12(a)(2), struck out par. (3) which read as follows: “To afford complete relief on any contract claim brought before the contract is awarded, the court shall have exclusive jurisdiction to grant declaratory judgments and such equitable and extraordinary relief as it deems proper, including but not limited to injunctive relief. In exercising this jurisdiction, the court shall give due regard to the interests of national defense and national security.”
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–320, §12(a)(2), struck out par. (3) which read as follows: “To afford complete relief on any contract claim brought before the contract is awarded, the court shall have exclusive jurisdiction to grant declaratory judgments and such equitable and extraordinary relief as it deems proper, including but not limited to injunctive relief. In exercising this jurisdiction, the court shall give due regard to the interests of national defense and national security.”
 
 Subsecs. (b), (c). Pub. L. 104–320, §12(a)(1), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1992—Subsec. (a)(1). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
 Subsec. (a)(2). Pub. L. 102–572, §907(b)(1), inserted before period at end “, including a dispute concerning termination of a contract, rights in tangible or intangible property, compliance with cost accounting standards, and other nonmonetary disputes on which a decision of the contracting officer has been issued under section 6 of that Act”.
 
@@ -60,7 +62,7 @@ Pub. L. 102–572, §902(a)(2), substituted “Court of Federal Claims” for �
 
 Subsec. (b). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Subsec. (a)(1). Pub. L. 97–164 designated first two sentences of existing first undesignated paragraph as subsec. (a)(1) and substituted “United States Claims Court” for “Court of Claims”.
+<b>1982</b>—Subsec. (a)(1). Pub. L. 97–164 designated first two sentences of existing first undesignated paragraph as subsec. (a)(1) and substituted “United States Claims Court” for “Court of Claims”.
 
 Subsec. (a)(2). Pub. L. 97–164 designated third, fourth, and fifth sentences of existing first undesignated paragraph as par. (2) and substituted “The Claims Court” for “The Court of Claims” and “arising under section 10(a)(1) of the Contract Disputes Act of 1978” for “arising under the Contract Disputes Act of 1978”.
 
@@ -68,17 +70,17 @@ Subsec. (a)(3). Pub. L. 97–164 added par. (3).
 
 Subsec. (b). Pub. L. 97–164 designated existing second undesignated paragraph as subsec. (b) and substituted “United States Claims Court” for “Court of Claims”, “conduct of, the Tennessee Valley Authority, or” for “actions of, the Tennessee Valley Authority, nor”, “Tennessee Valley Authority Act of 1933” for “Tennessee Valley Authority Act of 1933, as amended,”, and “actions by or against the Authority” for “suits by or against the Authority”.
 
-1980—Pub. L. 96–417 substituted “Court of Claims of any civil action within the exclusive jurisdiction of the Court of International Trade, or of any action” for “in suits” in second par.
+<b>1980</b>—Pub. L. 96–417 substituted “Court of Claims of any civil action within the exclusive jurisdiction of the Court of International Trade, or of any action” for “in suits” in second par.
 
-1978—Pub. L. 95–563 provided that the Court of Claims would have jurisdiction to render judgment upon any claim by or against, or dispute with, a contractor arising under the Contract Disputes Act of 1978.
+<b>1978</b>—Pub. L. 95–563 provided that the Court of Claims would have jurisdiction to render judgment upon any claim by or against, or dispute with, a contractor arising under the Contract Disputes Act of 1978.
 
-1972—Pub. L. 92–415 inserted provisions authorizing the court to issue orders directing restoration to office or position, placement in appropriate duty or retirement status and correction of applicable records and to issue such orders to any United States official and to remand appropriate matters to administrative and executive bodies with proper directions.
+<b>1972</b>—Pub. L. 92–415 inserted provisions authorizing the court to issue orders directing restoration to office or position, placement in appropriate duty or retirement status and correction of applicable records and to issue such orders to any United States official and to remand appropriate matters to administrative and executive bodies with proper directions.
 
-1970—Pub. L. 91–350 specified that the term “express or implied contracts with the United States” includes express or implied contracts with the Army and Air Force Exchange Service, Navy Exchanges, Marine Corps Exchanges, Coast Guard Exchanges, or Exchange Councils of the National Aeronautics and Space Administration.
+<b>1970</b>—Pub. L. 91–350 specified that the term “express or implied contracts with the United States” includes express or implied contracts with the Army and Air Force Exchange Service, Navy Exchanges, Marine Corps Exchanges, Coast Guard Exchanges, or Exchange Councils of the National Aeronautics and Space Administration.
 
-1954—Act Sept. 3, 1954, inserted “; actions involving Tennessee Valley Authority” in section catchline and altered the form of first par. to spell out the general jurisdiction of the Court in paragraph form rather than as clauses of the par.
+<b>1954</b>—Act Sept. 3, 1954, inserted “; actions involving Tennessee Valley Authority” in section catchline and altered the form of first par. to spell out the general jurisdiction of the Court in paragraph form rather than as clauses of the par.
 
-1953—Act July 28, 1953, substituted “United States Court of Claims” for “Court of Claims” near beginning of section, and inserted last par.
+<b>1953</b>—Act July 28, 1953, substituted “United States Court of Claims” for “Court of Claims” near beginning of section, and inserted last par.
 
 #### Effective Date of 2008 Amendment
 
@@ -86,7 +88,7 @@ Pub. L. 110–181, div. A, title III, §326(d), Jan. 28, 2008, 122 Stat. 63, pro
 
 &emsp;“(1) a protest or civil action that challenges final selection of the source of performance of an activity or function of a Federal agency that is made pursuant to a study initiated under Office of Management and Budget Circular A–76 on or after January 1, 2004; and
 
-&emsp;“(2) any other protest or civil action that relates to a public-private competition initiated under Office of Management and Budget Circular A–76, or to a decision to convert a function performed by Federal employees to private sector performance without a competition under Office of Management and Budget Circular A–76, on or after the date of the enactment of this Act \[Jan. 28, 2008\].”
+&emsp;“(2) any other protest or civil action that relates to a public-private competition initiated under Office ofManagement and Budget Circular A–76, or to a decision to convert a function performed by Federal employees to private sector performance without a competition under Office of Management and Budget Circular A–76, on or after the date of the enactment of this Act \[Jan. 28, 2008\].”
 
 #### Effective Date of 2007 Amendment
 
@@ -118,7 +120,7 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–563 effective with respect to contracts entered into 120 days after Nov. 1, 1978,and, at the election of the contractor, with respect to any claim pending at such time before the contracting officer or initiated thereafter, see section 16 of Pub. L. 95–563, set out as an Effective Date note under section 601 of Title 41, Public Contracts.
+Amendment by Pub. L. 95–563 effective with respect to contracts entered into 120 days after Nov. 1, 1978, and, at the election of the contractor, with respect to any claim pending at such time before the contracting officer or initiated thereafter, see section 16 of Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2391, formerly set out as an Effective Date note under section 601 of former Title 41, Public Contracts.
 
 #### Effective Date of 1972 Amendment
 
@@ -150,11 +152,13 @@ Section 12(d) of Pub. L. 104–320 provided that: “The jurisdiction of the dis
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
 
 #### Study on Concurrent Jurisdiction
 
 Pub. L. 104–320, §12(c), Oct. 19, 1996, 110 Stat. 3875, required that, no earlier than 2 years after Dec. 31, 1996, the General Accounting Office was to undertake a study regarding the concurrent jurisdiction of the district courts of the United States and the Court of Federal Claims over bid protests to determine whether concurrent jurisdiction was necessary, which study was to be completed no later than Dec. 31, 1999, and was to specifically consider the effect of any proposed change on the ability of small businesses to challenge violations of Federal procurement law.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “United”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “United”.</i>
 

@@ -64,11 +64,11 @@ The new subsection (e) is necessary to reflect the last 11 words of the second s
 
 #### Amendments
 
-1980—Subsec. (b). Pub. L. 96–513 substituted “Any citizen” for “Any male citizen”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–513 substituted “Any citizen” for “Any male citizen”.
 
 Subsec. (c). Pub. L. 96–513 substituted “Any enlisted member” for “Any male enlisted member”.
 
-1958—Subsec. (e). Pub. L. 85–861 added subsec. (e).
+<b>1958</b>—Subsec. (e). Pub. L. 85–861 added subsec. (e).
 
 #### Effective Date of 1980 Amendment
 

@@ -242,7 +242,7 @@ The date of the enactment of this section, referred to in subsec. (g)(6), is the
 
 #### Amendments
 
-2002—Subsec. (b)(3)(B). Pub. L. 107–273, §13206(a)(9)(A), substituted “paragraph” for “paragraphs”.
+<b>2002</b>—Subsec. (b)(3)(B). Pub. L. 107–273, §13206(a)(9)(A), substituted “paragraph” for “paragraphs”.
 
 Subsec. (d). Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
 
@@ -254,15 +254,15 @@ Subsec. (g)(6)(B)(iii). Pub. L. 107–273, §13206(a)(9)(C), substituted “subm
 
 Subsec. (h). Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
 
-1999—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title IV, §4404\], in introductory provisions, inserted “, which shall include any patent term adjustment granted under section 154(b),” after “the original expiration date of the patent”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title IV, §4404\], in introductory provisions, inserted “, which shall include any patent term adjustment granted under section 154(b),” after “the original expiration date of the patent”.
 
 Subsecs. (d), (e), (h). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, §13206(b)(1)(B), substituted “Director” for “Commissioner” wherever appearing.
 
-1997—Subsec. (f)(4)(B). Pub. L. 105–115, §125(b)(2)(P), struck out “507,” after “505,” in two places.
+<b>1997</b>—Subsec. (f)(4)(B). Pub. L. 105–115, §125(b)(2)(P), struck out “507,” after “505,” in two places.
 
-1994—Subsec. (a)(2). Pub. L. 103–465 inserted “under subsection (e)(1) of this section” after “extended”.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–465 inserted “under subsection (e)(1) of this section” after “extended”.
 
-1993—Subsec. (a)(1). Pub. L. 103–179, §6(1)(A), substituted “subsection (d)(1)” for “subsection (d)”.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–179, §6(1)(A), substituted “subsection (d)(1)” for “subsection (d)”.
 
 Subsec. (a)(3). Pub. L. 103–179, §6(1)(B), substituted “paragraphs (1) through (4) of subsection (d)” for “subsection (d)”.
 
@@ -278,7 +278,7 @@ Subsec. (e)(1). Pub. L. 103–179, §6(3)(A), substituted “paragraphs (1) thro
 
 Subsec. (e)(2). Pub. L. 103–179, §6(3)(B), substituted “subsection (d)(1)” for “subsection (d)”.
 
-1988—Subsec. (a)(5)(A). Pub. L. 100–670, §201(a)(1), inserted “or (C)” after “in subparagraph (B)”.
+<b>1988</b>—Subsec. (a)(5)(A). Pub. L. 100–670, §201(a)(1), inserted “or (C)” after “in subparagraph (B)”.
 
 Subsec. (a)(5)(C). Pub. L. 100–670, §201(a)(2), (3), added subpar. (C).
 

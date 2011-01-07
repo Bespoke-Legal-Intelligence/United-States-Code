@@ -16,13 +16,13 @@ The remedies provided for in this section shall be in addition to and not in lie
 
 #### Amendments
 
-1981—Subsec. (a). Pub. L. 97–35 substituted “section 2060(f) of this title” for “section 2059(e)(4) of this title”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 substituted “section 2060(f) of this title” for “section 2059(e)(4) of this title”.
 
-1980—Subsec. (a). Pub. L. 96–486, §3(a), struck out provision subjecting actions under this section to section 1331 of title 28 as to the amount in controversy and inserted proviso establishing minimum amount in controversy and excepting actions brought against the United States, or agencies, officers, or employees thereof.
+<b>1980</b>—Subsec. (a). Pub. L. 96–486, §3(a), struck out provision subjecting actions under this section to section 1331 of title 28 as to the amount in controversy and inserted proviso establishing minimum amount in controversy and excepting actions brought against the United States, or agencies, officers, or employees thereof.
 
 Subsecs. (b), (c). Pub. L. 96–486, §3(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1976—Subsec. (a). Pub. L. 94–284 substituted “shall” for “and shall” and provision permitting the court to award costs in the interest of justice for a prior provision which permitted the court to award costs in its discretion.
+<b>1976</b>—Subsec. (a). Pub. L. 94–284 substituted “shall” for “and shall” and provision permitting the court to award costs in the interest of justice for a prior provision which permitted the court to award costs in its discretion.
 
 #### Effective Date of 1981 Amendment
 

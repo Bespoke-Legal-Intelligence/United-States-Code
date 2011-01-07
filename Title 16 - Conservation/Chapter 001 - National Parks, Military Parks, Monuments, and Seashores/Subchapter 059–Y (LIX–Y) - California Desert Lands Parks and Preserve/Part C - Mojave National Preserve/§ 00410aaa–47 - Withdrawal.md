@@ -4,11 +4,3 @@ Subject to valid existing rights, all Federal lands within the preserve are here
 
 (Pub. L. 103–433, title V, §507, Oct. 31, 1994, 108 Stat. 4491.)
 
-#### References in Text
-
-The public land laws, referred to in text, are classified generally to Title 43, Public Lands.
-
-The United States mining laws and the mineral leasing laws, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
-
-Geothermal leasing laws, referred to in text, are classified principally to chapter 23 (§1001 et seq.) of Title 30.
-

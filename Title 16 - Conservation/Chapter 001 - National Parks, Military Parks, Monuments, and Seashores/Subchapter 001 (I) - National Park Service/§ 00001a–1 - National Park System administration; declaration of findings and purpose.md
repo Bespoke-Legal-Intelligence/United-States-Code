@@ -10,7 +10,7 @@ This Act, referred to in text, means Pub. L. 91–383, Aug. 18, 1970, 84 Stat. 8
 
 #### Amendments
 
-1978—Pub. L. 95–250 provided that the promotion and regulation of the various areas of the National Park System, as defined in section 1c of this title, be consistent with and founded in the purpose established by section 1 of this title, to the common benefit of all the people of the United States, and that the authorization of activities be construed and the protection, management, and administration of these areas be conducted in light of the high public value and integrity of the National Park System and not be exercised in derogation of the values and purposes for which these various areas have been established, except as may have been or shall be directly and specifically provided by Congress.
+<b>1978</b>—Pub. L. 95–250 provided that the promotion and regulation of the various areas of the National Park System, as defined in section 1c of this title, be consistent with and founded in the purpose established by section 1 of this title, to the common benefit of all the people of the United States, and that the authorization of activities be construed and the protection, management, and administration of these areas be conducted in light of the high public value and integrity of the National Park System and not be exercised in derogation of the values and purposes for which these various areas have been established, except as may have been or shall be directly and specifically provided by Congress.
 
 #### Special Events at National Mall
 

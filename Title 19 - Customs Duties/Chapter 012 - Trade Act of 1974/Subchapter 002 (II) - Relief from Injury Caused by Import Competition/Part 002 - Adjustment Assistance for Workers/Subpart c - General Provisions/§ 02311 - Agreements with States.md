@@ -18,7 +18,7 @@ Each agreement under this subpart shall—
 
 #### (d) Unemployment insurance
 
-Each agreement under this subpart shall provide that unemployment insurance otherwise payable to any adversely affected worker will not be denied or reduced for any week by reason of any right to payments under this part.
+Each agreement under this subpart shall provide that unemployment insurance otherwisepayable to any adversely affected worker will not be denied or reduced for any week by reason of any right to payments under this part.
 
 #### (e) Review
 
@@ -96,7 +96,7 @@ In order to promote the coordination of workforce investment activities in each 
 
 #### (1) In general
 
-&emsp;An agreement under this subpart shall provide that the State shall periodically redetermine that a worker receiving benefits underthis subpart who is not a citizen or national of the United States remains in a satisfactory immigration status. Once satisfactory immigration status has been initially verified through the immigration status verification system described in section 1320b–7(d) of title 42 for purposes of establishing a worker's eligibility for unemployment compensation, the State shall reverify the worker's immigration status if the documentation provided during initial verification will expire during the period in which that worker is potentially eligible to receive benefits under this subpart. The State shall conduct such redetermination in a timely manner, utilizing the immigration status verification system described in section 1320b–7(d) of title 42.
+&emsp;An agreement under this subpart shall provide that the State shall periodically redetermine that a worker receiving benefits under this subpart who is not a citizen or national of the United States remains in a satisfactory immigration status. Once satisfactory immigration status has been initially verified through the immigration status verification system described in section 1320b–7(d) of title 42 for purposes of establishing a worker's eligibility for unemployment compensation, the State shall reverify the worker's immigration status if the documentation provided during initial verification will expire during the period in which that worker is potentially eligible to receive benefits under this subpart. The State shall conduct such redetermination in a timely manner, utilizing the immigration status verification system described in section 1320b–7(d) of title 42.
 
 #### (2) Procedures
 
@@ -116,7 +116,7 @@ The Workforce Investment Act of 1998, referred to in subsec. (f), is Pub. L. 105
 
 #### Codification
 
-Section is comprised of subsecs. (a) to (k) of Pub. L. 93–618. Another subsec. (e) of section 239 of Pub. L. 93–618 amended section 3302 of Title 26, Internal Revenue Code.
+Section is comprised of subsecs. (a) to (k) of section 239 of Pub. L. 93–618. Another subsec. (e) of section 239 of Pub. L. 93–618 amended section 3302 of Title 26, Internal Revenue Code.
 
 Amendment by section 1852(b)(1) of Pub. L. 111–5, which directed the temporary redesignation of subsecs. (c) through (g) of section 239 of Pub. L. 93–618 as subsecs. (d) through (h), respectively, was executed by redesignating subsecs. (c) to (g) set out in this section and not redesignating the subsec. (e) that amended section 3302 of Title 26, Internal Revenue Code, to reflect the probable intent of Congress.
 
@@ -124,7 +124,7 @@ Amendment by section 1424(d)(1)(B) of Pub. L. 100–418, which directed amendmen
 
 #### Amendments
 
-2009—Subsec. (a)(1). Pub. L. 111–5, §§1852(a)(2), 1893, temporarily substituted “shall” for “will” in two places. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–5, §§1852(a)(2), 1893, temporarily substituted “shall” for “will” in two places. See Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (a)(2). Pub. L. 111–5, §§1852(a)(1), 1893, temporarily amended cl. (2) generally. Prior to amendment, cl. (2) read as follows: “where appropriate, but in accordance with subsection (f) of this section, will afford adversely affected workers testing, counseling, referral to training and job search programs, and placement services,”. See Effective and Termination Dates of 2009 Amendment note below.
 
@@ -144,13 +144,13 @@ Subsec. (h). Pub. L. 111–5, §§1852(b)(1), (d), 1893, temporarily redesignate
 
 Subsecs. (i) to (k). Pub. L. 111–5, §§1852(e), 1853, 1893, temporarily added subsecs. (i) to (k). See Effective and Termination Dates of 2009 Amendment note below.
 
-1998—Subsec. (e). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(11)(B)\], struck out “title III of the Job Training Partnership Act or” before “title I of the”.
+<b>1998</b>—Subsec. (e). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(11)(B)\], struck out “title III of the Job Training Partnership Act or” before “title I of the”.
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(14)(B)\], substituted “under title III of the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “under title III of the Job Training Partnership Act”.
 
 Subsec. (g). Pub. L. 105–220 added subsec. (g).
 
-1988—Subsec. (a)(3). Pub. L. 100–418, §1423(a)(4), amended cl. (3) generally. Prior to amendment, cl. (3) read as follows: “will make determinations and approvals regarding job search programs under sections 2291(c) and 2297(c) of this title, and”.
+<b>1988</b>—Subsec. (a)(3). Pub. L. 100–418, §1423(a)(4), amended cl. (3) generally. Prior to amendment, cl. (3) read as follows: “will make determinations and approvals regarding job search programs under sections 2291(c) and 2297(c) of this title, and”.
 
 Subsec. (e). Pub. L. 100–418, §1424(d)(1)(B), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Agreements entered into under this section may be made with one or more State or local agencies including—
 
@@ -164,23 +164,23 @@ Subsec. (e). Pub. L. 100–418, §1424(d)(1)(B), amended subsec. (e) generally. 
 
 Subsec. (f). Pub. L. 100–418, §1424(d)(2), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Each cooperating State agency shall, in carrying out subsection (a)(2) of this section—
 
-&emsp;“(1) advise each adversely affected worker to apply for training under section 2296(a) of this title at the time the worker makes application for trade readjustment allowances (but failure of the worker to doso may not be treated as cause for denial of those allowances), and
+&emsp;“(1) advise each adversely affected worker to apply for training under section 2296(a) of this title at the time the worker makes application for trade readjustment allowances (but failure of the worker to do so may not be treated as cause for denial of those allowances), and
 
 &emsp;“(2) within 60 days after application for training is made by the worker, interview the adversely affected worker regarding suitable training opportunities available to the worker under section 2296 of this title and review such opportunities with the worker.”
 
-1986—Subsec. (a). Pub. L. 99–272, §13004(c)(1), inserted “but in accordance with subsection (f) of this section,” in cl. (2).
+<b>1986</b>—Subsec. (a). Pub. L. 99–272, §13004(c)(1), inserted “but in accordance with subsection (f) of this section,” in cl. (2).
 
 Pub. L. 99–272, §13003(a)(3), substituted “training and job search programs” for “training” in cl. (2), added cl. (3), and redesignated former cl. (3) as (4).
 
 Subsecs. (e), (f). Pub. L. 99–272, §13004(c)(2), added subsecs. (e) and (f).
 
-1981—Subsec. (a). Pub. L. 97–35 struck out provisions respecting persons applying for payments under this part.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 struck out provisions respecting persons applying for payments under this part.
 
 #### Effective and Termination Dates of 2009 Amendment
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -200,7 +200,7 @@ Amendment by Pub. L. 97–35 effective Aug. 1981, with transition provisions app
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2010, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Feb. 12, 2011, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

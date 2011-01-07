@@ -15,7 +15,7 @@
 
 #### Amendments
 
-2009—Pub. L. 111–84, div. B, title XXVIII, §2844(b), Oct. 28, 2009, 123 Stat. 2682, added item 2922g.
+<b>2009</b>—Pub. L. 111–84, div. B, title XXVIII, §2844(b), Oct. 28, 2009, 123 Stat. 2682, added item 2922g.
 
 
 ---

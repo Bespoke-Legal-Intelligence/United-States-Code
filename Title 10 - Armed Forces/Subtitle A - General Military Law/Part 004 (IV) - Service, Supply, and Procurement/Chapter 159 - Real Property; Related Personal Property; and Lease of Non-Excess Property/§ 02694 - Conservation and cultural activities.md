@@ -40,7 +40,7 @@ Effect on Other Laws.—Nothing in this section shall be construed or interprete
 
 #### Amendments
 
-1997—Subsec. (b)(1)(D). Pub. L. 105–85 substituted “executive agency” for “executive ageny”.
+<b>1997</b>—Subsec. (b)(1)(D). Pub. L. 105–85 substituted “executive agency” for “executive ageny”.
 
 #### Effective Date
 

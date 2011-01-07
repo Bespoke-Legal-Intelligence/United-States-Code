@@ -62,11 +62,11 @@ The Secretary may take such steps as may be necessary to preserve and protect va
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–437, §6(i)(1), substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–437, §6(i)(1), substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
 Subsec. (h). Pub. L. 103–437, §6(i)(2), struck out subsec. (h) which directed Secretary, within two years from Aug. 18, 1978, to develop and transmit to Congressional committees, a general management plan for War in the Pacific National Historic Park, and to transmit within 5 years of Aug. 18, 1978, a study of additional sites associated with Pacific Campaign of World War II.
 
-1993—Subsec. (k). Pub. L. 103–197, §3(a), substituted “$8,000,000” for “$500,000”.
+<b>1993</b>—Subsec. (k). Pub. L. 103–197, §3(a), substituted “$8,000,000” for “$500,000”.
 
 Subsecs. (<i>l</i>) to (<i>o</i>). Pub. L. 103–197, §3(b), added subsecs. (<i>l</i>) to (<i>o</i>).
 
@@ -103,4 +103,8 @@ Section 1 of Pub. L. 103–197 provided that: “Congress finds that—
 #### Transfer of Excess Land to National Park Service
 
 Pub. L. 100–202, §101(g) \[title I\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–222, provided in part: “That any Federally-owned land in War in the Pacific National Historical Park that hereafter becomes excess to the needs of the administering agency shall be transferred to the jurisdiction of the National Park Service, without reimbursement, for purposes of the park.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “heroism”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “subsection”.</i>
 

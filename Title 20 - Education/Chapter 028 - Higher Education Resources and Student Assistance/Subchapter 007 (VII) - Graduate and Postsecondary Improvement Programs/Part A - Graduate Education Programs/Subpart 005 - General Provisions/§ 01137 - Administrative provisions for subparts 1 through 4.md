@@ -18,10 +18,6 @@ The Secretary shall evaluate the success of assistance provided to individuals u
 
 (Pub. L. 89–329, title VII, §731, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1795; amended Pub. L. 110–315, title VII, §§704(i), 706(a)(2), (3), Aug. 14, 2008, 122 Stat. 3348, 3349.)
 
-#### References in Text
-
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (b), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 #### Prior Provisions
 
 A prior section 1137, Pub. L. 89–329, title XI, §1121, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 788, related to purpose of innovative projects for community service program, prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998.
@@ -44,11 +40,13 @@ Section 1137b, Pub. L. 89–329, title XI, §1113, as added Pub. L. 99–498, ti
 
 #### Amendments
 
-2008—Pub. L. 110–315, §706(a)(2), substituted “subparts 1 through 4” for “subparts 1, 2, and 3” in section catchline.
+<b>2008</b>—Pub. L. 110–315, §706(a)(2), substituted “subparts 1 through 4” for “subparts 1, 2, and 3” in section catchline.
 
 Subsecs. (a), (b). Pub. L. 110–315, §706(a)(3)(A), substituted “subparts 1 through 4” for “subparts 1, 2, and 3”.
 
 Subsec. (d). Pub. L. 110–315, §706(a)(3)(B), substituted “subpart 1, 2, 3, or 4” for “subpart 1, 2, or 3”.
 
 Subsec. (e). Pub. L. 110–315, §704(i), struck out subsec. (e). Prior to amendment, text read as follows: “The Secretary, using funds appropriated to carry out subparts 1 and 2 of this part, and before awarding any assistance under such parts to a recipient that did not receive assistance under part C or D of title IX (as such parts were in effect prior to October 7, 1998) shall continue to provide funding to recipients of assistance under such part C or D (as so in effect), as the case may be, pursuant to any multiyear award of such assistance.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subparts”.</i>
 

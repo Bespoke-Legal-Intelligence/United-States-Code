@@ -8,7 +8,7 @@ Congress finds the following:
 
 &emsp;(2) Amounts in the Armed Forces Retirement Home Trust Fund, which consists primarily of deductions from the pay of members of the Armed Forces, are insufficient to both maintain and operate the Retirement Home for the benefit of the residents of the Retirement Home and adequately maintain, repair, and preserve these historic buildings and grounds.
 
-&emsp;(3) Other sources of funding are available to contribute to the maintenance, repair, and preservation of these historic buildings and grounds.
+&emsp;(3) Other sources of funding are available to contribute to the maintenance, repair, andpreservation of these historic buildings and grounds.
 
 #### (b) Authority to accept assistance
 
@@ -22,7 +22,7 @@ Amounts received as a grant under subsection (b) of this section shall be deposi
 
 #### Amendments
 
-2001—Pub. L. 107–107, §1410(a)(4)(B), amended section catchline generally, substituting “the Armed Forces Retirement Home—Washington” for “United States Soldiers’ and Airmen's Home”.
+<b>2001</b>—Pub. L. 107–107, §1410(a)(4)(B), amended section catchline generally, substituting “the Armed Forces Retirement Home—Washington” for “United States Soldiers’ and Airmen's Home”.
 
 Subsec. (a)(1). Pub. L. 107–107, §1410(a)(4)(A), substituted “Armed Forces Retirement Home—Washington” for “United States Soldiers’ and Airmen's Home”.
 

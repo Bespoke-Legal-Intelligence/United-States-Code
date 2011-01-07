@@ -8,7 +8,7 @@
 
 (2) The authority of the Secretary to enter into contracts under this subsection shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1142, §611; Pub. L. 94–581, title II, §§202(e), 210(a)(2), Oct. 21,1976, 90 Stat. 2856, 2862; Pub. L. 96–22, title II, §202, June 13, 1979, 93 Stat. 54; Pub. L. 96–128, title V, §501(a), Nov. 28, 1979, 93 Stat. 987; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1711 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–135, title II, §208(d), Jan. 23, 2002, 115 Stat. 2463.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1142, §611; Pub. L. 94–581, title II, §§202(e), 210(a)(2), Oct. 21, 1976, 90 Stat. 2856, 2862; Pub. L. 96–22, title II, §202, June 13, 1979, 93 Stat. 54; Pub. L. 96–128, title V, §501(a), Nov. 28, 1979, 93 Stat. 987; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1711 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–135, title II, §208(d), Jan. 23, 2002, 115 Stat. 2463.)
 
 #### Prior Provisions
 
@@ -16,19 +16,19 @@ Prior section 1711 was renumbered section 3511 of this title.
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–135 struck out subsec. (b) which read as follows: “The Secretary may furnish hospital care or medical services as a humanitarian service in emergency cases, but the Secretary shall charge for such care at rates prescribed by the Secretary.”
+<b>2002</b>—Subsec. (b). Pub. L. 107–135 struck out subsec. (b) which read as follows: “The Secretary may furnish hospital care or medical services as a humanitarian service in emergency cases, but the Secretary shall charge for such care at rates prescribed by the Secretary.”
 
-1991—Pub. L. 102–83, §5(a), renumbered section 611 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 611 of this title as this section.
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
 Subsec. (c)(1). Pub. L. 102–40 substituted “5902” for “3402”.
 
-1979—Subsec. (c). Pub. L. 96–22 added subsec. (c).
+<b>1979</b>—Subsec. (c). Pub. L. 96–22 added subsec. (c).
 
 Subsec. (c)(1). Pub. L. 96–128 substituted “named in, or approved by the Administrator under,” for “recognized by the Administrator for the purposes of”.
 
-1976—Pub. L. 94–581, §202(e)(1), substituted “Care” for “Hospitalization” in section catchline.
+<b>1976</b>—Pub. L. 94–581, §202(e)(1), substituted “Care” for “Hospitalization” in section catchline.
 
 Subsec. (a). Pub. L. 94–581, §210(a)(2)(A), substituted “administered by the Administrator” for “administered by him”.
 

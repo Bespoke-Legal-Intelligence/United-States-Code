@@ -8,7 +8,7 @@
 
 #### (2) Separate records not required
 
-&emsp;Nothing in this section shall be construed as requiring the tribe to maintain separaterecords tracing any services or activities conducted under its approved plan to the individual programs under which funds were authorized, nor shall the tribe be required to allocate expenditures among such individual programs.
+&emsp;Nothing in this section shall be construed as requiring the tribe to maintain separate records tracing any services or activities conducted under its approved plan to the individual programs under which funds were authorized, nor shall the tribe be required to allocate expenditures among such individual programs.
 
 #### (b) Overage
 

@@ -38,7 +38,7 @@ Moneys heretofore or hereafter appropriated shall be used only for the purposes 
 
 #### (d) Audit of financial transactions by Comptroller General; report to Congress
 
-Notwithstanding the provisions of sections 9105 and 9106 of title 31, the financial transactions of the Administrator shall be audited by the Comptroller General at such times and to such extent as the Comptroller General deems necessary, and reports of the results of each such audit shall be made to the Congress within 61/2 months following the end of the fiscal year covered by the audit.
+Notwithstanding the provisions of sections 9105 and 9106 of title 31, the financial transactions of the Administrator shall be audited by the Comptroller General at such times and to such extent as the Comptroller General deems necessary, and reports of the results of each such audit shall be made to the Congress within 6½ months following the end of the fiscal year covered by the audit.
 
 (Pub. L. 93–454, §11, Oct. 18, 1974, 88 Stat. 1378; Pub. L. 95–91, title III, §302(a)(1)(D), Aug. 4, 1977, 91 Stat. 578; Pub. L. 96–501, §8(a), (b), Dec. 5, 1980, 94 Stat. 2728.)
 
@@ -58,7 +58,7 @@ In subsec. (d), “sections 9105 and 9106 of title 31” substituted for “sect
 
 #### Amendments
 
-1980—Subsec. (b)(6)(iv). Pub. L. 96–501, §8(a), added cl. (iv).
+<b>1980</b>—Subsec. (b)(6)(iv). Pub. L. 96–501, §8(a), added cl. (iv).
 
 Subsec. (b)(12). Pub. L. 96–501, §8(b), added par. (12).
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 96–501 effective Dec. 5, 1980, see section 11 of Pub. L. 
 
 #### Transfer of Functions
 
-“Secretary of Energy” substituted for “Secretary of the Interior” in subsec. (a) and “Department of Energy” substituted for “Department of Interior” in subsec. (b)(11) pursuant to Pub. L. 95–91, §302(a)(1)(D), which is classified to section 7152(a)(1)(D) of Title 42, The Public Health and Welfare.
+“Secretary of Energy” substituted for “Secretary of the Interior” in subsec. (a) and “Department of Energy” substituted for “Department of Interior” in subsec. (b)(11) pursuant to Pub. L. 95–91, §302(a)(1)(D),which is classified to section 7152(a)(1)(D) of Title 42, The Public Health and Welfare.
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 

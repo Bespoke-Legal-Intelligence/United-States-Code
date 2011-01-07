@@ -54,7 +54,7 @@ If gain from the sale of any property is not recognized by reason of subsection 
 
 #### Amendments
 
-2006—Subsec. (b)(1)(A). Pub. L. 109–432, §418(a)(1)(A), inserted “, or a judicial officer,” after “executive branch”.
+<b>2006</b>—Subsec. (b)(1)(A). Pub. L. 109–432, §418(a)(1)(A), inserted “, or a judicial officer,” after “executive branch”.
 
 Subsec. (b)(1)(B), (2)(A). Pub. L. 109–432, §418(a)(1)(B), (2)(A), inserted “judicial canon,” after “rule,”.
 
@@ -64,7 +64,7 @@ Subsec. (b)(5)(B). Pub. L. 109–432, §418(a)(3), inserted “judicial canon,�
 
 Subsec. (b)(6). Pub. L. 109–432, §418(b), added par. (6).
 
-1990—Subsec. (a). Pub. L. 101–508 substituted “to the extent not previously taken into account under this subsection” for “reduced by any basis adjustment under subsection (c) attributable to a prior sale”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508 substituted “to the extent not previously taken into account under this subsection” for “reduced by any basis adjustment under subsection (c) attributable to a prior sale”.
 
 Subsec. (b)(5). Pub. L. 101–280 added par. (5).
 

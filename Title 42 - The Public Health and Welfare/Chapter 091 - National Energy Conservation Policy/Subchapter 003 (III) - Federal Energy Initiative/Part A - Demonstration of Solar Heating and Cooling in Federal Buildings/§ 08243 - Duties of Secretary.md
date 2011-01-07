@@ -36,5 +36,5 @@ In order to more widely disseminate information about the program under this par
 
 #### Amendments
 
-1989—Subsec. (d). Pub. L. 101–218 added subsec. (d).
+<b>1989</b>—Subsec. (d). Pub. L. 101–218 added subsec. (d).
 

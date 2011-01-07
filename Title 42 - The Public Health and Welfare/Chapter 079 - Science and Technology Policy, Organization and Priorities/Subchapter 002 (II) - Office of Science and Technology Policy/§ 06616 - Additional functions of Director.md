@@ -20,9 +20,13 @@ In carrying out his functions under this chapter, the Director is authorized to�
 
 &emsp;(2) obtain services as authorized by section 3109 of title 5 at rates not to exceed the rate prescribed for grade GS–18 of the General Schedule by section 5332 of title 5; and
 
-&emsp;(3) enter into contracts and other arrangements for studies, analyses, and other services with public agencies and with private persons, organizations, or institutions, and make such payments as he deems necessary to carry out the provisions of this chapter without legal consideration, without performance bonds, and without regard to section 5 of title 41.
+&emsp;(3) enter into contracts and other arrangements for studies, analyses, and other services with public agencies and with private persons, organizations, or institutions, and make such payments as he deems necessary to carry out the provisions of this chapter without legal consideration, without performance bonds, and without regard to section 6101 of title 41.
 
 (Pub. L. 94–282, title II, §207, May 11, 1976, 90 Stat. 466.)
+
+#### Codification
+
+In subsec. (c)(3), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Abolition of the Federal Coordinating Council for Science, Engineering, and Technology; Transfer of Functions
 

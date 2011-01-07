@@ -6,5 +6,5 @@ For the purposes of this subchapter, the term “marine science” shall be deem
 
 #### Amendments
 
-1966—Pub. L. 89–688 substituted “this title” for “this Act”, which, for purposes of codification, has been changed to “this subchapter”.
+<b>1966</b>—Pub. L. 89–688 substituted “this title” for “this Act”, which, for purposes of codification, has been changed to “this subchapter”.
 

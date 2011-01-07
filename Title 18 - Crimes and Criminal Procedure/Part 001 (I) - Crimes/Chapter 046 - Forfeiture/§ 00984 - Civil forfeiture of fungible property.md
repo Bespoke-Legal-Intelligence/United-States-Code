@@ -18,7 +18,7 @@
 
 &emsp;(B) the term “interbank account” means an account held by one financial institution at another financial institution primarily for the purpose of facilitating customer transactions.
 
-(d) Nothing in this section may be construed to limit the ability of the Government to forfeit property under any provision of law if the property involved in the offense giving rise to the forfeiture or property traceable thereto is available for forfeiture.
+(d) Nothing in this section may be construed to limit the ability of the Government to forfeit property under any provision of law if the property involved in the offense giving rise to theforfeiture or property traceable thereto is available for forfeiture.
 
 (Added Pub. L. 102–550, title XV, §1522(a), Oct. 28, 1992, 106 Stat. 4063; amended Pub. L. 103–325, title IV, §411(c)(2)(E), Sept. 23, 1994, 108 Stat. 2253; Pub. L. 106–185, §13(a), Apr. 25, 2000, 114 Stat. 218.)
 
@@ -28,7 +28,7 @@ Section 1(b)(7) of the International Banking Act of 1978, referred to in subsec.
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–185, §13(a)(1), (2), redesignated subsec. (b) as (a), substituted “or precious metals” for “or other fungible property” in introductory provisions of par. (1) and “subsection (b)” for “subsection (c)” in par. (2), and struck out former subsec. (a) which read as follows: “This section shall apply to any action for forfeiture brought by the Government in connection with any offense under section 1956, 1957, or 1960 of this title or section 5322 or 5324 of title 31, United States Code.”
+<b>2000</b>—Subsec. (a). Pub. L. 106–185, §13(a)(1), (2), redesignated subsec. (b) as (a), substituted “or precious metals” for “or other fungible property” in introductory provisions of par. (1) and “subsection (b)” for “subsection (c)” in par. (2), and struck out former subsec. (a) which read as follows: “This section shall apply to any action for forfeiture brought by the Government in connection with any offense under section 1956, 1957, or 1960 of this title or section 5322 or 5324 of title 31, United States Code.”
 
 Subsec. (b). Pub. L. 106–185, §13(a)(1), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
 
@@ -40,7 +40,7 @@ Subsec. (c)(2). Pub. L. 106–185, §13(a)(3)(B), substituted “In this subsect
 
 Subsec. (d). Pub. L. 106–185, §13(a)(4), added subsec. (d). Former subsec. (d) redesignated (c).
 
-1994—Subsec. (a). Pub. L. 103–325 substituted “section 5322 or 5324 of title 31” for “section 5322 of title 31”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–325 substituted “section 5322 or 5324 of title 31” for “section 5322 of title 31”.
 
 #### Effective Date of 2000 Amendment
 

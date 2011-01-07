@@ -8,7 +8,7 @@ As used in this chapter, the term—
 
 &emsp;(c) “geothermal resources” means (i) all products of geothermal processes, embracing indigenous steam, hot water and hot brines; (ii) steam and other gases, hot water and hot brines resulting from water, gas, or other fluids artificially introduced into geothermal formations; (iii) heat or other associated energy found in geothermal formations; and (iv) any byproduct derived from them;
 
-&emsp;(d) “byproduct” means any mineral or minerals (exclusive of oil, hydrocarbon gas, andhelium) which are found in solution or in association with geothermal steam and which have a value of less than 75 per centum of the value of the geothermal steam or are not, because of quantity, quality, or technical difficulties in extraction and production, of sufficient value to warrant extraction and production by themselves;
+&emsp;(d) “byproduct” means any mineral or minerals (exclusive of oil, hydrocarbon gas, and helium) which are found in solution or in association with geothermal steam and which have a value of less than 75 per centum of the value of the geothermal steam or are not, because of quantity, quality, or technical difficulties in extraction and production, of sufficient value to warrant extraction and production by themselves;
 
 &emsp;(e) “known geothermal resources area” means an area in which the geology, nearby discoveries, competitive interests, or other indicia would, in the opinion of the Secretary, engender a belief in men who are experienced in the subject matter that the prospects for extraction of geothermal steam or associated geothermal resources are good enough to warrant expenditures of money for that purpose.
 
@@ -28,13 +28,13 @@ As used in this chapter, the term—
 
 #### Amendments
 
-2005—Pub. L. 109–58, §236(5), inserted section catchline.
+<b>2005</b>—Pub. L. 109–58, §236(5), inserted section catchline.
 
 Par. (c). Pub. L. 109–58, §236(1), substituted “geothermal resources” for “geothermal steam and associated geothermal resources”.
 
 Par. (g). Pub. L. 109–58, §236(2), added par. (g).
 
-1988—Par. (f). Pub. L. 100–443 added par. (f).
+<b>1988</b>—Par. (f). Pub. L. 100–443 added par. (f).
 
 #### Short Title of 2005 Amendment
 

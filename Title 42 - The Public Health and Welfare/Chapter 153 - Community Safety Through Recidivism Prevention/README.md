@@ -40,7 +40,7 @@
 
 #### Part C—Administration of Justice Reforms
 
-I74subpart 1—improving federal offender reentry
+#### subpart 1—improving federal offender reentry
 
 |  |  |
 | :--- | ---: |
@@ -59,8 +59,6 @@ I74subpart 1—improving federal offender reentry
 | [17555\.](Subchapter%20002%20%28II%29%20-%20Enhanced%20Drug%20Treatment%20and%20Mentoring%20Grant%20Programs/Part%20C%20-%20Administration%20of%20Justice%20Reforms/Subpart%20002%20-%20Reentry%20Research/%C2%A7%2017555%20-%20Authorization%20of%20appropriations%20for%20research.md) | Authorization of appropriations for research. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 
 ---

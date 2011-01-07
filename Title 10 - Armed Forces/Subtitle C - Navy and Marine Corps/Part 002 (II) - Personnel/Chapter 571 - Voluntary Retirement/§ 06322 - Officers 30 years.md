@@ -40,9 +40,9 @@ In subsection (c) the words “is entitled to retired pay at the rate of 75 perc
 
 #### Amendments
 
-1986—Subsec. (c). Pub. L. 99–348 struck out subsec. (c) which provided that each officer retired under this section be entitled to retired pay, in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, at the rate of 75 percent of the highest basic pay of the grade in which retired, and in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, at the rate of 75 percent of the monthly retired pay base computed under section 1407(d).
+<b>1986</b>—Subsec. (c). Pub. L. 99–348 struck out subsec. (c) which provided that each officer retired under this section be entitled to retired pay, in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, at the rate of 75 percent of the highest basic pay of the grade in which retired, and in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, at the rate of 75 percent of the monthly retired pay base computed under section 1407(d).
 
-1980—Subsec. (c). Pub. L. 96–513 substituted “September 8, 1980” for “the date of the enactment of the Department of Defense Authorization Act, 1981” wherever appearing.
+<b>1980</b>—Subsec. (c). Pub. L. 96–513 substituted “September 8, 1980” for “the date of the enactment of the Department of Defense Authorization Act, 1981” wherever appearing.
 
 Pub. L. 96–342 designated existing provisions as par. (1), inserted provision limiting applicability to officers who became members of the uniformed services before the date of the enactment of the Department of Defense Authorization Act, 1981, and added par. (2).
 

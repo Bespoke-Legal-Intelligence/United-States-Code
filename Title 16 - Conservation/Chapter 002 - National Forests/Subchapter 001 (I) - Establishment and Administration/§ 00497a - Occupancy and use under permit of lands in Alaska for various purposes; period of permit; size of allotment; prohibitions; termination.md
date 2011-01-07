@@ -4,12 +4,6 @@ The Secretary of Agriculture, in conformity with regulations prescribed by him, 
 
 (Mar. 30, 1948, ch. 162, 62 Stat. 100.)
 
-#### References in Text
-
-The public land laws, referred to in text, are classified generally to Title 43, Public Lands.
-
-The mining laws and the mineral leasing laws, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
-
 #### Codification
 
 Section was formerly classified to section 341 of Title 48, Territories and Insular Possessions.

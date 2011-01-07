@@ -184,13 +184,13 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-2001—Subsec. (b)(10)(A). Pub. L. 107–16, §§532(c)(6), 901, temporarily struck out “2011,” before “2014,” and inserted “2058,” after “2056,”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (b)(10)(A). Pub. L. 107–16, §§532(c)(6), 901, temporarily struck out “2011,” before “2014,” and inserted “2058,” after “2056,”. See Effective and Termination Dates of 2001 Amendment note below.
 
-1997—Subsec. (a)(1)(A). Pub. L. 105–34, §1314(a), inserted “except as provided in regulations prescribed by the Secretary,” before “requires”.
+<b>1997</b>—Subsec. (a)(1)(A). Pub. L. 105–34, §1314(a), inserted “except as provided in regulations prescribed by the Secretary,” before “requires”.
 
 Subsec. (c)(3). Pub. L. 105–34, §1312(a), added par. (3).
 
-1990—Subsec. (a)(1). Pub. L. 101–508, §11702(g)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the trust instrument requires that at least 1 trustee of the trust be an individual citizen of the United States or a domestic corporation and that no distribution from the trust may be made without the approval of such a trustee,”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–508, §11702(g)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the trust instrument requires that at least 1 trustee of the trust be an individual citizen of the United States or a domestic corporation and that no distribution from the trust may be made without the approval of such a trustee,”.
 
 Subsec. (b)(2)(B)(ii). Pub. L. 101–508, §11704(a)(15), substituted “therefor” for “therefore” in concluding provisions.
 
@@ -200,7 +200,7 @@ Subsec. (b)(14), (15). Pub. L. 101–508, §11702(g)(2)(B), added pars. (14) and
 
 Subsec. (d). Pub. L. 101–508, §11702(g)(3)(A), inserted at end “No election may be made under this section on any return if such return is filed more than one year after the time prescribed by law (including extensions) for filing such return.”
 
-1989—Subsec. (a)(1). Pub. L. 101–239, §7815(d)(7)(A)(i), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the trust instrument requires that all trustees of the trust be individual citizens of the United States or domestic corporations,”.
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–239, §7815(d)(7)(A)(i), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the trust instrument requires that all trustees of the trust be individual citizens of the United States or domestic corporations,”.
 
 Subsec. (a)(2) to (4). Pub. L. 101–239, §7815(d)(7)(A)(ii), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “the surviving spouse of the decedent is entitled to all the income from the property in such trust, payable annually or at more frequent intervals,”.
 
@@ -232,7 +232,7 @@ Subsec. (e). Pub. L. 101–239, §7815(d)(13), added subsec. (e).
 
 Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 

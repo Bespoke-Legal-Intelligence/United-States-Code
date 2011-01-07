@@ -22,9 +22,9 @@
 
 (g) As used in this section:
 
-&emsp;(1) The term “Federal facility” means a building or part thereof owned or leased by the Federal Government, where Federal employeesare regularly present for the purpose of performing their official duties.
+&emsp;(1) The term “Federal facility” means a building or part thereof owned or leased by the Federal Government, where Federal employees are regularly present for the purpose of performing their official duties.
 
-&emsp;(2) The term “dangerous weapon” means a weapon, device, instrument, material, or substance, animate or inanimate, that is used for, or is readily capable of, causing death or serious bodily injury, except that such term does not include a pocket knife with a blade of less than 21/2 inches in length.
+&emsp;(2) The term “dangerous weapon” means a weapon, device, instrument, material, or substance, animate or inanimate, that is used for, or is readily capable of, causing death or serious bodily injury, except that such term does not include a pocket knife with a blade of less than 2½ inches in length.
 
 &emsp;(3) The term “Federal court facility” means the courtroom, judges’ chambers, witness rooms, jury deliberation rooms, attorney conference rooms, prisoner holding cells, offices of the court clerks, the United States attorney, and the United States marshal, probation and parole offices, and adjoining corridors of any court of the United States.
 
@@ -34,11 +34,11 @@
 
 #### Amendments
 
-2008—Subsec. (e)(1). Pub. L. 110–177 inserted “or other dangerous weapon” after “firearm”.
+<b>2008</b>—Subsec. (e)(1). Pub. L. 110–177 inserted “or other dangerous weapon” after “firearm”.
 
-2001—Subsec. (c). Pub. L. 107–56 struck out “or attempts to kill” after “A person who kills”, inserted “or attempts or conspires to do such an act,” before “shall be punished”, and substituted “1113, and 1117” for “and 1113”.
+<b>2001</b>—Subsec. (c). Pub. L. 107–56 struck out “or attempts to kill” after “A person who kills”, inserted “or attempts or conspires to do such an act,” before “shall be punished”, and substituted “1113, and 1117” for “and 1113”.
 
-1996—Subsec. (e)(2). Pub. L. 104–294, §603(t), substituted “subsection (d)” for “subsection (c)”.
+<b>1996</b>—Subsec. (e)(2). Pub. L. 104–294, §603(t), substituted “subsection (d)” for “subsection (c)”.
 
 Subsec. (g). Pub. L. 104–294, §603(u)(1), redesignated subsec. (g), related to posting notice in Federal facilities, as (h).
 
@@ -46,11 +46,11 @@ Subsec. (h). Pub. L. 104–294, §603(u)(2), substituted “(e)” for “(d)”
 
 Pub. L. 104–294, §603(u)(1), redesignated subsec. (g), related to posting notice in Federal facilities, as (h).
 
-1994—Subsec. (a). Pub. L. 103–322, §60014(2), substituted “(d)” for “(c)”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §60014(2), substituted “(d)” for “(c)”.
 
 Subsecs. (c) to (g). Pub. L. 103–322, §60014(1), (3), added subsec. (c) and redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
 
-1990—Subsec. (a). Pub. L. 101–647, §2205(a)(1), inserted “(other than a Federal court facility)” after “Federal facility”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–647, §2205(a)(1), inserted “(other than a Federal court facility)” after “Federal facility”.
 
 Subsecs. (d), (e). Pub. L. 101–647, §2205(a)(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
 

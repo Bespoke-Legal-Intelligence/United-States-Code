@@ -6,7 +6,7 @@ All sums heretofore or hereafter appropriated for the military and naval insuran
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 756 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 756 of this title as this section.
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 

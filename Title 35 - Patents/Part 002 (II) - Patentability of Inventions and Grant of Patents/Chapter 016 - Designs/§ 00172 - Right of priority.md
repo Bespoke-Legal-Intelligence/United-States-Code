@@ -12,7 +12,7 @@ This provision is taken from R.S. 4887 (see section 119) and made a separate sec
 
 #### Amendments
 
-1994—Pub. L. 103–465 substituted “subsections (a) through (d) of section 119” for “section 119” and inserted at end “The right of priority provided for by section 119(e) of this title shall not apply to designs.”
+<b>1994</b>—Pub. L. 103–465 substituted “subsections (a) through (d) of section 119” for “section 119” and inserted at end “The right of priority provided for by section 119(e) of this title shall not apply to designs.”
 
 #### Effective Date of 1994 Amendment
 

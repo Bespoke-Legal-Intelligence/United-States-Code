@@ -52,5 +52,7 @@ Sections 5821 and 5822 of title 22, referred to in subsec. (b)(1)(H), was, in th
 
 #### Amendments
 
-1995—Subsec. (b)(1)(G) to (J). Pub. L. 104–66 added subpars. (G) to (J).
+<b>1995</b>—Subsec. (b)(1)(G) to (J). Pub. L. 104–66 added subpars. (G) to (J).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

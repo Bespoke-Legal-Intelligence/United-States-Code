@@ -72,9 +72,9 @@ In carrying out this subpart, each area agency on aging shall make use of traine
 
 &emsp;(A) The amounts allotted under paragraph (1) shall be reduced proportionately to the extent necessary to increase other allotments under such paragraph to achieve the amounts described in subparagraph (B).
 
-&emsp;(B)(i) Each State shall be allotted 1/2 of 1 percent of the amount appropriated for the fiscal year for which the determination is made.
+&emsp;(B)(i) Each State shall be allotted ½ of 1 percent of the amount appropriated for the fiscal year for which the determination is made.
 
-&emsp;(ii) Guam and the Virgin Islands of the United States shall each be allotted 1/4 of 1 percent of the amount appropriated for the fiscal year for which the determination is made.
+&emsp;(ii) Guam and the Virgin Islands of the United States shall each be allotted ¼ of 1 percent of the amount appropriated for the fiscal year for which the determination is made.
 
 &emsp;(iii) American Samoa and the Commonwealth of the Northern Mariana Islands shall each be allotted 1/16 of 1 percent of the amount appropriated for the fiscal year for which the determination is made.
 
@@ -104,7 +104,7 @@ In carrying out this subpart, each area agency on aging shall make use of traine
 
 #### Amendments
 
-2006—Subsec. (b)(3). Pub. L. 109–365, §321(1), substituted “assist the caregivers in the areas of health, nutrition, and financial literacy, and in making decisions and solving problems relating to their caregiving roles;” for “caregivers to assist the caregivers in making decisions and solving problems relating to their caregiving roles;”.
+<b>2006</b>—Subsec. (b)(3). Pub. L. 109–365, §321(1), substituted “assist the caregivers in the areas of health, nutrition, and financial literacy, and in making decisions and solving problems relating to their caregiving roles;” for “caregivers to assist the caregivers in making decisions and solving problems relating to their caregiving roles;”.
 
 Subsec. (c)(1)(B). Pub. L. 109–365, §321(2)(A), substituted “subparagraph (A)(i) or (B) of section 3002(22)” for “subparagraph (A)(i) or (B) of section 3002(28)”.
 

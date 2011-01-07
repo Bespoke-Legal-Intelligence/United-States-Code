@@ -64,5 +64,5 @@ In subsection (c)(2), the words “duties and powers” are substituted for “f
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–368 substituted “National Cemetery Administration” for “National Cemetery System”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–368 substituted “National Cemetery Administration” for “National Cemetery System”.
 

@@ -18,7 +18,7 @@
 
 &emsp;(iv) suspension of all or part of the payments to which a provider or clinical laboratory would otherwise be entitled under this subchapter with respect to clinical diagnostic laboratory tests furnished on or after the date on which the Secretary determines that intermediate sanctions should be imposed pursuant to subsection (a) of this section.
 
-> The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under clause (ii) in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+> The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under clause (ii) in thesame manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 (B) The sanctions specified in subparagraph (A) are in addition to sanctions otherwise available under State or Federal law.
 
@@ -28,17 +28,17 @@
 
 #### Amendments
 
-1990—Pub. L. 101–508 substituted “providers or suppliers of” for “providers of” in section catchline.
+<b>1990</b>—Pub. L. 101–508 substituted “providers or suppliers of” for “providers of” in section catchline.
 
-1989—Pub. L. 101–234 repealed Pub. L. 100–360, §203(e)(4), and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment notes below.
+<b>1989</b>—Pub. L. 101–234 repealed Pub. L. 100–360, §203(e)(4), and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment notes below.
 
-1988—Pub. L. 100–360, §203(e)(4)(A), inserted “and for qualified home intravenous drug therapy providers” at end of section catchline.
+<b>1988</b>—Pub. L. 100–360, §203(e)(4)(A), inserted “and for qualified home intravenous drug therapy providers” at end of section catchline.
 
 Subsec. (a). Pub. L. 100–360, §411(g)(3)(G)(i)(I), as amended by Pub. L. 100–485, substituted “approved” for “certified”.
 
 Pub. L. 100–360, §411(g)(3)(G)(i)(II), inserted “or for coverage” after “conditions of participation”.
 
-Pub. L. 100–360, §411(g)(3)(G)(i)(III), which directed amendment of subsec. (a) by substituting “terminatingimmediately the provider agreement or cancelling immediately approval of the clinical laboratory” for “cancelling immediately the certification of the provider or clinical laboratory”, was executed by making the substitution for “canceling immediately the certification of the provider or clinical laboratory” to reflect the probable intent of Congress.
+Pub. L. 100–360, §411(g)(3)(G)(i)(III), which directed amendment of subsec. (a) by substituting “terminating immediately the provider agreement or cancelling immediately approval of the clinical laboratory” for “cancelling immediately the certification of the provider or clinical laboratory”, was executed by making the substitution for “canceling immediately the certification of the provider or clinical laboratory” to reflect the probable intent of Congress.
 
 Pub. L. 100–360, §203(e)(4)(B), inserted “or that a qualified home intravenous drug therapy provider that is certified for participation under this subchapter no longer substantially meets the requirements of section 1395x(jj)(3) of this title” after “under this part”.
 

@@ -6,7 +6,7 @@ A person who is not an enrolled member of the Yakima Tribes with one-fourth degr
 
 #### (b) Time of election
 
-On request of the Yakima Tribes the Examiner of Inheritance shall keep an estate pending for not less than two years from the date of decedent's death.
+On request of the Yakima Tribes the Examiner of Inheritance shall keep an estate pending fornot less than two years from the date of decedent's death.
 
 #### (c) Interest of surviving spouse
 
@@ -16,7 +16,7 @@ When a person who is prohibited by subsection (a) of this section from acquiring
 
 #### Amendments
 
-1970—Pub. L. 91–627 designated existing provisions as subsec. (a), substituted provisions authorizing the Yakima Tribes to pay to Secretary of the Interior the fair market value, as determined by the Secretary after appraisal, of any interest in trust or restricted land within the specified areas which a person not an enrolled member of the Yakima Tribes with one-fourth degree or more blood of such tribes was to receive by devise or inheritance, for provisions limiting the inheritance of trust land on the Yakima Reservation to enrolled members of the Yakima Tribes of one-fourth or more blood of such tribes and to surviving spouses who are enrolled members but possess less than one-fourth degree of Yakima blood, with such surviving spouses authorized to inherit a life estate in not more than one-half the property, and added subsecs. (b) and (c).
+<b>1970</b>—Pub. L. 91–627 designated existing provisions as subsec. (a), substituted provisions authorizing the Yakima Tribes to pay to Secretary of the Interior the fair market value, as determined by the Secretary after appraisal, of any interest in trust or restricted land within the specified areas which a person not an enrolled member of the Yakima Tribes with one-fourth degree or more blood of such tribes was to receive by devise or inheritance, for provisions limiting the inheritance of trust land on the Yakima Reservation to enrolled members of the Yakima Tribes of one-fourth or more blood of such tribes and to surviving spouses who are enrolled members but possess less than one-fourth degree of Yakima blood, with such surviving spouses authorized to inherit a life estate in not more than one-half the property, and added subsecs. (b) and (c).
 
 #### Effective Date of 1970 Amendment
 

@@ -44,15 +44,15 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Amendments
 
-1981—Subsec. (g). Pub. L. 97–113 struck our subsec. (g) which required annual reports to Congress by the Chairman of the Development Coordination Committee on the activities of the Committee respecting aid to low-income countries. See section 2394(a) of this title.
+<b>1981</b>—Subsec. (g). Pub. L. 97–113 struck our subsec. (g) which required annual reports to Congress by the Chairman of the Development Coordination Committee on the activities of the Committee respecting aid to low-income countries. See section 2394(a) of this title.
 
-1979—Subsec. (a). Pub. L. 96–53 inserted reference to Department of Energy.
+<b>1979</b>—Subsec. (a). Pub. L. 96–53 inserted reference to Department of Energy.
 
-1978—Subsec. (d). Pub. L. 95–424, §502(d)(1), struck out subsec. (d) relating to annual reports to Congress by the President on United States actions affecting the development of less developed countries.
+<b>1978</b>—Subsec. (d). Pub. L. 95–424, §502(d)(1), struck out subsec. (d) relating to annual reports to Congress by the President on United States actions affecting the development of less developed countries.
 
 Subsec. (g). Pub. L. 95–424, §502(d)(2), substituted “section 2394 of this title, the Chairman of the Committee” for “subsection (d) of this section, the President”.
 
-1977—Subsec. (a). Pub. L. 95–88, §127(a), provided that the Committee advise the President concerning the degree to which bilateral and multilateral development assistance should focus on critical problems in those functional sectors which affect the lives of the majority of people in the developing countries: food production; rural development and nutrition; population planning and health; and education, public administration, and human resource development.
+<b>1977</b>—Subsec. (a). Pub. L. 95–88, §127(a), provided that the Committee advise the President concerning the degree to which bilateral and multilateral development assistance should focus on critical problems in those functional sectors which affect the lives of the majority of people in the developing countries: food production; rural development and nutrition; population planning and health; and education, public administration, and human resource development.
 
 Subsec. (d). Pub. L. 95–88, §127(b), substituted “less developed countries” for “low-income countries” in the description of the subject matter of the Presidential reports to Congress, designated existing provisions setting out the subject matter of the reports as cl. (2)(A), and added cls. (1) and (2)(B).
 

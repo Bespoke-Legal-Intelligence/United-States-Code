@@ -16,7 +16,7 @@ In this section, the term “eligible entity” means—
 
 &emsp;(2) an organization that—
 
-&emsp;&emsp;(A) is organized for, and at all times since the formation of the organization has beenoperated principally for, one or more of the conservation purposes specified in clause (i), (ii), (iii), or (iv) of section 170(h)(4)(A) of title 26;
+&emsp;&emsp;(A) is organized for, and at all times since the formation of the organization has been operated principally for, one or more of the conservation purposes specified in clause (i), (ii), (iii), or (iv) of section 170(h)(4)(A) of title 26;
 
 &emsp;&emsp;(B) is an organization described in section 501(c)(3) of that title that is exempt from taxation under section 501(a) of that title; and
 
@@ -114,9 +114,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §2403, amended section generally. Prior to amendment, section related to delegation to private organizations.
+<b>2008</b>—Pub. L. 110–246, §2403, amended section generally. Prior to amendment, section related to delegation to private organizations.
 
-2004—Subsec. (a). Pub. L. 108–447, §797(1), substituted “transfer title of ownership to an easement under this subpart to” for “permit” in introductory provisions.
+<b>2004</b>—Subsec. (a). Pub. L. 108–447, §797(1), substituted “transfer title of ownership to an easement under this subpart to” for “permit” in introductory provisions.
 
 Subsec. (d). Pub. L. 108–447, §797(2), added subsec. (d) and struck out heading and text of former subsec. (d). Text consisted of pars. (1) and (2) relating to reassignment of easements to new private organizations or the Secretary.
 

@@ -218,7 +218,7 @@
 
 #### (4) Budget neutral payment condition
 
-&emsp;Under this section, the Secretary shall ensure that the aggregate sum of medicare program benefit expenditures for beneficiaries participating in chronic care improvementprograms and funds paid to chronic care improvement organizations under this section, shall not exceed the medicare program benefit expenditures that the Secretary estimates would have been made for such targeted beneficiaries in the absence of such programs.
+&emsp;Under this section, the Secretary shall ensure that the aggregate sum of medicare program benefit expenditures for beneficiaries participating in chronic care improvement programs and funds paid to chronic care improvement organizations under this section, shall not exceed the medicare program benefit expenditures that the Secretary estimates would have been made for such targeted beneficiaries in the absence of such programs.
 
 #### (g) Funding
 
@@ -230,7 +230,7 @@
 
 #### References in Text
 
-Parts A, B, and C of this subchapter, referred to in subsecs. (a)(2)(E)(i) and (b)(3)(B), (4), are classified to sections 1395c et seq., 1395j et seq., and 1395w–21 et seq., respectively, of this title.
+Parts A, B, and C of this subchapter, referred to in subsecs. (a)(2)(E)(i) and (b)(3)(B), (4), are classified tosections 1395c et seq., 1395j et seq., and 1395w–21 et seq., respectively, of this title.
 
 #### Demonstration Project for Consumer-Directed Chronic Outpatient Services
 
@@ -336,7 +336,7 @@ Pub. L. 108–173, title VII, §723, Dec. 8, 2003, 117 Stat. 2348, provided that
 
 “(a)
 
-Development of Plan.—Not later than 6 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall develop a plan to improve quality of care and reduce the cost of care for chronically ill medicare beneficiaries.
+Development of Plan.—Not later than 6 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\]shall develop a plan to improve quality of care and reduce the cost of care for chronically ill medicare beneficiaries.
 
 “(b)
 

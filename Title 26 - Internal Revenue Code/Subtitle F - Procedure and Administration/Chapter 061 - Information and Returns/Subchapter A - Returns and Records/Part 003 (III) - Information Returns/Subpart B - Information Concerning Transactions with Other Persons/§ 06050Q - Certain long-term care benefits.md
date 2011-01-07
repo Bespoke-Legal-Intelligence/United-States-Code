@@ -34,7 +34,7 @@ For purposes of this section, the term “long-term care benefit” means—
 
 #### Amendments
 
-1997—Subsec. (b)(1). Pub. L. 105–34 inserted “, address, and phone number of the information contact” after “name”.
+<b>1997</b>—Subsec. (b)(1). Pub. L. 105–34 inserted “, address, and phone number of the information contact” after “name”.
 
 #### Effective Date of 1997 Amendment
 

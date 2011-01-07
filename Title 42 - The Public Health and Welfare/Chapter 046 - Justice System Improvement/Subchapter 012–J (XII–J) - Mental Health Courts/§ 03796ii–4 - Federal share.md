@@ -1,6 +1,6 @@
 ### §3796ii–4. Federal share
 
-The Federal share of a grant made under this subchapter may not exceed 75 percent of the total costs of the program described in the application submitted under section 3796ii–3 of this title for the fiscal year for which the program receives assistance under this subchapter, unless the Attorney General waives, wholly or in part, the requirement of a matching contribution under this section. The use of the Federal share of a grant made under this subchapter shall be limited to new expenses necessitated by the proposed program, including the development of treatment services and the hiring and trainingof personnel. In-kind contributions may constitute a portion of the non-Federal share of a grant.
+The Federal share of a grant made under this subchapter may not exceed 75 percent of the total costs of the program described in the application submitted under section 3796ii–3 of this title for the fiscal year for which the program receives assistance under this subchapter, unless the Attorney General waives, wholly or in part, the requirement of a matching contribution under this section. The use of the Federal share of a grant made under this subchapter shall be limited to new expenses necessitated by the proposed program, including the development of treatment services and the hiring and training of personnel. In-kind contributions may constitute a portion of the non-Federal share of a grant.
 
 (Pub. L. 90–351, title I, §2205, as added Pub. L. 106–515, §3(a), Nov. 13, 2000, 114 Stat. 2401.)
 

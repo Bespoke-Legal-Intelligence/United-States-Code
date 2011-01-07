@@ -22,7 +22,7 @@ Eligibility Criteria.—Except as provided in subsections (c) and (d), only pers
 
 &emsp;&emsp;&emsp;(ii) at least 24 semester credit hours (or the equivalent) from an accredited institution of higher education in the person's career field and 12 semester credit hours (or the equivalent) from such an institution from among the disciplines listed in clause (i) or equivalent training as prescribed by the Secretary to ensure proficiency in the disciplines listed in clause (i).
 
-&emsp;(2) The person must meet experience requirements prescribed by the Secretary of Defense. Such requirements shall, at a minimum, include a requirement for at least four years of experience in an acquisition position in the Department of Defense or in a comparable position in industry or government.
+&emsp;(2) The person must meet experience requirements prescribed by the Secretary of Defense.Such requirements shall, at a minimum, include a requirement for at least four years of experience in an acquisition position in the Department of Defense or in a comparable position in industry or government.
 
 &emsp;(3) The person must meet such other requirements as the Secretary of Defense or the Secretary of the military department concerned prescribes by regulation.
 
@@ -30,7 +30,7 @@ Eligibility Criteria.—Except as provided in subsections (c) and (d), only pers
 
 Exceptions.—(1) The requirements of subsections (b)(1)(A) and (b)(1)(B) shall not apply to any employee who, on October 1, 1991, has at least 10 years of experience in acquisition positions or in comparable positions in other government agencies or the private sector.
 
-(2) The requirements of subsections (b)(1)(A) and (b)(1)(B) shall not apply to any employee who is serving in an acquisition position on October 1, 1991, and who does not have 10 years of experience as described in paragraph (1) if the employee passes an examination considered by the Secretary of Defense to demonstrate skills, knowledge, or abilities comparable to that of an individual who has completed at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education from among the following disciplines: accounting, business, finance, law, contracts, purchasing, economics, industrial management,marketing, quantitative methods, and organization and management.
+(2) The requirements of subsections (b)(1)(A) and (b)(1)(B) shall not apply to any employee who is serving in an acquisition position on October 1, 1991, and who does not have 10 years of experience as described in paragraph (1) if the employee passes an examination considered by the Secretary of Defense to demonstrate skills, knowledge, or abilities comparable to that of an individual who has completed at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education from among the following disciplines: accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, and organization and management.
 
 (d)
 
@@ -48,7 +48,7 @@ Mobility Statements.—(1) The Secretary of Defense is authorized to require civ
 
 #### Amendments
 
-2006—Subsec. (c)(1), (2). Pub. L. 109–163, §1056(c)(3)(A)(i), substituted “(b)(1)(A) and (b)(1)(B)” for “(b)(2)(A) and (b)(2)(B)”.
+<b>2006</b>—Subsec. (c)(1), (2). Pub. L. 109–163, §1056(c)(3)(A)(i), substituted “(b)(1)(A) and (b)(1)(B)” for “(b)(2)(A) and (b)(2)(B)”.
 
 Subsec. (c)(3). Pub. L. 109–163, §1056(c)(3)(A)(ii), struck out par. (3) which read as follows: “Paragraph (1) of subsection (b) shall not apply to an employee who—
 
@@ -58,7 +58,7 @@ Subsec. (c)(3). Pub. L. 109–163, §1056(c)(3)(A)(ii), struck out par. (3) whic
 
 Subsec. (d)(2). Pub. L. 109–163, §1056(c)(3)(B), substituted “(b)(1)(A)(ii)” for “(b)(2)(A)(ii)”.
 
-2004—Subsec. (a). Pub. L. 108–375, §1084(h)(2), amended directory language of Pub. L. 107–107, §1048(e)(4). See 2001 Amendment note below.
+<b>2004</b>—Subsec. (a). Pub. L. 108–375, §1084(h)(2), amended directory language of Pub. L. 107–107, §1048(e)(4). See 2001 Amendment note below.
 
 Subsec. (b). Pub. L. 108–375, §812(a)(1), redesignated pars. (2) to (4) as pars. (1) to (3), respectively, and struck out former par. (1) which read as follows:
 
@@ -70,7 +70,7 @@ Subsec. (b). Pub. L. 108–375, §812(a)(1), redesignated pars. (2) to (4) as pa
 
 Subsec. (d)(1). Pub. L. 108–375, §1084(d)(14), substituted “the decision of the Secretary” for “its decision” before “to waive such requirements.”
 
-2003—Subsec. (a). Pub. L. 108–136, §833(2), substituted “the Acquisition Corps” for “an Acquisition Corps”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §833(2), substituted “the Acquisition Corps” for “an Acquisition Corps”.
 
 Subsec. (b)(1)(C). Pub. L. 108–136, §831(b)(2)(A), struck out “, as validated by the appropriate career program management board” after “subparagraph (A) or (B)”.
 
@@ -84,15 +84,15 @@ Subsec. (d)(2). Pub. L. 108–136, §831(b)(3)(B), substituted “The Secretary�
 
 Subsec. (e). Pub. L. 108–136, §833(2), substituted “the Acquisition Corps” for “an Acquisition Corps” in pars. (1) and (2).
 
-2001—Subsec. (a). Pub. L. 107–107, §1048(e)(4), as amended by Pub. L. 108–375, §1084(h)(2), struck out at end “Such criteria and procedures shall be in effect on and after October 1, 1993.”
+<b>2001</b>—Subsec. (a). Pub. L. 107–107, §1048(e)(4), as amended by Pub. L. 108–375, §1084(h)(2), struck out atend “Such criteria and procedures shall be in effect on and after October 1, 1993.”
 
 Subsec. (c)(2). Pub. L. 107–107, §824(b), inserted a comma after “business”.
 
-1998—Subsec. (c)(3). Pub. L. 105–261 added par. (3).
+<b>1998</b>—Subsec. (c)(3). Pub. L. 105–261 added par. (3).
 
-1993—Subsec. (b)(1)(A). Pub. L. 103–89 substituted “Schedule” for “Schedule (including any employee covered by chapter 54 of title 5)”.
+<b>1993</b>—Subsec. (b)(1)(A). Pub. L. 103–89 substituted “Schedule” for “Schedule (including any employee covered by chapter 54 of title 5)”.
 
-1992—Subsec. (b)(2)(B)(ii). Pub. L. 102–484 inserted before period at end “or equivalent training as prescribed by the Secretary to ensure proficiency in the disciplines listed in clause (i)”.
+<b>1992</b>—Subsec. (b)(2)(B)(ii). Pub. L. 102–484 inserted before period at end “or equivalent training as prescribed by the Secretary to ensure proficiency in the disciplines listed in clause (i)”.
 
 #### Effective Date of 2004 Amendment
 
@@ -104,5 +104,5 @@ Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L
 
 #### Equivalent Training Under Subsection (b)(2)(B)(ii)
 
-Section 812(e)(2) of Pub. L. 102–484 provided that: “The Secretary of Defense shall prescribe equivalent training for purposes of clause (ii) of section 1732(b)(2)(B) of title 10, United States Code (as amendedby paragraph (1)), not later than 120 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
+Section 812(e)(2) of Pub. L. 102–484 provided that: “The Secretary of Defense shall prescribe equivalent training for purposes of clause (ii) of section 1732(b)(2)(B) of title 10, United States Code (as amended by paragraph (1)), not later than 120 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
 

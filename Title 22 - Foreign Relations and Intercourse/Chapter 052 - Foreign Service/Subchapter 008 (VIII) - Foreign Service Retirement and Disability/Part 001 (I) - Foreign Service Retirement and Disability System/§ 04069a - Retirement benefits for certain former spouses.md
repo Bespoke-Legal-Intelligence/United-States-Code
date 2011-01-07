@@ -14,7 +14,7 @@ A former spouse shall not be entitled to benefits under this section if—
 
 &emsp;(1) the former spouse remarries before age 55; or
 
-&emsp;(2) the former spouse was not married to the participant at least 10 years during service of the participant which is creditable under this subchapter with at least 5 years occurring while the participant was a member of the Foreign Service.
+&emsp;(2) the former spouse was not married to the participant at least 10 years during service of the participant which is creditable under thissubchapter with at least 5 years occurring while the participant was a member of the Foreign Service.
 
 #### (c) Period of entitlement; construction with other provisions; application approval and payment
 
@@ -54,7 +54,7 @@ For the purposes of this section, the term “benefits” means—
 
 #### (e) Effect of section on annuity
 
-Nothing in this section shall be construed to impair, reduce, or otherwise affect the annuityor the entitlement to an annuity of a participant or former participant under this subchapter.
+Nothing in this section shall be construed to impair, reduce, or otherwise affect the annuity or the entitlement to an annuity of a participant or former participant under this subchapter.
 
 #### (f) Former spouses of United States Information Agency and Agency for International Development employees
 
@@ -72,7 +72,7 @@ Another section 830 of the Foreign Service Act of 1980 was enacted by Pub. L. 10
 
 #### Amendments
 
-1990—Subsec. (f). Pub. L. 101–246 added subsec. (f).
+<b>1990</b>—Subsec. (f). Pub. L. 101–246 added subsec. (f).
 
 #### Transfer of Functions
 

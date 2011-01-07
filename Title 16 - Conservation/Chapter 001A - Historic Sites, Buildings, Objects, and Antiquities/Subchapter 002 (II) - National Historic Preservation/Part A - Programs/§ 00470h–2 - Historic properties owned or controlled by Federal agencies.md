@@ -28,7 +28,7 @@ Each Federal agency shall initiate measures to assure that where, as a result of
 
 #### (c) Agency Preservation Officer; responsibilities; qualifications
 
-The head of each Federal agency shall, unless exempted under section 470v of this title, designate a qualified official to be known as theagency's “preservation officer” who shall be responsible for coordinating that agency's activities under this subchapter. Each Preservation Officer may, in order to be considered qualified, satisfactorily complete an appropriate training program established by the Secretary under section 470a(h) of this title.
+The head of each Federal agency shall, unless exempted under section 470v of this title, designate a qualified official to be known as the agency's “preservation officer” who shall be responsible for coordinating that agency's activities under this subchapter. Each Preservation Officer may, in order to be considered qualified, satisfactorily complete an appropriate training program established by the Secretary under section 470a(h) of this title.
 
 #### (d) Agency programs and projects
 
@@ -76,13 +76,13 @@ The National Environmental Policy Act of 1969, referred to in subsec. (i), is Pu
 
 #### Amendments
 
-2004—Subsec. (<i>l</i>). Pub. L. 108–352 amended directory language of Pub. L. 106–208, §5(a)(8). See 2000 Amendment note below.
+<b>2004</b>—Subsec. (<i>l</i>). Pub. L. 108–352 amended directory language of Pub. L. 106–208, §5(a)(8). See 2000 Amendment note below.
 
-2000—Subsec. (a)(1). Pub. L. 106–208, §4, substituted “agency, in accordance with Executive Order No. 13006,issued May 21, 1996 (61 Fed. Reg. 26071).” for “agency.” in second sentence.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–208, §4, substituted “agency, in accordance with Executive Order No. 13006, issued May 21, 1996 (61 Fed. Reg. 26071).” for “agency.” in second sentence.
 
 Subsec. (<i>l</i>). Pub. L. 106–208, §5(a)(8), as amended by Pub. L. 108–352, substituted “pursuant to regulations issued by the Council” for “with the Council”,.
 
-1992—Subsec. (a)(1). Pub. L. 102–575, §4012(1), substituted “section 470a(g)” for “section 470a(f)”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–575, §4012(1), substituted “section 470a(g)” for “section 470a(f)”.
 
 Subsec. (a)(2). Pub. L. 102–575, §4012(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “With the advice of the Secretary and in cooperation with the State historic preservation officer for the State involved, each Federal agency shall establish a program to locate, inventory, and nominate to the Secretary all properties under the agency's ownership or control by the agency, that appear to qualify for inclusion on the National Register in accordance with the regulations promulgated under section 470a(a)(2)(A) of this title. Each Federal agency shall exercise caution to assure that any such property that might qualify for inclusion is not inadvertently transferred, sold, demolished, substantially altered, or allowed to deteriorate significantly.”
 
@@ -112,7 +112,7 @@ Sec. 3. <i>Improving Federal Agency Planning and Accountability</i>. (a) Accurat
 
 Sec. 4. <i>Improving Federal Stewardship of Historic Properties</i>. (a) Each agency shall ensure that the management of historic properties in its ownership is conducted in a manner that promotes the long-term preservation and use of those properties as Federal assets and, where consistent with agency missions, governing law, and the nature of the properties, contributes to the local community and its economy.
 
-(b) Where consistent with agency missions and the Secretary of the Interior's Standards for Archeology and Historic Preservation, and where appropriate,agencies shall cooperate with communities to increase opportunities for public benefit from, and access to, Federally owned historic properties.
+(b) Where consistent with agency missions and the Secretary of the Interior's Standards for Archeology and Historic Preservation, and where appropriate, agencies shall cooperate with communities to increase opportunities for public benefit from, and access to, Federally owned historic properties.
 
 (c) The Council is directed to use its existing authority to encourage and accept donations of money, equipment, and other resources from public and private parties to assist other agencies in the preservation of historic properties in Federal ownership to fulfill the goals of the NHPA and this order.
 
@@ -122,7 +122,7 @@ Sec. 4. <i>Improving Federal Stewardship of Historic Properties</i>. (a) Each ag
 
 Sec. 5. <i>Promoting Preservation Through Heritage Tourism.</i>
 
-(a) To the extent permitted by law and within existing resources, the Secretary of Commerce, working with the Council and other agencies, shall assist States, Indian tribes, and local communities in promoting the use of historic properties for heritage tourism and related economic development in a manner that contributes to the long-term preservation and productive use of those properties. Such assistance shall include efforts to strengthen and improve heritage tourism activities throughout the country as they relate to Federally owned historic properties and significant natural assets on Federal lands.
+(a) To the extent permitted by law and within existing resources, the Secretary of Commerce, workingwith the Council and other agencies, shall assist States, Indian tribes, and local communities in promoting the use of historic properties for heritage tourism and related economic development in a manner that contributes to the long-term preservation and productive use of those properties. Such assistance shall include efforts to strengthen and improve heritage tourism activities throughout the country as they relate to Federally owned historic properties and significant natural assets on Federal lands.
 
 (b) Where consistent with agency missions and governing law, and where appropriate, agencies shall use historic properties in their ownership in conjunction with State, tribal, and local tourism programs to foster viable economic partnerships, including, but not limited to, cooperation and coordination with tourism officials and others with interests in the properties.
 

@@ -12,7 +12,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-1988—Pub. L. 100–418 substituted “Harmonized Tariff Schedule of the United States” for “Tariff Schedules of the United States” and inserted “removal,” after “including”.
+<b>1988</b>—Pub. L. 100–418 substituted “Harmonized Tariff Schedule of the United States” for “Tariff Schedules of the United States” and inserted “removal,” after “including”.
 
 #### Effective Date of 1988 Amendment
 

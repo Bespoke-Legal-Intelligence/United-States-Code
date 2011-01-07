@@ -4,7 +4,7 @@
 
 #### (1) Projects by qualified youth or conservation corps
 
-&emsp;The Secretary is authorized to pay not more than 75 percent of the costs of any appropriateconservation project carried out pursuant to this subchapter on public lands by a qualified youth or conservation corps. The remaining 25 percent of the costs of such a project may be provided from nonfederal sources in the form of funds, services, facilities, materials, equipment, or any combination of the foregoing. No cost sharing shall be required in the case of any appropriate conservation project carried out on Indian lands or Hawaiian home lands under this subchapter.
+&emsp;The Secretary is authorized to pay not more than 75 percent of the costs of any appropriate conservation project carried out pursuant to this subchapter on public lands by a qualified youth or conservation corps. The remaining 25 percent of the costs of such a project may be provided from nonfederal sources in the form of funds, services, facilities, materials, equipment, or any combination of the foregoing. No cost sharing shall be required in the case ofany appropriate conservation project carried out on Indian lands or Hawaiian home lands under this subchapter.
 
 #### (2) Public Lands Corps projects
 
@@ -22,7 +22,7 @@ Amounts appropriated pursuant to the authorization of appropriations under secti
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–154, §2(g)(4)(A), substituted “Secretary is” for “Secretary of the Interior and the Secretary of Agriculture are each” in pars. (1) and (2).
+<b>2005</b>—Subsec. (a). Pub. L. 109–154, §2(g)(4)(A), substituted “Secretary is” for “Secretary of the Interior and the Secretary of Agriculture are each” in pars. (1) and (2).
 
 Subsec. (b). Pub. L. 109–154, §2(g)(4)(B), substituted “Secretary” for “Secretary of the Interior and the Secretary of Agriculture”.
 

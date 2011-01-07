@@ -24,5 +24,5 @@ The words “section 1343, 1344, or 1349(b) of title 31” are substituted for �
 
 #### Amendments
 
-2006—Pub. L. 109–284 inserted “of title 31” after “under section 1343, 1344, or 1349(b)” and “of title 18” after “under section 641”.
+<b>2006</b>—Pub. L. 109–284 inserted “of title 31” after “under section 1343, 1344, or 1349(b)” and “of title 18” after “under section 641”.
 

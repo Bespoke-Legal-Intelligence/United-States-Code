@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Except as otherwise specifically provided, a defendant who has been foundguilty of an offense described in any Federal statute, including sections 13 and 1153 of this title, other than an Act of Congress applicable exclusively in the District of Columbia or the Uniform Code of Military Justice, shall be sentenced in accordance with the provisions of this chapter so as to achieve the purposes set forth in subparagraphs (A) through (D) of section 3553(a)(2) to the extent that they are applicable in light of all the circumstances of the case.
+In General.—Except as otherwise specifically provided, a defendant who has been found guilty of an offense described in any Federal statute, including sections 13 and 1153 of this title, other than an Act of Congress applicable exclusively in the District of Columbia or the Uniform Code of Military Justice, shall be sentenced in accordance with the provisions of this chapter so as to achieve the purposes set forth in subparagraphs (A) through (D) of section 3553(a)(2) to the extent that they are applicable in light of all the circumstances of the case.
 
 (b)
 
@@ -36,7 +36,7 @@ The Uniform Code of Military Justice, referred to in subsec. (a), is classified 
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–647 inserted “including sections 13 and 1153 of this title,” after “any Federal statute,”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–647 inserted “including sections 13 and 1153 of this title,” after “any Federal statute,”.
 
 #### Effective Date; Savings Provision
 
@@ -92,7 +92,7 @@ Section 235 of chapter II (§§211–239) of title II of Pub. L. 98–473, as am
 
 “(5) Notwithstanding the provisions of section 991 of title 28, United States Code, and sections 4351 and 5002 of title 18, United States Code, the Chairman of the United States Parole Commission or his designee shall be a member of the National Institute of Corrections, and the Chairman of the United States Parole Commission shall be a member of the Advisory Corrections Council and a nonvoting member of the United States Sentencing Commission, ex officio, until the expiration of the five-year period following the effective date of this Act. Notwithstanding the provisions of section 4351 of title 18, during the five-year period the National Institute of Corrections shall have seventeen members, including seven ex officio members. Notwithstanding the provisions of section 991 of title 28, during the five-year period the United States Sentencing Commission shall consist of nine members, including two ex officio, nonvoting members.”
 
-\[Pub. L. 104–232, §3(b)(2), Oct. 2, 1996, 110 Stat. 3056, provided that: “Effective on the date the plan \[alternative plan by Attorney General for transfer of United States Parole Commission's functions to another entity within Department of Justice pursuant to section 3 of Pub. L. 104–232, set out as a note under section 4201 of this title\] takes effect, paragraphs (3) and (4) of section 235(b) of the Sentencing Reform Act of 1984 \[Pub. L. 98–473, set out above\] (98 Stat. 2032) are repealed.”\]
+\[Pub. L. 104–232, §3(b)(2), Oct. 2, 1996, 110 Stat. 3056, provided that: “Effective on the date the plan \[alternative plan by Attorney General for transfer of United States Parole Commission's functions to another entity within Department of Justice pursuant to section 3 of Pub. L. 104–232, set out as a note under section 4201of this title\] takes effect, paragraphs (3) and (4) of section 235(b) of the Sentencing Reform Act of 1984 \[Pub. L. 98–473, set out above\] (98 Stat. 2032) are repealed.”\]
 
 \[Pub. L. 110–312, §2, Aug. 12, 2008, 122 Stat. 3013, provided that: “For purposes of section 235(b) of the Sentencing Reform Act of 1984 (18 U.S.C. 3551 note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to ‘21 years’ or ‘21-year period’ shall be deemed a reference to ‘24 years’ or ‘24-year period’, respectively.”\]
 

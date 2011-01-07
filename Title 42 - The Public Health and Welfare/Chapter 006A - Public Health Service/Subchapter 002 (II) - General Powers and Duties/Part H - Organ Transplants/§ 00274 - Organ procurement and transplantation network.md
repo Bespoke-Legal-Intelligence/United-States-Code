@@ -70,11 +70,11 @@ Another section 372 of act July 1, 1944, added by act Aug. 3, 1956, ch. 941, §1
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–426 substituted “$7,000,000” for “$2,000,000”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–426 substituted “$7,000,000” for “$2,000,000”.
 
-2000—Subsec. (b)(2)(M) to(O). Pub. L. 106–310 added subpars. (M) to (O).
+<b>2000</b>—Subsec. (b)(2)(M) to(O). Pub. L. 106–310 added subpars. (M) to (O).
 
-1990—Subsec. (b)(1)(A). Pub. L. 101–616, §202(a)(1), substituted “that has an expertise in organ procurement and transplantation” for “which is not engaged in any activity unrelated to organ procurement”.
+<b>1990</b>—Subsec. (b)(1)(A). Pub. L. 101–616, §202(a)(1), substituted “that has an expertise in organ procurement and transplantation” for “which is not engaged in any activity unrelated to organ procurement”.
 
 Subsec. (b)(1)(B). Pub. L. 101–616, §202(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “have a board of directors which includes representatives of organ procurement organizations (including organizations which have received grants under section 273 of this title), transplant centers, voluntary health associations, and the general public.”
 
@@ -84,7 +84,7 @@ Subsec. (b)(2)(F). Pub. L. 101–616, §202(c), substituted “compatibility” 
 
 Subsec. (b)(2)(K), (L). Pub. L. 101–616, §202(b)(2)–(4), added subpars. (K) and (L).
 
-1988—Subsec. (b)(2)(B), (C). Pub. L. 100–607, §403(a)(1), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
+<b>1988</b>—Subsec. (b)(2)(B), (C). Pub. L. 100–607, §403(a)(1), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
 Subsec. (b)(2)(D). Pub. L. 100–607, §403(a)(1), (2), redesignated former subpar. (C) as (D) and substituted “organs” for “organs which cannot be placed within the service areas of the organizations”. Former subpar. (D) redesignated (E).
 
@@ -118,7 +118,7 @@ In General.—The Secretary of Health and Human Services shall request that the 
 
 &emsp;“(4) a comparison of the number of transplants performed, the mortality rate for individuals on the transplant waiting lists, and the post-transplant survival rate nationally and by region prior to and after the heart allocation policy change of 2006; and
 
-&emsp;“(5) specifically with respect to allosensitized patients, a comparison of the number of heart transplants performed, the mortality rate for individuals on the heart transplant waiting lists, and the postheart transplant survival rate nationally and by region prior to and after the heart allocation policy change of 2006.
+&emsp;“(5) specifically with respect to allosensitized patients, a comparison of the number of heart transplants performed, the mortality rate for individuals on the heart transplant waiting lists, and the post heart transplant survival rate nationally and by region prior to and after the heart allocation policy change of 2006.
 
 “(b)
 

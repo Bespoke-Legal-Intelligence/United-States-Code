@@ -136,7 +136,15 @@
 
 &emsp;&emsp;&emsp;(ii) which were accumulated during the period or periods such stock was owned by such person while the acquiring corporation was a controlled foreign corporation.
 
-#### (B) Regulations
+#### (B) Special rule in case of foreign acquiring corporation
+
+&emsp;&emsp;In the case of any acquisition to which subsection (a) applies in which the acquiring corporation is a foreign corporation, no earnings and profits shall be taken into account under paragraph (2)(A) (and subparagraph (A) shall not apply) if more than 50 percent of the dividends arising from such acquisition (determined without regard to this subparagraph) would neither—
+
+&emsp;&emsp;&emsp;(i) be subject to tax under this chapter for the taxable year in which the dividends arise, nor
+
+&emsp;&emsp;&emsp;(ii) be includible in the earnings and profits of a controlled foreign corporation (as defined in section 957 and without regard to section 953(c)).
+
+#### (C) Regulations
 
 &emsp;&emsp;The Secretary shall prescribe such regulations as are appropriate to carry out the purposes of this paragraph.
 
@@ -180,7 +188,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) in any case where such paragraph would not apply but for subclause (I), by considering a corporation as owning the stock (other than stock in such corporation) owned by or for any shareholder of such corporation in that proportion which the value of the stock which such shareholder owned in such corporation bears to the value of all stock in such corporation.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 89; Pub. L. 88–554, §4(b)(1), Aug. 31, 1964, 78 Stat. 763; Pub. L. 97–248, title II, §226(a)(1)(A), (2), (3), Sept. 3, 1982, 96 Stat. 490, 491; Pub. L. 98–369, div. A, title VII, §712(<i>l</i>)(1)–(5)(A), July 18, 1984, 98 Stat. 953, 954; Pub. L. 99–514, title XVIII, §1875(b), Oct. 22, 1986, 100 Stat. 2894; Pub. L. 100–203, title X, §10223(c), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title II, §2004(k)(2), Nov. 10, 1988, 102 Stat. 3605; Pub. L. 105–34, title X, §1013(a), (c), Aug. 5, 1997, 111 Stat. 918; Pub. L. 105–206, title VI, §6010(d), July 22, 1998, 112 Stat. 814.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 89; Pub. L. 88–554, §4(b)(1), Aug. 31, 1964, 78 Stat. 763; Pub. L. 97–248, title II, §226(a)(1)(A), (2), (3), Sept. 3, 1982, 96 Stat. 490, 491; Pub. L. 98–369, div. A, title VII, §712(<i>l</i>)(1)–(5)(A), July 18, 1984, 98 Stat. 953, 954; Pub. L. 99–514, title XVIII, §1875(b), Oct. 22, 1986, 100 Stat. 2894; Pub. L. 100–203, title X, §10223(c), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title II, §2004(k)(2), Nov. 10, 1988, 102 Stat. 3605; Pub. L. 105–34, title X, §1013(a), (c), Aug. 5, 1997, 111 Stat. 918; Pub. L. 105–206, title VI, §6010(d), July 22, 1998, 112 Stat. 814; Pub. L. 111–226, title II, §215(a), Aug. 10, 2010, 124 Stat. 2399.)
 
 #### References in Text
 
@@ -188,21 +196,23 @@ Section 2(a) of the Bank Holding Company Act of 1956, referred to in subsec. (b)
 
 #### Amendments
 
-1998—Subsec. (b)(5)(B), (C). Pub. L. 105–206, §6010(d)(1), redesignated subpar. (C) as (B) and struck out heading and text of former subpar. (B). Text read as follows: “For purposes of subparagraph (A), the rules of section 1248(d) shall apply except to the extent otherwise provided by the Secretary.”
+<b>2010</b>—Subsec. (b)(5)(B), (C). Pub. L. 111–226 added subpar. (B) and redesignated former subpar. (B) as (C).
+
+<b>1998</b>—Subsec. (b)(5)(B), (C). Pub. L. 105–206, §6010(d)(1), redesignated subpar. (C) as (B) and struck out heading and text of former subpar. (B). Text read as follows: “For purposes of subparagraph (A), the rules of section 1248(d) shall apply except to the extent otherwise provided by the Secretary.”
 
 Subsec. (b)(6). Pub. L. 105–206, §6010(d)(2), added par. (6).
 
-1997—Subsec. (a)(1). Pub. L. 105–34, §1013(a), amended last sentence generally. Prior to amendment, last sentence read as follows: “To the extent that such distribution is treated as a distribution to which section 301 applies, the stock so acquired shall be treated as having been transferred by the person from whom acquired, and as having been received by the corporation acquiring it, as a contribution to the capital of such corporation.”
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–34, §1013(a), amended last sentence generally. Prior to amendment, last sentence read as follows: “To the extent that such distribution is treated as a distribution to which section 301 applies, the stock so acquired shall be treated as having been transferred by the person from whom acquired, and as having been received by the corporation acquiring it, as a contribution to the capital of such corporation.”
 
 Subsec. (b)(5). Pub. L. 105–34, §1013(c), added par. (5).
 
-1988—Subsec. (b)(4)(A). Pub. L. 100–647 substituted “stock from 1 member” for “stock of 1 member”.
+<b>1988</b>—Subsec. (b)(4)(A). Pub. L. 100–647 substituted “stock from 1 member” for “stock of 1 member”.
 
-1987—Subsec. (b)(4). Pub. L. 100–203 added par. (4).
+<b>1987</b>—Subsec. (b)(4). Pub. L. 100–203 added par. (4).
 
-1986—Subsec. (a)(1). Pub. L. 99–514 substituted “To the extent that such distribution is treated as a distribution to which section 301 applies” for “In any such case” in last sentence.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–514 substituted “To the extent that such distribution is treated as a distribution to which section 301 applies” for “In any such case” in last sentence.
 
-1984—Subsec. (b)(2). Pub. L. 98–369, §712(<i>l</i>)(1), consolidated former subpars. “(A) Where subsection (a)(1) applies” and “(B) Where subsection (a)(2) applies” in one paragraph, inserted provision respecting source of dividend, and incorporated in cls. (A) and (B) former subpar. (A) and (B) provisions which had required determination of amount which is a dividend to be made by reference to earnings and profits of the acquiring corporation and as if the property were distributed by the acquiring corporation to the issuing corporation and immediately thereafter distributed by the issuing corporation.
+<b>1984</b>—Subsec. (b)(2). Pub. L. 98–369, §712(<i>l</i>)(1), consolidated former subpars. “(A) Where subsection (a)(1) applies” and “(B) Where subsection (a)(2) applies” in one paragraph, inserted provision respecting source of dividend, and incorporated in cls. (A) and (B) former subpar. (A) and (B) provisions which had required determination of amount which is a dividend to be made by reference to earnings and profits of the acquiring corporation and as if the property were distributed by the acquiring corporation to the issuing corporation and immediately thereafter distributed by the issuing corporation.
 
 Subsec. (b)(3)(A). Pub. L. 98–369, §712(<i>l</i>)(2), substituted “section 351 and not so much of sections 357 and 358 as relates to section 351” for “part III”.
 
@@ -214,17 +224,21 @@ Subsec. (b)(3)(C). Pub. L. 98–369, §712(<i>l</i>)(4), inserted following cl. 
 
 Subsec. (c)(3). Pub. L. 98–369, §712(<i>l</i>)(5)(A), designated existing first sentence as subpar. “(A) In general” and substituted subpar. (B) for former second sentence which read “For purposes of the preceding sentence, sections 318(a)(2)(C) and 318(a)(3)(C) shall be applied without regard to the 50 percent limitation contained therein.”
 
-1982—Subsec. (b)(2)(A). Pub. L. 97–248, §226(a)(3), substituted “as if the property were distributed by the issuing corporation to the acquiring corporation and immediately thereafter distributed by the acquiring corporation” for “soley by reference to the earnings and profits of the acquiring corporation” after “dividend shall be made”.
+<b>1982</b>—Subsec. (b)(2)(A). Pub. L. 97–248, §226(a)(3), substituted “as if the property were distributed by the issuing corporation to the acquiring corporation and immediately thereafter distributed by the acquiring corporation” for “soley by reference to the earnings and profits of the acquiring corporation” after “dividend shall be made”.
 
 Subsec. (b)(3). Pub. L. 97–248, §226(a)(1)(A), added par. (3).
 
 Subsec. (c)(2), (3). Pub. L. 97–248, §226(a)(2), added par. (2), redesignated former par. (2) as (3) and substituted “this section” for “paragraph (1)” after “determining control under”.
 
-1964—Subsecs. (b)(1), (c)(2). Pub. L. 88–554 inserted reference to section 318(a)(3)(C) of this title.
+<b>1964</b>—Subsecs. (b)(1), (c)(2). Pub. L. 88–554 inserted reference to section 318(a)(3)(C) of this title.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–226, title II, §215(b), Aug. 10, 2010, 124 Stat. 2400, provided that: “The amendments made by this section \[amending this section\] shall apply to acquisitions after the date of the enactment of this Act \[Aug. 10, 2010\].”
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -232,7 +246,7 @@ Section 1013(d) of Pub. L. 105–34 provided that:
 
 “(1)
 
-In general.—The amendments made by this section \[amending this section and section 1059 of thistitle\] shall apply to distributions and acquisitions after June 8, 1997.
+In general.—The amendments made by this section \[amending this section and section 1059 of this title\] shall apply to distributions and acquisitions after June 8, 1997.
 
 “(2)
 
@@ -352,7 +366,7 @@ Approval by federal reserve board.—The amendments made by this section shall n
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–554 effective Aug. 31, 1964, except that for purposes of this section and section 302of this title, such amendments shall not apply to distributions in payment for stock acquisitions or redemptions, if such acquisition or redemption occurred before Aug. 31, 1964, see section 4(c) of Pub. L. 88–554, set out as a note under section 318 of this title.
+Amendment by Pub. L. 88–554 effective Aug. 31, 1964, except that for purposes of this section and section 302 of this title, such amendments shall not apply to distributions in payment for stock acquisitions or redemptions, if such acquisition or redemption occurred before Aug. 31, 1964, see section 4(c) of Pub. L. 88–554, set out as a note under section 318 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

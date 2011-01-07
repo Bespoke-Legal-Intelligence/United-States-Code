@@ -16,7 +16,7 @@ Any consumer product offered for importation into the customs territory of the U
 
 #### (b) Samples
 
-The Secretary of the Treasury shall obtain without charge and deliver to the Commission, upon the latter's request, a reasonable number of samples of consumer products being offered for import. Except for those owners or consignees who are or have been afforded an opportunity for a hearing in a proceeding under section 2061 of this title with respect to an imminently hazardous product, the owner or consignee of the product shall be afforded an opportunity by the Commission for a hearing in accordance with section 554 of title 5 with respect to the importation of such products into thecustoms territory of the United States. If it appears from examination of such samples or otherwise that a product must be refused admission under the terms of subsection (a) of this section, such product shall be refused admission, unless subsection (c) of this section applies and is complied with.
+The Secretary of the Treasury shall obtain without charge and deliver to the Commission, upon the latter's request, a reasonable number of samples of consumer products being offered for import. Except for those owners or consignees who are or have been afforded an opportunity for a hearing in a proceeding under section 2061 of this title with respect to an imminently hazardous product, the owner or consignee of the product shall be afforded an opportunity by the Commission for a hearing in accordance with section 554 of title 5 with respect to the importation of such products into the customs territory of the United States. If it appears from examination of such samples or otherwise that a product must be refused admission under the terms of subsection (a) of this section, such product shall be refused admission, unless subsection (c) of this section applies and is complied with.
 
 #### (c) Modification
 
@@ -28,7 +28,7 @@ All actions taken by an owner or consignee to modify such product under subsecti
 
 #### (e) Product destruction
 
-Products refused admission into the customs territory of the United States shall be destroyed unless, upon application by the owner, consignee, or importer of record, the Secretary of the Treasury permits the export of the product in lieu of destruction. If the owner, consignee, or importer of record does not export the product within 90 days of approval to export, such product shall be destroyed.
+Products refused admission into the customs territory of the United States shall be destroyed unless, upon application by the owner, consignee, or importer of record, the Secretary ofthe Treasury permits the export of the product in lieu of destruction. If the owner, consignee, or importer of record does not export the product within 90 days of approval to export, such product shall be destroyed.
 
 #### (f) Payment of expenses occasioned by refusal of admission
 
@@ -54,7 +54,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (a),
 
 #### Amendments
 
-2008—Subsec. (a)(2). Pub. L. 110–314, §216(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “is not accompanied by a certificate required by section 2063 of this title, or is not labeled in accordance with regulations under section 2063(c) of this title;”.
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–314, §216(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “is not accompanied by a certificate required by section 2063 of this title, or is not labeled in accordance with regulations under section 2063(c) of this title;”.
 
 Subsec. (e). Pub. L. 110–314, §223(b), amended subsec. (e) generally. Prior to amendment, text read as follows: “Products refused admission into the customs territory of the United States under this section must be exported, except that upon application, the Secretary of the Treasury may permit the destruction of the product in lieu of exportation. If the owner or consignee does not export the product within a reasonable time, the Department of the Treasury may destroy the product.”
 
@@ -62,13 +62,13 @@ Subsec. (g). Pub. L. 110–314, §223(c)(1), amended subsec. (g) generally. Prio
 
 Subsec. (h)(3). Pub. L. 110–314, §235(c)(6), substituted “the appropriate Congressional committees” for “the Congress”.
 
-1990—Subsec. (h). Pub. L. 101–608 added subsec. (h).
+<b>1990</b>—Subsec. (h). Pub. L. 101–608 added subsec. (h).
 
-1988—Subsec. (a). Pub. L. 100–418 substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 to the Tariff Schedules of the United States”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–418 substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 to the Tariff Schedules of the United States”.
 
 #### Effective Date of 2008 Amendment
 
-Amendment by sections 216(b) and 223(b) of Pub. L. 110–314 effective on the date that is 30 days after Aug.14, 2008, see section 239(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
+Amendment by sections 216(b) and 223(b) of Pub. L. 110–314 effective on the date that is 30 days after Aug. 14, 2008, see section 239(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -96,7 +96,7 @@ Use of International Trade Data System and Other Databases.—In developing the 
 
 &emsp;“(3) examine, in consultation with U.S. Customs and Border Protection, how to share information collected and retained by the Commission, including information in the database required under section 6A of the Consumer Product Safety Act \[15 U.S.C. 2055a\], for the purpose of identifying shipments of consumer products in violation of section 17(a) of such Act (15 U.S.C. 2066(a)) or other import provisions enforced by the Commission; and
 
-&emsp;“(4) examine, in consultation with U.S. Customs and Border Protection, how to share information required by section 15(j) of the CPSA \[15 U.S.C. 2064(j)\] as added by section 223 of this Act for the purpose of identifying shipments of consumer products in violation of section 17(a) of the Consumer Product Safety Act (15 U.S.C. 2066(a)) or other import provisions enforced by the Commission.
+&emsp;“(4) examine, in consultation with U.S. Customs and Border Protection, how to share information required by section 15(j) of the CPSA \[15 U.S.C. 2064(j)\]as added by section 223 of this Act for the purpose of identifying shipments of consumer products in violation of section 17(a) of the Consumer Product Safety Act (15 U.S.C. 2066(a)) or other import provisions enforced by the Commission.
 
 “(c)
 

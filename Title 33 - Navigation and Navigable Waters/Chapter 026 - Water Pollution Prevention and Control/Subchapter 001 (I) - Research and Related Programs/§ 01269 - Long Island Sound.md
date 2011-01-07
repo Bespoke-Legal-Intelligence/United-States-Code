@@ -36,7 +36,7 @@ The Office shall assist the Management Conference of the Long Island Sound Study
 
 &emsp;(3) coordinate the grant, research and planning programs authorized under this section;
 
-&emsp;(4) coordinate activities and implementation responsibilities with other Federal agencies which have jurisdiction over Long Island Sound and with national and regional marine monitoring and research programs established pursuant to the Marine Protection, Research, and Sanctuaries Act \[16 U.S.C. 1431 et seq., 1447 et seq.; 33 U.S.C. 1401 et seq., 2801 et seq.\];
+&emsp;(4) coordinate activities and implementation responsibilities with other Federal agencies which have jurisdiction over Long Island Sound and with national and regional marine monitoring and research programs establishedpursuant to the Marine Protection, Research, and Sanctuaries Act \[16 U.S.C. 1431 et seq., 1447 et seq.; 33 U.S.C. 1401 et seq., 2801 et seq.\];
 
 &emsp;(5) provide administrative and technical support to the conference;
 
@@ -64,7 +64,7 @@ The Office shall assist the Management Conference of the Long Island Sound Study
 
 #### (1) Eligible communities
 
-&emsp;For the purposes of this subsection, a distressed community is any community that meets affordability criteria established by the State in which the community is located, ifsuch criteria are developed after public review and comment.
+&emsp;For the purposes of this subsection, a distressed community is any community that meets affordability criteria established by the State in which the community is located, if such criteria are developed after public review and comment.
 
 #### (2) Priority
 
@@ -84,15 +84,15 @@ The Marine Protection, Research, and Sanctuaries Act, referred to in subsec. (c)
 
 #### Amendments
 
-2005—Subsec. (f). Pub. L. 109–137 substituted “2010” for “2005” in pars. (1) and (2).
+<b>2005</b>—Subsec. (f). Pub. L. 109–137 substituted “2010” for “2005” in pars. (1) and (2).
 
-2000—Subsec. (c)(1). Pub. L. 106–457, §402, inserted before semicolon at end “, including efforts to establish, within the process for granting watershed general permits, a system for promoting innovative methodologies and technologies that are cost-effective and consistent with the goals of the Plan”.
+<b>2000</b>—Subsec. (c)(1). Pub. L. 106–457, §402, inserted before semicolon at end “, including efforts to establish, within the process for granting watershed general permits, a system for promoting innovative methodologies and technologies that are cost-effective and consistent with the goals of the Plan”.
 
 Subsec. (e). Pub. L. 106–457, §403(2), added subsec. (e). Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 106–457, §§403(1), 404, redesignated subsec. (e) as (f) and substituted “2001 through 2005” for “1991 through 2001” in par. (1) and “not to exceed $40,000,000 for each of fiscal years 2001 through 2005” for “not to exceed $3,000,000 for each of the fiscal years 1991 through 2001” in par. (2).
 
-1996—Subsec. (e). Pub. L. 104–303 substituted “2001” for “1996” in pars. (1) and (2).
+<b>1996</b>—Subsec. (e). Pub. L. 104–303 substituted “2001” for “1996” in pars. (1) and (2).
 
 #### Long Island Sound Stewardship
 
@@ -526,7 +526,7 @@ In general.—The Advisory Committee shall recommend that the Administrator awar
 
 &emsp;&emsp;&emsp;“(ii) purchase of relevant property rights to a stewardship site; or
 
-&emsp;&emsp;&emsp;“(iii) entering into any other binding legal arrangement that ensures that the values of a stewardship site are sustained, including entering into an arrangement with a land manager or property owner to develop or implement a managementplan that is necessary for the conservation of natural resources.
+&emsp;&emsp;&emsp;“(iii) entering into any other binding legal arrangement that ensures that the values of a stewardship site are sustained, including entering into an arrangement with a land manager or property owner to develop or implement a management plan that is necessary for the conservation of natural resources.
 
 &emsp;&emsp;“(B)
 

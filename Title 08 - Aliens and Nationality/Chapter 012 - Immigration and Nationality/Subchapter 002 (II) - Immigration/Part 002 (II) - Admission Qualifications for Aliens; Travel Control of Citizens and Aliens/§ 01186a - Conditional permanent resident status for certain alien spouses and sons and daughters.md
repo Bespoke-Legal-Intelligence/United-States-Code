@@ -14,7 +14,7 @@
 
 #### (B) At time of required petition
 
-&emsp;&emsp;In addition, the Attorney General shall attempt to provide notice to such a spouse, son, or daughter, at or about the beginning of the 90-day period described in subsection (d)(2)(A) of this section, of the requirements of subsections <sup>1</sup> (c)(1) of this section.
+&emsp;&emsp;In addition, the Attorney General shall attempt to provide notice to such a spouse, son, or daughter, at or about the beginningof the 90-day period described in subsection (d)(2)(A) of this section, of the requirements of subsections <sup>1</sup> (c)(1) of this section.
 
 #### (C) Effect of failure to provide notice
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(A) the alien spouse and the petitioning spouse (if not deceased) jointly must submit to the Attorney General, during the period described in subsection (d)(2) of this section, a petition which requests the removal of such conditional basis and which states, under penalty of perjury, the facts and information described in subsection (d)(1) of this section, and
 
-&emsp;&emsp;(B) in accordance with subsection (d)(3) of this section, the alien spouse and the petitioning spouse (if not deceased) must appearfor a personal interview before an officer or employee of the Service respecting the facts and information described in subsection (d)(1) of this section.
+&emsp;&emsp;(B) in accordance with subsection (d)(3) of this section, the alien spouse and the petitioning spouse (if not deceased) must appear for a personal interview before an officer or employee of the Service respecting the facts and information described in subsection (d)(1) of this section.
 
 #### (2) Termination of permanent resident status for failure to file petition or have personal interview
 
@@ -88,7 +88,7 @@
 
 #### (D) Hearing in removal proceeding
 
-&emsp;&emsp;Any alien whose permanent resident status is terminated under subparagraph (C) may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that the facts and information described in subsection (d)(1) of this section and alleged in the petition are not true with respect to the qualifying marriage.
+&emsp;&emsp;Any alien whose permanent resident status is terminated under subparagraph (C)may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that the facts and information described in subsection (d)(1) of this section and alleged in the petition are not true with respect to the qualifying marriage.
 
 #### (4) Hardship waiver
 
@@ -150,11 +150,11 @@
 
 #### (e) Treatment of period for purposes of naturalization
 
-For purposes of subchapter III of this chapter, in the case of an alien who is in the United States as a lawful permanent resident on a conditional basis under this section, the alien shall be considered to have been admitted as an alien lawfully admitted for permanent residence and to be in the United States as an alien lawfully admitted to the United States for permanent residence.
+For purposes of subchapter III, in the case of an alien who is in the United States as a lawful permanent resident on a conditional basis under this section, the alien shall be considered to have been admitted as an alien lawfully admitted for permanent residence and to be in the United States as an alien lawfully admitted to the United States for permanent residence.
 
 #### (f) Treatment of certain waivers
 
-In the case of an alien who has permanent residence status on a conditional basis under this section, if, in order to obtain such status, the alien obtained a waiver under subsection (h) or (i) of section 1182 of this title of certain grounds of inadmissibility, such waiver terminates upon the termination of such permanent residence status under this section.
+In the case of an alien who has permanent residence status on a conditional basis under this section, if, in order to obtain such status, thealien obtained a waiver under subsection (h) or (i) of section 1182 of this title of certain grounds of inadmissibility, such waiver terminates upon the termination of such permanent residence status under this section.
 
 #### (g) Definitions
 
@@ -179,6 +179,8 @@ In this section:
 (June 27, 1952, ch. 477, title II, ch. 2, §216, as added Pub. L. 99–639, §2(a), Nov. 10, 1986, 100 Stat. 3537; amended Pub. L. 100–525, §7(a), Oct. 24, 1988, 102 Stat. 2616; Pub. L. 101–649, title VII, §701(a), Nov. 29, 1990, 104 Stat. 5085; Pub. L. 102–232, title III, §302(e)(8)(B), Dec. 12, 1991, 105 Stat. 1746; Pub. L. 103–322, title IV, §40702(a), Sept. 13, 1994, 108 Stat. 1955; Pub. L. 104–208, div. C, title III, §308(d)(4)(E), (e)(7), (f)(1)(I), (J), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–621; Pub. L. 106–553, §1(a)(2) \[title XI, §1103(c)(2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–145.)
 
 #### References in Text
+
+This chapter, referred to in subsec. (a)(1), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 Subsection (p) of section 1184 of this title, referred to in subsec. (d)(1)(A)(ii), was redesignated subsec. (r) of section 1184 by Pub. L. 108–193, §8(a)(3), Dec. 19, 2003, 117 Stat. 2886.
 
@@ -234,7 +236,7 @@ Section 302(e)(8) of Pub. L. 102–232 provided that the amendment made by that 
 
 #### Effective Date of 1990 Amendment
 
-Section 701(b) of Pub. L. 101–649 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to marriages entered into before, on, or after the date of the enactment of this Act \[Nov. 29, 1990\].”
+Section 701(b) of Pub. L. 101–649 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to marriages enteredinto before, on, or after the date of the enactment of this Act \[Nov. 29, 1990\].”
 
 #### Effective Date of 1988 Amendment
 

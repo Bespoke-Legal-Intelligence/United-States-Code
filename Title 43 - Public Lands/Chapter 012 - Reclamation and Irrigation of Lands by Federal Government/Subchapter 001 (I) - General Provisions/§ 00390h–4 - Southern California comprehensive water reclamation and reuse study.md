@@ -16,7 +16,7 @@ The Secretary shall submit the report authorized by this section to the Committe
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the House”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the House”.
 
 #### Reuse of Waste Water
 

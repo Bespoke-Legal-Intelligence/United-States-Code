@@ -26,7 +26,7 @@ The Director of the National Institute of Standards and Technology (in this chap
 
 #### (1) Development
 
-&emsp;Not later than 3 months after October 1, 2002, the Director, in consultation with the United States Fire Administration and other appropriate Federal agencies, shall develop procedures for the establishment and deployment of Teams. The Director shall update such procedures as appropriate. Such procedures shall include provisions—
+&emsp;Not later than 3 months after October 1, 2002, the Director, in consultation with theUnited States Fire Administration and other appropriate Federal agencies, shall develop procedures for the establishment and deployment of Teams. The Director shall update such procedures as appropriate. Such procedures shall include provisions—
 
 &emsp;&emsp;(A) regarding conflicts of interest related to service on the Team;
 
@@ -64,7 +64,7 @@ The Earthquake Hazards Reduction Act of 1977, referred to subsec. (c)(1)(J), is 
 
 #### Amendments
 
-2002—Subsec. (c)(1)(D). Pub. L. 107–305, which directed the substitution of “section 7306 of this title;” for “section 7307 of this title;” in subsec. (c)(1)(d), was executed to subsec. (c)(1)(D), to reflect the probable intent of Congress.
+<b>2002</b>—Subsec. (c)(1)(D). Pub. L. 107–305, which directed the substitution of “section 7306 of this title;” for “section 7307 of this title;” in subsec. (c)(1)(d), was executed to subsec. (c)(1)(D), to reflect the probable intent of Congress.
 
 #### Short Title
 

@@ -32,9 +32,9 @@ For purposes of this subchapter, the following definitions apply:
 
 #### Amendments
 
-2007—Par. (2). Pub. L. 110–140 substituted “means—” for “means” in introductory provisions, inserted subpar. (A) designation before “a reduction”, redesignated former subpars. (A) to (C) as cls. (i) to (iii) of subpar. (A), respectively, and added subpars. (B) to (D).
+<b>2007</b>—Par. (2). Pub. L. 110–140 substituted “means—” for “means” in introductory provisions, inserted subpar. (A) designation before “a reduction”, redesignated former subpars. (A) to (C) as cls. (i) to (iii) of subpar. (A), respectively, and added subpars. (B) to (D).
 
-2004—Par. (2). Pub. L. 108–375, §1090(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘energy savings’ means a reduction in the cost of energy, from a base cost established through a methodology set forth in the contract, utilized in an existing federally owned building or buildings or other federally owned facilities as a result of—
+<b>2004</b>—Par. (2). Pub. L. 108–375, §1090(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘energy savings’ means a reduction in the cost of energy, from a base cost established through a methodology set forth in the contract, utilized in an existing federally owned building or buildings or other federally owned facilities as a result of—
 
 &emsp;“(A) the lease or purchase of operating equipment, improvements, altered operation and maintenance, or technical services; or
 
@@ -48,9 +48,9 @@ Par. (3). Pub. L. 108–375, §1090(d), amended par. (3) generally. Prior to ame
 
 Par. (4). Pub. L. 108–375, §1090(e), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The term ‘energy conservation measures’ has the meaning given such term in section 8259(4) of this title.”
 
-1998—Par. (1). Pub. L. 105–388 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘Federal agency’ means an agency defined in section 551(1) of title 5.”
+<b>1998</b>—Par. (1). Pub. L. 105–388 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘Federal agency’ means an agency defined in section 551(1) of title 5.”
 
-1992—Pub. L. 102–486, §155(b)(1), substituted “subchapter, the following definitions apply:” for “subchapter—” in introductory provisions
+<b>1992</b>—Pub. L. 102–486, §155(b)(1), substituted “subchapter, the following definitions apply:” for “subchapter—” in introductory provisions
 
 Par. (1). Pub. L. 102–486, §155(b)(2), substituted “The” for “the” and a period for “, and” at end.
 

@@ -8,7 +8,7 @@ In the case of any nonresident alien individual or foreign corporation, there is
 
 #### (1) In general
 
-&emsp;Except as provided in paragraphs (2) and (3), the term “United States source gross transportation income” means any gross income which is transportation income (as defined in section 863(c)(3)) to the extent such income is treated as from sources in the United States under section 863(c)(2). To the extent provided in regulations, such term does not include any income of a kind to which an exemption under paragraph (1) or (2) of section 883(a) would not apply.
+&emsp;Except as provided in paragraphs (2) and (3), the term “United States source gross transportation income” means any gross incomewhich is transportation income (as defined in section 863(c)(3)) to the extent such income is treated as from sources in the United States under section 863(c)(2). To the extent provided in regulations, such term does not include any income of a kind to which an exemption under paragraph (1) or (2) of section 883(a) would not apply.
 
 #### (2) Exception for certain income effectively connected with business in the United States
 
@@ -34,13 +34,13 @@ Any income taxable under this section shall not be taxable under section 871, 88
 
 #### Amendments
 
-1989—Subsec. (b)(1). Pub. L. 101–239, §7811(i)(8)(B), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+<b>1989</b>—Subsec. (b)(1). Pub. L. 101–239, §7811(i)(8)(B), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
 Subsec. (b)(3). Pub. L. 101–239, §7811(i)(8)(A), added par. (3). Former par. (3) redesignated (4).
 
 Subsec. (b)(4). Pub. L. 101–239, §7811(i)(8)(A), (9), redesignated former par. (3) as (4) and substituted “United States source gross transportation income” for “transportation income” in introductory provisions and in subpar. (A).
 
-1988—Subsec. (b)(1). Pub. L. 100–647 substituted “under section 863(c)(2)” for “under section 863(c)” and inserted at end “To the extent provided in regulations, such term does not include any income of a kind to which an exemption under paragraph (1) or (2) of section 883(a) would not apply.”
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–647 substituted “under section 863(c)(2)” for “under section 863(c)” and inserted at end “To the extent provided in regulations, such term does not include any income of a kind to which an exemption under paragraph (1) or (2) of section 883(a) would not apply.”
 
 #### Effective Date of 1989 Amendment
 

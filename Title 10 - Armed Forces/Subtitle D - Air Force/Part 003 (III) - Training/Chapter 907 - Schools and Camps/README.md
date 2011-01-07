@@ -13,9 +13,9 @@
 
 #### Amendments
 
-2006—Pub. L. 109–163, div. A, title V, §522(f)(2), Jan. 6, 2006, 119 Stat. 3244, added item 9417.
+<b>2006</b>—Pub. L. 109–163, div. A, title V, §522(f)(2), Jan. 6, 2006, 119 Stat. 3244, added item 9417.
 
-1990—Pub. L. 101–510, div. A, title III, §330(b), Nov. 5, 1990, 104 Stat. 1535, added item 9415.
+<b>1990</b>—Pub. L. 101–510, div. A, title III, §330(b), Nov. 5, 1990, 104 Stat. 1535, added item 9415.
 
 
 ---

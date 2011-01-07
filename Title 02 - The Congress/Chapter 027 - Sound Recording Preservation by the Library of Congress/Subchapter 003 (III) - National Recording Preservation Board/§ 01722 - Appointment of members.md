@@ -60,7 +60,7 @@ The Librarian shall appoint one member of the Board to serve as Chair.
 
 #### (2) Removal of members
 
-&emsp;The Librarian shall have the authority to remove any member of the Board if the member fails, after receiving proper notification, to attend (or send a designated alternate to attend) a regularly scheduled Board meeting, or if the member is determined by the Librarian to have substantially failed to fulfill the member's responsibilities as a member of the Board.
+&emsp;The Librarian shall have the authority to remove any member of the Board if the member fails, after receiving proper notification, to attend (or send a designated alternate to attend) a regularly scheduled Board meeting, or if themember is determined by the Librarian to have substantially failed to fulfill the member's responsibilities as a member of the Board.
 
 #### (3) Vacancies
 

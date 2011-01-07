@@ -51,15 +51,15 @@
 
 #### Amendments
 
-1998—Pub. L. 105–339, §7(b)(2), Oct. 31, 1998, 112 Stat. 3189, added item 1354.
+<b>1998</b>—Pub. L. 105–339, §7(b)(2), Oct. 31, 1998, 112 Stat. 3189, added item 1354.
 
-1990—Pub. L. 101–280, §4(b)(2), May 4, 1990, 104 Stat. 157, redesignated item 1352 “Acceptance of travel and related expenses from non-Federal sources” as 1353.
+<b>1990</b>—Pub. L. 101–280, §4(b)(2), May 4, 1990, 104 Stat. 157, redesignated item 1352 “Acceptance of travel and related expenses from non-Federal sources” as 1353.
 
-1989—Pub. L. 101–194, title III, §302(b), Nov. 30, 1989, 103 Stat. 1746, added item 1352 “Acceptance of travel and related expenses from non-Federal sources”.
+<b>1989</b>—Pub. L. 101–194, title III, §302(b), Nov. 30, 1989, 103 Stat. 1746, added item 1352 “Acceptance of travel and related expenses from non-Federal sources”.
 
 Pub. L. 101–121, title III, §319(a)(2), Oct. 23, 1989, 103 Stat. 756, added item 1352 “Limitation on use of appropriated funds to influence certain Federal contracting and financial transactions”.
 
-1986—Pub. L. 99–550, §1(b), Oct. 27, 1986, 100 Stat. 3070, substituted “Passenger carrier use” for “Passenger motor vehicle and aircraft use” in item 1344.
+<b>1986</b>—Pub. L. 99–550, §1(b), Oct. 27, 1986, 100 Stat. 3070, substituted “Passenger carrier use” for “Passenger motor vehicle and aircraft use” in item 1344.
 
 
 ---

@@ -1,38 +1,74 @@
 ### §10301. Reserve Forces Policy Board
 
-(a) There is in the Office of the Secretary of Defense a Reserve Forces Policy Board. The Board consists of the following:
+(a)
 
-&emsp;(1) A civilian chairman appointed by the Secretary of Defense.
+In General.—As provided in section 175 of this title, there is in the Office of the Secretary of Defense a board known as the “Reserve Forces Policy Board” (in this section referred to as the “Board”).
 
-&emsp;(2) The Assistant Secretary of the Army for Manpower and Reserve Affairs, the Assistant Secretary of the Navy for Manpower and Reserve Affairs, and the Assistant Secretary of the Air Force for Manpower and Reserve Affairs.
+(b)
 
-&emsp;(3) An officer of the Regular Army designated by the Secretary of the Army.
+Functions.—The Board shall serve as an independent adviser to the Secretary of Defense to provide advice and recommendations to the Secretary on strategies, policies, and practices designed to improve and enhance the capabilities, efficiency, and effectiveness of the reserve components.
 
-&emsp;(4) An officer of the Regular Navy and an officer of the Regular Marine Corps, each designated by the Secretary of the Navy.
+(c)
 
-&emsp;(5) An officer of the Regular Air Force designated by the Secretary of the Air Force.
+Membership.—The Board consists of 20 members, appointed or designated as follows:
 
-&emsp;(6) Four reserve officers designated by the Secretary of Defense upon the recommendation of the Secretary of the Army, two of whom must be members of the Army National Guard of the United States, and two of whom must be members of the Army Reserve.
+&emsp;(1) A civilian appointed by the Secretary of Defense from among persons determined by the Secretary to have the knowledge of, and experience in, policy matters relevant to national security and reserve component matters necessary to carry out the duties of chair of the Board, who shall serve as chair of the Board.
 
-&emsp;(7) Four reserve officers designated by the Secretary of Defense upon the recommendation of the Secretary of the Navy, two of whom must be members of the Navy Reserve, and two of whom must be members of the Marine Corps Reserve.
+&emsp;(2) Two active or retired reserve officers or enlisted members designated by the Secretary of Defense upon the recommendation of the Secretary of the Army—
 
-&emsp;(8) Four reserve officers designated by the Secretary of Defense upon the recommendation of the Secretary of the Air Force, two of whom must be members of the Air National Guard of the United States, and two of whom must be members of the Air Force Reserve.
+&emsp;&emsp;(A) one of whom shall be a member of the Army National Guard of the United States or a former member of the Army National Guard of the United States in the Retired Reserve; and
 
-&emsp;(9) A reserve officer of the Army, Navy, Air Force, or Marine Corps who is a general officer or flag officer designated by the Chairman of the Board with the approval of the Secretary of Defense, and who serves without vote as military adviser to the Chairman and as executive officer of the Board.
+&emsp;&emsp;(B) one of whom shall be a member or retired member of the Army Reserve.
 
-&emsp;(10) An officer of the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps serving in a position on the Joint Staff who is designated by the Chairman of the Joint Chiefs of Staff.
+&emsp;(3) Two active or retired reserve officers or enlisted members designated by the Secretary of Defense upon the recommendation of the Secretary of the Navy—
 
-(b) Whenever the Coast Guard is not operating as a service in the Navy, the Secretary of Homeland Security may designate two officers of the Coast Guard, Regular or Reserve, to serve as voting members of the Board.
+&emsp;&emsp;(A) one of whom shall be an active or retired officer of the Navy Reserve; and
 
-(c) The Board, acting through the Assistant Secretary of Defense for Reserve Affairs, is the principal policy adviser to the Secretary of Defense on matters relating to the reserve components.
+&emsp;&emsp;(B) one of whom shall be an active or retired officer of the Marine Corps Reserve.
 
-(d) This section does not affect the committees on reserve policies prescribed within the military departments by sections 10302 through 10305 of this title.
+&emsp;(4) Two active or retired reserve officers or enlisted members designated by the Secretary of Defense upon the recommendation of the Secretary of the Air Force—
 
-(e) A member of a committee or board prescribed under a section listed in subsection (d) may, if otherwise eligible, be a member of the Reserve Forces Policy Board.
+&emsp;&emsp;(A) one of whom shall be a member of the Air National Guard of the United States or a former member of the Air National Guard of the United States in the Retired Reserve; and
 
-(f) The Board shall act on those matters referred to it by the Chairman and, in addition, on any matter raised by a member of the Board.
+&emsp;&emsp;(B) one of whom shall be a member or retired member of the Air Force Reserve.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1661(b)(1), Oct. 5, 1994, 108 Stat. 2980; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, §515(b)(1)(CC), Jan. 6, 2006, 119 Stat. 3233.)
+&emsp;(5) One active or retired reserve officer or enlisted member of the Coast Guard designated by the Secretary of Homeland Security.
+
+&emsp;(6) Ten persons appointed or designated by the Secretary of Defense, each of whom shall be a United States citizen having significant knowledge of and experience in policy matters relevant to national security and reserve component matters and shall be one of the following:
+
+&emsp;&emsp;(A) An individual not employed in any Federal or State department or agency.
+
+&emsp;&emsp;(B) An individual employed by a Federal or State department or agency.
+
+&emsp;&emsp;(C) An officer of a regular component of the armed forces on active duty, or an officer of a reserve component of the armed forces in an active status, who—
+
+&emsp;&emsp;&emsp;(i) is serving or has served in a senior position on the Joint Staff, the headquarters staff of a combatant command, or the headquarters staff of an armed force; and
+
+&emsp;&emsp;&emsp;(ii) has experience in joint professional military education, joint qualification, and joint operations matters.
+
+&emsp;(7) A reserve officer of the Army, Navy, Air Force, or Marine Corps who is a general or flag officer recommended by the chair and designated by the Secretary of Defense, who shall serve without vote—
+
+&emsp;&emsp;(A) as military adviser to the chair;
+
+&emsp;&emsp;(B) as military executive officer of the Board; and
+
+&emsp;&emsp;(C) as supervisor of the operations and staff of the Board.
+
+&emsp;(8) A senior enlisted member of a reserve component recommended by the chair and designated by the Secretary of Defense, who shall serve without vote as enlisted military adviser to the chair.
+
+(d)
+
+Matters To Be Acted on.—The Board may act on those matters referred to it by the chair and on any matter raised by a member of the Board or the Secretary of Defense.
+
+(e)
+
+Staff.—The Board shall be supported by a staff consisting of one full-time officer from each of the reserve components listed in paragraphs (1) through (6) of section 10101 of this title who holds the grade of colonel (or in the case of the Navy, the grade of captain) or who has been selected for promotion to that grade. These officers shall also serve as liaisons between their respective components and the Board. They shall perform their staff and liaison duties under the supervision of the military executive officer of the Board in an independent manner reflecting the independent nature of the Board.
+
+(f)
+
+Relationship to Service Reserve Policy Committees and Boards.—This section does not affect the committees and boards prescribed within the military departments by sections 10302 through 10305 of this title, and a member of such a committee or board may, if otherwise eligible, be a member of the Board.
+
+(Added Pub. L. 103–337, div. A, title XVI, §1661(b)(1), Oct. 5, 1994, 108 Stat. 2980; amendedPub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, §515(b)(1)(CC), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 111–383, div. A, title V, §514(a)(1), Jan. 7, 2011, 124 Stat. 4211.)
 
 #### Prior Provisions
 
@@ -40,9 +76,15 @@ Provisions similar to those in this section were contained in section 175 of thi
 
 #### Amendments
 
-2006—Subsec. (a)(7). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2011</b>—Pub. L. 111–383 amended section generally. Prior to amendment, section related to the composition and functions of the Reserve Forces Policy Board.
 
-2002—Subsec. (b). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2006</b>—Subsec. (a)(7). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+
+<b>2002</b>—Subsec. (b). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–383, div. A, title V, §514(a)(2), Jan. 7, 2011, 124 Stat. 4213, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on July 1, 2011.”
 
 #### Effective Date of 2002 Amendment
 

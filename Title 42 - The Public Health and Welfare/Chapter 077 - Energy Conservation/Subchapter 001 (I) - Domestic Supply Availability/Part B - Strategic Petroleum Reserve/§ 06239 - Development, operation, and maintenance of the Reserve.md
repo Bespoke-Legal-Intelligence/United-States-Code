@@ -44,11 +44,11 @@ During a drawdown and sale of Strategic Petroleum Reserve petroleum products, th
 
 #### References in Text
 
-The Interstate Commerce Act, referred to in subsec. (k), is act Feb. 4, 1887, ch. 104, 24 Stat. 379, as amended, which was classified generally to chapters 1, 8, 12, 13, and 19 (§§1 et seq., 301 et seq., 901 et seq., 1001 et seq., and 1231 et seq., respectively) of former Title 49, Transportation. The Act was repealed (subject to an exception) by Pub. L. 95–473, §4(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49. Section 4(c) of Pub. L. 95–473 excepted from repeal those provisions of the Interstate Commerce Act that vested functions in the Interstate Commerce Commission, or the chairman or members of the Commission, related to transportation of oil by pipeline and that were transferred to the Secretary of Energy and the Federal Energy Regulatory Commission by sections 7155 and 7172(b) of this title.
+The Interstate Commerce Act, referred to in subsec. (k), is act Feb. 4, 1887, ch. 104, 24 Stat. 379, as amended, which was classified generally to chapters 1, 8, 12, 13, and 19 (§§1 et seq., 301 et seq., 901 et seq., 1001 et seq., and 1231 et seq., respectively) of former Title 49, Transportation. The Act was repealed (subject to an exception) by Pub. L. 95–473, §4(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49. Section 4(c) of Pub. L. 95–473 excepted from repeal those provisions of the Interstate Commerce Act that vested functions in the Interstate Commerce Commission, or the chairman or members of theCommission, related to transportation of oil by pipeline and that were transferred to the Secretary of Energy and the Federal Energy Regulatory Commission by sections 7155 and 7172(b) of this title.
 
 #### Amendments
 
-2000—Pub. L. 106–469, §103(12), amended section catchline generally.
+<b>2000</b>—Pub. L. 106–469, §103(12), amended section catchline generally.
 
 Subsecs. (a) to (e). Pub. L. 106–469, §103(13)(A), struck out subsecs. (a) to (e) which related to congressional review and effective date of the Strategic Petroleum Reserve Plan, preparation and transmittal to Congress of proposals for designing, constructing, and filling facilities and of Plan amendments, and 60-day waiting period for effectiveness of amendments.
 
@@ -62,17 +62,17 @@ Subsec. (j). Pub. L. 106–469, §103(13)(E), amended subsec. (j) generally. Pri
 
 Subsec. (<i>l</i>). Pub. L. 106–469, §103(13)(F), amended subsec. (<i>l</i>) generally. Prior to amendment, subsec. (<i>l</i>) read as follows: “Notwithstanding subsection (d) of this section, during any period in which the Distribution Plan is being implemented, the Secretary may amend the plan and promulgate rules, regulations, or orders to implement such amendments in accordance with section 6393 of this title, without regard to the requirements of section 553 of title 5 and section 7191 of this title. Such amendments shall be transmitted to the Congress together with a statement explaining the need for such amendments.”
 
-1990—Subsecs. (i), (j). Pub. L. 101–383, §4(a), added subsecs. (i) and (j).
+<b>1990</b>—Subsecs. (i), (j). Pub. L. 101–383, §4(a), added subsecs. (i) and (j).
 
 Subsec. (k). Pub. L. 101–383, §9, added subsec. (k).
 
 Subsec. (<i>l</i>). Pub. L. 101–383, §11, added subsec. (<i>l</i>).
 
-1985—Subsec. (e). Pub. L. 99–58 amended subsec. (e) generally, substituting provisions directing that amendments transmitted pursuant to subsec. (d) of this section not become effective until 60 days after transmittal except in the case of enumerated presidential determinations for provisions which had formerly empowered Congress to disapprove of transmitted proposals and amendments in accordance with the procedures specified in section 6421 of this title.
+<b>1985</b>—Subsec. (e). Pub. L. 99–58 amended subsec. (e) generally, substituting provisions directing that amendments transmitted pursuant to subsec. (d) of this section not become effective until 60 days after transmittal except in the case of enumerated presidential determinations for provisions which had formerly empowered Congress to disapprove of transmitted proposals and amendments in accordance with the procedures specified in section 6421 of this title.
 
-1982—Subsec. (f)(5). Pub. L. 97–229, §4(b)(1), added par. (5).
+<b>1982</b>—Subsec. (f)(5). Pub. L. 97–229, §4(b)(1), added par. (5).
 
 Subsec. (h). Pub. L. 97–229, §4(b)(2)(B), added subsec. (h).
 
-1978—Subsecs. (a)(1), (c), (d), (e)(1), (f), (f)(I), (g). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+<b>1978</b>—Subsecs. (a)(1), (c), (d), (e)(1), (f), (f)(I), (g). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 

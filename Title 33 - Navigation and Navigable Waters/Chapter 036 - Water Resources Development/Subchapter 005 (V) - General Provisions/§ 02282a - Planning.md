@@ -72,7 +72,7 @@ A feasibility study for a project for flood damage reduction shall include, as p
 
 #### (C) Reports of Chief of Engineers
 
-&emsp;&emsp;The reports of the Chief of Engineers shall identify any recommendation that is not the best technical solution to water resource needs and problems and the reason for the deviation.
+&emsp;&emsp;The reports of the Chief of Engineers shall identify any recommendation that is not the best technical solution to water resourceneeds and problems and the reason for the deviation.
 
 #### (2) Report completion
 

@@ -6,7 +6,7 @@
 
 (b) A person willfully and knowingly violating this chapter or a regulation prescribed under this chapter commits a class D felony.
 
-(c) Instead of the penalties provided by subsection (b) of this section, a person willfully and knowingly violating this chapter or a regulation prescribed under this chapter, and using a dangerous weapon, or engaging in conduct that causes bodily injury or fear of imminent bodily injury to an official authorized to enforce this chapter or a regulation prescribed under this chapter, commits a class C felony.
+(c) Instead of the penalties provided by subsection (b) of this section, a person willfully and knowingly violating this chapter or a regulationprescribed under this chapter, and using a dangerous weapon, or engaging in conduct that causes bodily injury or fear of imminent bodily injury to an official authorized to enforce this chapter or a regulation prescribed under this chapter, commits a class C felony.
 
 (d) The district courts of the United States have jurisdiction to restrain a violation of this chapter or a regulation prescribed under this chapter.
 
@@ -34,11 +34,11 @@ In addition, where the owner or operator of the vessel is subject to any of the 
 
 #### Amendments
 
-2006—Subsec. (e)(1). Pub. L. 109–304 substituted “Secretary of Homeland Security” and “section 60105 of this title” for “Secretary of the Treasury” and “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)”, respectively.
+<b>2006</b>—Subsec. (e)(1). Pub. L. 109–304 substituted “Secretary of Homeland Security” and “section 60105 of this title” for “Secretary of the Treasury” and “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)”, respectively.
 
-1996—Subsec. (e). Pub. L. 104–324 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “At the request of the Secretary, the Secretary of the Treasury shall withhold or revoke the clearance required by section 4197 of the Revised Statutes (46 App. U.S.C. 91) of a vessel the owner or operator of which is subject to a penalty under this section. Clearance may be granted on filing a bond or other surety satisfactory to the Secretary.”
+<b>1996</b>—Subsec. (e). Pub. L. 104–324 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “At the request of the Secretary, the Secretary of the Treasury shall withhold or revoke the clearance required by section 4197 of the Revised Statutes (46 App. U.S.C. 91) of a vessel the owner or operator of which is subject to a penalty under this section. Clearance may be granted on filing a bond or other surety satisfactory to the Secretary.”
 
-1990—Subsec. (b). Pub. L. 101–380, §4302(c)(1), substituted “commits a class D felony” for “shall be fined not more than $50,000, imprisoned for not more than 5 years, or both”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–380, §4302(c)(1), substituted “commits a class D felony” for “shall be fined not more than $50,000, imprisoned for not more than 5 years, or both”.
 
 Subsec. (c). Pub. L. 101–380, §4302(c)(2), substituted “commits a class C felony” for “shall be fined not more than $100,000, imprisoned for not more than 10 years, or both”.
 

@@ -8,7 +8,7 @@
 
 (C) The Director shall not provide a stipend under this subsection to an individual who elects to receive a national service educational award under subtitle D of title I of the National and Community Service Act of 1990 \[42 U.S.C. 12601 et seq.\].
 
-(2) Stipends shall be payable only upon completion of a period of service, except that undersuch circumstances as the Director shall determine, in accordance with regulations which the Director shall prescribe, the accrued stipend, or any part of the accrued stipend, may be paid to the volunteer, or, on behalf of the volunteer, to members of the volunteer's family or others during the period of the volunteer's service. In the event of the death of a volunteer during service, the amount of any unpaid stipend shall be paid in accordance with the provisions of section 5582 of title 5.
+(2) Stipends shall be payable only upon completion of a period of service, except that under such circumstances as the Director shall determine, in accordance with regulations which the Director shall prescribe, the accrued stipend, or any part of the accrued stipend, may be paid to the volunteer, or, on behalf of the volunteer, to members of the volunteer's family or others during the period of the volunteer's service. In the event of the death of a volunteer during service, the amount of any unpaid stipend shall be paid in accordance with the provisions of section 5582 of title 5.
 
 #### (b) Description of allowances and support services; determination of allowance; adjustments; methodology
 
@@ -40,9 +40,9 @@ The National and Community Service Act of 1990, referred to in subsec. (a)(1)(C)
 
 #### Amendments
 
-2009—Subsec. (a)(1)(B). Pub. L. 111–13 substituted “Such stipend shall be set at a rate that is not less than a minimum of $125 per month and not more than a maximum of $150 per month, subject to the availability of funds to provide such a maximum rate.” for “Such stipend shall not exceed $95 per month in fiscal year 1994, but shall be set at a minimum of $100 per month, and a maximum of $125 per month assuming the availability of funds to accomplish such maximum, during the service of the volunteer after October 1, 1994.” and “stipend set at a rate that is not more than a maximum of $250 per month” for “stipend of a maximum of $200 per month”.
+<b>2009</b>—Subsec. (a)(1)(B). Pub. L. 111–13 substituted “Such stipend shall be set at a rate that is not lessthan a minimum of $125 per month and not more than a maximum of $150 per month, subject to the availability of funds to provide such a maximum rate.” for “Such stipend shall not exceed $95 per month in fiscal year 1994, but shall be set at a minimum of $100 per month, and a maximum of $125 per month assuming the availability of funds to accomplish such maximum, during the service of the volunteer after October 1, 1994.” and “stipend set at a rate that is not more than a maximum of $250 per month” for “stipend of a maximum of $200 per month”.
 
-1993—Subsec. (a)(1). Pub. L. 103–82, §325(a), designated first sentence as subpar. (A), added subpars. (B) and (C), and struck out former second sentence which read as follows: “Such stipend shall not exceed $75 per month in fiscal year 1990, $90 per month in fiscal year 1991, and $95 per month in subsequent fiscal years during the volunteer's service, except that the Director may provide a stipend not to exceed $75 per month in fiscal year 1990, $90 per month in fiscal year 1991, and $95 per month in subsequent fiscal years in the case of persons who have served for at least one year and who, in accordance with standards established in regulations which the Director shall prescribe, have been designated volunteer leaders on the basis of experience and special skills and a demonstrated leadership among volunteers.”
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–82, §325(a), designated first sentence as subpar. (A), added subpars. (B) and (C), and struck out former second sentence which read as follows: “Such stipend shall not exceed $75 per month in fiscal year 1990, $90 per month in fiscal year 1991, and $95 per month in subsequent fiscal years during the volunteer's service, except that the Director may provide a stipend not to exceed $75 per month in fiscal year 1990, $90 per month in fiscal year 1991, and $95 per month in subsequent fiscal years in the case of persons who have served for at least one year and who, in accordance with standards established in regulations which the Director shall prescribe, have been designated volunteer leaders on the basis of experience and special skills and a demonstrated leadership among volunteers.”
 
 Subsec. (b)(3). Pub. L. 103–82, §325(b)(1), struck out subpar. (A), struck out subpar. (B) designation before “The Director shall adjust”, and inserted at end: “The Director shall review such adjustments on an annual basis to ensure that the adjustments are current.”. Prior to amendment, subpar. (A) read as follows: “The Director shall consult with regional and State offices of the ACTION Agency to make a determination of the cost of living within each State and whether there are significant local price differentials within the State.”
 
@@ -50,17 +50,17 @@ Subsec. (b)(4). Pub. L. 103–82, §325(b)(2), struck out par. (4) which read as
 
 Subsec. (c). Pub. L. 103–82, §325(c), added subsec. (c).
 
-1989—Subsec. (a)(1). Pub. L. 101–204, §102(1), substituted “$75 per month in fiscal year 1990, $90 per month in fiscal year 1991, and $95 per month in subsequent fiscal years” for “$75 per month” in two places.
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–204, §102(1), substituted “$75 per month in fiscal year 1990, $90 per month in fiscal year 1991, and $95 per month in subsequent fiscal years” for “$75 per month” in two places.
 
 Subsec. (b). Pub. L. 101–204, §102(2), designated existing provisions as par. (1), substituted “places of training and to and from locations to which volunteers are assigned during periods of service)” for “places of training),”, and added pars. (2) to (4).
 
-1986—Subsec. (b). Pub. L. 99–551 substituted “the Director” for “he” before “deems”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–551 substituted “the Director” for “he” before “deems”.
 
-1984—Subsec. (b). Pub. L. 98–288 inserted “pre-service training and where appropriate in-service training,”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–288 inserted “pre-service training and where appropriate in-service training,”.
 
-1979—Subsec. (a)(2). Pub. L. 96–143 substituted “under such circumstances as the Director shall determine, inaccordance with regulations which the director shall prescribe, the accrued stipend, or any part of the accrued stipend, may be paid to the volunteer, or, on behalf of the volunteer, to members of the volunteer's family or others during the period of the volunteer's service” for “in extraordinary circumstances the Director may from time to time advance all or a portion of the accrued stipend to or on behalf of a volunteer”.
+<b>1979</b>—Subsec. (a)(2). Pub. L. 96–143 substituted “under such circumstances as the Director shall determine, in accordance with regulations which the director shall prescribe, the accrued stipend, or any part of the accrued stipend, may be paid to the volunteer, or, on behalf of the volunteer, to members of the volunteer's family or others during the period of the volunteer's service” for “in extraordinary circumstances the Director may from time to time advance all or a portion of the accrued stipend to or on behalf of a volunteer”.
 
-1975—Subsec. (a)(1). Pub. L. 94–130 substituted “shall not exceed $75” for “shall not exceed $50”.
+<b>1975</b>—Subsec. (a)(1). Pub. L. 94–130 substituted “shall not exceed $75” for “shall not exceed $50”.
 
 #### Effective Date of 2009 Amendment
 

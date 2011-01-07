@@ -16,7 +16,7 @@ In making grants under section 300ff–51 of this title, the Secretary shall giv
 
 &emsp;&emsp;(C) the lack of availability of early intervention services;
 
-&emsp;&emsp;(D) the number of other cases of sexually transmitted diseases, and <sup>1</sup> the number of cases of tuberculosis and of drug abuse <sup>2</sup> and the number of cases of individuals co-infected with HIV/AIDS and hepatitis B or C;
+&emsp;&emsp;(D) the number of other cases of sexually transmitted diseases, and <sup>1</sup> the number of cases of tuberculosis and of drug abuse <sup>2</sup> andthe number of cases of individuals co-infected with HIV/AIDS and hepatitis B or C;
 
 &emsp;&emsp;(E) the rate of increase in each of the cases specified in subparagraph (D);
 
@@ -44,9 +44,9 @@ Of the applicants who qualify for preference under this section—
 
 #### Amendments
 
-2009—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect onSept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+<b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
 Subsec. (a). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease”.
 
@@ -56,7 +56,7 @@ Subsec. (b)(1)(D). Pub. L. 109–415, §302(b)(1)(B), inserted “and the number
 
 Subsec. (d)(2). Pub. L. 109–415, §302(b)(2), substituted “preference” for “special consideration”.
 
-2000—Subsec. (d). Pub. L. 106–345 added subsec. (d).
+<b>2000</b>—Subsec. (d). Pub. L. 106–345 added subsec. (d).
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

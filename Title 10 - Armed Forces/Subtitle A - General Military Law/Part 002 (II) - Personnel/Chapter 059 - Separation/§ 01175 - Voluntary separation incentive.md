@@ -98,23 +98,23 @@
 
 #### Amendments
 
-2009—Subsec. (e)(3)(A). Pub. L. 111–32 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “A member who has received the voluntary separation incentive and who qualifies for retired or retainer pay under this title shall have deducted from each payment of such retired or retainer pay so much of such pay as is based on the service for which he received the voluntary separation incentive until the total amount deducted equals the total amount of voluntary separation incentive received. If the member elected to have a reduction in voluntary separation incentive for any period pursuant to paragraph (2), the deduction required under the preceding sentence shall be reduced accordingly.”
+<b>2009</b>—Subsec. (e)(3)(A). Pub. L. 111–32 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “A member who has received the voluntary separation incentive and who qualifies for retired or retainer pay under this title shall have deducted from each payment of such retired or retainer pay so much of such pay as is based on the service for which he received the voluntary separation incentive until the total amount deducted equals the total amount of voluntary separation incentive received. If the member elected to have a reduction in voluntary separation incentive for any period pursuant to paragraph (2), the deduction required under the preceding sentence shall be reduced accordingly.”
 
-2008—Subsec. (h)(4). Pub. L. 110–181 struck out “Retirement” before “Board of Actuaries”.
+<b>2008</b>—Subsec. (h)(4). Pub. L. 110–181 struck out “Retirement” before “Board of Actuaries”.
 
-2002—Subsecs. (a)(1), (2)(B)(ii), (b), (g), (i). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsecs. (a)(1), (2)(B)(ii), (b), (g), (i). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-2000—Subsec. (d)(3). Pub. L. 106–398, §1 \[\[div. A\], title V, §571(b)\], substituted “December 31, 2001” for “September 30, 2001”.
+<b>2000</b>—Subsec. (d)(3). Pub. L. 106–398, §1 \[\[div. A\], title V, §571(b)\], substituted “December 31, 2001” for “September 30, 2001”.
 
 Subsec. (e)(3). Pub. L. 106–398, §1 \[\[div. A\], title V, §572(a)\], designated existing provisions as subpar. (A) and added subpar. (B).
 
-1998—Subsec. (a). Pub. L. 105–261, §563(a), designated existing provisions as par. (1), struck out “, for the period of time the member serves in a reserve component” after “under subsection (c)”, and added par. (2).
+<b>1998</b>—Subsec. (a). Pub. L. 105–261, §563(a), designated existing provisions as par. (1), struck out “, for the period of time the member serves in a reserve component” after “under subsection (c)”, and added par. (2).
 
 Subsec. (d)(3). Pub. L. 105–261, §561(b), substituted “September 30, 2001” for “September 30, 1999”.
 
 Subsec. (e)(1). Pub. L. 105–261, §563(b), struck out at end “The annual payment will be made for a period equal to the number of years that is equal to twice the number of years of service of the member.”
 
-1994—Subsecs. (a), (b). Pub. L. 103–337, §542(c)(1), inserted “and the Secretary of Transportation” after “Secretary of Defense”.
+<b>1994</b>—Subsecs. (a), (b). Pub. L. 103–337, §542(c)(1), inserted “and the Secretary of Transportation” after “Secretary of Defense”.
 
 Subsec. (c). Pub. L. 103–337, §542(c)(2), struck out “of the military department” after “Secretary”.
 
@@ -124,17 +124,17 @@ Subsec. (h)(3). Pub. L. 103–337, §542(c)(4), inserted “by the Secretary of 
 
 Subsec. (i). Pub. L. 103–337, §542(c)(5), inserted “and the Secretary of Transportation” after “Secretary of Defense”.
 
-1993—Subsec. (d)(1). Pub. L. 103–160, §502, struck out “before December 5, 1991” after “active service”.
+<b>1993</b>—Subsec. (d)(1). Pub. L. 103–160, §502, struck out “before December 5, 1991” after “active service”.
 
 Subsecs. (d)(3), (h)(6). Pub. L. 103–160, §561(h)(1), substituted “September 30, 1999” for “September 30, 1995” wherever appearing.
 
 Subsec. (h)(7)(A). Pub. L. 103–160, §561(h)(2), substituted “fiscal year 1999” for “fiscal year 1996”.
 
-1992—Subsec. (a). Pub. L. 102–484, §1052(16)(A), substituted “reserve component” for “Reserve component” after “transfer to a”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–484, §1052(16)(A), substituted “reserve component” for “Reserve component” after “transfer to a”.
 
 Subsec. (b)(1), (2). Pub. L. 102–484, §4422(b)(1), (2), inserted “or full-time National Guard duty or any combination of active duty and full-time National Guard duty” after “active duty”.
 
-Subsec. (b)(3), (4). Pub. L. 102–484, §4424(b)(3), redesignated par. (4) as (3) and struck out former par. (3) whichread as follows: “if a Reserve, is on the active duty list; and”.
+Subsec. (b)(3), (4). Pub. L. 102–484, §4424(b)(3), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “if a Reserve, is on the active duty list; and”.
 
 Subsec. (d)(1). Pub. L. 102–484, §1052(16)(B), substituted “before December 5, 1991” for “prior to the time this provision is enacted”.
 

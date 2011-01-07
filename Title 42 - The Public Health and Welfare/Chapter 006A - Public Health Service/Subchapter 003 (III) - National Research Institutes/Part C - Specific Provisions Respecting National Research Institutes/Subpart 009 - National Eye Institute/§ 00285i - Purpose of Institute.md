@@ -6,5 +6,5 @@ The general purpose of the National Eye Institute (hereafter in this subpart ref
 
 #### Amendments
 
-1993—Pub. L. 103–43 substituted “Subject to section 285i–1 of this title, the Director” for “The Director” in second sentence.
+<b>1993</b>—Pub. L. 103–43 substituted “Subject to section 285i–1 of this title, the Director” for “The Director” in second sentence.
 

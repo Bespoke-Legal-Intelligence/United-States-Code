@@ -30,11 +30,11 @@ The Congress finds that:
 
 &emsp;(12) Through the Newlands Resolution and the 1900 Organic Act, the United States Congress received 1.75 million acres of lands formerly owned by the Crown and Government of the Hawaiian Kingdom and exempted the lands from then existing public land laws of the United States by mandating that the revenue and proceeds from these lands be “used solely for the benefit of the inhabitants of the Hawaiian Islands for education and other public purposes”, thereby establishing a special trust relationship between the United States and the inhabitants of Hawaii.
 
-&emsp;(13) In 1921, Congress enacted the Hawaiian Homes Commission Act, 1920 which designated 200,000 acres of the ceded public lands for exclusive homesteading by Native Hawaiians, thereby affirming the trust relationship between the United States and the Native Hawaiians, as expressed by then Secretary of the Interior Franklin K. Lane who was cited in the Committee Report of the United States House of Representatives Committee on Territories as stating, “One thing that impressed me . . . was the fact that the natives of the islands who are our wards, I should say, and for whomin a sense we are trustees, are falling off rapidly in numbers and many of them are in poverty.”.
+&emsp;(13) In 1921, Congress enacted the Hawaiian Homes Commission Act, 1920 which designated 200,000 acres of the ceded public lands for exclusive homesteading by Native Hawaiians, thereby affirming the trust relationship between the United States and the Native Hawaiians, as expressed by then Secretary of the Interior Franklin K. Lane who was cited in the Committee Report of the United States House of Representatives Committee on Territories as stating, “One thing that impressed me . . . was the fact that the natives of the islands who are our wards, I should say, and for whom in a sense we are trustees, are falling off rapidly in numbers and many of them are in poverty.”.
 
 &emsp;(14) In 1938, the United States Congress again acknowledged the unique status of the Hawaiian people by including in the Act of June 20, 1938 (52 Stat. 781 et seq.), a provision to lease lands within the extension to Native Hawaiians and to permit fishing in the area “only by native Hawaiian residents of said area or of adjacent villages and by visitors under their guidance”.
 
-&emsp;(15) Under the Act entitled “An Act to provide for the admission of the State of Hawaii into the Union”, approved March 18, 1959 (73 Stat. 4), the United States transferred responsibility for the administration of the Hawaiian Home Lands to the State of Hawaii but reaffirmed the trust relationship which existed between the United States and the Hawaiian people by retaining the exclusive power to enforce the trust, including the power to approve land exchanges, and legislative amendments affecting the rights of beneficiaries under such Act.
+&emsp;(15) Under the Act entitled “An Act to provide for the admission of the State of Hawaiiinto the Union”, approved March 18, 1959 (73 Stat. 4), the United States transferred responsibility for the administration of the Hawaiian Home Lands to the State of Hawaii but reaffirmed the trust relationship which existed between the United States and the Hawaiian people by retaining the exclusive power to enforce the trust, including the power to approve land exchanges, and legislative amendments affecting the rights of beneficiaries under such Act.
 
 &emsp;(16) Under the Act entitled “An Act to provide for the admission of the State of Hawaii into the Union”, approved March 18, 1959 (73 Stat. 4), the United States transferred responsibility for administration over portions of the ceded public lands trust not retained by the United States to the State of Hawaii but reaffirmed the trust relationship which existed between the United States and the Hawaiian people by retaining the legal responsibility of the State for the betterment of the conditions of Native Hawaiians under section 5(f) of the Act entitled “An Act to provide for the admission of the State of Hawaii into the Union”, approved March 18, 1959 (73 Stat. 4, 6).
 
@@ -102,7 +102,7 @@ Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections.
 
 #### Amendments
 
-1992—Pub. L. 102–396 amended section generally substituting pars. (1) to (22) for former pars. (1) to (3) which set forth findings of Congress.
+<b>1992</b>—Pub. L. 102–396 amended section generally substituting pars. (1) to (22) for former pars. (1) to (3) which set forth findings of Congress.
 
 #### Short Title
 

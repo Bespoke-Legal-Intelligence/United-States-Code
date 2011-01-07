@@ -266,7 +266,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (8) Continued qualification of family members after certain events
 
-&emsp;In the case of eligible coverage months beginning before January 1, 2011—
+&emsp;In the case of eligible coverage months beginning before February 13, 2011—
 
 #### (A) Medicare eligibility
 
@@ -320,33 +320,39 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (5) Inclusion of certain individuals as eligible individuals
 
-&emsp;For purposes of this subsection, the term “eligible individual” includes an individual who is a member of a group of workers certified after April 1, 2002, under chapter 2 of title II of the Trade Act of 1974 \[19 U.S.C. 2271 et seq.\] (as in effect on the day before the effective date of the Trade Act of 2002) and is participating in the trade adjustment allowance program under such chapter (as so in effect) or who would be determined to be participating in such program under such chapter (asso in effect) if such chapter were applied without regard to section 231(a)(3)(B) of the Trade Act of 1974 \[19 U.S.C. 2291(a)(3)(B)\] (as so in effect).
+&emsp;For purposes of this subsection, the term “eligible individual” includes an individual who is a member of a group of workers certified after April 1, 2002, under chapter 2 of title II of the Trade Act of 1974 \[19 U.S.C. 2271 et seq.\] (as in effect on the day before the effective date of the Trade Act of 2002) and is participating in the trade adjustment allowance program under such chapter (as so in effect) or who would be determined to be participating in such program under such chapter (as so in effect) if such chapter were applied without regard to section 231(a)(3)(B) of the Trade Act of 1974 \[19 U.S.C. 2291(a)(3)(B)\] (as so in effect).
 
-(Pub. L. 105–220, title I, §173, Aug. 7, 1998, 112 Stat. 1035; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(12)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411, 2681–435; Pub. L. 107–210, div. A, title II, §203(a), (b), Aug. 6, 2002, 116 Stat. 963; Pub. L. 111–5, div. B, title I, §§1899E(b), 1899K(a), Feb. 17, 2009, 123 Stat. 427, 433.)
+(Pub. L. 105–220, title I, §173, Aug. 7, 1998, 112 Stat. 1035; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(12)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411, 2681–435; Pub. L. 107–210, div. A, title II, §203(a), (b), Aug. 6, 2002, 116 Stat. 963; Pub. L. 111–5, div. B, title I, §§1899E(b), 1899K(a), Feb. 17, 2009, 123 Stat. 427, 433; Pub. L. 111–344, title I, §115(b), Dec. 29, 2010, 124 Stat. 3615.)
 
 #### References in Text
 
-Section 35(e)(2)(A) of title 26, referred to in subsec. (f)(1)(A), does not contain a cl. (v).
-
 Section 1602 of this title, referred to in subsec. (e)(2)(A)(i), (3)(A), was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000.
 
-The Social Security Act, referred to in subsec. (f)(7)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+Section 35(e)(2)(A) of title 26, referred to in subsec. (f)(1)(A), does not contain a cl. (v).
 
-Chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 2271 et seq.) (as in effect on the day before the effective date of the Trade Act of 2002), referred to in subsec. (g)(2), (5), is chapter 2 of title II of Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, as in effect on the day before the effective date of Pub. L. 107–210. Chapter 2 of title II of Pub. L. 93–618 is classified generally to part 2 (§2271 et seq.) of subchapter II of chapter 12 of Title 19, Customs Duties. For effective date provisions applicable to certain amendments by Pub. L. 107–210 to chapter 2 of title II of Pub. L. 93–618, see Effective Date of 2002 Amendment note set out preceding section 2271 of Title 19. For complete classification of Pub. L. 93–618 to the Code, see section 2101 of Title 19 and Tables.
+The Social Security Act, referred to in subsec. (f)(7)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, ofchapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+Chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 2271 et seq.) (as in effect on the day before the effective date of the Trade Act of 2002), referred to in subsec. (g)(2), (5), is chapter 2 of title II of Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as in effect on the day before the effective date of Pub. L. 107–210. Chapter 2 of title II of Pub. L. 93–618 is classified generally to part 2 (§2271 et seq.) of subchapter II of chapter 12 of Title 19, Customs Duties. For effective date provisions applicable to certain amendments by Pub. L. 107–210 to chapter 2 of title II of Pub. L. 93–618, see Effective Date of 2002 Amendment note set out preceding section 2271 of Title 19. For complete classification of Pub. L. 93–618 to the Code, see section 2101 of Title 19 and Tables.
 
 #### Amendments
 
-2009—Subsec. (f)(1), (2). Pub. L. 111–5, §1899K(a), added pars. (1) and (2) and struck out former pars. (1) and (2) which authorized use of funds to assist enrollment in qualified health insurance and for payment of administrative and start-up expenses and defined “qualified health insurance”.
+<b>2010</b>—Subsec. (f)(8). Pub. L. 111–344 substituted “February 13, 2011” for “January 1, 2011” in introductory provisions.
+
+<b>2009</b>—Subsec. (f)(1), (2). Pub. L. 111–5, §1899K(a), added pars. (1) and (2) and struck out former pars. (1) and (2) which authorized use of funds to assist enrollment in qualified health insurance and for payment of administrative and start-up expenses and defined “qualified health insurance”.
 
 Subsec. (f)(8). Pub. L. 111–5, §1899E(b), added par. (8).
 
-2002—Subsec. (a)(4). Pub. L. 107–210, §203(a), added par. (4).
+<b>2002</b>—Subsec. (a)(4). Pub. L. 107–210, §203(a), added par. (4).
 
 Subsecs. (f), (g). Pub. L. 107–210, §203(b), added subsecs. (f) and (g).
 
-1998—Subsec. (a)(2). Pub. L. 105–277, §101(f) \[title VIII, §401(12)\], made technical amendment to reference in original act which appears in text as reference to section 5122 of title 42.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–277, §101(f) \[title VIII, §401(12)\], made technical amendment to reference in original act which appears in text as reference to section 5122 of title 42.
 
 Subsec. (e). Pub. L. 105–277, §101(f) \[title VIII\], added subsec. (e).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–344 applicable to months beginning after Dec. 31, 2010, see section 115(c) of Pub. L. 111–344, set out as a note under section 35 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2009 Amendment
 

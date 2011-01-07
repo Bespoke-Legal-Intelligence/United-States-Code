@@ -12,19 +12,19 @@ Language is changed. The requirement that the Commissioner notify the parties is
 
 #### Amendments
 
-2002—Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
+<b>2002</b>—Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
 
 Pub. L. 107–273, §13202(b)(2), amended third sentence generally and added fourth sentence identical to existing fourth (now fifth) sentence. Prior to amendment, third sentence read as follows: “In any reexamination case, the Director shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all the issues involved in the appeal.”
 
-1999—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, §13206(b)(1)(B), substituted “Director” for “Commissioner” the first, second, and fourth places appearing.
+<b>1999</b>—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, §13206(b)(1)(B), substituted “Director” for “Commissioner” the first, second, and fourth places appearing.
 
 Pub. L. 106–113, §1000(a)(9) \[title IV, §4605(d)\], amended third sentence generally. Prior to amendment, third sentence read as follows: “In an ex parte case, the Commissioner shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all the issues involved in the appeal.”
 
-1984—Pub. L. 98–620 substituted provisions requiring the Commissioner to transmit to the court a certified list of the documents comprising the record in the Patent and Trademark Office, with respect to an appeal described in section 142 of this title, for provision which required the Commissioner to transmit to the court certified copies of all the necessary original papers and evidence in the case specified by the appellant and the appellee, and inserted provision that the court may request that the Commissioner forward the original or certified copies of such documents during the pendency of the appeal.
+<b>1984</b>—Pub. L. 98–620 substituted provisions requiring the Commissioner to transmit to the court a certified list of the documents comprising the record in the Patent and Trademark Office, with respect to an appeal described in section 142 of this title, for provision which required the Commissioner to transmit to the court certified copies of all the necessary original papers and evidence in the case specified by the appellant and the appellee, and inserted provision that the court may request that the Commissioner forward the original or certified copies of such documents during the pendency of the appeal.
 
-1982—Pub. L. 97–164 substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals”.
+<b>1982</b>—Pub. L. 97–164 substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals”.
 
-1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
 #### Effective Date of 1999 Amendment
 

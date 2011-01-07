@@ -56,9 +56,9 @@ For purposes of this section—
 
 #### Amendments
 
-1997—Subsec. (d)(2). Pub. L. 105–34 substituted “section 751(d)” for “section 751(d)(2)”.
+<b>1997</b>—Subsec. (d)(2). Pub. L. 105–34 substituted “section 751(d)” for “section 751(d)(2)”.
 
-1996—Subsec. (d)(3)(B). Pub. L. 104–188 substituted “Subparagraph” for “Subparagaph”.
+<b>1996</b>—Subsec. (d)(3)(B). Pub. L. 104–188 substituted “Subparagraph” for “Subparagaph”.
 
 #### Effective Date of 1997 Amendment
 

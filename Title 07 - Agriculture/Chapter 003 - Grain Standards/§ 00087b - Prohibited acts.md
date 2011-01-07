@@ -74,7 +74,7 @@
 
 (3)(A) The Secretary may, by regulation, exempt from paragraph (1) the last handling of grain in the final sale and shipment of such grain to a domestic user or processor if such exemption is determined by the Secretary to be in the best economic interest of producers, grain merchants, the industry involved, and the public.
 
-(B) Grain sold under an exemption authorized by this paragraph shall be consumed or processed into one or more products by the purchaser, but may not be resold into commercial channels for such grain or blended with othergrain for resale. Neither products nor byproducts derived therefrom (except vegetable oils as defined by the Secretary and used as a dust suppressant) shall be blended with or added to grain in commercial channels.
+(B) Grain sold under an exemption authorized by this paragraph shall be consumed or processed into one or more products by the purchaser, but may not be resold into commercial channels for such grain or blended with other grain for resale. Neither products nor byproducts derived therefrom (except vegetable oils as defined by the Secretary and used as a dust suppressant) shall be blended with or added to grain in commercial channels.
 
 (e)(1) The Secretary may prohibit the contamination of sound and pure grain, or prohibit disguising the quality of grain, as a result of the introduction of—
 

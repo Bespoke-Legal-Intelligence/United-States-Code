@@ -26,7 +26,7 @@ Section was enacted as part of section 3 of act June 29, 1888. Said section 3 of
 
 #### Amendments
 
-1958—Pub. L. 85–802 substituted “Each supervisor of a harbor is authorized and directed to appoint inspectors and deputy inspectors, and, for the purposes of enforcing this subchapter” for “The supervisor of the harbor of New York, designated as provided in section 451 of this title, is authorized and directed to appoint inspectors and deputy inspectors, and for the purpose of enforcing sections 1, 31, and this subchapter”.
+<b>1958</b>—Pub. L. 85–802 substituted “Each supervisor of a harbor is authorized and directed to appoint inspectors and deputy inspectors, and, for the purposes of enforcing this subchapter” for “The supervisor of the harbor of New York, designated as provided in section 451 of this title, is authorized and directed to appoint inspectors and deputy inspectors, and for the purpose of enforcing sections 1, 31, and this subchapter”.
 
 #### Change of Name
 

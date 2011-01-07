@@ -62,15 +62,15 @@ In subsec. (c)(1)(C), “section 80302 of title 49” substituted for “section
 
 #### Amendments
 
-2008—Subsec. (c)(2)(C). Pub. L. 110–403, which directed amendment of section 596(c)(2)(c) of the Tariff Act of 1950 by striking out “or 509”, was executed by striking out “or 509” after “506” in subsec. (c)(2)(C) of this section, which is section 596 of the Tariff Act of 1930, to reflect the probable intent of Congress.
+<b>2008</b>—Subsec. (c)(2)(C). Pub. L. 110–403, which directed amendment of section 596(c)(2)(c) of the Tariff Act of 1950 by striking out “or 509”, was executed by striking out “or 509” after “506” in subsec. (c)(2)(C) of this section, which is section 596 of the Tariff Act of 1930, to reflect the probable intent of Congress.
 
-2006—Subsec. (d). Pub. L. 109–177 added subsec. (d).
+<b>2006</b>—Subsec. (d). Pub. L. 109–177 added subsec. (d).
 
-1996—Subsec. (c)(1)(D). Pub. L. 104–132 added subpar. (D).
+<b>1996</b>—Subsec. (c)(1)(D). Pub. L. 104–132 added subpar. (D).
 
-1993—Subsec. (c). Pub. L. 103–182 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Any merchandise that is introduced or attempted to be introduced into the United States contrary to law (other than in violation of section 1592 of this title) may be seized and forfeited.”
+<b>1993</b>—Subsec. (c). Pub. L. 103–182 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Any merchandise that is introduced or attempted to be introduced into the United States contrary to law (other than in violation of section 1592 of this title) may be seized and forfeited.”
 
-1986—Subsec. (a). Pub. L. 99–570, §3123(1), (2), substituted “subsection (b) or (c) of section 1594” for “the proviso to section 1594” and “may be seized” for “shall be seized”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–570, §3123(1), (2), substituted “subsection (b) or (c) of section 1594” for “the proviso to section 1594” and “may be seized” for “shall be seized”.
 
 Subsec. (c). Pub. L. 99–570, §3123(3), added subsec. (c).
 
@@ -80,5 +80,5 @@ Amendment by Pub. L. 104–132 effective 1 year after Apr. 24, 1996, see section
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

@@ -27,7 +27,7 @@
 
 #### Amendments
 
-1986—Pub. L. 99–661, div. A, title VIII, §802(a)(2), Nov. 14, 1986, 100 Stat. 3906, added item 850a.
+<b>1986</b>—Pub. L. 99–661, div. A, title VIII, §802(a)(2), Nov. 14, 1986, 100 Stat. 3906, added item 850a.
 
 
 ---

@@ -18,7 +18,7 @@ In this chapter—
 
 &emsp;&emsp;(G) that is a reserve area (as defined in section 401(g)(3) of the Act of June 15, 1935 (16 U.S.C. 715s(g)(3))); or
 
-&emsp;&emsp;(H) acquired by the Secretary of the Interior or the Secretary of Agriculture under section 5 of the Southern Nevada Public Land Management Act of 1998 that is nototherwise described in subparagraphs (A) through (G).
+&emsp;&emsp;(H) acquired by the Secretary of the Interior or the Secretary of Agriculture under section 5 of the Southern Nevada Public Land Management Act of 1998 that is not otherwise described in subparagraphs (A) through (G).
 
 &emsp;(2)(A) “unit of general local government” means—
 
@@ -88,11 +88,11 @@ Section 5 of the Southern Nevada Public Land Management Act of 1998, referred to
 
 #### Amendments
 
-1998—Par. (1)(H). Pub. L. 105–263 added subpar. (H).
+<b>1998</b>—Par. (1)(H). Pub. L. 105–263 added subpar. (H).
 
-1997—Par. (2)(A)(i). Pub. L. 105–83 inserted “(other than in Alaska)” after “borough, or city”.
+<b>1997</b>—Par. (2)(A)(i). Pub. L. 105–83 inserted “(other than in Alaska)” after “borough, or city”.
 
-1996—Par. (2). Pub. L. 104–333 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘unit of general local government’ means:
+<b>1996</b>—Par. (2). Pub. L. 104–333 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘unit of general local government’ means:
 
 &emsp;“(A) a county (or parish), township, borough, or city where the city is independent of any other unit of general local government, that: (i) is within the class or classes of such political subdivisions in a State that the Secretary of the Interior, in his discretion, determines to be the principal provider or providers of governmental services within the State; and (ii) is a unit of general government as determined by the Secretary of the Interior on the basis of the same principles as were used on January 1, 1983, by the Secretary of Commerce for general statistical purposes. The term ‘governmental services’ includes, but is not limited to, those services that relate to public safety, environment, housing, social services, transportation, and governmental administration;
 
@@ -104,11 +104,11 @@ Section 5 of the Southern Nevada Public Land Management Act of 1998, referred to
 
 &emsp;“(E) the Virgin Islands.”
 
-1994—Par. (2)(A). Pub. L. 103–272 amended Pub. L. 100–446. See 1988 Amendment note below.
+<b>1994</b>—Par. (2)(A). Pub. L. 103–272 amended Pub. L. 100–446. See 1988 Amendment note below.
 
-1988—Par. (2)(A). Pub. L. 100–446, as amended by Pub. L. 103–272, struck out “existing in Alaska on October 20, 1976” after “township, borough”.
+<b>1988</b>—Par. (2)(A). Pub. L. 100–446, as amended by Pub. L. 103–272, struck out “existing in Alaska on October 20, 1976” after “township, borough”.
 
-1983—Par. (2). Pub. L. 98–63 amended par. (2) generally, substituting in subpar. (A) “a county (or parish), township, borough existing in Alaska on October 20, 1976, or city where the city is independent of any other unit of general local government, that: (i) is within the class or classes of such political subdivisions in a State that the Secretary of the Interior, in his discretion, determines to be the principal provider or providers of governmental services within the State; and (ii) is a unit of general government as determined by the Secretary of the Interior on the basis of the same principles as were used on January 1, 1983, by the Secretary of Commerce for general statistical purposes. The term ‘governmental services’ includes, but is not limited to, those services that relate to public safety, environment, housing, social services, transportation, and governmental administration” for “a county, city, township, borough existing in Alaska on October 20, 1976, or other political subdivision of a State that the Secretary of the Interior, on the same basis that the Secretary of Commerce uses for general statistical purposes, decides is a general purpose political subdivision of a State”; including the District of Columbia in definition; and excluding the Commonwealth of the Northern Mariana Islands from definition.
+<b>1983</b>—Par. (2). Pub. L. 98–63 amended par. (2) generally, substituting in subpar. (A) “a county (or parish), township, borough existing in Alaska on October 20, 1976, or city where the city is independent of any other unit of general local government, that: (i) is within the class or classes of such political subdivisions in a State that the Secretary of the Interior, in his discretion, determines to be the principal provider or providers of governmental services within the State; and (ii) is a unit of general government as determined by the Secretary of the Interior on the basis of the same principles as were used on January 1, 1983, by the Secretary of Commerce for general statistical purposes. The term ‘governmental services’ includes, but is not limited to, those services that relate to public safety, environment, housing, social services, transportation, and governmental administration” for “a county, city, township, borough existing in Alaska on October 20, 1976, or other political subdivision of a State that the Secretary of the Interior, on the same basis that the Secretary of Commerce uses for general statistical purposes, decides is a general purpose political subdivision of a State”; including the District of Columbia in definition; and excluding the Commonwealth of the Northern Mariana Islands from definition.
 
 #### Effective Date of 1994 Amendment
 

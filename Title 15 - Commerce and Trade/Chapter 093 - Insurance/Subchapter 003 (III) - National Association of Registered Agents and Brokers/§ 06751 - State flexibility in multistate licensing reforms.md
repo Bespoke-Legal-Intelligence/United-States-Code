@@ -20,7 +20,7 @@ States shall be deemed to have established the uniformity necessary to satisfy s
 
 &emsp;(4) establish uniform criteria to ensure that an insurance product, including any annuity contract, sold to a consumer is suitable and appropriate for the consumer based on financial information disclosed by the consumer; and
 
-&emsp;(5) do not impose any requirement upon any insurance producer to be licensed or otherwise qualified to do business as a nonresident that has the effect of limiting or conditioning that producer's activities because of its residence or place of operations, except that countersignature requirements imposed on nonresident producers shall not be deemed to have the effect of limiting or conditioning a producer's activities because of its residence or place of operations under this section.
+&emsp;(5) do not impose any requirement upon any insurance producer to be licensed or otherwise qualified to do business as a nonresident that has the effect of limiting or conditioning that producer's activities because of its residenceor place of operations, except that countersignature requirements imposed on nonresident producers shall not be deemed to have the effect of limiting or conditioning a producer's activities because of its residence or place of operations under this section.
 
 #### (c) Reciprocity required
 

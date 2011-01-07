@@ -24,11 +24,11 @@ This section \[section 48\] clarifies the meaning of section 3057 of title 18, U
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–598, §314(i), substituted “judge” for “referee” and “violation under chapter 9 of this title” for “violations of the bankruptcy laws”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–598, §314(i), substituted “judge” for “referee” and “violation under chapter 9 of this title” for “violations of the bankruptcy laws”.
 
 Subsec. (b). Pub. L. 95–598, §314(i)(1), substituted “judge” for “referee”.
 
-1949—Subsec. (a). Act May 24, 1949, substituted “or other laws of the United States” for “or laws”.
+<b>1949</b>—Subsec. (a). Act May 24, 1949, substituted “or other laws of the United States” for “or laws”.
 
 #### Effective Date of 1978 Amendment
 
@@ -40,5 +40,5 @@ Amendment by Pub. L. 95–598 not to affect the application of chapter 9 (§151 
 
 #### Transfer of Functions
 
-Functions of all other officers of Department of Justice and functions of all agencies and employees of suchDepartment, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 2 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 2 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5, Government Organization and Employees.
 

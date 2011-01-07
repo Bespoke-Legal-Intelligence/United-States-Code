@@ -28,17 +28,15 @@
 
 #### Amendments
 
-2008—Pub. L. 110–407, title I, §102(b), Oct. 13, 2008, 122 Stat. 4298, added item 2285.
+<b>2008</b>—Pub. L. 110–407, title I, §102(b), Oct. 13, 2008, 122 Stat. 4298, added item 2285.
 
-2006—Pub. L. 109–177, title III, §§304(b)(2), 305(b), Mar. 9, 2006, 120 Stat. 235, 237, added items 2282B, 2283, and 2284.
+<b>2006</b>—Pub. L. 109–177, title III, §§304(b)(2), 305(b), Mar. 9, 2006, 120 Stat. 235, 237, added items 2282B, 2283, and 2284.
 
 Pub. L. 109–177, title III, §304(a)(2), Mar. 9, 2006, 120 Stat. 235, which directed amendment of table of sections for this chapter by adding item 2282A after item 2282, was executed by adding item 2282A after item 2281 to reflect the probable intent of Congress, because there is no item 2282.
 
-1994—Pub. L. 103–322, title VI, §60019(b), Sept. 13, 1994, 108 Stat. 1979, added items 2280 and 2281.
+<b>1994</b>—Pub. L. 103–322, title VI, §60019(b), Sept. 13, 1994, 108 Stat. 1979, added items 2280 and 2281.
 
-1990—Pub. L. 101–647, title XXXV, §3566, Nov. 29, 1990, 104 Stat. 4928, substituted “vessels” for “vessel” in item 2271.
-
-<i><sup>1</sup></i><i> So in original. The period probably should be “; and”.</i>
+<b>1990</b>—Pub. L. 101–647, title XXXV, §3566, Nov. 29, 1990, 104 Stat. 4928, substituted “vessels” for “vessel” in item 2271.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 

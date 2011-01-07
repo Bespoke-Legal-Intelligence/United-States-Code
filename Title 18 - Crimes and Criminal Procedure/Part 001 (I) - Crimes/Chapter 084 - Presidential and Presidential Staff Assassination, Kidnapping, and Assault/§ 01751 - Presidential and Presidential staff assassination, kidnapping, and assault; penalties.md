@@ -26,9 +26,9 @@
 
 #### Amendments
 
-1996—Subsec. (e). Pub. L. 104–294, §604(b)(12)(D), repealed Pub. L. 103–322, §320101(e)(1), (2). See 1994 Amendment notes below.
+<b>1996</b>—Subsec. (e). Pub. L. 104–294, §604(b)(12)(D), repealed Pub. L. 103–322, §320101(e)(1), (2). See 1994 Amendment notes below.
 
-1994—Pub. L. 103–322, §330021(1), substituted “kidnapping” for “kidnaping” in section catchline.
+<b>1994</b>—Pub. L. 103–322, §330021(1), substituted “kidnapping” for “kidnaping” in section catchline.
 
 Subsec. (e). Pub. L. 103–322, §330016(1)(K), substituted “fined under this title” for “fined not more than $5,000” after “subsection (a)(2) shall be”.
 
@@ -40,7 +40,7 @@ Pub. L. 103–322, §320101(e)(2), which provided for amendment identical to Pub
 
 Pub. L. 103–322, §320101(e)(1), which provided for amendment identical to Pub. L. 103–322, §330016(1)(L), above, was repealed by Pub. L. 104–294, §604(b)(12)(D).
 
-1982—Pub. L. 97–285, §4(a), inserted “and Presidential staff” after “Presidential” in section catchline.
+<b>1982</b>—Pub. L. 97–285, §4(a), inserted “and Presidential staff” after “Presidential” in section catchline.
 
 Subsec. (a). Pub. L. 97–285, §3(a), inserted “(1)” after “Whoever kills” and “or (2) any person appointed under section 105(a)(2)(A) of title 3 employed in the Executive Office of the President or appointed under section 106(a)(1)(A) of title 3 employed in the Office of the Vice President,” after “laws of the United States”.
 

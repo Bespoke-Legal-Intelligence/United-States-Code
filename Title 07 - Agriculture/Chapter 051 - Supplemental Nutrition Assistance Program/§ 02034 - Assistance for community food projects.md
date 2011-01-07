@@ -206,7 +206,7 @@ In selecting community food projects to receive assistance under subsection (b) 
 
 #### (1) In general
 
-&emsp;The Secretary shall offer to enter into a contract with, or make a grant to, 1 nongovernmental organization that meets the requirements of paragraph (2) to coordinate with Federal agencies, States, political subdivisions, and nongovernmental organizations (collectively referred to in this subsection as “targeted entities”) to gather information, and recommend to the targeted entities, innovative programs for addressing common community problems, including—
+&emsp;The Secretary shall offer to enter into a contract with, or make a grant to, 1 nongovernmental organization that meets the requirements of paragraph (2) to coordinate with Federal agencies, States, political subdivisions, and nongovernmental organizations (collectively referred to in this subsection as “targeted entities”) to gather information, andrecommend to the targeted entities, innovative programs for addressing common community problems, including—
 
 &emsp;&emsp;(A) loss of farms and ranches;
 
@@ -262,7 +262,7 @@ In selecting community food projects to receive assistance under subsection (b) 
 
 &emsp;Not later than 90 days after May 13, 2002, and on October 1 of each fiscal year thereafter, the Secretary shall allocate to carry out this subsection $200,000 of the funds made available under subsection (b) of this section, to remain available until expended.
 
-(Pub. L. 88–525, §25, as added Pub. L. 104–127, title IV, §401(h), Apr. 4, 1996, 110 Stat. 1027;amended Pub. L. 107–171, title IV, §4125(a), May 13, 2002, 116 Stat. 326; Pub. L. 110–234, title IV, §§4402, 4406(a)(7), May 22, 2008, 122 Stat. 1135, 1141; Pub. L. 110–246, §4(a), title IV, §§4402, 4406(a)(7), June 18, 2008, 122 Stat. 1664, 1896, 1902; Pub. L. 110–380, §1(a), Oct. 8, 2008, 122 Stat. 4080.)
+(Pub. L. 88–525, §25, as added Pub. L. 104–127, title IV, §401(h), Apr. 4, 1996, 110 Stat. 1027; amended Pub. L. 107–171, title IV, §4125(a), May 13, 2002, 116 Stat. 326; Pub. L. 110–234, title IV, §§4402, 4406(a)(7), May 22, 2008, 122 Stat. 1135, 1141; Pub. L. 110–246, §4(a), title IV, §§4402, 4406(a)(7), June 18, 2008, 122 Stat. 1664, 1896, 1902; Pub. L. 110–380, §1(a), Oct. 8, 2008, 122 Stat. 4080.)
 
 #### Codification
 
@@ -304,5 +304,5 @@ Amendment by sections 4402 and 4406(a)(7) of Pub. L. 110–246 effective Oct. 1,
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–171, title IV, §4125(b), May 13, 2002, 116 Stat. 327, provided that: “The amendments made by this section \[amending this section\] take effect on the date of enactment of this Act \[May 13, 2002\].”
+Pub. L. 107–171, title IV, §4125(b), May 13, 2002, 116 Stat. 327, provided that: “The amendments made bythis section \[amending this section\] take effect on the date of enactment of this Act \[May 13, 2002\].”
 

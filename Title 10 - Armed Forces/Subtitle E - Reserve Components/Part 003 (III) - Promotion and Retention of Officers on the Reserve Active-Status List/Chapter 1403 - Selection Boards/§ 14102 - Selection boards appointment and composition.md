@@ -26,5 +26,5 @@ Provisions similar to those in this section were contained in sections 3362(b), 
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–136 substituted “Selection boards convened under section 14101(b) of this title” for “Continuation boards”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–136 substituted “Selection boards convened under section 14101(b) of this title” for “Continuation boards”.
 

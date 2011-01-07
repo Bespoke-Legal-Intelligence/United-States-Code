@@ -74,9 +74,9 @@ From amounts appropriated pursuant to the authority of section 1070a–11(g) of 
 
 #### Amendments
 
-2009—Subsec. (d)(2)(C). Pub. L. 111–39 struck out period before semicolon at end.
+<b>2009</b>—Subsec. (d)(2)(C). Pub. L. 111–39 struck out period before semicolon at end.
 
-2008—Subsec. (b). Pub. L. 110–315, §403(e)(1)(A), (B), inserted “Required” before “services” in heading and, in introductory provisions, substituted “A project assisted under this section shall provide—” for “A postbaccalaureate achievement project assisted under this section may provide services such as—”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–315, §403(e)(1)(A), (B), inserted “Required” before “services” in heading and, in introductory provisions, substituted “A project assisted under this section shall provide—” for “A postbaccalaureate achievement project assisted under this section may provide services such as—”.
 
 Subsec. (b)(5) to (8). Pub. L. 110–315, §403(e)(1)(C)–(E), inserted “and” after the semicolon in par. (5), substituted a period for the semicolon in par. (6), and struck out pars. (7) and (8) which read as follows:
 
@@ -96,7 +96,7 @@ Subsec. (f). Pub. L. 110–315, §403(e)(2), (5), redesignated subsec. (e) as (f
 
 Subsec. (g). Pub. L. 110–315, §403(e)(2), (6), redesignated subsec. (f) as (g) and substituted “section 1070a–11(g)” for “section 1070a–11(f)” and “2009 through 2014” for “1993 through 1997”.
 
-1998—Subsec. (e)(1). Pub. L. 105–244 substituted “$2,800” for “$2,400”.
+<b>1998</b>—Subsec. (e)(1). Pub. L. 105–244 substituted “$2,800” for “$2,400”.
 
 #### Effective Date of 2009 Amendment
 

@@ -10,5 +10,5 @@ A prior section 2492 was renumbered section 2489 of this title.
 
 #### Amendments
 
-2004—Pub. L. 108–375 renumbered section 2482a of this title as this section.
+<b>2004</b>—Pub. L. 108–375 renumbered section 2482a of this title as this section.
 

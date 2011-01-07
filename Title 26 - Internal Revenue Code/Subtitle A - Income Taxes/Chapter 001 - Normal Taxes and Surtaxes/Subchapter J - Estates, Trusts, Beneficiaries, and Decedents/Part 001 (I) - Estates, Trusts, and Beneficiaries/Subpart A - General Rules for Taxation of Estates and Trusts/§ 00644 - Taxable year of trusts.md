@@ -16,7 +16,7 @@ A prior section 644, added Pub. L. 94–455, title VII, §701(e)(1), Oct. 4, 197
 
 #### Amendments
 
-1997—Pub. L. 105–34 renumbered section 645 of this title as this section.
+<b>1997</b>—Pub. L. 105–34 renumbered section 645 of this title as this section.
 
 #### Effective Date of 1997 Amendment
 

@@ -70,7 +70,7 @@ The term “Single State Authority for Substance Abuse” means an entity design
 
 #### (2) Equitable distribution of grant amounts
 
-&emsp;Of the amount made available to carry out this section in any fiscal year, the Attorney General shall ensure that grants awarded under this section are equitably distributed among geographical regions and between urban and rural populations, including Indian Tribes, consistent with the objective of reducing recidivism among criminal offenders.
+&emsp;Of the amount made available to carry out this section in any fiscal year, the AttorneyGeneral shall ensure that grants awarded under this section are equitably distributed among geographical regions and between urban and rural populations, including Indian Tribes, consistent with the objective of reducing recidivism among criminal offenders.
 
 (Pub. L. 110–199, title II, §201, Apr. 9, 2008, 122 Stat. 678.)
 

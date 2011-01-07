@@ -36,9 +36,9 @@ In subsection (b), the words “have the duties and powers” are substituted fo
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–163 substituted “Commonwealths and possessions” for “Territories, Commonwealths, and possessions”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–163 substituted “Commonwealths and possessions” for “Territories, Commonwealths, and possessions”.
 
-1986—Subsec. (a). Pub. L. 99–433 inserted reference to Secretary of Defense.
+<b>1986</b>—Subsec. (a). Pub. L. 99–433 inserted reference to Secretary of Defense.
 
 #### Army Reserve Command
 

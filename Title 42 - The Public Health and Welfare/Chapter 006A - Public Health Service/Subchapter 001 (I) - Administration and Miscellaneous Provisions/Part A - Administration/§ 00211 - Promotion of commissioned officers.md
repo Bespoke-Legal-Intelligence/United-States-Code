@@ -18,7 +18,7 @@ Officers of the Regular Corps, found pursuant to subsection (c) of this section 
 
 &emsp;(1) Officers in the warrant officer (W–1) grade, chief warrant officer (W–2) grade, chief warrant officer (W–3) grade, chief warrant officer (W–4) grade, and junior assistant grade shall be promoted at such times as may be prescribed in regulations of the President.
 
-&emsp;(2) Officers with permanent rank in the assistant grade, the senior assistant grade, and the full grade shall (except as provided in regulations under subsection (b) of this section) be promoted after completion of three, ten, and seventeen years, respectively, of service in grades above the junior assistant grade; and such promotions, when made, shall be effective, for purposes of pay and seniority in grade, as of the day following the completion of such years of service. An officer with permanent rank in the assistant, senior assistant, or full grade who has not completed such years of service shall be promoted at the same time, and his promotion shall be effective as of the same day, as any officer junior to him in the same grade in the same professional category who is promoted under this paragraph.
+&emsp;(2) Officers with permanent rank in the assistant grade, the senior assistant grade, and the full grade shall (except as provided in regulations under subsection (b) of this section) be promoted after completion of three, ten, and seventeen years, respectively, of service in grades above the junior assistant grade; and such promotions, when made, shall be effective, for purposes of pay and seniority in grade, as of the day following the completion of such years of service. An officer with permanent rank in the assistant, senior assistant, or full grade who has not completed such yearsof service shall be promoted at the same time, and his promotion shall be effective as of the same day, as any officer junior to him in the same grade in the same professional category who is promoted under this paragraph.
 
 #### (e) Promotion of professional category officers to fill certain vacancies
 
@@ -38,7 +38,7 @@ If, for reasons other than physical disability, an officer of the Regular Corps 
 
 &emsp;(3) if in the full grade he shall be considered as not in line for promotion and shall, at such time thereafter as the Surgeon General may determine, be retired from the Service with retired pay (unless he is entitled to a greater amount by reason of another provision of law)—
 
-&emsp;&emsp;(A) in the case of an officer who first became a member of a uniformed service before September 8, 1980, at the rate of 21/2 percent of the retired pay base determined under section 1406(h) of title 10 for each year, not in excess of 30, of his active commissioned service in the Service; or
+&emsp;&emsp;(A) in the case of an officer who first became a member of a uniformed service before September 8, 1980, at the rate of 2½ percent of the retired pay base determined under section 1406(h) of title 10 for each year, not in excess of 30, of his active commissioned service in the Service; or
 
 &emsp;&emsp;(B) in the case of an officer who first became a member of a uniformed service on or after September 8, 1980, at the rate determined by multiplying—
 
@@ -62,7 +62,7 @@ At the end of his first three years of service, the record of each officer of th
 
 #### (k) Temporary promotions; fill vacancy in higher grade; war or national emergency; selection of officers; termination of appointment
 
-Any commissioned officer of the Regular Corps in any grade in any professional category may be recommended to the President for temporary promotion to fill a vacancy in any higher grade in such category, up to and including the director grade. In time of war, or of national emergency proclaimed by the President, any commissioned officer of the Regular Corps in any grade in any professional category may be recommended to the President for promotion to any higher grade in such category, up to and including the director grade, whether or not a vacancy exists in such grade. The selection of officers to be recommended for temporary promotions shall be made in accordance with regulations of the President. Promotion of an officer recommended pursuant to this subsection may be made without regard to length of service, without examination, and without vacating his permanent appointment, and shall carry with it the pay and allowances of the grade to which promoted. Such promotions may be terminated at any time, as may be directed by the President.
+Any commissioned officer of the Regular Corps in any grade in any professional categorymay be recommended to the President for temporary promotion to fill a vacancy in any higher grade in such category, up to and including the director grade. In time of war, or of national emergency proclaimed by the President, any commissioned officer of the Regular Corps in any grade in any professional category may be recommended to the President for promotion to any higher grade in such category, up to and including the director grade, whether or not a vacancy exists in such grade. The selection of officers to be recommended for temporary promotions shall be made in accordance with regulations of the President. Promotion of an officer recommended pursuant to this subsection may be made without regard to length of service, without examination, and without vacating his permanent appointment, and shall carry with it the pay and allowances of the grade to which promoted. Such promotions may be terminated at any time, as may be directed by the President.
 
 #### (<i>l</i>) Determination of requirements of Service by Secretary; assignment of Reserve Officers to professional categories; temporary promotions; termination of temporary promotions
 
@@ -80,27 +80,27 @@ In subsec. (m), “section 3332 of title 5” substituted for “the Act of Dece
 
 #### Amendments
 
-1986—Subsec. (g)(3). Pub. L. 99–348 added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+<b>1986</b>—Subsec. (g)(3). Pub. L. 99–348 added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
-“(A) in the case of an officer who first became a member of a uniformed service before September 8, 1980, at the rate of 21/2 per centum of basic pay of the permanent grade held by him at the time of retirement for each year, not in excess of thirty, of his active commissioned service in the Service; or
+“(A) in the case of an officer who first became a member of a uniformed service before September 8, 1980, at the rate of 2½ per centum of basic pay of the permanent grade held by him at the time of retirement for each year, not in excess of thirty, of his active commissioned service in the Service; or
 
-“(B) in the case of an officer who first became a member of a uniformed service on or after September 8, 1980, 21/2 per centum of the monthly retired pay base computed under section 1407(h) of title 10, for each year, not in excess of thirty, of his active commissioned service in the Service.”
+“(B) in the case of an officer who first became a member of a uniformed service on or after September 8, 1980, 2½ per centum of the monthly retired pay base computed under section 1407(h) of title 10, for each year, not in excess of thirty, of his active commissioned service in the Service.”
 
-1980—Subsec. (g)(3). Pub. L. 96–342 revised provisions into subpars. (A) and (B) and substituted provisions respecting computation of retired pay for officers who became members of the uniformed service before Sept. 8, 1980, and for officers who became members of the uniformed service on or after Sept. 8, 1980, for provisions respecting computation of retired pay for officers.
+<b>1980</b>—Subsec. (g)(3). Pub. L. 96–342 revised provisions into subpars. (A) and (B) and substituted provisions respecting computation of retired pay for officers who became members of the uniformed service before Sept. 8, 1980, and for officers who became members of the uniformed service on or after Sept. 8, 1980, for provisions respecting computation of retired pay for officers.
 
-1979—Subsec. (d)(1). Pub. L. 96–76, §307(a), inserted applicability to warrant officers and chief warrant officers.
+<b>1979</b>—Subsec. (d)(1). Pub. L. 96–76, §307(a), inserted applicability to warrant officers and chief warrant officers.
 
 Subsec. (g). Pub. L. 96–76, §307(b), in provision before par. (1), inserted applicability to separation from Service of warrant officers and chief warrant officers subsequent to one examination or two examinations, respectively, in par. (1), inserted applicability to a chief warrant officer (W–2), and in par. (2), inserted applicability to a chief warrant officer (W–3).
 
-1962—Subsec. (g). Pub. L. 87–649 substituted “basic pay” for “pay” in cls. (1) and (2).
+<b>1962</b>—Subsec. (g). Pub. L. 87–649 substituted “basic pay” for “pay” in cls. (1) and (2).
 
-1960—Subsec. (g). Pub. L. 86–415 substituted “of the basic pay of the permanent grade held by him at the time of retirement for each year” for “of his active duty pay at the time of retirement for each complete year” in cl. (3).
+<b>1960</b>—Subsec. (g). Pub. L. 86–415 substituted “of the basic pay of the permanent grade held by him at the time of retirement for each year” for “of his active duty pay at the time of retirement for each complete year” in cl. (3).
 
-1956—Subsec. (d)(2). Act Apr. 27, 1956, struck out “pay period and for purposes of” before “seniority in grade”.
+<b>1956</b>—Subsec. (d)(2). Act Apr. 27, 1956, struck out “pay period and for purposes of” before “seniority in grade”.
 
-1949—Subsec. (g). Act Oct. 12, 1949, struck out “incurred in line of duty” wherever appearing.
+<b>1949</b>—Subsec. (g). Act Oct. 12, 1949, struck out “incurred in line of duty” wherever appearing.
 
-1948—Act Feb. 28, 1948, amended subsecs. (a) to (c) generally and added subsecs. (d) to (m).
+<b>1948</b>—Act Feb. 28, 1948, amended subsecs. (a) to (c) generally and added subsecs. (d) to (m).
 
 #### Effective Date of 1979 Amendment
 

@@ -12,7 +12,7 @@ Agreements.—Subject to paragraphs (2) through (4), the Secretary may enter int
 
 &emsp;&emsp;(B) to refinance interim construction financing of eligible project costs of any project selected under section 602; or
 
-&emsp;&emsp;(C) to refinance long-term project obligations or Federal credit instruments if such refinancing provides additional funding capacity for the completion, enhancement, or expansion of any project that—
+&emsp;&emsp;(C) to refinance long-term project obligations or Federal credit instruments if suchrefinancing provides additional funding capacity for the completion, enhancement, or expansion of any project that—
 
 &emsp;&emsp;&emsp;(i) is selected under section 602; or
 
@@ -64,7 +64,7 @@ Maturity date.—The final maturity date of the secured loan shall be not later 
 
 &emsp;(6)
 
-Nonsubordination.—The secured loan shall not be subordinated to the claims of any holder of project obligations in the event ofbankruptcy, insolvency, or liquidation of the obligor.
+Nonsubordination.—The secured loan shall not be subordinated to the claims of any holder of project obligations in the event of bankruptcy, insolvency, or liquidation of the obligor.
 
 &emsp;(7)
 
@@ -154,7 +154,7 @@ Terms.—The terms of a guaranteed loan shall be consistent with the terms set f
 
 #### Amendments
 
-2005—Pub. L. 109–59, §1602(d), renumbered section 183 of this title as this section.
+<b>2005</b>—Pub. L. 109–59, §1602(d), renumbered section 183 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 109–59, §1601(d)(1), in subpars. (A) and (B) inserted “of any project selected under section 602” after “costs”, added subpar. (C), and struck out concluding provisions which read as follows: “of any project selected under section 182.”
 

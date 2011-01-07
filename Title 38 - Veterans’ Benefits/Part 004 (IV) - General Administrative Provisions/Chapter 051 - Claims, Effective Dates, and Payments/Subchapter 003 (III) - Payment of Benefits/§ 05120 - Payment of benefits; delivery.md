@@ -1,6 +1,6 @@
 ### §5120. Payment of benefits; delivery
 
-(a) Monetary benefits under laws administered by the Secretary shall be paid by checks drawn, pursuant to certification by the Secretary, in such form as to protect the United States against loss, and payable by the Treasurer of the United States. Such checks shall be payable without separate vouchers or receipts except in any case in which the Secretary may consider a voucher necessary for the protection of the Government. Such checks shall be transmitted by mail to the payee thereof at the payee's last known address and, if the payee has moved and filed a regular change of address notice with the United States Postal Service, shall be forwarded to the payee. The envelope or cover of each suchchecks shall bear on the face thereof the following notice: “POSTMASTER: PLEASE FORWARD if addressee has moved and filed a regular change-of-address notice. If addressee is deceased, return the letter with date of death, if known.”
+(a) Monetary benefits under laws administered by the Secretary shall be paid by checks drawn, pursuant to certification by the Secretary, in such form as to protect the United States against loss, and payable by the Treasurer of the United States. Such checks shall be payable without separate vouchers or receipts except in any case in which the Secretary may consider a voucher necessary for the protection of the Government. Such checks shall be transmitted by mail to the payee thereof at the payee's last known address and, if the payee has moved and filed a regular change of address notice with the United States Postal Service, shall be forwarded to the payee. The envelope or cover of each such checks shall bear on the face thereof the following notice: “POSTMASTER: PLEASE FORWARD if addressee has moved and filed a regular change-of-address notice. If addressee is deceased, return the letter with date of death, if known.”
 
 (b) Postmasters, delivery clerks, letter carriers, and all other postal employees are prohibited from delivering any mail addressed by the United States and containing any such check to any person whomsoever if such person has died or in the case of a surviving spouse, if the postal employee believes that the surviving spouse has remarried (unless the mail is addressed to the surviving spouse in the name the surviving spouse has acquired by the remarriage). The preceding sentence shall apply in the case of checks in payment of benefits other than pension, compensation, dependency and indemnity compensation, and insurance, only insofar as the Secretary deems it necessary to protect the United States against loss.
 
@@ -18,7 +18,7 @@
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 3020 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 3020 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
@@ -40,15 +40,15 @@ Subsec. (f)(2). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary”
 
 Pub. L. 102–83, §4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-1986—Subsec. (a). Pub. L. 99–576, §701(65)(A), substituted “the payee's” for “his”, and “the payee” for “he” and “him” in third sentence.
+<b>1986</b>—Subsec. (a). Pub. L. 99–576, §701(65)(A), substituted “the payee's” for “his”, and “the payee” for “he” and “him” in third sentence.
 
 Subsec. (b). Pub. L. 99–576, §701(65)(B), substituted “such person” for “he”, “surviving spouse” for “widow”, “the surviving spouse” for “she” in two places, “to the surviving spouse” for “to her”, and “by the” for “by her” in first sentence.
 
 Subsec. (f). Pub. L. 99–570 added subsec. (f).
 
-1982—Subsec. (a). Pub. L. 97–295 substituted “United States Postal Service” for “Post Office Department”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–295 substituted “United States Postal Service” for “Post Office Department”.
 
-1977—Pub. L. 95–117, §402(b)(1), struck out “by check” after “benefits” in section catchline.
+<b>1977</b>—Pub. L. 95–117, §402(b)(1), struck out “by check” after “benefits” in section catchline.
 
 Subsecs. (d), (e). Pub. L. 95–117, §402(a), added subsecs. (d) and (e).
 

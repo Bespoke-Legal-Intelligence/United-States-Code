@@ -34,7 +34,7 @@ There are authorized to be appropriated to the Office of the United States Trade
 
 #### (d) Department of Agriculture
 
-There are authorized to be appropriated to the Department of Agriculture, in addition to amounts otherwise available for such purposes,such sums as may be necessary for fiscal year 2001, and each fiscal year thereafter, for additional staff to increase legal and technical expertise in areas covered by trade agreements and United States trade law, including food safety and biotechnology, for purposes of monitoring compliance by the People's Republic of China with its trade agreement obligations.
+There are authorized to be appropriated to the Department of Agriculture, in addition to amounts otherwise available for such purposes, such sums as may be necessary for fiscal year 2001, and each fiscal year thereafter, for additional staff to increase legal and technical expertise in areas covered by trade agreementsand United States trade law, including food safety and biotechnology, for purposes of monitoring compliance by the People's Republic of China with its trade agreement obligations.
 
 (Pub. L. 106–286, div. B, title IV, §413, Oct. 10, 2000, 114 Stat. 901.)
 

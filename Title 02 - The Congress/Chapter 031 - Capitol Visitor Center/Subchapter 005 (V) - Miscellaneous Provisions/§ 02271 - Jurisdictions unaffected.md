@@ -8,7 +8,7 @@ Nothing in this chapter granting any authority to the Architect of the Capitol o
 
 #### (1) In general
 
-&emsp;Nothing in this chapter granting any authority to the Chief Executive Officer shall be construed to affect the exclusive jurisdictionof the Architect of the Capitol for the care and superintendence of the Capitol Visitor Center. All maintenance services, groundskeeping services, improvements, alterations, additions, and repairs for the Capitol Visitor Center shall be made under the direction and supervision of the Architect, subject to the approval of the Committee on Rules and Administration of the Senate and the House Office Building Commission as to matters of general policy.
+&emsp;Nothing in this chapter granting any authority to the Chief Executive Officer shall be construed to affect the exclusive jurisdiction of the Architect of the Capitol for the care and superintendence of the Capitol Visitor Center. All maintenance services, groundskeeping services, improvements, alterations, additions, and repairs for the Capitol Visitor Center shall be made under the direction and supervision of the Architect, subject to the approval of the Committee on Rules and Administration of the Senate and the House Office Building Commission as to matters of general policy.
 
 #### (2) Omitted
 

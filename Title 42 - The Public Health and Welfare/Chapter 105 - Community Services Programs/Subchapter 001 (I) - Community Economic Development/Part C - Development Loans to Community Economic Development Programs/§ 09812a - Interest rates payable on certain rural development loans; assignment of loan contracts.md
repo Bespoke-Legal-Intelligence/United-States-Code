@@ -32,7 +32,7 @@ Section was enacted as part of the Human Services Reauthorization Act of 1986, a
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–285, §202(c)(1), in concluding provisions, inserted “(before October 27, 1998)” after “funds available” and “(as in effect before October 27, 1998)” after “9910(a) of this title”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–285, §202(c)(1), in concluding provisions, inserted “(before October 27, 1998)” after “funds available” and “(as in effect before October 27, 1998)” after “9910(a) of this title”.
 
 Subsec. (b)(2). Pub. L. 105–285, §202(c)(2), inserted “(before October 27, 1998)” after “funds available” and “(as in effect before October 27, 1998)” after “9910(a) of this title”.
 

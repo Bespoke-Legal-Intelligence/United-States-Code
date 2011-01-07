@@ -40,7 +40,7 @@ In subsection (c), the words “notwithstanding another provision of law to the 
 
 #### Amendments
 
-1983—Subsec. (a). Pub. L. 98–169, §3(d), amended subsec. (a) generally, substituting provisions requiring the Administrator to maintain a computerized information system providing access to the information described in section 6102(a)(1), (2), (5), (6), and (7) of this title and such portions or summaries, as the Administrator considers appropriate, of the information described in section 6102(a)(3), (4) of this title for provisions requiring the Director to maintain a computerized information system providing access to the information described in section 6102 of this title.
+<b>1983</b>—Subsec. (a). Pub. L. 98–169, §3(d), amended subsec. (a) generally, substituting provisions requiring the Administrator to maintain a computerized information system providing access to the information described in section 6102(a)(1), (2), (5), (6), and (7) of this title and such portions or summaries, as the Administrator considers appropriate, of the information described in section 6102(a)(3), (4) of this title for provisions requiring the Director to maintain a computerized information system providing access to the information described in section 6102 of this title.
 
 Pub. L. 98–169, §1(2), substituted “Director” for “Director of the Office of Management and Budget”.
 

@@ -20,11 +20,11 @@ Section was previously set out in both this section and in section 45 of former 
 
 #### Amendments
 
-1974—Pub. L. 93–528 substituted provisions for appeals to the court of appeals from civil actions in district courts where equitable relief is sought, review by the Supreme Court of judgments of courts of appeals, and for direct appeals to the Supreme Court of cases involving general public importance, for provisions that appeals from final judgments of district courts lie to the Supreme Court only.
+<b>1974</b>—Pub. L. 93–528 substituted provisions for appeals to the court of appeals from civil actions in district courts where equitable relief is sought, review by the Supreme Court of judgments of courts of appeals, and for direct appeals to the Supreme Court of cases involving general public importance, for provisions that appeals from final judgments of district courts lie to the Supreme Court only.
 
-1948—Act June 25, 1948, amended section generally to strike out provisions relating to time for appeal, procedure, etc. See sections 2101 and 2109 of Title 28, Judiciary and Judicial Procedure.
+<b>1948</b>—Act June 25, 1948, amended section generally to strike out provisions relating to time for appeal, procedure, etc. See sections 2101 and 2109 of Title 28, Judiciary and Judicial Procedure.
 
-1944—Act June 9, 1944, provided for certification of case to circuit court of appeals when there was no quorum of Justices of the Supreme Court qualified to participate in the consideration of the case and for designation of circuit judges in the event of disqualification from hearing the case.
+<b>1944</b>—Act June 9, 1944, provided for certification of case to circuit court of appeals when there was no quorum of Justices of the Supreme Court qualified to participate in the consideration of the case and for designation of circuit judges in the event of disqualification from hearing the case.
 
 #### Change of Name
 

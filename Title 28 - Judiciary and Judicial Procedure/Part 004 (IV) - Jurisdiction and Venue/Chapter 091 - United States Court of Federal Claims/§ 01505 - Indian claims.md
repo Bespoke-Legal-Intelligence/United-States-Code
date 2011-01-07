@@ -8,7 +8,7 @@ The United States Court of Federal Claims shall have jurisdiction of any claim a
 
 #### 1949 Act
 
-Section 1505 is added to title 28, U.S.C., by this amendment to incorporate the act of August 13, 1946\(ch. 959, §24, 60 Stat. 1055), which was originally classified to title 28, U.S.C., but was later transferred to title 25 of such code. Since such section 24 deals with jurisdiction of the Court of Claims it should be in title 28.
+Section 1505 is added to title 28, U.S.C., by this amendment to incorporate the act of August 13, 1946 (ch. 959, §24, 60 Stat. 1055), which was originally classified to title 28, U.S.C., but was later transferred to title 25 of such code. Since such section 24 deals with jurisdiction of the Court of Claims it should be in title 28.
 
 This amendatory section omits as surplusage all provisions of said section 24 except the first sentence, as being fully covered by the express provisions of sections 1503 and 2501 and other provisions of chapter 165 of title 28, U.S.C., relating to Court of Claims procedure.
 
@@ -18,9 +18,9 @@ The omitted language is as follows: “In any suit brought under the jurisdictio
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” and “Court of Federal Claims” for “Claims Court”.
+<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” and “Court of Federal Claims” for “Claims Court”.
 
-1982—Pub. L. 97–164 substituted “The United States Claims Court shall have jurisdiction” for “The Court of Claims shall have jurisdiction” and “cognizable in the Claims Court” for “cognizable in the Court of Claims”.
+<b>1982</b>—Pub. L. 97–164 substituted “The United States Claims Court shall have jurisdiction” for “The Court of Claims shall have jurisdiction” and “cognizable in the Claims Court” for “cognizable in the Court of Claims”.
 
 #### Effective Date of 1992 Amendment
 

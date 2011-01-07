@@ -24,7 +24,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-200301D36:531.DAug. 20, 1954, ch. 774, §§1, 2, 4(1), 68 Stat. 748, 749.
+200301
+
+36:531.
+
+Aug. 20, 1954, ch. 774, §§1, 2, 4(1), 68 Stat. 748, 749.
 
 &nbsp;
 

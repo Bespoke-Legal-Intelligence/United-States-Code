@@ -8,8 +8,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> See Change of Name note below.</i>
-
 
 ---
 

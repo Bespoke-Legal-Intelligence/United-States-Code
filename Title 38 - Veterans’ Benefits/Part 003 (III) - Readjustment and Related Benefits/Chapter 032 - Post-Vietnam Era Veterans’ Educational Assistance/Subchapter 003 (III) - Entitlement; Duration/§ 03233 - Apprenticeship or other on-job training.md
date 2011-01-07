@@ -24,9 +24,9 @@
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 1633 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1633 of this title as this section.
 
-1989—Subsec. (d). Pub. L. 101–237 added subsec. (d).
+<b>1989</b>—Subsec. (d). Pub. L. 101–237 added subsec. (d).
 
 #### Increase in Benefit for Individuals Pursuing Apprenticeship or On-Job Training; Post-Vietnam Era Veterans’ Educational Assistance
 

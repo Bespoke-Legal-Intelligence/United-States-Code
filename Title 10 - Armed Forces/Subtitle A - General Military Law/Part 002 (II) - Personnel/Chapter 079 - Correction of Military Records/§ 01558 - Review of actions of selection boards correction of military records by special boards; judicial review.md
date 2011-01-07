@@ -18,7 +18,7 @@ Special board.—(A) The term “special board” means a board that the Secreta
 
 &emsp;(2)
 
-Selection board.—(A) The term “selection board” means a selection board convened under section 573(c), 580, 580a, 581, 611(b), 637, 638, 638a, 14101(b), 14701, 14704, or 14705 of this title, and any other board convened by the Secretary of a military department under any authority to recommend persons for appointment, enlistment, reenlistment, assignment, promotion, or retention in the armed forces or for separation, retirement, or transfer to inactive status in a reserve component for the purpose of reducing the number of persons serving in the armed forces.
+Selection board.—(A) The term “selection board” means a selection board convened under section 573(c), 580, 580a, 581, 611(b), 637, 638, 638a, 14101(b), 14701, 14704, or 14705 of this title, and any other board convened by the Secretary of a military department under any authority to recommend persons for appointment, enlistment, reenlistment, assignment, promotion, or retention in the armed forces orfor separation, retirement, or transfer to inactive status in a reserve component for the purpose of reducing the number of persons serving in the armed forces.
 
 &emsp;(B) Such term does not include any of the following:
 
@@ -94,7 +94,7 @@ Judicial Review.—(1) A person seeking to challenge an action or recommendation
 
 &emsp;(D) otherwise contrary to law.
 
-(4)(A) If, six months after receiving a complete application for consideration by a special board in any case, the Secretary concerned has not convened a special board and has not denied consideration by a special board in that case, the Secretary shall be deemed for the purposes of this subsection to have denied consideration of the case by a special board.
+(4)(A) If, six months after receiving a complete application for consideration by a special boardin any case, the Secretary concerned has not convened a special board and has not denied consideration by a special board in that case, the Secretary shall be deemed for the purposes of this subsection to have denied consideration of the case by a special board.
 
 (B) If, six months after the convening of a special board in any case, the Secretary concerned has not taken final action on the report of the special board, the Secretary shall be deemed for the purposes of this subsection to have denied relief in such case.
 

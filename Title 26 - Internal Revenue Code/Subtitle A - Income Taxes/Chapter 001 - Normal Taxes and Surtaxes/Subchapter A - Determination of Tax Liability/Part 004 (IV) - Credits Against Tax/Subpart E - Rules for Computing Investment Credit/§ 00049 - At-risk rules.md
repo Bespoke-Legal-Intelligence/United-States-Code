@@ -26,9 +26,11 @@
 
 &emsp;&emsp;&emsp;(iii) the basis of any property which is part of a qualifying advanced coal project under section 48A,
 
-&emsp;&emsp;&emsp;(iv) the basis of any property which is part of a qualifying gasification project under section 48B, and
+&emsp;&emsp;&emsp;(iv) the basis of any property which is part of a qualifying gasification project under section 48B,
 
-&emsp;&emsp;&emsp;(v) the basis of any property which is part of a qualifying advanced energy project under section 48C.
+&emsp;&emsp;&emsp;(v) the basis of any property which is part of a qualifying advanced energy project under section 48C, and
+
+&emsp;&emsp;&emsp;(vi) the basis of any property to which paragraph (1) of section 48D(e) applies which is part of a qualifying therapeutic discovery project under such section 48D.
 
 #### (D) Nonqualified nonrecourse financing
 
@@ -144,7 +146,7 @@
 
 &emsp;Any increase in tax under paragraph (1) shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit allowable under this chapter.
 
-(Added Pub. L. 99–514, title II, §211(a), Oct. 22, 1986, 100 Stat. 2166; amended Pub. L. 100–647, title I, §1002(e)(1)–(3), (8)(B), Nov. 10, 1988, 102 Stat. 3367, 3369; Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–543; Pub. L. 105–206, title VI, §6004(g)(6), July 22, 1998, 112 Stat. 796; Pub. L. 109–58, title XIII, §1307(c)(1), Aug. 8, 2005, 119 Stat. 1006; Pub. L. 111–5, div. B, title I, §1302(c)(1), Feb. 17, 2009, 123 Stat. 347.)
+(Added Pub. L. 99–514, title II, §211(a), Oct. 22, 1986, 100 Stat. 2166; amended Pub. L. 100–647, title I, §1002(e)(1)–(3), (8)(B), Nov. 10, 1988, 102 Stat. 3367, 3369; Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–543; Pub. L. 105–206, title VI, §6004(g)(6), July 22, 1998, 112 Stat. 796; Pub. L. 109–58, title XIII, §1307(c)(1), Aug. 8, 2005, 119 Stat. 1006; Pub. L. 111–5, div. B, title I, §1302(c)(1), Feb. 17, 2009, 123 Stat. 347; Pub. L. 111–148, title IX, §9023(c)(1), Mar. 23, 2010, 124 Stat. 880.)
 
 #### References in Text
 
@@ -156,15 +158,17 @@ A prior section 49, Pub. L. 91–172, title VII, §703(a), Dec. 30, 1969, 83 Sta
 
 #### Amendments
 
-2009—Subsec. (a)(1)(C)(v). Pub. L. 111–5 added cl. (v).
+<b>2010</b>—Subsec. (a)(1)(C)(vi). Pub. L. 111–148 added cl. (vi).
 
-2005—Subsec. (a)(1)(C)(iii), (iv). Pub. L. 109–58 added cls. (iii) and (iv) and struck out former cl. (iii) which read as follows: “the amortizable basis of any qualified timber property.”
+<b>2009</b>—Subsec. (a)(1)(C)(v). Pub. L. 111–5 added cl. (v).
 
-1998—Subsec. (b)(4). Pub. L. 105–206 substituted “this chapter” for “subpart A, B, D, or G”.
+<b>2005</b>—Subsec. (a)(1)(C)(iii), (iv). Pub. L. 109–58 added cls. (iii) and (iv) and struck out former cl. (iii) which read as follows: “the amortizable basis of any qualified timber property.”
 
-1990—Pub. L. 101–508, §11813(a), amended section generally, substituting section catchline for one which read: “Termination of regular percentage” and in text substituting present provisions for provisions relating to the nonapplicability of the regular percentage to any property placed in service after Dec. 31, 1985, for purposes of determining the investment tax credit, exceptions to such rule, the 35 percent reduction in credit for taxable years after 1986, the full basis adjustment in determining investment tax credit, and the definition of transition property and treatment of progress expenditures.
+<b>1998</b>—Subsec. (b)(4). Pub. L. 105–206 substituted “this chapter” for “subpart A, B, D, or G”.
 
-1988—Subsec. (c)(4)(B). Pub. L. 100–647, §1002(e)(2), substituted “years” for “year” in heading and amended text generally. Prior to amendment, text read as follows: “The amount of the reduction of the regular investment credit under paragraph (3)—
+<b>1990</b>—Pub. L. 101–508, §11813(a), amended section generally, substituting section catchline for one which read: “Termination of regular percentage” and in text substituting present provisions for provisions relating to the nonapplicability of the regular percentage to any property placed in service after Dec. 31, 1985, for purposes of determining the investment tax credit, exceptions to such rule, the 35 percent reduction in credit for taxable years after 1986, the full basis adjustment in determining investment tax credit, and the definition of transition property and treatment of progress expenditures.
+
+<b>1988</b>—Subsec. (c)(4)(B). Pub. L. 100–647, §1002(e)(2), substituted “years” for “year” in heading and amended text generally. Prior to amendment, text read as follows: “The amount of the reduction of the regular investment credit under paragraph (3)—
 
 &emsp;“(i) may not be carried back to any taxable year, but
 
@@ -179,6 +183,10 @@ Subsec. (d)(1). Pub. L. 100–647, §1002(e)(1), amended par. (1) generally. Pri
 &emsp;“(A) by substituting ‘100 percent’ for ‘50 percent’ in paragraph (1), and
 
 &emsp;“(B) without regard to paragraph (4) thereof (relating to election of reduced credit in lieu of basis adjustment).”
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–148 applicable to amounts paid or incurred after Dec. 31, 2008, in taxable years beginning after such date, see section 9023(f) of Pub. L. 111–148, set out as a note under section 46 of this title.
 
 #### Effective Date of 2009 Amendment
 
@@ -216,7 +224,7 @@ Exceptions for certain films.—For purposes of determining whether any property
 
 &emsp;“(A) in the case of any motion picture or television film, construction shall be treated as including production for purposes of section 203(b)(1) of this Act \[enacting provisions set out as a note under section 168 of this title\], and written contemporary evidence of an agreement (in accordance with industry practice) shall be treated as a written binding contract for such purposes,
 
-&emsp;“(B) in the case of any television film, a license agreement or agreement for production services between a television network and a producer shall betreated as a binding contract for purposes of section 203(b)(1)(A) of this Act, and
+&emsp;“(B) in the case of any television film, a license agreement or agreement for production services between a television network and a producer shall be treated as a binding contract for purposes of section 203(b)(1)(A) of this Act, and
 
 &emsp;“(C) a motion picture film shall be treated as described in section 203(b)(1)(A) of this Act if—
 

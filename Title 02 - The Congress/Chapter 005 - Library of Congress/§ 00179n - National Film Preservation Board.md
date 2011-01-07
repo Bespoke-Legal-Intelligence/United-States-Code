@@ -42,7 +42,7 @@
 
 #### (2) Members-at-large
 
-&emsp;In addition to the members appointed under paragraph (1), the Librarian shall appoint upto 5 members-at-large. The Librarian shall also select an alternate for each member <sup>2</sup> at-large, who may attend at Board expense those meetings which the member <sup>2</sup> at-large cannot attend.
+&emsp;In addition to the members appointed under paragraph (1), the Librarian shall appoint up to 5 members-at-large. The Librarian shall also select an alternate for each member <sup>2</sup> at-large, who may attend at Board expense those meetings which the member <sup>2</sup> at-large cannot attend.
 
 #### (b) Chair
 

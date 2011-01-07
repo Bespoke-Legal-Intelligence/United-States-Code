@@ -44,7 +44,7 @@ In each fiscal year, the Secretary and the Secretary of Agriculture shall jointl
 
 #### Amendments
 
-2007—Subsec. (b)(3). Pub. L. 110–19, §2(1), struck out par. (3) which read as follows: “State agencies that elect to make grants and enter into contracts for purposes of this section shall promptly and equitably disburse amounts received under this subsection to the recipients of the grants and contracts.”
+<b>2007</b>—Subsec. (b)(3). Pub. L. 110–19, §2(1), struck out par. (3) which read as follows: “State agencies that elect to make grants and enter into contracts for purposes of this section shall promptly and equitably disburse amounts received under this subsection to the recipients of the grants and contracts.”
 
 Subsec. (d). Pub. L. 110–19, §2(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to purchase of commodities and payments to school food authorities.
 
@@ -54,7 +54,7 @@ Subsec. (f). Pub. L. 110–19, §2(3), added subsec. (f) and struck out former s
 
 &emsp;“(2) the foods available to such State agencies, area agencies on aging, and providers under subsection (c).”
 
-2006—Subsec. (b)(3). Pub. L. 109–365, §309(1), added par. (3).
+<b>2006</b>—Subsec. (b)(3). Pub. L. 109–365, §309(1), added par. (3).
 
 Subsec. (c)(1), (2). Pub. L. 109–365, §309(2)(A), (B), inserted “(including bonus commodities)” after “commodities”.
 
@@ -72,7 +72,7 @@ Subsec. (f). Pub. L. 109–365, §309(5), substituted “the Assistant Secretary
 
 “(2) the procedures to be followed to participate in the program.”
 
-2003—Subsec. (b). Pub. L. 108–7, §217(a)(1)(A), substituted “and payment” for “of cash or commodities” in heading that had been supplied editorially.
+<b>2003</b>—Subsec. (b). Pub. L. 108–7, §217(a)(1)(A), substituted “and payment” for “of cash or commodities” in heading that had been supplied editorially.
 
 Subsec. (b)(1). Pub. L. 108–7, §217(a)(1)(B), substituted “The Secretary shall allot and provide, in accordance with this section, to or on behalf of each State agency” for “The Secretary of Agriculture shall allot and provide in the form of cash or commodities or a combination thereof (at the discretion of the State) to each State agency” and “to or on behalf of each grantee” for “to each grantee”.
 
@@ -92,7 +92,7 @@ Subsec. (d)(5). Pub. L. 108–7, §217(a)(2)(G), which directed the substitution
 
 Pub. L. 108–7, §217(a)(2)(C), redesignated par. (4) as (5).
 
-2000—Pub. L. 106–501, §309(1), in section catchline substituted “Nutrition services incentive program” for “Availability of surplus commodities”.
+<b>2000</b>—Pub. L. 106–501, §309(1), in section catchline substituted “Nutrition services incentive program” for “Availability of surplus commodities”.
 
 Subsecs. (a), (b). Pub. L. 106–501, §309(3), added subsecs. (a) and (b). Former subsecs. (a) and (b) redesignated (c) and (d), respectively.
 
@@ -110,9 +110,9 @@ Pub. L. 106–501, §309(2), redesignated subsec. (c) as (e).
 
 Subsec. (f). Pub. L. 106–501, §309(2), redesignated subsec. (d) as (f).
 
-1993—Subsec. (a)(4)(B). Pub. L. 103–171 substituted “Assistant Secretary for Aging” for “Commissioner”.
+<b>1993</b>—Subsec. (a)(4)(B). Pub. L. 103–171 substituted “Assistant Secretary for Aging” for “Commissioner”.
 
-1992—Subsec. (a)(4). Pub. L. 102–375, §310(1), designated existing provisions as subpars. (A) and (B) and, in subpar. (A), substituted “shall maintain—” for “shall maintain an annually programmed level of assistance of not less than 56.76 cents per meal during fiscal years 1986 through 1991.” and added cls. (i) and (ii).
+<b>1992</b>—Subsec. (a)(4). Pub. L. 102–375, §310(1), designated existing provisions as subpars. (A) and (B) and, in subpar. (A), substituted “shall maintain—” for “shall maintain an annually programmed level of assistance of not less than 56.76 cents per meal during fiscal years 1986 through 1991.” and added cls. (i) and (ii).
 
 Subsec. (c)(1)(A). Pub. L. 102–375, §310(2)(A), substituted “$250,000,000 for fiscal year 1992, $310,000,000 for fiscal year 1993, $380,000,000 for fiscal year 1994, and $460,000,000 for fiscal year 1995” for “$151,000,000 for the fiscal year 1988, $166,000,000 for the fiscal year 1989, $183,000,000 for the fiscal year 1990, and $201,000,000 for the fiscal year 1991”.
 
@@ -120,7 +120,7 @@ Subsec. (c)(2). Pub. L. 102–375, §310(2)(B), designated existing provisions a
 
 Subsec. (d)(1). Pub. L. 102–375, §102(b)(10)(A), substituted “area agencies on aging” for “area agencies”.
 
-1987—Subsec. (a)(4). Pub. L. 100–175, §122(c)(1), substituted “fiscal years 1986 through 1991” for “fiscal year 1986 and during each fiscal year thereafter” and struck out after first sentence “The amount specified in this paragraph shall be adjusted on an annual basis for each fiscal year after September 30, 1986, to reflect changes in the series for food away from home of the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor. Such adjustment shall be computed to the nearest one-fourth cent.”
+<b>1987</b>—Subsec. (a)(4). Pub. L. 100–175, §122(c)(1), substituted “fiscal years 1986 through 1991” for “fiscal year 1986 and during each fiscal year thereafter” and struck out after first sentence “The amount specified in this paragraph shall be adjusted on an annual basis for each fiscal year after September 30, 1986, to reflect changes in the series for food away from home of the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor. Such adjustment shall be computed to the nearest one-fourth cent.”
 
 Subsec. (c)(1)(A). Pub. L. 100–175, §122(c)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
 
@@ -128,13 +128,13 @@ Subsec. (c)(1)(A). Pub. L. 100–175, §122(c)(2), amended subpar. (A) generally
 
 “(ii) The provisions of the second and third sentences of subsection (a)(4) of this section shall not apply for fiscal years 1986 and 1987.”
 
-1986—Subsec. (a)(4). Pub. L. 99–269, §2, substituted “56.76 cents per meal during fiscal year 1986 and during” for “15 cents per meal during fiscal year 1976, 25 cents per meal during fiscal year 1977 and fiscal year 1978, and 30 cents per meal for” and “September 30, 1986” for “June 30, 1975”.
+<b>1986</b>—Subsec. (a)(4). Pub. L. 99–269, §2, substituted “56.76 cents per meal during fiscal year 1986 and during” for “15 cents per meal during fiscal year 1976, 25 cents per meal during fiscal year 1977 and fiscal year 1978, and 30 cents per meal for” and “September 30, 1986” for “June 30, 1975”.
 
 Subsec. (c)(1)(A). Pub. L. 99–269, §3(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “There are authorized to be appropriated $105,000,000 for fiscal year 1984, $120,800,000 for fiscal year 1985, $125,900,000 for fiscal year 1986, and $132,000,000 for fiscal year 1987, to carry out the provisions of this section (other than the provisions of subsection (a)(1) of this section) and such additional sums as may be necessary for each such fiscal year to maintain the level of reimbursement for the number of meals served under such provisions in fiscal year 1983.”
 
 Subsec. (d). Pub. L. 99–269, §4, added subsec. (d).
 
-1984—Subsec. (a)(4). Pub. L. 98–459, §310(a)(1), (2), substituted “subsection (c) of this section” for “subsection (d) of this section” and “Consumer Price Index for All Urban Consumers” for “Consumer Price Index”.
+<b>1984</b>—Subsec. (a)(4). Pub. L. 98–459, §310(a)(1), (2), substituted “subsection (c) of this section” for “subsection (d) of this section” and “Consumer Price Index for All Urban Consumers” for “Consumer Price Index”.
 
 Subsec. (c). Pub. L. 98–459, §310(b)(1), which directed the amendment of this section by redesignating subsec. (d)(1) as (c)(1), was executed by redesignating subsec. (d) as (c) to reflect the probable intent of Congress.
 
@@ -144,7 +144,7 @@ Subsec. (c)(2). Pub. L. 98–459, §310(b)(4), substituted “appropriations” 
 
 Subsec. (d). Pub. L. 98–459, §310(b)(1), redesignated subsec. (d) as (c). See 1984 Amendment note for subsec. (c) above.
 
-1981—Subsec. (a)(4). Pub. L. 97–115, §9(a), substituted “Subject to the authorization of appropriations specified in subsection (d) of this section, in donating” and “30 cents per meal for each fiscal year thereafter” for “In donating” and “30 cents per meal during the three succeeding fiscal years”, respectively.
+<b>1981</b>—Subsec. (a)(4). Pub. L. 97–115, §9(a), substituted “Subject to the authorization of appropriations specified in subsection (d) of this section, in donating” and “30 cents per meal for each fiscal year thereafter” for “In donating” and “30 cents per meal during the three succeeding fiscal years”, respectively.
 
 Subsecs. (b), (c). Pub. L. 97–115, §9(b), redesignated subsec. (c) as (b). Former subsec. (b), providing for the purchase, during fiscal years ending before Oct. 1, 1981, of high protein foods, meats, and meat alternatives by the Secretary of Agriculture for distribution to recipients of grants or contracts to be used for providing nutrition services in accordance with the provisions of this subchapter, was struck out.
 

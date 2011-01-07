@@ -6,7 +6,7 @@
 
 (2)(A) The Commission shall consist of—
 
-&emsp;(i) five members to be appointed by the President, by and with the advice and consent of the Senate, one of whom shall, at the time of appointment, be designated as Chairman of the Commission;
+&emsp;(i) five members to be appointed by the President, by and with the advice and consentof the Senate, one of whom shall, at the time of appointment, be designated as Chairman of the Commission;
 
 &emsp;(ii) two members to be appointed by the Speaker of the House of Representatives; and
 
@@ -56,9 +56,9 @@
 
 #### (c) Special, annual, and final reports to President and Congress concerning implementation, etc., of study, investigation, and review responsibilities; termination of Commission
 
-(1) No later than four months after the date on which a majority of the authorized membership of the Commission is initially appointed, the Commission shall submit to the President and the Congress a special report describing the Commission's plans for conducting the study, investigation, and review under subsection (b) of this section, with particular reference to the scope of such study, investigation, and review and the methods proposed to be used in conducting it.
+(1) No later than four months after the date on which a majority of the authorized membership of the Commission is initially appointed, the Commission shall submit to the President and the Congress a special report describing theCommission's plans for conducting the study, investigation, and review under subsection (b) of this section, with particular reference to the scope of such study, investigation, and review and the methods proposed to be used in conducting it.
 
-(2) At or before the close of each of the first two years after the date on which a majority of the authorized membership of the Commission is initially appointed, the Commission shall submit to the President and the Congress an annual report on the study, investigation, and review under subsection (b) of this section, together with its recommendations with respect to the programs involved. The second such report shallconstitute the final report of the Commission on such study, investigation, and review, and shall include its final recommendations; and the Commission shall cease to exist on April 1, 1981.
+(2) At or before the close of each of the first two years after the date on which a majority of the authorized membership of the Commission is initially appointed, the Commission shall submit to the President and the Congress an annual report on the study, investigation, and review under subsection (b) of this section, together with its recommendations with respect to the programs involved. The second such report shall constitute the final report of the Commission on such study, investigation, and review, and shall include its final recommendations; and the Commission shall cease to exist on April 1, 1981.
 
 #### (d) Executive Director and additional personnel; appointment and compensation
 
@@ -88,17 +88,15 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 Level V of the Executive Schedule, referred to in subsec. (d)(1), is set out in section 5316 of Title 5, Government Officers and Employees.
 
-The provisions of title 5 governing appointments to the competitive service, referred to in subsec. (d)(2), are classified to section 3301 et seq. of Title 5.
-
 #### Codification
 
 Section was enacted as part of the Social Security Amendments of 1977, and not as part of the Social Security Act which comprises this chapter.
 
 #### Amendments
 
-1984—Subsec. (i). Pub. L. 98–369 struck out subsec. (i) which provided for notice of and attendance at meetings of the Health Insurance Benefits Advisory Council.
+<b>1984</b>—Subsec. (i). Pub. L. 98–369 struck out subsec. (i) which provided for notice of and attendance at meetings of the Health Insurance Benefits Advisory Council.
 
-1980—Subsec. (a)(2)(F). Pub. L. 96–265, §502(a), substituted “a term which shall end on April 1, 1981” for “a term of two years”.
+<b>1980</b>—Subsec. (a)(2)(F). Pub. L. 96–265, §502(a), substituted “a term which shall end on April 1, 1981” for “a term of two years”.
 
 Subsec. (c)(2). Pub. L. 96–265, §502(b), substituted “and the Commission shall cease to exist on April 1, 1981” for “and upon the submission of such final report the Commission shall cease to exist”.
 

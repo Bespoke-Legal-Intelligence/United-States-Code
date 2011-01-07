@@ -12,7 +12,7 @@ Promotion Rate for Officers in Acquisition Corps.—The Secretary of Defense sha
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–136, §833(1)(A), struck out “each of the military departments and one or more Corps, as he considers appropriate, for the other components of” after “established for” in first sentence, and struck out last sentence which read “A separate Acquisition Corps may be established for each of the Navy and the Marine Corps.”
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §833(1)(A), struck out “each of the military departments and one or more Corps, as he considers appropriate, for the other components of” after “established for” in first sentence, and struck out last sentence which read “A separate Acquisition Corps may be established for each of the Navy and the Marine Corps.”
 
 Subsec. (b). Pub. L. 108–136, §833(1)(B), substituted “the Acquisition Corps” for “an Acquisition Corps”.
 

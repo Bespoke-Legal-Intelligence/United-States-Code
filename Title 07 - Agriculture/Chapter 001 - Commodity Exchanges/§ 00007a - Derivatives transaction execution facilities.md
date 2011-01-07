@@ -182,7 +182,15 @@ Not later than 180 days after December 21, 2000, consistent with regulations ado
 
 &emsp;The Commission shall have exclusive jurisdiction over agreements, contracts, or transactions described in paragraph (1) to the extent that the agreements, contracts, or transactions are traded on a derivatives transaction execution facility.
 
-(Sept. 21, 1922, ch. 369, §5a, as added Pub. L. 106–554, §1(a)(5) \[title I, §111\], Dec. 21, 2000, 114 Stat. 2763, 2763A–387; amended Pub. L. 110–234, title XIII, §13203(h), May 22, 2008, 122 Stat. 1440; Pub. L. 110–246, §4(a), title XIII, §13203(h), June 18, 2008, 122 Stat. 1664, 2202.)
+(Sept. 21, 1922, ch. 369, §5a, as added Pub. L. 106–554, §1(a)(5) \[title I, §111\], Dec. 21, 2000, 114 Stat. 2763, 2763A–387; amended Pub. L. 110–234, title XIII, §13203(h), May 22, 2008, 122 Stat. 1440; Pub. L. 110–246, §4(a), title XIII, §13203(h), June 18, 2008, 122 Stat. 1664, 2202; Pub. L. 111–203, title VII, §721(e)(5), July 21, 2010, 124 Stat. 1671.)
+
+#### Amendment of Subsection (b)(2)(F)
+
+<i>Pub. L. 111–203, title VII, §§721(e)(5), 754, July 21, 2010, 124 Stat. 1671, 1754, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, subsection (b)(2)(F) of this section is amended by striking “section 1a(4)” and inserting “section 1a(9)”.</i>
+
+#### Repeal of Section
+
+<i>Pub. L. 111–203, title VII, §§734(a), 754, July 21, 2010, 124 Stat. 1718, 1754, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, this section is repealed.</i>
 
 #### References in Text
 
@@ -199,6 +207,14 @@ A prior section 7a, act Sept. 21, 1922, ch. 369, §5a, as added June 15, 1936, c
 #### Amendments
 
 2008—Subsec. (d)(4) to (10). Pub. L. 110–246, §13203(h), added par. (4) and redesignated former pars. (4) to (9) as (5) to (10), respectively.
+
+#### Effective Date of Repeal
+
+Repeal effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision ofsubtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by section 721(e)(5) of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 #### Effective Date of 2008 Amendment
 

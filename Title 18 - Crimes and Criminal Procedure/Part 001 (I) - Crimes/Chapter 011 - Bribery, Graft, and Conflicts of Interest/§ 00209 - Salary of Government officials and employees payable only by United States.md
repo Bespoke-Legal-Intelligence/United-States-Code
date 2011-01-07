@@ -22,7 +22,7 @@ Shall be subject to the penalties set forth in section 216 of this title.
 
 (h) This section does not prohibit a member of the reserve components of the armed forces on active duty pursuant to a call or order to active duty under a provision of law referred to in section 101(a)(13) of title 10 from receiving from any person that employed such member before the call or order to active duty any payment of any part of the salary or wages that such person would have paid the member if the member's employment had not been interrupted by such call or order to active duty.
 
-(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1125; amended Pub. L. 96–174, Dec. 29, 1979, 93 Stat. 1288; Pub. L. 97–171, Apr. 13, 1982, 96 Stat. 67; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–646, §70, Nov. 10, 1986, 100 Stat. 3617; Pub. L. 101–194, title IV, §406, Nov. 30, 1989, 103 Stat. 1753; Pub. L. 101–647, title XXXV, §3510, Nov. 29, 1990, 104 Stat. 4922; Pub. L. 103–322, title XXXIII, §330008(7), Sept. 13, 1994, 108 Stat. 2143; Pub. L. 107–273, div. A, title III, §302(3), Nov. 2, 2002, 116 Stat. 1781; Pub. L. 107–347, title II, §209(g)(2), Dec. 17, 2002, 116 Stat. 2932; Pub. L. 108–375, div. A, title VI, §663, Oct. 28, 2004, 118 Stat. 1974.)
+(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1125; amended Pub. L. 96–174, Dec. 29, 1979, 93 Stat. 1288; Pub. L. 97–171, Apr. 13, 1982, 96 Stat.67; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–646, §70, Nov. 10, 1986, 100 Stat. 3617; Pub. L. 101–194, title IV, §406, Nov. 30, 1989, 103 Stat. 1753; Pub. L. 101–647, title XXXV, §3510, Nov. 29, 1990, 104 Stat. 4922; Pub. L. 103–322, title XXXIII, §330008(7), Sept. 13, 1994, 108 Stat. 2143; Pub. L. 107–273, div. A, title III, §302(3), Nov. 2, 2002, 116 Stat. 1781; Pub. L. 107–347, title II, §209(g)(2), Dec. 17, 2002, 116 Stat. 2932; Pub. L. 108–375, div. A, title VI, §663, Oct. 28, 2004, 118 Stat. 1974.)
 
 #### References in Text
 
@@ -36,25 +36,25 @@ Provisions similar to those comprising this section were contained in section 19
 
 #### Amendments
 
-2004—Subsec. (h). Pub. L. 108–375 added subsec. (h).
+<b>2004</b>—Subsec. (h). Pub. L. 108–375 added subsec. (h).
 
-2002—Subsec. (a). Pub. L. 107–273, in second par., substituted “makes” for “or makes” and “supplements, the salary of any” for “supplements the salary of, any”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273, in second par., substituted “makes” for “or makes” and “supplements, the salary of any” for “supplements the salary of, any”.
 
 Subsec. (g). Pub. L. 107–347 added subsec. (g).
 
-1994—Subsec. (d). Pub. L. 103–322 struck out “the” before “chapter 41”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–322 struck out “the” before “chapter 41”.
 
-1990—Subsec. (d). Pub. L. 101–647 substituted “chapter 41 of title 5” for “Government Employees Training Act (Public Law 85–507, 72 Stat. 327; 5 U.S.C. 2301–2319, July 7, 1958)”.
+<b>1990</b>—Subsec. (d). Pub. L. 101–647 substituted “chapter 41 of title 5” for “Government Employees Training Act (Public Law 85–507, 72 Stat. 327; 5 U.S.C. 2301–2319, July 7, 1958)”.
 
-1989—Subsec. (a). Pub. L. 101–194 substituted at end “Shall be subject to the penalties set forth in section 216 of this title.” for “Shall be fined not more than $5,000 or imprisoned not more than one year, or both.”
+<b>1989</b>—Subsec. (a). Pub. L. 101–194 substituted at end “Shall be subject to the penalties set forth in section 216 of this title.” for “Shall be fined not more than $5,000 or imprisoned not more than one year, or both.”
 
-1986—Subsec. (e). Pub. L. 99–646 inserted “or, in the case of participants in overseas assignments, in excess of three hundred and sixty-five days”.
+<b>1986</b>—Subsec. (e). Pub. L. 99–646 inserted “or, in the case of participants in overseas assignments, in excess of three hundred and sixty-five days”.
 
 Subsec. (f). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1982—Subsec. (f). Pub. L. 97–171 added subsec. (f).
+<b>1982</b>—Subsec. (f). Pub. L. 97–171 added subsec. (f).
 
-1979—Subsec. (e). Pub. L. 96–174 added subsec. (e).
+<b>1979</b>—Subsec. (e). Pub. L. 96–174 added subsec. (e).
 
 #### Effective Date of 2002 Amendment
 

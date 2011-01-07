@@ -26,11 +26,11 @@ Chain of Command.—Unless otherwise directed by the President, the chain of com
 
 #### Amendments
 
-1996—Subsec. (a)(1) to (3). Pub. L. 104–201 substituted “North American Aerospace Defense Command” for “North American Air Defense Command”.
+<b>1996</b>—Subsec. (a)(1) to (3). Pub. L. 104–201 substituted “North American Aerospace Defense Command” for “North American Air Defense Command”.
 
-1988—Subsec. (a)(1) to (3). Pub. L. 100–456 inserted “or to the United States element of the North American Air Defense Command”.
+<b>1988</b>—Subsec. (a)(1) to (3). Pub. L. 100–456 inserted “or to the United States element of the North American Air Defense Command”.
 
-1987—Subsec. (a)(2). Pub. L. 100–180 inserted before period at end “or forces assigned to multinational peacekeeping organizations”.
+<b>1987</b>—Subsec. (a)(2). Pub. L. 100–180 inserted before period at end “or forces assigned to multinational peacekeeping organizations”.
 
 #### Implementation of Assignment of Forces to Combatant Commands
 

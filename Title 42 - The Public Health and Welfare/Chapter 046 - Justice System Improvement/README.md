@@ -88,7 +88,7 @@
 
 #### Part B—Discretionary Grants
 
-I74subpart 1—grants to public and private entities
+#### subpart 1—grants to public and private entities
 
 |  |  |
 | :--- | ---: |
@@ -504,7 +504,7 @@ I74subpart 1—grants to public and private entities
 | :--- | ---: |
 | [3797w.](Subchapter%20017%20%28XVII%29%20-%20Offender%20Reentry%20and%20Community%20Safety/%C2%A7%2003797w%20-%20Adult%20and%20juvenile%20offender%20State%20and%20local%20reentry%20demonstration%20projects.md) | Adult and juvenile offender State and local reentry demonstration projects. |
 | 3797w–1. | State reentry project evaluation. |
-| 3797W–2. | State, tribal, and local reentry courts. |
+| 3797w–2. | State, tribal, and local reentry courts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

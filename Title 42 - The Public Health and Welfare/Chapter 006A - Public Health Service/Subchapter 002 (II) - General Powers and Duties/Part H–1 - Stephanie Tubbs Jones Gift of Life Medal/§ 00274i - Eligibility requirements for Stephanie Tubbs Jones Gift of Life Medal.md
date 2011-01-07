@@ -18,7 +18,7 @@ The Secretary of Health and Human Services shall direct the entity operating the
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), only 1 medal may be presented to a family under subsection (b). Such medal shall be presented to the donating family member, or in the case of a deceased donor, the family member who signed the consent form authorizing, or who otherwise authorized, the donation of the organ involved.
+&emsp;Except as provided in paragraph (2), only 1 medal may be presented to a family under subsection (b). Such medal shall be presented to the donating family member, or in the case of a deceased donor, the family member who signed the consent form authorizing, or whootherwise authorized, the donation of the organ involved.
 
 #### (2) Exception
 

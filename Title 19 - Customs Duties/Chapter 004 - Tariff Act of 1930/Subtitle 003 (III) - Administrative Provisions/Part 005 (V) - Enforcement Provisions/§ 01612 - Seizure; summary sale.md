@@ -1,14 +1,10 @@
 ### §1612. Seizure; summary sale
 
-(a) Whenever it appears to the Customs Service that any vessel, vehicle, aircraft, merchandise, or baggage seized under the customs laws is liable to perish or to waste or to be greatly reduced in value by keeping, or that the expense of keeping the same is disproportionate to the value thereof, and such vessel, vehicle, aircraft, merchandise, or baggage is subject to section 1607 of this title, and such vessel, vehicle, aircraft, merchandise, or baggage has not been delivered under bond, the Customs Service shall proceed forthwith to advertise and sell the same at auction under regulations to be prescribed by the Secretary of the Treasury. If such vessel, vehicle, aircraft, merchandise, or baggage is not subject to section 1607 of this title, the Customs Service shall forthwith transmit its report of the seizure to the United States attorney, who shall petition the court to order an immediate sale of such vessel, vehicle, aircraft, merchandise, or baggage, and if the ends of justice require it the court shall order such immediate sale, the proceeds thereof to be deposited with the court to await the final determination of the condemnation proceedings. Whether such sale be made by the Customs Service or by order of the court, the proceeds thereof shall be held subjectto claims of parties in interest to the same extent as the vessel, vehicle, aircraft, merchandise, or baggage so sold would have been subject to such claim.
+(a) Whenever it appears to the Customs Service that any vessel, vehicle, aircraft, merchandise, or baggage seized under the customs laws is liable to perish or to waste or to be greatly reduced in value by keeping, or that the expense of keeping the same is disproportionate to the value thereof, and such vessel, vehicle, aircraft, merchandise, or baggage is subject to section 1607 of this title, and such vessel, vehicle, aircraft, merchandise, or baggage has not been delivered under bond, the Customs Service shall proceed forthwith to advertise and sell the same at auction under regulations to be prescribed by the Secretary of the Treasury. If such vessel, vehicle, aircraft, merchandise, or baggage is not subject to section 1607 of this title, the Customs Service shall forthwith transmit its report of the seizure to the United States attorney, who shall petition the court to order an immediate sale of such vessel, vehicle, aircraft, merchandise, or baggage, and if the ends of justice require it the court shall order such immediate sale, the proceeds thereof to be deposited with the court to await the final determination of the condemnation proceedings. Whether such sale be made by the Customs Service or by order of the court, the proceeds thereof shall be held subject to claims of parties in interest to the same extent as the vessel, vehicle, aircraft, merchandise, or baggage so sold would have been subject to such claim.
 
 (b) If the Customs Service determines that the expense of keeping the vessel, vehicle, aircraft, merchandise, or baggage is disproportionate to the value thereof, the Customs Service may promptly order the destruction or other appropriate disposition of such property under regulations prescribed by the Secretary. No customs officer shall be liable for the destruction or other disposition of property made pursuant to this section.
 
 (June 17, 1930, ch. 497, title IV, §612, 46 Stat. 755; June 25, 1948, ch. 646, §1, 62 Stat. 869; Sept. 1, 1954, ch. 1213, title V, §506, 68 Stat. 1141; Pub. L. 91–271, title III, §301(ff), June 2, 1970, 84 Stat. 291; Pub. L. 95–410, title I, §111(c), Oct. 3, 1978, 92 Stat. 898; Pub. L. 98–473, title II, §315, Oct. 12, 1984, 98 Stat. 2054; Pub. L. 98–573, title II, §213(a)(9), Oct. 30, 1984, 98 Stat. 2985; Pub. L. 100–690, title VII, §7367(c)(4), Nov. 18, 1988, 102 Stat. 4480; Pub. L. 103–182, title VI, §667, Dec. 8, 1993, 107 Stat. 2215.)
-
-#### References in Text
-
-The customs laws, referred to in subsec. (a), are classified generally to this title.
 
 #### Prior Provisions
 
@@ -18,25 +14,25 @@ Provisions concerning the sale of property liable to perish or waste, etc., were
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–182, §667(1), substituted “the Customs Service” for “the appropriate customs officer” after “Whenever it appears to”, for “such officer” after “delivered under bond,”, for “such officer” before “shall forthwith transmit” and for “the customs officer” after “Whether such sale be made by” and substituted “its report of the seizure” for “the appraiser's return and his report of the seizure”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–182, §667(1), substituted “the Customs Service” for “the appropriate customs officer” after “Whenever it appears to”, for “such officer” after “delivered under bond,”, for “such officer” before “shall forthwith transmit” and for “the customs officer” after “Whether such sale be made by” and substituted “its report of the seizure” for “the appraiser's return and his report of the seizure”.
 
 Subsec. (b). Pub. L. 103–182, §667(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If the expense of keeping the vessel, vehicle, aircraft, merchandise, or baggage is disproportionate to the value thereof, and such value is less than $1,000, such officer may proceed forthwith to order destruction or other appropriate disposition of such property, under regulations prescribed by the Secretary of the Treasury.”
 
-1988—Pub. L. 100–690 reenacted section substantially without change.
+<b>1988</b>—Pub. L. 100–690 reenacted section substantially without change.
 
-1984—Subsec. (a). Pub. L. 98–573 designated existing provisions as subsec. (a), inserted reference to aircraft in six places and substituted “the value thereof, and such vessel” for “the value thereof, and the value of such vessel”, “is subject to section 1607 of this title” for “as determined under section 1606 of this title, does not exceed $10,000”, “If such vessel” for “If such value of such vessel”, and “baggage is not subject to section 1607 of this title,” for “baggage exceeds $10,000”, and added subsec. (b).
+<b>1984</b>—Subsec. (a). Pub. L. 98–573 designated existing provisions as subsec. (a), inserted reference to aircraft in six places and substituted “the value thereof, and such vessel” for “the value thereof, and the value of such vessel”, “is subject to section 1607 of this title” for “as determined under section 1606 of this title, does not exceed $10,000”, “If such vessel” for “If such value of such vessel”, and “baggage is not subject to section 1607 of this title,” for “baggage exceeds $10,000”, and added subsec. (b).
 
 Pub. L. 98–473 amended section in manner substantially identical to amendment by Pub. L. 98–573, but did not add a subsec. (b) or provisions similar thereto.
 
-1978—Pub. L. 95–410 substituted “$10,000” for “$2,500” wherever appearing.
+<b>1978</b>—Pub. L. 95–410 substituted “$10,000” for “$2,500” wherever appearing.
 
-1970—Pub. L. 91–271 substituted references to appropriate customs officer or such officer for references to collector wherever appearing therein, and struck out references to appraiser and appraiser's return of value.
+<b>1970</b>—Pub. L. 91–271 substituted references to appropriate customs officer or such officer for references to collector wherever appearing therein, and struck out references to appraiser and appraiser's return of value.
 
-1954—Act Sept. 1, 1954, substituted “$2,500” for “$1,000” wherever appearing.
+<b>1954</b>—Act Sept. 1, 1954, substituted “$2,500” for “$1,000” wherever appearing.
 
 #### Change of Name
 
-Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” for “United States district attorney”. See section 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision Note thereunder.
+Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” for “United States districtattorney”. See section 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision Note thereunder.
 
 #### Effective Date of 1984 Amendment
 
@@ -48,5 +44,5 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
 

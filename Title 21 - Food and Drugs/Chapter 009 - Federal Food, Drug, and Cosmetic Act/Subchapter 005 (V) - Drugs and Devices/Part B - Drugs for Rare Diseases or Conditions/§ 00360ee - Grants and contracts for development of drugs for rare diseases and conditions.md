@@ -34,13 +34,13 @@ Section was enacted as part of the Orphan Drug Act, and not as part of the Feder
 
 #### Amendments
 
-2007—Subsec. (c). Pub. L. 110–85 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For grants and contracts under subsection (a) of this section, there are authorized to be appropriated such sums as already have been appropriated for fiscal year 2002, and $25,000,000 for each of the fiscal years 2003 through 2006.”
+<b>2007</b>—Subsec. (c). Pub. L. 110–85 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For grants and contracts under subsection (a) of this section, there are authorized to be appropriated such sums as already have been appropriated for fiscal year 2002, and $25,000,000 for each of the fiscal years 2003 through 2006.”
 
-2002—Subsec. (c). Pub. L. 107–281 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For grants and contracts under subsection (a) of this section there are authorized to be appropriated $10,000,000 for fiscal year 1988, $12,000,000 for fiscal year 1989, $14,000,000 for fiscal year 1990.”
+<b>2002</b>—Subsec. (c). Pub. L. 107–281 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For grants and contracts under subsection (a) of this section there are authorized to be appropriated $10,000,000 for fiscal year 1988, $12,000,000 for fiscal year 1989, $14,000,000 for fiscal year 1990.”
 
-1997—Subsec. (b)(1)(A)(ii), (B). Pub. L. 105–115 struck out “or 357” after “355(b)”.
+<b>1997</b>—Subsec. (b)(1)(A)(ii), (B). Pub. L. 105–115 struck out “or 357” after “355(b)”.
 
-1988—Subsec. (a). Pub. L. 100–290, §3(a)(1), (b)(1), inserted “(1)” after “assist in” and added cls. (2) and (3).
+<b>1988</b>—Subsec. (a). Pub. L. 100–290, §3(a)(1), (b)(1), inserted “(1)” after “assist in” and added cls. (2) and (3).
 
 Subsec. (b)(2). Pub. L. 100–290, §3(a)(2), (b)(2), inserted “(1) in the case of a drug,” after “means”, added cls. (2) and (3), and substituted “under section 360bb of this title” for “under this subsection” in last sentence.
 
@@ -48,13 +48,13 @@ Subsec. (b)(3). Pub. L. 100–290, §3(b)(3), added par. (3).
 
 Subsec. (c). Pub. L. 100–290, §3(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For grants and contracts under subsection (a) of this section there are authorized to be appropriated $4,000,000 for fiscal year 1986, $4,000,000 for fiscal year 1987, and $4,000,000 for fiscal year 1988.”
 
-1985—Subsec. (a). Pub. L. 99–91, §5(a)(1), struck out “clinical” before “testing”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–91, §5(a)(1), struck out “clinical” before “testing”.
 
 Subsec. (b)(1). Pub. L. 99–91, §5(a)(2), substituted provisions defining “qualified testing” for provisions defining “qualified clinical testing”.
 
 Subsec. (c). Pub. L. 99–91, §5(b), substituted provisions authorizing appropriations for fiscal years 1986 to 1988, for provisions authorizing appropriations for fiscal years 1983 and the two succeeding fiscal years.
 
-1984—Subsec. (b)(2). Pub. L. 98–551 substituted “which (A) affects less than 200,000 persons in the United States, or (B) affects more than 200,000 in the United States and for which” for “which occurs so infrequently in the United States that”.
+<b>1984</b>—Subsec. (b)(2). Pub. L. 98–551 substituted “which (A) affects less than 200,000 persons in the United States, or (B) affects more than 200,000 in the United States and for which” for “which occurs so infrequently in the United States that”.
 
 #### Effective Date of 1985 Amendment
 

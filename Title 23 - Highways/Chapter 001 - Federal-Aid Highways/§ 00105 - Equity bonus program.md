@@ -132,7 +132,7 @@ Metro Planning Set Aside.—Notwithstanding section 104(f), no set aside provide
 
 Authorization of Appropriations.—There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) such sums as are necessary to carry out this section for each of fiscal years 2005 through 2009.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 891; Pub. L. 86–624, §17(b), July 12, 1960, 74 Stat. 415; Pub. L. 89–564, title II, §206, Sept. 9, 1966, 80 Stat. 736; Pub. L. 91–605, title I, §§106(d), 132, Dec. 31, 1970, 84 Stat. 1717, 1732; Pub. L. 93–87, title I, §109(b), Aug. 13, 1973, 87 Stat. 255; Pub. L. 95–599, title I, §§111, 112, Nov. 6, 1978, 92 Stat. 2696; Pub. L. 97–424, title I, §109(a), Jan. 6, 1983, 96 Stat. 2104; Pub. L. 102–240, title I, §1105(g)(7), Dec. 18, 1991, 105 Stat. 2036; Pub. L. 105–178, title I, §1104(a), (c), June 9, 1998, 112 Stat. 127; Pub. L. 105–206, title IX, §9002(d), July 22, 1998, 112 Stat. 835; Pub. L. 109–59, title I, §1104(a), Aug. 10, 2005, 119 Stat. 1163; Pub. L. 110–244, title I, §101(m)(3)(B), June 6, 2008, 122 Stat. 1576.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 891; Pub. L. 86–624, §17(b), July 12, 1960, 74 Stat. 415; Pub. L. 89–564, title II, §206, Sept. 9, 1966, 80 Stat. 736; Pub. L. 91–605, title I, §§106(d), 132, Dec. 31, 1970, 84 Stat. 1717, 1732; Pub. L. 93–87, title I, §109(b), Aug. 13, 1973, 87 Stat. 255; Pub. L. 95–599, title I, §§111, 112, Nov. 6, 1978, 92 Stat. 2696; Pub. L. 97–424, title I, §109(a), Jan. 6, 1983, 96 Stat. 2104; Pub. L. 102–240, title I, §1105(g)(7), Dec. 18, 1991, 105 Stat. 2036; Pub. L. 105–178, title I, §1104(a), (c), June 9, 1998, 112 Stat. 127; Pub. L. 105–206, title IX, §9002(d), July 22, 1998, 112 Stat. 835; Pub.L. 109–59, title I, §1104(a), Aug. 10, 2005, 119 Stat. 1163; Pub. L. 110–244, title I, §101(m)(3)(B), June 6, 2008, 122 Stat. 1576.)
 
 #### References in Text
 
@@ -144,13 +144,13 @@ The date of enactment of the SAFETEA–LU, referred to in subsec. (b)(1)(B), (2)
 
 #### Amendments
 
-2008—Subsecs. (a)(2)(C), (b)(2)(C). Pub. L. 110–244 struck out “replacement and rehabilitation” after “highway bridge”.
+<b>2008</b>—Subsecs. (a)(2)(C), (b)(2)(C). Pub. L. 110–244 struck out “replacement and rehabilitation” after “highway bridge”.
 
-2005—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to equity bonus program for allocating amounts among the States for each of fiscal years 2005 through 2009 for provisions relating to minimum guarantee to each State of funds apportioned under this chapter for each of fiscal years 1998 through 2003.
+<b>2005</b>—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to equity bonus program for allocating amounts among the States for each of fiscal years 2005 through 2009 for provisions relating to minimum guarantee to each State of funds apportioned under this chapter for each of fiscal years 1998 through 2003.
 
-1998—Pub. L. 105–178 amended section catchline and text generally, substituting provisions relating to minimum guarantee to each State of funds apportioned under chapter for provisions relating to programs to be submitted by State highway departments for approval by Secretary for utilization of funds apportioned under chapter.
+<b>1998</b>—Pub. L. 105–178 amended section catchline and text generally, substituting provisions relating to minimum guarantee to each State of funds apportioned under chapter for provisions relating to programs to be submitted by State highway departments for approval by Secretary for utilization of funds apportioned under chapter.
 
-Subsec. (a). Pub. L. 105–178, §1104(c)(1), as added by Pub. L. 105–206, §9002(d), inserted at end “The minimumamount allocated to a State under this section for a fiscal year shall be $1,000,000.”
+Subsec. (a). Pub. L. 105–178, §1104(c)(1), as added by Pub. L. 105–206, §9002(d), inserted at end “The minimum amount allocated to a State under this section for a fiscal year shall be $1,000,000.”
 
 Subsec. (c)(1). Pub. L. 105–178, §1104(c)(2), as added by Pub. L. 105–206, §9002(d), struck out “50 percent of” after “shall apportion” in introductory provisions.
 
@@ -168,23 +168,23 @@ Subsec. (f)(3). Pub. L. 105–178, §1104(c)(6)(C), as added by Pub. L. 105–20
 
 Subsec. (f)(4). Pub. L. 105–178, §1104(c)(6)(A), as added by Pub. L. 105–206, §9002(d), inserted “percentage” before “return”.
 
-1991—Subsec. (k). Pub. L. 102–240 added subsec. (k).
+<b>1991</b>—Subsec. (k). Pub. L. 102–240 added subsec. (k).
 
-1983—Subsec. (h). Pub. L. 97–424 added subsec. (h).
+<b>1983</b>—Subsec. (h). Pub. L. 97–424 added subsec. (h).
 
-1978—Subsec. (b). Pub. L. 95–599, §111, inserted provision relating to selection of program projects after consultation with local officials in situations where public roads and highways are under control and supervision of State highway departments.
+<b>1978</b>—Subsec. (b). Pub. L. 95–599, §111, inserted provision relating to selection of program projects after consultation with local officials in situations where public roads and highways are under control and supervision of State highway departments.
 
 Subsec. (g). Pub. L. 95–599, §112, substituted “public airports, public ports for water transportation, new town communities, and new town-intown communities,” for “public airports and public ports for water transportation,”.
 
-1973—Subsec. (d). Pub. L. 93–87 substituted “projects be selected by the appropriate local officials with the concurrence of the State highway department of each State and, in urbanized areas, also in accordance with the planning process required pursuant to section 134 of this title”, for “projects be selected by the appropriate local officials and the State highway department in cooperation with each other”.
+<b>1973</b>—Subsec. (d). Pub. L. 93–87 substituted “projects be selected by the appropriate local officials with the concurrence of the State highway department of each State and, in urbanized areas, also in accordance with the planning process required pursuant to section 134 of this title”, for “projects be selected by the appropriate local officials and the State highway department in cooperation with each other”.
 
-1970—Subsecs. (d) to (f). Pub. L. 91–605, §106(d), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+<b>1970</b>—Subsecs. (d) to (f). Pub. L. 91–605, §106(d), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
 Subsec. (g). Pub. L. 91–605, §132, added subsec. (g).
 
-1966—Subsec. (e). Pub. L. 89–564 added subsec. (e).
+<b>1966</b>—Subsec. (e). Pub. L. 89–564 added subsec. (e).
 
-1960—Subsec. (e). Pub. L. 86–624 repealed subsec. (e) which required the Secretary, in approving programs in Hawaii, to give preference to such projects as will expedite the completion of highways for the national defense or which will connect seaports with units of the national parks.
+<b>1960</b>—Subsec. (e). Pub. L. 86–624 repealed subsec. (e) which required the Secretary, in approving programs in Hawaii, to give preference to such projects as will expedite the completion of highways for the national defense or which will connect seaports with units of the national parks.
 
 #### Effective Date of 1998 Amendment
 

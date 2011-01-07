@@ -134,7 +134,7 @@ Except as provided by subsection (c)(2)(E) of this section, a grant provided und
 
 #### (1) In general
 
-&emsp;Whenever the Secretary refuses to approve a grant under this chapter, to transfer operationof a Bureau school under subsection (b) of this section, or determines that a school is not eligible for assistance under this chapter, the Secretary shall—
+&emsp;Whenever the Secretary refuses to approve a grant under this chapter, to transfer operation of a Bureau school under subsection (b) of this section, or determines that a school is not eligible for assistance under this chapter, the Secretary shall—
 
 &emsp;&emsp;(A) state the objections in writing to the tribe or tribal organization within the allotted time;
 

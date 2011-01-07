@@ -28,7 +28,7 @@
 
 #### References in Text
 
-The Tariff Act of 1930, referred to in subsecs. (a), (b)(1), and (c), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Title VII of the Tariff Act of 1930 is classified generally to subtitle IV (§1671 et seq.) of chapter 4 of Title 19, Customs Duties. Sections 515, 516, 516A, and 777 of the Tariff Act of 1930 are classified to sections 1515, 1516, 1516a, and 1677f, respectively, of Title 19. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
+The Tariff Act of 1930, referred to in subsecs. (a), (b)(1), and (c), is act June 17, 1930, ch. 497, 46 Stat. 590,as amended. Title VII of the Tariff Act of 1930 is classified generally to subtitle IV (§1671 et seq.) of chapter 4 of Title 19, Customs Duties. Sections 515, 516, 516A, and 777 of the Tariff Act of 1930 are classified to sections 1515, 1516, 1516a, and 1677f, respectively, of Title 19. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
 
 #### Prior Provisions
 
@@ -36,9 +36,9 @@ A prior section 2635, acts June 25, 1948, ch. 646, 62 Stat. 981; June 2, 1970, P
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–182 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
+<b>1993</b>—Subsec. (a). Pub. L. 103–182 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
-“(1) Upon service of the summons on the Secretary of the Treasury in any civil action contesting the denialof a protest under section 515 of the Tariff Act of 1930 or the denial of a petition under section 516 of such Act, the appropriate customs officer shall forthwith transmit to the clerk of the Court of International Trade, as prescribed by its rules, and as a part of the official record—
+“(1) Upon service of the summons on the Secretary of the Treasury in any civil action contesting the denial of a protest under section 515 of the Tariff Act of 1930 or the denial of a petition under section 516 of such Act, the appropriate customs officer shall forthwith transmit to the clerk of the Court of International Trade, as prescribed by its rules, and as a part of the official record—
 
 &emsp;“(A) the consumption or other entry and the entry summary;
 

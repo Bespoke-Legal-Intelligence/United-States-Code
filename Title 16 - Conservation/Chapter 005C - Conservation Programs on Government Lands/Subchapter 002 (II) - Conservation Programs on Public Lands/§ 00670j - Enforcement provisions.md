@@ -24,10 +24,6 @@ All provisions of law relating to the seizure, forfeiture, and condemnation of a
 
 (Pub. L. 86–797, title II, §204, as added Pub. L. 93–452, §2, Oct. 18, 1974, 88 Stat. 1372; amended Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
-#### References in Text
-
-The customs laws, referred to in subsec. (d), are classified generally to Title 19, Customs Duties.
-
 #### Change of Name
 
 “United States magistrate judge” substituted for “United States magistrate” in subsec. (b)(2), (3) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.

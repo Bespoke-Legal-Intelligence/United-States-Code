@@ -10,7 +10,7 @@ Purpose.—The purpose of the Fund is to ensure that the Department of Defense a
 
 (c)
 
-Management.—The Fund shall be managed by a senior official of the Department of Defense designated by the Under Secretary of Defensefor Acquisition, Technology, and Logistics for that purpose, from among persons with an extensive background in management relating to acquisition and personnel.
+Management.—The Fund shall be managed by a senior official of the Department of Defense designated by the Under Secretary of Defense for Acquisition, Technology, and Logistics for that purpose, from among persons with an extensive background in management relating to acquisition and personnel.
 
 (d)
 
@@ -90,7 +90,7 @@ Guidance.—The Under Secretary of Defense for Acquisition, Technology, and Logi
 
 &emsp;(4)
 
-Limitation on payments to or for contractors.—Amounts in the Fund shall not be available for payments to contractors or contractor employees, other than for the purposeof providing advanced training to Department of Defense employees.
+Limitation on payments to or for contractors.—Amounts in the Fund shall not be available for payments to contractors or contractor employees, other than for the purpose of providing advanced training to Department of Defense employees.
 
 &emsp;(5)
 
@@ -138,7 +138,7 @@ A prior section 1705, added Pub. L. 101–510, div. A, title XII, §1202(a), Nov
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–84, §832(g)(1), inserted “Development” after “Workforce”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–84, §832(g)(1), inserted “Development” after “Workforce”.
 
 Subsec. (d)(1)(B), (C). Pub. L. 111–84, §832(a)(1), added subpar. (B) and redesignated former subpar. (B) as (C).
 
@@ -166,7 +166,7 @@ Subsec. (h)(1)(B). Pub. L. 111–84, §831(a)(2), struck out “highly” after 
 
 Subsec. (h)(2). Pub. L. 111–84, §831(b), substituted “September 30, 2015” for “September 30, 2012”.
 
-2008—Subsec. (h). Pub. L. 110–417 added subsec. (h).
+<b>2008</b>—Subsec. (h). Pub. L. 110–417 added subsec. (h).
 
 #### Effective Date of 2009 Amendment
 

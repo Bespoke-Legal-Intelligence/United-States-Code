@@ -18,7 +18,7 @@ Correction.—A person described in paragraph (1) shall not be subject to crimin
 
 &emsp;&emsp;(B)
 
-Reasonable time and sufficiency of correction.—The Secretary shall establishby regulation what constitutes a reasonable time for the purposes of subparagraph (A) and what manner of correction is sufficient for purposes of subparagraph (A). The Secretary shall issue a final rule under this subparagraph within 90 days of the date of the enactment of this section.
+Reasonable time and sufficiency of correction.—The Secretary shall establish by regulation what constitutes a reasonable time for the purposes of subparagraph (A) and what manner of correction is sufficient for purposes of subparagraph (A). The Secretary shall issue a final rule under this subparagraph within 90 days of the date of the enactment of this section.
 
 &emsp;&emsp;(C)
 
@@ -35,4 +35,6 @@ Coordination with Department of Justice.—The Attorney General may bring an act
 Section 1365(g)(3) of title 18, referred to in subsec. (a)(1), was redesignated section 1365(h)(3) of title 18 by Pub. L. 107–307, §2(1), Dec. 2, 2002, 116 Stat. 2445.
 
 The date of the enactment of this section, referred to in subsec. (a)(2)(B), is the date of enactment of Pub. L. 106–414, which was approved Nov. 1, 2000.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -26,5 +26,5 @@ Section 31342 provides that any authorized person providing necessaries for a ve
 
 #### Amendments
 
-1989—Pub. L. 101–225 designated existing provisions as subsec. (a), substituted “Except as provided in subsection (b) of this section, a person providing necessaries to a vessel on the order of the owner” for “A person providing necessaries to a vessel (except a public vessel) on the order of a person listed in section 31341 of this title”, and added subsec. (b).
+<b>1989</b>—Pub. L. 101–225 designated existing provisions as subsec. (a), substituted “Except as provided in subsection (b) of this section, a person providing necessaries to a vessel on the order of the owner” for “A person providing necessaries to a vessel (except a public vessel) on the order of a person listed in section 31341 of this title”, and added subsec. (b).
 

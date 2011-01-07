@@ -54,7 +54,7 @@ Competitive Programs.—With respect to programs that are conducted by the Secre
 
 “(d)
 
-Impact Aid.—With respect to title VIII (Impact Aid) \[probably means title VIII of Pub. L. 89–10, 20 U.S.C. 7701 et seq.\], this Act, and the amendments made by this Act, shall take effect with respect to appropriations for use under that title for fiscal year 2002.”
+Impact Aid.—With respect to title VIII (Impact Aid) \[probably means title VIII of Pub. L. 89–10, 20U.S.C. 7701 et seq.\], this Act, and the amendments made by this Act, shall take effect with respect to appropriations for use under that title for fiscal year 2002.”
 
 #### Short Title of 2002 Amendment
 
@@ -176,7 +176,7 @@ Planning and Transition.—Notwithstanding any other provision of law, a recipie
 
 “(c)
 
-Orderly Transition.—The Secretary shall take such steps as are necessary to provide for the orderlytransition to, and implementation of, programs authorized by this Act, and by the amendments made by this Act, from programs authorized by the Elementary and Secondary Education Act of 1965, as that Act was in effect prior to the date of enactment of this Act.”
+Orderly Transition.—The Secretary shall take such steps as are necessary to provide for the orderly transition to, and implementation of, programs authorized by this Act, and by the amendments made by this Act, from programs authorized by the Elementary and Secondary Education Act of 1965, as that Act was in effect prior to the date of enactment of this Act.”
 
 Pub. L. 103–382, §3(b), Oct. 20, 1994, 108 Stat. 3519, provided that: “Notwithstanding any other provision of law, a recipient of funds under the Elementary and Secondary Education Act of 1965 \[Pub. L. 89–10, formerly chapter 47 (§2701 et seq.) of this title, prior to general amendment by Pub. L. 103–382, §101\], as such Act was in effect on the day preceding the date of enactment of this Act \[Oct. 20, 1994\], may use funds available to such recipient under such predecessor authority to carry out necessary and reasonable planning and transition activities in order to ensure a smooth implementation of programs authorized by this Act \[see Tables for classification\].”
 

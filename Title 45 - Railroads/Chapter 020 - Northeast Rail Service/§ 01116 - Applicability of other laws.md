@@ -26,5 +26,7 @@ In subsec. (a), “section 303 of title 49” substituted for “section 4(f) of
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–509 inserted “and to the implementation of the sale of the interest of the United States in Conrail under the Conrail Privatization Act”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–509 inserted “and to the implementation of the sale of the interest of the United States in Conrail under the Conrail Privatization Act”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

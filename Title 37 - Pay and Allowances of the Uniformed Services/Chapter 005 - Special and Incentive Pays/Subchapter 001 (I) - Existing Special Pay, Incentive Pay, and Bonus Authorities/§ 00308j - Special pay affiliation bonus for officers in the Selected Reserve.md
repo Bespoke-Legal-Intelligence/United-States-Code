@@ -54,7 +54,7 @@ Amount.—The amount of a bonus under this section may be any amount not in exce
 
 Payment.—(1) Upon acceptance of a written agreement by the Secretary concerned under this section, the total amount of the bonus payable under the agreement becomes fixed. The agreement shall specify whether the bonus is to be paid in one lump sum or in installments.
 
-(2) A person entitled to a bonus under this section who is called or ordered to active duty shall be paid, during that period of active duty, any amount of the bonus that becomes payable to the member during that period of active duty.
+(2) A person entitled to a bonus under this section who is called or ordered to active duty shallbe paid, during that period of active duty, any amount of the bonus that becomes payable to the member during that period of active duty.
 
 (f)
 
@@ -68,7 +68,7 @@ Repayment.—A person who enters into an agreement under this section and receiv
 
 #### Amendments
 
-2006—Pub. L. 109–163, §634(c)(1), substituted “Special pay: affiliation bonus for officers in the Selected Reserve” for “Special pay: bonus for certain initial service of officers in the Selected Reserve”.
+<b>2006</b>—Pub. L. 109–163, §634(c)(1), substituted “Special pay: affiliation bonus for officers in the Selected Reserve” for “Special pay: bonus for certain initial service of officers in the Selected Reserve”.
 
 Subsec. (a)(2)(B), (C). Pub. L. 109–163, §634(a), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “has not previously served in the Selected Reserve of the Ready Reserve; and”.
 

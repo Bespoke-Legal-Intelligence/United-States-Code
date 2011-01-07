@@ -28,9 +28,9 @@ Except as otherwise provided by subsection (b) and sections 6062 and 6063, any r
 
 #### Amendments
 
-1998—Pub. L. 105–206 designated existing provisions as subsec. (a), inserted subsec. heading, substituted “Except as otherwise provided by subsection (b) and” for “Except as otherwise provided by”, and added subsec. (b).
+<b>1998</b>—Pub. L. 105–206 designated existing provisions as subsec. (a), inserted subsec. heading, substituted “Except as otherwise provided by subsection (b) and” for “Except as otherwise provided by”, and added subsec. (b).
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 1998 Amendment
 

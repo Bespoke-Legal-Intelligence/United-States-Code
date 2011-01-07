@@ -110,7 +110,7 @@ The Secretary, working through the Bureau of Labor Statistics, and in cooperatio
 
 &emsp;(4) justify the budget request for annual appropriations by describing priorities for the fiscal year succeeding the fiscal year in which the plan is developed and priorities for the 5 subsequent fiscal years for the system;
 
-&emsp;(5) describe current (as of the date of the submission of the plan) spending and spendingneeds to carry out activities under this section, including the costs to States and localities of meeting the requirements of subsection (e)(2) of this section; and
+&emsp;(5) describe current (as of the date of the submission of the plan) spending and spending needs to carry out activities under this section, including the costs to States and localities of meeting the requirements of subsection (e)(2) of this section; and
 
 &emsp;(6) describe the involvement of States in the development of the plan, through formal consultations conducted by the Secretary in cooperation with representatives of the Governors of every State, and with representatives of local workforce investment boards, pursuant to a process established by the Secretary in cooperation with the States.
 
@@ -178,7 +178,7 @@ Section 134(d), referred to in subsec. (a)(1)(B)(iii), probably means section 13
 
 The Workforce Investment Act of 1998, referred to in subsec. (d)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
-The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (f), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub.L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (f), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
 #### Prior Provisions
 
@@ -186,9 +186,9 @@ A prior section 15 of act of June 6, 1933, was renumbered section 16, and is set
 
 #### Amendments
 
-2006—Subsec. (f). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Applied Technology Education Act”.
+<b>2006</b>—Subsec. (f). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006”for “Carl D. Perkins Vocational and Applied Technology Education Act”.
 
-1998—Subsec. (a)(2)(A)(i). Pub. L. 105–332, §5(b)(1)(A), substituted “under the provisions of this section for any purpose other than the statistical purposes for which” for “under the provisions of this section for any purpose other than the statistical purposes for which”.
+<b>1998</b>—Subsec. (a)(2)(A)(i). Pub. L. 105–332, §5(b)(1)(A), substituted “under the provisions of this section for any purpose other than the statistical purposes for which” for “under the provisions of this section for any purpose other than the statistical purposes for which”.
 
 Pub. L. 105–277, §101(f) \[title VIII, §403(a)(1)(A)\], struck out “of this section” after “statistical purposes”.
 

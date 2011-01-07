@@ -18,19 +18,19 @@ R.S. §2950 provided that the certificate of the appraiser should be deemed to b
 
 #### Amendments
 
-2004—Pub. L. 108–429 inserted “or 1504” after “section 1500” in first sentence.
+<b>2004</b>—Pub. L. 108–429 inserted “or 1504” after “section 1500” in first sentence.
 
-1993—Pub. L. 103–182 amended section catchline generally, substituting “Customs Service” for “appropriate customs officer; notice”, and in text substituted “the Customs Service” for “the appropriate customs officer on his own initiative” and inserted “or transmitted” after “given” in two places.
+<b>1993</b>—Pub. L. 103–182 amended section catchline generally, substituting “Customs Service” for “appropriate customs officer; notice”, and in text substituted “the Customs Service” for “the appropriate customs officer on his own initiative” and inserted “or transmitted” after “given” in two places.
 
-1970—Pub. L. 91–271 struck out “(a)” preceding first sentence and, in such provisions, as so redesignated, substituted provisions authorizing a reliquidation in any respect by the appropriate customs officer on his own initiative for a liquidation made in accordance with section 1500 of this title or any reliquidation thereof made in accordance with this section for provisions setting forth the procedure for an appeal for a reappraisement by the collector or the consignee.
+<b>1970</b>—Pub. L. 91–271 struck out “(a)” preceding first sentence and, in such provisions, as so redesignated, substituted provisions authorizing a reliquidation in any respect by the appropriate customs officer on his own initiative for a liquidation made in accordance with section 1500 of this title or any reliquidation thereof made in accordance with this section for provisions setting forth the procedure for an appeal for a reappraisement by the collector or the consignee.
 
-1953—Subsec. (a). Act. Aug. 8, 1953, inserted cl. (3) and “including all determinations entering into the same,” in second sentence, and struck out third sentence which provided that “No such appeal filed by the consignee or his agent shall be deemed valid, unless he has complied with all the provisions of this chapter relating to the entry and appraisement of such merchandise”.
+<b>1953</b>—Subsec. (a). Act. Aug. 8, 1953, inserted cl. (3) and “including all determinations entering into the same,” in second sentence, and struck out third sentence which provided that “No such appeal filed by the consignee or his agent shall be deemed valid, unless he has complied with all the provisions of this chapter relating to the entry and appraisement of such merchandise”.
 
-1948—Subsec. (a). Act June 25, 1948, struck out fourth sentence and substituted new fourth sentence, and repealed the fifth, sixth, seventh, and eighth sentences dealing with review by Customs Court of Reappraisements of this material. See section 1582 of Title 28, Judiciary and Judicial Procedure.
+<b>1948</b>—Subsec. (a). Act June 25, 1948, struck out fourth sentence and substituted new fourth sentence, and repealed the fifth, sixth, seventh, and eighth sentences dealing with review by Customs Court of Reappraisements of this material. See section 1582 of Title 28, Judiciary and Judicial Procedure.
 
 Subsecs. (b) and (c), relating to practice and procedure in Customs Court, were repealed by Act June 25, 1948. See sections 2631 to 2637 of Title 28, Judiciary and Judicial Procedure.
 
-1938—Act June 25, 1938, designated paragraphs as subsecs. (a) and (b) and added subsec. (c).
+<b>1938</b>—Act June 25, 1938, designated paragraphs as subsecs. (a) and (b) and added subsec. (c).
 
 #### Effective Date of 2004 Amendment
 

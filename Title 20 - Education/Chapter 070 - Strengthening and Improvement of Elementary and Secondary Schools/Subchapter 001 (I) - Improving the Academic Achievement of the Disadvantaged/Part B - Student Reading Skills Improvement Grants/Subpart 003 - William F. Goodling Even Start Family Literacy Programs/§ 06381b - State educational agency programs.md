@@ -24,7 +24,7 @@ Each State educational agency that receives a grant under section 6381a(d)(1) of
 
 #### (B) Subgrantees in ninth and succeeding years
 
-&emsp;&emsp;No State educational agency shall award a subgrant under paragraph (1) in an amountless than $52,500 to an eligible entity for a fiscal year to carry out an Even Start program that is receiving assistance under this subpart or its predecessor authority for the ninth (or any subsequent) fiscal year.
+&emsp;&emsp;No State educational agency shall award a subgrant under paragraph (1) in an amount less than $52,500 to an eligible entity for a fiscal year to carry out an Even Start program that is receiving assistance under this subpart or its predecessor authority for the ninth (or any subsequent) fiscal year.
 
 #### (C) Exception for single subgrant
 

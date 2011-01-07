@@ -6,5 +6,5 @@ Any person who fails to implement or conduct, or who otherwise fails to comply w
 
 #### Amendments
 
-1998—Pub. L. 105–383 substituted “$5,000” for “$1,000”.
+<b>1998</b>—Pub. L. 105–383 substituted “$5,000” for “$1,000”.
 

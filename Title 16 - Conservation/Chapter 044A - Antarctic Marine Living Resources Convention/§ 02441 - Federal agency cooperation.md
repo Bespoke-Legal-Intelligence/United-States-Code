@@ -34,5 +34,5 @@ The Department of Homeland Security shall facilitate planning for the design, pr
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–241 substituted “of Homeland Security” for “of Transportation”.
+<b>2006</b>—Subsec. (c). Pub. L. 109–241 substituted “of Homeland Security” for “of Transportation”.
 

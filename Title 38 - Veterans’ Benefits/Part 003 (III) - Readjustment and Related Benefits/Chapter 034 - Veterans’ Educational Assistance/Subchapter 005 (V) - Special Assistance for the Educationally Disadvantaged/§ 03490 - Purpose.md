@@ -6,5 +6,5 @@ It is the purpose of this subchapter (1) to encourage and assist veterans who ha
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 1690 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1690 of this title as this section.
 

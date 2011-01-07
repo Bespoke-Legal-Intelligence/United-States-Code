@@ -42,7 +42,7 @@ Compensation for disability shall be paid to the employee as follows:
 
 &emsp;&emsp;(D) The time for filing a notice of injury, under section 912 of this title, or a claim for compensation, under section 913 of this title, shall not begin to run in connection with any claim for loss of hearing under this section, until the employee has received an audiogram, with the accompanying report thereon, which indicates that the employee has suffered a loss of hearing.
 
-&emsp;&emsp;(E) Determinations of loss of hearing shall be made in accordance with the guides for the evaluation of permanent impairment as promulgated and modified from time to time by the American Medical Association.
+&emsp;&emsp;(E) Determinations of loss of hearing shall be made in accordance with the guides forthe evaluation of permanent impairment as promulgated and modified from time to time by the American Medical Association.
 
 &emsp;(14) Phalanges: Compensation for loss of more than one phalange of a digit shall be the same as for loss of the entire digit. Compensation for loss of the first phalange shall be one-half of the compensation for loss of the entire digit.
 
@@ -60,7 +60,7 @@ Compensation for disability shall be paid to the employee as follows:
 
 &emsp;(21) Other cases: In all other cases in the class of disability, the compensation shall be 662/3 per centum of the difference between the average weekly wages of the employee and the employee's wage-earning capacity thereafter in the same employment or otherwise, payable during the continuance of partial disability.
 
-&emsp;(22) In any case in which there shall be a loss of, or loss of use of, more than one member or parts of more than one member set forth in paragraphs (1) to (19) of this subsection, not amounting to permanent total disability, the award of compensation shall be for the loss of,or loss of use of, each such member or part thereof, which awards shall run consecutively, except that where the injury affects only two or more digits of the same hand or foot, paragraph (17) of this subsection shall apply.
+&emsp;(22) In any case in which there shall be a loss of, or loss of use of, more than one member or parts of more than one member set forth in paragraphs (1) to (19) of this subsection, not amounting to permanent total disability, the award of compensation shall be for the loss of, or loss of use of, each such member or part thereof, which awards shall run consecutively, except that where the injury affects only two or more digits of the same hand or foot, paragraph (17) of this subsection shall apply.
 
 &emsp;(23) Notwithstanding paragraphs (1) through (22), with respect to a claim for permanent partial disability for which the average weekly wages are determined under section 910(d)(2) of this title, the compensation shall be 662/3 per centum of such average weekly wages multiplied by the percentage of permanent impairment, as determined under the guides referred to in section 902(10) of this title, payable during the continuance of such impairment.
 
@@ -82,13 +82,13 @@ Compensation for disability shall be paid to the employee as follows:
 
 (f) Injury increasing disability:
 
-&emsp;(1) In any case in which an employee having an existing permanent partial disability suffers injury, the employer shall provide compensation for such disability as is found to be attributable to that injury based upon the average weekly wages of the employee at the time of the injury. If following an injury falling within the provisions of subsection (c)(1)–(20) of this section, the employee is totally and permanently disabled, and the disability is found not to be due solely to that injury, the employer shall provide compensation for the applicable prescribed period of weeks provided for in that section for the subsequent injury, or for one hundred and four weeks, whichever is the greater, except that, in the case of an injury falling within the provisions of subsection (c)(13) of this section, the employer shall provide compensation for the lesser of such periods. In all other cases of total permanent disability or of death, found not to be due solely to that injury, of an employee having an existing permanent partial disability, the employer shall provide in addition to compensation under subsections (b) and (e) of this section, compensation payments or death benefits for one hundred and four weeks only. If following an injury falling within the provisions of subsection (c)(1)–(20) of this section, the employee has a permanent partial disability and the disability is found not to be due solely to that injury, and such disability is materially and substantially greater than that which would have resulted from the subsequent injury alone, the employer shall provide compensation for the applicable period of weeks provided for in that section for the subsequent injury, or for one hundred and four weeks, whichever is the greater, except that, in the case of an injury falling within the provisions of subsection (c)(13) of this section, the employer shall provide compensation for the lesser of such periods.
+&emsp;(1) In any case in which an employee having an existing permanent partial disability suffers injury, the employer shall provide compensation for such disability as is found to be attributable to that injury based upon the average weekly wages of the employee at the time of the injury. If following an injury falling within the provisions of subsection (c)(1)–(20) of this section, the employee is totally and permanently disabled, and the disability is found not to be due solely to that injury, the employer shall provide compensation for the applicable prescribed period of weeks provided for in that section for the subsequentinjury, or for one hundred and four weeks, whichever is the greater, except that, in the case of an injury falling within the provisions of subsection (c)(13) of this section, the employer shall provide compensation for the lesser of such periods. In all other cases of total permanent disability or of death, found not to be due solely to that injury, of an employee having an existing permanent partial disability, the employer shall provide in addition to compensation under subsections (b) and (e) of this section, compensation payments or death benefits for one hundred and four weeks only. If following an injury falling within the provisions of subsection (c)(1)–(20) of this section, the employee has a permanent partial disability and the disability is found not to be due solely to that injury, and such disability is materially and substantially greater than that which would have resulted from the subsequent injury alone, the employer shall provide compensation for the applicable period of weeks provided for in that section for the subsequent injury, or for one hundred and four weeks, whichever is the greater, except that, in the case of an injury falling within the provisions of subsection (c)(13) of this section, the employer shall provide compensation for the lesser of such periods.
 
 &emsp;In all other cases in which the employee has a permanent partial disability, found not to be due solely to that injury, and such disability is materially and substantially greater than that which would have resulted from the subsequent injury alone, the employer shall provide in addition to compensation under subsections (b) and (e) of this section, compensation for one hundred and four weeks only.
 
 &emsp;(2)(A) After cessation of the payments for the period of weeks provided for herein, the employee or his survivor entitled to benefits shall be paid the remainder of the compensation that would be due out of the special fund established in section 944 of this title, except that the special fund shall not assume responsibility with respect to such benefits (and such payments shall not be subject to cessation) in the case of any employer who fails to comply with section 932(a) of this title.
 
-&emsp;(B) After cessation of payments for the period of weeks provided for in this subsection, the employer or carrier responsible for payment of compensation shall remain a party tothe claim, retain access to all records relating to the claim, and in all other respects retain all rights granted under this chapter prior to cessation of such payments.
+&emsp;(B) After cessation of payments for the period of weeks provided for in this subsection, the employer or carrier responsible for payment of compensation shall remain a party to the claim, retain access to all records relating to the claim, and in all other respects retain all rights granted under this chapter prior to cessation of such payments.
 
 &emsp;(3) Any request, filed after September 28, 1984, for apportionment of liability to the special fund established under section 944 of this title for the payment of compensation benefits, and a statement of the grounds therefore, shall be presented to the deputy commissioner prior to the consideration of the claim by the deputy commissioner. Failure to present such request prior to such consideration shall be an absolute defense to the special fund's liability for the payment of any benefits in connection with such claim, unless the employer could not have reasonably anticipated the liability of the special fund prior to the issuance of a compensation order.
 
@@ -120,7 +120,7 @@ Compensation for disability shall be paid to the employee as follows:
 
 #### Amendments
 
-1984—Subsec. (c)(13). Pub. L. 98–426, §8(a), redesignated compensation for loss of hearing in one ear as subpar. (A) and for loss in both ears as subpar. (B) and added subpars. (C), (D), and (E) respecting establishing proof of hearing loss.
+<b>1984</b>—Subsec. (c)(13). Pub. L. 98–426, §8(a), redesignated compensation for loss of hearing in one ear as subpar. (A) and for loss in both ears as subpar. (B) and added subpars. (C), (D), and (E) respecting establishing proof of hearing loss.
 
 Subsec. (c)(20). Pub. L. 98–426, §8(b), substituted “$7,500” for “$3,500”.
 
@@ -148,7 +148,7 @@ Subsec. (i)(4). Pub. L. 98–426, §8(g), added par. (4).
 
 Subsec. (j). Pub. L. 98–426, §8(h), added subsec. (j).
 
-1972—Subsec. (c)(20). Pub. L. 92–576, §7, included compensation for serious disfigurement of the neck and other normally exposed areas likely to handicap the employee in securing or maintaining employment.
+<b>1972</b>—Subsec. (c)(20). Pub. L. 92–576, §7, included compensation for serious disfigurement of the neck and other normally exposed areas likely to handicap the employee in securing or maintaining employment.
 
 Subsec. (d). Pub. L. 92–576, §5(c), in revising provisions substituted par. (1), subpars. (A) to (D) and pars. (2) to (4) for former provisions having an introductory par. and pars. (1) to (5), making the following changes:
 
@@ -170,7 +170,7 @@ Subsec. (f)(2). Pub. L. 92–576, §9, incorporated proviso of first sentence an
 
 Subsec. (i). Pub. L. 92–576, §20(a), designated existing provisions as subpar. (A), substituted “Whenever” for “In cases under subsection (c)(21) and subsection (e) of this section, whenever”, “he may approve” for “he may, with the approval of the Secretary, approve”, and “deputy commissioner” for “Secretary”, and struck out after “<i>Provided</i>,” where first appearing “That the sum so agreed upon shall be payable in installments as provided in section 914(b) of this title, which installments shall be subject to commutation under section 914(j) of this title; <i>And provided further</i>,” and added subpar. (B).
 
-1956—Subsec. (c). Act July 26, 1956, §2, increased periods in schedule of compensation as follows:
+<b>1956</b>—Subsec. (c). Act July 26, 1956, §2, increased periods in schedule of compensation as follows:
 
 &emsp;Par. (1) Arm lost, increased from two hundred and eighty to three hundred and twelve weeks’ compensation.
 
@@ -198,15 +198,15 @@ Subsec. (i). Pub. L. 92–576, §20(a), designated existing provisions as subpar
 
 Subsec. (g). Act July 26, 1956, §3, substituted “$25” for “$10”.
 
-1948—Subsec. (c). Act June 24, 1948, inserted in opening par. “or temporary partial disability”, “or subsection (e)”, and “respectively”.
+<b>1948</b>—Subsec. (c). Act June 24, 1948, inserted in opening par. “or temporary partial disability”, “or subsection (e)”, and “respectively”.
 
-1938—Subsec. (c). Act June 25, 1938, §4, in par. (22), inserted exception clause.
+<b>1938</b>—Subsec. (c). Act June 25, 1938, §4, in par. (22), inserted exception clause.
 
 Subsecs. (h), (i). Act June 25, 1938, §5 added subsecs. (h) and (i).
 
-1934—Subsec. (c). Act May 26, 1934, §2, inserted in opening par. “which shall be in addition to compensation for temporary total disability paid in accordance with subsection (b) of this section” and decreased periods in schedule of compensation of pars. (1) to (12).
+<b>1934</b>—Subsec. (c). Act May 26, 1934, §2, inserted in opening par. “which shall be in addition to compensation for temporary total disability paid in accordance with subsection (b) of this section” and decreased periods in schedule of compensation of pars. (1) to (12).
 
-Subsec. (c). Act May 26, 1934, §3, substituted new par. (22), providing that “In any case in which there shall be a loss of, or loss of use of, more than one member or parts of more than one member set forth in paragraphs (1) to (19) of this subdivision, not amounting to permanent total disability, the award of compensation shall be for the loss of, or loss of use of, each such member or part thereof, which awards shall run consecutively.”, for former provisions, providing that “In case of temporary total disability and permanent partial disability, both resulting from the same injury, if the temporary total disability continues for a longer period than the number of weeks set forth in the following schedule, the period of temporary total disability in excess of such number of weeks shall be added to the compensation period provided in this subdivision: Arm, thirty-two weeks; leg, forty weeks; hand, thirty-twoweeks; foot, thirty-two weeks; eye, twenty weeks; thumb, twenty-four weeks; first finger, eighteen weeks; great toe, twelve weeks; second finger, twelve weeks; third finger, eight weeks; fourth finger, eight weeks; toe other than great toe, eight weeks.
+Subsec. (c). Act May 26, 1934, §3, substituted new par. (22), providing that “In any case in which there shall be a loss of, or loss of use of, more than one member or parts of more than one member set forth in paragraphs (1) to (19) of this subdivision, not amounting to permanent total disability, the award of compensation shall be for the loss of, or loss of use of, each such member or part thereof, which awards shall run consecutively.”, for former provisions, providing that “In case of temporary total disability and permanent partial disability, both resulting from the same injury, if the temporary total disability continues for a longer period than the number of weeks set forth in the following schedule, the period of temporary total disability in excess of such number of weeks shall be added to the compensation period provided in this subdivision: Arm, thirty-two weeks; leg, forty weeks; hand, thirty-two weeks; foot, thirty-two weeks; eye, twenty weeks; thumb, twenty-four weeks; first finger, eighteen weeks; great toe, twelve weeks; second finger, twelve weeks; third finger, eight weeks; fourth finger, eight weeks; toe other than great toe, eight weeks.
 
 “In any case resulting in loss or partial loss of arm, leg, hand, foot, eye, thumb, finger, or toe, where the temporary total disability does not extend beyond the periods above mentioned for such injury, compensation shall be limited to the schedule contained in this subdivision.”
 

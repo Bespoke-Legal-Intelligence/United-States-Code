@@ -12,7 +12,7 @@ In carrying out subsection (a) of this section, the Director of National Institu
 
 #### Amendments
 
-2007—Subsec. (c). Pub. L. 109–482 struck out heading and text of subsec. (c). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each fiscal year.”
+<b>2007</b>—Subsec. (c). Pub. L. 109–482 struck out heading and text of subsec. (c). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each fiscal year.”
 
 #### Effective Date of 2007 Amendment
 

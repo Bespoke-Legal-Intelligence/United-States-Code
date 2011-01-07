@@ -60,11 +60,11 @@ There shall be in the Department a Deputy Secretary, who shall be appointed by t
 
 #### Amendments
 
-2005—Subsec. (b). Pub. L. 109–58, §1006(a), added subsec. (b) and struck out former subsec. (b) which read as follows: “There shall be in the Department an Under Secretary and a General Counsel, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall perform such functions and duties as the Secretary shall prescribe. The Under Secretary shall bear primary responsibility for energy conservation. The Under Secretary shall be compensated at the rate provided for level III of the Executive Schedule under section 5314 of title 5, and the General Counsel shall be compensated at the rate provided for level IV of the Executive Schedule under section 5315 of title 5.”
+<b>2005</b>—Subsec. (b). Pub. L. 109–58, §1006(a), added subsec. (b) and struck out former subsec. (b) which read as follows: “There shall be in the Department an Under Secretary and a General Counsel, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall perform such functions and duties as the Secretary shall prescribe. The Under Secretary shall bear primary responsibility for energy conservation. The Under Secretary shall be compensated at the rate provided for level III of the Executive Schedule under section 5314 of title 5, and the General Counsel shall be compensated at the rate provided for level IV of the Executive Schedule under section 5315 of title 5.”
 
 Subsecs. (d), (e). Pub. L. 109–58, §1006(c)(1), added subsecs. (d) and (e).
 
-1999—Subsec. (c). Pub. L. 106–65 added subsec. (c).
+<b>1999</b>—Subsec. (c). Pub. L. 106–65 added subsec. (c).
 
 #### Term of Office of Person First Appointed as Under Secretary for Nuclear Security of the Department of Energy
 
@@ -80,7 +80,7 @@ Exclusive Reasons for Removal.—The exclusive reasons for removal from office a
 
 “(c)
 
-Position Described.—The position of Under Secretary for Nuclear Security of the Department of Energy referred to in this section is the position established by subsection (c) of section 202 of the Department of Energy Organization Act (42 U.S.C. 7132), asadded by section 3202 of the National Nuclear Security Administration Act (title XXXII of Public Law 106–65; 113 Stat. 954).”
+Position Described.—The position of Under Secretary for Nuclear Security of the Department of Energy referred to in this section is the position established by subsection (c) of section 202 of the Department of Energy Organization Act (42 U.S.C. 7132), as added by section 3202 of the National Nuclear Security Administration Act (title XXXII of Public Law 106–65; 113 Stat. 954).”
 
 Substantially identical provisions were contained in Pub. L. 106–377, §1(a)(2) \[title III, §313\], Oct. 27, 2000, 114 Stat. 1441, 1441A–81.
 

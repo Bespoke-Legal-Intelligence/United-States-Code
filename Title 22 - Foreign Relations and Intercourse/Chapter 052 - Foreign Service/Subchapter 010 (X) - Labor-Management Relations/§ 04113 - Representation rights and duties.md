@@ -58,7 +58,7 @@ The duty of the Department and the exclusive representative to negotiate in good
 
 (2) The Secretary shall approve the agreement within 30 days after the date of the agreement unless the Secretary finds in writing that the agreement is contrary to applicable law, rule, or regulation.
 
-(3) Unless the Secretary disapproves the agreement by making a finding under paragraph (2),the agreement shall take effect after 30 days from its execution and shall be binding on the Department and the exclusive representative subject to all applicable laws, orders, and regulations.
+(3) Unless the Secretary disapproves the agreement by making a finding under paragraph (2), the agreement shall take effect after 30 days from its execution and shall be binding on the Department and the exclusive representative subject to all applicable laws, orders, and regulations.
 
 #### (g) Consultation by Department with exclusive representative
 

@@ -10,17 +10,17 @@ The Secretary shall have the responsibility and authority to detect and investig
 
 #### (c) Coordination of enforcement with States with respect to certain arrangements
 
-A State may enter into an agreement with the Secretary for delegation to the State of some or all of the Secretary's authority under sections 1132 and 1134 of this title to enforce the requirements under part 7 in connection with multiple employer welfare arrangements, providing medical care (within the meaning of section 1191b(a)(2) of this title), which are not group health plans.
+A State may enter into an agreement with the Secretary for delegation to the State of some orall of the Secretary's authority under sections 1132 and 1134 of this title to enforce the requirements under part 7 in connection with multiple employer welfare arrangements, providing medical care (within the meaning of section 1191b(a)(2) of this title), which are not group health plans.
 
 (Pub. L. 93–406, title I, §506, Sept. 2, 1974, 88 Stat. 894; Pub. L. 98–473, title II, §805, Oct. 12, 1984, 98 Stat. 2134; Pub. L. 104–191, title I, §101(e)(3), Aug. 21, 1996, 110 Stat. 1953; Pub. L. 104–204, title VI, §603(b)(3)(F), Sept. 26, 1996, 110 Stat. 2938.)
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–204 made technical amendment to reference in original act which appears in text as reference to section 1191b of this title.
+<b>1996</b>—Subsec. (c). Pub. L. 104–204 made technical amendment to reference in original act which appears in text as reference to section 1191b of this title.
 
 Pub. L. 104–191 added subsec. (c).
 
-1984—Pub. L. 98–473 designated existing provisions as subsec. (a), added subsec. (b), and amended section catchline.
+<b>1984</b>—Pub. L. 98–473 designated existing provisions as subsec. (a), added subsec. (b), and amended section catchline.
 
 #### Effective Date of 1996 Amendments
 
@@ -34,5 +34,5 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 #### Relation of Subtitle E of Title II of Pub. L. 104–191 to ERISA Authority
 
-Section 250 of title II of Pub. L. 104–191 provided that: “Nothing in this subtitle \[subtitle E (§§241–250) of title II of Pub. L. 104–191, enacting sections 24, 669, 1035, 1347,1518, and 3486 of Title 18, Crimes and Criminal Procedure, amending sections 982, 1345, 1510, and 1956 of Title 18, and enacting provisions set out as notes under section 1395i of Title 42, The Public Health and Welfare\] shall be construed as affecting the authority of the Secretary of Labor under section 506(b) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1136(b)\], including the Secretary's authority with respect to violations of title 18, United States Code (as amended by this subtitle).”
+Section 250 of title II of Pub. L. 104–191 provided that: “Nothing in this subtitle \[subtitle E (§§241–250) of title II of Pub. L. 104–191, enacting sections 24, 669, 1035, 1347, 1518, and 3486 of Title 18, Crimes and Criminal Procedure, amending sections 982, 1345, 1510, and 1956 of Title 18, and enacting provisions set out as notes under section 1395i of Title 42, The Public Health and Welfare\] shall be construed as affecting the authority of the Secretary of Labor under section 506(b) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1136(b)\], including the Secretary's authority with respect to violations of title 18, United States Code (as amended by this subtitle).”
 

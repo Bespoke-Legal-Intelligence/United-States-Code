@@ -6,6 +6,10 @@
 
 (June 27, 1952, ch. 477, title II, ch. 5, §246, 66 Stat. 217; Pub. L. 103–416, title II, §219(m), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title III, §§308(e)(1)(H), 378(a), Sept. 30, 1996, 110 Stat. 3009–619, 3009–649.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (a), was in the original, “this Act”, meaning act June 27, 1952, ch. 477,66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+
 #### Amendments
 
 1996—Subsec. (a). Pub. L. 104–208, §378(a), inserted at end “Nothing in this subsection shall require the Attorney General to rescind the alien's status prior to commencement of procedures to remove the alien under section 1229a of this title, and an order of removal issued by an immigration judge shall be sufficient to rescind the alien's status.”

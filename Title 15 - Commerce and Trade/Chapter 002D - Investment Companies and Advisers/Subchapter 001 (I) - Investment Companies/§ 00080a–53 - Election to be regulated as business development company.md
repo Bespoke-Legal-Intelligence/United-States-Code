@@ -20,5 +20,5 @@ Whenever the Commission finds, on its own motion or upon application, that a bus
 
 #### Amendments
 
-1987—Subsec. (a). Pub. L. 100–181 substituted “defined in section” for “defined in sections”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–181 substituted “defined in section” for “defined in sections”.
 

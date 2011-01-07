@@ -14,7 +14,7 @@
 
 #### (1) Loss by lender
 
-&emsp;If the lender of a guaranteed farmer program loan takes any action described in section1981(b)(4) of this title with respect to the loan and the Secretary approves such action, then, for purposes of the guarantee, the lender shall be treated as having sustained a loss equal to the amount by which—
+&emsp;If the lender of a guaranteed farmer program loan takes any action described in section 1981(b)(4) of this title with respect to the loan and the Secretary approves such action, then, for purposes of the guarantee, the lender shall be treated as having sustained a loss equal to the amount by which—
 
 &emsp;&emsp;(A) the outstanding balance of the loan immediately before such action, exceeds
 

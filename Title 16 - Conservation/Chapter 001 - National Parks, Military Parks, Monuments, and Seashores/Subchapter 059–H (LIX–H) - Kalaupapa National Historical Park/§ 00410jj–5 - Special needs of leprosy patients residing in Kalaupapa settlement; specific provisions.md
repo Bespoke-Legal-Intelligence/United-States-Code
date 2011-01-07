@@ -8,7 +8,7 @@ The following provisions are made with respect to the special needs of the lepro
 
 &emsp;(3) Notwithstanding any other provision of law, the Secretary shall provide patients a first right of refusal to provide revenue-producing visitor services, including such services as providing food, accommodations, transportation, tours, and guides.
 
-&emsp;(4) Patients shall continue to have the right to take and utilize fish and wildlife resources without regard to Federal fish and game laws and regulations.
+&emsp;(4) Patients shall continue to have the right to take and utilize fish and wildlife resourceswithout regard to Federal fish and game laws and regulations.
 
 &emsp;(5) Patients shall continue to have the right to take and utilize plant and other natural resources for traditional purposes in accordance with applicable State and Federal laws.
 

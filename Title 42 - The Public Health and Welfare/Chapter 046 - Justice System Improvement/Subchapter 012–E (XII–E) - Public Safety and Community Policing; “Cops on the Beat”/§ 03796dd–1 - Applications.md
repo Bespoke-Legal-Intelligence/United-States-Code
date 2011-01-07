@@ -26,7 +26,7 @@ In accordance with the regulations or guidelines established by the Attorney Gen
 
 &emsp;(7) specify plans for obtaining necessary support and continuing the proposed program, project, or activity following the conclusion of Federal support;
 
-&emsp;(8) if the application is for a grant for hiring or rehiring additional career law enforcement officers, specify plans for the assumption bythe applicant of a progressively larger share of the cost in the course of time, looking toward the continuation of the increased hiring level using State or local sources of funding following the conclusion of Federal support;
+&emsp;(8) if the application is for a grant for hiring or rehiring additional career law enforcement officers, specify plans for the assumption by the applicant of a progressively larger share of the cost in the course of time, looking toward the continuation of the increased hiring level using State or local sources of funding following the conclusion of Federal support;
 
 &emsp;(9) assess the impact, if any, of the increase in police resources on other components of the criminal justice system;
 
@@ -48,7 +48,7 @@ In accordance with the regulations or guidelines established by the Attorney Gen
 
 #### Amendments
 
-2006—Subsec. (c)(1). Pub. L. 109–162, §1111(c)(2)(I), struck out “and reflects consideration of the statewide strategy under section 3753(a)(1) of this title” before semicolon at end.
+<b>2006</b>—Subsec. (c)(1). Pub. L. 109–162, §1111(c)(2)(I), struck out “and reflects consideration of the statewide strategy under section 3753(a)(1) of this title” before semicolon at end.
 
 Subsec. (d)(2). Pub. L. 109–162, §1163(b), substituted “section 3796dd(b)” for “section 3796dd(d)”.
 

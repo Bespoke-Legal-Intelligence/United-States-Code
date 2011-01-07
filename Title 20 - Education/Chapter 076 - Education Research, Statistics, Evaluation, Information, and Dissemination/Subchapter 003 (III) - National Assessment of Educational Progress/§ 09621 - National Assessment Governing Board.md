@@ -164,9 +164,7 @@ The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect 
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (f)(2)(B), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
-
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
@@ -178,7 +176,7 @@ A prior section 302 of Pub. L. 107–279 was renumbered section 304 and is class
 
 #### Amendments
 
-2002—Pub. L. 107–110 amended section generally, restating and expanding provisions and inserting headings.
+<b>2002</b>—Pub. L. 107–110 amended section generally, restating and expanding provisions and inserting headings.
 
 Subsec. (a). Pub. L. 107–279, §401(c)(1), substituted “referred to as the ‘Assessment Board’ ” for “referred to as the ‘Board’ ” and inserted “(carried out under section 9622 of this title)” after “for the National Assessment”.
 
@@ -222,7 +220,7 @@ Pub. L. 107–279, §401(c)(2), substituted “Assessment Board” for “Board�
 
 Subsec. (h). Pub. L. 107–279, §401(c)(2), substituted “Assessment Board” for “Board”.
 
-2000—Subsec. (c)(1). Pub. L. 106–554, §1(a)(1) \[title III, §307(1)\], substituted “4 years” for “3 years”.
+<b>2000</b>—Subsec. (c)(1). Pub. L. 106–554, §1(a)(1) \[title III, §307(1)\], substituted “4 years” for “3 years”.
 
 Subsec. (c)(4). Pub. L. 106–554, §1(a)(1) \[title III, §307(2)\], added par. (4).
 

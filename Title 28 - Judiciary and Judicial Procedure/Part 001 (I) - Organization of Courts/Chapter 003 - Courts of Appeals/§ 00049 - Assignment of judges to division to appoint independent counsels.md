@@ -20,13 +20,13 @@ The date of enactment of this section, referred to in subsec. (a), is Oct. 26, 1
 
 #### Amendments
 
-1987—Subsec. (a). Pub. L. 100–191, §4, inserted at end: “The Clerk of the United States Court of Appeals for the District of Columbia Circuit shall serve as the clerk of such division of the court and shall provide such services as are needed by such division of the court.”
+<b>1987</b>—Subsec. (a). Pub. L. 100–191, §4, inserted at end: “The Clerk of the United States Court of Appeals for the District of Columbia Circuit shall serve as the clerk of such division of the court and shall provide such services as are needed by such division of the court.”
 
 Subsec. (f). Pub. L. 100–191, §5(a), substituted “involving an independent counsel” for “involving a independent counsel”.
 
-1986—Subsec. (f). Pub. L. 99–554 substituted “chapter 40” for “chapter 39” in two places.
+<b>1986</b>—Subsec. (f). Pub. L. 99–554 substituted “chapter 40” for “chapter 39” in two places.
 
-1983—Pub. L. 97–409, §2(b)(1)(B), substituted “independent counsels” for “special prosecutors” in section catchline.
+<b>1983</b>—Pub. L. 97–409, §2(b)(1)(B), substituted “independent counsels” for “special prosecutors” in section catchline.
 
 Subsec. (a). Pub. L. 97–409, §2(b)(1)(B), substituted “independent counsels” for “special prosecutors”.
 

@@ -46,9 +46,9 @@ Subsection (c) clarifies that the Secretary has the flexibility to maintain this
 
 #### Amendments
 
-1990—Subsec. (b)(2)(A). Pub. L. 101–595 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the owner's social security number; or”.
+<b>1990</b>—Subsec. (b)(2)(A). Pub. L. 101–595 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the owner's social security number; or”.
 
-1989—Subsec. (b)(2). Pub. L. 101–225 amended par. (2) generally, adding subpars. (A) and (B).
+<b>1989</b>—Subsec. (b)(2). Pub. L. 101–225 amended par. (2) generally, adding subpars. (A) and (B).
 
 #### Effective Date
 

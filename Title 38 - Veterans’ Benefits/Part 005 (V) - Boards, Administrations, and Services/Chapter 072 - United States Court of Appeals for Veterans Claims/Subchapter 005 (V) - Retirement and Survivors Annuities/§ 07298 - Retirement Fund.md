@@ -28,21 +28,21 @@
 
 (f) The Secretary of the Treasury shall invest from time to time, in interest-bearing securities of the United States, such portions of the retirement fund as in such Secretary's judgment may not be immediately required for payments from the fund. The income derived from such investments shall constitute a part of the fund.
 
-(g) For purpose of section 255(g)(1)(B) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 905(g)(1)(B)), the retirement fund shall be treated in the same manner as the Claims Judges’ Retirement Fund.
+(g) For purpose of section 255(g)(1)(B) of the Balanced Budget and Emergency Deficit ControlAct of 1985 (2 U.S.C. 905(g)(1)(B)), the retirement fund shall be treated in the same manner as the Claims Judges’ Retirement Fund.
 
 (Added Pub. L. 101–94, title I, §101(a), Aug. 16, 1989, 103 Stat. 625, §4098; renumbered §7298 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 105–368, title V, §§502, 512(a)(1), (2)(C), Nov. 11, 1998, 112 Stat. 3340, 3341; Pub. L. 106–117, title X, §1011(j), Nov. 30, 1999, 113 Stat. 1589.)
 
 #### Amendments
 
-1999—Subsec. (e)(2)(C), (D). Pub. L. 106–117 added subpar. (D) and redesignated former subpar. (C) as (D).
+<b>1999</b>—Subsec. (e)(2)(C), (D). Pub. L. 106–117 added subpar. (D) and redesignated former subpar. (C) as (D).
 
-1998—Pub. L. 105–368, §512(a)(2)(C), struck out “Court of Veterans Appeals” before “Retirement Fund” in section catchline.
+<b>1998</b>—Pub. L. 105–368, §512(a)(2)(C), struck out “Court of Veterans Appeals” before “Retirement Fund” in section catchline.
 
 Subsecs. (a), (d). Pub. L. 105–368, §512(a)(1), substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
 Subsec. (g). Pub. L. 105–368, §502, added subsec. (g).
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 4098 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 4098 of this title as this section.
 
 Subsecs. (b), (c). Pub. L. 102–40, §402(d)(1), substituted “7296” for “4096” and “7297” for “4097”.
 
@@ -50,5 +50,5 @@ Subsec. (e)(2)(B)(ii)(I). Pub. L. 102–40, §402(d)(1), substituted “7296(i) 
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 512(a)(1), (2)(C) of Pub. L. 105–368 effective on first day of first month beginningmore than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
+Amendment by section 512(a)(1), (2)(C) of Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
 

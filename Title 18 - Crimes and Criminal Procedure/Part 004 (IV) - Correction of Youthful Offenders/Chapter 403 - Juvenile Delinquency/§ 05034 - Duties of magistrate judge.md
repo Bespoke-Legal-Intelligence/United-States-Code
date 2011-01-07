@@ -26,11 +26,11 @@ Another section 504 of title V of Pub. L. 93–415, as added by Pub. L. 102–58
 
 #### Amendments
 
-1988—Pub. L. 100–690 substituted “facility) upon” for “facility upon” in last par.
+<b>1988</b>—Pub. L. 100–690 substituted “facility) upon” for “facility upon” in last par.
 
-1974—Pub. L. 93–415 amended section generally, substituting “Duties of magistrate”, for “Probation; commitment to custody of Attorney General; support” in section catchline, and substituting provisions relating to procedure before, and duties of, magistrate, for provisions relating to probation, commitment to custody of Attorney General, duties of Attorney General, and procedures aiding court in determining whether to place juvenile on probation or commit him to custody of Attorney General.
+<b>1974</b>—Pub. L. 93–415 amended section generally, substituting “Duties of magistrate”, for “Probation; commitment to custody of Attorney General; support” in section catchline, and substituting provisions relating to procedure before, and duties of, magistrate, for provisions relating to probation, commitment to custody of Attorney General, duties of Attorney General, and procedures aiding court in determining whether to place juvenile on probation or commit him to custody of Attorney General.
 
-1962—Pub. L. 87–428 added fourth par. authorizing commitment of a juvenile delinquent to the custody of the Attorney General for observation and study.
+<b>1962</b>—Pub. L. 87–428 added fourth par. authorizing commitment of a juvenile delinquent to the custody of the Attorney General for observation and study.
 
 #### Change of Name
 

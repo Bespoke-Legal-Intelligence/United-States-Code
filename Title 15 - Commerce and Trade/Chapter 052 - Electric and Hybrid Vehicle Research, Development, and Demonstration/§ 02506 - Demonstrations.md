@@ -16,7 +16,7 @@ Within 12 months after September 17, 1976, the Secretary of Energy shall develop
 
 #### (c) Contracts for vehicle purchase or lease; delivery requirements; demonstration criteria and duration; availability of information for leasing and procurements
 
-(1) The Secretary of Energy shall, within 6 months after the date of promulgation of performance standards pursuant to subsection (b)(1) of this section, institute the first contracts for the purchase or lease of electric or hybrid vehicles which satisfy the performance standards setforth under subsection (b)(1) of this section. The delivery of such vehicles shall be completed according to the expedited best effort of the administering agency and the selected manufacturer. To the extent practicable, vehicles purchased or leased under such contracts shall represent a cross-section of the available technologies and of actual or potential vehicle use.
+(1) The Secretary of Energy shall, within 6 months after the date of promulgation of performance standards pursuant to subsection (b)(1) of this section, institute the first contracts for the purchase or lease of electric or hybrid vehicles which satisfy the performance standards set forth under subsection (b)(1) of this section. The delivery of such vehicles shall be completed according to the expedited best effort of the administering agency and the selected manufacturer. To the extent practicable, vehicles purchased or leased under such contracts shall represent a cross-section of the available technologies and of actual or potential vehicle use.
 
 (2) Thereafter, according to a planned schedule, the Secretary of Energy shall contract for the purchase or lease of additional electric or hybrid vehicles which satisfy amended performance standards and represent continuing improvements in state-of-the-art. In conducting demonstrations, the Secretary of Energy shall consider—
 
@@ -48,13 +48,13 @@ The Secretary of Energy, in supervising the demonstration of vehicles acquired u
 
 #### Amendments
 
-1994—Subsec. (b)(4). Pub. L. 103–437 substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology”.
+<b>1994</b>—Subsec. (b)(4). Pub. L. 103–437 substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology”.
 
-1982—Subsec. (e)(1). Pub. L. 97–375 struck out provision that at the time any determination on the displacement of private procurement of hybrid vehicles was made, that Secretary of Energy transmit such determination, with relevant supporting information, to the Committee on Science and Technology of the House and the Committee on Commerce, Science, and Transportation of the Senate.
+<b>1982</b>—Subsec. (e)(1). Pub. L. 97–375 struck out provision that at the time any determination on the displacement of private procurement of hybrid vehicles was made, that Secretary of Energy transmit such determination, with relevant supporting information, to the Committee on Science and Technology of the House and the Committee on Commerce, Science, and Transportation of the Senate.
 
-1980—Subsec. (c)(4). Pub. L. 96–470 struck out par. (4) which provided that if the Administrator determines on the basis of his annual review of the program that atleast 200 vehicles cannot be added to the project during fiscal year 1978, at least 600 during fiscal year 1979, at least 1,700 during fiscal year 1980, and at least 7,500 in the aggregate during the fiscal years 1981 through 1984, he immediately forward a detailed explanation to Congress.
+<b>1980</b>—Subsec. (c)(4). Pub. L. 96–470 struck out par. (4) which provided that if the Administrator determines on the basis of his annual review of the program that at least 200 vehicles cannot be added to the project during fiscal year 1978, at least 600 during fiscal year 1979, at least 1,700 during fiscal year 1980, and at least 7,500 in the aggregate during the fiscal years 1981 through 1984, he immediately forward a detailed explanation to Congress.
 
-1978—Subsec. (b)(3). Pub. L. 95–238, §601(a), struck out requirement that rules promulgated under par. (1) be amended not later than 6 months prior to the date for contracts specified in subsec. (c)(2) of this section.
+<b>1978</b>—Subsec. (b)(3). Pub. L. 95–238, §601(a), struck out requirement that rules promulgated under par. (1) be amended not later than 6 months prior to the date for contracts specified in subsec. (c)(2) of this section.
 
 Subsec. (b)(4). Pub. L. 95–238, §601(b), substituted provisions relating to transmission of standards developed under par. (1) and all revised standards established in connection with the demonstrations specified in subsec. (c)(2) of this section, for provisions relating to transmission of standards developed under par. (1) as revised and currently in effect prior to contracts for the production of vehicles under subsec. (c)(2) of this section.
 

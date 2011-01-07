@@ -26,13 +26,23 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 &emsp;&emsp;&emsp;&emsp;(II) For the 12-month period beginning after the period described in subclause (I), such amount (or amounts) shall be equal to the amount (or amounts) determined under subclause (I), updated under subparagraph (B).
 
-&emsp;&emsp;&emsp;&emsp;(III) For periods beginning after the period described in subclause (II), such amount (or amounts) shall be equal to the amount (or amounts) that would have been determined under subclause (I) that would have been made for fiscal year 2001 if the system had not been in effect and if section 1395x(v)(1)(L)(ix) of this title had not been enacted but if the reduction in limits described in clause (ii) had been in effect, updated under subparagraph (B).
+&emsp;&emsp;&emsp;&emsp;(III) Subject to clause (iii), for periods beginning after the period described in subclause (II), such amount (or amounts) shall be equal to the amount (or amounts) that would have been determined under subclause (I) that would have been made for fiscal year 2001 if the system had not been in effect and if section 1395x(v)(1)(L)(ix) of this title had not been enacted but if the reduction in limits described in clause (ii) had been in effect, updated under subparagraph (B).
 
 &emsp;&emsp;&nbsp;Each such amount shall be standardized in a manner that eliminates the effect of variations in relative case mix and area wage adjustments among different home health agencies in a budget neutral manner consistent with the case mix and wage level adjustments provided under paragraph (4)(A). Under the system, the Secretary may recognize regional differences or differences based upon whether or not the services or agency are in an urbanized area.
 
 #### (ii) Reduction
 
 &emsp;&emsp;&emsp;The reduction described in this clause is a reduction by 15 percent in the cost limits and per beneficiary limits described in section 1395x(v)(1)(L) of this title, as those limits are in effect on September 30, 2000.
+
+#### (iii) Adjustment for 2014 and subsequent years
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (II), for 2014 and subsequent years, the amount (or amounts) that would otherwise be applicable under clause (i)(III) shall be adjusted by a percentage determined appropriate by the Secretary to reflect such factors as changes in the number of visits in an episode, the mix of services in an episode, the level of intensity of services in an episode, the average cost of providing care per episode, and other factors that the Secretary considers to be relevant. In conducting the analysis under the preceding sentence, the Secretary may consider differences between hospital-based and freestanding agencies, between for-profit and nonprofit agencies, and between the resource costs of urban and rural agencies. Such adjustment shall be made before the updateunder subparagraph (B) is applied for the year.
+
+#### (II) Transition
+
+&emsp;&emsp;&emsp;&emsp;The Secretary shall provide for a 4-year phase-in (in equal increments) of the adjustment under subclause (I), with such adjustment being fully implemented for 2017. During each year of such phase-in, the amount of any adjustment under subclause (I) for the year may not exceed 3.5 percent of the amount (or amounts) applicable under clause (i)(III) as of March 23, 2010.
 
 #### (B) Annual update
 
@@ -52,7 +62,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 &emsp;&emsp;&emsp;&emsp;(IV) 2006, 0 percent; and
 
-&emsp;&emsp;&emsp;&emsp;(V) any subsequent year, subject to clause (v), the home health market basket percentage increase.
+&emsp;&emsp;&emsp;&emsp;(V) any subsequent year, subject to clauses (v) and (vi), the home health market basket percentage increase.
 
 #### (iii) Home health market basket percentage increase
 
@@ -76,9 +86,19 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 &emsp;&emsp;&emsp;&emsp;The Secretary shall establish procedures for making data submitted under subclause (II) available to the public. Such procedures shall ensure that a home health agency has the opportunity to review the data that is to be made public with respect to the agency prior to such data being made public.
 
+#### (vi) Adjustments
+
+&emsp;&emsp;&emsp;After determining the home health market basket percentage increase under clause (iii), and after application of clause (v), the Secretary shall reduce such percentage—
+
+&emsp;&emsp;&emsp;&emsp;(I) for 2015 and each subsequent year, by the productivity adjustment described in section 1395ww(b)(3)(B)(xi)(II) of this title; and
+
+&emsp;&emsp;&emsp;&emsp;(II) for each of 2011, 2012, and 2013, by 1 percentage point.
+
+&emsp;&emsp;&nbsp;The application of this clause may result in the home health market basket percentage increase under clause (iii) being less than 0.0 for a year, and may result in payment rates under the system under this subsection for a year being less than such payment rates for the preceding year.
+
 #### (C) Adjustment for outliers
 
-&emsp;&emsp;The Secretary shall reduce the standard prospective payment amount (or amounts) under this paragraph applicable to home health services furnished during a period by such proportion as will result in an aggregate reduction in payments for the period equal to the aggregate increase in payments resulting from the application of paragraph (5) (relating to outliers).
+&emsp;&emsp;The Secretary shall reduce the standard prospective payment amount (or amounts) under this paragraph applicable to home health services furnished during a period by such proportion as will result in an aggregate reduction in payments for the period equal to 5 percent of the total payments estimated to be made based on the prospective payment system under this subsection for the period.
 
 #### (4) Payment computation
 
@@ -104,7 +124,13 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 #### (5) Outliers
 
-&emsp;The Secretary may provide for an addition or adjustment to the payment amount otherwise made in the case of outliers because of unusual variations in the type or amount of medically necessary care. The total amount of the additional payments or payment adjustments made under this paragraph with respect to a fiscal year or year may not exceed 5 percent of the total payments projected or estimated to be made based on the prospective payment system under this subsection in that year.
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), the Secretary may provide for an addition or adjustment to the payment amount otherwise made in the case of outliers because of unusual variations in the type or amount of medically necessary care. The total amount of the additional payments or payment adjustments made under this paragraph with respect to a fiscal year or year may not exceed 2.5 percent of the total payments projected or estimated to be made based on the prospective payment system under this subsection in that year.
+
+#### (B) Program specific outlier cap
+
+&emsp;&emsp;The estimated total amount of additional payments or payment adjustments made under subparagraph (A) with respect to a home health agency for a year (beginning with 2011) may not exceed an amount equal to 10 percent of the estimated total amount of payments made under this section (without regard to this paragraph) with respect to the home health agency for the year.
 
 #### (6) Proration of prospective payment amounts
 
@@ -140,7 +166,7 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 &emsp;Nothing in this section shall be construed as preventing a home health agency furnishing a home health unit of service for which payment is made under the prospective payment system established by this section for such units of service from furnishing services via a telecommunication system if such services—
 
-&emsp;&emsp;(A) do not substitute for in-person home health services ordered as part of a plan of care certified by a physician pursuant to section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title; and
+&emsp;&emsp;(A) do not substitute for in-person home health services ordered as part of a plan ofcare certified by a physician pursuant to section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title; and
 
 &emsp;&emsp;(B) are not considered a home health visit for purposes of eligibility or payment under this subchapter.
 
@@ -148,7 +174,7 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 &emsp;Nothing in this section shall be construed as waiving the requirement for a physician certification under section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title for the payment for home health services, whether or not furnished via a telecommunications system.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1895, as added Pub. L. 105–33, title IV, §4603(a), Aug. 5, 1997, 111 Stat. 467; amended Pub. L. 105–277, div. J, title V, §5101(c)(1), (d)(2), Oct. 21, 1998, 112 Stat. 2681–914; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §§302(b), 303(b), 306, 321(k)(19)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–359, 1501A–361, 1501A–362, 1501A–368; Pub. L. 106–554, §1(a)(6) \[title V, §§501(a), (c)(1), 504\], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, 2763A–531; Pub. L. 108–173, title VII, §701, Dec. 8, 2003, 117 Stat. 2334; Pub. L. 109–171, title V, §5201(a), (c), Feb. 8, 2006, 120 Stat. 46.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1895, as added Pub. L. 105–33, title IV, §4603(a), Aug. 5, 1997, 111 Stat. 467; amended Pub. L. 105–277, div. J, title V, §5101(c)(1), (d)(2), Oct. 21, 1998, 112 Stat. 2681–914; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §§302(b), 303(b), 306, 321(k)(19)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–359, 1501A–361, 1501A–362, 1501A–368; Pub. L. 106–554, §1(a)(6) \[title V, §§501(a), (c)(1), 504\], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, 2763A–531; Pub. L. 108–173, title VII, §701, Dec. 8, 2003, 117 Stat. 2334; Pub. L. 109–171, title V, §5201(a), (c), Feb. 8, 2006, 120 Stat. 46; Pub. L. 111–148, title III, §§3131(a)(1), (b), 3401(e), title X, §§10315(a), 10319(d), Mar. 23, 2010, 124 Stat. 427, 428, 483, 944, 949.)
 
 #### References in Text
 
@@ -156,7 +182,23 @@ Section 5201(d) of the Deficit Reduction Act of 2005, referred to in subsec. (b)
 
 #### Amendments
 
-2006—Subsec. (b)(3)(B)(ii)(III). Pub. L. 109–171, §5201(a)(1), substituted “all of 2005” for “each of 2005 and 2006”.
+<b>2010</b>—Subsec. (b)(3)(A)(i)(III). Pub. L. 111–148, §3131(a)(1)(A), substituted “Subject to clause (iii), for periods” for “For periods”.
+
+Subsec. (b)(3)(A)(iii). Pub. L. 111–148, §10315(a), substituted “2014” for “2013” in heading and in subcl. (I), and “2017” for “2016” in subcl. (II).
+
+Pub. L. 111–148, §3131(a)(1)(B), added cl. (iii).
+
+Subsec. (b)(3)(B)(ii)(V). Pub. L. 111–148, §3401(e)(1), substituted “clauses (v) and (vi)” for “clause (v)”.
+
+Subsec. (b)(3)(B)(vi). Pub. L. 111–148, §3401(e)(2), added cl. (vi).
+
+Subsec. (b)(3)(B)(vi)(II). Pub. L. 111–148, §10319(d), substituted “, 2012, and 2013” for “and 2012”.
+
+Subsec. (b)(3)(C). Pub. L. 111–148, §3131(b)(1), substituted “5 percent of the total payments estimated to be made based on the prospective payment system under this subsection for the period.” for “the aggregate increase in payments resulting from the application of paragraph (5) (relating to outliers).”
+
+Subsec. (b)(5). Pub. L. 111–148, §3131(b)(2), designated existing provisions as subpar. (A), inserted heading, substituted “Subject to subparagraph (B), the Secretary” for “The Secretary” and “2.5 percent” for “5 percent”, and added subpar. (B).
+
+<b>2006</b>—Subsec. (b)(3)(B)(ii)(III). Pub. L. 109–171, §5201(a)(1), substituted “all of 2005” for “each of 2005 and 2006”.
 
 Subsec. (b)(3)(B)(ii)(IV). Pub. L. 109–171, §5201(a)(2), (4), added subcl. (IV). Former subcl. (IV) redesignated (V).
 
@@ -166,7 +208,7 @@ Subsec. (b)(3)(B)(ii)(V). Pub. L. 109–171, §5201(a)(3), (c)(1), redesignated 
 
 Subsec. (b)(3)(B)(v). Pub. L. 109–171, §5201(c)(2), added cl. (v).
 
-2003—Subsec. (b)(3)(B)(i). Pub. L. 108–173, §701(a)(1), substituted “fiscal year 2002 and for fiscal year 2003 and for each subsequent year (beginning with 2004)” for “each fiscal year (beginning with fiscal year 2002)” and inserted “or year” after “the fiscal year”.
+<b>2003</b>—Subsec. (b)(3)(B)(i). Pub. L. 108–173, §701(a)(1), substituted “fiscal year 2002 and for fiscal year 2003 and for each subsequent year (beginning with 2004)” for “each fiscal year (beginning with fiscal year 2002)” and inserted “or year” after “the fiscal year”.
 
 Subsec. (b)(3)(B)(ii)(I). Pub. L. 108–173, §701(a)(2)(A), struck out “or” at end.
 
@@ -186,7 +228,7 @@ Subsec. (b)(3)(B)(iv). Pub. L. 108–173, §701(a)(4), inserted “or year” af
 
 Subsec. (b)(5). Pub. L. 108–173, §701(a)(5), inserted “or year” after “fiscal year”.
 
-2000—Subsec. (b)(3)(A)(i)(II). Pub. L. 106–554, §1(a)(6) \[title V, §501(a)(3)\], added subcl. (II). Former subcl. (II) redesignated (III).
+<b>2000</b>—Subsec. (b)(3)(A)(i)(II). Pub. L. 106–554, §1(a)(6) \[title V, §501(a)(3)\], added subcl. (II). Former subcl. (II) redesignated (III).
 
 Subsec. (b)(3)(A)(i)(III). Pub. L. 106–554, §1(a)(6) \[title V, §501(a)(1), (2)\], redesignated subcl. (II) as (III) and substituted “described in subclause (II)” for “described in subclause (I)”.
 
@@ -194,9 +236,9 @@ Subsec. (b)(3)(B)(iv). Pub. L. 106–554, §1(a)(6) \[title V, §501(c)(1)\], ad
 
 Subsec. (e). Pub. L. 106–554, §1(a)(6) \[title V, §504\], added subsec. (e).
 
-1999—Subsec. (b)(1). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(19)\], made technical amendment to reference in original act which appears in text as reference to August 5, 1997.
+<b>1999</b>—Subsec. (b)(1). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(19)\], made technical amendment to reference in original act which appears in text as reference to August 5, 1997.
 
-Subsec. (b)(3)(A)(i). Pub. L. 106–113, §1000(a)(6) \[title III, §302(b)\], amended heading and text of cl. (i) generally. Prior to amendment, text read as follows: “Undersuch system the Secretary shall provide for computation of a standard prospective payment amount (or amounts). Such amount (or amounts) shall initially be based on the most current audited cost report data available to the Secretary and shall be computed in a manner so that the total amounts payable under the system for fiscal year 2001 shall be equal to the total amount that would have been made if the system had not been in effect but if the reduction in limits described in clause (ii) had been in effect. Such amount shall be standardized in a manner that eliminates the effect of variations in relative case mix and wage levels among different home health agencies in a budget neutral manner consistent with the case mix and wage level adjustments provided under paragraph (4)(A). Under the system, the Secretary may recognize regional differences or differences based upon whether or not the services or agency are in an urbanized area.”
+Subsec. (b)(3)(A)(i). Pub. L. 106–113, §1000(a)(6) \[title III, §302(b)\], amended heading and text of cl. (i) generally. Prior to amendment, text read as follows: “Under such system the Secretary shall provide for computation of a standard prospective payment amount (or amounts). Such amount (or amounts) shall initially be based on the most current audited cost report data available to the Secretary and shall be computed in a manner so that the total amounts payable under the system for fiscal year 2001 shall be equal to the total amount that would have been made if the system had not been in effect but if the reduction in limits described in clause (ii) had been in effect. Such amount shall be standardized in a manner that eliminates the effect of variations in relative case mix and wage levels among different home health agencies in a budget neutral manner consistent with the case mix and wage level adjustments provided under paragraph (4)(A). Under the system, the Secretary may recognize regional differences or differences based upon whether or not the services or agency are in an urbanized area.”
 
 Subsec. (b)(3)(A)(i)(I). Pub. L. 106–113, §1000(a)(6) \[title III, §303(b)(1)\], which directed that the second sentence of cl. (i) be amended in subcl. (I) by the insertion of “and if section 1395x(v)(1)(L)(ix) of this title had not been enacted” before semicolon, was executed by making the insertion before the period at end of subcl. (I) to reflect the probable intent of Congress.
 
@@ -204,7 +246,7 @@ Subsec. (b)(3)(A)(i)(II). Pub. L. 106–113, §1000(a)(6) \[title III, §303(b)(
 
 Subsec. (b)(3)(B)(ii)(I). Pub. L. 106–113, §1000(a)(6) \[title III, §306\], substituted “each of fiscal years 2002 and 2003” for “fiscal year 2002 or 2003”.
 
-1998—Subsec. (a). Pub. L. 105–277, §5101(c)(1)(A), substituted “for portions of cost reporting periods occurring on or after October 1, 2000” for “for cost reporting periods beginning on or after October 1, 1999”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §5101(c)(1)(A), substituted “for portions of cost reporting periods occurring on or after October 1, 2000” for “for cost reporting periods beginning on or after October 1, 1999”.
 
 Subsec. (b)(3)(A)(i). Pub. L. 105–277, §5101(c)(1)(B)(i), substituted “fiscal year 2001” for “fiscal year 2000”.
 
@@ -230,13 +272,99 @@ Amendment by section 1000(a)(6) \[title III, §321(k)(19)\] of Pub. L. 106–113
 
 Pub. L. 105–33, title IV, §4603(d), Aug. 5, 1997, 111 Stat. 471, as amended by Pub. L. 105–277, div. J, title V, §5101(c)(2), Oct. 21, 1998, 112 Stat. 2681–914, provided that: “Except as otherwise provided, the amendments made by this section \[enacting this section and amending sections 1395f, 1395g, 1395k, 1395<i>l</i>, 1395u, and 1395y of this title\] shall apply to portions of cost reporting periods occurring on or after October 1, 2000.”
 
-#### One-Year Increase for Home Health Services Furnished in a Rural Area
+#### Study and Report on the Development of Home Health Payment Revisions in Order To Ensure Access to Care and Payment for Severity of Illness
 
-Pub. L. 108–173, title IV, §421, Dec. 8, 2003, 117 Stat. 2283, as amended by Pub. L. 109–171, title V, §5201(b), Feb. 8, 2006, 120 Stat. 46, provided that:
+Pub. L. 111–148, title III, §3131(d), title X, §10315(b), Mar. 23, 2010, 124 Stat. 429, 944, provided that:
+
+“(1)
+
+In general.—The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall conduct a study on home health agency costs involved with providing ongoing access to care to low-income Medicare beneficiaries or beneficiaries in medically underserved areas, and in treating beneficiaries with varying levels of severity of illness. In conducting the study, the Secretary may analyze items such as the following:
+
+&emsp;“(A) Methods to potentially revise the home health prospective payment system under section 1895 of the Social Security Act (42 U.S.C. 1395fff) to account for costs related to patient severity of illness or to improving beneficiary access to care, such as—
+
+&emsp;&emsp;“(i) payment adjustments for services that may involve additional or fewer resources;
+
+&emsp;&emsp;“(ii) changes to reflect resources involved with providing home health services to low-income Medicare beneficiaries or Medicare beneficiaries residing in medically underserved areas;
+
+&emsp;&emsp;“(iii) ways outlier payments might be revised to reflect costs of treating Medicare beneficiaries with high levels of severity of illness; and
+
+&emsp;&emsp;“(iv) other issues determined appropriate by the Secretary.
+
+&emsp;“(B) Operational issues involved with potential implementation of potential revisions to the home health payment system, including impacts for both home health agencies and administrative and systems issues for the Centers for Medicare \& Medicaid Services, and any possible payment vulnerabilities associated with implementing potential revisions.
+
+&emsp;“(C) Whether additional research might be needed.
+
+&emsp;“(D) Other items determined appropriate by the Secretary.
+
+“(2)
+
+Considerations.—In conducting the study under paragraph (1), the Secretary may consider whether patient severity of illness and access to care could be measured by factors, such as—
+
+&emsp;“(A) population density and relative patient access to care;
+
+&emsp;“(B) variations in service costs for providing care to individuals who are dually eligible under the Medicare and Medicaid programs;
+
+&emsp;“(C) the presence of severe or chronic diseases, which might be measured by multiple, discontinuous home health episodes;
+
+&emsp;“(D) poverty status, such as evidenced by the receipt of Supplemental Security Income under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\]; and
+
+&emsp;“(E) other factors determined appropriate by the Secretary.
+
+“(3)
+
+Report.—Not later than March 1, 2014, the Secretary shall submit to Congress a report on the study conducted under paragraph (1), together with recommendations for such legislation and administrative action as the Secretary determines appropriate.
+
+“(4)
+
+Consultations.—In conducting the study under paragraph (1), the Secretary shall consult with appropriate stakeholders, such as groups representing home health agencies and groups representing Medicare beneficiaries.
+
+“(5)
+
+Medicare demonstration project based on the results of the study.—
+
+&emsp;“(A)
+
+In general.—Subject to subparagraph (D), taking into account the results of the study conducted under paragraph (1), the Secretary may, as determined appropriate, provide for a demonstration project to test whether making payment adjustments for home health services under the Medicare program would substantially improve access to care for patients with high severity levels of illness or for low-income or underserved Medicare beneficiaries.
+
+&emsp;“(B)
+
+Waiving budget neutrality.—The Secretary shall not reduce the standard prospective payment amount (or amounts) under section 1895 of the Social Security Act (42 U.S.C. 1395fff) applicable to home health services furnished during a period to offset any increase in payments during such period resulting from the application of the payment adjustments under subparagraph (A).
+
+&emsp;“(C)
+
+No effect on subsequent periods.—A payment adjustment resulting from the application of subparagraph (A) for a period—
+
+&emsp;&emsp;“(i) shall not apply to payments for home health services under title XVIII \[42 U.S.C. 1395 et seq.\] after such period; and
+
+&emsp;&emsp;“(ii) shall not be taken into account in calculating the payment amounts applicable for such services after such period.
+
+&emsp;“(D)
+
+Duration.—If the Secretary determines it appropriate to conduct the demonstration project under this subsection, the Secretary shall conduct the project for a four year period beginning not later than January 1, 2015.
+
+&emsp;“(E)
+
+Funding.—The Secretary shall provide for the transfer from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund established under section 1841 of such Act (42 U.S.C. 1395t), in such proportion as the Secretary determines appropriate, of $500,000,000 for the period of fiscal years 2015 through 2018. Such funds shall be made available for the study described in paragraph (1) and the design, implementation and evaluation of the demonstration described in this paragraph. Amounts available under this subparagraph shall be available until expended.
+
+&emsp;“(F)
+
+Evaluation and report.—If the Secretary determines it appropriate to conduct the demonstration project under this subsection, the Secretary shall—
+
+&emsp;&emsp;“(i) provide for an evaluation of the project; and
+
+&emsp;&emsp;“(ii) submit to Congress, by a date specified by the Secretary, a report on the project.
+
+&emsp;“(G)
+
+Administration.—Chapter 35 of title 44, United States Code, shall not apply with respect to this subsection.”
+
+#### Temporary Increase for Home Health Services Furnished in a Rural Area
+
+Pub. L. 108–173, title IV, §421, Dec. 8, 2003, 117 Stat. 2283, as amended by Pub. L. 109–171, title V, §5201(b), Feb. 8, 2006, 120 Stat. 46; Pub. L. 111–148, title III, §3131(c), Mar. 23, 2010, 124 Stat. 428, provided that:
 
 “(a)
 
-In General.—With respect to episodes and visits ending on or after April 1, 2004, and before April 1, 2005, and episodes and visits beginning on or after January 1, 2006, and before January 1, 2007, in the case of home health services furnished in a rural area (as defined in section 1886(d)(2)(D) of the Social Security Act (42 U.S.C. 1395ww(d)(2)(D))), the Secretary \[of Health and Human Services\] shall increase the payment amount otherwise made under section 1895 of such Act (42 U.S.C. 1395fff) for such services by 5 percent.
+In General.—With respect to episodes and visits ending on or after April 1, 2004, and before April 1, 2005, episodes and visits beginning on or after January 1, 2006, and before January 1, 2007, and episodes and visits ending on or after April 1, 2010, and before January 1, 2016, in the case of home health services furnished in a rural area (as defined in section 1886(d)(2)(D) of the Social Security Act (42 U.S.C. 1395ww(d)(2)(D))), the Secretary \[of Health and Human Services\] shall increase the payment amount otherwise made under section 1895 of such Act (42 U.S.C. 1395fff) for such services by 5 percent (or, in the case of episodes and visits ending on or after April 1, 2010, and before January 1, 2016, 3 percent).
 
 “(b)
 

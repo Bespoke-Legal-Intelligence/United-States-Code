@@ -10,11 +10,15 @@ The President may waive the prohibition set forth in subsection (a) of this sect
 
 (Pub. L. 90–629, ch. 3, §40A, as added Pub. L. 104–132, title III, §330, Apr. 24, 1996, 110 Stat. 1258.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+
 #### Codification
 
 Another section 40A of Pub. L. 90–629 is classified to section 2785 of this title.
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of State by section 1(<i>o</i>) of Ex. Ord. No.11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+Functions of President under this section delegated to Secretary of State by section 1(<i>o</i>) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
 

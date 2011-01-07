@@ -18,5 +18,5 @@ Section 7303 requires seamen to retain their merchant mariner's documents. It al
 
 #### Amendments
 
-2002—Pub. L. 107–295 struck out “the thumbprint,” after “photograph,”.
+<b>2002</b>—Pub. L. 107–295 struck out “the thumbprint,” after “photograph,”.
 

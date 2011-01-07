@@ -18,7 +18,7 @@ The terms “applicant” and “registrant” embrace the legal representatives
 
 The term “Director” means the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office.
 
-The term “related company” means any person whose use of a mark is controlled by the owner of the mark with respect to the natureand quality of the goods or services on or in connection with which the mark is used.
+The term “related company” means any person whose use of a mark is controlled by the owner of the mark with respect to the nature and quality of the goods or services on or in connection with which the mark is used.
 
 The terms “trade name” and “commercial name” mean any name used by a person to identify his or her business or vocation.
 
@@ -100,9 +100,9 @@ Acts Feb. 20, 1905, ch. 592, §29, 33 Stat. 731; June 10, 1938, ch. 332, §5, 52
 
 #### Amendments
 
-2006—Pub. L. 109–312 struck out par. defining “dilution” after par. defining “abandoned”.
+<b>2006</b>—Pub. L. 109–312 struck out par. defining “dilution” after par. defining “abandoned”.
 
-1999—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(A)\], substituted par. defining “Director” for par. which read as follows: “The term ‘Commissioner’ means the Commissioner of Patents and Trademarks.”
+<b>1999</b>—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(A)\], substituted par. defining “Director” for par. which read as follows: “The term ‘Commissioner’ means the Commissioner of Patents and Trademarks.”
 
 Pub. L. 106–113, §1000(a)(9) \[title III, §3005\], inserted pars. defining “domain name” and “Internet” after par. defining “counterfeit”.
 
@@ -110,17 +110,17 @@ Pub. L. 106–43, §6(b), substituted “trademarks” for “trade-marks” in 
 
 Pub. L. 106–43, §4(c), between pars. defining “person” inserted: “The term ‘person’ also includes the United States, any agency or instrumentality thereof, or any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States. The United States, any agency or instrumentality thereof, and any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.”
 
-1996—Pub. L. 104–98 inserted par. defining “dilution” after par. defining “abandoned”.
+<b>1996</b>—Pub. L. 104–98 inserted par. defining “dilution” after par. defining “abandoned”.
 
-1994—Pub. L. 103–465 amended par. defining “abandoned” generally. Prior to amendment, par. read as follows: “A mark shall be deemed to be ‘abandoned’ when either of the following occurs:
+<b>1994</b>—Pub. L. 103–465 amended par. defining “abandoned” generally. Prior to amendment, par. read as follows: “A mark shall be deemed to be ‘abandoned’ when either of the following occurs:
 
 &emsp;“(1) When its use has been discontinued with intent not to resume such use. Intent not to resume may be inferred from circumstances. Nonuse for two consecutive years shall be prima facie evidence of abandonment. ‘Use’ of a mark means the bona fide use of that mark made in the ordinary course of trade, and not made merely to reserve a right in a mark.
 
-&emsp;“(2) When any course of conduct of the owner, including acts of omission as well as commission, causes the mark to become the generic name for the goods or services on or in connection with which it is used or otherwise to lose its significance as a mark. Purchaser motivation shall not be a test for determining abandonment under this paragraph.”
+&emsp;“(2) When any course of conduct of the owner, including acts of omission as well as commission,causes the mark to become the generic name for the goods or services on or in connection with which it is used or otherwise to lose its significance as a mark. Purchaser motivation shall not be a test for determining abandonment under this paragraph.”
 
-1992—Pub. L. 102–542 inserted after fourth undesignated par. “The term ‘person’ also includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.”
+<b>1992</b>—Pub. L. 102–542 inserted after fourth undesignated par. “The term ‘person’ also includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.”
 
-1988—Pub. L. 100–667, §134(1), amended par. defining “related company” generally. Prior to amendment, par. read as follows: “The term ‘related company’ means any person who legitimately controls or is controlled by the registrant or applicant for registration in respect to the nature and quality of the goods or services in connection with which the mark is used.”
+<b>1988</b>—Pub. L. 100–667, §134(1), amended par. defining “related company” generally. Prior to amendment, par. read as follows: “The term ‘related company’ means any person who legitimately controls or is controlled by the registrant or applicant for registration in respect to the nature and quality of the goods or services in connection with which the mark is used.”
 
 Pub. L. 100–667, §134(2), amended par. defining “trade name” and “commercial name” generally. Prior to amendment, par. read as follows: “The terms ‘trade name’ and ‘commercial name’ include individual names and surnames, firm names and trade names used by manufacturers, industrialists, merchants, agriculturists, and others to identify their businesses, vocations, or occupations; the names or titles lawfully adopted and used by persons, firms, associations, corporations, companies, unions, and any manufacturing, industrial, commercial, agricultural, or other organizations engaged in trade or commerce and capable of suing and being sued in a court of law.”
 
@@ -134,21 +134,21 @@ Pub. L. 100–667, §134(6), amended par. defining “collective mark” general
 
 Pub. L. 100–667, §134(7), amended par. defining “mark” generally. Prior to amendment, par. read as follows: “The term ‘mark’ includes any trade-mark, service mark, collective mark, or certification mark entitled to registration under this chapter whether registered or not.”
 
-Pub. L. 100–667, §134(8), substituted par. defining “use in commerce” for former par. which read as follows: “For the purposes of this chapter a mark shall bedeemed to be used in commerce (a) on goods when it is placed in any manner on the goods or their containers or the displays associated therewith or on the tags or labels affixed thereto and the goods are sold or transported in commerce and (b) on services when it is used or displayed in the sale or advertising of services and the services are rendered in commerce, or the services are rendered in more than one State or in this and a foreign country and the person rendering the services is engaged in commerce in connection therewith.” and par. providing when a mark is deemed abandoned for former par. which read as follows: “A mark shall be deemed to be ‘abandoned’—
+Pub. L. 100–667, §134(8), substituted par. defining “use in commerce” for former par. which read as follows: “For the purposes of this chapter a mark shall be deemed to be used in commerce (a) on goods when it is placed in any manner on the goods or their containers or the displays associated therewith or on the tags or labels affixed thereto and the goods are sold or transported in commerce and (b) on services when it is used or displayed in the sale or advertising of services and the services are rendered in commerce, or the services are rendered in more than one State or in this and a foreign country and the person rendering the services is engaged in commerce in connection therewith.” and par. providing when a mark is deemed abandoned for former par. which read as follows: “A mark shall be deemed to be ‘abandoned’—
 
 “(a) When its use has been discontinued with intent not to resume. Intent not to resume may be inferred from circumstances. Nonuse for two consecutive years shall be prima facie abandonment.
 
 “(b) When any course of conduct of the registrant, including acts of omission as well as commission, causes the mark to lose its significance as an indication of origin. Purchaser motivation shall not be a test for determining abandonment under this subparagraph.”
 
-1984—Pub. L. 98–620, §103(1), in definition of “trademark” substituted “trademark” for “trade-mark”, and substituted “identify and distinguish his goods, including a unique product, from those manufactured or sold by others and to indicate the source of the goods, even if that source is unknown” for “identify his goods and distinguish them from those manufactured or sold by others”.
+<b>1984</b>—Pub. L. 98–620, §103(1), in definition of “trademark” substituted “trademark” for “trade-mark”, and substituted “identify and distinguish his goods, including a unique product, from those manufactured or sold by others and to indicate the source of the goods, even if that source is unknown” for “identify his goods and distinguish them from those manufactured or sold by others”.
 
 Pub. L. 98–620, §103(2), in definition of “service mark” substituted “The term ‘service mark’ means a mark used in the sale or advertising of services to identify and distinguish the services of one person, including a unique service, from the services of others and to indicate the source of the services, even if that source is unknown” for “The term ‘service mark’ means a mark used in the sale or advertising of services to identify the services of one person and distinguish them from the services of others”.
 
 Pub. L. 98–620, §103(3), in subpar. (b) of par. relating to when a mark shall be deemed to be “abandoned”, inserted “Purchaser motivation shall not be a test for determining abandonment under this subparagraph.”
 
-1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office” in two places and “Commissioner of Patents and Trademarks” for “Commissioner of Patents” in definition of “Commissioner”.
+<b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office” in two places and “Commissioner of Patents and Trademarks” for “Commissioner of Patents” in definition of “Commissioner”.
 
-1962—Pub. L. 87–772 substituted, “predecessors,” for “and” in definition of “applicant” and “registrant”, “Titles, character names and other distinctive features of radio or television programs may be registered as service marks notwithstanding that they, or the programs, may advertise the goods of the sponsor” for “and includes without limitation the marks, names, symbols, titles, designations, slogans, character names, and distinctive features of radio or other advertising used in commerce”, in definition of “service mark”, inserted “or the services are rendered in more than one State or in this and a foreign country and the person rendering the services is engaged in commerce in connection therewith” in fifteenth paragraph relating to use in commerce, struck out “purchasers” after “deceive” in definition of “colorable imitation”, and substituted “commerce” for “commence” in last par. relating to the intent of the chapter.
+<b>1962</b>—Pub. L. 87–772 substituted, “predecessors,” for “and” in definition of “applicant” and “registrant”, “Titles, character names and other distinctive features of radio or television programs may be registered as service marks notwithstanding that they, or the programs, may advertise the goods of the sponsor” for “and includes without limitation the marks, names, symbols, titles, designations, slogans, character names, and distinctive features of radio or other advertising used in commerce”, in definition of “service mark”, inserted “or the services are rendered in more than one State or in this and a foreign country and the person rendering the services is engaged in commerce in connection therewith” in fifteenth paragraph relating to use in commerce, struck out “purchasers” after “deceive” in definition of “colorable imitation”, and substituted “commerce” for “commence” in last par. relating to the intent of the chapter.
 
 #### Effective Date of 1999 Amendment
 

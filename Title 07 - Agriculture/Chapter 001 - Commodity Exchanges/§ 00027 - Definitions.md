@@ -50,7 +50,19 @@ In sections 27 to 27f of this title, the term “covered swap agreement” means
 
 &emsp;&emsp;(D) is an agreement, contract or transaction in an excluded commodity (as defined in section 1a(13) of this title).
 
-(Pub. L. 106–554, §1(a)(5) \[title IV, §402\], Dec. 21, 2000, 114 Stat. 2763, 2763A–457.)
+(Pub. L. 106–554, §1(a)(5) \[title IV, §402\], Dec. 21, 2000, 114 Stat. 2763, 2763A–457; Pub. L. 111–203, title VII, §§721(e)(9), 725(g)(1)(B), July 21, 2010, 124 Stat. 1672, 1694.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title VII, §§721(e)(9), 725(g)(1)(B), 754, July 21, 2010, 124 Stat. 1672, 1694, 1754, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, this section is amended as follows:</i>
+
+<i>(1) in subsection (a)(7), by striking “section 1a(20)” and inserting “section 1a”;</i>
+
+<i>(2) in subsection (b)(2), by striking “section 1a(12)” and inserting “section 1a”;</i>
+
+<i>(3) in subsection (c), by striking “section 1a(4)” and inserting “section 1a”; and</i>
+
+<i>(4) by striking subsection (d).</i>
 
 #### References in Text
 
@@ -63,6 +75,10 @@ Par. (33) of section 1a of this title, referred to in subsec. (d)(1)(B), was red
 #### Codification
 
 Section was enacted as part of the Legal Certainty for Bank Products Act of 2000, and also as part of the Commodity Futures Modernization Act of 2000, and not as part of the Commodity Exchange Act which comprises this chapter.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 #### Short Title
 

@@ -100,7 +100,7 @@ In clause (2)(A), “Amtrak” is substituted for “National Railroad Passenger
 
 In clause (2)(I), the words “when the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 (7 U.S.C. 950(a))” are added because of 7:943(c) and 950(a).
 
-In clause (3), the words “Regional Agricultural Credit Corporations” are omitted because the corporations were merged with and liquidated by the Regional Agricultural Credit Corporation of Washington, D.C., which was dissolved on April 16, 1949. The words “Farmers Home Corporation” are omitted because the corporation never was activated. The words “Federal Surplus Commodities Corporation” are omitted because the corporation and the Division of Marketing and Marketing Agreements were consolidated into the Surplus Marketing Administration, which was merged into the Agricultural Marketing Administration, which was dissolved on March 14, 1947. The words “Reconstruction Finance Corporation” are omitted because the corporation was abolished on June 30, 1957. The words “Defense Plant Corporation; Defense Supplies Corporation; Metals Reserve Company; Rubber Reserve Company” are omitted because the corporations and companies were dissolved on July 1, 1945. The words “War Damage Corporation” are omitted because the corporation was terminated on January 22, 1947. The words “the RFC Mortgage Company” are omitted because the company was transferred to the Reconstruction Finance Corporation, which was abolished on June 30, 1957. The words “Disaster Loan Corporation” are omitted because the corporation was dissolved on July 1, 1945. The words “Inland Waterways Corporation” are omitted because the corporation was liquidated on July 19, 1963. The words “Warrior River Terminal Company” are omitted because the company was transferred to the Inland Waterways Corporation, which was liquidated on July 13, 1963. The words “Virgin Islands Corporation” areomitted because the corporation was dissolved on July 1, 1966. The words “United States Spruce Production Corporation” are omitted because the corporation was dissolved on December 12, 1946. The words “Institute of Inter-American Affairs” are omitted because the institute was transferred to the Foreign Operations Administration, which was abolished on May 9, 1955. The words “Institute of Inter-American Transportation” are omitted because the institute was dissolved August 24, 1949. The words “Inter-American Educational Foundation, Incorporated” are omitted because the foundation was succeeded by the Institute of Inter-American Affairs, which was transferred to the Foreign Operations Administration, which was abolished on May 9, 1955. The words “Inter-American Navigation Corporation” are omitted because the corporation was dissolved on February 25, 1947. The words “Prencinradio, Incorporated” are omitted because Prencinradio, Incorporated was dissolved May 10, 1949. The words “Cargoes, Incorporated” are omitted because Cargoes, Incorporated was dissolved April 30, 1945. The words “Export-Import Bank of the United States” are substituted for “Export-Import Bank of Washington” because of section 1(a) of the Act of March 13, 1968 (Pub. L. 90–267, 82 Stat. 47). The words “Petroleum Reserves Corporation” are omitted because the corporation was transferred to the Office of Economic Warfare, which was consolidated into the Foreign Economic Administration, which was transferred to the Reconstruction Finance Corporation and changed to the War Assets Corporation. The War Assets Corporation was dissolved as soon as practicable after March 25, 1946. The words “Rubber Development Corporation” are omitted because the certificate of incorporation expired on June 30, 1947. The words “U. S. Commercial Company” are omitted because the company was liquidated after June 30, 1948. The words “Smaller War Plants Corporation” are omitted because the corporation was abolished on June 30, 1947. The words “Defense Homes Corporation” are omitted because the corporation was liquidated on June 30, 1948. The words “Home Owners’ Loan Corporation” are omitted because the corporation was dissolved on February 3, 1954. The words “United States Housing Corporation” are omitted because the corporation was terminated on September 8, 1952. The words “Panama Railroad Company” (subsequently changed to “Panama Canal Company” by section 2(a)(2) of the Act of September 26, 1950 (ch. 1049, 64 Stat. 1038)), are omitted because of 22:ch. 51. The words “Tennessee Valley Associated Cooperatives, Incorporated” are omitted because the corporation was dissolved on January 18, 1950.
+In clause (3), the words “Regional Agricultural Credit Corporations” are omitted because the corporations were merged with and liquidated by the Regional Agricultural Credit Corporation of Washington, D.C., which was dissolved on April 16, 1949. The words “Farmers Home Corporation” are omitted because the corporation never was activated. The words “Federal Surplus Commodities Corporation” are omitted because the corporation and the Division of Marketing and Marketing Agreements were consolidated into the Surplus Marketing Administration, which was merged into the Agricultural Marketing Administration, which was dissolved on March 14, 1947. The words “Reconstruction Finance Corporation” are omitted because the corporation was abolished on June 30, 1957. The words “Defense Plant Corporation; Defense Supplies Corporation; Metals Reserve Company; Rubber Reserve Company” are omitted because the corporations and companies were dissolved on July 1, 1945. The words “War Damage Corporation” are omitted because the corporation was terminated on January 22, 1947. The words “the RFC Mortgage Company” are omitted because the company was transferred to the Reconstruction Finance Corporation, which was abolished on June 30, 1957. The words “Disaster Loan Corporation” are omitted because the corporation was dissolved on July 1, 1945. The words “Inland Waterways Corporation” are omitted because the corporation was liquidated on July 19, 1963. The words “Warrior River Terminal Company” are omitted because the company was transferred to the Inland Waterways Corporation, which was liquidated on July 13, 1963. The words “Virgin Islands Corporation” are omitted because the corporation was dissolved on July 1, 1966. The words “United States Spruce Production Corporation” are omitted because the corporation was dissolved on December 12, 1946. The words “Institute of Inter-American Affairs” are omitted because the institute was transferred to the Foreign Operations Administration, which was abolished on May 9, 1955. The words “Institute of Inter-American Transportation” are omitted because the institute was dissolved August 24, 1949. The words “Inter-American Educational Foundation, Incorporated” are omitted because the foundation was succeeded by the Institute of Inter-American Affairs, which was transferred to the Foreign Operations Administration, which was abolished on May 9, 1955. The words “Inter-American Navigation Corporation” are omitted because the corporation was dissolved on February 25, 1947. The words “Prencinradio, Incorporated” are omitted because Prencinradio, Incorporated was dissolved May 10, 1949. The words “Cargoes, Incorporated” are omitted because Cargoes, Incorporated was dissolved April 30, 1945. The words “Export-Import Bank of the United States” are substituted for “Export-Import Bank of Washington” because of section 1(a) of the Act of March 13, 1968 (Pub. L. 90–267, 82 Stat. 47). The words “Petroleum Reserves Corporation” are omitted because the corporation was transferred to the Office of Economic Warfare, which was consolidated into the Foreign Economic Administration, which was transferred to the Reconstruction Finance Corporation and changed to the War Assets Corporation. The War Assets Corporation was dissolved as soon as practicable after March 25, 1946. The words “Rubber Development Corporation” are omitted because the certificate of incorporation expired on June 30, 1947. The words “U. S. Commercial Company” are omitted because the company was liquidated after June 30, 1948. The words “Smaller War Plants Corporation” are omitted because the corporation was abolished on June 30, 1947. The words “Defense Homes Corporation” are omitted because the corporation was liquidated on June 30, 1948. The words “Home Owners’ Loan Corporation” are omitted because the corporation was dissolved on February 3, 1954. The words “United States Housing Corporation” are omitted because the corporation was terminated on September 8, 1952. The words “Panama Railroad Company” (subsequently changed to “Panama Canal Company” by section 2(a)(2) of the Act of September 26, 1950 (ch. 1049, 64 Stat. 1038)), are omitted because of 22:ch. 51. The words “Tennessee Valley Associated Cooperatives, Incorporated” are omitted because the corporation was dissolved on January 18, 1950.
 
 In clause (3)(J), the words “until the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 (7 U.S.C. 950(a))” are added because of 7:943(c) and 950(a). Clause (L) is substituted for the “Federal Housing Administration” because of section 5 of the Department of Housing and Urban Development Act (Pub. L. 89–174, 79 Stat. 669).
 
@@ -110,15 +110,15 @@ This amends 31:9101(2) because the National Consumer Cooperative Bank is no long
 
 #### Amendments
 
-2007—Par. (3)(R). Pub. L. 110–140 added subpar. (R).
+<b>2007</b>—Par. (3)(R). Pub. L. 110–140 added subpar. (R).
 
-2004—Par. (3)(Q). Pub. L. 108–199 added subpar. (Q).
+<b>2004</b>—Par. (3)(Q). Pub. L. 108–199 added subpar. (Q).
 
-2002—Par. (3)(Q). Pub. L. 107–171 struck out subpar. (Q) which read: “the Alternative Agricultural Research and Commercialization Corporation.”
+<b>2002</b>—Par. (3)(Q). Pub. L. 107–171 struck out subpar. (Q) which read: “the Alternative Agricultural Research and Commercialization Corporation.”
 
-1997—Par. (2). Pub. L. 105–134 redesignated subpars. (B) to (L) as (A) to (K), respectively, and struck out former subpar. (A) which read: “Amtrak.”
+<b>1997</b>—Par. (2). Pub. L. 105–134 redesignated subpars. (B) to (L) as (A) to (K), respectively, and struck out former subpar. (A) which read: “Amtrak.”
 
-1996—Par. (2)(J) to (M). Pub. L. 104–287, §4(2)(A), (B), redesignated subpars. (K) to (M) as (J) to (L), respectively, and struck out former subpar. (J), which read: “the United States Railway Association”.
+<b>1996</b>—Par. (2)(J) to (M). Pub. L. 104–287, §4(2)(A), (B), redesignated subpars. (K) to (M) as (J) to (L), respectively, and struck out former subpar. (J), which read: “the United States Railway Association”.
 
 Par. (3)(B). Pub. L. 104–287, §4(2)(C), substituted a period for the semicolon at end.
 
@@ -132,25 +132,25 @@ Par. (3)(P). Pub. L. 104–106 added subpar. (P).
 
 Par. (3)(Q). Pub. L. 104–127, §722(b)(2), added subpar. (Q).
 
-1994—Par. (2)(K). Pub. L. 103–272 substituted “the” for “The”.
+<b>1994</b>—Par. (2)(K). Pub. L. 103–272 substituted “the” for “The”.
 
 Par. (3)(B) to (N). Pub. L. 103–325 added subpar. (B) and redesignated former subpars. (B) to (M) as (C) to (N), respectively.
 
-1993—Par. (3)(E). Pub. L. 103–82 added subpar. (E).
+<b>1993</b>—Par. (3)(E). Pub. L. 103–82 added subpar. (E).
 
-1992—Par. (3)(N). Pub. L. 102–486 added subpar. (N) relating to the Uranium Enrichment Corporation.
+<b>1992</b>—Par. (3)(N). Pub. L. 102–486 added subpar. (N) relating to the Uranium Enrichment Corporation.
 
-1989—Par. (2)(L). Pub. L. 101–73, §501(d), added subpar. (L).
+<b>1989</b>—Par. (2)(L). Pub. L. 101–73, §501(d), added subpar. (L).
 
 Par. (2)(M). Pub. L. 101–73, §511(b)(1), added subpar. (M).
 
 Par. (3)(E). Pub. L. 101–73, §307(e), struck out subpar. (E) relating to Federal Savings and Loan Insurance Corporation.
 
-1987—Par. (2)(K). Pub. L. 100–86 added subpar. (K).
+<b>1987</b>—Par. (2)(K). Pub. L. 100–86 added subpar. (K).
 
-1983—Par. (2)(K). Pub. L. 97–452 struck out subpar. (K) which had already been struck out by Pub. L. 97–258. See 1982 Amendment note below.
+<b>1983</b>—Par. (2)(K). Pub. L. 97–452 struck out subpar. (K) which had already been struck out by Pub. L. 97–258. See 1982 Amendment note below.
 
-1982—Par. (2)(K). Pub. L. 97–258, §2(<i>l</i>)(1), struck out subpar. (K) relating to National Consumer Cooperative Bank.
+<b>1982</b>—Par. (2)(K). Pub. L. 97–258, §2(<i>l</i>)(1), struck out subpar. (K) relating to National Consumer Cooperative Bank.
 
 #### Effective Date of 2007 Amendment
 
@@ -174,7 +174,7 @@ Section 2(<i>l</i>) of Pub. L. 97–258 provided that the amendment made by that
 
 #### Short Title
 
-This chapter is popularly known as the Government Corporation Control Act. The Government CorporationControl Act was previously the official short title of act Dec. 6, 1945, ch. 557, 59 Stat. 597, which was classified generally to chapter 14 (§§841, 846–852, 856–859, 866–869) of former Title 31, Money and Finance. That act was primarily repealed and restated in chapter 91 of this title by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877, the first section of which enacted this title. For complete classification of act Dec. 6, 1945, to the Code, see Tables. For disposition of sections of former Title 31 to this title, see Disposition Table preceding section 101 of this title.
+This chapter is popularly known as the Government Corporation Control Act. The Government Corporation Control Act was previously the official short title of act Dec. 6, 1945, ch. 557, 59 Stat. 597, which was classified generally to chapter 14 (§§841, 846–852, 856–859, 866–869) of former Title 31, Money and Finance. That act was primarily repealed and restated in chapter 91 of this title by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877, the first section of which enacted this title. For complete classification of act Dec. 6, 1945, to the Code, see Tables. For disposition of sections of former Title 31 to this title, see Disposition Table preceding section 101 of this title.
 
 #### Dissolution of Pennsylvania Avenue Development Corporation
 

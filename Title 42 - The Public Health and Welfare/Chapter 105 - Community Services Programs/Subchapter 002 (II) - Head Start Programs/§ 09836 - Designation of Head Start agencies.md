@@ -62,7 +62,7 @@ To be considered for designation renewal, an entity shall submit an application 
 
 #### (6) Designation renewal system
 
-&emsp;Not later than 12 months after publishing a notice describing the proposed system underparagraph (5), the Secretary shall implement the system for designation renewal and use that system to determine—
+&emsp;Not later than 12 months after publishing a notice describing the proposed system under paragraph (5), the Secretary shall implement the system for designation renewal and use that system to determine—
 
 &emsp;&emsp;(A) whether a Head Start grantee is successfully delivering a high-quality and comprehensive Head Start program; and
 
@@ -254,11 +254,11 @@ The Individuals with Disabilities Education Act, referred to in subsec. (d)(2)(H
 
 #### Amendments
 
-2007—Pub. L. 110–134 amended section generally. Prior to amendment, section related to authorization of and prerequisites for designation of Head Start agencies in subsec. (a), definition of community in subsec. (b), priority in administration of section provisions in subsec. (c), designation in community without entity entitledto priority and qualified applicants in subsec. (d), designation on interim basis in subsec. (e), involvement of parents and area residents in selection of agencies in subsec. (f), and priority for nonprofit agencies and applicants with demonstrated capacity in subsec. (g).
+<b>2007</b>—Pub. L. 110–134 amended section generally. Prior to amendment, section related to authorization of and prerequisites for designation of Head Start agencies in subsec. (a), definition of community in subsec. (b), priority in administration of section provisions in subsec. (c), designation in community without entity entitled to priority and qualified applicants in subsec. (d), designation on interim basis in subsec. (e), involvement of parents and area residents in selection of agencies in subsec. (f), and priority for nonprofit agencies and applicants with demonstrated capacity in subsec. (g).
 
-2004—Subsec. (d)(3). Pub. L. 108–446 substituted “U.S.C. 1431–1444” for “U.S.C 1431–1445”.
+<b>2004</b>—Subsec. (d)(3). Pub. L. 108–446 substituted “U.S.C. 1431–1444” for “U.S.C 1431–1445”.
 
-1998—Subsec. (a). Pub. L. 105–285, §107(1), inserted “or for-profit” after “nonprofit” and “(in consultation with the chief executive officer of the State involved, if such State expends non-Federal funds to carry out Head Start programs)” after “Secretary” in cl. (2).
+<b>1998</b>—Subsec. (a). Pub. L. 105–285, §107(1), inserted “or for-profit” after “nonprofit” and “(in consultation with the chief executive officer of the State involved, if such State expends non-Federal funds to carry out Head Start programs)” after “Secretary” in cl. (2).
 
 Subsec. (b). Pub. L. 105–285, §107(2), substituted “off-reservation area designated by an appropriate tribal government in consultation with the Secretary” for “area designated by the Bureau of Indian Affairs as near-reservation”.
 
@@ -294,7 +294,7 @@ Subsec. (e). Pub. L. 105–285, §107(5), added subsec. (e) and struck out forme
 
 Subsec. (g). Pub. L. 105–285, §107(6), added subsec. (g).
 
-1994—Subsec. (b). Pub. L. 103–252, §107(a), inserted “(including Indians in any area designated by the Bureau of Indian Affairs as near-reservation)” after “Indian reservation”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–252, §107(a), inserted “(including Indians in any area designated by the Bureau of Indian Affairs as near-reservation)” after “Indian reservation”.
 
 Subsec. (c)(1). Pub. L. 103–252, §107(b)(2), (3), (5), inserted “(subject to paragraph (2))” after “the provisions of this section”, struck out subpar. (A), inserted “the Secretary makes a finding that the agency involved fails to meet program, financial management, and other requirements established by the Secretary.” after “unless”, and redesignated subpar. (B) as par. (2) and concluding provisions as par. (3).
 
@@ -318,11 +318,11 @@ Subsec. (c)(3). Pub. L. 103–252, §107(b)(1), (5), redesignated concluding pro
 
 Subsec. (c)(4). Pub. L. 103–252, §107(b)(1), struck out par. (4) which read as follows: “The results of a review conducted under this subsection shall not be sufficient alone for the purpose of determining whether to continue, or to discontinue, providing funds to a particular Head Start agency.”
 
-Subsec. (d). Pub. L. 103–252, §107(c)(1)–(3)(A), in introductory provisions substituted “If no entity in a community is entitled to the priority specified in subsection (c) of this section,” for “If there is no Head Start agency as described in subsection (c)(2) of this section, and no existing Head Start program serving a community,” and struck out “Any such designation shall be governed by the program and fiscal requirements, criteria, and standards applicable on September 1, 1983, to then existing Head Start agencies.” after first sentence and “subject to the preceding sentence” after “as a Head Start agency”.
+Subsec. (d). Pub. L. 103–252, §107(c)(1)–(3)(A), in introductory provisions substituted “If no entity in a community is entitled to the priority specified in subsection (c) of this section,” for “If there is no Head Start agency as described in subsection (c)(2) of this section, and no existing Head Start program serving a community,” and struck out “Any such designationshall be governed by the program and fiscal requirements, criteria, and standards applicable on September 1, 1983, to then existing Head Start agencies.” after first sentence and “subject to the preceding sentence” after “as a Head Start agency”.
 
 Subsec. (d)(3). Pub. L. 103–252, §107(c)(3)(B), inserted “, including Even Start programs under part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2741 et seq.),” after “preschool programs”.
 
-Subsec. (d)(4). Pub. L. 103–252, §107(c)(3)(C), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the plan of such applicant to involve parents of children who will participate in the proposed Head Start program in appropriate educational services (inaccordance with the performance standards in effect under section 9846(b) of this title or through referral of such parents to educational services available in the community) in order to aid their children to attain their full potential;”.
+Subsec. (d)(4). Pub. L. 103–252, §107(c)(3)(C), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the plan of such applicant to involve parents of children who will participate in the proposed Head Start program in appropriate educational services (in accordance with the performance standards in effect under section 9846(b) of this title or through referral of such parents to educational services available in the community) in order to aid their children to attain their full potential;”.
 
 Subsec. (d)(7). Pub. L. 103–252, §107(c)(4), substituted “non-English language background children and their families” for “non-English language children” and inserted “and” after semicolon.
 
@@ -330,7 +330,7 @@ Subsec. (d)(8), (9). Pub. L. 103–252, §107(c)(5), (6), redesignated par. (9) 
 
 Subsecs. (f), (g). Pub. L. 103–252, §107(d), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “The provisions of subsections (c), (d), and (e) of this section shall be applied by the Secretary in the distribution of any additional appropriations made available under this subchapter during any fiscal year as well as to initial designations of Head Start agencies.”
 
-1992—Subsec. (c)(1). Pub. L. 102–401, §2(e)(1), inserted at end “Notwithstanding any other provision of this paragraph, the Secretary shall not give such priority to any agency with respect to which financial assistance has been terminated, or an application for refunding has been denied, under this subchapter by the Secretary after affording such agency reasonable notice and opportunity for a full and fair hearing in accordance with section 9841(a)(3) of this title.”
+<b>1992</b>—Subsec. (c)(1). Pub. L. 102–401, §2(e)(1), inserted at end “Notwithstanding any other provision of this paragraph, the Secretary shall not give such priority to any agency with respect to which financial assistance has been terminated, or an application for refunding has been denied, under this subchapter by the Secretary after affording such agency reasonable notice and opportunity for a full and fair hearing in accordance with section 9841(a)(3) of this title.”
 
 Subsec. (c)(2). Pub. L. 102–401, §2(f), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
@@ -342,7 +342,7 @@ Pub. L. 102–401, §2(h)(1), substituted “(c), (d), and (e)” for “(c) and
 
 Subsecs. (f), (g). Pub. L. 102–401, §2(h)(2), redesignated subsecs. (e) and (f) as (f) and (g), respectively.
 
-1990—Subsec. (c). Pub. L. 101–501, §107, designated existing provisions as par. (1), redesignated former par. (1) as subpar. (A), added subpar. (B) and pars. (2) to (4), and struck out former par. (2) and last sentence which read as follows:
+<b>1990</b>—Subsec. (c). Pub. L. 101–501, §107, designated existing provisions as par. (1), redesignated former par. (1) as subpar. (A), added subpar. (B) and pars. (2) to (4), and struck out former par. (2) and last sentence which read as follows:
 
 &emsp;“(2) except that if there is no such agency because of any change in the assistance furnished to programs for economically disadvantaged persons, then the Secretary shall give priority in the designation of Head Start agencies to any successor agency which is operated in substantially the same manner as the predecessor agency which did receive funds in the fiscal year preceding the fiscal year for which the determination is made.
 
@@ -350,7 +350,7 @@ Subsecs. (f), (g). Pub. L. 102–401, §2(h)(2), redesignated subsecs. (e) and (
 
 Subsec. (d). Pub. L. 101–501, §108, inserted at end “In selecting from among qualified applicants for designation as a Head Start agency and subject to the preceding sentence, the Secretary shall consider the effectiveness of each such applicant to provide Head Start services, based on—” and pars. (1) to (7).
 
-1984—Subsec. (a). Pub. L. 98–558, §104(a), inserted “, within a community,” after “private nonprofit agency”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–558, §104(a), inserted “, within a community,” after “private nonprofit agency”.
 
 Subsec. (c). Pub. L. 98–558, §104(b)(1), substituted “unless” for “, except that” in provisions preceding cl. (1).
 

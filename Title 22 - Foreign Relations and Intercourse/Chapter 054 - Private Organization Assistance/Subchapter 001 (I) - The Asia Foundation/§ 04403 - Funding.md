@@ -6,11 +6,11 @@ There is authorized to be appropriated to the Secretary of State $15,000,000 for
 
 #### Amendments
 
-2002—Pub. L. 107–228 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to the Secretary of State $15,000,000 for each of the fiscal years 2000 and 2001 for grants to The Asia Foundation pursuant to this subchapter.”
+<b>2002</b>—Pub. L. 107–228 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to the Secretary of State $15,000,000 for each of the fiscal years 2000 and 2001 for grants to The Asia Foundation pursuant to this subchapter.”
 
-1999—Pub. L. 106–113 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to the Secretary of State $10,000,000 for each of the fiscal years 1998 and 1999 for grants to The Asia Foundation pursuant to this subchapter.”
+<b>1999</b>—Pub. L. 106–113 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to the Secretary of State $10,000,000 for each of the fiscal years 1998 and 1999 for grants to The Asia Foundation pursuant to this subchapter.”
 
-1998—Pub. L. 105–277 amended section generally. Prior to amendment, section read as follows:
+<b>1998</b>—Pub. L. 105–277 amended section generally. Prior to amendment, section read as follows:
 
 “(a)
 
@@ -20,9 +20,9 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 Allocation of Funds.—Of amounts authorized to be appropriated under subsection (a) of this section, $1,324,000 for the fiscal year 1990 and $1,324,000 for the fiscal year 1991 shall be available only for the expansion of programs and services (including the establishment of a field office) for Oceania, comprised of Polynesia, Micronesia, and Melanesia.”
 
-1990—Pub. L. 101–246 amended section generally. Prior to amendment, section read as follows: “There is authorized to be appropriated to the Secretary of State $13,700,000 for the fiscal year 1988 and $15,000,000 for the fiscal year 1989 for grants to the Asia Foundation pursuant to this subchapter.”
+<b>1990</b>—Pub. L. 101–246 amended section generally. Prior to amendment, section read as follows: “There is authorized to be appropriated to the Secretary of State $13,700,000 for the fiscal year 1988 and $15,000,000 for the fiscal year 1989 for grants to the Asia Foundation pursuant to this subchapter.”
 
-1987—Pub. L. 100–204 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to the Secretary of State $10,500,000 for each of the fiscal years 1986 and 1987 for grants to The Asia Foundation pursuant to this subchapter.”
+<b>1987</b>—Pub. L. 100–204 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to the Secretary of State $10,500,000 for each of the fiscal years 1986 and 1987 for grants to The Asia Foundation pursuant to this subchapter.”
 
-1985—Pub. L. 99–93 amended section generally, substituting “$10,500,000 for each of the fiscal years 1986 and 1987” for “$5,000,000 for the fiscal year 1983, $10,000,000 for the fiscal year 1984, and $10,000,000 for the fiscal year 1985”.
+<b>1985</b>—Pub. L. 99–93 amended section generally, substituting “$10,500,000 for each of the fiscal years 1986 and 1987” for “$5,000,000 for the fiscal year 1983, $10,000,000 for the fiscal year 1984, and $10,000,000 for the fiscal year 1985”.
 

@@ -48,7 +48,7 @@ A prior section 2505 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-1988—Subsec. (b)(1), (2). Pub. L. 100–690 substituted “make payments” for “payments”.
+<b>1988</b>—Subsec. (b)(1), (2). Pub. L. 100–690 substituted “make payments” for “payments”.
 
 #### Effective Date of 1988 Amendment
 

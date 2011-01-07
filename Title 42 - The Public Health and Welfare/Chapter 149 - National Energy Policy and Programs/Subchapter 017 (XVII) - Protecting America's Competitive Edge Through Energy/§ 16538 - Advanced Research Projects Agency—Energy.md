@@ -14,7 +14,7 @@ In this section:
 
 #### (3) Fund
 
-&emsp;The term “Fund” means the Energy Transformation Acceleration Fund established under subsection (m)(1).
+&emsp;The term “Fund” means the Energy Transformation Acceleration Fund established under subsection (n)(1).
 
 #### (b) Establishment
 
@@ -40,7 +40,7 @@ There is established the Advanced Research Projects Agency—Energy within the D
 
 &emsp;ARPA-E shall achieve the goals established under paragraph (1) through energy technology projects by—
 
-&emsp;&emsp;(A) identifying and promoting revolutionary advances in fundamental sciences;
+&emsp;&emsp;(A) identifying and promoting revolutionary advances in fundamental and applied sciences;
 
 &emsp;&emsp;(B) translating scientific discoveries and cutting-edge inventions into technological innovations; and
 
@@ -78,23 +78,39 @@ The responsibilities of the Director shall include—
 
 &emsp;&emsp;(B) development of techniques, processes, and technologies, and related testing and evaluation;
 
-&emsp;&emsp;(C) research and development of manufacturing processes for novel energy technologies; and
+&emsp;&emsp;(C) research and development of advanced manufacturing process and technologies for the domestic manufacturing of novel energy technologies; and
 
-&emsp;&emsp;(D) coordination with nongovernmental entities for demonstration of technologies and research applications to facilitate technology transfer; and
+&emsp;&emsp;(D) coordination with nongovernmental entities for demonstration of technologies and research applications to facilitate technology transfer;
 
-&emsp;(4) terminating programs carried out under this section that are not achieving the goals of the programs.
+&emsp;(4) terminating programs carried out under this section that are not achieving the goals of the programs; and
 
-#### (f) Personnel
+&emsp;(5) pursuant to subsection (c)(2)(C)—
 
-#### (1) Program managers
+&emsp;&emsp;(A) ensuring that applications for funding disclose the extent of current and prior efforts, including monetary investments as appropriate, in pursuit of the technology area for which funding is being requested;
+
+&emsp;&emsp;(B) adopting measures to ensure that, in making awards, program managers adhere to the purposes of subsection (c)(2)(C); and
+
+&emsp;&emsp;(C) providing as part of the annual report required by subsection (h)(1) a summary of the instances of and reasons for ARPA–E funding projects in technology areas already being undertaken by industry.
+
+#### (f) Awards
+
+In carrying out this section, the Director may provide awards in the form of grants, contracts, cooperative agreements, cash prizes, and other transactions.
+
+#### (g) Personnel
+
+#### (1) In general
+
+&emsp;The Director shall establish and maintain within ARPA–E a staff with sufficient qualifications and expertise to enable ARPA–E to carry out the responsibilities of ARPA–E under this section in conjunction with other operations of the Department.
+
+#### (2) Program directors
 
 #### (A) In general
 
-&emsp;&emsp;The Director shall designate employees to serve as program managers for each of the programs established pursuant to the responsibilities established for ARPA-E under subsection (e).
+&emsp;&emsp;The Director shall designate employees to serve as program directors for the programs established pursuant to the responsibilities established for ARPA-E under subsection (e).
 
 #### (B) Responsibilities
 
-&emsp;&emsp;A program manager of a program shall be responsible for—
+&emsp;&emsp;A program director of a program shall be responsible for—
 
 &emsp;&emsp;&emsp;(i) establishing research and development goals for the program, including through the convening of workshops and conferring with outside experts, and publicizing the goals of the program to the public and private sectors;
 
@@ -102,7 +118,7 @@ The responsibilities of the Director shall include—
 
 &emsp;&emsp;&emsp;(iii) building research collaborations for carrying out the program;
 
-&emsp;&emsp;&emsp;(iv) selecting on the basis of merit, with advice under subsection (j) as appropriate, each of the projects to be supported under the program after considering—
+&emsp;&emsp;&emsp;(iv) selecting on the basis of merit each of the projects to be supported under the program after considering—
 
 &emsp;&emsp;&emsp;&emsp;(I) the novelty and scientific and technical merit of the proposed projects;
 
@@ -112,37 +128,49 @@ The responsibilities of the Director shall include—
 
 &emsp;&emsp;&emsp;&emsp;(IV) such other criteria as are established by the Director;
 
-&emsp;&emsp;&emsp;(v) monitoring the progress of projects supported under the program; and
+&emsp;&emsp;&emsp;(v) identifying innovative cost-sharing arrangements for ARPA–E projects, including through use of the authority provided under section 16352(b)(3) of this title;
 
-&emsp;&emsp;&emsp;(vi) recommending program restructure or termination of research partnerships or whole projects.
+&emsp;&emsp;&emsp;(vi) monitoring the progress of projects supported under the program;
+
+&emsp;&emsp;&emsp;(vii) identifying mechanisms for commercial application of successful energy technology development projects, including through establishment of partnerships between awardees and commercial entities; and
+
+&emsp;&emsp;&emsp;(viii) recommending program restructure or termination of research partnerships or whole projects.
 
 #### (C) Term
 
-&emsp;&emsp;The term of a program manager shall be 3 years and may be renewed.
+&emsp;&emsp;The term of a program manager shall be not more than 3 years and may be renewed.
 
-#### (2) Hiring and management
+#### (3) Hiring and management
 
 #### (A) In general
 
 &emsp;&emsp;The Director shall have the authority to—
 
-&emsp;&emsp;&emsp;(i) make appointments of scientific, engineering, and professional personnel without regard to the civil service laws; and
+&emsp;&emsp;&emsp;(i) make appointments of scientific, engineering, and professional personnel without regard to the civil service laws;
 
-&emsp;&emsp;&emsp;(ii) fix the compensation of such personnel at a rate to be determined by the Director.
+&emsp;&emsp;&emsp;(ii) fix the basic pay of such personnel at a rate to be determined by the Director at rates not in excess of Level II of the Executive Schedule (EX–II) without regard to the civil service laws; and
+
+&emsp;&emsp;&emsp;(iii) pay any employee appointed under this subpart <sup>1</sup> payments in addition to basic pay, except that the total amount of additional payments paid to an employee under this subpart <sup>1</sup> for any 12-month period shall not exceed the least of the following amounts:
+
+&emsp;&emsp;&emsp;&emsp;(I) $25,000.
+
+&emsp;&emsp;&emsp;&emsp;(II) The amount equal to 25 percent of the annual rate of basic pay of the employee.
+
+&emsp;&emsp;&emsp;&emsp;(III) The amount of the limitation that is applicable for a calendar year under section 5307(a)(1) of title 5.
 
 #### (B) Number
 
-&emsp;&emsp;The Director shall appoint not less than 70, and not more than 120, personnel under this section.
+&emsp;&emsp;The Director shall appoint not more than 120 personnel under this section.
 
 #### (C) Private recruiting firms
 
-&emsp;&emsp;The Secretary, or the Director serving as an agent of the Secretary, may contractwith private recruiting firms for the hiring of qualified technical staff to carry out this section.
+&emsp;&emsp;The Secretary, or the Director serving as an agent of the Secretary, may contract with private recruiting firms for the hiring of qualified technical staff to carry out this section.
 
 #### (D) Additional staff
 
 &emsp;&emsp;The Director may use all authorities in existence on August 9, 2007, that are provided to the Secretary to hire administrative, financial, and clerical staff as necessary to carry out this section.
 
-#### (g) Reports and roadmaps
+#### (h) Reports and roadmaps
 
 #### (1) Annual report
 
@@ -150,9 +178,9 @@ The responsibilities of the Director shall include—
 
 #### (2) Strategic vision roadmap
 
-&emsp;Not later than October 1, 2008, and October 1, 2011, the Director shall provide to the relevant authorizing and appropriations committees of Congress a roadmap describing the strategic vision that ARPA-E will use to guide the choices of ARPA-E for future technology investments over the following 3 fiscal years.
+&emsp;Not later than October 1, 2010, and October 1, 2013, the Director shall provide to the relevant authorizing and appropriations committees of Congress a roadmap describing the strategic vision that ARPA-E will use to guide the choices of ARPA-E for future technology investments over the following 3 fiscal years.
 
-#### (h) Coordination and nonduplication
+#### (i) Coordination and nonduplication
 
 #### (1) In general
 
@@ -162,11 +190,11 @@ The responsibilities of the Director shall include—
 
 &emsp;To the extent appropriate, the Director may coordinate technology transfer efforts with the Technology Transfer Coordinator appointed under section 16391 of this title.
 
-#### (i) Federal demonstration of technologies
+#### (j) Federal demonstration of technologies
 
-The Secretary shall make information available to purchasing and procurement programs of Federal agencies regarding the potential to demonstrate technologies resulting from activities funded through ARPA-E.
+The Director shall seek opportunities to partner with purchasing and procurement programs of Federal agencies to demonstrate energy technologies resulting from activities funded through ARPA–E.
 
-#### (j) Advice
+#### (k) Advice
 
 #### (1) Advisory committees
 
@@ -188,11 +216,11 @@ The Secretary shall make information available to purchasing and procurement pro
 
 &emsp;&emsp;(B) any professional or scientific organization with expertise in specific processes or technologies under development by ARPA-E.
 
-#### (k) ARPA-E evaluation
+#### (<i>l</i>) ARPA-E evaluation
 
 #### (1) In general
 
-&emsp;After ARPA-E has been in operation for 4 years, the Secretary shall offer to enter into a contract with the National Academy of Sciences under which the National Academy shall conduct an evaluation of how well ARPA-E is achieving the goals and mission of ARPA-E.
+&emsp;After ARPA-E has been in operation for 6 years, the Secretary shall offer to enter into a contract with the National Academy of Sciences under which the National Academy shall conduct an evaluation of how well ARPA-E is achieving the goals and mission of ARPA-E.
 
 #### (2) Inclusions
 
@@ -200,13 +228,13 @@ The Secretary shall make information available to purchasing and procurement pro
 
 &emsp;&emsp;(A) the recommendation of the National Academy of Sciences on whether ARPA-E should be continued or terminated; and
 
-&emsp;&emsp;(B) a description of lessons learned from operation of ARPA-E.
+&emsp;&emsp;(B) a description of lessons learned from operation of ARPA-E, and the manner in which those lessons may apply to the operation of other programs of the Department.
 
 #### (3) Availability
 
 &emsp;On completion of the evaluation, the evaluation shall be made available to Congress and the public.
 
-#### (<i>l</i>) Existing authorities
+#### (m) Existing authorities
 
 The authorities granted by this section are—
 
@@ -214,7 +242,7 @@ The authorities granted by this section are—
 
 &emsp;(2) are not intended to supersede or modify any existing authorities.
 
-#### (m) Funding
+#### (n) Funding
 
 #### (1) Fund
 
@@ -222,11 +250,17 @@ The authorities granted by this section are—
 
 #### (2) Authorization of appropriations
 
-&emsp;Subject to paragraphs (4) and (5), there are authorized to be appropriated to the Director for deposit in the Fund, without fiscal year limitation—
+&emsp;Subject to paragraphs (4) and (5),<sup>2</sup> there are authorized to be appropriated to the Director for deposit in the Fund, without fiscal year limitation—
 
-&emsp;&emsp;(A) $300,000,000 for fiscal year 2008; and
+&emsp;&emsp;(A) $300,000,000 for fiscal year 2008;
 
-&emsp;&emsp;(B) such sums as are necessary for each of fiscal years 2009 and 2010.
+&emsp;&emsp;(B) such sums as are necessary for each of fiscal years 2009 and 2010;
+
+&emsp;&emsp;(C) $300,000,000 for fiscal year 2011;
+
+&emsp;&emsp;(D) $306,000,000 for fiscal year 2012; and
+
+&emsp;&emsp;(E) $312,000,000 for fiscal year 2013.
 
 #### (3) Separate budget and appropriation
 
@@ -238,19 +272,85 @@ The authorities granted by this section are—
 
 &emsp;&emsp;Appropriations to the Fund shall be separate and distinct from the rest of the budget for the Department.
 
-#### (4) Limitation
-
-&emsp;No amounts may be appropriated for ARPA-E for fiscal year 2008 unless the amount appropriated for the activities of the Office of Science of the Department for fiscal year 2008 exceeds the amount appropriated for the Office for fiscal year 2007, as adjusted for inflation in accordance with the Consumer Price Index published by the Bureau of Labor Statistics of the Department of Labor.
-
-#### (5) Allocation
+#### (4) Allocation
 
 &emsp;Of the amounts appropriated for a fiscal year under paragraph (2)—
 
 &emsp;&emsp;(A) not more than 50 percent of the amount shall be used to carry out subsection (e)(3)(D);
 
-&emsp;&emsp;(B) at least 2.5 percent of the amount shall be used for technology transfer and outreach activities; and
+&emsp;&emsp;(B) at least 5 percent of the amount shall be used for technology transfer and outreach activities, consistent with the goal described in subsection (c)(2)(D) and within the responsibilities of program directors described in subsection (g)(2)(B)(vii); and
 
 &emsp;&emsp;(C) no funds may be used for construction of new buildings or facilities during the 5-year period beginning on August 9, 2007.
 
-(Pub. L. 110–69, title V, §5012, Aug. 9, 2007, 121 Stat. 621.)
+(Pub. L. 110–69, title V, §5012, Aug. 9, 2007, 121 Stat. 621; Pub. L. 111–358, title IX, §904, Jan. 4, 2011, 124 Stat. 4045.)
+
+#### References in Text
+
+Level II of the Executive Schedule, referred to in subsec. (g)(3)(A)(ii), is set out in section 5313 of Title 5, Government Organization and Employees.
+
+Par. (5), referred to in subsec. (n)(2), was redesignated par. (4) of this section and former par. (4) was struck out by Pub. L. 111–358, title IX, §904(10)(B), (C), Jan. 4, 2011, 124 Stat. 4048.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (a)(3). Pub. L. 111–358, §904(1), substituted “subsection (n)(1)” for “subsection (m)(1)”.
+
+Subsec. (c)(2)(A). Pub. L. 111–358, §904(2), inserted “and applied” after “advances in fundamental”.
+
+Subsec. (e)(3)(C). Pub. L. 111–358, §904(3)(A)(i), added subpar. (C) and struck out former subpar. (C) which read as follows: “research and development of manufacturing processes for novel energy technologies; and”.
+
+Subsec. (e)(5). Pub. L. 111–358, §904(3)(A)(ii)–(C), added par. (5).
+
+Subsec. (f). Pub. L. 111–358, §904(5), added subsec. (f). Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 111–358, §904(4), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+
+Subsec. (g)(1). Pub. L. 111–358, §904(6)(B), added par. (1). Former par. (1) redesignated (2).
+
+Subsec. (g)(2). Pub. L. 111–358, §904(6)(A),(C)(i), redesignated par. (1) as (2) and substituted “Program directors” for “Program managers” in heading.
+
+Subsec. (g)(2)(A). Pub. L. 111–358, §904(6)(C)(ii), substituted “program directors for” for “program managers for each of”.
+
+Subsec. (g)(2)(B). Pub. L. 111–358, §904(6)(C)(iii)(I), substituted “program director” for “program manager” in introductory provisions.
+
+Subsec. (g)(2)(B)(iv). Pub. L. 111–358, §904(6)(C)(iii)(II), struck out “, with advice under subsection (j) as appropriate,” after “basis of merit” in introductory provisions.
+
+Subsec. (g)(2)(B)(v) to (viii). Pub. L. 111–358, §904(6)(C)(iii)(III)–(VI), added cls. (v) and (vii) and redesignated former cls. (v) and (vi) as (vi) and (viii), respectively.
+
+Subsec. (g)(2)(C). Pub. L. 111–358, §904(6)(C)(iv), inserted “not more than” after “shall be”.
+
+Subsec. (g)(3). Pub. L. 111–358, §904(6)(A), redesignated par. (2) as (3).
+
+Subsec. (g)(3)(A)(ii), (iii). Pub. L. 111–358, §904(6)(D)(i), added cls. (ii) and (iii) and struck out former cl. (ii) which read as follows: “fix the compensation of such personnel at a rate to be determined by the Director.”
+
+Subsec. (g)(3)(B). Pub. L. 111–358, §904(6)(D)(ii), substituted “not more than 120” for “not less than 70, and not more than 120,”.
+
+Subsec. (h). Pub. L. 111–358, §904(4), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+
+Subsec. (h)(2). Pub. L. 111–358, §904(7), substituted “2010” for “2008” and “2013” for “2011”.
+
+Subsec. (i). Pub. L. 111–358, §904(4), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
+
+Subsec. (j). Pub. L. 111–358, §904(8), added subsec. (j) and struck out former subsec. (j). Prior to amendment, text read as follows: “The Secretary shall make information available to purchasing and procurement programs of Federal agencies regarding the potential to demonstrate technologies resulting from activities funded through ARPA-E.”
+
+Pub. L. 111–358, §904(4), redesignated subsec. (i) as (j). Former subsec. (j) redesignated (k).
+
+Subsecs. (k), (<i>l</i>). Pub. L. 111–358, §904(4), redesignated subsecs. (j) and (k) as (k) and (<i>l</i>), respectively. Former subsec. (<i>l</i>) redesignated (m).
+
+Subsec. (<i>l</i>)(1). Pub. L. 111–358, §904(9)(A), substituted “6 years” for “4 years”.
+
+Subsec. (<i>l</i>)(2)(B). Pub. L. 111–358, §904(9)(B), inserted “, and the manner in which those lessons may apply to the operation of other programs of the Department” after “ARPA-E”.
+
+Subsecs. (m), (n). Pub. L. 111–358, §904(4), redesignated subsecs. (<i>l</i>) and (m) as (m) and (n), respectively.
+
+Subsec. (n)(2)(C) to (E). Pub. L. 111–358, §904(10)(A), added subpars. (C) to (E).
+
+Subsec. (n)(4). Pub. L. 111–358, §904(10)(B), (C), redesignated par. (5) as (4) and struck out former par. (4). Prior to amendment, text read as follows: “No amounts may be appropriated for ARPA-E for fiscal year 2008 unless the amount appropriated for the activities of the Office of Science of the Department for fiscal year 2008 exceeds the amount appropriated for the Office for fiscal year 2007, as adjusted for inflation in accordance with the Consumer Price Index published by the Bureau of Labor Statistics of the Department of Labor.”
+
+Subsec. (n)(4)(B). Pub. L. 111–358, §904(10)(D), substituted “5 percent” for “2.5 percent” and inserted “, consistent with the goal described in subsection (c)(2)(D) and within the responsibilities of program directors described in subsection (g)(2)(B)(vii)” after “outreach activities”.
+
+Subsec. (n)(5). Pub. L. 111–358, §904(10)(C), redesignated par. (5) as (4).
+
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

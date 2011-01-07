@@ -52,7 +52,7 @@ This new section is declaratory of existing law as affirmed by the Supreme Court
 
 Senate amendment to this section, Senate Report No. 1559, amendment No. 47, has three declared purposes, set forth as follows:
 
-“The first is to eliminate from the prohibition of the section applications in behalf of prisoners in custody under authority of a State officer but whose custody has not been directed by the judgment of a State court. If the section were applied to applications by persons detained solely under authority of a State officer itwould unduly hamper Federal courts in the protection of Federal officers prosecuted for acts committed in the course of official duty.
+“The first is to eliminate from the prohibition of the section applications in behalf of prisoners in custody under authority of a State officer but whose custody has not been directed by the judgment of a State court. If the section were applied to applications by persons detained solely under authority of a State officer it would unduly hamper Federal courts in the protection of Federal officers prosecuted for acts committed in the course of official duty.
 
 “The second purpose is to eliminate, as a ground of Federal jurisdiction to review by habeas corpus judgments of State courts, the proposition that the State court has denied a prisoner a ‘fair adjudication of the legality of his detention under the Constitution and laws of the United States.’ The Judicial Conference believes that this would be an undesirable ground for Federal jurisdiction in addition to exhaustion of State remedies or lack of adequate remedy in the State courts because it would permit proceedings in the Federal court on this ground before the petitioner had exhausted his State remedies. This ground would, of course, always be open to a petitioner to assert in the Federal court after he had exhausted his State remedies or if he had no adequate State remedy.
 
@@ -64,7 +64,7 @@ Section 408 of the Controlled Substances Act, referred to in subsec. (h), is cla
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–132, §104(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “An application for a writ of habeas corpus in behalf of a person in custody pursuant to the judgment of a State court shall not be granted unless it appears that the applicant has exhausted the remedies available in the courts of the State, or that there is either an absence of available State corrective process or the existence of circumstances rendering such process ineffective to protect the rights of the prisoner.”
+<b>1996</b>—Subsec. (b). Pub. L. 104–132, §104(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “An application for a writ of habeas corpus in behalf of a person in custody pursuant to the judgment of a State court shall not be granted unless it appears that the applicant has exhausted the remedies available in the courts of the State, or that there is either an absence of available State corrective process or the existence of circumstances rendering such process ineffective to protect the rights of the prisoner.”
 
 Subsec. (d). Pub. L. 104–132, §104(3), added subsec. (d). Former subsec. (d) redesignated (e).
 
@@ -76,7 +76,7 @@ Subsecs. (f), (g). Pub. L. 104–132, §104(2), redesignated subsecs. (e) and (f
 
 Subsecs. (h), (i). Pub. L. 104–132, §104(5), added subsecs. (h) and (i).
 
-1966—Pub. L. 89–711 substituted “Federal courts” for “State Courts” in section catchline, added subsec. (a), designated existing paragraphs as subsecs. (b) and (c), and added subsecs. (d) to (f).
+<b>1966</b>—Pub. L. 89–711 substituted “Federal courts” for “State Courts” in section catchline, added subsec. (a),designated existing paragraphs as subsecs. (b) and (c), and added subsecs. (d) to (f).
 
 #### Approval and Effective Date of Rules Governing Section 2254 Cases and Section 2255 Proceedings for United States District Courts
 
@@ -88,7 +88,7 @@ Rules and forms governing proceedings under sections 2254 and 2255 of this title
 
 ### <b>RULES GOVERNING SECTION 2254 CASES IN THE UNITED STATES DISTRICT COURTS</b>
 
-#### (<i>Effective February 1, 1977, as amended to February 1, 2010)</i>
+#### (<i>Effective Feb. 1, 1977, as amended to Jan. 7, 2011)</i>
 
 Rule
 
@@ -238,7 +238,7 @@ Standard Form. The petition must substantially follow either the form appended t
 
 (e)
 
-Separate Petitions for Judgments of Separate Courts. A petitioner who seeks relieffrom judgments of more than one state court must file a separate petition covering the judgment or judgments of each court.
+Separate Petitions for Judgments of Separate Courts. A petitioner who seeks relief from judgments of more than one state court must file a separate petition covering the judgment or judgments of each court.
 
 (As amended Pub. L. 94–426, §2(1), (2), Sept. 28, 1976, 90 Stat. 1334; Apr. 28, 1982, eff. Aug. 1, 1982; Apr. 26, 2004, eff. Dec. 1, 2004.)
 
@@ -294,7 +294,7 @@ Both subdivision (c) and the annexed form require a legibly handwritten or typew
 
 Subdivision (d) provides that a single petition may assert a claim only against the judgment or judgments of a single state court (<i>i.e</i>., a court of the same county or judicial district or circuit). This permits, but does not require, an attack in a single petition on judgments based upon separate indictments or on separate counts even though sentences were imposed on separate days by the same court. A claim against a judgment of a court of a different political subdivision must be raised by means of a separate petition.
 
-Subdivision (e) allows the clerk to return an insufficient petition to the petitioner, and it must be returned if the clerk is so directed by a judge of the court. Any failure to comply with the requirements of rule 2 or 3 is grounds for insufficiency. In situations where there may be arguable noncompliance with another rule, such as rule 9, the judge, not the clerk, must make the decision. If the petition is returned it must be accompanied by a statement of the reason for its return. No petitioner should be left to speculate as to why or in what manner his petition failed to conform to these rules.
+Subdivision (e) allows the clerk to return an insufficient petition to the petitioner, and it must be returned if the clerk is so directed by a judge of the court. Any failure to comply with the requirements of rule 2 or 3 is grounds for insufficiency. In situations where there may be arguable noncompliance with another rule, such as rule 9, the judge, not the clerk, must make the decision. If the petition is returned it must be accompanied by a statement of the reason for its return. No petitioner should be left to speculate as towhy or in what manner his petition failed to conform to these rules.
 
 Subdivision (e) also provides that the clerk shall retain one copy of the insufficient petition. If the prisoner files another petition, the clerk will be in a better position to determine the sufficiency of the new petition. If the new petition is insufficient, comparison with the prior petition may indicate whether the prisoner has failed to understand the clerk's prior explanation for its insufficiency, so that the clerk can make another, hopefully successful, attempt at transmitting this information to the petitioner. If the petitioner insists that the original petition was in compliance with the rules, a copy of the original petition is available for the consideration of the judge. It is probably better practice to make a photocopy of a petition which can be corrected by the petitioner, thus saving the petitioner the task of completing an additional copy.
 
@@ -312,13 +312,13 @@ The language in new Rule 2(d) has been changed to reflect that a petitioner must
 
 Current Rule 2(e), which provided for returning an insufficient petition, has been deleted. The Committee believed that the approach in Federal Rule of Civil Procedure 5(e) was more appropriate for dealing with petitions that do not conform to the form requirements of the rule. That Rule provides that the clerk may not refuse to accept a filing solely for the reason that it fails to comply with these rules or local rules. Before the adoption of a one-year statute of limitations in the Antiterrorism and Effective Death Penalty Act of 1996, 110 Stat. 1214, the petitioner suffered no penalty, other than delay, if the petition was deemed insufficient. Now that a one-year statute of limitations applies to petitions filed under §2254, <i>see</i> 28 U.S.C. §2244(d)(1), the court's dismissal of a petition because it is not in proper form may pose a significant penalty for a petitioner, who may not be able to file another petition within the one-year limitations period. Now, under revised Rule 3(b), the clerk is required to file a petition, even though it may otherwise fail to comply with the provisions in revised Rule 2(c). The Committee believed that the better procedure was to accept the defective petition and require the petitioner to submit a corrected petition that conforms to Rule 2(c).
 
-<i>Changes Made After Publication and Comments</i>. The Committee changed Rule 2(c)(2) to read “state thefacts” rather then \[sic\] “briefly summarize the facts.” As one commentator noted, the current language may actually mislead the petitioner and is also redundant. The Committee modified Rule 2(c)(5) to emphasize that any person, other than the petitioner, who signs the petition must be authorized to do so; the revised rule now specifically cites §2242. The Note was changed to reflect that point.
+<i>Changes Made After Publication and Comments</i>. The Committee changed Rule 2(c)(2) to read “state the facts” rather then \[sic\] “briefly summarize the facts.” As one commentator noted, the current language may actually mislead the petitioner and is also redundant. The Committee modified Rule 2(c)(5) to emphasize that any person, other than the petitioner, who signs the petition must be authorized to do so; the revised rule now specifically cites §2242. The Note was changed to reflect that point.
 
 Rule 2(c)(4) was modified to account for those cases where the petitioner prints the petition on a computer word-processing program.
 
 #### Amendments by Public Law
 
-1976—Subd. (c). Pub. L. 94–426, §2(1), inserted “substantially” after “The petition shall be in”, and struck out requirement that the petition follow the prescribed form.
+<b>1976</b>—Subd. (c). Pub. L. 94–426, §2(1), inserted “substantially” after “The petition shall be in”, and struck out requirement that the petition follow the prescribed form.
 
 Subd. (e). Pub. L. 94–426, §2(2), inserted “substantially” after “district court does not”, and struck out provision which permitted the clerk to return a petition for noncompliance without a judge so directing.
 
@@ -348,7 +348,7 @@ Inmate Filing. A paper filed by an inmate confined in an institution is timely i
 
 #### Advisory Committee Note
 
-Rule 3 sets out the procedures to be followed by the petitioner and the court in filing the petition. Some of its provisions are currently dealt with by local rule or practice, while others are innovations. Subdivision (a) specifies the petitioner's responsibilities. It requires that the petition, which must be accompanied by two conformed copies thereof, be filed in the office of the clerk of the district court. The petition must be accompanied by the filing fee prescribed by law (presently $5; see 28 U.S.C. §1914(a)), unless leave to prosecute the petition in forma pauperis is applied for and granted. In the event the petitioner desires to prosecute the petition in forma pauperis, he must file the affidavit required by 28 U.S.C. §1915, together with a certificate showing the amount of funds in his institutional account.
+Rule 3 sets out the procedures to be followed by the petitioner and the court in filing the petition. Some of its provisions are currently dealt with by local rule or practice, while others are innovations. Subdivision (a) specifies the petitioner's responsibilities. It requiresthat the petition, which must be accompanied by two conformed copies thereof, be filed in the office of the clerk of the district court. The petition must be accompanied by the filing fee prescribed by law (presently $5; see 28 U.S.C. §1914(a)), unless leave to prosecute the petition in forma pauperis is applied for and granted. In the event the petitioner desires to prosecute the petition in forma pauperis, he must file the affidavit required by 28 U.S.C. §1915, together with a certificate showing the amount of funds in his institutional account.
 
 Requiring that the petition be filed in the office of the clerk of the district court provides an efficient and uniform system of filing habeas corpus petitions.
 
@@ -462,7 +462,7 @@ Rule 5 (and the general procedure set up by this entire set of rules) does not c
 
 #### 186 F.2d at 342, n. 5
 
-In actual practice, the traverse tends to be a mere pro forma refutation of the return, serving little if anyexpository function. In the interests of a more streamlined and manageable habeas corpus procedure, it is not required except in those instances where it will serve a truly useful purpose. Also, under rule 11 the court is given the discretion to incorporate Federal Rules of Civil Procedure when appropriate, so civil rule 15(a) may be used to allow the petitioner to amend his petition when the court feels this is called for by the contents of the answer.
+In actual practice, the traverse tends to be a mere pro forma refutation of the return, serving little if any expository function. In the interests of a more streamlined and manageable habeas corpus procedure, it is not required except in those instances where it will serve a truly useful purpose. Also, under rule 11 the court is given the discretion to incorporate Federal Rules of Civil Procedure when appropriate, so civil rule 15(a) may be used to allow the petitioner to amend his petition when the court feels this is called for by the contents of the answer.
 
 Rule 5 does not indicate who the answer is to be served upon, but it necessarily implies that it will be mailed to the petitioner (or to his attorney if he has one). The number of copies of the answer required is left to the court's discretion. Although the rule requires only a copy of petitioner's brief on appeal, respondent is free also to file a copy of respondent's brief. In practice, courts have found it helpful to have a copy of respondent's brief.
 
@@ -476,7 +476,7 @@ Rule 5(b) has been amended to require that the answer address not only failure t
 
 Revised Rule 5(d) includes new material. First, Rule 5(d)(2), requires a respondent—assuming an answer is filed—to provide the court with a copy of any brief submitted by the prosecution to the appellate court. And Rule 5(d)(3) now provides that the respondent also file copies of any opinions and dispositive orders of the appellate court concerning the conviction or sentence. These provisions are intended to ensure that the court is provided with additional information that may assist it in resolving the issues raised, or not raised, in the petition.
 
-Finally, revised Rule 5(e) adopts the practice in some jurisdictions of giving the petitioner an opportunity to file a reply to the respondent's answer. Rather than using terms such as “traverse,” <i>see</i> 28 U.S.C. §2248, to identify the petitioner's response to the answer, the rule uses the more general term “reply.” The Rule prescribes that the court set the time for such responses and in lieu of setting specific time limits in each case, the court may decide to include such time limits in its local rules.
+Finally, revised Rule 5(e) adopts the practice in some jurisdictions of giving the petitioner an opportunity to file a reply to the respondent's answer. Rather than using terms such as “traverse,” <i>see</i> 28 U.S.C. §2248, to identify the petitioner's response to the answer, the rule uses the more general term “reply.” The Rule prescribes that the court set the time for such responsesand in lieu of setting specific time limits in each case, the court may decide to include such time limits in its local rules.
 
 <i>Changes Made After Publication and Comments</i>. Rule 5(a) was modified to read that the government is not required to “respond” to the petition unless the court so orders; the term “respond” was used because it leaves open the possibility that the government's first response (as it is in some districts) is in the form of a pre-answer motion to dismiss the petition. The Note has been changed to reflect the fact that although the rule itself does not reflect that particular motion, it is used in some districts and refers the reader to Rule 4.
 
@@ -638,7 +638,7 @@ In situations in which an evidentiary hearing is not mandatory, the judge may no
 
 #### 372 U.S. at 318
 
-If the judge decides that an evidentiary hearing is neither required nor desirable, he shall make such a disposition of the petition “as justice shall require.” Most habeas petitions are dismissed before the prehearing conference stage (see Director of the Administrative Office of the United States Courts, Annual Report 245a–245c (table C4) (1970)) and of those not dismissed, the majority raise factual issues that necessitate an evidentiary hearing. If no hearing is required, most petitions are dismissed, but in unusual cases the court may grant the relief sought without a hearing. This includes immediate release from custody or nullification of a judgment under which the sentence is to be served in the future.
+If the judge decides that an evidentiary hearing is neither required nor desirable, he shall make such a disposition of the petition “as justice shall require.” Most habeas petitions are dismissed before the prehearing conference stage (see Director of the Administrative Office of the United States Courts, Annual Report245a–245c (table C4) (1970)) and of those not dismissed, the majority raise factual issues that necessitate an evidentiary hearing. If no hearing is required, most petitions are dismissed, but in unusual cases the court may grant the relief sought without a hearing. This includes immediate release from custody or nullification of a judgment under which the sentence is to be served in the future.
 
 Subdivision (b) provides that a magistrate, when so empowered by rule of the district court, may recommend to the district judge that an evidentiary hearing be held or that the petition be dismissed, provided he gives the district judge a sufficiently detailed description of the facts so that the judge may decide whether or not to hold an evidentiary hearing. This provision is not inconsistent with the holding in <i>Wingo v. Wedding</i>, 418 U.S. 461 (1974), that the Federal Magistrates Act did not change the requirement of the habeas corpus statute that federal judges personally conduct habeas evidentiary hearings, and that consequently a local district court rule was invalid insofar as it authorized a magistrate to hold such hearings. 28 U.S.C. §636(b) provides that a district court may by rule authorize any magistrate to perform certain additional duties, including preliminary review of applications for posttrial relief made by individuals convicted of criminal offenses, and submission of a report and recommendations to facilitate the decision of the district judge having jurisdiction over the case as to whether there should be a hearing.
 
@@ -686,7 +686,7 @@ The time set in the former rule at 10 days has been revised to 14 days. See the 
 
 #### Amendments by Public Law
 
-1976—Subd. (b). Pub. L. 94–577, §2(a)(1), substituted provisions which authorized magistrates, when designated to do so in accordance with section 636(b) of this title, to conduct hearings, including evidentiary hearings, on the petition and to submit to a judge of the court proposed findings of fact and recommendations for disposition, which directed the magistrate to file proposed findings and recommendations with the court with copies furnished to all parties, which allowed parties thus served 10 days to file written objections thereto, and which directed a judge of the court to make de novo determinations of the objected-to portions and to accept, reject, or modify the findings or recommendations for provisions under which the magistrate had been empowered only to recommend to the district judge that an evidentiary hearing be held or that the petition be dismissed.
+<b>1976</b>—Subd. (b). Pub. L. 94–577, §2(a)(1), substituted provisions which authorized magistrates, when designated to do so in accordance with section 636(b) of this title, to conduct hearings, including evidentiary hearings, on the petition and to submit to a judge of the court proposed findings of fact and recommendations for disposition, which directed the magistrate to file proposed findings and recommendations with the court with copies furnished to all parties, which allowed parties thus served 10 days to file written objections thereto, and which directed a judge of the court to make de novo determinations of the objected-to portions and to accept, reject, or modify the findings or recommendations for provisions under which the magistrate had been empowered only to recommend to the district judge that an evidentiary hearing be held or that the petition be dismissed.
 
 Subd. (c). Pub. L. 94–577, §2(b)(1), substituted “and the hearing shall be conducted” for “and shall conduct the hearing”.
 
@@ -710,7 +710,7 @@ Subdivision (a) provides that a petition attacking the judgment of a state court
 
 The assertion of stale claims is a problem which is not likely to decrease in frequency. Following the decisions in <i>Jones v. Cunningham</i>, 371 U.S. 236 (1963), and <i>Benson v. California</i>, 328 F.2d 159 (9th Cir. 1964), the concept of custody expanded greatly, lengthening the time period during which a habeas corpus petition may be filed. The petitioner who is not unconditionally discharged may be on parole or probation for many years. He may at some date, perhaps ten or fifteen years after conviction, decide to challenge the state court judgment. The grounds most often troublesome to the courts are ineffective counsel, denial of right of appeal, plea of guilty unlawfully induced, use of a coerced confession, and illegally constituted jury. The latter four grounds are often interlocked with the allegation of ineffective counsel. When they are asserted after the passage of many years, both the attorney for the defendant and the state have difficulty in ascertaining what the facts are. It often develops that the defense attorney has little or no recollection as to what took place and that many of the participants in the trial are dead or their whereabouts unknown. The court reporter's notes may have been lost or destroyed, thus eliminating any exact record of what transpired. If the case was decided on a guilty plea, even if the record is intact, it may not satisfactorily reveal the extent of the defense attorney's efforts in behalf of the petitioner. As a consequence, there is obvious difficulty in investigating petitioner's allegations.
 
-The interest of both the petitioner and the government can best be served if claims are raised while the evidence is still fresh. The American Bar Associationhas recognized the interest of the state in protecting itself against stale claims by limiting the right to raise such claims after completion of service of a sentence imposed pursuant to a challenged judgment. See ABA Standards Relating to Post-Conviction Remedies §2.4 (c), p. 45 (Approved Draft, 1968). Subdivision (a) is not limited to those who have completed their sentence. Its reach is broader, extending to all instances where delay by the petitioner has prejudiced the state, subject to the qualifications and conditions contained in the subdivision.
+The interest of both the petitioner and the government can best be served if claims are raised while the evidence is still fresh. The American Bar Association has recognized the interest of the state in protecting itself against stale claims by limiting the right to raise such claims after completion of service of a sentence imposed pursuant to a challenged judgment. See ABA Standards Relating to Post-Conviction Remedies §2.4 (c), p. 45 (Approved Draft, 1968). Subdivision (a) is not limited to those who have completed their sentence. Its reach is broader, extending to all instances where delay by the petitioner has prejudiced the state, subject to the qualifications and conditions contained in the subdivision.
 
 In <i>McMann v. Richardson</i>, 397 U.S. 759 (1970), the court made reference to the issue of the stale claim:
 
@@ -732,7 +732,7 @@ Finally, the doctrine of laches has been applied with reference to another postc
 
 The standard used for determining if the petitioner shall be barred from asserting his claim is consistent with that used in laches provisions generally. The petitioner is held to a standard of reasonable diligence. Any inference or presumption arising by reason of the failure to attack collaterally a conviction may be disregarded where (1) there has been a change of law or fact (new evidence) or (2) where the court, in the interest of justice, feels that the collateral attack should be entertained and the prisoner makes a proper showing as to why he has not asserted a particular ground for relief.
 
-Subdivision (a) establishes the presumption that the passage of more than five years from the time of the judgment of conviction to the time of filing a habeas petition is prejudicial to the state. “Presumption” has the meaning given it by Fed.R.Evid. 301. The prisoner has “the burden of going forward with evidence to rebut or meet the presumption” that the state has not been prejudiced by the passage of a substantial period of time. This does not impose too heavy a burden on the petitioner. He usually knows what persons are important to the issue of whether the state has been prejudiced. Rule 6 can be used by the court to allow petitioner liberal discovery to learn whether witnesses have died or whether other circumstances prejudicial to the state have occurred. Even if the petitioner should fail to overcome the presumption of prejudice to the state, he is not automatically barred from asserting his claim. As discussed previously, he may proceed if he neither knew nor, by the exercise of reasonable diligence, could have known of the grounds for relief.
+Subdivision (a) establishes the presumption that the passage of more than five years from the time of thejudgment of conviction to the time of filing a habeas petition is prejudicial to the state. “Presumption” has the meaning given it by Fed.R.Evid. 301. The prisoner has “the burden of going forward with evidence to rebut or meet the presumption” that the state has not been prejudiced by the passage of a substantial period of time. This does not impose too heavy a burden on the petitioner. He usually knows what persons are important to the issue of whether the state has been prejudiced. Rule 6 can be used by the court to allow petitioner liberal discovery to learn whether witnesses have died or whether other circumstances prejudicial to the state have occurred. Even if the petitioner should fail to overcome the presumption of prejudice to the state, he is not automatically barred from asserting his claim. As discussed previously, he may proceed if he neither knew nor, by the exercise of reasonable diligence, could have known of the grounds for relief.
 
 The presumption of prejudice does not come into play if the time lag is not more than five years.
 
@@ -764,7 +764,7 @@ With reference to a successive application asserting a new ground or one not pre
 
 The burden is on the government to plead abuse of the writ. See <i>Sanders v. United States</i>, 373 U.S. 1, 10 (1963); <i>Dixon v. Jacobs</i>, 427 F.2d 589, 596 (D.C.Cir. 1970); cf. <i>Johnson v. Copinger</i>, 420 F.2d 395 (4th Cir. 1969). Once the government has done this, the petitioner has the burden of proving that he has not abused the writ. In <i>Price v. Johnston</i>, 334 U.S. 266, 292 (1948), the court said:
 
-> &emsp;\[I\]f the Government chooses \* \* \* to claim that the prisoner has abused the writ of <i>habeas corpus</i>, it restswith the Government to make that claim with clarity and particularity in its return to the order to show cause. That is not an intolerable burden. The Government is usually well acquainted with the facts that are necessary to make such a claim. Once a particular abuse has been alleged, the prisoner has the burden of answering that allegation and of proving that he has not abused the writ.
+> &emsp;\[I\]f the Government chooses \* \* \* to claim that the prisoner has abused the writ of <i>habeas corpus</i>, it rests with the Government to make that claim with clarity and particularity in its return to the order to show cause. That is not an intolerable burden. The Government is usually well acquainted with the facts that are necessary to make such a claim. Once a particular abuse has been alleged, the prisoner has the burden of answering that allegation and of proving that he has not abused the writ.
 
 Subdivision (b) is consistent with the important and well established purpose of habeas corpus. It does not eliminate a remedy to which the petitioner is rightfully entitled. However, in <i>Sanders</i>, the court pointed out:
 
@@ -782,7 +782,7 @@ Some commentators contend that the problem of abuse of the writ of habeas corpus
 
 #### 83 Harv.L.Rev. at 1153–1154
 
-> See also ABA Standards Relating to Post-Conviction Remedies §6.2, commentary at 92 (Approved Draft, 1968), which states: “The occasional, highly litigious prisoner stands out as the rarest exception.” While no recent systematic study of repetitious applications exists, there is no reason to believe that the problem has decreased in significance in relation to the total number of §2254 petitions filed. That number has increased from 584 in 1949 to 12,088 in 1971. See Director of the Administrative Office of the United States Courts, Annual Report, table 16 (1971). It is appropriate that action be taken by rule to allow the courts to deal with this problem, whatever its specific magnitude. The bar set up by subdivision (b) is not one of rigid application, but rather is within the discretion of the courts on a case-by-case basis.
+> See also ABA Standards Relating to Post-Conviction Remedies §6.2, commentary at 92 (Approved Draft, 1968), which states: “The occasional, highly litigious prisoner stands out as the rarest exception.” While no recent systematic study of repetitious applications exists, there is no reason to believe that the problem has decreased in significance in relation to the total number of §2254 petitions filed. That number has increased from 584 in 1949 to 12,088 in 1971. See Director of the Administrative Office of the United States Courts, Annual Report, table 16 (1971). It is appropriate that action be taken by rule to allow the courts to deal with this problem, whatever its specific magnitude. The bar setup by subdivision (b) is not one of rigid application, but rather is within the discretion of the courts on a case-by-case basis.
 
 If it appears to the court after examining the petition and answer (where appropriate) that there is a high probability that the petition will be barred under either subdivision of rule 9, the court ought to afford petitioner an opportunity to explain his apparent abuse. One way of doing this is by the use of the form annexed hereto. The use of a form will ensure a full airing of the issue so that the court is in a better position to decide whether the petition should be barred. This conforms with <i>Johnson v. Copinger</i>, 420 F.2d 395 (4th Cir. 1969), where the court stated:
 
@@ -806,7 +806,7 @@ Finally, the title of Rule 9 has been changed to reflect the fact that the only 
 
 #### Amendments by Public Law
 
-1976—Subd. (a). Pub. L. 94–426, §2(7), struck out provision which established a rebuttable presumption of prejudice to the state if the petition was filed more than five years after conviction and started the running of the five year period, where a petition challenged the validity of an action after conviction, from the time of the order of such action.
+<b>1976</b>—Subd. (a). Pub. L. 94–426, §2(7), struck out provision which established a rebuttable presumption of prejudice to the state if the petition was filed more than five years after conviction and started the running of the five year period, where a petition challenged the validity of an action after conviction, from the time of the order of such action.
 
 Subd. (b). Pub. L. 94–426, §2(8), substituted “constituted an abuse of the writ” for “is not excusable”.
 
@@ -818,7 +818,7 @@ A magistrate judge may perform the duties of a district judge under these rules,
 
 #### Advisory Committee Note
 
-Under this rule the duties imposed upon the judge of the district court by rules 2, 3, 4, 6, and 7 may be performed by a magistrate if and to the extent he is empowered to do so by a rule of the district court. However, when such duties involve the making of an order under rule 4 disposing of the petition, that order must be made by the court. The magistrate in such instancesmust submit to the court his report as to the facts and his recommendation with respect to the order.
+Under this rule the duties imposed upon the judge of the district court by rules 2, 3, 4, 6, and 7 may be performed by a magistrate if and to the extent he is empowered to do so by a rule of the district court. However, when such duties involve the making of an order under rule 4 disposing of the petition, that order must be made by the court. The magistrate in such instances must submit to the court his report as to the facts and his recommendation with respect to the order.
 
 The Federal Magistrates Act allows magistrates, when empowered by local rule, to perform certain functions in proceedings for post-trial relief. See 28 U.S.C. §636(b)(3). The performance of such functions, when authorized, is intended to “afford some degree of relief to district judges and their law clerks, who are presently burdened with burgeoning numbers of habeas corpus petitions and applications under 28 U.S.C. §2255.” Committee on the Judiciary, The Federal Magistrates Act, S.Rep. No. 371, 90th Cong., 1st sess., 26 (1967).
 
@@ -846,7 +846,7 @@ The language of Rule 10 has been amended as part of general restyling of the rul
 
 #### Amendments by Public Law
 
-1976—Pub. L. 94–426 inserted “, and to the extent the district court has established standards and criteria for the performance of such duties” after “rule of the district court”.
+<b>1976</b>—Pub. L. 94–426 inserted “, and to the extent the district court has established standards and criteria for the performance of such duties” after “rule of the district court”.
 
 ### Rule 11. Certificate of Appealability; Time to Appeal
 

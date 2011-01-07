@@ -54,7 +54,7 @@ Affordable housing activities under this subchapter are activities, in accordanc
 
 #### (B) Maximum amount
 
-&emsp;&emsp;A reserve account established under subparagraph (A) shall consist of not more than an amount equal to 1/4 of the 5-year average of the annual amount used by a recipient for administration and planning under paragraph (2).
+&emsp;&emsp;A reserve account established under subparagraph (A) shall consist of not more than an amount equal to ¼ of the 5-year average of the annual amount used by a recipient for administration and planning under paragraph (2).
 
 (Pub. L. 104–330, title II, §202, Oct. 26, 1996, 110 Stat. 4032; Pub. L. 107–292, §8, Nov. 13, 2002, 116 Stat. 2055; Pub. L. 109–58, title V, §506(b), Aug. 8, 2005, 119 Stat. 779; Pub. L. 110–411, title II, §202, Oct. 14, 2008, 122 Stat. 4325.)
 
@@ -68,7 +68,7 @@ The Indian Self-Determination and Education Assistance Act, referred to in par. 
 
 #### Amendments
 
-2008—Pub. L. 110–411, §202(1), substituted “to develop, operate, maintain, or support” for “to develop or to support” in introductory provisions.
+<b>2008</b>—Pub. L. 110–411, §202(1), substituted “to develop, operate, maintain, or support” for “to develop or to support” in introductory provisions.
 
 Par. (2). Pub. L. 110–411, §202(2), substituted “development and rehabilitation of utilities, necessary infrastructure,” for “development of utilities” and inserted “mold remediation,” after “energy efficiency,”.
 
@@ -76,9 +76,9 @@ Par. (4). Pub. L. 110–411, §202(3), inserted “the costs of operation and ma
 
 Par. (9). Pub. L. 110–411, §202(4), added par. (9).
 
-2005—Par. (2). Pub. L. 109–58, which directed amendment of section 202 of the Native American Housing and Self-Determination Act of 1996 by inserting “improvement to achieve greater energy efficiency,” after “planning,” in par. (2), was executed by making the insertion in par. (2) of this section, which is section 202 of the Native American Housing Assistance and Self-Determination Act of 1996, to reflect the probable intent of Congress.
+<b>2005</b>—Par. (2). Pub. L. 109–58, which directed amendment of section 202 of the Native American Housing and Self-Determination Act of 1996 by inserting “improvement to achieve greater energy efficiency,” after “planning,” in par. (2), was executed by making the insertion in par. (2) of this section, which is section 202 of the Native American Housing Assistance and Self-Determination Act of 1996, to reflect the probable intent of Congress.
 
-2002—Pars. (7), (8). Pub. L. 107–292 added pars. (7) and (8).
+<b>2002</b>—Pars. (7), (8). Pub. L. 107–292 added pars. (7) and (8).
 
 #### Change of Name
 

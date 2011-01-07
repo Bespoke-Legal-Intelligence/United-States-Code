@@ -18,7 +18,7 @@ In this section:
 
 &emsp;(A) owns generation facilities, markets the output of Federal generation facilities, or holds rights under one or more wholesale contracts to purchase electric energy, for the purpose of meeting a service obligation; and
 
-&emsp;(B) by reason of ownership of transmission facilities, or one or more contracts or service agreements for firm transmission service, holds firm transmission rights for delivery of the output of the generation facilities or the purchased energy to meet the service obligation.
+&emsp;(B) by reason of ownership of transmission facilities, or one or more contracts or service agreements for firm transmission service,holds firm transmission rights for delivery of the output of the generation facilities or the purchased energy to meet the service obligation.
 
 (2) Any load-serving entity described in paragraph (1) is entitled to use the firm transmission rights, or, equivalent tradable or financial transmission rights, in order to deliver the output or purchased energy, or the output of other generating facilities or purchased energy to the extent deliverable using the rights, to the extent required to meet the service obligation of the load-serving entity.
 

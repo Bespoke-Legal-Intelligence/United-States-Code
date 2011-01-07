@@ -22,7 +22,7 @@ For the purposes of this chapter, the following definitions apply:
 
 #### Amendments
 
-2000—Pub. L. 106–568 added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively.
+<b>2000</b>—Pub. L. 106–568 added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

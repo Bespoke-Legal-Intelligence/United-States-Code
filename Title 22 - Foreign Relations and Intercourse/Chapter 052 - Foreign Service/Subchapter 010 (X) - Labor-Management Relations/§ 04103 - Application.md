@@ -20,7 +20,7 @@ The President may by Executive order suspend any provision of this subchapter wi
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–277, §1422(b)(4)(C), substituted “Agency for International Development” for “United States International Development Cooperation Agency”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §1422(b)(4)(C), substituted “Agency for International Development” for “United States International Development Cooperation Agency”.
 
 Pub. L. 105–277, §1335(k)(3), substituted “Broadcasting Board of Governors” for “United States Information Agency”.
 

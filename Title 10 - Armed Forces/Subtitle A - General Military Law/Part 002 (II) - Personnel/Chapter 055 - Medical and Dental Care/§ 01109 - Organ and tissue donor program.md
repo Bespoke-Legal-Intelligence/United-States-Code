@@ -34,7 +34,7 @@ Responsibilities of the Surgeons General of the Military Departments.—The Surg
 
 #### Amendments
 
-2000—Subsec. (b). Pub. L. 106–398 struck out “(1)” before “The Secretaries” in introductory provisions.
+<b>2000</b>—Subsec. (b). Pub. L. 106–398 struck out “(1)” before “The Secretaries” in introductory provisions.
 
 #### Findings
 

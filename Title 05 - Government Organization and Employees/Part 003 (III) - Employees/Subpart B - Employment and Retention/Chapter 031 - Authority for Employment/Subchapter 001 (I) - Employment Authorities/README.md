@@ -4,6 +4,8 @@
 
 1979—Pub. L. 96–54, §2(a)(10), Aug. 14, 1979, 93 Stat. 381, added heading for subchapter I.
 
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+
 
 ---
 
@@ -22,4 +24,4 @@
 - [&sect; 03111 - Acceptance of volunteer service](%C2%A7%2003111%20-%20Acceptance%20of%20volunteer%20service.md)
 - [&sect; 03112 - Disabled veterans; noncompetitive appointment](%C2%A7%2003112%20-%20Disabled%20veterans%3B%20noncompetitive%20appointment.md)
 - [&sect; 03113 - Restriction on reemployment after conviction of certain crimes](%C2%A7%2003113%20-%20Restriction%20on%20reemployment%20after%20conviction%20of%20certain%20crimes.md)
-- [&sect; 03114 - Appointment of accountants, economists, and examiners by the Securities and Exchange Commission](%C2%A7%2003114%20-%20Appointment%20of%20accountants%2C%20economists%2C%20and%20examiners%20by%20the%20Securities%20and%20Exchange%20Commission.md)
+- [&sect; 03114 - Appointment of candidates to certain positions in the competitive service by the Securities and Exchange Commission](%C2%A7%2003114%20-%20Appointment%20of%20candidates%20to%20certain%20positions%20in%20the%20competitive%20service%20by%20the%20Securities%20and%20Exchange%20Commission.md)

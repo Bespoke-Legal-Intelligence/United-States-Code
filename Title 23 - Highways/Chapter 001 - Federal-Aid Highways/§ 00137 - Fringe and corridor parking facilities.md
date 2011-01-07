@@ -18,7 +18,7 @@
 
 (f)(1) The Secretary may approve for Federal financial assistance from funds apportioned under section 104(b)(4), projects for designating existing facilities, or for acquisition of rights of way or construction of new facilities, for use as preferential parking for carpools, provided that such facilities (A) are located outside of a central business district and within an interstate highway corridor, and (B) have as their primary purpose the reduction of vehicular traffic on the interstate highway.
 
-(2) Nothing in this subsection, or in any rule or regulation issued under this subsection, or in any agreement required by this subsection, shall prohibit (A) any State, political subdivision, or agency or instrumentality thereof, from contracting with any person to operate any parking facility designated or constructed under this subsection, or (B) any such person from so operating such facility. Any fees charged for the use of any such facility in connection with the purpose of this subsection shall not be in excess of the amount required for operation and maintenance, including compensation to any person for operating the facility.
+(2) Nothing in this subsection, or in any rule or regulation issued under this subsection, or in any agreement required by this subsection, shall prohibit (A) any State, political subdivision, or agency or instrumentality thereof, from contracting with any person to operate any parking facility designated or constructed under this subsection, or (B) any such person from so operating such facility. Any fees charged for the useof any such facility in connection with the purpose of this subsection shall not be in excess of the amount required for operation and maintenance, including compensation to any person for operating the facility.
 
 (3) For the purposes of this subsection, the terms “facilities” and “parking facilities” are synonymous and shall have the same meaning given “parking facilities” in subsection (c) of this section.
 
@@ -26,15 +26,15 @@
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–59 substituted “on a Federal-aid highway” for “on the Federal-aid urban system”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59 substituted “on a Federal-aid highway” for “on the Federal-aid urban system”.
 
-1998—Subsec. (b)(3). Pub. L. 105–178, §1212(a)(2)(A)(i), substituted “State transportation department” for “State highway department”.
+<b>1998</b>—Subsec. (b)(3). Pub. L. 105–178, §1212(a)(2)(A)(i), substituted “State transportation department” for “State highway department”.
 
 Subsec. (f)(1). Pub. L. 105–178, §1103(<i>l</i>)(3)(B), substituted “section 104(b)(4)” for “section 104(b)(5)(B) of this title”.
 
-1983—Subsec. (f). Pub. L. 97–424 added subsec. (f).
+<b>1983</b>—Subsec. (f). Pub. L. 97–424 added subsec. (f).
 
-1970—Pub. L. 91–605 substituted “Fringe and corridor parking facilities” for “Limitation on authorization of appropriations for certain purposes” in section catchline.
+<b>1970</b>—Pub. L. 91–605 substituted “Fringe and corridor parking facilities” for “Limitation on authorization of appropriations for certain purposes” in section catchline.
 
 Subsec. (a). Pub. L. 91–605 substituted provisions permitting the Secretary to approve construction of publicly owned parking facilities under the Federal-aid urban system for provisions limiting authorization of appropriations under section 131, 136, and 319(b) of this title, or any highway safety bill enacted after May 1, 1966 by preventing these sections and provisions from being construed as authority for any appropriations not specifically authorized in these sections and provisions.
 

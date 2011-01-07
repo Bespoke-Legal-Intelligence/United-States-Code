@@ -22,7 +22,7 @@ For purposes of this chapter—
 
 #### Amendments
 
-2005—Subsec. (b)(3). Pub. L. 109–2 substituted “(e)” for “(d)”.
+<b>2005</b>—Subsec. (b)(3). Pub. L. 109–2 substituted “(e)” for “(d)”.
 
 #### Effective Date of 2005 Amendment
 

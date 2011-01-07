@@ -12,5 +12,5 @@ The activities of the Foundation under this chapter may be audited by the Govern
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
+<b>2004</b>—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
 

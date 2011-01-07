@@ -32,7 +32,7 @@
 
 (1) Except as provided in paragraph (2), if an application for an insured loan under this chapter is approved by the Secretary, the Secretary shall provide the loan proceeds to the applicant not later than 15 days (or such longer period as the applicant may approve) after the application for the loan is approved by the Secretary.
 
-(2) If the Secretary is unable to provide the loan proceeds to the applicant within such 15-day period because sufficient funds are not available to the Secretary for such purpose, the Secretary shall provide the loan proceeds to the applicant as soon as practicable (but in no eventlater than 15 days unless the applicant agrees to a longer period) after sufficient funds for such purpose become available to the Secretary.
+(2) If the Secretary is unable to provide the loan proceeds to the applicant within such 15-day period because sufficient funds are not available to the Secretary for such purpose, the Secretary shall provide the loan proceeds to the applicant as soon as practicable (but in no event later than 15 days unless the applicant agrees to a longer period) after sufficient funds for such purpose become available to the Secretary.
 
 #### (c) Reconsideration of applications; time for action by Secretary
 
@@ -160,7 +160,7 @@ Subsec. (g)(1). Pub. L. 107–171, §5307, substituted “$125,000” for “$50
 
 1996—Subsec. (f)(4). Pub. L. 104–127, §637(1), inserted heading.
 
-Subsec. (f)(4)(A). Pub. L. 104–127, §637(1), designated first sentence of par. (4) as subpar. (A), inserted heading, and directed the substitution of “The Secretary shall provide a prospectus of a seasoned” for “With” and all that follows through “seasoned”, which was executed by making the substitution for all that follows through “seasoned” the first place appearing resulting in making the substitution for “With the approval of the borrower, the Secretary shall provide the prospectus of the seasoned”, to reflect the probable intent of Congress.
+Subsec. (f)(4)(A). Pub. L. 104–127, §637(1), designated first sentence of par. (4) as subpar. (A), inserted heading, and directed the substitution of “The Secretary shall provide a prospectus of a seasoned” for “With” and all that follows through “seasoned”, which was executed by making the substitution for all that followsthrough “seasoned” the first place appearing resulting in making the substitution for “With the approval of the borrower, the Secretary shall provide the prospectus of the seasoned”, to reflect the probable intent of Congress.
 
 Subsec. (f)(4)(B), (C). Pub. L. 104–127, §637(2), added subpar. (B), designated second sentence of par. (4) as subpar. (C), and inserted heading.
 

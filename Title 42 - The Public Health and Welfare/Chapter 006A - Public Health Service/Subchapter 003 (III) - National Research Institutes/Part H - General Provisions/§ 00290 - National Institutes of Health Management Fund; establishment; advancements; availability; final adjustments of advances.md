@@ -10,5 +10,5 @@ Section was enacted as a part of the Department of Health, Education, and Welfar
 
 #### Amendments
 
-1961—Pub. L. 87–290 substituted “reasonable value of the meals served” for “cost of such operation”.
+<b>1961</b>—Pub. L. 87–290 substituted “reasonable value of the meals served” for “cost of such operation”.
 

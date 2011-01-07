@@ -24,13 +24,13 @@ Any individual director, officer or employee of a person indemnified under an ag
 
 #### Amendments
 
-1988—Subsec. (c). Pub. L. 100–408 added subsec. (c).
+<b>1988</b>—Subsec. (c). Pub. L. 100–408 added subsec. (c).
 
-1980—Pub. L. 96–295 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1980</b>—Pub. L. 96–295 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1969—Pub. L. 91–161 limited application of section to instances where no criminal penalties have been provided.
+<b>1969</b>—Pub. L. 91–161 limited application of section to instances where no criminal penalties have been provided.
 
-1967—Pub. L. 90–190 substituted “(<i>o</i>)” for “(p)”.
+<b>1967</b>—Pub. L. 90–190 substituted “(<i>o</i>)” for “(p)”.
 
 #### Effective Date of 1988 Amendment
 

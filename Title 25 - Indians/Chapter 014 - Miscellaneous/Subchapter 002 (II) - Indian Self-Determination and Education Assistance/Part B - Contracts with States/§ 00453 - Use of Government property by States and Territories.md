@@ -6,5 +6,5 @@ The Secretary of the Interior, in making any contract authorized by sections 452
 
 #### Amendments
 
-1936—Act June 4, 1936, substituted “, may permit such contracting party” for “with any State or Territory, may permit such State or Territory”.
+<b>1936</b>—Act June 4, 1936, substituted “, may permit such contracting party” for “with any State or Territory, may permit such State or Territory”.
 

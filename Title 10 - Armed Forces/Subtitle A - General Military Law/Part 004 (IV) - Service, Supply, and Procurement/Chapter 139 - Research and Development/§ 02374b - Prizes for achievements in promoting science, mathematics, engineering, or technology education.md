@@ -10,7 +10,7 @@ Competition Requirements.—Each program under subsection (a) shall use a compet
 
 (c)
 
-Limitation.—For any single program under subsection (a), the total amount made availablefor award of cash prizes in a fiscal year may not exceed $1,000,000.
+Limitation.—For any single program under subsection (a), the total amount made available for award of cash prizes in a fiscal year may not exceed $1,000,000.
 
 (d)
 

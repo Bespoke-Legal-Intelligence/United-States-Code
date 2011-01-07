@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(i) except as otherwise provided in this subparagraph, the rate of tax specified in section 4081(a)(2)(A)(i) which is in effect at the time of such sale or use, and
 
-&emsp;&emsp;&emsp;(ii) in the case of liquefied natural gas, any liquid fuel (other than ethanol and methanol) derived from coal (including peat), and liquid hydrocarbons derived from biomass (as defined in section 45K(c)(3)), 24.3 cents per gallon.
+&emsp;&emsp;&emsp;(ii) in the case of liquefied natural gas, any liquid fuel (other than ethanol and methanol) derived from coal (including peat), and liquid hydrocarbons derivedfrom biomass (as defined in section 45K(c)(3)), 24.3 cents per gallon.
 
 #### (3) Compressed natural gas
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;&emsp;(i) sold by any person to an owner, lessee, or other operator of a motor vehicle or motorboat for use as a fuel in such motor vehicle or motorboat, or
 
-&emsp;&emsp;&emsp;(ii) used by any person as a fuel in a motor vehicle or motorboat unless therewas a taxable sale of such gas under clause (i).
+&emsp;&emsp;&emsp;(ii) used by any person as a fuel in a motor vehicle or motorboat unless there was a taxable sale of such gas under clause (i).
 
 > &emsp;&emsp;The rate of the tax imposed by this paragraph shall be 18.3 cents per energy equivalent of a gallon of gasoline.
 
@@ -148,7 +148,7 @@
 
 #### (2) Liquids used in aviation
 
-&emsp;In addition to the taxes imposed by subsection (c), there is hereby imposed a tax of 0.1 cent a gallon on any liquid (other than gasoline (as defined in section 4083))—
+&emsp;In addition to the taxes imposed by subsection (c), there is hereby imposed a tax of 0.1cent a gallon on any liquid (other than gasoline (as defined in section 4083))—
 
 &emsp;&emsp;(A) sold by any person to an owner, lessee, or other operator of an aircraft for use as a fuel in such aircraft, or
 
@@ -256,11 +256,11 @@ No tax shall be imposed under this section on any liquid sold for use in, or use
 
 #### Amendments
 
-2007—Subsec. (d)(1). Pub. L. 110–172, §6(d)(1)(A), inserted last sentence.
+<b>2007</b>—Subsec. (d)(1). Pub. L. 110–172, §6(d)(1)(A), inserted last sentence.
 
 Subsec. (d)(5). Pub. L. 110–172, §6(d)(2)(A), (3), inserted “(b)(1)(A),” after “without regard to subsections”, struck out “(other than with respect to any sale for export under paragraph (3) thereof)” after “(f), (g)”, and inserted last sentence.
 
-2006—Subsec. (b)(2)(B). Pub. L. 109–432, §208(c), substituted “and ethanol fuel produced from coal” for “or ethanol fuel” in heading.
+<b>2006</b>—Subsec. (b)(2)(B). Pub. L. 109–432, §208(c), substituted “and ethanol fuel produced from coal” for “or ethanol fuel” in heading.
 
 Subsec. (b)(2)(C)(ii). Pub. L. 109–432, §208(b), substituted “2008” for “2007”.
 
@@ -268,7 +268,7 @@ Subsec. (b)(2)(D). Pub. L. 109–432, §208(a), substituted “January 1, 2009�
 
 Subsec. (g)(5). Pub. L. 109–280, which directed the addition of par. (5) to section 4041(g), without specifying the act to be amended, was executed to subsec. (g) of this section, which is section 4041 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
-2005—Subsec. (a)(1)(B). Pub. L. 109–59, §11161(b)(3)(A), struck out last sentence which read as follows: “This subparagraph shall not apply to aviation-grade kerosene.”
+<b>2005</b>—Subsec. (a)(1)(B). Pub. L. 109–59, §11161(b)(3)(A), struck out last sentence which read as follows: “This subparagraph shall not apply to aviation-grade kerosene.”
 
 Pub. L. 109–58, §1362(b)(2)(A), inserted “(other than such tax at the Leaking Underground Storage Tank Trust Fund financing rate)” after “section 4081”.
 
@@ -290,7 +290,7 @@ Pub. L. 109–59, §11113(a)(1)(B), (D), added cl. (ii) and struck out former cl
 
 Subsec. (a)(2)(B)(iii). Pub. L. 109–59, §11113(a)(1)(B), struck out cl. (iii) which read as follows: “11.9 cents per gallon in the case of liquefied natural gas.”
 
-Subsec. (a)(3)(A). Pub. L. 109–59, §11113(a)(2)(A), substituted “18.3 cents per energy equivalent of a gallon of gasoline” for “48.54 cents per MCF (determined atstandard temperature and pressure)” in concluding provisions.
+Subsec. (a)(3)(A). Pub. L. 109–59, §11113(a)(2)(A), substituted “18.3 cents per energy equivalent of a gallon of gasoline” for “48.54 cents per MCF (determined at standard temperature and pressure)” in concluding provisions.
 
 Subsec. (a)(3)(C). Pub. L. 109–59, §11113(a)(2)(B), substituted “energy equivalent of a gallon of gasoline” for “MCF”.
 
@@ -310,7 +310,7 @@ Subsec. (d)(5). Pub. L. 109–58, §1362(b)(2)(C), added par. (5).
 
 Subsec. (m)(1)(A), (B). Pub. L. 109–59, §11101(a)(1)(C), substituted “2011” for “2005” in introductory provisions.
 
-2004—Subsec. (a)(1). Pub. L. 108–357, §853(a)(6)(B), inserted “and kerosene” after “diesel fuel” in heading.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–357, §853(a)(6)(B), inserted “and kerosene” after “diesel fuel” in heading.
 
 Subsec. (a)(1)(B). Pub. L. 108–357, §853(a)(6)(A), inserted at end “This subparagraph shall not apply to aviation-grade kerosene.”
 
@@ -338,7 +338,7 @@ Subsec. (k). Pub. L. 108–357, §301(c)(6), struck out subsec. (k) which relate
 
 Subsec. (m)(1). Pub. L. 108–357, §853(d)(2)(E), reenacted heading without change and amended text of par. (1) generally, substituting provisions relating to rates of tax after Sept. 30, 1997, and before Oct. 1, 2005, and rates of tax after Sept. 30, 2005, for provisions relating to rates of tax after Sept. 30, 1997, and before Oct. 1, 2005, rates of tax after Sept. 30, 2005, and rate of tax imposed by subsec. (c)(1).
 
-1998—Subsec. (a)(1)(C)(ii)(II). Pub. L. 105–178, §9006(a)(1), substituted “November 1, 1998” for “October 1, 1999”.
+<b>1998</b>—Subsec. (a)(1)(C)(ii)(II). Pub. L. 105–178, §9006(a)(1), substituted “November 1, 1998” for “October 1, 1999”.
 
 Subsec. (a)(1)(C)(ii)(III). Pub. L. 105–178, §9006(a)(2), substituted “October 31, 1998” for “September 30, 1999”.
 
@@ -360,7 +360,7 @@ Subsec. (<i>l</i>). Pub. L. 105–206 substituted “subsection (f) or (g)” fo
 
 Subsec. (m)(1)(A). Pub. L. 105–178, §9002(a)(1)(C), substituted “2005” for “1999” in two places.
 
-1997—Subsec. (a)(1)(A). Pub. L. 105–34, §902(b)(1), substituted “or a diesel-powered train” for “, a diesel-powered train, or a diesel-powered boat” in cls. (i) and (ii) and “vehicle or train” for “vehicle, train, or boat” in cl. (i).
+<b>1997</b>—Subsec. (a)(1)(A). Pub. L. 105–34, §902(b)(1), substituted “or a diesel-powered train” for “, a diesel-powered train, or a diesel-powered boat” in cls. (i) and (ii) and “vehicle or train” for “vehicle, train, or boat” in cl. (i).
 
 Subsec. (a)(1)(D). Pub. L. 105–34, §902(b)(2), struck out heading and text of subpar. (D). Text read as follows: “In the case of any sale for use, or use, of fuel in a diesel-powered motorboat—
 
@@ -386,7 +386,7 @@ Subsec. (c)(1). Pub. L. 105–34, §1032(e)(2), substituted “kerosene and any 
 
 Subsec. (c)(2). Pub. L. 105–34, §1435(b), inserted “or by reason of section 4261(h)” before period at end.
 
-Subsec. (c)(3). Pub. L. 105–2 amended heading and text of par. (3) generally. Prior to amendment, text read asfollows: “The taxes imposed by paragraph (1) shall apply during the period beginning on September 1, 1982, and ending on December 31, 1995, and during the period beginning on the date which is 7 calendar days after the date of the enactment of the Small Business Job Protection Act of 1996 and ending on December 31, 1996. The termination under the preceding sentence shall not apply to so much of the tax imposed by paragraph (1) as does not exceed 4.3 cents per gallon.”
+Subsec. (c)(3). Pub. L. 105–2 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The taxes imposed by paragraph (1) shall apply during the period beginning on September 1, 1982, and ending on December 31, 1995, and during the period beginning on the date which is 7 calendar days after the date of the enactment of the Small Business Job Protection Act of 1996 and ending on December 31, 1996. The termination under the preceding sentence shall not apply to so much of the tax imposed by paragraph (1) as does not exceed 4.3 cents per gallon.”
 
 Subsec. (c)(3)(B). Pub. L. 105–34, §1031(a)(3), substituted “September 30, 2007” for “September 30, 1997”.
 
@@ -400,7 +400,7 @@ Subsec. (m)(1)(A). Pub. L. 105–34, §907(b), amended subpar. (A) generally. Pr
 
 &emsp;“(ii) 4.3 cents per gallon after September 30, 1999, and”.
 
-1996—Subsec. (a)(1)(D). Pub. L. 104–188, §1208, added cl. (i) and redesignated former cls. (i) and (ii) as (ii) and (iii), respectively.
+<b>1996</b>—Subsec. (a)(1)(D). Pub. L. 104–188, §1208, added cl. (i) and redesignated former cls. (i) and (ii) as (ii) and (iii), respectively.
 
 Subsec. (c)(2). Pub. L. 104–188, §1609(g)(3)(A), redesignated par. (4) as (2) and struck out former par. (2) which read as follows:
 
@@ -428,7 +428,7 @@ Pub. L. 104–188, §1609(a)(3), inserted “, and during the period beginning 
 
 Subsec. (k)(1)(A) to (C). Pub. L. 104–188, §1609(g)(4)(A), inserted “and” at end of subpar. (A), substituted period for “, and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “no tax shall be imposed by subsection (c)(2).”
 
-1993—Subsec. (a)(1). Pub. L. 103–66, §13242(d)(3), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “There is hereby imposed a tax on any liquid (other than any product taxable under section 4081)—
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–66, §13242(d)(3), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “There is hereby imposed a tax on any liquid (other than any product taxable under section 4081)—
 
 &emsp;“(A) sold by any person to an owner, lessee, or other operator of a diesel-powered highway vehicle or diesel-powered boat for use as a fuel in such vehicle or boat, or
 
@@ -460,7 +460,7 @@ Subsec. (c)(5). Pub. L. 103–66, §13242(d)(8), inserted at end “The terminat
 
 Subsec. (d)(1). Pub. L. 103–66, §13241(e)(2), substituted “subsection (a)(1) or (2)” for “subsection (a)” before “on such sale or use”.
 
-Subsec. (d)(2). Pub. L. 103–66, §13242(d)(9), (10), redesignated par. (3) as (2), substituted “(other than gasoline (as defined in section 4083))” for “(other than any product taxable under section 4081)”, and struck out heading and text of former par. (2). Text read as follows: “There is hereby imposed a tax of 0.1 cent a gallon on any liquid (other than a product taxable under section 4081)—
+Subsec. (d)(2). Pub. L. 103–66, §13242(d)(9), (10), redesignated par. (3) as (2), substituted “(other than gasoline (as defined in section 4083))” for “(other than any product taxable under section 4081)”, and struck out heading and text of former par. (2). Text read as follows: “There is hereby imposed a tax of 0.1 cent a gallon onany liquid (other than a product taxable under section 4081)—
 
 &emsp;“(A) sold by any person to an owner, lessee, or other operator of a diesel-powered train for use as a fuel in such train, or
 
@@ -488,9 +488,9 @@ Pub. L. 103–66, §13241(c), amended subpar. (A) generally. Prior to amendment,
 
 Subsec. (m)(1)(B). Pub. L. 103–66, §13242(d)(13), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the rate of the tax imposed by subsection (c)(1) shall be the comparable rate under section 4091(d)(1).”
 
-1991—Subsecs. (f)(3), (g). Pub. L. 102–240 substituted “1999” for “1995”.
+<b>1991</b>—Subsecs. (f)(3), (g). Pub. L. 102–240 substituted “1999” for “1995”.
 
-1990—Subsec. (a)(1). Pub. L. 101–508, §11211(b)(6)(C)(i), struck out “of 15 cents a gallon” after “imposed a tax” in introductory provisions and inserted before last sentence “The rate of the tax imposed by this paragraph shall be the sum of the Highway Trust Fund financing rate and the diesel fuel deficit reduction rate in effect under section 4091 at the time of such sale or use.”
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–508, §11211(b)(6)(C)(i), struck out “of 15 cents a gallon” after “imposed a tax” in introductory provisions and inserted before last sentence “The rate of the tax imposed by this paragraph shall be the sum of the Highway Trust Fund financing rate and the diesel fuel deficit reduction rate in effect under section 4091 at the time of such sale or use.”
 
 Subsec. (a)(2). Pub. L. 101–508, §11211(b)(3), substituted “imposed a tax” for “imposed a tax of 9 cents a gallon” in introductory provisions and inserted at end “The rate of the tax imposed by this paragraph shall be the sum of the Highway Trust Fund financing rate and the deficit reduction rate in effect under section 4081 at the time of such sale or use.”
 
@@ -524,7 +524,7 @@ Subsec. (m)(1)(A). Pub. L. 101–508, §11211(b)(6)(F), amended subpar. (A) gene
 
 Subsec. (m)(1)(B). Pub. L. 101–508, §11213(b)(2)(B)(ii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “no tax shall be imposed by subsection (c).”
 
-1988—Subsec. (b)(1)(A). Pub. L. 100–647, §2001(d)(3)(A), inserted reference to subsection (d)(1).
+<b>1988</b>—Subsec. (b)(1)(A). Pub. L. 100–647, §2001(d)(3)(A), inserted reference to subsection (d)(1).
 
 Subsec. (b)(1)(B). Pub. L. 100–647, §2001(d)(3)(B), inserted “and by the corresponding provision of subsection (d)(1)” before the period.
 
@@ -538,7 +538,7 @@ Subsec. (c)(3). Pub. L. 100–647, §2001(d)(2), substituted “the Highway Trus
 
 Subsec. (f)(3). Pub. L. 100–647, §1017(c)(4), amended par. (3) generally, substituting “paragraph (1) shall not apply on and after October 1, 1993” for “on and after October 1, 1993, paragraph (1) shall not apply”.
 
-1987—Subsec. (a)(1). Pub. L. 100–203, §10502(b)(1), in heading substituted “Tax on diesel fuel where no tax imposed on fuel under section 4091” for “Diesel fuel” and in text inserted sentence at end that no tax be imposed by this paragraph on the sale or use of any liquid if there was a taxable sale of such liquid under section 4091.
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–203, §10502(b)(1), in heading substituted “Tax on diesel fuel where no tax imposed on fuel under section 4091” for “Diesel fuel” and in text inserted sentence at end that no tax be imposed by this paragraph on the sale or use of any liquid if there was a taxable sale of such liquid under section 4091.
 
 Subsec. (a)(3). Pub. L. 100–17, §502(a)(1), substituted “1993” for “1988”.
 
@@ -550,7 +550,7 @@ Subsec. (c)(5). Pub. L. 100–223, §402(b), substituted “1990” for “1987�
 
 Subsec. (c)(6). Pub. L. 100–223, §405(b)(3), added par. (6).
 
-Subsec. (d)(1). Pub. L. 100–203, §10502(b)(3), added par. (1), substituting new heading for “Liquids other than gasoline, etc., used in motor vehicles, motorboats, or trains”, and struck out text of former par. (1) which read as follows: “In addition to the taxes imposed by subsection (a), there is hereby imposed a tax of 0.1 cents a gallon on benzol, benzene, naphtha, casing head and natural gasoline, or any other liquid (other than kerosene, gas oil, liquefied petroleum gas, or fuel oil, or any product taxable under section 4081)—
+Subsec. (d)(1). Pub. L. 100–203, §10502(b)(3), added par. (1), substituting new heading for “Liquids other than gasoline, etc., used in motor vehicles, motorboats, or trains”, and struck out text of former par. (1) which read as follows: “In addition to the taxes imposed by subsection (a), there is hereby imposed a tax of 0.1 cents a gallon on benzol, benzene, naphtha, casing head and natural gasoline, or any other liquid (other thankerosene, gas oil, liquefied petroleum gas, or fuel oil, or any product taxable under section 4081)—
 
 &emsp;“(A) sold by any person to an owner, lessee, or other operator of a motor vehicle, motorboat, or train for use as a fuel in such motor vehicle, motorboat, or train, or
 
@@ -580,7 +580,7 @@ Subsec. (<i>l</i>). Pub. L. 100–223, §404(b), amended subsec. (<i>l</i>) gene
 
 Subsec. (n). Pub. L. 100–203, §10502(b)(4), struck out subsec. (n) which related to tax on diesel fuel for highway vehicle use being imposed on sale to retailer.
 
-1986—Subsec. (b). Pub. L. 99–514, §422(a)(2), substituted “reduction in tax” for “exemption” in heading.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514, §422(a)(2), substituted “reduction in tax” for “exemption” in heading.
 
 Subsec. (b)(2)(A). Pub. L. 99–514, §422(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “No tax shall be imposed by subsection (a) on any qualified methanol or ethanol fuel.”
 
@@ -602,7 +602,7 @@ Subsec. (<i>l</i>)(1). Pub. L. 99–514, §1879(c)(1), amended par. (1) generall
 
 Subsec. (n). Pub. L. 99–514, §1702(a), added subsec. (n).
 
-1984—Subsec. (a)(1). Pub. L. 98–369, §911(a), substituted “15 cents” for “9 cents”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–369, §911(a), substituted “15 cents” for “9 cents”.
 
 Subsec. (k)(1). Pub. L. 98–369, §912(a), in amending par. (1) generally, substituted “liquid” for “liquid fuel” in provisions preceding subpar. (A), in subpar. (A), substituted “subsection (a)(1) shall be applied by substituting ‘9 cents’ for ‘15 cents’, and” for “subsection (a) shall be applied by substituting ‘4 cents’ for ‘9 cents’ each place it appears, and”, added subpar. (B), and redesignated former subpar. (B) as (C).
 
@@ -610,7 +610,7 @@ Subsec. (<i>l</i>)(1). Pub. L. 98–369, §1018(a), designated existing provisio
 
 Subsec. (m). Pub. L. 98–369, §913(a), added subsec. (m).
 
-1983—Subsec. (a). Pub. L. 97–424, §§511(a)(2), 516(a)(1)(A), added subsec. (a), and struck out former subsec. (a) which provided for a tax of 4 cents a gallon on diesel fuel.
+<b>1983</b>—Subsec. (a). Pub. L. 97–424, §§511(a)(2), 516(a)(1)(A), added subsec. (a), and struck out former subsec. (a) which provided for a tax of 4 cents a gallon on diesel fuel.
 
 Subsec. (b). Pub. L. 97–424, §511(b)(1), (c)(2), added subsec. (b), and struck out former subsec. (b) which provided for a tax of 4 cents a gallon on special motor fuels.
 
@@ -624,15 +624,15 @@ Subsec. (g). Pub. L. 97–424, §516(b)(1)(B), inserted provision that pars. (2)
 
 Subsec. (k). Pub. L. 97–424, §511(d)(2), in par. (1) substituted provisions for a 4-cent tax on the sale or use of any liquid fuel at least 10 percent of which consists of alcohol for provisions that no tax be imposed by this section on the sale or use of such fuel, and in par. (2) substituted “to which paragraph (1) applied” for “on which tax was not imposed by reason of this subsection” after “alcohol” and inserted provision that any tax imposed on such sale shall be reduced by the amount (if any) of the tax imposed on the sale of such mixture.
 
-1982—Subsec. (c). Pub. L. 97–248, §279(a), in par. (1) substituted “14 cents” for “7 cents”, in par. (3) substituted “8 cents a gallon (101/2 cents a gallon in the case of any gasoline with respect to which a tax is imposed under section 4081 at the rate set forth in subsection (b) thereof)” for “3 cents a gallon”, and in par. (5) substituted provisions that the taxes imposed by pars. (1) and (2) shall apply during the period beginning on Sept. 1, 1982, and ending on Dec. 31, 1987, for provisions that on and after Oct. 1, 1980, the taxes imposed by pars. (1) and (2) would not apply.
+<b>1982</b>—Subsec. (c). Pub. L. 97–248, §279(a), in par. (1) substituted “14 cents” for “7 cents”, in par. (3) substituted “8 cents a gallon (101/2 cents a gallon in the case of any gasoline with respect to which a tax is imposed under section 4081 at the rate set forth in subsection (b) thereof)” for “3 cents a gallon”, and in par. (5) substituted provisions that the taxes imposed by pars. (1) and (2) shall apply during the period beginning on Sept. 1, 1982, and ending on Dec. 31, 1987, for provisions that on and after Oct. 1, 1980, the taxes imposed by pars. (1) and (2) would not apply.
 
 Subsec. (<i>l</i>). Pub. L. 97–248, §279(b)(1), added subsec. (<i>l</i>).
 
-1980—Subsec. (c)(5). Pub. L. 96–298 extended termination date to “October 1, 1980” from “July 1, 1980”.
+<b>1980</b>—Subsec. (c)(5). Pub. L. 96–298 extended termination date to “October 1, 1980” from “July 1, 1980”.
 
 Subsec. (k)(3). Pub. L. 96–223 added par. (3).
 
-1978—Subsec. (b). Pub. L. 95–618, §§222(a)(2), 233(a)(3)(B), substituted “, in a qualified business use” for “otherwise than as a fuel in a highway vehicle (A) which (at the time of such sale or use) is registered, or is required to be registered, for highway use under the laws of any State or foreign country, or (B) which, in the case of a highway vehicle owned by the United States, is used on the highway” and “is used otherwise than in a qualified business use” for “is used as a fuel in a highway vehicle (A) which (at the time of such use) is registered, or is required to be registered, for highway use under the laws of any State or foreign country, or (B) which, in the case of a highway vehicle owned by the United States, is used on the highway” and inserted provision that for purposes of this subsection “qualified business use” has the meaning given to such term by section 6421(d)(2).
+<b>1978</b>—Subsec. (b). Pub. L. 95–618, §§222(a)(2), 233(a)(3)(B), substituted “, in a qualified business use” for “otherwise than as a fuel in a highway vehicle (A) which (at the time of such sale or use) is registered, or is required to be registered, for highway use under the laws of any State or foreign country, or (B) which, in the case of a highway vehicle owned by the United States, is used on the highway” and “is used otherwise than in a qualified business use” for “is used as a fuel in a highway vehicle (A) which (at the time of such use) is registered, or is required to be registered, for highway use under the laws of any State or foreign country, or (B) which, in the case of a highway vehicle owned by the United States, is used on the highway” and inserted provision that for purposes of this subsection “qualified business use” has the meaning given to such term by section 6421(d)(2).
 
 Subsec. (c)(3). Pub. L. 95–599, §502(b), struck out termination date of Sept. 30, 1979 for 3 cents per gallon rate of tax and struck out provision for a 51/2 cents per gallon rate of tax after such date.
 
@@ -644,7 +644,7 @@ Subsecs. (i), (j). Pub. L. 95–600, §703(<i>l</i>)(2), redesignated subsec. (i
 
 Subsec. (k). Pub. L. 95–618, §221(b)(1), added subsec. (k).
 
-1976—Subsec. (c)(3). Pub. L. 94–280, §303(a)(1), substituted “1979” for “1977” in two places.
+<b>1976</b>—Subsec. (c)(3). Pub. L. 94–280, §303(a)(1), substituted “1979” for “1977” in two places.
 
 Subsec. (e). Pub. L. 94–280, §303(a)(2), substituted “1979” for “1977”.
 
@@ -660,7 +660,7 @@ Subsec. (i). Pub. L. 94–455, §1904(a)(1)(C), added subsec. (i) relating to sa
 
 Pub. L. 94–530 redesignated former subsec. (h) as “(i) Registration”.
 
-1970—Subsec. (b). Pub. L. 91–258, §202(b)(1) and (2), substituted “motor vehicle or motorboat” for “motor vehicle, motorboat, or airplane”, twice in par. (1) and once in par. (2), and “in” for “for the propulsion of” in par. (1) preceding “such motor vehicle”, in par. (2) preceding “a motor vehicle” and in text following par. (2) before “a highway vehicle (A)” in two places, respectively.
+<b>1970</b>—Subsec. (b). Pub. L. 91–258, §202(b)(1) and (2), substituted “motor vehicle or motorboat” for “motor vehicle, motorboat, or airplane”, twice in par. (1) and once in par. (2), and “in” for “for the propulsion of” in par. (1) preceding “such motor vehicle”, in par. (2) preceding “a motor vehicle” and in text following par. (2) before “a highway vehicle (A)” in two places, respectively.
 
 Subsec. (c). Pub. L. 91–258, §202(a), added subsec. (c). Former subsec. (c) redesignated (e).
 
@@ -678,9 +678,9 @@ Subsec. (g). Pub. L. 91–258, §202(a), redesignated former subsec. (e) as (g),
 
 Subsec. (h). Pub. L. 91–258, §202(a), added subsec. (h).
 
-1965—Subsec. (b). Pub. L. 89–44 inserted “casinghead and natural gasoline,” after “liquefied petroleum gas,” in text preceding par. (1).
+<b>1965</b>—Subsec. (b). Pub. L. 89–44 inserted “casinghead and natural gasoline,” after “liquefied petroleum gas,” in text preceding par. (1).
 
-1961—Subsec. (a). Pub. L. 87–61, §201(a), increased tax on diesel fuel from 3 to 4 cents a gallon, and substituted “a tax of 2 cents a gallon shall be imposed under paragraph (2)” for “a tax of 1 cent a gallon shall be imposed under paragraph (2)”.
+<b>1961</b>—Subsec. (a). Pub. L. 87–61, §201(a), increased tax on diesel fuel from 3 to 4 cents a gallon, and substituted “a tax of 2 cents a gallon shall be imposed under paragraph (2)” for “a tax of 1 cent a gallon shall be imposed under paragraph (2)”.
 
 Subsec. (b). Pub. L. 87–61, §201(a), increased tax on special motor fuels from 3 to 4 cents a gallon, and substituted “a tax of 2 cents a gallon shall be imposed under paragraph (2)” for “a tax of 1 cent a gallon shall be imposed under paragraph (2)”.
 
@@ -688,13 +688,13 @@ Subsec. (c). Pub. L. 87–61, §201(c), substituted “October 1, 1972” for �
 
 Subsec. (f). Pub. L. 87–61, §201(d), repealed subsec. (f) which authorized a temporary increase in taxes under subsecs. (a) and (b).
 
-1959—Subsecs. (a), (b). Pub. L. 86–342, §201(b)(2), struck out “in lieu of 3 cents a gallon” after “shall be 2 cents a gallon”.
+<b>1959</b>—Subsecs. (a), (b). Pub. L. 86–342, §201(b)(2), struck out “in lieu of 3 cents a gallon” after “shall be 2 cents a gallon”.
 
 Subsec. (f). Pub. L. 86–342, §201(b)(1), added subsec. (f).
 
-1958—Subsec. (e). Pub. L. 85–859 added subsec. (e).
+<b>1958</b>—Subsec. (e). Pub. L. 85–859 added subsec. (e).
 
-1956—Subsec. (a). Act June 29, 1956, §202(a), increased tax on diesel fuel from 2 cents a gallon to 3 cents a gallon, and inserted provisions which retained tax at 2 cents a gallon for diesel fuel used in vehicles not registered, and not required to be registered, for highway use, or vehicles owned by the United States and not used on the highway.
+<b>1956</b>—Subsec. (a). Act June 29, 1956, §202(a), increased tax on diesel fuel from 2 cents a gallon to 3 cents a gallon, and inserted provisions which retained tax at 2 cents a gallon for diesel fuel used in vehicles not registered, and not required to be registered, for highway use, or vehicles owned by the United States and not used on the highway.
 
 Subsec. (b). Act June 29, 1956, §202(b), increased tax on special motor fuels from 2 cents a gallon to 3 cents a gallon, and inserted provisions which retained tax at 2 cents a gallon for special motor fuels sold for use or used otherwise than as a fuel for the propulsion of a highway vehicle which is registered, or is required to be registered, for highway use, or vehicles owned by the United States used on the highway.
 
@@ -704,7 +704,7 @@ Act Mar. 29, 1956, substituted “April 1, 1957” for “April 1, 1956”.
 
 Subsec. (d). Act Apr. 2, 1956, added subsec. (d).
 
-1955—Subsec. (c). Act Mar. 30, 1955, substituted “April 1, 1956” for “April 1, 1955”.
+<b>1955</b>—Subsec. (c). Act Mar. 30, 1955, substituted “April 1, 1956” for “April 1, 1955”.
 
 #### Effective Date of 2007 Amendment
 
@@ -740,7 +740,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 “(2)
 
-No exemption.—The amendments made by subsection (b) \[enacting section 6430 of this title and amending this section and section 4082 of this title\]shall apply to fuel entered, removed, or sold after September 30, 2005.”
+No exemption.—The amendments made by subsection (b) \[enacting section 6430 of this title and amending this section and section 4082 of this title\] shall apply to fuel entered, removed, or sold after September 30, 2005.”
 
 #### Effective Date of 2004 Amendment
 
@@ -772,7 +772,7 @@ Pub. L. 105–34, title X, §1032(f), Aug. 5, 1997, 111 Stat. 935, as amended by
 
 Section 1435(c)(2) of Pub. L. 105–34 provided that: “The amendment made by subsection (b) \[amending this section\] shall take effect on October 1, 1997.”
 
-Amendment by section 1601(f)(4)(A), (B) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+Amendment by section 1601(f)(4)(A), (B) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
 
 Section 2(e)(1) of Pub. L. 105–2 provided that: “The amendments made by subsection (a) \[amending this section and sections 4081 and 4091 of this title\] shall apply to periods beginning on or after the 7th day after the date of the enactment of this Act \[Feb. 28, 1997\].”
 
@@ -814,7 +814,7 @@ Amendment by Pub. L. 100–203 applicable to sales after Mar. 31, 1988, see sect
 
 Section 422(a)(3) of Pub. L. 99–514 provided that: “The amendments made by this subsection \[amending this section\] shall take effect on January 1, 1987.”
 
-Section 1702(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and section 6652 of this title\] shall apply to sales after the first calendar quarter beginning more than 60days after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Section 1702(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and section 6652 of this title\] shall apply to sales after the first calendar quarter beginning more than 60 days after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 Amendment by section 1878(c)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -906,7 +906,7 @@ Amendment by Pub. L. 85–859 effective on first day of first calendar quarter w
 
 #### Effective Date of 1956 Amendments
 
-Section 211 of title II of act June 29, 1956, provided that: “This title \[enacting sections 173 and 174 of Title 23, Highways, and sections 4426, 4481 to 4484 of this title, amending this section and sections 4061, 4071, 4072, 4073, 4081, 4084, 6206, 6412, 6416, 6504, 6511, 6612, 6675, 7210, 7603, 7604, and 7605 of this title, and renumbering sections 4227 and 6422 of this title\] shall take effect on the dateof its enactment \[June 29, 1956\], except that the amendments made by sections 202, 203, 204, and 205 \[amending this section and sections 4061, 4071, 4072, 4073, and 4081 of this title\] shall take effect on July 1, 1956.”
+Section 211 of title II of act June 29, 1956, provided that: “This title \[enacting sections 173 and 174 of Title 23, Highways, and sections 4426, 4481 to 4484 of this title, amending this section and sections 4061, 4071, 4072, 4073, 4081, 4084, 6206, 6412, 6416, 6504, 6511, 6612, 6675, 7210, 7603, 7604, and 7605 of this title, and renumbering sections 4227 and 6422 of this title\] shall take effect on the date of its enactment \[June 29, 1956\], except that the amendments made by sections 202, 203, 204, and 205 \[amending this section and sections 4061, 4071, 4072, 4073, and 4081 of this title\] shall take effect on July 1, 1956.”
 
 Section 2(a)(2) of act Apr. 2, 1956, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the day after the date of the enactment of this Act \[Apr. 2, 1956\].”
 

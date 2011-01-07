@@ -90,11 +90,11 @@ A prior section 823, Pub. L. 94–210, title V, §503, Feb. 5, 1976, 90 Stat. 69
 
 #### Amendments
 
-2005—Subsec. (k). Pub. L. 109–59, §9003(h), in heading, substituted “Evaluation” for “Investigation” and, in text, inserted “the cost of evaluating the application, including” after “reasonable charge for” and inserted at end “Amounts collected under this subsection shall be credited directly to the Safety and Operations account of the Federal Railroad Administration, and shall remain available until expended to pay for the evaluation costs described in this subsection.”
+<b>2005</b>—Subsec. (k). Pub. L. 109–59, §9003(h), in heading, substituted “Evaluation” for “Investigation” and, in text, inserted “the cost of evaluating the application, including” after “reasonable charge for” and inserted at end “Amounts collected under this subsection shall be credited directly to the Safety and Operations account of the Federal Railroad Administration, and shall remain available until expended to pay for the evaluation costs described in this subsection.”
 
 Subsec. (<i>l</i>). Pub. L. 109–59, §9003(i), added subsec. (<i>l</i>).
 
-1998—Subsec. (b). Pub. L. 105–178, §7203(a)(4), redesignated subsec. (c) of section 831 of this title as subsec. (b) of this section, relating to full faith and credit backing of guarantees entered into by Secretary. See Codification note above.
+<b>1998</b>—Subsec. (b). Pub. L. 105–178, §7203(a)(4), redesignated subsec. (c) of section 831 of this title as subsec. (b) of this section, relating to full faith and credit backing of guarantees entered into by Secretary. See Codification note above.
 
 <i><sup>1</sup></i><i> So in original. There are two subsections designated (b).</i>
 

@@ -6,7 +6,7 @@ Except as provided in subsections (b), (c), and (e) of this section, none of the
 
 #### (b) Payment to former spouses under court order or spousal agreement
 
-In the case of any participant, former participant, or retired participant who has a former spouse who is covered by a court order or who is a party to a spousal agreement—
+In the case of any participant, former participant, or retired participant who has a formerspouse who is covered by a court order or who is a party to a spousal agreement—
 
 &emsp;(1) any right of the former spouse to any annuity under section 2032(a) of this title in connection with any retirement or disability annuity of the participant, and the amount of any such annuity;
 
@@ -38,7 +38,7 @@ A prior section 264 of Pub. L. 88–643, as added Pub. L. 94–522, title II, §
 
 #### Amendments
 
-1993—Subsec. (b)(2). Pub. L. 103–178, §202(a)(12)(A), inserted “and” at end.
+<b>1993</b>—Subsec. (b)(2). Pub. L. 103–178, §202(a)(12)(A), inserted “and” at end.
 
 Subsec. (b)(3). Pub. L. 103–178, §202(a)(12)(B), substituted “, and the amount of any such payment;” for “and to any payment of a return of contributions under section 2054(a) of this title; and”.
 

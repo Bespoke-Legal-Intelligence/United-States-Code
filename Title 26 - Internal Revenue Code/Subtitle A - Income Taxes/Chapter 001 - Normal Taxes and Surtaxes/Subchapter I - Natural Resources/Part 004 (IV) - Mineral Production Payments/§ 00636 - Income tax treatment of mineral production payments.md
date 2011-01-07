@@ -24,7 +24,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 #### Amendments
 
-1976—Subsec. (e). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (e). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date
 

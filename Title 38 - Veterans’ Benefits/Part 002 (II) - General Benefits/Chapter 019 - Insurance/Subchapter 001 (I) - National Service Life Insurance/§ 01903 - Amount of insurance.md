@@ -12,9 +12,9 @@ Another prior section 1903, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1216, rela
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 703 of this title as this section and substituted “1907” for “707”.
+<b>1991</b>—Pub. L. 102–83 renumbered section 703 of this title as this section and substituted “1907” for “707”.
 
-1971—Pub. L. 92–188 made section limitations inapplicable to the additional paid up insurance purchase of which is authorized under section 707 of this title.
+<b>1971</b>—Pub. L. 92–188 made section limitations inapplicable to the additional paid up insurance purchase of which is authorized under section 707 of this title.
 
 #### Effective Date of 1971 Amendment
 

@@ -4,7 +4,7 @@
 
 (b) In cases where judgment cannot be satisfied by reason of the employer's insolvency or other circumstances precluding payment, the Secretary of Labor may, in his discretion and to the extent he shall determine advisable after consideration of current commitments payable from the special fund established in section 944 of this title, make payment from such fund upon any award made under this chapter, and in addition, provide any necessary medical, surgical, and other treatment required by section 907 of this title in any case of disability where there has been a default in furnishing medical treatment by reason of the insolvency of the employer. Such an employer shall be liable for payment into such fund of the amounts paid therefrom by the Secretary of Labor under this subsection; and for the purpose of enforcing this liability, the Secretary of Labor for the benefit of the fund shall be subrogated to all the rights of the person receiving such payment or benefits as against the employer and may by a proceeding in the name of the Secretary of Labor under this section or under subsection (c) of section 921 of this title, or both, seek to recover the amount of the default or so much thereof as in the judgment of the Secretary is possible, or the Secretary may settle and compromise any such claim.
 
-(Mar. 4, 1927, ch. 509, §18, 44 Stat. 1434; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; July 26, 1956, ch. 735, §6, 70 Stat. 655; Pub. L. 98–426, §27(b), Sept. 28, 1984, 98 Stat. 1654.)
+(Mar. 4, 1927, ch. 509, §18, 44 Stat. 1434; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; July 26, 1956, ch. 735, §6, 70 Stat. 655;Pub. L. 98–426, §27(b), Sept. 28, 1984, 98 Stat. 1654.)
 
 #### Codification
 
@@ -12,9 +12,9 @@ As originally enacted, subsec. (a) contained a reference to the Supreme Court of
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–426 struck out “, including the right of lien and priority provided for by section 917 of this title,” after “shall be subrogated to all the rights of the person receiving such payment or benefits”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–426 struck out “, including the right of lien and priority provided for by section 917 of this title,” after “shall be subrogated to all the rights of the person receiving such payment or benefits”.
 
-1956—Act July 26, 1956, designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1956</b>—Act July 26, 1956, designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1984 Amendment
 

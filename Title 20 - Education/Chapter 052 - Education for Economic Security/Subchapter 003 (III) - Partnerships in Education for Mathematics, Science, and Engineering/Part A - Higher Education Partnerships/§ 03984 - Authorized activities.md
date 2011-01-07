@@ -42,5 +42,5 @@
 
 #### Amendments
 
-1988—Subsecs. (a)(1), (b)(1). Pub. L. 100–418 substituted “part” for “subchapter” wherever appearing.
+<b>1988</b>—Subsecs. (a)(1), (b)(1). Pub. L. 100–418 substituted “part” for “subchapter” wherever appearing.
 

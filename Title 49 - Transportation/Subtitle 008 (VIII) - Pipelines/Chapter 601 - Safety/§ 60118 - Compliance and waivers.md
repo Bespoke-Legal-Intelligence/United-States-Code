@@ -130,15 +130,15 @@ In subsection (d), the words “to which the certification or agreement applies�
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–468 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “On application of a person owning or operating a pipeline facility, the Secretary by order may waive compliance with any part of an applicable standard prescribed under this chapter on terms the Secretary considers appropriate, if the waiver is not inconsistent with pipeline safety. The Secretary shall state the reasons for granting a waiver under this subsection. The Secretary may act on a waiver only after notice and an opportunity for a hearing.”
+<b>2006</b>—Subsec. (c). Pub. L. 109–468 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “On application of a person owning or operating a pipeline facility, the Secretary by order may waive compliance with any part of an applicable standard prescribed under this chapter on terms the Secretary considers appropriate, if the waiver is not inconsistent with pipeline safety. The Secretary shall state the reasons for granting a waiver under this subsection. The Secretary may act on a waiver only after notice and an opportunity for a hearing.”
 
-2002—Subsec. (a)(4). Pub. L. 107–355, §14(c), added par. (4).
+<b>2002</b>—Subsec. (a)(4). Pub. L. 107–355, §14(c), added par. (4).
 
 Subsec. (e). Pub. L. 107–355, §10(a), added subsec. (e).
 
 Subsec. (f). Pub. L. 107–355, §10(c), added subsec. (f).
 
-1996—Subsec. (a). Pub. L. 104–304, §13(a)(1), struck out “transporting gas or hazardous liquid or” after “person” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–304, §13(a)(1), struck out “transporting gas or hazardous liquid or” after “person” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 104–304, §13(a)(2), added par. (1) and struck out former par. (1) which read as follows: “comply with applicable safety standards prescribed under this chapter, except as provided in this section;”.
 

@@ -19,13 +19,13 @@
 
 #### Amendments
 
-2004—Pub. L. 108–458, title VI, §6911(b), Dec. 17, 2004, 118 Stat. 3775, added item 175c.
+<b>2004</b>—Pub. L. 108–458, title VI, §6911(b), Dec. 17, 2004, 118 Stat. 3775, added item 175c.
 
-2002—Pub. L. 107–188, title II, §231(b)(2), June 12, 2002, 116 Stat. 661, substituted “Select agents; certain other agents” for “Possession by restricted persons” in item 175b.
+<b>2002</b>—Pub. L. 107–188, title II, §231(b)(2), June 12, 2002, 116 Stat. 661, substituted “Select agents; certain other agents” for “Possession by restricted persons” in item 175b.
 
-2001—Pub. L. 107–56, title VIII, §817(3), Oct. 26, 2001, 115 Stat. 386, added item 175b.
+<b>2001</b>—Pub. L. 107–56, title VIII, §817(3), Oct. 26, 2001, 115 Stat. 386, added item 175b.
 
-1996—Pub. L. 104–201, div. A, title XIV, §1416(c)(1)(B), Sept. 23, 1996, 110 Stat. 2723, added item 175a.
+<b>1996</b>—Pub. L. 104–201, div. A, title XIV, §1416(c)(1)(B), Sept. 23, 1996, 110 Stat. 2723, added item 175a.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 

@@ -1,7 +1,5 @@
 ### SUBCHAPTER CXXXV—BEAVER DAM WASH NATIONAL CONSERVATION AREA
 
-<i><sup>1</sup></i><i> So in original. Probably should be “is”.</i>
-
 
 ---
 

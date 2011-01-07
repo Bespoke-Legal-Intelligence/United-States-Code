@@ -20,7 +20,7 @@ Conspiracy.—A person who conspires to commit an offense under this section sha
 
 #### Amendments
 
-2001—Subsec. (c). Pub. L. 107–56 added subsec. (c).
+<b>2001</b>—Subsec. (c). Pub. L. 107–56 added subsec. (c).
 
-1994—Subsec. (a). Pub. L. 103–322 inserted “punished by death or” before “imprisoned for any term of years or for life”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 inserted “punished by death or” before “imprisoned for any term of years or for life”.
 

@@ -48,15 +48,13 @@ In subsection (b)(3), the words “relating to classification and General Schedu
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (b)(2), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-
 The General Schedule, referred to in subsec. (b)(3), is set out under section 5332 of Title 5, Government Organization and Employees.
 
 #### Amendments
 
-2003—Subsec. (b)(3). Pub. L. 108–169 inserted “15 percent above” after “more than”.
+<b>2003</b>—Subsec. (b)(3). Pub. L. 108–169 inserted “15 percent above” after “more than”.
 
-2000—Subsec. (a). Pub. L. 106–503, §113(c)(1), struck out “not more than 2” after “appoint”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–503, §113(c)(1), struck out “not more than 2” after “appoint”.
 
 Subsec. (b)(1). Pub. L. 106–503, §113(c)(2), substituted “shall not be considered” for “are not”.
 

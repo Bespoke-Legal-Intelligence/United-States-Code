@@ -20,9 +20,13 @@ For purposes of this chapter, other than section 288b of this title, the term �
 
 The provisions of this section are enacted—
 
-&emsp;(1) as an exercise of the rulemaking power of the Senate, and, as such, they shall be considered as part of the rules of the Senate, and such rules shall supersede any other rule ofthe Senate only to the extent that rule is inconsistent therewith; and
+&emsp;(1) as an exercise of the rulemaking power of the Senate, and, as such, they shall be considered as part of the rules of the Senate, and such rules shall supersede any other rule of the Senate only to the extent that rule is inconsistent therewith; and
 
 &emsp;(2) with full recognition of the constitutional right of the Senate to change such rules at any time, in the same manner, and to the same extent as in the case of any other rule of the Senate.
 
 (Pub. L. 95–521, title VII, §711, Oct. 26, 1978, 92 Stat. 1882.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (b), was in the original “this title”, meaning title VII of Pub. L. 95–521, which enacted this chapter, section 118a of this title, and section 1364 of Title 28, Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
 

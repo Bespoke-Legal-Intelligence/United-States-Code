@@ -30,7 +30,7 @@ This chapter, referred to in subsec. (b)(2), was in the original a reference to 
 
 #### Amendments
 
-1983—Subsecs. (a), (b)(1)(D), (2). Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+<b>1983</b>—Subsecs. (a), (b)(1)(D), (2). Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
 
 #### Transfer of Functions
 

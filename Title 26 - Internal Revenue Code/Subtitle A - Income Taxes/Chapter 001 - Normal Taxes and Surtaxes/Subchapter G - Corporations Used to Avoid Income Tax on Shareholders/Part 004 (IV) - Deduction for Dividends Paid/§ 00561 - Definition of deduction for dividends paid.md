@@ -18,9 +18,9 @@ In determining the deduction for dividends paid, the rules provided in section 5
 
 #### Amendments
 
-1976—Subsec. (b). Pub. L. 94–455 redesignated existing provisions of par. (1) as subsec. (b) and struck out par. (2) relating to special adjustment on disposition of antitrust stock as a dividend.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 redesignated existing provisions of par. (1) as subsec. (b) and struck out par. (2) relating to special adjustment on disposition of antitrust stock as a dividend.
 
-1962—Subsec. (b). Pub. L. 87–403 designated existing provisions as par. (1) and added par. (2).
+<b>1962</b>—Subsec. (b). Pub. L. 87–403 designated existing provisions as par. (1) and added par. (2).
 
 #### Effective Date of 1976 Amendment
 

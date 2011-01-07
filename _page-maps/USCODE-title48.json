@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title48",
- "package": "USCODE-2009-title48",
+ "package": "USCODE-2010-title48",
  "pieces": [
   {
    "id": "48_",
@@ -170,7 +170,7 @@
      642,
      [
       [
-       709,
+       654,
        "[Page 13]"
       ]
      ]
@@ -180,7 +180,7 @@
      690,
      [
       [
-       385,
+       330,
        "[Page 14]"
       ]
      ]
@@ -3290,7 +3290,7 @@
      42,
      [
       [
-       161,
+       106,
        "[Page 83]"
       ]
      ]
@@ -3351,10 +3351,14 @@
    "id": "48_1394",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 84]",
-     true
+     "I",
+     2,
+     [
+      [
+       720,
+       "[Page 84]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 007 - Virgin Islands/Subchapter 001 (I) - General Provisions/§ 01394 - Customs duties and internal-revenue taxes.md",
@@ -3401,26 +3405,30 @@
   },
   {
    "id": "48_1399",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       118,
+       "[Page 85]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 007 - Virgin Islands/Subchapter 001 (I) - General Provisions/§ 01399 - Repealed. Pub. L. 97–357, title III, §308(b), Oct. 19, 1982, 96 Stat. 1710.md",
    "printed_pages": [
     84,
-    84
+    85
    ]
   },
   {
    "id": "48_1400",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 85]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 007 - Virgin Islands/Subchapter 001 (I) - General Provisions/§ 01400 - Repealed. Pub. L. 98–454, title VII, §709, Oct. 5, 1984, 98 Stat. 1741.md",
    "printed_pages": [
-    84,
+    85,
     85
    ]
   },
@@ -3459,7 +3467,7 @@
      2,
      [
       [
-       514,
+       92,
        "[Page 86]"
       ]
      ]
@@ -3524,7 +3532,7 @@
      16,
      [
       [
-       422,
+       92,
        "[Page 87]"
       ]
      ]
@@ -3571,7 +3579,7 @@
      2,
      [
       [
-       527,
+       190,
        "[Page 88]"
       ]
      ]
@@ -3672,7 +3680,7 @@
      2,
      [
       [
-       814,
+       627,
        "[Page 89]"
       ]
      ]
@@ -3849,7 +3857,7 @@
      14,
      [
       [
-       175,
+       173,
        "[Page 92]"
       ]
      ]
@@ -4160,10 +4168,10 @@
     ],
     [
      "I",
-     62,
+     60,
      [
       [
-       167,
+       222,
        "[Page 101]"
       ]
      ]
@@ -4275,7 +4283,7 @@
      26,
      [
       [
-       373,
+       380,
        "[Page 103]"
       ]
      ]
@@ -4313,7 +4321,7 @@
      2,
      [
       [
-       889,
+       751,
        "[Page 104]"
       ]
      ]
@@ -4648,7 +4656,7 @@
      12,
      [
       [
-       105,
+       112,
        "[Page 114]"
       ]
      ]
@@ -4856,7 +4864,7 @@
    "marks": [
     [
      "L",
-     60,
+     64,
      "[Page 118]",
      true
     ]
@@ -4887,11 +4895,18 @@
   },
   {
    "id": "48_1453_to_1455",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 119]",
+     true
+    ]
+   ],
    "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01453 to 1455 - Repealed. Pub. L. 98–213, §16(c)–(f), Dec. 8, 1983, 97 Stat. 1462.md",
    "printed_pages": [
     118,
-    118
+    119
    ]
   },
   {
@@ -4899,27 +4914,16 @@
    "marks": [],
    "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01456 - Repealed. Sept. 12, 1950, ch. 946, title III, §301(106), 64 Stat. 844.md",
    "printed_pages": [
-    118,
-    118
+    119,
+    119
    ]
   },
   {
    "id": "48_1457_to_1469-1",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       218,
-       "[Page 119]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01457 to 1469–1 - Repealed. Pub. L. 98–213, §16(a), (g)–(u), Dec. 8, 1983, 97 Stat. 1462, 1463.md",
    "printed_pages": [
-    118,
+    119,
     119
    ]
   },
@@ -4928,7 +4932,7 @@
    "marks": [
     [
      "L",
-     18,
+     14,
      "[Page 120]",
      true
     ]
@@ -4953,7 +4957,7 @@
    "marks": [
     [
      "L",
-     36,
+     10,
      "[Page 121]",
      true
     ]
@@ -4977,10 +4981,14 @@
    "id": "48_1469d",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 122]",
-     true
+     "I",
+     12,
+     [
+      [
+       1209,
+       "[Page 122]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01469d - General technical assistance.md",
@@ -5027,26 +5035,26 @@
   },
   {
    "id": "48_1480_to_1480b",
-   "marks": [],
-   "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01480 to 1480b - Repealed. Pub. L. 95–584, §1, Nov. 2, 1978, 92 Stat. 2483.md",
-   "printed_pages": [
-    122,
-    122
-   ]
-  },
-  {
-   "id": "48_1481_to_1485",
    "marks": [
     [
      "L",
-     4,
+     6,
      "[Page 123]",
      true
     ]
    ],
-   "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01481 to 1485 - Repealed. Pub. L. 98–213, §16(ff)–(jj), Dec. 8, 1983, 97 Stat. 1463.md",
+   "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01480 to 1480b - Repealed. Pub. L. 95–584, §1, Nov. 2, 1978, 92 Stat. 2483.md",
    "printed_pages": [
     122,
+    123
+   ]
+  },
+  {
+   "id": "48_1481_to_1485",
+   "marks": [],
+   "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01481 to 1485 - Repealed. Pub. L. 98–213, §16(ff)–(jj), Dec. 8, 1983, 97 Stat. 1463.md",
+   "printed_pages": [
+    123,
     123
    ]
   },
@@ -5099,27 +5107,23 @@
    "id": "48_1492",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       93,
-       "[Page 124]"
-      ]
-     ]
+     "L",
+     8,
+     "[Page 124]",
+     true
     ],
     [
      "L",
-     90,
+     72,
      "[Page 125]",
      true
     ],
     [
      "I",
-     172,
+     160,
      [
       [
-       75,
+       138,
        "[Page 126]"
       ]
      ]
@@ -5142,30 +5146,30 @@
   },
   {
    "id": "48_1494",
-   "marks": [],
-   "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01494 - Purposes.md",
-   "printed_pages": [
-    126,
-    126
-   ]
-  },
-  {
-   "id": "48_1494a",
    "marks": [
     [
      "I",
-     6,
+     16,
      [
       [
-       229,
+       173,
        "[Page 127]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01494a - Annual reports to Congress.md",
+   "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01494 - Purposes.md",
    "printed_pages": [
     126,
+    127
+   ]
+  },
+  {
+   "id": "48_1494a",
+   "marks": [],
+   "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01494a - Annual reports to Congress.md",
+   "printed_pages": [
+    127,
     127
    ]
   },
@@ -5173,22 +5177,28 @@
    "id": "48_1494b",
    "marks": [
     [
+     "L",
+     36,
+     "[Page 128]",
+     true
+    ],
+    [
      "I",
-     44,
+     82,
      [
       [
-       91,
-       "[Page 128]"
+       370,
+       "[Page 129]"
       ]
      ]
     ],
     [
      "I",
-     90,
+     146,
      [
       [
-       122,
-       "[Page 129]"
+       104,
+       "[Page 130]"
       ]
      ]
     ]
@@ -5196,22 +5206,15 @@
    "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01494b - Enforcement and administration in insular areas.md",
    "printed_pages": [
     127,
-    129
+    130
    ]
   },
   {
    "id": "48_1494c",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 130]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 010 - Territorial Provisions of a General Nature/§ 01494c - Drug Enforcement Agency personnel assignments.md",
    "printed_pages": [
-    129,
+    130,
     130
    ]
   },
@@ -5253,30 +5256,26 @@
   },
   {
    "id": "48_1504",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 131]",
+     true
+    ]
+   ],
    "path": "Chapter 011 - Alien Owners of Land/§ 01504 - Conveyance of lands in Territories by aliens before escheat proceedings.md",
    "printed_pages": [
     130,
-    130
+    131
    ]
   },
   {
    "id": "48_1505",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       854,
-       "[Page 131]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 011 - Alien Owners of Land/§ 01505 - Proceedings for escheat of improperly held lands.md",
    "printed_pages": [
-    130,
+    131,
     131
    ]
   },
@@ -5309,36 +5308,33 @@
   },
   {
    "id": "48_1509_to_1512",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 132]",
+     true
+    ]
+   ],
    "path": "Chapter 011 - Alien Owners of Land/§ 01509 to 1512 - Omitted.md",
    "printed_pages": [
     131,
-    131
+    132
    ]
   },
   {
    "id": "48_-ch12",
    "marks": [
     [
-     "I",
-     28,
-     [
-      [
-       23,
-       "[Page 132]"
-      ]
-     ]
-    ],
-    [
      "L",
-     132,
+     128,
      "[Page 133]",
      true
     ]
    ],
    "path": "Chapter 012 - Virgin Islands/README.md",
    "printed_pages": [
-    131,
+    132,
     133
    ]
   },
@@ -5353,26 +5349,30 @@
   },
   {
    "id": "48_1541",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     48,
+     [
+      [
+       105,
+       "[Page 134]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 012 - Virgin Islands/Subchapter 001 (I) - General Provisions/§ 01541 - Organization and status.md",
    "printed_pages": [
     133,
-    133
+    134
    ]
   },
   {
    "id": "48_1542",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 134]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 012 - Virgin Islands/Subchapter 001 (I) - General Provisions/§ 01542 - Voting franchise; discrimination prohibited.md",
    "printed_pages": [
-    133,
+    134,
     134
    ]
   },
@@ -5396,11 +5396,18 @@
   },
   {
    "id": "48_1545",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     24,
+     "[Page 135]",
+     true
+    ]
+   ],
    "path": "Chapter 012 - Virgin Islands/Subchapter 001 (I) - General Provisions/§ 01545 - Lease and sale of public property; conveyance of title in certain lands to the government of Virgin Islands.md",
    "printed_pages": [
     134,
-    134
+    135
    ]
   },
   {
@@ -5408,8 +5415,8 @@
    "marks": [],
    "path": "Chapter 012 - Virgin Islands/Subchapter 001 (I) - General Provisions/§ 01546 - Authorization of appropriations.md",
    "printed_pages": [
-    134,
-    134
+    135,
+    135
    ]
   },
   {
@@ -5417,29 +5424,27 @@
    "marks": [],
    "path": "Chapter 012 - Virgin Islands/Subchapter 002 (II) - Bill of Rights/README.md",
    "printed_pages": [
-    134,
-    134
+    135,
+    135
    ]
   },
   {
    "id": "48_1561",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 135]",
-     true
-    ],
-    [
-     "L",
-     74,
-     "[Page 136]",
-     true
+     "I",
+     54,
+     [
+      [
+       164,
+       "[Page 136]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 012 - Virgin Islands/Subchapter 002 (II) - Bill of Rights/§ 01561 - Rights and prohibitions.md",
    "printed_pages": [
-    134,
+    135,
     136
    ]
   },
@@ -5466,10 +5471,10 @@
    "marks": [
     [
      "I",
-     28,
+     16,
      [
       [
-       374,
+       186,
        "[Page 137]"
       ]
      ]
@@ -5483,71 +5488,76 @@
   },
   {
    "id": "48_1573",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     10,
+     [
+      [
+       657,
+       "[Page 138]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 012 - Virgin Islands/Subchapter 003 (III) - Legislative Branch/§ 01573 - Time, frequency, and duration of regular sessions; special sessions; place of holding.md",
    "printed_pages": [
     137,
-    137
+    138
    ]
   },
   {
    "id": "48_1574",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       92,
-       "[Page 138]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     36,
-     [
-      [
-       136,
-       "[Page 139]"
-      ]
-     ]
-    ],
-    [
      "L",
-     86,
-     "[Page 140]",
+     26,
+     "[Page 139]",
      true
+    ],
+    [
+     "I",
+     72,
+     [
+      [
+       114,
+       "[Page 140]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 012 - Virgin Islands/Subchapter 003 (III) - Legislative Branch/§ 01574 - Legislative powers and activities.md",
    "printed_pages": [
-    137,
+    138,
     140
    ]
   },
   {
    "id": "48_1574-1",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     26,
+     [
+      [
+       270,
+       "[Page 141]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 012 - Virgin Islands/Subchapter 003 (III) - Legislative Branch/§ 01574–1 - Applicability of laws referred to in section 502(a)(1) of Covenant to Establish a Commonwealth of the Northern Mariana Islands.md",
    "printed_pages": [
     140,
-    140
+    141
    ]
   },
   {
    "id": "48_1574a",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 141]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 012 - Virgin Islands/Subchapter 003 (III) - Legislative Branch/§ 01574a - Revenue bonds or other obligations.md",
    "printed_pages": [
-    140,
+    141,
     141
    ]
   },
@@ -5555,17 +5565,21 @@
    "id": "48_1574b",
    "marks": [
     [
-     "L",
-     26,
-     "[Page 142]",
-     true
+     "I",
+     12,
+     [
+      [
+       277,
+       "[Page 142]"
+      ]
+     ]
     ],
     [
      "I",
-     66,
+     52,
      [
       [
-       214,
+       109,
        "[Page 143]"
       ]
      ]
@@ -5600,10 +5614,10 @@
    "marks": [
     [
      "I",
-     30,
+     16,
      [
       [
-       103,
+       1308,
        "[Page 144]"
       ]
      ]
@@ -5638,34 +5652,33 @@
    "marks": [
     [
      "I",
-     6,
+     2,
      [
       [
-       422,
+       997,
        "[Page 145]"
       ]
      ]
+    ],
+    [
+     "L",
+     28,
+     "[Page 146]",
+     true
     ]
    ],
    "path": "Chapter 012 - Virgin Islands/Subchapter 004 (IV) - Executive Branch/§ 01591 - Governor and Lieutenant Governor; election; eligibility; official residence; powers and duties; report.md",
    "printed_pages": [
     144,
-    145
+    146
    ]
   },
   {
    "id": "48_1592",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 146]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 012 - Virgin Islands/Subchapter 004 (IV) - Executive Branch/§ 01592 - Repealed. Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 657.md",
    "printed_pages": [
-    145,
+    146,
     146
    ]
   },
@@ -5674,10 +5687,10 @@
    "marks": [
     [
      "I",
-     54,
+     30,
      [
       [
-       106,
+       577,
        "[Page 147]"
       ]
      ]
@@ -5700,11 +5713,18 @@
   },
   {
    "id": "48_1595",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     28,
+     "[Page 148]",
+     true
+    ]
+   ],
    "path": "Chapter 012 - Virgin Islands/Subchapter 004 (IV) - Executive Branch/§ 01595 - Vacancy in office of Governor or Lieutenant Governor.md",
    "printed_pages": [
     147,
-    147
+    148
    ]
   },
   {
@@ -5712,27 +5732,16 @@
    "marks": [],
    "path": "Chapter 012 - Virgin Islands/Subchapter 004 (IV) - Executive Branch/§ 01596 - Repealed. Pub. L. 104–186, title II, §224(3), Aug. 20, 1996, 110 Stat. 1752.md",
    "printed_pages": [
-    147,
-    147
+    148,
+    148
    ]
   },
   {
    "id": "48_1597",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       415,
-       "[Page 148]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 012 - Virgin Islands/Subchapter 004 (IV) - Executive Branch/§ 01597 - Reorganization of government.md",
    "printed_pages": [
-    147,
+    148,
     148
    ]
   },
@@ -5750,10 +5759,10 @@
    "marks": [
     [
      "I",
-     22,
+     6,
      [
       [
-       114,
+       95,
        "[Page 149]"
       ]
      ]
@@ -5788,10 +5797,10 @@
    "marks": [
     [
      "I",
-     18,
+     8,
      [
       [
-       111,
+       391,
        "[Page 150]"
       ]
      ]
@@ -5805,26 +5814,30 @@
   },
   {
    "id": "48_1613",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     10,
+     [
+      [
+       442,
+       "[Page 151]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 012 - Virgin Islands/Subchapter 005 (V) - Judicial Branch/§ 01613 - Relations between courts of United States and courts of Virgin Islands; review by United States Court of Appeals for Third Circuit….md",
    "printed_pages": [
     150,
-    150
+    151
    ]
   },
   {
    "id": "48_1613a",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 151]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 012 - Virgin Islands/Subchapter 005 (V) - Judicial Branch/§ 01613a - Appellate jurisdiction of District Court; procedure; review by United States Court of Appeals for Third Circuit; rules; appeals to….md",
    "printed_pages": [
-    150,
+    151,
     151
    ]
   },
@@ -5833,10 +5846,10 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       1230,
+       722,
        "[Page 152]"
       ]
      ]
@@ -5850,26 +5863,26 @@
   },
   {
    "id": "48_1615",
-   "marks": [],
-   "path": "Chapter 012 - Virgin Islands/Subchapter 005 (V) - Judicial Branch/§ 01615 - Judicial divisions.md",
-   "printed_pages": [
-    152,
-    152
-   ]
-  },
-  {
-   "id": "48_1616",
    "marks": [
     [
      "L",
-     6,
+     4,
      "[Page 153]",
      true
     ]
    ],
-   "path": "Chapter 012 - Virgin Islands/Subchapter 005 (V) - Judicial Branch/§ 01616 - Trial by jury.md",
+   "path": "Chapter 012 - Virgin Islands/Subchapter 005 (V) - Judicial Branch/§ 01615 - Judicial divisions.md",
    "printed_pages": [
     152,
+    153
+   ]
+  },
+  {
+   "id": "48_1616",
+   "marks": [],
+   "path": "Chapter 012 - Virgin Islands/Subchapter 005 (V) - Judicial Branch/§ 01616 - Trial by jury.md",
+   "printed_pages": [
+    153,
     153
    ]
   },
@@ -5893,11 +5906,22 @@
   },
   {
    "id": "48_1631",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       343,
+       "[Page 154]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 012 - Virgin Islands/Subchapter 006 (VI) - System of Accounts/§ 01631 - Establishment and maintenance; scope.md",
    "printed_pages": [
     153,
-    153
+    154
    ]
   },
   {
@@ -5905,8 +5929,8 @@
    "marks": [],
    "path": "Chapter 012 - Virgin Islands/Subchapter 006 (VI) - System of Accounts/§ 01632 - Repealed. Pub. L. 90–496, §14, Aug. 23, 1968, 82 Stat. 842.md",
    "printed_pages": [
-    153,
-    153
+    154,
+    154
    ]
   },
   {
@@ -5914,47 +5938,32 @@
    "marks": [],
    "path": "Chapter 012 - Virgin Islands/Subchapter 007 (VII) - Fiscal Provisions/README.md",
    "printed_pages": [
-    153,
-    153
+    154,
+    154
    ]
   },
   {
    "id": "48_1641",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       138,
-       "[Page 154]"
-      ]
-     ]
+     "L",
+     46,
+     "[Page 155]",
+     true
     ]
    ],
    "path": "Chapter 012 - Virgin Islands/Subchapter 007 (VII) - Fiscal Provisions/§ 01641 - Method of payment of official salaries.md",
    "printed_pages": [
-    153,
-    154
+    154,
+    155
    ]
   },
   {
    "id": "48_1642",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       332,
-       "[Page 155]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 012 - Virgin Islands/Subchapter 007 (VII) - Fiscal Provisions/§ 01642 - Use of certain proceeds for expenditure; income tax obligations of inhabitants.md",
    "printed_pages": [
-    154,
+    155,
     155
    ]
   },
@@ -5978,30 +5987,26 @@
   },
   {
    "id": "48_1644",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 156]",
+     true
+    ]
+   ],
    "path": "Chapter 012 - Virgin Islands/Subchapter 007 (VII) - Fiscal Provisions/§ 01644 - Import duties on articles entering United States or possessions from Virgin Islands.md",
    "printed_pages": [
     155,
-    155
+    156
    ]
   },
   {
    "id": "48_1645",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       464,
-       "[Page 156]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 012 - Virgin Islands/Subchapter 007 (VII) - Fiscal Provisions/§ 01645 - Remittance of duties, taxes, and fees to be collected in next fiscal year; authorization, prerequisites, amount, etc.md",
    "printed_pages": [
-    155,
+    156,
     156
    ]
   },
@@ -6016,30 +6021,30 @@
   },
   {
    "id": "48_1661",
-   "marks": [],
-   "path": "Chapter 013 - Eastern Samoa/§ 01661 - Islands of eastern Samoa.md",
-   "printed_pages": [
-    156,
-    156
-   ]
-  },
-  {
-   "id": "48_1662",
    "marks": [
     [
      "I",
-     12,
+     22,
      [
       [
-       389,
+       108,
        "[Page 157]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 013 - Eastern Samoa/§ 01662 - Sovereignty of United States extended over Swains Island.md",
+   "path": "Chapter 013 - Eastern Samoa/§ 01661 - Islands of eastern Samoa.md",
    "printed_pages": [
     156,
+    157
+   ]
+  },
+  {
+   "id": "48_1662",
+   "marks": [],
+   "path": "Chapter 013 - Eastern Samoa/§ 01662 - Sovereignty of United States extended over Swains Island.md",
+   "printed_pages": [
+    157,
     157
    ]
   },
@@ -6074,10 +6079,14 @@
    "id": "48_1665",
    "marks": [
     [
-     "L",
-     70,
-     "[Page 158]",
-     true
+     "I",
+     4,
+     [
+      [
+       111,
+       "[Page 158]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 013 - Eastern Samoa/§ 01665 - Omitted.md",
@@ -6109,10 +6118,10 @@
    "marks": [
     [
      "I",
-     12,
+     4,
      [
       [
-       187,
+       85,
        "[Page 159]"
       ]
      ]
@@ -6138,7 +6147,7 @@
    "marks": [
     [
      "L",
-     36,
+     12,
      "[Page 160]",
      true
     ]
@@ -6162,12 +6171,18 @@
    "id": "48_1681",
    "marks": [
     [
+     "L",
+     8,
+     "[Page 161]",
+     true
+    ],
+    [
      "I",
-     32,
+     52,
      [
       [
-       767,
-       "[Page 161]"
+       106,
+       "[Page 162]"
       ]
      ]
     ]
@@ -6175,7 +6190,7 @@
    "path": "Chapter 014 - Trust Territory of the Pacific Islands/§ 01681 - Continuance of civil government for Trust Territory of the Pacific Islands; assistance programs; maximum fiscal year costs; reimbursement.md",
    "printed_pages": [
     160,
-    161
+    162
    ]
   },
   {
@@ -6183,27 +6198,16 @@
    "marks": [],
    "path": "Chapter 014 - Trust Territory of the Pacific Islands/§ 01681a - Appointment of High Commissioner.md",
    "printed_pages": [
-    161,
-    161
+    162,
+    162
    ]
   },
   {
    "id": "48_1681b",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       463,
-       "[Page 162]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Trust Territory of the Pacific Islands/§ 01681b - Transfer of functions from government comptroller for Guam to Inspector General, Department of the Interior.md",
    "printed_pages": [
-    161,
+    162,
     162
    ]
   },
@@ -6218,30 +6222,26 @@
   },
   {
    "id": "48_1682",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 163]",
+     true
+    ]
+   ],
    "path": "Chapter 014 - Trust Territory of the Pacific Islands/§ 01682 - Omitted.md",
    "printed_pages": [
     162,
-    162
+    163
    ]
   },
   {
    "id": "48_1683",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       142,
-       "[Page 163]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Trust Territory of the Pacific Islands/§ 01683 - Auditing of transactions of Trust Territory of the Pacific Islands.md",
    "printed_pages": [
-    162,
+    163,
     163
    ]
   },
@@ -6256,26 +6256,26 @@
   },
   {
    "id": "48_1685",
-   "marks": [],
-   "path": "Chapter 014 - Trust Territory of the Pacific Islands/§ 01685 - Transfer of property or money for administration of Trust Territory of the Pacific Islands.md",
-   "printed_pages": [
-    163,
-    163
-   ]
-  },
-  {
-   "id": "48_1686,_1687",
    "marks": [
     [
      "L",
-     26,
+     4,
      "[Page 164]",
      true
     ]
    ],
-   "path": "Chapter 014 - Trust Territory of the Pacific Islands/§ 01686, 1687 - Omitted.md",
+   "path": "Chapter 014 - Trust Territory of the Pacific Islands/§ 01685 - Transfer of property or money for administration of Trust Territory of the Pacific Islands.md",
    "printed_pages": [
     163,
+    164
+   ]
+  },
+  {
+   "id": "48_1686,_1687",
+   "marks": [],
+   "path": "Chapter 014 - Trust Territory of the Pacific Islands/§ 01686, 1687 - Omitted.md",
+   "printed_pages": [
+    164,
     164
    ]
   },
@@ -6319,10 +6319,14 @@
    "id": "48_1692",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 165]",
-     true
+     "I",
+     2,
+     [
+      [
+       276,
+       "[Page 165]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 014 - Trust Territory of the Pacific Islands/§ 01692 - Comprehensive annual financial report by chief executives of governments of the Marshall Islands, Federated States of Micronesia, Palau….md",
@@ -6360,11 +6364,22 @@
   },
   {
    "id": "48_-ch15",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     7,
+     [
+      [
+       27,
+       "[Page 166]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 015 - Conveyance of Submerged Lands to Territories/README.md",
    "printed_pages": [
     165,
-    165
+    166
    ]
   },
   {
@@ -6372,23 +6387,16 @@
    "marks": [],
    "path": "Chapter 015 - Conveyance of Submerged Lands to Territories/§ 01701 to 1703 - Repealed. Pub. L. 93–435, §5, Oct. 5, 1974, 88 Stat. 1212.md",
    "printed_pages": [
-    165,
-    165
+    166,
+    166
    ]
   },
   {
    "id": "48_1704",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 166]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 015 - Conveyance of Submerged Lands to Territories/§ 01704 - Concurrent jurisdiction; exceptions for national defense purposes.md",
    "printed_pages": [
-    165,
+    166,
     166
    ]
   },
@@ -6397,23 +6405,19 @@
    "marks": [
     [
      "I",
-     40,
+     30,
      [
       [
-       137,
+       92,
        "[Page 167]"
       ]
      ]
     ],
     [
-     "I",
-     88,
-     [
-      [
-       364,
-       "[Page 168]"
-      ]
-     ]
+     "L",
+     78,
+     "[Page 168]",
+     true
     ]
    ],
    "path": "Chapter 015 - Conveyance of Submerged Lands to Territories/§ 01705 - Tidelands, submerged lands, or filled lands.md",
@@ -6433,26 +6437,26 @@
   },
   {
    "id": "48_1707",
-   "marks": [],
-   "path": "Chapter 015 - Conveyance of Submerged Lands to Territories/§ 01707 - Payment of rents, royalties, and fees to local government.md",
-   "printed_pages": [
-    168,
-    168
-   ]
-  },
-  {
-   "id": "48_1708",
    "marks": [
     [
      "L",
-     14,
+     4,
      "[Page 169]",
      true
     ]
    ],
-   "path": "Chapter 015 - Conveyance of Submerged Lands to Territories/§ 01708 - Discrimination prohibited in rights of access to, and benefits from, conveyed lands.md",
+   "path": "Chapter 015 - Conveyance of Submerged Lands to Territories/§ 01707 - Payment of rents, royalties, and fees to local government.md",
    "printed_pages": [
     168,
+    169
+   ]
+  },
+  {
+   "id": "48_1708",
+   "marks": [],
+   "path": "Chapter 015 - Conveyance of Submerged Lands to Territories/§ 01708 - Discrimination prohibited in rights of access to, and benefits from, conveyed lands.md",
+   "printed_pages": [
+    169,
     169
    ]
   },
@@ -6494,11 +6498,18 @@
   },
   {
    "id": "48_1713",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 170]",
+     true
+    ]
+   ],
    "path": "Chapter 016 - Delegates to Congress/Subchapter 001 (I) - Guam and Virgin Islands/§ 01713 - Qualifications for Office of Delegate.md",
    "printed_pages": [
     169,
-    169
+    170
    ]
   },
   {
@@ -6506,27 +6517,16 @@
    "marks": [],
    "path": "Chapter 016 - Delegates to Congress/Subchapter 001 (I) - Guam and Virgin Islands/§ 01714 - Territorial legislature; determination of election procedure.md",
    "printed_pages": [
-    169,
-    169
+    170,
+    170
    ]
   },
   {
    "id": "48_1715",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       113,
-       "[Page 170]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 016 - Delegates to Congress/Subchapter 001 (I) - Guam and Virgin Islands/§ 01715 - Operation of Office; House privileges; compensation, allowances, and benefits; privileges and immunities; voting in committee.md",
    "printed_pages": [
-    169,
+    170,
     170
    ]
   },
@@ -6550,11 +6550,22 @@
   },
   {
    "id": "48_1732",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     44,
+     [
+      [
+       212,
+       "[Page 171]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 016 - Delegates to Congress/Subchapter 002 (II) - American Samoa/§ 01732 - Election of delegates.md",
    "printed_pages": [
     170,
-    170
+    171
    ]
   },
   {
@@ -6562,23 +6573,16 @@
    "marks": [],
    "path": "Chapter 016 - Delegates to Congress/Subchapter 002 (II) - American Samoa/§ 01733 - Qualifications for Office of Delegate.md",
    "printed_pages": [
-    170,
-    170
+    171,
+    171
    ]
   },
   {
    "id": "48_1734",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 171]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 016 - Delegates to Congress/Subchapter 002 (II) - American Samoa/§ 01734 - Territorial government; determination of election procedure.md",
    "printed_pages": [
-    170,
+    171,
     171
    ]
   },
@@ -6611,11 +6615,18 @@
   },
   {
    "id": "48_1752",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     24,
+     "[Page 172]",
+     true
+    ]
+   ],
    "path": "Chapter 016 - Delegates to Congress/Subchapter 003 (III) - Northern Mariana Islands Delegate/§ 01752 - Election of Delegate.md",
    "printed_pages": [
     171,
-    171
+    172
    ]
   },
   {
@@ -6623,23 +6634,16 @@
    "marks": [],
    "path": "Chapter 016 - Delegates to Congress/Subchapter 003 (III) - Northern Mariana Islands Delegate/§ 01753 - Qualifications for office of Delegate.md",
    "printed_pages": [
-    171,
-    171
+    172,
+    172
    ]
   },
   {
    "id": "48_1754",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 172]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 016 - Delegates to Congress/Subchapter 003 (III) - Northern Mariana Islands Delegate/§ 01754 - Determination of election procedure.md",
    "printed_pages": [
-    171,
+    172,
     172
    ]
   },
@@ -6672,11 +6676,22 @@
   },
   {
    "id": "48_-ch17",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     37,
+     [
+      [
+       98,
+       "[Page 173]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 017 - Northern Mariana Islands/README.md",
    "printed_pages": [
     172,
-    172
+    173
    ]
   },
   {
@@ -6684,8 +6699,8 @@
    "marks": [],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 001 (I) - Approval of Covenant and Supplemental Provisions/README.md",
    "printed_pages": [
-    172,
-    172
+    173,
+    173
    ]
   },
   {
@@ -6693,111 +6708,105 @@
    "marks": [
     [
      "I",
-     20,
+     52,
      [
       [
-       160,
-       "[Page 173]"
+       419,
+       "[Page 174]"
       ]
      ]
     ],
     [
      "L",
-     78,
-     "[Page 174]",
+     132,
+     "[Page 175]",
      true
     ],
     [
      "I",
-     150,
+     186,
      [
       [
-       757,
-       "[Page 175]"
+       1388,
+       "[Page 176]"
       ]
      ]
     ],
     [
-     "L",
-     212,
-     "[Page 176]",
-     true
-    ],
-    [
      "I",
-     272,
+     250,
      [
       [
-       104,
+       321,
        "[Page 177]"
       ]
      ]
     ],
     [
      "I",
-     328,
+     320,
      [
       [
-       800,
+       98,
        "[Page 178]"
       ]
      ]
     ],
     [
-     "I",
-     378,
-     [
-      [
-       588,
-       "[Page 179]"
-      ]
-     ]
+     "L",
+     360,
+     "[Page 179]",
+     true
     ],
     [
      "I",
-     498,
+     486,
      [
       [
-       158,
+       220,
        "[Page 180]"
       ]
      ]
     ],
     [
-     "L",
-     548,
-     "[Page 181]",
-     true
+     "I",
+     538,
+     [
+      [
+       1759,
+       "[Page 181]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 001 (I) - Approval of Covenant and Supplemental Provisions/§ 01801 - Approval of Covenant to Establish a Commonwealth of the Northern Mariana Islands.md",
    "printed_pages": [
-    172,
+    173,
     181
    ]
   },
   {
    "id": "48_1802",
-   "marks": [],
-   "path": "Chapter 017 - Northern Mariana Islands/Subchapter 001 (I) - Approval of Covenant and Supplemental Provisions/§ 01802 - Consideration of issues affecting relations with United States.md",
-   "printed_pages": [
-    181,
-    181
-   ]
-  },
-  {
-   "id": "48_1803",
    "marks": [
     [
      "L",
-     6,
+     14,
      "[Page 182]",
      true
     ]
    ],
-   "path": "Chapter 017 - Northern Mariana Islands/Subchapter 001 (I) - Approval of Covenant and Supplemental Provisions/§ 01803 - Financial assistance to Government of Northern Mariana Islands.md",
+   "path": "Chapter 017 - Northern Mariana Islands/Subchapter 001 (I) - Approval of Covenant and Supplemental Provisions/§ 01802 - Consideration of issues affecting relations with United States.md",
    "printed_pages": [
     181,
+    182
+   ]
+  },
+  {
+   "id": "48_1803",
+   "marks": [],
+   "path": "Chapter 017 - Northern Mariana Islands/Subchapter 001 (I) - Approval of Covenant and Supplemental Provisions/§ 01803 - Financial assistance to Government of Northern Mariana Islands.md",
+   "printed_pages": [
+    182,
     182
    ]
   },
@@ -6805,10 +6814,14 @@
    "id": "48_1804",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 183]",
-     true
+     "I",
+     18,
+     [
+      [
+       1104,
+       "[Page 183]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 001 (I) - Approval of Covenant and Supplemental Provisions/§ 01804 - Direct grant assistance.md",
@@ -6819,11 +6832,22 @@
   },
   {
    "id": "48_1805",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       231,
+       "[Page 184]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 001 (I) - Approval of Covenant and Supplemental Provisions/§ 01805 - Failure to meet performance standards; resolution of issues; withholding of funds.md",
    "printed_pages": [
     183,
-    183
+    184
    ]
   },
   {
@@ -6831,42 +6855,40 @@
    "marks": [
     [
      "I",
-     6,
+     44,
      [
       [
-       95,
-       "[Page 184]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     52,
-     [
-      [
-       88,
+       178,
        "[Page 185]"
       ]
      ]
     ],
     [
-     "L",
-     92,
-     "[Page 186]",
-     true
-    ],
-    [
-     "L",
-     152,
-     "[Page 187]",
-     true
+     "I",
+     76,
+     [
+      [
+       896,
+       "[Page 186]"
+      ]
+     ]
     ],
     [
      "I",
-     218,
+     134,
      [
       [
-       699,
+       357,
+       "[Page 187]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     202,
+     [
+      [
+       111,
        "[Page 188]"
       ]
      ]
@@ -6874,32 +6896,36 @@
    ],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 001 (I) - Approval of Covenant and Supplemental Provisions/§ 01806 - Immigration and transition.md",
    "printed_pages": [
-    183,
+    184,
     188
    ]
   },
   {
    "id": "48_1807",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     18,
+     [
+      [
+       93,
+       "[Page 189]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 001 (I) - Approval of Covenant and Supplemental Provisions/§ 01807 - Technical assistance program.md",
    "printed_pages": [
     188,
-    188
+    189
    ]
   },
   {
    "id": "48_1808",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 189]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 001 (I) - Approval of Covenant and Supplemental Provisions/§ 01808 - Operations.md",
    "printed_pages": [
-    188,
+    189,
     189
    ]
   },
@@ -6916,10 +6942,14 @@
    "id": "48_1821",
    "marks": [
     [
-     "L",
-     30,
-     "[Page 190]",
-     true
+     "I",
+     18,
+     [
+      [
+       88,
+       "[Page 190]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 002 (II) - Judicial Matters/§ 01821 - District Court for the Northern Mariana Islands.md",
@@ -6942,10 +6972,10 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       714,
+       139,
        "[Page 191]"
       ]
      ]
@@ -6959,11 +6989,18 @@
   },
   {
    "id": "48_1824",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 192]",
+     true
+    ]
+   ],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 002 (II) - Judicial Matters/§ 01824 - Relations between courts of United States and courts of Northern Mariana Islands; applicability of statutory provisions.md",
    "printed_pages": [
     191,
-    191
+    192
    ]
   },
   {
@@ -6971,23 +7008,16 @@
    "marks": [],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 002 (II) - Judicial Matters/§ 01825 - Effective date.md",
    "printed_pages": [
-    191,
-    191
+    192,
+    192
    ]
   },
   {
    "id": "48_1826",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 192]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 002 (II) - Judicial Matters/§ 01826 - Authorization of appropriations.md",
    "printed_pages": [
-    191,
+    192,
     192
    ]
   },
@@ -7005,59 +7035,58 @@
    "marks": [
     [
      "I",
-     22,
+     20,
      [
       [
-       601,
+       426,
        "[Page 193]"
       ]
      ]
+    ],
+    [
+     "L",
+     62,
+     "[Page 194]",
+     true
     ]
    ],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 003 (III) - Miscellaneous/§ 01841 - Funds and services.md",
    "printed_pages": [
     192,
-    193
+    194
    ]
   },
   {
    "id": "48_1842",
-   "marks": [
-    [
-     "L",
-     20,
-     "[Page 194]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 017 - Northern Mariana Islands/Subchapter 003 (III) - Miscellaneous/§ 01842 - Covering into Commonwealth treasury of tax proceeds collected pursuant to Covenant.md",
    "printed_pages": [
-    193,
+    194,
     194
    ]
   },
   {
    "id": "48_1843",
-   "marks": [],
-   "path": "Chapter 017 - Northern Mariana Islands/Subchapter 003 (III) - Miscellaneous/§ 01843 - Exemption from taxation for income derived from sources within Commonwealth.md",
-   "printed_pages": [
-    194,
-    194
-   ]
-  },
-  {
-   "id": "48_1844",
    "marks": [
     [
      "L",
-     12,
+     40,
      "[Page 195]",
      true
     ]
    ],
-   "path": "Chapter 017 - Northern Mariana Islands/Subchapter 003 (III) - Miscellaneous/§ 01844 - Political union between Territory of Guam and Commonwealth of Northern Mariana Islands.md",
+   "path": "Chapter 017 - Northern Mariana Islands/Subchapter 003 (III) - Miscellaneous/§ 01843 - Exemption from taxation for income derived from sources within Commonwealth.md",
    "printed_pages": [
     194,
+    195
+   ]
+  },
+  {
+   "id": "48_1844",
+   "marks": [],
+   "path": "Chapter 017 - Northern Mariana Islands/Subchapter 003 (III) - Miscellaneous/§ 01844 - Political union between Territory of Guam and Commonwealth of Northern Mariana Islands.md",
+   "printed_pages": [
+    195,
     195
    ]
   },
@@ -7081,11 +7110,22 @@
   },
   {
    "id": "48_-ch18",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     56,
+     [
+      [
+       39,
+       "[Page 196]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/README.md",
    "printed_pages": [
     195,
-    195
+    196
    ]
   },
   {
@@ -7093,8 +7133,8 @@
    "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/README.md",
    "printed_pages": [
-    195,
-    195
+    196,
+    196
    ]
   },
   {
@@ -7102,8 +7142,8 @@
    "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/Part A - Approval and Implementation of Original Compact/README.md",
    "printed_pages": [
-    195,
-    195
+    196,
+    196
    ]
   },
   {
@@ -7111,166 +7151,168 @@
    "marks": [
     [
      "I",
-     4,
+     48,
      [
       [
-       181,
-       "[Page 196]"
+       93,
+       "[Page 197]"
       ]
      ]
     ],
     [
-     "L",
-     56,
-     "[Page 197]",
-     true
-    ],
-    [
      "I",
-     116,
+     100,
      [
       [
-       104,
+       485,
        "[Page 198]"
       ]
      ]
     ],
     [
      "I",
-     182,
+     168,
      [
       [
-       639,
+       104,
        "[Page 199]"
       ]
      ]
     ],
     [
      "I",
-     238,
+     218,
      [
       [
-       264,
+       522,
        "[Page 200]"
       ]
      ]
     ],
     [
      "I",
-     292,
+     282,
      [
       [
-       581,
+       366,
        "[Page 201]"
       ]
      ]
     ],
     [
      "I",
-     334,
+     320,
      [
       [
-       211,
+       429,
        "[Page 202]"
       ]
      ]
     ],
     [
      "L",
-     384,
+     378,
      "[Page 203]",
      true
     ],
     [
-     "L",
-     432,
-     "[Page 204]",
-     true
+     "I",
+     424,
+     [
+      [
+       220,
+       "[Page 204]"
+      ]
+     ]
     ],
     [
      "I",
-     498,
+     474,
      [
       [
-       213,
+       419,
        "[Page 205]"
       ]
      ]
     ],
     [
      "I",
-     562,
+     550,
      [
       [
-       376,
+       100,
        "[Page 206]"
       ]
      ]
     ],
     [
      "I",
-     618,
+     612,
      [
       [
-       375,
+       101,
        "[Page 207]"
       ]
      ]
     ],
     [
      "I",
-     690,
+     668,
      [
       [
-       103,
+       105,
        "[Page 208]"
       ]
      ]
     ],
     [
      "I",
-     762,
+     740,
      [
       [
-       320,
+       266,
        "[Page 209]"
       ]
      ]
     ],
     [
      "I",
-     834,
+     808,
      [
       [
-       99,
+       109,
        "[Page 210]"
       ]
      ]
     ],
     [
      "L",
-     910,
+     886,
      "[Page 211]",
      true
     ],
     [
      "L",
-     980,
+     956,
      "[Page 212]",
      true
     ],
     [
-     "L",
-     1064,
-     "[Page 213]",
-     true
+     "I",
+     1062,
+     [
+      [
+       216,
+       "[Page 213]"
+      ]
+     ]
     ],
     [
      "I",
-     1144,
+     1142,
      [
       [
-       767,
+       111,
        "[Page 214]"
       ]
      ]
@@ -7280,7 +7322,7 @@
      1188,
      [
       [
-       209,
+       330,
        "[Page 215]"
       ]
      ]
@@ -7288,7 +7330,7 @@
    ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/Part A - Approval and Implementation of Original Compact/§ 01901 - Approval of Compact of Free Association.md",
    "printed_pages": [
-    195,
+    196,
     215
    ]
   },
@@ -7297,20 +7339,20 @@
    "marks": [
     [
      "I",
-     36,
+     22,
      [
       [
-       312,
+       182,
        "[Page 216]"
       ]
      ]
     ],
     [
      "I",
-     94,
+     74,
      [
       [
-       88,
+       267,
        "[Page 217]"
       ]
      ]
@@ -7327,57 +7369,75 @@
    "marks": [
     [
      "I",
-     30,
+     14,
      [
       [
-       223,
+       538,
        "[Page 218]"
       ]
      ]
     ],
     [
      "I",
-     78,
+     66,
      [
       [
-       90,
+       98,
        "[Page 219]"
       ]
      ]
     ],
     [
-     "L",
-     108,
-     "[Page 220]",
-     true
-    ],
-    [
      "I",
-     134,
+     94,
      [
       [
-       139,
-       "[Page 221]"
+       510,
+       "[Page 220]"
       ]
      ]
     ],
     [
      "L",
-     182,
-     "[Page 222]",
+     124,
+     "[Page 221]",
      true
     ],
     [
-     "L",
-     244,
-     "[Page 223]",
-     true
+     "I",
+     158,
+     [
+      [
+       190,
+       "[Page 222]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     218,
+     [
+      [
+       227,
+       "[Page 223]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     278,
+     [
+      [
+       633,
+       "[Page 224]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/Part A - Approval and Implementation of Original Compact/§ 01903 - Agreements with and other provisions related to Marshall Islands.md",
    "printed_pages": [
     217,
-    223
+    224
    ]
   },
   {
@@ -7385,30 +7445,20 @@
    "marks": [
     [
      "I",
-     4,
+     26,
      [
       [
-       93,
-       "[Page 224]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     42,
-     [
-      [
-       89,
+       861,
        "[Page 225]"
       ]
      ]
     ],
     [
      "I",
-     92,
+     64,
      [
       [
-       161,
+       95,
        "[Page 226]"
       ]
      ]
@@ -7416,7 +7466,7 @@
    ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/Part A - Approval and Implementation of Original Compact/§ 01904 - Interpretation of and United States policy regarding Compact of Free Association.md",
    "printed_pages": [
-    223,
+    224,
     226
    ]
   },
@@ -7425,41 +7475,53 @@
    "marks": [
     [
      "I",
-     24,
+     10,
      [
       [
-       95,
+       378,
        "[Page 227]"
       ]
      ]
     ],
     [
-     "L",
-     78,
-     "[Page 228]",
-     true
-    ],
-    [
-     "L",
-     118,
-     "[Page 229]",
-     true
+     "I",
+     58,
+     [
+      [
+       138,
+       "[Page 228]"
+      ]
+     ]
     ],
     [
      "I",
-     164,
+     106,
      [
       [
-       93,
+       443,
+       "[Page 229]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     148,
+     [
+      [
+       459,
        "[Page 230]"
       ]
      ]
     ],
     [
-     "L",
-     216,
-     "[Page 231]",
-     true
+     "I",
+     196,
+     [
+      [
+       168,
+       "[Page 231]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/Part A - Approval and Implementation of Original Compact/§ 01905 - Supplemental provisions.md",
@@ -7470,26 +7532,26 @@
   },
   {
    "id": "48_1906",
-   "marks": [],
-   "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/Part A - Approval and Implementation of Original Compact/§ 01906 - Construction contract assistance.md",
-   "printed_pages": [
-    231,
-    231
-   ]
-  },
-  {
-   "id": "48_1907",
    "marks": [
     [
      "L",
-     20,
+     18,
      "[Page 232]",
      true
     ]
    ],
-   "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/Part A - Approval and Implementation of Original Compact/§ 01907 - Limitations.md",
+   "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/Part A - Approval and Implementation of Original Compact/§ 01906 - Construction contract assistance.md",
    "printed_pages": [
     231,
+    232
+   ]
+  },
+  {
+   "id": "48_1907",
+   "marks": [],
+   "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/Part A - Approval and Implementation of Original Compact/§ 01907 - Limitations.md",
+   "printed_pages": [
+    232,
     232
    ]
   },
@@ -7513,46 +7575,50 @@
   },
   {
    "id": "48_1910",
-   "marks": [],
-   "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/Part A - Approval and Implementation of Original Compact/§ 01910 - Implementation of audit agreements.md",
-   "printed_pages": [
-    232,
-    232
-   ]
-  },
-  {
-   "id": "48_1911",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 233]",
-     true
-    ]
-   ],
-   "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/Part A - Approval and Implementation of Original Compact/§ 01911 - Compensatory adjustments.md",
-   "printed_pages": [
-    232,
-    233
-   ]
-  },
-  {
-   "id": "48_1912",
    "marks": [
     [
      "I",
      8,
      [
       [
-       238,
+       91,
+       "[Page 233]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/Part A - Approval and Implementation of Original Compact/§ 01910 - Implementation of audit agreements.md",
+   "printed_pages": [
+    232,
+    233
+   ]
+  },
+  {
+   "id": "48_1911",
+   "marks": [
+    [
+     "I",
+     30,
+     [
+      [
+       342,
        "[Page 234]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/Part A - Approval and Implementation of Original Compact/§ 01912 - Jurisdiction.md",
+   "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/Part A - Approval and Implementation of Original Compact/§ 01911 - Compensatory adjustments.md",
    "printed_pages": [
     233,
+    234
+   ]
+  },
+  {
+   "id": "48_1912",
+   "marks": [],
+   "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/Part A - Approval and Implementation of Original Compact/§ 01912 - Jurisdiction.md",
+   "printed_pages": [
+    234,
     234
    ]
   },
@@ -7569,306 +7635,312 @@
    "id": "48_1921",
    "marks": [
     [
-     "L",
-     16,
-     "[Page 235]",
-     true
+     "I",
+     8,
+     [
+      [
+       91,
+       "[Page 235]"
+      ]
+     ]
     ],
     [
      "I",
-     62,
+     42,
      [
       [
-       104,
+       596,
        "[Page 236]"
       ]
      ]
     ],
     [
-     "L",
-     128,
-     "[Page 237]",
-     true
+     "I",
+     94,
+     [
+      [
+       320,
+       "[Page 237]"
+      ]
+     ]
     ],
     [
      "I",
-     190,
+     170,
      [
       [
-       421,
+       99,
        "[Page 238]"
       ]
      ]
     ],
     [
-     "I",
-     232,
-     [
-      [
-       100,
-       "[Page 239]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     278,
-     [
-      [
-       264,
-       "[Page 240]"
-      ]
-     ]
+     "L",
+     216,
+     "[Page 239]",
+     true
     ],
     [
      "L",
-     334,
+     268,
+     "[Page 240]",
+     true
+    ],
+    [
+     "L",
+     306,
      "[Page 241]",
      true
     ],
     [
      "I",
-     374,
+     358,
      [
       [
-       112,
+       110,
        "[Page 242]"
       ]
      ]
     ],
     [
      "L",
-     432,
+     406,
      "[Page 243]",
      true
     ],
     [
      "I",
-     477,
+     456,
      [
       [
-       32,
+       425,
        "[Page 244]"
       ]
      ]
     ],
     [
-     "L",
-     549,
-     "[Page 245]",
-     true
-    ],
-    [
      "I",
-     615,
+     533,
      [
       [
-       108,
-       "[Page 246]"
+       321,
+       "[Page 245]"
       ]
      ]
     ],
     [
+     "L",
+     587,
+     "[Page 246]",
+     true
+    ],
+    [
      "I",
-     681,
+     659,
      [
       [
-       263,
+       102,
        "[Page 247]"
       ]
      ]
     ],
     [
      "I",
-     751,
+     725,
      [
       [
-       256,
+       264,
        "[Page 248]"
       ]
      ]
     ],
     [
      "I",
-     815,
+     779,
      [
       [
-       106,
+       323,
        "[Page 249]"
       ]
      ]
     ],
     [
-     "L",
-     869,
-     "[Page 250]",
-     true
+     "I",
+     849,
+     [
+      [
+       528,
+       "[Page 250]"
+      ]
+     ]
     ],
     [
      "I",
-     935,
+     915,
      [
       [
-       157,
+       104,
        "[Page 251]"
       ]
      ]
     ],
     [
-     "L",
-     1009,
-     "[Page 252]",
-     true
-    ],
-    [
-     "L",
-     1097,
-     "[Page 253]",
-     true
+     "I",
+     983,
+     [
+      [
+       196,
+       "[Page 252]"
+      ]
+     ]
     ],
     [
      "I",
-     1153,
+     1061,
      [
       [
-       108,
-       "[Page 254]"
+       151,
+       "[Page 253]"
       ]
      ]
     ],
     [
      "L",
-     1197,
-     "[Page 255]",
+     1143,
+     "[Page 254]",
      true
     ],
     [
      "I",
-     1241,
+     1183,
      [
       [
-       105,
+       321,
+       "[Page 255]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     1227,
+     [
+      [
+       259,
        "[Page 256]"
       ]
      ]
     ],
     [
      "I",
-     1295,
+     1275,
      [
       [
-       686,
+       425,
        "[Page 257]"
       ]
      ]
     ],
     [
      "I",
-     1341,
+     1317,
      [
       [
-       105,
+       262,
        "[Page 258]"
       ]
      ]
     ],
     [
      "I",
-     1383,
+     1379,
      [
       [
-       473,
+       109,
        "[Page 259]"
       ]
      ]
     ],
     [
      "I",
-     1423,
+     1409,
      [
       [
-       101,
+       1020,
        "[Page 260]"
       ]
      ]
     ],
     [
      "I",
-     1490,
+     1452,
      [
       [
-       161,
+       43,
        "[Page 261]"
       ]
      ]
     ],
     [
-     "I",
-     1536,
-     [
-      [
-       1007,
-       "[Page 262]"
-      ]
-     ]
+     "L",
+     1518,
+     "[Page 262]",
+     true
     ],
     [
      "I",
-     1598,
+     1584,
      [
       [
-       104,
+       110,
        "[Page 263]"
       ]
      ]
     ],
     [
      "I",
-     1674,
+     1650,
      [
       [
-       266,
+       216,
        "[Page 264]"
       ]
      ]
     ],
     [
      "I",
-     1744,
+     1720,
      [
       [
-       103,
+       151,
        "[Page 265]"
       ]
      ]
     ],
     [
-     "I",
-     1802,
-     [
-      [
-       101,
-       "[Page 266]"
-      ]
-     ]
+     "L",
+     1782,
+     "[Page 266]",
+     true
+    ],
+    [
+     "L",
+     1840,
+     "[Page 267]",
+     true
+    ],
+    [
+     "L",
+     1906,
+     "[Page 268]",
+     true
     ],
     [
      "I",
-     1866,
+     1980,
      [
       [
-       109,
-       "[Page 267]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     1932,
-     [
-      [
-       149,
-       "[Page 268]"
+       100,
+       "[Page 269]"
       ]
      ]
     ]
@@ -7876,7 +7948,7 @@
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/Part B - Approval and Implementation of Compacts, as Amended/§ 01921 - Approval of U.S.-FSM Compact of Free Association and the U.S.-RMI Compact of Free Association; references to subsidiary agreements or….md",
    "printed_pages": [
     234,
-    268
+    269
    ]
   },
   {
@@ -7884,24 +7956,18 @@
    "marks": [
     [
      "I",
-     4,
+     30,
      [
       [
-       275,
-       "[Page 269]"
+       666,
+       "[Page 270]"
       ]
      ]
-    ],
-    [
-     "L",
-     50,
-     "[Page 270]",
-     true
     ]
    ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/Part B - Approval and Implementation of Compacts, as Amended/§ 01921a - Agreements with Federated States of Micronesia.md",
    "printed_pages": [
-    268,
+    269,
     270
    ]
   },
@@ -7910,106 +7976,94 @@
    "marks": [
     [
      "I",
-     30,
+     18,
      [
       [
-       235,
+       690,
        "[Page 271]"
       ]
      ]
     ],
     [
-     "I",
-     70,
-     [
-      [
-       1165,
-       "[Page 272]"
-      ]
-     ]
+     "L",
+     60,
+     "[Page 272]",
+     true
     ],
     [
      "I",
-     92,
+     82,
      [
       [
-       356,
+       326,
        "[Page 273]"
       ]
      ]
     ],
     [
+     "L",
+     118,
+     "[Page 274]",
+     true
+    ],
+    [
      "I",
-     142,
+     164,
      [
       [
        96,
-       "[Page 274]"
+       "[Page 275]"
       ]
      ]
     ],
     [
-     "I",
-     188,
-     [
-      [
-       91,
-       "[Page 275]"
-      ]
-     ]
+     "L",
+     214,
+     "[Page 276]",
+     true
     ]
    ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/Part B - Approval and Implementation of Compacts, as Amended/§ 01921b - Agreements with and other provisions related to the Republic of the Marshall Islands.md",
    "printed_pages": [
     270,
-    275
+    276
    ]
   },
   {
    "id": "48_1921c",
    "marks": [
     [
-     "I",
-     10,
-     [
-      [
-       595,
-       "[Page 276]"
-      ]
-     ]
-    ],
-    [
      "L",
-     54,
+     32,
      "[Page 277]",
      true
     ],
     [
-     "I",
-     108,
-     [
-      [
-       291,
-       "[Page 278]"
-      ]
-     ]
+     "L",
+     86,
+     "[Page 278]",
+     true
     ],
     [
      "L",
-     154,
+     134,
      "[Page 279]",
      true
     ],
     [
-     "L",
-     208,
-     "[Page 280]",
-     true
+     "I",
+     174,
+     [
+      [
+       154,
+       "[Page 280]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/Part B - Approval and Implementation of Compacts, as Amended/§ 01921c - Interpretation of and United States policy regarding U.S.-FSM Compact and U.S.-RMI Compact.md",
    "printed_pages": [
-    275,
+    276,
     280
    ]
   },
@@ -8018,59 +8072,51 @@
    "marks": [
     [
      "I",
-     60,
+     16,
      [
       [
-       117,
+       331,
        "[Page 281]"
       ]
      ]
     ],
     [
      "L",
-     90,
+     74,
      "[Page 282]",
      true
     ],
     [
      "I",
-     132,
+     118,
      [
       [
-       343,
+       507,
        "[Page 283]"
       ]
      ]
     ],
     [
-     "I",
-     174,
-     [
-      [
-       363,
-       "[Page 284]"
-      ]
-     ]
+     "L",
+     158,
+     "[Page 284]",
+     true
     ],
     [
      "I",
-     214,
+     196,
      [
       [
-       86,
+       87,
        "[Page 285]"
       ]
      ]
     ],
     [
-     "I",
-     262,
-     [
-      [
-       107,
-       "[Page 286]"
-      ]
-     ]
+     "L",
+     244,
+     "[Page 286]",
+     true
     ]
    ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/Part B - Approval and Implementation of Compacts, as Amended/§ 01921d - Supplemental provisions.md",
@@ -8081,11 +8127,22 @@
   },
   {
    "id": "48_1921e",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       382,
+       "[Page 287]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/Part B - Approval and Implementation of Compacts, as Amended/§ 01921e - Construction contract assistance.md",
    "printed_pages": [
     286,
-    286
+    287
    ]
   },
   {
@@ -8093,37 +8150,37 @@
    "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/Part B - Approval and Implementation of Compacts, as Amended/§ 01921f - Prohibition.md",
    "printed_pages": [
-    286,
-    286
+    287,
+    287
    ]
   },
   {
    "id": "48_1921g",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       89,
-       "[Page 287]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/Part B - Approval and Implementation of Compacts, as Amended/§ 01921g - Compensatory adjustments.md",
    "printed_pages": [
-    286,
+    287,
     287
    ]
   },
   {
    "id": "48_1921h",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       139,
+       "[Page 288]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 001 (I) - Micronesia and Marshall Islands/Part B - Approval and Implementation of Compacts, as Amended/§ 01921h - Authorization and continuing appropriation.md",
    "printed_pages": [
     287,
-    287
+    288
    ]
   },
   {
@@ -8131,8 +8188,8 @@
    "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/README.md",
    "printed_pages": [
-    287,
-    287
+    288,
+    288
    ]
   },
   {
@@ -8140,120 +8197,132 @@
    "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part A - Approval of Compact and Supplemental Provisions/README.md",
    "printed_pages": [
-    287,
-    287
+    288,
+    288
    ]
   },
   {
    "id": "48_1931",
    "marks": [
     [
-     "I",
-     18,
-     [
-      [
-       211,
-       "[Page 288]"
-      ]
-     ]
-    ],
-    [
      "L",
-     84,
+     50,
      "[Page 289]",
      true
     ],
     [
-     "L",
-     160,
-     "[Page 290]",
-     true
-    ],
-    [
-     "L",
-     228,
-     "[Page 291]",
-     true
+     "I",
+     126,
+     [
+      [
+       157,
+       "[Page 290]"
+      ]
+     ]
     ],
     [
      "I",
-     290,
+     198,
      [
       [
-       359,
+       100,
+       "[Page 291]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     264,
+     [
+      [
+       104,
        "[Page 292]"
       ]
      ]
     ],
     [
      "I",
-     344,
+     330,
      [
       [
-       151,
+       323,
        "[Page 293]"
       ]
      ]
     ],
     [
-     "L",
-     406,
-     "[Page 294]",
-     true
+     "I",
+     386,
+     [
+      [
+       479,
+       "[Page 294]"
+      ]
+     ]
     ],
     [
      "I",
-     470,
+     452,
      [
       [
-       109,
+       313,
        "[Page 295]"
       ]
      ]
     ],
     [
      "I",
-     538,
+     516,
      [
       [
-       212,
+       107,
        "[Page 296]"
       ]
      ]
     ],
     [
      "L",
-     618,
+     586,
      "[Page 297]",
      true
     ],
     [
      "L",
-     696,
+     668,
      "[Page 298]",
      true
     ],
     [
      "L",
-     780,
+     750,
      "[Page 299]",
      true
     ],
     [
      "I",
-     858,
+     830,
      [
       [
-       105,
+       210,
        "[Page 300]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     890,
+     [
+      [
+       160,
+       "[Page 301]"
       ]
      ]
     ]
    ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part A - Approval of Compact and Supplemental Provisions/§ 01931 - Approval of Compact of Free Association.md",
    "printed_pages": [
-    287,
-    300
+    288,
+    301
    ]
   },
   {
@@ -8261,39 +8330,25 @@
    "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part A - Approval of Compact and Supplemental Provisions/§ 01932 - Extension of Compact of Free Association to Palau.md",
    "printed_pages": [
-    300,
-    300
+    301,
+    301
    ]
   },
   {
    "id": "48_1933",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       408,
-       "[Page 301]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 302]",
+     true
     ],
     [
      "I",
-     28,
+     50,
      [
       [
-       191,
-       "[Page 302]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     74,
-     [
-      [
-       111,
+       925,
        "[Page 303]"
       ]
      ]
@@ -8301,17 +8356,24 @@
    ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part A - Approval of Compact and Supplemental Provisions/§ 01933 - Supplemental provisions.md",
    "printed_pages": [
-    300,
+    301,
     303
    ]
   },
   {
    "id": "48_1934",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     32,
+     "[Page 304]",
+     true
+    ]
+   ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part A - Approval of Compact and Supplemental Provisions/§ 01934 - Jurisdiction.md",
    "printed_pages": [
     303,
-    303
+    304
    ]
   },
   {
@@ -8319,27 +8381,16 @@
    "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part B - Implementation of Compact/README.md",
    "printed_pages": [
-    303,
-    303
+    304,
+    304
    ]
   },
   {
    "id": "48_1951",
-   "marks": [
-    [
-     "I",
-     14,
-     [
-      [
-       105,
-       "[Page 304]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part B - Implementation of Compact/§ 01951 - Entry into force of Compact.md",
    "printed_pages": [
-    303,
+    304,
     304
    ]
   },
@@ -8354,26 +8405,26 @@
   },
   {
    "id": "48_1953",
-   "marks": [],
-   "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part B - Implementation of Compact/§ 01953 - Antidrug program.md",
-   "printed_pages": [
-    304,
-    304
-   ]
-  },
-  {
-   "id": "48_1954",
    "marks": [
     [
      "L",
-     14,
+     12,
      "[Page 305]",
      true
     ]
    ],
-   "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part B - Implementation of Compact/§ 01954 - Public auditor and special prosecutor.md",
+   "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part B - Implementation of Compact/§ 01953 - Antidrug program.md",
    "printed_pages": [
     304,
+    305
+   ]
+  },
+  {
+   "id": "48_1954",
+   "marks": [],
+   "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part B - Implementation of Compact/§ 01954 - Public auditor and special prosecutor.md",
+   "printed_pages": [
+    305,
     305
    ]
   },
@@ -8406,30 +8457,26 @@
   },
   {
    "id": "48_1958",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 306]",
+     true
+    ]
+   ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part B - Implementation of Compact/§ 01958 - Referendum costs.md",
    "printed_pages": [
     305,
-    305
+    306
    ]
   },
   {
    "id": "48_1959",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       599,
-       "[Page 306]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 002 (II) - Palau/Part B - Implementation of Compact/§ 01959 - Agreements.md",
    "printed_pages": [
-    305,
+    306,
     306
    ]
   },
@@ -8438,10 +8485,10 @@
    "marks": [
     [
      "I",
-     50,
+     22,
      [
       [
-       107,
+       92,
        "[Page 307]"
       ]
      ]
@@ -8482,26 +8529,30 @@
   },
   {
    "id": "48_1971",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       97,
+       "[Page 308]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 003 (III) - Miscellaneous Provisions/§ 01971 - Transfer of surplus personal property owned by United States.md",
    "printed_pages": [
     307,
-    307
+    308
    ]
   },
   {
    "id": "48_1972",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 308]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 018 - Micronesia, Marshall Islands, and Palau/Subchapter 003 (III) - Miscellaneous Provisions/§ 01972 - Controlled substances in freely associated states.md",
    "printed_pages": [
-    307,
+    308,
     308
    ]
   },
@@ -8516,30 +8567,30 @@
   },
   {
    "id": "48_-ch19",
-   "marks": [],
-   "path": "Chapter 019 - Pacific Policy Reports/README.md",
-   "printed_pages": [
-    308,
-    308
-   ]
-  },
-  {
-   "id": "48_2001",
    "marks": [
     [
      "I",
-     16,
+     4,
      [
       [
-       95,
+       20,
        "[Page 309]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 019 - Pacific Policy Reports/§ 02001 - Findings.md",
+   "path": "Chapter 019 - Pacific Policy Reports/README.md",
    "printed_pages": [
     308,
+    309
+   ]
+  },
+  {
+   "id": "48_2001",
+   "marks": [],
+   "path": "Chapter 019 - Pacific Policy Reports/§ 02001 - Findings.md",
+   "printed_pages": [
+    309,
     309
    ]
   },
@@ -8563,14 +8614,25 @@
   },
   {
    "id": "48_2004",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       94,
+       "[Page 310]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 019 - Pacific Policy Reports/§ 02004 - Administrative matters.md",
    "printed_pages": [
     309,
-    309
+    310
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2009-title48 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2010-title48 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 48 - Territories and Insular Possessions"
 }

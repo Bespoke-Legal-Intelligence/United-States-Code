@@ -16,9 +16,9 @@ Prior section 2103, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1223, related to p
 
 #### Amendments
 
-2008—Pub. L. 110–389 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2008</b>—Pub. L. 110–389 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 Pub. L. 110–289 substituted “individuals” for “veterans” in two places.
 
-1991—Pub. L. 102–83 renumbered section 803 of this title as this section and substituted “Secretary” for “Administrator”.
+<b>1991</b>—Pub. L. 102–83 renumbered section 803 of this title as this section and substituted “Secretary” for “Administrator”.
 

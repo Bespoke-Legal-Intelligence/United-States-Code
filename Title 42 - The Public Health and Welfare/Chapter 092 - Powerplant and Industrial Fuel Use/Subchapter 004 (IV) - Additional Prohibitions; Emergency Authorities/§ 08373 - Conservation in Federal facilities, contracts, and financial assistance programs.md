@@ -24,7 +24,7 @@
 
 &emsp;(B) setting forth procedures, sanctions, penalties, and such other provisions as the President determines necessary to carry out such requirement effectively, including a requirement that each agency annually transmit to the President, and make available to the public, a report on the actions taken and to be taken to implement such order.
 
-(2) The President may exempt by order any specific grant, loan, contract, or other form offinancial assistance from all or part of the provisions of this subsection if he determines such exemption is in the national interest. The President shall notify the Congress in writing of such exemption at least 60 days before it is effective.
+(2) The President may exempt by order any specific grant, loan, contract, or other form of financial assistance from all or part of the provisions of this subsection if he determines such exemption is in the national interest. The President shall notify the Congress in writing of such exemption at least 60 days before it is effective.
 
 (3) The President or any Federal agency may not use the authority granted under paragraph (1) to require compliance, including the use of coal, by any person or facility with any prohibition under other sections of this chapter if such person or facility has been specifically determined by the Secretary as subject to such prohibition or has been exempted from the application of such prohibition.
 
@@ -32,13 +32,15 @@
 
 #### References in Text
 
+This chapter, referred to in subsecs. (a)(1) and (b)(1), (3), was in the original “this Act”, meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
+
 The effective date of this chapter, referred to in subsec. (b)(1), is the effective date of Pub. L. 95–620. See section 901 of Pub. L. 95–620, set out as an Effective Date note under section 8301 of this title.
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102–486 struck out subsec. (c), which read as follows: “The President shall annually submit a detailed report to each House of the Congress on the actions taken by the President and each Federal agency to implement this section, including the progress and problems associated with implementation of this section.”
+<b>1992</b>—Subsec. (c). Pub. L. 102–486 struck out subsec. (c), which read as follows: “The President shall annually submit a detailed report to each House of the Congress on the actions taken by the President and each Federal agency to implement this section, including the progress and problems associated with implementation of this section.”
 
-1987—Subsec. (a)(1). Pub. L. 100–42, §1(c)(14)(A), struck out “, major fuel-burning installation, or other unit” after “electric powerplant” and “, installation, or unit” after “such powerplant”.
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–42, §1(c)(14)(A), struck out “, major fuel-burning installation, or other unit” after “electric powerplant” and “, installation, or unit” after “such powerplant”.
 
 Subsec. (a)(2). Pub. L. 100–42, §1(c)(14)(B), (C), struck out “, installation, or other unit” after “powerplant” in introductory provisions, “, installation, or unit” after “powerplant” in subpar. (A), and last sentence which read as follows: “Any powerplant, installation, or other unit permitted to use natural gas or petroleum under an exemption under this paragraph shall establish and carry out effective fuel conservation measures, as determined by the Secretary.”
 

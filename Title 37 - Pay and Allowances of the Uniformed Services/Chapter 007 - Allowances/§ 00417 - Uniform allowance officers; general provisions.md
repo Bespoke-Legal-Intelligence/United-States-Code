@@ -40,13 +40,13 @@ Subsection (b) is substituted for section 255(d) (less last sentence) of existin
 
 #### Amendments
 
-2002—Subsecs. (a), (b). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsecs. (a), (b). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1996—Subsec. (d). Pub. L. 104–106 added subsec. (d).
+<b>1996</b>—Subsec. (d). Pub. L. 104–106 added subsec. (d).
 
-1991—Subsec. (c). Pub. L. 102–25 struck out “of this section” after “subsections (a) and (b)”.
+<b>1991</b>—Subsec. (c). Pub. L. 102–25 struck out “of this section” after “subsections (a) and (b)”.
 
-1968—Subsecs. (a), (b). Pub. L. 90–623 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+<b>1968</b>—Subsecs. (a), (b). Pub. L. 90–623 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 
 #### Effective Date of 2002 Amendment
 

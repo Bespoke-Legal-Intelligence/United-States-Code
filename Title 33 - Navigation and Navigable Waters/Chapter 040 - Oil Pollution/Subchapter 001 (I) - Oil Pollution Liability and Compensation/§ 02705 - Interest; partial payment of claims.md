@@ -20,7 +20,7 @@ The responsible party or the responsible party's guarantor is liable to a claima
 
 #### (4) Calculation of interest
 
-&emsp;The interest paid under this section shall be calculated at the average of the highest rate for commercial and finance company paper of maturities of 180 days or less obtaining on each of the days included within the period forwhich interest must be paid to the claimant, as published in the Federal Reserve Bulletin.
+&emsp;The interest paid under this section shall be calculated at the average of the highest rate for commercial and finance company paper of maturities of 180 days or less obtaining on each of the days included within the period for which interest must be paid to the claimant, as published in the Federal Reserve Bulletin.
 
 #### (5) Interest not subject to liability limits
 
@@ -40,7 +40,7 @@ This Act, referred to in subsec. (a), is Pub. L. 101–380, Aug. 18, 1990, 104 S
 
 #### Amendments
 
-1996—Pub. L. 104–324, §1142(a)(1), inserted “; partial payment of claims” after “Interest” in section catchline.
+<b>1996</b>—Pub. L. 104–324, §1142(a)(1), inserted “; partial payment of claims” after “Interest” in section catchline.
 
 Subsec. (a). Pub. L. 104–324, §1142(a)(2), inserted at end “The responsible party shall establish a procedure for the payment or settlement of claims for interim, short-term damages. Payment or settlement of a claim for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled shall not preclude recovery by the claimant for damages not reflected in the paid or settled partial claim.”
 

@@ -40,7 +40,7 @@ Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substanti
 
 #### Amendments
 
-2006—Pub. L. 109–326 amended section catchline and text generally. Prior to amendment, text read as follows: “On December 31, 2002, the Director shall submit to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that describes—
+<b>2006</b>—Pub. L. 109–326 amended section catchline and text generally. Prior to amendment, text read as follows: “On December 31, 2002, the Director shall submit to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that describes—
 
 &emsp;“(1) actions taken to solicit and review proposals under section 941c of this title;
 
@@ -48,9 +48,9 @@ Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substanti
 
 &emsp;“(3) progress toward the accomplishment of the goals specified in section 941d of this title.”
 
-1998—Pub. L. 105–265 amended section generally, substituting present provisions for provisions which had required report not later than 1 year after date of enactment and annually thereafter.
+<b>1998</b>—Pub. L. 105–265 amended section generally, substituting present provisions for provisions which had required report not later than 1 year after date of enactment and annually thereafter.
 
-1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §2008, which enacted this section.
+<b>1996</b>—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §2008, which enacted this section.
 
 #### Change of Name
 

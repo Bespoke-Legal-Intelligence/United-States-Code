@@ -2,7 +2,7 @@
 
 #### (a) Designated and included conditions
 
-Permits issued under this subchapter shall designate and include (1) the type of material authorized to be transported for dumping or to be dumped; (2) the amount of material authorized to be transported for dumping or to be dumped; (3) the location where such transport for dumping will be terminated or where such dumping will occur; (4) such requirements, limitations, or conditions as are necessary to assure consistency with any site management plan approved pursuant to section 1412(c) of this title; (5) any special provisions deemed necessary by the Administrator or the Secretary, as the case may be, after consultation with the Secretary of the Department in which the Coast Guard is operating, for the monitoring and surveillance ofthe transportation or dumping; and (6) such other matters as the Administrator or the Secretary, as the case may be, deems appropriate. Permits issued under this subchapter shall be issued for a period of not to exceed 7 years.
+Permits issued under this subchapter shall designate and include (1) the type of material authorized to be transported for dumping or to be dumped; (2) the amount of material authorized to be transported for dumping or to be dumped; (3) the location where such transport for dumping will be terminated or where such dumping will occur; (4) such requirements, limitations, or conditions as are necessary to assure consistency with any site management plan approved pursuant to section 1412(c) of this title; (5) any special provisions deemed necessary by the Administrator or the Secretary, as the case may be, after consultation with the Secretary of the Department in which the Coast Guard is operating, for the monitoring and surveillance of the transportation or dumping; and (6) such other matters as the Administrator or the Secretary, as the case may be, deems appropriate. Permits issued under this subchapter shall be issued for a period of not to exceed 7 years.
 
 #### (b) Permit processing fees; reporting requirements
 
@@ -96,15 +96,15 @@ This Act and the Marine Protection, Research, and Sanctuaries Act of 1972, refer
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–580, §507(b), inserted at end “Permits issued under this subchapter shall be issued for a period of not to exceed 7 years.”
+<b>1992</b>—Subsec. (a). Pub. L. 102–580, §507(b), inserted at end “Permits issued under this subchapter shall be issued for a period of not to exceed 7 years.”
 
 Pub. L. 102–580, §507(a), amended cl. (4) generally. Prior to amendment, cl. (4) read as follows: “the length of time for which the permits are valid and their expiration date;”.
 
 Subsec. (d). Pub. L. 102–580, §507(c), inserted “, based upon monitoring data from the dump site and surrounding area,” after “where he finds”.
 
-1987—Subsec. (i)(4)(D). Pub. L. 100–17 inserted “to \_\_\_\_\_\_\_\_\_\_” after “grant a permit”.
+<b>1987</b>—Subsec. (i)(4)(D). Pub. L. 100–17 inserted “to \_\_\_\_\_\_\_\_\_\_” after “grant a permit”.
 
-1983—Subsecs. (h), (i). Pub. L. 97–424 added subsecs. (h) and (i).
+<b>1983</b>—Subsecs. (h), (i). Pub. L. 97–424 added subsecs. (h) and (i).
 
 #### Transfer of Functions
 

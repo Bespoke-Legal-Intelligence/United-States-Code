@@ -12,5 +12,5 @@ The President shall, upon the request of any committee of the Congress with legi
 
 #### Amendments
 
-1977—Pub. L. 95–147 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1977</b>—Pub. L. 95–147 designated existing provisions as subsec. (a) and added subsec. (b).
 

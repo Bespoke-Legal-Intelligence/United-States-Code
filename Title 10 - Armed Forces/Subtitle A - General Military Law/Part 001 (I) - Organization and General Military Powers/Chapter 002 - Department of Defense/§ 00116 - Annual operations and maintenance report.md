@@ -20,13 +20,13 @@
 
 #### Amendments
 
-1997—Subsec. (b)(2). Pub. L. 105–85 substituted “subsection (a)” for “such subsection”.
+<b>1997</b>—Subsec. (b)(2). Pub. L. 105–85 substituted “subsection (a)” for “such subsection”.
 
-1986—Pub. L. 99–433 successively redesignated subsecs. (e) and (f)(2) of section 138 of this title as subsecs. (e) and (f)(2) of section 114 of this title and then as subsecs. (a) and (b), respectively, of this section, added section catchline, and made minor conforming changes in text.
+<b>1986</b>—Pub. L. 99–433 successively redesignated subsecs. (e) and (f)(2) of section 138 of this title as subsecs. (e) and (f)(2) of section 114 of this title and then as subsecs. (a) and (b), respectively, of this section, added section catchline, and made minor conforming changes in text.
 
-1981—Subsec. (a)(3), (4), formerly §138(e)(3), (4). Pub. L. 97–86 struck out pars. (3) and (4) which required the Secretary to include in each report a projection of the combat readiness of specified military units proposed to be maintained during the next fiscal year.
+<b>1981</b>—Subsec. (a)(3), (4), formerly §138(e)(3), (4). Pub. L. 97–86 struck out pars. (3) and (4) which required the Secretary to include in each report a projection of the combat readiness of specified military units proposed to be maintained during the next fiscal year.
 
-1980—Subsec. (b), formerly §138(f)(2). Pub. L. 96–513 substituted “In subsection (e)” for “In subsection (f)”.
+<b>1980</b>—Subsec. (b), formerly §138(f)(2). Pub. L. 96–513 substituted “In subsection (e)” for “In subsection (f)”.
 
 #### Effective Date of 1980 Amendment
 

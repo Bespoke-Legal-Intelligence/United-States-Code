@@ -28,6 +28,10 @@ Federal major disaster and emergency assistance provided to individuals and fami
 
 (Pub. L. 93–288, title III, §312, as added Pub. L. 100–707, title I, §105(i), Nov. 23, 1988, 102 Stat. 4693.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+
 #### Prior Provisions
 
 A prior section 5155, Pub. L. 93–288, title III, §315, May 22, 1974, 88 Stat. 152, consisted of similar provisions, prior to repeal by Pub. L. 100–707, §105(i).

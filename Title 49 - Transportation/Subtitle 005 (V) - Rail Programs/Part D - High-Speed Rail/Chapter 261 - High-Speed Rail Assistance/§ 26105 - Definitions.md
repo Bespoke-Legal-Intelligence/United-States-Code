@@ -24,9 +24,9 @@ For purposes of this chapter—
 
 #### Amendments
 
-2005—Par. (1). Pub. L. 109–59 substituted “, cooperative agreements, and other transactions” for “and cooperative agreements”.
+<b>2005</b>—Par. (1). Pub. L. 109–59 substituted “, cooperative agreements, and other transactions” for “and cooperative agreements”.
 
-1998—Par. (2). Pub. L. 105–178 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘high-speed rail’ has the meaning given such term under section 511(n) of the Railroad Revitalization and Regulatory Reform Act of 1976;”.
+<b>1998</b>—Par. (2). Pub. L. 105–178 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘high-speed rail’ has the meaning given such term under section 511(n) of the Railroad Revitalization and Regulatory Reform Act of 1976;”.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

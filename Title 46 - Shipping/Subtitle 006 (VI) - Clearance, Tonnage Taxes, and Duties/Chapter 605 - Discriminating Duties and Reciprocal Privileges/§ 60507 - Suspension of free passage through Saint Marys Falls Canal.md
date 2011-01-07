@@ -30,7 +30,7 @@ In general.—A toll imposed under this section shall be collected under regulat
 
 &emsp;(2)
 
-Proof of landing.—When applicable, the Secretary also may require satisfactory proof that the passengers and cargo were landed at a port described in subsection (c)(2). Until that proof is provided, the Secretary may assume the passengers and cargo were not landed at such a port, and the amount of a toll thatotherwise would be imposed is a lien enforceable against the vessel when found in the waters of the United States.
+Proof of landing.—When applicable, the Secretary also may require satisfactory proof that the passengers and cargo were landed at a port described in subsection (c)(2). Until that proof is provided, the Secretary may assume the passengers and cargo were not landed at such a port, and the amount of a toll that otherwise would be imposed is a lien enforceable against the vessel when found in the waters of the United States.
 
 (Pub. L. 109–304, §9(b), Oct. 6, 2006, 120 Stat. 1682.)
 

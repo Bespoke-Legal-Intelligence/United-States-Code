@@ -14,9 +14,9 @@ Mandatory punishment provision was rephrased in the alternative.
 
 #### Amendments
 
-1996—Pub. L. 104–132 substituted “seven years” for “three years”.
+<b>1996</b>—Pub. L. 104–132 substituted “seven years” for “three years”.
 
-1990—Pub. L. 101–647 struck out final period at end.
+<b>1990</b>—Pub. L. 101–647 struck out final period at end.
 
-1988—Pub. L. 100–690 substituted “shall, for an attempt to commit murder be imprisoned not more than twenty years or fined under this title, or both, and for an attempt to commit manslaughter be imprisoned not more than three years or fined under this title, or both.” for “shall be fined not more than $1,000 or imprisoned not more than three years, or both”.
+<b>1988</b>—Pub. L. 100–690 substituted “shall, for an attempt to commit murder be imprisoned not more than twenty years or fined under this title, or both, and for an attempt to commit manslaughter be imprisoned not more than three years or fined under this title, or both.” for “shall be fined not more than $1,000 or imprisoned not more than three years, or both”.
 

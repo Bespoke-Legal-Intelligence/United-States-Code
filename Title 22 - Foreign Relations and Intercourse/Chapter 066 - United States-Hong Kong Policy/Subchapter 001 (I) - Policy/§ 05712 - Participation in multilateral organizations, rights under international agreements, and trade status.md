@@ -6,11 +6,11 @@ It is the sense of the Congress that the following, which are based in part on t
 
 &emsp;(2) The United States should continue to fulfill its obligations to Hong Kong under international agreements, so long as Hong Kong reciprocates, regardless of whether the People's Republic of China is a party to the particular international agreement, unless and until such obligations are modified or terminated in accordance with law.
 
-&emsp;(3) The United States should respect Hong Kong's status as a separate customs territory,and as a WTO member country (as defined in section 3501(10) of title 19), whether or not the People's Republic of China participates in the World Trade Organization (as defined in section 3501(8) of title 19).
+&emsp;(3) The United States should respect Hong Kong's status as a separate customs territory, and as a WTO member country (as defined in section 3501(10) of title 19), whether or not the People's Republic of China participates in the World Trade Organization (as defined in section 3501(8) of title 19).
 
 (Pub. L. 102–383, title I, §102, Oct. 5, 1992, 106 Stat. 1450; Pub. L. 106–36, title I, §1002(e), June 25, 1999, 113 Stat. 133.)
 
 #### Amendments
 
-1999—Par. (3). Pub. L. 106–36 substituted “WTO member country (as defined in section 3501(10) of title 19)” for “contracting party to the General Agreement on Tariffs and Trade” and “World Trade Organization (as defined in section 3501(8) of title 19)” for “latter organization”.
+<b>1999</b>—Par. (3). Pub. L. 106–36 substituted “WTO member country (as defined in section 3501(10) of title 19)” for “contracting party to the General Agreement on Tariffs and Trade” and “World Trade Organization (as defined in section 3501(8) of title 19)” for “latter organization”.
 

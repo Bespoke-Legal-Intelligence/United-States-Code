@@ -106,7 +106,7 @@ In subsection (a)(2), before clause (A), the words “after April 3, 1980” are
 
 In subsection (a)(3), the words “because of a vacancy in the office of the Comptroller General” are substituted for “under paragraph (1)” for clarity. The word “recommend” is substituted for “submit” and “submitted” for consistency. The words “to the President for consideration the names of”, “for the Office of Comptroller General”, and “within his discretion” are omitted as surplus.
 
-In subsection (b), the words “the term of . . . is 15 years” are substituted for “shall hold office for fifteenyears” for consistency. The words “eligible for” are omitted as surplus. The words “the term of . . . expires on” are substituted for “shall hold office from the date of his appointment until” to eliminate unnecessary words and for consistency. The words “to fill a vacancy in the Office of” are omitted as surplus.
+In subsection (b), the words “the term of . . . is 15 years” are substituted for “shall hold office for fifteen years” for consistency. The words “eligible for” are omitted as surplus. The words “the term of . . . expires on” are substituted for “shall hold office from the date of his appointment until” to eliminate unnecessary words and for consistency. The words “to fill a vacancy in the Office of” are omitted as surplus.
 
 In subsection (c), the words “carries out duties and powers prescribed” are substituted for “perform such duties as may be assigned” for consistency. The words “to him” are omitted as surplus.
 
@@ -120,9 +120,9 @@ In subsection (f), before clause (1), the words “basic pay” are substituted 
 
 #### Amendments
 
-2004—Subsec. (d). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (d). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1988—Subsec. (e)(1). Pub. L. 100–426 substituted “may retire after becoming 70 years of age and completing 10 years of service as Comptroller General or Deputy Comptroller General (as the case may be)” for “retires on becoming 70 years of age”.
+<b>1988</b>—Subsec. (e)(1). Pub. L. 100–426 substituted “may retire after becoming 70 years of age and completing 10 years of service as Comptroller General or Deputy Comptroller General (as the case may be)” for “retires on becoming 70 years of age”.
 
 #### Change of Name
 
@@ -136,9 +136,9 @@ Amendment by Pub. L. 100–426 effective after end of 60-day period beginning Se
 
 #### Salary Increases
 
-1987—Salaries of Comptroller General and Deputy Comptroller General increased respectively to $89,500 and $82,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
+<b>1987</b>—Salaries of Comptroller General and Deputy Comptroller General increased respectively to $89,500 and $82,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
 
-1977—Salaries of Comptroller General and Deputy Comptroller General increased respectively to $57,500 and $52,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2.
+<b>1977</b>—Salaries of Comptroller General and Deputy Comptroller General increased respectively to $57,500and $52,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2.
 
-1969—Salaries of Comptroller General and Assistant Comptroller General increased respectively to $42,500 and $40,000 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2.
+<b>1969</b>—Salaries of Comptroller General and Assistant Comptroller General increased respectively to $42,500 and $40,000 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2.
 

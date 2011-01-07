@@ -98,7 +98,7 @@ Paragraph (2) of subsection (a) shall apply with respect to any transaction only
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The employment requirements of this subparagraph are met with respect to a facility financed by the net proceeds of an issue if, as of the close of each calendar year in the testing period, the aggregate face amount of all outstanding tax-exempt private activity bonds issued to provide financing for the establishment which includes such facility is not more than 20 times greater than the aggregate wages (as defined by section 3121(a)) paid during the preceding calendar year to individuals (who are enrolled members of the Indian tribe of the issuer or the spouse of any such member) for services rendered at such establishment.
+&emsp;&emsp;&emsp;The employment requirements of this subparagraph are met with respect to a facility financed by the net proceeds of anissue if, as of the close of each calendar year in the testing period, the aggregate face amount of all outstanding tax-exempt private activity bonds issued to provide financing for the establishment which includes such facility is not more than 20 times greater than the aggregate wages (as defined by section 3121(a)) paid during the preceding calendar year to individuals (who are enrolled members of the Indian tribe of the issuer or the spouse of any such member) for services rendered at such establishment.
 
 #### (ii) Failure to meet requirements
 
@@ -108,7 +108,7 @@ Paragraph (2) of subsection (a) shall apply with respect to any transaction only
 
 #### (II) Exception
 
-&emsp;&emsp;&emsp;&emsp;Subclause (I) shall not apply if the requirements of this subparagraph wouldbe met if the aggregate face amount of all tax-exempt private activity bonds issued to provide financing for the establishment and outstanding at the close of the 90th day after the close of the calender <sup>1</sup> year were substituted in clause (i) for such bonds outstanding at the close of such calendar year.
+&emsp;&emsp;&emsp;&emsp;Subclause (I) shall not apply if the requirements of this subparagraph would be met if the aggregate face amount of all tax-exempt private activity bonds issued to provide financing for the establishment and outstanding at the close of the 90th day after the close of the calender <sup>1</sup> year were substituted in clause (i) for such bonds outstanding at the close of such calendar year.
 
 #### (iii) Testing period
 
@@ -190,17 +190,17 @@ Section 4 of the Indian Gaming Regulatory Act, referred to in subsec. (f)(3)(B)(
 
 #### Amendments
 
-2009—Subsec. (f). Pub. L. 111–5 added subsec. (f).
+<b>2009</b>—Subsec. (f). Pub. L. 111–5 added subsec. (f).
 
-1993—Subsec. (a)(6)(B) to (D). Pub. L. 103–66 redesignated former subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B) which read as follows: “section 162(e) (relating to appearances, etc., with respect to legislation),”.
+<b>1993</b>—Subsec. (a)(6)(B) to (D). Pub. L. 103–66 redesignated former subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B) which read as follows: “section 162(e) (relating to appearances, etc., with respect to legislation),”.
 
-1987—Subsec. (c)(2). Pub. L. 100–203, §10632(b)(2), substituted “Except as provided in paragraph (3), subsection (a)” for “Subsection (a)”.
+<b>1987</b>—Subsec. (c)(2). Pub. L. 100–203, §10632(b)(2), substituted “Except as provided in paragraph (3), subsection (a)” for “Subsection (a)”.
 
 Subsec. (c)(3). Pub. L. 100–203, §10632(b)(1), added par. (3).
 
 Subsec. (e). Pub. L. 100–203, §10632(a), added subsec. (e).
 
-1986—Subsec. (a)(4). Pub. L. 99–514, §1301(j)(6), substituted “(relating to State and local bonds)” for “(relating to interest on certain governmental obligations)”.
+<b>1986</b>—Subsec. (a)(4). Pub. L. 99–514, §1301(j)(6), substituted “(relating to State and local bonds)” for “(relating to interest on certain governmental obligations)”.
 
 Subsec. (a)(6). Pub. L. 99–514, §123(b)(3), redesignated subpars. (C) to (E), as previously redesignated by section 112(b)(4) of Pub. L. 99–514, as (B) to (D), respectively, and struck out previously redesignated subpar. (B), which read as follows: “section 117(b)(2)(A) (relating to scholarships and fellowship grants),”.
 
@@ -218,11 +218,11 @@ Subsec. (c)(2). Pub. L. 99–514, §1301(j)(7), amended par. (2) generally. Prio
 
 &emsp;“(C) A mortgage subsidy bond (as defined in paragraph (1) of section 103A(b) without regard to paragraph (2) thereof).”
 
-1984—Subsec. (a)(6)(A). Pub. L. 98–369, §474(r)(41), substituted “section 24(c)(4)” for “section 41(c)(4)”.
+<b>1984</b>—Subsec. (a)(6)(A). Pub. L. 98–369, §474(r)(41), substituted “section 24(c)(4)” for “section 41(c)(4)”.
 
 Subsec. (a)(6)(B) to (F). Pub. L. 98–369, §1065(b), as amended by Pub. L. 99–514, §1878(i), added subpars. (B), (D), and (F), and redesignated former subpars. (B) and (C) as (C) and (E), respectively.
 
-1983—Subsec. (a)(6). Pub. L. 98–21 redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A), which referred to section 37(e)(9)(A) (relating to certain public retirement systems).
+<b>1983</b>—Subsec. (a)(6). Pub. L. 98–21 redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A), which referred to section 37(e)(9)(A) (relating to certain public retirement systems).
 
 #### Effective Date of 2009 Amendment
 
@@ -260,7 +260,7 @@ Amendment by Pub. L. 98–21 applicable to taxable years beginning after Dec. 31
 
 Section 204 of title II of Pub. L. 97–473, as amended by Pub. L. 98–369, div. A, title X, §1065(a), July 18, 1984, 98 Stat. 1048; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this title \[enacting this section, amending sections 41, 103, 164, 170, 2055, 2106, 2522, 4227, 4484, 6420, 6421, 6424, 6427, and 7701 of this title, and enacting provisions set out as a note under section 1 of this title\]—
 
-&emsp;“(1) insofar as they relate to chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[26 U.S.C. 1 et seq.\] (other than section 103 thereof), shall apply to taxable years beginning after December 31, 1982,
+&emsp;“(1) insofar as they relate to chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[26 U.S.C. 1 et seq.\] (other than section 103 thereof), shallapply to taxable years beginning after December 31, 1982,
 
 &emsp;“(2) insofar as they relate to section 103 of such Code, shall apply to obligations issued after December 31, 1982,
 
@@ -280,7 +280,7 @@ For nonapplication of amendment by section 123(b)(3) of Pub. L. 99–514 to the 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “calendar”.</i>
 

@@ -4,8 +4,6 @@ Part B—Energy Conservation and Renewable-Resource Obligation Guarantees
 
 This part was, in the original, designated part D and has been redesignated part B for purposes of codification.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

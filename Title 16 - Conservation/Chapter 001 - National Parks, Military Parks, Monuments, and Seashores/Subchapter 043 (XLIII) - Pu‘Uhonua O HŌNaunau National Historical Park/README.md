@@ -1,7 +1,5 @@
 ### SUBCHAPTER XLIII—PU‘UHONUA O HŌNAUNAU NATIONAL HISTORICAL PARK
 
-<i><sup>1</sup></i><i> So in original. Probably should be “landowner”.</i>
-
 
 ---
 

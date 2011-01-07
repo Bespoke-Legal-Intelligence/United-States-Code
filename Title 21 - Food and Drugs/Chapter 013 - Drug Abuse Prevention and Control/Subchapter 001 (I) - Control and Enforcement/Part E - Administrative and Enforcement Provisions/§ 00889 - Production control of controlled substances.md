@@ -34,7 +34,7 @@ Notwithstanding any other provision of law, following December 23, 1985, any per
 
 #### (c) Regulations
 
-Not later than 180 days after December 23, 1985, the Secretary shall issue such regulationsas the Secretary determines are necessary to carry out this section, including regulations that—
+Not later than 180 days after December 23, 1985, the Secretary shall issue such regulations as the Secretary determines are necessary to carry out this section, including regulations that—
 
 &emsp;(1) define the term “person”;
 
@@ -60,7 +60,7 @@ Section was classified to section 881a of this title prior to renumbering by Pub
 
 #### Amendments
 
-1990—Pub. L. 101–647 renumbered section 881a of this title as this section.
+<b>1990</b>—Pub. L. 101–647 renumbered section 881a of this title as this section.
 
 #### Termination of Trust Territory of the Pacific Islands
 

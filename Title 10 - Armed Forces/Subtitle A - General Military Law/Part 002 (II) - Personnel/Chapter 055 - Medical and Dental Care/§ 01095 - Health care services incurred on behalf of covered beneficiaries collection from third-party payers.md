@@ -1,6 +1,6 @@
 ### §1095. Health care services incurred on behalf of covered beneficiaries: collection from third-party payers
 
-(a)(1) In the case of a person who is a covered beneficiary, the United States shall have the right to collect from a third-party payer reasonable charges for health care services incurred by the United States on behalf of such person through a facility of the uniformed services to the extent that the person would be eligible to receive reimbursement or indemnification from the third-party payer if the person were to incursuch charges on the person's own behalf. If the insurance, medical service, or health plan of that payer includes a requirement for a deductible or copayment by the beneficiary of the plan, then the amount that the United States may collect from the third-party payer is a reasonable charge for the care provided less the appropriate deductible or copayment amount.
+(a)(1) In the case of a person who is a covered beneficiary, the United States shall have the right to collect from a third-party payer reasonable charges for health care services incurred by the United States on behalf of such person through a facility of the uniformed services to the extent that the person would be eligible to receive reimbursement or indemnification from the third-party payer if the person were to incur such charges on the person's own behalf. If the insurance, medical service, or health plan of that payer includes a requirement for a deductible or copayment by the beneficiary of the plan, then the amount that the United States may collect from the third-party payer is a reasonable charge for the care provided less the appropriate deductible or copayment amount.
 
 (2) A covered beneficiary may not be required to pay an additional amount to the United States for health care services by reason of this section.
 
@@ -50,11 +50,11 @@
 
 (k)(1) To improve the administration of this section and sections 1079(j)(1) and 1086(d) of this title, the Secretary of Defense, in consultation with the other administering Secretaries, may prescribe regulations providing for the collection of information regarding insurance, medical service, or health plans of third-party payers held by covered beneficiaries.
 
-(2) The collection of information under regulations prescribed under paragraph (1) shall be conducted in the same manner as is provided in section 1862(b)(5) of the Social Security Act (42 U.S.C. 1395y(b)(5)). The Secretary may provide for obtaining from the Commissioner of Social Security employment information comparable to the information provided to the Administrator of the Centers for Medicare \& Medicaid Services pursuant to such section. Such regulations may require the mandatory disclosure of Social Security account numbers for all covered beneficiaries.
+(2) The collection of information under regulations prescribed under paragraph (1) shall be conducted in the same manner as is provided in section 1862(b)(5) of the Social Security Act (42 U.S.C. 1395y(b)(5)). The Secretary may provide for obtaining from the Commissioner of SocialSecurity employment information comparable to the information provided to the Administrator of the Centers for Medicare \& Medicaid Services pursuant to such section. Such regulations may require the mandatory disclosure of Social Security account numbers for all covered beneficiaries.
 
 (3) The Secretary may disclose relevant employment information collected under this subsection to fiscal intermediaries or other designated contractors.
 
-(4) The Secretary may provide for contacting employers of covered beneficiaries to obtain group health plan information comparable to the information authorized to be obtained undersection 1862(b)(5)(C) of the Social Security Act (42 U.S.C. 1395y(b)(5)(C)). Notwithstanding clause (iii) of such section, clause (ii) of such section regarding the imposition of civil money penalties shall apply to the collection of information under this paragraph.
+(4) The Secretary may provide for contacting employers of covered beneficiaries to obtain group health plan information comparable to the information authorized to be obtained under section 1862(b)(5)(C) of the Social Security Act (42 U.S.C. 1395y(b)(5)(C)). Notwithstanding clause (iii) of such section, clause (ii) of such section regarding the imposition of civil money penalties shall apply to the collection of information under this paragraph.
 
 (5) Information obtained under this subsection may not be disclosed for any purpose other than to carry out the purpose of this section and sections 1079(j)(1) and 1086(d) of this title.
 
@@ -72,17 +72,17 @@ Another section 1095 was renumbered section 1095a of this title.
 
 #### Amendments
 
-2003—Subsec. (k)(2). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration” in second sentence.
+<b>2003</b>—Subsec. (k)(2). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration” in second sentence.
 
-2002—Subsec. (g). Pub. L. 107–314 struck out par. (1) designation and par. (2) which read as follows: “Not later than February 15 of each year, the Secretary of Defense shall submit to Congress a report specifying for each facility of the uniformed services the amount credited to the facility under this subsection during the preceding fiscal year.”
+<b>2002</b>—Subsec. (g). Pub. L. 107–314 struck out par. (1) designation and par. (2) which read as follows: “Not later than February 15 of each year, the Secretary of Defense shall submit to Congress a report specifying for each facility of the uniformed services the amount credited to the facility under this subsection during the preceding fiscal year.”
 
-1999—Subsec. (a)(1). Pub. L. 106–65, §716(c)(1)(A), substituted “reasonable charges for” for “the reasonable costs of”, “such charges” for “such costs”, and “a reasonable charge for” for “the reasonable cost of”.
+<b>1999</b>—Subsec. (a)(1). Pub. L. 106–65, §716(c)(1)(A), substituted “reasonable charges for” for “the reasonable costs of”, “such charges” for “such costs”, and “a reasonable charge for” for “the reasonable cost of”.
 
 Subsec. (g)(1). Pub. L. 106–65, §716(c)(1)(B), struck out “the costs of” after “any other payer for”.
 
 Subsec. (h)(1). Pub. L. 106–65, §716(c)(1)(C), substituted “The term ‘third-party payer’ means an entity that provides an insurance, medical service, or health plan by contract or agreement, including an automobile liability insurance or no fault insurance carrier, and any other plan or program that is designed to provide compensation or coverage for expenses incurred by a beneficiary for health care services or products.” for “The term ‘third-party payer’ means an entity that provides an insurance, medical service, or health plan by contract or agreement, including an automobile liability insurance or no fault insurance carrier and a workers’ compensation program or plan.”
 
-1996—Subsec. (g)(1). Pub. L. 104–201, §735(a), inserted “or through” after “provided at”.
+<b>1996</b>—Subsec. (g)(1). Pub. L. 104–201, §735(a), inserted “or through” after “provided at”.
 
 Subsec. (h)(1). Pub. L. 104–201, §735(b)(1), inserted “and a workers’ compensation program or plan” after “insurance carrier”.
 
@@ -90,7 +90,7 @@ Subsec. (h)(2). Pub. L. 104–201, §735(b)(2), substituted “organization,” 
 
 Subsec. (k). Pub. L. 104–106 added subsec. (k).
 
-1994—Subsec. (b). Pub. L. 103–337, §714(b)(1), substituted “shall operate to prevent collection by the United States under subsection (a) if that care is provided—” and pars. (1) to (4) for “if that care is provided through a facility of the uniformed services shall operate to prevent collection by the United States under subsection (a).”
+<b>1994</b>—Subsec. (b). Pub. L. 103–337, §714(b)(1), substituted “shall operate to prevent collection by the United States under subsection (a) if that care is provided—” and pars. (1) to (4) for “if that care is provided through a facility of the uniformed services shall operate to prevent collection by the United States under subsection (a).”
 
 Subsec. (d). Pub. L. 103–337, §714(b)(2), inserted “and except as provided in subsection (j),” after “(b),”.
 
@@ -100,7 +100,7 @@ Subsec. (h)(1). Pub. L. 103–337, §714(b)(3), inserted at end “Such term als
 
 Subsec. (j). Pub. L. 103–337, §714(b)(4), added subsec. (j).
 
-1993—Subsec. (g). Pub. L. 103–160, §713(c), designated existing provisions as par. (1) and added par. (2).
+<b>1993</b>—Subsec. (g). Pub. L. 103–160, §713(c), designated existing provisions as par. (1) and added par. (2).
 
 Pub. L. 103–160, §713(a)(2), inserted before period “and shall not be taken into consideration in establishing the operating budget of the facility”.
 
@@ -108,11 +108,11 @@ Pub. L. 103–160, §713(a)(1), as amended by Pub. L. 103–337, §1070(b)(6), i
 
 Subsec. (h). Pub. L. 103–160, §713(b), inserted “a preferred provider organization and” after “includes” in par. (2) and added par. (3).
 
-1991—Subsec. (a)(1). Pub. L. 102–25 inserted “a” before “covered beneficiary”.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–25 inserted “a” before “covered beneficiary”.
 
 Subsec. (i)(2). Pub. L. 102–190 struck out “or no fault insurance” before “carrier”.
 
-1990—Pub. L. 101–510, §713(d)(2), substituted “Health care services incurred on behalf of covered beneficiaries: collection from third-party payers” for “Collection from third-party payers of reasonable inpatient hospital care costs incurred on behalf of retirees and dependents” in section catchline.
+<b>1990</b>—Pub. L. 101–510, §713(d)(2), substituted “Health care services incurred on behalf of covered beneficiaries: collection from third-party payers” for “Collection from third-party payers of reasonable inpatient hospital care costs incurred on behalf of retirees and dependents” in section catchline.
 
 Subsec. (a)(1). Pub. L. 101–510, §713(d)(1)(A), substituted “covered beneficiary” for “covered by section 1074(b), 1076(a), or 1076(b) of this title”.
 
@@ -132,7 +132,7 @@ Subsec. (g). Pub. L. 101–510, §713(a)(1), substituted “health care services
 
 Subsecs. (h), (i). Pub. L. 101–510, §713(c), added subsecs. (h) and (i) and struck out former subsec. (h) which read as follows: “In this section, the term ‘third-party payer’ means an entity that provides an insurance, medical service, or health plan by contract or agreement.”
 
-1989—Subsec. (g). Pub. L. 101–189, §727(a)(2), added subsec. (g). Former subsec. (g) redesignated (h).
+<b>1989</b>—Subsec. (g). Pub. L. 101–189, §727(a)(2), added subsec. (g). Former subsec. (g) redesignated (h).
 
 Subsec. (h). Pub. L. 101–189, §1622(e)(5), which directed amendment of subsec. (g) by insertion of “the term” after “In this section,” was executed by making the insertion in subsec. (h) to reflect the probable intent of Congress and the intervening redesignation of subsec. (g) as (h) by Pub. L. 101–189, §727(a)(1), see below.
 

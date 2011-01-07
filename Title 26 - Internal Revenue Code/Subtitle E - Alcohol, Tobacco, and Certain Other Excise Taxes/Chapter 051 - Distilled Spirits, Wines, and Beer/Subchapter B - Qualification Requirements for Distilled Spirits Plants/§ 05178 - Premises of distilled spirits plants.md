@@ -30,7 +30,7 @@
 
 #### (4) Processing operations
 
-&emsp;Any person establishing a distilled spirits plant may, as described in the application forregistration, process distilled spirits on the bonded premises of such plant.
+&emsp;Any person establishing a distilled spirits plant may, as described in the application for registration, process distilled spirits on the bonded premises of such plant.
 
 #### (b) Use of premises for other businesses
 
@@ -76,7 +76,7 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 627, 62
 
 #### Amendments
 
-1979—Subsec. (a)(1)(A). Pub. L. 96–39, §807(a)(18), substituted “section 5171(c)” for “section 5171(a)”.
+<b>1979</b>—Subsec. (a)(1)(A). Pub. L. 96–39, §807(a)(18), substituted “section 5171(c)” for “section 5171(a)”.
 
 Subsec. (a)(2). Pub. L. 96–39, §805(b)(1), substituted in heading “operations” for “facilities” and in subpar. (A) “produce” for “provided facilities which may be used for the production of” and struck out in subpar. (B) “closed at all points where potable or readily recoverable spirits are present and the distilling apparatus” after “shall be continuous and”.
 
@@ -86,11 +86,11 @@ Subsec. (a)(4). Pub. L. 96–39, §805(b)(1), substituted provisions relating to
 
 Subsec. (a)(5). Pub. L. 96–39, §805(b)(1), struck out par. (5) which related to arrangement and segregation of denaturing facilities by regulation of the Secretary.
 
-1977—Subsec. (a)(3)(D). Pub. L. 95–176 added subpar. (D).
+<b>1977</b>—Subsec. (a)(3)(D). Pub. L. 95–176 added subpar. (D).
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1971—Subsec. (a)(4)(A). Pub. L. 91–659 substantially reenacted existing provisions and added cl. (ii) and the following sentence.
+<b>1971</b>—Subsec. (a)(4)(A). Pub. L. 91–659 substantially reenacted existing provisions and added cl. (ii) and the following sentence.
 
 #### Effective Date of 1979 Amendment
 

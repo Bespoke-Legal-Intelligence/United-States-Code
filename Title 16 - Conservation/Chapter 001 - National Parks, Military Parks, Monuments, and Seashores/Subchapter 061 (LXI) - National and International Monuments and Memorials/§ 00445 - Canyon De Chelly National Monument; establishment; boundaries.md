@@ -8,7 +8,7 @@ All lands in Del Muerto, De Chelly, and Monument Canyons, in the canyons tributa
 
 #### Amendments
 
-1933—Act Mar. 1, 1933, redescribed lands referred to in second par.
+<b>1933</b>—Act Mar. 1, 1933, redescribed lands referred to in second par.
 
 #### Establishment of Monument; Boundaries
 

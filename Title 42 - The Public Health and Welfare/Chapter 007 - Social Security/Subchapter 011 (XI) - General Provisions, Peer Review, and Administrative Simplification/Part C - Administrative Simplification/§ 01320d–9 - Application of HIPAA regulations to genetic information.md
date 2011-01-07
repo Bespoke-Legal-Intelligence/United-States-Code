@@ -54,9 +54,11 @@ Section 264 of the Health Insurance Portability and Accountability Act of 1996, 
 
 #### Effective Date
 
-Pub. L. 110–233, title I, §105(b)(2), May 21, 2008, 122 Stat. 905, provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect on the date that is 1 year after the date of the enactment of this Act \[May 21, 2008\].”
+Pub. L. 110–233, title I, §105(b)(2), May 21, 2008, 122 Stat. 905, provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect onthe date that is 1 year after the date of the enactment of this Act \[May 21, 2008\].”
 
 #### Regulations
 
 Pub. L. 110–233, title I, §105(b)(1), May 21, 2008, 122 Stat. 905, provided that: “Not later than 12 months after the date of the enactment of this Act \[May 21, 2008\], the Secretary of Health and Human Services shall issue final regulations to carry out the revision required by section 1180(a) of the Social Security Act \[42 U.S.C. 1320d–9(a)\], as added by subsection (a). The Secretary has the sole authority to promulgate such regulations, but shall promulgate such regulations in consultation with the Secretaries of Labor and the Treasury.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

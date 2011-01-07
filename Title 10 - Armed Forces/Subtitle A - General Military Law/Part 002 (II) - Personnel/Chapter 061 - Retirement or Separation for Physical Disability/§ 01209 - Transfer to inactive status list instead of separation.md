@@ -22,9 +22,9 @@ The words “Notwithstanding the foregoing provisions of this section”, “sat
 
 #### Amendments
 
-1996—Pub. L. 104–106 substituted “section 12732” for “section 1332”, “section 12735” for “section 1335”, and “section 12739” for “chapter 71”.
+<b>1996</b>—Pub. L. 104–106 substituted “section 12732” for “section 1332”, “section 12735” for “section 1335”, and “section 12739” for “chapter 71”.
 
-1989—Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1989</b>—Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
 #### Effective Date of 1996 Amendment
 

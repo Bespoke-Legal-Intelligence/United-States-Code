@@ -26,9 +26,9 @@ For the purposes of this subchapter, the term “program or activity” and the 
 
 #### Amendments
 
-2002—Par. (2)(B). Pub. L. 107–110 substituted “7801” for “8801”.
+<b>2002</b>—Par. (2)(B). Pub. L. 107–110 substituted “7801” for “8801”.
 
-1994—Par. (2)(B). Pub. L. 103–382 substituted “section 8801 of title 20” for “section 198(a)(10) of the Elementary and Secondary Education Act of 1965”.
+<b>1994</b>—Par. (2)(B). Pub. L. 103–382 substituted “section 8801 of title 20” for “section 198(a)(10) of the Elementary and Secondary Education Act of 1965”.
 
 #### Effective Date of 2002 Amendment
 

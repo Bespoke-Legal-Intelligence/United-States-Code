@@ -14,7 +14,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250”.
 
-1950—Act Aug. 4, 1950, brought within the protection of this section emblems, badges, or insignia of auxiliary organizations of veteran's organizations incorporated by an act of Congress.
+<b>1950</b>—Act Aug. 4, 1950, brought within the protection of this section emblems, badges, or insignia of auxiliary organizations of veteran's organizations incorporated by an act of Congress.
 

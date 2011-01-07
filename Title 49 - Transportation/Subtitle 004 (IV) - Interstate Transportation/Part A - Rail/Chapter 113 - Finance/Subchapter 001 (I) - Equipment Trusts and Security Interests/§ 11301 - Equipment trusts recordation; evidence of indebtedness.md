@@ -6,7 +6,7 @@
 
 (c) The Board may to the greatest extent practicable perform its functions under this section through contracts with private sector entities.
 
-(d) A mortgage, lease, equipment trust agreement, conditional sales agreement, or other instrument evidencing the mortgage, lease, conditional sale, or bailment of or security interest in vessels, railroad cars, locomotives, or other rolling stock, or accessories used on such railroad cars, locomotives, or other rolling stock (including superstructures and racks), or any assignment thereof, which—
+(d) A mortgage, lease, equipment trust agreement, conditional sales agreement, or other instrument evidencing the mortgage, lease, conditional sale, or bailment of or security interest in vessels, railroad cars, locomotives, or other rolling stock, or accessories used on such railroadcars, locomotives, or other rolling stock (including superstructures and racks), or any assignment thereof, which—
 
 &emsp;(1) is duly constituted under the laws of a country other than the United States; and
 
@@ -14,7 +14,7 @@
 
 > shall be recognized with the same effect as having been filed under this section.
 
-(e) Interests with respect to which documents are filed or recognized under this section are deemed perfected in all jurisdictions, and shallbe governed by applicable State or foreign law in all matters not specifically governed by this section.
+(e) Interests with respect to which documents are filed or recognized under this section are deemed perfected in all jurisdictions, and shall be governed by applicable State or foreign law in all matters not specifically governed by this section.
 
 (f) The Board shall collect, maintain, and keep open for public inspection a railway equipment register consistent with the manner and format maintained by the Interstate Commerce Commission as of January 1, 1996.
 
@@ -36,7 +36,7 @@ Section 11304, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1431; Pub. L. 96–258,
 
 #### Amendments
 
-1996—Subsec. (f). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of the ICC Termination Act of 1995”.
+<b>1996</b>—Subsec. (f). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of the ICC Termination Act of 1995”.
 
 #### Effective Date
 

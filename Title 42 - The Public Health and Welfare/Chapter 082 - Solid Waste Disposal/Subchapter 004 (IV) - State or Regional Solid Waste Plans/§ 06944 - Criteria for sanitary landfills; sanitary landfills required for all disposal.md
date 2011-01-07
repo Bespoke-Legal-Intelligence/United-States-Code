@@ -20,7 +20,7 @@ Section 6943(2) of this title, referred to in subsec. (b), was redesignated sect
 
 #### Amendments
 
-1984—Subsec. (c). Pub. L. 98–616 struck out “or on the date of approval of the State plan, whichever is later” at end.
+<b>1984</b>—Subsec. (c). Pub. L. 98–616 struck out “or on the date of approval of the State plan, whichever is later” at end.
 
 #### Transfer of Functions
 

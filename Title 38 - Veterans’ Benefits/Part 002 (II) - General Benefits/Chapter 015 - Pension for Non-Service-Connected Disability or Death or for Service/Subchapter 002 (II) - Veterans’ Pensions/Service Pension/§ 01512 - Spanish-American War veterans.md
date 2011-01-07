@@ -1,6 +1,6 @@
 ### §1512. Spanish-American War veterans
 
-(a)(1) The Secretary shall pay to each veteran of the Spanish-American War who meets the service requirements of this subsection a pension at the following monthly rate:
+(a)(1) The Secretary shall pay to each veteran of the Spanish-American War who meets theservice requirements of this subsection a pension at the following monthly rate:
 
 &emsp;(A) $101.59; or
 
@@ -14,7 +14,7 @@
 
 &emsp;(C) for a period of ninety consecutive days or more and such period began or ended during the Spanish-American War.
 
-(3)(A) Any veteran eligible for pension under this subsection shall, if such veteran so elects,be paid pension at the rates prescribed by section 1521 of this title (except the rate provided under subsection (g) of such section), and under the conditions (other than the service requirements) applicable to pension paid under that section to veterans of a period of war. If pension is paid pursuant to such an election, the election shall be irrevocable.
+(3)(A) Any veteran eligible for pension under this subsection shall, if such veteran so elects, be paid pension at the rates prescribed by section 1521 of this title (except the rate provided under subsection (g) of such section), and under the conditions (other than the service requirements) applicable to pension paid under that section to veterans of a period of war. If pension is paid pursuant to such an election, the election shall be irrevocable.
 
 (B) The Secretary shall pay each month to each Spanish-American War veteran who is receiving, or entitled to receive, pension based on a need of regular aid and attendance, whichever amount is greater (i) that provided by subparagraph (B) of subsection (a)(1) of this section, or (ii) that which is payable to the veteran under section 1521 of this title as in effect on December 31, 1978, under regulations which the Secretary shall prescribe. Each change in the amount of pension payment required by this subparagraph shall be effective as of the first day of the month during which the facts of the particular case warrant such change, and shall be made without specific application therefor.
 
@@ -38,7 +38,7 @@ A prior section 1512 was renumbered section 3112 of this title.
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 512 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 512 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
@@ -50,17 +50,17 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administ
 
 Subsec. (b)(1). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
-1978—Subsec. (a)(3)(A). Pub. L. 95–588, §105(1), inserted “(except the rate provided under subsection (g) of such section)” after “of this title”, substituted “a period of war” for “World War I”, and struck out exception to pension elections formerly provided pursuant to subpar. (B).
+<b>1978</b>—Subsec. (a)(3)(A). Pub. L. 95–588, §105(1), inserted “(except the rate provided under subsection (g) of such section)” after “of this title”, substituted “a period of war” for “World War I”, and struck out exception to pension elections formerly provided pursuant to subpar. (B).
 
 Subsec. (a)(3)(B). Pub. L. 95–588, §105(2), substituted “as in effect on December 31, 1978, under regulations which the Administrator shall prescribe” for “if such veteran has elected, or would be payable if such veteran were to elect, to receive pension under such section pursuant to subparagraph (A) of this paragraph”.
 
-1975—Subsec. (a). Pub. L. 94–169 substituted “such veteran” for “he” wherever appearing.
+<b>1975</b>—Subsec. (a). Pub. L. 94–169 substituted “such veteran” for “he” wherever appearing.
 
 Subsec. (b). Pub. L. 94–169 substituted “such veteran” for “he”.
 
-1967—Subsec. (a)(3). Pub. L. 90–77 designated existing provisions as subpar. (A), inserted “except as provided in subparagraph (B)”, and added subpar. (B).
+<b>1967</b>—Subsec. (a)(3). Pub. L. 90–77 designated existing provisions as subpar. (A), inserted “except as provided in subparagraph (B)”, and added subpar. (B).
 
-1960—Subsec. (a)(3). Pub. L. 86–670 added cl. (3).
+<b>1960</b>—Subsec. (a)(3). Pub. L. 86–670 added cl. (3).
 
 #### Effective Date of 1978 Amendment
 

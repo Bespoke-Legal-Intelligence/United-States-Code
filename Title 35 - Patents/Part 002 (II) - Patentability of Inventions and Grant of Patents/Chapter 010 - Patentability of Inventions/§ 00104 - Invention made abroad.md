@@ -48,17 +48,17 @@ Section 2(10) of the Uruguay Round Agreements Act, referred to in subsec. (b)(2)
 
 #### Amendments
 
-2002—Subsec. (a)(3). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
+<b>2002</b>—Subsec. (a)(3). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
-1999—Subsec. (a)(3). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
+<b>1999</b>—Subsec. (a)(3). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
 
-1994—Pub. L. 103–465 amended section generally, expanding scope of section to include WTO member countries along with NAFTA countries and defining term “WTO member country”.
+<b>1994</b>—Pub. L. 103–465 amended section generally, expanding scope of section to include WTO member countries along with NAFTA countries and defining term “WTO member country”.
 
-1993—Pub. L. 103–182 amended section catchline and text generally. Prior to amendment, text read as follows: “In proceedings in the Patent and Trademark Office and in the courts, an applicant for a patent, or a patentee, may not establish a date of invention by reference to knowledge or use thereof, or other activity with respect thereto, in a foreign country, except as provided in sections 119 and 365 of this title. Where an invention was made by a person, civil or military, while domiciled in the United States and serving in a foreign country in connection with operations by or on behalf of the United States, he shall be entitled to the same rights of priority with respect to such invention as if the same had been made in the United States.”
+<b>1993</b>—Pub. L. 103–182 amended section catchline and text generally. Prior to amendment, text read as follows: “In proceedings in the Patent and Trademark Office and in the courts, an applicant for a patent, or a patentee, may not establish a date of invention by reference to knowledge or use thereof, or other activity with respect thereto, in a foreign country, except as provided in sections 119 and 365 of this title. Where an invention was made by a person, civil or military, while domiciled in the United States and serving in a foreign country in connection with operations by or on behalf of the United States, he shall be entitled to the same rights of priority with respect to such invention as if the same had been made in the United States.”
 
-1984—Pub. L. 98–622 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1984</b>—Pub. L. 98–622 substituted “Patent and Trademark Office” for “Patent Office”.
 
-1975—Pub. L. 94–131 inserted in exception provision reference to section 365 of this title relating to priority of applications having benefit of filing date of prior applications.
+<b>1975</b>—Pub. L. 94–131 inserted in exception provision reference to section 365 of this title relating to priority of applications having benefit of filing date of prior applications.
 
 Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 

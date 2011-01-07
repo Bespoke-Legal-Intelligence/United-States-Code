@@ -28,11 +28,11 @@ In general.—Notwithstanding any other provision of law, approval by the Secret
 
 Availability.—Amounts authorized under this section for a fiscal year shall be available for obligation on October 1 of the fiscal year.
 
-(Added and amended Pub. L. 105–178, title I, §1503(a), (c), June 9, 1998, 112 Stat. 249, §188; Pub. L. 105–206, title IX, §9007(a), July 22, 1998, 112 Stat. 849; Pub. L. 108–88, §5(a)(10), Sept. 30, 2003, 117 Stat. 1115; Pub. L. 108–202, §5(a)(10), Feb. 29, 2004, 118 Stat. 481; Pub. L. 108–224, §4(a)(10), Apr. 30, 2004, 118 Stat. 629; Pub. L. 108–263, §4(a)(10), June 30, 2004, 118 Stat. 700; Pub. L. 108–280, §4(a)(10), July 30, 2004, 118 Stat. 879; Pub. L. 108–310, §5(a)(10), Sept. 30, 2004, 118 Stat. 1149;Pub. L. 109–14, §4(a)(10), May 31, 2005, 119 Stat. 327; Pub. L. 109–20, §4(a)(10), July 1, 2005, 119 Stat. 348; Pub. L. 109–35, §4(a)(10), July 20, 2005, 119 Stat. 381; Pub. L. 109–37, §4(a)(10), July 22, 2005, 119 Stat. 396; Pub. L. 109–40, §4(a)(10), July 28, 2005, 119 Stat. 413; renumbered §608 and amended Pub. L. 109–59, title I, §§1601(g), 1602(b)(5), (d), Aug. 10, 2005, 119 Stat. 1242, 1247.)
+(Added and amended Pub. L. 105–178, title I, §1503(a), (c), June 9, 1998, 112 Stat. 249, §188; Pub. L. 105–206, title IX, §9007(a), July 22, 1998, 112 Stat. 849; Pub. L. 108–88, §5(a)(10), Sept. 30, 2003, 117 Stat. 1115; Pub. L. 108–202, §5(a)(10), Feb. 29, 2004, 118 Stat. 481; Pub. L. 108–224, §4(a)(10), Apr. 30, 2004, 118 Stat. 629; Pub. L. 108–263, §4(a)(10), June 30, 2004, 118 Stat. 700; Pub. L. 108–280, §4(a)(10), July 30, 2004, 118 Stat. 879; Pub. L. 108–310, §5(a)(10), Sept. 30, 2004, 118 Stat. 1149; Pub. L. 109–14, §4(a)(10), May 31, 2005, 119 Stat. 327; Pub. L. 109–20, §4(a)(10), July 1, 2005, 119 Stat. 348; Pub. L. 109–35, §4(a)(10), July 20, 2005, 119 Stat. 381; Pub. L. 109–37, §4(a)(10), July 22, 2005, 119 Stat. 396; Pub. L. 109–40, §4(a)(10), July 28, 2005, 119 Stat. 413; renumbered §608 and amended Pub. L. 109–59, title I, §§1601(g), 1602(b)(5), (d), Aug. 10, 2005, 119 Stat. 1242, 1247.)
 
 #### Amendments
 
-2005—Pub. L. 109–59, §1602(d), renumbered section 188 of this title as this section.
+<b>2005</b>—Pub. L. 109–59, §1602(d), renumbered section 188 of this title as this section.
 
 Pub. L. 109–59, §1601(g), reenacted section catchline without change and amended text generally, substituting provisions relating to funding for fiscal years 2005 through 2009 and contract authority, consisting of subsecs. (a) and (b), for provisions relating to funding for fiscal years 1999 through 2004 and for the period of Oct. 1, 2004, through July 30, 2005, contract authority, and limitations on credit amounts, consisting of subsecs. (a) to (c).
 
@@ -72,9 +72,9 @@ Pub. L. 109–20, §4(a)(10)(C), substituted “$2,080,000,000” for “$1,950,
 
 Pub. L. 109–14, §4(a)(10)(C), substituted “$1,950,000,000” for “$1,733,333,333” in item relating to fiscal year 2005 in table.
 
-2004—Subsec. (a)(1)(F). Pub. L. 108–280, §4(a)(10)(A), added subpar. (F) and struck out former subpar. (F) which read as follows: “$116,666,667 for the period of October 1, 2003, through July 31, 2004.”
+<b>2004</b>—Subsec. (a)(1)(F). Pub. L. 108–280, §4(a)(10)(A), added subpar. (F) and struck out former subpar. (F) which read as follows: “$116,666,667 for the period of October 1, 2003, through July 31, 2004.”
 
-Pub. L. 108–263, §4(a)(10)(A), added subpar. (F) and struck out former subpar. (F) which read as follows: “$105,000,000 for the period of October 1, 2003, through June 30, 2004.”
+Pub. L. 108–263, §4(a)(10)(A), added subpar. (F) and struck out former subpar. (F) which read as follows:“$105,000,000 for the period of October 1, 2003, through June 30, 2004.”
 
 Pub. L. 108–224, §4(a)(10)(A), added subpar. (F) and struck out former subpar. (F) which read as follows: “$81,666,666 for the period of October 1, 2003, through April 30, 2004.”
 
@@ -102,13 +102,13 @@ Pub. L. 108–224, §4(a)(10)(C), substituted “$1,950,000,000” for “$1,516
 
 Pub. L. 108–202, §5(a)(10)(C), substituted “$1,516,666,667” for “$1,083,333,333” in item relating to fiscal year 2004 in table.
 
-2003—Subsec. (a)(1)(F). Pub. L. 108–88, §5(a)(10)(A), added subpar. (F).
+<b>2003</b>—Subsec. (a)(1)(F). Pub. L. 108–88, §5(a)(10)(A), added subpar. (F).
 
 Subsec. (a)(2). Pub. L. 108–88, §5(a)(10)(B), inserted “and $833,333 for the period of October 1, 2003, through February 29, 2004” after “2003”.
 
 Subsec. (c). Pub. L. 108–88, §5(a)(10)(C), substituted “2004” for “2003” and inserted item in table relating to fiscal year 2004.
 
-1998—Subsec. (a)(2). Pub. L. 105–178, §1503(c)(1), as added by Pub. L. 105–206, §9007(a), substituted “1999” for “1998”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–178, §1503(c)(1), as added by Pub. L. 105–206, §9007(a), substituted “1999” for “1998”.
 
 Subsec. (c). Pub. L. 105–178, §1503(c)(2), as added by Pub. L. 105–206, §9007(a), substituted “1999” for “1998” in introductory provisions, and substituted table for former table which read as follows:
 
@@ -125,5 +125,5 @@ Subsec. (c). Pub. L. 105–178, §1503(c)(2), as added by Pub. L. 105–206, §9
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated asincluded in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
 

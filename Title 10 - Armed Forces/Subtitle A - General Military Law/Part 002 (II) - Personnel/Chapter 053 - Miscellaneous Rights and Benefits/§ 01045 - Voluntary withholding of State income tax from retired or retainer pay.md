@@ -22,7 +22,7 @@
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–163, in third sentence, substituted “any calendar month” for “any calendar quarter” and “during the following calendar month” for “during the month following that calendar quarter”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163, in third sentence, substituted “any calendar month” for “any calendar quarter” and “during the following calendar month” for “during the month following that calendar quarter”.
 
-1987—Subsec. (e)(1), (2). Pub. L. 100–26 inserted “The term” after each par. designation.
+<b>1987</b>—Subsec. (e)(1), (2). Pub. L. 100–26 inserted “The term” after each par. designation.
 

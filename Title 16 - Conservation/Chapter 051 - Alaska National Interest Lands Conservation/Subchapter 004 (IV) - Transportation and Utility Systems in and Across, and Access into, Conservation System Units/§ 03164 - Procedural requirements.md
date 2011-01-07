@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding any provision of applicable law, no action by any Federal agency under applicable law with respect to the approval or disapproval of the authorization, in whole or in part, of any transportation or utility system shall have any force or effect unless the provision of this section are complied with.
+Notwithstanding any provision of applicable law, no action by any Federal agency under applicable law with respect to the approval or disapproval of the authorization, in whole or in part, of any transportation or utility system shall have any force or effect unless the provisions of this section are complied with.
 
 #### (b) Consolidated applications
 
@@ -26,7 +26,7 @@ Each applicant for the approval of any transportation or utility system shall fi
 
 #### (e) Environmental impact statement
 
-The draft of any environmental impact statement required under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] in connection with any application filed under this section shall be completed, within nine months from the date of filing, by the head of the Federal agency assigned lead responsibility for the statement. Any such statement shall be jointly prepared by all Federal agencies with which the application was filed under subsection (c) of this section. The final environmental impact statement shall be completed within one year from the date of such filing. Such nine-month and one-year periods may be extended for good cause by the Federal agency head assigned lead responsibility for the preparation of such statement if he determines that additional time is necessary for such preparation, notifies the applicant in writing of such determination, and publishes notices of such determination, together with the reasons therefor, in the Federal Register. The provisions of section 1734 of title 43 shall apply to each environmental impact statement under this subsection in the same manner as such provisions apply to applications relating to the public lands referred to in section 1734 of title 43. The Federal agency assigned lead responsibility shall, in conjunction with such other Federal agencies before which the application is pending, hold public hearings in the District of Columbia and an appropriate location in the State on each draft joint environmental impact statement and the views expressed therein shall be considered by all Federal agencies concerned before publication of the final joint environmental impact statement.
+The draft of any environmental impact statement required under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] in connection with any application filed under this section shall be completed, within nine months from the date of filing, by the head of the Federal agency assigned lead responsibility for the statement. Any such statement shall be jointly prepared by all Federal agencies with which the application was filed under subsection\(c) of this section. The final environmental impact statement shall be completed within one year from the date of such filing. Such nine-month and one-year periods may be extended for good cause by the Federal agency head assigned lead responsibility for the preparation of such statement if he determines that additional time is necessary for such preparation, notifies the applicant in writing of such determination, and publishes notice of such determination, together with the reasons therefor, in the Federal Register. The provisions of section 1734 of title 43 shall apply to each environmental impact statement under this subsection in the same manner as such provisions apply to applications relating to the public lands referred to in section 1734 of title 43. The Federal agency assigned lead responsibility shall, in conjunction with such other Federal agencies before which the application is pending, hold public hearings in the District of Columbia and an appropriate location in the State on each draft joint environmental impact statement and the views expressed therein shall be considered by all Federal agencies concerned before publication of the final joint environmental impact statement.
 
 #### (f) Other views
 
@@ -34,7 +34,7 @@ During both the nine-month period, and the succeeding three-month period plus an
 
 #### (g) Agency decision
 
-(1) Within four months after the final environmental impact statement is published in accordance with subsection (e) of this section with respect to any transportation or utility system, each Federal agency shall make a decision to approve or disapprove, in accordance with applicable law, each authorization and that applies with respect to the system and that is within the jurisdiction of that agency.
+(1) Within four months after the final environmental impact statement is published in accordance with subsection (e) of this section with respect to any transportation or utility system, each Federal agency shall make a decision to approve or disapprove, in accordance with applicable law, each authorization that applies with respect to the system and that is within the jurisdiction of that agency.
 
 (2) The head of each Federal agency, in making a decision referred to in paragraph (1), shall consider, and make detailed findings supported by substantial evidence, with respect to—
 
@@ -58,7 +58,7 @@ During both the nine-month period, and the succeeding three-month period plus an
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (f), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (f), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 

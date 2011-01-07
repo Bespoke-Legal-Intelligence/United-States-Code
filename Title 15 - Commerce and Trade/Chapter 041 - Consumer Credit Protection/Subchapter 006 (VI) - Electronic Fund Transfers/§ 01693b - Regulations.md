@@ -4,7 +4,7 @@
 
 The Board shall prescribe regulations to carry out the purposes of this subchapter. In prescribing such regulations, the Board shall:
 
-&emsp;(1) consult with the other agencies referred to in section 1693<i>o</i> of this title and take into account, and allow for, the continuing evolution of electronic banking services and the technology utilized in such services,
+&emsp;(1) consult with the other agencies referred to in section 1693<i>o</i> <sup>1</sup> of this title and take into account, and allow for, the continuing evolution of electronic banking services and the technology utilized in such services,
 
 &emsp;(2) prepare an analysis of economic impact which considers the costs and benefits to financial institutions, consumers, and other users of electronic fund transfers, including the extent to which additional documentation, reports, records, or other paper work would be required, and the effects upon competition in the provision of electronic banking services among large and small financial institutions and the availability of such services to different classes of consumers, particularly low income consumers,
 
@@ -18,7 +18,7 @@ The Board shall issue model clauses for optional use by financial institutions t
 
 #### (c) Criteria; modification of requirements
 
-Regulations prescribed hereunder may contain such classifications, differentiations, or other provisions, and may provide for such adjustments and exceptions for any class of electronic fund transfers, as in the judgment of the Board are necessary or proper to effectuate the purposes of this subchapter, to prevent circumvention or evasion thereof, or to facilitate compliance therewith. The Board shall by regulation modify the requirements imposed by this subchapter on small financial institutions if the Board determines that such modifications are necessary to alleviate any undue compliance burden on small financial institutions and such modifications are consistent with the purpose and objective of this subchapter.
+Regulations prescribed hereunder may contain such classifications, differentiations, or other provisions, and may provide for such adjustments and exceptions for any class of electronic fund transfers or remittance transfers, as in the judgment of the Board are necessary or proper to effectuate the purposes of this subchapter, to prevent circumvention or evasion thereof, or to facilitate compliance therewith. The Board shall by regulation modify the requirements imposed by this subchapter on small financial institutions if the Board determines that such modifications are necessary to alleviate any undue compliance burden on small financial institutions and such modifications are consistent with the purpose and objective of this subchapter.
 
 #### (d) Applicability to service providers other than certain financial institutions
 
@@ -48,7 +48,7 @@ Regulations prescribed hereunder may contain such classifications, differentiati
 
 &emsp;&emsp;No provision of this paragraph—
 
-&emsp;&emsp;&emsp;(i) affects or alters the protections otherwise applicable with respect to benefits established by any other provision <sup>1</sup> Federal, State, or local law; or
+&emsp;&emsp;&emsp;(i) affects or alters the protections otherwise applicable with respect to benefits established by any other provision <sup>2</sup> Federal, State, or local law; or
 
 &emsp;&emsp;&emsp;(ii) otherwise supersedes the application of any State or local law.
 
@@ -100,13 +100,55 @@ Regulations prescribed hereunder may contain such classifications, differentiati
 
 &emsp;&emsp;&emsp;The term “host transfer services” means any electronic fund transfer made by an automated teller machine operator in connection with a transaction initiated by a consumer at an automated teller machine operated by such operator.
 
-(Pub. L. 90–321, title IX, §904, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3730; amended Pub. L. 104–193, title VIII, §891, title IX, §907, Aug. 22, 1996, 110 Stat. 2346, 2350; Pub. L. 106–102, title VII, §702, Nov. 12, 1999, 113 Stat. 1463.)
+(Pub. L. 90–321, title IX, §904, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3730; amended Pub. L. 104–193, title VIII, §891, title IX, §907, Aug. 22, 1996, 110 Stat. 2346, 2350; Pub. L. 106–102, title VII, §702, Nov. 12, 1999, 113 Stat. 1463; Pub. L. 111–203, title X, §§1073(a)(2), 1084(1), (3), July 21, 2010, 124 Stat. 2060, 2081.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1084(1), (3), 1100H, July 21, 2010, 124 Stat. 2081, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
+
+<i>(1) by striking “Board” each place that term appears and inserting “Bureau”, except in subsections (a) and (e);</i>
+
+<i>(2) in subsection (a), by striking “(a)</i>
+
+<i>Prescription by Board</i>.—<i>The Board shall prescribe regulations to carry out the purposes of this subchapter.” and inserting the following:</i>
+
+#### <i>“(a) Prescription by the Bureau and the Board</i>
+
+#### <i>“(1) In general</i>
+
+&emsp;<i>“Except as provided in paragraph (2), the Bureau shall prescribe rules to carry out the purposes of this subchapter.</i>
+
+#### <i>“(2) Authority of the Board</i>
+
+&emsp;<i>“The Board shall have sole authority to prescribe rules—</i>
+
+&emsp;&emsp;<i>“(A) to carry out the purposes of this subchapter with respect to a person described in section 5519(a) of title 12; and</i>
+
+&emsp;&emsp;<i>“(B) to carry out the purposes of section 1693o–2 of this title.”; and</i>
+
+<i>(3) by adding at the end the following new subsection:</i>
+
+#### <i>“(e) Deference</i>
+
+<i>“No provision of this subchapter may be construed as altering, limiting, or otherwise affecting the deference that a court affords to—</i>
+
+&emsp;<i>“(1) the Bureau in making determinations regarding the meaning or interpretation of any provision of this subchapter for which the Bureau has authority to prescribe regulations; or</i>
+
+&emsp;<i>“(2) the Board in making determinations regarding the meaning or interpretation of section 1693o–2 of this title.”</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
+
+#### References in Text
+
+Section 1693<i>o</i> of this title, referred to in subsec. (a)(1), was in the original “section 917”, and was translated as meaning section 918 of Pub. L. 90–321 to reflect the probable intent of Congress and the renumbering of section 917 of Pub. L. 90–321 as section 918 by Pub. L. 111–24, title IV, §401, May 22, 2009, 123 Stat. 1751.
 
 #### Amendments
 
-1999—Subsec. (d)(3). Pub. L. 106–102 added par. (3).
+<b>2010</b>—Subsec. (c). Pub. L. 111–203, §1073(a)(2), inserted “or remittance transfers” after “electronic fund transfers”.
 
-1996—Subsec. (d). Pub. L. 104–193, §907, which directed the amendment of subsec. (d), was not executed because of similar amendment by Pub. L. 104–193, §891. See below. Section 907 of Pub. L. 104–193 provided that subsec. (d) was to be amended by inserting subsec. (d) heading, by designating existing provisions as par. (1) and inserting heading, and by adding a new par. (2) reading as follows:
+<b>1999</b>—Subsec. (d)(3). Pub. L. 106–102 added par. (3).
+
+<b>1996</b>—Subsec. (d). Pub. L. 104–193, §907, which directed the amendment of subsec. (d), was not executed because of similar amendment by Pub. L. 104–193, §891. See below. Section 907 of Pub. L. 104–193 provided that subsec. (d) was to be amended by inserting subsec. (d) heading, by designating existing provisions as par. (1) and inserting heading, and by adding a new par. (2) reading as follows:
 
 “(2)
 
@@ -138,5 +180,13 @@ Electronic benefit transfer program defined.—For purposes of this paragraph, t
 
 Pub. L. 104–193, §891, designated existing provisions as par. (1), inserted subsec. heading and par. (2), and substituted “If” for “In the event that”.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “of”.</i>
+#### Effective Date of 2010 Amendment
+
+Amendment by section 1073(a)(2) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+
+Amendment by section 1084(1), (3) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by “of”.</i>
 

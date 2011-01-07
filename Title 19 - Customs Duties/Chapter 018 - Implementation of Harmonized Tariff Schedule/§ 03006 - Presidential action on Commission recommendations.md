@@ -30,7 +30,7 @@ The Harmonized Tariff Schedule, referred to in subsec. (a), is not set out in th
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–432 substituted “30<sup>th</sup>” for “15<sup>th</sup>”.
+<b>2006</b>—Subsec. (c). Pub. L. 109–432 substituted “30<sup>th</sup>” for “15<sup>th</sup>”.
 
 #### Delegation of Authority
 

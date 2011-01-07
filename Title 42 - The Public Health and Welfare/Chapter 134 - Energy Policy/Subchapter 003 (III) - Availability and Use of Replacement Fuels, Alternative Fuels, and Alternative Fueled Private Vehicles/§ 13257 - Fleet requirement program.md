@@ -142,7 +142,7 @@ Nothing in this subchapter or the amendments made by this subchapter shall requi
 
 #### (<i>l</i>) Consideration of factors
 
-In carrying out this section, the Secretary shall take into consideration energy security, costs, safety, lead time requirements, vehicle miles traveled annually, effect on greenhouse gases, technological feasibility, energy requirements, economic impacts, including impacts on workers and the impact on consumers (includingusers of the alternative fuel for purposes such as for residences, agriculture, process use, and non-fuel purposes) and fleets, the availability of alternative fuels and alternative fueled vehicles, and other relevant factors.
+In carrying out this section, the Secretary shall take into consideration energy security, costs, safety, lead time requirements, vehicle miles traveled annually, effect on greenhouse gases, technological feasibility, energy requirements, economic impacts, including impacts on workers and the impact on consumers (including users of the alternative fuel for purposes such as for residences, agriculture, process use, and non-fuel purposes) and fleets, the availability of alternative fuels and alternative fueled vehicles, and other relevant factors.
 
 #### (m) Consultation and participation of other Federal agencies
 

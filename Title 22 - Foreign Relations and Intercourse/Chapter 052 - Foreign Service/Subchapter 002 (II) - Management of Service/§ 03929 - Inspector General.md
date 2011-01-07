@@ -16,7 +16,7 @@ Inspections, investigations, and audits conducted by or under the direction of t
 
 &emsp;(3) whether the administration of activities and operations meets the requirements of applicable laws and regulations and, specifically, whether such administration is consistent with the requirements of section 3905 of this title;
 
-&emsp;(4) whether there exist instances of fraud or other serious problems, abuses, or deficiencies,and whether adequate steps for detection, correction, and prevention have been taken; and
+&emsp;(4) whether there exist instances of fraud or other serious problems, abuses, or deficiencies, and whether adequate steps for detection, correction, and prevention have been taken; and
 
 &emsp;(5) whether policy goals and objectives are being effectively achieved and whether the interests of the United States are being accurately and effectively represented.
 
@@ -108,15 +108,15 @@ The Inspector General Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95�
 
 #### Amendments
 
-1999—Subsec. (c)(5). Pub. L. 106–113, §1000(a)(7) \[div. A, title III, §339(a)\], added par. (5).
+<b>1999</b>—Subsec. (c)(5). Pub. L. 106–113, §1000(a)(7) \[div. A, title III, §339(a)\], added par. (5).
 
 Subsec. (d)(2)(F). Pub. L. 106–113, §1000(a)(7) \[div. A, title III, §339(b)\], added subpar. (F).
 
-1998—Subsec. (c)(4). Pub. L. 105–277, §2208(a), added par. (4).
+<b>1998</b>—Subsec. (c)(4). Pub. L. 105–277, §2208(a), added par. (4).
 
 Subsec. (e)(3). Pub. L. 105–277, §2208(b), added par. (3).
 
-1986—Subsec. (a)(1). Pub. L. 99–529 repealed §413(a)(6) of Pub. L. 99–399 and reenacted last sentence which had been struck out by Pub. L. 99–399.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–529 repealed §413(a)(6) of Pub. L. 99–399 and reenacted last sentence which had been struck out by Pub. L. 99–399.
 
 #### Effective Date of 1999 Amendment
 
@@ -140,7 +140,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §339(c)\], Nov. 29
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (d)(2) of this section relating to the requirement that the Secretary of State transmit a copy of the annual report furnished by the Inspector General, together with any comments which the Secretary deems appropriate, to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives and to other appropriate committees, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 ofTitle 31, Money and Finance, and page 129 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (d)(2) of this section relating to the requirement that the Secretary of State transmit a copy of the annual report furnished by the Inspector General, together with any comments which the Secretary deems appropriate, to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives and to other appropriate committees, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 129 of House Document No. 103–7.
 
 #### No Grievance or Right of Action
 

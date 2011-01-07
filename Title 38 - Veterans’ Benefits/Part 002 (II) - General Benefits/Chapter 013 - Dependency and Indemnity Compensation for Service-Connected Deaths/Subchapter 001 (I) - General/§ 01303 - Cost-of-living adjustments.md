@@ -12,7 +12,7 @@ The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 5
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–183 substituted “2013” for “2011”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–183 substituted “2013” for “2011”.
 
-2001—Subsec. (a). Pub. L. 107–103 substituted “2011” for “2002”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–103 substituted “2011” for “2002”.
 

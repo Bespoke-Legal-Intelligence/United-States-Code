@@ -16,5 +16,5 @@ Any executive department or agency of the United States may, on a reimbursable b
 
 #### Amendments
 
-1997—Pub. L. 105–85 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+<b>1997</b>—Pub. L. 105–85 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 

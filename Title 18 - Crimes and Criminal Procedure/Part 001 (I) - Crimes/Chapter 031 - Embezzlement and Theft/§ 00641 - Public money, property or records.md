@@ -22,7 +22,7 @@ Words “in a jail” which followed “imprisonment” and preceded “for not 
 
 Language relating to receiving stolen property is from said section 101.
 
-Words “or aid in concealing” were omitted as unnecessary in view of definitive section 2 of this title. Procedural language at end of said section 101 “and such person may be tried either before or after the conviction of the principal offender” was transferred to and rephrased in section 3435 of this title.
+Words “or aid in concealing” were omitted as unnecessary in view of definitive section 2 of this title. Procedural language at end of said section 101 “and suchperson may be tried either before or after the conviction of the principal offender” was transferred to and rephrased in section 3435 of this title.
 
 Words “or any corporation in which the United States of America is a stockholder” in said section 82 were omitted as unnecessary in view of definition of “agency” in section 6 of this title.
 
@@ -40,11 +40,11 @@ Changes were made in phraseology.
 
 #### Amendments
 
-2004—Pub. L. 108–275, in third par., inserted “in the aggregate, combining amounts from all the counts for which the defendant is convicted in a single case,” after “value of such property”.
+<b>2004</b>—Pub. L. 108–275, in third par., inserted “in the aggregate, combining amounts from all the counts for which the defendant is convicted in a single case,” after “value of such property”.
 
-1996—Pub. L. 104–294 substituted “$1,000” for “$100” in third par.
+<b>1996</b>—Pub. L. 104–294 substituted “$1,000” for “$100” in third par.
 
-1994—Pub. L. 103–322, in third par., substituted “fined under this title” for “fined not more than $10,000” after “Shall be” and for “fined not more than $1,000” after “he shall be”.
+<b>1994</b>—Pub. L. 103–322, in third par., substituted “fined under this title” for “fined not more than $10,000” after “Shall be” and for “fined not more than $1,000” after “he shall be”.
 
 #### Short Title of 1984 Amendment
 

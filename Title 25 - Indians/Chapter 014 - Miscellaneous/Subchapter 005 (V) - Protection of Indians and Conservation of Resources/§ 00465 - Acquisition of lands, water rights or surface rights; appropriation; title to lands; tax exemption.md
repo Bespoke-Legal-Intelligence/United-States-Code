@@ -18,11 +18,11 @@ Act of July 28, 1955, referred to in text, is act July 28, 1955, ch. 423, 69 Sta
 
 #### Amendments
 
-1988—Pub. L. 100–581 inserted “or the Act of July 28, 1955 (69 Stat. 392), as amended (25 U.S.C. 608 et seq.)” after “this Act”.
+<b>1988</b>—Pub. L. 100–581 inserted “or the Act of July 28, 1955 (69 Stat. 392), as amended (25 U.S.C. 608 et seq.)” after “this Act”.
 
 #### Payson Band, Yavapai-Apache Indian Reservation
 
-Pub. L. 92–470, Oct. 6, 1972, 86 Stat. 783, provided: “That (a) a suitable site (of not to exceed eighty-five acres) for a village for the Payson Community ofYavapai-Apache Indians shall be selected in the Tonto National Forest within Gila County, Arizona, by the leaders of the community, subject to approval by the Secretary of the Interior and the Secretary of Agriculture. The site so selected is hereby declared to be held by the United States in trust as an Indian reservation for the use and benefit of the Payson Community of Yavapai-Apache Indians.
+Pub. L. 92–470, Oct. 6, 1972, 86 Stat. 783, provided: “That (a) a suitable site (of not to exceed eighty-five acres) for a village for the Payson Community of Yavapai-Apache Indians shall be selected in the Tonto National Forest within Gila County, Arizona, by the leaders of the community, subject to approval by the Secretary of the Interior and the Secretary of Agriculture. The site so selected is hereby declared to be held by the United States in trust as an Indian reservation for the use and benefit of the Payson Community of Yavapai-Apache Indians.
 
 “(b) The Payson Community of Yavapai-Apache Indians shall be recognized as a tribe of Indians within the purview of the Act of June 18, 1934, as amended (25 U.S.C. 461–479, relating to the protection of Indians and conservation of resources), and shall be subject to all of the provisions thereof.”
 
@@ -36,7 +36,7 @@ Act July 20, 1956, ch. 645, 70 Stat. 581, provided: “That the equitable title 
 
 “
 
-Sec. 2. The lands declared to be held in trust for the Seminole Tribe of Indians in the State of Florida under the first section of this Act and all lands which have been acquired by the United States for the Seminole Tribe of Indians in the State of Florida under authority of the Act entitled ‘An Act to conserve and develop Indian lands and resources; to extend to Indians the right to form business and other organizations; to establish a credit system for Indians; to grant certain rights of home rule to Indians; to provide for vocational education for Indians; and for other purposes’ approved June 18, 1934 (48 Stat. 984) \[sections 461, 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476 to 478 and 479 of this title\], are hereby declared to be a reservation for the use and benefit of such Seminole Tribe in Florida.
+Sec. 2. The lands declared to be held in trust for the Seminole Tribe of Indians in the State of Florida under the first section of this Act and all lands which have been acquired by the United States for the Seminole Tribe of Indians in the State of Florida under authority of the Act entitled ‘An Act to conserve and develop Indian lands and resources; to extend to Indians the right to form business and other organizations; to establisha credit system for Indians; to grant certain rights of home rule to Indians; to provide for vocational education for Indians; and for other purposes’ approved June 18, 1934 (48 Stat. 984) \[sections 461, 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476 to 478 and 479 of this title\], are hereby declared to be a reservation for the use and benefit of such Seminole Tribe in Florida.
 
 “
 

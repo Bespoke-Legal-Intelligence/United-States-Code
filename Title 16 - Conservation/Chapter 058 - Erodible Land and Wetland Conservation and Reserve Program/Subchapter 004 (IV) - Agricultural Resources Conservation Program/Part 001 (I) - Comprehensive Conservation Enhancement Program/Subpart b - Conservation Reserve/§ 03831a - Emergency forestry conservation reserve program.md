@@ -14,7 +14,7 @@ In this section:
 
 #### (b) Program
 
-During calendar year 2006, the Secretary shall carry out an emergency pilot program in States that the Secretary determines have suffered damage to merchantable timber in counties affected by hurricanes during the 2005 calendar year.
+The Secretary shall carry out an emergency pilot program in States that the Secretary determines have suffered damage to merchantable timber in counties affected by hurricanes during the 2005 calendar year.
 
 #### (c) Eligible acreage
 
@@ -116,11 +116,11 @@ Section 3831(k) of this title, which was transferred and redesignated as this se
 
 #### Amendments
 
-2008—Pub. L. 110–246, §2106(b), transferred section 3831(k) of this title to this section, substituted “this section” for “this subsection” wherever appearing, redesignated pars. (1) to (3) as subsecs. (a) to (c), respectively, in subsec. (a) redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, in subsec. (c) redesignated subpars. (A) to (I) as pars. (1) to (9), respectively, in par. (1) substituted “paragraph (2)” for “subparagraph (B)” and “paragraph (7)” for “subparagraph (G)”, in pars. (3) and (4) redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, in par. (3)(B) substituted “section 3831(d) of this title” for “subsection (d) of this section”, in par. (5) redesignated cls. (i) to (v) as subpars. (A) to (E), respectively, in subpar. (A) redesignated subcls. (I) and (II) as cls. (i) and (ii), respectively, in subpar. (B) substituted “subparagraph (A)(i)” for “clause (i)(I)”, in subpar. (C) substituted “subparagraph (A)(ii)” for “clause (i)(II)”, in par. (9) redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively, and in subpar. (B) redesignated subcls. (I) to (III) as cls. (i) to (iii), respectively. See Codification note above.
+<b>2008</b>—Pub. L. 110–246, §2106(b), transferred section 3831(k) of this title to this section, substituted “this section” for “this subsection” wherever appearing, redesignated pars. (1) to (3) as subsecs. (a) to (c), respectively, in subsec. (a) redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, in subsec. (c) redesignated subpars. (A) to (I) as pars. (1) to (9), respectively, in par. (1) substituted “paragraph (2)” for “subparagraph (B)” and “paragraph (7)” for “subparagraph (G)”, in pars. (3) and (4) redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, in par. (3)(B) substituted “section 3831(d) of this title” for “subsection (d) of this section”, in par. (5) redesignated cls. (i) to (v) as subpars. (A) to (E), respectively, in subpar. (A) redesignated subcls. (I) and (II) as cls. (i) and (ii), respectively, in subpar. (B) substituted “subparagraph (A)(i)” for “clause (i)(I)”, in subpar. (C) substituted “subparagraph (A)(ii)” for “clause (i)(II)”, in par. (9) redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively, and in subpar. (B) redesignated subcls. (I) to (III) as cls. (i) to (iii), respectively. See Codification note above.
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 ofPub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

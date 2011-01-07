@@ -1,7 +1,5 @@
 ### SUBCHAPTER V—BUREAU OF INDIAN AFFAIRS LAW ENFORCEMENT
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Customs”.</i>
-
 
 ---
 

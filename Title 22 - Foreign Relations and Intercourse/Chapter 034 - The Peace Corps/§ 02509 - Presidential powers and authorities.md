@@ -24,7 +24,7 @@ Subject to any future action of the Congress, a contract or agreement which enta
 
 #### (d) Waiver of certain Federal laws
 
-Whenever the President determines it to be in furtherance of the purposes of this chapter, functions authorized by this chapter may be performed without regard to such provisions of law (other than section 5 of title 41, section 252 of title 41, and the Renegotiation Act of 1951, as amended \[50 U.S.C. App. 1211 et seq.\]) regulating the making, performance, amendment, or modification of contracts and the expenditure of Government funds as the President may specify.
+Whenever the President determines it to be in furtherance of the purposes of this chapter, functions authorized by this chapter may be performed without regard to such provisions of law (other than sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41, and the Renegotiation Act of 1951, as amended \[50 U.S.C. App. 1211 et seq.\]) regulating the making, performance, amendment, or modification of contracts and the expenditure of Government funds as the President may specify.
 
 #### (e) Allocation of funds
 
@@ -36,7 +36,7 @@ Any officer of the United States Government carrying out functions under this ch
 
 #### (g) Reimbursement for commodities, services, and facilities
 
-In the case of any commodity, service, or facility procured from any agency of the United States Government under this chapter, reimbursement or payment shall be made to such agency from funds available under this chapter. Such reimbursement or payment shall be at replacement cost, or, if required by law, at actual cost, or at any other price authorized by law and agreed to by the owning or disposing agency. The amount of any such reimbursement or payment shall be credited to current applicable appropriations, funds, or accounts from which there may be procured replacements of similar commodities, services, or facilities, except thatwhere such appropriations, funds, or accounts are not reimbursable except by reason of this subsection, and when the owning or disposing agency determines that such replacement is not necessary, any funds received in payment therefor shall be covered into the Treasury as miscellaneous receipts.
+In the case of any commodity, service, or facility procured from any agency of the United States Government under this chapter, reimbursement or payment shall be made to such agency from funds available under this chapter. Such reimbursement or payment shall be at replacement cost, or, if required by law, at actual cost, or at any other price authorized by law and agreed to by the owning or disposing agency. The amount of any such reimbursement or payment shall be credited to current applicable appropriations, funds, or accounts from which there may be procured replacements of similarcommodities, services, or facilities, except that where such appropriations, funds, or accounts are not reimbursable except by reason of this subsection, and when the owning or disposing agency determines that such replacement is not necessary, any funds received in payment therefor shall be covered into the Treasury as miscellaneous receipts.
 
 #### (h) Hospitalization and medical treatment for Foreign Service local employees
 
@@ -58,17 +58,21 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 The Renegotiation Act of 1951, as amended, referred to in subsec. (d), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, as amended, which was classified principally to section 1211 et seq. of Title 50, Appendix, War and National Defense, prior to its omission from the Code. See Codification note preceding section 1211 of Title 50, Appendix.
 
+#### Codification
+
+In subsec. (d), “sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States, as amended, section 302 of the Federal Property and Administrative Services Act of 1949,” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-1999—Subsec. (a)(4). Pub. L. 106–30 substituted “section 1342 of title 31” for “31 U.S.C. 665(b)”.
+<b>1999</b>—Subsec. (a)(4). Pub. L. 106–30 substituted “section 1342 of title 31” for “31 U.S.C. 665(b)”.
 
-1994—Subsec. (c). Pub. L. 103–236, §602(a), which directed amendment of subsec. (c) by substituting “five years” for “thirty six months”, was executed by making the substitution for “thirty-six months” to reflect the probable intent of Congress.
+<b>1994</b>—Subsec. (c). Pub. L. 103–236, §602(a), which directed amendment of subsec. (c) by substituting “five years” for “thirty six months”, was executed by making the substitution for “thirty-six months” to reflect the probable intent of Congress.
 
 Subsec. (j). Pub. L. 103–236, §602(b), inserted before period at end of first sentence “, and to individuals employed under personal services contracts to furnish medical services abroad pursuant to subsection (a)(5) of this section.”
 
-1981—Subsecs. (i), (j). Pub. L. 97–113 added subsecs. (i) and (j).
+<b>1981</b>—Subsecs. (i), (j). Pub. L. 97–113 added subsecs. (i) and (j).
 
-1978—Subsec. (a)(2). Pub. L. 95–331, §5(a)(1), struck out proviso limiting to no more than 125 Peace Corps volunteers or volunteer leaders the number assignable to the described organizations.
+<b>1978</b>—Subsec. (a)(2). Pub. L. 95–331, §5(a)(1), struck out proviso limiting to no more than 125 Peace Corps volunteers or volunteer leaders the number assignable to the described organizations.
 
 Subsec. (a)(3) to (5). Pub. L. 95–331, §5(c), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
@@ -76,13 +80,13 @@ Subsec. (b). Pub. L. 95–331, §5(a)(2), substituted “$20,000” for “$10,0
 
 Subsec. (h). Pub. L. 95–331, §5(a)(3), added subsec. (h).
 
-1973—Subsec. (d). Pub. L. 93–49 excepted from waiver of Federal laws the application of sections 5 and 252 of title 41.
+<b>1973</b>—Subsec. (d). Pub. L. 93–49 excepted from waiver of Federal laws the application of sections 5 and 252 of title 41.
 
-1966—Subsec. (a)(3). Pub. L. 89–572 inserted “or transfer” after “and employ” and struck out “, and transfer such money or property to the government or other entities of the country or area with which the volunteers are serving, when such transfers would further the general purposes of the chapter”.
+<b>1966</b>—Subsec. (a)(3). Pub. L. 89–572 inserted “or transfer” after “and employ” and struck out “, and transfer such money or property to the government or other entities of the country or area with which the volunteers are serving, when such transfers would further the general purposes of the chapter”.
 
-1965—Subsec. (a)(3). Pub. L. 89–134 inserted “money or” after “and transfer such”.
+<b>1965</b>—Subsec. (a)(3). Pub. L. 89–134 inserted “money or” after “and transfer such”.
 
-1963—Subsec. (a)(3). Pub. L. 88–200 inserted provision for transfer of property.
+<b>1963</b>—Subsec. (a)(3). Pub. L. 88–200 inserted provision for transfer of property.
 
 #### Effective Date of 1978 Amendment
 
@@ -94,7 +98,7 @@ Funds available to President under this chapter allocated to and functions of Pr
 
 #### Prohibition Against Use of Funds Appropriated After February 15, 1981, and Before December 29, 1981, for Legal Services or Malpractice Protection
 
-Section 604(c) of Pub. L. 97–113 provided: “To the extent that the authorities provided by the amendments made by subsection (a) \[enacting subsecs. (i) and (j) of this section\] are authorities which are not applicable with respect to the Peace Corps immediately before the enactment of this Act \[Dec. 29, 1981\] and which require the expenditure of funds, those authorities may not be exercised using any funds appropriated after February 15, 1981, and before the date of the enactment of this Act.”
+Section 604(c) of Pub. L. 97–113 provided: “To the extent that the authorities provided by the amendmentsmade by subsection (a) \[enacting subsecs. (i) and (j) of this section\] are authorities which are not applicable with respect to the Peace Corps immediately before the enactment of this Act \[Dec. 29, 1981\] and which require the expenditure of funds, those authorities may not be exercised using any funds appropriated after February 15, 1981, and before the date of the enactment of this Act.”
 
 #### Waiver of Certain Laws by President Under Subsec. (d)
 

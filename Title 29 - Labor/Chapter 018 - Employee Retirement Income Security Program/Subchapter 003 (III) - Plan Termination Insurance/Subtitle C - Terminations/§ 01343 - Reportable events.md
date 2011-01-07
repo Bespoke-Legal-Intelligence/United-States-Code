@@ -2,7 +2,7 @@
 
 #### (a) Notification that event has occurred
 
-Within 30 days after the plan administrator or the contributing sponsor knows or has reason toknow that a reportable event described in subsection (c) of this section has occurred, he shall notify the corporation that such event has occurred, unless a notice otherwise required under this subsection has already been provided with respect to such event. The corporation is authorized to waive the requirement of the preceding sentence with respect to any or all reportable events with respect to any plan, and to require the notification to be made by including the event in the annual report made by the plan.
+Within 30 days after the plan administrator or the contributing sponsor knows or has reason to know that a reportable event described in subsection (c) of this section has occurred, he shall notify the corporation that such event has occurred, unless a notice otherwise required under this subsection has already been provided with respect to such event. The corporation is authorized to waive the requirement of the preceding sentence with respect to any or all reportable events with respect to any plan, and to require the notification to be made by including the event in the annual report made by the plan.
 
 #### (b) Notification that event is about to occur
 
@@ -82,7 +82,7 @@ The Secretary of Labor shall notify the corporation—
 
 Any information or documentary material submitted to the corporation pursuant to this section shall be exempt from disclosure under section 552 of title 5, and no such information or documentary material may be made public, except as may be relevant to any administrative or judicial action or proceeding. Nothing in this section is intended to prevent disclosure to either body of Congress or to any duly authorized committee or subcommittee of the Congress.
 
-(Pub. L. 93–406, title IV, §4043, Sept. 2, 1974, 88 Stat. 1024; Pub. L. 101–239, title VII, §7891(a), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 103–465, title VII, §771(a)–(e)(1), Dec. 8, 1994, 108 Stat. 5042, 5043; Pub. L. 109–280, title IV, §407(c)(2), Aug. 17, 2006, 120 Stat. 930.)
+(Pub. L. 93–406, title IV, §4043, Sept. 2, 1974, 88 Stat. 1024; Pub. L. 101–239, title VII, §7891(a),Dec. 19, 1989, 103 Stat. 2445; Pub. L. 103–465, title VII, §771(a)–(e)(1), Dec. 8, 1994, 108 Stat. 5042, 5043; Pub. L. 109–280, title IV, §407(c)(2), Aug. 17, 2006, 120 Stat. 930.)
 
 #### References in Text
 
@@ -90,9 +90,9 @@ The Securities Exchange Act of 1934, referred to in subsec. (b)(2)(B), is act Ju
 
 #### Amendments
 
-2006—Subsec. (c)(7). Pub. L. 109–280 substituted “1321(d)” for “1322(b)(6)” in introductory provisions.
+<b>2006</b>—Subsec. (c)(7). Pub. L. 109–280 substituted “1321(d)” for “1322(b)(6)” in introductory provisions.
 
-1994—Subsec. (a). Pub. L. 103–465, §771(a), (e)(1), in first sentence, inserted “or the contributing sponsor” after “administrator”, substituted “subsection (c)” for “subsection (b)”, and inserted before period at end “, unless a notice otherwise required under this subsection has already been provided with respect to such event”, and struck out last sentence which read as follows: “Whenever an employer making contributions under a plan to which section 1321 of this title applies knows or has reason to know that a reportable event has occurred he shall notify the plan administrator immediately.”
+<b>1994</b>—Subsec. (a). Pub. L. 103–465, §771(a), (e)(1), in first sentence, inserted “or the contributing sponsor” after “administrator”, substituted “subsection (c)” for “subsection (b)”, and inserted before period at end “, unless a notice otherwise required under this subsection has already been provided with respect to such event”, and struck out last sentence which read as follows: “Whenever an employer making contributions under a plan to which section 1321 of this title applies knows or has reason to know that a reportable event has occurred he shall notify the plan administrator immediately.”
 
 Subsec. (b). Pub. L. 103–465, §771(b), added subsec. (b). Former subsec. (b) redesignated (c).
 
@@ -104,7 +104,7 @@ Subsecs. (d), (e). Pub. L. 103–465, §771(b), (e)(1), redesignated subsecs. (c
 
 Subsec. (f). Pub. L. 103–465, §771(d), added subsec. (f).
 
-1989—Subsec. (b)(4). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1989</b>—Subsec. (b)(4). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 #### Effective Date of 2006 Amendment
 

@@ -14,5 +14,5 @@ Exceptions.—(1) The term does not include the procurement of major modificatio
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–261 inserted “or the location at which the maintenance or repair is performed” before period at end of first sentence.
+<b>1998</b>—Subsec. (a). Pub. L. 105–261 inserted “or the location at which the maintenance or repair is performed” before period at end of first sentence.
 

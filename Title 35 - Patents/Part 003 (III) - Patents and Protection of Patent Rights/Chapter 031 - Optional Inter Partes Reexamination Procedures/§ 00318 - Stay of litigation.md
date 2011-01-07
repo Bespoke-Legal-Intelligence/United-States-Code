@@ -6,5 +6,5 @@ Once an order for inter partes reexamination of a patent has been issued under s
 
 #### Amendments
 
-2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, which enacted this section.
+<b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, which enacted this section.
 

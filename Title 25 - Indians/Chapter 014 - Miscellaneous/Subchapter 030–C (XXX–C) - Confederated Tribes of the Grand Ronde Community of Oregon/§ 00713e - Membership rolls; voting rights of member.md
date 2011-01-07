@@ -6,7 +6,7 @@ The membership roll of the tribe is established and open.
 
 #### (b) Criteria governing eligibility
 
-(1) Until the first election of the tribal governing body is held pursuant to section 713d(d) ofthis title, any living individual may be enrolled on the membership roll of the tribe if—
+(1) Until the first election of the tribal governing body is held pursuant to section 713d(d) of this title, any living individual may be enrolled on the membership roll of the tribe if—
 
 &emsp;(A) that individual's name was listed on the final membership roll of the tribe published on April 6, 1956, in volume 20, number 101, Federal Register, pages 3636 through 3642;
 

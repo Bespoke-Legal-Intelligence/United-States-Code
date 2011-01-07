@@ -48,6 +48,8 @@
 
 The Solid Waste Disposal Act, referred to in subsec. (b)(1), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
+This chapter, referred to in subsec. (b)(2), (5), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+
 The Federal Bankruptcy Code, referred to in subsec. (c)(2), probably means a reference to Title 11, Bankruptcy.
 
 #### Codification
@@ -58,7 +60,7 @@ In subsec. (b)(5), “section 31139 of title 49” substituted for “section 30
 
 #### Amendments
 
-1986—Subsec. (a)(1). Pub. L. 99–499, §127(c)(1), inserted “to cover the liability prescribed under paragraph (1) of section 9607(a) of this title” after “whichever is greater)”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–499, §127(c)(1), inserted “to cover the liability prescribed under paragraph (1) of section 9607(a) of this title” after “whichever is greater)”.
 
 Subsec. (a)(4). Pub. L. 99–499, §127(c)(2), added par. (4).
 
@@ -66,7 +68,7 @@ Subsec. (b)(2). Pub. L. 99–499, §108(a), inserted provisions relating to evid
 
 Subsec. (b)(3). Pub. L. 99–499, §108(b), substituted “as quickly as can reasonably be achieved but in no event more than 4 years” for “over a period of not less than three and no more than six years”.
 
-Subsec. (c). Pub. L. 99–499, §108(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Any claim authorized by section 9607 or 9611 of this title may be asserted directly against any guarantor providing evidence of financial responsibility as required under this section. In defending such a claim, the guarantor may invoke all rights and defenses which would be available to the owner or operator under this subchapter. The guarantor may also invoke the defense that the incident was caused by the willful misconduct of the owner or operator, but such guarantor may not invoke any other defense that such guarantor might have been entitled to invoke in a proceeding brought by the owner or operator against him.”
+Subsec. (c). Pub. L. 99–499, §108(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Any claim authorized by section 9607 or 9611 of this title may be asserted directly against any guarantor providing evidence of financial responsibility as required under this section. In defending such a claim, the guarantor may invoke all rights and defenses which would be available to the owner or operator under this subchapter. The guarantor may also invoke the defense that the incident was caused by the willful misconductof the owner or operator, but such guarantor may not invoke any other defense that such guarantor might have been entitled to invoke in a proceeding brought by the owner or operator against him.”
 
 Subsec. (d). Pub. L. 99–499, §108(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Any guarantor acting in good faith against which claims under this chapter are asserted as a guarantor shall be liable under section 9607 of this title or section 9612(c) of this title only up to the monetary limits of the policy of insurance or indemnity contract such guarantor has undertaken or of the guaranty of other evidence of financial responsibility furnished under this section, and only to the extent that liability is not excluded by restrictive endorsement: <i>Provided</i>, That this subsection shall not alter the liability of any person under section 9607 of this title.”
 

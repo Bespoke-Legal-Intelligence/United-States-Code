@@ -32,7 +32,7 @@ Section 1321(c)(2) of title 33, referred to in subsec. (c), was amended generall
 
 #### Amendments
 
-1986—Subsec. (b). Pub. L. 99–499 designated existing provisions as par. (1), substituted “who, without sufficient cause, willfully” for “who willfully” and “$25,000” for “$5,000”, and added par. (2).
+<b>1986</b>—Subsec. (b). Pub. L. 99–499 designated existing provisions as par. (1), substituted “who, without sufficient cause, willfully” for “who willfully” and “$25,000” for “$5,000”, and added par. (2).
 
 Subsec. (b)(2)(A). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 

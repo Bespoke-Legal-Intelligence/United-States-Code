@@ -16,13 +16,13 @@ The Secretary of State, in consultation with the Secretary, shall take appropria
 
 #### (c) International cooperation
 
-The Secretary, in consultation with the Secretary of State and other appropriate Federal agencies, shall cooperate with other governments and international organizations in furtherance of the purposes and policies of this chapter and consistent with applicable regional and mutilateral arrangements for the protection and management of special marine areas.
+The Secretary, in consultation with the Secretary of State and other appropriate Federal agencies, shall cooperate with other governments and international organizations in furtherance of the purposes and policies of this chapter and consistent with applicable regional and mutilateral <sup>1</sup> arrangements for the protection and management of special marine areas.
 
 (Pub. L. 92–532, title III, §305, as added Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2302; amended Pub. L. 102–587, title II, §2105, Nov. 4, 1992, 106 Stat. 5043.)
 
 #### Amendments
 
-1992—Pub. L. 102–587, §2105(b), substituted “; international negotiations and cooperation” for “and international negotiations” in section catchline.
+<b>1992</b>—Pub. L. 102–587, §2105(b), substituted “; international negotiations and cooperation” for “and international negotiations” in section catchline.
 
 Subsec. (a). Pub. L. 102–587, §2105(a)(1), substituted “This chapter and the regulations” for “The regulations” and inserted “or be enforced against” after “apply to”.
 
@@ -31,4 +31,6 @@ Subsec. (c). Pub. L. 102–587, §2105(a)(2), added subsec. (c).
 #### International Cooperation
 
 For direction that the Secretary of State seek effective international action and cooperation through the development of appropriate international rules and regulations in support of the policy of this chapter and chapter 27 of Title 33, Navigation and Navigable Waters, see section 1419 of Title 33.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “multilateral”.</i>
 

@@ -18,7 +18,7 @@ Under such conditions and regulations as the Secretary may prescribe, beer may b
 
 #### (e) Beer for personal or family use
 
-Subject to regulation prescribed by the Secretary, any adult may, without payment of tax, produce beer for personal or family use and not for sale. The aggregate amount of beer exemptfrom tax under this subsection with respect to any household shall not exceed—
+Subject to regulation prescribed by the Secretary, any adult may, without payment of tax, produce beer for personal or family use and not for sale. The aggregate amount of beer exempt from tax under this subsection with respect to any household shall not exceed—
 
 &emsp;(1) 200 gallons per calendar year if there are 2 or more adults in such household, or
 
@@ -62,7 +62,7 @@ A prior section 5053, act Aug. 16, 1954, ch. 736, 68A Stat. 612, consisted of pr
 
 #### Amendments
 
-1997—Subsec. (f). Pub. L. 105–34, §1414(b), added subsec. (f). Former subsec. (f) redesignated (i).
+<b>1997</b>—Subsec. (f). Pub. L. 105–34, §1414(b), added subsec. (f). Former subsec. (f) redesignated (i).
 
 Subsec. (g). Pub. L. 105–34, §1418(a), added subsec. (g).
 
@@ -70,13 +70,13 @@ Subsec. (h). Pub. L. 105–34, §1419(a), added subsec. (h).
 
 Subsec. (i). Pub. L. 105–34, §1414(b), redesignated subsec. (f) as (i).
 
-1978—Subsecs. (e), (f). Pub. L. 95–458 added subsec. (e) and redesignated former subsec. (e) as (f).
+<b>1978</b>—Subsecs. (e), (f). Pub. L. 95–458 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1976—Subsecs. (a) to (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a) to (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1971—Subsecs. (d), (e). Pub. L. 91–673 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1971</b>—Subsecs. (d), (e). Pub. L. 91–673 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1965—Subsec. (a). Pub. L. 89–44 struck out “to a foreign country” after “export”.
+<b>1965</b>—Subsec. (a). Pub. L. 89–44 struck out “to a foreign country” after “export”.
 
 #### Effective Date of 1997 Amendment
 

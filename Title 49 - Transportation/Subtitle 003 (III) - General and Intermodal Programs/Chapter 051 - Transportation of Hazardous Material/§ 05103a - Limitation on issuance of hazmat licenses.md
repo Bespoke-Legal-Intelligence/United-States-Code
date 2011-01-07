@@ -44,7 +44,7 @@ Scope.—A background records check regarding an individual under this subsectio
 
 (e)
 
-Reporting Requirement.—Each State shall submit to the Secretary of Homeland Security, at such time and in such manner as the Secretary of Homeland Security may prescribe, the name, address, and such other informationas the Secretary of Homeland Security may require, concerning—
+Reporting Requirement.—Each State shall submit to the Secretary of Homeland Security, at such time and in such manner as the Secretary of Homeland Security may prescribe, the name, address, and such other information as the Secretary of Homeland Security may require, concerning—
 
 &emsp;(1) each alien to whom the State issues a license described in subsection (a); and
 
@@ -150,9 +150,9 @@ The date of enactment of this subsection, referred to in subsecs. (g) and (h), i
 
 #### Amendments
 
-2008—Subsec. (g)(1)(B)(ii). Pub. L. 110–244 substituted “subsection” for “Act”.
+<b>2008</b>—Subsec. (g)(1)(B)(ii). Pub. L. 110–244 substituted “subsection” for “Act”.
 
-2007—Subsec. (a)(1). Pub. L. 110–53, §1556(a)(1), substituted “Secretary of Homeland Security” for “Secretary”.
+<b>2007</b>—Subsec. (a)(1). Pub. L. 110–53, §1556(a)(1), substituted “Secretary of Homeland Security” for “Secretary”.
 
 Subsec. (b). Pub. L. 110–53, §1556(a)(2), substituted “Secretary of Transportation” for “Secretary” in two places.
 
@@ -160,7 +160,7 @@ Subsec. (d)(1)(B). Pub. L. 110–53, §1556(a)(3), substituted “Secretary of H
 
 Subsec. (e). Pub. L. 110–53, §1556(a)(4), substituted “Secretary of Homeland Security” for “Secretary” wherever appearing.
 
-2005—Subsec. (a)(1). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation”.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation”.
 
 Pub. L. 109–59, §7104(c), substituted “subsection (d)(1)(B),” for “subsection (c)(1)(B),”.
 

@@ -16,25 +16,25 @@ If any refund or credit of income taxes is attributable to the taxpayer's electi
 
 #### Amendments
 
-2000—Subsecs. (a), (b). Pub. L. 106–554 substituted “$2,000,000” for “$1,000,000”.
+<b>2000</b>—Subsecs. (a), (b). Pub. L. 106–554 substituted “$2,000,000” for “$1,000,000”.
 
-1990—Subsecs. (a), (b). Pub. L. 101–508, §11834(a) substituted “$1,000,000” for “$200,000”.
+<b>1990</b>—Subsecs. (a), (b). Pub. L. 101–508, §11834(a) substituted “$1,000,000” for “$200,000”.
 
 Subsec. (d). Pub. L. 101–508, §11801(c)(21)(A), struck out subsec. (d) which read as follows: “For purposes of this section, a refund or credit made under subchapter E of chapter 64 (relating to Federal collection of qualified State individual income taxes) for a taxable year shall be treated as a portion of a refund or credit of the income tax for that taxable year.”
 
-1986—Subsecs. (b) to (e). Pub. L. 99–514 redesignated subsecs. (c) to (e) as (b) to (d), respectively, and struck out former subsec. (b) which read as follows: “A report to Congress shall be made annually by such committee of such refunds and credits, including the names of all persons and corporations to whom amounts are credited or payments are made, together with the amounts credited or paid to each.”
+<b>1986</b>—Subsecs. (b) to (e). Pub. L. 99–514 redesignated subsecs. (c) to (e) as (b) to (d), respectively, and struck out former subsec. (b) which read as follows: “A report to Congress shall be made annually by such committee of such refunds and credits, including the names of all persons and corporations to whom amounts are credited or payments are made, together with the amounts credited or paid to each.”
 
-1984—Subsec. (d). Pub. L. 98–369 substituted “section 165(i)” for “section 165(h)”.
+<b>1984</b>—Subsec. (d). Pub. L. 98–369 substituted “section 165(i)” for “section 165(h)”.
 
-1978—Subsec. (a). Pub. L. 95–227 inserted provisions relating to applicability to public charities, operators’ trust funds, or real estate investment trusts, and references to chapters 41 and 44.
+<b>1978</b>—Subsec. (a). Pub. L. 95–227 inserted provisions relating to applicability to public charities, operators’ trust funds, or real estate investment trusts, and references to chapters 41 and 44.
 
-1976—Subsec. (a). Pub. L. 94–455, §1210(a), inserted reference to any tax imposed with respect to private foundations and pensions under chapters 42 and 43, substituted $200,000 for $100,000 and struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1210(a), inserted reference to any tax imposed with respect to private foundations and pensions under chapters 42 and 43, substituted $200,000 for $100,000 and struck out “or his delegate” after “Secretary”.
 
 Subsec. (c). Pub. L. 94–455, §§1210(b), 1906(b)(13)(A), substituted “$200,000” for “$100,000” and struck out “or his delegate” after “Secretary”.
 
 Subsec. (d). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-1972—Subsec. (d). Pub. L. 92–418 added subsec. (d).
+<b>1972</b>—Subsec. (d). Pub. L. 92–418 added subsec. (d).
 
 Subsec. (e). Pub. L. 92–512 added subsec. (e).
 

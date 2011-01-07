@@ -10,11 +10,11 @@
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–183, §708(c)(1)(A), substituted “Commissioner of Social Security, and shall be certified by the Commissioner to the Secretary upon request of the Secretary.” for “Secretary of Health and Human Services, and shall be certified by such Secretary to the Secretary of Veterans Affairs upon request of the Secretary of Veterans Affairs.”
+<b>2003</b>—Subsec. (a). Pub. L. 108–183, §708(c)(1)(A), substituted “Commissioner of Social Security, and shall be certified by the Commissioner to the Secretary upon request of the Secretary.” for “Secretary of Health and Human Services, and shall be certified by such Secretary to the Secretary of Veterans Affairs upon request of the Secretary of Veterans Affairs.”
 
 Subsec. (b). Pub. L. 108–183, §708(c)(1)(B), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” in first sentence and substituted “the Secretary and the Commissioner” for “the two Secretaries” and “Commissioner” for “Secretary of Health and Human Services” in second sentence.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 422 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 422 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “1312(a)” for “412(a)”, “1312(a)(2)” for “412(a)(2)”, “1312(a)(3)” for “412(a)(3)”.
 
@@ -26,13 +26,13 @@ Subsec. (c). Pub. L. 102–83, §5(c)(1), substituted “1312(a)” for “412(a
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1982—Subsec. (a). Pub. L. 97–295, §4(12), (95)(A), substituted “section 202 of the Social Security Act (42 U.S.C. 402)” for “section 402 of title 42”, and “Health and Human Services” for “Health, Education, and Welfare”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–295, §4(12), (95)(A), substituted “section 202 of the Social Security Act (42 U.S.C. 402)” for “section 402 of title 42”, and “Health and Human Services” for “Health, Education, and Welfare”.
 
 Subsec. (b). Pub. L. 97–295, §4(95)(A), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-1976—Subsec. (a). Pub. L. 94–433 substituted “such veteran's” and “such Secretary” for “his” and “him”, respectively.
+<b>1976</b>—Subsec. (a). Pub. L. 94–433 substituted “such veteran's” and “such Secretary” for “his” and “him”, respectively.
 
-1961—Subsec. (a). Pub. L. 87–268 §1(c), substituted “section 412(a)” for “section 412”, “section 412(a)(2)” for “section 412(2)”, and “section 412(a)(3)” for “section 412(3)”.
+<b>1961</b>—Subsec. (a). Pub. L. 87–268 §1(c), substituted “section 412(a)” for “section 412”, “section 412(a)(2)” for “section 412(2)”, and “section 412(a)(3)” for “section 412(3)”.
 
 Subsec. (c). Pub. L. 87–268, §1(b), substituted “section 412(a)” for “section 412”.
 

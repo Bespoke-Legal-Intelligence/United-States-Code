@@ -10,7 +10,7 @@ A prior section 5663, act Aug. 16, 1954, ch. 736, 68A Stat. 695, consisted of pr
 
 #### Amendments
 
-1979—Pub. L. 96–39 struck out reference to penalties for rectified products under part I of this subchapter.
+<b>1979</b>—Pub. L. 96–39 struck out reference to penalties for rectified products under part I of this subchapter.
 
 #### Effective Date of 1979 Amendment
 

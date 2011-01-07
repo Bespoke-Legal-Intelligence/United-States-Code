@@ -6,5 +6,5 @@ There is hereby authorized to be appropriated not more than $780,000 for the acq
 
 #### Amendments
 
-1972—Pub. L. 92–272 increased the authorization of appropriations from not more than $355,000 to not more than $780,000.
+<b>1972</b>—Pub. L. 92–272 increased the authorization of appropriations from not more than $355,000 to not more than $780,000.
 

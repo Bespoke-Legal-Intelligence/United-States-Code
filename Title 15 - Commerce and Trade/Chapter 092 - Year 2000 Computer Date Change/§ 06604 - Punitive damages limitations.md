@@ -52,7 +52,7 @@ Punitive damages in a Y2K action may not be awarded against a government entity.
 
 #### Amendments
 
-1999—Subsec. (d). Pub. L. 106–113 added subsec. (d).
+<b>1999</b>—Subsec. (d). Pub. L. 106–113 added subsec. (d).
 
 <i><sup>1</sup></i><i> So in original. Probably should be “institution”.</i>
 

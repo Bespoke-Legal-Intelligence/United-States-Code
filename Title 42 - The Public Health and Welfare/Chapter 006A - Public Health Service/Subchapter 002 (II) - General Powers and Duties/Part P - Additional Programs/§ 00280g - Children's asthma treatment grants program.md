@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) To provide access to quality medical care for children who live in areas that have a high prevalence of asthma and who lack access to medical care.
 
-&emsp;&emsp;(B) To provide on-site education to parents, children, health care providers, andmedical teams to recognize the signs and symptoms of asthma, and to train them in the use of medications to treat asthma and prevent its exacerbations.
+&emsp;&emsp;(B) To provide on-site education to parents, children, health care providers, and medical teams to recognize the signs and symptoms of asthma, and to train them in the use of medications to treat asthma and prevent its exacerbations.
 
 &emsp;&emsp;(C) To decrease preventable trips to the emergency room by making medication available to individuals who have not previously had access to treatment or education in the management of asthma.
 
@@ -152,7 +152,7 @@ A prior section 399L of act July 1, 1944, was renumbered section 399F and is cla
 
 #### Amendments
 
-2004—Subsecs. (d), (e). Pub. L. 108–377 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>2004</b>—Subsecs. (d), (e). Pub. L. 108–377 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 #### Effective Date of 2004 Amendment
 

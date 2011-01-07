@@ -6,7 +6,7 @@ In order to commemorate the campaign, siege, and defense of Vicksburg, and to pr
 
 #### Amendments
 
-1966—Pub. L. 89–554 struck out provisions relating to appointment and pay of three commissioners to supervise Vicksburg National Military Park, and of a secretary.
+<b>1966</b>—Pub. L. 89–554 struck out provisions relating to appointment and pay of three commissioners to supervise Vicksburg National Military Park, and of a secretary.
 
 #### Change of Name
 

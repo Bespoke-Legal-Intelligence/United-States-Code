@@ -16,13 +16,13 @@ Not more than 10 percent of a grant made under this subchapter may be used for c
 
 #### (d) Utilization of private sector
 
-Nothing in this subchapter shall prohibit the utilization of any grant funds to contract with aprivate organization to provide equipment or training for the televising of testimony as contemplated by the application submitted by an applicant.
+Nothing in this subchapter shall prohibit the utilization of any grant funds to contract with a private organization to provide equipment or training for the televising of testimony as contemplated by the application submitted by an applicant.
 
 (Pub. L. 90–351, title I, §1407, as added Pub. L. 101–647, title II, §241(a)(2), Nov. 29, 1990, 104 Stat. 4813; amended Pub. L. 103–322, title IV, §40156(c)(7), Sept. 13, 1994, 108 Stat. 1924.)
 
 #### Amendments
 
-1994—Subsec. (c)(1). Pub. L. 103–322, §40156(c)(7)(A)(i), substituted “Grant recipients (or private organizations with which grant recipients have contracted to provide equipment or training using grant funds) shall keep such records as the Director may require by rule to facilitate such an audit.” for “Each State which receives a grant under this chapter shall keep, and shall require units of local government which receive any part of such grant to keep, such records as the Director may require by rule to facilitate an effective audit”.
+<b>1994</b>—Subsec. (c)(1). Pub. L. 103–322, §40156(c)(7)(A)(i), substituted “Grant recipients (or private organizations with which grant recipients have contracted to provide equipment or training using grant funds) shall keep such records as the Director may require by rule to facilitate such an audit.” for “Each State which receives a grant under this chapter shall keep, and shall require units of local government which receive any part of such grant to keep, such records as the Director may require by rule to facilitate an effective audit”.
 
 Subsec. (c)(2). Pub. L. 103–322, §40156(c)(7)(A)(ii), substituted “grant recipients (or private organizations with which grant recipients have contracted to provide equipment or training using grant funds)” for “States which receive grants, and of units of local government which receive any part of a grant made under this subchapter”.
 

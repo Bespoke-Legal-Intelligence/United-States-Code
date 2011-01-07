@@ -6,7 +6,7 @@
 
 (2) The Congress declares that the participation of the military personnel of other countries in the Multinational Force and Observers is essential to maintain the international character of the peacekeeping function in the Sinai. Accordingly—
 
-&emsp;(A) before the President assigns or details members of the United States Armed Forces to the Multinational Force and Observers, he shall notify the Congress of the names of the other countries that have agreed to provide military personnel for the Multinational Force and Observers, the number of military personnel to be provided by each country, and the functions to be performed by such personnel; and
+&emsp;(A) before the President assigns or details members of the United States Armed Forces to the Multinational Force and Observers, heshall notify the Congress of the names of the other countries that have agreed to provide military personnel for the Multinational Force and Observers, the number of military personnel to be provided by each country, and the functions to be performed by such personnel; and
 
 &emsp;(B) if a country withdraws from the Multinational Force and Observers with the result that the military personnel of less than four foreign countries remain, every possible effort must be made by the United States to find promptly a country to replace that country.
 

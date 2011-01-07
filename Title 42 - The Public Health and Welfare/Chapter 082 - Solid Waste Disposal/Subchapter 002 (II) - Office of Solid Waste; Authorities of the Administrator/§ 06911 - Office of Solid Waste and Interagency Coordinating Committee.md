@@ -28,7 +28,7 @@ Subsection (b)(3) of this section, which required the Interagency Coordinating C
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–510 substituted reference to Assistant Administrator for reference to Deputy Assistant Administrator.
+<b>1980</b>—Subsec. (a). Pub. L. 96–510 substituted reference to Assistant Administrator for reference to Deputy Assistant Administrator.
 
 Pub. L. 96–482 designated existing provisions as subsec. (a) and added subsec. (b).
 

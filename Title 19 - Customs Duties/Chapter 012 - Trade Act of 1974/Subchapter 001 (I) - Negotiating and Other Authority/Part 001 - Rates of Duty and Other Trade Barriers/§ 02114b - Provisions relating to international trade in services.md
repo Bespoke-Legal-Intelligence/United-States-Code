@@ -44,5 +44,5 @@ Section is comprised of subsec. (a) of section 306 of Pub. L. 98–573. Subsec. 
 
 #### Amendments
 
-1998—Par. (5). Pub. L. 105–277, which directed the amendment of par. (5) by inserting “postal and delivery services,” after “transportation.” in second sentence, was executed by making the insertion after “transportation,” to reflect the probable intent of Congress.
+<b>1998</b>—Par. (5). Pub. L. 105–277, which directed the amendment of par. (5) by inserting “postal and delivery services,” after “transportation.” in second sentence, was executed by making the insertion after “transportation,” to reflect the probable intent of Congress.
 

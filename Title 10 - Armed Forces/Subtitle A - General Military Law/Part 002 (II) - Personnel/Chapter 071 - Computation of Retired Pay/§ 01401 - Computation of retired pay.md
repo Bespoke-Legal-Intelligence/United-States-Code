@@ -2,19 +2,19 @@
 
 (a)
 
-Disability, Non-Regular Service, Warrant Officer, and DOPMA Retirement.—The monthly retired pay of a person entitled thereto under this subtitle is computed according to the following table. For each case covered by a section of this title named in the column headed “For sections”, retired pay is computed by taking, in order, the steps prescribed opposite it in columns 1, 2, 3, and 4, as modified by the applicable footnotes.
+Disability, Non-Regular Service, Warrant Officer, and DOPMA Retirement.—The monthly retired pay of a person entitled thereto under this subtitle is computed according to the following table. For each case covered by a section of this title named in the column headed “For sections”, retired pay is computed by taking, in order, the steps prescribed opposite it in columns 1, 2, 3, and 4,<sup>1</sup> as modified by the applicable footnotes.
 
 &nbsp;
 
-| Formula No. | For sections | Column 1Take | Column 2Multiply by | Column 3Add | Column 4Subtract |
-| --- | --- | --- | --- | --- | --- |
-| 1 | 12011204 | Retired pay base as computed under section 1406(b) or 1407. | As member elects—  (1) 21/2% of years of service credited to him under section 1208; <sup>1</sup> or  (2) the percentage of disability on date when retired. | &nbsp; | Excess over 75% of retired pay base upon which computation is based. |
-|  |  |  |  |  |  |
-| 2 | 12021205 | Retired pay base as computed under section 1406(b) or 1407. | As member elects—  (1) 21/2% of years of service credited to him under section 1208; <sup>1</sup> or  (2) the percentage of disability on date when his name was placed on temporary disability retired list. | Amount necessary to increase product of columns 1 and 2 to 50% of retired pay base upon which computation is based. | Excess over 75% of retired pay base upon which computation is based. |
-|  |  |  |  |  |  |
-| 4 | 580126312931305 | Retired pay base as computed under section 1406(b) or 1407. | The retired pay multiplier prescribed in section 1409(a) for the years of service credited to him under section 1405. | &nbsp; | &nbsp; |
-|  |  |  |  |  |  |
-| 5 | 633634635636125112521253 | Retired pay base as computed under section 1406(b) or 1407. | The retired pay multiplier prescribed in section 1409(a) for the years of service credited to him under section 1405. | &nbsp; | &nbsp; |
+| Formula No. | For sections | Column 1Take | Column 2Multiply by | Column 3Add |
+| --- | --- | --- | --- | --- |
+| 1 | 12011204 | Retired pay base as computed under section 1406(b) or 1407. | As member elects—  (1) 21/2% of years of service credited to him under section 1208; <sup>1</sup> or  (2) the percentage of disability, not to exceed 75%, on date when retired. | &nbsp; |
+|  |  |  |  |  |
+| 2 | 12021205 | Retired pay base as computed under section 1406(b) or 1407. | As member elects—  (1) 21/2% of years of service credited to him under section 1208; <sup>1</sup> or  (2) the percentage of disability, not to exceed 75%, on date when his name was placed on temporary disability retired list. | Amount necessary to increase product of columns 1 and 2 to 50% of retired pay base upon which computation is based. |
+|  |  |  |  |  |
+| 4 | 580126312931305 | Retired pay base as computed under section 1406(b) or 1407. | The retired pay multiplier prescribed in section 1409(a) for the years of service credited to him under section 1405. | &nbsp; |
+|  |  |  |  |  |
+| 5 | 633634635636125112521253 | Retired pay base as computed under section 1406(b) or 1407. | The retired pay multiplier prescribed in section 1409(a) for the years of service credited to him under section 1405. | &nbsp; |
 
 <sup>1</sup> Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month.
 
@@ -22,7 +22,7 @@ Disability, Non-Regular Service, Warrant Officer, and DOPMA Retirement.—The mo
 
 Use of Most Favorable Formula.—If a person would otherwise be entitled to retired pay computed under more than one formula of the table in subsection (a) or of any other provision of law, the person is entitled to be paid under the applicable formula that is most favorable to him.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 106; Pub. L. 85–422, §§6(7), 11(a)(2), May 20, 1958, 72 Stat. 129, 131; Pub. L. 88–132, §5(h)(1), Oct. 2, 1963, 77 Stat. 214; Pub. L. 89–132, §6, Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–207, §3(1), Dec. 16, 1967, 81 Stat. 653; Pub. L. 92–455, §1, Oct. 2, 1972, 86 Stat. 761; Pub. L. 96–342, title VIII, §813(b)(1), Sept. 8, 1980, 94 Stat. 1102; Pub. L. 96–513, title I, §113(a), title V, §511(49), Dec. 12, 1980, 94 Stat. 2876, 2924; Pub. L. 98–94, title IX, §§922(a)(1), 923(a)(1), (2)(A), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 98–557, §35(b), Oct. 30, 1984, 98 Stat. 2877; Pub. L. 99–348, title II, §201(a), July 1, 1986, 100 Stat. 691; Pub. L. 102–484, div. A, title X, §1052(18), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–337, div. A, title XVI, §1662(j)(2), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 109–163, div. A, title V, §509(d)(1)(A), Jan. 6, 2006, 119 Stat. 3231; Pub. L. 109–364, div. A, title V, §502(d)(1), Oct. 17, 2006, 120 Stat. 2177.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 106; Pub. L. 85–422, §§6(7), 11(a)(2), May 20, 1958, 72 Stat. 129, 131; Pub. L. 88–132, §5(h)(1), Oct. 2, 1963, 77 Stat. 214; Pub. L. 89–132, §6, Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–207, §3(1), Dec. 16, 1967, 81 Stat. 653; Pub. L. 92–455, §1, Oct. 2, 1972, 86 Stat. 761; Pub. L. 96–342, title VIII, §813(b)(1), Sept. 8, 1980, 94 Stat. 1102; Pub. L. 96–513, title I, §113(a), title V, §511(49), Dec. 12, 1980, 94 Stat. 2876, 2924; Pub. L. 98–94, title IX, §§922(a)(1), 923(a)(1), (2)(A), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 98–557, §35(b), Oct. 30, 1984, 98 Stat. 2877; Pub. L. 99–348, title II, §201(a), July 1, 1986, 100 Stat. 691; Pub. L. 102–484, div. A, title X, §1052(18), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–337, div. A, title XVI, §1662(j)(2), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 109–163, div. A, title V, §509(d)(1)(A), Jan. 6, 2006, 119 Stat. 3231; Pub. L. 109–364, div. A, title V, §502(d)(1), Oct. 17, 2006, 120 Stat. 2177; Pub. L. 111–383, div. A, title VI, §631(a), Jan. 7, 2011, 124 Stat. 4239.)
 
 Historical and Revision Notes
 
@@ -108,21 +108,23 @@ In formula No. 1, the words “whichever is earlier”, in 37:272(d) (clause (2)
 
 In formula No. 3, the computation is based on monthly pay instead of annual pay to conform to the other formulas of the revised section. The words “basic pay” are substituted for the words “base and longevity pay” to conform to the terminology of the Career Compensation Act of 1949 (37 U.S.C. 231 et seq.). The words “which he would receive if serving, at the time granted such pay, on active duty” are omitted as surplusage and to conform to the other formulas of the revised section, since the effect of these words is covered by footnote 1. The words “at any time” are substituted for the words “during his entire period of service”.
 
-Footnotes 1 and 2 reflect the long-standing construction of those provisions dealing with computation of retired pay which do not specifically provide that the member is entitled to compute his retired pay on the basis of the monthly basic pay to which he would be entitled if he were on active duty in his retired grade. The pertinent basic computation provisions for such retirement either provide for computation of retired pay on the same basis as the provisions dealing with higher retired grade, or the basic retirement provisions were enacted after the provisions authorizing higher retired grade. The words “at rates applicable on date of retirement and adjust to reflect later changes in permanent rates”, in footnote 1; and all of footnote 2; are based on the source statutes incorporated in the formulas to which footnotes 1 and 2 apply, as interpreted in an opinion of the Judge Advocate General of the Army (1953/4120, 14 May 1953).
+Footnotes 1 and 2 reflect the long-standing construction of those provisions dealing with computation of retired pay which do not specifically provide that the member is entitled to compute his retired pay on the basis of the monthly basic pay to which he would be entitled if he were on active duty in his retired grade. The pertinent basic computation provisions for such retirement either provide for computation of retired pay on the same basis as the provisions dealing with higher retired grade, or the basic retirement provisions were enacted after the provisions authorizing higher retired grade. The words “at rates applicable on date of retirement \* \* \* and adjust to reflect later changes in permanent rates”, in footnote 1; and all of footnote 2; are based on the source statutes incorporated in the formulas to which footnotes 1 and 2 apply, as interpreted in an opinion of the Judge Advocate General of the Army (1953/4120, 14 May 1953).
 
 In footnote 3, the words “and disregard a part of a year that is less than six months” are made applicable to formulas Nos. 1 and 2. The legislative history of the Career Compensation Act of 1949 (Hearings before the Committee on Armed Services of the Senate on H.R. 5007, 81st Congress, First Session, page 313, July 6, 1949) indicates that the provisions, upon which formulas Nos. 1 and 2 are based, should be construed to require that a fraction of less than one-half of a year be disregarded. It also indicates that other retirement laws that are also silent on this point should be similarly construed.
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–364 in table inserted “1253” after “1252” in column under heading “For sections”.
+<b>2011</b>—Subsec. (a). Pub. L. 111–383 in column 2 of table inserted “, not to exceed 75%,” after “percentage of disability” in two places and struck out column 4 of table which directed subtraction of excess over 75 percent of retired pay base upon which computation is based in formulas 1 and 2.
+
+<b>2006</b>—Subsec. (a). Pub. L. 109–364 in table inserted “1253” after “1252” in column under heading “For sections”.
 
 Pub. L. 109–163 in table inserted “1252” after “1251” in column under heading “For sections”.
 
-1994—Subsec. (a). Pub. L. 103–337 in table struck out formula number 3 which provided formula for computing retired pay under former section 1331 of this title.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337 in table struck out formula number 3 which provided formula for computing retired pay under former section 1331 of this title.
 
-1992—Subsec. (a). Pub. L. 102–484 substituted “580” for “564” in column in table under heading “For sections”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–484 substituted “580” for “564” in column in table under heading “For sections”.
 
-1986—Subsec. (a). Pub. L. 99–348, §201(a)(1), (2), designated existing provision as subsec. (a), added heading, and struck out third, fourth, and fifth sentences which read as follows: “The amount computed, if not a multiple of $1, shall be rounded to the next lower multiple of $1. However, if a person would otherwise be entitled to retired pay computed under more than one pay formula of this table or of any other provision of law, he is entitled to be paid under the applicable formula that is most favorable to him. Section references below are to sections of this title.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–348, §201(a)(1), (2), designated existing provision as subsec. (a), added heading, and struck out third, fourth, and fifth sentences which read as follows: “The amount computed, if not a multiple of $1, shall be rounded to the next lower multiple of $1. However, if a person would otherwise be entitled to retired pay computed under more than one pay formula of this table or of any other provision of law, he is entitled to be paid under the applicable formula that is most favorable to him. Section references below are to sections of this title.”
 
 Pub. L. 99–348, §201(a)(3), amended column 1 of table generally by substituting provisions that retired pay be computed by taking the retired pay base as computed under section 1406(b) or 1407 of this title for provisions that retired pay be computed for a person who first became a member of a uniformed service, as defined in section 1407(a)(2) of this title, after Sept. 7, 1980, by taking the monthly retired pay base as computed under section 1407(b) of this title, and for all others, by taking the monthly basic pay to which the member was entitled under various circumstances.
 
@@ -136,31 +138,35 @@ Pub. L. 99–348, §201(a)(7), in column 2 of table substituted footnote 1 desig
 
 Subsec. (b). Pub. L. 99–348, §201(a)(8), added subsec. (b).
 
-1984—Pub. L. 98–557 inserted reference to Commandant of the Coast Guard in footnote 4 of table.
+<b>1984</b>—Pub. L. 98–557 inserted reference to Commandant of the Coast Guard in footnote 4 of table.
 
-1983—Pub. L. 98–94, §922(a)(1), inserted “The amount computed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.”
+<b>1983</b>—Pub. L. 98–94, §922(a)(1), inserted “The amount computed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.”
 
 Pub. L. 98–94, §923(a)(1), (2)(A), in footnote 3 of table, substituted “Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month” for “Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months”.
 
-1980—Pub. L. 96–513, §113(a), inserted formula 5 in table of formulae set out in the section and added footnote 5.
+<b>1980</b>—Pub. L. 96–513, §113(a), inserted formula 5 in table of formulae set out in the section and added footnote 5.
 
 Pub. L. 96–513, §511(49), in formula 4 table of sections struck out reference to section 1255, in heading for Column 1 substituted reference to Sept. 7, 1980, for reference to date of enactment of Department of Defense Authorization Act, 1981, and in footnote 4 substituted reference to master chief petty officer of the Navy, for reference to senior enlisted advisor of the Navy.
 
 Pub. L. 96–342 in heading for column 1 of table inserted provisions respecting applicability to persons becoming members after the date of the enactment of the Department of Defense Authorization Act, 1981.
 
-1972—Pub. L. 92–455 substituted in second sentence of footnote 4 of table “chief master sergeant of the AirForce, sergeant major of the Marine Corps, or master chief petty officer of the Coast Guard,” for “chief master sergeant of the Air Force, or sergeant major of the Marine Corps,”.
+<b>1972</b>—Pub. L. 92–455 substituted in second sentence of footnote 4 of table “chief master sergeant of the Air Force, sergeant major of the Marine Corps, or master chief petty officer of the Coast Guard,” for “chief master sergeant of the Air Force, or sergeant major of the Marine Corps,”.
 
-1967—Pub. L. 90–207 inserted sentence to footnote 4 of table requiring the computation of retired pay for an enlisted person who has served as senior noncommissioned officer of his service at the highest rate of basic pay applicable to him while he so served, if that rate is higher than the rate authorized by the table.
+<b>1967</b>—Pub. L. 90–207 inserted sentence to footnote 4 of table requiring the computation of retired pay for an enlisted person who has served as senior noncommissioned officer of his service at the highest rate of basic pay applicable to him while he so served, if that rate is higher than the rate authorized by the table.
 
-1965—Pub. L. 89–132 struck out “increased, for members credited with two or less years of service for basic pay purposes, by 6%” from column 1 of formula 1 and column 1 of formula 2.
+<b>1965</b>—Pub. L. 89–132 struck out “increased, for members credited with two or less years of service for basic pay purposes, by 6%” from column 1 of formula 1 and column 1 of formula 2.
 
-1963—Pub. L. 88–132 struck out from footnote 1 of table “, and adjust to reflect later changes in applicable permanent rates” after “as the case may be.”
+<b>1963</b>—Pub. L. 88–132 struck out from footnote 1 of table “, and adjust to reflect later changes in applicable permanent rates” after “as the case may be.”
 
-1958—Pub. L. 85–422, §6(7)(A), inserted provisions in Column 1 of formulas 1 and 2 permitting the taking of the monthly basic pay to which a member was entitled on the day before retirement or placement on temporary disability retired list, increased, for members credited with two or less years of service for basic pay purposes, by 6 percent.
+<b>1958</b>—Pub. L. 85–422, §6(7)(A), inserted provisions in Column 1 of formulas 1 and 2 permitting the taking of the monthly basic pay to which a member was entitled on the day before retirement or placement on temporary disability retired list, increased, for members credited with two or less years of service for basic pay purposes, by 6 percent.
 
 Pub. L. 85–422, §11(a)(2), substituted “under section 1405 of this title” for “in computing basic pay” in column 2 of formula 4.
 
 Pub. L. 85–422, §6(7)(B), added footnote 4.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–383, div. A, title VI, §631(d), Jan. 7, 2011, 124 Stat. 4240, provided that: “The tables in sections 1401(a), 1402(d), and 1402a(d) of title 10, United States Code, as in effect on the day before the date of the enactment of this Act \[Jan. 7, 2011\], shall continue to apply to the computation or recomputation of retired or retainer pay for persons who first became entitled to retired or retainer pay under subtitle A of such title on or before the date of the enactment of this Act. The amendments made by this section \[amending this section and sections 1402 and 1402a of this title\] shall apply only with respect to persons who first become entitled to retired or retainer pay under such subtitle after that date.”
 
 #### Effective Date of 1994 Amendment
 
@@ -226,7 +232,7 @@ Pub. L. 111–118, div. A, title VIII, §8055, Dec. 19, 2009, 123 Stat. 3441.
 
 #### Recomputation of Retired Pay for Certain Recently Retired Officers
 
-Pub. L. 106–65, div. A, title VI, §601(e), Oct. 5, 1999, 113 Stat. 648, provided that: “In the case of a commissioned officer of the uniformed services who retired during the period beginning on April 30, 1999, through December 31, 1999, and who, at the time of retirement, was in pay grade O–7, O–8, O–9, or O–10, the retired pay of that officer shall be recomputed, effective as of January 1, 2000, using the rate of basic pay that would have been applicable to the computation of that officer's retired pay ifthe provisions of paragraph (2) of section 203(a) of title 37, United States Code, as added by subsection (d), had taken effect on April 30, 1999.”
+Pub. L. 106–65, div. A, title VI, §601(e), Oct. 5, 1999, 113 Stat. 648, provided that: “In the case of a commissioned officer of the uniformed services who retired during the period beginning on April 30, 1999, through December 31, 1999, and who, at the time of retirement, was in pay grade O–7, O–8, O–9, or O–10, the retired pay of that officer shall be recomputed, effective as of January 1, 2000, using the rate of basic pay that would have been applicable to the computation of that officer's retired pay if the provisions of paragraph (2) of section 203(a) of title 37, United States Code, as added by subsection (d), had taken effect on April 30, 1999.”
 
 #### Six-Month Rounding Rule
 
@@ -248,7 +254,7 @@ Exceptions.—The limitation in paragraph (1) does not apply to a member who bef
 
 “(3)
 
-Definition of covered member.—For the purposes of this subsection, the term ‘covered member of the Armed Forces’ means a member of the Armed Forces who became entitled to retired or retainer pay during the period beginning on January 1, 1982, and ending on September 30, 1983.
+Definition of covered member.—For the purposes of this subsection, the term ‘covered member of the Armed Forces’ means a member of the Armed Forces who became entitled to retired or retainer payduring the period beginning on January 1, 1982, and ending on September 30, 1983.
 
 “(4)
 
@@ -300,7 +306,7 @@ Section 4 of Pub. L. 85–422, as amended by Pub. L. 85–855, §1(a), Aug. 28, 
 
 “(a) Except for members covered by section 7 of this Act, members and former members of the uniformed services who are entitled to retired pay, retirement pay, retainer pay, or equivalent pay, on the day before the effective date of this Act \[June 1, 1958\], shall be entitled to an increase of 6 per centum of that pay to which they were entitled on that date.
 
-“(b) Notwithstanding any other provision of law, a member of a uniformed service retired under any provision of law, or transferred to the Fleet Reserve or Fleet Marine Corps Reserve, on the effective date of this Act \[June 1, 1958\] shall have his retired pay or retainer pay computed on the basis of the rates of basic pay setforth in the Career Compensation Act of 1949, as amended by this Act, or on the rates of basic pay set forth in the Career Compensation Act of 1949 on the day before the effective date of this Act, plus 6 per centum of that pay, whichever is greater.
+“(b) Notwithstanding any other provision of law, a member of a uniformed service retired under any provision of law, or transferred to the Fleet Reserve or Fleet Marine Corps Reserve, on the effective date of this Act \[June 1, 1958\] shall have his retired pay or retainer pay computed on the basis of the rates of basic pay set forth in the Career Compensation Act of 1949, as amended by this Act, or on the rates of basic pay set forth in the Career Compensation Act of 1949 on the day before the effective date of this Act, plus 6 per centum of that pay, whichever is greater.
 
 “(c) Section 5 of the Career Incentive Act of 1955 (69 Stat. 22) does not apply to any person who is retired, or to whom retired pay, retirement pay, retainer pay, or equivalent pay (including temporary disability retired pay) is granted, on or after the effective date of this Act \[June 1, 1958\]”.
 
@@ -312,5 +318,7 @@ Authority vested by this chapter in “military departments”, “the Secretary
 
 #### National Oceanic and Atmospheric Administration
 
-Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
+Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce orSecretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
+
+<i><sup>1</sup></i><i> So in original. Column 4 has been struck out.</i>
 

@@ -32,7 +32,7 @@ Subject to the availability of funds under subsection (d), the Secretary may pro
 
 &emsp;&emsp;Subject to paragraph (2), the amount of direct reimbursement payments made to a geographically disadvantaged farmer or rancher under this section for a fiscal year shall equal the product obtained by multiplying—
 
-&emsp;&emsp;&emsp;(i) the amount of costs incurred by the geographically disadvantaged farmer orrancher for transportation of the agricultural commodity or inputs during the fiscal year; and
+&emsp;&emsp;&emsp;(i) the amount of costs incurred by the geographically disadvantaged farmer or rancher for transportation of the agricultural commodity or inputs during the fiscal year; and
 
 &emsp;&emsp;&emsp;(ii)(I) the percentage of the allowance for that fiscal year under section 5941 of title 5 for Federal employees stationed in Alaska and Hawaii; or
 

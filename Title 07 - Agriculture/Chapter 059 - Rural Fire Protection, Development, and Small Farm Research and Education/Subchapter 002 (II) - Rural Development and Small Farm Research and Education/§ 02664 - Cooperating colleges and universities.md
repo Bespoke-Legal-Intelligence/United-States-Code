@@ -20,13 +20,13 @@ The institution in each State responsible for administering the programs authori
 
 #### References in Text
 
-Act of July 2, 1862, referred to in subsec. (a), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+Act of July 2, 1862, referred to in subsec. (a), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”,which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
 Act of August 30, 1890, referred to in subsec. (a), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 #### Prior Provisions
 
-A prior section 2664, Pub. L. 92–419, title V, §504, Aug. 30, 1972, 86 Stat. 673, related to conducting of programsauthorized by this subchapter, by cooperating colleges and universities, prior to repeal by Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1326.
+A prior section 2664, Pub. L. 92–419, title V, §504, Aug. 30, 1972, 86 Stat. 673, related to conducting of programs authorized by this subchapter, by cooperating colleges and universities, prior to repeal by Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1326.
 
 #### Effective Date
 

@@ -6,7 +6,7 @@
 
 #### (2) Open meetings
 
-&emsp;The Board and all of its committees, subcommittees, and task forces (and any other entity consisting of members of the Board and reporting to the Board) shall be subject to section 552b of title 5.
+&emsp;To ensure transparency of the Board's entire decision-making process, including deliberations on Board business occurring within its various subdivisions, the Board and all of its committees, subcommittees, and task forces (and any other entity consisting of members of the Board and reporting to the Board) shall be subject to section 552b of title 5. The preceding requirement will apply to meetings of the full Board, whenever a quorum is present; and to meetings of its subdivisions, whenever a quorum of the subdivision is present.
 
 #### (3) Compliance audit
 
@@ -26,7 +26,7 @@
 
 The Director shall not exclude part-time students from eligibility for scholarships under the Computer Science, Engineering, and Mathematics Scholarship program.
 
-(Pub. L. 107–368, §15, Dec. 19, 2002, 116 Stat. 3058; Pub. L. 110–69, title VII, §7015(a), Aug. 9, 2007, 121 Stat. 683.)
+(Pub. L. 107–368, §15, Dec. 19, 2002, 116 Stat. 3058; Pub. L. 110–69, title VII, §7015(a), Aug. 9, 2007, 121 Stat. 683; Pub. L. 111–358, title V, §504(c), Jan. 4, 2011, 124 Stat. 4006.)
 
 #### Codification
 
@@ -36,7 +36,9 @@ Section was enacted as part of the National Science Foundation Authorization Act
 
 #### Amendments
 
-2007—Subsec. (a)(3). Pub. L. 110–69, §7015(a)(1), substituted “an audit every three years” for “an annual audit”.
+<b>2011</b>—Subsec. (a)(2). Pub. L. 111–358 substituted “To ensure transparency of the Board's entire decision-making process, including deliberations on Board business occurring within its various subdivisions, the Board” for “The Board” and inserted at end “The preceding requirement will apply to meetings of the full Board, whenever a quorum is present; and to meetings of its subdivisions, whenever a quorum of the subdivision is present.”
+
+<b>2007</b>—Subsec. (a)(3). Pub. L. 110–69, §7015(a)(1), substituted “an audit every three years” for “an annual audit”.
 
 Subsec. (a)(4). Pub. L. 110–69, §7015(a)(2), substituted “every third year” for “each year”.
 

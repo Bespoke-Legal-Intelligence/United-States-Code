@@ -10,7 +10,7 @@
 
 &emsp;(C) who has not acquired permanent resident status,
 
-> shall, at the end of such year period, return or be returned to the custody of the Department of Homeland Security for inspection and examination for admission to the United States as an immigrant in accordance with the provisions of sections 1225, 1229a, and 1231 of this title.
+> shall, at the end of such year period, return or be returned to the custody of the Department ofHomeland Security for inspection and examination for admission to the United States as an immigrant in accordance with the provisions of sections 1225, 1229a, and 1231 of this title.
 
 (2) Any alien who is found upon inspection and examination by an immigration officer pursuant to paragraph (1) or after a hearing before an immigration judge to be admissible (except as otherwise provided under subsection (c) of this section) as an immigrant under this chapter at the time of the alien's inspection and examination shall, notwithstanding any numerical limitation specified in this chapter, be regarded as lawfully admitted to the United States for permanent residence as of the date of such alien's arrival into the United States.
 
@@ -35,6 +35,10 @@ The Secretary of Homeland Security or the Attorney General, in the Secretary's o
 The provisions of paragraphs (4), (5), and (7)(A) of section 1182(a) of this title shall not be applicable to any alien seeking adjustment of status under this section, and the Secretary of Homeland Security or the Attorney General may waive any other provision of such section (other than paragraph (2)(C) or subparagraph (A), (B), (C), or (E) of paragraph (3)) with respect to such an alien for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest.
 
 (June 27, 1952, ch. 477, title II, ch. 1, §209, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 105; amended Pub. L. 101–649, title I, §104(a)(1), title VI, §603(a)(4), Nov. 29, 1990, 104 Stat. 4985, 5082; Pub. L. 102–232, title III, §307(<i>l</i>)(1), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 104–208, div. C, title III, §§308(g)(3)(A), (4)(A), 371(b)(2), Sept. 30, 1996, 110 Stat. 3009–622, 3009–645; Pub. L. 109–13, div. B, title I, §101(g)(1), May 11, 2005, 119 Stat. 305.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a)(2) and (b)(5), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 
@@ -76,7 +80,7 @@ Amendment by section 603(a)(4) of Pub. L. 101–649 applicable to individuals en
 
 #### Effective Date
 
-Section effective, except as otherwise provided, Mar. 17, 1980, and applicable to fiscal years beginning with the fiscal year beginning Oct. 1, 1979, see section 204 of Pub. L. 96–212, set out as an Effective Date of 1980 Amendment note under section 1101 of this title.
+Section effective, except as otherwise provided, Mar. 17, 1980, and applicable to fiscal years beginning withthe fiscal year beginning Oct. 1, 1979, see section 204 of Pub. L. 96–212, set out as an Effective Date of 1980 Amendment note under section 1101 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
@@ -106,7 +110,7 @@ In general.—Subject to paragraph (2), the provisions of section 209(b) of the 
 
 &emsp;“(2)
 
-Application of per country limitations.—The number of aliens who are natives of any foreign statewho may adjust status pursuant to paragraph (1) in any fiscal year shall not exceed the difference between the per country limitation established under section 202(a) of the Immigration and Nationality Act \[8 U.S.C. 1152(a)\] and the number of aliens who are chargeable to that foreign state in the fiscal year under section 202 of such Act.”
+Application of per country limitations.—The number of aliens who are natives of any foreign state who may adjust status pursuant to paragraph (1) in any fiscal year shall not exceed the difference between the per country limitation established under section 202(a) of the Immigration and Nationality Act \[8 U.S.C. 1152(a)\] and the number of aliens who are chargeable to that foreign state in the fiscal year under section 202 of such Act.”
 
 \[Section 104(c), (d) of Pub. L. 101–649 effective Nov. 29, 1990, and (unless otherwise provided) applicable to fiscal year 1991, see section 161(b) of Pub. L. 101–649, set out as an Effective Date of 1990 Amendment note under section 1101 of this title.\]
 

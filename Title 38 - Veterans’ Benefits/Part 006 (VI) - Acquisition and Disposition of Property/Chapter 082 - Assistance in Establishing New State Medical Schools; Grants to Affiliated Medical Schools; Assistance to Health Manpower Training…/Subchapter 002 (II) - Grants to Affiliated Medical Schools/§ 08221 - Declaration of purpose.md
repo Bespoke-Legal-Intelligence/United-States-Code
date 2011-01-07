@@ -6,7 +6,7 @@ The purpose of this subchapter is to authorize the Secretary to carry out a prog
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 5081 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 5081 of this title as this section.
 
 Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Department” for “Veterans’ Administration”.
 

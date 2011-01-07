@@ -32,7 +32,7 @@
 
 #### Amendments
 
-1996—Subsec. (a)(3). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
 #### Change of Name
 

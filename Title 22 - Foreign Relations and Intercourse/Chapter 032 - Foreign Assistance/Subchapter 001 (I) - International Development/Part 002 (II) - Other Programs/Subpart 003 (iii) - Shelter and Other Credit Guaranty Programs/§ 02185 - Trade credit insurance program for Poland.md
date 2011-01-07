@@ -30,7 +30,7 @@ The agreement referred to in subsection (c) of this section shall also provide f
 
 #### (2) Crediting of subsequent payments
 
-&emsp;To the extent that any of the funds made available pursuant to paragraph (1) are paid out for a claim arising out of liabilities guaranteed under subsection (a) of this section, amounts received after the date of such payment, with respect to such claim, shall be credited to the reserve fund established pursuant to subsection (d) of this section, shall be merged with the funds in such reserve, andshall be available for the purpose of payments by the Administrator to the Bank for guarantees under subsection (a) of this section.
+&emsp;To the extent that any of the funds made available pursuant to paragraph (1) are paid out for a claim arising out of liabilities guaranteed under subsection (a) of this section, amounts received after the date of such payment, with respect to such claim, shall be credited to the reserve fund established pursuant to subsection (d) of this section, shall be merged with the funds in such reserve, and shall be available for the purpose of payments by the Administrator to the Bank for guarantees under subsection (a) of this section.
 
 #### (f) Appropriations action required
 

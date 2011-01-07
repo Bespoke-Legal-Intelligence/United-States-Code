@@ -42,7 +42,7 @@ The Secretary, in consultation with the Secretary of Health and Human Services, 
 
 #### Amendments
 
-1998—Subsec. (d). Pub. L. 105–197 added subsec. (d).
+<b>1998</b>—Subsec. (d). Pub. L. 105–197 added subsec. (d).
 
 #### Change of Name
 

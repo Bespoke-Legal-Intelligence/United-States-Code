@@ -10,7 +10,7 @@ Subject to subsection (c), the preferential treatment described in subsection (a
 
 #### (1) Apparel articles assembled in one or more beneficiary sub-Saharan African countries
 
-&emsp;Apparel articles sewn or otherwise assembled in one or more beneficiary sub-Saharan African countries from fabrics wholly formed and cut, or from components knit-to-shape, in the United States from yarns wholly formed in the United States, or both (including fabricsnot formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed and cut in the United States) that are—
+&emsp;Apparel articles sewn or otherwise assembled in one or more beneficiary sub-Saharan African countries from fabrics wholly formed and cut, or from components knit-to-shape, in the United States from yarns wholly formed in the United States, or both (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed and cut in the United States) that are—
 
 &emsp;&emsp;(A) entered under subheading 9802.00.80 of the Harmonized Tariff Schedule of the United States; or
 
@@ -50,7 +50,7 @@ Subject to subsection (c), the preferential treatment described in subsection (a
 
 #### (iii) Factors to consider
 
-&emsp;&emsp;&emsp;In determining whether a domestic industry has been seriously damaged, or isthreatened with serious damage, the Secretary shall examine the effect of the imports on relevant economic indicators such as domestic production, sales, market share, capacity utilization, inventories, employment, profits, exports, prices, and investment.
+&emsp;&emsp;&emsp;In determining whether a domestic industry has been seriously damaged, or is threatened with serious damage, the Secretary shall examine the effect of the imports on relevant economic indicators such as domestic production, sales, market share, capacity utilization, inventories, employment, profits, exports, prices, and investment.
 
 #### (iv) Procedure
 
@@ -148,7 +148,7 @@ Subject to subsection (c), the preferential treatment described in subsection (a
 
 #### (A) Products covered
 
-&emsp;&emsp;In addition to the products described in subsection (b) <sup>1</sup> the preferential treatment described in subsection (a) shall apply through September 30, 2012, to apparel articles wholly assembled, or knit-to-shape and wholly assembled, or both, in one or more lesser developed beneficiary sub-Saharan African countries, regardless of the country of origin of the fabric or the yarn used to make such articles, in an amount not to exceed the applicable percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the preceding 12-month period for which data are available.
+&emsp;&emsp;In addition to the products described in subsection (b) <sup>1</sup> the preferential treatment described in subsection (a) shall apply through September 30, 2012, to apparel articles wholly assembled, or knit-to-shape and wholly assembled, or both, in one or more lesser developed beneficiary sub-Saharan African countries, regardless of the country of origin of the fabric or the yarn used to make such articles, in an amount not to exceed the applicable percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in thepreceding 12-month period for which data are available.
 
 #### (B) Applicable percentage
 
@@ -266,13 +266,13 @@ This section takes effect on October 1, 2000, and shall remain in effect through
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsec. (b), is not set out in the Code. SeePublication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (b), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 This chapter, referred to in subsec. (f)(4), was in the original “this Act”, and was translated as reading “this title”, meaning title I of Pub. L. 106–200, May 18, 2000, 114 Stat. 252, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title I to the Code, see Short Title note set out under section 3701 of this title and Tables.
 
 #### Amendments
 
-2008—Subsec. (b)(3)(B), (C). Pub. L. 110–436, §3(d), made technical correction to directory language of Pub. L. 109–432, §6002(a)(2)(B). See 2006 Amendment note below.
+<b>2008</b>—Subsec. (b)(3)(B), (C). Pub. L. 110–436, §3(d), made technical correction to directory language of Pub. L. 109–432, §6002(a)(2)(B). See 2006 Amendment note below.
 
 Subsec. (b)(6)(A). Pub. L. 110–436, §3(a)(1), substituted “ethnic” for “ethic” in second sentence.
 
@@ -286,7 +286,7 @@ Subsec. (c)(4). Pub. L. 110–436, §3(a)(2)(C), substituted “Subsection (b)(3
 
 Subsec. (c)(5). Pub. L. 110–436, §3(a)(2)(D), struck out par. (5) which defined “applicable 1-year period”, “Commission”, “enter” and “entry”, and “lesser developed beneficiary sub-Saharan African country”.
 
-2006—Subsec. (b). Pub. L. 109–432, §6002(a)(2)(A), substituted “Subject to subsection (c), the” for “The” in introductory provisions.
+<b>2006</b>—Subsec. (b). Pub. L. 109–432, §6002(a)(2)(A), substituted “Subject to subsection (c), the” for “The” in introductory provisions.
 
 Subsec. (b)(3)(B), (C). Pub. L. 109–432, §6002(a)(2)(B), as amended by Pub. L. 110–436, §3(d), redesignated subpar. (C) as (B) and struck out former subpar. (B), which related to extension of preferential treatment though Sept. 30, 2007, for apparel articles wholly assembled, or knit-to-shape and wholly assembled, or both, in one or more lesser developed beneficiary sub-Saharan African countries.
 
@@ -308,7 +308,7 @@ Subsec. (g). Pub. L. 109–432, §6004, substituted “2015” for “2008”.
 
 Pub. L. 109–432, §6002(a)(1), redesignated subsec. (f) as (g).
 
-2004—Subsec. (b)(1). Pub. L. 108–274, §7(b)(1), substituted “or both (including” for “(including”.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–274, §7(b)(1), substituted “or both (including” for “(including”.
 
 Subsec. (b)(3). Pub. L. 108–274, §7(b)(2)(A), in introductory provisions, substituted “in the United States or one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries, or both” for “either in the United States or one or more beneficiary sub-Saharan African countries” wherever appearing and “whether or not the apparel articles are also made from any of the fabrics, fabric components formed, or components knit-to-shape described in paragraph (1) or (2) (unless the apparel articles are made exclusively from any of the fabrics, fabric components formed, or components knit-to-shape described in paragraph (1) or (2)), subject to the following:” for “subject to the following:”.
 
@@ -328,11 +328,11 @@ Subsec. (d)(3). Pub. L. 108–274, §7(e)(1), added par. (3).
 
 Subsec. (e)(4). Pub. L. 108–274, §7(f), added par. (4).
 
-2002—Subsec. (b)(1). Pub. L. 107–210, §3108(a)(1), substituted “Apparel articles assembled in one or more beneficiary sub-Saharan African countries” for “Apparel articles assembled in beneficiary sub-Saharan African countries” in heading and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Apparel articles assembled in one or more beneficiary sub-Saharan African countries from fabrics wholly formed and cut in the United States, from yarns wholly formed in the United States, (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed and cut in the United States) that are—”.
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–210, §3108(a)(1), substituted “Apparel articles assembled in one or more beneficiary sub-Saharan African countries” for “Apparel articles assembled in beneficiary sub-Saharan African countries” in heading and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Apparel articles assembled in one or more beneficiary sub-Saharan African countries from fabrics wholly formed and cut in the United States, from yarns wholly formed in the United States, (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed and cut in the United States) that are—”.
 
 Subsec. (b)(2). Pub. L. 107–210, §3108(a)(2), substituted “Other apparel articles assembled in one or more beneficiary sub-Saharan African countries” for “Apparel articles cut and assembled in beneficiary sub-Saharan African countries” in heading and amended text generally. Prior to amendment, text read as follows: “Apparel articles cut in one or more beneficiary sub-Saharan African countries from fabric wholly formed in the United States from yarns wholly formed in the United States, (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed in the United States) if such articles are assembled in one or more beneficiary sub-Saharan African countries with thread formed in the United States.”
 
-Subsec. (b)(3). Pub. L. 107–210, §3108(a)(3)(A), substituted “Apparel articles from regional fabric or yarns” for “Apparel articles assembled from regional and other fabric” in heading and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Apparel articles wholly assembled in one or more beneficiary sub-Saharan African countries from fabric wholly formed in one ormore beneficiary sub-Saharan African countries from yarn originating either in the United States or one or more beneficiary sub-Saharan African countries (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed and cut in one or more beneficiary sub-Saharan African countries), subject to the following:”.
+Subsec. (b)(3). Pub. L. 107–210, §3108(a)(3)(A), substituted “Apparel articles from regional fabric or yarns” for “Apparel articles assembled from regional and other fabric” in heading and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Apparel articles wholly assembled in one or more beneficiary sub-Saharan African countries from fabric wholly formed in one or more beneficiary sub-Saharan African countries from yarn originating either in the United States or one or more beneficiary sub-Saharan African countries (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed and cut in one or more beneficiary sub-Saharan African countries), subject to the following:”.
 
 Subsec. (b)(3)(B). Pub. L. 107–210, §3108(a)(3)(B), amended heading and text generally. Prior to amendment, text read as follows:
 

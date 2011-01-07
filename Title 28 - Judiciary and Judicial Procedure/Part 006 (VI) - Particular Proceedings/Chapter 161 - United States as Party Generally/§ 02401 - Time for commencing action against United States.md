@@ -1,10 +1,10 @@
 ### §2401. Time for commencing action against United States
 
-(a) Except as provided by the Contract Disputes Act of 1978, every civil action commenced against the United States shall be barred unless the complaint is filed within six years after the right of action first accrues. The action of any person under legal disability or beyond the seas at the time the claim accrues may be commenced within three years after the disability ceases.
+(a) Except as provided by chapter 71 of title 41, every civil action commenced against the United States shall be barred unless the complaint is filed within six years after the right of action first accrues. The action of any person under legal disability or beyond the seas at the time the claim accrues may be commenced within three years after the disability ceases.
 
 (b) A tort claim against the United States shall be forever barred unless it is presented in writing to the appropriate Federal agency within two years after such claim accrues or unless action is begun within six months after the date of mailing, by certified or registered mail, of notice of final denial of the claim by the agency to which it was presented.
 
-(June 25, 1948, ch. 646, 62 Stat. 971; Apr. 25, 1949, ch. 92, §1, 63 Stat. 62; Pub. L. 86–238, §1(3), Sept. 8, 1959, 73 Stat. 472; Pub. L. 89–506, §7, July 18, 1966, 80 Stat. 307; Pub. L. 95–563, §14(b), Nov. 1, 1978, 92 Stat. 2389.)
+(June 25, 1948, ch. 646, 62 Stat. 971; Apr. 25, 1949, ch. 92, §1, 63 Stat. 62; Pub. L. 86–238, §1(3), Sept. 8, 1959, 73 Stat. 472; Pub. L. 89–506, §7, July 18, 1966, 80 Stat. 307; Pub. L. 95–563, §14(b), Nov. 1, 1978, 92 Stat. 2389; Pub. L. 111–350, §5(g)(8), Jan. 4, 2011, 124 Stat. 3848.)
 
 #### Historical and Revision Notes
 
@@ -30,23 +30,21 @@ Changes were made in phraseology.
 
 Subsection (b) amended in the Senate to insert the 1 year limitation on the bringing of tort actions and to include the limitation upon the time in which tort claims not exceeding $1000 must be presented to the appropriate Federal agencies for administrative disposition. 80th Congress Senate Report No. 1559, Amendment No. 48.
 
-#### References in Text
-
-The Contract Disputes Act of 1978, referred to in subsec. (a), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, as amended, which is classified principally to chapter 9 (§601 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 41 and Tables.
-
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–563 inserted Contract Disputes Act of 1978 exception.
+<b>2011</b>—Subsec. (a). Pub. L. 111–350 substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978”.
 
-1966—Subsec. (b). Pub. L. 89–506 struck out provisions dealing with a tort claim of $2,500 or under as a special category of tort claim requiring preliminary administrative action and substituted provisions requiring presentation of all tort claims to the appropriate Federal agency in writing within two years after the claim accrues and commencement of an action within six months of the date of mailing of notice of final denial of the claim by the agency to which it was presented for provisions requiring commencement of an action within two years after the claim accrues.
+<b>1978</b>—Subsec. (a). Pub. L. 95–563 inserted Contract Disputes Act of 1978 exception.
 
-1959—Subsec. (b). Pub. L. 86–238 substituted “$2,500” for “$1,000” in two places.
+<b>1966</b>—Subsec. (b). Pub. L. 89–506 struck out provisions dealing with a tort claim of $2,500 or under as a special category of tort claim requiring preliminary administrative action and substituted provisions requiring presentation of all tort claims to the appropriate Federal agency in writing within two years after the claim accrues and commencement of an action within six months of the date of mailing of notice of final denial of the claim by the agency to which it was presented for provisions requiring commencement of an action within two years after the claim accrues.
 
-1949—Subsec. (b). Act Apr. 25, 1949, the time limitation on bringing tort actions from 1 year to 2 years.
+<b>1959</b>—Subsec. (b). Pub. L. 86–238 substituted “$2,500” for “$1,000” in two places.
+
+<b>1949</b>—Subsec. (b). Act Apr. 25, 1949, the time limitation on bringing tort actions from 1 year to 2 years.
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–563 effective with respect to contracts entered into 120 days after Nov. 1, 1978, and, at the election of the contractor, with respect to any claim pending at such time before the contracting officer or initiated thereafter, see section 16 of Pub. L. 95–563, set out as an Effective Date note under section 601 of Title 41, Public Contracts.
+Amendment by Pub. L. 95–563 effective with respect to contracts entered into 120 days after Nov. 1, 1978, and, at the election of the contractor, with respect to any claim pending at such time before the contracting officer or initiated thereafter, see section 16 of Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2391, formerly set out as an Effective Date note under section 601 of former Title 41, Public Contracts.
 
 #### Effective Date of 1966 Amendment
 

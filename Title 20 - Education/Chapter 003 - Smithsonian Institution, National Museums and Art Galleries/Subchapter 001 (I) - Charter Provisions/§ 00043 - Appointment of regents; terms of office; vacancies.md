@@ -10,5 +10,5 @@ R.S. §5581 derived from act Aug. 10, 1846, ch. 178, §3, 9 Stat. 103.
 
 #### Amendments
 
-1970—Pub. L. 91–551 authorized appointment of three additional members of the board by joint resolution of Congress.
+<b>1970</b>—Pub. L. 91–551 authorized appointment of three additional members of the board by joint resolution of Congress.
 

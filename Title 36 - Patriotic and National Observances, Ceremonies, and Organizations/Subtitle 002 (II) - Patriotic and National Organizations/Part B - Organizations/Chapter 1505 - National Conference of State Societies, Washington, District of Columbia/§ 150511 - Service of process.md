@@ -38,5 +38,5 @@ In subsection (b), the words “precedent” and “or conferred” are omitted 
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–284 substituted “with the secretary” for “with secretary”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–284 substituted “with the secretary” for “with secretary”.
 

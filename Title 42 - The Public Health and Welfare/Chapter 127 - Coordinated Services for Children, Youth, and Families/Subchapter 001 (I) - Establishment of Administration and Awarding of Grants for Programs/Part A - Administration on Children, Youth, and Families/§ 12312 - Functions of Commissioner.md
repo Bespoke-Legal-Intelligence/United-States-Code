@@ -50,7 +50,7 @@ The Commissioner shall—
 
 &emsp;(11) stimulate more effective uses of existing resources and available services for young individuals and the families of such individuals;
 
-&emsp;(12) develop basic policies and set priorities with respect to the development and operationof programs and activities conducted under this chapter;
+&emsp;(12) develop basic policies and set priorities with respect to the development and operation of programs and activities conducted under this chapter;
 
 &emsp;(13) convene conferences of authorities and officials of organizations, including Federal, State, and local agencies, and nonprofit private organizations, of programs for children, youth and their families for the development and implementation of policies related to the priorities and purposes of this chapter, including topics such as the establishment of a nationwide network of comprehensive, coordinated services and opportunities for such individuals;
 
@@ -66,7 +66,7 @@ In executing the duties and functions of the Administration under this subchapte
 
 #### Amendments
 
-1993—Subsec. (b). Pub. L. 103–82 substituted “the Chief Executive Officer of the Corporation for National and Community Service” for “the Director of the ACTION Agency”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–82 substituted “the Chief Executive Officer of the Corporation for National and Community Service” for “the Director of the ACTION Agency”.
 
 #### Effective Date of 1993 Amendment
 

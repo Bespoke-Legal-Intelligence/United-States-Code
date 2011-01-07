@@ -20,11 +20,11 @@ The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subs
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–162, §112(e)(1), added subsec. (a) and struck out heading and text of formersubsec. (a). Text read as follows: “There is authorized to be appropriated to carry out this subchapter $12,000,000 for each of fiscal years 2001 through 2005.”
+<b>2006</b>—Subsec. (a). Pub. L. 109–162, §112(e)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There is authorized to be appropriated to carry out this subchapter $12,000,000 for each of fiscal years 2001 through 2005.”
 
 Subsec. (c). Pub. L. 109–162, §112(e)(2), added subsec. (c).
 
-2000—Subsec. (a). Pub. L. 106–386 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There are authorized to be appropriated to carry out this subchapter—
+<b>2000</b>—Subsec. (a). Pub. L. 106–386 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There are authorized to be appropriated to carry out this subchapter—
 
 &emsp;“(1) $6,000,000 for fiscal year 1996;
 
@@ -36,7 +36,7 @@ Subsec. (c). Pub. L. 109–162, §112(e)(2), added subsec. (c).
 
 &emsp;“(5) $10,000,000 for fiscal year 2000.”
 
-1994—Subsec. (a). Pub. L. 103–322 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this chapter—
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this chapter—
 
 &emsp;“(1) $5,000,000 in fiscal year 1991; and
 

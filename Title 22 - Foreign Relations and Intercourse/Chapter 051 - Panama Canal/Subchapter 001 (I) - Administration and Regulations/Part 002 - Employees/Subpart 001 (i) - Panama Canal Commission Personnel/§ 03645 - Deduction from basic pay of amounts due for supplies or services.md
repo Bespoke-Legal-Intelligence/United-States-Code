@@ -6,5 +6,5 @@ The Commission may deduct from the basic pay otherwise payable by the Commission
 
 #### Amendments
 
-1996—Pub. L. 104–106 substituted “fund” for “appropriation”.
+<b>1996</b>—Pub. L. 104–106 substituted “fund” for “appropriation”.
 

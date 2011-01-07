@@ -12,7 +12,7 @@
 
 (3) Property listed in this paragraph is—
 
-&emsp;(A) subject to subsections (<i>o</i>) and (p), any property that is exempt under Federal law, other than subsection (d) of this section, or State or local law that is applicable on the date of the filing of the petition at the place in which the debtor's domicile has been located for the 730 days immediately preceding the date of the filing of the petition or if the debtor's domicile has not been located at a single State for such 730-day period, the place in which the debtor's domicile was located for 180 days immediately preceding the 730-day period or for a longer portion of such 180-day period than in any other place;
+&emsp;(A) subject to subsections (<i>o</i>) and (p), any property that is exempt under Federal law, other than subsection (d) of this section, or State or local law that is applicable on the date of the filing of the petition to the place in which the debtor's domicile has been located for the 730 days immediately preceding the date of the filing of the petition or if the debtor's domicile has not been located in a single State for such 730-day period, the place in which the debtor's domicile was located for 180 days immediately preceding the 730-day period or for a longer portion of such 180-day period than in any other place;
 
 &emsp;(B) any interest in property in which the debtor had, immediately before the commencement of the case, an interest as a tenant by the entirety or joint tenant to the extent that such interest as a tenant by the entirety or joint tenant is exempt from process under applicable nonbankruptcy law; and
 
@@ -44,7 +44,7 @@
 
 (c) Unless the case is dismissed, property exempted under this section is not liable during or after the case for any debt of the debtor that arose, or that is determined under section 502 of this title as if such debt had arisen, before the commencement of the case, except—
 
-&emsp;(1) a debt of a kind specified in paragraph (1) or (5) of section 523(a) (in which case, notwithstanding any provision of applicable nonbankruptcy law to the contrary, such property shall be liable for a debt of a kind specified in section 523(a)(5));
+&emsp;(1) a debt of a kind specified in paragraph (1) or (5) of section 523(a) (in which case, notwithstanding any provision of applicable nonbankruptcy law to the contrary, such property shall be liable for a debt of a kind specified in such paragraph);
 
 &emsp;(2) a debt secured by a lien that is—
 
@@ -110,7 +110,7 @@
 
 &emsp;(12) Retirement funds to the extent that those funds are in a fund or account that is exempt from taxation under section 401, 403, 408, 408A, 414, 457, or 501(a) of the Internal Revenue Code of 1986.
 
-(e) A waiver of an exemption executed in favor of a creditor that holds an unsecured claim against the debtor is unenforceable in a case under this title with respect to such claim against property that the debtor may exempt under subsection (b) of this section. A waiver by the debtor of a power under subsection (f) or (h) of this section to avoid a transfer, under subsection (g) or (i) of this section to exempt property, or under subsection (i) of this section to recover property or to preserve a transfer, is unenforceable in a case under this title.
+(e) A waiver of an exemption executed in favor of a creditor that holds an unsecured claim against the debtor is unenforceable in a case under this title with respect to such claim against property that the debtor may exempt under subsection (b) of this section. A waiver by the debtor of a power under subsection (f) or (h) of this section to avoid a transfer, under subsection (g) or (i) of this section to exempt property, or under subsection (i) of this section torecover property or to preserve a transfer, is unenforceable in a case under this title.
 
 (f)(1) Notwithstanding any waiver of exemptions but subject to paragraph (3), the debtor may avoid the fixing of a lien on an interest of the debtor in property to the extent that such lien impairs an exemption to which the debtor would have been entitled under subsection (b) of this section, if such lien is—
 
@@ -182,7 +182,7 @@
 
 &emsp;(i) works of art (unless by or of the debtor, or any relative of the debtor);
 
-&emsp;(ii) electronic entertainment equipment with a fair market value of more than $500 inthe aggregate (except 1 television, 1 radio, and 1 VCR);
+&emsp;(ii) electronic entertainment equipment with a fair market value of more than $500 in the aggregate (except 1 television, 1 radio, and 1 VCR);
 
 &emsp;(iii) items acquired as antiques with a fair market value of more than $500 in the aggregate;
 
@@ -256,7 +256,7 @@
 
 &emsp;&emsp;(i) any violation of the Federal securities laws (as defined in section 3(a)(47) of the Securities Exchange Act of 1934), any State securities laws, or any regulation or order issued under Federal securities laws or State securities laws;
 
-&emsp;&emsp;(ii) fraud, deceit, or manipulation in a fiduciary capacity or in connection with the purchase or sale of any security registered under section 12 or 15(d) of the Securities Exchange Act of 1934 or under section 6 of the Securities Act of 1933;
+&emsp;&emsp;(ii) fraud, deceit, or manipulation in a fiduciary capacity or in connection with thepurchase or sale of any security registered under section 12 or 15(d) of the Securities Exchange Act of 1934 or under section 6 of the Securities Act of 1933;
 
 &emsp;&emsp;(iii) any civil remedy under section 1964 of title 18; or
 
@@ -264,7 +264,11 @@
 
 (2) Paragraph (1) shall not apply to the extent the amount of an interest in property described in subparagraphs (A), (B), (C), and (D) of subsection (p)(1) is reasonably necessary for the support of the debtor and any dependent of the debtor.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2586; Pub. L. 98–353, title III, §§306, 453, July 10, 1984, 98 Stat. 353, 375; Pub. L. 99–554, title II, §283(i), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 101–647, title XXV, §2522(b), Nov. 29, 1990, 104 Stat. 4866; Pub. L. 103–394, title I, §108(d), title III, §§303, 304(d), 310, title V, §501(d)(12), Oct. 22, 1994, 108 Stat. 4112, 4132, 4133, 4137, 4145; Pub. L. 106–420, §4, Nov. 1, 2000, 114 Stat. 1868; Pub. L. 109–8, title II, §§216, 224(a), (e)(1), title III, §§307, 308, 313(a), 322(a), Apr. 20, 2005, 119 Stat. 55, 62, 65, 81, 87, 96.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2586; Pub. L. 98–353, title III, §§306, 453, July 10, 1984, 98 Stat. 353, 375; Pub. L. 99–554, title II, §283(i), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 101–647, title XXV, §2522(b), Nov. 29, 1990, 104 Stat. 4866; Pub. L. 103–394, title I, §108(d), title III, §§303, 304(d), 310, title V, §501(d)(12), Oct. 22, 1994, 108 Stat. 4112, 4132, 4133, 4137, 4145; Pub. L. 106–420, §4, Nov. 1, 2000, 114 Stat. 1868; Pub. L. 109–8, title II, §§216, 224(a), (e)(1), title III, §§307, 308, 313(a), 322(a), Apr. 20, 2005, 119 Stat. 55, 62, 65, 81, 87, 96; Pub. L. 111–327, §2(a)(17), Dec. 22, 2010, 124 Stat. 3559.)
+
+#### Adjustment of Dollar Amounts
+
+<i>For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.</i>
 
 #### Historical and Revision Notes
 
@@ -308,7 +312,7 @@ Subsection (b) tracks current law. It permits a debtor the exemptions to which h
 
 Under proposed section 541, all property of the debtor becomes property of the estate, but the debtor is permitted to exempt certain property from property of the estate under this section. Property may be exempted even if it is subject to a lien, but only the unencumbered portion of the property is to be counted in computing the “value” of the property for the purposes of exemption.
 
-As under current law, the debtor will be permitted to convert nonexempt property into exempt property before filing a bankruptcy petition. The practice is not fraudulent as to creditors, and permits the debtor tomake full use of the exemptions to which he is entitled under the law.
+As under current law, the debtor will be permitted to convert nonexempt property into exempt property before filing a bankruptcy petition. The practice is not fraudulent as to creditors, and permits the debtor to make full use of the exemptions to which he is entitled under the law.
 
 Subsection (c) insulates exempt property from prepetition claims other than tax claims (whether or not dischargeable), and other than alimony, maintenance, or support claims that are excepted from discharge. The bankruptcy discharge does not prevent enforcement of valid liens. The rule of <i>Long v. Bullard</i>, 117 U.S. 617 (1886), is accepted with respect to the enforcement of valid liens on nonexempt property as well as on exempt property. Cf. <i>Louisville Joint Stock Land Bank v. Radford</i>, 295 U.S. 555, 583 (1935).
 
@@ -316,7 +320,7 @@ Subsection (c)(3) permits the collection of dischargeable taxes from exempt asse
 
 Subsection (d) protects the debtor's exemptions, either Federal or State, by making unenforceable in a bankruptcy case a waiver of exemptions or a waiver of the debtor's avoiding powers under the following subsections.
 
-Subsection (e) protects the debtor's exemptions, his discharge, and thus his fresh start by permitting him to avoid certain liens on exempt property. The debtor may avoid a judicial lien on any property to the extent that the property could have been exempted in the absence of the lien, and may similarly avoid a nonpurchase-money security interest in certain household and personal goods. The avoiding power is independent of any waiver of exemptions.
+Subsection (e) protects the debtor's exemptions, his discharge, and thus his fresh start by permitting himto avoid certain liens on exempt property. The debtor may avoid a judicial lien on any property to the extent that the property could have been exempted in the absence of the lien, and may similarly avoid a nonpurchase-money security interest in certain household and personal goods. The avoiding power is independent of any waiver of exemptions.
 
 Subsection (f) gives the debtor the ability to exempt property that the trustee recovers under one of the trustee's avoiding powers if the property was involuntarily transferred away from the debtor (such as by the fixing of a judicial lien) and if the debtor did not conceal the property. The debtor is also permitted to exempt property that the trustee recovers as the result of the avoiding of the fixing of certain security interests to the extent that the debtor could otherwise have exempted the property.
 
@@ -368,7 +372,7 @@ As under current law, the debtor will be permitted to convert nonexempt property
 
 Subsection (c) insulates exempt property from prepetition claims, except tax and alimony, maintenance, or support claims that are excepted from discharge. The bankruptcy discharge will not prevent enforcement of valid liens. The rule of <i>Long v. Bullard</i>, 117 U.S. 617 (1886) \[6 S.Ct. 917, 29 L.Ed. 1004\], is accepted with respect to the enforcement of valid liens on nonexempt property as well as on exempt property. Cf. <i>Louisville Joint Stock Land Bank v. Radford</i>, 295 U.S. 555, 583 (1935) \[55 S.Ct. 854\].
 
-Subsection (d) specifies the Federal exemptions to which the debtor is entitled. They are derived in large part from the Uniform Exemptions Act, promulgated by the Commissioners of Uniform State Laws in August, 1976. Eleven categories of property are exempted. First is a homestead to the extent of $10,000, which may be claimed in real or personal property that the debtor or a dependent of the debtor uses as a residence. Second, the debtor may exempt a motor vehicle to the extent of $1500. Third, the debtor may exempt household goods, furnishings, clothing, and similar household items, held primarily for the personal, family, or household use of the debtor or a dependent of the debtor. “Animals” includes all animals, such as pets, livestock, poultry, and fish, if they are held primarily for personal, family or household use. The limitation for third category items is $300 on any particular item. The debtor may also exempt up to $750 of personal jewelry.
+Subsection (d) specifies the Federal exemptions to which the debtor is entitled. They are derived in large part from the Uniform Exemptions Act, promulgated by the Commissioners of Uniform State Laws in August, 1976. Eleven categories of property are exempted. First is a homestead to the extent of $10,000, which may be claimed in real or personal property that the debtor or a dependent of the debtor uses as a residence. Second, the debtor may exempt a motor vehicle to the extent of $1500. Third, the debtor may exempt household goods, furnishings, clothing, and similar household items, held primarily for the personal, family, or household use of the debtor or a dependent of the debtor. “Animals” includes all animals, such as pets, livestock, poultry, and fish, if they are held primarily for personal, family or household use. The limitation forthird category items is $300 on any particular item. The debtor may also exempt up to $750 of personal jewelry.
 
 Paragraph (5) permits the exemption of $500, plus any unused amount of the homestead exemption, in any property, in order not to discriminate against the nonhomeowner. Paragraph (6) grants the debtor up to $1000 in implements, professional books, or tools, of the trade of the debtor or a dependent. Paragraph (7) exempts a life insurance contract, other than a credit life insurance contract, owned by the debtor. This paragraph refers to the life insurance contract itself. It does not encompass any other rights under the contract, such as the right to borrow out the loan value. Because of this provision, the trustee may not surrender a life insurance contract, which remains property of the debtor if he chooses the Federal exemptions. Paragraph (8) permits the debtor to exempt up to $5000 in loan value in a life insurance policy owned by the debtor under which the debtor or an individual of whom the debtor is a dependent is the insured. The exemption provided by this paragraph and paragraph (7) will also include the debtor's rights in a group insurance certificate under which the insured is an individual of whom the debtor is a dependent (assuming the debtor has rights in the policy that could be exempted) or the debtor. A trustee is authorized to collect the entire loan value on every life insurance policy owned by the debtor as property of the estate. First, however, the debtor will choose which policy or policies under which the loan value will be exempted. The $5000 figure is reduced by the amount of any automatic premium loan authorized after the date of the filing of the petition under section 542(d). Paragraph (9) exempts professionally prescribed health aids.
 
@@ -405,6 +409,10 @@ Sections 3(a)(47), 12, and 15(d) of the Securities Exchange Act of 1934, referre
 Section 6 of the Securities Exchange Act of 1933, referred to in subsec. (q)(1)(B)(ii), is classified to section 77f of Title 15, Commerce and Trade.
 
 #### Amendments
+
+2010—Subsec. (b)(3)(A). Pub. L. 111–327, §2(a)(17)(A), substituted “petition to the place” for “petition at the place” and “located in a single State” for “located at a single State”.
+
+Subsec. (c)(1). Pub. L. 111–327, §2(a)(17)(B), substituted “such paragraph” for “section 523(a)(5)”.
 
 2005—Subsec. (b). Pub. L. 109–8, §224(a)(1)(B)–(F), designated introductory provisions of subsec. (b) as par. (1), substituted “paragraph (3)” for “paragraph (2)” in two places and “paragraph (2)” for “paragraph (1)” wherever appearing, struck out “Such property is—” after “case is filed.”, and struck out former par. (1) which read: “property that is specified under subsection (d) of this section, unless the State law that is applicable to the debtor under paragraph (2)(A) of this subsection specifically does not so authorize; or, in the alternative,”.
 
@@ -508,7 +516,7 @@ Subsec. (d)(5). Pub. L. 98–353, §306(c), amended par. (5) generally. Prior to
 
 Subsec. (e). Pub. L. 98–353, §453(c), substituted “an exemption” for “exemptions”.
 
-Subsec. (m). Pub. L. 98–353, §306(d), substituted “Subject to the limitation in subsection (b), this section shall apply separately with respect to each debtor in a joint case” for “This section shall apply separately with respect to each debtor in a joint case”.
+Subsec. (m). Pub. L. 98–353, §306(d), substituted “Subject to the limitation in subsection (b), this section shall apply separately with respect to each debtor in ajoint case” for “This section shall apply separately with respect to each debtor in a joint case”.
 
 #### Effective Date of 2005 Amendment
 
@@ -528,7 +536,17 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Adjustment of Dollar Amounts
 
-For adjustment of dollar amounts specified in subsecs. (d)(1) to (6), (8), (11)(D), (f)(3), (4), (n), (p), and (q) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
+The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
+
+By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (d)(1), dollar amount “20,200” was adjusted to “21,625”; in subsec. (d)(2), dollar amount “3,225” was adjusted to “3,450”; in subsec. (d)(3), dollar amounts “525” and “10,775” were adjusted to “550” and “11,525”, respectively; in subsec. (d)(4), dollar amount “1,350” was adjusted to “1,450”; in subsec. (d)(5), dollar amounts “1,075” and “10,125” were adjusted to “1,150” and “10,825”, respectively; in subsec. (d)(6), dollar amount “2,025” was adjusted to “2,175”; in subsec. (d)(8), dollar amount “10,775” was adjusted to “11,525”; in subsec. (d)(11)(D), dollar amount “20,200” was adjusted to “21,625”; in subsec. (f)(3)(B), dollar amount “5,475” was adjusted to “5,850”; in subsec. (f)(4)(B), dollar amount “550” was adjusted to “600” each time it appeared; in subsec. (n), dollar amount “1,095,000” was adjusted to “1,171,650”; in subsec. (p)(1), dollar amount “136,875” was adjusted to “146,450”; and, in subsec. (q)(1), dollar amount “136,875” was adjusted to “146,450”. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (d)(1), dollar amount “18,450” was adjusted to “20,200”; in subsec. (d)(2), dollar amount “2,950” was adjusted to “3,225”; in subsec. (d)(3), dollar amounts “475” and “9,850” were adjusted to “525” and “10,775”, respectively; in subsec. (d)(4), dollar amount “1,225” was adjusted to “1,350”; in subsec. (d)(5), dollar amounts “975” and “9,250” were adjusted to “1,075” and “10,125”, respectively; in subsec. (d)(6), dollar amount “1,850” was adjusted to “2,025”; in subsec. (d)(8), dollar amount “9,850” was adjusted to “10,775”; in subsec. (d)(11)(D), dollar amount “18,450” was adjusted to “20,200”; in subsec. (f)(3), dollar amount “5,000” was adjusted to “5,475”; in subsec. (f)(4), dollar amount “500” was adjusted to “550” each time it appeared; in subsec. (n), dollar amount “1,000,000” was adjusted to “1,095,000”; in subsec. (p), dollar amount “125,000” was adjusted to “136,875”; and, in subsec. (q), dollar amount “125,000” was adjusted to “136,875”.
+
+By notice dated Feb. 18, 2004, 69 F.R. 8482, effective Apr. 1, 2004, in subsec. (d)(1), dollar amount “17,425” was adjusted to “18,450”; in subsec. (d)(2), dollar amount “2,775” was adjusted to “2,950”; in subsec. (d)(3), dollar amounts “450” and “9,300” were adjusted to “475” and “9,850”, respectively; in subsec. (d)(4), dollar amount “1,150” was adjusted to “1,225”; in subsec. (d)(5), dollar amounts “925” and “8,725” were adjusted to “975” and “9,250”, respectively; in subsec. (d)(6), dollar amount “1,750” was adjusted to “1,850”; in subsec. (d)(8), dollar amount “9,300” was adjusted to “9,850”; and, in subsec. (d)(11)(D), dollar amount “17,425” was adjusted to “18,450”.
+
+By notice dated Feb. 13, 2001, 66 F.R. 10910, effective Apr. 1, 2001, in subsec. (d)(1), dollar amount “16,150” was adjusted to “17,425”; in subsec. (d)(2), dollar amount “2,575” was adjusted to “2,775”; in subsec. (d)(3), dollar amounts “425” and “8,625” were adjusted to “450” and “9,300”, respectively; in subsec. (d)(4), dollar amount “1,075” was adjusted to “1,150”; in subsec. (d)(5), dollar amounts “850” and “8,075” were adjusted to “925” and “8,725”, respectively; in subsec. (d)(6), dollar amount “1,625” was adjusted to “1,750”; in subsec. (d)(8), dollar amount “8,625” was adjusted to “9,300”; and, in subsec. (d)(11)(D), dollar amount “16,150” was adjusted to “17,425”.
+
+By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (d)(1), dollar amount “15,000” was adjusted to “16,150”; in subsec. (d)(2), dollar amount “2,400” was adjusted to “2,575”; in subsec. (d)(3), dollar amounts “400” and “8,000” were adjusted to “425” and “8,625”, respectively; in subsec. (d)(4), dollar amount “1,000” was adjusted to “1,075”; in subsec. (d)(5), dollar amounts “800” and “7,500” were adjusted to “850” and “8,075”, respectively; in subsec. (d)(6), dollar amount “1,500” was adjusted to “1,625”; in subsec. (d)(8), dollar amount “8,000” was adjusted to “8,625”; and, in subsec. (d)(11)(D), dollar amount “15,000” was adjusted to “16,150”.
 
 <i><sup>1</sup></i><i> Replaced by 22 U.S.C. 4060(c).</i>
 

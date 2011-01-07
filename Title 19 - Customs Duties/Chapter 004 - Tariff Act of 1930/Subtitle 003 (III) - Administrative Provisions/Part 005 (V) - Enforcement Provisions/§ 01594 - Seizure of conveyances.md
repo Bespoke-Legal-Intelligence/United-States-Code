@@ -18,7 +18,7 @@ Whenever—
 
 &emsp;(B) in baggage belonging to and accompanying a passenger being lawfully transported on such conveyance; or
 
-&emsp;(C) in the cargo of the conveyance if the cargo is listed on the manifest and marks, numbers, weights and quantities of the outerpackages or containers agree with the manifest;
+&emsp;(C) in the cargo of the conveyance if the cargo is listed on the manifest and marks, numbers, weights and quantities of the outer packages or containers agree with the manifest;
 
 > unless the owner or operator, or the master, pilot, conductor, driver or other person in charge participated in, or had knowledge of, the violation, or was grossly negligent in preventing or discovering the violation.
 
@@ -64,17 +64,13 @@ When a common carrier has been seized in accordance with the provisions of subse
 
 (June 17, 1930, ch. 497, title IV, §594, 46 Stat. 751; Pub. L. 99–570, title III, §3121, Oct. 27, 1986, 100 Stat. 3207–86; Pub. L. 100–690, title VI, §6076(b), Nov. 18, 1988, 102 Stat. 4324.)
 
-#### References in Text
-
-The customs laws, referred to in subsecs. (a) and (b), are classified generally to this title.
-
 #### Prior Provisions
 
 Provisions substantially similar to subsec. (a) of this section, so far as it relates to vessels, except that they referred to the “revenue laws,” instead of the “customs laws,” were contained in R.S. §3088. Provisions substantially similar to subsec. (b), so far as it relates to vessels, were contained in act Feb. 8, 1881, ch. 34, 21 Stat. 322. Provisions similar to subsec. (b), except that they applied to railway cars, engines, other vehicles, and teams, and referred to the owner, superintendent, or agent of the owner in charge, instead of the “conductor, driver,” etc., were contained in R.S. §3063. All of these sections were superseded and more closely assimilated to this section by act Sept. 21, 1922, ch. 356, title IV, §594, 42 Stat. 982, and repealed by sections 642 and 643 thereof. Section 594 of the 1922 act was superseded by section 594 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 
-1988—Subsec. (b). Pub. L. 100–690 designated existing provisions as par. (1), redesignated former pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, and added par. (2).
+<b>1988</b>—Subsec. (b). Pub. L. 100–690 designated existing provisions as par. (1), redesignated former pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, and added par. (2).
 
-1986—Pub. L. 99–570 amended section generally. Prior to amendment, section catchline read “Libel of vessels and vehicles” and text read as follows: “Whenever a vessel or vehicle, or the owner or master, conductor, driver, or other person in charge thereof, has become subject to a penalty for violation of the customs-revenue laws of the United States, such vessel or vehicle shall be held for the payment of such penalty and may be seized and proceeded against summarily by libel to recover the same: <i>Provided</i>, That no vessel or vehicle used by any person as a common carrier in the transaction of business as such common carrier shall be so held or subject to seizure or forfeiture under the customs laws, unless it shall appear that the owner or master of such vessel or the conductor, driver, or other person in charge of such vehicle was at the time of the alleged illegal act a consenting party or privy thereto.”
+<b>1986</b>—Pub. L. 99–570 amended section generally. Prior to amendment, section catchline read “Libel of vessels and vehicles” and text read as follows: “Whenever a vessel or vehicle, or the owner or master, conductor, driver, or other person in charge thereof, has become subject to a penalty for violation of the customs-revenue laws of the United States, such vessel or vehicle shall be held for the payment of such penalty and may be seized and proceeded against summarily by libel to recover the same: <i>Provided</i>, That no vessel or vehicle used by any person as a common carrier in the transaction of business as such common carrier shall be so held or subject to seizure or forfeiture under the customs laws, unless it shall appear that the owner or master of such vessel or the conductor, driver, or other person in charge of such vehicle was at the time of the alleged illegal act a consenting party or privy thereto.”
 

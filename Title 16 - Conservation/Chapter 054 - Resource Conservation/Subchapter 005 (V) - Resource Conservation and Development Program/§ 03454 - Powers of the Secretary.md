@@ -6,7 +6,7 @@ In carrying out this subchapter, the Secretary may—
 
 &emsp;(1) provide technical assistance to any council to assist in developing and implementing an area plan for a designated area;
 
-&emsp;(2) cooperate with other departments and agencies of the Federal Government, States, local units of government, local Indian tribes, and local nonprofit organizations in conducting surveys and inventories, disseminating information, and developing area plans;
+&emsp;(2) cooperate with other departments and agencies of the Federal Government, States, local units of government, local Indian tribes,and local nonprofit organizations in conducting surveys and inventories, disseminating information, and developing area plans;
 
 &emsp;(3) assist in carrying out an area plan approved by the Secretary for any designated area by providing technical assistance and financial assistance to any council; and
 
@@ -34,7 +34,7 @@ A prior section 3454, Pub. L. 97–98, title XV, §1531, Dec. 22, 1981, 95 Stat.
 
 #### Amendments
 
-2008—Pub. L. 110–246, §2805(c), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2008</b>—Pub. L. 110–246, §2805(c), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Effective Date of 2008 Amendment
 

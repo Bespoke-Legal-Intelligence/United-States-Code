@@ -24,9 +24,9 @@ A covered entity—
 
 &emsp;(2) may require that employees shall not be under the influence of alcohol or be engaging in the illegal use of drugs at the workplace;
 
-&emsp;(3) may require that employees behave in conformance with the requirements established under the Drug-Free Workplace Act of 1988 (41 U.S.C. 701 et seq.);
+&emsp;(3) may require that employees behave in conformance with the requirements established under chapter 81 of title 41;
 
-&emsp;(4) may hold an employee who engages in the illegal use of drugs or who is an alcoholic to the same qualification standards for employment or job performance and behavior that such entity holds other employees, even if any unsatisfactory performance or behavior is related to the drug use or alcoholism of such employee; and
+&emsp;(4) may hold an employee who engages in the illegal use of drugs or who is an alcoholic to the same qualification standards for employment or job performance and behavior thatsuch entity holds other employees, even if any unsatisfactory performance or behavior is related to the drug use or alcoholism of such employee; and
 
 &emsp;(5) may, with respect to Federal regulations regarding alcohol and the illegal use of drugs, require that—
 
@@ -60,11 +60,13 @@ Nothing in this subchapter shall be construed to encourage, prohibit, restrict, 
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
-The Drug-Free Workplace Act of 1988, referred to in subsec. (c)(3), is subtitle D (§§5151–5160) of title V of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4304, which is classified generally to chapter 10 (§701 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 41 and Tables.
+#### Codification
+
+In subsec. (c)(3), “chapter 81 of title 41” substituted for “the Drug-Free Workplace Act of 1988 (41 U.S.C. 701 et seq.)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–325 substituted “a qualified individual with a disability shall” for “the term ‘qualified individual with a disability’ shall”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–325 substituted “a qualified individual with a disability shall” for “the term ‘qualified individual with a disability’ shall”.
 
 #### Effective Date of 2008 Amendment
 

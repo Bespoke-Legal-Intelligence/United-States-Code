@@ -40,7 +40,7 @@
 
 (2) A benefit paid to, or on behalf of, an eligible veteran for pursuit of a program of education or training under chapter 30, 31, 34, 35, or 36 of this title that is subject to a sequestration order or a sequestration law shall be paid in accordance with the rates determined under the sequestration order or law (if any) in effect during the period of education or training for which the benefit is paid.
 
-(3) In implementation of a sequestration order or law with respect to each account from which a benefit described in paragraph (1) or (2) of this subsection is paid (including the making of determinations of the amounts by which such benefits are to be reduced), the total of the amounts (as estimated by the Secretary after consultation with the Director of the Congressional Budget Office) by which payments of such benefit will be reduced by reason of such paragraph after the last day of the period during which such order or law is in effect shall be deemed to be additional reductions in the payments of such benefit made, and in new budget authority for such payments, during such period.
+(3) In implementation of a sequestration order or law with respect to each account from whicha benefit described in paragraph (1) or (2) of this subsection is paid (including the making of determinations of the amounts by which such benefits are to be reduced), the total of the amounts (as estimated by the Secretary after consultation with the Director of the Congressional Budget Office) by which payments of such benefit will be reduced by reason of such paragraph after the last day of the period during which such order or law is in effect shall be deemed to be additional reductions in the payments of such benefit made, and in new budget authority for such payments, during such period.
 
 (d) In computing the amount of new budget authority by which a budget account of the Department is to be reduced for a fiscal year under a report of the Director of the Office of Management and Budget, or under an order of the President under part C of the Balanced Budget and Emergency Deficit Control Act of 1985, the base from which the amount of the reduction for such account is determined shall be established without regard to any amount of new budget authority in such account (determined under section 251(a)(6) <sup>1</sup> of such Act) for any of the programs listed in subsection (a) of this section.
 
@@ -64,7 +64,7 @@ The date of the enactment of this section, referred to in subsec. (e), is the da
 
 #### Amendments
 
-1991—Subsec. (a)(2). Pub. L. 102–83, §5(c)(1), substituted “2307” for “907”.
+<b>1991</b>—Subsec. (a)(2). Pub. L. 102–83, §5(c)(1), substituted “2307” for “907”.
 
 Subsec. (b). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in introductory provisions.
 
@@ -82,11 +82,11 @@ Subsec. (c)(3). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary”
 
 Subsec. (d). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-1988—Subsec. (a)(4), (5). Pub. L. 100–322, §411(b), struck out “(but only with respect to fiscal year 1987)” before period at end.
+<b>1988</b>—Subsec. (a)(4), (5). Pub. L. 100–322, §411(b), struck out “(but only with respect to fiscal year 1987)” before period at end.
 
 Subsec. (d). Pub. L. 100–322, §411(c), substituted “a report of the Director of the Office of Management and Budget” for “a joint report of the Directors of the Office of Management and Budget and the Congressional Budget Office”.
 
-1987—Subsec. (a)(6). Pub. L. 100–198, §12(a)(1), added par. (6).
+<b>1987</b>—Subsec. (a)(6). Pub. L. 100–198, §12(a)(1), added par. (6).
 
 Subsec. (c)(2). Pub. L. 100–198, §12(a)(3), substituted “31, 34, 35, or 36” for “34, or 36”.
 
@@ -110,7 +110,7 @@ Section 601(b) of Pub. L. 99–576 provided that: “Section 113 of title 38, Un
 
 Section 411(a) of Pub. L. 100–322 provided that:
 
-“(1) Notwithstanding section 601(b) of the Veterans’ Benefits Improvement and Health-Care Authorization Act of 1986 (Public Law 99–576) \[set out as a note above\], section 113(b)(2) of title 38, United States Code, shall apply with respect to a sequestration order issued, or a sequestration law enacted, for any fiscal year after fiscal year 1985.
+“(1) Notwithstanding section 601(b) of the Veterans’ Benefits Improvement and Health-Care Authorization Act of 1986 (Public Law 99–576) \[set out as a note above\],section 113(b)(2) of title 38, United States Code, shall apply with respect to a sequestration order issued, or a sequestration law enacted, for any fiscal year after fiscal year 1985.
 
 “(2) The Secretary of the Treasury shall take such action as is necessary to implement paragraph (1). Not later than 60 days after the date of the enactment of this Act \[May 20, 1988\], the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the action taken by the Secretary pursuant to that paragraph.”
 

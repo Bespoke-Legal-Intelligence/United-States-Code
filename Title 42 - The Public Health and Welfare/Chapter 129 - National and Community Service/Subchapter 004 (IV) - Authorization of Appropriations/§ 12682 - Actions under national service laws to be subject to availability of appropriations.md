@@ -12,3 +12,5 @@ Section 12511(15) of this title, referred to in text, was redesignated section 1
 
 Section enacted as part of the National and Community Service Trust Act of 1993, and not as part of the National and Community Service Act of 1990 which comprises this chapter.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

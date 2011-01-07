@@ -20,7 +20,7 @@ Section was enacted as part of the Headstart, Economic Opportunity, and Communit
 
 #### Amendments
 
-1976—Subsec. (a)(2). Pub. L. 94–341, §3(d)(1), inserted “of such Act” after “section 221”.
+<b>1976</b>—Subsec. (a)(2). Pub. L. 94–341, §3(d)(1), inserted “of such Act” after “section 221”.
 
 Subsec. (c). Pub. L. 94–341, §3(d)(2), added subsec. (c).
 

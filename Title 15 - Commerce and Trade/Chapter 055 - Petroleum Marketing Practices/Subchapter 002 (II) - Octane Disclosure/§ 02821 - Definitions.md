@@ -68,7 +68,7 @@ October 24, 1992, referred to in par. (18)(B), was in the original “the date o
 
 #### Amendments
 
-1992—Par. (1). Pub. L. 102–486, §1501(c)(1)(A), substituted “fuel” for “gasoline”.
+<b>1992</b>—Par. (1). Pub. L. 102–486, §1501(c)(1)(A), substituted “fuel” for “gasoline”.
 
 Par. (2). Pub. L. 102–486, §1501(c)(1)(B), substituted “Standard Specification for Automotive Spark-Ignition Engine Fuel” for “Standard Specifications for Automotive Gasoline” and “D4814 for “D 439”.
 

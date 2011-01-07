@@ -10,7 +10,7 @@ A prior section 617, act Aug. 14, 1935, ch. 531, title IV, §417, formerly §418
 
 #### Amendments
 
-1997—Pub. L. 105–33 made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
+<b>1997</b>—Pub. L. 105–33 made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 
 #### Effective Date of 1997 Amendment
 

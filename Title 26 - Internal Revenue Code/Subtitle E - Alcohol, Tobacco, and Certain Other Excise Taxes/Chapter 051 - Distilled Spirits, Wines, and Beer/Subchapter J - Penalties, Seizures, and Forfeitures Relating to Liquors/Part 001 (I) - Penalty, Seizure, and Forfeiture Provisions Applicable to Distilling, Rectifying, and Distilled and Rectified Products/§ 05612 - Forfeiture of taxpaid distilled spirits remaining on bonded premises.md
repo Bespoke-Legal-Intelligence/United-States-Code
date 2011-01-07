@@ -22,7 +22,7 @@ Provisions similar to those comprising subsec. (a) of this section were containe
 
 #### Amendments
 
-1979—Subsec. (b). Pub. L. 96–39 redesignated subpars. (2) and (3) as (1) and (2), respectively, and struck out former subpars. (1) and (4) which excepted distilled spirits which were bottled in bond under section 5233 of this title and which were returned to bonded premises for rebottling, relabeling, or restamping in accordance with subsec. (d) of section 5233, and excepted such spirits, held on bonded premises, on which the tax had become payable by operation of law, but on which the tax had not been paid.
+<b>1979</b>—Subsec. (b). Pub. L. 96–39 redesignated subpars. (2) and (3) as (1) and (2), respectively, and struck out former subpars. (1) and (4) which excepted distilled spirits which were bottled in bond under section 5233 of this title and which were returned to bonded premises for rebottling, relabeling, or restamping in accordance with subsec. (d) of section 5233, and excepted such spirits, held on bonded premises, on which the tax had become payable by operation of law, but on which the tax had not been paid.
 
 #### Effective Date of 1979 Amendment
 

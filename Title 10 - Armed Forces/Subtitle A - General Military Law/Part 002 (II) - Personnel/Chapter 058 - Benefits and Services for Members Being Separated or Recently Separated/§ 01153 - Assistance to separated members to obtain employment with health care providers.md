@@ -8,7 +8,7 @@ Placement Program.—The Secretary of Defense, and the Secretary of Homeland Sec
 
 Eligible Members.—(1) Except as provided in paragraph (2), a member shall be eligible for selection to participate in the program established under subsection (a) if the member—
 
-&emsp;(A) is selected for involuntary separation, is approved for separation under section 1174a or 1175 of this title, or retires pursuant to the authority provided in section 4403 of the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992 (division D of Public Law 102–484; 10 U.S.C. 1293 note) during the six-year period beginning on October 1, 1993;
+&emsp;(A) is selected for involuntary separation, is approved for separation under section 1174a or1175 of this title, or retires pursuant to the authority provided in section 4403 of the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992 (division D of Public Law 102–484; 10 U.S.C. 1293 note) during the six-year period beginning on October 1, 1993;
 
 &emsp;(B) has received an associate degree, baccalaureate, or advanced degree from an accredited institution of higher education or a junior or community college; and
 
@@ -64,9 +64,9 @@ Definitions.—In this section, the term “State” includes the District of Co
 
 #### Amendments
 
-2002—Subsecs. (a), (c)(1), (2), (d)(1), (e)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsecs. (a), (c)(1), (2), (d)(1), (e)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1994—Subsec. (a). Pub. L. 103–337, §543(e)(1), inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “Secretary of Defense”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337, §543(e)(1), inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “Secretary of Defense”.
 
 Subsec. (b)(1). Pub. L. 103–337, §543(e)(2), struck out “by the Secretary of Defense” after “selection” in introductory provisions and inserted “concerned” after “Secretary” in two places in subpar. (C).
 

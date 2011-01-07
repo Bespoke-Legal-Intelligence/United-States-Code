@@ -44,7 +44,7 @@ In subsection (a), the words “for the Department of Defense” are inserted fo
 
 In subsection (b), the words “or any of the departments thereof”, “in such manner”, “original”, and “necessary or” are omitted as surplusage. The words “throughout the Department of Defense” are substituted for the words “either within a bureau or service, between bureaus or services, or between the departments”. The word “recurrently” is substituted for the word “repetitively”. The words “Only one identification may” are substituted for the words “The single item identification shall”.
 
-In subsection (c), the words “the most” are omitted as surplusage. The words “to the highest degree practicable” are substituted for the words “achieve the highest practicable degree possible” and “The greatest practicable degree of standardization shall be achieved”.
+In subsection (c), the words “the most” are omitted as surplusage. The words “to the highest degree practicable” are substituted for the words “achieve the highest practicable degree possible” and “The greatest practicable degree of standardization \* \* \* shall be achieved”.
 
 #### 1958 Act
 
@@ -52,9 +52,9 @@ The change makes clear that clauses (2) and (3) apply to all items, whether or n
 
 #### Amendments
 
-2003—Subsec. (d). Pub. L. 108–136 added subsec. (d).
+<b>2003</b>—Subsec. (d). Pub. L. 108–136 added subsec. (d).
 
-1958—Subsec. (c). Pub. L. 85–861 substituted “such” for “standardized” in cl. (2), and “such” for “those” in cl. (3).
+<b>1958</b>—Subsec. (c). Pub. L. 85–861 substituted “such” for “standardized” in cl. (2), and “such” for “those” in cl. (3).
 
 #### Effective Date of 1958 Amendment
 

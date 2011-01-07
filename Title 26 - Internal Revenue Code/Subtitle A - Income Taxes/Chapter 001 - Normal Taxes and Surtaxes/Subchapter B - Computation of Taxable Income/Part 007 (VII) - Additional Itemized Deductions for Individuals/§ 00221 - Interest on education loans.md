@@ -128,7 +128,7 @@ For purposes of this section—
 
 &emsp;If any amount as adjusted under paragraph (1) is not a multiple of $5,000, such amount shall be rounded to the next lowest multiple of $5,000.
 
-(Added Pub. L. 105–34, title II, §202(a), Aug. 5, 1997, 111 Stat. 806; amended Pub. L. 105–206, title VI, §6004(b), July 22, 1998, 112 Stat. 792; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(A), (3), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title IV, §§402(b)(2)(B), 412(a)(1), (b)(1), (2), 431(c)(2), June 7, 2001, 115 Stat. 62–64, 68; Pub. L. 108–311, title II, §207(20), title IV, §408(b)(5), Oct. 4, 2004, 118 Stat. 1178, 1192; Pub. L. 108–357, title I, §102(d)(2), Oct. 22, 2004, 118 Stat. 1428; Pub. L. 109–135, title IV, §412(t), Dec. 21, 2005, 119 Stat. 2638.)
+(Added Pub. L. 105–34, title II, §202(a), Aug. 5, 1997, 111 Stat. 806; amended Pub. L. 105–206, titleVI, §6004(b), July 22, 1998, 112 Stat. 792; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(A), (3), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title IV, §§402(b)(2)(B), 412(a)(1), (b)(1), (2), 431(c)(2), June 7, 2001, 115 Stat. 62–64, 68; Pub. L. 108–311, title II, §207(20), title IV, §408(b)(5), Oct. 4, 2004, 118 Stat. 1178, 1192; Pub. L. 108–357, title I, §102(d)(2), Oct. 22, 2004, 118 Stat. 1428; Pub. L. 109–135, title IV, §412(t), Dec. 21, 2005, 119 Stat. 2638.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -150,15 +150,15 @@ Another prior section 221, added Pub. L. 97–34, title I, §103(a), Aug. 13, 19
 
 #### Amendments
 
-2005—Subsec. (d)(2). Pub. L. 109–135 substituted “the Taxpayer Relief Act of 1997” for “this Act”.
+<b>2005</b>—Subsec. (d)(2). Pub. L. 109–135 substituted “the Taxpayer Relief Act of 1997” for “this Act”.
 
-2004—Subsec. (b)(2)(C)(i). Pub. L. 108–357 inserted “199,” before “222”.
+<b>2004</b>—Subsec. (b)(2)(C)(i). Pub. L. 108–357 inserted “199,” before “222”.
 
 Subsec. (d)(4). Pub. L. 108–311, §207(20), inserted “(determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof)” after “section 152”.
 
 Subsec. (f)(1). Pub. L. 108–311, §408(b)(5), amended directory language of Pub. L. 107–16, §412(b)(2). See 2001 Amendment note below.
 
-2001—Subsec. (b)(2)(B)(i), (ii). Pub. L. 107–16, §§412(b)(1), 901, temporarily amended cls. (i) and (ii) generally. Prior to amendment, cls. (i) and (ii) read as follows:
+<b>2001</b>—Subsec. (b)(2)(B)(i), (ii). Pub. L. 107–16, §§412(b)(1), 901, temporarily amended cls. (i) and (ii) generally. Prior to amendment, cls. (i) and (ii) read as follows:
 
 “(i) the excess of—
 
@@ -184,7 +184,7 @@ Subsec. (f)(1). Pub. L. 107–16, §§412(b)(2), 901, as amended by Pub. L. 108�
 
 Subsec. (g). Pub. L. 107–16, §§412(a)(1), 901, temporarily redesignated former subsec. (g) as (f). See Effective and Termination Dates of 2001 Amendment note below.
 
-1998—Subsec. (b)(2)(C). Pub. L. 105–277, §4003(a)(2)(A)(iii), struck out concluding provisions which read as follows: “For purposes of sections 86, 135, 137, 219, and 469, adjusted gross income shall be determined without regard to the deduction allowed under this section.”
+<b>1998</b>—Subsec. (b)(2)(C). Pub. L. 105–277, §4003(a)(2)(A)(iii), struck out concluding provisions which read as follows: “For purposes of sections 86, 135, 137, 219, and 469, adjusted gross income shall be determined without regard to the deduction allowed under this section.”
 
 Subsec. (b)(2)(C)(i). Pub. L. 105–277, §4003(a)(2)(A)(i), struck out “135, 137,” after “sections”.
 
@@ -212,7 +212,7 @@ Pub. L. 107–16, title IV, §412(b)(3), June 7, 2001, 115 Stat. 64, provided th
 
 Amendment by section 431(c)(2) of Pub. L. 107–16 applicable to payments made in taxable years beginning after Dec. 31, 2001, see section 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
 
-Amendment by sections 412(a)(1), (b)(1), (2) and 431(c)(2) of Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by sections 412(a)(1), (b)(1), (2) and 431(c)(2) of Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment hadnever been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendments
 

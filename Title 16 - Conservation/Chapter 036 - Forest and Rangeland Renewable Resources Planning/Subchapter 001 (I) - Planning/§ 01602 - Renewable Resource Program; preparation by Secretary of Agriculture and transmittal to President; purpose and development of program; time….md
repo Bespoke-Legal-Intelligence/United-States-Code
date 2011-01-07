@@ -34,9 +34,9 @@ The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 9
 
 #### Amendments
 
-1990—Par. (5)(F). Pub. L. 101–624 added subpar. (F).
+<b>1990</b>—Par. (5)(F). Pub. L. 101–624 added subpar. (F).
 
-1976—Par. (4). Pub. L. 94–588 substituted “implement and monitor” for “satisfy”.
+<b>1976</b>—Par. (4). Pub. L. 94–588 substituted “implement and monitor” for “satisfy”.
 
 Par. (5). Pub. L. 94–588 added par. (5).
 

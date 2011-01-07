@@ -48,5 +48,5 @@ This amends section 152903(8) of title 36 to correct an inconsistency in the rev
 
 #### Amendments
 
-1998—Par. (8). Pub. L. 105–354 substituted “corporation” for “Corporation”.
+<b>1998</b>—Par. (8). Pub. L. 105–354 substituted “corporation” for “Corporation”.
 

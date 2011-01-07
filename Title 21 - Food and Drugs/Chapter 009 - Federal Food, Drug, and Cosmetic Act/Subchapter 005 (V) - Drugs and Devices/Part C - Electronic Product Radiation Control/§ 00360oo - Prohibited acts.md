@@ -22,9 +22,9 @@ Section was classified to section 263j of Title 42, The Public Health and Welfar
 
 #### Amendments
 
-1993—Pub. L. 103–80 amended directory language of Pub. L. 101–629, §19(a)(4), which renumbered section 263j of Title 42, The Public Health and Welfare, as this section.
+<b>1993</b>—Pub. L. 103–80 amended directory language of Pub. L. 101–629, §19(a)(4), which renumbered section 263j of Title 42, The Public Health and Welfare, as this section.
 
-1990—Subsec. (a)(1). Pub. L. 101–629, §19(a)(2)(F)(i), substituted “section 360kk” for “section 263f”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–629, §19(a)(2)(F)(i), substituted “section 360kk” for “section 263f”.
 
 Subsec. (a)(2). Pub. L. 101–629, §19(a)(2)(F)(ii), (iii), substituted “section 360<i>ll</i> or 360nn” for “section 263g or 263i” and “section 360<i>ll</i>(f)” for “section 263g(f)”.
 

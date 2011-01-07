@@ -18,7 +18,7 @@ Pub. L. 87–73, June 30, 1961, 75 Stat. 194, provided: “That the President is
 
 #### Termination of Caribbean Commission
 
-Article III of the Agreement of the Establishment of the Caribbean Organization provides that “On the termination of the Agreement for the establishment of the Caribbean Commission, signed at Washington on October 30, 1946, the assets of the Caribbean Commissionshall be and are by virtue of this Agreement transferred to and vested in the Caribbean Organization. The Caribbean Organization is hereby authorized to assume at the same time the liabilities of the Caribbean Commission and shall be regarded as the successor body to the Caribbean Commission.”
+Article III of the Agreement of the Establishment of the Caribbean Organization provides that “On the termination of the Agreement for the establishment of the Caribbean Commission, signed at Washington on October 30, 1946, the assets of the Caribbean Commission shall be and are by virtue of this Agreement transferred to and vested in the Caribbean Organization. The Caribbean Organization is hereby authorized to assume at the same time the liabilities of the Caribbean Commission and shall be regarded as the successor body to the Caribbean Commission.”
 
 Article IV of such Agreement provides that “The Agreement for the establishment of the Caribbean Commission shall terminate at the end of the first meeting of the Caribbean Council provided for in the Statute annexed to this Agreement.”
 

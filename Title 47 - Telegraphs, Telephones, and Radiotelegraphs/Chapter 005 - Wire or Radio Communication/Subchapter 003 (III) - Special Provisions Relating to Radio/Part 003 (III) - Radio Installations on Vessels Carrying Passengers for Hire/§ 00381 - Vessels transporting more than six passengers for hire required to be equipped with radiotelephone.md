@@ -6,7 +6,7 @@ Except as provided in section 382 of this title, it shall be unlawful for any ve
 
 #### Amendments
 
-1994—Pub. L. 103–414 inserted section catchline.
+<b>1994</b>—Pub. L. 103–414 inserted section catchline.
 
 #### Effective Date
 

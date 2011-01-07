@@ -68,13 +68,13 @@ A prior section 134 was renumbered section 140 of this title.
 
 #### Amendments
 
-2008—Subsec. (b)(6). Pub. L. 110–245 added par. (6).
+<b>2008</b>—Subsec. (b)(6). Pub. L. 110–245 added par. (6).
 
-2004—Subsec. (b)(3)(A). Pub. L. 108–375, §585(b)(2)(A), substituted “paragraphs (4) and (5)” for “paragraph (4)”.
+<b>2004</b>—Subsec. (b)(3)(A). Pub. L. 108–375, §585(b)(2)(A), substituted “paragraphs (4) and (5)” for “paragraph (4)”.
 
 Subsec. (b)(5). Pub. L. 108–375, §585(b)(1), added par. (5).
 
-2003—Subsec. (b)(3)(A). Pub. L. 108–121, §106(b)(1), inserted “and paragraph (4)” after “subparagraphs (B) and (C)”.
+<b>2003</b>—Subsec. (b)(3)(A). Pub. L. 108–121, §106(b)(1), inserted “and paragraph (4)” after “subparagraphs (B) and (C)”.
 
 Pub. L. 108–121, §102(b)(2), substituted “subparagraphs (B) and (C)” for “subparagraph (B)”.
 
@@ -82,7 +82,7 @@ Subsec. (b)(3)(C). Pub. L. 108–121, §102(b)(1), added subpar. (C).
 
 Subsec. (b)(4). Pub. L. 108–121, §106(a), added par. (4).
 
-1988—Subsec. (b)(1). Pub. L. 100–647, §1011B(f)(2)(A), inserted “(other than personal use of a vehicle)” after “in-kind benefit” in introductory text.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–647, §1011B(f)(2)(A), inserted “(other than personal use of a vehicle)” after “in-kind benefit” in introductory text.
 
 Subsec. (b)(1)(B). Pub. L. 100–647, §1011B(f)(1), substituted “, regulation, or administrative practice” for “or regulation thereunder”.
 

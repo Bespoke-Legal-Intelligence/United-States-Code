@@ -10,9 +10,9 @@ Purpose.—The purpose of the Office is to enhance and improve Department of Def
 
 (c)
 
-Director.—(1) The head of the Office shall be the Director of the Office of Community Support for Military Families With Special Needs, who shall be appointed by the Secretary of Defense from among civilian employees of the Department of Defense who are members of the Senior Executive Service or members of the armed forces in a general or flag grade.
+Director.—(1) The head of the Office shall be the Director of the Office of Community Support for Military Families With Special Needs, who shall be a member of the Senior Executive Service or a general officer or flag officer.
 
-(2) The Director shall be subject to the supervision, direction, and control of the Under Secretary of Defense for Personnel and Readiness in the discharge of the responsibilities of the Office, and shall report directly to the Under Secretary regarding the discharge of such responsibilities.
+(2) In the discharge of the responsibilities of the Office, the Director shall be subject to the supervision, direction, and control of the Under Secretary of Defense for Personnel and Readiness.
 
 (d)
 
@@ -30,7 +30,9 @@ Responsibilities.—The Office shall have the responsibilities as follows:
 
 &emsp;(6) To monitor the availability and accessibility of programs provided by other Federal, State, local, and non-governmental agencies to military families with special needs.
 
-&emsp;(7) To carry out such other matters with respect to the programs and activities of the Department of Defense regarding military families with special needs as the Under Secretary of Defense for Personnel and Readiness shall specify.
+&emsp;(7) To conduct periodic reviews of best practices in the United States in the provision of medical and educational services for children with special needs.
+
+&emsp;(8) To carry out such other matters with respect to the programs and activities of the Department of Defense regarding military families with special needs as the Under Secretary of Defense for Personnel and Readiness shall specify.
 
 (e)
 
@@ -48,7 +50,7 @@ Policy.—(1) The Office shall develop, and update from time to time, a uniform 
 
 &emsp;(B) Stabilization of assignment for a minimum of 4 years.
 
-(4) In addressing support for military families under paragraph (2)(B), the policy developedunder this subsection shall provide the following:
+(4) In addressing support for military families under paragraph (2)(B), the policy developed under this subsection shall provide the following:
 
 &emsp;(A) Procedures to identify members of the armed forces who are members of military families with special needs.
 
@@ -56,7 +58,7 @@ Policy.—(1) The Office shall develop, and update from time to time, a uniform 
 
 &emsp;(C) Procedures to facilitate the enrollment of such members of the armed forces and their families in programs of the military department for the support of military families with special needs.
 
-&emsp;(D) Procedures to ensure the coordination of Department of Defense health care programs and support programs for military families with special needs, and the coordination of such programs with other Federal, State, local, and non-governmental health care programs and support programs intended to serve such families.
+&emsp;(D) Procedures to ensure the coordination of Department of Defense health care programsand support programs for military families with special needs, and the coordination of such programs with other Federal, State, local, and non-governmental health care programs and support programs intended to serve such families.
 
 &emsp;(E) Requirements for resources (including staffing) to ensure the availability through the Department of Defense of appropriate numbers of case managers to provide individualized support for military families with special needs.
 
@@ -86,7 +88,7 @@ Resources.—The Secretary of Defense shall assign to the Office such resources,
 
 (h)
 
-Reports.—(1) Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010, and annually thereafter, the Secretary of Defense shall submit to the congressional defense committees a report on the activities of the Office.
+Reports.—(1) Not later than April 30 each year, the Secretary of Defense shall submit to the congressional defense committees a report on the activities of the Office.
 
 (2) Each report under this subsection shall include the following:
 
@@ -100,11 +102,19 @@ Reports.—(1) Not later than 180 days after the date of the enactment of the Na
 
 Military Family With Special Needs.—For purposes of this section, a military family with special needs is any military family with one or more members who has a medical or educational special need (as defined by the Secretary in regulations for purposes of this section), including a condition covered by the Extended Health Care Option Program under section 1079f of this title.
 
-(Added Pub. L. 111–84, div. A, title V, §563(a)(1), Oct. 28, 2009, 123 Stat. 2304.)
+(Added Pub. L. 111–84, div. A, title V, §563(a)(1), Oct. 28, 2009, 123 Stat. 2304; amended Pub. L. 111–383, div. A, title V, §582(a), (b), title X, §1075(b)(24), Jan. 7, 2011, 124 Stat. 4226, 4227, 4370.)
 
-#### References in Text
+#### Amendments
 
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsec. (h)(1), is the date of enactment of Pub. L. 111–84, which was approved Oct. 28, 2009.
+<b>2011</b>—Subsec. (c). Pub. L. 111–383, §582(a), amended subsec. (c) generally. Prior to amendment, text read as follows:
+
+“(1) The head of the Office shall be the Director of the Office of Community Support for Military Families With Special Needs, who shall be appointed by the Secretary of Defense from among civilian employees of the Department of Defense who are members of the Senior Executive Service or members of the armed forces in a general or flag grade.
+
+“(2) The Director shall be subject to the supervision, direction, and control of the Under Secretary of Defense for Personnel and Readiness in the discharge of the responsibilities of the Office, and shall report directly to the Under Secretary regarding the discharge of such responsibilities.”
+
+Subsec. (d)(7), (8). Pub. L. 111–383, §582(b), added par. (7) and redesignated former par. (7) as (8).
+
+Subsec. (h)(1). Pub. L. 111–383, §1075(b)(24), substituted “April 30 each year” for “180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010, and annually thereafter”.
 
 #### Foundation for Support of Military Families With Special Needs
 
@@ -149,4 +159,34 @@ Annual report.—The foundation shall submit to the Secretary, and to the congre
 “(5)
 
 Military family with special needs defined.—In this subsection, the term ‘military family with special needs’ has the meaning given such term in section 1781c(i) of title 10, United States Code (as added by subsection (a)).”
+
+#### Military Department Support for Local Centers To Assist Military Children With Special Needs
+
+Pub. L. 111–84, div. A, title V, §563(c), as added Pub. L. 111–383, div. A, title V, §582(c)(2), Jan. 7, 2011, 124 Stat. 4227, provided that: “The Secretary of a military department may establish or support centers on or in the vicinity of military installations under the jurisdiction of such Secretary to coordinate and provide medical and educational services for children with special needs of members of the Armed Forces who are assigned to such installations.”
+
+#### Advisory Panel on Community Support for Military Families With Special Needs
+
+Pub. L. 111–84, div. A, title V, §563(d), as added Pub. L. 111–383, div. A, title V, §582(c)(2), Jan. 7, 2011, 124 Stat. 4227, provided that:
+
+“(1)
+
+Establishment.—Not later than 90 days after the date of the enactment of this subsection \[Jan. 7, 2011\], the Secretary of Defense shall establish an advisory panel on community support for military families with special needs.
+
+“(2)
+
+Members.—The advisory panel shall consist of seven individuals who are a member of a military family with special needs. The Secretary of Defense shall appoint the members of the advisory panel.
+
+“(3)
+
+Duties.—The advisory panel shall—
+
+&emsp;“(A) provide informed advice to the Director of the Office of Community Support for Military Families With Special Needs on the implementation of the policy required by subsection (e) of section 1781c of title 10, United States Code, and on the discharge of the programs required by subsection (f) of such section;
+
+&emsp;“(B) assess and provide information to the Director on services and support for children with special needs that is available from other departments and agencies of the Federal Government and from State and local governments; and
+
+&emsp;“(C) otherwise advise and assist the Director in the discharge of the duties of the Office of Community Support for Military Families With Special Needs in such manner as the Secretary of Defense and the Director jointly determine appropriate.
+
+“(4)
+
+Meetings.—The Director shall meet with the advisory panel at such times, and with such frequency, as the Director considers appropriate. The Director shall meet with the panel at least once each year. The Director may meet with the panel through teleconferencing or by other electronic means.”
 

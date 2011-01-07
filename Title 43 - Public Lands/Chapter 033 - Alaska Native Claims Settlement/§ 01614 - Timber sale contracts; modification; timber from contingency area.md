@@ -12,5 +12,5 @@ The Alaska National Interest Lands Conservation Act, referred to subsec. (b), is
 
 #### Amendments
 
-1980—Pub. L. 96–487 designated existing provision as subsec. (a) and added subsec. (b).
+<b>1980</b>—Pub. L. 96–487 designated existing provision as subsec. (a) and added subsec. (b).
 

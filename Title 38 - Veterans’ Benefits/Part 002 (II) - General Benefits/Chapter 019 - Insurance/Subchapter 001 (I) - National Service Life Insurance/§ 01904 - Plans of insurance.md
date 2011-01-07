@@ -4,7 +4,7 @@
 
 (b) Under such regulations as the Secretary may promulgate a policy of participating insurance may be converted to or exchanged for insurance issued under this subsection on a modified life plan. Insurance issued under this subsection shall be on the same terms and conditions as the insurance which it replaces, except (1) the premium rates for such insurance shall be based on the 1958 Commissioners Standard Ordinary Basic Table of Mortality and interest at the rate of 3 per centum per annum; (2) all cash, loan, paid-up, and extended values shall be based on the 1958 Commissioners Standard Ordinary Basic Table of Mortality and interest at the rate of 3 per centum per annum; and (3) at the end of the day preceding the sixty-fifth birthday of the insured the face value of the modified life insurance policy or the amount of extended term insurance thereunder shall be automatically reduced by one-half thereof, without any reduction in premium.
 
-(c) Under such regulations as the Secretary may promulgate, a policy of nonparticipating insurance may be converted to or exchanged for insurance issued under this subsection on a modified life plan. Insurance issued under this subsection shall be on the same terms and conditions as the insurance which it replaces, except that (1) term insurance issued under section 621 of the National Service Life Insurance Act of 1940 shall be deemed for the purposes ofthis subsection to have been issued under section 1923(b) of this title; and (2) at the end of the day preceding the sixty-fifth birthday of the insured the face value of the modified life insurance policy or the amount of extended term insurance thereunder shall be automatically reduced by one-half thereof, without any reduction in premium. Any person eligible for insurance under section 1922(a), or section 1925 of this title may be granted a modified life insurance policy under this subsection which, subject to exception (2) above, shall be issued on the same terms and conditions specified in section 1922(a) or section 1925, whichever is applicable.
+(c) Under such regulations as the Secretary may promulgate, a policy of nonparticipating insurance may be converted to or exchanged for insurance issued under this subsection on a modified life plan. Insurance issued under this subsection shall be on the same terms and conditions as the insurance which it replaces, except that (1) term insurance issued under section 621 of the National Service Life Insurance Act of 1940 shall be deemed for the purposes of this subsection to have been issued under section 1923(b) of this title; and (2) at the end of the day preceding the sixty-fifth birthday of the insured the face value of the modified life insurance policy or the amount of extended term insurance thereunder shall be automatically reduced by one-half thereof, without any reduction in premium. Any person eligible for insurance under section 1922(a), or section 1925 of this title may be granted a modified life insurance policy under this subsection which, subject to exception (2) above, shall be issued on the same terms and conditions specified in section 1922(a) or section 1925, whichever is applicable.
 
 (d) Any insured whose modified life insurance policy is in force by payment or waiver of premiums on the day before the insured's sixty-fifth birthday may upon written application and payment of premiums made before such birthday be granted National Service Life Insurance, on an ordinary life plan, without physical examination, in an amount of not less than $500, in multiples of $250, but not in excess of one-half of the face amount of the modified life insurance policy in force on the day before the insured's sixty-fifth birthday. Insurance issued under this subsection shall be effective on the sixty-fifth birthday of the insured. The premium rate, cash, loan, paid-up, and extended values on the ordinary life insurance issued under this subsection shall be based on the same mortality tables and interest rates as the insurance issued under the modified life policy. Settlements on policies involving annuities on insurance issued under this subsection shall be based on the same mortality or annuity tables and interest rates as such settlements on the modified life policy. If the insured is totally disabled on the day before the insured's sixty-fifth birthday and premiums on the insured's modified life insurance policy are being waived under section 1912 of this title or the insured is entitled on that date to waiver under such section the insured shall be automatically granted the maximum amount of insurance authorized under this subsection and premiums on such insurance shall be waived during the continuous total disability of the insured.
 
@@ -24,7 +24,7 @@ Another prior section 1904, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1216, rela
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 704 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 704 of this title as this section.
 
 Subsec. (b). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
@@ -36,15 +36,15 @@ Subsec. (d). Pub. L. 102–83, §5(c)(1), substituted “1912” for “712”.
 
 Subsec. (e). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-1986—Subsec. (d). Pub. L. 99–576, §701(21)(A), substituted “the insured's” for “his” in four places, and “the insured” for “he” in two places.
+<b>1986</b>—Subsec. (d). Pub. L. 99–576, §701(21)(A), substituted “the insured's” for “his” in four places, and “the insured” for “he” in two places.
 
 Subsec. (e). Pub. L. 99–576, §701(21)(B), substituted “the insured's” for “his” and “the Administrator” for “he”.
 
-1982—Subsec. (e). Pub. L. 97–295 substituted “After June 30, 1972,” for “On and after the effective date of this subsection”, and substituted “subsection” for “subsections” after “plan issued under”.
+<b>1982</b>—Subsec. (e). Pub. L. 97–295 substituted “After June 30, 1972,” for “On and after the effective date ofthis subsection”, and substituted “subsection” for “subsections” after “plan issued under”.
 
-1971—Subsec. (e). Pub. L. 92–193 added subsec. (e).
+<b>1971</b>—Subsec. (e). Pub. L. 92–193 added subsec. (e).
 
-1964—Pub. L. 88–664 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
+<b>1964</b>—Pub. L. 88–664 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
 
 #### Effective Date of 1971 Amendment
 

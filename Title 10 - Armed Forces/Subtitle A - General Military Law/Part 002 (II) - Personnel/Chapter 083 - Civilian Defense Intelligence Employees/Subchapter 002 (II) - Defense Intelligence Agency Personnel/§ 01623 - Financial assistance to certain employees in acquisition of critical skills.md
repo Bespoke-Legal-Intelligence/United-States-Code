@@ -14,7 +14,7 @@ A prior section 1624, added Pub. L. 99–145, title IX, §924(a)(1), Nov. 8, 198
 
 #### Amendments
 
-1996—Pub. L. 104–201 renumbered section 1608 of this title as this section.
+<b>1996</b>—Pub. L. 104–201 renumbered section 1608 of this title as this section.
 
 #### Effective Date
 

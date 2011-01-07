@@ -6,5 +6,5 @@ Insofar as they relate to any guarantees, loans, or grants made pursuant to this
 
 #### Amendments
 
-2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline and two places in text.
+<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline and two places in text.
 

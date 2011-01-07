@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The President is authorized to provide assistance under subsection (b) to any country that cooperates with the United States and with other countries allied with the United States toprevent the transport and transshipment of items of proliferation concern in its national territory or airspace or in vessels under its control or registry.
+The President is authorized to provide assistance under subsection (b) to any country that cooperates with the United States and with other countries allied with the United States to prevent the transport and transshipment of items of proliferation concern in its national territory or airspace or in vessels under its control or registry.
 
 #### (b) Types of assistance
 
@@ -41,4 +41,6 @@ Assistance provided under this section shall be used to enhance the capability o
 #### References in Text
 
 The Foreign Assistance Act of 1961, referred to in subsec. (b)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapters 4 and 5 of part II of the Act are classified generally to parts IV (§2346 et seq.) and V (§2347 et seq.), respectively, of subchapter II of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+
+<i><sup>1</sup></i><i> So in original. The word “defense” probably should not appear before “excess”.</i>
 

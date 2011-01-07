@@ -10,7 +10,7 @@ Authority.—Subject to subsection (b), the Secretary of Defense and the Secreta
 
 (b)
 
-Conditions.—The services of experts or consultants (or organizations thereof) may be procured under subsection (a) only if the Secretary of Defense or the Secretary of the military department concerned, as the case may be, determines that—
+Conditions.—The services of experts or consultants (or organizations thereof) may beprocured under subsection (a) only if the Secretary of Defense or the Secretary of the military department concerned, as the case may be, determines that—
 
 &emsp;(1) the procurement of such services is advantageous to the United States; and
 
@@ -46,9 +46,9 @@ Provisions similar to those in this section were contained in Pub. L. 101–165,
 
 #### Amendments
 
-2003—Pub. L. 108–136, §841(b)(1), substituted “Authority to procure personal services” for “Experts and consultants: authority to procure services of” in section catchline.
+<b>2003</b>—Pub. L. 108–136, §841(b)(1), substituted “Authority to procure personal services” for “Experts and consultants: authority to procure services of” in section catchline.
 
 Subsec. (d). Pub. L. 108–136, §841(a), added subsec. (d).
 
-1991—Pub. L. 102–190 inserted “of” after “services” in section catchline.
+<b>1991</b>—Pub. L. 102–190 inserted “of” after “services” in section catchline.
 

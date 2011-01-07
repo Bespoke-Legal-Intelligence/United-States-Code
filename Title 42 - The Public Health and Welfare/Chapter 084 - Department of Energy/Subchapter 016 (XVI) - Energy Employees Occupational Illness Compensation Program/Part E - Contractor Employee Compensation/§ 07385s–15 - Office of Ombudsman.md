@@ -54,11 +54,11 @@ Effective October 28, 2012, this section shall have no further force or effect.
 
 #### Amendments
 
-2009—Subsecs. (c) to (e). Pub. L. 111–84, §3142(a)(1)–(3), inserted “and part B” after “this part” wherever appearing.
+<b>2009</b>—Subsecs. (c) to (e). Pub. L. 111–84, §3142(a)(1)–(3), inserted “and part B” after “this part” wherever appearing.
 
 Subsecs. (g), (h). Pub. L. 111–84, §3142(a)(4), (5), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-2008—Subsec. (g). Pub. L. 110–181 substituted “October 28, 2012” for “on the date that is 3 years after October 28, 2004”.
+<b>2008</b>—Subsec. (g). Pub. L. 110–181 substituted “October 28, 2012” for “on the date that is 3 years after October 28, 2004”.
 
 #### Construction
 

@@ -8,7 +8,23 @@ In General.—On the initiative of the Secretary of Transportation or the compla
 
 E-Ticket Expiration Notice.—It shall be an unfair or deceptive practice under subsection (a) for any air carrier, foreign air carrier, or ticket agent utilizing electronically transmitted tickets for air transportation to fail to notify the purchaser of such a ticket of its expiration date, if any.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1143; Pub. L. 106–181, title II, §221, Apr. 5, 2000, 114 Stat. 102.)
+(c)
+
+Disclosure Requirement for Sellers of Tickets for Flights.—
+
+&emsp;(1)
+
+In general.—It shall be an unfair or deceptive practice under subsection (a) for any ticket agent, air carrier, foreign air carrier, or other person offering to sell tickets for air transportation on a flight of an air carrier to fail to disclose, whether verbally in oral communication or in writing in written or electronic communication, prior to the purchase of a ticket—
+
+&emsp;&emsp;(A) the name of the air carrier providing the air transportation; and
+
+&emsp;&emsp;(B) if the flight has more than one flight segment, the name of each air carrier providing the air transportation for each such flight segment.
+
+&emsp;(2)
+
+Internet offers.—In the case of an offer to sell tickets described in paragraph (1) on an Internet Web site, disclosure of the information required by paragraph (1) shall be provided on the first display of the Web site following a search of a requested itinerary in a format that is easily visible to a viewer.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1143; Pub. L. 106–181, title II, §221, Apr. 5, 2000, 114 Stat. 102; Pub. L. 111–216, title II, §210, Aug. 1, 2010, 124 Stat. 2362.)
 
 Historical and Revision Notes
 
@@ -36,7 +52,9 @@ The words “such action by” are omitted as surplus. The words “opportunity 
 
 #### Amendments
 
-2000—Pub. L. 106–181 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2010</b>—Subsec. (c). Pub. L. 111–216 added subsec. (c).
+
+<b>2000</b>—Pub. L. 106–181 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Effective Date of 2000 Amendment
 

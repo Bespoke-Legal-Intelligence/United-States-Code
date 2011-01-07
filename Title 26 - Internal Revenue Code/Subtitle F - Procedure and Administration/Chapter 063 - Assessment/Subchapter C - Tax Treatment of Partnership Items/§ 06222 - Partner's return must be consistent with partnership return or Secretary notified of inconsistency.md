@@ -44,9 +44,9 @@ In any case—
 
 #### Amendments
 
-1989—Subsec. (d). Pub. L. 101–239 substituted “part II of subchapter A of chapter 68” for “section 6653(a)”.
+<b>1989</b>—Subsec. (d). Pub. L. 101–239 substituted “part II of subchapter A of chapter 68” for “section 6653(a)”.
 
-1986—Subsec. (d). Pub. L. 99–514 struck out “intentional or negligent” after “case of a partner's”.
+<b>1986</b>—Subsec. (d). Pub. L. 99–514 struck out “intentional or negligent” after “case of a partner's”.
 
 #### Effective Date of 1989 Amendment
 

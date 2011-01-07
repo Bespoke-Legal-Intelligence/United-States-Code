@@ -2,7 +2,7 @@
 
 (a)
 
-Regulations.—The Secretary of the Treasury and the United States Postal Service shall separately or jointly issue regulations for the enforcement of the rights set forth in section 1308 with respect to importation. Such regulations may require, as a condition for the exclusion of articles from the United States, that the person seeking exclusion take any one or more of the following actions:
+Regulations.—The Secretary of the Treasury and the United States Postal Service shallseparately or jointly issue regulations for the enforcement of the rights set forth in section 1308 with respect to importation. Such regulations may require, as a condition for the exclusion of articles from the United States, that the person seeking exclusion take any one or more of the following actions:
 
 &emsp;(1) Obtain a court order enjoining, or an order of the International Trade Commission under section 337 of the Tariff Act of 1930 excluding, importation of the articles.
 

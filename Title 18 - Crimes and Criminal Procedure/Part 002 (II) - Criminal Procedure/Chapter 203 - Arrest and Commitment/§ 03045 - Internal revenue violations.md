@@ -1,6 +1,6 @@
 ### §3045. Internal revenue violations
 
-Warrants of arrest for violations of internal revenue laws may be issued by United States magistrate judges upon the complaint of a United States attorney, assistant United States attorney, collector, or deputy collector of internal revenue or revenue agent, or private citizen; but no such warrant of arrest shall be issued upon the complaint of a private citizen unless first approved in writing by a United States attorney.
+Warrants of arrest for violations of internal revenue laws may be issued by United States magistrate judges upon the complaint of aUnited States attorney, assistant United States attorney, collector, or deputy collector of internal revenue or revenue agent, or private citizen; but no such warrant of arrest shall be issued upon the complaint of a private citizen unless first approved in writing by a United States attorney.
 
 (June 25, 1948, ch. 645, 62 Stat. 816; Pub. L. 90–578, title III, §301(a)(2), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
@@ -10,13 +10,9 @@ Based on title 18, U.S.C., 1940 ed., §594 (May 28, 1896, ch. 252, §19, 29 Stat
 
 Minor changes were made in phraseology.
 
-#### References in Text
-
-The internal revenue laws, referred to in text, are classified generally to Title 26, Internal Revenue Code.
-
 #### Amendments
 
-1968—Pub. L. 90–578 substituted “United States magistrates” for “United States commissioners”.
+<b>1968</b>—Pub. L. 90–578 substituted “United States magistrates” for “United States commissioners”.
 
 #### Change of Name
 

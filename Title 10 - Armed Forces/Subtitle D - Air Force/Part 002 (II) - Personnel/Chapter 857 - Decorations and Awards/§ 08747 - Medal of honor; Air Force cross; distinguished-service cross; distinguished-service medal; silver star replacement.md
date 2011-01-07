@@ -22,7 +22,7 @@ The words “issued for wear with or in place of any of them” are inserted for
 
 #### Amendments
 
-2001—Pub. L. 107–107 substituted “stolen, lost,” for “lost”.
+<b>2001</b>—Pub. L. 107–107 substituted “stolen, lost,” for “lost”.
 
-1960—Pub. L. 86–593 inserted “Air Force cross” in section catchline and in text.
+<b>1960</b>—Pub. L. 86–593 inserted “Air Force cross” in section catchline and in text.
 

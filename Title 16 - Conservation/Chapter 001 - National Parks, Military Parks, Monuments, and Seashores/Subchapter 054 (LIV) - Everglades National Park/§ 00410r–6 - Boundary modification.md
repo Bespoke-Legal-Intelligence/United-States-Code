@@ -32,7 +32,7 @@ The Secretary may from time to time make minor revisions in the boundaries of th
 
 #### (d) Acquisition of tracts partially outside boundaries
 
-When any tract of land is only partly within boundaries referred to in subsection (a) of this section, the Secretary may acquire all or any portion of the land outside of such boundaries in order to minimize the payment of severance costs. Land so acquired outside of the boundaries may be exchanged by the Secretary for non-Federal lands within the boundaries, and any land so acquired and not utilized for exchange shall be reported to the General Services Administration for disposal under the Federal Property and Administrative Services Act of 1949 (63 Stat. 377).
+When any tract of land is only partly within boundaries referred to in subsection (a) of this section, the Secretary may acquire all or any portion of the land outside of such boundaries in order to minimize the payment of severance costs. Land so acquired outside of the boundaries may be exchanged by the Secretary for non-Federal lands within the boundaries, and any land so acquired and not utilized for exchange shall be reported to the General Services Administration for disposal under chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
 #### (e) Offers to sell
 
@@ -98,7 +98,7 @@ Upon the request of the Governor of the State of Florida, the Secretary is autho
 
 #### (B) Use of National Park Service land
 
-&emsp;&emsp;The National Park Service land conveyed to the District shall be used by the Districtfor the purposes of the C–111 project, including restoration of the Everglades natural system.
+&emsp;&emsp;The National Park Service land conveyed to the District shall be used by the District for the purposes of the C–111 project, including restoration of the Everglades natural system.
 
 #### (C) Boundary adjustment
 
@@ -110,13 +110,13 @@ Upon the request of the Governor of the State of Florida, the Secretary is autho
 
 (Pub. L. 101–229, title I, §102, Dec. 13, 1989, 103 Stat. 1947; Pub. L. 108–483, §1, Dec. 23, 2004, 118 Stat. 3919.)
 
-#### References in Text
+#### Codification
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
+In subsec. (d), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (63 Stat. 377)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–483, §1(1), designated first sentence as par. (1), designated second sentence as par. (2), inserted par. headings, and added par. (3).
+<b>2004</b>—Subsec. (a). Pub. L. 108–483, §1(1), designated first sentence as par. (1), designated second sentence as par. (2), inserted par. headings, and added par. (3).
 
 Subsec. (h). Pub. L. 108–483, §1(2), added subsec. (h).
 

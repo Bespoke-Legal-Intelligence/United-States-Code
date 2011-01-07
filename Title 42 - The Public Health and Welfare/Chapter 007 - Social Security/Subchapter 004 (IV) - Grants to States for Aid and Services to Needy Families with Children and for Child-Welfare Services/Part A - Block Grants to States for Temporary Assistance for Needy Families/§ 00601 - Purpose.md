@@ -24,7 +24,7 @@ A prior section 601, acts Aug. 14, 1935, ch. 531, title IV, §401, 49 Stat. 627;
 
 #### Amendments
 
-1997—Pub. L. 105–33 made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
+<b>1997</b>—Pub. L. 105–33 made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 
 #### Effective Date of 1997 Amendment
 
@@ -150,7 +150,7 @@ Claims, actions, and proceedings.—The amendments made by this title \[see Tabl
 
 &emsp;“(3)
 
-Closing out account for those programs terminated or substantially modified by this title.—In closing out accounts, Federal and State officials may use scientifically acceptable statistical sampling techniques. Claims made with respect to State expenditures under a State plan approved under part A of title IV of the Social Security Act \[this part\] (as in effect on September 30, 1995) with respect to assistance or services provided on or before September 30, 1995, shall be treated as claims with respect to expenditures during fiscal year 1995 for purposes of reimbursement even if payment was made by a State on or after October 1, 1995. Each State shall complete the filing of all claims under the State plan (as so in effect) within 2 years after the date of the enactment of this Act \[Aug. 22, 1996\]. The head of each Federal department shall—
+Closing out account for those programs terminated or substantially modified by this title.—In closing out accounts, Federal and State officials may use scientifically acceptable statistical sampling techniques. Claims made with respect to State expenditures under a State plan approved under part A of title IV of the Social Security Act \[this part\] (as in effect on September 30, 1995) with respect to assistance or services provided on or before September 30, 1995, shall be treated as claims with respect to expenditures during fiscal year 1995 for purposes of reimbursement even if payment was made by a State on or after October 1, 1995. Each State shall completethe filing of all claims under the State plan (as so in effect) within 2 years after the date of the enactment of this Act \[Aug. 22, 1996\]. The head of each Federal department shall—
 
 &emsp;&emsp;“(A) use the single audit procedure to review and resolve any claims in connection with the close out of programs under such State plans; and
 
@@ -170,7 +170,7 @@ Continuance in office of assistant secretary for family support.—The individua
 
 “(c)
 
-Termination of Entitlement Under AFDC Program.—Effective October 1, 1996, no individual or family shall be entitled to any benefits or services underany State plan approved under part A or F of title IV of the Social Security Act \[this part or part F of this subchapter\] (as in effect on September 30, 1995).”
+Termination of Entitlement Under AFDC Program.—Effective October 1, 1996, no individual or family shall be entitled to any benefits or services under any State plan approved under part A or F of title IV of the Social Security Act \[this part or part F of this subchapter\] (as in effect on September 30, 1995).”
 
 #### Congressional Findings
 
@@ -234,7 +234,7 @@ Section 101 of Pub. L. 104–193 provided that: “The Congress makes the follow
 
 &emsp;&emsp;“(A) Only 9 percent of married-couple families with children under 18 years of age have income below the national poverty level. In contrast, 46 percent of female-headed households with children under 18 years of age are below the national poverty level.
 
-&emsp;&emsp;“(B) Among single-parent families, nearly 1/2 of the mothers who never married received AFDC while only 1/5 of divorced mothers received AFDC.
+&emsp;&emsp;“(B) Among single-parent families, nearly ½ of the mothers who never married received AFDC while only 1/5 of divorced mothers received AFDC.
 
 &emsp;&emsp;“(C) Children born into families receiving welfare assistance are 3 times more likely to be on welfare when they reach adulthood than children not born into families receiving welfare.
 

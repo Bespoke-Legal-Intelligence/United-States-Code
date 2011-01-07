@@ -18,15 +18,11 @@ Articles entered under section 1752 of this title shall not be subject to the pa
 
 #### References in Text
 
-The customs laws, referred to in subsec. (a), are classified generally to this title.
-
-The internal-revenue laws, referred to in subsec. (b), are classified generally to Title 26, Internal Revenue Code.
-
-The Federal Alcohol Administration Act, referred to in subsec. (b), is act Aug. 29, 1935, ch. 814, 49 Stat. 977, as amended, which is classified generally to subchapter I (§201 et seq.) of chapter 8 of Title 27, Intoxicating Liquors. For complete classification of this Act to the Code, see section 201 of Title 27 and Tables.
+The Federal Alcohol Administration Act, referred to in subsec. (b), is act Aug. 29, 1935, ch. 814, 49 Stat. 977, which is classified generally to subchapter I (§201 et seq.) of chapter 8 of Title 27, Intoxicating Liquors. For complete classification of this Act to the Code, see section 201 of Title 27 and Tables.
 
 Chapter 51 of the Internal Revenue Code of 1986, referred to in subsec. (b), is classified to section 5001 et seq. of Title 26, Internal Revenue Code.
 
 #### Amendments
 
-1986—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 

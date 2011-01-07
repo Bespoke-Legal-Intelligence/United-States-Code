@@ -90,7 +90,7 @@ The benchmark benefit packages are as follows:
 
 &emsp;&emsp;(C) using a standardized set of utilization and price factors;
 
-&emsp;&emsp;(D) using a standardized population that is representative of privately insured children of the age of children who are expected to be covered under the State child health plan;
+&emsp;&emsp;(D) using a standardized population that is representative of privately insured childrenof the age of children who are expected to be covered under the State child health plan;
 
 &emsp;&emsp;(E) applying the same principles and factors in comparing the value of different coverage (or categories of services);
 
@@ -108,7 +108,7 @@ The benchmark benefit packages are as follows:
 
 #### (B) Permitting use of dental benchmark plans by certain States
 
-&emsp;&emsp;A State may elect to meet the requirement of subparagraph (A) through dental coverage that is equivalent to a benchmarkdental benefit package described in subparagraph (C).
+&emsp;&emsp;A State may elect to meet the requirement of subparagraph (A) through dental coverage that is equivalent to a benchmark dental benefit package described in subparagraph (C).
 
 #### (C) Benchmark dental benefit packages
 
@@ -130,7 +130,7 @@ The benchmark benefit packages are as follows:
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a State child health plan that provides both medical and surgical benefits and mental health or substance use disorder benefits, such plan shall ensure that the financial requirements and treatment limitations applicable to such mental health or substance use disorder benefits comply with the requirements of section 2705(a) of the Public Health Service Act \[42 U.S.C. 300gg–5(a)\] in the same manner as such requirements apply to a group health plan.
+&emsp;&emsp;In the case of a State child health plan that provides both medical and surgical benefits and mental health or substance use disorder benefits, such plan shall ensure that the financial requirements and treatment limitations applicable to such mental health or substance use disorder benefits comply with the requirements of section 2705(a) of the Public Health Service Act <sup>1</sup> in the same manner as such requirements apply to a group health plan.
 
 #### (B) Deemed compliance
 
@@ -230,23 +230,31 @@ The benchmark benefit packages are as follows:
 
 #### (2) Compliance with other requirements
 
-&emsp;Coverage offered under this section shall comply with the requirements of subpart 2 of part A of title XXVII of the Public Health Service Act \[42 U.S.C. 300gg–4 et seq.\] insofar as such requirements apply with respect to a health insurance issuer that offers group health insurance coverage.
+&emsp;Coverage offered under this section shall comply with the requirements of subpart 2 of part A of title XXVII of the Public Health Service Act <sup>1</sup> insofar as such requirements apply with respect to a health insurance issuer that offers group health insurance coverage.
 
 #### (3) Compliance with managed care requirements
 
 &emsp;The State child health plan shall provide for the application of subsections (a)(4), (a)(5), (b), (c), (d), and (e) of section 1396u–2 of this title (relating to requirements for managed care) to coverage, State agencies, enrollment brokers, managed care entities, and managed care organizations under this subchapter in the same manner as such subsections apply to coverage and such entities and organizations under subchapter XIX.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2103, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 554; amended Pub. L. 111–3, title I, §111(b)(1), title IV, §403(a), title V, §§501(a)(1), 502, 504(a), 505(a), Feb. 4, 2009, 123 Stat. 28, 84, 89, 90.)
+(Aug. 14, 1935, ch. 531, title XXI, §2103, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 554; amended Pub. L. 111–3, title I,§111(b)(1), title IV, §403(a), title V, §§501(a)(1), 502, 504(a), 505(a), Feb. 4, 2009, 123 Stat. 28, 84, 89, 90.)
 
 #### References in Text
 
+Section 2705 of the Public Health Service Act, referred to in subsec. (c)(6)(A), is section 2705 of act July 1, 1944, which was classified to section 300gg–5 of this title, was renumbered section 2726 and amended by Pub. L. 111–148, title I, §§1001(2), 1563(c)(4), formerly §1562(c)(4), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 265, 911, and was transferred to section 300gg–26 of this title. A new section 2705 of act July 1, 1944, related to prohibiting discrimination against individual participants and beneficiaries based on health status, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended by Pub. L. 111–148, title I, §1201(3), (4), Mar. 23, 2010, 124 Stat. 154, 156, and is classified to section 300gg–4 of this title.
+
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(1)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-The Public Health Service Act, referred to in subsec. (f), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXVII of the Act is classified generally to subchapter XXV (§300gg et seq.) of chapter 6A of this title. Subpart 2 of part A of title XXVII of the Act is classified generally to subpart 2 (§300gg–4 et seq.) of part A of subchapter XXV of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsec. (f), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXVII of the Act is classified generally to subchapter XXV (§300gg et seq.) of chapter 6A of this title. Subpart 2 of part A of title XXVII of the Act may refer to subpart II of part A of subchapter XXV of chapter 6A of this title. Pub. L. 111–148, title I, §§1001(5), 1563(c)(2), (11), formerly §1562(c)(2), (11), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 265, 268, 911, amended part A by inserting “
+
+subpart ii—improving coverage” (preceding section 300gg–11 of this title), by striking out “
+
+subpart 2—other requirements” (preceding section 300gg–4 of this title), and by redesignating subpart 4 as subpart 2 “
+
+exclusion of plans; enforcement; preemption” (preceding section 300gg–21 of this title). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–3, §502(b)(1), inserted “, (6),” after “(5)” in introductory provisions.
+<b>2009</b>—Subsec. (a). Pub. L. 111–3, §502(b)(1), inserted “, (6),” after “(5)” in introductory provisions.
 
 Pub. L. 111–3, §501(a)(1)(A)(i), substituted “paragraphs (5) and (7) of subsection (c)” for “subsection (c)(5)” in introductory provisions.
 
@@ -277,4 +285,6 @@ Pub. L. 111–3, title IV, §403(b), Feb. 4, 2009, 123 Stat. 84, provided that: 
 Amendment by section 501(a)(1) of Pub. L. 111–3 applicable to coverage of items and services furnished on or after Oct. 1, 2009, see section 501(a)(3) of Pub. L. 111–3, set out as a note under section 1397bb of this title.
 
 Pub. L. 111–3, title V, §504(b), Feb. 4, 2009, 123 Stat. 90, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to new coverage periods beginning on or after the date of the enactment of this Act \[Feb. 4, 2009\].”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

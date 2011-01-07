@@ -26,7 +26,7 @@
 
 &emsp;(6) If the individual has been reemployed within 12 months after having been involuntarily separated from employment, no amount may be deducted from the disposable pay of the individual until the individual has been reemployed continuously for at least 12 months.
 
-(c)(1) A hearing under subsection (b)(5) shall be provided prior to issuance of a garnishmentorder if the individual, on or before the 15th day following the mailing of the notice described in subsection (b)(2), and in accordance with such procedures as the head of the executive, judicial, or legislative agency may prescribe, files a petition requesting such a hearing.
+(c)(1) A hearing under subsection (b)(5) shall be provided prior to issuance of a garnishment order if the individual, on or before the 15th day following the mailing of the notice described in subsection (b)(2), and in accordance with such procedures as the head of the executive, judicial, or legislative agency may prescribe, files a petition requesting such a hearing.
 
 (2) If the individual does not file a petition requesting a hearing prior to such date, the head of the agency shall provide the individual a hearing under subsection (a)(5) <sup>1</sup> upon request, but such hearing need not be provided prior to issuance of a garnishment order.
 

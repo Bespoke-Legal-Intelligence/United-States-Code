@@ -18,7 +18,7 @@
 
 (d) The requirements with respect to the national fee referred to in subsection (c)(1), the translation referred to in subsection (c)(2), and the oath or declaration referred to in subsection (c)(4) of this section shall be complied with by the date of the commencement of the national stage or by such later time as may be fixed by the Director. The copy of the international application referred to in subsection (c)(2) shall be submitted by the date of the commencement of the national stage. Failure to comply with these requirements shall be regarded as abandonment of the application by the parties thereof, unless it be shown to the satisfaction of the Director that such failure to comply was unavoidable. The payment of a surcharge may be required as a condition of accepting the national fee referred to in subsection (c)(1) or the oath or declaration referred to in subsection (c)(4) of this section if these requirements are not met by the date of the commencement of the national stage. The requirements of subsection (c)(3) of this section shall be complied with by the date of the commencement of the national stage, and failure to do so shall be regarded as a cancellation of the amendments to the claims in the international application made under article 19 of the treaty. The requirement of subsection (c)(5) shall be complied with at such time as may be fixed by the Director and failure to do so shall be regarded as cancellation of the amendments made under article 34(2)(b) of the treaty.
 
-(e) After an international application has entered the national stage, no patent may begranted or refused thereon before the expiration of the applicable time limit under article 28 or article 41 of the treaty, except with the express consent of the applicant. The applicant may present amendments to the specification, claims and drawings of the application after the national stage has commenced.
+(e) After an international application has entered the national stage, no patent may be granted or refused thereon before the expiration of the applicable time limit under article 28 or article 41 of the treaty, except with the express consent of the applicant. The applicant may present amendments to the specification, claims and drawings of the application after the national stage has commenced.
 
 (f) At the express request of the applicant, the national stage of processing may be commenced at any time at which the application is in order for such purpose and the applicable requirements of subsection (c) of this section have been complied with.
 
@@ -26,15 +26,15 @@
 
 #### Amendments
 
-2002—Subsec. (d). Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
+<b>2002</b>—Subsec. (d). Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
 Pub. L. 107–273, §13206(a)(20), inserted period at end.
 
-1999—Subsec. (d). Pub. L. 106–113, as amended by Pub. L. 107–273, §13206(b)(1)(B), substituted “Director” for “Commissioner” wherever appearing.
+<b>1999</b>—Subsec. (d). Pub. L. 106–113, as amended by Pub. L. 107–273, §13206(b)(1)(B), substituted “Director” for “Commissioner” wherever appearing.
 
-1991—Subsec. (c)(1). Pub. L. 102–204 substituted “provided in section 41(a) of this title” for “prescribed under section 376(a)(4) of this part”.
+<b>1991</b>—Subsec. (c)(1). Pub. L. 102–204 substituted “provided in section 41(a) of this title” for “prescribed under section 376(a)(4) of this part”.
 
-1986—Subsec. (a). Pub. L. 99–616, §7(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Receipt from the International Bureau of copies of international applications with amendments to the claims, if any, and international search reports may be required in the case of all international applications designating the United States.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–616, §7(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Receipt from the International Bureau of copies of international applications with amendments to the claims, if any, and international search reports may be required in the case of all international applications designating the United States.”
 
 Subsec. (b). Pub. L. 99–616, §7(b), amended subsec. (b) generally, substituting “, or under article 39(1)(a) of the treaty” for “of the treaty.”
 
@@ -44,7 +44,7 @@ Subsec. (d). Pub. L. 99–616, §7(e), inserted “The requirement of subsection
 
 Subsec. (e). Pub. L. 99–616, §7(f), inserted “or article 41” after “article 28”.
 
-1984—Subsec. (a). Pub. L. 98–622, §402(a), substituted “may be” for “is” and struck out “, except those filed in the Patent Office” after “United States”, which amendment was executed by striking out “, except those filed in the Patent and Trademark Office” as the probable intent of Congress in view of the amendment by section 403(a) of Pub. L. 98–622. See Effective Date of 1984 Amendment note below.
+<b>1984</b>—Subsec. (a). Pub. L. 98–622, §402(a), substituted “may be” for “is” and struck out “, except those filed in the Patent Office” after “United States”, which amendment was executed by striking out “, except those filed in the Patent and Trademark Office” as the probable intent of Congress in view of the amendment by section 403(a) of Pub. L. 98–622. See Effective Date of 1984 Amendment note below.
 
 Pub. L. 98–622, §403(a), substituted “Patent and Trademark Office” for “Patent Office”.
 

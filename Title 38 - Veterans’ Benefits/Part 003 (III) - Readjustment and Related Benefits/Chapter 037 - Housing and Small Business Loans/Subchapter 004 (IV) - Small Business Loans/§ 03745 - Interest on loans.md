@@ -8,11 +8,11 @@
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–446 substituted “Administrator” for “Secretary” before “of the Small Business Administration”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–446 substituted “Administrator” for “Secretary” before “of the Small Business Administration”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1845 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1845 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” before “of the Small Business Administration”.
 
-1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing other than third place it appears in subsec. (a).
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing other than third place it appears in subsec. (a).
 

@@ -98,7 +98,7 @@ Section 1104(3) of the Internet Tax Freedom Act, referred to in subsec. (d), was
 
 #### Amendments
 
-1998—Subsec. (a)(1)(A)(iii). Pub. L. 105–277, §1202(1)(A), added cl. (iii).
+<b>1998</b>—Subsec. (a)(1)(A)(iii). Pub. L. 105–277, §1202(1)(A), added cl. (iii).
 
 Subsec. (a)(1)(C). Pub. L. 105–277, §1202(1)(B), added cl. (iii) and inserted “or transacted with,” after “or invested in” in concluding provisions.
 
@@ -106,13 +106,13 @@ Subsec. (a)(2)(E)(iii). Pub. L. 105–277, §1202(2), added cl. (iii).
 
 Subsec. (d). Pub. L. 105–277, §1202(3), added subsec. (d).
 
-1994—Subsec. (b)(2)(C). Pub. L. 103–465, §311(a)(1), added subpar. (C).
+<b>1994</b>—Subsec. (b)(2)(C). Pub. L. 103–465, §311(a)(1), added subpar. (C).
 
 Subsec. (b)(3). Pub. L. 103–465, §312, inserted at end “After the submission of the report required by paragraph (1), the Trade Representative shall also consult periodically with, and take into account the views of, the committees described in that paragraph regarding means to address the foreign trade barriers identified in the report, including the possible initiation of investigations under section 2412 of this title or other trade actions.”
 
 Subsec. (c)(1). Pub. L. 103–465, §311(a)(2), inserted at end “In preparing the section of the report required by subsection (b)(2)(C) of this section, the Trade Representative shall consult in particular with the Attorney General.”
 
-1988—Pub. L. 100–418, §1304(a)(10), substituted “Estimates of” for “Actions concerning” in section catchline.
+<b>1988</b>—Pub. L. 100–418, §1304(a)(10), substituted “Estimates of” for “Actions concerning” in section catchline.
 
 Subsec. (a)(1). Pub. L. 100–418, §1304(a)(1), substituted “For calendar year 1988, and for each succeeding calendar year,” for “Not later than the date on which the initial report is required under subsection (b)(1) of this section,”.
 

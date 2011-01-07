@@ -30,7 +30,7 @@ In this chapter (other than subchapter III):
 
 #### (6) Effective price
 
-&emsp;The term “effective price”, with respect to a covered commodity for a crop year, means theprice calculated by the Secretary under section 8714 of this title to determine whether counter-cyclical payments are required to be made for that crop year.
+&emsp;The term “effective price”, with respect to a covered commodity for a crop year, means the price calculated by the Secretary under section 8714 of this title to determine whether counter-cyclical payments are required to be made for that crop year.
 
 #### (7) Extra long staple cotton
 

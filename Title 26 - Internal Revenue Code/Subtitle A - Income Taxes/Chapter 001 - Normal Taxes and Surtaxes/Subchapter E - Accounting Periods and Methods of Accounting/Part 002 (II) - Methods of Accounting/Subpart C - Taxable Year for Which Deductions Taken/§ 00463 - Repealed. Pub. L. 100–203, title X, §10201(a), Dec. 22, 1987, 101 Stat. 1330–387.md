@@ -8,7 +8,7 @@ Repeal applicable to taxable years beginning after Dec. 31, 1987, see section 10
 
 #### Change in Method of Accounting Required by Pub. L. 100–203
 
-Pub. L. 100–203, title X, §10201(c)(2), Dec. 22, 1987, 101 Stat. 1330–388, provided that: “In the case of any taxpayer who elected to have section 463 of the InternalRevenue Code of 1986 apply for such taxpayer's last taxable year beginning before January 1, 1988, and who is required to change his method of accounting by reason of the amendments made by this section \[amending sections 404, 419, and 461 of this title, repealing sections 81 and 463 of this title, and enacting provisions set out as a note under section 404 of this title\]—
+Pub. L. 100–203, title X, §10201(c)(2), Dec. 22, 1987, 101 Stat. 1330–388, provided that: “In the case of any taxpayer who elected to have section 463 of the Internal Revenue Code of 1986 apply for such taxpayer's last taxable year beginning before January 1, 1988, and who is required to change his method of accounting by reason of the amendments made by this section \[amending sections 404, 419, and 461 of this title, repealing sections 81 and 463 of this title, and enacting provisions set out as a note under section 404 of this title\]—
 
 &emsp;“(A) such change shall be treated as initiated by the taxpayer,
 

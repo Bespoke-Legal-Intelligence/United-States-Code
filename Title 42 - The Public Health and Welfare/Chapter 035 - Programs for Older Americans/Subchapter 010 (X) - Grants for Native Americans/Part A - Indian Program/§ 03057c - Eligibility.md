@@ -24,5 +24,5 @@ A prior section 3057c, Pub. L. 89–73, title VI, §604, as added Pub. L. 95–4
 
 #### Amendments
 
-2000—Subsecs. (b), (c). Pub. L. 106–501 added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>2000</b>—Subsecs. (b), (c). Pub. L. 106–501 added subsec. (b) and redesignated former subsec. (b) as (c).
 

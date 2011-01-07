@@ -2,7 +2,7 @@
 
 Whoever willfully or maliciously injures, tears down or destroys any letter box or other receptacle intended or used for the receipt or delivery of mail on any mail route, or breaks open the same or willfully or maliciously injures, defaces or destroys any mail deposited therein, shall be fined under this title or imprisoned not more than three years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 779; May 24, 1949, ch. 139, §38, 63 Stat. 95; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat.2147; Pub. L. 107–273, div. B, title III, §3002(a)(2), Nov. 2, 2002, 116 Stat. 1805.)
+(June 25, 1948, ch. 645, 62 Stat. 779; May 24, 1949, ch. 139, §38, 63 Stat. 95; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–273, div. B, title III, §3002(a)(2), Nov. 2, 2002, 116 Stat. 1805.)
 
 #### Historical and Revision Notes
 
@@ -22,9 +22,9 @@ As amended by this section \[section 38\] of the bill, section 1705 of title 18,
 
 #### Amendments
 
-2002—Pub. L. 107–273 inserted “, or both” after “years”.
+<b>2002</b>—Pub. L. 107–273 inserted “, or both” after “years”.
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-1949—Act May 24, 1949, struck out reference to a “conveyance” which was not in original statute.
+<b>1949</b>—Act May 24, 1949, struck out reference to a “conveyance” which was not in original statute.
 

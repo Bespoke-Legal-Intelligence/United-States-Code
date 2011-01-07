@@ -6,11 +6,11 @@ There is hereby established a Water Resources Council (hereinafter referred to a
 
 #### Amendments
 
-1975—Pub. L. 94–112 included in the membership of the Water Resources Council, the Secretaries of Commerce, Housing and Urban Development, and Transportation and the Administrator of the Environmental Protection Agency, and terminated the membership for the Secretary of Health, Education, and Welfare.
+<b>1975</b>—Pub. L. 94–112 included in the membership of the Water Resources Council, the Secretaries of Commerce, Housing and Urban Development, and Transportation and the Administrator of the Environmental Protection Agency, and terminated the membership for the Secretary of Health, Education, and Welfare.
 
 #### Transfer of Functions
 
-“Secretary of Energy” substituted for “Chairman of the Federal Power Commission” in text pursuant to sections 301(b), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(b), 7293, and 7297 of this title, and which terminated Federal Power Commission and transferred its functions and functions of Chairman thereof (with certain exceptions) to Secretary of Energy.
+“Secretary of Energy” substituted for “Chairman of the Federal Power Commission” in text pursuant tosections 301(b), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(b), 7293, and 7297 of this title, and which terminated Federal Power Commission and transferred its functions and functions of Chairman thereof (with certain exceptions) to Secretary of Energy.
 
 #### National Water Commission
 

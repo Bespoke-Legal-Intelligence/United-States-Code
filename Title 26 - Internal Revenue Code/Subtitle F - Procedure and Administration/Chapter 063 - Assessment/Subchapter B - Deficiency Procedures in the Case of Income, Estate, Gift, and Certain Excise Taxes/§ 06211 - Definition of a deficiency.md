@@ -20,11 +20,11 @@ For purposes of this section—
 
 &emsp;(2) The term “rebate” means so much of an abatement, credit, refund, or other repayment, as was made on the ground that the tax imposed by subtitle A or B or chapter 41, 42, 43, or 44 was less than the excess of the amount specified in subsection (a)(1) over the rebates previously made.
 
-&emsp;(3) The computation by the Secretary, pursuant to section 6014, of the tax imposed by chapter 1 shall be considered as having been made by the taxpayer and the tax so computed considered as shown by the taxpayer upon his return.
+&emsp;(3) The computation by the Secretary, pursuant to section 6014, of the tax imposed bychapter 1 shall be considered as having been made by the taxpayer and the tax so computed considered as shown by the taxpayer upon his return.
 
 &emsp;(4) For purposes of subsection (a)—
 
-&emsp;&emsp;(A) any excess of the sum of the credits allowable under sections 24(d), 25A by reason of subsection (i)(6) thereof, 32, 34, 35, 36, 36A, 53(e), 168(k)(4), 6428, and 6431 over the tax imposed by subtitle A (determined without regard to such credits), and
+&emsp;&emsp;(A) any excess of the sum of the credits allowable under sections 24(d), 25A by reason of subsection (i)(6) thereof, 32, 34, 35, 36, 36A, 36B, 36C, 53(e), 168(k)(4), 6428, and 6431 over the tax imposed by subtitle A (determined without regard to such credits), and
 
 &emsp;&emsp;(B) any excess of the sum of such credits as shown by the taxpayer on his return over the amount shown as the tax by the taxpayer on such return (determined without regard to such credits),
 
@@ -34,11 +34,19 @@ For purposes of this section—
 
 In determining the amount of any deficiency for purposes of this subchapter, adjustments to partnership items shall be made only as provided in subchapters C and D.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 770; Pub. L. 89–44, title VIII, §809(d)(5)(A), June 21, 1965, 79 Stat. 168; Pub. L. 89–368, title I, §102(b)(4), Mar. 15, 1966, 80 Stat. 64; Pub. L. 91–172, title I, §101(f)(1), (j)(39), Dec. 30, 1969, 83 Stat. 524, 530; Pub. L. 93–406, title II, §1016(a)(9), Sept. 2, 1974, 88 Stat. 929; Pub. L. 94–455, title XII, §1204(c)(4), title XIII, §1307(d)(2)(E), (F)(i), title XVI, §1605(b)(4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1698, 1728, 1754, 1834; Pub. L. 96–223, title I, §101(f)(1)(A), (B), (2), (3), Apr. 2, 1980, 94 Stat. 252; Pub. L. 98–369, div. A, title IV, §474(r)(33), July 18, 1984, 98 Stat. 845; Pub. L. 100–203, title X, §10713(b)(2)(B), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 100–418, title I, §1941(b)(2)(B)(i), (ii), (C), (D), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §1015(r)(2), Nov. 10, 1988, 102 Stat. 3572; Pub. L. 105–34, title XII, §1231(b), Aug. 5, 1997, 111 Stat. 1023; Pub. L. 105–206, title VI, §6012(f), July 22, 1998, 112 Stat. 819; Pub. L. 106–554, §1(a)(7) \[title III, §314(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 109–432, div. A, title IV, §402(b)(1), Dec. 20, 2006, 120 Stat. 2954; Pub. L. 110–172, §11(a)(35), Dec. 29, 2007, 121 Stat. 2487; Pub. L. 110–185, title I, §101(b)(1), Feb. 13, 2008, 122 Stat. 615; Pub. L. 110–289, div. C, title I, §3011(b)(2), July 30, 2008, 122 Stat. 2891; Pub. L. 111–5, div. B, title I, §§1001(e)(1), 1004(b)(7), 1201(a)(3)(B), (b)(2), 1531(c)(4), Feb. 17, 2009, 123 Stat. 312, 314, 334, 360.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 770; Pub. L. 89–44, title VIII, §809(d)(5)(A), June 21, 1965, 79 Stat. 168; Pub. L. 89–368, title I, §102(b)(4), Mar. 15, 1966, 80 Stat. 64; Pub. L. 91–172, title I, §101(f)(1), (j)(39), Dec. 30, 1969, 83 Stat. 524, 530; Pub. L. 93–406, title II, §1016(a)(9), Sept. 2, 1974, 88 Stat. 929; Pub. L. 94–455, title XII, §1204(c)(4), title XIII, §1307(d)(2)(E), (F)(i), title XVI, §1605(b)(4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1698, 1728, 1754, 1834; Pub. L. 96–223, title I, §101(f)(1)(A), (B), (2), (3), Apr. 2, 1980, 94 Stat. 252; Pub. L. 98–369, div. A, title IV, §474(r)(33), July 18, 1984, 98 Stat. 845; Pub. L. 100–203, title X, §10713(b)(2)(B), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 100–418, title I, §1941(b)(2)(B)(i), (ii), (C), (D), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §1015(r)(2), Nov. 10, 1988, 102 Stat. 3572; Pub. L. 105–34, title XII, §1231(b), Aug. 5, 1997, 111 Stat. 1023; Pub. L. 105–206, title VI, §6012(f), July 22, 1998, 112 Stat. 819; Pub. L. 106–554, §1(a)(7) \[title III, §314(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 109–432, div. A, title IV, §402(b)(1), Dec. 20, 2006, 120 Stat. 2954; Pub. L. 110–172, §11(a)(35), Dec. 29, 2007, 121 Stat. 2487; Pub. L. 110–185, title I, §101(b)(1), Feb. 13, 2008, 122 Stat. 615; Pub. L. 110–289, div. C, title I, §3011(b)(2), July 30, 2008, 122 Stat. 2891; Pub. L. 111–5, div. B, title I, §§1001(e)(1), 1004(b)(7), 1201(a)(3)(B), (b)(2), 1531(c)(4), Feb. 17, 2009, 123 Stat. 312, 314, 334, 360; Pub. L. 111–148, title I, §1401(d)(3), as added title X, §§10105(d), 10909(b)(2)(N), (c), Mar. 23, 2010, 124 Stat. 906, 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 10909(c) of Pub. L. 111–148, see Effective and Termination Dates of 2010 Amendment note below.</i>
 
 #### Amendments
 
-2009—Subsec. (b)(4)(A). Pub. L. 111–5, §1531(c)(4), substituted “6428, and 6431” for “and 6428”.
+<b>2010</b>—Subsec. (b)(4)(A). Pub. L. 111–148, §10909(b)(2)(N), (c), as amended by Pub. L. 111–312, temporarily inserted “36C,” before “53(e)”. See Effective and Termination Dates of 2010 Amendment note below.
+
+Pub. L. 111–148, §1401(d)(3), as added by Pub. L. 111–148, §10105(d), inserted “36B,” after “36A,”.
+
+<b>2009</b>—Subsec. (b)(4)(A). Pub. L. 111–5, §1531(c)(4), substituted “6428, and 6431” for “and 6428”.
 
 Pub. L. 111–5, §1201(a)(3)(B), (b)(2), amended subpar. (A) identically, inserting “168(k)(4),” after “53(e),”.
 
@@ -46,25 +54,25 @@ Pub. L. 111–5, §1004(b)(7), inserted “25A by reason of subsection (i)(6) th
 
 Pub. L. 111–5, §1001(e)(1), inserted “36A,” after “36,”.
 
-2008—Subsec. (b)(4)(A). Pub. L. 110–289 substituted “34, 35, 36, 53(e), and 6428” for “34, 35, 53(e), and 6428”.
+<b>2008</b>—Subsec. (b)(4)(A). Pub. L. 110–289 substituted “34, 35, 36, 53(e), and 6428” for “34, 35, 53(e), and 6428”.
 
 Pub. L. 110–185 substituted “53(e), and 6428” for “and 53(e)”.
 
-2007—Subsec. (b)(4)(A). Pub. L. 110–172, which directed amendment of subpar. (A) by substituting “34, and 35” for “and 34”, was executed by inserting “35,” after “34,”, to reflect the probable intent of Congress and the amendment of subpar. (A) by section 402(b)(1) of Pub. L. 109–432. See 2006 Amendment note below.
+<b>2007</b>—Subsec. (b)(4)(A). Pub. L. 110–172, which directed amendment of subpar. (A) by substituting “34, and 35” for “and 34”, was executed by inserting “35,” after “34,”, to reflect the probable intent of Congress and the amendment of subpar. (A) by section 402(b)(1) of Pub. L. 109–432. See 2006 Amendment note below.
 
-2006—Subsec. (b)(4)(A). Pub. L. 109–432 substituted “34, and 53(e)” for “and 34”.
+<b>2006</b>—Subsec. (b)(4)(A). Pub. L. 109–432 substituted “34, and 53(e)” for “and 34”.
 
-2000—Subsec. (b)(4)(A). Pub. L. 106–554 substituted “sections 24(d), 32, and 34” for “sections 32 and 34”.
+<b>2000</b>—Subsec. (b)(4)(A). Pub. L. 106–554 substituted “sections 24(d), 32, and 34” for “sections 32 and 34”.
 
-1998—Subsec. (c). Pub. L. 105–206 substituted “subchapters C and D” for “subchapter C” in heading and in text.
+<b>1998</b>—Subsec. (c). Pub. L. 105–206 substituted “subchapters C and D” for “subchapter C” in heading and in text.
 
-1997—Subsec. (c). Pub. L. 105–34 added subsec. (c).
+<b>1997</b>—Subsec. (c). Pub. L. 105–34 added subsec. (c).
 
-1988—Subsec. (a). Pub. L. 100–418, §1941(b)(2)(B)(i), (C), in introductory provisions, substituted “and 44” for “44, and 45” and “or 44” for “44, or 45”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–418, §1941(b)(2)(B)(i), (C), in introductory provisions, substituted “and 44” for “44, and 45” and “or 44” for “44, or 45”.
 
 Subsec. (b)(2). Pub. L. 100–418, §1941(b)(2)(B)(ii), substituted “or 44” for “44, or 45”.
 
-Subsec. (b)(4). Pub. L. 100–647, §1015(r)(2), amended par. (4) generally. Prior to amendment, par. (4) read asfollows: “The tax imposed by subtitle A and the tax shown on the return shall both be determined without regard to the credit under section 34, unless, without regard to such credit, the tax imposed by subtitle A exceeds the excess of the amount specified in subsection (a)(1) over the amount specified in subsection (a)(2).”
+Subsec. (b)(4). Pub. L. 100–647, §1015(r)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The tax imposed by subtitle A and the tax shown on the return shall both be determined without regard to the credit under section 34, unless, without regard to such credit, the tax imposed by subtitle A exceeds the excess of the amount specified in subsection (a)(1) over the amount specified in subsection (a)(2).”
 
 Subsec. (b)(5), (6). Pub. L. 100–418, §1941(b)(2)(D), struck out pars. (5) and (6) which read as follows:
 
@@ -72,19 +80,19 @@ Subsec. (b)(5), (6). Pub. L. 100–418, §1941(b)(2)(D), struck out pars. (5) an
 
 “(6) Any liability to pay amounts required to be withheld under section 4995(a) shall not be treated as a tax imposed by chapter 45.”
 
-1987—Subsec. (b)(1). Pub. L. 100–203 inserted reference to section 6852.
+<b>1987</b>—Subsec. (b)(1). Pub. L. 100–203 inserted reference to section 6852.
 
-1984—Subsec. (b)(1). Pub. L. 98–369, §474(r)(33)(A), substituted “without regard to the credit under section 33” for “without regard to so much of the credit under section 32 as exceeds 2 percent of the interest on obligations described in section 1451”.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–369, §474(r)(33)(A), substituted “without regard to the credit under section 33” for “without regard to so much of the credit under section 32 as exceeds 2 percent of the interest on obligations described in section 1451”.
 
 Subsec. (b)(4). Pub. L. 98–369, §474(r)(33)(B), substituted “section 34” for “section 39”.
 
-1980—Subsec. (a). Pub. L. 96–223, §101(f)(1)(A), (2), inserted references to chapter 45 in provisions preceding par. (1).
+<b>1980</b>—Subsec. (a). Pub. L. 96–223, §101(f)(1)(A), (2), inserted references to chapter 45 in provisions preceding par. (1).
 
 Subsec. (b)(2). Pub. L. 96–223, §101(f)(1)(B), inserted reference to chapter 45.
 
 Subsec. (b)(5), (6). Pub. L. 96–223, §101(f)(3), added pars. (5) and (6).
 
-1976—Subsec. (a). Pub. L. 94–455, §§1307(d)(2)(E), (F)(i), 1605(b)(4)(A), (B), substituted “chapters 41, 42, 43, and 44” for “chapters 42 and 43” after “taxes imposed by” and “chapter 41, 42, 43, or 44” for “chapter 42 or 43” after “A or B, or”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1307(d)(2)(E), (F)(i), 1605(b)(4)(A), (B), substituted “chapters 41, 42, 43, and 44” for “chapters 42 and 43” after “taxes imposed by” and “chapter 41, 42, 43, or 44” for “chapter 42 or 43” after “A or B, or”.
 
 Subsec. (b)(1). Pub. L. 94–455, §1204(c)(4), struck out “and” after “31” and inserted “, and without regard to any credits resulting from the collection of amounts assessed under section 6851 (relating to termination assessments)” after “section 1451”.
 
@@ -92,17 +100,25 @@ Subsec. (b)(2). Pub. L. 94–455, §§1307(d)(2)(F)(i), 1605(b)(4)(C), substitut
 
 Subsec. (b)(3). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1974—Subsec. (a). Pub. L. 93–406, §1016(a)(9)(A), inserted reference in introductory provisions to taxes imposed by chapter 43.
+<b>1974</b>—Subsec. (a). Pub. L. 93–406, §1016(a)(9)(A), inserted reference in introductory provisions to taxes imposed by chapter 43.
 
 Subsec. (b)(2). Pub. L. 93–406, §1016(a)(9)(B), inserted reference to taxes imposed by chapter 43.
 
-1969—Subsec. (a). Pub. L. 91–172, §101(f)(1), inserted references to excise taxes and chapter 42.
+<b>1969</b>—Subsec. (a). Pub. L. 91–172, §101(f)(1), inserted references to excise taxes and chapter 42.
 
 Subsec. (b)(2). Pub. L. 91–172, §101(j)(39), inserted reference to chapter 42.
 
-1966—Subsec. (b)(1). Pub. L. 89–368 substituted “subtitle A” for “chapter 1”.
+<b>1966</b>—Subsec. (b)(1). Pub. L. 89–368 substituted “subtitle A” for “chapter 1”.
 
-1965—Subsec. (b)(4). Pub. L. 89–44 added par. (4).
+<b>1965</b>—Subsec. (b)(4). Pub. L. 89–44 added par. (4).
+
+#### Effective and Termination Dates of 2010 Amendment
+
+Amendment by section 1401(d)(3) of Pub. L. 111–148, as added by section 10105(d) of Pub. L. 111–148, applicable to taxable years ending after Dec. 31, 2013, see section 1401(e) of Pub. L. 111–148, set out as an Effective Date note under section 36B of this title.
+
+Amendment by section 10909(b)(2)(N) of Pub. L. 111–148 terminated applicable to taxable years beginning after Dec. 31, 2011, and section is amended to read as if such amendment had never been enacted, see section 10909(c) of Pub. L. 111–148, set out as a note under section 1 of this title.
+
+Amendment by section 10909(b)(2)(N) of Pub. L. 111–148 applicable to taxable years beginning after Dec. 31, 2009, see section 10909(d) of Pub. L. 111–148, set out as a note under section 1 of this title.
 
 #### Effective Date of 2009 Amendment
 

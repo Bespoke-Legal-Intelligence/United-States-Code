@@ -126,27 +126,27 @@ The enactment of the Omnibus Budget Reconciliation Act of 1990, referred to in s
 
 #### Amendments
 
-2008—Subsec. (c)(5). Pub. L. 110–458 substituted “participant or beneficiary” for “participant” wherever appearing.
+<b>2008</b>—Subsec. (c)(5). Pub. L. 110–458 substituted “participant or beneficiary” for “participant” wherever appearing.
 
-2006—Subsec. (c)(1). Pub. L. 109–280, §621(a)(1), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), in cl. (ii), inserted “, except that this clause shall not apply in connection with such participant or beneficiary for any blackout period during which the ability of such participant or beneficiary to direct the investment of the assets in his or her account is suspended by a plan sponsor or fiduciary” before period at end, and added subpars. (B) and (C).
+<b>2006</b>—Subsec. (c)(1). Pub. L. 109–280, §621(a)(1), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), in cl. (ii), inserted “, except that this clause shall not apply in connection with such participant or beneficiary for any blackout period during which the ability of such participant or beneficiary to direct the investment of the assets in his or her account is suspended by a plan sponsor or fiduciary” before period at end, and added subpars. (B) and (C).
 
 Subsec. (c)(4). Pub. L. 109–280, §621(a)(2), added par. (4).
 
 Subsec. (c)(5). Pub. L. 109–280, §624(a), added par. (5).
 
-2002—Subsec. (c)(3)(A). Pub. L. 107–147, §411(t)(1), struck out “the earlier of” after “the earlier of” in introductory provisions.
+<b>2002</b>—Subsec. (c)(3)(A). Pub. L. 107–147, §411(t)(1), struck out “the earlier of” after “the earlier of” in introductory provisions.
 
 Subsec. (c)(3)(B). Pub. L. 107–147, §411(t)(2), substituted “a transfer that” for “if the transfer”.
 
-2001—Subsec. (c)(3). Pub. L. 107–16 added par. (3).
+<b>2001</b>—Subsec. (c)(3). Pub. L. 107–16 added par. (3).
 
-1996—Subsec. (c). Pub. L. 104–188 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+<b>1996</b>—Subsec. (c). Pub. L. 104–188 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
-1990—Subsec. (a)(1)(D). Pub. L. 101–508, §12002(b)(2)(A), substituted “and subchapter III” for “or subchapter III”.
+<b>1990</b>—Subsec. (a)(1)(D). Pub. L. 101–508, §12002(b)(2)(A), substituted “and subchapter III” for “or subchapter III”.
 
 Subsec. (d). Pub. L. 101–508, §12002(b)(1), added subsec. (d).
 
-1980—Subsec. (a)(1)(D). Pub. L. 96–364 inserted reference to subchapter III of this chapter.
+<b>1980</b>—Subsec. (a)(1)(D). Pub. L. 96–364 inserted reference to subchapter III of this chapter.
 
 #### Effective Date of 2008 Amendment
 

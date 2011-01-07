@@ -22,7 +22,7 @@ Section 3(a) of the Age Discrimination in Employment Act Amendments of 1978, ref
 
 #### Amendments
 
-1978—Pub. L. 95–256 designated existing provisions as par. (1), added cls. (A) to (D), added par. (2), and added subsec. (b).
+<b>1978</b>—Pub. L. 95–256 designated existing provisions as par. (1), added cls. (A) to (D), added par. (2), and added subsec. (b).
 
 #### Study To Analyze Potential Consequences of Elimination of Mandatory Retirement on Institutions of Higher Education
 

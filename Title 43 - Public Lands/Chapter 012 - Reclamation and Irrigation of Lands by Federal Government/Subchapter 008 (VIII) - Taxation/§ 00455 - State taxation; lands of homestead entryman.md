@@ -10,7 +10,7 @@ Act of June 17, 1902, known as the Reclamation Act, referred to in text, is act 
 
 #### Amendments
 
-1930—Act June 13, 1930, inserted “and the lands of any entryman on ceded Indian lands within any Indian irrigation project,”.
+<b>1930</b>—Act June 13, 1930, inserted “and the lands of any entryman on ceded Indian lands within any Indian irrigation project,”.
 
 #### Transfer of Functions
 

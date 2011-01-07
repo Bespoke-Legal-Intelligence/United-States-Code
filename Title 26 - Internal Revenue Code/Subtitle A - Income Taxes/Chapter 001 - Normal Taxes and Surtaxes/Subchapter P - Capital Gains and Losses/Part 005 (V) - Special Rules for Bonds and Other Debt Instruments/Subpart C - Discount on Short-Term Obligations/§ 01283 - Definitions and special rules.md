@@ -8,7 +8,7 @@ For purposes of this subpart—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “short-term obligation” means anybond, debenture, note, certificate, or other evidence of indebtedness which has a fixed maturity date not more than 1 year from the date of issue.
+&emsp;&emsp;Except as provided in subparagraph (B), the term “short-term obligation” means any bond, debenture, note, certificate, or other evidence of indebtedness which has a fixed maturity date not more than 1 year from the date of issue.
 
 #### (B) Exceptions for tax-exempt obligations
 
@@ -86,7 +86,7 @@ For purposes of this subpart—
 
 #### Amendments
 
-1986—Subsec. (d)(3). Pub. L. 99–514 substituted “paragraphs (3) and (4) of section 1271(a)” for “section 1271(a)(3)”.
+<b>1986</b>—Subsec. (d)(3). Pub. L. 99–514 substituted “paragraphs (3) and (4) of section 1271(a)” for “section 1271(a)(3)”.
 
 #### Effective Date of 1986 Amendment
 

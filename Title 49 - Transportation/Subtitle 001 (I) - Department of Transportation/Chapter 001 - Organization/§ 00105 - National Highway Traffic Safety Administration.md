@@ -42,5 +42,5 @@ The text of section 201(d) of the Highway Safety Act of 1966 is omitted as execu
 
 #### Amendments
 
-1994—Subsec. (d). Pub. L. 103–272 substituted “chapter 301 of this title” for “the National Traffic and Motor Vehicle Safety Act of 1966 (15 U.S.C. 1381 et seq.)”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–272 substituted “chapter 301 of this title” for “the National Traffic and Motor Vehicle Safety Act of 1966 (15 U.S.C. 1381 et seq.)”.
 

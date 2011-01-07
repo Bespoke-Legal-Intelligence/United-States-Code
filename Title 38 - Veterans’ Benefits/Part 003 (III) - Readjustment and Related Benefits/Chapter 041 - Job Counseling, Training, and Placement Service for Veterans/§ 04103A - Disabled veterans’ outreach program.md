@@ -24,25 +24,25 @@ Part-Time Employees.—A part-time disabled veterans’ outreach program special
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–461 added subsec. (c).
+<b>2006</b>—Subsec. (c). Pub. L. 109–461 added subsec. (c).
 
-2002—Pub. L. 107–288 amended section generally, substituting subsecs. (a) and (b) for former subsecs. (a) to (c) relating to appointment, services and stationing, and functions of disabled veterans’ outreach program specialists.
+<b>2002</b>—Pub. L. 107–288 amended section generally, substituting subsecs. (a) and (b) for former subsecs. (a) to (c) relating to appointment, services and stationing, and functions of disabled veterans’ outreach program specialists.
 
-2001—Subsec. (c)(11). Pub. L. 107–95 added par. (11).
+<b>2001</b>—Subsec. (c)(11). Pub. L. 107–95 added par. (11).
 
-1998—Subsec. (a)(1). Pub. L. 105–368, in first sentence, substituted “for each 7,400 veterans who are between the ages of 20 and 64 residing in such State.” for “for each 6,900 veterans residing in such State who are either veterans of the Vietnam era, veterans who first entered on active duty as a member of the Armed Forces after May 7, 1975, or disabled veterans.”, in third sentence, struck out “of the Vietnam era” after “disabled veterans”, and struck out after third sentence “If the Secretary finds that a qualified disabled veteran of the Vietnam era is not available for any such appointment, preference for such appointment shall be given to other qualified disabled veterans.”
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–368, in first sentence, substituted “for each 7,400 veterans who are between the ages of 20 and 64 residing in such State.” for “for each 6,900 veterans residing in such State who are either veterans of the Vietnam era, veterans who first entered on active duty as a member of the Armed Forces after May 7, 1975, or disabled veterans.”, in third sentence, struck out “of the Vietnam era” after “disabled veterans”, and struck out after third sentence “If the Secretary finds that a qualified disabled veteran of the Vietnam era is not available for any such appointment, preference for such appointment shall be given to other qualified disabled veterans.”
 
 Subsec. (c)(4). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(21)(B)\], struck out “part C of title IV of the Job Training Partnership Act and” after “training programs including”.
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(29)(B)\], substituted “including part C of title IV of the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” for “(including part C of title IV of the Job Training Partnership Act (29 U.S.C. 1501 et seq.))”.
 
-1994—Subsec. (a)(1). Pub. L. 103–446 substituted “rates comparable to those paid other professionals performing essentially similar duties” for “a rate not less than the rate prescribed for an entry level professional”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–446 substituted “rates comparable to those paid other professionals performing essentially similar duties” for “a rate not less than the rate prescribed for an entry level professional”.
 
-1992—Subsec. (a)(1). Pub. L. 102–568, §501, substituted “specialist for each 6,900 veterans residing in such State who are either veterans of the Vietnam era, veterans who first entered on active duty as a member of the Armed Forces after May 7, 1975, or disabled veterans.” for “specialist for each 5,300 veterans of the Vietnam era and disabled veterans residing in such State.”
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–568, §501, substituted “specialist for each 6,900 veterans residing in such State who are either veterans of the Vietnam era, veterans who first entered on active duty as a member of the Armed Forces after May 7, 1975, or disabled veterans.” for “specialist for each 5,300 veterans of the Vietnam era and disabled veterans residing in such State.”
 
 Subsec. (b)(1)(A). Pub. L. 102–568, §503, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Services to disabled veterans of the Vietnam era who are participating in or have completed a program of vocational rehabilitation under chapter 31 of this title.”
 
-1991—Pub. L. 102–83, §5(a), renumbered section 2003A of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 2003A of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “4102A(b)(5)(A)(i)” for “2002A(b)(5)(A)(i)” in par. (1) and “4104” for “2004” in par. (2).
 
@@ -52,9 +52,9 @@ Pub. L. 102–83, §2(c)(4), substituted “7723” for “242”.
 
 Subsec. (c)(2). Pub. L. 102–83, §5(c)(1), substituted “3687” for “1787”.
 
-1989—Subsecs. (b)(2), (c)(2), (3), (8). Pub. L. 101–237 substituted “Secretary of Veterans Affairs” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
+<b>1989</b>—Subsecs. (b)(2), (c)(2), (3), (8). Pub. L. 101–237 substituted “Secretary of Veterans Affairs” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
-1988—Subsec. (a)(1). Pub. L. 100–323, §2(e)(1)(A)(i), (ii), redesignated par. (2) as (1), substituted “The amount of funds made available for use in a State under section 2002A(b)(5)(A)(i) of this title shall be sufficient to support the appointment of one disabled veterans’ outreach program specialist for each 5,300 veterans of the Vietnam era and disabled veterans residing in such State.” for “Funds provided for use in a State under this subsection shall be sufficient to support the appointment of one disabled veterans’ outreach program specialist for each 5,300 veterans of the Vietnam era and disabled veterans residing in such State.”, inserted “qualified” before “veteran” in second sentence, inserted “qualified” before “disabled” wherever appearing in third, fourth, and fifth sentences, inserted “qualified” after “any” in fifth sentence, and struck out former par. (1) which read as follows: “The Secretary of Labor, acting through the Assistant Secretary for Veterans’ Employment, shall make available for use in each State, directly or by grant or contract, such funds as may be necessary to support a disabled veterans’ outreach program designed to meet the employment needs of veterans, especially disabled veterans of the Vietnam era.”
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–323, §2(e)(1)(A)(i), (ii), redesignated par. (2) as (1), substituted “The amount of funds made available for use in a State under section 2002A(b)(5)(A)(i) of this title shall be sufficient to support the appointment of one disabled veterans’ outreach program specialist for each 5,300 veterans of the Vietnam era and disabled veterans residing in such State.” for “Funds provided for use in a State under this subsection shall be sufficient to support the appointment of one disabled veterans’ outreach program specialist for each 5,300 veterans of the Vietnam era and disabled veterans residing in such State.”, inserted “qualified” before “veteran” in second sentence, inserted “qualified” before “disabled” wherever appearing in third, fourth, and fifth sentences, inserted “qualified” after “any” in fifth sentence, and struck out former par. (1) which read as follows: “The Secretary of Labor, acting through the Assistant Secretary for Veterans’ Employment, shall make availablefor use in each State, directly or by grant or contract, such funds as may be necessary to support a disabled veterans’ outreach program designed to meet the employment needs of veterans, especially disabled veterans of the Vietnam era.”
 
 Subsec. (a)(2). Pub. L. 100–323, §2(e)(1)(A)(i), (iii), redesignated par. (4) as (2) and struck out “paragraph (2) of” after “appointed pursuant to”. Former par. (2) redesignated (1).
 
@@ -74,7 +74,7 @@ Subsec. (c)(9), (10). Pub. L. 100–323, §7(b)(3), added pars. (9) and (10).
 
 Subsec. (d). Pub. L. 100–323, §2(e)(1)(B), struck out subsec. (d) which read as follows: “The Secretary of Labor shall administer the program provided for by this section through the Assistant Secretary of Labor for Veterans’ Employment. The Secretary shall monitor the appointment of disabled veterans’ outreach program specialists to ensure compliance with the provisions of subsection (a)(2) of this section with respect to the employment of such specialists.”
 
-1982—Subsec. (a)(1). Pub. L. 97–306, §305(a)(1), (3), inserted “, acting through the Assistant Secretary for Veterans’ Employment,” after “Secretary of Labor”, and substituted “available for use in” for “available to”.
+<b>1982</b>—Subsec. (a)(1). Pub. L. 97–306, §305(a)(1), (3), inserted “, acting through the Assistant Secretary for Veterans’ Employment,” after “Secretary of Labor”, and substituted “available for use in” for “available to”.
 
 Subsec. (a)(2). Pub. L. 97–306, §305(a)(4), substituted “provided for use in” for “provided to”.
 

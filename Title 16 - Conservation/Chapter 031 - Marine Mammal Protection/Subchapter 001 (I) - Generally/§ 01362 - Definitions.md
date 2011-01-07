@@ -10,7 +10,7 @@ For the purposes of this chapter—
 
 &emsp;(C) a species or population stock is listed as an endangered species or a threatened species under the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\].
 
-(2) The terms “conservation” and “management” means the collection and application of biological information for the purposes of increasing and maintaining the number of animals within species and populations of marine mammals at their optimum sustainable population. Such terms include the entire scope of activities that constitute a modern scientific resource program, including, but not limited to, research, census, law enforcement, and habitat acquisition and improvement. Also included within these terms, when and where appropriate, is the periodic or total protection of species or populations as well as regulated taking.
+(2) The terms “conservation” and “management” mean the collection and application of biological information for the purposes of increasing and maintaining the number of animals within species and populations of marine mammals at their optimum sustainable population. Such terms include the entire scope of activities that constitute a modern scientific resource program, including, but not limited to, research, census, law enforcement, and habitat acquisition and improvement. Also included within these terms, when and where appropriate, is the periodic or total protection of species or populations as well as regulated taking.
 
 (3) The term “district court of the United States” includes the District Court of Guam, District Court of the Virgin Islands, District Court of Puerto Rico, District Court of the Canal Zone, and, in the case of American Samoa and the Trust Territory of the Pacific Islands, the District Court of the United States for the District of Hawaii.
 
@@ -22,13 +22,13 @@ For the purposes of this chapter—
 
 (7) The term “marine mammal product” means any item of merchandise which consists, or is composed in whole or in part, of any marine mammal.
 
-(8) The term “moratorium” means a complete cessation of the taking of marine mammals and a complete ban on the importation into the United States of marine mammals and marine mammal products, except as provided in this chapter.
+(8) The term “moratorium” means a complete cessation of the taking of marine mammals anda complete ban on the importation into the United States of marine mammals and marine mammal products, except as provided in this chapter.
 
 (9) The term “optimum sustainable population” means, with respect to any population stock, the number of animals which will result in the maximum productivity of the population or the species, keeping in mind the carrying capacity of the habitat and the health of the ecosystem of which they form a constituent element.
 
 (10) The term “person” includes (A) any private person or entity, and (B) any officer, employee, agent, department, or instrumentality of the Federal Government, of any State or political subdivision thereof, or of any foreign government.
 
-(11) The term “population stock” or “stock” means a group of marine mammals of the samespecies or smaller taxa in a common spatial arrangement, that interbreed when mature.
+(11) The term “population stock” or “stock” means a group of marine mammals of the same species or smaller taxa in a common spatial arrangement, that interbreed when mature.
 
 (12)(A) Except as provided in subparagraph (B), the term “Secretary” means—
 
@@ -126,21 +126,21 @@ For the purposes of this chapter—
 
 #### References in Text
 
-The Endangered Species Act of 1973, referred to in pars. (1)(C) and (19)(B), (C), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in pars. (1)(C) and (19)(B), (C), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 #### Amendments
 
-2003—Par. (18)(B) to (D). Pub. L. 108–136 added subpars. (B) to (D) and struck out former subpars. (B) and (C) which read as follows:
+<b>2003</b>—Par. (18)(B) to (D). Pub. L. 108–136 added subpars. (B) to (D) and struck out former subpars. (B) and (C) which read as follows:
 
 “(B) The term ‘Level A harassment’ means harassment described in subparagraph (A)(i).
 
 “(C) The term ‘Level B harassment’ means harassment described in subparagraph (A)(ii).”
 
-2000—Par. (12)(B). Pub. L. 106–555 inserted “(other than section 1421f–1 of this title)” after “subchapter V of this chapter”.
+<b>2000</b>—Par. (12)(B). Pub. L. 106–555 inserted “(other than section 1421f–1 of this title)” after “subchapter V of this chapter”.
 
-1997—Pars. (28), (29). Pub. L. 105–42 added pars. (28) and (29).
+<b>1997</b>—Pars. (28), (29). Pub. L. 105–42 added pars. (28) and (29).
 
-1996—Par. (15). Pub. L. 104–297, §405(b)(2), repealed Pub. L. 102–251, §304. See 1992 Amendment note below.
+<b>1996</b>—Par. (15). Pub. L. 104–297, §405(b)(2), repealed Pub. L. 102–251, §304. See 1992 Amendment note below.
 
 Pub. L. 104–297, §404(b)(3), amended par. (15) generally. Prior to amendment, par. (15) read as follows: “The term ‘waters under the jurisdiction of the United States’ means—
 
@@ -150,15 +150,15 @@ Pub. L. 104–297, §404(b)(3), amended par. (15) generally. Prior to amendment,
 
 Par. (21). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1852 of this title.
 
-1994—Par. (12)(B). Pub. L. 103–238, §24(a)(2), substituted “in section 1387 of this title and subchapter V of this chapter” for “in subchapter V of this chapter”.
+<b>1994</b>—Par. (12)(B). Pub. L. 103–238, §24(a)(2), substituted “in section 1387 of this title and subchapter V of this chapter” for “in subchapter V of this chapter”.
 
 Pars. (15) to (17). Pub. L. 103–238, §16(a), redesignated par. (15) defining “fishery”, and par. (16), as pars. (16) and (17), respectively, and struck out former par. (17) which defined “intermediary nation”.
 
 Pars. (18) to (27). Pub. L. 103–238, §12, added pars. (18) to (27).
 
-1992—Pars. (5) to (11). Pub. L. 102–582 added par. (5) and redesignated former pars. (5) to (10) as (6) to (11), respectively.
+<b>1992</b>—Pars. (5) to (11). Pub. L. 102–582 added par. (5) and redesignated former pars. (5) to (10) as (6) to (11), respectively.
 
-Par. (12). Pub. L. 102–587 substituted “(A) Except as provided in subparagraph (B), the term” for “The term”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B). See Construction of Amendment by Pub. L. 102–587 note below.
+Par. (12). Pub. L. 102–587 substituted “(A) Except as provided in subparagraph (B), the term” for “The term”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B). SeeConstruction of Amendment by Pub. L. 102–587 note below.
 
 Pub. L. 102–582 redesignated par. (11) as (12). Former par. (12) redesignated (13).
 
@@ -168,11 +168,11 @@ Par. (15). Pub. L. 102–582 redesignated par. (14), defining waters under the j
 
 Pub. L. 102–523 added par. (15) defining fishery.
 
-Pub. L. 102–251, §304, which directed the general amendment of par. (15) by reenacting the introductory provisions and subpars. (A) and (B) without substantial change and adding subpar. (C) which read “the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in thatAgreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.”, was repealed by Pub. L. 104–297, §405(b)(2).
+Pub. L. 102–251, §304, which directed the general amendment of par. (15) by reenacting the introductory provisions and subpars. (A) and (B) without substantial change and adding subpar. (C) which read “the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.”, was repealed by Pub. L. 104–297, §405(b)(2).
 
 Pars. (16), (17). Pub. L. 102–523 added pars. (16) and (17).
 
-1981—Par. (1). Pub. L. 97–58, §1(b)(2)(A), substituted a single management standard, that is, the maintenance of species at their optimum sustainable population, for the former management standard which had included the decline of a species or population stock that had declined to a significant degree over a period of years, the decline of a species or population stock which, if continued or resumed, would place the species or stock within the provisions of the Endangered Species Act of 1973, and a species or population stock that was below the optimum carrying capacity for the species or stock within its environment.
+<b>1981</b>—Par. (1). Pub. L. 97–58, §1(b)(2)(A), substituted a single management standard, that is, the maintenance of species at their optimum sustainable population, for the former management standard which had included the decline of a species or population stock that had declined to a significant degree over a period of years, the decline of a species or population stock which, if continued or resumed, would place the species or stock within the provisions of the Endangered Species Act of 1973, and a species or population stock that was below the optimum carrying capacity for the species or stock within its environment.
 
 Par. (2). Pub. L. 97–58, §1(b)(2)(B), substituted “their optimum sustainable population” for “the optimum carrying capacity of their habitat”.
 
@@ -184,9 +184,9 @@ Par. (13). Pub. L. 97–58, §1(b)(2)(C), (E), redesignated par. (14) as (13) an
 
 Pars. (14), (15). Pub. L. 97–58, §1(b)(2)(C), redesignated pars. (14) and (15) as (13) and (14), respectively.
 
-1976—Par. (15)(B). Pub. L. 94–265 substituted “the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the outer boundary is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured” for “the fisheries zone established pursuant to the Act of October 14, 1966”.
+<b>1976</b>—Par. (15)(B). Pub. L. 94–265 substituted “the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the outer boundary is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured” for “the fisheries zone established pursuant to the Act of October 14, 1966”.
 
-1973—Par. (1)(B). Pub. L. 93–205 substituted “Endangered Species Act of 1973” for “Endangered Species Conservation Act of 1969”.
+<b>1973</b>—Par. (1)(B). Pub. L. 93–205 substituted “Endangered Species Act of 1973” for “Endangered Species Conservation Act of 1969”.
 
 #### Effective Date of 1997 Amendment
 
@@ -254,9 +254,11 @@ For termination of the United States District Court for the District of the Cana
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Territorial Sea and Contiguous Zone of United States
 
 For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under section 1331 of Title 43, Public Lands.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

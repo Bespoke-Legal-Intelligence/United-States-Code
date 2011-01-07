@@ -40,9 +40,9 @@ Section was formerly set out as a note under section 5952 of Title 22, Foreign R
 
 #### Amendments
 
-2003—Subsec. (c)(1). Pub. L. 108–136, §3141(f)(4)(D), substituted “the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398)” for “this Act”.
+<b>2003</b>—Subsec. (c)(1). Pub. L. 108–136, §3141(f)(4)(D), substituted “the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398)” for “this Act”.
 
-2002—Subsec. (a). Pub. L. 107–314, §3153(a), substituted “countries where such materials” for “Russia that”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–314, §3153(a), substituted “countries where such materials” for “Russia that”.
 
 Subsec. (b)(1). Pub. L. 107–314, §3153(b)(1), inserted “in each country covered by subsection (a)” after “locations,”.
 

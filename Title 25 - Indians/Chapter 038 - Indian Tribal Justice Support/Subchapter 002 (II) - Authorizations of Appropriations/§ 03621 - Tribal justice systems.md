@@ -2,19 +2,19 @@
 
 #### (a) Office
 
-There is authorized to be appropriated to carry out the provisions of sections 3611 and 3612 of this title, $7,000,000 for each of the fiscal years 2000 through 2007. None of the funds provided under this subsection may be used for the administrative expenses of the Office.
+There is authorized to be appropriated to carry out sections 3611 and 3612 of this title, $7,000,000 for each of fiscal years 2011 through 2015. None of the funds provided under this subsection may be used for the administrative expenses of the Office.
 
 #### (b) Base support funding for tribal justice systems
 
-There is authorized to be appropriated to carry out the provisions of section 3613 of this title, $50,000,000 for each of the fiscal years 2000 through 2007.
+There is authorized to be appropriated to carry out section 3613 of this title, $50,000,000 for each of fiscal years 2011 through 2015.
 
 #### (c) Administrative expenses for Office
 
-There is authorized to be appropriated, for the administrative expenses of the Office, $500,000 for each of the fiscal years 2000 through 2007.
+There is authorized to be appropriated, for the administrative expenses of the Office, $500,000 for each of fiscal years 2011 through 2015.
 
 #### (d) Administrative expenses for tribal judicial conferences
 
-There is authorized to be appropriated, for the administrative expenses of tribal judicial conferences, $500,000 for each of the fiscal years 2000 through 2007.
+There is authorized to be appropriated, for the administrative expenses of tribal judicial conferences, $500,000 for each of fiscal years 2011 through 2015.
 
 #### (e) Survey
 
@@ -22,7 +22,7 @@ For carrying out the survey under section 3612 of this title, there is authorize
 
 #### (f) Indian priority system
 
-Funds appropriated pursuant to the authorizations provided by this section and available for a tribal justice system shall not be subject to the Indian priority system. Nothing in this chapter shall preclude a tribal government from supplementing any funds received under this chapter with funds received from any other source including the Bureau or any other Federal agency.
+Funds appropriated pursuant to the authorizations provided by this section and available for a tribal justice system shall not be subject to the Indian priority system. Nothing in this chapter shall preclude a tribal government fromsupplementing any funds received under this chapter with funds received from any other source including the Bureau or any other Federal agency.
 
 #### (g) Allocation of funds
 
@@ -32,9 +32,15 @@ In allocating funds appropriated pursuant to the authorization contained in subs
 
 No Federal agency shall offset funds made available pursuant to this chapter for tribal justice systems against other funds otherwise available for use in connection with tribal justice systems.
 
-(Pub. L. 103–176, title II, §201, Dec. 3, 1993, 107 Stat. 2009; Pub. L. 106–559, title II, §202, Dec. 21, 2000, 114 Stat. 2782.)
+(Pub. L. 103–176, title II, §201, Dec. 3, 1993, 107 Stat. 2009; Pub. L. 106–559, title II, §202, Dec. 21, 2000, 114 Stat. 2782; Pub. L. 111–211, title II, §242(a)(2), July 29, 2010, 124 Stat. 2292.)
 
 #### Amendments
 
-2000—Subsecs. (a) to (d). Pub. L. 106–559 substituted “2000 through 2007” for “1994, 1995, 1996, 1997, 1998, 1999, and 2000”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–211, §242(a)(2)(A), substituted “sections 3611 and 3612 of this title” for “the provisions of sections 3611 and 3612 of this title” and “fiscal years 2011 through 2015” for “the fiscal years 2000 through 2007”.
+
+Subsec. (b). Pub. L. 111–211, §242(a)(2)(B), substituted “section 3613 of this title” for “the provisions of section 3613 of this title” and “fiscal years 2011 through 2015” for “the fiscal years 2000 through 2007”.
+
+Subsecs. (c), (d). Pub. L. 111–211, §242(a)(2)(C), (D), substituted “fiscal years 2011 through 2015” for “the fiscal years 2000 through 2007”.
+
+<b>2000</b>—Subsecs. (a) to (d). Pub. L. 106–559 substituted “2000 through 2007” for “1994, 1995, 1996, 1997, 1998, 1999, and 2000”.
 

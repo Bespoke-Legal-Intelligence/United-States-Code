@@ -24,9 +24,9 @@ The Foreign Service Act of 1980, referred to in subsec. (d), is Pub. L. 96–465
 
 #### Amendments
 
-1999—Subsec. (a). Pub. L. 106–113 inserted at end “The Representative of the United States to the Vienna office of the United Nations shall also serve as representative of the United States to the Agency.”
+<b>1999</b>—Subsec. (a). Pub. L. 106–113 inserted at end “The Representative of the United States to the Vienna office of the United Nations shall also serve as representative of the United States to the Agency.”
 
-1980—Subsec. (d). Pub. L. 96–465 substituted “sections 401, 402, and 403 of the Foreign Service Act of 1980 for chiefs of mission, members of the Senior Foreign Service,” for “sections 866 and 867 of this title, for Chiefs of Mission” and “under the Foreign Service Act of 1980 by chiefs of mission, members of the Senior Foreign Service,” for “by Chiefs of Mission”.
+<b>1980</b>—Subsec. (d). Pub. L. 96–465 substituted “sections 401, 402, and 403 of the Foreign Service Act of 1980 for chiefs of mission, members of the Senior Foreign Service,” for “sections 866 and 867 of this title, for Chiefs of Mission” and “under the Foreign Service Act of 1980 by chiefs of mission, members of the Senior Foreign Service,” for “by Chiefs of Mission”.
 
 #### Effective Date of 1999 Amendment
 

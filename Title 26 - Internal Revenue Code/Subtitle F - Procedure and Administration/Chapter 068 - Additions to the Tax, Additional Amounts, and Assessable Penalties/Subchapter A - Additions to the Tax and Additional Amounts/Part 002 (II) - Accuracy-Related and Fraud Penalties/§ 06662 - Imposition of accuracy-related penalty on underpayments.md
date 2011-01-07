@@ -18,6 +18,10 @@ This section shall apply to the portion of any underpayment which is attributabl
 
 &emsp;(5) Any substantial estate or gift tax valuation understatement.
 
+&emsp;(6) Any disallowance of claimed tax benefits by reason of a transaction lacking economic substance (within the meaning of section 7701(<i>o</i>)) or failing to meet the requirements of any similar rule of law.
+
+&emsp;(7) Any undisclosed foreign financial asset understatement.
+
 > This section shall not apply to any portion of an underpayment on which a penalty is imposed under section 6663. Except as provided in paragraph (1) or (2)(B) of section 6662A(e), this section shall not apply to the portion of any underpayment which is attributable to a reportable transaction understatement on which a penalty is imposed under section 6662A.
 
 #### (c) Negligence
@@ -90,7 +94,7 @@ For purposes of this section, the term “negligence” includes any failure to 
 
 #### (3) Secretarial list
 
-&emsp;The Secretary may prescribe a list of positions which the Secretary believes do not meet 1 or more of the standards specified in paragraph (2)(B)(i), section 6664(d)(2), and section 6694(a)(1). Such list (and any revisions thereof) shall be published in the Federal Register or the Internal Revenue Bulletin.
+&emsp;The Secretary may prescribe a list of positions which the Secretary believes do not meet 1 or more of the standards specified in paragraph (2)(B)(i), section 6664(d)(2),<sup>1</sup> and section 6694(a)(1). Such list (and any revisions thereof) shall be published in the Federal Register or the Internal Revenue Bulletin.
 
 #### (e) Substantial valuation misstatement under chapter 1
 
@@ -98,7 +102,7 @@ For purposes of this section, the term “negligence” includes any failure to 
 
 &emsp;For purposes of this section, there is a substantial valuation misstatement under chapter 1 if—
 
-&emsp;&emsp;(A) the value of any property (or the adjusted basis of any property) claimed on any return of tax imposed by chapter 1 is 150 percent or more of the amount determined to be the correct amount of such valuation or adjusted basis (as the case may be), or
+&emsp;&emsp;(A) the value of any property (or the adjusted basis of any property) claimed on any return of tax imposed by chapter 1 is 150 percent or more of the amount determined to bethe correct amount of such valuation or adjusted basis (as the case may be), or
 
 &emsp;&emsp;(B)(i) the price for any property or services (or for the use of property) claimed on any such return in connection with any transaction between persons described in section 482 is 200 percent or more (or 50 percent or less) of the amount determined under section 482 to be the correct amount of such price, or
 
@@ -196,9 +200,43 @@ For purposes of this section, the term “negligence” includes any failure to 
 
 &emsp;&emsp;(C) any substantial estate or gift tax valuation understatement as determined under subsection (g) by substituting “40 percent” for “65 percent”.
 
-(Added Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2395; amended Pub. L. 101–508, title XI, §11312(a), (b), Nov. 5, 1990, 104 Stat. 1388–454, 1388–455; Pub. L. 103–66, title XIII, §§13236(a)–(d), 13251(a), Aug. 10, 1993, 107 Stat. 505, 506, 531; Pub. L. 103–465, title VII, §744(a), (b), Dec. 8, 1994, 108 Stat. 5011; Pub. L. 105–34, title X, §1028(c), Aug. 5, 1997, 111 Stat. 928; Pub. L. 108–357, title VIII, §§812(b), (d), (e)(1), 819(a), (b), Oct. 22, 2004, 118 Stat. 1578, 1580, 1584; Pub. L. 109–135, title IV, §§403(x)(1), 412(aaa), Dec. 21, 2005, 119 Stat. 2629, 2641; Pub. L. 109–280, title XII, §1219(a)(1), (2), Aug. 17, 2006, 120 Stat. 1083.)
+#### (j) <sup>2</sup> Undisclosed foreign financial asset understatement
+
+#### (1) In general
+
+&emsp;For purposes of this section, the term “undisclosed foreign financial asset understatement” means, for any taxable year, the portion of the understatement for such taxable year which is attributable to any transaction involving an undisclosed foreign financial asset.
+
+#### (2) Undisclosed foreign financial asset
+
+&emsp;For purposes of this subsection, the term “undisclosed foreign financial asset” means, with respect to any taxable year, any asset with respect to which information was required to be provided under section 6038, 6038B, 6038D, 6046A, or 6048 for such taxable year but was not provided by the taxpayer as required under the provisions of those sections.
+
+#### (3) Increase in penalty for undisclosed foreign financial asset understatements
+
+&emsp;In the case of any portion of an underpayment which is attributable to any undisclosed foreign financial asset understatement, subsection (a) shall be applied with respect to such portion by substituting “40 percent” for “20 percent”.
+
+#### (i) <sup>3</sup> Increase in penalty in case of nondisclosed noneconomic substance transactions
+
+#### (1) In general
+
+&emsp;In the case of any portion of an underpayment which is attributable to one or more nondisclosed noneconomic substance transactions, subsection (a) shall be applied with respect to such portion by substituting “40 percent” for “20 percent”.
+
+#### (2) Nondisclosed noneconomic substance transactions
+
+&emsp;For purposes of this subsection, the term “nondisclosed noneconomic substance transaction” means any portion of a transaction described in subsection (b)(6) with respect to which the relevant facts affecting the tax treatment are not adequately disclosed in the return nor in a statement attached to the return.
+
+#### (3) Special rule for amended returns
+
+&emsp;In no event shall any amendment or supplement to a return of tax be taken into account for purposes of this subsection if the amendment or supplement is filed after the earlier of the date the taxpayer is first contacted by the Secretary regarding the examination of the return or such other date as is specified by the Secretary.
+
+(Added Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2395; amended Pub. L. 101–508, title XI, §11312(a), (b), Nov. 5, 1990, 104 Stat. 1388–454, 1388–455; Pub. L. 103–66, title XIII, §§13236(a)–(d), 13251(a), Aug. 10, 1993, 107 Stat. 505, 506, 531; Pub. L. 103–465, title VII, §744(a), (b), Dec. 8, 1994, 108 Stat. 5011; Pub. L. 105–34, title X, §1028(c), Aug. 5, 1997, 111 Stat. 928; Pub. L. 108–357, title VIII, §§812(b), (d), (e)(1), 819(a), (b), Oct. 22, 2004, 118 Stat. 1578, 1580, 1584; Pub. L. 109–135, title IV, §§403(x)(1), 412(aaa), Dec. 21, 2005, 119 Stat. 2629, 2641; Pub. L. 109–280, title XII, §1219(a)(1), (2), Aug. 17, 2006, 120 Stat. 1083; Pub. L. 111–147, title V, §512(a), Mar. 18, 2010, 124 Stat. 110; Pub. L. 111–152, title I, §1409(b)(1), (2), Mar. 30, 2010, 124 Stat. 1068, 1069.)
+
+#### References in Text
+
+Section 6664(d)(2), referred to in subsec. (d)(3), was redesignated as section 6664(d)(3) by Pub. L. 111–152, title I, §1409(c)(2)(A), Mar. 30, 2010, 124 Stat. 1069.
 
 #### Codification
+
+Section 1409(b)(1), (2) of Pub. L. 111–152, which directed the amendment of section 6662 without specifying the act to be amended, was executed to this section, which is section 6662 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2010 Amendment notes below.
 
 Section 1219(a)(1), (2) of Pub. L. 109–280, which directed the amendment of section 6662 without specifying the act to be amended, was executed to this section, which is section 6662 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
@@ -208,7 +246,15 @@ A prior section 6662, acts Aug. 16, 1954, ch. 736, 68A Stat. 827, §6659; May 14
 
 #### Amendments
 
-2006—Subsec. (e)(1)(A). Pub. L. 109–280, §1219(a)(1)(A), substituted “150 percent” for “200 percent”. See Codification note above.
+<b>2010</b>—Subsec. (b)(6). Pub. L. 111–152, §1409(b)(1), added par. (6). See Codification note above.
+
+Subsec. (b)(7). Pub. L. 111–147, §512(a)(1), which directed amendment of subsec. (b) by adding par. (7) after par. (6), was executed by adding par. (7) after par. (5) to reflect the probable intent of Congress and the subsequent addition of par. (6) by Pub. L. 111–152. See above.
+
+Subsec. (i). Pub. L. 111–152, §1409(b)(2), added subsec. (i). See Codification note above.
+
+Subsec. (j). Pub. L. 111–147, §512(a)(2), added subsec. (j).
+
+<b>2006</b>—Subsec. (e)(1)(A). Pub. L. 109–280, §1219(a)(1)(A), substituted “150 percent” for “200 percent”. See Codification note above.
 
 Subsec. (g)(1). Pub. L. 109–280, §1219(a)(1)(B), substituted “65 percent” for “50 percent”. See Codification note above.
 
@@ -222,11 +268,11 @@ Subsec. (h)(2)(A)(i), (ii). Pub. L. 109–280, §1219(a)(2)(A), amended cls. (i)
 
 Subsec. (h)(2)(C). Pub. L. 109–280, §1219(a)(2)(B), substituted “ ‘40 percent’ for ‘65 percent’ ” for “ ‘25 percent’ for ‘50 percent’ ”. See Codification note above.
 
-2005—Subsec. (b). Pub. L. 109–135, §403(x)(1), inserted at end “Except as provided in paragraph (1) or (2)(B) of section 6662A(e), this section shall not apply to the portion of any underpayment which is attributable to a reportable transaction understatement on which a penalty is imposed under section 6662A.”
+<b>2005</b>—Subsec. (b). Pub. L. 109–135, §403(x)(1), inserted at end “Except as provided in paragraph (1) or (2)(B) of section 6662A(e), this section shall not apply to the portion of any underpayment which is attributable to a reportable transaction understatement on which a penalty is imposed under section 6662A.”
 
 Subsec. (d)(3). Pub. L. 109–135, §412(aaa), struck out “the” before “1 or more”.
 
-2004—Pub. L. 108–357, §812(e)(1), inserted “on underpayments” after “penalty” in section catchline.
+<b>2004</b>—Pub. L. 108–357, §812(e)(1), inserted “on underpayments” after “penalty” in section catchline.
 
 Subsec. (d)(1)(B). Pub. L. 108–357, §819(a), reenacted heading without change and amended text of subpar. (B) generally. Prior to amendment, text read as follows: “In the case of a corporation other than an S corporation or a personal holding company (as defined in section 542), paragraph (1) shall be applied by substituting ‘$10,000’ for ‘$5,000’.”
 
@@ -244,17 +290,17 @@ Subsec. (d)(2)(D). Pub. L. 108–357, §819(b)(2), struck out heading and text o
 
 Subsec. (d)(3). Pub. L. 108–357, §819(b)(1), added par. (3).
 
-1997—Subsec. (d)(2)(B). Pub. L. 105–34, §1028(c)(1), inserted concluding provisions.
+<b>1997</b>—Subsec. (d)(2)(B). Pub. L. 105–34, §1028(c)(1), inserted concluding provisions.
 
 Subsec. (d)(2)(C)(iii). Pub. L. 105–34, §1028(c)(2), substituted “a significant purpose” for “the principal purpose” in concluding provisions.
 
-1994—Subsec. (d)(2)(C)(i). Pub. L. 103–465, §744(b)(1), substituted “In the case of any item of a taxpayer other than a corporation which is” for “In the case of any item” in introductory provisions.
+<b>1994</b>—Subsec. (d)(2)(C)(i). Pub. L. 103–465, §744(b)(1), substituted “In the case of any item of a taxpayer other than a corporation which is” for “In the case of any item” in introductory provisions.
 
 Subsec. (d)(2)(C)(ii). Pub. L. 103–465, §744(a), added cl. (ii). Former cl. (ii) redesignated (iii).
 
 Subsec. (d)(2)(C)(iii). Pub. L. 103–465, §744(a), (b)(2), redesignated cl. (ii) as (iii) and substituted “this subparagraph” for “clause (i)” in introductory provisions.
 
-1993—Subsec. (d)(2)(B)(ii). Pub. L. 103–66, §13251(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “any item with respect to which the relevant facts affecting the item's tax treatment are adequately disclosed in the return or in a statement attached to the return.”
+<b>1993</b>—Subsec. (d)(2)(B)(ii). Pub. L. 103–66, §13251(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “any item with respect to which the relevant facts affecting the item's tax treatment are adequately disclosed in the return or in a statement attached to the return.”
 
 Subsec. (e)(1)(B)(ii). Pub. L. 103–66, §13236(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the net section 482 transfer price adjustment for the taxable year exceeds $10,000,000.”
 
@@ -268,7 +314,7 @@ Subsec. (e)(3)(D). Pub. L. 103–66, §13236(c), added subpar. (D).
 
 Subsec. (h)(2)(A)(iii). Pub. L. 103–66, §13236(d), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “ ‘$20,000,000’ for ‘$10,000,000’,”.
 
-1990—Subsec. (b)(3). Pub. L. 101–508, §11312(b)(1), amended par. (3) generally, substituting “misstatement” for “overstatement”.
+<b>1990</b>—Subsec. (b)(3). Pub. L. 101–508, §11312(b)(1), amended par. (3) generally, substituting “misstatement” for “overstatement”.
 
 Subsec. (e). Pub. L. 101–508, §11312(a), substituted “misstatement” for “overstatement” in heading and amended text generally. Prior to amendment, text read as follows:
 
@@ -280,7 +326,29 @@ In general.—For purposes of this section, there is a substantial valuation ove
 
 Limitation.—No penalty shall be imposed by reason of subsection (b)(3) unless the portion of the underpayment for the taxable year attributable to substantial valuation overstatements under chapter 1 exceeds $5,000 ($10,000 in the case of a corporation other than an S corporation or a personal holding company (as defined in section 542)).”
 
-Subsec. (h)(2)(A). Pub. L. 101–508, §11312(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “any substantial valuation overstatement under chapter 1 as determined under subsection (e) by substituting ‘400 percent’ for ‘200 percent’,”.
+Subsec. (h)(2)(A). Pub. L. 101–508, §11312(b)(2), amended subpar. (A) generally. Prior to amendment, subpar.\(A) read as follows: “any substantial valuation overstatement under chapter 1 as determined under subsection (e) by substituting ‘400 percent’ for ‘200 percent’,”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–152, title I, §1409(e), Mar. 30, 2010, 124 Stat. 1070, provided that:
+
+“(1)
+
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 6662A, 6664, 6676, and 7701 of this title\] shall apply to transactions entered into after the date of the enactment of this Act \[Mar. 30, 2010\].
+
+“(2)
+
+Underpayments.—The amendments made by subsections (b) and (c)(1) \[amending this section and sections 6662A and 6664 of this title\] shall apply to underpayments attributable to transactions entered into after the date of the enactment of this Act.
+
+“(3)
+
+Understatements.—The amendments made by subsection (c)(2) \[amending section 6664 of this title\] shall apply to understatements attributable to transactions entered into after the date of the enactment of this Act.
+
+“(4)
+
+Refunds and credits.—The amendment made by subsection (d) \[amending section 6676 of this title\] shall apply to refunds and credits attributable to transactions entered into after the date of the enactment of this Act.”
+
+Pub. L. 111–147, title V, §512(b), Mar. 18, 2010, 124 Stat. 111, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Mar. 18, 2010\].”
 
 #### Effective Date of 2006 Amendment
 
@@ -300,7 +368,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 “(2)
 
-Disqualified opinions.—Section 6664(d)(3)(B) of the Internal Revenue Code of 1986 (as added by subsection (c)) shall not apply to the opinion of a tax advisor if—
+Disqualified opinions.—Section 6664(d)(3)(B) of the Internal Revenue Code of 1986 \[now section 6664(d)(4)(B)\] (as added by subsection (c)) shall not apply to the opinion of a tax advisor if—
 
 &emsp;“(A) the opinion was provided to the taxpayer before the date of the enactment of this Act,
 
@@ -331,4 +399,10 @@ Section 11312(c) of Pub. L. 101–508 provided that: “The amendments made by t
 #### Effective Date
 
 Part applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as an Effective Date of 1989 Amendment note under section 461 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Subsec. (i) is set out after subsec. (j).</i>
+
+<i><sup>3</sup></i><i> So in original. Subsec. (j) is set out before subsec. (i).</i>
 

@@ -16,7 +16,7 @@ If SIPC determines that—
 
 &emsp;(6) such member's registration as a broker-dealer under section 78<i>o</i>(b) of this title has been terminated, or such member has consented to the use of the direct payment procedure set forth in this section,
 
-> SIPC may, in its discretion, use the direct payment procedure set forth in this section in lieuof instituting a liquidation proceeding with respect to such member.
+> SIPC may, in its discretion, use the direct payment procedure set forth in this section in lieu of instituting a liquidation proceeding with respect to such member.
 
 #### (b) Notice
 
@@ -32,7 +32,7 @@ Except as otherwise provided in this section, nothing in this section shall limi
 
 #### (e) Jurisdiction of Bankruptcy Courts
 
-After SIPC has published notice of the institution of a direct payment procedure under this section, any person aggrieved by any determination of SIPC with respect to his claim under subsection (c) of this section may, within six months following mailing by SIPC of its determination with respect to such claim, seek a final adjudication of such claim. The courts of the United States having jurisdiction over cases under title 11 shall have original and exclusive jurisdiction of any civil action for the adjudication of such claim, without regard to the citizenship of the parties or the amount in controversy. Any such action shall be brought in the judicial district where the head office of the debtor is located. Any determination of the rights of a customer under subsection (c) of this section shall not prejudice any other right or remedy of the customer against the member.
+After SIPC has published notice of the institution of a direct payment procedure under this section, any person aggrieved by any determination of SIPC with respect to his claim under subsection (c) of this section may, within six months following mailing by SIPC of its determination with respect to such claim, seek a final adjudication of such claim. The courts of the United States having jurisdiction over cases under title 11 shall have original and exclusive jurisdiction of any civil action for the adjudication of such claim, without regard to the citizenship of the parties or the amount in controversy. Any such action shall be brought in the judicial district where the head office of the debtor is located. Any determination of therights of a customer under subsection (c) of this section shall not prejudice any other right or remedy of the customer against the member.
 
 #### (f) Discontinuance of direct payment procedures
 
@@ -50,7 +50,7 @@ A prior section 10 of Pub. L. 91–598 was renumbered section 14 and is classifi
 
 #### Amendments
 
-1978—Subsec. (e). Pub. L. 95–598 substituted in heading “Bankruptcy Courts” for “District Courts” and in text “courts of the United States having jurisdiction over cases under title 11” for “district courts of the United States” and struck out “, without regard to the citizenship of the parties or the amount in controversy” after “adjudication of such claim”.
+<b>1978</b>—Subsec. (e). Pub. L. 95–598 substituted in heading “Bankruptcy Courts” for “District Courts” and in text “courts of the United States having jurisdiction over cases under title 11” for “district courts of the United States” and struck out “, without regard to the citizenship of the parties or the amount in controversy” after “adjudication of such claim”.
 
 #### Effective Date of 1978 Amendment
 

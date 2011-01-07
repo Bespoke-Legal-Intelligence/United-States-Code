@@ -38,7 +38,7 @@ Authority of the administrator.—In order to carry out any project under the pr
 
 &emsp;&emsp;(C) seek to coordinate all reviews or requirements with appropriate local, State, and Federal agencies; and
 
-&emsp;&emsp;(D) provide such technical assistance to port authorities or commissions or theirsubdivisions and agents as needed for project planning, design, and construction.
+&emsp;&emsp;(D) provide such technical assistance to port authorities or commissions or their subdivisions and agents as needed for project planning, design, and construction.
 
 &emsp;(3)
 
@@ -152,5 +152,5 @@ Section 3512 of Public Law 110–417, referred to in subsec. (c)(3)(D), is class
 
 #### Amendments
 
-2009—Subsec. (c). Pub. L. 111–84 added subsec. (c).
+<b>2009</b>—Subsec. (c). Pub. L. 111–84 added subsec. (c).
 

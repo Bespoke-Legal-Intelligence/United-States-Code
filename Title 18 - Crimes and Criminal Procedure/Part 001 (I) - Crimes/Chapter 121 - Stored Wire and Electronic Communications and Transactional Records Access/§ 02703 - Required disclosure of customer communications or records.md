@@ -26,7 +26,7 @@ Contents of Wire or Electronic Communications in a Remote Computing Service.—(
 
 (c)
 
-Records Concerning Electronic Communication Service or Remote Computing Service.—(1) A governmental entity may require a provider of electronic communication service or remote computing service to disclose a record or other information pertaining to a subscriber toor customer of such service (not including the contents of communications) only when the governmental entity—
+Records Concerning Electronic Communication Service or Remote Computing Service.—(1) A governmental entity may require a provider of electronic communication service or remote computing service to disclose a record or other information pertaining to a subscriber to or customer of such service (not including the contents of communications) only when the governmental entity—
 
 &emsp;(A) obtains a warrant issued using the procedures described in the Federal Rules of Criminal Procedure (or, in the case of a State court, issued using State warrant procedures) by a court of competent jurisdiction;
 
@@ -80,7 +80,7 @@ Period of retention.—Records referred to in paragraph (1) shall be retained fo
 
 Presence of Officer Not Required.—Notwithstanding section 3105 of this title, the presence of an officer shall not be required for service or execution of a search warrant issued in accordance with this chapter requiring disclosure by a provider of electronic communications service or remote computing service of the contents of communications or records or other information pertaining to a subscriber to or customer of such service.
 
-(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1861; amended Pub. L. 100–690, title VII, §§7038, 7039, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title XXXIII, §330003(b), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 103–414, title II, §207(a), Oct. 25, 1994, 108 Stat. 4292; Pub. L. 104–132, title VIII, §804, Apr. 24, 1996, 110 Stat. 1305; Pub. L. 104–293, title VI, §601(b), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 104–294, title VI, §605(f), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 105–184, §8, June 23, 1998, 112 Stat. 522; Pub. L. 107–56, title II, §§209(2), 210, 212(b)(1), 220(a)(1), (b), Oct. 26, 2001, 115 Stat. 283, 285, 291, 292; Pub. L. 107–273, div. B, title IV, §4005(a)(2), div. C, title I, §11010, Nov. 2, 2002, 116 Stat. 1812, 1822; Pub. L. 107–296, title II, §225(h)(1), Nov. 25, 2002, 116 Stat. 2158; Pub. L. 109–162, title XI, §1171(a)(1), Jan. 5, 2006, 119 Stat. 3123; Pub. L. 111–79, §2(1), Oct. 19, 2009, 123 Stat. 2086.)
+(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1861; amended Pub. L. 100–690, titleVII, §§7038, 7039, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title XXXIII, §330003(b), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 103–414, title II, §207(a), Oct. 25, 1994, 108 Stat. 4292; Pub. L. 104–132, title VIII, §804, Apr. 24, 1996, 110 Stat. 1305; Pub. L. 104–293, title VI, §601(b), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 104–294, title VI, §605(f), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 105–184, §8, June 23, 1998, 112 Stat. 522; Pub. L. 107–56, title II, §§209(2), 210, 212(b)(1), 220(a)(1), (b), Oct. 26, 2001, 115 Stat. 283, 285, 291, 292; Pub. L. 107–273, div. B, title IV, §4005(a)(2), div. C, title I, §11010, Nov. 2, 2002, 116 Stat. 1812, 1822; Pub. L. 107–296, title II, §225(h)(1), Nov. 25, 2002, 116 Stat. 2158; Pub. L. 109–162, title XI, §1171(a)(1), Jan. 5, 2006, 119 Stat. 3123; Pub. L. 111–79, §2(1), Oct. 19, 2009, 123 Stat. 2086.)
 
 #### References in Text
 
@@ -88,17 +88,17 @@ The Federal Rules of Criminal Procedure, referred to in subsecs. (a), (b)(1)(A),
 
 #### Amendments
 
-2009—Subsecs. (a), (b)(1)(A), (c)(1)(A). Pub. L. 111–79, which directed substitution of “(or, in the case of a State court, issued using State warrant procedures) by a court of competent jurisdiction” for “by a court with jurisdiction over the offense under investigation or an equivalent State warrant”, was executed by making the substitution for “by a court with jurisdiction over the offense under investigation or equivalent State warrant” to reflect the probable intent of Congress.
+<b>2009</b>—Subsecs. (a), (b)(1)(A), (c)(1)(A). Pub. L. 111–79, which directed substitution of “(or, in the case of a State court, issued using State warrant procedures) by a court of competent jurisdiction” for “by a court with jurisdiction over the offense under investigation or an equivalent State warrant”, was executed by making the substitution for “by a court with jurisdiction over the offense under investigation or equivalent State warrant” to reflect the probable intent of Congress.
 
-2006—Subsec. (c)(1)(C). Pub. L. 109–162 struck out “or” at end.
+<b>2006</b>—Subsec. (c)(1)(C). Pub. L. 109–162 struck out “or” at end.
 
-2002—Subsec. (c)(1)(E). Pub. L. 107–273, §4005(a)(2), realigned margins.
+<b>2002</b>—Subsec. (c)(1)(E). Pub. L. 107–273, §4005(a)(2), realigned margins.
 
 Subsec. (e). Pub. L. 107–296 inserted “, statutory authorization” after “subpoena”.
 
 Subsec. (g). Pub. L. 107–273, §11010, added subsec. (g).
 
-2001—Pub. L. 107–56, §212(b)(1)(A), substituted “Required disclosure of customer communications orrecords” for “Requirements for governmental access” in section catchline.
+<b>2001</b>—Pub. L. 107–56, §212(b)(1)(A), substituted “Required disclosure of customer communications or records” for “Requirements for governmental access” in section catchline.
 
 Subsec. (a). Pub. L. 107–56, §§209(2)(A), (B), 220(a)(1), substituted “Contents of Wire or Electronic” for “Contents of Electronic” in heading and “contents of a wire or electronic” for “contents of an electronic” in two places and “using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation” for “under the Federal Rules of Criminal Procedure” in text.
 
@@ -120,15 +120,15 @@ Subsec. (c)(3). Pub. L. 107–56, §212(b)(1)(B), redesignated par. (2) as (3).
 
 Subsec. (d). Pub. L. 107–56, §220(b), struck out “described in section 3127(2)(A)” after “court of competent jurisdiction”.
 
-1998—Subsec. (c)(1)(B)(iv). Pub. L. 105–184 added cl. (iv).
+<b>1998</b>—Subsec. (c)(1)(B)(iv). Pub. L. 105–184 added cl. (iv).
 
-1996—Subsec. (c)(1)(C). Pub. L. 104–293 inserted “local and long distance” after “address,”.
+<b>1996</b>—Subsec. (c)(1)(C). Pub. L. 104–293 inserted “local and long distance” after “address,”.
 
 Subsec. (d). Pub. L. 104–294 substituted “in section 3127(2)(A)” for “in section 3126(2)(A)”.
 
 Subsec. (f). Pub. L. 104–132 added subsec. (f).
 
-1994—Subsec. (c)(1)(B). Pub. L. 103–414, §207(a)(1)(A), redesignated cls. (ii) to (iv) as (i) to (iii), respectively, and struck out former cl. (i) which read as follows: “uses an administrative subpoena authorized by a Federal or State statute, or a Federal or State grand jury or trial subpoena;”.
+<b>1994</b>—Subsec. (c)(1)(B). Pub. L. 103–414, §207(a)(1)(A), redesignated cls. (ii) to (iv) as (i) to (iii), respectively, and struck out former cl. (i) which read as follows: “uses an administrative subpoena authorized by a Federal or State statute, or a Federal or State grand jury or trial subpoena;”.
 
 Subsec. (c)(1)(C). Pub. L. 103–414, §207(a)(1)(B), added subpar. (C).
 
@@ -136,11 +136,11 @@ Subsec. (d). Pub. L. 103–414, §207(a)(2), amended first sentence generally. P
 
 Pub. L. 103–322 substituted “section 3127(2)(A)” for “section 3126(2)(A)”.
 
-1988—Subsecs. (b)(1)(B)(i), (c)(1)(B)(i). Pub. L. 100–690, §7038, inserted “or trial” after “grand jury”.
+<b>1988</b>—Subsecs. (b)(1)(B)(i), (c)(1)(B)(i). Pub. L. 100–690, §7038, inserted “or trial” after “grand jury”.
 
 Subsec. (d). Pub. L. 100–690, §7039, inserted “may be issued by any court that is a court of competent jurisdiction set forth in section 3126(2)(A) of this title and” before “shall issue”.
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
 

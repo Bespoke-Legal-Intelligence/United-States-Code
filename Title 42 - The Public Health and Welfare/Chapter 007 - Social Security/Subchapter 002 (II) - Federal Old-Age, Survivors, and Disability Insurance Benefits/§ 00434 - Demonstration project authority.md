@@ -26,7 +26,7 @@
 
 #### (b) Requirements
 
-The experiments and demonstration projects developed under subsection (a) of this section shall be of sufficient scope and shall be carried out on a wide enough scale to permit a thorough evaluation of the alternative methods under consideration while giving assurance that the results derived from the experiments and projects will obtain generally in the operation of the disability insurance program under this subchapter without committing such program to the adoption of any particular system either locally or nationally.
+The experiments and demonstration projects developed under subsection (a) of this sectionshall be of sufficient scope and shall be carried out on a wide enough scale to permit a thorough evaluation of the alternative methods under consideration while giving assurance that the results derived from the experiments and projects will obtain generally in the operation of the disability insurance program under this subchapter without committing such program to the adoption of any particular system either locally or nationally.
 
 #### (c) Authority to waive compliance with benefits requirements
 
@@ -46,7 +46,7 @@ In the case of any experiment or demonstration project initiated under subsectio
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–203, §401(1), substituted “initiated under subsection (a) of this section on or before December 17, 2005” for “conducted under subsection (a) of this section”.
+<b>2004</b>—Subsec. (c). Pub. L. 108–203, §401(1), substituted “initiated under subsection (a) of this section on or before December 17, 2005” for “conducted under subsection (a) of this section”.
 
 Subsec. (d)(2). Pub. L. 108–203, §401(2), substituted “The authority to initiate projects under the preceding provisions of this section shall terminate on December 18, 2005.” for “The authority under the preceding provisions of this section (including any waiver granted pursuant to subsection (c) of this section) shall terminate 5 years after December 17, 1999.”
 
@@ -100,7 +100,7 @@ Final Report.—The Commissioner of Social Security shall submit to the Congress
 
 “(f)
 
-Expenditures.—Administrative expenses for demonstration projects under this section shall be paid from funds available for the administration of title II or XVIII of the Social Security Act \[subchapters II and XVIII of this chapter\], as appropriate. Benefits payable to or on behalf of individuals by reason of participation in projects under this section shall be made from the Federal Disability Insurance Trust Fund and the Federal Old-Age and Survivors Insurance Trust Fund, asdetermined appropriate by the Commissioner of Social Security, and from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund, as determined appropriate by the Secretary of Health and Human Services, from funds available for benefits under such title II or XVIII.”
+Expenditures.—Administrative expenses for demonstration projects under this section shall be paid from funds available for the administration of title II or XVIII of the Social Security Act \[subchapters II and XVIII of this chapter\], as appropriate. Benefits payable to or on behalf of individuals by reason of participation in projects under this section shall be made from the Federal Disability Insurance Trust Fund and the Federal Old-Age and Survivors Insurance Trust Fund, as determined appropriate by the Commissioner of Social Security, and from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund, as determined appropriate by the Secretary of Health and Human Services, from funds available for benefits under such title II or XVIII.”
 
 #### Study by General Accounting Office of the Impact of the Substantial Gainful Activity Limit on Return to Work
 
@@ -108,13 +108,7 @@ Pub. L. 106–170, title III, §303(c), Dec. 17, 1999, 113 Stat. 1904, provided 
 
 #### Study by the Government Accountability Office of Social Security Administration's Disability Insurance Program Demonstration Authority
 
-Pub. L. 106–170, title III, §303(e), Dec. 17, 1999, 113 Stat. 1905, provided that:
+Pub. L. 106–170, title III, §303(e), Dec. 17, 1999, 113 Stat. 1905, provided that, as soon as practicable after Dec. 17, 1999, the Comptroller General of the United States was to undertake a study to assess the results of the Social Security Administration's efforts to conduct disability demonstrations authorized under prior law as well as under 42 U.S.C. 434 and, not later than 5 years after Dec. 17, 1999, to transmit to the appropriate congressional committees a written report presenting the results of the Comptroller General's study conducted pursuant to 42 U.S.C. 434 and a recommendation as to whether the demonstration authority authorized under 42 U.S.C. 434 should be made permanent.
 
-“(1)
-
-Study.—As soon as practicable after the date of the enactment of this Act \[Dec. 17, 1999\], the Comptroller General of the United States shall undertake a study to assess the results of the Social Security Administration's efforts to conduct disability demonstrations authorized under prior law as well as under section 234 of the Social Security Act \[this section\] (as added by section 301 of this Act).
-
-“(2)
-
-Report.—Not later than 5 years after the date of the enactment of this Act \[Dec. 17, 1999\], the Comptroller General shall transmit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a written report presenting the results of the Comptroller General's study conducted pursuant to this section, together with a recommendation as to whether the demonstration authority authorized under section 234 of the Social Security Act \[this section\] (as added by section 301 of this Act) should be made permanent.”
+<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

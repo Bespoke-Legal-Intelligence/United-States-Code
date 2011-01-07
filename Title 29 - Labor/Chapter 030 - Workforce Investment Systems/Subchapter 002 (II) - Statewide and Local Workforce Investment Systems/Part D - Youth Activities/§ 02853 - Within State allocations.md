@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Governor of a State shall reserve not more than 15 percent of each of the amounts allotted to the State under section2852(b)(1)(C) of this title and paragraphs (1)(B) and (2)(B) of section 2862(b) of this title for a fiscal year for statewide workforce investment activities.
+&emsp;The Governor of a State shall reserve not more than 15 percent of each of the amounts allotted to the State under section 2852(b)(1)(C) of this title and paragraphs (1)(B) and (2)(B) of section 2862(b) of this title for a fiscal year for statewide workforce investment activities.
 
 #### (2) Use of funds
 
@@ -14,7 +14,7 @@
 
 #### (1) Methods
 
-&emsp;The Governor, acting in accordance with the State plan, and after consulting with chief elected officials in the local areas, shall allocate the funds that are allotted to the State for youth activities and statewide workforce investment activities under section 2852(b)(1)(C) of this title and are not reserved under subsection (a) of this section, in accordance with paragraph (2) or (3).
+&emsp;The Governor, acting in accordance with the State plan, and after consulting with chiefelected officials in the local areas, shall allocate the funds that are allotted to the State for youth activities and statewide workforce investment activities under section 2852(b)(1)(C) of this title and are not reserved under subsection (a) of this section, in accordance with paragraph (2) or (3).
 
 #### (2) Formula allocation
 
@@ -86,11 +86,11 @@
 
 #### (2) Amount
 
-&emsp;The amount available for reallocation for a program year is equal to the amount by whichthe unobligated balance of the local area allocation under paragraph (2)(A) or (3) of subsection (b) of this section for such activities, at the end of the program year prior to the program year for which the determination under this paragraph is made exceeds 20 percent of such allocation for the prior program year.
+&emsp;The amount available for reallocation for a program year is equal to the amount by which the unobligated balance of the local area allocation under paragraph (2)(A) or (3) of subsection (b) of this section for such activities, at the end of the program year prior to the program year for which the determination under this paragraph is made exceeds 20 percent of such allocation for the prior program year.
 
 #### (3) Reallocation
 
-&emsp;In making reallocations to eligible local areas of amounts available pursuant to paragraph (2) for a program year, the Governor shall allocate to each eligible local area within the State an amount based on the relative amount allocated to such local area under subsection (b)(3) of this section for such activities for the prior program year, as compared to the total amount allocated to all eligible local areas in the State under subsection (b)(3) of this section for such activities for such prior program year. For purposes of this paragraph, local areas that received allocations under subsection (b)(2)(A) of this section for the prior program year shall be treated as if the local areas received allocations under subsection (b)(3) of this section for such year.
+&emsp;In making reallocations to eligible local areas of amounts available pursuant to paragraph (2) for a program year, the Governor shall allocate to each eligible local area within the State an amount based on the relative amount allocated to such local area under subsection (b)(3) of this section for such activitiesfor the prior program year, as compared to the total amount allocated to all eligible local areas in the State under subsection (b)(3) of this section for such activities for such prior program year. For purposes of this paragraph, local areas that received allocations under subsection (b)(2)(A) of this section for the prior program year shall be treated as if the local areas received allocations under subsection (b)(3) of this section for such year.
 
 #### (4) Eligibility
 

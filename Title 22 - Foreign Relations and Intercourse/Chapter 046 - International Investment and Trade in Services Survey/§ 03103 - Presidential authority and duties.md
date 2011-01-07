@@ -16,7 +16,7 @@ The President shall, to the extent he deems necessary and feasible—
 
 #### (b) Benchmark survey of United States direct investment abroad and foreign direct investment in United States
 
-With respect to foreign direct investment in the United States, the President shall conduct a benchmark survey covering year 1980, a benchmark survey covering year 1987, and benchmark surveys covering every fifth year thereafter. With respect to United States direct investment abroad, the President shall conduct a benchmark survey covering year 1982, a benchmark survey covering year 1989, and benchmark surveys covering every fifth year thereafter. In conducting surveys pursuant to this subsection, the President shall, among other things and to the extent he determines necessary and feasible—
+With respect to foreign direct investment in the United States, the President shall conduct abenchmark survey covering year 1980, a benchmark survey covering year 1987, and benchmark surveys covering every fifth year thereafter. With respect to United States direct investment abroad, the President shall conduct a benchmark survey covering year 1982, a benchmark survey covering year 1989, and benchmark surveys covering every fifth year thereafter. In conducting surveys pursuant to this subsection, the President shall, among other things and to the extent he determines necessary and feasible—
 
 &emsp;(1) identify the location, nature, and magnitude of, and changes in total investment by any parent in each of its affiliates and the financial transactions between any parent and each of its affiliates;
 
@@ -32,7 +32,7 @@ With respect to foreign direct investment in the United States, the President sh
 
 (1) The President shall conduct a comprehensive benchmark survey of foreign portfolio investment in the United States at least once every five years and, for such purposes, shall (among other things and to the extent he determines necessary and feasible) determine the magnitude and aggregate value of portfolio investment, form of investments, types of investors, nationality of investors and recorded residence of foreign private holders, diversification of holdings by economic sector, and holders of record.
 
-(2) In addition to the benchmark surveys conducted pursuant to paragraph (1), the President shall annually compile currently available data on United States portfolio investment abroad including items such as data on the magnitudeand aggregate value of portfolio investment, form of investments, types of investors, nationality of investors and recorded residence of private holders, diversification of holdings by economic sector, and holders of record. The President shall submit an analysis of such data to the Congress not later than the first day of July of each year.
+(2) In addition to the benchmark surveys conducted pursuant to paragraph (1), the President shall annually compile currently available data on United States portfolio investment abroad including items such as data on the magnitude and aggregate value of portfolio investment, form of investments, types of investors, nationality of investors and recorded residence of private holders, diversification of holdings by economic sector, and holders of record. The President shall submit an analysis of such data to the Congress not later than the first day of July of each year.
 
 #### (d) Foreign agricultural and real property investment and land data system: study; submittal of findings and conclusions to Congress
 
@@ -54,17 +54,17 @@ In collecting information under this chapter, the President shall give due regar
 
 (1) The President, or the designee of the President responsible for monitoring the impact of foreign investment in the United States, coordinating implementation of United States policy on investment, and investigating foreign acquisitions under section 2170 of title 50, Appendix, may request a report from the Bureau of Economic Analysis of the Department of Commerce. When such request is made in connection with an investigation under such section 2170, the report shall be provided within 14 days after the request is made. When such request is not made in connection with an investigation under such section 2170, the report shall be provided within 60 days after the request.
 
-(2) A report requested under paragraph (1) shall contain the best available information on the extent of foreign direct investment in a given industry, including a breakdown of total investment in the industry, and any foreign government investment in the industry, by country of the foreign owner, and any other information that the Bureau of Economic Analysis or such designee of the President considers relevant. The industry information provided shall be at the most detailed level available of Standard Industrial Classification, subject to the requirements of section 3104 of this title.
+(2) A report requested under paragraph (1) shall contain the best available information onthe extent of foreign direct investment in a given industry, including a breakdown of total investment in the industry, and any foreign government investment in the industry, by country of the foreign owner, and any other information that the Bureau of Economic Analysis or such designee of the President considers relevant. The industry information provided shall be at the most detailed level available of Standard Industrial Classification, subject to the requirements of section 3104 of this title.
 
 (Pub. L. 94–472, §4, Oct. 11, 1976, 90 Stat. 2060; Pub. L. 95–381, §2, Sept. 22, 1978, 92 Stat. 726; H. Res. 89, Feb. 5, 1979; Pub. L. 97–33, §§1–3, Aug. 7, 1981, 95 Stat. 170; Pub. L. 97–70, Oct. 26, 1981, 95 Stat. 1045; Pub. L. 98–573, title III, §306(b)(3), (4), Oct. 30, 1984, 98 Stat. 3010; Pub. L. 101–533, §6(b), (c), Nov. 7, 1990, 104 Stat. 2348.)
 
 #### Amendments
 
-1990—Subsec. (a)(5). Pub. L. 101–533, §6(b), inserted before period at end “, including, with respect to foreign direct investment in the United States, information on ownership by foreign governments of United States affiliates by country, and tables, on an aggregated basis, of business enterprises the ownership or control of which by foreign persons is more than 50 percent of the voting securities or other evidences of ownership of such enterprises, and business enterprises the ownership or control of which by foreign persons is 50 percent or less of the voting securities or other evidences of ownership of such enterprises”.
+<b>1990</b>—Subsec. (a)(5). Pub. L. 101–533, §6(b), inserted before period at end “, including, with respect to foreign direct investment in the United States, information on ownership by foreign governments of United States affiliates by country, and tables, on an aggregated basis, of business enterprises the ownership or control of which by foreign persons is more than 50 percent of the voting securities or other evidences of ownership of such enterprises, and business enterprises the ownership or control of which by foreign persons is 50 percent or less of the voting securities or other evidences of ownership of such enterprises”.
 
 Subsec. (h). Pub. L. 101–533, §6(c), added subsec. (h).
 
-1984—Subsec. (a)(1), (2). Pub. L. 98–573, §306(b)(4)(A)(ii), inserted “and trade in services” after “international investment” wherever appearing.
+<b>1984</b>—Subsec. (a)(1), (2). Pub. L. 98–573, §306(b)(4)(A)(ii), inserted “and trade in services” after “international investment” wherever appearing.
 
 Subsec. (a)(3). Pub. L. 98–573, §306(b)(3), (4)(A)(i)–(iii), inserted reference to the Committee on Finance of the Senate and the Committees on Ways and Means and Energy and Commerce of the House of Representatives, and substituted “presentation” for “presentation relating to international investment”, inserted “and trade in services” after “international investment” in two places, and struck out “and” at end.
 
@@ -74,7 +74,7 @@ Subsec. (b)(2)(C). Pub. L. 98–573, §306(b)(4)(B), inserted “(including trad
 
 Subsec. (f). Pub. L. 98–573, §306(b)(4)(C), inserted “and trade in services” after “international investment”.
 
-1981—Subsec. (b). Pub. L. 97–70 substituted “year” for “calendar year” in five places in provisions preceding par. (1).
+<b>1981</b>—Subsec. (b). Pub. L. 97–70 substituted “year” for “calendar year” in five places in provisions preceding par. (1).
 
 Pub. L. 97–33, §1, substituted “With respect to foreign direct investment in the United States, the President shall conduct a benchmark survey covering calendar year 1980, a benchmark survey covering calendar year 1987, and benchmark surveys covering every fifth calendar year thereafter. With respect to United States direct investment abroad, the President shall conduct a benchmark survey covering calendar year 1982, a benchmark survey covering calendar year 1989, and benchmark surveys covering every fifth year thereafter. In conducting surveys pursuant to this subsection, the President shall,” for “With respect to the United States direct investment abroad and foreign direct investment in the United States, the President shall conduct a comprehensive benchmark survey at least once every five years and, for such purpose, shall,” in provisions preceding par (1).
 
@@ -82,9 +82,9 @@ Subsec. (c)(2). Pub. L. 97–33, §2, substituted “the President shall annuall
 
 Subsecs. (e) to (g). Pub. L. 97–33, §3, added subsec. (e) and redesignated subsecs. (e) and (f) as (f) and (g), respectively.
 
-1979—Subsec. (a)(3). H. Res. 89 changed name of Committee on International Relations of the House of Representatives to Committee on Foreign Affairs.
+<b>1979</b>—Subsec. (a)(3). H. Res. 89 changed name of Committee on International Relations of the House of Representatives to Committee on Foreign Affairs.
 
-1978—Subsec. (d). Pub. L. 95–381 substituted provisions setting forth requirements respecting interim and final reports to Congress, for provisions requiring submission of findings and conclusions to Congress not later than two years after Oct. 11, 1976.
+<b>1978</b>—Subsec. (d). Pub. L. 95–381 substituted provisions setting forth requirements respecting interim and final reports to Congress, for provisions requiring submission of findings and conclusions to Congress not later than two years after Oct. 11, 1976.
 
 #### Change of Name
 

@@ -10,5 +10,5 @@ Section was enacted as part of the National Parks and Recreation Act of 1978, an
 
 #### Amendments
 
-1980—Pub. L. 96–199 struck out proviso that additions to the park as authorized by this section shall not include any properties located between 30th Street and Thomas Jefferson Street in the northwest section of the District of Columbia.
+<b>1980</b>—Pub. L. 96–199 struck out proviso that additions to the park as authorized by this section shall not include any properties located between 30th Street and Thomas Jefferson Street in the northwest section of the District of Columbia.
 

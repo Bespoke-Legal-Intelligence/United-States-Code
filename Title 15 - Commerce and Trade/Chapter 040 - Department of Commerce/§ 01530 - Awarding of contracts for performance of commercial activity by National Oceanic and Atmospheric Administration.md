@@ -12,7 +12,7 @@ The Administration may not award any contract for the performance of any “comm
 
 #### Amendments
 
-1994—Pub. L. 103–437 in introductory provisions substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology” before “of the House”.
+<b>1994</b>—Pub. L. 103–437 in introductory provisions substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology” before “of the House”.
 
 #### Change of Name
 

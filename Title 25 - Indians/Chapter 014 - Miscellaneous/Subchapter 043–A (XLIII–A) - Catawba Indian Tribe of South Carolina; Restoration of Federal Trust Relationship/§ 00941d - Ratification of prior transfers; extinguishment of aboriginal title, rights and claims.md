@@ -32,7 +32,7 @@ The parties to the Suits shall bear their own costs and attorneys’ fees. As pr
 
 #### (h) Personal claims not affected
 
-Nothing in this section shall be deemed to affect, diminish, or eliminate the personal claimof any individual Indian which is pursued under any law of general applicability (other than Federal common law fraud) that protects non-Indians as well as Indians.
+Nothing in this section shall be deemed to affect, diminish, or eliminate the personal claim of any individual Indian which is pursued under any law of general applicability (other than Federal common law fraud) that protects non-Indians as well as Indians.
 
 #### (i) Federal payment
 
@@ -40,7 +40,7 @@ In the event any of the Federal payments are not paid as set forth in section 94
 
 #### (j) State payment
 
-In the event any of the State payments are not paid as set forth in section 941c of this title, such failure to pay shall give rise to a cause of action in the United States District Court for the District of South Carolina by the Tribe against the State of South Carolina for money damages for the amount authorized to be paid to the Tribe by the State in §27–16–50(A) of the State Act in settlement of the Tribe's claim. Pursuant to §27–16–50(E) of the State Act, the State of South Carolina waives any Eleventh Amendment immunity to such action.
+In the event any of the State payments are not paid as set forth in section 941c of this title, such failure to pay shall give rise to a cause of action in the United States District Court for the District of South Carolina by the Tribe against the State of South Carolina for money damages for the amount authorized to be paid to the Tribe by the State in §27–16–50(A) of the State Act in settlement of the Tribe's claim.Pursuant to §27–16–50(E) of the State Act, the State of South Carolina waives any Eleventh Amendment immunity to such action.
 
 (Pub. L. 103–116, §6, Oct. 27, 1993, 107 Stat. 1122.)
 

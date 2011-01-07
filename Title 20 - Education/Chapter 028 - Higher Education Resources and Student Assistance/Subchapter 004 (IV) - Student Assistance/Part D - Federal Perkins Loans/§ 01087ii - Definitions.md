@@ -2,11 +2,11 @@
 
 #### (a) Low-income communities
 
-For the purpose of this part, the term “low-income communities” means communities inwhich there is a high concentration of children eligible to be counted under title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
+For the purpose of this part, the term “low-income communities” means communities in which there is a high concentration of children eligible to be counted under title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
 
 #### (b) High-risk children
 
-For the purposes of this part, the term “high-risk children” means individuals under the age of 21 who are low-income or at risk of abuse or neglect, have been abused or neglected, have serious emotional, mental, or behavioral disturbances, reside in placements outside their homes, or are involved in the juvenile justice system.
+For the purposes of this part, the term “high-risk children” means individuals under the ageof 21 who are low-income or at risk of abuse or neglect, have been abused or neglected, have serious emotional, mental, or behavioral disturbances, reside in placements outside their homes, or are involved in the juvenile justice system.
 
 #### (c) Infants, toddlers, children, and youth with disabilities
 
@@ -20,11 +20,11 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (a), 
 
 #### Amendments
 
-2009—Subsec. (c). Pub. L. 111–39 substituted “and the term ‘early intervention services’ has the meaning given the term in section 1432 of this title.” for “and the term ‘qualified professional provider of early intervention services’ has the meaning specified in section 1472(2) of this title.”
+<b>2009</b>—Subsec. (c). Pub. L. 111–39 substituted “and the term ‘early intervention services’ has the meaning given the term in section 1432 of this title.” for “and the term ‘qualified professional provider of early intervention services’ has the meaning specified in section 1472(2) of this title.”
 
-2004—Subsec. (c). Pub. L. 108–446 substituted “sections 1401 and 1432” for “sections 1401(a)(1) and 1472(1)”.
+<b>2004</b>—Subsec. (c). Pub. L. 108–446 substituted “sections 1401 and 1432” for “sections 1401(a)(1) and 1472(1)”.
 
-1994—Subsec. (a). Pub. L. 103–382 substituted “title I” for “chapter 1 of title I”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–382 substituted “title I” for “chapter 1 of title I”.
 
 #### Effective Date of 2009 Amendment
 

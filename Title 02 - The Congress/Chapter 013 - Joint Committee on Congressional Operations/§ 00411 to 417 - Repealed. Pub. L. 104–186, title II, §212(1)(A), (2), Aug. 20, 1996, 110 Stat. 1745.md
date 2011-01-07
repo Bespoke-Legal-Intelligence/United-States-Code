@@ -12,7 +12,7 @@ Section 414, Pub. L. 91–510, title IV, §404, Oct. 26, 1970, 84 Stat. 1188, au
 
 Section 415, Pub. L. 91–510, title IV, §405, Oct. 26, 1970, 84 Stat. 1188, related to records of Joint Committee.
 
-Section 416, Pub. L. 91–510, title IV, §406, Oct. 26, 1970, 84 Stat. 1189, established Office of Placement and Office Management which was subject to supervision and control of Joint Committee.
+Section 416, Pub. L. 91–510, title IV, §406, Oct. 26, 1970, 84 Stat. 1189, established Office of Placement and OfficeManagement which was subject to supervision and control of Joint Committee.
 
 Section 417, Pub. L. 91–510, title IV, §407, Oct. 26, 1970, 84 Stat. 1189, directed that expenses of Joint Committee be paid from contingent fund of House of Representatives.
 

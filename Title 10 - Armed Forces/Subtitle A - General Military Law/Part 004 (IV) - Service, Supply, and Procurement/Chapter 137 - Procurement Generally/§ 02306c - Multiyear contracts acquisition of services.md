@@ -82,9 +82,9 @@ Military Installation Defined.—In this section, the term “military installat
 
 #### Amendments
 
-2009—Subsec. (h). Pub. L. 111–84 substituted “section 2801(c)(4)” for “section 2801(c)(2)”.
+<b>2009</b>—Subsec. (h). Pub. L. 111–84 substituted “section 2801(c)(4)” for “section 2801(c)(2)”.
 
-2004—Subsec. (d)(1), (3), (4). Pub. L. 108–375, §814(b)(1), substituted “congressional defense committees” for “committees of Congress named in paragraph (5)”.
+<b>2004</b>—Subsec. (d)(1), (3), (4). Pub. L. 108–375, §814(b)(1), substituted “congressional defense committees” for “committees of Congress named in paragraph (5)”.
 
 Subsec. (d)(5). Pub. L. 108–375, §814(b)(2), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The committees of Congress referred to in paragraphs (1), (3), and (4) are as follows:
 
@@ -92,7 +92,7 @@ Subsec. (d)(5). Pub. L. 108–375, §814(b)(2), amended par. (5) generally. Prio
 
 &emsp;“(B) The Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
 
-2003—Subsec. (g). Pub. L. 108–136, §843(a), struck out heading and text of subsec. (g). Text read as follows:
+<b>2003</b>—Subsec. (g). Pub. L. 108–136, §843(a), struck out heading and text of subsec. (g). Text read as follows:
 
 “(1) The authority and restrictions of this section, including the authority to enter into contracts for periods of not more than five years, shall apply with respect to task order and delivery order contracts entered into under the authority of section 2304a, 2304b, or 2304c of this title.
 
@@ -108,7 +108,7 @@ Additional Definitions.—In this section:
 
 &emsp;“(2) The term”.
 
-2002—Subsec. (b)(5). Pub. L. 107–314, §827(a), added par. (5).
+<b>2002</b>—Subsec. (b)(5). Pub. L. 107–314, §827(a), added par. (5).
 
 Subsec. (g). Pub. L. 107–314, §811(a), added subsec. (g).
 

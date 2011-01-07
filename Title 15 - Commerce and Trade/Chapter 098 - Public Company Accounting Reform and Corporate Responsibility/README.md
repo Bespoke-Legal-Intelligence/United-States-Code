@@ -20,6 +20,7 @@
 | [7217\.](Subchapter%20001%20%28I%29%20-%20Public%20Company%20Accounting%20Oversight%20Board/%C2%A7%2007217%20-%20Commission%20oversight%20of%20the%20Board.md) | Commission oversight of the Board. |
 | [7218\.](Subchapter%20001%20%28I%29%20-%20Public%20Company%20Accounting%20Oversight%20Board/%C2%A7%2007218%20-%20Accounting%20standards.md) | Accounting standards. |
 | [7219\.](Subchapter%20001%20%28I%29%20-%20Public%20Company%20Accounting%20Oversight%20Board/%C2%A7%2007219%20-%20Funding.md) | Funding. |
+| [7220\.](Subchapter%20001%20%28I%29%20-%20Public%20Company%20Accounting%20Oversight%20Board/%C2%A7%2007220%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

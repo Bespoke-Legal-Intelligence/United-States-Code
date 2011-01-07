@@ -20,5 +20,5 @@ A prior section 5142, acts Aug. 10, 1956, ch. 1041, 70A Stat. 288; Sept. 7, 1962
 
 #### Amendments
 
-1997—Subsec. (b). Pub. L. 105–85 struck out “, who are not on the retired list,” after “serving on active duty”.
+<b>1997</b>—Subsec. (b). Pub. L. 105–85 struck out “, who are not on the retired list,” after “serving on active duty”.
 

@@ -68,7 +68,7 @@ Low emission and energy-efficient vehicles.—
 
 &emsp;&emsp;(A)
 
-Inherently low emission vehicle.—Before September 30, 2009, the State agency may allow vehicles that are certified as inherently low-emission vehicles pursuant to section 88.311–93 of title 40, Code of Federal Regulations (or successor regulations), and are labeled in accordance with section 88.312–93 of such title (or successor regulations), to use the HOV facility if the agency establishes procedures for enforcing the restrictions on the use of the facility by the vehicles.
+Inherently low emission vehicle.—Before September 30, 2009, the State agency may allow vehicles that are certified as inherently low-emission vehicles pursuant to section 88.311–93 of title 40, Code of Federal Regulations (or successor regulations), andare labeled in accordance with section 88.312–93 of such title (or successor regulations), to use the HOV facility if the agency establishes procedures for enforcing the restrictions on the use of the facility by the vehicles.
 
 &emsp;&emsp;(B)
 
@@ -212,5 +212,5 @@ The date of enactment of this section, referred to in subsec. (e), is the date o
 
 #### Amendments
 
-2008—Subsec. (b)(5)(C). Pub. L. 110–244 substituted “paragraph (4)” for “paragraph (3)”.
+<b>2008</b>—Subsec. (b)(5)(C). Pub. L. 110–244 substituted “paragraph (4)” for “paragraph (3)”.
 

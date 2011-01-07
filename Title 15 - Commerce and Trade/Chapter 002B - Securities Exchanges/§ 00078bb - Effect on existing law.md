@@ -128,7 +128,35 @@ No State or political subdivision thereof shall impose any tax on any change in 
 
 &emsp;&emsp;Nothing in this paragraph shall be construed to affect the discretion of a State court in determining whether actions filed in such court should be joined, consolidated, or otherwise allowed to proceed as a single action.
 
-(June 6, 1934, ch. 404, title I, §28, 48 Stat. 903; Pub. L. 94–29, §21, June 4, 1975, 89 Stat. 160; Pub. L. 97–303, §4, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 100–181, title III, §§327–329, Dec. 4, 1987, 101 Stat. 1259; Pub. L. 104–290, title I, §103(b), Oct. 11, 1996, 110 Stat. 3422; Pub. L. 105–353, title I, §101(b)(1), Nov. 3, 1998, 112 Stat. 3230; Pub. L. 106–554, §1(a)(5) \[title II, §§203(a)(2), 210\], Dec. 21, 2000, 114 Stat. 2763, 2763A–422, 2763A–436.)
+(June 6, 1934, ch. 404, title I, §28, 48 Stat. 903; Pub. L. 94–29, §21, June 4, 1975, 89 Stat. 160; Pub. L. 97–303, §4, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 100–181, title III, §§327–329, Dec. 4, 1987, 101 Stat. 1259; Pub. L. 104–290, title I, §103(b), Oct. 11, 1996, 110 Stat. 3422; Pub. L. 105–353, title I, §101(b)(1), Nov. 3, 1998, 112 Stat. 3230; Pub. L. 106–554, §1(a)(5) \[title II, §§203(a)(2), 210\], Dec. 21, 2000, 114 Stat. 2763, 2763A–422, 2763A–436; Pub. L. 111–203, title VII, §767, July 21, 2010, 124 Stat. 1799.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 111–203, title VII, §§767, 774, July 21, 2010, 124 Stat. 1799, 1802, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, subsection (a) of this section is amended to read as follows:</i>
+
+#### <i>(a) Limitation on judgments</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>No person permitted to maintain a suit for damages under the provisions of this chapter shall recover, through satisfaction of judgment in 1 or more actions, a total amount in excess of the actual damages to that person on account of the act complained of. Except as otherwise specifically provided in this chapter, nothing in this chapter shall affect the jurisdiction of the securities commission (or any agency or officer performing like functions) of any State over any security or any person insofar as it does not conflict with the provisions of this chapter or the rules and regulations under this chapter.</i>
+
+#### <i>(2) Rule of construction</i>
+
+&emsp;<i>Except as provided in subsection (f), the rights and remedies provided by this chapter shall be in addition to any and all other rights and remedies that may exist at law or in equity.</i>
+
+#### <i>(3) State bucket shop laws</i>
+
+&emsp;<i>No State law which prohibits or regulates the making or promoting of wagering or gaming contracts, or the operation of “bucket shops” or other similar or related activities, shall invalidate—</i>
+
+&emsp;&emsp;<i>(A) any put, call, straddle, option, privilege, or other security subject to this chapter (except any security that has a pari-mutuel payout or otherwise is determined by the Commission, acting by rule, regulation, or order, to be appropriately subject to such laws), or apply to any activity which is incidental or related to the offer, purchase, sale, exercise, settlement, or closeout of any such security;</i>
+
+&emsp;&emsp;<i>(B) any security-based swap between eligible contract participants; or</i>
+
+&emsp;&emsp;<i>(C) any security-based swap effected on a national securities exchange registered pursuant to section 78f(b) of this title.</i>
+
+#### <i>(4) Other State provisions</i>
+
+&emsp;<i>No provision of State law regarding the offer, sale, or distribution of securities shall apply to any transaction in a security-based swap or a security futures product, except that this paragraph may not be construed as limiting any State antifraud law of general applicability. A security-based swap may not be regulated as an insurance contract under any provision of State law.</i>
 
 #### References in Text
 
@@ -138,27 +166,31 @@ The Securities Act of 1933, referred to in subsec. (f)(5)(E), is act May 27, 193
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–554, §1(a)(5) \[title II, §210\], inserted “subject to this chapter” after “privilege, or other security”, substituted “any such security” for “any such instrument, if such instrument is traded pursuant to rules and regulations of a self-regulatory organization that are filed with the Commission pursuant to section 78s(b) of this title”, and inserted at end “No provision of State law regarding the offer, sale, or distribution of securities shall apply to any transaction in a security futures product, except that this sentence shall not be construed as limiting any State antifraud law of general applicability.”
+<b>2000</b>—Subsec. (a). Pub. L. 106–554, §1(a)(5) \[title II, §210\], inserted “subject to this chapter” after “privilege, or other security”, substituted “any such security” for “any such instrument, if such instrument is traded pursuant to rules and regulations of a self-regulatory organization that are filed with the Commission pursuant to section 78s(b) of this title”, and inserted at end “No provision of State law regarding the offer, sale, or distribution of securities shall apply to any transaction in a security futures product, except that this sentence shall not be construed as limiting any State antifraud law of general applicability.”
 
 Subsec. (e)(4). Pub. L. 106–554, §1(a)(5) \[title II, §203(a)(2)\], added par. (4).
 
-1998—Subsec. (a). Pub. L. 105–353, §101(b)(1)(A), substituted “Except as provided in subsection (f) of this section, the rights and remedies” for “The rights and remedies”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–353, §101(b)(1)(A), substituted “Except as provided in subsection (f) of this section, the rights and remedies” for “The rights and remedies”.
 
 Subsec. (f). Pub. L. 105–353, §101(b)(1)(B), added subsec. (f).
 
-1996—Subsec. (a). Pub. L. 104–290 substituted “Except as otherwise specifically provided in this chapter, nothing” for “Nothing”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–290 substituted “Except as otherwise specifically provided in this chapter, nothing” for “Nothing”.
 
-1987—Subsec. (c). Pub. L. 100–181, §327, substituted “on” for “or” after “self-regulatory organization”.
+<b>1987</b>—Subsec. (c). Pub. L. 100–181, §327, substituted “on” for “or” after “self-regulatory organization”.
 
 Subsec. (d). Pub. L. 100–181, §328, substituted “change in beneficial” for “change is beneficial”.
 
 Subsec. (e)(1). Pub. L. 100–181, §329, substituted “subsequent to the date of enactment of the Securities Acts Amendments of 1975” for “subsequent to the date of enactment of the Securities Acts Amendments in 1975”, which for purposes of codification was translated as “subsequent to June 4, 1975,” thus requiring no change in text.
 
-1982—Subsec. (a). Pub. L. 97–303 inserted provision that no State law which prohibits or regulates the making or promoting of wagering or gaming contracts, or the operation of “bucket shops” or other similar or related activities, shall invalidate any put, call, straddle, option, privilege, or other security, or apply to any activity which is incidental or related to the offer, purchase, sale, exercise, settlement, or closeout of any such instrument, if such instrument is traded pursuant to rules and regulations of a self-regulatory organization that are filed with the Commission pursuant to section 78s(b) of this title.
+<b>1982</b>—Subsec. (a). Pub. L. 97–303 inserted provision that no State law which prohibits or regulates the making or promoting of wagering or gaming contracts, or the operation of “bucket shops” or other similar or related activities, shall invalidate any put, call, straddle, option, privilege, or other security, or apply to any activity which is incidental or related to the offer, purchase, sale, exercise, settlement, or closeout of any such instrument, if such instrument is traded pursuant to rules and regulations of a self-regulatory organization that are filed with the Commission pursuant to section 78s(b) of this title.
 
-1975—Subsec. (b). Pub. L. 94–29, §21(1), struck out provisions that nothing in this chapter be construed to modify existing law with regard to the binding effect on any member of an exchange of any disciplinary action taken by the authorities of an exchange and made the remaining provisions applicable to all members of and participants in all self-regulatory organizations as well as municipal securities professionals.
+<b>1975</b>—Subsec. (b). Pub. L. 94–29, §21(1), struck out provisions that nothing in this chapter be construed to modify existing law with regard to the binding effect on any member of an exchange of any disciplinary action taken by the authorities of an exchange and made the remaining provisions applicable to all members of and participants in all self-regulatory organizations as well as municipal securities professionals.
 
 Subsecs. (c) to (e). Pub. L. 94–29, §21(2), added subsecs. (c) to (e).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
 
 #### Effective Date of 1998 Amendment
 

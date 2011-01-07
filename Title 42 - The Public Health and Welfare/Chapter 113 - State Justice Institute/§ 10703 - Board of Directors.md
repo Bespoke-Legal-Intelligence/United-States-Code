@@ -16,7 +16,7 @@
 
 (4) In addition to those members appointed under paragraph (3), the President shall appoint four members from the public sector to serve on the Board.
 
-(5) The President shall make the initial appointments of members of the Board under this subsection within ninety days after October 1, 1985. In the case of any other appointment of a member, the President shall make the appointment not later than ninety days after the previous term expires or the vacancy occurs, as the case may be. The Conference of Chief Justices shall submit lists of candidates under paragraph\(3) in a timely manner so that the appointments can be made within the time periods specified in this paragraph.
+(5) The President shall make the initial appointments of members of the Board under this subsection within ninety days after October 1, 1985. In the case of any other appointment of a member, the President shall make the appointment not later than ninety days after the previous term expires or the vacancy occurs, as the case may be. The Conference of Chief Justices shall submit lists of candidates under paragraph (3) in a timely manner so that the appointments can be made within the time periods specified in this paragraph.
 
 (6) The initial members of the Board of Directors shall be the incorporators of the Institute and shall determine the State in which the Institute is to be incorporated.
 
@@ -78,11 +78,15 @@ In its direction and supervision of the activities of the Institute, the Board s
 
 (Pub. L. 98–620, title II, §204, Nov. 8, 1984, 98 Stat. 3337; Pub. L. 102–572, title VIII, §803(a), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 108–372, §3(c), Oct. 25, 2004, 118 Stat. 1754.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a)(3) and (j), was in the original “this title”, meaning title II of Pub. L. 98–620, Nov. 8, 1984, 98 Stat. 3336, known as the State Justice Institute Act of 1984, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 10701 of this title and Tables.
+
 #### Amendments
 
-2004—Subsec. (j). Pub. L. 108–372 inserted “(on any occasion on which that committee has been delegated the authority to act on behalf of the Board)” after “executive committee of the Board”.
+<b>2004</b>—Subsec. (j). Pub. L. 108–372 inserted “(on any occasion on which that committee has been delegated the authority to act on behalf of the Board)” after “executive committee of the Board”.
 
-1992—Subsec. (a)(3). Pub. L. 102–572 substituted “Conference” for “conference” after “whom the” in second sentence.
+<b>1992</b>—Subsec. (a)(3). Pub. L. 102–572 substituted “Conference” for “conference” after “whom the” in second sentence.
 
 #### Effective Date of 1992 Amendment
 

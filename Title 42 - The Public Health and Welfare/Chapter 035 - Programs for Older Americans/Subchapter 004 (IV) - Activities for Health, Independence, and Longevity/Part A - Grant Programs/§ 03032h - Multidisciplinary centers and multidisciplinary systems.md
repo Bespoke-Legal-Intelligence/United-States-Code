@@ -106,7 +106,7 @@
 
 #### Amendments
 
-2006—Pub. L. 109–365, §408(1)–(6), substituted “Multidisciplinary centers and multidisciplinary systems” for “Multidisciplinary centers” in section catchline, redesignated subsecs. (a) to (c) as pars. (1) to (3), respectively, of subsec. (a), in subsec. (a) inserted heading, redesignated former pars. and subpars. as subpars. and cls., respectively, made conforming amendments to internal references, and realigned margins.
+<b>2006</b>—Pub. L. 109–365, §408(1)–(6), substituted “Multidisciplinary centers and multidisciplinary systems” for “Multidisciplinary centers” in section catchline, redesignated subsecs. (a) to (c) as pars. (1) to (3), respectively, of subsec. (a), in subsec. (a) inserted heading, redesignated former pars. and subpars. as subpars. and cls., respectively, made conforming amendments to internal references, and realigned margins.
 
 Subsec. (a)(1). Pub. L. 109–365, §408(7)(A), inserted “diverse populations of older individuals residing in urban communities,” after “minority populations,”.
 

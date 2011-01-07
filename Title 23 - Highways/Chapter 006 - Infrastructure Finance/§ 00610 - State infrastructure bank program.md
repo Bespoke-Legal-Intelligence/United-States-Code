@@ -36,7 +36,7 @@ Capitalization.—The term “capitalization” means the process used for depos
 
 &emsp;(5)
 
-Cooperative agreement.—The term “cooperative agreement” means written consent between a State and the Secretary which sets forth the manner in which the infrastructure bank established by the State in accordance with this section will be administered.
+Cooperative agreement.—The term “cooperative agreement” means written consent between a State and the Secretary which setsforth the manner in which the infrastructure bank established by the State in accordance with this section will be administered.
 
 &emsp;(6)
 
@@ -162,7 +162,7 @@ In general.—The requirements of this title and title 49 that would otherwise a
 
 &emsp;&emsp;(B) projects assisted by the bank through the use of the funds,
 
-> &emsp;except to the extent that the Secretary determines that any requirement of such title\(other than sections 113 and 114 of this title and section 5333 of title 49) is not consistent with the objectives of this section.
+> &emsp;except to the extent that the Secretary determines that any requirement of such title (other than sections 113 and 114 of this title and section 5333 of title 49) is not consistent with the objectives of this section.
 
 &emsp;(2)
 
@@ -184,9 +184,9 @@ Program Administration.—For each of fiscal years 2005 through 2009, a State ma
 
 #### Amendments
 
-2008—Pub. L. 110–244 amended Pub. L. 109–59, §1602(d). See 2005 Amendment note below.
+<b>2008</b>—Pub. L. 110–244 amended Pub. L. 109–59, §1602(d). See 2005 Amendment note below.
 
-2005—Pub. L. 109–59, as amended by Pub. L. 110–244, renumbered section 190 of this title as this section.
+<b>2005</b>—Pub. L. 109–59, as amended by Pub. L. 110–244, renumbered section 190 of this title as this section.
 
 #### Effective Date of 2008 Amendment
 

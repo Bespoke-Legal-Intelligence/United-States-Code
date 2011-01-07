@@ -20,7 +20,7 @@
 
 #### (B) Subsequent years
 
-&emsp;&emsp;For each year subsequent to the initial fiscal year described in subparagraph (A), the director of the designated State unit shall continue to have the authority to award such grants under this section if the Commissioner determines that the State continues to earmark the amount of State funds described in subparagraph (A)(i). If the Statedoes not continue to earmark such an amount for a fiscal year, the State shall be ineligible to make grants under this section after a final year following such fiscal year, as defined in accordance with regulations established by the Commissioner, and for each subsequent fiscal year.
+&emsp;&emsp;For each year subsequent to the initial fiscal year described in subparagraph (A), thedirector of the designated State unit shall continue to have the authority to award such grants under this section if the Commissioner determines that the State continues to earmark the amount of State funds described in subparagraph (A)(i). If the State does not continue to earmark such an amount for a fiscal year, the State shall be ineligible to make grants under this section after a final year following such fiscal year, as defined in accordance with regulations established by the Commissioner, and for each subsequent fiscal year.
 
 #### (2) Grants by designated State units
 
@@ -80,7 +80,7 @@ In the administration of the provisions of this section, the director of the des
 
 #### (e) Order of priorities
 
-Unless the director of the designated State unit and the chairperson of the Council or otherindividual designated by the Council acting on behalf of and at the direction of the Council jointly agree on another order of priority, the director shall be guided by the following order of priorities in allocating funds among centers for independent living within a State, to the extent funds are available:
+Unless the director of the designated State unit and the chairperson of the Council or other individual designated by the Council acting on behalf of and at the direction of the Council jointly agree on another order of priority, the director shall be guided by the following order of priorities in allocating funds among centers for independent living within a State, to the extent funds are available:
 
 &emsp;(1) The director of the designated State unit shall support existing centers for independent living, as described in subsection (c) of this section, that comply with the standards and assurances set forth in section 796f–4 of this title, at the level of funding for the previous year.
 
@@ -125,4 +125,16 @@ This subpart, referred to in subsec. (c), means subpart 3 (§796f et seq.) of pa
 #### Prior Provisions
 
 A prior section 796f–2, Pub. L. 93–112, title VII, §723, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992, 106 Stat. 4458; amended Pub. L. 103–73, title I, §114(j), Aug. 11, 1993, 107 Stat. 731, related to grants to centers for independent living in States in which State funding equals or exceeds Federal funding, prior to the general amendment of this subchapter by Pub. L. 105–220.
+
+#### Grants to Centers for Independent Living in States in Which State Funding Equals or Exceeds Federal Funding
+
+Pub. L. 111–213, §2(b), July 29, 2010, 124 Stat. 2344, provided that: “In awarding funds to existing centers for independent living (described in section 723(c) of the Rehabilitation Act of 1973 (29 U.S.C. 796f–2(c))) in a State, the director of the designated State unit that has approval to make such awards—
+
+&emsp;“(1) in fiscal year 2010—
+
+&emsp;&emsp;“(A) may distribute among such centers funds appropriated for the centers for independent living program under part C of title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796f et seq.) by any Act other than the American Recovery and Reinvestment Act of 2009 \[Pub. L. 111–5\] in the same proportion as such funds were distributed among such centers in the State in fiscal year 2009, notwithstanding section 723(e) of the Rehabilitation Act of 1973 (29 U.S.C. 796f–2(e)) and any contrary provision of a State plan submitted under section 704 of such Act (29 U.S.C. 796c); and
+
+&emsp;&emsp;“(B) may disregard any funds provided to such centers from funds appropriated by the American Recovery and Reinvestment Act of 2009 for the centers for independent living program under part C of title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796f et seq.); and
+
+&emsp;“(2) in fiscal year 2011 and subsequent fiscal years, may disregard any funds provided to such centers from funds appropriated by the American Recovery and Reinvestment Act of 2009 for the centers for independent living program under part C of title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796f et seq.).”
 

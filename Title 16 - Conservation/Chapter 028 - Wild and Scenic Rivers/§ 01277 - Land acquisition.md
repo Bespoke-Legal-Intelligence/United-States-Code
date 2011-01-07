@@ -12,7 +12,7 @@ If 50 per centum or more of the entire acreage outside the ordinary high water m
 
 #### (c) Curtailment of condemnation power in urban areas covered by valid and satisfactory zoning ordinances
 
-Neither the Secretary of the Interior nor the Secretary of Agriculture may acquire lands by condemnation, for the purpose of including such lands in any national wild, scenic or recreational river area, if such lands are located within any incorporated city, village, or borough which has in force and applicable to such lands a duly adopted, valid zoning ordinance that conforms with the purposes of this chapter. In order to carry out the provisions of this subsection the appropriate Secretary shall issue guidelines, specifying standards for local zoning ordinances, which are consistent with the purposes of this chapter. The standards specified in such guidelines shall have the object of (A) prohibiting new commercial or industrial uses other than commercial or industrial uses which are consistent with the purposes of this chapter, and (B) the protection of the bank lands by means of acreage, frontage, and setback requirements on development.
+Neither the Secretary of the Interior nor the Secretary of Agriculture may acquire lands by condemnation, for the purpose of including such lands in any national wild, scenic or recreational river area, if such lands are located within any incorporated city, village, or borough which has in force and applicable to such lands a duly adopted, valid zoning ordinance that conforms with the purposes of this chapter. In order to carry out the provisions of this subsection the appropriate Secretary shall issue guidelines, specifying standards for local zoning ordinances, which are consistent with the purposes of this chapter. The standards specified in such guidelines shall have the object of (A) prohibiting new commercial or industrial uses other than commercial or industrial uses whichare consistent with the purposes of this chapter, and (B) the protection of the bank lands by means of acreage, frontage, and setback requirements on development.
 
 #### (d) Exchange of property
 
@@ -38,11 +38,11 @@ The appropriate Secretary is authorized to accept donations of lands and interes
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–590, §504(b), (c), designated existing provisions as par. (1), inserted provisions relating to acquisition of lands by exchange in accordance with subsec. (d) of this section, and added par. (2).
+<b>1986</b>—Subsec. (a). Pub. L. 99–590, §504(b), (c), designated existing provisions as par. (1), inserted provisions relating to acquisition of lands by exchange in accordance with subsec. (d) of this section, and added par. (2).
 
 Subsec. (b). Pub. L. 99–590, §504(d), inserted requirement that acreage be outside ordinary high water mark on both sides of the river, and inserted “in fee title” after “owned”.
 
 Subsec. (e). Pub. L. 99–590, §504(a), substituted “Congress is” for “Congress in”.
 
-1978—Subsec. (g)(3). Pub. L. 95–625 inserted “(except where a different date is specifically provided by law with respect to any particular river)”.
+<b>1978</b>—Subsec. (g)(3). Pub. L. 95–625 inserted “(except where a different date is specifically provided by law with respect to any particular river)”.
 

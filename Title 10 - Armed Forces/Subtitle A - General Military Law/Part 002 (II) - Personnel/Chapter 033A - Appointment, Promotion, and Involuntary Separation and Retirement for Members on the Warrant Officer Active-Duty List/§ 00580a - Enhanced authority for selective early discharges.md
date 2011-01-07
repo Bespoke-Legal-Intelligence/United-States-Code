@@ -22,7 +22,7 @@
 
 &emsp;(B) in each grade, year group, or specialty (or combination thereof) in each competitive category.
 
-(3) The total number of regular warrant officers described in subsection (b) from any of the armed forces (or from any of the armed forces in a particular grade) who may be recommended during a fiscal year for discharge by a selection board convened pursuant to the authority of that subsection may not exceed 70 percent of the decrease, as compared to the preceding fiscal year, in the number of warrant officers of that armed force (or the number of warrant officers of that armed force in that grade) authorized to be serving on active duty as of the end of that fiscal year.
+(3) The total number of regular warrant officers described in subsection (b) from any of thearmed forces (or from any of the armed forces in a particular grade) who may be recommended during a fiscal year for discharge by a selection board convened pursuant to the authority of that subsection may not exceed 70 percent of the decrease, as compared to the preceding fiscal year, in the number of warrant officers of that armed force (or the number of warrant officers of that armed force in that grade) authorized to be serving on active duty as of the end of that fiscal year.
 
 (4) A warrant officer who is recommended for discharge by a selection board convened pursuant to subsection (b) and whose discharge is approved by the Secretary concerned shall be discharged on a date specified by the Secretary concerned.
 
@@ -32,13 +32,13 @@
 
 (e) This section applies to the Secretary of Homeland Security in the same manner and to the same extent as it applies to the Secretary of Defense. The Commandant of the Coast Guard shall take the action set forth in subsection (b) with respect to regular warrant officers of the Coast Guard.
 
-(Added Pub. L. 103–160, div. A, title V, §504(a), Nov. 30, 1993, 107 Stat. 1644; amended Pub. L.103–337, div. A, title V, §541(g), title X, §1070(a)(3), Oct. 5, 1994, 108 Stat. 2767, 2855; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 103–160, div. A, title V, §504(a), Nov. 30, 1993, 107 Stat. 1644; amended Pub. L. 103–337, div. A, title V, §541(g), title X, §1070(a)(3), Oct. 5, 1994, 108 Stat. 2767, 2855; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Amendments
 
-2002—Subsec. (e). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (e). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1994—Subsec. (a). Pub. L. 103–337, §1070(a)(3), substituted “November 30, 1993,” for “the date of the enactment of this section”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337, §1070(a)(3), substituted “November 30, 1993,” for “the date of the enactment of this section”.
 
 Subsec. (e). Pub. L. 103–337, §541(g), added subsec. (e).
 

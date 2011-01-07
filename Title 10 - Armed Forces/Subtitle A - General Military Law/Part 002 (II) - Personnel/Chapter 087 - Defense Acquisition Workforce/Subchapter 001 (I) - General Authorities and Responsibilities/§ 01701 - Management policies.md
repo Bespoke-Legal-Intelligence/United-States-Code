@@ -68,11 +68,11 @@ Written opinion.—Not later than 30 days after receiving a request by an offici
 
 &emsp;“(4)
 
-Contractor requirement.—A Department of Defense contractor may not knowingly provide compensation to a former Department of Defense official described in subsection (c) within two years after such former official leaves service in the Department of Defense, without first determining that the former official has sought and received (or has not received after 30 days of seeking) a written opinion from the appropriate ethics counselor regarding the applicability of post-employment restrictions to the activitiesthat the former official is expected to undertake on behalf of the contractor.
+Contractor requirement.—A Department of Defense contractor may not knowingly provide compensation to a former Department of Defense official described in subsection (c) within two years after such former official leaves service in the Department of Defense, without first determining that the former official has sought and received (or has not received after 30 days of seeking) a written opinion from the appropriate ethics counselor regarding the applicability of post-employment restrictions to the activities that the former official is expected to undertake on behalf of the contractor.
 
 &emsp;“(5)
 
-Administrative actions.—In the event that an official or former official of the Department of Defense described in subsection (c), or a Department of Defense contractor, knowingly fails to comply with the requirements of this subsection, the Secretary of Defense may take any of the administrative actions set forth in section 27(e) of the Office of Federal Procurement Policy Act (41 U.S.C. 423(e)) that the Secretary of Defense determines to be appropriate.
+Administrative actions.—In the event that an official or former official of the Department of Defense described in subsection (c), or a Department of Defense contractor, knowingly fails to comply with the requirements of this subsection, the Secretary of Defense may take any of the administrative actions set forth in section 27(e) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 423(e)) \[now 41 U.S.C. 2105\] that the Secretary of Defense determines to be appropriate.
 
 “(b)
 
@@ -90,7 +90,7 @@ Inspector general review.—The Inspector General of the Department of Defense s
 
 Covered Department of Defense Officials.—An official or former official of the Department of Defense is covered by the requirements of this section if such official or former official—
 
-&emsp;“(1) participated personally and substantially in an acquisition as defined in section 4(16) of the Office of Federal Procurement Policy Act \[41 U.S.C. 403(16)\] with a value in excess of $10,000,000 and serves or served—
+&emsp;“(1) participated personally and substantially in an acquisition as defined in section 4(16) of the Office of Federal Procurement Policy Act \[now 41 U.S.C. 131\] with a value in excess of $10,000,000 and serves or served—
 
 &emsp;&emsp;“(A) in an Executive Schedule position under subchapter II of chapter 53 of title 5, United States Code;
 
@@ -104,7 +104,7 @@ Covered Department of Defense Officials.—An official or former official of the
 
 Definition.—In this section, the term ‘post-employment restrictions’ includes—
 
-&emsp;“(1) section 27 of the Office of Federal Procurement Policy Act (41 U.S.C. 423);
+&emsp;“(1) section 27 of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 423) \[now 41 U.S.C. 2101 et seq.\];
 
 &emsp;“(2) section 207 of title 18, United States Code; and
 
@@ -148,57 +148,7 @@ Definitions.—In this section:
 
 #### Demonstration Project Relating to Certain Personnel Management Policies and Procedures
 
-Pub. L. 104–106, div. D, title XLIII, §4308, Feb. 10, 1996, 110 Stat. 669, as amended by Pub. L. 105–85, div. A, title VIII, §845, Nov. 18, 1997, 111 Stat. 1845; Pub. L. 107–314, div. A, title VIII, §813(b), Dec. 2, 2002, 116 Stat. 2609; Pub. L. 108–136, div. A, title XI, §1112, Nov. 24, 2003, 117 Stat. 1634, provided that:
-
-“(a)
-
-Commencement.—The Secretary of Defense is encouraged to take such steps as may be necessary to provide for the commencement of a demonstration project, the purpose of which would be to determine the feasibility or desirability of one or more proposals for improving the personnel management policies or procedures that apply with respect to the acquisition workforce of the Department of Defense and supporting personnel assigned to work directly with the acquisition workforce.
-
-“(b)
-
-Terms and Conditions.—
-
-&emsp;“(1)
-
-In general.—Except as otherwise provided in this subsection, any demonstration project described in subsection (a) shall be subject to section 4703 of title 5, United States Code, and all other provisions of such title that apply with respect to any demonstration project under such section.
-
-&emsp;“(2)
-
-Exceptions.—Subject to paragraph (3), in applying section 4703 of title 5, United States Code, with respect to a demonstration project described in subsection (a)—
-
-&emsp;&emsp;“(A) ‘180 days’ in subsection (b)(4) of such section shall be deemed to read ‘120 days’;
-
-&emsp;&emsp;“(B) ‘90 days’ in subsection (b)(6) of such section shall be deemed to read ‘30 days’; and
-
-&emsp;&emsp;“(C) subsection (d)(1) of such section shall be disregarded.
-
-&emsp;“(3)
-
-Conditions.—Paragraph (2) shall not apply with respect to a demonstration project unless—
-
-&emsp;&emsp;“(A) for each organization or team participating in the demonstration project—
-
-&emsp;&emsp;&emsp;“(i) at least one-third of the workforce participating in the demonstration project consists of members of the acquisition workforce; and
-
-&emsp;&emsp;&emsp;“(ii) at least two-thirds of the workforce participating in the demonstration project consists of members of the acquisition workforce and supporting personnel assigned to work directly with the acquisition workforce; and
-
-&emsp;&emsp;“(B) the demonstration project commences before October 1, 2007.
-
-“(c)
-
-Definition.—For purposes of this section, the term ‘acquisition workforce’ refers to the persons serving in acquisition positions within the Department of Defense, as designated pursuant to section 1721(a) of title 10, United States Code.
-
-“(d)
-
-Limitation on Number of Participants.—The total number of persons who may participate in the demonstration project under this section may not exceed 120,000.
-
-“(e)
-
-Effect of Reorganizations.—The applicability of paragraph (2) of subsection (b) to an organization or team shall not terminate by reason that the organization or team, after having satisfied the conditions in paragraph (3) of such subsection when it began to participate in a demonstration project under this section, ceases to meet one or both of the conditions set forth in subparagraph (A) of such paragraph (3) as a result of a reorganization, restructuring, realignment, consolidation, or other organizational change.
-
-“(f)
-
-Termination of Authority.—The authority to conduct a demonstration program under this section shall terminate on September 30, 2012.”
+Pub. L. 104–106, div. D, title XLIII, §4308, Feb. 10, 1996, 110 Stat. 669, as amended by Pub. L. 105–85, div. A, title VIII, §845, Nov. 18, 1997, 111 Stat. 1845; Pub. L. 107–314, div. A, title VIII, §813(b), Dec. 2, 2002, 116 Stat. 2609; Pub. L. 108–136, div. A, title XI, §1112, Nov. 24, 2003, 117 Stat. 1634, which encouraged the Secretary of Defense to commence a demonstration project relating to improving the personnel management policies or procedures that apply to the acquisition workforce of the Department of Defense and supporting personnel, was repealed and restated as section 1762 of this title by Pub. L. 111–383, div. A, title VIII, §872(a)(1), (b), Jan. 17, 2011, 124 Stat. 4300, 4302.
 
 #### Evaluation by Comptroller General
 

@@ -24,7 +24,7 @@ As used in this subpart—
 
 #### References in Text
 
-The Foreign Assistance Act of 1969, referred to in subsec. (f), is Pub. L. 91–175, Dec. 30, 1969, 83 Stat. 805, as amended. For complete classification of this Act to the Code, see Short Title of 1969 Amendment note set outunder section 2151 of this title and Tables. The guaranty authorities repealed by the 1969 Act were the guaranty authorities contained in sections 2181 to 2184 prior to the general reorganization of subpart III by the 1969 Act.
+The Foreign Assistance Act of 1969, referred to in subsec. (f), is Pub. L. 91–175, Dec. 30, 1969, 83 Stat. 805, as amended. For complete classification of this Act to the Code, see Short Title of 1969 Amendment note set out under section 2151 of this title and Tables. The guaranty authorities repealed by the 1969 Act were the guaranty authorities contained in sections 2181 to 2184 prior to the general reorganization of subpart III by the 1969 Act.
 
 Section 1509(b)(3) of this title, referred to in subsec. (f), was repealed by act Aug. 26, 1954, ch. 937, title V, §542(a)(4), 68 Stat. 861.
 
@@ -32,19 +32,19 @@ Sections 1872(b) and 1933(b) of this title, referred to in subsec. (f), were rep
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–158, §4(b), inserted “, a political subdivision of a foreign government, or a corporation owned or controlled by a foreign government,” after “government”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–158, §4(b), inserted “, a political subdivision of a foreign government, or a corporation owned or controlled by a foreign government,” after “government”.
 
 Subsec. (d). Pub. L. 108–158, §5(b)(1), struck out “and” after semicolon at end.
 
 Subsec. (g). Pub. L. 108–158, §5(b)(2), (3), added subsec. (g).
 
-1992—Subsecs. (c) to (f). Pub. L. 102–549 struck out “and” at end of subsec. (c), added subsecs. (d) and (e), and redesignated former subsec. (d) as (f).
+<b>1992</b>—Subsecs. (c) to (f). Pub. L. 102–549 struck out “and” at end of subsec. (c), added subsecs. (d) and (e), and redesignated former subsec. (d) as (f).
 
-1985—Subsec. (c)(2). Pub. L. 99–204 inserted reference to the District of Columbia.
+<b>1985</b>—Subsec. (c)(2). Pub. L. 99–204 inserted reference to the District of Columbia.
 
-1981—Subsec. (a). Pub. L. 97–65 substituted “contribution or commitment of funds” for “contribution of funds”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–65 substituted “contribution or commitment of funds” for “contribution of funds”.
 
-1972—Subsec. (c). Pub. L. 92–226 struck out “required by law to be” after “share capital,” in first proviso.
+<b>1972</b>—Subsec. (c). Pub. L. 92–226 struck out “required by law to be” after “share capital,” in first proviso.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

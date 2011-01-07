@@ -28,7 +28,7 @@ No additional compensation shall be paid to any person acting as Governor or Lie
 
 #### Amendments
 
-1968—Pub. L. 90–496 designated existing provisions as subsec. (a), substituted provisions that in case of the temporary disability or temporary absence of the Governor, the Lieutenant Governor shall have the powers of the Governor for provisions that in case of a vacancy in the office of Governor or the disability of the Governor or the temporary absence of the Governor, the Government Secretary shall have all the powers of the Governor, and added subsecs. (b) to (f).
+<b>1968</b>—Pub. L. 90–496 designated existing provisions as subsec. (a), substituted provisions that in case of the temporary disability or temporary absence of the Governor, the Lieutenant Governor shall have the powers of the Governor for provisions that in case of a vacancy in the office of Governor or the disability of the Governor or the temporary absence of the Governor, the Government Secretary shall have all the powers of the Governor, and added subsecs. (b) to (f).
 
 #### Effective Date of 1968 Amendment
 

@@ -6,5 +6,5 @@ Whoever shall deprive or attempt to deprive any person of any right secured by s
 
 #### Amendments
 
-1975—Pub. L. 94–73 inserted reference to section 1973aa–1a of this title.
+<b>1975</b>—Pub. L. 94–73 inserted reference to section 1973aa–1a of this title.
 

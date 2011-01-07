@@ -20,7 +20,7 @@ Nothing in this section shall be construed to restrict the authority of the Secr
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–569, §606(1), inserted “to the Secretary” after “manufacturer shall submit” and inserted at end “The Secretary shall submit such cost and other information to the consensus committee for evaluation.”
+<b>2000</b>—Subsec. (a). Pub. L. 106–569, §606(1), inserted “to the Secretary” after “manufacturer shall submit” and inserted at end “The Secretary shall submit such cost and other information to the consensus committee for evaluation.”
 
 Subsec. (c). Pub. L. 106–569, §606(3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “If the Secretary proposes to establish, amend, or revoke a Federal manufactured home construction and safety standard under section 5403 of this title on the basis of information submitted pursuant to subsection (a) of this section, he shall publish a notice of such proposed action, together with the reasons therefor, in the Federal Register at least thirty days in advance of making a final determination, in order to allow interested parties an opportunity to comment.”
 
@@ -30,7 +30,7 @@ Pub. L. 106–569, §606(2), inserted “, the consensus committee,” after �
 
 Subsec. (e). Pub. L. 106–569, §606(3), redesignated subsec. (e) as (d).
 
-1980—Subsec. (c). Pub. L. 96–399 substituted “manufactured home” for “mobile home”.
+<b>1980</b>—Subsec. (c). Pub. L. 96–399 substituted “manufactured home” for “mobile home”.
 
 #### Effective Date of 2000 Amendment
 

@@ -1,6 +1,6 @@
 ### §406d–4. Acceptance of other lands by Secretary of the Interior
 
-The Secretary of the Interior is authorized to accept the donation of the following-described lands, which lands, upon acceptance by the United States, shall become a part of the national park:
+The Secretary of the Interior is authorized to accept the donation of the following-describedlands, which lands, upon acceptance by the United States, shall become a part of the national park:
 
 sixth principal meridian
 

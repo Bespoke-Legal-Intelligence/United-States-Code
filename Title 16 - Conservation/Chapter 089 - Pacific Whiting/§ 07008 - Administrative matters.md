@@ -2,13 +2,7 @@
 
 #### (a) Employment status
 
-Individuals appointed under section 7002, 7003, 7004, or 7005 of this title who are serving as such Commissioners, other than officers or employees of the United States Government, shall be considered to be Federal employees while performing such service, only for purposes of—
-
-&emsp;(1) injury compensation under chapter 81 of title 5;
-
-&emsp;(2) requirements concerning ethics, conflicts of interest, and corruption as provided under title 18; and
-
-&emsp;(3) any other criminal or civil statute or regulation governing the conduct of Federal employees.
+Individuals appointed under section 7002, 7003, 7004, or 7005 of this title, other than officers oremployees of the United States Government, shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.
 
 #### (b) Compensation
 
@@ -32,5 +26,15 @@ With respect to the 2 independent members of the scientific review group and the
 
 &emsp;(2) the necessary travel expenses of such individuals.
 
-(Pub. L. 109–479, title VI, §609, Jan. 12, 2007, 120 Stat. 3647.)
+(Pub. L. 109–479, title VI, §609, Jan. 12, 2007, 120 Stat. 3647; Pub. L. 111–348, title III, §302(b), Jan. 4, 2011, 124 Stat. 3672.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (a). Pub. L. 111–348 amended subsec. (a) generally. Prior to amendment, text read as follows: “Individuals appointed under section 7002, 7003, 7004, or 7005 of this title who are serving as such Commissioners, other than officers or employees of the United States Government, shall be considered to be Federal employees while performing such service, only for purposes of—
+
+&emsp;“(1) injury compensation under chapter 81 of title 5;
+
+&emsp;“(2) requirements concerning ethics, conflicts of interest, and corruption as provided under title 18; and
+
+&emsp;“(3) any other criminal or civil statute or regulation governing the conduct of Federal employees.”
 

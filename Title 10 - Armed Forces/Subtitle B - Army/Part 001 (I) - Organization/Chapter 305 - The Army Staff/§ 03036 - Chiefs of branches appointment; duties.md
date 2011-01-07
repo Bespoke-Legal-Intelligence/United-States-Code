@@ -90,7 +90,7 @@ June 3, 1916, ch. 134, §11 (1st 17 words); restated June 4, 1920, ch. 227, subc
 
 Aug. 7, 1947, ch. 512, §513(a) (less 5th sentence), (b), 61 Stat. 901.
 
-In subsection (b), all references to the appointment of assistant chiefs are omitted as covered by sections 3037 and 3040 of this title. All references to the grade of brigadier general are omitted, since 10:21f(b) specifies the grade of major general for the offices. 10:559g(a) (4th sentence) is omitted as surplusage, since the appointment is to a permanent grade. 10:559g(a) (6th and 7th sentences) is omitted as executed. 10:559g(a) (last sentence) is omitted, since the revised section applies only to the officers named in subsection (a). The words “except the Judge Advocate General” are inserted for clarity. The eight words before clause (1), and clauses (1) and (2), are substituted for the words “as prescribed in section 559g of this title”, in 10:21f(b), and 10:559g(a) (1st sentence). The second sentence is substituted for 10:559g(a) (2d sentence) and 10:21f(b) (1st 15 words). The words “selected and”, in 10:21f(b), are omitted as surplusage. The words “arms, or services”, in 10:559g(a) areomitted as obsolete, since sections 3063 and 3064 of this title designate the former arms and services as “branches”.
+In subsection (b), all references to the appointment of assistant chiefs are omitted as covered by sections 3037 and 3040 of this title. All references to the grade of brigadier general are omitted, since 10:21f(b) specifies the grade of major general for the offices. 10:559g(a) (4th sentence) is omitted as surplusage, since the appointment is to a permanent grade. 10:559g(a) (6th and 7th sentences) is omitted as executed. 10:559g(a) (last sentence) is omitted, since the revised section applies only to the officers named in subsection (a). The words “except the Judge Advocate General” are inserted for clarity. The eight words before clause (1), and clauses (1) and (2), are substituted for the words “as prescribed in section 559g of this title”, in 10:21f(b), and 10:559g(a) (1st sentence). The second sentence is substituted for 10:559g(a) (2d sentence) and 10:21f(b) (1st 15 words). The words “selected and”, in 10:21f(b), are omitted as surplusage. The words “arms, or services”, in 10:559g(a) are omitted as obsolete, since sections 3063 and 3064 of this title designate the former arms and services as “branches”.
 
 In subsection (c), the words “normally holds office” are substituted for the words “shall normally continue in that assignment for a tour of duty”. The words “appointment” and “office” are substituted for the words “assignment” and “tour of duty” whenever they are used in that sense.
 
@@ -120,13 +120,13 @@ The first sentence is restated to clarify that the Secretary concerned is the Se
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–106 inserted “may be appointed from officers in any corps of the Army Medical Department and” after “The Surgeon General” in concluding provisions.
+<b>1996</b>—Subsec. (b). Pub. L. 104–106 inserted “may be appointed from officers in any corps of the Army Medical Department and” after “The Surgeon General” in concluding provisions.
 
 Subsec. (d)(3). Pub. L. 104–201 substituted “In this subsection” for “For purposes of this subsection”.
 
-1992—Subsec. (d)(3). Pub. L. 102–580 added par. (3).
+<b>1992</b>—Subsec. (d)(3). Pub. L. 102–580 added par. (3).
 
-1987—Subsec. (d). Pub. L. 100–26 designated existing first sentence requiring each officer named in subsec. (a) to perform prescribed duties as par. (1), designated existing second sentence permitting the Chief of Engineers to accept orders to provide services to another department, agency, or governmental instrumentality as par. (2), and substituted “United States or to a State or political subdivision of a State. The Chief of Engineers may provide any part of those services by contract. Services may be provided to a State, or to a political subdivision of a State, only if—
+<b>1987</b>—Subsec. (d). Pub. L. 100–26 designated existing first sentence requiring each officer named in subsec. (a) to perform prescribed duties as par. (1), designated existing second sentence permitting the Chief of Engineers to accept orders to provide services to another department, agency, or governmental instrumentality as par. (2), and substituted “United States or to a State or political subdivision of a State. The Chief of Engineers may provide any part of those services by contract. Services may be provided to a State, or to a political subdivision of a State, only if—
 
 &emsp;“(A) the work to be undertaken on behalf of non-Federal interests involves Federal assistance and the head of the department or agency providing Federal assistance for the work does not object to the provision of services by the Chief of Engineers; and
 
@@ -138,7 +138,7 @@ Subsec. (d)(3). Pub. L. 104–201 substituted “In this subsection” for “Fo
 
 > any part of those services by contract.”
 
-1986—Subsec. (d). Pub. L. 99–662 substituted “and, on a reimbursable basis, to a State or political subdivision thereof. Services provided to a State or political subdivision thereof shall be undertaken only on condition that—
+<b>1986</b>—Subsec. (d). Pub. L. 99–662 substituted “and, on a reimbursable basis, to a State or political subdivision thereof. Services provided to a State or political subdivision thereof shall be undertaken only on condition that—
 
 &emsp;“(1) the work to be undertaken on behalf of non-Federal interests involves Federal assistance; and
 
@@ -146,15 +146,15 @@ Subsec. (d)(3). Pub. L. 104–201 substituted “In this subsection” for “Fo
 
 > for “and may provide”, which resulted in the creation of an incomplete sentence.
 
-1982—Subsec. (d). Pub. L. 97–295 substituted “Secretary of the Army” for “Secretary” and inserted provision that, under the supervision of the Secretary, the Chief of Engineers may accept orders to provide services to another department, agency, or instrumentality of the United States and may provide any part of those services by contract.
+<b>1982</b>—Subsec. (d). Pub. L. 97–295 substituted “Secretary of the Army” for “Secretary” and inserted provision that, under the supervision of the Secretary, the Chief of Engineers may accept orders to provide services to another department, agency, or instrumentality of the United States and may provide any part of those services by contract.
 
-1966—Subsec. (a). Pub. L. 89–718 struck out cls. (2) to (8) naming the Chief Signal Officer, Adjutant General, Quartermaster General, Chief of Finance, Chief of Ordnance, Chief Chemical Officer, and Chief of Transportation respectively, and redesignated cls. (9) to (11) as (2) to (4), respectively.
+<b>1966</b>—Subsec. (a). Pub. L. 89–718 struck out cls. (2) to (8) naming the Chief Signal Officer, Adjutant General, Quartermaster General, Chief of Finance, Chief of Ordnance, Chief Chemical Officer, and Chief of Transportation respectively, and redesignated cls. (9) to (11) as (2) to (4), respectively.
 
-1965—Subsec. (b). Pub. L. 89–288 provided Surgeon General, while so serving, with grade of lieutenant general.
+<b>1965</b>—Subsec. (b). Pub. L. 89–288 provided Surgeon General, while so serving, with grade of lieutenant general.
 
 #### Corps of Engineers; Annual Budget Submission
 
-Pub. L. 110–161, div. C, title I, §114, Dec. 26, 2007, 121 Stat. 1944, provided that: “All budget documents and justification materials for the Corps of Engineers annual budget submission to Congress shall be assembled and presented based on the most recent annual appropriations Act: <i>Provided</i>, That new budget proposals for fiscal year 2008 and thereafter, shall not be integrated into the budget justifications submitted to Congress but shall be submitted separately from the budget justifications documents.”
+Pub. L. 110–161, div. C, title I, §114, Dec. 26, 2007, 121 Stat. 1944, provided that: “All budget documents and justification materials for the Corps of Engineers annual budget submission to Congress shall be assembled and presented based on the most recent annual appropriations Act: <i>Provided</i>, That new budget proposals for fiscal year 2008 and thereafter, shall not be integrated into the budget justifications submitted to Congressbut shall be submitted separately from the budget justifications documents.”
 
 #### Chief of Engineers; Fiscal Transparency Report
 

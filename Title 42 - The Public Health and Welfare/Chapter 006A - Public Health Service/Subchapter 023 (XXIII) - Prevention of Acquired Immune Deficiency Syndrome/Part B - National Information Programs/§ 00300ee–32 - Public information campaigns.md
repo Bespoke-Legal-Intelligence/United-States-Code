@@ -14,9 +14,9 @@ The Secretary may not provide financial assistance under subsection (a) of this 
 
 &emsp;(3) the application otherwise is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
 
-(July 1, 1944, ch. 373, title XXV, formerly title XV, §2522, as added Pub. L. 100–607, title II, §221,Nov. 4, 1988, 102 Stat. 3103; renumbered title XXV, Pub. L. 101–93, §5(e)(1), Aug. 16, 1989, 103 Stat. 612; amended Pub. L. 102–531, title III, §312(d)(23), Oct. 27, 1992, 106 Stat. 3505.)
+(July 1, 1944, ch. 373, title XXV, formerly title XV, §2522, as added Pub. L. 100–607, title II, §221, Nov. 4, 1988, 102 Stat. 3103; renumbered title XXV, Pub. L. 101–93, §5(e)(1), Aug. 16, 1989, 103 Stat. 612; amended Pub. L. 102–531, title III, §312(d)(23), Oct. 27, 1992, 106 Stat. 3505.)
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 

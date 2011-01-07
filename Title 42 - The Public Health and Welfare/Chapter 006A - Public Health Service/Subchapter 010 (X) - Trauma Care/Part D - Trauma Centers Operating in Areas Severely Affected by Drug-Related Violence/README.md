@@ -10,3 +10,4 @@ Part D—Trauma Centers Operating in Areas Severely Affected by Drug-Related Vio
 - [&sect; 00300d&#8211;43 - Certain agreements](%C2%A7%2000300d%E2%80%9343%20-%20Certain%20agreements.md)
 - [&sect; 00300d&#8211;44 - General provisions](%C2%A7%2000300d%E2%80%9344%20-%20General%20provisions.md)
 - [&sect; 00300d&#8211;45 - Authorization of appropriations](%C2%A7%2000300d%E2%80%9345%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 00300d&#8211;46 - Definition](%C2%A7%2000300d%E2%80%9346%20-%20Definition.md)

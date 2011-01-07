@@ -22,7 +22,7 @@ Nothing in this Act or in section 9509 of title 26 shall in any way affect, or b
 
 #### (c) Additional requirements and liabilities; penalties
 
-Nothing in this Act, the Act of March 3, 1851 (46 U.S.C. 183 et seq.),<sup>1</sup> or section 9509 of title 26,shall in any way affect, or be construed to affect, the authority of the United States or any State or political subdivision thereof—
+Nothing in this Act, the Act of March 3, 1851 (46 U.S.C. 183 et seq.),<sup>1</sup> or section 9509 of title 26, shall in any way affect, or be construed to affect, the authority of the United States or any State or political subdivision thereof—
 
 &emsp;(1) to impose additional liability or additional requirements; or
 

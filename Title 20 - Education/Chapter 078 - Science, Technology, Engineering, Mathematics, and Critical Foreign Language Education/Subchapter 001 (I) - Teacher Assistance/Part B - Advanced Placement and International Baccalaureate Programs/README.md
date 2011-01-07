@@ -1,7 +1,5 @@
 Part B—Advanced Placement and International Baccalaureate Programs
 
-<i><sup>1</sup></i><i> So in original. Probably should be “this part”.</i>
-
 
 ---
 

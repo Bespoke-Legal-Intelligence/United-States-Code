@@ -12,5 +12,5 @@ The Secretary of State, in consultation with the Task Force, is encouraged to in
 
 #### Amendments
 
-1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §1206, which enacted this section.
+<b>1996</b>—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §1206, which enacted this section.
 

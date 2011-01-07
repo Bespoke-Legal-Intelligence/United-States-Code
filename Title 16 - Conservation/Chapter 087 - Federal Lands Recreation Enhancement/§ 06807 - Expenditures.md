@@ -36,7 +36,7 @@ Notwithstanding any other provision of this chapter, the Secretary may use amoun
 
 &emsp;(1) the National Parks and Federal Recreational Lands Pass during the 5-year period beginning on the date the joint guidelines are issued under section 6804(a)(7) of this title; and
 
-&emsp;(2) a regional multientity pass authorized section 6804(d) of this title during the 5-yearperiod beginning on the date the regional multientity pass agreement for that recreation pass takes effect.
+&emsp;(2) a regional multientity pass authorized section 6804(d) of this title during the 5-year period beginning on the date the regional multientity pass agreement for that recreation pass takes effect.
 
 (Pub. L. 108–447, div. J, title VIII, §808, Dec. 8, 2004, 118 Stat. 3388; Pub. L. 111–11, title VII, §7116(h), Mar. 30, 2009, 123 Stat. 1203.)
 
@@ -50,5 +50,5 @@ Section 6804 of this title, referred to in subsec. (d), was in the original a re
 
 #### Amendments
 
-2009—Subsec. (a)(3)(F). Pub. L. 111–11, which directed technical amendment in subsec. (a)(1)(F) to reference in original act which appears in text as reference to section 6805(a) of this title, was executed by making technical amendment in par. (3)(F) to reflect the probable intent of Congress.
+<b>2009</b>—Subsec. (a)(3)(F). Pub. L. 111–11, which directed technical amendment in subsec. (a)(1)(F) to reference in original act which appears in text as reference to section 6805(a) of this title, was executed by making technical amendment in par. (3)(F) to reflect the probable intent of Congress.
 

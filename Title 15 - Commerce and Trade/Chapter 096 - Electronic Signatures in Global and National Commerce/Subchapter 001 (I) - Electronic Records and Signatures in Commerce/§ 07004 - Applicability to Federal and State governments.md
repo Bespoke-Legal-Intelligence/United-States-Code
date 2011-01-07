@@ -18,7 +18,7 @@ Subject to subsection (c)(2) of this section, nothing in this subchapter limits 
 
 #### (2) Limitations on interpretation authority
 
-&emsp;Notwithstanding paragraph (1), a Federal regulatory agency shall not adopt any regulation, order, or guidance described in paragraph (1), and a State regulatory agency is preempted by section 7001 of this title fromadopting any regulation, order, or guidance described in paragraph (1), unless—
+&emsp;Notwithstanding paragraph (1), a Federal regulatory agency shall not adopt any regulation, order, or guidance described in paragraph (1), and a State regulatory agency is preempted by section 7001 of this title from adopting any regulation, order, or guidance described in paragraph (1), unless—
 
 &emsp;&emsp;(A) such regulation, order, or guidance is consistent with section 7001 of this title;
 

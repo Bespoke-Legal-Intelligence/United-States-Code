@@ -7,6 +7,7 @@
 
 - [&sect; 01997 - Definitions](%C2%A7%2001997%20-%20Definitions.md)
 - [&sect; 01997a - Initiation of civil actions](%C2%A7%2001997a%20-%20Initiation%20of%20civil%20actions.md)
+- [&sect; 01997a&#8211;1 - Subpoena authority](%C2%A7%2001997a%E2%80%931%20-%20Subpoena%20authority.md)
 - [&sect; 01997b - Certification requirements; Attorney General to personally sign certification](%C2%A7%2001997b%20-%20Certification%20requirements%3B%20Attorney%20General%20to%20personally%20sign%20certification.md)
 - [&sect; 01997c - Intervention in actions](%C2%A7%2001997c%20-%20Intervention%20in%20actions.md)
 - [&sect; 01997d - Prohibition of retaliation](%C2%A7%2001997d%20-%20Prohibition%20of%20retaliation.md)

@@ -92,5 +92,5 @@ In subsection (d)(2), the words “and conclusive” are omitted as being includ
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–355 inserted at end “Notwithstanding the preceding sentence, a State authority may enforce a requirement of a one-call notification program of the State if the program meets the requirements for one-call notification programs under this chapter or chapter 61.”
+<b>2002</b>—Subsec. (c). Pub. L. 107–355 inserted at end “Notwithstanding the preceding sentence, a State authority may enforce a requirement of a one-call notification program of the State if the program meets the requirements for one-call notification programs under this chapter or chapter 61.”
 

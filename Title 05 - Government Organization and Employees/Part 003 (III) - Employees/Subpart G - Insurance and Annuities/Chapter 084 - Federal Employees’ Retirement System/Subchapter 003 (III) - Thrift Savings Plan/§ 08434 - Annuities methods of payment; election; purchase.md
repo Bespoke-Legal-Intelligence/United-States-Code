@@ -6,7 +6,7 @@
 
 &emsp;(A) a method which provides for the payment of a monthly annuity only to an annuitant during the life of the annuitant;
 
-&emsp;(B) a method which provides for the payment of a monthly annuity to an annuitant for the joint lives of the annuitant and the spouse of the annuitant and an appropriatemonthly annuity to the one of them who survives the other of them for the life of the survivor;
+&emsp;(B) a method which provides for the payment of a monthly annuity to an annuitant for the joint lives of the annuitant and the spouse of the annuitant and an appropriate monthly annuity to the one of them who survives the other of them for the life of the survivor;
 
 &emsp;(C) a method described in subparagraph (A) which provides for automatic adjustments in the amount of the annuity payable so long as the amount of the annuity payable in any one year shall not be less than the amount payable in the previous year;
 

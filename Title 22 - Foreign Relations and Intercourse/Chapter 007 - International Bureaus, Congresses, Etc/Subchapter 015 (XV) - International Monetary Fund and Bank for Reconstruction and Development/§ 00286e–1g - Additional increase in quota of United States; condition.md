@@ -6,7 +6,7 @@ The United States Governor of the Fund is authorized to consent to an increase i
 
 #### Amendments
 
-1980—Pub. L. 96–389, §11, substituted “limited to such amounts as are appropriated in advance in appropriation Acts” for “to such extent or in such amounts as are provided in appropriations Acts”.
+<b>1980</b>—Pub. L. 96–389, §11, substituted “limited to such amounts as are appropriated in advance in appropriation Acts” for “to such extent or in such amounts as are provided in appropriations Acts”.
 
 #### Effective Date
 

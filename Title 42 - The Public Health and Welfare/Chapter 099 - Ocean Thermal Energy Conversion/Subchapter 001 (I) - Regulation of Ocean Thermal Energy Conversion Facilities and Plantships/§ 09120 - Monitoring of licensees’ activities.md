@@ -12,5 +12,5 @@ Each license shall require the licensee—
 
 #### Amendments
 
-1984—Par. (1). Pub. L. 98–623 substituted “in or aboard” for “aboard”.
+<b>1984</b>—Par. (1). Pub. L. 98–623 substituted “in or aboard” for “aboard”.
 

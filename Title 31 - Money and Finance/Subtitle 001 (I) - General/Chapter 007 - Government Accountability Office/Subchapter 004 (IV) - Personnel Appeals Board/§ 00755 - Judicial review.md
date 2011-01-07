@@ -42,15 +42,15 @@ Section 706(k) of the Civil Rights Act of 1964, referred to in subsec. (b), is c
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–283, §312(e)(4)(C)(i), substituted “, (7) or (9)” for “or (7)” in introductory provisions. See Application of Provisions Amended by Pub. L. 103–283 note below.
+<b>1994</b>—Subsec. (a). Pub. L. 103–283, §312(e)(4)(C)(i), substituted “, (7) or (9)” for “or (7)” in introductory provisions. See Application of Provisions Amended by Pub. L. 103–283 note below.
 
-Subsec. (b). Pub. L. 103–283, §312(e)(4)(C)(ii), substituted “applicant for employment, or employee of the Architect of the Capitol, the Botanic Garden, or the Senate Restaurants” for “or applicant for employment”, and inserted “or under section 312(e)(2) of theArchitect of the Capitol Human Resources Act” after “of this title”. See Application of Provisions Amended by Pub. L. 103–283 note below.
+Subsec. (b). Pub. L. 103–283, §312(e)(4)(C)(ii), substituted “applicant for employment, or employee of the Architect of the Capitol, the Botanic Garden, or the Senate Restaurants” for “or applicant for employment”, and inserted “or under section 312(e)(2) of the Architect of the Capitol Human Resources Act” after “of this title”. See Application of Provisions Amended by Pub. L. 103–283 note below.
 
-1988—Subsec. (a). Pub. L. 100–426, §103(a), (b)(1), designated existing provisions as subsec. (a) and substituted “Federal Circuit” for “District of Columbia Circuit or by the court of appeals of the United States for the circuit in which the petitioner resides”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–426, §103(a), (b)(1), designated existing provisions as subsec. (a) and substituted “Federal Circuit” for “District of Columbia Circuit or by the court of appeals of the United States for the circuit in which the petitioner resides”.
 
 Subsec. (b). Pub. L. 100–426, §103(b)(2), added subsec. (b).
 
-1984—Pub. L. 98–216 substituted “A final decision under section 753(a)(1)–(3), (6), or (7) of this title may be reviewed by the United States Court of Appeals for the District of Columbia Circuit or by the court of appeals of the United States for the circuit in which the petitioner resides” for “A person may apply for review of a final decision under section 753(a)(1)–(3), (6), or (7) of this title by filing a petition for review with the United States Court of Appeals for the District of Columbia Circuit or with the court of appeals of the United States for the circuit in which the person resides” in provisions preceding par. (1).
+<b>1984</b>—Pub. L. 98–216 substituted “A final decision under section 753(a)(1)–(3), (6), or (7) of this title may be reviewed by the United States Court of Appeals for the District of Columbia Circuit or by the court of appeals of the United States for the circuit in which the petitioner resides” for “A person may apply for review of a final decision under section 753(a)(1)–(3), (6), or (7) of this title by filing a petition for review with the United States Court of Appeals for the District of Columbia Circuit or with the court of appeals of the United States for the circuit in which the person resides” in provisions preceding par. (1).
 
 #### Effective Date of 1988 Amendment
 
@@ -59,4 +59,8 @@ Section 103(c) of Pub. L. 100–426 provided that: “Nothing in any of the amen
 #### Application of Provisions Amended by Pub. L. 103–283
 
 Provisions of this section amended by section 312(e) of Pub. L. 103–283 to be applied and administered as if section 312(e) and the amendments made by section 312(e) had not been enacted, see section 504(c)(2) of Pub. L. 104–1, set out as a note under section 751 of this title.
+
+<i><sup>1</sup></i><i> So in original. Second comma probably should follow “(7)”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ There is hereby created, subject to the direction and supervision of the Secreta
 
 #### Amendments
 
-1966—Pub. L. 89–670 substituted “Secretary of Transportation” for “President, or the head of such agency as he may designate”.
+<b>1966</b>—Pub. L. 89–670 substituted “Secretary of Transportation” for “President, or the head of such agency as he may designate”.
 
 #### Effective Date of 1966 Amendment
 

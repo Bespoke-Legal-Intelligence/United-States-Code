@@ -2,7 +2,7 @@
 
 The Secretary shall cause an examination and inspection of all amenable species, and the food products thereof, slaughtered and prepared in the establishments hereinbefore described for the purposes of commerce to be made during the nighttime as well as during the daytime when the slaughtering of said amenable species, or the preparation of said food products is conducted during the nighttime.
 
-(Mar. 4, 1907, ch. 2907, title I, §9, formerly 7th par., 34 Stat. 1262; renumbered §9 and amended Pub. L. 90–201, §§1, 3, 12(a), Dec. 15, 1967, 81 Stat. 584, 588, 592; Pub. L. 99–641, title IV, §403(d)(1), Nov. 10, 1986, 100 Stat. 3570; Pub. L. 109–97, title VII, §798\[(a)\](1), Nov. 10, 2005, 119 Stat. 2166.)
+(Mar. 4, 1907, ch. 2907, title I, §9, formerly 7th par., 34 Stat. 1262; renumbered §9 and amended Pub. L. 90–201, §§1, 3, 12(a), Dec. 15, 1967, 81 Stat.584, 588, 592; Pub. L. 99–641, title IV, §403(d)(1), Nov. 10, 1986, 100 Stat. 3570; Pub. L. 109–97, title VII, §798\[(a)\](1), Nov. 10, 2005, 119 Stat. 2166.)
 
 #### Codification
 
@@ -10,11 +10,11 @@ Section was formerly classified to section 77 of this title.
 
 #### Amendments
 
-2005—Pub. L. 109–97 substituted “amenable species” for “cattle, sheep, swine, goats, horses, mules, and other equines” in two places.
+<b>2005</b>—Pub. L. 109–97 substituted “amenable species” for “cattle, sheep, swine, goats, horses, mules, and other equines” in two places.
 
-1986—Pub. L. 99–641 temporarily inserted “, except as provided in section 606 of this title,” after first reference to “other equines, and”. See Effective and Termination Dates of 1986 Amendment note below.
+<b>1986</b>—Pub. L. 99–641 temporarily inserted “, except as provided in section 606 of this title,” after first reference to “other equines, and”. See Effective and Termination Dates of 1986 Amendment note below.
 
-1967—Pub. L. 90–201, §§3, 12(a), struck out “interstate or foreign” before “commerce” and “of Agriculture” after “Secretary” and included horses, mules, and other equines in the list of animals, respectively.
+<b>1967</b>—Pub. L. 90–201, §§3, 12(a), struck out “interstate or foreign” before “commerce” and “of Agriculture” after “Secretary” and included horses, mules, and other equines in the list of animals, respectively.
 
 #### Effective Date of 2005 Amendment
 

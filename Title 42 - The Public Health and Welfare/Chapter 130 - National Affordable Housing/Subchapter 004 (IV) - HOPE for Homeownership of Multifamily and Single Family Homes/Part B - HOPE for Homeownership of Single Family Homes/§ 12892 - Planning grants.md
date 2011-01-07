@@ -42,7 +42,7 @@ Planning grants may be used for activities to develop homeownership programs (wh
 
 &emsp;&emsp;(C) identification and description of the eligible properties likely to be involved, and a description of the composition of the potential homebuyers and residents of the areas in which such eligible properties are located, including family size and income;
 
-&emsp;&emsp;(D) a certification by the public official responsible for submitting the comprehensive housing affordability strategy under section12705 of this title that the proposed activities are consistent with the approved housing strategy of the State or unit of general local government within which the project is located (or, during the first 12 months after November 28, 1990, that the application is consistent with such other existing State or local housing plan or strategy that the Secretary shall determine to be appropriate); and
+&emsp;&emsp;(D) a certification by the public official responsible for submitting the comprehensive housing affordability strategy under section 12705 of this title that the proposed activities are consistent with the approved housing strategy of the State or unit of general local government within which the project is located (or, during the first 12 months after November 28, 1990, that the application is consistent with such other existing State or local housing plan or strategy that the Secretary shall determine to be appropriate); and
 
 &emsp;&emsp;(E) a certification that the applicant will comply with the requirements of the Fair Housing Act \[42 U.S.C. 3601 et seq.\], title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], and the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], and will affirmatively further fair housing.
 
@@ -54,7 +54,7 @@ The Secretary shall, by regulation, establish selection criteria for a national 
 
 &emsp;(2) the extent of interest in the development of a homeownership program;
 
-&emsp;(3) the potential of the applicant for developing a successful and affordable homeownership program and the availability and suitability of eligible properties in the applicable geographic area with respect to the application;
+&emsp;(3) the potential of the applicant for developing a successful and affordable homeownershipprogram and the availability and suitability of eligible properties in the applicable geographic area with respect to the application;
 
 &emsp;(4) national geographic diversity among housing for which applicants are selected to receive assistance; and
 
@@ -72,5 +72,5 @@ The Age Discrimination Act of 1975, referred to in subsec. (c)(2)(E), is title I
 
 #### Amendments
 
-1992—Subsec. (b)(4) to (9). Pub. L. 102–550 added par. (4) and redesignated former pars. (4) to (8) as (5) to (9), respectively.
+<b>1992</b>—Subsec. (b)(4) to (9). Pub. L. 102–550 added par. (4) and redesignated former pars. (4) to (8) as (5) to (9), respectively.
 

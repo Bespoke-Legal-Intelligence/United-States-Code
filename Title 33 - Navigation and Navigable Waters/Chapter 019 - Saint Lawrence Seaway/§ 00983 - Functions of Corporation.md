@@ -16,5 +16,5 @@ The Corporation shall make necessary arrangements to assure the coordination of 
 
 #### Transfer of Functions
 
-“Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsecs. (a)(2) and (b), on authority of Pub. L. 95–91, title IV, §402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583, which is classified to section 7172(a)(1)(A) of Title 42, The Public Health and Welfare.
+“Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsecs.\(a)(2) and (b), on authority of Pub. L. 95–91, title IV, §402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583, which is classified to section 7172(a)(1)(A) of Title 42, The Public Health and Welfare.
 

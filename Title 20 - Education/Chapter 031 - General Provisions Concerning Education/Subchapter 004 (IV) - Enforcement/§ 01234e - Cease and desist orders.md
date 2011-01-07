@@ -36,7 +36,7 @@ The Secretary may enforce a final order of the Office under this section which b
 
 #### Amendments
 
-1988—Pub. L. 100–297 amended section generally, substituting provisions relating to cease and desist orders for provisions relating to use of recovered funds. See section 1234h of this title.
+<b>1988</b>—Pub. L. 100–297 amended section generally, substituting provisions relating to cease and desist orders for provisions relating to use of recovered funds. See section 1234h of this title.
 
 #### Effective Date of 1988 Amendment
 

@@ -16,7 +16,11 @@
 
 &emsp;(5) A freight vessel or a passenger vessel of at least 300 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title and propelled by machinery shall have a licensed engineer.
 
-(b) An offshore supply vessel on a voyage of less than 600 miles shall have a licensed mate. However, if the vessel is on a voyage of at least 600 miles, the vessel shall have 2 licensed mates. An offshore supply vessel of more than 200 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title may not be operated without a licensed engineer.
+(b)(1) An offshore supply vessel of less than 500 gross tons as measured under section 14502 of this title or 6,000 gross tons as measured under section 14302 of this title on a voyage of less than 600 miles shall have a licensed mate. If the vessel is on a voyage of at least 600 miles, however, the vessel shall have 2 licensed mates.
+
+(2) An offshore supply vessel of at least 6,000 gross tons as measured under section 14302 of this title on a voyage of less than 600 miles shall have at least two licensed mates, provided the offshore supply vessel meets the requirements of section 8104(g)(2). An offshore supply vessel of at least 6,000 gross tons as measured under section 14302 of this title on a voyage of at least 600 miles shall have three licensed mates.
+
+(3) An offshore supply vessel of more than 200 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title, may not be operated without a licensed engineer.
 
 (c) Subsection (a) of this section does not apply to a fishing or whaling vessel, a mobile offshore drilling unit when on location, or a yacht.
 
@@ -28,7 +32,7 @@
 
 (e) The Secretary may prescribe the minimum number of licensed individuals for an oil spill response vessel.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 550; Pub. L. 98–557, §29(c), (d), Oct. 30, 1984, 98 Stat. 2873, 2874; Pub. L. 99–640, §11(d), Nov. 10, 1986, 100 Stat. 3550; Pub. L. 100–448, §7, Sept. 28, 1988, 102 Stat. 1842; Pub. L. 103–206, title III, §322(b), Dec. 20, 1993, 107 Stat. 2428; Pub. L. 104–324, title VII, §729, title XI, §1104(d), Oct. 19, 1996, 110 Stat. 3940, 3967.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 550; Pub. L. 98–557, §29(c), (d), Oct. 30, 1984, 98 Stat. 2873, 2874; Pub. L. 99–640, §11(d), Nov. 10, 1986, 100 Stat. 3550; Pub. L. 100–448, §7, Sept. 28, 1988, 102 Stat. 1842; Pub. L. 103–206, title III, §322(b), Dec. 20, 1993, 107 Stat. 2428; Pub. L. 104–324, title VII, §729, title XI, §1104(d), Oct. 19, 1996, 110 Stat. 3940, 3967; Pub. L. 111–281, title VI, §617(c), Oct. 15, 2010, 124 Stat. 2973.)
 
 Historical and Revision Notes
 
@@ -50,7 +54,9 @@ Subsection (d) permits the Secretary to suspend any part of this chapter during 
 
 #### Amendments
 
-1996—Subsec. (a)(2). Pub. L. 104–324, §729(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “1,000 gross tons”.
+<b>2010</b>—Subsec. (b). Pub. L. 111–281 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “An offshore supply vessel on a voyage of less than 600 miles shall have a licensed mate. However, if the vessel is on a voyage of at least 600 miles, the vessel shall have 2 licensed mates. An offshore supply vessel of more than 200 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title may not be operated without a licensed engineer.”
+
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–324, §729(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “1,000 gross tons”.
 
 Subsec. (a)(3). Pub. L. 104–324, §729(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “1,000 gross tons”.
 
@@ -68,13 +74,13 @@ Subsec. (e). Pub. L. 104–324, §1104(d), amended subsec. (e) generally. Prior 
 
 &emsp;“(3) if the vessel is more than 200 gross tons, a licensed engineer when the vessel is operating.”
 
-1993—Subsec. (e). Pub. L. 103–206 added subsec. (e).
+<b>1993</b>—Subsec. (e). Pub. L. 103–206 added subsec. (e).
 
-1988—Subsec. (a)(2). Pub. L. 100–448 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A vessel of at least 1,000 gross tons and propelled by machinery shall have 3 licensed mates. However, if the vessel is on a voyage of less than 400 miles from port of departure to port of final destination, it shall have 2 licensed mates.”
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–448 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A vessel of at least 1,000 gross tons and propelled by machinery shall have 3 licensed mates. However, if the vessel is on a voyage of less than 400 miles from port of departure to port of final destination, it shall have 2 licensed mates.”
 
-1986—Subsec. (c). Pub. L. 99–640 inserted “, a mobile offshore drilling unit when on location,”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–640 inserted “, a mobile offshore drilling unit when on location,”.
 
-1984—Subsec. (a). Pub. L. 98–557, §29(c), in provisions preceding par. (1) inserted exception for the Great Lakes and substituted provisions relating to inspection under chapter 33 of this title for provisions relating to applicability of part B of this subtitle.
+<b>1984</b>—Subsec. (a). Pub. L. 98–557, §29(c), in provisions preceding par. (1) inserted exception for the Great Lakes and substituted provisions relating to inspection under chapter 33 of this title for provisions relating to applicability of part B of this subtitle.
 
 Subsec. (a)(1). Pub. L. 98–557, §29(d), inserted “propelled by machinery or carrying passengers”.
 

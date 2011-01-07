@@ -24,5 +24,5 @@ Two-Year Period of Research and Teaching.—Under the fellowship program, the Se
 
 #### Amendments
 
-2002—Pub. L. 107–314 renumbered section 2410h of this title as this section.
+<b>2002</b>—Pub. L. 107–314 renumbered section 2410h of this title as this section.
 

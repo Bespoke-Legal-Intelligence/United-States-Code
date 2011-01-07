@@ -42,23 +42,61 @@ Except to the extent that enforcement of the requirements imposed under this sub
 
 The authority of the Board to issue regulations under this subchapter does not impair the authority of any other agency designated in this section to make rules respecting its own procedures in enforcing compliance with requirements imposed under this subchapter.
 
-(Pub. L. 90–321, title VII, §704, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1522; amended Pub. L. 94–239, §4, Mar. 23, 1976, 90 Stat. 253; Pub. L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(m), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, §212(d), Dec. 19, 1991, 105 Stat. 2300; Pub. L. 102–550, title XVI, §1604(a)(7), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, §315, Dec. 29, 1995, 109 Stat. 948.)
+(Pub. L. 90–321, title VII, §704, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1522; amended Pub. L. 94–239, §4, Mar. 23, 1976, 90 Stat. 253; Pub. L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(m), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, §212(d), Dec. 19, 1991, 105 Stat. 2300; Pub. L. 102–550, title XVI, §1604(a)(7), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, §315, Dec. 29, 1995, 109 Stat. 948; Pub. L. 111–203, title X, §1085(4), July 21, 2010, 124 Stat. 2084.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1085(4), 1100H, July 21, 2010, 124 Stat. 2084, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
+
+<i>(1) in subsection (a)—</i>
+
+<i>(A) by striking “Compliance” and inserting “Subject to subtitle B of the Consumer Protection \[sic\] Financial Protection Act of 2010”;</i>
+
+<i>(B) by striking paragraphs (1) and (2) and inserting the following:</i>
+
+&emsp;<i>“(1) section 8 of the Federal Deposit Insurance Act, by the appropriate Federal banking agency, as defined in section 3(q) of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)), with respect to—</i>
+
+&emsp;&emsp;<i>“(A) national banks, Federal savings associations, and Federal branches and Federal agencies of foreign banks;</i>
+
+&emsp;&emsp;<i>“(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25A of the Federal Reserve Act; and</i>
+
+&emsp;&emsp;<i>“(C) banks and State savings associations insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), and insured State branches of foreign banks;”;</i>
+
+<i>(C) by redesignating paragraphs (3) through (9) as paragraphs (2) through (8), respectively;</i>
+
+<i>(D) in paragraph (7) (as so redesignated), by striking “and” at the end;</i>
+
+<i>(E) in paragraph (8) (as so redesignated), by striking the period at the end and inserting “; and”; and</i>
+
+<i>(F) by adding at the end the following:</i>
+
+&emsp;<i>“(9) Subtitle E of the Consumer Financial Protection Act of 2010, by the Bureau, with respect to any person subject to this subchapter.”;</i>
+
+<i>(2) by striking subsection (c) and inserting the following:</i>
+
+#### <i>“(c) Overall enforcement authority of Federal Trade Commission</i>
+
+<i>“Except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other Government agency under any of paragraphs (1) through (8) of subsection (a), and subject to subtitle B of the Consumer Financial Protection Act of 2010, the Federal Trade Commission shall be authorized to enforce such requirements. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act (15 U.S.C. 41 et seq.), a violation of any requirement imposed under this subchapter shall be deemed a violation of a requirement imposed under that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Federal Trade Commission to enforce compliance by any person with the requirements imposed under this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests under the Federal Trade Commission Act, including the power to enforce any rule prescribed by the Bureau under this subchapter in the same manner as if the violation had been a violation of a Federal Trade Commission trade regulation rule.”; and</i>
+
+<i>(3) in subsection (d), by striking “Board” and inserting “Bureau”.</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
 Section 25(a) of the Federal Reserve Act, referred to in subsec. (a)(1)(B), which is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, Banks and Banking, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281. Section 25 of the Federal Reserve Act is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12.
 
-The Federal Credit Union Act, referred to in subsec. (a)(3), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified generally to chapter 14 (§1751 et seq.) of Title 12. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
+The Federal Credit Union Act, referred to in subsec. (a)(3), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§1751 et seq.) of Title 12. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
-The Packers and Stockyards Act, 1921, referred to in subsec. (a)(6), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, as amended, which is classified to chapter 9 (§181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
+The Packers and Stockyards Act, 1921, referred to in subsec. (a)(6), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified to chapter 9 (§181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
 
-The Farm Credit Act of 1971, referred to in subsec. (a)(7), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, as amended, which is classified generally to chapter 23 (§2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
+The Farm Credit Act of 1971, referred to in subsec. (a)(7), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified generally to chapter 23 (§2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (a)(8), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see Codification note set out under section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (a)(8), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see Codification note set out under section 78a of this title and Tables.
 
-The Small Business Investment Act of 1958, referred to in subsec. (a)(9), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
+The Small Business Investment Act of 1958, referred to in subsec. (a)(9), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 #### Codification
 
@@ -68,11 +106,11 @@ In subsec. (a)(5), “Part A of subtitle VII of title 49” substituted for “T
 
 #### Amendments
 
-1995—Subsec. (a)(4). Pub. L. 104–88 substituted “Secretary of Transportation, with respect to all carriers subject to the jurisdiction of the Surface Transportation Board” for “Interstate Commerce Commission with respect to any common carrier subject to those Acts”.
+<b>1995</b>—Subsec. (a)(4). Pub. L. 104–88 substituted “Secretary of Transportation, with respect to all carriers subject to the jurisdiction of the Surface Transportation Board” for “Interstate Commerce Commission with respect to any common carrier subject to those Acts”.
 
-1992—Subsec. (a)(1)(C). Pub. L. 102–550 substituted semicolon for period at end.
+<b>1992</b>—Subsec. (a)(1)(C). Pub. L. 102–550 substituted semicolon for period at end.
 
-1991—Subsec. (a). Pub. L. 102–242, §212(d)(2), inserted at end “The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).”
+<b>1991</b>—Subsec. (a). Pub. L. 102–242, §212(d)(2), inserted at end “The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).”
 
 Pub. L. 102–242, §212(d)(1), added par. (1) and struck out former par. (1) which read as follows: “Section 8 of Federal Deposit Insurance Act, in the case of—
 
@@ -82,11 +120,15 @@ Pub. L. 102–242, §212(d)(1), added par. (1) and struck out former par. (1) wh
 
 &emsp;“(C) banks the deposits or accounts of which are insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), by the Board of Directors of the Federal Deposit Insurance Corporation.”
 
-1989—Subsec. (a)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Section 5(d) of the Home Owners’ Loan Act of 1933, section 407 of the National Housing Act, and sections 6(i) and 17 of the Federal Home Loan Bank Act, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation), in the case of any institution subject to any of those provisions.”
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Section 5(d) of the Home Owners’ Loan Act of 1933, section 407 of the National Housing Act, and sections 6(i) and 17 of the Federal Home Loan Bank Act, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation), in the case of any institution subject to any of those provisions.”
 
-1984—Subsec. (a)(5). Pub. L. 98–443 substituted “Secretary of Transportation” for “Civil Aeronautics Board”.
+<b>1984</b>—Subsec. (a)(5). Pub. L. 98–443 substituted “Secretary of Transportation” for “Civil Aeronautics Board”.
 
-1976—Subsec. (c). Pub. L. 94–239 inserted provisions giving the Federal Trade Commission power to enforce any regulation of the Federal Reserve Board promulgated under this subchapter.
+<b>1976</b>—Subsec. (c). Pub. L. 94–239 inserted provisions giving the Federal Trade Commission power to enforce any regulation of the Federal Reserve Board promulgated under this subchapter.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1995 Amendment
 

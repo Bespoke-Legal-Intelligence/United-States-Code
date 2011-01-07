@@ -30,9 +30,9 @@
 
 #### Amendments
 
-2006—Subsec. (a)(2)(B). Pub. L. 109–221 added subpar. (B) and struck out former subpar. (B) which read as follows: “The total amount of all fees imposed during any fiscal year under the schedule established under paragraph (1) shall not exceed $8,000,000.”
+<b>2006</b>—Subsec. (a)(2)(B). Pub. L. 109–221 added subpar. (B) and struck out former subpar. (B) which read as follows: “The total amount of all fees imposed during any fiscal year under the schedule established under paragraph (1) shall not exceed $8,000,000.”
 
-1997—Subsec. (a)(1). Pub. L. 105–83, §123(a)(1), substituted “gaming operation that conducts a class II or class III gaming activity” for “class II gaming activity”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–83, §123(a)(1), substituted “gaming operation that conducts a class II or class III gaming activity” for “class II gaming activity”.
 
 Subsec. (a)(2)(A)(i). Pub. L. 105–83, §123(a)(2)(A), substituted “no more than 2.5 percent” for “no less than 0.5 percent nor more than 2.5 percent”.
 

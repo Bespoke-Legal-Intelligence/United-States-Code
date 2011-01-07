@@ -48,7 +48,7 @@
 
 &emsp;&emsp;In a case in which the Federal Government provides access to the public to information or data through electronic and information technology, nothing in this section shall be construed to require a Federal department or agency—
 
-&emsp;&emsp;&emsp;(i) to make equipment owned by the Federal Government available for access and use by individuals with disabilities covered by paragraph (1) at a location other thanthat where the electronic and information technology is provided to the public; or
+&emsp;&emsp;&emsp;(i) to make equipment owned by the Federal Government available for access and use by individuals with disabilities covered by paragraph (1) at a location other than that where the electronic and information technology is provided to the public; or
 
 &emsp;&emsp;&emsp;(ii) to purchase equipment for access and use by individuals with disabilities covered by paragraph (1) at a location other than that where the electronic and information technology is provided to the public.
 
@@ -92,7 +92,7 @@ Each head of a Federal department or agency (including the Access Board, the Equ
 
 #### (2) Administrative complaints
 
-&emsp;Complaints filed under paragraph (1) shall be filed with the Federal department or agency alleged to be in noncompliance. The Federal department or agency receiving the complaint shall apply the complaint procedures established to implement section 794 of this title for resolving allegations of discrimination in a federally conducted program or activity.
+&emsp;Complaints filed under paragraph (1) shall be filed with the Federal department or agency alleged to be in noncompliance. The Federal department or agency receiving the complaint shall apply the complaint procedures established to implement section 794 of this title forresolving allegations of discrimination in a federally conducted program or activity.
 
 #### (3) Civil actions
 
@@ -110,15 +110,15 @@ This section shall not be construed to limit any right, remedy, or procedure oth
 
 #### Amendments
 
-2000—Subsec. (f)(1)(A). Pub. L. 106–246, §2405(1), substituted “Effective 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2) of this section,” for “Effective 2 years after August 7, 1998,”.
+<b>2000</b>—Subsec. (f)(1)(A). Pub. L. 106–246, §2405(1), substituted “Effective 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2) of this section,” for “Effective 2 years after August 7, 1998,”.
 
-Subsec. (f)(1)(B). Pub. L. 106–246, §2405(2), substituted “6 months after the date of publication by the AccessBoard of final standards described in subsection (a)(2) of this section.” for “2 years after August 7, 1998.”
+Subsec. (f)(1)(B). Pub. L. 106–246, §2405(2), substituted “6 months after the date of publication by the Access Board of final standards described in subsection (a)(2) of this section.” for “2 years after August 7, 1998.”
 
-1998—Pub. L. 105–220 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) and (b) relating to electronic and information technology accessibility guidelines.
+<b>1998</b>—Pub. L. 105–220 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) and (b) relating to electronic and information technology accessibility guidelines.
 
-1992—Pub. L. 102–569 amended section generally, substituting present provisions for provisions relating to electronic equipment accessibility guidelines, in consultation with electronic industry, designed to insure individuals with handicaps use of electronic office equipment with or without special peripherals, requiring the Administrator of General Services to adopt guidelines for electronic equipment accessibility established under this section for Federal procurement of electronic equipment, and defining term “special peripherals”.
+<b>1992</b>—Pub. L. 102–569 amended section generally, substituting present provisions for provisions relating to electronic equipment accessibility guidelines, in consultation with electronic industry, designed to insure individuals with handicaps use of electronic office equipment with or without special peripherals, requiring the Administrator of General Services to adopt guidelines for electronic equipment accessibility established under this section for Federal procurement of electronic equipment, and defining term “special peripherals”.
 
-1988—Subsec. (a)(1). Pub. L. 100–630, §206(f)(1), inserted “the Director of” before “the National Institute”, struck out “the” before “General Services”, and substituted “individuals with handicaps” for “handicapped individuals”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–630, §206(f)(1), inserted “the Director of” before “the National Institute”, struck out “the” before “General Services”, and substituted “individuals with handicaps” for “handicapped individuals”.
 
 Subsec. (a)(3). Pub. L. 100–630, §206(f)(2), inserted “by the Director of the National Institute on Disability and Rehabilitation Research and the Administrator of General Services in consultation with the electronics industry and the Interagency Committee for Computer Support of Handicapped Employees” after “revised”.
 

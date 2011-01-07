@@ -2,7 +2,7 @@
 
 (a) The Secretary shall establish an advisory committee to be known as the special medical advisory group. The advisory group shall advise the Secretary, through the Under Secretary for Health, and the Under Secretary for Health directly, relative to the care and treatment of disabled veterans and other matters pertinent to the Administration.
 
-(b) Members of the special medical advisory group shall be appointed by the Secretary upon the recommendation of the Under Secretary for Health. The special medical advisory group shall be composed of—
+(b) Members of the special medical advisory group shall be appointed by the Secretary uponthe recommendation of the Under Secretary for Health. The special medical advisory group shall be composed of—
 
 &emsp;(1) members of the medical, dental, podiatric, optometric, and allied scientific professions;
 
@@ -18,9 +18,9 @@
 
 #### Amendments
 
-2000—Subsec. (d). Pub. L. 106–419 inserted at end “No report shall be required under this subsection after December 31, 2004.”
+<b>2000</b>—Subsec. (d). Pub. L. 106–419 inserted at end “No report shall be required under this subsection after December 31, 2004.”
 
-1994—Subsec. (d). Pub. L. 103–446 substituted “the activities of the advisory group” for “the advisory groups activities”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–446 substituted “the activities of the advisory group” for “the advisory groups activities”.
 
-1992—Subsecs. (a), (b). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
+<b>1992</b>—Subsecs. (a), (b). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
 

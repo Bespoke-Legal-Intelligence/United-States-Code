@@ -36,7 +36,7 @@
 
 #### (3) Limitation regarding contract inducements
 
-&emsp;(A) Except as provided in subparagraph (B), the Secretary may not make a grant under subsection (a) of this section unless the State involved agrees that the contracts provided by the State pursuant to paragraph (2) of such subsection will not be provided on terms that are more favorable to health professionals than the most favorable terms that the Secretary is authorized to provide for contracts under the Loan Repayment Program under section 254<i>l</i>–1 of this title, including terms regarding—
+&emsp;(A) Except as provided in subparagraph (B), the Secretary may not make a grant undersubsection (a) of this section unless the State involved agrees that the contracts provided by the State pursuant to paragraph (2) of such subsection will not be provided on terms that are more favorable to health professionals than the most favorable terms that the Secretary is authorized to provide for contracts under the Loan Repayment Program under section 254<i>l</i>–1 of this title, including terms regarding—
 
 &emsp;&emsp;(i) the annual amount of payments provided on behalf of the professionals regarding educational loans; and
 
@@ -60,7 +60,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 &emsp;&emsp;(C) under a grant under section 254r of this title; or
 
-&emsp;(2) for any purpose other than making payments on behalf of health professionals undercontracts entered into pursuant to subsection (a)(2) of this section.
+&emsp;(2) for any purpose other than making payments on behalf of health professionals under contracts entered into pursuant to subsection (a)(2) of this section.
 
 #### (e) Reports
 
@@ -98,7 +98,7 @@ For purposes of this section, the term “State” means each of the 50 States, 
 
 #### (1) In general
 
-&emsp;For the purpose of making grants under subsection (a) of this section, there are authorized to be appropriated $12,000,000 for fiscal year 2008, and such sums as may be necessary for each of fiscal years 2009 through 2012.
+&emsp;For the purpose of making grants under subsection (a) of this section, there are authorizedto be appropriated $12,000,000 for fiscal year 2008, and such sums as may be necessary for each of fiscal years 2009 through 2012.
 
 #### (2) Availability
 
@@ -126,7 +126,7 @@ For purposes of this section, the term “State” means each of the 50 States, 
 
 &emsp;There are authorized to be appropriated to carry out this subsection, such sums as may be necessary for each of fiscal years 2007 through 2010.
 
-(July 1, 1944, ch. 373, title III, §338I, formerly §338H, as added Pub. L. 100–177, title II, §203, Dec. 1, 1987, 101 Stat. 999; renumbered §338I and amended Pub. L. 101–597, title II, §204, title III,§301, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3027, 3029, 3035; Pub. L. 105–392, title IV, §408, Nov. 13, 1998, 112 Stat. 3589; Pub. L. 107–251, title III, §315, Oct. 26, 2002, 116 Stat. 1653; Pub. L. 109–417, title II, §203(b), Dec. 19, 2006, 120 Stat. 2849; Pub. L. 110–355, §3(e), Oct. 8, 2008, 122 Stat. 3994.)
+(July 1, 1944, ch. 373, title III, §338I, formerly §338H, as added Pub. L. 100–177, title II, §203, Dec. 1, 1987, 101 Stat. 999; renumbered §338I and amended Pub. L. 101–597, title II, §204, title III, §301, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3027, 3029, 3035; Pub. L. 105–392, title IV, §408, Nov. 13, 1998, 112 Stat. 3589; Pub. L. 107–251, title III, §315, Oct. 26, 2002, 116 Stat. 1653; Pub. L. 109–417, title II, §203(b), Dec. 19, 2006, 120 Stat. 2849; Pub. L. 110–355, §3(e), Oct. 8, 2008, 122 Stat. 3994.)
 
 #### References in Text
 
@@ -138,21 +138,21 @@ A prior section 338I of act July 1, 1944, was classified to section 254r of this
 
 #### Amendments
 
-2008—Subsec. (h). Pub. L. 110–355, §3(e)(1), substituted “50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, Palau, the Marshall Islands, and the Commonwealth of the Northern Mariana Islands” for “several States”.
+<b>2008</b>—Subsec. (h). Pub. L. 110–355, §3(e)(1), substituted “50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, Palau, the Marshall Islands, and the Commonwealth of the Northern Mariana Islands” for “several States”.
 
 Subsec. (i)(1). Pub. L. 110–355, §3(e)(2), substituted “2008, and such sums as may be necessary for each of fiscal years 2009 through 2012.” for “2002 and such sums as may be necessary for each of fiscal years 2003 through 2006.”
 
-2006—Subsec. (j). Pub. L. 109–417 added subsec. (j).
+<b>2006</b>—Subsec. (j). Pub. L. 109–417 added subsec. (j).
 
-2002—Subsec. (a)(1). Pub. L. 107–251, §315(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The Secretary, acting through the Administrator of the Health Resources and Services Administration, may make grants to States for the purpose of assisting the States in operating programs described in paragraph (2) in order to provide for the increased availability of primary health services in health professional shortage areas.”
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–251, §315(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The Secretary, acting through the Administrator of the Health Resources and Services Administration, may make grants to States for the purpose of assisting the States in operating programs described in paragraph (2) in order to provide for the increased availability of primary health services in health professional shortage areas.”
 
 Subsec. (e)(1). Pub. L. 107–251, §315(2), added par. (1) and struck out former par. (1) which read as follows: “to submit to the Secretary reports providing the same types of information regarding the program operated pursuant to such subsection as reports submitted pursuant to subsection (i) of section 254<i>l</i>–1 of this title provide regarding the Loan Repayment Program under such section; and”.
 
 Subsec. (i)(1). Pub. L. 107–251, §315(3), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “For the purpose of making grants under subsection (a) of this section, there is authorized to be appropriated $10,000,000 for each of the fiscal years 1991 through 1995, and such sums as may be necessary for each of the fiscal years 1998 through 2002.”
 
-1998—Subsec. (i)(1). Pub. L. 105–392 inserted “, and such sums as may be necessary for each of the fiscal years 1998 through 2002” before period at end.
+<b>1998</b>—Subsec. (i)(1). Pub. L. 105–392 inserted “, and such sums as may be necessary for each of the fiscal years 1998 through 2002” before period at end.
 
-1990—Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing in subsecs. (a)(1), (2) and (c)(1), (3)(B)(ii).
+<b>1990</b>—Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing in subsecs. (a)(1), (2) and (c)(1), (3)(B)(ii).
 
 Pub. L. 101–597, §301, amended section generally, substituting present provisions for provisions which related to: in subsec. (a), grants; in subsec. (b), applications; in subsec. (c), Federal share; and in subsec. (d), authorization of appropriations.
 

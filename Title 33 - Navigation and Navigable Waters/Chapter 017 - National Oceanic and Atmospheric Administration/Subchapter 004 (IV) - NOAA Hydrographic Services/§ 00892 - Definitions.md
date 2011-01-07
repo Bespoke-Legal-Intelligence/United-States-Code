@@ -50,9 +50,9 @@ Act of August 6, 1947, referred to in par. (5), is act Aug. 6, 1947, ch. 504, 61
 
 #### Amendments
 
-2008—Pars. (3) to (5). Pub. L. 110–386, which directed the amendment of section “303 of the Hydrographic Services Improvement Act of 1998 (33 U.S.C. 892)” by adding pars. (3) to (5) and striking out former pars. (3) to (5), was executed to this section, which is section 302 of the Hydrographic Services Improvement Act of 1998, to reflect the probable intent of Congress. Prior toamendment, pars. (3) to (5) defined the terms “hydrographic data”, “hydrographic services”, and “Act of 1947”, respectively.
+<b>2008</b>—Pars. (3) to (5). Pub. L. 110–386, which directed the amendment of section “303 of the Hydrographic Services Improvement Act of 1998 (33 U.S.C. 892)” by adding pars. (3) to (5) and striking out former pars. (3) to (5), was executed to this section, which is section 302 of the Hydrographic Services Improvement Act of 1998, to reflect the probable intent of Congress. Prior to amendment, pars. (3) to (5) defined the terms “hydrographic data”, “hydrographic services”, and “Act of 1947”, respectively.
 
-2002—Par. (3). Pub. L. 107–372, §102(1), inserted “, geospatial, or geomagnetic” after “geodetic”.
+<b>2002</b>—Par. (3). Pub. L. 107–372, §102(1), inserted “, geospatial, or geomagnetic” after “geodetic”.
 
 Par. (4). Pub. L. 107–372, §102(2), inserted “geospatial, geomagnetic,” after “geodetic,”.
 

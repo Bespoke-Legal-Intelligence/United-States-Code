@@ -27,8 +27,6 @@ The Trust Territory of the Pacific Islands, which included the Northern Mariana 
 
 For provisions relating to the Northern Mariana Islands, formerly set out as notes under section 1681 of this title, see chapter 17 (§1801 et seq.) of this title. For provisions relating to the Federated States of Micronesia, the Marshall Islands, and Palau, formerly set out as notes under section 1681 of this title, see chapter 18 (§1901 et seq.) of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

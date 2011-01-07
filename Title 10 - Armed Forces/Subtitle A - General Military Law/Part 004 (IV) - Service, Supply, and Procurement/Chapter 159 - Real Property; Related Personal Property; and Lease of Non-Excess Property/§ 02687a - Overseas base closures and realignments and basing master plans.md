@@ -18,7 +18,11 @@ Report Elements.—A report under subsection (a) shall address the following:
 
 &emsp;(3) Any comments of the Secretary of Defense resulting from an interagency review of these plans that includes the Department of State and other Federal departments and agencies that the Secretary of Defense considers necessary for national security.
 
-(Added Pub. L. 111–84, div. B, title XXVIII, §2822(a)(1), Oct. 28, 2009, 123 Stat. 2665.)
+(Added Pub. L. 111–84, div. B, title XXVIII, §2822(a)(1), Oct. 28, 2009, 123 Stat. 2665; amended Pub. L. 111–383, div. A, title X, §1075(b)(44), Jan. 7, 2011, 124 Stat. 4371.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted “31 for” for “31for” in introductory provisions.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

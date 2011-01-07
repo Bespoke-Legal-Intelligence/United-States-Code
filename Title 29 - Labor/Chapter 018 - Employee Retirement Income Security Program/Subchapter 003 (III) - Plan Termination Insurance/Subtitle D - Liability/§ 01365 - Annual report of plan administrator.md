@@ -28,7 +28,7 @@ Section 1343(b) of this title, referred to in par. (2), was redesignated section
 
 #### Amendments
 
-1980—Pub. L. 96–364 inserted provisions in par. (2) respecting waiver by corporation and added par. (3).
+<b>1980</b>—Pub. L. 96–364 inserted provisions in par. (2) respecting waiver by corporation and added par. (3).
 
 #### Effective Date of 1980 Amendment
 

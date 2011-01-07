@@ -44,7 +44,7 @@ The interest on, and the proceeds from the sale or redemption of, any obligation
 
 #### (g) Transfers from other Funds
 
-There shall be transferred periodically (but not less often than once each fiscal year) to the Trust Fund from the Federal Old-Age and Survivors Insurance Trust Fund and from the Federal Disability Insurance Trust Fund amounts equivalent to the amounts not previously so transferred which the Secretary of Health and Human Services shall have certified as overpayments (other than amounts so certified to the Railroad Retirement Board) pursuant to section 1395gg(b) of this title. There shall be transferredperiodically (but not less often than once each fiscal year) to the Trust Fund from the Railroad Retirement Account amounts equivalent to the amounts not previously so transferred which the Secretary of Health and Human Services shall have certified as overpayments to the Railroad Retirement Board pursuant to section 1395gg(b) of this title.
+There shall be transferred periodically (but not less often than once each fiscal year) to the Trust Fund from the Federal Old-Age and Survivors Insurance Trust Fund and from the Federal Disability Insurance Trust Fund amounts equivalent to the amounts not previously so transferred which the Secretary of Health and Human Services shall have certified as overpayments (other than amounts so certified to the Railroad Retirement Board) pursuant to section 1395gg(b) of this title. There shall be transferred periodically (but not less often than once each fiscal year) to the Trust Fund from the Railroad Retirement Account amounts equivalent to the amounts not previously so transferred which the Secretary of Health and Human Services shall have certified as overpayments to the Railroad Retirement Board pursuant to section 1395gg(b) of this title.
 
 #### (h) Payments from Trust Fund amounts certified by Secretary
 
@@ -88,7 +88,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 &emsp;(i) the combined balance in the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund, reduced by the outstanding amount of any loan (including interest thereon) theretofore made to either such Trust Fund from the Federal Hospital Insurance Trust Fund under section 401(<i>l</i>) of this title, as of the last day of the second month preceding such month, to
 
-&emsp;(ii) the amount obtained by multiplying by twelve the total amount which (as estimated by the Secretary) will be paid from the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund during the month for which such ratio is to be determined for all purposes authorized by section 401 of this title (other than payments of interest on, or repayments of, loans from the Federal Hospital Insurance Trust Fund under section 401(<i>l</i>) of this title), but excluding any transfer payments between such trust funds and reducing the amount of any transfers to the Railroad Retirement Account by the amount of any transfers into either such trust fund from that Account.
+&emsp;(ii) the amount obtained by multiplying by twelve the total amount which (as estimated by the Secretary) will be paid from the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund during the month for which such ratio is to be determined for all purposes authorized by section 401 of this title (other than payments of interest on, or repayments of, loans from the Federal Hospital Insurance Trust Fund under section 401(<i>l</i>) of this title),but excluding any transfer payments between such trust funds and reducing the amount of any transfers to the Railroad Retirement Account by the amount of any transfers into either such trust fund from that Account.
 
 #### (k) Health Care Fraud and Abuse Control Account
 
@@ -140,11 +140,9 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 &emsp;&emsp;&emsp;&emsp;(II) for each of the fiscal years 1998 through 2003, the limit for the preceding fiscal year, increased by 15 percent;
 
-&emsp;&emsp;&emsp;&emsp;(III) for each of fiscal years 2004, 2005, and 2006, the limit for fiscal year 2003;
+&emsp;&emsp;&emsp;&emsp;(III) for each of fiscal years 2004, 2005, and 2006, the limit for fiscal year 2003; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) for each of fiscal years 2007, 2008, 2009, and 2010, the limit under this clause for the preceding fiscal year, increasedby the percentage increase in the consumer price index for all urban consumers (all items; United States city average) over the previous year; and
-
-&emsp;&emsp;&emsp;&emsp;(V) for each fiscal year after fiscal year 2010, the limit under this clause for fiscal year 2010.
+&emsp;&emsp;&emsp;&emsp;(IV) for each fiscal year after fiscal year 2006, the limit under this clause for the preceding fiscal year, increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) over the previous year.
 
 #### (ii) Medicare and medicaid activities
 
@@ -164,11 +162,9 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 &emsp;&emsp;&emsp;&emsp;(VII) for each of fiscal years 2003, 2004, 2005, and 2006, not less than $150,000,000 and not more than $160,000,000;
 
-&emsp;&emsp;&emsp;&emsp;(VIII) for fiscal year 2007, not less than $160,000,000, increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) over the previous year;
+&emsp;&emsp;&emsp;&emsp;(VIII) for fiscal year 2007, not less than $160,000,000, increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) over the previous year; and
 
-&emsp;&emsp;&emsp;&emsp;(IX) for each of fiscal years 2008, 2009, and 2010, not less than the amount required under this clause for the preceding fiscal year, increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) over the previous year; and
-
-&emsp;&emsp;&emsp;&emsp;(X) for each fiscal year after fiscal year 2010, not less than the amount required under this clause for fiscal year 2010.
+&emsp;&emsp;&emsp;&emsp;(IX) for each fiscal year after fiscal year 2007, not less than the amount required under this clause for the preceding fiscal year, increased by the percentage increase in the consumer price index for all urban consumers (all items;United States city average) over the previous year.
 
 #### (B) Federal Bureau of Investigation
 
@@ -186,11 +182,9 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 &emsp;&emsp;&emsp;(vi) for fiscal year 2002, $101,000,000;
 
-&emsp;&emsp;&emsp;(vii) for each of fiscal years 2003, 2004, 2005, and 2006, $114,000,000;
+&emsp;&emsp;&emsp;(vii) for each of fiscal years 2003, 2004, 2005, and 2006, $114,000,000; and
 
-&emsp;&emsp;&emsp;(viii) for each of fiscal years 2007, 2008, 2009, and 2010, the amount to be appropriated under this subparagraph for the preceding fiscal year, increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) over the previous year; and
-
-&emsp;&emsp;&emsp;(ix) for each fiscal year after fiscal year 2010, the amount to be appropriated under this subparagraph for fiscal year 2010.
+&emsp;&emsp;&emsp;(viii) for each fiscal year after fiscal year 2006, the amount to be appropriated under this subparagraph for the preceding fiscal year, increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) over the previous year.
 
 #### (C) Use of funds
 
@@ -210,7 +204,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 #### (A) In general
 
-&emsp;&emsp;There are hereby appropriated to the Account from the Trust Fund for each fiscal year such amounts as are necessary to carry out the Medicare Integrity Program under section 1395ddd of this title, subject to subparagraphs (B), (C), and (D) and to be available without further appropriation.
+&emsp;&emsp;There are hereby appropriated to the Account from the Trust Fund for each fiscal year such amounts as are necessary for activities described in paragraph (3)(C) and to carry out the Medicare Integrity Program under section 1395ddd of this title, subject to subparagraphs (B), (C), and (D) and to be available without further appropriation until expended.
 
 #### (B) Amounts specified
 
@@ -234,7 +228,9 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 &emsp;&emsp;The amount appropriated under subparagraph (A) for a fiscal year is increased as follows:
 
-&emsp;&emsp;&emsp;(i) <sup>2</sup> For fiscal year 2006, $100,000,000.
+&emsp;&emsp;&emsp;(i) For fiscal year 2006, $100,000,000.
+
+&emsp;&emsp;&emsp;(ii) For each fiscal year after 2010, by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) over the previous year.
 
 #### (D) Expansion of the Medicare-Medicaid Data Match Program
 
@@ -272,9 +268,31 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 &emsp;&emsp;(C) identifies any savings to the Trust Fund, and any other savings, resulting from expenditures from the Trust Fund; and
 
-&emsp;&emsp;(D) analyzes such other aspects of the operation of the Trust Fund as the Comptroller General of the United States considers appropriate.
+&emsp;&emsp;(D) analyzes such other aspects of the operation of the Trust Fund as the ComptrollerGeneral of the United States considers appropriate.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1817, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 299; amended Pub. L. 90–248, title I, §169(a), Jan. 2, 1968, 81 Stat. 875; Pub. L. 92–603, title I, §132(d), Oct. 30, 1972, 86 Stat. 1361; Pub. L. 95–292, §5, June 13, 1978, 92 Stat. 315; Pub. L. 96–265, title III, §310(c), June 9, 1980, 94 Stat. 460; Pub. L. 97–123, §1(b), Dec. 29, 1981, 95 Stat. 1659; Pub. L. 98–21, title I, §§141(b), 142(b)(1), (2)(A), (3), (4), 154(b), title III, §341(b), Apr. 20, 1983, 97 Stat. 98, 100, 101, 107, 135; Pub. L. 98–369, div. B, title III, §§2337(a), 2354(b)(2), title VI, §2663(j)(2)(F)(i), July 18, 1984, 98 Stat. 1091, 1100, 1170; Pub. L. 99–272, title IX, §9213(b), Apr. 7, 1986, 100 Stat. 180; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–360, title II, §212(c)(3), July 1, 1988, 102 Stat. 741; Pub. L. 100–647, title VIII, §8005(a), Nov. 10, 1988, 102 Stat. 3781; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–508, title V, §5106(c), Nov. 5, 1990, 104 Stat. 1388–268; Pub. L. 103–296, title I, §108(c)(1), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 104–191, title II, §201(b), Aug. 21, 1996, 110 Stat. 1993; Pub. L. 105–33, title IV, §4318, Aug. 5, 1997, 111 Stat. 392; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(j)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366; Pub. L. 108–173, title VII, §736(a)(5), (6), title VIII, §801(d)(1), title IX, §900(e)(1)(D), Dec. 8, 2003, 117 Stat. 2355, 2359, 2371; Pub. L. 109–171, title V, §5204, title VI, §6034(d)(2), Feb. 8, 2006, 120 Stat. 48, 78; Pub. L. 109–432, div. B, title III, §303, Dec. 20, 2006, 120 Stat. 2992.)
+#### (7) Additional funding
+
+&emsp;In addition to the funds otherwise appropriated to the Account from the Trust Fund under paragraphs (3) and (4) and for purposes described in paragraphs (3)(C) and (4)(A), there are hereby appropriated an additional $10,000,000 to such Account from such Trust Fund for each of fiscal years 2011 through 2020. The funds appropriated under this paragraph shall be allocated in the same proportion as the total funding appropriated with respect to paragraphs (3)(A) and (4)(A) was allocated with respect to fiscal year 2010, and shall be available without further appropriation until expended.
+
+#### (8) Additional funding
+
+#### (A) In general
+
+&emsp;&emsp;In addition to the funds otherwise appropriated to the Account from the Trust Fund under paragraphs (3)(C) and (4)(A) and for purposes described in paragraphs (3)(C) and (4)(A), there are hereby appropriated to such Account from such Trust Fund the following additional amounts:
+
+&emsp;&emsp;&emsp;(i) For fiscal year 2011, $95,000,000.
+
+&emsp;&emsp;&emsp;(ii) For fiscal year 2012, $55,000,000.
+
+&emsp;&emsp;&emsp;(iii) For each of fiscal years 2013 and 2014, $30,000,000.
+
+&emsp;&emsp;&emsp;(iv) For each of fiscal years 2015 and 2016, $20,000,000.
+
+#### (B) Allocation
+
+&emsp;&emsp;The funds appropriated under this paragraph shall be allocated in the same proportion as the total funding appropriated with respect to paragraphs (3)(A) and (4)(A) was allocated with respect to fiscal year 2010, and shall be available without further appropriation until expended.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1817, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 299; amended Pub. L. 90–248, title I, §169(a), Jan. 2, 1968, 81 Stat. 875; Pub. L. 92–603, title I, §132(d), Oct. 30, 1972, 86 Stat. 1361; Pub. L. 95–292, §5, June 13, 1978, 92 Stat. 315; Pub. L. 96–265, title III, §310(c), June 9, 1980, 94 Stat. 460; Pub. L. 97–123, §1(b), Dec. 29, 1981, 95 Stat. 1659; Pub. L. 98–21, title I, §§141(b), 142(b)(1), (2)(A), (3), (4), 154(b), title III, §341(b), Apr. 20, 1983, 97 Stat. 98, 100, 101, 107, 135; Pub. L. 98–369, div. B, title III, §§2337(a), 2354(b)(2), title VI, §2663(j)(2)(F)(i), July 18, 1984, 98 Stat. 1091, 1100, 1170; Pub. L. 99–272, title IX, §9213(b), Apr. 7, 1986, 100 Stat. 180; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–360, title II, §212(c)(3), July 1, 1988, 102 Stat. 741; Pub. L. 100–647, title VIII, §8005(a), Nov. 10, 1988, 102 Stat. 3781; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–508, title V, §5106(c), Nov. 5, 1990, 104 Stat. 1388–268; Pub. L. 103–296, title I, §108(c)(1), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 104–191, title II, §201(b), Aug. 21, 1996, 110 Stat. 1993; Pub. L. 105–33, title IV, §4318, Aug. 5, 1997, 111 Stat. 392; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(j)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366; Pub. L. 108–173, title VII, §736(a)(5), (6), title VIII, §801(d)(1), title IX, §900(e)(1)(D), Dec. 8, 2003, 117 Stat. 2355, 2359, 2371; Pub. L. 109–171, title V, §5204, title VI, §6034(d)(2), Feb. 8, 2006, 120 Stat. 48, 78; Pub. L. 109–432, div. B, title III, §303, Dec. 20, 2006, 120 Stat. 2992; Pub. L. 111–148, title VI, §6402(i), Mar. 23, 2010, 124 Stat. 760; Pub. L. 111–152, title I, §1303(a)(1), Mar. 30, 2010, 124 Stat. 1057.)
 
 #### References in Text
 
@@ -288,7 +306,35 @@ The Employee Retirement Income Security Act of 1974, referred to in subsec. (k)(
 
 #### Amendments
 
-2006—Subsec. (k)(3)(A)(i). Pub. L. 109–432, §303(a)(1), in introductory provisions inserted “until expended” after “without further appropriation”, in subcl. (II) struck out “and” at end, in subcl. (III) substituted “for each of fiscal years 2004, 2005, and 2006” for “for each fiscal year after fiscal year 2003” and semicolon for period at end, and added subcls. (IV) and (V).
+<b>2010</b>—Subsec. (k)(3)(A)(i)(III). Pub. L. 111–148, §6402(i)(2)(A)(i), inserted “and” at the end.
+
+Subsec. (k)(3)(A)(i)(IV). Pub. L. 111–148, §6402(i)(2)(A)(ii), substituted “for each fiscal year after fiscal year 2006” for “for each of fiscal years 2007, 2008, 2009, and 2010” and a period for “; and”.
+
+Subsec. (k)(3)(A)(i)(V). Pub. L. 111–148, §6402(i)(2)(A)(iii), struck out subcl. (V) which read as follows: “for each fiscal year after fiscal year 2010, the limit under this clause for fiscal year 2010.”
+
+Subsec. (k)(3)(A)(ii)(VIII). Pub. L. 111–148, §6402(i)(2)(B)(i), inserted “and” at the end.
+
+Subsec. (k)(3)(A)(ii)(IX). Pub. L. 111–148, §6402(i)(2)(B)(ii), substituted “for each fiscal year after fiscal year 2007” for “for each of fiscal years 2008, 2009, and 2010” and a period for “; and”.
+
+Subsec. (k)(3)(A)(ii)(X). Pub. L. 111–148, §6402(i)(2)(B)(iii), struck out subcl. (X) which read as follows: “for each fiscal year after fiscal year 2010, not less than the amount required under this clause for fiscal year 2010.”
+
+Subsec. (k)(3)(B)(vii). Pub. L. 111–148, §6402(i)(2)(C)(i), inserted “and” at the end.
+
+Subsec. (k)(3)(B)(viii). Pub. L. 111–148, §6402(i)(2)(C)(ii), substituted “for each fiscal year after fiscal year 2006” for “for each of fiscal years 2007, 2008, 2009, and 2010” and a period for “; and”.
+
+Subsec. (k)(3)(B)(ix). Pub. L. 111–148, §6402(i)(2)(C)(iii), struck out cl. (ix) which read as follows: “for each fiscal year after fiscal year 2010, the amount to be appropriated under this subparagraph for fiscal year 2010.”
+
+Subsec. (k)(4)(A). Pub. L. 111–152, §1303(a)(1)(B), inserted “for activities described in paragraph (3)(C) and” after “necessary”.
+
+Pub. L. 111–148, §6402(i)(1)(B), inserted “until expended” after “appropriation”.
+
+Subsec. (k)(4)(C)(ii). Pub. L. 111–148, §6402(i)(2)(D), added cl. (ii).
+
+Subsec. (k)(7). Pub. L. 111–148, §6402(i)(1)(A), added par. (7).
+
+Subsec. (k)(8). Pub. L. 111–152, §1303(a)(1)(A), added par. (8).
+
+<b>2006</b>—Subsec. (k)(3)(A)(i). Pub. L. 109–432, §303(a)(1), in introductory provisions inserted “until expended” after “without further appropriation”, in subcl. (II) struck out “and” at end, in subcl. (III) substituted “for each of fiscal years 2004, 2005, and 2006” for “for each fiscalyear after fiscal year 2003” and semicolon for period at end, and added subcls. (IV) and (V).
 
 Subsec. (k)(3)(A)(ii)(VI) to (X). Pub. L. 109–432, §303(a)(2), in subcl. (VI) struck out “and” at end, in subcl. (VII) substituted “for each of fiscal years 2003, 2004, 2005, and 2006” for “for each fiscal year after fiscal year 2002” and semicolon for period at end, and added subcls. (VIII) to (X).
 
@@ -302,7 +348,7 @@ Subsec. (k)(4)(C). Pub. L. 109–171, §5204(2), added subpar. (C).
 
 Subsec. (k)(4)(D). Pub. L. 109–171, §6034(d)(2)(B), added subpar. (D).
 
-2003—Subsec. (b). Pub. L. 108–173, §900(e)(1)(D), in fifth sentence of introductory provisions, substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”, and, in second sentence of concluding provisions, substituted “Chief Actuary of the Centers for Medicare \& Medicaid Services” for “Chief Actuarial Officer of the Health Care Financing Administration”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–173, §900(e)(1)(D), in fifth sentence of introductory provisions, substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”, and, in second sentence of concluding provisions, substituted “Chief Actuary of the Centers for Medicare \& Medicaid Services” for “Chief Actuarial Officer of the Health Care Financing Administration”.
 
 Subsec. (b)(2). Pub. L. 108–173, §801(d)(1), inserted at end “Each report provided under paragraph (2) beginning with the report in 2005 shall include the information specified in section 801(a) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003.”
 
@@ -312,33 +358,33 @@ Subsec. (k)(3)(A)(ii). Pub. L. 108–173, §736(a)(5)(B), substituted “the pro
 
 Subsec. (k)(6)(B). Pub. L. 108–173, §736(a)(6), substituted “program under this subchapter” for “Medicare program under this subchapter”.
 
-1999—Subsec. (k)(2)(C)(i). Pub. L. 106–113 substituted “section 24(a)” for “section 982(a)(6)(B)”.
+<b>1999</b>—Subsec. (k)(2)(C)(i). Pub. L. 106–113 substituted “section 24(a)” for “section 982(a)(6)(B)”.
 
-1997—Subsec. (k)(6). Pub. L. 105–33 inserted “June 1, 1998, and” after “Not later than” in introductory provisions.
+<b>1997</b>—Subsec. (k)(6). Pub. L. 105–33 inserted “June 1, 1998, and” after “Not later than” in introductory provisions.
 
-1996—Subsec. (k). Pub. L. 104–191 added subsec. (k).
+<b>1996</b>—Subsec. (k). Pub. L. 104–191 added subsec. (k).
 
-1994—Subsec. (a). Pub. L. 103–296, §108(c)(1)(A), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” wherever appearing.
+<b>1994</b>—Subsec. (a). Pub. L. 103–296, §108(c)(1)(A), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” wherever appearing.
 
 Subsec. (b). Pub. L. 103–296, §108(c)(1)(B), inserted “the Commissioner of Social Security,” after “composed of” in introductory provisions.
 
 Subsec. (f)(1). Pub. L. 103–296, §108(c)(1)(C), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” in two places.
 
-1990—Subsec. (i). Pub. L. 101–508 inserted at end “The amount available for payment under this subsection for travel by a representative to attend an administrative proceeding before an administrative law judge or other adjudicator shall not exceed the maximum amount allowable under this subsection for such travel originating within the geographic area of the office having jurisdiction over such proceeding.”
+<b>1990</b>—Subsec. (i). Pub. L. 101–508 inserted at end “The amount available for payment under this subsection for travel by a representative to attend an administrative proceeding before an administrative law judge or other adjudicator shall not exceed the maximum amount allowable under this subsection for such travel originating within the geographic area of the office having jurisdiction over such proceeding.”
 
-1989—Subsec. (b). Pub. L. 101–234 repealed Pub. L. 100–360, §212(c)(3), and provided that the provisions of law amended or repealed by such section are restored or revised as if such section had not been enacted, see 1988 Amendment note below.
+<b>1989</b>—Subsec. (b). Pub. L. 101–234 repealed Pub. L. 100–360, §212(c)(3), and provided that the provisions of law amended or repealed by such section are restored or revised as if such section had not been enacted, see 1988 Amendment note below.
 
-1988—Subsec. (b). Pub. L. 100–647 inserted after first sentence “A member of the Board of Trustees serving as a member of the public and nominated and confirmed to fill a vacancy occurring during a term shall be nominated and confirmed only for the remainder of such term. An individual nominated and confirmed as a member of the public may serve in such position after the expiration of such member's term until the earlier of the time at which the member's successor takes office or the time at which a report of the Board is first issued under paragraph (2) after the expiration of the member's term.”
+<b>1988</b>—Subsec. (b). Pub. L. 100–647 inserted after first sentence “A member of the Board of Trustees serving as a member of the public and nominated and confirmed to fill a vacancy occurring during a term shall be nominated and confirmed only for the remainder of such term. An individual nominated and confirmed as a member of the public may serve in such position after the expiration of such member's term until the earlier of the time at which the member's successor takes office or the time at which a report of the Board is first issued under paragraph (2) after the expiration of the member's term.”
 
 Pub. L. 100–360 inserted after sixth sentence “Such report shall also identify (and treat separately) those outlays from the Trust Fund which are also outlays from the Medicare Catastrophic Coverage Account created under section 1395t–2 of this title and those outlays for which there are amounts transferred into the Federal Hospital Insurance Catastrophic Coverage Reserve Fund.”
 
-1986—Subsec. (a)(1), (2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (a)(1), (2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 Subsec. (b). Pub. L. 99–272 struck out provision at end of penultimate sentence that certification shall not refer to economic assumptions underlying Trustee's report.
 
 Subsec. (f)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing.
 
-1984—Subsec. (a). Pub. L. 98–369, §2337(a), in provisions following par. (2) substituted “from time to time” for “monthly on the first day of each calendar month”, “paid to or deposited into the Treasury” for “to be paid to or deposited into the Treasury during such month”, and struck out provision that all amounts transferred to the Trust Fund under the preceding sentence had to be invested by the Managing Trustee in the same manner and to the same extent as the other assets of the Trust Fund, and the Trust Fund had to pay interest to the general fund on the amount so transferred on the first day of any month at a rate (calculated on a daily basis, and applied against the difference between the amount so transferred on such first day and the amount which would have been transferred to the Trust Fund up to that day under the procedures in effect on January 1, 1983) equal to the rate earned by the investments of the Trust Fund in the same month under subsec. (c).
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §2337(a), in provisions following par. (2) substituted “from time to time” for “monthly on the first day of each calendar month”, “paid to or deposited into the Treasury” for “to be paid to or deposited into the Treasury during such month”, and struck out provision that all amounts transferred to the Trust Fund under the preceding sentence had to be invested by the Managing Trustee in the same manner and to the same extent as the other assets of the Trust Fund, and the Trust Fund had to pay interest to the general fund on the amount so transferred on the first day of any month at a rate (calculated on a daily basis, and applied against the difference between the amount so transferred on such first day and the amount which would have been transferred to the Trust Fund up to that day under the procedures in effect on January 1, 1983) equal to the rate earned by the investments of the Trust Fund in the same month under subsec. (c).
 
 Subsec. (a)(1), (2). Pub. L. 98–369, §2663(j)(2)(F)(i), substituted “Health and Human Services” for “Health, Education, and Welfare” wherever appearing.
 
@@ -346,9 +392,9 @@ Subsec. (c). Pub. L. 98–369, §2354(b)(2), substituted “under chapter 31 of 
 
 Subsecs. (f)(1), (g), (h). Pub. L. 98–369, §2663(j)(2)(F)(i), substituted “Health and Human Services” for “Health, Education, and Welfare” wherever appearing.
 
-1983—Subsec. (a). Pub. L. 98–21, §141(b)(1)(A), in provisions following par. (2) substituted “monthly on the first day of each calendar month” for “from time to time”, substituted “to be paid to or deposited into the Treasury during such month” for “paid to or deposited into the Treasury”, and inserted provision that all amounts transferred to the Trust Fund under existing provisions shall be invested by the Managing Trustee in the same manner and to the same extent as the other assets of the Trust Fund; and the Trust Fund shall pay interest to the general fund on the amount so transferred on the first day of any month at a rate (calculated on a daily basis, and applied against the difference between the amount so transferred on such first day and the amount which would have been transferred to the Trust Fund up to that day under the procedures in effect on Jan. 1, 1983) equal to the rate earned by the investments of the Trust Fund in the same month under subsection (c).
+<b>1983</b>—Subsec. (a). Pub. L. 98–21, §141(b)(1)(A), in provisions following par. (2) substituted “monthly on the first day of each calendar month” for “from time to time”, substituted “to be paid to or deposited into the Treasury during such month” for “paid to or deposited into the Treasury”, and inserted provision that all amounts transferred to the Trust Fund under existing provisions shall be invested by the Managing Trustee in the same manner and to the same extent as the other assets of the Trust Fund; and the Trust Fund shall pay interest to the general fund on the amount so transferred on the first day of any month at a rate (calculated on a daily basis, and applied against the difference between the amount so transferred on such first day and the amount which would have been transferred to the Trust Fund up to that day under the procedures in effect on Jan. 1, 1983) equal to the rate earned by the investments of the Trust Fund in the same month under subsection (c).
 
-Subsec. (b). Pub. L. 98–21, §341(b)(1), substituted in provisions preceding par. (1) “Secretary of Health and Human Services, all ex officio, and of two members of the public (both of whom may not be from the same political party), who shall be nominated by the President for a term of four years and subject to confirmation by the Senate” for “Secretary of Health, Education, and Welfare, all ex officio”.
+Subsec. (b). Pub. L. 98–21, §341(b)(1), substituted in provisions preceding par. (1) “Secretary of Health and Human Services, all ex officio, and of two members of the public (both of whom may not be from the same political party), who shall be nominated by the President for a term of four years and subject to confirmation bythe Senate” for “Secretary of Health, Education, and Welfare, all ex officio”.
 
 Pub. L. 98–21, §154(b), inserted at end provision that the report referred to in par. (2) shall also include an actuarial opinion by the Chief Actuarial Officer of the Health Care Financing Administration certifying that the techniques and methodologies used are generally accepted within the actuarial profession and that the assumptions and cost estimates used are reasonable and provided further that the certification shall not refer to economic assumptions underlying the Trustee's report.
 
@@ -362,15 +408,15 @@ Subsec. (j)(3)(A). Pub. L. 98–21, §142(b)(3), designated existing provisions 
 
 Subsec. (j)(5). Pub. L. 98–21, §142(b)(4), added par. (5).
 
-1981—Subsec. (j). Pub. L. 97–123 added subsec. (j).
+<b>1981</b>—Subsec. (j). Pub. L. 97–123 added subsec. (j).
 
-1980—Subsec. (i). Pub. L. 96–265 added subsec. (i).
+<b>1980</b>—Subsec. (i). Pub. L. 96–265 added subsec. (i).
 
-1978—Subsec. (b). Pub. L. 95–292 substituted “Administrator of the Health Care Financing Administration”for “Commissioner of Social Security” in provisions preceding par. (1).
+<b>1978</b>—Subsec. (b). Pub. L. 95–292 substituted “Administrator of the Health Care Financing Administration” for “Commissioner of Social Security” in provisions preceding par. (1).
 
-1972—Subsec. (a). Pub. L. 92–603 inserted “such gifts and bequests as may be made as provided in section 401(i)(1) of this title, and” after “consist of” and before “such amounts” in provisions preceding par. (1).
+<b>1972</b>—Subsec. (a). Pub. L. 92–603 inserted “such gifts and bequests as may be made as provided in section 401(i)(1) of this title, and” after “consist of” and before “such amounts” in provisions preceding par. (1).
 
-1968—Subsec. (b)(2). Pub. L. 90–248 substituted “April” for “March”.
+<b>1968</b>—Subsec. (b)(2). Pub. L. 90–248 substituted “April” for “March”.
 
 #### Effective Date of 1999 Amendment
 
@@ -442,7 +488,7 @@ Correction of Trust Fund Holdings.—
 
 &emsp;“(1)
 
-In general.—The Secretary of the Treasury shall take the actions described in paragraph (2) with respect to the Trust Fund with the goal being that, after such actions are taken, the holdings of the Trust Fund will replicate, to the extent practicable in the judgment of the Secretary of the Treasury, in consultation with the Secretary \[of Health and Human Services\], the holdings that would have been held by the Trust Fund if the clerical error involved had not occurred.
+In general.—The Secretary of the Treasury shall take the actions described in paragraph (2) with respect to the Trust Fund with the goal being that, after such actions are taken, the holdings of the Trust Fund will replicate, to the extent practicable in the judgment of the Secretary of the Treasury, inconsultation with the Secretary \[of Health and Human Services\], the holdings that would have been held by the Trust Fund if the clerical error involved had not occurred.
 
 &emsp;“(2)
 
@@ -602,7 +648,7 @@ Medicare trust fund.—The term ‘medicare trust fund’ means—
 
 &emsp;&emsp;“(A) the Federal Hospital Insurance Trust Fund established under section 1817 of the Social Security Act (42 U.S.C. 1395i); and
 
-&emsp;&emsp;“(B) the Federal Supplementary Medical Insurance Trust Fund established under section 1841 ofsuch Act (42 U.S.C. 1395t), including the Medicare Prescription Drug Account under such Trust Fund.
+&emsp;&emsp;“(B) the Federal Supplementary Medical Insurance Trust Fund established under section 1841 of such Act (42 U.S.C. 1395t), including the Medicare Prescription Drug Account under such Trust Fund.
 
 “(d)
 
@@ -661,6 +707,4 @@ Restoration payment.—Notwithstanding any other provision of law, if the Federa
 Notwithstanding subsec. (b)(2) of this section, the annual report of the Board of Trustees of the Trust Fund required for calendar year 1983 under this section may be filed at any time not later than forty-five days after Apr. 20, 1983, see section 154(d) of Pub. L. 98–21, set out as a note under section 401 of this title.
 
 <i><sup>1</sup></i><i> So in original. See 2003 Amendment note below.</i>
-
-<i><sup>2</sup></i><i> So in original. No cl. (ii) has been enacted.</i>
 

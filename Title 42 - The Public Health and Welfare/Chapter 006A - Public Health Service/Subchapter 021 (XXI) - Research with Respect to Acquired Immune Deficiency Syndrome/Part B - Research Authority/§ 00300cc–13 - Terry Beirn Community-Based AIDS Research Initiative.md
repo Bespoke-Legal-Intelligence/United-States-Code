@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-After consultation with the Commissioner of Food and Drugs, the Director of the National Institutes of Health, acting through the Director of the National Institute of Allergy and Infectious Diseases, may make grants to public entities and nonprofit private entities concerned with acquired immune deficiency syndrome, and may enter into contracts with public and private such <sup>1</sup> entities, for the purpose of planningand conducting, in the community involved, clinical trials of experimental treatments for infection with the etiologic agent for such syndrome that are approved by the Commissioner of Food and Drugs for investigational use under regulations issued under section 355 of title 21.
+After consultation with the Commissioner of Food and Drugs, the Director of the National Institutes of Health, acting through the Director of the National Institute of Allergy and Infectious Diseases, may make grants to public entities and nonprofit private entities concerned with acquired immune deficiency syndrome, and may enter into contracts with public and private such <sup>1</sup> entities, for the purpose of planning and conducting, in the community involved, clinical trials of experimental treatments for infection with the etiologic agent for such syndrome that are approved by the Commissioner of Food and Drugs for investigational use under regulations issued under section 355 of title 21.
 
 #### (b) Requirement of certain projects
 
@@ -52,15 +52,15 @@ A prior section 300cc–13, act July 1, 1944, §2314, was successively renumbere
 
 #### Amendments
 
-1991—Pub. L. 102–96, §3(1), substituted “Terry Beirn Community-Based AIDS Research Initiative” for “Community-based evaluations of experimental therapies” in section catchline.
+<b>1991</b>—Pub. L. 102–96, §3(1), substituted “Terry Beirn Community-Based AIDS Research Initiative” for“Community-based evaluations of experimental therapies” in section catchline.
 
 Subsec. (c). Pub. L. 102–96, §3(2), substituted “, schools of medicine and primary providers” for “and schools of medicine” in heading and substituted “schools of medicine, osteopathic medicine, and existing consortia of primary care providers organized to conduct clinical research concerning acquired immune deficiency syndrome” for “schools of medicine and osteopathic medicine”.
 
 Subsec. (e). Pub. L. 102–96, §3(3), substituted “1996” for “1991” in pars. (1) and (2).
 
-1989—Subsec. (c). Pub. L. 101–93 inserted “and osteopathic medicine” after “schools of medicine”.
+<b>1989</b>—Subsec. (c). Pub. L. 101–93 inserted “and osteopathic medicine” after “schools of medicine”.
 
-1988—Subsec. (a). Pub. L. 100–690, §2617(b)(1), which directed substitution of “through the Director of the National Institute of Allergy” for “through the National Institutes of Allergy”, was executed by making substitution for “through the National Institute of Allergy” as the probable intent of Congress.
+<b>1988</b>—Subsec. (a). Pub. L. 100–690, §2617(b)(1), which directed substitution of “through the Director of the National Institute of Allergy” for “through the National Institutes of Allergy”, was executed by making substitution for “through the National Institute of Allergy” as the probable intent of Congress.
 
 Subsec. (b)(2)(B)(iii). Pub. L. 100–690, §2617(b)(2), which directed substitution of “Institute” for “Institutes”, could not be executed because “Institute” was singular in original.
 
@@ -84,7 +84,7 @@ Findings.—Congress finds that—
 
 &emsp;“(2) community-based clinical trials provide an efficient and cost-effective means to develop new HIV-related treatments, benefiting all people living with HIV disease and other illnesses; and
 
-&emsp;“(3) because the community-based clinical trials model has a proven ability to conduct rapid trialsthat meet the very highest standards of scientific inquiry, this program should be reauthorized and significantly expanded.
+&emsp;“(3) because the community-based clinical trials model has a proven ability to conduct rapid trials that meet the very highest standards of scientific inquiry, this program should be reauthorized and significantly expanded.
 
 “(b)
 

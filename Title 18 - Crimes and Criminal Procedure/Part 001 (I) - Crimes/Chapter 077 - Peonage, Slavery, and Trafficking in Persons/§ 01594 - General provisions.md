@@ -28,5 +28,5 @@ Witness Protection.—Any violation of this chapter shall be considered an organ
 
 #### Amendments
 
-2008—Subsecs. (b) to (f). Pub. L. 110–457 added subsecs. (b) and (c) and redesignated former subsecs. (b) to (d) as (d) to (f), respectively.
+<b>2008</b>—Subsecs. (b) to (f). Pub. L. 110–457 added subsecs. (b) and (c) and redesignated former subsecs. (b) to (d) as (d) to (f), respectively.
 

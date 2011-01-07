@@ -20,7 +20,7 @@ Provisions similar to this section were contained in section 1806(b) of this tit
 
 #### Amendments
 
-2004—Pub. L. 108–458, §6904(a)(1), designated existing provisions as subsec. (a).
+<b>2004</b>—Pub. L. 108–458, §6904(a)(1), designated existing provisions as subsec. (a).
 
 Pub. L. 108–458, §6803(b)(2), inserted “participate in the development of,” after “interstate or foreign commerce,”.
 
@@ -34,5 +34,5 @@ Pub. L. 108–458, §6904(a)(2), which directed amendment by inserting “knowin
 
 Subsec. (b). Pub. L. 108–458, §6904(a)(7), added subsec. (b).
 
-1958—Pub. L. 85–479 included transfers or receipts in foreign commerce.
+<b>1958</b>—Pub. L. 85–479 included transfers or receipts in foreign commerce.
 

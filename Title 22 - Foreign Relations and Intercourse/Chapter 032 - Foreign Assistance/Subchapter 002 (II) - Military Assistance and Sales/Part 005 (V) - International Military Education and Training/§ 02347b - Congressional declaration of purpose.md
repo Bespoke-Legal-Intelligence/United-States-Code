@@ -12,5 +12,5 @@ Education and training activities conducted under this part shall be designed—
 
 #### Amendments
 
-1978—Pub. L. 95–384 added par. (3).
+<b>1978</b>—Pub. L. 95–384 added par. (3).
 

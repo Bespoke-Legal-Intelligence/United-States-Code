@@ -22,21 +22,21 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Amendments
 
-1990—Subsec. (b)(1). Pub. L. 101–513 inserted “and part X of this subchapter” after “this part”.
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–513 inserted “and part X of this subchapter” after “this part”.
 
-1981—Subsec. (c). Pub. L. 97–113 added subsec. (c).
+<b>1981</b>—Subsec. (c). Pub. L. 97–113 added subsec. (c).
 
-1979—Subsec. (b). Pub. L. 96–53 redesignated subsec. (d) as (b), and repealed former subsec. (b) which related to Presidential report to Congress on the impact of development programs, etc., on the economic integration of women.
+<b>1979</b>—Subsec. (b). Pub. L. 96–53 redesignated subsec. (d) as (b), and repealed former subsec. (b) which related to Presidential report to Congress on the impact of development programs, etc., on the economic integration of women.
 
 Subsec. (c). Pub. L. 96–53 repealed subsec. (c) which required the report under former subsec. (b) to be submitted not later than one year after Aug. 3, 1977.
 
 Subsec. (d). Pub. L. 96–53 redesignated subsec. (d) as (b).
 
-1978—Subsec. (d). Pub. L. 95–424 added subsec. (d).
+<b>1978</b>—Subsec. (d). Pub. L. 95–424 added subsec. (d).
 
-1977—Pub. L. 95–88 designated existing provisions as subsec. (a), inserted provisions relating to a recognition of the fact that women in developing countries play a significant role in economic production, family support, and the overall development process of the national economies of such countries, and added subsecs. (b) and (c).
+<b>1977</b>—Pub. L. 95–88 designated existing provisions as subsec. (a), inserted provisions relating to a recognition of the fact that women in developing countries play a significant role in economic production, family support, and the overall development process of the national economies of such countries, and added subsecs. (b) and (c).
 
-1975—Pub. L. 94–161 substituted “This subchapter” for “Sections 2151a through 2151e of this title”.
+<b>1975</b>—Pub. L. 94–161 substituted “This subchapter” for “Sections 2151a through 2151e of this title”.
 
 #### Effective Date of 1979 Amendment
 

@@ -14,7 +14,7 @@ Section is comprised of first paragraph of section 602 of act Oct. 22, 1951. Sec
 
 #### Amendments
 
-1953—Act Aug. 5, 1953, inserted proviso that this section is not to apply to the United States representatives to the Caribbean Commission and the Joint Support program of the International Civil Aviation Organization.
+<b>1953</b>—Act Aug. 5, 1953, inserted proviso that this section is not to apply to the United States representatives to the Caribbean Commission and the Joint Support program of the International Civil Aviation Organization.
 
 #### Similar Provisions
 

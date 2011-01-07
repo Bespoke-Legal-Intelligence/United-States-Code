@@ -44,7 +44,7 @@ In the case of a deficiency as defined in section 6211 (relating to income, esta
 
 #### (2) Foreign tax credit carrybacks
 
-&emsp;If any credit allowed for any taxable year is increased by reason of a carryback of tax paid or accrued to foreign countries or possessions of the United States, such increase shall not affect the computation of interest under this section for the period ending with the filingdate for the taxable year in which such taxes were in fact paid or accrued, or, with respect to any portion of such credit carryback from a taxable year attributable to a net operating loss carryback or a capital loss carryback from a subsequent taxable year, such increase shall not affect the computation of interest under this section for the period ending with the filing date for such subsequent taxable year.
+&emsp;If any credit allowed for any taxable year is increased by reason of a carryback of tax paid or accrued to foreign countries or possessions of the United States, such increase shall not affect the computation of interest under this section for the period ending with the filing date for the taxable year in which such taxes were in fact paid or accrued, or, with respect to any portion of such credit carryback from a taxable year attributable to a net operating loss carryback or a capital loss carryback from a subsequent taxable year, such increase shall not affect the computation of interest under this section for the period ending with the filing date for such subsequent taxable year.
 
 #### (3) Certain credit carrybacks
 
@@ -154,11 +154,11 @@ Section 6156, referred to in subsec. (b)(2), was repealed by Pub. L. 108–357, 
 
 #### Amendments
 
-2005—Subsec. (d)(4). Pub. L. 109–135 substituted “6611(f)(4)(A)” for “6611(f)(3)(A)”.
+<b>2005</b>—Subsec. (d)(4). Pub. L. 109–135 substituted “6611(f)(4)(A)” for “6611(f)(3)(A)”.
 
-1998—Subsec. (f). Pub. L. 105–206 inserted at end “The preceding sentence shall not apply to the extent that section 6621(d) applies.”
+<b>1998</b>—Subsec. (f). Pub. L. 105–206 inserted at end “The preceding sentence shall not apply to the extent that section 6621(d) applies.”
 
-1997—Subsec. (c). Pub. L. 105–34, §1242(a), inserted at end “In the case of a settlement under section 6224(c) which results in the conversion of partnership items to nonpartnership items pursuant to section 6231(b)(1)(C), the preceding sentence shall apply to a computational adjustment resulting from such settlement in the same manner as if such adjustment were a deficiency and such settlement were a waiver referred to in the preceding sentence.”
+<b>1997</b>—Subsec. (c). Pub. L. 105–34, §1242(a), inserted at end “In the case of a settlement under section 6224(c) which results in the conversion of partnership items to nonpartnership items pursuant to section 6231(b)(1)(C), the preceding sentence shall apply to a computational adjustment resulting from such settlement in the same manner as if such adjustment were a deficiency and such settlement were a waiver referred to in the preceding sentence.”
 
 Subsec. (d)(2) to (4). Pub. L. 105–34, §1055(a), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
@@ -178,15 +178,15 @@ Subsec. (j)(4). Pub. L. 105–34, §503(c)(2), substituted “2-percent” for �
 
 Pub. L. 105–34, §501(e), redesignated par. (3) as (4).
 
-1996—Subsec. (e)(2)(A). Pub. L. 104–168, §303(b)(1), substituted “21 calendar days from the date of notice and demand therefor (10 business days if the amount for which such notice and demand is made equals or exceeds $100,000)” for “10 days from the date of notice and demand therefor”.
+<b>1996</b>—Subsec. (e)(2)(A). Pub. L. 104–168, §303(b)(1), substituted “21 calendar days from the date of notice and demand therefor (10 business days if the amount for which such notice and demand is made equals or exceeds $100,000)” for “10 days from the date of notice and demand therefor”.
 
 Subsec. (e)(3). Pub. L. 104–168, §303(a), substituted “specified period” for “10 days” in heading and amended text generally. Prior to amendment, text read as follows: “If notice and demand is made for payment of any amount, and if such amount is paid within 10 days after the date of such notice and demand interest under this section on the amount so paid shall not be imposed for the period after the date of such notice and demand.”
 
-1990—Subsec. (b)(2). Pub. L. 101–508 struck out “or 6158(a)” after “6156(a)” in introductory provisions, struck out “or 6158(a), as the case may be” after “6156(a)” in subpar. (A), and struck out at end “For purposes of subparagraph (A), section 6158(a) shall be treated as providing that the date prescribed for payment of each installment shall not be later than the date prescribed for payment of the 1985 installment.”
+<b>1990</b>—Subsec. (b)(2). Pub. L. 101–508 struck out “or 6158(a)” after “6156(a)” in introductory provisions, struck out “or 6158(a), as the case may be” after “6156(a)” in subpar. (A), and struck out at end “For purposes of subparagraph (A), section 6158(a) shall be treated as providing that the date prescribed for payment of each installment shall not be later than the date prescribed for payment of the 1985 installment.”
 
-1989—Subsec. (e)(2). Pub. L. 101–239 substituted “section 6651(a)(1) or 6653 or under part II of subchapter A of chapter 68” for “section 6651(a)(1), 6653, 6659, 6660, or 6661” in subpars. (A) and (B).
+<b>1989</b>—Subsec. (e)(2). Pub. L. 101–239 substituted “section 6651(a)(1) or 6653 or under part II of subchapter A of chapter 68” for “section 6651(a)(1), 6653, 6659, 6660, or 6661” in subpars. (A) and (B).
 
-1988—Subsec. (b)(1). Pub. L. 100–647, §6234(b)(1), inserted “or any installment agreement entered into under section 6159” after “time for payment”.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–647, §6234(b)(1), inserted “or any installment agreement entered into under section 6159” after “time for payment”.
 
 Subsec. (b)(2). Pub. L. 100–647, §1018(u)(42), made technical correction to directory language of Pub. L. 99–514, §1404(c)(3), see 1986 Amendment note below.
 
@@ -194,9 +194,9 @@ Subsec. (e)(2)(A), (B). Pub. L. 100–647, §1015(b)(2)(C), substituted “6653,
 
 Subsec. (i). Pub. L. 100–647, §7106(c)(5), struck out “or 3321” after “3301”.
 
-1987—Subsec. (h). Pub. L. 100–203 substituted “section 6654 or 6655” for “section 6154 or 6654”.
+<b>1987</b>—Subsec. (h). Pub. L. 100–203 substituted “section 6654 or 6655” for “section 6154 or 6654”.
 
-1986—Subsec. (a). Pub. L. 99–514, §1511(c)(11), substituted “the underpayment rate established under section 6621” for “an annual rate established under section 6621”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1511(c)(11), substituted “the underpayment rate established under section 6621” for “an annual rate established under section 6621”.
 
 Subsec. (b)(2). Pub. L. 99–514, §1404(c)(3), as amended by Pub. L. 100–647, §1018(u)(42), substituted “6156(a) or 6158(a)” for “6152(a), 6156(a), or 6158(a)” in introductory provisions and “6156(b) or 6158(a)” for “6152(b), 6156(b), or 6158(a)” in subpar. (A).
 
@@ -204,7 +204,7 @@ Subsec. (b)(4), (5). Pub. L. 99–514, §1512(a), added par. (4) and redesignate
 
 Subsec. (c). Pub. L. 99–514, §1564(a), inserted “and interest shall not be imposed during such period on any interest with respect to such deficiency for any prior period”.
 
-1984—Subsec. (d)(2)(A). Pub. L. 98–369, §714(n)(1), made technical correction to directory language of Pub. L. 97–248, §346(c)(2)(B). See 1982 Amendment note below.
+<b>1984</b>—Subsec. (d)(2)(A). Pub. L. 98–369, §714(n)(1), made technical correction to directory language of Pub. L. 97–248, §346(c)(2)(B). See 1982 Amendment note below.
 
 Subsec. (d)(3), (4). Pub. L. 98–369, §211(b)(26), redesignated par. (4) as (3) and struck out former par. (3) which had provided that if the amount of any tax imposed by subtitle A was reduced by operation of section 815(d)(5) (relating to reduction of policyholders surplus account of life insurance companies for certain unused deductions), such reduction in tax would not affect the computation of interest under this section for the period ending with the last day of the last taxable year to which the loss described in section 815(d)(5)(A) was carried under section 812(b)(2).
 
@@ -212,9 +212,9 @@ Subsec. (e)(2). Pub. L. 98–369, §158(a), in amending par. (2) generally, inse
 
 Subsec. (h). Pub. L. 98–369, §412(b)(7), amended subsec. (h) generally, substituting “any estimated tax required to be paid by section 6154 or 6654” for “estimated tax required by section 6153 or section 6154”.
 
-1983—Subsec. (i). Pub. L. 98–76 inserted “or 3321” after “3301”.
+<b>1983</b>—Subsec. (i). Pub. L. 98–76 inserted “or 3321” after “3301”.
 
-1982—Subsec. (d)(1). Pub. L. 97–248, §346(c)(2)(A), substituted “the filing date for the taxable year” for “the last day of the taxable year”.
+<b>1982</b>—Subsec. (d)(1). Pub. L. 97–248, §346(c)(2)(A), substituted “the filing date for the taxable year” for “the last day of the taxable year”.
 
 Subsec. (d)(2)(A). Pub. L. 97–248, §346(c)(2)(B), as amended by Pub. L. 98–369, §346(c)(2)(B), substituted “the filing date for” for “the last day of” in two places.
 
@@ -222,15 +222,15 @@ Subsec. (d)(4). Pub. L. 97–248, §346(c)(2)(C), added par. (4).
 
 Subsec. (e). Pub. L. 97–248, §344(b)(1), struck out par. (2) which had provided that no interest under this section was to be imposed on the interest provided by this section, and redesignated pars. (3) and (4) as (2) and (3), respectively.
 
-1980—Subsec. (c). Pub. L. 96–223 substituted “certain excise tax cases” for “chapter 41, 42, 43, or 44 tax cases” in heading.
+<b>1980</b>—Subsec. (c). Pub. L. 96–223 substituted “certain excise tax cases” for “chapter 41, 42, 43, or 44 tax cases” in heading.
 
-1978—Subsec. (d)(2). Pub. L. 95–628, §8(c)(2)(A), substituted in heading “Certain credit carrybacks” for “Investment credit carryback”, designated existing provision as subpar. (A), and in subpar. (A) as so designated, inserted heading “In general” and in text extended the application of the provision to credit carrybacks, previously limited to investment credit carrybacks, included other credit carrybacks, and added subpar. (B).
+<b>1978</b>—Subsec. (d)(2). Pub. L. 95–628, §8(c)(2)(A), substituted in heading “Certain credit carrybacks” for “Investment credit carryback”, designated existing provision as subpar. (A), and in subpar. (A) as so designated, inserted heading “In general” and in text extended the application of the provision to credit carrybacks, previously limited to investment credit carrybacks, included other credit carrybacks, and added subpar. (B).
 
 Subsec. (d)(4), (5). Pub. L. 95–628, §8(c)(2)(B), struck out pars. (4) and (5) which provided for work incentive program credit carrybacks and new employee credit carrybacks, respectively.
 
-1977—Subsec. (d)(5). Pub. L. 95–30 added par. (5).
+<b>1977</b>—Subsec. (d)(5). Pub. L. 95–30 added par. (5).
 
-1976—Subsec. (b)(2). Pub. L. 94–452 substituted “, 6156(a), or 6158(a)” for “or 6156(a)” and “, 6156(b), or 6158(a)” for “or 6156(b)” and inserted requirement that for purposes of subparagraph (A), section 6158(a) of this title shall be treated as providing that the date prescribed for payment of each installment shall not be later than the date prescribed for payment of the 1985 installment.
+<b>1976</b>—Subsec. (b)(2). Pub. L. 94–452 substituted “, 6156(a), or 6158(a)” for “or 6156(a)” and “, 6156(b), or 6158(a)” for “or 6156(b)” and inserted requirement that for purposes of subparagraph (A), section 6158(a) of this title shall be treated as providing that the date prescribed for payment of each installment shall not be later than the date prescribed for payment of the 1985 installment.
 
 Subsec. (b)(4). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
@@ -242,15 +242,15 @@ Subsec. (h). Pub. L. 94–455, §1906(a)(34), struck out “(or section 59 of th
 
 Subsecs. (j), (k). Pub. L. 94–455, §2004(b), added subsec. (j) and redesignated former subsec. (j) as (k).
 
-1975—Subsec. (a). Pub. L. 93–625, §7(a)(2)(A), substituted “an annual rate established under section 6621” for “the rate of 6 percent per annum”.
+<b>1975</b>—Subsec. (a). Pub. L. 93–625, §7(a)(2)(A), substituted “an annual rate established under section 6621” for “the rate of 6 percent per annum”.
 
-Subsecs. (b) to (<i>l</i>). Pub. L. 93–625, §7(b)(1), struck out subsec. (b) relating to extensions of time for payment of estate tax, redesignated subsecs. (c) to (i) as (b) to (h), respectively, struck out subsec. (j) relating to extensions of time for payment of tax attributable to recoveries of foreign expropriation losses, and redesignated subsecs. (k) and (<i>l</i>) as (i) and (j), respectively.
+Subsecs. (b) to (<i>l</i>). Pub. L. 93–625, §7(b)(1), struck out subsec. (b) relating to extensions of time for payment of estate tax, redesignated subsecs. (c) to (i) as (b) to\(h), respectively, struck out subsec. (j) relating to extensions of time for payment of tax attributable to recoveries of foreign expropriation losses, and redesignated subsecs. (k) and (<i>l</i>) as (i) and (j), respectively.
 
-1974—Subsec. (d). Pub. L. 93–406 inserted reference to chapter 43 in heading, and substituted “certain excise” for “chapter 42” in text.
+<b>1974</b>—Subsec. (d). Pub. L. 93–406 inserted reference to chapter 43 in heading, and substituted “certain excise” for “chapter 42” in text.
 
-1971—Subsec. (e)(4). Pub. L. 92–178 added par. (4).
+<b>1971</b>—Subsec. (e)(4). Pub. L. 92–178 added par. (4).
 
-1969—Subsec. (d). Pub. L. 91–172, §101(j)(49), inserted reference to chapter 42 both in subsec. heading and in text.
+<b>1969</b>—Subsec. (d). Pub. L. 91–172, §101(j)(49), inserted reference to chapter 42 both in subsec. heading and in text.
 
 Subsec. (e)(1). Pub. L. 91–172, §512(e)(3)(A), (B), substituted “loss or capital loss carryback” for “loss carryback” in heading, and “net operating loss or net capital loss” for “net operating loss” wherever it appears in text.
 
@@ -258,17 +258,17 @@ Subsec. (e)(2). Pub. L. 91–172, §512(e)(3)(C), substituted “loss carryback 
 
 Subsecs. (k), (<i>l</i>). Pub. L. 91–53 added subsec. (k) and redesignated former subsec. (k) as (<i>l</i>).
 
-1967—Subsec. (e)(2). Pub. L. 90–225 inserted “, or with respect to any portion of an investment credit carryback from a taxable year attributable to a net operating loss carryback from a subsequent taxable year, such increase shall not affect the computation of interest under this section for the period ending with the last day of such subsequent taxable year,” after “the investment credit carryback arises”.
+<b>1967</b>—Subsec. (e)(2). Pub. L. 90–225 inserted “, or with respect to any portion of an investment credit carryback from a taxable year attributable to a net operating loss carryback from a subsequent taxable year, such increase shall not affect the computation of interest under this section for the period ending with the last day of such subsequent taxable year,” after “the investment credit carryback arises”.
 
-1966—Subsecs. (j), (k). Pub. L. 89–384 added subsec. (j) and redesignated former subsec. (j) as (k).
+<b>1966</b>—Subsecs. (j), (k). Pub. L. 89–384 added subsec. (j) and redesignated former subsec. (j) as (k).
 
-1964—Subsec. (e). Pub. L. 88–571 added par. (3) and inserted “or adjustment for certain unused deductions” in heading.
+<b>1964</b>—Subsec. (e). Pub. L. 88–571 added par. (3) and inserted “or adjustment for certain unused deductions” in heading.
 
-1962—Subsec. (e). Pub. L. 87–834 designated existing provisions as par. (1) and added par. (2).
+<b>1962</b>—Subsec. (e). Pub. L. 87–834 designated existing provisions as par. (1) and added par. (2).
 
-1961—Subsec. (c)(2). Pub. L. 87–61 substituted “6152(a) or 6156(a)” for “6152(a)” in introductory provisions, and “6152(b) or 6156(b), as the case may be” for “6152(b)” in subpar. (A).
+<b>1961</b>—Subsec. (c)(2). Pub. L. 87–61 substituted “6152(a) or 6156(a)” for “6152(a)” in introductory provisions, and “6152(b) or 6156(b), as the case may be” for “6152(b)” in subpar. (A).
 
-1958—Subsec. (b). Pub. L. 85–866, §§66(c), 206(e), inserted reference to section 6166, and substituted “if the time for payment of an amount of such tax is postponed or extended as provided by section 6163” for “if postponement of the payment of an amount of such tax is permitted by section 6163(a)”.
+<b>1958</b>—Subsec. (b). Pub. L. 85–866, §§66(c), 206(e), inserted reference to section 6166, and substituted “if the time for payment of an amount of such tax is postponed or extended as provided by section 6163” for “if postponement of the payment of an amount of such tax is permitted by section 6163(a)”.
 
 Subsecs. (g) to (j). Pub. L. 85–866, §§83(a)(1), 84(a), added subsecs. (g) and (h) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
@@ -422,7 +422,7 @@ Amendment by Pub. L. 87–61 effective July 1, 1961, see section 208 of Pub. L. 
 
 Amendment by sections 66(c) and 84(a) of Pub. L. 85–866 effective Aug. 17, 1954, see section 1(c)(2) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
-Section 83(d) of Pub. L. 85–866 provided that: “The amendments made by subsections (a) \[amending this section and section 3794 of I.R.C. 1939\], (b) \[amending section 6611 of this title and section 3771 of I.R.C. 1939\], and (c) \[amending section 6611 of this title\] shall apply only in respect of overpayments credited after December 31, 1957.”
+Section 83(d) of Pub. L. 85–866 provided that: “The amendments made by subsections (a) \[amending thissection and section 3794 of I.R.C. 1939\], (b) \[amending section 6611 of this title and section 3771 of I.R.C. 1939\], and (c) \[amending section 6611 of this title\] shall apply only in respect of overpayments credited after December 31, 1957.”
 
 For effective date of amendment by section 206(e) of Pub. L. 85–866, see section 206(f) of Pub. L. 85–866, set out as a note under section 6161 of this title.
 
@@ -432,7 +432,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Administration of Penalties and Interest
 
-Pub. L. 105–206, title III, §3801, July 22, 1998, 112 Stat. 782, provided that: “The Joint Committee on Taxationand the Secretary of the Treasury shall each conduct a separate study—
+Pub. L. 105–206, title III, §3801, July 22, 1998, 112 Stat. 782, provided that: “The Joint Committee on Taxation and the Secretary of the Treasury shall each conduct a separate study—
 
 &emsp;“(1) reviewing the administration and implementation by the Internal Revenue Service of the interest and penalty provisions of the Internal Revenue Code of 1986 (including the penalty reform provisions of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239, see Tables for classification\]); and
 

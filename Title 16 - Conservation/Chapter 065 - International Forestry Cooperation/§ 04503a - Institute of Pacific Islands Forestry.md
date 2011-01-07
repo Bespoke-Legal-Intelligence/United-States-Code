@@ -58,7 +58,7 @@ A prior section 605 of Pub. L. 101–513 was renumbered section 609 and is class
 
 #### Amendments
 
-1994—Subsec. (b)(1). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
 #### Hawaii Tropical Forest Recovery Task Force
 

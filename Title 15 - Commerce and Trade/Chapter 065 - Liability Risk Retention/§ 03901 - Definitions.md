@@ -40,7 +40,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) its owners only persons who comprise the membership of the risk retention group and who are provided insurance by such group;
 
-&emsp;&emsp;(F) whose members are engaged in businesses or activities similar or related with respect to the liability to which such members are exposed by virtue of any related, similar, or common business, trade, product, services, premises, or operations;
+&emsp;&emsp;(F) whose members are engaged in businesses or activities similar or related withrespect to the liability to which such members are exposed by virtue of any related, similar, or common business, trade, product, services, premises, or operations;
 
 &emsp;&emsp;(G) whose activities do not include the provision of insurance other than—
 
@@ -82,7 +82,7 @@ October 27, 1986, referred to in subsec. (a)(4)(C)(ii), was in the original “t
 
 #### Amendments
 
-1986—Subsec. (a)(1) to (3). Pub. L. 99–563, §3(a), redesignated par. (2) as (1), added pars. (2) and (3), and struck out former par. (1) defining completed operations liability, and former par. (3) defining product liability.
+<b>1986</b>—Subsec. (a)(1) to (3). Pub. L. 99–563, §3(a), redesignated par. (2) as (1), added pars. (2) and (3), and struck out former par. (1) defining completed operations liability, and former par. (3) defining product liability.
 
 Subsec. (a)(4). Pub. L. 99–563, §4(a)(1), struck out “taxable as a corporation, or as an insurance company, formed under the laws of any State, Bermuda, or the Cayman Islands” after “association” in introductory provisions.
 
@@ -98,7 +98,7 @@ Subsec. (a)(7). Pub. L. 99–563, §3(b), added par. (7).
 
 Subsec. (b). Pub. L. 99–563, §12(b), substituted “liability, personal risk liability, and insurance” for “product liability and product liability insurance”.
 
-1983—Subsec. (b). Pub. L. 98–193 substituted provision that nothing in this chapter would be construed to affect either the tort law or the law governing the interpretation of insurance contracts of any State, and that the definitions of product liability and product liability insurance under any State law would not be applied for the purposes of this chapter, including recognition or qualification of risk retention groups or purchasing groups for provision that the definition of product liability in this section would not be construed to affect either the tort law or the law governing the interpretation of insurance contracts of any State.
+<b>1983</b>—Subsec. (b). Pub. L. 98–193 substituted provision that nothing in this chapter would be construed to affect either the tort law or the law governing the interpretation of insurance contracts of any State, and that the definitions of product liability and product liability insurance under any State law would not be applied for the purposes of this chapter, including recognition or qualification of risk retention groups or purchasing groups for provision that the definition of product liability in this section would not be construed to affect either the tort law or the law governing the interpretation of insurance contracts of any State.
 
 #### Effective Date of 1986 Amendment; Applicability
 

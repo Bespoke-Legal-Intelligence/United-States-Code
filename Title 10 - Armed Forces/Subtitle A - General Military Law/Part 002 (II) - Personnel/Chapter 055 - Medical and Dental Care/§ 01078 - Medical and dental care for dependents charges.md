@@ -40,11 +40,11 @@ A prior section 1078, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, prescribed inst
 
 #### Amendments
 
-1984—Subsecs. (a), (b). Pub. L. 98–557 substituted reference to other administering Secretaries for reference to Secretary of Health and Human Services.
+<b>1984</b>—Subsecs. (a), (b). Pub. L. 98–557 substituted reference to other administering Secretaries for reference to Secretary of Health and Human Services.
 
-1980—Subsecs. (a), (b). Pub. L. 96–513 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+<b>1980</b>—Subsecs. (a), (b). Pub. L. 96–513 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
-1966—Subsec. (a). Pub. L. 89–614 substituted “The charge or charges prescribed shall be applied equally to all classes of dependents” for “Charges shall be the same for all dependents”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–614 substituted “The charge or charges prescribed shall be applied equally to all classes of dependents” for “Charges shall be the same for all dependents”.
 
 #### Effective Date of 1980 Amendment
 

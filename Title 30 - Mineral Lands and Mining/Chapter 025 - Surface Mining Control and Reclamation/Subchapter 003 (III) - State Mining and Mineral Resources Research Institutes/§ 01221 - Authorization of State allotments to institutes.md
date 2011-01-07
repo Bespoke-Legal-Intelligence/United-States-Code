@@ -22,7 +22,7 @@ A prior section 1221, Pub. L. 95–87, title III, §301, Aug. 3, 1977, 91 Stat. 
 
 #### Amendments
 
-1988—Subsec. (a)(1). Pub. L. 100–483, §2, substituted “$400,000 for each of the fiscal years ending September 30, 1990, through September 30, 1994” for “$300,000 for the fiscal year ending September 30, 1985, and $400,000 to each participating State for each fiscal year thereafter for a total of five years”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–483, §2, substituted “$400,000 for each of the fiscal years ending September 30, 1990, through September 30, 1994” for “$300,000 for the fiscal year ending September 30, 1985, and $400,000 to each participating State for each fiscal year thereafter for a total of five years”.
 
 Subsec. (a)(2)(A). Pub. L. 100–483, §3, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Funds appropriated under this section shall be made available for grants to be matched on a basis of no less than one and one-half non-Federal dollars for each Federal dollar during the fiscal years ending September 30, 1985, and September 30, 1986, and no less than two non-Federal dollars for each Federal dollar during the fiscal years ending September 30, 1987, September 30, 1988, and September 30, 1989.”
 

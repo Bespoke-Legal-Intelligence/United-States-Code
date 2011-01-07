@@ -10,11 +10,11 @@ Section was not enacted as a part of act Mar. 2, 1933, ch. 182, 47 Stat. 1421, a
 
 #### Amendments
 
-1991—Pub. L. 102–118 substituted “615 acres” for “600 acres” in two places.
+<b>1991</b>—Pub. L. 102–118 substituted “615 acres” for “600 acres” in two places.
 
-1976—Pub. L. 94–578 substituted “600 acres” for “465 acres” in two places.
+<b>1976</b>—Pub. L. 94–578 substituted “600 acres” for “465 acres” in two places.
 
-1974—Pub. L. 93–477 substituted “465 acres” for “two hundred and eighty-one acres” in two places and inserted proviso relating to property known as the Cross estate.
+<b>1974</b>—Pub. L. 93–477 substituted “465 acres” for “two hundred and eighty-one acres” in two places and inserted proviso relating to property known as the Cross estate.
 
 #### Authorization of Appropriations for Additional Lands
 

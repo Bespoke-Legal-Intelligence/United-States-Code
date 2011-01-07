@@ -6,7 +6,7 @@ The Secretary of the Treasury is authorized to subscribe on behalf of the United
 
 #### (b) Authorization of appropriations
 
-There is authorized to be appropriated, without fiscal year limitation, for payment by the Secretary of the Treasury of the subscription of the United States for those shares, $51,000,000.
+There is authorized to be appropriated, without fiscal year limitation, for payment by theSecretary of the Treasury of the subscription of the United States for those shares, $51,000,000.
 
 #### (c) Disposition of dividends
 

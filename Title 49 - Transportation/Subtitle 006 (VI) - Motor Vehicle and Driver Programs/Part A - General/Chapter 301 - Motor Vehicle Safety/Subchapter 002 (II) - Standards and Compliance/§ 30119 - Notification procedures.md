@@ -20,7 +20,7 @@ Contents of Notification.—Notification by a manufacturer required under sectio
 
 (b)
 
-Earliest Remedy Date.—The date specified by a manufacturer in a notification under subsection (a)(5) of this section or section 30121(c)(2) of this title is the earliest date thatparts and facilities reasonably can be expected to be available to remedy the defect or noncompliance. The Secretary may disapprove the date.
+Earliest Remedy Date.—The date specified by a manufacturer in a notification under subsection (a)(5) of this section or section 30121(c)(2) of this title is the earliest date that parts and facilities reasonably can be expected to be available to remedy the defect or noncompliance. The Secretary may disapprove the date.
 
 (c)
 

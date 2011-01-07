@@ -10,5 +10,5 @@ The Secretary of Energy shall develop and implement a multi-year plan for the cl
 
 #### Amendments
 
-2003—Pub. L. 108–136, §3141(g)(22)(C), inserted section catchline, struck out former subsec. heading, and inserted in text “of Energy” after “The Secretary”.
+<b>2003</b>—Pub. L. 108–136, §3141(g)(22)(C), inserted section catchline, struck out former subsec. heading, and inserted in text “of Energy” after “The Secretary”.
 

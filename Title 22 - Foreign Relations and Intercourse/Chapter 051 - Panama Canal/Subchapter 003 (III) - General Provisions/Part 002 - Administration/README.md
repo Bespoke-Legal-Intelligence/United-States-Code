@@ -2,8 +2,6 @@ Part 2
 
 —Administration
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subchapter V of chapter 35”.</i>
-
 
 ---
 

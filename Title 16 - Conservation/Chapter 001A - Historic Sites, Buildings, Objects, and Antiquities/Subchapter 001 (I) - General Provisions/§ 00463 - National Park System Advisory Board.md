@@ -26,7 +26,7 @@ There is hereby established a National Park System Advisory Board, whose purpose
 
 &emsp;(F) take such other actions, as the Board may deem advisable. Any member of the Board may administer oaths or affirmations to witnesses appearing before the Board.
 
-(2) The Board may establish committees or subcommittees. Any such subcommittees orcommittees shall be chaired by a voting member of the Board.
+(2) The Board may establish committees or subcommittees. Any such subcommittees or committees shall be chaired by a voting member of the Board.
 
 #### (d) Federal Advisory Committee Act
 
@@ -34,7 +34,7 @@ The provisions of the Federal Advisory Committee Act shall apply to the Board es
 
 #### (e) Cooperation of Federal agencies; use of mails
 
-(1) The Board is authorized to secure directly from any office, department, agency, establishment, or instrumentality of the Federal Government such information as the Board may require for the purpose of this section, and each such officer, department, agency, establishment, or instrumentality is authorized and directed to furnish, to the extent permitted by law, such information, suggestions, estimates, and statistics directly to the Board, upon request made by a member of the Board.
+(1) The Board is authorized to secure directly from any office, department, agency, establishment, or instrumentality of the Federal Government such information as the Board may require for the purpose of this section, and each such officer, department, agency, establishment, or instrumentality is authorized and directed to furnish, to the extent permitted by law, such information, suggestions, estimates, and statisticsdirectly to the Board, upon request made by a member of the Board.
 
 (2) Upon the request of the Board, the head of any Federal department, agency, or instrumentality is authorized to make any of the facilities and services of such department, agency, or instrumentality to <sup>3</sup> the Board, on a nonreimbursable basis, to assist the Board in carrying out its duties under this section.
 
@@ -56,13 +56,13 @@ The Federal Advisory Committee Act, referred to in subsecs. (d) and (f), is Pub.
 
 #### Amendments
 
-2009—Subsec. (f). Pub. L. 111–8 substituted “2010” for “2009”.
+<b>2009</b>—Subsec. (f). Pub. L. 111–8 substituted “2010” for “2009”.
 
-2007—Subsec. (f). Pub. L. 110–161 substituted “2009” for “2007”.
+<b>2007</b>—Subsec. (f). Pub. L. 110–161 substituted “2009” for “2007”.
 
-2005—Subsec. (f). Pub. L. 109–156 substituted “2007” for “2006”.
+<b>2005</b>—Subsec. (f). Pub. L. 109–156 substituted “2007” for “2006”.
 
-1996—Subsec. (a). Pub. L. 104–333, §814(f)(1)(A), substituted provisions relating to establishment of Board, its purpose, advisory duties, members’ terms, composition, first meeting, vacancies, rules, and members’ compensation for “A general advisory board to be known as the National Park System Advisory Board is hereby established, to be composed of not to exceed sixteen persons, citizens of the United States who have a demonstrated commitment to the National Park System, to include but not be limited to representatives competent in the fields of history, archaeology, architecture, anthropology, biology, geology, and related disciplines, who shall be appointed by the Secretary for a term not to exceed four years. The Secretary shall take into consideration nominations for appointees from public and private, professional, civic, and educational societies, associations, and institutions. The members of such board shall receive no salary but may be paid expenses incidental to travel when engaged in discharging their duties as members.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–333, §814(f)(1)(A), substituted provisions relating to establishment of Board, its purpose, advisory duties, members’ terms, composition, first meeting, vacancies, rules, and members’ compensation for “A general advisory board to be known as the National Park System Advisory Board is hereby established, to be composed of not to exceed sixteen persons, citizens of the United States who have a demonstrated commitment to the National Park System, to include but not be limited to representatives competent in the fields of history, archaeology, architecture, anthropology, biology, geology, and related disciplines, who shall be appointed by the Secretary for a term not to exceed four years. The Secretary shall take into consideration nominations for appointees from public and private, professional, civic, and educational societies, associations, and institutions. The members of such board shall receive no salary but may be paid expenses incidental to travel when engaged in discharging their duties as members.”
 
 Subsecs. (b) to (e). Pub. L. 104–333, §814(f)(1)(C), added subsecs. (b) to (e). Former subsecs. (b) and (c) redesignated (f) and (g), respectively.
 
@@ -70,15 +70,15 @@ Subsec. (f). Pub. L. 104–333, §814(f)(1)(B), redesignated former subsec. (b) 
 
 Subsec. (g). Pub. L. 104–333, §814(f)(1)(B), redesignated former subsec. (c) as (g).
 
-1990—Subsec. (a). Pub. L. 101–628, §1211(1), (2), substituted “sixteen” for “twelve”, “United States who have a demonstrated commitment to the National Park System,” for “United States,” and “anthropology, biology, geology, and related disciplines,” for “and natural science,” and inserted at end “Such board shall also provide recommendations on the designation of national historic landmarks and national natural landmarks. Such board is strongly encouraged to consult with the major scholarly and professional organizations in the appropriate disciplines in making such recommendations.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–628, §1211(1), (2), substituted “sixteen” for “twelve”, “United States who have a demonstrated commitment to the National Park System,” for “United States,” and “anthropology, biology, geology, and related disciplines,” for “and natural science,” and inserted at end “Such board shall also provide recommendations on the designation of national historic landmarks and national natural landmarks. Such board is strongly encouraged to consult with the major scholarly and professional organizations in the appropriate disciplines in making such recommendations.”
 
 Subsec. (b). Pub. L. 101–628, §1211(3), (4), substituted “1995” for “1990” and “The provisions of section 14(b) of the Federal Advisory Committee Act (the Act of October 6, 1972; 86 Stat. 776) are hereby waived with respect to the Board, but in” for “In”.
 
 Subsec. (c). Pub. L. 101–628, §1212, added subsec. (c).
 
-1978—Subsec. (a). Pub. L. 95–625 increased Board membership to twelve from eleven.
+<b>1978</b>—Subsec. (a). Pub. L. 95–625 increased Board membership to twelve from eleven.
 
-1976—Pub. L. 91–383, §9, as added by Pub. L. 94–458, renamed the Advisory Board on National Parks, Historic Sites, Buildings and Monuments as the National Park System Advisory Board, substituted natural science for human geography as a field from which member selection may be made, limited appointment term to four years rather than at pleasure of Secretary, eliminated duty of Board to make recommendations concerninguse of surplus property as an historic monument, provided for continuation of Board until Jan. 1, 1990, and made it subject to the provisions of the Federal Advisory Committee Act.
+<b>1976</b>—Pub. L. 91–383, §9, as added by Pub. L. 94–458, renamed the Advisory Board on National Parks, Historic Sites, Buildings and Monuments as the National Park System Advisory Board, substituted natural science for human geography as a field from which member selection may be made, limited appointment term to four years rather than at pleasure of Secretary, eliminated duty of Board to make recommendations concerning use of surplus property as an historic monument, provided for continuation of Board until Jan. 1, 1990, and made it subject to the provisions of the Federal Advisory Committee Act.
 
 #### Effective Date of 2005 Amendment
 
@@ -90,7 +90,7 @@ Section 814(f)(3) of title VIII of div. I of Pub. L. 104–333 provided that: �
 
 #### Authorization of Appropriations
 
-Section 814(f)(2) of title VIII of div. I of Pub. L. 104–333 provided that: “There are authorized to be appropriated to the National Park System Advisory Board $200,000 per year to carry out the provisions of section 3 of the Act of August 21, 1935 (49 Stat. 667; 16 U.S.C. 463).”
+Section 814(f)(2) of title VIII of div. I of Pub. L. 104–333 provided that: “There are authorized to be appropriated to the National Park System Advisory Board $200,000 per year to carry out the provisions ofsection 3 of the Act of August 21, 1935 (49 Stat. 667; 16 U.S.C. 463).”
 
 #### New York City National Shrines Advisory Board
 

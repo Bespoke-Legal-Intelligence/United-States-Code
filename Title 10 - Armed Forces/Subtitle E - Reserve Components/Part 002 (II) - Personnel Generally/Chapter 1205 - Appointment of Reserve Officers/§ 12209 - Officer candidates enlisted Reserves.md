@@ -46,9 +46,9 @@ In subsection (c), the words “active duty other than active duty for training 
 
 #### Amendments
 
-1996—Pub. L. 104–106 substituted “candidates: enlisted Reserves” for “candidates” in section catchline.
+<b>1996</b>—Pub. L. 104–106 substituted “candidates: enlisted Reserves” for “candidates” in section catchline.
 
-1994—Pub. L. 103–337 renumbered section 600 of this title as this section.
+<b>1994</b>—Pub. L. 103–337 renumbered section 600 of this title as this section.
 
 #### Effective Date of 1996 Amendment
 

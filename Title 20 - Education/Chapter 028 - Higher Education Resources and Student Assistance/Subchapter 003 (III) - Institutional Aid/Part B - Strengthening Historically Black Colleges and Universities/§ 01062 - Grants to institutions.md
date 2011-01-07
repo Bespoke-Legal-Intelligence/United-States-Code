@@ -54,15 +54,11 @@ From amounts available under section 1068h(a)(2) of this title for any fiscal ye
 
 #### (c) Limitations
 
-(1) No grant may be made under this chapter for any educational program, activity, or service related to sectarian instruction or religious worship, or provided by a school or department of divinity. For the purpose of this subsection, the term “school or department of divinity” means an institution whose program is specifically for the education of students to prepare them to become ministers of religion or to enter upon some other religious vocation, or to prepare them to teach theological subjects.
+(1) No grant may be made under this chapter and part C of subchapter I of chapter 34 of title 42 for any educational program, activity, or service related to sectarian instruction or religious worship, or provided by a school or department of divinity. For the purpose of this subsection, the term “school or department of divinity” means an institution whose program is specifically for the education of students to prepare them to become ministers of religion or to enter upon some other religious vocation, or to prepare them to teach theological subjects.
 
 (2) Not more than 50 percent of the allotment of any institution may be available for the purpose of constructing or maintaining a classroom, library, laboratory, or other instructional facility.
 
-(Pub. L. 89–329, title III, §323, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1295; amended Pub. L. 100–50, §2(a)(7), June 3, 1987, 101 Stat. 335; Pub. L. 100–369, §10(b), July 18, 1988, 102 Stat. 838; Pub. L. 102–325, title III, §303(a), (b), July 23, 1992, 106 Stat. 474, 475; Pub. L. 103–208, §2(a)(8), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 105–244, title III, §304(a), Oct. 7, 1998, 112 Stat. 1642; Pub. L. 110–315, title III, §309, Aug. 14, 2008, 122 Stat. 3177; Pub. L. 111–39, title III, §301(3), July 1, 2009, 123 Stat. 1937.)
-
-#### References in Text
-
-This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+(Pub. L. 89–329, title III, §323, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat.1295; amended Pub. L. 100–50, §2(a)(7), June 3, 1987, 101 Stat. 335; Pub. L. 100–369, §10(b), July 18, 1988, 102 Stat. 838; Pub. L. 102–325, title III, §303(a), (b), July 23, 1992, 106 Stat. 474, 475; Pub. L. 103–208, §2(a)(8), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 105–244, title III, §304(a), Oct. 7, 1998, 112 Stat. 1642; Pub. L. 110–315, title III, §309, Aug. 14, 2008, 122 Stat. 3177; Pub. L. 111–39, title III, §301(3), July 1, 2009, 123 Stat. 1937.)
 
 #### Prior Provisions
 
@@ -72,19 +68,19 @@ Another prior section 1062, Pub. L. 89–329, title IV, §402, Nov. 8, 1965, 79 
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–39 substituted “for any fiscal year,” for “in any fiscal year” in introductory provisions.
+<b>2009</b>—Subsec. (a). Pub. L. 111–39 substituted “for any fiscal year,” for “in any fiscal year” in introductory provisions.
 
-2008—Subsec. (a). Pub. L. 110–315, §309(1), substituted “section 1068h(a)(2)” for “section 1069f(a)(2)” in introductory provisions.
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §309(1), substituted “section 1068h(a)(2)” for “section 1069f(a)(2)” in introductory provisions.
 
 Subsec. (a)(12) to (15). Pub. L. 110–315, §309(2), (3), added pars. (12) to (14) and redesignated former par. (12) as (15).
 
-1998—Subsecs. (b), (c). Pub. L. 105–244, §304(a)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>1998</b>—Subsecs. (b), (c). Pub. L. 105–244, §304(a)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 Subsec. (c)(3). Pub. L. 105–244, §304(a)(3), struck out par. (3) which read as follows: “The Secretary shall not award a grant under this part for telecommunications technology equipment, facilities or services, if such equipment, facilities or services are available pursuant to section 396(k) of title 47.”
 
-1993—Subsec. (b)(3). Pub. L. 103–208 realigned margin.
+<b>1993</b>—Subsec. (b)(3). Pub. L. 103–208 realigned margin.
 
-1992—Subsec. (a)(2). Pub. L. 102–325, §303(a)(1), inserted “, including purchase or rental of telecommunications technology equipment or services” after “facilities”.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–325, §303(a)(1), inserted “, including purchase or rental of telecommunications technology equipment or services” after “facilities”.
 
 Subsec. (a)(5). Pub. L. 102–325, §303(a)(2), inserted “, including telecommunications program materials” after “materials”.
 
@@ -92,11 +88,11 @@ Subsec. (a)(9) to (12). Pub. L. 102–325, §303(a)(3), added pars. (9) to (12).
 
 Subsec. (b)(3). Pub. L. 102–325, §303(b), added par. (3).
 
-1988—Subsec. (a)(3). Pub. L. 100–369, §10(b)(1), inserted “, and faculty development” after “exchanges”.
+<b>1988</b>—Subsec. (a)(3). Pub. L. 100–369, §10(b)(1), inserted “, and faculty development” after “exchanges”.
 
 Subsec. (a)(7), (8). Pub. L. 100–369, §10(b)(2), added pars. (7) and (8).
 
-1987—Subsec. (a). Pub. L. 100–50 substituted “section 1069f(a)(2) of this title” for “section 1069d(a)(2) of this title”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–50 substituted “section 1069f(a)(2) of this title” for “section 1069d(a)(2) of this title”.
 
 #### Effective Date of 2009 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Amount of penalty
 
-(1) Any person who knowingly violates section 2068 of this title shall be subject to a civil penalty not to exceed $100,000 for each such violation. Subject to paragraph (2), a violation of section 2068(a)(1), (2), (4), (5), (6), (7), (8), (9), (10), or (11) of this title shall constitute a separate offense with respect to each consumer product involved, except that the maximum civil penaltyshall not exceed $15,000,000 for any related series of violations. A violation of section 2068(a)(3) of this title shall constitute a separate violation with respect to each failure or refusal to allow or perform an act required thereby; and, if such violation is a continuing one, each day of such violation shall constitute a separate offense, except that the maximum civil penalty shall not exceed $15,000,000 for any related series of violations.
+(1) Any person who knowingly violates section 2068 of this title shall be subject to a civil penalty not to exceed $100,000 for each such violation. Subject to paragraph (2), a violation of section 2068(a)(1), (2), (4), (5), (6), (7), (8), (9), (10), or (11) of this title shall constitute a separate offense with respect to each consumer product involved, except that the maximum civil penalty shall not exceed $15,000,000 for any related series of violations. A violation of section 2068(a)(3) of this title shall constitute a separate violation with respect to each failure or refusal to allow or perform an act required thereby; and, if such violation is a continuing one, each day of such violation shall constitute a separate offense, except that the maximum civil penalty shall not exceed $15,000,000 for any related series of violations.
 
 (2) The second sentence of paragraph (1) of this subsection shall not apply to violations of paragraph (1) or (2) of section 2068(a) of this title—
 
@@ -50,7 +50,7 @@ As used in the first sentence of subsection (a)(1) of this section, the term “
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–314, §217(a)(1)(A), (B), substituted “$100,000” for “$5,000” and substituted “$15,000,000” for “$1,250,000” in two places.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–314, §217(a)(1)(A), (B), substituted “$100,000” for “$5,000” and substituted “$15,000,000” for “$1,250,000” in two places.
 
 Subsec. (a)(3)(B). Pub. L. 110–314, §217(a)(1)(C), which directed amendment of subsec. (a)(1) by substituting “December 1, 2011,” for “December 1, 1994,” in par. (3)(B), was executed by making the substitution in subsec. (a)(3)(B) to reflect the probable intent of Congress.
 
@@ -60,15 +60,15 @@ Subsec. (c). Pub. L. 110–314, §217(b)(1)(A)(ii)(II), inserted “, and such 
 
 Pub. L. 110–314, §217(b)(1)(A)(ii)(I), which directed amendment of subsec. (c) by inserting “, including how to mitigate undue adverse economic impacts on small businesses, the nature, circumstances, extent, and gravity of the violation, including” after “person charged”, was executed by making the insertion after “person charged” the first place appearing, to reflect the probable intent of Congress.
 
-1990—Subsec. (a)(1). Pub. L. 101–608, §§112(e), 115(a)(1), (2), substituted “$5,000” for “$2,000”, and “(10), or (11)” for “or (10)”, and substituted “$1,250,000” for “$500,000” in two places.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–608, §§112(e), 115(a)(1), (2), substituted “$5,000” for “$2,000”, and “(10), or (11)” for “or (10)”, and substituted “$1,250,000” for “$500,000” in two places.
 
 Subsec. (a)(3). Pub. L. 101–608, §115(a)(3), added par. (3).
 
-1981—Subsecs. (b) to (d). Pub. L. 97–35 added subsec. (b), redesignated former subsec. (b) as (c), substituted “the Commission shall consider the appropriateness of such penalty to the size of the business of the person charged, the nature of the product defect, the severity of the risk of injury, the occurrence or absence of injury, and the number of defective products distributed” for “the appropriateness of such penalty to the size of the business of the person charged and the gravity of the violation shall be considered”, and redesignated subsec. (c) as (d).
+<b>1981</b>—Subsecs. (b) to (d). Pub. L. 97–35 added subsec. (b), redesignated former subsec. (b) as (c), substituted “the Commission shall consider the appropriateness of such penalty to the size of the business of the person charged, the nature of the product defect, the severity of the risk of injury, the occurrence or absence of injury, and the number of defective products distributed” for “the appropriateness of such penalty to the size of the business of the person charged and the gravity of the violation shall be considered”, and redesignated subsec. (c) as (d).
 
-1978—Subsec. (a)(1). Pub. L. 95–631 made violation of section 2068(a)(10) of this title a separate offense.
+<b>1978</b>—Subsec. (a)(1). Pub. L. 95–631 made violation of section 2068(a)(10) of this title a separate offense.
 
-1976—Subsec. (a)(1). Pub. L. 94–284 inserted reference to pars. (8) and (9).
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–284 inserted reference to pars. (8) and (9).
 
 #### Effective Date of 2008 Amendment
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L
 
 #### Civil Penalty Criteria
 
-Pub. L. 110–314, title II, §217(b)(2), Aug. 14, 2008, 122 Stat. 3059, provided that: “Not later than 1 year after the date of enactment of this Act \[Aug. 14, 2008\], and in accordance with the procedures of section 553 of title 5, United States Code, the \[Consumer Product Safety\] Commission shall issue a final regulation providing its interpretation of the penalty factors described in section 20(b) of the Consumer Product Safety Act (15 U.S.C. 2069(b)), section 5(c)(3) of the Federal Hazardous Substances Act (15 U.S.C. 1264(c)(3)), and section 5(e)(2) of the Flammable Fabrics Act (15 U.S.C. 1194(e)(2)), as amended by subsection (a).”
+Pub. L. 110–314, title II, §217(b)(2), Aug. 14, 2008, 122 Stat. 3059, provided that: “Not later than 1 year after the date of enactment of this Act \[Aug. 14, 2008\], and in accordance with the procedures of section 553 of title 5, United States Code, the \[Consumer Product Safety\]Commission shall issue a final regulation providing its interpretation of the penalty factors described in section 20(b) of the Consumer Product Safety Act (15 U.S.C. 2069(b)), section 5(c)(3) of the Federal Hazardous Substances Act (15 U.S.C. 1264(c)(3)), and section 5(e)(2) of the Flammable Fabrics Act (15 U.S.C. 1194(e)(2)), as amended by subsection (a).”
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

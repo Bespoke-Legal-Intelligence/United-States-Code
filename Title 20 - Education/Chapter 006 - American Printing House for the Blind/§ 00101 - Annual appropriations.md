@@ -10,19 +10,19 @@ Prior to amendment by Pub. L. 100–630, section was comprised of two sentences.
 
 #### Amendments
 
-1988—Pub. L. 100–630, §402(a), which provided that the perpetual trust fund and permanent annual appropriations thereof established by the Act of Mar. 3, 1879, as amended by the Act of June 25, 1906, are terminated, was executed by striking the first sentence of this section which read as follows: “The sum of $250,000, set apart as a perpetual trust fund for the purpose of aiding the education of the blind in the United States, through the American Printing House for the Blind, shall be credited on the books of the Treasury Department as a perpetual trust fund for that purpose, to be held by the Secretary of the Treasury; and the sum of $10,000, being equivalent to 4 per centum on the principal of said trust fund, is appropriated, out of any moneys in the Treasury not otherwise appropriated, and such appropriation shall be deemed a permanent annual appropriation and shall be expended in the manner and for the purposes authorized by sections 101, 102, and 104 of this title.” See Codification note above.
+<b>1988</b>—Pub. L. 100–630, §402(a), which provided that the perpetual trust fund and permanent annual appropriations thereof established by the Act of Mar. 3, 1879, as amended by the Act of June 25, 1906, are terminated, was executed by striking the first sentence of this section which read as follows: “The sum of $250,000, set apart as a perpetual trust fund for the purpose of aiding the education of the blind in the United States, through the American Printing House for the Blind, shall be credited on the books of the Treasury Department as a perpetual trust fund for that purpose, to be held by the Secretary of the Treasury; and the sum of $10,000, being equivalent to 4 per centum on the principal of said trust fund, is appropriated, out of any moneys in the Treasury not otherwise appropriated, and such appropriation shall be deemed a permanent annual appropriation and shall be expended in the manner and for the purposes authorized by sections 101, 102, and 104 of this title.” See Codification note above.
 
 Pub. L. 100–630, §403, struck out “In addition to the permanent appropriation of $10,000, made in this section”.
 
-1961—Pub. L. 87–294 struck out provisions which authorized an annual appropriation of not more than $400,000, inserted provisions authorizing an annual appropriation of such sum as the Congress may determine, and required expenditure of such sum under rules and regulations prescribed by the Secretary of Health, Education, and Welfare.
+<b>1961</b>—Pub. L. 87–294 struck out provisions which authorized an annual appropriation of not more than $400,000, inserted provisions authorizing an annual appropriation of such sum as the Congress may determine, and required expenditure of such sum under rules and regulations prescribed by the Secretary of Health, Education, and Welfare.
 
-1956—Act Aug. 2, 1956, increased appropriation authorization from $250,000 to $400,000.
+<b>1956</b>—Act Aug. 2, 1956, increased appropriation authorization from $250,000 to $400,000.
 
-1952—Act May 22, 1952, amended second sentence generally, increasing appropriation authorization from $115,000 to $250,000.
+<b>1952</b>—Act May 22, 1952, amended second sentence generally, increasing appropriation authorization from $115,000 to $250,000.
 
-1937—Act Aug. 23, 1937, amended second sentence generally, increasing appropriation authorization from $65,000 to $115,000.
+<b>1937</b>—Act Aug. 23, 1937, amended second sentence generally, increasing appropriation authorization from $65,000 to $115,000.
 
-1927—Act Feb. 8, 1927, amended second sentence generally, increasing appropriation authorization from $40,000 to $65,000.
+<b>1927</b>—Act Feb. 8, 1927, amended second sentence generally, increasing appropriation authorization from $40,000 to $65,000.
 
 #### Effective Date of 1988 Amendment
 

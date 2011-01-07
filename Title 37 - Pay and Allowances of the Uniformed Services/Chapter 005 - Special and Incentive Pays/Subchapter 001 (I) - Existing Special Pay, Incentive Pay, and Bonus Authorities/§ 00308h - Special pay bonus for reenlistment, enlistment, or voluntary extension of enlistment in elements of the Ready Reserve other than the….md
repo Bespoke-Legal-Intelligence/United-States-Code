@@ -54,19 +54,21 @@ Regulations.—(1) This section shall be administered under regulations to be pr
 
 (e)
 
-Termination of Authority.—A bonus may not be paid under this section to any person for a reenlistment, enlistment, or voluntary extension of an enlistment after December 31, 2010.
+Termination of Authority.—A bonus may not be paid under this section to any person for a reenlistment, enlistment, or voluntary extension of an enlistment after December 31, 2011.
 
-(Added Pub. L. 98–94, title X, §1011(a), Sept. 24, 1983, 97 Stat. 663; amended Pub. L. 98–525, title V, §552(f)(2), Oct. 19, 1984, 98 Stat. 2532; Pub. L. 99–145, title VI, §646(a)–(c), title XIII, §1303(b)(3), Nov. 8, 1985, 99 Stat. 654, 740; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(d), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(d), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §611(d), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(f), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §611(f), Nov. 18, 1997, 111 Stat. 1785; Pub. L. 105–261, div. A, title VI, §611(f), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §611(f), Oct. 5, 1999, 113 Stat. 650; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §§611(f), 619(a), (b), Dec. 28, 2001, 115 Stat. 1135, 1137, 1138; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §611(e), Dec. 2, 2002, 116 Stat. 2567; Pub. L. 108–136, div. A, title VI, §§611(e), 626(c), Nov. 24, 2003, 117 Stat. 1501, 1508; Pub. L. 108–375, div. A, title VI, §§611(e), 618(e), Oct. 28, 2004, 118 Stat. 1947, 1950; Pub. L. 109–163, div. A, title VI, §§621(d), 687(b)(18), Jan. 6, 2006, 119 Stat. 3294, 3330; Pub. L. 109–364, div. A, title VI, §611(e), Oct. 17, 2006, 120 Stat. 2247; Pub. L. 110–181, div. A, title VI, §611(e), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, \[div. A\], title VI, §611(e), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §611(5), Oct. 28, 2009, 123 Stat. 2352.)
+(Added Pub. L. 98–94, title X, §1011(a), Sept. 24, 1983, 97 Stat. 663; amended Pub. L. 98–525, title V, §552(f)(2), Oct. 19, 1984, 98 Stat. 2532; Pub. L. 99–145, title VI, §646(a)–(c), title XIII, §1303(b)(3), Nov. 8, 1985, 99 Stat. 654, 740; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(d), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(d), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §611(d), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(f), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §611(f), Nov. 18, 1997, 111 Stat. 1785; Pub. L. 105–261, div. A, title VI, §611(f), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §611(f), Oct. 5, 1999, 113 Stat. 650; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §§611(f), 619(a), (b), Dec. 28, 2001, 115 Stat. 1135, 1137, 1138; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §611(e), Dec. 2, 2002, 116 Stat. 2567; Pub. L. 108–136, div. A, title VI, §§611(e), 626(c), Nov. 24, 2003, 117 Stat. 1501, 1508; Pub. L. 108–375, div. A, title VI, §§611(e), 618(e), Oct. 28, 2004, 118 Stat. 1947, 1950; Pub. L. 109–163, div. A, title VI, §§621(d), 687(b)(18), Jan. 6, 2006, 119 Stat. 3294, 3330; Pub. L. 109–364, div. A, title VI, §611(e), Oct. 17, 2006, 120 Stat. 2247; Pub. L. 110–181, div. A, title VI, §611(e), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, \[div. A\], title VI, §611(e), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §611(5), Oct. 28, 2009, 123 Stat. 2352; Pub. L. 111–383, div. A, title VI, §611(5), Jan. 7, 2011, 124 Stat. 4236.)
 
 #### Amendments
 
-2009—Subsec. (e). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+<b>2011</b>—Subsec. (e). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
 
-2008—Subsec. (e). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
+<b>2009</b>—Subsec. (e). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+
+<b>2008</b>—Subsec. (e). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
 
 Pub. L. 110–181 substituted “December 31, 2008” for “December 31, 2007”.
 
-2006—Subsec. (c). Pub. L. 109–163, §687(b)(18)(A), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “A person who receives a bonus payment under this section and who fails during the period for which the bonus was paid to serve satisfactorily in the Ready Reserve shall refund to the United States an amount which bears the same ratio to the amount of the bonus paid to such person as the period which such person failed to serve satisfactorily bears to the total period for which the bonus was paid.”
+<b>2006</b>—Subsec. (c). Pub. L. 109–163, §687(b)(18)(A), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “A person who receives a bonus payment under this section and who fails during the period for which the bonus was paid to serve satisfactorily in the Ready Reserve shall refund to the United States an amount which bears the same ratio to the amount of the bonus paid to such person as the period which such person failed to serve satisfactorily bears to the total period for which the bonus was paid.”
 
 Subsec. (d). Pub. L. 109–163, §687(b)(18)(B), (C), redesignated subsec. (f) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “An obligation to reimburse the United States imposed under subsection (c) is, for all purposes, a debt owed to the United States.”
 
@@ -80,7 +82,7 @@ Subsec. (g). Pub. L. 109–163, §687(b)(18)(C), redesignated subsec. (g) as (e)
 
 Pub. L. 109–163, §621(d), substituted “December 31, 2006” for “December 31, 2005”.
 
-2004—Subsec. (b)(2)(A). Pub. L. 108–375, §618(e)(1), substituted “$3,000” for “$1,500”.
+<b>2004</b>—Subsec. (b)(2)(A). Pub. L. 108–375, §618(e)(1), substituted “$3,000” for “$1,500”.
 
 Subsec. (b)(2)(B). Pub. L. 108–375, §618(e)(2), substituted “$1,500” for “$750”.
 
@@ -88,15 +90,15 @@ Subsec. (b)(4). Pub. L. 108–375, §618(e)(3), added par. (4).
 
 Subsec. (g). Pub. L. 108–375, §611(e), substituted “December 31, 2005” for “December 31, 2004”.
 
-2003—Subsec. (a)(4). Pub. L. 108–136, §626(c), added par. (4).
+<b>2003</b>—Subsec. (a)(4). Pub. L. 108–136, §626(c), added par. (4).
 
 Subsec. (g). Pub. L. 108–136, §611(e), substituted “December 31, 2004” for “December 31, 2003”.
 
-2002—Subsec. (f)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (f)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 Subsec. (g). Pub. L. 107–314 substituted “December 31, 2003” for “December 31, 2002”.
 
-2001—Subsec. (a). Pub. L. 107–107, §619(a), inserted heading and amended text generally. Prior to amendment, text read as follows:
+<b>2001</b>—Subsec. (a). Pub. L. 107–107, §619(a), inserted heading and amended text generally. Prior to amendment, text read as follows:
 
 “(a)(1) An eligible person who is or has been a member of an armed force and who reenlists, enlists, or voluntarily extends an enlistment in a combat or combat support skill of an element (other than the Selected Reserve) of the Ready Reserve of an armed force for a period of three years, or for a period of six years, beyond any other period the person is obligated to serve may be paid a bonus as provided in subsection (b).
 
@@ -108,31 +110,31 @@ Subsec. (g). Pub. L. 107–107, §619(b)(6), inserted heading.
 
 Pub. L. 107–107, §611(f), substituted “December 31, 2002” for “December 31, 2001”.
 
-2000—Subsec. (g). Pub. L. 106–398 substituted “December 31, 2001” for “December 31, 2000”.
+<b>2000</b>—Subsec. (g). Pub. L. 106–398 substituted “December 31, 2001” for “December 31, 2000”.
 
-1999—Subsec. (g). Pub. L. 106–65 substituted “December 31, 2000” for “December 31, 1999”.
+<b>1999</b>—Subsec. (g). Pub. L. 106–65 substituted “December 31, 2000” for “December 31, 1999”.
 
-1998—Subsec. (g). Pub. L. 105–261 substituted “December 31, 1999” for “September 30, 1999”.
+<b>1998</b>—Subsec. (g). Pub. L. 105–261 substituted “December 31, 1999” for “September 30, 1999”.
 
-1997—Subsec. (g). Pub. L. 105–85 substituted “September 30, 1999” for “September 30, 1998”.
+<b>1997</b>—Subsec. (g). Pub. L. 105–85 substituted “September 30, 1999” for “September 30, 1998”.
 
-1996—Subsec. (g). Pub. L. 104–201 substituted “September 30, 1998” for “September 30, 1997”.
+<b>1996</b>—Subsec. (g). Pub. L. 104–201 substituted “September 30, 1998” for “September 30, 1997”.
 
 Pub. L. 104–106 substituted “September 30, 1997” for “September 30, 1996”.
 
-1994—Subsec. (g). Pub. L. 103–337 substituted “September 30, 1996” for “September 30, 1995”.
+<b>1994</b>—Subsec. (g). Pub. L. 103–337 substituted “September 30, 1996” for “September 30, 1995”.
 
-1993—Subsec. (g). Pub. L. 103–160 substituted “September 30, 1995” for “September 30, 1993”.
+<b>1993</b>—Subsec. (g). Pub. L. 103–160 substituted “September 30, 1995” for “September 30, 1993”.
 
-1992—Subsec. (g). Pub. L. 102–484 substituted “September 30, 1993” for “September 30, 1992”.
+<b>1992</b>—Subsec. (g). Pub. L. 102–484 substituted “September 30, 1993” for “September 30, 1992”.
 
-1991—Pub. L. 102–25 struck out “of this section” and “of this subsection” wherever appearing.
+<b>1991</b>—Pub. L. 102–25 struck out “of this section” and “of this subsection” wherever appearing.
 
-1989—Subsec. (g). Pub. L. 101–189 substituted “September 30, 1992” for “September 30, 1990”.
+<b>1989</b>—Subsec. (g). Pub. L. 101–189 substituted “September 30, 1992” for “September 30, 1990”.
 
-1987—Subsec. (g). Pub. L. 100–180 substituted “September 30, 1990” for “September 30, 1987”.
+<b>1987</b>—Subsec. (g). Pub. L. 100–180 substituted “September 30, 1990” for “September 30, 1987”.
 
-1985—Subsec. (a)(1). Pub. L. 99–145, §646(b)(1), substituted “for a period of three years, or for a period ofsix years,” for “for a period of not less than three years”.
+<b>1985</b>—Subsec. (a)(1). Pub. L. 99–145, §646(b)(1), substituted “for a period of three years, or for a period of six years,” for “for a period of not less than three years”.
 
 Subsec. (b). Pub. L. 99–145, §646(b)(2), designated existing provisions as par. (1), struck out “, except that the amount of such a bonus may not exceed $900 and shall be paid in equal annual increments”, and added pars. (2) and (3).
 
@@ -142,7 +144,7 @@ Subsec. (f). Pub. L. 99–145, §646(c), designated existing provisions as par. 
 
 Subsec. (g). Pub. L. 99–145, §646(a), substituted “September 30, 1987” for “September 30, 1985”.
 
-1984—Subsec. (b). Pub. L. 98–525 inserted provision for payment in equal annual increments.
+<b>1984</b>—Subsec. (b). Pub. L. 98–525 inserted provision for payment in equal annual increments.
 
 #### Effective Date of 2008 Amendment
 

@@ -13,11 +13,9 @@
 
 #### Amendments
 
-2002—Pub. L. 107–273, div. C, title III, §13206(a)(18), Nov. 2, 2002, 116 Stat. 1905, substituted “Correction of named inventor” for “Misjoinder of inventor” in item 256.
+<b>2002</b>—Pub. L. 107–273, div. C, title III, §13206(a)(18), Nov. 2, 2002, 116 Stat. 1905, substituted “Correction of named inventor” for “Misjoinder of inventor” in item 256.
 
-1975—Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949, substituted “Patent and Trademark Office” for “Patent Office” in item 254.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to chapter heading.</i>
+<b>1975</b>—Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949, substituted “Patent and Trademark Office” for “Patent Office” in item 254.
 
 
 ---

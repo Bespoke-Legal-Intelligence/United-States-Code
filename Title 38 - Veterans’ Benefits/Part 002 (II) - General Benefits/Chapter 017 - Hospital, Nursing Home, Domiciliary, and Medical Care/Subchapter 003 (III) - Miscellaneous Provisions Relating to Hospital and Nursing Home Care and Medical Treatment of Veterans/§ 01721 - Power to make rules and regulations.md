@@ -10,7 +10,7 @@ Prior section 1721 was renumbered section 3521 of this title.
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 621 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 621 of this title as this section.
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
@@ -20,7 +20,7 @@ Pub. L. 102–83, §2(c)(1), substituted “501(a)” for “210(c)(1)”.
 
 Pub. L. 102–40 substituted “8111A” for “5011A”.
 
-1988—Pub. L. 100–322 amended section generally. Prior to amendment, section read as follows: “The Administrator shall prescribe—
+<b>1988</b>—Pub. L. 100–322 amended section generally. Prior to amendment, section read as follows: “The Administrator shall prescribe—
 
 &emsp;“(1) such rules and procedure governing the furnishing of hospital, nursing home, and domiciliary care as the Administrator may deem proper and necessary;
 
@@ -28,7 +28,7 @@ Pub. L. 102–40 substituted “8111A” for “5011A”.
 
 &emsp;“(3) such rules and regulations as the Administrator deems necessary in order to promote good conduct on the part of persons who are receiving hospital, nursing home, or domiciliary care in Veterans’ Administration facilities.”
 
-1976—Cl. (1). Pub. L. 94–581, §§202(j), 210(a)(8), substituted “hospital, nursing home, and domiciliary care as the Administrator may deem” for “hospital and domiciliary care as he may deem”.
+<b>1976</b>—Cl. (1). Pub. L. 94–581, §§202(j), 210(a)(8), substituted “hospital, nursing home, and domiciliary care as the Administrator may deem” for “hospital and domiciliary care as he may deem”.
 
 Cl. (2). Pub. L. 94–581, §202(j), substituted “hospital, nursing home, and domiciliary care” for “hospital and domiciliary care”.
 

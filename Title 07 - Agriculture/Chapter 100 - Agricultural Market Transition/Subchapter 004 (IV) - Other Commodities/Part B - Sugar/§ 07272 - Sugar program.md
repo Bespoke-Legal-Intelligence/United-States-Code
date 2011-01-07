@@ -168,7 +168,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (B) Publication
 
-&emsp;&emsp;The data collected under subparagraph (A) shall be published in each edition of theWorld Agricultural Supply and Demand Estimates.
+&emsp;&emsp;The data collected under subparagraph (A) shall be published in each edition of the World Agricultural Supply and Demand Estimates.
 
 #### (5) Penalty
 

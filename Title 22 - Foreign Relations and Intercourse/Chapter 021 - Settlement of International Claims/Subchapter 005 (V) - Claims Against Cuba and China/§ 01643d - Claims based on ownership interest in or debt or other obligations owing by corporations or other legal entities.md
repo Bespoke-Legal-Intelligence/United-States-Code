@@ -20,7 +20,7 @@ The amount of any claim covered by subsection (b) or (c) of this section shall b
 
 #### Amendments
 
-1966—Subsec. (a). Pub. L. 89–780 provided for applicability of subsection to property nationalized or taken by the Chinese Communist regime.
+<b>1966</b>—Subsec. (a). Pub. L. 89–780 provided for applicability of subsection to property nationalized or taken by the Chinese Communist regime.
 
-1965—Subsec. (a). Pub. L. 89–262 authorized consideration of claims based on debt or other obligation owing by corporations or other legal entities which is a charge on property nationalized, expropriated, intervened, or taken by Government of Cuba.
+<b>1965</b>—Subsec. (a). Pub. L. 89–262 authorized consideration of claims based on debt or other obligation owing by corporations or other legal entities which is a charge on property nationalized, expropriated, intervened, or taken by Government of Cuba.
 

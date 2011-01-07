@@ -28,7 +28,7 @@ If a person is determined to have committed a violation under subsection (a) of 
 
 #### (c) Wetland conversion
 
-Except as provided in section 3822 of this title and notwithstanding any other provision of law, any person who in any crop year beginning after November 28, 1990, converts a wetland by draining, dredging, filling, leveling, or any other means for the purpose, or to have the effect, of making the production of an agricultural commodity possible on such converted wetland shall be ineligible for those payments, loans, or programs specified in subsection (b) of this section for that crop year and all subsequent crop years.
+Except as provided in section 3822 of this title and notwithstanding any other provision of law, any person who in any crop year beginning after November 28, 1990, converts a wetland by draining, dredging, filling, leveling, or any other means for the purpose, or to have the effect, of making the production of an agricultural commodity possible on such converted wetland shallbe ineligible for those payments, loans, or programs specified in subsection (b) of this section for that crop year and all subsequent crop years.
 
 #### (d) Prior loans
 
@@ -50,9 +50,9 @@ The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(2), 
 
 #### Amendments
 
-2002—Subsec. (e). Pub. L. 107–171 added subsec. (e).
+<b>2002</b>—Subsec. (e). Pub. L. 107–171 added subsec. (e).
 
-1996—Pub. L. 104–127, §321(a)(2), reenacted section catchline without change.
+<b>1996</b>—Pub. L. 104–127, §321(a)(2), reenacted section catchline without change.
 
 Subsec. (a). Pub. L. 104–127, §321(a)(2), added subsec. (a) and struck out former subsec. (a) which related to ineligibility of persons producing an agricultural commodity on converted wetland to receive certain Federal payments, loans, insurance benefits, and other benefits.
 
@@ -64,11 +64,11 @@ Pub. L. 104–127, §321(a)(1), redesignated subsec. (b) as (c).
 
 Subsec. (d). Pub. L. 104–127, §321(b)(2), added subsec. (d).
 
-1992—Subsec. (a)(1)(D). Pub. L. 102–552 made technical correction to directory language of Pub. L. 102–237. See 1991 Amendment note below.
+<b>1992</b>—Subsec. (a)(1)(D). Pub. L. 102–552 made technical correction to directory language of Pub. L. 102–237. See 1991 Amendment note below.
 
-1991—Subsec. (a)(1)(D). Pub. L. 102–237, as amended by Pub. L. 102–552, substituted “(7 U.S.C. 1421 note)” for “(16 U.S.C. 1421 note)”.
+<b>1991</b>—Subsec. (a)(1)(D). Pub. L. 102–237, as amended by Pub. L. 102–552, substituted “(7 U.S.C. 1421 note)” for “(16 U.S.C. 1421 note)”.
 
-1990—Subsec. (a). Pub. L. 101–624, §1421(b)(1), designated existing provisions as subsec. (a).
+<b>1990</b>—Subsec. (a). Pub. L. 101–624, §1421(b)(1), designated existing provisions as subsec. (a).
 
 Subsec. (a)(1)(D). Pub. L. 101–624, §1421(b)(2), inserted reference to section 132 of the Disaster Assistance Act of 1989 and similar provisions enacted after Aug. 14, 1989.
 

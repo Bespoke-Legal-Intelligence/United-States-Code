@@ -10,11 +10,11 @@ The conservation area shall consist of approximately 797,100 acres of public lan
 
 #### (c) Maps and legal description
 
-As soon as practicable after December 21, 2000, the Secretary shall submit to Congress a map and legal description of the conservation area. The map and legal description shall have the same force and effect as if included in this subchapter, except the Secretary may correct clerical and typographical errors in such map and legal description. Copies of the map and legal description shall be on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
+As soon as practicable after December 21, 2000, the Secretary shall submit to Congress a mapand legal description of the conservation area. The map and legal description shall have the same force and effect as if included in this subchapter, except the Secretary may correct clerical and typographical errors in such map and legal description. Copies of the map and legal description shall be on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
 
 (Pub. L. 106–554, §1(a)(4) \[div. B, title I, §125 \[§4\]\], Dec. 21, 2000, 114 Stat. 2763, 2763A–229, 2763A–354; Pub. L. 107–63, title I, §135(a), Nov. 5, 2001, 115 Stat. 443.)
 
 #### Amendments
 
-2001—Subsec. (b). Pub. L. 107–63 substituted “October 3, 2001” for “July 19, 2000”.
+<b>2001</b>—Subsec. (b). Pub. L. 107–63 substituted “October 3, 2001” for “July 19, 2000”.
 

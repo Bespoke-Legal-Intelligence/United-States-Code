@@ -56,7 +56,7 @@ During the period when an application is pending or assistance is being provided
 
 #### (1) Administrative remedies
 
-&emsp;If the Secretary receives or obtains information providing a reasonable basis to believe that a violation of subsection (b), (c), or (d) this <sup>1</sup> section has occurred, the Secretary shall—
+&emsp;If the Secretary receives or obtains information providing a reasonable basis to believethat a violation of subsection (b), (c), or (d) this <sup>1</sup> section has occurred, the Secretary shall—
 
 &emsp;&emsp;(A) in the case of a selection that has not been made, determine whether to terminate the selection process or take other appropriate actions; and
 
@@ -114,9 +114,9 @@ December 15, 1989, referred to in subsec. (g), was in the original “the date o
 
 #### Amendments
 
-1995—Subsec. (d). Pub. L. 104–65 struck out subsec. (d) which related to regulation of lobbyists and consultants.
+<b>1995</b>—Subsec. (d). Pub. L. 104–65 struck out subsec. (d) which related to regulation of lobbyists and consultants.
 
-1990—Subsec. (h). Pub. L. 101–625 inserted before period at end “, for the original construction or development of the project”.
+<b>1990</b>—Subsec. (h). Pub. L. 101–625 inserted before period at end “, for the original construction or development of the project”.
 
 #### Effective Date of 1994 Amendment
 

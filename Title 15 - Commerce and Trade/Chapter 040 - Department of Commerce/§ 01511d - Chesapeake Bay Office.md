@@ -20,7 +20,7 @@ The Office, in consultation with the Chesapeake Executive Council, shall—
 
 &emsp;&emsp;(C) monitoring the implementation and effectiveness of management plans;
 
-&emsp;(2) develop and implement a strategy for the National Oceanic and Atmospheric Administration that integrates the science, research,monitoring, data collection, regulatory, and management responsibilities of the Secretary of Commerce in such a manner as to assist the cooperative, intergovernmental Chesapeake Bay Program to meet the commitments of the Chesapeake Bay Agreement;
+&emsp;(2) develop and implement a strategy for the National Oceanic and Atmospheric Administration that integrates the science, research, monitoring, data collection, regulatory, and management responsibilities of the Secretary of Commerce in such a manner as to assist the cooperative, intergovernmental Chesapeake Bay Program to meet the commitments of the Chesapeake Bay Agreement;
 
 &emsp;(3) coordinate the programs and activities of the various organizations within the National Oceanic and Atmospheric Administration, the Chesapeake Bay Regional Sea Grant Programs, and the Chesapeake Bay units of the National Estuarine Research Reserve System, including—
 
@@ -118,13 +118,13 @@ For purposes of this section, “Chesapeake Executive Council” means the repre
 
 #### (e) Authorization of appropriations
 
-There is authorized to be appropriated to the Department of Commerce for the ChesapeakeBay Office $6,000,000 for each of fiscal years 2002 through 2006.
+There is authorized to be appropriated to the Department of Commerce for the Chesapeake Bay Office $6,000,000 for each of fiscal years 2002 through 2006.
 
 (Pub. L. 102–567, title III, §307, Oct. 29, 1992, 106 Stat. 4284; Pub. L. 107–372, title IV, §401(a), Dec. 19, 2002, 116 Stat. 3096.)
 
 #### Amendments
 
-2002—Pub. L. 107–372 substituted “Chesapeake Bay Office” for “Chesapeake Bay Estuarine Resources Office” in section catchline and amended text generally, substituting provisions establishing Office, describing functions, establishing habitat restoration small watershed grants program, and authorizing appropriations, for provisions establishing Office, describing functions, and requiring identification of funding request in President's annual budget.
+<b>2002</b>—Pub. L. 107–372 substituted “Chesapeake Bay Office” for “Chesapeake Bay Estuarine Resources Office” in section catchline and amended text generally, substituting provisions establishing Office, describing functions, establishing habitat restoration small watershed grants program, and authorizing appropriations, for provisions establishing Office, describing functions, and requiring identification of funding request in President's annual budget.
 
 #### Multiple Species Management Strategy
 
@@ -144,7 +144,7 @@ Required elements of study.—In order to improve the understanding necessary fo
 
 &emsp;“(A) determine the current status and trends of fish and shellfish that live in the Chesapeake Bay and its tributaries and are selected for study;
 
-&emsp;“(B) evaluate and assess interactions among the fish and shellfish referred to in subparagraph (A) and other living resources, with particular attention to the impact of changes within and among trophic levels; and
+&emsp;“(B) evaluate and assess interactions among the fish and shellfish referred to in subparagraph (A) andother living resources, with particular attention to the impact of changes within and among trophic levels; and
 
 &emsp;“(C) recommend management actions to optimize the return of a healthy and balanced ecosystem for the Chesapeake Bay.”
 

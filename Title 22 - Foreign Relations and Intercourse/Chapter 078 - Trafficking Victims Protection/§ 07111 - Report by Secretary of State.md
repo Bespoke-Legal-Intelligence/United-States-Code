@@ -14,5 +14,5 @@ Section was enacted as part of the Trafficking Victims Protection Reauthorizatio
 
 #### Amendments
 
-2008—Pub. L. 110–457 substituted “Committee on Foreign Affairs” for “Committee on International Relations” in introductory provisions.
+<b>2008</b>—Pub. L. 110–457 substituted “Committee on Foreign Affairs” for “Committee on International Relations” in introductory provisions.
 

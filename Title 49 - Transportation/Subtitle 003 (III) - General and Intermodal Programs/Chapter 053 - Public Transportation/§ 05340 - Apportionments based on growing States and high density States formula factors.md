@@ -18,7 +18,7 @@ Growing State Apportionments.—
 
 &emsp;(1)
 
-Apportionment among states.—The amounts apportioned under subsection (b)(1) shall provide each State with an amount equal to the total amount apportioned multiplied by a ratio equal to the population of that State forecast for the year that is 15 years after the most recent decennial census, divided by the total population of all States forecast for the year that is 15 years after the most recent decennial census. Such forecast shall be based on the population trend for each State between the most recent decennial census and the most recent estimate of population made by the Secretary of Commerce.
+Apportionment among states.—The amounts apportioned under subsection (b)(1) shall provide each State with an amount equalto the total amount apportioned multiplied by a ratio equal to the population of that State forecast for the year that is 15 years after the most recent decennial census, divided by the total population of all States forecast for the year that is 15 years after the most recent decennial census. Such forecast shall be based on the population trend for each State between the most recent decennial census and the most recent estimate of population made by the Secretary of Commerce.
 
 &emsp;(2)
 
@@ -26,7 +26,7 @@ Apportionments between urbanized areas and other than urbanized areas in each st
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary shall apportion amounts to each State under paragraph (1) so that urbanized areas in that State receive an amount equal to the amount apportioned to that State multiplied by a ratio equal to the sum of the forecast population of all urbanized areas in thatState divided by the total forecast population of that State. In making the apportionment under this subparagraph, the Secretary shall utilize any available forecasts made by the State. If no forecasts are available, the Secretary shall utilize data on urbanized areas and total population from the most recent decennial census.
+In general.—The Secretary shall apportion amounts to each State under paragraph (1) so that urbanized areas in that State receive an amount equal to the amount apportioned to that State multiplied by a ratio equal to the sum of the forecast population of all urbanized areas in that State divided by the total forecast population of that State. In making the apportionment under this subparagraph, the Secretary shall utilize any available forecasts made by the State. If no forecasts are available, the Secretary shall utilize data on urbanized areas and total population from the most recent decennial census.
 
 &emsp;&emsp;(B)
 

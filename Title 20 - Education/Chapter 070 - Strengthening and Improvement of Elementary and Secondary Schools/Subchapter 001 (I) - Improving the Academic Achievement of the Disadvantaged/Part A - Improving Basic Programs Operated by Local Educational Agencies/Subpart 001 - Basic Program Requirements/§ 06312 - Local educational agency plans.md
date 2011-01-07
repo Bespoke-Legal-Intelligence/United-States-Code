@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(J) a description of how the local educational agency will ensure that migratory children and formerly migratory children who are eligible to receive services under this part are selected to receive such services on the same basis as other children who are selected to receive services under this part;
 
-&emsp;&emsp;(K) if appropriate, a description of how the local educational agency will use funds under this part to support preschool programs for children, particularly children participating in Early Reading First, or in a Head Start or Even Start program, which services may be provided directly by thelocal educational agency or through a subcontract with the local Head Start agency designated by the Secretary of Health and Human Services under section 9836 of title 42, or an agency operating an Even Start program, an Early Reading First program, or another comparable public early childhood development program;
+&emsp;&emsp;(K) if appropriate, a description of how the local educational agency will use funds under this part to support preschool programs for children, particularly children participating in Early Reading First, or in a Head Start or Even Start program, which services may be provided directly by the local educational agency or through a subcontract with the local Head Start agency designated by the Secretary of Health and Human Services under section 9836 of title 42, or an agency operating an Even Start program, an Early Reading First program, or another comparable public early childhood development program;
 
 &emsp;&emsp;(L) a description of the actions the local educational agency will take to assist its low-achieving schools identified under section 6316 of this title as in need of improvement;
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;(L) ensure, through incentives for voluntary transfers, the provision of professional development, recruitment programs, or other effective strategies, that low-income students and minority students are not taught at higher rates than other students by unqualified, out-of-field, or inexperienced teachers;
 
-&emsp;&emsp;(M) use the results of the student academic assessments required under section 6311(b)(3) of this title, and other measures or indicators available to the agency, to review annually the progress of each school served by the agency and receiving funds under thispart to determine whether all of the schools are making the progress necessary to ensure that all students will meet the State's proficient level of achievement on the State academic assessments described in section 6311(b)(3) of this title within 12 years from the end of the 2001–2002 school year;
+&emsp;&emsp;(M) use the results of the student academic assessments required under section 6311(b)(3) of this title, and other measures or indicators available to the agency, to review annually the progress of each school served by the agency and receiving funds under this part to determine whether all of the schools are making the progress necessary to ensure that all students will meet the State's proficient level of achievement on the State academic assessments described in section 6311(b)(3) of this title within 12 years from the end of the 2001–2002 school year;
 
 &emsp;&emsp;(N) ensure that the results from the academic assessments required under section 6311(b)(3) of this title will be provided to parents and teachers as soon as is practicably possible after the test is taken, in an understandable and uniform format and, to the extent practicable, provided in a language that the parents can understand; and
 
@@ -224,13 +224,13 @@ A prior section 6312, Pub. L. 89–10, title I, §1112, as added Pub. L. 103–3
 
 #### Amendments
 
-2007—Subsec. (c)(1)(G). Pub. L. 110–134, §29(a)(1), substituted “education performance standards in effect under section 9836a(a)(1)(B) of title 42” for “performance standards established under section 9836a(a) of title 42”.
+<b>2007</b>—Subsec. (c)(1)(G). Pub. L. 110–134, §29(a)(1), substituted “education performance standards in effect under section 9836a(a)(1)(B) of title 42” for “performance standards established under section 9836a(a) of title 42”.
 
 Subsec. (c)(2)(B). Pub. L. 110–134, §29(a)(2), substituted “education performance standards in effect under section 9836a(a)(1)(B) of title 42” for “Head Start performance standards as in effect under section 9836a(a) of title 42”.
 
-2006—Subsec. (a)(1). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006”for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
 
-2002—Subsec. (b)(1)(F). Pub. L. 107–279 substituted “section 9622(b)(2) of this title” for “section 9010(b)(2) of this title”.
+<b>2002</b>—Subsec. (b)(1)(F). Pub. L. 107–279 substituted “section 9622(b)(2) of this title” for “section 9010(b)(2) of this title”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “of subchapter III of this chapter”.</i>
 

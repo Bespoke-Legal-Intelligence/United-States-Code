@@ -4,7 +4,7 @@
 
 Except as otherwise provided in this section, no law, rule, regulation, or order, or other administrative action of any State or any political subdivision thereof—
 
-&emsp;(1) requiring, or with respect to, registration or qualification of securities, or registration or qualification of securities transactions, shall directly or indirectly apply to a security that—
+&emsp;(1) requiring, or with respect to, registration or qualification of securities, or registrationor qualification of securities transactions, shall directly or indirectly apply to a security that—
 
 &emsp;&emsp;(A) is a covered security; or
 
@@ -30,7 +30,7 @@ For purposes of this section, the following are covered securities:
 
 &emsp;&emsp;(B) listed, or authorized for listing, on a national securities exchange (or tier or segment thereof) that has listing standards that the Commission determines by rule (on its own initiative or on the basis of a petition) are substantially similar to the listing standards applicable to securities described in subparagraph (A); or
 
-&emsp;&emsp;(C) is a security of the same issuer that is equal in seniority or that is a senior security to a security described in subparagraph (A) or (B).
+&emsp;&emsp;(C) a security of the same issuer that is equal in seniority or that is a senior security to a security described in subparagraph (A) or (B).
 
 #### (2) Exclusive Federal registration of investment companies
 
@@ -68,7 +68,7 @@ For purposes of this section, the following are covered securities:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Until otherwise provided by law, rule, regulation, or order, or other administrative action of any State, or any political subdivision thereof, adopted after October 11, 1996, filing or registration fees with respect to securities or securities transactions shall continue to be collected in amounts determined pursuant to State law as in effect on the day before October 11, 1996.
+&emsp;&emsp;&emsp;Until otherwise provided by law, rule, regulation, or order, or other administrative action of any State or any political subdivision thereof, adopted after October 11, 1996, filing or registration fees with respect to securities or securities transactions shall continue to be collected in amounts determined pursuant to State law as in effect on the day before October 11, 1996.
 
 #### (ii) Schedule
 
@@ -116,7 +116,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The term “senior security” means any bond, debenture, note, or similar obligation or instrument constituting a security and evidencing indebtedness, and any stock of a class having priority over any other class as to distribution of assets or payment of dividends.
 
-(May 27, 1933, ch. 38, title I, §18, 48 Stat. 85; Pub. L. 104–290, title I, §102(a), Oct. 11, 1996, 110 Stat. 3417; Pub. L. 105–353, title III, §§301(a)(4), 302, Nov. 3, 1998, 112 Stat. 3235, 3237.)
+(May 27, 1933, ch. 38, title I, §18, 48 Stat. 85; Pub. L. 104–290, title I, §102(a), Oct. 11, 1996, 110 Stat. 3417; Pub. L. 105–353, title III, §§301(a)(4), 302, Nov. 3, 1998, 112 Stat. 3235, 3237; Pub. L. 111–203, title IX, §985(a)(2), July 21, 2010, 124 Stat. 1933.)
 
 #### References in Text
 
@@ -124,7 +124,11 @@ The Investment Company Act of 1940, referred to in subsec. (b)(2), is title I of
 
 #### Amendments
 
-1998—Subsec. (b)(1)(A). Pub. L. 105–353, §301(a)(4)(A), inserted “, or authorized for listing,” after “Exchange, or listed”.
+<b>2010</b>—Subsec. (b)(1)(C). Pub. L. 111–203, §985(a)(2)(A), substituted “(C) a security” for “(C) is a security”.
+
+Subsec. (c)(2)(B)(i). Pub. L. 111–203, §985(a)(2)(B), substituted “State or” for “State, or”.
+
+<b>1998</b>—Subsec. (b)(1)(A). Pub. L. 105–353, §301(a)(4)(A), inserted “, or authorized for listing,” after “Exchange, or listed”.
 
 Subsec. (b)(4)(C). Pub. L. 105–353, §302, substituted “paragraph (4), (10), or (11)” for “paragraph (4) or (11)”.
 
@@ -136,7 +140,11 @@ Subsec. (d)(2). Pub. L. 105–353, §301(a)(4)(E), made technical amendment to r
 
 Subsec. (d)(4). Pub. L. 105–353, §301(a)(4)(F), substituted “The term” for “For purposes of this paragraph, the term”.
 
-1996—Pub. L. 104–290 substituted “Exemption from State regulation of securities offerings” for “State control of securities” as section catchline and amended text generally. Prior to amendment, text read as follows: “Nothing in this subchapter shall affect the jurisdiction of the securities commission (or any agency oroffice performing like functions) of any State or Territory of the United States, or the District of Columbia, over any security or any person.”
+<b>1996</b>—Pub. L. 104–290 substituted “Exemption from State regulation of securities offerings” for “State control of securities” as section catchline and amended text generally. Prior to amendment, text read as follows: “Nothing in this subchapter shall affect the jurisdiction of the securities commission (or any agency or office performing like functions) of any State or Territory of the United States, or the District of Columbia, over any security or any person.”
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Transfer of Functions
 
@@ -144,5 +152,5 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 #### Study and Report on Uniformity of State Regulatory Requirements
 
-Section 102(b) of Pub. L. 104–290 provided that: “The Commission shall conduct a study, after consultation with States, issuers, brokers, and dealers, on the extent to which uniformity of State regulatory requirements for securities or securities transactions has been achieved for securities that are not covered securities (within the meaning of section 18 of the Securities Act of 1933 \[15 U.S.C. 77r\], as amended by paragraph (1) of this subsection). Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall submit a report to the Congress on the results of such study.”
+Section 102(b) of Pub. L. 104–290 provided that: “The Commission shall conduct a study, after consultation with States, issuers, brokers, and dealers, on the extent to which uniformity of State regulatory requirements for securities or securities transactions has been achieved for securities that are not covered securities (within the meaning of section 18 of the Securities Act of 1933 \[15 U.S.C. 77r\], as amended by paragraph (1) of this subsection). Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commissionshall submit a report to the Congress on the results of such study.”
 

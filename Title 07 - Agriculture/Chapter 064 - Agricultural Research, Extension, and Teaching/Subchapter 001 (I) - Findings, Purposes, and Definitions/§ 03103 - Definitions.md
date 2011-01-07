@@ -202,7 +202,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Pars. (5) to (8). Pub. L. 110–246, §7101(a)(2), designated pars. (16) and (5) to (7) as (5) to (8), respectively. Former par. (8) redesignated (9).
 
-Par. (9). Pub. L. 110–246, §7101(a)(2), (3), redesignated par. (8) as (9), substituted “renewable energy and natural resources” for “renewable natural resources” in introductory provisions, added subpar. (F), and struck out former subpar. (F) which read as follows: “Soil and water conservation and improvement.” Former par. (9) redesignated (11).
+Par. (9). Pub. L. 110–246, §7101(a)(2), (3), redesignated par. (8) as (9), substituted “renewable energy and natural resources” for “renewable natural resources” in introductory provisions, added subpar. (F), and struck out former subpar. (F) which read as follows: “Soil andwater conservation and improvement.” Former par. (9) redesignated (11).
 
 Par. (10). Pub. L. 110–246, §7101(a)(4), added par. (10). Former par. (10) redesignated (12).
 
@@ -294,7 +294,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Construction of 2002 Amendment
 
-Pub. L. 107–171, title VII, §7502(b), May 13, 2002, 116 Stat. 463, provided that: “The amendments made by subsection (a) \[amending this section\] shall not affect any basis for distribution of funds by formula (in effect on the date of enactment of this Act \[May 13, 2002\]) to—
+Pub. L. 107–171, title VII, §7502(b), May 13, 2002, 116 Stat. 463, provided that: “The amendments made bysubsection (a) \[amending this section\] shall not affect any basis for distribution of funds by formula (in effect on the date of enactment of this Act \[May 13, 2002\]) to—
 
 &emsp;“(1) the Federated States of Micronesia;
 

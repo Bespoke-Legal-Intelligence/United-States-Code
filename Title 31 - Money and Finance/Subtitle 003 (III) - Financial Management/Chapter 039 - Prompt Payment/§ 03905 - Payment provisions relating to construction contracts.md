@@ -4,7 +4,7 @@
 
 &emsp;(1) notify the agency of such performance deficiency; and
 
-&emsp;(2) be obligated to pay the Government an amount equal to interest on the unearned amount (computed in the manner provided insection 3903(c) of this title), from the date of the contractor's receipt of such unearned amount until—
+&emsp;(2) be obligated to pay the Government an amount equal to interest on the unearned amount (computed in the manner provided in section 3903(c) of this title), from the date of the contractor's receipt of such unearned amount until—
 
 &emsp;&emsp;(A) the date the contractor notifies the agency that the performance deficiency has been corrected; or
 
@@ -100,7 +100,7 @@ A prior section 3905 was renumbered section 3906 of this title.
 
 #### Amendments
 
-2002—Subsec. (f)(1). Pub. L. 107–217 substituted “section 3133(b) of title 40” for “section 2 of the Act of August 24, 1935 (40 U.S.C. 270b)”.
+<b>2002</b>—Subsec. (f)(1). Pub. L. 107–217 substituted “section 3133(b) of title 40” for “section 2 of the Act of August 24, 1935 (40 U.S.C. 270b)”.
 
 #### Effective Date
 

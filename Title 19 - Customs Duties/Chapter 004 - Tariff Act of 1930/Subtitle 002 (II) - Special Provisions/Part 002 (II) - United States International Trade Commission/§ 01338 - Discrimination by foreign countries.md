@@ -4,13 +4,13 @@
 
 The President when he finds that the public interest will be served shall by proclamation specify and declare new or additional duties as hereinafter provided upon articles wholly or in part the growth or product of, or imported in a vessel of, any foreign country whenever he shall find as a fact that such country—
 
-&emsp;(1) Imposes, directly or indirectly, upon the disposition in or transportation in transitthrough or reexportation from such country of any article wholly or in part the growth or product of the United States any unreasonable charge, exaction, regulation, or limitation which is not equally enforced upon the like articles of every foreign country; or
+&emsp;(1) Imposes, directly or indirectly, upon the disposition in or transportation in transit through or reexportation from such country of any article wholly or in part the growth or product of the United States any unreasonable charge, exaction, regulation, or limitation which is not equally enforced upon the like articles of every foreign country; or
 
 &emsp;(2) Discriminates in fact against the commerce of the United States, directly or indirectly, by law or administrative regulation or practice, by or in respect to any customs, tonnage, or port duty, fee, charge, exaction, classification, regulation, condition, restriction, or prohibition, in such manner as to place the commerce of the United States at a disadvantage compared with the commerce of any foreign country.
 
 #### (b) Exclusion from importation
 
-If at any time the President shall find it to be a fact that any foreign country has not only discriminated against the commerce of the United States, as aforesaid, but has, after the issuance of a proclamation as authorized in subdivision (a) of this section, maintained or increased its said discriminations against the commerce of the United States, the President is authorized, if he deems it consistent with the interests of the United States, to issue a further proclamation directing that such products of said country or such articles imported in its vessels as he shall deem consistent with the public interests shall be excluded from importation into the United States.
+If at any time the President shall find it to be a fact that any foreign country has not only discriminated against the commerce of the United States, as aforesaid, but has, after the issuance of a proclamation as authorized in subdivision\(a) of this section, maintained or increased its said discriminations against the commerce of the United States, the President is authorized, if he deems it consistent with the interests of the United States, to issue a further proclamation directing that such products of said country or such articles imported in its vessels as he shall deem consistent with the public interests shall be excluded from importation into the United States.
 
 #### (c) Application of proclamation
 
@@ -38,7 +38,7 @@ The Secretary of the Treasury with the approval of the President shall make such
 
 #### (i) “Foreign country” defined
 
-When used in this section the term “foreign country” means any empire, country, dominion, colony or protectorate, or any subdivision orsubdivisions thereof (other than the United States and its possessions), within which separate tariff rates or separate regulations of commerce are enforced.
+When used in this section the term “foreign country” means any empire, country, dominion, colony or protectorate, or any subdivision or subdivisions thereof (other than the United States and its possessions), within which separate tariff rates or separate regulations of commerce are enforced.
 
 (June 17, 1930, ch. 497, title III, §338, 46 Stat. 704.)
 

@@ -12,7 +12,7 @@ At such times that a report is transmitted pursuant to subsection (a) of this se
 
 #### Amendments
 
-1999—Pub. L. 106–113 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>1999</b>—Pub. L. 106–113 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Change of Name
 

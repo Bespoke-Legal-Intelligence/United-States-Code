@@ -24,7 +24,7 @@
 
 #### Amendments
 
-1977—Subsec. (d). Pub. L. 95–79 added subsec. (d).
+<b>1977</b>—Subsec. (d). Pub. L. 95–79 added subsec. (d).
 
 #### Delegation of Functions
 

@@ -38,9 +38,9 @@ In subsec. (d), “August 7, 1977” substituted for “the date of enactment of
 
 #### Amendments
 
-1990—Subsec. (e). Pub. L. 101–549 added subsec. (e).
+<b>1990</b>—Subsec. (e). Pub. L. 101–549 added subsec. (e).
 
-1977—Subsec. (d). Pub. L. 95–190 substituted “December 31, 1980” for “December 31, 1981”.
+<b>1977</b>—Subsec. (d). Pub. L. 95–190 substituted “December 31, 1980” for “December 31, 1981”.
 
 #### Change of Name
 

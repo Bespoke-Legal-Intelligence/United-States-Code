@@ -20,15 +20,15 @@ For purposes of this section, the power to alter, amend, revoke, or terminate sh
 
 #### Amendments
 
-1976—Subsec. (a)(1). Pub. L. 94–455, §2001(c)(1)(K)(i), substituted “during the 3-year period ending on the date of the decedent's death” for “in contemplation of decedent's death”.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–455, §2001(c)(1)(K)(i), substituted “during the 3-year period ending on the date of the decedent's death” for “in contemplation of decedent's death”.
 
 Subsec. (a)(2). Pub. L. 94–455, §2001(c)(1)(K)(ii), substituted “during the 3-year period ending on the date of the decedent's death” for “in contemplation of his death”.
 
 Subsec. (c). Pub. L. 94–455, §1902(a)(3), struck out subsec. (c) which covered the effect of a disability in certain cases by relating a mental disability to relinquish a power to a power, the relinquishment of which would be deemed not to be a transfer for purposes of chapter 4 of the Internal Revenue Code of 1939.
 
-1962—Subsec. (a). Pub. L. 87–834 struck out provisions which excepted real property situated outside of the United States.
+<b>1962</b>—Subsec. (a). Pub. L. 87–834 struck out provisions which excepted real property situated outside of the United States.
 
-1959—Subsec. (c). Pub. L. 86–141 added subsec. (c).
+<b>1959</b>—Subsec. (c). Pub. L. 86–141 added subsec. (c).
 
 #### Effective Date of 1976 Amendment
 

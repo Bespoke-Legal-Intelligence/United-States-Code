@@ -2,7 +2,7 @@
 
 (a) An owner, charterer, managing operator, master, individual in charge, or other person having authority may permit an officer to take charge of the deck watch on a vessel when leaving or immediately after leaving port only if the officer has been off duty for at least 6 hours within the 12 hours immediately before the time of leaving.
 
-(b) On an oceangoing or coastwise vessel of not more than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title (except a fishing, fish processing, or fish tender vessel), a licensed individual may not be required to work more than 9 of 24 hours when in port, including the date of arrival, or more than 12 of 24 hours at sea, except in an emergency when life or property are endangered.
+(b) On an oceangoing or coastwise vessel of not more than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title (except a fishing, fish processing, orfish tender vessel), a licensed individual may not be required to work more than 9 of 24 hours when in port, including the date of arrival, or more than 12 of 24 hours at sea, except in an emergency when life or property are endangered.
 
 (c) On a towing vessel (except a towing vessel operated only for fishing, fish processing, fish tender, or engaged in salvage operations) operating on the Great Lakes, harbors of the Great Lakes, and connecting or tributary waters between Gary, Indiana, Duluth, Minnesota, Niagara Falls, New York, and Ogdensburg, New York, a licensed individual or seaman in the deck or engine department may not be required to work more than 8 hours in one day or permitted to work more than 15 hours in any 24-hour period, or more than 36 hours in any 72-hour period, except in an emergency when life or property are endangered.
 
@@ -30,7 +30,9 @@
 
 &emsp;(4) performing fire, lifeboat, or other drills in port or at sea.
 
-(g) On a towing vessel, an offshore supply vessel, or a barge to which this section applies, that is engaged on a voyage of less than 600 miles, the licensed individuals and crewmembers (except the coal passers, firemen, oilers, and water tenders) may be divided, when at sea, into at least 2 watches.
+(g)(1) On a towing vessel, an offshore supply vessel, or a barge to which this section applies, that is engaged on a voyage of less than 600 miles, the licensed individuals and crewmembers (except the coal passers, firemen, oilers, and water tenders) may be divided, when at sea, into at least 2 watches.
+
+(2) Paragraph (1) applies to an offshore supply vessel of at least 6,000 gross tons as measured under section 14302 of this title if the individuals engaged on the vessel are in compliance with hours of service requirements (including recording and recordkeeping of that service) as prescribed by the Secretary.
 
 (h) On a vessel to which section 8904 of this title applies, an individual licensed to operate a towing vessel may not work for more than 12 hours in a consecutive 24-hour period except in an emergency.
 
@@ -66,7 +68,7 @@
 
 (p) The Secretary may prescribe the watchstanding and work hours requirements for an oil spill response vessel.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 549; Pub. L. 98–364, title IV, §402(11), July 17, 1984, 98 Stat. 448; Pub. L. 98–557, §33(c), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 99–307, §1(12), May 19, 1986, 100 Stat. 445; Pub. L. 101–380, title IV, §§4114(b), 4302(f), Aug. 18, 1990, 104 Stat. 517, 538; Pub. L. 101–595, title VI, §602(e)(1), Nov. 16, 1990, 104 Stat. 2991; Pub. L. 102–587, title V, §5212, Nov. 4, 1992, 106 Stat. 5077; Pub. L. 103–206, title III, §322(a), Dec. 20, 1993, 107 Stat. 2428; Pub. L. 104–324, title VII, §728, title XI, §§1104(c), 1114, Oct. 19, 1996, 110 Stat. 3939, 3967, 3971; Pub. L. 109–241, title III, §311(b), July 11, 2006, 120 Stat. 530.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 549; Pub. L. 98–364, title IV, §402(11), July 17, 1984, 98 Stat. 448; Pub. L. 98–557, §33(c), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 99–307, §1(12), May 19, 1986, 100 Stat. 445; Pub. L. 101–380, title IV, §§4114(b), 4302(f), Aug. 18, 1990, 104 Stat. 517, 538; Pub. L. 101–595, title VI, §602(e)(1), Nov. 16, 1990, 104 Stat. 2991; Pub. L. 102–587, title V, §5212, Nov. 4, 1992, 106 Stat. 5077; Pub. L. 103–206, title III, §322(a), Dec. 20, 1993, 107 Stat. 2428; Pub. L. 104–324, title VII, §728, title XI, §§1104(c), 1114, Oct. 19, 1996, 110 Stat. 3939, 3967, 3971; Pub. L. 109–241, title III, §311(b), July 11, 2006, 120 Stat. 530; Pub. L. 111–281, title VI, §617(d), title IX, §903(a)(1), Oct. 15, 2010, 124 Stat. 2973, 3010.)
 
 Historical and Revision Notes
 
@@ -104,11 +106,15 @@ Subsections (i) and (j) prescribe penalties for violations of the provisions of 
 
 #### Amendments
 
-2006—Subsec. (<i>o</i>). Pub. L. 109–241, which directed the substitution of “or less than 500 gross tons as measured under section 14502 of this title, or is less than 2,500 gross tons as measured under section 14302 of this title” for “or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” in subsec. (<i>o</i>), was executed by making the substitution in both pars. (1) and (2) to reflect the probable intent of Congress.
+<b>2010</b>—Subsec. (g). Pub. L. 111–281, §617(d), designated existing provisions as par. (1) and added par. (2).
 
-1996—Subsec. (b). Pub. L. 104–324, §728(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons”.
+Subsec. (<i>o</i>). Pub. L. 111–281, §903(a)(1), made technical amendment to directory language of Pub. L. 109–241, §311(b). See 2006 Amendment note below.
 
-Subsec. (c). Pub. L. 104–324, §1114(a), struck out “or permitted” after “required” and inserted “or permittedto work more than 15 hours in any 24-hour period, or more than 36 hours in any 72-hour period” after “day”.
+<b>2006</b>—Subsec. (<i>o</i>). Pub. L. 109–241, as amended by Pub. L. 111–281, §903(a)(1), substituted “or less than 500 gross tons as measured under section 14502 of this title, or is less than 2,500 gross tons as measured under section 14302 of this title” for “or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” in pars. (1) and (2).
+
+<b>1996</b>—Subsec. (b). Pub. L. 104–324, §728(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons”.
+
+Subsec. (c). Pub. L. 104–324, §1114(a), struck out “or permitted” after “required” and inserted “or permitted to work more than 15 hours in any 24-hour period, or more than 36 hours in any 72-hour period” after “day”.
 
 Subsec. (d). Pub. L. 104–324, §728(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons” and after “5,000 gross tons”.
 
@@ -126,23 +132,23 @@ Subsec. (<i>o</i>)(2). Pub. L. 104–324, §728(6), inserted “as measured unde
 
 Subsec. (p). Pub. L. 104–324, §1104(c), amended subsec. (p) generally. Prior to amendment, subsec. (p) read as follows: “On a vessel used only to respond to a discharge of oil or a hazardous substance, the licensed individuals and crewmembers may be divided into at least two watches when the vessel is engaged in an operation less than 12 hours in duration.”
 
-1993—Subsec. (g). Pub. L. 103–206, §322(a)(1), struck out “a vessel used only to respond to a discharge of oil or a hazardous substance,” after “an offshore supply vessel,”.
+<b>1993</b>—Subsec. (g). Pub. L. 103–206, §322(a)(1), struck out “a vessel used only to respond to a discharge of oil or a hazardous substance,” after “an offshore supply vessel,”.
 
 Subsec. (p). Pub. L. 103–206, §322(a)(2), added subsec. (p).
 
-1992—Subsec. (g). Pub. L. 102–587, §5212(1), inserted “a vessel used only to respond to a discharge of oil or a hazardous substance,” after “an offshore supply vessel,”.
+<b>1992</b>—Subsec. (g). Pub. L. 102–587, §5212(1), inserted “a vessel used only to respond to a discharge of oil or a hazardous substance,” after “an offshore supply vessel,”.
 
 Subsecs. (n), (<i>o</i>). Pub. L. 102–587, §5212(2), redesignated subsec. (n), relating to fish tender vessels of not more than 500 gross tons engaged in Aleutian trade, as (<i>o</i>).
 
-1990—Subsecs. (i), (j). Pub. L. 101–380, §4302(f), substituted “$10,000” for “$100” in subsec. (i) and for “$500” in subsec. (j).
+<b>1990</b>—Subsecs. (i), (j). Pub. L. 101–380, §4302(f), substituted “$10,000” for “$100” in subsec. (i) and for “$500” in subsec. (j).
 
 Subsec. (n). Pub. L. 101–595 added subsec. (n) relating to fish tender vessels of not more than 500 gross tons engaged in Aleutian trade.
 
 Pub. L. 101–380, §4114(b), added subsec. (n) relating to tankers.
 
-1986—Subsec. (k). Pub. L. 99–307 substituted “watches” for “watchers”.
+<b>1986</b>—Subsec. (k). Pub. L. 99–307 substituted “watches” for “watchers”.
 
-1984—Subsec. (b). Pub. L. 98–364, §402(11)(A), substituted “100 gross tons (except a fishing, fish processing, or fish tender vessel)” for “100 gross tons”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–364, §402(11)(A), substituted “100 gross tons (except a fishing, fish processing, or fish tender vessel)” for “100 gross tons”.
 
 Subsec. (c). Pub. L. 98–364, §402(11)(B), substituted “fishing, fish processing, fish tender,” for “fishing”.
 
@@ -157,6 +163,10 @@ Subsec. (<i>l</i>). Pub. L. 98–557 substituted “shall” for “may” in pr
 Pub. L. 98–364, §402(11)(D), added subsec. (<i>l</i>).
 
 Subsec. (m). Pub. L. 98–364, §402(11)(D), added subsec. (m).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–281, title IX, §903(a), Oct. 15, 2010, 124 Stat. 3010, provided that the amendment by section 903(a)(1) is effective with enactment of Pub. L. 109–241.
 
 #### Effective Date of 1990 Amendment
 

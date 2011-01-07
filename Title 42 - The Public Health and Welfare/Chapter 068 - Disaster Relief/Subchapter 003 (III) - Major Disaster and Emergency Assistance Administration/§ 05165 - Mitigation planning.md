@@ -28,7 +28,7 @@ The State process of development of a mitigation plan under this section shallâ€
 
 #### (1) In general
 
-&emsp;Federal contributions under section 5170c of this title may be used to fund the development and updating of mitigation plans under this section.
+&emsp;Federal contributions under section 5170c of this title may be used to fund the developmentand updating of mitigation plans under this section.
 
 #### (2) Maximum Federal contribution
 

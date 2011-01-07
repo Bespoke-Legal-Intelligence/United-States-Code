@@ -84,3 +84,5 @@ Treatment.—Any information or other matter described in paragraph (1) to which
 
 The effective date of this section, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 109–435, which enacted this section and was approved Dec. 20, 2006.
 
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+

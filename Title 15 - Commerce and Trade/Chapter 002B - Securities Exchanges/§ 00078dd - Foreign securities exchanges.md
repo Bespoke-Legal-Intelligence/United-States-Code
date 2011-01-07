@@ -4,11 +4,23 @@
 
 (b) The provisions of this chapter or of any rule or regulation thereunder shall not apply to any person insofar as he transacts a business in securities without the jurisdiction of the United States, unless he transacts such business in contravention of such rules and regulations as the Commission may prescribe as necessary or appropriate to prevent the evasion of this chapter.
 
-(June 6, 1934, ch. 404, title I, §30, 48 Stat. 904.)
+(June 6, 1934, ch. 404, title I, §30, 48 Stat. 904; Pub. L. 111–203, title VII, §772(b), July 21, 2010, 124 Stat. 1802.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title VII, §§772(b), 774, July 21, 2010, 124 Stat. 1802, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, this section is amended by adding at the end the following:</i>
+
+#### <i>(c) Rule of construction</i>
+
+<i>No provision of this chapter that was added by the Wall Street Transparency and Accountability Act of 2010, or any rule or regulation thereunder, shall apply to any person insofar as such person transacts a business in security-based swaps without the jurisdiction of the United States, unless such person transacts such business in contravention of such rules and regulations as the Commission may prescribe as necessary or appropriate to prevent the evasion of any provision of this chapter that was added by the Wall Street Transparency and Accountability Act of 2010. This subsection shall not be construed to limit the jurisdiction of the Commission under any provision of this chapter, as in effect prior to July 21, 2010.</i>
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (b), was in the original “this title”. See References in Text note set out under section 78a of this title.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
 
 #### Transfer of Functions
 

@@ -8,9 +8,9 @@
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
 
-1998—Pub. L. 105–368 substituted “Native American Veteran Housing Loan Program Account” for “Housing loan program account” in section catchline.
+<b>1998</b>—Pub. L. 105–368 substituted “Native American Veteran Housing Loan Program Account” for “Housing loan program account” in section catchline.
 
 #### Effective Date of 1998 Amendment
 

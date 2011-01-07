@@ -30,7 +30,7 @@ Section was enacted as part of the Education Flexibility Partnership Act of 1999
 
 #### Amendments
 
-2002—Par. (1). Pub. L. 107–110 substituted “7801” for “8801”.
+<b>2002</b>—Par. (1). Pub. L. 107–110 substituted “7801” for “8801”.
 
 #### Effective Date of 2002 Amendment
 

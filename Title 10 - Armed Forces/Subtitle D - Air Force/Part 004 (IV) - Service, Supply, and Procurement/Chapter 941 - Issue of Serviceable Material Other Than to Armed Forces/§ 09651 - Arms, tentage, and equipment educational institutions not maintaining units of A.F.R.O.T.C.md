@@ -22,5 +22,5 @@ The reference to schools “other than those provided for in section 381 of this
 
 #### Amendments
 
-1985—Pub. L. 99–145 struck out “male” before “students”.
+<b>1985</b>—Pub. L. 99–145 struck out “male” before “students”.
 

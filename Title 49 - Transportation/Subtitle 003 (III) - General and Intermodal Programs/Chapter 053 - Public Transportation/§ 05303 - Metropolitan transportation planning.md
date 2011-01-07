@@ -178,7 +178,7 @@ Representation.—The policy board of a metropolitan planning organization desig
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
-Funding.—For fiscal year 2008 and each fiscal year thereafter, in addition to other funds made available to the metropolitan planning organization for the Lake Tahoe region under this chapter and title 23, prior to any allocation under section 202 of title 23, and notwithstanding the allocation provisions of section 202, the Secretary shall set aside 1/2 of 1 percent of all funds authorized to be appropriated for such fiscal year to carry out section 204 of title 23, and shall make such funds available to the metropolitan planning organization for the Lake Tahoe region to carry out the transportation planning process, environmental reviews, preliminary engineering, and design to complete environmental documentation for transportation projects for the Lake Tahoe region under the Tahoe Regional Planning Compact as consented to in Public Law 96–551 (94 Stat. 3233) and this paragraph.
+Funding.—For fiscal year 2008 and each fiscal year thereafter, in addition to other funds made available to the metropolitan planning organization for the Lake Tahoe region under this chapter and title 23, prior to any allocation under section 202 of title 23, and notwithstanding the allocation provisions of section 202, the Secretary shall set aside ½ of 1 percent of all funds authorized to be appropriated for such fiscal year to carry out section 204 of title 23, and shall make such funds available to the metropolitan planning organization for the Lake Tahoe region to carry out the transportation planning process, environmental reviews, preliminary engineering, and design to complete environmental documentation for transportation projects for the Lake Tahoe region under the Tahoe Regional Planning Compact as consented to in Public Law 96–551 (94 Stat. 3233) and this paragraph.
 
 &emsp;&emsp;(D)
 
@@ -364,7 +364,7 @@ Opportunity for comment.—In developing the TIP, the metropolitan planning orga
 
 &emsp;&emsp;(C)
 
-Funding estimates.—For the purpose of developing the TIP, the metropolitan planning organization, public transportation agency, and State shall cooperatively develop estimates of funds that are reasonablyexpected to be available to support program implementation.
+Funding estimates.—For the purpose of developing the TIP, the metropolitan planning organization, public transportation agency, and State shall cooperatively develop estimates of funds that are reasonably expected to be available to support program implementation.
 
 &emsp;&emsp;(D)
 
@@ -392,7 +392,7 @@ Financial plan.—The TIP shall include a financial plan that—
 
 &emsp;&emsp;(C)
 
-Descriptions.—Each project in the TIP shall include sufficient descriptive material (such as type of work, termini, length, and other similar factors) to identify the project or phase of the project.
+Descriptions.—Each project in the TIP shall include sufficient descriptive material (such as type of work, termini, length, andother similar factors) to identify the project or phase of the project.
 
 &emsp;(3)
 
@@ -496,7 +496,7 @@ Transportation plans.—In a transportation management area, transportation plan
 
 &emsp;(3)
 
-Congestion management process.—Within a metropolitan planning area serving a transportation management area, the transportation planning process under this section shall address congestion management through a process that provides for effective management and operation, based on a cooperatively developed and implemented metropolitan-wide strategy, of new and existing transportation facilities eligible for funding under this chapter and title 23 through the use of travel demand reduction and operational management strategies. The Secretary shall establish an appropriate phase-in schedule for compliance with the requirements of this section but no sooner than one year after the identification of a transportation management area.
+Congestion management process.—Within a metropolitan planning area serving a transportation management area, the transportation planning process under this section shall address congestion management through a process that provides for effective management and operation, based on a cooperatively developed and implemented metropolitan-wide strategy, of new and existing transportation facilities eligible for funding under this chapter and title 23 through the use of travel demand reduction and operational management strategies. The Secretary shall establish anappropriate phase-in schedule for compliance with the requirements of this section but no sooner than one year after the identification of a transportation management area.
 
 &emsp;(4)
 
@@ -568,7 +568,7 @@ Applicability.—This subsection applies to a nonattainment area within the metr
 
 (n)
 
-Limitation on Statutory Construction.—Nothing in this section shall be construed toconfer on a metropolitan planning organization the authority to impose legal requirements on any transportation facility, provider, or project not eligible under this chapter or title 23.
+Limitation on Statutory Construction.—Nothing in this section shall be construed to confer on a metropolitan planning organization the authority to impose legal requirements on any transportation facility, provider, or project not eligible under this chapter or title 23.
 
 (<i>o</i>)
 
@@ -698,15 +698,15 @@ The National Environmental Policy Act of 1969, referred to in subsec. (p), is Pu
 
 #### Amendments
 
-2008—Subsec. (f)(3)(C)(ii)(II). Pub. L. 110–244, §201(b)(1), added subcl. (II) and struck out former subcl. (II). Prior to amendment, text read as follows: “In addition to funds made available to the metropolitan planning organization for the Lake Tahoe region under other provisions of this chapter and title 23, 1 percent of the funds allocated under section 202 of title 23 shall be used to carry out the transportation planning process for the Lake Tahoe region under this subparagraph.”
+<b>2008</b>—Subsec. (f)(3)(C)(ii)(II). Pub. L. 110–244, §201(b)(1), added subcl. (II) and struck out former subcl. (II). Prior to amendment, text read as follows: “In addition to funds made available to the metropolitan planning organization for the Lake Tahoe region under other provisions of this chapter and title 23, 1 percent of the funds allocated under section 202 of title 23 shall be used to carry out the transportation planning process for the Lake Tahoe region under this subparagraph.”
 
 Subsec. (j)(3)(D). Pub. L. 110–244, §201(b)(2), inserted “or the identified phase” after “the project” in two places.
 
 Subsec. (k)(2). Pub. L. 110–244, §201(b)(3), struck out “a metropolitan planning area serving” before “a transportation management area,”.
 
-2005—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (h) relating to designation of a metropolitan planning organization for each urbanized area with a population of more than 50,000, general requirements, scope of planning process, boundaries of eacharea, coordination in multistate areas, development of long-range transportation plans, grants for studies and evaluations, and apportionment of funds.
+<b>2005</b>—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (h) relating to designation of a metropolitan planning organization for each urbanized area with a population of more than 50,000, general requirements, scope of planning process, boundaries of each area, coordination in multistate areas, development of long-range transportation plans, grants for studies and evaluations, and apportionment of funds.
 
-1998—Subsecs. (a), (b). Pub. L. 105–178, §3004(a), added subsecs. (a) and (b) and struck out headings and text of former subsecs. (a) and (b) which related to development requirements and plan and program factors, respectively.
+<b>1998</b>—Subsecs. (a), (b). Pub. L. 105–178, §3004(a), added subsecs. (a) and (b) and struck out headings and text of former subsecs. (a) and (b) which related to development requirements and plan and program factors, respectively.
 
 Subsec. (c)(1)(A). Pub. L. 105–178, §3004(b)(1)(B), substituted “or cities, as defined by the Bureau of the Census)” for “as defined by the Secretary of Commerce)”.
 
@@ -760,13 +760,13 @@ Subsec. (h)(2)(A), (3)(A). Pub. L. 105–178, §3029(b)(1), substituted “subse
 
 Subsec. (h)(4). Pub. L. 105–178, §3029(b)(3), substituted “subsection (c) or (h)(1) of section 5338 of this title” for “section 5338(g) of this title”.
 
-1997—Subsec. (c)(1). Pub. L. 105–102, §2(4)(A), inserted “and sections 5304–5306 of this title” after “this section”.
+<b>1997</b>—Subsec. (c)(1). Pub. L. 105–102, §2(4)(A), inserted “and sections 5304–5306 of this title” after “this section”.
 
 Subsec. (c)(4)(A). Pub. L. 105–102, §2(4)(B), substituted “paragraph (5)” for “paragraph (3)”.
 
 Subsec. (c)(5)(A). Pub. L. 105–102, §2(4)(C), inserted “and sections 5304–5306 of this title” after “this section”.
 
-1996—Subsec. (f)(2). Pub. L. 104–287, §5(10)(A), substituted “subsection (b)” for “subsection (e)”.
+<b>1996</b>—Subsec. (f)(2). Pub. L. 104–287, §5(10)(A), substituted “subsection (b)” for “subsection (e)”.
 
 Subsec. (h)(4). Pub. L. 104–287, §5(10)(B), substituted “section 5338(g)” for “5338(g)(1)”.
 
@@ -776,7 +776,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 #### Effective Date of 1996 Amendment
 
-Section 8(1) of Pub. L. 104–287, as amended by Pub. L. 105–102, §3(d)(2)(A), Nov. 20, 1997, 111 Stat. 2215, providedthat: “The amendments made by sections 3 and 5(10)–(17), (19), (20), (52), (53), (55), (61), (62), (65), (70), (77)–(79), and (91)–(93) of this Act \[amending this section, sections 5307, 5309, 5315, 5317, 5323, 5325, 5327, 5336, 5338, 20301, 21301, 22106, 32702, 32705, 40109, 41109, 46301, 46306, 46316, 60114, 70102, and 70112 of this title, and section 1445 of Title 28, Judiciary and Judicial Procedure\] shall take effect on July 5, 1994.”
+Section 8(1) of Pub. L. 104–287, as amended by Pub. L. 105–102, §3(d)(2)(A), Nov. 20, 1997, 111 Stat. 2215, provided that: “The amendments made by sections 3 and 5(10)–(17), (19), (20), (52), (53), (55), (61), (62), (65), (70), (77)–(79), and (91)–(93) of this Act \[amending this section, sections 5307, 5309, 5315, 5317, 5323, 5325, 5327, 5336, 5338, 20301, 21301, 22106, 32702, 32705, 40109, 41109, 46301, 46306, 46316, 60114, 70102, and 70112 of this title, and section 1445 of Title 28, Judiciary and Judicial Procedure\] shall take effect on July 5, 1994.”
 
 #### Schedule for Implementation
 

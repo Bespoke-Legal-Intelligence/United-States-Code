@@ -2,7 +2,7 @@
 
 #### (a) Election; functions
 
-Whenever a school district affected by a contract or contracts for the education of Indians pursuant to sections 452 to 457 of this title has a local school board not composed of a majority of Indians, the parents of the Indian children enrolled in the school or schools affected by such contract or contracts shall elect a local committee from among their number. Such committee shall fully participate in the development of, and shall have the authority to approve or disapprove programs to be conducted under such contract or contracts, and shall carry out such other duties, and be so structured, as the Secretary of the Interior shall by regulation provide: <i>Provided, however</i>, That, whenever a local Indian committee or committees established pursuant to section 7424(c)(4) of title 20 or an Indian advisory school board or boards established pursuant to sections 452 to 457 of this title prior to January 4, 1975, exists in such school district, such committee or board may, in the discretion of the affected tribal governing body or bodies, be utilized for the purposes of this section.
+Whenever a school district affected by a contract or contracts for the education of Indians pursuant to sections 452 to 457 of this title has a local school board not composed of a majority of Indians, the parents of the Indian children enrolled in the school or schools affected by such contract or contracts shall elect a local committee from among their number. Such committee shall fully participate in the development of, and shall have the authority to approve or disapprove programs to be conducted under such contract or contracts, and shall carry out such other duties, and be so structured, as the Secretary of the Interior shall by regulation provide: <i>Provided, however</i>, That, whenever a local Indian committee or committees established pursuant to section 7424(c)(4) of title 20 or an Indian advisory school board or boards established pursuant to sections 452 to 457 of this title prior to January 4, 1975, exists in such school district,such committee or board may, in the discretion of the affected tribal governing body or bodies, be utilized for the purposes of this section.
 
 #### (b) Revocation of contracts
 
@@ -16,9 +16,9 @@ A prior section 5 of act Apr. 16, 1934, ch. 147, 48 Stat. 596, excluded Oklahoma
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–110 substituted reference to section 7424(c)(4) of title 20 for reference to section 7814(c)(4) of title 20.
+<b>2002</b>—Subsec. (a). Pub. L. 107–110 substituted reference to section 7424(c)(4) of title 20 for reference to section 7814(c)(4) of title 20.
 
-1994—Subsec. (a). Pub. L. 103–382 substituted reference to section 7814(c)(4) of title 20 for reference to section 241dd(b)(2)(B)(ii) of title 20.
+<b>1994</b>—Subsec. (a). Pub. L. 103–382 substituted reference to section 7814(c)(4) of title 20 for reference to section 241dd(b)(2)(B)(ii) of title 20.
 
 #### Effective Date of 2002 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment; priorities
 
-Subject to available appropriations, the Secretary, acting through the National Institute ofMental Health, the National Institutes of Health, and the Administration on Aging, shall promote the establishment of family support groups to provide, without charge, educational, emotional, and practical support to assist individuals with Alzheimer's disease or a related memory disorder and members of the families of such individuals. In promoting the establishment of such groups, the Secretary shall give priority to—
+Subject to available appropriations, the Secretary, acting through the National Institute of Mental Health, the National Institutes of Health, and the Administration on Aging, shall promote the establishment of family support groups to provide, without charge, educational, emotional, and practical support to assist individuals with Alzheimer's disease or a related memory disorder and members of the families of such individuals. In promoting the establishment of such groups, the Secretary shall give priority to—
 
 &emsp;(1) university medical centers and other appropriate health care facilities which receive Federal funds from the Secretary and which conduct research on Alzheimer's disease or provide services to individuals with such disease; and
 
@@ -22,5 +22,5 @@ Another prior section 247a, act July 1, 1944, ch. 373, title III, §316, as adde
 
 #### Amendments
 
-1993—Subsec. (c). Pub. L. 103–43 struck out subsec. (c) which read as follows: “The Secretary shall report to Congress, not later than one year after May 23, 1986, on family support groups and the network of such groups established pursuant to this section.”
+<b>1993</b>—Subsec. (c). Pub. L. 103–43 struck out subsec. (c) which read as follows: “The Secretary shall report to Congress, not later than one year after May 23, 1986, on family support groups and the network of such groups established pursuant to this section.”
 

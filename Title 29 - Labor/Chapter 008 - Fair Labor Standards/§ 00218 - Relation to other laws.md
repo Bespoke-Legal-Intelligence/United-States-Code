@@ -18,9 +18,9 @@ For definition of Canal Zone, referred to in subsec. (b), see section 3602(b) of
 
 #### Amendments
 
-1967—Subsec. (b). Pub. L. 90–83 substituted reference to section 5102(c)(7) of title 5 for reference to par. (7) of section 202 of the Classification Act of 1949 to reflect the amendment of section 5341(a) of title 5 by section 1(97) of Pub. L. 90–83 and struck out provision covering employees described in section 7474 of title 10 in view of the repeal of section 7474 of title 10 by Pub. L. 89–554.
+<b>1967</b>—Subsec. (b). Pub. L. 90–83 substituted reference to section 5102(c)(7) of title 5 for reference to par. (7) of section 202 of the Classification Act of 1949 to reflect the amendment of section 5341(a) of title 5 by section 1(97) of Pub. L. 90–83 and struck out provision covering employees described in section 7474 of title 10 in view of the repeal of section 7474 of title 10 by Pub. L. 89–554.
 
-1966—Pub. L. 89–601 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1966</b>—Pub. L. 89–601 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1966 Amendment
 

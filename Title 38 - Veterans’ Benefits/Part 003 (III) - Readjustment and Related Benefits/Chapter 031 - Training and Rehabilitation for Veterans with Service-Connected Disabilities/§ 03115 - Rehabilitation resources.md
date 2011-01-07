@@ -34,17 +34,17 @@ Provisions similar to those comprising this section were contained in former sec
 
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–446, §602(a)(1)(A), struck out “or” after “(including the Department of Veterans Affairs),” and inserted “or of any federally recognized Indian tribe,” after “financial assistance,”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–446, §602(a)(1)(A), struck out “or” after “(including the Department of Veterans Affairs),” and inserted “or of any federally recognized Indian tribe,” after “financial assistance,”.
 
 Subsec. (a)(4). Pub. L. 103–446, §602(a)(1)(B), inserted “any federally recognized Indian tribe,” after “contributions,”.
 
 Subsec. (c). Pub. L. 103–446, §602(a)(2), added subsec. (c).
 
-1991—Pub. L. 102–83 renumbered section 1515 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1515 of this title as this section.
 
-1989—Subsecs. (a), (b)(2), (4). Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
+<b>1989</b>—Subsecs. (a), (b)(2), (4). Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
-1988—Subsec. (a)(1). Pub. L. 100–689, §201(1), inserted “, or of any State or local government agency receiving Federal financial assistance,” after “Administration)”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–689, §201(1), inserted “, or of any State or local government agency receiving Federal financial assistance,” after “Administration)”.
 
 Subsec. (b)(1). Pub. L. 100–689, §201(2)(A), inserted “at a Federal agency” after “section”.
 

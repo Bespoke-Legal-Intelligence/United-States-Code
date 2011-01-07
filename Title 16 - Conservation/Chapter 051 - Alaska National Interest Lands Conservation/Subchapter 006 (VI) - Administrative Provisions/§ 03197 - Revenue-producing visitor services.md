@@ -28,5 +28,5 @@ Section 12 of the Act of January 2, 1976 (Public Law 94–204), referred to in s
 
 #### Amendments
 
-1998—Subsec. (b)(1). Pub. L. 105–333 substituted “Native Corporations” for “Native Corporation” and “are most directly affected” for “is most directly affected”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–333 substituted “Native Corporations” for “Native Corporation” and “are most directly affected” for “is most directly affected”.
 

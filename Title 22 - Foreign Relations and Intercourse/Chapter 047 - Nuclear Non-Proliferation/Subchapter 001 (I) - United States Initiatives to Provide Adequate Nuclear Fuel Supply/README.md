@@ -1,7 +1,5 @@
 ### SUBCHAPTER I—UNITED STATES INITIATIVES TO PROVIDE ADEQUATE NUCLEAR FUEL SUPPLY
 
-<i><sup>1</sup></i><i> So in the original. Probably should be “section 109(b)”.</i>
-
 
 ---
 

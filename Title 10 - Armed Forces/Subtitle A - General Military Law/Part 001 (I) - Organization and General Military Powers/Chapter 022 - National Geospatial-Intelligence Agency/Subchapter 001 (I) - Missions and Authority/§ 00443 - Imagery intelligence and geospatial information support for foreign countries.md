@@ -10,7 +10,7 @@ Use of Funds Other Than Appropriated Funds.—The Director may use funds other t
 
 &emsp;(1) no such funds may be expended, in whole or in part, by or for the benefit of the National Geospatial-Intelligence Agency for a purpose for which Congress had previously denied funds;
 
-&emsp;(2) proceeds from the sale of imagery intelligence or geospatial information items maybe used only to purchase replacement items similar to the items that are sold; and
+&emsp;(2) proceeds from the sale of imagery intelligence or geospatial information items may be used only to purchase replacement items similar to the items that are sold; and
 
 &emsp;(3) the authority provided by this subsection may not be used to acquire items or services for the principal benefit of the United States.
 
@@ -26,13 +26,13 @@ Coordination With Director of National Intelligence.—The Director of the Agenc
 
 #### Amendments
 
-2009—Subsec. (d). Pub. L. 111–84 repealed Pub. L. 110–417, §932(a)(10), (b)(2). See 2008 Amendment note below.
+<b>2009</b>—Subsec. (d). Pub. L. 111–84 repealed Pub. L. 110–417, §932(a)(10), (b)(2). See 2008 Amendment note below.
 
-2008—Subsec. (d). Pub. L. 110–181 and Pub. L. 110–417, §932(a)(10), (b)(2), amended subsec. (d) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence” in heading and text. Pub. L. 110–417, §932(a)(10), (b)(2), was repealed by Pub. L. 111–84.
+<b>2008</b>—Subsec. (d). Pub. L. 110–181 and Pub. L. 110–417, §932(a)(10), (b)(2), amended subsec. (d) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence” in heading and text. Pub. L. 110–417, §932(a)(10), (b)(2), was repealed by Pub. L. 111–84.
 
-2003—Subsecs. (a), (b)(1). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” wherever appearing.
+<b>2003</b>—Subsecs. (a), (b)(1). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” wherever appearing.
 
-1997—Subsec. (b)(1). Pub. L. 105–85 substituted semicolon for period after “denied funds”.
+<b>1997</b>—Subsec. (b)(1). Pub. L. 105–85 substituted semicolon for period after “denied funds”.
 
 #### Effective Date of 2009 Amendment
 

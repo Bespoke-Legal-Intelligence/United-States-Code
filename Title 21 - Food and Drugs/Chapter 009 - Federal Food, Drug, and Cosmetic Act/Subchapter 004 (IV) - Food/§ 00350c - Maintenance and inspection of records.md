@@ -2,7 +2,17 @@
 
 #### (a) Records inspection
 
-If the Secretary has a reasonable belief that an article of food is adulterated and presents a threat of serious adverse health consequences or death to humans or animals, each person (excluding farms and restaurants) who manufactures, processes, packs, distributes, receives, holds, or imports such article shall, at the request of an officer or employee duly designated by the Secretary, permit such officer or employee, upon presentation of appropriate credentials and a written notice to such person, at reasonable times and within reasonable limits and in a reasonable manner, to have access to and copy all records relating to such article that are needed to assist the Secretary in determining whether the food is adulterated and presents a threat of serious adverse health consequences or death to humans or animals. The requirement under the preceding sentence applies to all records relating to the manufacture, processing, packing, distribution, receipt, holding, or importation of such article maintained by or on behalf of such person in any format (including paper and electronic formats) and at any location.
+#### (1) Adulterated food
+
+&emsp;If the Secretary has a reasonable belief that an article of food, and any other article of food that the Secretary reasonably believes is likely to be affected in a similar manner, is adulterated and presents a threat of serious adverse health consequences or death to humans or animals, each person (excluding farms and restaurants) who manufactures, processes, packs, distributes, receives, holds, or imports such article shall, at the request of an officer or employee duly designated by the Secretary,permit such officer or employee, upon presentation of appropriate credentials and a written notice to such person, at reasonable times and within reasonable limits and in a reasonable manner, to have access to and copy all records relating to such article, and to any other article of food that the Secretary reasonably believes is likely to be affected in a similar manner, that are needed to assist the Secretary in determining whether the food is adulterated and presents a threat of serious adverse health consequences or death to humans or animals.
+
+#### (2) Use of or exposure to food of concern
+
+&emsp;If the Secretary believes that there is a reasonable probability that the use of or exposure to an article of food, and any other article of food that the Secretary reasonably believes is likely to be affected in a similar manner, will cause serious adverse health consequences or death to humans or animals, each person (excluding farms and restaurants) who manufactures, processes, packs, distributes, receives, holds, or imports such article shall, at the request of an officer or employee duly designated by the Secretary, permit such officer or employee, upon presentation of appropriate credentials and a written notice to such person, at reasonable times and within reasonable limits and in a reasonable manner, to have access to and copy all records relating to such article and to any other article of food that the Secretary reasonably believes is likely to be affected in a similar manner, that are needed to assist the Secretary in determining whether there is a reasonable probability that the use of or exposure to the food will cause serious adverse health consequences or death to humans or animals.
+
+#### (3) Application
+
+&emsp;The requirement under paragraphs (1) and (2) applies to all records relating to the manufacture, processing, packing, distribution, receipt, holding, or importation of such article maintained by or on behalf of such person in any format (including paper and electronic formats) and at any location.
 
 #### (b) Regulations concerning recordkeeping
 
@@ -24,17 +34,25 @@ This section shall not be construed—
 
 &emsp;(4) to extend to recipes for food, financial data, pricing data, personnel data, research data, or sales data (other than shipment data regarding sales).
 
-(June 25, 1938, ch. 675, §414, as added Pub. L. 107–188, title III, §306(a), June 12, 2002, 116 Stat. 669.)
+(June 25, 1938, ch. 675, §414, as added Pub. L. 107–188, title III, §306(a), June 12, 2002, 116 Stat. 669; amended Pub. L. 111–353, title I, §101(a), Jan. 4, 2011, 124 Stat. 3886.)
 
 #### References in Text
 
-The Federal Meat Inspection Act, referred to in subsec. (d)(2), is titles I to IV of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, and amended, which are classified generally to subchapters I to IV (§601 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
+The Federal Meat Inspection Act, referred to in subsec. (d)(2), is titles I to IV of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, which are classified generally to subchapters I to IV (§601 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
 
-The Poultry Products Inspection Act, referred to in subsec. (d)(2), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, as amended, which is classified generally to chapter 10 (§451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 451 of this title and Tables.
+The Poultry Products Inspection Act, referred to in subsec. (d)(2), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, which is classified generally to chapter 10 (§451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 451 of this title and Tables.
 
-The Egg Products Inspection Act, referred to in subsec. (d)(2), is Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, as amended, which is classified generally to chapter 15 (§1031 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
+The Egg Products Inspection Act, referred to in subsec. (d)(2), is Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to chapter 15 (§1031 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (a). Pub. L. 111–353 reenacted heading without change, designated existing provisions as par. (1) and inserted heading, substituted “If the Secretary has a reasonable belief that an article of food, and any other article of food that the Secretary reasonably believes is likely to be affected in a similar manner, is” for “If the Secretary has a reasonable belief that an article of food is”, inserted “, and to any other article of food that the Secretary reasonably believes is likely to be affected in a similar manner,” after “relating to such article”, struck out at end “The requirement under the preceding sentence applies to all records relating to the manufacture, processing, packing, distribution, receipt, holding, or importation of such article maintained by or on behalf of such person in any format (including paper and electronic formats) and at any location.”, and added pars. (2) and (3).
 
 #### Expedited Rulemaking
 
-Pub. L. 107–188, title III, §306(d), June 12, 2002, 116 Stat. 670, provided that: “Not later than 18 months after the date of the enactment of this Act \[June 12, 2002\], the Secretary shall promulgate proposed and final regulations establishing recordkeeping requirements under subsection 414(b) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350c(b)\] (as added by subsection (a)).”
+Pub. L. 107–188, title III, §306(d), June 12, 2002, 116 Stat. 670, provided that: “Not later than 18 months after the date of the enactment of this Act \[June 12, 2002\], the Secretary shall promulgate proposed andfinal regulations establishing recordkeeping requirements under subsection 414(b) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350c(b)\] (as added by subsection (a)).”
+
+#### Construction of 2011 Amendment
+
+Nothing in amendment by Pub. L. 111–353 to be construed to apply to certain alcohol-related facilities, to alter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.
 

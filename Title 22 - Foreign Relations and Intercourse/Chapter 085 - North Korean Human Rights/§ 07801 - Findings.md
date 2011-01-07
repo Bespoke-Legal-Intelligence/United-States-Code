@@ -24,7 +24,7 @@ Congress makes the following findings:
 
 &emsp;(11) More than 2,000,000 North Koreans are estimated to have died of starvation since the early 1990s because of the failure of the centralized agricultural and public distribution systems operated by the Government of North Korea.
 
-&emsp;(12) According to a 2002 United Nations-European Union survey, nearly one out of everyten children in North Korea suffers from acute malnutrition and four out of every ten children in North Korea are chronically malnourished.
+&emsp;(12) According to a 2002 United Nations-European Union survey, nearly one out of every ten children in North Korea suffers from acute malnutrition and four out of every ten children in North Korea are chronically malnourished.
 
 &emsp;(13) Since 1995, the United States has provided more than 2,000,000 tons of humanitarian food assistance to the people of North Korea, primarily through the World Food Program.
 
@@ -66,7 +66,7 @@ Pub. L. 108–333, §1, Oct. 18, 2004, 118 Stat. 1287, provided that: “This Ac
 
 Pub. L. 110–346, §2, Oct. 7, 2008, 122 Stat. 3939, provided that: “Congress finds the following:
 
-&emsp;“(1) The North Korean Human Rights Act of 2004 (Public Law 108–333; 22 U.S.C. 7801 et seq.) (in this section referred to as ‘the Act’) was the product of broad, bipartisan consensus in Congress regarding the promotion of human rights, transparency in the delivery of humanitarian assistance, and refugee protection.
+&emsp;“(1) The North Korean Human Rights Act of 2004 (Public Law 108–333; 22 U.S.C. 7801 et seq.) (in this section referred to as ‘the Act’) was the product of broad, bipartisan consensus in Congress regarding thepromotion of human rights, transparency in the delivery of humanitarian assistance, and refugee protection.
 
 &emsp;“(2) In addition to the longstanding commitment of the United States to refugee and human rights advocacy, the United States is home to the largest Korean population outside of northeast Asia, and many in the two-million strong Korean-American community have family ties to North Korea.
 

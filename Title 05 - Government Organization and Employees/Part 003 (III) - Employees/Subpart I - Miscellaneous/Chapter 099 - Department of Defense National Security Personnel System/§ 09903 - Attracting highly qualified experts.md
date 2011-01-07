@@ -8,7 +8,7 @@ In General.—The Secretary may carry out a program using the authority provided
 
 Authority.—Under the program, the Secretary may—
 
-&emsp;(1) appoint personnel from outside the civil service and uniformed services (as such terms are defined in section 2101) to positions in theDepartment of Defense without regard to any provision of this title governing the appointment of employees to positions in the Department of Defense;
+&emsp;(1) appoint personnel from outside the civil service and uniformed services (as such terms are defined in section 2101) to positions in the Department of Defense without regard to any provision of this title governing the appointment of employees to positions in the Department of Defense;
 
 &emsp;(2) prescribe the rates of basic pay for positions to which employees are appointed under paragraph (1) at rates not in excess of the maximum rate of basic pay authorized for senior-level positions under section 5376, as increased by locality-based comparability payments under section 5304, notwithstanding any provision of this title governing the rates of pay or classification of employees in the executive branch; and
 
@@ -55,4 +55,20 @@ Savings Provisions.—In the event that the Secretary terminates this program, i
 #### References to Maximum Rate Under 5 U.S.C. 5376
 
 Except as otherwise provided, reference to maximum rate under section 5376 of this title before first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level IV of Executive Schedule (5 U.S.C. 5315) and reference to maximum rate on or after first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level III of Executive Schedule (5 U.S.C. 5314), or for level II of the Executive Schedule (5 U.S.C. 5313) for certain employees, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under section 5376 of this title.
+
+#### Requirements for Department of Defense Senior Mentors
+
+Pub. L. 111–383, div. A, title XI, §1102, Jan. 7, 2011, 124 Stat. 4382, provided that:
+
+“(a)
+
+In General.—The Secretary of Defense shall issue appropriate policies and procedures to ensure that all senior mentors employed by the Department of Defense are—
+
+&emsp;“(1) hired as highly qualified experts under section 9903 of title 5, United States Code; and
+
+&emsp;“(2) required to comply with all applicable Federal laws and regulations on personnel and ethics matters.
+
+“(b)
+
+Senior Mentor Defined.—In this section, the term ‘senior mentor’ means a retired flag, general, or other military officer or retired senior civilian official who provides expert experience-based mentoring, teaching, training, advice, and recommendations to senior military officers, staffs, and students as they participate in war games, warfighting courses, operational planning, operational exercises, and decision-making exercises.”
 

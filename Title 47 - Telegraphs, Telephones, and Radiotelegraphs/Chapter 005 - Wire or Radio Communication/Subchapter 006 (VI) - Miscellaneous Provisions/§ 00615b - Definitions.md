@@ -50,7 +50,7 @@ As used in this Act:
 
 &emsp;The term “enhanced 9–1–1 service” means the delivery of 9–1–1 calls with automatic number identification and automatic location identification, or successor or equivalent information features over the wireline E911 network (as defined in section 9.3 of the Federal Communications Commission's regulations (47 C.F.R. 9.3) as of July 23, 2008) and equivalent or successor networks and technologies. The term also includes any enhanced 9–1–1 service so designated by the Commission in its Report and Order in WC Docket Nos. 04–36 and 05–196, or any successor proceeding.
 
-(Pub. L. 106–81, §7, formerly §6, Oct. 26, 1999, 113 Stat. 1289; renumbered §7 and amended Pub. L.110–283, title I, §101(1), (3), title II, §201(b), July 23, 2008, 122 Stat. 2620, 2623, 2624.)
+(Pub. L. 106–81, §7, formerly §6, Oct. 26, 1999, 113 Stat. 1289; renumbered §7 and amended Pub. L. 110–283, title I, §101(1), (3), title II, §201(b), July 23, 2008, 122 Stat. 2620, 2623, 2624.)
 
 #### References in Text
 
@@ -64,9 +64,11 @@ Section was enacted as part of the Wireless Communications and Public Safety Act
 
 #### Amendments
 
-2008—Par. (8). Pub. L. 110–283, §201(b), added par. (8) defining “other emergency communications service”.
+<b>2008</b>—Par. (8). Pub. L. 110–283, §201(b), added par. (8) defining “other emergency communications service”.
 
 Pub. L. 110–283, §101(3), added par. (8) defining “IP-enabled voice service”.
 
 Pars. (9), (10). Pub. L. 110–283, §201(b), added pars. (9) and (10).
+
+<i><sup>1</sup></i><i> So in original. Two pars. (8) have been enacted.</i>
 

@@ -42,7 +42,7 @@ The Director of NIH shall submit to the Congress on a biennial basis a report in
 
 &emsp;&emsp;&emsp;&emsp;(V) an evaluation and comparison of outcomes and effectiveness of various training programs.
 
-&emsp;&emsp;&emsp;(v) Clinical trials, including a breakdown of participation by study populations anddemographic variables and such other information as may be necessary to demonstrate compliance with section 289a–2 of this title (regarding inclusion of women and minorities in clinical research).
+&emsp;&emsp;&emsp;(v) Clinical trials, including a breakdown of participation by study populations and demographic variables and such other information as may be necessary to demonstrate compliance with section 289a–2 of this title (regarding inclusion of women and minorities in clinical research).
 
 &emsp;&emsp;&emsp;(vi) Translational research activities with other agencies of the Public Health Service.
 
@@ -104,7 +104,7 @@ A prior section 283, act July 1, 1944, ch. 373, title IV, §403, as added Pub. L
 
 #### Amendments
 
-2007—Subsec. (a)(4)(C)(iv)(III). Pub. L. 110–85 inserted “and postdoctoral training funded through research grants” before semicolon at end.
+<b>2007</b>—Subsec. (a)(4)(C)(iv)(III). Pub. L. 110–85 inserted “and postdoctoral training funded through research grants” before semicolon at end.
 
 #### Effective Date
 

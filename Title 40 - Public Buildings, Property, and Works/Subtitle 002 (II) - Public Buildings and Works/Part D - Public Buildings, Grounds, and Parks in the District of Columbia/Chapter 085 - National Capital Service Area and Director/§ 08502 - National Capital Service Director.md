@@ -52,7 +52,7 @@ In subsection (b), the reference to chapter 33 of title 5 is substituted for “
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–284, §6(25), substituted “5315” for “5314”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–284, §6(25), substituted “5315” for “5314”.
 
 Subsec. (c)(2). Pub. L. 109–284, §6(26), inserted “of this title” after “sections 5101 and 5102”.
 

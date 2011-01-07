@@ -22,7 +22,7 @@ Only one payment of tax under section 4251 shall be required with respect to the
 
 #### (f) Common carriers and communications companies
 
-No tax shall be imposed under section 4251 on the amount paid for any toll telephone service described in section 4252(b)(2) to the extent that the amount so paid is for use by a common carrier, telephone or telegraph company, or radio broadcasting station or network in the conduct of its business as such.
+No tax shall be imposed under section 4251 on the amount paid for any toll telephone servicedescribed in section 4252(b)(2) to the extent that the amount so paid is for use by a common carrier, telephone or telegraph company, or radio broadcasting station or network in the conduct of its business as such.
 
 #### (g) Installation charges
 
@@ -60,7 +60,7 @@ Under regulations provided by the Secretary, no tax shall be imposed under secti
 
 > &emsp;If any information provided in such statement is no longer accurate, the person providing such statement shall inform the provider of communications services within 30 days of any change of information.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 504; Pub. L. 85–859, title I, §133(a), Sept. 2, 1958, 72 Stat. 1290; Pub. L. 86–344, §4(a), Sept. 21, 1959, 73 Stat. 619; Pub. L. 87–508, §4(b), June 28, 1962, 76 Stat. 115;Pub. L. 89–44, title III, §302, June 21, 1965, 79 Stat. 146; Pub. L. 89–368, title II, §202(b), Mar. 15, 1966, 80 Stat. 66; Pub. L. 91–172, title I, §101(j)(27), Dec. 30, 1969, 83 Stat. 529; Pub. L. 94–455, title XIX, §§1904(a)(6), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1811, 1834; Pub. L. 101–508, title XI, §11217(c)(1), Nov. 5, 1990, 104 Stat. 1388–438; Pub. L. 109–280, title XII, §1207(c), Aug. 17, 2006, 120 Stat. 1070.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 504; Pub. L. 85–859, title I, §133(a), Sept. 2, 1958, 72 Stat. 1290; Pub. L. 86–344, §4(a), Sept. 21, 1959, 73 Stat. 619; Pub. L. 87–508, §4(b), June 28, 1962, 76 Stat. 115; Pub. L. 89–44, title III, §302, June 21, 1965, 79 Stat. 146; Pub. L. 89–368, title II, §202(b), Mar. 15, 1966, 80 Stat. 66; Pub. L. 91–172, title I, §101(j)(27), Dec. 30, 1969, 83 Stat. 529; Pub. L. 94–455, title XIX, §§1904(a)(6), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1811, 1834; Pub. L. 101–508, title XI, §11217(c)(1), Nov. 5, 1990, 104 Stat. 1388–438; Pub. L. 109–280, title XII, §1207(c), Aug. 17, 2006, 120 Stat. 1070.)
 
 #### Repeal
 
@@ -72,23 +72,23 @@ Section 1207(c) of Pub. L. 109–280, which directed the amendment of section 42
 
 #### Amendments
 
-2006—Subsec. (k). Pub. L. 109–280, §1207(c)(1), added subsec. (k). Former subsec. (k) redesignated (<i>l</i>). See Codification note above.
+<b>2006</b>—Subsec. (k). Pub. L. 109–280, §1207(c)(1), added subsec. (k). Former subsec. (k) redesignated (<i>l</i>). See Codification note above.
 
 Subsec. (<i>l</i>). Pub. L. 109–280, §1207(c)(1), redesignated subsec. (k) as (<i>l</i>). See Codification note above.
 
 Subsec. (<i>l</i>)(1). Pub. L. 109–280, §1207(c)(2), substituted “(j), or (k)” for “or (j)”. See Codification note above.
 
-1990—Subsec. (k). Pub. L. 101–508 added subsec. (k).
+<b>1990</b>—Subsec. (k). Pub. L. 101–508 added subsec. (k).
 
-1976—Subsec. (d). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (d). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsecs. (i), (j). Pub. L. 94–455, §1904(a)(6), added subsecs. (i) and (j).
 
-1969—Subsec. (h). Pub. L. 91–172 substituted “section 170(b)(1)(A)(iii)” for “section 503(b)(5)”.
+<b>1969</b>—Subsec. (h). Pub. L. 91–172 substituted “section 170(b)(1)(A)(iii)” for “section 503(b)(5)”.
 
-1966—Subsec. (h). Pub. L. 89–368 added subsec. (h).
+<b>1966</b>—Subsec. (h). Pub. L. 89–368 added subsec. (h).
 
-1965—Subsec. (a). Pub. L. 89–44 substituted “with respect to local telephone service, or with respect to toll telephone service if the charge for such toll telephone service is less than 25 cents”, for “with respect to general telephone service, or with respect to toll telephone service or telegraph service if the charge for such toll telephone service or telegraph service is less than 25 cents”.
+<b>1965</b>—Subsec. (a). Pub. L. 89–44 substituted “with respect to local telephone service, or with respect to toll telephone service if the charge for such toll telephone service is less than 25 cents”, for “with respect to general telephone service, or with respect to toll telephone service or telegraph service if the charge for such toll telephone service or telegraph service is less than 25 cents”.
 
 Subsec. (b). Pub. L. 89–44 substituted “local telephone service” for “general telephone service” and “such service” for “such services”.
 
@@ -104,11 +104,11 @@ Subsec. (g). Pub. L. 89–44 reenacted subsec. (g) without change.
 
 Subsecs. (h) to (j). Pub. L. 89–44 struck out subsecs. (h) to (j), which related to terminal facilities in case of wire mileage service and to certain interior and private communications services.
 
-1962—Subsec. (j). Pub. L. 87–508 added subsec. (j).
+<b>1962</b>—Subsec. (j). Pub. L. 87–508 added subsec. (j).
 
-1959—Subsec. (f). Pub. L. 86–344 substituted “Common carriers and communications companies” for “Special wire service in company business” in heading, incorporated existing provisions in opening and closing statements and par. (1) and added par. (2).
+<b>1959</b>—Subsec. (f). Pub. L. 86–344 substituted “Common carriers and communications companies” for “Special wire service in company business” in heading, incorporated existing provisions in opening and closing statements and par. (1) and added par. (2).
 
-1958—Subsec. (a). Pub. L. 85–859 substituted “general telephone service, or with respect to toll telephone service or telegraph service if the charge for such toll telephone service or telegraph service is less than 25 cents” for “local telephone service”.
+<b>1958</b>—Subsec. (a). Pub. L. 85–859 substituted “general telephone service, or with respect to toll telephone service or telegraph service if the charge for such toll telephone service or telegraph service is less than 25 cents” for “local telephone service”.
 
 Subsec. (b). Pub. L. 85–859 substituted “general telephone service, on any payment received from any person for services used” for “local telephone service, upon any payment received from any person for services or facilities utilized”.
 

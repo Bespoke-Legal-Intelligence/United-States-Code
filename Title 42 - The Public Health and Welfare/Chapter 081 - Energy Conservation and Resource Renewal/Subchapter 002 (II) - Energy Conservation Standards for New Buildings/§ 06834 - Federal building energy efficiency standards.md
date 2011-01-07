@@ -24,7 +24,7 @@
 
 &emsp;(iii) if lifecycle cost-effective, as compared to other reasonably available technologies, not less than 30 percent of the hot water demand for each new Federal building or Federal building undergoing a major renovation be met through the installation and use of solar hot water heaters.
 
-(B) Not later than 1 year after the date of approval of each subsequent revision of the ASHRAE Standard or the International EnergyConservation Code, as appropriate, the Secretary shall determine, based on the cost-effectiveness of the requirements under the amendment, whether the revised standards established under this paragraph should be updated to reflect the amendment.
+(B) Not later than 1 year after the date of approval of each subsequent revision of the ASHRAE Standard or the International Energy Conservation Code, as appropriate, the Secretary shall determine, based on the cost-effectiveness of the requirements under the amendment, whether the revised standards established under this paragraph should be updated to reflect the amendment.
 
 (C) In the budget request of the Federal agency for each fiscal year and each report submitted by the Federal agency under section 8258(a) of this title, the head of each Federal agency shall include—
 
@@ -34,7 +34,7 @@
 
 (D) Not later than 1 year after December 19, 2007, the Secretary shall establish, by rule, revised Federal building energy efficiency performance standards that require that:
 
-&emsp;(i) For new Federal buildings and Federal buildings undergoing major renovations, with respect to which the Administrator of General Services is required to transmit a prospectus to Congress under section 3307 of title 40, in the case of public buildings (as defined in section 3301 of title 40), or of at least $2,500,000 in costs adjusted annually for inflation for other buildings:
+&emsp;(i) For new Federal buildings and Federal buildings undergoing major renovations, withrespect to which the Administrator of General Services is required to transmit a prospectus to Congress under section 3307 of title 40, in the case of public buildings (as defined in section 3301 of title 40), or of at least $2,500,000 in costs adjusted annually for inflation for other buildings:
 
 &emsp;&emsp;(I) The buildings shall be designed so that the fossil fuel-generated energy consumption of the buildings is reduced, as compared with such energy consumption by a similar building in fiscal year 2003 (as measured by Commercial Buildings Energy Consumption Survey or Residential Energy Consumption Survey data from the Energy Information Agency), by the percentage specified in the following table:
 
@@ -75,11 +75,11 @@
 
 &emsp;&emsp;(V) national recognition within the building industry.
 
-&emsp;(iv) At least once every 5 years, and in accordance with section 17092 of this title, the Administrator of General Services shall conduct a study to evaluate and compare available third-party green building certificationsystems and levels, taking into account the criteria listed in clause (iii).
+&emsp;(iv) At least once every 5 years, and in accordance with section 17092 of this title, the Administrator of General Services shall conduct a study to evaluate and compare available third-party green building certification systems and levels, taking into account the criteria listed in clause (iii).
 
 &emsp;(v) The Secretary may by rule allow Federal agencies to develop internal certification processes, using certified professionals, in lieu of certification by the certification entity identified under clause (i)(III). The Secretary shall include in any such rule guidelines to ensure that the certification process results in buildings meeting the applicable certification system and level identified under clause (i)(III). An agency employing an internal certification process must continue to obtain external certification by the certification entity identified under clause (i)(III) for at least 5 percent of the total number of buildings certified annually by the agency.
 
-&emsp;(vi) With respect to privatized military housing, the Secretary of Defense, after consultation with the Secretary may, through rulemaking, develop alternative criteria to those established by subclauses (I) and (III) of clause (i) that achieve an equivalent result in terms of energy savings, sustainable design, and green building performance.
+&emsp;(vi) With respect to privatized military housing, the Secretary of Defense, after consultation with the Secretary may, through rulemaking, develop alternative criteria to those established by subclauses (I) and (III) of clause (i) that achieve an equivalent result interms of energy savings, sustainable design, and green building performance.
 
 &emsp;(vii) In addition to any use of water conservation technologies otherwise required by this section, water conservation technologies shall be applied to the extent that the technologies are life-cycle cost-effective.
 
@@ -105,11 +105,11 @@ A prior section 6834, Pub. L. 94–385, title III, §305, Aug. 14, 1976, 90 Stat
 
 #### Amendments
 
-2007—Subsec. (a)(3)(A)(iii). Pub. L. 110–140, §523, added cl. (iii).
+<b>2007</b>—Subsec. (a)(3)(A)(iii). Pub. L. 110–140, §523, added cl. (iii).
 
 Subsec. (a)(3)(D). Pub. L. 110–140, §433(a), added subpar. (D).
 
-2005—Subsec. (a)(2)(A). Pub. L. 109–58, §109(1), substituted “the 2004 International Energy Conservation Code (in the case of residential buildings) or ASHRAE Standard 90.1–2004” for “CABO Model Energy Code, 1992 (in the case of residential buildings) or ASHRAE Standard 90.1–1989”.
+<b>2005</b>—Subsec. (a)(2)(A). Pub. L. 109–58, §109(1), substituted “the 2004 International Energy Conservation Code (in the case of residential buildings) or ASHRAE Standard 90.1–2004” for “CABO Model Energy Code, 1992 (in the case of residential buildings) or ASHRAE Standard 90.1–1989”.
 
 Subsec. (a)(3). Pub. L. 109–58, §109(2), added par. (3).
 
@@ -123,7 +123,7 @@ Pub. L. 110–140, title IV, §433(c), (d), Dec. 19, 2007, 121 Stat. 1614, provi
 
 “(c)
 
-Revision of Federal Acquisition Regulation.—Not later than 2 years after the date of the enactment of this Act \[Dec. 19, 2007\], the Federal Acquisition Regulation shall be revised to require Federal officers and employees to comply with this section \[amending this section and section 6832 of this title\] and the amendments made by this section in the acquisition, construction, or major renovation of any facility. The members of the Federal Acquisition Regulatory Council (established under section 25 of the Office of Federal Procurement Policy Act (41 U.S.C. 421)) shall consult with the Federal Director and the Commercial Director before promulgating regulations to carry out this subsection.
+Revision of Federal Acquisition Regulation.—Not later than 2 years after the date of the enactment of this Act \[Dec. 19, 2007\], the Federal Acquisition Regulation shall be revised to require Federal officers and employees to comply with this section \[amending this section and section 6832 of this title\] and the amendments made by this section in the acquisition, construction, or major renovation of any facility. The members of the Federal Acquisition Regulatory Council (established under section 25 of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 421) \[see 41 U.S.C. 1302\]) shall consult with the Federal Director and the Commercial Director before promulgating regulations to carry out this subsection.
 
 “(d)
 

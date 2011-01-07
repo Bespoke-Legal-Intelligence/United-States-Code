@@ -18,9 +18,9 @@
 
 &emsp;(7) Any individual to whom a stamp is sold pursuant to this section shall upon request exhibit such stamp for inspection to any officer or employee of the Department of the Interior or the Department of Agriculture, or to any other person who is authorized to enforce section 670j(a) of this title.
 
-(Pub. L. 86–797, title II, §203, as added Pub. L. 93–452, §2, Oct. 18, 1974, 88 Stat. 1371; amended Pub. L. 100–653, title II, §201, Nov. 14, 1988, 102 Stat. 3826.)
+(Pub. L. 86–797, title II, §203, as added Pub. L. 93–452, §2, Oct. 18, 1974, 88 Stat. 1371; amendedPub. L. 100–653, title II, §201, Nov. 14, 1988, 102 Stat. 3826.)
 
 #### Amendments
 
-1988—Subsec. (b)(3). Pub. L. 100–653 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Except for expenses incurred in the printing, issuing, or selling of such stamps, the fees collected for such stamps by the State agency shall be utilized in carrying out conservation and rehabilitation programs implemented under this subchapter in the State concerned and for no other purpose. If such programs are implemented by both the Secretary of the Interior and the Secretary of Agriculture in the State, the Secretaries shall mutually agree, on such basis as they deem reasonable, on the proportion of such fees that shall be applied by the State agency to their respective programs.”
+<b>1988</b>—Subsec. (b)(3). Pub. L. 100–653 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Except for expenses incurred in the printing, issuing, or selling of such stamps, the fees collected for such stamps by the State agency shall be utilized in carrying out conservation and rehabilitation programs implemented under this subchapter in the State concerned and for no other purpose. If such programs are implemented by both the Secretary of the Interior and the Secretary of Agriculture in the State, the Secretaries shall mutually agree, on such basis as they deem reasonable, on the proportion of such fees that shall be applied by the State agency to their respective programs.”
 

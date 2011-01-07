@@ -26,7 +26,7 @@ Provisions similar to those in subsec. (a) of this section were contained in act
 
 #### Amendments
 
-2002—Pub. L. 107–210 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>2002</b>—Pub. L. 107–210 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 2002 Amendment
 

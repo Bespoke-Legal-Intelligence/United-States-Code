@@ -98,7 +98,7 @@ Repayment for Members Who Return to Active Duty.—(1) Except as provided in par
 
 (2) Members who are involuntarily recalled to active duty or full-time National Guard duty in accordance with section 12301(a), 12301(b), 12301(g), 12302, 12303, or 12304 of this title or section 502(f)(1) of title 32 shall not be subject to this subsection.
 
-(3) Members who are recalled or perform active duty or full-time National Guard duty in accordance with section 101(d)(1), 101(d)(2), 101(d)(5), 12301(d) (insofar as the period served is less than 180 consecutive days with the consent of the member), 12319, or 12503 of title 10, or section 114, 115, or 502(f)(2) of title 32 (insofar as the period served is less than 180 consecutive days with consent of the member), shall not be subject to this subsection.
+(3) Members who are recalled or perform active duty or full-time National Guard duty in accordance with section 101(d)(1), 101(d)(2), 101(d)(5), 12301(d) (insofar as the period served isless than 180 consecutive days with the consent of the member), 12319, or 12503 of this title, or section 114, 115, or 502(f)(2) of title 32 (insofar as the period served is less than 180 consecutive days with consent of the member), shall not be subject to this subsection.
 
 (4) The Secretary of Defense may waive, in whole or in part, repayment required under paragraph (1) if the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States. The authority in this paragraph may be delegated only to the Undersecretary of Defense for Personnel and Readiness and the Principal Deputy Undersecretary of Defense for Personnel and Readiness.
 
@@ -108,7 +108,7 @@ Termination of Authority.—(1) The authority to separate a member of the armed 
 
 (2) A member who separates by the date specified in paragraph (1) may continue to be provided voluntary separation pay and benefits under this section until the member has received the entire amount of pay and benefits to which the member is entitled under this section.
 
-(Added Pub. L. 109–163, div. A, title VI, §643(a)(1), Jan. 6, 2006, 119 Stat. 3306; amended Pub. L. 109–364, div. A, title VI, §623(a)(1), (2), Oct. 17, 2006, 120 Stat. 2256; Pub. L. 111–84, div. A, title X, §1073(a)(14), Oct. 28, 2009, 123 Stat. 2473.)
+(Added Pub. L. 109–163, div. A, title VI, §643(a)(1), Jan. 6, 2006, 119 Stat. 3306; amended Pub. L. 109–364, div. A, title VI, §623(a)(1), (2), Oct. 17, 2006, 120 Stat. 2256; Pub. L. 111–84, div. A, title X, §1073(a)(14), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 111–383, div. A, title X, §1075(b)(18), Jan. 7, 2011, 124 Stat. 4370.)
 
 #### References in Text
 
@@ -116,9 +116,11 @@ Chapter 24 of the Internal Revenue Code of 1986, referred to in subsec. (h)(2)(A
 
 #### Amendments
 
-2009—Subsec. (h)(1). Pub. L. 111–84 substituted “qualifies” for “qualities”.
+<b>2011</b>—Subsec. (j)(3). Pub. L. 111–383 substituted “this title” for “title 10”.
 
-2006—Subsec. (f). Pub. L. 109–364, §623(a)(1), substituted “four” for “two”.
+<b>2009</b>—Subsec. (h)(1). Pub. L. 111–84 substituted “qualifies” for “qualities”.
+
+<b>2006</b>—Subsec. (f). Pub. L. 109–364, §623(a)(1), substituted “four” for “two”.
 
 Subsec. (k)(1). Pub. L. 109–364, §623(a)(2), substituted “2012” for “2008”.
 

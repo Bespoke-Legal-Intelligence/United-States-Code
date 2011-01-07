@@ -26,11 +26,11 @@ Presidential Proclamation 5928 of December 27, 1988, referred to in subsec. (b),
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–295 substituted “United States, which includes all waters of the territorial sea of the United States as described in Presidential Proclamation 5928 of December 27, 1988” for “United States inside the lines established pursuant to section 151 of this title”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–295 substituted “United States, which includes all waters of the territorial sea of the United States as described in Presidential Proclamation 5928 of December 27, 1988” for “United States inside the lines established pursuant to section 151 of this title”.
 
-1996—Subsec. (a)(2). Pub. L. 104–324 inserted “as measured under section 14502 of title 46, or an alternate tonnage measured under section 14302 of that title as prescribed by the Secretary under section 14104 of that title,” after “one hundred gross tons”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–324 inserted “as measured under section 14502 of title 46, or an alternate tonnage measured under section 14302 of that title as prescribed by the Secretary under section 14104 of that title,” after “one hundred gross tons”.
 
-1991—Subsec. (a)(1). Pub. L. 102–241 amended par. (1) generally, substituting “twenty meters or over in length” for “three hundred gross tons and upward”.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–241 amended par. (1) generally, substituting “twenty meters or over in length” for “three hundred gross tons and upward”.
 
 #### Vessel Communication Equipment Regulations
 

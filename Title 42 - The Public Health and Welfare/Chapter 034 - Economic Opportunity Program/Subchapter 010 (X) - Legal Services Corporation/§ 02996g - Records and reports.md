@@ -24,7 +24,7 @@ The Corporation shall afford notice and reasonable opportunity for comment to in
 
 #### Amendments
 
-1977—Subsec. (c). Pub. L. 95–222 inserted provisions setting forth required contents of annual report.
+<b>1977</b>—Subsec. (c). Pub. L. 95–222 inserted provisions setting forth required contents of annual report.
 
 #### Effective Date of 1977 Amendment
 

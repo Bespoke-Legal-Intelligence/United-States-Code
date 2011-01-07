@@ -34,7 +34,7 @@ The Secretary may approve a workforce flexibility plan for a period of not more 
 
 Prior to submitting a workforce flexibility plan to the Secretary for approval, the State shall provide to all interested parties and to the general public adequate notice and a reasonable opportunity for comment on the waiver requests proposed to be implemented pursuant to such plan.
 
-(Pub. L. 105–220, title I, §192, Aug. 7, 1998, 112 Stat. 1054; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(14)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411.)
+(Pub. L. 105–220, title I, §192, Aug. 7, 1998, 112 Stat. 1054; Pub. L. 105–277, div. A, §101(f) \[titleVIII, §401(14)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411.)
 
 #### References in Text
 
@@ -42,7 +42,7 @@ The Older Americans Act of 1965, referred to in subsecs. (a)(3) and (b)(3), is P
 
 #### Amendments
 
-1998—Subsec. (a)(2). Pub. L. 105–277 struck out comma before “to the State, except”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–277 struck out comma before “to the State, except”.
 
 Subsec. (a)(3). Pub. L. 105–277 substituted “) to” for “), to”.
 

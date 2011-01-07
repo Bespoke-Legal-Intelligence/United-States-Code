@@ -18,7 +18,7 @@ The Secretary shall furnish technical assistance to the States for establishing 
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–485, §103(b), inserted “, and shall be reviewed at least once every 4 years to ensure that their application results in the determination of appropriate child support award amounts” before period at end.
+<b>1988</b>—Subsec. (a). Pub. L. 100–485, §103(b), inserted “, and shall be reviewed at least once every 4 years to ensure that their application results in the determination of appropriate child support award amounts” before period at end.
 
 Subsec. (b). Pub. L. 100–485, §103(a), designated existing provisions as par. (1), struck out “, but need not be binding upon such judges or other officials” after “within such State”, and added par. (2).
 

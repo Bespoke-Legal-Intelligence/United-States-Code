@@ -6,7 +6,7 @@ Requirement.—(1) Within the time periods specified in paragraph (3), the Secre
 
 (2) In carrying out this section, the Secretary concerned may use the services available under section 1144 of this title.
 
-(3)(A) In the case of an anticipated retirement, preseparation counseling shall commence as soon as possible during the 24-month period preceding the anticipated retirement date. In the case of a separation other than a retirement, preseparation counseling shall commence as soon as possible during the 12-month period preceding the anticipated date. Except as provided in subparagraph (B), in no event shall preseparation counseling commence later than 90 days before the date of discharge or release.
+(3)(A) In the case of an anticipated retirement, preseparation counseling shall commence as soon as possible during the 24-month period preceding the anticipated retirement date. In the case of a separation other than a retirement,preseparation counseling shall commence as soon as possible during the 12-month period preceding the anticipated date. Except as provided in subparagraph (B), in no event shall preseparation counseling commence later than 90 days before the date of discharge or release.
 
 (B) In the event that a retirement or other separation is unanticipated until there are 90 or fewer days before the anticipated retirement or separation date, preseparation counseling shall begin as soon as possible within the remaining period of service.
 
@@ -60,17 +60,17 @@ Matters To Be Covered By Counseling.—Counseling under this section shall inclu
 
 (c)
 
-Transmittal of Medical Information to Department of Veterans Affairs.—In the caseof a member being medically separated or being retired under chapter 61 of this title, the Secretary concerned shall ensure (subject to the consent of the member) that a copy of the member's service medical record (including any results of a Physical Evaluation Board) is transmitted to the Secretary of Veterans Affairs within 60 days of the separation or retirement.
+Transmittal of Medical Information to Department of Veterans Affairs.—In the case of a member being medically separated or being retired under chapter 61 of this title, the Secretary concerned shall ensure (subject to the consent of the member) that a copy of the member's service medical record (including any results of a Physical Evaluation Board) is transmitted to the Secretary of Veterans Affairs within 60 days of the separation or retirement.
 
 (Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1552; amended Pub. L. 102–190, div. A, title X, §1061(a)(5), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4401, 4441(b), 4462(b), Oct. 23, 1992, 106 Stat. 2701, 2730, 2740; Pub. L. 103–35, title II, §201(i)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, §1332(c), Nov. 30, 1993, 107 Stat. 1797; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(9)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–103, title III, §302(a), Dec. 27, 2001, 115 Stat. 991; Pub. L. 109–163, div. A, title V, §594, Jan. 6, 2006, 119 Stat. 3281; Pub. L. 111–84, div. A, title X, §1073(a)(13), Oct. 28, 2009, 123 Stat. 2473.)
 
 #### Amendments
 
-2009—Subsec. (b)(4)(C). Pub. L. 111–84, §1073(a)(13)(A), substituted “the Troops-to-Teachers Program under section 2302 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6672)” for “the Troops-to-Teachers Program Act of 1999 (20 U.S.C. 9301 et seq.)”.
+<b>2009</b>—Subsec. (b)(4)(C). Pub. L. 111–84, §1073(a)(13)(A), substituted “the Troops-to-Teachers Program under section 2302 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6672)” for “the Troops-to-Teachers Program Act of 1999 (20 U.S.C. 9301 et seq.)”.
 
 Subsec. (b)(15). Pub. L. 111–84, §1073(a)(13)(B), substituted “Federal” for “federal” in two places.
 
-2006—Subsec. (b)(4). Pub. L. 109–163, §594(1), substituted “Provision of information on civilian occupations and related assistance programs, including information concerning—
+<b>2006</b>—Subsec. (b)(4). Pub. L. 109–163, §594(1), substituted “Provision of information on civilian occupations and related assistance programs, including information concerning—
 
 &emsp;“(A) certification and licensure requirements that are applicable to civilian occupations;
 
@@ -82,17 +82,17 @@ Subsec. (b)(15). Pub. L. 111–84, §1073(a)(13)(B), substituted “Federal” f
 
 Subsec. (b)(11) to (17). Pub. L. 109–163, §594(2), added pars. (11) to (17).
 
-2001—Subsec. (a)(1). Pub. L. 107–103, §302(a)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “As soon as possible before, but in no event later than 90 days before, the date of the discharge or release from active duty of a member of the armed forces, the Secretary concerned shall provide for individual preseparation counseling of the member.”
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–103, §302(a)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “As soon as possible before, but in no event later than 90 days before, the date of the discharge or release from active duty of a member of the armed forces, the Secretary concerned shall provide for individual preseparation counseling of the member.”
 
 Subsec. (a)(3), (4). Pub. L. 107–103, §302(a)(2), added pars. (3) and (4).
 
-2000—Subsec. (b)(4). Pub. L. 106–398 substituted “sections 1152 and 1153 of this title and the Troops-to-Teachers Program Act of 1999 (20 U.S.C. 9301 et seq.)” for “sections 1151, 1152, and 1153 of this title”.
+<b>2000</b>—Subsec. (b)(4). Pub. L. 106–398 substituted “sections 1152 and 1153 of this title and the Troops-to-Teachers Program Act of 1999 (20 U.S.C. 9301 et seq.)” for “sections 1151, 1152, and 1153 of this title”.
 
-1993—Subsec. (b)(4). Pub. L. 103–160 substituted “programs established under sections 1151, 1152, and 1153 of this title” for “program established under section 1151 of this title to assist members to obtain employment as elementary or secondary school teachers or teachers’ aides”.
+<b>1993</b>—Subsec. (b)(4). Pub. L. 103–160 substituted “programs established under sections 1151, 1152, and 1153 of this title” for “program established under section 1151 of this title to assist members to obtain employment as elementary or secondary school teachers or teachers’ aides”.
 
 Pub. L. 103–35 substituted “job placement assistance, including the public and community service jobs program carried out under section 1143a of this title, and information regarding the placement program established under section 1151 of this title to assist members to obtain employment as elementary or secondary school teachers or teachers’ aides” for “job placement assistance and information regarding the placement program established under section 1151 of this title to assist members obtain employment as elementary or secondary school teachers or teachers’ aides., including the public and community service jobs program carried out under section 1143a of this title”.
 
-1992—Subsec. (a)(1). Pub. L. 102–484, §4401(a), substituted “As soon as possible before, but in no event later than 90 days before, the date of the discharge” for “Upon the discharge”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–484, §4401(a), substituted “As soon as possible before, but in no event later than 90 days before, the date of the discharge” for “Upon the discharge”.
 
 Subsec. (b)(4). Pub. L. 102–484, §4462(b), inserted before period at end “, including the public and community service jobs program carried out under section 1143a of this title”.
 
@@ -100,7 +100,7 @@ Pub. L. 102–484, §4441(b), inserted before period at end “and information r
 
 Subsec. (b)(10). Pub. L. 102–484, §4401(b), added par. (10).
 
-1991—Subsec. (b)(5). Pub. L. 102–190 substituted period for semicolon at end.
+<b>1991</b>—Subsec. (b)(5). Pub. L. 102–190 substituted period for semicolon at end.
 
 #### Application of Preseparation Counseling Requirements to Coast Guard
 

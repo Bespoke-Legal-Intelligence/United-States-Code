@@ -36,7 +36,7 @@ No action raising a claim referred to in subsection (a) of this section may be f
 
 #### (A) In general
 
-&emsp;&emsp;If an action that raises a claim referred to in subsection (a) of this section is brought,and a final judgment is entered in favor of 1 or more lineal descendants referred to in that subsection, section 1300d–23(a) of this title and subsections (a) and (b) of section 1300d–26 of this title shall not apply to the distribution of the funds described in subparagraph (B).
+&emsp;&emsp;If an action that raises a claim referred to in subsection (a) of this section is brought, and a final judgment is entered in favor of 1 or more lineal descendants referred to in that subsection, section 1300d–23(a) of this title and subsections (a) and (b) of section 1300d–26 of this title shall not apply to the distribution of the funds described in subparagraph (B).
 
 #### (B) Distribution of funds
 

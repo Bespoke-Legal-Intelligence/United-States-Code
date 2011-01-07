@@ -24,7 +24,7 @@
 
 (d) If a program of education is pursued by an eligible person at an institution located in the Republic of the Philippines, the educational assistance allowance computed for such person under this section shall be paid at the rate of $0.50 for each dollar.
 
-(e) In the case of an eligible person who is pursuing a program of education under this chapter while incarcerated in a Federal, State, local, or other penal institution or correctional facilityfor conviction of a felony, the educational assistance allowance shall be paid in the same manner prescribed in section 3482(g) of this title for incarcerated veterans, except that the references therein to the monthly educational assistance allowance prescribed for a veteran with no dependents shall be deemed to refer to the applicable allowance payable to an eligible person under corresponding provisions of this chapter or chapter 36 of this title, as determined by the Secretary.
+(e) In the case of an eligible person who is pursuing a program of education under this chapter while incarcerated in a Federal, State, local, or other penal institution or correctional facility for conviction of a felony, the educational assistance allowance shall be paid in the same manner prescribed in section 3482(g) of this title for incarcerated veterans, except that the references therein to the monthly educational assistance allowance prescribed for a veteran with no dependents shall be deemed to refer to the applicable allowance payable to an eligible person under corresponding provisions of this chapter or chapter 36 of this title, as determined by the Secretary.
 
 (f)(1) Subject to paragraph (3), the amount of educational assistance payable under this chapter for a licensing or certification test described in section 3501(a)(5) of this title is the lesser of $2,000 or the fee charged for the test.
 
@@ -42,11 +42,11 @@
 
 #### Amendments
 
-2006—Subsec. (e). Pub. L. 109–461 substituted “local, or other penal institution or correctional facility” for “or local penal institution”.
+<b>2006</b>—Subsec. (e). Pub. L. 109–461 substituted “local, or other penal institution or correctional facility” for “or local penal institution”.
 
-2004—Subsec. (g). Pub. L. 108–454 added subsec. (g).
+<b>2004</b>—Subsec. (g). Pub. L. 108–454 added subsec. (g).
 
-2003—Subsec. (a)(1). Pub. L. 108–183, §302(a)(1)(A), substituted “at the monthly rate of $788 for full-time, $592 for three-quarter-time, or $394 for half-time pursuit.” for “at the monthly rate of $670 for full-time, $503 for three-quarter-time, or $335 for half-time pursuit.”
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–183, §302(a)(1)(A), substituted “at the monthly rate of $788 for full-time, $592 for three-quarter-time, or $394 for half-time pursuit.” for “at the monthly rate of $670 for full-time, $503 for three-quarter-time, or $335 for half-time pursuit.”
 
 Subsec. (a)(2). Pub. L. 108–183, §302(a)(1)(B), substituted “at the rate of the lesser of—” and subpars. (A) and (B) for “at the rate of (A) the established charges for tuition and fees that the educational institution involved requires similarly circumstanced nonveterans enrolled in the same program to pay, or (B) $670 per month for a full-time course, whichever is the lesser.”
 
@@ -54,7 +54,7 @@ Subsec. (b). Pub. L. 108–183, §302(a)(2), substituted “$788” for “$670�
 
 Subsec. (c)(2). Pub. L. 108–183, §302(a)(3), substituted “shall be $636 for full-time, $477 for three-quarter-time, or $319 for half-time pursuit.” for “shall be $541 for full-time, $406 for three-quarter-time, and $271 for half-time pursuit.”
 
-2001—Subsec. (a)(1). Pub. L. 107–103, §102(a)(1), substituted “$670” for “$588”, “$503” for “$441”, and “$335” for “$294”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–103, §102(a)(1), substituted “$670” for “$588”, “$503” for “$441”, and “$335” for “$294”.
 
 Subsec. (a)(2). Pub. L. 107–103, §102(a)(2), substituted “$670” for “$588”.
 
@@ -62,7 +62,7 @@ Subsec. (b). Pub. L. 107–103, §102(a)(3), substituted “$670” for “$588�
 
 Subsec. (c)(2). Pub. L. 107–103, §102(a)(4), substituted “$541” for “$475”, “$406” for “$356”, and “$271” for “$238”.
 
-2000—Subsec. (a)(1). Pub. L. 106–419, §111(a)(1), substituted “$588” for “$485”, “$441” for “$365”, and “$294” for “$242”.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–419, §111(a)(1), substituted “$588” for “$485”, “$441” for “$365”, and “$294” for “$242”.
 
 Subsec. (a)(2). Pub. L. 106–419, §111(a)(2), substituted “$588” for “$485”.
 
@@ -72,19 +72,19 @@ Subsec. (c)(2). Pub. L. 106–419, §111(a)(4), substituted “$475” for “$3
 
 Subsec. (f). Pub. L. 106–419, §122(b)(4), added subsec. (f).
 
-1998—Subsec. (a)(1). Pub. L. 105–178, §8210(a)(1), as added by Pub. L. 105–206, §9014(b), substituted “$485” for “$404”, “$365” for “$304”, and “$242” for “$202”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–178, §8210(a)(1), as added by Pub. L. 105–206, §9014(b), substituted “$485” for “$404”, “$365” for “$304”, and “$242” for “$202”.
 
 Subsecs. (a)(2), (b). Pub. L. 105–178, §8210(a)(2), (3), as added by Pub. L. 105–206, §9014(b), substituted “$485” for “$404”.
 
 Subsec. (c)(2). Pub. L. 105–178, §8210(a)(4), as added by Pub. L. 105–206, §9014(b), substituted “$392” for “$327”, “$294” for “$245”, and “$196” for “$163”.
 
-1996—Subsec. (b). Pub. L. 104–275 substituted “$404” for “$327”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–275 substituted “$404” for “$327”.
 
-1994—Subsec. (d). Pub. L. 103–446 substituted “the rate of” for “a rate in Philippine pesos equivalent to”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–446 substituted “the rate of” for “a rate in Philippine pesos equivalent to”.
 
-1992—Subsec. (c)(3), (4). Pub. L. 102–568 struck out pars. (3) and (4) which related to the monthly educational assistance allowance to be paid for persons pursuing an independent study program and for persons pursuing a course in part by open circuit television.
+<b>1992</b>—Subsec. (c)(3), (4). Pub. L. 102–568 struck out pars. (3) and (4) which related to the monthly educational assistance allowance to be paid for persons pursuing an independent study program and for persons pursuing a course in part by open circuit television.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1732 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1732 of this title as this section.
 
 Subsec. (c)(3). Pub. L. 102–83, §5(c)(1), substituted “3688” for “1788”.
 
@@ -94,7 +94,7 @@ Subsec. (e). Pub. L. 102–83, §5(c)(1), substituted “3482(g)” for “1682(
 
 Pub. L. 102–16 substituted “Secretary” for “Secretary of Veterans Affairs”.
 
-1989—Subsec. (a)(1). Pub. L. 101–237, §403(a)(1), substituted “paid at the monthly rate of $404 for full-time, $304 for three-quarter-time, or $202 for half-time pursuit.” for “computed at the rate prescribed in section 1682(a)(1) of this title for full-time, three-quarter-time, or half-time pursuit, as appropriate, of an institutional program by an eligible veteran with no dependents.”
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–237, §403(a)(1), substituted “paid at the monthly rate of $404 for full-time, $304 for three-quarter-time, or $202 for half-time pursuit.” for “computed at the rate prescribed in section 1682(a)(1) of this title for full-time, three-quarter-time, or half-time pursuit, as appropriate, of an institutional program by an eligible veteran with no dependents.”
 
 Subsec. (a)(2). Pub. L. 101–237, §403(a)(2), substituted “paid at the rate of (A) the established charges for tuition and fees that the educational institution involved requires similarly circumstanced nonveterans enrolled in the same program to pay, or (B) $404 per month for a full-time course, whichever is the lesser.” for “computed at the rate prescribed in section 1682(b)(2) of this title for less-than-half-time pursuit of an institutional program by an eligible veteran.”
 
@@ -110,9 +110,9 @@ Subsec. (c)(4). Pub. L. 101–237, §403(a)(6), substituted “paragraph (3) of 
 
 Subsec. (e). Pub. L. 101–237, §403(a)(7), inserted before period at end “, except that the references therein to the monthly educational assistance allowance prescribed for a veteran with no dependents shall be deemed to refer to the applicable allowance payable to an eligible person under corresponding provisions of this chapter or chapter 36 of this title, as determined by the Secretary of Veterans Affairs”.
 
-1984—Subsec. (b). Pub. L. 98–304 substituted “$304” for “$276”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–304 substituted “$304” for “$276”.
 
-1980—Subsec. (b). Pub. L. 96–466, §212(1), substituted “$276” for “$264”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–466, §212(1), substituted “$276” for “$264”.
 
 Pub. L. 96–466, §202(1), substituted “$264” for “$251”.
 
@@ -120,15 +120,15 @@ Subsec. (c)(4). Pub. L. 96–466, §330, added par. (4).
 
 Subsec. (e). Pub. L. 96–466, §602(b), added subsec. (e).
 
-1977—Subsec. (b). Pub. L. 95–202 substituted “$251” for “$235”.
+<b>1977</b>—Subsec. (b). Pub. L. 95–202 substituted “$251” for “$235”.
 
-1976—Subsec. (b). Pub. L. 94–502, §301(1), substituted “$235” for “$217”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–502, §301(1), substituted “$235” for “$217”.
 
 Subsec. (c)(3). Pub. L. 94–502, §308, added par. (3).
 
-1975—Subsec. (b). Pub. L. 93–602 substituted “$217” for “$209”.
+<b>1975</b>—Subsec. (b). Pub. L. 93–602 substituted “$217” for “$209”.
 
-1974—Subsec. (a)(1). Pub. L. 93–508, §103(1), substituted “prescribed in section 1682(a)(1) of this title for full-time, three-quarter-time, or half-time pursuit, as appropriate, of an institutional program by an eligible veteran with no dependents” for “of (A) $220 per month if pursued on a full-time basis, (B) $165 per month if pursued on a three-quarter-time basis, and (C) $110 per month if pursued on a half-time basis”.
+<b>1974</b>—Subsec. (a)(1). Pub. L. 93–508, §103(1), substituted “prescribed in section 1682(a)(1) of this title for full-time, three-quarter-time, or half-time pursuit, as appropriate, of an institutional program by an eligible veteran with no dependents” for “of (A) $220 per month if pursued on a full-time basis, (B) $165 per month if pursued on a three-quarter-time basis, and (C) $110 per month if pursued on a half-time basis”.
 
 Subsec. (a)(2). Pub. L. 93–508, §103(2), substituted “prescribed in section 1682(b)(2) of this title for less-than-half-time pursuit of an institutional program by an eligible veteran” for “of (A) the established charges for tuition and fees which the institution requires other individuals enrolled in the same program to pay, or (B) $220 per month for a full-time course whichever is the lesser”.
 
@@ -136,19 +136,19 @@ Subsec. (b). Pub. L. 93–508, §103(3), substituted “$209” for “$177”.
 
 Subsecs. (c), (d). Pub. L. 93–508, §208, added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1972—Subsec. (a)(1). Pub. L. 92–540 §103(1), substituted “$220” for “$175” in cl. (A), “$165” for “$128” in cl. (B), and “$110” for “$81” in cl. (C).
+<b>1972</b>—Subsec. (a)(1). Pub. L. 92–540 §103(1), substituted “$220” for “$175” in cl. (A), “$165” for “$128” in cl. (B), and “$110” for “$81” in cl. (C).
 
 Subsec. (a)(2). Pub. L. 92–540, §103(2), substituted “$220” for “$175”.
 
 Subsec. (b). Pub. L. 92–540, §103(3), substituted “$177” for “$141”.
 
-1970—Subsec. (a). Pub. L. 91–219, §104(a), designated existing provision as par. (1), substituted “(A) $175” for “(1) $130”, “(B) $128” for “(2) $95”, and “(C) $81” for “(3) $60”, respectively in par. (1) as so designated, and added par. (2).
+<b>1970</b>—Subsec. (a). Pub. L. 91–219, §104(a), designated existing provision as par. (1), substituted “(A) $175” for “(1) $130”, “(B) $128” for “(2) $95”, and “(C) $81” for “(3) $60”, respectively in par. (1) as so designated, and added par. (2).
 
 Subsec. (b). Pub. L. 91–219, §104(b), substituted “$141” for “$105”.
 
 Subsec. (c). Pub. L. 91–219, §210, substituted provision that if a program of education is pursued by an eligible person at an institution located in the Republic of the Philippines, the educational assistance allowance computed for such person should be paid at a specified rate in Philippine pesos, for provision forbidding educational assistance allowance to a person who is pursuing an institutional course on a less than prescribed basis.
 
-1965—Subsec. (a). Pub. L. 89–222, §1(a), substituted “$130”, “$95”, and “$60” for “$110”, “$80”, and “$50”, respectively.
+<b>1965</b>—Subsec. (a). Pub. L. 89–222, §1(a), substituted “$130”, “$95”, and “$60” for “$110”, “$80”, and “$50”, respectively.
 
 Subsec. (b). Pub. L. 89–222, §1(b), substituted “$105” for “$90”.
 

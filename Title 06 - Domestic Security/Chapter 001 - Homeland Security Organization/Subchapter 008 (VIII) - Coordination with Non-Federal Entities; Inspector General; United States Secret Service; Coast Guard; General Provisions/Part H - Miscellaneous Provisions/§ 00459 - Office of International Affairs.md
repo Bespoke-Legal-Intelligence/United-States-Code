@@ -8,7 +8,7 @@ There is established within the Office of the Secretary an Office of Internation
 
 The Director shall have the following duties:
 
-&emsp;(1) To promote information and education exchange with nations friendly to the United States in order to promote sharing of best practices and technologies relating to homeland security. Such exchange shall include the following:
+&emsp;(1) To promote information and education exchange with nations friendly to the United States in order to promote sharing of bestpractices and technologies relating to homeland security. Such exchange shall include the following:
 
 &emsp;&emsp;(A) Exchange of information on research and development on homeland security technologies.
 
@@ -20,7 +20,7 @@ The Director shall have the following duties:
 
 &emsp;(3) To plan and undertake international conferences, exchange programs, and training activities.
 
-&emsp;(4) To manage international activities within the Department in coordination with otherFederal officials with responsibility for counter-terrorism matters.
+&emsp;(4) To manage international activities within the Department in coordination with other Federal officials with responsibility for counter-terrorism matters.
 
 (Pub. L. 107–296, title VIII, §879, Nov. 25, 2002, 116 Stat. 2245.)
 

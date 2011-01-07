@@ -116,7 +116,7 @@ Section was enacted as part of the Water Resources Development Act of 1999, and 
 
 #### Amendments
 
-2007—Subsec. (g). Pub. L. 110–114 added subsec. (g).
+<b>2007</b>—Subsec. (g). Pub. L. 110–114 added subsec. (g).
 
 #### Definitions
 

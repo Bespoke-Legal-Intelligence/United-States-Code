@@ -48,13 +48,13 @@ For the purpose of conducting studies and making reports as directed by the Chai
 
 #### Amendments
 
-1996—Subsec. (h). Pub. L. 104–127 struck out after first sentence “Among such standing subcommittees and panels of the Council shall be the Subcommittee on Food, Agricultural, and Forestry Research. This subcommittee shall review Federal research and development programs relevant to domestic and world food and fiber production and distribution, promote planning and coordination of this research in the Federal Government, and recommend policies and other measures concerning the food and agricultural sciences for the consideration of the Council. The subcommitteeshall include, but not be limited to, representatives of each of the following departments or agencies; the Department of Agriculture, the Department of State, the Department of Defense, the Department of the Interior, the Department of Health and Human Services, the National Oceanic and Atmospheric Administration, the Department of Energy, the National Science Foundation, the Environmental Protection Agency, and the Tennessee Valley Authority. The principal representatives of the Department of Agriculture shall serve as the chairman of the subcommittee.”
+<b>1996</b>—Subsec. (h). Pub. L. 104–127 struck out after first sentence “Among such standing subcommittees and panels of the Council shall be the Subcommittee on Food, Agricultural, and Forestry Research. This subcommittee shall review Federal research and development programs relevant to domestic and world food and fiber production and distribution, promote planning and coordination of this research in the Federal Government, and recommend policies and other measures concerning the food and agricultural sciences for the consideration of the Council. The subcommittee shall include, but not be limited to, representatives of each of the following departments or agencies; the Department of Agriculture, the Department of State, the Department of Defense, the Department of the Interior, the Department of Health and Human Services, the National Oceanic and Atmospheric Administration, the Department of Energy, the National Science Foundation, the Environmental Protection Agency, and the Tennessee Valley Authority. The principal representatives of the Department of Agriculture shall serve as the chairman of the subcommittee.”
 
-1991—Subsec. (b). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1981—Subsec. (h). Pub. L. 97–98 substituted “Subcommittee on Food, Agricultural, and Forestry Research” for “Subcommittee on Food and Renewable Resources”, “Department of Health and Human Services” for “Department of Health, Education, and Welfare”, and “Department of Energy” for “Energy Research and Development Administration”.
+<b>1981</b>—Subsec. (h). Pub. L. 97–98 substituted “Subcommittee on Food, Agricultural, and Forestry Research” for “Subcommittee on Food and Renewable Resources”, “Department of Health and Human Services” for “Department of Health, Education, and Welfare”, and “Department of Energy” for “Energy Research and Development Administration”.
 
-1977—Subsec. (h). Pub. L. 95–113 inserted provisions relating to Subcommittee on Food and Renewable Resources.
+<b>1977</b>—Subsec. (h). Pub. L. 95–113 inserted provisions relating to Subcommittee on Food and Renewable Resources.
 
 #### Effective Date of 1981 Amendment
 

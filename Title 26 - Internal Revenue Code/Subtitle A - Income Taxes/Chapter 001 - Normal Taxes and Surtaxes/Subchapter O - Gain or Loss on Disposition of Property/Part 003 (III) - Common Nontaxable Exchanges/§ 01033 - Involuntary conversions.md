@@ -212,7 +212,7 @@ For purposes of subsection (a), if, because of drought, flood, or other weather-
 
 #### (3) Related person
 
-&emsp;For purposes of this subsection, a person is related to another person if the person bears arelationship to the other person described in section 267(b) or 707(b)(1).
+&emsp;For purposes of this subsection, a person is related to another person if the person bears a relationship to the other person described in section 267(b) or 707(b)(1).
 
 #### (j) Sales or exchanges to implement microwave relocation policy
 
@@ -244,11 +244,11 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 The date of the enactment of this subsection, referred to in subsec. (k), is the date of enactment of Pub. L. 109–7, which was approved Apr. 15, 2005.
 
-The National Flood Insurance Act, referred to in subsec. (k), probably means the National Flood Insurance Act of 1968, title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
+The National Flood Insurance Act, referred to in subsec. (k), probably means the National Flood InsuranceAct of 1968, title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
 
 #### Amendments
 
-2008—Subsec. (h). Pub. L. 110–343, §706(a)(2)(D)(i), amended heading generally. Prior to amendment, heading read as follows: “Special rules for property damaged by Presidentially declared disasters”.
+<b>2008</b>—Subsec. (h). Pub. L. 110–343, §706(a)(2)(D)(i), amended heading generally. Prior to amendment, heading read as follows: “Special rules for property damaged by Presidentially declared disasters”.
 
 Subsec. (h)(1). Pub. L. 110–343, §706(a)(2)(D)(i), reenacted heading without change and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “If the taxpayer's principal residence or any of its contents is compulsorily or involuntarily converted as a result of a Presidentially declared disaster—”.
 
@@ -256,15 +256,15 @@ Subsec. (h)(2). Pub. L. 110–343, §706(a)(2)(D)(ii), substituted “investment
 
 Subsec. (h)(3). Pub. L. 110–343, §706(a)(2)(D)(iii), amended par. (3) generally. Prior to amendment, par. (3) defined “Presidentially declared disaster” for purposes of subsec. (h).
 
-2005—Subsecs. (k), (<i>l</i>). Pub. L. 109–7 added subsec. (k) and redesignated former subsec. (k) as (<i>l</i>).
+<b>2005</b>—Subsecs. (k), (<i>l</i>). Pub. L. 109–7 added subsec. (k) and redesignated former subsec. (k) as (<i>l</i>).
 
-2004—Subsec. (e). Pub. L. 108–357, §311(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
+<b>2004</b>—Subsec. (e). Pub. L. 108–357, §311(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 Subsec. (f). Pub. L. 108–357, §311(a), in heading, substituted “in certain cases” for “where there has been environmental contamination” and, in text, inserted “drought, flood, or other weather-related conditions, or” after “because of” and “in the case of soil contamination or other environmental contamination” after “including real property”.
 
 Subsec. (h)(3). Pub. L. 108–311 inserted “Robert T. Stafford” before “Disaster Relief and Emergency Assistance Act”.
 
-1997—Subsec. (e). Pub. L. 105–34, §913(b), inserted “, flood, or other weather-related conditions” after “drought” in heading and “, flood, or other weather-related conditions” before period at end of text.
+<b>1997</b>—Subsec. (e). Pub. L. 105–34, §913(b), inserted “, flood, or other weather-related conditions” after “drought” in heading and “, flood, or other weather-related conditions” before period at end of text.
 
 Subsec. (h)(4). Pub. L. 105–34, §312(d)(1), substituted “section 121” for “section 1034”.
 
@@ -286,7 +286,7 @@ Related person.—For purposes of this subsection, a person is related to anothe
 
 Subsec. (k)(3). Pub. L. 105–34, §312(d)(7), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “For one-time exclusion from gross income of gain from involuntary conversion of principal residence by individual who has attained age 55, see section 121.”
 
-1996—Subsec. (b). Pub. L. 104–188, §1610(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the property was acquired, after February 28, 1913, as the result of a compulsory or involuntary conversion described in subsection (a)(1) or section 112(f)(2) of the Internal Revenue Code of 1939, the basis shall be the same as in the case of the property so converted, decreased in the amount of any money received by the taxpayer which was not expended in accordance with the provisions of law (applicable to the year in which such conversion was made) determining the taxable status of the gain or loss upon such conversion, and increased in the amount of gain or decreased in the amount of loss to the taxpayer recognized upon such conversion under the law applicable to the year in which such conversion was made. This subsection shall not apply in respect of property acquired as a result of a compulsory or involuntary conversion of property used by the taxpayer as his principal residence if the destruction, theft, seizure, requisition, or condemnation of such residence, or the sale or exchange of such residence under threat or imminence thereof, occurred after December 31, 1950, and before January 1, 1954. In the case of property purchased by the taxpayer in a transaction described in subsection (a)(3) which resulted in the nonrecognition of any part of the gain realized as the result of a compulsory or involuntary conversion, the basis shall be the cost of such property decreased in the amount of the gain not so recognized; and if the property purchased consists of more than one piece of property, the basis determined under this sentence shall be allocated to the purchased properties in proportion to their respective costs.”
+<b>1996</b>—Subsec. (b). Pub. L. 104–188, §1610(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the property was acquired, after February 28, 1913, as the result of a compulsory or involuntary conversion described in subsection (a)(1) or section 112(f)(2) of the Internal Revenue Code of 1939, the basis shall be the same as in the case of the property so converted, decreased in the amount of any money received by the taxpayer which was not expended in accordance with the provisions of law (applicable to the year in which such conversion was made) determining the taxable status of the gain or loss upon such conversion, and increased in the amount of gain or decreased in the amount of loss to the taxpayer recognized upon such conversion under the law applicable to the year in which such conversion was made. This subsection shall not apply in respect of property acquired as a result of a compulsory or involuntary conversion of property used by the taxpayer as his principal residence if the destruction, theft, seizure, requisition, or condemnation of such residence, or the sale or exchange of such residence under threat or imminence thereof, occurred after December 31, 1950, and before January 1, 1954. In the case of property purchased by the taxpayer in a transaction described in subsection (a)(3) which resulted in the nonrecognition of any part of the gain realized as the result of a compulsory or involuntary conversion, the basis shall be the cost of such property decreased in the amount of the gain not so recognized; and if the property purchased consists of more than one piece of property, the basis determined under this sentence shall be allocated to the purchased properties in proportion to their respective costs.”
 
 Subsec. (h). Pub. L. 104–188, §1119(b)(2), substituted “property” for “principal residences” in heading.
 
@@ -298,7 +298,7 @@ Subsec. (h)(3). Pub. L. 104–188, §1119(a), (b)(1), redesignated par. (2) as (
 
 Subsec. (h)(4). Pub. L. 104–188, §1119(a), redesignated par. (3) as (4).
 
-1995—Subsec. (i). Pub. L. 104–7, §3(a)(1), added subsec. (i). Former subsec. (i) redesignated (j).
+<b>1995</b>—Subsec. (i). Pub. L. 104–7, §3(a)(1), added subsec. (i). Former subsec. (i) redesignated (j).
 
 Subsec. (j). Pub. L. 104–7, §3(b)(1), added subsec. (j). Former subsec. (j) redesignated (k).
 
@@ -306,21 +306,21 @@ Pub. L. 104–7, §3(a)(1), redesignated subsec. (i) as (j).
 
 Subsec. (k). Pub. L. 104–7, §3(b)(1), redesignated subsec. (j) as (k).
 
-1993—Subsecs. (h), (i). Pub. L. 103–66 added subsec. (h) and redesignated former subsec. (h) as (i).
+<b>1993</b>—Subsecs. (h), (i). Pub. L. 103–66 added subsec. (h) and redesignated former subsec. (h) as (i).
 
-1990—Subsec. (g)(3)(A). Pub. L. 101–508 struck out “with respect to which the investment credit determined under section 46(a) is or has been claimed or” after “to any property”.
+<b>1990</b>—Subsec. (g)(3)(A). Pub. L. 101–508 struck out “with respect to which the investment credit determined under section 46(a) is or has been claimed or” after “to any property”.
 
-1984—Subsec. (g)(3)(A). Pub. L. 98–369 substituted “the investment credit determined under section 46(a)” for “the credit allowed by section 38 (relating to investment in certain depreciable property)”.
+<b>1984</b>—Subsec. (g)(3)(A). Pub. L. 98–369 substituted “the investment credit determined under section 46(a)” for “the credit allowed by section 38 (relating to investment in certain depreciable property)”.
 
-1981—Subsec. (g)(3)(A). Pub. L. 97–34 substituted “(relating to election to expense certain depreciable business assets)” for “(relating to additional first-year depreciation allowance for small business)”.
+<b>1981</b>—Subsec. (g)(3)(A). Pub. L. 97–34 substituted “(relating to election to expense certain depreciable business assets)” for “(relating to additional first-year depreciation allowance for small business)”.
 
-1978—Subsec. (a)(2)(A)(ii). Pub. L. 95–600, §703(j)(5), substituted “subsection (b)” for “subsection (c)”.
+<b>1978</b>—Subsec. (a)(2)(A)(ii). Pub. L. 95–600, §703(j)(5), substituted “subsection (b)” for “subsection (c)”.
 
 Subsecs. (f), (g). Pub. L. 95–600, §542(a), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
 Subsec. (h). Pub. L. 95–600, §§404(c)(4), 542(a), redesignated subsec. (g) as (h) and substituted in par. (3) “one-time exclusion” for “exclusion” and “age 55” for “age 65”.
 
-1976—Subsec. (a)(2), (3). Pub. L. 94–455, §§1901(a)(128)(A), (B), 1906(b)(13)(A), redesignated par. (3) as (2), struck out in heading “where disposition occurred after 1950” after “Conversion into money”, in provisions preceding subpar. (A) “and the disposition of the converted property (as defined in paragraph (2)) occurred after December 31, 1950,” after “use to the converted property,” and in subpar. (B)(ii) “or his delegate” after “Secretary” wherever appearing, and added subpar. (E). Former par. (2), which related to involuntary conversions into money where dispositions occurred prior to 1951, was struck out.
+<b>1976</b>—Subsec. (a)(2), (3). Pub. L. 94–455, §§1901(a)(128)(A), (B), 1906(b)(13)(A), redesignated par. (3) as (2), struck out in heading “where disposition occurred after 1950” after “Conversion into money”, in provisions preceding subpar. (A) “and the disposition of the converted property (as defined in paragraph (2)) occurred after December 31, 1950,” after “use to the converted property,” and in subpar. (B)(ii) “or his delegate” after “Secretary” wherever appearing, and added subpar. (E). Former par. (2), which related to involuntary conversions into money where dispositions occurred prior to 1951, was struck out.
 
 Subsec. (b). Pub. L. 94–455, §1901(a)(128)(C), (D), redesignated subsec. (c) as (b) and substituted “or section 112(f)(2) of the Internal Revenue Code of 1939” for “or (2)”. Former subsec. (b), which related to application of subsec. (a) in the case of property used by taxpayer as his principal residence, if the destruction, theft, etc., occurred after 1950 and before 1954, was struck out.
 
@@ -330,15 +330,15 @@ Subsec. (f). Pub. L. 94–455, §§1901(a)(128)(C), (E), (F), 2127(a), 2140(a), 
 
 Subsecs. (g), (h). Pub. L. 94–455, §1901(a)(128)(C), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
-1969—Subsec. (a)(3)(B). Pub. L. 91–172 substituted “2 years” for “one year”.
+<b>1969</b>—Subsec. (a)(3)(B). Pub. L. 91–172 substituted “2 years” for “one year”.
 
-1964—Subsec. (h)(3). Pub. L. 88–272 added par. (3).
+<b>1964</b>—Subsec. (h)(3). Pub. L. 88–272 added par. (3).
 
-1958—Subsec. (a)(2). Pub. L. 85–866, §45, inserted provision defining “control”.
+<b>1958</b>—Subsec. (a)(2). Pub. L. 85–866, §45, inserted provision defining “control”.
 
 Subsecs. (g), (h). Pub. L. 85–866, §46(a), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-1956—Subsecs. (f), (g). Act June 29, 1956, added subsec. (f) and redesignated former subsec. (f) as (g).
+<b>1956</b>—Subsecs. (f), (g). Act June 29, 1956, added subsec. (f) and redesignated former subsec. (f) as (g).
 
 #### Effective Date of 2008 Amendment
 
@@ -406,7 +406,7 @@ Section 2140(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 2
 
 #### Effective Date of 1969 Amendment
 
-Section 915(b) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by this section \[amending this section\] shall apply only if the disposition of the converted property (within the meaning of section 1033(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) occurs after the date of the enactment of this Act \[Dec. 30, 1969\].”
+Section 915(b) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“The amendment made by this section \[amending this section\] shall apply only if the disposition of the converted property (within the meaning of section 1033(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) occurs after the date of the enactment of this Act \[Dec. 30, 1969\].”
 
 #### Effective Date of 1964 Amendment
 

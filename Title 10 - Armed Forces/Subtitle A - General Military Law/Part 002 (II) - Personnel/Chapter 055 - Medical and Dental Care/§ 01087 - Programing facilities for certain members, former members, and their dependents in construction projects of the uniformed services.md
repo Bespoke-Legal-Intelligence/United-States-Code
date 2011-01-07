@@ -6,7 +6,7 @@
 
 &emsp;(2) the amount of space that would be so programed for the facility based upon the most cost-effective provision of inpatient and outpatient care to persons covered by sections 1074(b) and 1076(b) of this title.
 
-(b)(1) In making determinations for the purposes of clauses (1) and (2) of subsection (a), the Secretary concerned shall take into consideration—
+(b)(1) In making determinations for the purposes of clauses (1) and (2) of subsection (a), theSecretary concerned shall take into consideration—
 
 &emsp;(A) the amount of space that would be so programed for the facility based upon projected inpatient and outpatient workloads at the facility for persons covered by sections 1074(b) and 1076(b) of this title; and
 
@@ -22,11 +22,11 @@ The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch
 
 #### Amendments
 
-1986—Subsec. (b)(2). Pub. L. 99–661 substituted “Act (42 U.S.C. 1395c et seq.))” for “Act. (42 U.S.C. 1395c et seq.)”.
+<b>1986</b>—Subsec. (b)(2). Pub. L. 99–661 substituted “Act (42 U.S.C. 1395c et seq.))” for “Act. (42 U.S.C. 1395c et seq.)”.
 
-1984—Subsec. (b)(2). Pub. L. 98–525 which directed that “(42 U.S.C. 1395c et seq.)” be inserted after “the Social Security Act.”, was executed by inserting parenthetical after “the Social Security Act” to reflect the probable intent of Congress. See 1986 Amendment note above.
+<b>1984</b>—Subsec. (b)(2). Pub. L. 98–525 which directed that “(42 U.S.C. 1395c et seq.)” be inserted after “the Social Security Act.”, was executed by inserting parenthetical after “the Social Security Act” to reflect the probable intent of Congress. See 1986 Amendment note above.
 
-1982—Subsec. (a). Pub. L. 97–337, §1(1), designated existing provisions as subsec. (a).
+<b>1982</b>—Subsec. (a). Pub. L. 97–337, §1(1), designated existing provisions as subsec. (a).
 
 Pub. L. 97–337, §1(2), substituted provisions limiting the maximum amount of space to be programed as the greater of the amounts of space described in par. (1) or (2) for provisions limiting the amount of space to be programed to that amount needed to support teaching and training requirements, except that space may be programed in areas having large concentrations of retired members where there is a critical shortage of facilities.
 

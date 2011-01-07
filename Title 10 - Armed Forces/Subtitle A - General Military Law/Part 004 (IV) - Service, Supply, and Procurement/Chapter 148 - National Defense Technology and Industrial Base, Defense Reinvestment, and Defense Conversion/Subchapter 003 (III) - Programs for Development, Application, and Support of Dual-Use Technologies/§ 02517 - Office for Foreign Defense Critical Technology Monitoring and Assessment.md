@@ -2,11 +2,11 @@
 
 (a)
 
-In General.—The Secretary of Defense shall establish within the Office of the Director of Defense Research and Engineering an office known as the “Office for Foreign Defense Critical Technology Monitoring and Assessment” (hereinafter in this section referred to as the “Office”).
+In General.—The Secretary of Defense shall establish within the Office of the Assistant Secretary of Defense for Research and Engineering an office known as the “Office for Foreign Defense Critical Technology Monitoring and Assessment” (hereinafter in this section referred to as the “Office”).
 
 (b)
 
-Relationship to Department of Commerce.—The head of the Office shall consult closely with appropriate officials of the Department of Commerce in order—
+Relationship to Department of Commerce.—The head of the Office shall consultclosely with appropriate officials of the Department of Commerce in order—
 
 &emsp;(1) to minimize the duplication of any effort of the Department of Commerce by the Department of Defense regarding the monitoring of foreign activities related to defense critical technologies that have potential commercial uses; and
 
@@ -34,7 +34,7 @@ Responsibilities.—The Office shall have the following responsibilities:
 
 &emsp;(5) To disseminate through the National Technical Information Service of the Department of Commerce unclassified information and assessments regarding defense critical technologies having potential commercial uses so that such information and assessments may be further disseminated within the Federal Government and to the private sector.
 
-(Added Pub. L. 102–190, div. A, title VIII, §821(a), Dec. 5, 1991, 105 Stat. 1430, §2525; renumbered §2517 and amended Pub. L. 102–484, div. D, title XLII, §4227, Oct. 23, 1992, 106 Stat. 2685.)
+(Added Pub. L. 102–190, div. A, title VIII, §821(a), Dec. 5, 1991, 105 Stat. 1430, §2525; renumbered §2517 and amended Pub. L. 102–484, div. D, title XLII, §4227, Oct. 23, 1992, 106 Stat. 2685; Pub. L. 111–383, div. A, title IX, §901(j)(4), Jan. 7, 2011, 124 Stat. 4324.)
 
 #### Prior Provisions
 
@@ -42,5 +42,11 @@ A prior section 2517 was renumbered section 2523 of this title and subsequently 
 
 #### Amendments
 
-1992—Pub. L. 102–484 renumbered section 2525 of this title as this section and inserted “Critical” after “Foreign Defense” in subsec. (a).
+<b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted “Assistant Secretary of Defense for Research and Engineering” for “Director of Defense Research and Engineering”.
+
+<b>1992</b>—Pub. L. 102–484 renumbered section 2525 of this title as this section and inserted “Critical” after “Foreign Defense” in subsec. (a).
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as a note under section 131 of this title.
 

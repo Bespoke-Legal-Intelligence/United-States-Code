@@ -56,7 +56,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) includes scientific and technical support to ensure that external users, including researchers based at institutions of higher education, are able to make full use of a variety of high quality scientific instruments; and
 
-&emsp;&emsp;&emsp;(iii) phases in systems upgrades to ensure that the Facility remains at the forefront of international scientific endeavorsin the field of the Facility throughout the operating life of the Facility;
+&emsp;&emsp;&emsp;(iii) phases in systems upgrades to ensure that the Facility remains at the forefront of international scientific endeavors in the field of the Facility throughout the operating life of the Facility;
 
 &emsp;&emsp;(B) include an ongoing program to develop new instruments that builds on the high performance neutron source and that allows neutron scattering techniques to be applied to a growing range of scientific problems and disciplines; and
 

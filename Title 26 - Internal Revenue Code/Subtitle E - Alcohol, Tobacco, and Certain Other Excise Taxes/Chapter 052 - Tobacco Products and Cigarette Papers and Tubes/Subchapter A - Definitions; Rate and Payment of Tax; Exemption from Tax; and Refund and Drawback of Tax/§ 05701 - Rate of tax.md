@@ -58,11 +58,11 @@ On roll-your-own tobacco, manufactured in or imported into the United States, th
 
 The taxes imposed by this section on tobacco products and cigarette papers and tubes imported into the United States shall be in addition to any import duties imposed on such articles, unless such import duties are imposed in lieu of internal revenue tax.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 705; Mar. 30, 1955, ch. 18, §3(a)(9), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(9), 70 Stat. 66; Pub. L. 85–12, §3(a)(7), Mar. 29, 1957, 71 Stat. 9; Pub. L. 85–475, §3(a)(7), June 30, 1958, 72 Stat. 259; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1414; Pub. L. 86–75, §3(a)(7), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(9), June 30, 1960, 74 Stat. 290; Pub. L. 86–779, §1, Sept. 14, 1960, 74 Stat. 998; Pub. L. 87–72, §3(a)(9), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(8), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(9), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(9), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §§501(f), 502(a), June 21, 1965, 79 Stat. 150; Pub. L. 90–240, §4(a), Jan. 2, 1968, 81 Stat. 776; Pub. L. 94–455, title XIX, §1905(a)(24), title XXI, §2128(a), Oct. 4, 1976, 90 Stat. 1821, 1921; Pub. L. 97–248, title II, §283(a), Sept. 3, 1982, 96 Stat. 568; Pub. L. 99–272, title XIII, §13202(a), Apr. 7, 1986, 100 Stat. 311; Pub. L. 100–647, title V, §5061(a), Nov. 10, 1988, 102 Stat. 3679; Pub. L. 101–508, title XI, §11202(a)–(f), Nov. 5, 1990, 104 Stat. 1388–419; Pub. L. 105–33, title IX, §9302(a)–(g)(1), (h)(3), Aug. 5, 1997, 111 Stat. 671, 672, 674; Pub. L. 111–3, title VII, §701(a)–(g), Feb. 4, 2009, 123 Stat. 106, 107.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 705; Mar. 30, 1955, ch. 18, §3(a)(9), 69 Stat. 14; Mar. 29, 1956, ch. 115,§3(a)(9), 70 Stat. 66; Pub. L. 85–12, §3(a)(7), Mar. 29, 1957, 71 Stat. 9; Pub. L. 85–475, §3(a)(7), June 30, 1958, 72 Stat. 259; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1414; Pub. L. 86–75, §3(a)(7), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(9), June 30, 1960, 74 Stat. 290; Pub. L. 86–779, §1, Sept. 14, 1960, 74 Stat. 998; Pub. L. 87–72, §3(a)(9), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(8), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(9), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(9), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §§501(f), 502(a), June 21, 1965, 79 Stat. 150; Pub. L. 90–240, §4(a), Jan. 2, 1968, 81 Stat. 776; Pub. L. 94–455, title XIX, §1905(a)(24), title XXI, §2128(a), Oct. 4, 1976, 90 Stat. 1821, 1921; Pub. L. 97–248, title II, §283(a), Sept. 3, 1982, 96 Stat. 568; Pub. L. 99–272, title XIII, §13202(a), Apr. 7, 1986, 100 Stat. 311; Pub. L. 100–647, title V, §5061(a), Nov. 10, 1988, 102 Stat. 3679; Pub. L. 101–508, title XI, §11202(a)–(f), Nov. 5, 1990, 104 Stat. 1388–419; Pub. L. 105–33, title IX, §9302(a)–(g)(1), (h)(3), Aug. 5, 1997, 111 Stat. 671, 672, 674; Pub. L. 111–3, title VII, §701(a)–(g), Feb. 4, 2009, 123 Stat. 106, 107.)
 
 #### Amendments
 
-2009—Subsec. (a)(1). Pub. L. 111–3, §701(a)(1), substituted “$50.33 per thousand” for “$1.828 cents per thousand ($1.594 cents per thousand on cigars removed during 2000 or 2001)”.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–3, §701(a)(1), substituted “$50.33 per thousand” for “$1.828 cents per thousand ($1.594 cents per thousand on cigars removed during 2000 or 2001)”.
 
 Subsec. (a)(2). Pub. L. 111–3, §701(a)(2), (3), substituted “52.75 percent” for “20.719 percent (18.063 percent on cigars removed during 2000 or 2001)” and “40.26 cents per cigar” for “$48.75 per thousand ($42.50 per thousand on cigars removed during 2000 or 2001)”.
 
@@ -82,7 +82,7 @@ Subsec. (f). Pub. L. 111–3, §701(f), substituted “$2.8311 cents” for “$
 
 Subsec. (g). Pub. L. 111–3, §701(g), substituted “$24.78” for “$1.0969 cents (95.67 cents on roll-your-own tobacco removed during 2000 or 2001)”.
 
-1997—Subsec. (a)(1). Pub. L. 105–33, §9302(b)(1), substituted “$1.828 cents per thousand ($1.594 cents per thousand on cigars removed during 2000 or 2001)” for “$1.125 cents per thousand (93.75 cents per thousand on cigars removed during 1991 or 1992)”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–33, §9302(b)(1), substituted “$1.828 cents per thousand ($1.594 cents per thousand on cigars removed during 2000 or 2001)” for “$1.125 cents per thousand (93.75 cents per thousand on cigars removed during 1991 or 1992)”.
 
 Subsec. (a)(2). Pub. L. 105–33, §9302(b)(2), substituted “equal to 20.719 percent (18.063 percent on cigars removed during 2000 or 2001) of the price for which sold but not more than $48.75 per thousand ($42.50 per thousand on cigars removed during 2000 or 2001).” for “equal to—
 
@@ -108,7 +108,7 @@ Subsec. (f). Pub. L. 105–33, §9302(f), substituted “$1.0969 cents (95.67 ce
 
 Subsecs. (g), (h). Pub. L. 105–33, §9302(g)(1), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-1990—Subsec. (a)(1). Pub. L. 101–508, §11202(a)(1), substituted “$1.125 cents per thousand (93.75 cents per thousand on cigars removed during 1991 or 1992)” for “75 cents per thousand”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–508, §11202(a)(1), substituted “$1.125 cents per thousand (93.75 cents per thousand on cigars removed during 1991 or 1992)” for “75 cents per thousand”.
 
 Subsec. (a)(2). Pub. L. 101–508, §11202(a)(2), substituted “equal to—” and subpars. (A) and (B) for “equal to 81/2 percent of the wholesale price, but not more than $20 per thousand.”
 
@@ -126,39 +126,39 @@ Subsec. (e)(2). Pub. L. 101–508, §11202(e)(2), substituted “12 cents (10 ce
 
 Subsec. (f). Pub. L. 101–508, §11202(f), substituted “67.5 cents (56.25 cents on pipe tobacco removed during 1991 or 1992)” for “45 cents”.
 
-1988—Subsecs. (f), (g). Pub. L. 100–647 added subsec. (f) and redesignated former subsec. (f) as (g).
+<b>1988</b>—Subsecs. (f), (g). Pub. L. 100–647 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1986—Subsecs. (e), (f). Pub. L. 99–272 added subsec. (e) and redesignated former subsec. (e) as (f).
+<b>1986</b>—Subsecs. (e), (f). Pub. L. 99–272 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1982—Subsec. (b)(1). Pub. L. 97–248, §283(a)(1), substituted “$8” for “$4”.
+<b>1982</b>—Subsec. (b)(1). Pub. L. 97–248, §283(a)(1), substituted “$8” for “$4”.
 
 Subsec. (b)(2). Pub. L. 97–248, §283(a)(2), substituted “$16.80” for “$8.40”.
 
-1976—Subsec. (a). Pub. L. 94–455, §2128(a), substituted provisions setting a tax of 81/2 percent of the wholesale price, but not more than $20 per thousand, on cigars weighing more than 3 pounds per thousand for provisions setting the tax according to a graduated table running from $2.50 per thousand for large cigars if removed to retail at not more than 21/2 cents each to $20 per thousand if removed to retail at more than 20 cents each, and struck out provisions that, in determining the retail price, for tax purposes, regard be had to the ordinary retail price of a single cigar in its principal market, exclusive of any State or local taxes imposed on cigars as a commodity, and that, for purposes of that determination, the amount of State or local tax excluded from the retail price be the actual tax imposed, except that, if the combined taxes resulted in a numerical figure ending in a fraction of a cent, the amount so excluded would be rounded to the next highest full cent unless such rounding would result in a tax lower than the tax which would be imposed in the absence of State or local tax.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §2128(a), substituted provisions setting a tax of 81/2 percent of the wholesale price, but not more than $20 per thousand, on cigars weighing more than 3 pounds per thousand for provisions setting the tax according to a graduated table running from $2.50 per thousand for large cigars if removed to retail at not more than 21/2 cents each to $20 per thousand if removed to retail at more than 20 centseach, and struck out provisions that, in determining the retail price, for tax purposes, regard be had to the ordinary retail price of a single cigar in its principal market, exclusive of any State or local taxes imposed on cigars as a commodity, and that, for purposes of that determination, the amount of State or local tax excluded from the retail price be the actual tax imposed, except that, if the combined taxes resulted in a numerical figure ending in a fraction of a cent, the amount so excluded would be rounded to the next highest full cent unless such rounding would result in a tax lower than the tax which would be imposed in the absence of State or local tax.
 
 Subsec. (e). Pub. L. 94–455, §1905(a)(24), inserted “, unless such import duties are imposed in lieu of internal revenue tax” after “such articles”.
 
-1968—Subsec. (a). Pub. L. 90–240 provided that the amount of State and local tax excluded from the retail price be the actual tax imposed, except that, if the combined taxes result in a numerical figure ending in a fraction of a cent, the amount so excluded be rounded to the next highest full cent unless such rounding would result in a tax lower than the tax which would be imposed in the absence of State and local taxes.
+<b>1968</b>—Subsec. (a). Pub. L. 90–240 provided that the amount of State and local tax excluded from the retail price be the actual tax imposed, except that, if the combined taxes result in a numerical figure ending in a fraction of a cent, the amount so excluded be rounded to the next highest full cent unless such rounding would result in a tax lower than the tax which would be imposed in the absence of State and local taxes.
 
-1965—Pub. L. 89–44, §502(a), struck out subsec. (a) relating to tobacco and redesignated subsecs. (b) to (f) as subsecs. (a) to (e), respectively.
+<b>1965</b>—Pub. L. 89–44, §502(a), struck out subsec. (a) relating to tobacco and redesignated subsecs. (b) to (f) as subsecs. (a) to (e), respectively.
 
 Subsec. (b)(1). Pub. L. 89–44, §501(f), removed the July 1, 1965, time limit for the $4 per thousand rate as well as the provision for imposition of a $3.50 rate on and after July 1, 1965.
 
-1964—Subsec. (c)(1). Pub. L. 88–348 substituted “July 1, 1965” for “July 1, 1964” in two places.
+<b>1964</b>—Subsec. (c)(1). Pub. L. 88–348 substituted “July 1, 1965” for “July 1, 1964” in two places.
 
-1963—Subsec. (c)(1). Pub. L. 88–52 substituted “July 1, 1964” for “July 1, 1963” in two places.
+<b>1963</b>—Subsec. (c)(1). Pub. L. 88–52 substituted “July 1, 1964” for “July 1, 1963” in two places.
 
-1962—Subsec. (c)(1). Pub. L. 87–508 substituted “July 1, 1963” for “July 1, 1962” in two places.
+<b>1962</b>—Subsec. (c)(1). Pub. L. 87–508 substituted “July 1, 1963” for “July 1, 1962” in two places.
 
-1961—Subsec. (c)(1). Pub. L. 87–72 substituted “July 1, 1962” for “July 1, 1961” in two places.
+<b>1961</b>—Subsec. (c)(1). Pub. L. 87–72 substituted “July 1, 1962” for “July 1, 1961” in two places.
 
-1960—Subsec. (b). Pub. L. 86–779 substituted “imposed on cigars as a commodity” for “imposed on the retail sales of cigars”.
+<b>1960</b>—Subsec. (b). Pub. L. 86–779 substituted “imposed on cigars as a commodity” for “imposed on the retail sales of cigars”.
 
 Subsec. (c)(1). Pub. L. 86–564 substituted “July 1, 1961” for “July 1, 1960” in two places.
 
-1959—Subsec. (c)(1). Pub. L. 86–75 substituted “July 1, 1960” for “July 1, 1959” in two places.
+<b>1959</b>—Subsec. (c)(1). Pub. L. 86–75 substituted “July 1, 1960” for “July 1, 1959” in two places.
 
-1958—Subsec. (b). Pub. L. 85–859 provided that in determining the retail price, for tax purposes, regard shall be had to the ordinary retail price of a single cigar in its principal market, exclusive of any State or local taxes imposed on the retail sale of cigars, and required cigars not exempt from tax under this chapter which are removed but not intended for sale to be taxed at the same rate as similar cigars removed for sale.
+<b>1958</b>—Subsec. (b). Pub. L. 85–859 provided that in determining the retail price, for tax purposes, regard shall be had to the ordinary retail price of a single cigar in its principal market, exclusive of any State or local taxes imposed on the retail sale of cigars, and required cigars not exempt from tax under this chapter which are removed but not intended for sale to be taxed at the same rate as similar cigars removed for sale.
 
 Subsec. (c)(1). Pub. L. 85–475 substituted “July 1, 1959” for “July 1, 1958” in two places.
 
@@ -166,13 +166,15 @@ Subsec. (d). Pub. L. 85–859 substituted “On each book or set of cigarette pa
 
 Subsec. (f). Pub. L. 85–859 substituted “imposed by this section on tobacco products and cigarette papers and tubes imported into the United States” for “imposed on articles by this section”.
 
-1957—Subsec. (c)(1). Pub. L. 85–12 substituted “July 1, 1958” for “April 1, 1957” in two places.
+<b>1957</b>—Subsec. (c)(1). Pub. L. 85–12 substituted “July 1, 1958” for “April 1, 1957” in two places.
 
-1956—Subsec. (c)(1). Act Mar. 29, 1956, substituted “April 1, 1957” for “April 1, 1956” in two places.
+<b>1956</b>—Subsec. (c)(1). Act Mar. 29, 1956, substituted “April 1, 1957” for “April 1, 1956” in two places.
 
-1955—Subsec. (c)(1). Act Mar. 30, 1955, substituted “April 1, 1956” for “April 1, 1955” in two places.
+<b>1955</b>—Subsec. (c)(1). Act Mar. 30, 1955, substituted “April 1, 1956” for “April 1, 1955” in two places.
 
 #### Effective Date of 2009 Amendment
+
+Except as otherwise provided, amendment by Pub. L. 111–3 effective Apr. 1, 2009, see section 3 of Pub. L. 111–3, set out as an Effective Date note under section 1396 of Title 42, The Public Health and Welfare.
 
 Pub. L. 111–3, title VII, §701(i), Feb. 4, 2009, 123 Stat. 108, provided that: “The amendments made by this section \[amending this section\] shall apply to articles removed (as defined in section 5702(j) of the Internal Revenue Code of 1986) after March 31, 2009.”
 
@@ -488,7 +490,7 @@ Method of payment.—The tax imposed by paragraph (1) shall be treated as a tax 
 
 &emsp;“(C)
 
-Treatment of pipe tobacco in foreign trade zones.—Notwithstanding the Act of June 18, 1934 (48 Stat. 998, 19 U.S.C. 81a) or any other provision of law, pipe tobacco which is located in a foreign trade zone on January 1, 1989, shall be subject to the tax imposed by paragraph (1) and shall be treated for purposes of this subsection as held on such date for sale if—
+Treatment of pipe tobacco in foreign trade zones.—Notwithstanding the Act of June 18, 1934 (48Stat. 998, 19 U.S.C. 81a) or any other provision of law, pipe tobacco which is located in a foreign trade zone on January 1, 1989, shall be subject to the tax imposed by paragraph (1) and shall be treated for purposes of this subsection as held on such date for sale if—
 
 &emsp;&emsp;“(i) internal revenue taxes have been determined, or customs duties liquidated, with respect to such pipe tobacco before such date pursuant to a request made under the first proviso of section 3(a) of such Act \[19 U.S.C. 81c(a)\], or
 

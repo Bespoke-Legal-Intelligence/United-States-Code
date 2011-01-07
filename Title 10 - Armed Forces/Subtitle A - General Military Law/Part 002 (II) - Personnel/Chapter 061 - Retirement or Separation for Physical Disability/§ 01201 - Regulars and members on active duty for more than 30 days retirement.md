@@ -2,7 +2,7 @@
 
 (a)
 
-Retirement.—Upon a determination by the Secretary concerned that a member described in subsection (c) is unfit to perform the duties of the member's office, grade, rank, or rating because of physical disability incurred while entitled to basic pay or while absent as described in subsection (c)(3), the Secretary may retire the member, with retired pay computed under section 1401 of this title, if the Secretary also makes the determinations with respect to the member and that disability specified in subsection (b).
+Retirement.—Upon a determination by the Secretary concerned that a member described insubsection (c) is unfit to perform the duties of the member's office, grade, rank, or rating because of physical disability incurred while entitled to basic pay or while absent as described in subsection (c)(3), the Secretary may retire the member, with retired pay computed under section 1401 of this title, if the Secretary also makes the determinations with respect to the member and that disability specified in subsection (b).
 
 (b)
 
@@ -92,27 +92,27 @@ The changes correct typographical errors.
 
 #### Amendments
 
-2008—Subsec. (b)(3)(B)(i). Pub. L. 110–417 struck out “the member has six months or more of active military service and” before “the disability was not noted” and substituted “(unless clear and unmistakable evidence demonstrates that the disability existed before the member's entrance on active duty and was not aggravated by active military service)” for “(unless compelling evidence or medical judgment is such to warrant a finding that the disability existed before the member's entrance on active duty)”.
+<b>2008</b>—Subsec. (b)(3)(B)(i). Pub. L. 110–417 struck out “the member has six months or more of active military service and” before “the disability was not noted” and substituted “(unless clear and unmistakable evidence demonstrates that the disability existed before the member's entrance on active duty and was not aggravated by active military service)” for “(unless compelling evidence or medical judgment is such to warrant a finding that the disability existed before the member's entrance on active duty)”.
 
 Pub. L. 110–181 amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the member has at least eight years of service computed under section 1208 of this title;”.
 
-1996—Pub. L. 104–201 added subsecs. (a) and (c), designated existing provisions as subsec. (b), and substituted introductory provisions of subsec. (b) for “Upon a determination by the Secretary concerned that a member of a regular component of the armed forces entitled to basic pay, or any other member of the armed forces entitled to basic pay who has been called or ordered to active duty (other than for training under section 10148(a) of this title) for a period of more than 30 days, is unfit to perform the duties of his office, grade, rank, or rating because of physical disability incurred while entitled to basic pay, the Secretary may retire the member, with retired pay computed under section 1401 of this title, if the Secretary also determines that—”.
+<b>1996</b>—Pub. L. 104–201 added subsecs. (a) and (c), designated existing provisions as subsec. (b), and substituted introductory provisions of subsec. (b) for “Upon a determination by the Secretary concerned that a member of a regular component of the armedforces entitled to basic pay, or any other member of the armed forces entitled to basic pay who has been called or ordered to active duty (other than for training under section 10148(a) of this title) for a period of more than 30 days, is unfit to perform the duties of his office, grade, rank, or rating because of physical disability incurred while entitled to basic pay, the Secretary may retire the member, with retired pay computed under section 1401 of this title, if the Secretary also determines that—”.
 
-1994—Pub. L. 103–337 substituted “10148(a)” for “270(b)” in introductory provisions.
+<b>1994</b>—Pub. L. 103–337 substituted “10148(a)” for “270(b)” in introductory provisions.
 
-1989—Par. (3)(B). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1989</b>—Par. (3)(B). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1985—Par. (1). Pub. L. 99–145 inserted “and stable” after “permanent nature”.
+<b>1985</b>—Par. (1). Pub. L. 99–145 inserted “and stable” after “permanent nature”.
 
-1980—Par. (3)(B)(iv). Pub. L. 96–513 substituted “after September 14, 1978” for “during the period beginning on September 15, 1978, and ending on September 30, 1982, except that the condition provided for in this item shall not be effective during such period unless the President determines that such condition should be effective during such period and issues an Executive order to that effect”.
+<b>1980</b>—Par. (3)(B)(iv). Pub. L. 96–513 substituted “after September 14, 1978” for “during the period beginning on September 15, 1978, and ending on September 30, 1982, except that the condition provided for in this item shall not be effective during such period unless the President determines that such condition should be effective during such period and issues an Executive order to that effect”.
 
 Pub. L. 96–343 added cl. (iv).
 
-1978—Par. (3)(B)(iv). Pub. L. 95–377 added cl. (iv) which provided additional condition, effective on Presidential determination, that the disability was incurred in the line of duty during Sept. 15, 1978, through Sept. 30, 1979, and which terminated on Sept. 30, 1979. See Effective and Termination Dates of 1978 Amendment note set out under this section.
+<b>1978</b>—Par. (3)(B)(iv). Pub. L. 95–377 added cl. (iv) which provided additional condition, effective on Presidential determination, that the disability was incurred in the line of duty during Sept. 15, 1978, through Sept. 30, 1979, and which terminated on Sept. 30, 1979. See Effective and Termination Dates of 1978 Amendment note set out under this section.
 
-1962—Pub. L. 87–651 substituted “training under section 270(b) of this title)” for “training) under section 270(b) of this title”.
+<b>1962</b>—Pub. L. 87–651 substituted “training under section 270(b) of this title)” for “training) under section 270(b) of this title”.
 
-1958—Pub. L. 85–861 inserted “under section 270(b) of this title” after “(other than for training)”.
+<b>1958</b>—Pub. L. 85–861 inserted “under section 270(b) of this title” after “(other than for training)”.
 
 #### Effective Date of 1996 Amendment
 

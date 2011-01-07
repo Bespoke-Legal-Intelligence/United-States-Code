@@ -88,7 +88,7 @@ At the election of a domestic stock life insurance company which has a contiguou
 
 #### Amendments
 
-1997—Subsec. (h). Pub. L. 105–34 struck out “or 1491” after “section 367”.
+<b>1997</b>—Subsec. (h). Pub. L. 105–34 struck out “or 1491” after “section 367”.
 
 #### New Section 814 Treated as Continuation of Section 819A
 

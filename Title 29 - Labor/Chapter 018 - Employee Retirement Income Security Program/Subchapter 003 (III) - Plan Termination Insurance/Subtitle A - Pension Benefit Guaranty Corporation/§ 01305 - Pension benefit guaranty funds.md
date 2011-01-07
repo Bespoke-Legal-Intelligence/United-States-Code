@@ -28,7 +28,7 @@ There are established on the books of the Treasury of the United States for revo
 
 &emsp;(B) to purchase assets from a plan being terminated by the corporation when the corporation determines such purchase will best protect the interests of the corporation, participants in the plan being terminated, and other insured plans,
 
-&emsp;(C) to repay to the Secretary of the Treasury such sums as may be borrowed (together withinterest thereon) under subsection (c) of this section,
+&emsp;(C) to repay to the Secretary of the Treasury such sums as may be borrowed (together with interest thereon) under subsection (c) of this section,
 
 &emsp;(D) to pay the operational and administrative expenses of the corporation, including reimbursement of the expenses incurred by the Department of the Treasury in maintaining the funds, and the Comptroller General in auditing the corporation, and
 
@@ -90,7 +90,7 @@ The corporation is authorized to issue to the Secretary of the Treasury notes or
 
 (1) Amounts in any fund established under this section may be used only for the purposes for which such fund was established and may not be used to make loans to (or on behalf of) any other fund or to finance any other activity of the corporation.
 
-(2) None of the funds borrowed under subsection (c) of this section may be used to makeloans to (or on behalf of) any fund other than a fund described in the second sentence of subsection (a) of this section.
+(2) None of the funds borrowed under subsection (c) of this section may be used to make loans to (or on behalf of) any fund other than a fund described in the second sentence of subsection (a) of this section.
 
 (3) Any repayment to the corporation of any amount paid out of any fund in connection with a multiemployer plan shall be deposited in such fund.
 
@@ -106,9 +106,9 @@ In subsec. (c), “chapter 31 of title 31” and “that chapter” substituted 
 
 #### Amendments
 
-1994—Subsec. (b)(2)(A). Pub. L. 103–465, which directed the amendment of subpar. (A) by inserting “or benefits payable under section 1350 of this title” after “section 1322a of this title”, was executed by making the insertion after “section 1322 or 1322a of this title” to reflect the probable intent of Congress.
+<b>1994</b>—Subsec. (b)(2)(A). Pub. L. 103–465, which directed the amendment of subpar. (A) by inserting “or benefits payable under section 1350 of this title” after “section 1322a of this title”, was executed by making the insertion after “section 1322 or 1322a of this title” to reflect the probable intent of Congress.
 
-1987—Subsec. (f). Pub. L. 100–203, §9331(d), added subsec. (f). Former subsec. (f) redesignated (g).
+<b>1987</b>—Subsec. (f). Pub. L. 100–203, §9331(d), added subsec. (f). Former subsec. (f) redesignated (g).
 
 Subsec. (g). Pub. L. 100–203, §9331(d), redesignated former subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
@@ -116,13 +116,13 @@ Pub. L. 100–203, §9312(c)(4), struck out “or fiduciaries with respect to tr
 
 Subsec. (h). Pub. L. 100–203, §9331(d), redesignated former subsec. (g) as (h).
 
-1986—Subsec. (b)(1)(F), (G). Pub. L. 99–272, §11016(a)(2), added subpar. (F) and redesignated former subpar. (F) as (G).
+<b>1986</b>—Subsec. (b)(1)(F), (G). Pub. L. 99–272, §11016(a)(2), added subpar. (F) and redesignated former subpar. (F) as (G).
 
 Subsec. (b)(2)(E). Pub. L. 99–272, §11016(a)(1), added subpar. (E).
 
 Subsec. (g). Pub. L. 99–272, §11016(c)(7), added subsec. (g).
 
-1980—Subsec. (a). Pub. L. 96–364, §403(a)(1), substituted provisions respecting benefits guaranteed under sections 1322 and 1322a of this title, for provisions respecting benefits guaranteed under sections 1322 and 1323 of this title.
+<b>1980</b>—Subsec. (a). Pub. L. 96–364, §403(a)(1), substituted provisions respecting benefits guaranteed under sections 1322 and 1322a of this title, for provisions respecting benefits guaranteed under sections 1322 and 1323 of this title.
 
 Subsec. (b)(2). Pub. L. 96–364, §403(a)(2), (3), in subpar. (A) inserted reference to section 1322a of this title, struck out subpar. (B) relating to payments under section 1323 of this title, and redesignated former subpars. (C) to (E) as (B) to (D), respectively.
 

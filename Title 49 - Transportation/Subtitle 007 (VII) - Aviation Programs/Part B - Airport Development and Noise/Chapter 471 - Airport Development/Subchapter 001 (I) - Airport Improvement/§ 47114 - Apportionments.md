@@ -120,7 +120,7 @@ Population.—The term “population” means the population stated in the lates
 
 &emsp;(2)
 
-Apportionment.—Except as provided in paragraph (3), the Secretary shall apportion to the States 18.5 percent of the amount subject to apportionment for each fiscal year as follows:
+Apportionment.—Except as provided in paragraph (3), the Secretary shall apportion to the States 18.5 percent of the amount subjectto apportionment for each fiscal year as follows:
 
 &emsp;&emsp;(A) 0.66 percent of the apportioned amount to Guam, American Samoa, the Northern Mariana Islands, and the Virgin Islands.
 
@@ -200,7 +200,7 @@ Reducing Apportionments.—
 
 &emsp;(1)
 
-In general.—Subject to paragraph (3), an amount that would be apportioned under this section (except subsection (c)(2)) in a fiscal year to the sponsor of an airport having at least .25 percent of the total number of boardings each year in the United States and for which a fee is imposed in the fiscal year under section 40117 of this title shall be reduced by an amount equal to—
+In general.—Subject to paragraph (3), an amount that would be apportioned under this section (except subsection (c)(2)) in a fiscal year to the sponsor of an airport having at least .25 percent of the total number of boardings each year in the United States and for which a fee is imposed in the fiscal year undersection 40117 of this title shall be reduced by an amount equal to—
 
 &emsp;&emsp;(A) in the case of a fee of $3.00 or less, 50 percent of the projected revenues from the fee in the fiscal year but not by more than 50 percent of the amount that otherwise would be apportioned under this section; and
 
@@ -319,7 +319,7 @@ Revision notes for 49:47114(c)(3)(A) are included to reflect changes made for cl
 | 47114(c) (1)(B) | 49 App.:2206(b)(1). | Sept. 3, 1982, Pub. L. 97–248, §507(b)(1), as amended May 26, 1994, Pub. L. 103–260, §103, 108 Stat. 698. |
 | 47114(c) (3)(B) | 49 App.:2206(b)(3). | Sept. 3, 1982, Pub. L. 97–248, §507(b)(3), as amended May 26, 1994, Pub. L. 103–260, §102, 108 Stat. 698. |
 
-In subsection (c)(3)(A) and (B), the words “If this subparagraph requires reduction of an amount that otherwise would be apportioned under this subsection” are substituted for “In any case in which apportionments in a fiscal year would be reduced by subparagraph (A)” for clarity.
+In subsection (c)(3)(A) and (B), the words “If this subparagraph requires reduction of an amount that otherwise would be apportioned under this subsection” aresubstituted for “In any case in which apportionments in a fiscal year would be reduced by subparagraph (A)” for clarity.
 
 In subsection (c)(3)(A), the words “Except as provided in subparagraph (B) of this paragraph” are added for clarity. The words “the total of all amounts apportioned under paragraphs (1) and (2) of this subsection may not be more than 49.5 percent of the amount subject to apportionment for a fiscal year” are substituted for 49 App.:2206(b)(2)(A), as in effect on July 4, 1994, for clarity and to eliminate unnecessary words.
 
@@ -331,9 +331,9 @@ Section 15(a) of the Airport and Airway Development Act of 1970, referred to in 
 
 #### Amendments
 
-2005—Subsec. (c)(1)(G). Pub. L. 109–115 added subpar. (G).
+<b>2005</b>—Subsec. (c)(1)(G). Pub. L. 109–115 added subpar. (G).
 
-2003—Subsec. (c)(1)(F). Pub. L. 108–176, §146(a), added subpar. (F).
+<b>2003</b>—Subsec. (c)(1)(F). Pub. L. 108–176, §146(a), added subpar. (F).
 
 Subsec. (c)(2). Pub. L. 108–176, §147(1), struck out “
 
@@ -351,7 +351,7 @@ airorts” in heading.
 
 Subsec. (f)(3)(B). Pub. L. 108–176, §146(b)(2), substituted “fiscal year 2004” for “fiscal years 2000 through 2003”.
 
-2000—Subsec. (c)(1). Pub. L. 106–181, §104(a)(2)(A), (C), inserted headings for par. (1) and subpar. (A) and realigned margins.
+<b>2000</b>—Subsec. (c)(1). Pub. L. 106–181, §104(a)(2)(A), (C), inserted headings for par. (1) and subpar. (A) and realigned margins.
 
 Subsec. (c)(1)(B). Pub. L. 106–181, §104(a)(1)(A), (2)(B), (C), inserted heading, substituted “$650,000” for “$500,000”, and realigned margins.
 
@@ -373,7 +373,7 @@ Subsec. (e)(3), (4). Pub. L. 106–181, §104(d)(4), added pars. (3) and (4) and
 
 Subsec. (f). Pub. L. 106–181, §105(c), designated existing provisions as par. (1), inserted heading, realigned margins, substituted “Subject to paragraph (3), an amount” for “An amount” and “an amount equal to—” and subpars. (A) and (B) for “an amount equal to 50 percent of the projected revenues from the fee in the fiscal year but not by more than 50 percent of the amount that otherwise would be apportioned under this section.”, and added pars. (2) and (3).
 
-1996—Subsec. (c)(1)(A)(iv). Pub. L. 104–264, §121(a)(1)(B), substituted “of the next 500,000 passenger boardings” for “additional passenger boarding”.
+<b>1996</b>—Subsec. (c)(1)(A)(iv). Pub. L. 104–264, §121(a)(1)(B), substituted “of the next 500,000 passenger boardings” for “additional passenger boarding”.
 
 Subsec. (c)(1)(A)(v). Pub. L. 104–264, §121(a)(1)(A), (C), (D), added cl. (v).
 
@@ -395,9 +395,9 @@ Subsec. (d)(2)(A). Pub. L. 104–264, §121(b)(2), substituted “0.66” for �
 
 Subsec. (d)(2)(B), (C). Pub. L. 104–264, §121(b)(3), (4), substituted “49.67” for “49.5” and “excluding primary airports but including reliever and nonprimary commercial service airports,” for “except primary airports and airports described in section 47117(e)(1)(C) of this title,”.
 
-1994—Subsec. (c)(1)(B). Pub. L. 103–429, §6(66)(A), substituted “$500,000” for “$400,000”.
+<b>1994</b>—Subsec. (c)(1)(B). Pub. L. 103–429, §6(66)(A), substituted “$500,000” for “$400,000”.
 
-Subsec. (c)(3). Pub. L. 103–429, §6(66)(B), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B) of this paragraph, the”for “The”, “49.5” for “44” in two places, and “If this subparagraph” for “If this paragraph”, and added subpar. (B).
+Subsec. (c)(3). Pub. L. 103–429, §6(66)(B), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B) of this paragraph, the” for “The”, “49.5” for “44” in two places, and “If this subparagraph” for “If this paragraph”, and added subpar. (B).
 
 #### Effective Date of 2003 Amendment
 
@@ -405,7 +405,7 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1996 Amendment
 

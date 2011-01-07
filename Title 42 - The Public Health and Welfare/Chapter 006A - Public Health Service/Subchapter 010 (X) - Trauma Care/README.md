@@ -12,3 +12,4 @@
 - [Part E - Miscellaneous Programs](Part%20E%20-%20Miscellaneous%20Programs/README.md)
 - [Part F - Interagency Program for Trauma Research](Part%20F%20-%20Interagency%20Program%20for%20Trauma%20Research/README.md)
 - [Part G - Poison Control](Part%20G%20-%20Poison%20Control/README.md)
+- [Part H - Trauma Service Availability](Part%20H%20-%20Trauma%20Service%20Availability/README.md)

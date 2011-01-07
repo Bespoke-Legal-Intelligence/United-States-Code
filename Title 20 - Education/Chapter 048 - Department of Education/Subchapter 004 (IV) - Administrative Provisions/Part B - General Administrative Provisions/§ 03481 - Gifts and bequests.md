@@ -6,5 +6,5 @@ The Secretary is authorized to accept, hold, administer, and utilize gifts, bequ
 
 #### Amendments
 
-1994—Pub. L. 103–382 inserted “and to accept donations of services,” after “personal,”.
+<b>1994</b>—Pub. L. 103–382 inserted “and to accept donations of services,” after “personal,”.
 

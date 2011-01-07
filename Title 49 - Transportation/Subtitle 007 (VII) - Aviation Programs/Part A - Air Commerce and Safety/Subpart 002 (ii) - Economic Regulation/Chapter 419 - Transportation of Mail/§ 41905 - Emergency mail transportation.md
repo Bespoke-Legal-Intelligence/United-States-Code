@@ -40,7 +40,7 @@ A prior section 41905, Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1155, 
 
 #### Amendments
 
-2008—Pub. L. 110–405 renumbered section 41906 of this title as this section.
+<b>2008</b>—Pub. L. 110–405 renumbered section 41906 of this title as this section.
 
 #### Effective Date of 2008 Amendment
 

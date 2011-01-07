@@ -28,9 +28,9 @@ A prior section 2601 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-2009—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-2006—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+<b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
 Subsec. (a). Pub. L. 109–415, §702(1), substituted “AIDS” for “acquired immune deficiency syndrome”.
 
@@ -40,7 +40,7 @@ Pub. L. 109–415, §101(b), substituted “through (c)” for “through (d)”
 
 Subsecs. (b) to (d). Pub. L. 109–415, §§101(a), 107(b), added subsecs. (b) and (c), substituted “this subpart” for “this part” in subsec. (c) wherever appearing, and struck out former subsecs. (b) to (d) which related to requirement regarding confirmation of cases, requirements regarding population, and continued status as eligible area, respectively.
 
-1996—Subsec. (a). Pub. L. 104–146, §12(c)(1), inserted “section” before “300ff–14”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–146, §12(c)(1), inserted “section” before “300ff–14”.
 
 Pub. L. 104–146, §3(a)(1)(B), substituted “metropolitan area for which there has been reported to the Director of the Centers for Disease Control and Prevention a cumulative total of more than 2,000 cases of acquired immune deficiency syndrome for the most recent period of 5 calendar years for which such data are available.” for “metropolitan area for which, as of June 30, 1990, in the case of grants for fiscal year 1991, and as of March 31 of the most recent fiscal year for which such data is available in the case of a grant for any subsequent fiscal year—
 
@@ -52,7 +52,7 @@ Pub. L. 104–146, §3(a)(1)(A), substituted “subject to subsections (b) throu
 
 Subsecs. (c), (d). Pub. L. 104–146, §3(a)(2), added subsecs. (c) and (d).
 
-1992—Subsecs. (a)(1), (b). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Subsecs. (a)(1), (b). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

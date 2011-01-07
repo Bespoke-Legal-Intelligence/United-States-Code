@@ -22,11 +22,11 @@ In any case in which a tax is required to be paid on or before a certain date, o
 
 #### Amendments
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 Subsec. (a). Pub. L. 94–452 substituted “subchapter,” for “section,”.
 
-1966—Subsec. (a). Pub. L. 89–713 substituted the revenue officer with whom the return is filed for the principal internal revenue officer for the internal revenue district in which the return is required to be filed as the description of the person to whom the tax is paid.
+<b>1966</b>—Subsec. (a). Pub. L. 89–713 substituted the revenue officer with whom the return is filed for the principal internal revenue officer for the internal revenue district in which the return is required to be filed as the description of the person to whom the tax is paid.
 
 #### Effective Date of 1976 Amendment
 

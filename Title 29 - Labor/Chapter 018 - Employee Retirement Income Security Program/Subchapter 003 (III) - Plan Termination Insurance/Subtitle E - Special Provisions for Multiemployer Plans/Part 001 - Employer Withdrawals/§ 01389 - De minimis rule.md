@@ -4,7 +4,7 @@
 
 Except in the case of a plan amended under subsection (b) of this section, the amount of the unfunded vested benefits allocable under section 1391 of this title to an employer who withdraws from a plan shall be reduced by the smaller of—
 
-&emsp;(1) 3/4 of 1 percent of the plan's unfunded vested obligations (determined as of the end of the plan year ending before the date of withdrawal), or
+&emsp;(1) ¾ of 1 percent of the plan's unfunded vested obligations (determined as of the end of the plan year ending before the date of withdrawal), or
 
 &emsp;(2) $50,000,
 

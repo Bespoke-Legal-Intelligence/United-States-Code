@@ -64,13 +64,13 @@ Section 3(6) of the Magnuson Act, referred to in par. (6), was redesignated sect
 
 #### Amendments
 
-1997—Pub. L. 105–146 amended section catchline and text generally, substituting present provisions for provisions which defined the terms “Magnuson Act” in par. (1), “Atlantic striped bass” in par. (2), “coastal waters” in par. (3), “coastal State” in par. (4), “Commission” in par. (5), “fishing” in par. (6), “Plan” in par. (7), “Secretary” in par. (8), and “Secretaries” in par. (9).
+<b>1997</b>—Pub. L. 105–146 amended section catchline and text generally, substituting present provisions for provisions which defined the terms “Magnuson Act” in par. (1), “Atlantic striped bass” in par. (2), “coastal waters” in par. (3), “coastal State” in par. (4), “Commission” in par. (5), “fishing” in par. (6), “Plan” in par. (7), “Secretary” in par. (8), and “Secretaries” in par. (9).
 
-1996—Par. (1). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+<b>1996</b>—Par. (1). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
-1988—Par. (1). Pub. L. 100–589 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘Act of 1976’ means the Act entitled ‘An Act to provide for the conservation and management of the fisheries, and for other purposes’, approved April 13, 1976 (16 U.S.C. 1801 et seq.).”
+<b>1988</b>—Par. (1). Pub. L. 100–589 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘Act of 1976’ means the Act entitled ‘An Act toprovide for the conservation and management of the fisheries, and for other purposes’, approved April 13, 1976 (16 U.S.C. 1801 et seq.).”
 
-1986—Pars. (2) to (4). Pub. L. 99–432 amended pars. (2) to (4) generally. Prior to amendment, pars. (2) to (4) read as follows:
+<b>1986</b>—Pars. (2) to (4). Pub. L. 99–432 amended pars. (2) to (4) generally. Prior to amendment, pars. (2) to (4) read as follows:
 
 “(2) The term ‘Atlantic striped bass’ means members of stocks or populations of the species Morone saxatilis, which ordinarily migrate seaward of the waters described in paragraph (3)(A).
 

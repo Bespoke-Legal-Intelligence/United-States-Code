@@ -18,5 +18,5 @@ A prior section 2991e, Pub. L. 88–452, title VIII, §806, as added Pub. L. 89�
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–375 substituted “Commissioner” for “Secretary” in two places.
+<b>1992</b>—Subsec. (a). Pub. L. 102–375 substituted “Commissioner” for “Secretary” in two places.
 

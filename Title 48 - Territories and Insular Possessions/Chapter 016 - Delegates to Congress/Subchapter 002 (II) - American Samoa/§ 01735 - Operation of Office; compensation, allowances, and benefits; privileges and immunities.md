@@ -6,7 +6,7 @@ Until the Rules of the House of Representatives are amended to provide otherwise
 
 #### Amendments
 
-1982—Pub. L. 97–357 struck out proviso limiting clerk hire allowance for Delegate from American Samoa to 50 per centum of clerk hire allowance of a Member of House of Representatives.
+<b>1982</b>—Pub. L. 97–357 struck out proviso limiting clerk hire allowance for Delegate from American Samoa to 50 per centum of clerk hire allowance of a Member of House of Representatives.
 
 #### Effective Date of 1982 Amendment
 

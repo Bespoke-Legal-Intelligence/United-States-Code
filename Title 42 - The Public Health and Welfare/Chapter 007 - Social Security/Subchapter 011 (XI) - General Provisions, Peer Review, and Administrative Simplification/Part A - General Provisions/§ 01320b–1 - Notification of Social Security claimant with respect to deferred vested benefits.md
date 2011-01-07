@@ -32,7 +32,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (a)(3)(A), is classifi
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–296, §108(b)(11)(A), (G), in closing provisions substituted “the Commissioner of Social Security shall transmit” for “he shall transmit”, “paragraph (1) or (2)” for “paragraph (1)”, “paragraph (3)” for “paragraph (2)”, “Commissioner of Social Security pursuant to” for “Secretary pursuant to”, and “paragraph (1), (2), or (3)(A)” for “paragraph (1) or (2)(A)”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–296, §108(b)(11)(A), (G), in closing provisions substituted “the Commissioner of Social Security shall transmit” for “he shall transmit”, “paragraph (1) or (2)” for “paragraph (1)”, “paragraph (3)” for “paragraph (2)”, “Commissioner of Social Security pursuant to” for “Secretary pursuant to”, and “paragraph (1), (2), or (3)(A)” for “paragraph (1) or (2)(A)”.
 
 Subsec. (a)(1). Pub. L. 103–296, §108(b)(11)(A)–(D), substituted “Commissioner of Social Security” for “Secretary” in introductory provisions, inserted “or” at end of subpar. (A), struck out “or” at end of subpar. (B), and struck out subpar. (C) which read as follows: “the entitlement under section 426 of this title of any individual to hospital insurance benefits under part A of subchapter XVIII of this chapter, or”.
 
@@ -42,9 +42,9 @@ Subsec. (a)(3). Pub. L. 103–296, §108(b)(11)(A), (E), redesignated par. (2) a
 
 Subsec. (b)(2). Pub. L. 103–296, §108(b)(11)(A), substituted “Commissioner of Social Security” for “Secretary”.
 
-1986—Subsec. (a)(2)(A). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (a)(2)(A). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1984—Subsec. (a). Pub. L. 98–369, §2663(e)(7)(B), realigned margin of provisions following par. (2)(B).
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §2663(e)(7)(B), realigned margin of provisions following par. (2)(B).
 
 Subsec. (a)(2)(B). Pub. L. 98–369, §2663(e)(7)(A), substituted a comma for the period after “section 404(d) of this title”.
 

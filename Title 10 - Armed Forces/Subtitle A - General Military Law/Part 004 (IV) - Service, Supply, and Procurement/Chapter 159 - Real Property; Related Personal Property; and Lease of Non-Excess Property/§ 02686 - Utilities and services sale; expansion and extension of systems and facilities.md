@@ -90,9 +90,9 @@ A prior section 2686, added Pub. L. 95–82, title V, §504(a)(1), Aug. 1, 1977,
 
 #### Amendments
 
-1997—Pub. L. 105–85 renumbered section 2481 of this title as this section.
+<b>1997</b>—Pub. L. 105–85 renumbered section 2481 of this title as this section.
 
-1959—Subsec. (a). Pub. L. 86–156, §1(1), substituted “concerned” for “of a military department” and inserted “or Coast Guard,” after “Marine Corps,”.
+<b>1959</b>—Subsec. (a). Pub. L. 86–156, §1(1), substituted “concerned” for “of a military department” and inserted “or Coast Guard,” after “Marine Corps,”.
 
 Subsec. (c). Pub. L. 86–156, §1(2), struck out “of the military department” after “Secretary”.
 

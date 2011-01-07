@@ -98,15 +98,15 @@ In subsection (f), the words “a member who holds, or has held” are substitut
 
 #### Amendments
 
-2006—Pub. L. 109–364 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to composition of the United States Marine Band, designation of its director and assistant directors, grades upon initial appointment, promotion, retirement, and revocation of appointments.
+<b>2006</b>—Pub. L. 109–364 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to composition of the United States Marine Band, designation of its director and assistant directors, grades upon initial appointment, promotion, retirement, and revocation of appointments.
 
-1980—Subsecs. (e) to (g). Pub. L. 96–513 redesignated subsecs. (f) and (g) as (e) and (f), respectively.
+<b>1980</b>—Subsecs. (e) to (g). Pub. L. 96–513 redesignated subsecs. (f) and (g) as (e) and (f), respectively.
 
-1970—Subsec. (d). Pub. L. 91–197 struck out provision that the grade of the director be no higher than lieutenant colonel and that the grades of the assistant directors be no higher than captain.
+<b>1970</b>—Subsec. (d). Pub. L. 91–197 struck out provision that the grade of the director be no higher than lieutenant colonel and that the grades of the assistant directors be no higher than captain.
 
-1962—Subsec. (e). Pub. L. 87–649 repealed subsec. (e) which related to pay and allowances of members who accepted a commission under this section. See sections 207 and 424 of Title 37, Pay and Allowances of the Uniformed Services.
+<b>1962</b>—Subsec. (e). Pub. L. 87–649 repealed subsec. (e) which related to pay and allowances of members who accepted a commission under this section. See sections 207 and 424 of Title 37, Pay and Allowances of the Uniformed Services.
 
-1958—Pub. L. 85–861 substituted “United States Marine Band” for “United States Marine Corps Band”, and “director; assistant director” for “pay and allowances of leader and second leader” in section catchline.
+<b>1958</b>—Pub. L. 85–861 substituted “United States Marine Band” for “United States Marine Corps Band”, and “director; assistant director” for “pay and allowances of leader and second leader” in section catchline.
 
 Subsec. (a). Pub. L. 85–861 authorized one director and two assistant directors instead of one leader and one second leader.
 

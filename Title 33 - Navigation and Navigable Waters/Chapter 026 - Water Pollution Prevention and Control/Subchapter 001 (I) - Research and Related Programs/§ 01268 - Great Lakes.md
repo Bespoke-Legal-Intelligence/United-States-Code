@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(B) “Great Lakes” means Lake Ontario, Lake Erie, Lake Huron (including Lake St. Clair), Lake Michigan, and Lake Superior, and the connecting channels (Saint Mary's River, Saint Clair River, Detroit River, Niagara River, and Saint Lawrence River to the Canadian Border);
 
-&emsp;&emsp;(C) “Great Lakes System” means all the streams, rivers, lakes, and other bodies of water within the drainage basin of the Great Lakes;
+&emsp;&emsp;(C) “Great Lakes System” means all the streams, rivers, lakes, and other bodies ofwater within the drainage basin of the Great Lakes;
 
 &emsp;&emsp;(D) “Program Office” means the Great Lakes National Program Office established by this section;
 
@@ -74,7 +74,7 @@ The Great Lakes National Program Office (previously established by the Administr
 
 #### (3) Remedial Action Plans
 
-&emsp;(A) For each area of concern for which the United States has agreed to draft a Remedial Action Plan, the Program Office shall ensure that the Great Lakes State in which such area of concern is located—
+&emsp;(A) For each area of concern for which the United States has agreed to draft a RemedialAction Plan, the Program Office shall ensure that the Great Lakes State in which such area of concern is located—
 
 &emsp;&emsp;(i) submits a Remedial Action Plan to the Program Office by June 30, 1991;
 
@@ -160,7 +160,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 &emsp;&emsp;&emsp;(i) show by categories (including judicial enforcement, research, State cooperative efforts, and general administration) the amount anticipated to be expended on Great Lakes water quality initiatives in the fiscal year to which the assessment relates; and
 
-&emsp;&emsp;&emsp;(ii) include a report of current programs administered by other Federal agencieswhich make available resources to the Great Lakes water quality management efforts.
+&emsp;&emsp;&emsp;(ii) include a report of current programs administered by other Federal agencies which make available resources to the Great Lakes water quality management efforts.
 
 #### (11) Confined disposal facilities
 
@@ -240,7 +240,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (III) Work performed before project agreement
 
-&emsp;&emsp;&emsp;&emsp;In any case in which a non-Federal sponsor is to receive credit under subclause (II) for the cost of work carried out by the non-Federal sponsor and such work has not been carried out by the non-Federal sponsor as of October 8, 2008, the Administrator and the non-Federal sponsor shall enter into an agreement under which the non-Federal sponsorshall carry out such work, and only work carried out following the execution of the agreement shall be eligible for credit.
+&emsp;&emsp;&emsp;&emsp;In any case in which a non-Federal sponsor is to receive credit under subclause (II) for the cost of work carried out by the non-Federal sponsor and such work has not been carried out by the non-Federal sponsor as of October 8, 2008, the Administrator and the non-Federal sponsor shall enter into an agreement under which the non-Federal sponsor shall carry out such work, and only work carried out following the execution of the agreement shall be eligible for credit.
 
 #### (IV) Limitation
 
@@ -362,7 +362,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (f) Interagency cooperation
 
-The head of each department, agency, or other instrumentality of the Federal Government which is engaged in, is concerned with, or has authority over programs relating to research, monitoring, and planning to maintain, enhance, preserve, or rehabilitate the environmental quality and natural resources of the Great Lakes, including the Chief of Engineers of the Army, the Chief of the Soil Conservation Service, the Commandant of the Coast Guard, the Director of the Fish and Wildlife Service, and the Administrator of the National Oceanic and Atmospheric Administration, shall submit an annual report to the Administrator with respect to the activities of that agency or office affecting compliance with the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,.<sup>3</sup>
+The head of each department, agency, or other instrumentality of the Federal Government which is engaged in, is concerned with, or has authority over programs relating to research, monitoring, and planning to maintain, enhance, preserve, or rehabilitate the environmentalquality and natural resources of the Great Lakes, including the Chief of Engineers of the Army, the Chief of the Soil Conservation Service, the Commandant of the Coast Guard, the Director of the Fish and Wildlife Service, and the Administrator of the National Oceanic and Atmospheric Administration, shall submit an annual report to the Administrator with respect to the activities of that agency or office affecting compliance with the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,.<sup>3</sup>
 
 #### (g) Relationship to existing Federal and State laws and international treaties
 
@@ -390,7 +390,7 @@ November 16, 1990, referred to in subsec. (c)(3)(C), (7)(C), was in the original
 
 #### Amendments
 
-2008—Subsec. (a)(3)(K), (L). Pub. L. 110–365, §2, added subpars. (K) and (L).
+<b>2008</b>—Subsec. (a)(3)(K), (L). Pub. L. 110–365, §2, added subpars. (K) and (L).
 
 Subsec. (c)(12)(B)(ii). Pub. L. 110–365, §3(a), substituted “sediment, including activities to restore aquatic habitat that are carried out in conjunction with a project for the remediation of contaminated sediment” for “sediment”.
 
@@ -414,7 +414,7 @@ Subsec. (c)(12)(H)(iii). Pub. L. 110–365, §3(f)(2), added cl. (iii).
 
 Subsec. (c)(13)(B). Pub. L. 110–365, §3(g), substituted “2010” for “2008”.
 
-2002—Subsec. (c)(3)(E). Pub. L. 107–303, §102, added subpar. (E).
+<b>2002</b>—Subsec. (c)(3)(E). Pub. L. 107–303, §102, added subpar. (E).
 
 Subsec. (c)(12), (13). Pub. L. 107–303, §103, added pars. (12) and (13).
 
@@ -428,7 +428,7 @@ Subsec. (h). Pub. L. 107–303, §105, substituted “not to exceed—” for �
 
 &emsp;“(3) 30 percent or $3,300,000, whichever is the lesser, shall be transferred to the National Oceanic and Atmospheric Administration for use by the Great Lakes Research Office.”
 
-1990—Subsec. (a)(3)(F) to (J). Pub. L. 101–596, §103, added subpars. (F) to (J).
+<b>1990</b>—Subsec. (a)(3)(F) to (J). Pub. L. 101–596, §103, added subpars. (F) to (J).
 
 Subsec. (c)(2) to (11). Pub. L. 101–596, §§101, 102, 104, added pars. (2) to (5) after par. (1) and renumbered existing paragraphs accordingly, which was executed by renumbering pars. (2) to (6) as (6) to (10), respectively, redesignated existing provisions of par. (7) as subpar. (A) and added subpars. (B) and (C), and added par. (11).
 
@@ -436,11 +436,11 @@ Subsec. (e)(3). Pub. L. 101–596, §106, added par. (3).
 
 Subsec. (h). Pub. L. 101–596, §105, substituted “and 1990, and $25,000,000 for fiscal year 1991” for “1990, and 1991” in introductory provisions and inserted “or $3,300,000, whichever is the lesser,” after “30 percent” in par. (3).
 
-1988—Subsecs. (a)(1)(B), (2), (c)(1)(A), (6)(A), (D), (e)(2)(A), (f). Pub. L. 100–688 inserted “, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,” after “the Great Lakes Water Quality Agreement of 1978”.
+<b>1988</b>—Subsecs. (a)(1)(B), (2), (c)(1)(A), (6)(A), (D), (e)(2)(A), (f). Pub. L. 100–688 inserted “, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,” after “the Great Lakes Water Quality Agreement of 1978”.
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Funds Contributed by a Non-Federal Sponsor
 

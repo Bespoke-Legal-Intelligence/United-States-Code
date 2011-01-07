@@ -22,7 +22,7 @@ Except as provided in subsection (c) of this section, the Secretary may waive an
 
 &emsp;&emsp;&emsp;(ii) improve the academic achievement of students;
 
-&emsp;&emsp;(C) describes, for each school year, specific, measurable educational goals, in accordance with section 6311(b) of this title, for the State educational agency and for each local educational agency, Indian tribe, or school that would be affected by the waiver and the methods to be used to measure annually such progress for meeting such goals and outcomes;
+&emsp;&emsp;(C) describes, for each school year, specific, measurable educational goals, in accordance with section 6311(b) of this title, for the State educational agency and for each local educational agency, Indian tribe, or school that would be affected by the waiver and the methods to be used to measureannually such progress for meeting such goals and outcomes;
 
 &emsp;&emsp;(D) explains how the waiver will assist the State educational agency and each affected local educational agency, Indian tribe, or school in reaching those goals; and
 

@@ -6,9 +6,9 @@ The revolving fund shall be deposited in a checking account with the Treasury of
 
 #### Amendments
 
-1991—Pub. L. 102–40 renumbered section 4205 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 4205 of this title as this section.
 
 Pub. L. 102–83 substituted “Secretary” for “Administrator” in two places.
 
-1988—Pub. L. 100–322 inserted “or other interest-bearing accounts” after “checking accounts”.
+<b>1988</b>—Pub. L. 100–322 inserted “or other interest-bearing accounts” after “checking accounts”.
 

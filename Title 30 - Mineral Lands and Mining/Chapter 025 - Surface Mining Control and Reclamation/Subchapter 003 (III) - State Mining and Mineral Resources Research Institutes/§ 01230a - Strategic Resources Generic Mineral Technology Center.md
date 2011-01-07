@@ -36,3 +36,5 @@ There is authorized to be appropriated such sums as may be necessary to carry ou
 
 Section was enacted as part of the Mining and Mineral Resources Research Institute Act of 1984, and not as part of the Surface Mining Control and Reclamation Act of 1977 which comprises this chapter.
 
+<i><sup>1</sup></i><i> So in original. Probably should be “of the”.</i>
+

@@ -14,7 +14,7 @@ No allotment may be made under this subchapter to an eligible system unless an a
 
 #### (b) Satisfaction of requirements regarding trained staff
 
-The assurance required under subsection (a)(2) of this section regarding trained staff may be satisfied through the provision of training by individuals who have received or are receiving mental health services and family members of such individuals.
+The assurance required under subsection (a)(2) of this section regarding trained staff may be satisfied through the provision of training by individuals who have received or are receivingmental health services and family members of such individuals.
 
 #### (c) Duration of applications and assurances
 
@@ -24,15 +24,15 @@ Applications submitted under this section shall remain in effect for a 4-year pe
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102–321 substituted “4-year” for “3-year” in two places.
+<b>1992</b>—Subsec. (c). Pub. L. 102–321 substituted “4-year” for “3-year” in two places.
 
-1991—Subsec. (a)(1). Pub. L. 102–173, §10(2), substituted “individuals with mental illness” for “mentally ill individuals”.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–173, §10(2), substituted “individuals with mental illness” for “mentally ill individuals”.
 
 Subsec. (a)(2). Pub. L. 102–173, §§7(1), 10(2), substituted “individuals with mental illness” for “mentally ill individuals” and inserted before semicolon at end “and to work with family members of clients served by the system where the individuals with mental illness are minors, legally competent and do not object, and legally incompetent and the legal guardians, conservators, or other legal representatives are family members”.
 
 Subsecs. (b), (c). Pub. L. 102–173, §7(2), (3) added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1988—Pub. L. 100–509 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1988</b>—Pub. L. 100–509 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1992 Amendment
 

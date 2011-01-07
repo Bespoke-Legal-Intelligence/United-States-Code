@@ -6,17 +6,17 @@ Any person required under this title to pay any estimated tax or tax, or require
 
 #### Amendments
 
-1990—Pub. L. 101–647 substituted “substituting ‘felony’ for ‘misdemeanor’ and” for “substituting”.
+<b>1990</b>—Pub. L. 101–647 substituted “substituting ‘felony’ for ‘misdemeanor’ and” for “substituting”.
 
-1988—Pub. L. 100–690 inserted at end “In the case of a willful violation of any provision of section 6050I, the first sentence of this section shall be applied by substituting ‘5 years’ for ‘1 year’.”
+<b>1988</b>—Pub. L. 100–690 inserted at end “In the case of a willful violation of any provision of section 6050I, the first sentence of this section shall be applied by substituting ‘5 years’ for ‘1 year’.”
 
-1984—Pub. L. 98–369 struck out “(other than a return required under the authority of section 6015)” after “to make a return”.
+<b>1984</b>—Pub. L. 98–369 struck out “(other than a return required under the authority of section 6015)” after “to make a return”.
 
-1982—Pub. L. 97–248, §329(b), substituted “$25,000 ($100,000 in the case of a corporation)” for “$10,000”.
+<b>1982</b>—Pub. L. 97–248, §329(b), substituted “$25,000 ($100,000 in the case of a corporation)” for “$10,000”.
 
 Pub. L. 97–248, §327, inserted last sentence providing that, in the case of any person with respect to whom there is a failure to pay any estimated tax, this section shall not apply to such person with respect to such failure if there is no addition to tax under section 6654 or 6655 with respect to such failure.
 
-1968—Pub. L. 90–364 struck out reference to section 6016.
+<b>1968</b>—Pub. L. 90–364 struck out reference to section 6016.
 
 #### Effective Date of 1990 Amendment
 

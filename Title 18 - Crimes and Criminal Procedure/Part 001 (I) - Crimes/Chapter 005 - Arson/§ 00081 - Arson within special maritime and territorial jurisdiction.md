@@ -20,9 +20,9 @@ The punishment provisions are new and are graduated with some regard to the grav
 
 #### Amendments
 
-2001—Pub. L. 107–56, in first par., struck out “, or attempts to set fire to or burn” after “maliciously sets fire to or burns” and inserted “or attempts or conspires to do such an act,” before “shall be imprisoned” and, in second par., substituted “for any term of years or for life” for “not more than twenty years”.
+<b>2001</b>—Pub. L. 107–56, in first par., struck out “, or attempts to set fire to or burn” after “maliciously sets fire to or burns” and inserted “or attempts or conspires to do such an act,” before “shall be imprisoned” and, in second par., substituted “for any term of years or for life” for “not more than twenty years”.
 
-1996—Pub. L. 104–132, in first par., substituted “imprisoned for not more than 25 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed, or both” for “fined under this title or imprisoned not more than five years, or both”.
+<b>1996</b>—Pub. L. 104–132, in first par., substituted “imprisoned for not more than 25 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed, or both” for “fined under this title or imprisoned not more than five years, or both”.
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in first par. and for “fined not more than $5,000” in second par.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in first par. and for “fined not more than $5,000” in second par.
 

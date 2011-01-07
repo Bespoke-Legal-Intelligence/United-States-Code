@@ -10,5 +10,5 @@ Section 13 of the Act of December 22, 1944 (58 Stat. 887), as amended and supple
 
 #### Amendments
 
-1960—Pub. L. 86–468 prohibited appropriations available for assisting local organizations in preparing and carrying out plans for works of improvement under sections 1003 and 1006a(a) of this title from being used for works of improvement in connection with the 11 watershed improvement programs authorized by section 13 of the act of Dec. 22, 1944, or for making loans or advancements to state and local agencies as authorized by section 1006a(b) of this title.
+<b>1960</b>—Pub. L. 86–468 prohibited appropriations available for assisting local organizations in preparing and carrying out plans for works of improvement under sections 1003 and 1006a(a) of this title from being used for works of improvement in connection with the 11 watershed improvement programs authorized by section 13 of the act of Dec. 22, 1944, or for making loans or advancements to state and local agencies as authorized by section 1006a(b) of this title.
 

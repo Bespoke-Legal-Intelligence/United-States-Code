@@ -6,15 +6,15 @@ The actual operation of all transmitting apparatus in any radio station for whic
 
 #### Amendments
 
-1994—Pub. L. 103–414 made technical amendments to directory language of Pub. L. 102–538, §205(1). See 1992 Amendment note below.
+<b>1994</b>—Pub. L. 103–414 made technical amendments to directory language of Pub. L. 102–538, §205(1). See 1992 Amendment note below.
 
-1992—Pub. L. 102–538, §205(2), redesignated cl. (4) as (3).
+<b>1992</b>—Pub. L. 102–538, §205(2), redesignated cl. (4) as (3).
 
 Pub. L. 102–538, §205(1), as amended by Pub. L. 103–414, struck out cl. (3) which read as follows: “stations engaged in broadcasting (other than those engaged primarily in the function of rebroadcasting the signals of broadcast stations),”.
 
-1976—Pub. L. 94–335 substituted “engaged primarily in the function of rebroadcasting the signals of broadcast stations” for “engaged solely in the function of rebroadcasting the signals of television broadcast stations” in parenthetical provisions of cl. (3).
+<b>1976</b>—Pub. L. 94–335 substituted “engaged primarily in the function of rebroadcasting the signals of broadcast stations” for “engaged solely in the function of rebroadcasting the signals of television broadcast stations” in parenthetical provisions of cl. (3).
 
-1960—Pub. L. 86–609 inserted “(other than those engaged solely in the function of rebroadcasting the signals of television broadcast stations)” after “engaged in broadcasting”.
+<b>1960</b>—Pub. L. 86–609 inserted “(other than those engaged solely in the function of rebroadcasting the signals of television broadcast stations)” after “engaged in broadcasting”.
 
-1937—Act Mar. 29, 1937, inserted provisos.
+<b>1937</b>—Act Mar. 29, 1937, inserted provisos.
 

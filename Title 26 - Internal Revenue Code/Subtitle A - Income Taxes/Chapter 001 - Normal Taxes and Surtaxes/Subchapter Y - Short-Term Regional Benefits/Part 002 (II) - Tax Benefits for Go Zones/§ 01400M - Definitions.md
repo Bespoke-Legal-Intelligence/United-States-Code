@@ -20,7 +20,7 @@ For purposes of this part—
 
 #### (5) Wilma GO Zone
 
-&emsp;The term “Wilma GO Zone” means that portion of the Hurricane Wilma disaster area determined by the President to warrant individual or individual and public assistance from the Federal Government under such Act by reason of Hurricane Wilma.
+&emsp;The term “Wilma GO Zone” means that portion of the Hurricane Wilma disaster area determined by the President to warrant individual or individual and public assistance fromthe Federal Government under such Act by reason of Hurricane Wilma.
 
 #### (6) Hurricane Wilma disaster area
 

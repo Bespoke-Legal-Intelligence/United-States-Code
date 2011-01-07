@@ -20,7 +20,7 @@ Section, as added by Pub. L. 105–85, consists of text of Pub. L. 104–201, di
 
 #### Amendments
 
-1999—Subsec. (a). Pub. L. 106–65, §921(c)(1), substituted “The number” for “Effective October 1, 1999, the number” and “3,767” for “75 percent of the baseline number”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–65, §921(c)(1), substituted “The number” for “Effective October 1, 1999, the number” and “3,767” for “75 percent of the baseline number”.
 
 Subsec. (b). Pub. L. 106–65, §921(c)(2), (3), redesignated subsec. (d) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “The number of OSD personnel—
 
@@ -40,23 +40,23 @@ Pub. L. 106–65, div. A, title IX, §921(c), Oct. 5, 1999, 113 Stat. 723, provi
 
 #### Exceptions and Adjustments to Limitations on Personnel
 
-Pub. L. 110–417, \[div. A\], title XI, §1111, Oct. 14, 2008, 122 Stat. 4619, as amended by Pub. L. 111–84, div. A, title XI, §1109(a), Oct. 28, 2009, 123 Stat. 2492, provided that:
+Pub. L. 110–417, \[div. A\], title XI, §1111, Oct. 14, 2008, 122 Stat. 4619, as amended by Pub. L. 111–84, div. A, title XI, §1109(a), Oct. 28, 2009, 123 Stat. 2492; Pub. L. 111–383, div. A, title X, §1075(e)(17), Jan. 7, 2011, 124 Stat. 4375, provided that:
 
 “(a)
 
 Exception to Limitations on Personnel.—For fiscal year 2009 and fiscal years thereafter, the baseline personnel limitations in sections 143, 194, 3014, 5014, and 8014 of title 10, United States Code (as adjusted pursuant to subsection (b)), shall not apply to—
 
-&emsp;“(1) acquisition personnel hired pursuant to the expedited hiring authority provided in section 1705(h) of title 10, United States Code, as amended by section 821 \[probably should be 833\] of this Act, or otherwise hired with funds in the Department of Defense Acquisition Workforce Development Fund established in accordance with section 1705(a) of such title; or
+&emsp;“(1) acquisition personnel hired pursuant to the expedited hiring authority provided in section 1705(h) of title 10, United States Code, as amended by section 833 of this Act, or otherwise hired with funds in the Department of Defense Acquisition Workforce Development Fund established in accordance with section 1705(a) of such title; or
 
 &emsp;“(2) personnel hired pursuant to a shortage category designation by the Secretary of Defense or the Director of the Office of Personnel Management.
 
 “(b)
 
-Authority to Adjust Limitations on Personnel.—For fiscal year 2009 and fiscal years thereafter, the Secretary of Defense or a secretary of a military department may adjust the baseline personnel limitations in sections 143, 194, 3014, 5014 and 8014 of title 10, United States Code, to—
+Authority to Adjust Limitations on Personnel.—For fiscal year 2009 and fiscal years thereafter, the Secretary of Defense or a Secretary of a military department may adjust the baseline personnel limitations in sections 143, 194, 3014, 5014 and 8014 of title 10, United States Code, to—
 
-&emsp;“(1) fill a gap in the civilian workforce of the Department of Defense identified by the Secretary of Defense in a strategic human capital plan submitted to Congress in accordance with the the \[sic\] requirements of section 115b of this title \[probably means 10 U.S.C. 115b\]; or
+&emsp;“(1) fill a gap in the civilian workforce of the Department of Defense identified by the Secretary of Defense in a strategic human capital plan submitted to Congress in accordance with the requirements of section 115b of such title; or
 
-&emsp;“(2) accommodate increases in workload or modify the type of personnel required to accomplish work, for any any \[sic\] of the following purposes:
+&emsp;“(2) accommodate increases in workload or modify the type of personnel required to accomplish work, for any of the following purposes:
 
 &emsp;&emsp;“(A) Performance of inherently governmental functions.
 

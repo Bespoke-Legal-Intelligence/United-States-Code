@@ -8,7 +8,7 @@ The Secretary shall enter into contracts to provide educational training to all 
 
 #### (1) In general
 
-&emsp;The Secretary may contract with State or private providers of farm management and credit counseling services (including a community college, the extension service of a State, a State department of agriculture, or a nonprofit organization) to carry out this section.
+&emsp;The Secretary may contract with State or private providers of farm management andcredit counseling services (including a community college, the extension service of a State, a State department of agriculture, or a nonprofit organization) to carry out this section.
 
 #### (2) Consultation
 

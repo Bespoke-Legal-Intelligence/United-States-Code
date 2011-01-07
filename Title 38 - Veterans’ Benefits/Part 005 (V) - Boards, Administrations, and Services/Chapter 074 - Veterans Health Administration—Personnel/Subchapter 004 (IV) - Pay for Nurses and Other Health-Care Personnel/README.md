@@ -14,3 +14,4 @@
 - [&sect; 07456A - Nurses alternate work schedules](%C2%A7%2007456A%20-%20Nurses%20alternate%20work%20schedules.md)
 - [&sect; 07457 - On-call pay](%C2%A7%2007457%20-%20On-call%20pay.md)
 - [&sect; 07458 - Recruitment and retention bonus pay](%C2%A7%2007458%20-%20Recruitment%20and%20retention%20bonus%20pay.md)
+- [&sect; 07459 - Nursing staff special rules for overtime duty](%C2%A7%2007459%20-%20Nursing%20staff%20special%20rules%20for%20overtime%20duty.md)

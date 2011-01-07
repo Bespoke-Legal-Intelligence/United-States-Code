@@ -6,7 +6,7 @@ Notwithstanding any other provision of Federal law and except as provided in sub
 
 #### (b) Exceptions
 
-Subsection (a) of this section shall not apply to the Third International Mathematics and Science Study or other international comparative assessments developed under the authority of section 9543(a)(6) of this title and administered to only a representative sample of pupils in the United States and in foreign nations.
+Subsection (a) of this section shall not apply to the Third International Mathematics andScience Study or other international comparative assessments developed under the authority of section 9543(a)(6) of this title and administered to only a representative sample of pupils in the United States and in foreign nations.
 
 (Pub. L. 90–247, title IV, §447, as added Pub. L. 105–277, div. A, §101(f) \[title III, §305(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–374; amended Pub. L. 107–110, title X, §1062(4), Jan. 8, 2002, 115 Stat. 2088; Pub. L. 107–279, title IV, §404(c), Nov. 5, 2002, 116 Stat. 1985.)
 
@@ -36,7 +36,7 @@ Section 1233h, Pub. L. 90–247, title IV, §449, as added Pub. L. 93–380, tit
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–279 substituted “section 9543(a)(6) of this title” for “section 9003(a)(6) of this title”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–279 substituted “section 9543(a)(6) of this title” for “section 9003(a)(6) of this title”.
 
 Pub. L. 107–110 made technical amendment to reference in original act which appears in text as reference to section 9003(a)(6) of this title.
 

@@ -26,7 +26,7 @@ An academic department, program or unit of an institution of higher education, i
 
 &emsp;(6) set forth policies and procedures to ensure that Federal funds made available under this subpart for any fiscal year will be used to supplement and, to the extent practical, increase the funds that would otherwise be made available for the purpose of this subpart and in no case to supplant those funds;
 
-&emsp;(7) provide assurances that, in the event that funds made available to the academic department, program or unit under this subpart are insufficient to provide the assistance due a student under the commitment entered into between the academic department, program or unit and the student, the academic department, program or unit will, from any funds available to the department, program or unit, fulfill the commitment to the student;
+&emsp;(7) provide assurances that, in the event that funds made available to the academic department, program or unit under this subpart are insufficient to provide the assistance due a student under the commitment entered intobetween the academic department, program or unit and the student, the academic department, program or unit will, from any funds available to the department, program or unit, fulfill the commitment to the student;
 
 &emsp;(8) provide that the applicant will comply with the limitations set forth in section 1135d of this title;
 
@@ -44,7 +44,7 @@ A prior section 1135b, Pub. L. 89–329, title X, §1021, as added Pub. L. 99–
 
 Another prior section 1135b, Pub. L. 89–329, title X, §1051, as added Pub. L. 92–318, title I, §186(a)(1), June 23, 1972, 86 Stat. 316, authorized appropriations for occupational education programs, prior to repeal by Pub. L. 94–482, title I, §176(c), title II, §204(c)(2), Oct. 12, 1976, 90 Stat. 2165, 2215, eff. Sept. 30, 1977, Oct. 1, 1977.
 
-Another prior section 1135b, Pub. L. 89–329, title X, §1003, as added Pub. L. 90–575, title II, §271, Oct. 16, 1968, 82 Stat. 1048, related to selection of grant recipients forimprovement of graduate programs, prior to the general amendment of subchapter X of this chapter by Pub. L. 92–318.
+Another prior section 1135b, Pub. L. 89–329, title X, §1003, as added Pub. L. 90–575, title II, §271, Oct. 16, 1968, 82 Stat. 1048, related to selection of grant recipients for improvement of graduate programs, prior to the general amendment of subchapter X of this chapter by Pub. L. 92–318.
 
 A prior section 713 of Pub. L. 89–329 was classified to section 1132b–2 of this title, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
@@ -80,5 +80,5 @@ Section 1135b–9, Pub. L. 89–329, title X, §1060, as added Pub. L. 92–318,
 
 #### Amendments
 
-2008—Subsec. (b)(5)(C). Pub. L. 110–315 inserted “at the institution” before semicolon at end.
+<b>2008</b>—Subsec. (b)(5)(C). Pub. L. 110–315 inserted “at the institution” before semicolon at end.
 

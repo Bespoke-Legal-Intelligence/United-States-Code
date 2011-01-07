@@ -20,7 +20,7 @@
 
 (C) Upon receipt of a report submitted under subparagraph (A), each House shall provide copies of the report to the chairman and ranking member of each standing committee with jurisdiction under the rules of the House of Representatives or the Senate to report a bill to amend the provision of law under which the rule is issued.
 
-(2)(A) The Comptroller General shall provide a report on each major rule to the committees of jurisdiction in each House of the Congress by the end of 15 calendar days after the submission or publication date as provided in section802(b)(2). The report of the Comptroller General shall include an assessment of the agency's compliance with procedural steps required by paragraph (1)(B).
+(2)(A) The Comptroller General shall provide a report on each major rule to the committees of jurisdiction in each House of the Congress by the end of 15 calendar days after the submission or publication date as provided in section 802(b)(2). The report of the Comptroller General shall include an assessment of the agency's compliance with procedural steps required by paragraph (1)(B).
 
 (B) Federal agencies shall cooperate with the Comptroller General by providing information relevant to the Comptroller General's report under subparagraph (A).
 
@@ -104,7 +104,7 @@
 
 #### References in Text
 
-Sections 202, 203, 204, and 205 of the Unfunded Mandates Reform Act of 1995, referred to in subsec.\(a)(1)(B)(iii), are classified to sections 1532, 1533, 1534, and 1535, respectively, of Title 2, The Congress.
+Sections 202, 203, 204, and 205 of the Unfunded Mandates Reform Act of 1995, referred to in subsec. (a)(1)(B)(iii), are classified to sections 1532, 1533, 1534, and 1535, respectively, of Title 2, The Congress.
 
 The date of the enactment of this chapter, referred to in subsec. (e)(1), (2), is the date of the enactment of Pub. L. 104–121, which was approved Mar. 29, 1996.
 
@@ -156,7 +156,7 @@ Request for review.—When an agency publishes an economically significant rule,
 
 &emsp;“(2)
 
-Report.—The Comptroller General shall submit a report on each economically significant rule selected under paragraph (4) to the committees of jurisdiction in each House of Congress not later than 180 calendar days after a committee request is received. The report shall include an independent evaluation of the economically significant rule by the Comptroller General.
+Report.—The Comptroller General shall submit a report on each economically significant rule selected under paragraph (4) to the committees of jurisdiction in each House of Congress not later than 180 calendar days after a committee request is received. The report shall include an independent evaluation ofthe economically significant rule by the Comptroller General.
 
 &emsp;“(3)
 

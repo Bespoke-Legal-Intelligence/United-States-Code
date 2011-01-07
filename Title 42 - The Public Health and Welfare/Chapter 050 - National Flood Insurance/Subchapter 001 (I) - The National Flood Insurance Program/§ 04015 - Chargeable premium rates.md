@@ -38,11 +38,11 @@ With respect to any chargeable premium rate prescribed under this section, a sum
 
 #### (e) Annual limitation on premium increases
 
-Except with respect to properties described under paragraph (2) or (3) <sup>1</sup> of subsection (c) of this section, and notwithstanding any other provision of this chapter, the chargeable risk premium rates for flood insurance under this chapter for any properties within any single risk classification may not be increased by an amount that would result in the average of such rate increases for properties within the risk classification during any 12-month period exceeding 10 percent of the average of the risk premium rates for properties within the risk classification upon the commencement of such 12-month period.
+Except with respect to properties described under paragraph (2) or (3) <sup>1</sup> of subsection (c) ofthis section, and notwithstanding any other provision of this chapter, the chargeable risk premium rates for flood insurance under this chapter for any properties within any single risk classification may not be increased by an amount that would result in the average of such rate increases for properties within the risk classification during any 12-month period exceeding 10 percent of the average of the risk premium rates for properties within the risk classification upon the commencement of such 12-month period.
 
 #### (f) Adjustment of premium
 
-Notwithstanding any other provision of law, if the Director determines that the holder of a flood insurance policy issued under this chapter is paying a lower premium than is required under this section due to an error in the floodplain determination, the Director may only prospectively charge the higher premium rate.
+Notwithstanding any other provision of law, if the Director determines that the holder of a flood insurance policy issued under this chapter is paying a lower premium than is required under this section due to an error in the flood plain determination, the Director may only prospectively charge the higher premium rate.
 
 (Pub. L. 90–448, title XIII, §1308, Aug. 1, 1968, 82 Stat. 576; Pub. L. 93–234, title I, §103, Dec. 31, 1973, 87 Stat. 978; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 101–508, title II, §2302(e)(2), Nov. 5, 1990, 104 Stat. 1388–24; Pub. L. 103–325, title V, §572(a), Sept. 23, 1994, 108 Stat. 2277; Pub. L. 108–264, title I, §106, title II, §209, June 30, 2004, 118 Stat. 724, 727.)
 
@@ -54,17 +54,17 @@ This chapter, referred to in subsec. (f), was in the original “this Act”, an
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–264, §106(a), added subsec. (c) and struck out former subsec. (c) which read as follows “Subject only to the limitation under subsection (e) of this section, the chargeable rate with respect to any property, the construction or substantial improvements of which the Director determines has been started after December 31, 1974, or the effective date of the initial rate map published by the Director under paragraph (2) of section 4101 of this title for the area in which such property is located, whichever is later, shall not be less than the applicable estimated risk premium rate for such area (or subdivision thereof) under section 4014(a)(1) of this title.”
+<b>2004</b>—Subsec. (c). Pub. L. 108–264, §106(a), added subsec. (c) and struck out former subsec. (c) which read as follows “Subject only to the limitation under subsection (e) of this section, the chargeable rate with respect to any property, the construction or substantial improvements of which the Director determines has been started after December 31, 1974, or the effective date of the initial rate map published by the Director under paragraph (2) of section 4101 of this title for the area in which such property is located, whichever is later, shall not be less than the applicable estimated risk premium rate for such area (or subdivision thereof) under section 4014(a)(1) of this title.”
 
 Subsec. (e). Pub. L. 108–264, §106(b), substituted “Except with respect to properties described under paragraph (2) or (3) of subsection (c) of this section, and notwithstanding” for “Notwithstanding”.
 
 Subsec. (f). Pub. L. 108–264, §209, added subsec. (f).
 
-1994—Subsec. (c). Pub. L. 103–325, §572(a)(1), substituted “Subject only to the limitation under subsection (e) of this section” for “Notwithstanding any other provision of this chapter”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–325, §572(a)(1), substituted “Subject only to the limitation under subsection (e) of this section” for “Notwithstanding any other provision of this chapter”.
 
 Subsec. (e). Pub. L. 103–325, §572(a)(2), added subsec. (e).
 
-1990—Subsec. (b)(3), (4). Pub. L. 101–508, §2302(e)(2)(A), added par. (3) and redesignated former par. (3) as (4).
+<b>1990</b>—Subsec. (b)(3), (4). Pub. L. 101–508, §2302(e)(2)(A), added par. (3) and redesignated former par. (3) as (4).
 
 Subsec. (d). Pub. L. 101–508, §2302(e)(2)(B), added subsec. (d) and struck out former subsec. (d) which read as follows: “In the event any chargeable premium rate prescribed under this section—
 
@@ -74,9 +74,9 @@ Subsec. (d). Pub. L. 101–508, §2302(e)(2)(B), added subsec. (d) and struck ou
 
 > a sum equal to such amount shall be paid to the Director, and he shall deposit such sum in the National Flood Insurance Fund established under section 4017 of this title.”
 
-1983—Subsecs. (a), (c), (d). Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+<b>1983</b>—Subsecs. (a), (c), (d). Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
 
-1973—Subsec. (c). Pub. L. 93–234 substituted “started after December 31, 1974, or the effective date of the initial rate map published by the Secretary under paragraph (2) of section 4101 of this title for the area in which such property is located, whichever is later” for “started after the identification of the area in which such property is located has been published under paragraph (1) of section 4101 of this title”.
+<b>1973</b>—Subsec. (c). Pub. L. 93–234 substituted “started after December 31, 1974, or the effective date of the initial rate map published by the Secretary under paragraph (2) of section 4101 of this title for the area in which such property is located, whichever is later” for “started after the identification of the area in which such property is located has been published under paragraph (1) of section 4101 of this title”.
 
 #### Transfer of Functions
 
@@ -94,7 +94,7 @@ Section 451(g)(1) of Pub. L. 98–181 provided that premium rates charged for fl
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, suchcommittee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. Subsec. (c) of this section does not contain a par. (3).</i>
 

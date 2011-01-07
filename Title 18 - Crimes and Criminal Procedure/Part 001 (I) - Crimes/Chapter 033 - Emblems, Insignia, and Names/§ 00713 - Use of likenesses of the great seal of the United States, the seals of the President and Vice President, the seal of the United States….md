@@ -6,7 +6,7 @@
 
 (c) Whoever, except as directed by the United States Senate, or the Secretary of the Senate on its behalf, knowingly uses, manufactures, reproduces, sells or purchases for resale, either separately or appended to any article manufactured or sold, any likeness of the seal of the United States Senate, or any substantial part thereof, except for manufacture or sale of the article for the official use of the Government of the United States, shall be fined under this title or imprisoned not more than six months, or both.
 
-(d) Whoever, except as directed by the United States House of Representatives, or the Clerk of the House of Representatives on its behalf, knowingly uses, manufactures, reproduces, sells or purchases for resale, either separately or appended to any article manufactured or sold, any likeness of the seal of the United States House of Representatives, or any substantial part thereof, except for manufacture or sale of the article for the official use of the Government of the United States, shall be fined under this title or imprisoned not more than six months, or both.
+(d) Whoever, except as directed by the United States House of Representatives, or the Clerk of the House of Representatives on its behalf, knowingly uses, manufactures, reproduces, sells or purchases for resale, either separately or appended to any article manufactured or sold, any likeness of the seal of the United States House of Representatives, or any substantial partthereof, except for manufacture or sale of the article for the official use of the Government of the United States, shall be fined under this title or imprisoned not more than six months, or both.
 
 (e) Whoever, except as directed by the United States Congress, or the Secretary of the Senate and the Clerk of the House of Representatives, acting jointly on its behalf, knowingly uses, manufactures, reproduces, sells or purchases for resale, either separately or appended to any article manufactured or sold, any likeness of the seal of the United States Congress, or any substantial part thereof, except for manufacture or sale of the article for the official use of the Government of the United States, shall be fined under this title or imprisoned not more than six months, or both.
 
@@ -24,7 +24,7 @@
 
 #### Amendments
 
-1997—Pub. L. 105–55, §308(d), substituted “the seal of the United States Senate, the seal of the United States House of Representatives, and the seal of the United States Congress” for “and the seal of the United States Senate” in section catchline.
+<b>1997</b>—Pub. L. 105–55, §308(d), substituted “the seal of the United States Senate, the seal of the United States House of Representatives, and the seal of the United States Congress” for “and the seal of the United States Senate” in section catchline.
 
 Subsec. (a). Pub. L. 105–55, §308(a), inserted “or the seal of the United States House of Representatives, or the seal of the United States Congress,” after “Senate,”.
 
@@ -34,17 +34,17 @@ Subsec. (f). Pub. L. 105–55, §308(b)(1), redesignated subsec. (d) as (f).
 
 Subsec. (f)(3), (4). Pub. L. 105–55, §308(c), added pars. (3) and (4).
 
-1994—Subsecs. (a) to (c). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250”.
+<b>1994</b>—Subsecs. (a) to (c). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250”.
 
-1991—Pub. L. 102–229, §210(a), substituted “the seals of the President and Vice President, and the seal of the United States Senate” for “and of the seals of the President and Vice President” in section catchline.
+<b>1991</b>—Pub. L. 102–229, §210(a), substituted “the seals of the President and Vice President, and the seal of the United States Senate” for “and of the seals of the President and Vice President” in section catchline.
 
 Subsec. (a). Pub. L. 102–229, §210(b), inserted “or the seal of the United States Senate,” after “Vice President of the United States,”.
 
 Subsecs. (c), (d). Pub. L. 102–229, §210(c), (d), added subsec. (c), amended former subsec. (c) generally, and redesignated former subsec. (c) as (d). Prior to amendment and redesignation, former subsec. (c) read as follows: “A violation of subsection (a) or (b) of this section may be enjoined at the suit of the Attorney General upon complaint by any authorized representative of any department or agency of the United States.”
 
-1971—Pub. L. 91–651 substituted “Use of likenesses of the great seal of the United States, and of the seals of the President and Vice President” for “Use of the great seal of the United States” in section catchline.
+<b>1971</b>—Pub. L. 91–651 substituted “Use of likenesses of the great seal of the United States, and of the seals of the President and Vice President” for “Use of the great seal of the United States” in section catchline.
 
-Subsec. (a). Pub. L. 91–651 redesignated existing provisions as subsec. (a), expanded prohibition to include likenesses of the seals of the President and Vice President, and added to the enumerated list of prohibited uses for likenesses of the great seal of the UnitedStates and for the seals of the President and Vice President, use in posters, public meetings, or on any building, monument, or stationery.
+Subsec. (a). Pub. L. 91–651 redesignated existing provisions as subsec. (a), expanded prohibition to include likenesses of the seals of the President and Vice President, and added to the enumerated list of prohibited uses for likenesses of the great seal of the United States and for the seals of the President and Vice President, use in posters, public meetings, or on any building, monument, or stationery.
 
 Subsecs. (b), (c). Pub. L. 91–651 added subsecs. (b) and (c).
 

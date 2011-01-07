@@ -24,7 +24,7 @@
 
 #### Amendments
 
-1996—Pub. L. 104–106, §5502(b), substituted “of a formal protest or other challenge” for “of a protest” in section catchline.
+<b>1996</b>—Pub. L. 104–106, §5502(b), substituted “of a formal protest or other challenge” for “of a protest” in section catchline.
 
 Subsec. (a). Pub. L. 104–106, §5502(a)(1), inserted “or other action referred to in subsection (b)” after “time a protest”, substituted “100 days” for “90 working days”, and inserted “or other action” after “on the protest”.
 

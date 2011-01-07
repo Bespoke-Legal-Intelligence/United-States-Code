@@ -1,6 +1,6 @@
 ### §1115. Additional compensation for dependents
 
-Any veteran entitled to compensation at the rates provided in section 1114 of this title, and whose disability is rated not less than 30 percent, shall be entitled to additional compensation for dependents in the following monthly amounts:
+Any veteran entitled to compensation at the rates provided in section 1114 of this title, andwhose disability is rated not less than 30 percent, shall be entitled to additional compensation for dependents in the following monthly amounts:
 
 &emsp;(1) If and while rated totally disabled and—
 
@@ -22,7 +22,7 @@ Any veteran entitled to compensation at the rates provided in section 1114 of th
 
 #### Amendments
 
-2009—Par. (1)(A). Pub. L. 111–37, §3(b)(1), substituted “$150” for “$142”.
+<b>2009</b>—Par. (1)(A). Pub. L. 111–37, §3(b)(1), substituted “$150” for “$142”.
 
 Par. (1)(B). Pub. L. 111–37, §3(b)(2), substituted “$259” and “$75” for “$245” and “$71”, respectively.
 
@@ -34,7 +34,7 @@ Par. (1)(E). Pub. L. 111–37, §3(b)(5), substituted “$286” for “$271”.
 
 Par. (1)(F). Pub. L. 111–37, §3(b)(6), substituted “$240” for “$227”.
 
-2008—Par. (1)(A). Pub. L. 110–324, §3(b)(1), substituted “$142” for “$139”.
+<b>2008</b>—Par. (1)(A). Pub. L. 110–324, §3(b)(1), substituted “$142” for “$139”.
 
 Par. (1)(B). Pub. L. 110–324, §3(b)(2), substituted “$245” and “$71” for “$240” and “$70”, respectively.
 
@@ -46,7 +46,7 @@ Par. (1)(E). Pub. L. 110–324, §3(b)(5), substituted “$271” for “$265”
 
 Par. (1)(F). Pub. L. 110–324, §3(b)(6), substituted “$227” for “$222”.
 
-2006—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+<b>2006</b>—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Par. (1)(A). Pub. L. 109–461, §1005(b)(1), substituted “$139” for “$135”.
 
@@ -74,7 +74,7 @@ Par. (1)(F). Pub. L. 109–461, §1005(b)(6), substituted “$222” for “$215
 
 Pub. L. 109–444, §9(b)(6), which substituted “$222” for “$215”, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
-2005—Par. (1)(A). Pub. L. 109–111, §2(b)(1), substituted “$135” for “$127”.
+<b>2005</b>—Par. (1)(A). Pub. L. 109–111, §2(b)(1), substituted “$135” for “$127”.
 
 Par. (1)(B). Pub. L. 109–111, §2(b)(2), substituted “$233” and “$68” for “$219” and “$65”, respectively.
 
@@ -86,7 +86,7 @@ Par. (1)(E). Pub. L. 109–111, §2(b)(5), substituted “$257” for “$241”
 
 Par. (1)(F). Pub. L. 109–111, §2(b)(6), substituted “$215” for “$202”.
 
-2004—Par. (1)(A). Pub. L. 108–454, §307(b)(1), substituted “$127” for “$125”.
+<b>2004</b>—Par. (1)(A). Pub. L. 108–454, §307(b)(1), substituted “$127” for “$125”.
 
 Par. (1)(B). Pub. L. 108–454, §307(b)(2), substituted “$219” and “$65” for “$215” and “$64”, respectively.
 
@@ -98,7 +98,7 @@ Par. (1)(E). Pub. L. 108–454, §307(b)(5), substituted “$241” for “$237�
 
 Par. (1)(F). Pub. L. 108–454, §307(b)(6), substituted “$202” for “$198”.
 
-2002—Par. (1)(A). Pub. L. 107–330, §309(b)(1), substituted “$125” for “$124”.
+<b>2002</b>—Par. (1)(A). Pub. L. 107–330, §309(b)(1), substituted “$125” for “$124”.
 
 Par. (1)(B). Pub. L. 107–330, §309(b)(2), substituted “$215” for “$213”.
 
@@ -110,7 +110,7 @@ Par. (1)(E). Pub. L. 107–330, §309(b)(5), substituted “$237” for “$234�
 
 Par. (1)(F). Pub. L. 107–330, §309(b)(6), substituted “$198” for “$196”.
 
-2001—Par. (1)(A). Pub. L. 107–94, §3(1), substituted “$124” for “$117”.
+<b>2001</b>—Par. (1)(A). Pub. L. 107–94, §3(1), substituted “$124” for “$117”.
 
 Par. (1)(B). Pub. L. 107–94, §3(2), substituted “$213” and “$64” for “$201” and “$61”, respectively.
 
@@ -122,7 +122,7 @@ Par. (1)(E). Pub. L. 107–94, §3(5), substituted “$234” for “$222”.
 
 Par. (1)(F). Pub. L. 107–94, §3(6), substituted “$196” for “$186”.
 
-1999—Par. (1)(A). Pub. L. 106–118, §3(1), substituted “$117” for “$114”.
+<b>1999</b>—Par. (1)(A). Pub. L. 106–118, §3(1), substituted “$117” for “$114”.
 
 Par. (1)(B). Pub. L. 106–118, §3(2), substituted “$201” and “$61” for “$195” and “$60”, respectively.
 
@@ -134,7 +134,7 @@ Par. (1)(E). Pub. L. 106–118, §3(5), substituted “$222” for “$215”.
 
 Par. (1)(F). Pub. L. 106–118, §3(6), substituted “$186” for “$180”.
 
-1997—Par. (1)(A). Pub. L. 105–98, §3(1), substituted “$114” for “$105”.
+<b>1997</b>—Par. (1)(A). Pub. L. 105–98, §3(1), substituted “$114” for “$105”.
 
 Par. (1)(B). Pub. L. 105–98, §3(2), substituted “$195” and “$60” for “$178” and “$55”, respectively.
 
@@ -146,7 +146,7 @@ Par. (1)(E). Pub. L. 105–98, §3(5), substituted “$215” for “$195”.
 
 Par. (1)(F). Pub. L. 105–98, §3(6), substituted “$180” for “$164”.
 
-1993—Par. (1)(A). Pub. L. 103–140, §3(1), substituted “$105” for “$103”.
+<b>1993</b>—Par. (1)(A). Pub. L. 103–140, §3(1), substituted “$105” for “$103”.
 
 Pub. L. 103–78, §2(1), substituted “$103” for “$100”.
 
@@ -170,7 +170,7 @@ Par. (1)(F). Pub. L. 103–140, §3(6), substituted “$164” for “$160”.
 
 Pub. L. 103–78, §2(6), substituted “$160” for “$155”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 315 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 315 of this title as this section.
 
 Pub. L. 102–83, §5(c)(1), substituted “1114” for “314” in introductory provisions.
 
@@ -198,7 +198,7 @@ Par. (1)(F). Pub. L. 102–152, §3(6), substituted “$155” for “$149”.
 
 Pub. L. 102–3, §3(6), substituted “$149” for “$142”.
 
-1989—Par. (1)(A). Pub. L. 101–237, §102(1), substituted “$92” for “$88”.
+<b>1989</b>—Par. (1)(A). Pub. L. 101–237, §102(1), substituted “$92” for “$88”.
 
 Par. (1)(B). Pub. L. 101–237, §102(2), substituted “$155” and “$48” for “$148” and “$46”, respectively.
 
@@ -210,7 +210,7 @@ Par. (1)(E). Pub. L. 101–237, §102(5), substituted “$169” for “$161”.
 
 Par. (1)(F). Pub. L. 101–237, §102(6), substituted “$142” for “$136”.
 
-1988—Par. (1)(A). Pub. L. 100–687, §1102(1), substituted “$88” for “$85”.
+<b>1988</b>—Par. (1)(A). Pub. L. 100–687, §1102(1), substituted “$88” for “$85”.
 
 Par. (1)(B). Pub. L. 100–687, §1102(2), substituted “$148” and “$46” for “$143” and “$45”, respectively.
 
@@ -222,7 +222,7 @@ Par. (1)(E). Pub. L. 100–687, §1102(5), substituted “$161” for “$155”
 
 Par. (1)(F). Pub. L. 100–687, §1102(6), substituted “$136” for “$131”.
 
-1987—Par. (1)(A). Pub. L. 100–227, §102(1), substituted “$85” for “$82”.
+<b>1987</b>—Par. (1)(A). Pub. L. 100–227, §102(1), substituted “$85” for “$82”.
 
 Par. (1)(B). Pub. L. 100–227, §102(2), substituted “$143” and “$45” for “$138” and “$44”, respectively.
 
@@ -234,7 +234,7 @@ Par. (1)(E). Pub. L. 100–227, §102(5), substituted “$155” for “$149”.
 
 Par. (1)(F). Pub. L. 100–227, §102(6), substituted “$131” for “$126”.
 
-1986—Par. (1)(A). Pub. L. 99–576, §102(1), substituted “$82” for “$81”.
+<b>1986</b>—Par. (1)(A). Pub. L. 99–576, §102(1), substituted “$82” for “$81”.
 
 Pub. L. 99–238, §102(1), substituted “$81” for “$79”.
 
@@ -258,7 +258,7 @@ Par. (1)(F). Pub. L. 99–576, §102(6), substituted “$126” for “$124”.
 
 Pub. L. 99–238, §102(6), substituted “$124” for “$120”.
 
-1984—Pub. L. 98–223, §102(b), substituted “percent” for “per centum” in provision preceding par. (1).
+<b>1984</b>—Pub. L. 98–223, §102(b), substituted “percent” for “per centum” in provision preceding par. (1).
 
 Par. (1)(A). Pub. L. 98–543, §102(1), substituted “$79” for “$77”.
 
@@ -286,7 +286,7 @@ Pub. L. 98–223, §102(a)(6), substituted “$116” for “$112”.
 
 Par. (2). Pub. L. 98–223, §102(b), substituted “percent” for “per centum”.
 
-1982—Par. (1)(A). Pub. L. 97–306, §102(1), added subpar. (A) and struck out former subpar. (A) which provided $69 for a veteran with a spouse but no child living.
+<b>1982</b>—Par. (1)(A). Pub. L. 97–306, §102(1), added subpar. (A) and struck out former subpar. (A) which provided $69 for a veteran with a spouse but no child living.
 
 Par. (1)(B). Pub. L. 97–306, §§102(1), 107, 108, added subpar. (B), repealed amendment made by Pub. L. 97–253, §405(c)(1), eff. Oct. 1, 1982, and struck out former subpar. (B) which provided $116 for a veteran with a spouse and one child living.
 
@@ -310,11 +310,11 @@ Par. (1)(H) to (J). Pub. L. 97–306, §102(2), redesignated subpars. (H), (I), 
 
 Par. (2). Pub. L. 97–253, §404(b), substituted provisions that the amounts payable under this paragraph, if not a multiple of $1, be rounded down to the nearest dollar for provisions that such amounts would be adjusted upward or downward to the nearest dollar, counting fifty cents and over as a whole dollar.
 
-1981—Par. (1)(A) to (J). Pub. L. 97–66 increased compensation figures as follows: in subpar. (A) from $62 to $69, in subpar. (B) from $104 to $116, in subpar. (C) from $138 to $153, in subpar. (D) from $173 to $192 and from $34 to $38, in subpar. (E) from $42 to $47, in subpar. (F) from $77 to $86, in subpar (G) from $111 to $123 and from $34 to $38, in subpar. (H) from $50 to $56, in subpar. (I) from $112 to $125, and in subpar. (J) from $94 to $105.
+<b>1981</b>—Par. (1)(A) to (J). Pub. L. 97–66 increased compensation figures as follows: in subpar. (A) from $62 to $69, in subpar. (B) from $104 to $116, in subpar. (C) from $138 to $153, in subpar. (D) from $173 to $192 and from $34 to $38, in subpar. (E) from $42 to $47, in subpar. (F) from $77 to $86, in subpar (G) from $111 to $123 and from $34 to $38, in subpar. (H) from $50 to $56, in subpar. (I) from $112 to $125, and in subpar. (J) from $94 to $105.
 
-1980—Par. (1)(A) to (J). Pub. L. 96–385, §102(1)–(10), increased additional compensation in subpar. (A) from $54 to $62, in subpar. (B) from $91 to $104, in subpar. (C) from $121 to $138, in subpar. (D) from $151 and $30 to $173 and $34, respectively, in subpar. (E) from $37 to $42, in subpar. (F) from $67 to $77, in subpar. (G) from $97 and $30 to $111 and $34, respectively, in subpar. (H) from $44 to $50, in subpar. (I) from $98 to $112, and in subpar. (J) from $82 to $94.
+<b>1980</b>—Par. (1)(A) to (J). Pub. L. 96–385, §102(1)–(10), increased additional compensation in subpar. (A) from $54 to $62, in subpar. (B) from $91 to $104, in subpar. (C) from $121 to $138, in subpar. (D) from $151 and $30 to $173 and $34, respectively, in subpar. (E) from $37 to $42, in subpar. (F) from $67 to $77, in subpar. (G) from $97 and $30 to $111 and $34, respectively, in subpar. (H) from $44 to $50, in subpar. (I) from $98 to $112, and in subpar. (J) from $82 to $94.
 
-1979—Par. (1)(A) to (H). Pub. L. 96–128, §102(a)(1)–(8), increased additional compensation in subpar. (A) from $49 to $54, in subpar. (B) from $83 to $91, in subpar. (C) from $110 to $121, in subpar. (D) from $137 and $27 to $151 and $30, respectively, in subpar. (E) from $34 to $37, in subpar. (F) from $61 to $67, in subpar. (G) from $88 and $27 to $97 and $30, respectively, and in subpar. (H) from $40 to $44.
+<b>1979</b>—Par. (1)(A) to (H). Pub. L. 96–128, §102(a)(1)–(8), increased additional compensation in subpar. (A) from $49 to $54, in subpar. (B) from $83 to $91, in subpar. (C) from $110 to $121, in subpar. (D) from $137 and $27 to $151 and $30, respectively, in subpar. (E) from $34 to $37, in subpar. (F) from $61 to $67, in subpar. (G) from $88 and $27 to $97 and $30, respectively, and in subpar. (H) from $40 to $44.
 
 Par. (1)(I). Pub. L. 96–128, §102(a)(9), (b)(1)(A), substituted “paragraph” for “subsection”, “(i)” for “(1)”, “(ii)” for “(2)”, “$98” for “$89”, and “section” for “subsection”.
 
@@ -322,33 +322,33 @@ Par. (1)(J). Pub. L. 96–128, §102(a)(10), (b)(1)(B), substituted “paragraph
 
 Par. (2). Pub. L. 96–128, §102(b)(2), inserted “of this section” after “(1)”.
 
-1978—Pub. L. 95–479, §102(b), substituted “30 per centum” for “50 per centum” in provisions preceding par. (1).
+<b>1978</b>—Pub. L. 95–479, §102(b), substituted “30 per centum” for “50 per centum” in provisions preceding par. (1).
 
 Par. (1). Pub. L. 95–479, §102(a), substituted $49 for $46 in subpar. (A), $83 for $77 in subpar. (B), $110 for $98 in subpar. (C), $137 and $27 for $120 and $22, respectively, in subpar. (D), $34 for $30 in subpar. (E), $61 for $52 in subpar. (F), $88 and $27 for $77 and $22, respectively, in subpar. (G), $40 for $37 in subpar. (H), $89 for $83 in subpar. (I), and $75 for $70 in subpar. (J).
 
 Par. (2). Pub. L. 95–479, §102(b), substituted “30 per centum” for “50 per centum”.
 
-1977—Par. (1). Pub. L. 95–117 substituted $46 for $43 in subpar. (A), $77 for $72 in subpar. (B), $98 for $92 in subpar. (C), $120 and $22 for $113 and $21, respectively, in subpar. (D), $30 for $28 in subpar. (E), $52 for $49 in subpar. (F), $77 and $22 for $72 and $21, respectively, in subpar. (G), $37 for $35 in subpar. (H), $83 for $78 in subpar. (I), and $70 for $66 in subpar. (J).
+<b>1977</b>—Par. (1). Pub. L. 95–117 substituted $46 for $43 in subpar. (A), $77 for $72 in subpar. (B), $98 for $92 in subpar. (C), $120 and $22 for $113 and $21, respectively, in subpar. (D), $30 for $28 in subpar. (E), $52 for $49 in subpar. (F), $77 and $22 for $72 and $21, respectively, in subpar. (G), $37 for $35 in subpar. (H), $83 for $78 in subpar. (I), and $70 for $66 in subpar. (J).
 
-1976—Par. (1). Pub. L. 94–433, §102, substituted $43 for $40 in subpar. (A), $72 for $67 in subpar. (B), $92 for $85 in subpar. (C), $113 and $21 for $105 and $19, respectively, in subpar. (D), $28 for $26 in subpar. (E), $49 for $45 in subpar. (F), $72 and $21 for $67 and $19, respectively, in subpar. (G), $35 for $32 in subpar. (H), added subpar. (I), and substituted $66 for $61 in subpar. (J), formerly (I), but redesignated (J).
+<b>1976</b>—Par. (1). Pub. L. 94–433, §102, substituted $43 for $40 in subpar. (A), $72 for $67 in subpar. (B), $92 for $85 in subpar. (C), $113 and $21 for $105 and $19, respectively, in subpar. (D), $28 for $26 in subpar. (E), $49 for $45 in subpar. (F), $72 and $21 for $67 and $19, respectively, in subpar. (G), $35 for $32 in subpar. (H), added subpar. (I), and substituted $66 for $61 in subpar. (J), formerly (I), but redesignated (J).
 
 Pub. L. 94–433, §§404(9), (10), substituted “spouse” for “wife” in subpars. (A) through (G) and “parent dependent upon such veteran” for “mother or father, either or both dependent upon him” in subpar. (H).
 
 Par. (2). Pub. L. 94–433, §404(11), struck out “his” before “disability bears”.
 
-1975—Par. (1). Pub. L. 94–71 substituted $40 for $36 in subpar. (A), $67 for $61 in subpar. (B), $85 for $77 in subpar. (C), $105 and $19 for $95 and $17, respectively, in subpar. (D), $26 for $24 in subpar. (E), $45 for $41 in subpar. (F), $67 and $19 for $61 and $17, respectively, in subpar. (G), $32 for $29 in subpar. (H) and $61 for $55 in subpar. (I).
+<b>1975</b>—Par. (1). Pub. L. 94–71 substituted $40 for $36 in subpar. (A), $67 for $61 in subpar. (B), $85 for $77 in subpar. (C), $105 and $19 for $95 and $17, respectively, in subpar. (D), $26 for $24 in subpar. (E), $45 for $41 in subpar. (F), $67 and $19 for $61 and $17, respectively, in subpar. (G), $32 for $29 in subpar. (H) and $61 for $55 in subpar. (I).
 
-1974—Par. (1). Pub. L. 93–295 substituted $36 for $31 in subpar. (A), $61 for $53 in subpar. (B), $77 for $67 in subpar. (C), $95 and $17 for $83 and $15, respectively, in subpar. (D), $24 for $21 in subpar. (E), $41 for $36 in subpar. (F), $61 and $17 for $53 and $15, respectively, in subpar. (G), $29 for $25 in subpar. (H), and $55 for $48 in subpar. (I).
+<b>1974</b>—Par. (1). Pub. L. 93–295 substituted $36 for $31 in subpar. (A), $61 for $53 in subpar. (B), $77 for $67 in subpar. (C), $95 and $17 for $83 and $15, respectively, in subpar. (D), $24 for $21 in subpar. (E), $41 for $36 in subpar. (F), $61 and $17 for $53 and $15, respectively, in subpar. (G), $29 for $25 in subpar. (H), and $55 for $48 in subpar. (I).
 
-1972—Par. (1). Pub. L. 92–328 substituted $31 for $28 in subpar. (A), $53 for $48 in subpar. (B), $67 for $61 in subpar. (C), $83 and $15 for $75 and $14, respectively, in subpar. (D), $21 for $19 in subpar. (E), $36 for $33 in subpar. (F), $53 and $15 for $48 and $14, respectively, in subpar. (G), $25 for $23 in subpar. (H), and $48 for $44 in subpar. (I).
+<b>1972</b>—Par. (1). Pub. L. 92–328 substituted $31 for $28 in subpar. (A), $53 for $48 in subpar. (B), $67 for $61 in subpar. (C), $83 and $15 for $75 and $14, respectively, in subpar. (D), $21 for $19 in subpar. (E), $36 for $33 in subpar. (F), $53 and $15 for $48 and $14, respectively, in subpar. (G), $25 for $23 in subpar. (H), and $48 for $44 in subpar. (I).
 
-1970—Par. (1). Pub. L. 91–376 substituted $28 for $25 in subpar. (A), $48 for $43 in subpar. (B), $61 for $55 in subpar. (C), $75 and $14 for $68 and $13, respectively, in subpar. (D), $19 for $17 in subpar. (E), $33 for $30 in subpar. (F), $48 and $14 for $43 and $13, respectively, in subpar. (G), $23 for $21 in subpar. (H), and $44 for $40 in subpar. (I).
+<b>1970</b>—Par. (1). Pub. L. 91–376 substituted $28 for $25 in subpar. (A), $48 for $43 in subpar. (B), $61 for $55 in subpar. (C), $75 and $14 for $68 and $13, respectively, in subpar. (D), $19 for $17 in subpar. (E), $33 for $30 in subpar. (F), $48 and $14 for $43 and $13, respectively, in subpar. (G), $23 for $21 in subpar. (H), and $44 for $40 in subpar. (I).
 
-1965—Par. (1). Pub. L. 89–311 substituted $25 for $23 in subpar. (A), $43 for $39 in subpar. (B), $55 for $50 in subpar. (C), $68 and $13 for $62 and $12 respectively in subpar. (D), $17 for $15 in subpar. (E), $30 for $27 in subpar. (F), $43 and $13 for $39 and $12 respectively in subpar. (G), and $21 for $19 in subpar. (H), and added subpar. (I).
+<b>1965</b>—Par. (1). Pub. L. 89–311 substituted $25 for $23 in subpar. (A), $43 for $39 in subpar. (B), $55 for $50 in subpar. (C), $68 and $13 for $62 and $12 respectively in subpar. (D), $17 for $15 in subpar. (E), $30 for $27 in subpar. (F), $43 and $13 for $39 and $12 respectively in subpar. (G), and $21 for $19 in subpar. (H), and added subpar. (I).
 
 Pub. L. 89–137 struck out subsec. (b) which prohibited payment of the additional compensation to any veteran during any period he is in receipt of an increased rate of subsistence allowance or education and training allowance on account of a dependent or dependents, and redesignated subsec. (a) as entire section.
 
-1960—Subsec. (a). Pub. L. 86–499 authorized payment of $12 for each living child in excess of three.
+<b>1960</b>—Subsec. (a). Pub. L. 86–499 authorized payment of $12 for each living child in excess of three.
 
 #### Effective Date of 2009 Amendment
 

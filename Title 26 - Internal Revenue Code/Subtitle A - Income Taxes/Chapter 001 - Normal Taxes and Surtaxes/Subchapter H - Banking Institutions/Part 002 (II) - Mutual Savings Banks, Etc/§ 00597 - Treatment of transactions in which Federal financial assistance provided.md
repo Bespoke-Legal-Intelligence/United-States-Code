@@ -48,15 +48,15 @@ Sections 11(f) and 13(c) of the Federal Deposit Insurance Act, referred to in su
 
 #### Amendments
 
-1990—Subsec. (c). Pub. L. 101–508 substituted “For purposes of” for “The purposes of”.
+<b>1990</b>—Subsec. (c). Pub. L. 101–508 substituted “For purposes of” for “The purposes of”.
 
-1989—Pub. L. 101–73, §1401(b)(1), repealed amendment made by Pub. L. 99–514, §904(b)(1), see 1986 Amendment note below.
+<b>1989</b>—Pub. L. 101–73, §1401(b)(1), repealed amendment made by Pub. L. 99–514, §904(b)(1), see 1986 Amendment note below.
 
 Pub. L. 101–73, §1401(a)(3)(A), amended section generally, substituting present provisions for former provisions which contained section catchline that read “FSLIC or FDIC financial assistance” and which provided: in subsec. (a) for an exclusion from gross income; in subsec. (b) for no reduction in basis of assets; in subsec. (c) for a reduction of tax attributes by 50 percent of amounts excludable under subsection (a); and in subsec. (d) for a definition of “domestic building and loan association”.
 
 Subsec. (b)(2). Pub. L. 101–239 substituted “in connection with such assistance” for “to reflect such treatment”.
 
-1988—Pub. L. 100–647, §4012(b)(2)(D)(i), substituted “FSLIC or FDIC” for “FSLIC” in section catchline.
+<b>1988</b>—Pub. L. 100–647, §4012(b)(2)(D)(i), substituted “FSLIC or FDIC” for “FSLIC” in section catchline.
 
 Subsec. (a). Pub. L. 100–647, §4012(b)(2)(A), inserted at end “Gross income of a bank does not include any amount of money or other property received from the Federal Deposit Insurance Corporation pursuant to sections 13(c), 15(c)(1), and 15(c)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1821(f) and 1823(c)(1) and (c)(2)), regardless of whether any note or other instrument is issued in exchange therefor.”
 
@@ -66,7 +66,7 @@ Subsec. (c). Pub. L. 100–647, §4012(c)(1), added subsec. (c).
 
 Subsec. (d). Pub. L. 100–647, §4012(b)(2)(B), which directed amendment of section 597(b), as amended by section 4012(c)(1) of Pub. L. 100–647, by adding at the end thereof subsec. (d), was executed by adding subsec. (d) at the end of section 597, as amended by section 4012(c)(1) of Pub. L. 100–647, as the probable intent of Congress.
 
-1986—Pub. L. 99–514, §904(b)(1), (c)(2)(A), as amended by Pub. L. 100–647, title IV, §4012(a)(2), which (applicable to transfers after Dec. 31, 1989, in taxable years ending after such date, with exceptions) directed repeal of this section, was repealed by Pub. L. 101–73, §1401(b)(1), (c)(4), eff. Oct. 22, 1986, and I.R.C. of 1986 applicable as if the amendments made by such section had not been enacted.
+<b>1986</b>—Pub. L. 99–514, §904(b)(1), (c)(2)(A), as amended by Pub. L. 100–647, title IV, §4012(a)(2), which (applicable to transfers after Dec. 31, 1989, in taxable years ending after such date, with exceptions) directed repeal of this section, was repealed by Pub. L. 101–73, §1401(b)(1), (c)(4), eff. Oct. 22, 1986, and I.R.C. of 1986 applicable as if the amendments made by such section had not been enacted.
 
 #### Effective Date of 1989 Amendments
 
@@ -80,7 +80,7 @@ Subsection (a)(3).—
 
 &emsp;“(A)
 
-In general.—The amendments made by subsection (a)(3) \[amending this section and repealing provisions set out below\] shall apply to any amount received or accrued by the financial institution on orafter May 10, 1989, except that such amendments shall not apply to transfers on or after such date pursuant to an acquisition to which the amendment made by subsection (a)(1) \[amending section 368 of this title\] does not apply.
+In general.—The amendments made by subsection (a)(3) \[amending this section and repealing provisions set out below\] shall apply to any amount received or accrued by the financial institution on or after May 10, 1989, except that such amendments shall not apply to transfers on or after such date pursuant to an acquisition to which the amendment made by subsection (a)(1) \[amending section 368 of this title\] does not apply.
 
 &emsp;“(B)
 

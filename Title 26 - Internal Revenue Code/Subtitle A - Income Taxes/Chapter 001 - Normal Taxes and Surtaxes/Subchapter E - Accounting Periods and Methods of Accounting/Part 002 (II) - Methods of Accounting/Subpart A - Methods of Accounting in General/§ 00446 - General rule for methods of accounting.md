@@ -40,9 +40,9 @@ If the taxpayer does not file with the Secretary a request to change the method 
 
 #### Amendments
 
-1984—Subsec. (f). Pub. L. 98–369 added subsec. (f).
+<b>1984</b>—Subsec. (f). Pub. L. 98–369 added subsec. (f).
 
-1976—Subsecs. (b), (c), (e). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (b), (c), (e). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 1984 Amendment
 

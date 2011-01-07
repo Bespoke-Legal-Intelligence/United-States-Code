@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(B)(i) the alien did not invest, or was not actively in the process of investing, the requisite capital; or
 
-&emsp;&emsp;(ii) the alien was not sustaining the actions described in clause (i) throughout theperiod of the alien's residence in the United States; or
+&emsp;&emsp;(ii) the alien was not sustaining the actions described in clause (i) throughout the period of the alien's residence in the United States; or
 
 &emsp;&emsp;(C) the alien was otherwise not conforming to the requirements of section 1153(b)(5) of this title,
 
@@ -106,7 +106,7 @@
 
 #### (A) 90-day period before second anniversary
 
-&emsp;&emsp;Except as provided in subparagraph (B), the petition under subsection (c)(1)(A) ofthis section must be filed during the 90-day period before the second anniversary of the alien's lawful admission for permanent residence.
+&emsp;&emsp;Except as provided in subparagraph (B), the petition under subsection (c)(1)(A) of this section must be filed during the 90-day period before the second anniversary of the alien's lawful admission for permanent residence.
 
 #### (B) Date petitions for good cause
 
@@ -122,7 +122,7 @@
 
 #### (e) Treatment of period for purposes of naturalization
 
-For purposes of subchapter III of this chapter, in the case of an alien who is in the United States as a lawful permanent resident on a conditional basis under this section, the alien shall be considered to have been admitted as an alien lawfully admitted for permanent residence and to be in the United States as an alien lawfully admitted to the United States for permanent residence.
+For purposes of subchapter III, in the case of an alien who is in the United States as a lawful permanent resident on a conditional basis under this section, the alien shall be considered to have been admitted as an alien lawfully admitted for permanent residence and to be in the United States as an alien lawfully admitted to the United States for permanent residence.
 
 #### (f) Definitions
 
@@ -135,6 +135,10 @@ In this section:
 &emsp;(3) The term “commercial enterprise” includes a limited partnership.
 
 (June 27, 1952, ch. 477, title II, ch. 2, §216A, as added Pub. L. 101–649, title I, §121(b)(1), Nov. 29, 1990, 104 Stat. 4990; amended Pub. L. 102–232, title III, §302(b)(3), Dec. 12, 1991, 105 Stat. 1743; Pub. L. 104–208, div. C, title III, §308(e)(8), Sept. 30, 1996, 110 Stat. 3009–620; Pub. L. 107–273, div. C, title I, §11036(b), Nov. 2, 2002, 116 Stat. 1847.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (a)(1), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 
@@ -280,7 +284,7 @@ Requirements relating to adverse determinations.—
 
 &emsp;&emsp;&emsp;“(i)
 
-Notice.—If the Attorney General renders an adverse determination with respect to clause (i), (ii), or (iii) of subparagraph (A), the Attorney General shall so notify the alien involved. The notice shall be in writing and shall state the factual basis for any adverse determination. The Attorney General shall provide the alien with an opportunity to submit evidence to rebut any adverse determination. If the Attorney General reverses all adverse determinations pursuant to such rebuttal, the Attorney General shall so notify the alien involved and shall remove the conditional basis of the alien's status (and that of the alien's spouse and children if it was obtained under section 216A of the Immigration and Nationality Act\(8 U.S.C. 1186b)) effective as of the second anniversary of the alien's lawful admission for permanent residence.
+Notice.—If the Attorney General renders an adverse determination with respect to clause (i), (ii), or (iii) of subparagraph (A), the Attorney General shall so notify the alien involved. The notice shall be in writing and shall state the factual basis for any adverse determination. The Attorney General shall provide the alien with an opportunity to submit evidence to rebut any adverse determination. If the Attorney General reverses all adverse determinations pursuant to such rebuttal, the Attorney General shall so notify the alien involved and shall remove the conditional basis of the alien's status (and that of the alien's spouse and children if it was obtained under section 216A of the Immigration and Nationality Act (8 U.S.C. 1186b)) effective as of the second anniversary of the alien's lawful admission for permanent residence.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -372,7 +376,7 @@ Hearing in Removal Proceeding.—Any alien whose permanent resident status is te
 
 “(e)
 
-Clarification With Respect to Children.—In the case of an alien who obtained the status of an alien lawfully admitted for permanent residence on a conditional basis before the date of the enactment of this Act \[Nov. 2, 2002\] by virtue of being the child of an eligible alien described in subsection (b)(1), the alien shall be considered to be a child for purposes of this section regardless of any change in age or marital status after obtaining such status.
+Clarification With Respect to Children.—In the case of an alien who obtained the status of an alien lawfully admitted for permanent residence on a conditional basis before the date of the enactment of thisAct \[Nov. 2, 2002\] by virtue of being the child of an eligible alien described in subsection (b)(1), the alien shall be considered to be a child for purposes of this section regardless of any change in age or marital status after obtaining such status.
 
 “(f)
 
@@ -428,7 +432,7 @@ Removal of Conditional Basis.—
 
 &emsp;“(1)
 
-Petition.—In order for a conditional basis established under this section for an alien (and the alien's spouse and children) to be removed, the alien must satisfy the requirements of section 216A(c)(1) of the Immigration and Nationality Act (8 U.S.C. 1186b(c)(1)), including the submission of a petition in accordance with subparagraph (A) of such section. Such petition may include the facts and information described in subparagraphs (A) and (B) of section 216A(d)(1) of the Immigration and Nationality Act (8 U.S.C. 1186b(d)(1)) with respect to any commercial enterprise (regardless of whether such enterprise is a limited partnership and regardless of whether the alien entered the enterprise after its formation) inthe United States in which the alien has made a capital investment at any time.
+Petition.—In order for a conditional basis established under this section for an alien (and the alien's spouse and children) to be removed, the alien must satisfy the requirements of section 216A(c)(1) of the Immigration and Nationality Act (8 U.S.C. 1186b(c)(1)), including the submission of a petition in accordance with subparagraph (A) of such section. Such petition may include the facts and information described in subparagraphs (A) and (B) of section 216A(d)(1) of the Immigration and Nationality Act (8 U.S.C. 1186b(d)(1)) with respect to any commercial enterprise (regardless of whether such enterprise is a limited partnership and regardless of whether the alien entered the enterprise after its formation) in the United States in which the alien has made a capital investment at any time.
 
 &emsp;“(2)
 
@@ -458,7 +462,7 @@ Clarification With Respect to Children.—In the case of an alien who was a chil
 
 #### “SEC. 11034. DEFINITIONS.
 
-“Except as otherwise provided, the terms used in this chapter shall have the meaning given such terms in section 101(b) of the Immigration and Nationality Act (8 U.S.C. 1101(b)).”
+“Except as otherwise provided, the terms used in this chapter shall have the meaning given such terms insection 101(b) of the Immigration and Nationality Act (8 U.S.C. 1101(b)).”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

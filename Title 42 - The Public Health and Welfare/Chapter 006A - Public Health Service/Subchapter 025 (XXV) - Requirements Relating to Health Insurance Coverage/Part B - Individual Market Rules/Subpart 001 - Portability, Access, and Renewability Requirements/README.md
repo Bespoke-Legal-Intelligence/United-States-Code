@@ -1,9 +1,5 @@
 subpart 1—portability, access, and renewability requirements
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “300gg(d)(4)”.</i>
-
 
 ---
 

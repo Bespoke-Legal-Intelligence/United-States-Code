@@ -102,11 +102,11 @@ The Secretary, to the extent practicable, shall—
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), each eligible entity that receives a grant under this section shall provide, toward the cost of the activities assisted under the grant, from non-Federal sources, an amount equal to 200 percent of the amount of the grant, except that an eligible entity that is a high-need local educational agency shall provide an amount equal to not more than 100 percent of the amount of the grant.
+&emsp;Subject to paragraph (2), each eligible entity that receives a grant under this section shall provide, toward the cost of the activities assisted under the grant, from non-Federal sources, an amount equal to 100 percent of the amount of the grant, except that an eligible entity that is a high-need local educational agency shall provide an amount equal to not more than 50 percent of the amount of the grant.
 
 #### (2) Waiver
 
-&emsp;The Secretary may waive all or part of the matching requirement described in paragraph (1) for any fiscal year for an eligible entity described in subparagraph (A) or (B) of section 9832(2) of this title, if the Secretary determines that applying the matching requirement to such eligible entity would result in serious hardship or an inability to carry out the authorized activities described in subsection (g).
+&emsp;The Secretary may waive all or part of the matching requirement described in paragraph\(1) for any fiscal year for an eligible entity described in subparagraph (A) or (B) of section 9832(2) of this title, if the Secretary determines that applying the matching requirement to such eligible entity would result in serious hardship or an inability to carry out the authorized activities described in subsection (g).
 
 #### (i) Supplement not supplant
 
@@ -148,7 +148,13 @@ From the amount made available for any fiscal year under subsection (<i>l</i>), 
 
 #### (<i>l</i>) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $75,000,000 for fiscal year 2008, and such sums as may be necessary for each of the 2 succeeding fiscal years.
+There are authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2011 through 2013.
 
-(Pub. L. 110–69, title VI, §6123, Aug. 9, 2007, 121 Stat. 636.)
+(Pub. L. 110–69, title VI, §6123, Aug. 9, 2007, 121 Stat. 636; Pub. L. 111–358, title X, §1003(b), Jan. 4, 2011, 124 Stat. 4048.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (h)(1). Pub. L. 111–358, §1003(b)(1), substituted “50” for “100” and “100” for “200”.
+
+Subsec. (<i>l</i>). Pub. L. 111–358, §1003(b)(2), added subsec. (<i>l</i>) and struck out former subsec. (<i>l</i>). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section $75,000,000 for fiscal year 2008, and such sums as may be necessary for each of the 2 succeeding fiscal years.”
 

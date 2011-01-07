@@ -12,7 +12,7 @@ The Secretary shall accept nominations of land to be leased at any time from qua
 
 #### (2) Competitive lease sales
 
-&emsp;The Secretary shall hold a competitive lease sale at least once every 2 years for land in aState that has nominations pending under subsection (a) of this section if the land is otherwise available for leasing.
+&emsp;The Secretary shall hold a competitive lease sale at least once every 2 years for land in a State that has nominations pending under subsection (a) of this section if the land is otherwise available for leasing.
 
 #### (3) Lands subject to mining claims
 
@@ -68,7 +68,7 @@ August 8, 2005, referred to in subsec. (d)(1), was in the original “the date o
 
 #### Amendments
 
-2005—Pub. L. 109–58, §222, inserted section catchline and amended text generally. Prior to amendment, text related to competitive bidding requirements, conversion of prior leases to geothermal leases, conflicting land interests, conversion of prior applications, acreage limitation, regulations, and time for payment.
+<b>2005</b>—Pub. L. 109–58, §222, inserted section catchline and amended text generally. Prior to amendment, text related to competitive bidding requirements, conversion of prior leases to geothermal leases, conflicting land interests, conversion of prior applications, acreage limitation, regulations, and time for payment.
 
 Subsecs. (f), (g). Pub. L. 109–58, §223(b), added subsecs. (f) and (g).
 

@@ -16,7 +16,7 @@ The Secretary of the department in which the Coast Guard is operating may assess
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–591, §6(3), substituted “$5,000” for “$500”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–591, §6(3), substituted “$5,000” for “$500”.
 
 Subsec. (b). Pub. L. 96–591, §6(4), substituted “not more than $5,000” for “$500”.
 

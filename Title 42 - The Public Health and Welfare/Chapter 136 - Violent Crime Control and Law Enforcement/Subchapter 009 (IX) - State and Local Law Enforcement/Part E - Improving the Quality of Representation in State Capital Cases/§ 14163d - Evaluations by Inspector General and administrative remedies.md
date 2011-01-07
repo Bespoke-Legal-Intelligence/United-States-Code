@@ -16,7 +16,7 @@
 
 #### (3) Determination for statutory procedure States
 
-&emsp;For each State that employs a statutory procedure described in section 14163(e)(1)(C) of this title, the Inspector General shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate, not later than the end of the first fiscal year for which such State receives funds, a determination as to whether the State is in substantial compliance with the requirements of the applicable State statute.
+&emsp;For each State that employs a statutory procedure described in section 14163(e)(1)(C) of this title, the Inspector General shall submit to the Committee on the Judiciary of theHouse of Representatives and the Committee on the Judiciary of the Senate, not later than the end of the first fiscal year for which such State receives funds, a determination as to whether the State is in substantial compliance with the requirements of the applicable State statute.
 
 #### (4) Comments from public
 
@@ -52,7 +52,7 @@ Not less than 2.5 percent of the funds appropriated to carry out this part for e
 
 #### (1) In general
 
-&emsp;In the case of a State that employs a statutory procedure described in section 14163(e)(1)(C) of this title, if the Inspector General submits a determination under subsection (a)(3) of this section that the State is not in substantial compliance with the requirements of the applicable State statute, then for the period beginning with the date on which that determination was submitted and ending onthe date on which the Inspector General determines that the State is in substantial compliance with the requirements of that statute, the funds awarded under this part shall be allocated solely for the uses described in section 14163 of this title.
+&emsp;In the case of a State that employs a statutory procedure described in section 14163(e)(1)(C) of this title, if the Inspector General submits a determination under subsection (a)(3) of this section that the State is not in substantial compliance with the requirements of the applicable State statute, then for the period beginning with the date on which that determination was submitted and ending on the date on which the Inspector General determines that the State is in substantial compliance with the requirements of that statute, the funds awarded under this part shall be allocated solely for the uses described in section 14163 of this title.
 
 #### (2) Rule of construction
 

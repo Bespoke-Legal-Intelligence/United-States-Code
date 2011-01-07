@@ -26,13 +26,13 @@ The Federal-Aid Road Act approved July 11, 1916 (39 Stat. 355), referred to in t
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in last par.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in last par.
 
-1966—Pub. L. 89–670 substituted “Secretary of Transportation” for “Secretary of Commerce” wherever appearing.
+<b>1966</b>—Pub. L. 89–670 substituted “Secretary of Transportation” for “Secretary of Commerce” wherever appearing.
 
-1954—Act May 6, 1954, substituted in second par. “with respect to the character, quality, quantity, or cost of any work performed or to be performed, or materials furnished or to be furnished, in connection with the construction” for “for work or materials for the construction”; and in third par. substituted “as to a material fact in any statement, certificate, or report submitted pursuant to the provisions of the Federal-Aid Road Act approved July 11, 1916 (39 Stat. 355), as amended and supplemented” for “in any report required under Title 23, with intent to defraud the United States”.
+<b>1954</b>—Act May 6, 1954, substituted in second par. “with respect to the character, quality, quantity, or cost of any work performed or to be performed, or materials furnished or to be furnished, in connection with the construction” for “for work or materials for the construction”; and in third par. substituted “as to a material fact in any statement, certificate, or report submitted pursuant to the provisions of the Federal-Aid Road Act approved July 11, 1916 (39 Stat. 355), as amended and supplemented” for “in any report required under Title 23, with intent to defraud the United States”.
 
-1951—Act Oct. 31, 1951, substituted “Secretary of Commerce” for “Secretary of Agriculture” in first and second pars.
+<b>1951</b>—Act Oct. 31, 1951, substituted “Secretary of Commerce” for “Secretary of Agriculture” in first and second pars.
 
 #### Effective Date of 1966 Amendment
 

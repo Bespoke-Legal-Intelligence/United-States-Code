@@ -100,7 +100,7 @@ Sensitive personal information.—The term “sensitive personal information”,
 
 &emsp;(20)
 
-Subordinate plan.—The term “subordinate plan”, also referred to as a “system security plan”, means a subordinate plan defines <sup>1</sup> the security controls that are either planned or implemented for networks, facilities, systems, or groups of systems, as appropriate, within a specific accreditation boundary.
+Subordinate plan.—The term “subordinate plan”, also referred to as a “system security plan”, means a plan that defines the security controls that are either planned or implemented for networks, facilities, systems, or groups of systems, as appropriate, within a specific accreditation boundary.
 
 &emsp;(21)
 
@@ -114,7 +114,9 @@ Va national rules of behavior.—The term “VA National Rules of Behavior” me
 
 Va sensitive data.—The term “VA sensitive data” means all Department data, on any storage media or in any form or format, which requires protection due to the risk of harm that could result from inadvertent or deliberate disclosure, alteration, or destruction of the information and includes information whose improper use or disclosure could adversely affect the ability of an agency to accomplish its mission, proprietary information, and records about individuals requiring protection under applicable confidentiality provisions.
 
-(Added Pub. L. 109–461, title IX, §902(a), Dec. 22, 2006, 120 Stat. 3457.)
+(Added Pub. L. 109–461, title IX, §902(a), Dec. 22, 2006, 120 Stat. 3457; amended Pub. L. 111–275, title X, §1001(m)(2), Oct. 13, 2010, 124 Stat. 2897.)
 
-<i><sup>1</sup></i><i> So in original.</i>
+#### Amendments
+
+<b>2010</b>—Par. (20). Pub. L. 111–275 substituted “plan that defines” for “subordinate plan defines”.
 

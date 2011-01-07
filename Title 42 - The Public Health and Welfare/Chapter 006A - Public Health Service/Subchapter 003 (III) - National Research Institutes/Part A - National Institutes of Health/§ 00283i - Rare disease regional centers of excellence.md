@@ -32,7 +32,7 @@ Support of a center under subsection (a) of this section may be for a period of 
 
 #### Amendments
 
-2007—Subsec. (e). Pub. L. 109–482 struck out heading and text of subsec. (e). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as already have been appropriated for fiscal year 2002, and $20,000,000 for each of the fiscal years 2003 through 2006.”
+<b>2007</b>—Subsec. (e). Pub. L. 109–482 struck out heading and text of subsec. (e). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as already have been appropriated for fiscal year 2002, and $20,000,000 for each of the fiscal years 2003 through 2006.”
 
 #### Effective Date of 2007 Amendment
 

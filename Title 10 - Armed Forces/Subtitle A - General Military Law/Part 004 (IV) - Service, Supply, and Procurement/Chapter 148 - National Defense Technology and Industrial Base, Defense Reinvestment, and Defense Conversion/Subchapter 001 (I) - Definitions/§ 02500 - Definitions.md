@@ -2,13 +2,13 @@
 
 In this chapter:
 
-&emsp;(1) The term “national technology and industrial base” means the persons and organizations that are engaged in research, development, production, or maintenance activities conducted within the United States and Canada.
+&emsp;(1) The term “national technology and industrial base” means the persons and organizations that are engaged in research, development, production, integration, services, or information technology activities conducted within the United States and Canada.
 
 &emsp;(2) The term “dual-use” with respect to products, services, standards, processes, or acquisition practices, means products, services, standards, processes, or acquisition practices, respectively, that are capable of meeting requirements for military and nonmilitary applications.
 
 &emsp;(3) The term “dual-use critical technology” means a critical technology that has military applications and nonmilitary applications.
 
-&emsp;(4) The term “technology and industrial base sector” means a group of public or private persons and organizations that engage in, or are capable of engaging in, similar research, development, or production activities.
+&emsp;(4) The term “technology and industrial base sector” means a group of public or private persons and organizations that engage in, or are capable of engaging in, similar research, development, production, integration, services, or information technology activities.
 
 &emsp;(5) The terms “Federal laboratory” and “laboratory” have the meaning given the term “laboratory” in section 12(d)(2) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a(d)(2)), except that such terms include a federally funded research and development center sponsored by a Federal agency.
 
@@ -24,7 +24,7 @@ In this chapter:
 
 &emsp;(9) The term “eligible firm” means a company or other business entity that, as determined by the Secretary of Commerce—
 
-&emsp;&emsp;(A) conducts a significant level of its research, development, engineering, and manufacturing activities in the United States; and
+&emsp;&emsp;(A) conducts a significant level of its research, development, engineering, manufacturing, integration, services, and information technology activities in the United States; and
 
 &emsp;&emsp;(B) is a company or other business entity the majority ownership or control of which is by United States citizens or is a company or other business of a parent company that is incorporated in a country the government of which—
 
@@ -54,9 +54,11 @@ In this chapter:
 
 &emsp;&emsp;(B) any other criteria the Secretary may consider necessary to ensure an appropriate equity mix among the participants.
 
-&emsp;(14) The term “person of a foreign country” has the meaning given such term in section3502(d) of the Primary Dealers Act of 1988 (22 U.S.C. 5342(d)).
+&emsp;(14) The term “person of a foreign country” has the meaning given such term in section 3502(d) of the Primary Dealers Act of 1988 (22 U.S.C. 5342(d)).
 
-(Added Pub. L. 102–484, div. D, title XLII, §4203(a), Oct. 23, 1992, 106 Stat. 2661, §2491; amended Pub. L. 103–160, div. A, title XI, §1182(a)(9), title XIII, §1315(f), Nov. 30, 1993, 107 Stat. 1771, 1788; Pub. L. 103–337, div. A, title XI, §§1113(d), 1115(e), Oct. 5, 1994, 108 Stat. 2866, 2869; Pub. L. 104–106, div. A, title X, §1081(h), Feb. 10, 1996, 110 Stat. 455; renumbered §2500 and amended Pub. L. 105–85, div. A, title III, §371(b)(3), title X, §1073(a)(53), Nov. 18, 1997, 111 Stat. 1705, 1903.)
+&emsp;(15) The term “integration” means the process of providing systems engineering and technical direction for a system for the purpose of achieving capabilities that satisfy program requirements.
+
+(Added Pub. L. 102–484, div. D, title XLII, §4203(a), Oct. 23, 1992, 106 Stat. 2661, §2491; amended Pub. L. 103–160, div. A, title XI, §1182(a)(9), title XIII, §1315(f), Nov. 30, 1993, 107 Stat. 1771, 1788; Pub. L. 103–337, div. A, title XI, §§1113(d), 1115(e), Oct. 5, 1994, 108 Stat. 2866, 2869; Pub. L. 104–106, div. A, title X, §1081(h), Feb. 10, 1996, 110 Stat. 455; renumbered §2500 and amended Pub. L. 105–85, div. A, title III, §371(b)(3), title X, §1073(a)(53), Nov. 18, 1997, 111 Stat. 1705, 1903; Pub. L. 111–383, div. A, title VIII, §895(a), Jan. 7, 2011, 124 Stat. 4313.)
 
 #### References in Text
 
@@ -68,11 +70,19 @@ Provisions similar to those in this section were contained in former sections 25
 
 #### Amendments
 
-1997—Pub. L. 105–85, §371(b)(3), renumbered section 2491 of this title as this section.
+<b>2011</b>—Par. (1). Pub. L. 111–383, §895(a)(1), substituted “integration, services, or information technology” for “or maintenance”.
+
+Par. (4). Pub. L. 111–383, §895(a)(2), substituted “production, integration, services, or information technology” for “or production”.
+
+Par. (9)(A). Pub. L. 111–383, §895(a)(3), substituted “manufacturing, integration, services, and information technology” for “and manufacturing”.
+
+Par. (15). Pub. L. 111–383, §895(a)(4), added par. (15).
+
+<b>1997</b>—Pub. L. 105–85, §371(b)(3), renumbered section 2491 of this title as this section.
 
 Par. (8). Pub. L. 105–85, §1073(a)(53), substituted “that is identified under section 2505 of this title as critical for attaining the national security objectives set forth in section 2501(a) of this title.” for “that appears on the list of critical technologies contained, pursuant to subsection (b)(4) of section 2505 of this title, in the most recent national technology and industrial base assessment submitted to Congress by the Secretary of Defense pursuant to section 2506(e) of this title.”
 
-1996—Pars. (11) to (16). Pub. L. 104–106 redesignated pars. (13) to (16) as (11) to (14), respectively, and struck out former pars. (11) and (12) which read as follows:
+<b>1996</b>—Pars. (11) to (16). Pub. L. 104–106 redesignated pars. (13) to (16) as (11) to (14), respectively, and struck out former pars. (11) and (12) which read as follows:
 
 “(11) The term ‘manufacturing extension program’ means a public or private, nonprofit program for the improvement of the quality, productivity, and performance of United States-based small manufacturing firms in the United States.
 
@@ -84,11 +94,11 @@ Par. (8). Pub. L. 105–85, §1073(a)(53), substituted “that is identified und
 
 &emsp;“(C) is an eligible firm.”
 
-1994—Par. (5). Pub. L. 103–337, §1113(d), inserted before period at end “, except that such terms include a federally funded research and development center sponsored by a Federal agency”.
+<b>1994</b>—Par. (5). Pub. L. 103–337, §1113(d), inserted before period at end “, except that such terms include a federally funded research and development center sponsored by a Federal agency”.
 
 Par. (16). Pub. L. 103–337, §1115(e), added par. (16).
 
-1993—Par. (2). Pub. L. 103–160, §1182(a)(9)(A), substituted “nonmilitary applications” for “nonmilitary application”.
+<b>1993</b>—Par. (2). Pub. L. 103–160, §1182(a)(9)(A), substituted “nonmilitary applications” for “nonmilitary application”.
 
 Par. (8). Pub. L. 103–160, §1182(a)(9)(B), substituted “subsection (b)(4)” for “subsection (f)”.
 
@@ -108,7 +118,7 @@ Section 4001 of Pub. L. 102–484 provided that: “This division \[div. D (§§
 
 #### Application of 1993 Amendments to Existing Technology Reinvestment Projects
 
-Amendment by section 1315(f) of Pub. L. 103–160 not to alter financial commitment requirements in effect on the day before Nov. 30, 1993, for non-Federal Government participants in a project funded under section 2511, 2512, 2513, 2523, or 2524 of this title, using funds appropriated for a fiscal year beginning before Oct. 1, 1993, see section 1315(g) of Pub. L. 103–160, set out as a note under section 2511 of this title.
+Amendment by section 1315(f) of Pub. L. 103–160 not to alter financial commitment requirements in effect onthe day before Nov. 30, 1993, for non-Federal Government participants in a project funded under section 2511, 2512, 2513, 2523, or 2524 of this title, using funds appropriated for a fiscal year beginning before Oct. 1, 1993, see section 1315(g) of Pub. L. 103–160, set out as a note under section 2511 of this title.
 
 #### Congressional Findings
 
@@ -134,9 +144,11 @@ Section 4101 of Pub. L. 102–484 provided that: “Congress makes the following
 
 #### Purposes of Title XLII of Pub. L. 102–484
 
-Section 4201 of title XLII of div. D of Pub. L. 102–484 provided that: “The purposes of this title \[see Tablesfor classification\] are to consolidate, revise, clarify, and reenact policies and requirements, and to enact additional policies and requirements, relating to the national technology and industrial base, defense reinvestment, and defense conversion programs that further national security objectives.”
+Section 4201 of title XLII of div. D of Pub. L. 102–484 provided that: “The purposes of this title \[see Tables for classification\] are to consolidate, revise, clarify, and reenact policies and requirements, and to enact additional policies and requirements, relating to the national technology and industrial base, defense reinvestment, and defense conversion programs that further national security objectives.”
 
 #### Transition Provision; “Defense Critical Technology” Defined
 
 Section 4203(b) of Pub. L. 102–484 provided that until first national technology and industrial base assessment was submitted to Congress by Secretary of Defense pursuant to former section 2506(e) of this title, the term “defense critical technology” for purposes of this chapter, would have meaning given such term in section 2521 of this title, as in effect on day before Oct. 23, 1992.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

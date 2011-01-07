@@ -139,7 +139,7 @@ For purposes of this subchapter—
 
 #### (2) De minimis exception
 
-&emsp;The term “imported taxable product” shall not include any product specified in regulations prescribed by the Secretary as using a de minimis amount of ozone-depleting chemicals as materials in the manufacture or production thereof. The preceding sentence shall not apply to any product in which any ozone-depleting chemical (other than methyl chloroform) is used for purposes of refrigeration or air conditioning, creating an aerosol or foam, or manufacturing electronic components.
+&emsp;The term “imported taxable product” shall not include any product specified in regulations prescribed by the Secretary as using a de minimis amount of ozone-depleting chemicals as materials in the manufacture or productionthereof. The preceding sentence shall not apply to any product in which any ozone-depleting chemical (other than methyl chloroform) is used for purposes of refrigeration or air conditioning, creating an aerosol or foam, or manufacturing electronic components.
 
 #### (d) Exceptions
 
@@ -229,7 +229,7 @@ For purposes of this subchapter—
 
 #### (1) Fractional parts of a pound
 
-&emsp;In the case of a fraction of a pound, the tax imposed by this subchapter shall be the samefraction of the amount of such tax imposed on a whole pound.
+&emsp;In the case of a fraction of a pound, the tax imposed by this subchapter shall be the same fraction of the amount of such tax imposed on a whole pound.
 
 #### (2) Disposition of revenues from Puerto Rico and the Virgin Islands
 
@@ -301,15 +301,15 @@ A prior section 4682, added Pub. L. 96–510, title II, §231(a), Dec. 11, 1980,
 
 #### Amendments
 
-1997—Subsec. (d)(1). Pub. L. 105–34, §903(a), substituted “recycled Halon-1301 or recycled Halon-2402” for “recycled halon”.
+<b>1997</b>—Subsec. (d)(1). Pub. L. 105–34, §903(a), substituted “recycled Halon-1301 or recycled Halon-2402” for “recycled halon”.
 
 Subsec. (g). Pub. L. 105–34, §1432(c)(2), amended subsec. (g) generally. Prior to amendment, subsec. (g) consisted of pars. (1) to (5) relating to taxes imposed during 1990 to 1993 on halons, chemicals used in rigid foam insulation, and methyl chloroform and taxes imposed on chemicals used as propellants in metered-dose inhalers.
 
-1996—Subsec. (d)(1). Pub. L. 104–188, §1803(a)(1), inserted before period at end “, or on any recycled halon imported from any country which is a signatory to the Montreal Protocol on Substances that Deplete the Ozone Layer”.
+<b>1996</b>—Subsec. (d)(1). Pub. L. 104–188, §1803(a)(1), inserted before period at end “, or on any recycled halonimported from any country which is a signatory to the Montreal Protocol on Substances that Deplete the Ozone Layer”.
 
 Subsec. (g)(4). Pub. L. 104–188, §1803(b), amended par. (4) generally, substituting provisions relating to chemicals used as propellants in metered-dose inhalers for provisions relating to chemicals used for sterilizing medical instruments and as propellants in metered-dose inhalers, including provisions relating to rate of tax, overpayments, and applicable period.
 
-1992—Subsec. (g)(2)(A). Pub. L. 102–486, §1932(a), in table, for sales or use during 1993, decreased applicable percentages from 3.3, 1.0, and 1.6 to 2.49, 0.75, and 1.24 in the case of Halon-1211, Halon-1301, and Halon-2402, respectively, and struck out applicable percentages for sales or use during 1991 and 1992.
+<b>1992</b>—Subsec. (g)(2)(A). Pub. L. 102–486, §1932(a), in table, for sales or use during 1993, decreased applicable percentages from 3.3, 1.0, and 1.6 to 2.49, 0.75, and 1.24 in the case of Halon-1211, Halon-1301, and Halon-2402, respectively, and struck out applicable percentages for sales or use during 1991 and 1992.
 
 Subsec. (g)(2)(B). Pub. L. 102–486, §1931(b), in table decreased applicable percentage in the case of sales or use in 1993 from 10 to 7.46.
 
@@ -317,7 +317,7 @@ Subsec. (g)(4), (5). Pub. L. 102–486, §1932(b), (c), added pars. (4) and (5).
 
 Subsec. (h)(2)(C). Pub. L. 102–486, §1931(c), substituted “any calendar year after 1991” for “1991, 1992, 1993, and 1994”.
 
-1990—Subsecs. (a)(2), (b). Pub. L. 101–508, §11203(a), inserted items for “Carbon tetrachloride” through “CFC–217” in tables.
+<b>1990</b>—Subsecs. (a)(2), (b). Pub. L. 101–508, §11203(a), inserted items for “Carbon tetrachloride” through “CFC–217” in tables.
 
 Subsec. (c)(2). Pub. L. 101–508, §11203(d)(1), inserted “(other than methyl chloroform)”.
 

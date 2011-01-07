@@ -64,7 +64,7 @@ For purposes of this subtitle, the term “fiscal year” means a period of 12 m
 
 #### (3) Special rule for partnerships, S corporations, and personal service corporations
 
-&emsp;The Secretary may by regulation provide terms and conditions for the application ofthis subsection to a partnership, S corporation, or personal service corporation (within the meaning of section 441(i)(2)).
+&emsp;The Secretary may by regulation provide terms and conditions for the application of this subsection to a partnership, S corporation, or personal service corporation (within the meaning of section 441(i)(2)).
 
 #### (4) Regulations
 
@@ -96,7 +96,7 @@ Except as provided in section 443 (relating to returns for periods of less than 
 
 #### (4) Voting power determined
 
-&emsp;For purposes of this subsection, voting power shall be determined on the basis of total combined voting power of all classes of stock of the corporation entitled to vote.
+&emsp;For purposes of this subsection, voting power shall be determined on the basis of totalcombined voting power of all classes of stock of the corporation entitled to vote.
 
 #### (i) Taxable year of personal service corporations
 
@@ -118,29 +118,29 @@ Except as provided in section 443 (relating to returns for periods of less than 
 
 #### Amendments
 
-2007—Subsec. (b)(4). Pub. L. 110–172, §11(g)(7)(A), struck out “FSC or” before “DISC filing”.
+<b>2007</b>—Subsec. (b)(4). Pub. L. 110–172, §11(g)(7)(A), struck out “FSC or” before “DISC filing”.
 
 Subsec. (h). Pub. L. 110–172, §11(g)(7)(B), struck out “FSC's and” before “DISC's” in heading and “FSC or” before “DISC” in pars. (1) and (2).
 
-1988—Subsec. (i)(2). Pub. L. 100–647 inserted at end “A corporation shall not be treated as a personal service corporation unless more than 10 percent of the stock (by value) in such corporation is held by employee-owners (within the meaning of section 269A(b)(2), as modified by the preceding sentence). If a corporation is a member of an affiliated group filing a consolidated return, all members of such group shall be taken into account in determining whether such corporation is a personal service corporation.”
+<b>1988</b>—Subsec. (i)(2). Pub. L. 100–647 inserted at end “A corporation shall not be treated as a personal service corporation unless more than 10 percent of the stock (by value) in such corporation is held by employee-owners (within the meaning of section 269A(b)(2), as modified by the preceding sentence). If a corporation is a member of an affiliated group filing a consolidated return, all members of such group shall be taken into account in determining whether such corporation is a personal service corporation.”
 
-1986—Subsec. (f)(2)(B)(iii). Pub. L. 99–514, §104(b)(6), struck out “and by adding the zero bracket amount,” after “in the short period,”.
+<b>1986</b>—Subsec. (f)(2)(B)(iii). Pub. L. 99–514, §104(b)(6), struck out “and by adding the zero bracket amount,” after “in the short period,”.
 
 Subsec. (f)(3), (4). Pub. L. 99–514, §806(d), added par. (3) and redesignated former par. (3) as (4).
 
 Subsec. (i). Pub. L. 99–514, §806(c)(1), added subsec. (i).
 
-1984—Subsec. (b)(4). Pub. L. 98–369, §803(a), added par. (4).
+<b>1984</b>—Subsec. (b)(4). Pub. L. 98–369, §803(a), added par. (4).
 
 Subsec. (f)(2)(A). Pub. L. 98–369, §474(b)(2), substituted “section 15” for “section 21” in provisions preceding cl. (i).
 
 Subsec. (h). Pub. L. 98–369, §803(b), added subsec. (h).
 
-1977—Subsec. (f)(2)(B)(iii). Pub. L. 95–30 substituted “multiplying the gross income for such short period (minus the deductions allowed by this chapter for the short period, but only the adjusted amount of the deductions for personal exemptions as described in section 443(c)) by 365, by dividing the result by the number of days in the short period, and by adding the zero bracket amount” for “multiplying such income by 365 and dividing the result by the number of days in the short period”.
+<b>1977</b>—Subsec. (f)(2)(B)(iii). Pub. L. 95–30 substituted “multiplying the gross income for such short period (minus the deductions allowed by this chapter for the short period, but only the adjusted amount of the deductions for personal exemptions as described in section 443(c)) by 365, by dividing the result by the number of days in the short period, and by adding the zero bracket amount” for “multiplying such income by 365 and dividing the result by the number of days in the short period”.
 
-1976—Subsec. (f)(3). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (f)(3). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1964—Subsec. (f)(2)(A). Pub. L. 88–272 inserted “, including,” before “or ending with reference to”.
+<b>1964</b>—Subsec. (f)(2)(A). Pub. L. 88–272 inserted “, including,” before “or ending with reference to”.
 
 #### Effective Date of 1988 Amendment
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 104(b)(6) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by section 104(b)(6) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
 Amendment by section 806(c)(1), (d) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with special provisions applicable to taxpayers who are required to change their accounting periods, see section 806(e) of Pub. L. 99–514, set out as a note under section 1378 of this title.
 

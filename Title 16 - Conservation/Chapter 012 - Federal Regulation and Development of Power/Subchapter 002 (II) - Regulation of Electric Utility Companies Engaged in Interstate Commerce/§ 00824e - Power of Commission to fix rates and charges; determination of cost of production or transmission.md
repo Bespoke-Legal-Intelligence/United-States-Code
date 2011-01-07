@@ -2,7 +2,7 @@
 
 #### (a) Unjust or preferential rates, etc.; statement of reasons for changes; hearing; specification of issues
 
-Whenever the Commission, after a hearing held upon its own motion or upon complaint, shall find that any rate, charge, or classification, demanded, observed, charged, or collected by any public utility for any transmission or sale subject to the jurisdiction of the Commission, or that any rule, regulation, practice, or contract affecting such rate, charge, or classification is unjust, unreasonable, unduly discriminatory or preferential, the Commission shall determine the just and reasonable rate, charge, classification, rule, regulation, practice, or contract to be thereafter observed and in force, and shall fix the same by order. Any complaint or motion of the Commission to initiate a proceeding under this section shall state the change or changes to be made in the rate,charge, classification, rule, regulation, practice, or contract then in force, and the reasons for any proposed change or changes therein. If, after review of any motion or complaint and answer, the Commission shall decide to hold a hearing, it shall fix by order the time and place of such hearing and shall specify the issues to be adjudicated.
+Whenever the Commission, after a hearing held upon its own motion or upon complaint, shall find that any rate, charge, or classification, demanded, observed, charged, or collected by any public utility for any transmission or sale subject to the jurisdiction of the Commission, or that any rule, regulation, practice, or contract affecting such rate, charge, or classification is unjust, unreasonable, unduly discriminatory or preferential, the Commission shall determine the just and reasonable rate, charge, classification, rule, regulation, practice, or contract to be thereafter observed and in force, and shall fix the same by order. Any complaint or motion of the Commission to initiate a proceeding under this section shall state the change or changes to be made in the rate, charge, classification, rule, regulation, practice, or contract then in force, and the reasons for any proposed change or changes therein. If, after review of any motion or complaint and answer, the Commission shall decide to hold a hearing, it shall fix by order the time and place of such hearing and shall specify the issues to be adjudicated.
 
 #### (b) Refund effective date; preferential proceedings; statement of reasons for delay; burden of proof; scope of refund order; refund orders in cases of dilatory behavior; interest
 
@@ -10,7 +10,7 @@ Whenever the Commission institutes a proceeding under this section, the Commissi
 
 #### (c) Refund considerations; shifting costs; reduction in revenues; “electric utility companies” and “registered holding company” defined
 
-Notwithstanding subsection (b) of this section, in a proceeding commenced under this section involving two or more electric utility companies of a registered holding company, refunds which might otherwise be payable under subsection (b) of this section shall not be ordered to the extent that such refunds would result from any portion of a Commission order that (1) requires a decrease in system production or transmission costs to be paid by one or more of such electric companies; and (2) is based upon a determination that the amount of such decrease should be paid through an increase in the costs to be paid by other electric utility companies of such registered holding company: <i>Provided</i>, That refunds, in whole or in part, may be ordered by the Commission if it determines that the registered holding company would not experience any reduction in revenues which results from an inability of an electric utility company of the holding company to recover such increase in costs for the period between the refund effective date and the effective date of the Commission's order. For purposes of this subsection, the terms “electric utility companies” and “registered holding company” shall have the same meanings as provided in the Public Utility Holding Company Act of 1935, as amended.<sup>1</sup>
+Notwithstanding subsection (b) of this section, in a proceeding commenced under this section involving two or more electric utility companiesof a registered holding company, refunds which might otherwise be payable under subsection (b) of this section shall not be ordered to the extent that such refunds would result from any portion of a Commission order that (1) requires a decrease in system production or transmission costs to be paid by one or more of such electric companies; and (2) is based upon a determination that the amount of such decrease should be paid through an increase in the costs to be paid by other electric utility companies of such registered holding company: <i>Provided</i>, That refunds, in whole or in part, may be ordered by the Commission if it determines that the registered holding company would not experience any reduction in revenues which results from an inability of an electric utility company of the holding company to recover such increase in costs for the period between the refund effective date and the effective date of the Commission's order. For purposes of this subsection, the terms “electric utility companies” and “registered holding company” shall have the same meanings as provided in the Public Utility Holding Company Act of 1935, as amended.<sup>1</sup>
 
 #### (d) Investigation of costs
 
@@ -32,7 +32,7 @@ The Commission upon its own motion, or upon the request of any State commission 
 
 &emsp;(B) an electric cooperative.
 
-(4)(A) The Commission shall have refund authority under paragraph (2) with respect to a voluntary short term sale of electric energy bythe Bonneville Power Administration only if the sale is at an unjust and unreasonable rate.
+(4)(A) The Commission shall have refund authority under paragraph (2) with respect to a voluntary short term sale of electric energy by the Bonneville Power Administration only if the sale is at an unjust and unreasonable rate.
 
 (B) The Commission may order a refund under subparagraph (A) only for short-term sales made by the Bonneville Power Administration at rates that are higher than the highest just and reasonable rate charged by any other entity for a short-term sale of electric energy in the same geographic market for the same, or most nearly comparable, period as the sale by the Bonneville Power Administration.
 
@@ -46,7 +46,7 @@ The Public Utility Holding Company Act of 1935, referred to in subsec. (c), is t
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–58, §1295(b)(1), substituted “hearing held” for “hearing had” in first sentence.
+<b>2005</b>—Subsec. (a). Pub. L. 109–58, §1295(b)(1), substituted “hearing held” for “hearing had” in first sentence.
 
 Subsec. (b). Pub. L. 109–58, §1295(b)(2), struck out “the public utility to make” before “refunds of any amounts paid” in seventh sentence.
 
@@ -54,7 +54,7 @@ Pub. L. 109–58, §1285, in second sentence, substituted “the date of the fil
 
 Subsec. (e). Pub. L. 109–58, §1286, added subsec. (e).
 
-1988—Subsec. (a). Pub. L. 100–473, §2(1), inserted provisions for a statement of reasons for listed changes, hearings, and specification of issues.
+<b>1988</b>—Subsec. (a). Pub. L. 100–473, §2(1), inserted provisions for a statement of reasons for listed changes, hearings, and specification of issues.
 
 Subsecs. (b) to (d). Pub. L. 100–473, §2(2), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 

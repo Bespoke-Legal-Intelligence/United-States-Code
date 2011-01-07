@@ -16,27 +16,27 @@ The Bureau is authorized to—
 
 &emsp;(2) collect and analyze information concerning criminal victimization, including crimes against the elderly, and civil disputes;
 
-&emsp;(3) collect and analyze data that will serve as a continuous and comparable national social indication of the prevalence, incidence, rates, extent, distribution, and attributes of crime, juvenile delinquency, civil disputes, and other statistical factors related to crime, civil disputes, and juvenile delinquency, in support of national, State, and local justice policy and decisionmaking;
+&emsp;(3) collect and analyze data that will serve as a continuous and comparable national social indication of the prevalence, incidence, rates, extent, distribution, and attributes of crime, juvenile delinquency, civil disputes, and other statistical factors related to crime, civil disputes, and juvenile delinquency, in support of national, State, tribal, and local justice policy and decisionmaking;
 
-&emsp;(4) collect and analyze statistical information, concerning the operations of the criminal justice system at the Federal, State, and local levels;
+&emsp;(4) collect and analyze statistical information, concerning the operations of the criminal justice system at the Federal, State, tribal, and local levels;
 
-&emsp;(5) collect and analyze statistical information concerning the prevalence, incidence, rates, extent, distribution, and attributes of crime, and juvenile delinquency, at the Federal, State, and local levels;
+&emsp;(5) collect and analyze statistical information concerning the prevalence, incidence, rates, extent, distribution, and attributes of crime, and juvenile delinquency, at the Federal, State, tribal, and local levels;
 
-&emsp;(6) analyze the correlates of crime, civil disputes and juvenile delinquency, by the use of statistical information, about criminal and civil justice systems at the Federal, State, and local levels, and about the extent, distribution and attributes of crime, and juvenile delinquency, in the Nation and at the Federal, State, and local levels;
+&emsp;(6) analyze the correlates of crime, civil disputes and juvenile delinquency, by the use of statistical information, about criminal and civil justice systems at the Federal, State, tribal, and local levels, and about the extent, distribution and attributes of crime, and juvenile delinquency, in the Nation and at the Federal, State, tribal, and local levels;
 
-&emsp;(7) compile, collate, analyze, publish, and disseminate uniform national statistics concerning all aspects of criminal justice and related aspects of civil justice, crime, including crimes against the elderly, juvenile delinquency, criminal offenders, juvenile delinquents, and civil disputes in the various States;
+&emsp;(7) compile, collate, analyze, publish, and disseminate uniform national statistics concerning all aspects of criminal justice and related aspects of civil justice, crime, including crimes against the elderly, juvenile delinquency, criminal offenders, juvenile delinquents, and civil disputes in the various States and in Indian country;
 
 &emsp;(8) recommend national standards for justice statistics and for insuring the reliability and validity of justice statistics supplied pursuant to this chapter;
 
-&emsp;(9) maintain liaison with the judicial branches of the Federal and State Governments in matters relating to justice statistics, and cooperate with the judicial branch in assuring as much uniformity as feasible in statistical systems of the executive and judicial branches;
+&emsp;(9) maintain liaison with the judicial branches of the Federal Government and State and tribal governments in matters relating to justice statistics, and cooperate with the judicial branch in assuring as much uniformity as feasible in statistical systems of the executive and judicial branches;
 
-&emsp;(10) provide information to the President, the Congress, the judiciary, State and local governments, and the general public on justice statistics;
+&emsp;(10) provide information to the President, the Congress, the judiciary, State, tribal, and local governments, and the general public on justice statistics;
 
-&emsp;(11) establish or assist in the establishment of a system to provide State and local governments with access to Federal informational resources useful in the planning, implementation, and evaluation of programs under this Act;
+&emsp;(11) establish or assist in the establishment of a system to provide State, tribal, and local governments with access to Federal informational resources useful in the planning, implementation, and evaluation of programs under this Act;
 
 &emsp;(12) conduct or support research relating to methods of gathering or analyzing justice statistics;
 
-&emsp;(13) provide for the development of justice information systems programs and assistance to the States and units of local government relating to collection, analysis, or dissemination of justice statistics;
+&emsp;(13) provide for the development of justice information systems programs and assistance to the States, Indian tribes, and units of local government relating to collection, analysis, or dissemination of justice statistics;
 
 &emsp;(14) develop and maintain a data processing capability to support the collection, aggregation, analysis and dissemination of information on the incidence of crime and the operation of the criminal justice system;
 
@@ -44,67 +44,107 @@ The Bureau is authorized to—
 
 &emsp;(16) provide for the collection, compilation, analysis, publication and dissemination of information and statistics about the prevalence, incidence, rates, extent, distribution and attributes of drug offenses, drug related offenses and drug dependent offenders and further provide for the establishment of a national clearinghouse to maintain and update a comprehensive and timely data base on all criminal justice aspects of the drug crisis and to disseminate such information;
 
-&emsp;(17) provide for the collection, analysis, dissemination and publication of statistics on the condition and progress of drug control activities at the Federal, State and local levels with particular attention to programs and intervention efforts demonstrated to be of value in the overall national anti-drug strategy and to provide for the establishment of a national clearinghouse for the gathering of data generated by Federal, State, and local criminal justice agencies on their drug enforcement activities;
+&emsp;(17) provide for the collection, analysis, dissemination and publication of statistics on the condition and progress of drug control activities at the Federal, State, tribal, and local levels with particular attention to programs and intervention efforts demonstrated to be of value in the overall national anti-drug strategy and to provide for the establishment of a national clearinghouse for the gathering of data generated by Federal, State, tribal, and local criminal justice agencies on their drug enforcement activities;
 
-&emsp;(18) provide for the development and enhancement of State and local criminal justice information systems, and the standardization of data reporting relating to the collection, analysis or dissemination of data and statistics about drug offenses, drug related offenses, or drug dependent offenders;
+&emsp;(18) provide for the development and enhancement of State, tribal, and local criminal justice information systems, and the standardization of data reporting relating to the collection, analysis or dissemination of data and statistics about drug offenses, drug related offenses, or drug dependent offenders;
 
-&emsp;(19) provide for improvements in the accuracy, quality, timeliness, immediate accessibility, and integration of State criminal history and related records, support the development and enhancement of national systems of criminal history and related records including the National Instant Criminal Background Check System, the National Incident-Based Reporting System, and the records of the National Crime Information Center, facilitate State participation in national records and information systems, and support statistical research for critical analysis of the improvement and utilization of criminal history records;
+&emsp;(19) provide for improvements in the accuracy, quality, timeliness, immediate accessibility, and integration of State and tribal criminal history and related records, support the development and enhancement of national systems of criminal history and related records including the National Instant Criminal Background Check System, the National Incident-Based Reporting System, and the records of the National Crime Information Center, facilitate State and tribal participation in national records and information systems, and support statistical research for critical analysis of the improvement and utilization of criminal history records;
 
-&emsp;(20) maintain liaison with State and local governments and governments of other nations concerning justice statistics;
+&emsp;(20) maintain liaison with State, tribal, and local governments and governments of other nations concerning justice statistics;
 
 &emsp;(21) cooperate in and participate with national and international organizations in the development of uniform justice statistics;
 
-&emsp;(22) ensure conformance with security and privacy requirement of section 3789g of this title and identify, analyze, and participate in the development and implementation of privacy, security and information policies which impact on Federal and State criminal justice operations and related statistical activities; and
+&emsp;(22) ensure conformance with security and privacy requirement of section 3789g of this title and identify, analyze, and participate in the development and implementation of privacy, security and information policies which impact on Federal, tribal, and State criminal justice operations and related statistical activities; and
 
 &emsp;(23) exercise the powers and functions set out in subchapter VIII of this chapter.
 
 #### (d) Justice statistical collection, analysis, and dissemination
 
-To insure that all justice statistical collection, analysis, and dissemination is carried out in a coordinated manner, the Director is authorized to—
+#### (1) In general
 
-&emsp;(1) utilize, with their consent, the services, equipment, records, personnel, information, and facilities of other Federal, State, local, and private agencies and instrumentalities with or without reimbursement therefor, and to enter into agreements with such agencies and instrumentalities for purposes of data collection and analysis;
+&emsp;To ensure that all justice statistical collection, analysis, and dissemination is carried out in a coordinated manner, the Director is authorized to—
 
-&emsp;(2) confer and cooperate with State, municipal, and other local agencies;
+&emsp;&emsp;(A) utilize, with their consent, the services, equipment, records, personnel, information, and facilities of other Federal, State, local, and private agencies and instrumentalities with or without reimbursement therefor, and to enter into agreements with such agencies and instrumentalities for purposes of data collection and analysis;
 
-&emsp;(3) request such information, data, and reports from any Federal agency as may be required to carry out the purposes of this chapter;
+&emsp;&emsp;(B) confer and cooperate with State, municipal, and other local agencies;
 
-&emsp;(4) seek the cooperation of the judicial branch of the Federal Government in gathering data from criminal justice records;
+&emsp;&emsp;(C) request such information, data, and reports from any Federal agency as may be required to carry out the purposes of this chapter;
 
-&emsp;(5) encourage replication, coordination and sharing among justice agencies regarding information systems, information policy, and data; and
+&emsp;&emsp;(D) seek the cooperation of the judicial branch of the Federal Government in gathering data from criminal justice records;
 
-&emsp;(6) confer and cooperate with Federal statistical agencies as needed to carry out the purposes of this subchapter, including by entering into cooperative data sharing agreements in conformity with all laws and regulations applicable to the disclosure and use of data.
+&emsp;&emsp;(E) encourage replication, coordination and sharing among justice agencies regarding information systems, information policy, and data; and
+
+&emsp;&emsp;(F) confer and cooperate with Federal statistical agencies as needed to carry out the purposes of this subchapter, including by entering into cooperative data sharing agreements in conformity with all laws and regulations applicable to the disclosure and use of data.
+
+#### (2) Consultation with Indian tribes
+
+&emsp;The Director, acting jointly with the Assistant Secretary for Indian Affairs (acting through the Office of Justice Services) and the Director of the Federal Bureau of Investigation, shall work with Indian tribes and tribal law enforcement agencies to establish and implement such tribal data collection systems as the Director determines to be necessary to achieve the purposes of this section.
 
 #### (e) Furnishing of information, data, or reports by Federal agencies
 
-Federal agencies requested to furnish information, data, or reports pursuant to subsection (d)(3) of this section shall provide such information to the Bureau as is required to carry out the purposes of this section.
+Federal agencies requested to furnish information, data, or reports pursuant to subsection (d)(1)(C) of this section shall provide such information to the Bureau as is required to carry out the purposes of this section.
 
-#### (f) Consultation with representatives of State and local government and judiciary
+#### (f) Consultation with representatives of State, tribal, and local government and judiciary
 
-In recommending standards for gathering justice statistics under this section, the Director shall consult with representatives of State and local government, including, where appropriate, representatives of the judiciary.
+In recommending standards for gathering justice statistics under this section, the Director shall consult with representatives of State, tribal, and local government, including, where appropriate, representatives of the judiciary.
 
-(Pub. L. 90–351, title I, §302, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1176; amended Pub. L. 98–473, title II, §605(b), Oct. 12, 1984, 98 Stat. 2079; Pub. L. 100–690, title VI, §6092(a), Nov. 18, 1988, 102 Stat. 4339; Pub. L. 103–322, title XXXIII, §330001(h)(2), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 109–162, title XI, §1115(a), Jan. 5, 2006, 119 Stat. 3103.)
+#### (g) Reports
+
+Not later than 1 year after July 29, 2010, and annually thereafter, the Director shall submit to Congress a report describing the data collected and analyzed under this section relating to crimes in Indian country.
+
+(Pub. L. 90–351, title I, §302, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1176; amended Pub. L. 98–473, title II, §605(b), Oct. 12, 1984, 98 Stat. 2079; Pub. L. 100–690, title VI, §6092(a), Nov. 18, 1988, 102 Stat. 4339; Pub. L. 103–322, title XXXIII, §330001(h)(2), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 109–162, title XI, §1115(a), Jan. 5, 2006, 119 Stat. 3103; Pub. L. 111–211, title II, §251(b), July 29, 2010, 124 Stat. 2297.)
 
 #### References in Text
 
-This Act, referred to in subsecs. (b) and (c)(11), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, as amended, known as the Omnibus Crime Control and Safe Streets Act of 1968. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of this title and Tables.
+This Act, referred to in subsecs. (b) and (c)(11), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, known as the Omnibus Crime Control and Safe Streets Act of 1968. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of this title and Tables.
 
 #### Prior Provisions
 
-A prior section 3732, Pub. L. 90–351, title I, §302, June 19, 1968, 82 Stat. 200; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 201; Pub. L. 94–503, title I, §110, Oct. 15, 1976, 90 Stat. 2412, related to establishment of State planning agencies to develop comprehensive State plans for grants for law enforcement and criminal justice purposes, prior to the general amendment of this chapter by Pub. L. 96–157.
+A prior section 3732, Pub. L. 90–351, title I, §302, June 19, 1968, 82 Stat. 200; Pub. L. 93–83, §2, Aug. 6, 1973, 87Stat. 201; Pub. L. 94–503, title I, §110, Oct. 15, 1976, 90 Stat. 2412, related to establishment of State planning agencies to develop comprehensive State plans for grants for law enforcement and criminal justice purposes, prior to the general amendment of this chapter by Pub. L. 96–157.
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–162, §1115(a)(1), inserted after third sentence “The Director shall be responsible for the integrity of data and statistics and shall protect against improper or illegal use or disclosure.”
+<b>2010</b>—Subsec. (c)(3) to (6). Pub. L. 111–211, §251(b)(1)(A), inserted “tribal,” after “State,” wherever appearing.
+
+Subsec. (c)(7). Pub. L. 111–211, §251(b)(1)(B), inserted “and in Indian country” after “States”.
+
+Subsec. (c)(9). Pub. L. 111–211, §251(b)(1)(C), substituted “Federal Government and State and tribal governments” for “Federal and State Governments”.
+
+Subsec. (c)(10), (11). Pub. L. 111–211, §251(b)(1)(D), inserted “, tribal,” after “State”.
+
+Subsec. (c)(13). Pub. L. 111–211, §251(b)(1)(E), inserted “, Indian tribes,” after “States”.
+
+Subsec. (c)(17). Pub. L. 111–211, §251(b)(1)(F), substituted “activities at the Federal, State, tribal, and local” for “activities at the Federal, State and local” and “generated by Federal, State, tribal, and local” for “generated by Federal, State, and local”.
+
+Subsec. (c)(18). Pub. L. 111–211, §251(b)(1)(G), substituted “State, tribal, and local” for “State and local”.
+
+Subsec. (c)(19). Pub. L. 111–211, §251(b)(1)(H), inserted “and tribal” after “State” in two places.
+
+Subsec. (c)(20). Pub. L. 111–211, §251(b)(1)(I), inserted “, tribal,” after “State”.
+
+Subsec. (c)(22). Pub. L. 111–211, §251(b)(1)(J), inserted “, tribal,” after “Federal”.
+
+Subsec. (d). Pub. L. 111–211, §251(b)(2), designated existing provisions as par. (1), inserted par. (1) heading, substituted “To ensure” for “To insure”, redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), realigned margins, and added par. (2).
+
+Subsec. (e). Pub. L. 111–211, §251(b)(3), substituted “subsection (d)(1)(C)” for “subsection (d)(3)”.
+
+Subsec. (f). Pub. L. 111–211, §251(b)(4)(B), inserted “, tribal,” after “State”.
+
+Pub. L. 111–211, §251(b)(4)(A), which directed insertion of “, tribal,” after “State” in heading, was executed editorially but could not be executed in original because heading had been editorially supplied.
+
+Subsec. (g). Pub. L. 111–211, §251(b)(5), added subsec. (g).
+
+<b>2006</b>—Subsec. (b). Pub. L. 109–162, §1115(a)(1), inserted after third sentence “The Director shall be responsible for the integrity of data and statistics and shall protect against improper or illegal use or disclosure.”
 
 Subsec. (c)(19). Pub. L. 109–162, §1115(a)(2), amended par. (19) generally. Prior to amendment, par. (19) read as follows: “provide for research and improvements in the accuracy, completeness, and inclusiveness of criminal history record information, information systems, arrest warrant, and stolen vehicle record information and information systems and support research concerning the accuracy, completeness, and inclusiveness of other criminal justice record information;”.
 
 Subsec. (d)(6). Pub. L. 109–162, §1115(a)(3), added par. (6).
 
-1994—Subsec. (c)(19). Pub. L. 103–322 substituted a semicolon for period at end.
+<b>1994</b>—Subsec. (c)(19). Pub. L. 103–322 substituted a semicolon for period at end.
 
-1988—Subsec. (c)(16) to (23). Pub. L. 100–690 added pars. (16) to (19) and redesignated former pars. (16) to (19) as (20) to (23), respectively.
+<b>1988</b>—Subsec. (c)(16) to (23). Pub. L. 100–690 added pars. (16) to (19) and redesignated former pars. (16) to (19) as (20) to (23), respectively.
 
-1984—Subsec. (b). Pub. L. 98–473, §605(b)(1), inserted provision requiring Director to report to Attorney General through Assistant Attorney General.
+<b>1984</b>—Subsec. (b). Pub. L. 98–473, §605(b)(1), inserted provision requiring Director to report to Attorney General through Assistant Attorney General.
 
 Subsec. (c)(13). Pub. L. 98–473, §605(b)(2)(A), (C), added par. (13) and struck out former par. (13) relating to provision of financial and technical assistance to States and units of local government relating to collection, analysis, or dissemination of justice statistics.
 
@@ -125,6 +165,16 @@ Subsec. (d)(5). Pub. L. 98–473, §605(b)(3)(B)–(D), added par. (5).
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under section 3711 of this title.
+
+#### Construction of 2010 Amendment
+
+Pub. L. 111–211, title II, §251(c), July 29, 2010, 124 Stat. 2298, provided that: “Nothing in this section \[amending this section and provisions set out as a note under section 534 of Title 28, Judiciary and Judicial Procedure\] or any amendment made by this section—
+
+&emsp;“(1) allows the grant to be made to, or used by, an entity for law enforcement activities that the entity lacks jurisdiction to perform; or
+
+&emsp;“(2) has any effect other than to authorize, award, or deny a grant of funds to a federally recognized Indian tribe for the purposes described in the relevant grant program.”
+
+\[For definition of “Indian tribe” as used in section 251(c) of Pub. L. 111–211, set out above, see section 203(a) of Pub. L. 111–211, set out as a note under section 2801 of Title 25, Indians.\]
 
 #### Study of Crimes Against Seniors
 
@@ -158,7 +208,7 @@ Issues Addressed.—The study conducted under this section shall include an anal
 
 #### Inclusion of Seniors in National Crime Victimization Survey
 
-Pub. L. 106–534, §6, Nov. 22, 2000, 114 Stat. 2557, provided that: “Beginning not later than 2 years after the date of enactment of this Act \[Nov. 22, 2000\], as part of each National Crime Victimization Survey, the Attorney General shall include statistics relating to—
+Pub. L. 106–534, §6, Nov. 22, 2000, 114 Stat. 2557, provided that: “Beginning not later than 2 years after the date of enactment of this Act \[Nov. 22, 2000\], as part ofeach National Crime Victimization Survey, the Attorney General shall include statistics relating to—
 
 &emsp;“(1) crimes targeting or disproportionately affecting seniors;
 

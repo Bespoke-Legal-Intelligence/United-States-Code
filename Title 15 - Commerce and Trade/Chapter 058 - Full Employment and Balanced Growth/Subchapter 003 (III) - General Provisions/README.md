@@ -1,7 +1,5 @@
 ### SUBCHAPTER III—GENERAL PROVISIONS
 
-<i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
-
 
 ---
 

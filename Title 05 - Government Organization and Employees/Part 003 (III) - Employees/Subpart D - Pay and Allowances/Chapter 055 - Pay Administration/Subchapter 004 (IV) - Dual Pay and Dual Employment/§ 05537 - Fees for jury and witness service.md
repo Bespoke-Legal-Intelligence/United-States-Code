@@ -1,6 +1,6 @@
 ### §5537. Fees for jury and witness service
 
-(a) An employee as defined by section 2105 of this title (except an individual whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives) or an individual employed by the government of the District of Columbia may not receive fees for service—
+(a) An employee as defined by section 2105 of this title (except an individual whose pay is disbursed by the Secretary of the Senate, the Chief Administrative Officer of the House of Representatives, or the Chief of the Capitol Police) or an individual employed by the government of the District of Columbia may not receive fees for service—
 
 &emsp;(1) as a juror in a court of the United States or the District of Columbia; or
 
@@ -10,7 +10,7 @@
 
 (c) For the purpose of this section, “court of the United States” has the meaning given it by section 451 of title 28 and includes the District Court of Guam and the District Court of the Virgin Islands.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 484; Pub. L. 90–623, §1(12), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 91–563, §3(a), Dec. 19, 1970, 84 Stat. 1477; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–186, title II, §215(8), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–201, div. C, title XXXV, §3548(a)(5), Sept. 23, 1996, 110 Stat. 2868.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 484; Pub. L. 90–623, §1(12), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 91–563, §3(a), Dec. 19, 1970, 84 Stat. 1477; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–186, title II, §215(8), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–201, div. C, title XXXV, §3548(a)(5), Sept. 23, 1996, 110 Stat. 2868; Pub. L. 111–145, §7(c)(2), Mar. 4, 2010, 124 Stat. 55.)
 
 Historical and Revision Notes
 
@@ -32,6 +32,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
+2010—Subsec. (a). Pub. L. 111–145 substituted “, the Chief Administrative Officer of the House of Representatives, or the Chief of the Capitol Police” for “or the Chief Administrative Officer of the House of Representatives” in introductory provisions.
+
 1996—Subsec. (a). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk” in introductory provisions.
 
 Subsec. (c). Pub. L. 104–201 substituted “the District Court of Guam and the District Court of the Virgin Islands” for “the United States District Court for the District of the Canal Zone, the District Court of Guam, and the District Court of the Virgin Islands”.
@@ -43,6 +45,10 @@ Subsec. (c). Pub. L. 104–201 substituted “the District Court of Guam and the
 #### Change of Name
 
 Words “magistrate judge” substituted for “magistrate” in subsec. (b) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–145 effective as though enacted as part of section 1018 of Pub. L. 108–7, see section 7(d) of Pub. L. 111–145, set out as a note under section 2107 of this title.
 
 #### Effective Date of 1968 Amendment
 

@@ -52,6 +52,7 @@
 | :--- | ---: |
 | [1635i.](Subchapter%20002%20%28II%29%20-%20Livestock%20Mandatory%20Reporting/Part%20C%20-%20Swine%20Reporting/%C2%A7%2001635i%20-%20Definitions.md) | Definitions. |
 | [1635j.](Subchapter%20002%20%28II%29%20-%20Livestock%20Mandatory%20Reporting/Part%20C%20-%20Swine%20Reporting/%C2%A7%2001635j%20-%20Mandatory%20reporting%20for%20swine.md) | Mandatory reporting for swine. |
+| §1635k. | Mandatory reporting of wholesale pork cuts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

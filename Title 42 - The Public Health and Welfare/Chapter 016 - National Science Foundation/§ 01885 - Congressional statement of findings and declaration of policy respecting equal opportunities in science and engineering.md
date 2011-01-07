@@ -12,11 +12,11 @@ Section was enacted as part of the Science and Engineering Equal Opportunities A
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–368, §16(1), substituted “backgrounds, including persons with disabilities” for “backgrounds”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–368, §16(1), substituted “backgrounds, including persons with disabilities” for “backgrounds”.
 
 Subsec. (b). Pub. L. 107–368, §16(2), inserted “, including persons with disabilities,” after “backgrounds” and substituted “, minorities, and persons with disabilities” for “and minorities” in two places.
 
-1985—Subsec. (a). Pub. L. 99–159, §111(b)(2), substituted “engineering” for “technology” and “scientific and engineering talents and skills” for “scientific talent and technical skills”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–159, §111(b)(2), substituted “engineering” for “technology” and “scientific and engineering talents and skills” for “scientific talent and technical skills”.
 
 Subsec. (b). Pub. L. 99–159, §111(b)(3)–(5), inserted “, engineering,” after “skills in science”, substituted “engineering” for “technical”, “scientific and engineering literacy” for “scientific literacy”, and “engineering” for “technology” wherever appearing, and inserted “and engineering” after “highest quality science”.
 
@@ -30,5 +30,5 @@ Section 38 of Pub. L. 96–516 provided that: “If a provision of this Act \[en
 
 #### Reports to Congress Concerning National Policy Development of Promotion, Etc., of Equal Opportunity for Women and Minorities in Science and Technology, and Impacts of Science and Technology on Women and Minorities
 
-Section 35 of Pub. L. 96–516 directed President, with assistance of Director of Office of Science and Technology Policy and Director of Foundation, to prepare and transmit before Jan. 20, 1982, a report to Congress proposing a comprehensive national policy and program, including budgetary and legislative recommendations, for promotion of equal opportunity forwomen and minorities in science and technology, and directed President, with assistance of Director of Office of Science and Technology Policy, heads of appropriate executive departments, and Director of the Foundation to prepare and transmit before Jan. 1, 1983, a report to Congress proposing a comprehensive policy, including budgetary and legislative recommendations, concerning direct and indirect impacts of science and technology on women and minorities.
+Section 35 of Pub. L. 96–516 directed President, with assistance of Director of Office of Science and Technology Policy and Director of Foundation, to prepare and transmit before Jan. 20, 1982, a report to Congress proposing a comprehensive national policy and program, including budgetary and legislative recommendations, for promotion of equal opportunity for women and minorities in science and technology, and directed President, with assistance of Director of Office of Science and Technology Policy, heads of appropriate executive departments, and Director of the Foundation to prepare and transmit before Jan. 1, 1983, a report to Congress proposing a comprehensive policy, including budgetary and legislative recommendations, concerning direct and indirect impacts of science and technology on women and minorities.
 

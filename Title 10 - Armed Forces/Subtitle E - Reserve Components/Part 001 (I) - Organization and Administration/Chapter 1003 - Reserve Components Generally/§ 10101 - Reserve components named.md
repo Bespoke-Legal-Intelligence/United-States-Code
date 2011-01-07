@@ -24,13 +24,13 @@ Provisions similar to those in this section were contained in section 261(a) of 
 
 #### Amendments
 
-2006—Par. (3). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Par. (3). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
 #### Change of Name
 
 Pub. L. 109–163, div. A, title V, §515(a)(1), Jan. 6, 2006, 119 Stat. 3233, provided that: “The reserve component of the Armed Forces known as the Naval Reserve is redesignated as the Navy Reserve.”
 
-Pub. L. 109–163, div. A, title V, §515(h), Jan. 6, 2006, 119 Stat. 3237, provided that: “Any reference in any law, regulation, document, record, or other paper of the United States to the Naval Reserve, other than a reference to the Naval Reserve regarding the United States Naval Reserve Retired List, shall be considered to be a reference to the Navy Reserve.”
+Pub. L. 109–163, div. A, title V, §515(h), Jan. 6, 2006, 119 Stat. 3237, as amended by Pub. L. 111–383, div. A, title X, §1075(h)(1), Jan. 7, 2011, 124 Stat. 4377, provided that: “Any reference in any law, regulation, document, record, or other paper of the United States to the Naval Reserve, other than a reference to the Naval Reserve regarding the United States Naval Reserve Retired List, shall be considered to be a reference to the Navy Reserve.”
 
 Pub. L. 108–375, div. A, title V, §517, Oct. 28, 2004, 118 Stat. 1884, which authorized the Secretary of the Navy, with the President's approval, to redesignate the Naval Reserve as the “Navy Reserve”, was repealed by Pub. L. 109–163, div. A, title V, §515(a)(2), Jan. 6, 2006, 119 Stat. 3233.
 
@@ -92,7 +92,7 @@ Pub. L. 111–84, div. A, title V, §597(b), Oct. 28, 2009, 123 Stat. 2344, prov
 
 &emsp;“(5) A description of current strategies to mitigate difficulties in sustaining attendance at events under the Yellow Ribbon Reintegration Program, and an explanation why funds, if any, that are available for the Yellow Ribbon Reintegration Program but remain unexpended have not been used for the Yellow Ribbon Reintegration Program.”
 
-Pub. L. 110–181, div. A, title V, §582, Jan. 28, 2008, 122 Stat. 122, as amended by Pub. L. 111–84, div. A, title V, §595, Oct. 28, 2009, 123 Stat. 2338, provided that:
+Pub. L. 110–181, div. A, title V, §582, Jan. 28, 2008, 122 Stat. 122, as amended by Pub. L. 111–84, div. A, title V, §595, Oct. 28, 2009, 123 Stat. 2338; Pub. L. 111–383, div. A, title V, §583, Jan. 7, 2011, 124 Stat. 4228, provided that:
 
 “(a)
 
@@ -120,11 +120,19 @@ Office for Reintegration Programs.—
 
 &emsp;“(1)
 
-Establishment.—The Under Secretary of Defense for Personnel and Readiness shall establish the Office for Reintegration Programs within the Office of the Secretary of Defense. The office shall administer all reintegration programs in coordination with State National Guard organizations. The office shall be responsible for coordination with existing National Guard and Reserve family and support programs. The Directors of the Army National Guard and Air National Guard and the Chiefs of the Army Reserve, Marine Corps Reserve, Navy Reserve, and Air Force Reserve may appoint liaison officers to coordinate with the permanent office staff. The office may also enter into partnerships with other public entities, including the Department of Health and Human Services, Substance Abuse and the Mental Health Services Administration, for access to necessary substance abuse and mental health treatment services from local State-licensed service providers.
+Establishment.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Under Secretary of Defense for Personnel and Readiness shall establish the Office for Reintegration Programs within the Office of the Secretary of Defense. The office shall administer all reintegration programs in coordination with State National Guard organizations. The office shall be responsible for coordination with existing National Guard and Reserve family and support programs. The Directors of the Army National Guard and Air National Guard and the Chiefs of the Army Reserve, Marine Corps Reserve, Navy Reserve, and Air Force Reserve may appoint liaison officers to coordinate with the permanent office staff.
+
+&emsp;&emsp;“(B)
+
+Partnerships and access.—The office may enter into partnerships with other public entities, including the Department of Health and Human Services, Substance Abuse and the Mental Health Services Administration and the Department of Veterans Affairs, for access to necessary substance abuse and mental health treatment services from local State-licensed service providers. Service and State-based programs may provide access to curriculum, training, and support for services to members and families from all components.
 
 &emsp;“(2)
 
-Center for excellence in reintegration.—The Office for Reintegration Programs shall establish a Center for Excellence in Reintegration within the office. The Center shall collect and analyze ‘lessons learned’ and suggestions from State National Guard and Reserve organizations with existing or developing reintegration programs. The Center shall also assist in developing training aids and briefing materials and training representatives from State National Guard and Reserve organizations.
+Center for excellence in reintegration.—The Office for Reintegration Programs shall establish a Center for Excellence in Reintegration within the office. The Center shall collect and analyze ‘lessons learned’ and suggestions from State National Guard and Reserve organizations with existing or developing reintegration programs. The Center shall also assist in developing training aids and briefing materials and training representatives from State National Guard and Reserve organizations. The Center shall develop and implement a process for evaluating the effectiveness of the Yellow Ribbon Reintegration Program in supporting the health and well-being of members of the Armed Forces and their families throughout the deployment cycle described in subsection (g).
 
 “(e)
 
@@ -132,7 +140,7 @@ Advisory Board.—
 
 &emsp;“(1)
 
-Appointment.—The Secretary of Defense shall appoint an advisory board to analyze the Yellow Ribbon Reintegration Program and report on areas of success and areas for necessary improvements. Theadvisory board shall include the Director of the Army National Guard, the Director of the Air National Guard, Chiefs of the Army Reserve, Marine Corps Reserve, Navy Reserve, and Air Force Reserve, the Assistant Secretary of Defense for Reserve Affairs, an Adjutant General on a rotational basis as determined by the Chief of the National Guard Bureau, and any other Department of Defense, Federal Government agency, or outside organization as determined by the Secretary of Defense. The members of the advisory board may designate representatives in their stead.
+Appointment.—The Secretary of Defense shall appoint an advisory board to analyze the Yellow Ribbon Reintegration Program and report on areas of success and areas for necessary improvements. The advisory board shall include the Director of the Army National Guard, the Director of the Air National Guard, Chiefs of the Army Reserve, Marine Corps Reserve, Navy Reserve, and Air Force Reserve, the Assistant Secretary of Defense for Reserve Affairs, an Adjutant General on a rotational basis as determined by the Chief of the National Guard Bureau, and any other Department of Defense, Federal Government agency, or outside organization as determined by the Secretary of Defense. The members of the advisory board may designate representatives in their stead.
 
 &emsp;“(2)
 
@@ -160,7 +168,7 @@ State Deployment Cycle Support Teams.—The Office for Reintegration Programs ma
 
 &emsp;“(2) to obtain necessary service providers; and
 
-&emsp;“(3) to educate service providers regarding the unique military nature of the reintegration program.
+&emsp;“(3) to educate service providers and community-based organizations regarding the unique military nature of the reintegration program.
 
 “(g)
 
@@ -168,7 +176,7 @@ Operation of Program Through Deployment Cycle.—
 
 &emsp;“(1)
 
-In general.—The Office for Reintegration Programs shall analyze the demographics, placement of State Family Assistance Centers and their resources before a mobilization alert is issued to affected State National Guard and Reserve organizations. The Office of Reintegration Programs shall consult with affected State National Guard and Reserve organizations following the issuance of a mobilization alert and implement the reintegration events in accordance with the Reintegration Program phase model.
+In general.—The Office for Reintegration Programs shall analyze the demographics, placement of State Family Assistance Centers and their resources before a mobilization alert is issued to affected State National Guard and Reserve organizations. The Officeof Reintegration Programs shall consult with affected State National Guard and Reserve organizations following the issuance of a mobilization alert and implement the reintegration events in accordance with the Reintegration Program phase model.
 
 &emsp;“(2)
 
@@ -176,7 +184,7 @@ Pre-deployment phase.—The Pre-Deployment Phase shall constitute the time from 
 
 &emsp;“(3)
 
-Deployment phase.—The Deployment Phase shall constitute the period from deployment of the mobilized National Guard or Reserve unit until the unit arrives at a demobilization station inside the continental United States. Events and services provided shall focus on the challenges and stress associated with separation and having a member in a combat zone. Information sessions shall utilize State National Guard and Reserve resources in coordination with the Employer Support of Guard and Reserve Office, Transition Assistance Advisors, and the State Family Programs Director.
+Deployment phase.—The Deployment Phase shall constitute the period from deployment of the mobilized National Guard or Reserve unit until the unit arrives at a demobilization station inside the continental United States. Events and services provided shall focus on the challenges and stress associated with separation and having a member in a combat zone and to decrease the isolation of families during deployment. Information sessions shall utilize State National Guard and Reserve resources in coordination with the Employer Support of Guard and Reserve Office, Transition Assistance Advisors, and the State Family Programs Director.
 
 &emsp;“(4)
 
@@ -196,7 +204,7 @@ Post-deployment-reconstitution phase.—
 
 &emsp;&emsp;“(A)
 
-In general.—The Post-Deployment-Reconstitution Phase shall constitute the period from arrival at home station until 180 days following demobilization. Activities and services provided shall focus on reconnecting members with their families and communities and providing resources and information necessary for successful reintegration. Reintegration events shall begin with elements of the Initial Reintegration Activity program that were not completed during the Demobilization Phase.
+In general.—The Post-Deployment-Reconstitution Phase shall constitute the period from arrival at home station until 180 days following demobilization. Activities and services provided shall focus on reconnecting members with their families and communities, providing information on employment opportunities, and providing resources and information necessary for successful reintegration. Reintegration events shall begin with elements of the Initial Reintegration Activity program that were not completed during the Demobilization Phase.
 
 &emsp;&emsp;“(B)
 
@@ -237,6 +245,8 @@ Outreach Services.—As part of the Yellow Ribbon Reintegration Program, the Off
 &emsp;“(13) Development of strategies and programs that recognize the need for long-term follow-up services for reintegrating members of the Armed Forces and their families for extended periods following deployments, including between deployments.
 
 &emsp;“(14) Assisting members of the Armed Forces and their families in receiving services and assistance from the Department of Veterans Affairs, including referral services.
+
+&emsp;“(15) Resiliency training to promote comprehensive programs for members of the Armed Forces to build mental and emotional resiliency for successfully meeting the demands of the deployment cycle.
 
 “(i)
 

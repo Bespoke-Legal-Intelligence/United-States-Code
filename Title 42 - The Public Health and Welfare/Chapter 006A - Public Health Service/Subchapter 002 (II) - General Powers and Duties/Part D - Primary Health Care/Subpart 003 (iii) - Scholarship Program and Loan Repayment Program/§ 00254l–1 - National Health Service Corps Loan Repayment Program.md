@@ -14,7 +14,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 &emsp;(1)(A) have a degree in medicine, osteopathic medicine, dentistry, or another health profession, or an appropriate degree from a graduate program of behavioral and mental health, or be certified as a nurse midwife, nurse practitioner, or physician assistant;
 
-&emsp;(B) be enrolled in an approved graduate training program in medicine, osteopathic medicine, dentistry, behavioral and mental health, or other health profession; or
+&emsp;(B) be enrolled in an approved graduate training program in medicine, osteopathicmedicine, dentistry, behavioral and mental health, or other health profession; or
 
 &emsp;(C) be enrolled as a full-time student—
 
@@ -66,7 +66,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 &emsp;(A) to any application for such a contract submitted by an individual whose training is in a health profession or specialty determined by the Secretary to be needed by the Corps;
 
-&emsp;(B) to any application for such a contract submitted by an individual who has (and whose spouse, if any, has) characteristics that increase the probability that the individual will continue to serve in a health professionalshortage area after the period of obligated service pursuant to subsection (f) of this section is completed; and
+&emsp;(B) to any application for such a contract submitted by an individual who has (and whose spouse, if any, has) characteristics that increase the probability that the individual will continue to serve in a health professional shortage area after the period of obligated service pursuant to subsection (f) of this section is completed; and
 
 &emsp;(C) subject to subparagraph (B), to any application for such a contract submitted by an individual who is from a disadvantaged background.
 
@@ -120,7 +120,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 #### (A) In general
 
-&emsp;&emsp;For each year of obligated service that an individual contracts to serve under subsection (f) of this section the Secretary may pay up to $35,000 on behalf of the individual for loans described in paragraph (1). In making a determination of the amount to pay for a year of such service by an individual, the Secretary shall consider the extent to which each such determination—
+&emsp;&emsp;For each year of obligated service that an individual contracts to serve under subsection (f) of this section the Secretary may pay up to $50,000, plus, beginning with fiscal year 2012, an amount determined by the Secretary on an annual basis to reflect inflation, on behalf of the individual for loans described in paragraph (1). In making a determination of the amount to pay for a year of such service by an individual, the Secretary shall consider the extent to which each such determination—
 
 &emsp;&emsp;&emsp;(i) affects the ability of the Secretary to maximize the number of contracts that can be provided under the Loan Repayment Program from the amounts appropriated for such contracts;
 
@@ -148,7 +148,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 Notwithstanding any other provision of law, individuals who have entered into written contracts with the Secretary under this section, while undergoing academic or other training, shall not be counted against any employment ceiling affecting the Department.
 
-(July 1, 1944, ch. 373, title III, §338B, as added Pub. L. 100–177, title II, §201(3), Dec. 1, 1987, 101 Stat. 992; amended Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title II, §202(a)–(g)(1), (h), title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3023–3026, 3035; Pub. L. 105–392, title I, §109, Nov. 13, 1998, 112 Stat. 3562; Pub. L. 107–251, title III, §310, Oct. 26, 2002, 116 Stat. 1650; Pub. L. 108–163, §2(k), Dec. 6, 2003, 117 Stat. 2022.)
+(July 1, 1944, ch. 373, title III, §338B, as added Pub. L. 100–177, title II, §201(3), Dec. 1, 1987, 101 Stat. 992; amended Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title II, §202(a)–(g)(1), (h), title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3023–3026, 3035; Pub. L. 105–392, title I, §109, Nov. 13, 1998, 112 Stat. 3562; Pub. L. 107–251, title III, §310, Oct. 26, 2002, 116 Stat. 1650; Pub. L. 108–163, §2(k), Dec. 6, 2003, 117 Stat. 2022; Pub. L. 111–148, title X, §10501(n)(4), Mar. 23, 2010, 124 Stat. 1003.)
 
 #### Prior Provisions
 
@@ -156,9 +156,11 @@ A prior section 338B of act July 1, 1944, was renumbered section 338C by section
 
 #### Amendments
 
-2003—Subsec. (e). Pub. L. 108–163 made technical amendment.
+<b>2010</b>—Subsec. (g)(2)(A). Pub. L. 111–148 substituted “$50,000, plus, beginning with fiscal year 2012, an amount determined by the Secretary on an annual basis to reflect inflation,” for “$35,000” in introductory provisions.
 
-2002—Subsec. (a)(1). Pub. L. 107–251, §310(1)(A), inserted “behavioral and mental health professionals,” after “dentists,”.
+<b>2003</b>—Subsec. (e). Pub. L. 108–163 made technical amendment.
+
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–251, §310(1)(A), inserted “behavioral and mental health professionals,” after “dentists,”.
 
 Subsec. (a)(2). Pub. L. 107–251, §310(1)(B), struck out “(including mental health professionals)” before period at end.
 
@@ -168,9 +170,9 @@ Subsec. (e)(1). Pub. L. 107–251, §310(3), struck out par. (1) designation and
 
 Subsec. (i). Pub. L. 107–251, §310(4), struck out subsec. (i), which required an annual report to Congress about the Loan Repayment Program.
 
-1998—Subsec. (b)(1)(B). Pub. L. 105–392 substituted “behavioral and mental health, or other health profession” for “or other health profession”.
+<b>1998</b>—Subsec. (b)(1)(B). Pub. L. 105–392 substituted “behavioral and mental health, or other health profession” for “or other health profession”.
 
-1990—Subsec. (a). Pub. L. 101–597, §202(a)(1), substituted “Corps Loan Repayment Program to assure, with respect to the provision of primary health services pursuant to section 254d(a)(2) of this title—” and pars. (1) and (2) for “Corps Loan Repayment Program (hereinafter in this subpart referred to as the ‘Loan Repayment Program’) in order to assure—
+<b>1990</b>—Subsec. (a). Pub. L. 101–597, §202(a)(1), substituted “Corps Loan Repayment Program to assure, with respect to the provision of primary health services pursuant to section 254d(a)(2) of this title—” and pars. (1) and (2) for “Corps Loan Repayment Program (hereinafter in this subpart referred to as the ‘Loan Repayment Program’) in order to assure—
 
 &emsp;“(1) an adequate supply of trained physicians, dentists, and nurses for the Corps; and
 
@@ -250,7 +252,7 @@ Pub. L. 101–597, §202(h), amended subsec. (i) generally. Prior to amendment, 
 
 &emsp;“(4) the amount of loan payments made in the year reported on.”
 
-1988—Subsec. (b)(1). Pub. L. 100–607 substituted “osteopathic medicine” for “osteopathy” wherever appearing.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–607 substituted “osteopathic medicine” for “osteopathy” wherever appearing.
 
 #### Effective Date of 2003 Amendment
 
@@ -258,7 +260,7 @@ Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the
 
 #### Effective Date of 1990 Amendment
 
-Section 202(g)(2) of Pub. L. 101–597 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to contracts under section 338B of the Public Health Service Act \[this section\] (relating to service in the National Health Service Corps) that are entered into on or after the effective date of this Act \[Nov. 16, 1990\].”
+Pub. L. 101–597, title II, §202(g)(2), Nov. 16, 1990, 104 Stat. 3026, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to contracts under section 338B of the Public Health Service Act \[this section\] (relating to service in the National Health Service Corps) that are entered into on or after the effective date of this Act \[Nov. 16, 1990\].”
 
 #### Regulations
 

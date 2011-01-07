@@ -44,17 +44,13 @@ The Architect of the Capitol may delegate to the Deputy Architect such additiona
 
 &emsp;&emsp;(B) developed concurrently and consistent with the development of a strategic plan.
 
-#### (3) Additional senior positions
-
-&emsp;Notwithstanding section 1849(a) of this title, as amended by section 129(c) of the Legislative Branch Appropriations Act, 2002, the Architect of the Capitol may fix the rate of basic pay for not more than 3 additional positions at a rate not to exceed the highest total rate of pay for the Senior Executive Service under subchapter VIII of chapter 53 of title 5 for the locality involved.
-
 #### (f) Evaluation
 
 The Government Accountability Office shall evaluate annually the implementation of the action plan and provide the results of the evaluation to the Architect of the Capitol, the Committees on Appropriations of the House of Representatives and Senate and the Committee on Rules and Administration of the Senate.
 
 #### (g) Removal
 
-The Deputy Architect of the Capitol may be removed by the Architect of the Capitol for misconduct or failure to meet performance goals set forth in the performance agreement in subsection (i) of this section. Upon the removal ofthe Deputy Architect of the Capitol, the Architect of the Capitol shall immediately notify in writing the Committees on Appropriations of the House of Representatives and Senate, and the Committee on Rules and Administration of the Senate, stating the specific reasons for the removal.
+The Deputy Architect of the Capitol may be removed by the Architect of the Capitol for misconduct or failure to meet performance goals set forth in the performance agreement in subsection (i) of this section. Upon the removal of the Deputy Architect of the Capitol, the Architect of the Capitol shall immediately notify in writing the Committees on Appropriations of the House of Representatives and Senate, and the Committee on Rules and Administration of the Senate, stating the specific reasons for the removal.
 
 #### (h) Compensation
 
@@ -68,11 +64,7 @@ The Deputy Architect of the Capitol shall prepare and transmit to the Architect 
 
 As of October 1, 2006, the role of the Comptroller General and the Government Accountability Office, as established by this section, will cease.
 
-(Pub. L. 108–7, div. H, title I, §1203, Feb. 20, 2003, 117 Stat. 373; Pub. L. 108–11, title II, §2601(a), Apr. 16, 2003, 117 Stat. 599; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
-
-#### References in Text
-
-Section 1849(a) of this title, as amended by section 129(c) of the Legislative Branch Appropriations Act, 2002, referred to in subsec. (e)(3), is section 1849(a) of this title, as amended by section 129(c) of Pub. L. 107–68.
+(Pub. L. 108–7, div. H, title I, §1203, Feb. 20, 2003, 117 Stat. 373; Pub. L. 108–11, title II, §2601(a), Apr. 16, 2003, 117 Stat. 599; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–316, §1(b), Dec. 18, 2010, 124 Stat. 3452.)
 
 #### Codification
 
@@ -80,9 +72,15 @@ Section is from the Legislative Branch Appropriations Act, 2003, which is div. H
 
 #### Amendments
 
+2010—Subsec. (e)(3). Pub. L. 111–316 struck out par. (3). Text read as follows: “Notwithstanding section 1849(a) of this title, as amended by section 129(c) of the Legislative Branch Appropriations Act, 2002, the Architect of the Capitol may fix the rate of basic pay for not more than 3 additional positions at a rate not to exceed the highest total rate of pay for the Senior Executive Service under subchapter VIII of chapter 53 of title 5 for the locality involved.”
+
 2004—Subsecs. (f), (j). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 2003—Subsec. (a). Pub. L. 108–11, substituted “not later than 180 days” for “not later than 90 days”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–316, §1(c), Dec. 18, 2010, 124 Stat. 3452, provided that: “The amendments made by this section \[amending this section and section 1849 of this title\] shall apply with respect to pay periods beginning on or after the date of the enactment of this Act \[Dec. 18, 2010\].”
 
 #### Effective Date of 2003 Amendment
 

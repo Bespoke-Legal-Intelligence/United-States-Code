@@ -6,7 +6,7 @@ Unless Congress by law authorizes such action, neither the President nor any per
 
 #### Amendments
 
-1976—Pub. L. 94–302 inserted “, or article IIA, section 2,” after “article II, section 3” and “or article IIA, section 1,” after “article II, section 2,”.
+<b>1976</b>—Pub. L. 94–302 inserted “, or article IIA, section 2,” after “article II, section 3” and “or article IIA, section 1,” after “article II, section 2,”.
 
 #### Effective Date of 1976 Amendment
 

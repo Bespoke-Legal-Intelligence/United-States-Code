@@ -52,7 +52,7 @@ The Secretary shall establish a program requiring the payment of user fees for�
 
 #### (iii) Determination of average fees charged
 
-&emsp;&emsp;&emsp;For purposes of any determination of average fees charged, any request to whichsubparagraph (B) applies shall not be taken into account.
+&emsp;&emsp;&emsp;For purposes of any determination of average fees charged, any request to which subparagraph (B) applies shall not be taken into account.
 
 #### (3) Average fee requirement
 
@@ -74,9 +74,9 @@ The Secretary shall establish a program requiring the payment of user fees for�
 
 #### Amendments
 
-2007—Subsec. (c). Pub. L. 110–28 struck out heading and text of subsec. (c). Text read as follows: “No fee shall be imposed under this section with respect to requests made after September 30, 2014.”
+<b>2007</b>—Subsec. (c). Pub. L. 110–28 struck out heading and text of subsec. (c). Text read as follows: “No fee shall be imposed under this section with respect to requests made after September 30, 2014.”
 
-2004—Subsec. (c). Pub. L. 108–357 substituted “September 30, 2014” for “December 31, 2004”.
+<b>2004</b>—Subsec. (c). Pub. L. 108–357 substituted “September 30, 2014” for “December 31, 2004”.
 
 #### Effective Date of 2004 Amendment
 

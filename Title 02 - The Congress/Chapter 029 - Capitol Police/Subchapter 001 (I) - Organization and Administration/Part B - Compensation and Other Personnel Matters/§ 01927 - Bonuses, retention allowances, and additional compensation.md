@@ -30,7 +30,7 @@
 
 #### (1) Authorization of payment
 
-&emsp;The Board may authorize the Chief to pay an allowance to an officer or employee of the United States Capitol Police if the Chief, in the Chief's sole discretion, determines that such a bonus will assist the Capitol Police in retention efforts.
+&emsp;The Board may authorize the Chief to pay an allowance to an officer or employee of theUnited States Capitol Police if the Chief, in the Chief's sole discretion, determines that such a bonus will assist the Capitol Police in retention efforts.
 
 #### (2) Amount of payment
 

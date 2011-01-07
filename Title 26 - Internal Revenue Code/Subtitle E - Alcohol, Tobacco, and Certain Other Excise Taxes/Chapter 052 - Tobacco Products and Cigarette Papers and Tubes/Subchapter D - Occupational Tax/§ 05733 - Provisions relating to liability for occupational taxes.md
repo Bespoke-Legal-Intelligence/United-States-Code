@@ -34,7 +34,7 @@ Certain persons, other than the person who has paid the special tax under this s
 
 &emsp;(4) the partner or partners remaining after death or withdrawal of a member of a partnership.
 
-> When any person moves to any place other than the place for which special tax was paid for the carrying on of any business, he may secure the right to carry on, without incurring additional special tax, the same business at his new location for the remainder of the taxable period for which the special tax was paid. To secure the right to carry on the business without incurring additional special tax, the successor, or the person relocating his business, must register the succession or relocation with the Secretary in accordance with regulations prescribed by the Secretary.
+> When any person moves to any place other than the place for which special tax was paid for the carrying on of any business, he may secure the right to carry on, without incurring additionalspecial tax, the same business at his new location for the remainder of the taxable period for which the special tax was paid. To secure the right to carry on the business without incurring additional special tax, the successor, or the person relocating his business, must register the succession or relocation with the Secretary in accordance with regulations prescribed by the Secretary.
 
 #### (e) Federal agencies or instrumentalities
 
@@ -44,11 +44,11 @@ Any tax imposed by this subchapter shall apply to any agency or instrumentality 
 
 #### Amendments
 
-2005—Pub. L. 109–59, §11125(b)(20)(A), renumbered section 5143 of this title as this section, transferred section to this subchapter, and substituted “this subchapter” for “this part” wherever appearing.
+<b>2005</b>—Pub. L. 109–59, §11125(b)(20)(A), renumbered section 5143 of this title as this section, transferred section to this subchapter, and substituted “this subchapter” for “this part” wherever appearing.
 
 Subsec. (c)(2). Pub. L. 109–59, §11125(b)(20)(C), substituted “tobacco products and cigarette papers and tubes” for “liquors” in two places.
 
-1976—Subsec. (d)(4). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (d)(4). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 2005 Amendment
 

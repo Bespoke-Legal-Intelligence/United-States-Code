@@ -6,7 +6,7 @@ The Secretary shall establish and carry out in accordance with this section an i
 
 #### (b) Contracts with lenders
 
-Under such program, the Secretary shall enter into a contract with, and make payments to, alegally organized institution to reduce during the term of such contract the interest rate paid by a borrower on a guaranteed loan made by such institution if—
+Under such program, the Secretary shall enter into a contract with, and make payments to, a legally organized institution to reduce during the term of such contract the interest rate paid by a borrower on a guaranteed loan made by such institution if—
 
 &emsp;(1) the borrower—
 
@@ -94,5 +94,5 @@ Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub.
 
 #### Effective and Termination Dates
 
-That part of section 1320 of Pub. L. 99–198, as amended by Pub. L. 100–233, title VI, §613(a), Jan. 6, 1988, 101 Stat. 1674; Pub. L. 101–508, title I, §1202(b)(2), Nov. 5,1990, 104 Stat. 1388–11, which provided that this section was effective only for the period beginning Dec. 23, 1985, and ending Sept. 30, 1995, was repealed by Pub. L. 104–127, title VI, §643(b), Apr. 4, 1996, 110 Stat. 1103.
+That part of section 1320 of Pub. L. 99–198, as amended by Pub. L. 100–233, title VI, §613(a), Jan. 6, 1988, 101 Stat. 1674; Pub. L. 101–508, title I, §1202(b)(2), Nov. 5, 1990, 104 Stat. 1388–11, which provided that this section was effective only for the period beginning Dec. 23, 1985, and ending Sept. 30, 1995, was repealed by Pub. L. 104–127, title VI, §643(b), Apr. 4, 1996, 110 Stat. 1103.
 

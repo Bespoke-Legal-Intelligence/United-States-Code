@@ -10,7 +10,7 @@ Section was enacted as a part of the Department of Agriculture Organic Act of 19
 
 #### Amendments
 
-1970—Pub. L. 91–435 authorized the Forest Service to extend aerial facilities and services for the protection and management of other lands administered by the Service and to procure, at the airbase, facilities, equipment, materials and the preparation, mixing and loading into aircraft.
+<b>1970</b>—Pub. L. 91–435 authorized the Forest Service to extend aerial facilities and services for the protection and management of other lands administered by the Service and to procure, at the airbase, facilities, equipment, materials and the preparation, mixing and loading into aircraft.
 
-1950—Act Apr. 24, 1950, amended section to provide for aerial facilities and services for the protection and management of our national forests.
+<b>1950</b>—Act Apr. 24, 1950, amended section to provide for aerial facilities and services for the protection and management of our national forests.
 

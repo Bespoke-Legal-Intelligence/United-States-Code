@@ -38,11 +38,11 @@ A prior section 13104 was renumbered section 13105 of this title.
 
 #### Amendments
 
-2006—Pub. L. 109–304 renumbered section 13103 of this title as this section.
+<b>2006</b>—Pub. L. 109–304 renumbered section 13103 of this title as this section.
 
-1990—Subsec. (a)(3). Pub. L. 101–595 struck out “or obligated” after “expended” in two places.
+<b>1990</b>—Subsec. (a)(3). Pub. L. 101–595 struck out “or obligated” after “expended” in two places.
 
-1984—Subsec. (b). Pub. L. 98–369, §1011(d), redesignated subsec. (c) as (b), struck out “and facilities improvement” after “boating safety”, and struck out former subsec. (b) which related to allocation of amounts for State recreational boating facilities improvement programs by the Secretary.
+<b>1984</b>—Subsec. (b). Pub. L. 98–369, §1011(d), redesignated subsec. (c) as (b), struck out “and facilities improvement” after “boating safety”, and struck out former subsec. (b) which related to allocation of amounts for State recreational boating facilities improvement programs by the Secretary.
 
 Subsec. (c). Pub. L. 98–369, §1011(d)(1), redesignated subsec. (e) as (c). Former subsec. (c) redesignated (b).
 

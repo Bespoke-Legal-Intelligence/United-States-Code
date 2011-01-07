@@ -36,13 +36,13 @@ In subsection (c), reference is made in substance to the Classification Act of 1
 
 #### Amendments
 
-1980—Subsec. (c). Pub. L. 96–513 substituted “and 7204, chapter 51, and subchapters III, IV, and VI of chapter 53 of title 5” for “5101–5115, 5331–5338, 5341, 5342, and 7204 of title 5 and subchapter VI of chapter 53 of title 5”.
+<b>1980</b>—Subsec. (c). Pub. L. 96–513 substituted “and 7204, chapter 51, and subchapters III, IV, and VI of chapter 53 of title 5” for “5101–5115, 5331–5338, 5341, 5342, and 7204 of title 5 and subchapter VI of chapter 53 of title 5”.
 
-1978—Subsec. (c). Pub. L. 95–454, §801(a)(3)(I), inserted reference to subchapter VI of chapter 53 of title 5.
+<b>1978</b>—Subsec. (c). Pub. L. 95–454, §801(a)(3)(I), inserted reference to subchapter VI of chapter 53 of title 5.
 
 Pub. L. 95–454, §703(c)(3), substituted “7204” for “7154”.
 
-1966—Subsec. (c). Pub. L. 89–718 substituted “Sections 305, 3324, 5101–5115, 5331–5338, 5341, 5342, and 7154 of title 5” for “Sections 1071–1153 of title 5”.
+<b>1966</b>—Subsec. (c). Pub. L. 89–718 substituted “Sections 305, 3324, 5101–5115, 5331–5338, 5341, 5342, and 7154 of title 5” for “Sections 1071–1153 of title 5”.
 
 #### Effective Date of 1980 Amendment
 

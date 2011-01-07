@@ -24,11 +24,11 @@ In subsec. (a), “subchapter I of chapter 81 of title 5” substituted for “U
 
 #### Amendments
 
-1984—Subsec. (a)(4). Pub. L. 98–426 substituted “Longshore and Harbor Workers’ Compensation Act” for “Longshoremen's and Harbor Workers’ Compensation Act”.
+<b>1984</b>—Subsec. (a)(4). Pub. L. 98–426 substituted “Longshore and Harbor Workers’ Compensation Act” for “Longshoremen's and Harbor Workers’ Compensation Act”.
 
-1983—Subsec. (a)(1). Pub. L. 97–468 struck out “employees of the Alaska Railroad and” before “employees of the Federal Government”.
+<b>1983</b>—Subsec. (a)(1). Pub. L. 97–468 struck out “employees of the Alaska Railroad and” before “employees of the Federal Government”.
 
-1967—Subsec. (a). Pub. L. 90–174, §10(a), designated existing provisions as subsec. (a) and redesignated cls. (a) to (d) as cls. (1) to (4), respectively.
+<b>1967</b>—Subsec. (a). Pub. L. 90–174, §10(a), designated existing provisions as subsec. (a) and redesignated cls. (a) to (d) as cls. (1) to (4), respectively.
 
 Subsec. (b). Pub. L. 90–174, §10(b), added subsec. (b).
 

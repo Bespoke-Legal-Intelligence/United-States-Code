@@ -92,7 +92,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsecs. (e) to (g). Pub. L. 110–246, §8205(a), added subsec. (e), redesignated subsec. (g) as (f), and struck out former subsecs. (e) and (f) which related to maximum number of enrolled acres and methods of enrollment.
+<b>2008</b>—Subsecs. (e) to (g). Pub. L. 110–246, §8205(a), added subsec. (e), redesignated subsec. (g) as (f), and struck out former subsecs. (e) and (f) which related to maximum number of enrolled acres and methods of enrollment.
 
 #### Effective Date of 2008 Amendment
 

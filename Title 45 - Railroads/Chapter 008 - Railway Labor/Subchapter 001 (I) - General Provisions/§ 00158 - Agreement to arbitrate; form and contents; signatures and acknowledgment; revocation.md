@@ -22,11 +22,11 @@ The agreement to arbitrate—
 
 (j) Shall provide for the date from which the award shall become effective and shall fix the period during which the award shall continue in force;
 
-(k) Shall provide that the award of the board of arbitration and the evidence of the proceedings before the board relating thereto, when certified under the hands of at least a majority of the arbitrators, shall be filed in the clerk's office of the district court of the United States for the district wherein the controversy arose or the arbitration was entered into, which districtshall be designated in the agreement; and, when so filed, such award and proceedings shall constitute the full and complete record of the arbitration;
+(k) Shall provide that the award of the board of arbitration and the evidence of the proceedings before the board relating thereto, when certified under the hands of at least a majority of the arbitrators, shall be filed in the clerk's office of the district court of the United States for the district wherein the controversy arose or the arbitration was entered into, which district shall be designated in the agreement; and, when so filed, such award and proceedings shall constitute the full and complete record of the arbitration;
 
 (<i>l</i>) Shall provide that the award, when so filed, shall be final and conclusive upon the parties as to the facts determined by said award and as to the merits of the controversy decided;
 
-(m) Shall provide that any difference arising as to the meaning, or the application of the provisions, of an award made by a board of arbitration shall be referred back for a ruling to the same board, or, by agreement, to a subcommittee of such board; and that such ruling, when acknowledged in the same manner, and filed in the same district court clerk's office, as the original award, shall be a part of and shall have the same force and effect as such original award; and
+(m) Shall provide that any difference arising as to the meaning, or the application of the provisions, of an award made by a board of arbitration shall be referred back for a ruling to thesame board, or, by agreement, to a subcommittee of such board; and that such ruling, when acknowledged in the same manner, and filed in the same district court clerk's office, as the original award, shall be a part of and shall have the same force and effect as such original award; and
 
 (n) Shall provide that the respective parties to the award will each faithfully execute the same.
 
@@ -40,5 +40,5 @@ As originally enacted, par. (d) contained a reference to the “circuit court of
 
 #### Amendments
 
-1934—Act June 21, 1934, substituted “Mediation Board” for “Board of Mediation” wherever appearing.
+<b>1934</b>—Act June 21, 1934, substituted “Mediation Board” for “Board of Mediation” wherever appearing.
 

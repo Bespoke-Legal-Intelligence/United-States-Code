@@ -18,7 +18,7 @@ Personnel Evaluations.—The Secretary of Defense shall establish procedures to 
 
 #### Amendments
 
-1991—Subsec. (a)(3). Pub. L. 102–190 added par. (3).
+<b>1991</b>—Subsec. (a)(3). Pub. L. 102–190 added par. (3).
 
 #### Implementation of 1991 Amendment
 
@@ -40,7 +40,7 @@ Elements.—The plan under subsection (a) shall include the following:
 
 &emsp;“(2) A plan to accelerate the efforts of the Department of Defense to achieve total asset visibility, including efforts to link wholesale and retail inventory levels through multi-echelon modeling.
 
-&emsp;“(3) A plan to reduce the average level of on-order secondary inventory that is excess to requirements, including a requirement for the systemic review of such inventory for possible contract termination.
+&emsp;“(3) A plan to reduce the average level of on-order secondary inventory that is excess to requirements,including a requirement for the systemic review of such inventory for possible contract termination.
 
 &emsp;“(4) A plan for the review and validation of methods used by the military departments and the Defense Logistics Agency to establish economic retention requirements.
 

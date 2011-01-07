@@ -22,11 +22,11 @@ The rules of section 7508(b) shall apply for purposes of this section.
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–343 substituted “federally declared disaster (as defined by section 165(h)(3)(C)(i))” for “Presidentially declared disaster (as defined in section 1033(h)(3))” in introductory provisions.
+<b>2008</b>—Subsec. (a). Pub. L. 110–343 substituted “federally declared disaster (as defined by section165(h)(3)(C)(i))” for “Presidentially declared disaster (as defined in section 1033(h)(3))” in introductory provisions.
 
-2002—Pub. L. 107–134 amended section catchline and text generally, substituting present provisions for provisions which had: in subsec. (a), authorized Secretary to postpone certain tax-related deadlines by reason of presidentially declared disaster, and in subsec. (b), provided that subsec. (a) would not apply for the purpose of determining interest on any overpayment or underpayment.
+<b>2002</b>—Pub. L. 107–134 amended section catchline and text generally, substituting present provisions for provisions which had: in subsec. (a), authorized Secretary to postpone certain tax-related deadlines by reason of presidentially declared disaster, and in subsec. (b), provided that subsec. (a) would not apply for the purpose of determining interest on any overpayment or underpayment.
 
-2001—Subsec. (a). Pub. L. 107–16, §§802(a), 901, temporarily substituted “120 days” for “90 days” in introductory provisions. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (a). Pub. L. 107–16, §§802(a), 901, temporarily substituted “120 days” for “90 days” in introductory provisions. See Effective and Termination Dates of 2001 Amendment note below.
 
 #### Effective Date of 2008 Amendment
 
@@ -40,7 +40,7 @@ Amendment by Pub. L. 107–134 applicable to disasters and terroristic or milita
 
 Pub. L. 107–16, title VIII, §802(b), June 7, 2001, 115 Stat. 149, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[June 7, 2001\].”
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date
 
@@ -52,7 +52,7 @@ Pub. L. 106–170, title V, §522, Dec. 17, 1999, 113 Stat. 1927, provided that:
 
 “(a)
 
-In General.—In the case of a taxpayer determined by the Secretary of the Treasury (or the Secretary's delegate) to be affected by a Y2K failure, the Secretary may disregard a period of up to 90 days in determining, under the internal revenue laws, in respectof any tax liability (including any interest, penalty, additional amount, or addition to the tax) of such taxpayer—
+In General.—In the case of a taxpayer determined by the Secretary of the Treasury (or the Secretary's delegate) to be affected by a Y2K failure, the Secretary may disregard a period of up to 90 days in determining, under the internal revenue laws, in respect of any tax liability (including any interest, penalty, additional amount, or addition to the tax) of such taxpayer—
 
 &emsp;“(1) whether any of the acts described in paragraph (1) of section 7508(a) of the Internal Revenue Code of 1986 (without regard to the exceptions in parentheses in subparagraphs (A) and (B)) were performed within the time prescribed therefor; and
 

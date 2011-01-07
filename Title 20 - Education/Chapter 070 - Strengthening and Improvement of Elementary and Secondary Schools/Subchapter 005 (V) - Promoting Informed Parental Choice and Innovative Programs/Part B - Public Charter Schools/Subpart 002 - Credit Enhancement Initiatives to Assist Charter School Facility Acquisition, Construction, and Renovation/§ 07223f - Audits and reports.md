@@ -2,7 +2,7 @@
 
 #### (a) Financial record maintenance and audit
 
-The financial records of each eligible entity receiving a grant under this subpart shall be maintained in accordance with generally accepted accounting principles and shall be subject to an annual audit by an independent public accountant.
+The financial records of each eligible entity receiving a grant under this subpart shall bemaintained in accordance with generally accepted accounting principles and shall be subject to an annual audit by an independent public accountant.
 
 #### (b) Reports
 

@@ -32,7 +32,7 @@ A prior section 603 of Pub. L. 89–73, title VI, as added Pub. L. 91–69, §9,
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–375, §904(a)(21)(A), inserted “individuals who are” after “older” in introductory provisions.
+<b>1992</b>—Subsec. (a). Pub. L. 102–375, §904(a)(21)(A), inserted “individuals who are” after “older” in introductory provisions.
 
 Subsec. (a)(9). Pub. L. 102–375, §904(a)(21)(B), substituted “population of older individuals who are Indians” for “Indian elderly population”.
 

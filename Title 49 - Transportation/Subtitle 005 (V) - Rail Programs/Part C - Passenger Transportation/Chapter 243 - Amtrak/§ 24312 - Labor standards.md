@@ -44,11 +44,11 @@ The Railway Labor Act, referred to in subsec. (b), is act May 20, 1926, ch. 347,
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–217, §3(n)(4)(A), substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5)” and “section 3704 of title 40” for “section 107 of the Contract Work Hours and Safety Standards Act (40 U.S.C. 333)”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–217, §3(n)(4)(A), substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5)” and “section 3704 of title 40” for “section 107 of the Contract Work Hours and Safety Standards Act (40 U.S.C. 333)”.
 
 Subsec. (b). Pub. L. 107–217, §3(n)(4)(B), substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5)”.
 
-1997—Subsec. (a)(1). Pub. L. 105–134, §121(a)(2), redesignated par. (1) as subsec. (a).
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–134, §121(a)(2), redesignated par. (1) as subsec. (a).
 
 Pub. L. 105–134, §§101(f), 105(c), struck out “, 24701(a), or 24704(b)(2)” after “24308(a)”.
 
@@ -76,7 +76,7 @@ Contracting out.—Any collective bargaining agreement entered into between Amtr
 
 &emsp;“(2)
 
-Enforceability of amendment.—The amendment to any such collective bargaining agreement deemed to be made by paragraph (1) of this subsectionis binding on all parties to the agreement and has the same effect as if arrived at by agreement of the parties under the Railway Labor Act \[45 U.S.C. 151 et seq.\].
+Enforceability of amendment.—The amendment to any such collective bargaining agreement deemed to be made by paragraph (1) of this subsection is binding on all parties to the agreement and has the same effect as if arrived at by agreement of the parties under the Railway Labor Act \[45 U.S.C. 151 et seq.\].
 
 “(c)
 

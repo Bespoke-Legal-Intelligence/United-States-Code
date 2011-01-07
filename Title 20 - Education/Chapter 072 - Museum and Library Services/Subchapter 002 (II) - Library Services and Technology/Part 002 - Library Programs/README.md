@@ -2,8 +2,6 @@ Part 2—
 
 Library Programs
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “under”.</i>
-
 
 ---
 

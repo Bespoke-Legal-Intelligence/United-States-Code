@@ -36,7 +36,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(B) nonliving resources (including energy sources, minerals, and chemical substances);
 
-&emsp;&emsp;(C) the habitat of a living resource, the coastal space, the ecosystems, the nutrient-rich areas, and the other components of the marine environment that contribute to or provide (or which are capable of contributing to or providing) recreational, scenic, esthetic, biological, habitational, commercial, economic, or conservation values; and
+&emsp;&emsp;(C) the habitat of a living resource, the coastal space, the ecosystems, the nutrient-rich areas, and the other components of themarine environment that contribute to or provide (or which are capable of contributing to or providing) recreational, scenic, esthetic, biological, habitational, commercial, economic, or conservation values; and
 
 &emsp;&emsp;(D) man-made, tangible, intangible, actual, or potential resources.
 
@@ -64,7 +64,7 @@ Section 1123 of this title, referred to in par. (2), was amended generally by Pu
 
 #### Amendments
 
-2008—Par. (4). Pub. L. 110–394, §4(a)(1), inserted “management,” after “development,”.
+<b>2008</b>—Par. (4). Pub. L. 110–394, §4(a)(1), inserted “management,” after “development,”.
 
 Par. (6)(F), (G). Pub. L. 110–394, §4(b), repealed section 307(a) of Pub. L. 102–251. See 1992 Amendment note below.
 
@@ -74,7 +74,7 @@ Par. (11). Pub. L. 110–394, §4(a)(2), substituted “extension services” fo
 
 Pars. (12), (13). Pub. L. 110–394, §4(a)(3), made technical amendment to reference in original act which appears in text as reference to “section 1126 of this title”, requiring no change in text.
 
-1998—Par. (3). Pub. L. 105–160, §4(a)(1), substituted “his or her” for “their university or” and “college or sea grant institute” for “college, programs, or regional consortium”.
+<b>1998</b>—Par. (3). Pub. L. 105–160, §4(a)(1), substituted “his or her” for “their university or” and “college or sea grant institute” for “college, programs, or regional consortium”.
 
 Par. (4). Pub. L. 105–160, §4(a)(2), added par. (4) and struck out former par. (4) which read as follows: “The term ‘field related to ocean, coastal, and Great Lakes resources’ means any discipline or field (including marine science (and the physical, natural, and biological sciences, and engineering, included therein), marine technology, education, marine affairs and resource management, economics, sociology, communications, planning, law, international affairs, and public administration) which is concerned with or likely to improve the understanding, assessment, development, utilization, or conservation of ocean, coastal, and Great Lakes resources.”
 
@@ -104,11 +104,11 @@ Pub. L. 105–160, §4(a)(5), added pars. (12) to (17) and struck out former par
 
 Pub. L. 105–160, §4(a)(3), redesignated pars. (10) to (15) as (12) to (17), respectively.
 
-1992—Par. (6)(F), (G). Pub. L. 102–251, §307(a), which directed addition of subpar. (F) and redesignation of former subpar. (F) as (G), was repealed by section 4(b) of Pub. L. 110–394. See Effective Date of 1992 Amendment note below.
+<b>1992</b>—Par. (6)(F), (G). Pub. L. 102–251, §307(a), which directed addition of subpar. (F) and redesignation of former subpar. (F) as (G), was repealed by section 4(b) of Pub. L. 110–394. See Effective Date of 1992 Amendment note below.
 
-1991—Par. (4). Pub. L. 102–186 inserted “marine affairs and resource management,” after “education,”.
+<b>1991</b>—Par. (4). Pub. L. 102–186 inserted “marine affairs and resource management,” after “education,”.
 
-1987—Pars. (2), (3). Pub. L. 100–220, §3104(a)(1), (2), added par. (3), redesignated former par. (3) as (2), and struck out former par. (2) which read as follows: “The term ‘Administrator’ means the Administrator of the National Oceanic and Atmospheric Administration.”
+<b>1987</b>—Pars. (2), (3). Pub. L. 100–220, §3104(a)(1), (2), added par. (3), redesignated former par. (3) as (2), and struck out former par. (2) which read as follows: “The term ‘Administrator’ means the Administrator of the National Oceanic and Atmospheric Administration.”
 
 Par. (4). Pub. L. 100–220, §3104(b)(1)(C), substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources” in two places.
 
@@ -120,19 +120,19 @@ Par. (11). Pub. L. 100–220, §3104(b)(1)(C), substituted “ocean, coastal, an
 
 Par. (15). Pub. L. 100–220, §3104(a)(4), added par. (15).
 
-1980—Par. (6). Pub. L. 96–289 extended term “marine environment” to include waters of Great Lakes.
+<b>1980</b>—Par. (6). Pub. L. 96–289 extended term “marine environment” to include waters of Great Lakes.
 
-1978—Pub. L. 95–428 substituted “national sea grant college program” for “national sea grant program”.
+<b>1978</b>—Pub. L. 95–428 substituted “national sea grant college program” for “national sea grant program”.
 
-1976—Pub. L. 94–461 substituted provisions defining terms used in this subchapter for provisions designating Secretary of Commerce as administering authority for national sea grant program and authorizing appropriations through fiscal 1976.
+<b>1976</b>—Pub. L. 94–461 substituted provisions defining terms used in this subchapter for provisions designating Secretary of Commerce as administering authority for national sea grant program and authorizing appropriations through fiscal 1976.
 
-1973—Subsec. (a). Pub. L. 93–73, §1(5), substituted “Secretary of Commerce” and “Secretary” for “National Science Foundation” and “Foundation”, respectively.
+<b>1973</b>—Subsec. (a). Pub. L. 93–73, §1(5), substituted “Secretary of Commerce” and “Secretary” for “National Science Foundation” and “Foundation”, respectively.
 
 Subsec. (b)(1). Pub. L. 93–73, §1(1), (5), authorized appropriations of $30,000,000; $40,000,000; and $50,000,000 for fiscal years ending June 30, 1974, 1975, and 1976, and substituted “Secretary” for “Foundation”.
 
-1970—Subsec. (b)(1). Pub. L. 91–349 authorized appropriations for fiscal year ending June 30, 1971, not to exceed the sum of $20,000,000, for fiscal year ending June 30, 1972, not to exceed the sum of $25,000,000, and for fiscal year ending June 30, 1973, not to exceed the sum of $30,000,000.
+<b>1970</b>—Subsec. (b)(1). Pub. L. 91–349 authorized appropriations for fiscal year ending June 30, 1971, not to exceed the sum of $20,000,000, for fiscal year ending June 30, 1972, not to exceed the sum of $25,000,000, and for fiscal year ending June 30, 1973, not to exceed the sum of $30,000,000.
 
-1968—Subsec. (b)(1). Pub. L. 90–477 authorized appropriations for fiscal year ending June 30, 1969, not to exceed the sum of $6,000,000, and for fiscal year ending June 30, 1970, not to exceed the sum of $15,000,000.
+<b>1968</b>—Subsec. (b)(1). Pub. L. 90–477 authorized appropriations for fiscal year ending June 30, 1969, not to exceed the sum of $6,000,000, and for fiscal year ending June 30, 1970, not to exceed the sum of $15,000,000.
 
 #### Effective Date of 1992 Amendment
 

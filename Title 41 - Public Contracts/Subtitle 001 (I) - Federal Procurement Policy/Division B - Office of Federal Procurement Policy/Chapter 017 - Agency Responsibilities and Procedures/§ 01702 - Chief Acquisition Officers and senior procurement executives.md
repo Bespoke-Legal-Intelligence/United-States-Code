@@ -1,0 +1,88 @@
+### §1702. Chief Acquisition Officers and senior procurement executives
+
+(a)
+
+Appointment or Designation of Chief Acquisition Officer.—The head of each executive agency described in section 901(b)(1) (other than the Department of Defense) or 901(b)(2)(C) of title 31 with a Chief Financial Officer appointed or designated under section 901(a) of title 31 shall appoint or designate a non-career employee as Chief Acquisition Officer for the agency.
+
+(b)
+
+Authority and Functions of Chief Acquisition Officer.—
+
+&emsp;(1)
+
+Primary duty.—The primary duty of a Chief Acquisition Officer is acquisition management.
+
+&emsp;(2)
+
+Advice and assistance.—A Chief Acquisition Officer shall advise and assist the head of the executive agency and other agency officials to ensure that the mission of the executive agency is achieved through the management of the agency's acquisition activities.
+
+&emsp;(3)
+
+Other functions.—The functions of each Chief Acquisition Officer include—
+
+&emsp;&emsp;(A) monitoring the performance of acquisition activities and acquisition programs of the executive agency, evaluating the performance of those programs on the basis of applicable performance measurements, and advising the head of the executive agency regarding the appropriate business strategy to achieve the mission of the executive agency;
+
+&emsp;&emsp;(B) increasing the use of full and open competition in the acquisition of property and services by the executive agency by establishing policies, procedures, and practices that ensure that the executive agency receives a sufficient number of sealed bids or competitive proposals from responsible sources to fulfill the Federal Government's requirements (including performance and delivery schedules) at the lowest cost or best value considering the nature of the property or service procured;
+
+&emsp;&emsp;(C) increasing appropriate use of performance-based contracting and performance specifications;
+
+&emsp;&emsp;(D) making acquisition decisions consistent with all applicable laws and establishing clear lines of authority, accountability, and responsibility for acquisition decisionmaking within the executive agency;
+
+&emsp;&emsp;(E) managing the direction of acquisition policy for the executive agency, including implementation of the unique acquisition policies, regulations, and standards of the executive agency;
+
+&emsp;&emsp;(F) developing and maintaining an acquisition career management program in the executive agency to ensure that there is an adequate professional workforce; and
+
+&emsp;&emsp;(G) as part of the strategic planning and performance evaluation process required under section 306 of title 5 and sections 1105(a)(28), 1115, 1116, and 9703 (added by section 5(a) of Public Law 103–62 (107 Stat. 289)) of title 31—
+
+&emsp;&emsp;&emsp;(i) assessing the requirements established for agency personnel regardingknowledge and skill in acquisition resources management and the adequacy of those requirements for facilitating the achievement of the performance goals established for acquisition management;
+
+&emsp;&emsp;&emsp;(ii) developing strategies and specific plans for hiring, training, and professional development to rectify a deficiency in meeting those requirements; and
+
+&emsp;&emsp;&emsp;(iii) reporting to the head of the executive agency on the progress made in improving acquisition management capability.
+
+(c)
+
+Senior Procurement Executive.—
+
+&emsp;(1)
+
+Designation.—The head of each executive agency shall designate a senior procurement executive.
+
+&emsp;(2)
+
+Responsibility.—The senior procurement executive is responsible for management direction of the procurement system of the executive agency, including implementation of the unique procurement policies, regulations, and standards of the executive agency.
+
+&emsp;(3)
+
+When chief acquisition officer appointed or designated.—For an executive agency for which a Chief Acquisition Officer has been appointed or designated under subsection (a), the head of the executive agency shall—
+
+&emsp;&emsp;(A) designate the Chief Acquisition Officer as the senior procurement executive for the executive agency; or
+
+&emsp;&emsp;(B) ensure that the senior procurement executive designated under paragraph (1) reports directly to the Chief Acquisition Officer without intervening authority.
+
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3701.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+1702(a), (b)(1), (2)
+
+41:414(a).
+
+Pub. L. 93–400, §16, as added Pub. L. 98–191, §7, Dec. 1, 1983, 97 Stat. 1330; Pub. L. 98–369, title VII, §2732(b)(2), July 18, 1984, 98 Stat. 1199; Pub. L. 108–136, div. A, title XIV, §1421(a)(1), Nov. 24, 2003, 117 Stat. 1666.
+
+1702(b)(3)
+
+41:414(b).
+
+1702(c)
+
+41:414(c).
+

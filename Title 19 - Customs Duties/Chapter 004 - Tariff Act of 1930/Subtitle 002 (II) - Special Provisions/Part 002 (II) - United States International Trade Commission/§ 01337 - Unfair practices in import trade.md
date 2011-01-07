@@ -38,11 +38,11 @@
 
 #### (b) Investigation of violations by Commission
 
-(1) The Commission shall investigate any alleged violation of this section on complaintunder oath or upon its initiative. Upon commencing any such investigation, the Commission shall publish notice thereof in the Federal Register. The Commission shall conclude any such investigation and make its determination under this section at the earliest practicable time after the date of publication of notice of such investigation. To promote expeditious adjudication, the Commission shall, within 45 days after an investigation is initiated, establish a target date for its final determination.
+(1) The Commission shall investigate any alleged violation of this section on complaint under oath or upon its initiative. Upon commencing any such investigation, the Commission shall publish notice thereof in the Federal Register. The Commission shall conclude any such investigation and make its determination under this section at the earliest practicable time after the date of publication of notice of such investigation. To promote expeditious adjudication, the Commission shall, within 45 days after an investigation is initiated, establish a target date for its final determination.
 
 (2) During the course of each investigation under this section, the Commission shall consult with, and seek advice and information from, the Department of Health and Human Services, the Department of Justice, the Federal Trade Commission, and such other departments and agencies as it considers appropriate.
 
-(3) Whenever, in the course of an investigation under this section, the Commission has reason to believe, based on information before it, that a matter, in whole or in part, may come within the purview of part II of subtitle IV of this chapter, it shall promptly notify the Secretary of Commerce so that such action may be taken as is otherwise authorized by such part II. If the Commission has reason to believe that the matter before it (A) is based solely on alleged acts and effects which are within the purview of section 1671 or 1673 of this title, or (B) relates to an alleged copyright infringement with respect to which action is prohibited by section 1008 of title 17, the Commission shall terminate, or not institute, any investigation into the matter. If the Commission has reason to believe the matter before it is based in part on alleged acts and effects which are within the purview of section 1671 or 1673 of this title, and in part on alleged acts and effects which may, independently from or in conjunction with those within the purview of such section, establish a basis for relief under this section, then it may institute or continue an investigation into the matter. If the Commission notifies the Secretary or the administering authority (as defined in section 1677(1) of this title) with respect to a matter under this paragraph, the Commission may suspend its investigation during the time the matter is before the Secretary or administering authority for final decision. Any final decision by the administering authority under section 1671 or 1673 of this title with respect to the matter within such section 1671 or 1673 of this title of which the Commission has notified the Secretary or administering authority shall be conclusive upon the Commission with respect to the issue of less-than-fair-value sales or subsidization and the matters necessary for such decision.
+(3) Whenever, in the course of an investigation under this section, the Commission has reason to believe, based on information before it, that a matter, in whole or in part, may come within the purview of part II of subtitle IV of this chapter, it shall promptly notify the Secretary ofCommerce so that such action may be taken as is otherwise authorized by such part II. If the Commission has reason to believe that the matter before it (A) is based solely on alleged acts and effects which are within the purview of section 1671 or 1673 of this title, or (B) relates to an alleged copyright infringement with respect to which action is prohibited by section 1008 of title 17, the Commission shall terminate, or not institute, any investigation into the matter. If the Commission has reason to believe the matter before it is based in part on alleged acts and effects which are within the purview of section 1671 or 1673 of this title, and in part on alleged acts and effects which may, independently from or in conjunction with those within the purview of such section, establish a basis for relief under this section, then it may institute or continue an investigation into the matter. If the Commission notifies the Secretary or the administering authority (as defined in section 1677(1) of this title) with respect to a matter under this paragraph, the Commission may suspend its investigation during the time the matter is before the Secretary or administering authority for final decision. Any final decision by the administering authority under section 1671 or 1673 of this title with respect to the matter within such section 1671 or 1673 of this title of which the Commission has notified the Secretary or administering authority shall be conclusive upon the Commission with respect to the issue of less-than-fair-value sales or subsidization and the matters necessary for such decision.
 
 #### (c) Determinations; review
 
@@ -54,13 +54,13 @@ The Commission shall determine, with respect to each investigation conducted by 
 
 (2) The authority of the Commission to order an exclusion from entry of articles shall be limited to persons determined by the Commission to be violating this section unless the Commission determines that—
 
-&emsp;(A) a general exclusion from entry of articles is necessary to prevent circumvention ofan exclusion order limited to products of named persons; or
+&emsp;(A) a general exclusion from entry of articles is necessary to prevent circumvention of an exclusion order limited to products of named persons; or
 
 &emsp;(B) there is a pattern of violation of this section and it is difficult to identify the source of infringing products.
 
 #### (e) Exclusion of articles from entry during investigation except under bond; procedures applicable; preliminary relief
 
-(1) If, during the course of an investigation under this section, the Commission determines that there is reason to believe that there is a violation of this section, it may direct that the articles concerned, imported by any person with respect to whom there is reason to believe that such person is violating this section, be excluded from entry into the United States, unless, after considering the effect of such exclusion upon the public health and welfare, competitive conditions in the United States economy, the production of like or directly competitive articles in the United States, and United States consumers, it finds that such articles should not be excluded from entry. The Commission shall notify the Secretary of the Treasury of its action under this subsection directing such exclusion from entry, and upon receipt of such notice, the Secretary shall, through the proper officers, refuse such entry, except that such articles shall be entitled to entry under bond prescribed by the Secretary in an amount determined by the Commission to be sufficient to protect the complainant from any injury. If the Commission later determines that the respondent has violated the provisions of this section, the bond may be forfeited to the complainant.
+(1) If, during the course of an investigation under this section, the Commission determines that there is reason to believe that there is a violation of this section, it may direct that the articles concerned, imported by any person with respect to whom there is reason to believe that such person is violating this section, be excluded from entry into the United States, unless, after considering the effect of such exclusion upon the public health and welfare, competitive conditions in the United States economy, the production of like or directly competitive articles in the United States, and United States consumers, it finds that such articles should not be excluded from entry. The Commission shall notify the Secretary of the Treasury of its action underthis subsection directing such exclusion from entry, and upon receipt of such notice, the Secretary shall, through the proper officers, refuse such entry, except that such articles shall be entitled to entry under bond prescribed by the Secretary in an amount determined by the Commission to be sufficient to protect the complainant from any injury. If the Commission later determines that the respondent has violated the provisions of this section, the bond may be forfeited to the complainant.
 
 (2) A complainant may petition the Commission for the issuance of an order under this subsection. The Commission shall make a determination with regard to such petition by no later than the 90th day after the date on which the Commission's notice of investigation is published in the Federal Register. The Commission may extend the 90-day period for an additional 60 days in a case it designates as a more complicated case. The Commission shall publish in the Federal Register its reasons why it designated the case as being more complicated. The Commission may require the complainant to post a bond as a prerequisite to the issuance of an order under this subsection. If the Commission later determines that the respondent has not violated the provisions of this section, the bond may be forfeited to the respondent.
 
@@ -104,7 +104,7 @@ The Commission may by rule prescribe sanctions for abuse of discovery and abuse 
 
 #### (i) Forfeiture
 
-(1) In addition to taking action under subsection (d) of this section, the Commission may issue an order providing that any article imported in violation of the provisions of this section be seized and forfeited to the United States if—
+(1) In addition to taking action under subsection (d) of this section, the Commission mayissue an order providing that any article imported in violation of the provisions of this section be seized and forfeited to the United States if—
 
 &emsp;(A) the owner, importer, or consignee of the article previously attempted to import the article into the United States;
 
@@ -156,7 +156,7 @@ The Commission may by rule prescribe sanctions for abuse of discovery and abuse 
 
 #### (<i>l</i>) Importation by or for United States
 
-Any exclusion from entry or order under subsection (d), (e), (f), (g), or (i) of this section, in cases based on a proceeding involving a patent, copyright, mask work, or design under subsection (a)(1) of this section, shall not apply to any articles imported by and for the use of the United States, or imported for, and to be used for, the United States with the authorization or consent of the Government. Whenever any article would have been excluded from entry or would not have been entered pursuant to the provisions of such subsections but for the operation of this subsection, an owner of the patent, copyright, mask work, or design adversely affected shall be entitled to reasonable and entire compensation in an action before the United States Court of Federal Claims pursuant to the procedures of section 1498 of title 28.
+Any exclusion from entry or order under subsection (d), (e), (f), (g), or (i) of this section, in cases based on a proceeding involving a patent, copyright, mask work, or design under subsection (a)(1) of this section, shall not apply to any articles imported by and for the use of the United States, or imported for, and to be used for, the United States with the authorization or consent of the Government. Whenever any article would have been excluded from entry or would not have been entered pursuant to the provisions of such subsections but for the operation of this subsection, an owner of the patent, copyright, mask work, or design adversely affected shall be entitled to reasonable and entire compensation in an action before the UnitedStates Court of Federal Claims pursuant to the procedures of section 1498 of title 28.
 
 #### (m) “United States” defined
 
@@ -206,11 +206,11 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 
 #### Amendments
 
-2004—Subsec. (a)(1)(E). Pub. L. 108–429, §2004(d)(5)(A), realigned margins.
+<b>2004</b>—Subsec. (a)(1)(E). Pub. L. 108–429, §2004(d)(5)(A), realigned margins.
 
 Subsec. (a)(2). Pub. L. 108–429, §2004(d)(5)(B), substituted “(D), and (E)” for “and (D)”.
 
-1999—Subsec. (a)(1)(A). Pub. L. 106–113, §1000(a)(9) \[title V, §5005(b)(1)(A)(i)\], substituted “(D), and (E)” for “and (D)”.
+<b>1999</b>—Subsec. (a)(1)(A). Pub. L. 106–113, §1000(a)(9) \[title V, §5005(b)(1)(A)(i)\], substituted “(D), and (E)” for “and (D)”.
 
 Subsec. (a)(1)(E). Pub. L. 106–113, §1000(a)(9) \[title V, §5005(b)(1)(A)(ii)\], added subpar. (E).
 
@@ -218,13 +218,13 @@ Subsec. (a)(2), (3). Pub. L. 106–113, §1000(a)(9) \[title V, §5005(b)(1)(B)\
 
 Subsec. (<i>l</i>). Pub. L. 106–113, §1000(a)(9) \[title V, §5005(b)(2)\], substituted “mask work, or design” for “or mask work” in two places.
 
-1996—Subsec. (b)(3). Pub. L. 104–295, §20(c)(2), amended Pub. L. 103–465, §321(a)(1)(C)(i). See 1994 Amendment note below.
+<b>1996</b>—Subsec. (b)(3). Pub. L. 104–295, §20(c)(2), amended Pub. L. 103–465, §321(a)(1)(C)(i). See 1994 Amendment note below.
 
 Pub. L. 104–295, §20(b)(12), struck out “such section and” before “such part II” in first sentence.
 
 Pub. L. 104–295, §20(b)(11), amended Pub. L. 103–465, §261(d)(1)(B)(ii)(I). See 1994 Amendment note below.
 
-1994—Subsec. (b). Pub. L. 103–465, §321(a)(1)(A), struck out “; time limits” after “Commission” in heading.
+<b>1994</b>—Subsec. (b). Pub. L. 103–465, §321(a)(1)(A), struck out “; time limits” after “Commission” in heading.
 
 Subsec. (b)(1). Pub. L. 103–465, §321(a)(1)(B), substituted third and fourth sentences for “The Commission shall conclude any such investigation, and make its determination under this section, at the earliest practicable time, but not later than one year (18 months in more complicated cases) after the date of publication of notice of such investigation. The Commission shall publish in the Federal Register its reasons for designating any investigation as a more complicated investigation. For purposes of the one-year and 18-month periods prescribed by this subsection, there shall be excluded any period of time during which such investigation is suspended because of proceedings in a court or agency of the United States involving similar questions concerning the subject matter of such investigation.”
 
@@ -258,9 +258,9 @@ Subsec. (n)(2)(A). Pub. L. 103–465, §321(a)(7)(A), amended subpar. (A) genera
 
 Subsec. (n)(2)(C). Pub. L. 103–465, §321(a)(7)(B), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “an officer or employee of the United States Customs Service who is directly involved in administering an exclusion from entry under this section resulting from the investigation in connection with which the information is submitted.”
 
-1992—Subsec. (b)(3). Pub. L. 102–563 amended second sentence generally. Prior to amendment, second sentence read as follows: “If the Commission has reason to believe the matter before it is based solely on alleged acts and effects which are within the purview of section 1303, 1671, or 1673 of this title, it shall terminate, or not institute, any investigation into the matter.”
+<b>1992</b>—Subsec. (b)(3). Pub. L. 102–563 amended second sentence generally. Prior to amendment, second sentence read as follows: “If the Commission has reason to believe the matter before it is based solely on alleged acts and effects which are within the purview of section 1303, 1671, or 1673 of this title, it shall terminate, or not institute, any investigation into the matter.”
 
-1988—Subsec. (a). Pub. L. 100–418, §1342(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Unfair methods of competition and unfair acts in the importation of articles into the United States, or in their sale by the owner, importer, consignee, or agent of either, the effect or tendency of which is to destroy or substantially injure an industry, efficiently and economically operated, in the United States, or to prevent the establishment of such an industry, or to restrain or monopolize trade and commerce in the United States, are declared unlawful, and when found by the Commission to exist shall be dealt with, in addition to any other provisions of law, as provided in this section.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–418, §1342(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Unfair methods of competition and unfair acts in the importation of articles into the United States, or in their sale by the owner, importer, consignee, or agent of either, the effect or tendency of which is to destroy or substantially injure an industry, efficiently and economically operated, in the United States, or to prevent the establishment of such an industry, or to restrain or monopolize trade and commerce in the United States, are declared unlawful, and when found by the Commission to exist shall be dealt with, in addition to any other provisions of law, as provided in this section.”
 
 Subsec. (b)(2). Pub. L. 100–418, §1342(b)(1)(A), substituted “Department of Health and Human Services” for “Department of Health, Education, and Welfare”.
 
@@ -302,15 +302,15 @@ Subsec. (n). Pub. L. 100–418, §1342(a)(8), added subsec. (n).
 
 Subsec. (n)(2)(B). Pub. L. 100–647, §9001(a)(12), substituted “subsection (j)” for “subsection (h)”.
 
-1984—Subsec. (c). Pub. L. 98–620 inserted “, within 60 days after the determination becomes final,” after “appeal such determination”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–620 inserted “, within 60 days after the determination becomes final,” after “appeal such determination”.
 
-1982—Subsec. (c). Pub. L. 97–164, §163(a)(4), substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals”.
+<b>1982</b>—Subsec. (c). Pub. L. 97–164, §163(a)(4), substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals”.
 
 Subsec. (i). Pub. L. 97–164, §160(a)(5), substituted “United States Claims Court” for “Court of Claims”.
 
-1980—Subsec. (c). Pub. L. 96–417 provided that the appeal of determinations to the United States Court of Customs and Patent Appeals be reviewed in accordance with chapter 7 of title 5 and substituted provision that review of findings concerning the public health and welfare, competitive conditions in the United States economy, the production of like or directly competitive articles in the United States, and United States consumers, the amount and nature of bond, or the appropriate remedy, be in accordance with section 706 of title 5 for provision giving such court jurisdiction to review determinations in same manner and subject to same limitations and conditions as in case of appeals from decisions of the United States Customs Court.
+<b>1980</b>—Subsec. (c). Pub. L. 96–417 provided that the appeal of determinations to the United States Court of Customs and Patent Appeals be reviewed in accordance with chapter 7 of title 5 and substituted provision that review of findings concerning the public health and welfare, competitive conditions in the United States economy, the production of like or directly competitive articles in the United States, and United States consumers, the amount and nature of bond, or the appropriate remedy, be in accordance with section 706 of title 5 for provision giving such court jurisdiction to review determinations in same manner and subject to same limitations and conditions as in case of appeals from decisions of the United States Customs Court.
 
-1979—Subsec. (b)(3). Pub. L. 96–39, §1105(a), substituted “a matter, in whole or in part,” for “the matter” and inserted provisions relating to matters based solely or in part on alleged acts and effects within the purview of section 1303, 1671, or 1673 of this title.
+<b>1979</b>—Subsec. (b)(3). Pub. L. 96–39, §1105(a), substituted “a matter, in whole or in part,” for “the matter” and inserted provisions relating to matters based solely or in part on alleged acts and effects within the purview of section 1303, 1671, or 1673 of this title.
 
 Pub. L. 96–39, §106(b)(1), substituted “part II of subtitle IV of this chapter” for “the Antidumping Act, 1921”.
 
@@ -318,7 +318,7 @@ Subsec. (c). Pub. L. 96–39, §1105(c), substituted “Any person adversely aff
 
 Subsec. (f). Pub. L. 96–39, §1105(b), designated existing provisions as par. (1) and added par. (2).
 
-1975—Subsec. (a) Pub. L. 93–618 substituted “Commission” for “President” and “as provided in this section” for “as hereinafter provided”.
+<b>1975</b>—Subsec. (a) Pub. L. 93–618 substituted “Commission” for “President” and “as provided in this section” for “as hereinafter provided”.
 
 Subsec. (b). Pub. L. 93–618 designated existing provisions as first sentence of par. (1), substituted “The Commission shall investigate any alleged violation of this section” for “To assist the President in making any decisions under this section the commission is authorized to investigate any alleged violation hereof” in first sentence of par. (1) as so designated, and added remainder of par. (1) and pars. (2) and (3).
 
@@ -338,7 +338,7 @@ Subsec. (i). Pub. L. 93–618 added subsec. (i).
 
 Subsec. (j). Pub. L. 93–618 added subsec. (j) defining “United States”, formerly covered by subsec. (h).
 
-1958—Subsec. (c). Pub. L. 85–686 struck out “under and in accordance with such rules as it may promulgate” after “commission shall make such investigation”. See section 1335 of this title.
+<b>1958</b>—Subsec. (c). Pub. L. 85–686 struck out “under and in accordance with such rules as it may promulgate” after “commission shall make such investigation”. See section 1335 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -346,7 +346,7 @@ Amendment by section 261(d)(1)(B)(ii) of Pub. L. 103–465 effective on effectiv
 
 Section 322 of title III of Pub. L. 103–465 provided that: “The amendments made by this subtitle \[subtitle C (§§321, 322) of title III of Pub. L. 103–465, enacting sections 1368 and 1659 of Title 28, Judiciary and Judicial Procedure, and amending this section and section 1446 of Title 28\] apply—
 
-&emsp;“(1) with respect to complaints filed under section 337 of the Tariff Act of 1930 \[19 U.S.C. 1337\] on or after the date on which the WTO Agreement enters intoforce with respect to the United States \[Jan. 1, 1995\], or
+&emsp;“(1) with respect to complaints filed under section 337 of the Tariff Act of 1930 \[19 U.S.C. 1337\] on or after the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], or
 
 &emsp;“(2) in cases under such section 337 in which no complaint is filed, with respect to investigations initiated under such section on or after such date.”
 

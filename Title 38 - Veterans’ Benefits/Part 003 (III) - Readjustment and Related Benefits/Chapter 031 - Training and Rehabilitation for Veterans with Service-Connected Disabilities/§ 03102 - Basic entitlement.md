@@ -22,7 +22,7 @@ A person shall be entitled to a rehabilitation program under the terms and condi
 
 &emsp;&emsp;(B) is determined by the Secretary to be in need of rehabilitation because of a serious employment handicap.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2173, §1502; amended Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103Stat. 2092; Pub. L. 101–508, title VIII, §8021(a), Nov. 5, 1990, 104 Stat. 1388–347; Pub. L. 102–16, §3(a), Mar. 22, 1991, 105 Stat. 49; renumbered §3102, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title IV, §404(a), Oct. 29, 1992, 106 Stat. 4338; Pub. L. 104–275, title I, §101(b), Oct. 9, 1996, 110 Stat. 3323.)
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2173, §1502; amended Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–508, title VIII, §8021(a), Nov. 5, 1990, 104 Stat. 1388–347; Pub. L. 102–16, §3(a), Mar. 22, 1991, 105 Stat. 49; renumbered §3102, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title IV, §404(a), Oct. 29, 1992, 106 Stat. 4338; Pub. L. 104–275, title I, §101(b), Oct. 9, 1996, 110 Stat. 3323.)
 
 #### Prior Provisions
 
@@ -30,21 +30,21 @@ Prior section 3102 was renumbered section 5302 of this title.
 
 #### Amendments
 
-1996—Par. (1)(A)(i). Pub. L. 104–275, §101(b)(1), substituted “rated at 20 percent or more” for “which is, or but for the receipt of retired pay would be, compensable at a rate of 20 percent or more under chapter 11 of this title and”.
+<b>1996</b>—Par. (1)(A)(i). Pub. L. 104–275, §101(b)(1), substituted “rated at 20 percent or more” for “which is, or but for the receipt of retired pay would be, compensable at a rate of 20 percent or more under chapter 11 of this title and”.
 
 Par. (2)(A). Pub. L. 104–275, §101(b)(2), substituted “rated at 10 percent” for “which is, or but for the receipt of retired pay would be, compensable at a rate of 10 percent under chapter 11 of this title and”.
 
 Par. (2)(B). Pub. L. 104–275, §101(b)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “has a serious employment handicap.”
 
-1992—Pub. L. 102–568 amended section generally, making changes in substance and structure.
+<b>1992</b>—Pub. L. 102–568 amended section generally, making changes in substance and structure.
 
-1991—Pub. L. 102–83 renumbered section 1502 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 1502 of this title as this section.
 
 Par. (1)(B). Pub. L. 102–16 substituted “or receiving outpatient medical care, services, or treatment for a service-connected disability pending discharge from the active military, naval, or air service, and the Secretary determines that (i) the hospital (or other medical facility) providing the hospitalization, care, services, or treatment either is doing so under contract or agreement with the Secretary concerned or is under the jurisdiction of the Secretary of Veterans Affairs or the Secretary concerned, and (ii) the person is suffering from a disability which” for “for a service-connected disability in a hospital over which the Secretary concerned has jurisdiction pending discharge or release from active military, naval, or air service and is suffering from a disability which the Secretary determines”.
 
-1990—Par. (1). Pub. L. 101–508 substituted “compensable at a rate of 20 percent or more” for “compensable” in cls. (A) and (B).
+<b>1990</b>—Par. (1). Pub. L. 101–508 substituted “compensable at a rate of 20 percent or more” for “compensable” in cls. (A) and (B).
 
-1989—Pub. L. 101–237 substituted “Secretary determines” for “Administrator determines” in par. (1)(B) and “Secretary” for “Administrator” in par. (2).
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary determines” for “Administrator determines” in par. (1)(B) and “Secretary” for “Administrator” in par. (2).
 
 #### Effective Date of 1992 Amendment
 

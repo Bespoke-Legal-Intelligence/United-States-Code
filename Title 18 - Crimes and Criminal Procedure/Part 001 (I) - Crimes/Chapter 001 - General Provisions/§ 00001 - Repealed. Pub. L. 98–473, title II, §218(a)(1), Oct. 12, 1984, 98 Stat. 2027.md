@@ -6,6 +6,18 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–307, §1, Dec. 14, 2010, 124 Stat. 3282, provided that: “This Act \[amending section 42 of this title\] may be cited as the ‘Asian Carp Prevention and Control Act’.”
+
+Pub. L. 111–294, §1, Dec. 9, 2010, 124 Stat. 3177, provided that: “This Act \[amending section 48 of this title and enacting provisions set out as notes under section 48 of this title\] may be cited as the ‘Animal Crush Video Prohibition Act of 2010’.”
+
+Pub. L. 111–272, §1, Oct. 12, 2010, 124 Stat. 2855, provided that: “This Act \[amending sections 926B and 926C of this title\] may be cited as the ‘Law Enforcement Officers Safety Act Improvements Act of 2010’.”
+
+Pub. L. 111–225, §1, Aug. 10, 2010, 124 Stat. 2387, provided that: “This Act \[amending section 1791 of this title\] may be cited as the ‘Cell Phone Contraband Act of 2010’.”
+
+Pub. L. 111–174, §1, May 27, 2010, 124 Stat. 1216, provided that: “This Act \[enacting section 114 of Title 28, Judiciary and Judicial Procedure, amending sections 2519, 3006A, 3154, and 3553 of this title and section 631 of Title 28, and repealing section 114 of Title 28\] may be cited as the ‘Federal Judiciary Administrative Improvements Act of 2010’.”
+
 #### Short Title of 2009 Amendment
 
 Pub. L. 111–84, div. E, §4701, Oct. 28, 2009, 123 Stat. 2835, provided that: “This division \[enacting sections 249 and 1389 of this title and sections 3716 and 3716a of Title 42, The Public Health and Welfare, amending section 249 of this title, enacting provisions set out as notes under section 249 of this title and section 3716 of Title 42, and amending provisions set out as a note under section 534 and provisions listed in a table relating to sentencing guidelines set out under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Matthew Shepard and James Byrd, Jr. Hate Crimes Prevention Act’.”
@@ -20,7 +32,7 @@ Pub. L. 110–407, §1, Oct. 13, 2008, 122 Stat. 4296, provided that: “This Ac
 
 Pub. L. 110–358, title I, §101, Oct. 8, 2008, 122 Stat. 4001, provided that: “This title \[amending sections 2251, 2251A, 2252 and 2252A of this title and enacting provisions set out as a note under section 2251 of this title\] may be cited as the ‘Effective Child Pornography Prosecution Act of 2007’.”
 
-Pub. L. 110–358, title II, §201, Oct. 8, 2008, 122 Stat. 4003, provided that: “This title \[amending sections 1956, 2252 and 2252A of this title\] may be cited as the ‘Enhancing the Effective Prosecution of Child Pornography Act of 2007’.”
+Pub. L. 110–358, title II, §201, Oct. 8, 2008, 122 Stat. 4003, provided that: “This title \[amending sections 1956,2252 and 2252A of this title\] may be cited as the ‘Enhancing the Effective Prosecution of Child Pornography Act of 2007’.”
 
 Pub. L. 110–340, §1, Oct. 3, 2008, 122 Stat. 3735, provided that: “This Act \[enacting sections 2442 and 3300 of this title, amending sections 1182 and 1227 of Title 8, Aliens and Nationality, and enacting provisions set out as a note under section 1158 of Title 8\] may be cited as the ‘Child Soldiers Accountability Act of 2008’.”
 
@@ -28,7 +40,7 @@ Pub. L. 110–326, title I, §101, Sept. 26, 2008, 122 Stat. 3560, provided that
 
 Pub. L. 110–326, title II, §201, Sept. 26, 2008, 122 Stat. 3560, provided that: “This title \[amending sections 1030, 2332b, and 3663 of this title and amending provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Identity Theft Enforcement and Restitution Act of 2008’.”
 
-Pub. L. 110–179, §1, Jan. 7, 2008, 121 Stat. 2556, provided that: “This Act \[enacting section 1040 of this title, amending sections 1341 and 1343 of this title, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title28, Judiciary and Judicial Procedure\] may be cited as the ‘Emergency and Disaster Assistance Fraud Penalty Enhancement Act of 2007’.”
+Pub. L. 110–179, §1, Jan. 7, 2008, 121 Stat. 2556, provided that: “This Act \[enacting section 1040 of this title, amending sections 1341 and 1343 of this title, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Emergency and Disaster Assistance Fraud Penalty Enhancement Act of 2007’.”
 
 #### Short Title of 2007 Amendment
 
@@ -80,7 +92,7 @@ Pub. L. 107–273, div. B, title IV, §4001, Nov. 2, 2002, 116 Stat. 1806, provi
 
 #### Short Title of 2001 Amendment
 
-Pub. L. 107–56, §1(a), Oct. 26, 2001, 115 Stat. 272, as amended by Pub. L. 109–177, title I, §101(b), Mar. 9, 2006, 120 Stat. 194, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001’ or the ‘USA PATRIOT Act’.”
+Pub. L. 107–56, §1(a), Oct. 26, 2001, 115 Stat. 272, as amended by Pub. L. 109–177, title I, §101(b), Mar. 9, 2006, 120 Stat. 194, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Uniting andStrengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001’ or the ‘USA PATRIOT Act’.”
 
 #### Short Title of 1998 Amendments
 
@@ -96,7 +108,7 @@ Pub. L. 104–132, §1, Apr. 24, 1996, 110 Stat. 1214, provided that: “This Ac
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–322, title X, §100001, Sept. 13, 1994, 108 Stat. 1996, provided that: “This title \[amending section13 of this title and section 3751 of Title 42, The Public Health and Welfare\] may be cited as the ‘Drunk Driving Child Protection Act of 1994’.”
+Pub. L. 103–322, title X, §100001, Sept. 13, 1994, 108 Stat. 1996, provided that: “This title \[amending section 13 of this title and section 3751 of Title 42, The Public Health and Welfare\] may be cited as the ‘Drunk Driving Child Protection Act of 1994’.”
 
 #### Short Title of 1990 Amendment
 

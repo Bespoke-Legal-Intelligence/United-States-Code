@@ -1,12 +1,8 @@
 ### §297i. Procedures for appeal of terminations
 
-In any case in which the Secretary intends to terminate an agreement with a school of nursing under this part,<sup>1</sup> the Secretary shall provide the school with a written notice specifying such intention and stating that the school may request a formal hearing with respect to such termination. If the school requests such a hearing within 30 days after the receipt of such notice, the Secretary shall provide such school with a hearing conducted by an administrative law judge.
+In any case in which the Secretary intends to terminate an agreement with a school of nursing under this part, the Secretary shall provide the school with a written notice specifying such intention and stating that the school may request a formal hearing with respect to such termination. If the school requests such a hearing within 30 days after the receipt of such notice, the Secretary shall provide such school with a hearing conducted by an administrative law judge.
 
-(July 1, 1944, ch. 373, title VIII, §842, as added Pub. L. 99–92, §8(g), Aug. 16, 1985, 99 Stat. 399.)
-
-#### References in Text
-
-This part, referred to in text, was in the original “this subpart” and was translated to reflect the probable intent of Congress and the redesignation of subpart II of part B of this subchapter as part E of this subchapter by Pub. L. 105–392, title I, §123(2), Nov. 13, 1998, 112 Stat. 3562.
+(July 1, 1944, ch. 373, title VIII, §842, as added Pub. L. 99–92, §8(g), Aug. 16, 1985, 99 Stat. 399; amended Pub. L. 111–148, title V, §5310(b)(2), Mar. 23, 2010, 124 Stat. 631.)
 
 #### Prior Provisions
 
@@ -24,9 +20,11 @@ A prior section 845 of act July 1, 1944, was renumbered section 855, and was cla
 
 A prior section 297k, act July 1, 1944, ch. 373, title VIII, §846, formerly §861, as added Aug. 16, 1968, Pub. L. 90–490, title II, §223(a), 82 Stat. 786; renumbered §846 and amended July 29, 1975, Pub. L. 94–63, title IX, §§941(j)(1), (3), 89 Stat. 366, related to transfers of funds to student loan program, prior to repeal by Pub. L. 97–35, title XXVII, §2758(c), Aug. 13, 1981, 95 Stat. 932.
 
+#### Amendments
+
+<b>2010</b>—Pub. L. 111–148 substituted “this part” for “this subpart”.
+
 #### Effective Date
 
 Section effective Oct. 1, 1985, see section 10(a) of Pub. L. 99–92, set out as an Effective Date of 1985 Amendment note under section 297a of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

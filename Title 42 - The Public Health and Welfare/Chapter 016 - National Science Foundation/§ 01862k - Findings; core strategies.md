@@ -40,7 +40,7 @@ In carrying out activities designed to achieve the goals described in subsection
 
 #### Codification
 
-Section was enacted as part of the National Science Foundation Authorization Act of 1998, and not as partof the National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the National Science Foundation Authorization Act of 1998, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Indirect Costs
 
@@ -60,7 +60,7 @@ In general.—The Director of the Office of Science and Technology Policy, in co
 
 &emsp;&emsp;“(A) analyzing the Federal indirect cost reimbursement rates (as the term is defined in Office of Management and Budget Circular A–21) paid to universities in comparison with Federal indirect cost reimbursement rates paid to other entities, such as industry, government laboratories, research hospitals, and nonprofit institutions;
 
-&emsp;&emsp;“(B)(i) analyzing the distribution of the Federal indirect cost reimbursement rates by category (such as administration, facilities, utilities, and libraries), and by the type of entity; and
+&emsp;&emsp;“(B)(i) analyzing the distribution of the Federal indirect cost reimbursement rates by category\(such as administration, facilities, utilities, and libraries), and by the type of entity; and
 
 &emsp;&emsp;“(ii) determining what factors, including the type of research, influence the distribution;
 

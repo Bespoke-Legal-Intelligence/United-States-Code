@@ -10,7 +10,7 @@ Gross income does not include—
 
 #### Amendments
 
-1976—Pub. L. 94–455 struck out “(a) General rule” before “Gross income does not include”, struck out subsecs. (b) and (c) which related to contracts concerning public utilities made before Sept. 8, 1916, and contracts concerning bridge acquisition made before May 29, 1928, respectively, and in par. (1) of former subsec. (a), struck out “or territory” after “accruing to a State”.
+<b>1976</b>—Pub. L. 94–455 struck out “(a) General rule” before “Gross income does not include”, struck out subsecs. (b) and (c) which related to contracts concerning public utilities made before Sept. 8, 1916, and contracts concerning bridge acquisition made before May 29, 1928, respectively, and in par. (1) of former subsec. (a), struck out “or territory” after “accruing to a State”.
 
 #### Effective Date of 1976 Amendment
 

@@ -2,7 +2,7 @@
 
 Whoever knowingly ships into any place within the United States any package containing any spirituous, vinous, malted, or other fermented liquor, or any compound containing any spirituous, vinous, malted, or other fermented liquor fit for use for beverage purposes, unless such shipment is accompanied by copy of a bill of lading, or other document showing the name of the consignee, the nature of its contents, and the quantity contained therein, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 761; Pub. L. 90–518, §1, Sept. 26, 1968, 82 Stat. 872; Pub. L. 103–322,title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 761; Pub. L. 90–518, §1, Sept. 26, 1968, 82 Stat. 872; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 
@@ -18,9 +18,9 @@ The provision that such liquor “may be seized and condemned by like proceeding
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-1968—Pub. L. 90–518 struck out “of or package” after “any package” and substituted “shipment is accompanied by copy of a bill of lading, or other document showing” for “package is so labeled on the outside cover as to plainly show”.
+<b>1968</b>—Pub. L. 90–518 struck out “of or package” after “any package” and substituted “shipment is accompanied by copy of a bill of lading, or other document showing” for “package is so labeled on the outside cover as to plainly show”.
 
 #### Effective Date of 1968 Amendment
 

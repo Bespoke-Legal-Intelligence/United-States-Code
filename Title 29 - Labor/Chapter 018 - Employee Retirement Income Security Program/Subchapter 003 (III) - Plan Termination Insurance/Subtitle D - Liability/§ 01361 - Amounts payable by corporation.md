@@ -6,7 +6,7 @@ The corporation shall pay benefits under a single-employer plan terminated under
 
 #### Amendments
 
-1980—Pub. L. 96–364 substituted provisions relating to payment of benefits under a single-employer plan terminated under this subchapter subject to limitations and requirements of subtitle B of this subchapter for provisions relating to payment of benefits under a plan terminated under this subchapter subject to limitations and requirements of subtitle B of this subchapter.
+<b>1980</b>—Pub. L. 96–364 substituted provisions relating to payment of benefits under a single-employer plan terminated under this subchapter subject to limitations and requirements of subtitle B of this subchapter for provisions relating to payment of benefits under a plan terminated under this subchapter subject to limitations and requirements of subtitle B of this subchapter.
 
 #### Effective Date of 1980 Amendment
 

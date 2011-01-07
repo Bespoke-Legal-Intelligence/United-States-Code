@@ -152,7 +152,7 @@
 
 &emsp;&emsp;(cc) a predecessor in interest of the debtor.
 
-(B) Subject to subsection (h), if, under a plan of reorganization, a kind of demand described in such plan is to be paid in whole or in part by a trust described in paragraph (2)(B)(i) in connection with which an injunction described in paragraph (1) is to be implemented, then such injunction shall be valid and enforceable with respect to a demand of such kind made, after such plan is confirmed, against the debtor or debtors involved, or against a third party described in subparagraph (A)(ii), if—
+(B) Subject to subsection (h), if, under a plan of reorganization, a kind of demand described insuch plan is to be paid in whole or in part by a trust described in paragraph (2)(B)(i) in connection with which an injunction described in paragraph (1) is to be implemented, then such injunction shall be valid and enforceable with respect to a demand of such kind made, after such plan is confirmed, against the debtor or debtors involved, or against a third party described in subparagraph (A)(ii), if—
 
 &emsp;(i) as part of the proceedings leading to issuance of such injunction, the court appoints a legal representative for the purpose of protecting the rights of persons that might subsequently assert demands of such kind, and
 
@@ -182,7 +182,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 &emsp;&emsp;(C) such legal representative did not object to confirmation of such plan or issuance of such injunction; and
 
-&emsp;(2) for purposes of paragraph (1), if a trust described in subsection (g)(2)(B)(i) is subject toa court order on the date of the enactment of this Act staying such trust from settling or paying further claims—
+&emsp;(2) for purposes of paragraph (1), if a trust described in subsection (g)(2)(B)(i) is subject to a court order on the date of the enactment of this Act staying such trust from settling or paying further claims—
 
 &emsp;&emsp;(A) the requirements of subsection (g)(2)(B)(ii)(V) shall not apply with respect to such trust until such stay is lifted or dissolved; and
 
@@ -234,7 +234,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 &emsp;&emsp;&emsp;(I) the annual percentage rate under section 128(a)(4) of the Truth in Lending Act, as disclosed to the debtor in the most recent disclosure statement given to the debtor prior to the entering into an agreement of the kind specified in subsection (c) with respect to the debt, or, if no such disclosure statement was given to the debtor, the annual percentage rate as it would have been so disclosed at the time the disclosure statement is given to the debtor, or to the extent this annual percentage rate is not readily available or not applicable, then
 
-&emsp;&emsp;&emsp;(II) the simple interest rate applicable to the amount reaffirmed as of the date thedisclosure statement is given to the debtor, or if different simple interest rates apply to different balances, the simple interest rate applicable to each such balance, identifying the amount of such balance included in the amount reaffirmed, or
+&emsp;&emsp;&emsp;(II) the simple interest rate applicable to the amount reaffirmed as of the date the disclosure statement is given to the debtor, or if different simple interest rates apply to different balances, the simple interest rate applicable to each such balance, identifying the amount of such balance included in the amount reaffirmed, or
 
 &emsp;&emsp;&emsp;(III) if the entity making the disclosure elects, to disclose the annual percentage rate under (I) and the simple interest rate under (II).
 
@@ -250,7 +250,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 &emsp;&emsp;(iii) by describing the debtor's repayment obligations with reasonable specificity to the extent then known by the disclosing party.
 
-&emsp;(I) The following statement: “Note: When this disclosure refers to what a creditor ‘may’ do, it does not use the word ‘may’ to give the creditor specific permission. The word ‘may’ is used to tell you what might occur if the law permits the creditor to take the action. If you have questions about your reaffirming a debt or what the law requires, consult with the attorney who helped you negotiate this agreement reaffirming a debt. If you don't have an attorney helping you, the judge will explain the effect of your reaffirming a debt when the hearing on the reaffirmation agreement is held.”.
+&emsp;(I) The following statement: “Note: When this disclosure refers to what a creditor ‘may’ do, it does not use the word ‘may’ to give the creditor specific permission. The word ‘may’ is used to tell you what might occur if the law permits the creditor to take the action. If you have questions about your reaffirming a debt or what the law requires, consult with the attorney who helped you negotiate this agreement reaffirming a debt. If you don't have an attorney helping you, the judge will explainthe effect of your reaffirming a debt when the hearing on the reaffirmation agreement is held.”.
 
 &emsp;(J)(i) The following additional statements:
 
@@ -272,11 +272,11 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 “Your right to rescind (cancel) your reaffirmation agreement. You may rescind (cancel) your reaffirmation agreement at any time before the bankruptcy court enters a discharge order, or before the expiration of the 60-day period that begins on the date your reaffirmation agreement is filed with the court, whichever occurs later. To rescind (cancel) your reaffirmation agreement, you must notify the creditor that your reaffirmation agreement is rescinded (or canceled).
 
-“What are your obligations if you reaffirm the debt? A reaffirmed debt remains your personal legal obligation. It is not discharged in your bankruptcy case. That means that if you default on your reaffirmed debt after your bankruptcy case is over, your creditor may be able to take your property or your wages. Otherwise, your obligations will be determined by the reaffirmation agreement which may have changed the terms of the original agreement. For example, if you are reaffirming an open end credit agreement, the creditor may be permitted by thatagreement or applicable law to change the terms of that agreement in the future under certain conditions.
+“What are your obligations if you reaffirm the debt? A reaffirmed debt remains your personal legal obligation. It is not discharged in your bankruptcy case. That means that if you default on your reaffirmed debt after your bankruptcy case is over, your creditor may be able to take your property or your wages. Otherwise, your obligations will be determined by the reaffirmation agreement which may have changed the terms of the original agreement. For example, if you are reaffirming an open end credit agreement, the creditor may be permitted by that agreement or applicable law to change the terms of that agreement in the future under certain conditions.
 
 “Are you required to enter into a reaffirmation agreement by any law? No, you are not required to reaffirm a debt by any law. Only agree to reaffirm a debt if it is in your best interest. Be sure you can afford the payments you agree to make.
 
-“What if your creditor has a security interest or lien? Your bankruptcy discharge does not eliminate any lien on your property. A ‘lien’ is often referred to as a security interest, deed of trust, mortgage or security deed. Even if you do not reaffirm and your personal liability on the debt is discharged, because of the lien your creditor may still have the right to take the security property if you do not pay the debt or default on it. If the lien is on an item of personal property that is exempt under your State's law or that the trustee has abandoned, you may be able to redeem the item rather than reaffirm the debt. To redeem, you make a single payment to the creditor equal to the current value of the security property, as agreed by the parties or determined by the court.”.
+“What if your creditor has a security interest or lien? Your bankruptcy discharge does not eliminate any lien on your property. A ‘lien’ is often referred to as a security interest, deed of trust, mortgage or security deed. Even if you do not reaffirm and your personal liability on the debt is discharged, because of the lien your creditor may still have the right to take the property securing the lien if you do not pay the debt or default on it. If the lien is on an item of personal property that is exempt under your State's law or that the trustee has abandoned, you may be able to redeem the item rather than reaffirm the debt. To redeem, you must make a single payment to the creditor equal to the amount of the allowed secured claim, as agreed by the parties or determined by the court.”.
 
 &emsp;(ii) In the case of a reaffirmation under subsection (m)(2), numbered paragraph 6 in the disclosures required by clause (i) of this subparagraph shall read as follows:
 
@@ -310,7 +310,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 “Signature of Debtor's Attorney:      Date:”.
 
-&emsp;(B) If a presumption of undue hardship has been established with respect to such agreement, such certification shall state that in the opinion of the attorney, the debtor is able to make the payment.
+&emsp;(B) If a presumption of undue hardship has been established with respect to such agreement, such certification shall state that, in the opinion of the attorney, the debtor is able to make the payment.
 
 &emsp;(C) In the case of a reaffirmation agreement under subsection (m)(2), subparagraph (B) is not applicable.
 
@@ -352,7 +352,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 (2) This subsection does not apply to reaffirmation agreements where the creditor is a credit union, as defined in section 19(b)(1)(A)(iv) of the Federal Reserve Act.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2592; Pub. L. 98–353, title III, §§308, 455, July 10, 1984, 98 Stat. 354, 376; Pub. L. 99–554, title II, §§257(<i>o</i>), 282, 283(k), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 103–394, title I, §§103, 111(a), title V, §501(d)(14), Oct. 22, 1994, 108 Stat. 4108, 4113, 4145; Pub. L. 109–8, title II, §§202, 203(a), title XII, §1210, Apr. 20, 2005, 119 Stat. 43, 194.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2592; Pub. L. 98–353, title III, §§308, 455, July 10, 1984, 98 Stat. 354, 376; Pub. L. 99–554, title II, §§257(<i>o</i>), 282, 283(k), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 103–394, title I, §§103, 111(a), title V, §501(d)(14), Oct. 22, 1994, 108 Stat. 4108, 4113, 4145; Pub. L. 109–8, title II, §§202, 203(a), title XII, §1210, Apr. 20, 2005, 119 Stat. 43, 194; Pub. L. 111–327, §2(a)(19), Dec. 22, 2010, 124 Stat. 3559.)
 
 #### Historical and Revision Notes
 
@@ -360,7 +360,7 @@ I74legislative statements
 
 Section 524(a) of the House amendment represents a compromise between the House bill and the Senate amendment. Section 524(b) of the House amendment is new, and represents standards clarifying the operation of section 524(a)(3) with respect to community property.
 
-Sections 524(c) and (d) represent a compromise between the House bill and Senate amendment on the issue of reaffirmation of a debt discharged in bankruptcy. Every reaffirmation to be enforceable must be approved by the court, and any debtor may rescind a reaffirmation for 30 days from the time the reaffirmation becomes enforceable. If the debtor is an individual the court must advise the debtor of various effects of reaffirmation at a hearing. In addition, to any extent the debt is a consumer debt that is not secured by real property of the debtor reaffirmation is permitted only if the court approves the reaffirmation agreement, before granting a discharge under section 727, 1141, or 1328, as not imposing a hardship on the debtor or a dependent of the debtor and in the best interest of the debtor; alternatively, the court may approve an agreement entered into in good faith that is in settlement of litigation of a complaint to determine dischargeability or that is entered into in connection with redemption under section 722. The hearing on discharge under section 524(d) will be held whether or not the debtor desires to reaffirm any debts.
+Sections 524(c) and (d) represent a compromise between the House bill and Senate amendment on the issue of reaffirmation of a debt discharged in bankruptcy. Every reaffirmation to be enforceable must be approved by the court, and any debtor may rescind a reaffirmation for 30 days from the time the reaffirmation becomes enforceable. If the debtor is an individual the court must advise the debtor of various effects of reaffirmation at a hearing. In addition, to any extentthe debt is a consumer debt that is not secured by real property of the debtor reaffirmation is permitted only if the court approves the reaffirmation agreement, before granting a discharge under section 727, 1141, or 1328, as not imposing a hardship on the debtor or a dependent of the debtor and in the best interest of the debtor; alternatively, the court may approve an agreement entered into in good faith that is in settlement of litigation of a complaint to determine dischargeability or that is entered into in connection with redemption under section 722. The hearing on discharge under section 524(d) will be held whether or not the debtor desires to reaffirm any debts.
 
 #### senate report no. 95–989
 
@@ -387,6 +387,10 @@ The Truth in Lending Act, referred to in subsec. (k), is title I of Pub. L. 90�
 Section 19(b)(1)(A)(iv) of the Federal Reserve Act, referred to in subsecs. (k)(6)(B) and (m)(2), is classified to section 461(b)(1)(A)(iv) of Title 12, Banks and Banking.
 
 #### Amendments
+
+2010—Subsec. (k)(3)(J)(i). Pub. L. 111–327, §2(a)(19)(A), in last undesignated par., substituted “property securing the lien” for “security property” and “amount of the allowed secured claim” for “current value of the security property” and inserted “must” before “make a single payment”.
+
+Subsec. (k)(5)(B). Pub. L. 111–327, §2(a)(19)(B), substituted “that,” for “that”.
 
 2005—Subsec. (a)(3). Pub. L. 109–8, §1210, substituted “section 523, 1228(a)(1), or 1328(a)(1), or that” for “section 523, 1228(a)(1), or 1328(a)(1) of this title, or that”.
 
@@ -416,7 +420,7 @@ Subsecs. (g), (h). Pub. L. 103–394, §111(a), added subsecs. (g) and (h).
 
 1986—Subsec. (a)(1). Pub. L. 99–554, §257(<i>o</i>)(1), inserted reference to section 1228 of this title.
 
-Subsec. (a)(3). Pub. L. 99–554, §257(<i>o</i>)(2), which directed the substitution of “, 1228(a)(1), or 1328(a)(1)” for “or 1328(a)(1)” was executed by making the substitution for “or 1328(c)(1)” to reflect the probable intent of Congress. See 1994 Amendment note above.
+Subsec. (a)(3). Pub. L. 99–554, §257(<i>o</i>)(2), which directed the substitution of “, 1228(a)(1), or 1328(a)(1)” for“or 1328(a)(1)” was executed by making the substitution for “or 1328(c)(1)” to reflect the probable intent of Congress. See 1994 Amendment note above.
 
 Subsec. (c)(1). Pub. L. 99–554, §257(<i>o</i>)(1), inserted reference to section 1228 of this title.
 

@@ -22,7 +22,7 @@ In providing assistance under such program, the Secretary is also authorized to 
 
 #### (d) Interest rate; term
 
-Each loan made pursuant to this section shall bear interest at a discount or interest rate equalto the rate in effect (at the time the loan is made) for water resources planning projects under section 80 of the Water Resources Development Act of 1974 (42 U.S.C. 1962(d)–17(a)).<sup>1</sup> Each loan shall be for such term as the Secretary deems appropriate, but not in excess of ten years for loans under subsection (b) of this section or thirty years for loans under subsection (c) of this section.
+Each loan made pursuant to this section shall bear interest at a discount or interest rate equal to the rate in effect (at the time the loan is made) for water resources planning projects under section 80 of the Water Resources Development Act of 1974 (42 U.S.C. 1962(d)–17(a)).<sup>1</sup> Each loan shall be for such term as the Secretary deems appropriate, but not in excess of ten years for loans under subsection (b) of this section or thirty years for loans under subsection (c) of this section.
 
 #### (e) Funding; deposit of amount repaid
 
@@ -37,4 +37,6 @@ For loans under clause (A) of subsection (b)(1) of this section for fiscal year 
 As used in this section, the term “person” includes municipalities, cooperatives, industrial development agencies, nonprofit organizations, and Indian tribes, as well as the districts referred to in subsection (a) of this section and the other entities included within such term under section 1 of title 1.
 
 (Pub. L. 96–294, title VI, §631, June 30, 1980, 94 Stat. 767.)
+
+<i><sup>1</sup></i><i> So in original. Should be “(42 U.S.C. 1962d–17(a)).”</i>
 

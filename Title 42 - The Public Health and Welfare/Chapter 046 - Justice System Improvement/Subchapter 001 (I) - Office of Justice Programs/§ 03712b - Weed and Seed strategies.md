@@ -50,7 +50,7 @@ For a community to be designated as a Weed-and-Seed community for purposes of su
 
 &emsp;&emsp;(C) the steering committee is capable of implementing the strategy appropriately; and
 
-&emsp;(2) the community must agree to formulate a timely and effective plan to independently sustain the strategy (or, at a minimum, a majority of the best practices of the strategy)when assistance under this section is no longer available.
+&emsp;(2) the community must agree to formulate a timely and effective plan to independently sustain the strategy (or, at a minimum, a majority of the best practices of the strategy) when assistance under this section is no longer available.
 
 #### (d) Application
 

@@ -88,7 +88,7 @@ The Higher Education Act of 1965, referred to in subsec. (c)(2)(H), is Pub. L. 8
 
 The Public Health Service Act, referred to in subsec. (c)(2)(H), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Titles III, VII, and VIII of the Act are classified generally to subchapters II (§241 et seq.), V (§292 et seq.), and VI (§296 et seq.), respectively, of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(2)(I), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(2)(I), is Pub. L. 89–10, Apr.11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 The Head Start Act, referred to in subsec. (c)(2)(J), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 

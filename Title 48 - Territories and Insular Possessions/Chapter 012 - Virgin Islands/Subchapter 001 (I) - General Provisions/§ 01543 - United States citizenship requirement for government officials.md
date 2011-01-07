@@ -6,5 +6,5 @@ All members of the Legislature of the Virgin Islands, the Governor, the Lieutena
 
 #### Amendments
 
-1983—Pub. L. 98–213 amended section generally, substituting provisions requiring United States citizenship for all members of the Legislature of the Virgin Islands, the Governor, Lieutenant Governor and all officials who report directly to the Governor for provisions requiring such citizenship for all officers of the Virgin Islands, and struck out provisions requiring written oaths and prescribing the oath.
+<b>1983</b>—Pub. L. 98–213 amended section generally, substituting provisions requiring United States citizenship for all members of the Legislature of the Virgin Islands, the Governor, Lieutenant Governor and all officials who report directly to the Governor for provisions requiring such citizenship for all officers of the Virgin Islands, and struck out provisions requiring written oaths and prescribing the oath.
 

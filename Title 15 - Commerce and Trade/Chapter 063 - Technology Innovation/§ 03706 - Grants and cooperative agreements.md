@@ -22,5 +22,5 @@ A prior section 8 of Pub. L. 96–480 was renumbered section 9 and is classified
 
 #### Amendments
 
-1988—Subsec. (b). Pub. L. 100–418, §5115(b)(1), substituted “Assistant Secretary” for “Director”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–418, §5115(b)(1), substituted “Assistant Secretary” for “Director”.
 

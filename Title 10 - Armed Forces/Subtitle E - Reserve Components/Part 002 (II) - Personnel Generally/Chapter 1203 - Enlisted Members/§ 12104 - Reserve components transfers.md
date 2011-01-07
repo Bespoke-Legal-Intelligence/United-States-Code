@@ -34,7 +34,7 @@ July 9, 1952, ch. 608, §209 (as applicable to enlistments), 66 Stat. 484.
 
 50:929(b) (as applicable to enlistments).
 
-In subsection (a), the words “is entitled to be enlisted in any armed force that he chooses” are substituted for the words “shall be permitted to enlist in such Armed Force of the United States as he may elect”. The second sentence is substituted for 50:929(a) (words within parentheses). The words “of an Armed Force of the United States” are omitted as surplusage.
+In subsection (a), the words “is entitled \* \* \* to be enlisted in any armed force that he chooses” are substituted for the words “shall \* \* \* be permitted to enlist \* \* \* in such Armed Force of the United States as he may elect”. The second sentence is substituted for 50:929(a) (words within parentheses). The words “of an Armed Force of the United States” are omitted as surplusage.
 
 In subsection (b), the word “rest” is substituted for the words “remaining period”. The words “be required to” are omitted as surplusage.
 
@@ -46,9 +46,9 @@ The Military Selective Service Act, referred to in subsec. (a), is act June 24, 
 
 #### Amendments
 
-1994—Pub. L. 103–337 renumbered section 512 of this title as this section.
+<b>1994</b>—Pub. L. 103–337 renumbered section 512 of this title as this section.
 
-1980—Subsec. (a). Pub. L. 96–513 substituted “the Military Selective Service Act (50 U.S.C. App. 451 et seq.)” for “sections 451–473 of title 50, appendix” wherever appearing.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “the Military Selective Service Act (50 U.S.C. App. 451 et seq.)” for “sections 451–473 of title 50, appendix” wherever appearing.
 
 #### Effective Date of 1980 Amendment
 

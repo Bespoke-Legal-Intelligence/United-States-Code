@@ -56,7 +56,7 @@ The Secretary and the Director of Agricultural Research Services, consistent wit
 
 #### (c) Education of medical and public health personnel
 
-The Secretary, after consultation with the Assistant Secretary for Health, the Surgeon General, the Director of the Centers for DiseaseControl and Prevention, the Administrator of the Health Resources and Services Administration, the Director of the Agency for Healthcare Research and Quality, members of the task force described in subsection (a) of this section, professional organizations and societies, and such other public health officials as may be necessary, shall—
+The Secretary, after consultation with the Assistant Secretary for Health, the Surgeon General, the Director of the Centers for Disease Control and Prevention, the Administrator of the Health Resources and Services Administration, the Director of the Agency for Healthcare Research and Quality, members of the task force described in subsection (a) of this section, professional organizations and societies, and such other public health officials as may be necessary, shall—
 
 &emsp;(1) develop and implement educational programs to increase the awareness of the general public with respect to the public health threat of antimicrobial resistance and the appropriate use of antibiotics;
 
@@ -110,7 +110,7 @@ There are authorized to be appropriated to carry out this section, $40,000,000 f
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–188, §109(1)(A), in introductory provisions, substituted “shall directly or through awards of grants or cooperative agreements to public or private entities provide for the conduct of” for “shall conduct and support”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–188, §109(1)(A), in introductory provisions, substituted “shall directly or through awards of grants or cooperative agreements to public or private entities provide for the conduct of” for “shall conduct and support”.
 
 Subsec. (b)(4). Pub. L. 107–188, §109(1)(B), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the sequencing of the genomes of priority pathogens as determined by the Director of the National Institutes of Health in consultation with the task force established under subsection (a) of this section; and”.
 

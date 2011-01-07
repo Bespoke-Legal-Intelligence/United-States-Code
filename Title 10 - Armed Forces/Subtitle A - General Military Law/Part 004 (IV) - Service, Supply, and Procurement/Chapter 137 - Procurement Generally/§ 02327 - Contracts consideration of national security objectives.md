@@ -46,7 +46,7 @@ List of Firms Subject to Prohibition.—(1) The Secretary of Defense shall devel
 
 (C) The Secretary shall establish procedures to carry out this paragraph.
 
-(3) The head of an agency shall prohibit each firm or subsidiary of a firm awarded a contract by the agency from entering into a subcontract under that contract in an amount in excess of $25,000 with a firm or subsidiary included on the list maintained under paragraph (1) unless there is a compelling reason to do so. In the case of any subcontract requiring consent by the head of an agency, the head of the agency shall not consent to the award of the subcontract to a firm or subsidiary included on such list unless there is a compelling reason for such approval.
+(3) The head of an agency shall prohibit each firm or subsidiary of a firm awarded a contract by the agency from entering into a subcontract under that contract in an amount in excess of $25,000 with a firm or subsidiary included on the list maintained under paragraph (1) unless there is a compelling reason to do so. In the case of any subcontract requiring consent by the head of an agency, the head of the agency shall notconsent to the award of the subcontract to a firm or subsidiary included on such list unless there is a compelling reason for such approval.
 
 (e)
 
@@ -76,21 +76,21 @@ A prior section 2327 was renumbered section 2347 of this title.
 
 #### Amendments
 
-2003—Subsec. (c)(1)(A). Pub. L. 108–136, §1031(a)(16)(A), substituted “if in the best interests of the Government” for “after the date on which such head of an agency submits to Congress a report on the contract”.
+<b>2003</b>—Subsec. (c)(1)(A). Pub. L. 108–136, §1031(a)(16)(A), substituted “if in the best interests of the Government” for “after the date on which such head of an agency submits to Congress a report on the contract”.
 
 Subsec. (c)(1)(B). Pub. L. 108–136, §1031(a)(16)(B), substituted “The Secretary shall maintain records of each contract entered into by reason of subparagraph (A). Such records” for “A report under subparagraph (A)”.
 
 Subsec. (c)(1)(C). Pub. L. 108–136, §1031(a)(16)(C), struck out subpar. (C) which read as follows: “After the head of an agency submits a report to Congress under subparagraph (A) with respect to a firm or a subsidiary, such head of an agency is not required to submit a report before entering into any subsequent contract with such firm or subsidiary unless the information required to be included in such report under subparagraph (B) has materially changed since the submission of the previous report.”
 
-1997—Subsecs. (d) to (g). Pub. L. 105–85 added subsecs. (d) and (e) and redesignated former subsecs. (d) and (e) as (f) and (g), respectively.
+<b>1997</b>—Subsecs. (d) to (g). Pub. L. 105–85 added subsecs. (d) and (e) and redesignated former subsecs. (d) and (e) as (f) and (g), respectively.
 
-1987—Subsecs. (a), (b)(2). Pub. L. 100–224 substituted “50 U.S.C. App.” for “50 U.S.C.” in parenthetical after “Export Administration Act of 1979”.
+<b>1987</b>—Subsecs. (a), (b)(2). Pub. L. 100–224 substituted “50 U.S.C. App.” for “50 U.S.C.” in parenthetical after “Export Administration Act of 1979”.
 
 Subsec. (d)(1). Pub. L. 100–180 inserted par. (1) designation.
 
 #### Effective Date
 
-Section 101(c) \[title X, §951(c)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 951(c) of title IX, formerlytitle IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “Section 2327 of title 10, United States Code (as added by subsection (a)(1)), shall apply to contracts entered into by the Secretary of Defense after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\].”
+Section 101(c) \[title X, §951(c)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 951(c) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “Section 2327 of title 10, United States Code (as added by subsection (a)(1)), shall apply to contracts entered into by the Secretary of Defense after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\].”
 
 #### Transfer of Functions
 

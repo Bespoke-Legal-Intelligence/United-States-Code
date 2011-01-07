@@ -50,13 +50,15 @@ The following laws shall apply, as prescribed by this chapter, to the legislativ
 
 #### References in Text
 
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
+
 The Fair Labor Standards Act of 1938, referred to in subsec. (a)(1), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (a)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 252, as amended. Title VII of the Act is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (a)(3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-The Age Discrimination in Employment Act of 1967, referred to in subsec. (a)(4), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, as amended, which is classified generally to chapter 14 (§621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
+The Age Discrimination in Employment Act of 1967, referred to in subsec. (a)(4), is Pub. L. 90–202, Dec. 15,1967, 81 Stat. 602, as amended, which is classified generally to chapter 14 (§621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
 
 The Family and Medical Leave Act of 1993, referred to in subsec. (a)(5), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, as amended, which enacted sections 60m and 60n of this title, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§2601 et seq.) of Title 29, Labor, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
 

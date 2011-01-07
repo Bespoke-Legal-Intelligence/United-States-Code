@@ -84,7 +84,3 @@ Amounts appropriated for a fiscal year for scholarships under this section shall
 
 (July 1, 1944, ch. 373, title IV, §487D, as added Pub. L. 103–43, title XVI, §1631, June 10, 1993, 107 Stat. 183.)
 
-#### References in Text
-
-The provisions of title 5 relating to appointment and compensation, referred to in subsec. (c)(3), are classified generally to section 3301 et seq. and section 5301 et seq., respectively, of Title 5, Government Organization and Employees.
-

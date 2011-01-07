@@ -32,7 +32,7 @@ Section was enacted as part of the Science and Engineering Equal Opportunities A
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–207, §202(d)(2)(A), substituted “minorities, and persons with disabilities in scientific” for “minorities, and other groups currently underrepresented in scientific”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–207, §202(d)(2)(A), substituted “minorities, and persons with disabilities in scientific” for “minorities, and other groups currently underrepresented in scientific”.
 
 Subsec. (b). Pub. L. 105–207, §202(d)(2)(B), struck out “with the concurrence of the National Science Board” after “the Director” and substituted “In addition, the Chairman of the National Science Board may designate a member of the Board as a member of the Committee.” for “The Chairperson of the National Science Board Committee on Minorities and Women shall be an ex officio member of the Committee.”
 
@@ -44,9 +44,9 @@ Pub. L. 105–207, §202(d)(2)(C), (E), redesignated subsec. (e) as (d) and stru
 
 Subsecs. (e), (f). Pub. L. 105–207, §202(d)(2)(E), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-1988—Subsec. (f). Pub. L. 100–570 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Each year the Committee shall prepare and transmit to the Director a report concerning its activities during the previous year and its proposed activities for the next year. The Director shall transmit to Congress the report, unaltered, along with comments.”
+<b>1988</b>—Subsec. (f). Pub. L. 100–570 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Each year the Committee shall prepare and transmit to the Director a report concerning its activities during the previous year and its proposed activities for the next year. The Director shall transmit to Congress the report, unaltered, along with comments.”
 
-1985—Pub. L. 99–159, §111(b)(8)(A), substituted “Engineering” for “Technology” in section catchline.
+<b>1985</b>—Pub. L. 99–159, §111(b)(8)(A), substituted “Engineering” for “Technology” in section catchline.
 
 Subsec. (a). Pub. L. 99–159 substituted “Engineering” for “Technology” and “scientific, engineering, and professional” for “scientific engineering, professional, and technical”.
 
@@ -58,7 +58,7 @@ Advisory committees established after Jan. 5, 1973 to terminate not later than t
 
 #### Report by Committee on Equal Opportunities in Science and Engineering
 
-Pub. L. 107–368, §20, Dec. 19, 2002, 116 Stat. 3063, provided that: “As part of the first report required by section 36(e) of the Science and Engineering Equal Opportunities Act (42 U.S.C. 1885c(e)) transmitted to Congressafter the date of enactment of this Act \[Dec. 19, 2002\], the Committee on Equal Opportunities in Science and Engineering shall include—
+Pub. L. 107–368, §20, Dec. 19, 2002, 116 Stat. 3063, provided that: “As part of the first report required by section 36(e) of the Science and Engineering Equal Opportunities Act (42 U.S.C. 1885c(e)) transmitted to Congress after the date of enactment of this Act \[Dec. 19, 2002\], the Committee on Equal Opportunities in Science and Engineering shall include—
 
 &emsp;“(1) a summary of its findings over the previous 10 years;
 

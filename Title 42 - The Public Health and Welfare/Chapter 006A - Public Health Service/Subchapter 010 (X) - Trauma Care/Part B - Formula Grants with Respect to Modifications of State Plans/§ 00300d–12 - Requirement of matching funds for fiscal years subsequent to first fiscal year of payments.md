@@ -34,7 +34,7 @@ With respect to compliance with subsection (a) as a condition of receiving payme
 
 #### Amendments
 
-2007—Pub. L. 110–23 amended section generally. Prior to amendment, section related to requirement of matching funds for fiscal years subsequent to first fiscal year of payments.
+<b>2007</b>—Pub. L. 110–23 amended section generally. Prior to amendment, section related to requirement of matching funds for fiscal years subsequent to first fiscal year of payments.
 
-1993—Subsec. (a)(2)(A). Pub. L. 103–183 substituted “section 300d–11(b)” for “section 300d–11(c)”.
+<b>1993</b>—Subsec. (a)(2)(A). Pub. L. 103–183 substituted “section 300d–11(b)” for “section 300d–11(c)”.
 

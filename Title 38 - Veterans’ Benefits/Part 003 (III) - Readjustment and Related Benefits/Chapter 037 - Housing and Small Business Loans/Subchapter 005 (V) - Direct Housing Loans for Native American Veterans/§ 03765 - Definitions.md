@@ -42,7 +42,7 @@ The Native American Programs Act of 1974, referred to in par. (3)(D), is title V
 
 #### Amendments
 
-2006—Pub. L. 109–233, §104(a)(1), renumbered section 3764 of this title as this section.
+<b>2006</b>—Pub. L. 109–233, §104(a)(1), renumbered section 3764 of this title as this section.
 
 Par. (5). Pub. L. 109–233, §104(b), added par. (5).
 

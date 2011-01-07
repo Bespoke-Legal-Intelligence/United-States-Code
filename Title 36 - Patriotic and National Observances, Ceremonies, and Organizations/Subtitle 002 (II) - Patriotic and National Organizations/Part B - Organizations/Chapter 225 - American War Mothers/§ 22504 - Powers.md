@@ -32,7 +32,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-22504D36:95 (less words between colon and 1st comma).DFeb. 24, 1925, ch. 303, §§5 (less words between colon and 1st comma), 9, 43 Stat. 967, 968.
+22504
+
+36:95 (less words between colon and 1st comma).
+
+Feb. 24, 1925, ch. 303, §§5 (less words between colon and 1st comma), 9, 43 Stat. 967, 968.
 
 &nbsp;
 

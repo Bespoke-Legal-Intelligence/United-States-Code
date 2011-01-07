@@ -40,9 +40,9 @@ The Defense Department Overseas Teachers Pay and Personnel Practices Act, referr
 
 #### Amendments
 
-2000—Subsec. (c)(6). Pub. L. 106–398 struck out “the” before “the Assistant Secretary of Defense”.
+<b>2000</b>—Subsec. (c)(6). Pub. L. 106–398 struck out “the” before “the Assistant Secretary of Defense”.
 
-1999—Pub. L. 106–65, §354(2)(A), amended section catchline.
+<b>1999</b>—Pub. L. 106–65, §354(2)(A), amended section catchline.
 
 Subsec. (a). Pub. L. 106–65, §354(2)(A), added subsec. (a) and struck out former subsec. (a) which read as follows:
 

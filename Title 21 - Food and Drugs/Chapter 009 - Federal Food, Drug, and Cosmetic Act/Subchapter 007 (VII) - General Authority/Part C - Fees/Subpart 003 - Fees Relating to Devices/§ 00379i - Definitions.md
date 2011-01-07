@@ -104,7 +104,7 @@ For purposes of this subpart:
 
 #### Amendments
 
-2007—Pub. L. 110–85, §§211(1), 217, temporarily substituted “For purposes of this subpart” for “For purposes of this part” in introductory provisions. See Effective and Termination Dates of 2007 Amendment note below.
+<b>2007</b>—Pub. L. 110–85, §§211(1), 217, temporarily substituted “For purposes of this subpart” for “For purposes of this part” in introductory provisions. See Effective and Termination Dates of 2007 Amendment note below.
 
 Pars. (5) to (9). Pub. L. 110–85, §§211(2), (3), 217, temporarily added pars. (5) to (7) and redesignated former pars. (5) and (6) as (8) and (9), respectively. Former pars. (7) and (8) redesignated (10) and (12), respectively. See Effective and Termination Dates of 2007 Amendment note below.
 
@@ -116,7 +116,7 @@ Par. (12). Pub. L. 110–85, §§211(2), 217, temporarily redesignated par. (8) 
 
 Par. (13). Pub. L. 110–85, §§211(6), 217, temporarily added par. (13). See Effective and Termination Dates of 2007 Amendment note below.
 
-2004—Pub. L. 108–214, §2(d)(3)(A), made technical correction to directory language of Pub. L. 107–250, §102(a), which enacted this section.
+<b>2004</b>—Pub. L. 108–214, §2(d)(3)(A), made technical correction to directory language of Pub. L. 107–250, §102(a), which enacted this section.
 
 Par. (4)(B). Pub. L. 108–214, §2(a)(1)(A), substituted “and for which substantial clinical data are necessary to provide a reasonable assurance of safety and effectiveness” for “and for which clinical data are generally necessary to provide a reasonable assurance of safety and effectiveness”.
 

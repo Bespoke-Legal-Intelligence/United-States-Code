@@ -6,5 +6,5 @@ There are authorized to be appropriated for the purposes of this subchapter not 
 
 #### Amendments
 
-1978—Pub. L. 95–625 increased land acquisition appropriations authorization to $47,802,000 from $19,802,000.
+<b>1978</b>—Pub. L. 95–625 increased land acquisition appropriations authorization to $47,802,000 from $19,802,000.
 

@@ -22,13 +22,17 @@ Nothing in this section shall be construed to diminish or qualify any penalties 
 
 (June 27, 1952, ch. 477, title II, ch. 8, §274D, as added Pub. L. 104–208, div. C, title III, §380(a), Sept. 30, 1996, 110 Stat. 3009–650.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (b), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+
 #### Effective Date
 
 Section 308(c) of div. C of Pub. L. 104–208 provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply to actions occurring on or after the title III–A effective date (as defined in section 309(a) of this division \[set out as a note under section 1101 of this title\]).”
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 

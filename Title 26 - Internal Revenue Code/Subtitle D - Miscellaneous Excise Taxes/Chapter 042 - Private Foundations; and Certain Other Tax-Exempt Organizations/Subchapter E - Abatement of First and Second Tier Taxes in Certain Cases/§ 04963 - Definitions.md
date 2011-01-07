@@ -10,7 +10,7 @@ For purposes of this subchapter, the term “second tier tax” means any tax im
 
 #### (c) Taxable event
 
-For purposes of this subchapter, the term “taxable event” means any act (or failure toact) giving rise to liability for tax under section 4941, 4942, 4943, 4944, 4945, 4951, 4952, 4955, 4958, 4966, 4967, 4971, or 4975.
+For purposes of this subchapter, the term “taxable event” means any act (or failure to act) giving rise to liability for tax under section 4941, 4942, 4943, 4944, 4945, 4951, 4952, 4955, 4958, 4966, 4967, 4971, or 4975.
 
 #### (d) Correct
 
@@ -58,11 +58,11 @@ For purposes of this subchapter—
 
 #### Amendments
 
-2006—Subsecs. (a), (c). Pub. L. 109–280, which directed the insertion of “4966, 4967,” after “4958,” in subsecs. (a) and (c) of section 4963, without specifying the act to be amended, was executed by making the insertion in subsecs. (a) and (c) of this section, which is section 4963 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
+<b>2006</b>—Subsecs. (a), (c). Pub. L. 109–280, which directed the insertion of “4966, 4967,” after “4958,” in subsecs. (a) and (c) of section 4963, without specifying the act to be amended, was executed by making the insertion in subsecs. (a) and (c) of this section, which is section 4963 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
-1996—Subsecs. (a) to (c). Pub. L. 104–168 inserted “4958,” after “4955,”.
+<b>1996</b>—Subsecs. (a) to (c). Pub. L. 104–168 inserted “4958,” after “4955,”.
 
-1987—Subsecs. (a) to (c). Pub. L. 100–203 inserted reference to section 4955 of this title.
+<b>1987</b>—Subsecs. (a) to (c). Pub. L. 100–203 inserted reference to section 4955 of this title.
 
 #### Effective Date of 2006 Amendment
 

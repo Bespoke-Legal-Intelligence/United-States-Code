@@ -34,7 +34,7 @@ The Secretary is authorized to provide up to 50 per centum matching grants to el
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–322 inserted at end of concluding provisions “In order to be eligible to receive ‘at-risk youth recreation grants’ a local government shall amend its 5-year action program to incorporate the goal of reducing crime and juvenile delinquency and to provide a description of the implementation strategies to achieve this goal. The plan shall also address how the local government is coordinating its recreation programs with crime prevention efforts of law enforcement, juvenile corrections, and youth social service agencies.”
+<b>1994</b>—Subsec. (b). Pub. L. 103–322 inserted at end of concluding provisions “In order to be eligible to receive ‘at-risk youth recreation grants’ a local government shall amend its 5-year action program to incorporate the goal of reducing crime and juvenile delinquency and to provide a description of the implementation strategies to achieve this goal. The plan shall also address how the local government is coordinating its recreation programs with crime prevention efforts of law enforcement, juvenile corrections, and youth social service agencies.”
 
 #### “Secretary” Defined
 

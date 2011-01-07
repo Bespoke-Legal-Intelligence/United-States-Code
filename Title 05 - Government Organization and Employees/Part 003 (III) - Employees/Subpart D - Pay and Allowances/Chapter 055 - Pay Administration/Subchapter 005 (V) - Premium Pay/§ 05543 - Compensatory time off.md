@@ -10,7 +10,7 @@
 
 (c) The Architect of the Capitol may grant an employee paid on an annual basis compensatory time off from duty instead of overtime pay for overtime work.
 
-(d)(1) The appropriate Secretary may, on request of an employee of a nonappropriated fundinstrumentality of the Department of Defense or the Coast Guard described in section 2105(c), grant such employee compensatory time off from duty instead of overtime pay for overtime work.
+(d)(1) The appropriate Secretary may, on request of an employee of a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard described in section 2105(c), grant such employee compensatory time off from duty instead of overtime pay for overtime work.
 
 (2) For purposes of this subsection, the term “appropriate Secretary” means—
 

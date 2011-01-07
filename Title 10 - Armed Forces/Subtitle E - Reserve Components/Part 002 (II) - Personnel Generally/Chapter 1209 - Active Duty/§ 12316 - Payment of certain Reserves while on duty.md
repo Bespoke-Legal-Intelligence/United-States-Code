@@ -46,9 +46,9 @@ In subsection (b), the word “extended”, the next to the last sentence of 10 
 
 #### Amendments
 
-1994—Pub. L. 103–337 renumbered section 684 of this title as this section.
+<b>1994</b>—Pub. L. 103–337 renumbered section 684 of this title as this section.
 
-1975—Subsecs. (a), (b). Pub. L. 93–586 inserted reference to Coast Guard.
+<b>1975</b>—Subsecs. (a), (b). Pub. L. 93–586 inserted reference to Coast Guard.
 
 #### Transfer of Functions
 

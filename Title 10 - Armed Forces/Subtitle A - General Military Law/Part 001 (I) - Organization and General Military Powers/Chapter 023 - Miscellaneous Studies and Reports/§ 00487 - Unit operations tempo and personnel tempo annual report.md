@@ -6,13 +6,13 @@ Inclusion in Annual Report.—The Secretary of Defense shall include in the annu
 
 (b)
 
-Specific Requirements.—(1) Until such time as the Secretary of Defense develops a common method to measure operations tempo and personnel tempo for the armed forces, the description required under subsection (a) shall include the methods by which each of the armed forces measures operations tempo and personnel tempo.
+Specific Requirements.—(1) Until such time as the Secretary of Defense develops a common method to measure operations tempo and personnel tempo for the armed forces, the description required under subsection (a) shall include the methods by which each of the armedforces measures operations tempo and personnel tempo.
 
 (2) The description shall include the personnel tempo policies of each of the armed forces and any changes to these policies since the preceding report.
 
 (3) The description shall include a table depicting the active duty end strength for each of the armed forces for each of the preceding five years and also depicting the number of members of each of the armed forces deployed over the same period, as determined by the Secretary concerned.
 
-(4) The description shall identify the active and reserve component units of the armed forcesparticipating at the battalion, squadron, or an equivalent level (or a higher level) in contingency operations, major training events, and other exercises and contingencies of such a scale that the exercises and contingencies receive an official designation, that were conducted during the period covered by the report and the duration of their participation.
+(4) The description shall identify the active and reserve component units of the armed forces participating at the battalion, squadron, or an equivalent level (or a higher level) in contingency operations, major training events, and other exercises and contingencies of such a scale that the exercises and contingencies receive an official designation, that were conducted during the period covered by the report and the duration of their participation.
 
 (5) For each of the armed forces, the description shall indicate, for the period covered by the report—
 
@@ -42,9 +42,9 @@ Inapplicability to Coast Guard.—In this section, the term “armed forces” d
 
 #### Amendments
 
-2004—Subsec. (d). Pub. L. 108–375 substituted “Inapplicability to Coast Guard” for “Other Definitions” in heading.
+<b>2004</b>—Subsec. (d). Pub. L. 108–375 substituted “Inapplicability to Coast Guard” for “Other Definitions” in heading.
 
-2003—Subsec. (b)(5). Pub. L. 108–136 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “For each of the armed forces, the description shall indicate the average number of days a member of that armed force was deployed away from the member's home station during the period covered by the report as compared to recent previous years for which such information is available.”
+<b>2003</b>—Subsec. (b)(5). Pub. L. 108–136 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “For each of the armed forces, the description shall indicate the average number of days a member of that armed force was deployed away from the member's home station during the period covered by the report as compared to recent previous years for which such information is available.”
 
 #### Transfer of Functions
 

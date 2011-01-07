@@ -38,9 +38,9 @@ A volunteer under subsection (c) of this section shall not be considered to be a
 
 #### Amendments
 
-1998—Pub. L. 105–261 inserted section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsecs. (b) to (d).
+<b>1998</b>—Pub. L. 105–261 inserted section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsecs. (b) to (d).
 
-1997—Pub. L. 105–85 substituted “military installations” for “military reservations”, “an integrated natural resources management plan” for “a cooperative plan”, and “the installations” for “such reservations”.
+<b>1997</b>—Pub. L. 105–85 substituted “military installations” for “military reservations”, “an integrated natural resources management plan” for “a cooperative plan”, and “the installations” for “such reservations”.
 
-1968—Pub. L. 90–465 authorized the carrying out of a public outdoor recreation resources program under a cooperative plan between Secretary of Defense, Secretary of the Interior, and State agencies, and struck out provisions for expenditure of funds collected and purposes therefor, now incorporated in section 670f(a) of this title.
+<b>1968</b>—Pub. L. 90–465 authorized the carrying out of a public outdoor recreation resources program under a cooperative plan between Secretary of Defense, Secretary of the Interior, and State agencies, and struck out provisions for expenditure of funds collected and purposes therefor, now incorporated in section 670f(a) of this title.
 

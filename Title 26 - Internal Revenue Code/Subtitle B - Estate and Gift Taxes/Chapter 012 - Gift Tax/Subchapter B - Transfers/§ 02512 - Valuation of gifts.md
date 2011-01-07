@@ -6,17 +6,17 @@
 
 #### (c) Cross reference
 
-&emsp;&emsp;<b>For individual's right to be furnished on request a statement regarding any valuation made by the</b><b>Secretary of a gift by that individual, see section 7517.</b>
+&emsp;&emsp;<b>For individual's right to be furnished on request a statement regarding any valuation made by the Secretary of a gift by that individual, see section 7517.</b>
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 406; Pub. L. 91–614, title I, §102(b)(1), Dec. 31, 1970, 84 Stat. 1840; Pub. L. 94–455, title XX, §2008(a)(2)(B), Oct. 4, 1976, 90 Stat. 1891; Pub. L. 97–34, title IV, §442(b)(1), Aug. 13, 1981, 95 Stat. 322.)
 
 #### Amendments
 
-1981—Subsec. (b). Pub. L. 97–34 substituted “calendar year” for “calendar quarters”.
+<b>1981</b>—Subsec. (b). Pub. L. 97–34 substituted “calendar year” for “calendar quarters”.
 
-1976—Subsec. (c). Pub. L. 94–455 added subsec. (c).
+<b>1976</b>—Subsec. (c). Pub. L. 94–455 added subsec. (c).
 
-1970—Subsec. (b). Pub. L. 91–614 substituted “calendar quarter” for “calendar year”.
+<b>1970</b>—Subsec. (b). Pub. L. 91–614 substituted “calendar quarter” for “calendar year”.
 
 #### Effective Date of 1981 Amendment
 

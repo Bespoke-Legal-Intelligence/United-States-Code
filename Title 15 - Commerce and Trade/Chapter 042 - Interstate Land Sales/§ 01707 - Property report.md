@@ -8,5 +8,13 @@ A property report relating to the lots in a subdivision shall contain such of th
 
 The property report shall not be used for any promotional purposes before the statement of record becomes effective and then only if it is used in its entirety. No person may advertise or represent that the Secretary approves or recommends the subdivision or the sale or lease of lots therein. No portion of the property report shall be underscored, italicized, or printed in larger or bolder type than the balance of the statement unless the Secretary requires or permits it.
 
-(Pub. L. 90–448, title XIV, §1408, Aug. 1, 1968, 82 Stat. 594.)
+(Pub. L. 90–448, title XIV, §1408, Aug. 1, 1968, 82 Stat. 594; Pub. L. 111–203, title X, §1098A(1), July 21, 2010, 124 Stat. 2105.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1098A(1), 1100H, July 21, 2010, 124 Stat. 2105, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Secretary” each place that term appears and inserting “Director”. See Effective Date of 2010 Amendment note below.</i>
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 

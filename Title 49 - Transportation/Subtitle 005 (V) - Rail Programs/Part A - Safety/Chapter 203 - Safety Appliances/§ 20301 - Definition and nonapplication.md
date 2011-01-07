@@ -60,7 +60,7 @@ This amends 49:20301(b) to clarify the restatement of 45:8 by section 1 of the A
 
 #### Amendments
 
-1996—Subsec. (b)(4). Pub. L. 104–287 added par. (4).
+<b>1996</b>—Subsec. (b)(4). Pub. L. 104–287 added par. (4).
 
 #### Effective Date of 1996 Amendment
 

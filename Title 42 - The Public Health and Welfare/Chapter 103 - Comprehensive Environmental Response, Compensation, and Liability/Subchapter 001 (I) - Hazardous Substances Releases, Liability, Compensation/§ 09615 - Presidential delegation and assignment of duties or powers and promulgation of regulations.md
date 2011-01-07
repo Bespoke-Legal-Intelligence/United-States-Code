@@ -14,7 +14,7 @@ Section 1. <i>National Contingency Plan</i>. (a)(1) The National Contingency Pla
 
 (2) The following agencies (in addition to other appropriate agencies) shall provide representatives to the National and Regional Response Teams to carry out their responsibilities under the NCP: Department of State, Department of Defense, Department of Justice, Department of the Interior, Department of Agriculture, Department of Commerce, Department of Labor, Department of Health and Human Services, Department of Transportation, Department of Energy, Department of Homeland Security, Environmental Protection Agency,, \[sic\] United States Coast Guard, and the Nuclear Regulatory Commission.
 
-(3) Except for periods of activation because of response action, the representative of the Environmental Protection Agency (“EPA”) shall be the chairman, and the representative of the United States Coast Guard shall be the vice chairman, of the NRT and these agencies’ representatives shall be co-chairs of the Regional Response Teams (“the RRTs”). When the NRT or an RRT is activated for a response action, the EPA representative shall be the chairman when the release or threatened release or discharge or threatened discharge occurs in the inland zone, and the United States Coast Guard representative shall be the chairman when the release or threatened release or discharge or threatened discharge occurs in the coastal zone, unless otherwise agreed upon by the EPA and the United States Coast Guard representatives (inland and coastal zones are defined in the NCP).
+(3) Except for periods of activation because of response action, the representative of the EnvironmentalProtection Agency (“EPA”) shall be the chairman, and the representative of the United States Coast Guard shall be the vice chairman, of the NRT and these agencies’ representatives shall be co-chairs of the Regional Response Teams (“the RRTs”). When the NRT or an RRT is activated for a response action, the EPA representative shall be the chairman when the release or threatened release or discharge or threatened discharge occurs in the inland zone, and the United States Coast Guard representative shall be the chairman when the release or threatened release or discharge or threatened discharge occurs in the coastal zone, unless otherwise agreed upon by the EPA and the United States Coast Guard representatives (inland and coastal zones are defined in the NCP).
 
 (4) The RRTs may include representatives from State governments, local governments (as agreed upon by the States), and Indian tribal governments. Subject to the functions and authorities delegated to Executive departments and agencies in other sections of this order, the NRT shall provide policy and program direction to the RRTs.
 
@@ -34,7 +34,7 @@ Section 1. <i>National Contingency Plan</i>. (a)(1) The National Contingency Pla
 
 (5) Secretary of Energy.
 
-In the event of a spill, the above named Federal trustees for natural resources shall designate one trustee to act as Lead Administrative Trustee, the duties of which shall be defined in the regulations promulgated pursuant to Section 1006(e)(1) of OPA. If there are natural resource trustees other than those designated above which are acting in the event of a spill, those other trustees may join with the Federal trustees to name aLead Administrative Trustee which shall exercise the duties defined in the regulations promulgated pursuant to Section 1006(e)(1) of OPA.
+In the event of a spill, the above named Federal trustees for natural resources shall designate one trustee to act as Lead Administrative Trustee, the duties of which shall be defined in the regulations promulgated pursuant to Section 1006(e)(1) of OPA. If there are natural resource trustees other than those designated above which are acting in the event of a spill, those other trustees may join with the Federal trustees to name a Lead Administrative Trustee which shall exercise the duties defined in the regulations promulgated pursuant to Section 1006(e)(1) of OPA.
 
 (d) Revisions to the NCP shall be made in consultation with members of the NRT prior to publication for notice and comment.
 
@@ -118,7 +118,7 @@ Sec. 7. <i>Financial Responsibility</i>. (a) The functions vested in the Preside
 
 (b)(1) The functions vested in the President by Section 108(a)(1) of the Act \[42 U.S.C. 9608(a)(1)\] are delegated to the Coast Guard.
 
-(2) Subject to Section 4(a) of this Order, the functions vested in the President by Section 109 of the Act \[42U.S.C. 9609\], relating to violations of Section 108(a)(1) of the Act, are delegated to the Coast Guard.
+(2) Subject to Section 4(a) of this Order, the functions vested in the President by Section 109 of the Act \[42 U.S.C. 9609\], relating to violations of Section 108(a)(1) of the Act, are delegated to the Coast Guard.
 
 (c)(1) The functions vested in the President by Section 108(b) of the Act are delegated to the Secretary of Transportation with respect to all transportation related facilities, including any pipeline, motor vehicle, rolling stock, or aircraft.
 
@@ -154,7 +154,7 @@ Sec. 9. <i>Management of the Hazardous Substance Superfund and Claims</i>. (a) T
 
 (i) Funds from the Hazardous Substance Superfund may be used, at the discretion of the Administrator or the Coast Guard, to pay for removal actions for releases or threatened releases from facilities or vessels under the jurisdiction, custody or control of Executive departments and agencies but must be reimbursed to the Hazardous Substance Superfund by such Executive department or agency.
 
-Sec. 10. <i>Federal Facilities</i>. (a) When necessary, prior to selection of a remedial action by the Administrator under Section 120(e)(4)(A) of the Act \[42 U.S.C. 9620(e)(4)(A)\], Executive agencies shall have the opportunity to present their views to the Administrator after using the procedures under Section 1–6 of Executive Order No. 12088 of October 13, 1978 \[set out as a note under section 4321 of this title\], or any other mutually acceptable process. Notwithstanding subsection 1–602 of Executive Order No. 12088, the Director of the Office of Management and Budget shall facilitate resolution of any issues.
+Sec. 10. <i>Federal Facilities</i>. (a) When necessary, prior to selection of a remedial action by the Administrator under Section 120(e)(4)(A) of the Act \[42 U.S.C. 9620(e)(4)(A)\], Executive agencies shall have the opportunity to present their views to the Administrator after using the procedures under Section 1–6 of Executive Order No. 12088 of October 13, 1978 \[set out as a note under section 4321 of this title\], or any other mutuallyacceptable process. Notwithstanding subsection 1–602 of Executive Order No. 12088, the Director of the Office of Management and Budget shall facilitate resolution of any issues.
 
 (b) Executive Order No. 12088 of October 13, 1978, is amended by renumbering the current Section 1–802 as Section 1–803 and inserting the following new Section 1–802.
 
@@ -180,7 +180,7 @@ Sec. 11. <i>General Provisions</i>. (a) The function vested in the President by 
 
 Sec. 12. <i>Brownfields</i>. (a) The functions vested in the President by Sections 101(39) and (41) and 104(k) of the Act \[42 U.S.C. 9601(39), (41), 9604(k)\] are delegated to the Administrator.
 
-(b) The functions vested in the President by Section 128(b)(1)(B)(ii) of the Act \[42 U.S.C. 9628(b)(1)(B)(ii)\] aredelegated to the heads of the Executive departments and agencies, to be exercised in consultation with the Administrator, with respect to property subject to their jurisdiction, custody, or control.
+(b) The functions vested in the President by Section 128(b)(1)(B)(ii) of the Act \[42 U.S.C. 9628(b)(1)(B)(ii)\] are delegated to the heads of the Executive departments and agencies, to be exercised in consultation with the Administrator, with respect to property subject to their jurisdiction, custody, or control.
 
 (c) The functions vested in the President by Section 128(b)(1)(E) of the Act \[42 U.S.C. 9628(b)(1)(E)\] are delegated to the heads of Executive departments and agencies in cases where they have acted under subsection (b) of this Section.
 

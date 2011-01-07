@@ -23,5 +23,5 @@
 - [&sect; 01125 - False designations of origin, false descriptions, and dilution forbidden](%C2%A7%2001125%20-%20False%20designations%20of%20origin%2C%20false%20descriptions%2C%20and%20dilution%20forbidden.md)
 - [&sect; 01126 - International conventions](%C2%A7%2001126%20-%20International%20conventions.md)
 - [&sect; 01127 - Construction and definitions; intent of chapter](%C2%A7%2001127%20-%20Construction%20and%20definitions%3B%20intent%20of%20chapter.md)
-- [&sect; 01128 - National Intellectual Property Law Enforcement Coordination Council](%C2%A7%2001128%20-%20National%20Intellectual%20Property%20Law%20Enforcement%20Coordination%20Council.md)
+- [&sect; 01128 - Repealed. Pub. L. 110&#8211;403, title III, &sect;305(a)(1), Oct. 13, 2008, 122 Stat. 4270](%C2%A7%2001128%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93403%2C%20title%20III%2C%20%C2%A7305%28a%29%281%29%2C%20Oct.%2013%2C%202008%2C%20122%20Stat.%204270.md)
 - [&sect; 01129 - Transferred](%C2%A7%2001129%20-%20Transferred.md)

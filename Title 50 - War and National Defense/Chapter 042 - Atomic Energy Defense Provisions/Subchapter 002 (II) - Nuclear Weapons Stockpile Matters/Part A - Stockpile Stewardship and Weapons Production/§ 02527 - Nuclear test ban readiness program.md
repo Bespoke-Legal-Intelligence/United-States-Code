@@ -38,7 +38,7 @@ Section was formerly set out as a note under section 2121 of Title 42, The Publi
 
 #### Amendments
 
-2003—Pub. L. 108–136, §3141(e)(8)(D), made technical amendment to section catchline.
+<b>2003</b>—Pub. L. 108–136, §3141(e)(8)(D), made technical amendment to section catchline.
 
-1997—Subsec. (e). Pub. L. 105–85 struck out heading and text of subsec. (e). Text read as follows: “The Secretary of Energy shall submit to Congress each year an unclassified report (with a classified annex as necessary) that describes the progress made to the date of the report in achieving the purposes of the program required to be established under subsection (b).”
+<b>1997</b>—Subsec. (e). Pub. L. 105–85 struck out heading and text of subsec. (e). Text read as follows: “The Secretary of Energy shall submit to Congress each year anunclassified report (with a classified annex as necessary) that describes the progress made to the date of the report in achieving the purposes of the program required to be established under subsection (b).”
 

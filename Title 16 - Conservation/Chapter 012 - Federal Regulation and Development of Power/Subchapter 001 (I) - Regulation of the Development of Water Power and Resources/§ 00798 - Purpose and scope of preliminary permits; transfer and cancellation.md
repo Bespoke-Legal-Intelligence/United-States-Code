@@ -6,5 +6,5 @@ Each preliminary permit issued under this subchapter shall be for the sole purpo
 
 #### Amendments
 
-1935—Act Aug. 26, 1935, §203, amended section generally, striking out “and a license issued” at end of second sentence and inserting “or for other good cause shown after notice and opportunity for hearing” in last sentence.
+<b>1935</b>—Act Aug. 26, 1935, §203, amended section generally, striking out “and a license issued” at end of second sentence and inserting “or for other good cause shown after notice and opportunity for hearing” in last sentence.
 

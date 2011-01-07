@@ -20,7 +20,7 @@
 
 &emsp;(2) provide for the expeditious identification of, and the dissemination of information concerning, flood-prone areas;
 
-&emsp;(3) require States or local communities, as a condition of future Federal financial assistance, to participate in the flood insurance program and to adopt adequate flood plan ordinances with effective enforcement provisions consistent with Federal standards to reduce or avoid future flood losses; and
+&emsp;(3) require States or local communities, as a condition of future Federal financial assistance, to participate in the flood insurance program and to adopt adequate flood plan ordinances with effective enforcement provisionsconsistent with Federal standards to reduce or avoid future flood losses; and
 
 &emsp;(4) require the purchase of flood insurance by property owners who are being assisted by Federal programs or by federally supervised, regulated, or insured agencies or institutions in the acquisition or improvement of land or facilities located or to be located in identified areas having special flood hazards.
 

@@ -12,7 +12,7 @@ The Secretary of the Interior may—
 
 #### Amendments
 
-1978—Pub. L. 95–616 incorporated existing provisions in pars. (1) and (2) and cls. (A) and (B), made provisions applicable to interests in approved areas, and inserted authority for purchase or acquisition for other management purposes.
+<b>1978</b>—Pub. L. 95–616 incorporated existing provisions in pars. (1) and (2) and cls. (A) and (B), made provisions applicable to interests in approved areas, and inserted authority for purchase or acquisition for other management purposes.
 
 #### Transfer of Functions
 

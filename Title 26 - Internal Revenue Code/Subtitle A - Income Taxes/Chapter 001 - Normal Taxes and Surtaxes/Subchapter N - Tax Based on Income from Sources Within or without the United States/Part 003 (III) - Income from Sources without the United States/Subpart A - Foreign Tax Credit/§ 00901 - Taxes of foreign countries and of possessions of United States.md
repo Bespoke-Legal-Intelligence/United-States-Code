@@ -10,7 +10,7 @@ Subject to the limitation of section 904, the following amounts shall be allowed
 
 #### (1) Citizens and domestic corporations
 
-&emsp;In the case of a citizen of the United States and of a domestic corporation, the amount of any income, war profits, and excess profits taxes paid or accrued during the taxable year to any foreign country or to any possession of the United States; and
+&emsp;In the case of a citizen of the United States and of a domestic corporation, the amount ofany income, war profits, and excess profits taxes paid or accrued during the taxable year to any foreign country or to any possession of the United States; and
 
 #### (2) Resident of the United States or Puerto Rico
 
@@ -244,7 +244,7 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 #### (A) In general
 
-&emsp;&emsp;Paragraph (1) shall not apply to any qualified tax with respect to any property held in the active conduct in a foreign country of a business as a dealer in such property.
+&emsp;&emsp;Paragraph (1) shall not apply to any qualified tax with respect to any property held inthe active conduct in a foreign country of a business as a dealer in such property.
 
 #### (B) Qualified tax
 
@@ -278,7 +278,95 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 &emsp;Holding periods shall be determined for purposes of this subsection without regard to section 1235 or any similar rule.
 
-#### (m) Cross reference
+#### (m) Denial of foreign tax credit with respect to foreign income not subject to United States taxation by reason of covered asset acquisitions
+
+#### (1) In general
+
+&emsp;In the case of a covered asset acquisition, the disqualified portion of any foreign income tax determined with respect to the income or gain attributable to the relevant foreign assets—
+
+&emsp;&emsp;(A) shall not be taken into account in determining the credit allowed under subsection (a), and
+
+&emsp;&emsp;(B) in the case of a foreign income tax paid by a section 902 corporation (as defined in section 909(d)(5)), shall not be taken into account for purposes of section 902 or 960.
+
+#### (2) Covered asset acquisition
+
+&emsp;For purposes of this section, the term “covered asset acquisition” means—
+
+&emsp;&emsp;(A) a qualified stock purchase (as defined in section 338(d)(3)) to which section 338(a) applies,
+
+&emsp;&emsp;(B) any transaction which—
+
+&emsp;&emsp;&emsp;(i) is treated as an acquisition of assets for purposes of this chapter, and
+
+&emsp;&emsp;&emsp;(ii) is treated as the acquisition of stock of a corporation (or is disregarded) for purposes of the foreign income taxes of the relevant jurisdiction,
+
+&emsp;&emsp;(C) any acquisition of an interest in a partnership which has an election in effect under section 754, and
+
+&emsp;&emsp;(D) to the extent provided by the Secretary, any other similar transaction.
+
+#### (3) Disqualified portion
+
+&emsp;For purposes of this section—
+
+#### (A) In general
+
+&emsp;&emsp;The term “disqualified portion” means, with respect to any covered asset acquisition, for any taxable year, the ratio (expressed as a percentage) of—
+
+&emsp;&emsp;&emsp;(i) the aggregate basis differences (but not below zero) allocable to such taxable year under subparagraph (B) with respect to all relevant foreign assets, divided by
+
+&emsp;&emsp;&emsp;(ii) the income on which the foreign income tax referred to in paragraph (1) is determined (or, if the taxpayer fails to substantiate such income to the satisfaction of the Secretary, such income shall be determined by dividing the amount of such foreign income tax by the highest marginal tax rate applicable to such income in the relevant jurisdiction).
+
+#### (B) Allocation of basis difference
+
+&emsp;&emsp;For purposes of subparagraph (A)(i)—
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The basis difference with respect to any relevant foreign asset shall be allocated to taxable years using the applicable cost recovery method under this chapter.
+
+#### (ii) Special rule for disposition of assets
+
+&emsp;&emsp;&emsp;Except as otherwise provided by the Secretary, in the case of the disposition of any relevant foreign asset—
+
+&emsp;&emsp;&emsp;&emsp;(I) the basis difference allocated to the taxable year which includes the date of such disposition shall be the excess of the basis difference with respect to such asset over the aggregate basis difference with respect to such asset which has been allocated under clause (i) to all prior taxable years, and
+
+&emsp;&emsp;&emsp;&emsp;(II) no basis difference with respect to such asset shall be allocated under clause (i) to any taxable year thereafter.
+
+#### (C) Basis difference
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The term “basis difference” means, with respect to any relevant foreign asset, the excess of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the adjusted basis of such asset immediately after the covered asset acquisition, over
+
+&emsp;&emsp;&emsp;&emsp;(II) the adjusted basis of such asset immediately before the covered asset acquisition.
+
+#### (ii) Built-in loss assets
+
+&emsp;&emsp;&emsp;In the case of a relevant foreign asset with respect to which the amount described in clause (i)(II) exceeds the amount described in clause (i)(I), such excess shall be taken into account under this subsection as a basis difference of a negative amount.
+
+#### (iii) Special rule for section 338 elections
+
+&emsp;&emsp;&emsp;In the case of a covered asset acquisition described in paragraph (2)(A), the covered asset acquisition shall be treated for purposes of this subparagraph as occurring at the close of the acquisition date (as defined in section 338(h)(2)).
+
+#### (4) Relevant foreign assets
+
+&emsp;For purposes of this section, the term “relevant foreign asset” means, with respect to any covered asset acquisition, any asset (including any goodwill, going concern value, or other intangible) with respect to such acquisition if income, deduction, gain, or loss attributable to such asset is taken into account in determining the foreign income tax referred to in paragraph (1).
+
+#### (5) Foreign income tax
+
+&emsp;For purposes of this section, the term “foreign income tax” means any income, war profits, or excess profits tax paid or accrued to any foreign country or to any possession of the United States.
+
+#### (6) Taxes allowed as a deduction, etc.
+
+&emsp;Sections 275 and 78 shall not apply to any tax which is not allowable as a credit under subsection (a) by reason of this subsection.
+
+#### (7) Regulations
+
+&emsp;The Secretary may issue such regulations or other guidance as is necessary or appropriate to carry out the purposes of this subsection, including to exempt from the application of this subsection certain covered asset acquisitions, and relevant foreign assets with respect to which the basis difference is de minimis.
+
+#### (n) Cross reference
 
 &emsp;&emsp;<b>(1) For deductions of income, war profits, and excess profits taxes paid to a foreign country or a possession of the United States, see sections 164 and 275.</b>
 
@@ -288,7 +376,7 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 &emsp;&emsp;<b>(4) For reduction of credit for failure of a United States person to furnish certain information with respect to a foreign corporation or partnership controlled by him, see section 6038.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 285; Pub. L. 86–780, §3(a), (b), Sept. 14, 1960, 74 Stat. 1013; Pub. L. 87–834, §§9(d)(3), 12(b)(1), Oct. 16, 1962, 76 Stat. 1001, 1031; Pub. L. 88–272, title II, §207(b)(7), Feb. 26, 1964, 78 Stat. 42; Pub. L. 89–384, §1(c)(2), Apr. 8, 1966, 80 Stat. 102; Pub. L. 89–809, title I, §106(a)(4), (5), (b)(1), (2), Nov. 13, 1966, 80 Stat. 1569; Pub. L. 91–172, title III, §301(b)(9), title V, §506(a), Dec. 30, 1969, 83 Stat. 585, 634; Pub. L. 92–178, title V, §502(b)(1), Dec. 10, 1971, 85 Stat. 549; Pub. L. 93–406, title II, §§2001(g)(2)(C), 2002(g)(3), 2005(c)(5), Sept. 2, 1974, 88 Stat. 957, 968, 991; Pub. L. 94–12, title VI, §601(b), Mar. 29, 1975, 89 Stat. 57; Pub. L. 94–455, title X, §§1031(b)(1), 1051(d), title XIX, §1901(b)(1)(H)(iii), (37)(A), Oct. 4, 1976, 90 Stat. 1622, 1645, 1791, 1803; Pub. L. 95–600, title VII, §701(u)(1)(A), (B), Nov. 6, 1978, 92 Stat. 2912; Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), §265(b)(2)(A)(iv), Sept. 3, 1982, 96 Stat. 420, 547, renumbered §201(d)(8)(A), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §474(r)(20), title VI, §612(e)(1), title VII, §713(c)(1)(C), title VIII, §801(d)(1), July 18, 1984, 98 Stat. 843, 912, 957, 995;Pub. L. 99–509, title VIII, §8041(a), Oct. 21, 1986, 100 Stat. 1962; Pub. L. 99–514, title I, §112(b)(3), title XII, §1204(a), title XVIII, §1876(p)(2), Oct. 22, 1986, 100 Stat. 2109, 2532, 2902; Pub. L. 100–203, title X, §10231(a), (b), Dec. 22, 1987, 101 Stat. 1330–418, 1330–419; Pub. L. 100–647, title I, §1012(j), title II, §2003(c)(1), Nov. 10, 1988, 102 Stat. 3512, 3598; Pub. L. 103–149, §4(b)(8)(A), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 104–188, title I, §1904(b)(2), Aug. 20, 1996, 110 Stat. 1912; Pub. L. 105–34, title X, §1053(a), title XI, §1142(e)(4), Aug. 5, 1997, 111 Stat. 941, 983; Pub. L. 105–206, title VI, §6010(k)(3), July 22, 1998, 112 Stat. 815; Pub. L. 106–200, title VI, §601(a), May 18, 2000, 114 Stat. 305; Pub. L. 108–311, title IV, §406(g), Oct. 4, 2004, 118 Stat. 1190; Pub. L. 108–357, title IV, §405(b), title VIII, §832(a), (b), Oct. 22, 2004, 118 Stat. 1498, 1587, 1588; Pub. L. 109–135, title IV, §403(aa)(2), Dec. 21, 2005, 119 Stat. 2630; Pub. L. 110–172, §11(g)(9), Dec. 29, 2007, 121 Stat. 2490.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 285; Pub. L. 86–780, §3(a), (b), Sept. 14, 1960, 74 Stat. 1013; Pub. L. 87–834, §§9(d)(3), 12(b)(1), Oct. 16, 1962, 76 Stat. 1001, 1031; Pub. L. 88–272, title II, §207(b)(7), Feb. 26, 1964, 78 Stat. 42; Pub. L. 89–384, §1(c)(2), Apr. 8, 1966, 80 Stat. 102; Pub. L. 89–809, title I, §106(a)(4), (5), (b)(1), (2), Nov. 13, 1966, 80 Stat. 1569; Pub. L. 91–172, title III, §301(b)(9), title V, §506(a), Dec. 30, 1969, 83 Stat. 585, 634; Pub. L. 92–178, title V, §502(b)(1), Dec. 10, 1971, 85 Stat. 549; Pub. L. 93–406, title II, §§2001(g)(2)(C), 2002(g)(3), 2005(c)(5), Sept. 2, 1974, 88 Stat. 957, 968, 991; Pub. L. 94–12, title VI, §601(b), Mar. 29, 1975, 89 Stat. 57; Pub. L. 94–455, title X, §§1031(b)(1), 1051(d), title XIX, §1901(b)(1)(H)(iii), (37)(A), Oct. 4, 1976, 90 Stat. 1622, 1645, 1791, 1803; Pub. L. 95–600, title VII, §701(u)(1)(A), (B), Nov. 6, 1978, 92 Stat. 2912; Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), §265(b)(2)(A)(iv), Sept. 3, 1982, 96 Stat. 420, 547, renumbered §201(d)(8)(A), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §474(r)(20), title VI, §612(e)(1), title VII, §713(c)(1)(C), title VIII, §801(d)(1), July 18, 1984, 98 Stat. 843, 912, 957, 995; Pub. L. 99–509, title VIII, §8041(a), Oct. 21, 1986, 100 Stat. 1962; Pub. L. 99–514, title I, §112(b)(3), title XII, §1204(a), title XVIII, §1876(p)(2), Oct. 22, 1986, 100 Stat. 2109, 2532, 2902; Pub. L. 100–203, title X, §10231(a), (b), Dec. 22, 1987, 101 Stat. 1330–418, 1330–419; Pub. L. 100–647, title I, §1012(j), title II, §2003(c)(1), Nov. 10, 1988, 102 Stat. 3512, 3598; Pub. L. 103–149, §4(b)(8)(A), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 104–188, title I, §1904(b)(2), Aug. 20, 1996, 110 Stat. 1912; Pub. L. 105–34, title X, §1053(a), title XI, §1142(e)(4), Aug. 5, 1997, 111 Stat. 941, 983; Pub. L. 105–206, title VI, §6010(k)(3), July 22, 1998, 112 Stat. 815; Pub. L. 106–200, title VI, §601(a), May 18, 2000, 114 Stat. 305; Pub. L. 108–311, title IV, §406(g), Oct. 4, 2004, 118 Stat. 1190; Pub. L. 108–357, title IV, §405(b), title VIII, §832(a), (b), Oct. 22, 2004, 118 Stat. 1498, 1587, 1588; Pub. L. 109–135, title IV, §403(aa)(2), Dec. 21, 2005, 119 Stat. 2630; Pub. L. 110–172, §11(g)(9), Dec. 29, 2007, 121 Stat. 2490; Pub. L. 111–226, title II, §212(a), Aug. 10, 2010, 124 Stat. 2396.)
 
 #### References in Text
 
@@ -304,11 +392,13 @@ Sections 15(a) and 15C(a) of the Securities Exchange Act of 1934, referred to in
 
 #### Amendments
 
-2007—Subsec. (h). Pub. L. 110–172 struck out subsec. (h), which read as follows: “No credit shall be allowed under this section for any income, war profits, and excess profits taxes paid or accrued with respect to the foreign trade income (within the meaning of section 923(b)) of a FSC, other than section 923(a)(2) non-exempt income (within the meaning of section 927(d)(6)).”
+<b>2010</b>—Subsecs. (m), (n). Pub. L. 111–226 added subsec. (m) and redesignated former subsec. (m) as (n).
 
-2005—Subsec. (<i>l</i>)(2)(C)(i). Pub. L. 109–135 struck out “if such security were stock” after “paragraph (4) thereof”.
+<b>2007</b>—Subsec. (h). Pub. L. 110–172 struck out subsec. (h), which read as follows: “No credit shall be allowed under this section for any income, war profits, and excess profits taxes paid or accrued with respect to the foreign trade income (within the meaning of section 923(b)) of a FSC, other than section 923(a)(2) non-exempt income (within the meaning of section 927(d)(6)).”
 
-2004—Subsec. (b)(5). Pub. L. 108–357, §405(b), substituted “any person” for “any individual”.
+<b>2005</b>—Subsec. (<i>l</i>)(2)(C)(i). Pub. L. 109–135 struck out “if such security were stock” after “paragraph (4) thereof”.
+
+<b>2004</b>—Subsec. (b)(5). Pub. L. 108–357, §405(b), substituted “any person” for “any individual”.
 
 Subsec. (k). Pub. L. 108–357, §832(b), inserted “on dividends” after “taxes” in heading.
 
@@ -318,19 +408,19 @@ Subsec. (k)(3)(B). Pub. L. 108–311, §406(g)(2), substituted “91-day period�
 
 Subsecs. (<i>l</i>), (m). Pub. L. 108–357, §832(a), added subsec. (<i>l</i>) and redesignated former subsec. (<i>l</i>) as (m).
 
-2000—Subsec. (j)(5). Pub. L. 106–200 added par. (5).
+<b>2000</b>—Subsec. (j)(5). Pub. L. 106–200 added par. (5).
 
-1998—Subsec. (k)(4)(A). Pub. L. 105–206 substituted “business as a securities dealer” for “securities business” in introductory provisions.
+<b>1998</b>—Subsec. (k)(4)(A). Pub. L. 105–206 substituted “business as a securities dealer” for “securities business” in introductory provisions.
 
-1997—Subsec. (k). Pub. L. 105–34, §1053(a), added subsec. (k). Former subsec. (k) redesignated (<i>l</i>).
+<b>1997</b>—Subsec. (k). Pub. L. 105–34, §1053(a), added subsec. (k). Former subsec. (k) redesignated (<i>l</i>).
 
 Subsec. (<i>l</i>). Pub. L. 105–34, §1053(a), redesignated subsec. (k) as (<i>l</i>).
 
 Subsec. (<i>l</i>)(4). Pub. L. 105–34, §1142(e)(4), which directed amendment of subsec. (k)(4) by substituting “foreign corporation or partnership” for “foreign corporation”, was executed to subsec. (<i>l</i>)(4) to reflect the probable intent of Congress and the redesignation of subsec. (k) as (<i>l</i>) by Pub. L. 105–34, §1053(a). See above.
 
-1996—Subsec. (b)(5). Pub. L. 104–188 inserted at end “Under rules or regulations prescribed by the Secretary, in the case of any foreign trust of which the settlor or another person would be treated as owner of any portion of the trust under subpart E but for section 672(f), the allocable amount of any income, war profits, and excess profits taxes imposed by any foreign country or possession of the United States on the settlor or such other person in respect of trust income.”
+<b>1996</b>—Subsec. (b)(5). Pub. L. 104–188 inserted at end “Under rules or regulations prescribed by the Secretary, in the case of any foreign trust of which the settlor or another person would be treated as owner of any portion of the trust under subpart E but for section 672(f), the allocable amount of any income, war profits, and excess profits taxes imposed by any foreign country or possession of the United States on the settlor or such other person in respect of trust income.”
 
-1993—Subsec. (j)(2)(C). Pub. L. 103–149 struck out heading and text of subpar. (C). Text read as follows:
+<b>1993</b>—Subsec. (j)(2)(C). Pub. L. 103–149 struck out heading and text of subpar. (C). Text read as follows:
 
 “(i)
 
@@ -344,15 +434,15 @@ In general.—In addition to any period during which this subsection would other
 
 South africa defined.—For purposes of clause (i), the term ‘South Africa’ has the meaning given to such term by paragraph (6) of section 3 of the Comprehensive Anti-Apartheid Act of 1986 (as so in effect).”
 
-1988—Subsec. (g)(2). Pub. L. 100–647, §1012(j), inserted “(as in effect on the day before the date of the enactment of the Tax Reform Act of 1986)” after “section 957(c)”.
+<b>1988</b>—Subsec. (g)(2). Pub. L. 100–647, §1012(j), inserted “(as in effect on the day before the date of the enactment of the Tax Reform Act of 1986)” after “section 957(c)”.
 
 Subsec. (j)(3). Pub. L. 100–647, §2003(c)(1), inserted “, etc.” at end of heading and substituted “Sections 275 and 78” for “Section 275” in text.
 
-1987—Subsec. (j)(1). Pub. L. 100–203, §10231(b), substituted “during which” for “to which” in subpar. (A) and “such country” for “any country so identified” in subpar. (B).
+<b>1987</b>—Subsec. (j)(1). Pub. L. 100–203, §10231(b), substituted “during which” for “to which” in subpar. (A) and “such country” for “any country so identified” in subpar. (B).
 
 Subsec. (j)(2)(C). Pub. L. 100–203, §10231(a), added subpar. (C).
 
-1986—Subsec. (h). Pub. L. 99–514, §1876(p)(2), inserted closing parenthesis after “section 927(d)(6)”.
+<b>1986</b>—Subsec. (h). Pub. L. 99–514, §1876(p)(2), inserted closing parenthesis after “section 927(d)(6)”.
 
 Subsec. (i). Pub. L. 99–514, §1204(a), added subsec. (i). Former subsec. (i) redesignated (j).
 
@@ -364,7 +454,7 @@ Pub. L. 99–514, §1204(a), redesignated former subsec. (i) as (j).
 
 Subsec. (k). Pub. L. 99–509 redesignated former subsec. (j) as (k).
 
-1984—Subsec. (a). Pub. L. 98–369, §612(e)(1), substituted “section 26(b)” for “section 25(b)”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §612(e)(1), substituted “section 26(b)” for “section 25(b)”.
 
 Pub. L. 98–369, §474(r)(20), substituted “The credit shall not be allowed against any tax treated as a tax not imposed by this chapter under section 25(b)” for “The credit shall not be allowed against the tax imposed by section 56 (relating to corporate minimum tax), against the tax imposed for the taxable year under section 72(m)(5)(B) (relating to 10 percent tax on premature distributions to owner-employees) section 72(q)(1) (relating to 5-percent tax on premature distributions under annuity contracts),, against the tax imposed by section 402(e) (relating to tax on lump sum distributions), against the tax imposed for the taxable year by section 408(f) (relating to additional tax on income from certain retirement accounts), against the tax imposed by section 531 (relating to the tax on accumulated earnings), against the additional tax imposed for the taxable year under section 1351 (relating to recoveries of foreign expropriation losses), or against the personal holding company tax imposed by section 541”.
 
@@ -372,13 +462,13 @@ Pub. L. 98–369, §713(c)(1)(C), substituted “premature distributions to key 
 
 Subsecs. (h), (i). Pub. L. 98–369, §801(d)(1), added subsec. (h) and redesignated former subsec. (h) as (i).
 
-1982—Subsec. (a). Pub. L. 97–248 substituted “(relating to corporate minimum tax)” for “(relating to minimum tax for tax preferences)” after “section 56”, and inserted “section 72(q)(1) (relating to 5-percent tax on premature distributions under annuity contracts),” after “owner employees)”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–248 substituted “(relating to corporate minimum tax)” for “(relating to minimum tax for tax preferences)” after “section 56”, and inserted “section 72(q)(1) (relating to 5-percent tax on premature distributions under annuity contracts),” after “owner employees)”.
 
-1978—Subsec. (g)(1). Pub. L. 95–600, §701(u)(1)(A), inserted provisions prohibiting a deduction for any tax of a foreign country or possession of the United States which is paid or accrued with respect to any distribution from a corporation if a dividends received deduction is allowable with respect to that distribution from a corporation under part VIII of subchapter B.
+<b>1978</b>—Subsec. (g)(1). Pub. L. 95–600, §701(u)(1)(A), inserted provisions prohibiting a deduction for any tax of a foreign country or possession of the United States which is paid or accrued with respect to any distribution from a corporation if a dividends received deduction is allowable with respect to that distribution from a corporation under part VIII of subchapter B.
 
 Subsec. (g)(2). Pub. L. 95–600, §701(u)(1)(B), inserted provision relating to application of section 957(c) of this title.
 
-1976—Subsec. (a). Pub. L. 94–455, §§1031(b)(1), 1901(b)(37)(A), struck out “under section 1333 (relating to war loss recoveries) or” after “imposed for the taxable year” and “applicable” after “subject to the”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1031(b)(1), 1901(b)(37)(A), struck out “under section 1333 (relating to war loss recoveries) or” after “imposed for the taxable year” and “applicable” after “subject to the”.
 
 Subsec. (b). Pub. L. 94–455, §1031(b)(1), struck out “applicable” after “Subject to the”.
 
@@ -386,17 +476,17 @@ Subsec. (d). Pub. L. 94–455, §1051(d)(1), struck out provisions relating to c
 
 Subsecs. (g), (h). Pub. L. 94–455, §§1051(d)(2), 1901(b)(1)(H)(iii), added subsec. (g), redesignated former subsec. (g) as (h), and, as redesignated, substituted “section 642(a)(1)” for “section 642(a)(2)” in par. (3).
 
-1975—Subsecs. (f), (g). Pub. L. 94–12 added subsec. (f) and redesignated former subsec. (f) as (g).
+<b>1975</b>—Subsecs. (f), (g). Pub. L. 94–12 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1974—Subsec. (a). Pub. L. 93–460 inserted references to the tax imposed for the taxable year under section 72(m)(5)(B) (relating to 10 percent tax on premature distributions to owner-employees), the tax imposed for the taxable year by section 408(f) (relating to additional tax on income from certain retirement accounts), and the tax imposed by section 402(e) (relating to tax on lump sum distributions).
+<b>1974</b>—Subsec. (a). Pub. L. 93–460 inserted references to the tax imposed for the taxable year under section 72(m)(5)(B) (relating to 10 percent tax on premature distributions to owner-employees), the tax imposed for the taxable year by section 408(f) (relating to additional tax on income from certain retirement accounts), and the tax imposed by section 402(e) (relating to tax on lump sum distributions).
 
-1971—Subsec. (d). Pub. L. 92–178 inserted provision for treatment of dividends from a DISC or former DISC as dividends from a foreign corporation to the extent such dividends are treated under part I as income from sources without the United States.
+<b>1971</b>—Subsec. (d). Pub. L. 92–178 inserted provision for treatment of dividends from a DISC or former DISC as dividends from a foreign corporation to the extent such dividends are treated under part I as income from sources without the United States.
 
-1969—Subsec. (a). Pub. L. 91–172, §301(b)(9), inserted “against the tax imposed by section 56 (relating to minimum tax for tax preferences),” after “not be allowed” in last sentence.
+<b>1969</b>—Subsec. (a). Pub. L. 91–172, §301(b)(9), inserted “against the tax imposed by section 56 (relating to minimum tax for tax preferences),” after “not be allowed” in last sentence.
 
 Subsecs. (e), (f). Pub. L. 91–172, §506(a), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1966—Subsec. (a). Pub. L. 89–384 added the additional tax imposed under section 1351 (relating to recoveries of foreign expropriation losses) to the list of taxes against which the foreign tax credit may not be allowed.
+<b>1966</b>—Subsec. (a). Pub. L. 89–384 added the additional tax imposed under section 1351 (relating to recoveries of foreign expropriation losses) to the list of taxes against which the foreign tax credit may not be allowed.
 
 Subsec. (b)(3). Pub. L. 89–809, §106(b)(1), struck out provisions which made the allowance of the credit dependent upon whether the foreign country of which the alien resident was a citizen or subject, in imposing such taxes, allowed a similar credit to citizens of the United States residing in such country.
 
@@ -404,15 +494,37 @@ Subsec. (b)(4), (5). Pub. L. 89–809, §106(a)(4), (5), added par. (4), redesig
 
 Subsecs. (c) to (e). Pub. L. 89–809, §106(b)(2), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-1964—Subsec. (d)(1). Pub. L. 88–272 inserted reference to section 275.
+<b>1964</b>—Subsec. (d)(1). Pub. L. 88–272 inserted reference to section 275.
 
-1962—Subsec. (a). Pub. L. 87–834, §12(b)(1), substituted “sections 902 and 960” for “section 902”.
+<b>1962</b>—Subsec. (a). Pub. L. 87–834, §12(b)(1), substituted “sections 902 and 960” for “section 902”.
 
 Subsec. (d)(4). Pub. L. 87–834, §9(d)(3), added par. (4).
 
-1960—Subsec. (a). Pub. L. 86–780, §3(a), (b), inserted “applicable” before “limitation” and substituted “Such choice for any taxable year may be made or changed at any time before the expiration of the period prescribed for making a claim for credit or refund of the tax imposed by this chapter for such taxable year” for “Such choice may be made or changed at any time prior to the expiration of the period prescribed for making a claim for credit or refund of the tax against which the credit is allowable.”
+<b>1960</b>—Subsec. (a). Pub. L. 86–780, §3(a), (b), inserted “applicable” before “limitation” and substituted “Such choice for any taxable year may be made or changed at any time before the expiration of the period prescribed for making a claim for credit or refund of the tax imposed by this chapter for such taxable year” for “Such choice may be made or changed at any time prior to the expiration of the period prescribed for making a claim for credit or refund of the tax against which the credit is allowable.”
 
 Subsec. (b). Pub. L. 86–780, §3(b), inserted “applicable” before “limitation”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–226, title II, §212(b), Aug. 10, 2010, 124 Stat. 2398, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to covered asset acquisitions (as defined in section 901(m)(2) of the Internal Revenue Code of 1986, as added by this section) after December 31, 2010.
+
+“(2)
+
+Transition rule.—The amendments made by this section shall not apply to any covered asset acquisition (as so defined) with respect to which the transferor and the transferee are not related if such acquisition is—
+
+&emsp;“(A) made pursuant to a written agreement which was binding on January 1, 2011, and at all times thereafter,
+
+&emsp;“(B) described in a ruling request submitted to the Internal Revenue Service on or before July 29, 2010, or
+
+&emsp;“(C) described on or before January 1, 2011, in a public announcement or in a filing with the Securities and Exchange Commission.
+
+“(3)
+
+Related persons.—For purposes of this subsection, a person shall be treated as related to another person if the relationship between such persons is described in section 267 or 707(b) of the Internal Revenue Code of 1986.”
 
 #### Effective Date of 2005 Amendment
 
@@ -524,7 +636,7 @@ Amendment by Pub. L. 89–384 applicable with respect to amounts received after 
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, see section 207(c) ofPub. L. 88–272, set out as a note under section 164 of this title.
+Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, see section 207(c) of Pub. L. 88–272, set out as a note under section 164 of this title.
 
 #### Effective Date of 1962 Amendment
 

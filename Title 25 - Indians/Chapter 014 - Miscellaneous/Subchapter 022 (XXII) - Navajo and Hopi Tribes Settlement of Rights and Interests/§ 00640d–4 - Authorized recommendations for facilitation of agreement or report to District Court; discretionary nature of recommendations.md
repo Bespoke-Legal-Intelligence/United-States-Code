@@ -18,5 +18,5 @@
 
 #### Amendments
 
-1980—Subsec. (a)(4). Pub. L. 96–305 struck out par. (4) which authorized the Mediator to recommend, in exceptional cases where necessary to prevent hardship, a limited tenure for residential use, not exceeding a life estate, and a phased relocation of members of one tribe from lands which may be partitioned to the other tribe in the joint use area.
+<b>1980</b>—Subsec. (a)(4). Pub. L. 96–305 struck out par. (4) which authorized the Mediator to recommend, in exceptional cases where necessary to prevent hardship, a limited tenure for residential use, not exceeding a life estate, and a phased relocation of members of one tribe from lands which may be partitioned to the other tribe in the joint use area.
 

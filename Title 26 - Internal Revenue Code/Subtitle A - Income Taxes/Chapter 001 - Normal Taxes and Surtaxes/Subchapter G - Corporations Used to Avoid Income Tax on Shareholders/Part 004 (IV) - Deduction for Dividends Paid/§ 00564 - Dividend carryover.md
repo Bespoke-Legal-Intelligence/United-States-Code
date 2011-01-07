@@ -22,7 +22,7 @@ The dividend carryover to the taxable year shall be determined as follows:
 
 #### Amendments
 
-1976—Subsec. (c). Pub. L. 94–455 struck out subsec. (c) which related to the determination of dividend carryover from taxable years to which this subtitle does not apply.
+<b>1976</b>—Subsec. (c). Pub. L. 94–455 struck out subsec. (c) which related to the determination of dividend carryover from taxable years to which this subtitle does not apply.
 
 #### Effective Date of 1976 Amendment
 

@@ -58,13 +58,13 @@ Under regulations prescribed by the Secretary—
 
 #### Amendments
 
-1988—Subsec. (a)(4). Pub. L. 100–647 added par. (4).
+<b>1988</b>—Subsec. (a)(4). Pub. L. 100–647 added par. (4).
 
-1986—Pub. L. 99–514 amended section generally, substituting “geothermal, or other mineral properties” for “or geothermal property” in section catchline, revising and restating subsec. (a), pars. (1) to (4) as pars. (1) to\(3), and reenacting subsec. (b) without change except for substituting “rule of subsection (g)” for “rules of subsection (g)” in par. (1).
+<b>1986</b>—Pub. L. 99–514 amended section generally, substituting “geothermal, or other mineral properties” for “or geothermal property” in section catchline, revising and restating subsec. (a), pars. (1) to (4) as pars. (1) to (3), and reenacting subsec. (b) without change except for substituting “rule of subsection (g)” for “rules of subsection (g)” in par. (1).
 
-1982—Subsec. (b)(2). Pub. L. 97–354 substituted “an S corporation” for “an electing small business corporation (as defined in section 1371(b))”.
+<b>1982</b>—Subsec. (b)(2). Pub. L. 97–354 substituted “an S corporation” for “an electing small business corporation (as defined in section 1371(b))”.
 
-1978—Pub. L. 95–618, §402(c)(3), substituted “oil, gas, or geothermal” for “oil or gas” in section catchline.
+<b>1978</b>—Pub. L. 95–618, §402(c)(3), substituted “oil, gas, or geothermal” for “oil or gas” in section catchline.
 
 Subsec. (a)(1), (2). Pub. L. 95–618, §402(c)(1), substituted “oil, gas, or geothermal property” for “oil or gas property” wherever appearing.
 

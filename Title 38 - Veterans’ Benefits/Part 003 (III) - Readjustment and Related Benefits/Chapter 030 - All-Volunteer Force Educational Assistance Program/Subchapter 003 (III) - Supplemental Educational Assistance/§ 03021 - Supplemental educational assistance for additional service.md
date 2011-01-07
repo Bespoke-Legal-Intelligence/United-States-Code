@@ -38,17 +38,17 @@ Prior section 3021 was renumbered section 5121 of this title.
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1421 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1421 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “3011 or 3018” for “1411 or 1418” in introductory provisions and “3011(a)(1)” for “1411(a)(1)” in par. (1).
 
 Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “3012 or 3018” for “1412 or 1418” in introductory provisions and “3012(a)(1)” for “1412(a)(1)” in par. (1).
 
-1989—Subsecs. (a), (b). Pub. L. 101–237 inserted “of Defense” after second reference to “Secretary”.
+<b>1989</b>—Subsecs. (a), (b). Pub. L. 101–237 inserted “of Defense” after second reference to “Secretary”.
 
-1988—Subsecs. (a), (b). Pub. L. 100–689 inserted reference to section 1418 of this title.
+<b>1988</b>—Subsecs. (a), (b). Pub. L. 100–689 inserted reference to section 1418 of this title.
 
-1986—Subsec. (a)(1). Pub. L. 99–576, §321(5), substituted “after” for “in addition to”.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–576, §321(5), substituted “after” for “in addition to”.
 
 Subsec. (b)(1). Pub. L. 99–576, §321(5), substituted “after” for “in addition to” in two places.
 

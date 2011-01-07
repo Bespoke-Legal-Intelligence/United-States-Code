@@ -94,13 +94,13 @@ In clause (4)(A), the words “or benefits” are omitted as being included in �
 
 #### Amendments
 
-1996—Par. (4)(B). Pub. L. 104–287 made technical amendment to directory language of Pub. L. 103–272. See 1994 Amendment note below.
+<b>1996</b>—Par. (4)(B). Pub. L. 104–287 made technical amendment to directory language of Pub. L. 103–272. See 1994 Amendment note below.
 
-1994—Par. (4)(B). Pub. L. 103–272, as amended by Pub. L. 104–287, substituted “agency.” for “agency” at end.
+<b>1994</b>—Par. (4)(B). Pub. L. 103–272, as amended by Pub. L. 104–287, substituted “agency.” for “agency” at end.
 
-1986—Par. (4)(B). Pub. L. 99–547 substituted “assistance from an agency for an agency” for “a department, agency, or instrumentality of the Government.”
+<b>1986</b>—Par. (4)(B). Pub. L. 99–547 substituted “assistance from an agency for an agency” for “a department, agency, or instrumentality of the Government.”
 
-1983—Pars. (5), (6). Pub. L. 98–169, §1(1), added pars. (5) and (6).
+<b>1983</b>—Pars. (5), (6). Pub. L. 98–169, §1(1), added pars. (5) and (6).
 
 Par. (7). Pub. L. 98–169, §3(a), added par. (7).
 
@@ -114,7 +114,7 @@ Pub. L. 110–252, title VI, §6201, June 30, 2008, 122 Stat. 2387, provided tha
 
 #### Role of Interagency Committee on Debarment and Suspension
 
-Pub. L. 110–417, \[div. A\], title VIII, §873, Oct. 14, 2008, 122 Stat. 4557, provided that:
+Pub. L. 110–417, \[div. A\], title VIII, §873, Oct. 14, 2008, 122 Stat. 4557, as amended by Pub. L. 111–383, div. A, title X, §1075(e)(16), Jan. 7, 2011, 124 Stat. 4375, provided that:
 
 “(a)
 
@@ -126,7 +126,7 @@ Requirement.—The Interagency Committee on Debarment and Suspension shall—
 
 &emsp;“(3) encourage and assist Federal agencies in entering into cooperative efforts to pool resources and achieve operational efficiencies in the Governmentwide suspension and debarment system;
 
-&emsp;“(4) recommend to the Office of Management and Budget changes to \[the\] Government suspension and debarment system and its rules, if such recommendations are approved by a majority of the Interagency Committee;
+&emsp;“(4) recommend to the Office of Management and Budget changes to the Government suspension and debarment system and its rules, if such recommendations are approved by a majority of the Interagency Committee;
 
 &emsp;“(5) authorize the Office of Management and Budget to issue guidelines that implement those recommendations;
 
@@ -142,7 +142,7 @@ Requirement.—The Interagency Committee on Debarment and Suspension shall—
 
 “(b)
 
-Definition.—The term ‘Interagency Committee on Debarment and Suspension’ means such committee constituted under sections 4 and 5 and of Executive Order No. 12549 \[set out below\].”
+Definition.—The term ‘Interagency Committee on Debarment and Suspension’ means such committee constituted under sections 4 and 5 and \[sic\] of Executive Order No. 12549 \[set out below\].”
 
 #### Federal Funding Accountability and Transparency
 
@@ -224,7 +224,7 @@ In General.—
 
 &emsp;“(1)
 
-Website.—Not later than January 1, 2008, the Office of Management and Budget shall, in accordance with this section, section 204 of the E-Government Act of 2002 (Public Law 107–347; 44 U.S.C. 3501 note), and the Office of Federal Procurement Policy Act (41 U.S.C. 403 \[401\] et seq.), ensure the existence and operation of a single searchable website, accessible by the public at no cost to access, that includes for each Federal award—
+Website.—Not later than January 1, 2008, the Office of Management and Budget shall, in accordance with this section, section 204 of the E-Government Act of 2002 (Public Law 107–347; 44 U.S.C. 3501 note), and the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 403 \[401\] et seq.) \[now division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41\], ensure the existence and operation of a single searchable website, accessible by the public at no cost to access, that includes for each Federal award—
 
 &emsp;&emsp;“(A) the name of the entity receiving the award;
 
@@ -458,7 +458,7 @@ In General.—Except as provided under subsection (b), not later than 18 months 
 
 &emsp;“(6) ensures recipients of Federal financial assistance provide timely, complete, and high quality information in response to Federal reporting requirements; and
 
-&emsp;“(7) in cooperation with recipients of Federal financial assistance, establishes specific annual goals and objectives to further the purposes of this Act and measure annual performance in achieving those goalsand objectives, which may be done as part of the agency's annual planning responsibilities under the Government Performance and Results Act of 1993 (Public Law 103–62; 107 Stat. 285) \[see Short Title of 1993 Amendment note set out under section 1101 of this title\].
+&emsp;“(7) in cooperation with recipients of Federal financial assistance, establishes specific annual goals and objectives to further the purposes of this Act and measure annual performance in achieving those goals and objectives, which may be done as part of the agency's annual planning responsibilities under the Government Performance and Results Act of 1993 (Public Law 103–62; 107 Stat. 285) \[see Short Title of 1993 Amendment note set out under section 1101 of this title\].
 
 “(b)
 
@@ -570,7 +570,7 @@ Authority To Grant Exception.—The regulations issued pursuant to subsection (a
 
 Definitions.—In this section:
 
-&emsp;“(1) The term ‘procurement activities’ means all acquisition programs and activities of the Federal Government, as defined in the Federal Acquisition Regulation. Such term includes subcontracts at any tier, other than subcontracts for commercially available off-the-shelf items (as defined in section 35(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 431(c))), except that in the case of a contract for commercial items, such term includes only first-tier subcontracts.
+&emsp;“(1) The term ‘procurement activities’ means all acquisition programs and activities of the Federal Government, as defined in the Federal Acquisition Regulation. Such term includes subcontracts at any tier, other than subcontracts for commercially available off-the-shelf items (as defined in section 35(c) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 431(c)) \[now 41 U.S.C. 104\]), except that in the case of a contract for commercial items, such term includes only first-tier subcontracts.
 
 &emsp;“(2) The term ‘nonprocurement activities’ means all programs and activities involving Federal financial and nonfinancial assistance and benefits, as covered by Executive Order No. 12549 and the Office of Management and Budget guidelines implementing that order.
 
@@ -578,7 +578,7 @@ Definitions.—In this section:
 
 #### Transfer of Personnel, Property, Records, and Appropriations
 
-Section 7 of Pub. L. 98–169 provided that: “The Director of the Office of Management and Budget shall transfer to the Administrator of General Services such personnel, property, records, and unexpended balances of appropriations available in connection with any authorities and responsibilities so transferred, as the Director of the Office of Management and Budget determines are necessary to carry out the responsibilities transferred pursuant to this Act \[enacting sections 6105 and 6106 of this title, amending sections 6101 to 6104 of this title and repealing section 6105 of this title\].”
+Section 7 of Pub. L. 98–169 provided that: “The Director of the Office of Management and Budget shall transfer to the Administrator of General Services suchpersonnel, property, records, and unexpended balances of appropriations available in connection with any authorities and responsibilities so transferred, as the Director of the Office of Management and Budget determines are necessary to carry out the responsibilities transferred pursuant to this Act \[enacting sections 6105 and 6106 of this title, amending sections 6101 to 6104 of this title and repealing section 6105 of this title\].”
 
 #### Ex. Ord. No. 12549. Debarment and Suspension of Participants in Federal Programs
 
@@ -636,7 +636,7 @@ Sec. 3. <i>Implementation.</i>
 
 (a) The Office of Management and Budget may assist Federal agencies in resolving differences between the provisions contained in the Federal Acquisition Regulation and in regulations issued pursuant to Executive Order No. 12549. The Office of Management and Budget may determine the date of resolution of differences and then shall notify affected agencies of that date.
 
-(b) To implement this order, proposed regulations amending the Federal Acquisition Regulation and the agency regulations issued pursuant to Executive Order No. 12549 shall be published simultaneously within 6 months of the resolution of differences.
+(b) To implement this order, proposed regulations amending the Federal Acquisition Regulation and theagency regulations issued pursuant to Executive Order No. 12549 shall be published simultaneously within 6 months of the resolution of differences.
 
 (c) Final regulations shall be published simultaneously within 12 months of the publication of the proposed regulations, to be effective 30 days thereafter.
 

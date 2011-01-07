@@ -30,7 +30,7 @@ Section was enacted as part of the Federal Fire Prevention and Control Act of 19
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–503 substituted “in cooperation with the Director” for “in cooperation with the Secretary”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–503 substituted “in cooperation with the Director” for “in cooperation with the Secretary”.
 
 #### Change of Name
 

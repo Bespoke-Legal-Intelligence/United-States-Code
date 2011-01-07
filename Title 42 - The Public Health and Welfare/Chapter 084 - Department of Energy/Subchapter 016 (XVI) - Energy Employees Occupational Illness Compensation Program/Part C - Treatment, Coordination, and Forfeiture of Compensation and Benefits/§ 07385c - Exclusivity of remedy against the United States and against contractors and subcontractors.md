@@ -42,5 +42,5 @@ This section applies with respect to part E to the covered medical condition or 
 
 #### Amendments
 
-2004—Subsec. (d). Pub. L. 108–375 added subsec. (d).
+<b>2004</b>—Subsec. (d). Pub. L. 108–375 added subsec. (d).
 

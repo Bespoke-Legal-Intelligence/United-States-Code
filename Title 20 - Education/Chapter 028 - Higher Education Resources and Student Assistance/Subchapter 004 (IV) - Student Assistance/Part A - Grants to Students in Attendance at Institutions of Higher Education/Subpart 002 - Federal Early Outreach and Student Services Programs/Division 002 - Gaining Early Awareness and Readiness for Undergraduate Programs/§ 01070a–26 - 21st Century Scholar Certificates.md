@@ -16,7 +16,7 @@ A prior section 1070a–26, Pub. L. 89–329, title IV, §404F, as added Pub. L.
 
 #### Amendments
 
-2008—Pub. L. 110–315 added subsecs. (a) and (b) and struck out former subsecs. (a) and (b), which related to the provision of 21st Century Scholar Certificates and required that such Certificates be personalized for each student.
+<b>2008</b>—Pub. L. 110–315 added subsecs. (a) and (b) and struck out former subsecs. (a) and (b), which related tothe provision of 21st Century Scholar Certificates and required that such Certificates be personalized for each student.
 
-1999—Subsec. (a)(2). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
+<b>1999</b>—Subsec. (a)(2). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 

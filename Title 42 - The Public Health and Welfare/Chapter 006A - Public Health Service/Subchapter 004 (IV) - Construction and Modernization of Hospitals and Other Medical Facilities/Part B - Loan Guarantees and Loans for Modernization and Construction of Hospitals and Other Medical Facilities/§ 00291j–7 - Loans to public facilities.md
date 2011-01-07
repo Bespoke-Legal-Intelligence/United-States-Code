@@ -2,7 +2,7 @@
 
 #### (a) Interest rates; security; equitable geographical distribution
 
-(1) Any loan made by the Secretary to a public agency under this part for the modernization orconstruction of a public hospital or other health facility shall require such public agency to pay interest thereon at a rate comparable to the current rate of interest prevailing with respect to loans, to nonprofit private agencies, which are guaranteed under this part, for the modernization or construction of similar facilities in the same or similar areas, minus 3 per centum per annum.
+(1) Any loan made by the Secretary to a public agency under this part for the modernization or construction of a public hospital or other health facility shall require such public agency to pay interest thereon at a rate comparable to the current rate of interest prevailing with respect to loans, to nonprofit private agencies, which are guaranteed under this part, for the modernization or construction of similar facilities in the same or similar areas, minus 3 per centum per annum.
 
 (2)(A) No loan to a public agency shall be made under this part unless—
 
@@ -30,7 +30,7 @@
 
 (2) Any such agreement—
 
-&emsp;(A) may provide that the Secretary shall act as agent of any such purchaser, for the purpose of collecting from the public agency to which such loan was made and paying over to such purchaser, any payments of principal and interest payable by such agency under such loan;
+&emsp;(A) may provide that the Secretary shall act as agent of any such purchaser, for the purpose of collecting from the public agency to which such loan was made and paying over to such purchaser, any payments of principal andinterest payable by such agency under such loan;
 
 &emsp;(B) may provide for the repurchase by the Secretary of any such loan on such terms and conditions as may be specified in the agreement;
 
@@ -58,7 +58,7 @@ There is authorized to be appropriated to the Secretary, for deposit in the loan
 
 #### Amendments
 
-1986—Subsec. (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 #### Commitments for Direct Loans to Public Agencies
 

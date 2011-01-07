@@ -74,5 +74,5 @@ A prior section 974, added Pub. L. 90–235, §6(a)(6)(A), Jan. 2, 1968, 81 Stat
 
 #### Amendments
 
-2009—Pub. L. 111–84 amended section generally. Prior to amendment, section related to uniform performance policies for military bands and other musical units.
+<b>2009</b>—Pub. L. 111–84 amended section generally. Prior to amendment, section related to uniform performance policies for military bands and other musical units.
 

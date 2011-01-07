@@ -34,7 +34,7 @@ A distribution of property to a shareholder by a corporation in redemption of pa
 
 #### (B) Special rule for stock of two or more corporations
 
-&emsp;&emsp;For purposes of subparagraph (A), stock of 2 or more corporations, with respect to each of which there is included in determining the value of the decedent's gross estate 20 percent or more in value of the outstanding stock, shall be treated as the stock of a single corporation. For purposes of the 20-percent requirement of the preceding sentence, stock which, at the decedent's death, represents the surviving spouse's interest in property held by the decedent and the surviving spouse as community property or as joint tenants, tenants by the entirety, or tenants in common shall be treated as having been included in determining the value of the decedent's gross estate.
+&emsp;&emsp;For purposes of subparagraph (A), stock of 2 or more corporations, with respect to each of which there is included in determining the value of the decedent's gross estate 20 percent or more in value of the outstandingstock, shall be treated as the stock of a single corporation. For purposes of the 20-percent requirement of the preceding sentence, stock which, at the decedent's death, represents the surviving spouse's interest in property held by the decedent and the surviving spouse as community property or as joint tenants, tenants by the entirety, or tenants in common shall be treated as having been included in determining the value of the decedent's gross estate.
 
 #### (3) Relationship of shareholder to estate tax
 
@@ -76,7 +76,7 @@ Where stock in a corporation is the subject of a generation-skipping transfer (w
 
 #### Amendments
 
-1986—Subsec. (d). Pub. L. 99–514 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Under regulations prescribed by the Secretary, where stock in a corporation is subject to tax under section 2601 as a result of a generation-skipping transfer (within the meaning of section 2611(a)), which occurs at or after the death of the deemed transferor (within the meaning of section 2612)—
+<b>1986</b>—Subsec. (d). Pub. L. 99–514 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Under regulations prescribed by the Secretary, where stock in a corporation is subject to tax under section 2601 as a result of a generation-skipping transfer (within the meaning of section 2611(a)), which occurs at or after the death of the deemed transferor (within the meaning of section 2612)—
 
 &emsp;“(1) the stock shall be deemed to be included in the gross estate of the deemed transferor;
 
@@ -86,13 +86,13 @@ Where stock in a corporation is the subject of a generation-skipping transfer (w
 
 &emsp;“(4) the relationship of stock to the decedent's estate shall be measured with reference solely to the amount of the generation-skipping transfer.”
 
-1981—Subsec. (b)(1)(C). Pub. L. 97–34, §422(e)(1), struck out “or 6166A” after “section 6166” in two places.
+<b>1981</b>—Subsec. (b)(1)(C). Pub. L. 97–34, §422(e)(1), struck out “or 6166A” after “section 6166” in two places.
 
 Subsec. (b)(2)(A). Pub. L. 97–34, §422(b)(1), substituted “35” for “50” before percent.
 
 Subsec. (b)(2)(B). Pub. L. 97–34, §422(b)(2), in heading, substituted “stock in 2” for “stock of two”, in first sentence, struck out “the 50 percent requirement” before “of subparagraph (A)” and substituted “2” for “two” and “20 percent or more in value” for “more than 75 percent in value”, and, in last sentence, substituted “For purposes of the 20-percent requirement” for “For the purpose of the 75 percent requirement” and, in determining value of decedent's gross estate, treated the estate as including stock which at decedent's death represented surviving spouse's interest in property held by the decedent and surviving spouse either as joint tenants, tenants by the entirety, or tenants in common.
 
-1976—Subsec. (b)(1)(C). Pub. L. 94–455, §2004(e)(1), added subpar. (C).
+<b>1976</b>—Subsec. (b)(1)(C). Pub. L. 94–455, §2004(e)(1), added subpar. (C).
 
 Subsec. (b)(2)(A). Pub. L. 94–455, §2004(e)(2)(A), substituted provisions limiting the applicability of subsec. (a) to corporate distributions in which the value of the corporate stock included in decedent's gross estate exceeds 50 percent of the gross estate over deductions allowed under sections 2053 and 2054 for provisions limiting the applicability of subsec. (a) to corporate distributions in which the value of the corporate stock included in decedent's gross estate is either more than 35 percent of the gross estate or 50 percent of the taxable estate.
 
@@ -106,7 +106,7 @@ Subsec. (d). Pub. L. 94–455, §2006(b)(4), added subsec. (d).
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as an Effective Date note under section 2601 of this title.
+Amendment by Pub. L. 99–514 applicable to generation-skipping transfers (within the meaning of section2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as an Effective Date note under section 2601 of this title.
 
 #### Effective Date of 1981 Amendment
 

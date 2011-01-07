@@ -14,7 +14,7 @@ Section was formerly classified to section 1173 of this title, and prior thereto
 
 #### Amendments
 
-1948—Act June 25, 1948, repealed second sentence relating to authenticated copies of consular acts received as evidence.
+<b>1948</b>—Act June 25, 1948, repealed second sentence relating to authenticated copies of consular acts received as evidence.
 
 #### Effective Date of 1948 Amendment
 

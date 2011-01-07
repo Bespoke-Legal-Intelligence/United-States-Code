@@ -4,11 +4,7 @@ Notwithstanding any other provision of law, the Secretary of Agriculture is auth
 
 (Mar. 4, 1927, ch. 505, §5, as added Pub. L. 94–129, Nov. 13, 1975, 89 Stat. 683; amended Pub. L. 104–127, title VIII, §890(a), Apr. 4, 1996, 110 Stat. 1181.)
 
-#### References in Text
-
-The Federal income, estate, and gift tax laws, referred to in text, are classified generally to Title 26, Internal Revenue Code.
-
 #### Amendments
 
-1996—Pub. L. 104–127 inserted “solicit,” after “authorized to” in first sentence.
+<b>1996</b>—Pub. L. 104–127 inserted “solicit,” after “authorized to” in first sentence.
 

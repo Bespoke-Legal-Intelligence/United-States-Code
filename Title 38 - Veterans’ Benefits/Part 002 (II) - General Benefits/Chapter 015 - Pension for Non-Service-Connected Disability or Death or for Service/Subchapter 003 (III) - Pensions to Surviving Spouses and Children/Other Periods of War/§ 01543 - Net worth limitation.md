@@ -1,6 +1,6 @@
 ### §1543. Net worth limitation
 
-(a)(1) The Secretary shall deny or discontinue payment of pension to a surviving spouse under section 1541 of this title when the corpus of the estate of the surviving spouse is such that under all the circumstances, including consideration of the income of the surviving spouse and the income of any child from whom the surviving spouse is receiving increased pension, it is reasonable that some part of the corpus of such estate be consumed for the surviving spouse's maintenance.
+(a)(1) The Secretary shall deny or discontinue payment of pension to a surviving spouse under section 1541 of this title when the corpus of the estate of the surviving spouse is such that under all the circumstances, including consideration of the income of the surviving spouse and the income of any child from whom the survivingspouse is receiving increased pension, it is reasonable that some part of the corpus of such estate be consumed for the surviving spouse's maintenance.
 
 (2) The Secretary shall deny or discontinue the payment of increased pension under subsection (c), (d), or (e) of section 1541 of this title on account of a child when the corpus of such child's estate is such that under all the circumstances, including consideration of the income of the surviving spouse and such child and the income of any other child for whom the surviving spouse is receiving increased pension, it is reasonable that some part of the corpus of the child's estate be consumed for the child's maintenance. During the period such denial or discontinuance remains in effect, such child shall not be considered as the surviving spouse's child for purposes of this chapter.
 
@@ -10,7 +10,7 @@
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 543 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 543 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “1541” for “541” in pars. (1) and (2).
 
@@ -20,11 +20,11 @@ Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “1542” for “542”.
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1978—Pub. L. 95–588 designated existing provisions relating to denial or discontinuance of pension payments to surviving spouses as subsec. (a), expanded existing provisions relating to denial or discontinuance of pension payments to children of veterans, and designated such expanded provisions as subsecs. (a)(2) and (b).
+<b>1978</b>—Pub. L. 95–588 designated existing provisions relating to denial or discontinuance of pension payments to surviving spouses as subsec. (a), expanded existing provisions relating to denial or discontinuance of pension payments to children of veterans, and designated such expanded provisions as subsecs. (a)(2) and (b).
 
-1975—Pub. L. 94–169 substituted “surviving spouse” for “widow”.
+<b>1975</b>—Pub. L. 94–169 substituted “surviving spouse” for “widow”.
 
-1959—Pub. L. 86–211 substituted provisions requiring the denial or discontinuance of payment of pension to a widow or child when the corpus of the estate of the survivor concerned is such that under all the circumstances, including consideration of income, it is reasonable that some part of the corpus be consumed for the survivor's maintenance for provisions which authorized the payment of a pension to widows of World War II or Korean conflict veterans. See section 1541 of this title.
+<b>1959</b>—Pub. L. 86–211 substituted provisions requiring the denial or discontinuance of payment of pension to a widow or child when the corpus of the estate of the survivor concerned is such that under all the circumstances, including consideration of income, it is reasonable that some part of the corpus be consumed for the survivor's maintenance for provisions which authorized the payment of a pension to widows of World War II or Korean conflict veterans. See section 1541 of this title.
 
 #### Effective Date of 1978 Amendment
 

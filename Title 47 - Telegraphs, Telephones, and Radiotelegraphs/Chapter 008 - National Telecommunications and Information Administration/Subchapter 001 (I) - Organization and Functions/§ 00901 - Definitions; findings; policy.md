@@ -48,7 +48,7 @@ The NTIA shall seek to advance the following policies:
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original, “this title”, meaning title I of Pub. L. 102–538, Oct. 27, 1992, 106 Stat. 3533, which is classified principally to this chapter. For complete classification ofthis Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (a), was in the original, “this title”, meaning title I of Pub. L. 102–538, Oct. 27, 1992, 106 Stat. 3533, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 The Communications Satellite Act of 1962, referred to in subsec. (a)(5), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419, as amended. Title III of the Act is classified generally to subchapter III (§731 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
@@ -60,7 +60,7 @@ Pub. L. 110–53, title XXIII, §2301, Aug. 3, 2007, 121 Stat. 543, as amended b
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–494, title I, §101, Dec. 23, 2004, 118 Stat. 3986, provided that: “This title \[enacting section 942 of this title and provisions set out as notes under section 942 of this title\] may be cited as the ‘Ensuring Needed Help Arrives Near Callers Employing 911 Act of 2004’ or the ‘ENHANCE 911 Act of 2004’.”
+Pub. L. 108–494, title I, §101, Dec. 23, 2004, 118 Stat. 3986, provided that: “This title \[enacting section 942 ofthis title and provisions set out as notes under section 942 of this title\] may be cited as the ‘Ensuring Needed Help Arrives Near Callers Employing 911 Act of 2004’ or the ‘ENHANCE 911 Act of 2004’.”
 
 Pub. L. 108–494, title II, §201, Dec. 23, 2004, 118 Stat. 3991, provided that: “This title \[enacting section 928 of this title, amending sections 309, 614, and 923 of this title, and enacting provisions set out as notes under sections 921, 923, and 928 of this title\] may be cited as the ‘Commercial Spectrum Enhancement Act’.”
 

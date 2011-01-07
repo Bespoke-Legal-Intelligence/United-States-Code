@@ -60,7 +60,7 @@ Not later than 24 months after November 7, 2000, the Administrator shall develop
 
 &emsp;&emsp;(M) Transfer of ownership of the Mexican facility to an appropriate governmental entity, other than the United States, if the owner of the Mexican facility fails to perform under the contract.
 
-&emsp;&emsp;(N) The use of competitive procedures under applicable law, consistent with title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.), by the owner of the Mexican facility in the procurement of property or services for the engineering, construction, and operation and maintenance of the Mexican facility.
+&emsp;&emsp;(N) The use of competitive procedures under applicable law, consistent with division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, by the owner of the Mexican facility in the procurement of property or services for the engineering, construction, and operation and maintenance of the Mexican facility.
 
 &emsp;&emsp;(O) An opportunity for the Commission to review and approve the selection of contractors providing engineering, construction, and operation and maintenance for the Mexican facility.
 
@@ -86,15 +86,17 @@ Not later than 24 months after November 7, 2000, the Administrator shall develop
 
 Section 510(b)(2) of the Water Quality Act of 1987, referred to in subsec. (a)(1), is section 510(b)(2) of Pub. L. 100–4, title V, Feb. 4, 1987, 101 Stat. 81, which is not classified to the Code.
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(2)(N), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
-
 Subparagraph (N) of subsec. (c)(2) of this section, referred to in subsec. (c)(2)(Q), was redesignated as subparagraph (P) by Pub. L. 108–425, §1(b)(3), Nov. 30, 2004, 118 Stat. 2420.
+
+#### Codification
+
+In subsec. (c)(2)(N), “division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-2004—Subsec. (a)(1). Pub. L. 108–425, §1(a), substituted “Pursuant to Treaty Minute 311 to the Treaty for the Utilization of Waters of the Colorado and Tijuana Rivers and of the Rio Grande, dated February 3, 1944,” for “Subject to the negotiation and conclusion of a new Treaty Minute or the amendment of Treaty Minute 283 under section 1005 of this Act,”.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–425, §1(a), substituted “Pursuant to Treaty Minute 311 to the Treaty for the Utilization of Waters of the Colorado and Tijuana Rivers and of the Rio Grande, dated February 3, 1944,” for “Subject to the negotiation and conclusion of a new Treaty Minute or the amendment of Treaty Minute 283 under section 1005 of this Act,”.
 
-Subsec. (c)(1). Pub. L. 108–425, §1(b)(1), added par. (1) and struck out former par. (1) which read as follows: “Subject to the availability of appropriations to carry out this subsection and notwithstanding any provision of Federal procurement law, upon conclusion of a new Treaty Minute or the amendment of Treaty Minute 283under section 5, the Commission may enter into a fee-for-services contract with the owner of a Mexican facility in order to carry out the secondary treatment requirements of subsection (a) of this section and make payments under such contract.”
+Subsec. (c)(1). Pub. L. 108–425, §1(b)(1), added par. (1) and struck out former par. (1) which read as follows: “Subject to the availability of appropriations to carry out this subsection and notwithstanding any provision of Federal procurement law, upon conclusion of a new Treaty Minute or the amendment of Treaty Minute 283 under section 5, the Commission may enter into a fee-for-services contract with the owner of a Mexican facility in order to carry out the secondary treatment requirements of subsection (a) of this section and make payments under such contract.”
 
 Subsec. (c)(2)(I). Pub. L. 108–425, §1(b)(2), substituted “, including costs associated with the purchase of any insurance or other financial instrument under subparagraph (K). Costs associated with the purchase of such insurance or other financial instrument may be amortized over the term of the contract.” for “, with such annual payment to maintain the owner's 20 percent equity position throughout the term of the contract.”
 

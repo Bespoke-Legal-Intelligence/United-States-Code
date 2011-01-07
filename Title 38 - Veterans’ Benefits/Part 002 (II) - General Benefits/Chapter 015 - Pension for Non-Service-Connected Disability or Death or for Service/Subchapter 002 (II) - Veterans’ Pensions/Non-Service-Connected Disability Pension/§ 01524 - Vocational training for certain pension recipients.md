@@ -2,7 +2,7 @@
 
 (a)(1) In the case of a veteran under age 45 who is awarded a pension during the program period, the Secretary shall, based on information on file with the Department of Veterans Affairs, make a preliminary finding whether such veteran, with the assistance of a vocational training program under this section, has a good potential for achieving employment. If such potential is found to exist, the Secretary shall solicit from the veteran an application for vocational training under this section. If the veteran thereafter applies for such training, the Secretary shall provide the veteran with an evaluation, which may include a personal interview, to determine whether the achievement of a vocational goal is reasonably feasible.
 
-(2) If a veteran who is 45 years of age or older and is awarded pension during the program period, or a veteran who was awarded pension before the beginning of the program period, applies for vocational training under this section and the Secretary makes a preliminary finding on the basis of information in the application that, with the assistance of a vocational training program under subsection (b) of this section, theveteran has a good potential for achieving employment, the Secretary shall provide the veteran with an evaluation in order to determine whether the achievement of a vocational goal by the veteran is reasonably feasible. Any such evaluation shall include a personal interview by a Department employee trained in vocational counseling.
+(2) If a veteran who is 45 years of age or older and is awarded pension during the program period, or a veteran who was awarded pension before the beginning of the program period, applies for vocational training under this section and the Secretary makes a preliminary finding on the basis of information in the application that, with the assistance of a vocational training program under subsection (b) of this section, the veteran has a good potential for achieving employment, the Secretary shall provide the veteran with an evaluation in order to determine whether the achievement of a vocational goal by the veteran is reasonably feasible. Any such evaluation shall include a personal interview by a Department employee trained in vocational counseling.
 
 (3) For the purposes of this section, the term “program period” means the period beginning on February 1, 1985, and ending on December 31, 1995.
 
@@ -24,7 +24,7 @@
 
 (c) In the case of a veteran who has been determined to have a permanent and total non-service-connected disability and who, not later than one year after the date the veteran's eligibility for counseling under subsection (b)(3) of this section expires, secures employment within the scope of a vocational goal identified in the veteran's individualized written plan of vocational rehabilitation (or in a related field which requires reasonably developed skills and the use of some or all of the training or services furnished the veteran under such plan), the evaluation of the veteran as having a permanent and total disability may not be terminated by reason of the veteran's capacity to engage in such employment until the veteran first maintains such employment for a period of not less than 12 consecutive months.
 
-(d) A veteran who pursues a vocational training program under subsection (b) of this section shall have the benefit of the provisions of subsection (a) of section 1525 of this title beginning at such time as the veteran's entitlement to pension is terminated by reason of income from work or training (as defined in subsection (b)(1) of that section) without regard to the date on which the veteran's entitlement to pension is terminated.
+(d) A veteran who pursues a vocational training program under subsection (b) of this section shall have the benefit of the provisions of subsection (a) of section 1525 of this title beginning at such time as the veteran's entitlement to pension is terminated by reason of income from work or training (as defined in subsection (b)(1)of that section) without regard to the date on which the veteran's entitlement to pension is terminated.
 
 (e) Payments by the Secretary for education, training, and other services and assistance under subsection (b) of this section (other than the services of Department employees) shall be made from the Department appropriations account from which payments for pension are made.
 
@@ -32,11 +32,11 @@
 
 #### Amendments
 
-1994—Subsec. (a)(2). Pub. L. 103–446 substituted “If” for “Subject to paragraph (3) of this subsection, if”.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–446 substituted “If” for “Subject to paragraph (3) of this subsection, if”.
 
-1992—Pub. L. 102–568, §402(c)(2)(A), substituted “Vocational training for certain pension recipients” for “Temporary program of vocational training for certain new pension recipients” as section catchline.
+<b>1992</b>—Pub. L. 102–568, §402(c)(2)(A), substituted “Vocational training for certain pension recipients” for “Temporary program of vocational training for certain new pension recipients” as section catchline.
 
-Subsec. (a)(1). Pub. L. 102–568, §402(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to paragraph (3) of this subsection, in the case of a veteran under the age of 45 who is awarded pension during the program period, the Secretary shall determine whether the achievement of a vocational goal by the veteran is reasonably feasible. Any such determination shall be made only after evaluation of the veteran's potential for rehabilitation, and any such evaluation shall include a personal interview of the veteran by a Department employee who is trained invocational counseling. If the veteran fails, for reasons other than those beyond the veteran's control, to participate in the evaluation in the manner required by the Secretary in order to make such determination, the Secretary shall suspend the veteran's pension for the duration of such failure.”
+Subsec. (a)(1). Pub. L. 102–568, §402(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to paragraph (3) of this subsection, in the case of a veteran under the age of 45 who is awarded pension during the program period, the Secretary shall determine whether the achievement of a vocational goal by the veteran is reasonably feasible. Any such determination shall be made only after evaluation of the veteran's potential for rehabilitation, and any such evaluation shall include a personal interview of the veteran by a Department employee who is trained in vocational counseling. If the veteran fails, for reasons other than those beyond the veteran's control, to participate in the evaluation in the manner required by the Secretary in order to make such determination, the Secretary shall suspend the veteran's pension for the duration of such failure.”
 
 Subsec. (a)(3). Pub. L. 102–568, §402(b), redesignated par. (4) as (3), substituted “December 31, 1995” for “December 31, 1992”, and struck out former par. (3) which read as follows: “Not more than 3,500 veterans may be given evaluations under this subsection during any 12-month period beginning on February 1 of a year.”
 
@@ -46,7 +46,7 @@ Pub. L. 102–291 substituted “December 31, 1992” for “January 31, 1992”
 
 Subsec. (b)(4). Pub. L. 102–568, §402(c)(1), substituted “December 31, 1995” for “January 31, 1992”.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 524 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 524 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing in pars. (1) and (2).
 
@@ -74,17 +74,17 @@ Subsec. (e). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” fo
 
 Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
 
-1989—Subsec. (a)(1), (2). Pub. L. 101–237, §114(a), substituted “45” for “50”.
+<b>1989</b>—Subsec. (a)(1), (2). Pub. L. 101–237, §114(a), substituted “45” for “50”.
 
 Subsecs. (c) to (e). Pub. L. 101–237, §114(b), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-1988—Subsec. (a)(2). Pub. L. 100–687, §1303(a), substituted “is awarded pension during the program period, or a veteran who was awarded pension before the beginning of the program period,” for “who is awarded pension during the program period”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–687, §1303(a), substituted “is awarded pension during the program period, or a veteran who was awarded pension before the beginning of the program period,” for “who is awarded pension during the program period”.
 
 Subsecs. (a)(4), (b)(4)(A). Pub. L. 100–687, §1303(b), substituted “1992” for “1989”.
 
-1987—Subsec. (a)(3). Pub. L. 100–227 substituted “3,500” for “2,500”.
+<b>1987</b>—Subsec. (a)(3). Pub. L. 100–227 substituted “3,500” for “2,500”.
 
-1986—Subsec. (a)(2). Pub. L. 99–576, §703(b)(1)(A), substituted “subsection (b) of this section” for “subsection (d) of this section”.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–576, §703(b)(1)(A), substituted “subsection (b) of this section” for “subsection (d) of this section”.
 
 Subsec. (b)(4). Pub. L. 99–576, §703(b)(1)(B), substituted “subsection (a) of this section” for “subsection (a)(1) of this section”.
 

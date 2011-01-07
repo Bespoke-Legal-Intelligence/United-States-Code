@@ -14,9 +14,9 @@ It shall be unlawful for any creditor to discriminate against any applicant, wit
 
 It shall not constitute discrimination for purposes of this subchapter for a creditor—
 
-&emsp;(1) to make an inquiry of marital status if such inquiry is for the purpose of ascertaining the creditor's rights and remedies applicable to the particular extension of credit and not to discriminate in a determination of credit-worthiness; <sup>1</sup>
+&emsp;(1) to make an inquiry of marital status if such inquiry is for the purpose of ascertaining the creditor's rights and remedies applicable to the particular extension of credit and not to discriminate in a determination of credit-worthiness;
 
-&emsp;(2) to make an inquiry of the applicant's age or of whether the applicant's income derives from any public assistance program if such inquiry is for the purpose of determining the amount and probable continuance of income levels, credit history, or other pertinent element of credit-worthiness <sup>1</sup> as provided in regulations of the Board;
+&emsp;(2) to make an inquiry of the applicant's age or of whether the applicant's income derives from any public assistance program if such inquiry is for the purpose of determining the amount and probable continuance of income levels, credit history, or other pertinent element of credit-worthiness as provided in regulations of the Board;
 
 &emsp;(3) to use any empirically derived credit system which considers age if such system is demonstrably and statistically sound in accordance with regulations of the Board, except that in the operation of such system the age of an elderly applicant may not be assigned a negative factor or value; or
 
@@ -56,21 +56,77 @@ It is not a violation of this section for a creditor to refuse to extend credit 
 
 Each creditor shall promptly furnish an applicant, upon written request by the applicant made within a reasonable period of time of the application, a copy of the appraisal report used in connection with the applicant's application for a loan that is or would have been secured by a lien on residential real property. The creditor may require the applicant to reimburse the creditor for the cost of the appraisal.
 
-(Pub. L. 90–321, title VII, §701, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1521; amended Pub. L. 94–239, §2, Mar. 23, 1976, 90 Stat. 251; Pub. L. 102–242, title II, §223(d), Dec. 19, 1991, 105 Stat. 2306.)
+(Pub. L. 90–321, title VII, §701, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1521; amended Pub. L. 94–239, §2, Mar. 23, 1976, 90 Stat. 251; Pub. L. 102–242, title II, §223(d), Dec. 19, 1991, 105 Stat. 2306; Pub. L. 111–203, title X, §§1071(b), 1085(1), title XIV, §1474, July 21, 2010, 124 Stat. 2059, 2083, 2199.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1085(1), 1100H, July 21, 2010, 124 Stat. 2083, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”. See Effective Date of 2010 Amendment note below.</i>
+
+<i>Pub. L. 111–203, title X, §§1071(b), (d), July 21, 2010, 124 Stat. 2059, provided that, effective on the designated transfer date, subsection (b) of this section is amended as follows:</i>
+
+<i>(1) in paragraph (3), by striking “or” at the end;</i>
+
+<i>(2) in paragraph (4), by striking the period at the end and inserting “; or”; and</i>
+
+<i>(3) by inserting after paragraph (4), the following:</i>
+
+&emsp;<i>“(5) to make an inquiry under section 1691c–2 of this title, in accordance with the requirements of that section.”</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
+
+<i>Pub. L. 111–203, title XIV, §§1400(c), 1474, July 21, 2010, 124 Stat. 2136, 2199, provided that, effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, subsection (e) of this section is amended to read as follows:</i>
+
+#### <i>“(e) Copies furnished to applicants</i>
+
+#### <i>“(1) In general</i>
+
+&emsp;<i>“Each creditor shall furnish to an applicant a copy of any and all written appraisals and valuations developed in connection with the applicant's application for a loan that is secured or would have been secured by a first lien on a dwelling promptly upon completion, but in no case later than 3 days prior to the closing of the loan, whether the creditor grants or denies the applicant's request for credit or the application is incomplete or withdrawn.</i>
+
+#### <i>“(2) Waiver</i>
+
+&emsp;<i>“The applicant may waive the 3 day requirement provided for in paragraph (1), except where otherwise required in law.</i>
+
+#### <i>“(3) Reimbursement</i>
+
+&emsp;<i>“The applicant may be required to pay a reasonable fee to reimburse the creditor for the cost of the appraisal, except where otherwise required in law.</i>
+
+#### <i>“(4) Free copy</i>
+
+&emsp;<i>“Notwithstanding paragraph (3), the creditor shall provide a copy of each written appraisal or valuation at no additional cost to the applicant.</i>
+
+#### <i>“(5) Notification to applicants</i>
+
+&emsp;<i>“At the time of application, the creditor shall notify an applicant in writing of the right to receive a copy of each written appraisal and valuation under this subsection.</i>
+
+#### <i>“(6) Valuation defined</i>
+
+&emsp;<i>“For purposes of this subsection, the term ‘valuation’ shall include any estimate of the value of a dwelling developed in connection with a creditor's decision to provide credit, including those values developed pursuant to a policy of a government sponsored enterprise or by an automated valuation model, a broker price opinion, or other methodology or mechanism.”</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
-1991—Subsec. (e). Pub. L. 102–242 added subsec. (e).
+<b>1991</b>—Subsec. (e). Pub. L. 102–242 added subsec. (e).
 
-1976—Subsec. (a). Pub. L. 94–239 designated existing provisions as cl. (1), expanded prohibition against discrimination to include race, color, religion, national origin and age, and added cls. (2) and (3).
+<b>1976</b>—Subsec. (a). Pub. L. 94–239 designated existing provisions as cl. (1), expanded prohibition against discrimination to include race, color, religion, national origin and age, and added cls. (2) and (3).
 
 Subsec. (b). Pub. L. 94–239 designated existing provisions as cl. (1) and added cls. (2) to (4).
 
 Subsecs. (c), (d). Pub. L. 94–239 added subsecs. (c) and (d).
 
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–203, title X, §1071(d), July 21, 2010, 124 Stat. 2059, provided that: “This section \[enacting section 1691c–2 of this title and amending this section\] shall become effective on the designated transfer date.”
+
+\[The term “designated transfer date” is defined in section 5481(9) of Title 12, Banks and Banking, as the date established under section 5582 of Title 12.\]
+
+Amendment by section 1085(1) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+
+Amendment by section 1474 of Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of this title.
+
 #### Effective Date
 
-Section 708, formerly §707, of title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, §503, Oct. 28,1974, 88 Stat. 1525, renumbered and amended by Pub. L. 94–239, §§7, 8, Mar. 23, 1976, 90 Stat. 255, provided that: “This title \[enacting this subchapter and provisions set out as notes under section 1691 of this title\] takes effect upon the expiration of one year after the date of its enactment \[Oct. 28, 1974\]. The amendments made by the Equal Credit Opportunity Act Amendments of 1976 \[enacting section 1691f of this title, amending this section and sections 1691b, 1691c, 1691d, and 1691e of this title, repealing section 1609 of this title, enacting provisions set out as notes under this section, and repealing provisions set out as a note under this section\] shall take effect on the date of enactment thereof \[Mar. 23, 1976\] and shall apply to any violation occurring on or after such date, except that the amendments made to section 701 of the Equal Credit Opportunity Act \[this section\] shall take effect 12 months after the date of enactment \[Mar. 23, 1976\].”
+Section 708, formerly §707, of title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1525, renumbered and amended by Pub. L. 94–239, §§7, 8, Mar. 23, 1976, 90 Stat. 255, provided that: “This title \[enacting this subchapter and provisions set out as notes under section 1691 of this title\] takes effect upon the expiration of one year after the date of its enactment \[Oct. 28, 1974\]. The amendments made by the Equal Credit Opportunity Act Amendments of 1976 \[enacting section 1691f of this title, amending this section and sections 1691b, 1691c, 1691d, and 1691e of this title, repealing section 1609 of this title, enacting provisions set out as notes under this section, and repealing provisions set out as a note under this section\] shall take effect on the date of enactment thereof \[Mar. 23, 1976\] and shall apply to any violation occurring on or after such date, except that the amendments made to section 701 of the Equal Credit Opportunity Act \[this section\] shall take effect 12 months after the date of enactment \[Mar. 23, 1976\].”
 
 #### Short Title
 
@@ -79,6 +135,4 @@ This subchapter known as the “Equal Credit Opportunity Act”, see Short Title
 #### Congressional Findings and Statement of Purpose
 
 Section 502 of Pub. L. 93–495 provided that: “The Congress finds that there is a need to insure that the various financial institutions and other firms engaged in the extensions of credit exercise their responsibility to make credit available with fairness, impartiality, and without discrimination on the basis of sex or marital status. Economic stabilization would be enhanced and competition among the various financial institutions and other firms engaged in the extension of credit would be strengthened by an absence of discrimination on the basis of sex or marital status, as well as by the informed use of credit which Congress has heretofore sought to promote. It is the purpose of this Act \[see Short Title note set out under section 1601 of this title\] to require that financial institutions and other firms engaged in the extension of credit make that credit equally available to all credit-worthy customers without regard to sex or marital status.”
-
-<i><sup>1</sup></i><i> So in original. Probably should not be hyphenated.</i>
 

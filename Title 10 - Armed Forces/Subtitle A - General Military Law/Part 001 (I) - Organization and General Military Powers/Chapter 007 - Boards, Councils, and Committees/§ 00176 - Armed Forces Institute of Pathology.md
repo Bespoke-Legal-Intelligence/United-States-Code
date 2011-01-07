@@ -4,7 +4,7 @@
 
 (2) The Institute shall consist of a Board of Governors, a Director, two Deputy Directors, and a staff of such professional, technical, and clerical personnel as may be required.
 
-(3) The Board of Governors shall consist of the Assistant Secretary of Defense for Health Affairs, who shall serve as chairman of the Board of Governors, the Assistant Secretary of Health and Human Services for Health, the Surgeons General of the Army, Navy, and Air Force, the Under Secretary for Health of the Departmentof Veterans Affairs, and a former Director of the Institute, as designated by the Secretary of Defense, or the designee of any of the foregoing.
+(3) The Board of Governors shall consist of the Assistant Secretary of Defense for Health Affairs, who shall serve as chairman of the Board of Governors, the Assistant Secretary of Health and Human Services for Health, the Surgeons General of the Army, Navy, and Air Force, the Under Secretary for Health of the Department of Veterans Affairs, and a former Director of the Institute, as designated by the Secretary of Defense, or the designee of any of the foregoing.
 
 (4) The Director and the Deputy Directors shall be appointed by the Secretary of Defense.
 
@@ -26,15 +26,15 @@
 
 #### Amendments
 
-2001—Subsec. (a)(3). Pub. L. 107–107 substituted “Under Secretary for Health” for “Chief Medical Director”.
+<b>2001</b>—Subsec. (a)(3). Pub. L. 107–107 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-1996—Subsec. (a)(3). Pub. L. 104–106, §903(a), (f)(1), which directed amendment of subsec. (a)(3), eff. Jan. 31, 1997, by substituting “official in the Department of Defense with principal responsibility for health affairs” for “Assistant Secretary of Defense for Health Affairs” and “Under Secretary for Health of the Department of Veterans Affairs” for “Chief Medical Director of the Department of Veterans Affairs”, was repealed by Pub. L. 104–201.
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–106, §903(a), (f)(1), which directed amendment of subsec. (a)(3), eff. Jan. 31, 1997, by substituting “official in the Department of Defense with principal responsibility for health affairs” for “Assistant Secretary of Defense for Health Affairs” and “Under Secretary for Health of the Department of Veterans Affairs” for “Chief Medical Director of the Department of Veterans Affairs”, was repealed by Pub. L. 104–201.
 
-1993—Subsec. (c). Pub. L. 103–160 inserted at end “The Secretary of Defense, on a case-by-case basis, may waive the limitation on the number of distinguished pathologists or scientists with whom agreements may be entered into under this subsection if the Secretary determines that such waiver is in the best interest of the Department of Defense.”
+<b>1993</b>—Subsec. (c). Pub. L. 103–160 inserted at end “The Secretary of Defense, on a case-by-case basis, may waive the limitation on the number of distinguished pathologists or scientists with whom agreements may be entered into under this subsection if the Secretary determines that such waiver is in the best interest of the Department of Defense.”
 
-1989—Subsec. (a)(3). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1989</b>—Subsec. (a)(3). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1980—Subsec. (a)(3). Pub. L. 96–513, §511(6)(A), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+<b>1980</b>—Subsec. (a)(3). Pub. L. 96–513, §511(6)(A), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
 Subsec. (b)(1)(A). Pub. L. 96–513, §511(6)(B), inserted “of this title” after “177”.
 

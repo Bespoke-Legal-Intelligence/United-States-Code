@@ -10,7 +10,7 @@ In carrying out an agreement under this section, the Secretary shall—
 
 #### (b) Application of other laws
 
-The Secretary may enter into agreements under this section with weed management entities notwithstanding sections 6301 through 6309of title 31 and other laws relating to the procurement of goods and services for the Federal Government.
+The Secretary may enter into agreements under this section with weed management entities notwithstanding sections 6301 through 6309 of title 31 and other laws relating to the procurement of goods and services for the Federal Government.
 
 #### (c) Eligible activities
 

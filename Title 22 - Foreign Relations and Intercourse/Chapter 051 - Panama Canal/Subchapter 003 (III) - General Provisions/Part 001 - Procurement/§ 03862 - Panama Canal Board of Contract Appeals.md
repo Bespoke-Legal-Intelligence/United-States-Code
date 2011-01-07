@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-(1) The Secretary of Defense, in consultation with the Commission, may establish a board of contract appeals, to be known as the Panama Canal Board of Contract Appeals, in accordance with section 8 of the Contract Disputes Act of 1978 (41 U.S.C. 607). Except as otherwise provided by this section, the Panama Canal Board of Contract Appeals (in this section referred to as the “Board”) shall be subject to the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.) in the same manner as any other agency board of contract appeals established under that Act.
+(1) The Secretary of Defense, in consultation with the Commission, may establish a board of contract appeals, to be known as the Panama Canal Board of Contract Appeals, in accordance with sections 7105(a), (c) to (e), (g), 7106(a), and 7107(a) of title 41. Except as otherwise provided by this section, the Panama Canal Board of Contract Appeals (in this section referred to as the “Board”) shall be subject to chapter 71 of title 41 in the same manner as any other agency board of contract appeals established under that chapter.
 
 (2) The Board shall consist of three members. At least one member of the Board shall be licensed to practice law in the Republic of Panama. Individuals appointed to the Board shall take an oath of office, the form of which shall be prescribed by the Secretary of Defense.
 
@@ -10,7 +10,7 @@
 
 #### (b) Exclusive jurisdiction to decide appeals
 
-Notwithstanding section 10(a)(1) of the Contract Disputes Act of 1978 (41 U.S.C. 609(a)(1)) or any other provision of law, the Board shall have exclusive jurisdiction to decide an appeal from a decision of a contracting officer under section 8(d) of such Act (41 U.S.C. 607(d)).
+Notwithstanding section 7104(b)(1) of title 41 or any other provision of law, the Board shall have exclusive jurisdiction to decide an appeal from a decision of a contracting officer under section 7105(e) of title 41.
 
 #### (c) Exclusive jurisdiction to decide protests
 
@@ -20,7 +20,7 @@ The Board shall decide protests submitted to it under this subsection by interes
 
 &emsp;(2) the reference to the Comptroller General in section 3553(d)(3)(C)(ii) of such title is deemed to be a reference to both the Board and the Comptroller General;
 
-&emsp;(3) the report required by paragraph (1) of section 3554(e) of such title shall be submittedto the Comptroller General as well as the committees listed in such paragraph;
+&emsp;(3) the report required by paragraph (1) of section 3554(e) of such title shall be submitted to the Comptroller General as well as the committees listed in such paragraph;
 
 &emsp;(4) the report required by paragraph (2) of such section shall be submitted to the Comptroller General as well as Congress; and
 
@@ -44,15 +44,19 @@ The Board may perform functions similar to those described in this section for s
 
 (Pub. L. 96–70, title III, §3102, as added Pub. L. 105–85, div. C, title XXXV, §3541, Nov. 18, 1997, 111 Stat. 2071; amended Pub. L. 105–261, div. C, title XXXV, §3510, Oct. 17, 1998, 112 Stat. 2270.)
 
-#### References in Text
+#### Codification
 
-The Contract Disputes Act of 1978, referred to in subsec. (a)(1), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, as amended, which is classified principally to chapter 9 (§601 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code see Short Title note set out under section 601 of Title 41 and Tables.
+In subsec. (a)(1), “sections 7105(a), (c) to (e), (g), 7106(a), and 7107(a) of title 41” substituted for “section 8 of the Contract Disputes Act of 1978 (41 U.S.C. 607)”, “chapter 71 of title 41” substituted for “the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)”, and “that chapter” substituted for “that Act” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (b), “section 7104(b)(1) of title 41” substituted for “section 10(a)(1) of the Contract Disputes Act of 1978 (41 U.S.C. 609(a)(1))” and “section 7105(e) of title 41” substituted for “section 8(d) of such Act (41 U.S.C. 607(d))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–261, §3510(a)(1), substituted “may” for “shall” in first sentence.
+<b>1998</b>—Subsec. (a). Pub. L. 105–261, §3510(a)(1), substituted “may” for “shall” in first sentence.
 
 Subsec. (a)(3). Pub. L. 105–261, §3510(a)(2), added par. (3).
 
 Subsec. (e). Pub. L. 105–261, §3510(b), struck out “, but not later than January 1, 1999” before period at end.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subchapter V of chapter 35”.</i>
 

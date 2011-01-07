@@ -6,9 +6,9 @@ Notwithstanding any other provision of law, where funds are made available by mo
 
 #### Amendments
 
-1980—Pub. L. 96–509 struck out “Associate” before “Administrator finds” in two places.
+<b>1980</b>—Pub. L. 96–509 struck out “Associate” before “Administrator finds” in two places.
 
-1977—Pub. L. 95–115 inserted provisions relating to functions of the Associate Administrator with respect to joint funding.
+<b>1977</b>—Pub. L. 95–115 inserted provisions relating to functions of the Associate Administrator with respect to joint funding.
 
 #### Effective Date of 1977 Amendment
 

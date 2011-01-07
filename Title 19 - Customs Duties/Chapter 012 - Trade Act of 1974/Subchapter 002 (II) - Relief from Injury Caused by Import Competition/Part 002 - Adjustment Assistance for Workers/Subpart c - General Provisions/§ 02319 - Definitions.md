@@ -14,7 +14,7 @@ For purposes of this part—
 
 &emsp;(4) The term “average weekly wage” means one-thirteenth of the total wages paid to an individual in the high quarter. For purposes of this computation, the high quarter shall be that quarter in which the individual's total wages were highest among the first 4 of the last 5 completed calendar quarters immediately before the quarter in which occurs the week with respect to which the computation is made. Such week shall be the week in which total separation occurred, or, in cases where partial separation is claimed, an appropriate week, as defined in regulations prescribed by the Secretary.
 
-&emsp;(5) The term “average weekly hours” means the average hours worked by the individual (excluding overtime) in the employment from which he has been or claims to have been separated in the 52 weeks (excluding weeks during which the individual was sick or on vacation) preceding the week specified in the last sentence of paragraph (4).
+&emsp;(5) The term “average weekly hours” means the average hours worked by the individual (excluding overtime) in the employment fromwhich he has been or claims to have been separated in the 52 weeks (excluding weeks during which the individual was sick or on vacation) preceding the week specified in the last sentence of paragraph (4).
 
 &emsp;(6) The term “partial separation” means, with respect to an individual who has not been totally separated, that he has had—
 
@@ -70,11 +70,11 @@ For purposes of this part—
 
 #### References in Text
 
-The Railroad Unemployment Insurance Act, referred to in par. (12), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
+The Railroad Unemployment Insurance Act, referred to in par. (12), is act June 25, 1938, ch. 680, 52 Stat. 1094, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-2009—Par. (1). Pub. L. 111–5, §§1801(a)(1), 1893, temporarily struck out “or appropriate subdivision of a firm” after “employment in a firm” and “or subdivision” after “workers of such firm”. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Par. (1). Pub. L. 111–5, §§1801(a)(1), 1893, temporarily struck out “or appropriate subdivision of a firm” after “employment in a firm” and “or subdivision” after “workers of such firm”. See Effective and Termination Dates of 2009 Amendment note below.
 
 Par. (2). Pub. L. 111–5, §§1801(a)(2), 1893, temporarily substituted “employment, has been totally or partially separated from such employment.” for “employment—
 
@@ -90,9 +90,9 @@ Par. (11). Pub. L. 111–5, §§1801(a)(5), 1893, temporarily struck out “, o
 
 Pars. (18), (19). Pub. L. 111–5, §§1801(a)(6), 1830(a)(2), 1893, temporarily added pars. (18) and (19). See Effective and Termination Dates of 2009 Amendment note below.
 
-1986—Pars. (16), (17). Pub. L. 99–272 added pars. (16) and (17).
+<b>1986</b>—Pars. (16), (17). Pub. L. 99–272 added pars. (16) and (17).
 
-1981—Par. (3). Pub. L. 97–35, §2511(1), struck out par. (3) defining “average weekly manufacturing wage”.
+<b>1981</b>—Par. (3). Pub. L. 97–35, §2511(1), struck out par. (3) defining “average weekly manufacturing wage”.
 
 Par. (7). Pub. L. 97–35, §2511(1), struck out par. (7) defining “remuneration”.
 
@@ -106,7 +106,7 @@ Par. (15). Pub. L. 97–35, §2511(4), added par. (15).
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never beenenacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 
 #### Effective Date of 1981 Amendment and Transition Provisions
 
@@ -114,5 +114,5 @@ Amendment by Pub. L. 97–35 applicable to allowances payable for weeks of unemp
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2010, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Feb. 12, 2011, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

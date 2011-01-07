@@ -22,7 +22,7 @@ An employer shall not order a plant closing or mass layoff until the end of a 60
 
 #### (c) Extension of layoff period
 
-A layoff of more than 6 months which, at its outset, was announced to be a layoff of 6 monthsor less, shall be treated as an employment loss under this chapter unless—
+A layoff of more than 6 months which, at its outset, was announced to be a layoff of 6 months or less, shall be treated as an employment loss under this chapter unless—
 
 &emsp;(1) the extension beyond 6 months is caused by business circumstances (including unforeseeable changes in price or cost) not reasonably foreseeable at the time of the initial layoff; and
 
@@ -36,7 +36,7 @@ For purposes of this section, in determining whether a plant closing or mass lay
 
 #### Amendments
 
-1998—Subsec. (a)(2). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(18)\], struck out “the State dislocated worker unit or office (referred to in section 1661(b)(2) of this title), or” before “the State or entity”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(18)\], struck out “the State dislocated worker unit or office (referred to in section 1661(b)(2) of this title), or” before “the State or entity”.
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(26)\], substituted “to the State dislocated worker unit or office (referred to in section 1661(b)(2) of this title), or the State or entity designated by the State to carry out rapid response activities under section 2864(a)(2)(A) of this title, and the chief” for “to the State dislocated worker unit (designated or created under title III of the Job Training Partnership Act) and the chief”.
 

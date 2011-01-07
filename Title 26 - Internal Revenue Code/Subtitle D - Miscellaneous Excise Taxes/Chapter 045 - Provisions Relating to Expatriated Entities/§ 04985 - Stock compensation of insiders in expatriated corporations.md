@@ -6,7 +6,7 @@ In the case of an individual who is a disqualified individual with respect to an
 
 &emsp;(1) the rate of tax specified in section 1(h)(1)(C), multiplied by
 
-&emsp;(2) the value (determined under subsection (b)) of the specified stock compensation held (directly or indirectly) by or for the benefit of such individual or a member of such individual's family (as defined in section 267) at any time during the 12-month period beginning on the date which is 6 months before the expatriation date.
+&emsp;(2) the value (determined under subsection (b)) of the specified stock compensation held (directly or indirectly) by or for the benefit of such individual or a member of such individual's family (as defined in section 267) at any time during the 12-month period beginning onthe date which is 6 months before the expatriation date.
 
 #### (b) Value
 
@@ -140,7 +140,7 @@ Section 4992, added Pub. L. 96–223, title I, §101(a)(1), Apr. 2, 1980, 94 Sta
 
 Section 4993, added Pub. L. 96–223, title I, §101(a)(1), Apr. 2, 1980, 94 Stat. 239; amended Pub. L. 97–448, title II, §201(e), Jan. 12, 1983, 96 Stat. 2392, related to incremental tertiary oil.
 
-Section 4994, added Pub. L. 96–223, title I, §101(a)(1), Apr. 2, 1980, 94 Stat. 241; amended Pub. L. 97–34, title VI, §§601(b)(2), 603(b), 604(a)–(c), Aug. 13, 1981, 95 Stat.337–339; Pub. L. 97–248, title II, §291, Sept. 3, 1982, 96 Stat. 572; Pub. L. 97–448, title I, §106(a)(2), (4)(B), (b), title II, §201(f), Jan. 12, 1983, 96 Stat. 2388, 2390, 2392, related to definitions and special rules with respect to exempt oil.
+Section 4994, added Pub. L. 96–223, title I, §101(a)(1), Apr. 2, 1980, 94 Stat. 241; amended Pub. L. 97–34, title VI, §§601(b)(2), 603(b), 604(a)–(c), Aug. 13, 1981, 95 Stat. 337–339; Pub. L. 97–248, title II, §291, Sept. 3, 1982, 96 Stat. 572; Pub. L. 97–448, title I, §106(a)(2), (4)(B), (b), title II, §201(f), Jan. 12, 1983, 96 Stat. 2388, 2390, 2392, related to definitions and special rules with respect to exempt oil.
 
 Section 4995, added Pub. L. 96–223, title I, §101(a)(1), Apr. 2, 1980, 94 Stat. 244; amended Pub. L. 97–34, title VI, §601(b)(3), Aug. 13, 1981, 95 Stat. 337; Pub. L. 97–448, title II, §201(g), Jan. 12, 1983, 96 Stat. 2393, related to withholding and depository requirements bearing on the windfall profit tax.
 

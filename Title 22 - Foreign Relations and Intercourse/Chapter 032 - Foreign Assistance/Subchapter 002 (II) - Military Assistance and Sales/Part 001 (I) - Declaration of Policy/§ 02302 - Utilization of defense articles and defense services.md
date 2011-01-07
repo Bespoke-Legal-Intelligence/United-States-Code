@@ -10,15 +10,15 @@ Section was formerly classified to section 2313 of this title.
 
 #### Amendments
 
-2000—Pub. L. 106–280 inserted “(including for antiterrorism and nonproliferation purposes)” after “internal security” in first sentence.
+<b>2000</b>—Pub. L. 106–280 inserted “(including for antiterrorism and nonproliferation purposes)” after “internal security” in first sentence.
 
-1967—Pub. L. 90–137 substituted “Defense articles and defense services” for “Military assistance”.
+<b>1967</b>—Pub. L. 90–137 substituted “Defense articles and defense services” for “Military assistance”.
 
-1965—Pub. L. 89–171 authorized military assistance to any country for the purpose of assisting foreign military forces in less developed friendly countries (or the voluntary efforts of personnel of the Armed Forces of the United States in such countries) to construct public works and to engage in other activities helpful to the economic and social development of such friendly countries, expressed the sense of Congress that such foreign military forces should not be maintained or established solely for civic action activities, and that such civic action activities should not significantly detract from the capability of the military forces to perform their military missions, and should be coordinated with and from part of the total economic and social development effort, and struck out prohibition against further assistance to Latin American countries, now incorporated in section 2319(c) of this title.
+<b>1965</b>—Pub. L. 89–171 authorized military assistance to any country for the purpose of assisting foreign military forces in less developed friendly countries (or the voluntary efforts of personnel of the Armed Forces of the United States in such countries) to construct public works and to engage in other activities helpful to the economic and social development of such friendly countries, expressed the sense of Congress that such foreign military forces should not be maintained or established solely for civic action activities, and that such civic action activities should not significantly detract from the capability of the military forces to perform their military missions, and should be coordinated with and from part of the total economic and social development effort, and struck out prohibition against further assistance to Latin American countries, now incorporated in section 2319(c) of this title.
 
-1963—Pub. L. 88–205 inserted proviso stopping further military assistance under this chapter to Latin American countries except to the extent necessary to fulfill prior commitments or to safeguard the security of the United States or of a country associated with the United States in the Alliance for Progress against the overthrow of a duly constituted government, now incorporated in section 2319(c) of this title.
+<b>1963</b>—Pub. L. 88–205 inserted proviso stopping further military assistance under this chapter to Latin American countries except to the extent necessary to fulfill prior commitments or to safeguard the security of the United States or of a country associated with the United States in the Alliance for Progress against the overthrow of a duly constituted government, now incorporated in section 2319(c) of this title.
 
 #### Transfer to Republic of Korea of Defense Articles; Reimbursement for Transfer
 
-Pub. L. 91–652, §3, Jan. 5, 1971, 84 Stat. 1942, authorized the President until June 30, 1972, to transfer to the Republic of Korea such Armed Forces defense articles located in Korea on July 1, 1970 as he determined appropriate and provided that no funds appropriated underPub. L. 91–652 or this chapter were to be available for reimbursement to any Government agency for any such transfers of defense articles.
+Pub. L. 91–652, §3, Jan. 5, 1971, 84 Stat. 1942, authorized the President until June 30, 1972, to transfer to the Republic of Korea such Armed Forces defense articles located in Korea on July 1, 1970 as he determined appropriate and provided that no funds appropriated under Pub. L. 91–652 or this chapter were to be available for reimbursement to any Government agency for any such transfers of defense articles.
 

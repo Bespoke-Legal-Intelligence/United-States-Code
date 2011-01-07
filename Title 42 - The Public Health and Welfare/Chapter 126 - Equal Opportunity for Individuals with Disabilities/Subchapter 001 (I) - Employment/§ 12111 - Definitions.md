@@ -88,9 +88,9 @@ This chapter, referred to in par. (10)(B)(i), was in the original “this Act”
 
 #### Amendments
 
-2008—Par. (8). Pub. L. 110–325 struck out “with a disability” after “individual” in heading and the first two places appearing in text.
+<b>2008</b>—Par. (8). Pub. L. 110–325 struck out “with a disability” after “individual” in heading and the first two places appearing in text.
 
-1991—Par. (4). Pub. L. 102–166 inserted at end “With respect to employment in a foreign country, such term includes an individual who is a citizen of the United States.”
+<b>1991</b>—Par. (4). Pub. L. 102–166 inserted at end “With respect to employment in a foreign country, such term includes an individual who is a citizen of the United States.”
 
 #### Effective Date of 2008 Amendment
 

@@ -10,7 +10,7 @@ The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93
 
 #### Amendments
 
-1992—Pub. L. 102–573, §807, amended section generally. Prior to amendment, section read as follows:
+<b>1992</b>—Pub. L. 102–573, §807, amended section generally. Prior to amendment, section read as follows:
 
 “(a) The Secretary, through the Service, shall make grants to the Eight Northern Indian Pueblos Council, San Juan Pueblo, New Mexico, for the purpose of providing substance abuse treatment services to Indians in need of such services.
 

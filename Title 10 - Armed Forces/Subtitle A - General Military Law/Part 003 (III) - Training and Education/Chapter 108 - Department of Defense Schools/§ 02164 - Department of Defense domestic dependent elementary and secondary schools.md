@@ -6,6 +6,18 @@ Authority of Secretary.—(1) If the Secretary of Defense makes a determination 
 
 (2) The Secretary may, at the discretion of the Secretary, permit dependents of members of the armed forces and, to the extent provided in subsection (c), dependents of civilian employees of the Federal Government residing in a territory, commonwealth, or possession of the United States but not on a military installation, to enroll in an educational program provided by the Secretary pursuant to this subsection. If a member of the armed forces is assigned to a remote location or is assigned to an unaccompanied tour of duty, a dependent of the member who resides, on or off a military installation, in a territory, commonwealth, or possession of the United States, as authorized by the member's orders, may be enrolled in an educational program provided by the Secretary under this subsection.
 
+(3)(A) Under the circumstances described in subparagraph (B), the Secretary may, at the discretion of the Secretary, permit a dependent of a member of the armed forces to enroll in an educational program provided by the Secretary pursuant to this subsection without regard to the requirement in paragraph (1) with respect to residence on a military installation.
+
+(B) Subparagraph (A) applies only if—
+
+&emsp;(i) the dependents reside in temporary housing (regardless of whether the temporary housing is on Federal property)—
+
+&emsp;&emsp;(I) because of the unavailability of adequate permanent living quarters on the military installation to which the member is assigned; or
+
+&emsp;&emsp;(II) while the member is wounded, ill, or injured; and
+
+&emsp;(ii) the Secretary determines that the circumstances of such living arrangements justify extending the enrollment authority to include the dependents.
+
 (b)
 
 Factors for Secretary To Consider.—(1) Factors to be considered by the Secretary of Defense in making a determination under subsection (a) shall include the following:
@@ -24,7 +36,7 @@ Factors for Secretary To Consider.—(1) Factors to be considered by the Secreta
 
 (c)
 
-Eligibility of Dependents of Federal Employees.—(1)(A) A dependent of a Federal employee residing in permanent living quarters on a military installation at any time during the school year may enroll in an educational program provided by the Secretary of Defense pursuant to subsection (a) for dependents residing on such installation.
+Eligibility of Dependents of Federal Employees.—(1)(A) A dependent of a Federal employee residing in permanent living quarters on a military installation at any time during the school year may enroll in an educational program provided by the Secretary of Defensepursuant to subsection (a) for dependents residing on such installation.
 
 (B) A dependent of a United States Customs Service employee who resides in Puerto Rico, but not on a military installation, may enroll in an educational program provided by the Secretary pursuant to subsection (a) in Puerto Rico in accordance with the same rules as apply to a dependent of a Federal employee residing in permanent living quarters on a military installation.
 
@@ -38,7 +50,7 @@ Eligibility of Dependents of Federal Employees.—(1)(A) A dependent of a Federa
 
 (d)
 
-School Boards.—(1) The Secretary of Defense shall provide for the establishment of a school board for Department of Defense elementary and secondary schools established at each military installation under this section. TheSecretary may provide for the establishment of one school board for all such schools in the Commonwealth of Puerto Rico and one school board for all such schools in Guam instead of one school board for each military installation in those locations.
+School Boards.—(1) The Secretary of Defense shall provide for the establishment of a school board for Department of Defense elementary and secondary schools established at each military installation under this section. The Secretary may provide for the establishment of one school board for all such schools in the Commonwealth of Puerto Rico and one school board for all such schools in Guam instead of one school board for each military installation in those locations.
 
 (2) The school board shall be composed of the number of members, not fewer than three, prescribed by the Secretary.
 
@@ -144,7 +156,7 @@ American Red Cross Employee Dependents in Puerto Rico.—(1) The Secretary may a
 
 (j)
 
-Tuition-free Enrollment of Dependents of Foreign Military Personnel Residing on Domestic Military Installations and Dependents of Certain Deceased Members of the Armed Forces.—(1) The Secretary may authorize the enrollment in a Department of Defense education program provided by the Secretary pursuant to subsection (a) of a dependent not otherwise eligible for such enrollment who is the dependent of an individual described in paragraph (2). Enrollment of such a dependent shall be on a tuition-free basis.
+Tuition-free Enrollment of Dependents of Foreign Military Personnel Residing onDomestic Military Installations and Dependents of Certain Deceased Members of the Armed Forces.—(1) The Secretary may authorize the enrollment in a Department of Defense education program provided by the Secretary pursuant to subsection (a) of a dependent not otherwise eligible for such enrollment who is the dependent of an individual described in paragraph (2). Enrollment of such a dependent shall be on a tuition-free basis.
 
 (2) An individual referred to in paragraph (1) is any of the following:
 
@@ -152,7 +164,7 @@ Tuition-free Enrollment of Dependents of Foreign Military Personnel Residing on 
 
 &emsp;(B) A deceased member of the armed forces who died in the line of duty in a combat-related operation, as designated by the Secretary.
 
-(Added Pub. L. 103–337, div. A, title III, §351(a), Oct. 5, 1994, 108 Stat. 2727; amended Pub. L. 104–106, div. A, title X, §1075, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–201, div. A, title XVI, §1608, Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–261, div. A, title III, §371(a)–(c)(2), Oct. 17, 1998, 112 Stat. 1988, 1989; Pub. L. 106–65, div. A, title III, §§352, 353, Oct. 5, 1999, 113 Stat. 572; Pub. L. 106–398, §1 \[\[div. A\], title III, §361\], Oct. 30, 2000, 114 Stat. 1654, 1654A–76; Pub. L. 108–446, title III, §305(a), Dec. 3, 2004, 118 Stat. 2804; Pub. L. 111–84, div. A, title V, §534, Oct. 28, 2009, 123 Stat. 2292.)
+(Added Pub. L. 103–337, div. A, title III, §351(a), Oct. 5, 1994, 108 Stat. 2727; amended Pub. L. 104–106, div. A, title X, §1075, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–201, div. A, title XVI, §1608, Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–261, div. A, title III, §371(a)–(c)(2), Oct. 17, 1998, 112 Stat. 1988, 1989; Pub. L. 106–65, div. A, title III, §§352, 353, Oct. 5, 1999, 113 Stat. 572; Pub. L. 106–398, §1 \[\[div. A\], title III, §361\], Oct. 30, 2000, 114 Stat. 1654, 1654A–76; Pub. L. 108–446, title III, §305(a), Dec. 3, 2004, 118 Stat. 2804; Pub. L. 111–84, div. A, title V, §534, Oct. 28, 2009, 123 Stat. 2292; Pub. L. 111–383, div. A, title V, §561, Jan. 7, 2011, 124 Stat. 4221.)
 
 #### References in Text
 
@@ -166,9 +178,11 @@ Section 6(a) of Public Law 81–874 (20 U.S.C. 241(a)), referred to in subsec. (
 
 #### Amendments
 
-2009—Subsec. (j). Pub. L. 111–84 added subsec. (j).
+<b>2011</b>—Subsec. (a)(3). Pub. L. 111–383 added par. (3).
 
-2004—Subsec. (f)(1)(B). Pub. L. 108–446, §305(a)(1), substituted “infants or toddlers” for “infants and toddlers” in two places, “part C” for “part H”, and “1431 et seq.” for “1471 et seq.”.
+<b>2009</b>—Subsec. (j). Pub. L. 111–84 added subsec. (j).
+
+<b>2004</b>—Subsec. (f)(1)(B). Pub. L. 108–446, §305(a)(1), substituted “infants or toddlers” for “infants and toddlers” in two places, “part C” for “part H”, and “1431 et seq.” for “1471 et seq.”.
 
 Subsec. (f)(3)(A). Pub. L. 108–446, §305(a)(2)(A), substituted “section 602” for “section 602(a)(1)” and “1401” for “1401(a)(1)”.
 
@@ -178,15 +192,15 @@ Pub. L. 108–446, §305(a)(2)(B), (C), redesignated subpar. (C) as (B) and stru
 
 Subsec. (f)(3)(C). Pub. L. 108–446, §305(a)(2)(C), redesignated subpar. (C) as (B).
 
-2000—Subsec. (i). Pub. L. 106–398 added subsec. (i).
+<b>2000</b>—Subsec. (i). Pub. L. 106–398 added subsec. (i).
 
-1999—Subsec. (c)(3). Pub. L. 106–65, §353(1), struck out par. (3) which read as follows: “A dependent of a Federal employee may continue enrollment in a program under this subsection for the remainder of a school year notwithstanding a change during such school year in the status of the Federal employee that, except for this paragraph, would otherwise terminate the eligibility of the dependent to be enrolled in the program. The preceding sentence does not limit the authority of the Secretary to remove the dependent from enrollment in the program at any time for good cause determined by the Secretary.”
+<b>1999</b>—Subsec. (c)(3). Pub. L. 106–65, §353(1), struck out par. (3) which read as follows: “A dependent of a Federal employee may continue enrollment in a program under this subsection for the remainder of a school year notwithstanding a change during such school year in the status of the Federal employee that, except for this paragraph, would otherwise terminate the eligibility of the dependent to be enrolled in the program. The preceding sentence does not limit the authority of the Secretary to remove the dependent from enrollment in the program at any time for good cause determined by the Secretary.”
 
 Subsec. (d)(1). Pub. L. 106–65, §352, inserted at end “The Secretary may provide for the establishment of one school board for all such schools in the Commonwealth of Puerto Rico and one school board for all such schools in Guam instead of one school board for each military installation in those locations.”
 
 Subsec. (h). Pub. L. 106–65, §353(2), added subsec. (h).
 
-1998—Subsec. (a). Pub. L. 105–261, §371(a)(1), (2), designated first sentence as par. (1) and second sentence as par. (2).
+<b>1998</b>—Subsec. (a). Pub. L. 105–261, §371(a)(1), (2), designated first sentence as par. (1) and second sentence as par. (2).
 
 Subsec. (a)(2). Pub. L. 105–261, §371(a)(3), inserted at end “If a member of the armed forces is assigned to a remote location or is assigned to an unaccompanied tour of duty, a dependent of the member who resides, on or off a military installation, in a territory, commonwealth, or possession of the United States, as authorized by the member's orders, may be enrolled in an educational program provided by the Secretary under this subsection.”
 
@@ -196,7 +210,7 @@ Subsec. (c)(2)(B). Pub. L. 105–261, §371(b), added subpar. (B) and struck out
 
 Subsec. (c)(2)(D). Pub. L. 105–261, §371(c)(2), added subpar. (D).
 
-1996—Subsec. (d)(7). Pub. L. 104–201 added par. (7).
+<b>1996</b>—Subsec. (d)(7). Pub. L. 104–201 added par. (7).
 
 Subsec. (e)(4). Pub. L. 104–106 added par. (4).
 

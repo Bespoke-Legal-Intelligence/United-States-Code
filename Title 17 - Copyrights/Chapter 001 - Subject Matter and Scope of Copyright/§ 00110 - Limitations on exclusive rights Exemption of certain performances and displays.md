@@ -30,7 +30,7 @@ Notwithstanding the provisions of section 106, the following are not infringemen
 
 &emsp;&emsp;&emsp;&emsp;(II) does not engage in conduct that could reasonably be expected to interfere with technological measures used by copyright owners to prevent such retention or unauthorized further dissemination;
 
-&emsp;(3) performance of a nondramatic literary or musical work or of a dramatico-musical work of a religious nature, or display of a work, in the course of services at a place of worship or other religious assembly;
+&emsp;(3) performance of a nondramatic literary or musical work or of a dramatico-musical work of a religious nature, or display of a work, inthe course of services at a place of worship or other religious assembly;
 
 &emsp;(4) performance of a nondramatic literary or musical work otherwise than in a transmission to the public, without any purpose of direct or indirect commercial advantage and without payment of any fee or other compensation for the performance to any of its performers, promoters, or organizers, if—
 
@@ -52,7 +52,7 @@ Notwithstanding the provisions of section 106, the following are not infringemen
 
 &emsp;(B) communication by an establishment of a transmission or retransmission embodying a performance or display of a nondramatic musical work intended to be received by the general public, originated by a radio or television broadcast station licensed as such by the Federal Communications Commission, or, if an audiovisual transmission, by a cable system or satellite carrier, if—
 
-&emsp;&emsp;(i) in the case of an establishment other than a food service or drinking establishment, either the establishment in which the communication occurs has less than 2,000 gross square feet of space (excluding spaceused for customer parking and for no other purpose), or the establishment in which the communication occurs has 2,000 or more gross square feet of space (excluding space used for customer parking and for no other purpose) and—
+&emsp;&emsp;(i) in the case of an establishment other than a food service or drinking establishment, either the establishment in which the communication occurs has less than 2,000 gross square feet of space (excluding space used for customer parking and for no other purpose), or the establishment in which the communication occurs has 2,000 or more gross square feet of space (excluding space used for customer parking and for no other purpose) and—
 
 &emsp;&emsp;&emsp;(I) if the performance is by audio means only, the performance is communicated by means of a total of not more than 6 loudspeakers, of which not more than 4 loudspeakers are located in any 1 room or adjoining outdoor space; or
 
@@ -72,13 +72,13 @@ Notwithstanding the provisions of section 106, the following are not infringemen
 
 &emsp;(6) performance of a nondramatic musical work by a governmental body or a nonprofit agricultural or horticultural organization, in the course of an annual agricultural or horticultural fair or exhibition conducted by such body or organization; the exemption provided by this clause shall extend to any liability for copyright infringement that would otherwise be imposed on such body or organization, under doctrines of vicarious liability or related infringement, for a performance by a concessionnaire,<sup>1</sup> business establishment, or other person at such fair or exhibition, but shall not excuse any such person from liability for the performance;
 
-&emsp;(7) performance of a nondramatic musical work by a vending establishment open to the public at large without any direct or indirect admission charge, where the sole purpose of the performance is to promote the retail sale of copies or phonorecords of the work, or of the audiovisual or other devices utilized in such performance, and the performance is not transmitted beyond the place where the establishment is located and is within the immediate area where the sale is occurring;
+&emsp;(7) performance of a nondramatic musical work by a vending establishment open to the public at large without any direct or indirect admission charge, where the sole purpose ofthe performance is to promote the retail sale of copies or phonorecords of the work, or of the audiovisual or other devices utilized in such performance, and the performance is not transmitted beyond the place where the establishment is located and is within the immediate area where the sale is occurring;
 
 &emsp;(8) performance of a nondramatic literary work, by or in the course of a transmission specifically designed for and primarily directed to blind or other handicapped persons who are unable to read normal printed material as a result of their handicap, or deaf or other handicapped persons who are unable to hear the aural signals accompanying a transmission of visual signals, if the performance is made without any purpose of direct or indirect commercial advantage and its transmission is made through the facilities of: (i) a governmental body; or (ii) a noncommercial educational broadcast station (as defined in section 397 of title 47); or (iii) a radio subcarrier authorization (as defined in 47 CFR 73.293–73.295 and 73.593–73.595); or (iv) a cable system (as defined in section 111(f));
 
 &emsp;(9) performance on a single occasion of a dramatic literary work published at least ten years before the date of the performance, by or in the course of a transmission specifically designed for and primarily directed to blind or other handicapped persons who are unable to read normal printed material as a result of their handicap, if the performance is made without any purpose of direct or indirect commercial advantage and its transmission is made through the facilities of a radio subcarrier authorization referred to in clause (8)(iii), <i>Provided</i>, That the provisions of this clause shall not be applicable to more than one performance of the same work by the same performers or under the auspices of the same organization;
 
-&emsp;(10) notwithstanding paragraph (4), the following is not an infringement of copyright: performance of a nondramatic literary or musical work in the course of a social function which is organized and promoted by a nonprofit veterans’ organization or a nonprofit fraternal organization to which the general public is not invited, but not including the invitees of the organizations, if the proceeds from the performance, after deducting the reasonable costs of producing the performance, are used exclusively for charitable purposes and not for financial gain. For purposes of this section the social functions of any college oruniversity fraternity or sorority shall not be included unless the social function is held solely to raise funds for a specific charitable purpose; and
+&emsp;(10) notwithstanding paragraph (4), the following is not an infringement of copyright: performance of a nondramatic literary or musical work in the course of a social function which is organized and promoted by a nonprofit veterans’ organization or a nonprofit fraternal organization to which the general public is not invited, but not including the invitees of the organizations, if the proceeds from the performance, after deducting the reasonable costs of producing the performance, are used exclusively for charitable purposes and not for financial gain. For purposes of this section the social functions of any college or university fraternity or sorority shall not be included unless the social function is held solely to raise funds for a specific charitable purpose; and
 
 &emsp;(11) the making imperceptible, by or at the direction of a member of a private household, of limited portions of audio or video content of a motion picture, during a performance in or transmitted to that household for private home viewing, from an authorized copy of the motion picture, or the creation or provision of a computer program or other technology that enables such making imperceptible and that is designed and marketed to be used, at the direction of a member of a private household, for such making imperceptible, if no fixed copy of the altered version of the motion picture is created by such computer program or other technology.
 
@@ -102,7 +102,7 @@ Notwithstanding the provisions of section 106, the following are not infringemen
 
 #### Historical and Revision Notes
 
-I74house report no. 94–1476
+#### house report no. 94–1476
 
 Clauses (1) through (4) of section 110 deal with performances and exhibitions that are now generally exempt under the “for profit” limitation or other provisions of the copyright law, and that are specifically exempted from copyright liability under this legislation. Clauses (1) and (2) between them are intended to cover all of the various methods by which performances or displays in the course of systematic instruction take place.
 
@@ -124,7 +124,7 @@ There appears to be no need for a statutory definition of “face-to-face” tea
 
 <b>Instructional Broadcasting.</b> <b><i>Works Affected</i></b>.—The exemption for instructional broadcasting provided by section 110(2) would apply only to “performance of a nondramatic literary or musical work or display of a work.” Thus, the copyright owner's permission would be required for the performance on educational television or radio of a dramatic work, of a dramatico-musical work such as an opera or musical comedy, or of a motion picture. Since, as already explained, audiovisual works such as filmstrips are equated with motion pictures, their sequential showing would be regarded as a performance rather than a display and would not be exempt under section 110(2). The clause is not intended to limit in any way the copyright owner's exclusive right to make dramatizations, adaptations, or other derivative works under section 106(2). Thus, for example, a performer could read a nondramatic literary work aloud under section 110(2), but the copyright owner's permission would be required for him to act it out in dramatic form.
 
-<i>Systematic Instructional Activities</i>.—Under section 110(2) a transmission must meet three specified conditions in order to be exempted from copyright liability. The first of these, as provided by subclause (A), is that the performance or display must be “a regular part of the systematic instructional activities of a governmental body or a nonprofit educational institution.” The concept of “systematic instructional activities” is intended as the general equivalent of “curriculums,” but it could be broader in a case such as that of an institution using systematic teaching methods not related to specific course work. A transmission would be a regular part of these activities if it is in accordance with the pattern of teaching established by the governmental body or institution. The use of commercial facilities, such as those of a cable service, to transmit the performance or display, would not affect the exemption as long as the actual performance or display was for nonprofit purposes.
+<i>Systematic Instructional Activities</i>.—Under section 110(2) a transmission must meet three specified conditions in order to be exempted from copyright liability. The first of these, as provided by subclause (A), is that the performance or display must be “a regular part of the systematic instructional activities of a governmental body or a nonprofit educational institution.” The concept of “systematic instructional activities” isintended as the general equivalent of “curriculums,” but it could be broader in a case such as that of an institution using systematic teaching methods not related to specific course work. A transmission would be a regular part of these activities if it is in accordance with the pattern of teaching established by the governmental body or institution. The use of commercial facilities, such as those of a cable service, to transmit the performance or display, would not affect the exemption as long as the actual performance or display was for nonprofit purposes.
 
 <i>Content of Transmission</i>.—Subclause (B) requires that the performance or display be directly related and of material assistance to the teaching content of the transmission.
 
@@ -140,7 +140,7 @@ In all three cases, the instructional transmission need only be made “primaril
 
 Paragraph (i) of subclause (C) generally covers what are known as “in-school” broadcasts, whether open- or closed-circuit. The reference to “classrooms or similar places” here is intended to have the same meaning as that of the phrase as used in section 110(1). The exemption in paragraph (ii) is intended to exempt transmissions providing systematic instruction to individuals who cannot be reached in classrooms because of “their disabilities or other special circumstances.” Accordingly, the exemption is confined to instructional broadcasting that is an adjunct to the actual classwork of nonprofit schools or is primarily for people who cannot be brought together in classrooms such as preschool children, displaced workers, illiterates, and shut-ins.
 
-There has been some question as to whether or not the language in this section of the bill is intended to include instructional television college credit courses. These telecourses are aimed at undergraduate and graduate students in earnest pursuit of higher educational degrees who are unable to attend daytime classes because of daytime employment, distance from campus, or some other intervening reason. So long asthese broadcasts are aimed at regularly enrolled students and conducted by recognized higher educational institutions, the committee believes that they are clearly within the language of section 110(2)(C)(ii). Like night school and correspondence courses before them, these telecourses are fast becoming a valuable adjunct of the normal college curriculum.
+There has been some question as to whether or not the language in this section of the bill is intended to include instructional television college credit courses. These telecourses are aimed at undergraduate and graduate students in earnest pursuit of higher educational degrees who are unable to attend daytime classes because of daytime employment, distance from campus, or some other intervening reason. So long as these broadcasts are aimed at regularly enrolled students and conducted by recognized higher educational institutions, the committee believes that they are clearly within the language of section 110(2)(C)(ii). Like night school and correspondence courses before them, these telecourses are fast becoming a valuable adjunct of the normal college curriculum.
 
 The third exemption in subclause (C) is intended to permit the use of copyrighted material, in accordance with the other conditions of section 110(2), in the course of instructional transmissions for Government personnel who are receiving training “as a part of their official duties or employment.”
 
@@ -166,7 +166,7 @@ Under the second of these conditions, a performance meeting the other conditions
 
 The basic rationale of this clause is that the secondary use of the transmission by turning on an ordinary receiver in public is so remote and minimal that no further liability should be imposed. In the vast majority of these cases no royalties are collected today, and the exemption should be made explicit in the statute. This clause has nothing to do with cable television systems and the exemptions would be denied in any case where the audience is charged directly to see or hear the transmission.
 
-With respect to section 110(5), the conference substitute conforms to the language in the Senate bill. It is the intent of the conferees that a small commercial establishment of the type involved in <i>Twentieth Century Music Corp. v. Aiken</i>, 422 U.S. 151 (1975), \[95 S.Ct. 2040, 45 L.Ed.2d 84\], which merely augmented a home-type receiver and which was not of sufficient size to justify, as a practical matter, a subscription to a commercial background music service, would be exempt. However, where the public communication was by means of something other than a home-type receiving apparatus, or where the establishment actually makes a furthertransmission to the public, the exemption would not apply.
+With respect to section 110(5), the conference substitute conforms to the language in the Senate bill. It is the intent of the conferees that a small commercial establishment of the type involved in <i>Twentieth Century Music Corp. v. Aiken</i>, 422 U.S. 151 (1975), \[95 S.Ct. 2040, 45 L.Ed.2d 84\], which merely augmented a home-type receiver and which was not of sufficient size to justify, as a practical matter, a subscription to a commercial background music service, would be exempt. However, where the public communication was by means of something other than a home-type receiving apparatus, or where the establishment actually makes a further transmission to the public, the exemption would not apply.
 
 On June 17, 1975, the Supreme Court handed down a decision in <i>Twentieth Century Music Corp. v. Aiken</i>, 95 S.Ct. 2040 \[422 U.S. 151, 45 L.Ed.2d 84\], that raised fundamental questions about the proper interpretation of section 110(5). The defendant, owner and operator of a fast-service food shop in downtown Pittsburgh, had “a radio with outlets to four speakers in the ceiling,” which he apparently turned on and left on throughout the business day. Lacking any performing license, he was sued for copyright infringement by two ASCAP members. He lost in the District Court, won a reversal in the Third Circuit Court of Appeals, and finally prevailed, by a margin of 7–2, in the Supreme Court.
 
@@ -184,11 +184,11 @@ Under the particular fact situation in the <i>Aiken</i> case, assuming a small c
 
 #### Amendments
 
-2005—Pub. L. 109–9, §202(a)(4), inserted two pars. relating to par. (11) at end of concluding provisions.
+<b>2005</b>—Pub. L. 109–9, §202(a)(4), inserted two pars. relating to par. (11) at end of concluding provisions.
 
 Par. (11). Pub. L. 109–9, §202(a)(1)–(3), added par. (11).
 
-2002—Pub. L. 107–273, §13301(b)(2), inserted concluding provisions relating to par. (2).
+<b>2002</b>—Pub. L. 107–273, §13301(b)(2), inserted concluding provisions relating to par. (2).
 
 Par. (2). Pub. L. 107–273, §13301(b)(1), added par. (2) and struck out former par. (2) which read as follows: “performance of a nondramatic literary or musical work or display of a work, by or in the course of a transmission, if—
 
@@ -206,21 +206,21 @@ Par. (2). Pub. L. 107–273, §13301(b)(1), added par. (2) and struck out former
 
 Par. (4)(B). Pub. L. 107–273, §13210(6), substituted colon for semicolon at end of introductory provisions.
 
-1999—Par. (5)(A). Pub. L. 106–44 redesignated cls. (A) and (B) as (i) and (ii), respectively.
+<b>1999</b>—Par. (5)(A). Pub. L. 106–44 redesignated cls. (A) and (B) as (i) and (ii), respectively.
 
-1998—Pub. L. 105–298, §202(a)(2), inserted concluding provisions relating to par. (5).
+<b>1998</b>—Pub. L. 105–298, §202(a)(2), inserted concluding provisions relating to par. (5).
 
 Par. (5). Pub. L. 105–298, §202(a)(1), designated existing provisions as subpar. (A), inserted “except as provided in subparagraph (B),” after “(A)”, and added subpar. (B).
 
 Par. (7). Pub. L. 105–298, §202(b), inserted “or of the audiovisual or other devices utilized in such performance,” after “phonorecords of the work,”.
 
-1997—Par. (8). Pub. L. 105–80, §12(a)(6)(A), substituted semicolon for period at end.
+<b>1997</b>—Par. (8). Pub. L. 105–80, §12(a)(6)(A), substituted semicolon for period at end.
 
 Par. (9). Pub. L. 105–80, §12(a)(6)(B), substituted “; and” for period at end.
 
 Par. (10). Pub. L. 105–80, §12(a)(6)(C), substituted “paragraph (4)” for “paragraph 4 above”.
 
-1982—Par. (10). Pub. L. 97–366 added par. (10).
+<b>1982</b>—Par. (10). Pub. L. 97–366 added par. (10).
 
 #### Effective Date of 1998 Amendment
 

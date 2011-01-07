@@ -24,7 +24,7 @@ June 29, 1948, ch. 708, §309, 62 Stat. 1090.
 
 #### Amendments
 
-1994—Pub. L. 103–337 renumbered section 1337 of this title as this section and amended text generally, substituting “the member” for “him”.
+<b>1994</b>—Pub. L. 103–337 renumbered section 1337 of this title as this section and amended text generally, substituting “the member” for “him”.
 
 #### Effective Date of 1994 Amendment
 

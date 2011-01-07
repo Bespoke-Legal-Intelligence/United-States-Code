@@ -38,15 +38,15 @@ As originally enacted, par. Seventh contained references to the “Court of Appe
 
 #### Amendments
 
-1996—Par. First. Pub. L. 104–264 inserted “, any express company that would have been subject to subtitle IV of title 49, as of December 31, 1995,” after “Board” the first place it appeared.
+<b>1996</b>—Par. First. Pub. L. 104–264 inserted “, any express company that would have been subject to subtitle IV of title 49, as of December 31, 1995,” after “Board” the first place it appeared.
 
-1995—Par. First. Pub. L. 104–88, §322(1), (2), substituted “railroad subject to the jurisdiction of the Surface Transportation Board” for “express company, sleeping-car company, carrier by railroad, subject to the Interstate Commerce Act” and “Surface Transportation Board” for “Interstate Commerce Commission”.
+<b>1995</b>—Par. First. Pub. L. 104–88, §322(1), (2), substituted “railroad subject to the jurisdiction of the Surface Transportation Board” for “express company, sleeping-car company, carrier by railroad, subject to the Interstate Commerce Act” and “Surface Transportation Board” for “Interstate Commerce Commission”.
 
 Par. Fifth. Pub. L. 104–88, §322(2), (3), substituted “Surface Transportation Board” for “Interstate Commerce Commission” in two places and “Board” for “Commission” in two places.
 
-1940—Act Aug. 13, 1940, inserted last sentence of par. First, and second par. of par. Fifth.
+<b>1940</b>—Act Aug. 13, 1940, inserted last sentence of par. First, and second par. of par. Fifth.
 
-1934—Act June 21, 1934, added par. Sixth and redesignated provisions formerly set out as par. Sixth as Seventh.
+<b>1934</b>—Act June 21, 1934, added par. Sixth and redesignated provisions formerly set out as par. Sixth as Seventh.
 
 #### Effective Date of 1996 Amendment
 

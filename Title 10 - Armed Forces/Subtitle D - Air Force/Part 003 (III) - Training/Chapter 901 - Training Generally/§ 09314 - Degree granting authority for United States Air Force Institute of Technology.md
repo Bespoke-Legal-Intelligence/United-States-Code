@@ -62,7 +62,7 @@ Acceptance of Research Grants.—(1) The Secretary of the Air Force may authoriz
 
 (6) The Secretary shall prescribe regulations for the administration of this subsection.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 561; Pub. L. 99–145, title V, §504(a)(1), (2)(A), Nov. 8, 1985, 99 Stat. 622; Pub. L. 99–661, div. A, title V, §510, Nov. 14, 1986, 100 Stat. 3868; Pub. L. 101–509, title V, §529 \[title I, §106(b)(6)(C)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 105–261, div. A, title XI, §1102, Oct. 17, 1998, 112 Stat. 2141; Pub. L. 108–136, div. A, title V, §533, Nov. 24, 2003, 117 Stat. 1473; Pub. L. 109–163, div. A, title V, §522(e), Jan. 6, 2006, 119 Stat. 3243; Pub. L. 110–417, \[div. A\], title V, §§543(h)(1), 544, Oct. 14, 2008, 122 Stat. 4463, 4465.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 561; Pub. L. 99–145, title V, §504(a)(1), (2)(A), Nov. 8, 1985, 99 Stat. 622; Pub. L. 99–661, div. A, title V, §510, Nov. 14, 1986, 100 Stat. 3868; Pub. L. 101–509, title V, §529 \[title I, §106(b)(6)(C)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 105–261, div. A, title XI, §1102, Oct. 17, 1998, 112 Stat. 2141; Pub. L. 108–136, div. A, title V, §533, Nov. 24, 2003, 117 Stat. 1473;Pub. L. 109–163, div. A, title V, §522(e), Jan. 6, 2006, 119 Stat. 3243; Pub. L. 110–417, \[div. A\], title V, §§543(h)(1), 544, Oct. 14, 2008, 122 Stat. 4463, 4465.)
 
 Historical and Revision Notes
 
@@ -80,25 +80,25 @@ Aug. 31, 1954, ch. 1151, 68 Stat. 1006.
 
 #### Amendments
 
-2008—Pub. L. 110–417, §543(h)(1), amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to conferral of degrees, civilian faculty, costs of instruction, and research grants at the United States Air Force Institute of Technology.
+<b>2008</b>—Pub. L. 110–417, §543(h)(1), amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to conferral of degrees, civilian faculty, costs of instruction, and research grants at the United States Air Force Institute of Technology.
 
 Subsec. (e)(4), (5). Pub. L. 110–417, §544, added pars. (4) and (5).
 
-2006—Subsec. (d). Pub. L. 109–163 added subsec. (d).
+<b>2006</b>—Subsec. (d). Pub. L. 109–163 added subsec. (d).
 
-2003—Subsec. (a). Pub. L. 108–136, §533(b)(1), (c), inserted heading, designated existing provisions as par. (1), substituted “The Commander” for “When the United States Air Force Institute of Technology is accredited by a nationally recognized accreditation association or authority, the Commander” and “the United States Air Force Institute of Technology” for “that Institute”, and added par. (2).
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §533(b)(1), (c), inserted heading, designated existing provisions as par. (1), substituted “The Commander” for “When the United States Air Force Institute of Technology is accredited by a nationally recognized accreditation association or authority, the Commander” and “the United States Air Force Institute of Technology” for “that Institute”, and added par. (2).
 
 Subsec. (b). Pub. L. 108–136, §533(b)(2), inserted heading.
 
 Subsec. (c). Pub. L. 108–136, §533(a), added subsec. (c).
 
-1998—Subsec. (b)(2)(B). Pub. L. 105–261 substituted “section 5373” for “section 5306(e)”.
+<b>1998</b>—Subsec. (b)(2)(B). Pub. L. 105–261 substituted “section 5373” for “section 5306(e)”.
 
-1990—Subsec. (b)(2)(B). Pub. L. 101–509 substituted “5306(e)” for “5308”.
+<b>1990</b>—Subsec. (b)(2)(B). Pub. L. 101–509 substituted “5306(e)” for “5308”.
 
-1986—Subsec. (b)(2)(B). Pub. L. 99–661 struck out “rates of basic” before “pay of civilian”.
+<b>1986</b>—Subsec. (b)(2)(B). Pub. L. 99–661 struck out “rates of basic” before “pay of civilian”.
 
-1985—Pub. L. 99–145, §504(a)(2)(A), struck out “: degrees” after “Technology” in section catchline.
+<b>1985</b>—Pub. L. 99–145, §504(a)(2)(A), struck out “: degrees” after “Technology” in section catchline.
 
 Subsecs. (a), (b). Pub. L. 99–145, §504(a)(1), designated existing provisions as subsec. (a) and added subsec. (b).
 

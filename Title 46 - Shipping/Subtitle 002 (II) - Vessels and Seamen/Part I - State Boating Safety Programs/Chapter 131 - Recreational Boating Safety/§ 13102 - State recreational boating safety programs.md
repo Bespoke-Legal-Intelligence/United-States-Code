@@ -1,6 +1,6 @@
 ### §13102. State recreational boating safety programs
 
-(a) To encourage greater State participation and uniformity in boating safety efforts, andparticularly to permit the States to assume the greater share of boating safety education, assistance, and enforcement activities, the Secretary shall carry out a national recreational boating safety program. Under this program, the Secretary shall make contracts with, and allocate and distribute amounts to, eligible States to assist them in developing, carrying out, and financing State recreational boating safety programs.
+(a) To encourage greater State participation and uniformity in boating safety efforts, and particularly to permit the States to assume the greater share of boating safety education, assistance, and enforcement activities, the Secretary shall carry out a national recreational boating safety program. Under this program, the Secretary shall make contracts with, and allocate and distribute amounts to, eligible States to assist them in developing, carrying out, and financing State recreational boating safety programs.
 
 (b) The Secretary shall establish guidelines and standards for the program. In doing so, the Secretary—
 
@@ -44,13 +44,13 @@ A prior section 13102 was renumbered section 13103 of this title.
 
 #### Amendments
 
-2006—Pub. L. 109–304, §16(b)(1), renumbered section 13101 of this title as this section.
+<b>2006</b>—Pub. L. 109–304, §16(b)(1), renumbered section 13101 of this title as this section.
 
 Subsec. (c). Pub. L. 109–304, §16(c)(3), substituted “section 13104” for “section 13103”.
 
-1990—Subsec. (b)(2). Pub. L. 101–595 substituted “the Federal Aid in Sport Fish Restoration Act of 1950 (16 U.S.C. 777–777k), and with the guidelines developed under those Acts; and” for “and with the guidelines developed under that Act; and”.
+<b>1990</b>—Subsec. (b)(2). Pub. L. 101–595 substituted “the Federal Aid in Sport Fish Restoration Act of 1950 (16 U.S.C. 777–777k), and with the guidelines developed under those Acts; and” for “and with the guidelines developed under that Act; and”.
 
-1984—Subsec. (a). Pub. L. 98–369, §1011(b), struck out “and facility improvement” after “in boating safety”, struck out “and facilities improvement” in two places after “recreational boating safety”, and substituted “shall” for “may” in second sentence.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §1011(b), struck out “and facility improvement” after “in boating safety”, struck out “and facilities improvement” in two places after “recreational boating safety”, and substituted “shall” for “may” in second sentence.
 
 Subsec. (c). Pub. L. 98–369, §1011(b)(1)(B), struck out “and facilities improvement” after “recreational boating safety”.
 
@@ -76,7 +76,7 @@ Authorization of contracts.—The Secretary of Transportation and the Secretary 
 
 “(3)
 
-Report.—The Secretary of the Interior and the Secretary of Transportation shall jointly submit a report to the Speaker of the House of Representatives and to the President pro tempore of the Senate whichdescribes the results of the survey conducted pursuant to this section not later than November 15, 1992.
+Report.—The Secretary of the Interior and the Secretary of Transportation shall jointly submit a report to the Speaker of the House of Representatives and to the President pro tempore of the Senate which describes the results of the survey conducted pursuant to this section not later than November 15, 1992.
 
 “(4)
 
@@ -88,7 +88,7 @@ Funding.—Activities under this subsection may be carried out—
 
 #### Congressional Declaration of Policy for 1984 Amendment
 
-Pub. L. 98–369, div. A, title X, subtitle B, part I (§§1010–1017), §1010, July 18, 1984, 98 Stat. 1012, provided that: “It is declared to be the policy of Congress and the purpose of this part \[enacting sections 4162 and 9504 of Title 26, Internal Revenue Code, amending this section, sections 2102, 13102, 13103, 13105, 13106, 13108, and 13109 of this title, sections 777, 777b to 777e, 777g, and 777k of Title 16, Conservation, and sections 4161 and 9503 of Title 26, repealing section 13107 of this title, and enacting provisions set out as notes under this section, section 777 of Title 16, and sections 4161, 4162, and 9504 of Title 26\] to improve recreational boating safety and to foster greater development, use, and enjoyment of all waters of the United States by encouraging and assisting participation by the States, the boating industry, and the boating public in activities related to increasing boating safety; by authorizing the establishment of national construction and performance standards for boats and associated equipment; by creating more flexible authority governing the use of boats and equipment; and by facilitating the provision of services by the United States Coast Guard on behalf of boating safety. It is further declared to be the policy of Congress to encourage greater and continuing uniformity of boating laws and regulations among the States and the Federal Government, to encourage and assist the States in exercising their authorities in boating safety, to foster greater cooperation and assistance between the Federal Government and the States in administering and enforcing Federal and State laws and regulations pertaining to boating safety, and to equitably utilize taxes paid on fuel use in motor boats in a manner which enhances boating safety.”
+Pub. L. 98–369, div. A, title X, subtitle B, part I (§§1010–1017), §1010, July 18, 1984, 98 Stat. 1012, provided that: “It is declared to be the policy of Congress and the purpose of this part \[enacting sections 4162 and 9504 of Title 26, Internal Revenue Code, amending this section, sections 2102, 13102, 13103, 13105, 13106, 13108, and 13109 of this title, sections 777, 777b to 777e, 777g, and 777k of Title 16, Conservation, and sections 4161 and 9503 of Title 26, repealing section 13107 of this title, and enacting provisions set out as notes under this section, section 777 of Title 16, and sections 4161, 4162, and 9504 of Title 26\] to improve recreational boating safety and to foster greater development, use, and enjoyment ofall waters of the United States by encouraging and assisting participation by the States, the boating industry, and the boating public in activities related to increasing boating safety; by authorizing the establishment of national construction and performance standards for boats and associated equipment; by creating more flexible authority governing the use of boats and equipment; and by facilitating the provision of services by the United States Coast Guard on behalf of boating safety. It is further declared to be the policy of Congress to encourage greater and continuing uniformity of boating laws and regulations among the States and the Federal Government, to encourage and assist the States in exercising their authorities in boating safety, to foster greater cooperation and assistance between the Federal Government and the States in administering and enforcing Federal and State laws and regulations pertaining to boating safety, and to equitably utilize taxes paid on fuel use in motor boats in a manner which enhances boating safety.”
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 

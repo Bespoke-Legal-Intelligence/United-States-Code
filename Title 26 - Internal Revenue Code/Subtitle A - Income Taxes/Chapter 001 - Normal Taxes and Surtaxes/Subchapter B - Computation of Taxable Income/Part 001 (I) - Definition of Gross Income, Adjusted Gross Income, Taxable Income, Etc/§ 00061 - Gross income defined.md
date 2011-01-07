@@ -42,7 +42,7 @@ Except as otherwise provided in this subtitle, gross income means all income fro
 
 #### Amendments
 
-1984—Subsec. (a)(1). Pub. L. 98–369 inserted reference to fringe benefits.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–369 inserted reference to fringe benefits.
 
 #### Effective Date of 1984 Amendment
 

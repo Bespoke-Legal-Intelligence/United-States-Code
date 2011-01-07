@@ -26,7 +26,7 @@ The Secretary of State is authorized to promulgate regulations for purposes of t
 
 #### Amendments
 
-1979—Subsec. (a)(2). Pub. L. 96–60 substituted “(F)” for “(E)” and “(G)” for “(F)”.
+<b>1979</b>—Subsec. (a)(2). Pub. L. 96–60 substituted “(F)” for “(E)” and “(G)” for “(F)”.
 
 #### Effective Date of 1979 Amendment
 

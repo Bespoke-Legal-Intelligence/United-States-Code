@@ -6,9 +6,9 @@
 
 #### Amendments
 
-1998—Pub. L. 105–206 renumbered section 7123 of this title as this section.
+<b>1998</b>—Pub. L. 105–206 renumbered section 7123 of this title as this section.
 
-1982—Subsec. (a). Pub. L. 97–258, §3(f)(12)(A), struck out heading “Criminal penalties”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–258, §3(f)(12)(A), struck out heading “Criminal penalties”.
 
 Subsec. (b). Pub. L. 97–258, §3(f)(12)(B), struck out subsec. (b) which set forth cross reference to R.S. 3469 (31 U.S.C. 194) relating to compromises after judgment.
 

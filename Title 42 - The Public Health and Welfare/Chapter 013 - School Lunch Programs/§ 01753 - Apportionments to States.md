@@ -10,27 +10,109 @@
 
 (2) The national average lunch payment for each lunch served shall be 10.5 cents (as adjusted pursuant to section 1759a(a) of this title) except that for each lunch served in school food authorities in which 60 percent or more of the lunches served in the school lunch program during the second preceding school year were served free or at a reduced price, the national average lunch payment shall be 2 cents more.
 
-(June 4, 1946, ch. 281, §4, 60 Stat. 230; July 12, 1952, ch. 699, §1(a), 66 Stat. 591; Pub. L. 87–688, §3(a), Sept. 25, 1962, 76 Stat. 587; Pub. L. 87–823, §2, Oct. 15, 1962, 76 Stat. 944; Pub. L. 92–433, §4(c), Sept. 26, 1972, 86 Stat. 726; Pub. L. 93–150, §2(a), Nov. 7, 1973, 87 Stat. 560; Pub. L. 97–35, title VIII, §§801(a), 819(g), Aug. 13, 1981, 95 Stat. 521, 533; Pub. L. 101–147, title III, §§301, 312(2), Nov. 10, 1989, 103 Stat. 913, 916.)
+(3)
+
+Additional reimbursement.—
+
+&emsp;(A)
+
+Regulations.—
+
+&emsp;&emsp;(i)
+
+Proposed regulations.—Notwithstanding section 1758(f) of this title, not later than 18 months after December 13, 2010, the Secretary shall promulgate proposed regulations to update the meal patterns and nutrition standards for the school lunch program authorized under this chapter and the school breakfast program established by section 1773 of this title based on recommendations made by the Food and Nutrition Board of the National Research Council of the National Academy of Sciences.
+
+&emsp;&emsp;(ii)
+
+Interim or final regulations.—
+
+&emsp;&emsp;&emsp;(I)
+
+In general.—Not later than 18 months after promulgation of the proposed regulations under clause (i), the Secretary shall promulgate interim or final regulations.
+
+&emsp;&emsp;&emsp;(II)
+
+Date of required compliance.—The Secretary shall establish in the interim or final regulations a date by which all school food authorities participating in the school lunch program authorized under this Act and the school breakfast program established by section 1773 of this title are required to comply with the meal pattern and nutrition standards established in the interim or final regulations.
+
+&emsp;&emsp;(iii)
+
+Report to congress.—Not later than 90 days after December 13, 2010, and each 90 days thereafter until the Secretary has promulgated interim or final regulations under clause (ii), the Secretary shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a quarterly report on progress made toward promulgation of the regulations described in this subparagraph.
+
+&emsp;(B)
+
+Performance-based reimbursement rate increase.—Beginning on the later of the date of promulgation of the implementing regulations described in subparagraph (A)(ii), December 13, 2010, or October 1, 2012, the Secretary shall provide additional reimbursement for each lunch served in school food authorities determined to be eligible under subparagraph (D).
+
+&emsp;(C)
+
+Additional reimbursement.—
+
+&emsp;&emsp;(i)
+
+In general.—Each lunch served in school food authorities determined to be eligible under subparagraph (D) shall receive an additional 6 cents, adjusted in accordance with section 1759a(a)(3) of this title, to the national lunch average payment for each lunch served.
+
+&emsp;&emsp;(ii)
+
+Disbursement.—The State agency shall disburse funds made available under this paragraph to school food authorities eligible to receive additional reimbursement.
+
+&emsp;(D)
+
+Eligible school food authority.—To be eligible to receive an additional reimbursement described in this paragraph, a school food authority shall be certified by the State to be in compliance with the interim or final regulations described in subparagraph (A)(ii).
+
+&emsp;(E)
+
+Failure to comply.—Beginning on the later of the date described in subparagraph (A)(ii)(II), December 13, 2010, or October 1, 2012, school food authorities found to be out of compliance with the meal patterns or nutrition standards established by the implementing regulations shall not receive the additional reimbursement for each lunch served described in this paragraph.
+
+&emsp;(F)
+
+Administrative costs.—
+
+&emsp;&emsp;(i)
+
+In general.—Subject to clauses (ii) and (iii), the Secretary shall make funds available to States for State activities related to training, technical assistance, certification, and oversight activities of this paragraph.
+
+&emsp;&emsp;(ii)
+
+Provision of funds.—The Secretary shall provide funds described in clause (i) to States administering a school lunch program in a manner proportional to the administrative expense allocation of each State during the preceding fiscal year.
+
+&emsp;&emsp;(iii)
+
+Funding.—
+
+&emsp;&emsp;&emsp;(I)
+
+In general.—In the later of the fiscal year in which the implementing regulations described in subparagraph (A)(ii) are promulgated or the fiscal year in which this paragraph is enacted, and in the subsequent fiscal year, the Secretary shall use not more than $50,000,000 of funds made available under section 1752 of this title to make payments to States described in clause (i).
+
+&emsp;&emsp;&emsp;(II)
+
+Reservation.—In providing funds to States under clause (i), the Secretary may reserve not more than $3,000,000 per fiscal year to support Federal administrative activities to carry out this paragraph.
+
+(June 4, 1946, ch. 281, §4, 60 Stat. 230; July 12, 1952, ch. 699, §1(a), 66 Stat. 591; Pub. L. 87–688, §3(a), Sept. 25, 1962, 76 Stat. 587; Pub. L. 87–823, §2, Oct. 15, 1962, 76 Stat. 944; Pub. L. 92–433, §4(c), Sept. 26, 1972, 86 Stat. 726; Pub. L. 93–150, §2(a), Nov. 7, 1973, 87 Stat. 560; Pub. L. 97–35, title VIII, §§801(a), 819(g), Aug. 13, 1981, 95 Stat. 521, 533; Pub. L. 101–147, title III, §§301, 312(2), Nov. 10, 1989, 103 Stat. 913, 916; Pub. L. 111–296, title II, §201, Dec. 13, 2010, 124 Stat. 3214.)
 
 #### Amendments
 
-1989—Pub. L. 101–147, §301, inserted “Apportionments to States” as section catchline.
+<b>2010</b>—Subsec. (b)(3). Pub. L. 111–296 added par. (3).
+
+<b>1989</b>—Pub. L. 101–147, §301, inserted “Apportionments to States” as section catchline.
 
 Subsec. (b)(2). Pub. L. 101–147, §312(2), substituted “reduced price” for “reduced-price”.
 
-1981—Subsec. (a). Pub. L. 97–35, §§801(a)(1), (2), 819(g), designated existing provisions as subsec. (a), struck out exclusion of sum specified in section 1754 of this title, and struck out provisions relating to food assistance payments.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §§801(a)(1), (2), 819(g), designated existing provisions as subsec. (a), struck out exclusion of sum specified in section 1754 of this title, and struck out provisions relating to food assistance payments.
 
 Subsec. (b). Pub. L. 97–35, §801(a)(3), added subsec. (b).
 
-1973—Pub. L. 93–150 increased national average food assistance payments from 8 to 10 cents per lunch.
+<b>1973</b>—Pub. L. 93–150 increased national average food assistance payments from 8 to 10 cents per lunch.
 
-1972—Pub. L. 92–433 substituted new formula for food assistance payments to State educational agencies by taking into account the number of lunches served during the year, the children in the schools in such State participating in the school lunch program, and the national average payment per lunch set up by the Secretary, with certain limitations, for apportionment formula limiting the apportionable funds to 75 per cent of the available funds for such year, and taking into account the participation rate for the State, the need rate for the State, and providing for a method of apportionment, special provisions for disposal of excess or unused funds and for fiscal years beginning July 1, 1962, July 1, 1963, July 1, 1964 and fixing the funds for American Samoa at $25,000 for each year for the five fiscal years beginning July 1, 1962.
+<b>1972</b>—Pub. L. 92–433 substituted new formula for food assistance payments to State educational agencies by taking into account the number of lunches served during the year, the children in the schools in such State participating in the school lunch program, and the national average payment per lunch set up by the Secretary, with certain limitations, for apportionment formula limiting the apportionable funds to 75 per cent of the available funds for such year, and taking into account the participation rate for the State, the need rate for the State, and providing for a method of apportionment, special provisions for disposal of excess or unused funds and for fiscal years beginning July 1, 1962, July 1, 1963, July 1, 1964 and fixing the funds for American Samoa at $25,000 for each year for the five fiscal years beginning July 1, 1962.
 
-1962—Pub. L. 87–823 amended section generally, and, among other changes, substituted as factors for apportionment of funds among the States “(1) the participation rate for the State, and (2) the assistance need rate for the State” for “(1) the number of school children in the State and (2) the need for assistance in the State as indicated by the relation of the per capita income of the United States to the per capita income in the State”; inserted, in provision for determination of amount of apportionment in clause designated “second”, “(exclusive of American Samoa for periods ending before July 1, 1967)”; inserted provisions for use of transitional formulas in apportionment of funds for fiscal years beginning in 1962, 1963, and 1964 and apportioning to American Samoa $25,000 annually for five fiscal years in period beginning July 1, 1962 and ending June 30, 1967; and struck out apportionment formula for Puerto Rico, Guam, American Samoa, and the Virgin Islands, which limited apportionments to 3 per centum of the total fund to be apportioned but required the apportionment to each to be not less than an amount which would result in an allotment per child of school age equal to that for the State with the lowest per capita income, definition of school (incorporated in section 1760(d)(7) of this title), provision for use of latest per capita income figures certified by the Department of Commerce (incorporated in section 1760(d)(6)(ii) of this title), and definition of school children which provided that the number of school children should be the number between ages of five and seventeen.
+<b>1962</b>—Pub. L. 87–823 amended section generally, and, among other changes, substituted as factors for apportionment of funds among the States “(1) the participation rate for the State, and (2) the assistance need rate for the State” for “(1) the number of school children in the State and (2) the need for assistance in the State as indicated by the relation of the per capita income of the United States to the per capita income in the State”; inserted, in provision for determination of amount of apportionment in clause designated “second”, “(exclusive of American Samoa for periods ending before July 1, 1967)”; inserted provisions for use of transitional formulas in apportionment of funds for fiscal years beginning in 1962, 1963, and 1964 and apportioning to American Samoa $25,000 annually for five fiscal years in period beginning July 1, 1962 and ending June 30, 1967; and struck out apportionment formula for Puerto Rico, Guam, American Samoa, and the Virgin Islands, which limited apportionments to 3 per centum of the total fund to be apportioned but required the apportionment to each to be not less than an amount which would result in an allotment per child of school age equal to that for the State with the lowest per capita income, definition of school (incorporated in section 1760(d)(7) of this title), provision for use of latest per capita income figures certified by the Department of Commerce (incorporated in section 1760(d)(6)(ii) of this title), and definition of school children which provided that the number of school children should be the number between ages of five and seventeen.
 
 Pub. L. 87–688 inserted “American Samoa,” after “Guam,” in two places and “the apportionment for American Samoa,” after “the apportionment for Guam,”.
 
-1952—Act July 12, 1952, removed Alaska and Hawaii from 3 percent limitation imposed on Puerto Rico and Virgin Islands, made limitation applicable to Guam, and modified effects of 3 percent limitation.
+<b>1952</b>—Act July 12, 1952, removed Alaska and Hawaii from 3 percent limitation imposed on Puerto Rico and Virgin Islands, made limitation applicable to Guam, and modified effects of 3 percent limitation.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as a note under section 1751 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -92,7 +174,7 @@ Section 820(c) of title VIII of Pub. L. 97–35 provided that: “Not later than
 
 #### Reduction in General Reimbursement for Fiscal Year Ending September 30, 1981
 
-Pub. L. 96–499, title II, §201(a), Dec. 5, 1980, 94 Stat. 2599, provided that the national average payment per lunch under this chapter shall be reduced by 21/2 cents for certain school food authorities for fiscal year ending Sept. 30, 1981, and that the amount of reimbursements under section 1776 of this title for fiscal year ending Sept. 30, 1983, and the amount of State revenues appropriated or used for meeting the requirements under section 1756 of this title for the school year ending June 30, 1982, shall not be reduced because of a reduction in the amount of Federal funds expended, prior to repeal by Pub. L. 97–35, title VIII, §820(b)(1), Aug. 13, 1981, 95 Stat. 535, effective Sept. 1, 1981, or the first day of the first month following Aug. 1981, whichever is earlier.
+Pub. L. 96–499, title II, §201(a), Dec. 5, 1980, 94 Stat. 2599, provided that the national average payment per lunch under this chapter shall be reduced by 2½ cents for certain school food authorities for fiscal year ending Sept. 30, 1981, and that the amount of reimbursements under section 1776 of this title for fiscal year ending Sept. 30, 1983, and the amount of State revenues appropriated or used for meeting the requirements under section 1756 of this title for the school year ending June 30, 1982, shall not be reduced because of a reduction in the amount of Federal funds expended, prior to repeal by Pub. L. 97–35, title VIII, §820(b)(1), Aug. 13, 1981, 95 Stat. 535, effective Sept. 1, 1981, or the first day of the first month following Aug. 1981, whichever is earlier.
 
 #### Use of Funds Appropriated Under Section 612c of Title 7 for Implementing This Section and Reimbursement of Such Funds
 

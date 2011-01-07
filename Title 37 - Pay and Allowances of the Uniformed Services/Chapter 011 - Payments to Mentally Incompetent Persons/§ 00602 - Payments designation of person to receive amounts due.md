@@ -22,7 +22,7 @@
 
 (e) This section does not apply in any case in which a legal committee, guardian, or other representative has been appointed by a court of competent jurisdiction, except as to payments made before the paying agency of the department concerned receives notice of that appointment.
 
-(f) A person who is designated to receive payments under this section shall furnish satisfactory assurance that the amounts received by him will be applied to the use and benefit of the incompetent member, and, where the payments may reasonably be expected to be more than $1,000, shall provide a suitable bond to be paid for out of amounts due the incompetent member.
+(f) A person who is designated to receive payments under this section shall furnish satisfactory assurance that the amounts received by him will be applied to the use and benefit of theincompetent member, and, where the payments may reasonably be expected to be more than $1,000, shall provide a suitable bond to be paid for out of amounts due the incompetent member.
 
 (Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 483; Pub. L. 96–513, title V, §516(17), Dec. 12, 1980, 94 Stat. 2939; Pub. L. 101–189, div. A, title XVI, §1621(b)(1), Nov. 29, 1989, 103 Stat. 1604.)
 
@@ -74,9 +74,9 @@ In subsection (e), the words “have been” and “including a requirement” a
 
 #### Amendments
 
-1989—Subsec. (b)(5). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1989</b>—Subsec. (b)(5). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1980—Subsec. (b)(4). Pub. L. 96–513 substituted “Department of Health and Human Services” for “Department of Health, Education, and Welfare”.
+<b>1980</b>—Subsec. (b)(4). Pub. L. 96–513 substituted “Department of Health and Human Services” for “Department of Health, Education, and Welfare”.
 
 #### Effective Date of 1980 Amendment
 

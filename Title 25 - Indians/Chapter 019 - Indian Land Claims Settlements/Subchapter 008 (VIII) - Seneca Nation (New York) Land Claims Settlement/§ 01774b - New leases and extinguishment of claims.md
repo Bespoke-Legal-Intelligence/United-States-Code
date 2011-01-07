@@ -2,7 +2,7 @@
 
 #### (a) New leases
 
-If the Seneca Nation offers new leases in accordance with the Agreement, this subchaptershall apply with respect to the Seneca Nation. The Seneca Nation shall supply copies of such leases to the Secretary and shall certify in writing that it has supplied the Secretary with copies of written offers to all lessees entitled to an offer.
+If the Seneca Nation offers new leases in accordance with the Agreement, this subchapter shall apply with respect to the Seneca Nation. The Seneca Nation shall supply copies of such leases to the Secretary and shall certify in writing that it has supplied the Secretary with copies of written offers to all lessees entitled to an offer.
 
 #### (b) Extinguishment of claims
 

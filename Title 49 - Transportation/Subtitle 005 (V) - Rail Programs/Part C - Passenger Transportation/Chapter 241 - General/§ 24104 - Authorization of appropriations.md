@@ -122,7 +122,7 @@ Section 24704 of this title, referred to in subsec. (b), was repealed by Pub. L.
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–134 amended heading and text of subsec. (a) generally. Prior to amendment, subsec. (a) related to capital acquisition and corridor development.
+<b>1997</b>—Subsec. (a). Pub. L. 105–134 amended heading and text of subsec. (a) generally. Prior to amendment, subsec. (a) related to capital acquisition and corridor development.
 
 #### Limitation on Use of Tax Refund
 

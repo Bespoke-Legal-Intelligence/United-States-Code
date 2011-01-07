@@ -6,7 +6,7 @@ Any registration issued under the Act of March 3, 1881, or the Act of February 2
 
 #### (b) Incontestability; defenses
 
-To the extent that the right to use the registered mark has become incontestable under section 1065 of this title, the registration shall be conclusive evidence of the validity of the registered mark and of the registration of themark, of the registrant's ownership of the mark, and of the registrant's exclusive right to use the registered mark in commerce. Such conclusive evidence shall relate to the exclusive right to use the mark on or in connection with the goods or services specified in the affidavit filed under the provisions of section 1065 of this title, or in the renewal application filed under the provisions of section 1059 of this title if the goods or services specified in the renewal are fewer in number, subject to any conditions or limitations in the registration or in such affidavit or renewal application. Such conclusive evidence of the right to use the registered mark shall be subject to proof of infringement as defined in section 1114 of this title, and shall be subject to the following defenses or defects:
+To the extent that the right to use the registered mark has become incontestable under section 1065 of this title, the registration shall be conclusive evidence of the validity of the registered mark and of the registration of the mark, of the registrant's ownership of the mark, and of the registrant's exclusive right to use the registered mark in commerce. Such conclusive evidence shall relate to the exclusive right to use the mark on or in connection with the goods or services specified in the affidavit filed under the provisions of section 1065 of this title, or in the renewal application filed under the provisions of section 1059 of this title if the goods or services specified in the renewal are fewer in number, subject to any conditions or limitations in the registration or in such affidavit or renewal application. Such conclusive evidence of the right to use the registered mark shall be subject to proof of infringement as defined in section 1114 of this title, and shall be subject to the following defenses or defects:
 
 &emsp;(1) That the registration or the incontestable right to use the mark was obtained fraudulently; or
 
@@ -26,7 +26,7 @@ To the extent that the right to use the registered mark has become incontestable
 
 &emsp;(9) That equitable principles, including laches, estoppel, and acquiescence, are applicable.
 
-(July 5, 1946, ch. 540, title VI, §33, 60 Stat. 438; Pub. L. 87–772, §18, Oct. 9, 1962, 76 Stat. 774; Pub. L. 100–667, title I, §128(a), (b), Nov. 16, 1988, 102 Stat. 3944; Pub. L. 105–330, title II, §201(a)(9), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 107–273, div. C, title III, §13207(b)(7), Nov. 2, 2002, 116 Stat. 1908.)
+(July 5, 1946, ch. 540, title VI, §33, 60 Stat. 438; Pub. L. 87–772, §18, Oct. 9, 1962, 76 Stat. 774; Pub.L. 100–667, title I, §128(a), (b), Nov. 16, 1988, 102 Stat. 3944; Pub. L. 105–330, title II, §201(a)(9), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 107–273, div. C, title III, §13207(b)(7), Nov. 2, 2002, 116 Stat. 1908.)
 
 #### References in Text
 
@@ -40,11 +40,11 @@ Act Feb. 20, 1905, ch. 592, §§16, 21, 33 Stat. 728, 729.
 
 #### Amendments
 
-2002—Subsec. (b)(8). Pub. L. 107–273 realigned margins.
+<b>2002</b>—Subsec. (b)(8). Pub. L. 107–273 realigned margins.
 
-1998—Subsec. (b)(8), (9). Pub. L. 105–330 added par. (8) and redesignated former par. (8) as (9).
+<b>1998</b>—Subsec. (b)(8), (9). Pub. L. 105–330 added par. (8) and redesignated former par. (8) as (9).
 
-1988—Subsec. (a). Pub. L. 100–667, §128(a), inserted “the validity of the registered mark and of the registration of the mark, of the registrant's ownership of the mark, and of the” after “facie evidence of”, inserted “or in connection with” after “in commerce on”, substituted “another person” for “an opposing party”, and inserted “, including those set forth in subsection (b) of this section,” after “or defect”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–667, §128(a), inserted “the validity of the registered mark and of the registration of the mark, of the registrant's ownership of the mark, and of the” after “facie evidence of”, inserted “or in connection with” after “in commerce on”, substituted “another person” for “an opposing party”, and inserted “, including those set forth in subsection (b) of this section,” after “or defect”.
 
 Subsec. (b). Pub. L. 100–667, §128(b)(1), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “If the right to use the registered mark has become incontestable under section 1065 of this title, the registration shall be conclusive evidence of the registrant's exclusive right to use the registered mark in commerce on or in connection with the goods or services specified in the affidavit filed under the provisions of said section 1065 subject to any conditions or limitations stated therein except when one of the following defenses or defects is established:”.
 
@@ -56,9 +56,9 @@ Subsec. (b)(5). Pub. L. 100–667, §128(b)(4), substituted “(A) the date of c
 
 Subsec. (b)(8). Pub. L. 100–667, §128(b)(5), (6), added par. (8).
 
-1962—Subsec. (a). Pub. L. 87–772 substituted “registration subject to” for “certificate subject to”, and struck out “certificate of” before “registration issued”.
+<b>1962</b>—Subsec. (a). Pub. L. 87–772 substituted “registration subject to” for “certificate subject to”, and struck out “certificate of” before “registration issued”.
 
-Subsec. (b). Pub. L. 87–772 substituted “registration shall” for “certificate shall”, and “affidavit filed under the provisions of said section 1065” for “certificate” in text preceding par. (1), substituted “registrant or a person in privity with the registrant,” for “assignee”, and struck out “has been assigned and” after “registered mark” in par. (3), substituted “registration of the mark under this chapter or” for “the”, and struck out “(a) or” before “(c) of section 1062” in par. (5), inserted “registration under this chapter”, substituted “such registration or such” for “the date of”, and struck out “(a) or” before “(c) of section 1062”, “only where the said mark has been published pursuant to subsections (c) of section 1062 of this title and shall apply” after “defect shall apply”, and “under subsection (a) or (c) ofsection 1062 of this title” after “registrant's mark”, in par. (6).
+Subsec. (b). Pub. L. 87–772 substituted “registration shall” for “certificate shall”, and “affidavit filed under the provisions of said section 1065” for “certificate” in text preceding par. (1), substituted “registrant or a person in privity with the registrant,” for “assignee”, and struck out “has been assigned and” after “registered mark” in par. (3), substituted “registration of the mark under this chapter or” for “the”, and struck out “(a) or” before “(c) of section 1062” in par. (5), inserted “registration under this chapter”, substituted “such registration or such” for “the date of”, and struck out “(a) or” before “(c) of section 1062”, “only where the said mark has been published pursuant to subsections (c) of section 1062 of this title and shall apply” after “defect shall apply”, and “under subsection (a) or (c) of section 1062 of this title” after “registrant's mark”, in par. (6).
 
 #### Effective Date of 1998 Amendment
 

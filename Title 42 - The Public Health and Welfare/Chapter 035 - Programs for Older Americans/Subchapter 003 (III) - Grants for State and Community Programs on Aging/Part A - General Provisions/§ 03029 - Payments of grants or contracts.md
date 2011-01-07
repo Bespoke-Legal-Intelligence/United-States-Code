@@ -24,13 +24,13 @@ Provisions similar to those comprising this section were contained in Pub. L. 89
 
 #### Amendments
 
-2006—Subsec. (b)(2). Pub. L. 109–365 substituted “10 percent of the cost of the services specified in such section 3024(d)(1)(D) of this title” for “the non-Federal share required prior to fiscal year 1981”.
+<b>2006</b>—Subsec. (b)(2). Pub. L. 109–365 substituted “10 percent of the cost of the services specified in such section 3024(d)(1)(D) of this title” for “the non-Federal share required prior to fiscal year 1981”.
 
-1993—Subsec. (a). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” wherever appearing.
+<b>1993</b>—Subsec. (a). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” wherever appearing.
 
-1987—Subsec. (c). Pub. L. 100–175 substituted “its average annual expenditures from such sources for the period of 3 fiscal years preceding such year” for “its expenditures from such sources for the preceding fiscal year”.
+<b>1987</b>—Subsec. (c). Pub. L. 100–175 substituted “its average annual expenditures from such sources for the period of 3 fiscal years preceding such year” for “its expenditures from such sources for the preceding fiscal year”.
 
-1984—Subsec. (a). Pub. L. 98–459, §309(a), substituted “as the Commissioner deems appropriate” for “as he deems appropriate”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–459, §309(a), substituted “as the Commissioner deems appropriate” for “as he deems appropriate”.
 
 Subsec. (b)(2). Pub. L. 98–459, §309(b), substituted “section 3024(d)(1)(D)” for “section 3024(d)(1)(B)”.
 

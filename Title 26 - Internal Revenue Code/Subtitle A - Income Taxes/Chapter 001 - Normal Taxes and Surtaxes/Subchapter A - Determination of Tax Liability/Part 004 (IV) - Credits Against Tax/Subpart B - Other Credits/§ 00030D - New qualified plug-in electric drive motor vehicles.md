@@ -36,7 +36,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 &emsp;&emsp;&emsp;(i) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
 
-&emsp;&emsp;&emsp;(ii) the sum of the credits allowable under subpart A (other than this section and sections 23 and 25D) and section 27 for the taxable year.
+&emsp;&emsp;&emsp;(ii) the sum of the credits allowable under subpart A (other than this section and section 25D) and section 27 for the taxable year.
 
 #### (d) New qualified plug-in electric drive motor vehicle
 
@@ -132,7 +132,11 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the motor vehicle safety provisions of sections 30101 through 30169 of title 49, United States Code.
 
-(Added Pub. L. 110–343, div. B, title II, §205(a), Oct. 3, 2008, 122 Stat. 3835; amended Pub. L. 111–5, div. B, title I, §1141(a), Feb. 17, 2009, 123 Stat. 326.)
+(Added Pub. L. 110–343, div. B, title II, §205(a), Oct. 3, 2008, 122 Stat. 3835; amended Pub. L. 111–5, div. B, title I, §1141(a), Feb. 17, 2009, 123 Stat. 326; Pub. L. 111–148, title X, §10909(b)(2)(H), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 10909(c) of Pub. L. 111–148, see Effective and Termination Dates of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -140,7 +144,15 @@ The Clean Air Act, referred to in subsecs. (d)(1)(D), (3), (f)(7)(A), is act Jul
 
 #### Amendments
 
-2009—Pub. L. 111–5 amended section generally. Prior to amendment, section provided credit with respect to each new qualified plug-in electric drive motor vehicle placed in service and set forth provisions defining “applicable amount” and “new qualified plug-in electric drive motor vehicle” and stating limitations based on vehicle weight, the number of vehicles eligible for credit, and amount of tax liability.
+<b>2010</b>—Subsec. (c)(2)(B)(ii). Pub. L. 111–148, §10909(b)(2)(H), (c), as amended by Pub. L. 111–312, temporarily substituted “section 25D” for “sections 23 and 25D”. See Effective and Termination Dates of 2010 Amendment note below.
+
+<b>2009</b>—Pub. L. 111–5 amended section generally. Prior to amendment, section provided credit with respect to each new qualified plug-in electric drive motor vehicle placed in service and set forth provisions defining “applicable amount” and “new qualified plug-in electric drive motor vehicle” and stating limitations based on vehicle weight, the number of vehicles eligible for credit, and amount of tax liability.
+
+#### Effective and Termination Dates of 2010 Amendment
+
+Amendment by Pub. L. 111–148 terminated applicable to taxable years beginning after Dec. 31, 2011, and section is amended to read as if such amendment had never been enacted, see section 10909(c) of Pub. L. 111–148, set out as a note under section 1 of this title.
+
+Amendment by Pub. L. 111–148 applicable to taxable years beginning after Dec. 31, 2009, see section 10909(d) of Pub. L. 111–148, set out as a note under section 1 of this title.
 
 #### Effective Date of 2009 Amendment
 

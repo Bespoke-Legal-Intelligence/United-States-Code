@@ -44,9 +44,9 @@ The Electronic Funds Transfers Act, referred to in subsec. (a)(3)(B), probably m
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–183 inserted “(1)” after “(a)”, designated last sentence as par. (2), and added par. (3).
+<b>2003</b>—Subsec. (a). Pub. L. 108–183 inserted “(1)” after “(a)”, designated last sentence as par. (2), and added par. (3).
 
-1991—Pub. L. 102–40, §402(b)(1), renumbered section 3101 of this title as this section.
+<b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 3101 of this title as this section.
 
 Subsecs. (a), (b). Pub. L. 102–83, §4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
@@ -72,9 +72,9 @@ Subsec. (e)(2). Pub. L. 102–83, §4(a)(2)(A)(vii), substituted “Secretary”
 
 Pub. L. 102–40, §402(d)(1), substituted “5305” for “3105”.
 
-1989—Subsec. (c)(1). Pub. L. 101–189, as amended by Pub. L. 102–25, struck out “subchapter I or II of” after “plan prescribed in”.
+<b>1989</b>—Subsec. (c)(1). Pub. L. 101–189, as amended by Pub. L. 102–25, struck out “subchapter I or II of” after “plan prescribed in”.
 
-1986—Subsec. (a). Pub. L. 99–576, §701(68)(A), substituted “a” for “his or her” before “benefit check”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–576, §701(68)(A), substituted “a” for “his or her” before “benefit check”.
 
 Subsec. (b). Pub. L. 99–576, §701(68)(B), substituted “the beneficiary's” for “his” in four places in first sentence.
 
@@ -82,11 +82,11 @@ Subsec. (c). Pub. L. 99–576, §504(2), added subsec. (c). Former subsec. (c) r
 
 Subsecs. (d), (e). Pub. L. 99–576, §504(1), redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-1982—Subsec. (c). Pub. L. 97–295 inserted “of this section” after “subsection (a)”, and substituted “(26 U.S.C. 6331 et seq.)” for “(relating to seizure of property for collection of taxes)”.
+<b>1982</b>—Subsec. (c). Pub. L. 97–295 inserted “of this section” after “subsection (a)”, and substituted “(26 U.S.C. 6331 et seq.)” for “(relating to seizure of property for collection of taxes)”.
 
-1978—Subsec. (d). Pub. L. 95–479 added subsec. (d).
+<b>1978</b>—Subsec. (d). Pub. L. 95–479 added subsec. (d).
 
-1976—Subsec. (a). Pub. L. 94–502 inserted provision which prohibits, as an assignment, a payee of an educational assistance allowance from designating an attorney-in-fact's address as the payee's address for the purpose of receiving checks and benefits where the attorney-in-fact has also been given authority to negotiate the checks and benefits.
+<b>1976</b>—Subsec. (a). Pub. L. 94–502 inserted provision which prohibits, as an assignment, a payee of an educational assistance allowance from designating an attorney-in-fact's address as the payee's address for the purpose of receiving checks and benefits where the attorney-in-fact has also been given authority to negotiate the checks and benefits.
 
 #### Effective Date of 1991 Amendment
 

@@ -10,9 +10,9 @@ Goal.—(1) Except as provided in subsection (d), a goal of 5 percent of the amo
 
 &emsp;(C) minority institutions (as defined in section 365(3) of the Higher Education Act of 1965 (20 U.S.C. 1067k));
 
-&emsp;(D) Hispanic-serving institutions (as defined in section 502(a) of the Higher Education Act of 1965 (20 U.S.C. 1101a(a));<sup>1</sup> and
+&emsp;(D) Hispanic-serving institutions (as defined in section 502(a) of the Higher Education Act of 1965 (20 U.S.C. 1101a(a))); and
 
-&emsp;(E) Native Hawaiian-serving institutions and Alaska Native-serving institutions (as definedin section 317 of the Higher Education Act of 1965).
+&emsp;(E) Native Hawaiian-serving institutions and Alaska Native-serving institutions (as defined in section 317 of the Higher Education Act of 1965).
 
 (2) The head of the agency shall establish a specific goal within the overall 5 percent goal for the award of prime contracts and subcontracts to historically Black colleges and universities, Hispanic-serving institutions, Native Hawaiian-serving institutions and Alaska Native-serving institutions, and minority institutions in order to increase the participation of such colleges and universities and institutions in the program provided for by this section.
 
@@ -166,7 +166,7 @@ Effective Date.—(1) This section applies in the Department of Defense to each 
 
 (2) This section applies in the Coast Guard and the National Aeronautics and Space Administration in each of fiscal years 1995 through 2009.
 
-(Added and amended Pub. L. 102–484, div. A, title VIII, §§801(a)(1), (b)–(f), 802, Oct. 23, 1992, 106 Stat. 2442–2444, 2446; Pub. L. 103–35, title II, §202(a)(6), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VIII, §811(a)–(c), (e), Nov. 30, 1993, 107 Stat. 1702; Pub. L. 103–355, title VII, §7105, Oct. 13, 1994, 108 Stat. 3369; Pub. L. 104–106, div. D, title XLIII, §4321(b)(8), Feb. 10, 1996, 110 Stat. 672; Pub. L. 105–135, title VI, §604(a), Dec. 2, 1997, 111 Stat. 2632; Pub. L. 105–261, div. A, title VIII, §801, Oct. 17, 1998, 112 Stat. 2080; Pub. L. 106–65, div. A, title VIII, §808, Oct. 5, 1999, 113 Stat. 705; Pub. L. 107–107, div. A, title X, §1048(a)(17), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VIII, §816, Dec. 2, 2002, 116 Stat. 2610; Pub. L. 108–136, div. A, title X, §1031(a)(15), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 109–163, div. A, title VIII, §842, Jan. 6, 2006, 119 Stat. 3389; Pub. L. 109–364, div. A, title VIII, §858, Oct. 17, 2006, 120 Stat. 2349; Pub. L. 110–181, div. A, title VIII, §891, Jan. 28, 2008, 122 Stat. 270.)
+(Added and amended Pub. L. 102–484, div. A, title VIII, §§801(a)(1), (b)–(f), 802, Oct. 23, 1992, 106 Stat. 2442–2444, 2446; Pub. L. 103–35, title II, §202(a)(6), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VIII, §811(a)–(c), (e), Nov. 30,1993, 107 Stat. 1702; Pub. L. 103–355, title VII, §7105, Oct. 13, 1994, 108 Stat. 3369; Pub. L. 104–106, div. D, title XLIII, §4321(b)(8), Feb. 10, 1996, 110 Stat. 672; Pub. L. 105–135, title VI, §604(a), Dec. 2, 1997, 111 Stat. 2632; Pub. L. 105–261, div. A, title VIII, §801, Oct. 17, 1998, 112 Stat. 2080; Pub. L. 106–65, div. A, title VIII, §808, Oct. 5, 1999, 113 Stat. 705; Pub. L. 107–107, div. A, title X, §1048(a)(17), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VIII, §816, Dec. 2, 2002, 116 Stat. 2610; Pub. L. 108–136, div. A, title X, §1031(a)(15), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 109–163, div. A, title VIII, §842, Jan. 6, 2006, 119 Stat. 3389; Pub. L. 109–364, div. A, title VIII, §858, Oct. 17, 2006, 120 Stat. 2349; Pub. L. 110–181, div. A, title VIII, §891, Jan. 28, 2008, 122 Stat. 270; Pub. L. 111–383, div. A, title X, §1075(b)(31), Jan. 7, 2011, 124 Stat. 4370.)
 
 #### References in Text
 
@@ -182,17 +182,19 @@ Section, as added by Pub. L. 102–484, §801(a)(1), consists of text of Pub. L.
 
 #### Prior Provisions
 
-A prior section 2323, added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2598; amended Pub. L. 99–500, §101(c) \[title X, §926(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, §101(c) \[title X, §926(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title IX, formerly title IV, §926(a)(1), Nov. 14, 1986, 100 Stat. 3933, renumbered title IX, Pub.L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, related to commercial pricing for spare or repair parts, prior to repeal by Pub. L. 101–510, div. A, title VIII, §804(a), Nov. 5, 1990, 104 Stat. 1591.
+A prior section 2323, added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2598; amended Pub. L. 99–500, §101(c) \[title X, §926(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, §101(c) \[title X, §926(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title IX, formerly title IV, §926(a)(1), Nov. 14, 1986, 100 Stat. 3933, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, related to commercial pricing for spare or repair parts, prior to repeal by Pub. L. 101–510, div. A, title VIII, §804(a), Nov. 5, 1990, 104 Stat. 1591.
 
 #### Amendments
 
-2008—Subsec. (a)(1)(E). Pub. L. 110–181, §891(1), added subpar. (E).
+<b>2011</b>—Subsec. (a)(1)(D). Pub. L. 111–383 inserted closing parenthesis before semicolon.
+
+<b>2008</b>—Subsec. (a)(1)(E). Pub. L. 110–181, §891(1), added subpar. (E).
 
 Subsecs. (a)(2), (c)(1). Pub. L. 110–181, §891(2), (3), inserted “Native Hawaiian-serving institutions and Alaska Native-serving institutions,” after “Hispanic-serving institutions,”.
 
 Subsec. (c)(3). Pub. L. 110–181, §891(4), inserted “to Native Hawaiian-serving institutions and Alaska Native-serving institutions,” after “Hispanic-serving institutions,” in introductory provisions.
 
-2006—Subsec. (a)(1)(D). Pub. L. 109–364, §858(1), added subpar. (D).
+<b>2006</b>—Subsec. (a)(1)(D). Pub. L. 109–364, §858(1), added subpar. (D).
 
 Subsec. (a)(2). Pub. L. 109–364, §858(2), inserted “, Hispanic-serving institutions,” before “and minority institutions” and “and institutions” before “in the program”.
 
@@ -202,23 +204,23 @@ Subsec. (c)(3). Pub. L. 109–364, §858(4), inserted “, to Hispanic-serving 
 
 Subsec. (k). Pub. L. 109–163 substituted “2009” for “2006” in pars. (1) and (2).
 
-2003—Subsec. (i)(3). Pub. L. 108–136 struck out par. (3) which listed certain items to be included in the report required under par. (1).
+<b>2003</b>—Subsec. (i)(3). Pub. L. 108–136 struck out par. (3) which listed certain items to be included in the report required under par. (1).
 
-2002—Subsec. (j)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (j)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 Subsec. (k). Pub. L. 107–314 substituted “2006” for “2003” in pars. (1) and (2).
 
-2001—Subsec. (a)(1)(C). Pub. L. 107–107 substituted “section 365(3)” for “section 1046(3)” and “20 U.S.C. 1067k” for “20 U.S.C. 1135d–5(3)” and struck out before period at end “, which, for the purposes of this section, shall include Hispanic-serving institutions (as defined in section 316(b)(1) of such Act (20 U.S.C. 1059c(b)(1)))”.
+<b>2001</b>—Subsec. (a)(1)(C). Pub. L. 107–107 substituted “section 365(3)” for “section 1046(3)” and “20 U.S.C. 1067k” for “20 U.S.C. 1135d–5(3)” and struck out before period at end “, which, for the purposes of this section, shall include Hispanic-serving institutions (as defined in section 316(b)(1) of such Act (20 U.S.C. 1059c(b)(1)))”.
 
-1999—Subsec. (k). Pub. L. 106–65 substituted “2003” for “2000” in pars. (1) and (2).
+<b>1999</b>—Subsec. (k). Pub. L. 106–65 substituted “2003” for “2000” in pars. (1) and (2).
 
-1998—Subsec. (e)(3). Pub. L. 105–261 designated existing provisions as subpar. (A), inserted “, except as provided in subparagraph (B),” after “the head of an agency may” in first sentence, and added subpar. (B).
+<b>1998</b>—Subsec. (e)(3). Pub. L. 105–261 designated existing provisions as subpar. (A), inserted “, except as provided in subparagraph (B),” after “the head of an agency may” in first sentence, and added subpar. (B).
 
-1997—Subsec. (a)(1)(A). Pub. L. 105–135, §604(a)(1), inserted before semicolon at end “, and qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act)”.
+<b>1997</b>—Subsec. (a)(1)(A). Pub. L. 105–135, §604(a)(1), inserted before semicolon at end “, and qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act)”.
 
 Subsec. (f)(1). Pub. L. 105–135, §604(a)(2), inserted “or as a qualified HUBZone small business concern (as defined in section 3(p) of the Small Business Act)” after “(as described in subsection (a))”.
 
-1996—Subsec. (a)(1)(C). Pub. L. 104–106, §4321(b)(8)(A), inserted closing parenthesis after “1135d–5(3))” and “1059c(b)(1))”.
+<b>1996</b>—Subsec. (a)(1)(C). Pub. L. 104–106, §4321(b)(8)(A), inserted closing parenthesis after “1135d–5(3))” and “1059c(b)(1))”.
 
 Subsec. (a)(3). Pub. L. 104–106, §4321(b)(8)(B), struck out “(issued under section 25(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 421(c))” after “Acquisition Regulation”.
 
@@ -226,9 +228,9 @@ Subsec. (b). Pub. L. 104–106, §4321(b)(8)(C), inserted “(1)” after “Amo
 
 Subsec. (i)(3)(D). Pub. L. 104–106, §4321(b)(8)(D), added subpar. (D).
 
-1994—Pub. L. 103–355 amended section generally to extend defense contract goal for small disadvantaged businesses and certain institutions of higher education to Coast Guard and National Aeronautics and Space Administration.
+<b>1994</b>—Pub. L. 103–355 amended section generally to extend defense contract goal for small disadvantaged businesses and certain institutions of higher education to Coast Guard and National Aeronautics and Space Administration.
 
-1993—Subsec. (a)(1)(B). Pub. L. 103–160, §811(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “historically Black colleges and universities; and”.
+<b>1993</b>—Subsec. (a)(1)(B). Pub. L. 103–160, §811(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “historically Black colleges and universities; and”.
 
 Subsec. (a)(1)(C). Pub. L. 103–160, §811(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “minority institutions (as defined in paragraphs (3), (4), and (5) of section 312(b) of the Higher Education Act of 1965 (20 U.S.C. 1058)), including any nonprofit research institution that was an integral part of a historically Black college or university before November 14, 1986.”
 
@@ -238,11 +240,11 @@ Subsec. (f)(2). Pub. L. 103–160, §811(c), amended par. (2) generally. Prior t
 
 &emsp;“(B) A prohibition on the award of a contract under this section to an entity described in subsection (a)(1) unless the entity agrees to comply with the requirements of section 15(<i>o</i>)(1) of the Small Business Act (15 U.S.C. 644(<i>o</i>)(1)).”
 
-Subsec. (i). Pub. L. 103–35 amended and made technical amendment to directory language of Pub. L. 102–484, §801(f). See 1992 Amendment note for subsec. (h) below.
+Subsec. (i). Pub. L. 103–35 amended and made technical amendment to directory language of Pub. L.102–484, §801(f). See 1992 Amendment note for subsec. (h) below.
 
 Subsec. (i)(3)(D). Pub. L. 103–160, §811(e), added subpar. (D).
 
-1992—Subsec. (a)(3). Pub. L. 102–484, §801(b), added par. (3).
+<b>1992</b>—Subsec. (a)(3). Pub. L. 102–484, §801(b), added par. (3).
 
 Subsec. (e). Pub. L. 102–484, §801(c)(1), substituted “subsection (a):” for “subsection (a)—” in introductory provisions.
 
@@ -272,7 +274,7 @@ Subsec. (j). Pub. L. 102–484, §802(1), redesignated subsec. (i) as (j).
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -280,11 +282,11 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 #### Effective Date of 1996 Amendment
 
-For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2302 of this title.
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -296,17 +298,15 @@ Section 801(f) of Pub. L. 102–484 provided that the amendment made by that sec
 
 #### Regulations
 
-Section 811(d) of Pub. L. 103–160 provided that:
+Pub. L. 103–160, div. A, title VIII, §811(d), Nov. 30, 1993, 107 Stat. 1702, provided that:
 
 “(1) The Secretary of Defense shall propose amendments to the Department of Defense Supplement to the Federal Acquisition Regulation that address the matters described in subsection (g) and subsection (h)(2) of section 2323 of title 10, United States Code.
 
-“(2) Not later than 15 days after the date of the enactment of this Act \[Nov. 30, 1993\], the Secretary shall publish such proposed amendments in accordance with section 22 of the Office of Federal Procurement Policy Act (41 U.S.C. 418b). The Secretary shall provide a period of at least 60 days for public comment on the proposed amendments.
+“(2) Not later than 15 days after the date of the enactment of this Act \[Nov. 30, 1993\], the Secretary shall publish such proposed amendments in accordance with section 22 of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 418b) \[now 41 U.S.C. 1707\]. The Secretary shall provide a period of at least 60 days for public comment on the proposed amendments.
 
 “(3) The Secretary shall publish the final regulations not later than 120 days after the date of the enactment of this Act.”
 
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-<i><sup>1</sup></i><i> So in original. The semicolon probably should be preceded by an additional closing parenthesis.</i>
 

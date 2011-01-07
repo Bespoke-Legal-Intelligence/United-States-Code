@@ -50,11 +50,11 @@ The word “issue” is substituted for the words “grant permission”. The wo
 
 #### Amendments
 
-2004—Pub. L. 108–375, §2821(e)(2), substituted “Use of facilities by private organizations; use as polling places” for “Military installations: use by American National Red Cross; use as polling places” in section catchline.
+<b>2004</b>—Pub. L. 108–375, §2821(e)(2), substituted “Use of facilities by private organizations; use as polling places” for “Military installations: use by American National Red Cross; use as polling places” in section catchline.
 
 Subsec. (c). Pub. L. 108–375, §2821(c)(1), added subsec. (c).
 
-2001—Pub. L. 107–107 substituted “Military installations: use by American National Red Cross; use as polling places” for “Licenses: military installations; erection and use of buildings; American National Red Cross” in section catchline, designated existing provisions as subsec. (a), inserted heading, substituted “this subsection” for “this section” in concluding provisions, and added subsec. (b).
+<b>2001</b>—Pub. L. 107–107 substituted “Military installations: use by American National Red Cross; use as polling places” for “Licenses: military installations; erection and use of buildings; American National Red Cross” in section catchline, designated existing provisions as subsec. (a), inserted heading, substituted “this subsection” for “this section” in concluding provisions, and added subsec. (b).
 
 #### Regulations
 

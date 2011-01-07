@@ -76,9 +76,9 @@ The Alaska Native Claims Settlement Act, referred to in par. (1)(B), is Pub. L. 
 
 #### Amendments
 
-2005—Pub. L. 109–58 substituted “In this subchapter:” for “For the purposes of this subchapter—” in introductory provisions, added pars. (1) and (9), redesignated former pars. (1) to (8) as pars. (10), (7), (4), (3), (8), (5), (2), and (6), respectively, and, in par. (4)(A), substituted “substances” for “sustances”.
+<b>2005</b>—Pub. L. 109–58 substituted “In this subchapter:” for “For the purposes of this subchapter—” in introductory provisions, added pars. (1) and (9), redesignated former pars. (1) to (8) as pars. (10), (7), (4), (3), (8), (5), (2), and (6), respectively, and, in par. (4)(A), substituted “substances” for “sustances”.
 
-1994—Par. (1)(D). Pub. L. 103–429 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “pipeline facility (including gathering lines)—
+<b>1994</b>—Par. (1)(D). Pub. L. 103–429 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “pipeline facility (including gathering lines)—
 
 &emsp;“(i) which is regulated under the Natural Gas Pipeline Safety Act of 1968 (49 U.S.C. App. 1671 et seq.),
 
@@ -88,7 +88,7 @@ The Alaska Native Claims Settlement Act, referred to in par. (1)(B), is Pub. L. 
 
 > and which is determined by the Secretary to be connected to a pipeline or to be operated or intended to be capable of operating at pipeline pressure or as an integral part of a pipeline,”.
 
-1992—Par. (1)(D). Pub. L. 102–508 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “pipeline facility (including gathering lines) regulated under—
+<b>1992</b>—Par. (1)(D). Pub. L. 102–508 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “pipeline facility (including gathering lines) regulated under—
 
 &emsp;“(i) the Natural Gas Pipeline Safety Act of 1968,
 
@@ -96,7 +96,7 @@ The Alaska Native Claims Settlement Act, referred to in par. (1)(B), is Pub. L. 
 
 &emsp;“(iii) which is an intrastate pipeline facility regulated under State laws comparable to the provisions of law referred to in clause (i) or (ii) of this subparagraph,”.
 
-1986—Par. (2)(B). Pub. L. 99–499 struck out “, including crude oil or any fraction thereof which is liquid at standard conditions of temperature and pressure (60 degrees Fahrenheit and 14.7 pounds per square inch absolute)”. See par. (8).
+<b>1986</b>—Par. (2)(B). Pub. L. 99–499 struck out “, including crude oil or any fraction thereof which is liquid at standard conditions of temperature and pressure (60 degrees Fahrenheit and 14.7 pounds per square inch absolute)”. See par. (8).
 
 Par. (8). Pub. L. 99–499 added par. (8).
 

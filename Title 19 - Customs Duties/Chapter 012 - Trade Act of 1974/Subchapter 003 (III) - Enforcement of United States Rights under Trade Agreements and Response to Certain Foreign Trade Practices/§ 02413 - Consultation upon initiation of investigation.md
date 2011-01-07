@@ -32,13 +32,13 @@
 
 #### Amendments
 
-1988—Pub. L. 100–418 amended section generally, revising and restating substantially similar provisions.
+<b>1988</b>—Pub. L. 100–418 amended section generally, revising and restating substantially similar provisions.
 
-1984—Subsec. (a). Pub. L. 98–573, §§304(d)(2)(B), (e)(1), 306(c)(2)(C)(ii), designated existing provisions as subsec. (a), struck out “with respect to a petition” after “section 2412(b) of this title”, inserted “or the determination of the Trade Representative under section 2412(c)(1) of this title” after “in the petition”, and “(if any)” after “petitioner”, and struck out “private sector” after “appropriate”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–573, §§304(d)(2)(B), (e)(1), 306(c)(2)(C)(ii), designated existing provisions as subsec. (a), struck out “with respect to a petition” after “section 2412(b) of this title”, inserted “or the determination of the Trade Representative under section 2412(c)(1) of this title” after “in the petition”, and “(if any)” after “petitioner”, and struck out “private sector” after “appropriate”.
 
 Subsec. (b). Pub. L. 98–573, §304(e)(2), added subsec. (b).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 applicable to petitions filed, and investigations initiated, under section 2412 ofthis title on or after Aug. 23, 1988, and petitions filed, and investigations initiated, before Aug. 23, 1988, if by such date no decision had been made under section 2414 of this title regarding the petition or investigation, see section 1301(c) of Pub. L. 100–418, set out as a note under section 2411 of this title.
+Amendment by Pub. L. 100–418 applicable to petitions filed, and investigations initiated, under section 2412 of this title on or after Aug. 23, 1988, and petitions filed, and investigations initiated, before Aug. 23, 1988, if by such date no decision had been made under section 2414 of this title regarding the petition or investigation, see section 1301(c) of Pub. L. 100–418, set out as a note under section 2411 of this title.
 

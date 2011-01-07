@@ -18,7 +18,7 @@ In this section:
 
 #### (1) Eligible entity
 
-&emsp;The term “eligible entity” means an individual, entity, Indian tribe, or unit of State or local government, including a corporation,farm cooperative, farmer cooperative organization, association of agricultural producers, National Laboratory, institution of higher education, rural electric cooperative, public power entity, or consortium of any of those entities.
+&emsp;The term “eligible entity” means an individual, entity, Indian tribe, or unit of State or local government, including a corporation, farm cooperative, farmer cooperative organization, association of agricultural producers, National Laboratory, institution of higher education, rural electric cooperative, public power entity, or consortium of any of those entities.
 
 #### (2) Eligible technology
 

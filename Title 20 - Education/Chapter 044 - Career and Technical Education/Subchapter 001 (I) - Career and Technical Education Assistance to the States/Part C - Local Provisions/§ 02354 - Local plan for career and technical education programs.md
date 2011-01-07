@@ -52,7 +52,7 @@ The eligible agency shall determine the requirements for local plans, except tha
 
 &emsp;(12) describe efforts to improve—
 
-&emsp;&emsp;(A) the recruitment and retention of career and technical education teachers, faculty, and career guidance and academiccounselors, including individuals in groups underrepresented in the teaching profession; and
+&emsp;&emsp;(A) the recruitment and retention of career and technical education teachers, faculty, and career guidance and academic counselors, including individuals in groups underrepresented in the teaching profession; and
 
 &emsp;&emsp;(B) the transition to teaching from business and industry.
 

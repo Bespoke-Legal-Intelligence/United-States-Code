@@ -20,7 +20,7 @@ A certification authorized by this section may be issued for a class of vessels.
 
 #### Amendments
 
-1980—Subsec. (d). Pub. L. 96–591 added subsec. (d).
+<b>1980</b>—Subsec. (d). Pub. L. 96–591 added subsec. (d).
 
 #### Transfer of Functions
 

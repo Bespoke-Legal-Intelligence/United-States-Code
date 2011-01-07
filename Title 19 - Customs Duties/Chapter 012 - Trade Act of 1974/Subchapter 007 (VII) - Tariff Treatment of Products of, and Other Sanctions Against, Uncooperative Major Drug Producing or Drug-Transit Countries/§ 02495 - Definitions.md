@@ -20,7 +20,7 @@ For purposes of this subchapter—
 
 #### Amendments
 
-1999—Par. (2). Pub. L. 106–36 struck out “and” at end.
+<b>1999</b>—Par. (2). Pub. L. 106–36 struck out “and” at end.
 
-1989—Par. (2). Pub. L. 101–231 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘major drug producing country’ means a country producing five metric tons or more of opium or opium derivative during a fiscal year or producing five hundred metric tons or more of coca or marijuana (as the case may be) during a fiscal year; and”.
+<b>1989</b>—Par. (2). Pub. L. 101–231 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘major drug producing country’ means a country producing five metric tons or more of opium or opium derivative during a fiscal year or producing five hundred metric tons or more of coca or marijuana (as the case may be) during a fiscal year; and”.
 

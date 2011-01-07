@@ -20,7 +20,7 @@ Congressional Notification Requirements.—(1) When seeking to establish degree 
 
 &emsp;(B) the subsequent recommendations and rationale of the Secretary of Education regarding the establishment of the degree granting authority.
 
-(2) Upon any modification or redesignation of existing degree granting authority, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the rationale for the proposed modification or redesignation and any subsequent recommendation of the Secretary of Education on the proposed modification or redesignation.
+(2) Upon any modification or redesignation of existing degree granting authority, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the rationale for the proposed modification or redesignation and any subsequent recommendation ofthe Secretary of Education on the proposed modification or redesignation.
 
 (3) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the Naval Postgraduate School to award any new or existing degree.
 
@@ -46,15 +46,15 @@ In subsection (b) the words “from time to time” are omitted as surplusage.
 
 #### Amendments
 
-2008—Pub. L. 110–417 amended section generally. Prior to amendment, text read as follows:
+<b>2008</b>—Pub. L. 110–417 amended section generally. Prior to amendment, text read as follows:
 
 “(a) The President of the Naval Postgraduate School, under regulations prescribed by the Secretary of the Navy, may confer on any qualified graduate a bachelor's, master's, or doctor's degree in engineering or a related field.
 
 “(b) A degree may not be conferred under this section unless the curriculum leading to that degree is accredited by the appropriate professional authority.”
 
-2004—Subsec. (a). Pub. L. 108–375 substituted “President” for “Superintendent”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–375 substituted “President” for “Superintendent”.
 
-1992—Pub. L. 102–484 renumbered section 7047 of this title as this section.
+<b>1992</b>—Pub. L. 102–484 renumbered section 7047 of this title as this section.
 
 #### Effective Date of 2008 Amendment
 

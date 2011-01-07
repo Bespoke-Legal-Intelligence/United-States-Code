@@ -10,11 +10,11 @@
 
 #### (b) Conditions
 
-(1) The Secretary may issue a Federal guarantee instrument for a qualified infrastructure project only after a certificate of public convenience and necessity under section 720a(b) of this title or an amended certificate under section 719g of this title has been issued for the project, or after the Secretary certifies there exists a qualified entity to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States. In no case shall loan guarantees be issued for more than one qualified project.
+(1) The Secretary may issue a Federal guarantee instrument for a qualified infrastructure project only after a certificate of public convenience and necessity under section 720a(b) of this title or an amended certificate under section719g of this title has been issued for the project, or after the Secretary certifies there exists a qualified entity to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States. In no case shall loan guarantees be issued for more than one qualified project.
 
 (2) The Secretary may issue a Federal guarantee instrument under this section for a qualified infrastructure project only if the loan or other debt obligation guaranteed by the instrument has been issued by an eligible lender.
 
-(3) The Secretary shall not require as a condition of issuing a Federal guarantee instrument under this section any contractual commitmentor other form of credit support of the sponsors (other than equity contribution commitments and completion guarantees), or any throughput or other guarantee from prospective shippers greater than such guarantees as shall be required by the project owners.
+(3) The Secretary shall not require as a condition of issuing a Federal guarantee instrument under this section any contractual commitment or other form of credit support of the sponsors (other than equity contribution commitments and completion guarantees), or any throughput or other guarantee from prospective shippers greater than such guarantees as shall be required by the project owners.
 
 (4) Such loan guarantee may be utilized only by the project chosen by the Federal Energy Regulatory Commission as the qualified project.
 
@@ -70,7 +70,7 @@ The Securities Act of 1933, referred to in subsec. (g)(2), is title I of act May
 
 #### Amendments
 
-2004—Subsec. (a)(1). Pub.L. 108–199, §146(1), as amended by Pub. L. 108–447, §114(a)(1), (2), which directed the amendment of subsec. (a) by inserting “or with an entity the Secretary determines is qualified to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States,” before “to issue”, was executed to par. (1) of subsec. (a) to reflect the probable intent of Congress.
+<b>2004</b>—Subsec. (a)(1). Pub.L. 108–199, §146(1), as amended by Pub. L. 108–447, §114(a)(1), (2), which directed the amendment of subsec. (a) by inserting “or with an entity the Secretary determines is qualified to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States,” before “to issue”, was executed to par. (1) of subsec. (a) to reflect the probable intent of Congress.
 
 Subsec. (b)(1). Pub.L. 108–199, §146(2), as amended by Pub. L. 108–447, §114(1)–(3), inserted before period at end “, or after the Secretary certifies there exists a qualified entity to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States. In no case shall loan guarantees be issued for more than one qualified project”.
 
@@ -79,4 +79,6 @@ Subsec. (b)(4). Pub. L. 108–447, §114(b), added par. (4).
 Subsec. (c)(2). Pub. L. 108–199, §146(3), as amended by Pub. L. 108–447, §114(1), (2), (4), which directed the amendment of subsec. (a)(2) by inserting “, except that the total amount of principal that may be guaranteed for a qualified liquefied natural gas project may not exceed a principal amount in which the cost of loan guarantees, as defined by section 661a(5) of title 2, exceeds $2,000,000,000” before period at end, was executed by making the amendment to subsec. (c)(2), to reflect the probable intent of Congress.
 
 Subsec. (g)(4). Pub.L. 108–199, §146(4), as amended by Pub. L. 108–447, §114(1), (2), (5), inserted “or system” after “gas transportation project” and “liquification plants and liquefied natural gas tankers for transportation of liquefied natural gas from Southcentral Alaska to the West Coast” after “including gas treatment plants”.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

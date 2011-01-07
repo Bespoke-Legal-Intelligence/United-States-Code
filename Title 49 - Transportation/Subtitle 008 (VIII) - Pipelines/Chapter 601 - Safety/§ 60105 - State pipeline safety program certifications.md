@@ -38,7 +38,7 @@ Reports.—(1) Each certification submitted under subsection (a) of this section
 
 (d)
 
-Application.—A certification in effect under this section does not apply to safetystandards prescribed under this chapter after the date of certification. This chapter applies to each applicable safety standard prescribed after the date of certification until the State authority adopts the standard and submits the appropriate certification to the Secretary under subsection (a) of this section.
+Application.—A certification in effect under this section does not apply to safety standards prescribed under this chapter after the date of certification. This chapter applies to each applicable safety standard prescribed after the date of certification until the State authority adopts the standard and submits the appropriate certification to the Secretary under subsection (a) of this section.
 
 (e)
 
@@ -136,7 +136,7 @@ In subsection (f), the words “prescribed under this chapter” are added for c
 
 #### Amendments
 
-2006—Subsec. (b)(4). Pub. L. 109–468 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “is encouraging and promoting programs designed to prevent damage by demolition, excavation, tunneling, or construction activity to the pipeline facilities to which the certification applies;”.
+<b>2006</b>—Subsec. (b)(4). Pub. L. 109–468 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “is encouraging and promoting programs designed to prevent damage by demolition, excavation, tunneling, or construction activity to the pipeline facilities to which the certification applies;”.
 
-1996—Pub. L. 104–304 substituted “State pipeline safety program certifications” for “State certifications” in section catchline.
+<b>1996</b>—Pub. L. 104–304 substituted “State pipeline safety program certifications” for “State certifications” in section catchline.
 

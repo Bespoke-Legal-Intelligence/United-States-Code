@@ -18,5 +18,5 @@ As used in this chapter—
 
 #### Amendments
 
-1978—Subsec. (f). Pub. L. 95–514 added subsec. (f).
+<b>1978</b>—Subsec. (f). Pub. L. 95–514 added subsec. (f).
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) fail to furnish notification of any defect as required by section 5414 of this title;
 
-&emsp;(4) fail to issue a certification required by section 5415 of this title, or issue a certification to the effect that a manufactured homeconforms to all applicable Federal manufactured home construction and safety standards, if such person in the exercise of due care has reason to know that such certification is false or misleading in a material respect;
+&emsp;(4) fail to issue a certification required by section 5415 of this title, or issue a certification to the effect that a manufactured home conforms to all applicable Federal manufactured home construction and safety standards, if such person in the exercise of due care has reason to know that such certification is false or misleading in a material respect;
 
 &emsp;(5) fail to comply with a final order issued by the Secretary under this chapter;
 
@@ -32,11 +32,11 @@
 
 #### Amendments
 
-2000—Subsec. (a)(7). Pub. L. 106–569 added par. (7).
+<b>2000</b>—Subsec. (a)(7). Pub. L. 106–569 added par. (7).
 
-1980—Subsecs. (a)(1), (4), (b)(1) to (5), (c). Pub. L. 96–399 substituted “manufactured home” for “mobile home” wherever appearing.
+<b>1980</b>—Subsecs. (a)(1), (4), (b)(1) to (5), (c). Pub. L. 96–399 substituted “manufactured home” for “mobile home” wherever appearing.
 
-1977—Subsec. (a)(6). Pub. L. 95–128 added par. (6).
+<b>1977</b>—Subsec. (a)(6). Pub. L. 95–128 added par. (6).
 
 #### Effective Date of 2000 Amendment
 

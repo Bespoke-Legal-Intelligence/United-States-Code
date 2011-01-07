@@ -32,13 +32,13 @@
 
 #### Amendments
 
-2002—Subsec. (a)(4). Pub. L. 107–330, §401(a), inserted “adverse to the claimant” after “material fact” and “or reverse” after “and set aside”.
+<b>2002</b>—Subsec. (a)(4). Pub. L. 107–330, §401(a), inserted “adverse to the claimant” after “material fact” and “or reverse” after “and set aside”.
 
 Subsec. (b). Pub. L. 107–330, §401(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In making the determinations under subsection (a) of this section, the Court shall take due account of the rule of prejudicial error.”
 
-1998—Subsec. (a). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals” in introductory provisions.
+<b>1998</b>—Subsec. (a). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals” in introductory provisions.
 
-1991—Pub. L. 102–40 renumbered section 4061 of this title as this section.
+<b>1991</b>—Pub. L. 102–40 renumbered section 4061 of this title as this section.
 
 Subsec. (a)(1) to (3). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
@@ -52,7 +52,7 @@ Pub. L. 102–54 amended subsec. (c) as in effect immediately before the enactme
 
 Subsec. (d). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1989—Subsec. (a)(2). Pub. L. 101–237 inserted “or unreasonably delayed” after “withheld”.
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–237 inserted “or unreasonably delayed” after “withheld”.
 
 #### Effective Date of 2002 Amendment
 

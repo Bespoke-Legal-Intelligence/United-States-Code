@@ -22,3 +22,5 @@ Section 752 of this title, referred to in subsec. (b), was omitted from the Code
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

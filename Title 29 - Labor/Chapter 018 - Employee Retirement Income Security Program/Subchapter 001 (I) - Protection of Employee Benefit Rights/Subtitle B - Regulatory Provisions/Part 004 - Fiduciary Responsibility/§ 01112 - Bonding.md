@@ -44,7 +44,7 @@ In subsec. (a), “sections 9304–9308 of title 31” substituted for “sectio
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–280, §622(a), inserted at end of concluding provisions “In the case of a plan that holds employer securities (within the meaning of section 1107(d)(1) of this title), this subsection shall be applied by substituting ‘$1,000,000’ for ‘$500,000’ each place it appears.”
+<b>2006</b>—Subsec. (a). Pub. L. 109–280, §622(a), inserted at end of concluding provisions “In the case of a plan that holds employer securities (within the meaning of section 1107(d)(1) of this title), this subsection shall be applied by substituting ‘$1,000,000’ for ‘$500,000’ each place it appears.”
 
 Subsec. (a)(2), (3). Pub. L. 109–280, §611(b), added par. (2) and redesignated former par. (2) as (3).
 

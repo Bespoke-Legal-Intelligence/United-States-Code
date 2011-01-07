@@ -18,3 +18,7 @@ For purposes of subsection (a), the term “maximum Federal estate tax rate” m
 
 Section applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under section 2601 of this title.
 
+#### Modification of Generation-Skipping Transfer Tax
+
+Pub. L. 111–312, title III, §302(c), Dec. 17, 2010, 124 Stat. 3302, provided that: “In the case of any generation-skipping transfer made after December 31, 2009, and before January 1, 2011, the applicable rate determined under section 2641(a) of the Internal Revenue Code of 1986 shall be zero.”
+

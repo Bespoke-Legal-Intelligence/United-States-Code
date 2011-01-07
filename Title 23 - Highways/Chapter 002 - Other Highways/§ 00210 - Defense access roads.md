@@ -14,25 +14,25 @@
 
 (f) The provisions of section 112 of this title are applicable to defense access roads.
 
-(g) If the Secretary shall determine that it is necessary for the expeditious completion of any defense access road project he may advance to any State out of funds appropriated for defense access roads transferred and available to the Department of Transportation the Federal share of the cost of construction thereof to enable the State transportation department to make prompt payments for acquisition of rights-of-way, and for the construction as it progresses. The sums so advanced shall be deposited in a special fund by the State official authorized by State law to receive such funds, to be disbursed solely upon vouchers approved by the State transportation department for rights-of-way which have been or are being acquired and for construction which has been actually performed under this section. Upon determination by the Secretary that funds advanced to any State under the provisions of this subsection are no longer required, the amount of the advance which is determined to be in excess of requirements for the project shall be repaid upon his demand, and such repayments shall be returned to the credit of the appropriation from which the funds were advanced.
+(g) If the Secretary shall determine that it is necessary for the expeditious completion of any defense access road project he may advance to any State out of funds appropriated for defense access roads transferred and available to the Department of Transportation the Federal share of the cost of construction thereof to enable the State transportation department to make prompt payments for acquisition of rights-of-way, and for the construction as it progresses. The sums so advanced shall be deposited in a special fund by the State official authorized by State law to receive such funds, to be disbursed solely upon vouchers approved by the Statetransportation department for rights-of-way which have been or are being acquired and for construction which has been actually performed under this section. Upon determination by the Secretary that funds advanced to any State under the provisions of this subsection are no longer required, the amount of the advance which is determined to be in excess of requirements for the project shall be repaid upon his demand, and such repayments shall be returned to the credit of the appropriation from which the funds were advanced.
 
-(h) Funds appropriated for the purposes of this section shall be available to pay the cost of repairing damage caused to highways by the operation of vehicles and equipment in the construction of classified military installations and facilities for ballistic missiles if the Secretary shall determine that the State transportation department of any State is, or has been, unable to prevent such damage by restrictions upon the use of such highways without interference with, or delay in, the completion of a contract for the construction of such military reservations or installations. This subsection shall apply notwithstanding any provision of contract holding a party thereto responsible for such damage, if the Secretary of Defense or his designee shall determine, in fact, that construction estimates and the bid of such party did not include allowancefor repairing such damage. This subsection shall apply to damage caused by construction work commenced prior to June 1, 1961, and still in progress on that date and construction work which is commenced or for which a contract is awarded on or after June 1, 1961.
+(h) Funds appropriated for the purposes of this section shall be available to pay the cost of repairing damage caused to highways by the operation of vehicles and equipment in the construction of classified military installations and facilities for ballistic missiles if the Secretary shall determine that the State transportation department of any State is, or has been, unable to prevent such damage by restrictions upon the use of such highways without interference with, or delay in, the completion of a contract for the construction of such military reservations or installations. This subsection shall apply notwithstanding any provision of contract holding a party thereto responsible for such damage, if the Secretary of Defense or his designee shall determine, in fact, that construction estimates and the bid of such party did not include allowance for repairing such damage. This subsection shall apply to damage caused by construction work commenced prior to June 1, 1961, and still in progress on that date and construction work which is commenced or for which a contract is awarded on or after June 1, 1961.
 
 (Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908; Pub. L. 86–657, §8(d), July 14, 1960, 74 Stat. 524; Pub. L. 87–61, title I, §105, June 29, 1961, 75 Stat. 123; Pub. L. 97–424, title I, §155, Jan. 6, 1983, 96 Stat. 2134; Pub. L. 100–17, title I, §133(b)(15), Apr. 2, 1987, 101 Stat. 172; Pub. L. 105–178, title I, §1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193; Pub. L. 109–284, §3(2), Sept. 27, 2006, 120 Stat. 1211; Pub. L. 110–417, div. B, title XXVIII, §2814(a), Oct. 14, 2008, 122 Stat. 4728.)
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–417 designated existing provisions as par. (1) and added par. (2).
+<b>2008</b>—Subsec. (a). Pub. L. 110–417 designated existing provisions as par. (1) and added par. (2).
 
-2006—Subsec. (e). Pub. L. 109–284 substituted “sections 3114 to 3116 and 3118 of title 40” for “the Act of February 26, 1931; 46 Stat. 1421”.
+<b>2006</b>—Subsec. (e). Pub. L. 109–284 substituted “sections 3114 to 3116 and 3118 of title 40” for “the Act of February 26, 1931; 46 Stat. 1421”.
 
-1998—Subsecs. (e), (g), (h). Pub. L. 105–178 substituted “State transportation department” for “State highway department” wherever appearing.
+<b>1998</b>—Subsecs. (e), (g), (h). Pub. L. 105–178 substituted “State transportation department” for “State highway department” wherever appearing.
 
-1987—Subsec. (g). Pub. L. 100–17 substituted “Transportation” for “Commerce”.
+<b>1987</b>—Subsec. (g). Pub. L. 100–17 substituted “Transportation” for “Commerce”.
 
-1983—Subsec. (c). Pub. L. 97–424 substituted “Funds appropriated for defense maneuvers and exercises” for “Not exceeding $5,000,000 of any funds appropriated under the Act approved October 16, 1951 (65 Stat. 422)”.
+<b>1983</b>—Subsec. (c). Pub. L. 97–424 substituted “Funds appropriated for defense maneuvers and exercises” for “Not exceeding $5,000,000 of any funds appropriated under the Act approved October 16, 1951 (65 Stat. 422)”.
 
-1961—Subsec. (h). Pub. L. 87–61 added subsec. (h).
+<b>1961</b>—Subsec. (h). Pub. L. 87–61 added subsec. (h).
 
-1960—Subsec. (g). Pub. L. 86–657 added subsec. (g).
+<b>1960</b>—Subsec. (g). Pub. L. 86–657 added subsec. (g).
 

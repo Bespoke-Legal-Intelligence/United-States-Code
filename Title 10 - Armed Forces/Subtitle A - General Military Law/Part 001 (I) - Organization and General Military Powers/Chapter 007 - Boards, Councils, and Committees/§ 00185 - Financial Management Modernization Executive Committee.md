@@ -28,7 +28,7 @@ Duties.—In addition to other matters assigned to it by the Secretary of Defens
 
 &emsp;(3) To supervise and monitor the actions that are necessary to implement the management plan developed pursuant to paragraph (2), as approved by the Secretary of Defense.
 
-&emsp;(4) To ensure that a Department of Defense financial management enterprise architectureis developed and maintained in accordance with—
+&emsp;(4) To ensure that a Department of Defense financial management enterprise architecture is developed and maintained in accordance with—
 
 &emsp;&emsp;(A) the overall business process transformation strategy of the Department; and
 
@@ -60,5 +60,5 @@ Data Feeder Systems.—In this section, the term “data feeder system” means 
 
 #### Amendments
 
-2002—Subsec. (d). Pub. L. 107–314 substituted “means an automated or manual system from which information is derived for a financial management system or an accounting system” for “has the meaning given that term in section 2222(c)(2) of this title”.
+<b>2002</b>—Subsec. (d). Pub. L. 107–314 substituted “means an automated or manual system from which information is derived for a financial management system or an accounting system” for “has the meaning given that term in section 2222(c)(2) of this title”.
 

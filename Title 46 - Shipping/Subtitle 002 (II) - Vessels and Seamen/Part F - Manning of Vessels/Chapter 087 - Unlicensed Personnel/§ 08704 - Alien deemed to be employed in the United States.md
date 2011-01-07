@@ -6,11 +6,11 @@ An alien is deemed to be employed in the United States for purposes of section 2
 
 &emsp;(2) is not engaged in fishing exclusively for highly migratory species (as that term is defined in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802).
 
-(Added Pub. L. 100–239, §5(f)(1), Jan. 11, 1988, 101 Stat. 1781; amended Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+(Added Pub. L. 100–239, §5(f)(1), Jan. 11, 1988, 101 Stat. 1781; amended Pub. L. 104–208, div. A, titleI, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 #### Amendments
 
-1996—Par. (2). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+<b>1996</b>—Par. (2). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
 #### Effective Date of 1996 Amendment
 

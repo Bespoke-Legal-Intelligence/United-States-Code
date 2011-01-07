@@ -2,7 +2,7 @@
 
 Whenever a juvenile is taken into custody for an alleged act of juvenile delinquency, the arresting officer shall immediately advise such juvenile of his legal rights, in language comprehensive to a juvenile, and shall immediately notify the Attorney General and the juvenile's parents, guardian, or custodian of such custody. The arresting officer shall also notify the parents, guardian, or custodian of the rights of the juvenile and of the nature of the alleged offense.
 
-The juvenile shall be taken before a magistrate judge forthwith. In no event shall the juvenile be detained for longer than a reasonable period of time before being brought before a magistrate judge.
+The juvenile shall be taken before a magistrate judge forthwith. In no event shall the juvenile be detained for longer than a reasonableperiod of time before being brought before a magistrate judge.
 
 (June 25, 1948, ch. 645, 62 Stat. 857; Pub. L. 93–415, title V, §503, Sept. 7, 1974, 88 Stat. 1135; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
@@ -24,7 +24,7 @@ Another section 503 of title V of Pub. L. 93–415, as added by Pub. L. 102–58
 
 #### Amendments
 
-1974—Pub. L. 93–415 amended section generally, substituting “Custody prior to appearance before magistrate”, for “Jurisdiction; written consent; jury trial precluded” in section catchline, and substituting provisions relating to advice of rights by arresting officer, notification of Attorney General, parents, guardian or custodian, and appearance before magistrate, for provisions relating to jurisdiction of district courts, jury, consent by juvenile, and apprisal of rights by Judge of District Court.
+<b>1974</b>—Pub. L. 93–415 amended section generally, substituting “Custody prior to appearance before magistrate”, for “Jurisdiction; written consent; jury trial precluded” in section catchline, and substituting provisions relating to advice of rights by arresting officer, notification of Attorney General, parents, guardian or custodian, and appearance before magistrate, for provisions relating to jurisdiction of district courts, jury, consent by juvenile, and apprisal of rights by Judge of District Court.
 
 #### Change of Name
 

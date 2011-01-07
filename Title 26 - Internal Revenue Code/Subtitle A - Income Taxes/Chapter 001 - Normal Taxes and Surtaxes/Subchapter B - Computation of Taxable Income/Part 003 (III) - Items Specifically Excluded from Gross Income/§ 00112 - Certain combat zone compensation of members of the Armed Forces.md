@@ -42,7 +42,7 @@ For purposes of this section—
 
 #### (1) Members of the Armed Forces
 
-&emsp;Gross income does not include compensation received for active service as a member of theArmed Forces of the United States for any month during any part of which such member is in a missing status (as defined in section 551(2) of title 37, United States Code) during the Vietnam conflict as a result of such conflict, other than a period with respect to which it is officially determined under section 552(c) of such title 37 that he is officially absent from his post of duty without authority.
+&emsp;Gross income does not include compensation received for active service as a member of the Armed Forces of the United States for any month during any part of which such member is in a missing status (as defined in section 551(2) of title 37, United States Code) during the Vietnam conflict as a result of such conflict, other than a period with respect to which it is officially determined under section 552(c) of such title 37 that he is officially absent from his post of duty without authority.
 
 #### (2) Civilian employees
 
@@ -56,17 +56,17 @@ For purposes of this section—
 
 #### Amendments
 
-1996—Pub. L. 104–188 substituted “combat zone compensation” for “combat pay” in section catchline.
+<b>1996</b>—Pub. L. 104–188 substituted “combat zone compensation” for “combat pay” in section catchline.
 
 Subsec. (b). Pub. L. 104–117, §1(d)(1), substituted “the maximum enlisted amount” for “$500” in introductory provisions.
 
 Subsec. (c)(5). Pub. L. 104–117, §1(d)(2), added par. (5).
 
-1976—Subsec. (a). Pub. L. 94–569 substituted “after January 1978” for “beginning more than 2 years after the date of the enactment of this sentence” after “With respect to service in the combat zone designated for purposes of the Vietnam conflict, paragraph (2) shall not apply to any month”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–569 substituted “after January 1978” for “beginning more than 2 years after the date of the enactment of this sentence” after “With respect to service in the combat zone designated for purposes of the Vietnam conflict, paragraph (2) shall not apply to any month”.
 
 Subsec. (b). Pub. L. 94–569 substituted “after January 1978” for “beginning more than 2 years after the date of enactment of this sentence” after “With respect to service in the combat zone designated for purposes of the Vietnam conflict, paragraph (2) shall not apply to any month”.
 
-1975—Subsec. (a). Pub. L. 93–597, §2(a)(3), inserted provision relating to the applicability of par. (2) with respect to service in the combat zone designated for purposes of the Vietnam conflict.
+<b>1975</b>—Subsec. (a). Pub. L. 93–597, §2(a)(3), inserted provision relating to the applicability of par. (2) with respect to service in the combat zone designated for purposes of the Vietnam conflict.
 
 Subsec. (a)(1). Pub. L. 93–597, §2(a)(1), struck out “during an induction period” after “served in a combat zone”.
 
@@ -80,9 +80,9 @@ Subsec. (b)(2). Pub. L. 93–597, §2(a)(2), substituted “; but this paragrap
 
 Subsec. (c)(5). Pub. L. 93–597, §2(b), struck out par. (5) which defined “induction period”.
 
-1972—Subsec. (d). Pub. L. 92–279 added subsec. (d).
+<b>1972</b>—Subsec. (d). Pub. L. 92–279 added subsec. (d).
 
-1966—Subsec. (b). Pub. L. 89–739 substituted “$500” for “$200”.
+<b>1966</b>—Subsec. (b). Pub. L. 89–739 substituted “$500” for “$200”.
 
 #### Effective Date of 1975 Amendment
 
@@ -230,7 +230,7 @@ Ex. Ord. No. 11216, Apr. 24, 1965, 30 F.R. 5817, provided:
 
 Pursuant to the authority vested in me by section 112 of the Internal Revenue Code of 1954 \[now I.R.C. 1986\], I hereby designate, for the purposes of that section, as an area in which Armed Forces of the United States are and have been engaged in combat:
 
-Vietnam, including the waters adjacent thereto within the following-described limits: From a point on the East Coast of Vietnam at the juncture of Vietnam with China southeastward to 21° N Lat., 108°15 E Long.; thence southward to 18° N Lat., 108°15 E Long.; thence southeastward to 17°30 N Lat., 111° E Long.; thence southward to 11° N Lat., 111° E Long.; thence southwestward to 7° N Lat., 105° E Long.; thence westward to 7° N Lat., 103° E Long.; thence northward to 9°30 N Lat., 103° E Long.; thence northeastward to 10°15 N Lat., 104°27 E Long.; thence northward to a point on the West Coast of Vietnam at the juncture of Vietnam with Cambodia.
+Vietnam, including the waters adjacent thereto within the following-described limits: From a point on the East Coast of Vietnam at the juncture of Vietnam with China southeastward to 21° N Lat., 108°15′ E Long.; thence southward to 18° N Lat., 108°15′ E Long.; thence southeastward to 17°30 N Lat., 111° E Long.; thence southward to 11° N Lat., 111° E Long.; thence southwestward to 7° N Lat., 105° E Long.; thence westward to 7° N Lat., 103° E Long.; thence northward to 9°30′ N Lat., 103° E Long.; thence northeastward to 10°15′ N Lat., 104°27′ E Long.; thence northward to a point on the West Coast of Vietnam at the juncture of Vietnam with Cambodia.
 
 The date of the commencing of combatant activities in such area is hereby designated as January 1, 1964.
 

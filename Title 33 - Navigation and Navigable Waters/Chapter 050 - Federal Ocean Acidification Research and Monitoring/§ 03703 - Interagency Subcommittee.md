@@ -30,7 +30,7 @@ The Subcommittee shall—
 
 &emsp;(4) coordinate the United States Federal research and monitoring program with research and monitoring programs and scientists from other nations; and
 
-&emsp;(5) establish or designate an Ocean Acidification Information Exchange to make information on ocean acidification developed through or utilized by the interagency ocean acidification program accessible through electronic means, including information which would be useful to policymakers, researchers, and other stakeholders in mitigating or adapting to the impacts of ocean acidification.
+&emsp;(5) establish or designate an Ocean Acidification Information Exchange to make information on ocean acidification developed through or utilized by the interagency ocean acidification program accessible through electronicmeans, including information which would be useful to policymakers, researchers, and other stakeholders in mitigating or adapting to the impacts of ocean acidification.
 
 #### (c) Reports to Congress
 

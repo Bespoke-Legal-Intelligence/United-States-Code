@@ -54,7 +54,7 @@
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places in introductory provisions.
+<b>1991</b>—Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places in introductory provisions.
 
 Subsec. (a)(2)(B). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
@@ -68,7 +68,7 @@ Subsec. (c). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary's” 
 
 Subsec. (d). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1989—Pub. L. 101–237, §601(b)(1), struck out “for certain medical items” after “Multiyear procurement” in section catchline.
+<b>1989</b>—Pub. L. 101–237, §601(b)(1), struck out “for certain medical items” after “Multiyear procurement” in section catchline.
 
 Subsec. (a). Pub. L. 101–237, §601(a)(1), struck out “for use in Veterans’ Administration health-care facilities” after “supplies or services”.
 

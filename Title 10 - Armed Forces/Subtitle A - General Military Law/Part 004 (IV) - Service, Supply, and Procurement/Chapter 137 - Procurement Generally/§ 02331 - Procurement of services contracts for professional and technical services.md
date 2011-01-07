@@ -28,9 +28,9 @@ A prior section 2331 was renumbered section 2350 of this title.
 
 #### Amendments
 
-2001—Pub. L. 107–107 substituted “Procurement of services: contracts” for “Contracts” in section catchline.
+<b>2001</b>—Pub. L. 107–107 substituted “Procurement of services: contracts” for “Contracts” in section catchline.
 
-1994—Subsec. (c). Pub. L. 103–355 struck out text and heading of subsec. (c). Text read as follows:
+<b>1994</b>—Subsec. (c). Pub. L. 103–355 struck out text and heading of subsec. (c). Text read as follows:
 
 “(1) The Secretary of Defense may waive the limitation in section 2304(j)(4) of this title on the total value of task orders for specific contracting activities to the extent the Secretary considers the use of master agreements necessary in order to further the policy set forth in subsection (a).
 
@@ -38,11 +38,11 @@ A prior section 2331 was renumbered section 2350 of this title.
 
 “(3) Such a waiver shall not become effective until 60 days after the Secretary of Defense has published notice thereof in the Federal Register.”
 
-1991—Subsec. (c)(1). Pub. L. 102–25 struck out “on a case-by-case basis” after “value of task orders”, substituted “considers the use of master agreements necessary” for “considers necessary the use of master agreements”, and struck out “of this section” before period at end.
+<b>1991</b>—Subsec. (c)(1). Pub. L. 102–25 struck out “on a case-by-case basis” after “value of task orders”, substituted “considers the use of master agreements necessary” for “considers necessary the use of master agreements”, and struck out “of this section” before period at end.
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of this title.
 
 #### Regulations
 

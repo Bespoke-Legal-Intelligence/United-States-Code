@@ -6,7 +6,7 @@ Whenever under section 3303(b) or section 3304(c) the Secretary of Labor makes a
 
 #### (b) Findings of fact
 
-The findings of fact by the Secretary of Labor, if supported by substantial evidence, shall be conclusive; but the court, for good cause shown, may remand the case to the Secretary of Labor to take further evidence, and the Secretary of Labor may thereupon make new or modified findings of fact and may modify his previous action, and shall certify to the court the record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
+The findings of fact by the Secretary of Labor, if supported by substantial evidence, shall beconclusive; but the court, for good cause shown, may remand the case to the Secretary of Labor to take further evidence, and the Secretary of Labor may thereupon make new or modified findings of fact and may modify his previous action, and shall certify to the court the record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
 
 #### (c) Jurisdiction of court; review
 
@@ -22,9 +22,9 @@ The court shall have jurisdiction to affirm the action of the Secretary of Labor
 
 #### Amendments
 
-1984—Subsec. (e). Pub. L. 98–620 struck out subsec. (e) which had provided that any judicial proceedings under this section were entitled to, and upon request of the Secretary of Labor or of the State would receive, a preference and would be heard and determined as expeditiously as possible.
+<b>1984</b>—Subsec. (e). Pub. L. 98–620 struck out subsec. (e) which had provided that any judicial proceedings under this section were entitled to, and upon request of the Secretary of Labor or of the State would receive, a preference and would be heard and determined as expeditiously as possible.
 
-1976—Subsec. (d)(2). Pub. L. 94–455, §1906(b)(13)(F), substituted “the Secretary of Labor's action” for “the Secretary's action” in two places.
+<b>1976</b>—Subsec. (d)(2). Pub. L. 94–455, §1906(b)(13)(F), substituted “the Secretary of Labor's action” for “the Secretary's action” in two places.
 
 Subsec. (e). Pub. L. 94–455, §1906(b)(13)(H), substituted “of the Secretary of Labor” for “of the Secretary”.
 

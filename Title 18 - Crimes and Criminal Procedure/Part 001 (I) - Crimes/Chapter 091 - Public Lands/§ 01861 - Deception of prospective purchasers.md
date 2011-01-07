@@ -12,11 +12,7 @@ Words “deemed guilty of a misdemeanor and” which preceded “punished” wer
 
 Minor changes were made in phraseology.
 
-#### References in Text
-
-The public-land laws, referred to in text, are classified generally to Title 43, Public Lands.
-
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $300”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $300”.
 

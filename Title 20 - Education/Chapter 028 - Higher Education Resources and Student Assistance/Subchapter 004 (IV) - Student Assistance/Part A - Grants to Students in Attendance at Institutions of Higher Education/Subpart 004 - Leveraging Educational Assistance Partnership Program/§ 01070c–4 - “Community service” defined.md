@@ -14,7 +14,7 @@ A prior section 1070c–4, Pub. L. 89–329, title IV, §415E, as added Pub. L. 
 
 #### Amendments
 
-1987—Par. (1). Pub. L. 100–50 substituted “literacy” for “literary”.
+<b>1987</b>—Par. (1). Pub. L. 100–50 substituted “literacy” for “literary”.
 
 #### Effective Date of 1987 Amendment
 

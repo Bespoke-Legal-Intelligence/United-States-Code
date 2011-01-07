@@ -20,7 +20,7 @@ Each comprehensive plan developed pursuant to this section shall be consistent w
 
 &emsp;(C) the Secretary of the Interior and the Chairman or the Administrator, as the case may be, with respect to those conservation and rehabilitation programs to be implemented under this subchapter within the State on public land under the jurisdiction of the Chairman or the Administrator; except that before entering into any cooperative agreement which affects public land under the jurisdiction of the Chairman, the Secretary of the Interior shall obtain the prior written approval of the Atomic Energy Commission and before entering into any cooperative agreement which affects public lands under the jurisdiction of the Administrator, the Secretary of the Interior shall obtain the prior written approval of the Administrator.
 
-> Conservation and rehabilitation programs developed and implemented pursuant to this subchapter shall be deemed as supplemental to wildlife, fish, and game-related programs conducted by the Secretary of the Interior and the Secretary of Agriculture pursuant to other provisions of law. Nothing in this subchapter shall be construed as limiting the authority of the Secretary of the Interior or the Secretary of Agriculture, as the case may be, to manage the national forests or other public lands for wildlifeand fish and other purposes in accordance with the Multiple-Use Sustained-Yield Act of 1960 (74 Stat. 215; 16 U.S.C. 528–531) or other applicable authority.
+> Conservation and rehabilitation programs developed and implemented pursuant to this subchapter shall be deemed as supplemental to wildlife, fish, and game-related programs conducted by the Secretary of the Interior and the Secretary of Agriculture pursuant to other provisions of law. Nothing in this subchapter shall be construed as limiting the authority of the Secretary of the Interior or the Secretary of Agriculture, as the case may be, to manage the national forests or other public lands for wildlife and fish and other purposes in accordance with the Multiple-Use Sustained-Yield Act of 1960 (74 Stat. 215; 16 U.S.C. 528–531) or other applicable authority.
 
 (2) Any conservation and rehabilitation program included within a cooperative agreement entered into under this subsection may be modified in a manner mutually agreeable to the State agency and the Secretary concerned (and the Chairman or the Administrator, as the case may be, if public land under his jurisdiction is involved). Before modifying any cooperative agreement which affects public land under the jurisdiction of the Chairman, the Secretary of the Interior shall obtain the prior written approval of the Atomic Energy Commission and before modifying any cooperative agreement which affects public land under the jurisdiction of the Administrator, the Secretary of the Interior shall obtain the prior written approval of the Administrator.
 
@@ -48,7 +48,7 @@ Each comprehensive plan developed pursuant to this section shall be consistent w
 
 > A cooperative agreement may also provide for arrangements under which the Secretary concerned may authorize officers and employees of the State agency to enforce, or to assist in the enforcement of, section 670j(a) of this title.
 
-(4) Except where limited under a comprehensive plan or pursuant to cooperate agreement, hunting, fishing, and trapping shall be permitted with respect to resident fish and wildlife in accordance with applicable laws and regulations of the State in which such land is located on public land which is the subject of a conservation and rehabilitation program implemented under this subchapter.
+(4) Except where limited under a comprehensive plan or pursuant to cooperative agreement, hunting, fishing, and trapping shall be permitted with respect to resident fish and wildlife in accordance with applicable laws and regulations of the State in which such land is located on public land which is the subject of a conservation and rehabilitation program implemented under this subchapter.
 
 (5) The Secretary of the Interior and the Secretary of Agriculture, as the case may be, shall prescribe such regulations as are deemed necessary to control, in a manner consistent with the applicable comprehensive plan and cooperative agreement, the public use of public land which is the subject of any conservation and rehabilitation program implemented by him under this subchapter.
 
@@ -60,7 +60,7 @@ Agreements entered into by State agencies under the authority of this section sh
 
 #### References in Text
 
-The Multiple-Use Sustained-Yield Act of 1960, referred to in subsec. (c)(1), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, as amended, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 528 of this title and Tables.
+The Multiple-Use Sustained-Yield Act of 1960, referred to in subsec. (c)(1), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 528 of this title and Tables.
 
 #### Codification
 
@@ -68,7 +68,7 @@ In subsec. (d), “chapter 63 of title 31” substituted for “the Federal Gran
 
 #### Amendments
 
-1982—Subsec. (d). Pub. L. 97–396 added subsec. (d).
+<b>1982</b>—Subsec. (d). Pub. L. 97–396 added subsec. (d).
 
 #### Transfer of Functions
 

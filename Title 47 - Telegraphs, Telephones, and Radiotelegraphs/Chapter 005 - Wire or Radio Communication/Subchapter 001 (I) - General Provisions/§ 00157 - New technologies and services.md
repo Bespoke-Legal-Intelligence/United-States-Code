@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–414 struck out “or twelve months after December 8, 1983, if later” after “petition or application is filed” and after “12 months after it is initiated”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–414 struck out “or twelve months after December 8, 1983, if later” after “petition or application is filed” and after “12 months after it is initiated”.
 
 #### Advanced Telecommunications Incentives
 

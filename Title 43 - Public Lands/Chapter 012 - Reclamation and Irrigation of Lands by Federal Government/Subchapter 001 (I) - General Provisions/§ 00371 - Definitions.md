@@ -78,7 +78,7 @@ Pub. L. 102–575, title XXX, Oct. 30, 1992, 106 Stat. 4693, as amended by Pub. 
 
 &emsp;“(9) the Federal Government recognizes its trust responsibilities to protect Indian water rights and assist Tribes in the wise use of those resources;
 
-&emsp;“(10) Federal agencies, such as the Bureau of Reclamation, have had, and will continue to have major responsibilities in assisting States in the wise management and allocation of scarce water resources; and
+&emsp;“(10) Federal agencies, such as the Bureau of Reclamation, have had, and will continue to have majorresponsibilities in assisting States in the wise management and allocation of scarce water resources; and
 
 &emsp;“(11) the Secretary of the Interior, given his responsibilities for management of public land, trust responsibilities for Indians, administration of the reclamation program, investigations and reviews into ground water resources through the Geologic Survey \[now United States Geological Survey\], and the Secretary of the Army, given his responsibilities for flood control, water supply, hydroelectric power, recreation, and fish and wildlife enhancement, have the resources to assist in a comprehensive review, in consultation with appropriate officials from the nineteen Western States, into the problems and potential solutions facing the nineteen Western States and the Federal Government in the increasing competition for the scarce water resources of the Western States.
 

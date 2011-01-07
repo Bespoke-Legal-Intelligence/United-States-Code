@@ -50,11 +50,11 @@
 
 &emsp;(6) section 1043 of the Internal Revenue Code of 1986; and
 
-&emsp;(7) section 27 of the Office of Federal Procurement Policy Act (41 U.S.C. 423).
+&emsp;(7) chapter 21 of title 41.
 
 (j) Funds appropriated to the Government Accountability Office for salaries and expenses are available for meals and other related reasonable expenses incurred in connection with recruitment.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 896; Pub. L. 98–326, §1(a), June 22, 1984, 98 Stat. 269; Pub. L. 98–615, title II, §204(b), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 103–89, §3(b)(4), Sept. 30, 1993, 107 Stat. 983; Pub. L. 106–303, §5, Oct. 13, 2000, 114 Stat. 1069; Pub. L. 108–271, §§5–7, 8(b), July 7, 2004, 118 Stat. 813, 814; Pub. L. 110–323, §9(a), Sept. 22, 2008, 122 Stat. 3548.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 896; Pub. L. 98–326, §1(a), June 22, 1984, 98 Stat. 269; Pub. L. 98–615, title II, §204(b), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 103–89, §3(b)(4), Sept. 30, 1993, 107 Stat. 983; Pub. L. 106–303, §5, Oct. 13, 2000, 114 Stat. 1069; Pub. L. 108–271, §§5–7, 8(b), July 7, 2004, 118 Stat. 813, 814; Pub. L. 110–323, §9(a), Sept. 22, 2008, 122 Stat. 3548; Pub. L. 111–350, §5(h)(2), Jan. 4, 2011, 124 Stat. 3849.)
 
 Historical and Revision Notes
 
@@ -136,13 +136,15 @@ Level IV of the Executive Schedule, referred to in subsecs. (c) and (e), is set 
 
 The date of the enactment of this subsection, referred to in subsec. (h)(5), is the date of enactment of Pub. L. 108–271, which was approved July 7, 2004.
 
-The Ethics in Government Act of 1978, referred to in subsec. (i)(5), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
+The Ethics in Government Act of 1978, referred to in subsec. (i)(5), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
 
 Section 1043 of the Internal Revenue Code of 1986, referred to in subsec. (i)(6), is classified to section 1043 of Title 26, Internal Revenue Code.
 
 #### Amendments
 
-2008—Subsec. (d). Pub. L. 110–323, §9(a)(1), struck out subsec. (d) which read as follows: “When a change in organization, management responsibility, or workload makes it necessary, the Comptroller General may fix the rate of basic pay of 5 positions at rates not more than the rate for level IV of the Executive Schedule.”
+<b>2011</b>—Subsec. (i)(7). Pub. L. 111–350 substituted “chapter 21 of title 41” for “section 27 of the Office of Federal Procurement Policy Act (41 U.S.C. 423)”.
+
+<b>2008</b>—Subsec. (d). Pub. L. 110–323, §9(a)(1), struck out subsec. (d) which read as follows: “When a change in organization, management responsibility, or workload makes it necessary, the Comptroller General may fix the rate of basic pay of 5 positions at rates not more than the rate for level IV of the Executive Schedule.”
 
 Subsec. (e). Pub. L. 110–323, §9(a)(2), substituted “daily rate for level IV of the Executive Schedule” for “maximum daily rate for GS–18 under section 5332 of such title” and “more than 20 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable.” for “more than—
 
@@ -152,7 +154,7 @@ Subsec. (e). Pub. L. 110–323, §9(a)(2), substituted “daily rate for level I
 
 Subsec. (j). Pub. L. 110–323, §9(a)(3), added subsec. (j).
 
-2004—Subsecs. (a), (c). Pub. L. 108–271, §8(b), substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsecs. (a), (c). Pub. L. 108–271, §8(b), substituted “Government Accountability Office” for “General Accounting Office”.
 
 Subsec. (f). Pub. L. 108–271, §5, added subsec. (f).
 
@@ -160,13 +162,13 @@ Subsec. (g). Pub. L. 108–271, §6, added subsec. (g).
 
 Subsecs. (h), (i). Pub. L. 108–271, §7, added subsecs. (h) and (i).
 
-2000—Subsec. (e)(1). Pub. L. 106–303, §5(1), substituted “terms of not more than 3 years, but which shall be renewable” for “not more than 3 years”.
+<b>2000</b>—Subsec. (e)(1). Pub. L. 106–303, §5(1), substituted “terms of not more than 3 years, but which shall be renewable” for “not more than 3 years”.
 
 Subsec. (e)(2). Pub. L. 106–303, §5(2), substituted “level IV” for “level V”.
 
-1993—Subsec. (b). Pub. L. 103–89 inserted before period at end “, as in effect on October 31, 1993”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–89 inserted before period at end “, as in effect on October 31, 1993”.
 
-1984—Subsec. (b). Pub. L. 98–615 substituted “section 5401 of title 5” for “section 5401(a) of title 5”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–615 substituted “section 5401 of title 5” for “section 5401(a) of title 5”.
 
 Subsec. (e). Pub. L. 98–236 substituted “title 5 at rates not in excess of the maximum daily rate for GS–18 under section 5332 of such title” for “title 5” in provisions preceding par. (1) and “15” for “10” in par. (1).
 

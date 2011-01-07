@@ -50,7 +50,7 @@ The taxable income of an S corporation shall be computed in the same manner as i
 
 #### (B) Date for payment of installments
 
-&emsp;&emsp;The first installment under subparagraph (A) shall be paid on or before the due date (determined without regard to extensions) for the return of the tax imposed by this chapter for the last taxable year for which the corporation was a C corporation and the 3 succeeding installments shall be paid on or before the due date (as so determined) for the corporation's return for the 3 succeeding taxable years.
+&emsp;&emsp;The first installment under subparagraph (A) shall be paid on or before the due date (determined without regard to extensions) for the return of the tax imposed by this chapter for the last taxable year for which the corporation was a C corporation and the 3 succeeding installments shall be paid on or before the due date (as so determined) forthe corporation's return for the 3 succeeding taxable years.
 
 #### (C) No interest for period of extension
 
@@ -88,7 +88,7 @@ The taxable income of an S corporation shall be computed in the same manner as i
 
 #### (D) Not treated as member of affiliated group
 
-&emsp;&emsp;Except as provided in regulations, the corporation referred to in paragraph (1) shallnot be treated as a member of an affiliated group with respect to the amount included in gross income under paragraph (1).
+&emsp;&emsp;Except as provided in regulations, the corporation referred to in paragraph (1) shall not be treated as a member of an affiliated group with respect to the amount included in gross income under paragraph (1).
 
 #### (5) Special rule
 
@@ -98,23 +98,23 @@ The taxable income of an S corporation shall be computed in the same manner as i
 
 #### Amendments
 
-2005—Subsec. (d)(5). Pub. L. 109–135 added par. (5).
+<b>2005</b>—Subsec. (d)(5). Pub. L. 109–135 added par. (5).
 
-1988—Subsec. (d). Pub. L. 100–647, §1006(f)(7), struck out subsec. (d) which related to distributions of appreciated property.
+<b>1988</b>—Subsec. (d). Pub. L. 100–647, §1006(f)(7), struck out subsec. (d) which related to distributions of appreciated property.
 
 Subsec. (d)(4)(D). Pub. L. 100–647, §2004(n), added subpar. (D).
 
 Subsec. (e). Pub. L. 100–647, §1006(f)(7), struck out subsec. (e) which provided that subsec. (d) not apply to reorganizations, etc.
 
-1987—Subsec. (d). Pub. L. 100–203 added subsec. (d) relating to recapture of LIFO benefits.
+<b>1987</b>—Subsec. (d). Pub. L. 100–203 added subsec. (d) relating to recapture of LIFO benefits.
 
-1986—Subsec. (a). Pub. L. 99–514, §701(e)(4)(J), struck out “and in section 58(d)” after “this subchapter”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §701(e)(4)(J), struck out “and in section 58(d)” after “this subchapter”.
 
 Subsec. (c)(2). Pub. L. 99–514, §511(d)(2)(C), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “section 163(d) (relating to limitation on interest on investment indebtedness),”.
 
 Subsec. (e). Pub. L. 99–514, §632(b), amended subsec. (e) generally, substituting “reorganizations, etc.” for “complete liquidations and reorganizations”, in heading and in text struck out reference to property in complete liquidation of the corporation.
 
-1984—Subsec. (b)(4). Pub. L. 98–369, §721(p), added par. (4).
+<b>1984</b>—Subsec. (b)(4). Pub. L. 98–369, §721(p), added par. (4).
 
 Subsec. (c)(2). Pub. L. 98–369, §721(b)(1), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out subpar. (A) which provided “subsection (b)(5) or (d)(4) of section 108 (relating to income from discharge of indebtedness),”.
 

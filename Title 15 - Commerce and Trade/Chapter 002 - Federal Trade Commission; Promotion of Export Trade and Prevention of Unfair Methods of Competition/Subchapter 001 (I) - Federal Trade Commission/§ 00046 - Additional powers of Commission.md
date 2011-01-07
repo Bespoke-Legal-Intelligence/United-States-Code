@@ -24,7 +24,7 @@ Upon the application of the Attorney General to investigate and make recommendat
 
 #### (f) Publication of information; reports
 
-To make public from time to time such portions of the information obtained by it hereunder as are in the public interest; and to make annual and special reports to the Congress and to submit therewith recommendations for additional legislation; and to provide for the publication of its reports and decisions in such form and manner as may be best adapted for public information and use: <i>Provided</i>, That the Commission shall not have any authority to make public any trade secret or any commercial or financial information which is obtained from any person and which is privileged or confidential, except that the Commission may disclose such information (1) to officers and employees of appropriate Federal law enforcement agencies or to any officer or employee of any State law enforcement agency upon the prior certification of an officer of any such Federal or State law enforcement agency that such information will be maintained in confidence and will be used only for official law enforcement purposes, and (2) to any officer or employee of any foreign law enforcement agency under the same circumstances that making material available to foreign law enforcement agencies is permitted under section 57b–2(b) of this title.
+To make public from time to time such portions of the information obtained by it hereunder as are in the public interest; and to make annual and special reports to the Congress and to submit therewith recommendations for additional legislation; and to provide for the publication of its reports and decisions in such form and manner as may be best adapted for public information and use: <i>Provided</i>, That the Commission shall not have any authority to makepublic any trade secret or any commercial or financial information which is obtained from any person and which is privileged or confidential, except that the Commission may disclose such information (1) to officers and employees of appropriate Federal law enforcement agencies or to any officer or employee of any State law enforcement agency upon the prior certification of an officer of any such Federal or State law enforcement agency that such information will be maintained in confidence and will be used only for official law enforcement purposes, and (2) to any officer or employee of any foreign law enforcement agency under the same circumstances that making material available to foreign law enforcement agencies is permitted under section 57b–2(b) of this title.
 
 #### (g) Classification of corporations; regulations
 
@@ -116,7 +116,7 @@ No officer or employee of the Commission or any Commissioner may publish or disc
 
 Nothing in this section (other than the provisions of clause (c) and clause (d)) shall apply to the business of insurance, except that the Commission shall have authority to conduct studies and prepare reports relating to the business of insurance. The Commission may exercise such authority only upon receiving a request which is agreed to by a majority of the members of the Committee on Commerce, Science, and Transportation of the Senate or the Committee on Energy and Commerce of the House of Representatives. The authority to conduct any such study shall expire at the end of the Congress during which the request for such study was made.
 
-(Sept. 26, 1914, ch. 311, §6, 38 Stat. 721; Pub. L. 93–153, title IV, §408(e), Nov. 16, 1973, 87 Stat. 592; Pub. L. 93–637, title II, §§201(b), 202(b), 203(a), Jan. 4, 1975, 88 Stat. 2193, 2198; Pub. L. 96–37, §1(b), July 23, 1979, 93 Stat. 95; Pub. L. 96–252, §§3–5(a), May 28, 1980, 94 Stat. 374, 375; Pub. L. 100–86, title VII, §715(a), (b), Aug. 10, 1987, 101 Stat. 655; Pub. L. 103–437, §5(a), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 103–438, §3(e)(2)(A), Nov. 2, 1994, 108 Stat. 4598; Pub. L. 109–455, §4(a), (b), (d), Dec. 22, 2006, 120 Stat. 3372, 3373, 3375.)
+(Sept. 26, 1914, ch. 311, §6, 38 Stat. 721; Pub. L. 93–153, title IV, §408(e), Nov. 16, 1973, 87 Stat. 592; Pub. L. 93–637, title II, §§201(b), 202(b), 203(a), Jan. 4, 1975, 88 Stat. 2193, 2198; Pub. L. 96–37,§1(b), July 23, 1979, 93 Stat. 95; Pub. L. 96–252, §§3–5(a), May 28, 1980, 94 Stat. 374, 375; Pub. L. 100–86, title VII, §715(a), (b), Aug. 10, 1987, 101 Stat. 655; Pub. L. 103–437, §5(a), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 103–438, §3(e)(2)(A), Nov. 2, 1994, 108 Stat. 4598; Pub. L. 109–455, §4(a), (b), (d), Dec. 22, 2006, 120 Stat. 3372, 3373, 3375.)
 
 #### Amendment of Section
 
@@ -126,35 +126,33 @@ Nothing in this section (other than the provisions of clause (c) and clause (d))
 
 The Act to regulate commerce, referred to in subsecs. (a), (b), (j)(6), and the proviso following subsec. (<i>l</i>), is defined in section 44 of this title.
 
-The antitrust Acts, referred to in subsecs. (c) to (e), are defined in section 44 of this title.
-
-The International Antitrust Enforcement Assistance Act of 1994, referred to in subsec. (i), is Pub. L. 103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to chapter 88 (§6201 et seq.) of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 6201 of this title and Tables.
+The International Antitrust Enforcement Assistance Act of 1994, referred to in subsec. (i), is Pub. L. 103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to chapter 88 (§6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Amendments
 
-2006—Pub. L. 109–455, §§4(d), 13, temporarily substituted “subsections (a), (b), and (j)” for “clauses (a) and (b)” in proviso following subsec. (<i>l</i>). See Termination Date of 2006 Amendment note below.
+<b>2006</b>—Pub. L. 109–455, §§4(d), 13, temporarily substituted “subsections (a), (b), and (j)” for “clauses (a) and (b)” in proviso following subsec. (<i>l</i>). See Termination Date of 2006 Amendment note below.
 
 Subsec. (f). Pub. L. 109–455, §§4(a), 13, temporarily inserted “(1)” after “disclose such information”, substituted “purposes, and” for “purposes.”, and added par. (2). See Termination Date of 2006 Amendment note below.
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 109–455, §§4(b), 13, temporarily added subsecs. (j) to (<i>l</i>). See Termination Date of 2006 Amendment note below.
 
-1994—Pub. L. 103–437, in first and third undesignated pars. following proviso after subsec. (h), substituted “Committee on Energy and Commerce” for “Committee on Interstate and Foreign Commerce”.
+<b>1994</b>—Pub. L. 103–437, in first and third undesignated pars. following proviso after subsec. (h), substituted “Committee on Energy and Commerce” for “Committee on Interstate and Foreign Commerce”.
 
 Subsec. (i). Pub. L. 103–438 added subsec. (i).
 
-1987—Pub. L. 100–86, §715(b), in proviso following subsec. (h), inserted reference to Federal credit unions described in section 57a(f)(4) of this title and reference to in business as a Federal credit union.
+<b>1987</b>—Pub. L. 100–86, §715(b), in proviso following subsec. (h), inserted reference to Federal credit unions described in section 57a(f)(4) of this title and reference to in business as a Federal credit union.
 
 Subsecs. (a), (b). Pub. L. 100–86, §715(a)(1), (2), inserted reference to Federal credit unions described in section 57a(f)(4) of this title.
 
-1980—Pub. L. 96–252, §§3(b)–5(a), inserted three undesignated paragraphs following proviso after subsec. (h) requiring the Commission to establish a plan to reduce burdens imposed upon small businesses by the quarterly financial reporting requirements under subsec. (b) of this section, prohibiting Commissioners and officers and employees of the Commission from publishing or disclosing information whereby line-of-business data furnished by particular establishments or individuals can be identified, and, with certain exceptions, making this section inapplicable to the business of insurance.
+<b>1980</b>—Pub. L. 96–252, §§3(b)–5(a), inserted three undesignated paragraphs following proviso after subsec. (h) requiring the Commission to establish a plan to reduce burdens imposed upon small businesses by the quarterly financial reporting requirements under subsec. (b) of this section, prohibiting Commissioners and officers and employees of the Commission from publishing or disclosing information whereby line-of-business data furnished by particular establishments or individuals can be identified, and, with certain exceptions, making this section inapplicable to the business of insurance.
 
 Subsec. (f). Pub. L. 96–252, §3(a), substituted “as are” for “, except trade secrets and names of customers, as it shall deem expedient” and inserted proviso restricting Commission's authority to make public trade secrets or commercial or financial information which is obtained from any person and which is privileged or confidential.
 
-1979—Pub. L. 96–37, §1(b)(3), in proviso following subsec. (h), inserted references to savings and loan institutions and to persons, partnerships, corporations, groups of persons, partnerships, or corporations or industries that are not engaged or are engaged only incidentally in business as savings and loan institutions.
+<b>1979</b>—Pub. L. 96–37, §1(b)(3), in proviso following subsec. (h), inserted references to savings and loan institutions and to persons, partnerships, corporations, groups of persons, partnerships, or corporations or industries that are not engaged or are engaged only incidentally in business as savings and loan institutions.
 
 Subsecs. (a), (b). Pub. L. 96–37, §1(b)(1), (2), inserted reference to savings and loan institutions described in section 57a(f)(3) of this title.
 
-1975—Pub. L. 93–637, §203(a)(3), in proviso following subsec. (h), substituted “any person, partnership, or corporation to the extent that such action is necessary to the investigation of any person, partnership, or corporation, group of persons, partnerships, or corporations,” for “any such corporation to the extent that such action is necessary to the investigation of any corporation, group of corporations,”.
+<b>1975</b>—Pub. L. 93–637, §203(a)(3), in proviso following subsec. (h), substituted “any person, partnership, or corporation to the extent that such action is necessary to the investigation of any person, partnership, or corporation, group of persons, partnerships, or corporations,” for “any such corporation to the extent that such action is necessary to the investigation of any corporation, group of corporations,”.
 
 Subsec. (a). Pub. L. 93–637, §§201(b), 203(a)(1), substituted “in or whose business affects commerce” for “in commerce”, “person, partnership, or corporation” for “corporation”, and “persons, partnerships, and corporations” for “corporations and to individuals, associations, and partnerships”.
 
@@ -162,7 +160,7 @@ Subsec. (b). Pub. L. 93–637, §§201(b), 203(a)(2), substituted “in or whose
 
 Subsec. (g). Pub. L. 93–637, §202(b), inserted “(except as provided in section 57a(a)(2) of this title)” before “to make rules and regulations”.
 
-1973—Pub. L. 93–153 inserted proviso following subsec. (h) that the Commission's investigatory powers to gather and compile information, investigate, and require reports or answers is not curtailed as regards banks and common carriers when the investigation in question is an investigation of a corporation, group of corporations, or industry not engaged or engaged only incidentally in banking or in business as a common carrier subject to the Act to regulate commerce notwithstanding provisions excepting banks and common carriers subject to the Act from the exercise of the Commission's power to investigate and require reports from corporations.
+<b>1973</b>—Pub. L. 93–153 inserted proviso following subsec. (h) that the Commission's investigatory powers to gather and compile information, investigate, and require reports or answers is not curtailed as regards banks and common carriers when the investigation in question is an investigation of a corporation, group of corporations, or industry not engaged or engaged only incidentally in banking or in business as a common carrier subject to the Act to regulate commerce notwithstanding provisions excepting banks and common carriers subject to the Act from the exercise of the Commission's power to investigate and require reports from corporations.
 
 #### Change of Name
 
@@ -182,7 +180,7 @@ For applicability to rules promulgated or proposed under subsec. (g) of this sec
 
 #### Transfer of Functions
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
 #### Study and Evaluation of Effectiveness of State Policies and Programs Relating to Regulation of Certain Health Insurance Policies
 
@@ -192,7 +190,7 @@ Section 5(b) of Pub. L. 96–252 provided that: “The amendment made in subsect
 
 Ex. Ord. No. 10544, July 12, 1954, 19 F.R. 4289, provided:
 
-By virtue of the authority vested in me by section 55(a) of the Internal Revenue Code (53 Stat. 29; 54 Stat. 1008; 55 Stat. 722) and in the interest of the internal management of the Government, it is hereby orderedthat corporation income tax returns made for the year 1953 and subsequent years shall be open to inspection by the Federal Trade Commission as an aid in executing the powers conferred upon such Commission by the Federal Trade Commission Act of September 26, 1914, 38 Stat. 717, \[this subchapter\], such inspection to be in accordance and upon compliance with the rules and regulations prescribed by the Secretary of the Treasury in the Treasury decision relating to the inspection of returns by the Federal Trade Commission, approved by me this date \[T.D. 6080, 19 F.R. 4308\].
+By virtue of the authority vested in me by section 55(a) of the Internal Revenue Code (53 Stat. 29; 54 Stat. 1008; 55 Stat. 722) and in the interest of the internal management of the Government, it is hereby ordered that corporation income tax returns made for the year 1953 and subsequent years shall be open to inspection by the Federal Trade Commission as an aid in executing the powers conferred upon such Commission by the Federal Trade Commission Act of September 26, 1914, 38 Stat. 717, \[this subchapter\], such inspection to be in accordance and upon compliance with the rules and regulations prescribed by the Secretary of the Treasury in the Treasury decision relating to the inspection of returns by the Federal Trade Commission, approved by me this date \[T.D. 6080, 19 F.R. 4308\].
 
 This Executive Order shall be effective upon its filing for publication in the Federal Register.
 

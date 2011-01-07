@@ -12,7 +12,7 @@ As used in this section, the term “Indian tribal organization” means any tri
 
 #### Amendments
 
-1996—Pub. L. 104–294 substituted “$1,000” for “$100” in third par.
+<b>1996</b>—Pub. L. 104–294 substituted “$1,000” for “$100” in third par.
 
-1994—Pub. L. 103–322, in third par., substituted “fined under this title” for “fined not more than $5,000” after “Shall be” and for “fined not more than $1,000” after “he shall be”.
+<b>1994</b>—Pub. L. 103–322, in third par., substituted “fined under this title” for “fined not more than $5,000” after “Shall be” and for “fined not more than $1,000” after “he shall be”.
 

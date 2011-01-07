@@ -92,7 +92,7 @@ Limitations.—
 
 &emsp;(2) Any payment made under subsection (a)(1)(G) with respect to a seizure or forfeiture of property shall not exceed the value of the property at the time of disposition.
 
-&emsp;(3) The Secretary may exempt the procurement of contract services under the Fund from section 3709 of the Revised Statutes of the United States (41 U.S.C. 5), title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.), and other provisions of law as may be necessary to maintain the security and confidentiality of related criminal investigations.
+&emsp;(3) The Secretary may exempt the procurement of contract services under the Fund from division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, section 6101(b) to (d) of title 41, and other provisions of law as may be necessary to maintain the security and confidentiality of related criminal investigations.
 
 &emsp;(4) The Secretary shall assure that any equitable sharing payment made to a State or local law enforcement agency pursuant to subsection (a)(1)(G) and any property transferred to a State or local law enforcement agency pursuant to subsection (h)—
 
@@ -114,7 +114,7 @@ Funds Available to United States Coast Guard.—
 
 &emsp;&emsp;(B) pay for equipment for any vessel, vehicle, equipment, or aircraft available for official use by a State or local law enforcement agency to enable the vessel, vehicle, or aircraft to assist in law enforcement functions if the vessel, vehicle, or aircraft will be used in joint law enforcement operations with the United States Coast Guard;
 
-&emsp;&emsp;(C) pay for overtime salaries, travel, fuel, training, equipment, and other similar costs of State and local law enforcement officers that are incurred in joint law enforcement operations with the United States Coast Guard;
+&emsp;&emsp;(C) pay for overtime salaries, travel, fuel, training, equipment, and other similar costs of State and local law enforcement officersthat are incurred in joint law enforcement operations with the United States Coast Guard;
 
 &emsp;&emsp;(D) pay for expenses incurred in bringing vessels into compliance with applicable environmental laws prior to disposal by sinking.
 
@@ -196,7 +196,7 @@ Appropriations.—
 
 &emsp;(3)(A) Subject to subparagraphs (B) and (C), at the end of each of fiscal years 1994, 1995, 1996, and 1997, the Secretary shall transfer from the Fund not more than $100,000,000 to the Special Forfeiture Fund established by section 6073 of the Anti-Drug Abuse Act of 1988.<sup>7</sup>
 
-&emsp;(B) Transfers pursuant to subparagraph (A) shall be made only from excess unobligated amounts and only to the extent that, as determined by the Secretary, such transfers will not impair the future availability of amounts for the purposes described in subsection (a). Further, transfers under subparagraph (A) may not exceed one-half of the excess unobligated balance for a year. In addition, transfers under subparagraph (A) may be made only to the extent that the sum of the transfers in a fiscal year and one-half of the unobligated balance at the beginning of that fiscal year for the Special Forfeiture Fund does not exceed $100,000,000.
+&emsp;(B) Transfers pursuant to subparagraph (A) shall be made only from excess unobligatedamounts and only to the extent that, as determined by the Secretary, such transfers will not impair the future availability of amounts for the purposes described in subsection (a). Further, transfers under subparagraph (A) may not exceed one-half of the excess unobligated balance for a year. In addition, transfers under subparagraph (A) may be made only to the extent that the sum of the transfers in a fiscal year and one-half of the unobligated balance at the beginning of that fiscal year for the Special Forfeiture Fund does not exceed $100,000,000.
 
 &emsp;(C) The Secretary of the Treasury shall reserve an amount not to exceed $30,000,000 from the unobligated balances remaining in the Customs Forfeiture Fund on September 30, 1992, and such amount shall be transferred to the Fund on October 1, 1992, or, if later, the date that is 15 days after the date of the enactment of this section. Such amount shall be available for any expenses or activities authorized under this section. At the end of fiscal year <sup>8</sup> 1993, 1994, 1995, and 1996, the Secretary shall reserve in the Fund an amount not to exceed $50,000,000 of the unobligated balances in the Fund, or, if the Secretary determines that a greater amount is necessary for asset specific expenses, an amount equal to not more than 10 percent of the total obligations from the Fund in the preceding fiscal year. At the end of fiscal year 1997, and at the end of each fiscal year thereafter, the Secretary shall reserve any amounts that are required to be retained in the Fund to ensure the availability of amounts in the subsequent fiscal year for purposes authorized under subsection (a). Unobligated balances remaining pursuant to section 4(B) of 9703(g) <sup>9</sup> shall also be carried forward.
 
@@ -290,17 +290,15 @@ Department of the treasury law enforcement organization.—The term “Departmen
 
 Secretary.—The term “Secretary” means the Secretary of the Treasury.
 
-(Added Pub. L. 102–393, title VI, §638(b)(1), Oct. 6, 1992, 106 Stat. 1779; amended Pub. L. 103–182, title VI, §685, Dec. 8, 1993, 107 Stat. 2220; Pub. L. 103–322, title IX, §90205(c), Sept. 13, 1994, 108 Stat. 1994; Pub. L. 103–329, title I, §112, Sept. 30, 1994, 108 Stat. 2391; Pub. L. 104–208, div. A, title I, §101(f) \[title I, §116\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–325; Pub. L. 105–61, title I, §122(b), (c), Oct. 10, 1997, 111 Stat. 1289; Pub. L. 107–296, title XI, §1112(n), Nov. 25, 2002, 116 Stat. 2278.)
+(Added Pub. L. 102–393, title VI, §638(b)(1), Oct. 6, 1992, 106 Stat. 1779; amended Pub. L. 103–182, title VI, §685, Dec. 8, 1993, 107 Stat. 2220; Pub. L. 103–322, title IX, §90205(c), Sept. 13, 1994, 108 Stat. 1994; Pub. L. 103–329, title I, §112, Sept. 30, 1994, 108 Stat. 2391; Pub. L. 104–208, div. A, title I, §101(f) \[title I, §116\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–325; Pub. L. 105–61, title I, §122(b), (c), Oct. 10, 1997, 111 Stat. 1289; Pub. L. 107–296, title XI, §1112(n), Nov. 25, 2002, 116 Stat. 2278; Pub. L. 111–350, §5(h)(10), Jan. 4, 2011, 124 Stat. 3849.)
 
 #### References in Text
 
 Sections 7301 and 7302 of the Internal Revenue Code of 1986, referred to in subsecs. (a), (d)(2)(A), (h)(1), and (j)(1), are classified to sections 7301 and 7302, respectively, of Title 26, Internal Revenue Code. Section 5872(b)(2) of the Internal Revenue Code of 1986, referred to in subsec. (<i>o</i>)(1), is classified to section 5872(b)(2) of Title 26.
 
-The Bank Secrecy Act, referred to in subsec. (a)(2)(B)(iv), is title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1114, as amended, which is classified principally to chapter 21 (§1951 et seq.) of Title 12, Banks and Banking, and has also been the popular name of provisions reenacted as subchapter II of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1951 of Title 12 and Tables.
+The Bank Secrecy Act, referred to in subsec. (a)(2)(B)(iv), is title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1114, which is classified principally to chapter 21 (§1951 et seq.) of Title 12, Banks and Banking, and has also been the popular name of provisions reenacted as subchapter II of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1951 of Title 12 and Tables.
 
 Section 630 of the Tariff Act of 1930, referred to in subsec. (a)(2)(E), is classified to section 1630 of Title 19, Customs Duties.
-
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(3), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
 
 The Chief Financial Officers Act of 1990, referred to in subsec. (f), is Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 501 of this title and Tables.
 
@@ -310,7 +308,7 @@ The date of the enactment of this section, referred to in subsec. (g)(3)(C), is 
 
 Subparagraph (A)(ii), referred to in subsec. (g)(4)(B), means cl. (ii) of subsec. (g)(4)(A) which was repealed by Pub. L. 103–322, title IX, §90205(c)(2)(B), Sept. 13, 1994, 108 Stat. 1995.
 
-Section 481(h) of the Foreign Assistance Act of 1961, referred to in subsec. (h)(2)(C), was classified to section2291(h) of Title 22, Foreign Relations and Intercourse, prior to repeal of subsec. (h) by Pub. L. 102–583, §6(b)(2), Nov. 2, 1992, 106 Stat. 4932. Reference to section 481(h) of the Foreign Assistance Act of 1961 probably should be to section 490(a)(1) of the Act, which is classified to section 2291j(a)(1) of Title 22.
+Section 481(h) of the Foreign Assistance Act of 1961, referred to in subsec. (h)(2)(C), was classified to section 2291(h) of Title 22, Foreign Relations and Intercourse, prior to repeal of subsec. (h) by Pub. L. 102–583, §6(b)(2), Nov. 2, 1992, 106 Stat. 4932. Reference to section 481(h) of the Foreign Assistance Act of 1961 probably should be to section 490(a)(1) of the Act, which is classified to section 2291j(a)(1) of Title 22.
 
 The effective date of the Treasury Forfeiture Act of 1992, referred to in subsec. (j)(2), probably means the date of enactment of the Treasury Forfeiture Fund Act of 1992, section 638 of Pub. L. 102–393, which was approved Oct. 6, 1992.
 
@@ -318,7 +316,9 @@ Section 524(c)(11) of title 28, referred to in subsec. (m), was redesignated sec
 
 #### Amendments
 
-2002—Subsec. (a)(2)(B). Pub. L. 107–296, §1112(n)(1), in cl. (iii)(III), inserted “and” at end, in cl. (iv), substituted a period for “; and” at end, and struck out cl. (v) which read as follows: “the Bureau of Alcohol, Tobacco and Firearms with respect to a violation of—
+<b>2011</b>—Subsec. (b)(3). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes of the United States (41 U.S.C. 5), title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
+
+<b>2002</b>—Subsec. (a)(2)(B). Pub. L. 107–296, §1112(n)(1), in cl. (iii)(III), inserted “and” at end, in cl. (iv), substituted a period for “; and” at end, and struck out cl. (v) which read as follows: “the Bureau of Alcohol, Tobacco and Firearms with respect to a violation of—
 
 &emsp;“(I) section 842(h) of title 18;
 
@@ -332,13 +332,13 @@ Subsec. (<i>o</i>)(1). Pub. L. 107–296, §1112(n)(4), substituted “Tax and T
 
 Subsec. (p). Pub. L. 107–296, §1112(n)(3), redesignated subsec. (p) as (<i>o</i>).
 
-1997—Subsec. (g)(3)(C). Pub. L. 105–61, §122(b), inserted at end “Unobligated balances remaining pursuant to section 4(B) of 9703(g) shall also be carried forward.”
+<b>1997</b>—Subsec. (g)(3)(C). Pub. L. 105–61, §122(b), inserted at end “Unobligated balances remaining pursuant to section 4(B) of 9703(g) shall also be carried forward.”
 
 Subsec. (g)(4)(B). Pub. L. 105–61, §122(c), struck out “, subject to subparagraph (C),” after “shall”.
 
-1996—Subsec. (g)(3)(C). Pub. L. 104–208 substituted “1994, 1995, and 1996” for “and at the end of each fiscal year thereafter” and inserted at end “At the end of fiscal year 1997, and at the end of each fiscal year thereafter, the Secretary shall reserve any amounts that are required to be retained in the Fund to ensure the availability of amounts in the subsequent fiscal year for purposes authorized under subsection (a).”
+<b>1996</b>—Subsec. (g)(3)(C). Pub. L. 104–208 substituted “1994, 1995, and 1996” for “and at the end of each fiscal year thereafter” and inserted at end “At the end of fiscal year 1997, and at the end of each fiscal year thereafter, the Secretary shall reserve any amounts that are required to be retained in the Fund to ensure the availability of amounts in the subsequent fiscal year for purposes authorized under subsection (a).”
 
-1994—Subsec. (a). Pub. L. 103–329 redesignated subpars. (G) and (J) of par. (2) as (I) and (J) of par. (1), respectively, and subpars. (H) and (I) of par. (2) as (G) and (H) of par. (2), respectively.
+<b>1994</b>—Subsec. (a). Pub. L. 103–329 redesignated subpars. (G) and (J) of par. (2) as (I) and (J) of par. (1), respectively, and subpars. (H) and (I) of par. (2) as (G) and (H) of par. (2), respectively.
 
 Subsec. (g)(3)(A). Pub. L. 103–322, §90205(c)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Subject to subparagraphs (B) and (C), in each of fiscal years 1994 and 1995, the Secretary shall transfer from the Fund not more than $10,000,000 to the Special Forfeiture Fund, established by section 6073 of the Anti-Drug Abuse Act of 1988 (21 U.S.C. 1509), for activities authorized under the Drug-Free Schools and Communities Act of 1986 (20 U.S.C. 3171 et seq.).”
 
@@ -346,7 +346,7 @@ Subsec. (g)(3)(B). Pub. L. 103–322, §90205(c)(1)(B), inserted at end “Furth
 
 Subsec. (g)(4)(A). Pub. L. 103–322, §90205(c)(2), struck out “(i)” after “(A)” and struck out cl. (ii) which read as follows: “Beginning in fiscal year 1994, and each fiscal year thereafter, the Secretary shall transfer to the Attorney General an amount agreed upon by the Secretary and the Attorney General (taking into account any amount transferred by the Secretary pursuant to paragraph (3)(A)). The amount transferred under this clause shall reflect the Department of the Treasury's pro rata share of the amount required to be transferred by the Attorney General pursuant to section 524(c)(9)(B) of title 28.”
 
-1993—Subsec. (a)(2)(E) to (J). Pub. L. 103–182, §685(1), (2), added subpar. (E) and redesignated former subpars. (E) to (I) as (F) to (J), respectively.
+<b>1993</b>—Subsec. (a)(2)(E) to (J). Pub. L. 103–182, §685(1), (2), added subpar. (E) and redesignated former subpars. (E) to (I) as (F) to (J), respectively.
 
 Subsec. (e). Pub. L. 103–182, §685(3), substituted “may” for “shall” before “be kept on deposit”.
 

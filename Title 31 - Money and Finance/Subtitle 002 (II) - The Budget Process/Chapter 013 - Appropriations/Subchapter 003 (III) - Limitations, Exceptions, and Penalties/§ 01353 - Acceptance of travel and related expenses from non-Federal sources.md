@@ -24,7 +24,7 @@
 
 (2) The reports required by paragraph (1) shall, with respect to each payment—
 
-&emsp;(A) specify the amount and method of payment, the name of the person making the payment, the name of the employee, the nature of the meeting or similar function, the time and place of travel, the nature of the expenses, and such other information as the Administrator of General Services may prescribe by regulation under subsection (a);
+&emsp;(A) specify the amount and method of payment, the name of the person making the payment, the name of the employee, the nature ofthe meeting or similar function, the time and place of travel, the nature of the expenses, and such other information as the Administrator of General Services may prescribe by regulation under subsection (a);
 
 &emsp;(B) be submitted not later than May 31 of each year with respect to payments in the preceding period beginning on October 1 and ending on March 31; and
 
@@ -34,7 +34,7 @@
 
 #### Amendments
 
-1990—Pub. L. 101–280, §4(b)(1), renumbered section 1352 of this title as this section.
+<b>1990</b>—Pub. L. 101–280, §4(b)(1), renumbered section 1352 of this title as this section.
 
 Subsec. (a). Pub. L. 101–280, §4(c)(1), substituted “in the executive branch (including an independent agency) may accept payment, or authorize an employee of such agency to accept payment on the agency's behalf,” for “or employee in the executive branch may accept payment”.
 

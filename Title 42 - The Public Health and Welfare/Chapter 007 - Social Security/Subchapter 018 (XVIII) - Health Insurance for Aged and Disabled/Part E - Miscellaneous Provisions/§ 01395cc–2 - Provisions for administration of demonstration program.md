@@ -78,7 +78,7 @@
 
 #### (B) Noncompetitive award and renewal for entities administering part A or part B payments
 
-&emsp;&emsp;The Secretary may enter or renew a contract under this subsection with an entity described in paragraph (3)(A) without regard to the requirements of section 5 of title 41.
+&emsp;&emsp;The Secretary may enter or renew a contract under this subsection with an entity described in paragraph (3)(A) without regard to the requirements of section 6101 of title 41.
 
 #### (5) Applicability of Federal Acquisition Regulation
 
@@ -140,7 +140,7 @@
 
 #### (2) Bonuses
 
-&emsp;Notwithstanding any other provision of law, but subject to subparagraph (B)(ii), the Secretary may make bonus payments under the demonstration program from the FederalHealth Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund in amounts that do not exceed the amounts authorized under the program in accordance with the following:
+&emsp;Notwithstanding any other provision of law, but subject to subparagraph (B)(ii), the Secretary may make bonus payments under the demonstration program from the Federal Health Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund in amounts that do not exceed the amounts authorized under the program in accordance with the following:
 
 #### (A) Payments to program administrators
 
@@ -158,11 +158,11 @@
 
 #### (3) Antidiscrimination limitation
 
-&emsp;The Secretary shall not enter into an agreement with an entity to provide health care items or services under the demonstration program, or with an entity to administer the program, unless such entity guarantees that it will not deny, limit, or condition the coverage or provision of benefits under the program, for individuals eligible to be enrolled under such program, based on any health status-related factor described in section 300gg–1(a)(1) of this title.
+&emsp;The Secretary shall not enter into an agreement with an entity to provide health care items or services under the demonstration program, or with an entity to administer the program, unless such entity guarantees that it will not deny, limit, or condition the coverage or provision of benefits under the program, for individuals eligible to be enrolled under such program, based on any health status-related factor described in section 2702(a)(1) <sup>1</sup> of the Public Health Service Act.
 
 #### (d) Limitations on judicial review
 
-The following actions and determinations with respect to the demonstration program shall not be subject to review by a judicial or administrative tribunal:
+The following actions and determinations with respect to the demonstration program shall notbe subject to review by a judicial or administrative tribunal:
 
 &emsp;(1) Limiting the implementation of the program under subsection (a)(2) of this section.
 
@@ -192,11 +192,19 @@ Not later than two years after December 21, 2000, and biennially thereafter for 
 
 Parts A, B, and C of this subchapter, referred to in subsecs. (a)(1) and (e), are classified to sections 1395c et seq., 1395j et seq., and 1395w–21 et seq., respectively, of this title.
 
+Section 2702 of the Public Health Service Act, referred to in subsec. (c)(3), is section 2702 of act July 1, 1944, which was classified to section 300gg–1 of this title, was amended by Pub. L. 111–148, title I, §1201(3), Mar. 23, 2010, 124 Stat. 154, and was transferred to subsecs. (d) to (f) of section 300gg–4 of this title, effective for plan years beginning on or after Jan. 1, 2014. A new section 2702 of act July 1, 1944, related to guaranteed availability of coverage, was added by Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 156, effective for plan years beginning on or after Jan. 1, 2014, and is classified to section 300gg–1 of this title.
+
+#### Codification
+
+In subsec. (b)(4)(B), “section 6101 of title 41” substituted for “section 5 of title 41, United States Code” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-2003—Subsec. (b)(7)(D). Pub. L. 108–173 substituted “(c)(2)(B)” for “(c)(2)(A)(ii)”.
+<b>2003</b>—Subsec. (b)(7)(D). Pub. L. 108–173 substituted “(c)(2)(B)” for “(c)(2)(A)(ii)”.
 
 #### Change of Name
 
 References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

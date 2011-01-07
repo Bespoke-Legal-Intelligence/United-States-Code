@@ -8,5 +8,5 @@
 
 #### Amendments
 
-2005—Pub. L. 109–58 inserted section catchline and substituted “geothermal resources” for “geothermal steam and associated geothermal resources” in subsecs. (a) and (b).
+<b>2005</b>—Pub. L. 109–58 inserted section catchline and substituted “geothermal resources” for “geothermal steam and associated geothermal resources” in subsecs. (a) and (b).
 

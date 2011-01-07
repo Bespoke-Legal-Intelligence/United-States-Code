@@ -6,5 +6,5 @@ The district courts of the United States shall have original jurisdiction of any
 
 #### Amendments
 
-1991—Pub. L. 102–83 renumbered section 775 of this title as this section.
+<b>1991</b>—Pub. L. 102–83 renumbered section 775 of this title as this section.
 

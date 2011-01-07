@@ -18,7 +18,7 @@
 
 #### Part A—Basic Grants
 
-I74subpart 1—grants to local educational agencies
+#### subpart 1—grants to local educational agencies
 
 |  |  |
 | :--- | ---: |

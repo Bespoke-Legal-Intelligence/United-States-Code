@@ -34,7 +34,7 @@ The certification required by this subsection is a certification by the Secretar
 
 &emsp;&emsp;(B) the Letter of Offer and Acceptance PK–D–NAP signed between the Governments of the United States of America and Pakistan on September 30, 2006; and
 
-&emsp;&emsp;(C) the Letter of Offer and Acceptance PK–D–SAF signed between the Governmentsof the United States of America and Pakistan on September 30, 2006.
+&emsp;&emsp;(C) the Letter of Offer and Acceptance PK–D–SAF signed between the Governments of the United States of America and Pakistan on September 30, 2006.
 
 #### (2) Exception
 
@@ -62,7 +62,7 @@ In this section, the term “appropriate congressional committees” means—
 
 #### References in Text
 
-The Arms Export Control Act, referred to in subsec. (b), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (b), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to theCode, see Short Title note set out under section 2751 of this title and Tables.
 
 The Supplemental Appropriations Act, 2009, referred to in subsec. (d)(1), is Pub. L. 111–32, June 24, 2009, 123 Stat. 1859. For complete classification of this Act to the Code, see Tables.
 

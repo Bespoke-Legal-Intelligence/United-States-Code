@@ -14,7 +14,7 @@
 
 #### Amendments
 
-1984—Pub. L. 98–525, title XV, §1538(a)(2), Oct. 19, 1984, 98 Stat. 2636, added item 4657.
+<b>1984</b>—Pub. L. 98–525, title XV, §1538(a)(2), Oct. 19, 1984, 98 Stat. 2636, added item 4657.
 
 
 ---

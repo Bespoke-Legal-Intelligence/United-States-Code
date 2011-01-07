@@ -22,7 +22,7 @@ To qualify for an exemption under subsection (a) of this section, a board of tra
 
 #### (c) Antimanipulation requirements
 
-A party to a contract of sale of a commodity for future delivery (or option on such a contract or on a commodity) that is traded on an exempt board of trade shall be subject to sections 6b, 6c(b), 6<i>o</i>, 9, 15, and 13(a)(2) of this title, and the Commission shall enforce those provisions with respect to any such trading.
+A party to a contract of sale of a commodity for future delivery (or option on such a contract or on a commodity) that is traded on an exempt board of trade shall be subject to sections 6b, 6c(b), 6<i>o</i>, 9, 15, and 13(a)(2) of this title, and theCommission shall enforce those provisions with respect to any such trading.
 
 #### (d) Price discovery
 
@@ -41,4 +41,24 @@ A board of trade that is designated as a contract market or registered as a deri
 An exempt board of trade that meets the requirements of subsection (b) of this section shall not represent to any person that the board of trade is registered with, or designated, recognized, licensed, or approved by the Commission.
 
 (Sept. 21, 1922, ch. 369, §5d, as added Pub. L. 106–554, §1(a)(5) \[title I, §114\], Dec. 21, 2000, 114 Stat. 2763, 2763A–401.)
+
+#### Repeal of Section
+
+<i>Pub. L. 111–203, title VII, §§734(a), 754, July 21, 2010, 124 Stat. 1718, 1754, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, this section is repealed.</i>
+
+#### Effective Date of Repeal
+
+Repeal effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
+
+#### Ability To Petition Commission
+
+Pub. L. 111–203, title VII, §734(c), July 21, 2010, 124 Stat. 1718, provided that:
+
+“(1)
+
+In general.—Prior to the final effective dates in this title \[see Effective Date of 2010 Amendment notes set out under section 1a of this title and section 77b of Title 15, Commerce and Trade\], a person may petition the Commodity Futures Trading Commission to remain subject to the provisions of section 5d of the Commodity Exchange Act \[7 U.S.C. 7a–3\], as such provisions existed prior to the effective date of this subtitle \[subtitle A of title VII of Pub. L. 111–203, see Effective Date of 2010 Amendment note set out under section 1a of this title\].
+
+“(2)
+
+Consideration of petition.—The Commodity Futures Trading Commission shall consider any petition submitted under paragraph (1) in a prompt manner and may allow a person to continue operating subject to the provisions of section 5d of the Commodity Exchange Act for up to 1 year after the effective date of this subtitle.”
 

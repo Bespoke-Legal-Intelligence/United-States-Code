@@ -112,7 +112,7 @@ The Sport Fishing Restoration Account established under section 1016 of the Act 
 
 #### Amendments
 
-1988—Subsec. (d)(1). Pub. L. 100–478, §1005(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary is authorized to provide financial assistance to any State, through its respective State agency, which has entered into a cooperative agreement pursuant to subsection (c) of this section to assist in development of programs for the conservation of endangered and threatened species. The Secretary shall make an allocation of appropriated funds to such States based on consideration of—
+<b>1988</b>—Subsec. (d)(1). Pub. L. 100–478, §1005(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary is authorized to provide financial assistance to any State, through its respective State agency, which has entered into a cooperative agreement pursuant to subsection (c) of this section to assist in development of programs for the conservation of endangered and threatened species. The Secretary shall make an allocation of appropriated funds to such States based on consideration of—
 
 &emsp;“(A) the international commitments of the United States to protect endangered species or threatened species;
 
@@ -128,17 +128,17 @@ The Sport Fishing Restoration Account established under section 1016 of the Act 
 
 Subsec. (i). Pub. L. 100–478, §1005(b), added subsec. (i).
 
-1982—Subsec. (d)(2)(i). Pub. L. 97–304, §3(1), substituted “75 percent” for “662/3 per centum”.
+<b>1982</b>—Subsec. (d)(2)(i). Pub. L. 97–304, §3(1), substituted “75 percent” for “662/3 per centum”.
 
 Subsec. (d)(2)(ii). Pub. L. 97–304, §3(2), substituted “90 percent” for “75 per centum”.
 
 Subsec. (i). Pub. L. 97–304, §8(b), struck out subsec. (i) which authorized appropriations to carry out this section of $10,000,000 through the period ending Sept. 30, 1977, $12,000,000 for the period Oct. 1, 1977, through Sept. 30, 1980, and $12,000,000 for the period Oct. 1, 1980, through Sept. 30, 1982. See section 1542(b) of this title.
 
-1980—Subsec. (i). Pub. L. 96–246 in par. (2) substituted “$12,000,000” for “$16,000,000” and “1980” for “1981”, and added par. (3).
+<b>1980</b>—Subsec. (i). Pub. L. 96–246 in par. (2) substituted “$12,000,000” for “$16,000,000” and “1980” for “1981”, and added par. (3).
 
-1978—Subsec. (c). Pub. L. 95–632 designated existing provision as par. (1), and in par. (1) as so designated, redesignated pars. (1) to (5) as subpars. (A) to (E), respectively, and subpars. (A) and (B) of subpar. (E), as so redesignated, as cls. (i) and (ii), respectively, substituted “paragraph” for “subsection” in provision preceding subpar. (A), as so redesignated, “endangered or threatened species of fish or wildlife” for “endangered species or threatened species” in subpar. (D), as so redesignated, “subparagraphs (C), (D), and (E) of this paragraph” for “paragraphs (3), (4), and (5) of this subsection” in cl. (i) of subpar. (E), as so redesignated, “clause (i) and this clause” for “subparagraph (A) and this subparagraph” in cl. (ii) of subpar. (E), as so redesignated, and added par. (2).
+<b>1978</b>—Subsec. (c). Pub. L. 95–632 designated existing provision as par. (1), and in par. (1) as so designated, redesignated pars. (1) to (5) as subpars. (A) to (E), respectively, and subpars. (A) and (B) of subpar. (E), as so redesignated, as cls. (i) and (ii), respectively, substituted “paragraph” for “subsection” in provision preceding subpar. (A), as so redesignated, “endangered or threatened species of fish or wildlife” for “endangered species or threatened species” in subpar. (D), as so redesignated, “subparagraphs (C), (D), and (E) of this paragraph” for “paragraphs (3), (4), and (5) of this subsection” in cl. (i) of subpar. (E), as so redesignated, “clause (i) and this clause” for “subparagraph (A) and this subparagraph” in cl. (ii) of subpar. (E), as so redesignated, and added par. (2).
 
-1977—Subsec. (c). Pub. L. 95–212, §1(1), inserted provisions that States in which the State fish and wildlife agencies do not possess the broad authority to conserve all resident species of fish and wildlife which the Secretary determines to be threatened or endangered may nevertheless qualify for cooperative agreement funds if they satisfy all other requirements and have plans to devote immediate attention to those species most urgently in need of conservation programs.
+<b>1977</b>—Subsec. (c). Pub. L. 95–212, §1(1), inserted provisions that States in which the State fish and wildlife agencies do not possess the broad authority to conserve all resident species of fish and wildlife which the Secretary determines to be threatened or endangered may nevertheless qualify for cooperative agreement funds if they satisfy all other requirements and have plans to devote immediate attention to those species most urgently in need of conservation programs.
 
 Subsec. (i). Pub. L. 95–212, §1(2), substituted provisions authorizing appropriations of $10,000,000 to cover the period ending Sept. 30, 1977, and $16,000,000 to cover the period beginning Oct. 1, 1977, and ending Sept. 30, 1981, for provisions authorizing appropriations of not to exceed $10,000,000 through the fiscal year ending June 30, 1977.
 

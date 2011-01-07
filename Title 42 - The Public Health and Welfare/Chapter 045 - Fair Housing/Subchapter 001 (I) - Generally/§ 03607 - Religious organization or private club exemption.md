@@ -1,6 +1,6 @@
 ### §3607. Religious organization or private club exemption
 
-(a) Nothing in this subchapter shall prohibit a religious organization, association, or society, or any nonprofit institution or organization operated, supervised or controlled by or in conjunction with a religious organization, association, or society, from limiting the sale, rental or occupancy of dwellings which it owns or operates for other than a commercial purpose to persons of the same religion, or from giving preference to such persons, unless membership in such religion is restricted on account of race, color, or national origin. Nor shall anything in this subchapter prohibit a private club not in fact open to the public, which as an incident to its primary purpose or purposes provides lodgings which it owns or operates for other than a commercial purpose, from limiting the rental or occupancy of such lodgings to its members or from giving preference to its members.
+(a) Nothing in this subchapter shall prohibit a religious organization, association, or society,or any nonprofit institution or organization operated, supervised or controlled by or in conjunction with a religious organization, association, or society, from limiting the sale, rental or occupancy of dwellings which it owns or operates for other than a commercial purpose to persons of the same religion, or from giving preference to such persons, unless membership in such religion is restricted on account of race, color, or national origin. Nor shall anything in this subchapter prohibit a private club not in fact open to the public, which as an incident to its primary purpose or purposes provides lodgings which it owns or operates for other than a commercial purpose, from limiting the rental or occupancy of such lodgings to its members or from giving preference to its members.
 
 (b)(1) Nothing in this subchapter limits the applicability of any reasonable local, State, or Federal restrictions regarding the maximum number of occupants permitted to occupy a dwelling. Nor does any provision in this subchapter regarding familial status apply with respect to housing for older persons.
 
@@ -46,7 +46,7 @@ September 13, 1988, referred to in subsec. (b)(3)(A), was in the original “the
 
 #### Amendments
 
-1995—Subsec. (b)(2)(C). Pub. L. 104–76, §2, amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “intended and operated for occupancy by at least one person 55 years of age or older per unit. In determining whether housing qualifies as housing for older persons under this subsection, the Secretary shall develop regulations which require at least the following factors:
+<b>1995</b>—Subsec. (b)(2)(C). Pub. L. 104–76, §2, amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “intended and operated for occupancy by at least one person 55 years of age or older per unit. In determining whether housing qualifies as housing for older persons under this subsection, the Secretary shall develop regulations which require at least the following factors:
 
 &emsp;“(i) the existence of significant facilities and services specifically designed to meet the physical or social needs of older persons, or if the provision of such facilities and services is not practicable, that such housing is necessary to provide important housing opportunities for older persons; and
 
@@ -56,7 +56,7 @@ September 13, 1988, referred to in subsec. (b)(3)(A), was in the original “the
 
 Subsec. (b)(5). Pub. L. 104–76, §3, added par. (5).
 
-1988—Pub. L. 100–430 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1988</b>—Pub. L. 100–430 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1988 Amendment
 

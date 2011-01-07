@@ -12,7 +12,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (1) Account required
 
-&emsp;Each multiemployer plan to which this part applies shall establish and maintain a fundingstandard account. Such account shall be credited and charged solely as provided in this section.
+&emsp;Each multiemployer plan to which this part applies shall establish and maintain a funding standard account. Such account shall be credited and charged solely as provided in this section.
 
 #### (2) Charges to account
 
@@ -76,7 +76,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (A) Withdrawal liability
 
-&emsp;&emsp;Any amount received by a multiemployer plan in payment of all or part of an employer's withdrawal liability under part 1 of subtitle E of subchapter III shall be considered an amount contributed by the employer to or under the plan. The Secretary of theTreasury may prescribe by regulation additional charges and credits to a multiemployer plan's funding standard account to the extent necessary to prevent withdrawal liability payments from being unduly reflected as advance funding for plan liabilities.
+&emsp;&emsp;Any amount received by a multiemployer plan in payment of all or part of an employer's withdrawal liability under part 1 of subtitle E of subchapter III shall be considered an amount contributed by the employer to or under the plan. The Secretary of the Treasury may prescribe by regulation additional charges and credits to a multiemployer plan's funding standard account to the extent necessary to prevent withdrawal liability payments from being unduly reflected as advance funding for plan liabilities.
 
 #### (B) Adjustments when a multiemployer plan leaves reorganization
 
@@ -107,6 +107,88 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 #### (G) Short-term benefits
 
 &emsp;&emsp;To the extent that any plan amendment increases the unfunded past service liability under the plan by reason of an increase in benefits which are not payable as a life annuity but are payable under the terms of the plan for a period that does not exceed 14 years from the effective date of the amendment, paragraph (2)(B)(ii) shall be applied separately with respect to such increase in unfunded past service liability by substituting the number of years of the period during which such benefits are payable for “15”.
+
+#### (8) Special relief rules
+
+&emsp;Notwithstanding any other provision of this subsection—
+
+#### (A) Amortization of net investment losses
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;A multiemployer plan with respect to which the solvency test under subparagraph (C) is met may treat the portion of any experience loss or gain attributable to net investment losses incurred in either or both of the first two plan years ending after August 31, 2008, as an item separate from other experience losses, to be amortized in equal annual installments (until fully amortized) over the period—
+
+&emsp;&emsp;&emsp;&emsp;(I) beginning with the plan year in which such portion is first recognized in the actuarial value of assets, and
+
+&emsp;&emsp;&emsp;&emsp;(II) ending with the last plan year in the 30-plan year period beginning with the plan year in which such net investment loss was incurred.
+
+#### (ii) Coordination with extensions
+
+&emsp;&emsp;&emsp;If this subparagraph applies for any plan year—
+
+&emsp;&emsp;&emsp;&emsp;(I) no extension of the amortization period under clause (i) shall be allowed under subsection (d), and
+
+&emsp;&emsp;&emsp;&emsp;(II) if an extension was granted under subsection (d) for any plan year before the election to have this subparagraph apply to the plan year, such extension shall not result in such amortization period exceeding 30 years.
+
+#### (iii) Net investment losses
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph—
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Net investment losses shall be determined in the manner prescribed by the Secretary of the Treasury on the basis of the difference between actual and expected returns (including any difference attributable to any criminally fraudulent investment arrangement).
+
+#### (II) Criminally fraudulent investment arrangements
+
+&emsp;&emsp;&emsp;&emsp;The determination as to whether an arrangement is a criminally fraudulent investment arrangement shall be made under rules substantially similar to the rules prescribed by the Secretary of the Treasury for purposes of section 165 of title 26.
+
+#### (B) Expanded smoothing period
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;A multiemployer plan with respect to which the solvency test under subparagraph (C) is met may change its asset valuation method in a manner which—
+
+&emsp;&emsp;&emsp;&emsp;(I) spreads the difference between expected and actual returns for either or both of the first 2 plan years ending after August 31, 2008, over a period of not more than 10 years,
+
+&emsp;&emsp;&emsp;&emsp;(II) provides that for either or both of the first 2 plan years beginning after August 31, 2008, the value of plan assets at any time shall not be less than 80 percent or greater than 130 percent of the fair market value of such assets at such time, or
+
+&emsp;&emsp;&emsp;&emsp;(III) makes both changes described in subclauses (I) and (II) to such method.
+
+#### (ii) Asset valuation methods
+
+&emsp;&emsp;&emsp;If this subparagraph applies for any plan year—
+
+&emsp;&emsp;&emsp;&emsp;(I) the Secretary of the Treasury shall not treat the asset valuation method of the plan as unreasonable solely because of the changes in such method described in clause (i), and
+
+&emsp;&emsp;&emsp;&emsp;(II) such changes shall be deemed approved by such Secretary under section 1082(d)(1) of this title and section 412(d)(1) of title 26.
+
+#### (iii) Amortization of reduction in unfunded accrued liability
+
+&emsp;&emsp;&emsp;If this subparagraph and subparagraph (A) both apply for any plan year, the plan shall treat any reduction in unfunded accrued liability resulting from the application of this subparagraph as a separate experience amortization base, to be amortized in equal annual installments (until fully amortized) over a period of 30 plan years rather than the period such liability would otherwise be amortized over.
+
+#### (C) Solvency test
+
+&emsp;&emsp;The solvency test under this paragraph is met only if the plan actuary certifies that the plan is projected to have sufficient assets to timely pay expected benefits and anticipated expenditures over the amortization period, taking into account the changes in the funding standard account under this paragraph.
+
+#### (D) Restriction on benefit increases
+
+&emsp;&emsp;If subparagraph (A) or (B) apply to a multiemployer plan for any plan year, then, in addition to any other applicable restrictions on benefit increases, a plan amendment increasing benefits may not go into effect during either of the 2 plan years immediately following such plan year unless—
+
+&emsp;&emsp;&emsp;(i) the plan actuary certifies that—
+
+&emsp;&emsp;&emsp;&emsp;(I) any such increase is paid for out of additional contributions not allocated to the plan immediately before the application of this paragraph to the plan, and
+
+&emsp;&emsp;&emsp;&emsp;(II) the plan's funded percentage and projected credit balances for such 2 plan years are reasonably expected to be at least as high as such percentage and balances would have been if the benefit increase had not been adopted, or
+
+&emsp;&emsp;&emsp;(ii) the amendment is required as a condition of qualification under part I of subchapter D of chapter 1 of title 26 or to comply with other applicable law.
+
+#### (E) Reporting
+
+&emsp;&emsp;A plan sponsor of a plan to which this paragraph applies shall—
+
+&emsp;&emsp;&emsp;(i) give notice of such application to participants and beneficiaries of the plan, and
+
+&emsp;&emsp;&emsp;(ii) inform the Pension Benefit Guaranty Corporation of such application in such form and manner as the Director of the Pension Benefit Guaranty Corporation may prescribe.
 
 #### (c) Additional rules
 
@@ -228,7 +310,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (vi) Periodic review
 
-&emsp;&emsp;&emsp;The Secretary of the Treasury shall periodically (at least every 5 years) review any tables in effect under this subparagraphand shall, to the extent such Secretary determines necessary, by regulation update the tables to reflect the actual experience of pension plans and projected trends in such experience.
+&emsp;&emsp;&emsp;The Secretary of the Treasury shall periodically (at least every 5 years) review any tables in effect under this subparagraph and shall, to the extent such Secretary determines necessary, by regulation update the tables to reflect the actual experience of pension plans and projected trends in such experience.
 
 #### (E) Required change of interest rate
 
@@ -236,7 +318,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If any rate of interest used under the plan under subsection (b)(6) to determine cost is not within the permissible range, the plan shall establish a new rate of interest within the permissible range.
+&emsp;&emsp;&emsp;If any rate of interest used under the plan under subsection (b)(6) to determinecost is not within the permissible range, the plan shall establish a new rate of interest within the permissible range.
 
 #### (ii) Permissible range
 
@@ -348,7 +430,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 &emsp;&emsp;The Secretary of the Treasury shall consider any relevant information provided by a person to whom notice was given under paragraph (1).
 
-(Pub. L. 93–406, title I, §304, as added Pub. L. 109–280, title II, §201(a), Aug. 17, 2006, 120 Stat. 858.)
+(Pub. L. 93–406, title I, §304, as added Pub. L. 109–280, title II, §201(a), Aug. 17, 2006, 120 Stat. 858; amended Pub. L. 111–192, title II, §211(a)(1), June 25, 2010, 124 Stat. 1302.)
 
 #### References in Text
 
@@ -359,6 +441,14 @@ This chapter, referred to in subsec. (d)(2)(B)(i), was in the original “this A
 #### Prior Provisions
 
 A prior section 1084, Pub. L. 93–406, title I, §304, Sept. 2, 1974, 88 Stat. 873; Pub. L. 99–272, title XI, §§11015(b)(1)(B), 11016(c)(3), Apr. 7, 1986, 100 Stat. 267, 273; Pub. L. 100–203, title IX, §9306(c)(2)(B), Dec. 22, 1987, 101 Stat. 1330–355; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(d)(3), Dec. 19, 1989, 103 Stat. 2445, 2449, related to extension of amortization periods, prior to repeal by Pub. L. 109–280, title I, §101(a), (d), Aug. 17, 2006, 120 Stat. 784, 789, applicable to plan years beginning after 2007.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (b)(8). Pub. L. 111–192 added par. (8).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–192 effective as of the first day of the first plan year ending after Aug. 31, 2008, with certain exceptions, see section 211(b) of Pub. L. 111–192, set out as a note under section 431 of Title 26, Internal Revenue Code.
 
 #### Effective Date
 

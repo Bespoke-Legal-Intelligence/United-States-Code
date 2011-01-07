@@ -4,10 +4,6 @@ The Board of Regents of the Smithsonian Institution may appoint and fix the comp
 
 (Pub. L. 89–788, §4, Nov. 7, 1966, 80 Stat. 1404.)
 
-#### References in Text
-
-The civil service laws, referred to in text, are set out in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 #### Codification
 
 “Chapter 51 and subchapter III of chapter 53 of title 5” substituted in text for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.

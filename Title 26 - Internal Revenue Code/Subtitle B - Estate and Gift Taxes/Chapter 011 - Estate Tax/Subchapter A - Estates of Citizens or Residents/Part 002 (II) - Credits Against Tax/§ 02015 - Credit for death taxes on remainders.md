@@ -10,15 +10,15 @@ Where an election is made under section 6163(a) to postpone payment of the tax i
 
 #### Amendments
 
-2001—Pub. L. 107–16, §§532(c)(4), 901, temporarily struck out “2011 or” before “2014”. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Pub. L. 107–16, §§532(c)(4), 901, temporarily struck out “2011 or” before “2014”. See Effective and Termination Dates of 2001 Amendment note below.
 
-1958—Pub. L. 85–866 substituted “the time for payment of the tax imposed by section 2001 or 2101 as postponed and extended under section 6163” for “60 days after the termination of the precedent interest or interests in the property”.
+<b>1958</b>—Pub. L. 85–866 substituted “the time for payment of the tax imposed by section 2001 or 2101 as postponed and extended under section 6163” for “60 days after the termination of the precedent interest or interests in the property”.
 
 #### Effective and Termination Dates of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skippingtransfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1958 Amendment
 

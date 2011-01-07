@@ -48,7 +48,7 @@ Commencement and Duration of Payment.—(1) Payment of transitional compensation
 
 &emsp;(B) in the case of a member being considered under applicable regulations for administrative separation from active duty in accordance with such regulations (if the basis for the separation includes a dependent-abuse offense), shall commence as of the date on which the separation action is initiated by a commander of the member pursuant to such regulations, as determined by the Secretary concerned.
 
-(2) Transitional compensation with respect to a member shall be paid for a period of not less than 12 months and not more than 36 months, as established in policies prescribed by the Secretary concerned.
+(2) Transitional compensation with respect to a member shall be paid for a period of not lessthan 12 months and not more than 36 months, as established in policies prescribed by the Secretary concerned.
 
 (3)(A) If a member is sentenced by a court-martial to receive punishment that includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances as a result of a conviction by a court-martial for a dependent-abuse offense and each such conviction is disapproved by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) or set aside, or each such punishment applicable to the member under the sentence is disapproved by the person acting under section 860(c) of this title, remitted, set aside, suspended, or mitigated to a lesser punishment that does not include any such punishment, any payment of transitional compensation that has commenced under this section on the basis of such sentence in that case shall cease.
 
@@ -88,11 +88,11 @@ Coordination of Benefits.—The Secretary concerned may not make payments to a s
 
 Commissary and Exchange Benefits.—(1) A dependent or former dependent entitled to payment of monthly transitional compensation under this section shall, while receiving payments in accordance with this section, be entitled to use commissary and exchange stores to the same extent and in the same manner as a dependent of a member of the armed forces on active duty for a period of more than 30 days.
 
-(2) If a dependent or former dependent eligible or entitled to use commissary and exchange stores under paragraph (1) is eligible or entitledto use commissary and exchange stores under another provision of law, the eligibility or entitlement of that dependent or former dependent to use commissary and exchange stores shall be determined under such other provision of law rather than under paragraph (1).
+(2) If a dependent or former dependent eligible or entitled to use commissary and exchange stores under paragraph (1) is eligible or entitled to use commissary and exchange stores under another provision of law, the eligibility or entitlement of that dependent or former dependent to use commissary and exchange stores shall be determined under such other provision of law rather than under paragraph (1).
 
 (k)
 
-Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry out this section with respect to the armed forces (other than the Coast Guard when it is not operating as a service in the Navy). The Secretary of Homeland Security shall prescribe regulations to carry out this section with respect to the Coast Guard when it is not operating as a service in the Navy.
+Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry out this section with respect to the armed forces\(other than the Coast Guard when it is not operating as a service in the Navy). The Secretary of Homeland Security shall prescribe regulations to carry out this section with respect to the Coast Guard when it is not operating as a service in the Navy.
 
 (2) Regulations prescribed under paragraph (1) shall include the criminal offenses, or categories of offenses, under the Uniform Code of Military Justice (chapter 47 of this title), Federal criminal law, the criminal laws of the States and other jurisdictions of the United States, and the laws of other nations that are to be considered to be dependent-abuse offenses for the purposes of this section.
 
@@ -118,7 +118,7 @@ Exceptional Eligibility for Dependents of Former Members.—(1) The Secretary co
 
 #### Amendments
 
-2003—Subsec. (b)(2). Pub. L. 108–136, §574, inserted “, voluntarily or involuntarily,” after “administratively separated”.
+<b>2003</b>—Subsec. (b)(2). Pub. L. 108–136, §574, inserted “, voluntarily or involuntarily,” after “administratively separated”.
 
 Subsec. (e)(1)(A). Pub. L. 108–136, §572(a), substituted “shall commence—” and cls. (i) and (ii) for “shall commence as of the date of the approval of the court-martial sentence by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) if the sentence, as approved, includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances; and”.
 
@@ -132,9 +132,9 @@ Subsec. (e)(3)(A). Pub. L. 108–136, §572(c), substituted “conviction is dis
 
 Subsec. (m). Pub. L. 108–136, §573(a), added subsec. (m).
 
-2002—Subsecs. (a), (k)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsecs. (a), (k)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1998—Subsec. (d)(1). Pub. L. 105–261, §570(a)(1), struck out “(except as otherwise provided in this subsection)” after “such compensation shall” and inserted before period at end “, including an amount (determined under subsection (f)(2)) for each, if any, dependent child of the individual described in subsection (b) who resides in the same household as that spouse or former spouse”.
+<b>1998</b>—Subsec. (d)(1). Pub. L. 105–261, §570(a)(1), struck out “(except as otherwise provided in this subsection)” after “such compensation shall” and inserted before period at end “, including an amount (determined under subsection (f)(2)) for each, if any, dependent child of the individual described in subsection (b) who resides in the same household as that spouse or former spouse”.
 
 Subsec. (d)(2). Pub. L. 105–261, §570(a)(2), substituted “is or, but for subsection (g), would be eligible” for “(but for subsection (g)) would be eligible” and “compensation under this section shall” for “such compensation shall”.
 
@@ -142,7 +142,7 @@ Subsec. (d)(4). Pub. L. 105–261, §570(a)(3), substituted “For purposes of t
 
 Subsec. (f)(2). Pub. L. 105–261, §570(b), substituted “has custody of a dependent child of the member who resides in the same household as that spouse or former spouse” for “has custody of a dependent child or children of the member”.
 
-1996—Subsec. (a). Pub. L. 104–106, §636(a), inserted at end “Upon establishment of such a program, the program shall apply in the case of each such member described in subsection (b) who is under the jurisdiction of the Secretary establishing the program.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–106, §636(a), inserted at end “Upon establishment of such a program, the program shall apply in the case of each such member described in subsection (b) who is under the jurisdiction of the Secretary establishing the program.”
 
 Subsec. (c)(2). Pub. L. 104–106, §1503(a)(8), substituted “subsection (k)” for “subsection (j)”.
 
@@ -158,7 +158,7 @@ Subsec. (d)(4). Pub. L. 104–106, §636(b)(5), substituted “individual descri
 
 Subsec. (g)(3). Pub. L. 104–106, §1503(a)(8), substituted “subsection (k))” for “subsection (j))”.
 
-1994—Pub. L. 103–337, §1070(a)(5)(A), renumbered section 1058 of this title as this section.
+<b>1994</b>—Pub. L. 103–337, §1070(a)(5)(A), renumbered section 1058 of this title as this section.
 
 Pub. L. 103–337, §535(c)(1), inserted “; commissary and exchange benefits” at end of section catchline.
 

@@ -82,19 +82,19 @@ References to this subchapter deemed to include section 119 of H.R. 2076, see se
 
 #### Amendments
 
-1987—Subsec. (g). Pub. L. 100–204 added subsec. (g).
+<b>1987</b>—Subsec. (g). Pub. L. 100–204 added subsec. (g).
 
-1986—Subsec. (f)(2)(A). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (f)(2)(A). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1980—Subsec. (e). Pub. L. 96–445, §1(1), substituted “Except as provided in subsection (f) of this section, the Secretary of the Treasury” for “The Secretary of the Treasury”.
+<b>1980</b>—Subsec. (e). Pub. L. 96–445, §1(1), substituted “Except as provided in subsection (f) of this section, the Secretary of the Treasury” for “The Secretary of the Treasury”.
 
 Subsec. (f). Pub. L. 96–445, §1(2), added subsec. (f).
 
-1968—Subsec. (c). Pub. L. 90–421, §1(4), inserted “, prior to July 24, 1968,” after “the sums covered” and substituted “section 1626(b)(1) of this title” for “section 1626(b) of this title”.
+<b>1968</b>—Subsec. (c). Pub. L. 90–421, §1(4), inserted “, prior to July 24, 1968,” after “the sums covered” and substituted “section 1626(b)(1) of this title” for “section 1626(b) of this title”.
 
 Subsec. (e). Pub. L. 90–421, §1(5), added subsec. (e).
 
-1955—Act Aug. 9, 1955, amended credit to section by designating act Mar. 10, 1950, as “title I”.
+<b>1955</b>—Act Aug. 9, 1955, amended credit to section by designating act Mar. 10, 1950, as “title I”.
 
 #### Abolition of International Claims Commission and Transfer of Functions
 

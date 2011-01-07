@@ -148,7 +148,7 @@ Agreement on Appraiser.—If the Secretary and the Governor are unable to agree 
 
 “(b)
 
-No Agreement on Appraiser.—If the Secretary and the Governor are unable to agree on the selection of a qualified appraiser under subsection (a), then the Secretary and the Governor shall each designate a qualified appraiser. The two designated appraisers shall select a qualified third appraiser to conduct the appraisal with the advice and assistance of the two designated appraisers. The purchase or exchange under section 3(a) shall be conducted based on the values determined by the appraisal.
+No Agreement on Appraiser.—If the Secretary and the Governor are unable to agree on the selection of a qualified appraiser under subsection (a), then theSecretary and the Governor shall each designate a qualified appraiser. The two designated appraisers shall select a qualified third appraiser to conduct the appraisal with the advice and assistance of the two designated appraisers. The purchase or exchange under section 3(a) shall be conducted based on the values determined by the appraisal.
 
 “(c)
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) be accountable for all property received;
 
-&emsp;(3) ensure that the debtor shall perform his intention as specified in section 521(2)(B) of this title;
+&emsp;(3) ensure that the debtor shall perform his intention as specified in section 521(a)(2)(B) of this title;
 
 &emsp;(4) investigate the financial affairs of the debtor;
 
@@ -38,7 +38,7 @@
 
 &emsp;(B) not later than 7 days after receiving a statement under subparagraph (A), the court shall provide a copy of the statement to all creditors.
 
-(2) The United States trustee (or bankruptcy administrator, if any) shall, not later than 30days after the date of filing a statement under paragraph (1), either file a motion to dismiss or convert under section 707(b) or file a statement setting forth the reasons the United States trustee (or the bankruptcy administrator, if any) does not consider such a motion to be appropriate, if the United States trustee (or the bankruptcy administrator, if any) determines that the debtor's case should be presumed to be an abuse under section 707(b) and the product of the debtor's current monthly income, multiplied by 12 is not less than—
+(2) The United States trustee (or bankruptcy administrator, if any) shall, not later than 30 days after the date of filing a statement under paragraph (1), either file a motion to dismiss or convert under section 707(b) or file a statement setting forth the reasons the United States trustee (or the bankruptcy administrator, if any) does not consider such a motion to be appropriate, if the United States trustee (or the bankruptcy administrator, if any) determines that the debtor's case should be presumed to bean abuse under section 707(b) and the product of the debtor's current monthly income, multiplied by 12 is not less than—
 
 &emsp;(A) in the case of a debtor in a household of 1 person, the median family income of the applicable State for 1 earner; or
 
@@ -74,7 +74,7 @@
 
 (B) Notwithstanding any other provision of law, a creditor that makes a disclosure of a last known address of a debtor in connection with a request made under subparagraph (A) shall not be liable by reason of making such disclosure.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2605; Pub. L. 98–353, title III, §§311(a), 474, July 10, 1984, 98 Stat. 355, 381; Pub. L. 99–554, title II, §217, Oct. 27, 1986, 100 Stat. 3100; Pub. L. 109–8, title I, §102(c), title II, §219(a), title IV, §446(b), title XI, §1105(a), Apr. 20, 2005, 119 Stat. 32, 55, 118, 192; Pub. L. 111–16, §2(7), May 7, 2009, 123 Stat. 1607.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2605; Pub. L. 98–353, title III, §§311(a), 474, July 10, 1984, 98 Stat. 355, 381; Pub. L. 99–554, title II, §217, Oct. 27, 1986, 100 Stat. 3100; Pub. L. 109–8, title I, §102(c), title II, §219(a), title IV, §446(b), title XI, §1105(a), Apr. 20, 2005, 119 Stat. 32, 55, 118, 192; Pub. L. 111–16, §2(7), May 7, 2009, 123 Stat. 1607; Pub. L. 111–327, §2(a)(24), Dec. 22, 2010, 124 Stat. 3560.)
 
 #### Historical and Revision Notes
 
@@ -97,6 +97,8 @@ Section 3 of the Employee Retirement Income Security Act of 1974, referred to in
 Sections 464 and 466 of the Social Security Act, referred to in subsec. (c)(1)(A)(i), are classified to sections 664 and 666, respectively, of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2010—Subsec. (a)(3). Pub. L. 111–327 substituted “521(a)(2)(B)” for “521(2)(B)”.
 
 2009—Subsec. (b)(1)(B). Pub. L. 111–16 substituted “7 days” for “5 days”.
 

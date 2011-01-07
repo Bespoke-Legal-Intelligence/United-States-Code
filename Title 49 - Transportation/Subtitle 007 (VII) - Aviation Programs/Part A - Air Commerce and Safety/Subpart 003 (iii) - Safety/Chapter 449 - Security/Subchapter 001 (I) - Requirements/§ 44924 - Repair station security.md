@@ -14,7 +14,7 @@ Suspensions and Revocations of Certificates.—
 
 &emsp;(1)
 
-Failure to carry out effective security measures.—If, after the 90th day on which a notice is provided to a foreign repair station under subsection (b), the Under Secretary determines that the foreign repair station does not maintain and carry out effective security measures, the Under Secretary shall notify the Administrator of the determination. Upon receipt of the determination, the Administrator shall suspend the certificationof the repair station until such time as the Under Secretary determines that the repair station maintains and carries out effective security measures and transmits the determination to the Administrator.
+Failure to carry out effective security measures.—If, after the 90th day on which a notice is provided to a foreign repair station under subsection (b), the Under Secretary determines that the foreign repair station does not maintain and carry out effective security measures, the Under Secretary shall notify the Administrator of the determination. Upon receipt of the determination, the Administrator shall suspend the certification of the repair station until such time as the Under Secretary determines that the repair station maintains and carries out effective security measures and transmits the determination to the Administrator.
 
 &emsp;(2)
 
@@ -48,7 +48,7 @@ The date of enactment of this section, referred to in subsec. (f), is the date o
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–53, §1616(b)(1), substituted “6 months” for “18 months”.
+<b>2007</b>—Subsec. (a). Pub. L. 110–53, §1616(b)(1), substituted “6 months” for “18 months”.
 
 Subsec. (d). Pub. L. 110–53, §1616(b)(2), inserted “(other than a station that was previously certified, or is in the process of certification, by the Administration under this part)” after “foreign repair station”.
 
@@ -60,5 +60,5 @@ Section applicable only to fiscal years beginning after Sept. 30, 2003, except a
 
 #### Suspension of Certification of Foreign Repair Stations
 
-Pub. L. 110–53, title XVI, §1616(a), Aug. 3, 2007, 121 Stat. 488, provided that: “If the regulations required by section 44924(f) of title 49, United States Code, are not issued within 1 year after the date of enactment of this Act \[Aug. 3, 2007\], the Administrator of the Federal Aviation Administration may not certify any foreign repair station under part 145 of title 14, Code of Federal Regulations, after such date unless the station was previously certified, or is in the process of certification by the Administration under that part.”
+Pub. L. 110–53, title XVI, §1616(a), Aug. 3, 2007, 121 Stat. 488, provided that: “If the regulations required bysection 44924(f) of title 49, United States Code, are not issued within 1 year after the date of enactment of this Act \[Aug. 3, 2007\], the Administrator of the Federal Aviation Administration may not certify any foreign repair station under part 145 of title 14, Code of Federal Regulations, after such date unless the station was previously certified, or is in the process of certification by the Administration under that part.”
 

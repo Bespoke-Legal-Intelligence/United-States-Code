@@ -14,7 +14,7 @@ This section was formerly classified to subsec. (c) of section 2394 of this titl
 
 #### Amendments
 
-2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
+<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
 
 #### Effective Date
 

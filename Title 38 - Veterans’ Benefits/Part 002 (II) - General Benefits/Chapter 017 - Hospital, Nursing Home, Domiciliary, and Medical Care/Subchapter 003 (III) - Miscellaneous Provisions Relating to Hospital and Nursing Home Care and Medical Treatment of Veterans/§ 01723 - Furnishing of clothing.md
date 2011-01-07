@@ -10,13 +10,13 @@ Prior section 1723 was renumbered section 3523 of this title.
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 623 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 623 of this title as this section.
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
 Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-1976—Pub. L. 94–581 substituted “the Administrator furnishes” for “he furnishes”.
+<b>1976</b>—Pub. L. 94–581 substituted “the Administrator furnishes” for “he furnishes”.
 
 #### Effective Date of 1976 Amendment
 

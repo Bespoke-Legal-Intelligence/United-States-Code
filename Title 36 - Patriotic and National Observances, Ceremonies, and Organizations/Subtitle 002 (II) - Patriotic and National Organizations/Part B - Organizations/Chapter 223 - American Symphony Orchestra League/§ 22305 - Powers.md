@@ -28,7 +28,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-22305D36:3404(2)–(9).DOct. 15, 1962, Pub. L. 87–817, §§4(2)–(9), 17, 76 Stat. 930, 933.
+22305
+
+36:3404(2)–(9).
+
+Oct. 15, 1962, Pub. L. 87–817, §§4(2)–(9), 17, 76 Stat. 930, 933.
 
 &nbsp;
 
@@ -48,7 +52,7 @@ In clause (4), the words “make contracts” are substituted for “contract an
 
 Clause (5) is substituted for “take by lease, gift, purchase, grant, devise, or bequest from any private corporation, association, partnership, firm, or individual and to hold any property, real, personal, or mixed, necessary or convenient for attaining the objects and carrying into effect the purposes of the corporation” and “transfer, convey, lease, sublease, encumber, and otherwise alienate real, personal, or mixed property” for consistency in the revised title and to eliminate unnecessary words. The words “subject, however, to applicable provisions of law of any State (A) governing the amount or kind of property which may be held by, or (B) otherwise limiting or controlling the ownership of property by, a corporation operating in such State” are omitted as unnecessary.
 
-In clause (6), the words “instruments of indebtedness” are substituted for “bonds” for consistency in the revised title. The words “secure its obligations by granting security interests in its property” are substituted for “secure the same by mortgage, deed of trust, pledge or otherwise” to eliminate unnecessary words. The words “for the purposes of the corporation”, “therefor”, and “subject in every case to all applicableprovisions of Federal and State laws” are omitted as unnecessary.
+In clause (6), the words “instruments of indebtedness” are substituted for “bonds” for consistency in the revised title. The words “secure its obligations by granting security interests in its property” are substituted for “secure the same by mortgage, deed of trust, pledge or otherwise” to eliminate unnecessary words. The words “for the purposes of the corporation”, “therefor”, and “subject in every case to all applicable provisions of Federal and State laws” are omitted as unnecessary.
 
 In clause (7), the words “complain and defend in any court of competent jurisdiction” are omitted as unnecessary.
 

@@ -24,5 +24,5 @@ Section 3030r, Pub. L. 89–73, title III, §383, as added Pub. L. 102–375, ti
 
 #### Amendments
 
-1992—Pub. L. 102–375 substituted “area agencies on aging” for “area agencies” in section catchline.
+<b>1992</b>—Pub. L. 102–375 substituted “area agencies on aging” for “area agencies” in section catchline.
 

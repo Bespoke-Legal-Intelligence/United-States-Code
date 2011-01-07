@@ -4,7 +4,7 @@
 
 The Secretary may not, except as provided in subsection (b), make payments under section 300d–11(a) of this title for a fiscal year unless the State involved agrees that the payments will not be expended—
 
-&emsp;(1) for any purpose other than developing, implementing, and monitoring the modifications required by section 300d–11(b) of thistitle to be made to the State plan for the provision of emergency medical services;
+&emsp;(1) for any purpose other than developing, implementing, and monitoring the modifications required by section 300d–11(b) of this title to be made to the State plan for the provision of emergency medical services;
 
 &emsp;(2) to make cash payments to intended recipients of services provided pursuant to this section;
 
@@ -22,5 +22,5 @@ The Secretary may waive a restriction under subsection (a) only if the Secretary
 
 #### Amendments
 
-2007—Pub. L. 110–23 amended section generally. Prior to amendment, section related to restrictions on use of payments.
+<b>2007</b>—Pub. L. 110–23 amended section generally. Prior to amendment, section related to restrictions on use of payments.
 

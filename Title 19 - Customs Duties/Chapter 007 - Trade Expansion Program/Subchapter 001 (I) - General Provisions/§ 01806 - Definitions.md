@@ -18,5 +18,5 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-1975—Pub. L. 93–618 repealed pars. (1), (3), (4), and (5), which defined “agency”, “firm”, “directly competitive with”, and “product of a country”, respectively. See section 2481 of this title.
+<b>1975</b>—Pub. L. 93–618 repealed pars. (1), (3), (4), and (5), which defined “agency”, “firm”, “directly competitive with”, and “product of a country”, respectively. See section 2481 of this title.
 

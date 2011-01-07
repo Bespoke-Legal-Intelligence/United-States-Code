@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(B) examine appropriate factors, such as environmental and occupational, that may be associated with the disease;
 
-&emsp;&emsp;(C) better outline key demographic factors (such as age, race or ethnicity, gender, and family history of individuals who are diagnosed with the disease) associated with the disease;
+&emsp;&emsp;(C) better outline key demographic factors (such as age, race or ethnicity, gender, andfamily history of individuals who are diagnosed with the disease) associated with the disease;
 
 &emsp;&emsp;(D) better examine the connection between ALS and other motor neuron disorders that can be confused with ALS, misdiagnosed as ALS, and in some cases progress to ALS; and
 
@@ -112,17 +112,11 @@ Coordination with nih and department of veterans affairs.—Consistent with appl
 
 For the purposes of this section, the term “national voluntary health association” means a national non-profit organization with chapters or other affiliated organizations in States throughout the United States with experience serving the population of individuals with ALS and have demonstrated experience in ALS research, care, and patient services.
 
-(July 1, 1944, ch. 373, title III, §399R, as added Pub. L. 110–373, §2, Oct. 8, 2008, 122 Stat. 4047.)
+(July 1, 1944, ch. 373, title III, §399S, formerly §399R, as added Pub. L. 110–373, §2, Oct. 8, 2008, 122 Stat. 4047; renumbered §399S, Pub. L. 111–148, title IV, §4003(b)(2)(A), Mar. 23, 2010, 124 Stat. 544.)
 
 #### References in Text
 
 The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (b)(1)(A)(ii), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of this title and Tables.
-
-#### Codification
-
-Another section 399R of act July 1, 1944, ch. 373, as added by Pub. L. 110–275, title I, §152(a), July 15, 2008, 122 Stat. 2551, is classified to section 280g–6 of this title.
-
-Another section 399R of act July 1, 1944, ch. 373, as added by Pub. L. 110–374, §3, Oct. 8, 2008, 122 Stat. 4051, is classified to section 280g–8 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “national voluntary health associations;”.</i>
 

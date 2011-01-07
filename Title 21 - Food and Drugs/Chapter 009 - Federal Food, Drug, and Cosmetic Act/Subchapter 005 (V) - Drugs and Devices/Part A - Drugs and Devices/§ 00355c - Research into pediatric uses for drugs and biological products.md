@@ -78,7 +78,7 @@
 
 #### (A) Full waiver
 
-&emsp;&emsp;On the initiative of the Secretary or at the request of an applicant, the Secretary shallgrant a full waiver, as appropriate, of the requirement to submit assessments for a drug or biological product under this subsection if the applicant certifies and the Secretary finds that—
+&emsp;&emsp;On the initiative of the Secretary or at the request of an applicant, the Secretary shall grant a full waiver, as appropriate, of the requirement to submit assessments for a drug or biological product under this subsection if the applicant certifies and the Secretary finds that—
 
 &emsp;&emsp;&emsp;(i) necessary studies are impossible or highly impracticable (because, for example, the number of patients is so small or the patients are geographically dispersed);
 
@@ -308,7 +308,7 @@ Before and during the investigational process for a new drug or biological produ
 
 #### (j) Scope of authority
 
-Nothing in this section provides to the Secretary any authority to require a pediatric assessment of any drug or biological product, or any assessment regarding other populations or uses of a drug or biological product, other than the pediatric assessments described in this section.
+Nothing in this section provides to the Secretary any authority to require a pediatric assessment of any drug or biological product, or any assessment regarding other populations oruses of a drug or biological product, other than the pediatric assessments described in this section.
 
 #### (k) Orphan drugs
 
@@ -332,11 +332,23 @@ Unless the Secretary requires otherwise by regulation, this section does not app
 
 The authority under this section shall remain in effect so long as an application subject to this section may be accepted for filing by the Secretary on or before the date specified in section 355a(q) of this title.
 
-(June 25, 1938, ch. 675, §505B, as added Pub. L. 108–155, §2(a), Dec. 3, 2003, 117 Stat. 1936; amended Pub. L. 110–85, title IV, §402(a), Sept. 27, 2007, 121 Stat. 866.)
+#### (n) New active ingredient
+
+#### (1) Non-interchangeable biosimilar biological product
+
+&emsp;A biological product that is biosimilar to a reference product under section 262 of title 42, and that the Secretary has not determined to meet the standards described in subsection (k)(4) of such section for interchangeability with the reference product, shall be considered to have a new active ingredient under this section.
+
+#### (2) Interchangeable biosimilar biological product
+
+&emsp;A biological product that is interchangeable with a reference product under section 262 of title 42 shall not be considered to have a new active ingredient under this section.
+
+(June 25, 1938, ch. 675, §505B, as added Pub. L. 108–155, §2(a), Dec. 3, 2003, 117 Stat. 1936; amended Pub. L. 110–85, title IV, §402(a), Sept. 27, 2007, 121 Stat. 866; Pub. L. 111–148, title VII, §7002(d)(2), Mar. 23, 2010, 124 Stat. 816.)
 
 #### Amendments
 
-2007—Pub. L. 110–85 amended section generally. Prior to amendment, section related to required submission of assessments with an application for a new drug or new biological product and by order of the Secretary for certain marketed drugs and biological products used for pediatric patients, a definition of meaningful therapeutic benefit, consequences of failure to submit required assessments, meetings of the Secretary and the sponsor of a new drug or biological product, a limitation of the scope of the Secretary's authority, application to orphan drugs, and integration with other pediatric studies.
+<b>2010</b>—Subsec. (n). Pub. L. 111–148 added subsec. (n).
+
+<b>2007</b>—Pub. L. 110–85 amended section generally. Prior to amendment, section related to required submission of assessments with an application for a new drug or new biological product and by order of the Secretary for certain marketed drugs and biological products used for pediatric patients, a definition of meaningful therapeutic benefit, consequences of failure to submit required assessments, meetings of the Secretary and the sponsor of a new drug or biological product, a limitation of the scope of the Secretary's authority, application to orphan drugs, and integration with other pediatric studies.
 
 #### Effective Date of 2007 Amendment
 

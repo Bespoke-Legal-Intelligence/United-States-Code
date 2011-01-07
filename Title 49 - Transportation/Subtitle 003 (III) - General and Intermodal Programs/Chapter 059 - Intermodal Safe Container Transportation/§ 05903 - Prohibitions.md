@@ -74,7 +74,7 @@ In subsection (b), the words “(as such term is defined in section 10102 of thi
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–291, §205(1), inserted “, To whom section 5902(b) applies,” after “person”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–291, §205(1), inserted “, To whom section 5902(b) applies,” after “person”.
 
 Subsec. (b). Pub. L. 104–291, §205(2), added subsec. (b) and struck out former subsec. (b) which read as follows:
 

@@ -16,27 +16,41 @@ This subchapter does not apply to the following:
 
 &emsp;(7) Loans made, insured, or guaranteed pursuant to a program authorized by title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\].
 
-(Pub. L. 90–321, title I, §104, May 29, 1968, 82 Stat. 147; Pub. L. 93–495, title IV, §402, Oct. 28, 1974, 88 Stat. 1517; Pub. L. 96–221, title VI, §603(c), Mar. 31, 1980, 94 Stat. 169; Pub. L. 97–320, title VII, §701(a), Oct. 15, 1982, 96 Stat. 1538; Pub. L. 104–208, div. A, title II, §2102(a), Sept. 30, 1996, 110 Stat. 3009–398; Pub. L. 110–315, title X, §1022, Aug. 14, 2008, 122 Stat. 3488.)
+(Pub. L. 90–321, title I, §104, May 29, 1968, 82 Stat. 147; Pub. L. 93–495, title IV, §402, Oct. 28, 1974, 88 Stat. 1517; Pub. L. 96–221, title VI, §603(c), Mar. 31, 1980, 94 Stat. 169; Pub. L. 97–320, title VII, §701(a), Oct. 15, 1982, 96 Stat. 1538; Pub. L. 104–208, div. A, title II, §2102(a), Sept. 30, 1996, 110 Stat. 3009–398; Pub. L. 110–315, title X, §1022, Aug. 14, 2008, 122 Stat. 3488; Pub. L. 111–203, title X, §§1100A(2), 1100E(a)(1), July 21, 2010, 124 Stat. 2107, 2111.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1100A(2), 1100E(a)(1), 1100H, July 21, 2010, 124 Stat. 2107, 2111, 2113, provided that, effective on the designated transfer date, this section is amended as follows:</i>
+
+<i>(1) by striking “Board” each place that term appears and inserting “Bureau”; and</i>
+
+<i>(2) in paragraph (3), by striking “$25,000” and inserting “$50,000”.</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in par. (7), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Higher Education Act of 1965 is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in par. (7), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, asamended. Title IV of the Higher Education Act of 1965 is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
 
-2008—Par. (3). Pub. L. 110–315 inserted “and other than private education loans (as that term is defined in section 1650(a) of this title)” after “consumer”.
+<b>2008</b>—Par. (3). Pub. L. 110–315 inserted “and other than private education loans (as that term is defined in section 1650(a) of this title)” after “consumer”.
 
-1996—Pars. (5) to (7). Pub. L. 104–208 added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
+<b>1996</b>—Pars. (5) to (7). Pub. L. 104–208 added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 
-1982—Par. (6). Pub. L. 97–320 added par. (6).
+<b>1982</b>—Par. (6). Pub. L. 97–320 added par. (6).
 
-1980—Par. (1). Pub. L. 96–221, §603(c)(1), inserted provision relating to applicability to agricultural purposes.
+<b>1980</b>—Par. (1). Pub. L. 96–221, §603(c)(1), inserted provision relating to applicability to agricultural purposes.
 
 Par. (3). Pub. L. 96–221, §603(c)(2), substituted provision excepting security interest in real property, or in personal property used as the consumer's principal dwelling, for provisions excepting real property transactions.
 
 Par. (5). Pub. L. 96–221, §603(c)(3), struck out par. (5) which related to credit transactions primarily for agricultural purposes where the amount financed exceeds $25,000.
 
-1974—Par. (5). Pub. L. 93–495 added par. (5).
+<b>1974</b>—Par. (5). Pub. L. 93–495 added par. (5).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1982 Amendment
 
@@ -53,4 +67,8 @@ Amendment by Pub. L. 93–495 effective Oct. 28, 1974, see section 416 of Pub. L
 #### Exceptions in Areas Where Major Disaster Exists
 
 Board of Governors of Federal Reserve System authorized to make exceptions to requirements of this subchapter for transactions within an area in which the President has determined that a major disaster exists, if Board determines that exception can reasonably be expected to alleviate hardships to the public that outweigh possible adverse effects, see section 2 of Pub. L. 103–76, set out as a note under section 4008 of Title 12, Banks and Banking.
+
+#### Adjustments for Inflation
+
+Pub. L. 111–203, title X, §1100E(b), July 21, 2010, 124 Stat. 2111, provided that: “On and after December 31, 2011, the Bureau \[of Consumer Financial Protection\] shall adjust annually the dollar amounts described in sections 104(3) and 181(1) of the Truth in Lending Act \[15 U.S.C. 1603(3), 1667(1)\] (as amended by this section), by the annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers, as published by the Bureau of Labor Statistics, rounded to the nearest multiple of $100, or $1,000, as applicable.”
 

@@ -24,5 +24,9 @@ In this chapter:
 
 &emsp;The term “scientifically valid research” includes applied research, basic research, and field-initiated research in which the rationale, design, and interpretation are soundly developed in accordance with accepted principles of scientific research.
 
-(Pub. L. 110–69, title VI, §6002, Aug. 9, 2007, 121 Stat. 625.)
+(Pub. L. 110–69, title VI, §6001, formerly §6002, Aug. 9, 2007, 121 Stat. 625; renumbered §6001, Pub. L. 111–358, title X, §1002(b)(1), Jan. 4, 2011, 124 Stat. 4048.)
+
+#### Prior Provisions
+
+A prior section 6001 of Pub. L. 110–69 was classified to section 9801 of this title prior to repeal by Pub. L. 111–358.
 

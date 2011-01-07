@@ -10,7 +10,7 @@ Section was not enacted as part of the Puerto Rican Federal Relations Act which 
 
 #### Amendments
 
-1909—Act Aug. 5, 1909, placed coffee in the bean or ground, imported into Puerto Rico, formerly subject to a duty of 5 cents, on the duty free list.
+<b>1909</b>—Act Aug. 5, 1909, placed coffee in the bean or ground, imported into Puerto Rico, formerly subject to a duty of 5 cents, on the duty free list.
 
 #### Change of Name
 

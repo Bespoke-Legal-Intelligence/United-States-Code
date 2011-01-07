@@ -40,15 +40,15 @@ Provisions similar to those in this section were contained in a prior section 18
 
 #### Amendments
 
-1990—Subsec. (a)(3). Pub. L. 101–549, §108(k)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “that the prevention and control of air pollution at its source is the primary responsibility of States and local governments; and”.
+<b>1990</b>—Subsec. (a)(3). Pub. L. 101–549, §108(k)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “that the prevention and control of air pollution at its source is the primary responsibility of States and local governments; and”.
 
 Subsec. (b)(4). Pub. L. 101–549, §108(k)(2), inserted “prevention and” after “pollution”.
 
 Subsec. (c). Pub. L. 101–549, §108(k)(3), added subsec. (c).
 
-1967—Subsec. (b)(1). Pub. L. 90–148 inserted “and enhance the quality of” after “to protect”.
+<b>1967</b>—Subsec. (b)(1). Pub. L. 90–148 inserted “and enhance the quality of” after “to protect”.
 
-1965—Subsec. (b). Pub. L. 89–272 substituted “this title” for “this Act”, which for purposes of codification has been changed to “this subchapter”.
+<b>1965</b>—Subsec. (b). Pub. L. 89–272 substituted “this title” for “this Act”, which for purposes of codification has been changed to “this subchapter”.
 
 #### Effective Date of 1990 Amendment
 
@@ -130,7 +130,7 @@ Reorg. Plan No. 3 of 1970, §2(a)(3), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat.
 
 #### Impact on Small Communities
 
-Section 810 of Pub. L. 101–549 provided that: “Before implementing a provision of this Act \[see Tables for classification\], the Administrator of the Environmental Protection Agency shall consult with the Small Communities Coordinator of the Environmental Protection Agency to determine the impact of such provision on small communities, including the estimated cost of compliance with such provision.”
+Section 810 of Pub. L. 101–549 provided that: “Before implementing a provision of this Act \[see Tables forclassification\], the Administrator of the Environmental Protection Agency shall consult with the Small Communities Coordinator of the Environmental Protection Agency to determine the impact of such provision on small communities, including the estimated cost of compliance with such provision.”
 
 #### Radon Assessment and Mitigation
 
@@ -296,7 +296,7 @@ Pub. L. 95–95, title IV, §404, Aug. 7, 1977, 91 Stat. 793, as amended by H. R
 
 #### Study and Report Concerning Economic Approaches to Controlling Air Pollution
 
-Pub. L. 95–95, title IV, §405, Aug. 7, 1977, 91 Stat. 794, directed Administrator, in conjunction with Council of Economic Advisors, to undertake a study and assessment of economic measures for control of air pollution which could strengthen effectiveness of existing methods of controlling air pollution, provide incentives to abate air pollution greater than that required by Clean Air Act, and serve as primary incentive for controlling air pollution problems not addressed by Clean Air Act,and directed that not later than 2 years after Aug. 7, 1977, Administrator and Council conclude study and submit a report to President and Congress.
+Pub. L. 95–95, title IV, §405, Aug. 7, 1977, 91 Stat. 794, directed Administrator, in conjunction with Council of Economic Advisors, to undertake a study and assessment of economic measures for control of air pollution which could strengthen effectiveness of existing methods of controlling air pollution, provide incentives to abate air pollution greater than that required by Clean Air Act, and serve as primary incentive for controlling air pollution problems not addressed by Clean Air Act, and directed that not later than 2 years after Aug. 7, 1977, Administrator and Council conclude study and submit a report to President and Congress.
 
 #### National Industrial Pollution Control Council
 
@@ -308,7 +308,7 @@ For provisions relating to responsibility of head of each Executive agency for c
 
 #### Executive Order No. 10779
 
-Ex. Ord. No. 10779, Aug. 21, 1958, 23 F.R. 6487, which related to cooperation of Federal agencies with State and local authorities, was superseded by Ex. Ord. No. 11282, May 26, 1966, 31 F.R. 7663, formerly set out under section 7418 of this title.
+Ex. Ord. No. 10779, Aug. 21, 1958, 23 F.R. 6487, which related to cooperation of Federal agencies with State andlocal authorities, was superseded by Ex. Ord. No. 11282, May 26, 1966, 31 F.R. 7663, formerly set out under section 7418 of this title.
 
 #### Executive Order No. 11507
 

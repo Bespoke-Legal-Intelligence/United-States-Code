@@ -40,13 +40,13 @@ Punishment provision was rewritten to make it more definite by substituting a ma
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–294 repealed Pub. L. 103–322, §320101(b)(1). See 1994 Amendment note below.
+<b>1996</b>—Subsec. (a). Pub. L. 104–294 repealed Pub. L. 103–322, §320101(b)(1). See 1994 Amendment note below.
 
 Subsec. (c). Pub. L. 104–132, §721(d)(1), inserted “ ‘national of the United States’,” before “and ‘official guest’ ”.
 
 Subsec. (e). Pub. L. 104–132, §721(d)(2), inserted first sentence and struck out former first sentence which read as follows: “If the victim of an offense under subsection (a) is an internationally protected person, the United States may exercise jurisdiction over the offense if the alleged offender is present within the United States, irrespective of the place where the offense was committed or the nationality of the victim or the alleged offender.”
 
-1994—Subsec. (a). Pub. L. 103–322, §330016(1)(K), substituted “under this title” for “not more than $5,000” before “or imprisoned not more than three years”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §330016(1)(K), substituted “under this title” for “not more than $5,000” before “or imprisoned not more than three years”.
 
 Pub. L. 103–322, §320101(b)(2), (3), inserted “, or inflicts bodily injury,” after “weapon” and substituted “under this title” for “not more than $10,000” before “or imprisoned not more than ten years”.
 
@@ -56,13 +56,13 @@ Subsec. (b). Pub. L. 103–322, §330016(1)(G), in concluding provisions, substi
 
 Subsec. (e). Pub. L. 103–272 substituted “section 46501(2) of title 49” for “section 101(38) of the Federal Aviation Act of 1958, as amended (49 U.S.C. 1301(38))”.
 
-1988—Subsec. (b)(3). Pub. L. 100–690 struck out “but outside the District of Columbia” after “United States”.
+<b>1988</b>—Subsec. (b)(3). Pub. L. 100–690 struck out “but outside the District of Columbia” after “United States”.
 
-1978—Subsec. (e). Pub. L. 95–504 substituted reference to section 101(38) of the Federal Aviation Act of 1958 for reference to section 101(35) of such Act.
+<b>1978</b>—Subsec. (e). Pub. L. 95–504 substituted reference to section 101(38) of the Federal Aviation Act of 1958 for reference to section 101(35) of such Act.
 
-1977—Subsec. (e). Pub. L. 95–163 substituted reference to section 101(35) of the Federal Aviation Act of 1958 for reference to section 101(34) of such Act.
+<b>1977</b>—Subsec. (e). Pub. L. 95–163 substituted reference to section 101(35) of the Federal Aviation Act of 1958 for reference to section 101(34) of such Act.
 
-1976—Pub. L. 94–467 substituted “official guests, and internationally protected persons” for “and official guests” in section catchline.
+<b>1976</b>—Pub. L. 94–467 substituted “official guests, and internationally protected persons” for “and official guests” in section catchline.
 
 Subsec. (a). Pub. L. 94–467 substituted “official guest, or internationally protected person” for “or official guest” and inserted provision including any other violent attack on the person or the liberty of such official, guest, or protected person, his official premises, private accommodation, or means of transport, or any attempt thereof, as acts subject to fine or imprisonment.
 
@@ -72,11 +72,11 @@ Subsec. (c). Pub. L. 94–467 redesignated subsec. (d) as (c), inserted “inter
 
 Subsecs. (d) to (f). Pub. L. 94–467 added subsecs. (e) and (f) and redesignated former subsecs. (d) and (e) as (c) and (d), respectively.
 
-1972—Subsec. (a). Pub. L. 92–539 substituted “Protection of foreign officials and official guests” for “Assaulting certain foreign diplomatic and other official personnel” in section catchline, designated existing provisions as subsec. (a), and substituted “a foreign official or official guest” for “the person of a head of foreign state or foreign government, foreign minister, ambassador or other public minister” and “act” for “acts”.
+<b>1972</b>—Subsec. (a). Pub. L. 92–539 substituted “Protection of foreign officials and official guests” for “Assaulting certain foreign diplomatic and other official personnel” in section catchline, designated existing provisions as subsec. (a), and substituted “a foreign official or official guest” for “the person of a head of foreign state or foreign government, foreign minister, ambassador or other public minister” and “act” for “acts”.
 
 Subsecs. (b) to (e). Pub. L. 92–539 added subsecs. (b) to (e).
 
-1964—Pub. L. 88–493 included heads of foreign states or governments and foreign ministers.
+<b>1964</b>—Pub. L. 88–493 included heads of foreign states or governments and foreign ministers.
 
 #### Effective Date of 1996 Amendment
 

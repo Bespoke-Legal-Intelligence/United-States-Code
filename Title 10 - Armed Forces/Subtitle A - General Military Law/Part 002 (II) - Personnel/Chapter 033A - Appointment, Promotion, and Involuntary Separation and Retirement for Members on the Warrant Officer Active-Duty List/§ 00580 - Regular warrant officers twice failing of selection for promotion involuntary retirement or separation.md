@@ -2,11 +2,11 @@
 
 (a)(1) Unless retired or separated sooner under some other provision of law, a regular chief warrant officer who has twice failed of selection for promotion to the next higher regular warrant officer grade shall be retired under paragraph (2) or (3) or separated from active duty under paragraph (4).
 
-(2) If a warrant officer described in paragraph (1) has more than 20 years of creditable active service on (A) the date on which the Secretary concerned approves the report of the board under section 576(e) of this title, or (B) the date on which his name was removed from the recommended list under section 579 of this title, whichever applies, the warrant officer shall be retired. The date of such retirement shall be not later than the first day of the seventh calendar month beginning after the applicable date under the preceding sentence, except as provided by section 8301 of title 5. A warrant officer retired under this paragraph shall receive retired pay computed under section 1401 of this title.
+(2) If a warrant officer described in paragraph (1) has more than 20 years of creditable active service on (A) the date on which the Secretary concerned approves the report of the board under section 576(e) of this title, or (B) the date on which his name was removed from the recommended list under section 579 of this title, whichever applies, the warrant officer shall be retired. The date of such retirement shall be not later than the first day of the seventh calendar month beginning after the applicable date under the preceding sentence, except as provided bysection 8301 of title 5. A warrant officer retired under this paragraph shall receive retired pay computed under section 1401 of this title.
 
 (3) If a warrant officer described in paragraph (1) has at least 18 but not more than 20 years of creditable active service on (A) the date on which the Secretary concerned approves the report of the board under section 576(e) of this title, or (B) the date on which his name was removed from the recommended list under section 579 of this title, whichever applies, the warrant officer shall be retired not later than the date determined under the next sentence unless he is selected for promotion to the next higher regular warrant officer grade before that date. The date of the retirement of a warrant officer under the preceding sentence shall be on a date specified by the Secretary concerned, but not later than the first day of the seventh calendar month beginning after the date upon which he completes 20 years of active service, except as provided by section 8301 of title 5. A warrant officer retired under this paragraph shall receive retired pay computed under section 1401 of this title.
 
-(4)(A) If a warrant officer described in paragraph (1) has less than 18 years of creditable active service on (i) the date on which the Secretary concerned approves the report of the board under section 576(e) of this title, or (ii) thedate on which his name was removed from the recommended list under section 579 of this title, whichever applies, the warrant officer shall be separated (except as provided in subparagraph (C)). The date of such separation shall be not later than the first day of the seventh calendar month beginning after the applicable date under the preceding sentence.
+(4)(A) If a warrant officer described in paragraph (1) has less than 18 years of creditable active service on (i) the date on which the Secretary concerned approves the report of the board under section 576(e) of this title, or (ii) the date on which his name was removed from the recommended list under section 579 of this title, whichever applies, the warrant officer shall be separated (except as provided in subparagraph (C)). The date of such separation shall be not later than the first day of the seventh calendar month beginning after the applicable date under the preceding sentence.
 
 (B) A warrant officer separated under this paragraph shall receive separation pay computed under section 1174 of this title, or severance pay computed under section 286a of title 14, as appropriate, except in a case in which—
 
@@ -50,7 +50,9 @@
 
 (6) The Secretary of Defense and the Secretary of Homeland Security, when the Coast Guard is not operating as a service in the Navy, shall prescribe regulations for the administration of this subsection.
 
-(Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1498; amended Pub. L. 103–160, div. A, title V, §505(a), Nov. 30, 1993, 107 Stat. 1645; Pub. L. 103–337, div. A, title V, §541(b)(5), Oct. 5, 1994, 108 Stat. 2765; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–364, div. A, title V, §505(a), (b), Oct. 17, 2006, 120 Stat. 2179.)
+(f) A warrant officer subject to discharge or retirement under this section, but against whom any action has been commenced with a view to trying the officer by court-martial, may be continued on active duty, without prejudice to such action, until the completion of such action.
+
+(Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1498; amended Pub. L. 103–160, div. A, title V, §505(a), Nov. 30, 1993, 107 Stat. 1645; Pub. L. 103–337, div. A, title V, §541(b)(5), Oct. 5, 1994, 108 Stat. 2765; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–364, div. A, title V, §505(a), (b), Oct. 17, 2006, 120 Stat. 2179; Pub. L. 111–383, div. A, title V, §541, Jan. 7, 2011, 124 Stat. 4218.)
 
 #### References in Text
 
@@ -62,17 +64,19 @@ Provisions similar to those in this section were contained in section 564 of thi
 
 #### Amendments
 
-2006—Subsec. (e)(1). Pub. L. 109–364, §505(a), substituted “continued on active duty if—” and subpars. (A) and (B) for “continued on active duty if he is selected for continuation on active duty by a selection board convened under section 573(c) of this title.”
+<b>2011</b>—Subsec. (f). Pub. L. 111–383 added subsec. (f).
+
+<b>2006</b>—Subsec. (e)(1). Pub. L. 109–364, §505(a), substituted “continued on active duty if—” and subpars. (A) and (B) for “continued on active duty if he is selected for continuation on active duty by a selection board convened under section 573(c) of this title.”
 
 Subsec. (e)(2). Pub. L. 109–364, §505(b), designated existing provisions as subpar. (A) and added subpar. (B).
 
-2002—Subsec. (e)(6). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (e)(6). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1994—Subsec. (a)(4)(B). Pub. L. 103–337, §541(b)(5)(A), inserted “, or severance pay computed under section 286a of title 14, as appropriate,” after “section 1174 of this title”.
+<b>1994</b>—Subsec. (a)(4)(B). Pub. L. 103–337, §541(b)(5)(A), inserted “, or severance pay computed under section 286a of title 14, as appropriate,” after “section 1174 of this title”.
 
 Subsec. (e)(6). Pub. L. 103–337, §541(b)(5)(B), inserted “and the Secretary of Transportation, when the Coast Guard is not operating as a service in the Navy,” after “Secretary of Defense”.
 
-1993—Subsec. (a)(4)(A). Pub. L. 103–160, §505(a)(1), inserted “(except as provided in subparagraph (C))” after “shall be separated”.
+<b>1993</b>—Subsec. (a)(4)(A). Pub. L. 103–160, §505(a)(1), inserted “(except as provided in subparagraph (C))” after “shall be separated”.
 
 Subsec. (a)(4)(C). Pub. L. 103–160, §505(a)(2), added subpar. (C).
 

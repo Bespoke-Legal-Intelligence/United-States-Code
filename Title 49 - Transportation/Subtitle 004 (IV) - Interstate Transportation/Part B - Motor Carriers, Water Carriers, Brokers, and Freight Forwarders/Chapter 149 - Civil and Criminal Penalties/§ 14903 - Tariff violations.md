@@ -20,7 +20,7 @@ Venue.—Trial in a criminal action under this section is in the judicial distri
 
 #### Historical and Revision Notes
 
-I74Pub. L. 105–102
+#### Pub. L. 105–102
 
 This amends 49:14903(a) to correct a grammatical error.
 
@@ -30,5 +30,5 @@ Provisions similar to those in this section were contained in section 11903 of t
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–102 inserted “a” before “civil penalty of not more than”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–102 inserted “a” before “civil penalty of not more than”.
 

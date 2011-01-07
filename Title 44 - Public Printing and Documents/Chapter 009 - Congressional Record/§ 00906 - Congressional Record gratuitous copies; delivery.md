@@ -130,29 +130,29 @@ Provisions respecting National Homes for Disabled Volunteer Soldiers, referred t
 
 #### Amendments
 
-1998—Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals” in two places.
+<b>1998</b>—Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals” in two places.
 
-1996—Pub. L. 104–186 substituted “to the Clerk and the Sergeant at Arms” for “to the Clerk, Sergeant at Arms, and Doorkeeper” in three places, “to the Clerk for use on the floor” for “to the Doorkeeper for use on the floor”, and “and to the Secretaries to the Majority and the Minority of the Senate” for “to the Secretaries to the Majority and the Minority of the Senate, and to the Doorkeeper of the House of Representatives”.
+<b>1996</b>—Pub. L. 104–186 substituted “to the Clerk and the Sergeant at Arms” for “to the Clerk, Sergeant at Arms, and Doorkeeper” in three places, “to the Clerk for use on the floor” for “to the Doorkeeper for use on the floor”, and “and to the Secretaries to the Majority and the Minority of the Senate” for “to the Secretaries to the Majority and the Minority of the Senate, and to the Doorkeeper of the House of Representatives”.
 
-1994—Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals” in two places.
+<b>1994</b>—Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals” in two places.
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” in two places.
+<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” in two places.
 
-1991—Pub. L. 102–82 inserted “the United States Court of Veterans Appeals,” after “the Tax Court of the United States,” in two places.
+<b>1991</b>—Pub. L. 102–82 inserted “the United States Court of Veterans Appeals,” after “the Tax Court of the United States,” in two places.
 
-1990—Pub. L. 101–510 substituted “each separate establishment of the Armed Forces Retirement Home,” for “the United States Soldiers’ Home and”.
+<b>1990</b>—Pub. L. 101–510 substituted “each separate establishment of the Armed Forces Retirement Home,” for “the United States Soldiers’ Home and”.
 
-1982—Pub. L. 97–164 substituted “the United States Claims Court” for “the United States Court of Claims, the United States Court of Customs and Patent Appeals” in two places.
+<b>1982</b>—Pub. L. 97–164 substituted “the United States Claims Court” for “the United States Court of Claims, the United States Court of Customs and Patent Appeals” in two places.
 
-1980—Pub. L. 96–417 redesignated the United States Customs Court as the United States Court of International Trade.
+<b>1980</b>—Pub. L. 96–417 redesignated the United States Customs Court as the United States Court of International Trade.
 
-1977—Pub. L. 95–94 substituted “to the Vice President, one hundred copies; to each Senator, fifty copies (which may be transferred only to public agencies and institutions);” for “to the Vice President and each Senator, one hundred copies:” and “to each Member of the House of Representatives, the Resident Commissioner from Puerto Rico, the Delegate from the District of Columbia, the Delegate from Guam, and the Delegate from the Virgin Islands, thirty-four copies (which may be transferred only to public agencies and institutions);” for “to each Representative and Resident Commissioner in Congress, sixty-eight copies”.
+<b>1977</b>—Pub. L. 95–94 substituted “to the Vice President, one hundred copies; to each Senator, fifty copies (which may be transferred only to public agencies and institutions);” for “to the Vice President and each Senator, one hundred copies:” and “to each Member of the House of Representatives, the Resident Commissioner from Puerto Rico, the Delegate from the District of Columbia, the Delegate from Guam, and the Delegate from the Virgin Islands, thirty-four copies (which may be transferred only to public agencies and institutions);” for “to each Representative and Resident Commissioner in Congress, sixty-eight copies”.
 
-1974—Pub. L. 93–314 struck out subscriptions from section catchline, and struck out last paragraph which authorized the Public Printer to furnish the daily Record to subscribers at a price determined by him to be based upon the cost of printing and distribution, with the price to be payable in advance. See section 910 of this title.
+<b>1974</b>—Pub. L. 93–314 struck out subscriptions from section catchline, and struck out last paragraph which authorized the Public Printer to furnish the daily Record to subscribers at a price determined by him to be based upon the cost of printing and distribution, with the price to be payable in advance. See section 910 of this title.
 
-1972—Pub. L. 92–373 provided for the furnishing of one copy of the daily, one semimonthly copy of the Congressional Record to the United States Court of Appeals library and certain other libraries.
+<b>1972</b>—Pub. L. 92–373 provided for the furnishing of one copy of the daily, one semimonthly copy of the Congressional Record to the United States Court of Appeals library and certain other libraries.
 
-1970—Pub. L. 91–276 substituted provision authorizing the Public Printer to furnish the daily Congressional Record to subscribers at a price based upon cost of printing and distribution for prior subscription price of $1.50 per month.
+<b>1970</b>—Pub. L. 91–276 substituted provision authorizing the Public Printer to furnish the daily Congressional Record to subscribers at a price based upon cost of printing and distribution for prior subscription price of $1.50 per month.
 
 #### Effective Date of 1998 Amendment
 

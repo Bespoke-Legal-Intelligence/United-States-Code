@@ -22,7 +22,7 @@ The word “members” is substituted for the words “officers and enlisted men
 
 #### Amendments
 
-2006—Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands” for “State and Territory, Puerto Rico, and the District of Columbia”.
+<b>2006</b>—Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands” for “State and Territory, Puerto Rico, and the District of Columbia”.
 
-1988—Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
+<b>1988</b>—Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 

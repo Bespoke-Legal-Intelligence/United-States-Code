@@ -6,5 +6,5 @@ At the time of notification of the commencement of an investigation of an instit
 
 #### Amendments
 
-1996—Pub. L. 104–134 substituted “the action” for “his action” and “the Attorney General is satisfied” for “he is satisfied”.
+<b>1996</b>—Pub. L. 104–134 substituted “the action” for “his action” and “the Attorney General is satisfied” for “he is satisfied”.
 

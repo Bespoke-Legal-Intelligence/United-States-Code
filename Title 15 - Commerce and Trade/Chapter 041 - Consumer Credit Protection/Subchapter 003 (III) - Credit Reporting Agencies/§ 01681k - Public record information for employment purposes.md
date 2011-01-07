@@ -16,7 +16,7 @@ Subsection (a) of this section does not apply in the case of an agency or depart
 
 #### Amendments
 
-1998—Pub. L. 105–347 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>1998</b>—Pub. L. 105–347 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Effective Date of 1998 Amendment
 

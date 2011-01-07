@@ -88,7 +88,7 @@ The trustee of a partnership debtor may avoid any transfer of partnership proper
 
 If a transferee's only liability to the trustee is under this section, and if he takes for value and in good faith, then subsection (c) grants him a lien on the property transferred, or other similar protection.
 
-Subsection (d) specifies that for the purposes of fraudulent transfer section, a transfer is made when it is valid against a subsequent bona fide purchaser. If not made before the commencement of the case, it is considered made immediately before then. Subsection (d) also defines “value” to mean property, or the satisfaction or securing of a present or antecedent debt, butdoes not include an unperformed promise to furnish support to the debtor or a relative of the debtor.
+Subsection (d) specifies that for the purposes of fraudulent transfer section, a transfer is made when it is valid against a subsequent bona fide purchaser. If not made before the commencement of the case, it is considered made immediately before then. Subsection (d) also defines “value” to mean property, or the satisfaction or securing of a present or antecedent debt, but does not include an unperformed promise to furnish support to the debtor or a relative of the debtor.
 
 #### References in Text
 
@@ -96,7 +96,7 @@ Sections 170(c) and 731(c)(2)(C) of the Internal Revenue Code of 1986, referred 
 
 #### Amendments
 
-2005—Subsec. (a)(1). Pub. L. 109–8, §1402(2), in introductory provisions, inserted “(including any transfer to or for the benefit of an insider under an employment contract)” after “avoid any transfer” and “(including any obligation to or for the benefit of an insider under an employment contract)” after “or any obligation”.
+2005—Subsec. (a)(1). Pub. L. 109–8, §1402(2), in introductory provisions, inserted “(including any transfer toor for the benefit of an insider under an employment contract)” after “avoid any transfer” and “(including any obligation to or for the benefit of an insider under an employment contract)” after “or any obligation”.
 
 Pub. L. 109–8, §1402(1), substituted “2 years” for “one year” in introductory provisions.
 

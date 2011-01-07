@@ -28,7 +28,7 @@ A local exchange carrier that provides cable service through an open video syste
 
 #### (c) Additional regulatory relief
 
-A common carrier shall not be required to obtain a certificate under section 214 of this title with respect to the establishment or operation of a system for the delivery of video programming.
+A common carrier shall not be required to obtain a certificate under section 214 of this titlewith respect to the establishment or operation of a system for the delivery of video programming.
 
 (June 19, 1934, ch. 652, title VI, §651, as added Pub. L. 104–104, title III, §302(a), Feb. 8, 1996, 110 Stat. 118.)
 

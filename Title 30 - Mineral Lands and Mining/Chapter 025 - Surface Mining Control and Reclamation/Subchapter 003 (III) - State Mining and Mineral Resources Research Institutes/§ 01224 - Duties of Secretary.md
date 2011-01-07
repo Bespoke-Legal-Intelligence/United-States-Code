@@ -6,7 +6,7 @@ The Secretary, acting through the Director of the United States Bureau of Mines,
 
 #### (b) Annual ascertainment of compliance
 
-On or before the first day of July in each year beginning after August 29, 1984, the Secretary shall ascertain whether the requirements of section 1223(a) of this title have been met as to each institute and State.
+On or before the first day of July in each year beginning after August 29, 1984, the Secretaryshall ascertain whether the requirements of section 1223(a) of this title have been met as to each institute and State.
 
 (Pub. L. 98–409, §4, Aug. 29, 1984, 98 Stat. 1538; Pub. L. 100–483, §6, Oct. 12, 1988, 102 Stat. 2340; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
 
@@ -22,7 +22,7 @@ A prior section 1224, Pub. L. 95–87, title III, §304, Aug. 3, 1977, 91 Stat. 
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–483 inserted “, acting through the Director of the Bureau of Mines,” after “The Secretary”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–483 inserted “, acting through the Director of the Bureau of Mines,” after “The Secretary”.
 
 #### Change of Name
 

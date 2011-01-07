@@ -12,5 +12,21 @@ It shall be unlawful, if the purpose be to further the interests of the Palestin
 
 #### References in Text
 
-For the effective date of this chapter, referred to in text, as being 90 days after Dec. 22, 1987, see section 1005of Pub. L. 100–204, set out as an Effective Date note under section 5201 of this title.
+For the effective date of this chapter, referred to in text, as being 90 days after Dec. 22, 1987, see section 1005 of Pub. L. 100–204, set out as an Effective Date note under section 5201 of this title.
+
+#### Delegation of Certain Functions and Authorities
+
+Memorandum of President of the United States, July 21, 2010, 75 F.R. 43795, provided:
+
+Memorandum for the Secretary of State
+
+By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the following functions and authorities:
+
+• The function to make the specified reports to the Congress under 22 U.S.C. 2291–4(c).
+
+• The function and authority to waive the provisions of section 1003 of Public Law 100–204 (22 U.S.C. 5202) upon making certain determinations and certifications under section 7034(b) of the Consolidated Appropriations Act, 2010 (Public Law 111–117) and any subsequently enacted provision of law that is the same or substantially the same.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

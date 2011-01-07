@@ -12,7 +12,7 @@ In actions alleging infringement of a process patent based on the importation, s
 
 #### Amendments
 
-1994—Pub. L. 103–465 substituted “sale, offer for sale, or use” for “sale, or use” in introductory provisions.
+<b>1994</b>—Pub. L. 103–465 substituted “sale, offer for sale, or use” for “sale, or use” in introductory provisions.
 
 #### Effective Date of 1994 Amendment
 

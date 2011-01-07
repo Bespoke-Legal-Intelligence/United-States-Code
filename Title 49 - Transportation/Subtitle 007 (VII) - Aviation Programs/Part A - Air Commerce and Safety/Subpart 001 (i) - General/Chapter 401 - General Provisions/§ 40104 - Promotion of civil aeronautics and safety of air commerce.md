@@ -72,11 +72,11 @@ Section 47176, referred to in subsec. (c), probably should be a reference to sec
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–176, §813, amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary of Transportation may develop and construct a civil supersonic aircraft.”
+<b>2003</b>—Subsec. (b). Pub. L. 108–176, §813, amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary of Transportation may develop and construct a civil supersonic aircraft.”
 
 Subsec. (c). Pub. L. 108–176, §303, added subsec. (c).
 
-1996—Pub. L. 104–264, §401(b)(1)(A), inserted “safety of” before “air commerce” in section catchline.
+<b>1996</b>—Pub. L. 104–264, §401(b)(1)(A), inserted “safety of” before “air commerce” in section catchline.
 
 Subsec. (a). Pub. L. 104–264, §401(b)(1)(B), (C), inserted “
 
@@ -84,7 +84,7 @@ Safety of” before “
 
 Air Commerce” in heading and “safety of” before “air commerce” in text.
 
-1994—Pub. L. 103–429 designated existing provisions as subsec. (a), inserted heading, substituted “carrying out this subsection” for “carrying out this section”, and added subsec. (b).
+<b>1994</b>—Pub. L. 103–429 designated existing provisions as subsec. (a), inserted heading, substituted “carrying out this subsection” for “carrying out this section”, and added subsec. (b).
 
 #### Effective Date of 2003 Amendment
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Effective Date of 1994 Amendment
 

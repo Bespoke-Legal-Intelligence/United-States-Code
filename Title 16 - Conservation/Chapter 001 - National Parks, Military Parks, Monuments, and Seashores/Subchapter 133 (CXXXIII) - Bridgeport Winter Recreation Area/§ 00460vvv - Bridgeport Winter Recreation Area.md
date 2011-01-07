@@ -88,7 +88,7 @@ This subtitle, referred to in subsec. (b)(2), is subtitle K (§§1801–1808) of
 
 #### Amendments
 
-2009—Subsec. (g). Pub. L. 111–84 added subsec. (g).
+<b>2009</b>—Subsec. (g). Pub. L. 111–84 added subsec. (g).
 
 #### Definitions
 

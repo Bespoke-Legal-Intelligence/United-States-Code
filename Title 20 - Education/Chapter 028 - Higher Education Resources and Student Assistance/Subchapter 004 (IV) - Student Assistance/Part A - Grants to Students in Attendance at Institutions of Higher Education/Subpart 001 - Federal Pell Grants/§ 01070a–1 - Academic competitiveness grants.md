@@ -14,7 +14,7 @@ A grant under this section—
 
 #### (c) Definition of eligible student
 
-In this section the term “eligible student” means a student who, for the award year forwhich the determination of eligibility is made for a grant under this section—
+In this section the term “eligible student” means a student who, for the award year for which the determination of eligibility is made for a grant under this section—
 
 &emsp;(1) is eligible for a Federal Pell Grant;
 
@@ -52,7 +52,7 @@ In this section the term “eligible student” means a student who, for the awa
 
 &emsp;&emsp;&emsp;(ii) has obtained a cumulative grade point average of at least 3.0 (or the equivalent as determined under regulations prescribed by the Secretary) in the coursework required for the major described in clause (i);
 
-&emsp;&emsp;(D) the third or fourth year of a program of undergraduate education at an institution of higher education (as defined in section 1001(a) of this title), is attending an institution that demonstrates, to the satisfaction of the Secretary, that the institution—
+&emsp;&emsp;(D) the third or fourth year of a program of undergraduate education at an institution of higher education (as defined in section1001(a) of this title), is attending an institution that demonstrates, to the satisfaction of the Secretary, that the institution—
 
 &emsp;&emsp;&emsp;(i) offers a single liberal arts curriculum leading to a baccalaureate degree, under which students are not permitted by the institution to declare a major in a particular subject area, and the student—
 
@@ -156,7 +156,7 @@ A prior section 1070a–1, Pub. L. 89–329, title IV, §411A, as added Pub. L. 
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–227, §10(a)(1), added subsec. (a) and struck out former subsec. (a) which established Academic Competitiveness Grants and Academic Competitiveness Council and required report to Congress.
+<b>2008</b>—Subsec. (a). Pub. L. 110–227, §10(a)(1), added subsec. (a) and struck out former subsec. (a) which established Academic Competitiveness Grants and Academic Competitiveness Council and required report to Congress.
 
 Subsec. (b)(1). Pub. L. 110–227, §10(a)(2)(A), substituted “year” for “academic year”.
 

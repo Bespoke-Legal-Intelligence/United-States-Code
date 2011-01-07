@@ -12,7 +12,7 @@ For any period during which a memorandum of understanding is in effect pursuant 
 
 &emsp;(2) all employees in the United States Capitol telephone exchange for whom the employing authority is the Chief Administrative Officer shall be transferred to, and appointed by, the Sergeant at Arms and Doorkeeper; and
 
-&emsp;(3) the Sergeant at Arms and Doorkeeper shall serve as the employing authority for all personnel of the United States Capitol telephone exchange.
+&emsp;(3) the Sergeant at Arms and Doorkeeper shall serve as the employing authority for allpersonnel of the United States Capitol telephone exchange.
 
 #### (c) Pay and leave accrual
 

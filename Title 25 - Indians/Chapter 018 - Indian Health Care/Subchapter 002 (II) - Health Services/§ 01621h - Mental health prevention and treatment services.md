@@ -38,7 +38,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 &emsp;&emsp;(A) the coordination of alcohol and substance abuse programs of the Service, the Bureau of Indian Affairs, and the various tribes (developed under the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986 \[25 U.S.C. 2401 et seq.\]) with the mental health initiatives pursuant to this chapter, particularly with respect to the referral and treatment of dually-diagnosed individuals requiring mental health and substance abuse treatment; and
 
-&emsp;&emsp;(B) ensuring that Bureau of Indian Affairs and Service programs and services (including multidisciplinary resource teams) addressing child abuse and family violence are coordinated with such non-Federal programs and services;
+&emsp;&emsp;(B) ensuring that Bureau of Indian Affairs and Service programs and services (including multidisciplinary resource teams) addressing child abuse and family violence arecoordinated with such non-Federal programs and services;
 
 &emsp;(7) direct appropriate officials of the Bureau of Indian Affairs and the Service, particularly at the agency and service unit levels, to cooperate fully with tribal requests made pursuant to subsection (d) of this section; and
 
@@ -48,39 +48,53 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 (1) The governing body of any Indian tribe may, at its discretion, adopt a resolution for the establishment of a community mental health plan providing for the identification and coordination of available resources and programs to identify, prevent, or treat mental illness or dysfunctional and self-destructive behavior, including child abuse and family violence, among its members.
 
-(2) In furtherance of a plan established pursuant to paragraph (1) and at the request of a tribe, the appropriate agency, service unit, or other officials of the Bureau of Indian Affairsand the Service shall cooperate with, and provide technical assistance to, the tribe in the development of such plan. Upon the establishment of such a plan and at the request of the tribe, such officials, as directed by the memorandum of agreement developed pursuant to subsection (c) of this section, shall cooperate with the tribe in the implementation of such plan.
+(2) In furtherance of a plan established pursuant to paragraph (1) and at the request of a tribe, the appropriate agency, service unit, or other officials of the Bureau of Indian Affairs and the Service shall cooperate with, and provide technical assistance to, the tribe in the development of such plan. Upon the establishment of such a plan and at the request of the tribe, such officials, as directed by the memorandum of agreement developed pursuant to subsection (c) of this section, shall cooperate with the tribe in the implementation of such plan.
 
 (3) Two or more Indian tribes may form a coalition for the adoption of resolutions and the establishment and development of a joint community mental health plan under this subsection.
 
 (4) The Secretary, acting through the Service, may make grants to Indian tribes adopting a resolution pursuant to paragraph (1) to obtain technical assistance for the development of a community mental health plan and to provide administrative support in the implementation of such plan.
 
-#### (d) Mental health training and community education programs
+#### (d) Behavioral health training and community education programs
 
-(1) The Secretary and the Secretary of the Interior, in consultation with representatives of Indian tribes, shall conduct a study and compile a list, of the types of staff positions specified in paragraph (2) whose qualifications include, or should include, training in the identification, prevention, education, referral, or treatment of mental illness or dysfunctional and self-destructive behavior.
+#### (1) Study; list
 
-(2) The positions referred to in paragraph (1) are—
+&emsp;The Secretary, acting through the Service, and the Secretary of the Interior, in consultation with Indian tribes and tribal organizations, shall conduct a study and compile a list of the types of staff positions specified in paragraph (2) whose qualifications include, or should include, training in the identification, prevention, education, referral, or treatment of mental illness, or dysfunctional and self destructive behavior.
 
-&emsp;(A) staff positions within the Bureau of Indian Affairs, including existing positions, in the fields of—
+#### (2) Positions
 
-&emsp;&emsp;(i) elementary and secondary education;
+&emsp;The positions referred to in paragraph (1) are—
 
-&emsp;&emsp;(ii) social services and family and child welfare;
+&emsp;&emsp;(A) staff positions within the Bureau of Indian Affairs, including existing positions, in the fields of—
 
-&emsp;&emsp;(iii) law enforcement and judicial services; and
+&emsp;&emsp;&emsp;(i) elementary and secondary education;
 
-&emsp;&emsp;(iv) alcohol and substance abuse;
+&emsp;&emsp;&emsp;(ii) social services and family and child welfare;
 
-&emsp;(B) staff positions with the Service; and
+&emsp;&emsp;&emsp;(iii) law enforcement and judicial services; and
 
-&emsp;(C) staff positions similar to those identified in subparagraphs (A) and (B) established and maintained by Indian tribes, including positions established in contracts entered into under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\].
+&emsp;&emsp;&emsp;(iv) alcohol and substance abuse;
 
-(3)(A) The appropriate Secretary shall provide training criteria appropriate to each type of position identified in paragraph (2)(A) and ensure that appropriate training has been, or will be, provided to any individual in any such position. With respect to any such individual in a position identified pursuant to paragraph (2)(C), the respective Secretaries shall provide appropriate training to, or provide funds to an Indian tribe for the training of, such individual. In the case of positions funded under a contract entered into under the Indian Self-Determination Act, the appropriate Secretary shall ensure that such training costs are included in the contract, if necessary.
+&emsp;&emsp;(B) staff positions within the Service; and
 
-(B) Funds authorized to be appropriated pursuant to this section may be used to provide training authorized by this paragraph for community education programs described in paragraph (5) if a plan adopted pursuant to subsection (d) of this section identifies individuals or employment categories, other than those identified pursuant to paragraph (1), for which such training or community education is deemed necessary or desirable.
+&emsp;&emsp;(C) staff positions similar to those identified in subparagraphs (A) and (B) established and maintained by Indian tribes and tribal organizations (without regard to the funding source).
 
-(4) Position-specific training criteria described in paragraph (3) shall be culturally relevant to Indians and Indian tribes and shall ensure that appropriate information regarding traditional Indian healing and treatment practices is provided.
+#### (3) Training criteria
 
-(5) The Service shall develop and implement or, upon the request of an Indian tribe, assist such tribe to develop and implement, a program of community education on mental illness and dysfunctional and self-destructive behavior for individuals, as determined in a plan adopted pursuant to subsection (d) of this section. In carrying out this paragraph, the Service shall provide, upon the request of an Indian tribe, technical assistance to the Indian tribe to obtain or develop community education and training materials on the identification, prevention, referral, and treatment of mental illness and dysfunctional and self-destructive behavior.
+#### (A) In general
+
+&emsp;&emsp;The appropriate Secretary shall provide training criteria appropriate to each type of position identified in paragraphs (2)(A) and (2)(B) and ensure that appropriate training has been, or shall be provided to any individual in any such position. With respect to any such individual in a position identified pursuant to paragraph (2)(C), the respective Secretaries shall provide appropriate training to, or provide funds to, an Indian tribe or tribal organization for training of appropriate individuals. In the case of positions funded under a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), the appropriate Secretary shall ensure that such training costs are included in the contract or compact, as the Secretary determines necessary.
+
+#### (B) Position specific training criteria
+
+&emsp;&emsp;Position specific training criteria shall be culturally relevant to Indians and Indian tribes and shall ensure that appropriate information regarding traditional health care practices is provided.
+
+#### (4) Community education on mental illness
+
+&emsp;The Service shall develop and implement, on request of an Indian tribe, tribal organization, or urban Indian organization, or assist the Indian tribe, tribal organization, or urban Indian organization to develop and implement, a program of community education on mental illness. In carrying out this paragraph, the Service shall, upon request of an Indian tribe, tribal organization, or urban Indian organization, provide technical assistance to the Indian tribe, tribal organization, or urban Indian organization to obtain and develop community educational materials on the identification, prevention, referral, and treatment of mental illness and dysfunctional and self-destructive behavior.
+
+#### (5) Plan
+
+&emsp;Not later than 90 days after March 23, 2010, the Secretary shall develop a plan under which the Service will increase the health care staff providing behavioral health services by at least 500 positions within 5 years after March 23, 2010, with at least 200 of such positions devoted to child, adolescent, and family services. The plan developed under this paragraph shall be implemented under section 13 of this title.
 
 #### (e) Staffing
 
@@ -166,7 +180,7 @@ Any person employed as a psychologist, social worker, or marriage and family the
 
 &emsp;(1) in the case of a person employed as a psychologist, be licensed as a clinical psychologist or working under the direct supervision of a licensed clinical psychologist;
 
-&emsp;(2) in the case of a person employed as a social worker, be licensed as a social worker orworking under the direct supervision of a licensed social worker; or
+&emsp;(2) in the case of a person employed as a social worker, be licensed as a social worker or working under the direct supervision of a licensed social worker; or
 
 &emsp;(3) in the case of a person employed as a marriage and family therapist, be licensed as a marriage and family therapist or working under the direct supervision of a licensed marriage and family therapist.
 
@@ -198,19 +212,29 @@ Any person employed as a psychologist, social worker, or marriage and family the
 
 (5) The Secretary shall establish criteria for the review and approval of applications for grants made pursuant to this subsection.
 
-(6) There are authorized to be appropriated to carry out this section $10,000,000 for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
-
-(Pub. L. 94–437, title II, §209, as added Pub. L. 101–630, title V, §503(b), Nov. 28, 1990, 104 Stat. 4557; amended Pub. L. 102–573, title II, §§205, 217(b)(4), title IX, §902(3), Oct. 29, 1992, 106 Stat. 4547, 4559, 4591.)
+(Pub. L. 94–437, title II, §209, as added Pub. L. 101–630, title V, §503(b), Nov. 28, 1990, 104 Stat. 4557; amended Pub. L. 102–573, title II, §§205, 217(b)(4), title IX, §902(3), Oct. 29, 1992, 106 Stat. 4547, 4559, 4591; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 #### References in Text
 
 The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, referred to in subsec. (b)(6)(A), is subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137, as amended, which is classified generally to chapter 26 (§2401 et seq.) of this title. For complete classification of subtitle C to the Code, see Short Title note set out under section 2401 of this title and Tables.
 
-The Indian Self-Determination Act, referred to in subsecs. (d)(2)(C), (3)(A), (k)(3), and (<i>l</i>), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+This chapter, referred to in subsecs. (b)(6)(A) and (<i>l</i>), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (d)(3)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+
+The Indian Self-Determination Act, referred to in subsecs. (k)(3) and (<i>l</i>), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+
+#### Codification
+
+Amendment by Pub. L. 111–148 is based on sections 101(b)(2) and 127 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which were enacted into law by section 10221(a) of Pub. L. 111–148.
 
 #### Amendments
 
-1992—Pub. L. 102–573, §902(3)(A), made technical amendment to section catchline.
+<b>2010</b>—Subsec. (d). Pub. L. 111–148 added subsec. (d) and struck out former subsec. (d) which related to mental health training and community education programs.
+
+Subsec. (m)(6). Pub. L. 111–148 struck out par. (6) which authorized appropriations for fiscal years 1993 to 2000.
+
+<b>1992</b>—Pub. L. 102–573, §902(3)(A), made technical amendment to section catchline.
 
 Subsec. (b). Pub. L. 102–573, §902(3)(B), redesignated subsec. (c) as (b). Prior to amendment, no subsec. (b) had been enacted.
 
@@ -240,7 +264,7 @@ Section 503(a) of Pub. L. 101–630 provided that: “The purposes of this secti
 
 &emsp;“(1) authorize and direct the Indian Health Service to develop a comprehensive mental health prevention and treatment program;
 
-&emsp;“(2) provide direction and guidance relating to mental illness and dysfunctional and self-destructive behavior, including child abuse and family violence,to those Federal, tribal, State, and local agencies responsible for programs in Indian communities in areas of health care, education, social services, child and family welfare, alcohol and substance abuse, law enforcement, and judicial services;
+&emsp;“(2) provide direction and guidance relating to mental illness and dysfunctional and self-destructive behavior, including child abuse and family violence, to those Federal, tribal, State, and local agencies responsible for programs in Indian communities in areas of health care, education, social services, child and family welfare, alcohol and substance abuse, law enforcement, and judicial services;
 
 &emsp;“(3) assist Indian tribes to identify services and resources available to address mental illness and dysfunctional and self-destructive behavior;
 

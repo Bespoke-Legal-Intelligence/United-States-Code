@@ -2,7 +2,7 @@
 
 (a) For purposes of this section, the term “profitability” means, with respect to a debtor, the amount of money that the debtor has earned or lost during current and recent fiscal periods.
 
-(b) A small business debtor shall file periodic financial and other reports containing information including—
+(b) A debtor in a small business case shall file periodic financial and other reports containing information including—
 
 &emsp;(1) the debtor's profitability;
 
@@ -10,21 +10,27 @@
 
 &emsp;(3) comparisons of actual cash receipts and disbursements with projections in prior reports;
 
-&emsp;(4)(A) whether the debtor is—
+&emsp;(4) whether the debtor is—
 
-&emsp;&emsp;(i) in compliance in all material respects with postpetition requirements imposed by this title and the Federal Rules of Bankruptcy Procedure; and
+&emsp;&emsp;(A) in compliance in all material respects with postpetition requirements imposed by this title and the Federal Rules of Bankruptcy Procedure; and
 
-&emsp;&emsp;(ii) timely filing tax returns and other required government filings and paying taxes and other administrative expenses when due;
+&emsp;&emsp;(B) timely filing tax returns and other required government filings and paying taxes and other administrative expenses when due;
 
-&emsp;(B) if the debtor is not in compliance with the requirements referred to in subparagraph (A)(i) or filing tax returns and other required government filings and making the payments referred to in subparagraph (A)(ii), what the failures are and how, at what cost, and when the debtor intends to remedy such failures; and
+&emsp;(5) if the debtor is not in compliance with the requirements referred to in paragraph (4)(A) or filing tax returns and other required government filings and making the payments referred to in paragraph (4)(B), what the failures are and how, at what cost, and when the debtor intends to remedy such failures; and
 
-&emsp;(C) such other matters as are in the best interests of the debtor and creditors, and in the public interest in fair and efficient procedures under chapter 11 of this title.
+&emsp;(6) such other matters as are in the best interests of the debtor and creditors, and in the public interest in fair and efficient procedures under chapter 11 of this title.
 
-(Added Pub. L. 109–8, title IV, §434(a)(1), Apr. 20, 2005, 119 Stat. 111.)
+(Added Pub. L. 109–8, title IV, §434(a)(1), Apr. 20, 2005, 119 Stat. 111; amended Pub. L. 111–327, §2(a)(10), Dec. 22, 2010, 124 Stat. 3558.)
 
 #### References in Text
 
-The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b)(4)(A)(i), are set out in the Appendix to this title.
+The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b)(4)(A), are set out in the Appendix to this title.
+
+#### Amendments
+
+2010—Subsec. (b). Pub. L. 111–327, §2(a)(10)(A), substituted “debtor in a small business case” for “small business debtor” in introductory provisions.
+
+Subsec. (b)(4) to (6). Pub. L. 111–327, §2(a)(10)(B), struck out subpar. (A) designation before “whether the debtor” in par. (4) and redesignated cls. (i) and (ii) of former subpar. (A) as subpars. (A) and (B), respectively, redesignated former subpars. (B) and (C) of par. (4) as pars. (5) and (6), respectively, and, in par. (5), substituted “paragraph (4)(A)” for “subparagraph (A)(i)” and “paragraph (4)(B)” for “subparagraph (A)(ii)”.
 
 #### Effective Date
 

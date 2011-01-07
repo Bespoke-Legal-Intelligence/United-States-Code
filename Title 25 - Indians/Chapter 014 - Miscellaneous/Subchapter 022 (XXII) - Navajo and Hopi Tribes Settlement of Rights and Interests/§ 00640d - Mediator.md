@@ -48,7 +48,7 @@ Pub. L. 104–301, Oct. 11, 1996, 110 Stat. 3649, as amended by Pub. L. 105–25
 
 “The Congress finds that—
 
-&emsp;“(1) it is in the public interest for the Tribe, Navajos residing on the Hopi Partitioned Lands, and the United States to reach a peaceful resolution of the longstanding disagreements between the parties under the Act commonly known as the ‘Navajo-HopiLand Settlement Act of 1974’ (Public Law 93–531; 25 U.S.C. 640d et seq.);
+&emsp;“(1) it is in the public interest for the Tribe, Navajos residing on the Hopi Partitioned Lands, and the United States to reach a peaceful resolution of the longstanding disagreements between the parties under the Act commonly known as the ‘Navajo-Hopi Land Settlement Act of 1974’ (Public Law 93–531; 25 U.S.C. 640d et seq.);
 
 &emsp;“(2) it is in the best interest of the Tribe and the United States that there be a fair and final settlement of certain issues remaining in connection with the Navajo-Hopi Land Settlement Act of 1974, including the full and final settlement of the multiple claims that the Tribe has against the United States;
 
@@ -62,7 +62,7 @@ Pub. L. 104–301, Oct. 11, 1996, 110 Stat. 3649, as amended by Pub. L. 105–25
 
 &emsp;“(5) this Act, the Settlement Agreement, and the Accommodation Agreement provide for the mutual respect and protection of the traditional religious beliefs and practices of the Tribe and the Navajo families residing on the Hopi Partitioned Lands;
 
-&emsp;“(6) the Tribe is encouraged to work with the Navajo families residing on the Hopi Partitioned Lands to address their concerns regarding the establishment of family or individual burial plots for deceased family members who have resided on the Hopi Partitioned Lands; and
+&emsp;“(6) the Tribe is encouraged to work with the Navajo families residing on the Hopi Partitioned Landsto address their concerns regarding the establishment of family or individual burial plots for deceased family members who have resided on the Hopi Partitioned Lands; and
 
 &emsp;“(7) neither the Navajo Nation nor the Navajo families residing upon Hopi Partitioned Lands were parties to or signers of the Settlement Agreement between the United States and the Hopi Tribe.
 
@@ -194,7 +194,7 @@ Authorization of Appropriations.—Subject to subsection (b), there are authoriz
 
 “(b)
 
-Payment.—The Secretary shall make a payment in the amount specified in subsection (a) to the State of Arizona after an initial acquisition of land from the State has been made by the Secretary pursuant to section 6.
+Payment.—The Secretary shall make a payment in the amount specified in subsection (a) to the Stateof Arizona after an initial acquisition of land from the State has been made by the Secretary pursuant to section 6.
 
 #### “SEC. 9. 75-YEAR LEASING AUTHORITY.
 

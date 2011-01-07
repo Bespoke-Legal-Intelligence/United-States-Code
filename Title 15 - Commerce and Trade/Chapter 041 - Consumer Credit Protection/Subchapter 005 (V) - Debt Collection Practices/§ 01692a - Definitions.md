@@ -30,9 +30,21 @@ As used in this subchapter—
 
 &emsp;(8) The term “State” means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any political subdivision of any of the foregoing.
 
-(Pub. L. 90–321, title VIII, §803, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 875; amended Pub. L. 99–361, July 9, 1986, 100 Stat. 768.)
+(Pub. L. 90–321, title VIII, §803, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 875; amended Pub. L. 99–361, July 9, 1986, 100 Stat. 768; Pub. L. 111–203, title X, §1089(2), July 21, 2010, 124 Stat. 2092.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title X, §§1089(2), 1100H, July 21, 2010, 124 Stat. 2092, 2113, provided that, effective on the designated transfer date, this section is amended by striking paragraph (1) and inserting the following:</i>
+
+&emsp;<i>“(1) The term ‘Bureau’ means the Bureau of Consumer Financial Protection.”</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
-1986—Par. (6). Pub. L. 99–361 in provision preceding cl. (A) substituted “clause (F)” for “clause (G)”, struck out cl. (F) which excluded any attorney-at-law collecting a debt as an attorney on behalf of and in the name of a client from term “debt collector”, and redesignated cl. (G) as (F).
+<b>1986</b>—Par. (6). Pub. L. 99–361 in provision preceding cl. (A) substituted “clause (F)” for “clause (G)”, struck out cl. (F) which excluded any attorney-at-law collecting a debt as an attorney on behalf of and in the name of a client from term “debt collector”, and redesignated cl. (G) as (F).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 

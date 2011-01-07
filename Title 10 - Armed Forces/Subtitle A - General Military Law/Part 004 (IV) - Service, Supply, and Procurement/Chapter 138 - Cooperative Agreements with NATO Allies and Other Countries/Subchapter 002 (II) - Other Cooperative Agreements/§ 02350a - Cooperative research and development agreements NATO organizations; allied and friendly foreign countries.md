@@ -62,7 +62,7 @@ Side-by-Side Testing.—(1) It is the sense of Congress—
 
 (2) The Secretary of Defense may acquire equipment, munitions, and technologies of the type described in paragraph (1) for the purpose of conducting the testing described in that paragraph.
 
-(3) The Director of Defense Research and Engineering shall notify the congressional defense committees of the intent to obligate funds made available to carry out this subsection not less than 7 days before such funds are obligated.
+(3) The Assistant Secretary of Defense for Research and Engineering shall notify the congressional defense committees of the intent to obligate funds made available to carry out this subsection not less than 7 days before such funds are obligated.
 
 (h)
 
@@ -72,7 +72,7 @@ Secretary To Encourage Similar Programs.—The Secretary of Defense shall encour
 
 Definitions.—In this section:
 
-&emsp;(1) The term “cooperative research and development project” means a project involving joint participation by the United States andone or more countries and organizations referred to in subsection (a)(2) under a memorandum of understanding (or other formal agreement) to carry out a joint research and development program—
+&emsp;(1) The term “cooperative research and development project” means a project involvingjoint participation by the United States and one or more countries and organizations referred to in subsection (a)(2) under a memorandum of understanding (or other formal agreement) to carry out a joint research and development program—
 
 &emsp;&emsp;(A) to develop new conventional defense equipment and munitions; or
 
@@ -82,7 +82,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term “NATO organization” means any North Atlantic Treaty Organization subsidiary body referred to in section 2350(2) of this title and any other organization of the North Atlantic Treaty Organization.
 
-(Added Pub. L. 101–189, div. A, title IX, §931(a)(2), Nov. 29, 1989, 103 Stat. 1531; amended Pub. L. 101–510, div. A, title XIII, §1331(4), Nov. 5, 1990, 104 Stat. 1673; Pub. L. 102–190, div. A, title X, §1053, Dec. 5, 1991, 105 Stat. 1471; Pub. L. 102–484, div. A, title VIII, §843(b)(1), Oct. 23, 1992, 106 Stat. 2469; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title XIII, §1301, Oct. 5, 1994, 108 Stat. 2888; Pub. L. 104–106, div. A, title XV, §1502(a)(17), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title IX, §911(a)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 717, 774; Pub. L. 107–107, div. A, title X, §1048(b)(2), title XII, §1212(a)–(e)(1), Dec. 28, 2001, 115 Stat. 1225, 1248–1250; Pub. L. 107–314, div. A, title X, §§1041(a)(9), 1062(f)(2), Dec. 2, 2002, 116 Stat. 2645, 2651; Pub. L. 108–136, div. A, title X, §1031(a)(17), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 110–181, div. A, title II, §237, title XII, §1251, Jan. 28, 2008, 122 Stat. 48, 401.)
+(Added Pub. L. 101–189, div. A, title IX, §931(a)(2), Nov. 29, 1989, 103 Stat. 1531; amended Pub. L. 101–510, div. A, title XIII, §1331(4), Nov. 5, 1990, 104 Stat. 1673; Pub. L. 102–190, div. A, title X, §1053, Dec. 5, 1991, 105 Stat. 1471; Pub. L. 102–484, div. A, title VIII, §843(b)(1), Oct. 23, 1992, 106 Stat. 2469; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title XIII, §1301, Oct. 5, 1994, 108 Stat. 2888; Pub. L. 104–106, div. A, title XV, §1502(a)(17), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title IX, §911(a)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 717, 774; Pub. L. 107–107, div. A, title X, §1048(b)(2), title XII, §1212(a)–(e)(1), Dec. 28, 2001, 115 Stat. 1225, 1248–1250; Pub. L. 107–314, div. A, title X, §§1041(a)(9), 1062(f)(2), Dec. 2, 2002, 116 Stat. 2645, 2651; Pub. L. 108–136, div. A, title X, §1031(a)(17), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 110–181, div. A, title II, §237, title XII, §1251, Jan. 28, 2008, 122 Stat. 48, 401; Pub. L. 111–383, div. A, title IX, §901(j)(4), Jan. 7, 2011, 124 Stat. 4324.)
 
 #### Prior Provisions
 
@@ -92,15 +92,17 @@ Provisions relating to major non-NATO allies were contained in section 2767a of 
 
 #### Amendments
 
-2008—Subsec. (e)(1). Pub. L. 110–181, §1251(1), struck out subpar. (A) designation before “In order to ensure”, substituted “a cooperative opportunities document before the first milestone or decision point” for “an arms cooperation opportunities document”, and struck out subpar. (B) which read as follows: “The Under Secretary shall also prepare an arms cooperation opportunities document for review of each new project for which a document known as a Mission Need Statement is prepared.”
+<b>2011</b>—Subsec. (g)(3). Pub. L. 111–383 substituted “Assistant Secretary of Defense for Research and Engineering” for “Director of Defense Research and Engineering”.
+
+<b>2008</b>—Subsec. (e)(1). Pub. L. 110–181, §1251(1), struck out subpar. (A) designation before “In order to ensure”, substituted “a cooperative opportunities document before the first milestone or decision point” for “an arms cooperation opportunities document”, and struck out subpar. (B) which read as follows: “The Under Secretary shall also prepare an arms cooperation opportunities document for review of each new project for which a document known as a Mission Need Statement is prepared.”
 
 Subsec. (e)(2). Pub. L. 110–181, §1251(2), substituted “A cooperative opportunities document” for “An arms cooperation opportunities document” in introductory provisions.
 
 Subsec. (g)(3). Pub. L. 110–181, §237, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Deputy Director, Defense Research and Engineering (Test and Evaluation) shall notify the Speaker of the House of Representatives and the Committees on Armed Services and on Appropriations of the Senate of the Deputy Director's intent to obligate funds made available to carry out this subsection not less than 30 days before such funds are obligated.”
 
-2003—Subsec. (f). Pub. L. 108–136 struck out subsec. (f) which required that, not later than Mar. 1 of each year, the Under Secretary of Defense for Acquisition, Technology, and Logistics was to submit to the Speaker of the House and the Committees on Armed Services and Appropriations of the Senate a report on cooperative research and development projects under this section, and that, not later than Jan. 1 of each year, the Secretary of Defense was to submit to the Committees on Armed Services and Foreign Relations of the Senate and Committees on Armed Services and International Relations of the House a report specifying the countries eligible to participate in a cooperative project agreement under this section and the criteria used to determine the eligibility of such countries.
+<b>2003</b>—Subsec. (f). Pub. L. 108–136 struck out subsec. (f) which required that, not later than Mar. 1 of each year, the Under Secretary of Defense for Acquisition, Technology, and Logistics was to submit to the Speaker of the House and the Committees on Armed Services and Appropriations of the Senate a report on cooperative research and development projects under this section, and that, not later than Jan. 1 of each year, the Secretary of Defense was to submit to the Committees on Armed Services and Foreign Relations of the Senate and Committees on Armed Services and International Relations of the House a report specifying the countries eligible to participate in a cooperative project agreement under this section and the criteria used to determine the eligibility of such countries.
 
-2002—Subsec. (g)(1)(A). Pub. L. 107–314, §1062(f)(2), amended directory language of Pub. L. 107–107, §1212(a)(5). See 2001 Amendment note below.
+<b>2002</b>—Subsec. (g)(1)(A). Pub. L. 107–314, §1062(f)(2), amended directory language of Pub. L. 107–107, §1212(a)(5). See 2001 Amendment note below.
 
 Subsec. (g)(4). Pub. L. 107–314, §1041(a)(9), struck out par. (4) which read as follows: “The Secretary of Defense shall submit to Congress each year, not later than March 1, a report containing information on—
 
@@ -112,7 +114,7 @@ Subsec. (g)(4). Pub. L. 107–314, §1041(a)(9), struck out par. (4) which read 
 
 Subsec. (g)(4)(A). Pub. L. 107–314, §1062(f)(2), amended directory language of Pub. L. 107–107, §1212(a)(5). See 2001 Amendment note below.
 
-2001—Pub. L. 107–107, §1212(e)(1), substituted “Cooperative research and development agreements: NATO organizations; allied and friendly foreign countries” for “Cooperative research and development projects: allied countries” in section catchline.
+<b>2001</b>—Pub. L. 107–107, §1212(e)(1), substituted “Cooperative research and development agreements: NATO organizations; allied and friendly foreign countries” for “Cooperative research and development projects: allied countries” in section catchline.
 
 Subsec. (a)(1). Pub. L. 107–107, §1212(a)(1)(A), (B), designated existing provisions of subsec. (a) as par. (1) and substituted “countries or organizations referred to in paragraph (2)” for “major allies of the United States or NATO organizations”.
 
@@ -132,7 +134,7 @@ Subsec. (e)(1)(A). Pub. L. 107–107, §1048(b)(2), substituted “Under Secreta
 
 Subsec. (e)(2)(A). Pub. L. 107–107, §1212(a)(4)(A), substituted “any country or organization referred to in subsection (a)(2)” for “one or more of the major allies of the United States”.
 
-Subsec. (e)(2)(B). Pub. L. 107–107, §§1048(b)(2), 1212(a)(4)(B), substituted “countries and organizationsreferred to in subsection (a)(2)” for “major allies of the United States or NATO organizations” and “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+Subsec. (e)(2)(B). Pub. L. 107–107, §§1048(b)(2), 1212(a)(4)(B), substituted “countries and organizations referred to in subsection (a)(2)” for “major allies of the United States or NATO organizations” and “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
 Subsec. (e)(2)(C). Pub. L. 107–107, §1212(a)(4)(C), substituted “countries and organizations referred to in subsection (a)(2)” for “major allies of the United States”.
 
@@ -158,27 +160,31 @@ Subsec. (i)(2) to (4). Pub. L. 107–107, §1212(a)(7)(B), (C), redesignated par
 
 &emsp;“(B) a major non-NATO ally.”
 
-1999—Subsec. (b)(2). Pub. L. 106–65, §911(a)(1), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+<b>1999</b>—Subsec. (b)(2). Pub. L. 106–65, §911(a)(1), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
 Subsec. (f)(2). Pub. L. 106–65, §1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-1996—Subsec. (f)(2). Pub. L. 104–106 substituted “submit to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations of the House of Representatives” for “submit to the Committees on Armed Services and Foreign Relations of the Senate and to the Committees on Armed Services and Foreign Affairs of the House of Representatives”.
+<b>1996</b>—Subsec. (f)(2). Pub. L. 104–106 substituted “submit to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations of the House of Representatives” for “submit to the Committees on Armed Services and Foreign Relations of the Senate and to the Committees on Armed Services and Foreign Affairs of the House of Representatives”.
 
-1994—Subsecs. (a), (e)(2)(A) to (D), (i)(1). Pub. L. 103–337, §1301(a), inserted “or NATO organizations” after “major allies of the United States”.
+<b>1994</b>—Subsecs. (a), (e)(2)(A) to (D), (i)(1). Pub. L. 103–337, §1301(a), inserted “or NATO organizations” after “major allies of the United States”.
 
 Subsec. (i)(4). Pub. L. 103–337, §1301(b), added par. (4).
 
-1993—Subsecs. (b)(2), (e)(1)(A), (2)(B), (f)(1). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
+<b>1993</b>—Subsecs. (b)(2), (e)(1)(A), (2)(B), (f)(1). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
 
-1992—Subsec. (c). Pub. L. 102–484 inserted “(including the costs of claims)” after “the project”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–484 inserted “(including the costs of claims)” after “the project”.
 
-1991—Subsec. (g)(1)(A), (4)(A). Pub. L. 102–190 inserted “and other friendly foreign countries” after “major allies of the United States”.
+<b>1991</b>—Subsec. (g)(1)(A), (4)(A). Pub. L. 102–190 inserted “and other friendly foreign countries” after “major allies of the United States”.
 
-1990—Subsec. (g)(4). Pub. L. 101–510 amended introductory provisions generally, substituting “submit to Congress each year, not later than March 1, a report containing” for “include in the annual report to Congress required by section 2457(d) of this title”.
+<b>1990</b>—Subsec. (g)(4). Pub. L. 101–510 amended introductory provisions generally, substituting “submit to Congress each year, not later than March 1, a report containing” for “include in the annual report to Congress required by section 2457(d) of this title”.
 
 #### Change of Name
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as a note under section 131 of this title.
 
 #### Effective Date of 2002 Amendment
 

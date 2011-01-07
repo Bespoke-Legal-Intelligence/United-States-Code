@@ -2,7 +2,7 @@
 
 (a)
 
-Notification of Receipt and Related Matters.—The clerk or the person designatedunder section 604(a)(18) of title 28 shall notify the Attorney General of each receipt of a payment with respect to which a certification is made under subsection (b), together with other appropriate information relating to such payment. The notification shall be provided—
+Notification of Receipt and Related Matters.—The clerk or the person designated under section 604(a)(18) of title 28 shall notifythe Attorney General of each receipt of a payment with respect to which a certification is made under subsection (b), together with other appropriate information relating to such payment. The notification shall be provided—
 
 &emsp;(1) in such manner as may be agreed upon by the Attorney General and the Director of the Administrative Office of the United States Courts; and
 
@@ -94,11 +94,11 @@ For a prior section 3612, applicable to offenses committed prior to Nov. 1, 1987
 
 #### Amendments
 
-2002—Subsec. (f)(2)(B). Pub. L. 107–273 substituted “preceding the first day” for “preceding. the first day”.
+<b>2002</b>—Subsec. (f)(2)(B). Pub. L. 107–273 substituted “preceding the first day” for “preceding. the first day”.
 
-2000—Subsec. (f)(2)(B). Pub. L. 106–554 substituted “the weekly average 1-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the calendar week preceding.” for “the coupon issue yield equivalent (as determined by the Secretary of the Treasury) of the average accepted auction price for the last auction of fifty-two week United States Treasury bills settled before”.
+<b>2000</b>—Subsec. (f)(2)(B). Pub. L. 106–554 substituted “the weekly average 1-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the calendar week preceding.” for “the coupon issue yield equivalent (as determined by the Secretary of the Treasury) of the average accepted auction price for the last auction of fifty-two week United States Treasury bills settled before”.
 
-1996—Pub. L. 104–132, §207(c)(2)(A), substituted “Collection of unpaid fine or restitution” for “Collection of an unpaid fine” in section catchline.
+<b>1996</b>—Pub. L. 104–132, §207(c)(2)(A), substituted “Collection of unpaid fine or restitution” for “Collection of an unpaid fine” in section catchline.
 
 Subsec. (b)(1). Pub. L. 104–132, §207(c)(2)(B)(i), inserted “or restitution order” after “fine” in introductory provisions.
 
@@ -132,15 +132,15 @@ Subsec. (g). Pub. L. 104–132, §207(c)(2)(G), inserted “or restitution” af
 
 Subsec. (i). Pub. L. 104–132, §207(c)(2)(H), inserted “and restitution” after “fines”.
 
-1990—Subsec. (a). Pub. L. 101–647 substituted “604(a)(18)” for “604(a)(17)” wherever appearing.
+<b>1990</b>—Subsec. (a). Pub. L. 101–647 substituted “604(a)(18)” for “604(a)(17)” wherever appearing.
 
-1988—Subsec. (d). Pub. L. 100–690, §7082(d), struck out “, by certified mail,” after “fine is delinquent”.
+<b>1988</b>—Subsec. (d). Pub. L. 100–690, §7082(d), struck out “, by certified mail,” after “fine is delinquent”.
 
 Subsec. (e). Pub. L. 100–690, §7082(d), struck out “, by certified mail,” after “the person defaulting”.
 
 Subsec. (h). Pub. L. 100–690, §7082(c), inserted “or any interest or penalty relating to a fine imposed under any prior law” after “under this section”.
 
-1987—Subsec. (a). Pub. L. 100–185, §11(a), substituted “Notification of receipt and related matters” for “Disposition of payment” in heading and amended text generally. Prior to amendment, text read as follows: “The clerk shall forward each fine payment to the United States Treasury and shall notify the Attorney General of its receipt within ten working days.”
+<b>1987</b>—Subsec. (a). Pub. L. 100–185, §11(a), substituted “Notification of receipt and related matters” for “Disposition of payment” in heading and amended text generally. Prior to amendment, text read as follows: “The clerk shall forward each fine payment to the United States Treasury and shall notify the Attorney General of its receipt within ten working days.”
 
 Subsec. (b). Pub. L. 100–185, §11(b), substituted “Information to be included in judgment; judgment to be transmitted to Attorney General” for “Certification of imposition” in heading and amended text generally. Prior to amendment, text read as follows: “If a fine exceeding $100 is imposed, modified, or remitted, the sentencing court shall incorporate in the order imposing, remitting, or modifying such fine, and promptly certify to the Attorney General—
 

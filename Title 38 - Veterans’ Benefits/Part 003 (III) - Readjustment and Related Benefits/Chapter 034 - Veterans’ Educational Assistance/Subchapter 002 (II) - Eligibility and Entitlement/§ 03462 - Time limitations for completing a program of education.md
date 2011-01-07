@@ -16,7 +16,7 @@ Correction of Discharge.—In the case of any eligible veteran who has been prev
 
 (c)
 
-Savings Clause.—In the case of any eligible veteran who was discharged or released from active duty before June 1, 1966, the 10-year delimiting period shall run from such date, if it is later than the date which otherwise would be applicable. In the case of any eligible veteran who was discharged or released from active duty before August 31, 1967, and who pursues a course offarm cooperative training, apprenticeship or other training on the job, the 10-year delimiting period shall run from August 31, 1967, if it is later than the date which would otherwise be applicable.
+Savings Clause.—In the case of any eligible veteran who was discharged or released from active duty before June 1, 1966, the 10-year delimiting period shall run from such date, if it is later than the date which otherwise would be applicable. In the case of any eligible veteran who was discharged or released from active duty before August 31, 1967, and who pursues a course of farm cooperative training, apprenticeship or other training on the job, the 10-year delimiting period shall run from August 31, 1967, if it is later than the date which would otherwise be applicable.
 
 (d)
 
@@ -34,15 +34,15 @@ Provisions similar to those comprising subsecs. (a) and (b) of this section were
 
 #### Amendments
 
-2006—Subsecs. (a) to (c). Pub. L. 109–233, §503(8)(A), revised style of headings.
+<b>2006</b>—Subsecs. (a) to (c). Pub. L. 109–233, §503(8)(A), revised style of headings.
 
 Subsecs. (d), (e). Pub. L. 109–233, §503(8)(C), inserted headings.
 
-2003—Subsec. (a)(2). Pub. L. 108–183 struck out par. (2) which related to loans under subchapter III of chapter 36 of this title.
+<b>2003</b>—Subsec. (a)(2). Pub. L. 108–183 struck out par. (2) which related to loans under subchapter III of chapter 36 of this title.
 
-2001—Subsec. (a)(3). Pub. L. 107–14 struck out par. (3) which permitted eligible Vietnam-era veterans to use unused entitlements under section 3461 for enumerated educational purposes and directed that veterans be provided with employment counseling.
+<b>2001</b>—Subsec. (a)(3). Pub. L. 107–14 struck out par. (3) which permitted eligible Vietnam-era veterans to use unused entitlements under section 3461 for enumerated educational purposes and directed that veterans be provided with employment counseling.
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1662 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1662 of this title as this section.
 
 Subsec. (a)(2)(A), (3)(A). Pub. L. 102–83, §5(c)(1), substituted “3461” for “1661”.
 
@@ -50,7 +50,7 @@ Subsec. (a)(3)(C)(ii). Pub. L. 102–83, §5(c)(1), substituted “3491(b)(2)”
 
 Subsec. (a)(4). Pub. L. 102–83, §5(c)(1), substituted “3011(a)(1)(A)(ii)(III)” for “1411(a)(1)(A)(ii)(III)”.
 
-1989—Subsec. (a)(1). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
 Pub. L. 101–237, §420(a)(3)(B), substituted “Subject to paragraph (4) of this subsection, no” for “No”.
 
@@ -62,9 +62,9 @@ Subsec. (b). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for 
 
 Subsec. (d). Pub. L. 101–237, §423(b)(1)(B), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1983—Subsec. (a)(1)(C). Pub. L. 98–160 substituted “October 1, 1980” for “the effective date of the Veterans’ Rehabilitation and Education Amendments of 1980”.
+<b>1983</b>—Subsec. (a)(1)(C). Pub. L. 98–160 substituted “October 1, 1980” for “the effective date of the Veterans’ Rehabilitation and Education Amendments of 1980”.
 
-1982—Subsec. (a)(2)(B). Pub. L. 97–295, §4(39)(A), substituted “November 23, 1977,” for “the date of enactment of this paragraph”.
+<b>1982</b>—Subsec. (a)(2)(B). Pub. L. 97–295, §4(39)(A), substituted “November 23, 1977,” for “the date of enactment of this paragraph”.
 
 Subsec. (a)(3)(C)(i). Pub. L. 97–306, §206(a)(1), substituted “shall” for “may” after “Educational assistance”, and substituted “unless the Administrator determines, based on an examination of the veteran's employment and training history, that the veteran is not in need of such a program or course in order to obtain a reasonably stable employment situation consistent with the veteran's abilities and aptitudes” for “only if the veteran has been determined by the Administrator to be in need of such a program or course in order to achieve a suitable occupational or vocational objective”.
 
@@ -72,21 +72,21 @@ Subsec. (a)(3)(D). Pub. L. 97–306, §206(a)(2), substituted “December 31, 19
 
 Subsec. (c). Pub. L. 97–295, §4(39)(B), substituted “June 1, 1966” for “the date for which an educational assistance allowance is first payable under this chapter”, “August 31, 1967,” for “the date of enactment of this sentence” after “active duty before”, and “August 31, 1967” for “the date of enactment of this sentence” after “shall run from”.
 
-1981—Subsec. (a)(3). Pub. L. 97–72 added par. (3).
+<b>1981</b>—Subsec. (a)(3). Pub. L. 97–72 added par. (3).
 
 Subsec. (c). Pub. L. 97–35 struck out provisions relating to applicability to flight training.
 
-1980—Subsec. (a)(1). Pub. L. 96–466 inserted “made within one year after (A) the last date of the delimiting period otherwise applicable under this section, (B) the termination of the period of such mental or physical disability, or (C) the effective date of the Veterans’ Rehabilitation and Education Amendments of 1980, whichever is the latest” after “application”, inserted “so” after “that such veteran was”; and inserted provision relating to the running of the delimiting period when an extension of the applicable delimiting period is granted a veteran.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–466 inserted “made within one year after (A) the last date of the delimiting period otherwise applicable under this section, (B) the termination of the period of such mental or physical disability, or (C) the effective date of the Veterans’ Rehabilitation and Education Amendments of 1980, whichever is the latest” after “application”, inserted “so” after “that such veteran was”; and inserted provision relating to the running of the delimiting period when an extension of the applicable delimiting period is granted a veteran.
 
-1977—Subsec. (a). Pub. L. 95–202 designated existing provisions as par. (1), added par. (2), and inserted “except that, in the case of any eligible veteran who was prevented from initiating or completing such veteran's chosen program of education within such time period because of a physical or mental disability which was not the result of such veteran's own willful misconduct, such veteran shall, upon application, be granted an extension of the applicable delimiting period for such length of time as the Administrator determines, from the evidence, that such veteran was prevented from initiating or completing such program of education” after “active duty after January 31, 1955” in par. (1) as so redesignated.
+<b>1977</b>—Subsec. (a). Pub. L. 95–202 designated existing provisions as par. (1), added par. (2), and inserted “except that, in the case of any eligible veteran who was prevented from initiating or completing such veteran's chosen program of education within such time period because of a physical or mental disability which was not the result of such veteran's own willful misconduct, such veteran shall, upon application, be granted an extension of the applicable delimiting period for such length of time as the Administrator determines, from the evidence, that such veteran was prevented from initiating or completing such program of education” after “active duty after January 31, 1955” in par. (1) as so redesignated.
 
-1976—Subsec. (a). Pub. L. 94–502, §211(3), substituted “the veteran's” for “his”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–502, §211(3), substituted “the veteran's” for “his”.
 
 Subsecs. (b), (d). Pub. L. 94–502, §211(3), substituted “the veteran's” for “his” and “the veteran” for “he”, wherever appearing.
 
 Subsec. (e). Pub. L. 94–502, §403(b), added subsec. (e).
 
-1974—Subsec. (a). Pub. L. 93–337, §1(1), substituted “10” for “eight”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–337, §1(1), substituted “10” for “eight”.
 
 Subsec. (b). Pub. L. 93–337, §1(2), substituted “10-year” for “8-year”.
 
@@ -94,7 +94,7 @@ Subsec. (c). Pub. L. 93–337, §1(3), substituted “10-year” for “8-year�
 
 Subsec. (d). Pub. L. 93–337, §1(4), added subsec. (d).
 
-1967—Subsec. (c). Pub. L. 90–77 inserted second sentence respecting commencement of the delimiting period in the case of an eligible veteran discharged from active duty and pursuing training on the job or flight training.
+<b>1967</b>—Subsec. (c). Pub. L. 90–77 inserted second sentence respecting commencement of the delimiting period in the case of an eligible veteran discharged from active duty and pursuing training on the job or flight training.
 
 #### Effective Date of 2003 Amendment
 

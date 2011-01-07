@@ -30,7 +30,7 @@ A prior section 424, added Pub. L. 100–178, title VI, §603(a), Dec. 2, 1987, 
 
 #### Amendments
 
-2003—Pub. L. 108–136, §921(d)(5)(B)(i), substituted “Disclosure of organizational and personnel information: exemption for specified intelligence agencies” for “Disclosure of organizational and personnel information: exemption for Defense Intelligence Agency, National Reconnaissance Office, and National Imagery and Mapping Agency” in section catchline.
+<b>2003</b>—Pub. L. 108–136, §921(d)(5)(B)(i), substituted “Disclosure of organizational and personnel information: exemption for specified intelligence agencies” for “Disclosure of organizational and personnel information: exemption for Defense Intelligence Agency, National Reconnaissance Office, and National Imagery and Mapping Agency” in section catchline.
 
 Subsec. (b)(3). Pub. L. 108–136, §921(d)(5)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
@@ -48,7 +48,7 @@ In General.—Notwithstanding section 552a(e)(3) of title 5, United States Code,
 
 “(b)
 
-Records.—Records concerning such contacts shall be maintained by the Department of Defense and made available upon request to the appropriate committees of the Congress in accordance with applicable security procedures. Such records shall include for each such contact an explanation of why notice of government affiliation could not reasonably be provided, the nature of the information obtained from the United States person as a result of the contact, and whether additional contacts resulted with the person concerned.
+Records.—Records concerning such contacts shall be maintained by the Department of Defense and made available upon request to the appropriate committees of the Congress in accordance with applicablesecurity procedures. Such records shall include for each such contact an explanation of why notice of government affiliation could not reasonably be provided, the nature of the information obtained from the United States person as a result of the contact, and whether additional contacts resulted with the person concerned.
 
 “(c)
 

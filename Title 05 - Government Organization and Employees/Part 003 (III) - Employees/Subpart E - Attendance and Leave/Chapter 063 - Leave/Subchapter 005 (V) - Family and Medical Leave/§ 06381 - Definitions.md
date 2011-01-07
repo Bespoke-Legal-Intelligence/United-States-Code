@@ -10,7 +10,7 @@ For the purpose of this subchapter—
 
 &emsp;(2) the term “health care provider” means—
 
-&emsp;&emsp;(A) a doctor of medicine or osteopathy who is authorized to practice medicine or surgery (as appropriate) by the State in which the doctor practices; and
+&emsp;&emsp;(A) a doctor of medicine or osteopathy who is authorized to practice medicine or surgery\(as appropriate) by the State in which the doctor practices; and
 
 &emsp;&emsp;(B) any other person determined by the Director of the Office of Personnel Management to be capable of providing health care services;
 
@@ -76,7 +76,7 @@ Pars. (11), (12). Pub. L. 111–84, §565(b)(3), added pars. (11) and (12) and s
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–1 effective 1 year after transmission to Congress of the study under section 1371 of Title 2, The Congress, see section 1312(e)(2) of Title 2. The study required under section 1371 of Title 2, dated Dec. 31, 1996, was transmitted to Congress by the Board of Directors of the Office of Compliance on Dec. 30, 1996.
+Amendment by Pub. L. 104–1 effective 1 year after transmission to Congress of the study under section1371 of Title 2, The Congress, see section 1312(e)(2) of Title 2. The study required under section 1371 of Title 2, dated Dec. 31, 1996, was transmitted to Congress by the Board of Directors of the Office of Compliance on Dec. 30, 1996.
 
 #### Effective Date
 

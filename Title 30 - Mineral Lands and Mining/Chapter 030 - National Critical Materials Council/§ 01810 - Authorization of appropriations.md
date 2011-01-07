@@ -6,5 +6,5 @@ There are hereby authorized to be appropriated to carry out the provisions of th
 
 #### Amendments
 
-1988—Pub. L. 100–418 substituted “1992” for “1990”.
+<b>1988</b>—Pub. L. 100–418 substituted “1992” for “1990”.
 

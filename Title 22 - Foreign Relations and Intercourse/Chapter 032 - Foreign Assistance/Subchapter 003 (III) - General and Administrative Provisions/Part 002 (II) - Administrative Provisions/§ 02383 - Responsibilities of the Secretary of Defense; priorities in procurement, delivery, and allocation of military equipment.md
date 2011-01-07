@@ -24,7 +24,7 @@ References to subchapter II of this chapter are deemed to exclude parts IV (§23
 
 #### Amendments
 
-1976—Subsec. (a)(4). Pub. L. 94–329, §106(b)(3)(A), inserted “and related civilian” after “military”.
+<b>1976</b>—Subsec. (a)(4). Pub. L. 94–329, §106(b)(3)(A), inserted “and related civilian” after “military”.
 
 Subsec. (a)(6). Pub. L. 94–329, §106(b)(3)(B), inserted “education and training” after “assistance”.
 

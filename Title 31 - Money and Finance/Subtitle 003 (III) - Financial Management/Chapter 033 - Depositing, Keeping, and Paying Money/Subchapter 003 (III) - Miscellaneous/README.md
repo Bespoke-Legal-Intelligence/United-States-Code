@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—MISCELLANEOUS
 
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “institutions”.</i>
-
 
 ---
 

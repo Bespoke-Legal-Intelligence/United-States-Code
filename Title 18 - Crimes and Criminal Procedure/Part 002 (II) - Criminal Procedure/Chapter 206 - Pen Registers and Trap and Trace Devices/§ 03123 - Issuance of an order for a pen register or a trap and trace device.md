@@ -50,7 +50,7 @@ Time Period and Extensions.—(1) An order issued under this section shall autho
 
 (d)
 
-Nondisclosure of Existence of Pen Register or a Trap and Trace Device.—An order authorizing or approving the installation anduse of a pen register or a trap and trace device shall direct that—
+Nondisclosure of Existence of Pen Register or a Trap and Trace Device.—An order authorizing or approving the installation and use of a pen register or a trap and trace device shall direct that—
 
 &emsp;(1) the order be sealed until otherwise ordered by the court; and
 
@@ -60,7 +60,7 @@ Nondisclosure of Existence of Pen Register or a Trap and Trace Device.—An orde
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–56, §216(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Upon an application made under section 3122 of this title, the court shall enter an ex parte order authorizing the installation and use of a pen register or a trap and trace device within the jurisdiction of the court if the court finds that the attorney for the Government or the State law enforcement or investigative officer has certified to the court that the information likely to be obtained by such installation and use is relevant to an ongoing criminal investigation.”
+<b>2001</b>—Subsec. (a). Pub. L. 107–56, §216(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Upon an application made under section 3122 of this title, the court shall enter an ex parte order authorizing the installation and use of a pen register or a trap and trace device within the jurisdiction of the court if the court finds that the attorney for the Government or the State law enforcement or investigative officer has certified to the court that the information likely to be obtained by such installation and use is relevant to an ongoing criminal investigation.”
 
 Subsec. (b)(1)(A). Pub. L. 107–56, §216(b)(2)(A), inserted “or other facility” after “telephone line” and “or applied” before semicolon at end.
 

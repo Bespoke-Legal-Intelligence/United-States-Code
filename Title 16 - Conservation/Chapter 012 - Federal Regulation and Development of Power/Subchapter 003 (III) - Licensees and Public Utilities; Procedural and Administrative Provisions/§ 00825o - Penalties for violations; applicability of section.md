@@ -12,13 +12,13 @@ Any person who willfully and knowingly violates any rule, regulation, restrictio
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–58, §1284(d)(1), substituted “$1,000,000” for “$5,000” and “5 years” for “two years”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–58, §1284(d)(1), substituted “$1,000,000” for “$5,000” and “5 years” for “two years”.
 
 Subsec. (b). Pub. L. 109–58, §1284(d)(2), substituted “$25,000” for “$500”.
 
 Subsec. (c). Pub. L. 109–58, §1284(d)(3), struck out subsec. (c) which read as follows: “This subsection shall not apply in the case of any provision of section 824j, 824k, 824<i>l</i>, or 824m of this title or any rule or order issued under any such provision.”
 
-1992—Subsec. (c). Pub. L. 102–486 added subsec. (c).
+<b>1992</b>—Subsec. (c). Pub. L. 102–486 added subsec. (c).
 
 #### Change of Name
 

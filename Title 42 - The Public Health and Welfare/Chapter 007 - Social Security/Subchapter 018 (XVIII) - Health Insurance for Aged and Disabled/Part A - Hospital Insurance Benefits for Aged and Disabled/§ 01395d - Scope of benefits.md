@@ -70,7 +70,7 @@ For purposes of subsections (b) and (c) of this section, inpatient hospital serv
 
 #### (f) Coverage of extended care services without regard to three-day prior hospitalization requirement
 
-(1) The Secretary shall provide for coverage, under clause (B) of subsection (a)(2) of this section, of extended care services which are not post-hospital extended care services at such time and for so long as the Secretary determines, and under such terms and conditions (described in paragraph (2)) as the Secretary finds appropriate, that the inclusion of such services will not result in any increase in the total of payments made under this subchapter and will not alter the acute care nature of the benefit described in subsection (a)(2) of this section.
+(1) The Secretary shall provide for coverage, under clause (B) of subsection (a)(2) of this section, of extended care services which are notpost-hospital extended care services at such time and for so long as the Secretary determines, and under such terms and conditions (described in paragraph (2)) as the Secretary finds appropriate, that the inclusion of such services will not result in any increase in the total of payments made under this subchapter and will not alter the acute care nature of the benefit described in subsection (a)(2) of this section.
 
 (2) The Secretary may provide—
 
@@ -92,13 +92,13 @@ Part B of this subchapter, referred to in subsec. (a)(3), is classified to secti
 
 #### Amendments
 
-2003—Subsec. (a)(3). Pub. L. 108–173, §736(c)(1), substituted “in the case of individuals not” for “for individuals not” and “in the case of individuals so” for “for individuals so”.
+<b>2003</b>—Subsec. (a)(3). Pub. L. 108–173, §736(c)(1), substituted “in the case of individuals not” for “for individuals not” and “in the case of individuals so” for “for individuals so”.
 
 Subsec. (a)(5). Pub. L. 108–173, §512(a), added par. (5).
 
-1999—Subsec. (b). Pub. L. 106–113 inserted “during” after “100 visits” in concluding provisions.
+<b>1999</b>—Subsec. (b). Pub. L. 106–113 inserted “during” after “100 visits” in concluding provisions.
 
-1997—Subsec. (a)(1). Pub. L. 105–33, §4201(c)(1), substituted “critical access” for “rural primary care”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–33, §4201(c)(1), substituted “critical access” for “rural primary care”.
 
 Subsec. (a)(3). Pub. L. 105–33, §4611(a)(1), substituted “for individuals not enrolled in part B of this subchapter, home health services, and for individuals so enrolled, post-institutional home health services furnished during a home health spell of illness for up to 100 visits during such spell of illness” for “home health services”.
 
@@ -110,21 +110,21 @@ Subsec. (d)(1). Pub. L. 105–33, §4443(a), substituted “and an unlimited num
 
 Subsec. (d)(2)(B). Pub. L. 105–33, §4443(b)(1), substituted “90-day period or a subsequent 60-day period” for “90- or 30-day period or a subsequent extension period”.
 
-1994—Subsec. (a)(1). Pub. L. 103–432 substituted “inpatient hospital services or inpatient rural primary care hospital services” for “inpatient hospital services” before “for up to 150 days” and “such services” for “inpatient hospital services” before “in excess of 90” and struck out “and inpatient rural primary care hospital services” after “such payment made)”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–432 substituted “inpatient hospital services or inpatient rural primary care hospital services” for “inpatient hospital services” before “for up to 150 days” and “such services” for “inpatient hospital services” before “in excess of 90” and struck out “and inpatient rural primary care hospital services” after “such payment made)”.
 
-1990—Subsec. (a)(4). Pub. L. 101–508, §4006(a)(1), substituted “90 days each, a subsequent period of 30 days, and a subsequent extension period” for “90 days each and one subsequent period of 30 days”.
+<b>1990</b>—Subsec. (a)(4). Pub. L. 101–508, §4006(a)(1), substituted “90 days each, a subsequent period of 30 days, and a subsequent extension period” for “90 days each and one subsequent period of 30 days”.
 
 Subsec. (d)(1). Pub. L. 101–508, §4006(a)(2)(A), substituted “90 days each, a subsequent period of 30 days, and a subsequent extension period during the individual's lifetime” for “90 days each and one subsequent period of 30 days during the individual's lifetime”.
 
 Subsec. (d)(2)(B). Pub. L. 101–508, §4006(a)(2)(B), substituted “a 90- or 30-day period or a subsequent extension period” for “a 90- or 30-day period”.
 
-1989—Subsec. (a). Pub. L. 101–234 repealed Pub. L. 100–360, §101(1), and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment note below.
+<b>1989</b>—Subsec. (a). Pub. L. 101–234 repealed Pub. L. 100–360, §101(1), and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment note below.
 
 Subsec. (a)(1). Pub. L. 101–239 inserted “and inpatient rural primary care hospital services” before semicolon at end.
 
 Subsecs. (b) to (d)(1), (2)(B), (e) to (g). Pub. L. 101–234 repealed Pub. L. 100–360, §101(2)–(6), and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment notes below.
 
-1988—Subsec. (a). Pub. L. 100–360, §101(1), struck out former pars. (1) to (4) and added new pars. (1) to (4) which read as follows:
+<b>1988</b>—Subsec. (a). Pub. L. 100–360, §101(1), struck out former pars. (1) to (4) and added new pars. (1) to (4) which read as follows:
 
 “(1) inpatient hospital services;
 
@@ -148,9 +148,9 @@ Subsec. (f). Pub. L. 100–360, §101(6), struck out subsec. (f) which provided 
 
 Subsec. (g). Pub. L. 100–360, §101(6), struck out subsec. (g) which cross-referenced section 1395x of this title for definitions of “spell of illness” and other terms used in this part.
 
-1983—Subsec. (d)(2)(A). Pub. L. 97–448 substituted “or to services” for “or to other than services” after “(if not an employee of the hospice program)”.
+<b>1983</b>—Subsec. (d)(2)(A). Pub. L. 97–448 substituted “or to services” for “or to other than services” after “(if not an employee of the hospice program)”.
 
-1982—Subsec. (a)(2). Pub. L. 97–248, §123(a), redesignated existing provisions as subpar. (A) and added subpar. (B).
+<b>1982</b>—Subsec. (a)(2). Pub. L. 97–248, §123(a), redesignated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (a)(4). Pub. L. 97–248, §122(b)(1), added par. (4).
 
@@ -158,9 +158,9 @@ Subsec. (d). Pub. L. 97–248, §122(b)(2), added subsec. (d).
 
 Subsecs. (f), (g). Pub. L. 97–248, §123(b), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1981—Subsec. (a). Pub. L. 97–35 struck out par. (4) which related to alcohol detoxification facility services.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 struck out par. (4) which related to alcohol detoxification facility services.
 
-1980—Subsec. (a)(3). Pub. L. 96–499, §930(b), substituted “home health services” for “post-hospital home health services for up to 100 visits (during the one-year period described in section 1395x(n) of this title) after the beginning of one spell of illness and before the beginning of the next”.
+<b>1980</b>—Subsec. (a)(3). Pub. L. 96–499, §930(b), substituted “home health services” for “post-hospital home health services for up to 100 visits (during the one-year period described in section 1395x(n) of this title) after the beginning of one spell of illness and before the beginning of the next”.
 
 Subsec. (a)(4). Pub. L. 96–499, §931(a), added par. (4).
 
@@ -168,7 +168,7 @@ Subsec. (d). Pub. L. 96–499, §930(c), struck out subsec. (d) which authorized
 
 Subsec. (e). Pub. L. 96–499, §930(d), substituted “subsections (b) and (c)” for “subsections (b), (c), and (d)” and “and post-hospital extended care services” for “post-hospital extended care services, and post-hospital home health services”.
 
-1968—Subsec. (a). Pub. L. 90–248, §143(b), inserted “or, in the case of payments referred to in section 1395f(d)(2) of this title to him” after “on his behalf” in text preceding par. (1).
+<b>1968</b>—Subsec. (a). Pub. L. 90–248, §143(b), inserted “or, in the case of payments referred to in section 1395f(d)(2) of this title to him” after “on his behalf” in text preceding par. (1).
 
 Subsec. (a)(1). Pub. L. 90–248, §137(a)(1), increased the maximum duration of benefits from 90 to 150 days minus 1 day for each day of inpatient hospital services in excess of 90 received during any preceding spell of illness (if such individual was entitled to have payment for such services made under this part unless he specifies that he does not desire to have such payment made).
 
@@ -226,7 +226,7 @@ In general.—Except as provided in paragraph (2) and subsection (b), the amendm
 
 “(2)
 
-Elimination of post-hospital requirement for extended care services.—The amendments made by this subtitle, insofar as they eliminate the requirement (under section 1812(a)(2) of the Social Security Act \[subsec. (a)(2) of this section\]) that extended care services are only covered under title XVIII of such Act \[this subchapter\] if they are post-hospital extended care services, shall only apply to extended care services furnished pursuant to an admission to a skilled nursing facility occurring on or after January 1, 1989.”
+Elimination of post-hospital requirement for extended care services.—The amendments made bythis subtitle, insofar as they eliminate the requirement (under section 1812(a)(2) of the Social Security Act \[subsec. (a)(2) of this section\]) that extended care services are only covered under title XVIII of such Act \[this subchapter\] if they are post-hospital extended care services, shall only apply to extended care services furnished pursuant to an admission to a skilled nursing facility occurring on or after January 1, 1989.”
 
 #### Effective Date of 1983 Amendment
 
@@ -258,6 +258,46 @@ Section 143(d) of Pub. L. 90–248 provided that: “The provisions made by subs
 
 Section 146(b) of Pub. L. 90–248 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to payment for services furnished after December 31, 1967.”
 
+#### Medicare Hospice Concurrent Care Demonstration Program
+
+Pub. L. 111–148, title III, §3140, Mar. 23, 2010, 124 Stat. 440, provided that:
+
+“(a)
+
+Establishment.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall establish a Medicare Hospice Concurrent Care demonstration program at participating hospice programs under which Medicare beneficiaries are furnished, during the same period, hospice care and any other items or services covered under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) from funds otherwise paid under such title to such hospice programs.
+
+&emsp;“(2)
+
+Duration.—The demonstration program under this section shall be conducted for a 3-year period.
+
+&emsp;“(3)
+
+Sites.—The Secretary shall select not more than 15 hospice programs at which the demonstration program under this section shall be conducted. Such hospice programs shall be located in urban and rural areas.
+
+“(b)
+
+Independent Evaluation and Reports.—
+
+&emsp;“(1)
+
+Independent evaluation.—The Secretary shall provide for the conduct of an independent evaluation of the demonstration program under this section. Such independent evaluation shall determine whether the demonstration program has improved patient care, quality of life, and cost-effectiveness for Medicare beneficiaries participating in the demonstration program.
+
+&emsp;“(2)
+
+Reports.—The Secretary shall submit to Congress a report containing the results of the evaluation conducted under paragraph (1), together with such recommendations as the Secretary determines appropriate.
+
+“(c)
+
+Budget Neutrality.—With respect to the 3-year period of the demonstration program under this section, the Secretary shall ensure that the aggregate expenditures under title XVIII \[42 U.S.C. 1395 et seq.\] for such period shall not exceed the aggregate expenditures that would have been expended under such title if the demonstration program under this section had not been implemented.”
+
+#### Protecting Home Health Benefits
+
+Pub. L. 111–148, title III, §3143, Mar. 23, 2010, 124 Stat. 442, provided that: “Nothing in the provisions of, or amendments made by, this Act \[see Short Title note set out under section 18001 of this title\] shall result in the reduction of guaranteed home health benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\].”
+
 #### Rural Hospice Demonstration Project
 
 Pub. L. 108–173, title IV, §409, Dec. 8, 2003, 117 Stat. 2271, provided that:
@@ -288,7 +328,7 @@ Report.—Upon completion of the project, the Secretary shall submit a report to
 
 Pub. L. 108–173, title IX, §953(d), Dec. 8, 2003, 117 Stat. 2428, provided that: “Not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\], the Inspector General of the Department of Health and Human Services shall submit a report to Congress on—
 
-&emsp;“(1) the extent to which hospitals provide notice to medicare beneficiaries in accordance with applicablerequirements before they use the 60 lifetime reserve days described in section 1812(a)(1) of the Social Security Act (42 U.S.C. 1395d(a)(1)); and
+&emsp;“(1) the extent to which hospitals provide notice to medicare beneficiaries in accordance with applicable requirements before they use the 60 lifetime reserve days described in section 1812(a)(1) of the Social Security Act (42 U.S.C. 1395d(a)(1)); and
 
 &emsp;“(2) the appropriateness and feasibility of hospitals providing a notice to such beneficiaries before they completely exhaust such lifetime reserve days.”
 
@@ -320,7 +360,7 @@ Proportion specified.—The proportion specified in this paragraph for—
 
 &emsp;“(B) 1999 is 1/3,
 
-&emsp;“(C) 2000 is 1/2,
+&emsp;“(C) 2000 is ½,
 
 &emsp;“(D) 2001 is 2/3, and
 

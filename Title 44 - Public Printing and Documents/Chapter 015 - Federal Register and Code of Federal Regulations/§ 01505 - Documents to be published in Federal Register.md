@@ -64,13 +64,13 @@ Sec. 2. <i>Routing and approval of drafts</i>. (a) A proposed Executive order or
 
 (b) If the Director of the Office of Management and Budget approves the proposed Executive order or proclamation, he shall transmit it to the Attorney General for his consideration as to both form and legality.
 
-(c) If the proposed Executive order or proclamation is disapproved by the Director of the Office of Management and Budget or by the Attorney General, it shall not thereafter be presented to the President unless it is accompanied by a statement of the reasons for such disapproval.
+(c) If the proposed Executive order or proclamation is disapproved by the Director of the Office of Management and Budget or by the Attorney General, it shallnot thereafter be presented to the President unless it is accompanied by a statement of the reasons for such disapproval.
 
 Sec. 3. <i>Routing and certification of originals and copies</i>. (a) If the order or proclamation is signed by the President, the original and two copies thereof shall be forwarded to the Director of the Office of the Federal Register for publication in the
 
 Federal Register.
 
-(b) The Office of the Federal Register shall cause to be placed upon the copies of all Executive orders andproclamations forwarded as provided in subsection (a) of this section the following notation, to be signed by the Director or by some person authorized by him to sign such notation: “Certified to be a true copy of the original.”
+(b) The Office of the Federal Register shall cause to be placed upon the copies of all Executive orders and proclamations forwarded as provided in subsection (a) of this section the following notation, to be signed by the Director or by some person authorized by him to sign such notation: “Certified to be a true copy of the original.”
 
 Sec. 4. <i>Proclamations calling for the observance of special days or events</i>. Except as may be otherwise provided by law, responsibility for the preparation and presentation of proposed proclamations calling for the observance of special days, or other periods of time, or events shall be assigned by the Director of the Office of Management and Budget to such agencies as he may consider appropriate. Such proposed proclamations shall be submitted to the Director at least sixty days before the date of the specified observance. Notwithstanding the provisions of Section 2, the Director shall transmit any approved commemorative proclamations to the President.
 

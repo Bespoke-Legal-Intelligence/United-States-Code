@@ -36,19 +36,19 @@ The effective date of this chapter, referred to in par. (5), is Oct. 15, 1970.
 
 #### Amendments
 
-2006—Par. (1)(B). Pub. L. 109–177 inserted “section 1960 (relating to illegal money transmitters),” before “sections 2251”.
+<b>2006</b>—Par. (1)(B). Pub. L. 109–177 inserted “section 1960 (relating to illegal money transmitters),” before “sections 2251”.
 
 Pub. L. 109–164 substituted “1581–1592” for “1581–1591”.
 
-2004—Par. (1)(B). Pub. L. 108–458 inserted “sections 175–178 (relating to biological weapons), sections 229–229F (relating to chemical weapons), section 831 (relating to nuclear materials),” before “(C) any act which is indictable under title 29”.
+<b>2004</b>—Par. (1)(B). Pub. L. 108–458 inserted “sections 175–178 (relating to biological weapons), sections 229–229F (relating to chemical weapons), section 831 (relating to nuclear materials),” before “(C) any act which is indictable under title 29”.
 
-2003—Par. (1)(B). Pub. L. 108–193, which directed amendment of par. (1)(A) of this section by substituting “sections 1581–1591 (relating to peonage, slavery, and trafficking in persons).” for “sections 1581–1588 (relating to peonage and slavery)”, was executed by making the substitution in par. (1)(B) to reflect the probable intent of Congress.
+<b>2003</b>—Par. (1)(B). Pub. L. 108–193, which directed amendment of par. (1)(A) of this section by substituting “sections 1581–1591 (relating to peonage, slavery, and trafficking in persons).” for “sections 1581–1588 (relating to peonage and slavery)”, was executed by making the substitution in par. (1)(B) to reflect the probable intent of Congress.
 
-2002—Par. (1)(G). Pub. L. 107–273 made technical amendment to directory language of Pub. L. 107–56. See 2001 Amendment note below.
+<b>2002</b>—Par. (1)(G). Pub. L. 107–273 made technical amendment to directory language of Pub. L. 107–56. See 2001 Amendment note below.
 
-2001—Par. (1)(G). Pub. L. 107–56, as amended by Pub. L. 107–273, which directed addition of cl. (G) before period at end, was executed by making the addition before the semicolon at end to reflect the probable intent of Congress.
+<b>2001</b>—Par. (1)(G). Pub. L. 107–56, as amended by Pub. L. 107–273, which directed addition of cl. (G) before period at end, was executed by making the addition before the semicolon at end to reflect the probable intent of Congress.
 
-1996—Par. (1)(B). Pub. L. 104–294, §604(b)(6), amended directory language of Pub. L. 103–322, §160001(f). See 1994 Amendment note below.
+<b>1996</b>—Par. (1)(B). Pub. L. 104–294, §604(b)(6), amended directory language of Pub. L. 103–322, §160001(f). See 1994 Amendment note below.
 
 Pub. L. 104–294, §601(i)(3), substituted “2260” for “2258”.
 
@@ -56,13 +56,13 @@ Pub. L. 104–208 struck out “if the act indictable under section 1028 was com
 
 Pub. L. 104–153 inserted “, section 2318 (relating to trafficking in counterfeit labels for phonorecords, computer programs or computer program documentation or packaging and copies of motion pictures or other audiovisual works), section 2319 (relating to criminal infringement of a copyright), section 2319A (relating to unauthorized fixation of and trafficking in sound recordings and music videos of live musical performances), section 2320 (relating to trafficking in goods or services bearing counterfeit marks)” after “sections 2314 and 2315 (relating to interstate transportation of stolen property)”.
 
-Pub. L. 104–132, §433(1), (2), inserted “section 1028 (relating to fraud and related activity in connection with identification documents) if the act indictable under section 1028 was committed for the purpose of financial gain,” before “section 1029” and “section 1542 (relating to false statement in application and use of passport) if the act indictable under section 1542 was committed for the purpose of financial gain, section 1543 (relating to forgery or false use of passport) if the act indictable under section 1543 was committed for the purpose of financial gain, section 1544 (relating to misuse of passport) if the act indictable under section 1544 was committed for the purpose of financial gain, section 1546 (relating to fraud and misuse of visas, permits, and other documents) if the act indictable under section 1546 was committed for the purpose of financial gain, sections 1581–1588 (relating to peonage and slavery),” after “section 1513 (relating to retaliating against a witness, victim, or an informant),”.
+Pub. L. 104–132, §433(1), (2), inserted “section 1028 (relating to fraud and related activity in connection with identification documents) if the act indictable under section 1028 was committed for the purpose of financial gain,” before “section 1029” and “section 1542 (relating to false statement in application and use of passport) if the act indictable under section 1542 was committed for the purpose of financial gain, section 1543 (relating to forgery or false use of passport) if the act indictable under section 1543 was committed for the purpose of financial gain, section 1544 (relating to misuse of passport) if the act indictable under section 1544 was committed for the purpose of financial gain, section 1546 (relating to fraud and misuse of visas, permits, and other documents) if the act indictable under section1546 was committed for the purpose of financial gain, sections 1581–1588 (relating to peonage and slavery),” after “section 1513 (relating to retaliating against a witness, victim, or an informant),”.
 
 Par. (1)(D). Pub. L. 104–294, §601(b)(3), substituted “section 157 of this title” for “section 157 of that title”.
 
 Par. (1)(F). Pub. L. 104–132, §433(3), (4), which directed addition of cl. (F) before period at end, was executed by making the addition before the semicolon at end to reflect the probable intent of Congress.
 
-1994—Par. (1)(A). Pub. L. 103–322, §330021(1), substituted “kidnapping” for “kidnaping”.
+<b>1994</b>—Par. (1)(A). Pub. L. 103–322, §330021(1), substituted “kidnapping” for “kidnaping”.
 
 Pub. L. 103–322, §90104, substituted “a controlled substance or listed chemical (as defined in section 102 of the Controlled Substances Act)” for “narcotic or other dangerous drugs”.
 
@@ -72,11 +72,11 @@ Par. (1)(D). Pub. L. 103–394 inserted “(except a case under section 157 of t
 
 Pub. L. 103–322, §90104, substituted “a controlled substance or listed chemical (as defined in section 102 of the Controlled Substances Act)” for “narcotic or other dangerous drugs”.
 
-1990—Par. (1)(B). Pub. L. 101–647 substituted “section 1029 (relating to” for “section 1029 (relative to” and struck out “sections 2251 through 2252 (relating to sexual exploitation of children),” before “, section 1958”.
+<b>1990</b>—Par. (1)(B). Pub. L. 101–647 substituted “section 1029 (relating to” for “section 1029 (relative to” and struck out “sections 2251 through 2252 (relating to sexual exploitation of children),” before “, section 1958”.
 
-1989—Par. (1). Pub. L. 101–73 inserted “section 1344 (relating to financial institution fraud),” after “section 1343 (relating to wire fraud),”.
+<b>1989</b>—Par. (1). Pub. L. 101–73 inserted “section 1344 (relating to financial institution fraud),” after “section 1343 (relating to wire fraud),”.
 
-1988—Par. (1)(B). Pub. L. 100–690, §7514, inserted “sections 2251 through 2252 (relating to sexual exploitation of children),”.
+<b>1988</b>—Par. (1)(B). Pub. L. 100–690, §7514, inserted “sections 2251 through 2252 (relating to sexual exploitation of children),”.
 
 Pub. L. 100–690, §7054, inserted “, section 1029 (relative to fraud and related activity in connection with access devices)” and “, section 1958 (relating to use of interstate commerce facilities in the commission of murder-for-hire), sections 2251–2252 (relating to sexual exploitation of children)”.
 
@@ -86,11 +86,11 @@ Pub. L. 100–690, §7013, made technical amendment to directory language of Pub
 
 Par. (10). Pub. L. 100–690, §7020(c), inserted “the Associate Attorney General of the United States,” after “Deputy Attorney General of the United States,”.
 
-1986—Par. (1)(B). Pub. L. 99–646, as amended by Pub. L. 100–690, §7013, inserted “section 1512 (relating to tampering with a witness, victim, or an informant), section 1513 (relating to retaliating against a witness, victim, or an informant),” after “section 1511 (relating to the obstruction of State or local law enforcement),”.
+<b>1986</b>—Par. (1)(B). Pub. L. 99–646, as amended by Pub. L. 100–690, §7013, inserted “section 1512 (relating to tampering with a witness, victim, or an informant), section 1513 (relating to retaliating against a witness, victim, or an informant),” after “section 1511 (relating to the obstruction of State or local law enforcement),”.
 
 Pub. L. 99–570 inserted “section 1956 (relating to the laundering of monetary instruments), section 1957 (relating to engaging in monetary transactions in property derived from specified unlawful activity),”.
 
-1984—Par. (1)(A). Pub. L. 98–473, §1020(1), inserted “dealing in obscene matter,” after “extortion,”.
+<b>1984</b>—Par. (1)(A). Pub. L. 98–473, §1020(1), inserted “dealing in obscene matter,” after “extortion,”.
 
 Par. (1)(B). Pub. L. 98–547 inserted “sections 2312 and 2313 (relating to interstate transportation of stolen motor vehicles),” and “section 2320 (relating to trafficking in certain motor vehicles or motor vehicle parts),”.
 
@@ -98,7 +98,7 @@ Pub. L. 98–473, §1020(2), inserted “sections 1461–1465 (relating to obsce
 
 Par. (1)(E). Pub. L. 98–473, §901(g), added cl. (E).
 
-1978—Par. (1)(B). Pub. L. 95–575 inserted “sections 2341–2346 (relating to trafficking in contraband cigarettes),”.
+<b>1978</b>—Par. (1)(B). Pub. L. 95–575 inserted “sections 2341–2346 (relating to trafficking in contraband cigarettes),”.
 
 Par. (1)(D). Pub. L. 95–598 substituted “fraud connected with a case under title 11” for “bankruptcy fraud”.
 
@@ -126,7 +126,7 @@ Section 301 of chapter III (§§301–322) of title II of Pub. L. 98–473 provi
 
 #### Short Title of 1970 Amendment
 
-Pub. L. 91–452, §1, Oct. 15, 1970, 84 Stat. 922, provided in part: “That this Act \[enacting this section, sections 841 to 848, 1511, 1623, 1955, 1962 to 1968, 3331 to 3334, 3503, 3504, 3575 to 3578, and 6001 to 6005 of this title, and section 1826 of Title 28, Judiciary and Judicial Procedure, amending sections 835, 1073, 1505, 1954, 2424, 2516, 2517, 3148, 3486, and 3500 of this title, sections 15, 87f, 135c,499m, and 2115 of Title 7, Agriculture, section 25 of Title 11, Bankruptcy, section 1820 of Title 12, Banks and Banking, sections 49, 77v, 78u, 79r, 80a–41, 80b–9, 155, 717m, 1271, and 1714 of Title 15, Commerce and Trade, section 825f of Title 16, Conservation, section 1333 of Title 19, Customs Duties, section 373 of Title 21, Food and Drugs, section 161 of Title 29, Labor, section 506 of Title 33, Navigation and Navigable Waters, sections 405 and 2201 of Title 42, The Public Health and Welfare, sections 157 and 362 of Title 45, Railroads, section 1124 of former Title 46, Shipping, section 409 of Title 47, Telegraphs, Telephones, and Radio telegraphs, sections 9, 43, 46, 916, 1017, and 1484 of former Title 49, Transportation, section 792 of Title 50, War and National Defense, and sections 643a, 1152, 2026, and former section 2155 of Title 50, Appendix, repealing sections 837, 895, 1406, and 2514 of this title, sections 32 and 33 of Title 15; sections 4874 and 7493 of Title 26, Internal Revenue Code, section 827 of former Title 46, sections 47 and 48 of former Title 49, and sections 121 to 144 of Title 50, enacting provisions set out as notes under this section and sections 841, 1511, 1955, preceding 3331, preceding 3481, 3504, and 6001 of this title, and repealing provisions set out as a note under section 2510 of this title\] may be cited as the ‘Organized Crime Control Act of 1970’.”
+Pub. L. 91–452, §1, Oct. 15, 1970, 84 Stat. 922, provided in part: “That this Act \[enacting this section, sections 841 to 848, 1511, 1623, 1955, 1962 to 1968, 3331 to 3334, 3503, 3504, 3575 to 3578, and 6001 to 6005 of this title, and section 1826 of Title 28, Judiciary and Judicial Procedure, amending sections 835, 1073, 1505, 1954, 2424, 2516, 2517, 3148, 3486, and 3500 of this title, sections 15, 87f, 135c, 499m, and 2115 of Title 7, Agriculture, section 25 of Title 11, Bankruptcy, section 1820 of Title 12, Banks and Banking, sections 49, 77v, 78u, 79r, 80a–41, 80b–9, 155, 717m, 1271, and 1714 of Title 15, Commerce and Trade, section 825f of Title 16, Conservation, section 1333 of Title 19, Customs Duties, section 373 of Title 21, Food and Drugs, section 161 of Title 29, Labor, section 506 of Title 33, Navigation and Navigable Waters, sections 405 and 2201 of Title 42, The Public Health and Welfare, sections 157 and 362 of Title 45, Railroads, section 1124 of former Title 46, Shipping, section 409 of Title 47, Telegraphs, Telephones, and Radio telegraphs, sections 9, 43, 46, 916, 1017, and 1484 of former Title 49, Transportation, section 792 of Title 50, War and National Defense, and sections 643a, 1152, 2026, and former section 2155 of Title 50, Appendix, repealing sections 837, 895, 1406, and 2514 of this title, sections 32 and 33 of Title 15; sections 4874 and 7493 of Title 26, Internal Revenue Code, section 827 of former Title 46, sections 47 and 48 of former Title 49, and sections 121 to 144 of Title 50, enacting provisions set out as notes under this section and sections 841, 1511, 1955, preceding 3331, preceding 3481, 3504, and 6001 of this title, and repealing provisions set out as a note under section 2510 of this title\] may be cited as the ‘Organized Crime Control Act of 1970’.”
 
 Pub. L. 91–452, title IX, §901(a), Oct. 15, 1970, 84 Stat. 941, is popularly known as the “Racketeer Influenced and Corrupt Organizations Act”. See also Short Title note below.
 
@@ -136,7 +136,7 @@ This chapter is popularly known as the “Racketeer Influenced and Corrupt Organ
 
 #### Savings Provision
 
-Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§151 et seq.), chapter 96 (§1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
+Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§151 et seq.), chapter96 (§1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
 
 #### Separability
 

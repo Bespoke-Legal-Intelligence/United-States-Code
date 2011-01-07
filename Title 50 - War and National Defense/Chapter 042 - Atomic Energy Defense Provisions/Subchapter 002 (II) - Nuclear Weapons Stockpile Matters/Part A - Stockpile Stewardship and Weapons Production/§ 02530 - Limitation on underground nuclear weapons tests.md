@@ -12,5 +12,5 @@ Pub. L. 108–136, div. C, title XXXI, §3141(e)(11), Nov. 24, 2003, 117 Stat. 1
 
 #### Amendments
 
-2003—Pub. L. 108–136, §3141(e)(11)(C)(i), inserted section catchline.
+<b>2003</b>—Pub. L. 108–136, §3141(e)(11)(C)(i), inserted section catchline.
 

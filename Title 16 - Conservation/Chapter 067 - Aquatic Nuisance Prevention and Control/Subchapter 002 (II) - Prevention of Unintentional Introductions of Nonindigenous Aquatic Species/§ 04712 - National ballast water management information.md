@@ -16,7 +16,7 @@
 
 #### (3) Shipping study
 
-&emsp;The Secretary shall conduct a study to determine the need for controls on vessels entering waters of the United States, other than the Great Lakes, to minimize the risk of unintentional introduction and dispersal of aquatic nuisance species in those waters. The study shall include an examination of—
+&emsp;The Secretary shall conduct a study to determine the need for controls on vessels entering waters of the United States, other thanthe Great Lakes, to minimize the risk of unintentional introduction and dispersal of aquatic nuisance species in those waters. The study shall include an examination of—
 
 &emsp;&emsp;(A) the degree to which shipping may be a major pathway of transmission of aquatic nuisance species in those waters;
 
@@ -74,7 +74,7 @@
 
 #### (d) Negotiations
 
-The Secretary, working through the International Maritime Organization, is encouragedto enter into negotiations with the governments of foreign countries concerning the planning and implementation of measures aimed at the prevention and control of unintentional introductions of aquatic nuisance species in coastal waters.
+The Secretary, working through the International Maritime Organization, is encouraged to enter into negotiations with the governments of foreign countries concerning the planning and implementation of measures aimed at the prevention and control of unintentional introductions of aquatic nuisance species in coastal waters.
 
 #### (e) Regional research grants
 
@@ -94,7 +94,7 @@ Out of amounts appropriated to carry out this subsection for a fiscal year, the 
 
 #### (1) In general
 
-&emsp;The Secretary shall develop and maintain, in consultation and cooperation with the Task Force and the Smithsonian Institution (acting through the Smithsonian Environmental Research Center), a clearinghouse of national data concerning—
+&emsp;The Secretary shall develop and maintain, in consultation and cooperation with the Task Force and the Smithsonian Institution (actingthrough the Smithsonian Environmental Research Center), a clearinghouse of national data concerning—
 
 &emsp;&emsp;(A) ballasting practices;
 
@@ -114,9 +114,9 @@ Out of amounts appropriated to carry out this subsection for a fiscal year, the 
 
 #### Amendments
 
-1998—Subsec. (f)(2). Pub. L. 105–362 substituted “biennial basis” for “biannual basis” in introductory provisions.
+<b>1998</b>—Subsec. (f)(2). Pub. L. 105–362 substituted “biennial basis” for “biannual basis” in introductory provisions.
 
-1996—Pub. L. 104–332, §2(h)(1), made technical amendment to Pub. L. 101–646, §1102, which enacted this section.
+<b>1996</b>—Pub. L. 104–332, §2(h)(1), made technical amendment to Pub. L. 101–646, §1102, which enacted this section.
 
 Pub. L. 104–332, §2(c)(1), substituted “management information” for “control program” in section catchline.
 

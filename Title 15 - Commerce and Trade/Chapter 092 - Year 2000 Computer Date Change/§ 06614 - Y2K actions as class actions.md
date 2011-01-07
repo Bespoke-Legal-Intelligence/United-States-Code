@@ -6,7 +6,7 @@ A Y2K action involving a claim that a product or service is defective may be mai
 
 &emsp;(1) it satisfies all other prerequisites established by applicable Federal or State law, including applicable rules of civil procedure; and
 
-&emsp;(2) the court finds that the defect in a product or service as alleged would be a material defect for the majority of the members of the class.
+&emsp;(2) the court finds that the defect in a product or service as alleged would be a materialdefect for the majority of the members of the class.
 
 #### (b) Notification
 
@@ -58,7 +58,7 @@ In any Y2K action that is maintained as a class action, the court, in addition t
 
 #### (C) Period of limitations tolled
 
-&emsp;&emsp;Upon dismissal or remand, the period of limitations for any claim that was asserted in an action on behalf of any named or unnamed member of any proposed class shallbe deemed tolled to the full extent provided under Federal law.
+&emsp;&emsp;Upon dismissal or remand, the period of limitations for any claim that was asserted in an action on behalf of any named or unnamed member of any proposed class shall be deemed tolled to the full extent provided under Federal law.
 
 #### (D) Dismissal without prejudice
 

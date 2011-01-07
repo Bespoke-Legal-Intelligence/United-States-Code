@@ -2,13 +2,25 @@
 
 #### (a) Federal and State courts; venue; service of process; review; removal; costs
 
-The district courts of the United States and the United States courts of any Territory shall have jurisdiction of offenses and violations under this subchapter and under the rules and regulations promulgated by the Commission in respect thereto, and, concurrent with State and Territorial courts, except as provided in section 77p of this title with respect to covered class actions, of all suits in equity and actions at law brought to enforce any liability or duty created by this subchapter. Any such suit or action may be brought in the district wherein the defendant is found or is an inhabitant or transacts business, or in the district where the offer or sale took place, if the defendant participated therein, and process in such cases may be served in any other district of which the defendant is an inhabitant or wherever the defendant may be found. Judgments and decrees so rendered shall be subject to review as provided in sections 1254, 1291, 1292, and 1294 of title 28. Except as provided in section 77p(c) of this title, no case arising under this subchapter and brought in any State court of competent jurisdiction shall be removed to any court of the United States. No costs shall be assessed for or against the Commission in any proceeding under this subchapter brought by or against it in the Supreme Court or such other courts.
+The district courts of the United States and the United States courts of any Territory shall have jurisdiction of offenses and violations under this subchapter and under the rules and regulations promulgated by the Commission in respect thereto, and, concurrent with State and Territorial courts, except as provided in section 77p of this title with respect to covered class actions, of all suits in equity and actions at law brought to enforce any liability or duty created by this subchapter. Any such suit or action may be brought in the district wherein the defendant is found or is an inhabitant or transacts business, or in the district where the offer or sale took place, if the defendant participated therein, and process in such cases may be served in any other district of which the defendant is an inhabitant or wherever the defendant may be found. In any action or proceeding instituted by the Commission under this subchapter in a United States district court for any judicial district, a subpoena issued to compel the attendance of a witness or the production of documents or tangible things (or both) at a hearing or trial may be served at any place within the United States. Rule 45(c)(3)(A)(ii) of the Federal Rules of Civil Procedure shall not apply to a subpoena issued under the preceding sentence. Judgments and decrees so rendered shall be subject to review as provided in sections 1254, 1291, 1292, and 1294 of title 28. Except as provided in section 77p(c) of this title, no case arising under this subchapter and brought in any State court of competent jurisdiction shall be removed to any court of the United States. No costs shall be assessed for or against the Commission in any proceeding under this subchapter brought by or against it in the Supreme Court or such other courts.
 
 #### (b) Contumacy or refusal to obey subpena; contempt
 
 In case of contumacy or refusal to obey a subpena issued to any person, any of the said United States courts, within the jurisdiction of which said person guilty of contumacy or refusal to obey is found or resides, upon application by the Commission may issue to such person an order requiring such person to appear before the Commission, or one of its examiners designated by it, there to produce documentary evidence if so ordered, or there to give evidence touching the matter in question; and any failure to obey such order of the court may be punished by said court as a contempt thereof.
 
-(May 27, 1933, ch. 38, title I, §22, 48 Stat. 86; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Aug. 10, 1954, ch. 667, title I, §11, 68 Stat. 686; Pub. L. 91–452, title II, §213, Oct. 15, 1970, 84 Stat. 929; Pub. L. 100–181, title II, §209, Dec. 4, 1987, 101 Stat. 1253; Pub. L. 105–353, title I, §101(a)(3), Nov. 3, 1998, 112 Stat. 3230.)
+#### (c) Extraterritorial jurisdiction
+
+The district courts of the United States and the United States courts of any Territory shall have jurisdiction of an action or proceeding brought or instituted by the Commission or the United States alleging a violation of section 77q(a) of this title involving—
+
+&emsp;(1) conduct within the United States that constitutes significant steps in furtherance of the violation, even if the securities transaction occurs outside the United States and involves only foreign investors; or
+
+&emsp;(2) conduct occurring outside the United States that has a foreseeable substantial effect within the United States.
+
+(May 27, 1933, ch. 38, title I, §22, 48 Stat. 86; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Aug. 10, 1954, ch. 667, title I, §11, 68 Stat. 686; Pub. L. 91–452, title II, §213, Oct. 15, 1970, 84 Stat. 929; Pub. L. 100–181, title II, §209, Dec. 4, 1987, 101 Stat. 1253; Pub. L. 105–353, title I, §101(a)(3), Nov. 3, 1998, 112 Stat. 3230; Pub. L.111–203, title IX, §§929E(a), 929P(b)(1), July 21, 2010, 124 Stat. 1853, 1864.)
+
+#### References in Text
+
+The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Codification
 
@@ -16,13 +28,21 @@ As originally enacted subsec. (a) contained references to the Supreme Court of t
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–353 inserted “except as provided in section 77p of this title with respect to covered class actions,” after “Territorial courts,” in first sentence and substituted “Except as provided in section 77p(c) of this title, no case” for “No case” in penultimate sentence.
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §929E(a), inserted after second sentence “In any action or proceeding instituted by the Commission under this subchapter in a United States district court for any judicial district, a subpoena issued to compel the attendance of a witness or the production of documents or tangible things (or both) at a hearing or trial may be served at any place within the United States. Rule 45(c)(3)(A)(ii) of the Federal Rules of Civil Procedure shall not apply to a subpoena issued under the preceding sentence.”
 
-1987—Subsec. (a). Pub. L. 100–181 substituted “United States and” for “United States, the”, struck out “, and the United States District Court for the District of Columbia” after “Territory”, and substituted “sections 1254, 1291, 1292, and 1294 of title 28” for “sections 128 and 240 of the Judicial Code, as amended (U.S.C., title 28, secs. 225 and 347)”. See Codification note above.
+Subsec. (c). Pub. L. 111–203, §929P(b)(1), added subsec. (c).
 
-1970—Subsec. (c). Pub. L. 91–452 struck out subsec. (c) which related to immunity from prosecution of any individual compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
+<b>1998</b>—Subsec. (a). Pub. L. 105–353 inserted “except as provided in section 77p of this title with respect to covered class actions,” after “Territorial courts,” in first sentence and substituted “Except as provided in section 77p(c) of this title, no case” for “No case” in penultimate sentence.
 
-1954—Subsec. (a). Act Aug. 10, 1954, inserted “offer or” before “sale” in second sentence.
+<b>1987</b>—Subsec. (a). Pub. L. 100–181 substituted “United States and” for “United States, the”, struck out “, and the United States District Court for the District of Columbia” after “Territory”, and substituted “sections 1254, 1291, 1292, and 1294 of title 28” for “sections 128 and 240 of the Judicial Code, as amended (U.S.C., title 28, secs. 225 and 347)”. See Codification note above.
+
+<b>1970</b>—Subsec. (c). Pub. L. 91–452 struck out subsec. (c) which related to immunity from prosecution of any individual compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
+
+<b>1954</b>—Subsec. (a). Act Aug. 10, 1954, inserted “offer or” before “sale” in second sentence.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Effective Date of 1998 Amendment
 

@@ -16,7 +16,7 @@ The Secretary shall, subject to the availability of appropriations, establish an
 
 &emsp;(2) promote research into the development and validation of reliable screening tools for autism spectrum disorder and other developmental disabilities and disseminate information regarding those screening tools;
 
-&emsp;(3) promote early screening of individuals at higher risk for autism spectrum disorder and other developmental disabilities as early as practicable, given evidence-based screening techniques and interventions;
+&emsp;(3) promote early screening of individuals at higher risk for autism spectrum disorder andother developmental disabilities as early as practicable, given evidence-based screening techniques and interventions;
 
 &emsp;(4) increase the number of individuals who are able to confirm or rule out a diagnosis of autism spectrum disorder and other developmental disabilities;
 
@@ -28,7 +28,7 @@ The Secretary shall, subject to the availability of appropriations, establish an
 
 #### (1) In general
 
-&emsp;In carrying out subsection (b)(1), the Secretary, in collaboration with the Secretary of Education and the Secretary of Agriculture, shall, subject to the availability of appropriations, provide culturally competent information regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, and evidence-based interventions tomeet the needs of individuals with autism spectrum disorder or other developmental disabilities and their families through—
+&emsp;In carrying out subsection (b)(1), the Secretary, in collaboration with the Secretary of Education and the Secretary of Agriculture, shall, subject to the availability of appropriations, provide culturally competent information regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, and evidence-based interventions to meet the needs of individuals with autism spectrum disorder or other developmental disabilities and their families through—
 
 &emsp;&emsp;(A) Federal programs, including—
 

@@ -21,21 +21,21 @@
 
 #### Amendments
 
-2006—Pub. L. 109–163, div. A, title IX, §904(e)(2), Jan. 6, 2006, 119 Stat. 3402, added item 8024.
+<b>2006</b>—Pub. L. 109–163, div. A, title IX, §904(e)(2), Jan. 6, 2006, 119 Stat. 3402, added item 8024.
 
-2002—Pub. L. 107–314, div. A, title V, §504(e)(1)(B), Dec. 2, 2002, 116 Stat. 2532, added item 8023.
+<b>2002</b>—Pub. L. 107–314, div. A, title V, §504(e)(1)(B), Dec. 2, 2002, 116 Stat. 2532, added item 8023.
 
-1988—Pub. L. 100–456, div. A, title VII, §702(c)(3), Sept. 29, 1988, 102 Stat. 1996, added item 8022.
+<b>1988</b>—Pub. L. 100–456, div. A, title VII, §702(c)(3), Sept. 29, 1988, 102 Stat. 1996, added item 8022.
 
-1986—Pub. L. 99–433, title V, §521(b), Oct. 1, 1986, 100 Stat. 1060, amended analysis generally, substituting items 8011 to 8021 for former items 8010 to 8019.
+<b>1986</b>—Pub. L. 99–433, title V, §521(b), Oct. 1, 1986, 100 Stat. 1060, amended analysis generally, substituting items 8011 to 8021 for former items 8010 to 8019.
 
-1967—Pub. L. 90–168, §2(20), Dec. 1, 1967, 81 Stat. 525, added item 8019.
+<b>1967</b>—Pub. L. 90–168, §2(20), Dec. 1, 1967, 81 Stat. 525, added item 8019.
 
-1964—Pub. L. 88–426, title III, §§305(40)(B), 306(j)(8), Aug. 14, 1964, 78 Stat. 427, 432, struck out “; compensation” from item 8012, and struck out item 8018 “Compensation of General Counsel”.
+<b>1964</b>—Pub. L. 88–426, title III, §§305(40)(B), 306(j)(8), Aug. 14, 1964, 78 Stat. 427, 432, struck out “; compensation” from item 8012, and struck out item 8018 “Compensation of General Counsel”.
 
-1962—Pub. L. 87–651, title II, §213(b), Sept. 7, 1962, 76 Stat. 524, added item 8010.
+<b>1962</b>—Pub. L. 87–651, title II, §213(b), Sept. 7, 1962, 76 Stat. 524, added item 8010.
 
-1958—Pub. L. 85–861, §1(154)(B), Sept. 2, 1958, 72 Stat. 1513, added item 8018.
+<b>1958</b>—Pub. L. 85–861, §1(154)(B), Sept. 2, 1958, 72 Stat. 1513, added item 8018.
 
 
 ---

@@ -78,7 +78,7 @@ In subsections (a) and (b), the word “designated” is substituted for the wor
 
 Subsection (b) is substituted for 10:1056(e) (2d sentence).
 
-In subsection (c), the words “during the term for which such member was appointed” and “Such successor shall be appointed who died or resigned” are omitted as surplusage.
+In subsection (c), the words “during the term for which such member was appointed” and “Such successor shall be appointed \* \* \* who died or resigned” are omitted as surplusage.
 
 In subsection (g), the words “as it may deem necessary or advisable effectuate the duties imposed upon it by the provisions of sections 1055–1060 of this title” are omitted as surplusage.
 
@@ -86,11 +86,11 @@ In subsection (h), the words “called for consultation by the Board in connecti
 
 #### Amendments
 
-1999—Subsec. (a)(3). Pub. L. 106–65, substituted “Committee on Armed Services” for “Committee on National Security”.
+<b>1999</b>—Subsec. (a)(3). Pub. L. 106–65, substituted “Committee on Armed Services” for “Committee on National Security”.
 
-1996—Subsec. (a)(3). Pub. L. 104–106, §1502(a)(12), substituted “National Security” for “Armed Services”.
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–106, §1502(a)(12), substituted “National Security” for “Armed Services”.
 
 Subsec. (h). Pub. L. 104–106, §1061(e)(2), struck out “is entitled to not more than $5 a day and” after “each adviser”.
 
-1980—Subsec. (b). Pub. L. 96–579 required member whose term of office had expired to continue service until appointment of a successor.
+<b>1980</b>—Subsec. (b). Pub. L. 96–579 required member whose term of office had expired to continue service until appointment of a successor.
 

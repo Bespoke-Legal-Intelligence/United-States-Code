@@ -36,5 +36,7 @@ Section 6683 of this title, referred to in subsec. (a)(1), was omitted from the 
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Years 1992 and 1993, andnot as part of the National Science and Technology Policy, Organization, and Priorities Act of 1976 which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Years 1992 and 1993, and not as part of the National Science and Technology Policy, Organization, and Priorities Act of 1976 which comprises this chapter.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -98,11 +98,11 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is
 
 #### Amendments
 
-1999—Subsec. (c)(1). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+<b>1999</b>—Subsec. (c)(1). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
-1994—Subsec. (b)(2)(I). Pub. L. 103–337 inserted “and submit to Congress by March 31 of each year” after “Publish”.
+<b>1994</b>—Subsec. (b)(2)(I). Pub. L. 103–337 inserted “and submit to Congress by March 31 of each year” after “Publish”.
 
-1993—Pub. L. 103–160, §263(b), substituted “Semiconductor Technology Council” for “Advisory Council” in section catchline.
+<b>1993</b>—Pub. L. 103–160, §263(b), substituted “Semiconductor Technology Council” for “Advisory Council” in section catchline.
 
 Subsec. (a). Pub. L. 103–160, §263(b), added subsec. (a) and struck out former subsec. (a) which read as follows: “There is established the Advisory Council on Federal Participation in Sematech.”
 
@@ -120,7 +120,7 @@ Subsec. (g). Pub. L. 103–160, §263(d), substituted “a Cochairman” for “
 
 Subsec. (j). Pub. L. 103–160, §263(e), added subsec. (j).
 
-1992—Subsec. (c)(4). Pub. L. 102–245 substituted “Technology” for “Economic Affairs”.
+<b>1992</b>—Subsec. (c)(4). Pub. L. 102–245 substituted “Technology” for “Economic Affairs”.
 
 #### Termination of Advisory Council on Federal Participation in Sematech
 

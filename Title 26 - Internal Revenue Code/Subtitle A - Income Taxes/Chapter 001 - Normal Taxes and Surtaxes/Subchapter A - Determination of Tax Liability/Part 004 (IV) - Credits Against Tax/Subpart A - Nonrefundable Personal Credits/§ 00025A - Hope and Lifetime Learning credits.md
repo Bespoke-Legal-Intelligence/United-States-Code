@@ -40,7 +40,7 @@ In the case of an individual, there shall be allowed as a credit against the tax
 
 &emsp;For purposes of this subsection, the term “eligible student” means, with respect to any academic period, a student who—
 
-&emsp;&emsp;(A) meets the requirements of section 484(a)(1) of the Higher Education Act of 1965\(20 U.S.C. 1091(a)(1)), as in effect on the date of the enactment of this section, and
+&emsp;&emsp;(A) meets the requirements of section 484(a)(1) of the Higher Education Act of 1965 (20 U.S.C. 1091(a)(1)), as in effect on the date of the enactment of this section, and
 
 &emsp;&emsp;(B) is carrying at least 1/2 the normal full-time work load for the course of study the student is pursuing.
 
@@ -196,7 +196,7 @@ For purposes of this section—
 
 #### (i) American opportunity tax credit
 
-In the case of any taxable year beginning in 2009 or 2010—
+In the case of any taxable year beginning in 2009, 2010, 2011, or 2012—
 
 #### (1) Increase in credit
 
@@ -232,7 +232,7 @@ In the case of any taxable year beginning in 2009 or 2010—
 
 &emsp;&emsp;(A) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
 
-&emsp;&emsp;(B) the sum of the credits allowable under this subpart (other than this subsection and sections 23, 25D, and 30D) and section 27 for the taxable year.
+&emsp;&emsp;(B) the sum of the credits allowable under this subpart (other than this subsection and sections 25D and 30D) and section 27 for the taxable year.
 
 > &emsp;Any reference in this section or section 24, 25, 26, 25B, 904, or 1400C to a credit allowable under this subsection shall be treated as a reference to so much of the credit allowable under subsection (a) as is attributable to the Hope Scholarship Credit.
 
@@ -248,13 +248,15 @@ In the case of any taxable year beginning in 2009 or 2010—
 
 The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations providing for a recapture of the credit allowed under this section in cases where there is a refund in a subsequent taxable year of any amount which was taken into account in determining the amount of such credit.
 
-(Added Pub. L. 105–34, title II, §201(a), Aug. 5, 1997, 111 Stat. 799; amended Pub. L. 107–16, title IV, §401(g)(2)(A), June 7, 2001, 115 Stat. 59; Pub. L. 111–5, div. B, title I, §1004(a), Feb. 17, 2009, 123 Stat. 313.)
+(Added Pub. L. 105–34, title II, §201(a), Aug. 5, 1997, 111 Stat. 799; amended Pub. L. 107–16, title IV, §401(g)(2)(A), June 7, 2001, 115 Stat. 59; Pub. L. 111–5, div. B, title I, §1004(a), Feb. 17, 2009, 123 Stat. 313; Pub. L. 111–148, title X, §10909(b)(2)(C), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(a)(1), Dec. 17, 2010, 124 Stat. 3298, 3299.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 10909(c) of Pub. L. 111–148, see Effective and Termination Dates of 2010 Amendment note below.</i>
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
@@ -268,9 +270,13 @@ Section 702(a)(1)(B) of the Heartland Disaster Tax Relief Act of 2008, referred 
 
 #### Amendments
 
-2009—Subsecs. (i), (j). Pub. L. 111–5 added subsec. (i) and redesignated former subsec. (i) as (j).
+<b>2010</b>—Subsec. (i). Pub. L. 111–312, §103(a)(1), substituted “, 2010, 2011, or 2012” for “or 2010” in introductory provisions.
 
-2001—Subsec. (e). Pub. L. 107–16, §§401(g)(2)(A), 901, temporarily amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows:
+Subsec. (i)(5)(B). Pub. L. 111–148, §10909(b)(2)(C), (c), as amended by Pub. L. 111–312, §101(b)(1), temporarily substituted “25D” for “23, 25D,”. See Effective and Termination Dates of 2010 Amendment note below.
+
+<b>2009</b>—Subsecs. (i), (j). Pub. L. 111–5 added subsec. (i) and redesignated former subsec. (i) as (j).
+
+<b>2001</b>—Subsec. (e). Pub. L. 107–16, §§401(g)(2)(A), 901, temporarily amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows:
 
 “(1)
 
@@ -282,6 +288,14 @@ Coordination with exclusions.—An election under this subsection shall not take
 
 > See Effective and Termination Dates of 2001 Amendment note below.
 
+#### Effective and Termination Dates of 2010 Amendment
+
+Amendment by section 103(a)(1) of Pub. L. 111–312 applicable to taxable years beginning after Dec. 31, 2010, see section 103(d) of Pub. L. 111–312, set out as a note under section 24 of this title.
+
+Amendment by Pub. L. 111–148 terminated applicable to taxable years beginning after Dec. 31, 2011, and section is amended to read as if such amendment had never been enacted, see section 10909(c) of Pub. L. 111–148, set out as a note under section 1 of this title.
+
+Amendment by Pub. L. 111–148 applicable to taxable years beginning after Dec. 31, 2009, see section 10909(d) of Pub. L. 111–148, set out as a note under section 1 of this title.
+
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1004(d) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
@@ -290,7 +304,7 @@ Amendment by Pub. L. 111–5 applicable to taxable years beginning after Dec. 31
 
 Pub. L. 107–16, title IV, §401(h), June 7, 2001, 115 Stat. 60, provided that: “The amendments made by this section \[amending this section and sections 135, 530, and 4973 of this title\] shall apply to taxable years beginning after December 31, 2001.”
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date
 
@@ -306,7 +320,7 @@ Lifetime learning credit.—Section 25A(a)(2) of the Internal Revenue Code of 19
 
 #### Treatment of Possessions
 
-Pub. L. 111–5, div. B, title I, §1004(c), Feb. 17, 2009, 123 Stat. 314, provided that:
+Pub. L. 111–5, div. B, title I, §1004(c), Feb. 17, 2009, 123 Stat. 314, as amended by Pub. L. 111–312, title I, §103(a)(2), Dec. 17, 2010, 124 Stat. 3299, provided that:
 
 “(1)
 
@@ -314,11 +328,11 @@ Payments to possessions.—
 
 &emsp;“(A)
 
-Mirror code possession.—The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of the application of section 25A(i)(6) of the Internal Revenue Code of 1986 (as added by this section) with respect to taxable years beginning in 2009 and 2010. Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
+Mirror code possession.—The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of the application of section 25A(i)(6) of the Internal Revenue Code of 1986 (as added by this section) with respect to taxable years beginning in 2009, 2010, 2011, and 2012. Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
 
 &emsp;“(B)
 
-Other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits that would have been provided to residents of such possession by reason of the application of section 25A(i)(6) of such Code (as so added) for taxable years beginning in 2009 and 2010 if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply with respect to any possession of the United States unless such possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to the residents of such possession.
+Other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasuryas being equal to the aggregate benefits that would have been provided to residents of such possession by reason of the application of section 25A(i)(6) of such Code (as so added) for taxable years beginning in 2009, 2010, 2011, and 2012 if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply with respect to any possession of the United States unless such possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to the residents of such possession.
 
 “(2)
 

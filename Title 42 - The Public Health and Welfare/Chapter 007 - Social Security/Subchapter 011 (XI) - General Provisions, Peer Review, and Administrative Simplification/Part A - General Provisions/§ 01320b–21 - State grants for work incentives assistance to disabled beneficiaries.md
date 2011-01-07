@@ -62,7 +62,7 @@ In this section:
 
 &emsp;&emsp;(A) who is a disabled beneficiary as defined in section 1320b–19(k)(2) of this title;
 
-&emsp;&emsp;(B) who is receiving a cash payment described in section 1382e(a) of this title or a supplementary payment described in section 212(a)(3) of Public Law 93–66 (without regard to whether such payment is paid by the Commissioner pursuant to an agreement under section 1382e(a) of this title or under section 212(b) of Public Law 93–66);
+&emsp;&emsp;(B) who is receiving a cash payment described in section 1382e(a) of this title or a supplementary payment described in section 212(a)(3) of Public Law 93–66 (without regard to whether such payment is paid by the Commissioner pursuant to an agreementunder section 1382e(a) of this title or under section 212(b) of Public Law 93–66);
 
 &emsp;&emsp;(C) who, pursuant to section 1382h(b) of this title, is considered to be receiving benefits under subchapter XVI of this chapter; or
 
@@ -74,9 +74,9 @@ In this section:
 
 #### (h) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $7,000,000 for each of the fiscal years 2000 through 2010.
+There are authorized to be appropriated to carry out this section $7,000,000 for each of the fiscal years 2000 through 2011.
 
-(Aug. 14, 1935, ch. 531, title XI, §1150, as added Pub. L. 106–170, title I, §122, Dec. 17, 1999, 113 Stat. 1890; amended Pub. L. 108–203, title IV, §§404(b)(1), (2), 407(b), Mar. 2, 2004, 118 Stat. 526, 527; Pub. L. 111–63, §3, Sept. 18, 2009, 123 Stat. 2001.)
+(Aug. 14, 1935, ch. 531, title XI, §1150, as added Pub. L. 106–170, title I, §122, Dec. 17, 1999, 113 Stat. 1890; amended Pub. L. 108–203, title IV, §§404(b)(1), (2), 407(b), Mar. 2, 2004, 118 Stat. 526, 527; Pub. L. 111–63, §3, Sept. 18, 2009, 123 Stat. 2001; Pub. L. 111–280, §2(b), Oct. 13, 2010, 124 Stat. 2903.)
 
 #### References in Text
 
@@ -90,9 +90,11 @@ Part A of subchapter XVIII of this chapter, referred to in subsec. (g)(2)(D), is
 
 #### Amendments
 
-2009—Subsec. (h). Pub. L. 111–63 substituted “2010” for “2009”.
+<b>2010</b>—Subsec. (h). Pub. L. 111–280 substituted “2011” for “2010”.
 
-2004—Subsec. (b)(2). Pub. L. 108–203, §404(b)(2), substituted “secure, maintain, or regain” for “secure or regain”.
+<b>2009</b>—Subsec. (h). Pub. L. 111–63 substituted “2010” for “2009”.
+
+<b>2004</b>—Subsec. (b)(2). Pub. L. 108–203, §404(b)(2), substituted “secure, maintain, or regain” for “secure or regain”.
 
 Subsec. (g)(2). Pub. L. 108–203, §404(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘disabled beneficiary’ has the meaning given that term in section 1320b–19(k)(2) of this title.”
 

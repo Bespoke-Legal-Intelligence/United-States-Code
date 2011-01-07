@@ -20,11 +20,11 @@ In order to carry out the objectives of this section, the Secretary may by regul
 
 #### Amendments
 
-1974—Subsec. (d). Pub. L. 93–259 added subsec. (d).
+<b>1974</b>—Subsec. (d). Pub. L. 93–259 added subsec. (d).
 
-1961—Subsec. (c). Pub. L. 87–30 inserted “or in any enterprise engaged in commerce or in the production of goods for commerce”.
+<b>1961</b>—Subsec. (c). Pub. L. 87–30 inserted “or in any enterprise engaged in commerce or in the production of goods for commerce”.
 
-1949—Subsec. (a). Act Oct. 26, 1949, §10(a), struck out effective date at beginning of subsection and inserted proviso excepting good faith purchaser of goods produced by oppressive child labor.
+<b>1949</b>—Subsec. (a). Act Oct. 26, 1949, §10(a), struck out effective date at beginning of subsection and inserted proviso excepting good faith purchaser of goods produced by oppressive child labor.
 
 Subsec. (c). Act Oct. 26, 1949, §10(b), added subsec. (c).
 

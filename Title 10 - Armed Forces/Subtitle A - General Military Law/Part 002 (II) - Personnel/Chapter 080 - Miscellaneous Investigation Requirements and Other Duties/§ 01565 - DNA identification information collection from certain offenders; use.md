@@ -12,7 +12,7 @@ Collection of DNA Samples.—(1) The Secretary concerned shall collect a DNA sam
 
 Analysis and Use of Samples.—The Secretary concerned shall furnish each DNA sample collected under subsection (a) to the Secretary of Defense. The Secretary of Defense shall—
 
-&emsp;(1) carry out a DNA analysis on each such DNA sample in a manner that complies withthe requirements for inclusion of that analysis in CODIS; and
+&emsp;(1) carry out a DNA analysis on each such DNA sample in a manner that complies with the requirements for inclusion of that analysis in CODIS; and
 
 &emsp;(2) furnish the results of each such analysis to the Director of the Federal Bureau of Investigation for inclusion in CODIS.
 
@@ -62,13 +62,13 @@ Section 210304 of the Violent Crime Control and Law Enforcement Act of 1994, ref
 
 #### Amendments
 
-2004—Subsec. (d). Pub. L. 108–405 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
+<b>2004</b>—Subsec. (d). Pub. L. 108–405 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
 “(1) Subject to paragraph (2), the Secretary of Defense, in consultation with the Attorney General, shall determine those felony or sexual offenses under the Uniform Code of Military Justice that shall be treated for purposes of this section as qualifying military offenses.
 
 “(2) An offense under the Uniform Code of Military Justice that is comparable to a qualifying Federal offense (as determined under section 3(d) of the DNA Analysis Backlog Elimination Act of 2000), as determined by the Secretary in consultation with the Attorney General, shall be treated for purposes of this section as a qualifying military offense.”
 
-2002—Subsec. (f). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (f). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 #### Effective Date of 2002 Amendment
 

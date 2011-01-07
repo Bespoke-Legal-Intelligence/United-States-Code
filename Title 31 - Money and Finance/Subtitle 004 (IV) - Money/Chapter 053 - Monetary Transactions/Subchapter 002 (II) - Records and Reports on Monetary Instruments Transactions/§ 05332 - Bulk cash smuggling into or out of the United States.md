@@ -42,7 +42,7 @@ In general.—Any property involved in a violation of subsection (a), or a consp
 
 &emsp;(2)
 
-Procedure.—The seizure and forfeiture shall be governed by the procedures governing civil forfeitures in money laundering casespursuant to section 981(a)(1)(A) of title 18, United States Code.
+Procedure.—The seizure and forfeiture shall be governed by the procedures governing civil forfeitures in money laundering cases pursuant to section 981(a)(1)(A) of title 18, United States Code.
 
 &emsp;(3)
 
@@ -60,7 +60,7 @@ Another section 371(c) of Pub. L. 107–56 amended the table of sections at the 
 
 #### Amendments
 
-2004—Subsec. (b)(2). Pub. L. 108–458, §6203(h)(1), struck out “, subject to subsection (d) of this section” before period at end.
+<b>2004</b>—Subsec. (b)(2). Pub. L. 108–458, §6203(h)(1), struck out “, subject to subsection (d) of this section” before period at end.
 
 Subsec. (c)(1). Pub. L. 108–458, §6203(h)(2), struck out “, subject to subsection (d) of this section,” after “may be seized and”.
 

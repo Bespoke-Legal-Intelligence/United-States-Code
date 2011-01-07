@@ -2,7 +2,7 @@
 
 #### (a) Recordkeeping requirement; scope of disclosure; other sources of funds
 
-Each recipient of funds under this chapter shall keep such records as the Office of Justice Programs shall prescribe, including records which fully disclose the amount and disposition by such recipient of the funds, the total cost ofthe project or undertaking for which such funds are used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+Each recipient of funds under this chapter shall keep such records as the Office of Justice Programs shall prescribe, including records which fully disclose the amount and disposition by such recipient of the funds, the total cost of the project or undertaking for which such funds are used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 #### (b) Access to records for audit and examination
 
@@ -28,9 +28,9 @@ A prior section 811 of Pub. L. 90–351 was classified to section 3789 of this t
 
 #### Amendments
 
-1994—Subsec. (e). Pub. L. 103–322 substituted “Bureau of Justice Assistance” for “Law Enforcement Assistance Administration”.
+<b>1994</b>—Subsec. (e). Pub. L. 103–322 substituted “Bureau of Justice Assistance” for “Law Enforcement Assistance Administration”.
 
-1984—Subsecs. (a), (b). Pub. L. 98–473, §609B(j)(1), substituted “Office of Justice Programs” for “Office of Justice Assistance, Research, and Statistics” wherever appearing.
+<b>1984</b>—Subsecs. (a), (b). Pub. L. 98–473, §609B(j)(1), substituted “Office of Justice Programs” for “Office of Justice Assistance, Research, and Statistics” wherever appearing.
 
 Subsecs. (d) to (f). Pub. L. 98–473, §609B(j)(2), (3), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) relating to civil rights regulations and conforming changes of the regulations.
 

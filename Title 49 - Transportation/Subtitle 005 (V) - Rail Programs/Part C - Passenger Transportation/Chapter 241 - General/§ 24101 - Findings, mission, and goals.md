@@ -114,7 +114,7 @@ Section 204 of the Passenger Rail Investment and Improvement Act of 2008, referr
 
 #### Amendments
 
-2008—Pub. L. 110–432, §201(e)(1)(A), substituted “mission” for “purpose” in section catchline.
+<b>2008</b>—Pub. L. 110–432, §201(e)(1)(A), substituted “mission” for “purpose” in section catchline.
 
 Subsec. (b). Pub. L. 110–432, §201(e)(1)(B), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “By using innovative operating and marketing concepts, Amtrak shall provide intercity and commuter rail passenger transportation that completely develops the potential of modern rail transportation to meet the intercity and commuter passenger transportation needs of the United States.”
 
@@ -126,7 +126,7 @@ Pub. L. 110–432, §218(a)(1)(A), which directed substitution of “plan, consi
 
 Pub. L. 110–432, §201(e)(1)(D), substituted “subsection (c)(12)” for “subsection (c)(11)”.
 
-1997—Subsec. (c)(2). Pub. L. 105–134, §105(b), inserted “, separately or in combination,” after “and the private sector”.
+<b>1997</b>—Subsec. (c)(2). Pub. L. 105–134, §105(b), inserted “, separately or in combination,” after “and the private sector”.
 
 Subsec. (d). Pub. L. 105–134, §201, inserted at end “Amtrak shall prepare a financial plan to operate within the funding levels authorized by section 24104 of this chapter, including budgetary goals for fiscal years 1998 through 2002. Commencing no later than the fiscal year following the fifth anniversary of the Amtrak Reform and Accountability Act of 1997, Amtrak shall operate without Federal operating grant funds appropriated for its benefit.”
 
@@ -292,7 +292,7 @@ Secretary Approval.—Amtrak may not incur more debt after the date of enactment
 
 “(h)
 
-Report.—The Secretary of the Treasury shall transmit a report to the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Appropriations of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Appropriations of the Senate, by June 1, 2010—
+Report.—The Secretary of the Treasury shall transmit a report to the Committee on Transportationand Infrastructure of the House of Representatives, the Committee on Appropriations of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Appropriations of the Senate, by June 1, 2010—
 
 &emsp;“(1) describing in detail any agreements to restructure the Amtrak debt; and
 
@@ -334,7 +334,7 @@ Revised requests.—Within 15 days after receiving a modified request from Amtra
 
 “(a)
 
-In General.—Within 180 days after the date of enactment of this Act \[Oct. 16, 2008\], the Federal Railroad Administration and Amtrak shall jointly, in consultation with the Surface Transportation Board, rail carriers over whose rail lines Amtrak trains operate, States, Amtrak employees, nonprofit employee organizations representing Amtrak employees, and groups representing Amtrak passengers, as appropriate, develop new or improve existing metrics and minimum standards for measuring the performance and service quality of intercity passenger train operations, including cost recovery, on-time performance and minutes ofdelay, ridership, on-board services, stations, facilities, equipment, and other services. Such metrics, at a minimum, shall include the percentage of avoidable and fully allocated operating costs covered by passenger revenues on each route, ridership per train mile operated, measures of on-time performance and delays incurred by intercity passenger trains on the rail lines of each rail carrier and, for long-distance routes, measures of connectivity with other routes in all regions currently receiving Amtrak service and the transportation needs of communities and populations that are not well-served by other forms of intercity transportation. Amtrak shall provide reasonable access to the Federal Railroad Administration in order to enable the Administration to carry out its duty under this section.
+In General.—Within 180 days after the date of enactment of this Act \[Oct. 16, 2008\], the Federal Railroad Administration and Amtrak shall jointly, in consultation with the Surface Transportation Board, rail carriers over whose rail lines Amtrak trains operate, States, Amtrak employees, nonprofit employee organizations representing Amtrak employees, and groups representing Amtrak passengers, as appropriate, develop new or improve existing metrics and minimum standards for measuring the performance and service quality of intercity passenger train operations, including cost recovery, on-time performance and minutes of delay, ridership, on-board services, stations, facilities, equipment, and other services. Such metrics, at a minimum, shall include the percentage of avoidable and fully allocated operating costs covered by passenger revenues on each route, ridership per train mile operated, measures of on-time performance and delays incurred by intercity passenger trains on the rail lines of each rail carrier and, for long-distance routes, measures of connectivity with other routes in all regions currently receiving Amtrak service and the transportation needs of communities and populations that are not well-served by other forms of intercity transportation. Amtrak shall provide reasonable access to the Federal Railroad Administration in order to enable the Administration to carry out its duty under this section.
 
 “(b)
 
@@ -510,7 +510,7 @@ Bidding Practices.—
 
 &emsp;“(1)
 
-Study.—The independent assessment also shall determine whether, and to what extent, Amtrak hasperformed each year during the period from 1992 through 1996 services under contract at amounts less than the cost to Amtrak of performing such services with respect to any activity other than the provision of intercity rail passenger transportation, or mail or express transportation. For purposes of this clause, the cost to Amtrak of performing services shall be determined using generally accepted accounting principles for contracting. If identified, such contracts shall be detailed in the report of the independent assessment, as well as the methodology for preparation of bids to reflect Amtrak's actual cost of performance.
+Study.—The independent assessment also shall determine whether, and to what extent, Amtrak has performed each year during the period from 1992 through 1996 services under contract at amounts less than the cost to Amtrak of performing such services with respect to any activity other than the provision of intercity rail passenger transportation, or mail or express transportation. For purposes of this clause, the cost to Amtrak of performing services shall be determined using generally accepted accounting principles for contracting. If identified, such contracts shall be detailed in the report of the independent assessment, as well as the methodology for preparation of bids to reflect Amtrak's actual cost of performance.
 
 &emsp;“(2)
 

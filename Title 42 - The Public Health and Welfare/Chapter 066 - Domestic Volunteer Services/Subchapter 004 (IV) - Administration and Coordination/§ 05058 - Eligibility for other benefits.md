@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, no payment for supportive services o
 
 #### Amendments
 
-1984—Pub. L. 98–288 inserted “workers’ compensation,” after “public assistance,”.
+<b>1984</b>—Pub. L. 98–288 inserted “workers’ compensation,” after “public assistance,”.
 
-1979—Pub. L. 96–143 substituted “subchapter II of this chapter” for “subchapters II and III of this chapter”.
+<b>1979</b>—Pub. L. 96–143 substituted “subchapter II of this chapter” for “subchapters II and III of this chapter”.
 

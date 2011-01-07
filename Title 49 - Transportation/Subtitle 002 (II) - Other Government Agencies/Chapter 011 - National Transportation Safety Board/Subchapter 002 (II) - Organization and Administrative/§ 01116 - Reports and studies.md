@@ -6,7 +6,7 @@ Periodic Reports.—The National Transportation Safety Board shall report period
 
 &emsp;(1) advocate meaningful responses to reduce the likelihood of transportation accidents similar to those investigated by the Board; and
 
-&emsp;(2) propose corrective action to make the transportation of individuals as safe and freefrom risk of injury as possible, including action to minimize personal injuries that occur in transportation accidents.
+&emsp;(2) propose corrective action to make the transportation of individuals as safe and free from risk of injury as possible, including action to minimize personal injuries that occur in transportation accidents.
 
 (b)
 

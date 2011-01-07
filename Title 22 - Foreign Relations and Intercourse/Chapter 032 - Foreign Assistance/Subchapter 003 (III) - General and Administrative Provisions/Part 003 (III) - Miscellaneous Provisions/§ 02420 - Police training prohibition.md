@@ -42,13 +42,13 @@ Section 3763(c) of title 42, referred to in subsec. (b)(1), was in the original 
 
 #### Amendments
 
-1999—Subsec. (b)(7). Pub. L. 106–113 added par. (7).
+<b>1999</b>—Subsec. (b)(7). Pub. L. 106–113 added par. (7).
 
-1996—Subsec. (b)(5), (6). Pub. L. 104–107 added pars. (5) and (6).
+<b>1996</b>—Subsec. (b)(5), (6). Pub. L. 104–107 added pars. (5) and (6).
 
-1990—Subsec. (b)(4). Pub. L. 101–513, which directed the amendment of this section by adding par. (4) at “the end of the subsection”, was executed by adding par. (4) after par. (3) in subsec. (b) to reflect the probable intent of Congress.
+<b>1990</b>—Subsec. (b)(4). Pub. L. 101–513, which directed the amendment of this section by adding par. (4) at “the end of the subsection”, was executed by adding par. (4) after par. (3) in subsec. (b) to reflect the probable intent of Congress.
 
-1985—Subsec. (b)(3). Pub. L. 99–83, §127(b), added par. (3).
+<b>1985</b>—Subsec. (b)(3). Pub. L. 99–83, §127(b), added par. (3).
 
 Subsecs. (c), (d). Pub. L. 99–83, §711, added subsecs. (c) and (d).
 

@@ -24,7 +24,7 @@ No funds made available under this chapter shall be used for the purchase in bul
 
 #### (c) Agricultural commodities or products thereof available for disposition under Food for Peace Act
 
-In providing for the procurement of any agricultural commodity or product thereof available for disposition under the Food for Peace Act, as amended \[7 U.S.C. 1691 et seq.\], for transfer by grant under this chapter to any recipient country in accordance with its requirements, the President shall, insofar as practicable and whenin furtherance of the purposes of this chapter, authorize the procurement of such agricultural commodity only within the United States except to the extent that such agricultural commodity is not available in the United States in sufficient quantities to supply emergency requirements of recipients under this chapter.
+In providing for the procurement of any agricultural commodity or product thereof availablefor disposition under the Food for Peace Act, as amended \[7 U.S.C. 1691 et seq.\], for transfer by grant under this chapter to any recipient country in accordance with its requirements, the President shall, insofar as practicable and when in furtherance of the purposes of this chapter, authorize the procurement of such agricultural commodity only within the United States except to the extent that such agricultural commodity is not available in the United States in sufficient quantities to supply emergency requirements of recipients under this chapter.
 
 #### (d) Marine insurance
 
@@ -66,19 +66,19 @@ References to part I of subchapter I of this chapter are deemed to include a ref
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+<b>2008</b>—Subsec. (c). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
-1992—Subsec. (a). Pub. L. 102–391 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Funds made available under this chapter may be used for procurement outside the United States only if the President determines that such procurement will not result in adverse effects upon the economy of the United States or the industrial mobilization base, with special reference to any areas of labor surplus or to the net position of the United States in its balance of payments with the rest of the world, which outweigh the economic or other advantages to the United States of less costly procurement outside the United States, and only if the price of any commodity procured in bulk is lower than the market price prevailing in the United States at the time of procurement, adjusted for differences in the cost of transportation to destination, quality, and terms of payment.”
+<b>1992</b>—Subsec. (a). Pub. L. 102–391 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Funds made available under this chapter may be used for procurement outside the United States only if the President determines that such procurement will not result in adverse effects upon the economy of the United States or the industrial mobilization base, with special reference to any areas of labor surplus or to the net position of the United States in its balance of payments with the rest of the world, which outweigh the economic or other advantages to the United States of less costly procurement outside the United States, and only if the price of any commodity procured in bulk is lower than the market price prevailing in the United States at the time of procurement, adjusted for differences in the cost of transportation to destination, quality, and terms of payment.”
 
-1985—Subsec. (g). Pub. L. 99–83 designated existing provisions as par. (1) and added par. (2).
+<b>1985</b>—Subsec. (g). Pub. L. 99–83 designated existing provisions as par. (1) and added par. (2).
 
-1980—Subsec. (e). Pub. L. 96–533, §705(a), authorized use of funds for procurement of a commodity outside the United States when the commodity to be financed could not reasonably be procured in the United States in fulfillment of objectives of a particular assistance program under which such commodity procurement is to be financed.
+<b>1980</b>—Subsec. (e). Pub. L. 96–533, §705(a), authorized use of funds for procurement of a commodity outside the United States when the commodity to be financed could not reasonably be procured in the United States in fulfillment of objectives of a particular assistanceprogram under which such commodity procurement is to be financed.
 
 Subsec. (g). Pub. L. 96–533, §705(b), added subsec. (g).
 
-1968—Subsec. (f). Pub. L. 90–554 added subsec. (f).
+<b>1968</b>—Subsec. (f). Pub. L. 90–554 added subsec. (f).
 
-1966—Subsec. (c). Pub. L. 89–583, §301(b)(1), struck out “surplus” before “agricultural commodity” in threeplaces and inserted “or products thereof available for disposition under the Agricultural Trade Development and Assistance Act of 1954, as amended,” after “commodity” where first appearing.
+<b>1966</b>—Subsec. (c). Pub. L. 89–583, §301(b)(1), struck out “surplus” before “agricultural commodity” in three places and inserted “or products thereof available for disposition under the Agricultural Trade Development and Assistance Act of 1954, as amended,” after “commodity” where first appearing.
 
 Subsec. (e). Pub. L. 89–583, §301(b)(2), added subsec. (e).
 

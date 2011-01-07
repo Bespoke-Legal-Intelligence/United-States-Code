@@ -14,7 +14,7 @@ Pub. L. 100–204, title I, §157, Dec. 22, 1987, 101 Stat. 1354, provided that:
 
 “(a)
 
-Prohibition.—After September 30, 1990, no national of a Communist country may be employed as a foreign national employee in any area of a United States diplomatic or consular facility in any Communist country where classified materials are maintained.
+Prohibition.—After September 30, 1990, no national of a Communist country may be employed as aforeign national employee in any area of a United States diplomatic or consular facility in any Communist country where classified materials are maintained.
 
 “(b)
 

@@ -66,7 +66,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term “weapon of mass destruction” has the meaning given that term in section 1403 of the Defense Against Weapons of Mass Destruction Act of 1996 (50 U.S.C. 2302(1)).
 
-(Added Pub. L. 94–286, §1, May 14, 1976, 90 Stat. 517, §673b; amended Pub. L. 96–584, §2, Dec. 23, 1980, 94 Stat. 3377; Pub. L. 97–295, §1(9), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 99–661, div. A, title V, §521, Nov. 14, 1986, 100 Stat. 3870; renumbered §12304 and amended, Pub. L. 103–337, div. A, title V, §511(a), title XVI, §§1662(e)(2), 1675(c)(2), Oct. 5, 1994, 108 Stat. 2752, 2992, 3017; Pub. L. 105–85, div. A, title V, §511(b)–(e)(1), Nov. 18, 1997, 111 Stat. 1728, 1729; Pub. L. 105–261, div. A, title V, §511(a), Oct. 17, 1998, 112 Stat. 2005; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title V, §514(a), Dec. 2, 2002, 116 Stat. 2539; Pub. L. 108–136, div. A, title V, §515, Nov. 24, 2003, 117 Stat. 1460; Pub. L. 108–375, div. A, title V, §514(c), Oct. 28, 2004, 118 Stat. 1883; Pub. L. 109–364, div. A, title V, §522, title X, §1076(c), Oct. 17, 2006, 120 Stat. 2192, 2406; Pub. L. 110–181, div. A, title X, §§1063(a)(15), 1068(c), Jan. 28, 2008, 122 Stat. 322, 326.)
+(Added Pub. L. 94–286, §1, May 14, 1976, 90 Stat. 517, §673b; amended Pub. L. 96–584, §2, Dec. 23, 1980, 94 Stat. 3377; Pub. L. 97–295, §1(9), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 99–661, div. A, title V, §521, Nov. 14, 1986, 100 Stat. 3870; renumbered §12304 and amended, Pub. L. 103–337, div. A, title V, §511(a), title XVI, §§1662(e)(2), 1675(c)(2), Oct. 5, 1994, 108 Stat. 2752, 2992, 3017; Pub. L. 105–85, div. A, title V, §511(b)–(e)(1), Nov. 18, 1997, 111 Stat. 1728, 1729; Pub. L. 105–261, div. A, title V, §511(a), Oct. 17, 1998, 112 Stat. 2005; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title V, §514(a), Dec. 2, 2002, 116 Stat. 2539; Pub. L. 108–136, div. A, title V, §515, Nov. 24, 2003, 117 Stat. 1460; Pub. L. 108–375, div. A, title V, §514(c), Oct. 28, 2004, 118 Stat. 1883; Pub. L. 109–364, div. A, title V, §522, title X, §1076(c), Oct. 17, 2006, 120 Stat. 2192, 2406;Pub. L. 110–181, div. A, title X, §§1063(a)(15), 1068(c), Jan. 28, 2008, 122 Stat. 322, 326.)
 
 #### References in Text
 
@@ -74,23 +74,23 @@ The War Powers Resolution, referred to in subsec. (h), is Pub. L. 93–148, Nov.
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–181, §1063(a)(15), struck out second period at end.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §1063(a)(15), struck out second period at end.
 
 Subsec. (c)(1). Pub. L. 110–181, §1068(c), substituted “No unit or member of a reserve component may be ordered to active duty under this section to perform any of the functions authorized by chapter 15 or section 12406 of this title or, except as provided in subsection (b),” for “Except to perform any of the functions authorized by chapter 15 or section 12406 of this title or by subsection (b), no unit or member of a reserve component may be ordered to active duty under this section”.
 
-2006—Subsec. (a). Pub. L. 109–364, §522(a), substituted “365 days.” for “270 days”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–364, §522(a), substituted “365 days.” for “270 days”.
 
 Subsec. (c)(1). Pub. L. 109–364, §1076(c), substituted “Except to perform any of the functions authorized by chapter 15 or section 12406 of this title or by subsection (b), no unit or member of a reserve component may be ordered to active duty under this section” for “No unit or member of a reserve component may be ordered to active duty under this section to perform any of the functions authorized by chapter 15 or section 12406 of this title or, except as provided in subsection (b),”.
 
 Subsecs. (i), (j). Pub. L. 109–364, §522(b), added subsec. (i) and redesignated former subsec. (i) as (j).
 
-2004—Subsec. (a). Pub. L. 108–375 struck out “(other than for training)” after “active duty”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–375 struck out “(other than for training)” after “active duty”.
 
-2003—Subsec. (b)(2). Pub. L. 108–136, §515(1), substituted “significant” for “catastrophic”.
+<b>2003</b>—Subsec. (b)(2). Pub. L. 108–136, §515(1), substituted “significant” for “catastrophic”.
 
 Subsec. (c)(3). Pub. L. 108–136, §515(2), added par. (3).
 
-2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 Subsec. (b). Pub. L. 107–314 substituted “involving—
 
@@ -102,7 +102,7 @@ Subsec. (b). Pub. L. 107–314 substituted “involving—
 
 Subsecs. (e), (f). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1998—Subsec. (a). Pub. L. 105–261, §511(a)(1)(A), (3)(A), inserted heading and inserted “or that it is necessary to provide assistance referred to in subsection (b)” after “operational mission” in text.
+<b>1998</b>—Subsec. (a). Pub. L. 105–261, §511(a)(1)(A), (3)(A), inserted heading and inserted “or that it is necessary to provide assistance referred to in subsection (b)” after “operational mission” in text.
 
 Subsec. (b). Pub. L. 105–261, §511(a)(1)(D), added subsec. (b). Former subsec. (b) redesignated subsec. (c)(1).
 
@@ -112,7 +112,7 @@ Subsecs. (d) to (h). Pub. L. 105–261, §511(a)(3)(B)–(F), inserted headings.
 
 Subsec. (i). Pub. L. 105–261, §511(a)(2), amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “For purposes of this section, the term ‘Individual Ready Reserve mobilization category’ means, in the case of any reserve component, the category of the Individual Ready Reserve described in section 10144(b) of this title.”
 
-1997—Pub. L. 105–85, §511(e)(1), inserted “and certain Individual Ready Reserve members” after “Selected Reserve” in section catchline.
+<b>1997</b>—Pub. L. 105–85, §511(e)(1), inserted “and certain Individual Ready Reserve members” after “Selected Reserve” in section catchline.
 
 Subsec. (a). Pub. L. 105–85, §511(b), inserted “or any member in the Individual Ready Reserve mobilization category and designated as essential under regulations prescribed by the Secretary concerned,” after “of this title),”.
 
@@ -124,7 +124,7 @@ Subsec. (g). Pub. L. 105–85, §511(d)(2), inserted “, or any member of the 
 
 Subsec. (i). Pub. L. 105–85, §511(d)(3), added subsec. (i).
 
-1994—Pub. L. 103–337, §1662(e)(2), renumbered section 673b of this title as this section.
+<b>1994</b>—Pub. L. 103–337, §1662(e)(2), renumbered section 673b of this title as this section.
 
 Subsec. (a). Pub. L. 103–337, §1675(c)(2)(A), (B), substituted “12302(a)” for “673(a)” and “10143(a)” for “268(b)”.
 
@@ -134,7 +134,7 @@ Subsec. (b). Pub. L. 103–337, §1675(c)(2)(C), substituted “12406” for “
 
 Subsec. (i). Pub. L. 103–337, §511(a)(2), struck out subsec. (i) which read as follows: “When a unit of the Selected Reserve, or a member of the Selected Reserve not assigned to a unit organized to serve as a unit of the Selected Reserve, is ordered to active duty under this section and the President determines that an extension of the service of such unit or member on active duty is necessary in the interests of national security, he may authorize the Secretary of Defense and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy to extend the period of such order to active duty for a period of not more than 90 additional days. Whenever the President exercises his authority under this subsection, he shall immediately notify Congress of such action and shall include in the notification a statement of reasons for the action. Nothing in this subsection shall be construed as limiting the authorities to terminate the service of units or members ordered to active duty under this section under subsection (g).”
 
-1986—Subsec. (b). Pub. L. 99–661, §521(c)(1), substituted “reserve component” for “Reserve component”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–661, §521(c)(1), substituted “reserve component” for “Reserve component”.
 
 Subsec. (c). Pub. L. 99–661, §521(a), substituted “200,000” for “100,000”.
 
@@ -146,9 +146,9 @@ Subsec. (g)(2). Pub. L. 99–661, §521(c)(4), substituted “law” for “a co
 
 Subsec. (i). Pub. L. 99–661, §521(b), added subsec. (i).
 
-1982—Subsec. (h). Pub. L. 97–295 inserted “(50 U.S.C. 1541 et seq.)” after “the War Powers Resolution”.
+<b>1982</b>—Subsec. (h). Pub. L. 97–295 inserted “(50 U.S.C. 1541 et seq.)” after “the War Powers Resolution”.
 
-1980—Subsec. (c). Pub. L. 96–584 substituted “100,000” for “50,000”.
+<b>1980</b>—Subsec. (c). Pub. L. 96–584 substituted “100,000” for “50,000”.
 
 #### Effective Date of 2002 Amendment
 
@@ -160,7 +160,7 @@ Amendment by sections 1662(e)(2) and 1675(c)(2) of Pub. L. 103–337 effective D
 
 #### Orders to Active Duty for Selected Reserve Combat Units Involved in Operation Desert Shield; Extensions of Time for Fiscal Year 1991
 
-Pub. L. 101–511, title VIII, §8132, Nov. 5, 1990, 104 Stat. 1908, provided that, during fiscal year 1991, the President, in authorizing under this section the order to active duty of units and members of the Selected Reserve, could use that authority in the case of orders to active duty in support of operations in and around the Arabian Peninsula and Operation Desert Shield as if “180” were substituted for “90” in subsecs. (a) and (i) of this section.
+Pub. L. 101–511, title VIII, §8132, Nov. 5, 1990, 104 Stat. 1908, provided that, during fiscal year 1991, the President, in authorizing under this section the order to active duty of units and members of the Selected Reserve,could use that authority in the case of orders to active duty in support of operations in and around the Arabian Peninsula and Operation Desert Shield as if “180” were substituted for “90” in subsecs. (a) and (i) of this section.
 
 #### Ex. Ord. No. 12727. Ordering Selected Reserve of Armed Forces to Active Duty
 
@@ -176,7 +176,7 @@ This order shall be published in the Federal Register and transmitted promptly t
 
 Ex. Ord. No. 12733, Nov. 13, 1990, 55 F.R. 47837, as amended by Ex. Ord. No. 13286, §37, Feb. 28, 2003, 68 F.R. 10626, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 673b(i) \[673b now 12304\] of title 10 of the United States Code, I hereby determine that, in the interests of national security, extending the period of active duty is necessary for the following: units of the Selected Reserve, and members of the Selected Reserve not assigned to a unit organized to serve as a unit of the Selected Reserve, now serving on or hereafter ordered to active duty pursuant to section 673b(a) \[now 12304(a)\] of title 10 of the United States Code and Executive Order No. 12727 of August 22,1990 \[set out above\]. Further, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when the latter is not operating as a service in the Department of the Navy, to extend the period of active duty of such units and members of the Selected Reserve.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 673b(i) \[673b now 12304\] of title 10 of the United States Code, I hereby determine that, in the interests of national security, extending the period of active duty is necessary for the following: units of the Selected Reserve, and members of the Selected Reserve not assigned to a unit organized to serve as a unit of the Selected Reserve, now serving on or hereafter ordered to active duty pursuant to section 673b(a) \[now 12304(a)\] of title 10 of the United States Code and Executive Order No. 12727 of August 22, 1990 \[set out above\]. Further, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when the latter is not operating as a service in the Department of the Navy, to extend the period of active duty of such units and members of the Selected Reserve.
 
 This order is intended only to improve the internal management of the executive branch, and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 
@@ -216,7 +216,17 @@ This order is intended only to improve the internal management of the executive 
 
 Ex. Ord. No. 13120, Apr. 27, 1999, 64 F.R. 23007, as amended by Ex. Ord. No. 13286, §14, Feb. 28, 2003, 68 F.R. 10623, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 12304 of title 10, United States Code, I hereby determine that it is necessary to augment the active armed forces of the United States for the effective conduct of operations in and around the former Yugoslavia related to the conflict in Kosovo. Further, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Department of the Navy, under their respective jurisdictions, to order to active duty any units, and any individual members not assigned to a unit organized to serve as a unit, of the Selected Reserve, or any member in the Individual Ready Reserve mobilization category and designated as essential under regulations prescribed by the Secretary concerned, and to terminate the service of those units and members ordered to active duty.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 12304 of title 10, United States Code, I hereby determine that it is necessary to augment the active armed forces of the United States for the effective conduct of operations inand around the former Yugoslavia related to the conflict in Kosovo. Further, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Department of the Navy, under their respective jurisdictions, to order to active duty any units, and any individual members not assigned to a unit organized to serve as a unit, of the Selected Reserve, or any member in the Individual Ready Reserve mobilization category and designated as essential under regulations prescribed by the Secretary concerned, and to terminate the service of those units and members ordered to active duty.
 
 This order is intended only to improve the internal management of the executive branch and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
+
+#### Ex. Ord. No. 13529. Ordering the Selected Reserve and Certain Individual Ready Reserve Members of the Armed Forces to Active Duty
+
+Ex. Ord. No. 13529, Jan. 16, 2010, 75 F.R. 3331, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 12304 of title 10, United States Code, I hereby determine that it is necessary to augment the active Armed Forces of the United States for the effective conduct of operational missions, including those involving humanitarian assistance, related to relief efforts in Haiti necessitated by the earthquake on January 12, 2010. Further, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, under their respective jurisdictions, to order to active duty any units, and any individual members not assigned to a unit organized to serve as a unit, of the Selected Reserve, or any member in the Individual Ready Reserve mobilization category and designated as essential under regulations prescribed by the Secretary concerned, and to terminate the service of those units and members ordered to active duty.
+
+This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

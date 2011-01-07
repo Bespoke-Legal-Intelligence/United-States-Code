@@ -12,7 +12,7 @@
 
 #### (b) Consideration of information as public information
 
-Any information pertaining to a report described in subsection (a) of this section shall beconsidered to be public information to the extent that the information is necessary—
+Any information pertaining to a report described in subsection (a) of this section shall be considered to be public information to the extent that the information is necessary—
 
 &emsp;(1) to identify the sponsor; and
 
@@ -32,7 +32,7 @@ If a sponsor fails to complete an agreed upon study required by this section by 
 
 #### (e) Notification
 
-With respect to studies of the type required under section 356(b)(2)(A) of this title or under section 314.510 or 601.41 of title 21, Code of Federal Regulations, as each of such sections was in effect on the day before the effective date of this subsection, the Secretary may require that a sponsor who, for reasons not satisfactory to the Secretary, fails to complete by its deadline a study under any of such sections of such type for a drug or biological product (including such a study conducted after such effective date) notify practitioners who prescribe such drug or biological product of the failure to complete such study and the questions of clinical benefit, and, where appropriate, questions of safety, that remain unanswered as a result of the failure to complete such study. Nothing in this subsection shall be construed as altering the requirements of the types of studies required under section 356(b)(2)(A) of this title or under section 314.510 or 601.41 of title 21, Code of Federal Regulations, as so in effect, or as prohibiting the Secretary from modifying such sections of title 21 of such Code to provide for studies in addition to those of such type.
+With respect to studies of the type required under section 356(b)(2)(A) of this title or under section 314.510 or 601.41 of title 21, Code of Federal Regulations, as each of such sections was in effect on the day before the effective date of thissubsection, the Secretary may require that a sponsor who, for reasons not satisfactory to the Secretary, fails to complete by its deadline a study under any of such sections of such type for a drug or biological product (including such a study conducted after such effective date) notify practitioners who prescribe such drug or biological product of the failure to complete such study and the questions of clinical benefit, and, where appropriate, questions of safety, that remain unanswered as a result of the failure to complete such study. Nothing in this subsection shall be construed as altering the requirements of the types of studies required under section 356(b)(2)(A) of this title or under section 314.510 or 601.41 of title 21, Code of Federal Regulations, as so in effect, or as prohibiting the Secretary from modifying such sections of title 21 of such Code to provide for studies in addition to those of such type.
 
 (June 25, 1938, ch. 675, §506B, as added Pub. L. 105–115, title I, §130(a), Nov. 21, 1997, 111 Stat. 2331; amended Pub. L. 107–188, title V, §506, June 12, 2002, 116 Stat. 693.)
 
@@ -42,7 +42,7 @@ The effective date of this subsection, referred to in subsec. (e), is Oct. 1, 20
 
 #### Amendments
 
-2002—Subsecs. (d), (e). Pub. L. 107–188 added subsecs. (d) and (e).
+<b>2002</b>—Subsecs. (d), (e). Pub. L. 107–188 added subsecs. (d) and (e).
 
 #### Effective Date of 2002 Amendment
 

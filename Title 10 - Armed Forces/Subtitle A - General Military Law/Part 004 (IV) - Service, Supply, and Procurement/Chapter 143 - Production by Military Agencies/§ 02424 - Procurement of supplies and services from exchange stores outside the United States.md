@@ -20,15 +20,15 @@ Exception.—Paragraphs (1) and (2) of subsection (b) do not apply to contracts 
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–163 substituted “$100,000” for “$50,000”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–163 substituted “$100,000” for “$50,000”.
 
-1996—Subsec. (c). Pub. L. 104–106 inserted heading and substituted “particular beverage” for “particular drink” and “beverage was” for “drink was”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–106 inserted heading and substituted “particular beverage” for “particular drink” and “beverage was” for “drink was”.
 
-1994—Subsec. (c). Pub. L. 103–355 added subsec. (c).
+<b>1994</b>—Subsec. (c). Pub. L. 103–355 added subsec. (c).
 
 #### Effective Date of 1996 Amendment
 
-For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2302 of this title.
 
 #### Operation of Stars and Stripes Bookstores Overseas by Military Exchanges
 

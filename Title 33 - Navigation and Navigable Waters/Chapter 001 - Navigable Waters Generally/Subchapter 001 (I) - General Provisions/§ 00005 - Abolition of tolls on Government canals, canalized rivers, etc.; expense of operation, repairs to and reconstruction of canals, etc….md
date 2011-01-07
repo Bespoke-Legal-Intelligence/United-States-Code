@@ -30,11 +30,11 @@ It was amended by act March 3, 1909, to read substantially as set forth above.
 
 #### Amendments
 
-2003—Subsec. (b)(3). Pub. L. 108–176 added par. (3).
+<b>2003</b>—Subsec. (b)(3). Pub. L. 108–176 added par. (3).
 
-2002—Pub. L. 107–295 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>2002</b>—Pub. L. 107–295 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1954—Act Aug. 30, 1954, repealed last proviso requiring that an itemized statement of expenses incurred in operating, maintaining, keeping in repair, and reconstructing locks, canals, etc., other than the Panama Canal, as provided in this section, should accompany the annual report of the Chief of Engineers.
+<b>1954</b>—Act Aug. 30, 1954, repealed last proviso requiring that an itemized statement of expenses incurred in operating, maintaining, keeping in repair, and reconstructing locks, canals, etc., other than the Panama Canal, as provided in this section, should accompany the annual report of the Chief of Engineers.
 
 #### Change of Name
 

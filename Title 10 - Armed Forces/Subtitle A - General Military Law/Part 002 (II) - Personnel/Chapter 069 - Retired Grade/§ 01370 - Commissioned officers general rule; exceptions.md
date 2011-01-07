@@ -4,7 +4,7 @@
 
 Rule for Retirement in Highest Grade Held Satisfactorily.—(1) Unless entitled to a higher retired grade under some other provision of law, a commissioned officer (other than a commissioned warrant officer) of the Army, Navy, Air Force, or Marine Corps who retires under any provision of law other than chapter 61 or chapter 1223 of this title shall, except as provided in paragraph (2), be retired in the highest grade in which he served on active duty satisfactorily, as determined by the Secretary of the military department concerned, for not less than six months.
 
-(2)(A) In order to be eligible for voluntary retirement under any provision of this title in a grade above major or lieutenant commander, a commissioned officer of the Army, Navy, Air Force, or Marine Corps must have served on active duty in that grade for not less than three years, except that the Secretary of Defense may authorize the Secretary of a military department to reduce such period to a period not less than two years.
+(2)(A) In order to be eligible for voluntary retirement under any provision of this title in a grade above major or lieutenant commander, a commissioned officer of the Army, Navy, AirForce, or Marine Corps must have served on active duty in that grade for not less than three years, except that the Secretary of Defense may authorize the Secretary of a military department to reduce such period to a period not less than two years.
 
 (B) In the case of an officer to be retired in a general or flag officer grade, authority provided by the Secretary of Defense to the Secretary of a military department under subparagraph (A) may be exercised with respect to that officer only if approved by the Secretary of Defense or another civilian official in the Office of the Secretary of Defense appointed by the President, by and with the advice and consent of the Senate.
 
@@ -64,7 +64,7 @@ Reserve Officers.—(1) Unless entitled to a higher grade, or to credit for sati
 
 (F) A person covered by subparagraph (A) who has completed at least six months of satisfactory service in a grade above colonel or (in the case of the Navy) captain and, while serving in an active status in such grade, is involuntarily transferred (other than for cause) from active status may be credited with satisfactory service in the grade in which serving at the time of such transfer, notwithstanding failure of the person to complete three years of service in that grade.
 
-(4) A person whose length of service in the highest grade held does not meet the service in grade requirements specified in this subsection shall be credited with satisfactory service in thenext lower grade in which that person served satisfactorily (as determined by the Secretary of the military department concerned) for not less than six months.
+(4) A person whose length of service in the highest grade held does not meet the service in grade requirements specified in this subsection shall be credited with satisfactory service in the next lower grade in which that person served satisfactorily (as determined by the Secretary of the military department concerned) for not less than six months.
 
 (5)(A) The Secretary of Defense may authorize the Secretary of a military department to reduce the 3-year period required by paragraph (3)(A) to a period not less than two years.
 
@@ -78,7 +78,7 @@ Reserve Officers.—(1) Unless entitled to a higher grade, or to credit for sati
 
 Advance Notice to Congressional Committees.—(1) In the case of an officer to be retired in a grade that is a general or flag officer grade who is eligible to retire in that grade only by reason of an exercise of authority under paragraph (2) of subsection (a) to reduce the three-year service-in-grade requirement otherwise applicable under that paragraph, the Secretary of Defense, before the officer is retired in that grade, shall notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of the exercise of authority under that paragraph with respect to that officer.
 
-(2) In the case of a person to be credited under subsection (d) with satisfactory service in a grade that is a general or flag officer grade who is eligible to be credited with such service in that grade only by reason of an exercise of authority under paragraph (5) of that subsection to reduce the three-year service-in-grade requirement otherwise applicable under paragraph (3)(A) of that subsection, the Secretary of Defense, before the person is credited with such satisfactory service in that grade, shall notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of the exercise of authority under paragraph (5) of that subsection with respect to that officer.
+(2) In the case of a person to be credited under subsection (d) with satisfactory service in a grade that is a general or flag officer grade who is eligible to be credited with such service in that grade only by reason of an exercise of authority under paragraph (5) of that subsection to reduce the three-year service-in-grade requirement otherwise applicable under paragraph (3)(A) of that subsection, the Secretary of Defense, before the person is credited with suchsatisfactory service in that grade, shall notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of the exercise of authority under paragraph (5) of that subsection with respect to that officer.
 
 (3) In the case of an officer to whom subsection (c) applies, the requirement for notification under paragraph (1) is satisfied if the notification is included in the certification submitted with respect to that officer under paragraph (1) of such subsection.
 
@@ -86,13 +86,13 @@ Advance Notice to Congressional Committees.—(1) In the case of an officer to b
 
 #### Amendments
 
-2006—Subsec. (a)(2)(F). Pub. L. 109–163 added subpar. (F).
+<b>2006</b>—Subsec. (a)(2)(F). Pub. L. 109–163 added subpar. (F).
 
-2003—Subsec. (a)(2)(A). Pub. L. 108–136, §506(a), struck out “in the case of retirements effective during the period beginning on October 1, 2002, and ending on December 31, 2003” after “two years”.
+<b>2003</b>—Subsec. (a)(2)(A). Pub. L. 108–136, §506(a), struck out “in the case of retirements effective during the period beginning on October 1, 2002, and ending on December 31, 2003” after “two years”.
 
 Subsec. (d)(5)(A). Pub. L. 108–136, §506(b), substituted “two years” for “2 years in the case of transfers to the Retired Reserve and discharges of retirement-qualified officers effective during the period beginning on October 1, 2002, and ending on December 31, 2003”.
 
-2002—Subsec. (a)(2)(A). Pub. L. 107–314, §505(a)(1), substituted “during the period beginning on October 1, 2002, and ending on December 31, 2003” for “during the period beginning on October 1, 1990, and ending on December 31, 2001”.
+<b>2002</b>—Subsec. (a)(2)(A). Pub. L. 107–314, §505(a)(1), substituted “during the period beginning on October 1, 2002, and ending on December 31, 2003” for “during the period beginning on October 1, 1990, and ending on December 31, 2001”.
 
 Subsec. (a)(2)(B) to (E). Pub. L. 107–314, §505(a)(2), (3), added subpars. (B) and (C) and redesignated former subpars. (B) and (C) as (D) and (E), respectively.
 
@@ -100,19 +100,19 @@ Subsec. (d)(5), (6). Pub. L. 107–314, §505(b), designated first sentence as s
 
 Subsec. (e). Pub. L. 107–314, §505(c), added subsec. (e).
 
-2001—Subsec. (c)(3). Pub. L. 107–107, §502, added par. (3).
+<b>2001</b>—Subsec. (c)(3). Pub. L. 107–107, §502, added par. (3).
 
 Subsec. (d)(3)(B). Pub. L. 107–107, §514, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “A person covered by subparagraph (A) who has completed at least six months of satisfactory service in grade and is transferred from an active status or discharged as a reserve commissioned officer solely due to the requirements of a nondiscretionary provision of law requiring that transfer or discharge due to the person's age or years of service may be credited with satisfactory service in the grade in which serving at the time of such transfer or discharge, notwithstanding failure of the person to complete three years of service in that grade.”
 
-2000—Subsecs. (a)(2)(A), (d)(5). Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001”.
+<b>2000</b>—Subsecs. (a)(2)(A), (d)(5). Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001”.
 
-1999—Subsec. (d)(1). Pub. L. 106–65, §1066(a)(9)(A), substituted “chapter 1223” for “chapter 1225”.
+<b>1999</b>—Subsec. (d)(1). Pub. L. 106–65, §1066(a)(9)(A), substituted “chapter 1223” for “chapter 1225”.
 
 Subsec. (d)(3)(F). Pub. L. 106–65, §1066(b)(3), made technical amendment to Pub. L. 105–261, §513(a). See 1998 Amendment note below.
 
 Subsec. (d)(5). Pub. L. 106–65, §1066(a)(9)(B), substituted “October 17, 1998,” for “the date of the enactment of this paragraph”.
 
-1998—Subsec. (a)(2)(A). Pub. L. 105–261, §561(d), substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
+<b>1998</b>—Subsec. (a)(2)(A). Pub. L. 105–261, §561(d), substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
 
 Subsec. (d)(3)(E). Pub. L. 105–261, §512(a), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “To the extent authorized by the Secretary of the military department concerned, a person who, after having been extended temporary Federal recognition as a reserve officer of the Army National Guard in a particular grade under section 308 of title 32 or temporary Federal recognition as a reserve officer of the Air National Guard in a particular grade under such section, served in a position for which that grade is the minimum authorized grade may be credited for purposes of subparagraph (A) as having served in that grade for the period for which the person served in that position while extended the temporary Federal recognition, but only if the person was subsequently extended permanent Federal recognition as a reserve officer in that grade and also served in that position after being extended the permanent Federal recognition.”
 
@@ -120,7 +120,7 @@ Subsec. (d)(3)(F). Pub. L. 105–261, §513(a), as amended by Pub. L. 106–65, 
 
 Subsec. (d)(5). Pub. L. 105–261, §561(<i>o</i>), added par. (5).
 
-1996—Subsec. (a). Pub. L. 104–106, §502(g)(1), inserted heading.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106, §502(g)(1), inserted heading.
 
 Subsec. (a)(2)(A). Pub. L. 104–106, §502(a)(1), struck out “and below lieutenant general or vice admiral” after “commander”.
 
@@ -140,13 +140,13 @@ Subsec. (d)(3). Pub. L. 104–201, §544(a)(3), (4), redesignated subsec. (d)(2)
 
 Subsec. (d)(4). Pub. L. 104–201, §544(a)(1), redesignated par. (3) as (4).
 
-1994—Subsec. (a)(1). Pub. L. 103–337, §1671(c)(7)(B), substituted “chapter 1223” for “chapter 67”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–337, §1671(c)(7)(B), substituted “chapter 1223” for “chapter 67”.
 
 Subsec. (d). Pub. L. 103–337, §1641, added subsec. (d).
 
-1993—Subsec. (a)(2)(A). Pub. L. 103–160 substituted “nine-year period” for “five-year period”.
+<b>1993</b>—Subsec. (a)(2)(A). Pub. L. 103–160 substituted “nine-year period” for “five-year period”.
 
-1990—Subsec. (a)(2). Pub. L. 101–510 inserted “(A)” after “(2)”, inserted before period at end of first sentence “, except that the Secretary of Defense may authorize the Secretary of a military department to reduce such period to a period not less than two years in the case of retirements effective during the five-year period beginning on October 1, 1990”, designated second and third sentences as subpar. (B), substituted “subparagraph (A)” for “the preceding sentence”, and added subpar. (C).
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–510 inserted “(A)” after “(2)”, inserted before period at end of first sentence “, except that the Secretary of Defense may authorize the Secretary of a military department to reduce such period to a period not less than two years in the case of retirements effective during the five-year period beginning on October 1, 1990”, designated second and third sentences as subpar. (B), substituted “subparagraph (A)” for “the preceding sentence”, and added subpar. (C).
 
 #### Effective Date of 1999 Amendment
 

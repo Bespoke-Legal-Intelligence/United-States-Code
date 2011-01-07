@@ -50,12 +50,6 @@ For purposes of this section, an amount recovered under a bail bond shall be dee
 
 (June 17, 1930, ch. 497, title IV, §619, 46 Stat. 758; Aug. 5, 1935, ch. 438, title III, §305, 49 Stat. 527; Pub. L. 98–473, title II, §§319, 321, Oct. 12, 1984, 98 Stat. 2056; Pub. L. 98–573, title II, §213(a)(15), Oct. 30, 1984, 98 Stat. 2988; Pub. L. 99–570, title III, §3125, Oct. 27, 1986, 100 Stat. 3207–88.)
 
-#### References in Text
-
-The customs laws, referred to in subsecs. (a)(1)(A), (B)(ii), and (b)(1)(A), are classified generally to this title.
-
-The navigation laws, referred to in subsecs. (a)(1)(A), (B)(ii), and (b)(1)(A), are classified generally to Title 33, Navigation and Navigable Waters.
-
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §619, 42 Stat. 988. That section was superseded by section 619 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
@@ -72,9 +66,9 @@ An appropriation for compensation in lieu of moieties was made by act Mar. 2, 19
 
 #### Amendments
 
-1986—Pub. L. 99–570 amended section generally. Prior to amendment, section read as follows: “Any person not an officer of the United States who detects and seizes any vessel, vehicle, aircraft, merchandise, or baggage subject to seizure and forfeiture under the customs laws or the navigation laws, and who reports the same to an officer of the customs, or who furnishes to a United States attorney, to the Secretary of the Treasury, or to any customs officer original information concerning any fraud upon the customs revenue, or a violation of the customs laws or the navigationlaws, perpetrated or contemplated, which detection and seizure or information leads to a recovery of any duties withheld, or of any fine, penalty, or forfeiture incurred, may be awarded and paid by the Secretary of the Treasury a compensation of 25 per centum of the net amount recovered, but not to exceed $250,000 in any case, which shall be paid out of any appropriations available for the collection of the revenue from customs. For the purposes of this section an amount recovered under a bail bond shall be deemed a recovery of a fine incurred. If any vessel, vehicle, aircraft, merchandise, or baggage is forfeited to the United States, and is thereafter, in lieu of sale, destroyed under the customs or navigation laws or delivered to any governmental agency for official use, compensation of 25 per centum of the appraised value thereof may be awarded and paid by the Secretary of the Treasury under the provisions of this section, but not to exceed $250,000 in any case. In no event shall the Secretary delegate the authority to pay an award under this section in excess of $10,000 to an official below the level of the Commissioner of Customs.”
+<b>1986</b>—Pub. L. 99–570 amended section generally. Prior to amendment, section read as follows: “Any person not an officer of the United States who detects and seizes any vessel, vehicle, aircraft, merchandise, or baggage subject to seizure and forfeiture under the customs laws or the navigation laws, and who reports the same to an officer of the customs, or who furnishes to a United States attorney, to the Secretary of the Treasury, or to any customs officer original information concerning any fraud upon the customs revenue, or a violation of the customs laws or the navigation laws, perpetrated or contemplated, which detection and seizure or information leads to a recovery of any duties withheld, or of any fine, penalty, or forfeiture incurred, may be awarded and paid by the Secretary of the Treasury a compensation of 25 per centum of the net amount recovered, but not to exceed $250,000 in any case, which shall be paid out of any appropriations available for the collection of the revenue from customs. For the purposes of this section an amount recovered under a bail bond shall be deemed a recovery of a fine incurred. If any vessel, vehicle, aircraft, merchandise, or baggage is forfeited to the United States, and is thereafter, in lieu of sale, destroyed under the customs or navigation laws or delivered to any governmental agency for official use, compensation of 25 per centum of the appraised value thereof may be awarded and paid by the Secretary of the Treasury under the provisions of this section, but not to exceed $250,000 in any case. In no event shall the Secretary delegate the authority to pay an award under this section in excess of $10,000 to an official below the level of the Commissioner of Customs.”
 
-1984—Pub. L. 98–573, §213(a)(15)(A), and Pub. L. 98–473, §321, inserted reference to aircraft in two places.
+<b>1984</b>—Pub. L. 98–573, §213(a)(15)(A), and Pub. L. 98–473, §321, inserted reference to aircraft in two places.
 
 Pub. L. 98–573, §213(a)(15)(B), substituted “$250,000” for “$50,000” in two places.
 
@@ -82,7 +76,7 @@ Pub. L. 98–473, §319(a), substituted “$150,000” for “$50,000”.
 
 Pub. L. 98–473, §319(b), inserted “In no event shall the Secretary delegate the authority to pay an award under this section in excess of $10,000 to an official below the level of the Commissioner of Customs.”
 
-1935—Act Aug. 5, 1935, inserted “or the navigation laws” after “customs laws”, and provisions authorizing award of compensation of 25 per centum of the appraised value, but not to exceed $50,000 in any case.
+<b>1935</b>—Act Aug. 5, 1935, inserted “or the navigation laws” after “customs laws”, and provisions authorizing award of compensation of 25 per centum of the appraised value, but not to exceed $50,000 in any case.
 
 #### Effective Date of 1984 Amendment
 

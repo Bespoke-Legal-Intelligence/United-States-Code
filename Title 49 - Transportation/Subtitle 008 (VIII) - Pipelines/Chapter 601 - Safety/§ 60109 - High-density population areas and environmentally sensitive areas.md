@@ -22,7 +22,7 @@ Areas To Be Included as Unusually Sensitive.—When describing areas that are un
 
 &emsp;(1) locations near pipeline rights-of-way that are critical to drinking water, including intake locations for community water systems and critical sole source aquifer protection areas; and
 
-&emsp;(2) locations near pipeline rights-of-way that have been identified as critical wetlands,riverine or estuarine systems, national parks, wilderness areas, wildlife preservation areas or refuges, wild and scenic rivers, or critical habitat areas for threatened and endangered species.
+&emsp;(2) locations near pipeline rights-of-way that have been identified as critical wetlands, riverine or estuarine systems, national parks, wilderness areas, wildlife preservation areas or refuges, wild and scenic rivers, or critical habitat areas for threatened and endangered species.
 
 (c)
 
@@ -250,17 +250,17 @@ The Electronic Signatures in Global and National Commerce Act, referred to in su
 
 #### Amendments
 
-2006—Subsec. (c)(9)(A)(iii). Pub. L. 109–468, §14, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the Secretary determines that a risk analysis or integrity management program does not comply with the requirements of this subsection or regulations issued as described in paragraph (2), or is inadequate for the safe operation of a pipeline facility, the Secretary shall act under section 60108(a)(2) to require the operator to revise the risk analysis or integrity management program.”
+<b>2006</b>—Subsec. (c)(9)(A)(iii). Pub. L. 109–468, §14, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the Secretary determines that a risk analysis or integrity management program does not comply with the requirements of this subsection or regulations issued as described in paragraph (2), or is inadequate for the safe operation of a pipeline facility, the Secretary shall act under section 60108(a)(2) to require the operator to revise the risk analysis or integrity management program.”
 
 Subsec. (e). Pub. L. 109–468, §9, added subsec. (e).
 
 Subsec. (f). Pub. L. 109–468, §16, added subsec. (f).
 
-2002—Subsec. (c). Pub. L. 107–355, §14(a), added subsec. (c).
+<b>2002</b>—Subsec. (c). Pub. L. 107–355, §14(a), added subsec. (c).
 
 Subsec. (d). Pub. L. 107–355, §14(b), added subsec. (d).
 
-1996—Subsec. (a). Pub. L. 104–304, §20(i), substituted “standards” for “regulations” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–304, §20(i), substituted “standards” for “regulations” in introductory provisions.
 
 Subsec. (a)(1)(B)(i). Pub. L. 104–304, §7(a), substituted “waters where a substantial likelihood of commercial navigation exists” for “a navigable waterway (as the Secretary defines by regulation)”.
 
@@ -274,7 +274,7 @@ Subsec. (b). Pub. L. 104–304, §7(b), reenacted heading without change and ame
 
 &emsp;“(4) river deltas and other areas subject to soil erosion or subsidence from flooding or other water action where a hazardous liquid pipeline facility is likely to become exposed or undermined.”
 
-1994—Subsec. (a)(2). Pub. L. 103–429 substituted “section 60102(e)” for “section 60102(c)”.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–429 substituted “section 60102(e)” for “section 60102(c)”.
 
 #### Effective Date of 1994 Amendment
 

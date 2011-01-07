@@ -20,7 +20,7 @@ The Administrator may authorize the head of each nuclear weapons production faci
 
 #### (d) Report
 
-The Administrator for Nuclear Security shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, not later than September 15, 2001, a report describing, for each nuclear weapons production facility, each project or activity for which funds were obligated under the program, the criteria used in the selection of each such project or activity, the potential benefits of each such project or activity, and the Administrator's recommendation concerning whether the program should be continued.
+The Administrator for Nuclear Security shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, not later than September 15, 2001, a report describing, for each nuclear weapons production facility, each project or activity for which funds were obligated under the program, the criteria used in the selection of each such project or activity,the potential benefits of each such project or activity, and the Administrator's recommendation concerning whether the program should be continued.
 
 #### (e) Definition
 

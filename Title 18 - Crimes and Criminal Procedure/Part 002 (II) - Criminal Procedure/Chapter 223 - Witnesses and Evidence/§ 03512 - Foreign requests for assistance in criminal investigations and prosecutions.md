@@ -70,7 +70,7 @@ Definitions.—As used in this section, the following definitions shall apply:
 
 &emsp;(1)
 
-Federal judge.—The terms “Federal judge” and “attorney for the Government”have the meaning given such terms for the purposes of the Federal Rules of Criminal Procedure.
+Federal judge.—The terms “Federal judge” and “attorney for the Government” have the meaning given such terms for the purposes of the Federal Rules of Criminal Procedure.
 
 &emsp;(2)
 

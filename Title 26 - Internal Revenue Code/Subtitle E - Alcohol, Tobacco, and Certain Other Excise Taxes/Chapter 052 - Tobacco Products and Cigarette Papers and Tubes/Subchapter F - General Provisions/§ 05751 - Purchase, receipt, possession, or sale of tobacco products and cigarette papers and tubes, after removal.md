@@ -22,9 +22,9 @@ Any person who possesses tobacco products or cigarette papers or tubes in violat
 
 #### Amendments
 
-1976—Subsec. (a)(2), (3). Pub. L. 94–455 substituted “and notices” for “notices, and stamps”.
+<b>1976</b>—Subsec. (a)(2), (3). Pub. L. 94–455 substituted “and notices” for “notices, and stamps”.
 
-1958—Pub. L. 85–859 substituted “tobacco products and cigarette papers and tubes, after removal” for “articles, after removal, not exempt from tax” in section catchline.
+<b>1958</b>—Pub. L. 85–859 substituted “tobacco products and cigarette papers and tubes, after removal” for “articles, after removal, not exempt from tax” in section catchline.
 
 Subsec. (a) amended generally by Pub. L. 85–859, which included within the restrictions, purchase, receipt, possession, offer for sale, or sale of other disposition of tobacco products or cigarette papers or tubes, after removal, upon which the tax has not been paid or determined, or which after removal without payment of tax have been diverted from the applicable purpose or use specified in section 5704, and to provide that par. (3) shall not prevent the delivery of tobacco products or cigarette papers or tubes directly to consumers from proper packages, nor apply to such articles when so delivered.
 

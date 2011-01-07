@@ -12,5 +12,5 @@
 
 #### Amendments
 
-1985—Subsec. (b). Pub. L. 99–151, in amending subsec. (b) generally, inserted provisions relating to final partial judgments and compromise settlements, substituted reference to actions under section 79c of this title for reference to condemnation actions, and deleted reference to section 2517 of title 28.
+<b>1985</b>—Subsec. (b). Pub. L. 99–151, in amending subsec. (b) generally, inserted provisions relating to final partial judgments and compromise settlements, substituted reference to actions under section 79c of this title for reference to condemnation actions, and deleted reference to section 2517 of title 28.
 

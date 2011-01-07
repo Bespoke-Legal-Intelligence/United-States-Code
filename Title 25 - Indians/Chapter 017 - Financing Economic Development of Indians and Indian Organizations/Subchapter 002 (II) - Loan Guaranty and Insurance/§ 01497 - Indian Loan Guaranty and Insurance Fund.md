@@ -24,11 +24,11 @@ There are authorized to be appropriated for each fiscal year beginning in fiscal
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–221 substituted “$1,500,000,000” for “$500,000,000”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–221 substituted “$1,500,000,000” for “$500,000,000”.
 
-1998—Subsec. (f). Pub. L. 105–362 struck out subsec. (f) which read as follows: “If the Secretary determines that the amount in the fund is not sufficient to maintain an adequate level of reserves necessary to meet the responsibilities of the fund in connection with losses on loans or surety bonds guaranteed or insured under this subchapter, the Secretary shall promptly submit a report notifying Congress of the deficiencies in the fund.”
+<b>1998</b>—Subsec. (f). Pub. L. 105–362 struck out subsec. (f) which read as follows: “If the Secretary determines that the amount in the fund is not sufficient to maintain an adequate level of reserves necessary to meet the responsibilities of the fund in connection withlosses on loans or surety bonds guaranteed or insured under this subchapter, the Secretary shall promptly submit a report notifying Congress of the deficiencies in the fund.”
 
-1988—Subsec. (b). Pub. L. 100–442, §§3, 5(d), inserted “or surety bonds” after “loans” in two places and substituted “$500,000,000” for “$200,000,000”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–442, §§3, 5(d), inserted “or surety bonds” after “loans” in two places and substituted “$500,000,000” for “$200,000,000”.
 
 Subsecs. (c), (d). Pub. L. 100–442, §5(d), inserted “or surety bonds” after “loans” wherever appearing.
 
@@ -36,7 +36,7 @@ Subsec. (e). Pub. L. 100–442, §§4(a), 5(d), inserted “or surety bonds” a
 
 Subsec. (f). Pub. L. 100–442, §4(b), added subsec. (f).
 
-1984—Subsec. (e). Pub. L. 98–449 added subsec. (e).
+<b>1984</b>—Subsec. (e). Pub. L. 98–449 added subsec. (e).
 
 #### Limitation on New Credit Authority
 

@@ -32,5 +32,5 @@ Section 3308 requires the Secretary to carry out additional inspections as might
 
 #### Amendments
 
-1996—Pub. L. 104–324 inserted “or have examined” after “examine” in introductory provisions.
+<b>1996</b>—Pub. L. 104–324 inserted “or have examined” after “examine” in introductory provisions.
 

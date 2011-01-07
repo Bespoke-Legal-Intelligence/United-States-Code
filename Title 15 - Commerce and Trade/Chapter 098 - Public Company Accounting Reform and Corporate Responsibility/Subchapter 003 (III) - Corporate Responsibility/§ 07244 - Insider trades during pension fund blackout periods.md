@@ -24,11 +24,11 @@
 
 &emsp;For purposes of this subsection, the term “blackout period”, with respect to the equity securities of any issuer—
 
-&emsp;&emsp;(A) means any period of more than 3 consecutive business days during which the ability of not fewer than 50 percent of the participants or beneficiaries under all individual account plans maintained by the issuer to purchase, sell, or otherwise acquire or transfer an interest in any equity of such issuer held in such an individual account plan is temporarily suspended by the issuer or by a fiduciary of the plan; and
+&emsp;&emsp;(A) means any period of more than 3 consecutive business days during which theability of not fewer than 50 percent of the participants or beneficiaries under all individual account plans maintained by the issuer to purchase, sell, or otherwise acquire or transfer an interest in any equity of such issuer held in such an individual account plan is temporarily suspended by the issuer or by a fiduciary of the plan; and
 
 &emsp;&emsp;(B) does not include, under regulations which shall be prescribed by the Commission—
 
-&emsp;&emsp;&emsp;(i) a regularly scheduled period in which the participants and beneficiaries may notpurchase, sell, or otherwise acquire or transfer an interest in any equity of such issuer, if such period is—
+&emsp;&emsp;&emsp;(i) a regularly scheduled period in which the participants and beneficiaries may not purchase, sell, or otherwise acquire or transfer an interest in any equity of such issuer, if such period is—
 
 &emsp;&emsp;&emsp;&emsp;(I) incorporated into the individual account plan; and
 

@@ -26,9 +26,9 @@
 
 #### Amendments
 
-2006—Subsec. (b)(1) to (4). Pub. L. 109–280 redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: “the plan is not a plan which primarily covers employees in the building and construction industry;”.
+<b>2006</b>—Subsec. (b)(1) to (4). Pub. L. 109–280 redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: “the plan is not a plan which primarily covers employees in the building and construction industry;”.
 
-1989—Subsec. (b)(3). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1989</b>—Subsec. (b)(3). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 #### Effective Date of 2006 Amendment
 

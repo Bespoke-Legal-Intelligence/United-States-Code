@@ -64,7 +64,7 @@ The date of the enactment of the Postal Savings System Statute of Limitations Ac
 
 #### Amendments
 
-1984—Subsec. (c)(1). Pub. L. 98–359 substituted provision authorizing the balance to be held by the Secretary for provision authorizing the balance to be held by the Secretary in perpetuity.
+<b>1984</b>—Subsec. (c)(1). Pub. L. 98–359 substituted provision authorizing the balance to be held by the Secretary for provision authorizing the balance to be held by the Secretary in perpetuity.
 
 Subsec. (c)(2). Pub. L. 98–359 substituted reference to par. (3) of this subsection for reference to par. (1) of this subsection.
 

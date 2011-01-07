@@ -6,7 +6,7 @@
 
 (c) Fresh or preserved fruits, milk, butter, and eggs necessary for the proper diet of the sick and injured in hospitals shall be provided under regulations prescribed by the Secretary of the Navy.
 
-(d) The Secretary of the Navy may increase the quantity of daily rations for members of thenaval service on a vessel or at a station that has an authorized complement of less than 150 members if the President determines that the vessel or station is operating under conditions that warrant an increase in rations.
+(d) The Secretary of the Navy may increase the quantity of daily rations for members of the naval service on a vessel or at a station that has an authorized complement of less than 150 members if the President determines that the vessel or station is operating under conditions that warrant an increase in rations.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 379; Pub. L. 101–510, div. A, title V, §557(a), Nov. 5, 1990, 104 Stat. 1570.)
 
@@ -40,7 +40,7 @@ In subsection (a) the words “issued to each person entitled thereto” are omi
 
 #### Amendments
 
-1990—Pub. L. 101–510 substituted “Rations” for “Navy ration: composition” in section catchline and amended text generally, substituting subsecs. (a) to (d) for former subsecs. (a) to (c) which specified the contents and quantities of the Navy ration in detail, authorized issuance of articles in addition to the authorized quantities, and provided for increases in the daily allowance of provisions on certain vessels or at certain stations.
+<b>1990</b>—Pub. L. 101–510 substituted “Rations” for “Navy ration: composition” in section catchline and amended text generally, substituting subsecs. (a) to (d) for former subsecs. (a) to (c) which specified the contents and quantities of the Navy ration in detail, authorized issuance of articles in addition to the authorized quantities, and provided for increases in the daily allowance of provisions on certain vessels or at certain stations.
 
 #### Delegation of Authority
 

@@ -114,7 +114,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(xiii) made in compliance with written agency procedures regarding an adjudication conducted by the agency under section 554 of title 5 or substantially similar provisions;
 
-&emsp;&emsp;&emsp;(xiv) a written comment filed in the course of a public proceeding or any other communication that is made on the record in a public proceeding;
+&emsp;&emsp;&emsp;(xiv) a written comment filed in the course of a public proceeding or any othercommunication that is made on the record in a public proceeding;
 
 &emsp;&emsp;&emsp;(xv) a petition for agency action made in writing and required to be a matter of public record pursuant to established agency procedures;
 
@@ -200,23 +200,23 @@ As used in this chapter:
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act” meaning Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, known as the Lobbying Disclosure Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act” meaning Pub. L. 104–65, Dec. 19, 1995, 109Stat. 691, known as the Lobbying Disclosure Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 Levels I, II, III, IV, and V of the Executive Schedule, referred to in par. (3)(D), are set out in sections 5312, 5313, 5314, 5315, and 5316, respectively, of Title 5, Government Organization and Employees.
 
 Section 109(13) of the Ethics in Government Act of 1978, referred to in par. (4)(D), is section 109(13) of Pub. L. 95–521, which is set out in the Appendix to Title 5.
 
-The Foreign Agents Registration Act of 1938, referred to in par. (8)(B)(iv), is act June 8, 1938, ch. 327, 52 Stat. 631, as amended, which is classified generally to subchapter II (§611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 22 and Tables.
+The Foreign Agents Registration Act of 1938, referred to in par. (8)(B)(iv), is act June 8, 1938, ch. 327, 52 Stat. 631, which is classified generally to subchapter II (§611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 22 and Tables.
 
-The Federal Advisory Committee Act, referred to in par. (8)(B)(vi), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in par. (8)(B)(vi), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Whistleblower Protection Act of 1989, referred to in par. (8)(B)(xvii), is Pub. L. 101–12, Apr. 10, 1989, 103 Stat. 16, as amended, which enacted subchapters II \[5 U.S.C. 1211 et seq.\] and III \[5 U.S.C. 1221 et seq.\] of chapter 12 and section 3352 of Title 5, Government Organization and Employees, amended sections 1201 to 1206, 1209, 1211, 2302, 2303, 3393, 7502, 7512, 7521, 7542, 7701, and 7703 of Title 5 and section 4139 of Title 22, Foreign Relations and Intercourse, repealed sections 1207 and 1208 of Title 5, and enacted provisions set out as notes under sections 1201, 1211, and 5509 of Title 5. For complete classification of this Act to the Code, see Short Title of 1989 Amendment note set out under section 1201 of Title 5 and Tables.
+The Whistleblower Protection Act of 1989, referred to in par. (8)(B)(xvii), is Pub. L. 101–12, Apr. 10, 1989, 103 Stat. 16, which enacted subchapters II \[5 U.S.C. 1211 et seq.\] and III \[5 U.S.C. 1221 et seq.\] of chapter 12 and section 3352 of Title 5, Government Organization and Employees, amended sections 1201 to 1206, 1209, 1211, 2302, 2303, 3393, 7502, 7512, 7521, 7542, 7701, and 7703 of Title 5 and section 4139 of Title 22, Foreign Relations and Intercourse, repealed sections 1207 and 1208 of Title 5, and enacted provisions set out as notes under sections 1201, 1211, and 5509 of Title 5. For complete classification of this Act to the Code, see Short Title of 1989 Amendment note set out under section 1201 of Title 5 and Tables.
 
-The Inspector General Act of 1978, referred to in par. (8)(B)(xvii), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5.
+The Inspector General Act of 1978, referred to in par. (8)(B)(xvii), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5.
 
-The Securities Exchange Act, referred to in par. (8)(B)(xix), probably means the Securities Exchange Act of 1934, act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified generally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act, referred to in par. (8)(B)(xix), probably means the Securities Exchange Act of 1934, act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-The Commodity Exchange Act, referred to in par. (8)(B)(xix), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in par. (8)(B)(xix), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 #### Amendments
 

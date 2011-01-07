@@ -40,7 +40,7 @@ Defense Contractor Applications.—(1) A defense contractor desiring to enter in
 
 &emsp;(D) A commitment to help fund the costs associated with the placement program by paying 50 percent of the stipend provided under subsection (g) to an employee or former employee of the contractor selected to receive assistance under this section.
 
-(2) Once a cooperative agreement is entered into under subsection (a) between the Secretary and the defense contractor, the contractor shall publicize the program and distribute applications to prospective participants, and assist the prospective participants with the State screening process.
+(2) Once a cooperative agreement is entered into under subsection (a) between the Secretary and the defense contractor, the contractor shall publicize the program and distribute applications to prospective participants, and assist theprospective participants with the State screening process.
 
 (d)
 
@@ -106,17 +106,17 @@ The Higher Education Act of 1965, referred to in subsec. (g)(2), is Pub. L. 89�
 
 #### Amendments
 
-2000—Subsec. (f)(2). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(14)(A)\], inserted “as in effect on October 4, 1999,” after “of this title,” in subpars. (A) and (B).
+<b>2000</b>—Subsec. (f)(2). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(14)(A)\], inserted “as in effect on October 4, 1999,” after “of this title,” in subpars. (A) and (B).
 
 Subsec. (h). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(14)(B)\], inserted “, as in effect on October 4, 1999,” after “of this title”.
 
-1996—Subsec. (a)(2)(A). Pub. L. 104–106 substituted “6301” for “2701”.
+<b>1996</b>—Subsec. (a)(2)(A). Pub. L. 104–106 substituted “6301” for “2701”.
 
 Subsec. (f)(2)(A), (B). Pub. L. 104–201 substituted “two school years” for “five school years”.
 
-1994—Subsec. (a)(2)(A). Pub. L. 103–382 struck out “chapter 1 of” after “grant under”.
+<b>1994</b>—Subsec. (a)(2)(A). Pub. L. 103–382 struck out “chapter 1 of” after “grant under”.
 
-1993—Pub. L. 103–35, §201(b)(1)(A), renumbered section 2410c of this title as this section.
+<b>1993</b>—Pub. L. 103–35, §201(b)(1)(A), renumbered section 2410c of this title as this section.
 
 Subsec. (f)(2)(A), (B). Pub. L. 103–160 substituted “five school years” for “two school years”.
 

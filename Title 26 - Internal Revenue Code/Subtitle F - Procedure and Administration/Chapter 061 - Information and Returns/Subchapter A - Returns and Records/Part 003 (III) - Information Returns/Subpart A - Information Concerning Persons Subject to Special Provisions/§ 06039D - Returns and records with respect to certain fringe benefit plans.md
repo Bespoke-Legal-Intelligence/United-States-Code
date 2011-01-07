@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Every employer maintaining a specified fringe benefit plan during any year beginning after December 31, 1984, for any portion of which the applicable exclusion applies, shall file a return (at such time and in such manner as the Secretary shall by regulations prescribe) with respect to such plan showing for such year—
+Every employer maintaining a specified fringe benefit plan during any year beginning after December 31, 1984, for any portion of which the applicable exclusion applies, shall file a return (atsuch time and in such manner as the Secretary shall by regulations prescribe) with respect to such plan showing for such year—
 
 &emsp;(1) the number of employees of the employer,
 
@@ -54,17 +54,17 @@ Another section 6039D, added Pub. L. 98–612, §1(b)(1), Oct. 31, 1984, 98 Stat
 
 #### Amendments
 
-1997—Subsec. (d)(1). Pub. L. 105–34 substituted “129, or 137” for “or 129”.
+<b>1997</b>—Subsec. (d)(1). Pub. L. 105–34 substituted “129, or 137” for “or 129”.
 
-1990—Subsec. (d)(3). Pub. L. 101–508 substituted “the employer).” for “the employer)”.
+<b>1990</b>—Subsec. (d)(3). Pub. L. 101–508 substituted “the employer).” for “the employer)”.
 
-1988—Subsec. (c). Pub. L. 100–647, §1011B(a)(24), amended directory language of Pub. L. 99–514, §1151(h)(3), see 1986 Amendment note below.
+<b>1988</b>—Subsec. (c). Pub. L. 100–647, §1011B(a)(24), amended directory language of Pub. L. 99–514, §1151(h)(3), see 1986 Amendment note below.
 
 Subsec. (d). Pub. L. 100–647, §3021(a)(15)(A)(ii), inserted “and special rules” after “Definitions” in heading.
 
 Subsec. (d)(3). Pub. L. 100–647, §3021(a)(15)(A)(i), added par. (3).
 
-1986—Subsec. (a)(6). Pub. L. 99–514, §1151(h)(2), added par. (6).
+<b>1986</b>—Subsec. (a)(6). Pub. L. 99–514, §1151(h)(2), added par. (6).
 
 Subsec. (c). Pub. L. 99–514, §1151(h)(3), as amended by Pub. L. 100–647, §1011B(a)(24), inserted at end “The Secretary may require returns under this subsection only from a representative group of employers.”
 
@@ -74,7 +74,7 @@ Pub. L. 99–514, §1879(d)(1), in amending subsec. (d) generally, added subpars
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
 
 #### Effective Date of 1988 Amendment
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—(1) There are authorized to be appropriated to the Secretary of Transportationto carry out this part and to carry out responsibilities under chapter 51 as delegated or authorized by the Secretary—
+In General.—(1) There are authorized to be appropriated to the Secretary of Transportation to carry out this part and to carry out responsibilities under chapter 51 as delegated or authorized by the Secretary—
 
 &emsp;(A) $225,000,000 for fiscal year 2009;
 
@@ -86,9 +86,9 @@ Section 403 of the Rail Safety Improvement Act of 2008, referred to in subsec. (
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–432 amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized appropriations for fiscal years 1993 through 1998.
+<b>2008</b>—Subsec. (a). Pub. L. 110–432 amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized appropriations for fiscal years 1993 through 1998.
 
-1994—Subsec. (a)(1)(C) to (F). Pub. L. 103–440, §202, added subpars. (C) to (F).
+<b>1994</b>—Subsec. (a)(1)(C) to (F). Pub. L. 103–440, §202, added subpars. (C) to (F).
 
 Subsec. (e). Pub. L. 103–440, §218, added subsec. (e).
 

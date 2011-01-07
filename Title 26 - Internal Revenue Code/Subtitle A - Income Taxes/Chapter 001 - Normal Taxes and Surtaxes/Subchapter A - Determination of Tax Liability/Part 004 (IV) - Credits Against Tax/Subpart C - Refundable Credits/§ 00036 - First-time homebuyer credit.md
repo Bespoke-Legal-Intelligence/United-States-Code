@@ -78,7 +78,7 @@ For purposes of this section—
 
 #### (B) Construction
 
-&emsp;&emsp;A residence which is constructed by the taxpayer shall be treated as purchased bythe taxpayer on the date the taxpayer first occupies such residence.
+&emsp;&emsp;A residence which is constructed by the taxpayer shall be treated as purchased by the taxpayer on the date the taxpayer first occupies such residence.
 
 #### (4) Purchase price
 
@@ -90,7 +90,7 @@ For purposes of this section—
 
 #### (6) Exception for long-time residents of same principal residence
 
-&emsp;In the case of an individual (and, if married, such individual's spouse) who has owned and used the same residence as such individual's principal residence for any 5-consecutive-year period during the 8-year period ending on the date of the purchase of a subsequent principal residence, such individual shall be treated as a first-time homebuyer for purposes of this section with respect to the purchase of such subsequent residence.
+&emsp;In the case of an individual (and, if married, such individual's spouse) who has owned andused the same residence as such individual's principal residence for any 5-consecutive-year period during the 8-year period ending on the date of the purchase of a subsequent principal residence, such individual shall be treated as a first-time homebuyer for purposes of this section with respect to the purchase of such subsequent residence.
 
 #### (d) Exceptions
 
@@ -200,7 +200,7 @@ In the case of a purchase of a principal residence after December 31, 2008, a ta
 
 #### (2) Exception in case of binding contract
 
-&emsp;In the case of any taxpayer who enters into a written binding contract before May 1, 2010, to close on the purchase of a principal residence before July 1, 2010, paragraph (1) shall be applied by substituting “July 1, 2010” for “May 1, 2010”.
+&emsp;In the case of any taxpayer who enters into a written binding contract before May 1, 2010, to close on the purchase of a principal residence before July 1, 2010, and who purchases such residence before October 1, 2010, paragraph (1) shall be applied by substituting “October 1, 2010” for “May 1, 2010”.
 
 #### (3) Special rule for individuals on qualified official extended duty outside the United States
 
@@ -208,9 +208,9 @@ In the case of a purchase of a principal residence after December 31, 2008, a ta
 
 &emsp;&emsp;(A) paragraphs (1) and (2) shall each be applied by substituting “May 1, 2011” for “May 1, 2010”, and
 
-&emsp;&emsp;(B) paragraph (2) shall be applied by substituting “July 1, 2011” for “July 1, 2010”.
+&emsp;&emsp;(B) paragraph (2) shall be applied by substituting “July 1, 2011” for “July 1, 2010”, and for “October 1, 2010”.
 
-(Added Pub. L. 110–289, div. C, title I, §3011(a), July 30, 2008, 122 Stat. 2888; amended Pub. L. 111–5, div. B, title I, §1006(a)–(c), (d)(2), (e), Feb. 17, 2009, 123 Stat. 316, 317; Pub. L. 111–92, §§11(a)–(g), 12(a)–(c), Nov. 6, 2009, 123 Stat. 2989–2992.)
+(Added Pub. L. 110–289, div. C, title I, §3011(a), July 30, 2008, 122 Stat. 2888; amended Pub. L. 111–5, div. B, title I, §1006(a)–(c), (d)(2), (e), Feb. 17, 2009, 123 Stat. 316, 317; Pub. L. 111–92, §§11(a)–(g), 12(a)–(c), Nov. 6, 2009, 123 Stat. 2989–2992; Pub. L. 111–198, §2(a), (b), July 2, 2010, 124 Stat. 1356.)
 
 #### Prior Provisions
 
@@ -220,7 +220,11 @@ Another prior section 36, acts Aug. 16, 1954, ch. 736, 68A Stat. 15; Oct. 4, 197
 
 #### Amendments
 
-2009—Subsec. (b)(1)(A). Pub. L. 111–5, §1006(b)(1), substituted “$8,000” for “$7,500”.
+<b>2010</b>—Subsec. (h)(2). Pub. L. 111–198, §2(a), substituted “and who purchases such residence before October 1, 2010, paragraph (1) shall be applied by substituting ‘October 1, 2010’ ” for “paragraph (1) shall be applied by substituting ‘July 1, 2010’ ”.
+
+Subsec. (h)(3)(B). Pub. L. 111–198, §2(b), inserted “, and for ‘October 1, 2010’ ” after “for ‘July 1, 2010’ ”.
+
+<b>2009</b>—Subsec. (b)(1)(A). Pub. L. 111–5, §1006(b)(1), substituted “$8,000” for “$7,500”.
 
 Subsec. (b)(1)(B). Pub. L. 111–5, §1006(b), substituted “$4,000” for “$3,750” and “$8,000” for “$7,500”.
 
@@ -265,6 +269,10 @@ Subsec. (h). Pub. L. 111–92, §11(a)(1), substituted “May 1, 2010” for “
 Pub. L. 111–5, §1006(a)(1), substituted “December 1, 2009” for “July 1, 2009”.
 
 Subsec. (h)(3). Pub. L. 111–92, §11(f), added par. (3).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–198, §2(c), July 2, 2010, 124 Stat. 1356, provided that: “The amendments made by this section \[amending this section\] shall apply to residences purchased after June 30, 2010.”
 
 #### Effective Date of 2009 Amendment
 

@@ -12,7 +12,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Amendments
 
-1938—Subsec. (b). Act May 31, 1938, inserted proviso relating to reports of positions of ships at sea.
+<b>1938</b>—Subsec. (b). Act May 31, 1938, inserted proviso relating to reports of positions of ships at sea.
 
 #### Telephone Rates for Members of Armed Forces Deployed Abroad
 
@@ -30,7 +30,7 @@ Factors To Consider.—In taking the action described in subsection (a), the Com
 
 &emsp;“(2) evaluate methods of reducing the rates imposed on such calls, including deployment of new technology such as voice over Internet protocol or other Internet protocol technology;
 
-&emsp;“(3) encourage telecommunications carriers (as defined in section 3(44) of the Communications Act of 1934 (47 U.S.C. 153(44))) to adopt flexible billing procedures and policies for Armed Forces personnel and their dependents for telephone calls to and from such Armed Forces personnel; and
+&emsp;“(3) encourage telecommunications carriers (as defined in section 3(44) of the Communications Act of 1934 (47 U.S.C. 153(44) \[now 153(51)\])) to adopt flexible billing procedures and policies for Armed Forces personnel and their dependents for telephone calls to and from such Armed Forces personnel; and
 
 &emsp;“(4) seek agreements with foreign governments to reduce international surcharges on such telephone calls.
 

@@ -52,7 +52,7 @@ Senior Executive Service, referred to in subsec. (d), see section 5382 of Title 
 
 #### Amendments
 
-1990—Subsec. (g). Pub. L. 101–627 substituted “December 31, 1991” for “October 1, 1990”.
+<b>1990</b>—Subsec. (g). Pub. L. 101–627 substituted “December 31, 1991” for “October 1, 1990”.
 
 #### Continuity of Council Functions, Contracts, and Personnel
 

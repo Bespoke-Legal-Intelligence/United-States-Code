@@ -1,6 +1,6 @@
 ### §301. Authorization of appropriations
 
-For the purpose of enabling each State, as far as practicable under the conditions in such State, to furnish financial assistance to aged needy individuals, there is hereby authorized tobe appropriated for each fiscal year a sum sufficient to carry out the purposes of this subchapter. The sums made available under this section shall be used for making payments to States which have submitted, and had approved by the Secretary of Health and Human Services (hereinafter referred to as the “Secretary”), State plans for old-age assistance.
+For the purpose of enabling each State, as far as practicable under the conditions in such State, to furnish financial assistance to aged needy individuals, there is hereby authorized to be appropriated for each fiscal year a sum sufficient to carry out the purposes of this subchapter. The sums made available under this section shall be used for making payments to States which have submitted, and had approved by the Secretary of Health and Human Services (hereinafter referred to as the “Secretary”), State plans for old-age assistance.
 
 (Aug. 14, 1935, ch. 531, title I, §1, 49 Stat. 620; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(a), 64 Stat. 558; Aug. 1, 1956, ch. 836, title III, §311(a), 70 Stat. 848; Pub. L. 86–778, title VI, §601(b), Sept. 13, 1960, 74 Stat. 987; Pub. L. 87–543, title I, §104(c)(1), July 25, 1962, 76 Stat. 185; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–35, title XXI, §2184(a)(2), Aug. 13, 1981, 95 Stat. 816.)
 
@@ -10,15 +10,15 @@ For the purpose of enabling each State, as far as practicable under the conditio
 
 #### Amendments
 
-1981—Pub. L. 97–35 substituted “purpose of enabling” for “purpose (a) of enabling”, struck out provisions designated as cls. (b) and (c) which authorized appropriations for the purpose of enabling each State to furnish medical assistance to aged individuals who are not recipients of old-age assistance but whose income and resources are insufficient to meet the cost of necessary medical care and of encouraging each State to furnish rehabilitation and other services to individuals to attain and retain capability for self-care, and struck out “, or for medical assistance for the aged, or for old-age assistance and medical assistance for the aged” after “plans for old-age assistance”.
+<b>1981</b>—Pub. L. 97–35 substituted “purpose of enabling” for “purpose (a) of enabling”, struck out provisions designated as cls. (b) and (c) which authorized appropriations for the purpose of enabling each State to furnish medical assistance to aged individuals who are not recipients of old-age assistance but whose income and resources are insufficient to meet the cost of necessary medical care and of encouraging each State to furnish rehabilitation and other services to individuals to attain and retain capability for self-care, and struck out “, or for medical assistance for the aged, or for old-age assistance and medical assistance for the aged” after “plans for old-age assistance”.
 
-1962—Pub. L. 87–543 amended first sentence generally, striking from cl. (a) provision relating to the purpose of encouraging each State, as far as practicable under the conditions in the State, to help aged needy individuals attain self-care, and adding cl. (c) incorporating the struck out provision.
+<b>1962</b>—Pub. L. 87–543 amended first sentence generally, striking from cl. (a) provision relating to the purpose of encouraging each State, as far as practicable under the conditions in the State, to help aged needy individuals attain self-care, and adding cl. (c) incorporating the struck out provision.
 
-1960—Pub. L. 86–778 amended section generally, authorizing appropriations for the purpose of enabling each State, as far as practicable under the conditions in such State, to furnish medical assistance on behalf of aged individuals who are not recipients of old-age assistance but whose income and resources are insufficient to meet the costs of necessary medical services.
+<b>1960</b>—Pub. L. 86–778 amended section generally, authorizing appropriations for the purpose of enabling each State, as far as practicable under the conditions in such State, to furnish medical assistance on behalf of aged individuals who are not recipients of old-age assistance but whose income and resources are insufficient to meet the costs of necessary medical services.
 
-1956—Act Aug. 1, 1956, struck out specific appropriation for fiscal year ending June 30, 1956, and inserted provisions relating to attainment of self-care by individuals.
+<b>1956</b>—Act Aug. 1, 1956, struck out specific appropriation for fiscal year ending June 30, 1956, and inserted provisions relating to attainment of self-care by individuals.
 
-1950—Act Aug. 28, 1950, §361(a), substituted “Federal Security Administrator (hereinafter referred to as the ‘Administrator’)” for “Social Security Board established by subchapter I of this chapter (hereinafter referred to as the ‘Board’)”.
+<b>1950</b>—Act Aug. 28, 1950, §361(a), substituted “Federal Security Administrator (hereinafter referred to as the ‘Administrator’)” for “Social Security Board established by subchapter I of this chapter (hereinafter referred to as the ‘Board’)”.
 
 #### Effective Date of 1960 Amendment
 

@@ -116,7 +116,7 @@ The Foreign Assistance Act of 1961, referred to in subsec. (d)(2), is Pub. L. 87
 
 #### Amendments
 
-2002—Subsec. (d). Pub. L. 107–228, §221, designated existing provisions as par. (1) and added par. (2).
+<b>2002</b>—Subsec. (d). Pub. L. 107–228, §221, designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (g)(1). Pub. L. 107–228, §229(1), substituted “Department of State” for “United States Information Agency”.
 
@@ -130,21 +130,21 @@ Subsec. (g)(6)(G). Pub. L. 107–228, §229(4), substituted “Department of Sta
 
 Subsec. (g)(7). Pub. L. 107–228, §229(5), substituted “Secretary of State, acting through the Under Secretary of State for Public Diplomacy” for “Director of the United States Information Agency”.
 
-1998—Subsec. (a)(8). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
+<b>1998</b>—Subsec. (a)(8). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
 
 Subsec. (g). Pub. L. 105–277 added subsec. (g).
 
-1994—Subsec. (f). Pub. L. 103–236 added subsec. (f).
+<b>1994</b>—Subsec. (f). Pub. L. 103–236 added subsec. (f).
 
-1993—Subsec. (a)(8). Pub. L. 103–199 substituted “independent states of the former Soviet Union” for “Soviet Union” in two places.
+<b>1993</b>—Subsec. (a)(8). Pub. L. 103–199 substituted “independent states of the former Soviet Union” for “Soviet Union” in two places.
 
-1990—Subsec. (a)(8). Pub. L. 101–246, §223, inserted “or through other programs designed to promote contact between the young peoples of the United States, the Soviet Union, and Eastern European countries” after “degree”.
+<b>1990</b>—Subsec. (a)(8). Pub. L. 101–246, §223, inserted “or through other programs designed to promote contact between the young peoples of the United States, the Soviet Union, and Eastern European countries” after “degree”.
 
 Subsecs. (b) to (d). Pub. L. 101–246, §204(a)(2), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
 Subsec. (e). Pub. L. 101–246, §222(a), added subsec. (e).
 
-1987—Subsec. (a)(8), (9). Pub. L. 100–204 added pars. (8) and (9).
+<b>1987</b>—Subsec. (a)(8), (9). Pub. L. 100–204 added pars. (8) and (9).
 
 #### Effective Date of 1998 Amendment
 

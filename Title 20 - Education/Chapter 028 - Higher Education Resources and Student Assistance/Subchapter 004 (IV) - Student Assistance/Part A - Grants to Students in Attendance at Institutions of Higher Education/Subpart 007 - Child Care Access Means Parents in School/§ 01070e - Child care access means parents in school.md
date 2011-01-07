@@ -100,7 +100,7 @@ An institution of higher education desiring a grant under this section shall sub
 
 &emsp;&emsp;(C) include a plan for identifying resources needed for the child care services, including space in which to provide child care services, and technical assistance if necessary;
 
-&emsp;(9) contain an assurance that any child care facility assisted under this section will meetthe applicable State or local government licensing, certification, approval, or registration requirements; and
+&emsp;(9) contain an assurance that any child care facility assisted under this section will meet the applicable State or local government licensing, certification, approval, or registration requirements; and
 
 &emsp;(10) contain a plan for any child care facility assisted under this section to become accredited within 3 years of the date the institution first receives assistance under this section.
 
@@ -158,7 +158,7 @@ Another prior section 1070e–1, Pub. L. 89–329, title IV, §420A, formerly §
 
 #### Amendments
 
-2008—Subsec. (b)(2)(B). Pub. L. 110–315, §410(a), designated existing provisions as cl. (i), inserted heading, substituted “Except as provided in clause (ii), a grant” for “A grant”, and added cl. (ii).
+<b>2008</b>—Subsec. (b)(2)(B). Pub. L. 110–315, §410(a), designated existing provisions as cl. (i), inserted heading, substituted “Except as provided in clause (ii), a grant” for “A grant”, and added cl. (ii).
 
 Subsec. (b)(4). Pub. L. 110–315, §410(b), inserted “, except that for any fiscal year for which the amount appropriated to carry out this section is equal to or greater than $20,000,000, this sentence shall be applied by substituting ‘$250,000’ for ‘$350,000’ ” before period at end.
 

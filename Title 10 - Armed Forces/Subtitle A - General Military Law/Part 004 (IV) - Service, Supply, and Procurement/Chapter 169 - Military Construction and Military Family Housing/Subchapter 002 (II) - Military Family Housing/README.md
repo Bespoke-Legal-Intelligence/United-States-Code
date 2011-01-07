@@ -26,17 +26,17 @@
 
 #### Amendments
 
-2008—Pub. L. 110–417, div. B, title XXVIII, §§2803(b), 2804(b), Oct. 14, 2008, 122 Stat. 4720, 4721, added items 2835a and 2838.
+<b>2008</b>—Pub. L. 110–417, div. B, title XXVIII, §§2803(b), 2804(b), Oct. 14, 2008, 122 Stat. 4720, 4721, added items 2835a and 2838.
 
-2006—Pub. L. 109–364, div. B, title XXVIII, §2803(b), Oct. 17, 2006, 120 Stat. 2467, struck out item 2823 “Determination of availability of suitable alternative housing for acquisition in lieu of construction of new family housing”.
+<b>2006</b>—Pub. L. 109–364, div. B, title XXVIII, §2803(b), Oct. 17, 2006, 120 Stat. 2467, struck out item 2823 “Determination of availability of suitable alternative housing for acquisition in lieu of construction of new family housing”.
 
-2000—Pub. L. 106–398, §1 \[div. B, title XXVIII, §2803(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–413, substituted “Military family housing: local comparability of room patterns and floor areas” for “Limitations on space by pay grade” in item 2826.
+<b>2000</b>—Pub. L. 106–398, §1 \[div. B, title XXVIII, §2803(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–413, substituted “Military family housing: local comparability of room patterns and floor areas” for “Limitations on space by pay grade” in item 2826.
 
-1994—Pub. L. 103–337, div. B, title XXVIII, §2803(b), Oct. 5, 1994, 108 Stat. 3053, added item 2837.
+<b>1994</b>—Pub. L. 103–337, div. B, title XXVIII, §2803(b), Oct. 5, 1994, 108 Stat. 3053, added item 2837.
 
-1991—Pub. L. 102–190, div. B, title XXVIII, §§2806(a)(2), 2809(a)(2), Dec. 5, 1991, 105 Stat. 1540, 1543, added items 2835 and 2836.
+<b>1991</b>—Pub. L. 102–190, div. B, title XXVIII, §§2806(a)(2), 2809(a)(2), Dec. 5, 1991, 105 Stat. 1540, 1543, added items 2835 and 2836.
 
-1985—Pub. L. 99–167, title VIII, §§804(b)(2), 808(b), Dec. 3, 1985, 99 Stat. 987, 989, added items 2833 and 2834.
+<b>1985</b>—Pub. L. 99–167, title VIII, §§804(b)(2), 808(b), Dec. 3, 1985, 99 Stat. 987, 989, added items 2833 and 2834.
 
 
 ---

@@ -1,24 +1,42 @@
 ### §415c. Availability to public of certain intelligence funding information
 
-#### (a) Amounts appropriated each fiscal year
+#### (a) Budget request
 
-Not later than 30 days after the end of each fiscal year beginning with fiscal year 2007, the Director of National Intelligence shall disclose to the public the aggregate amount of funds appropriated by Congress for the National Intelligence Program for such fiscal year.
+At the time that the President submits to Congress the budget for a fiscal year pursuant to section 1105 of title 31, the President shall disclose to the public the aggregate amount of appropriations requested for that fiscal year for the National Intelligence Program.
 
-#### (b) Waiver
+#### (b) Amounts appropriated each fiscal year
 
-Beginning with fiscal year 2009, the President may waive or postpone the disclosure required by subsection (a) for any fiscal year by, not later than 30 days after the end of such fiscal year, submitting to the Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives—
+Not later than 30 days after the end of each fiscal year, the Director of National Intelligence shall disclose to the public the aggregate amount of funds appropriated by Congress for the National Intelligence Program for such fiscal year.
 
-&emsp;(1) a statement, in unclassified form, that the disclosure required in subsection (a) for that fiscal year would damage national security; and
+#### (c) Waiver
 
-&emsp;(2) a statement detailing the reasons for the waiver or postponement, which may be submitted in classified form.
+#### (1) In general
 
-#### (c) Definition
+&emsp;The President may waive or postpone the disclosure required by subsection (a) or (b) for a fiscal year by submitting to the Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives—
+
+&emsp;&emsp;(A) a statement, in unclassified form, that the disclosure required in subsection (a) or (b) for that fiscal year would damage national security; and
+
+&emsp;&emsp;(B) a statement detailing the reasons for the waiver or postponement, which may be submitted in classified form.
+
+#### (2) Submission dates
+
+&emsp;The President shall submit the statements required under paragraph (1)—
+
+&emsp;&emsp;(A) in the case of a waiver or postponement of a disclosure required under subsection (a), at the time of the submission of the budget for the fiscal year for which such disclosure is waived or postponed; and
+
+&emsp;&emsp;(B) in the case of a waiver or postponement of a disclosure required under subsection (b), not later than 30 days after the date of the end of the fiscal year for which such disclosure is waived or postponed.
+
+#### (d) Definition
 
 As used in this section, the term “National Intelligence Program” has the meaning given the term in section 401a(6) of this title.
 
-(Pub. L. 110–53, title VI, §601, Aug. 3, 2007, 121 Stat. 335.)
+(Pub. L. 110–53, title VI, §601, Aug. 3, 2007, 121 Stat. 335; Pub. L. 111–259, title III, §364, Oct. 7, 2010, 124 Stat. 2702.)
 
 #### Codification
 
 Section was enacted as part of the Implementing Recommendations of the 9/11 Commission Act of 2007, and not as part of the National Security Act of 1947 which comprises this chapter.
+
+#### Amendments
+
+<b>2010</b>—Pub. L. 111–259 amended section generally. Prior to amendment, section related to availability to public of certain intelligence funding information.
 

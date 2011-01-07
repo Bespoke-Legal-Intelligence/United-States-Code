@@ -44,7 +44,7 @@ Apr. 10, 1878, ch. 58, 20 Stat. 36; Mar. 3, 1883, ch. 120, 22 Stat. 487; Oct. 31
 
 Feb. 19, 1948, ch. 65, §12 (1st sentence), 62 Stat. 26.
 
-In subsection (a)(1), the word “may” is substituted for the words “is authorized to”. The words “rules and to be observed” are omitted as surplusage.
+In subsection (a)(1), the word “may” is substituted for the words “is authorized to”. The words “rules and \* \* \* to be observed” are omitted as surplusage.
 
 In subsection (a)(2), the word “undertaking” is substituted for the words “to the effect that he or they undertake”. The words “make a contract” are inserted for clarity. The words “in the premises” are omitted as surplusage. The words “for the performance of the contract” are substituted for the words “to furnish the supplies proposed or to perform the service required”.
 
@@ -52,15 +52,15 @@ In subsection (b), the word “duly” is omitted as surplusage. The words “wi
 
 Subsection (b)(1) is substituted for the words “proceed to contract with some other person to furnish the supplies or perform the services required”.
 
-In subsection (b)(2) the word “charge” is substituted for the words “forthwith cause to be charged”. The words “a contract is made with the other person” are substituted for the words “he may have contracted with another party to furnish the supplies or perform the service for the whole period of the proposal”. The words “guarantor or” are omitted as surplusage. The words “this difference being” are substituted for the words “and the sum may be”. The words “of debt” are omitted, since that action no longer exists. The words “the bidder and his guarantors, jointly or severally” are substituted for the words “either or all of such persons”.
+In subsection (b)(2) the word “charge” is substituted for the words “forthwith cause \* \* \* to be charged”. The words “a contract is made with the other person” are substituted for the words “he may have contracted with another party to furnish the supplies or perform the service for the whole period of the proposal”. The words “guarantor or” are omitted as surplusage. The words “this difference being” are substituted for the words “and the sum may be”. The words “of debt” are omitted, since that action no longer exists. The words “the bidder and his guarantors, jointly or severally” are substituted for the words “either or all of such persons”.
 
 In subsection (c), the words “Proceedings under this section are” are inserted for clarity. The words “unless exempted therefrom under section 481(a) of that title” are inserted to preserve the possibility of exemption of proceedings under the revised section from the provisions of the Federal Property and Administrative Services Act of 1949, as amended.
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–217 substituted “section 121 of title 40” for “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)” and “section 501(a)(2) of title 40” for “section 201(a) of that Act (40 U.S.C. 481(a))”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–217 substituted “section 121 of title 40” for “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)” and “section 501(a)(2) of title 40” for “section 201(a) of that Act (40 U.S.C. 481(a))”.
 
-1994—Subsec. (a). Pub. L. 103–355 substituted “The Secretary of Defense may—
+<b>1994</b>—Subsec. (a). Pub. L. 103–355 substituted “The Secretary of Defense may—
 
 &emsp;“(1) prescribe regulations for the preparation, submission, and opening of bids for contracts; and”
 
@@ -68,5 +68,5 @@ In subsection (c), the words “Proceedings under this section are” are insert
 
 &emsp;“(1) prescribe regulations for the preparation, submission, and opening of bids for contracts with that department; and”.
 
-1984—Subsec. (c). Pub. L. 98–525 substituted “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)” for “section 486 of title 40” and “section 201(a) of that Act (40 U.S.C. 481(a))” for “section 481(a) of this title”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–525 substituted “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)” for “section 486 of title 40” and “section 201(a) of that Act (40 U.S.C. 481(a))” for “section 481(a) of this title”.
 

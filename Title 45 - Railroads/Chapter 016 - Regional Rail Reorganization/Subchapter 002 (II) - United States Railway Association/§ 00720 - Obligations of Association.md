@@ -6,7 +6,7 @@ To carry out the purposes of this chapter, the Association is authorized to issu
 
 #### (b) Maximum obligational authority
 
-The aggregate principal amount (exclusive of interest or additions to principal on account of accrual of interest) of obligations issued by the Association under this section which may be outstanding at any one time shall not exceed $395,000,000. No obligations or proceeds thereof shall be issued or made available after February 5, 1976, except—
+The aggregate principal amount (exclusive of interest or additions to principal on account ofaccrual of interest) of obligations issued by the Association under this section which may be outstanding at any one time shall not exceed $395,000,000. No obligations or proceeds thereof shall be issued or made available after February 5, 1976, except—
 
 &emsp;(1) to meet existing or potential commitments for loans under section 721 of this title made or applied for prior to January 1, 1976; and
 
@@ -40,9 +40,9 @@ In subsec. (e), “chapter 31 of title 31” and “such chapter” substituted 
 
 #### Amendments
 
-1980—Subsec. (e). Pub. L. 96–448 inserted “or under subsection (a) of section 746 of this title” after “subsection (c) of this section”.
+<b>1980</b>—Subsec. (e). Pub. L. 96–448 inserted “or under subsection (a) of section 746 of this title” after “subsection (c) of this section”.
 
-1976—Subsec. (b). Pub. L. 94–555 inserted “(exclusive of interest or additions to principal on account of accrual of interest)” after “aggregate principal amount”, and raised maximum amount allowed for outstanding obligations issued by Association to $395,000,000.
+<b>1976</b>—Subsec. (b). Pub. L. 94–555 inserted “(exclusive of interest or additions to principal on account of accrual of interest)” after “aggregate principal amount”, and raised maximum amount allowed for outstanding obligations issued by Association to $395,000,000.
 
 Pub. L. 94–210, §604, substituted provisions authorizing $275,000,000 as maximum of aggregate amount of obligations outstanding at any one time and provisions relating to availability or issuance after Feb. 5, 1976, for provisions authorizing $1,500,000,000 as maximum of aggregate amount of obligations outstanding at any one time and provisions relating to limitations on amounts issued to Corporation and available for rehabilitation and modernization of rail properties.
 

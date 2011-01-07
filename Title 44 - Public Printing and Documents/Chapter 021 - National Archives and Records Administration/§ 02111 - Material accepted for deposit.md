@@ -20,9 +20,9 @@ A prior section 2111 was renumbered section 2115 of this title.
 
 #### Amendments
 
-1984—Pub. L. 98–497, §107(a)(5), substituted “Archivist” for “Administrator of General Services” in provisions preceding par. (1), and substituted “Archivist” for “Administrator” in par. (1).
+<b>1984</b>—Pub. L. 98–497, §107(a)(5), substituted “Archivist” for “Administrator of General Services” in provisions preceding par. (1), and substituted “Archivist” for “Administrator” in par. (1).
 
-1978—Pub. L. 95–591 inserted provision excluding Presidential records which are subject to provisions of chapter 22 of this title from application of this section.
+<b>1978</b>—Pub. L. 95–591 inserted provision excluding Presidential records which are subject to provisions of chapter 22 of this title from application of this section.
 
 #### Effective Date of 1984 Amendment
 
@@ -38,7 +38,7 @@ Pub. L. 93–526, title I, §§101–106, Dec. 19, 1974, 88 Stat. 1695–1698, a
 
 #### “Title I—Preservation of Presidential Recordings and Materials
 
-I74“delivery and retention of certain presidential materials
+#### “delivery and retention of certain presidential materials
 
 “
 

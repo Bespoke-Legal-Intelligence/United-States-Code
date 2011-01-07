@@ -34,7 +34,7 @@ This chapter, referred to in subsec. (c), was in the original “this Act”, me
 
 #### Amendments
 
-2008—Subsec. (b)(2). Pub. L. 110–411, §403(1), substituted “planned activities” for “goals” and inserted “and” after semicolon at end.
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–411, §403(1), substituted “planned activities” for “goals” and inserted “and” after semicolon at end.
 
 Subsec. (b)(3), (4). Pub. L. 110–411, §403(2), (3), substituted period for “; and” at end of par. (3) and struck out par. (4) which read as follows: “describe the manner in which the recipient would change its programs as a result of its experiences.”
 

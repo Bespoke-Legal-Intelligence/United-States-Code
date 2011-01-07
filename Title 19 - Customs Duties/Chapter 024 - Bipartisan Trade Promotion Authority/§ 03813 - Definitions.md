@@ -52,7 +52,7 @@ In this chapter:
 
 &emsp;The term “import sensitive agricultural product” means an agricultural product—
 
-&emsp;&emsp;(A) with respect to which, as a result of the Uruguay Round Agreements the rate of duty was the subject of tariff reductions by the United States and, pursuant to such Agreements, was reduced on January 1, 1995, to a rate that was not less than 97.5 percent of the rate of duty that applied to such article on December 31, 1994; or
+&emsp;&emsp;(A) with respect to which, as a result of the Uruguay Round Agreements the rate of duty was the subject of tariff reductions by the United States and, pursuant to suchAgreements, was reduced on January 1, 1995, to a rate that was not less than 97.5 percent of the rate of duty that applied to such article on December 31, 1994; or
 
 &emsp;&emsp;(B) which was subject to a tariff-rate quota on August 6, 2002.
 
@@ -86,5 +86,9 @@ In this chapter:
 
 #### Amendments
 
-2004—Pars. (2), (3). Pub. L. 108–429 redesignated second par. (2), relating to Agreement on Subsidies and Countervailing Measures, as (3), substituted “3511(d)(12)” for “3511(d)(13)”, and in par. (2) relating to Agreement on Safeguards, substituted “3511(d)(13)” for “3511(d)(12)”.
+<b>2004</b>—Pars. (2), (3). Pub. L. 108–429 redesignated second par. (2), relating to Agreement on Subsidies and Countervailing Measures, as (3), substituted “3511(d)(12)” for “3511(d)(13)”, and in par. (2) relating to Agreement on Safeguards, substituted “3511(d)(13)” for “3511(d)(12)”.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by closing quotation marks.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be closing quotation marks.</i>
 

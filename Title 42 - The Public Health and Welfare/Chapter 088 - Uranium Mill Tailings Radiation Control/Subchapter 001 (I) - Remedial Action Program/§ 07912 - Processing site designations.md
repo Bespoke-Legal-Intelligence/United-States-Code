@@ -106,7 +106,7 @@ Remedial action authorized under Public Law 92–314, referred to in subsec. (a)
 
 #### Amendments
 
-2000—Subsec. (f). Pub. L. 106–398 added subsec. (f).
+<b>2000</b>—Subsec. (f). Pub. L. 106–398 added subsec. (f).
 
-1983—Subsec. (e)(3). Pub. L. 97–415 added par. (3).
+<b>1983</b>—Subsec. (e)(3). Pub. L. 97–415 added par. (3).
 

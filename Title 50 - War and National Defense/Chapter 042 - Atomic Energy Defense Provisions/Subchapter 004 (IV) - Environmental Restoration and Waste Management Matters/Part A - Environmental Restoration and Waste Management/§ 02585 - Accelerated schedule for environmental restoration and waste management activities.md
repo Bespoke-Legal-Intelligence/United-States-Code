@@ -26,7 +26,7 @@ Not later than May 1, 1996, the Secretary shall submit to Congress a report on e
 
 Nothing in this section may be construed to affect a specific statutory requirement for a specific environmental restoration or waste management activity or project or to modify or otherwise affect applicable statutory or regulatory environmental restoration and waste management requirements, including substantive standards intended to protect public health and the environment.
 
-(Pub. L. 107–314, div. D, title XLIV, §4405, formerly Pub. L. 104–106, div. C, title XXXI, §3156, Feb. 10, 1996, 110 Stat. 625; renumbered Pub. L. 107–314, div. D, title XLIV, §4405, and amended Pub. L. 108–136, div. C, title XXXI, §3141(g)(6), Nov. 24, 2003, 117 Stat. 1765.)
+(Pub. L. 107–314, div. D, title XLIV, §4405, formerly Pub. L. 104–106, div. C, title XXXI, §3156,Feb. 10, 1996, 110 Stat. 625; renumbered Pub. L. 107–314, div. D, title XLIV, §4405, and amended Pub. L. 108–136, div. C, title XXXI, §3141(g)(6), Nov. 24, 2003, 117 Stat. 1765.)
 
 #### References in Text
 
@@ -38,5 +38,5 @@ Section was formerly set out as a note under section 7274k of Title 42, The Publ
 
 #### Amendments
 
-2003—Subsec. (b)(2). Pub. L. 108–136, §3141(g)(6)(D), inserted “, the predecessor provision to section 2584 of this title” before period at end.
+<b>2003</b>—Subsec. (b)(2). Pub. L. 108–136, §3141(g)(6)(D), inserted “, the predecessor provision to section 2584 of this title” before period at end.
 

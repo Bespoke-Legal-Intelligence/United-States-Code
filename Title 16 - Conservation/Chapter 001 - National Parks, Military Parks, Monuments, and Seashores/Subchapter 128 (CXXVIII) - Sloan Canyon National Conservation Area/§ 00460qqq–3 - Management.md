@@ -90,19 +90,11 @@ Except as needed for administrative purposes or to respond to an emergency, the 
 
 #### References in Text
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(2)(A), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(2)(A), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
 This Act, referred to in subsec. (a)(2)(B), is Pub. L. 107–282, Nov. 6, 2002, 116 Stat. 1994, known as the Clark County Conservation of Public Land and Natural Resources Act of 2002. For complete classification of this Act to the Code, see Short Title note set out under section 460qqq of this title and Tables.
 
 Section 208, referred to in subsec. (b)(2)(B)(i)(II), is section 208 of Pub. L. 107–282, Nov. 6, 2002, 116 Stat. 2005, which is not classified to the Code.
-
-The public land laws, referred to in subsec. (e)(1)(A), are classified generally to Title 43, Public Lands.
-
-The mining laws, referred to in subsec. (e)(1)(B), are classified generally to Title 30, Mineral Lands and Mining.
-
-The mineral leasing laws, referred to in subsec. (e)(1)(C), are classified generally to Title 30, Mineral Lands and Mining.
-
-The geothermal leasing laws, referred to in subsec. (e)(1)(C), are classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

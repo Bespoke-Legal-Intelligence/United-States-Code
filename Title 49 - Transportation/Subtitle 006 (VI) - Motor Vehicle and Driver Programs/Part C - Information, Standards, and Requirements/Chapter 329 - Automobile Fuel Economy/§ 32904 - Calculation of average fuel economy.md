@@ -44,9 +44,9 @@ Separate Calculations for Passenger Automobiles Manufactured Domestically and No
 
 &emsp;(ii) For a manufacturer that began assembling automobiles in Mexico after model year 1991, subparagraph (A) of this paragraph applies to all automobiles manufactured by that manufacturer beginning with the model year that begins after January 1, 1994, or the model year beginning after the date the manufacturer begins assembling automobiles in Mexico, whichever is later.
 
-&emsp;(iii) A manufacturer not described in clause (i) or (ii) of this subparagraph that assembles automobiles in the United States or Canada, but not in Mexico, may elect, during the period from January 1, 1997, through January 1, 2004, to have subparagraph (A) of this paragraph apply to all automobiles manufactured by that manufacturer beginning with the model year that begins after the date of the election. However, if the manufacturer begins assembling automobiles in Mexico before making an election under this subparagraph, this clause does not apply, and the manufacturer is subject to clause (ii) of this subparagraph.
+&emsp;(iii) A manufacturer not described in clause (i) or (ii) of this subparagraph that assemblesautomobiles in the United States or Canada, but not in Mexico, may elect, during the period from January 1, 1997, through January 1, 2004, to have subparagraph (A) of this paragraph apply to all automobiles manufactured by that manufacturer beginning with the model year that begins after the date of the election. However, if the manufacturer begins assembling automobiles in Mexico before making an election under this subparagraph, this clause does not apply, and the manufacturer is subject to clause (ii) of this subparagraph.
 
-&emsp;(iv) For a manufacturer that does not assemble automobiles in the United States, Canada,or Mexico, subparagraph (A) of this paragraph applies to all automobiles manufactured by that manufacturer beginning with the model year that begins after January 1, 1994.
+&emsp;(iv) For a manufacturer that does not assemble automobiles in the United States, Canada, or Mexico, subparagraph (A) of this paragraph applies to all automobiles manufactured by that manufacturer beginning with the model year that begins after January 1, 1994.
 
 &emsp;(v) For a manufacturer described in clause (i) or (iii) of this subparagraph that does not make an election within the specified period, subparagraph (A) of this paragraph applies to all automobiles manufactured by that manufacturer beginning with the model year that begins after January 1, 2004.
 
@@ -142,7 +142,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §503(b)(3); added Oct. 10, 1980,
 
 15:2003(d)(1) (last sentence), (f).
 
-In subsection (a)(1), before clause (A), the words “of a manufacturer subject to” are substituted for “for the purposes of” for clarity. In clause (B)(ii), the words “the sum of the fractions obtained by” are substituted for “a sum of terms, each term of which is a fraction created by” to eliminate unnecessary words.
+In subsection (a)(1), before clause (A), the words “of a manufacturer subject to” are substituted for “for the purposes of” for clarity. In clause (B)(ii), the words“the sum of the fractions obtained by” are substituted for “a sum of terms, each term of which is a fraction created by” to eliminate unnecessary words.
 
 Subsection (a)(2)(A) is substituted for “as defined in section 2012(b)(2) of this title” for clarity.
 
@@ -204,13 +204,13 @@ This makes conforming amendments necessary because of the restatement of 15:2003
 
 #### Amendments
 
-2007—Subsec. (b)(1)(B). Pub. L. 110–140, §104(b)(2), inserted “, except for the purposes of section 32903” before period at end.
+<b>2007</b>—Subsec. (b)(1)(B). Pub. L. 110–140, §104(b)(2), inserted “, except for the purposes of section 32903” before period at end.
 
 Subsec. (b)(6) to (8). Pub. L. 110–140, §113(a), struck out pars. (6) to (8) which related to exemption from separate calculations requirement, judicial review of denial of petition, and unavailability of section 32903(a) and (b)(2) credits during model year when exemption is effective, respectively.
 
-1996—Subsec. (b)(6)(C). Pub. L. 104–287 substituted “Committee on Commerce” for “Committee on Energy and Commerce”.
+<b>1996</b>—Subsec. (b)(6)(C). Pub. L. 104–287 substituted “Committee on Commerce” for “Committee on Energy and Commerce”.
 
-1994—Subsec. (b)(1). Pub. L. 103–429, §6(36)(B), added par. (1) and struck out former par. (1) which read as follows: “In this subsection—
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–429, §6(36)(B), added par. (1) and struck out former par. (1) which read as follows: “In this subsection—
 
 &emsp;“(A) a passenger automobile is deemed to be manufactured domestically in a model year if at least 75 percent of the cost to the manufacturer is attributable to value added in the United States or Canada, unless the assembly of the automobile is completed in Canada and the automobile is imported into the United States more than 30 days after the end of the model year; and
 

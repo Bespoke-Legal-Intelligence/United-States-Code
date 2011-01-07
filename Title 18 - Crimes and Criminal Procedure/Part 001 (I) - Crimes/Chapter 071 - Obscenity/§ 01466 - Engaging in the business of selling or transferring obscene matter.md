@@ -8,13 +8,13 @@
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–248, §506(b)(1), inserted “producing with intent to distribute or sell, or” before “selling or transferring obscene matter,”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–248, §506(b)(1), inserted “producing with intent to distribute or sell, or” before “selling or transferring obscene matter,”.
 
 Subsec. (b). Pub. L. 109–248, §506(b)(3), which directed amendment of subsec. (b) by inserting “production,” before “selling or transferring or offering to sell or transfer such material.”, was executed by making the insertion before “selling or transferring or offering to sell or transfer such material be”, to reflect the probable intent of Congress.
 
 Pub. L. 109–248, §506(b)(2), inserted “produces” before “sells or transfers or offers to sell or transfer obscene matter”.
 
-1990—Subsec. (b). Pub. L. 101–647 substituted “this section” for “this subsection” and “this subsection” for “subsection (b)”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–647 substituted “this section” for “this subsection” and “this subsection” for “subsection (b)”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

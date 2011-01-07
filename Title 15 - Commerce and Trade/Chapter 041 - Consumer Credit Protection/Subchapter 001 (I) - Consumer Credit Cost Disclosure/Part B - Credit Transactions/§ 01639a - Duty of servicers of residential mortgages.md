@@ -48,7 +48,11 @@ As used in this section—
 
 No provision of subsection (b) or (d) shall be construed as affecting the liability of any servicer or person as described in subsection (d) for actual fraud in the origination or servicing of a loan or in the implementation of a qualified loss mitigation plan, or for the violation of a State or Federal law, including laws regulating the origination of mortgage loans, commonly referred to as predatory lending laws.
 
-(Pub. L. 90–321, title I, §129, formerly §129A, as added Pub. L. 110–289, div. A, title IV, §1403, July30, 2008, 122 Stat. 2809; renumbered §129 and amended Pub. L. 111–22, div. A, title II, §201(b), May 20, 2009, 123 Stat. 1638.)
+(Pub. L. 90–321, title I, §129, formerly §129A, as added Pub. L. 110–289, div. A, title IV, §1403, July 30, 2008, 122 Stat. 2809; renumbered §129 and amended Pub. L. 111–22, div. A, title II, §201(b), May 20, 2009, 123 Stat. 1638.)
+
+#### Renumbering of Section
+
+<i>Pub. L. 111–203, title XIV, §§1400(c), 1402(a)(1), July 21, 2010, 124 Stat. 2136, 2138, provided that, effective on the date on which</i><i>final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, section 129 of Pub. L. 90–321, which is classified to this section, is renumbered section 129A of Pub. L. 90–321. See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -60,7 +64,11 @@ Another section 129 of Pub. L. 90–321 is classified to section 1639 of this ti
 
 #### Amendments
 
-2009—Pub. L. 111–22 amended section generally. Prior to amendment, section related to fiduciary duty of servicers of pooled residential mortgages without providing for date limitation for implementing modifications or workout plans.
+<b>2009</b>—Pub. L. 111–22 amended section generally. Prior to amendment, section related to fiduciary duty of servicers of pooled residential mortgages without providing for date limitation for implementing modifications or workout plans.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of this title.
 
 #### Findings
 

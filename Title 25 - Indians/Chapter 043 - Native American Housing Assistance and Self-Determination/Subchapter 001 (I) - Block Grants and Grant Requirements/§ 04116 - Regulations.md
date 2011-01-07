@@ -24,7 +24,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding sections 563(a) and 565(a) of title 5, all regulations required under this chapter, including any regulations that may be required pursuant to amendments made to this chapter after October 26, 1996, shall be issued according to a negotiated rulemaking procedure under subchapter III of chapter 5 of title 5.
+&emsp;&emsp;Notwithstanding sections 563(a) and 565(a) of title 5, all regulations required under thischapter, including any regulations that may be required pursuant to amendments made to this chapter after October 26, 1996, shall be issued according to a negotiated rulemaking procedure under subchapter III of chapter 5 of title 5.
 
 #### (B) Committee
 
@@ -70,9 +70,9 @@ The date of enactment of the Native American Housing Assistance and Self-Determi
 
 #### Amendments
 
-2008—Subsec. (b)(2)(B)(i). Pub. L. 110–411, §105(1), substituted “Not later than 180 days after the date of enactment of the Native American Housing Assistance and Self-Determination Reauthorization Act of 2008 and any other Act to reauthorize this chapter, the Secretary” for “The Secretary”.
+<b>2008</b>—Subsec. (b)(2)(B)(i). Pub. L. 110–411, §105(1), substituted “Not later than 180 days after the date of enactment of the Native American Housing Assistance and Self-Determination Reauthorization Act of 2008 and any other Act to reauthorize this chapter, the Secretary” for “The Secretary”.
 
 Subsec. (b)(2)(C), (D). Pub. L. 110–411, §105(2), added subpars. (C) and (D).
 
-2002—Subsec. (b)(2)(A). Pub. L. 107–292 inserted “, including any regulations that may be required pursuant to amendments made to this chapter after October 26, 1996,” after “required under this chapter”.
+<b>2002</b>—Subsec. (b)(2)(A). Pub. L. 107–292 inserted “, including any regulations that may be required pursuant to amendments made to this chapter after October 26, 1996,” after “required under this chapter”.
 

@@ -22,7 +22,7 @@ The revised section is inserted for clarity.
 
 #### Amendments
 
-1987—Pub. L. 100–180 inserted “, the term” after “In this chapter”.
+<b>1987</b>—Pub. L. 100–180 inserted “, the term” after “In this chapter”.
 
 #### Women in Armed Forces
 

@@ -46,9 +46,9 @@ In subsection (b), the words “A general court-martial may sentence to—” ar
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–163 substituted “States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands” for “States and Territories, Puerto Rico, and the District of Columbia”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted “States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands” for “States and Territories, Puerto Rico, and the District of Columbia”.
 
-2002—Pub. L. 107–314 amended section catchline and text generally. Prior to amendment, text read as follows:
+<b>2002</b>—Pub. L. 107–314 amended section catchline and text generally. Prior to amendment, text read as follows:
 
 “(a) In the National Guard not in Federal service, general courts-martial may be convened by the President or by the governor of a State or Territory or Puerto Rico or by the commanding general of the National Guard of the District of Columbia.
 
@@ -66,7 +66,7 @@ In subsection (b), the words “A general court-martial may sentence to—” ar
 
 &emsp;“(6) any combination of these punishments.”
 
-1988—Subsec. (a). Pub. L. 100–456 substituted “Territory or Puerto Rico” for “Territory, Puerto Rico, or the Canal Zone,”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–456 substituted “Territory or Puerto Rico” for “Territory, Puerto Rico, or the Canal Zone,”.
 
 #### Models for State Code of Military Justice and State Manual for Courts-Martial
 

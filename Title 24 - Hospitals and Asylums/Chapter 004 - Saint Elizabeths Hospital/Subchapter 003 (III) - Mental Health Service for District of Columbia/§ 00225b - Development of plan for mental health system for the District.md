@@ -74,9 +74,9 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(2), is Pub. L. 92
 
 #### Amendments
 
-1997—Subsec. (b)(3). Pub. L. 105–33 substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”.
+<b>1997</b>—Subsec. (b)(3). Pub. L. 105–33 substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”.
 
-1991—Subsec. (a)(2). Pub. L. 102–150, §3(a), substituted “October 1, 1993” for “October 1, 1991”.
+<b>1991</b>—Subsec. (a)(2). Pub. L. 102–150, §3(a), substituted “October 1, 1993” for “October 1, 1991”.
 
 Subsec. (f)(2)(A). Pub. L. 102–150, §§2(1), 3(a), substituted “and, except as provided under an agreement entered into pursuant to subparagraph (C), complete” for “and complete” and “October 1, 1993” for “October 1, 1991”.
 

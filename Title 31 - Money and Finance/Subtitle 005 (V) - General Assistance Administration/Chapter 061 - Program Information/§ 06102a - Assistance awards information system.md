@@ -44,11 +44,11 @@ Section 9 of the Federal Program Information Act, referred to in subsec. (a)(1),
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
-1986—Subsec. (c). Pub. L. 99–547 added subsec. (c).
+<b>1986</b>—Subsec. (c). Pub. L. 99–547 added subsec. (c).
 
-1983—Subsec. (a). Pub. L. 98–169 substituted “Director” for “Director of the Office of Management and Budget”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–169 substituted “Director” for “Director of the Office of Management and Budget”.
 
 #### Change of Name
 

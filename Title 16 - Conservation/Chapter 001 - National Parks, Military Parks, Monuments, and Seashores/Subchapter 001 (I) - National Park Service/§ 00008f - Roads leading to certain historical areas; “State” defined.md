@@ -6,7 +6,7 @@ The word “State” as used in section 8e of this title includes Hawaii, Alaska
 
 #### Amendments
 
-1956—Act Aug. 1, 1956, inserted “Guam” after “Puerto Rico”.
+<b>1956</b>—Act Aug. 1, 1956, inserted “Guam” after “Puerto Rico”.
 
 #### Admission of Alaska and Hawaii to Statehood
 

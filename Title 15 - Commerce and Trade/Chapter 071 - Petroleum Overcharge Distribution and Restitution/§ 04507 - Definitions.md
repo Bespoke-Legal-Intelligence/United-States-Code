@@ -4,7 +4,7 @@ For purposes of this chapter:
 
 &emsp;(1) The term “Secretary” means the Secretary of Energy.
 
-&emsp;(2) The term “subpart V regulations” means the provisions of Subpart V—Special Procedures for Distribution of Refunds (10 CFR 205.280–205.288) and any amendment made afterOctober 21, 1986, and all precedents and decisions under such regulations, but only to the extent that such provisions, precedents, decisions, and amendments are consistent with the provisions of this chapter.
+&emsp;(2) The term “subpart V regulations” means the provisions of Subpart V—Special Procedures for Distribution of Refunds (10 CFR 205.280–205.288) and any amendment made after October 21, 1986, and all precedents and decisions under such regulations, but only to the extent that such provisions, precedents, decisions, and amendments are consistent with the provisions of this chapter.
 
 &emsp;(3) The term “energy conservation programs” means—
 

@@ -42,7 +42,7 @@ Used Fishing Vessels and Facilities.—The Secretary may not guarantee or make a
 
 (d)
 
-Independent Analysis.—The Secretary or Administrator may make a determination thataspects of an application under this chapter require independent analysis to be conducted by third party experts due to risk factors associated with markets, technology, or financial structures. A third party independent analysis conducted under this subsection shall be performed by a private sector expert in assessing such risk factors who is selected by the Secretary or Administrator.
+Independent Analysis.—The Secretary or Administrator may make a determination that aspects of an application under this chapter require independent analysis to be conducted by third party experts due to risk factors associated with markets, technology, or financial structures. A third party independent analysis conducted under this subsection shall be performed by a private sector expert in assessing such risk factors who is selected by the Secretary or Administrator.
 
 (e)
 
@@ -86,9 +86,9 @@ June 29, 1936, ch. 858, title XI, §1104A(f)(2), (3), as added Pub. L. 108–136
 
 #### Amendments
 
-2008—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(D), (2)(D), (b)(3)(A), (4). See 2006 Amendment note below.
+<b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(D), (2)(D), (b)(3)(A), (4). See 2006 Amendment note below.
 
-Subsec. (a). Pub. L. 110–181, §3522(a)(4)(A), (B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(2)(D), (b)(3)(A), into this section by substituting in the heading, “Administrator” for “Secretary of Transportation” and, in introductory provisions, “Administrator may” for “Secretary of Transportation may”, “Administrator finds” for “Secretary finds”, and “Administrator shall” for “Secretary shall”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+Subsec. (a). Pub. L. 110–181, §3522(a)(4)(A), (B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(2)(D), (b)(3)(A), into this section by substituting in the heading, “Administrator” for “Secretary of Transportation” and, in introductory provisions, “Administrator may” for “Secretary of Transportation may”, “Administrator finds” for “Secretary finds”, and “Administrator shall” for “Secretary shall”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purposeand Construction note preceding section 101 of this title.
 
 Subsec. (b). Pub. L. 110–181, §3522(a)(4)(C), (D), struck out “of Commerce” after “Secretary” in heading and the first time appearing in introductory provisions.
 
@@ -98,5 +98,5 @@ Subsec. (d). Pub. L. 110–181, §3522(a)(4)(E), incorporated the substance of t
 
 Subsec. (e). Pub. L. 110–181, §3522(a)(4)(F), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(D), (b)(4)(B), into this section by inserting “or Administrator” after “chapter, the Secretary” and substituting “or financial structures” for “financial structures, or other risk factors identified by the Secretary”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-2006—Pub. L. 109–163, §3507(a)(1)(D), (2)(D), (b)(3)(A), (4), which directed the amendment of section 1274(d)(1)(A), (f)(2), (3) of the former Appendix to this title from which this section was derived in part, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes for subsecs. (a), (d), and (e) and Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–163, §3507(a)(1)(D), (2)(D), (b)(3)(A), (4), which directed the amendment of section 1274(d)(1)(A), (f)(2), (3) of the former Appendix to this title from which this section was derived in part, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes for subsecs. (a), (d), and (e) and Historical and Revision notes above.
 

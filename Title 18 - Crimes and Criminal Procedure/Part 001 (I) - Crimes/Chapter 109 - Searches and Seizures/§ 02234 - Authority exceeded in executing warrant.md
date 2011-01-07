@@ -1,6 +1,6 @@
 ### §2234. Authority exceeded in executing warrant
 
-Whoever, in executing a search warrant, willfully exceeds his authority or exercises it with unnecessary severity, shall be fined under this title or imprisoned not more than one year, or both.
+Whoever, in executing a search warrant, willfully exceeds his authority or exercises it withunnecessary severity, shall be fined under this title or imprisoned not more than one year, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 803; Pub. L. 104–294, title VI, §601(a)(8), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 107–273, div. B, title III, §3002(a)(3), Nov. 2, 2002, 116 Stat. 1805.)
 
@@ -12,7 +12,7 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-2002—Pub. L. 107–273 inserted “, or both” after “year”.
+<b>2002</b>—Pub. L. 107–273 inserted “, or both” after “year”.
 
-1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000”.
+<b>1996</b>—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000”.
 

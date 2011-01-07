@@ -1,7 +1,5 @@
 ### <b>CHAPTER 7A—TEMPORARY UNEMPLOYMENT COMPENSATION PROGRAM</b>
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

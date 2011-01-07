@@ -6,7 +6,7 @@ The staffs of the Committee on Ways and Means and the Committee on Education and
 
 #### Amendments
 
-1976—Pub. L. 94–455, §803(i)(2)(A)(iii), substituted “Joint Pension, Profit-Sharing, and Employee Stock Ownership Plan Task Force” for “Joint Pension Task Force” wherever appearing.
+<b>1976</b>—Pub. L. 94–455, §803(i)(2)(A)(iii), substituted “Joint Pension, Profit-Sharing, and Employee Stock Ownership Plan Task Force” for “Joint Pension Task Force” wherever appearing.
 
 #### Change of Name
 

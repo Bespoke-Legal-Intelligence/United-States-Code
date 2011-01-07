@@ -16,9 +16,9 @@
 
 #### Amendments
 
-1965—Subsec. (a). Pub. L. 89–121 substituted “radio station” for “radio installation”, broadened coverage so as to extend to vessels over 300 tons rather than 500 tons, required passenger ships irrespective of size and cargo ships over 1600 tons to be equipped with a radio telegraph station and cargo ships over 300 tons, unless equipped with a radiotelegraph station, to be equipped with a radiotelephone station, and eliminated provisions which empowered the Commission to defer the application of the provisions of paragraphs (1) and (2) of this subsection for periods not beyond Jan. 1, 1955, and Nov. 19, 1954, respectively.
+<b>1965</b>—Subsec. (a). Pub. L. 89–121 substituted “radio station” for “radio installation”, broadened coverage so as to extend to vessels over 300 tons rather than 500 tons, required passenger ships irrespective of size and cargo ships over 1600 tons to be equipped with a radio telegraph station and cargo ships over 300 tons, unless equipped with a radiotelegraph station, to be equipped with a radiotelephone station, and eliminated provisions which empowered the Commission to defer the application of the provisions of paragraphs (1) and (2) of this subsection for periods not beyond Jan. 1, 1955, and Nov. 19, 1954, respectively.
 
-1954—Subsec. (a)(1). Act Aug. 13, 1954, broadened coverage so as to extend to vessels over 500 tons rather than 1,600 tons.
+<b>1954</b>—Subsec. (a)(1). Act Aug. 13, 1954, broadened coverage so as to extend to vessels over 500 tons rather than 1,600 tons.
 
 Subsec. (a)(2). Act Aug. 13, 1954, broadened coverage so as to extend to any United States flag vessel of 1,600 gross tons or over rather than any passenger vessel of 5,000 gross tons or over.
 

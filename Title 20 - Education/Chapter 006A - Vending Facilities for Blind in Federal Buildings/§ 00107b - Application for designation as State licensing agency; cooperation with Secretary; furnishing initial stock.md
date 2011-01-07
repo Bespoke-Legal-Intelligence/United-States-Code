@@ -8,7 +8,7 @@ A State agency for the blind or other State agency desiring to be designated as 
 
 &emsp;(3) that if any funds are set aside, or caused to be set aside, from the net proceeds of the operation of the vending facilities such funds shall be set aside, or caused to be set aside, only to the extent necessary for and may be used only for the purposes of (A) maintenance and replacement of equipment; (B) the purchase of new equipment; (C) management services; (D) assuring a fair minimum return to operators of vending facilities; and (E) retirement or pension funds, health insurance contributions, and provision for paid sick leave and vacation time, if it is determined by a majority vote of blind licensees licensed by such State agency, after such agency provides to each such licensee full information on all matters relevant to such proposed program, that funds under this paragraph shall be set aside for such purposes: <i>Provided, however</i>, That in no event shall the amount of such funds to be set aside from the net proceeds of any vending facility exceed a reasonable amount which shall be determined by the Secretary;
 
-&emsp;(4) to make such reports in such form and containing such information as the Secretarymay from time to time require and to comply with such provisions as he may from time to time find necessary to assure the correctness and verification of such reports;
+&emsp;(4) to make such reports in such form and containing such information as the Secretary may from time to time require and to comply with such provisions as he may from time to time find necessary to assure the correctness and verification of such reports;
 
 &emsp;(5) to issue such regulations, consistent with the provisions of this chapter, as may be necessary for the operation of this program;
 
@@ -24,7 +24,7 @@ Pursuant to an order of the United States District Court for the District of Col
 
 #### Amendments
 
-1974—Pub. L. 93–516, §204(a)(1), substituted “A State agency” for “A State commission” in provisions preceding par. (1). An identical amendment was made by Pub. L. 93–651. See Codification note above.
+<b>1974</b>—Pub. L. 93–516, §204(a)(1), substituted “A State agency” for “A State commission” in provisions preceding par. (1). An identical amendment was made by Pub. L. 93–651. See Codification note above.
 
 Par. (2). Pub. L. 93–516, §204(a)(2), substituted “vending facility” for “vending stand” in two places. An identical amendment was made by Pub. L. 93–651. See Codification note above.
 
@@ -32,7 +32,7 @@ Par. (3). Pub. L. 93–516, §204(a)(2), (b), (c), in provisions preceding subpa
 
 Par. (6). Pub. L. 93–516, §204(a)(3), substituted “vending facility program an opportunity for a fair hearing, and to agree to submit the grievances of any blind licensee not otherwise resolved by such hearing to arbitration as provided in section 107d–1 of this title” for “vending stand program an opportunity for a fair hearing”. An identical amendment was made by Pub. L. 93–651. See Codification note above.
 
-1954—Act Aug. 3, 1954, amended section generally and, among other changes, added pars. (3) to (6).
+<b>1954</b>—Act Aug. 3, 1954, amended section generally and, among other changes, added pars. (3) to (6).
 
 #### Effective Date of 1954 Amendment
 

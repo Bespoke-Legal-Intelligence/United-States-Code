@@ -10,9 +10,9 @@
 
 #### (b) Grade and number of original appointments
 
-(1) Not more than 10 per centum of the original appointments to the Regular Corps authorized to be made during any fiscal year may be made to grades above that of senior assistant, but no such appointment (other than an appointment under section 205 of this title) may be made to a grade above that of director. For the purpose of this subsection the number of original appointments authorized to be made during a fiscal year shall be (1) the excess of the number of officers of the Regular Corps authorized by the appropriation Act or Acts for such year over the number of officers on active duty in the Regular Corps on the first day of such year, plus (2) the number of such officers of the RegularCorps who, during such fiscal year, have been or will be retired upon attainment of age sixty-four or have for any other reason ceased to be on active duty. In determining the number of appointments authorized by this subsection an appointment shall be deemed to be made in the fiscal year in which the nomination is transmitted by the President to the Senate.
+(1) Not more than 10 per centum of the original appointments to the Regular Corps authorized to be made during any fiscal year may be made to grades above that of senior assistant, but no such appointment (other than an appointment under section 205 of this title) may be made to a grade above that of director. For the purpose of this subsection the number of original appointments authorized to be made during a fiscal year shall be (1) the excess of the number of officers of the Regular Corps authorized by the appropriation Act or Acts for such year over the number of officers on active duty in the Regular Corps on the first day of such year, plus (2) the number of such officers of the Regular Corps who, during such fiscal year, have been or will be retired upon attainment of age sixty-four or have for any other reason ceased to be on active duty. In determining the number of appointments authorized by this subsection an appointment shall be deemed to be made in the fiscal year in which the nomination is transmitted by the President to the Senate.
 
-(2) In addition to the number of original appointments to the Regular Corps authorized by paragraph (1) to be made to grades above that of senior assistant, original appointments authorized to be made to the Regular Corps in any year may be made to grades above that of senior assistant, but not above that of director, in the case of any individual who—
+(2) In addition to the number of original appointments to the Regular Corps authorized by paragraph (1) to be made to grades above that ofsenior assistant, original appointments authorized to be made to the Regular Corps in any year may be made to grades above that of senior assistant, but not above that of director, in the case of any individual who—
 
 &emsp;(A)(i) was on active duty in the Reserve Corps on July 1, 1960, (ii) was on such active duty continuously for not less than one year immediately prior to such date, and (iii) applies for appointment to the Regular Corps prior to July 1, 1962; or
 
@@ -52,17 +52,13 @@ In accordance with regulations, individual scientists, other than commissioned o
 
 #### (h) Aliens
 
-Persons who are not citizens may be employed as consultants pursuant to subsection (f) of thissection and may be appointed to fellowships pursuant to subsection (g) of this section. Unless otherwise specifically provided, any prohibition in any other Act against the employment of aliens, or against the payment of compensation to them, shall not be applicable in the case of persons employed or appointed pursuant to such subsections.
+Persons who are not citizens may be employed as consultants pursuant to subsection (f) of this section and may be appointed to fellowships pursuant to subsection (g) of this section. Unless otherwise specifically provided, any prohibition in any other Act against the employment of aliens, or against the payment of compensation to them, shall not be applicable in the case of persons employed or appointed pursuant to such subsections.
 
 #### (i) Civil service appointments by Secretary
 
 The appointment of any officer or employee of the Service made in accordance with the civil-service laws shall be made by the Secretary, and may be made effective as of the date on which such officer or employee enters upon duty.
 
 (July 1, 1944, ch. 373, title II, §207, formerly §208, 58 Stat. 685; July 3, 1946, ch. 538, §4, 60 Stat. 421; Aug. 13, 1946, ch. 958, §3, 60 Stat. 1049; renumbered §207 and amended Feb. 28, 1948, ch. 83, §5(a)–(d), 62 Stat. 40; Oct. 12, 1949, ch. 681, title V, §521(a), 63 Stat. 834; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Apr. 27, 1956, ch. 211, §3(a)–(c)(1), 70 Stat. 116; Pub. L. 86–415, §§2, 3, Apr. 8, 1960, 74 Stat. 32; Pub. L. 96–76, title III, §305, Sept. 29, 1979, 93 Stat. 585; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–35, title XXVII, §2765(c), Aug. 13, 1981, 95 Stat. 933; Pub. L. 97–414, §8(a), Jan. 4, 1983, 96 Stat. 2060.)
-
-#### References in Text
-
-The civil-service laws, referred to in subsecs. (f), (g), and (i), are set out in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
 
 #### Codification
 
@@ -76,25 +72,25 @@ A prior section 207 of act July 1, 1944, was classified to section 208 of this t
 
 #### Amendments
 
-1983—Subsec. (a)(1). Pub. L. 97–414 inserted “psychology,” after “pharmacy,”.
+<b>1983</b>—Subsec. (a)(1). Pub. L. 97–414 inserted “psychology,” after “pharmacy,”.
 
-1981—Subsec. (b)(1). Pub. L. 97–35 inserted provisions relating to exception for an appointment under section 205 of this title.
+<b>1981</b>—Subsec. (b)(1). Pub. L. 97–35 inserted provisions relating to exception for an appointment under section 205 of this title.
 
-1979—Subsec. (a)(1). Pub. L. 96–76 inserted applicability to warrant officers and chief warrant officers.
+<b>1979</b>—Subsec. (a)(1). Pub. L. 96–76 inserted applicability to warrant officers and chief warrant officers.
 
-1960—Subsec. (a)(3). Pub. L. 86–415, §2, added par. (3).
+<b>1960</b>—Subsec. (a)(3). Pub. L. 86–415, §2, added par. (3).
 
 Subsec. (b). Pub. L. 86–415, §3, designated first, second and third sentences as par. (1), fourth sentence as par. (3), and added par. (2).
 
-1956—Subsec. (a)(1). Act Apr. 27, 1956, §3(a), inserted reference to subsection (e) of this section.
+<b>1956</b>—Subsec. (a)(1). Act Apr. 27, 1956, §3(a), inserted reference to subsection (e) of this section.
 
 Subsec. (a)(2). Act Apr. 27, 1956, §3(c)(1), substituted “an indefinite period” for “a period of not more than five years”.
 
 Subsecs. (e) to (i). Act Apr. 27, 1956, §3(b), added subsec. (e) and redesignated former subsecs. (e) to (h) as (f) to (i), respectively.
 
-1949—Subsec. (d). Act Oct. 12, 1949, substituted “base pay” for “pay and pay period” wherever appearing.
+<b>1949</b>—Subsec. (d). Act Oct. 12, 1949, substituted “base pay” for “pay and pay period” wherever appearing.
 
-1948—Subsec. (a)(1). Act Feb. 28, 1948, struck out “surgery” after “several branches of medicine”.
+<b>1948</b>—Subsec. (a)(1). Act Feb. 28, 1948, struck out “surgery” after “several branches of medicine”.
 
 Subsec. (a)(2). Act Feb. 28, 1948, struck out “any such commission” before “may be terminated”, and “in his discretion” after “at any time”.
 
@@ -106,7 +102,7 @@ Subsec. (g). Act Feb. 28, 1948, redesignated former subsec. (e) as (g) and chang
 
 Subsec. (h). Act Feb. 28, 1948, redesignated former subsec. (f) as (h).
 
-1946—Subsec. (b). Act July 3, 1946, authorized appointment of additional officers to grades above that of senior assistant but not above that of director, and limits the number so appointed to 20.
+<b>1946</b>—Subsec. (b). Act July 3, 1946, authorized appointment of additional officers to grades above that of senior assistant but not above that of director, and limits the number so appointed to 20.
 
 Subsec. (b)(2). Act Aug. 13, 1946, inserted “(A)” before “to assist”, substituted “clause” for “paragraphs”, and inserted cl. (B).
 
@@ -126,7 +122,7 @@ Amendment by act Oct. 12, 1949, effective Oct. 1, 1949, see section 533(a) of ac
 
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department ofHealth, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
 
 #### Delegation of Functions
 
@@ -162,5 +158,5 @@ Pub. L. 104–134, title I, §101(d) \[title II\], Apr. 26, 1996, 110 Stat. 1321
 
 #### Term of Reserve Commissions in Effect on April 27, 1956
 
-Section 3(c)(2) of act Apr. 27, 1956, provided that: “The enactment of paragraph (1) of this subsection \[amending subsec. (a)(2) of this section\] shall not affect the term of the commission of any officer in the Reserve Corps in effect on the date of such enactment \[Apr. 27, 1956\] unless such officer consents in writing to the extension of his commission for an indefinite period, in which event his commission shall be so extended without the necessity of a new appointment.”
+Act Apr. 27, 1956, ch. 211, §3(c)(2), 70 Stat. 117, provided that: “The enactment of paragraph (1) of this subsection \[amending this section\] shall not affect the term of the commission of any officer in the Reserve Corps in effect on the date of such enactment \[Apr. 27, 1956\] unless such officer consents in writing to the extension of his commission for an indefinite period, in which event his commission shall be so extended without the necessity of a new appointment.”
 

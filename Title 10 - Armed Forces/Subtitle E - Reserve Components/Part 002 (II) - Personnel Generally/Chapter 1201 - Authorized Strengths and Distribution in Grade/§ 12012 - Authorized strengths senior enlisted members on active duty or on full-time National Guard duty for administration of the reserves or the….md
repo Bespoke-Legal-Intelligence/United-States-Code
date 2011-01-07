@@ -67,7 +67,7 @@ Limitations.—Of the total number of members of a reserve component who are ser
 | 2,000 | 93 | 20&nbsp;&nbsp; |
 | 2,100 | 96 | 21&nbsp;&nbsp; |
 | 2,200 | 99 | 22&nbsp;&nbsp; |
-| 2,300 | 101 | 23&nbsp;&nbsp; |
+| 2,300 | 101 | 23   |
 | 2,400 | 103 | 24&nbsp;&nbsp; |
 | 2,500 | 105 | 25&nbsp;&nbsp; |
 | 2,600 | 107 | 26&nbsp;&nbsp; |
@@ -91,7 +91,7 @@ Limitations.—Of the total number of members of a reserve component who are ser
 | &nbsp; |  |  |
 | Air National Guard: |  |  |
 | 5,000 | 1,020 | 405&nbsp;&nbsp; |
-| 6,000 | 1,070 | 435   |
+| 6,000 | 1,070 | 435&nbsp;&nbsp; |
 | 7,000 | 1,120 | 465&nbsp;&nbsp; |
 | 8,000 | 1,170 | 490&nbsp;&nbsp; |
 | 9,000 | 1,220 | 510&nbsp;&nbsp; |
@@ -133,13 +133,13 @@ Provisions similar to those in this section were contained in section 517(b), (c
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–417 inserted section of table relating to the Army National Guard and struck out corresponding former section.
+<b>2008</b>—Subsec. (a). Pub. L. 110–417 inserted section of table relating to the Army National Guard and struck out corresponding former section.
 
-2006—Subsec. (a). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve” in table.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve” in table.
 
-2004—Subsec. (a). Pub. L. 108–375 inserted colon after “Air National Guard” in table.
+<b>2004</b>—Subsec. (a). Pub. L. 108–375 inserted colon after “Air National Guard” in table.
 
-2001—Subsec. (a). Pub. L. 107–107 inserted heading and amended text of subsec. (a) generally. Prior to amendment, text consisted of table setting out maximum number of enlisted members in pay grades E–8 and E–9 who may be on active duty (other than for training) or on full-time National Guard duty (other than for training) as of the end of any fiscal year in connection with organizing, administering, recruiting, instructing, or training the reserve components or the National Guard.
+<b>2001</b>—Subsec. (a). Pub. L. 107–107 inserted heading and amended text of subsec. (a) generally. Prior to amendment, text consisted of table setting out maximum number of enlisted members in pay grades E–8 and E–9 who may be on active duty (other than for training) or on full-time National Guard duty (other than for training) as of the end of any fiscal year in connection with organizing, administering, recruiting, instructing, or training the reserve components or the National Guard.
 
 Subsec. (b). Pub. L. 107–107 inserted heading and amended text of subsec. (b) generally. Prior to amendment, text read as follows: “Whenever the number of members serving in pay grade E–9 for duty described in subsection (a) is less than the number authorized for that grade under subsection (a), the difference between the two numbers may be applied to increase the number authorized under such subsection for pay grade E–8.”
 
@@ -149,17 +149,17 @@ Subsec. (d). Pub. L. 107–107 inserted heading and amended text of subsec. (d) 
 
 Subsec. (e). Pub. L. 107–107 added subsec. (e).
 
-2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title IV, §415(b)\], amended table generally, increasing the fiscal year limitation on number of enlisted members in the Army in grade of E–9 from 645 to 764 and in grade of E–8 from 2,593 to 2,821, and in the Air Force in grade of E–9 from 405 to 502 and in grade of E–8 from 1,041 to 1,117.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title IV, §415(b)\], amended table generally, increasing the fiscal year limitation on number of enlisted members in the Army in grade of E–9 from 645 to 764 and in grade of E–8 from 2,593 to 2,821, and in the Air Force in grade of E–9 from 405 to 502 and in grade of E–8 from 1,041 to 1,117.
 
 Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title IV, §421(c)\], added subsec. (c).
 
 Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title IV, §424(b)\], added subsec. (d).
 
-1999—Subsec. (a). Pub. L. 106–65 amended table generally, increasing the fiscal year limitation on number of enlisted members in the Army in grade of E–9 from 623 to 645 and in grade of E–8 from 2,585 to 2,593, and in the Air Force in grade of E–9 from 395 to 405 and in grade of E–8 from 997 to 1,041.
+<b>1999</b>—Subsec. (a). Pub. L. 106–65 amended table generally, increasing the fiscal year limitation on number of enlisted members in the Army in grade of E–9 from 623 to 645 and in grade of E–8 from 2,585 to 2,593, and in the Air Force in grade of E–9 from 395 to 405 and in grade of E–8 from 997 to 1,041.
 
-1998—Subsec. (a). Pub. L. 105–261, in table, in grade E–9 increased figure for Army from 603 to 623 and for Air Force from 366 to 395, and in grade E–8 increased figure for Air Force from 890 to 997.
+<b>1998</b>—Subsec. (a). Pub. L. 105–261, in table, in grade E–9 increased figure for Army from 603 to 623 and for Air Force from 366 to 395, and in grade E–8 increased figure for Air Force from 890 to 997.
 
-1996—Pub. L. 104–106, §1501(b)(10), substituted “the National” for “National” in section catchline.
+<b>1996</b>—Pub. L. 104–106, §1501(b)(10), substituted “the National” for “National” in section catchline.
 
 Subsec. (a). Pub. L. 104–106, §414(b), in table, in grade E–9, increased figure for Army from 569 to 603, for Air Force from 328 to 366, and for Marine Corps from 14 to 20, and in grade E–8, increased figure for Air Force from 840 to 890 and for Marine Corps from 74 to 94. All other figures remained unchanged.
 

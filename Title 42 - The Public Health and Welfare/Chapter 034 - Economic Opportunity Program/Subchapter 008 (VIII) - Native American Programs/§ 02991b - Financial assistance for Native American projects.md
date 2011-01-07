@@ -30,7 +30,7 @@ Financial assistance extended to an agency under this subchapter shall not excee
 
 (4) Grants shall be awarded under paragraph (1) on the basis of applications that are submitted by Indian tribes to the Commissioner in such form as the Commissioner shall prescribe.
 
-(Pub. L. 88–452, title VIII, §803, as added Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324; amended Pub. L. 95–568, §17(a)(39), Nov. 2, 1978, 92 Stat. 2443; Pub. L. 98–558, title X, §1002, Oct. 30, 1984, 98 Stat. 2905; Pub. L. 100–175, title V, §§502(1), 504(a), 506(c)(2), Nov. 29, 1987, 101 Stat. 973, 975, 978; Pub. L. 101–408, §2, Oct. 4, 1990, 104 Stat. 883; Pub. L. 102–375, title VIII, §822(1), (21), Sept. 30, 1992, 106 Stat. 1295, 1300; Pub. L. 102–497, §9(a), Oct. 24, 1992, 106 Stat. 3257; Pub. L. 103–171, §5(2), Dec. 2, 1993, 107 Stat. 1991.)
+(Pub. L. 88–452, title VIII, §803, as added Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324; amendedPub. L. 95–568, §17(a)(39), Nov. 2, 1978, 92 Stat. 2443; Pub. L. 98–558, title X, §1002, Oct. 30, 1984, 98 Stat. 2905; Pub. L. 100–175, title V, §§502(1), 504(a), 506(c)(2), Nov. 29, 1987, 101 Stat. 973, 975, 978; Pub. L. 101–408, §2, Oct. 4, 1990, 104 Stat. 883; Pub. L. 102–375, title VIII, §822(1), (21), Sept. 30, 1992, 106 Stat. 1295, 1300; Pub. L. 102–497, §9(a), Oct. 24, 1992, 106 Stat. 3257; Pub. L. 103–171, §5(2), Dec. 2, 1993, 107 Stat. 1991.)
 
 #### References in Text
 
@@ -44,9 +44,9 @@ A prior section 2991b, Pub. L. 88–452, title VIII, §803, as added Pub. L. 89�
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–171 substituted “areas that are not Indian reservations or Alaska Native villages” for “nonreservation areas”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–171 substituted “areas that are not Indian reservations or Alaska Native villages” for “nonreservation areas”.
 
-1992—Subsec. (a). Pub. L. 102–497 struck out “, subject to the availability of funds appropriated under the authority of section 2992d(c) of this title,” after “Commissioner is authorized” in second sentence.
+<b>1992</b>—Subsec. (a). Pub. L. 102–497 struck out “, subject to the availability of funds appropriated under the authority of section 2992d(c) of this title,” after “Commissioner is authorized” in second sentence.
 
 Pub. L. 102–375, §822(21), substituted “Alaska Native villages” for “Alaskan Native villages”.
 
@@ -56,17 +56,17 @@ Pub. L. 102–375, §822(1)(B)(ii), which directed the substitution of “area t
 
 Subsecs. (b), (c)(1), (d)(1), (4). Pub. L. 102–375, §822(1)(A), substituted “Commissioner” for “Secretary” wherever appearing.
 
-1990—Subsec. (d). Pub. L. 101–408 added subsec. (d).
+<b>1990</b>—Subsec. (d). Pub. L. 101–408 added subsec. (d).
 
-1987—Subsec. (a). Pub. L. 100–175, §506(c)(2), substituted “Native Hawaiians” for “Hawaiian Natives”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–175, §506(c)(2), substituted “Native Hawaiians” for “Hawaiian Natives”.
 
 Pub. L. 100–175, §§502(1), 504(a), inserted “, on a single year or multiyear basis,” after “assistance” in first sentence and inserted after first sentence “The Secretary is authorized, subject to the availability of funds appropriated under the authority of section 2992d(c) of this title, to provide financial assistance to public and nonprofit private agencies serving other Native American Pacific Islanders (including American Samoan Natives) for projects pertaining to the purposes of this Act.”
 
-1984—Subsec. (a). Pub. L. 98–558, §1002(a), inserted at end “Every determination made with respect to a request for financial assistance under this section shall be made without regard to whether the agency making such request serves, or the project to be assisted is for the benefit of, Indians who are not members of a federally recognized tribe. To the greatest extent practicable, the Secretary shall ensure that each project to be assisted under this subchapter is consistent with the priorities established by the agency which receives such assistance.”
+<b>1984</b>—Subsec. (a). Pub. L. 98–558, §1002(a), inserted at end “Every determination made with respect to a request for financial assistance under this section shall be made without regard to whether the agency making such request serves, or the project to be assisted is for the benefit of, Indians who are not members of a federally recognized tribe. To the greatest extent practicable, the Secretary shall ensure that each project to be assisted under this subchapter is consistent with the priorities established by the agency which receives such assistance.”
 
 Subsec. (c)(1). Pub. L. 98–558, §1002(b), designated existing provisions as par. (1) and added par. (2).
 
-1978—Pub. L. 95–568 substituted in subsecs. (b) and (c) “the Secretary determines” for “he determines”.
+<b>1978</b>—Pub. L. 95–568 substituted in subsecs. (b) and (c) “the Secretary determines” for “he determines”.
 
 #### Effective Date of 1987 Amendment
 

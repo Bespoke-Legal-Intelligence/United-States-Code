@@ -12,7 +12,7 @@ Section 1 of Pub. L. 95–568 provided: “That this Act \[enacting sections 271
 
 #### Short Title of 1977 Amendment
 
-Pub. L. 95–222, §1, Dec. 28, 1977, 91 Stat. 1619, provided that: “This Act \[amending sections 2996, 2996c, and 2996e to 2996j of this title, and enacting provisions set out as notes under sections 2996, 2996f and 2996i of this title\] may be cited as the ‘Legal Services Corporation Act Amendments of 1977’.”
+Pub. L. 95–222, §1, Dec. 28, 1977, 91 Stat. 1619, provided that: “This Act \[amending sections 2996, 2996c, and 2996e to 2996j of this title, and enacting provisions set out as notes under sections 2996, 2996f and 2996i of thistitle\] may be cited as the ‘Legal Services Corporation Act Amendments of 1977’.”
 
 #### Short Title of 1976 Amendment
 

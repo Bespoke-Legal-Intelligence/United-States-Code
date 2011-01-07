@@ -18,7 +18,7 @@ Based on 44 U.S. Code, 1964 ed., §304 (July 26, 1935, ch. 417, §4, 49 Stat. 50
 
 #### Amendments
 
-1984—Pub. L. 98–497 inserted definition of “National Archives of the United States”.
+<b>1984</b>—Pub. L. 98–497 inserted definition of “National Archives of the United States”.
 
 #### Effective Date of 1984 Amendment
 

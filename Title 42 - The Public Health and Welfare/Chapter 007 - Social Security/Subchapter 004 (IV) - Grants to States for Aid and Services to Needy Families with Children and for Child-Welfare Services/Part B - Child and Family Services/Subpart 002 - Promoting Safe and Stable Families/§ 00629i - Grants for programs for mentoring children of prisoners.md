@@ -102,7 +102,7 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 &emsp;(1) the qualifications and capacity of applicants and networks of organizations to effectively carry out a mentoring program under this section;
 
-&emsp;(2) the comparative severity of need for mentoring services in local areas, taking into consideration data on the numbers of children\(and in particular of low-income children) with an incarcerated parents <sup>1</sup> (or parents) in the areas;
+&emsp;(2) the comparative severity of need for mentoring services in local areas, taking into consideration data on the numbers of children (and in particular of low-income children) with an incarcerated parents <sup>1</sup> (or parents) in the areas;
 
 &emsp;(3) evidence of consultation with existing youth and family service programs, as appropriate; and
 
@@ -270,7 +270,7 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall enter into a contract with an independent, private organization to evaluate and prepare a report on the first 2fiscal years in which the demonstration project is conducted under this subsection.
+&emsp;&emsp;The Secretary shall enter into a contract with an independent, private organization to evaluate and prepare a report on the first 2 fiscal years in which the demonstration project is conducted under this subsection.
 
 #### (B) Deadline for report
 
@@ -282,7 +282,7 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 #### (9) No effect on eligibility for other Federal assistance
 
-&emsp;A voucher provided to a family under the demonstration project conducted under this subsection shall be disregarded for purposes of determining the eligibility for, or the amount of, any other Federal or federally-supported assistance for the family.
+&emsp;A voucher provided to a family under the demonstration project conducted under this subsection shall be disregarded for purposes of determining the eligibility for, or the amountof, any other Federal or federally-supported assistance for the family.
 
 #### (h) Independent evaluation; reports
 
@@ -342,7 +342,7 @@ A prior section 439 of act Aug. 14, 1935, was classified to section 639 of this 
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–288, §8(b)(2)(A)(i), substituted “purposes” for “purpose” in heading.
+<b>2006</b>—Subsec. (a). Pub. L. 109–288, §8(b)(2)(A)(i), substituted “purposes” for “purpose” in heading.
 
 Subsec. (a)(2). Pub. L. 109–288, §8(b)(2)(A)(ii)–(iv), substituted “Purposes” for “Purpose” in heading, substituted “The purposes of this section are to authorize the Secretary—” for “The purpose of this section is to authorize the Secretary”, designated the remaining provisions as subpar. (A), and added subpar. (B).
 
@@ -373,4 +373,6 @@ Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payment
 #### Effective Date
 
 Section effective Jan. 17, 2002, with delay permitted if State legislation is required, see section 301 of Pub. L. 107–133, set out as an Effective Date of 2002 Amendment note under section 629 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “parent”.</i>
 

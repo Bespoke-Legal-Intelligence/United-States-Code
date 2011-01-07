@@ -2,7 +2,7 @@
 
 #### (a) Establishment of National Institute of Standards and Technology
 
-There is established within the Department of Commerce a science, engineering, technology,and measurement laboratory to be known as the National Institute of Standards and Technology (hereafter in this chapter referred to as the “Institute”).
+There is established within the Department of Commerce a science, engineering, technology, and measurement laboratory to be known as the National Institute of Standards and Technology (hereafter in this chapter referred to as the “Institute”).
 
 #### (b) Functions of Secretary and Institute
 
@@ -76,7 +76,7 @@ In carrying out the functions specified in subsection (b) of this section, the S
 
 &emsp;(19) operate national user facilities;
 
-&emsp;(20) evaluate promising inventions and other novel technical concepts submitted by inventors and small companies and work with other Federal agencies, States, and localities to provide appropriate technical assistance and support for those inventions which are found in the evaluation process to have commercial promise;
+&emsp;(20) evaluate promising inventions and other novel technical concepts submitted by inventors and small companies and work with otherFederal agencies, States, and localities to provide appropriate technical assistance and support for those inventions which are found in the evaluation process to have commercial promise;
 
 &emsp;(21) demonstrate the results of the Institute's activities by exhibits or other methods of technology transfer, including the use of scientific or technical personnel of the Institute for part-time or intermittent teaching and training activities at educational institutions of higher learning as part of and incidental to their official duties; and
 
@@ -94,27 +94,27 @@ Section 278g–3 of this title, referred to in subsec. (c)(13), was amended, and
 
 #### Amendments
 
-2007—Subsec. (b). Pub. L. 110–69, §3002(c)(2)(A)(i), struck out “and, if appropriate, through other officials,” before “is authorized” in introductory provisions.
+<b>2007</b>—Subsec. (b). Pub. L. 110–69, §3002(c)(2)(A)(i), struck out “and, if appropriate, through other officials,” before “is authorized” in introductory provisions.
 
 Subsec. (b)(4). Pub. L. 110–69, §3013(b), inserted “and grants and cooperative agreements,” after “arrangements,”.
 
 Subsec. (c). Pub. L. 110–69, §3002(c)(2)(A)(ii), struck out “and, if appropriate, through other appropriate officials,” before “may,” in introductory provisions.
 
-1996—Subsec. (b)(2). Pub. L. 104–113, §12(a)(1), struck out “, including comparing standards used in scientific investigations, engineering, manufacturing, commerce, industry, and educational institutions with the standards adopted or recognized by the Federal Government” after “consistent with those standards”.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–113, §12(a)(1), struck out “, including comparing standards used in scientific investigations, engineering, manufacturing, commerce, industry, and educational institutions with the standards adopted or recognized by the Federal Government” after “consistent with those standards”.
 
 Subsec. (b)(3) to (12). Pub. L. 104–113, §12(a)(2), (3), added par. (3) and redesignated former pars. (3) to (11) as (4) to (12), respectively.
 
 Subsec. (b)(13). Pub. L. 104–113, §12(b)(3), added par. (13).
 
-1992—Subsec. (d). Pub. L. 102–245 added subsec. (d).
+<b>1992</b>—Subsec. (d). Pub. L. 102–245 added subsec. (d).
 
-1988—Pub. L. 100–418 amended section generally, substituting provisions relating to establishment, functions and activities of the National Institute of Standards and Technology and the Secretary of Commerce for provisions which authorized Secretary to undertake certain enumerated functions and activities related to the National Bureau of Standards and for which need might arise in operations of Government agencies, scientific institutions, and industrial enterprises.
+<b>1988</b>—Pub. L. 100–418 amended section generally, substituting provisions relating to establishment, functions and activities of the National Institute of Standards and Technology and the Secretary of Commerce for provisions which authorized Secretary to undertake certain enumerated functions and activities related to the National Bureau of Standards and for which need might arise in operations of Government agencies, scientific institutions, and industrial enterprises.
 
 Par. (20). Pub. L. 100–235 added par. (20).
 
-1972—Par. (19). Pub. L. 92–317 inserted provisions authorizing use of National Bureau of Standards personnel for teaching and training activities without additional compensation.
+<b>1972</b>—Par. (19). Pub. L. 92–317 inserted provisions authorizing use of National Bureau of Standards personnel for teaching and training activities without additional compensation.
 
-1950—Act July 22, 1950, provided basic authority for performance of certain functions and activities of Department of Commerce.
+<b>1950</b>—Act July 22, 1950, provided basic authority for performance of certain functions and activities of Department of Commerce.
 
 #### Enhancement of Science and Mathematics Programs
 
@@ -170,7 +170,7 @@ Consultation; participation.—In carrying out paragraph (1) of this subsection,
 
 “(3)
 
-Exception.—If compliance with paragraph (1) of this subsection is inconsistent with applicable law or otherwise impractical, a Federal agency or department may elect to use technical standards that are not developed or adopted by voluntary consensus standards bodies if the head of each such agency or department transmits to the Office of Management and Budget an explanation of the reasons for using such standards. Each year, beginning with fiscal year 1997, the Office of Management and Budget shall transmit to Congress and its committees a report summarizing all explanations received in the preceding year under this paragraph.
+Exception.—If compliance with paragraph (1) of this subsection is inconsistent with applicable law or otherwise impractical, a Federal agency or department may elect to use technical standards that are not developed or adopted by voluntary consensus standardsbodies if the head of each such agency or department transmits to the Office of Management and Budget an explanation of the reasons for using such standards. Each year, beginning with fiscal year 1997, the Office of Management and Budget shall transmit to Congress and its committees a report summarizing all explanations received in the preceding year under this paragraph.
 
 “(4)
 
@@ -210,7 +210,7 @@ Pub. L. 100–418, title V, §5112(d), Aug. 23, 1988, 102 Stat. 1431, provided t
 
 “(2) The Director may revise the organization plan. Any revision of the organization plan submitted under paragraph (1) shall be submitted to the appropriate committees of the House of Representatives and the Senate at least 60 days before the effective date of such revision.
 
-“(3) Until the effective date of the organization plan, the major operating units of the Institute shall be themajor operating units of the National Bureau of Standards that were in existence on the date of the enactment of this Act \[Aug. 23, 1988\] and the Advanced Technology Program.”
+“(3) Until the effective date of the organization plan, the major operating units of the Institute shall be the major operating units of the National Bureau of Standards that were in existence on the date of the enactment of this Act \[Aug. 23, 1988\] and the Advanced Technology Program.”
 
 #### National Institute of Standards and Technology; Small Business Plan
 

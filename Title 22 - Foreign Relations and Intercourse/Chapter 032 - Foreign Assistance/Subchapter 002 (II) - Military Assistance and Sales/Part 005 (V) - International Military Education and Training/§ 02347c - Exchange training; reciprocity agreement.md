@@ -20,9 +20,9 @@ The President may provide for the attendance of foreign military and civilian de
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–228 added subsec. (c).
+<b>2002</b>—Subsec. (c). Pub. L. 107–228 added subsec. (c).
 
-1996—Pub. L. 104–164 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1996</b>—Pub. L. 104–164 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date
 

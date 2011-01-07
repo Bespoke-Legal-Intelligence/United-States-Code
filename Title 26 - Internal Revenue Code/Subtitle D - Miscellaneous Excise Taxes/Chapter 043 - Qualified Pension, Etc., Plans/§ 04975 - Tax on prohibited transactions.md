@@ -666,7 +666,7 @@ The Securities Exchange Act of 1934, referred to in subsec. (f)(8)(J)(i)(IV), (1
 
 #### Amendments
 
-2008—Subsec. (d)(17). Pub. L. 110–458, §106(a)(2)(A), substituted “that permits” for “and that permits” in introductory provisions.
+<b>2008</b>—Subsec. (d)(17). Pub. L. 110–458, §106(a)(2)(A), substituted “that permits” for “and that permits” in introductory provisions.
 
 Subsec. (d)(18). Pub. L. 110–458, §106(b)(2)(A), in introductory provisions, substituted “disqualified person” for “party in interest” and “subsection (e)(3)” for “subsection (e)(3)(B)”.
 
@@ -686,7 +686,7 @@ Subsec. (f)(8)(J)(i). Pub. L. 110–458, §106(a)(2)(B)(v), substituted “a par
 
 Subsec. (f)(11)(B)(i). Pub. L. 110–458, §106(c), inserted “of the Employee Retirement Income Security Act of 1974” after “section 407(d)(1)” and “of such Act” after “section 407(d)(2)”.
 
-2006—Subsec. (d)(17). Pub. L. 109–280, §601(b)(1), added par. (17).
+<b>2006</b>—Subsec. (d)(17). Pub. L. 109–280, §601(b)(1), added par. (17).
 
 Subsec. (d)(18). Pub. L. 109–280, §611(a)(2)(A), added par. (18).
 
@@ -708,19 +708,19 @@ Subsec. (f)(10). Pub. L. 109–280, §611(d)(2)(B), added par. (10).
 
 Subsec. (f)(11). Pub. L. 109–280, §612(b)(2), added par. (11).
 
-2005—Subsec. (d)(16)(A). Pub. L. 109–135, §413(a)(2)(A), inserted “or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)(1))” after “a bank (as defined in section 581)”.
+<b>2005</b>—Subsec. (d)(16)(A). Pub. L. 109–135, §413(a)(2)(A), inserted “or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)(1))” after “a bank (as defined in section 581)”.
 
 Subsec. (d)(16)(C). Pub. L. 109–135, §413(a)(2)(B), inserted “or company” after “such bank”.
 
-2004—Subsec. (d)(16). Pub. L. 108–357, §233(c), added par. (16).
+<b>2004</b>—Subsec. (d)(16). Pub. L. 108–357, §233(c), added par. (16).
 
 Subsec. (f)(7). Pub. L. 108–357, §240(a), added par. (7).
 
-2003—Subsec. (c)(6). Pub. L. 108–173, §1201(f)(1), added par. (6).
+<b>2003</b>—Subsec. (c)(6). Pub. L. 108–173, §1201(f)(1), added par. (6).
 
 Subsec. (e)(1)(E) to (G). Pub. L. 108–173, §1201(f)(2), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
 
-2001—Subsec. (c)(5). Pub. L. 107–22, §1(b)(1)(D), (3)(D), in heading, substituted “Coverdell education savings” for “education individual retirement” and in text, substituted “a Coverdell education savings” for “an education individual retirement”.
+<b>2001</b>—Subsec. (c)(5). Pub. L. 107–22, §1(b)(1)(D), (3)(D), in heading, substituted “Coverdell education savings” for “education individual retirement” and in text, substituted “a Coverdell education savings” for “an education individual retirement”.
 
 Subsec. (e)(1)(E). Pub. L. 107–22, §1(b)(1)(D), substituted “a Coverdell education savings” for “an education individual retirement”.
 
@@ -728,7 +728,7 @@ Subsec. (e)(7). Pub. L. 107–16, §656(b), inserted “, section 409(p),” af
 
 Subsec. (f)(6)(B)(iii). Pub. L. 107–16, §612(a), added cl. (iii).
 
-2000—Subsec. (c)(4). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(10)\], substituted “an Archer” for “a Archer”.
+<b>2000</b>—Subsec. (c)(4). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(10)\], substituted “an Archer” for “a Archer”.
 
 Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(7), (b)(7)\], substituted “Archer MSAs” for “medical savings accounts” in heading and “Archer MSA” for “medical savings account” in text.
 
@@ -736,11 +736,11 @@ Subsec. (e)(1)(D). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(10)\], subs
 
 Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(7)\], substituted “Archer MSA” for “medical savings account”.
 
-1998—Subsec. (c)(3). Pub. L. 105–206, §6023(19)(A), substituted “exempt from the tax” for “exempt for the tax”.
+<b>1998</b>—Subsec. (c)(3). Pub. L. 105–206, §6023(19)(A), substituted “exempt from the tax” for “exempt for the tax”.
 
 Subsec. (i). Pub. L. 105–206, §6023(19)(B), substituted “Secretary of the Treasury” for “Secretary of Treasury”.
 
-1997—Subsec. (a). Pub. L. 105–34, §1074(a), substituted “15 percent” for “10 percent”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–34, §1074(a), substituted “15 percent” for “10 percent”.
 
 Subsec. (c)(4). Pub. L. 105–34, §1602(a)(5), substituted “if section 220(e)(2) applies to such transaction.” for “if, with respect to such transaction, the account ceases to be a medical savings account by reason of the application of section 220(e)(2) to such account.”
 
@@ -756,7 +756,7 @@ Subsec. (e)(7). Pub. L. 105–34, §1530(c)(10), inserted “and section 664(g)�
 
 Subsec. (f)(6). Pub. L. 105–34, §1506(b)(1)(A), added par. (6).
 
-1996—Subsec. (a). Pub. L. 104–188, §1453(a), substituted “10 percent” for “5 percent”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–188, §1453(a), substituted “10 percent” for “5 percent”.
 
 Subsec. (c)(4). Pub. L. 104–191, §301(f)(1), added par. (4).
 
@@ -764,15 +764,15 @@ Subsec. (d)(13). Pub. L. 104–188, §1702(g)(3), substituted “408(b)(12)” f
 
 Subsec. (e)(1). Pub. L. 104–191, §301(f)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘plan’ means a trust described in section 401(a) which forms a part of a plan, or a plan described in section 403(a), which trust or plan is exempt from tax under section 501(a), an individual retirement account described in section 408(a) or an individual retirement annuity described in section 408(b) (or a trust, plan, account, or annuity which, at any time, has been determined by the Secretary to be such a trust, plan, or account).”
 
-1990—Subsec. (d)(13). Pub. L. 101–508 inserted before semicolon at end “or which is exempt from section 406 of such Act by reason of section 408(b) of such Act”.
+<b>1990</b>—Subsec. (d)(13). Pub. L. 101–508 inserted before semicolon at end “or which is exempt from section 406 of such Act by reason of section 408(b) of such Act”.
 
-1986—Subsec. (d). Pub. L. 99–514, §1899A(51), inserted a closing parenthesis after “and (12)” in second sentence.
+<b>1986</b>—Subsec. (d). Pub. L. 99–514, §1899A(51), inserted a closing parenthesis after “and (12)” in second sentence.
 
 Subsec. (d)(1)(B). Pub. L. 99–514, §1114(b)(15)(A), substituted “highly compensated employees (within the meaning of section 414(q))” for “highly compensated employees, officers, or shareholders”.
 
 Subsec. (e)(7). Pub. L. 99–514, §1854(f)(3)(A), inserted “, section 409(<i>o</i>), and, if applicable, section 409(n)” in last sentence.
 
-1984—Subsec. (d). Pub. L. 98–369, §491(d)(45), substituted in provision following par. (15) “or an individual retirement annuity (as defined in section 408)” for “, individual retirement annuity, or an individual retirement bond (as defined in section 408 or 409)”.
+<b>1984</b>—Subsec. (d). Pub. L. 98–369, §491(d)(45), substituted in provision following par. (15) “or an individual retirement annuity (as defined in section 408)” for “, individual retirement annuity, or an individual retirement bond (as defined in section 408 or 409)”.
 
 Subsec. (e)(1). Pub. L. 98–369, §491(d)(46), struck out “or 405(a)” after “section 403(a)” and “or a retirement bond described in section 409” after “section 408(b)”, and substituted “or annuity” for “annuity, or bond” and “or account” for “account, or bond”.
 
@@ -780,9 +780,9 @@ Subsec. (e)(7). Pub. L. 98–369, §491(e)(7), substituted “section 409(h)” 
 
 Subsec. (e)(8). Pub. L. 98–369, §491(e)(8), substituted “section 409(<i>l</i>)” for “section 409A(<i>l</i>)”.
 
-1983—Subsec. (d). Pub. L. 97–448 inserted “, as in effect on the day before the date of the enactment of the Subchapter S Revision Act of 1982” after “section 1379” in last sentence.
+<b>1983</b>—Subsec. (d). Pub. L. 97–448 inserted “, as in effect on the day before the date of the enactment of the Subchapter S Revision Act of 1982” after “section 1379” in last sentence.
 
-1980—Subsec. (b). Pub. L. 96–596, §2(a)(1)(K), substituted “taxable period” for “correction period”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–596, §2(a)(1)(K), substituted “taxable period” for “correction period”.
 
 Subsec. (d)(14), (15). Pub. L. 96–364, §208(b), added pars. (14) and (15).
 
@@ -798,11 +798,11 @@ Subsec. (f)(4)(B). Pub. L. 96–596, §2(a)(1)(L), substituted “taxable period
 
 Subsec. (f)(6). Pub. L. 96–596, §2(a)(3)(F), struck out par. (6), which defined correction period, with respect to a prohibited transaction, as the period beginning on the date on which the prohibited transaction occurs and ending 90 days after the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (b) of this section under section 6212 of this title, extended by any period in which a deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines is reasonable and necessary to bring about the correction of the prohibited transaction.
 
-1978—Subsec. (d)(3). Pub. L. 95–600, §141(f)(6), substituted “leveraged employee” for “employee”.
+<b>1978</b>—Subsec. (d)(3). Pub. L. 95–600, §141(f)(6), substituted “leveraged employee” for “employee”.
 
 Subsec. (e)(7). Pub. L. 95–600, §141(f)(5), substituted in heading “Leveraged employee” for “Employee”, and in text, “leveraged employee” for “employee” and inserted provision that a plan not be treated as a leveraged employee stock ownership plan unless it meet the requirements of section 409A(e) and (h).
 
-1976—Subsecs. (c) to (f). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (c) to (f). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date of 2008 Amendment
 

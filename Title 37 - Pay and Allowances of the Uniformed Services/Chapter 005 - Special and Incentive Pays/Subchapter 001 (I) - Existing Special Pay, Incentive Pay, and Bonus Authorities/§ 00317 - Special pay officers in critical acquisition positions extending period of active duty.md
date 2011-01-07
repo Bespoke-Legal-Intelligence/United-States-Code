@@ -18,7 +18,7 @@ Amount of Bonus.—The amount of a bonus paid under this section for each year a
 
 (d)
 
-Payment of Bonus.—Upon the acceptance of a written agreement under subsection (a) by the Secretary concerned, the total amount payable pursuant to the agreement becomes fixed and may be paid by the Secretary in either a lump sum or installments.
+Payment of Bonus.—Upon the acceptance of a written agreement under subsection (a) bythe Secretary concerned, the total amount payable pursuant to the agreement becomes fixed and may be paid by the Secretary in either a lump sum or installments.
 
 (e)
 
@@ -40,7 +40,7 @@ Regulations.—The Secretaries concerned shall prescribe regulations to carry ou
 
 #### Amendments
 
-2006—Subsec. (f). Pub. L. 109–163 amended heading and text of subsec. (f) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to repayment of bonus required when officer fails to complete total period of agreed upon active duty.
+<b>2006</b>—Subsec. (f). Pub. L. 109–163 amended heading and text of subsec. (f) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to repayment of bonus required when officer fails to complete total period of agreed upon active duty.
 
 #### Effective Date
 
@@ -48,5 +48,5 @@ Section 1203(b) of Pub. L. 101–510 provided that: “Section 317 of title 37, 
 
 #### Savings Provision
 
-For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under aprovision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of Title 10, Armed Forces.
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of Title 10, Armed Forces.
 

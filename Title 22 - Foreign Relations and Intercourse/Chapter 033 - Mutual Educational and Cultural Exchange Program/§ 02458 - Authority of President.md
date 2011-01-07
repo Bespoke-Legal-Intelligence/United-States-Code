@@ -28,9 +28,9 @@ The United States Information and Educational Exchange Act of 1948, as amended, 
 
 #### Amendments
 
-1980—Subsec. (b). Pub. L. 96–470 substituted provision requiring periodic reports on activities and expenditures made under this chapter and the United States Information and Educational Exchange Act of 1948 for provision requiring an annual report be made on activities and expenditures under this chapter.
+<b>1980</b>—Subsec. (b). Pub. L. 96–470 substituted provision requiring periodic reports on activities and expenditures made under this chapter and the United States Information and Educational Exchange Act of 1948 for provision requiring an annual report be made on activities and expenditures under this chapter.
 
-1979—Subsec. (a). Pub. L. 96–60 designated existing provisions as par. (1) and added par. (2).
+<b>1979</b>—Subsec. (a). Pub. L. 96–60 designated existing provisions as par. (1) and added par. (2).
 
 #### Effective Date of 1979 Amendment
 

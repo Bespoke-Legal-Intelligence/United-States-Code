@@ -18,7 +18,7 @@ Any contract with the pool or an insurance company or other private organization
 
 #### (c) Competitive bidding
 
-Any contract entered into under subsection (a) of this section may be entered into without regard to section 5 of title 41 or any other provision of law requiring competitive bidding.
+Any contract entered into under subsection (a) of this section may be entered into without regard to section 6101 of title 41 or any other provision of law requiring competitive bidding.
 
 #### (d) Findings of Director
 
@@ -42,9 +42,13 @@ Any contract entered into under this section shall be for a term of one year, an
 
 This chapter, referred to in subsecs. (a)(4) and (f), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
+#### Codification
+
+In subsec. (c), “section 6101 of title 41” substituted for “section 3709 of the Revised Statute (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-1983—Subsecs. (a), (b), (d), (e)(1), (f). Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+<b>1983</b>—Subsecs. (a), (b), (d), (e)(1), (f). Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
 
 #### Transfer of Functions
 

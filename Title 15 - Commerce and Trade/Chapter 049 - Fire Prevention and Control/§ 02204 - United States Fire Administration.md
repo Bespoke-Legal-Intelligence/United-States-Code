@@ -16,9 +16,9 @@ There shall be in the Administration a Deputy Administrator of the United States
 
 #### Amendments
 
-2000—Subsec. (b). Pub. L. 106–503 substituted “Director” for “Secretary”.
+<b>2000</b>—Subsec. (b). Pub. L. 106–503 substituted “Director” for “Secretary”.
 
-1978—Subsecs. (a) to (c). Pub. L. 95–422 substituted “United States Fire Administration” for “National Fire Prevention and Control Administration”.
+<b>1978</b>—Subsecs. (a) to (c). Pub. L. 95–422 substituted “United States Fire Administration” for “National Fire Prevention and Control Administration”.
 
 #### Transfer of Functions
 

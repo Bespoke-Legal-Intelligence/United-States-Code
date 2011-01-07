@@ -96,7 +96,7 @@ Written Agreement.—A written agreement under this section shall—
 
 &emsp;&emsp;(A) agrees to assume all or part of the responsibilities of the Secretary described in subsection (a);
 
-&emsp;&emsp;(B) expressly consents, on behalf of the State, to accept the jurisdiction of the Federal courts for the compliance, discharge, and enforcement of any responsibility of the Secretary assumed by the State;
+&emsp;&emsp;(B) expressly consents, on behalf of the State, to accept the jurisdiction of the Federal courts for the compliance, discharge,and enforcement of any responsibility of the Secretary assumed by the State;
 
 &emsp;&emsp;(C) certifies that State laws (including regulations) are in effect that—
 
@@ -164,7 +164,7 @@ Termination.—
 
 &emsp;(1)
 
-In general.—Except as provided in paragraph (2), the program shall terminate on the date that is 6 years after the date of enactment of this section.
+In general.—Except as provided in paragraph (2), the program shall terminate on the date that is 7 years after the date of enactment of this section.
 
 &emsp;(2)
 
@@ -180,11 +180,15 @@ Termination by secretary.—The Secretary may terminate the participation of any
 
 &emsp;&emsp;(C) the State, after the notification and period provided under subparagraph (B), fails to take satisfactory corrective action, as determined by Secretary.
 
-(Added Pub. L. 109–59, title VI, §6005(a), Aug. 10, 2005, 119 Stat. 1868.)
+(Added Pub. L. 109–59, title VI, §6005(a), Aug. 10, 2005, 119 Stat. 1868; amended Pub. L. 111–322, title II, §2203(c), Dec. 22, 2010, 124 Stat. 3526.)
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(2)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(2)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The date of enactment of this section, referred to in subsecs. (b)(2) and (i)(1), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (i)(1). Pub. L. 111–322 substituted “7 years after” for “6 years after”.
 

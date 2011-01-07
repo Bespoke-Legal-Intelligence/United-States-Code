@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1983—Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+<b>1983</b>—Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
 
 #### Transfer of Functions
 

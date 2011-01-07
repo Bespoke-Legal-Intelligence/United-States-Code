@@ -24,7 +24,7 @@ A prior section 274<i>l</i>, act July 1, 1944, ch. 373, title III, §379A, as ad
 
 #### Amendments
 
-2005—Pub. L. 109–129, amended section generally, substituting provisions relating to the stem cell therapeutic outcomes database for provisions relating to the bone marrow scientific registry.
+<b>2005</b>—Pub. L. 109–129, amended section generally, substituting provisions relating to the stem cell therapeutic outcomes database for provisions relating to the bone marrow scientific registry.
 
 #### Effective Date
 

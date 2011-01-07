@@ -172,7 +172,7 @@ If counter-cyclical payments are required to be paid under this section for any 
 
 #### (A) First partial payment
 
-&emsp;&emsp;For each of the 2008 through 2010 crops of a covered commodity, the first partial payment under paragraph (3) to the producerson a farm may not exceed 40 percent of the projected counter-cyclical payment for the covered commodity for the crop year, as determined by the Secretary.
+&emsp;&emsp;For each of the 2008 through 2010 crops of a covered commodity, the first partial payment under paragraph (3) to the producers on a farm may not exceed 40 percent of the projected counter-cyclical payment for the covered commodity for the crop year, as determined by the Secretary.
 
 #### (B) Final payment
 

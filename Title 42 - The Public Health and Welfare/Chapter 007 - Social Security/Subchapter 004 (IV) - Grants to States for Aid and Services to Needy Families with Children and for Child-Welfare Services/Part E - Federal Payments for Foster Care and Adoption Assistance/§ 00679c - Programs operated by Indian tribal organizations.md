@@ -86,7 +86,7 @@ Except as otherwise provided in this section, this part shall apply in the same 
 
 #### (II) Transition period for early approved tribes, organizations, or consortia
 
-&emsp;&emsp;&emsp;&emsp;Subject to clause (v), if the tribe, organization, or consortium is an early approved tribe, organization, or consortium (as defined in subclause (III) of this clause), the Secretary shall not require the tribe, organization, or consortium to comply with such regulations before October 1, 2013. Until the earlier of the date such tribe, organization, or consortium comes into compliance with such regulations or October 1, 2013, the limitations on the claiming of in-kind expenditures from third-party sources under clause (ii) shall continue to apply to such tribe, organization, or consortium (without regard to fiscal limitation) for purposes of determining the non-Federal share of amounts expended by the tribe, organization, or consortium during any fiscal year quarter that begins after September 30, 2011, and before such date of compliance or October 1, 2013, whichever is earlier.
+&emsp;&emsp;&emsp;&emsp;Subject to clause (v), if the tribe, organization, or consortium is an early approved tribe, organization, or consortium (as defined in subclause (III) of this clause), the Secretary shall not require the tribe, organization, or consortium tocomply with such regulations before October 1, 2013. Until the earlier of the date such tribe, organization, or consortium comes into compliance with such regulations or October 1, 2013, the limitations on the claiming of in-kind expenditures from third-party sources under clause (ii) shall continue to apply to such tribe, organization, or consortium (without regard to fiscal limitation) for purposes of determining the non-Federal share of amounts expended by the tribe, organization, or consortium during any fiscal year quarter that begins after September 30, 2011, and before such date of compliance or October 1, 2013, whichever is earlier.
 
 #### (III) Definition of early approved tribe, organization, or consortium
 
@@ -100,7 +100,7 @@ Except as otherwise provided in this section, this part shall apply in the same 
 
 &emsp;&emsp;&emsp;If, at the time expenditures are made for a fiscal year quarter beginning after September 30, 2011, and before October 1, 2014, for which a tribe, organization, or consortium may receive payments for <sup>1</sup> under section 674(a)(3) of this title, no regulations required to be promulgated under section 301(e)(2) of the Fostering Connections to Success and Increasing Adoptions Act of 2008 are in effect, and no legislation has been enacted specifying otherwise—
 
-&emsp;&emsp;&emsp;&emsp;(I) in the case of any quarter of fiscal year 2012, 2013, or 2014, the limitations onclaiming in-kind expenditures from third-party sources under clause (ii) of this subparagraph shall apply (without regard to fiscal limitation) for purposes of determining the non-Federal share of such expenditures; and
+&emsp;&emsp;&emsp;&emsp;(I) in the case of any quarter of fiscal year 2012, 2013, or 2014, the limitations on claiming in-kind expenditures from third-party sources under clause (ii) of this subparagraph shall apply (without regard to fiscal limitation) for purposes of determining the non-Federal share of such expenditures; and
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of any quarter of fiscal year 2015 or any fiscal year thereafter, no tribe, organization, or consortium may claim in-kind expenditures from third-party sources for purposes of determining the non-Federal share of such expenditures if a State with a plan approved under section 671(a) of this title could not claim in-kind expenditures from third-party sources for such purposes.
 
@@ -149,4 +149,6 @@ Enactment of this section effective Oct. 7, 2008, except as otherwise provided, 
 #### Construction
 
 For construction of section, see section 301(d) of Pub. L. 110–351, set out as a Construction of 2008 Amendment note under section 671 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

@@ -4,7 +4,7 @@ For purposes of this subchapter—
 
 &emsp;(1) The term “direct loan” means a disbursement of funds by the Government to a non-Federal borrower under a contract that requires the repayment of such funds with or without interest. The term includes the purchase of, or participation in, a loan made by another lender and financing arrangements that defer payment for more than 90 days, including the sale of a government <sup>1</sup> asset on credit terms. The term does not include the acquisition of a federally guaranteed loan in satisfaction of default claims or the price support loans of the Commodity Credit Corporation.
 
-&emsp;(2) The term “direct loan obligation” means a binding agreement by a Federal agency tomake a direct loan when specified conditions are fulfilled by the borrower.
+&emsp;(2) The term “direct loan obligation” means a binding agreement by a Federal agency to make a direct loan when specified conditions are fulfilled by the borrower.
 
 &emsp;(3) The term “loan guarantee” means any guarantee, insurance, or other pledge with respect to the payment of all or a part of the principal or interest on any debt obligation of a non-Federal borrower to a non-Federal lender, but does not include the insurance of deposits, shares, or other withdrawable accounts in financial institutions.
 
@@ -54,7 +54,7 @@ For purposes of this subchapter—
 
 #### Prior Provisions
 
-A prior section 502 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 321, was set out as a note under section 1020 of former Title 31, prior to repeal by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
+A prior section 502 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 321, was set out as a note under section1020 of former Title 31, prior to repeal by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
 
 #### Amendments
 
@@ -70,7 +70,7 @@ Par. (5)(B), (C). Pub. L. 105–33, §10117(a)(3), added subpars. (B) and (C) an
 
 &emsp;“(ii) repayments of principal; and
 
-&emsp;“(iii) payments of interest and other payments by or to the Government over the life of the loan afteradjusting for estimated defaults, prepayments, fees, penalties and other recoveries.
+&emsp;“(iii) payments of interest and other payments by or to the Government over the life of the loan after adjusting for estimated defaults, prepayments, fees, penalties and other recoveries.
 
 “(C) The cost of a loan guarantee shall be the net present value when a guaranteed loan is disbursed of the cash flow from—
 

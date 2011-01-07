@@ -38,7 +38,7 @@
 
 &emsp;(2) when directed by the court, a United States marshal may take possession of a mortgaged vessel even if the vessel is in the possession or under the control of a person claiming a possessory common law lien.
 
-(f)(1) Before title to the documented vessel or vessel for which an application for documentation is filed under chapter 121 is transferred by an extrajudicial remedy, the person exercising the remedy shall give notice of the proposed transfer to the Secretary, to the mortgagee of any mortgage on the vessel filed in substantial compliance with section 31321 of this title before notice of the proposed transfer is given to the Secretary, and to any person that recorded an unexpired notice of a claim of an undischarged lien on the vessel under section 31343(a) or (d) of this title before notice of the proposed transfer is given to the Secretary.
+(f)(1) Before title to the documented vessel or vessel for which an application for documentation is filed under chapter 121 is transferred by an extrajudicial remedy, the person exercising the remedy shall give notice of the proposed transfer to the Secretary, to the mortgagee of any mortgage on the vessel filed in substantial compliance with section 31321 of this title before notice of the proposed transfer is given to the Secretary, and to any person that recorded an unexpired notice of a claim of an undischarged lien on the vessel under section 31343(a) or (d) ofthis title before notice of the proposed transfer is given to the Secretary.
 
 (2) Failure to give notice as required by this subsection shall not affect the transfer of title to a vessel. However, the rights of any holder of a maritime lien or a preferred mortgage on the vessel shall not be affected by a transfer of title by an extrajudicial remedy exercised under this section, regardless of whether notice is required by this subsection or given.
 
@@ -98,17 +98,17 @@ Subsection (c) of this section clarifies that the district courts have original 
 
 #### Amendments
 
-2008—Subsec. (b)(3)(B). Pub. L. 110–181 amended Pub. L. 109–304, §15(30). See 2006 Amendment note below.
+<b>2008</b>—Subsec. (b)(3)(B). Pub. L. 110–181 amended Pub. L. 109–304, §15(30). See 2006 Amendment note below.
 
-2006—Subsec. (b)(3)(B). Pub. L. 109–304, §15(30), as amended by Pub. L. 110–181, substituted “section 56101 or 56102 of this title” for “section 9 or 37 of the Shipping Act, 1916 (46 App. U.S.C. 808, 835)”.
+<b>2006</b>—Subsec. (b)(3)(B). Pub. L. 109–304, §15(30), as amended by Pub. L. 110–181, substituted “section 56101 or 56102 of this title” for “section 9 or 37 of the Shipping Act, 1916 (46 App. U.S.C. 808, 835)”.
 
-2002—Subsec. (d)(1)(B). Pub. L. 107–295, §205(b)(1), substituted “an unexpired notice of a claim” for “a notice of a claim”.
+<b>2002</b>—Subsec. (d)(1)(B). Pub. L. 107–295, §205(b)(1), substituted “an unexpired notice of a claim” for “a notice of a claim”.
 
 Subsec. (f)(1). Pub. L. 107–295, §205(b)(2), substituted “an unexpired notice of a claim” for “a notice of a claim”.
 
-1998—Subsecs. (b)(1), (3), (c). Pub. L. 105–383 inserted “a vessel titled in a State,” after “chapter 121 of this title,”.
+<b>1998</b>—Subsecs. (b)(1), (3), (c). Pub. L. 105–383 inserted “a vessel titled in a State,” after “chapter 121 of this title,”.
 
-1996—Subsec. (b). Pub. L. 104–324, §1124(a)(1), substituted “mortgagee may” for “mortgage may” in introductory provisions.
+<b>1996</b>—Subsec. (b). Pub. L. 104–324, §1124(a)(1), substituted “mortgagee may” for “mortgage may” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 104–324, §1124(a)(2)(A), substituted “preferred” for “perferred”.
 
@@ -116,7 +116,7 @@ Subsec. (b)(3). Pub. L. 104–324, §1124(a)(2)(B), (3), added par. (3).
 
 Subsec. (f). Pub. L. 104–324, §1124(b), added subsec. (f).
 
-1989—Subsecs. (b), (c). Pub. L. 101–225 amended subsecs. (b) and (c) generally. Prior to amendment, subsecs. (b) and (c) read as follows:
+<b>1989</b>—Subsecs. (b), (c). Pub. L. 101–225 amended subsecs. (b) and (c) generally. Prior to amendment, subsecs. (b) and (c) read as follows:
 
 “(b) On default of any term of the preferred mortgage, the mortgagee may enforce the preferred mortgage lien in—
 
@@ -130,7 +130,7 @@ Subsec. (f). Pub. L. 104–324, §1124(b), added subsec. (f).
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–181 effective as if included in the enactment of Pub. L. 109–304, see section 3529(b)(2) of Pub. L. 110–181, set out as a note under section 3205 of this title.
+Amendment by Pub. L. 110–181 effective as if included in the enactment of Pub. L. 109–304, see section3529(b)(2) of Pub. L. 110–181, set out as a note under section 3205 of this title.
 
 #### Effective Date of 2002 Amendment
 

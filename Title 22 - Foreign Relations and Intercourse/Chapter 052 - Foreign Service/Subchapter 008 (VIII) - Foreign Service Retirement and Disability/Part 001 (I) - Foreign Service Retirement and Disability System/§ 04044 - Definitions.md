@@ -98,9 +98,9 @@ This chapter, referred to in par. (1), was in the original “this Act”, meani
 
 #### Amendments
 
-1998—Par. (15). Pub. L. 105–382 added par. (15).
+<b>1998</b>—Par. (15). Pub. L. 105–382 added par. (15).
 
-1988—Par. (13). Pub. L. 100–238, §211(1), which directed the amendment of par. (13) by striking out “, in the case of death in service or marriage after retirement,” was executed by striking out “, in the case of a death in service or marriage after retirement,” after “annuitant who”, as the probable intent of Congress.
+<b>1988</b>—Par. (13). Pub. L. 100–238, §211(1), which directed the amendment of par. (13) by striking out “, in the case of death in service or marriage after retirement,” was executed by striking out “, in the case of a death in service or marriage after retirement,” after “annuitant who”, as the probable intent of Congress.
 
 Pub. L. 100–238, §211(2), (3), substituted “9 months” for “one year” and inserted before semicolon at end “, except that the requirement for at least 9 months of marriage shall be deemed satisfied in any case in which the participant or annuitant dies within the applicable 9-month period, if—
 
@@ -108,7 +108,7 @@ Pub. L. 100–238, §211(2), (3), substituted “9 months” for “one year” 
 
 &emsp;“(B) the surviving spouse of such individual had been previously married to the individual and subsequently divorced and the aggregate time married is at least 9 months”.
 
-1986—Pub. L. 99–335, §402(a)(2), substituted “part” for “subchapter” in provision preceding par. (1).
+<b>1986</b>—Pub. L. 99–335, §402(a)(2), substituted “part” for “subchapter” in provision preceding par. (1).
 
 Par. (3). Pub. L. 99–335, §403, substituted “, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, or the Virgin Islands, and any Indian court as defined in section 1301(3) of title 25” for “or of the District of Columbia”.
 
@@ -118,7 +118,7 @@ Par. (14). Pub. L. 99–335, §402(a)(3), inserted “under this part” after �
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–382, §4, Nov. 13, 1998, 112 Stat. 3409, as amended by Pub. L. 106–554, §1(a)(4) \[div. B, title I, §145(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–250, provided that:
+Pub. L. 105–382, §4, Nov. 13, 1998, 112 Stat. 3409, as amended by Pub. L. 106–554, §1(a)(4) \[div. B, title I,§145(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–250, provided that:
 
 “(a)
 

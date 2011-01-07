@@ -42,7 +42,7 @@
 
 (3) In each case in which the rate of payment to an individual is determined under paragraph (1) of this subsection, the period of entitlement of such individual under this chapter shall be charged at the rate of one month for each payment of educational assistance to the individual that is equal to the amount of monthly educational assistance the individual would otherwise be eligible to receive for full-time pursuit of an institutional course under this chapter.
 
-(e)(1) Notwithstanding subsection (a) of this section, each individual who is pursuing a program of education consisting exclusively of flight training approved as meeting the requirements of section 3034(d) of this title shall be paid an educational assistance allowance under thischapter in the amount equal to 60 percent of the established charges for tuition and fees which similarly circumstanced nonveterans enrolled in the same flight course are required to pay.
+(e)(1) Notwithstanding subsection (a) of this section, each individual who is pursuing a program of education consisting exclusively of flight training approved as meeting the requirements of section 3034(d) of this title shall be paid an educational assistance allowance under this chapter in the amount equal to 60 percent of the established charges for tuition and fees which similarly circumstanced nonveterans enrolled in the same flight course are required to pay.
 
 (2) No educational assistance allowance may be paid under this chapter to an individual for any month during which such individual is pursuing a program of education consisting exclusively of flight training until the Secretary has received from that individual and the institution providing such training a certification of the flight training received by the individual during that month and the tuition and other fees charged for that training.
 
@@ -66,25 +66,25 @@
 
 #### Amendments
 
-2004—Subsec. (g). Pub. L. 108–454 added subsec. (g).
+<b>2004</b>—Subsec. (g). Pub. L. 108–454 added subsec. (g).
 
-2001—Subsec. (b). Pub. L. 107–14 substituted “the least of the following:” for “the lesser of” and added cl. (3).
+<b>2001</b>—Subsec. (b). Pub. L. 107–14 substituted “the least of the following:” for “the lesser of” and added cl. (3).
 
-2000—Subsec. (f). Pub. L. 106–419 added subsec. (f).
+<b>2000</b>—Subsec. (f). Pub. L. 106–419 added subsec. (f).
 
-1996—Subsecs. (d) to (f). Pub. L. 104–275 redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows:
+<b>1996</b>—Subsecs. (d) to (f). Pub. L. 104–275 redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows:
 
-“(d)(1) The amount of the monthly educational assistance allowance payable to an individual pursuing a cooperative program under this chapter shall be 80 percent of the monthly allowance otherwise payable to such individual under section 3015 and section 3022, if applicable, of this title.
+“(d)(1) The amount of the monthly educational assistance allowance payable to an individual pursuing acooperative program under this chapter shall be 80 percent of the monthly allowance otherwise payable to such individual under section 3015 and section 3022, if applicable, of this title.
 
 “(2) For each month that an individual is paid a monthly educational assistance allowance for pursuit of a cooperative program under this chapter, the individual's entitlement under this chapter shall be charged at the rate of 80 percent of a month.”
 
-1994—Subsec. (f)(3). Pub. L. 103–446 substituted “(d), or (e)(1)” for “(c), or (d)(1)”.
+<b>1994</b>—Subsec. (f)(3). Pub. L. 103–446 substituted “(d), or (e)(1)” for “(c), or (d)(1)”.
 
-1992—Subsec. (f)(1). Pub. L. 102–568, §310(a)(1), struck out “(other than tuition and fees charged for or attributable to solo flying hours)” after “for tuition and fees”.
+<b>1992</b>—Subsec. (f)(1). Pub. L. 102–568, §310(a)(1), struck out “(other than tuition and fees charged for or attributable to solo flying hours)” after “for tuition and fees”.
 
 Subsec. (f)(4). Pub. L. 102–568, §310(a)(2), added par. (4).
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1432 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1432 of this title as this section.
 
 Subsec. (d)(1). Pub. L. 102–83, §5(c)(1), substituted “3015” for “1415” and “3022” for “1422”.
 
@@ -94,9 +94,9 @@ Subsec. (f)(3). Pub. L. 102–83, §5(c)(1), substituted “3015” for “1415�
 
 Pub. L. 102–16 substituted “(c), or (d)(1)” for “or (c)”.
 
-1989—Subsec. (f). Pub. L. 101–237 added subsec. (f).
+<b>1989</b>—Subsec. (f). Pub. L. 101–237 added subsec. (f).
 
-1988—Subsec. (c)(3)(A). Pub. L. 100–689, §111(a)(8)(A), (B), designated existing provision as subpar. (A) and substituted “Except as provided in subparagraph (B) of this paragraph, for” for “For”, and redesignated subpars. (A) to (C) as cls. (i) to (iii), respectively.
+<b>1988</b>—Subsec. (c)(3)(A). Pub. L. 100–689, §111(a)(8)(A), (B), designated existing provision as subpar. (A) and substituted “Except as provided in subparagraph (B) of this paragraph, for” for “For”, and redesignated subpars. (A) to (C) as cls. (i) to (iii), respectively.
 
 Subsec. (c)(3)(B). Pub. L. 100–689, §111(a)(8)(C), added subpar. (B).
 
@@ -104,13 +104,13 @@ Subsec. (d). Pub. L. 100–689, §108(a)(2), added subsec. (d).
 
 Subsec. (e). Pub. L. 100–689, §111(a)(7)(A), added subsec. (e).
 
-1986—Pub. L. 99–576, §301(d)(1), substituted “Limitations” for “Limitation” in section catchline.
+<b>1986</b>—Pub. L. 99–576, §301(d)(1), substituted “Limitations” for “Limitation” in section catchline.
 
 Subsec. (c). Pub. L. 99–576, §301(b), added subsec. (c).
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–14 effective as if enacted on Nov. 1, 2000, immediately after the enactment ofPub. L. 106–419, see section 7(b)(3) of Pub. L. 107–14, set out as a note under section 3014 of this title.
+Amendment by Pub. L. 107–14 effective as if enacted on Nov. 1, 2000, immediately after the enactment of Pub. L. 106–419, see section 7(b)(3) of Pub. L. 107–14, set out as a note under section 3014 of this title.
 
 #### Effective Date of 2000 Amendment
 

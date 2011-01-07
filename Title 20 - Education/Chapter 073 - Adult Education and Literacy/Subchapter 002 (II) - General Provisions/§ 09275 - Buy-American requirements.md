@@ -1,8 +1,8 @@
 ### §9275. Buy-American requirements
 
-#### (a) Compliance with Buy American Act
+#### (a) Compliance with chapter 83 of title 41
 
-None of the funds made available under title I \[29 U.S.C. 2801 et seq.\], II \[20 U.S.C. 9201 et seq.\], or III or this subchapter may be expended by an entity unless the entity agrees that in expending the funds the entity will comply with the Buy American Act (41 U.S.C. 10a et seq.).
+None of the funds made available under title I \[29 U.S.C. 2801 et seq.\], II \[20 U.S.C. 9201 et seq.\], or III or this subchapter may be expended by an entity unless the entity agrees that in expending the funds the entity will comply with chapter 83 of title 41.
 
 #### (b) Sense of the Congress; requirement regarding notice
 
@@ -22,13 +22,17 @@ If it has been finally determined by a court or Federal agency that any person i
 
 #### References in Text
 
-Titles I, II, and III, referred to in subsecs. (a) and (b), are titles I, II, and III of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, 1059, 1080, as amended. Title I is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. Title II, known as the Adult Education and Family Literacy Act, is classified principally to subchapter I (§9201 et seq.) of this chapter. Title III enacted section 49<i>l</i>–2 of this title and section 4110B of Title 38, Veterans’ Benefits, amended sections 49a to 49c, 49d, 49e to 49g, 49j, 49k, 633a, and 791 of this title, section 7103 of Title 5, Government Organization and Employees, section 2311 of Title 19, Customs Duties, and sections 655a, 2000e–16, and 3056 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under sections 49a, 633a, and 2701 of this title. For complete classification of titles I, II, and III to the Code, see Short Title note set out under section 9201 of this title and Tables.
+Titles I, II, and III, referred to in subsecs. (a) and (b), are titles I, II, and III of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, 1059, 1080. Title I is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. Title II, known as the Adult Education and Family Literacy Act, is classified principally to subchapter I (§9201 et seq.) of this chapter. Title III enacted section 49<i>l</i>–2 of this title and section 4110B of Title 38, Veterans’ Benefits, amended sections 49a to 49c, 49d, 49e to 49g, 49j, 49k, 633a, and 791 of this title, section 7103 of Title 5, Government Organization and Employees, section 2311 of Title 19, Customs Duties, and sections 655a, 2000e–16, and 3056 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under sections 49a, 633a, and 2701 of this title. For complete classification of titles I, II, and III to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
-The Buy American Act, referred to in subsec. (a), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, as amended, which is classified generally to sections 10a, 10b, and 10c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
+#### Codification
+
+In subsec. (a) heading, “chapter 83 of title 41” substituted for “Buy American Act” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (a), “chapter 83 of title 41” substituted for “the Buy American Act (41 U.S.C. 10a et seq.)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–277, §101(f) \[title VIII, §401(18)(A)\], substituted “under title I, II, or III or this subchapter” for “in this Act”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §101(f) \[title VIII, §401(18)(A)\], substituted “under title I, II, or III or this subchapter” for “in this Act”.
 
 Subsec. (b)(1), (2). Pub. L. 105–277, §101(f) \[title VIII, §401(18)(B)\], substituted “under title I, II, or III or this subchapter” for “under this Act”.
 

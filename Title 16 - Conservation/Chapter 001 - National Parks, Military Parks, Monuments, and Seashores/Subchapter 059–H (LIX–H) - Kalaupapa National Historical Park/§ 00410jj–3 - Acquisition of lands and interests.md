@@ -18,11 +18,11 @@ The Secretary is authorized to acquire by any of the foregoing methods except co
 
 Subsection (c) of section 460<i>l</i>–22, referred to in subsec. (a), was redesignated subsection (d) and a new subsection (c) was added by Pub. L. 98–506, §2, Oct. 19, 1984, 98 Stat. 2338.
 
-The Hawaiian Homes Commission Act of 1920, referred to in subsec. (a), probably means the Hawaiian Homes Commission Act, 1920, act July 9, 1921, ch. 42, 42 Stat. 108, as amended, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code.
+The Hawaiian Homes Commission Act of 1920, referred to in subsec. (a), probably means the HawaiianHomes Commission Act, 1920, act July 9, 1921, ch. 42, 42 Stat. 108, as amended, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code.
 
 #### Amendments
 
-1987—Subsec. (a). Pub. L. 100–202 inserted at end “The Secretary may lease from the Department of Hawaiian Home Lands said trust lands until such time as said lands may be acquired by exchange as set forth herein or otherwise acquired. The Secretary may enter into such a lease without regard to fiscal year limitations.”
+<b>1987</b>—Subsec. (a). Pub. L. 100–202 inserted at end “The Secretary may lease from the Department of Hawaiian Home Lands said trust lands until such time as said lands may be acquired by exchange as set forth herein or otherwise acquired. The Secretary may enter into such a lease without regard to fiscal year limitations.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

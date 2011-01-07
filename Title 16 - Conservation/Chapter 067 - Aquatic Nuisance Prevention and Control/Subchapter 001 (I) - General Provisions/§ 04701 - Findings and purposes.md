@@ -46,7 +46,7 @@ The Congress finds that—
 
 &emsp;&emsp;(D) certain shellfish pathogens;
 
-&emsp;(12) many aquatic nuisance vegetation species, such as Eurasian watermilfoil, hydrilla, water hyacinth, and water chestnut, have been introduced to waters of the United States from other parts of the world causing or having a potential to cause adverse environmental, ecological, and economic effects;
+&emsp;(12) many aquatic nuisance vegetation species, such as Eurasian watermilfoil, hydrilla, water hyacinth, and water chestnut, have beenintroduced to waters of the United States from other parts of the world causing or having a potential to cause adverse environmental, ecological, and economic effects;
 
 &emsp;(13) if preventive management measures are not taken nationwide to prevent and control unintentionally introduced nonindigenous aquatic species in a timely manner, further introductions and infestations of species that are as destructive as, or more destructive than, the zebra mussel or the ruffe infestations may occur;
 
@@ -76,7 +76,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, wh
 
 #### Amendments
 
-1996—Pub. L. 104–332, §2(h)(1), made technical amendment to Pub. L. 101–646, §1002, which enacted this section.
+<b>1996</b>—Pub. L. 104–332, §2(h)(1), made technical amendment to Pub. L. 101–646, §1002, which enacted this section.
 
 Subsec. (a)(2), (3). Pub. L. 104–332, §2(a)(1)(A), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
@@ -92,7 +92,7 @@ Subsec. (a)(6) to (15). Pub. L. 104–332, §2(a)(1)(B)(ii), (C), (D), added par
 
 #### Short Title of 1996 Amendment
 
-Section 1(a) of Pub. L. 104–332 provided that: “This Act \[enacting sections 4713 and 4714 of this title, amending sections 941 to 941g, 4701, 4702, 4711, 4712, 4721 to 4728, 4741 and 4751 of this title, section 42 of Title 18, Crimes and Criminal Procedure, and section 2761 of Title 33, Navigation and Navigable Waters, enacting provisions set out as a note under this section, and amending provisions set out as notes under this section, section 941 of this title, and section 2701 of Title33\] may be cited as the ‘National Invasive Species Act of 1996’.”
+Section 1(a) of Pub. L. 104–332 provided that: “This Act \[enacting sections 4713 and 4714 of this title, amending sections 941 to 941g, 4701, 4702, 4711, 4712, 4721 to 4728, 4741 and 4751 of this title, section 42 of Title 18, Crimes and Criminal Procedure, and section 2761 of Title 33, Navigation and Navigable Waters, enacting provisions set out as a note under this section, and amending provisions set out as notes under this section, section 941 of this title, and section 2701 of Title 33\] may be cited as the ‘National Invasive Species Act of 1996’.”
 
 #### Short Title
 

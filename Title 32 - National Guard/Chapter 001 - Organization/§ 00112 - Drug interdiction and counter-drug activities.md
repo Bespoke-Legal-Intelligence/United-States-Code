@@ -50,7 +50,7 @@ Plan Requirements.—A State drug interdiction and counter-drug activities plan 
 
 &emsp;(5) include a certification by the Attorney General of the State (or, in the case of a State with no position of Attorney General, a civilian official of the State equivalent to a State attorney general) that the use of the National Guard of the State for the activities proposed under the plan is authorized by, and is consistent with, State law; and
 
-&emsp;(6) certify that the Governor of the State or a civilian law enforcement official of the State designated by the Governor has determinedthat any activities included in the plan that are carried out in conjunction with Federal law enforcement agencies serve a State law enforcement purpose.
+&emsp;(6) certify that the Governor of the State or a civilian law enforcement official of the State designated by the Governor has determined that any activities included in the plan that are carried out in conjunction with Federal law enforcement agencies serve a State law enforcement purpose.
 
 (d)
 
@@ -112,15 +112,15 @@ Similar provisions were contained in Pub. L. 100–456, div. A, title XI, §1105
 
 #### Amendments
 
-2004—Subsec. (e). Pub. L. 108–375, §416(k)(1), (2), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “Members of the National Guard on active duty or full-time National Guard duty for the purposes of administering (or during fiscal year 1993 otherwise implementing) this section shall not be counted toward the annual end strength authorized for reserves on active duty in support of the reserve components of the armed forces or toward the strengths authorized in sections 12011 and 12012 of title 10.”
+<b>2004</b>—Subsec. (e). Pub. L. 108–375, §416(k)(1), (2), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “Members of the National Guard on active duty or full-time National Guard duty for the purposes of administering (or during fiscal year 1993 otherwise implementing) this section shall not be counted toward the annual end strength authorized for reserves on active duty in support of the reserve components of the armed forces or toward the strengths authorized in sections 12011 and 12012 of title 10.”
 
 Subsec. (e)(1)(A), (B). Pub. L. 108–375, §416(k)(3), struck out “for a period of more than 180 days” after “order to duty”.
 
 Subsecs. (f) to (i). Pub. L. 108–375, §416(k)(2), redesignated subsecs. (g) to (i) as (f) to (h), respectively.
 
-1999—Subsec. (a)(3). Pub. L. 106–65 substituted “per item” for “per purchase order” in second sentence.
+<b>1999</b>—Subsec. (a)(3). Pub. L. 106–65 substituted “per item” for “per purchase order” in second sentence.
 
-1998—Subsec. (a). Pub. L. 105–261, §1022(e)(1), substituted “for the following:” for “for—” in introductory provisions.
+<b>1998</b>—Subsec. (a). Pub. L. 105–261, §1022(e)(1), substituted “for the following:” for “for—” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 105–261, §1022(e)(2), (3), substituted “The pay” for “the pay” and “activities.” for “activities;”.
 
@@ -134,7 +134,7 @@ Subsec. (b)(3). Pub. L. 105–261, §1022(c), amended par. (3) generally. Prior 
 
 Subsec. (i)(1). Pub. L. 105–261, §1022(d), inserted “, including drug demand reduction activities,” after “drug interdiction and counter-drug law enforcement activities”.
 
-1997—Subsec. (b). Pub. L. 105–85, §1031(a), designated existing provisions as par. (1) and added pars. (2) and (3).
+<b>1997</b>—Subsec. (b). Pub. L. 105–85, §1031(a), designated existing provisions as par. (1) and added pars. (2) and (3).
 
 Subsec. (c)(4) to (6). Pub. L. 105–85, §1031(b)(1), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
@@ -142,7 +142,7 @@ Subsec. (e). Pub. L. 105–85, §1031(d), designated par. (1) as subsec. (e) and
 
 Subsecs. (g) to (i). Pub. L. 105–85, §1031(c), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
-1996—Subsec. (a). Pub. L. 104–106, §1021(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of Defense may provide to the Governor of a State who submits a plan to the Secretary under subsection (b) sufficient funds for—
+<b>1996</b>—Subsec. (a). Pub. L. 104–106, §1021(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of Defense may provide to the Governor of a State who submits a plan to the Secretary under subsection (b) sufficient funds for—
 
 &emsp;“(1) the pay, allowances, clothing, subsistence, gratuities, travel, and related expenses of personnel of the National Guard of that State used for—
 
@@ -180,9 +180,9 @@ Subsec. (h). Pub. L. 104–106, §1021(b)(1), redesignated subsec. (f) as (h).
 
 Subsec. (h)(1). Pub. L. 104–106, §1021(g), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘counter-drug activities’ includes the use of National Guard personnel, while not in Federal service, in any law enforcement activities authorized by State and local law and requested by the Governor.”
 
-1992—Subsec. (e)(1). Pub. L. 102–396 inserted “(or during fiscal year 1993 otherwise implementing)” after “administering”.
+<b>1992</b>—Subsec. (e)(1). Pub. L. 102–396 inserted “(or during fiscal year 1993 otherwise implementing)” after “administering”.
 
-1991—Subsec. (c)(2). Pub. L. 102–25 substituted “in consultation with the Director of National Drug Control Policy.” for “in consultation with—
+<b>1991</b>—Subsec. (c)(2). Pub. L. 102–25 substituted “in consultation with the Director of National Drug Control Policy.” for “in consultation with—
 
 &emsp;“(A) the Attorney General of the United States in the case of a plan submitted for fiscal year 1990; and
 

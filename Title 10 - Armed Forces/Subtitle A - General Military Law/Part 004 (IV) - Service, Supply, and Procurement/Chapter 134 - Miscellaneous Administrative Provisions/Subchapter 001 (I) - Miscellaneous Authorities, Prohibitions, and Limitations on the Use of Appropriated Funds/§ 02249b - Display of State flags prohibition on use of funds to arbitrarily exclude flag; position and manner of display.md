@@ -12,5 +12,5 @@ Position and Manner of Display.—The display of an official flag of a State, te
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–225 substituted “section 7 of title 4 and any modification of section 7 under section 10 of title 4” for “the provisions of section 3 of the Joint Resolution of June 22, 1942 (56 Stat. 378, chapter 435; 36 U.S.C. 175), and any modification of such provisions under section 8 of that Joint Resolution (36 U.S.C. 178)”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–225 substituted “section 7 of title 4 and any modification of section 7 under section 10 of title 4” for “the provisions of section 3 of the Joint Resolution of June 22, 1942 (56 Stat. 378, chapter 435; 36 U.S.C. 175), and any modification of such provisions under section 8 of that Joint Resolution (36 U.S.C. 178)”.
 

@@ -142,11 +142,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a)(2), (5)(B). Pub. L. 110–246, §4002(b)(1)(A), (2)(V), substituted “supplemental nutrition assistance program” for “food stamp program”.
+<b>2008</b>—Subsec. (a)(2), (5)(B). Pub. L. 110–246, §4002(b)(1)(A), (2)(V), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
 Subsec. (b)(4). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(V), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
-1999—Subsec. (a)(3). Pub. L. 106–170, §405(b)(2), inserted “(as defined in section 653a(a)(2)(B) of this title)” after “employers”.
+<b>1999</b>—Subsec. (a)(3). Pub. L. 106–170, §405(b)(2), inserted “(as defined in section 653a(a)(2)(B) of this title)” after “employers”.
 
 Pub. L. 106–170, §405(b)(1), which directed striking out “(as defined in section 653a(a)(2)(B)(iii) of this title)” after “labor organizations”, was executed by striking “(as defined in section 653a(a)(2)(B)(ii) of this title)” to reflect the probable intent of Congress and the amendment by Pub. L. 106–169.
 
@@ -154,7 +154,7 @@ Pub. L. 106–170, §405(a), inserted before semicolon at end: “, and except 
 
 Pub. L. 106–169, substituted “653a(a)(2)(B)(ii) of this title))” for “653a(a)(2)(B)(iii) of this title)”. See Effective Date of 1999 Amendment note below.
 
-1996—Subsec. (a)(3). Pub. L. 104–193, §313(c), inserted “(including State and local governmental entities and labor organizations (as defined in section 653a(a)(2)(B)(iii) of this title)” after “employers” and “, and except that no report shall be filed with respect to an employee of a State or local agency performing intelligence or counterintelligence functions, if the head of such agency has determined that filing such a report could endanger the safety of the employee or compromise an ongoing investigation or intelligence mission” before semicolon at end.
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–193, §313(c), inserted “(including State and local governmental entities and labor organizations (as defined in section 653a(a)(2)(B)(iii) of this title)” after “employers” and “, and except that no report shall be filed with respect to an employee of a State or local agency performing intelligence or counterintelligence functions, if the head of such agency has determined that filing such a report could endanger the safety of the employee or compromise an ongoing investigation or intelligence mission” before semicolon at end.
 
 Subsec. (b)(1). Pub. L. 104–193, §108(g)(8)(A), added par. (1) and struck out former par. (1) which read as follows: “the aid to families with dependent children program under part A of subchapter IV of this chapter;”.
 
@@ -162,11 +162,11 @@ Subsec. (d)(1)(B). Pub. L. 104–193, §108(g)(8)(B), substituted “In this sub
 
 Subsec. (d)(4)(B)(i). Pub. L. 104–208 amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the State shall transmit to the Immigration and Naturalization Service photostatic or other similar copies of such documents for official verification,”.
 
-1994—Subsec. (d)(1)(A). Pub. L. 103–432 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The State shall require, as a condition of an individual's eligibility for benefits under any program listed in subsection (b) of this section, a declaration in writing by the individual (or, in the case of an individual who is a child, by another on the individual's behalf), under penalty of perjury, stating whether or not the individual is a citizen or national of the United States, and, if that individual is not a citizen or national of the United States, that the individual is in a satisfactory immigration status.”
+<b>1994</b>—Subsec. (d)(1)(A). Pub. L. 103–432 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The State shall require, as a condition of an individual's eligibility for benefits under any program listed in subsection (b) of this section, a declaration in writing by the individual (or, in the case of an individual who is a child, by another on the individual's behalf), under penalty of perjury, stating whether or not the individual is a citizen or national of the United States, and, if that individual is not a citizen or national of the United States, that the individual is in a satisfactory immigration status.”
 
-1988—Subsec. (f). Pub. L. 100–360 added subsec. (f).
+<b>1988</b>—Subsec. (f). Pub. L. 100–360 added subsec. (f).
 
-1986—Subsec. (a). Pub. L. 99–603, §121(a)(1)(A), inserted “which meets the requirements of subsection (d) of this section and” after “system” in introductory text.
+<b>1986</b>—Subsec. (a). Pub. L. 99–603, §121(a)(1)(A), inserted “which meets the requirements of subsection (d) of this section and” after “system” in introductory text.
 
 Subsec. (a)(2), (4)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
@@ -212,7 +212,7 @@ Pub. L. 99–603, title I, §121(c)(3), (4), Nov. 6, 1986, 100 Stat. 3391, 3392,
 
 “(3)
 
-Use of verification system required in fiscal year 1989.—Except as provided in paragraph (4), the amendments made by subsection (a) \[amending this section, section 1436a of this title, and section 1091 of Title 20, Education\] take effect on October 1, 1988. States have until that date to begin complying with the requirements imposed by those amendments.
+Use of verification system required in fiscal year 1989.—Except as provided in paragraph (4), the amendments made by subsection (a) \[amending this section, section 1436a of this title, and section 1091 ofTitle 20, Education\] take effect on October 1, 1988. States have until that date to begin complying with the requirements imposed by those amendments.
 
 “(4)
 
@@ -270,7 +270,7 @@ Definitions.—In this paragraph:
 
 &emsp;&emsp;&emsp;“(V) The food stamp program under the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008, 7 U.S.C. 2011 et seq.\].
 
-&emsp;&emsp;&emsp;“(VI) The programs of financial assistance for housing subject to section 214 of the Housing andCommunity Development Act of 1980 \[42 U.S.C. 1436a\].
+&emsp;&emsp;&emsp;“(VI) The programs of financial assistance for housing subject to section 214 of the Housing and Community Development Act of 1980 \[42 U.S.C. 1436a\].
 
 &emsp;&emsp;&emsp;“(VII) The program of grants, loans, and work assistance under title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq.; 42 U.S.C. 2751 et seq.\].
 
@@ -312,7 +312,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Immigration and Naturalization Service To Establish Verification System by October 1, 1987
 
-Section 121(c)(1) of Pub. L. 99–603 provided that: “The Commissioner of Immigration and Naturalization shall implement a system for the verification of immigration status under paragraphs (3) and (4)(B)(i) of section 1137(d) of the Social Security Act \[subsec. (d)(3) and (4)(B)(i) of this section\] (as amended by this section) so that the system is available to all the States by not later than October 1, 1987. Such system shall not be used by the Immigration and Naturalization Service for administrative (non-criminal) immigration enforcement purposes and shall be implemented in a manner that provides for verification of immigration status without regard to the sex, color, race, religion, or nationality of the individual involved.”
+Section 121(c)(1) of Pub. L. 99–603 provided that: “The Commissioner of Immigration and Naturalization shallimplement a system for the verification of immigration status under paragraphs (3) and (4)(B)(i) of section 1137(d) of the Social Security Act \[subsec. (d)(3) and (4)(B)(i) of this section\] (as amended by this section) so that the system is available to all the States by not later than October 1, 1987. Such system shall not be used by the Immigration and Naturalization Service for administrative (non-criminal) immigration enforcement purposes and shall be implemented in a manner that provides for verification of immigration status without regard to the sex, color, race, religion, or nationality of the individual involved.”
 
 #### General Accounting Office Reports
 

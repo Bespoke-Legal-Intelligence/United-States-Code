@@ -22,5 +22,5 @@ Section was not enacted as part of the Older Americans Act of 1965 which compris
 
 #### Amendments
 
-1981—Par. (1). Pub. L. 97–115 substituted “supportive services” for “social services”.
+<b>1981</b>—Par. (1). Pub. L. 97–115 substituted “supportive services” for “social services”.
 

@@ -76,11 +76,11 @@ Method of Transportation Authorized.—(1) The transportation authorized by subs
 
 #### Amendments
 
-2009—Pub. L. 111–84, §632(g)(1), substituted “designated individuals incident to hospitalization of members for treatment of wounds, illness, or injury” for “family members incident to illness or injury of members” in section catchline.
+<b>2009</b>—Pub. L. 111–84, §632(g)(1), substituted “designated individuals incident to hospitalization of members for treatment of wounds, illness, or injury” for “family members incident to illness or injury of members” in section catchline.
 
 Subsec. (a). Pub. L. 111–84, §632(f)(1), inserted heading.
 
-Subsec. (a)(1). Pub. L. 111–84, §632(a)(1), substituted “individuals who, with respect to a member described in paragraph (2), are designated individuals for that member” for “family members of a member described in paragraph (2)”, “, with respect to any such individual, that the presence of such individual” for “that the presence of the family member”, and “of designated individuals” for “of family members”.
+Subsec. (a)(1). Pub. L. 111–84, §632(a)(1), substituted “individuals who, with respect to a member described in paragraph (2), are designated individuals for that member” for “family members of a member describedin paragraph (2)”, “, with respect to any such individual, that the presence of such individual” for “that the presence of the family member”, and “of designated individuals” for “of family members”.
 
 Subsec. (a)(2)(B)(i). Pub. L. 111–84, §632(c)(1)(A), (2)(A), (d)(1), inserted “seriously wounded,” after “(i) is” and “(including having a serious mental disorder)” after “seriously injured” and struck out “in or outside the United States” after “medical facility”.
 
@@ -106,11 +106,11 @@ Subsec. (c)(1). Pub. L. 111–84, §632(f)(3)(B), substituted “designated indi
 
 Subsec. (d). Pub. L. 111–84, §632(f)(4), inserted heading.
 
-2006—Subsec. (a)(2)(B)(ii). Pub. L. 109–163 struck out “under section 1967(e)(1)(A) of title 38” after “Secretary of Defense”.
+<b>2006</b>—Subsec. (a)(2)(B)(ii). Pub. L. 109–163 struck out “under section 1967(e)(1)(A) of title 38” after “Secretary of Defense”.
 
 Subsec. (b)(1)(E). Pub. L. 109–364 added subpar. (E).
 
-2005—Pub. L. 109–13, §1026(b)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Travel and transportation allowances: transportation of family members incident to the serious illness or injury of members”.
+<b>2005</b>—Pub. L. 109–13, §1026(b)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Travel and transportation allowances: transportation of family members incident to the serious illness or injury of members”.
 
 Subsec. (a)(2)(B), (C). Pub. L. 109–13, §1026(a)(1)(B), added subpar. (B) and struck out former subpars. (B) and (C) which read as follows:
 
@@ -120,21 +120,21 @@ Subsec. (a)(2)(B), (C). Pub. L. 109–13, §1026(a)(1)(B), added subpar. (B) and
 
 Subsec. (a)(3). Pub. L. 109–13, §1026(a)(2), added par. (3).
 
-2004—Subsec. (a)(1). Pub. L. 108–375, §632(a), (b)(1), inserted “travel and” before “transportation”, substituted “three family members” for “two family members”, and inserted second sentence.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–375, §632(a), (b)(1), inserted “travel and” before “transportation”, substituted “three family members” for “two family members”, and inserted second sentence.
 
 Subsec. (c). Pub. L. 108–375, §632(b)(2), designated existing provisions as par. (1) and added par. (2).
 
-2003—Subsec. (a)(1). Pub. L. 108–136, §632(1), substituted “control” for “military control”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136, §632(1), substituted “control” for “military control”.
 
 Subsec. (a)(2)(A). Pub. L. 108–136, §632(2), substituted “, is entitled” for “or is entitled” and inserted before semicolon at end “, or is retired for the illness or injury referred to in subparagraph (B)”.
 
-1994—Subsec. (a)(1). Pub. L. 103–337, §624(a)(1), substituted “may contribute to” for “is necessary for”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–337, §624(a)(1), substituted “may contribute to” for “is necessary for”.
 
 Subsec. (a)(2)(B). Pub. L. 103–337, §624(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “is seriously ill or seriously injured; and”.
 
 Subsec. (b)(3). Pub. L. 103–337, §624(b), added par. (3).
 
-1988—Subsec. (a)(2). Pub. L. 100–456 amended par. (2) generally, inserting “or is entitled to pay and allowances under section 204(g) of this title (or would be so entitled were it not for offsetting earned income described in that section)” in subpar. (A).
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–456 amended par. (2) generally, inserting “or is entitled to pay and allowances under section 204(g) of this title (or would be so entitled were it not for offsetting earned income described in that section)” in subpar. (A).
 
 #### Effective Date of 2009 Amendment
 
@@ -150,7 +150,7 @@ Pub. L. 109–163, div. A, title VI, §655(c), Jan. 6, 2006, 119 Stat. 3314, pro
 
 #### Effective and Termination Dates of 2005 Amendments
 
-Pub. L. 109–77, §115, Sept. 30, 2005, 119 Stat. 2040, provided that: “The provisions of, and amendments made by, sections 1011, 1012, 1013, 1023, and 1026 of Public Law 109–13 \[amending this section, section 1478 of Title 10, Armed Forces, and sections 1967, 1969, 1970, and 1977 of Title 38, Veterans’ Benefits, and enacting provisions set out as notes under this section, section 1478 of Title 10, and section 1967 of Title 38\] shall continue in effect, notwithstanding the fiscal year limitation in section 1011 \[119 Stat. 244\] and the provisions of sections 1012(i), 1013(e), 1023(c), and 1026(e) of that Public Law \[enactingprovisions set out as notes under this section, section 1478 of Title 10, and section 1967 of Title 38\], through the earlier of: (1) the date specified in section 106(3) of this joint resolution \[Dec. 31, 2005\]; or (2) with respect to any such section of Public Law 109–13, the date of the enactment into law of legislation that supersedes the provisions of, or the amendments made by, that section.”
+Pub. L. 109–77, §115, Sept. 30, 2005, 119 Stat. 2040, provided that: “The provisions of, and amendments made by, sections 1011, 1012, 1013, 1023, and 1026 of Public Law 109–13 \[amending this section, section 1478 of Title 10, Armed Forces, and sections 1967, 1969, 1970, and 1977 of Title 38, Veterans’ Benefits, and enacting provisions set out as notes under this section, section 1478 of Title 10, and section 1967 of Title 38\] shall continue in effect, notwithstanding the fiscal year limitation in section 1011 \[119 Stat. 244\] and the provisions of sections 1012(i), 1013(e), 1023(c), and 1026(e) of that Public Law \[enacting provisions set out as notes under this section, section 1478 of Title 10, and section 1967 of Title 38\], through the earlier of: (1) the date specified in section 106(3) of this joint resolution \[Dec. 31, 2005\]; or (2) with respect to any such section of Public Law 109–13, the date of the enactment into law of legislation that supersedes the provisions of, or the amendments made by, that section.”
 
 Pub. L. 109–13, div. A, title I, §1026(e), May 11, 2005, 119 Stat. 255, which provided that the amendments made by section 1026 of Pub. L. 109–13 (amending this section) were to terminate Sept. 30, 2005, and that effective Oct. 1, 2005, the provisions of section 411h of title 37 as in effect on the date before the date of the enactment of this Act (May 11, 2005) were to be revived, was repealed by Pub. L. 109–163, div. A, title VI, §655(a), Jan. 6, 2006, 119 Stat. 3314. See Effective Date of 2006 Amendment note and section 115 of Pub. L. 109–77 set out above.
 

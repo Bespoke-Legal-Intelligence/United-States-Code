@@ -20,7 +20,7 @@ This is a criminal provision. The first two paragraphs of the corresponding sect
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–465, in first par., substituted “used, offered for sale, or sold by such person within the United States, or imported by the person into the United States” for “used, or sold by him” and “made, offered for sale, sold, or imported into the United States” for “made or sold”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–465, in first par., substituted “used, offered for sale, or sold by such person within the United States, or imported by the person into the United States” for “used, or sold by him” and “made, offered for sale, sold, or imported into the United States” for “made or sold”.
 
 #### Effective Date of 1994 Amendment
 

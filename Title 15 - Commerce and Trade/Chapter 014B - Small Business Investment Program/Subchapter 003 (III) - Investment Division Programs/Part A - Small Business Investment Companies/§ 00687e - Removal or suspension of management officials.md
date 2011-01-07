@@ -60,7 +60,7 @@ In this section, the term “management official” means an officer, director, 
 
 #### (1) In general
 
-&emsp;The Administrator may, if the Administrator deems it necessary for the protection of the licensee or the interests of the Administration, suspend from office or prohibit from further participation in any manner in the management or conduct of the affairs of the licensee, or both, any management official referred to in subsection (b)(1) of this section, by written notice to such effect served upon the management official.
+&emsp;The Administrator may, if the Administrator deems it necessary for the protection of the licensee or the interests of the Administration, suspend from office or prohibit fromfurther participation in any manner in the management or conduct of the affairs of the licensee, or both, any management official referred to in subsection (b)(1) of this section, by written notice to such effect served upon the management official.
 
 #### (2) Effectiveness
 
@@ -76,7 +76,7 @@ In this section, the term “management official” means an officer, director, 
 
 #### (3) Judicial review
 
-&emsp;Not later than 10 days after any management official has been suspended from officeor prohibited from participation in the management or conduct of the affairs of a licensee, or both, under paragraph (1), that management official may apply to the United States district court for the judicial district in which the home office of the licensee is located, or the United States District Court for the District of Columbia, for a stay of the suspension or prohibition pending the completion of the administrative proceedings pursuant to a notice of intent to remove served upon the management official under subsection (b) of this section, and such court shall have jurisdiction to stay such action.
+&emsp;Not later than 10 days after any management official has been suspended from office or prohibited from participation in the management or conduct of the affairs of a licensee, or both, under paragraph (1), that management official may apply to the United States district court for the judicial district in which the home office of the licensee is located, or the United States District Court for the District of Columbia, for a stay of the suspension or prohibition pending the completion of the administrative proceedings pursuant to a notice of intent to remove served upon the management official under subsection (b) of this section, and such court shall have jurisdiction to stay such action.
 
 #### (d) Authority to suspend on criminal charges
 
@@ -158,5 +158,5 @@ For definition of “this chapter”, referred to in subsec. (b)(1)(A)(i)(I), (I
 
 #### Amendments
 
-2001—Pub. L. 107–100 amended section catchline and text generally. Prior to amendment, text related to removal and suspension of directors and officers of licensees, with regard to written notice of intention to remove and grounds for removal; suspension pending completion of administrative proceedings; a hearing upon notice of intention to remove a director or officer and issuance of an order of removal; a stay of suspension and/or prohibition by a United States district court; suspension of directors and officers charged with felonies involving dishonesty or breach of trust; and procedural aspects of hearings provided for in this section.
+<b>2001</b>—Pub. L. 107–100 amended section catchline and text generally. Prior to amendment, text related to removal and suspension of directors and officers of licensees, with regard to written notice of intention to remove and grounds for removal; suspension pending completion of administrative proceedings; a hearing upon notice of intention to remove a director or officer and issuance of an order of removal; a stay of suspension and/or prohibition by a United States district court; suspension of directors and officers charged with felonies involving dishonesty or breach of trust; and procedural aspects of hearings provided for in this section.
 

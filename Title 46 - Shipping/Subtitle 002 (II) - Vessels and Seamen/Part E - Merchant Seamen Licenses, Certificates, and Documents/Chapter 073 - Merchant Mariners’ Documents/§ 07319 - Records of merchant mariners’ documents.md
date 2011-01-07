@@ -18,5 +18,5 @@ Section 7319 requires the Secretary to maintain records on each merchant mariner
 
 #### Amendments
 
-2004—Pub. L. 108–293 struck out at end “The records are not open to general or public inspection.”
+<b>2004</b>—Pub. L. 108–293 struck out at end “The records are not open to general or public inspection.”
 

@@ -20,11 +20,15 @@ Within 15 days after the issuance of a license (including any brokering license)
 
 (Pub. L. 90–629, ch. 7, §71, as added Pub. L. 101–510, div. A, title XVII, §1703, Nov. 5, 1990, 104 Stat. 1745; amended Pub. L. 103–236, title VII, §§714(a)(3)–(6), 735(c), Apr. 30, 1994, 108 Stat. 497, 506; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(4)–(7), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–280, title VII, §708(c), Oct. 6, 2000, 114 Stat. 863.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+
 #### Amendments
 
-2000—Subsec. (d). Pub. L. 106–280 substituted “Within 15 days after the issuance of a license (including any brokering license) for the export of items valued at less than $50,000,000 that are controlled under this chapter pursuant to United States obligations under the Missile Technology Control Regime and are goods or services that are intended to support the design, utilization, development, or production of a space launch vehicle system listed in Category I of the MTCR Annex,” for “Within 15 days after the issuance of a license for the export of items valued at less than $14,000,000 that are controlled under this chapter pursuant to United States obligations under the Missile Technology Control Regime and intended to support the design, development, or production of a space launch vehicle system listed in Category I of the MTCR Annex,”.
+<b>2000</b>—Subsec. (d). Pub. L. 106–280 substituted “Within 15 days after the issuance of a license (including any brokering license) for the export of items valued at less than $50,000,000 that are controlled under this chapter pursuant to United States obligations under the Missile Technology Control Regime and are goods or services that are intended to support the design, utilization, development, or production of a space launch vehicle system listed in Category I of the MTCR Annex,” for “Within 15 days after the issuance of a license for the export of items valued at less than $14,000,000 that are controlled under this chapter pursuant to United States obligations under the Missile Technology Control Regime and intended to support the design, development, or production of a space launch vehicle system listed in Category I of the MTCR Annex,”.
 
-1998—Subsec. (a). Pub. L. 105–277, §1225(a)(4), struck out “, the Director of the Arms Control and Disarmament Agency,” after “Secretary of Defense”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §1225(a)(4), struck out “, the Director of the Arms Control and Disarmament Agency,” after “Secretary of Defense”.
 
 Subsec. (b)(1). Pub. L. 105–277, §1225(a)(5), struck out “and the Director of the United States Arms Control and Disarmament Agency” after “Secretary of Defense”.
 
@@ -32,11 +36,11 @@ Subsec. (b)(2). Pub. L. 105–277, §1225(a)(6), substituted “and the Secretar
 
 Subsec. (c). Pub. L. 105–277, §1225(a)(7), struck out “with the Director of the United States Arms Control and Disarmament Agency,” after “Director of Central Intelligence,”.
 
-1994—Subsec. (a). Pub. L. 103–236, §714(a)(3), inserted “, the Director of the Arms Control and Disarmament Agency,” after “the Secretary of Defense”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–236, §714(a)(3), inserted “, the Director of the Arms Control and Disarmament Agency,” after “the Secretary of Defense”.
 
 Subsec. (b)(1). Pub. L. 103–236, §714(a)(4), inserted “and the Director of the United States Arms Control and Disarmament Agency” after “Secretary of Defense”.
 
-Subsec. (b)(2). Pub. L. 103–236, §714(a)(5), substituted “, the Secretary of Commerce, and the Director of theUnited States Arms Control and Disarmament Agency” for “and the Secretary of Commerce” and inserted “or the Director” after “relevant Secretary”.
+Subsec. (b)(2). Pub. L. 103–236, §714(a)(5), substituted “, the Secretary of Commerce, and the Director of the United States Arms Control and Disarmament Agency” for “and the Secretary of Commerce” and inserted “or the Director” after “relevant Secretary”.
 
 Subsec. (c). Pub. L. 103–236, §714(a)(6), inserted “with the Director of the United States Arms Control and Disarmament Agency,” after “Director of Central Intelligence,”.
 
@@ -86,7 +90,7 @@ Pub. L. 106–280, title VII, §704, Oct. 6, 2000, 114 Stat. 861, provided that:
 
 #### Report on Missile Proliferation
 
-Section 1704 of Pub. L. 101–510 directed President to submit to Congress reports on international transfers of aircraft which the Secretary had reason to believe may be intended to be used for delivery of nuclear, biological, or chemical weapons and international transfers of MTCR equipment or technology to any country seeking to acquire such equipment or technology, and which provided for contents of reports, countries excluded from such reports, classification of information, and definitions, prior to repeal by Pub. L. 102–190, div. A, title X, §1097(g), Dec. 5, 1991, 105 Stat. 1491.
+Section 1704 of Pub. L. 101–510 directed President to submit to Congress reports on international transfers of aircraft which the Secretary had reason to believemay be intended to be used for delivery of nuclear, biological, or chemical weapons and international transfers of MTCR equipment or technology to any country seeking to acquire such equipment or technology, and which provided for contents of reports, countries excluded from such reports, classification of information, and definitions, prior to repeal by Pub. L. 102–190, div. A, title X, §1097(g), Dec. 5, 1991, 105 Stat. 1491.
 
 #### Ex. Ord. No. 12851. Administration of Proliferation Sanctions, Middle East Arms Control, and Related Congressional Reporting Responsibilities
 
@@ -128,7 +132,7 @@ Sec. 2. <i>Missile Proliferation Sanctions</i>. (a) <i>Arms Export Control Act</
 
 (c) <i>Reporting Requirements</i>. The authority and duties vested in me to make certain reports to the Congress as provided in section 1097 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 \[former 22 U.S.C. 2751 note\] and section 1364 of the National Defense Authorization Act for Fiscal Year 1993 \[Pub. L. 102–484, 106 Stat. 2561\] are delegated to the Secretary of State.
 
-(d) <i>Coordination Among Agencies</i>. The Secretaries designated in this section shall exercise all functions delegated to them by this section in consultation with the Secretary of State, the Secretary of Defense, the Secretary of the Treasury, the Secretary of Commerce, the Director of the Arms Control and Disarmament Agency, and other departments and agencies as appropriate, utilizing the appropriate interagency groups prior to any determination to exercise prohibition authority delegated hereby.
+(d) <i>Coordination Among Agencies</i>. The Secretaries designated in this section shall exercise all functions delegated to them by this section in consultation with the Secretary of State, the Secretary of Defense, the Secretary of the Treasury, the Secretary of Commerce, theDirector of the Arms Control and Disarmament Agency, and other departments and agencies as appropriate, utilizing the appropriate interagency groups prior to any determination to exercise prohibition authority delegated hereby.
 
 Sec. 3. <i>Arms Control in the Middle East</i>. The certification and reporting functions vested in me by sections 403 and 404 of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993 \[22 U.S.C. 2778 note\], are delegated to the Secretary of State. The Secretary of State shall exercise these functions in consultation with the Secretary of Defense and other agencies as appropriate.
 

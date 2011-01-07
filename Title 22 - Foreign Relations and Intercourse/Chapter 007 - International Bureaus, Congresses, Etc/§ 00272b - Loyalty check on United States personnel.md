@@ -6,7 +6,7 @@ No person shall serve as representative, delegate, or alternate from the United 
 
 #### Amendments
 
-1952—Act Apr. 5, 1952, substituted “Civil Service Commission” for “Federal Bureau of Investigation”.
+<b>1952</b>—Act Apr. 5, 1952, substituted “Civil Service Commission” for “Federal Bureau of Investigation”.
 
 #### Transfer of Functions
 

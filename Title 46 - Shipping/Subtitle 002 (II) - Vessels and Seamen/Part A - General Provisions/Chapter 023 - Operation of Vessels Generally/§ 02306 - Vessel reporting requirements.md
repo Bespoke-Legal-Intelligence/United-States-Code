@@ -26,7 +26,7 @@
 
 #### Amendments
 
-2006—Subsec. (a)(2). Pub. L. 109–304 substituted “section 50113 of this title” for “section 212(A) of the Merchant Marine Act, 1936 (46 App. U.S.C. 1122a),”.
+<b>2006</b>—Subsec. (a)(2). Pub. L. 109–304 substituted “section 50113 of this title” for “section 212(A) of the Merchant Marine Act, 1936 (46 App. U.S.C. 1122a),”.
 
 #### Effective Date
 

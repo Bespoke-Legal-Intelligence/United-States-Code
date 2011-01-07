@@ -12,7 +12,7 @@
 
 &emsp;(D) possess, sell, deliver, carry, transport, or ship, by any means whatsoever, any such species taken in violation of subparagraphs (B) and (C);
 
-&emsp;(E) deliver, receive, carry, transport, or ship in interstate or foreign commerce, by any means whatsoever and in the course of commercial activity, any such species;
+&emsp;(E) deliver, receive, carry, transport, or ship in interstate or foreign commerce, by any means whatsoever and in the course of a commercial activity, any such species;
 
 &emsp;(F) sell or offer for sale in interstate or foreign commerce any such species; or
 
@@ -96,7 +96,7 @@ It is unlawful for any person importing or exporting fish or wildlife (other tha
 
 (1) It is unlawful for any person subject to the jurisdiction of the United States to import into or export from the United States any fish or wildlife (other than shellfish and fishery products which (A) are not listed pursuant to section 1533 of this title as endangered species or threatened species, and (B) are imported for purposes of human or animal consumption or taken in waters under the jurisdiction of the United States or on the high seas for recreational purposes) or plants, except at a port or ports designated by the Secretary of the Interior. For the purpose of facilitating enforcement of this chapter and reducing the costs thereof, the Secretary of the Interior, with approval of the Secretary of the Treasury and after notice and opportunity for public hearing, may, by regulation, designate ports and change such designations. The Secretary of the Interior, under such terms and conditions as he may prescribe, may permit the importation or exportation at nondesignated ports in the interest of the health or safety of the fish or wildlife or plants, or for other reasons, if, in his discretion, he deems it appropriate and consistent with the purpose of this subsection.
 
-(2) Any port designated by the Secretary of the Interior under the authority of section 668cc–4(d) <sup>1</sup> of this title, shall, if such designation is in effect on December 27, 1973, be deemed to be a port designated by the Secretary underparagraph (1) of this subsection until such time as the Secretary otherwise provides.
+(2) Any port designated by the Secretary of the Interior under the authority of section 668cc–4(d) <sup>1</sup> of this title, shall, if such designation is in effect on December 27, 1973, be deemed to be a port designated by the Secretary under paragraph (1) of this subsection until such time as the Secretary otherwise provides.
 
 #### (g) Violations
 
@@ -110,19 +110,19 @@ Section 668cc–4 of this title, referred to in subsec. (f)(2), was repealed by 
 
 #### Amendments
 
-1988—Subsec. (a)(2)(B). Pub. L. 100–478, §1006, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “remove and reduce to possession any such species from areas under Federal jurisdiction;”.
+<b>1988</b>—Subsec. (a)(2)(B). Pub. L. 100–478, §1006, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “remove and reduce to possession any such species from areas under Federal jurisdiction;”.
 
 Subsec. (d). Pub. L. 100–478, §2301, amended subsec. (d) generally, revising and restating as pars. (1) to (4) provisions of former pars. (1) to (3).
 
 Subsec. (d)(1)(A). Pub. L. 100–653 inserted “or plants” after “purposes)”.
 
-1982—Subsec. (a)(2)(B) to (E). Pub. L. 97–304, §9(b)(1), added subpar. (B) and redesignated former subpars. (B), (C), and (D) as (C), (D), and (E), respectively.
+<b>1982</b>—Subsec. (a)(2)(B) to (E). Pub. L. 97–304, §9(b)(1), added subpar. (B) and redesignated former subpars. (B), (C), and (D) as (C), (D), and (E), respectively.
 
 Subsec. (b)(1). Pub. L. 97–304, §9(b)(2), substituted “The provisions of subsections (a)(1)(A) and (a)(1)(G) of this section shall not apply to any fish or wildlife which was held in captivity or in a controlled environment on (A) December 28, 1973, or (B) the date of the publication in the Federal Register of a final regulation adding such fish or wildlife species to any list published pursuant to subsection (c) of section 1533 of this title: <i>Provided</i>, That such holding and any subsequent holding or use of the fish or wildlife was not in the course of a commercial activity. With respect to any act prohibited by subsections (a)(1)(A) and (a)(1)(G) of this section which occurs after a period of 180 days from (i) December 28, 1973, or (ii) the date of publication in the Federal Register of a final regulation adding such fish or wildlife species to any list published pursuant to subsection (c) of section 1533 of this title, there shall be a rebuttable presumption that the fish or wildlife involved in such act is not entitled to the exemption contained in this subsection” for “The provisions of this section shall not apply to any fish or wildlife held in captivity or in a controlled environment on December 28, 1973, if the purposes of such holding are not contrary to the purposes of this chapter; except that this subsection shall not apply in the case of any fish or wildlife held in the course of a commercial activity. With respect to any act prohibited by this section which occurs after a period of 180 days from December 28, 1973, there shall be a rebuttable presumption that the fish or wildlife involved in such act was not held in captivity or in a controlled environment on December 28, 1973”.
 
 Subsec. (b)(2)(A). Pub. L. 97–304, §9(b)(3), substituted “The provisions of subsection (a)(1) of this section shall not apply to” for “This section shall not apply to” in provisions preceding cl. (i).
 
-1978—Subsec. (b). Pub. L. 95–632 designated existing provision as par. (1) and added par. (2).
+<b>1978</b>—Subsec. (b). Pub. L. 95–632 designated existing provision as par. (1) and added par. (2).
 
 #### Human Activities Within Proximity of Whales
 

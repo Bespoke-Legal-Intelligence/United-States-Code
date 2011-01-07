@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;After obtaining the advice and recommendations described in subsection (a)(1) of this section and before publishing proposed regulations in the Federal Register, the Secretary shall prepare draft regulations implementing this subchapter and part C of subchapter I of chapter 34 of title 42 and shall submit suchregulations to a negotiated rulemaking process. Participants in the negotiations process shall be chosen by the Secretary from individuals nominated by groups described in subsection (a)(1) of this section, and shall include both representatives of such groups from Washington, D.C., and industry participants. The Secretary shall select individuals with demonstrated expertise or experience in the relevant subjects under negotiation, reflecting the diversity in the industry, representing both large and small participants, as well as individuals serving local areas and national markets. The negotiation process shall be conducted in a timely manner in order that the final regulations may be issued by the Secretary within the 360-day period described in section 1232(e) of this title.
+&emsp;After obtaining the advice and recommendations described in subsection (a)(1) of this section and before publishing proposed regulations in the Federal Register, the Secretary shall prepare draft regulations implementing this subchapter and part C of subchapter I of chapter 34 of title 42 and shall submit such regulations to a negotiated rulemaking process. Participants in the negotiations process shall be chosen by the Secretary from individuals nominated by groups described in subsection (a)(1) of this section, and shall include both representatives of such groups from Washington, D.C., and industry participants. The Secretary shall select individuals with demonstrated expertise or experience in the relevant subjects under negotiation, reflecting the diversity in the industry, representing both large and small participants, as well as individuals serving local areas and national markets. The negotiation process shall be conducted in a timely manner in order that the final regulations may be issued by the Secretary within the 360-day period described in section 1232(e) of this title.
 
 #### (2) Expansion of negotiated rulemaking
 
@@ -36,17 +36,17 @@ The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–
 
 #### Amendments
 
-2009—Subsec. (a)(1). Pub. L. 111–39, §407(b)(12)(A), substituted “regulations for this subchapter and part C of subchapter I of chapter 34 of title 42. The” for “regulations for parts B, F, and G of this subchapter. The”.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–39, §407(b)(12)(A), substituted “regulations for this subchapter and part C of subchapter I of chapter 34 of title 42. The” for “regulations for parts B, F, and G of this subchapter. The”.
 
 Subsec. (a)(2). Pub. L. 111–39, §407(b)(12)(B), substituted “The Secretary shall provide” for text from beginning of par. (2) through “provide”, resulting in text identical to that after execution of the amendment by Pub. L. 105–244, §490D(a)(2)(A). See 1998 Amendment note below.
 
-2008—Subsec. (a)(1). Pub. L. 110–315, §494D(a)(1), inserted “State student grant agencies,” after “institutions of higher education,”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–315, §494D(a)(1), inserted “State student grant agencies,” after “institutions of higher education,”.
 
 Subsec. (a)(2). Pub. L. 110–315, §494D(a)(2), struck out “, as amended by the Higher Education Amendments of 1998” before “through such mechanisms”.
 
 Subsec. (b)(1). Pub. L. 110–315, §494D(b), struck out “as amended by the Higher Education Amendments of 1998” before “and shall submit”, substituted “The Secretary” for “To the extent possible, the Secretary”, and inserted “with demonstrated expertise or experience in the relevant subjects under negotiation,” after “select individuals”.
 
-1998—Subsec. (a)(1). Pub. L. 105–244, §490D(a)(1)(C), substituted “The Secretary shall obtain the advice of and recommendations from” for “Such meetings shall include”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–244, §490D(a)(1)(C), substituted “The Secretary shall obtain the advice of and recommendations from” for “Such meetings shall include”.
 
 Pub. L. 105–244, §490D(a)(1)(B), which directed the substitution of “this subchapter and part C of subchapter I of chapter 34 of title 42;” for “parts B, F, and G of this subchapter,”, could not be executed because “parts B, F, and G of this subchapter,” does not appear in text.
 

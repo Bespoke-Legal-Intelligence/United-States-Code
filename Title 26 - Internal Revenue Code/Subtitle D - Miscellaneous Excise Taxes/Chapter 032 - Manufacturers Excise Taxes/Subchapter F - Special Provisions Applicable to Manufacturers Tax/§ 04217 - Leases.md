@@ -12,7 +12,7 @@ In the case of any lease described in subsection (a) of an article taxable under
 
 For purposes of this section, the term “total tax” means—
 
-&emsp;(1) except as provided in paragraph (2), the tax computed on the constructive sale price for such article which would be determined under section 4216(b) if such article were sold at retail on the date of the first lease to which subsection (b) applies; or
+&emsp;(1) except as provided in paragraph (2), the tax computed on the constructive sale pricefor such article which would be determined under section 4216(b) if such article were sold at retail on the date of the first lease to which subsection (b) applies; or
 
 &emsp;(2) if the first lease to which subsection (b) applies is not the first lease of the article, the tax computed on the fair market value of such article on the date of the first lease to which subsection (b) applies.
 
@@ -74,17 +74,17 @@ For purposes of this section, the term “total tax” means—
 
 #### Amendments
 
-1978—Subsec. (e). Pub. L. 95–618 added subsec. (e).
+<b>1978</b>—Subsec. (e). Pub. L. 95–618 added subsec. (e).
 
-1976—Subsec. (d)(4). Pub. L. 94–455 struck out par. (4) relating to special transitional rules applicable to leases.
+<b>1976</b>—Subsec. (d)(4). Pub. L. 94–455 struck out par. (4) relating to special transitional rules applicable to leases.
 
-1958—Pub. L. 85–859 substituted “Leases” for “Lease considered as sale” in section catchline.
+<b>1958</b>—Pub. L. 85–859 substituted “Leases” for “Lease considered as sale” in section catchline.
 
 Subsec. (a). Pub. L. 85–859 redesignated existing provisions as subsec. (a) and struck out provisions which made subsection inapplicable to the lease of an article upon which the tax has been paid in the manner provided in section 4216(d)(1) or the total tax has been paid in the manner provided in section 4216(d)(2) of this title.
 
 Subsecs. (b) to (d). Pub. L. 85–859 added subsecs. (b) to (d).
 
-1955—Act Aug. 9, 1955, exempted lease of an article upon which tax has been paid under section 4216(d)(1) or section 4216(d)(2) of this title.
+<b>1955</b>—Act Aug. 9, 1955, exempted lease of an article upon which tax has been paid under section 4216(d)(1) or section 4216(d)(2) of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -104,5 +104,5 @@ Section effective on first day of first month which begins more than ten days af
 
 #### Application of Leases of Utility Trailers
 
-Section 117(c) of Pub. L. 85–859, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 4216 of this title\] shall not apply to any lease of an article if section 4216(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, prior subsec. (d) of section 4216 of this title\] applied to any lease of such article before the effective date specified in section 1(c) of this Act.”
+Section 117(c) of Pub. L. 85–859, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“The amendments made by subsections (a) and (b) \[amending this section and section 4216 of this title\] shall not apply to any lease of an article if section 4216(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, prior subsec. (d) of section 4216 of this title\] applied to any lease of such article before the effective date specified in section 1(c) of this Act.”
 

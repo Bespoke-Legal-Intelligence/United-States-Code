@@ -20,9 +20,9 @@ A prior section 2401a was renumbered section 2350f of this title.
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–85 substituted “such leasing” for “leasing of such vehicles”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–85 substituted “such leasing” for “leasing of such vehicles”.
 
-1996—Pub. L. 104–106 substituted “Lease of vehicles, equipment, vessels, and aircraft” for “Lease of vessels, aircraft, and vehicles” as section catchline, designated existing text as subsec. (b), inserted subsec. (b) heading, and added subsec. (a).
+<b>1996</b>—Pub. L. 104–106 substituted “Lease of vehicles, equipment, vessels, and aircraft” for “Lease of vessels, aircraft, and vehicles” as section catchline, designated existing text as subsec. (b), inserted subsec. (b) heading, and added subsec. (a).
 
 #### Leases for Tanker Aircraft Under Multiyear Aircraft-Lease Pilot Program
 
@@ -62,7 +62,7 @@ Pub. L. 107–117, div. A, title VIII, §8159, Jan. 10, 2002, 115 Stat. 2284, as
 
 &emsp;“(6) Lease arrangements authorized by this section may not commence until:
 
-&emsp;&emsp;“(A) The Secretary submits a report to the congressional defense committees \[Committees onArmed Services of the Senate and House of Representatives and Subcommittees on Defense of the Committees on Appropriations of the Senate and House of Representatives\] outlining the plans for implementing the Pilot Program. The report shall describe the terms and conditions of proposed contracts and describe the expected savings, if any, comparing total costs, including operation, support, acquisition, and financing, of the lease, including modification, with the outright purchase of the aircraft as modified.
+&emsp;&emsp;“(A) The Secretary submits a report to the congressional defense committees \[Committees on Armed Services of the Senate and House of Representatives and Subcommittees on Defense of theCommittees on Appropriations of the Senate and House of Representatives\] outlining the plans for implementing the Pilot Program. The report shall describe the terms and conditions of proposed contracts and describe the expected savings, if any, comparing total costs, including operation, support, acquisition, and financing, of the lease, including modification, with the outright purchase of the aircraft as modified.
 
 &emsp;&emsp;“(B) A period of not less than 30 calendar days has elapsed after submitting the report.
 

@@ -24,5 +24,5 @@ The words “under this section” are substituted for the words “for salvage 
 
 #### Amendments
 
-1972—Pub. L. 92–417 designated existing provisions as subsec. (a), struck out requirement that the Secretary of the Army discharge his functions under the direction of the Secretary of Defense, and added subsec. (b).
+<b>1972</b>—Pub. L. 92–417 designated existing provisions as subsec. (a), struck out requirement that the Secretary of the Army discharge his functions under the direction of the Secretary of Defense, and added subsec. (b).
 

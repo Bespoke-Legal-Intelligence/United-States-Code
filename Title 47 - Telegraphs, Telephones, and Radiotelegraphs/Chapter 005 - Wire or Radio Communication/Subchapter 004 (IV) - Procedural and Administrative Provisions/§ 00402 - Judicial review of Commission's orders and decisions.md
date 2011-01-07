@@ -26,9 +26,11 @@ Appeals may be taken from decisions and orders of the Commission to the United S
 
 &emsp;(9) By any applicant for authority to provide interLATA services under section 271 of this title whose application is denied by the Commission.
 
+&emsp;(10) By any person who is aggrieved or whose interests are adversely affected by a determination made by the Commission under section 618(a)(3) of this title.
+
 #### (c) Filing notice of appeal; contents; jurisdiction; temporary orders
 
-Such appeal shall be taken by filing a notice of appeal with the court within thirty days from the date upon which public notice is given of the decision or order complained of. Such notice of appeal shall contain a concise statement of the nature of the proceedings as to which the appeal is taken; a concise statement of the reasons on which the appellant intends to rely, separately stated and numbered; and proof of service of a true copy of said notice and statement upon the Commission. Upon filing of such notice, the court shall have jurisdiction of the proceedings and of the questions determined therein and shall have power, by order, directed to the Commission or any other party to the appeal, to grant such temporary relief as it may deem just and proper. Orders granting temporary relief may be either affirmative or negative in their scope and application so as to permit either the maintenance of the status quo in the matter in which the appeal is taken or the restoration of a position or status terminated or adversely affected by the order appealed from and shall, unless otherwise ordered by the court, be effective pending hearing and determination of said appeal and compliance by the Commission with the final judgment of the court rendered in said appeal.
+Such appeal shall be taken by filing a notice of appeal with the court within thirty days fromthe date upon which public notice is given of the decision or order complained of. Such notice of appeal shall contain a concise statement of the nature of the proceedings as to which the appeal is taken; a concise statement of the reasons on which the appellant intends to rely, separately stated and numbered; and proof of service of a true copy of said notice and statement upon the Commission. Upon filing of such notice, the court shall have jurisdiction of the proceedings and of the questions determined therein and shall have power, by order, directed to the Commission or any other party to the appeal, to grant such temporary relief as it may deem just and proper. Orders granting temporary relief may be either affirmative or negative in their scope and application so as to permit either the maintenance of the status quo in the matter in which the appeal is taken or the restoration of a position or status terminated or adversely affected by the order appealed from and shall, unless otherwise ordered by the court, be effective pending hearing and determination of said appeal and compliance by the Commission with the final judgment of the court rendered in said appeal.
 
 #### (d) Notice to interested parties; filing of record
 
@@ -58,27 +60,29 @@ The court may, in its discretion, enter judgment for costs in favor of or agains
 
 The court's judgment shall be final, subject, however, to review by the Supreme Court of the United States upon writ of certiorari on petition therefor under section 1254 of title 28, by the appellant, by the Commission, or by any interested party intervening in the appeal, or by certification by the court pursuant to the provisions of that section.
 
-(June 19, 1934, ch. 652, title IV, §402, 48 Stat. 1093; May 20, 1937, ch. 229, §§11–13, 50 Stat. 197; May 24, 1949, ch. 139, §132, 63 Stat. 108; July 16, 1952, ch. 879, §14, 66 Stat. 718; Pub. L. 85–791, §12, Aug. 28, 1958, 72 Stat. 945; Pub. L. 97–259, title I, §§121, 127(b), Sept. 13, 1982, 96 Stat. 1097, 1099; Pub. L. 98–620, title IV, §402(50), Nov. 8, 1984, 98 Stat. 3361; Pub. L. 104–104, title I, §151(b), Feb. 8, 1996, 110 Stat. 107.)
+(June 19, 1934, ch. 652, title IV, §402, 48 Stat. 1093; May 20, 1937, ch. 229, §§11–13, 50 Stat. 197; May 24, 1949, ch. 139, §132, 63 Stat. 108; July 16, 1952, ch. 879, §14, 66 Stat. 718; Pub. L. 85–791, §12, Aug. 28, 1958, 72 Stat. 945; Pub. L. 97–259, title I, §§121, 127(b), Sept. 13, 1982, 96 Stat. 1097, 1099; Pub. L. 98–620, title IV, §402(50), Nov. 8, 1984, 98 Stat. 3361; Pub. L. 104–104, title I, §151(b), Feb. 8, 1996, 110 Stat. 107; Pub. L. 111–260, title I, §104(d), Oct. 8, 2010, 124 Stat. 2762.)
 
 #### Amendments
 
-1996—Par. (6). Pub. L. 104–104, §151(b)(1), inserted reference to par. (9).
+<b>2010</b>—Subsec. (b)(10). Pub. L. 111–260 added par. (10).
+
+<b>1996</b>—Par. (6). Pub. L. 104–104, §151(b)(1), inserted reference to par. (9).
 
 Subsec. (b)(9). Pub. L. 104–104, §151(b)(2), added par. (9).
 
-1984—Subsec. (g). Pub. L. 98–620 substituted “The” for “At the earliest convenient time the” and “706 of title 5” for “10(e) of the Administrative Procedure Act \[former 5 U.S.C. 1009(e)\]”.
+<b>1984</b>—Subsec. (g). Pub. L. 98–620 substituted “The” for “At the earliest convenient time the” and “706 of title 5” for “10(e) of the Administrative Procedure Act \[former 5 U.S.C. 1009(e)\]”.
 
-1982—Subsec. (a). Pub. L. 97–259, §127(b), substituted “chapter 158 of title 28” for “Public Law 901, Eighty-first Congress, approved December 29, 1950”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–259, §127(b), substituted “chapter 158 of title 28” for “Public Law 901, Eighty-first Congress, approved December 29, 1950”.
 
 Subsec. (d). Pub. L. 97–259, §121, substituted “appellant” for “Commission”, “filing of such notice” for “date of service upon it”, struck out “and shall thereafter permit any such person to inspect and make copies of said notice and statement of reasons therefor at the office of the Commission in the city of Washington” after “pendency of the same”, and substituted “The” for “Within thirty days after the filing of an appeal, the” before “Commission shall file”.
 
-1958—Subsec. (d). Pub. L. 85–791 substituted “the record upon which the order complained of was entered, as provided in section 2112 of title 28,” for “a copy of the order complained of, a full statement in writing of the facts and grounds relied upon by it in support of the order involved upon said appeal, and the originals or certified copies of all papers and evidence presented to and considered by it in entering said order” in second sentence.
+<b>1958</b>—Subsec. (d). Pub. L. 85–791 substituted “the record upon which the order complained of was entered, as provided in section 2112 of title 28,” for “a copy of the order complained of, a full statement in writing of the facts and grounds relied upon by it in support of the order involved upon said appeal, and the originals or certified copies of all papers and evidence presented to and considered by it in entering said order” in second sentence.
 
-1952—Act July 16, 1952, amended section generally to set up the procedure for the judicial review of the Commission's orders and decisions.
+<b>1952</b>—Act July 16, 1952, amended section generally to set up the procedure for the judicial review of the Commission's orders and decisions.
 
-1949—Subsec. (a). Act May 24, 1949, substituted “Title 28 of the United States Code” for “the Act of October 22, 1913 (38 Stat. 219)”, and “such Title 28” in lieu of “that Act”.
+<b>1949</b>—Subsec. (a). Act May 24, 1949, substituted “Title 28 of the United States Code” for “the Act of October 22, 1913 (38 Stat. 219)”, and “such Title 28” in lieu of “that Act”.
 
-1937—Subsec. (a). Act May 20, 1937, §11, inserted “, or suspending a radio operator's license” after “or for modifications of an existing radio station license”.
+<b>1937</b>—Subsec. (a). Act May 20, 1937, §11, inserted “, or suspending a radio operator's license” after “or for modifications of an existing radio station license”.
 
 Subsec. (b)(3). Act May 20, 1937, §12, added par. (3) relating to appeal from decisions in case of any radio operator whose license has been suspended by the Commission.
 

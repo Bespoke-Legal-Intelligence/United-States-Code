@@ -172,7 +172,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;&emsp;(i) for purposes of division C of this subchapter, an individual in an approved national service position; and
 
-&emsp;&emsp;&emsp;(ii) for purposes of any other provision of this chapter, an individual enrolled in aprogram that receives assistance under this subchapter.
+&emsp;&emsp;&emsp;(ii) for purposes of any other provision of this chapter, an individual enrolled in a program that receives assistance under this subchapter.
 
 #### (B) Rule
 
@@ -308,7 +308,7 @@ The Individuals with Disabilities Education Act, referred to in par. (37)(B), is
 
 #### Amendments
 
-2009—Pub. L. 111–13, §1102(b), redesignated pars. (1) to (49) as (1), (3), (8), (9), (10), (12), (14), (15), (19), (20), (21), (22), (23), (24), (26), (29), (30), (31), (34), (35), (37), (39), (40), (41), (42), (43), (44), (45), (46), (2), (4), (5), (6), (7), (11), (13), (16), (17), (18), (25), (27), (28), (32), (33), (36), (38), (47), (48), and (49), respectively, and rearranged pars. in numerical order.
+<b>2009</b>—Pub. L. 111–13, §1102(b), redesignated pars. (1) to (49) as (1), (3), (8), (9), (10), (12), (14), (15), (19), (20), (21), (22), (23), (24), (26), (29), (30), (31), (34), (35), (37), (39), (40), (41), (42), (43), (44), (45), (46), (2), (4), (5), (6), (7), (11), (13), (16), (17), (18), (25), (27), (28), (32), (33), (36), (38), (47), (48), and (49), respectively, and rearranged pars. in numerical order.
 
 Par. (3). Pub. L. 111–13, §1102(a)(1), struck out “described in section 12572 of this title” after “service program”.
 
@@ -326,15 +326,15 @@ Par. (26). Pub. L. 111–13, §1102(a)(7), struck out “The term also includes 
 
 Pars. (30) to (49). Pub. L. 111–13, §1102(a)(8), added pars. (30) to (49).
 
-2004—Par. (21)(B). Pub. L. 108–446 substituted “section 602” for “section 602(a)(1)” and “1401” for “1401(a)(1)”.
+<b>2004</b>—Par. (21)(B). Pub. L. 108–446 substituted “section 602” for “section 602(a)(1)” and “1401” for “1401(a)(1)”.
 
-2002—Pars. (8), (14), (22), (28). Pub. L. 107–110 substituted “section 7801 of title 20” for “section 8801 of title 20”.
+<b>2002</b>—Pars. (8), (14), (22), (28). Pub. L. 107–110 substituted “section 7801 of title 20” for “section 8801 of title 20”.
 
-1998—Par. (12). Pub. L. 105–220 substituted “section 705(20)(B) of title 29” for “section 706(8)(B) of title 29”.
+<b>1998</b>—Par. (12). Pub. L. 105–220 substituted “section 705(20)(B) of title 29” for “section 706(8)(B) of title 29”.
 
 Par. (13). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
 
-1994—Par. (8). Pub. L. 103–382, §394(h)(1)(A), substituted “section 8801 of title 20” for “section 2891(8) of title 20”.
+<b>1994</b>—Par. (8). Pub. L. 103–382, §394(h)(1)(A), substituted “section 8801 of title 20” for “section 2891(8) of title 20”.
 
 Par. (14). Pub. L. 103–382, §394(h)(1)(B), substituted “section 8801 of title 20” for “section 2891(12) of title 20”.
 
@@ -342,13 +342,13 @@ Par. (22). Pub. L. 103–382, §394(h)(1)(C), substituted “section 8801 of tit
 
 Par. (28). Pub. L. 103–382, §394(h)(1)(D), substituted “section 8801 of title 20” for “section 2891(23) of title 20”.
 
-1993—Pub. L. 103–82 amended section generally, substituting provisions consisting of 29 definitions of terms used in this subchapter for former provisions consisting of 30 definitions.
+<b>1993</b>—Pub. L. 103–82 amended section generally, substituting provisions consisting of 29 definitions of terms used in this subchapter for former provisions consisting of 30 definitions.
 
-1992—Par. (29). Pub. L. 102–384, §3(1), added par. (29) and struck out former par. (29) which read as follows: “The term ‘summer program’ means a youth corps program authorized under this subchapter that is limited to the months of June, July, and August.”
+<b>1992</b>—Par. (29). Pub. L. 102–384, §3(1), added par. (29) and struck out former par. (29) which read as follows: “The term ‘summer program’ means a youth corps program authorized under this subchapter that is limited to the months of June, July, and August.”
 
 Par. (30). Pub. L. 102–384, §3(2), substituted “living allowances” for “stipends”.
 
-1991—Par. (7). Pub. L. 102–10, §3(1), added par. (7). Former par. (7) redesignated (8).
+<b>1991</b>—Par. (7). Pub. L. 102–10, §3(1), added par. (7). Former par. (7) redesignated (8).
 
 Par. (8). Pub. L. 102–10, §3(2), (3), redesignated par. (7) as (8) and inserted “an Indian or” before “Indian tribes” in two places. Former par. (8) redesignated (9).
 

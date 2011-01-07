@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(ii) are owned separately by two or more owners.
 
-(b)(1)(A) Whenever the interest of the United States in a tract of real property or easement referred to in subsection (a) is available for disposition under this section, the Administrator shall transmit a notice of the availability of the real property or easement to each person described in subsection (a)(2)(D)(i) who owns lands adjacent to that real property or easement.
+(b)(1)(A) Whenever the interest of the United States in a tract of real property or easement referred to in subsection (a) is available for disposition under this section, the Administrator shall transmit a notice of the availability of thereal property or easement to each person described in subsection (a)(2)(D)(i) who owns lands adjacent to that real property or easement.
 
 (B) The Administrator shall convey, for fair market value, the interest of the United States in a tract of land referred to in subsection (a), or in any easement in connection with such a tract of land, to any person or persons described in subsection (a)(2)(D)(i) who, with respect to such land, are ready, willing, and able to purchase such interest for the fair market value of such interest.
 
@@ -36,25 +36,23 @@
 
 (f) The exact acreage and legal description of any tract of land to be conveyed under this section shall be determined in any manner that is satisfactory to the Administrator. The cost of any survey conducted for the purpose of this subsection in the case of any tract of land shall be borne by the person or persons to whom the conveyance of such tract of land is made.
 
-(g) If any real property interest of the United States described in subsection (a) is not purchased under the procedures provided in subsections (a) through (f), such tract may be disposed of only in accordance with subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.).
+(g) If any real property interest of the United States described in subsection (a) is not purchased under the procedures provided in subsections (a) through (f), such tract may be disposed of only in accordance with subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
-(Added Pub. L. 100–180, div. B, subdiv. 3, title II, §2325(a), Dec. 4, 1987, 101 Stat. 1220; amendedPub. L. 103–160, div. B, title XXVIII, §2851, Nov. 30, 1993, 107 Stat. 1906; Pub. L. 107–217, §3(b)(40), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 108–178, §4(b)(7), Dec. 15, 2003, 117 Stat. 2641.)
-
-#### References in Text
-
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (g), is act June 30, 1949, ch. 288, 63 Stat. 393, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 251 of Title 41 and Tables.
+(Added Pub. L. 100–180, div. B, subdiv. 3, title II, §2325(a), Dec. 4, 1987, 101 Stat. 1220; amended Pub. L. 103–160, div. B, title XXVIII, §2851, Nov. 30, 1993, 107 Stat. 1906; Pub. L. 107–217, §3(b)(40), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 108–178, §4(b)(7), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 111–350, §5(b)(55), Jan. 4, 2011, 124 Stat. 3847.)
 
 #### Amendments
 
-2003—Subsec. (g). Pub. L. 108–178 substituted “title III of the Federal Property and Administrative Services Act of 1949” for “subtitle III of the Federal Property and Administrative Services Act of 1949” and made technical correction to reference to (41 U.S.C. 251 et seq.).
+<b>2011</b>—Subsec. (g). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
 
-2002—Subsec. (b)(2)(D). Pub. L. 107–217, §3(b)(40)(A), substituted “chapter 5 of title 40” for “title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.)”.
+<b>2003</b>—Subsec. (g). Pub. L. 108–178 substituted “title III of the Federal Property and Administrative Services Act of 1949” for “subtitle III of the Federal Property and Administrative Services Act of 1949” and made technical correction to reference to (41 U.S.C. 251 et seq.).
+
+<b>2002</b>—Subsec. (b)(2)(D). Pub. L. 107–217, §3(b)(40)(A), substituted “chapter 5 of title 40” for “title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.)”.
 
 Subsec. (d). Pub. L. 107–217, §3(b)(40)(B), substituted “chapter 5 of title 40” for “title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.)”.
 
 Subsec. (g). Pub. L. 107–217, §3(b)(40)(C), inserted “subtitle I of title 40 and subtitle III of” before “the Federal Property and Administrative Services Act of 1949” and “(41 U.S.C. 251 et seq.)” at end.
 
-1993—Subsec. (a)(1). Pub. L. 103–160, §2851(a)(1), substituted “Administrator of General Services” for “Secretary of the Air Force”.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–160, §2851(a)(1), substituted “Administrator of General Services” for “Secretary of the Air Force”.
 
 Subsec. (a)(2)(D). Pub. L. 103–160, §2851(b), added subpar. (D) and struck out former subpar. (D) which read as follows: “is surrounded by lands that are adjacent to such tract and that are owned in fee simple by one owner or by more than one owner jointly, in common, or by the entirety.”
 

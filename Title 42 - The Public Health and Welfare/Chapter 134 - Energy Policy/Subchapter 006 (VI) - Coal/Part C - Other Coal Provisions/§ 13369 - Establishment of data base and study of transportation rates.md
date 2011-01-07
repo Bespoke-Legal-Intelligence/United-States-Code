@@ -26,7 +26,7 @@ An Act to amend the Clean Air Act to provide for attainment and maintenance of h
 
 #### Amendments
 
-1995—Subsecs. (a), (d). Pub. L. 104–88 substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
+<b>1995</b>—Subsecs. (a), (d). Pub. L. 104–88 substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
 
 #### Effective Date of 1995 Amendment
 

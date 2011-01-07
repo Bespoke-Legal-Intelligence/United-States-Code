@@ -96,7 +96,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;Any debt instrument arising from the sale or exchange of property if the sum of the following amounts does not exceed $250,000:
 
-&emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of the payments due under such debt instrument and all other debt instruments received as consideration for the sale or exchange, and
+&emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of the payments due under such debt instrumentand all other debt instruments received as consideration for the sale or exchange, and
 
 &emsp;&emsp;&emsp;&emsp;(II) the aggregate amount of any other consideration to be received for the sale or exchange.
 
@@ -192,7 +192,7 @@ For purposes of this section—
 
 #### (3) Debt instruments to which this subsection applies
 
-&emsp;This subsection shall apply to any debt instrument given in consideration for the sale or exchange of any property if, pursuant to a plan, the transferor or any related person leases a portion of such property after such sale or exchange.
+&emsp;This subsection shall apply to any debt instrument given in consideration for the sale or exchange of any property if, pursuant to aplan, the transferor or any related person leases a portion of such property after such sale or exchange.
 
 (Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 538; amended Pub. L. 99–121, title I, §§101(a)(1), (b), (c), 102(b), Oct. 11, 1985, 99 Stat. 505, 506, 508; Pub. L. 99–514, title XVIII, §1803(a)(14)(A), Oct. 22, 1986, 100 Stat. 2797; Pub. L. 101–239, title VII, §7721(c)(11), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 104–188, title I, §1704(t)(78), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839.)
 
@@ -202,15 +202,15 @@ Section 6662(d)(2)(C), referred to in subsec. (b)(3)(B)(i), was subsequently ame
 
 #### Amendments
 
-1997—Subsec. (c)(3)(B). Pub. L. 105–34 substituted “section 121” for “section 1034”.
+<b>1997</b>—Subsec. (c)(3)(B). Pub. L. 105–34 substituted “section 121” for “section 1034”.
 
-1996—Subsec. (b)(3)(B)(i). Pub. L. 104–188 substituted “section 6662(d)(2)(C)(iii)” for “section 6662(d)(2)(C)(ii)”.
+<b>1996</b>—Subsec. (b)(3)(B)(i). Pub. L. 104–188 substituted “section 6662(d)(2)(C)(iii)” for “section 6662(d)(2)(C)(ii)”.
 
-1989—Subsec. (b)(3)(B)(i). Pub. L. 101–239 substituted “section 6662(d)(2)(C)(ii)” for “section 6661(b)(2)(C)(ii)”.
+<b>1989</b>—Subsec. (b)(3)(B)(i). Pub. L. 101–239 substituted “section 6662(d)(2)(C)(ii)” for “section 6661(b)(2)(C)(ii)”.
 
-1986—Subsec. (c)(3)(A). Pub. L. 99–514 substituted “for $1,000,000 or less” for “for less than $1,000,000” in heading of subsec. (c)(4)(A) as so designated prior to its redesignation as subsec. (c)(3)(A) by Pub. L. 99–121, §101(a)(1)(D), see 1985 Amendment note below.
+<b>1986</b>—Subsec. (c)(3)(A). Pub. L. 99–514 substituted “for $1,000,000 or less” for “for less than $1,000,000” in heading of subsec. (c)(4)(A) as so designated prior to its redesignation as subsec. (c)(3)(A) by Pub. L. 99–121, §101(a)(1)(D), see 1985 Amendment note below.
 
-1985—Subsec. (b)(2)(B). Pub. L. 99–121, §101(a)(1)(A), struck out “120 percent of” after “rate equal to”.
+<b>1985</b>—Subsec. (b)(2)(B). Pub. L. 99–121, §101(a)(1)(A), struck out “120 percent of” after “rate equal to”.
 
 Subsec. (c)(1)(A)(ii). Pub. L. 99–121, §101(a)(1)(B), amended cl. (ii) generally, substituting “the imputed principal amount of such debt instrument determined under subsection (b)” for “the testing amount”.
 
@@ -244,7 +244,7 @@ Section 105(a) of Pub. L. 99–121, as amended by Pub. L. 99–514, §2, Oct. 22
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by sections 101 and 102 \[enacting section 1274A and amending this section and sections 280G and 483 of this title\] shall apply to sales and exchanges after June 30, 1985, in taxable years ending after such date. The amendment made by section 2 of Public Law 98–612 \[amending section 44(b) of Pub. L. 98–369, set out as a note under section 1271 of this title\]shall not apply to sales and exchanges after June 30, 1985, in taxable years ending after such date.
+In general.—Except as provided in paragraph (2), the amendments made by sections 101 and 102 \[enacting section 1274A and amending this section and sections 280G and 483 of this title\] shall apply to sales and exchanges after June 30, 1985, in taxable years ending after such date. The amendment made by section 2 of Public Law 98–612 \[amending section 44(b) of Pub. L. 98–369, set out as a note under section 1271 of this title\] shall not apply to sales and exchanges after June 30, 1985, in taxable years ending after such date.
 
 “(2)
 

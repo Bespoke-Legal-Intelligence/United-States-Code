@@ -36,11 +36,11 @@ In general.—Except as provided in section 521(b)(5)(A) and this subsection, an
 
 &emsp;(2)
 
-Owners or operators transporting passengers.—With regard to owners or operators of commercial motor vehicles designed or used to transport passengers, an owner or operator who the Secretary determines is not fit may not operate in interstate commerce beginning on the 46th day after the date of such fitness determination and until the Secretary determines such owner or operator is fit.
+Owners or operators transporting passengers.—With regard to owners or operators of commercial motor vehicles designed or used to transport passengers, an owner or operator who the Secretary determines is not fit may not operate in interstate commerce beginningon the 46th day after the date of such fitness determination and until the Secretary determines such owner or operator is fit.
 
 &emsp;(3)
 
-Owners or operators transporting hazardous material.—With regard to owners or operators of commercial motor vehicles designed or used to transport hazardous material for which placarding of a motor vehicle is required under regulations prescribed under chapter 51, an owner or operator who the Secretary determines is not fit may not operate in interstate commerce beginning on the 46th day after the date of such fitness determination and until the Secretary determines such owner or operator is fit. A violation of this paragraph by an owner or operator transporting hazardous material shall be considered aviolation of chapter 51, and shall be subject to the penalties in sections 5123 and 5124.
+Owners or operators transporting hazardous material.—With regard to owners or operators of commercial motor vehicles designed or used to transport hazardous material for which placarding of a motor vehicle is required under regulations prescribed under chapter 51, an owner or operator who the Secretary determines is not fit may not operate in interstate commerce beginning on the 46th day after the date of such fitness determination and until the Secretary determines such owner or operator is fit. A violation of this paragraph by an owner or operator transporting hazardous material shall be considered a violation of chapter 51, and shall be subject to the penalties in sections 5123 and 5124.
 
 &emsp;(4)
 
@@ -104,13 +104,13 @@ Grants.—The Secretary may make grants to States and local governments for new 
 
 &emsp;&emsp;(B)
 
-Set aside.—The Secretary shall set aside from amounts made available by section 31104(a) up to $29,000,000 per fiscal year for audits of new entrant motor carriers conducted pursuant to this paragraph.
+Set aside.—The Secretary shall set aside from amounts made available by section 31104(a) up to $29,000,000 per fiscal year (and up to $12,315,000 for the period beginning October 1, 2010, and ending on March 4, 2011) for audits of new entrant motor carriers conducted pursuant to this paragraph.
 
 &emsp;&emsp;(C)
 
 Determination.—If the Secretary determines that a State or local government is not able to use government employees to conduct new entrant motor carrier audits, the Secretary may use the funds set aside under this paragraph to conduct audits for such States or local governments.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1012; Pub. L. 104–88, title I, §104(g), Dec. 29, 1995, 109 Stat. 920; Pub. L. 105–178, title IV, §4009(a), June 9, 1998, 112 Stat. 405; Pub. L. 106–159, title II, §210(a), Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §§4107(b), 4114, title VII, §7112(b), (c), Aug. 10, 2005, 119 Stat. 1720, 1725, 1899; Pub. L. 110–244, title III, §301(b), (c), June 6, 2008, 122 Stat. 1616.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1012; Pub. L. 104–88, title I, §104(g), Dec. 29, 1995, 109 Stat. 920; Pub. L. 105–178, title IV, §4009(a), June9, 1998, 112 Stat. 405; Pub. L. 106–159, title II, §210(a), Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §§4107(b), 4114, title VII, §7112(b), (c), Aug. 10, 2005, 119 Stat. 1720, 1725, 1899; Pub. L. 110–244, title III, §301(b), (c), June 6, 2008, 122 Stat. 1616; Pub. L. 111–147, title IV, §422(e), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(e), Dec. 22, 2010, 124 Stat. 3525.)
 
 Historical and Revision Notes
 
@@ -142,9 +142,13 @@ In subsection (a)(1), the words “after notice and opportunity for comment” a
 
 #### Amendments
 
-2008—Pub. L. 110–244 amended Pub. L. 109–59, §§4107(b), 4114(c)(1), 7112. See 2005 Amendment notes below.
+<b>2010</b>—Subsec. (g)(5)(B). Pub. L. 111–322 substituted “(and up to $12,315,000 for the period beginning October 1, 2010, and ending on March 4, 2011)” for “(and up to $7,310,000 for the period beginning on October 1, 2010, and ending on December 31, 2010)”.
 
-2005—Subsec. (a). Pub. L. 109–59, §4114(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary shall—
+Pub. L. 111–147 inserted “(and up to $7,310,000 for the period beginning on October 1, 2010, and ending on December 31, 2010)” after “fiscal year”.
+
+<b>2008</b>—Pub. L. 110–244 amended Pub. L. 109–59, §§4107(b), 4114(c)(1), 7112. See 2005 Amendment notes below.
+
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §4114(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary shall—
 
 &emsp;“(1) determine whether an owner or operator is fit to operate safely commercial motor vehicles;
 
@@ -180,11 +184,11 @@ Subsec. (f)(5). Pub. L. 109–59, §4107(b)(2), as amended by Pub. L. 110–244,
 
 Subsec. (g). Pub. L. 109–59, §4114(c)(1), as amended by Pub. L. 110–244, §301(c), redesignated subsec. (f) as (g).
 
-1999—Subsec. (c). Pub. L. 106–159 added subsec. (c) relating to safety reviews of new operators.
+<b>1999</b>—Subsec. (c). Pub. L. 106–159 added subsec. (c) relating to safety reviews of new operators.
 
-1998—Pub. L. 105–178 reenacted section catchline without change and amended text generally, substituting, in subsec. (a), general provisions for provisions relating to procedure and, in subsec. (b), provisions relating to procedure for provisions relating to findings and action on registrations, and adding subsecs. (c) to (e).
+<b>1998</b>—Pub. L. 105–178 reenacted section catchline without change and amended text generally, substituting, in subsec. (a), general provisions for provisions relating to procedure and, in subsec. (b), provisions relating to procedure for provisions relating to findings and action on registrations, and adding subsecs. (c) to (e).
 
-1995—Subsec. (a)(1). Pub. L. 104–88, §104(g)(1)–(3), in first sentence substituted “The Secretary” for “In cooperation with the Interstate Commerce Commission, the Secretary” and “section 13902” for “sections 10922 and 10923” and in subpar. (C) struck out “and the Commission” after “Secretary”.
+<b>1995</b>—Subsec. (a)(1). Pub. L. 104–88, §104(g)(1)–(3), in first sentence substituted “The Secretary” for “In cooperation with the Interstate Commerce Commission, the Secretary” and “section 13902” for “sections 10922 and 10923” and in subpar. (C) struck out “and the Commission” after “Secretary”.
 
 Subsec. (b). Pub. L. 104–88, §104(g)(4), added subsec. (b) and struck out former subsec. (b) which read as follows: “
 
@@ -201,6 +205,10 @@ Amendment by Pub. L. 110–244 effective as of the date of enactment of Pub. L. 
 #### Effective Date of 1995 Amendment
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+
+#### Deemed References to Chapters 509 and 511 of Title 51
+
+General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 
 #### High Risk Carrier Compliance Reviews
 

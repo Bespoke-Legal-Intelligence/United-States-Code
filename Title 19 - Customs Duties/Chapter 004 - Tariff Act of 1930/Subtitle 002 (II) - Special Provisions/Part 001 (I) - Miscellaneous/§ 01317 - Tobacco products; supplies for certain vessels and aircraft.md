@@ -16,9 +16,9 @@ Section 2197(a) of title 26, referred to in subsec. (a), is a reference to secti
 
 #### Amendments
 
-1953—Subsec. (b). Act Aug. 8, 1953, extended to foreign vessels the exemption from payment of duty and internal revenue tax theretofore available for supplies used in the maintenance or repair of aircraft; and provided an exemption for ground equipment for foreign-flag aircraft from duties and taxes imposed on, by reason of, importation.
+<b>1953</b>—Subsec. (b). Act Aug. 8, 1953, extended to foreign vessels the exemption from payment of duty and internal revenue tax theretofore available for supplies used in the maintenance or repair of aircraft; and provided an exemption for ground equipment for foreign-flag aircraft from duties and taxes imposed on, by reason of, importation.
 
-1938—Act June 25, 1938, amended section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
+<b>1938</b>—Act June 25, 1938, amended section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
 
 #### Effective Date of 1953 Amendment; Savings Provision
 

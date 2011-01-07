@@ -30,7 +30,7 @@ To the maximum extent possible, each department <sup>1</sup> or agency's repres
 
 #### (d) Chair
 
-The President shall designate an official to direct the coordination mechanism establishedpursuant to subsection (a) of this section. The official so designated may invite the head of any other department or agency of the United States to designate a representative of that department or agency to participate from time to time in the activities of the Committee.
+The President shall designate an official to direct the coordination mechanism established pursuant to subsection (a) of this section. The official so designated may invite the head of any other department or agency of the United States to designate a representative of that department or agency to participate from time to time in the activities of the Committee.
 
 (Pub. L. 107–228, div. B, title XIII, §1334, Sept. 30, 2002, 116 Stat. 1449.)
 

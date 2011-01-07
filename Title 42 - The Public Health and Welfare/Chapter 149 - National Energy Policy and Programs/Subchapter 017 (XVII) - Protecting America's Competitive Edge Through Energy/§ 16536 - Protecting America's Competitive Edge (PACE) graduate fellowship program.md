@@ -68,9 +68,19 @@ There are authorized to be appropriated to carry out this section—
 
 &emsp;(1) $7,500,000 for fiscal year 2008;
 
-&emsp;(2) $12,000,000 for fiscal year 2009, including nonexpiring fellowships for the preceding fiscal year; and
+&emsp;(2) $12,000,000 for fiscal year 2009, including nonexpiring fellowships for the preceding fiscal year;
 
-&emsp;(3) $20,000,000 for fiscal year 2010, including nonexpiring fellowships for preceding fiscal years.
+&emsp;(3) $20,000,000 for fiscal year 2010, including nonexpiring fellowships for preceding fiscal years;
 
-(Pub. L. 110–69, title V, §5009, Aug. 9, 2007, 121 Stat. 618.)
+&emsp;(4) $20,600,000 for fiscal year 2011;
+
+&emsp;(5) $21,200,000 for fiscal year 2012; and
+
+&emsp;(6) $21,900,000 for fiscal year 2013.
+
+(Pub. L. 110–69, title V, §5009, Aug. 9, 2007, 121 Stat. 618; Pub. L. 111–358, title IX, §902(d), Jan. 4, 2011, 124 Stat. 4045.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (f)(4) to (6). Pub. L. 111–358 added pars. (4) to (6).
 

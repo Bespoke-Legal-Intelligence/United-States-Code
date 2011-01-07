@@ -12,5 +12,5 @@ The bylaws may provide—
 
 #### Amendments
 
-1925—Par. (b). Act Feb. 26, 1925, amended par. (b) generally.
+<b>1925</b>—Par. (b). Act Feb. 26, 1925, amended par. (b) generally.
 

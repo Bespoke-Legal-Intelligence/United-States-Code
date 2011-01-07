@@ -52,7 +52,7 @@ In subsection (d), reference to assimilated rank is omitted as superseded by sec
 
 #### Amendments
 
-1978—Subsec. (d). Pub. L. 95–551 substituted “director of admissions” for “registrar”.
+<b>1978</b>—Subsec. (d). Pub. L. 95–551 substituted “director of admissions” for “registrar”.
 
-1958—Subsec. (d). Pub. L. 85–600 inserted “and the registrar” after “professors”.
+<b>1958</b>—Subsec. (d). Pub. L. 85–600 inserted “and the registrar” after “professors”.
 

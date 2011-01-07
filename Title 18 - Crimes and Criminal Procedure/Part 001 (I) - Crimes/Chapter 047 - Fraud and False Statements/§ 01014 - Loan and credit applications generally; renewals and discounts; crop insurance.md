@@ -1,8 +1,12 @@
 ### §1014. Loan and credit applications generally; renewals and discounts; crop insurance
 
-Whoever knowingly makes any false statement or report, or willfully overvalues any land, property or security, for the purpose of influencing in any way the action of the Federal Housing Administration, the Farm Credit Administration, Federal Crop Insurance Corporation or a company the Corporation reinsures, the Secretary of Agriculture acting through the Farmers Home Administration or successor agency, the Rural Development Administration or successor agency, any Farm Credit Bank, production credit association, agricultural credit association, bank for cooperatives, or any division, officer, or employee thereof, or of any regional agricultural credit corporation established pursuant to law, or a Federal land bank, a Federal land bank association, a Federal Reserve bank, a small business investment company, as defined in section 103 of the Small Business Investment Act of 1958 (15 U.S.C. 662), or the Small Business Administration in connection with any provision of that Act, a Federal credit union, an insured State-chartered credit union, any institution the accounts of which are insured by the Federal Deposit Insurance Corporation, the Office of Thrift Supervision, any Federal home loan bank, the Federal Housing Finance Agency, the Federal Deposit Insurance Corporation, the Resolution Trust Corporation, the Farm Credit System Insurance Corporation, or the National Credit Union Administration Board, a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), an organization operating under section 25 or section 25(a) <sup>1</sup> of the Federal Reserve Act, or a mortgagelending business, or any person or entity that makes in whole or in part a federally related mortgage loan as defined in section 3 of the Real Estate Settlement Procedures Act of 1974, upon any application, advance, discount, purchase, purchase agreement, repurchase agreement, commitment, loan, or insurance agreement or application for insurance or a guarantee, or any change or extension of any of the same, by renewal, deferment of action or otherwise, or the acceptance, release, or substitution of security therefor, shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both. The term “State-chartered credit union” includes a credit union chartered under the laws of a State of the United States, the District of Columbia, or any commonwealth, territory, or possession of the United States.
+Whoever knowingly makes any false statement or report, or willfully overvalues any land, property or security, for the purpose of influencing in any way the action of the Federal Housing Administration, the Farm Credit Administration, Federal Crop Insurance Corporation or a company the Corporation reinsures, the Secretary of Agriculture acting through the Farmers Home Administration or successor agency, the Rural Development Administration or successor agency, any Farm Credit Bank, production credit association, agricultural credit association, bank for cooperatives, or any division, officer, or employee thereof, or of any regional agricultural credit corporation established pursuant to law, or a Federal land bank, a Federal land bank association, a Federal Reserve bank, a small business investment company, as defined in section 103 of the Small Business Investment Act of 1958 (15 U.S.C. 662), or the Small Business Administration in connection with any provision of that Act, a Federal credit union, an insured State-chartered credit union, any institution the accounts of which are insured by the Federal Deposit Insurance Corporation, the Office of Thrift Supervision, any Federal home loan bank, the Federal Housing Finance Agency, the Federal Deposit Insurance Corporation, the Resolution Trust Corporation, the Farm Credit System Insurance Corporation, or the National Credit Union Administration Board, a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), an organization operating under section 25 or section 25(a) <sup>1</sup> of the Federal Reserve Act, or a mortgage lending business, or any person or entity that makes in whole or in part a federally related mortgage loan as defined in section 3 of the Real Estate Settlement Procedures Act of 1974, upon any application, advance, discount, purchase, purchase agreement, repurchase agreement, commitment, loan, or insurance agreement or application for insurance or a guarantee, or any change or extension of any of the same, by renewal, deferment of action or otherwise, or the acceptance, release, or substitution of security therefor, shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both. The term “State-chartered credit union” includes a credit union chartered under the laws of a State of the United States, the District of Columbia, or any commonwealth, territory, or possession of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 752; May 24, 1949, ch. 139, §21, 63 Stat. 92; July 26, 1956, ch. 741, title I, §109, 70 Stat. 667; Pub. L. 85–699, title VII, §705, Aug. 21, 1958, 72 Stat. 699; Pub. L. 86–168, title I, §104(h), Aug. 18, 1959, 73 Stat. 387; Pub. L. 87–353, §3(t), Oct. 4, 1961, 75 Stat. 774; Pub. L. 88–353, §5, July 2, 1964, 78 Stat. 269; Pub. L. 91–468, §7, Oct. 19, 1970, 84 Stat. 1017; Pub. L. 91–609, title IX, §915, Dec. 31, 1970, 84 Stat. 1815; Pub. L. 97–297, §4(b), Oct. 12, 1982, 96 Stat. 1318; Pub. L. 101–73, title IX, §§961(h), 962(a)(7), (8)(B), Aug. 9, 1989, 103 Stat. 500, 502; Pub. L. 101–624, title XXIII, §2303(e), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 101–647, title XXV, §§2504(g), 2595(a)(5), 2597(i), Nov. 29, 1990, 104 Stat. 4861, 4907, 4910; Pub. L. 103–322, title XXXIII, §§330002(d), 330008(8), Sept. 13, 1994, 108 Stat. 2140, 2143; Pub. L. 103–354, title I, §119(e), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–294, title VI, §§602(b), 604(b)(22), 605(b), 607(d), Oct. 11, 1996, 110 Stat. 3503, 3508, 3509, 3511; Pub. L. 106–78, title VII, §767, Oct. 22, 1999, 113 Stat. 1174; Pub. L. 107–100, §4(a), Dec. 21, 2001, 115 Stat. 966; Pub. L. 110–289, div. A, title II, §1216(c), div. B, title I, §2129, July 30, 2008, 122 Stat. 2792, 2842; Pub. L. 111–21, §2(c), May 20, 2009, 123 Stat. 1617.)
+(June 25, 1948, ch. 645, 62 Stat. 752; May 24, 1949, ch. 139, §21, 63 Stat. 92; July 26, 1956, ch. 741, title I, §109, 70 Stat. 667; Pub. L. 85–699, title VII, §705, Aug. 21, 1958, 72 Stat. 699; Pub. L. 86–168, title I, §104(h), Aug. 18, 1959, 73 Stat. 387; Pub. L. 87–353, §3(t), Oct. 4, 1961, 75 Stat. 774; Pub. L. 88–353, §5, July 2, 1964, 78 Stat. 269; Pub. L. 91–468, §7, Oct. 19, 1970, 84 Stat. 1017; Pub. L. 91–609, title IX, §915, Dec. 31, 1970, 84 Stat. 1815; Pub. L. 97–297, §4(b), Oct. 12, 1982, 96 Stat. 1318; Pub. L. 101–73, title IX, §§961(h), 962(a)(7), (8)(B), Aug. 9, 1989, 103 Stat. 500, 502; Pub. L. 101–624, title XXIII, §2303(e), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 101–647, title XXV, §§2504(g), 2595(a)(5), 2597(i), Nov. 29, 1990, 104 Stat. 4861, 4907, 4910; Pub. L. 103–322, title XXXIII, §§330002(d), 330008(8), Sept. 13, 1994, 108 Stat. 2140, 2143; Pub. L. 103–354, title I, §119(e), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–294, title VI, §§602(b), 604(b)(22), 605(b), 607(d), Oct. 11, 1996, 110 Stat. 3503, 3508, 3509, 3511; Pub. L. 106–78, title VII, §767, Oct. 22, 1999, 113 Stat. 1174; Pub. L. 107–100, §4(a), Dec. 21, 2001, 115 Stat. 966; Pub. L. 110–289, div. A, title II, §1216(c), div. B, title I, §2129, July 30, 2008, 122 Stat. 2792, 2842; Pub. L. 111–21, §2(c), May 20, 2009, 123 Stat. 1617; Pub. L. 111–203, title III, §377(6), July 21, 2010, 124 Stat. 1569.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title III, §§351, 377(6), July 21, 2010, 124 Stat. 1546, 1569, provided that, effective on the transfer date, this section is amended by striking “the Office of Thrift Supervision” and by striking “the Resolution Trust Corporation,”. See Effective Date of 2010 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -26,7 +30,7 @@ Section 1138d(f) of Title 12, U.S.C., 1940 ed., Banks and Banking, relating to c
 
 #### 1949 Act
 
-\[Section 21\] conforms section 1014 of Title 18 U.S.C., to administrative practice which in turn was modified to comply with congressional policy. (See note to sec. 11 \[of 1949 Act, set out in Historical and Revision note under section 657 of this title\]).
+\[Section 21\] conforms section 1014 of Title 18 U.S.C., to administrative practice which in turn was modifiedto comply with congressional policy. (See note to sec. 11 \[of 1949 Act, set out in Historical and Revision note under section 657 of this title\]).
 
 #### References in Text
 
@@ -40,29 +44,29 @@ Section 3 of the Real Estate Settlement Procedures Act of 1974, referred to in t
 
 #### Amendments
 
-2009—Pub. L. 111–21 struck out “or” after “the International Banking Act of 1978),” and inserted “, or a mortgage lending business, or any person or entity that makes in whole or in part a federally related mortgage loan as defined in section 3 of the Real Estate Settlement Procedures Act of 1974” after “section 25(a) of the Federal Reserve Act”.
+<b>2009</b>—Pub. L. 111–21 struck out “or” after “the International Banking Act of 1978),” and inserted “, or a mortgage lending business, or any person or entity that makes in whole or in part a federally related mortgage loan as defined in section 3 of the Real Estate Settlement Procedures Act of 1974” after “section 25(a) of the Federal Reserve Act”.
 
-2008—Pub. L. 110–289, §2129, inserted “the Federal Housing Administration,” before “the Farm Credit Administration” and substituted “commitment, loan, or insurance agreement or application for insurance or a guarantee” for “commitment, or loan”.
+<b>2008</b>—Pub. L. 110–289, §2129, inserted “the Federal Housing Administration,” before “the Farm Credit Administration” and substituted “commitment, loan, or insurance agreement or application for insurance or a guarantee” for “commitment, or loan”.
 
 Pub. L. 110–289, §1216(c), substituted “Federal Housing Finance Agency” for “Federal Housing Finance Board”.
 
-2001—Pub. L. 107–100 inserted “, as defined in section 103 of the Small Business Investment Act of 1958 (15 U.S.C. 662), or the Small Business Administration in connection with any provision of that Act” after “small business investment company”.
+<b>2001</b>—Pub. L. 107–100 inserted “, as defined in section 103 of the Small Business Investment Act of 1958 (15 U.S.C. 662), or the Small Business Administration in connection with any provision of that Act” after “small business investment company”.
 
-1999—Pub. L. 106–78 inserted “or successor agency” after “Farmers Home Administration” and after “Rural Development Administration”.
+<b>1999</b>—Pub. L. 106–78 inserted “or successor agency” after “Farmers Home Administration” and after “Rural Development Administration”.
 
-1996—Pub. L. 104–294, §§602(b), 607(d), struck out “Reconstruction Finance Corporation,” before “Farm Credit Administration”, “Farmers’ Home Corporation,” before “the Secretary of Agriculture”, and “of the National Agricultural Credit Corporation,” before “a Federal land bank” and inserted at end “The term ‘State-chartered credit union’ includes a credit union chartered under the laws of a State of the United States, the District of Columbia, or any commonwealth, territory, or possession of the United States.”
+<b>1996</b>—Pub. L. 104–294, §§602(b), 607(d), struck out “Reconstruction Finance Corporation,” before “Farm Credit Administration”, “Farmers’ Home Corporation,” before “the Secretary of Agriculture”, and “of the National Agricultural Credit Corporation,” before “a Federal land bank” and inserted at end “The term ‘State-chartered credit union’ includes a credit union chartered under the laws of a State of the United States, the District of Columbia, or any commonwealth, territory, or possession of the United States.”
 
 Pub. L. 104–294, §605(b), amended directory language of Pub. L. 101–73, §961(h)(1). See 1989 Amendment note below.
 
 Pub. L. 104–294, §604(b)(22), amended directory language of Pub. L. 103–322, §330002(d). See 1994 Amendment note below.
 
-1994—Pub. L. 103–354 inserted “or a company the Corporation reinsures” after “Federal Crop Insurance Corporation”.
+<b>1994</b>—Pub. L. 103–354 inserted “or a company the Corporation reinsures” after “Federal Crop Insurance Corporation”.
 
 Pub. L. 103–322, §330008(8), inserted comma after “National Credit Union Administration Board”.
 
 Pub. L. 103–322, §330002(d), as amended by Pub. L. 104–294, §604(b)(22), struck out a comma after “National Agricultural Credit Corporation,” and after “section 25(a) of the Federal Reserve Act,”.
 
-1990—Pub. L. 101–647, §2597(i), inserted “a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), or an organization operating under section 25 or section 25(a) of the Federal Reserve Act,” after “or the National Credit Union Administration Board”.
+<b>1990</b>—Pub. L. 101–647, §2597(i), inserted “a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), or an organization operating under section 25 or section 25(a) of the Federal Reserve Act,” after “or the National Credit Union Administration Board”.
 
 Pub. L. 101–647, §2595(a)(5), substituted “the Office of Thrift Supervision, any Federal home loan bank, the Federal Housing Finance Board,” for “the Federal Home Loan Bank System,” and inserted a comma after “Resolution Trust Corporation”.
 
@@ -70,7 +74,7 @@ Pub. L. 101–647, §2504(g), substituted “30” for “20” before “years�
 
 Pub. L. 101–624 substituted “Farmers Home Administration, the Rural Development Administration” for “Farmers’ Home Administration”.
 
-1989—Pub. L. 101–73, §962(a)(8)(B)(i), substituted “any Farm Credit Bank, production credit association, agricultural credit association, bank for cooperatives, or any division, officer, or employee thereof” for “any Federal intermediate credit bank, or any division, officer, or employee thereof, or of any corporation organized under sections 1131–1134m of Title 12”.
+<b>1989</b>—Pub. L. 101–73, §962(a)(8)(B)(i), substituted “any Farm Credit Bank, production credit association, agricultural credit association, bank for cooperatives, or any division, officer, or employee thereof” for “any Federal intermediate credit bank, or any division, officer, or employee thereof, or of any corporation organized under sections 1131–1134m of Title 12”.
 
 Pub. L. 101–73, §962(a)(8)(B)(ii), substituted “Farm Credit System Insurance Corporation” for “Federal Savings and Loan Insurance Corporation”.
 
@@ -82,23 +86,27 @@ Pub. L. 101–73, §961(h)(1), as amended by Pub. L. 104–294, §605(b), struck
 
 Pub. L. 101–73, §961(h)(4), which directed the insertion of “the Resolution Trust Corporation” after “Federal Deposit Insurance Corporation,” was executed by making the insertion after the second appearance of “Federal Deposit Insurance Corporation,” as the probable intent of Congress.
 
-1982—Pub. L. 97–297 struck out “a joint-stock land bank,” after “a Federal land bank,”.
+<b>1982</b>—Pub. L. 97–297 struck out “a joint-stock land bank,” after “a Federal land bank,”.
 
-1970—Pub. L. 91–609 extended criminal penalty for fraud or false statements to influence any institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation, any bank the deposits of which are insured by the Federal Deposit Insurance Corporation, any member of the Federal Home Loan Bank System, the Federal Deposit Insurance Corporation, the Federal Savings and Loan Insurance Corporation, or the Administrator of the National Credit Union Administration.
+<b>1970</b>—Pub. L. 91–609 extended criminal penalty for fraud or false statements to influence any institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation, any bank the deposits of which are insured by the Federal Deposit Insurance Corporation, any member of the Federal Home Loan Bank System, the Federal Deposit Insurance Corporation, the Federal Savings and Loan Insurance Corporation, or the Administrator of the National Credit Union Administration.
 
 Pub. L. 91–468 substituted “a Federal credit union, or an insured State-chartered credit union” for “or a Federal credit union”.
 
-1964—Pub. L. 88–353 inserted reference to Federal credit unions.
+<b>1964</b>—Pub. L. 88–353 inserted reference to Federal credit unions.
 
-1961—Pub. L. 87–353 struck out reference to Federal Farm Mortgage Corporation.
+<b>1961</b>—Pub. L. 87–353 struck out reference to Federal Farm Mortgage Corporation.
 
-1959—Pub. L. 86–168 substituted “Federal land bank association” for “National farm loan association”.
+<b>1959</b>—Pub. L. 86–168 substituted “Federal land bank association” for “National farm loan association”.
 
-1958—Pub. L. 85–699 inserted reference to small business investment companies.
+<b>1958</b>—Pub. L. 85–699 inserted reference to small business investment companies.
 
-1956—Act July 26, 1956, struck out reference to corporations in which a Production Credit Corporation holds stock.
+<b>1956</b>—Act July 26, 1956, struck out reference to corporations in which a Production Credit Corporation holds stock.
 
-1949—Act May 24, 1949, inserted reference to Secretary of Agriculture acting through the Farmers’ Home Administration.
+<b>1949</b>—Act May 24, 1949, inserted reference to Secretary of Agriculture acting through the Farmers’ Home Administration.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 
 #### Effective Date of 1996 Amendment
 

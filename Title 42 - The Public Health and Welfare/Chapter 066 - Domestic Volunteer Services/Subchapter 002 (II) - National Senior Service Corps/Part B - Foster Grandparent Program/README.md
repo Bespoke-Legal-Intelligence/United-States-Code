@@ -1,7 +1,5 @@
 Part B—Foster Grandparent Program
 
-<i><sup>1</sup></i><i> So in original. Probably should be “performance”.</i>
-
 
 ---
 

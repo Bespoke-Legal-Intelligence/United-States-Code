@@ -48,7 +48,7 @@ Section was enacted as part of the Export Administration Amendments Act of 1985,
 
 #### Amendments
 
-1988—Subsec. (d)(5). Pub. L. 100–418, §2305(a), added par. (5).
+<b>1988</b>—Subsec. (d)(5). Pub. L. 100–418, §2305(a), added par. (5).
 
 Subsec. (e). Pub. L. 100–418, §2308(a), added subsec. (e).
 

@@ -6,7 +6,7 @@ Nothing in this chapter shall be construed to apply to (or to authorize any Stat
 
 #### (b) Integration with other Acts
 
-(1) The Administrator shall integrate all provisions of this chapter for purposes of administration and enforcement and shall avoid duplication, to the maximum extent practicable, with the appropriate provisions of the Clean Air Act \[42 U.S.C. 7401 et seq.\], the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\], the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\], the Marine Protection, Research and Sanctuaries Act of 1972 \[16 U.S.C. 1431 et seq., 1447 et seq., 33 U.S.C. 1401 et seq., 2801 et seq.\], and such other Acts of Congress as grant regulatory authority to the Administrator. Such integration shall be effected only to the extent that it can be done in a manner consistent with the goals and policies expressed in this chapter and in the other acts referred to in this subsection.
+(1) The Administrator shall integrate all provisions of this chapter for purposes of administration and enforcement and shall avoid duplication, to the maximum extent practicable, with the appropriate provisions of the Clean Air Act \[42 U.S.C. 7401 et seq.\], the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\], the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\], the Marine Protection, Research and Sanctuaries Act of 1972 \[16 U.S.C. 1431 et seq., 1447 et seq., 33 U.S.C. 1401 etseq., 2801 et seq.\], and such other Acts of Congress as grant regulatory authority to the Administrator. Such integration shall be effected only to the extent that it can be done in a manner consistent with the goals and policies expressed in this chapter and in the other acts referred to in this subsection.
 
 (2)(A) As promptly as practicable after November 8, 1984, the Administrator shall submit a report describing—
 
@@ -50,15 +50,15 @@ Provisions similar to those in this section were contained in section 3257 of th
 
 #### Amendments
 
-1984—Subsec. (b)(1), (2). Pub. L. 98–616, §102, designated existing provisions as par. (1) and added par. (2).
+<b>1984</b>—Subsec. (b)(1), (2). Pub. L. 98–616, §102, designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (b)(3). Pub. L. 98–616, §501(f)(2), added par. (3).
 
-1980—Subsec. (c). Pub. L. 96–482 added subsec. (c).
+<b>1980</b>—Subsec. (c). Pub. L. 96–482 added subsec. (c).
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural GasTransportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 
 #### Uranium Mill Tailings
 

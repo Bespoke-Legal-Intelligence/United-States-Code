@@ -16,7 +16,7 @@ In the case of any taxpayer having 1 or more qualified business units with a fun
 
 #### Amendments
 
-1988—Par. (4). Pub. L. 100–647 struck out par. (4) which provided for translation of foreign income taxes paid by each qualified business unit of the taxpayer in the same manner as provided under section 986(b).
+<b>1988</b>—Par. (4). Pub. L. 100–647 struck out par. (4) which provided for translation of foreign income taxes paid by each qualified business unit of the taxpayer in the same manner as provided under section 986(b).
 
 #### Effective Date of 1988 Amendment
 

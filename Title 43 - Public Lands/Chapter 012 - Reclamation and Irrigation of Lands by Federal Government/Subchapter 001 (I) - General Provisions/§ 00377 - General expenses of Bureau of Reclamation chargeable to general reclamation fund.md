@@ -6,7 +6,7 @@ The cost and expense after June 30, 1945, of the office of the Commissioner in t
 
 #### Amendments
 
-1945—Act Apr. 19, 1945, amended section generally and made it applicable after June 30, 1945.
+<b>1945</b>—Act Apr. 19, 1945, amended section generally and made it applicable after June 30, 1945.
 
 #### Transfer of Functions
 

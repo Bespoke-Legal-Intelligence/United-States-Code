@@ -26,7 +26,7 @@ The Congress finds that—
 
 #### Amendments
 
-1998—Par. (1). Pub. L. 105–277, §1223(17)(A), substituted “Department of State” for “United States Arms Control and Disarmament Agency”.
+<b>1998</b>—Par. (1). Pub. L. 105–277, §1223(17)(A), substituted “Department of State” for “United States Arms Control and Disarmament Agency”.
 
 Par. (2). Pub. L. 105–277, §1223(17)(B), (C), redesignated par. (3) as (2) and struck out former par. (2) which readas follows: “as defined in this chapter, the terms ‘arms control’ and ‘disarmament’ mean ‘the identification, verification, inspection, limitation, control, reduction, or elimination, of armed forces and armaments of all kinds under international agreement to establish an effective system of international control’;”.
 
@@ -38,7 +38,7 @@ Par. (5). Pub. L. 105–277, §1223(17)(C), redesignated par. (6) as (5). Former
 
 Pars. (6), (7). Pub. L. 105–277, §1223(17)(C), (E), redesignated par. (7) as (6) and struck out “United States Arms Control and Disarmament Agency and the” before “Department of State”. Former par. (6) redesignated (5).
 
-1993—Par. (4)(A). Pub. L. 103–199, §401(d)(1), substituted “Russia, Ukraine, Kazakhstan, Belarus, Turkmenistan, Uzbekistan, the Czech Republic, and Germany” for “the Soviet Union, Czechoslovakia, and the German Democratic Republic”.
+<b>1993</b>—Par. (4)(A). Pub. L. 103–199, §401(d)(1), substituted “Russia, Ukraine, Kazakhstan, Belarus, Turkmenistan, Uzbekistan, the Czech Republic, and Germany” for “the Soviet Union, Czechoslovakia, and the German Democratic Republic”.
 
 Par. (4)(B). Pub. L. 103–199, §401(d)(2), struck out “Soviet” before “teams”.
 
@@ -46,7 +46,7 @@ Par. (4)(C). Pub. L. 103–199, §401(d)(3), substituted “Russia” for “the
 
 Par. (4)(D). Pub. L. 103–199, §401(d)(4), struck out “Soviet” before “inspectors”.
 
-1991—Pars. (5) to (7). Pub. L. 102–228 added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
+<b>1991</b>—Pars. (5) to (7). Pub. L. 102–228 added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 
 #### Effective Date of 1998 Amendment
 

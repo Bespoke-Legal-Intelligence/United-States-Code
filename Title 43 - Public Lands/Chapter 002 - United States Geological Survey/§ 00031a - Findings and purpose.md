@@ -58,7 +58,7 @@ Sections 31a to 31h of this title, referred to in subsec. (b), was in the origin
 
 #### Amendments
 
-2009—Subsec. (a)(1). Pub. L. 111–11, §11001(a)(1), added par. (1) and struck out former par. (1) which read as follows: “during the past 2 decades, the production of geologic maps has been drastically curtailed;”.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–11, §11001(a)(1), added par. (1) and struck out former par. (1) which read as follows: “during the past 2 decades, the production of geologic maps has been drastically curtailed;”.
 
 Subsec. (a)(2)(C). Pub. L. 111–11, §11001(a)(2)(A), inserted “homeland and” after “planning for”.
 
@@ -70,7 +70,7 @@ Subsec. (a)(9). Pub. L. 111–11, §11001(a)(3), substituted “available” for
 
 Subsec. (b). Pub. L. 111–11, §11001(b), inserted “and management” before period at end.
 
-1999—Subsec. (a)(8) to (10). Pub. L. 106–148 added pars. (8) and (9) and redesignated former par. (8) as (10) and inserted “of surficial and bedrock deposits” after “geologic mapping”.
+<b>1999</b>—Subsec. (a)(8) to (10). Pub. L. 106–148 added pars. (8) and (9) and redesignated former par. (8) as (10) and inserted “of surficial and bedrock deposits” after “geologic mapping”.
 
 #### Short Title of 1999 Amendment
 

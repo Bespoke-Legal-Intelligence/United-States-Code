@@ -30,11 +30,11 @@
 
 #### References in Text
 
-The Toxic Substances Control Act, referred to in subsec. (b)(2)(A), (3)(A), is Pub. L. 94–469, Oct. 11, 1976, 90Stat. 2003, as amended. Title II of the Act, as added by Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2970, is classified generally to subchapter II (§2641 et seq.) of chapter 53 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
+The Toxic Substances Control Act, referred to in subsec. (b)(2)(A), (3)(A), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended. Title II of the Act, as added by Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2970, is classified generally to subchapter II (§2641 et seq.) of chapter 53 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
 
 #### Amendments
 
-1990—Pub. L. 101–637, §14(a)(12), inserted section catchline.
+<b>1990</b>—Pub. L. 101–637, §14(a)(12), inserted section catchline.
 
 Subsec. (a)(1). Pub. L. 101–637, §11(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There are hereby authorized to be appropriated for the asbestos abatement program not more than $50,000,000 for the fiscal year ending on September 30, 1984, $50,000,000 for the fiscal year ending on September 30, 1985, and $100,000,000 for each of the five succeeding fiscal years. In addition, for such purposes there are authorized to be appropriated out of the Asbestos Trust Fund established by section 4022 of this title $25,000,000 for each of fiscal years 1987, 1988, 1989, and 1990.”
 
@@ -50,9 +50,9 @@ Subsec. (b)(2). Pub. L. 101–637, §11(b), added par. (2) and struck out former
 
 Subsec. (b)(3). Pub. L. 101–637, §11(b), added par. (3).
 
-1988—Pub. L. 100–368 moved last sentence (as added by Pub. L. 98–377) to end of subsec. (a)(1).
+<b>1988</b>—Pub. L. 100–368 moved last sentence (as added by Pub. L. 98–377) to end of subsec. (a)(1).
 
-1986—Pub. L. 99–519 inserted sentence at end authorizing appropriations out of the Asbestos Trust Fund for years 1987, 1988, 1989, and 1990.
+<b>1986</b>—Pub. L. 99–519 inserted sentence at end authorizing appropriations out of the Asbestos Trust Fund for years 1987, 1988, 1989, and 1990.
 
 #### Termination of Trust Territory of the Pacific Islands
 

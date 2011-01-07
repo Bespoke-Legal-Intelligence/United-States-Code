@@ -34,5 +34,5 @@ In subsection (a), the word “prescribed” is substituted for “established�
 
 #### Amendments
 
-1994—Pub. L. 103–429 renumbered section 32918 of this title as this section.
+<b>1994</b>—Pub. L. 103–429 renumbered section 32918 of this title as this section.
 

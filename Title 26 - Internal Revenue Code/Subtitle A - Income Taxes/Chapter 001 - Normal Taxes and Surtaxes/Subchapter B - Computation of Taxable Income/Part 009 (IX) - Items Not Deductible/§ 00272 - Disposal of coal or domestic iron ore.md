@@ -6,7 +6,7 @@ Where the disposal of coal or iron ore is covered by section 631, no deduction s
 
 #### Amendments
 
-1964—Pub. L. 88–272 inserted “or domestic iron ore” in section catchline, and “or iron ore” wherever appearing in text.
+<b>1964</b>—Pub. L. 88–272 inserted “or domestic iron ore” in section catchline, and “or iron ore” wherever appearing in text.
 
 #### Effective Date of 1964 Amendment
 

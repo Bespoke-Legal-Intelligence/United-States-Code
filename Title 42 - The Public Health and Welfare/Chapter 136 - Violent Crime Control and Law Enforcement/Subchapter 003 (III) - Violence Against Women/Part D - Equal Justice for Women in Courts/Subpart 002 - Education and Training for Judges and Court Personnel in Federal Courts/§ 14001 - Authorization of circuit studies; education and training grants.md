@@ -44,7 +44,7 @@ The Federal Judicial Center, in carrying out section 620(b)(3) of title 28, shal
 
 #### Amendments
 
-2000—Subsec. (d). Pub. L. 106–386 amended heading and text of subsec. (d) generally, substituting provisions relating to continuing education and training programs for provisions relating to model programs.
+<b>2000</b>—Subsec. (d). Pub. L. 106–386 amended heading and text of subsec. (d) generally, substituting provisions relating to continuing education and training programs for provisions relating to model programs.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Administrative Office of the United States Courts”.</i>
 

@@ -18,9 +18,9 @@ Another prior section 3512, added Pub. L. 93–153, title IV, §409(b), Nov. 16,
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–398 substituted “subchapter” for “chapter” in introductory provisions and par. (1).
+<b>2000</b>—Subsec. (a). Pub. L. 106–398 substituted “subchapter” for “chapter” in introductory provisions and par. (1).
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] of Pub. L. 106–398, set out as an Effective Date note under section 3531 of this title.
+Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] ofPub. L. 106–398, set out as an Effective Date note under section 3531 of this title.
 

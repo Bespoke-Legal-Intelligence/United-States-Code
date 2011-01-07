@@ -164,11 +164,11 @@ For prior section 4462, see Prior Provisions note set out preceding section 4471
 
 #### Amendments
 
-2005—Subsec. (d). Pub. L. 109–59 amended heading and text of subsec. (d) generally, substituting provisions relating to nonapplicability of tax imposed by section 4461(a) to exports for provisions relating to nonapplicability of tax imposed by section 4461(a) to bonded commercial cargo entering the United States for transportation and direct exportation to a foreign country and inapplicability of this provision to certain cargo exported to Canada or Mexico.
+<b>2005</b>—Subsec. (d). Pub. L. 109–59 amended heading and text of subsec. (d) generally, substituting provisions relating to nonapplicability of tax imposed by section 4461(a) to exports for provisions relating to nonapplicability of tax imposed by section 4461(a) to bonded commercial cargo entering the United States for transportation and direct exportation to a foreign country and inapplicability of this provision to certain cargo exported to Canada or Mexico.
 
-1996—Subsec. (b)(1)(D). Pub. L. 104–188 inserted before period at end “, or passengers transported on United States flag vessels operating solely within the State waters of Alaska or Hawaii and adjacent international waters”.
+<b>1996</b>—Subsec. (b)(1)(D). Pub. L. 104–188 inserted before period at end “, or passengers transported on United States flag vessels operating solely within the State waters of Alaska or Hawaii and adjacent international waters”.
 
-1988—Subsec. (b)(1)(B). Pub. L. 100–647, §2002(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “cargo loaded on a vessel in Alaska, Hawaii, or any possession of the United States for transportation to the United States mainland for ultimate use or consumption in the United States mainland,”.
+<b>1988</b>—Subsec. (b)(1)(B). Pub. L. 100–647, §2002(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “cargo loaded on a vessel in Alaska, Hawaii, or any possession of the United States for transportation to the United States mainland for ultimate use or consumption in the United States mainland,”.
 
 Subsec. (g)(3). Pub. L. 100–647, §6110(a), added par. (3).
 

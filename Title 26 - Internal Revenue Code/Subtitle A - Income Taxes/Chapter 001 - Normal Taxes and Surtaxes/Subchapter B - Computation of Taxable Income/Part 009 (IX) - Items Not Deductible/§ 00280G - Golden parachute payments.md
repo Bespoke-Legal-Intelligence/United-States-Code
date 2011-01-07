@@ -204,17 +204,17 @@ The Emergency Economic Stabilization Act of 2008, referred to in subsec. (e)(1),
 
 #### Amendments
 
-2008—Subsecs. (e), (f). Pub. L. 110–343 added subsec. (e) and redesignated former subsec. (e) as (f).
+<b>2008</b>—Subsecs. (e), (f). Pub. L. 110–343 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1996—Subsec. (b)(6)(D). Pub. L. 104–188 added subpar. (D).
+<b>1996</b>—Subsec. (b)(6)(D). Pub. L. 104–188 added subpar. (D).
 
-1988—Subsec. (b)(5)(A). Pub. L. 100–647, §1018(d)(6), substituted “section 1361(b) but without regard to paragraph (1)(C) thereof)” for “section 1361(b))” in cl. (i) and inserted at end “Stock described in section 1504(a)(4) shall not be taken into account under clause (ii)(I) if the payment does not adversely affect the shareholder's redemption and liquidation rights.”
+<b>1988</b>—Subsec. (b)(5)(A). Pub. L. 100–647, §1018(d)(6), substituted “section 1361(b) but without regard to paragraph (1)(C) thereof)” for “section 1361(b))” in cl. (i) and inserted at end “Stock described in section 1504(a)(4) shall not be taken into account under clause (ii)(I) if the payment does not adversely affect the shareholder's redemption and liquidation rights.”
 
 Subsec. (b)(5)(B). Pub. L. 100–647, §1018(d)(7), inserted at end “The regulations prescribed under subsection (e) shall include regulations providing for the application of this subparagraph in the case of shareholders which are not individuals (including the treatment of nonvoting interests in an entity which is a shareholder) and where an entity holds a de minimis amount of stock in the corporation.”
 
 Subsec. (d)(5). Pub. L. 100–647, §1018(d)(8), substituted “officer of any member” for “officer or any member”.
 
-1986—Subsec. (b)(2)(A). Pub. L. 99–514, §1804(j)(6), inserted “For purposes of clause (ii), payments not treated as parachute payments under paragraph (4)(A), (5), or (6) shall not be taken into account.”
+<b>1986</b>—Subsec. (b)(2)(A). Pub. L. 99–514, §1804(j)(6), inserted “For purposes of clause (ii), payments not treated as parachute payments under paragraph (4)(A), (5), or (6) shall not be taken into account.”
 
 Subsec. (b)(2)(B). Pub. L. 99–514, §1804(j)(7), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The term ‘parachute payment’ shall also include any payment in the nature of compensation to (or for the benefit of) a disqualified individual if such payment is pursuant to an agreement which violates any securities laws or regulations.”
 

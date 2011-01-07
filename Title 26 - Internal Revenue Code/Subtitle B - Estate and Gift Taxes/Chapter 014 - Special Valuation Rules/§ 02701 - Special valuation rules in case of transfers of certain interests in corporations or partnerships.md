@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Solely for purposes of determining whether a transfer of an interest in a corporation or partnership to (or for the benefit of) a member of the transferor's family is a gift (and the value of such transfer), the value of any right—
+&emsp;Solely for purposes of determining whether a transfer of an interest in a corporation orpartnership to (or for the benefit of) a member of the transferor's family is a gift (and the value of such transfer), the value of any right—
 
 &emsp;&emsp;(A) which is described in subparagraph (A) or (B) of subsection (b)(1), and
 
@@ -332,7 +332,7 @@ For purposes of this section—
 
 #### Amendments
 
-1996—Subsec. (a)(3)(B). Pub. L. 104–188, §1702(f)(1)(B), inserted “certain” before “qualified” in heading.
+<b>1996</b>—Subsec. (a)(3)(B). Pub. L. 104–188, §1702(f)(1)(B), inserted “certain” before “qualified” in heading.
 
 Subsec. (a)(3)(C). Pub. L. 104–188, §1702(f)(1)(A), added subpar. (C).
 

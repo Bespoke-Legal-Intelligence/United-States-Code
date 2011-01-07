@@ -120,7 +120,7 @@ In determining the consolidated taxable income of an affiliated group for any ta
 
 &emsp;(2) any amount treated as received under section 805(b)(3) of such Act.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 369; Mar. 13, 1956, ch. 83, §5(8), 70 Stat. 49; Pub. L. 85–866, title I, §64(d)(3), Sept. 2, 1958, 72 Stat. 1657; Pub. L. 86–69, §3(f)(1), June 25, 1959, 73 Stat. 140; Pub. L. 86–376, §2(c), Sept. 23, 1959, 73 Stat. 699; Pub. L. 86–779, §10(j), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 89–389, §4(b)(3), Apr. 14, 1966, 80 Stat. 116; Pub. L. 91–172, title I, §121(a)(4), Dec. 30, 1969, 83 Stat. 537; Pub. L. 92–178, title V, §502(e), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title VIII, §803(b)(3), title X, §§1051(g), 1053(d)(2), title XV, §1507(a), Oct. 4, 1976, 90 Stat. 1584, 1646, 1649, 1739; Pub. L. 95–600, title I, §141(f)(4), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, §101(a)(7)(L)(i)(VIII), (iv)(II), Apr. 1, 1980, 94 Stat. 199, 200; Pub. L. 98–369, div. A, title I, §60(a), title II, §211(b)(20), July 18, 1984, 98 Stat. 577, 756; Pub. L. 99–514, title X, §1024(c)(15), (16), title XVIII, §§1804(e)(1), (10), 1899A(35), Oct. 22, 1986, 100 Stat. 2408, 2800, 2804, 2960; Pub. L. 100–647, title I, §1018(d)(10), Nov. 10, 1988, 102 Stat. 3581; Pub. L. 101–508, title XI, §11814(b), Nov. 5, 1990, 104 Stat. 1388–557; Pub. L. 104–188, title I, §§1308(d)(2), 1702(h)(6), Aug. 20, 1996, 110 Stat. 1783, 1874.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 369; Mar. 13, 1956, ch. 83, §5(8), 70 Stat. 49; Pub. L. 85–866, title I,§64(d)(3), Sept. 2, 1958, 72 Stat. 1657; Pub. L. 86–69, §3(f)(1), June 25, 1959, 73 Stat. 140; Pub. L. 86–376, §2(c), Sept. 23, 1959, 73 Stat. 699; Pub. L. 86–779, §10(j), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 89–389, §4(b)(3), Apr. 14, 1966, 80 Stat. 116; Pub. L. 91–172, title I, §121(a)(4), Dec. 30, 1969, 83 Stat. 537; Pub. L. 92–178, title V, §502(e), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title VIII, §803(b)(3), title X, §§1051(g), 1053(d)(2), title XV, §1507(a), Oct. 4, 1976, 90 Stat. 1584, 1646, 1649, 1739; Pub. L. 95–600, title I, §141(f)(4), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, §101(a)(7)(L)(i)(VIII), (iv)(II), Apr. 1, 1980, 94 Stat. 199, 200; Pub. L. 98–369, div. A, title I, §60(a), title II, §211(b)(20), July 18, 1984, 98 Stat. 577, 756; Pub. L. 99–514, title X, §1024(c)(15), (16), title XVIII, §§1804(e)(1), (10), 1899A(35), Oct. 22, 1986, 100 Stat. 2408, 2800, 2804, 2960; Pub. L. 100–647, title I, §1018(d)(10), Nov. 10, 1988, 102 Stat. 3581; Pub. L. 101–508, title XI, §11814(b), Nov. 5, 1990, 104 Stat. 1388–557; Pub. L. 104–188, title I, §§1308(d)(2), 1702(h)(6), Aug. 20, 1996, 110 Stat. 1783, 1874.)
 
 #### References in Text
 
@@ -128,17 +128,17 @@ Section 805(b)(2)(A) and (3) of the Tax Reform Act of 1984, referred to in subse
 
 #### Amendments
 
-1996—Subsec. (b)(8). Pub. L. 104–188, §1308(d)(2), added par. (8).
+<b>1996</b>—Subsec. (b)(8). Pub. L. 104–188, §1308(d)(2), added par. (8).
 
 Subsec. (c)(2)(B)(i). Pub. L. 104–188, §1702(h)(6), inserted “section” before “243(b)(2)”.
 
-1990—Subsec. (c)(2)(B)(i). Pub. L. 101–508, §11814(b), substituted “section 243(b)(3)” for “section 243(b)(6)” and “243(b)(2)” for “section 243(b)(5)”.
+<b>1990</b>—Subsec. (c)(2)(B)(i). Pub. L. 101–508, §11814(b), substituted “section 243(b)(3)” for “section 243(b)(6)” and “243(b)(2)” for “section 243(b)(5)”.
 
-1988—Subsec. (b)(7). Pub. L. 100–647, §1018(d)(10)(A), amended par. (7) generally, striking out “, or any other corporation which has accumulated DISC income which is derived after December 31, 1984” after “in section 992(a)(1))”.
+<b>1988</b>—Subsec. (b)(7). Pub. L. 100–647, §1018(d)(10)(A), amended par. (7) generally, striking out “, or any other corporation which has accumulated DISC income which is derived after December 31, 1984” after “in section 992(a)(1))”.
 
 Subsec. (f). Pub. L. 100–647, §1018(d)(10)(B), added subsec. (f).
 
-1986—Subsec. (a)(4)(C). Pub. L. 99–514, §1804(e)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “has redemption and liquidation rights which do not exceed the paid-in capital or par value represented by such stock (except for a reasonable redemption premium in excess of such paid-in capital or par value), and”.
+<b>1986</b>—Subsec. (a)(4)(C). Pub. L. 99–514, §1804(e)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “has redemption and liquidation rights which do not exceed the paid-in capital or par value represented by such stock (except for a reasonable redemption premium in excess of such paid-in capital or par value), and”.
 
 Subsec. (b)(2). Pub. L. 99–514, §1024(c)(15), struck out “or 821” after “section 802”.
 
@@ -148,15 +148,15 @@ Subsec. (c)(2)(A). Pub. L. 99–514, §1899A(35), struck out “or 821” after 
 
 Pub. L. 99–514, §1024(c)(16), substituted “subsection (b)(2)) includes” for “subsection (b)(2) includes”.
 
-1984—Subsec. (a). Pub. L. 98–369, §60(a), in amending subsec. (a), generally, revised existing provisions of subsec. (a) into pars. (1), (2), and (4), added pars. (3) and (5), revised definition of “affiliated group”, and expanded the enumeration of securities not included under term “stock”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §60(a), in amending subsec. (a), generally, revised existing provisions of subsec. (a) into pars. (1), (2), and (4), added pars. (3) and (5), revised definition of “affiliated group”, and expanded the enumeration of securities not included under term “stock”.
 
 Subsecs. (b)(2), (c)(1), (2)(A). Pub. L. 98–369, §211(b)(20), substituted “section 801” for “section 802”.
 
-1980—Subsec. (a). Pub. L. 96–222 substituted “a tax credit employee stock ownership plan” for “an ESOP” and “employee” for “leveraged employee”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–222 substituted “a tax credit employee stock ownership plan” for “an ESOP” and “employee” for “leveraged employee”.
 
-1978—Subsec. (a). Pub. L. 95–600 substituted “(within the meaning for section 409A(<i>l</i>)) while such securities are held under an ESOP, or qualifying employer securities (within the meaning of section 4975(e)(8)) while such securities are held under a leveraged employeestock ownership plan which meets the requirements of section 4975(e)(7)” for “within the meaning of section 301(d)(9)(A) of the Tax Reduction Act of 1975, or qualifying employer securities within the meaning of section 4975(e)(8) while such securities are held under an employee stock ownership plan which meets the requirements of section 301(d) of such Act or section 4975(e)(7), respectively”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–600 substituted “(within the meaning for section 409A(<i>l</i>)) while such securities are held under an ESOP, or qualifying employer securities (within the meaning of section 4975(e)(8)) while such securities are held under a leveraged employee stock ownership plan which meets the requirements of section 4975(e)(7)” for “within the meaning of section 301(d)(9)(A) of the Tax Reduction Act of 1975, or qualifying employer securities within the meaning of section 4975(e)(8) while such securities are held under an employee stock ownership plan which meets the requirements of section 301(d) of such Act or section 4975(e)(7), respectively”.
 
-1976—Subsec. (a). Pub. L. 94–455, §803(b)(3), substituted “dividends, employer securities within the meaning of section 301(d)(9)(A) of the Tax Reduction Act of 1976, or qualifying employer securities within the meaning of section 4975(e)(8) while such securities are held under an employee stock ownership plan which meets the requirements of section 301(d) of such Act or section 4975(e)(7), respectively” for “dividends” after “preferred as to”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §803(b)(3), substituted “dividends, employer securities within the meaning of section 301(d)(9)(A) of the Tax Reduction Act of 1976, or qualifying employer securities within the meaning of section 4975(e)(8) while such securities are held under an employee stock ownership plan which meets the requirements of section 301(d) of such Act or section 4975(e)(7), respectively” for “dividends” after “preferred as to”.
 
 Subsec. (b)(4). Pub. L. 94–455, §1051(g), substituted “Corporations with respect to which an election under section 936 (relating to possession tax credit) is in effect for the taxable year” for “Corporations entitled to the benefits of section 931, by reason of receiving a large percentage of their income from sources within possessions of the United States” in par. (4).
 
@@ -164,21 +164,21 @@ Subsec. (b)(5). Pub. L. 94–455, §1053(d)(2), struck out par. (5) which includ
 
 Subsec. (c). Pub. L. 94–455, §1507(a), designated existing provisions as provision preceding par. (1) and par. (1), in provision preceding par. (1) as so designated, substituted “Notwithstanding the provisions” for “Despite the provisions”, in par. (1) as so designated, substituted “tax under section 802 shall be treated” for “taxation under the same section of this subtitle shall be considered” and added par. (2).
 
-1971—Subsec. (b)(7). Pub. L. 92–178 added par. (7).
+<b>1971</b>—Subsec. (b)(7). Pub. L. 92–178 added par. (7).
 
-1969—Subsec. (e). Pub. L. 91–172 added subsec. (e).
+<b>1969</b>—Subsec. (e). Pub. L. 91–172 added subsec. (e).
 
-1966—Subsec. (b)(7). Pub. L. 89–389 struck out par. (7) exception to definition of “includible corporation” of unincorporated business enterprises subject to tax as corporations under section 1361 of this title.
+<b>1966</b>—Subsec. (b)(7). Pub. L. 89–389 struck out par. (7) exception to definition of “includible corporation” of unincorporated business enterprises subject to tax as corporations under section 1361 of this title.
 
-1960—Subsec. (b)(6). Pub. L. 86–779 inserted “and real estate investment trusts” after “Regulated investment companies”.
+<b>1960</b>—Subsec. (b)(6). Pub. L. 86–779 inserted “and real estate investment trusts” after “Regulated investment companies”.
 
-1959—Subsec. (b)(2). Pub. L. 86–69 struck out reference to section 811.
+<b>1959</b>—Subsec. (b)(2). Pub. L. 86–69 struck out reference to section 811.
 
 Subsec. (b)(8). Pub. L. 86–376 struck out par. (8) which excepted an electing small business corporation from term “includible corporation”.
 
-1958—Subsec. (b)(8). Pub. L. 85–866 added par. (8).
+<b>1958</b>—Subsec. (b)(8). Pub. L. 85–866 added par. (8).
 
-1956—Subsec. (b)(2), Act Mar. 13, 1956, inserted reference to section 811.
+<b>1956</b>—Subsec. (b)(2), Act Mar. 13, 1956, inserted reference to section 811.
 
 #### Effective Date of 1996 Amendment
 
@@ -192,7 +192,7 @@ Amendment by Pub. L. 101–508 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to whichsuch amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -232,7 +232,7 @@ Special rule not to apply to certain sell-downs after june 22, 1984.—If—
 
 “(4)
 
-Exception for certain sell-downs.—Subsection (b)(2) (and not subsection (b)(3)) will apply to a corporation if such corporation issues or sells stock after June 22, 1984, pursuant to a registration statement filed with the Securities and Exchange Commission on or before June 22, 1984, but only if the requirements of the amendment made by subsection (a) \[amending this section\] (substituting ‘more than 50 percent’ for ‘at least 80 percent’ in paragraph (2)(B) of section 1504(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) are satisfied immediately after such issuance or sale and at all times thereafter until the first day of the first taxable year beginning after December 31, 1987. For purposes of the preceding sentence, if there is a letter of intent between a corporation and a securities underwriter entered into on or before June 22, 1984, and the subsequent issuance or sale is effected pursuant to a registration statement filed with the Securities andExchange Commission, such stock shall be treated as issued or sold pursuant to a registration statement filed with the Securities and Exchange Commission on or before June 22, 1984.
+Exception for certain sell-downs.—Subsection (b)(2) (and not subsection (b)(3)) will apply to a corporation if such corporation issues or sells stock after June 22, 1984, pursuant to a registration statement filed with the Securities and Exchange Commission on or before June 22, 1984, but only if the requirements of the amendment made by subsection (a) \[amending this section\] (substituting ‘more than 50 percent’ for ‘at least 80 percent’ in paragraph (2)(B) of section 1504(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) are satisfied immediately after such issuance or sale and at all times thereafter until the first day of the first taxable year beginning after December 31, 1987. For purposes of the preceding sentence, if there is a letter of intent between a corporation and a securities underwriter entered into on or before June 22, 1984, and the subsequent issuance or sale is effected pursuant to a registration statement filed with the Securities and Exchange Commission, such stock shall be treated as issued or sold pursuant to a registration statement filed with the Securities and Exchange Commission on or before June 22, 1984.
 
 “(5)
 
@@ -308,7 +308,7 @@ Section 1507(c)(1) of Pub. L. 94–455 provided that: “The amendments made by 
 
 #### Effective Date of 1971 Amendment
 
-Amendment by Pub. L. 92–178 applicable with respect to taxable years ending after Dec. 31, 1971, except thata corporation may not be a DISC for any taxable year beginning before Jan. 1, 1972, see section 507 of Pub. L. 92–178, set out as an Effective Date note under section 991 of this title.
+Amendment by Pub. L. 92–178 applicable with respect to taxable years ending after Dec. 31, 1971, except that a corporation may not be a DISC for any taxable year beginning before Jan. 1, 1972, see section 507 of Pub. L. 92–178, set out as an Effective Date note under section 991 of this title.
 
 #### Effective Date of 1969 Amendment
 
@@ -416,7 +416,7 @@ Judicial proceedings.—In the case of any proceeding in a Federal court or the 
 
 &emsp;“(4)
 
-Failures.—For purposes of the 1986 Code, any failure by the Secretary of the Treasury or his delegate to comply with the provisions of this subsection shall not affect the validity of the determination ofthe Internal Revenue Service of any adjustment of tax liability of any taxpayer described in paragraph (1).
+Failures.—For purposes of the 1986 Code, any failure by the Secretary of the Treasury or his delegate to comply with the provisions of this subsection shall not affect the validity of the determination of the Internal Revenue Service of any adjustment of tax liability of any taxpayer described in paragraph (1).
 
 “(d)
 

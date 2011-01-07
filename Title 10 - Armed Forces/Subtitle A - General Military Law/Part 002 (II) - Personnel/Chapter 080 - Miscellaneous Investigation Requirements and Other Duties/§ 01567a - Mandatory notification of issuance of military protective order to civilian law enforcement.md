@@ -20,5 +20,5 @@ Notification of Changes or Termination.—The commander of the military installa
 
 #### Amendments
 
-2009—Pub. L. 111–84 made technical amendment to section catchline.
+<b>2009</b>—Pub. L. 111–84 made technical amendment to section catchline.
 

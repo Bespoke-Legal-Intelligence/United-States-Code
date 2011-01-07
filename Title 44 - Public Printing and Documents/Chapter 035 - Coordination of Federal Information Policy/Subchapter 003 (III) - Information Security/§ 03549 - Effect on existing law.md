@@ -4,3 +4,5 @@ Nothing in this subchapter, section 11331 of title 40, or section 20 of the Nati
 
 (Added Pub. L. 107–347, title III, §301(b)(1), Dec. 17, 2002, 116 Stat. 2955.)
 
+<i><sup>1</sup></i><i> So in original. Probably should be “National Institute of Standards”.</i>
+

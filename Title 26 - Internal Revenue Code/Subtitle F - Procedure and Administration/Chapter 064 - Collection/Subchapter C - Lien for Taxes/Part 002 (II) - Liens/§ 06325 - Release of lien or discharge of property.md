@@ -36,7 +36,7 @@ Subject to such regulations as the Secretary may prescribe, the Secretary shall 
 
 #### (A) In general
 
-&emsp;&emsp;At the request of the owner of any property subject to any lien imposed by thischapter, the Secretary shall issue a certificate of discharge of such property if such owner—
+&emsp;&emsp;At the request of the owner of any property subject to any lien imposed by this chapter, the Secretary shall issue a certificate of discharge of such property if such owner—
 
 &emsp;&emsp;&emsp;(i) deposits with the Secretary an amount of money equal to the value of the interest of the United States (as determined by the Secretary) in the property; or
 
@@ -120,15 +120,15 @@ If a certificate or notice issued pursuant to this section may not be filed in t
 
 #### Amendments
 
-1998—Subsec. (b)(4). Pub. L. 105–206 added par. (4).
+<b>1998</b>—Subsec. (b)(4). Pub. L. 105–206 added par. (4).
 
-1982—Subsec. (a). Pub. L. 97–248 in introductory provisions substituted “shall issue” for “may issue” and “not later than 30 days after the day on which” for “if”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–248 in introductory provisions substituted “shall issue” for “may issue” and “not later than 30 days after the day on which” for “if”.
 
-1978—Subsec. (d)(3). Pub. L. 95–600 added par. (3).
+<b>1978</b>—Subsec. (d)(3). Pub. L. 95–600 added par. (3).
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1966—Subsec. (b)(3). Pub. L. 89–719 added par. (3).
+<b>1966</b>—Subsec. (b)(3). Pub. L. 89–719 added par. (3).
 
 Subsecs. (d), (e). Pub. L. 89–719 added subsecs. (d) and (e). Former subsecs. (d) and (e) redesignated, with amendments, as subsecs. (f)(1) and (h), respectively.
 
@@ -138,7 +138,7 @@ Subsec. (g). Pub. L. 89–719 added subsec. (g).
 
 Subsec. (h). Pub. L. 89–719 redesignated as subsec. (h) provisions formerly constituting subsec. (e) and struck out cross references for single bonds, suits to enforce liens, and suits to clear title to realty.
 
-1958—Subsec. (a)(1). Pub. L. 85–866, §77(1), substituted “or” for “,” after “satisfied” and struck out “, or, in the case of the estate tax imposed by chapter 11 or the gift tax imposed by chapter 12, has been fully satisfied or provided for” after “unenforceable”.
+<b>1958</b>—Subsec. (a)(1). Pub. L. 85–866, §77(1), substituted “or” for “,” after “satisfied” and struck out “, or, in the case of the estate tax imposed by chapter 11 or the gift tax imposed by chapter 12, has been fully satisfied or provided for” after “unenforceable”.
 
 Subsec. (c). Pub. L. 85–866, §77(2), added subsec. (c) and redesignated former subsec. (c) as (d).
 

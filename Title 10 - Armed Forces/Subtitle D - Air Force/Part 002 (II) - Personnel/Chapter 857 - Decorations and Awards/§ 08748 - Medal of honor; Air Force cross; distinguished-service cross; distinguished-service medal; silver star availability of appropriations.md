@@ -22,5 +22,5 @@ The word “amounts” is substituted for the words “so much as may be”. The
 
 #### Amendments
 
-1960—Pub. L. 86–593 inserted “Air Force cross” in section catchline.
+<b>1960</b>—Pub. L. 86–593 inserted “Air Force cross” in section catchline.
 

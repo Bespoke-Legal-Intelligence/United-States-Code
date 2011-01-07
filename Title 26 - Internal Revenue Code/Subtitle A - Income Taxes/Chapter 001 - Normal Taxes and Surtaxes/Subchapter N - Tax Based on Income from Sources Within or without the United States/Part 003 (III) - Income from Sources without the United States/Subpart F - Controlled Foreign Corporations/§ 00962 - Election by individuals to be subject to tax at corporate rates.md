@@ -4,7 +4,7 @@
 
 Under regulations prescribed by the Secretary, in the case of a United States shareholder who is an individual and who elects to have the provisions of this section apply for the taxable year—
 
-&emsp;(1) the tax imposed under this chapter on amounts which are included in his gross income under section 951(a) shall (in lieu of the tax determined under sections 1 and 55) be anamount equal to the tax which would be imposed under sections 11 and 55 if such amounts were received by a domestic corporation, and
+&emsp;(1) the tax imposed under this chapter on amounts which are included in his gross income under section 951(a) shall (in lieu of the tax determined under sections 1 and 55) be an amount equal to the tax which would be imposed under sections 11 and 55 if such amounts were received by a domestic corporation, and
 
 &emsp;(2) for purposes of applying the provisions of section 960 (relating to foreign tax credit) such amounts shall be treated as if they were received by a domestic corporation.
 
@@ -24,13 +24,13 @@ The earnings and profits of a foreign corporation attributable to amounts which 
 
 #### Amendments
 
-1988—Subsec. (a)(1). Pub. L. 100–647 substituted “sections 1 and 55” and “sections 11 and 55” for “section 1” and “section 11”, respectively.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–647 substituted “sections 1 and 55” and “sections 11 and 55” for “section 1” and “section 11”, respectively.
 
-1978—Subsec. (c). Pub. L. 95–600 substituted provisions relating to the pro ration of each section 11 bracket amount for provisions relating to the surtax exemption.
+<b>1978</b>—Subsec. (c). Pub. L. 95–600 substituted provisions relating to the pro ration of each section 11 bracket amount for provisions relating to the surtax exemption.
 
-1976—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1975—Subsec. (c). Pub. L. 94–164 substituted “same ratio to the surtax exemption” for “same ratio to $25,000” in subsec. (c) as such subsec. (c) is in effect for taxable years ending after Dec. 31, 1975.
+<b>1975</b>—Subsec. (c). Pub. L. 94–164 substituted “same ratio to the surtax exemption” for “same ratio to $25,000” in subsec. (c) as such subsec. (c) is in effect for taxable years ending after Dec. 31, 1975.
 
 Pub. L. 94–12 substituted “$50,000” for “$25,000”.
 

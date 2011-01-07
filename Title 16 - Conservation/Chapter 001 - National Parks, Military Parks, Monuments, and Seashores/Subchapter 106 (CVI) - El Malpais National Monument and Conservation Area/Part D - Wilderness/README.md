@@ -1,7 +1,5 @@
 Part D—Wilderness
 
-<i><sup>1</sup></i><i> So in original. See References in Text note below.</i>
-
 
 ---
 

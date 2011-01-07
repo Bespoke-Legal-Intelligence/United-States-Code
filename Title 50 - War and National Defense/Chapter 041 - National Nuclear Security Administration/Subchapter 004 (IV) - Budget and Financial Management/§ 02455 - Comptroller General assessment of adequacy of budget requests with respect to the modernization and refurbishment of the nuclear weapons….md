@@ -1,0 +1,40 @@
+### §2455. Comptroller General assessment of adequacy of budget requests with respect to the modernization and refurbishment of the nuclear weapons stockpile
+
+#### (a) GAO study and reports
+
+(1) For the nuclear security budget materials submitted in each fiscal year by the Administrator, the Comptroller General of the United States shall conduct a study on whether both the budget for the fiscal year following the fiscal year in which such budget materials are submitted and the future-years nuclear securityprogram submitted to Congress in relation to such budget under section 2453 of this title provide for funding of the nuclear security complex at a level that is sufficient for the modernization and refurbishment of the nuclear security complex.
+
+(2) Not later than 90 days after the date on which the Administrator submits the nuclear security budget materials, the Comptroller General shall submit to the congressional defense committees a report on the study under paragraph (1), including—
+
+&emsp;(A) the findings of such study; and
+
+&emsp;(B) whether the nuclear security budget materials support the requirements for infrastructure recapitalization of the facilities of the nuclear security complex.
+
+#### (b) Definitions
+
+In this section:
+
+&emsp;(1) The term “budget” means the budget for a fiscal year that is submitted to Congress by the President under section 1105(a) of title 31.
+
+&emsp;(2) The term “nuclear security budget materials” means the materials submitted to Congress by the Administrator in support of the budget for a fiscal year.
+
+&emsp;(3) The term “nuclear security complex” means the physical facilities, technology, and human capital of the following:
+
+&emsp;&emsp;(A) The national security laboratories.
+
+&emsp;&emsp;(B) The Kansas City Plant, Kansas City, Missouri.
+
+&emsp;&emsp;(C) The Nevada Test Site, Nevada.
+
+&emsp;&emsp;(D) The Savannah River Site, Aiken, South Carolina.
+
+&emsp;&emsp;(E) The Y-12 National Security Complex, Oak Ridge, Tennessee.
+
+&emsp;&emsp;(F) The Pantex Plant, Amarillo, Texas.
+
+(Pub. L. 106–65, div. C, title XXXII, §3255, as added Pub. L. 111–84, div. C, title XXXI, §3116(a), Oct. 28, 2009, 123 Stat. 2707; amended Pub. L. 111–383, div. C, title XXXI, §3113(a), Jan. 7, 2011, 124 Stat. 4509.)
+
+#### Amendments
+
+<b>2011</b>—Pub. L. 111–383 amended section generally. Prior to amendment, section related to biennial plan and budget assessment on the modernization and refurbishment of the nuclear security complex.
+

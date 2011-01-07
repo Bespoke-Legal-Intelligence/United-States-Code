@@ -68,7 +68,7 @@ For purposes of this section—
 
 &emsp;The term “amount involved” means, with respect to any act of self-dealing, the greater of the amount of money and the fair market value of the other property given or the amount of money and the fair market value of the other property received; except that in the case of services described in subsection (d)(2)(C), the amount involved shall be only the excess compensation. For purposes of the preceding sentence, the fair market value—
 
-&emsp;&emsp;(A) in the case of the taxes imposed by subsection (a), shall be determined as of the date on which the act of self-dealing occurs; and
+&emsp;&emsp;(A) in the case of the taxes imposed by subsection (a), shall be determined as of thedate on which the act of self-dealing occurs; and
 
 &emsp;&emsp;(B) in the case of taxes imposed by subsection (b), shall be the highest fair market value during the taxable period.
 
@@ -114,15 +114,15 @@ For purposes of this section, a payment, out of assets or income of a trust desc
 
 #### Amendments
 
-1992—Subsec. (f). Pub. L. 102–486 substituted “subclause (I) or (IV) of section 501(c)(21)(A)(i)” for “clause (i) of section 501(c)(21)(A)”.
+<b>1992</b>—Subsec. (f). Pub. L. 102–486 substituted “subclause (I) or (IV) of section 501(c)(21)(A)(i)” for “clause (i) of section 501(c)(21)(A)”.
 
-1980—Subsec. (b)(1). Pub. L. 96–596, §2(a)(1)(G), substituted “taxable period” for “correction period”.
+<b>1980</b>—Subsec. (b)(1). Pub. L. 96–596, §2(a)(1)(G), substituted “taxable period” for “correction period”.
 
 Subsec. (e)(1)(B), (C). Pub. L. 96–596, §2(a)(2)(F), added subpar. (B) and redesignated former subpar. (B) as (C).
 
 Subsec. (e)(2)(B). Pub. L. 96–596, §2(a)(1)(H), substituted “taxable period” for “correction period”.
 
-Subsec. (e)(4), (5). Pub. L. 96–596, §2(a)(3)(E), redesignated par. (5) as (4) and struck out former par. (4) which defined correction period, with respect to any act of self-dealing, as the period beginning with the date on which the act of self-dealing occurs and ending 90 days after the date of mailing of a notice of deficiency under section 6212 of this title with respect to the tax imposed by subsec. (b)(1) of this section, extended by anyperiod in which a deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines is reasonable and necessary to bring about correction of the act of self-dealing.
+Subsec. (e)(4), (5). Pub. L. 96–596, §2(a)(3)(E), redesignated par. (5) as (4) and struck out former par. (4) which defined correction period, with respect to any act of self-dealing, as the period beginning with the date on which the act of self-dealing occurs and ending 90 days after the date of mailing of a notice of deficiency under section 6212 of this title with respect to the tax imposed by subsec. (b)(1) of this section, extended by any period in which a deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines is reasonable and necessary to bring about correction of the act of self-dealing.
 
 #### Effective Date of 1992 Amendment
 

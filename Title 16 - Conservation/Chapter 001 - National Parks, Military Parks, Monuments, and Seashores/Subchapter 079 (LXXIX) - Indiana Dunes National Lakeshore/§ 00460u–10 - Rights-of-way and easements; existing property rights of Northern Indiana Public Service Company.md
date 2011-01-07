@@ -14,5 +14,5 @@ A prior section 10 of Pub. L. 89–761 was renumbered section 9 and is classifie
 
 #### Amendments
 
-1986—Pub. L. 99–583 inserted provisions relating to the existing property rights of the Northern Indiana Public Service Company on Oct. 1, 1986.
+<b>1986</b>—Pub. L. 99–583 inserted provisions relating to the existing property rights of the Northern Indiana Public Service Company on Oct. 1, 1986.
 

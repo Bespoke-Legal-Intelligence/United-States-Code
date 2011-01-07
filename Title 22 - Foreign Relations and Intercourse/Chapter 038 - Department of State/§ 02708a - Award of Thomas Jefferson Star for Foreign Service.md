@@ -24,11 +24,11 @@ The Secretary shall prescribe the design of the Thomas Jefferson Star for Foreig
 
 #### (e) Funding
 
-Any expenses incurred in awarding a person a Thomas Jefferson Star for Foreign Service may be paid out of appropriations available at the time of the award for personnel of the department or agency of the United States Government in which the person was employed when the person incurred the wound, injury, or illness upon which the award is based.
+Any expenses incurred in awarding a person a Thomas Jefferson Star for Foreign Service may be paid out of appropriations available at thetime of the award for personnel of the department or agency of the United States Government in which the person was employed when the person incurred the wound, injury, or illness upon which the award is based.
 
 (Aug. 1, 1956, ch. 841, title I, §36A, as added Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §321\], Nov. 29, 1999, 113 Stat. 1536, 1501A–436; amended Pub. L. 107–228, div. A, title III, §311, Sept. 30, 2002, 116 Stat. 1377.)
 
 #### Amendments
 
-2002—Pub. L. 107–228 substituted “Thomas Jefferson Star for Foreign Service” for “Foreign Service star” in section catchline and wherever appearing in text.
+<b>2002</b>—Pub. L. 107–228 substituted “Thomas Jefferson Star for Foreign Service” for “Foreign Service star” in section catchline and wherever appearing in text.
 

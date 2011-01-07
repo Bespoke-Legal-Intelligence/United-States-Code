@@ -36,9 +36,9 @@ A prior section 420 was renumbered section 421 of this title.
 
 #### Amendments
 
-1997—Subsec. (c). Pub. L. 105–85 substituted “housing” for “quarters”.
+<b>1997</b>—Subsec. (c). Pub. L. 105–85 substituted “housing” for “quarters”.
 
-1966—Pub. L. 89–718 substituted “section 717 of title 10” for “section 716 of title 10” wherever appearing.
+<b>1966</b>—Pub. L. 89–718 substituted “section 717 of title 10” for “section 716 of title 10” wherever appearing.
 
 #### Effective Date of 1997 Amendment
 

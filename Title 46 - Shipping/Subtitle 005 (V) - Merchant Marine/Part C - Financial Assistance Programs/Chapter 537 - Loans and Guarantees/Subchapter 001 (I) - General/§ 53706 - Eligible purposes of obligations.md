@@ -4,7 +4,7 @@
 
 In General.—To be eligible for a guarantee under this chapter, an obligation must aid in any of the following:
 
-&emsp;(1)(A) Financing (including reimbursement of an obligor for expenditures previously made for) the construction, reconstruction, or reconditioning of a vessel (including an eligible export vessel) designed principally for research, or for commercial use—
+&emsp;(1)(A) Financing (including reimbursement of an obligor for expenditures previously madefor) the construction, reconstruction, or reconditioning of a vessel (including an eligible export vessel) designed principally for research, or for commercial use—
 
 &emsp;&emsp;(i) in the coastwise or intercoastal trade;
 
@@ -112,7 +112,7 @@ The Maritime Security Act of 2003, referred to in subsec. (c)(1)(A), is title XX
 
 #### Amendments
 
-2008—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(D), (2)(A), (B), (b)(2). See 2006 Amendment note below.
+<b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(D), (2)(A), (B), (b)(2). See 2006 Amendment note below.
 
 Subsec. (a)(3)(B)(iii). Pub. L. 110–181, §3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(D), into this section by inserting “or Administrator” after “Secretary”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
@@ -132,13 +132,13 @@ Priorities for Certain Vessels.—In guaranteeing or making a commitment to guar
 
 > See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-2007—Subsec. (a)(7). Pub. L. 109–479 amended par. (7) generally. Prior to amendment, par. (7) read as follows: “Financing or refinancing (including reimbursement of an obligor for expenditures previously made for) the purchase of an individual fishing quota in accordance with section 303(d)(4) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1853(d)(4)).”
+<b>2007</b>—Subsec. (a)(7). Pub. L. 109–479 amended par. (7) generally. Prior to amendment, par. (7) read as follows: “Financing or refinancing (including reimbursement of an obligor for expenditures previously made for) the purchase of an individual fishing quota in accordance with section 303(d)(4) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1853(d)(4)).”
 
-2006—Pub. L. 109–163, §3507(a)(1)(D), (2)(A), (B), (b)(2), which directed the amendment of sections 1273(i), (j) and 1274(a) of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes for subsecs. (a)(3)(B)(iii) and (c) and Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–163, §3507(a)(1)(D), (2)(A), (B), (b)(2), which directed the amendment of sections 1273(i), (j) and 1274(a) of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes for subsecs. (a)(3)(B)(iii) and (c) and Historical and Revision notes above.
 
 #### Prohibition of New Loans for Construction of Fishing Vessels Under Certain Conditions
 
 Pub. L. 104–297, title III, §302(b)(2), Oct. 11, 1996, 110 Stat. 3615, as amended by Pub. L. 105–277, div. C, title II, §212, Oct. 21, 1998, 112 Stat. 2681–635; Pub. L. 107–206, title I, §1103, Aug. 2, 2002, 116 Stat. 884, provided that: “No loans may be provided or guaranteed by the Federal Government for the construction or rebuilding of a vessel intended for use as a fishing vessel (as defined in section 2101 of title 46, United States Code), if such vessel will be greater than 165 feet in registered length, of more than 750 gross registered tons (as measured under chapter 145 of title 46) or 1,900 gross registered tons \[(\]as measured under chapter 143 of that title), or have an engine or engines capable of producing a total of more than 3,000 shaft horsepower, after such construction or rebuilding is completed. This prohibition shall not apply to vessels to be used in the menhaden fishery or in tuna purse seine fisheries outside the exclusive economic zone of the United States or the area of the South Pacific Regional Fisheries Treaty.”
 
-\[Pub. L. 107–206, title I, §1103, Aug. 2, 2002, 116 Stat. 884, which directed the amendment of title II of division C of Public Law 105–277 by substituting “of more than 750 gross registered tons (as measured under chapter 145 of title 46) or 1,900 gross registered tons as measured under chapter 143 of that title)” for “of more than 750 gross registered tons”, was executed to section 302(b)(2) of Pub. L. 104–297, set out above, as amended by section 212 of Pub. L. 105–277, to reflect the probable intent of Congress.\]
+\[Pub. L. 107–206, title I, §1103, Aug. 2, 2002, 116 Stat. 884, which directed the amendment of title II of division C of Public Law 105–277 by substituting “of more than 750 gross registered tons (as measured under chapter 145 of title 46) or 1,900 gross registered tons as measured under chapter 143 of that title)” for “of more than750 gross registered tons”, was executed to section 302(b)(2) of Pub. L. 104–297, set out above, as amended by section 212 of Pub. L. 105–277, to reflect the probable intent of Congress.\]
 

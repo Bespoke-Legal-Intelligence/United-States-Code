@@ -1,104 +1,152 @@
 ### §294a. Area health education centers
 
-#### (a) Authority for provision of financial assistance
+#### (a) Establishment of awards
 
-#### (1) Assistance for planning, development, and operation of programs
+The Secretary shall make the following 2 types of awards in accordance with this section:
 
-#### (A) In general
+#### (1) Infrastructure development award
 
-&emsp;&emsp;The Secretary shall award grants to and enter into contracts with schools of medicine and osteopathic medicine, and incorporated consortia made up of such schools, or the parent institutions of such schools, for projects for the planning, development and operation of area health education center programs that—
+&emsp;The Secretary shall make awards to eligible entities to enable such entities to initiate health care workforce educational programs or to continue to carry out comparable programs that are operating at the time the award is made by planning, developing, operating, and evaluating an area health education center program.
 
-&emsp;&emsp;&emsp;(i) improve the recruitment, distribution, supply, quality and efficiency of personnel providing health services in underserved rural and urban areas and personnel providing health services to populations having demonstrated serious unmet health care needs;
+#### (2) Point of service maintenance and enhancement award
 
-&emsp;&emsp;&emsp;(ii) increase the number of primary care physicians and other primary care providers who provide services in underserved areas through the offering of an educational continuum of health career recruitment through clinical education concerning underserved areas in a comprehensive health workforce strategy;
+&emsp;The Secretary shall make awards to eligible entities to maintain and improve the effectiveness and capabilities of an existing area health education center program, and make other modifications to the program that are appropriate due to changes in demographics, needs of the populations served, or other similar issues affecting the area health education center program. For the purposes of this section, the term “Program” refers to the area health education center program.
 
-&emsp;&emsp;&emsp;(iii) carry out recruitment and health career awareness programs to recruit individuals from underserved areas and under-represented populations, including minority and other elementary or secondary students, into the health professions;
+#### (b) Eligible entities; application
 
-&emsp;&emsp;&emsp;(iv) prepare individuals to more effectively provide health services to underserved areas or underserved populations through field placements, preceptorships, the conduct of or support of community-based primary care residency programs, and agreements with community-based organizations such as community health centers, migrant health centers, Indian health centers, public health departments and others;
+#### (1) Eligible entities
 
-&emsp;&emsp;&emsp;(v) conduct health professions education and training activities for students of health professions schools and medical residents;
+#### (A) Infrastructure development
 
-&emsp;&emsp;&emsp;(vi) conduct at least 10 percent of medical student required clinical education at sites remote to the primary teaching facility of the contracting institution; and
+&emsp;&emsp;For purposes of subsection (a)(1), the term “eligible entity” means a school of medicine or osteopathic medicine, an incorporated consortium of such schools, or the parent institutions of such a school. With respect to a State in which no area health education center program is in operation, the Secretary may award a grant or contract under subsection (a)(1) to a school of nursing.
 
-&emsp;&emsp;&emsp;(vii) provide information dissemination and educational support to reduce professional isolation, increase retention, enhance the practice environment, and improve health care through the timely dissemination of research findings using relevant resources.
+#### (B) Point of service maintenance and enhancement
 
-#### (B) Other eligible entities
+&emsp;&emsp;For purposes of subsection (a)(2), the term “eligible entity” means an entity that has received funds under this section, is operating an area health education center program, including an area health education center or centers, and has a center or centers that are no longer eligible to receive financial assistance under subsection (a)(1).
 
-&emsp;&emsp;With respect to a State in which no area health education center program is in operation, the Secretary may award a grant or contract under subparagraph (A) to a school of nursing.
+#### (2) Application
 
-#### (C) Project terms
+&emsp;An eligible entity desiring to receive an award under this section shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
-#### (i) In general
+#### (c) Use of funds
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the period during which payments may be made under an award under subparagraph (A) may not exceed—
+#### (1) Required activities
 
-&emsp;&emsp;&emsp;&emsp;(I) in the case of a project, 12 years or
+&emsp;An eligible entity shall use amounts awarded under a grant under subsection (a)(1) or (a)(2) to carry out the following activities:
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a center within a project, 6 years.
+&emsp;&emsp;(A) Develop and implement strategies, in coordination with the applicable one-stop delivery system under section 2864(c) of title 29, to recruit individuals from underrepresented minority populations or from disadvantaged or rural backgrounds into health professions, and support such individuals in attaining such careers.
 
-#### (ii) Exception
+&emsp;&emsp;(B) Develop and implement strategies to foster and provide community-based training and education to individuals seeking careers in health professions within underserved areas for the purpose of developing and maintaining a diverse health care workforce that is prepared to deliver high-quality care, with an emphasis on primary care, in underserved areas or for health disparity populations, in collaboration with other Federal and State health care workforce development programs, the State workforce agency, and local workforce investment boards, and in health care safety net sites.
 
-&emsp;&emsp;&emsp;The periods described in clause (i) shall not apply to projects that have completed the initial period of Federal funding under this section and that desire to compete for model awards under paragraph (2)(A).
+&emsp;&emsp;(C) Prepare individuals to more effectively provide health services to underserved areas and health disparity populations through field placements or preceptorships in conjunction with community-based organizations, accredited primary care residency training programs, Federally qualified health centers, rural health clinics, public health departments, or other appropriate facilities.
 
-#### (2) Assistance for operation of model programs
+&emsp;&emsp;(D) Conduct and participate in interdisciplinary training that involves physicians, physician assistants, nurse practitioners, nurse midwives, dentists, psychologists, pharmacists, optometrists, community health workers, public and allied health professionals, or other health professionals, as practicable.
 
-#### (A) In general
+&emsp;&emsp;(E) Deliver or facilitate continuing education and information dissemination programs for health care professionals, with an emphasis on individuals providing care in underserved areas and for health disparity populations.
 
-&emsp;&emsp;In the case of any entity described in paragraph (1)(A) that—
+&emsp;&emsp;(F) Propose and implement effective program and outcomes measurement and evaluation strategies.
 
-&emsp;&emsp;&emsp;(i) has previously received funds under this section;
+&emsp;&emsp;(G) Establish a youth public health program to expose and recruit high school students into health careers, with a focus on careers in public health.
 
-&emsp;&emsp;&emsp;(ii) is operating an area health education center program; and
+#### (2) Innovative opportunities
 
-&emsp;&emsp;&emsp;(iii) is no longer receiving financial assistance under paragraph (1);
+&emsp;An eligible entity may use amounts awarded under a grant under subsection (a)(1) or subsection (a)(2) to carry out any of the following activities:
 
-> &emsp;&emsp;the Secretary may provide financial assistance to such entity to pay the costs of operating and carrying out the requirements of the program as described in paragraph (1).
+&emsp;&emsp;(A) Develop and implement innovative curricula in collaboration with community-based accredited primary care residency training programs, Federally qualified health centers, rural health clinics, behavioral and mental health facilities, public health departments, or other appropriate facilities, with the goal of increasing the number of primary care physicians and other primary care providers prepared to serve in underserved areas and health disparity populations.
 
-#### (B) Matching requirement
+&emsp;&emsp;(B) Coordinate community-based participatory research with academic health centers, and facilitate rapid flow and dissemination of evidence-based health care information, research results, and best practices to improve quality, efficiency, and effectiveness of health care and health care systems within community settings.
 
-&emsp;&emsp;With respect to the costs of operating a model program under subparagraph (A), an entity, to be eligible for financial assistance under subparagraph (A), shall make available (directly or through contributions from State, county or municipal governments, or the private sector) recurring non-Federal contributions in cash toward such costs in an amount that is equal to not less than 50 percent of such costs.
+&emsp;&emsp;(C) Develop and implement other strategies to address identified workforce needs and increase and enhance the health care workforce in the area served by the area health education center program.
 
-#### (C) Limitation
+#### (d) Requirements
 
-&emsp;&emsp;The aggregate amount of awards provided under subparagraph (A) to entities in a State for a fiscal year may not exceed the lesser of—
+#### (1) Area health education center program
 
-&emsp;&emsp;&emsp;(i) $2,000,000; or
+&emsp;In carrying out this section, the Secretary shall ensure the following:
 
-&emsp;&emsp;&emsp;(ii) an amount equal to the product of $250,000 and the aggregate number of area health education centers operated in the State by such entities.
+&emsp;&emsp;(A) An entity that receives an award under this section shall conduct at least 10 percent of clinical education required for medical students in community settings that are removed from the primary teaching facility of the contracting institution for grantees that operate a school of medicine or osteopathic medicine. In States in which an entity that receives an award under this section is a nursing school or its parent institution, the Secretary shall alternatively ensure that—
 
-#### (b) Requirements for centers
+&emsp;&emsp;&emsp;(i) the nursing school conducts at least 10 percent of clinical education required for nursing students in community settings that are remote from the primary teaching facility of the school; and
 
-#### (1) General requirement
+&emsp;&emsp;&emsp;(ii) the entity receiving the award maintains a written agreement with a school of medicine or osteopathic medicine to place students from that school in training sites in the area health education center program area.
 
-&emsp;Each area health education center that receives funds under this section shall encouragethe regionalization of health professions schools through the establishment of partnerships with community-based organizations.
+&emsp;&emsp;(B) An entity receiving funds under subsection (a)(2) does not distribute such funding to a center that is eligible to receive funding under subsection (a)(1).
 
-#### (2) Service area
+#### (2) Area health education center
 
-&emsp;Each area health education center that receives funds under this section shall specifically designate a geographic area or medically underserved population to be served by the center. Such area or population shall be in a location removed from the main location of the teaching facilities of the schools participating in the program with such center.
+&emsp;The Secretary shall ensure that each area health education center program includes at least 1 area health education center, and that each such center—
 
-#### (3) Other requirements
+&emsp;&emsp;(A) is a public or private organization whose structure, governance, and operation is independent from the awardee and the parent institution of the awardee;
 
-&emsp;Each area health education center that receives funds under this section shall—
+&emsp;&emsp;(B) is not a school of medicine or osteopathic medicine, the parent institution of such a school, or a branch campus or other subunit of a school of medicine or osteopathic medicine or its parent institution, or a consortium of such entities;
 
-&emsp;&emsp;(A) assess the health personnel needs of the area to be served by the center and assist in the planning and development of training programs to meet such needs;
+&emsp;&emsp;(C) designates an underserved area or population to be served by the center which is in a location removed from the main location of the teaching facilities of the schools participating in the program with such center and does not duplicate, in whole or in part, the geographic area or population served by any other center;
 
-&emsp;&emsp;(B) arrange and support rotations for students and residents in family medicine, general internal medicine or general pediatrics, with at least one center in each program being affiliated with or conducting a rotating osteopathic internship or medical residency training program in family medicine (including geriatrics), general internal medicine (including geriatrics), or general pediatrics in which no fewer than 4 individuals are enrolled in first-year positions;
+&emsp;&emsp;(D) fosters networking and collaboration among communities and between academic health centers and community-based centers;
 
-&emsp;&emsp;(C) conduct and participate in interdisciplinary training that involves physicians and other health personnel including, where practicable, public health professionals, physician assistants, nurse practitioners, nurse midwives, and behavioral and mental health providers; and
+&emsp;&emsp;(E) serves communities with a demonstrated need of health professionals in partnership with academic medical centers;
 
-&emsp;&emsp;(D) have an advisory board, at least 75 percent of the members of which shall be individuals, including both health service providers and consumers, from the area served by the center.
+&emsp;&emsp;(F) addresses the health care workforce needs of the communities served in coordination with the public workforce investment system; and
 
-#### (c) Certain provisions regarding funding
+&emsp;&emsp;(G) has a community-based governing or advisory board that reflects the diversity of the communities involved.
 
-#### (1) Allocation to center
+#### (e) Matching funds
 
-&emsp;Not less than 75 percent of the total amount of Federal funds provided to an entity under this section shall be allocated by an area health education center program to the area health education center. Such entity shall enter into an agreement with each center for purposes of specifying the allocation of such 75 percent of funds.
+With respect to the costs of operating a program through a grant under this section, to be eligible for financial assistance under this section, an entity shall make available (directly or through contributions from State, county or municipal governments, or the private sector) recurring non-Federal contributions in cash or in kind, toward such costs in an amount that is equal to not less than 50 percent of such costs.At least 25 percent of the total required non-Federal contributions shall be in cash. An entity may apply to the Secretary for a waiver of not more than 75 percent of the matching fund amount required by the entity for each of the first 3 years the entity is funded through a grant under subsection (a)(1).
 
-#### (2) Operating costs
+#### (f) Limitation
 
-&emsp;With respect to the operating costs of the area health education center program of an entity receiving funds under this section, the entity shall make available (directly or through contributions from State, county or municipal governments, or the private sector) non-Federal contributions in cash toward such costs in an amount that is equal to not less than 50 percent of such costs, except that the Secretary may grant a waiver for up to 75 percent of the amount of the required non-Federal match in the first 3 years in which an entity receives funds under this section.
+Not less than 75 percent of the total amount provided to an area health education center program under subsection (a)(1) or (a)(2) shall be allocated to the area health education centers participating in the program under this section. To provide needed flexibility to newly funded area health education center programs, the Secretary may waive the requirement in the sentence for the first 2 years of a new area health education center program funded under subsection (a)(1).
 
-(July 1, 1944, ch. 373, title VII, §751, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3541.)
+#### (g) Award
+
+An award to an entity under this section shall be not less than $250,000 annually per area health education center included in the program involved. If amounts appropriated to carry out this section are not sufficient to comply with the preceding sentence, the Secretary may reduce the per center amount provided for in such sentence as necessary, provided the distribution established in subsection (j)(2) is maintained.
+
+#### (h) Project terms
+
+#### (1) In general
+
+&emsp;Except as provided in paragraph (2), the period during which payments may be made under an award under subsection (a)(1) may not exceed—
+
+&emsp;&emsp;(A) in the case of a program, 12 years; or
+
+&emsp;&emsp;(B) in the case of a center within a program, 6 years.
+
+#### (2) Exception
+
+&emsp;The periods described in paragraph (1) shall not apply to programs receiving point of service maintenance and enhancement awards under subsection (a)(2) to maintain existing centers and activities.
+
+#### (i) Inapplicability of provision
+
+Notwithstanding any other provision of this subchapter, section 295j(a) of this title shall not apply to an area health education center funded under this section.
+
+#### (j) Authorization of appropriations
+
+#### (1) In general
+
+&emsp;There is authorized to be appropriated to carry out this section $125,000,000 for each of the fiscal years 2010 through 2014.
+
+#### (2) Requirements
+
+&emsp;Of the amounts appropriated for a fiscal year under paragraph (1)—
+
+&emsp;&emsp;(A) not more than 35 percent shall be used for awards under subsection (a)(1);
+
+&emsp;&emsp;(B) not less than 60 percent shall be used for awards under subsection (a)(2);
+
+&emsp;&emsp;(C) not more than 1 percent shall be used for grants and contracts to implement outcomes evaluation for the area health education centers; and
+
+&emsp;&emsp;(D) not more than 4 percent shall be used for grants and contracts to provide technical assistance to entities receiving awards under this section.
+
+#### (3) Carryover funds
+
+&emsp;An entity that receives an award under this section may carry over funds from 1 fiscal year to another without obtaining approval from the Secretary. In no case may any funds be carried over pursuant to the preceding sentence for more than 3 years.
+
+#### (k) Sense of Congress
+
+It is the sense of the Congress that every State have an area health education center program in effect under this section.
+
+(July 1, 1944, ch. 373, title VII, §751, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3541; amended Pub. L. 111–148, title V, §5403(a), Mar. 23, 2010, 124 Stat. 644.)
 
 #### Prior Provisions
 
@@ -113,4 +161,8 @@ A prior section 751 of act July 1, 1944, was classified to section 293<i>o</i> o
 Another prior section 751 of act July 1, 1944, was classified to section 294r of this title prior to the general amendment of this subchapter by Pub. L. 102–408.
 
 Another prior section 751 of act July 1, 1944, was classified to section 294t of this title prior to renumbering by Pub. L. 97–35.
+
+#### Amendments
+
+<b>2010</b>—Pub. L. 111–148 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) which related to authority for provision of financial assistance, requirements for centers, and allocations and costs.
 

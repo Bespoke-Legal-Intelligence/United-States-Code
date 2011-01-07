@@ -90,13 +90,13 @@ Section was formerly classified to section 170i of Title 5 prior to the general 
 
 #### Amendments
 
-2002—Subsec. (b)(2)(A). Pub. L. 107–228 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the evacuation of United States Government employees and their dependents and private United States citizens when their lives are endangered by war, civil unrest, or natural disaster;”.
+<b>2002</b>—Subsec. (b)(2)(A). Pub. L. 107–228 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the evacuation of United States Government employees and their dependents and private United States citizens when their lives are endangered by war, civil unrest, or natural disaster;”.
 
-1996—Subsec. (d)(6). Pub. L. 104–316 substituted “section 3711(e)” for “section 3711(f)”.
+<b>1996</b>—Subsec. (d)(6). Pub. L. 104–316 substituted “section 3711(e)” for “section 3711(f)”.
 
-1994—Subsec. (c). Pub. L. 103–236 struck out “and the Foreign Service” after “Department of State” and substituted “a periodic” for “an annual confidential”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–236 struck out “and the Foreign Service” after “Department of State” and substituted “a periodic” for “an annual confidential”.
 
-1983—Pub. L. 98–164 designated existing provisions as subsec. (a), redesignated former pars. (a) and (b) as pars. (1) and (2), respectively, in par. (1) inserted reference to subsec. (b), and added subsecs. (b) to (d).
+<b>1983</b>—Pub. L. 98–164 designated existing provisions as subsec. (a), redesignated former pars. (a) and (b) as pars. (1) and (2), respectively, in par. (1) inserted reference to subsec. (b), and added subsecs. (b) to (d).
 
 #### Termination of Reporting Requirements
 

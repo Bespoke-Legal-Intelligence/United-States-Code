@@ -74,27 +74,27 @@ Subject to the limitations in paragraph (1) of subsection (c), there shall be de
 
 #### Amendments
 
-2002—Subsec. (d)(3)(B). Pub. L. 107–134 substituted “section 2011(d)” for “section 2011(e)”.
+<b>2002</b>—Subsec. (d)(3)(B). Pub. L. 107–134 substituted “section 2011(d)” for “section 2011(e)”.
 
-2001—Subsec. (d). Pub. L. 107–16, §§532(c)(5), 901, temporarily substituted “Certain foreign death taxes” for “Certain State and foreign death taxes” in heading and amended text generally, revising and restating provisions of pars. (1) to (3) so as to eliminate provisions relating to deduction for State death taxes. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (d). Pub. L. 107–16, §§532(c)(5), 901, temporarily substituted “Certain foreign death taxes” for “Certain State and foreign death taxes” in heading and amended text generally, revising and restating provisions of pars. (1) to (3) so as to eliminate provisions relating to deduction for State death taxes. See Effective and Termination Dates of 2001 Amendment note below.
 
-1997—Subsec. (c)(1)(B). Pub. L. 105–34, §1073(b)(3), struck out at end “This subparagraph shall not apply to any increase in the tax imposed by this chapter by reason of section 4980A(d).”
+<b>1997</b>—Subsec. (c)(1)(B). Pub. L. 105–34, §1073(b)(3), struck out at end “This subparagraph shall not apply to any increase in the tax imposed by this chapter by reason of section 4980A(d).”
 
 Subsec. (c)(1)(D). Pub. L. 105–34, §503(b)(1), added subpar. (D).
 
-1988—Subsec. (c)(1)(B). Pub. L. 100–647, inserted at end “This subparagraph shall not apply to any increase in the tax imposed by this chapter by reason of section 4980A(d).”
+<b>1988</b>—Subsec. (c)(1)(B). Pub. L. 100–647, inserted at end “This subparagraph shall not apply to any increase in the tax imposed by this chapter by reason of section 4980A(d).”
 
-1984—Subsec. (c)(1)(C). Pub. L. 98–369, §1027(b), added subpar. (C).
+<b>1984</b>—Subsec. (c)(1)(C). Pub. L. 98–369, §1027(b), added subpar. (C).
 
 Subsec. (e). Pub. L. 98–369, §425(a)(2), substituted “For provisions treating certain relinquishments of marital rights as consideration in money or money's worth, see section 2043(b)(2)” for “For provisions that relinquishment of marital rights shall not be deemed a consideration ‘in money or money's worth,’ see section 2043(b).”
 
-1976—Subsec. (d)(1). Pub. L. 94–455 struck out “or his delegate” after “Secretary” in provisions preceding subpar. (A) and following subpar. (B) and struck out “or Territory” after “a State” in subpar. (A).
+<b>1976</b>—Subsec. (d)(1). Pub. L. 94–455 struck out “or his delegate” after “Secretary” in provisions preceding subpar. (A) and following subpar. (B) and struck out “or Territory” after “a State” in subpar. (A).
 
-1959—Subsec. (d). Pub. L. 86–175 inserted a reference to foreign death taxes in heading of subsection and par. (3) and in text of par. (2), redesignated provisions of par. (1) as par. (1)(A) and sentence pertaining to exercise of privilege of election, added par. (2) and sentence for determining location of property, redesignated provisions of par. (3) as par. (3)(B) in part, and added par. (3)(A) and the part of (B) relating to foreign death taxes.
+<b>1959</b>—Subsec. (d). Pub. L. 86–175 inserted a reference to foreign death taxes in heading of subsection and par. (3) and in text of par. (2), redesignated provisions of par. (1) as par. (1)(A) and sentence pertaining to exercise of privilege of election, added par. (2) and sentence for determining location of property, redesignated provisions of par. (3) as par. (3)(B) in part, and added par. (3)(A) and the part of (B) relating to foreign death taxes.
 
-1958—Subsec. (d)(1). Pub. L. 85–866 struck out “or any possession of the United States,” after “District of Columbia,”.
+<b>1958</b>—Subsec. (d)(1). Pub. L. 85–866 struck out “or any possession of the United States,” after “District of Columbia,”.
 
-1956—Subsecs. (d), (e). Act Feb. 20, 1956, added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1956</b>—Subsecs. (d), (e). Act Feb. 20, 1956, added subsec. (d) and redesignated former subsec. (d) as (e).
 
 #### Effective Date of 2002 Amendment
 
@@ -104,11 +104,11 @@ Amendment by Pub. L. 107–134 applicable to estates of decedents dying on or af
 
 Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 503(b)(1) of Pub. L. 105–34 applicable to estates of decedents dying after Dec. 31, 1997, with special rule in case of estate of any decedent dying before Jan. 1, 1998, with respect to which there is an election under section 6166 of this title, see section 503(d) of Pub. L. 105–34, set out as a note under section 163 of this title.
+Amendment by section 503(b)(1) of Pub. L. 105–34 applicable to estates of decedents dying after Dec. 31,1997, with special rule in case of estate of any decedent dying before Jan. 1, 1998, with respect to which there is an election under section 6166 of this title, see section 503(d) of Pub. L. 105–34, set out as a note under section 163 of this title.
 
 Amendment by section 1073(b)(3) of Pub. L. 105–34 applicable to estates of decedents dying after Dec. 31, 1996, see section 1073(c) of Pub. L. 105–34, set out as an Effective Date of Repeal note under section 4980A of this title.
 

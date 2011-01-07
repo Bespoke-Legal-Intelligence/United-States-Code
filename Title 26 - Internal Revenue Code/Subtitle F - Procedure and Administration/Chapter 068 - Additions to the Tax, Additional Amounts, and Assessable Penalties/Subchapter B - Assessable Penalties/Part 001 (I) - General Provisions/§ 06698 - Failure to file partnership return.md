@@ -34,11 +34,11 @@ Another section 6698, formerly section 6694, relating to failure to file informa
 
 #### Amendments
 
-2009—Subsec. (b)(1). Pub. L. 111–92 substituted “$195” for “$89”.
+<b>2009</b>—Subsec. (b)(1). Pub. L. 111–92 substituted “$195” for “$89”.
 
-2008—Subsec. (b)(1). Pub. L. 110–458 substituted “$89” for “$85”.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–458 substituted “$89” for “$85”.
 
-2007—Subsec. (a). Pub. L. 110–142, §8(a), substituted “12 months” for “5 months” in concluding provisions.
+<b>2007</b>—Subsec. (a). Pub. L. 110–142, §8(a), substituted “12 months” for “5 months” in concluding provisions.
 
 Subsec. (b)(1). Pub. L. 110–142, §8(b), substituted “$85” for “$50”.
 

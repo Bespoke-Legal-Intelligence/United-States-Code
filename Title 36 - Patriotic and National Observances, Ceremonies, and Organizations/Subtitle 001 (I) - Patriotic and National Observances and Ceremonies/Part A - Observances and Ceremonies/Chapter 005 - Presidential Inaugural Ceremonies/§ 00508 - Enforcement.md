@@ -14,7 +14,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-508D36:725 (4th sentence).DAug. 6, 1956, ch. 974, §5 (4th sentence), 70 Stat. 1050.
+508
+
+36:725 (4th sentence).
+
+Aug. 6, 1956, ch. 974, §5 (4th sentence), 70 Stat. 1050.
 
 &nbsp;
 

@@ -38,7 +38,7 @@ Subsections (a) and (b) of this section shall not prohibit the disclosure of non
 
 &emsp;&emsp;(B) maintaining or servicing the consumer's account with the financial institution, or with another entity as part of a private label credit card program or other extension of credit on behalf of such entity; or
 
-&emsp;&emsp;(C) a proposed or actual securitization, secondary market sale (including sales ofservicing rights), or similar transaction related to a transaction of the consumer;
+&emsp;&emsp;(C) a proposed or actual securitization, secondary market sale (including sales of servicing rights), or similar transaction related to a transaction of the consumer;
 
 &emsp;(2) with the consent or at the direction of the consumer;
 
@@ -50,19 +50,27 @@ Subsections (a) and (b) of this section shall not prohibit the disclosure of non
 
 &emsp;(6)(A) to a consumer reporting agency in accordance with the Fair Credit Reporting Act \[15 U.S.C. 1681 et seq.\], or (B) from a consumer report reported by a consumer reporting agency;
 
-&emsp;(7) in connection with a proposed or actual sale, merger, transfer, or exchange of all or a portion of a business or operating unit if the disclosure of nonpublic personal information concerns solely consumers of such business or unit; or
+&emsp;(7) in connection with a proposed or actual sale, merger, transfer, or exchange of all or aportion of a business or operating unit if the disclosure of nonpublic personal information concerns solely consumers of such business or unit; or
 
 &emsp;(8) to comply with Federal, State, or local laws, rules, and other applicable legal requirements; to comply with a properly authorized civil, criminal, or regulatory investigation or subpoena or summons by Federal, State, or local authorities; or to respond to judicial process or government regulatory authorities having jurisdiction over the financial institution for examination, compliance, or other purposes as authorized by law.
 
-(Pub. L. 106–102, title V, §502, Nov. 12, 1999, 113 Stat. 1437.)
+(Pub. L. 106–102, title V, §502, Nov. 12, 1999, 113 Stat. 1437; Pub. L. 111–203, title X, §1093(2), July 21, 2010, 124 Stat. 2095.)
+
+#### Amendment of Subsection (e)(5)
+
+<i>Pub. L. 111–203, title X, §§1093(2), 1100H, July 21, 2010, 124 Stat. 2095, 2113, provided that, effective on the designated transfer date, subsection (e)(5) of this section is amended by inserting “the Bureau of Consumer Financial Protection” after “(including”. See Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
 This subchapter, referred to in subsecs. (a) and (c), was in the original “this subtitle”, meaning subtitle A (§501 et seq.) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which enacted this subchapter and amended section 1681s of this title. For complete classification of subtitle A to the Code, see Tables.
 
-The Right to Financial Privacy Act of 1978, referred to in subsec. (e)(5), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, as amended, which is classified generally to chapter 35 (§3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
+The Right to Financial Privacy Act of 1978, referred to in subsec. (e)(5), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to chapter 35 (§3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
 
 Chapter 2 of title I of Public Law 91–508, referred to in subsec. (e)(5), is chapter 2 (§§121–129) of title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1116, which is classified generally to chapter 21 (§1951 et seq.) of Title 12, Banks and Banking. For complete classification of chapter 2 to the Code, see Tables.
 
-The Fair Credit Reporting Act, referred to in subsec. (e)(6)(A), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1127, as amended, which is classified generally to subchapter III (§1681 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+The Fair Credit Reporting Act, referred to in subsec. (e)(6)(A), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1127, which is classified generally to subchapter III (§1681 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 

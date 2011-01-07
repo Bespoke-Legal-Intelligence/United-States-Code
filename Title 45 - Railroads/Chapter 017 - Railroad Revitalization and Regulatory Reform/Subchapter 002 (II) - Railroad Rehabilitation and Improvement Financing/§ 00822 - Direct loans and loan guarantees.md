@@ -154,9 +154,9 @@ A prior section 822, Pub. L. 94–210, title V, §502, Feb. 5, 1976, 90 Stat. 67
 
 #### Amendments
 
-2008—Subsec. (g)(1). Pub. L. 110–432 substituted “35 years” for “25 years”.
+<b>2008</b>—Subsec. (g)(1). Pub. L. 110–432 substituted “35 years” for “25 years”.
 
-2005—Subsec. (a). Pub. L. 109–59, §9003(b), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary may provide direct loans and loan guarantees to State and local governments, government sponsored authorities and corporations, railroads, and joint ventures that include at least 1 railroad.”
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §9003(b), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary may provide direct loans and loan guarantees to State and local governments, government sponsored authorities and corporations, railroads, and joint ventures that include at least 1 railroad.”
 
 Subsec. (c)(7), (8). Pub. L. 109–59, §9003(c), added pars. (7) and (8).
 

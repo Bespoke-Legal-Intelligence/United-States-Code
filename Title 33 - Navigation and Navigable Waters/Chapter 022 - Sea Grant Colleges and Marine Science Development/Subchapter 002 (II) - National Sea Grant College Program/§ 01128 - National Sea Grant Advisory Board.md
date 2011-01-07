@@ -46,7 +46,7 @@ There shall be an independent committee to be known as the National Sea Grant Ad
 
 #### Amendments
 
-2008—Pub. L. 110–394, §9(a)(4)(A), substituted “National Sea Grant Advisory Board” for “Sea grant review panel” in section catchline.
+<b>2008</b>—Pub. L. 110–394, §9(a)(4)(A), substituted “National Sea Grant Advisory Board” for “Sea grant review panel” in section catchline.
 
 Subsec. (a). Pub. L. 110–394, §9(a)(4)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “There shall be established an independent committee to be known as the sea grant review panel.”
 
@@ -60,9 +60,9 @@ Subsec. (c)(3). Pub. L. 110–394, §9(d), substituted “The Director may exten
 
 Subsec. (c)(8). Pub. L. 110–394, §9(e), added par. (8).
 
-2002—Subsec. (c)(2). Pub. L. 107–299 inserted first and second sentences and struck out former first sentence which read as follows: “The term of office of a votingmember of the panel shall be 3 years, except that of the original appointees, five shall be appointed for a term of 1 year, five shall be appointed for a term of 2 years, and five shall be appointed for a term of 3 years.”
+<b>2002</b>—Subsec. (c)(2). Pub. L. 107–299 inserted first and second sentences and struck out former first sentence which read as follows: “The term of office of a voting member of the panel shall be 3 years, except that of the original appointees, five shall be appointed for a term of 1 year, five shall be appointed for a term of 2 years, and five shall be appointed for a term of 3 years.”
 
-1998—Subsec. (a). Pub. L. 105–160, §8(a), struck out at end “The panel shall, on the 60th day after October 8, 1976, supersede the sea grant advisory panel in existence before October 8, 1976.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–160, §8(a), struck out at end “The panel shall, on the 60th day after October 8, 1976, supersede the sea grant advisory panel in existence before October 8, 1976.”
 
 Subsec. (b). Pub. L. 105–160, §§4(b)(1), 8(b)(1), inserted heading and in introductory provisions substituted “The panel” for “The Panel” and struck out “, the Under Secretary,” after “the Secretary”.
 
@@ -74,11 +74,11 @@ Subsec. (c)(1)(A). Pub. L. 105–160, §8(c)(1), substituted “college or sea g
 
 Subsec. (c)(5)(A). Pub. L. 105–160, §8(c)(2), added subpar. (A) and struck out former subpar. (A) which read as follows: “receive compensation at the daily rate for GS–18 of the General Schedule under section 5332 of title 5 when actually engaged in the performance of duties for such panel; and”.
 
-1991—Subsec. (b)(1). Pub. L. 102–186, §4(b)(1)(E), substituted “section 1124” for “sections 1124 and 1125”.
+<b>1991</b>—Subsec. (b)(1). Pub. L. 102–186, §4(b)(1)(E), substituted “section 1124” for “sections 1124 and 1125”.
 
 Subsec. (c)(1). Pub. L. 102–186, §§4(b)(1)(F), 5(b)(2), inserted “marine affairs and resource management,” after “education,” in fourth sentence and struck out “or 1125” after “1124” in last sentence.
 
-1987—Subsec. (b). Pub. L. 100–220, §3108(1), in introductory provisions, substituted “The Panel shall advise the Secretary, the Under Secretary, and the Director concerning—” for “The panel shall take such steps as may be necessary to review, and shall advise the Secretary, the Administrator, and the Director with respect to—”, and in par. (1), inserted “and section 1124a of this title”.
+<b>1987</b>—Subsec. (b). Pub. L. 100–220, §3108(1), in introductory provisions, substituted “The Panel shall advise the Secretary, the Under Secretary, and the Director concerning—” for “The panel shall take such steps as may be necessary to review, and shall advise the Secretary, the Administrator, and the Director with respect to—”, and in par. (1), inserted “and section 1124a of this title”.
 
 Subsec. (c)(1). Pub. L. 100–220, §§3104(b)(1)(F), 3108(2)(A), (B), amended second sentence generally, substituted “8” for “five” in third sentence, and substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources” in fourth sentence. Prior to amendment, second sentence read as follows: “The Director shall serve as a nonvoting member of the panel.”
 
@@ -86,7 +86,7 @@ Subsec. (c)(2). Pub. L. 100–220, §3108(2)(C), inserted at end “At least onc
 
 Subsec. (c)(3). Pub. L. 100–220, §3108(2)(D), struck out “, or until 90 days after such date, whichever is earlier” after “office” at end of second sentence.
 
-1980—Subsec. (c)(3). Pub. L. 96–289 substituted authorization for reappointment for one additional full term of an appointee to a partial or full term for prior authorization for filling vacancies for remainder of appointee's term and prohibition against status as a voting member after service of one full term as such voting member.
+<b>1980</b>—Subsec. (c)(3). Pub. L. 96–289 substituted authorization for reappointment for one additional full term of an appointee to a partial or full term for prior authorization for filling vacancies for remainder of appointee's term and prohibition against status as a voting member after service of one full term as such voting member.
 
 #### Change of Name
 

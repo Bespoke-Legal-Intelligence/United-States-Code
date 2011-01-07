@@ -2,7 +2,7 @@
 
 #### (a) Other Government departments
 
-The Secretary is authorized, upon the request of the head of an executive department, to detail officers or employees of the Service to such department for duty as agreed upon by the Secretary and the head of such department in order to cooperate in, or conduct work related to, the functions of such department or of the Service. When officers or employees are so detailed their salaries and allowances may be paid from working funds established as provided by law or may be paid by the Service from applicable appropriations and reimbursement may be made as agreed upon by the Secretary and the head of the executive department concerned. Officers detailed for duty with the Army, Air Force,Navy, or Coast Guard shall be subject to the laws for the government of the service to which detailed.
+The Secretary is authorized, upon the request of the head of an executive department, to detail officers or employees of the Service to such department for duty as agreed upon by the Secretary and the head of such department in order to cooperate in, or conduct work related to, the functions of such department or of the Service. When officers or employees are so detailed their salaries and allowances may be paid from working funds established as provided by law or may be paid by the Service from applicable appropriations and reimbursement may be made as agreed upon by the Secretary and the head of the executive department concerned. Officers detailed for duty with the Army, Air Force, Navy, or Coast Guard shall be subject to the laws for the government of the service to which detailed.
 
 #### (b) State health or mental health authorities
 
@@ -10,7 +10,7 @@ Upon the request of any State health authority or, in the case of work relating 
 
 #### (c) Congressional committees and nonprofit educational, research, or other institutions engaged in health activities for special studies and dissemination of information
 
-The Surgeon General may detail personnel of the Service to any appropriate committee of the Congress or to nonprofit educational, research <sup>1</sup> or other institutions engaged in health activities for special studies of scientific problems and for the dissemination of information relating to public health.
+The Surgeon General may detail personnel of the Service to any appropriate committee of the Congress or to nonprofit educational, research <sup>1</sup>or other institutions engaged in health activities for special studies of scientific problems and for the dissemination of information relating to public health.
 
 #### (d) Availability of funds; reimbursement by State; detailed services deemed service for computation of pay, promotion, etc.
 
@@ -28,15 +28,15 @@ In subsec. (a), Air Force was inserted on the authority of section 207(a), (f) o
 
 #### Amendments
 
-2006—Subsec. (e). Pub. L. 109–417 added subsec. (e).
+<b>2006</b>—Subsec. (e). Pub. L. 109–417 added subsec. (e).
 
-1979—Subsec. (c). Pub. L. 96–76, §309(a), inserted provisions authorizing detail of personnel to appropriate committees of Congress.
+<b>1979</b>—Subsec. (c). Pub. L. 96–76, §309(a), inserted provisions authorizing detail of personnel to appropriate committees of Congress.
 
 Subsec. (d). Pub. L. 96–76, §309(b), inserted provisions relating to agreements by States, etc., for reimbursement upon detail of personnel.
 
-1949—Subsec. (d). Act Oct. 12, 1949, substituted “the computation of basic pay” for “longevity pay”.
+<b>1949</b>—Subsec. (d). Act Oct. 12, 1949, substituted “the computation of basic pay” for “longevity pay”.
 
-1946—Subsec. (b). Act July 3, 1946, provided for detail of personnel on request from a State mental health authority.
+<b>1946</b>—Subsec. (b). Act July 3, 1946, provided for detail of personnel on request from a State mental health authority.
 
 #### Effective Date of 1949 Amendment
 
@@ -54,7 +54,7 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 
 Pub. L. 91–604, §15(b)(1)–(8)(A), Dec. 31, 1970, 84 Stat. 1710–1712, provided that:
 
-“(1) Subject to such requirements as the Civil Service Commission may prescribe, any commissioned officer of the Public Health Service (other than an officer whoretires under section 211 of the Public Health Service Act \[section 212 of this title\] after his election but prior to his transfer pursuant to this paragraph and paragraph (2)) who, upon the day before the effective date of Reorganization Plan Numbered 3 of 1970 (hereinafter in this subsection referred to as the ‘plan’), is serving as such officer (A) primarily in the performance of functions transferred by such plan to the Environmental Protection Agency or its Administrator (hereinafter in this subsection referred to as the ‘Agency’ and the ‘Administrator,’ respectively), may, if such officer so elects, acquire competitive status and be transferred to a competitive position in the Agency; or (B) primarily in the performance of functions determined by the Secretary of Health, Education, and Welfare (hereinafter in this subsection referred to as the ‘Secretary’) to be materially related to the functions so transferred, may, if authorized by agreement between the Secretary and the Administrator, and if such officer so elects, acquire such status and be so transferred.
+“(1) Subject to such requirements as the Civil Service Commission may prescribe, any commissioned officer of the Public Health Service (other than an officer who retires under section 211 of the Public Health Service Act \[section 212 of this title\] after his election but prior to his transfer pursuant to this paragraph and paragraph (2)) who, upon the day before the effective date of Reorganization Plan Numbered 3 of 1970 (hereinafter in this subsection referred to as the ‘plan’), is serving as such officer (A) primarily in the performance of functions transferred by such plan to the Environmental Protection Agency or its Administrator (hereinafter in this subsection referred to as the ‘Agency’ and the ‘Administrator,’ respectively), may, if such officer so elects, acquire competitive status and be transferred to a competitive position in the Agency; or (B) primarily in the performance of functions determined by the Secretary of Health, Education, and Welfare (hereinafter in this subsection referred to as the ‘Secretary’) to be materially related to the functions so transferred, may, if authorized by agreement between the Secretary and the Administrator, and if such officer so elects, acquire such status and be so transferred.
 
 “(2) An election pursuant to paragraph (1) shall be effective only if made in accordance with such procedures as may be prescribed by the Civil Service Commission (A) before the close of the 24th month after the effective date of the plan \[Dec. 2, 1970\], or (B) in the case of a commissioned officer who would be liable for training and service under the Military Selective Service Act of 1967 \[section 451 et seq. of Title 50, App., War and National Defense\] but for the operation of section 6(b)(3) thereof (50 U.S.C. App. 456(b)(3)), before (if it occurs later than the close of such 24th month) the close of the 90th day after the day upon which he has completed his 24th month of service as such officer.
 

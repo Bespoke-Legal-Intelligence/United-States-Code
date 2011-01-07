@@ -19,7 +19,7 @@ Chapter 63 sets forth the scope and procedures for the investigation of marine c
 
 #### Amendments
 
-1996—Pub. L. 104–324, title III, §313(b), Oct. 19, 1996, 110 Stat. 3922, added item 6308.
+<b>1996</b>—Pub. L. 104–324, title III, §313(b), Oct. 19, 1996, 110 Stat. 3922, added item 6308.
 
 
 ---

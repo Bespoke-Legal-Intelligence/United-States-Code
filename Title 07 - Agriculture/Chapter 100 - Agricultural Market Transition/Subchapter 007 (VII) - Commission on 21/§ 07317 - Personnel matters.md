@@ -8,11 +8,11 @@ Each member of the Commission shall serve without compensation, but shall be all
 
 #### (1) Appointment
 
-&emsp;The Commission shall appoint a staff director, who shall be paid at a rate not to exceed the maximum rate of basic pay under section 5376 of title 5, and such professional and clerical personnel as may be reasonable and necessary to enable the Commission to carry out its duties under this subchapter without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title,or any other provision of law, relating to the number, classification, and General Schedule rates.
+&emsp;The Commission shall appoint a staff director, who shall be paid at a rate not to exceed the maximum rate of basic pay under section 5376 of title 5, and such professional and clerical personnel as may be reasonable and necessary to enable the Commission to carry out its duties under this subchapter without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title, or any other provision of law, relating to the number, classification, and General Schedule rates.
 
 #### (2) Limitation on compensation
 
-&emsp;No employee appointed under this subsection (other than the staff director) may be compensated at a rate to exceed the maximum rate applicable to level GS–15 of the General Schedule.
+&emsp;No employee appointed under this subsection (other than the staff director) may becompensated at a rate to exceed the maximum rate applicable to level GS–15 of the General Schedule.
 
 #### (c) Detailed personnel
 
@@ -21,8 +21,6 @@ On the request of the chairperson of the Commission, the head of any department 
 (Pub. L. 104–127, title I, §187, Apr. 4, 1996, 110 Stat. 941.)
 
 #### References in Text
-
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (b)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 The General Schedule, referred to in subsec. (b), is set out under section 5332 of Title 5.
 

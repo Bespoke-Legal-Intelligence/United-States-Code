@@ -34,7 +34,7 @@ Effect of Phonograms Treaties.—Notwithstanding the provisions of subsection (b
 
 #### Historical and Revision Notes
 
-I74house report no. 94–1476
+#### house report no. 94–1476
 
 Section 104 of the bill \[this section\], which sets forth the basic criteria under which works of foreign origin can be protected under the U.S. copyright law, divides all works coming within the scope of sections 102 and 103 into two categories: unpublished and published. Subsection (a) imposes no qualifications of nationality and domicile with respect to unpublished works. Subsection (b) would make published works subject to protection under any one of four conditions:
 
@@ -46,11 +46,11 @@ Section 104 of the bill \[this section\], which sets forth the basic criteria un
 
 &emsp;(4) The work is covered by a Presidential proclamation extending protection to works originating in a specified country which extends protection to U.S. works “on substantially the same basis” as to its own works.
 
-The third of these conditions represents a treaty obligation of the United States. Under the Second Protocolof the Universal Copyright Convention, protection under U.S. Copyright law is expressly required for works published by the United Nations, by U.N. specialized agencies and by the Organization of American States.
+The third of these conditions represents a treaty obligation of the United States. Under the Second Protocol of the Universal Copyright Convention, protection under U.S. Copyright law is expressly required for works published by the United Nations, by U.N. specialized agencies and by the Organization of American States.
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–304, §102(b)(1)(G), inserted concluding provisions.
+<b>1998</b>—Subsec. (b). Pub. L. 105–304, §102(b)(1)(G), inserted concluding provisions.
 
 Subsec. (b)(1). Pub. L. 105–304, §102(b)(1)(A), substituted “treaty party” for “foreign nation that is a party to a copyright treaty to which the United States is also a party”.
 
@@ -64,7 +64,7 @@ Subsec. (b)(5), (6). Pub. L. 105–304, §102(b)(1)(C), (D), redesignated par. (
 
 Subsec. (d). Pub. L. 105–304, §102(b)(2), added subsec. (d).
 
-1988—Subsec. (b)(4), (5). Pub. L. 100–568, §4(a)(2), added par. (4) and redesignated former par. (4) as (5).
+<b>1988</b>—Subsec. (b)(4), (5). Pub. L. 100–568, §4(a)(2), added par. (4) and redesignated former par. (4) as (5).
 
 Subsec. (c). Pub. L. 100–568, §4(a)(3), added subsec. (c).
 
@@ -90,7 +90,7 @@ WHEREAS, pursuant to Article 5 of the aforesaid law, any literary or artistic pr
 
 WHEREAS, by virtue of a proclamation by the President of the United States of America dated May 25, 1922, 42 Stat. 2271, German citizens are and have been entitled to the benefits of the act of Congress approved March 4, 1909, 35 Stat. 1075, as amended, including the benefits of Section 1(e) of the aforementioned Title 17 of the United States Code \[section 1(e) of former Title 17\]; and
 
-WHEREAS, a letter of February 6, 1950, from the Chancellor of the Federal Republic of Germany to the Chairman of the Allied High Commission for Germany established the mutual understanding that reciprocal copyright relations continued in effect between the Federal Republic of Germany and the United States of America:
+WHEREAS, a letter of February 6, 1950, from the Chancellor of the Federal Republic of Germany to theChairman of the Allied High Commission for Germany established the mutual understanding that reciprocal copyright relations continued in effect between the Federal Republic of Germany and the United States of America:
 
 NOW, THEREFORE, I, LYNDON B. JOHNSON, President of the United States of America, by virtue of the authority vested in me by Section 9 of Title 17 of the United States Code \[section 9 of former Title 17\], do declare and proclaim:
 

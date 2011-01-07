@@ -6,7 +6,7 @@ Any amounts paid to a State for a fiscal year under section 300x or 300x–21 of
 
 #### Amendments
 
-2000—Pub. L. 106–310 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
+<b>2000</b>—Pub. L. 106–310 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
 “(a)
 

@@ -2,7 +2,7 @@
 
 #### (a) Appointment and number; selection of Chairman; rules of procedure; term
 
-(1) The United States shall be represented by not more than three Commissioners who shall serve as delegates of the United States on the Commission, and who may serve on the Council and Panels of the Commission as provided for in the Convention. Such Commissioners shall be appointed by and serve at the pleasure of the President. Not more than one such Commissioner shall be a salaried employee of any State or political subdivision thereof, or the Federal Government. Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28. The Commissioners shall be entitled to select a Chairman and to adopt such rules of procedure as they find necessary.
+(1) The United States shall be represented by not more than three Commissioners who shallserve as delegates of the United States on the Commission, and who may serve on the Council and Panels of the Commission as provided for in the Convention. Such Commissioners shall be appointed by and serve at the pleasure of the President. Not more than one such Commissioner shall be a salaried employee of any State or political subdivision thereof, or the Federal Government. Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28. The Commissioners shall be entitled to select a Chairman and to adopt such rules of procedure as they find necessary.
 
 (2) Of the Commissioners appointed under paragraph (1) who are not governmental employees—
 
@@ -36,11 +36,11 @@ It is the sense of the Congress that the United States Commissioners should seek
 
 #### Amendments
 
-2007—Subsec. (e). Pub. L. 109–479 added subsec. (e).
+<b>2007</b>—Subsec. (e). Pub. L. 109–479 added subsec. (e).
 
-2000—Subsec. (a)(1). Pub. L. 106–562 inserted before last sentence “Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.”
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–562 inserted before last sentence “Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.”
 
-1990—Subsec. (a). Pub. L. 101–627, §201(a), designated existing provisions as par. (1) and added pars. (2) and (3).
+<b>1990</b>—Subsec. (a). Pub. L. 101–627, §201(a), designated existing provisions as par. (1) and added pars. (2) and (3).
 
 Subsec. (d). Pub. L. 101–627, §203, added subsec. (d).
 

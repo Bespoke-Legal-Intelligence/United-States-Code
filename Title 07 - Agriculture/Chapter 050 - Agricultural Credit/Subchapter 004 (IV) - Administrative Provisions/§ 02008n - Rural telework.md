@@ -46,7 +46,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;As a condition of receiving a grant under this subsection, an eligible organization shall agree to obtain, after the applicationof the eligible organization has been approved and notice of award has been issued, contributions from non-Federal sources that are equal to—
+&emsp;&emsp;As a condition of receiving a grant under this subsection, an eligible organization shall agree to obtain, after the application of the eligible organization has been approved and notice of award has been issued, contributions from non-Federal sources that are equal to—
 
 &emsp;&emsp;&emsp;(i) during each of the first, second, and third years of a project, 30 percent of the amount of the grant; and
 
@@ -90,7 +90,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) may be in the form of in-kind contributions, including office equipment, office space, computer software, consultant services, computer networking equipment, and related services; and
 
-&emsp;&emsp;&emsp;(ii) may not be made from funds made available for community development block grants under title I of the Housing and Community Development Act of 1974 (42 U.S.C. 5301 et seq.).
+&emsp;&emsp;&emsp;(ii) may not be made from funds made available for community development block grants under title I of the Housingand Community Development Act of 1974 (42 U.S.C. 5301 et seq.).
 
 #### (4) Duration
 

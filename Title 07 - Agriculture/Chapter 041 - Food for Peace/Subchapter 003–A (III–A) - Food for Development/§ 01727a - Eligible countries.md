@@ -26,7 +26,7 @@ To make a finding under subsection (a)(2) of this section that a country is a fo
 
 #### (c) Priority
 
-In determining whether and to what extent agricultural commodities shall be made available to least developed countries under this subchapter, the Administrator shall give priority to countries that—
+In determining whether and to what extent agricultural commodities shall be made availableto least developed countries under this subchapter, the Administrator shall give priority to countries that—
 
 &emsp;(1) demonstrate the greatest need for food;
 

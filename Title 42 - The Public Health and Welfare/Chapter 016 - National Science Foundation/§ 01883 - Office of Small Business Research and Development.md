@@ -22,5 +22,5 @@ Section was enacted as part of the National Science Foundation Authorization Act
 
 #### Amendments
 
-1986—Par. (5). Pub. L. 99–386 struck out par. (5) which related to quarterly reports to Congress concerning activities of Office of Small Business Research and Development.
+<b>1986</b>—Par. (5). Pub. L. 99–386 struck out par. (5) which related to quarterly reports to Congress concerning activities of Office of Small Business Research and Development.
 

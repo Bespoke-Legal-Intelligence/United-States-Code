@@ -6,7 +6,7 @@ For the purpose of establishing in the National Capital area a park for the perf
 
 #### Amendments
 
-2002—Pub. L. 107–219 substituted “Wolf Trap National Park for the Performing Arts” for “Wolf Trap Farm Park”.
+<b>2002</b>—Pub. L. 107–219 substituted “Wolf Trap National Park for the Performing Arts” for “Wolf Trap Farm Park”.
 
 #### Short Title
 

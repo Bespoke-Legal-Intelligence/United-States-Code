@@ -52,7 +52,7 @@ July 30, 1956, ch. 789, §2 (as applicable to age), 70 Stat. 729.
 
 #### Amendments
 
-1967—Subsec. (b)(3). Pub. L. 90–130 struck out cl. (3) which inserted requirement that women appointed with a view to serving as a nurse or medical specialist be at least 21 years of age and under 64 years of age in order to be eligible for appointment as an officer of the National Guard.
+<b>1967</b>—Subsec. (b)(3). Pub. L. 90–130 struck out cl. (3) which inserted requirement that women appointed with a view to serving as a nurse or medical specialist be at least 21 years of age and under 64 years of age in order to be eligible for appointment as an officer of the National Guard.
 
-1958—Subsec. (b). Pub. L. 85–861 inserted qualifications for appointment of women with a view to serving as nurses or medical specialists.
+<b>1958</b>—Subsec. (b). Pub. L. 85–861 inserted qualifications for appointment of women with a view to serving as nurses or medical specialists.
 

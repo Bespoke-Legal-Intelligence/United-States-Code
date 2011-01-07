@@ -30,7 +30,7 @@ For purposes of this section—
 
 #### Amendments
 
-1986—Subsec. (b)(3). Pub. L. 99–514 substituted “section 144(a)(3)” for “section 103(b)(6)(C)”.
+<b>1986</b>—Subsec. (b)(3). Pub. L. 99–514 substituted “section 144(a)(3)” for “section 103(b)(6)(C)”.
 
 #### Effective Date of 1986 Amendment
 

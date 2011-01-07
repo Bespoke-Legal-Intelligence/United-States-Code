@@ -106,7 +106,7 @@
 
 &emsp;&emsp;(iii) the Interagency Committee determines that a study of the long-term environmental effects of the discharge would be of significant scientific value, especially for preventing or responding to future oil discharges.
 
-> &emsp;Areas for study may include the following sites where oil discharges have occurred: the New York/New Jersey Harbor area, where oil was discharged by an Exxon underwater pipeline, the T/B CIBRO SAVANNAH, and the M/V BT NAUTILUS; Narragansett Bay where oilwas discharged by the WORLD PRODIGY; the Houston Ship Channel where oil was discharged by the RACHEL B; the Delaware River, where oil was discharged by the PRESIDENTE RIVERA and the T/V ATHOS I, and Huntington Beach, California, where oil was discharged by the AMERICAN TRADER.
+> &emsp;Areas for study may include the following sites where oil discharges have occurred: the New York/New Jersey Harbor area, where oil was discharged by an Exxon underwater pipeline, the T/B CIBRO SAVANNAH, and the M/V BT NAUTILUS; Narragansett Bay where oil was discharged by the WORLD PRODIGY; the Houston Ship Channel where oil was discharged by the RACHEL B; the Delaware River, where oil was discharged by the PRESIDENTE RIVERA and the T/V ATHOS I, and Huntington Beach, California, where oil was discharged by the AMERICAN TRADER.
 
 &emsp;(C) Research conducted under this paragraph by, or through, the United States Fish and Wildlife Service shall be directed and coordinated by the National Wetland Research Center.
 
@@ -190,7 +190,7 @@ This Act, referred to in subsec. (c)(8)(G), is Pub. L. 101–380, Aug. 18, 1990,
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–241, §902(<i>l</i>)(3), added pars. (3) and (4) and struck out former par. (3) and concluding provisions which read as follows:
+<b>2006</b>—Subsec. (a). Pub. L. 109–241, §902(<i>l</i>)(3), added pars. (3) and (4) and struck out former par. (3) and concluding provisions which read as follows:
 
 “Membership.—The Interagency Committee shall include representatives from the Department of Commerce (including the National Oceanic and Atmospheric Administration and the National Institute of Standards and Technology), the Department of Energy, the Department of the Interior (including the Minerals Management Service and the United States Fish and Wildlife Service), the Department of Transportation (including the United States Coast Guard, the Maritime Administration, and the Pipeline and Hazardous Materials Safety Administration), the Department of Defense (including the Army Corps of Engineers and the Navy), the Environmental Protection Agency, the National Aeronautics and Space Administration, and the United States Fire Administration in the Federal Emergency Management Agency, as well as such other Federal agencies as the President may designate.
 
@@ -200,11 +200,11 @@ Subsec. (c)(4)(B). Pub. L. 109–241, §605(a)(1), substituted “RIVERA and the
 
 Subsec. (c)(6). Pub. L. 109–241, §902(<i>l</i>)(4), substituted “such agencies as the President may designate,” for “other such agencies in the Department of Transportation as the Secretary of Transportation may designate,”.
 
-2004—Subsec. (a)(3). Pub. L. 108–426, §2(c)(5)(A), substituted “Pipeline and Hazardous Materials Safety Administration” for “Research and Special Projects Administration”.
+<b>2004</b>—Subsec. (a)(3). Pub. L. 108–426, §2(c)(5)(A), substituted “Pipeline and Hazardous Materials Safety Administration” for “Research and Special Projects Administration”.
 
 Subsec. (c)(11). Pub. L. 108–426, §2(c)(5)(B), substituted “Pipeline and Hazardous Materials Safety Administration” for “Research and Special Programs Administration”.
 
-1996—Subsec. (c)(2)(D). Pub. L. 104–324, §1108, inserted “, and the Center for Marine Training and Safety in Galveston, Texas” before semicolon at end.
+<b>1996</b>—Subsec. (c)(2)(D). Pub. L. 104–324, §1108, inserted “, and the Center for Marine Training and Safety in Galveston, Texas” before semicolon at end.
 
 Subsec. (c)(6). Pub. L. 104–332, §2(h)(1), made technical amendment to Pub. L. 101–646, §4002(1). See 1990 Amendment note below.
 
@@ -212,7 +212,7 @@ Subsec. (c)(9). Pub. L. 104–324, §1102(c)(2), inserted “until the authoriza
 
 Subsec. (f). Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §4002(2). See 1990 Amendment note below.
 
-1990—Subsec. (c)(6). Pub. L. 101–537, §2002(1), and Pub. L. 101–646, §4002(1), as amended by Pub. L. 104–332, §2(h)(1), made substantially identical amendments, substituting “4” for “3” and inserting cl. (D).
+<b>1990</b>—Subsec. (c)(6). Pub. L. 101–537, §2002(1), and Pub. L. 101–646, §4002(1), as amended by Pub. L. 104–332, §2(h)(1), made substantially identical amendments, substituting “4” for “3” and inserting cl. (D).
 
 Subsec. (f). Pub. L. 101–537, §2002(2), and Pub. L. 101–646, §4002(2), as amended by Pub. L. 104–332, amended subsec. (f) identically, substituting “$22,000,000” for “$21,250,000” in introductory provisions and “$3,000,000” for “$2,250,000” in par. (2).
 

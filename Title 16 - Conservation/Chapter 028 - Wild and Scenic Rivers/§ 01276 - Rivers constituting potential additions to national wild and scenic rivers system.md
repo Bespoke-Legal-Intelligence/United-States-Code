@@ -256,7 +256,7 @@ Mills River, North Carolina.—The North Fork from the bottom of the spillway of
 
 (110)
 
-Sudbury, Assabet, and Concord, Massachussets.<sup>1</sup> —The segment of the Sudbury from the Danforth Street Bridge in the town of Framingham, to its confluence with the Assabet, the Assabet from 1,000 feet downstream of the Damon Mill Dam in Concord to its confluence with the Sudbury and the Concord from the confluence of the Sudbury and Assabet downstream to the Route 3 Bridge in the town of Billerica. The study of such river segments shall be completed and the report submitted thereon not later than at the end of the third fiscal year beginning after November 28, 1990.
+Sudbury, Assabet, and Concord, Massachussets.<sup>1</sup> —The segment of the Sudbury from the Danforth Street Bridge in the town of Framingham, to its confluence with the Assabet, the Assabet from 1,000 feet downstream of the Damon Mill Dam in Concord to its confluence with the Sudbury and the Concord from the confluence of the Sudbury and Assabet downstream to the Route 3 Bridge in the town of Billerica. The study of such river segments shall be completed and the report submitted thereonnot later than at the end of the third fiscal year beginning after November 28, 1990.
 
 (111)
 
@@ -434,7 +434,7 @@ Missisquoi and trout rivers, vermont.—The approximately 25-mile segment of the
 
 (5) The studies of the rivers in paragraphs (77) through (88) shall be completed and reports transmitted thereon not later than three full fiscal years from December 2, 1980. For the rivers listed in paragraphs (77), (78), and (79) the studies prepared and transmitted to the Congress pursuant to section 6505(c) of title 42 shall satisfy the requirements of this section.
 
-(6) Studies of rivers listed in paragraphs (80) and (81) shall be completed, and reports submitted within and not later than the time when the Bristol Bay Cooperative Region Plan is submitted to Congress in accordance with section 3183 <sup>3</sup> of this title.
+(6) Studies of rivers listed in paragraphs (80) and (81) shall be completed, and reports submitted within and not later than the time when theBristol Bay Cooperative Region Plan is submitted to Congress in accordance with section 3183 <sup>3</sup> of this title.
 
 (7) The study of the West Branch of the Farmington River identified in paragraph (92) of subsection (a) of this section shall be completed and the report submitted thereon not later than the end of the third fiscal year beginning after October 30, 1986. Such report shall include a discussion of management alternatives for the river if it were to be included in the national wild and scenic river system.
 
@@ -442,7 +442,7 @@ Missisquoi and trout rivers, vermont.—The approximately 25-mile segment of the
 
 (9) The study of the Pemigewasset River, New Hampshire, shall be completed and the report thereon submitted not later than three years after August 10, 1990.
 
-(10) The study of the river named in paragraph (106) <sup>4</sup> of subsection (a) of this section shall be completed not later than three years after August 15, 1990. In carrying out the study, the Secretary of the Interior shall consult with the Governors of the States of Florida and Georgia or their representatives, representatives of affected local governments, and owners of land adjacent to the river. Such consultation shall include participation in the assessment of resource values and the development of alternatives for the protection of those resource values, and shall be carried out through public meetings and media notification. The study shall also include a recommendation on the part of the Secretary as to the role the States, localgovernments and landowners should play in the management of the river if it were designated as a component of the National Wild and Scenic Rivers System.
+(10) The study of the river named in paragraph (106) <sup>4</sup> of subsection (a) of this section shall be completed not later than three years after August 15, 1990. In carrying out the study, the Secretary of the Interior shall consult with the Governors of the States of Florida and Georgia or their representatives, representatives of affected local governments, and owners of land adjacent to the river. Such consultation shall include participation in the assessment of resource values and the development of alternatives for the protection of those resource values, and shall be carried out through public meetings and media notification. The study shall also include a recommendation on the part of the Secretary as to the role the States, local governments and landowners should play in the management of the river if it were designated as a component of the National Wild and Scenic Rivers System.
 
 (11) The study of the Lamprey River, New Hampshire, shall be completed by the Secretary of the Interior and the report thereon submitted not later than 3 years after December 11, 1991.
 
@@ -480,7 +480,7 @@ Taunton River, Massachusetts.—Not later than 3 years after October 19, 2000, t
 
 (19)
 
-Missisquoi and trout rivers, vermont.—Not later than 3 years after the date on which funds are made available to carry out this paragraph, the Secretary of the Interior shall—
+Missisquoi and trout rivers, vermont.—Not later than 3 years after the date on whichfunds are made available to carry out this paragraph, the Secretary of the Interior shall—
 
 &emsp;(A) complete the study of the Missisquoi and Trout Rivers, Vermont, described in subsection (a)(140); and
 
@@ -508,17 +508,17 @@ Section 3183 of this title, referred to in subsec. (b)(6), was in the original �
 
 #### Amendments
 
-2009—Subsec. (a)(140). Pub. L. 111–11, §5101(a), added par. (140).
+<b>2009</b>—Subsec. (a)(140). Pub. L. 111–11, §5101(a), added par. (140).
 
 Subsec. (b)(19). Pub. L. 111–11, §5101(b), added par. (19).
 
-2006—Subsec. (a)(139). Pub. L. 109–370 added par. (139).
+<b>2006</b>—Subsec. (a)(139). Pub. L. 109–370 added par. (139).
 
-2001—Subsec. (a)(138). Pub. L. 107–65, §3, added par. (138).
+<b>2001</b>—Subsec. (a)(138). Pub. L. 107–65, §3, added par. (138).
 
 Subsec. (b)(18). Pub. L. 107–65, §4, added par. (18).
 
-2000—Subsec. (a)(136). Pub. L. 106–318, §3(1), designated unnumbered par. relating to Wekiva River, Florida, as par. (136).
+<b>2000</b>—Subsec. (a)(136). Pub. L. 106–318, §3(1), designated unnumbered par. relating to Wekiva River, Florida, as par. (136).
 
 Subsec. (a)(137). Pub. L. 106–318, §3(2), added par. (137).
 
@@ -532,7 +532,7 @@ Subsec. (b)(16). Pub. L. 106–318, §4(6), (7), designated unnumbered par. rela
 
 Subsec. (b)(17). Pub. L. 106–318, §4(8), added par. (17).
 
-1996—Subsec. (a). Pub. L. 104–311, §1, added unnumbered par. relating to Wekiva River, Florida.
+<b>1996</b>—Subsec. (a). Pub. L. 104–311, §1, added unnumbered par. relating to Wekiva River, Florida.
 
 Subsec. (a)(106), (108). Pub. L. 104–333, §407(b)(1), redesignated par. (106), relating to St. Marys River, Florida, as (108).
 
@@ -544,11 +544,11 @@ Subsec. (a)(114) to (135). Pub. L. 104–333, §407(b)(3), designated unnumbered
 
 Subsec. (b). Pub. L. 104–311, §2, added unnumbered par. relating to study of Wekiva River, Florida, and its tributaries.
 
-1994—Subsec. (a). Pub. L. 103–242, §3(a), added unnumbered par. relating to Rio Grande, New Mexico.
+<b>1994</b>—Subsec. (a). Pub. L. 103–242, §3(a), added unnumbered par. relating to Rio Grande, New Mexico.
 
 Subsec. (b). Pub. L. 103–242, §3(b), added unnumbered par. relating to study of Rio Grande, New Mexico.
 
-1992—Subsec. (a). Pub. L. 102–525 added unnumbered par. relating to New River, West Virginia and Virginia.
+<b>1992</b>—Subsec. (a). Pub. L. 102–525 added unnumbered par. relating to New River, West Virginia and Virginia.
 
 Pub. L. 102–460, §1(a), added unnumbered par. relating to Delaware River, Pennsylvania and New Jersey.
 
@@ -558,13 +558,13 @@ Pub. L. 102–301 added unnumbered pars. relating to the following rivers in Cal
 
 Pub. L. 102–271 added unnumbered pars. relating to Clarion River and Mill Creek, Pennsylvania.
 
-Pub. L. 102–249, §4(a), added unnumbered pars. relating to the Brule River in Michigan and Wisconsin, andthe following rivers in Michigan: Carp, Little Manistee, White, Ontonagon, Paint, Presque Isle, Sturgeon (Ottawa National Forest), Sturgeon (Hiawatha National Forest), Tahquamenon, and Whitefish.
+Pub. L. 102–249, §4(a), added unnumbered pars. relating to the Brule River in Michigan and Wisconsin, and the following rivers in Michigan: Carp, Little Manistee, White, Ontonagon, Paint, Presque Isle, Sturgeon (Ottawa National Forest), Sturgeon (Hiawatha National Forest), Tahquamenon, and Whitefish.
 
 Subsec. (b)(11). Pub. L. 102–460, §1(b), added par. (11) relating to study of segments of Delaware River in Pennsylvania and New Jersey.
 
 Pub. L. 102–249, §4(b), added par. (11) relating to study of segments of Brule, Carp, and other rivers in Michigan.
 
-1991—Subsec. (a). Pub. L. 102–214, §2, added unnumbered par. relating to Lamprey River, New Hampshire.
+<b>1991</b>—Subsec. (a). Pub. L. 102–214, §2, added unnumbered par. relating to Lamprey River, New Hampshire.
 
 Pub. L. 102–50 added unnumbered par. relating to Niobrara River, Nebraska.
 
@@ -574,7 +574,7 @@ Subsec. (b)(11). Pub. L. 102–215, §4, added par. (11) relating to study of Wh
 
 Pub. L. 102–214, §3, added par. (11) relating to study of Lamprey River, New Hampshire.
 
-1990—Subsec. (a). Pub. L. 101–628 added unnumbered par. relating to Sudbury, Assabet, and Concord rivers in Massachusetts.
+<b>1990</b>—Subsec. (a). Pub. L. 101–628 added unnumbered par. relating to Sudbury, Assabet, and Concord rivers in Massachusetts.
 
 Pub. L. 101–538 added unnumbered par. relating to Mills River, North Carolina.
 
@@ -590,15 +590,15 @@ Pub. L. 101–356, §3, added par. (8) relating to study of Merrimack River, New
 
 Subsec. (b)(9). Pub. L. 101–357, §3, added par. (9).
 
-1989—Subsec. (a)(96), (99). Pub. L. 101–40, §2(b)(1), redesignated par. (96), relating to Merced River, California, as par. (99).
+<b>1989</b>—Subsec. (a)(96), (99). Pub. L. 101–40, §2(b)(1), redesignated par. (96), relating to Merced River, California, as par. (99).
 
 Subsec. (a)(100) to (105). Pub. L. 101–40, §2(b)(2), designated unnumbered paragraphs relating to rivers in Oregon as pars. (100) to (105).
 
-1988—Subsec. (a). Pub. L. 100–557, §103, added unnumbered pars. relating to the following rivers in Oregon: Blue, Chewaucan, North Fork Malheur, South Fork McKenzie, Steamboat Creek, and Wallowa.
+<b>1988</b>—Subsec. (a). Pub. L. 100–557, §103, added unnumbered pars. relating to the following rivers in Oregon: Blue, Chewaucan, North Fork Malheur, South Fork McKenzie, Steamboat Creek, and Wallowa.
 
 Subsec. (d). Pub. L. 100–557, §104, designated existing provisions as par. (1) and added par. (2).
 
-1987—Subsec. (a)(94), (95). Pub. L. 100–149, §2(b), designated pars. relating to Klickitat and White Salmon as pars. (94) and (95), respectively.
+<b>1987</b>—Subsec. (a)(94), (95). Pub. L. 100–149, §2(b), designated pars. relating to Klickitat and White Salmon as pars. (94) and (95), respectively.
 
 Subsec. (a)(96). Pub. L. 100–149, §2(a), added par. (96) relating to Merced, California.
 
@@ -606,7 +606,7 @@ Pub. L. 100–33 added par. (96) relating to Maurice, New Jersey.
 
 Subsec. (a)(97), (98). Pub. L. 100–33 added pars. (97) and (98).
 
-1986—Subsec. (a)(90), (91). Pub. L. 99–590, §503(a), redesignated par. (90), relating to North Umpqua, Oregon, as par. (91).
+<b>1986</b>—Subsec. (a)(90), (91). Pub. L. 99–590, §503(a), redesignated par. (90), relating to North Umpqua, Oregon, as par. (91).
 
 Subsec. (a)(92), (93). Pub. L. 99–590, §§201(b), 301(a), added pars. (92) and (93).
 
@@ -622,7 +622,7 @@ Pub. L. 99–590, §301(c), inserted provisions authorizing an appropriation of 
 
 Subsec. (b)(7). Pub. L. 99–590, §202(c), added par. (7).
 
-1984—Subsec. (a)(89). Pub. L. 98–323 added par. (89).
+<b>1984</b>—Subsec. (a)(89). Pub. L. 98–323 added par. (89).
 
 Subsec. (a)(90). Pub. L. 98–494 added par. (90) appearing second relating to North Umpqua, Oregon.
 
@@ -634,7 +634,7 @@ Subsec. (b)(4). Pub. L. 98–484, §5(c), authorized appropriations for conducti
 
 Subsec. (b)(5), (6). Pub. L. 98–484, §5(c), redesignated pars. (4) and (5) added by Pub. L. 96–487, §604(b), as pars. (5) and (6), respectively.
 
-1980—Subsec. (a)(76). Pub. L. 96–199, §102(a), added par. (76).
+<b>1980</b>—Subsec. (a)(76). Pub. L. 96–199, §102(a), added par. (76).
 
 Subsec. (a)(77) to (88). Pub. L. 96–487, §604(a), added pars. (77) to (88).
 
@@ -642,25 +642,25 @@ Subsec. (b)(3), (4). Pub. L. 96–199, §102(b), substituted “(76)” for “(
 
 Subsec. (b)(4), (5). Pub. L. 96–487, §604(b), added second par. (4) and par. (5). See 1984 Amendment note above.
 
-1979—Subsec. (b)(3). Pub. L. 96–87, §404(a), substituted “paragraphs (59) through (75)” for “paragraphs (59) through (72)”.
+<b>1979</b>—Subsec. (b)(3). Pub. L. 96–87, §404(a), substituted “paragraphs (59) through (75)” for “paragraphs (59) through (72)”.
 
 Subsec. (b)(4). Pub. L. 96–87, §404(b), substituted “subparagraphs (59) through (75)” for “subparagraphs (59) through (74)”.
 
-1978—Subsec. (a)(59) to (75). Pub. L. 95–625, §§721–734, 1108, added pars. (59) to (75).
+<b>1978</b>—Subsec. (a)(59) to (75). Pub. L. 95–625, §§721–734, 1108, added pars. (59) to (75).
 
-Subsec. (b)(3), (4). Pub. L. 95–625, §§735, 736, added par. (3), redesignated former par. (3) as (4), and increased appropriations authorization for certain studies to $4,060,000 from $2,175,000 and authorized necessary appropriations for certain other river studies.
+Subsec. (b)(3), (4). Pub. L. 95–625, §§735, 736, added par. (3), redesignated former par. (3) as (4), and increased appropriations authorization for certain studies to$4,060,000 from $2,175,000 and authorized necessary appropriations for certain other river studies.
 
-1976—Subsec. (a)(47). Pub. L. 94–486, §701, struck out “including the tributaries and headwaters on national forest lands” after “Colorado Highway 160”.
+<b>1976</b>—Subsec. (a)(47). Pub. L. 94–486, §701, struck out “including the tributaries and headwaters on national forest lands” after “Colorado Highway 160”.
 
 Subsec. (a)(58). Pub. L. 94–486, §401, added par. (58).
 
-1975—Subsec. (a)(28) to (56). Pub. L. 93–621, §1(a), added pars. (28) to (56).
+<b>1975</b>—Subsec. (a)(28) to (56). Pub. L. 93–621, §1(a), added pars. (28) to (56).
 
 Subsec. (a)(57). Pub. L. 94–199 added par. (57).
 
 Subsecs. (b) to (d). Pub. L. 93–621, §1(b), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-1974—Subsecs. (b) to (d). Pub. L. 93–279 redesignated subsecs. (c) and (d) as (b) and (c), respectively. Former subsec. (b), relating to the study of rivers named in subsec. (a) of this section for inclusion in the national wild and scenic river system and submission of reports to the President and the Congress, was incorporated in section 1275(a) of this title.
+<b>1974</b>—Subsecs. (b) to (d). Pub. L. 93–279 redesignated subsecs. (c) and (d) as (b) and (c), respectively. Former subsec. (b), relating to the study of rivers named in subsec. (a) of this section for inclusion in the national wild and scenic river system and submission of reports to the President and the Congress, was incorporated in section 1275(a) of this title.
 
 #### Change of Name
 

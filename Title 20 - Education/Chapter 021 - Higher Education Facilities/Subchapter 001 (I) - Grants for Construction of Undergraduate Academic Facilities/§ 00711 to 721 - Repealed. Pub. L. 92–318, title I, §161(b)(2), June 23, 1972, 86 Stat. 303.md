@@ -10,7 +10,7 @@ Section 714, Pub. L. 88–204, title I, §104, Dec. 16, 1963, 77 Stat. 366; Pub.
 
 Section 715, Pub. L. 88–204, title I, §105, Dec. 16, 1963, 77 Stat. 367; Pub. L. 89–329, title VII, §702(a)(3), (4), (b)(3), (c)(1), Nov. 8, 1965, 79 Stat. 1267, 1268; Pub. L. 89–752, §3(a), Nov. 3, 1966, 80 Stat. 1241; Pub. L. 90–575, title IV, §401(a)(3), Oct. 16, 1968, 82 Stat. 1059, provided for State commissions and plans and authorized expenditures.
 
-Section 716, Pub. L. 88–204, title I, §106, Dec. 16, 1963, 77 Stat. 368; Pub. L. 89–329, title VII, §701(a), Nov. 8, 1965, 79 Stat. 1266; Pub. L. 90–575, title IV, §402(a)(1), (b)(1), Oct. 16, 1968, 82 Stat. 1059, 1060, related to eligibility of institutions for grants and expansion of student enrollment capacity.
+Section 716, Pub. L. 88–204, title I, §106, Dec. 16, 1963, 77 Stat. 368; Pub. L. 89–329, title VII, §701(a), Nov. 8, 1965, 79 Stat. 1266; Pub. L. 90–575, title IV, §402(a)(1),\(b)(1), Oct. 16, 1968, 82 Stat. 1059, 1060, related to eligibility of institutions for grants and expansion of student enrollment capacity.
 
 Section 717, Pub. L. 88–204, title I, §107, Dec. 16, 1963, 77 Stat. 368; Pub. L. 89–329, title VII, §702(c)(2), Nov. 8, 1965, 79 Stat. 1268; Pub. L. 90–575, title IV, §§402(a)(2), 405(a), Oct. 16, 1968, 82 Stat. 1059, 1061, provided basic criteria for determining priorities and Federal share.
 

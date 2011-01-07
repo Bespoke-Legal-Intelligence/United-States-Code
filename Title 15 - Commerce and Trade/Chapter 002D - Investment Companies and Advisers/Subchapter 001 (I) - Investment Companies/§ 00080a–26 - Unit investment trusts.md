@@ -56,19 +56,19 @@ Whenever the Commission has reason to believe that a unit investment trust is in
 
 &emsp;The Commission may issue such rules and regulations to carry out paragraph (2)(A) as it determines are necessary or appropriate in the public interest or for the protection of investors.
 
-(Aug. 22, 1940, ch. 686, title I, §26, 54 Stat. 827; Pub. L. 91–547, §15, Dec. 14, 1970, 84 Stat. 1424; Pub. L. 100–181, title VI, §§618, 619, Dec. 4, 1987, 101 Stat. 1262; Pub. L. 104–290, title II, §205(a), Oct. 11, 1996, 110 Stat. 3429; Pub. L. 106–102, title II, §211(b), Nov. 12, 1999, 113 Stat. 1396.)
+(Aug. 22, 1940, ch. 686, title I, §26, 54 Stat. 827; Pub. L. 91–547, §15, Dec. 14, 1970, 84 Stat. 1424;Pub. L. 100–181, title VI, §§618, 619, Dec. 4, 1987, 101 Stat. 1262; Pub. L. 104–290, title II, §205(a), Oct. 11, 1996, 110 Stat. 3429; Pub. L. 106–102, title II, §211(b), Nov. 12, 1999, 113 Stat. 1396.)
 
 #### Amendments
 
-1999—Subsecs. (b) to (f). Pub. L. 106–102 added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
+<b>1999</b>—Subsecs. (b) to (f). Pub. L. 106–102 added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
 
-1996—Subsec. (e). Pub. L. 104–290 added subsec. (e).
+<b>1996</b>—Subsec. (e). Pub. L. 104–290 added subsec. (e).
 
-1987—Subsec. (b). Pub. L. 100–181, §618, substituted “intended” for “intend”.
+<b>1987</b>—Subsec. (b). Pub. L. 100–181, §618, substituted “intended” for “intend”.
 
 Subsec. (c). Pub. L. 100–181, §619, substituted “contract or agreement” for “contract of agreement”.
 
-1970—Subsecs. (b) to (d). Pub. L. 91–547 added subsec. (b), redesignated former subsec. (b) as (c), struck out “at the effective date of this subchapter” before “comply”, substituted “contract of agreement” for “contract or agreement”, and redesignated former subsec. (c) as (d).
+<b>1970</b>—Subsecs. (b) to (d). Pub. L. 91–547 added subsec. (b), redesignated former subsec. (b) as (c), struck out “at the effective date of this subchapter” before “comply”, substituted “contract of agreement” for “contract or agreement”, and redesignated former subsec. (c) as (d).
 
 #### Effective Date of 1999 Amendment
 

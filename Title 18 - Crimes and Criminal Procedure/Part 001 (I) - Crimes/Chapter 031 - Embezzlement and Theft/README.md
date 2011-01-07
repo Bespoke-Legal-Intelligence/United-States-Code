@@ -41,21 +41,21 @@
 
 #### Amendments
 
-1996—Pub. L. 104–294, title VI, §601(f)(7), Oct. 11, 1996, 110 Stat. 3500, inserted comma after “embezzlement” in item 656.
+<b>1996</b>—Pub. L. 104–294, title VI, §601(f)(7), Oct. 11, 1996, 110 Stat. 3500, inserted comma after “embezzlement” in item 656.
 
 Pub. L. 104–191, title II, §243(b), Aug. 21, 1996, 110 Stat. 2017, added item 669.
 
-1994—Pub. L. 103–322, title XXXII, §320902(d)(1), Sept. 13, 1994, 108 Stat. 2124, added item 668.
+<b>1994</b>—Pub. L. 103–322, title XXXII, §320902(d)(1), Sept. 13, 1994, 108 Stat. 2124, added item 668.
 
-1984—Pub. L. 98–473, title II, §§1104(b), 1112, Oct. 12, 1984, 98 Stat. 2144, 2149, added items 666 and 667.
+<b>1984</b>—Pub. L. 98–473, title II, §§1104(b), 1112, Oct. 12, 1984, 98 Stat. 2144, 2149, added items 666 and 667.
 
-1978—Pub. L. 95–524, §3(b), Oct. 27, 1978, 92 Stat. 2018, substituted “employment and training funds” for “manpower funds” and inserted “; obstruction of investigations” after “improper inducement” in item 665.
+<b>1978</b>—Pub. L. 95–524, §3(b), Oct. 27, 1978, 92 Stat. 2018, substituted “employment and training funds” for “manpower funds” and inserted “; obstruction of investigations” after “improper inducement” in item 665.
 
-1973—Pub. L. 93–203, title VII, §711(b), formerly title VI, §611(b), Dec. 28, 1973, 87 Stat. 882, renumbered Pub. L. 93–567, title I, §101, Dec. 31, 1974, 88 Stat. 1845, added item 665.
+<b>1973</b>—Pub. L. 93–203, title VII, §711(b), formerly title VI, §611(b), Dec. 28, 1973, 87 Stat. 882, renumbered Pub. L. 93–567, title I, §101, Dec. 31, 1974, 88 Stat. 1845, added item 665.
 
-1966—Pub. L. 89–654, §1(e), Oct. 14, 1966, 80 Stat. 904, substituted “shipments by carrier” for “baggage, express or freight” in item 659.
+<b>1966</b>—Pub. L. 89–654, §1(e), Oct. 14, 1966, 80 Stat. 904, substituted “shipments by carrier” for “baggage, express or freight” in item 659.
 
-1962—Pub. L. 87–420, §17(b), Mar. 20, 1962, 76 Stat. 42, added item 664.
+<b>1962</b>—Pub. L. 87–420, §17(b), Mar. 20, 1962, 76 Stat. 42, added item 664.
 
 #### Saint Lawrence Seaway Development Corporation
 

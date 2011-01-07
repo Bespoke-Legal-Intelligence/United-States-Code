@@ -12,13 +12,13 @@ Availability of Basic Allowance for Housing.—A member of the armed forces who 
 
 Lease Payments Through Pay Allotments.—The Secretary concerned may require members of the armed forces who lease housing in housing units acquired or constructed under this subchapter to make lease payments for such housing pursuant to allotments of the pay of such members under section 701 of title 37.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 548; amended Pub. L. 105–85, div. A, title VI, §603(d)(2)(C), Nov. 18, 1997, 111 Stat. 1783; Pub. L. 110–417, div. B, title XXVIII, §2805(e)(1), Oct. 14, 2008, 122 Stat. 4723.)
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 548; amendedPub. L. 105–85, div. A, title VI, §603(d)(2)(C), Nov. 18, 1997, 111 Stat. 1783; Pub. L. 110–417, div. B, title XXVIII, §2805(e)(1), Oct. 14, 2008, 122 Stat. 4723.)
 
 #### Amendments
 
-2008—Pub. L. 110–417 amended section generally. Prior to amendment, section related to assignment of members of the armed forces to housing units by the Secretary concerned, treatment of such housing as quarters of the United States, entitlement to a basic allowance for housing, and making of lease payments through pay allotments.
+<b>2008</b>—Pub. L. 110–417 amended section generally. Prior to amendment, section related to assignment of members of the armed forces to housing units by the Secretary concerned, treatment of such housing as quarters of the United States, entitlement to a basic allowance for housing, and making of lease payments through pay allotments.
 
-1997—Subsec. (b)(1). Pub. L. 105–85, §603(d)(2)(C)(i), substituted “section 403” for “section 403(b)”.
+<b>1997</b>—Subsec. (b)(1). Pub. L. 105–85, §603(d)(2)(C)(i), substituted “section 403” for “section 403(b)”.
 
 Subsec. (b)(2). Pub. L. 105–85, §603(d)(2)(C)(ii), substituted “basic allowance for housing under section 403 of title 37” for “basic allowance for quarters under section 403 of title 37 and, if in a high housing cost area, a variable housing allowance under section 403a of that title”.
 

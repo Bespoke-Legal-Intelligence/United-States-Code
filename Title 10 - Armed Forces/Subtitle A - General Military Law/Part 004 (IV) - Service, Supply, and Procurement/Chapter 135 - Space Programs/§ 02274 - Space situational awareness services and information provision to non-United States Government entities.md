@@ -76,11 +76,11 @@ Section 2279, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to restriction
 
 #### Amendments
 
-2009—Pub. L. 111–84 amended section generally. Prior to amendment, section related to space surveillance network: pilot program for provision of satellite tracking support to entities outside United States Government.
+<b>2009</b>—Pub. L. 111–84 amended section generally. Prior to amendment, section related to space surveillance network: pilot program for provision of satellite tracking support to entities outside United States Government.
 
-2008—Subsec. (i). Pub. L. 110–417 substituted “September 30, 2010” for “September 30, 2009”.
+<b>2008</b>—Subsec. (i). Pub. L. 110–417 substituted “September 30, 2010” for “September 30, 2009”.
 
-2006—Subsec. (i). Pub. L. 109–364 substituted “may be conducted through September 30, 2009” for “shall be conducted during the three-year period beginning on a date specified by the Secretary of Defense, which date shall be not later than 180 days after the date of the enactment of this section”.
+<b>2006</b>—Subsec. (i). Pub. L. 109–364 substituted “may be conducted through September 30, 2009” for “shall be conducted during the three-year period beginning on a date specified by the Secretary of Defense, which date shall be not later than 180 days after the date of the enactment of this section”.
 
 #### Effective Date of 2009 Amendment
 

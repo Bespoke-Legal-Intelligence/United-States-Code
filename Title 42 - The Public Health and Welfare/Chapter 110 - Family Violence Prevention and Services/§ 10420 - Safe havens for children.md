@@ -100,7 +100,7 @@ Section 306(1) of Pub. L. 109–162, which directed in part that section 1301 of
 
 #### Amendments
 
-2006—Pub. L. 109–162, §306(1), substituted “Safe havens for children” for “Safe havens for children pilot program” in section catchline. See Codification note above.
+<b>2006</b>—Pub. L. 109–162, §306(1), substituted “Safe havens for children” for “Safe havens for children pilot program” in section catchline. See Codification note above.
 
 Subsec. (a). Pub. L. 109–162, §306(2)(C)–(E), inserted par. (1) designation before “to provide”, substituted semicolon for period at end, and added pars. (2) to (4).
 
@@ -112,7 +112,7 @@ Pub. L. 109–162, §3(b)(2), substituted “Not later than 1 month after the en
 
 Subsec. (e). Pub. L. 109–162, §306(3), added subsec. (e) and struck out former subsec. (e). Text read as follows: “There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2001 and 2002.”
 
-Subsec. (e)(2). Pub. L. 109–271, §7(d)(2)(A), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “set aside not less than 7 percent for grants to Indian tribal governments or tribal organizations;”.
+Subsec. (e)(2). Pub. L. 109–271, §7(d)(2)(A), redesignated subpars. (B) and (C) as (A) and (B), respectively,and struck out former subpar. (A) which read as follows: “set aside not less than 7 percent for grants to Indian tribal governments or tribal organizations;”.
 
 Subsec. (f). Pub. L. 109–271, §7(d)(2)(B), added subsec. (f) and struck out former subsec. (f) which read as follows: “Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized in section 3796gg–10 of this title. The requirements of this subsection shall not apply to funds allocated for such program.”
 

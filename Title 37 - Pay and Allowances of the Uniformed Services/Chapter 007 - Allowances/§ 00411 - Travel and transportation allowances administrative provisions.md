@@ -48,11 +48,11 @@ In subsections (c) and (d), the words “for the purposes of the sections of thi
 
 #### Amendments
 
-1991—Subsecs. (b) to (d). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
+<b>1991</b>—Subsecs. (b) to (d). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 
-1981—Subsec. (a). Pub. L. 97–60 inserted reference to section 404a.
+<b>1981</b>—Subsec. (a). Pub. L. 97–60 inserted reference to section 404a.
 
-1980—Subsec. (b)(1). Pub. L. 96–343, §5(b)(1), substituted “common carrier transportation” for “first-class transportation, including sleeping accommodations,”.
+<b>1980</b>—Subsec. (b)(1). Pub. L. 96–343, §5(b)(1), substituted “common carrier transportation” for “first-class transportation, including sleeping accommodations,”.
 
 Subsec. (b)(2). Pub. L. 96–343, §5(b)(2), inserted “and designating areas as high cost areas” after “rates”.
 
@@ -60,7 +60,7 @@ Subsec. (b)(3). Pub. L. 96–343, §5(b)(3), substituted “transportation” fo
 
 Subsec. (d). Pub. L. 96–513 substituted “term” for “words”.
 
-1965—Subsec. (a). Pub. L. 89–26 inserted reference to section 405a.
+<b>1965</b>—Subsec. (a). Pub. L. 89–26 inserted reference to section 405a.
 
 #### Effective Date of 1981 Amendment
 

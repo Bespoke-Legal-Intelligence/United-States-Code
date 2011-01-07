@@ -20,7 +20,7 @@ Another section 501 of title V of Pub. L. 93–415, as added by Pub. L. 102–58
 
 #### Amendments
 
-1994—Pub. L. 103–322 inserted before period at end “or a violation by such a person of section 922(x)”.
+<b>1994</b>—Pub. L. 103–322 inserted before period at end “or a violation by such a person of section 922(x)”.
 
-1974—Pub. L. 93–415 amended section generally, inserting “or for the purpose of proceedings and disposition under this chapter for an alleged act of juvenile delinquency, a person who has not attained his twenty-first birthday” after “eighteenth birthday,” and substituting “committed by a person prior to his eighteenth birthday which would have been a crime if committed by an adult”, for “committed by a juvenile and not punishable by death or life imprisonment.”
+<b>1974</b>—Pub. L. 93–415 amended section generally, inserting “or for the purpose of proceedings and disposition under this chapter for an alleged act of juvenile delinquency, a person who has not attained his twenty-first birthday” after “eighteenth birthday,” and substituting “committed by a person prior to his eighteenth birthday which would have been a crime if committed by an adult”, for “committed by a juvenile and not punishable by death or life imprisonment.”
 

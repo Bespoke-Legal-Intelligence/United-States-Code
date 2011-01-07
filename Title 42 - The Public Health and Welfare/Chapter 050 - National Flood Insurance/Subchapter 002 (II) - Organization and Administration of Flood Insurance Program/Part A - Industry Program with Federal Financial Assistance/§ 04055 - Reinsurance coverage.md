@@ -10,7 +10,7 @@ Such reinsurance shall be made available pursuant to contract, agreement, or any
 
 #### (c) Excess loss agreement; negotiation
 
-The Director is authorized to negotiate an excess loss agreement, from time to time, under which the amount of flood insurance retained bythe pool, after ceding reinsurance, shall be adequate to further the purposes of this chapter, consistent with the objective of maintaining appropriate financial participation and risk sharing to the maximum extent practicable on the part of participating insurance companies and other insurers.
+The Director is authorized to negotiate an excess loss agreement, from time to time, under which the amount of flood insurance retained by the pool, after ceding reinsurance, shall be adequate to further the purposes of this chapter, consistent with the objective of maintaining appropriate financial participation and risk sharing to the maximum extent practicable on the part of participating insurance companies and other insurers.
 
 #### (d) Submission of excess losses on portfolio basis
 
@@ -24,7 +24,7 @@ This chapter, referred to in subsec. (c), was in the original a reference to “
 
 #### Amendments
 
-1983—Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+<b>1983</b>—Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
 
 #### Transfer of Functions
 

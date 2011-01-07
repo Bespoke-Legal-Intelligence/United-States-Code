@@ -10,7 +10,7 @@
 
 (b) No correction may be made under subsection (a)(1) unless the claimant or his heir or legal representative files a request for the correction within three years after he discovers the error or injustice. However, a board established under subsection (a)(1) may excuse a failure to file within three years after discovery if it finds it to be in the interest of justice.
 
-(c)(1) The Secretary concerned may pay, from applicable current appropriations, a claim for the loss of pay, allowances, compensation, emoluments, or other pecuniary benefits, or for the repayment of a fine or forfeiture, if, as a result of correcting a record under this section, the amount is found to be due the claimant onaccount of his or another's service in the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be, or on account of his or another's service as a civilian employee.
+(c)(1) The Secretary concerned may pay, from applicable current appropriations, a claim for the loss of pay, allowances, compensation, emoluments, or other pecuniary benefits, or for the repayment of a fine or forfeiture, if, as a result of correcting a record under this section, the amount is found to be due the claimant on account of his or another's service in the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be, or on account of his or another's service as a civilian employee.
 
 (2) If the claimant is dead, the money shall be paid, upon demand, to his legal representative. However, if no demand for payment is made by a legal representative, the money shall be paid—
 
@@ -98,7 +98,7 @@ In subsection (a), the words “and approved by the Secretary of Defense” are 
 
 In subsection (b), the words “before October 26, 1961” are substituted for the words “or within ten years after the date of enactment of this section”, in 5:191a and 275. The last sentence of the revised subsection is substituted for 5:191a(a) (last proviso) and 275(a) (last proviso).
 
-In subsection (c), the words “if, as a result of correcting a record under this section the amount is found to be due the claimant on account of his or another's service in the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be” are substituted for the words “which are found to be due on account of military or naval service as a result of the action hereafter taken pursuant to subsection (a) of this section”, in 5:191a and 275. The words “heretofore taken pursuant to this section”, in 5:191a and 275, are omitted as executed. The words “of any persons, their heirs at law or legal representative as hereinafter provided”, “(including retired or retirement pay)”, “as the case may be”, “duly appointed”, “otherwise due hereunder”, “decedent's”, “precedence or succession”, and “of precedence”, in 5:191a and 275, are omitted as surplusage. The last sentence is substituted for 5:191a(c) and 275(c).
+In subsection (c), the words “if, as a result of correcting a record under this section \* \* \* the amount is found to be due the claimant on account of his or another's service in the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be” are substituted for the words “which are found to be due on account of military or naval service as a result of the action \* \* \* hereafter taken pursuant to subsection (a) of this section”, in 5:191a and 275. The words “heretofore taken pursuant to this section”, in 5:191a and 275, are omitted as executed. The words “of any persons, their heirs at law or legal representative as hereinafter provided”, “(including retired or retirement pay)”, “as the case may be”, “duly appointed”, “otherwise due hereunder”, “decedent's”, “precedence or succession”, and “of precedence”, in 5:191a and 275, are omitted as surplusage. The last sentence is substituted for 5:191a(c) and 275(c).
 
 In subsection (d), the word “but” is substituted for the words “That, continuing payments are authorized to be made to such personnel”, in 5:191a and 275. The words “if he is not reenlisted in, or appointed or reappointed to, the grade to which those payments relate” are substituted for the words “without the necessity for reenlistment, appointment, or reappointment to the grade, rank, or office to which such pay (including retired or retirement pay), allowances, compensation, emoluments, and other monetary benefits are attached”, in 5:191a and 275. The words “or one year following the date of enactment of this section”, in 5:191a and 275, are omitted as executed. The words “for payment of such sums as may be due for”, in 5:191a and 275, are omitted as surplusage. The words “(including retired or retirement pay)”, in 5:191a and 275, are omitted as covered by the definition of “pay” in section 101(27) of this title.
 
@@ -110,31 +110,31 @@ The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), refe
 
 #### Amendments
 
-2008—Subsec. (c). Pub. L. 110–417 designated existing provisions as pars. (1) to (3), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (2), and added par. (4).
+<b>2008</b>—Subsec. (c). Pub. L. 110–417 designated existing provisions as pars. (1) to (3), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (2), and added par. (4).
 
-2002—Subsec. (a)(1). Pub. L. 107–296 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–296 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
-1998—Subsec. (c). Pub. L. 105–261, §545(a), inserted “, or on account of his or another's service as a civilian employee” before period at end of first sentence.
+<b>1998</b>—Subsec. (c). Pub. L. 105–261, §545(a), inserted “, or on account of his or another's service as a civilian employee” before period at end of first sentence.
 
 Subsec. (g). Pub. L. 105–261, §545(b), added subsec. (g).
 
-1992—Subsec. (a)(2). Pub. L. 102–484 substituted “announcing the promotion and appointment of an enlisted member to an initial or higher grade or the decision not to promote an enlisted member to a higher grade” for “announcing a decision not to promote an enlisted member to a higher grade”.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–484 substituted “announcing the promotion and appointment of an enlisted member to an initial or higher grade or the decision not to promote an enlisted member to a higher grade” for “announcing a decision not to promote an enlisted member to a higher grade”.
 
-1989—Subsec. (a). Pub. L. 101–189, §514(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of a military department, under procedures established by him and approved by the Secretary of Defense, and acting through boards of civilians of the executive part of that military department, may correct any military record of that department when he considers it necessary to correct an error or remove an injustice. Under procedures prescribed by him, the Secretary of Transportation may in the same manner correct any military record of the Coast Guard. Except when procured by fraud, a correction under this section is final and conclusive on all officers of the United States.”
+<b>1989</b>—Subsec. (a). Pub. L. 101–189, §514(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of a military department, under procedures established by him and approved by the Secretary of Defense, and acting through boards of civilians of the executive part of that military department, may correct any military record of that department when he considers it necessary to correct an error or remove an injustice. Under procedures prescribed by him, the Secretary of Transportation may in the same manner correct any military record of the Coast Guard. Except when procured by fraud, a correction under this section is final and conclusive on all officers of the United States.”
 
 Subsec. (b). Pub. L. 101–189, §514(b), substituted “subsection (a)(1)” for “subsection (a)” in two places.
 
 Subsec. (e). Pub. L. 101–189, §1621(a)(2), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
-1988—Subsec. (b). Pub. L. 100–456, §1233(a)(1), substituted “for the correction within three years after he discovers the error or injustice” for “therefor before October 26, 1961, or within three years after he discovers the error or injustice, whichever is later”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–456, §1233(a)(1), substituted “for the correction within three years after he discovers the error or injustice” for “therefor before October 26, 1961, or within three years after he discovers the error or injustice, whichever is later”.
 
 Subsec. (c). Pub. L. 100–456, §1233(a)(2), substituted “The Secretary concerned” for “The department concerned”.
 
-1983—Subsec. (f). Pub. L. 98–209 added subsec. (f).
+<b>1983</b>—Subsec. (f). Pub. L. 98–209 added subsec. (f).
 
-1980—Subsec. (a). Pub. L. 96–513 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 
-1960—Subsec. (f). Pub. L. 86–533 repealed subsec. (f) which required reports to the Congress every six months with respect to claims paid under this section.
+<b>1960</b>—Subsec. (f). Pub. L. 86–533 repealed subsec. (f) which required reports to the Congress every six months with respect to claims paid under this section.
 
 #### Effective Date of 2008 Amendment
 

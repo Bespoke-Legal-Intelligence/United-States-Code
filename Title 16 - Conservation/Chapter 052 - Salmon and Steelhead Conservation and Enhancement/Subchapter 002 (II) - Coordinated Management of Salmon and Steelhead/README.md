@@ -1,7 +1,5 @@
 ### SUBCHAPTER II—COORDINATED MANAGEMENT OF SALMON AND STEELHEAD
 
-<i><sup>1</sup></i><i> So in original. Probably should be “described”.</i>
-
 
 ---
 

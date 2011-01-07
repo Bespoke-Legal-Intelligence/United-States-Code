@@ -26,7 +26,7 @@ Funding.—(1) From amounts appropriated to the Department for “Medical Servic
 
 #### Amendments
 
-2006—Subsec. (c)(1). Pub. L. 109–461 substituted “Medical Services” for “Medical Care” and “fiscal years 2007 through 2011” for “fiscal years 2003, 2004, and 2005”.
+<b>2006</b>—Subsec. (c)(1). Pub. L. 109–461 substituted “Medical Services” for “Medical Care” and “fiscal years 2007 through 2011” for “fiscal years 2003, 2004, and 2005”.
 
 #### Study of Outcome Effectiveness of Grant Program for Homeless Veterans With Special Needs
 

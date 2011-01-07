@@ -10,7 +10,7 @@
 
 &emsp;(4) Former enlisted members of the armed forces who were discharged honorably or under honorable conditions.
 
-&emsp;(5) Graduates of the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, or the United States Coast Guard Academy.
+&emsp;(5) Graduates of the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, the United States Coast Guard Academy, or the United States Merchant Marine Academy.
 
 &emsp;(6) Graduates of a school, college, university, or officer's training camp who received military instruction under the supervision of a commissioned officer of the Regular Army or the Regular Air Force, and whose fitness for appointment has been certified by that officer.
 
@@ -18,7 +18,7 @@
 
 (b) To be eligible for Federal recognition under this section with a view to serving as a nurse, a person must be a graduate of a hospital or university training school and a registered nurse.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 602; Pub. L. 85–861, §2(5), Sept. 2, 1958, 72 Stat. 1543; Pub. L. 90–130, §2(1), Nov. 8, 1967, 81 Stat. 383; Pub. L. 108–375, div. A, title V, §505, Oct. 28, 2004, 118 Stat. 1875.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 602; Pub. L. 85–861, §2(5), Sept. 2, 1958, 72 Stat. 1543; Pub. L. 90–130, §2(1), Nov. 8, 1967, 81 Stat. 383; Pub. L. 108–375, div. A, title V, §505, Oct. 28, 2004, 118 Stat. 1875; Pub. L. 111–383, div. A, title V, §517, Jan. 7, 2011, 124 Stat. 4214.)
 
 Historical and Revision Notes<br>1956
 
@@ -36,7 +36,7 @@ Act
 
 June 3, 1916, ch. 134, §74 (less 39th through 56th words); restated June 4, 1920, ch. 227, subch. I, §41 (less 39th through 56th words), 41 Stat. 781.
 
-The word “individual” is inserted for clarity to distinguish the individual Federal recognition that is necessary to membership as an officer from the general Federal recognition that is necessary to all membership in the National Guard (see section 301 of this title).
+The word “individual” is inserted for clarity to distinguish the individual Federal recognition that is necessary to membership as an officer from the generalFederal recognition that is necessary to all membership in the National Guard (see section 301 of this title).
 
 The words “June 4, 1920” are omitted as obsolete. The words “Only persons selected from the following categories are eligible for individual Federal recognition as commissioned officers” are substituted for the words “Persons commissioned \* \* \* shall not be recognized as such under any of the provisions of this title unless they shall have been selected from the following classes”.
 
@@ -68,15 +68,17 @@ The words “who are citizens of the United States” are omitted as covered by 
 
 #### Amendments
 
-2004—Subsec. (a)(2) to (4). Pub. L. 108–375, §505(1), substituted “armed forces” for “Army, Navy, Air Force, or Marine Corps”.
+<b>2011</b>—Subsec. (a)(5). Pub. L. 111–383 substituted “the United States Coast Guard Academy, or the United States Merchant Marine Academy” for “or the United States Coast Guard Academy”.
+
+<b>2004</b>—Subsec. (a)(2) to (4). Pub. L. 108–375, §505(1), substituted “armed forces” for “Army, Navy, Air Force, or Marine Corps”.
 
 Subsec. (a)(5). Pub. L. 108–375, §505(2), substituted “the United States Air Force Academy, or the United States Coast Guard Academy” for “or the United States Air Force Academy”.
 
-1967—Subsec. (a). Pub. L. 90–130, §2(1)(A), struck out provision that, except as provided in subsec. (b), only male persons from the enumerated categories were eligible for Federal recognition as commissioned officers of the National Guard.
+<b>1967</b>—Subsec. (a). Pub. L. 90–130, §2(1)(A), struck out provision that, except as provided in subsec. (b), only male persons from the enumerated categories were eligible for Federal recognition as commissioned officers of the National Guard.
 
 Subsec. (b). Pub. L. 90–130, §2(1)(B), (C), struck out provision that women are eligible for Federal recognition as commissioned officers of the National Guard, with a view to serving as nurses or medical specialist, and substituted “person” for “woman” in description of the individual who must be a graduate of a hospital or university training school and a registered nurse in order to be eligible for Federal recognition under this section with a view to serving as a nurse.
 
-1958—Subsec. (a). Pub. L. 85–861, §2(5)(A), designated existing provisions as subsec. (a) and substituted “Except as provided in subsection (b), only male persons” for “Only persons”.
+<b>1958</b>—Subsec. (a). Pub. L. 85–861, §2(5)(A), designated existing provisions as subsec. (a) and substituted “Except as provided in subsection (b), only male persons” for “Only persons”.
 
 Subsec. (b). Pub. L. 85–861, §2(5)(B), added subsec. (b).
 

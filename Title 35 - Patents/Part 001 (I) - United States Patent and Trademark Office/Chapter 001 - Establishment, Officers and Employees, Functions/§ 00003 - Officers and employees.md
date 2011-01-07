@@ -46,7 +46,7 @@ Appointment and duties.—The Secretary of Commerce shall appoint a Commissioner
 
 &emsp;&emsp;(B)
 
-Salary and performance agreement.—The Commissioners shall be paid an annual rate of basic pay not to exceed the maximum rate of basic pay for the Senior Executive Service established under section 5382 of title 5, including any applicable locality-based comparability payment that may be authorized under section 5304(h)(2)(C) of title 5. The compensation of the Commissioners shall be considered, for purposes of section 207(c)(2)(A) of title 18, to be the equivalent of that described under clause (ii) of section 207(c)(2)(A) of title 18. In addition, the Commissioners may receive a bonus in an amount of up to, but not in excess of, 50 percent of the Commissioners’ annual rate of basic pay, based upon an evaluation by the Secretary of Commerce, acting through the Director, of the Commissioners’ performance as defined in an annual performance agreement between the Commissioners and theSecretary. The annual performance agreements shall incorporate measurable organization and individual goals in key operational areas as delineated in an annual performance plan agreed to by the Commissioners and the Secretary. Payment of a bonus under this subparagraph may be made to the Commissioners only to the extent that such payment does not cause the Commissioners’ total aggregate compensation in a calendar year to equal or exceed the amount of the salary of the Vice President under section 104 of title 3.
+Salary and performance agreement.—The Commissioners shall be paid an annual rate of basic pay not to exceed the maximum rate of basic pay for the Senior Executive Service established under section 5382 of title 5, including any applicable locality-based comparability payment that may be authorized under section 5304(h)(2)(C) of title 5. The compensation of the Commissioners shall be considered, for purposes of section 207(c)(2)(A) of title 18, to be the equivalent of that described under clause (ii) of section 207(c)(2)(A) of title 18. In addition,the Commissioners may receive a bonus in an amount of up to, but not in excess of, 50 percent of the Commissioners’ annual rate of basic pay, based upon an evaluation by the Secretary of Commerce, acting through the Director, of the Commissioners’ performance as defined in an annual performance agreement between the Commissioners and the Secretary. The annual performance agreements shall incorporate measurable organization and individual goals in key operational areas as delineated in an annual performance plan agreed to by the Commissioners and the Secretary. Payment of a bonus under this subparagraph may be made to the Commissioners only to the extent that such payment does not cause the Commissioners’ total aggregate compensation in a calendar year to equal or exceed the amount of the salary of the Vice President under section 104 of title 3.
 
 &emsp;&emsp;(C)
 
@@ -112,7 +112,7 @@ Continuation in office of certain officers.—(A) The individual serving as the 
 
 &emsp;(B) The individual serving as the Assistant Commissioner for Trademarks on the day before the effective date of the Patent and Trademark Office Efficiency Act may serve as the Commissioner for Trademarks until the date on which a Commissioner for Trademarks is appointed under subsection (b).
 
-(July 19, 1952, ch. 950, 66 Stat. 792; Pub. L. 85–933, §1, Sept. 6, 1958, 72 Stat. 1793; Pub. L. 86–370, §1(a), Sept. 23, 1959, 73 Stat. 650; Pub. L. 88–426, title III, §305(26), Aug. 14, 1964, 78 Stat. 425; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–601, §1, Jan. 2, 1975, 88 Stat. 1956; Pub. L. 97–247, §4, Aug. 27, 1982, 96 Stat. 319; Pub. L. 97–366, §4, Oct. 25, 1982, 96 Stat. 1760; Pub. L. 98–622, title IV, §405, Nov. 8, 1984, 98 Stat. 3392; Pub. L. 105–304, title IV, §401(a)(1), Oct. 28, 1998, 112 Stat. 2887; Pub. L. 106–44, §2(c), Aug. 5, 1999, 113 Stat. 223; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4713\], Nov. 29, 1999, 113 Stat. 1536, 1501A–575; Pub. L. 107–273, div. C, title III, §13206(a)(2), Nov. 2, 2002, 116 Stat. 1904.)
+(July 19, 1952, ch. 950, 66 Stat. 792; Pub. L. 85–933, §1, Sept. 6, 1958, 72 Stat. 1793; Pub. L. 86–370, §1(a), Sept. 23, 1959, 73 Stat. 650; Pub. L. 88–426, title III, §305(26), Aug. 14, 1964, 78 Stat. 425; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–601, §1, Jan. 2, 1975, 88 Stat. 1956; Pub. L. 97–247, §4, Aug. 27, 1982, 96 Stat. 319; Pub. L. 97–366, §4, Oct. 25, 1982, 96 Stat. 1760; Pub. L.98–622, title IV, §405, Nov. 8, 1984, 98 Stat. 3392; Pub. L. 105–304, title IV, §401(a)(1), Oct. 28, 1998, 112 Stat. 2887; Pub. L. 106–44, §2(c), Aug. 5, 1999, 113 Stat. 223; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4713\], Nov. 29, 1999, 113 Stat. 1536, 1501A–575; Pub. L. 107–273, div. C, title III, §13206(a)(2), Nov. 2, 2002, 116 Stat. 1904.)
 
 #### Historical and Revision Notes
 
@@ -130,7 +130,7 @@ For the effective date of the Patent and Trademark Office Efficiency Act, referr
 
 #### Amendments
 
-2002—Subsec. (a)(2)(B). Pub. L. 107–273, §13206(a)(2)(A), struck out “United States Code,” after “title 5,”.
+<b>2002</b>—Subsec. (a)(2)(B). Pub. L. 107–273, §13206(a)(2)(A), struck out “United States Code,” after “title 5,”.
 
 Subsec. (b)(2)(A). Pub. L. 107–273, §13206(a)(2)(B)(i), struck out “, United States Code” after “title 5”.
 
@@ -140,7 +140,7 @@ Subsec. (b)(2)(C). Pub. L. 107–273, §13206(a)(2)(B)(v), struck out “, Unit
 
 Subsec. (c). Pub. L. 107–273, §13206(a)(2)(C), in heading, struck out “, United States Code” before period at end, and in text, struck out “United States Code,” after “title 5,”.
 
-1999—Pub. L. 106–113 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
+<b>1999</b>—Pub. L. 106–113 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
 “(a) There shall be in the Patent and Trademark Office a Commissioner of Patents and Trademarks, a Deputy Commissioner, two Assistant Commissioners, and examiners-in-chief appointed under section 7 of this title. The Deputy Commissioner, or, in the event of a vacancy in that office, the Assistant Commissioner senior in date of appointment shall fill the office of Commissioner during a vacancy in that office until the Commissioner is appointed and takes office. The Commissioner of Patents and Trademarks, the Deputy Commissioner, and the Assistant Commissioners shall be appointed by the President, by and with the advice and consent of the Senate. The Secretary of Commerce, upon the nomination of the Commissioner, in accordance with law shall appoint all other officers and employees.
 
@@ -154,25 +154,25 @@ Subsec. (c). Pub. L. 107–273, §13206(a)(2)(C), in heading, struck out “, U
 
 Subsec. (d). Pub. L. 106–44 struck out “, United States Code” after “title 5”.
 
-1998—Subsec. (d). Pub. L. 105–304 substituted “in effect for level III of the Executive Schedule under section 5314 of title 5, United States Code” for “prescribed by law for Assistant Secretaries of Commerce”.
+<b>1998</b>—Subsec. (d). Pub. L. 105–304 substituted “in effect for level III of the Executive Schedule under section 5314 of title 5, United States Code” for “prescribed by law for Assistant Secretaries of Commerce”.
 
-1984—Subsec. (e). Pub. L. 98–622 added subsec. (e).
+<b>1984</b>—Subsec. (e). Pub. L. 98–622 added subsec. (e).
 
-1982—Subsec. (a). Pub. L. 97–247 struck out “not more than fifteen” after “two Assistant Commissioners, and”, and inserted “appointed under section 7 of this title” after “examiners-in-chief”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–247 struck out “not more than fifteen” after “two Assistant Commissioners, and”, and inserted “appointed under section 7 of this title” after “examiners-in-chief”.
 
 Subsec. (d). Pub. L. 97–366 added subsec. (d).
 
-1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”, and “Commissioner of Patents and Trademarks” for “Commissioner of Patents”, wherever appearing.
+<b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”, and “Commissioner of Patents and Trademarks” for “Commissioner of Patents”, wherever appearing.
 
 Subsec. (a). Pub. L. 93–601 designated first par. as subsec. (a), redesignated first assistant commissioner as a Deputy Commissioner, granted authority for appointment of not more than fifteen examiners-in-chief to Secretary of Commerce instead of the President, and struck out provision relating to performance by assistant commissioners of duties assigned by Commissioner.
 
 Subsecs. (b), (c). Pub. L. 93–601 designated second and third pars. as subsecs. (b) and (c), respectively.
 
-1964—Pub. L. 88–426 repealed provisions which prescribed annual rate of compensation of Commissioner.
+<b>1964</b>—Pub. L. 88–426 repealed provisions which prescribed annual rate of compensation of Commissioner.
 
-1959—Pub. L. 86–370 authorized Secretary of Commerce to fix compensation of examiners-in-chief.
+<b>1959</b>—Pub. L. 86–370 authorized Secretary of Commerce to fix compensation of examiners-in-chief.
 
-1958—Pub. L. 85–933 increased number of examiners-in-chief from nine to not more than fifteen and specified annual compensation of Commissioner.
+<b>1958</b>—Pub. L. 85–933 increased number of examiners-in-chief from nine to not more than fifteen and specified annual compensation of Commissioner.
 
 #### Effective Date of 1999 Amendment
 
@@ -188,13 +188,13 @@ Amendment by Pub. L. 97–247 effective Aug. 27, 1982, see section 17(a) of Pub.
 
 #### Effective Date of 1975 Amendments
 
-Section 4(b) of Pub. L. 93–601 provided that: “This Act \[amending this section and sections 7 and 151 of this title and enacting provisions set out as a note under section 151 of this title\] shall be effective upon enactment \[Jan. 2, 1975\]. Examiners-in-chief in office on the date of enactment shall continue in office under and in accordance with their then existing appointments.”
+Section 4(b) of Pub. L. 93–601 provided that: “This Act \[amending this section and sections 7 and 151 of thistitle and enacting provisions set out as a note under section 151 of this title\] shall be effective upon enactment \[Jan. 2, 1975\]. Examiners-in-chief in office on the date of enactment shall continue in office under and in accordance with their then existing appointments.”
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964,except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426.
+Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426.
 
 #### Effective Date of 1959 Amendment
 

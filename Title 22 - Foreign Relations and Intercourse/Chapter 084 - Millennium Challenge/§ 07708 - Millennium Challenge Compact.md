@@ -38,7 +38,7 @@ The Board, acting through the Chief Executive Officer of the Corporation, may pr
 
 #### (3) Definition
 
-&emsp;In this subsection, the term “national development strategy” means any strategy to achieve market-driven economic growth and eliminate extreme poverty that has been developed by the government of the country in consultation with a wide variety of civic participation, including nongovernmental organizations, private and voluntary organizations, academia, women's and student organizations, local trade and labor unions, and the business community.
+&emsp;In this subsection, the term “national development strategy” means any strategy to achieve market-driven economic growth and eliminate extreme poverty that has been developed by the government of the country in consultation with a wide variety of civic participation, including nongovernmental organizations, private and voluntary organizations, academia, women's and student organizations,local trade and labor unions, and the business community.
 
 #### (c) Additional provision relating to prohibition on taxation
 
@@ -62,7 +62,7 @@ To the maximum extent feasible, activities undertaken to achieve the objectives 
 
 #### (g) Assistance for development of compact
 
-Notwithstanding subsection (a), the Chief Executive Officer may enter into contracts ormake grants for any eligible country for the purpose of facilitating the development and implementation of the Compact between the United States and the country.
+Notwithstanding subsection (a), the Chief Executive Officer may enter into contracts or make grants for any eligible country for the purpose of facilitating the development and implementation of the Compact between the United States and the country.
 
 #### (h) Requirement for approval by the Board
 

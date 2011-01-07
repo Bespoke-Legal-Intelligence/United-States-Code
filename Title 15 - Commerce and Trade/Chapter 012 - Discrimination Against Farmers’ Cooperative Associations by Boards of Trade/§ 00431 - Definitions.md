@@ -1,6 +1,6 @@
 ### §431. Definitions
 
-When used in this chapter (a) the term “agricultural products”, means agricultural, horticultural, viticultural, and dairy products, food products of livestock, the products of poultry and bee raising, the edible products of forestry, and any and all products raised or produced on farms and processed or manufactured products thereof, transported or intended to be transported in interstate and/or foreign commerce.
+When used in this chapter (a) the term “agricultural products”, means agricultural, horticultural, viticultural, and dairy products, food products of livestock, the products of poultry and bee raising, the edible products of forestry,and any and all products raised or produced on farms and processed or manufactured products thereof, transported or intended to be transported in interstate and/or foreign commerce.
 
 (b) The words “board of trade” shall be held to include and mean any exchange or association, whether incorporated or unincorporated, of persons who shall be engaged in the business of buying or selling agricultural products or receiving the same for sale on consignment, except markets designated as contract markets under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\].
 
@@ -16,9 +16,9 @@ When used in this chapter (a) the term “agricultural products”, means agricu
 
 #### References in Text
 
-The Commodity Exchange Act, referred to in subsec. (b), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.)of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in subsec. (b), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 #### Amendments
 
-1936—Subsec. (b). Act June 15, 1936, substituted “Commodity Exchange Act” for “Grain Futures Act”.
+<b>1936</b>—Subsec. (b). Act June 15, 1936, substituted “Commodity Exchange Act” for “Grain Futures Act”.
 

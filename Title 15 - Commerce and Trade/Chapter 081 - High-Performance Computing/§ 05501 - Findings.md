@@ -24,7 +24,7 @@ The Congress finds the following:
 
 #### Amendments
 
-1998—Par. (4). Pub. L. 105–305, §2(b)(1), added par. (4) and struck out former par. (4) which read as follows: “A high-capacity and high-speed national research and education computer network would provide researchers and educators with access to computer and information resources and act as a test bed for further research and development of high-capacity and high-speed computer networks.”
+<b>1998</b>—Par. (4). Pub. L. 105–305, §2(b)(1), added par. (4) and struck out former par. (4) which read as follows: “A high-capacity and high-speed national research and education computer network would provide researchers and educators with access to computer and information resources and act as a test bed for further research and development of high-capacity and high-speed computer networks.”
 
 Pars. (7) to (9). Pub. L. 105–305, §2(b)(2), added pars. (7) to (9).
 

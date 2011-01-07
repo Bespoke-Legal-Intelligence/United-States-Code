@@ -10,15 +10,15 @@
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–107, §505(a)(3)(A), substituted “Whenever the needs of the service require, the Secretary of the military department concerned” for “Under regulations prescribed by the Secretary of Defense, the Secretary of the military department concerned, whenever the needs of the service require,” and inserted at end “The preceding sentence does not require the convening of a selection board in the case of officers in the permanent grade of first lieutenant or, in the case of the Navy, lieutenant (junior grade) when the Secretary concerned recommends for promotion to the next higher grade under section 624(a)(3) of this title all such officers whom the Secretary finds to be fully qualified for promotion.”
+<b>2001</b>—Subsec. (a). Pub. L. 107–107, §505(a)(3)(A), substituted “Whenever the needs of the service require, the Secretary of the military department concerned” for “Under regulations prescribed by the Secretary of Defense, the Secretary of the military department concerned, whenever the needs of the service require,” and inserted at end “The preceding sentence does not require the convening of a selection board in the case of officers in the permanent grade of first lieutenant or, in the case of the Navy, lieutenant (junior grade) when the Secretary concerned recommends for promotion to the next higher grade under section 624(a)(3) of this title all such officers whom the Secretary finds to be fully qualified for promotion.”
 
 Subsec. (b). Pub. L. 107–107, §505(a)(3)(B), substituted “Whenever the needs of the service require, the Secretary of the military department concerned” for “Under regulations prescribed by the Secretary of Defense, the Secretary of the military department concerned, whenever the needs of the service require,”.
 
 Subsec. (c). Pub. L. 107–107, §505(a)(3)(C), added subsec. (c).
 
-1985—Subsec. (a). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
 
-1981—Subsec. (a). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
 
 #### Effective Date of 1981 Amendment
 
@@ -42,7 +42,7 @@ Parts A to C of title VI of Pub. L. 96–513, Dec. 12, 1980, 94 Stat. 2940, as a
 
 #### “Part A—Transition Provisions Relating Only to the Army and Air Force
 
-I74“regular officers serving in a higher temporary grade below lieutenant general or recommended for promotion to a higher grade
+#### “regular officers serving in a higher temporary grade below lieutenant general or recommended for promotion to a higher grade
 
 “Sec. 601. (a) Except as provided in sections 603 and 604, any regular officer of the Army or Air Force who on the effective date of this Act \[Sept. 15, 1981, except as otherwise provided in section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title\] is on active duty and—
 
@@ -54,7 +54,7 @@ I74“regular officers serving in a higher temporary grade below lieutenant gene
 
 > shall be considered to have been recommended by a board convened under section 611(a) of title 10, United States Code, as added by this Act, for promotion to the regular grade equivalent to the grade in which he is serving or for which he has been recommended for promotion, as the case may be.
 
-“(b) An officer referred to in clause (1) of subsection (a) who is not promoted to the grade to which he is considered under such subsection to have been recommended for promotion because his name is removed from a list of officers who are considered under such subsection to have been recommended for promotion shall be considered under chapter 36 of title 10, United States Code, as added by this Act, for promotion to the regular grade equivalent to the temporary grade in which he was serving on the effective date of this Act \[Sept. 15, 1981\] as if he were serving in his regular grade.
+“(b) An officer referred to in clause (1) of subsection (a) who is not promoted to the grade to which he is considered under such subsection to have been recommended for promotion because his name is removed from a list of officers who are considered under such subsection to have been recommended for promotion shall be considered under chapter 36 of title 10, United States Code, as added by this Act, for promotion to the regular grade equivalent to the temporary grade in which he was serving on the effective date of this Act\[Sept. 15, 1981\] as if he were serving in his regular grade.
 
 “(c) Notwithstanding section 741(d) of title 10, United States Code, as added by this Act, the date of rank of an officer referred to in subsection (a)(1) who is promoted to the temporary grade in which he is serving on the effective date of this Act \[Sept. 15, 1981\] is the date of his temporary appointment in that grade.
 
@@ -64,7 +64,7 @@ I74“regular officers serving in a higher temporary grade below lieutenant gene
 
 #### “reserve officers serving in a higher temporary grade below lieutenant general or recommended for promotion to a higher grade
 
-“Sec. 602. (a)(1) Except as provided in subsection (b) and sections 605 and 606, any reserve officer of theArmy or Air Force who on the effective date of this Act \[Sept. 15, 1981\] is subject to placement on the active-duty list of his armed force and—
+“Sec. 602. (a)(1) Except as provided in subsection (b) and sections 605 and 606, any reserve officer of the Army or Air Force who on the effective date of this Act \[Sept. 15, 1981\] is subject to placement on the active-duty list of his armed force and—
 
 &emsp;“(A) is serving in a temporary grade below lieutenant general that is higher than his reserve grade; or
 
@@ -124,7 +124,7 @@ I74“regular officers serving in a higher temporary grade below lieutenant gene
 
 > shall, unless sooner promoted, be considered again for promotion to that grade by a selection board convened under section 3366, 3367, 8366, or 8367, as appropriate, of such title.
 
-“(b)(1) An officer described in subsection (a) who is serving on active duty in a temporary grade higher than his reserve grade on the effective date of this Act \[Sept. 15, 1981\] and who is recommended by the selection board which considers him pursuant to such subsection for promotion to the reserve grade equivalent to the temporary grade in which he is serving on such date shall be considered as having been recommended for promotion to that reserve grade in the report of a selection board convened under section 611(a) of title 10, United States Code, as added by this Act. Notwithstanding section 741(d) of title 10, United States Code, as added by this Act, the date of rank of an officer referred to in the preceding sentence who is promoted to the reserve grade equivalent to the temporary grade in which he is serving on such date is the date of his temporary appointment in that grade.
+“(b)(1) An officer described in subsection (a) who is serving on active duty in a temporary grade higherthan his reserve grade on the effective date of this Act \[Sept. 15, 1981\] and who is recommended by the selection board which considers him pursuant to such subsection for promotion to the reserve grade equivalent to the temporary grade in which he is serving on such date shall be considered as having been recommended for promotion to that reserve grade in the report of a selection board convened under section 611(a) of title 10, United States Code, as added by this Act. Notwithstanding section 741(d) of title 10, United States Code, as added by this Act, the date of rank of an officer referred to in the preceding sentence who is promoted to the reserve grade equivalent to the temporary grade in which he is serving on such date is the date of his temporary appointment in that grade.
 
 “(2) An officer described in subsection (a) who is serving on active duty in a temporary grade equivalent to or lower than his reserve grade on the effective date of this Act \[Sept. 15, 1981\] and who is recommended by the selection board which considers him pursuant to such subsection for promotion to a reserve grade higher than the temporary grade in which he was serving on such date shall be considered as having been recommended for promotion to that reserve grade in the report of a selection board convened under section 3366, 3367, 8366, or 8367 \[see section 14301 et seq. of this title\], as appropriate, of such title. If such an officer is not ordered to active duty in his reserve grade, he shall while continuing on active duty retain such temporary grade and shall be considered for promotion under chapter 36 of title 10, United States Code, as added by this Act, to a grade equal to or lower than his reserve grade as if such temporary grade is a permanent grade. If such officer is recommended for promotion under such chapter to such a grade, his appointment to such grade shall be a temporary appointment to such grade.
 
@@ -190,7 +190,7 @@ I74“regular officers serving in a higher temporary grade below lieutenant gene
 
 &emsp;“(B) is on a list of officers recommended for promotion to the regular grade of major,
 
-> shall be retained on active duty until he completes twenty-one years of service as computed under section 3927(a) or 8927(a), as appropriate, of title 10, United States Code (as in effect on the day before the effective date of this Act), and then be retired under the provisions of section 3913 or 8913 of such title (as in effect on the day before the effective date of this Act) on the first day of the month after the month in which he completes that service.
+> shall be retained on active duty until he completes twenty-one years of service as computed under section 3927(a) or 8927(a), as appropriate, of title 10, UnitedStates Code (as in effect on the day before the effective date of this Act), and then be retired under the provisions of section 3913 or 8913 of such title (as in effect on the day before the effective date of this Act) on the first day of the month after the month in which he completes that service.
 
 “(2) Paragraph (1) does not apply to an officer who—
 
@@ -218,7 +218,7 @@ I74“regular officers serving in a higher temporary grade below lieutenant gene
 
 #### “regular officers whose retirement has been deferred
 
-“Sec. 610. A regular officer of the Army or Air Force serving on active duty on the effective date of this Act\[Sept. 15, 1981\] whose retirement under chapter 367 or 867 of title 10, United States Code, has been deferred before that date—
+“Sec. 610. A regular officer of the Army or Air Force serving on active duty on the effective date of this Act \[Sept. 15, 1981\] whose retirement under chapter 367 or 867 of title 10, United States Code, has been deferred before that date—
 
 &emsp;“(1) under a provision of such chapter; or
 
@@ -228,7 +228,7 @@ I74“regular officers serving in a higher temporary grade below lieutenant gene
 
 #### “Part B—Transition Provisions Relating Only to the Navy and Marine Corps
 
-I74“officers serving in a temporary grade below vice admiral or lieutenant general or recommended for promotion
+#### “officers serving in a temporary grade below vice admiral or lieutenant general or recommended for promotion
 
 “Sec. 611. (a) Subject to subsection (b), any regular officer of the Navy or Marine Corps, and any reserve officer of the Navy and Marine Corps who on the effective date of this Act \[Sept. 15, 1981\] is subject to placement on the active-duty list, who on the effective date of this Act—
 
@@ -454,9 +454,9 @@ Sec. 620. Notwithstanding section 6389 of title 10, United States Code, an offic
 
 #### “Part C—General Transition Provisions
 
-I74“establishment of initial active-duty lists
+#### “establishment of initial active-duty lists
 
-“Sec. 621. (a)(1) Not later than 6 months after the effective date of this Act \[Sept. 15, 1981\], all officers of the Army, Navy, Air Force, and Marine Corps who are required to be placed on the active-duty list for their armed force under chapter 36 of title 10, United States Code, as added by this Act, shall be placed on such list with the same relative seniority which they held on the day before the effective date of this Act. An officerplaced on an active-duty list under this section shall be considered to have been placed on such list as of the effective date of this Act.
+“Sec. 621. (a)(1) Not later than 6 months after the effective date of this Act \[Sept. 15, 1981\], all officers of the Army, Navy, Air Force, and Marine Corps who are required to be placed on the active-duty list for their armed force under chapter 36 of title 10, United States Code, as added by this Act, shall be placed on such list with the same relative seniority which they held on the day before the effective date of this Act. An officer placed on an active-duty list under this section shall be considered to have been placed on such list as of the effective date of this Act.
 
 “(2) Regulations prescribed under section 620 of title 10, United States Code, as added by this Act, shall be applicable to the placement of officers on the active-duty list under paragraph (1).
 
@@ -498,7 +498,7 @@ I74“establishment of initial active-duty lists
 
 &emsp;“(2) was participating in a program leading to an appointment as an officer in the Army, Navy, Air Force, or Marine Corps and the crediting of years of service.
 
-“(b)(1) Any officer who on the effective date of this Act \[Sept. 15, 1981\] is an officer of the Army or Navy in the Medical or Dental Corps of his armed force, an officer of the Air Force designated as a medical or dental officer, or an officer of the Public Health Service commissioned as a medical or dental officer is entitled to include in the years of service creditable to him for the computation of basic pay and retired pay the years of service creditable to him for such purposes under clauses (7) and (8) of section 205(a) of title 37, United States Code, as in effect on the day before the effective date of this Act.
+“(b)(1) Any officer who on the effective date of this Act \[Sept. 15, 1981\] is an officer of the Army or Navy in the Medical or Dental Corps of his armed force, an officer of the Air Force designated as a medical or dental officer, or an officer of the Public Health Service commissioned as a medical or dental officer is entitled to include in the years of service creditable to him for the computation of basic pay and retired pay the years of service creditable to him for such purposes under clauses (7) and (8) of section 205(a) of title 37, UnitedStates Code, as in effect on the day before the effective date of this Act.
 
 “(2) Any person who on the day before the effective date of this Act \[Sept. 15, 1981\] was enrolled in the Uniformed Services University of the Health Sciences under chapter 104 of this title or the Armed Forces Health Professions Scholarship Program under chapter 105 of this title and who on or after the effective date of this Act graduates from such university or completes such program, as the case may be, and is appointed in one of the categories specified in paragraph (1) is entitled to include in the years of service creditable to him for the computation of basic pay and retired pay the years of service that would have been credited to him under clauses (7) and (8) of section 205(a) of title 37, United States Code, as in effect on the day before the effective date of this Act, had such clauses not been repealed by this Act.
 
@@ -506,7 +506,7 @@ I74“establishment of initial active-duty lists
 
 “Sec. 626. (a) For the purpose of computing the years of service for pay and allowances of an officer of the Army, Navy, Air Force, or Marine Corps, including retired pay, severance pay, readjustment pay, separation pay, and basic pay, the total years of service of such officer shall be computed by adding to that service so creditable on the day before the effective date of this Act \[Sept. 15, 1981\] all subsequent service as computed under title 10, United States Code, as amended by this Act.
 
-“(b) An officer of the Army, Navy, Air Force, or Marine Corps who was on active duty on the effective date of this Act \[Sept. 15, 1981\] and who is retired under section 1251 of title 10, United States Code, as added by this Act, shall be entitled to retired pay in an amountequal to not less than 50 percent of the basic pay upon which his retired pay is based.
+“(b) An officer of the Army, Navy, Air Force, or Marine Corps who was on active duty on the effective date of this Act \[Sept. 15, 1981\] and who is retired under section 1251 of title 10, United States Code, as added by this Act, shall be entitled to retired pay in an amount equal to not less than 50 percent of the basic pay upon which his retired pay is based.
 
 “(c) The service that an officer of the Army, Navy, Air Force, or Marine Corps has in a particular grade is the sum of—
 
@@ -578,7 +578,7 @@ Sec. 634. Unless entitled to a higher grade under any other provision of law, a 
 
 &emsp;“(1) was selected for participation in a postbaccalaureate educational program leading to an appointment as a commissioned officer or had completed a postbaccalaureate program and was selected for appointment as a commissioned officer of the Army, Navy, Air Force, or Marine Corps;
 
-&emsp;“(2) under regulations of the Secretary of the military department concerned in effect on December 12,1980, would have been appointed and ordered to active duty in a grade specified or determined in accordance with such regulations; and
+&emsp;“(2) under regulations of the Secretary of the military department concerned in effect on December 12, 1980, would have been appointed and ordered to active duty in a grade specified or determined in accordance with such regulations; and
 
 &emsp;“(3) had not been so appointed and ordered to active duty,
 

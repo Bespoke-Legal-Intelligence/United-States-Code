@@ -22,9 +22,9 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250,000” in third par.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250,000” in third par.
 
-1990—Pub. L. 101–644, in third par., added cls. (1) and (2), struck out “be fined not more than $500 or imprisoned not more than six months, or both; and” after “Shall”, and designated remaining provision at end as cl. (3).
+<b>1990</b>—Pub. L. 101–644, in third par., added cls. (1) and (2), struck out “be fined not more than $500 or imprisoned not more than six months, or both; and” after “Shall”, and designated remaining provision at end as cl. (3).
 
 #### Transfer of Functions
 

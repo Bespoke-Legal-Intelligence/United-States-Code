@@ -44,7 +44,7 @@
 
 #### (C) Exception
 
-&emsp;&emsp;Nothing in this section affects the availability of payment information (includingpayment amounts and the names and addresses of recipients of payments) under section 552 of title 5.
+&emsp;&emsp;Nothing in this section affects the availability of payment information (including payment amounts and the names and addresses of recipients of payments) under section 552 of title 5.
 
 #### (2) Exceptions
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;(A) affects any procedure for data collection or disclosure through the National Resources Inventory; or
 
-&emsp;&emsp;(B) limits the authority of Congress or the Government Accountability Office to review information collected or disclosed under this subsection.
+&emsp;&emsp;(B) limits the authority of Congress or the Government Accountability Office to reviewinformation collected or disclosed under this subsection.
 
 #### (c) Plans
 
@@ -140,7 +140,7 @@ In the preparation and application of a conservation compliance plan under subch
 
 #### (3) Waiver to exclude certain acreage
 
-&emsp;The Secretary may grant a waiver to exclude acreage enrolled under subsection\(c)(2)(B) or (f)(4) of section 3834 of this title from the limitations in paragraph (1)(A) with the concurrence of the county government of the county involved.
+&emsp;The Secretary may grant a waiver to exclude acreage enrolled under subsection (c)(2)(B) or (f)(4) of section 3834 of this title from the limitations in paragraph (1)(A) with the concurrence of the county government of the county involved.
 
 #### (4) Shelterbelts and windbreaks
 
@@ -218,7 +218,7 @@ A prior section 3844, Pub. L. 99–198, title XII, §1244, Dec. 23, 1985, 99 Sta
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §2708(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “In carrying out any conservation program administered by the Secretary, the Secretary may provide to beginning farmers and ranchers and Indian tribes (as those terms are defined in section 3838 of this title) and limited resource agricultural producers incentives to participate in the conservation program to—
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §2708(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “In carrying out any conservation program administered by the Secretary, the Secretary may provide to beginning farmers and ranchers and Indian tribes (as those terms are defined in section 3838 of this title) and limited resource agricultural producers incentives to participate in the conservation program to—
 
 &emsp;“(1) foster new farming and ranching opportunities; and
 
@@ -228,7 +228,7 @@ Subsecs. (c) to (e). Pub. L. 110–246, §2707(a), transferred subsecs. (a), (c)
 
 Subsecs. (f) to (i). Pub. L. 110–246, §2708(2), added subsecs. (f) to (i).
 
-2004—Subsec. (b)(4)(B). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (b)(4)(B). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 #### Effective Date of 2008 Amendment
 

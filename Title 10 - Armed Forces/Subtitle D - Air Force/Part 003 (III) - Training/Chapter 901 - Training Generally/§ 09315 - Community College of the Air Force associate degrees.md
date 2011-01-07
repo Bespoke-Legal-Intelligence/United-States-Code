@@ -26,13 +26,13 @@ Associate Degrees.—(1) Subject to paragraph (2), an academic degree at the lev
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–375 amended heading and text generally. Prior to amendment, text read as follows:
+<b>2004</b>—Subsec. (c). Pub. L. 108–375 amended heading and text generally. Prior to amendment, text read as follows:
 
 “(1) Subject to paragraph (2), the commander of the Air Education and Training Command of the Air Force may confer an academic degree at the level of associate upon any enlisted member who has completed the program prescribed by the Community College of the Air Force.
 
 “(2) No degree may be conferred upon any enlisted member under this section unless (A) the Community College of the Air Force certifies to the commander of the Air Education and Training Command of the Air Force that such member has satisfied all the requirements prescribed for such degree, and (B) the Secretary of Education determines that the standards for the award of academic degrees in agencies of the United States have been met.”
 
-1997—Subsec. (a). Pub. L. 105–85, §552(b)(1), inserted heading.
+<b>1997</b>—Subsec. (a). Pub. L. 105–85, §552(b)(1), inserted heading.
 
 Subsec. (a)(1). Pub. L. 105–85, §552(a)(1), substituted “enlisted members described in subsection (b)” for “enlisted members of the Air Force”.
 
@@ -40,13 +40,13 @@ Subsec. (b). Pub. L. 105–85, §552(a)(4), added subsec. (b). Former subsec. (b
 
 Subsec. (c). Pub. L. 105–85, §552(a)(2), (3), (b)(2), redesignated subsec. (b) as subsec. (c)(1), inserted subsec. heading, substituted “Subject to paragraph (2),” for “Subject to subsection (c),”, and redesignated former subsec. (c) as subsec. (c)(2) and pars. (1) and (2) of former subsec. (c) as subpars. (A) and (B), respectively, of subsec. (c)(2).
 
-1996—Subsec. (a)(1). Pub. L. 104–106 substituted “Air Force” for “armed forces”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–106 substituted “Air Force” for “armed forces”.
 
-1993—Subsec. (b). Pub. L. 103–160, §1182(a)(12)(A), substituted “Air Education and Training Command” for “Air Training Command”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–160, §1182(a)(12)(A), substituted “Air Education and Training Command” for “Air Training Command”.
 
 Subsec. (c). Pub. L. 103–160, §1182(a)(12)(B), substituted “Air Education and Training Command of the Air Force” for “Air Force Training Command”.
 
-1980—Subsec. (c). Pub. L. 96–513 substituted “Secretary of Education” for “Commissioner of Education of the Department of Health, Education, and Welfare”.
+<b>1980</b>—Subsec. (c). Pub. L. 96–513 substituted “Secretary of Education” for “Commissioner of Education of the Department of Health, Education, and Welfare”.
 
 #### Effective Date of 1997 Amendment
 

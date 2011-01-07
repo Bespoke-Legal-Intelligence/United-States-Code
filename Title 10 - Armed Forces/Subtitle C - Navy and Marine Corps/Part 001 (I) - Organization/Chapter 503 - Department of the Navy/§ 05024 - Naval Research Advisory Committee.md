@@ -24,15 +24,15 @@ Aug. 1, 1946, ch. 727, §4, 60 Stat. 779; Sept. 3, 1954, ch. 1263, §12, 68 Stat
 
 In subsection (c) the words “in the amount” are omitted as unnecessary.
 
-In subsection (d) references to sections of title 18 and to R.S. 190 are omitted as unnecessary and the words “No law” are substituted for the words “Nothing in any other provision of Federal law”.
+In subsection (d) references to sections of title 18 and to R.S. 190 are omitted as unnecessary and the words “No law” are substituted for the words “Nothing \* \* \* in any other provision of Federal law”.
 
 #### Amendments
 
-1986—Pub. L. 99–433, §511(d), renumbered section 5153 of this title as this section.
+<b>1986</b>—Pub. L. 99–433, §511(d), renumbered section 5153 of this title as this section.
 
 Subsec. (c). Pub. L. 99–433, §514(d)(2), substituted “claim, proceeding,” for “claim proceeding”.
 
-1981—Subsecs. (c), (d). Pub. L. 97–60 redesignated subsec. (d) as (c). Former subsec. (c), which allowed each member of the Committee compensation of $50 for each day or part of a day that the member attended any regularly called meeting of the Committee and also allowed that member reimbursement for all travel expenses incident to that attendance, was struck out.
+<b>1981</b>—Subsecs. (c), (d). Pub. L. 97–60 redesignated subsec. (d) as (c). Former subsec. (c), which allowed each member of the Committee compensation of $50 for each day or part of a day that the member attended any regularly called meeting of the Committee and also allowed that member reimbursement for all travel expenses incident to that attendance, was struck out.
 
 #### Termination of Advisory Committees
 

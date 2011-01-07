@@ -12,7 +12,7 @@ If a deduction is allowable under section 170 (relating to charitable contributi
 
 #### Amendments
 
-1969—Pub. L. 91–172 redesignated existing provisions as subsec. (a) and added subsec. (b).
+<b>1969</b>—Pub. L. 91–172 redesignated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1969 Amendment
 

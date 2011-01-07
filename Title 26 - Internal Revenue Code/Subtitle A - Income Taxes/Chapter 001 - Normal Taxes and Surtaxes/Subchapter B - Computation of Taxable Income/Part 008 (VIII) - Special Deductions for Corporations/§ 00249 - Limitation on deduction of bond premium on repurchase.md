@@ -10,7 +10,7 @@ For purposes of subsection (a)—
 
 #### (1) Adjusted issue price
 
-&emsp;The adjusted issue price is the issue price (as defined in sections 1273(b) and 1274) increased by any amount of discount deducted before repurchase, or, in the case of bonds or other evidences of indebtedness issued after February 28, 1913, decreased by any amount of premium included in gross income before repurchase by the issuing corporation.
+&emsp;The adjusted issue price is the issue price (as defined in sections 1273(b) and 1274) increasedby any amount of discount deducted before repurchase, or, in the case of bonds or other evidences of indebtedness issued after February 28, 1913, decreased by any amount of premium included in gross income before repurchase by the issuing corporation.
 
 #### (2) Control
 
@@ -20,9 +20,9 @@ For purposes of subsection (a)—
 
 #### Amendments
 
-1984—Subsec. (b)(1). Pub. L. 98–369 substituted “sections 1273(b) and 1274” for “section 1232(b)”.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–369 substituted “sections 1273(b) and 1274” for “section 1232(b)”.
 
-1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 1984 Amendment
 

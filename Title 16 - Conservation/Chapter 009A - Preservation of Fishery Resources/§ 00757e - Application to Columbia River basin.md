@@ -10,5 +10,5 @@ Although the intent of Congress to amend this section is clear from the director
 
 #### Amendments
 
-1983—Pub. L. 98–146 inserted provision that the State of Idaho shall be eligible on an equal standing withother States for Federal funding for purposes authorized by sections 757a to 757f of this title.
+<b>1983</b>—Pub. L. 98–146 inserted provision that the State of Idaho shall be eligible on an equal standing with other States for Federal funding for purposes authorized by sections 757a to 757f of this title.
 

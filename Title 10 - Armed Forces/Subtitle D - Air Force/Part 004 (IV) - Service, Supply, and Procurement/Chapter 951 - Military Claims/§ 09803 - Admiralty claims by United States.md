@@ -54,7 +54,7 @@ In subsection (b), the words “of the United States as miscellaneous receipts�
 
 #### Amendments
 
-1989—Subsec. (c). Pub. L. 101–189 substituted “$100,000” for “$10,000”.
+<b>1989</b>—Subsec. (c). Pub. L. 101–189 substituted “$100,000” for “$10,000”.
 
-1965—Subsec. (c). Pub. L. 89–67 substituted “$10,000” for “$1,000”.
+<b>1965</b>—Subsec. (c). Pub. L. 89–67 substituted “$10,000” for “$1,000”.
 

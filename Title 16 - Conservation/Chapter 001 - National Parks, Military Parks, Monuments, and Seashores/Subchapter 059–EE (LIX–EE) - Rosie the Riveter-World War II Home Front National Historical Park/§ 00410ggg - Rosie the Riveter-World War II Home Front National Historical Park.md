@@ -12,7 +12,7 @@ The boundaries of the park shall be those generally depicted on the map entitled
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–352 substituted “numbered 963/80,000” for “numbered 963/80000”.
+<b>2004</b>—Subsec. (b). Pub. L. 108–352 substituted “numbered 963/80,000” for “numbered 963/80000”.
 
 #### Short Title
 

@@ -26,11 +26,11 @@ A prior section 3168 of Pub. L. 101–510 was renumbered section 3169 and is cla
 
 #### Amendments
 
-2007—Par. (5). Pub. L. 110–69 added par. (5).
+<b>2007</b>—Par. (5). Pub. L. 110–69 added par. (5).
 
-2005—Par. (3). Pub. L. 109–58, §1102(d), substituted “by the Department of Energy” for “from the Office of Science of the Department of Energy”.
+<b>2005</b>—Par. (3). Pub. L. 109–58, §1102(d), substituted “by the Department of Energy” for “from the Office of Science of the Department of Energy”.
 
-1998—Par. (3). Pub. L. 105–245 substituted “Office of Science” for “Office of Energy Research”.
+<b>1998</b>—Par. (3). Pub. L. 105–245 substituted “Office of Science” for “Office of Energy Research”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

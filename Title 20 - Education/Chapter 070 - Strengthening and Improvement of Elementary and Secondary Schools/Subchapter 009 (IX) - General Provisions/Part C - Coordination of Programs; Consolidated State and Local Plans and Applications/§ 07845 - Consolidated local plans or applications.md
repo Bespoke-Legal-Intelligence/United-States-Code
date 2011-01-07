@@ -16,7 +16,7 @@ A State educational agency that has an approved consolidated State plan or appli
 
 #### (c) Collaboration
 
-A State educational agency, in consultation with the Governor, shall collaborate with local educational agencies in the State in establishing procedures for the submission of the consolidated State plans or consolidated State applications under this section.
+A State educational agency, in consultation with the Governor, shall collaborate with localeducational agencies in the State in establishing procedures for the submission of the consolidated State plans or consolidated State applications under this section.
 
 #### (d) Necessary materials
 

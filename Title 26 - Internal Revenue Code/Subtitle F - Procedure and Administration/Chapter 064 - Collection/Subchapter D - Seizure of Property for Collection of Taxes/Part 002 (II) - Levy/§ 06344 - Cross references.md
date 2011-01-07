@@ -24,17 +24,17 @@
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–206 substituted “section 7804(c)” for “section 7803(d)”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–206 substituted “section 7804(c)” for “section 7803(d)”.
 
-1988—Subsec. (a)(1). Pub. L. 100–418 substituted “or 44” for “44, or 45”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–418 substituted “or 44” for “44, or 45”.
 
-1980—Subsec. (a)(1). Pub. L. 96–223 inserted reference to chapter 45.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–223 inserted reference to chapter 45.
 
-1976—Subsec. (a)(1). Pub. L. 94–455 inserted reference to chapters 41 and 44.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–455 inserted reference to chapters 41 and 44.
 
-1974—Subsec. (a)(1). Pub. L. 93–406 inserted reference to chapter 43.
+<b>1974</b>—Subsec. (a)(1). Pub. L. 93–406 inserted reference to chapter 43.
 
-1969—Subsec. (a)(1). Pub. L. 91–172 inserted reference to chapter 42.
+<b>1969</b>—Subsec. (a)(1). Pub. L. 91–172 inserted reference to chapter 42.
 
 #### Effective Date of 1988 Amendment
 
@@ -46,7 +46,7 @@ Amendment by Pub. L. 96–223 applicable to periods after Feb. 29, 1980, see sec
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1307(d)(2)(F)(v) of Pub. L. 94–455 effective on and after Oct. 4, 1976, see section1307(e) of Pub. L. 94–455, set out as a note under section 501 of this title.
+Amendment by section 1307(d)(2)(F)(v) of Pub. L. 94–455 effective on and after Oct. 4, 1976, see section 1307(e) of Pub. L. 94–455, set out as a note under section 501 of this title.
 
 #### Effective Date of 1974 Amendment
 

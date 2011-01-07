@@ -142,7 +142,7 @@ A prior section 612 of Pub. L. 89–329 was renumbered section 613 and is classi
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–315, §611(a)(1), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §611(a)(1), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
 Subsec. (a)(1). Pub. L. 110–315, §610(a), substituted “consortia” for “combinations” in introductory provisions.
 
@@ -160,7 +160,7 @@ Subsec. (f)(3). Pub. L. 110–315, §611(a)(3), inserted “, and that diverse 
 
 Subsec. (f)(4). Pub. L. 110–315, §610(b), substituted “consortium” for “combination”.
 
-1998—Subsec. (c)(1)(B). Pub. L. 105–244, §602(b)(1)(A)(i), struck out “advanced” after “faculty and”.
+<b>1998</b>—Subsec. (c)(1)(B). Pub. L. 105–244, §602(b)(1)(A)(i), struck out “advanced” after “faculty and”.
 
 Subsec. (c)(1)(C). Pub. L. 105–244, §602(b)(1)(A)(ii), struck out “evening or summer” before “programs, such”.
 
@@ -168,7 +168,7 @@ Subsec. (c)(2)(C). Pub. L. 105–244, §602(b)(1)(B), inserted “foreign langua
 
 Subsec. (d)(2)(G). Pub. L. 105–244, §602(b)(2), inserted “, such as a representative of a community college in the region served by the center” before the period.
 
-1992—Pub. L. 102–325 amended section generally, substituting present provisions for provisions relating to grants for establishing and operating international business education centers in subsec. (a), costs to be covered by Federal funds in subsec. (b), scope of programs and activities in subsec. (c), center advisory council in subsec. (d), duration of grants and allotment of Federal and non-Federal shares in subsec. (e), and conditions for grants in subsec. (f).
+<b>1992</b>—Pub. L. 102–325 amended section generally, substituting present provisions for provisions relating to grants for establishing and operating international business education centers in subsec. (a), costs to be covered by Federal funds in subsec. (b), scope of programs and activities in subsec. (c), center advisory council in subsec. (d), duration of grants and allotment of Federal and non-Federal shares in subsec. (e), and conditions for grants in subsec. (f).
 
 #### Effective Date of 1998 Amendment
 

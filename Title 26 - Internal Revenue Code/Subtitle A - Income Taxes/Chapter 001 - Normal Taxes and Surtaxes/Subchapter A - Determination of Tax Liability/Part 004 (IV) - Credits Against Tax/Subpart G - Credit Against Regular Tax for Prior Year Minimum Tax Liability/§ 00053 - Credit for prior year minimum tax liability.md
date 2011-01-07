@@ -98,7 +98,7 @@ For purposes of this section—
 
 &emsp;The AMT refundable credit amount, and the minimum tax credit determined under subsection (b), for the taxpayer's first 2 taxable years beginning after December 31, 2007, shall each be increased by 50 percent of the aggregate amount of the interest and penalties which were paid by the taxpayer before the date of the enactment of this subsection and which would (but for such payment) have been abated under paragraph (1).
 
-(Added Pub. L. 99–514, title VII, §701(b), Oct. 22, 1986, 100 Stat. 2339; amended Pub. L. 100–647, title I, §1007(g)(4), title VI, §6304(a), Nov. 10, 1988, 102 Stat. 3435, 3756; Pub. L. 101–239, title VII, §§7612(a)(1), (2), (b)(1), 7811(d)(2), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408; Pub. L. 102–486, title XIX, §1913(b)(2)(C), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §§13113(b)(2), 13171(c), Aug. 10, 1993, 107 Stat. 429, 455; Pub. L. 104–188, title I, §§1205(d)(5), 1704(j)(1), Aug. 20, 1996, 110 Stat. 1776, 1881; Pub. L. 108–357, title IV, §421(a)(2), Oct. 22, 2004, 118 Stat. 1514; Pub. L. 109–58, title XIII, §1322(a)(3)(G), Aug. 8, 2005, 119 Stat. 1012; Pub. L. 109–432, div. A, title IV, §402(a), Dec. 20, 2006, 120Stat. 2953; Pub. L. 110–172, §2(a), Dec. 29, 2007, 121 Stat. 2473; Pub. L. 110–343, div. C, title I, §103(a), (b), Oct. 3, 2008, 122 Stat. 3863; Pub. L. 111–5, div. B, title I, §1142(b)(4), Feb. 17, 2009, 123 Stat. 331.)
+(Added Pub. L. 99–514, title VII, §701(b), Oct. 22, 1986, 100 Stat. 2339; amended Pub. L. 100–647, title I, §1007(g)(4), title VI, §6304(a), Nov. 10, 1988, 102 Stat. 3435, 3756; Pub. L. 101–239, title VII, §§7612(a)(1), (2), (b)(1), 7811(d)(2), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408; Pub. L. 102–486, title XIX, §1913(b)(2)(C), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §§13113(b)(2), 13171(c), Aug. 10, 1993, 107 Stat. 429, 455; Pub. L. 104–188, title I, §§1205(d)(5), 1704(j)(1), Aug. 20, 1996, 110 Stat. 1776,1881; Pub. L. 108–357, title IV, §421(a)(2), Oct. 22, 2004, 118 Stat. 1514; Pub. L. 109–58, title XIII, §1322(a)(3)(G), Aug. 8, 2005, 119 Stat. 1012; Pub. L. 109–432, div. A, title IV, §402(a), Dec. 20, 2006, 120 Stat. 2953; Pub. L. 110–172, §2(a), Dec. 29, 2007, 121 Stat. 2473; Pub. L. 110–343, div. C, title I, §103(a), (b), Oct. 3, 2008, 122 Stat. 3863; Pub. L. 111–5, div. B, title I, §1142(b)(4), Feb. 17, 2009, 123 Stat. 331.)
 
 #### References in Text
 
@@ -110,17 +110,17 @@ A prior section 53, added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 
 
 #### Amendments
 
-2009—Subsec. (d)(1)(B)(iii). Pub. L. 111–5, §1142(b)(4)(A), redesignated cl. (iv) as (iii) and struck out former cl. (iii). Prior to amendment, text read as follows: “The adjusted net minimum tax for the taxable year shall be increased by the amount of the credit not allowed under section 30 solely by reason of the application of section 30(b)(3)(B).”
+<b>2009</b>—Subsec. (d)(1)(B)(iii). Pub. L. 111–5, §1142(b)(4)(A), redesignated cl. (iv) as (iii) and struck out former cl. (iii). Prior to amendment, text read as follows: “The adjusted net minimum tax for the taxable year shall be increased by the amount of the credit not allowed under section 30 solely by reason of the application of section 30(b)(3)(B).”
 
 Subsec. (d)(1)(B)(iii)(II). Pub. L. 111–5, §1142(b)(4)(B), struck out “increased in the manner provided in clause (iii)” before period.
 
 Subsec. (d)(1)(B)(iv). Pub. L. 111–5, §1142(b)(4)(A), redesignated cl. (iv) as (iii).
 
-2008—Subsec. (e)(2). Pub. L. 110–343, §103(a), reenacted heading without change and amended text generally. Prior to amendment, par. (2) defined “AMT refundable credit amount” and provided for phaseout of AMT refundable credit amount based on adjusted gross income.
+<b>2008</b>—Subsec. (e)(2). Pub. L. 110–343, §103(a), reenacted heading without change and amended text generally. Prior to amendment, par. (2) defined “AMT refundable credit amount” and provided for phaseout of AMT refundable credit amount based on adjusted gross income.
 
 Subsec. (f). Pub. L. 110–343, §103(b), added subsec. (f).
 
-2007—Subsec. (e)(2)(A). Pub. L. 110–172 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘AMT refundable credit amount’ means, with respect to any taxable year, the amount equal to the greater of—
+<b>2007</b>—Subsec. (e)(2)(A). Pub. L. 110–172 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘AMT refundable credit amount’ means, with respect to any taxable year, the amount equal to the greater of—
 
 &emsp;“(i) the lesser of—
 
@@ -130,27 +130,27 @@ Subsec. (f). Pub. L. 110–343, §103(b), added subsec. (f).
 
 &emsp;“(ii) 20 percent of the amount of such credit.”
 
-2006—Subsec. (e). Pub. L. 109–432 added subsec. (e).
+<b>2006</b>—Subsec. (e). Pub. L. 109–432 added subsec. (e).
 
-2005—Subsec. (d)(1)(B)(iii). Pub. L. 109–58 struck out “under section 29 (relating to credit for producing fuel from a nonconventional source) solely by reason of the application of section 29(b)(6)(B), or not allowed” before “under section 30”.
+<b>2005</b>—Subsec. (d)(1)(B)(iii). Pub. L. 109–58 struck out “under section 29 (relating to credit for producing fuel from a nonconventional source) solely by reason of the application of section 29(b)(6)(B), or not allowed” before “under section 30”.
 
-2004—Subsec. (d)(1)(B)(i)(II). Pub. L. 108–357 struck out “and if section 59(a)(2) did not apply” before period at end.
+<b>2004</b>—Subsec. (d)(1)(B)(i)(II). Pub. L. 108–357 struck out “and if section 59(a)(2) did not apply” before period at end.
 
-1996—Subsec. (d)(1)(B)(iii). Pub. L. 104–188, §1205(d)(5)(A), which directed that cl. (iii) be amended by striking out “or not allowed under section 28 solely by reason of the application of section 28(d)(2)(B),” was executed by striking out “not allowed under section 28 solely by reason of the application of section 28(d)(2)(B),” after “29(b)(6)(B),”, to reflect the probable intent of Congress.
+<b>1996</b>—Subsec. (d)(1)(B)(iii). Pub. L. 104–188, §1205(d)(5)(A), which directed that cl. (iii) be amended by striking out “or not allowed under section 28 solely by reason of the application of section 28(d)(2)(B),” was executed by striking out “not allowed under section 28 solely by reason of the application of section 28(d)(2)(B),” after “29(b)(6)(B),”, to reflect the probable intent of Congress.
 
 Subsec. (d)(1)(B)(iv)(II). Pub. L. 104–188, §1704(j)(1), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “the adjusted net minimum tax for any taxable year is the amount of the net minimum tax for such year increased by the amount of any credit not allowed under section 29 solely by reason of the application of section 29(b)(5)(B) or not allowed under section 28 solely by reason of the application of section 28(d)(2)(B).”
 
 Pub. L. 104–188, §1205(d)(5)(B), which directed that subcl. (II) be amended by striking out “or not allowed under section 28 solely by reason of the application of section 28(d)(2)(B)”, could not be executed because the phrase sought to be struck out did not appear in text subsequent to the general amendment of subcl. (II) by Pub. L. 104–188, §1704(j)(1), see above, which, pursuant to section 1701 of Pub. L. 104–188, set out as a note under section 1 of this title, is treated as having been enacted before section 1205(d)(5)(B) of Pub. L. 104–188.
 
-1993—Subsec. (d)(1)(B)(ii)(II). Pub. L. 103–66, §13171(c), substituted “(5), and (7)” for “(5), (6), and (8)”.
+<b>1993</b>—Subsec. (d)(1)(B)(ii)(II). Pub. L. 103–66, §13171(c), substituted “(5), and (7)” for “(5), (6), and (8)”.
 
 Pub. L. 103–66, §13113(b)(2), substituted “(6), and (8)” for “and (6)”.
 
-1992—Subsec. (d)(1)(B)(iii). Pub. L. 102–486, §1913(b)(2)(C)(i), substituted “section 29(b)(6)(B),” for “section 29(b)(5)(B) or”.
+<b>1992</b>—Subsec. (d)(1)(B)(iii). Pub. L. 102–486, §1913(b)(2)(C)(i), substituted “section 29(b)(6)(B),” for “section 29(b)(5)(B) or”.
 
 Pub. L. 102–486, §1913(b)(2)(C)(ii), inserted before period at end “, or not allowed under section 30 solely by reason of the application of section 30(b)(3)(B)”.
 
-1989—Subsec. (d)(1)(B)(i)(II). Pub. L. 101–239, §7811(d)(2), inserted before period at end “and if section 59(a)(2) did not apply”.
+<b>1989</b>—Subsec. (d)(1)(B)(i)(II). Pub. L. 101–239, §7811(d)(2), inserted before period at end “and if section 59(a)(2) did not apply”.
 
 Subsec. (d)(1)(B)(ii). Pub. L. 101–239, §7612(a)(2), substituted “subsection (b)(1)” for “subsections (b)(1) and (c)(3)” in subcl. (I) and struck out at end “In the case of taxable years beginning after 1989, the adjustments provided in section 56(g) shall be treated as specified in this clause to the extent attributable to items which are excluded from gross income for any taxable year for purposes of the regular tax, or are not deductible for any taxable year under the adjusted current earnings method of section 56(g).”
 
@@ -160,7 +160,7 @@ Subsec. (d)(1)(B)(iv). Pub. L. 101–239, §7612(b)(1), which directed amendment
 
 Pub. L. 101–239, §7612(a)(1), added cl. (iv).
 
-1988—Subsec. (d)(1)(B)(ii). Pub. L. 100–647, §1007(g)(4), substituted “current earnings” for “earnings and profits” in last sentence.
+<b>1988</b>—Subsec. (d)(1)(B)(ii). Pub. L. 100–647, §1007(g)(4), substituted “current earnings” for “earnings and profits” in last sentence.
 
 Subsec. (d)(1)(B)(iii). Pub. L. 100–647, §6304(a), added cl. (iii).
 
@@ -182,7 +182,7 @@ Abatement.—Section 53(f)(1), as added by subsection (b), shall take effect on 
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–172, §2(b), Dec. 29, 2007, 121 Stat. 2474, provided that: “The amendment made by this section\[amending this section\] shall take effect as if included in the provision of the Tax Relief and Health Care Act of 2006 \[Pub. L. 109–432\] to which it relates.”
+Pub. L. 110–172, §2(b), Dec. 29, 2007, 121 Stat. 2474, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the provision of the Tax Relief and Health Care Act of 2006 \[Pub. L. 109–432\] to which it relates.”
 
 #### Effective Date of 2006 Amendment
 

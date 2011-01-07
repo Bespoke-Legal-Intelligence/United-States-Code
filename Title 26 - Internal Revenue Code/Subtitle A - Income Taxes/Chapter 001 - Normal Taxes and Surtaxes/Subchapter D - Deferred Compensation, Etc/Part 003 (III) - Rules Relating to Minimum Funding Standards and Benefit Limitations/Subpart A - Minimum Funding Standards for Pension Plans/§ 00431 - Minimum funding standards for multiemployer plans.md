@@ -108,6 +108,88 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 &emsp;&emsp;To the extent that any plan amendment increases the unfunded past service liability under the plan by reason of an increase in benefits which are not payable as a life annuity but are payable under the terms of the plan for a period that does not exceed 14 years from the effective date of the amendment, paragraph (2)(B)(ii) shall be applied separately with respect to such increase in unfunded past service liability by substituting the number of years of the period during which such benefits are payable for “15”.
 
+#### (8) Special relief rules
+
+&emsp;Notwithstanding any other provision of this subsection—
+
+#### (A) Amortization of net investment losses
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;A multiemployer plan with respect to which the solvency test under subparagraph (C) is met may treat the portion of any experience loss or gain attributable to net investment losses incurred in either or both of the first two plan years ending after August 31, 2008, as an item separate from other experience losses, to be amortized in equal annual installments (until fully amortized) over the period—
+
+&emsp;&emsp;&emsp;&emsp;(I) beginning with the plan year in which such portion is first recognized in the actuarial value of assets, and
+
+&emsp;&emsp;&emsp;&emsp;(II) ending with the last plan year in the 30-plan year period beginning with the plan year in which such net investment loss was incurred.
+
+#### (ii) Coordination with extensions
+
+&emsp;&emsp;&emsp;If this subparagraph applies for any plan year—
+
+&emsp;&emsp;&emsp;&emsp;(I) no extension of the amortization period under clause (i) shall be allowed under subsection (d), and
+
+&emsp;&emsp;&emsp;&emsp;(II) if an extension was granted under subsection (d) for any plan year before the election to have this subparagraph apply to the plan year, such extension shall not result in such amortization period exceeding 30 years.
+
+#### (iii) Net investment losses
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph—
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Net investment losses shall be determined in the manner prescribed by the Secretary on the basis of the difference between actual and expected returns (including any difference attributable to any criminally fraudulent investment arrangement).
+
+#### (II) Criminally fraudulent investment arrangements
+
+&emsp;&emsp;&emsp;&emsp;The determination as to whether an arrangement is a criminally fraudulent investment arrangement shall be made under rules substantially similar to the rules prescribed by the Secretary for purposes of section 165.
+
+#### (B) Expanded smoothing period
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;A multiemployer plan with respect to which the solvency test under subparagraph (C) is met may change its asset valuation method in a manner which—
+
+&emsp;&emsp;&emsp;&emsp;(I) spreads the difference between expected and actual returns for either or both of the first 2 plan years ending after August 31, 2008, over a period of not more than 10 years,
+
+&emsp;&emsp;&emsp;&emsp;(II) provides that for either or both of the first 2 plan years beginning after August 31, 2008, the value of plan assets at any time shall not be less than 80 percent or greater than 130 percent of the fair market value of such assets at such time, or
+
+&emsp;&emsp;&emsp;&emsp;(III) makes both changes described in subclauses (I) and (II) to such method.
+
+#### (ii) Asset valuation methods
+
+&emsp;&emsp;&emsp;If this subparagraph applies for any plan year—
+
+&emsp;&emsp;&emsp;&emsp;(I) the Secretary shall not treat the asset valuation method of the plan as unreasonable solely because of the changes in such method described in clause (i), and
+
+&emsp;&emsp;&emsp;&emsp;(II) such changes shall be deemed approved by the Secretary under section 302(d)(1) of the Employee Retirement Income Security Act of 1974 and section 412(d)(1).
+
+#### (iii) Amortization of reduction in unfunded accrued liability
+
+&emsp;&emsp;&emsp;If this subparagraph and subparagraph (A) both apply for any plan year, the plan shall treat any reduction in unfunded accrued liability resulting from the application of this subparagraph as a separate experience amortization base, to be amortized in equal annual installments (until fully amortized) over a period of 30 plan years rather than the period such liability would otherwise be amortized over.
+
+#### (C) Solvency test
+
+&emsp;&emsp;The solvency test under this paragraph is met only if the plan actuary certifies that the plan is projected to have sufficient assets to timely pay expected benefits and anticipated expenditures over the amortization period, taking into account the changes in the funding standard account under this paragraph.
+
+#### (D) Restriction on benefit increases
+
+&emsp;&emsp;If subparagraph (A) or (B) apply to a multiemployer plan for any plan year, then, in addition to any other applicable restrictions on benefit increases, a plan amendment increasing benefits may not go into effect during either of the 2 plan years immediately following such plan year unless—
+
+&emsp;&emsp;&emsp;(i) the plan actuary certifies that—
+
+&emsp;&emsp;&emsp;&emsp;(I) any such increase is paid for out of additional contributions not allocated to the plan immediately before the application of this paragraph to the plan, and
+
+&emsp;&emsp;&emsp;&emsp;(II) the plan's funded percentage and projected credit balances for such 2 plan years are reasonably expected to be at least as high as such percentage and balances would have been if the benefit increase had not been adopted, or
+
+&emsp;&emsp;&emsp;(ii) the amendment is required as a condition of qualification under part I of subchapter D or to comply with other applicable law.
+
+#### (E) Reporting
+
+&emsp;&emsp;A plan sponsor of a plan to which this paragraph applies shall—
+
+&emsp;&emsp;&emsp;(i) give notice of such application to participants and beneficiaries of the plan, and
+
+&emsp;&emsp;&emsp;(ii) inform the Pension Benefit Guaranty Corporation of such application in such form and manner as the Director of the Pension Benefit Guaranty Corporation may prescribe.
+
 #### (c) Additional rules
 
 #### (1) Determinations to be made under funding method
@@ -262,13 +344,13 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this section, a determination of experience gains and losses and a valuation of the plan's liability shall be made not less frequently than once every year, except that such determination shall be made more frequently to the extent required in particular cases under regulations prescribed by the Secretary.
+&emsp;&emsp;For purposes of this section, a determination of experience gains and losses and a valuation of the plan's liability shall be made not less frequently than once everyyear, except that such determination shall be made more frequently to the extent required in particular cases under regulations prescribed by the Secretary.
 
 #### (B) Valuation date
 
 #### (i) Current year
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the valuation referred to in subparagraph (A)shall be made as of a date within the plan year to which the valuation refers or within one month prior to the beginning of such year.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the valuation referred to in subparagraph (A) shall be made as of a date within the plan year to which the valuation refers or within one month prior to the beginning of such year.
 
 #### (ii) Use of prior year valuation
 
@@ -342,21 +424,37 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall, before granting an extension under this subsection, require each applicant to provide evidence satisfactory to such Secretary that the applicant has provided notice of the filing of the application for such extension to each affected party (asdefined in section 4001(a)(21) of the Employee Retirement Income Security Act of 1974) with respect to the affected plan. Such notice shall include a description of the extent to which the plan is funded for benefits which are guaranteed under title IV of such Act and for benefit liabilities.
+&emsp;&emsp;The Secretary shall, before granting an extension under this subsection, require each applicant to provide evidence satisfactory to such Secretary that the applicant has provided notice of the filing of the application for such extension to each affected party (as defined in section 4001(a)(21) of the Employee Retirement Income Security Act of 1974) with respect to the affected plan. Such notice shall include a description of the extent to which the plan is funded for benefits which are guaranteed under title IV of such Act and for benefit liabilities.
 
 #### (B) Consideration of relevant information
 
 &emsp;&emsp;The Secretary shall consider any relevant information provided by a person to whom notice was given under paragraph (1).
 
-(Added Pub. L. 109–280, title II, §211(a), Aug. 17, 2006, 120 Stat. 890.)
+(Added Pub. L. 109–280, title II, §211(a), Aug. 17, 2006, 120 Stat. 890; amended Pub. L. 111–192, title II, §211(a)(2), June 25, 2010, 124 Stat. 1304.)
 
 #### References in Text
 
-The Employee Retirement Income Security Act of 1974, referred to in subsecs. (a)(2), (b)(7)(A)–(D), and (d)(3)(A), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29, Labor. Part 1 of subtitle E of title IV of the Act is classified generally to part 1 (§1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29. Sections 4001, 4222, 4223, and 4243 of the Act are classified to sections 1301, 1402, 1403, and 1423, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (a)(2), (b)(7)(A) to (D), (8)(B)(ii)(II), and (d)(3)(A), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29, Labor. Part 1 of subtitle E of title IV of the Act is classified generally to part 1 (§1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29. Sections 302, 4001, 4222, 4223, and 4243 of the Act are classified to sections 1082, 1301, 1402, 1403, and 1423, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The date of the enactment of the Pension Protection Act of 2006, referred to in subsec. (b)(2)(D), (E), (3)(D), (4), (7)(E), is the date of enactment of Pub. L. 109–280, which was approved Aug. 17, 2006.
 
-The Social Security Act, referred to in subsec. (c)(4)(A), (6)(D)(v)(II), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(4)(A), (6)(D)(v)(II), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (b)(8). Pub. L. 111–192 added par. (8).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–192, title II, §211(b), June 25, 2010, 124 Stat. 1306, provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[amending this section and section 1084 of Title 29, Labor\] shall take effect as of the first day of the first plan year ending after August 31, 2008, except that any election a plan makes pursuant to this section that affects the plan's funding standard account for the first plan year beginning after August 31, 2008, shall be disregarded for purposes of applying the provisions of section 305 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1085\] and section 432 of the Internal Revenue Code of 1986 to such plan year.
+
+“(2)
+
+Restrictions on benefit increases.—Notwithstanding paragraph (1), the restrictions on plan amendments increasing benefits in sections 304(b)(8)(D) of such Act \[29 U.S.C. 1084(b)(8)(D)\] and 431(b)(8)(D) of such Code, as added by this section, shall take effect on the date of enactment of this Act \[June 25, 2010\].”
 
 #### Effective Date
 

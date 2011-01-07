@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(iii) the contractor or subcontractor asserting the restriction is notified of such release, disclosure, or use.
 
-&emsp;(E) In the case of an item or process that is developed in part with Federal funds and in part at private expense, the respective rights of the United States and of the contractor or subcontractor in technical data pertaining to such item or process shall be established as early in the acquisition process as practicable (preferably during contract negotiations) and shall be based upon negotiations between the United States and the contractor, except in any case in which the Secretary of Defense determines, on the basis of criteria established in the regulations, that negotiations would not be practicable. The establishment of such rights shall be based upon consideration of all of the following factors:
+&emsp;(E) In the case of an item or process that is developed in part with Federal funds and in part at private expense, the respective rights of the United States and of the contractor or subcontractor in technical data pertaining to such item or process shall be established as early in the acquisition process as practicable (preferably during contract negotiations) and shall be based upon negotiations between the United States and the contractor, except in any case in which the Secretary of Defense determines, on the basis of criteria established in the regulations, that negotiations would not be practicable. The establishment of suchrights shall be based upon consideration of all of the following factors:
 
 &emsp;&emsp;(i) The statement of congressional policy and objectives in section 200 of title 35, the statement of purposes in section 2(b) of the Small Business Innovation Development Act of 1982 (15 U.S.C. 638 note), and the declaration of policy in section 2 of the Small Business Act (15 U.S.C. 631).
 
@@ -48,9 +48,11 @@
 
 &emsp;&emsp;(i) to sell or otherwise relinquish to the United States any rights in technical data except—
 
-&emsp;&emsp;&emsp;(I) rights in technical data described in subparagraph (C); or
+&emsp;&emsp;&emsp;(I) rights in technical data described in subparagraph (A) for which a use or release restriction has been erroneously asserted by a contractor or subcontractor;
 
-&emsp;&emsp;&emsp;(II) under the conditions described in subparagraph (D); or
+&emsp;&emsp;&emsp;(II) rights in technical data described in subparagraph (C); or
+
+&emsp;&emsp;&emsp;(III) under the conditions described in subparagraph (D); or
 
 &emsp;&emsp;(ii) to refrain from offering to use, or from using, an item or process to which the contractor is entitled to restrict rights in data under subparagraph (B).
 
@@ -62,7 +64,7 @@
 
 &emsp;&emsp;(iii) permit a contractor or subcontractor to license directly to a third party the use of technical data which the contractor is otherwise allowed to restrict, if necessary to develop alternative sources of supply and manufacture.
 
-(3) The Secretary of Defense shall define the terms “developed”, “exclusively with Federal funds”, and “exclusively at private expense” in regulations prescribed under paragraph (1). In defining such terms, the Secretary shall specify the manner in which indirect costs shall be treated and shall specify that amounts spent for independent research and development and bid and proposal costs shall not be considered to be Federal funds for the purposes of definitions under this paragraph.
+(3) The Secretary of Defense shall define the terms “developed”, “exclusively with Federal funds”, and “exclusively at private expense” in regulations prescribed under paragraph (1). In defining such terms, the Secretary shall specify the manner in which indirect costs shall be treated and shall specify that amounts spent for independent research and development and bid and proposal costs shall not be considered to be Federal funds for the purposes of paragraph (2)(B), but shall be considered to be Federal funds for the purposes of paragraph (2)(A).
 
 (b) Regulations prescribed under subsection (a) shall require that, whenever practicable, a contract for supplies or services entered into by an agency named in section 2303 of this title contain appropriate provisions relating to technical data, including provisions—
 
@@ -86,7 +88,11 @@
 
 &emsp;(1) prescribing standards for determining whether a contract entered into by the Department of Defense shall provide for a time to be specified in the contract after which the United States shall have the right to use (or have used) for any purpose of the United States all technical data required to be delivered to the United States under the contract or providing for such a period of time (not to exceed 7 years) as a negotiation objective;
 
-&emsp;(2) notwithstanding any limitation upon the license rights conveyed under subsection (a), allowing a covered Government support contractor access to and use of any technical data delivered under a contract for the sole purpose of furnishing independent and impartial advice or technical assistance directly to the Government in support of the Government's management and oversight of the program or effort to which such technical data relates; or
+&emsp;(2) notwithstanding any limitation upon the license rights conveyed under subsection (a)—
+
+&emsp;&emsp;(A) allowing a covered Government support contractor access to and use of any technical data delivered under a contract for the sole purpose of furnishing independentand impartial advice or technical assistance directly to the Government in support of the Government's management and oversight of the program or effort to which such technical data relates; or
+
+&emsp;&emsp;(B) allowing a covered litigation support contractor access to and use of any technical, proprietary, or confidential data delivered under a contract for the sole purpose of providing litigation support to the Government in the form of administrative, technical, or professional services during or in anticipation of litigation; or
 
 &emsp;(3) prescribing reasonable and flexible guidelines, including negotiation objectives, for the conduct of negotiations regarding the respective rights in technical data of the United States and the contractor.
 
@@ -120,9 +126,17 @@
 
 &emsp;&emsp;&emsp;(ii) to civil actions for damages and other appropriate remedies by the contractor or subcontractor whose technical data is affected by the breach; and
 
-&emsp;&emsp;(E) that such technical data provided to the covered Government support contractorunder the authority of this section shall not be used by the covered Government support contractor to compete against the third party for Government or non-Government contracts.
+&emsp;&emsp;(E) that such technical data provided to the covered Government support contractor under the authority of this section shall not be used by the covered Government support contractor to compete against the third party for Government or non-Government contracts.
 
-(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2595; amended Pub. L. 98–577, title III, §301(b), Oct. 30, 1984, 98 Stat. 3076; Pub. L. 99–145, title IX, §961(d)(1), Nov. 8, 1985, 99 Stat. 703; Pub. L. 99–500, §101(c) \[title X, §953(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, and Pub. L. 99–591, §101(c) \[title X, §953(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(a), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(a)(4), Apr. 21, 1987, 101 Stat. 275; Pub. L. 100–180, div. A, title VIII, §808(a), (b), Dec. 4, 1987, 101 Stat. 1128, 1130; Pub. L. 101–189, div. A, title VIII, §853(b)(2), Nov. 29, 1989, 103 Stat. 1518; Pub. L. 103–355, title VIII, §8106(a), Oct. 13, 1994, 108 Stat. 3393; Pub. L. 108–136, div. A, title VIII, §844, Nov. 24, 2003, 117 Stat. 1553; Pub. L. 109–364, div. A, title VIII, §802(a), Oct. 17, 2006, 120 Stat. 2312; Pub. L. 111–84, div. A, title VIII, §821, Oct. 28, 2009, 123 Stat. 2411.)
+(g) In this section, the term “covered litigation support contractor” means a contractor (including an expert or technical consultant) under contract with the Department of Defense to provide litigation support, which contractor executes a contract with the Government agreeing to and acknowledging—
+
+&emsp;(1) that proprietary or nonpublic technical data furnished will be accessed and used only for the purposes stated in that contract;
+
+&emsp;(2) that the covered litigation support contractor will take all reasonable steps to protect the proprietary and nonpublic nature of the technical data furnished to the covered litigation support contractor; and
+
+&emsp;(3) that such technical data provided to the covered litigation support contractor under the authority of this section shall not be used by the covered litigation support contractor to compete against the third party for Government or non-Government contracts.
+
+(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2595; amended Pub. L. 98–577, title III, §301(b), Oct. 30, 1984, 98 Stat. 3076; Pub. L. 99–145, title IX, §961(d)(1), Nov. 8, 1985, 99 Stat. 703; Pub. L. 99–500, §101(c) \[title X, §953(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, and Pub. L. 99–591, §101(c) \[title X, §953(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(a), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(a)(4), Apr. 21, 1987, 101 Stat. 275; Pub. L. 100–180, div. A, title VIII, §808(a), (b), Dec. 4, 1987, 101 Stat. 1128, 1130; Pub. L. 101–189, div. A, title VIII, §853(b)(2), Nov. 29, 1989, 103 Stat. 1518; Pub. L. 103–355, title VIII, §8106(a), Oct. 13, 1994, 108 Stat. 3393; Pub. L. 108–136, div. A, title VIII, §844, Nov. 24, 2003, 117 Stat. 1553; Pub. L. 109–364, div. A, title VIII, §802(a), Oct. 17, 2006, 120 Stat. 2312; Pub. L. 111–84, div. A, title VIII, §821, Oct. 28, 2009, 123 Stat. 2411; Pub. L. 111–383, div. A, title VIII, §§801(a), 824(b), Jan. 7, 2011, 124 Stat. 4253, 4269.)
 
 #### Codification
 
@@ -130,19 +144,27 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-2009—Subsec. (c)(2), (3). Pub. L. 111–84, §821(a), added par. (2) and redesignated former par. (2) as (3).
+<b>2011</b>—Subsec. (a)(2)(F)(i). Pub. L. 111–383, §824(b)(1), added subcl. (I) and redesignated former subcls. (I) and (II) as (II) and (III), respectively.
+
+Subsec. (a)(3). Pub. L. 111–383, §824(b)(2), substituted “for the purposes of paragraph (2)(B), but shall be considered to be Federal funds for the purposes of paragraph (2)(A)” for “for the purposes of definitions under this paragraph”.
+
+Subsec. (c)(2). Pub. L. 111–383, §801(a)(1), substituted “subsection (a)—” for “subsection (a),”, inserted “(A)” before “allowing”, and added subpar. (B).
+
+Subsec. (g). Pub. L. 111–383, §801(a)(2), added subsec. (g).
+
+<b>2009</b>—Subsec. (c)(2), (3). Pub. L. 111–84, §821(a), added par. (2) and redesignated former par. (2) as (3).
 
 Subsec. (f). Pub. L. 111–84, §821(b), added subsec. (f).
 
-2006—Subsec. (e). Pub. L. 109–364 added subsec. (e).
+<b>2006</b>—Subsec. (e). Pub. L. 109–364 added subsec. (e).
 
-2003—Subsec. (b)(7) to (9). Pub. L. 108–136 redesignated pars. (8) and (9) as (7) and (8), respectively, and struck out former par. (7) which read as follows: “requiring the contractor to furnish written assurance at the time the technical data is delivered or is made available that the technical data is complete and accurate and satisfies the requirements of the contract concerning technical data;”.
+<b>2003</b>—Subsec. (b)(7) to (9). Pub. L. 108–136 redesignated pars. (8) and (9) as (7) and (8), respectively, and struck out former par. (7) which read as follows: “requiring the contractor to furnish written assurance at the time the technical data is delivered or is made available that the technical data is complete and accurate and satisfies the requirements of the contract concerning technical data;”.
 
-1994—Subsec. (b)(1). Pub. L. 103–355 inserted before semicolon at end “and providing that, in the case of a contract for a commercial item, the item shall be presumed to be developed at private expense unless shown otherwise in accordance with section 2321(f)”.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–355 inserted before semicolon at end “and providing that, in the case of a contract for a commercial item, the item shall be presumed to be developed at private expense unless shown otherwise in accordance with section 2321(f)”.
 
-1989—Subsec. (a)(4). Pub. L. 101–189 struck out par. (4) which provided that for purposes of this subsection, the term “Federal Acquisition Regulation” means the single system of Government-wide procurement regulations as defined in section 4(4) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(4)).
+<b>1989</b>—Subsec. (a)(4). Pub. L. 101–189 struck out par. (4) which provided that for purposes of this subsection, the term “Federal Acquisition Regulation” means the single system of Government-wide procurement regulations as defined in section 4(4) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(4)).
 
-1987—Subsec. (a)(1). Pub. L. 100–180, §808(a)(1), inserted at end “Such regulations also may not impair the right of a contractor or subcontractor to receive from a third party a fee or royalty for the use of technical data pertaining to an item or process developed exclusively at private expense by the contractor or subcontractor, except as otherwise specifically provided by law.”
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–180, §808(a)(1), inserted at end “Such regulations also may not impair the right of a contractor or subcontractor to receive from a third party a fee or royalty for the use of technical data pertaining to an item or process developed exclusively at private expense by the contractor or subcontractor, except as otherwise specifically provided by law.”
 
 Subsec. (a)(2)(A). Pub. L. 100–26, §7(a)(4)(A), inserted “(other than an item or process developed under a contract or subcontract to which regulations under section 9(j)(2) of the Small Business Act (15 U.S.C. 638(j)(2)) apply)” after “Federal funds”.
 
@@ -166,15 +188,19 @@ Subsec. (a)(3). Pub. L. 100–180, §808(a)(5), substituted “, ‘exclusively
 
 Subsec. (c). Pub. L. 100–180, §808(b), substituted “from—” for “from”, designated existing provisions beginning with “prescribing standards” as par. (1), and added par. (2).
 
-1986—Subsec. (a). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended generally subsec. (a) substantially identically, substituting provision that regulations to define the legitimate interest of the United States and of a contractor or subcontractor in technical data be included in regulations of the Department of Defense prescribed as part of the Federal Acquisition Regulation for provision that such regulations define the legitimate proprietary interest of the United States and a contractor and be part of the single system of Government-wide procurement regulations, detailed what such regulations must contain if the item or process is developed exclusively with Federal funds, exclusively with private funds, or partly with Federal funds and partly with private funds, inserted provision relating to relinquishment of rights in data to the United States, directed the Secretary of Defense to define “developed” and “private expense”, and defined “Federal Acquisition Regulation”. Text reflects amendment by Pub. L. 99–661, which was executed last.
+<b>1986</b>—Subsec. (a). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended generally subsec. (a) substantially identically, substituting provision that regulations to define the legitimate interest of the United States and of a contractor or subcontractor in technical data be included in regulations of the Department of Defense prescribed as part of the Federal Acquisition Regulation for provision that such regulations define the legitimate proprietary interest of the United States and a contractor and be part of the single system of Government-wide procurement regulations, detailed what such regulations must contain if the item or process is developed exclusively with Federal funds, exclusively with private funds, or partly with Federal funds and partly with private funds, inserted provision relating to relinquishment of rights in data to the United States, directed the Secretary of Defense to define “developed” and “private expense”, and defined “Federal Acquisition Regulation”. Text reflects amendment by Pub. L. 99–661, which was executed last.
 
-1985—Subsec. (a)(1). Pub. L. 99–145 substituted “the item or process to which the technical data pertains” for “the technical data”.
+<b>1985</b>—Subsec. (a)(1). Pub. L. 99–145 substituted “the item or process to which the technical data pertains” for “the technical data”.
 
-1984—Subsec. (a). Pub. L. 98–577 substituted “in regulations of the Department of Defense prescribed as part” for “in regulations prescribed as part” in text preceding par. (1).
+<b>1984</b>—Subsec. (a). Pub. L. 98–577 substituted “in regulations of the Department of Defense prescribed as part” for “in regulations prescribed as part” in text preceding par. (1).
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–383, div. A, title VIII, §801(b), Jan. 7, 2011, 124 Stat. 4254, provided that: “The amendments madeby subsection (a) \[amending this section\] shall take effect on the date that is 120 days after the date of the enactment of this Act \[Jan. 7, 2011\].”
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -198,9 +224,17 @@ Pub. L. 109–364, div. A, title VIII, §802(c), Oct. 17, 2006, 120 Stat. 2313, 
 
 Section 101(c) \[title X, §953(d)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 953(d) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, required that proposed regulations under subsec. (a)(1) of this section be published in Federal Register for comment not later than 90 days after Oct. 18, 1986, and that proposed final regulations be published in Federal Register not later than 180 days after Oct. 18, 1986.
 
+#### Guidance Relating to Rights in Technical Data
+
+Pub. L. 111–383, div. A, title VIII, §824(a), Jan. 7, 2011, 124 Stat. 4269, provided that: “Not later than 180 days after the date of the enactment of this Act \[Jan. 7, 2011\], the Secretary of Defense shall review guidance issued by the military departments on the implementation of section 2320(e) of title 10, United States Code, to ensure that such guidance is consistent with the guidance issued by the Under Secretary of Defense for Acquisition, Technology, and Logistics and the requirements of this section \[amending this section and section 2321 of this title\]. Such guidance shall be designed to ensure that the United States—
+
+&emsp;“(1) preserves the option of competition for contracts for the production and sustainment of systems or subsystems that are developed exclusively with Federal funds as defined in accordance with the amendments made by this section; and
+
+&emsp;“(2) is not required to pay more than once for the same technical data.”
+
 #### Technical Data Rights Under Non-FAR Agreements
 
-Pub. L. 110–417, \[div. A\], title VIII, §822, Oct. 14, 2008, 122 Stat. 4532, provided that:
+Pub. L. 110–417, \[div. A\], title VIII, §822, Oct. 14, 2008, 122 Stat. 4532, as amended by Pub. L. 111–383, div. A, title X, §1075(e)(13), Jan. 7, 2011, 124 Stat. 4375, provided that:
 
 “(a)
 
@@ -222,7 +256,7 @@ Definitions.—In this section:
 
 &emsp;“(1) The term ‘non-FAR agreement’ means an agreement that is not subject to laws pursuant to which the Federal Acquisition Regulation is prescribed, including—
 
-&emsp;&emsp;“(A) a transaction authorized under section 2371 of this title \[probably means Title 10, United States Code\]; and
+&emsp;&emsp;“(A) a transaction authorized under section 2371 of title 10, United States Code; and
 
 &emsp;&emsp;“(B) a cooperative research and development agreement.
 

@@ -24,7 +24,7 @@ The Social Security Act, referred to in par. (4), is act Aug. 14, 1935, ch. 531,
 
 #### Amendments
 
-1986—Pub. L. 99–509 added par. (6) and last sentence.
+<b>1986</b>—Pub. L. 99–509 added par. (6) and last sentence.
 
 #### Effective Date of 1986 Amendment
 

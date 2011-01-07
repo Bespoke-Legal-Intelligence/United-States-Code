@@ -20,11 +20,11 @@
 
 \[(d) Repealed. Pub. L. 108–136, div. A, title X, §1031(a)(22), Nov. 24, 2003, 117 Stat. 1598.\]
 
-(e) If the Secretary decides that procurement of equipment manufactured outside the United States is necessary to carry out the policy of subsection (a), the Secretary may determine under section 2 of the Buy American Act (41 U.S.C. 10a) that acquiring that equipment manufactured in the United States is inconsistent with the public interest.
+(e) If the Secretary decides that procurement of equipment manufactured outside the United States is necessary to carry out the policy of subsection (a), the Secretary may determine under section 8302 of title 41 that acquiring that equipment manufactured in the United States is inconsistent with the public interest.
 
 (f) The Secretary shall submit the results of each assessment and evaluation made under subsection (a)(1) and (2) to the appropriate North Atlantic Treaty Organization body to become an integral part of the overall Organization review of force goals and development of force plans.
 
-(Added Pub. L. 97–295, §1(30)(A), Oct. 12, 1982, 96 Stat. 1294; amended Pub. L. 101–510, div. A, title XIII, §1311(5), Nov. 5, 1990, 104 Stat. 1670; Pub. L. 104–106, div. A, title XV, §1503(a)(24), Feb. 10, 1996, 110 Stat. 512; Pub. L. 108–136, div. A, title X, §1031(a)(22), Nov. 24, 2003, 117 Stat. 1598.)
+(Added Pub. L. 97–295, §1(30)(A), Oct. 12, 1982, 96 Stat. 1294; amended Pub. L. 101–510, div. A, title XIII, §1311(5), Nov. 5, 1990, 104 Stat. 1670; Pub. L. 104–106, div. A, title XV, §1503(a)(24), Feb. 10, 1996, 110 Stat. 512; Pub. L. 108–136, div. A, title X, §1031(a)(22), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 111–350, §5(b)(33), Jan. 4, 2011, 124 Stat. 3845.)
 
 Historical and Revision Notes
 
@@ -134,9 +134,11 @@ In subsection (f), the words “The Secretary shall submit the results of these 
 
 #### Amendments
 
-2003—Subsec. (d). Pub. L. 108–136 struck out subsec. (d) which related to Secretary's biennial submission of report to Congress.
+<b>2011</b>—Subsec. (e). Pub. L. 111–350 substituted “section 8302 of title 41” for “section 2 of the Buy American Act (41 U.S.C. 10a)”.
 
-1996—Subsec. (e). Pub. L. 104–106 substituted “the Buy American Act (41 U.S.C. 10a)” for “title III of the Act of March 3, 1933 (41 U.S.C. 10a),”.
+<b>2003</b>—Subsec. (d). Pub. L. 108–136 struck out subsec. (d) which related to Secretary's biennial submission of report to Congress.
 
-1990—Subsec. (d). Pub. L. 101–510 substituted “Before February 1, 1989, and biennially thereafter” for “Before February 1 of each year”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–106 substituted “the Buy American Act (41 U.S.C. 10a)” for “title III of the Act of March 3, 1933 (41 U.S.C. 10a),”.
+
+<b>1990</b>—Subsec. (d). Pub. L. 101–510 substituted “Before February 1, 1989, and biennially thereafter” for “Before February 1 of each year”.
 

@@ -98,7 +98,7 @@ The term “Governor” means the chief executive officer of a State.
 
 #### Amendments
 
-2009—Subsec. (d)(2)(D). Pub. L. 111–39 substituted “regulations” for “regulation”.
+<b>2009</b>—Subsec. (d)(2)(D). Pub. L. 111–39 substituted “regulations” for “regulation”.
 
 #### Effective Date of 2009 Amendment
 

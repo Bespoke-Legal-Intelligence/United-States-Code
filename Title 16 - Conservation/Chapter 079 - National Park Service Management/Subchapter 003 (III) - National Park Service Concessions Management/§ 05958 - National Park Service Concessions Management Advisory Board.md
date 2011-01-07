@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established a National Park Service Concessions Management Advisory Board (in this subchapter referred to as the “Advisory Board”) whose purpose shall be to advise the Secretary and National Park Service on matters relating to management of concessions in the National Park System.
+There is hereby established a National Park Service Concessions Management Advisory Board (in this subchapter referred to as the “Advisory Board”) whose purpose shall be to advise the Secretary and National Park Service onmatters relating to management of concessions in the National Park System.
 
 #### (b) Duties
 
@@ -64,7 +64,7 @@ The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–
 
 #### Amendments
 
-2009—Subsec. (d). Pub. L. 111–11 substituted “2009” for “2008”.
+<b>2009</b>—Subsec. (d). Pub. L. 111–11 substituted “2009” for “2008”.
 
 #### Change of Name
 

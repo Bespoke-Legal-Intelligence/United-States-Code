@@ -18,7 +18,7 @@ The Director shall submit to the Congress any report submitted to him under subs
 
 #### Amendments
 
-1999—Subsec. (a)(1). Pub. L. 106–65, §354(5)(A), substituted “The Director may from time to time, but not more frequently than once a year, provide for” for “As soon as practicable after November 1, 1978, the Director shall provide for” and “system. Any such study” for “system, which”.
+<b>1999</b>—Subsec. (a)(1). Pub. L. 106–65, §354(5)(A), substituted “The Director may from time to time, but not more frequently than once a year, provide for” for “As soon as practicable after November 1, 1978, the Director shall provide for” and “system. Any such study” for “system, which”.
 
 Subsec. (a)(2). Pub. L. 106–65, §354(5)(B), substituted “Any study under paragraph (1)” for “The study required by this subsection” and struck out “not later than two years after July 1, 1979,” after “shall submit a report to the Director”.
 
@@ -28,9 +28,9 @@ Subsec. (c). Pub. L. 106–65, §354(5)(D), substituted “any report” for “
 
 Subsec. (d). Pub. L. 106–65, §354(5)(E), struck out subsec. (d) which read as follows: “The Director may provide for additional studies of the defense dependents’ education system to be conducted in accordance with the provisions of this section, but such studies shall not be conducted more frequently than once a year. A report of each study shall be submitted to the Congress in accordance with subsection (c) of this section, and the second sentence of such subsection shall apply with respect to the transmission of each such report.”
 
-1979—Subsec. (a)(2). Pub. L. 96–46 substituted “two years after July 1, 1979” for “one year after July 1, 1979”.
+<b>1979</b>—Subsec. (a)(2). Pub. L. 96–46 substituted “two years after July 1, 1979” for “one year after July 1, 1979”.
 
 #### Effective Date of 1979 Amendment
 
-Section 8 of Pub. L. 96–46 provided that: “The amendments made by this Act \[enacting section 3164 of thistitle, amending this section, sections 240, 241–1, 1211a, 1221–3, 1221h, 1226c, 1232g, 2308, 2310, 2603, 2721, 2733 to 2735, 2740, 2762, 2763, 2772, 2782, 2902, 3084, 3163, 3200, 3289, 3381 to 3386 of this title, and sections 2001, 2002, 2006, 2008, 2012 of Title 25, Indians, enacting a provision set out as a note under section 1221e of this title, and amending provisions set out as notes under sections 236, 1211b, 1221–1, 1231a, and 2701 of this title and section 13 of Title 25\] shall take effect October 1, 1978.”
+Section 8 of Pub. L. 96–46 provided that: “The amendments made by this Act \[enacting section 3164 of this title, amending this section, sections 240, 241–1, 1211a, 1221–3, 1221h, 1226c, 1232g, 2308, 2310, 2603, 2721, 2733 to 2735, 2740, 2762, 2763, 2772, 2782, 2902, 3084, 3163, 3200, 3289, 3381 to 3386 of this title, and sections 2001, 2002, 2006, 2008, 2012 of Title 25, Indians, enacting a provision set out as a note under section 1221e of this title, and amending provisions set out as notes under sections 236, 1211b, 1221–1, 1231a, and 2701 of this title and section 13 of Title 25\] shall take effect October 1, 1978.”
 

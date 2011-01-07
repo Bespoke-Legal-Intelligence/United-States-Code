@@ -50,5 +50,5 @@ For prior sections 3743 of this title, see note set out preceding section 3741 o
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–271 substituted “The Director of the Bureau of Justice Assistance of the Office of Justice Programs may” for “The Attorney General, acting through the Bureau of Justice Assistance, may”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–271 substituted “The Director of the Bureau of Justice Assistance of the Office of Justice Programs may” for “The Attorney General, acting through the Bureau of Justice Assistance, may”.
 

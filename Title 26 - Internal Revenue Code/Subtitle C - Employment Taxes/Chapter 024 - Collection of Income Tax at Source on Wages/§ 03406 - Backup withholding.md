@@ -114,7 +114,7 @@ For purposes of this section—
 
 &emsp;For purposes of this section, there has been payee underreporting if for any taxable year the Secretary determines that—
 
-&emsp;&emsp;(A) the payee failed to include in his return of tax under chapter 1 for such year anyportion of a reportable interest or dividend payment required to be shown on such return, or
+&emsp;&emsp;(A) the payee failed to include in his return of tax under chapter 1 for such year any portion of a reportable interest or dividend payment required to be shown on such return, or
 
 &emsp;&emsp;(B) the payee may be required to file a return for such year and to include a reportable interest or dividend payment in such return, but failed to file such return.
 
@@ -296,7 +296,7 @@ For purposes of this section—
 
 #### (B) Special rule for readily tradable instruments acquired through broker where notification
 
-&emsp;&emsp;In the case of any readily tradable instrument acquired by the payee through abroker, the period described in subparagraph (A) shall start with payments to the payee made after the close of the 30th day after the payor receives notification from a broker under subsection (d)(2)(B).
+&emsp;&emsp;In the case of any readily tradable instrument acquired by the payee through a broker, the period described in subparagraph (A) shall start with payments to the payee made after the close of the 30th day after the payor receives notification from a broker under subsection (d)(2)(B).
 
 #### (5) 30-day grace periods
 
@@ -382,7 +382,7 @@ For purposes of this section—
 
 &emsp;The term “readily tradable instrument” means—
 
-&emsp;&emsp;(A) any instrument which is part of an issue any portion of which is traded on an established securities market (within the meaning of section 453(f)(5)), and
+&emsp;&emsp;(A) any instrument which is part of an issue any portion of which is traded on anestablished securities market (within the meaning of section 453(f)(5)), and
 
 &emsp;&emsp;(B) except as otherwise provided in regulations prescribed by the Secretary, any instrument which is regularly quoted by brokers or dealers making a market.
 
@@ -414,21 +414,21 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-2008—Subsec. (b)(3)(F). Pub. L. 110–289 added subpar. (F).
+<b>2008</b>—Subsec. (b)(3)(F). Pub. L. 110–289 added subpar. (F).
 
-2001—Subsec. (a)(1). Pub. L. 107–16, §§101(c)(10), 901, temporarily substituted “equal to the product of the fourth lowest rate of tax applicable under section 1(c) and such payment” for “equal to 31 percent of such payment” in concluding provisions. See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–16, §§101(c)(10), 901, temporarily substituted “equal to the product of the fourth lowest rate of tax applicable under section 1(c) and such payment” for “equal to 31 percent of such payment” in concluding provisions. See Effective and Termination Dates of 2001 Amendment note below.
 
-1992—Subsec. (a)(1). Pub. L. 102–486, in closing provisions, substituted “31 percent” for “20 percent”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–486, in closing provisions, substituted “31 percent” for “20 percent”.
 
-1988—Subsec. (h)(5)(D). Pub. L. 100–647 inserted period at end of subpar. (D).
+<b>1988</b>—Subsec. (h)(5)(D). Pub. L. 100–647 inserted period at end of subpar. (D).
 
-1986—Subsec. (b)(3)(E). Pub. L. 99–514, §1523(b)(1), added subpar. (E).
+<b>1986</b>—Subsec. (b)(3)(E). Pub. L. 99–514, §1523(b)(1), added subpar. (E).
 
 Subsec. (b)(6). Pub. L. 99–514, §1899A(46), substituted “6041A(a)” for “6041(A)(a)” in heading.
 
 Subsec. (h)(5)(D). Pub. L. 99–514, §1521(b), added subpar. (D).
 
-1984—Subsec. (c)(1). Pub. L. 98–369, §722(h)(2), substituted “(but not the reasons for the withholding under subsection (a)(1)(C))” for “(but not the reasons therefor)”.
+<b>1984</b>—Subsec. (c)(1). Pub. L. 98–369, §722(h)(2), substituted “(but not the reasons for the withholding under subsection (a)(1)(C))” for “(but not the reasons therefor)”.
 
 Subsec. (d)(2)(A). Pub. L. 98–369, §722(h)(1)(A), inserted “the payor was notified by a broker under subparagraph (B) or” after “if (and only if)” in provisions preceding cl. (i), struck out cl. (i) which read as follows: “the payor was notified by a broker under subparagraph (B),” and redesignated cls. (ii) and (iii) as (i) and (ii), respectively.
 
@@ -464,7 +464,7 @@ Eligibility for tin matching program.—Solely for purposes of carrying out any 
 
 Amendment by Pub. L. 107–16 applicable to amounts paid after the 60th day after June 7, 2001, and references to income brackets and rates of tax in such amendment to be applied without regard to section 1(i)(1)(D) of this title, see section 101(d)(2) of Pub. L. 107–16, set out as a note under section 1 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied andadministered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1992 Amendment
 

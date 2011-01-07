@@ -112,3 +112,5 @@ If the Administrator determines under section 7512(b)(2) of this title that the 
 
 For provisions prohibiting Administrator of Environmental Protection Agency from requiring adoption or implementation by State of test-only I/M240 enhanced vehicle inspection and maintenance program as means of compliance with this section, with further provisions relating to plan disapproval and emissions reduction credits, see section 348 of Pub. L. 104–59, set out as a note under section 7511a of this title.
 
+<i><sup>1</sup></i><i> So in original. Subsec. (a)(1) of this section does not contain a subpar. (B).</i>
+

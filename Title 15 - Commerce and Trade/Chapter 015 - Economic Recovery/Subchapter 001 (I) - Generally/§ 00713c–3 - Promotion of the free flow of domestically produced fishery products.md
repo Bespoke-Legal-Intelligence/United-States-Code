@@ -50,7 +50,7 @@ As used in this section—
 
 #### (c) Fisheries research and development projects
 
-(1) The Secretary shall make grants from the fund established under subsection (b) of this section to assist persons in carrying out research and development projects addressed to any aspect of United States fisheries, including, but not limited to, harvesting, processing, marketing, and associated infrastructures.
+(1) The Secretary shall make grants from the fund established under subsection (b) of this section to assist persons in carrying out researchand development projects addressed to any aspect of United States fisheries, including, but not limited to, harvesting, processing, marketing, and associated infrastructures.
 
 (2) The Secretary shall—
 
@@ -116,7 +116,7 @@ As used in this section—
 
 &emsp;(B) the Secretary shall use the balance of the moneys in the fund to finance those activities of the National Marine Fisheries Service which are directly related to development of the United States fisheries pursuant to subsection (d) of this section.
 
-(2) The Secretary shall, consistent with the number of meritorious applications received with respect to any fiscal year, obligate or expend all of the moneys in the fund described in paragraph (1). Any such moneys which are not expended in a given fiscal year shall remain available for expenditure in accordance with this section without fiscal year limitation, except that the Secretary shall not obligate such moneys at a rate less than that necessary toprevent the balance of moneys in the fund from exceeding $3,000,000 at the end of any fiscal year.
+(2) The Secretary shall, consistent with the number of meritorious applications received with respect to any fiscal year, obligate or expend all of the moneys in the fund described in paragraph (1). Any such moneys which are not expended in a given fiscal year shall remain available for expenditure in accordance with this section without fiscal year limitation, except that the Secretary shall not obligate such moneys at a rate less than that necessary to prevent the balance of moneys in the fund from exceeding $3,000,000 at the end of any fiscal year.
 
 (Aug. 11, 1939, ch. 696, §2, 53 Stat. 1412; July 1, 1954, ch. 447, 68 Stat. 376; Aug. 8, 1956, ch. 1036, §12(b), 70 Stat. 1124; Pub. L. 89–348, §1(13), Nov. 8, 1965, 79 Stat. 1311; Pub. L. 96–561, title II, §210, Dec. 22, 1980, 94 Stat. 3287; Pub. L. 97–424, title IV, §423(a), Jan. 6, 1983, 96 Stat. 2164; Pub. L. 99–659, title II, §209(e), Nov. 14, 1986, 100 Stat. 3721; Pub. L. 101–627, title VII, §703, Nov. 28, 1990, 104 Stat. 4463; Pub. L. 102–567, title IX, §902(c), Oct. 29, 1992, 106 Stat. 4319; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–297, title I, §116(c), Oct. 11, 1996, 110 Stat. 3603.)
 
@@ -126,19 +126,19 @@ As used in this section—
 
 #### Amendments
 
-1996—Subsec. (b)(1)(A)(iii). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1863 of title 16.
+<b>1996</b>—Subsec. (b)(1)(A)(iii). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1863 of title 16.
 
 Subsec. (b)(1)(A)(iv). Pub. L. 104–297 added cl. (iv).
 
 Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1861a of title 16.
 
-1992—Subsec. (b)(1)(A). Pub. L. 102–567 struck out “and” at end of cl. (i) and added cl. (iii).
+<b>1992</b>—Subsec. (b)(1)(A). Pub. L. 102–567 struck out “and” at end of cl. (i) and added cl. (iii).
 
-1990—Subsec. (b)(2). Pub. L. 101–627 substituted “each of fiscal years 1990 and 1991” for “fiscal year 1990”.
+<b>1990</b>—Subsec. (b)(2). Pub. L. 101–627 substituted “each of fiscal years 1990 and 1991” for “fiscal year 1990”.
 
-1986—Subsec. (b). Pub. L. 99–659 designated existing provisions as introductory provisions and subpar. (A) of par. (1) and added pars. (1)(B) and (2).
+<b>1986</b>—Subsec. (b). Pub. L. 99–659 designated existing provisions as introductory provisions and subpar. (A) of par. (1) and added pars. (1)(B) and (2).
 
-1983—Subsec. (e). Pub. L. 97–424 amended subsec. (e) generally, which formerly had provided:
+<b>1983</b>—Subsec. (e). Pub. L. 97–424 amended subsec. (e) generally, which formerly had provided:
 
 “(1) With respect to any fiscal year, not less than 50 percent of—
 
@@ -150,7 +150,7 @@ Pub. L. 104–208 made technical amendment to reference in original act which ap
 
 “(2) Moneys accruing to the fund established under subsection (b) of this section for any fiscal year and not expended with respect to that year shall remain available for expenditure under this section without fiscal year limitation.”
 
-1980—Subsec. (a). Pub. L. 96–561, §210(2), (3), added subsec. (a) and redesignated former subsec. (a) as (b).
+<b>1980</b>—Subsec. (a). Pub. L. 96–561, §210(2), (3), added subsec. (a) and redesignated former subsec. (a) as (b).
 
 Subsec. (b). Pub. L. 96–561, §210(1), (2), (4), redesignated subsec. (a) as (b), substituted “transfer to the Secretary” for “transfer to the Secretary of Commerce”, “only for use by the Secretary” for “and used by the Secretary of Commerce”, and provision directing that the fund be used to provide financial assistance for carrying out fisheries research and development projects and to implement the national fisheries research and development program for provision directing that the fund be used to promote free flow of domestically produced fisheries products by conducting a fishery educational service and fishery technological, biological, and related research programs, to acquire, construct, or maintain vessels and other facilities necessary for conducting research, to develop and increase markets for fishery products of domestic origin, and to conduct any biological, technological, or other research pertaining to American fisheries, and struck out former subsec. (b) which authorized any agency or wholly owned government corporation of the United States to transfer to the Secretary of Commerce any vessels or equipment excess to its needs.
 
@@ -160,11 +160,11 @@ Subsec. (d). Pub. L. 96–561, §210(1), (5), added subsec. (d) and struck out f
 
 Subsec. (e). Pub. L. 96–561, §210(1), (5), added subsec. (e) and struck out former subsec. (e) which provided that the special fund created for use of the Secretary of Commerce under subsec. (a) of this section and the annual accruals thereto be available for each year until expended by the Secretary.
 
-1965—Subsec. (f). Pub. L. 89–348 repealed subsec. (f) which required an annual report to the appropriate committees of Congress on the use of the separate fund.
+<b>1965</b>—Subsec. (f). Pub. L. 89–348 repealed subsec. (f) which required an annual report to the appropriate committees of Congress on the use of the separate fund.
 
-1956—Subsec. (e). Act Aug. 8, 1956, struck out provisions which limited expenditures to not more than $3,000,000 in any fiscal year, restricted the balance of the fund to not more than $5,000,000 at the end of any fiscal year, and required the Secretary of the Interior to retransfer funds in excess of the $5,000,000 to the Secretary of Agriculture.
+<b>1956</b>—Subsec. (e). Act Aug. 8, 1956, struck out provisions which limited expenditures to not more than $3,000,000 in any fiscal year, restricted the balance of the fund to not more than $5,000,000 at the end of any fiscal year, and required the Secretary of the Interior to retransfer funds in excess of the $5,000,000 to the Secretary of Agriculture.
 
-1954—Act July 1, 1954, amended section generally, to encourage the distribution of fishery products.
+<b>1954</b>—Act July 1, 1954, amended section generally, to encourage the distribution of fishery products.
 
 #### Effective Date of 1996 Amendment
 
@@ -184,7 +184,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (d)(2) of this
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 ofTitle 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Transfer of Functions
 
@@ -197,4 +197,8 @@ Section 12(a) of act Aug. 8, 1956, provided that: “The authorization for the t
 #### Termination of Advisory Committees
 
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be section “209(a)”.</i>
 

@@ -12,5 +12,5 @@ Words “Except as otherwise provided,” were editorially supplied on authority
 
 #### Short Title
 
-Sections 22 to 24, 26 to 28, 29, 30, 33 to 35, 37, 39 to 43, and 47 of this title are based on sections of the Revised Statutes which are derived from act May 10, 1872, ch. 152, 17 Stat. 91, popularly known as the “General Mining Act of 1872”.
+Sections 22 to 24, 26 to 28, 29, 30, 33 to 35, 37, 39 to 43, and 47 of this title are based on sections of the Revised Statutes which are derived from act May 10, 1872, ch. 152, 17 Stat. 91, popularly known as the “General Mining Act of 1872” and as the “Mining Law of 1872”.
 

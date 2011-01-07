@@ -26,7 +26,7 @@ The State plan shall include—
 
 &emsp;(5) an identification of local areas designated in the State, including a description of the process used for the designation of such areas;
 
-&emsp;(6) an identification of criteria to be used by chief elected officials for the appointment ofmembers of local boards based on the requirements of section 2832 of this title;
+&emsp;(6) an identification of criteria to be used by chief elected officials for the appointment of members of local boards based on the requirements of section 2832 of this title;
 
 &emsp;(7) the detailed plans required under section 8 of the Wagner-Peyser Act (29 U.S.C. 49g);
 
@@ -36,7 +36,7 @@ The State plan shall include—
 
 &emsp;&emsp;(ii) other activities authorized under this chapter;
 
-&emsp;&emsp;(iii) programs authorized under the Wagner-Peyser Act (29 U.S.C. 49 et seq.), title II of this Act \[20 U.S.C. 9201 et seq.\], title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.), part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), and section 6(d)(4) of the Food and Nutrition Act of 2008 (7 U.S.C. 2015(d)(4)), activities authorized under title V of the Older Americans Act of 1965 (42 U.S.C. 3056 et seq.), and career and technical education activities at the postsecondary level authorized under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.);
+&emsp;&emsp;(iii) programs authorized under the Wagner-Peyser Act (29 U.S.C. 49 et seq.), title II of this Act \[20 U.S.C. 9201 et seq.\], title I of the Rehabilitation Act of 1973 (29 U.S.C. 720et seq.), part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), and section 6(d)(4) of the Food and Nutrition Act of 2008 (7 U.S.C. 2015(d)(4)), activities authorized under title V of the Older Americans Act of 1965 (42 U.S.C. 3056 et seq.), and career and technical education activities at the postsecondary level authorized under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.);
 
 &emsp;&emsp;(iv) work programs authorized under section 6(<i>o</i>) of the Food and Nutrition Act of 2008 (7 U.S.C. 2015(<i>o</i>));
 
@@ -142,15 +142,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (b)(8)(A)(iii), (iv). Pub. L. 110–246, §4002(b)(1)(B), (2)(R), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+<b>2008</b>—Subsec. (b)(8)(A)(iii), (iv). Pub. L. 110–246, §4002(b)(1)(B), (2)(R), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
-2006—Subsec. (b)(8)(A)(iii). Pub. L. 109–270 substituted “career and technical education activities at the postsecondary level” for “postsecondary vocational education activities” and “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Applied Technology Education Act”.
+<b>2006</b>—Subsec. (b)(8)(A)(iii). Pub. L. 109–270 substituted “career and technical education activities at the postsecondary level” for “postsecondary vocational education activities” and “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Applied Technology Education Act”.
 
-1998—Subsec. (c)(1). Pub. L. 105–277 substituted “; or” for “; and”.
+<b>1998</b>—Subsec. (c)(1). Pub. L. 105–277 substituted “; or” for “; and”.
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Amendment by section 4002(b)(1)(B), (2)(R) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

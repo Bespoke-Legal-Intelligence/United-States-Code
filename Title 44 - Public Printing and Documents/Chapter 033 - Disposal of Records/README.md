@@ -34,17 +34,15 @@
 
 #### Amendments
 
-2004—Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, substituted “Government Accountability Office” for “General Accounting Office” in item 3309.
+<b>2004</b>—Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, substituted “Government Accountability Office” for “General Accounting Office” in item 3309.
 
-1984—Pub. L. 98–497, title I, §107(b)(25)(D), Oct. 19, 1984, 98 Stat. 2290, substituted “Archivist” for “Administrator of General Services” in items 3303, 3303a, and 3311.
+<b>1984</b>—Pub. L. 98–497, title I, §107(b)(25)(D), Oct. 19, 1984, 98 Stat. 2290, substituted “Archivist” for “Administrator of General Services” in items 3303, 3303a, and 3311.
 
-1976—Pub. L. 94–575, §4(c)(1), Oct. 21, 1976, 90 Stat. 2727, struck out “; approval by President” after “standards for reproduction” in item 3302.
+<b>1976</b>—Pub. L. 94–575, §4(c)(1), Oct. 21, 1976, 90 Stat. 2727, struck out “; approval by President” after “standards for reproduction” in item 3302.
 
-1974—Pub. L. 93–526, title II, §203, Dec. 19, 1974, 88 Stat. 1702, added items 3315 to 3324.
+<b>1974</b>—Pub. L. 93–526, title II, §203, Dec. 19, 1974, 88 Stat. 1702, added items 3315 to 3324.
 
-1970—Pub. L. 91–287, §3, June 23, 1970, 84 Stat. 322, inserted item 3303a and struck out items 3304 “Lists and schedules of records lacking preservation value; submission to Congress by Administrator of General Services”, 3305 “Examination of lists and schedules by joint congressional committee and report to Congress”, 3306 “Disposal of records by head of Government agency upon notification by Administrator of General Services of action by joint congressional committee”, and 3307 “Disposal of records upon failure of joint congressional committee to act”.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<b>1970</b>—Pub. L. 91–287, §3, June 23, 1970, 84 Stat. 322, inserted item 3303a and struck out items 3304 “Lists and schedules of records lacking preservation value; submission to Congress by Administrator of General Services”, 3305 “Examination of lists and schedules by joint congressional committee and report to Congress”, 3306 “Disposal of records by head of Government agency upon notification by Administrator of General Services of action by joint congressional committee”, and 3307 “Disposal of records upon failure of joint congressional committee to act”.
 
 <i><sup>1</sup></i><i> Does not conform to section catchline.</i>
 

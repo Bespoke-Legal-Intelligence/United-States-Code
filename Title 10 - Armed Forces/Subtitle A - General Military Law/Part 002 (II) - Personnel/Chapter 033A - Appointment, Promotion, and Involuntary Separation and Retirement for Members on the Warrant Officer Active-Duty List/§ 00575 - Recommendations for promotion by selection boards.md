@@ -14,23 +14,23 @@
 
 (d) Each time a selection board is convened under section 573(a) of this title to consider warrant officers in a competitive category for promotion to the next higher grade, each warrant officer in the promotion zone, and each warrant officer above the promotion zone, for the grade and competitive category under consideration (except for a warrant officer precluded from consideration under regulations prescribed by the Secretary concerned under section 577 of this title) shall be considered for promotion.
 
-(Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1495; amended Pub. L. 103–337, div. A, title V, §§501(a), 541(b)(3), Oct. 5, 1994, 108 Stat. 2748, 2764; Pub. L. 104–201, div. A, title V, §506(b), Sept. 23, 1996, 110 Stat. 2512; Pub. L. 106–65, div. A, title V, §505, Oct. 5, 1999, 113 Stat. 591; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1495; amended Pub. L.103–337, div. A, title V, §§501(a), 541(b)(3), Oct. 5, 1994, 108 Stat. 2748, 2764; Pub. L. 104–201, div. A, title V, §506(b), Sept. 23, 1996, 110 Stat. 2512; Pub. L. 106–65, div. A, title V, §505, Oct. 5, 1999, 113 Stat. 591; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Amendments
 
-2002—Subsec. (b)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1999—Subsec. (b)(2). Pub. L. 106–65 inserted at end “If the number determined under this subsection with respect to a promotion zone within a grade (or grade and competitive category) is less than one, the board may recommend one such officer for promotion from below the zone within that grade (or grade and competitive category).”
+<b>1999</b>—Subsec. (b)(2). Pub. L. 106–65 inserted at end “If the number determined under this subsection with respect to a promotion zone within a grade (or grade and competitive category) is less than one, the board may recommend one such officer for promotion from below the zone within that grade (or grade and competitive category).”
 
-1996—Subsec. (b)(1). Pub. L. 104–201 inserted “chief warrant officer, W–3,” after “promotion to the grade of” in first sentence.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–201 inserted “chief warrant officer, W–3,” after “promotion to the grade of” in first sentence.
 
-1994—Subsec. (b)(2). Pub. L. 103–337, §541(b)(3), inserted “and the Secretary of Transportation, when the Coast Guard is not operating as a service in the Navy,” after “Secretary of Defense”.
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–337, §541(b)(3), inserted “and the Secretary of Transportation, when the Coast Guard is not operating as a service in the Navy,” after “Secretary of Defense”.
 
 Subsec. (d). Pub. L. 103–337, §501(a), inserted “(except for a warrant officer precluded from consideration under regulations prescribed by the Secretary concerned under section 577 of this title)” after “under consideration”.
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

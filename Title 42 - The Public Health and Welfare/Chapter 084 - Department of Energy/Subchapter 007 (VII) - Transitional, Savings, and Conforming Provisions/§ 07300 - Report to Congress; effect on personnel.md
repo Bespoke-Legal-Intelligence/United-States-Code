@@ -16,6 +16,10 @@ The Civil Service Commission shall, as soon as practicable but not later than on
 
 (Pub. L. 95–91, title VII, §712, Aug. 4, 1977, 91 Stat. 609.)
 
+#### References in Text
+
+This chapter, referred to in introductory provisions and pars. (1) and (2), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+
 #### Transfer of Functions
 
 Functions vested by statute in United States Civil Service Commission transferred to Director of Office of Personnel Management (except as otherwise specified) by Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.

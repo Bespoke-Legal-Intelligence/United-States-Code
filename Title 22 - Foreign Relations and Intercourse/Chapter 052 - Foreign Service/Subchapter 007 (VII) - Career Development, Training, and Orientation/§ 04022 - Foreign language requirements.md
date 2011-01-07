@@ -16,15 +16,15 @@ Not later than January 31 of each year, the Director General of the Foreign Serv
 
 &emsp;(2) were filled by individuals having the required foreign language competence.
 
-(Pub. L. 96–465, title I, §702, Oct. 17, 1980, 94 Stat. 2099; Pub. L. 103–236, title I, §126(3), Apr. 30, 1994, 108 Stat. 394; Pub. L. 106–113, div. B, §1000(a)(7)\[div. A, title II, §208(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–422; Pub. L. 107–228, div. A, title III, §327, Sept. 30, 2002, 116 Stat. 1387.)
+(Pub. L. 96–465, title I, §702, Oct. 17, 1980, 94 Stat. 2099; Pub. L. 103–236, title I, §126(3), Apr. 30, 1994, 108 Stat. 394; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §208(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–422; Pub. L. 107–228, div. A, title III, §327, Sept. 30, 2002, 116 Stat. 1387.)
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–228 substituted “January 31” for “March 31” in introductory provisions and “fiscal year” for “calendar year” in par. (1).
+<b>2002</b>—Subsec. (c). Pub. L. 107–228 substituted “January 31” for “March 31” in introductory provisions and “fiscal year” for “calendar year” in par. (1).
 
-1999—Subsec. (c). Pub. L. 106–113 added subsec. (c).
+<b>1999</b>—Subsec. (c). Pub. L. 106–113 added subsec. (c).
 
-1994—Subsec. (b). Pub. L. 103–236 substituted “institution” for “Institute”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–236 substituted “institution” for “Institute”.
 
 #### Change of Name
 

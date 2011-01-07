@@ -100,7 +100,11 @@ Grant recipients shall be selected on a competitive, merit-reviewed basis.
 
 #### (h) Authorization of appropriations
 
-There is authorized to be appropriated to the Secretary, acting through the Director, to carry out this section $25,000,000 for each of fiscal years 2008 through 2010.
+There is authorized to be appropriated to the Secretary, acting through the Director, to carry out this section $25,000,000 for each of fiscal years 2008 through 2013.
 
-(Pub. L. 110–69, title V, §5006, Aug. 9, 2007, 121 Stat. 615.)
+(Pub. L. 110–69, title V, §5006, Aug. 9, 2007, 121 Stat. 615; Pub. L. 111–358, title IX, §902(c), Jan. 4, 2011, 124 Stat. 4045.)
+
+#### Amendments
+
+<b>2011</b>—Subsec. (h). Pub. L. 111–358 substituted “2013” for “2010”.
 

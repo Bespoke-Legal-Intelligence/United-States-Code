@@ -24,7 +24,7 @@
 
 &emsp;(4) continue the policy of protecting wild free-roaming horses and burros from capture, branding, harassment, or death, while at the same time facilitating the removal and disposal of excess wild free-roaming horses and burros which pose a threat to themselves and their habitat and to other rangeland values;
 
-(c) The policies of this chapter shall become effective only as specific statutory authority for their implementation is enacted by this chapter or by subsequent legislation, and shall be construed as supplemental to and not in derogation of the purposes for which public rangelands are administered under other provisions of law.
+(c) The policies of this chapter shall become effective only as specific statutory authority fortheir implementation is enacted by this chapter or by subsequent legislation, and shall be construed as supplemental to and not in derogation of the purposes for which public rangelands are administered under other provisions of law.
 
 (Pub. L. 95–514, §2, Oct. 25, 1978, 92 Stat. 1803.)
 

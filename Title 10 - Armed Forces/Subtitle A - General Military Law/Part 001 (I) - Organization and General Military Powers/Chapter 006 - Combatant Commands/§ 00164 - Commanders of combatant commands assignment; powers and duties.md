@@ -8,7 +8,7 @@ Assignment as Combatant Commander.—(1) The President may assign an officer to 
 
 &emsp;(B) has completed a full tour of duty in a joint duty assignment (as defined in section 664(f) of this title) as a general or flag officer.
 
-(2) The President may waive paragraph (1) in the case of an officer if the President determinesthat such action is necessary in the national interest.
+(2) The President may waive paragraph (1) in the case of an officer if the President determines that such action is necessary in the national interest.
 
 (b)
 
@@ -48,7 +48,7 @@ Command Authority of Combatant Commanders.—(1) Unless otherwise directed by th
 
 Authority Over Subordinate Commanders.—Unless otherwise directed by the President or the Secretary of Defense—
 
-&emsp;(1) commanders of commands and forces assigned to a combatant command are under the authority, direction, and control of, and are responsible to, the commander of the combatant command on all matters for which the commander of the combatant command has been assigned authority under subsection (c);
+&emsp;(1) commanders of commands and forces assigned to a combatant command are under theauthority, direction, and control of, and are responsible to, the commander of the combatant command on all matters for which the commander of the combatant command has been assigned authority under subsection (c);
 
 &emsp;(2) the commander of a command or force referred to in clause (1) shall communicate with other elements of the Department of Defense on any matter for which the commander of the combatant command has been assigned authority under subsection (c) in accordance with procedures, if any, established by the commander of the combatant command;
 
@@ -94,9 +94,9 @@ Authority to Suspend Subordinates.—In accordance with procedures established b
 
 #### Amendments
 
-2008—Subsec. (e)(4). Pub. L. 110–181 added par. (4).
+<b>2008</b>—Subsec. (e)(4). Pub. L. 110–181 added par. (4).
 
-1988—Subsec. (a)(1)(B). Pub. L. 100–456 substituted “completed a full tour of duty in a joint duty assignment (as defined in section 664(f) of this title)” for “served in at least one joint duty assignment (as defined under section 668(b) of this title)”.
+<b>1988</b>—Subsec. (a)(1)(B). Pub. L. 100–456 substituted “completed a full tour of duty in a joint duty assignment (as defined in section 664(f) of this title)” for “served in at least one joint duty assignment (as defined under section 668(b) of this title)”.
 
 #### Effective Date
 

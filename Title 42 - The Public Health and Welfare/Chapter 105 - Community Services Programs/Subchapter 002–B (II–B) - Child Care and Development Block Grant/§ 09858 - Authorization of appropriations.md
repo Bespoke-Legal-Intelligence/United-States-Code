@@ -6,9 +6,9 @@ There is authorized to be appropriated to carry out this subchapter $1,000,000,0
 
 #### Amendments
 
-1996—Pub. L. 104–193 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this subchapter, $750,000,000 for fiscal year 1991, $825,000,000 for fiscal year 1992, $925,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1994 and 1995.”
+<b>1996</b>—Pub. L. 104–193 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this subchapter, $750,000,000 for fiscal year 1991, $825,000,000 for fiscal year 1992, $925,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1994 and 1995.”
 
-1992—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
+<b>1992</b>—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
 
 #### Effective Date of 1996 Amendment
 

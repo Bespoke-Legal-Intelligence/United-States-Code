@@ -2,7 +2,7 @@
 
 #### (a) Terms and conditions
 
-Except as provided in subsection (b) of this section, permits and leases for domestic livestock grazing on public lands issued by the Secretary under the Act of June 28, 1934 (48 Stat. 1269, as amended; 43 U.S.C. 315 et seq.) or the Act of August 28, 1937 (50 Stat. 874, as amended; 43 U.S.C. 1181a–1181j), or by the Secretary of Agriculture, with respect to lands within National Forests in the sixteen contiguous Western States, shall be for a term of ten years subject to such terms and conditions the Secretary concerned deems appropriate and consistent with the governing law, including, but not limited to, the authority of the Secretary concerned to cancel, suspend, or modify a grazing permit or lease, in whole or in part, pursuant to the terms and conditions thereof, or to cancel or suspend a grazing permit or lease for any violation of a grazing regulation or of any term or condition of such grazing permit or lease.
+Except as provided in subsection (b) of this section, permits and leases for domestic livestock grazing on public lands issued by the Secretary under the Act of June 28, 1934 (48 Stat. 1269, as amended; 43 U.S.C. 315 et seq.) or the Act of August 28, 1937 (50 Stat. 874, as amended; 43 U.S.C. 1181a–1181j), or by the Secretary of Agriculture, with respect to lands within National Forests in the sixteen contiguous WesternStates, shall be for a term of ten years subject to such terms and conditions the Secretary concerned deems appropriate and consistent with the governing law, including, but not limited to, the authority of the Secretary concerned to cancel, suspend, or modify a grazing permit or lease, in whole or in part, pursuant to the terms and conditions thereof, or to cancel or suspend a grazing permit or lease for any violation of a grazing regulation or of any term or condition of such grazing permit or lease.
 
 #### (b) Terms of lesser duration
 
@@ -32,7 +32,7 @@ Allotment management plans shall not refer to livestock operations or range impr
 
 #### (g) Cancellation of permit or lease; determination of reasonable compensation; notice
 
-Whenever a permit or lease for grazing domestic livestock is canceled in whole or in part, in order to devote the lands covered by the permit or lease to another public purpose, including disposal, the permittee or lessee shall receive from the United States a reasonable compensation for the adjusted value, to be determined by the Secretary concerned, of his interest in authorized permanent improvements placed or constructed by the permittee or lessee on lands covered by such permit or lease, but not to exceed the fair market value of the terminated portion of the permittee's or lessee's interest therein. Except in cases of emergency, no permit or lease shall be canceled under this subsection without two years’ prior notification.
+Whenever a permit or lease for grazing domestic livestock is canceled in whole or in part, in order to devote the lands covered by the permit or lease to another public purpose, including disposal, the permittee or lessee shall receive from the United States a reasonable compensation forthe adjusted value, to be determined by the Secretary concerned, of his interest in authorized permanent improvements placed or constructed by the permittee or lessee on lands covered by such permit or lease, but not to exceed the fair market value of the terminated portion of the permittee's or lessee's interest therein. Except in cases of emergency, no permit or lease shall be canceled under this subsection without two years’ prior notification.
 
 #### (h) Applicability of provisions to rights, etc., in or to public lands or lands in National Forests
 
@@ -52,7 +52,7 @@ This Act, referred to in subsec. (h), is Pub. L. 94–579, Oct. 21, 1976, 90 Sta
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–514, §7(b), substituted “sixteen contiguous Western States” for “eleven contiguous Western States”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–514, §7(b), substituted “sixteen contiguous Western States” for “eleven contiguous Western States”.
 
 Subsec. (b)(3). Pub. L. 95–514, §7(a), inserted provision that absence of completed land use plans or court ordered environmental statements shall not be the sole basis for establishing a term shorter than ten years unless information therein would be necessary to determine whether a shorter term should be established for any of the specified reasons.
 

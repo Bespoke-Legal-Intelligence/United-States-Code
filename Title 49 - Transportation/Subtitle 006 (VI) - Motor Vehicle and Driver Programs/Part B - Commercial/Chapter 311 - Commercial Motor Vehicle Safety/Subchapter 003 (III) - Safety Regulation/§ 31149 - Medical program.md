@@ -14,7 +14,7 @@ Composition.—The Medical Review Board shall be appointed by the Secretary and 
 
 (b)
 
-Chief Medical Examiner.—The Secretary shall appoint a chief medical examiner who shall be an employee of the Federal Motor Carrier Safety Administration and who shall hold a position under section 3104 of title 5, United States Code, relating to employment of specially qualified scientific and professional personnel, and shall be paid under section 5376 of title 5, United States Code, relating to pay for certain senior-level positions.
+Chief Medical Examiner.—The Secretary shall appoint a chief medical examiner who shall be an employee of the Federal Motor Carrier Safety Administration and who shall hold aposition under section 3104 of title 5, United States Code, relating to employment of specially qualified scientific and professional personnel, and shall be paid under section 5376 of title 5, United States Code, relating to pay for certain senior-level positions.
 
 (c)
 
@@ -34,7 +34,7 @@ In general.—The Secretary, with the advice of the Medical Review Board and the
 
 &emsp;&emsp;(C) conduct periodic reviews of a select number of medical examiners on the national registry to ensure that proper examinations of such operators are being conducted;
 
-&emsp;&emsp;(D) develop, as appropriate, specific courses and materials for medical examiners listed in the national registry established under this section, and require those medical examiners to, at a minimum, self-certifythat they have completed specific training, including refresher courses, to be listed in the registry;
+&emsp;&emsp;(D) develop, as appropriate, specific courses and materials for medical examiners listed in the national registry established under this section, and require those medical examiners to, at a minimum, self-certify that they have completed specific training, including refresher courses, to be listed in the registry;
 
 &emsp;&emsp;(E) require medical examiners to transmit the name of the applicant and numerical identifier, as determined by the Administrator of the Federal Motor Carrier Safety Administration, for any completed medical examination report required under section 391.43 of title 49, Code of Federal Regulations, electronically to the chief medical examiner on monthly basis; and
 

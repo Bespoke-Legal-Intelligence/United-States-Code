@@ -20,7 +20,7 @@
 
 (b) A report under subsection (a) that incorporates the agency's program performance report under section 1116 shall be referred to as a performance and accountability report.
 
-(c) A report under subsection (a) that does not incorporate the agency's program performance report under section 1116 shall contain a summary of the most significant portions of the agency's program performance report, includingthe agency's success in achieving key performance goals for the applicable year.
+(c) A report under subsection (a) that does not incorporate the agency's program performance report under section 1116 shall contain a summary of the most significant portions of the agency's program performance report, including the agency's success in achieving key performance goals for the applicable year.
 
 (d) A report under subsection (a) shall include a statement prepared by the agency's inspector general that summarizes what the inspector general considers to be the most serious management and performance challenges facing the agency and briefly assesses the agency's progress in addressing those challenges. The inspector general shall provide such statement to the agency head at least 30 days before the due date of the report under subsection (a). The agency head may comment on the inspector general's statement, but may not modify the statement.
 
@@ -48,7 +48,7 @@ Section 874(b)(2) of the Homeland Security Act of 2002, referred to in subsec. (
 
 #### Amendments
 
-2004—Subsec. (f). Pub. L. 108–330 added subsec. (f).
+<b>2004</b>—Subsec. (f). Pub. L. 108–330 added subsec. (f).
 
 #### Change of Name
 
@@ -97,4 +97,6 @@ Purposes.—The purposes of this Act \[see Short Title of 2000 Amendment note se
 #### Special Rule for Fiscal Years 2000 and 2001
 
 Pub. L. 106–531, §3(b), Nov. 22, 2000, 114 Stat. 2538, provided that: “Notwithstanding paragraph (1) of section 3516(a) of title 31, United States Code (as added by subsection (a) of this section), the head of an executive agency may submit a consolidated report under such paragraph not later than 180 days after the end of that agency's fiscal year, with respect to fiscal years 2000 and 2001.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

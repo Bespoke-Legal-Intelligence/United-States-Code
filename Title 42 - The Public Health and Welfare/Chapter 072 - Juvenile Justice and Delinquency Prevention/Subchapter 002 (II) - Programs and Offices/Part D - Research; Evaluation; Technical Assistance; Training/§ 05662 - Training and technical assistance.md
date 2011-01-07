@@ -18,7 +18,7 @@ The Administrator may—
 
 #### (c) Training and technical assistance to mental health professionals and law enforcement personnel
 
-The Administrator shall provide training and technical assistance to mental health professionals and law enforcement personnel (including public defenders, police officers, probation officers, judges, parole officials, and correctional officers) to address or to promote the development, testing, or demonstration of promising or innovative models (including model juvenile and family courts), programs, or delivery systems that address the needs of juveniles who are alleged or adjudicated delinquent and who, as a result of such status, are placed in securedetention or confinement or in nonsecure residential placements.
+The Administrator shall provide training and technical assistance to mental health professionals and law enforcement personnel (including public defenders, police officers, probation officers, judges, parole officials, and correctional officers) to address or to promote the development, testing, or demonstration of promising or innovative models (including model juvenile and family courts), programs, or delivery systems that address the needs of juveniles who are alleged or adjudicated delinquent and who, as a result of such status, are placed in secure detention or confinement or in nonsecure residential placements.
 
 (Pub. L. 93–415, title II, §252, as added Pub. L. 107–273, div. C, title II, §12211, Nov. 2, 2002, 116 Stat. 1890.)
 

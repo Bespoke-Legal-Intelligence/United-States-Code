@@ -2,7 +2,7 @@
 
 #### (a) Submission and contents of applications
 
-A State which desires to obtain a payment under this subpart for any fiscal year shall submit annually an application therefor through the State agency administering its program under this subpart as of July 1, 1985, unless the Governor of that State so designates, in writing, a different agency to administer the program. The application shall contain such information as may be required by, or pursuant to, regulation for the purpose of enabling the Secretary to make the determinations required under this subpart.
+A State which desires to obtain a payment under this subpart for any fiscal year shall submit annually an application therefor throughthe State agency administering its program under this subpart as of July 1, 1985, unless the Governor of that State so designates, in writing, a different agency to administer the program. The application shall contain such information as may be required by, or pursuant to, regulation for the purpose of enabling the Secretary to make the determinations required under this subpart.
 
 #### (b) Payment of Federal share of grants made by qualified program
 
@@ -28,7 +28,7 @@ From a State's allotment under this subpart for any fiscal year the Secretary is
 
 &emsp;(7) provides that if the State's allocation under this subpart is based in part on the financial need demonstrated by students who are independent students or attending the institution less than full time, a reasonable proportion of the State's allocation shall be made available to such students;
 
-&emsp;(8) provides for State expenditures under such program of an amount not less than the average annual aggregate expenditures for thepreceding three fiscal years or the average annual expenditure per full-time equivalent student for such years;
+&emsp;(8) provides for State expenditures under such program of an amount not less than the average annual aggregate expenditures for the preceding three fiscal years or the average annual expenditure per full-time equivalent student for such years;
 
 &emsp;(9) provides (A) for such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement of and accounting for Federal funds paid to the State agency under this subpart, and (B) for the making of such reports, in such form and containing such information, as may be reasonably necessary to enable the Secretary to perform his functions under this subpart;
 
@@ -48,11 +48,11 @@ Upon his approval of any application for a payment under this subpart, the Secre
 
 #### Prior Provisions
 
-A prior section 1070c–2, Pub. L. 89–329, title IV, §415C, as added Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 256; amended Pub. L. 94–482, title I, §123(b), Oct. 12, 1976, 90 Stat. 2094; Pub. L. 95–43, §1(a)(6), June 15, 1977, 91 Stat. 213; Pub. L. 95–566, §3, Nov. 1, 1978, 92 Stat. 2403; Pub. L. 96–374, title IV, §404(c), title XIII, §1391(a)(1), (2), Oct. 3, 1980, 94 Stat. 1407, 1503, related to payment of grants to States for State student incentives, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1070c–2, Pub. L. 89–329, title IV, §415C, as added Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 256; amended Pub. L. 94–482, title I, §123(b), Oct.12, 1976, 90 Stat. 2094; Pub. L. 95–43, §1(a)(6), June 15, 1977, 91 Stat. 213; Pub. L. 95–566, §3, Nov. 1, 1978, 92 Stat. 2403; Pub. L. 96–374, title IV, §404(c), title XIII, §1391(a)(1), (2), Oct. 3, 1980, 94 Stat. 1407, 1503, related to payment of grants to States for State student incentives, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
-2008—Subsec. (b)(2). Pub. L. 110–315, §407(b)(1), substituted “not to exceed the lesser of $12,500 or the student's cost of attendance per academic year” for “not in excess of $5,000 per academic year”.
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–315, §407(b)(1), substituted “not to exceed the lesser of $12,500 or the student's cost of attendance per academic year” for “not in excess of $5,000 per academic year”.
 
 Subsec. (b)(9). Pub. L. 110–315, §407(b)(2), struck out “and” after semicolon.
 
@@ -60,11 +60,11 @@ Subsec. (b)(10). Pub. L. 110–315, §407(b)(3), struck out “a direct appropri
 
 Subsec. (b)(11). Pub. L. 110–315, §407(b)(4), added par. (11).
 
-1998—Pub. L. 105–244 substituted “leveraging educational assistance partnership” for “State student incentive grant” in section catchline.
+<b>1998</b>—Pub. L. 105–244 substituted “leveraging educational assistance partnership” for “State student incentive grant” in section catchline.
 
-1993—Subsec. (b)(7). Pub. L. 103–208 substituted a semicolon for period at end.
+<b>1993</b>—Subsec. (b)(7). Pub. L. 103–208 substituted a semicolon for period at end.
 
-1992—Subsec. (b)(2). Pub. L. 102–325, §404(b), substituted “$5,000” for “$2,500”.
+<b>1992</b>—Subsec. (b)(2). Pub. L. 102–325, §404(b), substituted “$5,000” for “$2,500”.
 
 Subsec. (b)(4). Pub. L. 102–325, §404(c), inserted before semicolon at end “, except that for the purpose of collecting data to make such determination of financial need, no student or parent shall be charged a fee that is payable to an entity other than such State”.
 

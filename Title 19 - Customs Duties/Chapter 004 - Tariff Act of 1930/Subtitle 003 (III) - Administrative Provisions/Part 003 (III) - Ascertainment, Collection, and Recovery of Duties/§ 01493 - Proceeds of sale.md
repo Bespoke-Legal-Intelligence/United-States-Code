@@ -10,9 +10,9 @@ Provisions substantially similar in most respects to those in this section, with
 
 #### Amendments
 
-1993—Pub. L. 103–182 inserted “taxes, and fees,” after “duties,”, struck out “by the appropriate customs officer” after “shall be deposited”, and substituted “the Customs Service” for “such customs officer”.
+<b>1993</b>—Pub. L. 103–182 inserted “taxes, and fees,” after “duties,”, struck out “by the appropriate customs officer” after “shall be deposited”, and substituted “the Customs Service” for “such customs officer”.
 
-1970—Pub. L. 91–271 substituted references to appropriate customs officer or such customs officer for references to collector wherever appearing.
+<b>1970</b>—Pub. L. 91–271 substituted references to appropriate customs officer or such customs officer for references to collector wherever appearing.
 
 #### Effective Date of 1970 Amendment
 

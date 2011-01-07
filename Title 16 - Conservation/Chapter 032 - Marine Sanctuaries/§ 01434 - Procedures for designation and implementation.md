@@ -58,7 +58,7 @@
 
 #### (5) Fishing regulations
 
-&emsp;The Secretary shall provide the appropriate Regional Fishery Management Council with the opportunity to prepare draft regulations for fishing within the Exclusive Economic Zone as the Council may deem necessary to implement the proposed designation. Draft regulations prepared by the Council, or a Council determination that regulations are not necessary pursuant to this paragraph, shall be accepted and issued as proposed regulations by the Secretary unless the Secretary finds that the Council's action fails to fulfill the purposes and policies of this chapter and the goals and objectives of the proposed designation. In preparing the draft regulations, a Regional Fishery Management Council shall use as guidance the national standards of section 301(a) of the Magnuson-Stevens Act (16 U.S.C. 1851) to the extent that the standards are consistent and compatible with the goals and objectives of the proposed designation. The Secretary shall prepare the fishing regulations, if the Council declines to make a determination with respect to the need for regulations, makes a determination which is rejected by the Secretary, or fails to prepare the draft regulations in a timely manner. Any amendments to the fishing regulations shall be drafted, approved, and issued in the same manner as the original regulations. The Secretary shall also cooperate with other appropriate fishery management authorities with rights or responsibilities within a proposed sanctuary at the earliest practicable stage in drafting any sanctuary fishing regulations.
+&emsp;The Secretary shall provide the appropriate Regional Fishery Management Council with the opportunity to prepare draft regulations for fishing within the Exclusive Economic Zone as the Council may deem necessary to implement the proposed designation. Draft regulations prepared by the Council, or a Council determination that regulations are not necessary pursuant to this paragraph, shall be accepted and issued as proposed regulations by the Secretary unless the Secretary finds that the Council's action fails to fulfill the purposes and policies of this chapter and the goals and objectives of the proposed designation. In preparing the draft regulations, a Regional Fishery Management Council shall use as guidance the national standards of section 301(a) of the Magnuson-Stevens Act (16 U.S.C. 1851) to the extent that the standards are consistent and compatible with the goals and objectives of the proposed designation. The Secretary shall prepare the fishing regulations, if the Council declines to make a determination with respect to the need for regulations, makes a determination which is rejected by the Secretary, or fails to prepare the draft regulations in a timely manner. Anyamendments to the fishing regulations shall be drafted, approved, and issued in the same manner as the original regulations. The Secretary shall also cooperate with other appropriate fishery management authorities with rights or responsibilities within a proposed sanctuary at the earliest practicable stage in drafting any sanctuary fishing regulations.
 
 #### (6) Committee action
 
@@ -68,7 +68,7 @@
 
 #### (1) Notice
 
-&emsp;In designating a national marine sanctuary, the Secretary shall publish in the FederalRegister notice of the designation together with final regulations to implement the designation and any other matters required by law, and submit such notice to the Congress. The Secretary shall advise the public of the availability of the final management plan and the final environmental impact statement with respect to such sanctuary. The Secretary shall issue a notice of designation with respect to a proposed national marine sanctuary site not later than 30 months after the date a notice declaring the site to be an active candidate for sanctuary designation is published in the Federal Register under regulations issued under this Act, or shall publish not later than such date in the Federal Register findings regarding why such notice has not been published. No notice of designation may occur until the expiration of the period for Committee action under subsection (a)(6) of this section. The designation (and any of its terms not disapproved under this subsection) and regulations shall take effect and become final after the close of a review period of forty-five days of continuous session of Congress beginning on the day on which such notice is published unless, in the case of a national marine sanctuary that is located partially or entirely within the seaward boundary of any State, the Governor affected certifies to the Secretary that the designation or any of its terms is unacceptable, in which case the designation or the unacceptable term shall not take effect in the area of the sanctuary lying within the seaward boundary of the State.
+&emsp;In designating a national marine sanctuary, the Secretary shall publish in the Federal Register notice of the designation together with final regulations to implement the designation and any other matters required by law, and submit such notice to the Congress. The Secretary shall advise the public of the availability of the final management plan and the final environmental impact statement with respect to such sanctuary. The Secretary shall issue a notice of designation with respect to a proposed national marine sanctuary site not later than 30 months after the date a notice declaring the site to be an active candidate for sanctuary designation is published in the Federal Register under regulations issued under this Act, or shall publish not later than such date in the Federal Register findings regarding why such notice has not been published. No notice of designation may occur until the expiration of the period for Committee action under subsection (a)(6) of this section. The designation (and any of its terms not disapproved under this subsection) and regulations shall take effect and become final after the close of a review period of forty-five days of continuous session of Congress beginning on the day on which such notice is published unless, in the case of a national marine sanctuary that is located partially or entirely within the seaward boundary of any State, the Governor affected certifies to the Secretary that the designation or any of its terms is unacceptable, in which case the designation or the unacceptable term shall not take effect in the area of the sanctuary lying within the seaward boundary of the State.
 
 #### (2) Withdrawal of designation
 
@@ -154,7 +154,7 @@ This Act, referred to in subsec. (b)(1), means Pub. L. 92–532, which enacted t
 
 #### Amendments
 
-2000—Subsec. (a)(1)(C). Pub. L. 106–555, §205(b)(1), struck out “the Secretary shall” before “submit a copy”.
+<b>2000</b>—Subsec. (a)(1)(C). Pub. L. 106–555, §205(b)(1), struck out “the Secretary shall” before “submit a copy”.
 
 Pub. L. 106–513, §6(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) required the Secretary to submit certain documents to committees of the House and Senate.
 
@@ -180,19 +180,19 @@ Subsec. (f). Pub. L. 106–513, §6(f), added subsec. (f).
 
 Subsec. (f)(2). Pub. L. 106–562 substituted “subparagraphs (A) and (B) of paragraph (1)” for “paragraph (2)”.
 
-1996—Subsec. (b)(3). Pub. L. 104–283 struck out “(A)” before “In computing the forty-five-day”, redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, adjusted margins, and struck out former subpars. (B) and (C) which read as follows:
+<b>1996</b>—Subsec. (b)(3). Pub. L. 104–283 struck out “(A)” before “In computing the forty-five-day”, redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, adjusted margins, and struck out former subpars. (B) and (C) which read as follows:
 
-“(B) When the committee to which a joint resolution has been referred has reported such a resolution, it shall at any time thereafter be in order to move to proceed to the consideration of the resolution. The motion shall be privileged and shall not be debatable. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
+“(B) When the committee to which a joint resolution has been referred has reported such a resolution, it shall at any time thereafter be in order to move to proceed to the consideration of the resolution. The motionshall be privileged and shall not be debatable. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
 
 “(C) This subsection is enacted by Congress as an exercise of the rulemaking power of each House of Congress, respectively, and as such is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in the case of resolutions described in this subsection. This subsection supersedes other rules only to the extent that they are inconsistent therewith, and is enacted with full recognition of the constitutional right of either House to change the rules (so far as those relate to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of such House.”
 
-1992—Subsec. (a)(1)(C). Pub. L. 102–587, §2104(a)(2), substituted “documents, including an executive summary, consisting of—” for “a prospectus on the proposal which shall contain—”.
+<b>1992</b>—Subsec. (a)(1)(C). Pub. L. 102–587, §2104(a)(2), substituted “documents, including an executive summary, consisting of—” for “a prospectus on the proposal which shall contain—”.
 
 Subsec. (a)(5). Pub. L. 102–587, §2104(a)(3), substituted “Exclusive Economic Zone” for “United States Fishery Conservation Zone” and inserted at end “The Secretary shall also cooperate with other appropriate fishery management authorities with rights or responsibilities within a proposed sanctuary at the earliest practicable stage in drafting any sanctuary fishing regulations.”
 
 Subsec. (a)(6). Pub. L. 102–587, §2104(a)(1), substituted “documents” for “prospectus” wherever appearing.
 
-Subsec. (b)(1). Pub. L. 102–587, §2104(b)(1), substituted at end “, in the case of a national marine sanctuarythat is located partially or entirely within the seaward boundary of any State, the Governor affected certifies to the Secretary that the designation or any of its terms is unacceptable, in which case the designation or the unacceptable term shall not take effect in the area of the sanctuary lying within the seaward boundary of the State.” for the dash after “unless” and subpars. (A) and (B) which read as follows:
+Subsec. (b)(1). Pub. L. 102–587, §2104(b)(1), substituted at end “, in the case of a national marine sanctuary that is located partially or entirely within the seaward boundary of any State, the Governor affected certifies to the Secretary that the designation or any of its terms is unacceptable, in which case the designation or the unacceptable term shall not take effect in the area of the sanctuary lying within the seaward boundary of the State.” for the dash after “unless” and subpars. (A) and (B) which read as follows:
 
 “(A) the designation or any of its terms is disapproved by enactment of a joint resolution of disapproval described in paragraph (3); or
 
@@ -210,19 +210,19 @@ Subsec. (c)(1). Pub. L. 102–587, §2104(c), amended par. (1) generally. Prior 
 
 Subsecs. (d), (e). Pub. L. 102–587, §2104(d), added subsecs. (d) and (e).
 
-1988—Subsec. (b)(1). Pub. L. 100–627 inserted requirement that notice be published in the Federal Register of proposed marine sanctuary site designation within 30 months after notice of active candidacy of site for sanctuary designation or that within such period findings be published why notice has not been published.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–627 inserted requirement that notice be published in the Federal Register of proposed marine sanctuary site designation within 30 months after notice of active candidacy of site for sanctuary designation or that within such period findings be published why notice has not been published.
 
-1984—Pub. L. 98–498 amended section generally, substituting provisions relating to procedures for designation and implementation of a marine sanctuary for provisions relating to authorization of appropriations. See section 1438 of this title.
+<b>1984</b>—Pub. L. 98–498 amended section generally, substituting provisions relating to procedures for designation and implementation of a marine sanctuary for provisions relating to authorization of appropriations. See section 1438 of this title.
 
-1981—Pub. L. 97–109 inserted provisions authorizing appropriations of not to exceed $2,235,000 for fiscal year 1982, and not to exceed $2,235,000 for fiscal year 1983.
+<b>1981</b>—Pub. L. 97–109 inserted provisions authorizing appropriations of not to exceed $2,235,000 for fiscal year 1982, and not to exceed $2,235,000 for fiscal year 1983.
 
-1980—Pub. L. 96–332 inserted provisions authorizing appropriations of not to exceed $2,250,000 for fiscal year 1981.
+<b>1980</b>—Pub. L. 96–332 inserted provisions authorizing appropriations of not to exceed $2,250,000 for fiscal year 1981.
 
-1977—Pub. L. 95–153 inserted provision authorizing appropriations not to exceed $500,000 for fiscal year 1978.
+<b>1977</b>—Pub. L. 95–153 inserted provision authorizing appropriations not to exceed $500,000 for fiscal year 1978.
 
-1976—Pub. L. 94–326 inserted provision authorizing to be appropriated not to exceed $500,000 for fiscal year 1977.
+<b>1976</b>—Pub. L. 94–326 inserted provision authorizing to be appropriated not to exceed $500,000 for fiscal year 1977.
 
-1975—Pub. L. 94–62 substituted provisions authorizing to be appropriated not to exceed $10,000,000 for each of fiscal years 1973, 1974, and 1975, for provisions authorizing to be appropriated for fiscal year in which this Act was enacted and for next two fiscal years thereafter not to exceed $10,000,000 for each such fiscal year, and inserted provisions authorizing to be appropriated not to exceed $6,200,000 for fiscal year 1976, and not to exceed $1,550,000 for the transition period (July 1, through Sept. 30, 1976).
+<b>1975</b>—Pub. L. 94–62 substituted provisions authorizing to be appropriated not to exceed $10,000,000 for each of fiscal years 1973, 1974, and 1975, for provisions authorizing to be appropriated for fiscal year in which this Act was enacted and for next two fiscal years thereafter not to exceed $10,000,000 for each such fiscal year, and inserted provisions authorizing to be appropriated not to exceed $6,200,000 for fiscal year 1976, and not to exceed $1,550,000 for the transition period (July 1, through Sept. 30, 1976).
 
 #### Change of Name
 

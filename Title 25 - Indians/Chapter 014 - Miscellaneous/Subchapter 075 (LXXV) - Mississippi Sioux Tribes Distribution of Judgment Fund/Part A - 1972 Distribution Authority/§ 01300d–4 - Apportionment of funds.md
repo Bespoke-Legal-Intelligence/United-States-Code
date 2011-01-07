@@ -2,7 +2,7 @@
 
 #### (a) Basis of apportionment
 
-After deducting the amount authorized in section 1300d of this title, the funds derived from the judgment awarded in Indian Claims Commission docket numbered 142 and the one-half remaining from the amount awarded in docketnumbered 359 <sup>1</sup> plus interest received (other than funds otherwise distributed to the Sisseton and Wahpeton Tribes of Sioux Indians in accordance with the Mississippi Sioux Tribes Judgment Fund Distribution Act of 1998 \[25 U.S.C. 1300d–21 et seq.\]), shall be apportioned on the basis of reservation residence and other residence shown on the 1909 McLaughlin annuity roll, as follows:
+After deducting the amount authorized in section 1300d of this title, the funds derived from the judgment awarded in Indian Claims Commission docket numbered 142 and the one-half remaining from the amount awarded in docket numbered 359 <sup>1</sup> plus interest received (other than funds otherwise distributed to the Sisseton and Wahpeton Tribes of Sioux Indians in accordance with the Mississippi Sioux Tribes Judgment Fund Distribution Act of 1998 \[25 U.S.C. 1300d–21 et seq.\]), shall be apportioned on the basis of reservation residence and other residence shown on the 1909 McLaughlin annuity roll, as follows:
 
 &nbsp;
 
@@ -30,7 +30,7 @@ The Mississippi Sioux Tribes Judgment Fund Distribution Act of 1998, referred to
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–387, §7(d)(1)(B), in table struck out at end item which had apportioned 25.0225 percent of funds to all other Sisseton and Wahpeton Sioux.
+<b>1998</b>—Subsec. (a). Pub. L. 105–387, §7(d)(1)(B), in table struck out at end item which had apportioned 25.0225 percent of funds to all other Sisseton and Wahpeton Sioux.
 
 Pub. L. 105–387, §7(d)(1)(A)(ii), which directed amendment of introductory provisions by inserting “plus interest received (other than funds otherwise distributed to the Sisseton and Wahpeton Tribes of Sioux Indians in accordance with the Mississippi Sioux Tribes Judgment Fund Distribution Act of 1998),” after “docket numbered 359,” was executed by making the insertion after “docket numbered 359”, to reflect the probable intent of Congress and the amendment by Pub. L. 105–387, §7(d)(1)(A)(i). See below.
 

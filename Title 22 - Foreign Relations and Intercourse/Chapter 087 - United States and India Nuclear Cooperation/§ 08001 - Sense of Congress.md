@@ -144,7 +144,7 @@ Requirements.—The requirements referred to in subsection (a) are the following
 
 &emsp;&emsp;“(C) a certification that the United States will pursue efforts to ensure that any other nation that permits India to reprocess or otherwise alter in form or content nuclear material that the nation has transferred to India or nuclear material and by-product material used in or produced through the use of nuclear material, non-nuclear material, or equipment that it has transferred to India requires India to do so under similar arrangements and procedures.
 
-&emsp;“(2) A period of 30 days of continuous session (as defined by section 130 g.(2) of the Atomic Energy Act of 1954 (42 U.S.C. 2159(g)(2)) has elapsed after transmittal of the report required under paragraph (1).
+&emsp;“(2) A period of 30 days of continuous session (as defined by section 130 g.(2) of the Atomic Energy Act of1954 (42 U.S.C. 2159(g)(2)) has elapsed after transmittal of the report required under paragraph (1).
 
 “(c)
 
@@ -166,7 +166,7 @@ Certification.—Before exchanging diplomatic notes pursuant to Article 16(1) of
 
 “(b)
 
-Peaceful Use Assurances for Certain By-Product Material.—The President shall seek toachieve, by the earliest possible date, either within the NSG or with relevant NSG Participating Governments, the adoption of principles, reporting, and exchanges of information as may be appropriate to assure peaceful use and accounting of by-product material in a manner that is substantially equivalent to the relevant provisions of the Agreement.
+Peaceful Use Assurances for Certain By-Product Material.—The President shall seek to achieve, by the earliest possible date, either within the NSG or with relevant NSG Participating Governments, the adoption of principles, reporting, and exchanges of information as may be appropriate to assure peaceful use and accounting of by-product material in a manner that is substantially equivalent to the relevant provisions of the Agreement.
 
 “(c)
 
@@ -184,6 +184,10 @@ Termination.—The requirement to transmit the report under paragraph (1) termin
 
 “\[Amended section 2159 of Title 42.\]”
 
+\[Functions of President under section 201(b) of Pub. L. 110–369, set out above, delegated to Secretary of Energy by Memorandum of President of the United States, May 4, 2010, 75 F.R. 27155.\]
+
+\[Functions of President under section 204(c) of Pub. L. 110–369, set out above, delegated to Secretary of State by Memorandum of President of the United States, Mar. 10, 2010, 75 F.R. 13427.\]
+
 #### Certifications Pursuant to the United States-India Nuclear Cooperation Approval and Nonproliferation Enhancement Act (Public Law 110–369)
 
 Determination of the President of the United States, No. 2009–6, Oct. 20, 2008, 73 F.R. 63841, provided:
@@ -199,4 +203,18 @@ Pursuant to section 102(c) and section 204(a) of the United States-India Nuclear
 You are authorized and directed to publish this determination in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Determination of the President of the United States, No. 2010–04, Feb. 3, 2010, 75 F.R. 7337, provided:
+
+Memorandum for the Secretary of State
+
+Pursuant to section 104 of the United States-India Nuclear Cooperation Approval and Nonproliferation Enhancement Act (Public Law 110–369), I hereby determine and certify that:
+
+1\. The Agreement between the Government of India and the International Atomic Energy Agency for the Application of Safeguards to Civilian Nuclear Facilities, as approved by the Board of Governors of the International Atomic Energy Agency on August 1, 2008 (the “Safeguards Agreement”), has entered into force; and
+
+2\. The Government of India has filed a declaration of facilities pursuant to paragraph 13 of the Safeguards Agreement that is not materially inconsistent with the facilities and schedule described in paragraph 14 of the Separation Plan presented in the national parliament of India on May 11, 2006, taking into account the later initiation of safeguards than was anticipated in the Separation Plan.
+
+You are authorized and directed to publish this determination in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

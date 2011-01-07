@@ -20,5 +20,5 @@ Any amounts appropriated pursuant to the authority of subsection (a) of this sec
 
 #### Amendments
 
-2009—Subsec. (a)(4). Pub. L. 111–84 added par. (4).
+<b>2009</b>—Subsec. (a)(4). Pub. L. 111–84 added par. (4).
 

@@ -54,13 +54,29 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 &emsp;(B) compliance with the request would prejudice the public interest of the United States.
 
-(3) Notwithstanding any other provision of law, the Commission may accept payment and reimbursement, in cash or in kind, from a foreign futures authority, or made on behalf of such authority, for necessary expenses incurred by the Commission, its members, and employees in carrying out any investigation, or in providing any other assistance to a foreign futures authority, pursuant to this section. Any payment or reimbursement accepted shall be considered a reimbursement to the appropriated funds of the Commission.
+(3) Notwithstanding any other provision of law, the Commission may accept payment and reimbursement, in cash or in kind, from a foreign futures authority, or made on behalf of such authority, for necessary expenses incurred by the Commission, its members, and employeesin carrying out any investigation, or in providing any other assistance to a foreign futures authority, pursuant to this section. Any payment or reimbursement accepted shall be considered a reimbursement to the appropriated funds of the Commission.
 
 #### (g) Computerized futures trading
 
 Consistent with its responsibilities under section 22 of this title, the Commission is directed to facilitate the development and operation of computerized trading as an adjunct to the open outcry auction system. The Commission is further directed to cooperate with the Office of the United States Trade Representative, the Department of the Treasury, the Department of Commerce, and the Department of State in order to remove any trade barriers that may be imposed by a foreign nation on the international use of electronic trading systems.
 
-(Sept. 21, 1922, ch. 369, §12, 42 Stat. 1003; Pub. L. 93–463, title I, §101(b), Oct. 23, 1974, 88 Stat. 1391; Pub. L. 95–405, §20, Sept. 30, 1978, 92 Stat. 875; Pub. L. 97–444, title II, §§228, 229, Jan. 11, 1983, 96 Stat. 2318; Pub. L. 99–641, title I, §106, Nov. 10, 1986, 100 Stat. 3558; Pub. L. 102–546, title II, §§216, 220(a), title III, §§302, 303, title IV, §401, title V, §502(c), Oct. 28, 1992, 106 Stat. 3611, 3614, 3622, 3624, 3631; Pub. L. 104–9, §2, Apr. 21, 1995, 109 Stat. 154; Pub. L. 106–554, §1(a)(5) \[title I, §§116, 117\], Dec. 21, 2000, 114 Stat. 2763, 2763A–402; Pub. L. 110–234, title XIII, §13104, May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, §4(a), title XIII, §13104, June 18, 2008, 122 Stat. 1664, 2196.)
+(Sept. 21, 1922, ch. 369, §12, 42 Stat. 1003; Pub. L. 93–463, title I, §101(b), Oct. 23, 1974, 88 Stat. 1391; Pub. L. 95–405, §20, Sept. 30, 1978, 92 Stat. 875; Pub. L. 97–444, title II, §§228, 229, Jan. 11, 1983, 96 Stat. 2318; Pub. L. 99–641, title I, §106, Nov. 10, 1986, 100 Stat. 3558; Pub. L. 102–546, title II, §§216, 220(a), title III, §§302, 303, title IV, §401, title V, §502(c), Oct. 28, 1992, 106 Stat. 3611, 3614, 3622, 3624, 3631; Pub. L. 104–9, §2, Apr. 21, 1995, 109 Stat. 154; Pub. L. 106–554, §1(a)(5) \[title I, §§116, 117\], Dec. 21, 2000, 114 Stat. 2763, 2763A–402; Pub. L. 110–234, title XIII, §13104, May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, §4(a), title XIII, §13104, June 18, 2008, 122 Stat. 1664, 2196; Pub. L. 111–203, title VII, §§722(b), 749(f), July 21, 2010, 124 Stat. 1673, 1747.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title VII, §§722(b), 749(f), 754, July 21, 2010, 124 Stat. 1673, 1747, 1754, provided that, effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, this section is amended:</i>
+
+<i>(1) in subsection (e)(2)(B) by striking “section 2(c), 2(d), 2(f), or 2(g) of this title” and inserting “section 2(c) or 2(f) of this title” and by striking “2(h) or”; and</i>
+
+<i>(2) by adding at the end the following new subsection:</i>
+
+#### <i>(h) Regulation of swaps as insurance under State law</i>
+
+<i>A swap—</i>
+
+&emsp;<i>(1) shall not be considered to be insurance; and</i>
+
+&emsp;<i>(2) may not be regulated as an insurance contract under the law of any State.</i>
 
 #### Codification
 
@@ -101,6 +117,10 @@ Subsec. (e). Pub. L. 97–444, §229, added subsec. (e).
 1978—Subsec. (d). Pub. L. 95–405 substituted “for each of the fiscal years during the period beginning October 1, 1978, and ending September 30, 1982” for “for the fiscal year ending June 30, 1975, for the fiscal year ending June 30, 1976, for the fiscal year ending June 30, 1977, and for the fiscal year ending June 30, 1978”.
 
 1974—Pub. L. 93–463 designated existing unlettered provisions as subsecs. (a) to (d), substituted “Commission” for “Secretary of Agriculture”, inserted provisions authorizing the expenditure of funds for expenses upon the presentation of itemized vouchers therefor approved by the Commission, substituted provisions authorizing appropriations specifically for fiscal years ending June 30, 1975, 1976, 1977, and 1978, for provisions making a general authorization of appropriations without a fiscal year limitation, and inserted authorization to enter into contracts and compensate experts and consultants in accordance with section 3109 of title 5 at rates not in excess of the maximum daily rate prescribed for GS–18 under section 5332 of title 5.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
 #### Effective Date of 2008 Amendment
 

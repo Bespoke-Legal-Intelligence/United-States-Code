@@ -46,7 +46,7 @@ Nothing contained in this section shall be deemed to require or contemplate any 
 
 (3) If—
 
-&emsp;(A) an assignment of an investment advisory contract with a registered investment company results in a successor investment adviser to such company, or if there is a change in control of or identity of a corporate trustee ofa registered investment company, and such adviser or trustee is then an investment adviser or corporate trustee with respect to other assets substantially greater in amount than the amount of assets of such company, or
+&emsp;(A) an assignment of an investment advisory contract with a registered investment company results in a successor investment adviser to such company, or if there is a change in control of or identity of a corporate trustee of a registered investment company, and such adviser or trustee is then an investment adviser or corporate trustee with respect to other assets substantially greater in amount than the amount of assets of such company, or
 
 &emsp;(B) as a result of a merger of, or a sale of substantially all the assets by, a registered investment company with or to another registered investment company with assets substantially greater in amount, a transaction occurs which would be subject to paragraph (1)(A) of this subsection,
 
@@ -62,21 +62,21 @@ Nothing contained in this section shall be deemed to require or contemplate any 
 
 #### Amendments
 
-1987—Subsec. (d). Pub. L. 100–181, §611(1), substituted “paragraph (42)” for “paragraph (40)”.
+<b>1987</b>—Subsec. (d). Pub. L. 100–181, §611(1), substituted “paragraph (42)” for “paragraph (40)”.
 
 Subsec. (f)(3)(B). Pub. L. 100–181, §611(2), substituted a comma for the period at end.
 
-1975—Subsec. (c). Pub. L. 94–29, §28(2), inserted provisions making it unlawful for the directors of a registered investment company, in connection with their evaluation of the terms of any contract whereby a person undertakes regularly to serve or act as investment adviser of such company, to take into account the purchase price or other consideration any person may have paid in connection with a transaction of the type referred to in paragraph (1), (3), or (4) of subsec. (f).
+<b>1975</b>—Subsec. (c). Pub. L. 94–29, §28(2), inserted provisions making it unlawful for the directors of a registered investment company, in connection with their evaluation of the terms of any contract whereby a person undertakes regularly to serve or act as investment adviser of such company, to take into account the purchase price or other consideration any person may have paid in connection with a transaction of the type referred to in paragraph (1), (3), or (4) of subsec. (f).
 
 Subsec. (d). Pub. L. 94–29, §28(4), substituted “section 80a–16(c) of this title” for “subsection (b) of section 80a–16 of this title”.
 
 Subsec. (f). Pub. L. 94–29, §28(1), added subsec. (f).
 
-1970—Subsec. (a). Pub. L. 91–547, §8(a), struck out introductory phrase “After one year from the effective date of this subchapter” and “unless in effect prior to March 15, 1940,” before “has been approved”, and “by the investment adviser” after “assignment” in item (4), and substituted “It” for “it”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–547, §8(a), struck out introductory phrase “After one year from the effective date of this subchapter” and “unless in effect prior to March 15, 1940,” before “has been approved”, and “by the investment adviser” after “assignment” in item (4), and substituted “It” for “it”.
 
 Subsec. (b). Pub. L. 91–547, §8(b), struck out introductory phrase “After one year from the effective date of this subchapter,” and concluding phrase “, unless in effect prior to March 15, 1940” after “which contract” before item (1), struck out “by such underwriter” after “assignment” in item (2), and substituted “It” for “it”.
 
-Subsec. (c). Pub. L. 91–547, §8(c), made it the duty of the directors of a registered investment company to request and evaluate, and the duty of an investment adviser to such company to furnish, such information as may reasonably be necessary to evaluate the terms of any contract whereby a person undertakes regularly to serve or act as investment adviser of such company, substituted “interested persons” for “affiliated persons”, and struck out “except a written agreement which was in effect prior to March 15, 1940,” after “written or oral,”, item (1) designation following “have been approved” and item “or (2) by the vote of a majority of the outstanding voting securities of such company” after “any such party,”, and inserted “the vote” in phrase “by the vote of a majority”, and provision respecting voting “cast in person at a meeting called for the purpose of voting on such approval”.
+Subsec. (c). Pub. L. 91–547, §8(c), made it the duty of the directors of a registered investment company to request and evaluate, and the duty of an investment adviser to such company to furnish, such information as may reasonably be necessary to evaluate the terms of any contract whereby a person undertakes regularly to serve or act as investment adviser of such company, substituted “interested persons” for “affiliated persons”, and struck out “except a written agreementwhich was in effect prior to March 15, 1940,” after “written or oral,”, item (1) designation following “have been approved” and item “or (2) by the vote of a majority of the outstanding voting securities of such company” after “any such party,”, and inserted “the vote” in phrase “by the vote of a majority”, and provision respecting voting “cast in person at a meeting called for the purpose of voting on such approval”.
 
 Subsecs. (d) to (f). Pub. L. 91–547, §8(d), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which prohibited any person after March 15, 1945, from acting as investment adviser to, or principal underwriter for, any registered investment company pursuant to a written contract in effect prior to March 15, 1940, unless such contract was renewed prior to March 15, 1945, in such form as to make it comply with subsecs. (a) or (b).
 

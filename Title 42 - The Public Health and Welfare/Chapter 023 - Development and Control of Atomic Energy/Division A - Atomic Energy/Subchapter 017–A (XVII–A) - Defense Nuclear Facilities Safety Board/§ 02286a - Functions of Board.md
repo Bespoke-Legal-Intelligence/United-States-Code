@@ -42,5 +42,5 @@ The functions of the Board under this subchapter do not include functions relati
 
 #### Amendments
 
-1991—Pub. L. 102–190 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>1991</b>—Pub. L. 102–190 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 

@@ -20,5 +20,5 @@ Section was not enacted as part of the Small Business Act which comprises this c
 
 #### Amendments
 
-2004—Par. (2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Par. (2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

@@ -34,19 +34,19 @@ The word “regular” is deleted \[in sections 9335 and 9336\] to make clear th
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–375 inserted “, except that a person may not be appointed or assigned as Dean unless that person holds the highest academic degree in that person's academic field” after “Secretary of the Air Force”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–375 inserted “, except that a person may not be appointed or assigned as Dean unless that person holds the highest academic degree in that person's academic field” after “Secretary of the Air Force”.
 
-2003—Subsec. (a). Pub. L. 108–136, §529(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Dean of the Faculty shall be appointed as an additional permanent professor from the permanent professors who have served as heads of departments of instruction at the Academy.”
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §529(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Dean of the Faculty shall be appointed as an additional permanent professor from the permanent professors who have served as heads of departments of instruction at the Academy.”
 
 Subsec. (b). Pub. L. 108–136, §529(b), in first sentence, substituted “on active duty” for “of the Air Force” and inserted “(or the equivalent)” after “brigadier general” in two places and, in last sentence, inserted “applicable” before “limitation” and struck out “of the Air Force” after “general officers”.
 
-1999—Pub. L. 106–65 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1999</b>—Pub. L. 106–65 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1992—Pub. L. 102–484 designated subsec. (a) as entire section and struck out subsec. (b) which read as follows: “The Dean has the grade of brigadier general while serving in such position, with the benefits authorized for regular brigadier generals of the Air Force, if appointed to that grade by the President, by and with the advice and consent of the Senate. However, the retirement age of an officer so appointed is that of a permanent professor of the Academy.”
+<b>1992</b>—Pub. L. 102–484 designated subsec. (a) as entire section and struck out subsec. (b) which read as follows: “The Dean has the grade of brigadier general while serving in such position, with the benefits authorized for regular brigadier generals of the Air Force, if appointed to that grade by the President, by and with the advice and consent of the Senate. However, the retirement age of an officer so appointed is that of a permanent professor of the Academy.”
 
-1986—Subsec. (b). Pub. L. 99–661 amended subsec. (b) generally, substituting “while serving in such position” for “while serving as such” and “if appointed to that grade by the President, by and with the advice and consent of the Senate. However, the retirement age of an officer so appointed” for “except that his retirement age”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–661 amended subsec. (b) generally, substituting “while serving in such position” for “while serving as such” and “if appointed to that grade by the President, by and with the advice and consent of the Senate. However, the retirement age of an officer so appointed” for “except that his retirement age”.
 
-1958—Subsec. (b). Pub. L. 85–861 substituted “the grade of brigadier general” for “the regular grade of brigadier general”.
+<b>1958</b>—Subsec. (b). Pub. L. 85–861 substituted “the grade of brigadier general” for “the regular grade of brigadier general”.
 
 #### Effective Date of 2003 Amendment
 

@@ -16,5 +16,5 @@ If the Secretary of State determines and reports to Congress under section 2347h
 
 #### Amendments
 
-2002—Pub. L. 107–228 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
+<b>2002</b>—Pub. L. 107–228 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 

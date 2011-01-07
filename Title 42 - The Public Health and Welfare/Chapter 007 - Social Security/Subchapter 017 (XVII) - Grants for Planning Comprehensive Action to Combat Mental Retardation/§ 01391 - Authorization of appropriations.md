@@ -6,7 +6,7 @@ For the purpose of assisting the States (including the District of Columbia, the
 
 #### Amendments
 
-1965—Pub. L. 89–97 authorized appropriations of $2,750,000 for fiscal years ending June 30, 1966 and 1967 for implementation of mental retardation planning.
+<b>1965</b>—Pub. L. 89–97 authorized appropriations of $2,750,000 for fiscal years ending June 30, 1966 and 1967 for implementation of mental retardation planning.
 
 #### Short Title
 

@@ -18,23 +18,29 @@ For purposes of this chapter, in the case of a nonresident not a citizen of the 
 
 > which are owned and held by such nonresident shall be deemed to be property situated within the United States.
 
-#### (c) Treatment of certain transfers in trust
-
-Notwithstanding any other provision of this section and except as provided in regulations, a transfer in trust shall be treated as a transfer of property by gift, unless the trust is treated as wholly owned by the donor or the donor's spouse under subpart E of part I of subchapter J of chapter 1.
-
-(Aug. 16, 1954, ch. 736, 68A Stat. 406; Pub. L. 89–809, title I, §109(b), Nov. 13, 1966, 80 Stat. 1575; Pub. L. 107–16, title V, §511(e), June 7, 2001, 115 Stat. 71; Pub. L. 107–147, title IV, §411(g)(1), Mar. 9, 2002, 116 Stat. 46.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 406; Pub. L. 89–809, title I, §109(b), Nov. 13, 1966, 80 Stat. 1575; Pub. L. 107–16, title V, §511(e), June 7, 2001, 115 Stat. 71; Pub. L. 107–147, title IV, §411(g)(1), Mar. 9, 2002, 116 Stat. 46; Pub. L. 111–312, title III, §302(e), Dec. 17, 2010, 124 Stat. 3302.)
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 304 of Pub. L. 111–312, see Effective and Termination Dates of 2010 Amendment note below.</i>
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–147 substituted “transfer of property by gift,” for “taxable gift under section 2503,”.
+<b>2010</b>—Subsec. (c). Pub. L. 111–312, §§302(e), 304, temporarily struck out subsec. (c). Text read as follows: “Notwithstanding any other provision of this section and except as provided in regulations, a transfer in trust shall be treated as a transfer of property by gift, unless the trust is treated as wholly owned by the donor or the donor's spouse under subpart E of part I of subchapter J of chapter 1.” See Effective and Termination Dates of 2010 Amendment note below.
 
-2001—Subsec. (c). Pub. L. 107–16, §§511(e), 901, temporarily added subsec. (c). See Effective and Termination Dates of 2001 Amendment note below.
+<b>2002</b>—Subsec. (c). Pub. L. 107–147 substituted “transfer of property by gift,” for “taxable gift under section 2503,”.
 
-1966—Subsec. (b). Pub. L. 89–809 inserted reference to nonresidents who are excepted from the application of section 2501(a)(2) and expanded section to include debt obligations of United States persons or the United States, a State or any political subdivision thereof, or the District of Columbia.
+<b>2001</b>—Subsec. (c). Pub. L. 107–16, §§511(e), 901, temporarily added subsec. (c). See Effective and Termination Dates of 2001 Amendment note below.
+
+<b>1966</b>—Subsec. (b). Pub. L. 89–809 inserted reference to nonresidents who are excepted from the application of section 2501(a)(2) and expanded section to include debt obligations of United States persons or the United States, a State or any political subdivision thereof, or the District of Columbia.
+
+#### Effective and Termination Dates of 2010 Amendment
+
+Amendment by Pub. L. 111–312 applicable to estates of decedents dying, generation-skipping transfers, and gifts made, after Dec. 31, 2009, see section 302(f) of Pub.L. 111–312, set out as a note under section 2001 of this title.
+
+Section 901 of Pub. L. 107–16 applicable to amendments by section 302(e) of Pub. L. 111–312, see section 304 of Pub. L. 111–312, set out as a note under section 121 of this title.
 
 #### Effective Date of 2002 Amendment
 
@@ -44,7 +50,7 @@ Amendment by Pub. L. 107–147 effective as if included in the provisions of the
 
 Amendment by Pub. L. 107–16 applicable to gifts made after Dec. 31, 2009, see section 511(f)(3) of Pub. L. 107–16, set out as a note under section 2502 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1966 Amendment
 

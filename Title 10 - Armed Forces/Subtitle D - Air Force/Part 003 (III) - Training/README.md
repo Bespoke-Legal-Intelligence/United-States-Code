@@ -12,9 +12,9 @@
 
 #### Amendments
 
-1993—Pub. L. 103–160, div. A, title XI, §1178(c), Nov. 30, 1993, 107 Stat. 1769, added item for chapter 905.
+<b>1993</b>—Pub. L. 103–160, div. A, title XI, §1178(c), Nov. 30, 1993, 107 Stat. 1769, added item for chapter 905.
 
-1964—Pub. L. 88–647, title III, §301(27), Oct. 13, 1964, 78 Stat. 1073, struck out chapter 905.
+<b>1964</b>—Pub. L. 88–647, title III, §301(27), Oct. 13, 1964, 78 Stat. 1073, struck out chapter 905.
 
 
 ---

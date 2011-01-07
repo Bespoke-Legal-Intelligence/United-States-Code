@@ -22,7 +22,7 @@ This section is revised to conform to the style and terminology used in title 18
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-1959—Pub. L. 86–70 struck out provisions which made section inapplicable in Alaska.
+<b>1959</b>—Pub. L. 86–70 struck out provisions which made section inapplicable in Alaska.
 

@@ -6,5 +6,5 @@ The Secretary of the Treasury may by regulations require the production of landi
 
 #### Amendments
 
-1986—Pub. L. 99–570 inserted “, or to comply with international obligations” before period at end.
+<b>1986</b>—Pub. L. 99–570 inserted “, or to comply with international obligations” before period at end.
 

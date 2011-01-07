@@ -6,11 +6,11 @@
 
 &emsp;&emsp;(A) any agency or unit thereof excluded from coverage by the President under subsection (c) of this section; or
 
-&emsp;&emsp;(B) the Federal Bureau of Investigation, the Drug Enforcement Administration, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, Department of Defense intelligence activities the civilian employees of which are subject to section 1590 of title 10, and, as determined by the President, an Executiveagency, or unit thereof, whose principal function is the conduct of foreign intelligence or counterintelligence activities;
+&emsp;&emsp;(B) the Federal Bureau of Investigation, the Drug Enforcement Administration, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, Department of Defense intelligence activities the civilian employees of which are subject to section 1590 of title 10, and, as determined by the President, an Executive agency, or unit thereof, whose principal function is the conduct of foreign intelligence or counterintelligence activities;
 
 &emsp;&emsp;(C) the Federal Election Commission or the Election Assistance Commission;
 
-&emsp;&emsp;(D) the Office of the Comptroller of the Currency, the Office of Thrift Supervision,,<sup>1</sup> the Resolution Trust Corporation, the Farm Credit Administration, the Federal Housing Finance Agency, and the National Credit Union Administration;
+&emsp;&emsp;(D) the Office of the Comptroller of the Currency, the Office of Thrift Supervision,,<sup>1</sup> the Resolution Trust Corporation, the Farm Credit Administration, the Federal Housing Finance Agency, the National Credit Union Administration, the Bureau of Consumer Financial Protection, and the Office of Financial Research;
 
 &emsp;&emsp;(E) the Securities and Exchange Commission; or
 
@@ -74,7 +74,7 @@
 
 (d) Any agency or unit which is excluded from coverage under subsection (c) of this section shall make a sustained effort to bring its personnel system into conformity with the Senior Executive Service to the extent practicable.
 
-(e) The Office may at any time recommend to the President that any exclusion previouslygranted to an agency or unit thereof under subsection (c) of this section be revoked. Upon recommendation of the Office, the President may revoke, by written determination, any exclusion made under subsection (c) of this section.
+(e) The Office may at any time recommend to the President that any exclusion previously granted to an agency or unit thereof under subsection (c) of this section be revoked. Upon recommendation of the Office, the President may revoke, by written determination, any exclusion made under subsection (c) of this section.
 
 (f) If—
 
@@ -84,7 +84,7 @@
 
 > the Office shall, within 30 days after the action, transmit to the Congress written notice of the exclusion or revocation.
 
-(Added Pub. L. 95–454, title IV, §402(a), Oct. 13, 1978, 92 Stat. 1155; amended Pub. L. 96–54, §2(a)(12), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–187, title II, §203, Jan. 8, 1980, 93 Stat. 1368; Pub. L. 100–325, §2(c), May 30, 1988, 102 Stat. 581; Pub. L. 101–73, title VII, §742(c), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(A)\], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 101–624, title XVIII, §1841, Nov. 28, 1990, 104 Stat. 3835; Pub. L. 102–496, title IV, §402(b), Oct. 24, 1992, 106 Stat. 3184; Pub. L. 102–550, title XIII, §1351(b), Oct. 28, 1992, 106 Stat. 3969; Pub. L. 103–359, title V, §501(d), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 107–123, §8(d)(1)(B), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 107–171, title X, §10702(c)(1), May 13, 2002, 116 Stat. 517; Pub. L. 107–252, title VIII, §811(b), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–289, div. A, title I, §1161(g)(2), July 30, 2008, 122 Stat. 2781; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575.)
+(Added Pub. L. 95–454, title IV, §402(a), Oct. 13, 1978, 92 Stat. 1155; amended Pub. L. 96–54, §2(a)(12), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–187, title II, §203, Jan. 8, 1980, 93 Stat. 1368; Pub. L. 100–325, §2(c), May 30, 1988, 102 Stat. 581; Pub. L. 101–73, title VII, §742(c), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(A)\], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 101–624, title XVIII, §1841, Nov. 28, 1990, 104 Stat. 3835; Pub. L. 102–496, title IV, §402(b), Oct. 24, 1992, 106 Stat. 3184; Pub. L. 102–550, title XIII, §1351(b), Oct. 28, 1992, 106 Stat. 3969; Pub. L. 103–359, title V, §501(d), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 107–123, §8(d)(1)(B), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 107–171, title X, §10702(c)(1), May 13, 2002, 116 Stat. 517; Pub. L. 107–252, title VIII, §811(b), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–289, div. A, title I, §1161(g)(2), July 30, 2008, 122 Stat. 2781; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 111–203, title I, §152(d)(4), July 21, 2010, 124 Stat. 1414.)
 
 #### References in Text
 
@@ -93,6 +93,8 @@ Level IV or V of the Executive Schedule, referred to in subsec. (a)(2), are set 
 The date of the enactment of the Civil Service Reform Act of 1978, referred to in subsec. (b)(3), is the date of the enactment of Pub. L. 95–454, which was approved Oct. 13, 1978.
 
 #### Amendments
+
+2010—Subsec. (a)(1)(D). Pub. L. 111–203 substituted “the National Credit Union Administration, the Bureau of Consumer Financial Protection, and the Office of Financial Research;” for “and the National Credit Union Administration;”.
 
 2008—Subsec. (a)(1)(B). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
@@ -139,6 +141,10 @@ Subsec. (a)(2)(iii). Pub. L. 100–235, §2(c)(2), struck out cl. (iii) which re
 1980—Subsec. (a)(1)(C). Pub. L. 96–187 added subpar. (C).
 
 1979—Subsec. (a)(1)(B). Pub. L. 96–54 inserted “and,” after “Security Agency,”.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Effective Date of 2008 Amendment
 

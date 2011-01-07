@@ -10,7 +10,7 @@ R.S. §259 derived from acts Sept. 24, 1789, ch. 20, §35, 1 Stat. 92; June 25, 
 
 #### Amendments
 
-1877—Act Feb. 27, 1877, struck out “agriculture” before “manufactures”.
+<b>1877</b>—Act Feb. 27, 1877, struck out “agriculture” before “manufactures”.
 
 #### Change of Name
 

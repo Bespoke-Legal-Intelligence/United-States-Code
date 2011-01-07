@@ -22,3 +22,7 @@ The Secretary may by regulations require a return to be filed containing such in
 
 Section applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under section 2601 of this title.
 
+#### Extension of Time for Filing Return
+
+Pub. L. 111–312, title III, §301(d)(2), Dec. 17, 2010, 124 Stat. 3300, provided that: “In the case of any generation-skipping transfer made after December 31, 2009, and before the date of the enactment of this Act \[Dec. 17, 2010\], the due date for filing any return under section 2662 of the Internal Revenue Code of 1986 (including any election required to be made on such a return) shall not be earlier than the date which is 9 months after the date of the enactment of this Act.”
+

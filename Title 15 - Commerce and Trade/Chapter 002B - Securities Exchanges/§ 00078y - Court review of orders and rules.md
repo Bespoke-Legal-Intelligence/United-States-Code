@@ -2,7 +2,7 @@
 
 #### (a) Final Commission orders; persons aggrieved; petition; record; findings; affirmance, modification, enforcement, or setting aside of orders; remand to adduce additional evidence
 
-(1) A person aggrieved by a final order of the Commission entered pursuant to this chapter may obtain review of the order in the United States Court of Appeals for the circuit in which he resides or has his principal place of business, or for the District of Columbia Circuit, by filing in such court, within sixty days after the entry of the order, a written petition requesting that the order be modified or set aside in whole or in part.
+(1) A person aggrieved by a final order of the Commission entered pursuant to this chapter may obtain review of the order in the United States Court of Appeals for the circuit in which he resides or has his principal place of business, or for the District of Columbia Circuit, by filing in such court, within sixty days after the entryof the order, a written petition requesting that the order be modified or set aside in whole or in part.
 
 (2) A copy of the petition shall be transmitted forthwith by the clerk of the court to a member of the Commission or an officer designated by the Commission for that purpose. Thereupon the Commission shall file in the court the record on which the order complained of is entered, as provided in section 2112 of title 28 and the Federal Rules of Appellate Procedure.
 
@@ -30,7 +30,7 @@
 
 (2) The filing of a petition under this section does not operate as a stay of the Commission's order or rule. Until the court's jurisdiction becomes exclusive, the Commission may stay its order or rule pending judicial review if it finds that justice so requires. After the filing of a petition under this section, the court, on whatever conditions may be required and to the extent necessary to prevent irreparable injury, may issue all necessary and appropriate process to stay the order or rule or to preserve status or rights pending its review; but (notwithstanding section 705 of title 5) no such process may be issued by the court before the filing of the record or the materials set forth in subsection (b)(2) of this section unless: (A) the Commission has denied a stay or failed to grant requested relief, (B) a reasonable period has expired since the filing of an application for a stay without a decision by the Commission, or (C) there was reasonable ground for failure to apply to the Commission.
 
-(3) When the same order or rule is the subject of one or more petitions for review filed under this section and an action for enforcement filed in a district court of the United States under section 78u(d) or (e) of this title, that court in which the petition or the action is first filed has jurisdiction with respect to the order or rule to the exclusion of any other court, and thereupon all such proceedings shall be transferred to that court; but, for the convenience of the parties in the interest of justice, that court may thereafter transfer all the proceedings to any other court of appeals or district court of the United States, whether or not a petition for review or an action for enforcement was originally filed in the transferee court. The scope of review by a district court under section 78u(d) or (e) of this title is in all cases the same as by a court of appeals under this section.
+(3) When the same order or rule is the subject of one or more petitions for review filed under this section and an action for enforcement filed in a district court of the United States under section 78u(d) or (e) of this title, that court in which the petition or the action is first filed has jurisdiction with respect to the order or rule to the exclusion of any other court, and thereupon all such proceedings shall be transferred to that court; but, for the convenience of the parties in the interest of justice, that court may thereafter transfer all the proceedings to any other court of appeals or district court of the United States, whether or not a petition for review or an action for enforcement was originally filed in the transferee court. The scope of review by a district court under section 78u(d) or (e) of thistitle is in all cases the same as by a court of appeals under this section.
 
 #### (d) Other appropriate regulatory agencies
 
@@ -48,17 +48,17 @@ The Federal Rules of Appellate Procedure, referred to in subsec. (a)(2), are set
 
 #### Amendments
 
-1990—Subsec. (b)(1). Pub. L. 101–432 inserted “78i(h)(2),” after “section 78f,”.
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–432 inserted “78i(h)(2),” after “section 78f,”.
 
-1986—Subsec. (d)(1). Pub. L. 99–571 inserted “and the Secretary of the Treasury insofar as he is acting pursuant to section 78<i>o</i>–5 of this title”.
+<b>1986</b>—Subsec. (d)(1). Pub. L. 99–571 inserted “and the Secretary of the Treasury insofar as he is acting pursuant to section 78<i>o</i>–5 of this title”.
 
-1975—Subsec. (a). Pub. L. 94–29 revised existing provisions into five numbered paragraphs.
+<b>1975</b>—Subsec. (a). Pub. L. 94–29 revised existing provisions into five numbered paragraphs.
 
 Subsec. (b). Pub. L. 94–29 substituted provisions permitting persons adversely affected by any rule promulgated by the Commission pursuant to sections 78f, 78k, 78k–1, 78<i>o</i>(c)(5) or (6), 78<i>o</i>–3, 78q, 78q–1, or 78s of this title to obtain direct review in an appropriate Court of Appeals for provisions that commencement of proceedings under subsec. (a) shall not, unless specifically ordered by the court, operate as a stay of the Commission's order.
 
 Subsecs. (c), (d). Pub. L. 94–29 added subsecs. (c) and (d).
 
-1958—Subsec. (a). Pub. L. 85–791, in second sentence, substituted “transmitted by the clerk of the court to” for “served upon”, struck out “certify and” before “file in the court”, struck out “a transcript of” after “file in the court”, and inserted “as provided in section 2112 of title 28”, and, in third sentence, substituted “petition” for “transcript”, and “jurisdiction, which upon the filing of the record shall be exclusive” for “exclusive jurisdiction”.
+<b>1958</b>—Subsec. (a). Pub. L. 85–791, in second sentence, substituted “transmitted by the clerk of the court to” for “served upon”, struck out “certify and” before “file in the court”, struck out “a transcript of” after “file in the court”, and inserted “as provided in section 2112 of title 28”, and, in third sentence, substituted “petition” for “transcript”, and “jurisdiction, which upon the filing of the record shall be exclusive” for “exclusive jurisdiction”.
 
 #### Change of Name
 

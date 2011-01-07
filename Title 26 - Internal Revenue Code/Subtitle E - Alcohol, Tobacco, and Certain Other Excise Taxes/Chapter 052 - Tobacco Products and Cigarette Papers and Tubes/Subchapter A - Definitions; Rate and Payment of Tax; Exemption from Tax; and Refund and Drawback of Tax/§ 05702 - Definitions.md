@@ -40,7 +40,7 @@ When used in this chapter—
 
 #### (h) Export warehouse
 
-“Export warehouse” means a bonded internal revenue warehouse for the storage of tobaccoproducts or cigarette papers or tubes or any processed tobacco, upon which the internal revenue tax has not been paid, for subsequent shipment to a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States, or for consumption beyond the jurisdiction of the internal revenue laws of the United States.
+“Export warehouse” means a bonded internal revenue warehouse for the storage of tobacco products or cigarette papers or tubes or any processed tobacco, upon which the internal revenue tax has not been paid, for subsequent shipment to a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States, or for consumption beyond the jurisdiction of the internal revenue laws of the United States.
 
 #### (i) Export warehouse proprietor
 
@@ -104,7 +104,7 @@ The term “roll-your-own tobacco” means any tobacco which, because of its app
 
 #### Amendments
 
-2009—Subsec. (h). Pub. L. 111–3, §702(a)(5)(A), substituted “tobacco products or cigarette papers or tubes or any processed tobacco” for “tobacco products and cigarette papers and tubes”.
+<b>2009</b>—Subsec. (h). Pub. L. 111–3, §702(a)(5)(A), substituted “tobacco products or cigarette papers or tubes or any processed tobacco” for “tobacco products and cigarette papers and tubes”.
 
 Subsec. (j). Pub. L. 111–3, §702(a)(5)(B), inserted “, or any processed tobacco,” after “tobacco products or cigarette papers or tubes”.
 
@@ -114,7 +114,7 @@ Subsec. (<i>o</i>). Pub. L. 111–3, §702(d)(1), inserted “or cigars, or for 
 
 Subsec. (p). Pub. L. 111–3, §702(a)(4), added subsec. (p).
 
-2000—Subsec. (f). Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(B)\], redesignated subsec. (g) as (f) and struck out former subsec. (f), which defined “cigarette papers”.
+<b>2000</b>—Subsec. (f). Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(B)\], redesignated subsec. (g) as (f) and struck out former subsec. (f), which defined “cigarette papers”.
 
 Subsec. (g). Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(B)\], redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
@@ -124,7 +124,7 @@ Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(A)\], amended heading and 
 
 Subsecs. (i) to (p). Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(B)\], redesignated subsecs. (i) to (p) as (h) to (<i>o</i>), respectively.
 
-1997—Subsec. (c). Pub. L. 105–33, §9302(g)(3)(A), substituted “pipe tobacco, and roll-your-own tobacco” for “and pipe tobacco”.
+<b>1997</b>—Subsec. (c). Pub. L. 105–33, §9302(g)(3)(A), substituted “pipe tobacco, and roll-your-own tobacco” for “and pipe tobacco”.
 
 Subsec. (d). Pub. L. 105–33, §9302(g)(3)(B)(i), substituted “pipe tobacco, or roll-your-own tobacco” for “or pipe tobacco” in introductory provisions.
 
@@ -134,25 +134,25 @@ Subsec. (k). Pub. L. 105–33, §9302(h)(4), inserted “under section 5704” a
 
 Subsec. (p). Pub. L. 105–33, §9302(g)(2), added subsec. (p).
 
-1990—Subsec. (m). Pub. L. 101–508 substituted heading for one which read: “Wholesale price” and amended text generally. Prior to amendment, text read as follows: “ ‘Wholesale price’ means the manufacturer's, or importer's, suggested delivered price at which the cigars are to be sold to retailers, inclusive of the tax imposed by this chapter or section 7652, but exclusive of any State or local taxes imposed on cigars as a commodity, and before any trade, cash, or other discounts, or any promotion, advertising, display, or similar allowances. Where the manufacturer's or importer's suggested delivered price to retailers is not adequately supported by bona fide arm's length sales, or where the manufacturer or importer has no suggested delivered price to retailers, the wholesale price shall be the price for which cigars of comparable retail price are sold to retailers in the ordinary course of trade as determined by the Secretary.”
+<b>1990</b>—Subsec. (m). Pub. L. 101–508 substituted heading for one which read: “Wholesale price” and amended text generally. Prior to amendment, text read as follows: “ ‘Wholesale price’ means the manufacturer's, or importer's, suggested delivered price at which the cigars are to be sold to retailers, inclusive of the tax imposed by this chapter or section 7652, but exclusive of any State or local taxes imposed on cigars as a commodity, and before any trade, cash, or other discounts, or any promotion, advertising, display, or similar allowances. Where the manufacturer's or importer's suggested delivered price to retailers is not adequately supported by bona fide arm's length sales, or where themanufacturer or importer has no suggested delivered price to retailers, the wholesale price shall be the price for which cigars of comparable retail price are sold to retailers in the ordinary course of trade as determined by the Secretary.”
 
-1988—Subsec. (c). Pub. L. 100–647, §5061(c)(1), inserted reference to pipe tobacco.
+<b>1988</b>—Subsec. (c). Pub. L. 100–647, §5061(c)(1), inserted reference to pipe tobacco.
 
 Subsec. (d). Pub. L. 100–647, §5061(c)(2), inserted reference to pipe tobacco in introductory provisions and in par. (1).
 
 Subsec. (<i>o</i>). Pub. L. 100–647, §5061(b), added subsec. (<i>o</i>).
 
-1986—Subsec. (c). Pub. L. 99–272, §13202(b)(2), inserted reference to smokeless tobacco.
+<b>1986</b>—Subsec. (c). Pub. L. 99–272, §13202(b)(2), inserted reference to smokeless tobacco.
 
 Subsec. (d). Pub. L. 99–272, §13202(b)(3), inserted references to smokeless tobacco.
 
 Subsec. (n). Pub. L. 99–272, §13202(b)(4), added subsec. (n).
 
-1976—Subsec. (k). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (k). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (m). Pub. L. 94–455, §2128(b), added subsec. (m).
 
-1965—Subsec. (a). Pub. L. 89–44, §§502(b)(3)(A), 808(a), redesignated subsec. (b) as (a), repealed former subsec. (a) which related to manufactured tobacco and, in subsec. (a) as so redesignated, allowed the use of any substance containing tobacco (other than any roll of tobacco which is a cigarette within the meaning of subsec. (b)(2) as a wrapper in addition to the leaf tobacco previously allowed.
+<b>1965</b>—Subsec. (a). Pub. L. 89–44, §§502(b)(3)(A), 808(a), redesignated subsec. (b) as (a), repealed former subsec. (a) which related to manufactured tobacco and, in subsec. (a) as so redesignated, allowed the use of any substance containing tobacco (other than any roll of tobacco which is a cigarette within the meaning of subsec. (b)(2) as a wrapper in addition to the leaf tobacco previously allowed.
 
 Subsec. (b). Pub. L. 89–44, §§502(b)(3)(A), 808(a), redesignated subsec. (c) as (b) and permitted the use, as a wrapper for cigarettes in addition to paper and substances other than tobacco as previously allowed, any substance containing tobacco, which, because of the finished product's appearance, tobacco type, labeling, and packaging, is likely to be offered to or purchased by consumers as cigarettes. Former subsec. (b) redesignated (a).
 
@@ -168,7 +168,7 @@ Subsec. (m). Pub. L. 89–44, §502(b)(3)(A), repealed subsec. (m) which related
 
 Subsecs. (n), (<i>o</i>). Pub. L. 89–44, §502(b)(3)(A), redesignated subsec. (n) and (<i>o</i>) as (k) and (<i>l</i>), respectively.
 
-1958—Subsec. (a). Pub. L. 85–859 inserted the term “for removal, or merely removed”.
+<b>1958</b>—Subsec. (a). Pub. L. 85–859 inserted the term “for removal, or merely removed”.
 
 Subsecs. (b) to (d). Pub. L. 85–859 redesignated subsecs. (c), (d), and (f) as (b), (c), and (d), respectively. Former subsecs. (b), (c), and (d) redesignated (e), (b), and (c), respectively.
 
@@ -194,13 +194,15 @@ Subsec. (<i>o</i>). Pub. L. 85–859 redesignated former subsec. (n) as (<i>o</i
 
 #### Effective Date of 2009 Amendment
 
+Except as otherwise provided, amendment by Pub. L. 111–3 effective Apr. 1, 2009, see section 3 of Pub. L. 111–3, set out as an Effective Date note under section 1396 of Title 42, The Public Health and Welfare.
+
 Pub. L. 111–3, title VII, §702(a)(6), Feb. 4, 2009, 123 Stat. 109, provided that: “The amendments made by this subsection \[amending this section and sections 5712, 5713, 5721, 5722, 5723, and 5741 of this title\] shall take effect on April 1, 2009.”
 
 Pub. L. 111–3, title VII, §702(d)(2), Feb. 4, 2009, 123 Stat. 110, provided that: “The amendment made by this subsection \[amending this section\] shall apply to articles removed (as defined in section 5702(j) of the Internal Revenue Code of 1986) after March 31, 2009.”
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title III, §315(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644, provided that: “Theamendments made by this section \[amending this section, section 5761 of this title, and provisions set out as a note under section 5701 of this title\] shall take effect as if included in section 9302 of the Balanced Budget Act of 1997 \[Pub. L. 105–33\].”
+Pub. L. 106–554, §1(a)(7) \[title III, §315(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644, provided that: “The amendments made by this section \[amending this section, section 5761 of this title, and provisions set out as a note under section 5701 of this title\] shall take effect as if included in section 9302 of the Balanced Budget Act of 1997 \[Pub. L. 105–33\].”
 
 #### Effective Date of 1997 Amendment
 
@@ -212,7 +214,7 @@ Amendment by Pub. L. 101–508 applicable with respect to articles removed after
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 applicable to pipe tobacco removed, within the meaning of subsec. (k) of this section, after Dec. 31, 1988, with transition rule, see section 5061(d) of Pub. L. 100–647, set out as a note under section 5701 of this title.
+Amendment by Pub. L. 100–647 applicable to pipe tobacco removed, within the meaning of subsec. (k) ofthis section, after Dec. 31, 1988, with transition rule, see section 5061(d) of Pub. L. 100–647, set out as a note under section 5701 of this title.
 
 #### Effective Date of 1986 Amendment
 

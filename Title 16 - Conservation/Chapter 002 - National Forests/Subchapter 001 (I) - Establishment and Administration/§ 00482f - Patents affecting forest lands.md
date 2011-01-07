@@ -4,7 +4,3 @@ On and after June 13, 1939, all patents issued under the United States mining la
 
 (June 13, 1939, ch. 201, §2, 53 Stat. 818.)
 
-#### References in Text
-
-The United States mining laws, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
-

@@ -20,11 +20,11 @@ Requests To Obtain Information.—(1) The Chairman of the National Transportatio
 
 (6) The head of a Federal department or agency that issues motor vehicle operator's licenses may request the chief driver licensing official of a State to obtain information under subsection (a) of this section about an individual applicant for a motor vehicle operator's license from such department or agency. The department or agency may receive the information, provided it transmits to the Secretary a report regarding any individual who is denied a motor vehicle operator's license by that department or agency for cause; whose motor vehicle operator's license is revoked, suspended, or canceled by that department or agency for cause; or about whom the department or agency has been notified of a conviction of any of the motor vehicle-related offenses or comparable offenses listed in section 30304(a)(3) and over whom the department or agency has licensing authority. The report shall contain the information specified in section 30304(b).
 
-(7) An individual who is an officer, chief warrant officer, or enlisted member of the Coast Guard or Coast Guard Reserve (including a cadetor an applicant for appointment or enlistment of any of the foregoing and any member of a uniformed service who is assigned to the Coast Guard) may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the Commandant of the Coast Guard. The Commandant may receive the information and shall make the information available to the individual. Information may not be obtained from the Register under this paragraph if the information was entered in the Register more than 3 years before the request, unless the information is about a revocation or suspension still in effect on the date of the request.
+(7) An individual who is an officer, chief warrant officer, or enlisted member of the Coast Guard or Coast Guard Reserve (including a cadet or an applicant for appointment or enlistment of any of the foregoing and any member of a uniformed service who is assigned to the Coast Guard) may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the Commandant of the Coast Guard. The Commandant may receive the information and shall make the information available to the individual. Information may not be obtained from the Register under this paragraph if the information was entered in the Register more than 3 years before the request, unless the information is about a revocation or suspension still in effect on the date of the request.
 
 (8) An individual who is seeking employment by an air carrier as a pilot may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the prospective employer of the individual or to the Secretary of Transportation. Information may not be obtained from the National Driver Register under this subsection if the information was entered in the Register more than 5 years before the request unless the information is about a revocation or suspension still in effect on the date of the request.
 
-(9) An individual who has or is seeking access to national security information for purposes of Executive Order No. 12968, or any successor Executive order, or an individual who is being investigated for Federal employment under authority of Executive Order No. 10450, or any successor Executive order, may request the chief driver licensing official of a State to provide information about the individual pursuant to subsection (a) of this section to a Federal department or agency that is authorized to investigate the individual for the purpose of assisting in the determination of the eligibility of the individual for access to national security information or for Federal employment in a position requiring access to national security information. A Federal department or agency that receives information about an individual under the preceding sentence may use such information only for purposes of the authorized investigation and only in accordance with applicable law.
+(9) An individual who has or is seeking access to national security information for purposes of Executive Order No. 12968, or any successor Executive order, or an individual who is being investigated for Federal employment under authority of Executive Order No. 10450, or any successor Executive order, may request the chief driver licensing official of a State to provide information about the individual pursuant to subsection (a) of this section to a Federal department or agency that is authorized to investigatethe individual for the purpose of assisting in the determination of the eligibility of the individual for access to national security information or for Federal employment in a position requiring access to national security information. A Federal department or agency that receives information about an individual under the preceding sentence may use such information only for purposes of the authorized investigation and only in accordance with applicable law.
 
 (10) A request under this subsection shall be made in the form and way the Secretary of Transportation prescribes by regulation.
 
@@ -84,7 +84,7 @@ This amends 49:30305(b)(8), as redesignated by section 207(b) of the Coast Guard
 
 #### Pub. L. 105–102, §2(18)(B)
 
-This amends 49:30305(b) to redesignate paragraph (8), as redesignated by section 502(b)(1) of the Federal Aviation Reauthorization Act of 1996 (Public Law 104–264, 110 Stat. 3262), as paragraph (9), because section 207(b)of the Coast Guard Authorization Act of 1996 (Public Law 104–324, 110 Stat. 3908), redesignated paragraph (7) as paragraph (8) but did not redesignate paragraph (8) as paragraph (9).
+This amends 49:30305(b) to redesignate paragraph (8), as redesignated by section 502(b)(1) of the Federal Aviation Reauthorization Act of 1996 (Public Law 104–264, 110 Stat. 3262), as paragraph (9), because section 207(b) of the Coast Guard Authorization Act of 1996 (Public Law 104–324, 110 Stat. 3908), redesignated paragraph (7) as paragraph (8) but did not redesignate paragraph (8) as paragraph (9).
 
 #### References in Text
 
@@ -96,9 +96,9 @@ Act of July 14, 1960, referred to in subsec. (d), is set out as a note under sec
 
 #### Amendments
 
-2004—Subsec. (b)(9) to (12). Pub. L. 108–375 added par. (9) and redesignated former pars. (9) to (11) as (10) to (12), respectively.
+<b>2004</b>—Subsec. (b)(9) to (12). Pub. L. 108–375 added par. (9) and redesignated former pars. (9) to (11) as (10) to (12), respectively.
 
-1998—Subsec. (b)(2). Pub. L. 105–178, §2006(b)(1)(A), inserted before period at end “, unless the information is about a revocation or suspension still in effect on the date of the request”.
+<b>1998</b>—Subsec. (b)(2). Pub. L. 105–178, §2006(b)(1)(A), inserted before period at end “, unless the information is about a revocation or suspension still in effect on the date of the request”.
 
 Subsec. (b)(6). Pub. L. 105–178, §2006(b)(2)(B), added par. (6). Former par. (6) redesignated (10).
 
@@ -114,13 +114,13 @@ Subsec. (b)(10). Pub. L. 105–178, §2006(b)(2)(A), redesignated par. (6) as (1
 
 Subsec. (b)(11). Pub. L. 105–178, §2006(b)(2)(C), added par. (11).
 
-1997—Subsec. (b)(8). Pub. L. 105–102, §2(18)(B), redesignated par. (8), relating to request, as (9).
+<b>1997</b>—Subsec. (b)(8). Pub. L. 105–102, §2(18)(B), redesignated par. (8), relating to request, as (9).
 
 Pub. L. 105–102, §2(18)(A), in par. (8), relating to individual seeking employment as pilot, substituted “subsection (a) of this section” for “paragraph (2)”.
 
 Subsec. (b)(9). Pub. L. 105–102, §2(18)(B), redesignated par. (8), relating to request, as (9).
 
-1996—Subsec. (b)(7). Pub. L. 104–324, §207(b), added par. (7). Former par. (7), relating to individual seeking employment as pilot, redesignated (8).
+<b>1996</b>—Subsec. (b)(7). Pub. L. 104–324, §207(b), added par. (7). Former par. (7), relating to individual seeking employment as pilot, redesignated (8).
 
 Pub. L. 104–264, §502(b), added par. (7). Former par. (7), relating to request, redesignated (8).
 

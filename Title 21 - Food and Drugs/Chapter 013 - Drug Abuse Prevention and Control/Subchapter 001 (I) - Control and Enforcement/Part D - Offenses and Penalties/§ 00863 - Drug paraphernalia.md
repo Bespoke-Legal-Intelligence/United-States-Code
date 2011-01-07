@@ -78,7 +78,7 @@ This section shall not apply to—
 
 &emsp;(1) any person authorized by local, State, or Federal law to manufacture, possess, or distribute such items; or
 
-&emsp;(2) any item that, in the normal lawful course of business, is imported, exported, transported, or sold through the mail or by any other means, and traditionally intended for use with tobacco products, including any pipe, paper, or accessory.
+&emsp;(2) any item that, in the normal lawful course of business, is imported, exported,transported, or sold through the mail or by any other means, and traditionally intended for use with tobacco products, including any pipe, paper, or accessory.
 
 (Pub. L. 91–513, title II, §422, as added and amended Pub. L. 101–647, title XXIV, §2401(a)–(c), Nov. 29, 1990, 104 Stat. 4858, 4859; Pub. L. 106–310, div. B, title XXXVI, §3614, Oct. 17, 2000, 114 Stat. 1230.)
 
@@ -88,9 +88,9 @@ The text of section 857(b) to (f) of this title, which was transferred to subsec
 
 #### Amendments
 
-2000—Subsec. (d). Pub. L. 106–310 inserted “methamphetamine,” after “PCP,” in introductory provisions.
+<b>2000</b>—Subsec. (d). Pub. L. 106–310 inserted “methamphetamine,” after “PCP,” in introductory provisions.
 
-1990—Subsec. (b). Pub. L. 101–647, §2401(c)(1), substituted “fined under title 18” for “fined not more than $100,000”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–647, §2401(c)(1), substituted “fined under title 18” for “fined not more than $100,000”.
 
 Pub. L. 101–647, §2401(b), redesignated subsec. (b) of section 857 of this title as subsec. (b) of this section. See Codification note above.
 

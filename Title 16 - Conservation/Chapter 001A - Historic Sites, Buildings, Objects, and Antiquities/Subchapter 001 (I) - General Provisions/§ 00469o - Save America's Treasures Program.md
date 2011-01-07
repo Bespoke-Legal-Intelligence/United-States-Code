@@ -108,7 +108,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary shall consult with the organizations described in subsection (a) in preparing the list of projects to be provided grants for a fiscal year by the Secretary under the program.
+&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary shall consult with the organizations described insubsection (a) in preparing the list of projects to be provided grants for a fiscal year by the Secretary under the program.
 
 #### (ii) Limitation
 

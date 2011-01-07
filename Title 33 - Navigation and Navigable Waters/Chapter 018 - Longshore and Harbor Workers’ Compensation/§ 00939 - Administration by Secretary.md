@@ -18,8 +18,6 @@ The Secretary shall establish compensation districts, to include the high seas a
 
 #### References in Text
 
-The civil service laws, referred to in subsec. (a), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 Section 945 of this title, referred to in subsec. (a), was repealed by Pub. L. 98–426, §25, Sept. 28, 1984, 98 Stat. 1654. See section 944 of this title.
 
 #### Codification
@@ -32,15 +30,15 @@ Former second sentence of subsec. (c), providing that the Federal Board for Voca
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–426, §27(c), substituted “Secretary” for “United States Employees’ Compensation Commission”. See Transfer of Functions note set out under section 902 of this title.
+<b>1984</b>—Subsec. (a). Pub. L. 98–426, §27(c), substituted “Secretary” for “United States Employees’ Compensation Commission”. See Transfer of Functions note set out under section 902 of this title.
 
 Subsecs. (b), (c)(2). Pub. L. 98–426, §27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
 
-1972—Subsec. (c). Pub. L. 92–576 added par. (1) and redesignated existing provisions as par. (2).
+<b>1972</b>—Subsec. (c). Pub. L. 92–576 added par. (1) and redesignated existing provisions as par. (2).
 
-1956—Subsec. (c). Act July 26, 1956, substituted “rehabilitation” for “education” at end of first sentence, and substituted last two sentences, relating to use of special fund where necessary rehabilitation services are not available, and availability of fund in amounts authorized annually for the Department of Labor for former sentence which provided that “If any surplus is left in any fiscal year in the fund provided for in section 944 of this title, such surplus may be used in subsequent fiscal years for the purposes of administration and investigation.”
+<b>1956</b>—Subsec. (c). Act July 26, 1956, substituted “rehabilitation” for “education” at end of first sentence, and substituted last two sentences, relating to use of special fund where necessary rehabilitation services are not available, and availability of fund in amounts authorized annually for the Department of Labor for former sentence which provided that “If any surplus is left in any fiscal year in the fund provided for in section 944 of this title, such surplus may be used in subsequent fiscal years for the purposes of administration and investigation.”
 
-1949—Subsec. (a). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+<b>1949</b>—Subsec. (a). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
 #### Effective Date of 1984 Amendment
 

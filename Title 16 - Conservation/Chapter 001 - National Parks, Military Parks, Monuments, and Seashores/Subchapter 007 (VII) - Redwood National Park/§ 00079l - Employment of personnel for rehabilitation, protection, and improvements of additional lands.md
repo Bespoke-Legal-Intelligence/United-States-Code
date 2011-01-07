@@ -6,7 +6,7 @@ In order to utilize the skills of individuals presently working in the woods and
 
 #### (b) Appointment and compensation of personnel for administration of expanded Park; appointment, etc., of additional personnel
 
-In order to effectively administer the expanded Redwood National Park created by this Act in a manner that will provide maximum protection to its resources and to provide for maximum visitor use and enjoyment to ease the local economic effects of this taking, the Secretary shall have power to appoint and fix the compensation of two full-time and twenty temporary employees in the competitive service. The Secretary shall further have power to appoint and fix the compensation of an additional thirty-two full-time and forty temporary employees in the competitive service as provided by this subsection at the time of the donation of those park lands or interests in land owned by the State of California as are within the boundaries of Redwood National Park as provided herein. In filling these positions, preference shall be given to those State employees affected by this transfer for a period not to exceed six years from the date of transfer; permanent State civil service employees shall be provided the opportunity to transfer to a comparable Federal civil service classification notwithstanding applicable civil service laws and regulations.
+In order to effectively administer the expanded Redwood National Park created by this Act in a manner that will provide maximum protection to its resources and to provide for maximum visitor use and enjoyment to ease the local economic effects of this taking, the Secretary shall have power to appoint and fix the compensation of two full-time and twenty temporary employees in the competitive service. The Secretary shall further have power to appoint and fix the compensation of an additional thirty-two full-time and forty temporary employees in the competitive service as provided by this subsection at the time of the donation ofthose park lands or interests in land owned by the State of California as are within the boundaries of Redwood National Park as provided herein. In filling these positions, preference shall be given to those State employees affected by this transfer for a period not to exceed six years from the date of transfer; permanent State civil service employees shall be provided the opportunity to transfer to a comparable Federal civil service classification notwithstanding applicable civil service laws and regulations.
 
 #### (c) Job positions subject to preferential treatment for affected employees
 
@@ -54,7 +54,7 @@ The Secretary is directed to seek and authorized to enter into agreements with a
 
 &emsp;(A) seek the cooperation of the State of California and the county and local governments within Humboldt and Del Norte Counties in the implementation of the provisions of this section and in the adoption of similar provisions for full consideration of affected employees with regard to State, county, and local jobs and activities; and
 
-&emsp;(B) appoint, from among nominees proposed by certified or recognized unions representing employees, a person or persons who shall serve as the Secretary's liaison with employees andtheir union and as consultant to the Secretary with regard to the administration of those provisions of this Act for which the Secretary is responsible.
+&emsp;(B) appoint, from among nominees proposed by certified or recognized unions representing employees, a person or persons who shall serve as the Secretary's liaison with employees and their union and as consultant to the Secretary with regard to the administration of those provisions of this Act for which the Secretary is responsible.
 
 #### (h) Judicial review of determination of Secretary respecting employee, etc.; procedures applicable
 
@@ -70,19 +70,17 @@ Nothing in this section shall be construed to affect any additional or alternati
 
 This Act, referred to in subsecs. (a), (b), (g)(3)(B), and (h), means Pub. L. 95–250, Mar. 27, 1978, 92 Stat. 163, as amended, which, insofar as classified to the Code, enacted sections 79c–1, 79k to 79q of this title, amended sections 1a–1, 79b, and 79c of this title, and enacted provisions set out as a note under section 79k of this title. For complete classification of this Act to the Code, see Tables.
 
-The civil service laws, referred to in subsec. (b), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
-
 #### Codification
 
 Section was not enacted as part of Pub. L. 90–545, Oct. 2, 1968, 82 Stat. 931, which comprises this subchapter.
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–277, §101(f) \[title VIII, §405(b)(1)\], struck out at end “In filling these positions, preference shall be given to affected employees (as defined in title II of this Act) for a period ending on September 30, 1984, notwithstanding applicable civil service laws and regulations.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §101(f) \[title VIII, §405(b)(1)\], struck out at end “In filling these positions, preference shall be given to affected employees (as defined in title II of this Act) for a period ending on September 30, 1984, notwithstanding applicable civil service laws and regulations.”
 
 Subsec. (b). Pub. L. 105–277, §101(f) \[title VIII, §405(b)(2)\], struck out after first sentence “In filling these positions, preference shall be given to affected employees (as defined in title II) for a period ending on September 30, 1984, notwithstanding applicable civil service laws and regulations.”
 
-1980—Subsec. (h). Pub. L. 96–417 substituted provision for judicial review under section 2395 of title 19 for review under section 2322 of title 19 and provided for review in the appropriate court of appeals of the United States and for review of the judgment of the court of appeals by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
+<b>1980</b>—Subsec. (h). Pub. L. 96–417 substituted provision for judicial review under section 2395 of title 19 for review under section 2322 of title 19 and provided for review in the appropriate court of appeals of the United States and for review of the judgment of the court of appeals by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
 #### Effective Date of 1980 Amendment
 
@@ -90,7 +88,7 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 
 #### Reference to Secretary as Reference to Secretary of Department of the Interior; Exception
 
-Reference to Secretary, unless otherwise indicated, as reference to Secretary of Department of the Interior, except for purposes of subsecs. (d) to (i) of this section, where reference to Secretary shall refer to Secretary of the Department of Labor, see section 109 of Pub. L. 95–250, set out as a note under section 79k of this title.
+Reference to Secretary, unless otherwise indicated, as reference to Secretary of Department of the Interior,except for purposes of subsecs. (d) to (i) of this section, where reference to Secretary shall refer to Secretary of the Department of Labor, see section 109 of Pub. L. 95–250, set out as a note under section 79k of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “filling”.</i>
 

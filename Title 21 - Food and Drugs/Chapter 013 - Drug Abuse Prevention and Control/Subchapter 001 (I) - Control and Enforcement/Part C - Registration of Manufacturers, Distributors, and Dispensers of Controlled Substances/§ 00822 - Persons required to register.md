@@ -2,7 +2,7 @@
 
 #### (a) Period of registration
 
-(1) Every person who manufactures or distributes any controlled substance or list I chemical, or who proposes to engage in the manufacture or distribution of any controlled substance or list I chemical, shall obtain annually a registration issued by the Attorney General in accordance with the rules and regulations promulgated by him.
+(1) Every person who manufactures or distributes any controlled substance or list I chemical, or who proposes to engage in the manufacture or distribution of any controlled substance or list I chemical, shall obtain annually a registration issued by the Attorney General in accordancewith the rules and regulations promulgated by him.
 
 (2) Every person who dispenses, or who proposes to dispense, any controlled substance, shall obtain from the Attorney General a registration issued in accordance with the rules and regulations promulgated by him. The Attorney General shall, by regulation, determine the period of such registrations. In no event, however, shall such registrations be issued for less than one year nor for more than three years.
 
@@ -32,17 +32,33 @@ A separate registration shall be required at each principal place of business or
 
 The Attorney General is authorized to inspect the establishment of a registrant or applicant for registration in accordance with the rules and regulations promulgated by him.
 
-(Pub. L. 91–513, title II, §302, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 98–473, title II, §510, Oct. 12, 1984, 98 Stat. 2072; Pub. L. 103–200, §3(b), Dec. 17, 1993, 107 Stat. 2336.)
+#### (g) Delivery of controlled substances by ultimate users for disposal
+
+(1) An ultimate user who has lawfully obtained a controlled substance in accordance with this subchapter may, without being registered, deliver the controlled substance to another person for the purpose of disposal of the controlled substance if—
+
+&emsp;(A) the person receiving the controlled substance is authorized under this subchapter to engage in such activity; and
+
+&emsp;(B) the disposal takes place in accordance with regulations issued by the Attorney General to prevent diversion of controlled substances.
+
+(2) In developing regulations under this subsection, the Attorney General shall take into consideration the public health and safety, as well as the ease and cost of program implementation and participation by various communities. Such regulations may not require any entity to establish or operate a delivery or disposal program.
+
+(3) The Attorney General may, by regulation, authorize long-term care facilities, as defined by the Attorney General by regulation, to dispose of controlled substances on behalf of ultimate users who reside, or have resided, at such long-term care facilities in a manner that the Attorney General determines will provide effective controls against diversion and be consistent with the public health and safety.
+
+(4) If a person dies while lawfully in possession of a controlled substance for personal use, any person lawfully entitled to dispose of the decedent's property may deliver the controlled substance to another person for the purpose of disposal under the same conditions as provided in paragraph (1) for an ultimate user.
+
+(Pub. L. 91–513, title II, §302, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 98–473, title II, §510, Oct. 12, 1984, 98 Stat. 2072; Pub. L. 103–200, §3(b), Dec. 17, 1993, 107 Stat. 2336; Pub. L. 111–273, §3(a), Oct. 12, 2010, 124 Stat. 2859.)
 
 #### References in Text
 
-This subchapter, referred to in subsecs. (b) and (c), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
+This subchapter, referred to in subsecs. (b), (c), and (g)(1), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 
 Section 802(25) of this title, referred to in subsec. (c)(3), was redesignated section 802(26) of this title by Pub. L. 98–473, title II, §507(a), Oct. 12, 1984, 98 Stat. 2071, and was further redesignated section 802(27) of this title by Pub. L. 99–570, title I, §1003(b)(2), Oct. 27, 1986, 100 Stat. 3207–6.
 
 #### Amendments
 
-1993—Subsec. (a)(1). Pub. L. 103–200, §3(b)(1), inserted “or list I chemical” after “controlled substance” in two places.
+<b>2010</b>—Subsec. (g). Pub. L. 111–273 added subsec. (g).
+
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–200, §3(b)(1), inserted “or list I chemical” after “controlled substance” in two places.
 
 Subsec. (b). Pub. L. 103–200, §3(b)(2), inserted “or list I chemicals” after “controlled substances” and “or chemicals” after “such substances”.
 
@@ -50,11 +66,45 @@ Subsec. (c). Pub. L. 103–200, §3(b)(3), inserted “or list I chemical” aft
 
 Subsec. (e). Pub. L. 103–200, §3(b)(4), inserted “or list I chemicals” after “controlled substances”.
 
-1984—Subsec. (a). Pub. L. 98–473 designated existing provisions as par. (1), struck out provisions relating to dispensing controlled substances, and added par. (2).
+<b>1984</b>—Subsec. (a). Pub. L. 98–473 designated existing provisions as par. (1), struck out provisions relating to dispensing controlled substances, and added par. (2).
 
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–200 effective on date that is 120 days after Dec. 17, 1993, see section 11 of Pub. L. 103–200, set out as a note under section 802 of this title.
+
+#### Findings
+
+Pub. L. 111–273, §2, Oct. 12, 2010, 124 Stat. 2858, provided that: “Congress finds the following:
+
+&emsp;“(1) The nonmedical use of prescription drugs is a growing problem in the United States, particularly among teenagers.
+
+&emsp;“(2) According to the Department of Justice's 2009 National Prescription Drug Threat Assessment—
+
+&emsp;&emsp;“(A) the number of deaths and treatment admissions for controlled prescription drugs (CPDs) has increased significantly in recent years;
+
+&emsp;&emsp;“(B) unintentional overdose deaths involving prescription opioids, for example, increased 114 percent from 2001 to 2005, and the number of treatment admissions for prescription opioids increased 74 percent from 2002 to 2006; and
+
+&emsp;&emsp;“(C) violent crime and property crime associated with abuse and diversion of CPDs has increased in all regions of the United States over the past 5 years.
+
+&emsp;“(3) According to the Office of National Drug Control Policy's 2008 Report ‘Prescription for Danger’, prescription drug abuse is especially on the rise for teens—
+
+&emsp;&emsp;“(A) one-third of all new abusers of prescription drugs in 2006 were 12- to 17-year-olds;
+
+&emsp;&emsp;“(B) teens abuse prescription drugs more than any illicit drug except marijuana—more than cocaine, heroin, and methamphetamine combined; and
+
+&emsp;&emsp;“(C) responsible adults are in a unique position to reduce teen access to prescription drugs because the drugs often are found in the home.
+
+&emsp;“(4)(A) Many State and local law enforcement agencies have established drug disposal programs (often called ‘take-back’ programs) to facilitate the collection and destruction of unused, unwanted, or expired medications. These programs help get outdated or unused medications off household shelves and out of the reach of children and teenagers.
+
+&emsp;“(B) However, take-back programs often cannot dispose of the most dangerous pharmaceutical drugs—controlled substance medications—because Federal law does not permit take-back programs to accept controlled substances unless they get specific permission from the Drug Enforcement Administration and arrange for full-time law enforcement officers to receive the controlled substances directly from the member of the public who seeks to dispose of them.
+
+&emsp;“(C) Individuals seeking to reduce the amount of unwanted controlled substances in their household consequently have few disposal options beyond discarding or flushing the substances, which may not be appropriate means of disposing of the substances. Drug take-back programs are also a convenient and effective means for individuals in various communities to reduce the introduction of some potentially harmful substances into the environment, particularly into water.
+
+&emsp;“(D) Long-term care facilities face a distinct set of obstacles to the safe disposal of controlled substances due to the increased volume of controlled substances they handle.
+
+&emsp;“(5) This Act \[see Short Title of 2010 Amendment note set out under section 801 of this title\] gives the Attorney General authority to promulgate new regulations, within the framework of the Controlled Substances Act \[21 U.S.C. 801 et seq.\], that will allow patients to deliver unused pharmaceutical controlled substances to appropriate entities for disposal in a safe and effective manner consistent with effective controls against diversion.
+
+&emsp;“(6) The goal of this Act is to encourage the Attorney General to set controlled substance diversion prevention parameters that will allow public and private entities to develop a variety of methods of collection and disposal of controlled substances, including some pharmaceuticals, in a secure, convenient, and responsible manner. This will also serve to reduce instances of diversion and introduction of some potentially harmful substances into the environment.”
 
 #### Provisional Registration
 

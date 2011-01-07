@@ -12,7 +12,7 @@ If any facility with respect to which funds have been paid under the Community M
 
 #### (b) Notice of sale, transfer, or change
 
-The transferor and transferee of a facility that is sold or transferred as described in subsection (a)(1) of this section, or the owner of a facility the use of which changes as described in subsection (a)(2) of this section, shall provide the Secretary written notice of such sale, transfer, or change within 10 days after the date on which such sale, transfer, or cessation of use occurs orwithin 30 days after October 22, 1985, whichever is later.
+The transferor and transferee of a facility that is sold or transferred as described in subsection\(a)(1) of this section, or the owner of a facility the use of which changes as described in subsection (a)(2) of this section, shall provide the Secretary written notice of such sale, transfer, or change within 10 days after the date on which such sale, transfer, or cessation of use occurs or within 30 days after October 22, 1985, whichever is later.
 
 #### (c) Base amount; interest
 
@@ -48,9 +48,9 @@ Section was classified to section 300aaa–12 of this title prior to renumbering
 
 #### Amendments
 
-1991—Subsec. (d). Pub. L. 102–229 and Pub. L. 102–239 amended subsec. (d) identically, substituting “subsection (a)” for “subsection (a)(2)”.
+<b>1991</b>—Subsec. (d). Pub. L. 102–229 and Pub. L. 102–239 amended subsec. (d) identically, substituting “subsection (a)” for “subsection (a)(2)”.
 
-1985—Pub. L. 99–129 amended section generally. Prior to amendment, section read as follows: “If any facility of a community mental health center acquired, remodeled, constructed, or expanded with funds provided under the Community Mental Health Centers Act is, at any time within twenty years after the completion of such remodeling, construction, or expansion or after the date of its acquisition with such funds—
+<b>1985</b>—Pub. L. 99–129 amended section generally. Prior to amendment, section read as follows: “If any facility of a community mental health center acquired, remodeled, constructed, or expanded with funds provided under the Community Mental Health Centers Act is, at any time within twenty years after the completion of such remodeling, construction, or expansion or after the date of its acquisition with such funds—
 
 &emsp;“(1) sold or transferred to any person or entity (A) which is not qualified to file an application under section 222 of the Community Mental Health Centers Act, or (B) which is not approved as a transferee by the State agency of the State in which such facility is located, or its successor; or
 
@@ -58,13 +58,13 @@ Section was classified to section 300aaa–12 of this title prior to renumbering
 
 > the United States shall be entitled to recover from either the transferor or the transferee in the case of a sale or transfer or from the owner in the case of termination of use an amount bearing the same ratio to the then value (as determined by the agreement of the parties or by action brought in the United States district court for the district in which the center is situated) of so much of such facility or center as constituted an approved project or projects, as the amount of the Federal participation bore to the acquisition, remodeling, construction, or expansion cost of such project or projects. Such right of recovery shall not constitute a lien upon such facility or center prior to judgment.”
 
-1981—Pub. L. 97–35 substituted “the Community Mental Health Centers Act” for “this subchapter” and “section 222 of the Community Mental Health Centers Act” for “section 2689j of this title”.
+<b>1981</b>—Pub. L. 97–35 substituted “the Community Mental Health Centers Act” for “this subchapter” and “section 222 of the Community Mental Health Centers Act” for “section 2689j of this title”.
 
-1978—Pub. L. 95–622 substituted “this subchapter” for “this part”.
+<b>1978</b>—Pub. L. 95–622 substituted “this subchapter” for “this part”.
 
 #### Effective Date of 1985 Amendment
 
-Section 226(b) of Pub. L. 99–129 provided that: “In the case of any facility that was or is constructed, remodeled, expanded, or acquired on or before the date of enactment of this Act \[Oct. 22, 1985\] or within 180 days after the date of enactment of this Act, the period described in clause (i) or (ii), as the case may be, of section 2115(c)(2)(B) \[now 243(c)(2)(B)\] of the Public Health Service Act \[subsec. (c)(2)(B)(i), (ii) of this section\] (as amended by subsection (a) of this section) shall begin no earlier than 181 days after the date of enactment of this Act.”
+Pub. L. 99–129, title II, §226(b), Oct. 22, 1985, 99 Stat. 547, provided that: “In the case of any facility that was or is constructed, remodeled, expanded, or acquired on or before the date of enactment of this Act \[Oct. 22, 1985\] or within 180 days after the date of enactment of this Act, the period described in clause (i) or (ii), as the case may be, of section 2115(c)(2)(B) \[now 243(c)(2)(B)\] of the Public Health Service Act \[subsec. (c)(2)(B)(i), (ii)of this section\] (as amended by subsection (a) of this section) shall begin no earlier than 181 days after the date of enactment of this Act.”
 
 #### Effective Date of 1981 Amendment
 

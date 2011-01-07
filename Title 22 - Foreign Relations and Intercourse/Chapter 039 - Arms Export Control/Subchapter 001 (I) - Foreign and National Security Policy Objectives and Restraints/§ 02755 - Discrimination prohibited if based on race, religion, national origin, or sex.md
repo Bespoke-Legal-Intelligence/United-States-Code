@@ -12,7 +12,7 @@ It is the policy of the United States that no sales should be made, and no credi
 
 #### (c) Report by President; contents
 
-The President shall promptly transmit reports to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate concerning any instance in which any United States person (as defined in section 7701(a)(30) of title 26) is prevented by a foreign government on the basis of race, religion, national origin, or sex, from participating in the performance of any sale or licensed transaction under this chapter. Such reports shall include (1) a description of the facts and circumstances of any such discrimination, (2) the response thereto on the part of the United States or any agency or employee thereof, and (3) the result of such response, if any.
+The President shall promptly transmit reports to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate concerning any instance in which any United States person (as defined in section 7701(a)(30) of title 26) is prevented by a foreign government on the basis of race, religion, national origin, or sex, from participating in the performance of any sale or licensed transaction under this chapter or any import or export under a treaty referred to in section 2778(j)(1)(C)(i) of this title. Such reports shall include (1) a description of the facts and circumstances of any such discrimination, (2) the response thereto on the part of the United States or any agency or employee thereof, and (3) the result of such response, if any.
 
 #### (d) Congressional request for information from President; information required; 60 day period; failure to supply information; termination or restriction of sale
 
@@ -38,21 +38,25 @@ The President shall promptly transmit reports to the Speaker of the House of Rep
 
 (C) The term “certification”, as used in section 601 of such Act, means, for the purposes of this paragraph, a statement transmitted under paragraph (1) of this subsection.
 
-(Pub. L. 90–629, ch. 1, §5, as added Pub. L. 94–329, title III, §302(b), June 30, 1976, 90 Stat. 752; amended Pub. L. 95–105, title I, §109(a)(5), Aug. 17, 1977, 91 Stat. 846; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–236, title I, §162(f), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(7), Nov. 2, 1994, 108 Stat. 4588.)
+(Pub. L. 90–629, ch. 1, §5, as added Pub. L. 94–329, title III, §302(b), June 30, 1976, 90 Stat. 752; amended Pub. L. 95–105, title I, §109(a)(5), Aug. 17, 1977, 91 Stat. 846; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–236, title I, §162(f), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(7), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 111–266, title I, §104(b), Oct. 8, 2010, 124 Stat. 2799.)
 
 #### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (d)(3)(B), (C), is section 601(b) of Pub. L. 94–329, June 30, 1976, 90 Stat. 729, which made provision for expedited procedures in the Senate, and was not classified to the Code.
 
 #### Amendments
 
-1994—Subsec. (d)(1). Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations” in introductory provisions.
+<b>2010</b>—Subsec. (c). Pub. L. 111–266 inserted “or any import or export under a treaty referred to in section 2778(j)(1)(C)(i) of this title” after “under this chapter”.
+
+<b>1994</b>—Subsec. (d)(1). Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations” in introductory provisions.
 
 Pub. L. 103–236 substituted “Secretary of State” for “Assistant Secretary of State for Human Rights and Humanitarian Affairs” in introductory provisions.
 
-1986—Subsecs. (a), (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsecs. (a), (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1977—Subsec. (d)(1). Pub. L. 95–105 substituted “Assistant Secretary of State” for “Coordinator” in introductory provisions.
+<b>1977</b>—Subsec. (d)(1). Pub. L. 95–105 substituted “Assistant Secretary of State” for “Coordinator” in introductory provisions.
 
 #### Effective Date of 1994 Amendment
 

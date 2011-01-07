@@ -2,7 +2,7 @@
 
 #### (a) Establishment of fund
 
-There is established a revolving fund, under the control of the Secretary, which shall be available without fiscal year limitation for all expenses necessary for the redemption (by the Secretary) of real property as provided in section 7425(d) and section 2410 of title 28 of the United States Code. There are authorized to be appropriated from time to time such sums (not to exceed $10,000,000 in the aggregate) as may be necessary to carry out the purposes of this section.
+There is established a revolving fund, under the control of the Secretary, which shall beavailable without fiscal year limitation for all expenses necessary for the redemption (by the Secretary) of real property as provided in section 7425(d) and section 2410 of title 28 of the United States Code. There are authorized to be appropriated from time to time such sums (not to exceed $10,000,000 in the aggregate) as may be necessary to carry out the purposes of this section.
 
 #### (b) Reimbursement of fund
 
@@ -12,13 +12,13 @@ The fund shall be reimbursed from the proceeds of a subsequent sale of real prop
 
 The Secretary shall maintain an adequate system of accounts for such fund and prepare annual reports on the basis of such accounts.
 
-(Added Pub. L. 89–719, title I, §112(a), Nov. 2, 1966, 80 Stat. 1145; amended Pub. L. 94–455, titleXIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, §443, July 18, 1984, 98 Stat. 816.)
+(Added Pub. L. 89–719, title I, §112(a), Nov. 2, 1966, 80 Stat. 1145; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, §443, July 18, 1984, 98 Stat. 816.)
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–369 substituted “$10,000,000” for “$1,000,000”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369 substituted “$10,000,000” for “$1,000,000”.
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date
 

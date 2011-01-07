@@ -108,9 +108,9 @@ In subsec. (f)(3), “chapter 31 of title 31” substituted for “the Second Li
 
 #### Amendments
 
-1996—Subsecs. (a)(1), (b)(1)(A), (e). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+<b>1996</b>—Subsecs. (a)(1), (b)(1)(A), (e). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
-1980—Subsec. (a)(1). Pub. L. 96–561, §238(b), substituted “Magnuson Fishery Conservation and Management Act” for “Fishery Conservation and Management Act of 1976”.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–561, §238(b), substituted “Magnuson Fishery Conservation and Management Act” for “Fishery Conservation and Management Act of 1976”.
 
 Subsec. (a)(4). Pub. L. 96–561, §241(1), added par. (4).
 
@@ -124,7 +124,7 @@ Subsec. (d). Pub. L. 96–561, §241(4), inserted in par. (1) “, and resultin
 
 Subsec. (e). Pub. L. 96–561, §238(b), substituted “Magnuson Fishery Conservation and Management Act” for “Fishery Conservation and Management Act of 1976”.
 
-1978—Subsec. (a). Pub. L. 95–376 substituted provisions defining “fishery”, “fishing conservation zone”, “fishing”, “fishing vessel”, “Secretary”, “vessel of the United States”, “fishing gear” and “fund” for provisions authorizing the Secretary to make a loan to an owner or operator whose commercial fishing vessel or its fishing gear was lost, damaged or destroyed by any vessel of a foreign nation.
+<b>1978</b>—Subsec. (a). Pub. L. 95–376 substituted provisions defining “fishery”, “fishing conservation zone”, “fishing”, “fishing vessel”, “Secretary”, “vessel of the United States”, “fishing gear” and “fund” for provisions authorizing the Secretary to make a loan to an owner or operator whose commercial fishing vessel or its fishing gear was lost, damaged or destroyed by any vessel of a foreign nation.
 
 Subsec. (b). Pub. L. 95–376 substituted provisions setting forth the causes of the damage, loss, or destruction of the vessel or its gear for which compensation is payable for provisions authorizing the Secretary to conduct an investigation of each incident of loss, damage or destruction for which the owner received a loan and allowing for repayment or cancellation of such loan depending on fault or nonfault of owner.
 

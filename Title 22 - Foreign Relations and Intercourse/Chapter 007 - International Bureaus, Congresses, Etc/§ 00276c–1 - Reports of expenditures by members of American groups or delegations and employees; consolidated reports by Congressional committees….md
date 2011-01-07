@@ -6,13 +6,13 @@ Each chairman or senior member of the House of Representatives and Senate group 
 
 #### Amendments
 
-1999—Pub. L. 106–113 substituted “NATO Parliamentary Assembly” for “North Atlantic Assembly”.
+<b>1999</b>—Pub. L. 106–113 substituted “NATO Parliamentary Assembly” for “North Atlantic Assembly”.
 
-1996—Pub. L. 104–186 substituted “Clerk” for “Committee on House Administration” in last sentence.
+<b>1996</b>—Pub. L. 104–186 substituted “Clerk” for “Committee on House Administration” in last sentence.
 
-1994—Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations” wherever appearing.
+<b>1994</b>—Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations” wherever appearing.
 
-1975—Pub. L. 94–59 brought reporting requirements into conformity with other foreign travel expense reporting requirements and into conformity with rules of House of Representatives.
+<b>1975</b>—Pub. L. 94–59 brought reporting requirements into conformity with other foreign travel expense reporting requirements and into conformity with rules of House of Representatives.
 
-1967—Pub. L. 90–137 substituted “North Atlantic Assembly” for “NATO parliamentarian's Conference”.
+<b>1967</b>—Pub. L. 90–137 substituted “North Atlantic Assembly” for “NATO parliamentarian's Conference”.
 

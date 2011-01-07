@@ -17,17 +17,9 @@
 
 #### Amendments
 
-1976—Pub. L. 94–455, title V, §501(c)(1), Oct. 4, 1976, 90 Stat. 1559, substituted “Tax tables for individuals having taxable income of less than $20,000” for “Optional tax tables for individuals” in item 3 and struck out item 4 relating to rules for optional tax.
+<b>1976</b>—Pub. L. 94–455, title V, §501(c)(1), Oct. 4, 1976, 90 Stat. 1559, substituted “Tax tables for individuals having taxable income of less than $20,000” for “Optional tax tables for individuals” in item 3 and struck out item 4 relating to rules for optional tax.
 
-1969—Pub. L. 91–172, title VIII, §803(d)(9), Dec. 30, 1969, 83 Stat. 685, substituted “Definitions and special rules” and “Optional tax tables for individuals” for “Tax in case of joint return or return of surviving spouse” and “Optional tax if adjusted gross income is less than $5,000” in items 2 and 3, respectively.
-
-<i><sup>1</sup></i><i> Editorially supplied. Subtitle J added by Pub. L. 102–486 without corresponding amendment of title analysis.</i>
-
-<i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should follow item for subchapter Q.</i>
-
-<i><sup>1</sup></i><i> Part heading amended by Pub. L. 99–514 without corresponding amendment of analysis.</i>
+<b>1969</b>—Pub. L. 91–172, title VIII, §803(d)(9), Dec. 30, 1969, 83 Stat. 685, substituted “Definitions and special rules” and “Optional tax tables for individuals” for “Tax in case of joint return or return of surviving spouse” and “Optional tax if adjusted gross income is less than $5,000” in items 2 and 3, respectively.
 
 <i><sup>1</sup></i><i> Section catchline amended by Pub. L. 95–30 without corresponding amendment of analysis.</i>
 

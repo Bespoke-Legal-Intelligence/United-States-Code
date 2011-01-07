@@ -40,7 +40,7 @@ In this chapter (other than subchapter III of this chapter):
 
 #### (9) Other oilseed
 
-&emsp;The term “other oilseed” means a crop of sunflower seed, rapeseed, canola, safflower,flaxseed, mustard seed, crambe, sesame seed, or, if designated by the Secretary, another oilseed.
+&emsp;The term “other oilseed” means a crop of sunflower seed, rapeseed, canola, safflower, flaxseed, mustard seed, crambe, sesame seed, or, if designated by the Secretary, another oilseed.
 
 #### (10) Payment acres
 

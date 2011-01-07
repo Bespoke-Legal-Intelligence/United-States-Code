@@ -10,5 +10,5 @@ An Act for the preservation of American antiquities, referred to in text, is act
 
 #### Amendments
 
-1960—Pub. L. 86–657 substituted “appropriated to carry out this title to the extent approved” for “appropriated under the Federal-Aid Highway Act of 1956, to the extent approved”.
+<b>1960</b>—Pub. L. 86–657 substituted “appropriated to carry out this title to the extent approved” for “appropriated under the Federal-Aid Highway Act of 1956, to the extent approved”.
 

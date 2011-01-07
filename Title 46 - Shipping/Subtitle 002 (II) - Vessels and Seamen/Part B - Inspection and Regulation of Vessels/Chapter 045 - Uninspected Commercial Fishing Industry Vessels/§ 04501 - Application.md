@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1988—Pub. L. 100–424 amended section generally, in subsec. (a) substituting provisions which related to uninspected fish processing vessel entered into service after Dec. 31, 1987, having more than 16 individuals on board primarily employed in preparation of fish on navigable waters of United States or owned in United States and operating on high seas, for provisions which related to uninspected fishing vessel, fish processing vessel, or fish tender vessel, and in subsec. (b) substituting “carriage of bulk” for “carriage of liquid bulk”.
+<b>1988</b>—Pub. L. 100–424 amended section generally, in subsec. (a) substituting provisions which related to uninspected fish processing vessel entered into service after Dec. 31, 1987, having more than 16 individuals on board primarily employed in preparation of fish on navigable waters of United States or owned in United States and operating on high seas, for provisions which related to uninspected fishing vessel, fish processing vessel, or fish tender vessel, and in subsec. (b) substituting “carriage of bulk” for “carriage of liquid bulk”.
 
 #### Foreign Built Vessels, Equivalent Compliance Until July 28, 1990
 

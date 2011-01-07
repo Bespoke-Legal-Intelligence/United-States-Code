@@ -22,7 +22,7 @@
 
 “The following information helps you understand what must be done in a routine bankruptcy case to help you evaluate how much service you need. Although bankruptcy can be complex, many cases are routine.
 
-“Before filing a bankruptcy case, either you or your attorney should analyze your eligibility for different forms of debt relief available under the Bankruptcy Code and which form of relief is most likely to be beneficial for you. Be sure you understand the relief you can obtain and its limitations. To file a bankruptcy case, documents called a Petition, Schedules and Statement of Financial Affairs, as well as in some cases a Statement of Intention need to be prepared correctly and filed with the bankruptcy court. You will have to pay a filing fee to the bankruptcy court. Once your case starts, you will have to attend the required first meeting of creditors where you may be questioned by a court official called a ‘trustee’ and by creditors.
+“Before filing a bankruptcy case, either you or your attorney should analyze your eligibility for different forms of debt relief available under the Bankruptcy Code and which form of relief is most likely to be beneficial for you. Be sure you understand the relief you can obtain and its limitations. To file a bankruptcy case, documents called a Petition, Schedules, and Statement of Financial Affairs, and in some cases a Statement of Intention, need to be prepared correctly and filed with the bankruptcy court. You will have to pay a filing fee to the bankruptcy court. Once your case starts, you will have to attend the required first meeting of creditors where you may be questioned by a court official called a ‘trustee’ and by creditors.
 
 “If you choose to file a chapter 7 case, you may be asked by a creditor to reaffirm a debt. You may want help deciding whether to do so. A creditor is not permitted to coerce you into reaffirming your debts.
 
@@ -34,7 +34,7 @@
 
 (c) Except to the extent the debt relief agency provides the required information itself after reasonably diligent inquiry of the assisted person or others so as to obtain such information reasonably accurately for inclusion on the petition, schedules or statement of financial affairs, a debt relief agency providing bankruptcy assistance to an assisted person, to the extent permitted by nonbankruptcy law, shall provide each assisted person at the time required for the notice required under subsection (a)(1) reasonably sufficient information (which shall be provided in a clear and conspicuous writing) to the assisted person on how to provide all the information the assisted person is required to provide under this title pursuant to section 521, including—
 
-&emsp;(1) how to value assets at replacement value, determine current monthly income, the amounts specified in section 707(b)(2) and, in achapter 13 case, how to determine disposable income in accordance with section 707(b)(2) and related calculations;
+&emsp;(1) how to value assets at replacement value, determine current monthly income, the amounts specified in section 707(b)(2) and, in a chapter 13 case, how to determine disposable income in accordance with section 707(b)(2) and related calculations;
 
 &emsp;(2) how to complete the list of creditors, including how to determine what amount is owed and what address for the creditor should be shown; and
 
@@ -42,7 +42,11 @@
 
 (d) A debt relief agency shall maintain a copy of the notices required under subsection (a) of this section for 2 years after the date on which the notice is given the assisted person.
 
-(Added Pub. L. 109–8, title II, §228(a), Apr. 20, 2005, 119 Stat. 69.)
+(Added Pub. L. 109–8, title II, §228(a), Apr. 20, 2005, 119 Stat. 69; amended Pub. L. 111–327, §2(a)(21), Dec. 22, 2010, 124 Stat. 3560.)
+
+#### Amendments
+
+2010—Subsec. (b). Pub. L. 111–327 substituted “Schedules, and Statement of Financial Affairs, and in some cases a Statement of Intention,” for “Schedules and Statement of Financial Affairs, as well as in some cases a Statement of Intention” in third sentence of fourth undesignated par.
 
 #### Effective Date
 

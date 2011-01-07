@@ -22,7 +22,7 @@ Assistance To Be Provided.—(1) The Secretary shall actively attempt to match p
 
 &emsp;(B) procedures and techniques for qualifying for and applying for jobs in such organizations.
 
-(3) The Secretary may provide personnel registered under subsection (b) with access to the interstate job bank program of the United States Employment Service if the Secretary determines that such program meets the needs of separating members of the armed forces for job placement.
+(3) The Secretary may provide personnel registered under subsection (b) with access to theinterstate job bank program of the United States Employment Service if the Secretary determines that such program meets the needs of separating members of the armed forces for job placement.
 
 (e)
 
@@ -60,9 +60,9 @@ Coast Guard.—This section shall apply to the Coast Guard in the same manner an
 
 #### Amendments
 
-2002—Subsec. (h). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (h). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1994—Pub. L. 103–337, §542(a)(3)(A), struck out “: Department of Defense” after “service” in section catchline.
+<b>1994</b>—Pub. L. 103–337, §542(a)(3)(A), struck out “: Department of Defense” after “service” in section catchline.
 
 Subsec. (h). Pub. L. 103–337, §542(a)(3)(B), added subsec. (h).
 
@@ -98,7 +98,7 @@ Recomputation of Retired Pay.—(1) If a member or former member of the Armed Fo
 
 “(b)
 
-SBP Annuities.—(1) Effective on the first day of the first month after a member or former member of the Armed Forces retired under a provision of law referred to in subsection (a)(1) attains 62 years of age or, in the event of death before attaining that age, would have attained that age, the base amount applicable under section 1447(2) \[see 1447(6)\] of title 10, United States Code, to any Survivor Benefit Plan annuity provided by that member or former member shall be recomputed. For the recomputation the total years (including any fraction of a year) of the member's or former member's active service shall be treated as having included the member's or former member's years (including any fraction of a year) of employment referred to in subsection (a)(1) as of the date when the member or former member became eligible for retired pay under this section.
+SBP Annuities.—(1) Effective on the first day of the first month after a member or former member of the Armed Forces retired under a provision of law referred to in subsection (a)(1) attains 62 years of age or, in the event of death before attaining that age, would have attained that age, the base amount applicable under section 1447(2) \[see 1447(6)\] of title 10, United States Code, to any Survivor Benefit Plan annuity provided by that member or former member shall be recomputed. For the recomputation the total years (including any fraction of a year) of the member's or former member's active service shall be treated as having included the member's or former member's years (including any fraction of a year) of employment referred to in subsection (a)(1) as of the date when themember or former member became eligible for retired pay under this section.
 
 “(2) In this subsection, the term ‘Survivor Benefit Plan’ means the plan established under subchapter II of chapter 73 of title 10, United States Code.”
 

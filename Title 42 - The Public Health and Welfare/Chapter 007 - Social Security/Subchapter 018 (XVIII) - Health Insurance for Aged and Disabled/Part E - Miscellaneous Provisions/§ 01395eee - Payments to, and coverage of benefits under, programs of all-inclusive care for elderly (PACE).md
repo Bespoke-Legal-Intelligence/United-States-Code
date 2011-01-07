@@ -4,7 +4,7 @@
 
 #### (1) Benefits through enrollment in a PACE program
 
-&emsp;In accordance with this section, in the case of an individual who is entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter and who is a PACE program eligible individual (as defined in paragraph (5)) with respect to a PACE program offered by a PACE provider under a PACE program agreement—
+&emsp;In accordance with this section, in the case of an individual who is entitled to benefits under part A of this subchapter or enrolledunder part B of this subchapter and who is a PACE program eligible individual (as defined in paragraph (5)) with respect to a PACE program offered by a PACE provider under a PACE program agreement—
 
 &emsp;&emsp;(A) the individual may enroll in the program under this section; and
 
@@ -78,7 +78,7 @@
 
 #### (8) “State administering agency” defined
 
-&emsp;For purposes of this section, the term “State administering agency” means, with respect to the operation of a PACE program in a State, the agency of that State (which may be the single agency responsible for administration of the State plan under subchapter XIX of thischapter in the State) responsible for administering PACE program agreements under this section and section 1396u–4 of this title in the State.
+&emsp;For purposes of this section, the term “State administering agency” means, with respect to the operation of a PACE program in a State, the agency of that State (which may be the single agency responsible for administration of the State plan under subchapter XIX of this chapter in the State) responsible for administering PACE program agreements under this section and section 1396u–4 of this title in the State.
 
 #### (9) “Trial period” defined
 
@@ -146,7 +146,7 @@
 
 #### (2) Condition
 
-&emsp;An individual is not a PACE program eligible individual (with respect to payment under this section) unless the individual's healthstatus has been determined by the Secretary or the State administering agency, in accordance with regulations, to be comparable to the health status of individuals who have participated in the PACE demonstration waiver programs. Such determination shall be based upon information on health status and related indicators (such as medical diagnoses and measures of activities of daily living, instrumental activities of daily living, and cognitive impairment) that are part of a uniform minimum data set collected by PACE providers on potential PACE program eligible individuals.
+&emsp;An individual is not a PACE program eligible individual (with respect to payment under this section) unless the individual's health status has been determined by the Secretary or the State administering agency, in accordance with regulations, to be comparable to the health status of individuals who have participated in the PACE demonstration waiver programs. Such determination shall be based upon information on health status and related indicators (such as medical diagnoses and measures of activities of daily living, instrumental activities of daily living, and cognitive impairment) that are part of a uniform minimum data set collected by PACE providers on potential PACE program eligible individuals.
 
 #### (3) Annual eligibility recertifications
 
@@ -292,7 +292,7 @@
 
 #### (C) Disclosure
 
-&emsp;&emsp;The results of reviews under this paragraph shall be reported promptly to the PACE provider, along with any recommendations for changes to the provider's program, and shall be made available to the public upon request.
+&emsp;&emsp;The results of reviews under this paragraph shall be reported promptly to thePACE provider, along with any recommendations for changes to the provider's program, and shall be made available to the public upon request.
 
 #### (5) Termination of PACE provider agreements
 
@@ -426,9 +426,9 @@ With respect to carrying out a PACE program under this section, the following re
 
 #### (i) Miscellaneous provisions
 
-Nothing in this section or section 1396u–4 of this title shall be construed as preventing aPACE provider from entering into contracts with other governmental or nongovernmental payers for the care of PACE program eligible individuals who are not eligible for benefits under part A of this subchapter, or enrolled under part B of this subchapter, or eligible for medical assistance under subchapter XIX of this title.
+Nothing in this section or section 1396u–4 of this title shall be construed as preventing a PACE provider from entering into contracts with other governmental or nongovernmental payers for the care of PACE program eligible individuals who are not eligible for benefits under part A of this subchapter, or enrolled under part B of this subchapter, or eligible for medical assistance under subchapter XIX of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1894, as added Pub. L. 105–33, title IV, §4801, Aug. 5, 1997, 111 Stat. 528; amended Pub. L. 106–554, §1(a)(6) \[title IX, §902(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 108–173, title II, §236(a)(2), Dec. 8, 2003, 117 Stat. 2210; Pub. L. 110–275, title I, §161(c), July 15, 2008, 122 Stat. 2569.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1894, as added Pub. L. 105–33, title IV, §4801, Aug. 5, 1997, 111 Stat. 528; amended Pub. L. 106–554, §1(a)(6) \[title IX, §902(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 108–173, title II, §236(a)(2), Dec. 8, 2003, 117 Stat. 2210; Pub. L. 110–275, title I, §161(c), July 15, 2008, 122 Stat. 2569; Pub. L. 111–148, title III, §3201(i)(1), Mar. 23, 2010, 124Stat. 453; Pub. L. 111–152, title I, §1102(a), Mar. 30, 2010, 124 Stat. 1040.)
 
 #### References in Text
 
@@ -448,15 +448,35 @@ For the effective date of this section, referred to in subsec. (a)(9)(B), see se
 
 #### Amendments
 
-2008—Subsec. (d)(3). Pub. L. 110–275 added par. (3).
+<b>2010</b>—Subsecs. (h) to (j). Pub. L. 111–148, §3201(i)(1), which directed addition of subsec. (h) and the redesignation of former subsecs. (h) and (i) as (i) and (j), respectively, was repealed by Pub. L. 111–152, §1102(a). Prior to repeal, text of subsec. (h) read as follows:
 
-2003—Subsec. (b)(3), (4). Pub. L. 108–173 added pars. (3) and (4).
+“With respect to a PACE program under this section, the following provisions (and regulations relating to such provisions) shall not apply:
 
-2000—Subsec. (f)(2)(C). Pub. L. 106–554 added subpar. (C).
+&emsp;“(1) Section 1395w–23(j)(1)(A)(i) of this title, relating to MA area-specific non-drug monthly benchmark amount being based on competitive bids.
+
+&emsp;“(2) Section 1395w–23(d)(5) of this title, relating to the establishment of MA local plan service areas.
+
+&emsp;“(3) Section 1395w–23(n) of this title, relating to the payment of performance bonuses.
+
+&emsp;“(4) Section 1395w–23(<i>o</i>) of this title, relating to grandfathering supplemental benefits for current enrollees after implementation of competitive bidding.
+
+&emsp;“(5) Section 1395w–23(p) of this title, relating to transitional extra benefits.”
+
+> See Effective Date of 2010 Amendment note below.
+
+<b>2008</b>—Subsec. (d)(3). Pub. L. 110–275 added par. (3).
+
+<b>2003</b>—Subsec. (b)(3), (4). Pub. L. 108–173 added pars. (3) and (4).
+
+<b>2000</b>—Subsec. (f)(2)(C). Pub. L. 106–554 added subpar. (C).
 
 #### Change of Name
 
 References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+
+#### Effective Date of 2010 Amendment
+
+Repeal of section 3201 of Pub. L. 111–148 and the amendments made by such section, effective as if included in the enactment of Pub. L. 111–148, see section 1102(a) of Pub. L. 111–152, set out as a note under section 1395w–21 of this title.
 
 #### Effective Date of 2003 Amendment
 
@@ -672,7 +692,7 @@ Expansion and Transition for PACE Demonstration Project Waivers.—
 
 Expansion in current number and extension of demonstration projects.—Section 9412(b) of the Omnibus Budget Reconciliation Act of 1986 \[see subsec. (d) below\], as amended by section 4118(g) of the Omnibus Budget Reconciliation Act of 1987, is amended—
 
-&emsp;&emsp;“(A) in paragraph (1), by inserting before the period at the end the following: ‘, except that theSecretary shall grant waivers of such requirements to up to the applicable numerical limitation specified in sections 1894(e)(1)(B) and 1934(e)(1)(B) of the Social Security Act’ \[subsec. (e)(1)(B) of this section and section 1396u–4(e)(1)(B) of this title\]; and
+&emsp;&emsp;“(A) in paragraph (1), by inserting before the period at the end the following: ‘, except that the Secretary shall grant waivers of such requirements to up to the applicable numerical limitation specified in sections 1894(e)(1)(B) and 1934(e)(1)(B) of the Social Security Act’ \[subsec. (e)(1)(B) of this section and section 1396u–4(e)(1)(B) of this title\]; and
 
 &emsp;&emsp;“(B) in paragraph (2)—
 
@@ -766,7 +786,7 @@ In general.—Not later than 4 years after the date of the enactment of this Act
 
 Treatment of private, for-profit providers.—The report shall include specific findings on whether any of the following findings is true:
 
-&emsp;&emsp;“(A) The number of covered lives enrolled with entities operating under demonstration project waivers under sections 1894(h) and 1934(h) of the Social Security Act is fewer than 800 (or such lesser number as the Secretary may find statistically sufficient to make determinations respecting findings described in the succeeding subparagraphs).
+&emsp;&emsp;“(A) The number of covered lives enrolled with entities operating under demonstration projectwaivers under sections 1894(h) and 1934(h) of the Social Security Act is fewer than 800 (or such lesser number as the Secretary may find statistically sufficient to make determinations respecting findings described in the succeeding subparagraphs).
 
 &emsp;&emsp;“(B) The population enrolled with such entities is less frail than the population enrolled with other PACE providers.
 

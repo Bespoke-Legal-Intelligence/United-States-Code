@@ -22,15 +22,15 @@ If the United States International Trade Commission (hereinafter referred to in 
 
 #### Amendments
 
-1988—Pub. L. 100–418, in amending section generally, substituted provisions relating to action to facilitate positive adjustment to import competition for provisions relating to investigation by International Trade Commission. See section 2252 of this title.
+<b>1988</b>—Pub. L. 100–418, in amending section generally, substituted provisions relating to action to facilitate positive adjustment to import competition for provisions relating to investigation by International Trade Commission. See section 2252 of this title.
 
-1984—Subsec. (b)(2)(B). Pub. L. 98–573, §249(1)(A), substituted “inventory (whether maintained by domestic producers, importers, wholesalers, or retailers), and” for “inventory, and”.
+<b>1984</b>—Subsec. (b)(2)(B). Pub. L. 98–573, §249(1)(A), substituted “inventory (whether maintained by domestic producers, importers, wholesalers, or retailers), and” for “inventory, and”.
 
 Subsec. (b)(2)(D). Pub. L. 98–573, §249(1)(B)–(D), added subpar. (D).
 
 Subsec. (b)(7). Pub. L. 98–573, §249(2), added par. (7).
 
-1979—Subsec. (b)(6). Pub. L. 96–39 substituted “subtitles A and B of title VII or section 337 of the Tariff Act of 1930” for “the Antidumping Act, 1921, section 303 or 337 of the Tariff Act of 1930”.
+<b>1979</b>—Subsec. (b)(6). Pub. L. 96–39 substituted “subtitles A and B of title VII or section 337 of the Tariff Act of 1930” for “the Antidumping Act, 1921, section 303 or 337 of the Tariff Act of 1930”.
 
 #### Effective Date of 1988 Amendment
 

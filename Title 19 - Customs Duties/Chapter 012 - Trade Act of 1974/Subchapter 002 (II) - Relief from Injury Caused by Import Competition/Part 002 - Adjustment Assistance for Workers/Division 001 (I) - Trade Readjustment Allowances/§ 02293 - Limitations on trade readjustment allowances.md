@@ -54,7 +54,7 @@ If the Secretary determines that there is justifiable cause, the Secretary may e
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this part, the Secretary may waive any requirement of this part that the Secretary determines is necessary to ensure that an adversely affected worker who is a member of a reserve component of the Armed Forces and serves aperiod of duty described in paragraph (2) is eligible to receive a trade readjustment allowance, training, and other benefits under this part in the same manner and to the same extent as if the worker had not served the period of duty.
+&emsp;Notwithstanding any other provision of this part, the Secretary may waive any requirement of this part that the Secretary determines is necessary to ensure that an adversely affected worker who is a member of a reserve component of the Armed Forces and serves a period of duty described in paragraph (2) is eligible to receive a trade readjustment allowance, training, and other benefits under this part in the same manner and to the same extent as if the worker had not served the period of duty.
 
 #### (2) Period of duty described
 
@@ -78,7 +78,7 @@ The Federal-State Extended Unemployment Compensation Act of 1970, referred to in
 
 #### Amendments
 
-2009—Subsec. (a)(2). Pub. L. 111–5, §§1823(1), 1829(b)(1), 1893, in introductory provisions, temporarily inserted “under paragraph (1)” after “trade readjustment allowance” and “prerequisite education or” after “requires a program of”. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Subsec. (a)(2). Pub. L. 111–5, §§1823(1), 1829(b)(1), 1893, in introductory provisions, temporarily inserted “under paragraph (1)” after “trade readjustment allowance” and “prerequisite education or” after “requires a program of”. See Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (a)(3). Pub. L. 111–5, §§1823(2), 1893, in introductory provisions, temporarily substituted “a training program approved for the worker” for “training approved for him” and “78 additional weeks in the 91-week” for “52 additional weeks in the 52-week”, and, in concluding provisions, temporarily substituted “91-week” for “52-week”. See Effective and Termination Dates of 2009 Amendment note below.
 
@@ -88,7 +88,7 @@ Subsec. (f). Pub. L. 111–5, §§1821(c)(2)(B), 1829(b)(2), 1893, temporarily r
 
 Subsecs. (g) to (i). Pub. L. 111–5, §§1824, 1893, temporarily added subsecs. (g) to (i). Former subsec. (g) temporarily redesignated (f). See Effective and Termination Dates of 2009 Amendment note below.
 
-2002—Subsec. (a)(2). Pub. L. 107–210, §116(a)(1), in introductory provisions inserted “(or, in the case of an adversely affected worker who requires a program of remedial education (as described in section 2296(a)(5)(D) of this title) in order to complete training approved for the worker under section 2296 of this title, the 130-week period)” after “104-week period”.
+<b>2002</b>—Subsec. (a)(2). Pub. L. 107–210, §116(a)(1), in introductory provisions inserted “(or, in the case of an adversely affected worker who requires a program of remedial education (as described in section 2296(a)(5)(D) of this title) in order to complete training approved for the worker under section 2296 of this title, the 130-week period)” after “104-week period”.
 
 Subsec. (a)(3). Pub. L. 107–210, §116(a)(2), substituted “52” for “26” wherever appearing.
 
@@ -96,9 +96,9 @@ Subsec. (f). Pub. L. 107–210, §116(b), substituted “30 days” for “14 da
 
 Subsec. (g). Pub. L. 107–210, §116(c), added subsec. (g).
 
-1999—Subsec. (a)(2). Pub. L. 106–36 realigned margins of introductory provisions and subpars. (A) and (B).
+<b>1999</b>—Subsec. (a)(2). Pub. L. 106–36 realigned margins of introductory provisions and subpars. (A) and (B).
 
-1988—Subsec. (a)(2). Pub. L. 100–418, §1425(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A trade readjustment allowance shall not be paid for any week after the 104-week period beginning with the first week following the first week in the period covered by the certification with respect to which the worker has exhausted (as determined for purposes of section 2291(a)(3)(B) of this title) all rights to that part of his unemployment insurance that is regular compensation.”
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–418, §1425(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A trade readjustment allowance shall not be paid for any week after the 104-week period beginning with the first week following the first week in the period covered by the certification with respect to which the worker has exhausted (as determined for purposes of section 2291(a)(3)(B) of this title) all rights to that part of his unemployment insurance that is regular compensation.”
 
 Subsec. (a)(3). Pub. L. 100–418, §1423(c)(2), substituted “participating in such training” for “engaged in such training and has not been determined under section 2296(c) of this title to be failing to make satisfactory progress in the training” in last sentence.
 
@@ -106,19 +106,19 @@ Subsec. (a)(3)(B). Pub. L. 100–418, §1423(c)(1), substituted “begins” for
 
 Subsec. (f). Pub. L. 100–418, §1423(c)(3), added subsec. (f).
 
-1986—Subsec. (a)(2). Pub. L. 99–272, §13003(d)(1), substituted “104-week period” for “52-week period”.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–272, §13003(d)(1), substituted “104-week period” for “52-week period”.
 
 Subsec. (e). Pub. L. 99–272, §13003(d)(2), added subsec. (e).
 
-1984—Subsec. (a)(3). Pub. L. 98–369 substituted “Notwithstanding paragraph (1), in order to assist the adversely affected worker to complete training approved for him under section 2296 of this title, and in accordance with regulations prescribed by the Secretary, payments may be made as trade readjustment allowances for up to 26 additional weeks in the 26-week period that—
+<b>1984</b>—Subsec. (a)(3). Pub. L. 98–369 substituted “Notwithstanding paragraph (1), in order to assist the adversely affected worker to complete training approved for him under section 2296 of this title, and in accordance with regulations prescribed by the Secretary, payments may be made as trade readjustment allowances for up to 26 additional weeks in the 26-week period that—
 
 &emsp;“(A) follows the last week of entitlement to trade readjustment allowances otherwise payable under this part; or
 
 &emsp;“(B) begins with the first week of such training, if such training is approved after the last week described in subparagraph (A).”
 
-> for “Notwithstanding paragraph (1), in accordance with regulations prescribed by the Secretary, payments may be made as trade readjustment allowances for up to 26 additional weeks in the 26-week period following the last week of entitlement to trade readjustment allowances otherwise payable under this part in order to assist the adversely affected worker to complete training approved for the worker under section 2296 of this title.”
+> for “Notwithstanding paragraph (1), in accordance with regulations prescribed by the Secretary, payments may be made as trade readjustment allowances for up to 26additional weeks in the 26-week period following the last week of entitlement to trade readjustment allowances otherwise payable under this part in order to assist the adversely affected worker to complete training approved for the worker under section 2296 of this title.”
 
-1981—Subsec. (a). Pub. L. 97–35 substituted provisions relating to maximum amount of allowance payable for provisions relating to time limitations on allowance payable.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 substituted provisions relating to maximum amount of allowance payable for provisions relating to time limitations on allowance payable.
 
 Subsec. (b). Pub. L. 97–35 substituted provisions relating to payment for an additional week for provisions relating to payment for an additional week after the appropriate week and provisions determining the appropriate week.
 
@@ -128,7 +128,7 @@ Subsecs. (c), (d). Pub. L. 97–35 added subsecs. (c) and (d).
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 
 #### Effective Date of 2002 Amendment
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 97–35 applicable to allowances payable for weeks of unemp
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2010, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Feb. 12, 2011, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 
 #### Waiver of Certain Time Limitations
 

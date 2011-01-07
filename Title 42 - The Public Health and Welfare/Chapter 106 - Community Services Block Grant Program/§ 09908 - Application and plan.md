@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) develop the State plan to be submitted to the Secretary under subsection (b) of this section;
 
-&emsp;&emsp;(B) in conjunction with the development of the State plan as required under subsection (b) of this section, hold at least one hearing in the State with sufficient time and statewide distribution of notice of such hearing, to provide to the public an opportunity to comment on the proposed use and distribution of funds to be provided through the grant or allotment under section 9905 or 9906 of this title for the period covered by the State plan; and
+&emsp;&emsp;(B) in conjunction with the development of the State plan as required under subsection (b) of this section, hold at least one hearing in the State with sufficient time and statewide distribution of notice of such hearing, to provide to the public an opportunity to comment on the proposed use and distribution of funds to be provided through thegrant or allotment under section 9905 or 9906 of this title for the period covered by the State plan; and
 
 &emsp;&emsp;(C) conduct reviews of eligible entities under section 9914 of this title.
 
@@ -26,7 +26,7 @@ Beginning with fiscal year 2000, to be eligible to receive a grant or allotment 
 
 &emsp;(1) an assurance that funds made available through the grant or allotment will be used—
 
-&emsp;&emsp;(A) to support activities that are designed to assist low-income families and individuals, including families and individuals receiving assistance under part A of title IV of the Social Security Act (42 U.S.C. 601 etseq.), homeless families and individuals, migrant or seasonal farmworkers, and elderly low-income individuals and families, and a description of how such activities will enable the families and individuals—
+&emsp;&emsp;(A) to support activities that are designed to assist low-income families and individuals, including families and individuals receiving assistance under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), homeless families and individuals, migrant or seasonal farmworkers, and elderly low-income individuals and families, and a description of how such activities will enable the families and individuals—
 
 &emsp;&emsp;&emsp;(i) to remove obstacles and solve problems that block the achievement of self-sufficiency (including self-sufficiency for families and individuals who are attempting to transition off a State program carried out under part A of title IV of the Social Security Act);
 
@@ -68,7 +68,7 @@ Beginning with fiscal year 2000, to be eligible to receive a grant or allotment 
 
 &emsp;(4) an assurance that eligible entities in the State will provide, on an emergency basis, for the provision of such supplies and services, nutritious foods, and related services, as may be necessary to counteract conditions of starvation and malnutrition among low-income individuals;
 
-&emsp;(5) an assurance that the State and the eligible entities in the State will coordinate, and establish linkages between, governmental and other social services programs to assure the effective delivery of such services to low-income individuals and to avoid duplication of such services, and a description of how the State and the eligible entities will coordinate the provision of employment and training activities, as defined in section 101 <sup>1</sup> of such Act \[29 U.S.C. 2801\], in the State and in communities with entities providing activities through statewide and local workforce investment systems under the Workforce Investment Act of 1998;
+&emsp;(5) an assurance that the State and the eligible entities in the State will coordinate, andestablish linkages between, governmental and other social services programs to assure the effective delivery of such services to low-income individuals and to avoid duplication of such services, and a description of how the State and the eligible entities will coordinate the provision of employment and training activities, as defined in section 101 <sup>1</sup> of such Act \[29 U.S.C. 2801\], in the State and in communities with entities providing activities through statewide and local workforce investment systems under the Workforce Investment Act of 1998;
 
 &emsp;(6) an assurance that the State will ensure coordination between antipoverty programs in each community in the State, and ensure, where appropriate, that emergency energy crisis intervention programs under title XXVI \[42 U.S.C. 8621 et seq.\] (relating to low-income home energy assistance) are conducted in such community;
 
@@ -120,7 +120,7 @@ The Secretary may prescribe procedures for the purpose of assessing the effectiv
 
 #### (f) Transition
 
-For fiscal year 2000, to be eligible to receive a grant or allotment under section 9905 or 9906 of this title, a State shall prepare and submit to the Secretary an application and State plan in accordance with the provisions of this chapter (as in effect on the day before October 27, 1998), rather than the provisions of subsections (a) through (c) of this section relating to applications and plans.
+For fiscal year 2000, to be eligible to receive a grant or allotment under section 9905 or 9906 of this title, a State shall prepare and submit to the Secretary an application and State plan in accordance with the provisions of this chapter (as in effect on the day before October 27, 1998), rather than the provisions of subsections (a)through (c) of this section relating to applications and plans.
 
 (Pub. L. 97–35, title VI, §676, as added Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2735.)
 
@@ -136,7 +136,7 @@ Title XXVI, referred to in subsec. (b)(6), is title XXVI of Pub. L. 97–35, Aug
 
 #### Prior Provisions
 
-A prior section 9908, Pub. L. 97–35, title VI, §679, Aug. 13, 1981, 95 Stat. 517; Pub. L. 98–558, title II, §205, Oct.30, 1984, 98 Stat. 2886; Pub. L. 99–425, title IV, §404(a), Sept. 30, 1986, 100 Stat. 969, related to withholding of funds, prior to the general amendment of this chapter by Pub. L. 105–285.
+A prior section 9908, Pub. L. 97–35, title VI, §679, Aug. 13, 1981, 95 Stat. 517; Pub. L. 98–558, title II, §205, Oct. 30, 1984, 98 Stat. 2886; Pub. L. 99–425, title IV, §404(a), Sept. 30, 1986, 100 Stat. 969, related to withholding of funds, prior to the general amendment of this chapter by Pub. L. 105–285.
 
 A prior section 676 of Pub. L. 97–35 was classified to section 9905 of this title, prior to the general amendment of this chapter by Pub. L. 105–285.
 

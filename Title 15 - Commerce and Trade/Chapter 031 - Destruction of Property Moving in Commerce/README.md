@@ -1,7 +1,5 @@
 ### <b>CHAPTER 31—DESTRUCTION OF PROPERTY MOVING IN COMMERCE</b>
 
-<i><sup>1</sup></i><i> So in original. The word “to,” probably should not appear.</i>
-
 
 ---
 

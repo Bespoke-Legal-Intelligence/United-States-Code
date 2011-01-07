@@ -6,7 +6,7 @@ All personnel actions affecting employees or applicants for employment (except w
 
 #### (b) Equal Employment Opportunity Commission; enforcement powers; issuance of rules, regulations, etc.; annual review and approval of national and regional equal employment opportunity plans; review and evaluation of equal employment opportunity programs and publication of progress reports; consultations with interested parties; compliance with rules, regulations, etc.; contents of national and regional equal employment opportunity plans; authority of Librarian of Congress
 
-Except as otherwise provided in this subsection, the Equal Employment Opportunity Commission shall have authority to enforce the provisions of subsection (a) of this section through appropriate remedies, including reinstatement or hiring of employees with or without back pay, as will effectuate the policies ofthis section, and shall issue such rules, regulations, orders and instructions as it deems necessary and appropriate to carry out its responsibilities under this section. The Equal Employment Opportunity Commission shall—
+Except as otherwise provided in this subsection, the Equal Employment Opportunity Commission shall have authority to enforce the provisions of subsection (a) of this section through appropriate remedies, including reinstatement or hiring of employees with or without back pay, as will effectuate the policies of this section, and shall issue such rules, regulations, orders and instructions as it deems necessary and appropriate to carry out its responsibilities under this section. The Equal Employment Opportunity Commission shall—
 
 &emsp;(1) be responsible for the annual review and approval of a national and regional equal employment opportunity plan which each department and agency and each appropriate unit referred to in subsection (a) of this section shall submit in order to maintain an affirmative program of equal employment opportunity for all such employees and applicants for employment;
 
@@ -48,21 +48,21 @@ Executive Order 11478, as amended, referred to in subsecs. (c) and (e), is set o
 
 #### Amendments
 
-2009—Subsec. (f). Pub. L. 111–2 added subsec. (f).
+<b>2009</b>—Subsec. (f). Pub. L. 111–2 added subsec. (f).
 
-2006—Subsec. (a). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
-2004—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1998—Subsec. (a). Pub. L. 105–220 inserted “in the Smithsonian Institution,” before “and in the Government Printing Office,”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–220 inserted “in the Smithsonian Institution,” before “and in the Government Printing Office,”.
 
-1995—Subsec. (a). Pub. L. 104–1 substituted “units of the judicial branch” for “units of the legislative and judicial branches” and inserted “Government Printing Office, the General Accounting Office, and the” before “Library of Congress”.
+<b>1995</b>—Subsec. (a). Pub. L. 104–1 substituted “units of the judicial branch” for “units of the legislative and judicial branches” and inserted “Government Printing Office, the General Accounting Office, and the” before “Library of Congress”.
 
-1991—Subsec. (c). Pub. L. 102–166, §114(1), substituted “90 days” for “thirty days”.
+<b>1991</b>—Subsec. (c). Pub. L. 102–166, §114(1), substituted “90 days” for “thirty days”.
 
 Subsec. (d). Pub. L. 102–166, §114(2), inserted before the period “, and the same interest to compensate for delay in payment shall be available as in cases involving nonpublic parties.”
 
-1980—Subsec. (a). Pub. L. 96–191 struck out “(other than the General Accounting Office)” after “in executive agencies”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–191 struck out “(other than the General Accounting Office)” after “in executive agencies”.
 
 #### Effective Date of 2009 Amendment
 
@@ -130,7 +130,7 @@ Sec. 2. <i>Requirements Applicable to Employing Departments and Agencies.</i>
 
 &emsp;(a) The employing department or agency shall not discharge, fail or refuse to hire, or otherwise discriminate against any employee with respect to the compensation, terms, conditions, or privileges of employment of that employee, because of protected genetic information with respect to the employee, or because of information about a request for or the receipt of genetic services by such employee.
 
-&emsp;(b) The employing department or agency shall not limit, segregate, or classify employees in any way that would deprive or tend to deprive any employeeof employment opportunities or otherwise adversely affect that employee's status, because of protected genetic information with respect to the employee or because of information about a request for or the receipt of genetic services by such employee.
+&emsp;(b) The employing department or agency shall not limit, segregate, or classify employees in any way that would deprive or tend to deprive any employee of employment opportunities or otherwise adversely affect that employee's status, because of protected genetic information with respect to the employee or because of information about a request for or the receipt of genetic services by such employee.
 
 &emsp;(c) The employing department or agency shall not request, require, collect, or purchase protected genetic information with respect to an employee, or information about a request for or the receipt of genetic services by such employee.
 

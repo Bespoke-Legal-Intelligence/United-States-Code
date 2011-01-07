@@ -8,7 +8,7 @@
 
 #### (b) Use of Federal payments under cooperative agreement or grant
 
-(1) Federal payments made under a cooperative agreement or grant under subsection (a) ofthis section may, with respect to Alzheimer's disease, be used for—
+(1) Federal payments made under a cooperative agreement or grant under subsection (a) of this section may, with respect to Alzheimer's disease, be used for—
 
 &emsp;(A) diagnostic examinations, patient assessments, patient care costs, and other costs necessary for conducting research;
 
@@ -24,15 +24,15 @@
 
 #### (c) Support period; additional periods
 
-Support of a center under subsection (a) of this section may be for a period of not to exceed five years. Such period may be extended by the Director for additional periods of not more than five years each if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
+Support of a center under subsection (a) of this section may be for a period of not to exceedfive years. Such period may be extended by the Director for additional periods of not more than five years each if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
 
 (July 1, 1944, ch. 373, title IV, §445, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 855; amended Pub. L. 101–557, title II, §201, Nov. 15, 1990, 104 Stat. 2767; Pub. L. 107–206, title I, §804(c), Aug. 2, 2002, 116 Stat. 874.)
 
 #### Amendments
 
-2002—Subsec. (b)(2). Pub. L. 107–206 substituted “Ruth L. Kirschstein National Research Service Awards” for “National Research Service Awards”.
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–206 substituted “Ruth L. Kirschstein National Research Service Awards” for “National Research Service Awards”.
 
-1990—Subsec. (a)(1). Pub. L. 101–557, §201(1), inserted “(including university medical centers)” after “nonprofit entities”, “(including staffing)” after “operating support”, and “(including multidisciplinary research)” after “clinical research” and substituted “Alzheimer's disease” for “Alzheimer's Disease”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–557, §201(1), inserted “(including university medical centers)” after “nonprofit entities”, “(including staffing)” after “operating support”, and “(including multidisciplinary research)” after “clinical research” and substituted “Alzheimer's disease” for “Alzheimer's Disease”.
 
 Subsec. (b). Pub. L. 101–557, §201(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Federal payments made under a cooperative agreement or grant under subsection (a) of this section may be used for—
 

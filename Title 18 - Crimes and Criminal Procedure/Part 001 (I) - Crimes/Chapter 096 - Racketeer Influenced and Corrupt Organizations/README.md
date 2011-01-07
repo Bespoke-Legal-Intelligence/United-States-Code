@@ -15,9 +15,9 @@
 
 #### Amendments
 
-1990—Pub. L. 101–647, title XXXV, §3559, Nov. 29, 1990, 104 Stat. 4927, struck out “racketeering” after “Prohibited” in item 1962.
+<b>1990</b>—Pub. L. 101–647, title XXXV, §3559, Nov. 29, 1990, 104 Stat. 4927, struck out “racketeering” after “Prohibited” in item 1962.
 
-1970—Pub. L. 91–452, title IX, §901(a), Oct. 15, 1970, 84 Stat. 941, added chapter 96 and items 1961 to 1968.
+<b>1970</b>—Pub. L. 91–452, title IX, §901(a), Oct. 15, 1970, 84 Stat. 941, added chapter 96 and items 1961 to 1968.
 
 
 ---

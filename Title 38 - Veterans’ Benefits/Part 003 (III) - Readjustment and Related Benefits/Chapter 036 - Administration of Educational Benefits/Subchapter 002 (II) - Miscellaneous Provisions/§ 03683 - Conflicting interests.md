@@ -16,21 +16,21 @@ Provisions similar to those comprising this section were contained in Pub. L. 85
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 1783 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1783 of this title as this section.
 
 Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “3674” for “1774”.
 
-1989—Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
+<b>1989</b>—Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
-1982—Subsec. (a). Pub. L. 97–295 inserted “of this title” after “34 or 35”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–295 inserted “of this title” after “34 or 35”.
 
-1976—Subsec. (a). Pub. L. 94–502, §513(a)(14), substituted “such officer's or employee's” for “his”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–502, §513(a)(14), substituted “such officer's or employee's” for “his”.
 
-Subsec. (b). Pub. L. 94–502, §513(a)(15), substituted “while such person was” for “while he was” and “the Administrator shall discontinue” for “he shall discontinue”.
+Subsec. (b). Pub. L. 94–502, §513(a)(15), substituted “while such person was” for “while he was” and “theAdministrator shall discontinue” for “he shall discontinue”.
 
 Subsec. (d). Pub. L. 94–502, §513(a)(16), substituted “if the Administrator finds” for “if he finds”.
 
-1972—Subsecs. (a), (b). Pub. L. 92–540 inserted “this chapter or” before “chapter 34 or 35” wherever appearing.
+<b>1972</b>—Subsecs. (a), (b). Pub. L. 92–540 inserted “this chapter or” before “chapter 34 or 35” wherever appearing.
 
 #### Effective Date of 1976 Amendment
 

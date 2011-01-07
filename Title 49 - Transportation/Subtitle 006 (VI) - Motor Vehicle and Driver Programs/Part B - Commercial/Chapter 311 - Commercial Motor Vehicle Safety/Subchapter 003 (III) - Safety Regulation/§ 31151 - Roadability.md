@@ -44,7 +44,7 @@ Contents.—The regulations issued under this section shall include, at a minimu
 
 &emsp;&emsp;(L) a process by which a driver or motor carrier transporting intermodal equipment is required to report to the intermodal equipment provider or the provider's designated agent any actual damage or defect in the intermodal equipment of which the driver or motor carrier is aware at the time the intermodal equipment is returned to the intermodal equipment provider or the provider's designated agent;
 
-&emsp;&emsp;(M) a requirement that any actual damage or defect identified in the process established under subparagraph (L) be repaired before the equipment is made available for interchange to a motor carrier and that repairs of equipment made pursuant to the requirements of this subparagraph and reports made pursuant to the subparagraph (L) process be documented in the maintenance records for such equipment; and
+&emsp;&emsp;(M) a requirement that any actual damage or defect identified in the process established under subparagraph (L) be repaired before the equipment is made available forinterchange to a motor carrier and that repairs of equipment made pursuant to the requirements of this subparagraph and reports made pursuant to the subparagraph (L) process be documented in the maintenance records for such equipment; and
 
 &emsp;&emsp;(N) a procedure under which motor carriers, drivers and intermodal equipment providers may seek correction of their motor carrier safety records through the deletion from those records of violations of safety regulations attributable to deficiencies in the intermodal chassis or trailer for which they should not have been held responsible.
 
@@ -124,5 +124,5 @@ The date of enactment of this section, referred to in subsec. (a)(1), (3)(E)(ii)
 
 #### Amendments
 
-2008—Subsec. (a)(3)(E)(ii). Pub. L. 110–244 substituted “section” for “Act”.
+<b>2008</b>—Subsec. (a)(3)(E)(ii). Pub. L. 110–244 substituted “section” for “Act”.
 

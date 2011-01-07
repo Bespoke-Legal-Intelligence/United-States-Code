@@ -2,7 +2,7 @@
 
 #### (a) Federal share; apportionment of remainder; annual budget; estimates of proposed Federal appropriations; advances against delayed State appropriations; credit to account in the Treasury
 
-Each commission shall recommend what share of its expenses shall be borne by the Federal Government, but such share shall be subject to approval by the Council. The remainder of the commission's expenses shall be otherwise apportioned as the commission may determine. Each commission shall prepare a budget annually andtransmit it to the Council and the States. Estimates of proposed appropriations from the Federal Government shall be included in the budget estimates submitted by the Council under chapter 11 of title 31, and may include an amount for advance to a commission against State appropriations for which delay is anticipated by reason of later legislative sessions. All sums appropriated to or otherwise received by a commission shall be credited to the commission's account in the Treasury of the United States.
+Each commission shall recommend what share of its expenses shall be borne by the Federal Government, but such share shall be subject to approval by the Council. The remainder of the commission's expenses shall be otherwise apportioned as the commission may determine. Each commission shall prepare a budget annually and transmit it to the Council and the States. Estimates of proposed appropriations from the Federal Government shall be included in the budget estimates submitted by the Council under chapter 11 of title 31, and may include an amount for advance to a commission against State appropriations for which delay is anticipated by reason of later legislative sessions. All sums appropriated to or otherwise received by a commission shall be credited to the commission's account in the Treasury of the United States.
 
 #### (b) Acceptance, reception, utilization, and disposal of appropriations, donations, and grants
 
@@ -10,7 +10,7 @@ A commission may accept for any of its purposes and functions appropriations, do
 
 #### (c) Accounts of receipts and disbursements; annual audit; inclusion in annual report
 
-The commission shall keep accurate accounts of all receipts and disbursements. The accounts shall be audited at least annually in accordance with generally accepted auditing standards by independent certified or licensed public accountants, certified or licensed by a regulatory authority of a State, and the report of the audit shall be included in and become a part of the annual report of the commission.
+The commission shall keep accurate accounts of all receipts and disbursements. The accounts shall be audited at least annually in accordance with generally accepted auditing standards by independent certified or licensed public accountants, certified or licensed by a regulatory authority of a State, and the report of the auditshall be included in and become a part of the annual report of the commission.
 
 #### (d) Inspection of accounts
 

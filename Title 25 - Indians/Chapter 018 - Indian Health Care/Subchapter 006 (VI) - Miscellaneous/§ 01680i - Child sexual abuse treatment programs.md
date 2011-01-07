@@ -12,7 +12,7 @@ Beginning October 1, 1995, the Secretary and the Secretary of the Interior may e
 
 #### Amendments
 
-1992—Pub. L. 102–573, §806, amended section generally. Prior to amendment, section read as follows:
+<b>1992</b>—Pub. L. 102–573, §806, amended section generally. Prior to amendment, section read as follows:
 
 “(a) The Secretary and the Secretary of the Interior shall, for each of the fiscal years 1989, 1990, and 1991, continue to provide through the Hopi Tribe and the Asiniboine and Sioux Tribes of the Fort Peck Reservation the demonstration programs involving treatment for child sexual abuse that were conducted during fiscal year 1988 through such tribes.
 

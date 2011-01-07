@@ -12,7 +12,7 @@ Another prior section 5113, act Aug. 16, 1954, ch. 736, 68A Stat. 619, related t
 
 #### Amendments
 
-2005—Pub. L. 109–59 renumbered section 5133 of this title as this section.
+<b>2005</b>—Pub. L. 109–59 renumbered section 5133 of this title as this section.
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 

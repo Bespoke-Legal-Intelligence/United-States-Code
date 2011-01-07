@@ -30,9 +30,9 @@ The change reflects the opinion of the Assistant General Counsel, Civil Service 
 
 #### Amendments
 
-2001—Pub. L. 107–107 substituted “a monthly housing allowance in the same amount as the basic allowance for housing allowed to a lieutenant colonel” for “the same allowances for public quarters as are allowed to a captain”.
+<b>2001</b>—Pub. L. 107–107 substituted “a monthly housing allowance in the same amount as the basic allowance for housing allowed to a lieutenant colonel” for “the same allowances for public quarters as are allowed to a captain”.
 
-1962—Pub. L. 87–651 struck out provisions which prescribed the salary of chaplain on appointment and reappointment.
+<b>1962</b>—Pub. L. 87–651 struck out provisions which prescribed the salary of chaplain on appointment and reappointment.
 
 #### Effective Date of 2001 Amendment
 

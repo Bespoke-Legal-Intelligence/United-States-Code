@@ -40,7 +40,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 
 Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L. 97–449, §7(b), 96 Stat. 2444.
 
-In subsection (a), the word “prescribed” is added for consistency in the revised title. The words “condition, or limitation of” are omitted as surplus. The word “Administrator” in section 902(a) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 784) is retained on authority of 49:106(g). The words “or in section 1474 of this Appendix” are omitted as surplus because 49 App.:1474 is not included in the revised title. The words “shall be deemed guilty of a misdemeanor” are omitted for consistency with title 18. The words “and upon conviction thereof” are omitted as surplus. The words “shall be fined under title 18” are substituted for “shall be subject for the first offense to a fine of not more than $500, and for any subsequent offense to a fine of not more than $2,000” for consistency with title 18.
+In subsection (a), the word “prescribed” is added for consistency in the revised title. The words “condition, or limitation of” are omitted as surplus. The word “Administrator” in section 902(a) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 784) is retained on authority of 49:106(g). The words “or in section 1474of this Appendix” are omitted as surplus because 49 App.:1474 is not included in the revised title. The words “shall be deemed guilty of a misdemeanor” are omitted for consistency with title 18. The words “and upon conviction thereof” are omitted as surplus. The words “shall be fined under title 18” are substituted for “shall be subject for the first offense to a fine of not more than $500, and for any subsequent offense to a fine of not more than $2,000” for consistency with title 18.
 
 In subsection (b), reference to 49 App.:ch. 20, subch. VII is omitted as unnecessary because subchapter VII is not restated in this part.
 
@@ -50,11 +50,11 @@ This amends 49:46316(b) to make it easier to include future sections in the cros
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–71 inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–71 inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
 
-1997—Subsec. (b). Pub. L. 105–102 amended directory language of Pub. L. 104–287. See 1996 Amendment note below.
+<b>1997</b>—Subsec. (b). Pub. L. 105–102 amended directory language of Pub. L. 104–287. See 1996 Amendment note below.
 
-1996—Subsec. (b). Pub. L. 104–287, as amended by Pub. L. 105–102, substituted “chapter 447 (except section 44718(a)), and chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909)” for “and sections 44701(a) and (b), 44702–44716, 44901, 44903(b) and (c), 44905, 44906, 44912–44915, and 44932–44938”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–287, as amended by Pub. L. 105–102, substituted “chapter 447 (except section 44718(a)), and chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909)” for “and sections 44701(a) and (b), 44702–44716, 44901, 44903(b) and (c), 44905, 44906, 44912–44915, and 44932–44938”.
 
 #### Effective Date of 1997 Amendment
 

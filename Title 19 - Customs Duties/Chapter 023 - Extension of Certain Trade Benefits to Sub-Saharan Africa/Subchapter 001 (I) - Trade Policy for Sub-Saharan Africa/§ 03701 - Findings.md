@@ -274,5 +274,5 @@ In general.—The amendment made by paragraph (1) \[amending Pub. L. 108–274, 
 
 \[“(B)
 
-Requests for retroactive application.—Section 8(b) of the AGOA Acceleration Act of 2004 shall be applied with respect to the amendment made by paragraph (1) by substituting ‘90 days after the date of the enactment of the Miscellaneous Trade and Technical Corrections Act of 2004 \[Dec. 3, 2004\]’ for ‘90 days after the date of the enactment of this Act’.”\]
+Requests for retroactive application.—Section 8(b) of the AGOA Acceleration Act of 2004 shall beapplied with respect to the amendment made by paragraph (1) by substituting ‘90 days after the date of the enactment of the Miscellaneous Trade and Technical Corrections Act of 2004 \[Dec. 3, 2004\]’ for ‘90 days after the date of the enactment of this Act’.”\]
 

@@ -38,7 +38,7 @@ For purposes of this section:
 
 (5) Except as otherwise authorized under subsection (h) of this section, nothing in this section shall be construed to require, or to authorize the Administrator to require, any new or modified source to install and operate any particular technological system of continuous emission reduction to comply with any new source standard of performance.
 
-(6) The revised standards of performance required by enactment of subsection (a)(1)(A)(i)and (ii) <sup>1</sup> of this section shall be promulgated not later than one year after August 7, 1977. Any new or modified fossil fuel fired stationary source which commences construction prior to the date of publication of the proposed revised standards shall not be required to comply with such revised standards.
+(6) The revised standards of performance required by enactment of subsection (a)(1)(A)(i) and (ii) <sup>1</sup> of this section shall be promulgated not later than one year after August 7, 1977. Any new or modified fossil fuel fired stationary source which commences construction prior to the date of publication of the proposed revised standards shall not be required to comply with such revised standards.
 
 #### (c) State implementation and enforcement of standards of performance
 
@@ -192,11 +192,11 @@ A prior section 111 of act July 14, 1955, was renumbered section 118 by Pub. L. 
 
 #### Amendments
 
-1990—Subsec. (a)(1). Pub. L. 101–549, §403(a), amended par. (1) generally, substituting provisions defining “standard of performance” with respect to any air pollutant for provisions defining such term with respect to subsec. (b) fossil fuel fired and other stationary sources and subsec. (d) particular sources.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–549, §403(a), amended par. (1) generally, substituting provisions defining “standard of performance” with respect to any air pollutant for provisions defining such term with respect to subsec. (b) fossil fuel fired and other stationary sources and subsec. (d) particular sources.
 
 Subsec. (a)(3). Pub. L. 101–549, §108(f), inserted at end “Nothing in subchapter II of this chapter relating to nonroad engines shall be construed to apply to stationary internal combustion engines.”
 
-Subsec. (b)(1)(B). Pub. L. 101–549, §108(e)(1), substituted “Within one year” for “Within 120 days”,“within one year” for “within 90 days”, and “every 8 years” for “every four years”, inserted before last sentence “Notwithstanding the requirements of the previous sentence, the Administrator need not review any such standard if the Administrator determines that such review is not appropriate in light of readily available information on the efficacy of such standard.”, and inserted at end “When implementation and enforcement of any requirement of this chapter indicate that emission limitations and percent reductions beyond those required by the standards promulgated under this section are achieved in practice, the Administrator shall, when revising standards promulgated under this section, consider the emission limitations and percent reductions achieved in practice.”
+Subsec. (b)(1)(B). Pub. L. 101–549, §108(e)(1), substituted “Within one year” for “Within 120 days”, “within one year” for “within 90 days”, and “every 8 years” for “every four years”, inserted before last sentence “Notwithstanding the requirements of the previous sentence, the Administrator need not review any such standard if the Administrator determines that such review is not appropriate in light of readily available information on the efficacy of such standard.”, and inserted at end “When implementation and enforcement of any requirement of this chapter indicate that emission limitations and percent reductions beyond those required by the standards promulgated under this section are achieved in practice, the Administrator shall, when revising standards promulgated under this section, consider the emission limitations and percent reductions achieved in practice.”
 
 Subsec. (d)(1)(A)(i). Pub. L. 101–549, §302(a), which directed the substitution of “7412(b)” for “7412(b)(1)(A)”, could not be executed, because of the prior amendment by Pub. L. 101–549, §108(g), see below.
 
@@ -210,13 +210,13 @@ Subsec. (g)(5) to (8). Pub. L. 101–549, §302(b), redesignated par. (7) as (5)
 
 “(6) Upon application by the Governor of a State showing that any category of stationary sources of a hazardous air pollutant listed under section 7412 of this title is not subject to emission standards under such section, the Administrator shall propose and promulgate such emission standards applicable to such category of sources.”
 
-1978—Subsecs. (d)(1)(A)(ii), (g)(4)(B). Pub. L. 95–623, §13(a)(2), substituted “under this section” for “under subsection (b) of this section”.
+<b>1978</b>—Subsecs. (d)(1)(A)(ii), (g)(4)(B). Pub. L. 95–623, §13(a)(2), substituted “under this section” for “under subsection (b) of this section”.
 
 Subsec. (h)(5). Pub. L. 95–623, §13(a)(1), added par. (5).
 
 Subsec. (j). Pub. L. 95–623, §13(a)(3), substituted in pars. (1)(A) and (2)(A) “standards under this section” and “under this section” for “standards under subsection (b) of this section” and “under subsection (b) of this section”, respectively.
 
-1977—Subsec. (a)(1). Pub. L. 95–95, §109(c)(1)(A), added subpars. (A), (B), and (C), substituted “For the purpose of subparagraphs (A)(i) and (ii) and (B), a standard of performance shall reflect” for “a standard for emissions of air pollutants which reflects”, “and the percentage reduction achievable” for “achievable”, and “technological system of continuous emission reduction which (taking into consideration the cost of achieving such emission reduction, and any nonair quality health and environment impact and energy requirements)” for “system of emission reduction which (taking into account the cost of achieving such reduction)” in existing provisions, and inserted provision that, for the purpose of subparagraph (1)(A)(ii), any cleaning of the fuel or reduction in the pollution characteristics of the fuel after extraction and prior to combustion may be credited, as determined under regulations promulgated by the Administrator, to a source which burns such fuel.
+<b>1977</b>—Subsec. (a)(1). Pub. L. 95–95, §109(c)(1)(A), added subpars. (A), (B), and (C), substituted “For the purpose of subparagraphs (A)(i) and (ii) and (B), a standard of performance shall reflect” for “a standard for emissions of air pollutants which reflects”, “and the percentage reduction achievable” for “achievable”, and “technological system of continuous emission reduction which (taking into consideration the cost of achieving such emission reduction, and any nonair quality health and environment impact and energy requirements)” for “system of emission reduction which (taking into account the cost of achieving such reduction)” in existing provisions, and inserted provision that, for the purpose of subparagraph (1)(A)(ii), any cleaning of the fuel or reduction in the pollution characteristics of the fuel after extraction and prior to combustion may be credited, as determined under regulations promulgated by the Administrator, to a source which burns such fuel.
 
 Subsec. (a)(7). Pub. L. 95–95, §109(c)(1)(B), added par. (7) defining “technological system of continuous emission reduction”.
 
@@ -242,7 +242,7 @@ Subsecs. (j), (k). Pub. L. 95–190, §14(a)(8), (9), redesignated subsec. (k) a
 
 Pub. L. 95–95, §109(e), added subsec. (k).
 
-1971—Subsec. (b)(1)(B). Pub. L. 92–157 substituted in first sentence “publish proposed” for “propose”.
+<b>1971</b>—Subsec. (b)(1)(B). Pub. L. 92–157 substituted in first sentence “publish proposed” for “propose”.
 
 #### Effective Date of 1977 Amendment
 
@@ -262,11 +262,11 @@ Applicability.—The provisions of subsections (a) \[amending this section\] and
 
 #### Transfer of Functions
 
-Enforcement functions of Administrator or other official in Environmental Protection Agency related to compliance with new source performance standards under this section with respect to pre-construction, construction, and initial operation of transportationsystem for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, eff. July 1, 1979, §§102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Administrator or other official in Environmental Protection Agency related to compliance with new source performance standards under this section with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, eff. July 1, 1979, §§102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
 #### Pending Actions and Proceedings
 
-Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any other officer or employee of the United States in his officialcapacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 

@@ -4,11 +4,11 @@
 
 (b) The legal or beneficial owner of an exclusive right under a copyright is entitled, subject to the requirements of section 411, to institute an action for any infringement of that particular right committed while he or she is the owner of it. The court may require such owner to serve written notice of the action with a copy of the complaint upon any person shown, by the records of the Copyright Office or otherwise, to have or claim an interest in the copyright, and shall require that such notice be served upon any person whose interest is likely to be affected by a decision in the case. The court may require the joinder, and shall permit the intervention, of any person having or claiming an interest in the copyright.
 
-(c) For any secondary transmission by a cable system that embodies a performance or a display of a work which is actionable as an act of infringement under subsection (c) of section 111, a television broadcast station holding a copyright or other license to transmit or perform the same version of that work shall, for purposes of subsection (b) of this section, be treated as a legal or beneficial owner if such secondary transmission occurs within the local service area of that television station.
+(c) For any secondary transmission by a cable system that embodies a performance or a display of a work which is actionable as an act of infringement under subsection (c) of section 111, a television broadcast station holding a copyright or other license to transmit or perform thesame version of that work shall, for purposes of subsection (b) of this section, be treated as a legal or beneficial owner if such secondary transmission occurs within the local service area of that television station.
 
 (d) For any secondary transmission by a cable system that is actionable as an act of infringement pursuant to section 111(c)(3), the following shall also have standing to sue: (i) the primary transmitter whose transmission has been altered by the cable system; and (ii) any broadcast station within whose local service area the secondary transmission occurs.
 
-(e) With respect to any secondary transmission that is made by a satellite carrier of a performance or display of a work embodied in a primary transmission and is actionable as an act of infringement under section 119(a)(5), a network station holding a copyright or other license to transmit or perform the same version of that work shall, for purposes of subsection (b) of this section, be treated as a legal or beneficial owner if such secondary transmission occurs within the local service area of that station.
+(e) With respect to any secondary transmission that is made by a satellite carrier of a performance or display of a work embodied in a primary transmission and is actionable as an act of infringement under section 119(a)(5),<sup>1</sup> a network station holding a copyright or other license to transmit or perform the same version of that work shall, for purposes of subsection (b) of this section, be treated as a legal or beneficial owner if such secondary transmission occurs within the local service area of that station.
 
 (f)(1) With respect to any secondary transmission that is made by a satellite carrier of a performance or display of a work embodied in a primary transmission and is actionable as an act of infringement under section 122, a television broadcast station holding a copyright or other license to transmit or perform the same version of that work shall, for purposes of subsection (b) of this section, be treated as a legal or beneficial owner if such secondary transmission occurs within the local market of that station.
 
@@ -18,7 +18,7 @@
 
 #### Historical and Revision Notes
 
-I74house report no. 94–1476
+#### house report no. 94–1476
 
 The bill, unlike the present law, contains a general statement of what constitutes infringement of copyright. Section 501(a) identifies a copyright infringer as someone who “violates any of the exclusive rights of the copyright owner as provided by sections 106 through 118” of the bill, or who imports copies or phonorecords in violation of section 602. Under the latter section an unauthorized importation of copies or phonorecords acquired abroad is an infringement of the exclusive right of distribution under certain circumstances.
 
@@ -30,29 +30,31 @@ The second and third sentences of section 501(b), which supplement the provision
 
 In addition to cases involving divisibility of ownership in the same version of a work, section 501(b) is intended to allow a court to permit or compel joinder of the owners of rights in works upon which a derivative work is based.
 
-Section 501 contains two provisions conferring standing to sue under the statue upon broadcast stations in specific situations involving secondary transmissionsby cable systems. Under subsection (c), a local television broadcaster licensed to transmit a work can sue a cable system importing the same version of the work into the broadcaster's local service area in violation of section 111(c). Subsection (d) deals with cases arising under section 111(c)(3), the provision dealing with substitution or alteration by a cable system of commercials or other programming; in such cases standing to sue is also conferred on: (1) the primary transmitter whose transmission has been altered by the cable system, and (2) any broadcast stations within whose local service area the secondary transmission occurs. These provisions are linked to section 509, a new provision on remedies for alteration of programming by cable systems, discussed below.
+Section 501 contains two provisions conferring standing to sue under the statue upon broadcast stations in specific situations involving secondary transmissions by cable systems. Under subsection (c), a local television broadcaster licensed to transmit a work can sue a cable system importing the same version of the work into the broadcaster's local service area in violation of section 111(c). Subsection (d) deals with cases arising under section 111(c)(3), the provision dealing with substitution or alteration by a cable system of commercials or other programming; in such cases standing to sue is also conferred on: (1) the primary transmitter whose transmission has been altered by the cable system, and (2) any broadcast stations within whose local service area the secondary transmission occurs. These provisions are linked to section 509, a new provision on remedies for alteration of programming by cable systems, discussed below.
 
 <b>Vicarious Liability for Infringing Performances.</b> The committee has considered and rejected an amendment to this section intended to exempt the proprietors of an establishment, such as a ballroom or night club, from liability for copyright infringement committed by an independent contractor, such as an orchestra leader. A well-established principle of copyright law is that a person who violates any of the exclusive rights of the copyright owner is an infringer, including persons who can be considered related or vicarious infringers. To be held a related or vicarious infringer in the case of performing rights, a defendant must either actively operate or supervise the operation of the place wherein the performances occur, or control the content of the infringing program, and expect commercial gain from the operation and either direct or indirect benefit from the infringing performance. The committee has decided that no justification exists for changing existing law, and causing a significant erosion of the public performance right.
 
 #### References in Text
 
-Section 338(a) of the Communications Act of 1934, referred to in subsec. (f)(2), is classified to section 338(a) of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
+Section 119(a)(5) of this title, referred to in subsec. (e), was redesignated as section 119(a)(4) of this title by Pub. L. 111–175, title I, §102(h)(1)(B), May 27, 2010, 124 Stat. 1224.
+
+Section 338(a) of the Communications Act of 1934, referred to in subsec. (f)(2), is classified to section 338(a)of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–273 substituted “122” for “121”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273 substituted “122” for “121”.
 
-1999—Subsec. (a). Pub. L. 106–44 substituted “121” for “118”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–44 substituted “121” for “118”.
 
 Subsec. (e). Pub. L. 106–113, §1000(a)(9) \[title I, §1011(b)(3)\], substituted “performance or display of a work embodied in a primary transmission” for “primary transmission embodying the performance or display of a work”.
 
 Subsec. (f). Pub. L. 106–113, §1000(a)(9) \[title I, §1002(b)\], added subsec. (f).
 
-1990—Subsec. (a). Pub. L. 101–650 inserted “or of the author as provided in section 106A(a)” after “118” and substituted “copyright or right of the author, as the case may be. For purposes of this chapter (other than section 506), any reference to copyright shall be deemed to include the rights conferred by section 106A(a).” for “copyright.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–650 inserted “or of the author as provided in section 106A(a)” after “118” and substituted “copyright or right of the author, as the case may be. For purposes of this chapter (other than section 506), any reference to copyright shall be deemed to include the rights conferred by section 106A(a).” for “copyright.”
 
 Pub. L. 101–553 inserted sentences at end defining “anyone” and providing that any State and any instrumentality, officer, or employee be subject to the provisions of this title in the same manner and to the same extent as any nongovernmental entity.
 
-1988—Subsec. (b). Pub. L. 100–568 substituted “section 411” for “sections 205(d) and 411”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–568 substituted “section 411” for “sections 205(d) and 411”.
 
 Subsec. (e). Pub. L. 100–667 added subsec. (e).
 
@@ -75,4 +77,6 @@ Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action 
 #### Causes of Action Arising Under Predecessor Provisions
 
 Section 112 of Pub. L. 94–553 provided that: “All causes of action that arose under title 17 before January 1, 1978, shall be governed by title 17 as it existed when the cause of action arose.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -46,7 +46,7 @@ Section 221, R.S. §125, provided that notice to take depositions, with proof of
 
 Section 222, R.S. §126, provided that a copy of notice of contest and of answer of returned member, be prefixed to depositions taken and transmitted with them to Clerk of House of Representatives.
 
-Section 223, R.S. §127; Mar. 2, 1875, ch. 119, §1, 18 Stat. 338; Mar. 2, 1887, ch. 318, 24 Stat. 445, covered procedure followed by Clerk of House of Representatives once the sealed testimony was forwarded to him by officer who took testimony.
+Section 223, R.S. §127; Mar. 2, 1875, ch. 119, §1, 18 Stat. 338; Mar. 2, 1887, ch. 318, 24 Stat. 445, covered procedure followed by Clerk of House of Representatives once thesealed testimony was forwarded to him by officer who took testimony.
 
 Section 224, R.S. §128, fixed witness fees to be paid by party at whose instance witness was summoned.
 

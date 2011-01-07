@@ -8,13 +8,19 @@ The Office of Advocacy shall also perform the following duties on a continuing b
 
 &emsp;(3) develop proposals for changes in the policies and activities of any agency of the Federal Government which will better fulfill the purposes of this chapter and communicate such proposals to the appropriate Federal agencies;
 
-&emsp;(4) represent the views and interests of small businesses before other Federal agencies whose policies and activities may affect small business; and
+&emsp;(4) represent the views and interests of small businesses before other Federal agencies whose policies and activities may affect small business;
 
-&emsp;(5) enlist the cooperation and assistance of public and private agencies, businesses, and other organizations in disseminating information about the programs and services provided by the Federal Government which are of benefit to small businesses, and information on how small businesses can participate in or make use of such programs and services.
+&emsp;(5) enlist the cooperation and assistance of public and private agencies, businesses, and other organizations in disseminating information about the programs and services provided by the Federal Government which are of benefit to small businesses, and information on how small businesses can participate in or make use of such programs and services; and
 
-(Pub. L. 94–305, title II, §203, June 4, 1976, 90 Stat. 669.)
+&emsp;(6) carry out the responsibilities of the Office of Advocacy under chapter 6 of title 5.
+
+(Pub. L. 94–305, title II, §203, June 4, 1976, 90 Stat. 669; Pub. L. 111–240, title I, §1602(a), Sept. 27, 2010, 124 Stat. 2551.)
 
 #### Codification
 
 Section was not enacted as part of the Small Business Act which comprises this chapter.
+
+#### Amendments
+
+<b>2010</b>—Par. (6). Pub. L. 111–240 added par. (6).
 

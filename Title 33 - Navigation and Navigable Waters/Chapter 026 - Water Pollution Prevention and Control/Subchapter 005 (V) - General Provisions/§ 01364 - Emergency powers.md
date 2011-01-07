@@ -10,9 +10,9 @@ Notwithstanding any other provision of this chapter, the Administrator upon rece
 
 #### Amendments
 
-1980—Subsec. (b). Pub. L. 96–510 struck out subsec. (b) which related to emergency assistance, establishment of an emergency fund, and preparation of a contingency plan for such emergencies.
+<b>1980</b>—Subsec. (b). Pub. L. 96–510 struck out subsec. (b) which related to emergency assistance, establishment of an emergency fund, and preparation of a contingency plan for such emergencies.
 
-1977—Pub. L. 95–217 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1977</b>—Pub. L. 95–217 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1980 Amendment
 

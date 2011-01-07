@@ -6,7 +6,7 @@ Each public housing agency shall identify all public housing projects of the pub
 
 &emsp;(1) The project is on the same or contiguous sites.
 
-&emsp;(2) The project is determined by the public housing agency to be distressed, which determination shall be made in accordance with guidelines established by the Secretary, which guidelines shall take into account the criteria established in the Final Report of the National Commission on Severely Distressed Public Housing (August 1992).
+&emsp;(2) The project is determined by the public housing agency to be distressed, which determination shall be made in accordance with guidelines established by the Secretary, which guidelines shall take into account the criteriaestablished in the Final Report of the National Commission on Severely Distressed Public Housing (August 1992).
 
 &emsp;(3) The project—
 
@@ -22,7 +22,7 @@ Each public housing agency shall consult with the appropriate public housing res
 
 #### (1) Development
 
-&emsp;Each public housing agency shall develop and carry out a 5-year plan in conjunctionwith the Secretary for the removal of public housing units identified under subsection (a) of this section from the inventory of the public housing agency and the annual contributions contract.
+&emsp;Each public housing agency shall develop and carry out a 5-year plan in conjunction with the Secretary for the removal of public housing units identified under subsection (a) of this section from the inventory of the public housing agency and the annual contributions contract.
 
 #### (2) Approval
 
@@ -94,7 +94,7 @@ Notwithstanding any other provision of law, if, in the determination of the Secr
 
 Notwithstanding any other provision of law, if a project or projects are identified pursuant to subsection (a) of this section, the Secretary may authorize or direct the transfer, to the tenant-based assistance program of such agency or to appropriate site revitalization or other capital improvements approved by the Secretary, of—
 
-&emsp;(1) in the case of an agency receiving assistance under the comprehensive improvement assistance program, any amounts obligated by the Secretary for the modernization of such project or projects pursuant to section 1437<i>l</i> ofthis title (as in effect immediately before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998);
+&emsp;(1) in the case of an agency receiving assistance under the comprehensive improvement assistance program, any amounts obligated by the Secretary for the modernization of such project or projects pursuant to section 1437<i>l</i> of this title (as in effect immediately before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998);
 
 &emsp;(2) in the case of an agency receiving public housing modernization assistance by formula pursuant to such section 1437<i>l</i> of this title, any amounts provided to the agency which are attributable pursuant to the formula for allocating such assistance to such project or projects;
 

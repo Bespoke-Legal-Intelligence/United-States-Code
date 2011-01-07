@@ -96,7 +96,7 @@ Any person who is authorized to enforce this chapter may—
 
 #### (2) Liability for costs
 
-&emsp;Any person assessed a civil penalty for a violation of this chapter or of any regulation or permit issued under this chapter, and any claimant in a forfeiture action brought for such a violation, shall be liable for the reasonable costs incurred by the Secretary in storage, care, and maintenance of any sanctuary resource or other property seized in connection with the violation.
+&emsp;Any person assessed a civil penalty for a violation of this chapter or of any regulation orpermit issued under this chapter, and any claimant in a forfeiture action brought for such a violation, shall be liable for the reasonable costs incurred by the Secretary in storage, care, and maintenance of any sanctuary resource or other property seized in connection with the violation.
 
 #### (g) Subpoenas
 
@@ -130,7 +130,7 @@ Presidential Proclamation 5928 of December 27, 1988, referred to in subsec. (k),
 
 #### Amendments
 
-2000—Subsec. (b)(6). Pub. L. 106–513, §8(a), added par. (6).
+<b>2000</b>—Subsec. (b)(6). Pub. L. 106–513, §8(a), added par. (6).
 
 Subsecs. (c) to (f). Pub. L. 106–513, §8(b), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) redesignated (g).
 
@@ -140,9 +140,9 @@ Subsecs. (h) to (k). Pub. L. 106–513, §8(b), redesignated subsecs. (g) to (j)
 
 Subsec. (<i>l</i>). Pub. L. 106–513, §8(c), added subsec. (<i>l</i>).
 
-1996—Subsec. (e)(1)(A). Pub. L. 104–283 made technical amendment to reference in original act which appears in text as reference to section 9607(f)(1) of title 42.
+<b>1996</b>—Subsec. (e)(1)(A). Pub. L. 104–283 made technical amendment to reference in original act which appears in text as reference to section 9607(f)(1) of title 42.
 
-1992—Subsec. (c)(1). Pub. L. 102–587, §2107(a)(1), substituted “$100,000” for “$50,000”.
+<b>1992</b>—Subsec. (c)(1). Pub. L. 102–587, §2107(a)(1), substituted “$100,000” for “$50,000”.
 
 Subsec. (c)(3). Pub. L. 102–587, §2107(a)(2), struck out “and may be proceeded against in any district court of the United States having jurisdiction” after “assessed for such violation” and inserted at end “Such penalty shall constitute a maritime lien on the vessel and may be recovered in an action in rem in the district court of the United States having jurisdiction over the vessel.”
 
@@ -158,7 +158,7 @@ In general.—Notwithstanding any other law, the Secretary may use amounts recei
 
 Subsec. (j). Pub. L. 102–587, §2107(e), added subsec. (j).
 
-1988—Pub. L. 100–627 amended section generally, substituting provisions consisting of subsecs. (a) to (i) relating to enforcement activities in general, powers of authorized officers, civil penalties, forfeiture, payment of storage, care, and other costs, subpoenas, use of resources of State and other Federal agencies, Coast Guard authority, and injunctive relief for former provisions consisting of subsecs. (a) to (c) relating to enforcement activities in general, civil penalties, and jurisdiction.
+<b>1988</b>—Pub. L. 100–627 amended section generally, substituting provisions consisting of subsecs. (a) to (i) relating to enforcement activities in general, powers of authorized officers, civil penalties, forfeiture, payment of storage, care, and other costs, subpoenas, use of resources of State and other Federal agencies, Coast Guard authority, and injunctive relief for former provisions consisting of subsecs. (a) to (c) relating to enforcement activities in general, civil penalties, and jurisdiction.
 
 #### Transfer of Functions
 

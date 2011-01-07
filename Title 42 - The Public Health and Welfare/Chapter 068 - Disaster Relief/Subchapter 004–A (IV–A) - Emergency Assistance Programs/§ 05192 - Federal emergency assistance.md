@@ -4,7 +4,7 @@
 
 In any emergency, the President may—
 
-&emsp;(1) direct any Federal agency, with or without reimbursement, to utilize its authorities and the resources granted to it under Federal law (including personnel, equipment, supplies, facilities, and managerial, technical and advisory services) in support of State and localemergency assistance efforts to save lives, protect property and public health and safety, and lessen or avert the threat of a catastrophe, including precautionary evacuations;
+&emsp;(1) direct any Federal agency, with or without reimbursement, to utilize its authorities and the resources granted to it under Federal law (including personnel, equipment, supplies, facilities, and managerial, technical and advisory services) in support of State and local emergency assistance efforts to save lives, protect property and public health and safety, and lessen or avert the threat of a catastrophe, including precautionary evacuations;
 
 &emsp;(2) coordinate all disaster relief assistance (including voluntary assistance) provided by Federal agencies, private organizations, and State and local governments;
 
@@ -28,7 +28,7 @@ In any emergency, the President may—
 
 &emsp;(7) assist State and local governments in the distribution of medicine, food, and other consumable supplies, and emergency assistance; and
 
-&emsp;(8) provide accelerated Federal assistance and Federal support where necessary to save lives, prevent human suffering, or mitigate severe damage, which may be provided in the absence of a specific request and in which case the President—
+&emsp;(8) provide accelerated Federal assistance and Federal support where necessary to savelives, prevent human suffering, or mitigate severe damage, which may be provided in the absence of a specific request and in which case the President—
 
 &emsp;&emsp;(A) shall, to the fullest extent practicable, promptly notify and coordinate with a State in which such assistance or support is provided; and
 
@@ -46,7 +46,7 @@ The President shall promulgate and maintain guidelines to assist Governors in re
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–295, §681(b)(1)(A), inserted “, including precautionary evacuations” before semicolon at end.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–295, §681(b)(1)(A), inserted “, including precautionary evacuations” before semicolon at end.
 
 Subsec. (a)(8). Pub. L. 109–295, §681(b)(1)(B)–(D), added par. (8).
 
@@ -54,7 +54,7 @@ Subsec. (b). Pub. L. 109–295, §681(b)(2), inserted “, including precaution
 
 Subsec. (c). Pub. L. 109–295, §681(b)(3), added subsec. (c).
 
-2000—Subsec. (a)(6). Pub. L. 106–390 struck out “temporary housing” after “provide”.
+<b>2000</b>—Subsec. (a)(6). Pub. L. 106–390 struck out “temporary housing” after “provide”.
 
 #### Effective Date of 2000 Amendment
 

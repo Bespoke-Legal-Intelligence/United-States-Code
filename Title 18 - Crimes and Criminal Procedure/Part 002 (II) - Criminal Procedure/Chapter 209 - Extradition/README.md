@@ -23,9 +23,9 @@
 
 #### Amendments
 
-1996—Pub. L. 104–294, title VI, §601(f)(9), (10), Oct. 11, 1996, 110 Stat. 3500, inserted comma after “District” in item 3182 and after “Territory” in item 3183.
+<b>1996</b>—Pub. L. 104–294, title VI, §601(f)(9), (10), Oct. 11, 1996, 110 Stat. 3500, inserted comma after “District” in item 3182 and after “Territory” in item 3183.
 
-1990—Pub. L. 101–623, §11(b), Nov. 21, 1990, 104 Stat. 3356, added item 3196.
+<b>1990</b>—Pub. L. 101–623, §11(b), Nov. 21, 1990, 104 Stat. 3356, added item 3196.
 
 
 ---

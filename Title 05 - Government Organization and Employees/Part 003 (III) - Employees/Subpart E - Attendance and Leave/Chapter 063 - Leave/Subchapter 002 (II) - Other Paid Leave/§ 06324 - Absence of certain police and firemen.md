@@ -1,6 +1,6 @@
 ### §6324. Absence of certain police and firemen
 
-(a) Sick leave may not be charged to the account of a member of the Metropolitan Police force or the Fire Department of the District of Columbia, the United States Park Police force, or the Executive Protective Service force for an absence due to injury or illness resulting from the performance of duty.
+(a) Sick leave may not be charged to the account of a member of the Metropolitan Police force or the Fire Department of the District of Columbia, the United States Park Police force, or the United States Secret Service Uniformed Division for an absence due to injury or illness resulting from the performance of duty.
 
 (b) The determination of whether an injury or illness resulted from the performance of duty shall be made under regulations prescribed by—
 
@@ -8,9 +8,11 @@
 
 &emsp;(2) the Secretary of the Interior for the United States Park Police force; and
 
-&emsp;(3) the Secretary of the Treasury for the Executive Protective Service force.
+&emsp;(3) the Secretary of Homeland Security for the United States Secret Service Uniformed Division.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 522; Pub. L. 90–623, §1(18), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 94–183, §2(28), (29), Dec. 31, 1975, 89 Stat. 1058.)
+(c) This section shall not apply to members of the United States Secret Service Uniformed Division who are covered under chapter 84 for the purpose of retirement benefits.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 522; Pub. L. 90–623, §1(18), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 94–183, §2(28), (29), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 111–282, §2(c), Oct. 15, 2010, 124 Stat. 3038.)
 
 Historical and Revision Notes
 
@@ -34,21 +36,25 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
+2010—Subsec. (a). Pub. L. 111–282, §2(c)(1), substituted “United States Secret Service Uniformed Division” for “Executive Protective Service force”.
+
+Subsec. (b)(3). Pub. L. 111–282, §2(c)(2), substituted “Homeland Security for the United States Secret Service Uniformed Division” for “the Treasury for the Executive Protective Service force”.
+
+Subsec. (c). Pub. L. 111–282, §2(c)(3), added subsec. (c).
+
 1975—Subsecs. (a), (b)(3). Pub. L. 94–183 substituted “Executive Protective Service” for “White House Police”.
 
 1968—Subsec. (b)(1). Pub. L. 90–623 substituted “District of Columbia Council” for “Commissioners of the District of Columbia”.
 
-#### Change of Name
+#### Effective Date of 2010 Amendment
 
-Reference to Executive Protective Service held to refer to United States Secret Service Uniformed Division pursuant to Pub. L. 95–179, set out as a note under section 3056a of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 111–282 effective on first day of first pay period which begins after Oct. 15, 2010, see section 5 of Pub. L. 111–282, set out as a note under section 5102 of this title.
 
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
 
 #### Transfer of Functions
-
-For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by Council of District of Columbia, as provided by section 401 of Pub. L. 93–198.
 

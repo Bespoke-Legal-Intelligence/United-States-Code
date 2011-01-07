@@ -224,11 +224,11 @@ In paragraph (8), before subparagraph (A), the words “instrument of indebtedne
 
 #### Amendments
 
-2008—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(A), (b)(1). See 2006 Amendment note below.
+<b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(A), (b)(1). See 2006 Amendment note below.
 
 Pub. L. 110–181, §3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(A), into this section by inserting “or Administrator” after “Secretary” wherever appearing in pars. (1)(B), (4), and (9)(A). See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
 Pub. L. 110–181, §3522(a)(1), incorporated the substance of the amendment by Pub. L. 109–163, §3507(b)(1), into this section by adding pars. (2) and (13), redesignating former pars. (2) to (13) as (3) to (14), respectively, and striking out former par. (13), which defined “Secretary”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-2006—Pub. L. 109–163, §3507(a)(1)(A), (b)(1), which directed the amendment of section 1271 of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes and Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–163, §3507(a)(1)(A), (b)(1), which directed the amendment of section 1271 of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes and Historical and Revision notes above.
 

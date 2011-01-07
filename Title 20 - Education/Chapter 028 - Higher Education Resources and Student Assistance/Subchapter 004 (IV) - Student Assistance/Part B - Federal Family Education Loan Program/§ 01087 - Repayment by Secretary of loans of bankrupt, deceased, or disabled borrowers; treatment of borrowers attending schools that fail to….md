@@ -2,15 +2,25 @@
 
 #### (a) Repayment in full for death and disability
 
-If a student borrower who has received a loan described in subparagraph (A) or (B) of section 1078(a)(1) of this title dies or becomes permanently and totally disabled (as determined in accordance with regulations of the Secretary), then the Secretary shall discharge the borrower's liability on the loan by repaying the amount owed on the loan.
+#### (1) In general
 
-#### (2) <sup>1</sup> Disability determinations
+&emsp;If a student borrower who has received a loan described in subparagraph (A) or (B) of section 1078(a)(1) of this title dies or becomes permanently and totally disabled (as determined in accordance with regulations of the Secretary), or if a student borrower who has received such a loan is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment that can be expected to result in death, has lasted for a continuous period of not less than 60 months, or can be expected to last for a continuous period of not less than 60 months then the Secretary shall discharge the borrower's liability on the loan by repaying the amount owed on the loan. The Secretary may develop such safeguards as the Secretary determines necessary to prevent fraud and abuse in the discharge of liability under this subsection. Notwithstanding any other provision of this subsection, the Secretary may promulgate regulations to reinstate the obligation of, and resume collection on, loans discharged under this subsection in any case in which—
+
+&emsp;&emsp;(A) a borrower received a discharge of liability under this subsection and after the discharge the borrower—
+
+&emsp;&emsp;&emsp;(i) receives a loan made, insured, or guaranteed under this subchapter and part C of subchapter I of chapter 34 of title 42; or
+
+&emsp;&emsp;&emsp;(ii) has earned income in excess of the poverty line; or
+
+&emsp;&emsp;(B) the Secretary determines the reinstatement and resumption to be necessary.
+
+#### (2) Disability determinations
 
 &emsp;A borrower who has been determined by the Secretary of Veterans Affairs to be unemployable due to a service-connected condition and who provides documentation of such determination to the Secretary of Education, shall be considered permanently and totally disabled for the purpose of discharging such borrower's loans under this subsection, and such borrower shall not be required to present additional documentation for purposes of this subsection.
 
 #### (b) Payment of claims on loans in bankruptcy
 
-The Secretary shall pay to the holder of a loan described in section 1078(a)(1)(A) or (B), 1078–1,<sup>2</sup> 1078–2, 1078–3, or 1078–8 of this title, the amount of the unpaid balance of principal and interest owed on such loan—
+The Secretary shall pay to the holder of a loan described in section 1078(a)(1)(A) or (B), 1078–1,<sup>1</sup> 1078–2, 1078–3, or 1078–8 of this title, the amount of the unpaid balance of principal and interest owed on such loan—
 
 &emsp;(1) when the borrower files for relief under chapter 12 or 13 of title 11;
 
@@ -46,36 +56,6 @@ If a student on whose behalf a parent has received a loan described in section 1
 
 (Pub. L. 89–329, title IV, §437, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1414; amended Pub. L. 102–325, title IV, §428, July 23, 1992, 106 Stat. 551; Pub. L. 103–208, §2(c)(63)–(65), Dec. 20, 1993, 107 Stat. 2469; Pub. L. 105–244, title IV, §431, Oct. 7, 1998, 112 Stat. 1709; Pub. L. 109–171, title VIII, §8012, Feb. 8, 2006, 120 Stat. 166; Pub. L. 110–315, title I, §103(b)(7), title IV, §§432(b)(4), 437(a), (b), Aug. 14, 2008, 122 Stat. 3089, 3246, 3257, 3258; Pub. L. 111–39, title IV, §402(e)(1), July 1, 2009, 123 Stat. 1942.)
 
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 110–315, title IV, §437(a), (c), Aug. 14, 2008, 122 Stat. 3257, 3258, provided that, effective July 1, 2010, subsection (a) of this section is amended—</i>
-
-<i>(1) by striking “(a) Repayment in full for death and disability.—If a” and inserting the following:</i>
-
-#### <i>“(a) Repayment in full for death and disability</i>
-
-#### <i>“(1) In general</i>
-
-&emsp;<i>“If a”;</i>
-
-<i>(2) by inserting “, or if a student borrower who has received such a loan is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment that can be expected to result in death, has lasted for a continuous period of not less than 60 months, or can be expected to last for a continuous period of not less than 60 months” after “of the Secretary),”; and</i>
-
-<i>(3) by adding at the end the following: “The Secretary may develop such safeguards as the Secretary determines necessary to prevent fraud and abuse in the discharge of liability under this subsection. Notwithstanding any other provision of this subsection, the Secretary may promulgate regulations to reinstate the obligation of, and resume collection on, loans discharged under this subsection in any case in which—</i>
-
-&emsp;&emsp;<i>“(A) a borrower received a discharge of liability under this subsection and after the discharge the borrower—</i>
-
-&emsp;&emsp;&emsp;<i>“(i) receives a loan made, insured, or guaranteed under this subchapter and part C of subchapter I of chapter 34 of title 42; or</i>
-
-&emsp;&emsp;&emsp;<i>“(ii) has earned income in excess of the poverty line; or</i>
-
-&emsp;&emsp;<i>“(B) the Secretary determines necessary.”.</i>
-
-<i>Pub. L. 111–39, title IV, §402(e), July 1, 2009, 123 Stat. 1942, provided that, effective July 1, 2010, and as if enacted as part of the amendments made by Pub. L. 110–315, §437(a), set out above, subsection (a)(1) of this section is amended–</i>
-
-<i>(1) in the matter preceding subparagraph (A), by substituting “Secretary), or if” for “Secretary),, or if”; and</i>
-
-<i>(2) in subparagraph (B), by inserting “the reinstatement and resumption to be” after “determines”.</i>
-
 #### References in Text
 
 Section 1078–1 of this title, referred to in subsec. (b), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
@@ -86,25 +66,41 @@ A prior section 1087, Pub. L. 89–329, title IV, §437, as added Pub. L. 90–5
 
 #### Amendments
 
-2008—Subsec. (a)(2). Pub. L. 110–315, §437(b), added par. (2).
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–39 substituted “Secretary), or if” for “Secretary),, or if” in introductory provisions and inserted “the reinstatement and resumption to be” after “determines” in subpar. (B).
+
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §437(a)(3), which directed insertion of “The Secretary may develop such safeguards as the Secretary determines necessary to prevent fraud and abuse in the discharge of liability under this subsection. Notwithstanding any other provision of this subsection, the Secretary may promulgate regulations to reinstate the obligation of, and resume collection on, loans discharged under this subsection in any case in which—
+
+&emsp;“(A) a borrower received a discharge of liability under this subsection and after the discharge the borrower—
+
+&emsp;&emsp;“(i) receives a loan made, insured, or guaranteed under this subchapter and part C of subchapter I of chapter 34 of title 42; or
+
+&emsp;&emsp;“(ii) has earned income in excess of the poverty line; or
+
+&emsp;“(B) the Secretary determines necessary.”
+
+> at the end of subsec. (a), was executed by making the insertion at the end of par. (1) to reflect the probable intent of Congress, notwithstanding the addition of par. (2) prior to the effective date of this amendment.
+
+Pub. L. 110–315, §437(a)(1), (2), designated existing provisions as par. (1), inserted par. (1) heading, and inserted “, or if a student borrower who has received such a loan is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment that can be expected to result in death, has lasted for a continuous period of not less than 60 months, or can be expected to last for a continuous period of not less than 60 months” after “of the Secretary),”.
+
+Subsec. (a)(2). Pub. L. 110–315, §437(b), added par. (2).
 
 Subsec. (c)(1). Pub. L. 110–315, §103(b)(7), substituted “authorizing committees” for “Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate”.
 
 Subsec. (c)(5). Pub. L. 110–315, §432(b)(4), substituted “consumer reporting agencies” for “credit bureaus”.
 
-2006—Pub. L. 109–171, §8012(1), in section catchline, substituted “schools that fail to provide a refund, attending closed schools, or falsely certified as eligible to borrow” for “closed schools or falsely certified as eligible to borrow”.
+<b>2006</b>—Pub. L. 109–171, §8012(1), in section catchline, substituted “schools that fail to provide a refund, attending closed schools, or falsely certified as eligible to borrow” for “closed schools or falsely certified as eligible to borrow”.
 
 Subsec. (c)(1). Pub. L. 109–171, §8012(2), inserted “or was falsely certified as a result of a crime of identity theft” after “falsely certified by the eligible institution” in first sentence.
 
-1998—Subsec. (c)(1). Pub. L. 105–244 inserted “or if the institution failed to make a refund of loan proceeds which the institution owed to such student's lender,” after “falsely certified by the eligible institution,” and inserted at end “In the case of a discharge based upon a failure to refund, the amount of the discharge shall not exceed that portion of the loan which should have been refunded. The Secretary shall report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate annually as to the dollar amount of loan discharges attributable to failures to make refunds.”
+<b>1998</b>—Subsec. (c)(1). Pub. L. 105–244 inserted “or if the institution failed to make a refund of loan proceeds which the institution owed to such student's lender,” after “falsely certified by the eligible institution,” and inserted at end “In the case of a discharge based upon a failure to refund, the amount of the discharge shall not exceed that portion of the loan which should have been refunded. The Secretary shall report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate annually as to the dollar amount of loan discharges attributable to failures to make refunds.”
 
-1993—Subsec. (b). Pub. L. 103–208, §2(c)(63), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “If the collection of a loan described in subparagraph (A) or (B) of section 1078(a)(1) of this title or sections 1078–1, 1078–2, 1078–3, or 1078–8 of this title is stayed in any action under title 11, the Secretary shall repay the unpaid balance of principal and interest owed on the loan.”
+<b>1993</b>—Subsec. (b). Pub. L. 103–208, §2(c)(63), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “If the collection of a loan described in subparagraph (A) or (B) of section 1078(a)(1) of this title or sections 1078–1, 1078–2, 1078–3, or 1078–8 of this title is stayed in any action under title 11, the Secretary shall repay the unpaid balance of principal and interest owed on the loan.”
 
 Subsec. (c)(1). Pub. L. 103–208, §2(c)(64), substituted “If a borrower” for “If a student borrower”, “under this part and the student borrower, or the student on whose behalf a parent borrowed, is unable” for “under this part is unable”, and “in which such student is enrolled” for “in which the borrower is enrolled”.
 
 Subsec. (c)(4). Pub. L. 103–208, §2(c)(65), inserted at end “The amount discharged under this subsection shall be treated the same as loans under section 1087ee(a)(5) of this title.”
 
-1992—Pub. L. 102–325 amended section generally, substituting subsecs. (a) to (d) for former subsecs. (a) and (b) which related to repayment by Secretary of loans of bankrupt, deceased, or disabled borrowers.
+<b>1992</b>—Pub. L. 102–325 amended section generally, substituting subsecs. (a) to (d) for former subsecs. (a) and (b) which related to repayment by Secretary of loans of bankrupt, deceased, or disabled borrowers.
 
 #### Effective Date of 2009 Amendment
 
@@ -126,7 +122,5 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
-<i><sup>1</sup></i><i> So in original. See italicized Amendment of Subsection (a) note below.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

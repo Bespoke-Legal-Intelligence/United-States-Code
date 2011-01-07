@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(A) shall be conducted among Federal, State, local, and tribal government leaders on electronic Government in the executive, legislative, and judicial branches, as well as leaders in the private and nonprofit sectors, to encourage collaboration and enhance understanding of best practices and innovative approaches in acquiring, using, and managing information resources;
 
-&emsp;&emsp;(B) is intended to improve the performance of governments in collaborating on the use of information technology to improve thedelivery of Government information and services; and
+&emsp;&emsp;(B) is intended to improve the performance of governments in collaborating on the use of information technology to improve the delivery of Government information and services; and
 
 &emsp;&emsp;(C) may include—
 
@@ -104,7 +104,7 @@
 
 &emsp;(17) Assist the Director in preparing the E-Government report established under section 3606.
 
-(g) The Director shall ensure that the Office of Management and Budget, including the Office of Electronic Government, the Office of Information and Regulatory Affairs, and other relevant offices, have adequate staff and resources to properly fulfill all functions under the E-Government Act of 2002.
+(g) The Director shall ensure that the Office of Management and Budget, including the Office of Electronic Government, the Office of Information and Regulatory Affairs, and other relevantoffices, have adequate staff and resources to properly fulfill all functions under the E-Government Act of 2002.
 
 (Added Pub. L. 107–347, title I, §101(a), Dec. 17, 2002, 116 Stat. 2902.)
 

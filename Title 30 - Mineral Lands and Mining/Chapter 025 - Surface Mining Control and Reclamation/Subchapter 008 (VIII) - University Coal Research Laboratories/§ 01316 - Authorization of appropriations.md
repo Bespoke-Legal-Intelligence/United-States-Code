@@ -1,6 +1,6 @@
 ### §1316. Authorization of appropriations
 
-(a) For the ten institutions referred to in the last sentence of section 1311(a) of this title, there are authorized to be appropriated not to exceed $30,000,000 for the fiscal year ending September 30, 1979 (including the cost of construction, equipment, and startup expenses), and not to exceed $7,500,000 for the fiscal year 1980 and for each fiscal year thereafter through the fiscal year ending before October 1, 1984, to carry out the provisions of this subchapter.
+(a) For the ten institutions referred to in the last sentence of section 1311(a) of this title, there are authorized to be appropriated not to exceed $30,000,000 for the fiscal year ending September 30, 1979 (including the cost of construction, equipment, and startup expenses), and notto exceed $7,500,000 for the fiscal year 1980 and for each fiscal year thereafter through the fiscal year ending before October 1, 1984, to carry out the provisions of this subchapter.
 
 (b) For the three remaining institutions referred to in the last sentence of section 1311(a) of this title, there are authorized to be appropriated not to exceed $6,500,000 for the fiscal year 1980 (including the cost of construction, equipment, and startup expenses), and not to exceed $2,000,000 for each fiscal year after fiscal year 1980 ending before October 1, 1984, to carry out the provisions of this subchapter.
 
@@ -8,5 +8,5 @@
 
 #### Amendments
 
-1978—Pub. L. 95–617 designated existing provisions as subsec. (a), inserted reference to ten institutions referred to in last sentence of section 1311(a) of this title and substituted provisions authorizing appropriations for each fiscal year thereafter through the fiscal year ending before October 1, 1984, for provisions authorizing appropriations each fiscal year thereafter through the fiscal year ending June 30, 1983, and added subsec. (b).
+<b>1978</b>—Pub. L. 95–617 designated existing provisions as subsec. (a), inserted reference to ten institutions referred to in last sentence of section 1311(a) of this title and substituted provisions authorizing appropriations for each fiscal year thereafter through the fiscal year ending before October 1, 1984, for provisions authorizing appropriations each fiscal year thereafter through the fiscal year ending June 30, 1983, and added subsec. (b).
 

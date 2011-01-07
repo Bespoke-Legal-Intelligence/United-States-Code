@@ -9,7 +9,7 @@
 
 #### Amendments
 
-1987—Pub. L. 100–203, title X, §10714(d), Dec. 22, 1987, 101 Stat. 1330–471, added item 4912.
+<b>1987</b>—Pub. L. 100–203, title X, §10714(d), Dec. 22, 1987, 101 Stat. 1330–471, added item 4912.
 
 #### Prior Provisions
 
@@ -23,7 +23,7 @@ Prior sections 4911 to 4922 and 4931 were repealed by Pub. L. 94–455, §1904(a
 
 The subject matter of the prior provisions is as follows:
 
-Section 4911, added Pub. L. 88–563, §2(a), Sept. 2, 1964, 78 Stat. 809; amended Pub. L. 89–243, §§2, 3(a)(1), (b),Oct. 9, 1965, 79 Stat. 954; Pub. L. 90–59, §§2, 3(a), July 31, 1967, 81 Stat. 145; Pub. L. 91–50, Aug. 2, 1969, 83 Stat. 86; Pub. L. 91–65, §2, Aug. 25, 1969, 83 Stat. 105; Pub. L. 91–128, §§2, 3, Nov. 26, 1969, 83 Stat. 261, 262; Pub. L. 92–9, §2, Apr. 1, 1971, 85 Stat. 13; Pub. L. 93–17, §2, Apr. 10, 1973, 87 Stat. 12, imposed a tax on each acquisition by a United States person of stock of a foreign issuer or a debt obligation of a foreign obligor, if such obligation had a period remaining to maturity of 1 year or more and provided for modification of tax rate by executive order, rate tables, rates during interim period, rules and regulations, persons liable for tax, and termination date, that no tax shall be imposed on any acquisition made after June 30, 1974.
+Section 4911, added Pub. L. 88–563, §2(a), Sept. 2, 1964, 78 Stat. 809; amended Pub. L. 89–243, §§2, 3(a)(1), (b), Oct. 9, 1965, 79 Stat. 954; Pub. L. 90–59, §§2, 3(a), July 31, 1967, 81 Stat. 145; Pub. L. 91–50, Aug. 2, 1969, 83 Stat. 86; Pub. L. 91–65, §2, Aug. 25, 1969, 83 Stat. 105; Pub. L. 91–128, §§2, 3, Nov. 26, 1969, 83 Stat. 261, 262; Pub. L. 92–9, §2, Apr. 1, 1971, 85 Stat. 13; Pub. L. 93–17, §2, Apr. 10, 1973, 87 Stat. 12, imposed a tax on each acquisition by a United States person of stock of a foreign issuer or a debt obligation of a foreign obligor, if such obligation had a period remaining to maturity of 1 year or more and provided for modification of tax rate by executive order, rate tables, rates during interim period, rules and regulations, persons liable for tax, and termination date, that no tax shall be imposed on any acquisition made after June 30, 1974.
 
 Section 4912, added Pub. L. 88–563, §2(a), Sept. 2, 1964, 78 Stat. 810; amended Pub. L. 89–243, §4(m)(3), Oct. 9, 1965, 79 Stat. 963; Pub. L. 90–59, §5(a)(1), July 31, 1967, 81 Stat. 157; Pub. L. 91–128, §4(a)(1), Nov. 26, 1969, 83 Stat. 263; Pub. L. 92–9, §3(a)(1), Apr. 1, 1971, 85 Stat. 14; Pub. L. 93–17, §3(e), Apr. 10, 1973, 87 Stat. 17, defined term “acquisition” and provided special rules to be applied to certain transfers to foreign trusts, foreign corporations and partnerships, foreign branches, acquisitions from domestic corporations or partnerships formed or availed of to obtain funds for foreign issuer or obligor, and reorganization exchanges.
 
@@ -35,7 +35,7 @@ Section 4915, added Pub. L. 88–563, §2(a), Sept. 2, 1964, 78 Stat. 824; amend
 
 Section 4916, added Pub. L. 88–563, §2(a), Sept. 2, 1964, 78 Stat. 827; amended Pub. L. 89–243, §4(i), Oct 9, 1965, 79 Stat. 960; Pub. L. 90–59, §5(g)(1), July 31, 1967, 81 Stat. 159; Pub. L. 92–9, §3(b)(3), Apr. 1, 1971, 85 Stat. 16; Pub. L. 93–17, §3(b), Apr. 10, 1973, 87 Stat. 13, related to exclusion for investment in less developed countries, provided special rules applicable to such investments, subsequent tax liability in certain cases, the repeal of exclusion for issues after Jan. 29, 1973, in the case of less developed country shipping companies, and defined term “less developed country”.
 
-Section 4917, added Pub. L. 88–563, §2(a), Sept. 2, 1964, 78 Stat. 830; amended Pub. L. 89–243, §4(j), (k), Oct. 9, 1965, 79 Stat. 960; Pub. L. 90–59, §5(h)(1), July 31, 1967, 81 Stat. 159, related to exclusion for original or new issues where required for international monetary stability.
+Section 4917, added Pub. L. 88–563, §2(a), Sept. 2, 1964, 78 Stat. 830; amended Pub. L. 89–243, §4(j), (k), Oct. 9, 1965, 79 Stat. 960; Pub. L. 90–59, §5(h)(1), July 31, 1967, 81Stat. 159, related to exclusion for original or new issues where required for international monetary stability.
 
 Section 4918, added Pub. L. 88–563, §2(a), Sept. 2, 1964, 78 Stat. 831; amended Pub. L. 89–809, title II, §213(b)(2), Nov. 13, 1966, 80 Stat. 1585; Pub. L. 90–59, §4(a), July 31, 1967, 81 Stat. 148; Pub. L. 90–73, §2(a)–(c), Aug. 29, 1967, 81 Stat. 175, 176; Pub. L. 93–17, §3(h)(1), Apr. 10, 1973, 87 Stat. 18, related to exemption for prior American ownership and compliance, proof of such ownership or compliance, issuance of IET clean confirmation by participating firm, sales effected by participating firms in connection with exempt acquisitions, filing of transition inventory, transfer of custody certificate, certain debt obligations arising out of loans to assure raw material sources, regulations, and definitions of “participating firm,” and “participating custodian”.
 

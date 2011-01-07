@@ -90,13 +90,13 @@ For purposes of this subchapter—
 
 #### (2) Circumstances in which notice is permitted
 
-&emsp;The Secretary may mail the notice referred to in subparagraph (A) of paragraph (1) to a partner with respect to partnership items for a partnership taxable year only if—
+&emsp;The Secretary may mail the notice referred to in subparagraph (A) of paragraph (1) to apartner with respect to partnership items for a partnership taxable year only if—
 
 &emsp;&emsp;(A) such partner—
 
 &emsp;&emsp;&emsp;(i) has complied with subparagraph (B) of section 6222(b)(1) (relating to notification of inconsistent treatment) with respect to one or more of such items, and
 
-&emsp;&emsp;&emsp;(ii) has not, as of the date on which the Secretary mails the notice, filed a request for administrative adjustments which would make the partner's treatment of the item or items with respect to which thepartner complied with subparagraph (B) of section 6222(b)(1) consistent with the treatment of such item or items on the partnership return, or
+&emsp;&emsp;&emsp;(ii) has not, as of the date on which the Secretary mails the notice, filed a request for administrative adjustments which would make the partner's treatment of the item or items with respect to which the partner complied with subparagraph (B) of section 6222(b)(1) consistent with the treatment of such item or items on the partnership return, or
 
 &emsp;&emsp;(B)(i) such partner has filed a request under section 6227(d) for administrative adjustment of one or more of such items, and
 
@@ -174,19 +174,19 @@ Except to the extent otherwise provided in regulations, in the case of any partn
 
 #### (2) Determination that subchapter does not apply
 
-&emsp;If, on the basis of a partnership return for a taxable year, the Secretary reasonably determines that this subchapter does not apply to such partnership for such year but such determination is erroneous, then the provisions of this subchapter shall not apply to such partnership (and its items) for such taxable year or to partners of such partnership.
+&emsp;If, on the basis of a partnership return for a taxable year, the Secretary reasonably determines that this subchapter does not apply tosuch partnership for such year but such determination is erroneous, then the provisions of this subchapter shall not apply to such partnership (and its items) for such taxable year or to partners of such partnership.
 
-(Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 663; amended Pub. L. 98–369, div. A, title VII, §714(p)(2)(B)–(D), (I), July 18, 1984, 98 Stat. 964, 965; Pub. L. 105–34, title XI, §1141(b), title XII, §§1232(a), 1234(a), Aug. 5, 1997, 111 Stat. 981, 1023, 1024; Pub. L. 105–206, title III, §3507(a), July 22, 1998, 112 Stat. 772; Pub. L. 107–147, titleIV, §§416(d)(1)(C), 417(19)(C), Mar. 9, 2002, 116 Stat. 55, 57.)
+(Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 663; amended Pub. L. 98–369, div. A, title VII, §714(p)(2)(B)–(D), (I), July 18, 1984, 98 Stat. 964, 965; Pub. L. 105–34, title XI, §1141(b), title XII, §§1232(a), 1234(a), Aug. 5, 1997, 111 Stat. 981, 1023, 1024; Pub. L. 105–206, title III, §3507(a), July 22, 1998, 112 Stat. 772; Pub. L. 107–147, title IV, §§416(d)(1)(C), 417(19)(C), Mar. 9, 2002, 116 Stat. 55, 57.)
 
 #### Amendments
 
-2002—Subsec. (b)(1)(C). Pub. L. 107–147, §416(d)(1)(C), inserted “or the Attorney General (or his delegate)” after “Secretary”.
+<b>2002</b>—Subsec. (b)(1)(C). Pub. L. 107–147, §416(d)(1)(C), inserted “or the Attorney General (or his delegate)” after “Secretary”.
 
 Subsec. (b)(2)(B)(i). Pub. L. 107–147, §417(19)(C), substituted “section 6227(d)” for “section 6227(c)”.
 
-1998—Subsec. (a)(7). Pub. L. 105–206 inserted at end “The Secretary shall, within 30 days of selecting a tax matters partner under the preceding sentence, notify all partners required to receive notice under section 6223(a) of the name and address of the person selected.”
+<b>1998</b>—Subsec. (a)(7). Pub. L. 105–206 inserted at end “The Secretary shall, within 30 days of selecting a tax matters partner under the preceding sentence, notify all partners required to receive notice under section 6223(a) of the name and address of the person selected.”
 
-1997—Subsec. (a)(1)(B)(i). Pub. L. 105–34, §1234(a), reenacted heading of cl. (i) without change and amended text generally. Prior to amendment, text read as follows: “The term ‘partnership’ shall not include any partnership if—
+<b>1997</b>—Subsec. (a)(1)(B)(i). Pub. L. 105–34, §1234(a), reenacted heading of cl. (i) without change and amended text generally. Prior to amendment, text read as follows: “The term ‘partnership’ shall not include any partnership if—
 
 &emsp;“(I) such partnership has 10 or fewer partners each of whom is a natural person (other than a nonresident alien) or an estate, and
 
@@ -198,7 +198,7 @@ Subsec. (f). Pub. L. 105–34, §1141(b), substituted “deductions, losses, and
 
 Subsec. (g). Pub. L. 105–34, §1232(a), added subsec. (g).
 
-1984—Subsec. (a)(9). Pub. L. 98–369, §714(p)(2)(B), substituted “S corporation” for “electing small business corporation”.
+<b>1984</b>—Subsec. (a)(9). Pub. L. 98–369, §714(p)(2)(B), substituted “S corporation” for “electing small business corporation”.
 
 Subsec. (b)(2)(B). Pub. L. 98–369, §714(p)(2)(I), substituted section “6227(c)” for “6227(b)”.
 

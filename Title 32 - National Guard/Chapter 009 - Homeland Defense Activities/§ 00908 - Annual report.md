@@ -20,5 +20,5 @@ Content.—The report for a fiscal year shall include the following matters:
 
 #### Amendments
 
-2006—Subsec. (b)(1). Pub. L. 109–364 substituted “(i)(13)” for “(i)”.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–364 substituted “(i)(13)” for “(i)”.
 

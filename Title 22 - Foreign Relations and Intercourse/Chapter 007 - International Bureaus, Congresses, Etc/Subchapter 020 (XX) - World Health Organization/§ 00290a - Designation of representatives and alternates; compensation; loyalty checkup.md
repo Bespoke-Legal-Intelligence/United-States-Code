@@ -6,11 +6,11 @@ The President shall designate from time to time to attend a specified session or
 
 #### Amendments
 
-1980—Pub. L. 96–465 substituted “established under section 3962 or 3963 of this title” for “provided by section 867 of this title,”.
+<b>1980</b>—Pub. L. 96–465 substituted “established under section 3962 or 3963 of this title” for “provided by section 867 of this title,”.
 
-1962—Pub. L. 87–793 substituted “Such representative and any such alternate shall each be entitled to receive compensation at one of the rates provided by section 867 of this title” for “Such representative shall be entitled to receive compensation at a rate not to exceed $12,000 per annum and any such alternate shall be entitled to receive compensation at a rate not to exceed $10,000 per annum.”
+<b>1962</b>—Pub. L. 87–793 substituted “Such representative and any such alternate shall each be entitled to receive compensation at one of the rates provided by section 867 of this title” for “Such representative shall be entitled to receive compensation at a rate not to exceed $12,000 per annum and any such alternate shall be entitled to receive compensation at a rate not to exceed $10,000 per annum.”
 
-1952—Act Apr. 5, 1952, substituted “Civil Service Commission” for “Federal Bureau of Investigation”.
+<b>1952</b>—Act Apr. 5, 1952, substituted “Civil Service Commission” for “Federal Bureau of Investigation”.
 
 #### Effective Date of 1980 Amendment
 

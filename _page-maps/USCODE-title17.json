@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title17",
- "package": "USCODE-2009-title17",
+ "package": "USCODE-2010-title17",
  "pieces": [
   {
    "id": "17_",
@@ -14,7 +14,7 @@
     ],
     [
      "I",
-     337,
+     327,
      [
       [
        3,
@@ -37,7 +37,7 @@
      34,
      [
       [
-       215,
+       176,
        "[Page 3]"
       ]
      ]
@@ -53,72 +53,70 @@
    "id": "17_101",
    "marks": [
     [
-     "I",
-     40,
-     [
-      [
-       96,
-       "[Page 4]"
-      ]
-     ]
+     "L",
+     38,
+     "[Page 4]",
+     true
     ],
     [
      "I",
-     92,
+     88,
      [
       [
-       98,
+       234,
        "[Page 5]"
       ]
      ]
     ],
     [
      "I",
-     160,
+     154,
      [
       [
-       137,
+       94,
        "[Page 6]"
       ]
      ]
     ],
     [
      "L",
-     218,
+     214,
      "[Page 7]",
      true
     ],
     [
-     "I",
-     318,
-     [
-      [
-       109,
-       "[Page 8]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     386,
-     [
-      [
-       166,
-       "[Page 9]"
-      ]
-     ]
+     "L",
+     316,
+     "[Page 8]",
+     true
     ],
     [
      "L",
-     448,
+     382,
+     "[Page 9]",
+     true
+    ],
+    [
+     "L",
+     446,
      "[Page 10]",
      true
+    ],
+    [
+     "I",
+     516,
+     [
+      [
+       403,
+       "[Page 11]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00101 - Definitions.md",
    "printed_pages": [
     3,
-    10
+    11
    ]
   },
   {
@@ -126,54 +124,43 @@
    "marks": [
     [
      "I",
-     28,
+     42,
      [
       [
-       487,
-       "[Page 11]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     48,
-     [
-      [
-       744,
+       110,
        "[Page 12]"
       ]
      ]
     ],
     [
      "I",
-     68,
+     62,
      [
       [
-       436,
+       552,
        "[Page 13]"
       ]
      ]
-    ]
-   ],
-   "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00102 - Subject matter of copyright In general.md",
-   "printed_pages": [
-    10,
-    13
-   ]
-  },
-  {
-   "id": "17_103",
-   "marks": [
+    ],
     [
      "L",
-     14,
+     90,
      "[Page 14]",
      true
     ]
    ],
+   "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00102 - Subject matter of copyright In general.md",
+   "printed_pages": [
+    11,
+    14
+   ]
+  },
+  {
+   "id": "17_103",
+   "marks": [],
    "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00103 - Subject matter of copyright Compilations and derivative works.md",
    "printed_pages": [
-    13,
+    14,
     14
    ]
   },
@@ -181,20 +168,20 @@
    "id": "17_104",
    "marks": [
     [
-     "I",
-     48,
-     [
-      [
-       108,
-       "[Page 15]"
-      ]
-     ]
+     "L",
+     24,
+     "[Page 15]",
+     true
     ],
     [
-     "L",
-     106,
-     "[Page 16]",
-     true
+     "I",
+     92,
+     [
+      [
+       100,
+       "[Page 16]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00104 - Subject matter of copyright National origin.md",
@@ -207,36 +194,46 @@
    "id": "17_104A",
    "marks": [
     [
-     "I",
-     66,
-     [
-      [
-       272,
-       "[Page 17]"
-      ]
-     ]
+     "L",
+     46,
+     "[Page 17]",
+     true
     ],
     [
      "I",
-     124,
+     98,
      [
       [
-       93,
+       137,
        "[Page 18]"
       ]
      ]
     ],
     [
-     "L",
-     218,
-     "[Page 19]",
-     true
+     "I",
+     184,
+     [
+      [
+       188,
+       "[Page 19]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     272,
+     [
+      [
+       103,
+       "[Page 20]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00104A - Copyright in restored works.md",
    "printed_pages": [
     16,
-    19
+    20
    ]
   },
   {
@@ -244,19 +241,19 @@
    "marks": [
     [
      "I",
-     14,
+     30,
      [
       [
-       418,
-       "[Page 20]"
+       315,
+       "[Page 21]"
       ]
      ]
     ]
    ],
    "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00105 - Subject matter of copyright United States Government works.md",
    "printed_pages": [
-    19,
-    20
+    20,
+    21
    ]
   },
   {
@@ -264,30 +261,28 @@
    "marks": [
     [
      "I",
-     16,
+     36,
      [
       [
-       109,
-       "[Page 21]"
+       485,
+       "[Page 22]"
       ]
      ]
     ],
     [
-     "L",
-     48,
-     "[Page 22]",
-     true
-    ],
-    [
-     "L",
-     86,
-     "[Page 23]",
-     true
+     "I",
+     60,
+     [
+      [
+       266,
+       "[Page 23]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00106 - Exclusive rights in copyrighted works.md",
    "printed_pages": [
-    20,
+    21,
     23
    ]
   },
@@ -296,10 +291,10 @@
    "marks": [
     [
      "I",
-     84,
+     44,
      [
       [
-       95,
+       421,
        "[Page 24]"
       ]
      ]
@@ -316,32 +311,40 @@
    "marks": [
     [
      "I",
-     28,
+     20,
      [
       [
-       430,
+       1136,
        "[Page 25]"
       ]
      ]
     ],
     [
-     "L",
-     94,
-     "[Page 26]",
-     true
-    ],
-    [
-     "L",
-     184,
-     "[Page 27]",
-     true
+     "I",
+     54,
+     [
+      [
+       102,
+       "[Page 26]"
+      ]
+     ]
     ],
     [
      "I",
-     212,
+     162,
      [
       [
-       259,
+       102,
+       "[Page 27]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     202,
+     [
+      [
+       813,
        "[Page 28]"
       ]
      ]
@@ -357,33 +360,41 @@
    "id": "17_108",
    "marks": [
     [
-     "L",
-     36,
-     "[Page 29]",
-     true
-    ],
-    [
-     "L",
-     84,
-     "[Page 30]",
-     true
+     "I",
+     20,
+     [
+      [
+       93,
+       "[Page 29]"
+      ]
+     ]
     ],
     [
      "I",
-     108,
+     64,
      [
       [
-       107,
+       421,
+       "[Page 30]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     98,
+     [
+      [
+       988,
        "[Page 31]"
       ]
      ]
     ],
     [
      "I",
-     158,
+     130,
      [
       [
-       111,
+       115,
        "[Page 32]"
       ]
      ]
@@ -400,29 +411,33 @@
    "marks": [
     [
      "I",
-     32,
+     20,
      [
       [
-       94,
+       145,
        "[Page 33]"
       ]
      ]
     ],
     [
      "I",
-     60,
+     52,
      [
       [
-       899,
+       485,
        "[Page 34]"
       ]
      ]
     ],
     [
-     "L",
-     140,
-     "[Page 35]",
-     true
+     "I",
+     108,
+     [
+      [
+       319,
+       "[Page 35]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00109 - Limitations on exclusive rights Effect of transfer of particular copy or phonorecord.md",
@@ -436,55 +451,59 @@
    "marks": [
     [
      "I",
-     54,
+     32,
      [
       [
-       223,
+       142,
        "[Page 36]"
       ]
      ]
     ],
     [
      "I",
-     80,
+     74,
      [
       [
-       632,
+       181,
        "[Page 37]"
       ]
      ]
     ],
     [
      "L",
-     112,
+     98,
      "[Page 38]",
      true
     ],
     [
      "I",
-     142,
+     126,
      [
       [
-       417,
+       438,
        "[Page 39]"
       ]
      ]
     ],
     [
      "I",
-     168,
+     158,
      [
       [
-       652,
+       916,
        "[Page 40]"
       ]
      ]
     ],
     [
-     "L",
-     212,
-     "[Page 41]",
-     true
+     "I",
+     180,
+     [
+      [
+       219,
+       "[Page 41]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00110 - Limitations on exclusive rights Exemption of certain performances and displays.md",
@@ -497,321 +516,9 @@
    "id": "17_111",
    "marks": [
     [
-     "I",
-     38,
-     [
-      [
-       499,
-       "[Page 42]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     62,
-     [
-      [
-       545,
-       "[Page 43]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     100,
-     [
-      [
-       133,
-       "[Page 44]"
-      ]
-     ]
-    ],
-    [
      "L",
-     126,
-     "[Page 45]",
-     true
-    ],
-    [
-     "L",
-     150,
-     "[Page 46]",
-     true
-    ],
-    [
-     "I",
-     174,
-     [
-      [
-       692,
-       "[Page 47]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     198,
-     [
-      [
-       1021,
-       "[Page 48]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     220,
-     [
-      [
-       158,
-       "[Page 49]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     246,
-     [
-      [
-       159,
-       "[Page 50]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     264,
-     [
-      [
-       766,
-       "[Page 51]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     336,
-     [
-      [
-       110,
-       "[Page 52]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00111 - Limitations on exclusive rights Secondary transmissions.md",
-   "printed_pages": [
-    41,
-    52
-   ]
-  },
-  {
-   "id": "17_112",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 53]",
-     true
-    ],
-    [
-     "I",
-     48,
-     [
-      [
-       89,
-       "[Page 54]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     82,
-     [
-      [
-       97,
-       "[Page 55]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     110,
-     [
-      [
-       697,
-       "[Page 56]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     144,
-     "[Page 57]",
-     true
-    ]
-   ],
-   "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00112 - Limitations on exclusive rights Ephemeral recordings.md",
-   "printed_pages": [
-    52,
-    57
-   ]
-  },
-  {
-   "id": "17_113",
-   "marks": [
-    [
-     "I",
-     32,
-     [
-      [
-       291,
-       "[Page 58]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00113 - Scope of exclusive rights in pictorial, graphic, and sculptural works.md",
-   "printed_pages": [
-    57,
-    58
-   ]
-  },
-  {
-   "id": "17_114",
-   "marks": [
-    [
-     "L",
-     32,
-     "[Page 59]",
-     true
-    ],
-    [
-     "I",
-     76,
-     [
-      [
-       137,
-       "[Page 60]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     102,
-     [
-      [
-       377,
-       "[Page 61]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     146,
-     [
-      [
-       97,
-       "[Page 62]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     170,
-     [
-      [
-       1082,
-       "[Page 63]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     194,
-     [
-      [
-       790,
-       "[Page 64]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     232,
-     [
-      [
-       349,
-       "[Page 65]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     278,
-     [
-      [
-       359,
-       "[Page 66]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     318,
-     "[Page 67]",
-     true
-    ],
-    [
-     "I",
-     368,
-     [
-      [
-       326,
-       "[Page 68]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     408,
-     "[Page 69]",
-     true
-    ],
-    [
-     "I",
-     474,
-     [
-      [
-       106,
-       "[Page 70]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     544,
-     [
-      [
-       302,
-       "[Page 71]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00114 - Scope of exclusive rights in sound recordings.md",
-   "printed_pages": [
-    58,
-    71
-   ]
-  },
-  {
-   "id": "17_115",
-   "marks": [
-    [
-     "L",
-     32,
-     "[Page 72]",
+     20,
+     "[Page 42]",
      true
     ],
     [
@@ -819,550 +526,8 @@
      50,
      [
       [
-       94,
-       "[Page 73]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     74,
-     [
-      [
-       784,
-       "[Page 74]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     102,
-     "[Page 75]",
-     true
-    ],
-    [
-     "L",
-     126,
-     "[Page 76]",
-     true
-    ]
-   ],
-   "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00115 - Scope of exclusive rights in nondramatic musical works Compulsory license for making and distributing phonorecords.md",
-   "printed_pages": [
-    71,
-    76
-   ]
-  },
-  {
-   "id": "17_116",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       82,
-       "[Page 77]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00116 - Negotiated licenses for public performances by means of coin-operated phonorecord players.md",
-   "printed_pages": [
-    76,
-    77
-   ]
-  },
-  {
-   "id": "17_[116A",
-   "marks": [],
-   "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00116A - Renumbered §116.md",
-   "printed_pages": [
-    77,
-    77
-   ]
-  },
-  {
-   "id": "17_117",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 78]",
-     true
-    ]
-   ],
-   "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00117 - Limitations on exclusive rights Computer programs.md",
-   "printed_pages": [
-    77,
-    78
-   ]
-  },
-  {
-   "id": "17_118",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       311,
-       "[Page 79]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     36,
-     [
-      [
-       97,
-       "[Page 80]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     62,
-     [
-      [
-       426,
-       "[Page 81]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     110,
-     "[Page 82]",
-     true
-    ]
-   ],
-   "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00118 - Scope of exclusive rights Use of certain works in connection with noncommercial broadcasting.md",
-   "printed_pages": [
-    78,
-    82
-   ]
-  },
-  {
-   "id": "17_119",
-   "marks": [
-    [
-     "L",
-     22,
-     "[Page 83]",
-     true
-    ],
-    [
-     "I",
-     92,
-     [
-      [
-       220,
-       "[Page 84]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     154,
-     [
-      [
-       141,
-       "[Page 85]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     192,
-     "[Page 86]",
-     true
-    ],
-    [
-     "I",
-     240,
-     [
-      [
-       98,
-       "[Page 87]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     316,
-     [
-      [
-       295,
-       "[Page 88]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     376,
-     [
-      [
-       77,
-       "[Page 89]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     430,
-     [
-      [
-       258,
-       "[Page 90]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     482,
-     [
-      [
-       94,
-       "[Page 91]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     556,
-     "[Page 92]",
-     true
-    ],
-    [
-     "I",
-     614,
-     [
-      [
-       111,
-       "[Page 93]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     676,
-     [
-      [
-       109,
-       "[Page 94]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     756,
-     [
-      [
-       114,
-       "[Page 95]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     830,
-     "[Page 96]",
-     true
-    ],
-    [
-     "L",
-     910,
-     "[Page 97]",
-     true
-    ]
-   ],
-   "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00119 - Limitations on exclusive rights Secondary transmissions of superstations and network stations for private home viewing.md",
-   "printed_pages": [
-    82,
-    97
-   ]
-  },
-  {
-   "id": "17_120",
-   "marks": [],
-   "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00120 - Scope of exclusive rights in architectural works.md",
-   "printed_pages": [
-    97,
-    97
-   ]
-  },
-  {
-   "id": "17_121",
-   "marks": [
-    [
-     "L",
-     36,
-     "[Page 98]",
-     true
-    ]
-   ],
-   "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00121 - Limitations on exclusive rights Reproduction for blind or other people with disabilities.md",
-   "printed_pages": [
-    97,
-    98
-   ]
-  },
-  {
-   "id": "17_122",
-   "marks": [
-    [
-     "I",
-     54,
-     [
-      [
-       167,
-       "[Page 99]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     126,
-     [
-      [
-       73,
-       "[Page 100]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00122 - Limitations on exclusive rights Secondary transmissions by satellite carriers within local markets.md",
-   "printed_pages": [
-    98,
-    100
-   ]
-  },
-  {
-   "id": "17_-ch2",
-   "marks": [],
-   "path": "Chapter 002 - Copyright Ownership and Transfer/README.md",
-   "printed_pages": [
-    100,
-    100
-   ]
-  },
-  {
-   "id": "17_201",
-   "marks": [
-    [
-     "I",
-     34,
-     [
-      [
-       160,
-       "[Page 101]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     54,
-     [
-      [
-       541,
-       "[Page 102]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 002 - Copyright Ownership and Transfer/§ 00201 - Ownership of copyright.md",
-   "printed_pages": [
-    100,
-    102
-   ]
-  },
-  {
-   "id": "17_202",
-   "marks": [],
-   "path": "Chapter 002 - Copyright Ownership and Transfer/§ 00202 - Ownership of copyright as distinct from ownership of material object.md",
-   "printed_pages": [
-    102,
-    102
-   ]
-  },
-  {
-   "id": "17_203",
-   "marks": [
-    [
-     "I",
-     10,
-     [
-      [
-       89,
-       "[Page 103]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     52,
-     "[Page 104]",
-     true
-    ],
-    [
-     "I",
-     78,
-     [
-      [
-       380,
-       "[Page 105]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 002 - Copyright Ownership and Transfer/§ 00203 - Termination of transfers and licenses granted by the author.md",
-   "printed_pages": [
-    102,
-    105
-   ]
-  },
-  {
-   "id": "17_204",
-   "marks": [],
-   "path": "Chapter 002 - Copyright Ownership and Transfer/§ 00204 - Execution of transfers of copyright ownership.md",
-   "printed_pages": [
-    105,
-    105
-   ]
-  },
-  {
-   "id": "17_205",
-   "marks": [
-    [
-     "I",
-     14,
-     [
-      [
-       96,
-       "[Page 106]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 002 - Copyright Ownership and Transfer/§ 00205 - Recordation of transfers and other documents.md",
-   "printed_pages": [
-    105,
-    106
-   ]
-  },
-  {
-   "id": "17_-ch3",
-   "marks": [
-    [
-     "I",
-     6,
-     [
-      [
-       103,
-       "[Page 107]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 003 - Duration of Copyright/README.md",
-   "printed_pages": [
-    106,
-    107
-   ]
-  },
-  {
-   "id": "17_301",
-   "marks": [
-    [
-     "L",
-     44,
-     "[Page 108]",
-     true
-    ],
-    [
-     "I",
-     68,
-     [
-      [
-       104,
-       "[Page 109]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 003 - Duration of Copyright/§ 00301 - Preemption with respect to other laws.md",
-   "printed_pages": [
-    107,
-    109
-   ]
-  },
-  {
-   "id": "17_302",
-   "marks": [
-    [
-     "I",
-     16,
-     [
-      [
-       72,
-       "[Page 110]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     46,
-     [
-      [
-       320,
-       "[Page 111]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     72,
-     [
-      [
-       102,
-       "[Page 112]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 003 - Duration of Copyright/§ 00302 - Duration of copyright Works created on or after January 1, 1978.md",
-   "printed_pages": [
-    109,
-    112
-   ]
-  },
-  {
-   "id": "17_303",
-   "marks": [],
-   "path": "Chapter 003 - Duration of Copyright/§ 00303 - Duration of copyright Works created but not published or copyrighted before January 1, 1978.md",
-   "printed_pages": [
-    112,
-    112
-   ]
-  },
-  {
-   "id": "17_304",
-   "marks": [
-    [
-     "L",
-     18,
-     "[Page 113]",
-     true
-    ],
-    [
-     "I",
-     64,
-     [
-      [
-       180,
-       "[Page 114]"
+       978,
+       "[Page 43]"
       ]
      ]
     ],
@@ -1371,814 +536,212 @@
      98,
      [
       [
-       213,
-       "[Page 115]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     128,
-     [
-      [
-       652,
-       "[Page 116]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     168,
-     [
-      [
-       1630,
-       "[Page 117]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 003 - Duration of Copyright/§ 00304 - Duration of copyright Subsisting copyrights.md",
-   "printed_pages": [
-    112,
-    117
-   ]
-  },
-  {
-   "id": "17_305",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 118]",
-     true
-    ]
-   ],
-   "path": "Chapter 003 - Duration of Copyright/§ 00305 - Duration of copyright Terminal date.md",
-   "printed_pages": [
-    117,
-    118
-   ]
-  },
-  {
-   "id": "17_-ch4",
-   "marks": [],
-   "path": "Chapter 004 - Copyright Notice, Deposit, and Registration/README.md",
-   "printed_pages": [
-    118,
-    118
-   ]
-  },
-  {
-   "id": "17_401",
-   "marks": [
-    [
-     "I",
-     30,
-     [
-      [
-       274,
-       "[Page 119]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 004 - Copyright Notice, Deposit, and Registration/§ 00401 - Notice of copyright Visually perceptible copies.md",
-   "printed_pages": [
-    118,
-    119
-   ]
-  },
-  {
-   "id": "17_402",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 120]",
-     true
-    ]
-   ],
-   "path": "Chapter 004 - Copyright Notice, Deposit, and Registration/§ 00402 - Notice of copyright Phonorecords of sound recordings.md",
-   "printed_pages": [
-    119,
-    120
-   ]
-  },
-  {
-   "id": "17_403",
-   "marks": [
-    [
-     "I",
-     20,
-     [
-      [
-       109,
-       "[Page 121]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 004 - Copyright Notice, Deposit, and Registration/§ 00403 - Notice of copyright Publications incorporating United States Government works.md",
-   "printed_pages": [
-    120,
-    121
-   ]
-  },
-  {
-   "id": "17_404",
-   "marks": [],
-   "path": "Chapter 004 - Copyright Notice, Deposit, and Registration/§ 00404 - Notice of copyright Contributions to collective works.md",
-   "printed_pages": [
-    121,
-    121
-   ]
-  },
-  {
-   "id": "17_405",
-   "marks": [
-    [
-     "I",
-     14,
-     [
-      [
-       738,
-       "[Page 122]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     50,
-     [
-      [
-       112,
-       "[Page 123]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 004 - Copyright Notice, Deposit, and Registration/§ 00405 - Notice of copyright Omission of notice on certain copies and phonorecords.md",
-   "printed_pages": [
-    121,
-    123
-   ]
-  },
-  {
-   "id": "17_406",
-   "marks": [
-    [
-     "I",
-     32,
-     [
-      [
-       226,
-       "[Page 124]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 004 - Copyright Notice, Deposit, and Registration/§ 00406 - Notice of copyright Error in name or date on certain copies and phonorecords.md",
-   "printed_pages": [
-    123,
-    124
-   ]
-  },
-  {
-   "id": "17_407",
-   "marks": [
-    [
-     "I",
-     24,
-     [
-      [
-       227,
-       "[Page 125]"
+       90,
+       "[Page 44]"
       ]
      ]
     ],
     [
      "L",
-     52,
-     "[Page 126]",
-     true
-    ]
-   ],
-   "path": "Chapter 004 - Copyright Notice, Deposit, and Registration/§ 00407 - Deposit of copies or phonorecords for Library of Congress.md",
-   "printed_pages": [
-    124,
-    126
-   ]
-  },
-  {
-   "id": "17_408",
-   "marks": [
-    [
-     "L",
-     30,
-     "[Page 127]",
+     152,
+     "[Page 45]",
      true
     ],
     [
      "I",
-     92,
+     188,
      [
       [
-       175,
-       "[Page 128]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     116,
-     "[Page 129]",
-     true
-    ]
-   ],
-   "path": "Chapter 004 - Copyright Notice, Deposit, and Registration/§ 00408 - Copyright registration in general.md",
-   "printed_pages": [
-    126,
-    129
-   ]
-  },
-  {
-   "id": "17_409",
-   "marks": [
-    [
-     "L",
-     44,
-     "[Page 130]",
-     true
-    ]
-   ],
-   "path": "Chapter 004 - Copyright Notice, Deposit, and Registration/§ 00409 - Application for copyright registration.md",
-   "printed_pages": [
-    129,
-    130
-   ]
-  },
-  {
-   "id": "17_410",
-   "marks": [],
-   "path": "Chapter 004 - Copyright Notice, Deposit, and Registration/§ 00410 - Registration of claim and issuance of certificate.md",
-   "printed_pages": [
-    130,
-    130
-   ]
-  },
-  {
-   "id": "17_411",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       956,
-       "[Page 131]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     72,
-     "[Page 132]",
-     true
-    ]
-   ],
-   "path": "Chapter 004 - Copyright Notice, Deposit, and Registration/§ 00411 - Registration and civil infringement actions.md",
-   "printed_pages": [
-    130,
-    132
-   ]
-  },
-  {
-   "id": "17_412",
-   "marks": [],
-   "path": "Chapter 004 - Copyright Notice, Deposit, and Registration/§ 00412 - Registration as prerequisite to certain remedies for infringement.md",
-   "printed_pages": [
-    132,
-    132
-   ]
-  },
-  {
-   "id": "17_-ch5",
-   "marks": [],
-   "path": "Chapter 005 - Copyright Infringement and Remedies/README.md",
-   "printed_pages": [
-    132,
-    132
-   ]
-  },
-  {
-   "id": "17_501",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       93,
-       "[Page 133]"
+       658,
+       "[Page 46]"
       ]
      ]
     ],
     [
      "I",
-     32,
+     224,
      [
       [
-       160,
-       "[Page 134]"
+       249,
+       "[Page 47]"
       ]
      ]
-    ]
-   ],
-   "path": "Chapter 005 - Copyright Infringement and Remedies/§ 00501 - Infringement of copyright.md",
-   "printed_pages": [
-    132,
-    134
-   ]
-  },
-  {
-   "id": "17_502",
-   "marks": [],
-   "path": "Chapter 005 - Copyright Infringement and Remedies/§ 00502 - Remedies for infringement Injunctions.md",
-   "printed_pages": [
-    134,
-    134
-   ]
-  },
-  {
-   "id": "17_503",
-   "marks": [
+    ],
     [
      "L",
-     4,
-     "[Page 135]",
+     292,
+     "[Page 48]",
      true
-    ]
-   ],
-   "path": "Chapter 005 - Copyright Infringement and Remedies/§ 00503 - Remedies for infringement Impounding and disposition of infringing articles.md",
-   "printed_pages": [
-    134,
-    135
-   ]
-  },
-  {
-   "id": "17_504",
-   "marks": [
+    ],
     [
      "I",
-     18,
+     314,
      [
       [
-       318,
-       "[Page 136]"
+       1013,
+       "[Page 49]"
       ]
      ]
     ],
     [
      "I",
-     44,
+     338,
      [
       [
-       492,
-       "[Page 137]"
+       1286,
+       "[Page 50]"
       ]
      ]
-    ]
-   ],
-   "path": "Chapter 005 - Copyright Infringement and Remedies/§ 00504 - Remedies for infringement Damages and profits.md",
-   "printed_pages": [
-    135,
-    137
-   ]
-  },
-  {
-   "id": "17_505",
-   "marks": [
+    ],
     [
      "I",
-     10,
+     360,
      [
       [
-       107,
-       "[Page 138]"
+       433,
+       "[Page 51]"
       ]
      ]
-    ]
-   ],
-   "path": "Chapter 005 - Copyright Infringement and Remedies/§ 00505 - Remedies for infringement Costs and attorney's fees.md",
-   "printed_pages": [
-    137,
-    138
-   ]
-  },
-  {
-   "id": "17_506",
-   "marks": [
-    [
-     "L",
-     84,
-     "[Page 139]",
-     true
-    ]
-   ],
-   "path": "Chapter 005 - Copyright Infringement and Remedies/§ 00506 - Criminal offenses.md",
-   "printed_pages": [
-    138,
-    139
-   ]
-  },
-  {
-   "id": "17_507",
-   "marks": [],
-   "path": "Chapter 005 - Copyright Infringement and Remedies/§ 00507 - Limitations on actions.md",
-   "printed_pages": [
-    139,
-    139
-   ]
-  },
-  {
-   "id": "17_508",
-   "marks": [],
-   "path": "Chapter 005 - Copyright Infringement and Remedies/§ 00508 - Notification of filing and determination of actions.md",
-   "printed_pages": [
-    139,
-    139
-   ]
-  },
-  {
-   "id": "17_[509",
-   "marks": [],
-   "path": "Chapter 005 - Copyright Infringement and Remedies/§ 00509 - Repealed. Pub. L. 110–403, title II, §201(b)(1), Oct. 13, 2008, 122 Stat. 4260.md",
-   "printed_pages": [
-    139,
-    139
-   ]
-  },
-  {
-   "id": "17_510",
-   "marks": [
+    ],
     [
      "I",
-     18,
+     386,
+     [
+      [
+       424,
+       "[Page 52]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     406,
      [
       [
        108,
-       "[Page 140]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 005 - Copyright Infringement and Remedies/§ 00510 - Remedies for alteration of programming by cable systems.md",
-   "printed_pages": [
-    139,
-    140
-   ]
-  },
-  {
-   "id": "17_511",
-   "marks": [],
-   "path": "Chapter 005 - Copyright Infringement and Remedies/§ 00511 - Liability of States, instrumentalities of States, and State officials for infringement of copyright.md",
-   "printed_pages": [
-    140,
-    140
-   ]
-  },
-  {
-   "id": "17_512",
-   "marks": [
-    [
-     "L",
-     38,
-     "[Page 141]",
-     true
-    ],
-    [
-     "I",
-     92,
-     [
-      [
-       184,
-       "[Page 142]"
+       "[Page 53]"
       ]
      ]
     ],
     [
      "I",
-     148,
+     496,
      [
       [
-       79,
-       "[Page 143]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     218,
-     [
-      [
-       212,
-       "[Page 144]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     296,
-     [
-      [
-       89,
-       "[Page 145]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 005 - Copyright Infringement and Remedies/§ 00512 - Limitations on liability relating to material online.md",
-   "printed_pages": [
-    140,
-    145
-   ]
-  },
-  {
-   "id": "17_513",
-   "marks": [
-    [
-     "L",
-     28,
-     "[Page 146]",
-     true
-    ]
-   ],
-   "path": "Chapter 005 - Copyright Infringement and Remedies/§ 00513 - Determination of reasonable license fees for individual proprietors.md",
-   "printed_pages": [
-    145,
-    146
-   ]
-  },
-  {
-   "id": "17_-ch6",
-   "marks": [],
-   "path": "Chapter 006 - Manufacturing Requirements, Importation, and Exportation/README.md",
-   "printed_pages": [
-    146,
-    146
-   ]
-  },
-  {
-   "id": "17_601",
-   "marks": [
-    [
-     "I",
-     42,
-     [
-      [
-       484,
-       "[Page 147]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     84,
-     [
-      [
-       99,
-       "[Page 148]"
+       152,
+       "[Page 54]"
       ]
      ]
     ],
     [
      "L",
-     112,
-     "[Page 149]",
+     562,
+     "[Page 55]",
      true
+    ],
+    [
+     "I",
+     662,
+     [
+      [
+       326,
+       "[Page 56]"
+      ]
+     ]
     ]
    ],
-   "path": "Chapter 006 - Manufacturing Requirements, Importation, and Exportation/§ 00601 - Manufacture, importation, and public distribution of certain copies.md",
+   "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00111 - Limitations on exclusive rights Secondary transmissions of broadcast programming by cable.md",
    "printed_pages": [
-    146,
-    149
+    41,
+    56
    ]
   },
   {
-   "id": "17_602",
+   "id": "17_112",
    "marks": [
+    [
+     "I",
+     26,
+     [
+      [
+       277,
+       "[Page 57]"
+      ]
+     ]
+    ],
     [
      "L",
-     28,
-     "[Page 150]",
+     64,
+     "[Page 58]",
      true
-    ]
-   ],
-   "path": "Chapter 006 - Manufacturing Requirements, Importation, and Exportation/§ 00602 - Infringing importation or exportation of copies or phonorecords.md",
-   "printed_pages": [
-    149,
-    150
-   ]
-  },
-  {
-   "id": "17_603",
-   "marks": [
+    ],
     [
      "I",
-     20,
+     98,
      [
       [
-       269,
-       "[Page 151]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 006 - Manufacturing Requirements, Importation, and Exportation/§ 00603 - Importation prohibitions Enforcement and disposition of excluded articles.md",
-   "printed_pages": [
-    150,
-    151
-   ]
-  },
-  {
-   "id": "17_-ch7",
-   "marks": [
-    [
-     "I",
-     45,
-     [
-      [
-       217,
-       "[Page 152]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 007 - Copyright Office/README.md",
-   "printed_pages": [
-    151,
-    152
-   ]
-  },
-  {
-   "id": "17_701",
-   "marks": [
-    [
-     "I",
-     56,
-     [
-      [
-       119,
-       "[Page 153]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 007 - Copyright Office/§ 00701 - The Copyright Office General responsibilities and organization.md",
-   "printed_pages": [
-    152,
-    153
-   ]
-  },
-  {
-   "id": "17_702",
-   "marks": [],
-   "path": "Chapter 007 - Copyright Office/§ 00702 - Copyright Office regulations.md",
-   "printed_pages": [
-    153,
-    153
-   ]
-  },
-  {
-   "id": "17_703",
-   "marks": [],
-   "path": "Chapter 007 - Copyright Office/§ 00703 - Effective date of actions in Copyright Office.md",
-   "printed_pages": [
-    153,
-    153
-   ]
-  },
-  {
-   "id": "17_704",
-   "marks": [],
-   "path": "Chapter 007 - Copyright Office/§ 00704 - Retention and disposition of articles deposited in Copyright Office.md",
-   "printed_pages": [
-    153,
-    153
-   ]
-  },
-  {
-   "id": "17_705",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 154]",
-     true
-    ]
-   ],
-   "path": "Chapter 007 - Copyright Office/§ 00705 - Copyright Office records Preparation, maintenance, public inspection, and searching.md",
-   "printed_pages": [
-    153,
-    154
-   ]
-  },
-  {
-   "id": "17_706",
-   "marks": [],
-   "path": "Chapter 007 - Copyright Office/§ 00706 - Copies of Copyright Office records.md",
-   "printed_pages": [
-    154,
-    154
-   ]
-  },
-  {
-   "id": "17_707",
-   "marks": [],
-   "path": "Chapter 007 - Copyright Office/§ 00707 - Copyright Office forms and publications.md",
-   "printed_pages": [
-    154,
-    154
-   ]
-  },
-  {
-   "id": "17_708",
-   "marks": [
-    [
-     "I",
-     40,
-     [
-      [
-       240,
-       "[Page 155]"
+       534,
+       "[Page 59]"
       ]
      ]
     ],
     [
      "I",
-     102,
+     124,
      [
       [
-       159,
-       "[Page 156]"
+       582,
+       "[Page 60]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 007 - Copyright Office/§ 00708 - Copyright Office fees.md",
+   "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00112 - Limitations on exclusive rights Ephemeral recordings.md",
    "printed_pages": [
-    154,
-    156
+    56,
+    60
    ]
   },
   {
-   "id": "17_709",
-   "marks": [],
-   "path": "Chapter 007 - Copyright Office/§ 00709 - Delay in delivery caused by disruption of postal or other services.md",
+   "id": "17_113",
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       239,
+       "[Page 61]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00113 - Scope of exclusive rights in pictorial, graphic, and sculptural works.md",
    "printed_pages": [
-    156,
-    156
+    60,
+    61
    ]
   },
   {
-   "id": "17_[710",
-   "marks": [],
-   "path": "Chapter 007 - Copyright Office/§ 00710 - Repealed. Pub. L. 106–379, §3(a)(1), Oct. 27, 2000, 114 Stat. 1445.md",
-   "printed_pages": [
-    156,
-    156
-   ]
-  },
-  {
-   "id": "17_-ch8",
+   "id": "17_114",
    "marks": [
     [
      "I",
      4,
      [
       [
-       62,
-       "[Page 157]"
+       379,
+       "[Page 62]"
       ]
      ]
-    ]
-   ],
-   "path": "Chapter 008 - Proceedings by Copyright Royalty Judges/README.md",
-   "printed_pages": [
-    156,
-    157
-   ]
-  },
-  {
-   "id": "17_801",
-   "marks": [
+    ],
     [
      "I",
-     42,
+     54,
      [
       [
-       96,
-       "[Page 158]"
+       99,
+       "[Page 63]"
       ]
      ]
     ],
@@ -2187,68 +750,8 @@
      94,
      [
       [
-       134,
-       "[Page 159]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     146,
-     [
-      [
-       355,
-       "[Page 160]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 008 - Proceedings by Copyright Royalty Judges/§ 00801 - Copyright Royalty Judges; appointment and functions.md",
-   "printed_pages": [
-    157,
-    160
-   ]
-  },
-  {
-   "id": "17_802",
-   "marks": [
-    [
-     "I",
-     68,
-     [
-      [
-       648,
-       "[Page 161]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     102,
-     [
-      [
-       80,
-       "[Page 162]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 008 - Proceedings by Copyright Royalty Judges/§ 00802 - Copyright Royalty Judgeships; staff.md",
-   "printed_pages": [
-    160,
-    162
-   ]
-  },
-  {
-   "id": "17_803",
-   "marks": [
-    [
-     "I",
-     38,
-     [
-      [
-       314,
-       "[Page 163]"
+       181,
+       "[Page 64]"
       ]
      ]
     ],
@@ -2257,48 +760,1609 @@
      116,
      [
       [
-       288,
+       97,
+       "[Page 65]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     164,
+     [
+      [
+       765,
+       "[Page 66]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     180,
+     [
+      [
+       769,
+       "[Page 67]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     204,
+     "[Page 68]",
+     true
+    ],
+    [
+     "I",
+     252,
+     [
+      [
+       638,
+       "[Page 69]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     294,
+     "[Page 70]",
+     true
+    ],
+    [
+     "L",
+     338,
+     "[Page 71]",
+     true
+    ],
+    [
+     "I",
+     386,
+     [
+      [
+       746,
+       "[Page 72]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     438,
+     [
+      [
+       817,
+       "[Page 73]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     506,
+     [
+      [
+       269,
+       "[Page 74]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00114 - Scope of exclusive rights in sound recordings.md",
+   "printed_pages": [
+    61,
+    74
+   ]
+  },
+  {
+   "id": "17_115",
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       1114,
+       "[Page 75]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     38,
+     [
+      [
+       814,
+       "[Page 76]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     64,
+     [
+      [
+       98,
+       "[Page 77]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     88,
+     [
+      [
+       590,
+       "[Page 78]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     110,
+     [
+      [
+       473,
+       "[Page 79]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     150,
+     [
+      [
+       108,
+       "[Page 80]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00115 - Scope of exclusive rights in nondramatic musical works Compulsory license for making and distributing phonorecords.md",
+   "printed_pages": [
+    74,
+    80
+   ]
+  },
+  {
+   "id": "17_116",
+   "marks": [
+    [
+     "I",
+     44,
+     [
+      [
+       202,
+       "[Page 81]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00116 - Negotiated licenses for public performances by means of coin-operated phonorecord players.md",
+   "printed_pages": [
+    80,
+    81
+   ]
+  },
+  {
+   "id": "17_[116A",
+   "marks": [],
+   "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00116A - Renumbered §116.md",
+   "printed_pages": [
+    81,
+    81
+   ]
+  },
+  {
+   "id": "17_117",
+   "marks": [
+    [
+     "I",
+     36,
+     [
+      [
+       105,
+       "[Page 82]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00117 - Limitations on exclusive rights Computer programs.md",
+   "printed_pages": [
+    81,
+    82
+   ]
+  },
+  {
+   "id": "17_118",
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       92,
+       "[Page 83]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     44,
+     [
+      [
+       100,
+       "[Page 84]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     74,
+     [
+      [
+       546,
+       "[Page 85]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     124,
+     [
+      [
+       215,
+       "[Page 86]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00118 - Scope of exclusive rights Use of certain works in connection with noncommercial broadcasting.md",
+   "printed_pages": [
+    82,
+    86
+   ]
+  },
+  {
+   "id": "17_119",
+   "marks": [
+    [
+     "I",
+     48,
+     [
+      [
+       189,
+       "[Page 87]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     104,
+     [
+      [
+       780,
+       "[Page 88]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     146,
+     [
+      [
+       143,
+       "[Page 89]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     206,
+     "[Page 90]",
+     true
+    ],
+    [
+     "L",
+     274,
+     "[Page 91]",
+     true
+    ],
+    [
+     "I",
+     334,
+     [
+      [
+       193,
+       "[Page 92]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     398,
+     [
+      [
+       307,
+       "[Page 93]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     492,
+     "[Page 94]",
+     true
+    ],
+    [
+     "L",
+     566,
+     "[Page 95]",
+     true
+    ],
+    [
+     "L",
+     644,
+     "[Page 96]",
+     true
+    ],
+    [
+     "I",
+     710,
+     [
+      [
+       421,
+       "[Page 97]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     796,
+     "[Page 98]",
+     true
+    ],
+    [
+     "L",
+     870,
+     "[Page 99]",
+     true
+    ],
+    [
+     "I",
+     944,
+     [
+      [
+       165,
+       "[Page 100]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     1020,
+     [
+      [
+       111,
+       "[Page 101]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     1086,
+     [
+      [
+       277,
+       "[Page 102]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     1162,
+     "[Page 103]",
+     true
+    ]
+   ],
+   "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00119 - Limitations on exclusive rights Secondary transmissions of distant television programming by satellite.md",
+   "printed_pages": [
+    86,
+    103
+   ]
+  },
+  {
+   "id": "17_120",
+   "marks": [],
+   "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00120 - Scope of exclusive rights in architectural works.md",
+   "printed_pages": [
+    103,
+    103
+   ]
+  },
+  {
+   "id": "17_121",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       96,
+       "[Page 104]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00121 - Limitations on exclusive rights Reproduction for blind or other people with disabilities.md",
+   "printed_pages": [
+    103,
+    104
+   ]
+  },
+  {
+   "id": "17_122",
+   "marks": [
+    [
+     "I",
+     26,
+     [
+      [
+       112,
+       "[Page 105]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     74,
+     [
+      [
+       101,
+       "[Page 106]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     134,
+     "[Page 107]",
+     true
+    ],
+    [
+     "I",
+     204,
+     [
+      [
+       72,
+       "[Page 108]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 001 - Subject Matter and Scope of Copyright/§ 00122 - Limitations on exclusive rights Secondary transmissions of local television programming by satellite.md",
+   "printed_pages": [
+    104,
+    108
+   ]
+  },
+  {
+   "id": "17_-ch2",
+   "marks": [
+    [
+     "I",
+     7,
+     [
+      [
+       56,
+       "[Page 109]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 002 - Copyright Ownership and Transfer/README.md",
+   "printed_pages": [
+    108,
+    109
+   ]
+  },
+  {
+   "id": "17_201",
+   "marks": [
+    [
+     "I",
+     42,
+     [
+      [
+       155,
+       "[Page 110]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     64,
+     "[Page 111]",
+     true
+    ]
+   ],
+   "path": "Chapter 002 - Copyright Ownership and Transfer/§ 00201 - Ownership of copyright.md",
+   "printed_pages": [
+    109,
+    111
+   ]
+  },
+  {
+   "id": "17_202",
+   "marks": [],
+   "path": "Chapter 002 - Copyright Ownership and Transfer/§ 00202 - Ownership of copyright as distinct from ownership of material object.md",
+   "printed_pages": [
+    111,
+    111
+   ]
+  },
+  {
+   "id": "17_203",
+   "marks": [
+    [
+     "I",
+     24,
+     [
+      [
+       94,
+       "[Page 112]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     62,
+     [
+      [
+       468,
+       "[Page 113]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     86,
+     [
+      [
+       219,
+       "[Page 114]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 002 - Copyright Ownership and Transfer/§ 00203 - Termination of transfers and licenses granted by the author.md",
+   "printed_pages": [
+    111,
+    114
+   ]
+  },
+  {
+   "id": "17_204",
+   "marks": [],
+   "path": "Chapter 002 - Copyright Ownership and Transfer/§ 00204 - Execution of transfers of copyright ownership.md",
+   "printed_pages": [
+    114,
+    114
+   ]
+  },
+  {
+   "id": "17_205",
+   "marks": [
+    [
+     "I",
+     36,
+     [
+      [
+       542,
+       "[Page 115]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 002 - Copyright Ownership and Transfer/§ 00205 - Recordation of transfers and other documents.md",
+   "printed_pages": [
+    114,
+    115
+   ]
+  },
+  {
+   "id": "17_-ch3",
+   "marks": [],
+   "path": "Chapter 003 - Duration of Copyright/README.md",
+   "printed_pages": [
+    115,
+    115
+   ]
+  },
+  {
+   "id": "17_301",
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       370,
+       "[Page 116]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     52,
+     [
+      [
+       435,
+       "[Page 117]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     76,
+     [
+      [
+       328,
+       "[Page 118]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 003 - Duration of Copyright/§ 00301 - Preemption with respect to other laws.md",
+   "printed_pages": [
+    115,
+    118
+   ]
+  },
+  {
+   "id": "17_302",
+   "marks": [
+    [
+     "I",
+     28,
+     [
+      [
+       219,
+       "[Page 119]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     52,
+     [
+      [
+       700,
+       "[Page 120]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     76,
+     [
+      [
+       609,
+       "[Page 121]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 003 - Duration of Copyright/§ 00302 - Duration of copyright Works created on or after January 1, 1978.md",
+   "printed_pages": [
+    118,
+    121
+   ]
+  },
+  {
+   "id": "17_303",
+   "marks": [],
+   "path": "Chapter 003 - Duration of Copyright/§ 00303 - Duration of copyright Works created but not published or copyrighted before January 1, 1978.md",
+   "printed_pages": [
+    121,
+    121
+   ]
+  },
+  {
+   "id": "17_304",
+   "marks": [
+    [
+     "I",
+     34,
+     [
+      [
+       94,
+       "[Page 122]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     74,
+     "[Page 123]",
+     true
+    ],
+    [
+     "L",
+     112,
+     "[Page 124]",
+     true
+    ],
+    [
+     "I",
+     134,
+     [
+      [
+       433,
+       "[Page 125]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     186,
+     [
+      [
+       105,
+       "[Page 126]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 003 - Duration of Copyright/§ 00304 - Duration of copyright Subsisting copyrights.md",
+   "printed_pages": [
+    121,
+    126
+   ]
+  },
+  {
+   "id": "17_305",
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       440,
+       "[Page 127]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 003 - Duration of Copyright/§ 00305 - Duration of copyright Terminal date.md",
+   "printed_pages": [
+    126,
+    127
+   ]
+  },
+  {
+   "id": "17_-ch4",
+   "marks": [],
+   "path": "Chapter 004 - Copyright Notice, Deposit, and Registration/README.md",
+   "printed_pages": [
+    127,
+    127
+   ]
+  },
+  {
+   "id": "17_401",
+   "marks": [
+    [
+     "L",
+     46,
+     "[Page 128]",
+     true
+    ]
+   ],
+   "path": "Chapter 004 - Copyright Notice, Deposit, and Registration/§ 00401 - Notice of copyright Visually perceptible copies.md",
+   "printed_pages": [
+    127,
+    128
+   ]
+  },
+  {
+   "id": "17_402",
+   "marks": [
+    [
+     "I",
+     30,
+     [
+      [
+       430,
+       "[Page 129]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 004 - Copyright Notice, Deposit, and Registration/§ 00402 - Notice of copyright Phonorecords of sound recordings.md",
+   "printed_pages": [
+    128,
+    129
+   ]
+  },
+  {
+   "id": "17_403",
+   "marks": [],
+   "path": "Chapter 004 - Copyright Notice, Deposit, and Registration/§ 00403 - Notice of copyright Publications incorporating United States Government works.md",
+   "printed_pages": [
+    129,
+    129
+   ]
+  },
+  {
+   "id": "17_404",
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       111,
+       "[Page 130]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 004 - Copyright Notice, Deposit, and Registration/§ 00404 - Notice of copyright Contributions to collective works.md",
+   "printed_pages": [
+    129,
+    130
+   ]
+  },
+  {
+   "id": "17_405",
+   "marks": [
+    [
+     "L",
+     32,
+     "[Page 131]",
+     true
+    ],
+    [
+     "L",
+     70,
+     "[Page 132]",
+     true
+    ]
+   ],
+   "path": "Chapter 004 - Copyright Notice, Deposit, and Registration/§ 00405 - Notice of copyright Omission of notice on certain copies and phonorecords.md",
+   "printed_pages": [
+    130,
+    132
+   ]
+  },
+  {
+   "id": "17_406",
+   "marks": [
+    [
+     "L",
+     46,
+     "[Page 133]",
+     true
+    ]
+   ],
+   "path": "Chapter 004 - Copyright Notice, Deposit, and Registration/§ 00406 - Notice of copyright Error in name or date on certain copies and phonorecords.md",
+   "printed_pages": [
+    132,
+    133
+   ]
+  },
+  {
+   "id": "17_407",
+   "marks": [
+    [
+     "L",
+     32,
+     "[Page 134]",
+     true
+    ],
+    [
+     "I",
+     56,
+     [
+      [
+       1127,
+       "[Page 135]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 004 - Copyright Notice, Deposit, and Registration/§ 00407 - Deposit of copies or phonorecords for Library of Congress.md",
+   "printed_pages": [
+    133,
+    135
+   ]
+  },
+  {
+   "id": "17_408",
+   "marks": [
+    [
+     "L",
+     46,
+     "[Page 136]",
+     true
+    ],
+    [
+     "I",
+     98,
+     [
+      [
+       158,
+       "[Page 137]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 004 - Copyright Notice, Deposit, and Registration/§ 00408 - Copyright registration in general.md",
+   "printed_pages": [
+    135,
+    137
+   ]
+  },
+  {
+   "id": "17_409",
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 138]",
+     true
+    ]
+   ],
+   "path": "Chapter 004 - Copyright Notice, Deposit, and Registration/§ 00409 - Application for copyright registration.md",
+   "printed_pages": [
+    137,
+    138
+   ]
+  },
+  {
+   "id": "17_410",
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       281,
+       "[Page 139]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 004 - Copyright Notice, Deposit, and Registration/§ 00410 - Registration of claim and issuance of certificate.md",
+   "printed_pages": [
+    138,
+    139
+   ]
+  },
+  {
+   "id": "17_411",
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 140]",
+     true
+    ]
+   ],
+   "path": "Chapter 004 - Copyright Notice, Deposit, and Registration/§ 00411 - Registration and civil infringement actions.md",
+   "printed_pages": [
+    139,
+    140
+   ]
+  },
+  {
+   "id": "17_412",
+   "marks": [
+    [
+     "I",
+     18,
+     [
+      [
+       198,
+       "[Page 141]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 004 - Copyright Notice, Deposit, and Registration/§ 00412 - Registration as prerequisite to certain remedies for infringement.md",
+   "printed_pages": [
+    140,
+    141
+   ]
+  },
+  {
+   "id": "17_-ch5",
+   "marks": [],
+   "path": "Chapter 005 - Copyright Infringement and Remedies/README.md",
+   "printed_pages": [
+    141,
+    141
+   ]
+  },
+  {
+   "id": "17_501",
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       281,
+       "[Page 142]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     40,
+     [
+      [
+       112,
+       "[Page 143]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 005 - Copyright Infringement and Remedies/§ 00501 - Infringement of copyright.md",
+   "printed_pages": [
+    141,
+    143
+   ]
+  },
+  {
+   "id": "17_502",
+   "marks": [],
+   "path": "Chapter 005 - Copyright Infringement and Remedies/§ 00502 - Remedies for infringement Injunctions.md",
+   "printed_pages": [
+    143,
+    143
+   ]
+  },
+  {
+   "id": "17_503",
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       526,
+       "[Page 144]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 005 - Copyright Infringement and Remedies/§ 00503 - Remedies for infringement Impounding and disposition of infringing articles.md",
+   "printed_pages": [
+    143,
+    144
+   ]
+  },
+  {
+   "id": "17_504",
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       1093,
+       "[Page 145]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     52,
+     [
+      [
+       466,
+       "[Page 146]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 005 - Copyright Infringement and Remedies/§ 00504 - Remedies for infringement Damages and profits.md",
+   "printed_pages": [
+    144,
+    146
+   ]
+  },
+  {
+   "id": "17_505",
+   "marks": [],
+   "path": "Chapter 005 - Copyright Infringement and Remedies/§ 00505 - Remedies for infringement Costs and attorney's fees.md",
+   "printed_pages": [
+    146,
+    146
+   ]
+  },
+  {
+   "id": "17_506",
+   "marks": [
+    [
+     "I",
+     24,
+     [
+      [
+       98,
+       "[Page 147]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 005 - Copyright Infringement and Remedies/§ 00506 - Criminal offenses.md",
+   "printed_pages": [
+    146,
+    147
+   ]
+  },
+  {
+   "id": "17_507",
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 148]",
+     true
+    ]
+   ],
+   "path": "Chapter 005 - Copyright Infringement and Remedies/§ 00507 - Limitations on actions.md",
+   "printed_pages": [
+    147,
+    148
+   ]
+  },
+  {
+   "id": "17_508",
+   "marks": [],
+   "path": "Chapter 005 - Copyright Infringement and Remedies/§ 00508 - Notification of filing and determination of actions.md",
+   "printed_pages": [
+    148,
+    148
+   ]
+  },
+  {
+   "id": "17_[509",
+   "marks": [],
+   "path": "Chapter 005 - Copyright Infringement and Remedies/§ 00509 - Repealed. Pub. L. 110–403, title II, §201(b)(1), Oct. 13, 2008, 122 Stat. 4260.md",
+   "printed_pages": [
+    148,
+    148
+   ]
+  },
+  {
+   "id": "17_510",
+   "marks": [],
+   "path": "Chapter 005 - Copyright Infringement and Remedies/§ 00510 - Remedies for alteration of programming by cable systems.md",
+   "printed_pages": [
+    148,
+    148
+   ]
+  },
+  {
+   "id": "17_511",
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 149]",
+     true
+    ]
+   ],
+   "path": "Chapter 005 - Copyright Infringement and Remedies/§ 00511 - Liability of States, instrumentalities of States, and State officials for infringement of copyright.md",
+   "printed_pages": [
+    148,
+    149
+   ]
+  },
+  {
+   "id": "17_512",
+   "marks": [
+    [
+     "I",
+     46,
+     [
+      [
+       220,
+       "[Page 150]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     104,
+     [
+      [
+       99,
+       "[Page 151]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     158,
+     [
+      [
+       400,
+       "[Page 152]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     242,
+     "[Page 153]",
+     true
+    ],
+    [
+     "L",
+     318,
+     "[Page 154]",
+     true
+    ]
+   ],
+   "path": "Chapter 005 - Copyright Infringement and Remedies/§ 00512 - Limitations on liability relating to material online.md",
+   "printed_pages": [
+    149,
+    154
+   ]
+  },
+  {
+   "id": "17_513",
+   "marks": [],
+   "path": "Chapter 005 - Copyright Infringement and Remedies/§ 00513 - Determination of reasonable license fees for individual proprietors.md",
+   "printed_pages": [
+    154,
+    154
+   ]
+  },
+  {
+   "id": "17_-ch6",
+   "marks": [
+    [
+     "L",
+     21,
+     "[Page 155]",
+     true
+    ]
+   ],
+   "path": "Chapter 006 - Importation and Exportation/README.md",
+   "printed_pages": [
+    154,
+    155
+   ]
+  },
+  {
+   "id": "17_[601",
+   "marks": [],
+   "path": "Chapter 006 - Importation and Exportation/§ 00601 - Repealed. Pub. L. 111–295, §4(a), Dec. 9, 2010, 124 Stat. 3180.md",
+   "printed_pages": [
+    155,
+    155
+   ]
+  },
+  {
+   "id": "17_602",
+   "marks": [
+    [
+     "I",
+     42,
+     [
+      [
+       113,
+       "[Page 156]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 006 - Importation and Exportation/§ 00602 - Infringing importation or exportation of copies or phonorecords.md",
+   "printed_pages": [
+    155,
+    156
+   ]
+  },
+  {
+   "id": "17_603",
+   "marks": [],
+   "path": "Chapter 006 - Importation and Exportation/§ 00603 - Importation prohibitions Enforcement and disposition of excluded articles.md",
+   "printed_pages": [
+    156,
+    156
+   ]
+  },
+  {
+   "id": "17_-ch7",
+   "marks": [
+    [
+     "L",
+     27,
+     "[Page 157]",
+     true
+    ]
+   ],
+   "path": "Chapter 007 - Copyright Office/README.md",
+   "printed_pages": [
+    156,
+    157
+   ]
+  },
+  {
+   "id": "17_701",
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       93,
+       "[Page 158]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 007 - Copyright Office/§ 00701 - The Copyright Office General responsibilities and organization.md",
+   "printed_pages": [
+    157,
+    158
+   ]
+  },
+  {
+   "id": "17_702",
+   "marks": [],
+   "path": "Chapter 007 - Copyright Office/§ 00702 - Copyright Office regulations.md",
+   "printed_pages": [
+    158,
+    158
+   ]
+  },
+  {
+   "id": "17_703",
+   "marks": [],
+   "path": "Chapter 007 - Copyright Office/§ 00703 - Effective date of actions in Copyright Office.md",
+   "printed_pages": [
+    158,
+    158
+   ]
+  },
+  {
+   "id": "17_704",
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       93,
+       "[Page 159]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 007 - Copyright Office/§ 00704 - Retention and disposition of articles deposited in Copyright Office.md",
+   "printed_pages": [
+    158,
+    159
+   ]
+  },
+  {
+   "id": "17_705",
+   "marks": [],
+   "path": "Chapter 007 - Copyright Office/§ 00705 - Copyright Office records Preparation, maintenance, public inspection, and searching.md",
+   "printed_pages": [
+    159,
+    159
+   ]
+  },
+  {
+   "id": "17_706",
+   "marks": [],
+   "path": "Chapter 007 - Copyright Office/§ 00706 - Copies of Copyright Office records.md",
+   "printed_pages": [
+    159,
+    159
+   ]
+  },
+  {
+   "id": "17_707",
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 160]",
+     true
+    ]
+   ],
+   "path": "Chapter 007 - Copyright Office/§ 00707 - Copyright Office forms and publications.md",
+   "printed_pages": [
+    159,
+    160
+   ]
+  },
+  {
+   "id": "17_708",
+   "marks": [
+    [
+     "L",
+     54,
+     "[Page 161]",
+     true
+    ],
+    [
+     "L",
+     128,
+     "[Page 162]",
+     true
+    ]
+   ],
+   "path": "Chapter 007 - Copyright Office/§ 00708 - Copyright Office fees.md",
+   "printed_pages": [
+    160,
+    162
+   ]
+  },
+  {
+   "id": "17_709",
+   "marks": [],
+   "path": "Chapter 007 - Copyright Office/§ 00709 - Delay in delivery caused by disruption of postal or other services.md",
+   "printed_pages": [
+    162,
+    162
+   ]
+  },
+  {
+   "id": "17_[710",
+   "marks": [],
+   "path": "Chapter 007 - Copyright Office/§ 00710 - Repealed. Pub. L. 106–379, §3(a)(1), Oct. 27, 2000, 114 Stat. 1445.md",
+   "printed_pages": [
+    162,
+    162
+   ]
+  },
+  {
+   "id": "17_-ch8",
+   "marks": [
+    [
+     "L",
+     24,
+     "[Page 163]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Proceedings by Copyright Royalty Judges/README.md",
+   "printed_pages": [
+    162,
+    163
+   ]
+  },
+  {
+   "id": "17_801",
+   "marks": [
+    [
+     "I",
+     48,
+     [
+      [
+       186,
        "[Page 164]"
       ]
      ]
     ],
     [
-     "L",
-     150,
-     "[Page 165]",
-     true
-    ],
-    [
-     "L",
-     202,
-     "[Page 166]",
-     true
-    ],
-    [
      "I",
-     248,
+     106,
      [
       [
-       552,
-       "[Page 167]"
+       422,
+       "[Page 165]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 008 - Proceedings by Copyright Royalty Judges/§ 00801 - Copyright Royalty Judges; appointment and functions.md",
+   "printed_pages": [
+    163,
+    165
+   ]
+  },
+  {
+   "id": "17_802",
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       311,
+       "[Page 166]"
       ]
      ]
     ],
     [
      "I",
-     308,
+     72,
      [
       [
-       430,
-       "[Page 168]"
+       250,
+       "[Page 167]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     114,
+     "[Page 168]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Proceedings by Copyright Royalty Judges/§ 00802 - Copyright Royalty Judgeships; staff.md",
+   "printed_pages": [
+    165,
+    168
+   ]
+  },
+  {
+   "id": "17_803",
+   "marks": [
+    [
+     "I",
+     44,
+     [
+      [
+       79,
+       "[Page 169]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     122,
+     "[Page 170]",
+     true
+    ],
+    [
+     "I",
+     152,
+     [
+      [
+       585,
+       "[Page 171]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     212,
+     [
+      [
+       79,
+       "[Page 172]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     258,
+     "[Page 173]",
+     true
+    ],
+    [
+     "I",
+     320,
+     [
+      [
+       107,
+       "[Page 174]"
       ]
      ]
     ]
    ],
    "path": "Chapter 008 - Proceedings by Copyright Royalty Judges/§ 00803 - Proceedings of Copyright Royalty Judges.md",
    "printed_pages": [
-    162,
-    168
+    168,
+    174
    ]
   },
   {
@@ -2306,35 +2370,39 @@
    "marks": [
     [
      "I",
-     32,
+     34,
      [
       [
-       291,
-       "[Page 169]"
+       99,
+       "[Page 175]"
       ]
      ]
     ]
    ],
    "path": "Chapter 008 - Proceedings by Copyright Royalty Judges/§ 00804 - Institution of proceedings.md",
    "printed_pages": [
-    168,
-    169
+    174,
+    175
    ]
   },
   {
    "id": "17_805",
    "marks": [
     [
-     "L",
-     8,
-     "[Page 170]",
-     true
+     "I",
+     10,
+     [
+      [
+       94,
+       "[Page 176]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 008 - Proceedings by Copyright Royalty Judges/§ 00805 - General rule for voluntarily negotiated agreements.md",
    "printed_pages": [
-    169,
-    170
+    175,
+    176
    ]
   },
   {
@@ -2342,33 +2410,37 @@
    "marks": [],
    "path": "Chapter 009 - Protection of Semiconductor Chip Products/README.md",
    "printed_pages": [
-    170,
-    170
+    176,
+    176
    ]
   },
   {
    "id": "17_901",
-   "marks": [
-    [
-     "L",
-     38,
-     "[Page 171]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - Protection of Semiconductor Chip Products/§ 00901 - Definitions.md",
    "printed_pages": [
-    170,
-    171
+    176,
+    176
    ]
   },
   {
    "id": "17_902",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       141,
+       "[Page 177]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 009 - Protection of Semiconductor Chip Products/§ 00902 - Subject matter of protection.md",
    "printed_pages": [
-    171,
-    171
+    176,
+    177
    ]
   },
   {
@@ -2376,8 +2448,8 @@
    "marks": [],
    "path": "Chapter 009 - Protection of Semiconductor Chip Products/§ 00903 - Ownership, transfer, licensing, and recordation.md",
    "printed_pages": [
-    171,
-    171
+    177,
+    177
    ]
   },
   {
@@ -2388,16 +2460,16 @@
      2,
      [
       [
-       89,
-       "[Page 172]"
+       183,
+       "[Page 178]"
       ]
      ]
     ]
    ],
    "path": "Chapter 009 - Protection of Semiconductor Chip Products/§ 00904 - Duration of protection.md",
    "printed_pages": [
-    171,
-    172
+    177,
+    178
    ]
   },
   {
@@ -2405,8 +2477,8 @@
    "marks": [],
    "path": "Chapter 009 - Protection of Semiconductor Chip Products/§ 00905 - Exclusive rights in mask works.md",
    "printed_pages": [
-    172,
-    172
+    178,
+    178
    ]
   },
   {
@@ -2414,8 +2486,8 @@
    "marks": [],
    "path": "Chapter 009 - Protection of Semiconductor Chip Products/§ 00906 - Limitation on exclusive rights reverse engineering; first sale.md",
    "printed_pages": [
-    172,
-    172
+    178,
+    178
    ]
   },
   {
@@ -2423,28 +2495,24 @@
    "marks": [],
    "path": "Chapter 009 - Protection of Semiconductor Chip Products/§ 00907 - Limitation on exclusive rights innocent infringement.md",
    "printed_pages": [
-    172,
-    172
+    178,
+    178
    ]
   },
   {
    "id": "17_908",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       434,
-       "[Page 173]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 179]",
+     true
     ]
    ],
    "path": "Chapter 009 - Protection of Semiconductor Chip Products/§ 00908 - Registration of claims of protection.md",
    "printed_pages": [
-    172,
-    173
+    178,
+    179
    ]
   },
   {
@@ -2452,49 +2520,57 @@
    "marks": [],
    "path": "Chapter 009 - Protection of Semiconductor Chip Products/§ 00909 - Mask work notice.md",
    "printed_pages": [
-    173,
-    173
+    179,
+    179
    ]
   },
   {
    "id": "17_910",
    "marks": [
     [
-     "L",
+     "I",
      16,
-     "[Page 174]",
-     true
+     [
+      [
+       100,
+       "[Page 180]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Protection of Semiconductor Chip Products/§ 00910 - Enforcement of exclusive rights.md",
    "printed_pages": [
-    173,
-    174
+    179,
+    180
    ]
   },
   {
    "id": "17_911",
-   "marks": [
-    [
-     "L",
-     30,
-     "[Page 175]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - Protection of Semiconductor Chip Products/§ 00911 - Civil actions.md",
    "printed_pages": [
-    174,
-    175
+    180,
+    180
    ]
   },
   {
    "id": "17_912",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       90,
+       "[Page 181]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 009 - Protection of Semiconductor Chip Products/§ 00912 - Relation to other laws.md",
    "printed_pages": [
-    175,
-    175
+    180,
+    181
    ]
   },
   {
@@ -2502,38 +2578,34 @@
    "marks": [],
    "path": "Chapter 009 - Protection of Semiconductor Chip Products/§ 00913 - Transitional provisions.md",
    "printed_pages": [
-    175,
-    175
+    181,
+    181
    ]
   },
   {
    "id": "17_914",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       378,
-       "[Page 176]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 182]",
+     true
     ],
     [
      "I",
-     86,
+     88,
      [
       [
-       101,
-       "[Page 177]"
+       113,
+       "[Page 183]"
       ]
      ]
     ]
    ],
    "path": "Chapter 009 - Protection of Semiconductor Chip Products/§ 00914 - International transitional provisions.md",
    "printed_pages": [
-    175,
-    177
+    181,
+    183
    ]
   },
   {
@@ -2541,8 +2613,8 @@
    "marks": [],
    "path": "Chapter 010 - Digital Audio Recording Devices and Media/README.md",
    "printed_pages": [
-    177,
-    177
+    183,
+    183
    ]
   },
   {
@@ -2550,8 +2622,8 @@
    "marks": [],
    "path": "Chapter 010 - Digital Audio Recording Devices and Media/Subchapter A - Definitions/README.md",
    "printed_pages": [
-    177,
-    177
+    183,
+    183
    ]
   },
   {
@@ -2562,16 +2634,16 @@
      46,
      [
       [
-       101,
-       "[Page 178]"
+       189,
+       "[Page 184]"
       ]
      ]
     ]
    ],
    "path": "Chapter 010 - Digital Audio Recording Devices and Media/Subchapter A - Definitions/§ 01001 - Definitions.md",
    "printed_pages": [
-    177,
-    178
+    183,
+    184
    ]
   },
   {
@@ -2579,8 +2651,8 @@
    "marks": [],
    "path": "Chapter 010 - Digital Audio Recording Devices and Media/Subchapter B - Copying Controls/README.md",
    "printed_pages": [
-    178,
-    178
+    184,
+    184
    ]
   },
   {
@@ -2588,8 +2660,8 @@
    "marks": [],
    "path": "Chapter 010 - Digital Audio Recording Devices and Media/Subchapter B - Copying Controls/§ 01002 - Incorporation of copying controls.md",
    "printed_pages": [
-    178,
-    178
+    184,
+    184
    ]
   },
   {
@@ -2597,8 +2669,8 @@
    "marks": [],
    "path": "Chapter 010 - Digital Audio Recording Devices and Media/Subchapter C - Royalty Payments/README.md",
    "printed_pages": [
-    178,
-    178
+    184,
+    184
    ]
   },
   {
@@ -2609,16 +2681,16 @@
      4,
      [
       [
-       83,
-       "[Page 179]"
+       180,
+       "[Page 185]"
       ]
      ]
     ]
    ],
    "path": "Chapter 010 - Digital Audio Recording Devices and Media/Subchapter C - Royalty Payments/§ 01003 - Obligation to make royalty payments.md",
    "printed_pages": [
-    178,
-    179
+    184,
+    185
    ]
   },
   {
@@ -2626,15 +2698,15 @@
    "marks": [
     [
      "L",
-     38,
-     "[Page 180]",
+     40,
+     "[Page 186]",
      true
     ]
    ],
    "path": "Chapter 010 - Digital Audio Recording Devices and Media/Subchapter C - Royalty Payments/§ 01004 - Royalty payments.md",
    "printed_pages": [
-    179,
-    180
+    185,
+    186
    ]
   },
   {
@@ -2642,8 +2714,8 @@
    "marks": [],
    "path": "Chapter 010 - Digital Audio Recording Devices and Media/Subchapter C - Royalty Payments/§ 01005 - Deposit of royalty payments and deduction of expenses.md",
    "printed_pages": [
-    180,
-    180
+    186,
+    186
    ]
   },
   {
@@ -2651,31 +2723,35 @@
    "marks": [
     [
      "L",
-     48,
-     "[Page 181]",
+     50,
+     "[Page 187]",
      true
     ]
    ],
    "path": "Chapter 010 - Digital Audio Recording Devices and Media/Subchapter C - Royalty Payments/§ 01006 - Entitlement to royalty payments.md",
    "printed_pages": [
-    180,
-    181
+    186,
+    187
    ]
   },
   {
    "id": "17_1007",
    "marks": [
     [
-     "L",
-     46,
-     "[Page 182]",
-     true
+     "I",
+     48,
+     [
+      [
+       106,
+       "[Page 188]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 010 - Digital Audio Recording Devices and Media/Subchapter C - Royalty Payments/§ 01007 - Procedures for distributing royalty payments.md",
    "printed_pages": [
-    181,
-    182
+    187,
+    188
    ]
   },
   {
@@ -2683,8 +2759,8 @@
    "marks": [],
    "path": "Chapter 010 - Digital Audio Recording Devices and Media/Subchapter D - Prohibition on Certain Infringement Actions, Remedies, and Arbitration/README.md",
    "printed_pages": [
-    182,
-    182
+    188,
+    188
    ]
   },
   {
@@ -2692,8 +2768,8 @@
    "marks": [],
    "path": "Chapter 010 - Digital Audio Recording Devices and Media/Subchapter D - Prohibition on Certain Infringement Actions, Remedies, and Arbitration/§ 01008 - Prohibition on certain infringement actions.md",
    "printed_pages": [
-    182,
-    182
+    188,
+    188
    ]
   },
   {
@@ -2701,15 +2777,15 @@
    "marks": [
     [
      "L",
-     74,
-     "[Page 183]",
+     78,
+     "[Page 189]",
      true
     ]
    ],
    "path": "Chapter 010 - Digital Audio Recording Devices and Media/Subchapter D - Prohibition on Certain Infringement Actions, Remedies, and Arbitration/§ 01009 - Civil remedies.md",
    "printed_pages": [
-    182,
-    183
+    188,
+    189
    ]
   },
   {
@@ -2717,8 +2793,8 @@
    "marks": [],
    "path": "Chapter 010 - Digital Audio Recording Devices and Media/Subchapter D - Prohibition on Certain Infringement Actions, Remedies, and Arbitration/§ 01010 - Determination of certain disputes.md",
    "printed_pages": [
-    183,
-    183
+    189,
+    189
    ]
   },
   {
@@ -2726,28 +2802,24 @@
    "marks": [],
    "path": "Chapter 011 - Sound Recordings and Music Videos/README.md",
    "printed_pages": [
-    183,
-    183
+    189,
+    189
    ]
   },
   {
    "id": "17_1101",
    "marks": [
     [
-     "I",
-     34,
-     [
-      [
-       111,
-       "[Page 184]"
-      ]
-     ]
+     "L",
+     36,
+     "[Page 190]",
+     true
     ]
    ],
    "path": "Chapter 011 - Sound Recordings and Music Videos/§ 01101 - Unauthorized fixation and trafficking in sound recordings and music videos.md",
    "printed_pages": [
-    183,
-    184
+    189,
+    190
    ]
   },
   {
@@ -2755,8 +2827,8 @@
    "marks": [],
    "path": "Chapter 012 - Copyright Protection and Management Systems/README.md",
    "printed_pages": [
-    184,
-    184
+    190,
+    190
    ]
   },
   {
@@ -2764,8 +2836,8 @@
    "marks": [
     [
      "L",
-     48,
-     "[Page 185]",
+     52,
+     "[Page 191]",
      true
     ],
     [
@@ -2773,18 +2845,18 @@
      110,
      [
       [
-       97,
-       "[Page 186]"
+       271,
+       "[Page 192]"
       ]
      ]
     ],
     [
      "I",
-     182,
+     190,
      [
       [
-       169,
-       "[Page 187]"
+       78,
+       "[Page 193]"
       ]
      ]
     ],
@@ -2793,16 +2865,16 @@
      240,
      [
       [
-       99,
-       "[Page 188]"
+       364,
+       "[Page 194]"
       ]
      ]
     ]
    ],
    "path": "Chapter 012 - Copyright Protection and Management Systems/§ 01201 - Circumvention of copyright protection systems.md",
    "printed_pages": [
-    184,
-    188
+    190,
+    194
    ]
   },
   {
@@ -2810,50 +2882,46 @@
    "marks": [
     [
      "L",
-     18,
-     "[Page 189]",
+     20,
+     "[Page 195]",
      true
     ],
     [
      "L",
-     84,
-     "[Page 190]",
+     88,
+     "[Page 196]",
      true
     ]
    ],
    "path": "Chapter 012 - Copyright Protection and Management Systems/§ 01202 - Integrity of copyright management information.md",
    "printed_pages": [
-    188,
-    190
+    194,
+    196
    ]
   },
   {
    "id": "17_1203",
-   "marks": [
-    [
-     "I",
-     76,
-     [
-      [
-       434,
-       "[Page 191]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 012 - Copyright Protection and Management Systems/§ 01203 - Civil remedies.md",
    "printed_pages": [
-    190,
-    191
+    196,
+    196
    ]
   },
   {
    "id": "17_1204",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 197]",
+     true
+    ]
+   ],
    "path": "Chapter 012 - Copyright Protection and Management Systems/§ 01204 - Criminal offenses and penalties.md",
    "printed_pages": [
-    191,
-    191
+    196,
+    197
    ]
   },
   {
@@ -2861,8 +2929,8 @@
    "marks": [],
    "path": "Chapter 012 - Copyright Protection and Management Systems/§ 01205 - Savings clause.md",
    "printed_pages": [
-    191,
-    191
+    197,
+    197
    ]
   },
   {
@@ -2870,28 +2938,24 @@
    "marks": [],
    "path": "Chapter 013 - Protection of Original Designs/README.md",
    "printed_pages": [
-    191,
-    191
+    197,
+    197
    ]
   },
   {
    "id": "17_1301",
    "marks": [
     [
-     "I",
-     34,
-     [
-      [
-       95,
-       "[Page 192]"
-      ]
-     ]
+     "L",
+     40,
+     "[Page 198]",
+     true
     ]
    ],
    "path": "Chapter 013 - Protection of Original Designs/§ 01301 - Designs protected.md",
    "printed_pages": [
-    191,
-    192
+    197,
+    198
    ]
   },
   {
@@ -2899,8 +2963,8 @@
    "marks": [],
    "path": "Chapter 013 - Protection of Original Designs/§ 01302 - Designs not subject to protection.md",
    "printed_pages": [
-    192,
-    192
+    198,
+    198
    ]
   },
   {
@@ -2908,8 +2972,8 @@
    "marks": [],
    "path": "Chapter 013 - Protection of Original Designs/§ 01303 - Revisions, adaptations, and rearrangements.md",
    "printed_pages": [
-    192,
-    192
+    198,
+    198
    ]
   },
   {
@@ -2917,28 +2981,24 @@
    "marks": [],
    "path": "Chapter 013 - Protection of Original Designs/§ 01304 - Commencement of protection.md",
    "printed_pages": [
-    192,
-    192
+    198,
+    198
    ]
   },
   {
    "id": "17_1305",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       90,
-       "[Page 193]"
-      ]
-     ]
+     "L",
+     16,
+     "[Page 199]",
+     true
     ]
    ],
    "path": "Chapter 013 - Protection of Original Designs/§ 01305 - Term of protection.md",
    "printed_pages": [
-    192,
-    193
+    198,
+    199
    ]
   },
   {
@@ -2946,8 +3006,8 @@
    "marks": [],
    "path": "Chapter 013 - Protection of Original Designs/§ 01306 - Design notice.md",
    "printed_pages": [
-    193,
-    193
+    199,
+    199
    ]
   },
   {
@@ -2955,8 +3015,8 @@
    "marks": [],
    "path": "Chapter 013 - Protection of Original Designs/§ 01307 - Effect of omission of notice.md",
    "printed_pages": [
-    193,
-    193
+    199,
+    199
    ]
   },
   {
@@ -2964,8 +3024,8 @@
    "marks": [],
    "path": "Chapter 013 - Protection of Original Designs/§ 01308 - Exclusive rights.md",
    "printed_pages": [
-    193,
-    193
+    199,
+    199
    ]
   },
   {
@@ -2973,44 +3033,44 @@
    "marks": [
     [
      "I",
-     24,
+     28,
      [
       [
-       173,
-       "[Page 194]"
+       328,
+       "[Page 200]"
       ]
      ]
     ]
    ],
    "path": "Chapter 013 - Protection of Original Designs/§ 01309 - Infringement.md",
    "printed_pages": [
-    193,
-    194
+    199,
+    200
    ]
   },
   {
    "id": "17_1310",
-   "marks": [
-    [
-     "L",
-     68,
-     "[Page 195]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Protection of Original Designs/§ 01310 - Application for registration.md",
    "printed_pages": [
-    194,
-    195
+    200,
+    200
    ]
   },
   {
    "id": "17_1311",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 201]",
+     true
+    ]
+   ],
    "path": "Chapter 013 - Protection of Original Designs/§ 01311 - Benefit of earlier filing date in foreign country.md",
    "printed_pages": [
-    195,
-    195
+    200,
+    201
    ]
   },
   {
@@ -3018,8 +3078,8 @@
    "marks": [],
    "path": "Chapter 013 - Protection of Original Designs/§ 01312 - Oaths and acknowledgments.md",
    "printed_pages": [
-    195,
-    195
+    201,
+    201
    ]
   },
   {
@@ -3027,37 +3087,37 @@
    "marks": [],
    "path": "Chapter 013 - Protection of Original Designs/§ 01313 - Examination of application and issue or refusal of registration.md",
    "printed_pages": [
-    195,
-    195
+    201,
+    201
    ]
   },
   {
    "id": "17_1314",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       341,
-       "[Page 196]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Protection of Original Designs/§ 01314 - Certification of registration.md",
    "printed_pages": [
-    195,
-    196
+    201,
+    201
    ]
   },
   {
    "id": "17_1315",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       135,
+       "[Page 202]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 013 - Protection of Original Designs/§ 01315 - Publication of announcements and indexes.md",
    "printed_pages": [
-    196,
-    196
+    201,
+    202
    ]
   },
   {
@@ -3065,8 +3125,8 @@
    "marks": [],
    "path": "Chapter 013 - Protection of Original Designs/§ 01316 - Fees.md",
    "printed_pages": [
-    196,
-    196
+    202,
+    202
    ]
   },
   {
@@ -3074,8 +3134,8 @@
    "marks": [],
    "path": "Chapter 013 - Protection of Original Designs/§ 01317 - Regulations.md",
    "printed_pages": [
-    196,
-    196
+    202,
+    202
    ]
   },
   {
@@ -3083,8 +3143,8 @@
    "marks": [],
    "path": "Chapter 013 - Protection of Original Designs/§ 01318 - Copies of records.md",
    "printed_pages": [
-    196,
-    196
+    202,
+    202
    ]
   },
   {
@@ -3092,8 +3152,8 @@
    "marks": [],
    "path": "Chapter 013 - Protection of Original Designs/§ 01319 - Correction of errors in certificates.md",
    "printed_pages": [
-    196,
-    196
+    202,
+    202
    ]
   },
   {
@@ -3101,24 +3161,28 @@
    "marks": [],
    "path": "Chapter 013 - Protection of Original Designs/§ 01320 - Ownership and transfer.md",
    "printed_pages": [
-    196,
-    196
+    202,
+    202
    ]
   },
   {
    "id": "17_1321",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 197]",
-     true
+     "I",
+     24,
+     [
+      [
+       268,
+       "[Page 203]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 013 - Protection of Original Designs/§ 01321 - Remedy for infringement.md",
    "printed_pages": [
-    196,
-    197
+    202,
+    203
    ]
   },
   {
@@ -3126,8 +3190,8 @@
    "marks": [],
    "path": "Chapter 013 - Protection of Original Designs/§ 01322 - Injunctions.md",
    "printed_pages": [
-    197,
-    197
+    203,
+    203
    ]
   },
   {
@@ -3135,8 +3199,8 @@
    "marks": [],
    "path": "Chapter 013 - Protection of Original Designs/§ 01323 - Recovery for infringement.md",
    "printed_pages": [
-    197,
-    197
+    203,
+    203
    ]
   },
   {
@@ -3144,8 +3208,8 @@
    "marks": [],
    "path": "Chapter 013 - Protection of Original Designs/§ 01324 - Power of court over registration.md",
    "printed_pages": [
-    197,
-    197
+    203,
+    203
    ]
   },
   {
@@ -3153,24 +3217,17 @@
    "marks": [],
    "path": "Chapter 013 - Protection of Original Designs/§ 01325 - Liability for action on registration fraudulently obtained.md",
    "printed_pages": [
-    197,
-    197
+    203,
+    203
    ]
   },
   {
    "id": "17_1326",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 198]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Protection of Original Designs/§ 01326 - Penalty for false marking.md",
    "printed_pages": [
-    197,
-    198
+    203,
+    203
    ]
   },
   {
@@ -3178,17 +3235,28 @@
    "marks": [],
    "path": "Chapter 013 - Protection of Original Designs/§ 01327 - Penalty for false representation.md",
    "printed_pages": [
-    198,
-    198
+    203,
+    203
    ]
   },
   {
    "id": "17_1328",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       85,
+       "[Page 204]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 013 - Protection of Original Designs/§ 01328 - Enforcement by Treasury and Postal Service.md",
    "printed_pages": [
-    198,
-    198
+    203,
+    204
    ]
   },
   {
@@ -3196,8 +3264,8 @@
    "marks": [],
    "path": "Chapter 013 - Protection of Original Designs/§ 01329 - Relation to design patent law.md",
    "printed_pages": [
-    198,
-    198
+    204,
+    204
    ]
   },
   {
@@ -3205,8 +3273,8 @@
    "marks": [],
    "path": "Chapter 013 - Protection of Original Designs/§ 01330 - Common law and other rights unaffected.md",
    "printed_pages": [
-    198,
-    198
+    204,
+    204
    ]
   },
   {
@@ -3214,8 +3282,8 @@
    "marks": [],
    "path": "Chapter 013 - Protection of Original Designs/§ 01331 - Administrator; Office of the Administrator.md",
    "printed_pages": [
-    198,
-    198
+    204,
+    204
    ]
   },
   {
@@ -3223,11 +3291,11 @@
    "marks": [],
    "path": "Chapter 013 - Protection of Original Designs/§ 01332 - No retroactive effect.md",
    "printed_pages": [
-    198,
-    198
+    204,
+    204
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2009-title17 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2010-title17 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 17 - Copyrights"
 }

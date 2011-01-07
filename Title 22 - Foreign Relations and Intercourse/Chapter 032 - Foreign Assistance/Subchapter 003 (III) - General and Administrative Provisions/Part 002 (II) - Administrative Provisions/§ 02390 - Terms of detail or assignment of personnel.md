@@ -18,7 +18,7 @@ This chapter, referred to in par. (3), was in the original “this Act”, meani
 
 #### Amendments
 
-1965—Pub. L. 89–171 inserted “benefits” in pars. (2) and (4).
+<b>1965</b>—Pub. L. 89–171 inserted “benefits” in pars. (2) and (4).
 
 #### Delegation of Functions
 

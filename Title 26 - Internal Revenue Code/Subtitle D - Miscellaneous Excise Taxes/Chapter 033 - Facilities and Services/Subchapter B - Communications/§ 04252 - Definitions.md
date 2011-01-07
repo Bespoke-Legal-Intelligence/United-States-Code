@@ -20,7 +20,7 @@ For purposes of this subchapter, the term “toll telephone service” means—
 
 #### (c) Teletypewriter exchange service
 
-For purposes of this subchapter, the term “teletypewriter exchange service” means the access from a teletypewriter or other data station to the teletypewriter exchange system of whichsuch station is a part, and the privilege of intercommunication by such station with substantially all persons having teletypewriter or other data stations constituting a part of the same teletypewriter exchange system, to which the subscriber is entitled upon payment of a charge or charges (whether such charge or charges are determined as a flat periodic amount, on the basis of distance and elapsed transmission time, or in some other manner). The term “teletypewriter exchange service” does not include any service which is “local telephone service” as defined in subsection (a).
+For purposes of this subchapter, the term “teletypewriter exchange service” means the access from a teletypewriter or other data station to the teletypewriter exchange system of which such station is a part, and the privilege of intercommunication by such station with substantially all persons having teletypewriter or other data stations constituting a part of the same teletypewriter exchange system, to which the subscriber is entitled upon payment of a charge or charges (whether such charge or charges are determined as a flat periodic amount, on the basis of distance and elapsed transmission time, or in some other manner). The term “teletypewriter exchange service” does not include any service which is “local telephone service” as defined in subsection (a).
 
 #### (d) Private communication service
 
@@ -44,11 +44,11 @@ For purposes of this subchapter, the term “private communication service” me
 
 #### Repeal
 
-<i>This subchapter, relating to the tax on communications was repealed by Pub. L. 90–364, title I, §105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, §702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, §201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981. Repeal of this subchapter was not executed in view of the amendments to section 4251 of this title by Pub. L. 96–499, Pub. L. 97–34, Pub. L. 97–248, Pub. L. 98–369, Pub. L. 99–514, Pub. L. 100–203, and Pub. L. 101–508, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date.</i>
+<i>This subchapter, relating to the tax on communications was repealed by Pub. L. 90–364, title I, §105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, §702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, §201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31,</i><i>1981. Repeal of this subchapter was not executed in view of the amendments to section 4251 of this title by Pub. L. 96–499, Pub. L. 97–34, Pub. L. 97–248, Pub. L. 98–369, Pub. L. 99–514, Pub. L. 100–203, and Pub. L. 101–508, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date.</i>
 
 #### Amendments
 
-1965—Subsec. (a). Pub. L. 89–44 substituted definition of “local telephone service” for definition of “general telephone service”.
+<b>1965</b>—Subsec. (a). Pub. L. 89–44 substituted definition of “local telephone service” for definition of “general telephone service”.
 
 Subsec. (b). Pub. L. 89–44 replaced definition of “toll telephone service” as telephone or radio telephone message or conversation for which there is a toll charge paid within the United States with a definition which defined the term as a telephonic quality communication carrying a varying toll charge depending upon distance and elapsed transmission time and a service entitling the subscriber, upon payment of a periodic charge, to unlimited telephonic communication in an area outside the local telephone system area.
 
@@ -58,9 +58,9 @@ Subsec. (d). Pub. L. 89–44 substituted definition of “private communication 
 
 Subsecs. (e), (f). Pub. L. 89–44 struck out subsecs. (e) and (f) which defined wire mileage service and wire and equipment service.
 
-1962—Subsec. (e)(1), (2). Pub. L. 87–508 limited wire mileage service to service not used in the conduct of a trade or business.
+<b>1962</b>—Subsec. (e)(1), (2). Pub. L. 87–508 limited wire mileage service to service not used in the conduct of a trade or business.
 
-1958—Subsec. (a). Pub. L. 85–859 substituted definition of “general telephone service” for provisions which defined “local telephone service” as any telephone service not taxable as long distance telephone service; leased wire; teletypewriter or talking circuit special service; or wire and equipment service, and provided that amounts paid for the installation of instruments, wires, poles, switchboards, apparatus, and equipment shall not be considered amounts paid for service, and that amounts paid for services and facilities which are exempted from other communication taxes by section 4253(b) should not be deemed to be within the definition of local telephone service.
+<b>1958</b>—Subsec. (a). Pub. L. 85–859 substituted definition of “general telephone service” for provisions which defined “local telephone service” as any telephone service not taxable as long distance telephone service; leased wire; teletypewriter or talking circuit special service; or wire and equipment service, and provided that amounts paid for the installation of instruments, wires, poles, switchboards, apparatus, and equipment shall not be considered amounts paid for service, and that amounts paid for services and facilities which are exempted from other communication taxes by section 4253(b) should not be deemed to be within the definition of local telephone service.
 
 Subsec. (b). Pub. L. 85–859 substituted “toll telephone service” for “long distance telephone service” and struck out provisions which defined “long distance telephone service” as a telephone or radio telephone message or conversation for which the toll charge is more than 24 cents.
 

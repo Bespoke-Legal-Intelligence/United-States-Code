@@ -10,11 +10,11 @@ Article V of the constitution of the Organization, referred to in text, is artic
 
 #### Amendments
 
-1980—Pub. L. 96–465 substituted “members of the Senior Foreign Service under section 3962 of this title, or provided for Foreign Service officers under section 3963 of this title,” for “Foreign Service officers in the schedule contained in section 867 of this title,”.
+<b>1980</b>—Pub. L. 96–465 substituted “members of the Senior Foreign Service under section 3962 of this title, or provided for Foreign Service officers under section 3963 of this title,” for “Foreign Service officers in the schedule contained in section 867 of this title,”.
 
-1964—Pub. L. 88–426, §306(g), substituted provisions permitting payment of compensation at such rates provided for Foreign Service officers in the schedule contained in section 867 of this title for provisions which limited compensation at not more than $15,000 per annum.
+<b>1964</b>—Pub. L. 88–426, §306(g), substituted provisions permitting payment of compensation at such rates provided for Foreign Service officers in the schedule contained in section 867 of this title for provisions which limited compensation at not more than $15,000 per annum.
 
-1956—Act July 31, 1956, increased maximum compensation of representatives and alternatives from $12,000 to $15,000.
+<b>1956</b>—Act July 31, 1956, increased maximum compensation of representatives and alternatives from $12,000 to $15,000.
 
 #### Effective Date of 1980 Amendment
 

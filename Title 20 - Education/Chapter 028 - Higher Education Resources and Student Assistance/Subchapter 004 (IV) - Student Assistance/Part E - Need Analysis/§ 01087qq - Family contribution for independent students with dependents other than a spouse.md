@@ -262,23 +262,23 @@ In the case of a student who is divorced or separated, or whose spouse has died,
 
 #### Amendments
 
-2009—Subsec. (b)(5)(B). Pub. L. 111–39 made technical amendment to reference in original act which appears in text as reference to section 2 of title 26.
+<b>2009</b>—Subsec. (b)(5)(B). Pub. L. 111–39 made technical amendment to reference in original act which appears in text as reference to section 2 of title 26.
 
-2007—Subsec. (b)(4). Pub. L. 110–84 amended par. (4) generally. Prior to amendment, par. (4) consisted of a single table to be used to determine income protection allowances.
+<b>2007</b>—Subsec. (b)(4). Pub. L. 110–84 amended par. (4) generally. Prior to amendment, par. (4) consisted of a single table to be used to determine income protection allowances.
 
-2006—Subsec. (c)(4). Pub. L. 109–171 substituted “7” for “12”.
+<b>2006</b>—Subsec. (c)(4). Pub. L. 109–171 substituted “7” for “12”.
 
-1998—Subsec. (a)(4). Pub. L. 105–244 added par. (4).
+<b>1998</b>—Subsec. (a)(4). Pub. L. 105–244 added par. (4).
 
-1997—Subsec. (b)(1)(F). Pub. L. 105–78 added subpar. (F).
+<b>1997</b>—Subsec. (b)(1)(F). Pub. L. 105–78 added subpar. (F).
 
-1993—Subsec. (b)(4). Pub. L. 103–208, §2(g)(2), substituted “$9,510” for “9,510” in table.
+<b>1993</b>—Subsec. (b)(4). Pub. L. 103–208, §2(g)(2), substituted “$9,510” for “9,510” in table.
 
 Subsec. (e). Pub. L. 103–208, §2(g)(7), added subsec. (e).
 
-1992—Pub. L. 102–325 amended section generally, substituting provisions relating to family contribution for independent students with dependents other than a spouse for provisions relating to family contribution for independent students with dependents (including a spouse).
+<b>1992</b>—Pub. L. 102–325 amended section generally, substituting provisions relating to family contribution for independent students with dependents other than a spouse for provisions relating to family contribution for independent students with dependents (including a spouse).
 
-1987—Subsec. (a)(1)(C). Pub. L. 100–50, §14(18), added subpar. (C).
+<b>1987</b>—Subsec. (a)(1)(C). Pub. L. 100–50, §14(18), added subpar. (C).
 
 Subsec. (b)(2). Pub. L. 100–50, §14(1), substituted “section 1087rr of this title” for “section 1087ss of this title”.
 
@@ -316,7 +316,7 @@ Amendment by Pub. L. 110–84 effective July 1, 2009, see section 601(e) of Pub.
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub.L. 109–171, set out as a note under section 1002 of this title.
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
 Pub. L. 109–171, title VIII, §8017(c)(2), Feb. 8, 2006, 120 Stat. 173, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to determinations of need for periods of enrollment beginning on or after July 1, 2007.”
 

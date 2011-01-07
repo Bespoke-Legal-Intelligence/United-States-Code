@@ -64,19 +64,19 @@ In addition to the cooperation authorized in subsections (a) and (b) of this sec
 
 #### (e) Communication of data by other Government agencies
 
-The President may authorize any agency of the United States to communicate in accordance with the terms and conditions of an agreement for cooperation arranged pursuant to subsection (a), (b), (c), or (d) of this section, suchRestricted Data as is determined to be transmissible under the agreement for cooperation involved.
+The President may authorize any agency of the United States to communicate in accordance with the terms and conditions of an agreement for cooperation arranged pursuant to subsection (a), (b), (c), or (d) of this section, such Restricted Data as is determined to be transmissible under the agreement for cooperation involved.
 
 (Aug. 1, 1946, ch. 724, title I, §144, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 942; amended Pub. L. 85–479, §§5–7, July 2, 1958, 72 Stat. 278; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 103–337, div. C, title XXXI, §3155(a), (c)(4), Oct. 5, 1994, 108 Stat. 3091, 3092.)
 
 #### Amendments
 
-1994—Subsec. (d). Pub. L. 103–337, §3155(a)(2), added subsec. (d). Former subsec. (d) redesignated (e).
+<b>1994</b>—Subsec. (d). Pub. L. 103–337, §3155(a)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 103–337, §3155(c)(4), substituted “(c), or (d)” for “or (c)”.
 
 Pub. L. 103–337, §3155(a)(1), redesignated subsec. (d) as (e).
 
-1958—Subsec. (a). Pub. L. 85–479, §5, substituted “civilian reactor development” for “reactor development” in cl. (2).
+<b>1958</b>—Subsec. (a). Pub. L. 85–479, §5, substituted “civilian reactor development” for “reactor development” in cl. (2).
 
 Subsec. (b). Pub. L. 85–479, §6, authorized communication of design information, of data concerning other military applications of atomic energy necessary for the training of personnel or for the evaluation of the capabilities of potential enemies, and of data necessary to the development of compatible delivery systems for atomic weapons, and struck out provisions which prohibited communication of data which would reveal important information concerning the design or fabrication of the nuclear components of atomic weapons.
 

@@ -40,7 +40,7 @@
 
 #### Amendments
 
-2001—Pub. L. 107–95, §5(b)(1), renumbered section 1774 of this title as this section.
+<b>2001</b>—Pub. L. 107–95, §5(b)(1), renumbered section 1774 of this title as this section.
 
 Subsec. (b)(1). Pub. L. 107–95, §6(b)(1), inserted “annual” after “to make an”.
 

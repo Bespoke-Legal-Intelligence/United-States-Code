@@ -6,7 +6,7 @@ The sum of twenty-five thousand dollars is appropriated, or so much thereof as m
 
 #### Amendments
 
-1930—Act June 2, 1930, placed responsibility for maintaining monument and grounds with United States Government and authorized appropriations for expenses.
+<b>1930</b>—Act June 2, 1930, placed responsibility for maintaining monument and grounds with United States Government and authorized appropriations for expenses.
 
 #### Change of Name
 
@@ -16,7 +16,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 Administrative functions of Chalmette Monument and Grounds, Louisiana transferred to Department of the Interior by Ex. Ord. No. 6166, §2, and Ex. Ord. No. 6228, §1, set out as notes under section 901 of Title 5, Government Organization and Employees. National Park Service substituted for Office of National Parks, Buildings and Reservations referred to in Ex. Ord. No. 6166, §2, by act Mar. 2, 1934, ch. 38, §1, 48 Stat. 389.
 
-#### Chalmette National Historical Park
+#### Chalmette Unit of the Jean Lafitte National Historical Park and Preserve
 
-Designation of lands on which monument erected as Chalmette National Historical Park, see section 231 of this title.
+Designation of lands on which monument erected as Chalmette Unit of the Jean Lafitte National Historical Park and Preserve, see section 231 of this title.
 

@@ -32,13 +32,13 @@
 
 #### (b) Liability of purchaser
 
-(1) For the purposes of this part, the liability of the purchaser shall be determined as if thepurchaser had been required to contribute to the plan in the year of the sale and the 4 plan years preceding the sale the amount the seller was required to contribute for such operations for such 5 plan years.
+(1) For the purposes of this part, the liability of the purchaser shall be determined as if the purchaser had been required to contribute to the plan in the year of the sale and the 4 plan years preceding the sale the amount the seller was required to contribute for such operations for such 5 plan years.
 
 (2) If the plan is in reorganization in the plan year in which the sale of assets occurs, the purchaser shall furnish a bond or escrow in an amount equal to 200 percent of the amount described in subsection (a)(1)(B) of this section.
 
 #### (c) Variances or exemptions from continuation of liability of seller; procedures applicable
 
-The corporation may by regulation vary the standards in subparagraphs (B) and (C) of subsection (a)(1) of this section if the variance would more effectively or equitably carry out the purposes of this subchapter. Before it promulgates such regulations, the corporation may grant individual or class variances or exemptions from the requirements of such subparagraphs if the particular case warrants it. Before granting such an individual or class variance or exemption, the corporation—
+The corporation may by regulation vary the standards in subparagraphs (B) and (C) of subsection (a)(1) of this section if the variance would more effectively or equitably carry out the purposes of this subchapter. Before it promulgates such regulations, the corporation may grant individual or class variances or exemptions from the requirements of such subparagraphs if the particular case warrants it. Beforegranting such an individual or class variance or exemption, the corporation—
 
 &emsp;(1) shall publish notice in the Federal Register of the pendency of the variance or exemption,
 
@@ -54,7 +54,7 @@ For purposes of this section, the term “unrelated party” means a purchaser o
 
 #### Amendments
 
-1989—Subsec. (d). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1989</b>—Subsec. (d). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 #### Effective Date of 1989 Amendment
 

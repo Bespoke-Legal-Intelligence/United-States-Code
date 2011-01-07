@@ -78,7 +78,7 @@ A prior section 126 was renumbered section 140 of this title.
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–222, §105(a)(7)(C), (E), inserted in par. (9) “or his delegate” after “Secretary of the Treasury” and substituted in par. (10) “Any program of a State, possession of the United States, a political subdivision of any of the foregoing, or the District of Columbia” for “Any State program”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–222, §105(a)(7)(C), (E), inserted in par. (9) “or his delegate” after “Secretary of the Treasury” and substituted in par. (10) “Any program of a State, possession of the United States, a political subdivision of any of the foregoing, or the District of Columbia” for “Any State program”.
 
 Subsec. (b). Pub. L. 96–222, §105(a)(7)(A), inserted provisions relating to payments not chargeable to capital account.
 

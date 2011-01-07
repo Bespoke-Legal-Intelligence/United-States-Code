@@ -12,5 +12,5 @@ Section was not enacted as part of the Organic Act of Guam which comprises this 
 
 #### Amendments
 
-1977—Pub. L. 95–134 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1977</b>—Pub. L. 95–134 designated existing provisions as subsec. (a) and added subsec. (b).
 

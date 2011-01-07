@@ -14,7 +14,7 @@ From funds reserved pursuant to section 2321(a)(1)(A) of this title, the Secreta
 
 #### (1) First year
 
-&emsp;Subject to subsection (a), for the first fiscal year following August 12, 2006, the Secretary shall make a grant of the remainder of funds reserved pursuant to section 2321(a)(1)(A) of this title to the Pacific Region Educational Laboratory in Honolulu, Hawaii, to make grants for career and technical education and training in Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, for the purpose of providing direct career and technical educational services, including—
+&emsp;Subject to subsection (a), for the first fiscal year following August 12, 2006, the Secretaryshall make a grant of the remainder of funds reserved pursuant to section 2321(a)(1)(A) of this title to the Pacific Region Educational Laboratory in Honolulu, Hawaii, to make grants for career and technical education and training in Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, for the purpose of providing direct career and technical educational services, including—
 
 &emsp;&emsp;(A) teacher and counselor training and retraining;
 

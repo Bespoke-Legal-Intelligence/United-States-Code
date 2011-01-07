@@ -16,7 +16,7 @@ Act Aug. 14, 1876, ch. 267, §3, 19 Stat. 139, penalizing persons injuring any p
 
 #### Amendments
 
-1985—Pub. L. 99–88 inserted further proviso empowering Secretary, on recommendation of Chief of Engineers, to grant permission for alteration or permanent occupation or use of any of public works mentioned in this section when in judgment of Secretary such occupation or use will not be injurious to public interest and will not impair usefulness of such work.
+<b>1985</b>—Pub. L. 99–88 inserted further proviso empowering Secretary, on recommendation of Chief of Engineers, to grant permission for alteration or permanent occupation or use of any of public works mentioned in this section when in judgment of Secretary such occupation or use will not be injurious to public interest and will not impair usefulness of such work.
 
 #### Change of Name
 

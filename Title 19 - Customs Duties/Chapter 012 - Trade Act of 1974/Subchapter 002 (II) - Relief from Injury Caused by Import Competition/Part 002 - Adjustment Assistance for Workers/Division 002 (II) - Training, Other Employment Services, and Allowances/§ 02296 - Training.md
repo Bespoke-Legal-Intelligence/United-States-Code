@@ -20,9 +20,9 @@
 
 (2)(A) The total amount of payments that may be made under paragraph (1) shall not exceed—
 
-&emsp;(i) for each of the fiscal years 2009 and 2010, $575,000,000; and
+&emsp;(i) $575,000,000 for fiscal year 2010; and
 
-&emsp;(ii) for the period beginning October 1, 2010, and ending December 31, 2010, $143,750,000.
+&emsp;(ii) $66,500,000 for the 6-week period beginning January 1, 2011, and ending February 12, 2011.
 
 (B)(i) The Secretary shall, as soon as practicable after the beginning of each fiscal year, make an initial distribution of the funds made available to carry out this section, in accordance with the requirements of subparagraph (C).
 
@@ -86,7 +86,7 @@
 
 &emsp;(G) any other training program approved by the Secretary, and
 
-&emsp;(H) any training program or coursework at an accredited institution of higher education\(described in section 1002 of title 20), including a training program or coursework for the purpose of—
+&emsp;(H) any training program or coursework at an accredited institution of higher education (described in section 1002 of title 20), including a training program or coursework for the purpose of—
 
 &emsp;&emsp;(i) obtaining a degree or certification; or
 
@@ -252,7 +252,7 @@ For purposes of this section, the term “customized training” means training 
 
 &emsp;Notwithstanding paragraph (1), a worker participating in part-time training approved under subsection (a) may not receive a trade readjustment allowance under section 2291 of this title.
 
-(Pub. L. 93–618, title II, §236, Jan. 3, 1975, 88 Stat. 2023; Pub. L. 97–35, title XXV, §2506(2), Aug. 13, 1981, 95 Stat. 885; Pub. L. 99–272, title XIII, §13004(a), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §1424(a)–(c), Aug. 23, 1988, 102 Stat. 1248, 1249; Pub. L. 100–647, title IX, §9001(a)(20), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 103–66, title XIII, §13803(b), Aug. 10, 1993, 107 Stat. 668; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(14)(A), (f)(11)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 107–210, div. A, title I, §§117, 118, Aug. 6, 2002, 116 Stat. 941; Pub. L. 109–270, §2(b)(2), Aug. 12, 2006, 120 Stat. 746; Pub. L. 111–5, div. B, title I, §§1828(a)–(c), 1829(a), (c), 1830(a)(1), (b), 1831, 1832, Feb. 17, 2009, 123 Stat. 381–386.)
+(Pub. L. 93–618, title II, §236, Jan. 3, 1975, 88 Stat. 2023; Pub. L. 97–35, title XXV, §2506(2), Aug. 13, 1981, 95 Stat. 885; Pub. L. 99–272, title XIII, §13004(a), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §1424(a)–(c), Aug. 23, 1988, 102 Stat. 1248, 1249; Pub. L. 100–647, title IX, §9001(a)(20), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 103–66, title XIII, §13803(b), Aug. 10, 1993, 107 Stat. 668; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(14)(A), (f)(11)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 107–210, div. A, title I, §§117, 118, Aug. 6, 2002, 116 Stat. 941; Pub. L. 109–270, §2(b)(2), Aug. 12, 2006, 120 Stat. 746; Pub. L. 111–5, div. B, title I, §§1828(a)–(c), 1829(a), (c), 1830(a)(1), (b), 1831, 1832, Feb. 17, 2009, 123 Stat. 381–386; Pub. L. 111–344, title I, §101(c)(1), Dec. 29, 2010, 124 Stat. 3613.)
 
 #### Amendment of Section
 
@@ -268,7 +268,13 @@ Section 102 of such Act, referred to in subsec. (a)(5)(C), meaning section 102 o
 
 #### Amendments
 
-2009—Subsec. (a)(1). Pub. L. 111–5, §§1831(b), 1893, in concluding provisions, temporarily struck out last sentence which read as follows: “Insofar as possible, the Secretary shall provide or assure the provision of such training on the job, which shall include related education necessary for the acquisition of skills needed for a position within a particular occupation.” See Effective and Termination Dates of 2009 Amendment note below.
+<b>2010</b>—Subsec. (a)(2)(A). Pub. L. 111–344 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The total amount of payments that may be made under paragraph (1) shall not exceed—
+
+&emsp;“(i) for each of the fiscal years 2009 and 2010, $575,000,000; and
+
+&emsp;“(ii) for the period beginning October 1, 2010, and ending December 31, 2010, $143,750,000.”
+
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–5, §§1831(b), 1893, in concluding provisions, temporarily struck out last sentence which read as follows: “Insofar as possible, the Secretary shall provide or assure the provision of such training on the job, which shall include related education necessary for the acquisition of skills needed for a position within a particular occupation.” See Effective and Termination Dates of 2009 Amendment note below.
 
 Pub. L. 111–5, §§1830(a)(1)(A), 1893, temporarily inserted “, with respect to an adversely affected worker or an adversely affected incumbent worker,” after “determines” in introductory provisions. See Effective and Termination Dates of 2009 Amendment note below.
 
@@ -296,7 +302,7 @@ Subsec. (a)(5)(E) to (H). Pub. L. 111–5, §§1829(a)(2)–(6), 1893, temporari
 
 Subsec. (a)(6)(B), (7)(B). Pub. L. 111–5, §§1830(a)(1)(D), (E), 1893, temporarily inserted “or adversely affected incumbent worker” after “adversely affected worker”. See Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(9). Pub. L. 111–5, §§1828(b), 1893, temporarily designated existing provisions as subpar. (A), substituted “Subject to subparagraph (B), the Secretary” for “The Secretary”, and added subpar. (B). SeeEffective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(9). Pub. L. 111–5, §§1828(b), 1893, temporarily designated existing provisions as subpar. (A), substituted “Subject to subparagraph (B), the Secretary” for “The Secretary”, and added subpar. (B). See Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (a)(10), (11). Pub. L. 111–5, §§1830(a)(1)(F), 1893, temporarily added pars. (10) and (11). See Effective and Termination Dates of 2009 Amendment note below.
 
@@ -308,9 +314,9 @@ Subsec. (d). Pub. L. 111–5, §§1832, 1893, temporarily amended subsec. (d) ge
 
 Subsecs. (g), (h). Pub. L. 111–5, §§1828(c), 1830(b), 1893, temporarily added subsecs. (g) and (h). See Effective and Termination Dates of 2009 Amendment note below.
 
-2006—Subsec. (a)(1)(D). Pub. L. 109–270 substituted “area career and technical education schools, as defined in section 2302 of title 20” for “area vocational education schools, as defined in section 195(2) of the Vocational Education Act of 1963”.
+<b>2006</b>—Subsec. (a)(1)(D). Pub. L. 109–270 substituted “area career and technical education schools, as defined in section 2302 of title 20” for “area vocational education schools, as defined in section 195(2) of the Vocational Education Act of 1963”.
 
-2002—Subsec. (a)(2)(A). Pub. L. 107–210, §117, substituted “$220,000,000” for “$80,000,000, except that for fiscal year 1997, the total amount of payments made under paragraph (1) shall not exceed $70,000,000”.
+<b>2002</b>—Subsec. (a)(2)(A). Pub. L. 107–210, §117, substituted “$220,000,000” for “$80,000,000, except that for fiscal year 1997, the total amount of payments made under paragraph (1) shall not exceed $70,000,000”.
 
 Subsec. (a)(5)(A). Pub. L. 107–210, §118(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “on-the-job training,”.
 
@@ -318,13 +324,13 @@ Subsec. (c)(8). Pub. L. 107–210, §118(b), amended par. (8) generally. Prior t
 
 Subsec. (f). Pub. L. 107–210, §118(c), added subsec. (f).
 
-1998—Subsec. (a)(5)(B). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(11)(A)\], struck out “section 1653 of title 29 or” before “title I of”.
+<b>1998</b>—Subsec. (a)(5)(B). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(11)(A)\], struck out “section 1653 of title 29 or” before “title I of”.
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(14)(A)\], substituted “section 1653 of title 29 or title I of the Workforce Investment Act of 1998” for “section 1653 of title 29”.
 
-1993—Subsec. (a)(2)(A). Pub. L. 103–66 inserted before period at end “, except that for fiscal year 1997, the total amount of payments made under paragraph (1) shall not exceed $70,000,000”.
+<b>1993</b>—Subsec. (a)(2)(A). Pub. L. 103–66 inserted before period at end “, except that for fiscal year 1997, the total amount of payments made under paragraph (1) shall not exceed $70,000,000”.
 
-1988—Subsec. (a)(1). Pub. L. 100–418, §1424(a)(5)–(7), struck out “(to the extent appropriated funds are available)” after “the Secretary shall” in first sentence, and in second sentence inserted “(subject to the limitations imposed by this section)” after “costs of such training” and “directly or through a voucher system” after “by the Secretary”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–418, §1424(a)(5)–(7), struck out “(to the extent appropriated funds are available)” after “the Secretary shall” in first sentence, and in second sentence inserted “(subject to the limitations imposed by this section)” after “costs of such training” and “directly or through a voucher system” after “by the Secretary”.
 
 Subsec. (a)(1)(D). Pub. L. 100–418, §1424(a)(1), substituted “is reasonably available” for “is available”.
 
@@ -350,7 +356,7 @@ Pub. L. 100–418, §1424(c)(2), (3), redesignated subsec. (d) as (c), and struc
 
 Subsecs. (d) to (f). Pub. L. 100–418, §1424(c)(3), redesignated subsecs. (e) and (f) as (d) and (e), respectively. Former subsec. (d) redesignated (c).
 
-1986—Subsec. (a)(1). Pub. L. 99–272, §13004(a)(2), substituted “shall (to the extent appropriated funds are available) approve” for “may approve” in first sentence.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–272, §13004(a)(2), substituted “shall (to the extent appropriated funds are available) approve” for “may approve” in first sentence.
 
 Subsec. (a)(1)(A). Pub. L. 99–272, §13004(a)(1), substituted “for an adversely affected worker” for “for a worker”.
 
@@ -362,13 +368,17 @@ Subsec. (e). Pub. L. 99–272, §13004(a)(3), (5), redesignated par. (2) of subs
 
 Subsec. (f). Pub. L. 99–272, §13004(a)(4), (5), redesignated par. (3) of subsec. (a) as subsec. (f) and substituted “this section” for “this subsection”.
 
-1981—Subsec. (a). Pub. L. 97–35 redesignated existing provisions as par. (1), revised provisions, made changes in nomenclature, inserted provisions respecting availability, payment, and scope of training, and added pars. (2) and (3).
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 redesignated existing provisions as par. (1), revised provisions, made changes in nomenclature, inserted provisions respecting availability, payment, and scope of training, and added pars. (2) and (3).
 
-Subsec. (b). Pub. L. 97–35 substituted provisions limiting the maximum amount of travel expenses on the basis of amounts paid under Federal travel regulations for provisions establishing specific maximum amounts for subsistence and transportation expenses.
+Subsec. (b). Pub. L. 97–35 substituted provisions limiting the maximum amount of travel expenses on the basis of amounts paid under Federal travel regulationsfor provisions establishing specific maximum amounts for subsistence and transportation expenses.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–344 effective Jan. 1, 2011, see section 101(d) of Pub. L. 111–344, set out as a note preceding section 2271 of this title.
 
 #### Effective and Termination Dates of 2009 Amendment
 
-Pub. L. 111–5, div. B, title I, §1828(d), Feb. 17, 2009, 123 Stat. 382, provided that: “This section \[amending this section\] and the amendments made by this sectionshall take effect upon the expiration of the 90-day period beginning on the date of the enactment of this Act \[Feb. 17, 2009\], except that—
+Pub. L. 111–5, div. B, title I, §1828(d), Feb. 17, 2009, 123 Stat. 382, provided that: “This section \[amending this section\] and the amendments made by this section shall take effect upon the expiration of the 90-day period beginning on the date of the enactment of this Act \[Feb. 17, 2009\], except that—
 
 &emsp;“(1) subparagraph (A) of section 236(a)(2) of the Trade Act of 1974 \[19 U.S.C. 2296(a)(2)(A)\], as amended by subsection (a) of this section, shall take effect on the date of the enactment of this Act; and
 
@@ -376,7 +386,7 @@ Pub. L. 111–5, div. B, title I, §1828(d), Feb. 17, 2009, 123 Stat. 382, provi
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Jan. 1, 2011, and this section to be applied and administered beginning Jan. 1, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
 
 #### Effective Date of 2002 Amendment
 
@@ -398,11 +408,11 @@ Amendment by Pub. L. 97–35 effective for determinations made or filed after Se
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2010, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Feb. 12, 2011, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (d) of this section relating to submitting a quarterly report to Congress on funds for training under subsec. (a) of this section, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 124 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (d) relating to submitting a quarterly report to Congress on funds for training under subsec. (a), see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 124 of House Document No. 103–7.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

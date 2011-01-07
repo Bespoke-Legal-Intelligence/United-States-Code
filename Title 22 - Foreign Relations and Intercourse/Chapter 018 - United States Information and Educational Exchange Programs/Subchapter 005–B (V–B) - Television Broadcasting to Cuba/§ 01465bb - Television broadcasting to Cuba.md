@@ -56,7 +56,7 @@ Section was enacted as part of the Television Broadcasting to Cuba Act which com
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–277, §1325(1), substituted “Broadcasting Board of Governors” for “United States Information Agency”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §1325(1), substituted “Broadcasting Board of Governors” for “United States Information Agency”.
 
 Subsec. (c). Pub. L. 105–277, §1325(2), in heading struck out “USIA” before “Television” and in text substituted “the ‘Television” for “ ‘USIA Television”.
 

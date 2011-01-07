@@ -26,11 +26,11 @@ Members of the Board shall receive no compensation on account of their service o
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–277, §1335(f)(1), substituted “7 members” for “9 members” in introductory provisions.
+<b>1998</b>—Subsec. (b). Pub. L. 105–277, §1335(f)(1), substituted “7 members” for “9 members” in introductory provisions.
 
 Subsec. (b)(3), (4). Pub. L. 105–277, §1335(f)(2)–(4), redesignated par. (4) as (3), substituted “Five” for “Six”, and struck out former par. (3) which read as follows: “An officer or employee of the United States Information Agency, designated by the Director of that Agency.”
 
-1990—Subsec. (b)(4). Pub. L. 101–454 substituted “international affairs or foreign languages,” for “Soviet or Eastern European area studies or languages,”.
+<b>1990</b>—Subsec. (b)(4). Pub. L. 101–454 substituted “international affairs or foreign languages,” for “Soviet or Eastern European area studies or languages,”.
 
 #### Effective Date of 1998 Amendment
 

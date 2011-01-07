@@ -32,7 +32,11 @@
 
 (f) The Secretary of Defense shall, by regulation, prescribe a schedule for the allocation of funds made available to carry out the provisions of this section and section 16301 of this title during any year for which funds are not sufficient to pay the sum of the amounts eligible for repayment under subsection (a) and section 16301(a) of this title.
 
-(Added Pub. L. 99–145, title VI, §671(a)(1), Nov. 8, 1985, 99 Stat. 661; amended Pub. L. 103–337, div. A, title XVI, §1663(e), Oct. 5, 1994, 108 Stat. 3009; Pub. L. 104–106, div. A, title X, §1079(a), Feb. 10, 1996, 110 Stat. 451; Pub. L. 109–163, div. A, title V, §537, Jan. 6, 2006, 119 Stat. 3249.)
+(g) Except a person described in subsection (e) who transfers to service making the person eligible for repayment of loans under section 16301 of this title, a member of the armed forces who fails to complete the period of service required to qualify for loan repayment under this section shall be subject to the repayment provisions of section 303a(e) of title 37.
+
+(h) The Secretary of Defense may prescribe, by regulations, procedures for implementing this section, including standards for qualified loans and authorized payees and other terms and conditions for making loan repayments. Such regulations may include exceptions that would allow for the payment as a lump sum of any loan repayment due to a member under a written agreement that existed at the time of a member's death or disability.
+
+(Added Pub. L. 99–145, title VI, §671(a)(1), Nov. 8, 1985, 99 Stat. 661; amended Pub. L. 103–337, div. A, title XVI, §1663(e), Oct. 5, 1994, 108 Stat. 3009; Pub. L. 104–106, div. A, title X, §1079(a), Feb. 10, 1996, 110 Stat. 451; Pub. L. 109–163, div. A, title V, §537, Jan. 6, 2006, 119 Stat. 3249; Pub. L. 111–383, div. A, title V, §552(a), Jan. 7, 2011, 124 Stat. 4220.)
 
 #### References in Text
 
@@ -40,13 +44,15 @@ The Higher Education Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89�
 
 #### Amendments
 
-2006—Subsec. (a)(1)(D). Pub. L. 109–163, §537(a), added subpar. (D).
+<b>2011</b>—Subsecs. (g), (h). Pub. L. 111–383 added subsecs. (g) and (h).
+
+<b>2006</b>—Subsec. (a)(1)(D). Pub. L. 109–163, §537(a), added subpar. (D).
 
 Subsec. (a)(2). Pub. L. 109–163, §537(b), substituted “a member in an officer program or military specialty” for “an enlisted member in a military specialty”.
 
-1996—Subsec. (a)(1). Pub. L. 104–106 struck out “or” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–106 struck out “or” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
 
-1994—Pub. L. 103–337, §1663(e)(6), substituted “Education loan repayment program: enlisted members on active duty in specified military specialties” for “General educational loan repayment program” as section catchline.
+<b>1994</b>—Pub. L. 103–337, §1663(e)(6), substituted “Education loan repayment program: enlisted members on active duty in specified military specialties” for “General educational loan repayment program” as section catchline.
 
 Subsec. (a)(1)(B). Pub. L. 103–337, §1663(e)(1), struck out “or” after “(B)”.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-For the purpose of developing, maintaining, and expanding international markets for United States agricultural commodities, the Secretary of Agriculture, after consultation with the Secretary of State, shall establish not less than sixnor more than twenty-five United States Agricultural Trade Offices in other nations.
+For the purpose of developing, maintaining, and expanding international markets for United States agricultural commodities, the Secretary of Agriculture, after consultation with the Secretary of State, shall establish not less than six nor more than twenty-five United States Agricultural Trade Offices in other nations.
 
 #### (b) Administration
 
@@ -33,10 +33,6 @@ No employee of any United States Agricultural Trade Office may engage in any bus
 Upon the request of the Secretary of Agriculture, the Secretary of State shall request for Agricultural Trade Officers and personnel of United States Agricultural Trade Offices diplomatic privileges and immunities equivalent to those enjoyed by members of the Foreign Service of comparable rank and salary.
 
 (Aug. 28, 1954, ch. 1041, title VI, §605A, as added Pub. L. 95–501, title IV, §401(1), Oct. 21, 1978, 92 Stat. 1688; amended Pub. L. 96–465, title II, §2206(b)(1), Oct. 17, 1980, 94 Stat. 2162.)
-
-#### References in Text
-
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (c), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
 

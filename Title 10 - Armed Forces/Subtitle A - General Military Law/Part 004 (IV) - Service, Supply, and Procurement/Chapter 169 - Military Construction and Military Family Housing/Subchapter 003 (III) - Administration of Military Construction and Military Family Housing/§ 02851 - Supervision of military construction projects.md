@@ -10,7 +10,7 @@ Supervision of Defense Agency Projects.—A military construction project for an
 
 (c)
 
-Maintenance of Military Construction Information on Internet; Access.—(1) The Secretary of Defense shall maintain an Internet site that, when activated by a person authorized under paragraph (3), will permit the person to access and view on a separate page of the Internet site a document or other file containing the information required by paragraph (2) for the following:
+Maintenance of Military Construction Information on Internet; Access.—(1) The Secretary of Defense shall maintain an Internet site that will permit a person to access and view on a separate page of the Internet site a document or other file containing the information required by paragraph (2) for the following:
 
 &emsp;(A) Each military construction project or military family housing project that has been specifically authorized by Act of Congress.
 
@@ -34,25 +34,27 @@ Maintenance of Military Construction Information on Internet; Access.—(1) The 
 
 &emsp;(E) The current contract obligation of funds for the project, including any changes to the original contract award amount.
 
-&emsp;(F) The estimated final cost of the project and, if the estimated final cost of the project exceeds the amount appropriated for the project and funds have been provided from another source to meet the increased cost, the source of the funds and the amount provided.
+&emsp;(F) If funds appropriated for the project have been diverted for use in another project, the project to which the funds were diverted and the amount so diverted.
 
-&emsp;(G) If funds appropriated for the project have been diverted for use in another project, the project to which the funds were diverted and the amount so diverted.
+&emsp;(G) For accounts such as planning and design, unspecified minor construction, and family housing operation and maintenance, detailed information regarding expenditures and anticipated expenditures under these accounts and the purposes for which the expenditures are made.
 
-&emsp;(H) For accounts such as planning and design, unspecified minor construction, and family housing operation and maintenance, detailed information regarding expenditures and anticipated expenditures under these accounts and the purposes for which the expenditures are made.
+(3) The information required to be provided for each project described in paragraph (1) shall be made available on the Internet site required by such paragraph not later than 90 days after the award of a contract or delivery order for the project. The Secretary of Defense shall update the required information as promptly as practicable, but not less frequently than once a month, to ensure that the information is available in a timely manner.
 
-(3) Access to the Internet site required by paragraph (1) shall be restricted to the following persons:
-
-&emsp;(A) Members of the congressional defense committees and their staff.
-
-&emsp;(B) Staff of the congressional defense committees.
-
-(4) The information required to be provided for each project described in paragraph (1) shall be made available to the persons referred to in paragraph (3) not later than 90 days after the award of a contract or delivery order for theproject. The Secretary of Defense shall update the required information as promptly as practicable, but not less frequently than once a month, to ensure that the information is available to such persons in a timely manner.
-
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 163; amended Pub. L. 109–163, div. B, title XXVIII, §2803(a), (c), Jan. 6, 2006, 119 Stat. 3505, 3506.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 163; amended Pub. L. 109–163, div. B, title XXVIII, §2803(a), (c), Jan. 6, 2006, 119 Stat. 3505, 3506; Pub. L. 111–383, div. B, title XXVIII, §2801, Jan. 7, 2011, 124 Stat. 4458.)
 
 #### Amendments
 
-2006—Subsecs. (a), (b). Pub. L. 109–163, §2803(c), inserted headings.
+<b>2011</b>—Subsec. (c)(1). Pub. L. 111–383, §2801(c)(1), substituted “that will permit a person” for “that, when activated by a person authorized under paragraph (3), will permit the person”.
+
+Subsec. (c)(2)(F) to (H). Pub. L. 111–383, §2801(a), redesignated subpars. (G) and (H) as (F) and (G), respectively, and struck out former subpar. (F) which read as follows: “The estimated final cost of the project and, if the estimated final cost of the project exceeds the amount appropriated for the project and funds have been provided from another source to meet the increased cost, the source of the funds and the amount provided.”
+
+Subsec. (c)(3), (4). Pub. L. 111–383, §2801(b), (c)(2), redesignated par. (4) as (3), substituted “on the Internet site required by such paragraph” for “to the persons referred to in paragraph (3)” and struck out “to such persons” before “in a timely manner”, and struck out former par. (3) which read as follows: “Access to the Internet site required by paragraph (1) shall be restricted to the following persons:
+
+&emsp;“(A) Members of the congressional defense committees and their staff.
+
+&emsp;“(B) Staff of the congressional defense committees.”
+
+<b>2006</b>—Subsecs. (a), (b). Pub. L. 109–163, §2803(c), inserted headings.
 
 Subsec. (c). Pub. L. 109–163, §2803(a), added subsec. (c).
 

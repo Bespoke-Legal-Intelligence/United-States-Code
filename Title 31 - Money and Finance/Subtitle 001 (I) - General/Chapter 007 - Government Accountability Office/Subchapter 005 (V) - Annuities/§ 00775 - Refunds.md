@@ -70,7 +70,7 @@ In subsection (b), the words “who has elected to bring himself within the purv
 
 In subsection (c), before clause (1), the words “A lump-sum refund of the amounts deducted under sections 772 and 773 of this title” are substituted for “total amount deducted from his salary and retirement pay” for clarity. The words “under subsection (d) of this section” are added because of the restatement. The words “to the person or persons surviving at the date title to payment arises” are omitted as surplus.
 
-In subsection (d), the words before clause (1) are included for clarity. In clauses (2)–(4) and (6), the words“of such Comptroller General or retired Comptroller General” are omitted as surplus. In clause (5), the words “duly appointed” are omitted as surplus.
+In subsection (d), the words before clause (1) are included for clarity. In clauses (2)–(4) and (6), the words “of such Comptroller General or retired Comptroller General” are omitted as surplus. In clause (5), the words “duly appointed” are omitted as surplus.
 
 In subsection (e), the words “of a Comptroller General or retired Comptroller General” are omitted as surplus. The words “is not subject to” are substituted for “shall be made . . . without regard to the definitions of these terms in” to eliminate unnecessary words.
 
@@ -78,5 +78,5 @@ In subsection (f), the word “individuals” is substituted for “persons” f
 
 #### Amendments
 
-2004—Subsec. (d)(1), (6). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (d)(1), (6). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

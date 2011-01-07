@@ -44,7 +44,7 @@ Jan. 3, 1975, Pub. L. 93–633, §105(d), 88 Stat. 2157; restated Nov. 16, 1990,
 
 #### Amendments
 
-2005—Subsec. (b). Pub. L. 109–59, §7126, substituted “Secretary may” for “Secretary of Transportation may”.
+<b>2005</b>—Subsec. (b). Pub. L. 109–59, §7126, substituted “Secretary may” for “Secretary of Transportation may”.
 
 Pub. L. 109–59, §7117(a), inserted “and requirements” after “standards”.
 

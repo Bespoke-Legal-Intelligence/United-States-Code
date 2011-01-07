@@ -14,7 +14,7 @@ Limitation on Working Group.—The working group may not propose to define or li
 
 (d)
 
-Procedure.—The Secretary shall develop a procedure for the working group to employ in developing recommendations for the Secretary to harmonize existing State registration and permit laws and regulations relating to the transportation of hazardous materials, with special attention paid to each State's unique safetyconcerns and interest in maintaining strong hazmat safety standards.
+Procedure.—The Secretary shall develop a procedure for the working group to employ in developing recommendations for the Secretary to harmonize existing State registration and permit laws and regulations relating to the transportation of hazardous materials, with special attention paid to each State's unique safety concerns and interest in maintaining strong hazmat safety standards.
 
 (e)
 
@@ -28,7 +28,7 @@ Regulations.—Not later than 18 months after the date the working group's repor
 
 Limitation on Statutory Construction.—Nothing in this section shall be construed as prohibiting a State from voluntarily participating in a program of uniform forms and procedures until such time as the Secretary issues regulations under subsection (f).
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 777; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 109–59, title VII, §7116, Aug. 10, 2005, 119 Stat. 1901.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 777; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389;Pub. L. 109–59, title VII, §7116, Aug. 10, 2005, 119 Stat. 1901.)
 
 Historical and Revision Notes
 
@@ -76,7 +76,7 @@ The date of enactment of this subsection, referred to in subsec. (e), is the dat
 
 #### Amendments
 
-2005—Pub. L. 109–59 reenacted section catchline without change and amended text generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to establishment of working group, consultation and reporting, regulations, and relationship to other laws.
+<b>2005</b>—Pub. L. 109–59 reenacted section catchline without change and amended text generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to establishment of working group, consultation and reporting, regulations, and relationship to other laws.
 
-1996—Subsec. (b)(2), Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+<b>1996</b>—Subsec. (b)(2), Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
 

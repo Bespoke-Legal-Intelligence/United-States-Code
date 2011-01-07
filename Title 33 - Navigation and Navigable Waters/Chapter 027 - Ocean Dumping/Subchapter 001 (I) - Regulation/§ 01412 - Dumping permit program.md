@@ -42,7 +42,7 @@ The Administrator may establish and issue various categories of permits, includi
 
 #### (2) Prohibitions regarding site or time period
 
-&emsp;In any case where the Administrator determines that, with respect to certain materials, it is necessary to prohibit dumping at a site or during a time period, the Administrator shall prohibit the dumping of such materials in such site or during such time period. This prohibition shall apply to any dumping at the site or during such time period. This prohibitionshall apply to any dumping at the site or during the time period, including any dumping under section 1413(e) of this title.
+&emsp;In any case where the Administrator determines that, with respect to certain materials, it is necessary to prohibit dumping at a site or during a time period, the Administrator shall prohibit the dumping of such materials in such site or during such time period. This prohibition shall apply to any dumping at the site or during such time period. This prohibition shall apply to any dumping at the site or during the time period, including any dumping under section 1413(e) of this title.
 
 #### (3) Dredged material disposal sites
 
@@ -84,19 +84,19 @@ This Act, referred to in subsec. (c)(4), means Pub. L. 92–532, which is classi
 
 #### Amendments
 
-2007—Subsec. (c)(4). Pub. L. 110–114 substituted “January 1, 2011” for “January 1, 2003” in third sentence.
+<b>2007</b>—Subsec. (c)(4). Pub. L. 110–114 substituted “January 1, 2011” for “January 1, 2003” in third sentence.
 
-1999—Subsec. (c)(4). Pub. L. 106–53 substituted “January 1, 2003” for “January 1, 2000” in third sentence.
+<b>1999</b>—Subsec. (c)(4). Pub. L. 106–53 substituted “January 1, 2003” for “January 1, 2000” in third sentence.
 
-1996—Subsec. (e)(4). Pub. L. 104–303 inserted “(other than the site located off the coast of Newport Beach, California, which is known as ‘LA–3’)” after “for a site” and inserted at end “Beginning January 1, 2000, no permit for dumping pursuant to this Act or authorization for dumping under section 1413(e) of this title shall be issued for the site located off the coast of Newport Beach, California, which is known as ‘LA–3’, unless such site has received a final designation pursuant to this subsection or an alternative site has been selected pursuant to section 1413(b) of this title.”
+<b>1996</b>—Subsec. (e)(4). Pub. L. 104–303 inserted “(other than the site located off the coast of Newport Beach, California, which is known as ‘LA–3’)” after “for a site” and inserted at end “Beginning January 1, 2000, no permit for dumping pursuant to this Act or authorization for dumping under section 1413(e) of this title shall be issued for the site located off the coast of Newport Beach, California, which is known as ‘LA–3’, unless such site has received a final designation pursuant to this subsection or an alternative site has been selected pursuant to section 1413(b) of this title.”
 
-1992—Subsec. (c). Pub. L. 102–580 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Administrator may, considering the criteria established pursuant to subsection (a) of this section, designate recommended sites or times for dumping and, when he finds it necessary to protect critical areas, shall, after consultation with the Secretary, also designate sites or times within which certain materials may not be dumped.”
+<b>1992</b>—Subsec. (c). Pub. L. 102–580 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Administrator may, considering the criteria established pursuant to subsection (a) of this section, designate recommended sites or times for dumping and, when he finds it necessary to protect critical areas, shall, after consultation with the Secretary, also designate sites or times within which certain materials may not be dumped.”
 
-1988—Subsec. (a). Pub. L. 100–688 substituted “agents, high-level” for “agents and high-level” and inserted “and medical waste,” after “radioactive waste,”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–688 substituted “agents, high-level” for “agents and high-level” and inserted “and medical waste,” after “radioactive waste,”.
 
-1980—Subsec. (e). Pub. L. 96–572 inserted applicability to United States agency or instrumentality, and proviso respecting such agency or instrumentality.
+<b>1980</b>—Subsec. (e). Pub. L. 96–572 inserted applicability to United States agency or instrumentality, and proviso respecting such agency or instrumentality.
 
-1974—Subsec. (a). Pub. L. 93–254, §1(4)(A), substituted “for which no permit may be issued,” for “as provided for in section 1411 of this title,”, inserted “or in the case of a vessel or aircraft registered in the United States or flying the United States flag,” after “instrumentality of the United States,”, and required the Administrator to apply the standards and criteria binding upon the United States under the Convention, including its Annexes.
+<b>1974</b>—Subsec. (a). Pub. L. 93–254, §1(4)(A), substituted “for which no permit may be issued,” for “as provided for in section 1411 of this title,”, inserted “or in the case of a vessel or aircraft registered in the United States or flying the United States flag,” after “instrumentality of the United States,”, and required the Administrator to apply the standards and criteria binding upon the United States under the Convention, including its Annexes.
 
 Subsec. (e). Pub. L. 93–254, §1(4)(B), added subsec. (e).
 

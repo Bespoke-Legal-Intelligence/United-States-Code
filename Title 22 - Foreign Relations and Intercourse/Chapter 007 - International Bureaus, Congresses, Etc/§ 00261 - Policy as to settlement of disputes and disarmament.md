@@ -4,6 +4,10 @@ It is declared to be the policy of the United States to adjust and settle its in
 
 (Aug. 29, 1916, ch. 417, 39 Stat. 618.)
 
+#### Short Title of 2010 Amendment
+
+Pub. L. 111–158, §1, Apr. 26, 2010, 124 Stat. 1121, provided that: “This Act \[enacting section 262p–12 of this title\] may be cited as the ‘Haiti Debt Relief and Earthquake Recovery Act of 2010’.”
+
 #### Short Title of 1977 Amendment
 
 Section 1 of Pub. L. 95–118, as added by Pub. L. 97–35, title XIII, §1361(a), Aug. 13, 1981, 95 Stat. 745, provided that: “This Act \[enacting sections 262c, 262d, 262e to 262g–3, 282i, 284n, 285s, 285t, 286e–1f, and 290g–10 of this title, repealing sections 283y, 284m, and 290g–9 of this title, and enacting provisions set out as notes under 262c and 282i of this title\] may be cited as the ‘International Financial Institutions Act’.”

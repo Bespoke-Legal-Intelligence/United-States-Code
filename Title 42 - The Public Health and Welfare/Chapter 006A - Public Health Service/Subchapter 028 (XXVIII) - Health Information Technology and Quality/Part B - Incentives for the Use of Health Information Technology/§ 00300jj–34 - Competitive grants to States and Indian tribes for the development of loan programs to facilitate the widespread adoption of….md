@@ -98,7 +98,7 @@ Except as otherwise limited by applicable State law, amounts deposited into a Lo
 
 #### (3) Guidance and regulations
 
-&emsp;The National Coordinator shall publish guidance and promulgate regulations as may benecessary to carry out the provisions of this section, including—
+&emsp;The National Coordinator shall publish guidance and promulgate regulations as may be necessary to carry out the provisions of this section, including—
 
 &emsp;&emsp;(A) provisions to ensure that each eligible entity commits and expends funds allotted to the entity under this section as efficiently as possible in accordance with this subchapter and applicable State laws; and
 
@@ -108,7 +108,7 @@ Except as otherwise limited by applicable State law, amounts deposited into a Lo
 
 #### (A) In general
 
-&emsp;&emsp;A Loan Fund established under this section may accept contributions from private sector entities, except that such entities may not specify the recipient or recipients of any loan issued under this subsection. An eligible entity may agree to reimburse a private sector entity for any contribution made under this subparagraph, except that the amount of such reimbursement may not be greater than the principal amount of the contribution made.
+&emsp;&emsp;A Loan Fund established under this section may accept contributions from private sector entities, except that such entitiesmay not specify the recipient or recipients of any loan issued under this subsection. An eligible entity may agree to reimburse a private sector entity for any contribution made under this subparagraph, except that the amount of such reimbursement may not be greater than the principal amount of the contribution made.
 
 #### (B) Availability of information
 

@@ -22,7 +22,7 @@ The words “to active duty” are substituted for the words “into the active 
 
 #### Amendments
 
-2006—Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, or the District of Columbia”.
+<b>2006</b>—Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, or the District of Columbia”.
 
-1988—Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
+<b>1988</b>—Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 

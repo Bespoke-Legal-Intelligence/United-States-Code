@@ -22,9 +22,9 @@ Provisions similar to this section were contained in sections 691 and 691a of th
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–73 inserted comma after “Hereafter” in original, which for purposes of codification had been translated as “On or after August 4, 1986,”, requiring no change in text.
+<b>1993</b>—Subsec. (a). Pub. L. 103–73 inserted comma after “Hereafter” in original, which for purposes of codification had been translated as “On or after August 4, 1986,”, requiring no change in text.
 
-1992—Subsec. (b). Pub. L. 102–421 substituted “individuals who are deaf” for “deaf individuals” after “training to” and for “the deaf” after “education of”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–421 substituted “individuals who are deaf” for “deaf individuals” after “training to” and for “the deaf” after “education of”.
 
 #### Effective Date of 1992 Amendment
 

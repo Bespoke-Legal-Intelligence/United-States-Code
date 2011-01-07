@@ -6,13 +6,13 @@ The Secretary may, upon application by an agency which is eligible for designati
 
 #### Amendments
 
-2007—Pub. L. 110–134 inserted “for a period of 5 years” after “provide financial assistance to such agency”.
+<b>2007</b>—Pub. L. 110–134 inserted “for a period of 5 years” after “provide financial assistance to such agency”.
 
-1998—Cl. (1). Pub. L. 105–285 substituted “enable the children” for “aid the children” and inserted “and attain school readiness” before the semicolon.
+<b>1998</b>—Cl. (1). Pub. L. 105–285 substituted “enable the children” for “aid the children” and inserted “and attain school readiness” before the semicolon.
 
-1994—Pub. L. 103–252 struck out subsec. (a) designation, in cl. (1), substituted “health, education, parental involvement, nutritional, social, and other services” for “health, nutritional, educational, social, and other services”, and struck out subsec. (b) which read as follows: “For purposes of providing financial assistance under subsection (a) of this section to agencies, the Secretary may not take into consideration whether such agency applies for or receives funds under subchapter V of this chapter.”
+<b>1994</b>—Pub. L. 103–252 struck out subsec. (a) designation, in cl. (1), substituted “health, education, parental involvement, nutritional, social, and other services” for “health, nutritional, educational, social, and other services”, and struck out subsec. (b) which read as follows: “For purposes of providing financial assistance under subsection (a) of this section to agencies, the Secretary may not take into consideration whether such agency applies for or receives funds under subchapter V of this chapter.”
 
-1988—Pub. L. 100–297 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1988</b>—Pub. L. 100–297 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1994 Amendment
 

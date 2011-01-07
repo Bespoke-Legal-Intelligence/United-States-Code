@@ -230,19 +230,19 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-2002—Subsec. (g)(3). Pub. L. 107–147 substituted “described in section” for “described in sections”.
+<b>2002</b>—Subsec. (g)(3). Pub. L. 107–147 substituted “described in section” for “described in sections”.
 
-2000—Subsec. (g)(3). Pub. L. 106–554 substituted “267(b) or” for “267(b) of”.
+<b>2000</b>—Subsec. (g)(3). Pub. L. 106–554 substituted “267(b) or” for “267(b) of”.
 
-1999—Subsec. (c)(3). Pub. L. 106–170 substituted “manages” for “reduces”.
+<b>1999</b>—Subsec. (c)(3). Pub. L. 106–170 substituted “manages” for “reduces”.
 
-1998—Subsec. (c)(4). Pub. L. 105–206, §7003(a), added par. (4).
+<b>1998</b>—Subsec. (c)(4). Pub. L. 105–206, §7003(a), added par. (4).
 
 Subsec. (f)(1)(D). Pub. L. 105–206, §6010(a)(3), inserted at end “Subsection (d)(3) shall not apply under the preceding sentence for purposes of applying sections 1402 and 7704.”
 
 Subsec. (g)(3). Pub. L. 105–206, §7003(b), added par. (3).
 
-1997—Subsecs. (e) to (g). Pub. L. 105–34 added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
+<b>1997</b>—Subsecs. (e) to (g). Pub. L. 105–34 added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
 
 #### Effective Date of 1999 Amendment
 

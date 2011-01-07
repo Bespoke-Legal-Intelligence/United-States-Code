@@ -12,5 +12,5 @@
 
 #### Amendments
 
-1997—Subsec. (b)(1). Pub. L. 105–80 substituted “ ‘mask work’, the symbol” for “ ‘mask force’, the sumbol”.
+<b>1997</b>—Subsec. (b)(1). Pub. L. 105–80 substituted “ ‘mask work’, the symbol” for “ ‘mask force’, the sumbol”.
 

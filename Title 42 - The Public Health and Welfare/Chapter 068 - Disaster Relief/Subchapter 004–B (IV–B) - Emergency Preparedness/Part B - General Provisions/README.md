@@ -1,7 +1,5 @@
 Part B—General Provisions
 
-<i><sup>1</sup></i><i> So in original. The word “the” probably should appear before “Federal”.</i>
-
 
 ---
 

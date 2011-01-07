@@ -108,7 +108,7 @@
 
 #### (VI) National report
 
-&emsp;&emsp;&emsp;&emsp;Not later than 90 days after the date on which the first election of a county, area, or local committee that occurs after May 13, 2002, is held, the Secretary shall complete a report that consolidates all the election data reported to the Secretary under subclause (V).
+&emsp;&emsp;&emsp;&emsp;Not later than 90 days after the date on which the first election of a county, area, or local committee that occurs after May 13, 2002, is held, the Secretary shall complete a report that consolidatesall the election data reported to the Secretary under subclause (V).
 
 #### (VII) Election reform
 
@@ -196,13 +196,13 @@
 
 #### (g) Assignment of payments
 
-A payment that may be made to a producer under this section may be assigned only in accordance with regulations issued by the Secretary. This subsection shall not authorize anysuit against or impose any liability on the Secretary, any disbursing agent, or any agency of the United States if payment is made to the producer without regard to the existence of any such assignment.
+A payment that may be made to a producer under this section may be assigned only in accordance with regulations issued by the Secretary. This subsection shall not authorize any suit against or impose any liability on the Secretary, any disbursing agent, or any agency of the United States if payment is made to the producer without regard to the existence of any such assignment.
 
 (Apr. 27, 1935, ch. 85, §8, as added Feb. 29, 1936, ch. 104, §1, 49 Stat. 1149; amended June 28, 1937, ch. 395, §1, 50 Stat. 329; Feb. 16, 1938, ch. 30, title I, §§101, 102, 103, 52 Stat. 31, 34, 35; Apr. 7, 1938, ch. 107, §§16–18, 52 Stat. 204, 205; Apr. 10, 1939, ch. 48, 53 Stat. 573; May 14, 1940, ch. 200, 54 Stat. 216; July 2, 1940, ch. 521, §2, 54 Stat. 727; June 21, 1941, ch. 217, 55 Stat. 257; Dec. 26, 1941, ch. 626, §1, 55 Stat. 860; Feb. 6, 1942, ch. 44, §4, 56 Stat. 53; Sept. 29, 1942, ch. 568, 56 Stat. 761; Sept. 21, 1944, ch. 412, title III, §301, 58 Stat. 737; July 25, 1946, ch. 642, 60 Stat. 663; July 3, 1948, ch. 827, title I, §4, 62 Stat. 1250; Sept. 23, 1950, ch. 997, 64 Stat. 978; May 26, 1952, ch. 335, 66 Stat. 95; Aug. 28, 1954, ch. 1041, title V, §501, 68 Stat. 907; Aug. 9, 1955, ch. 624, 69 Stat. 545; Apr. 6, 1956, ch. 186, 70 Stat. 105; July 24, 1956, ch. 668, 70 Stat. 597; Pub. L. 85–553, July 25, 1958, 72 Stat. 414; Pub. L. 86–70, §13(a), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §8(a), July 12, 1960, 74 Stat. 412; Pub. L. 87–703, title I, §101(2), (3), Sept. 27, 1962, 76 Stat. 605, 606; Pub. L. 88–534, §1, Aug. 31, 1964, 78 Stat. 743; Pub. L. 89–742, Nov. 2, 1966, 80 Stat. 1167; Pub. L. 92–419, title VI, §§605, 606(2)–(5), Aug. 30, 1972, 86 Stat. 676, 677; Pub. L. 95–113, title XV, §1501(a), Sept. 29, 1977, 91 Stat. 1019; Pub. L. 96–294, title II, §259, June 30, 1980, 94 Stat. 709; Pub. L. 99–198, title XVII, §§1711(a), 1712, Dec. 23, 1985, 99 Stat. 1635, 1636; Pub. L. 99–253, §3, Feb. 28, 1986, 100 Stat. 36; Pub. L. 99–500, §101(a) \[title VI, §645\], Oct. 18, 1986, 100 Stat. 1783, 1783–36, and Pub. L. 99–591, §101(a) \[title VI, §645\], Oct. 30, 1986, 100 Stat. 3341, 3341–36; Pub. L. 99–641, title II, §204, Nov. 10, 1986, 100 Stat. 3563; Pub. L. 101–624, title XI, §1146, Nov. 28, 1990, 104 Stat. 3516; Pub. L. 102–237, title II, §202, Dec. 13, 1991, 105 Stat. 1848; Pub. L. 103–354, title II, §227(a), Oct. 13, 1994, 108 Stat. 3216; Pub. L. 104–127, title III, §336(a)(1)(A), Apr. 4, 1996, 110 Stat. 1004; Pub. L. 107–171, title X, §10708(b), May 13, 2002, 116 Stat. 522; Pub. L. 110–234, title I, §1615, May 22, 2008, 122 Stat. 1021; Pub. L. 110–246, §4(a), title I, §1615, June 18, 2008, 122 Stat. 1664, 1749.)
 
 #### References in Text
 
-The Food Security Act of 1985, referred to in subsec. (b)(1), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 4 of subtitle D of title XII of the Act is classified generally to part IV (§3839aa et seq.) of subchapter IV of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
+The Food Security Act of 1985, referred to in subsec. (b)(1), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, asamended. Chapter 4 of subtitle D of title XII of the Act is classified generally to part IV (§3839aa et seq.) of subchapter IV of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 
 The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(5)(D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
@@ -214,9 +214,9 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-2008—Subsec. (b)(5)(B)(ii). Pub. L. 110–246, §1615, designated existing provisions as subcl. (I), inserted heading, substituted “Except as provided in subclause (II), a committee established” for “A committee established” in introductory provisions, redesignated former subcls. (I) and (II) as items (aa) and (bb), respectively, and added subcls. (II) to (IV).
+<b>2008</b>—Subsec. (b)(5)(B)(ii). Pub. L. 110–246, §1615, designated existing provisions as subcl. (I), inserted heading, substituted “Except as provided in subclause (II), a committee established” for “A committee established” in introductory provisions, redesignated former subcls. (I) and (II) as items (aa) and (bb), respectively, and added subcls. (II) to (IV).
 
-2002—Subsec. (b)(5)(B). Pub. L. 107–171 added subpar. (B) and struck out former subpar. (B) which read as follows:
+<b>2002</b>—Subsec. (b)(5)(B). Pub. L. 107–171 added subpar. (B) and struck out former subpar. (B) which read as follows:
 
 “(B)
 
@@ -230,25 +230,25 @@ Establishment of county, area, or local committees.—(i) In each county or area
 
 “(v) Members of each county, area, or local committee shall serve for terms not to exceed 3 years.”
 
-1996—Subsec. (b)(1) to (4). Pub. L. 104–127, §336(a)(1)(A)(i)(I), added par. (1) and struck out former pars. (1) to (4), which related to authorization to provide and eligibility for financial assistance in par. (1), description of purposes of assistance in par. (2), amount of assistance in par. (3), and factors to be considered in formulating national program in par. (4).
+<b>1996</b>—Subsec. (b)(1) to (4). Pub. L. 104–127, §336(a)(1)(A)(i)(I), added par. (1) and struck out former pars. (1) to (4), which related to authorization to provide and eligibility for financial assistance in par. (1), description of purposes of assistance in par. (2), amount of assistance in par. (3), and factors to be considered in formulating national program in par. (4).
 
 Subsec. (b)(6) to (8). Pub. L. 104–127, §336(a)(1)(A)(i)(II), struck out pars. (6) to (8), which related to payments for conservation materials and services in par. (6), appropriations for farming materials and soil-terracing services in par. (7), and agreements with agricultural producers creating obligations in advance of appropriations in par. (8).
 
 Subsecs. (d) to (f). Pub. L. 104–127, §336(a)(1)(A)(ii), struck out subsecs. (d) to (f), which related to conditions affecting payments or grants of aid in subsec. (d), distribution of payments among landlords, tenants, and sharecroppers in subsec. (e), and change between landlord and tenants or sharecroppers affecting landlord's payments in subsec. (f).
 
-1994—Subsec. (b). Pub. L. 103–354 designated first through eighth undesignated pars. as pars. (1) to (8), respectively, added par. (5), and struck out former par. (5) which related to State and local committees.
+<b>1994</b>—Subsec. (b). Pub. L. 103–354 designated first through eighth undesignated pars. as pars. (1) to (8), respectively, added par. (5), and struck out former par. (5) which related to State and local committees.
 
-1991—Subsec. (b). Pub. L. 102–237, in fourteenth sentence of fifth par., inserted before period “, except that, in the case of a person elected to be a national officer or State president of the National Association of Farmer Elected Committeemen, the limitation shall be four consecutive terms”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–237, in fourteenth sentence of fifth par., inserted before period “, except that, in the case of a person elected to be a national officer or State president of the National Association of Farmer Elected Committeemen, the limitation shall be four consecutive terms”.
 
-1990—Subsec. (g). Pub. L. 101–624 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “A payment which may be made to a farmer under this section, may be assigned, without discount, by him in writing as security for cash or advances to finance making a crop, handling or marketing an agricultural commodity, or performing a conservation practice. Such assignment shall be signed by the farmer and witnessed by a member of the county committee or by an employee of such committee, except that where the assignee is a bank whose deposits are insured by the Federal Deposit Insurance Corporation, theFarmers Home Administration, or a production credit association supervised by the Farm Credit Administration, such assignment may be witnessed by a bonded officer of the lending institution. Such assignment shall be filed with the county committee. Such assignment shall not be made to pay or secure any preexisting indebtedness. This provision shall not authorize any suit against or impose any liability upon the Secretary or any disbursing agent if payment to the farmer is made without regard to the existence of any such assignment. The Secretary shall prescribe such regulations as he determines necessary to carry out the provisions of this subsection.”
+<b>1990</b>—Subsec. (g). Pub. L. 101–624 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “A payment which may be made to a farmer under this section, may be assigned, without discount, by him in writing as security for cash or advances to finance making a crop, handling or marketing an agricultural commodity, or performing a conservation practice. Such assignment shall be signed by the farmer and witnessed by a member of the county committee or by an employee of such committee, except that where the assignee is a bank whose deposits are insured by the Federal Deposit Insurance Corporation, the Farmers Home Administration, or a production credit association supervised by the Farm Credit Administration, such assignment may be witnessed by a bonded officer of the lending institution. Such assignment shall be filed with the county committee. Such assignment shall not be made to pay or secure any preexisting indebtedness. This provision shall not authorize any suit against or impose any liability upon the Secretary or any disbursing agent if payment to the farmer is made without regard to the existence of any such assignment. The Secretary shall prescribe such regulations as he determines necessary to carry out the provisions of this subsection.”
 
-1986—Subsec. (b). Pub. L. 99–500, Pub. L. 99–591, Pub. L. 99–641, made substantially identical amendments to fifth par. of subsec. (b), inserting provisions which related to one local administrative area in any county for which there had been established less than three local administrative areas as of Dec. 23, 1985, and striking out “: <i>Provided</i>, That the foregoing requirement of this sentence shall not apply to any county that, on December 23, 1985, had less than three local administrative areas” after “committee for that area”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–500, Pub. L. 99–591, Pub. L. 99–641, made substantially identical amendments to fifth par. of subsec. (b), inserting provisions which related to one local administrative area in any county for which there had been established less than three local administrative areas as of Dec. 23, 1985, and striking out “: <i>Provided</i>, That the foregoing requirement of this sentence shall not apply to any county that, on December 23, 1985, had less than three local administrative areas” after “committee for that area”.
 
 Pub. L. 99–253, in fifth par., substituted “local committee” for “community committee” and provisions that each local administrative area have one local committee of at least three members elected to three-year terms in a local election to be held every third year, with exception for more than one local committee per administrative area, that only one local administrative area hold an election in any given year, that only farmers who are producers who participate or cooperate in the programs within their area be eligible for nomination and election, with this requirement not applying to any county that, on Dec. 23, 1985, had less than three local administrative areas, and that only farmers who are participating or cooperating producers within an area be eligible to vote in the election in that area, for provisions that farmers within any local administrative area, participating or cooperating in programs administered within such area, elect from among their number a local committee of not more than three members, with each member elected for a three-year term.
 
-1985—Subsec. (b). Pub. L. 99–198, §1712, in first sentence of fifth par., substituted “In carrying out the provisions of this section in the States of the Union, except Alaska, and as otherwise directed by law with respect to other programs and functions, the Secretary is directed to utilize the services of local and State committees selected as hereinafter provided; and the Secretary may use the services of such committees in carrying out other programs and functions of the Department of Agriculture” for “In carrying out the provisions of this section in the States of the Union, except Alaska, the Secretary is directed to utilize the services of local and State committees selected as hereinafter provided”.
+<b>1985</b>—Subsec. (b). Pub. L. 99–198, §1712, in first sentence of fifth par., substituted “In carrying out the provisions of this section in the States of the Union, except Alaska, and as otherwise directed by law with respect to other programs and functions, the Secretary is directed to utilize the services of local and State committees selected as hereinafter provided; and the Secretary may use the services of such committees in carrying out other programs and functions of the Department of Agriculture” for “In carrying out the provisions of this section in the States of the Union, except Alaska, the Secretary is directed to utilize the services of local and State committees selected as hereinafter provided”.
 
-Pub. L. 99–198, §1711(a)(1), in third sentence of fifth par., substituted “There shall be 3 local administrative areas in each county, except that, in counties with less than one hundred and fifty farmers, the county committee selected as hereinafter provided may reduce the number of local administrative areas to one, and except that the Secretary may include more than one county or parts of different counties in a local administrative area when the Secretary determines that there are insufficient farmers in an area to establish a slate of candidates for a community committee and hold an election” for “No such local area shall include more than one county or parts of different counties”.
+Pub. L. 99–198, §1711(a)(1), in third sentence of fifth par., substituted “There shall be 3 local administrativeareas in each county, except that, in counties with less than one hundred and fifty farmers, the county committee selected as hereinafter provided may reduce the number of local administrative areas to one, and except that the Secretary may include more than one county or parts of different counties in a local administrative area when the Secretary determines that there are insufficient farmers in an area to establish a slate of candidates for a community committee and hold an election” for “No such local area shall include more than one county or parts of different counties”.
 
 Pub. L. 99–198, §1711(a)(2), in fourth sentence of fifth par., struck out “annually” after “shall elect”.
 
@@ -256,69 +256,69 @@ Pub. L. 99–198, §1711(a)(3), in fifth par., inserted provisions directing tha
 
 Pub. L. 99–198, §1711(a)(4), in fifth par., inserted provisions directing that the local committees in each county (A) in a county in which there is more than one local committee, serve as advisors and consultants to the county committee; (B) periodically meet with the county committee and State committee to be informed on farm program issues; (C) communicate with producers within their communities on issues or concerns regarding farm programs; (D) report to the county committee, the State committee, and other interested persons on changes to, or modifications of, farm programs recommended by producers in their communities; and (E) perform such other functions as are required by law or as the Secretary may specify, and that the Secretary ensure that information concerning changes in Federal laws in effect with respect to agricultural programs and the administration of such laws are communicated in a timely manner to local committees in areas that contain agricultural producers who might be affected by such changes.
 
-1980—Subsec. (b). Pub. L. 96–294 added applicability to energy conservation as an area of conservation subject to financial assistance, and provisions setting forth authority for financial assistance to agricultural producers for encouraging energy conservation through cost sharing and technical assistance for shelter belts, etc.
+<b>1980</b>—Subsec. (b). Pub. L. 96–294 added applicability to energy conservation as an area of conservation subject to financial assistance, and provisions setting forth authority for financial assistance to agricultural producers for encouraging energy conservation through cost sharing and technical assistance for shelter belts, etc.
 
-1977—Subsec. (b). Pub. L. 95–113, §1501(a)(1), (2), specified that financial assistance be provided to agricultural producers for carrying out enduring conservation and environmental enhancement measures, that eligibility for financial assistance be determined by the existence of conservation or environmental problems that reduce the productive capacity of the land and water or that cause environmental degradation, that financial assistance be a portion of the cost of the installation of conservation and environmental enhancement measures, that the Secretary of Agriculture be given discretion to set the level of payment based on a number of considerations relating to the level and distribution of benefits and costs accruing from the conservation problem and the applied remedy including the level of expected benefits to society, the total cost of the conservation practice, the degree to which the farmer benefits from other conservation programs, and the degree to which conservation would be applied in the absence of financial assistance, and that the Secretary be required to consider national and local needs and priorities in developing a national cost-share assistance program.
+<b>1977</b>—Subsec. (b). Pub. L. 95–113, §1501(a)(1), (2), specified that financial assistance be provided to agricultural producers for carrying out enduring conservation and environmental enhancement measures, that eligibility for financial assistance be determined by the existence of conservation or environmental problems that reduce the productive capacity of the land and water or that cause environmental degradation, that financial assistance be a portion of the cost of the installation of conservation and environmental enhancement measures, that the Secretary of Agriculture be given discretion to set the level of payment based on a number of considerations relating to the level and distribution of benefits and costs accruing from the conservation problem and the applied remedy including the level of expected benefits to society, the total cost of the conservation practice, the degree to which the farmer benefits from other conservation programs, and the degree to which conservation would be applied in the absence of financial assistance, and that the Secretary be required to consider national and local needs and priorities in developing a national cost-share assistance program.
 
 Subsec. (e). Pub. L. 95–113, §1501(a)(3), struck out first three pars. which related to allotment and production adjustment activities and for provisions making small cost-share payments, and substituted a new par. authorizing the Secretary to establish a payment limitation. The first three pars. were deemed by the codifiers to constitute the first par., the flush sentence at the end of the first par., and the second par. to reflect the probable intent of Congress. See pp. 192, 193, 400, 401 of Senate Report 95–180.
 
-1972—Subsec. (b). Pub. L. 92–419, §§605, 606(2), (3), added par. respecting long-term rural environmental protection contracts; included in first sentence reference to cl. (6) of section 590g of this title and in item (2) provided as a measure for amount of payments and grants the treatment or use of the land for the prevention or abatement of agriculture-related pollution; and included in the second paragraph provisions respecting making available pollution prevention or abatement aids and orders covering pollution prevention or abatement aids and carrying out by the producers or pollution prevention or abatement practices, respectfully.
+<b>1972</b>—Subsec. (b). Pub. L. 92–419, §§605, 606(2), (3), added par. respecting long-term rural environmental protection contracts; included in first sentence reference to cl. (6) of section 590g of this title and in item (2) provided as a measure for amount of payments and grants the treatment or use of the land for the prevention or abatement of agriculture-related pollution; and included in the second paragraph provisions respecting making available pollution prevention or abatement aids and orders covering pollution prevention or abatement aids and carrying out by the producers or pollution prevention or abatement practices, respectfully.
 
 Subsec. (d). Pub. L. 92–419, §606(4), included reference to cl. (6) of section 590g(a) of this title in first par.
 
 Subsec. (e). Pub. L. 92–419, §606(5), inserted in proviso provision for payments based on agriculture-related pollution prevention or abatement practices.
 
-1966—Subsec. (g). Pub. L. 89–742 permitted assignments for handling or marketing an agricultural commodity, or performing a conservation practice, broadened the qualifications as to who may witness the signature of a farmer assigning such payments, and directed the Secretary to promulgate such regulations necessary to carry out the provisions of this subsection.
+<b>1966</b>—Subsec. (g). Pub. L. 89–742 permitted assignments for handling or marketing an agricultural commodity, or performing a conservation practice, broadened the qualifications as to who may witness the signature of a farmer assigning such payments, and directed the Secretary to promulgate such regulations necessary to carry out the provisions of this subsection.
 
-1964—Subsec. (b). Pub. L. 88–534 provided that members of local committees and not delegates from local areas shall nominate and elect a county committee of three farmers in the county, substituted three year staggered terms of office for county committeemen in place of one year terms, limited committeemen to a maximum of three consecutive terms, and eliminated provisions for the annual election of delegates to a county convention for the election of a county committee.
+<b>1964</b>—Subsec. (b). Pub. L. 88–534 provided that members of local committees and not delegates from local areas shall nominate and elect a county committee of three farmers in the county, substituted three year staggered terms of office for county committeemen in place of one year terms, limited committeemen to a maximum of three consecutive terms, and eliminated provisions for the annual election of delegates to a county convention for the election of a county committee.
 
-1962—Subsec. (a). Pub. L. 87–703, §101(2), repealed subsec. (a) which related to duration of authority of Secretary of Agriculture in the operation of a Federal program on a temporary basis.
+<b>1962</b>—Subsec. (a). Pub. L. 87–703, §101(2), repealed subsec. (a) which related to duration of authority of Secretary of Agriculture in the operation of a Federal program on a temporary basis.
 
 Subsec. (b). Pub. L. 87–703, §101(3), substituted introductory “The” for “subject to the limitations provided in subsection (a) of this section, the”.
 
-1960—Subsec. (b). Pub. L. 86–624 substituted “in the States of the Union, except Alaska” for “in the continental United States, except in Alaska”.
+<b>1960</b>—Subsec. (b). Pub. L. 86–624 substituted “in the States of the Union, except Alaska” for “in the continental United States, except in Alaska”.
 
-1959—Subsec. (b). Pub. L. 86–70 inserted “, except in Alaska” after “continental United States”.
+<b>1959</b>—Subsec. (b). Pub. L. 86–70 inserted “, except in Alaska” after “continental United States”.
 
-1958—Subsec. (a). Pub. L. 85–553 substituted “January 1, 1963” and “December 31, 1962” for “January 1, 1959” and “December 31, 1958”, respectively, whenever appearing.
+<b>1958</b>—Subsec. (a). Pub. L. 85–553 substituted “January 1, 1963” and “December 31, 1962” for “January 1, 1959” and “December 31, 1958”, respectively, whenever appearing.
 
-1956—Subsec. (a). Act July 24, 1956, substituted “January 1, 1959” and “December 31, 1958” for “January 1, 1957” and “December 31, 1956”, respectively, wherever appearing.
+<b>1956</b>—Subsec. (a). Act July 24, 1956, substituted “January 1, 1959” and “December 31, 1958” for “January 1, 1957” and “December 31, 1956”, respectively, wherever appearing.
 
 Subsec. (b). Act Apr. 6, 1956, substituted “Clauses” for “In arid or semiarid sections,” in second sentence.
 
-1955—Subsec. (e). Act Aug. 9, 1955, authorized payments to persons carrying out conservation practices on federally owned noncropland.
+<b>1955</b>—Subsec. (e). Act Aug. 9, 1955, authorized payments to persons carrying out conservation practices on federally owned noncropland.
 
-1954—Subsec. (a). Act Aug. 28, 1954, §501(a), (b), substituted “January 1, 1957” and “December 31, 1956” for “January 1, 1955” and “December 31, 1954” wherever appearing, and inserted last two sentences.
+<b>1954</b>—Subsec. (a). Act Aug. 28, 1954, §501(a), (b), substituted “January 1, 1957” and “December 31, 1956” for “January 1, 1955” and “December 31, 1954” wherever appearing, and inserted last two sentences.
 
 Subsec. (b). Act Aug. 28, 1954, §501(c), struck out “at not to exceed a fair price fixed in accordance with regulations to be prescribed by the Secretary” after “furnished to producers” in second par., and inserted last sentence.
 
-1952—Subsec. (a). Act May 26, 1952, substituted “January 1, 1955” for “January 1, 1953” wherever appearing and “December 31, 1954” for “December 31, 1952”.
+<b>1952</b>—Subsec. (a). Act May 26, 1952, substituted “January 1, 1955” for “January 1, 1953” wherever appearing and “December 31, 1954” for “December 31, 1952”.
 
-1950—Subsec. (a). Act Sept. 23, 1950, substituted “January 1, 1953” for “January 1, 1951” wherever appearing and “December 31, 1952” for “December 31, 1950”.
+<b>1950</b>—Subsec. (a). Act Sept. 23, 1950, substituted “January 1, 1953” for “January 1, 1951” wherever appearing and “December 31, 1952” for “December 31, 1950”.
 
-1948—Subsec. (a). Act July 3, 1948, substituted “January 1, 1951” for “January 1, 1949” wherever appearing and “December 31, 1950” for “December 31, 1948”.
+<b>1948</b>—Subsec. (a). Act July 3, 1948, substituted “January 1, 1951” for “January 1, 1949” wherever appearing and “December 31, 1950” for “December 31, 1948”.
 
-1946—Subsec. (a). Act July 25, 1946, substituted “January 1, 1949” for “January 1, 1947” wherever appearing and “December 31, 1948” for “December 31, 1946”.
+<b>1946</b>—Subsec. (a). Act July 25, 1946, substituted “January 1, 1949” for “January 1, 1947” wherever appearing and “December 31, 1948” for “December 31, 1946”.
 
-1944—Subsec. (b). Act Sept. 21, 1944, inserted par. beginning “Appropriations are hereby”.
+<b>1944</b>—Subsec. (b). Act Sept. 21, 1944, inserted par. beginning “Appropriations are hereby”.
 
 Subsec. (e). Act Sept. 21, 1944, inserted par. beginning “Persons who carry”.
 
-1942—Subsec. (c)(2). Act Feb. 6, 1942, inserted last two sentences.
+<b>1942</b>—Subsec. (c)(2). Act Feb. 6, 1942, inserted last two sentences.
 
 Subsec. (e). Act Sept. 29, 1942, amended first sentence.
 
-1941—Subsec. (a). Act Dec. 26, 1941, substituted “January 1, 1947” for “January 1, 1942” wherever appearing and “December 31, 1946” for “December 31, 1941”.
+<b>1941</b>—Subsec. (a). Act Dec. 26, 1941, substituted “January 1, 1947” for “January 1, 1942” wherever appearing and “December 31, 1946” for “December 31, 1941”.
 
 Subsec. (b). Act June 21, 1941, inserted par. beginning “Notwithstanding any other provisions of law”.
 
-1940—Subsec. (c)(5). Act July 2, 1940, inserted last sentence.
+<b>1940</b>—Subsec. (c)(5). Act July 2, 1940, inserted last sentence.
 
 Subsec. (f). Act May 14, 1940, struck out last sentence which provided “Such limitations shall apply only if the county committee finds that the change or reduction is not justified and disapproves such change or reduction” and substituted last two sentences.
 
-1939—Subsec. (c)(4). Act Apr. 10, 1939, repealed par. (4) which provided “Notwithstanding any other provision of this subsection, if, for any reason other than flood or drought, the acreage of wheat, cotton, corn, or rice planted on the farm is less than 80 per centum of the farm acreage allotment for such commodity for the purpose of payment, such farm acreage allotment shall be 25 per centum in excess of such planted acreage”.
+<b>1939</b>—Subsec. (c)(4). Act Apr. 10, 1939, repealed par. (4) which provided “Notwithstanding any other provision of this subsection, if, for any reason other than flood or drought, the acreage of wheat, cotton, corn, or rice planted on the farm is less than 80 per centum of the farm acreage allotment for such commodity for the purpose of payment, such farm acreage allotment shall be 25 per centum in excess of such planted acreage”.
 
-1938—Subsecs. (b) and (c) amended generally by act Feb. 16, 1938.
+<b>1938</b>—Subsecs. (b) and (c) amended generally by act Feb. 16, 1938.
 
 Subsec. (c)(5). Act Apr. 7, 1938, substituted “for any county” for “on any farm” in first sentence, and “therein,” for “thereon”.
 
@@ -328,7 +328,7 @@ Subsecs. (d) to (g). Act Feb. 16, 1938, added subsecs. (d) to (g).
 
 Subsec. (g). Act Apr. 7, 1938, substituted second and third sentences for sentences which provided “Such assignment shall be acknowledged by the farmer before the county agricultural extension agent and filed with such agent. The farmer shall file with such county agricultural extension agent an affidavit stating that the assignment is not made to pay or secure any pre-existing indebtedness.”
 
-1937—Subsec. (a). Act June 28, 1937, substituted “January 1, 1942” for “January 1, 1938” wherever appearing, and “December 31, 1941” for “December 31, 1937”.
+<b>1937</b>—Subsec. (a). Act June 28, 1937, substituted “January 1, 1942” for “January 1, 1938” wherever appearing, and “December 31, 1941” for “December 31, 1937”.
 
 #### Effective Date of 2008 Amendment
 
@@ -356,7 +356,7 @@ Amendment by act July 3, 1948, effective July 3, 1948, see section 6 of act July
 
 #### Effective Date of 1938 Amendment
 
-Section 105 of act Feb. 16, 1938, as amended by section 1 of act Apr. 7, 1938, provided that the amendments by that act, amending this section, “shall first be effective with respect to farming operations carried out in the calendar year 1938. Notwithstanding such amendments, payments with respect to farming operations carried out in the calendar year 1938 and based upon any soil-depleting crop for which special acreage allotments areestablished shall be made at not less than 90 per centum of the rates announced by the Secretary prior to the enactment of this act. Nothing contained herein shall require reconstituting, for 1938, any county or other local committee which has been constituted prior to February 1, 1938.”
+Section 105 of act Feb. 16, 1938, as amended by section 1 of act Apr. 7, 1938, provided that the amendments by that act, amending this section, “shall first be effective with respect to farming operations carried out in the calendar year 1938. Notwithstanding such amendments, payments with respect to farming operations carried out in the calendar year 1938 and based upon any soil-depleting crop for which special acreage allotments are established shall be made at not less than 90 per centum of the rates announced by the Secretary prior to the enactment of this act. Nothing contained herein shall require reconstituting, for 1938, any county or other local committee which has been constituted prior to February 1, 1938.”
 
 #### Transfer of Functions
 

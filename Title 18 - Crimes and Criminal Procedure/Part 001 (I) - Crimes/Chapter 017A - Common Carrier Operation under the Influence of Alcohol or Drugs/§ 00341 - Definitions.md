@@ -6,5 +6,5 @@ As used in this chapter, the term “common carrier” means a locomotive, a rai
 
 #### Amendments
 
-1988—Pub. L. 100–690 inserted “locomotive, a” after “means a”.
+<b>1988</b>—Pub. L. 100–690 inserted “locomotive, a” after “means a”.
 

@@ -72,9 +72,9 @@ Section was enacted as part of the American Competitiveness and Workforce Improv
 
 #### Amendments
 
-2004—Pub. L. 108–447 amended section catchline and text generally, substituting provisions relating to job training grants for provisions relating to demonstration programs and projects to provide technical skills training for workers.
+<b>2004</b>—Pub. L. 108–447 amended section catchline and text generally, substituting provisions relating to job training grants for provisions relating to demonstration programs and projects to provide technical skills training for workers.
 
-2000—Pub. L. 106–313 amended section catchline and text generally. Prior to amendment, text read as follows:
+<b>2000</b>—Pub. L. 106–313 amended section catchline and text generally. Prior to amendment, text read as follows:
 
 “(1)
 

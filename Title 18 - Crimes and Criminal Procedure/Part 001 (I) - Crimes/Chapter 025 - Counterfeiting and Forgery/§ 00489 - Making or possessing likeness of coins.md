@@ -14,7 +14,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $100”.
+<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $100”.
 
-1951—Act July 16, 1951, struck out “publisher's illustrations excepted” in section catchline, struck out from text all language which could be interpreted to prohibit or restrict the making and printing of coin illustrations in magazines and other publications, and gave the Secretary of the Treasury the authority to make exceptions to the application of this section.
+<b>1951</b>—Act July 16, 1951, struck out “publisher's illustrations excepted” in section catchline, struck out from text all language which could be interpreted to prohibit or restrict the making and printing of coin illustrations in magazines and other publications, and gave the Secretary of the Treasury the authority to make exceptions to the application of this section.
 

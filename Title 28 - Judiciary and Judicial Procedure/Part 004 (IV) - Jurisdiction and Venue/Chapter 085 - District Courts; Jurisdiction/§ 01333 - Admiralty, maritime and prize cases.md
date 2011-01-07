@@ -30,5 +30,5 @@ This section amends section 1333(a)(1) of title 28, U.S.C., by substituting “s
 
 #### Amendments
 
-1949—Subd. (1). Act May 24, 1949, substituted “suitors” for “libellant or petitioner”.
+<b>1949</b>—Subd. (1). Act May 24, 1949, substituted “suitors” for “libellant or petitioner”.
 

@@ -50,9 +50,9 @@ For purposes of this subchapter:
 
 #### Amendments
 
-2002—Par. (4)(D). Pub. L. 107–210 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “a minimum age for the employment of children; and”.
+<b>2002</b>—Par. (4)(D). Pub. L. 107–210 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “a minimum age for the employment of children; and”.
 
-2000—Par. (6). Pub. L. 106–200 added par. (6).
+<b>2000</b>—Par. (6). Pub. L. 106–200 added par. (6).
 
 #### Termination of Trust Territory of the Pacific Islands
 

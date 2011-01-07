@@ -24,7 +24,7 @@ The Secretary of the Interior is authorized and directed to cooperate with the S
 
 #### Amendments
 
-1988—Subsec. (b). Pub. L. 100–448 substituted “Allocation of amounts by coastal States between marine fish projects and freshwater fish projects” for “Allocation of funds by coastal States; formula; ‘coastal State’ defined” in heading and amended text generally. Prior to amendment, text read as follows: “Each coastal State, to the extent practicable, shall equitably allocate the following sums between marine fish projects and freshwater fish projects in the same proportion as the estimated number of resident marine anglers and the estimated number of resident freshwater anglers, respectively, bear to the estimated number of all resident anglers in that State:
+<b>1988</b>—Subsec. (b). Pub. L. 100–448 substituted “Allocation of amounts by coastal States between marine fish projects and freshwater fish projects” for “Allocation of funds by coastal States; formula; ‘coastal State’ defined” in heading and amended text generally. Prior to amendment, text read as follows: “Each coastal State, to the extent practicable, shall equitably allocate the following sums between marine fish projects and freshwater fish projects in the same proportion as the estimated number of resident marine anglers and the estimated number of resident freshwater anglers, respectively, bear to the estimated number of all resident anglers in that State:
 
 &emsp;“(1) The additional sums apportioned to such State under this chapter as a result of the taxes imposed by the amendments made by section 1015 of the Tax Reform Act of 1984 on items not taxed under section 4161(a) of title 26 before October 1, 1984.
 
@@ -32,9 +32,9 @@ The Secretary of the Interior is authorized and directed to cooperate with the S
 
 > As used in this subsection, the term ‘coastal State’ means any one of the States of Alabama, Alaska, California, Connecticut, Delaware, Florida, Georgia, Hawaii, Louisiana, Maine, Maryland, Massachusetts, Mississippi, New Hampshire, New Jersey, New York, North Carolina, Oregon, Rhode Island, South Carolina, Texas, Virginia, and Washington. The term also includes the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Marianas.”
 
-1986—Subsec. (b)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1984—Pub. L. 98–369 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1984</b>—Pub. L. 98–369 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1988 Amendment
 
@@ -50,7 +50,7 @@ Section 13 of act Aug. 9, 1950, which provided that the effective date of this c
 
 #### Short Title of 2005 Amendments
 
-Pub. L. 109–74, §1, Sept. 29, 2005, 119 Stat. 2030, provided that: “This Act \[amending sections 777c and 777n of this title, section 9504 of Title 26, Internal Revenue Code, and section 13106 of Title 46, Shipping, enacting provisions set out as notes under section 777b of this title and section 9504 of Title 26, and repealing provisions set out as a note under section 777b of this title\] may be cited as the ‘Sportfishing and Recreational Boating Safety Amendments Act of 2005’.”
+Pub. L. 109–74, §1, Sept. 29, 2005, 119 Stat. 2030, provided that: “This Act \[amending sections 777c and 777n of this title, section 9504 of Title 26, Internal RevenueCode, and section 13106 of Title 46, Shipping, enacting provisions set out as notes under section 777b of this title and section 9504 of Title 26, and repealing provisions set out as a note under section 777b of this title\] may be cited as the ‘Sportfishing and Recreational Boating Safety Amendments Act of 2005’.”
 
 Pub. L. 109–59, title X, §10101, Aug. 10, 2005, 119 Stat. 1926, provided that: “This subtitle \[subtitle A (§§10101–10143) of title X of Pub. L. 109–59, enacting section 777n of this title, amending sections 777b, 777c, 777g, 777g–1, 777h, 777k, and 777m of this title and sections 13102, 13104, and 13106 of Title 46, Shipping, enacting provisions set out as a note under section 777b of this title, and amending provisions set out as a note under this section and section 1322 of Title 33, Navigation and Navigable Waters\] may be cited as the ‘Sportfishing and Recreational Boating Safety Act of 2005’.”
 
@@ -64,7 +64,7 @@ Section 204 of title II of Pub. L. 91–503, Oct. 23, 1970, 84 Stat. 1104, provi
 
 #### Short Title
 
-Act Aug. 9, 1950, ch. 658, §16, formerly §15, as added by Pub. L. 106–408, title I, §101(c), Nov. 1, 2000, 114 Stat.1763; renumbered §16, Pub. L. 109–59, title X, §10119, Aug. 10, 2005, 119 Stat. 1929, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Dingell-Johnson Sport Fish Restoration Act’.”
+Act Aug. 9, 1950, ch. 658, §16, formerly §15, as added by Pub. L. 106–408, title I, §101(c), Nov. 1, 2000, 114 Stat. 1763; renumbered §16, Pub. L. 109–59, title X, §10119, Aug. 10, 2005, 119 Stat. 1929, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Dingell-Johnson Sport Fish Restoration Act’.”
 
 Act Aug. 9, 1950, ch. 658, as amended, is also popularly known as the “Federal Aid in Fish Restoration Act” and the “Fish Restoration and Management Projects Act”.
 

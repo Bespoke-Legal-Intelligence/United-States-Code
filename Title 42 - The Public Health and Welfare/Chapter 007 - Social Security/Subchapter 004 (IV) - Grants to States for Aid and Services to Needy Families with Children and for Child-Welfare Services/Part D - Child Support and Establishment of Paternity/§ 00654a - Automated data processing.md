@@ -154,11 +154,11 @@ Part A of this subchapter, referred to in subsec. (f)(3), (5), is classified to 
 
 #### Amendments
 
-1999—Subsec. (f)(5). Pub. L. 106–113 added par. (5).
+<b>1999</b>—Subsec. (f)(5). Pub. L. 106–113 added par. (5).
 
-1997—Subsec. (e)(4)(D). Pub. L. 105–34 substituted “the birth date and, beginning not later than October 1, 1999, the social security number, of any child” for “the birth date of any child”.
+<b>1997</b>—Subsec. (e)(4)(D). Pub. L. 105–34 substituted “the birth date and, beginning not later than October 1, 1999, the social security number, of any child” for “the birth date of any child”.
 
-1996—Subsecs. (e), (f). Pub. L. 104–193, §311, added subsecs. (e) and (f).
+<b>1996</b>—Subsecs. (e), (f). Pub. L. 104–193, §311, added subsecs. (e) and (f).
 
 Subsec. (g). Pub. L. 104–193, §312(c), added subsec. (g).
 

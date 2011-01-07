@@ -16,9 +16,9 @@ Any readjustment of the terms and conditions as to use, protection, or restorati
 
 #### Amendments
 
-2005—Pub. L. 109–58, §236(8), inserted section catchline.
+<b>2005</b>—Pub. L. 109–58, §236(8), inserted section catchline.
 
-Subsec. (b). Pub. L. 109–58, §229, substituted “period” for “period, and in no event shall the royalty payable exceed 221/2 per centum” in second sentence.
+Subsec. (b). Pub. L. 109–58, §229, substituted “period” for “period, and in no event shall the royalty payable exceed 22½ per centum” in second sentence.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “issued”.</i>
 

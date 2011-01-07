@@ -56,19 +56,19 @@ Section was enacted as part of the Water Resources Development Act of 1974, and 
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–114, §2013(1), (2), designated existing provisions as par. (1), inserted headings for subsec. (a) and par. (1), and added par. (2).
+<b>2007</b>—Subsec. (a). Pub. L. 110–114, §2013(1), (2), designated existing provisions as par. (1), inserted headings for subsec. (a) and par. (1), and added par. (2).
 
 Subsec. (b)(1). Pub. L. 110–114, §2013(3), substituted “subsection (a)(1)” for “this section” in two places.
 
-Subsec. (b)(2). Pub. L. 110–114, §2013(4), substituted “The” for “Up to 1/2 of the”.
+Subsec. (b)(2). Pub. L. 110–114, §2013(4), substituted “The” for “Up to ½ of the”.
 
 Subsec. (c). Pub. L. 110–114, §2013(5)–(7), designated existing provisions as par. (1), inserted headings for subsec. (c) and par. (1), substituted “subsection (a)(1),” for “the provisions of this section” and “$2,000,000” for “$500,000” in par. (1), and added par. (2).
 
 Subsecs. (d), (e). Pub. L. 110–114, §2013(8), (9), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1996—Subsec. (a). Pub. L. 104–303, §221(1), inserted “, watersheds, or ecosystems” after “basins”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–303, §221(1), inserted “, watersheds, or ecosystems” after “basins”.
 
-Subsec. (b)(2) to (4). Pub. L. 104–303, §221(2), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out heading and text of former par. (2). Textread as follows: “The Secretary shall phase in the cost sharing program under this subsection by recovering—
+Subsec. (b)(2) to (4). Pub. L. 104–303, §221(2), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out heading and text of former par. (2). Text read as follows: “The Secretary shall phase in the cost sharing program under this subsection by recovering—
 
 &emsp;“(A) approximately 10 percent of the total cost of providing assistance in fiscal year 1991;
 
@@ -78,17 +78,17 @@ Subsec. (b)(2) to (4). Pub. L. 104–303, §221(2), redesignated pars. (3) and (
 
 Subsec. (c). Pub. L. 104–303, §221(3), substituted “$10,000,000” for “$6,000,000” and “$500,000” for “$300,000”.
 
-1992—Subsec. (b)(3), (4). Pub. L. 102–580, §208(1), added par. (3) and redesignated former par. (3) as (4).
+<b>1992</b>—Subsec. (b)(3), (4). Pub. L. 102–580, §208(1), added par. (3) and redesignated former par. (3) as (4).
 
 Subsec. (d). Pub. L. 102–580, §208(2), inserted “Indian tribes,” after “States of the United States,”.
 
-1990—Subsecs. (b) to (d). Pub. L. 101–640 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+<b>1990</b>—Subsecs. (b) to (d). Pub. L. 101–640 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-1986—Subsec. (b). Pub. L. 99–662 substituted “$6,000,000” for “$4,000,000” and “$300,000” for “$200,000”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–662 substituted “$6,000,000” for “$4,000,000” and “$300,000” for “$200,000”.
 
-1980—Subsec. (c). Pub. L. 96–597 added subsec. (c).
+<b>1980</b>—Subsec. (c). Pub. L. 96–597 added subsec. (c).
 
-1976—Subsec. (b). Pub. L. 94–587 increased limitation on annual appropriation authorization to $4,000,000 from $2,000,000.
+<b>1976</b>—Subsec. (b). Pub. L. 94–587 increased limitation on annual appropriation authorization to $4,000,000 from $2,000,000.
 
 #### Effective Date of 1980 Amendment
 

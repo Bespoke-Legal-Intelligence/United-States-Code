@@ -6,11 +6,11 @@ Every person liable for any tax imposed by this title, or for the collection the
 
 #### Amendments
 
-1982—Pub. L. 97–248 inserted “, records necessary to comply with section 6053(c),” after “charge receipts”.
+<b>1982</b>—Pub. L. 97–248 inserted “, records necessary to comply with section 6053(c),” after “charge receipts”.
 
-1978—Pub. L. 95–600 inserted provision at end relating to only records which an employer shall be required to keep in connection with charged tips.
+<b>1978</b>—Pub. L. 95–600 inserted provision at end relating to only records which an employer shall be required to keep in connection with charged tips.
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 #### Effective Date of 1982 Amendment
 

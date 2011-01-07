@@ -6,9 +6,9 @@ If any passenger is unladen from any vessel or vehicle without a special license
 
 #### Amendments
 
-1986—Pub. L. 99–570 substituted “$1,000 for the first passenger and $500 for each additional such passenger” for “$500 for each such passenger”.
+<b>1986</b>—Pub. L. 99–570 substituted “$1,000 for the first passenger and $500 for each additional such passenger” for “$500 for each such passenger”.
 
-1970—Pub. L. 91–271 substituted reference to appropriate customs officer for reference to collector.
+<b>1970</b>—Pub. L. 91–271 substituted reference to appropriate customs officer for reference to collector.
 
 #### Effective Date of 1970 Amendment
 

@@ -8,7 +8,7 @@ There is established in the Treasury of the United States a fund, to be known as
 
 #### (1) In general
 
-&emsp;There is authorized to be appropriated to the Fund, out of funds of the Treasury not otherwise appropriated, $2,000,000,000 for the 5-year period beginning on October 1, 2008.
+&emsp;There is authorized to be appropriated to the Fund, out of funds of the Treasury not otherwise appropriated, $1,602,619,000 for the 5-year period beginning on October 1, 2008.
 
 #### (2) Availability of amounts
 
@@ -22,7 +22,7 @@ There is established in the Treasury of the United States a fund, to be known as
 
 #### (c) Expenditures from Fund
 
-On request by the Attorney General, the Secretary of the Interior, or the Secretary of Health and Human Services, the Secretary of the Treasury shall transfer from the Fund to the Attorney General, the Secretary of the Interior, or the Secretary of Health and Human Services, as appropriate, such amounts as the Attorney General, the Secretary of the Interior, or the Secretary of Health and Human Services determines to be necessary to carry out the emergency plan under subsection (f).
+On request by the Attorney General, the Secretary of the Interior, or the Secretary of Health and Human Services, the Secretary of the Treasury shall transfer from the Fund to the Attorney General, the Secretary of the Interior, or the Secretary of Health and Human Services, asappropriate, such amounts as the Attorney General, the Secretary of the Interior, or the Secretary of Health and Human Services determines to be necessary to carry out the emergency plan under subsection (f).
 
 #### (d) Transfers of amounts
 
@@ -60,7 +60,7 @@ Not later than 1 year after July 30, 2008, the Attorney General, the Secretary o
 
 &emsp;&emsp;(A) deposit 15.5 percent in the public safety and justice account of the Bureau of Indian Affairs for use by the Office of Justice Services of the Bureau in providing law enforcement or detention services, directly or through contracts or compacts with Indian tribes under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.); and
 
-&emsp;&emsp;(B) use 50 percent to implement requirements of Indian water settlement agreements that are approved by Congress (or the legislation to implement such an agreement) under which the United States shall plan, design, rehabilitate, or construct, or provide financial assistance for the planning, design, rehabilitation, or construction of, water supply or delivery infrastructure that will serve an Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b)); and
+&emsp;&emsp;(B) use not more than $602,619,000 to implement requirements of Indian water settlement agreements that are approved by Congress (or the legislation to implement such an agreement) under which the United States shall plan, design, rehabilitate, or construct, or provide financial assistance for the planning, design, rehabilitation, or construction of, water supply or delivery infrastructure that will serve an Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b)); and
 
 &emsp;(3) the Secretary of Health and Human Services, acting through the Director of the Indian Health Service, shall use 12.5 percent to provide, directly or through contracts or compacts with Indian tribes under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.)—
 
@@ -70,9 +70,15 @@ Not later than 1 year after July 30, 2008, the Attorney General, the Secretary o
 
 &emsp;&emsp;(C) domestic and community sanitation facilities serving members of Indian tribes (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b)) pursuant to section 2004a of title 42.
 
-(Pub. L. 110–293, title VI, §601, July 30, 2008, 122 Stat. 2968.)
+(Pub. L. 110–293, title VI, §601, July 30, 2008, 122 Stat. 2968; Pub. L. 111–291, title VIII, §831, Dec. 8, 2010, 124 Stat. 3163.)
 
 #### References in Text
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (f)(2)(A), (3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (b)(1). Pub. L. 111–291, §831(1), substituted “$1,602,619,000” for “$2,000,000,000”.
+
+Subsec. (f)(2)(B). Pub. L. 111–291, §831(2), substituted “not more than $602,619,000” for “50 percent”.
 

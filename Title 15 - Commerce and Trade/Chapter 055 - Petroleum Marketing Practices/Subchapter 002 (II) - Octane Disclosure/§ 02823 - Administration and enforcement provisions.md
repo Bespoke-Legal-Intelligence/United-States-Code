@@ -66,7 +66,7 @@ The Federal Trade Commission Act, referred to in subsecs. (a) and (e), is act Se
 
 #### Amendments
 
-1992—Subsec. (b)(1). Pub. L. 102–486, §1502(c), struck out “shall” after “Agency” in introductory provisions, inserted “may” before “conduct” in subpar. (A), inserted “shall” before “certify” in subpar. (B), and in subpar. (C) inserted “shall” before “notify” and struck out before period at end “discovered in the course of such field testing”.
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–486, §1502(c), struck out “shall” after “Agency” in introductory provisions, inserted “may” before “conduct” in subpar. (A), inserted “shall” before “certify” in subpar. (B), and in subpar. (C) inserted “shall” before “notify” and struck out before period at end “discovered in the course of such field testing”.
 
 Pub. L. 102–486, §1501(c)(3)(A), (B), substituted “automotive fuel rating” for “octane rating” and “fuel” for “gasoline” wherever appearing.
 

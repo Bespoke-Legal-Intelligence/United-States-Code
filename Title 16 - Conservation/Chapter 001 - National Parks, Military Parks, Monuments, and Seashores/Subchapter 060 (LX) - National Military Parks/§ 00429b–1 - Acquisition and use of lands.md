@@ -22,5 +22,5 @@ The Secretary may not close any State roads within the park unless action permit
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–647 designated existing provisions as par. (1) and added par. (2).
+<b>1988</b>—Subsec. (a). Pub. L. 100–647 designated existing provisions as par. (1) and added par. (2).
 

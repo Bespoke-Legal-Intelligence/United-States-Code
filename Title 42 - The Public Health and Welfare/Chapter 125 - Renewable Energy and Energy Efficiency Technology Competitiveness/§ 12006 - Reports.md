@@ -38,9 +38,13 @@ As part of the first report submitted under subsection (a) of this section, the 
 
 (Pub. L. 101–218, §9, Dec. 11, 1989, 103 Stat. 1868; Pub. L. 102–486, title XII, §1202(c), (d)(5), title XXIII, §2303(b), Oct. 24, 1992, 106 Stat. 2959, 2960, 3093.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a) and (b)(1), (3), (5)(D), was in the original “this Act”, meaning Pub. L. 101–218, Dec. 11, 1989, 103 Stat. 1859, known as the Renewable Energy and Energy Efficiency Technology Competitiveness Act of 1989, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12001 of this title and Tables.
+
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–486, §1202(d)(5), substituted “and projects” for “, projects, and joint ventures”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–486, §1202(d)(5), substituted “and projects” for “, projects, and joint ventures”.
 
 Subsec. (b)(1). Pub. L. 102–486, §1202(c)(1), inserted “three-year” before “management plan”.
 

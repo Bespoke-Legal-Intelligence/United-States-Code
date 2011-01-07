@@ -24,6 +24,14 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+<i><sup>1</sup></i><i> So in original. Item corresponds to chapter 1 of this subtitle.</i>
+
+<i><sup>2</sup></i><i> So in original. Item corresponds to chapter 2 of this subtitle.</i>
+
+<i><sup>3</sup></i><i> So in original. Item corresponds to chapter 3 of this subtitle.</i>
+
+<i><sup>4</sup></i><i> So in original. Item corresponds to chapter 4 of this subtitle.</i>
+
 
 ---
 

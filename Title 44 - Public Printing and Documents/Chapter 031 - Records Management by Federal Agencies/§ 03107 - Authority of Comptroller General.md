@@ -14,7 +14,9 @@ Chapter 27 of this title, referred to in text, was repealed by Pub. L. 95–378,
 
 #### Amendments
 
-2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1976—Pub. L. 94–575 substituted “Chapters 21, 25, 27, 29, and 31 of this title” for “Sections 2101–2113, 2501–2507, 2701, 2901, 2904–2910, and 3101–3107, of this title”.
+<b>1976</b>—Pub. L. 94–575 substituted “Chapters 21, 25, 27, 29, and 31 of this title” for “Sections 2101–2113, 2501–2507, 2701, 2901, 2904–2910, and 3101–3107, of this title”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,9 +1,5 @@
 Part A—Residential Building Efficiency
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Does not fit with cl. (ii) introductory provision.</i>
-
 
 ---
 

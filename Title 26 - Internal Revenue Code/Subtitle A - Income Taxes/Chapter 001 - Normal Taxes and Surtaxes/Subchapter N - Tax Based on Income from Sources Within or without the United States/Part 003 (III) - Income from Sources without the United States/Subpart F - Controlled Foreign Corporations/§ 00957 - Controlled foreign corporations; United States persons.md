@@ -22,7 +22,7 @@ For purposes of this subpart, the term “United States person” has the meanin
 
 &emsp;(2) with respect to a corporation organized under the laws of Guam, American Samoa, or the Northern Mariana Islands—
 
-&emsp;&emsp;(A) 80 percent or more of the gross income of which for the 3-year period ending at the close of the taxable year (or for such part ofsuch period as such corporation or any predecessor has been in existence) was derived from sources within such a possession or was effectively connected with the conduct of a trade or business in such a possession, and
+&emsp;&emsp;(A) 80 percent or more of the gross income of which for the 3-year period ending at the close of the taxable year (or for such part of such period as such corporation or any predecessor has been in existence) was derived from sources within such a possession or was effectively connected with the conduct of a trade or business in such a possession, and
 
 &emsp;&emsp;(B) 50 percent or more of the gross income of which for such period (or part) was derived from the active conduct of a trade or business within such a possession,
 
@@ -38,11 +38,11 @@ Section 953(a)(1), referred to in subsec. (b), was subsequently amended, and sec
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–357, §908(c)(5)(B), struck out “derived from sources within a possession, was effectively connected with the conduct of a trade or business within a possession, or” after “whether income was” in concluding provisions.
+<b>2004</b>—Subsec. (c). Pub. L. 108–357, §908(c)(5)(B), struck out “derived from sources within a possession, was effectively connected with the conduct of a trade or business within a possession, or” after “whether income was” in concluding provisions.
 
 Subsec. (c)(2)(B). Pub. L. 108–357, §908(c)(5)(A), substituted “active conduct of a” for “conduct of an active”.
 
-1986—Subsec. (a). Pub. L. 99–514, §1222(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “For purposes of this subpart, the term ‘controlled foreign corporation’ means any foreign corporation of which more than 50 percent of the total combined voting power of all classes of stock entitled to vote is owned (within the meaning of section 958(a)), or is considered as owned by applying the rules of ownership of section 958(b), by United States shareholders on any day during the taxable year of such foreign corporation.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1222(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “For purposes of this subpart, the term ‘controlled foreign corporation’ means any foreign corporation of which more than 50 percent of the total combined voting power of all classes of stock entitled to vote is owned (within the meaning of section 958(a)), or is considered as owned by applying the rules of ownership of section 958(b), by United States shareholders on any day during the taxable year of such foreign corporation.”
 
 Subsec. (b). Pub. L. 99–514, §1222(a)(2), inserted “(or more than 25 percent of the total value of stock)”.
 
@@ -58,7 +58,7 @@ Pub. L. 99–514, §1224(a), redesignated subsec. (d) as (c) and struck out form
 
 Subsec. (d). Pub. L. 99–514, §1224(a), redesignated subsec. (d) as (c).
 
-1976—Subsec. (c) Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (c) Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 2004 Amendment
 

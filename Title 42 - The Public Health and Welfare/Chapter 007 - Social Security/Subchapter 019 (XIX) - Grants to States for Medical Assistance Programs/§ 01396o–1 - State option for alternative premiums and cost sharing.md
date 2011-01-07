@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding sections 1396<i>o</i> and 1396a(a)(10)(B) of this title, but subject to paragraph (2), a State, at its option and through a State plan amendment, may impose premiums and cost sharing for any group of individuals (as specified by the State) and for any type of services (other than drugs for which cost sharing may be imposed under subsection (c) and non-emergency services furnished in a hospital emergency department for which cost sharing may be imposed under subsection (e)), and may vary such premiums and cost sharing among such groups or types, consistent with the limitations established under this section. Nothing in this section shall be construed as superseding (or preventing the application of) subsection (g) or (i) of section 1396<i>o</i> of this title.
+&emsp;Notwithstanding sections 1396<i>o</i> and 1396a(a)(10)(B) of this title, but subject to paragraph (2), a State, at its option and through a State plan amendment, may impose premiums and cost sharing for any group of individuals (as specified by the State) and for any type of services (other than drugs for which cost sharing may be imposed under subsection (c) and non-emergency services furnished in a hospital emergency department for which cost sharing may be imposed under subsection (e)), and may vary such premiums and cost sharing among such groups or types, consistent with the limitations established under this section. Nothing in this section shall be construed as superseding (or preventing the application of) subsection (g), (i), or (j) of section 1396<i>o</i> of this title.
 
 #### (2) Exemption for individuals with family income not exceeding 100 percent of the poverty line
 
@@ -32,7 +32,7 @@
 
 #### (1) Individuals with family income between 100 and 150 percent of the poverty line
 
-&emsp;In the case of an individual whose family income exceeds 100 percent, but does not exceed150 percent, of the poverty line applicable to a family of the size involved—
+&emsp;In the case of an individual whose family income exceeds 100 percent, but does not exceed 150 percent, of the poverty line applicable to a family of the size involved—
 
 &emsp;&emsp;(A) no premium may be imposed under the plan; and
 
@@ -46,7 +46,7 @@
 
 &emsp;In the case of an individual whose family income exceeds 150 percent of the poverty line applicable to a family of the size involved—
 
-&emsp;&emsp;(A) the total aggregate amount of premiums and cost sharing imposed under this section (including any cost sharing imposed under subsection (c) or (e)) for all individuals in the family may not exceed 5 percent of the family income of the family involved, as applied on a quarterly or monthly basis (as specified by the State); and
+&emsp;&emsp;(A) the total aggregate amount of premiums and cost sharing imposed under this section (including any cost sharing imposed under subsection (c) or (e)) for all individuals in the family may not exceed 5 percentof the family income of the family involved, as applied on a quarterly or monthly basis (as specified by the State); and
 
 &emsp;&emsp;(B) with respect to cost sharing, the cost sharing imposed with respect to any item or service under subsection (a) may not exceed 20 percent of the cost of such item or service.
 
@@ -78,7 +78,7 @@
 
 &emsp;&emsp;&emsp;(ii) Preventive services (such as well baby and well child care and immunizations) provided to children under 18 years of age regardless of family income.
 
-&emsp;&emsp;&emsp;(iii) Services furnished to pregnant women, if such services relate to the pregnancy or to any other medical condition which may complicate the pregnancy.
+&emsp;&emsp;&emsp;(iii) Services furnished to pregnant women, if such services relate to the pregnancy or to any other medical condition which may complicate the pregnancy, and counseling and pharmacotherapy for cessation of tobacco use by pregnant women (as defined in section 1396d(bb) of this title).
 
 &emsp;&emsp;&emsp;(iv) Services furnished to a terminally ill individual who is receiving hospice care (as defined in section 1396d(<i>o</i>) of this title).
 
@@ -166,7 +166,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding section 1396<i>o</i> of this title and section 1396a(a)(1) of this title or the previous provisions of this section, but subject to the limitations of paragraph (2), a State may, by amendment to its State plan under this subchapter, permit a hospital to impose cost sharing for non-emergency services furnished to an individual (within one or more groups of individuals specified by the State) in the hospital emergency department under this subsection if the following conditions are met:
+&emsp;Notwithstanding section 1396<i>o</i> of this title and section 1396a(a)(1) of this title or the previous provisions of this section, but subject to the limitations of paragraph (2), a State may, by amendment to its State plan under this subchapter, permit a hospital to impose cost sharing for non-emergency services furnishedto an individual (within one or more groups of individuals specified by the State) in the hospital emergency department under this subsection if the following conditions are met:
 
 #### (A) Access to non-emergency room provider
 
@@ -218,9 +218,9 @@
 
 #### (B) Alternate non-emergency services provider
 
-&emsp;&emsp;The term “alternative non-emergency services provider” means, with respect to non-emergency services for the diagnosis or treatment of a condition, a health care provider, such as a physician's office, health care clinic, community health center, hospital outpatient department, or similar health care provider, that can provide clinically appropriate services for the diagnosis or treatment of a condition contemporaneously with the provision of the non-emergency services that would be provided in an emergency department of a hospital for thediagnosis or treatment of a condition, and that is participating in the program under this subchapter.
+&emsp;&emsp;The term “alternative non-emergency services provider” means, with respect to non-emergency services for the diagnosis or treatment of a condition, a health care provider, such as a physician's office, health care clinic, community health center, hospital outpatient department, or similar health care provider, that can provide clinically appropriate services for the diagnosis or treatment of a condition contemporaneously with the provision of the non-emergency services that would be provided in an emergency department of a hospital for the diagnosis or treatment of a condition, and that is participating in the program under this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1916A, as added and amended Pub. L. 109–171, title VI, §§6041(a), 6042(a), 6043(a), Feb. 8, 2006, 120 Stat. 81, 85, 86; Pub. L. 109–432, div. B, title IV, §405(a)(1)–(5), Dec. 20, 2006, 120 Stat. 2996–2998; Pub. L. 111–5, div. B, title V, §5006(a)(2), Feb. 17, 2009, 123 Stat. 506.)
+(Aug. 14, 1935, ch. 531, title XIX, §1916A, as added and amended Pub. L. 109–171, title VI, §§6041(a), 6042(a), 6043(a), Feb. 8, 2006, 120 Stat. 81, 85, 86; Pub. L. 109–432, div. B, title IV, §405(a)(1)–(5), Dec. 20, 2006, 120 Stat. 2996–2998; Pub. L. 111–5, div. B, title V, §5006(a)(2), Feb. 17, 2009, 123 Stat. 506; Pub. L. 111–148, title II, §2102(b), title IV, §4107(c)(2), Mar. 23, 2010, 124 Stat. 289, 561.)
 
 #### References in Text
 
@@ -228,11 +228,15 @@ Parts B and E of subchapter IV, referred to in subsec. (b)(3)(A)(i), (B)(i), are
 
 #### Amendments
 
-2009—Subsec. (b)(3)(A)(vii). Pub. L. 111–5, §5006(a)(2)(A), added cl. (vii).
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §2102(b), substituted “, (i), or (j)” for “or (i)”.
+
+Subsec. (b)(3)(B)(iii). Pub. L. 111–148, §4107(c)(2), inserted “, and counseling and pharmacotherapy for cessation of tobacco use by pregnant women (as defined in section 1396d(bb) of this title)” after “complicate the pregnancy”.
+
+<b>2009</b>—Subsec. (b)(3)(A)(vii). Pub. L. 111–5, §5006(a)(2)(A), added cl. (vii).
 
 Subsec. (b)(3)(B)(x). Pub. L. 111–5, §5006(a)(2)(B), added cl. (x).
 
-2006—Subsec. (a)(1). Pub. L. 109–432, §405(a)(3)(A), substituted “subsection (g) or (i) of section 1396<i>o</i>” for “section 1396<i>o</i>(g)” in second sentence.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–432, §405(a)(3)(A), substituted “subsection (g) or (i) of section 1396<i>o</i>” for “section 1396<i>o</i>(g)” in second sentence.
 
 Pub. L. 109–432, §405(a)(1)(A), inserted “but subject to paragraph (2),” after “1396a(a)(10)(B) of this title,” and “and non-emergency services furnished in a hospital emergency department for which cost sharing may be imposed under subsection (e)” after “subsection (c)”.
 
@@ -271,6 +275,12 @@ Subsec. (e)(2)(C). Pub. L. 109–432, §405(a)(2)(G), inserted “or section 139
 Pub. L. 109–432, §405(a)(1)(D), inserted “under subsection (a)(2)(B) or” after “cost sharing applied”.
 
 Subsec. (e)(4)(A). Pub. L. 109–432, §405(a)(5), struck out “the physician determines” after “a hospital that”.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–148, title II, §2102(b), Mar. 23, 2010, 124 Stat. 289, provided that the amendment made by section 2102(b) is effective as if included in the enactment of section 5006(a) of division B of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5).
+
+Amendment by section 4107(c)(2) of Pub. L. 111–148 effective Oct. 1, 2010, see section 4107(d) of Pub. L. 111–148, set out as a note under section 1396d of this title.
 
 #### Effective Date of 2009 Amendment
 

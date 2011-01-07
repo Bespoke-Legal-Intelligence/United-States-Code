@@ -14,7 +14,7 @@
 
 &emsp;(iii) may review any grant, contract, or cooperative agreement proposed to be made or entered into by the Center;
 
-&emsp;(B) may collect, by correspondence or by personal investigation, information as to studies which are being carried on in the United States or any other country as to the diseases, disorders, or other aspects of human health with respect to which the Center is concerned and with the approval of the Director of the Center make available such information through appropriate publications for the benefit of public and private health entities and health professions personnel and scientists and for the information of the general public; and
+&emsp;(B) may collect, by correspondence or by personal investigation, information as to studies which are being carried on in the United States or any other country as to the diseases, disorders, or other aspects of human health with respect to which the Center is concerned and with the approval of the Director of the Center make available such information through appropriate publications for the benefit of public and private health entities andhealth professions personnel and scientists and for the information of the general public; and
 
 &emsp;(C) may appoint subcommittees and convene workshops and conferences.
 
@@ -34,7 +34,7 @@
 
 &emsp;(B) One-third of the members shall be appointed by the Secretary from the general public and shall include leaders in fields of public policy, law, health policy, economics, and management.
 
-(4) Members of the advisory council who are officers or employees of the United States shall not receive any compensation for service on theadvisory council. The other members of the advisory council shall receive, for each day (including traveltime) they are engaged in the performance of the functions of the advisory council, compensation at rates not to exceed the daily equivalent of the annual rate in effect for grade GS–18 of the General Schedule.
+(4) Members of the advisory council who are officers or employees of the United States shall not receive any compensation for service on the advisory council. The other members of the advisory council shall receive, for each day (including traveltime) they are engaged in the performance of the functions of the advisory council, compensation at rates not to exceed the daily equivalent of the annual rate in effect for grade GS–18 of the General Schedule.
 
 #### (c) Term of office; vacancy; reappointment
 
@@ -70,7 +70,7 @@ This section does not terminate the membership of the advisory council for the C
 
 #### Amendments
 
-1993—Subsec. (a)(1). Pub. L. 103–43, §1501(2)(C), (D), substituted “the Center” for “the Division of Research Resources” after “advisory council for” and substituted “the Center” for “the Division” in two places.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–43, §1501(2)(C), (D), substituted “the Center” for “the Division of Research Resources” after “advisory council for” and substituted “the Center” for “the Division” in two places.
 
 Subsec. (a)(2). Pub. L. 103–43, §§1501(2)(C), (D), 2010(b)(4), substituted “the Center” for “the Division of Research Resources” after “advisory council for”, “section 238” for “section 300aaa”, and “the Center” for “the Division”.
 
@@ -88,13 +88,13 @@ Subsec. (g). Pub. L. 103–43, §1501(2)(C), (D), substituted “the Center” f
 
 Subsec. (h). Pub. L. 103–43, §1501(2)(C), substituted “the Center” for “the Division of Research Resources” in introductory provisions and in par. (3).
 
-1992—Subsec. (b)(2)(A). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
+<b>1992</b>—Subsec. (b)(2)(A). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-1990—Subsec. (a)(2). Pub. L. 101–381 made technical amendment to reference to section 300aaa of this title to reflect renumbering of corresponding section of original act.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–381 made technical amendment to reference to section 300aaa of this title to reflect renumbering of corresponding section of original act.
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out inthe Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

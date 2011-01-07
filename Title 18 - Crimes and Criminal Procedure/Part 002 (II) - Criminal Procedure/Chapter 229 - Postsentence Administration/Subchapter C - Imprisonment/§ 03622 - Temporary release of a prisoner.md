@@ -64,7 +64,7 @@ Section 1. (a) All contracts involving the use of appropriated funds which shall
 
 (b) After notice and opportunity for hearing, the Attorney General shall revoke any such certification under section 1(a)(2) if he finds that the work-release program of the jurisdiction involved is not being conducted in conformity with the requirements of this order or with its intent or purposes.
 
-(c) The provisions of this order do not apply to purchases made under the micropurchase authority contained in section 32 of the Office of Federal Procurement Policy Act, as amended \[41 U.S.C. 428\].
+(c) The provisions of this order do not apply to purchases made under the micropurchase authority contained in section 32 of the Office of Federal Procurement Policy Act, as amended \[now 41 U.S.C. 1902\].
 
 Sec. 2. The Federal Procurement Regulations, the Armed Services Procurement Regulations, and to the extent necessary, any supplemental or comparable regulations issued by any agency of the executive branch shall be revised to reflect the policy prescribed by this order.
 

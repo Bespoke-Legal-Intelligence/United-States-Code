@@ -2,7 +2,7 @@
 
 (a) The economic and social development of the United States and the achievement of satisfactory levels of living depend on the sound and orderly development of urban and rural areas. When urbanization proceeds rapidly, the sound and orderly development of urban communities depends to a large degree on the social and economic health and the sound development of smaller communities and rural areas.
 
-(b) The President shall prescribe regulations governing the formulation, evaluation, and review of United States Government programs and projects having a significant impact on area and community development (including programs and projects providing assistance to States and localities) to serve most effectively the basic objectives of subsection (a) of this section. The regulations shall provide for the consideration of concurrently achieving the following specific objectives and, to the extent authorized by law, reasoned choices shall be made between the objectives when they conflict:
+(b) The President shall prescribe regulations governing the formulation, evaluation, and review of United States Government programs and projects having a significant impact on area and community development (including programs and projects providing assistance to States and localities) to serve most effectively the basic objectives of subsection (a) of this section. The regulations shall provide for the considerationof concurrently achieving the following specific objectives and, to the extent authorized by law, reasoned choices shall be made between the objectives when they conflict:
 
 &emsp;(1) appropriate land uses for housing, commercial, industrial, governmental, institutional, and other purposes.
 
@@ -86,7 +86,7 @@ In subsection (g), the words “Office of Management and Budget . . . other”
 
 Ex. Ord. No. 12372, July 14, 1982, 47 F.R. 30959, as amended by Ex. Ord. No. 12416, Apr. 8, 1983, 48 F.R. 15587, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America,including Section 401(a) of the Intergovernmental Cooperation Act of 1968 (42 U.S.C. 4231(a)) \[31 U.S.C. 6506(a) and (b)\], Section 204 of the Demonstration Cities and Metropolitan Development Act of 1966 (42. U.S.C. 3334) and Section 301 of Title 3 of the United States Code, and in order to foster an intergovernmental partnership and a strengthened federalism by relying on State and local processes for the State and local government coordination and review of proposed Federal financial assistance and direct Federal development, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America, including Section 401(a) of the Intergovernmental Cooperation Act of 1968 (42 U.S.C. 4231(a)) \[31 U.S.C. 6506(a) and (b)\], Section 204 of the Demonstration Cities and Metropolitan Development Act of 1966 (42. U.S.C. 3334) and Section 301 of Title 3 of the United States Code, and in order to foster an intergovernmental partnership and a strengthened federalism by relying on State and local processes for the State and local government coordination and review of proposed Federal financial assistance and direct Federal development, it is hereby ordered as follows:
 
 Section 1. Federal agencies shall provide opportunities for consultation by elected officials of those State and local governments that would provide the non-Federal funds for, or that would be directly affected by, proposed Federal financial assistance or direct Federal development.
 

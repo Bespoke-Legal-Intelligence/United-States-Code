@@ -24,7 +24,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-21501D36:4901.DJan. 30, 1913, ch. 21, §1, 37 Stat. 654.
+21501
+
+36:4901.
+
+Jan. 30, 1913, ch. 21, §1, 37 Stat. 654.
 
 &nbsp;
 

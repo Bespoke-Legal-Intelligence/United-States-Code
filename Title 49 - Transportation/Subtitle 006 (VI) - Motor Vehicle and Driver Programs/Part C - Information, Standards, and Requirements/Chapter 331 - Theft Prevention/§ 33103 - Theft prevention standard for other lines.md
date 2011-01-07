@@ -2,7 +2,7 @@
 
 (a)
 
-General.—Not later than October 25, 1994, the Secretary of Transportation shall prescribe a vehicle theft standard that conforms to the requirements of this chapter for covered major parts that manufacturers install in passenger motor vehicles (except light duty trucks) in not more than 50 percent of the lines not designated under section 33104 of this title as high theft lines.
+General.—Not later than October 25, 1994, the Secretary of Transportation shall prescribea vehicle theft standard that conforms to the requirements of this chapter for covered major parts that manufacturers install in passenger motor vehicles (except light duty trucks) in not more than 50 percent of the lines not designated under section 33104 of this title as high theft lines.
 
 (b)
 
@@ -16,7 +16,7 @@ Extension of Application.—(1) Not later than 3 years after the standard is pre
 
 (c)
 
-Initial Review of Effectiveness.—Before the Secretary begins a regulatory proceedingunder subsection (b) of this section, the Attorney General shall make a finding that the Secretary shall apply the standard prescribed under subsection (a) of this section unless the Attorney General finds, based on information collected and analyzed under section 33112 of this title and other information the Attorney General develops after providing notice and an opportunity for a public hearing, that applying the standard prescribed in subsection (a) to the remaining lines of passenger motor vehicles (except light duty trucks) not covered by that standard would not substantially inhibit chop shop operations and motor vehicle thefts. The Attorney General also shall consider and include in the record additional costs, effectiveness, competition, and available alternative factors. The Attorney General shall submit to the Secretary the finding and record on which the finding is based.
+Initial Review of Effectiveness.—Before the Secretary begins a regulatory proceeding under subsection (b) of this section, the Attorney General shall make a finding that the Secretary shall apply the standard prescribed under subsection (a) of this section unless the Attorney General finds, based on information collected and analyzed under section 33112 of this title and other information the Attorney General develops after providing notice and an opportunity for a public hearing, that applying the standard prescribed in subsection (a) to the remaining lines of passenger motor vehicles (except light duty trucks) not covered by that standard would not substantially inhibit chop shop operations and motor vehicle thefts. The Attorney General also shall consider and include in the record additional costs, effectiveness, competition, and available alternative factors. The Attorney General shall submit to the Secretary the finding and record on which the finding is based.
 
 (d)
 
@@ -104,7 +104,7 @@ In subsection (b)(1), the words “to apply the standard” are added for clarit
 
 In subsection (b)(2), the words “The Secretary shall include as part of the regulatory proceeding under this subsection . . . developed by the Attorney General under subsection (c) of this section” are substituted for “shall be a part of the Secretary's rulemaking record” for clarity.
 
-In subsection (c), the words “Before the Secretary begins a regulatory proceeding under subsection (b) of this section” are substituted for “prior to the Secretary's initiation and promulgation of a rule” for clarity. The words “applying the standard prescribed in subsection (a) to the remaining lines of passenger motor vehicles (except light duty trucks) not covered by that standard” are substituted for “requiring suchadditional parts marking for all of the applicable passenger motor vehicles” for clarity and because of the restatement.
+In subsection (c), the words “Before the Secretary begins a regulatory proceeding under subsection (b) of this section” are substituted for “prior to the Secretary's initiation and promulgation of a rule” for clarity. The words “applying the standard prescribed in subsection (a) to the remaining lines of passenger motor vehicles (except light duty trucks) not covered by that standard” are substituted for “requiring such additional parts marking for all of the applicable passenger motor vehicles” for clarity and because of the restatement.
 
 In subsection (d)(1)(A), the words “whether the application of the standard under subsection (a) or (b) of this subsection, or both” are substituted for “whether one or both rules promulgated under this subsection” for clarity.
 

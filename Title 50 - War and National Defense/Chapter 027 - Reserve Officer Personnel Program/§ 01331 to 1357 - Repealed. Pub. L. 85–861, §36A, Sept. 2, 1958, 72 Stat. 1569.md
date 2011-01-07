@@ -20,7 +20,7 @@ Section 1339, acts Sept. 3, 1954, ch. 1257, title V, §509, 68 Stat. 1174; June 
 
 Section 1340, acts Sept. 3, 1954, ch. 1257, title V, §510, 68 Stat. 1174; June 30, 1955, ch. 247, §4(g), 69 Stat. 220, related to consideration for promotion to captain, major, and lieutenant colonel. See section 14301 et seq. of Title 10.
 
-Section 1341, acts Sept. 3, 1954, ch. 1257, title V, §511, 68 Stat. 1175; June 30, 1955, ch. 247, §4(h), 69 Stat. 220, provided for promotion to captain, major or lieutenant colonel. See section 14301 et seq. of Title 10.
+Section 1341, acts Sept. 3, 1954, ch. 1257, title V, §511, 68 Stat. 1175; June 30, 1955, ch. 247, §4(h), 69 Stat. 220,provided for promotion to captain, major or lieutenant colonel. See section 14301 et seq. of Title 10.
 
 Section 1342, act Sept. 3, 1954, ch. 1257, title V, §512, 68 Stat. 1175, related to method of selection for promotion to captain, major, or lieutenant colonel. See section 14001 et seq. of Title 10.
 

@@ -20,9 +20,9 @@ A political subdivision may petition the Attorney General for a termination unde
 
 #### Amendments
 
-2008—Subsec. (a)(1). Pub. L. 110–258 made technical amendment to reference in original act which appears in text as reference to July 27, 2006.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–258 made technical amendment to reference in original act which appears in text as reference to July 27, 2006.
 
-2006—Pub. L. 109–246 amended section generally. Prior to amendment, section related to termination of listing procedures, basis for termination, and survey or census by the Director of the Census.
+<b>2006</b>—Pub. L. 109–246 amended section generally. Prior to amendment, section related to termination of listing procedures, basis for termination, and survey or census by the Director of the Census.
 
-1975—Pub. L. 94–73 substituted “on account of race or color, or in contravention of the guarantees set forth in section 1973b(f)(2) of this title” for “on account of race or color”.
+<b>1975</b>—Pub. L. 94–73 substituted “on account of race or color, or in contravention of the guarantees set forth in section 1973b(f)(2) of this title” for “on account of race or color”.
 

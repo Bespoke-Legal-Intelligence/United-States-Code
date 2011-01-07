@@ -124,9 +124,9 @@ The Trade Representative shall, by not later than the date by which countries ar
 
 #### Amendments
 
-1999—Subsec. (b)(2)(A). Pub. L. 106–113 substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office” for “Commissioner of Patents and Trademarks”.
+<b>1999</b>—Subsec. (b)(2)(A). Pub. L. 106–113 substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office” for “Commissioner of Patents and Trademarks”.
 
-1994—Subsec. (b)(4). Pub. L. 103–465, §313(1), added par. (4).
+<b>1994</b>—Subsec. (b)(4). Pub. L. 103–465, §313(1), added par. (4).
 
 Subsec. (d)(3). Pub. L. 103–465, §313(2)(A), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “A foreign country denies fair and equitable market access if the foreign country effectively denies access to a market for a product protected by a copyright, patent, or process patent through the use of laws, procedures, practices, or regulations which—”.
 
@@ -134,7 +134,7 @@ Subsec. (d)(4). Pub. L. 103–465, §313(2)(B), added par. (4).
 
 Subsec. (g). Pub. L. 103–465, §313(3), added subsec. (g).
 
-1993—Subsec. (f). Pub. L. 103–182 added subsec. (f).
+<b>1993</b>—Subsec. (f). Pub. L. 103–182 added subsec. (f).
 
 #### Effective Date of 1999 Amendment
 

@@ -1,7 +1,5 @@
 ### SUBCHAPTER I—ESTABLISHMENT AND ORGANIZATION
 
-<i><sup>1</sup></i><i> So in original. Probably should be “A”.</i>
-
 
 ---
 

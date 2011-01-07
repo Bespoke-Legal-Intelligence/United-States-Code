@@ -26,7 +26,7 @@ The Director may provide the management any <sup>1</sup> technical assistance h
 
 &emsp;(2) market research, planning economic and business analysis, and feasibility studies to identify and define economic opportunities for minorities in energy research, production, conservation, and development;
 
-&emsp;(3) technical assistance programs to encourage, promote, and assist minority business enterprises in establishing and expanding energy-related business opportunities which are located in minority communities and that can provide jobs to workers in such communities; and
+&emsp;(3) technical assistance programs to encourage, promote, and assist minority business enterprises in establishing and expanding energy-related business opportunities which are located in minority communities and that canprovide jobs to workers in such communities; and
 
 &emsp;(4) programs to assist minority business enterprises in the commercial application of energy-related technologies.
 

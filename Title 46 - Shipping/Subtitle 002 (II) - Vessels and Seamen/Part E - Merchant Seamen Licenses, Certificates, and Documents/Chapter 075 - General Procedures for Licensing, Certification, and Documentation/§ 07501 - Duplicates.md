@@ -22,5 +22,5 @@ Subsection (b) provides that if a license, certificate or document is lost for a
 
 #### Amendments
 
-1985—Subsec. (a). Pub. L. 99–36 substituted “certificate of registry, or merchant mariner's document” for “certificate, or document”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–36 substituted “certificate of registry, or merchant mariner's document” for “certificate, or document”.
 

@@ -20,7 +20,11 @@ Historical and Revision Notes
 
 <i>Source (Statutes at Large)</i>
 
-20101(a)D36:971.DAug. 31, 1960, Pub. L. 86–680, §§1, 2, 4(1), 16, 74 Stat. 572, 574, 577.
+20101(a)
+
+36:971.
+
+Aug. 31, 1960, Pub. L. 86–680, §§1, 2, 4(1), 16, 74 Stat. 572, 574, 577.
 
 &nbsp;
 
@@ -28,7 +32,11 @@ Historical and Revision Notes
 
 &nbsp;
 
-20101(b)D36:974(1).D&nbsp;
+20101(b)
+
+36:974(1).
+
+&nbsp;
 
 &nbsp;
 

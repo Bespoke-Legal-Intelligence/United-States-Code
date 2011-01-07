@@ -30,7 +30,7 @@ As used in this chapter—
 
 (n) The term “egg products” means products produced, in whole or in part, from eggs.
 
-(<i>o</i>) The term “spent fowl” means hens which have been in production of commercial eggs and have been removed from such production for slaughter.
+(<i>o</i>) The term “spent fowl” means hens which have been in production of commercial eggs andhave been removed from such production for slaughter.
 
 (p) The term “products of spent fowl” means commercial products produced from spent fowl.
 

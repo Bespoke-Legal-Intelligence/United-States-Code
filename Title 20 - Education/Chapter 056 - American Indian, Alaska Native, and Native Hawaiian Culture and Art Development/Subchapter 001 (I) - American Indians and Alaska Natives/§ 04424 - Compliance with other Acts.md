@@ -34,9 +34,9 @@ This chapter, referred to in subsec. (c)(1), was in the original “this Act” 
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102–325 designated existing provisions as par. (1) and added par. (2).
+<b>1992</b>—Subsec. (c). Pub. L. 102–325 designated existing provisions as par. (1) and added par. (2).
 
-1990—Subsec. (c). Pub. L. 101–644 added subsec. (c).
+<b>1990</b>—Subsec. (c). Pub. L. 101–644 added subsec. (c).
 
 #### Effective Date of 1992 Amendment
 

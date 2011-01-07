@@ -2,7 +2,7 @@
 
 #### (a) Activities not compensable
 
-Except as provided in subsection (b) of this section, no employer shall be subject to any liability or punishment under the Fair Labor Standards Act of 1938, as amended \[29 U.S.C. 201et seq.\], the Walsh-Healey Act \[41 U.S.C. 35 et seq.\], or the Bacon-Davis Act,<sup>1</sup> on account of the failure of such employer to pay an employee minimum wages, or to pay an employee overtime compensation, for or on account of any of the following activities of such employee engaged in on or after May 14, 1947—
+Except as provided in subsection (b) of this section, no employer shall be subject to any liability or punishment under the Fair Labor Standards Act of 1938, as amended \[29 U.S.C. 201 et seq.\], the Walsh-Healey Act, or the Bacon-Davis Act,<sup>1</sup> on account of the failure of such employer to pay an employee minimum wages, or to pay an employee overtime compensation, for or on account of any of the following activities of such employee engaged in on or after May 14, 1947—
 
 &emsp;(1) walking, riding, or traveling to and from the actual place of performance of the principal activity or activities which such employee is employed to perform, and
 
@@ -24,19 +24,19 @@ For the purposes of subsection (b) of this section, an activity shall be conside
 
 #### (d) Determination of time employed with respect to activities
 
-In the application of the minimum wage and overtime compensation provisions of the Fair Labor Standards Act of 1938, as amended \[29 U.S.C. 201 et seq.\], of the Walsh-Healey Act \[41 U.S.C. 35 et seq.\], or of the Bacon-Davis Act,<sup>1</sup> in determining the time for which an employer employs an employee with respect to walking, riding, traveling, or other preliminary or postliminary activities described in subsection (a) of this section, there shall be counted all that time, but only that time, during which the employee engages in any such activity which is compensable within the meaning of subsections (b) and (c) of this section.
+In the application of the minimum wage and overtime compensation provisions of the Fair Labor Standards Act of 1938, as amended \[29 U.S.C. 201 et seq.\], of the Walsh-Healey Act, or of the Bacon-Davis Act,<sup>1</sup> in determining the time for which an employer employs an employee with respect to walking, riding, traveling, or other preliminary or postliminary activities described in subsection (a) of this section, there shall be counted all that time, but only that time, during which the employee engages in any such activity which is compensable within the meaning of subsections (b) and (c) of this section.
 
 (May 14, 1947, ch. 52, §4, 61 Stat. 86; Pub. L. 104–188, \[title II\], §2102, Aug. 20, 1996, 110 Stat. 1928.)
 
 #### References in Text
 
-The Fair Labor Standards Act of 1938, as amended, referred to in subsecs. (a) and (d), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of this title. For complete classification of this Act to the Code, see section 201 of this title and Tables.
+The Fair Labor Standards Act of 1938, as amended, referred to in subsecs. (a) and (d), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of this title. For complete classification of this Act to the Code, see section 201 of this title and Tables.
 
 The Walsh-Healey and Bacon-Davis Acts, referred to in subsecs. (a) and (d), are defined for purposes of this chapter in section 262 of this title.
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–188 in closing provisions inserted at end “For purposes of this subsection, the use of an employer's vehicle for travel by an employee and activities performed by an employee which are incidental to the use of such vehicle for commuting shall not be considered part of the employee's principal activities if the use of such vehicle for travel is within the normal commuting area for the employer's business or establishment and the use of the employer's vehicle is subject to an agreement on the part of the employer and the employee or representative of such employee.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–188 in closing provisions inserted at end “For purposes of this subsection, the use of an employer's vehicle for travel by an employee and activities performed by an employee which are incidental to the use of such vehicle for commuting shall not be considered part of the employee's principal activities if the use of such vehicle for travel is within the normal commuting area for the employer's business or establishment and the use of the employer's vehicle is subject to an agreement on the part of the employer and the employee or representative of such employee.”
 
 #### Effective Date of 1996 Amendment
 

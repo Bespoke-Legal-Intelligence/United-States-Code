@@ -30,19 +30,19 @@ Definitions.—In this section:
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–84, §634(b), inserted “of Defense” after “the Secretary”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–84, §634(b), inserted “of Defense” after “the Secretary”.
 
 Subsecs. (b) to (d). Pub. L. 111–84, §634(a), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-2008—Subsecs. (b), (c). Pub. L. 110–181, §1632(a), added subsec. (b) and redesignated former subsec. (b) as (c).
+<b>2008</b>—Subsecs. (b), (c). Pub. L. 110–181, §1632(a), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 Subsec. (c)(3). Pub. L. 110–181, §1632(b), added par. (3).
 
-2003—Pub. L. 108–136 inserted “(a)
+<b>2003</b>—Pub. L. 108–136 inserted “(a)
 
 In General.—” before “In any case” and added subsec. (b).
 
-2001—Pub. L. 107–107 inserted before period at end “and, when accompaniment by an adult is necessary, for a parent or guardian of the covered beneficiary or another member of the covered beneficiary's family who is at least 21 years of age”.
+<b>2001</b>—Pub. L. 107–107 inserted before period at end “and, when accompaniment by an adult is necessary, for a parent or guardian of the covered beneficiary or another member of the covered beneficiary's family who is at least 21 years of age”.
 
 #### Effective Date of 2008 Amendment
 

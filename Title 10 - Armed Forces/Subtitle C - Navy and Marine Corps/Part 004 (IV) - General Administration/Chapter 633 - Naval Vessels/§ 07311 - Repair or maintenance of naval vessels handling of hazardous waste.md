@@ -42,7 +42,7 @@ Removal of Wastes.—The Secretary of the Navy shall remove known hazardous wast
 
 (d)
 
-Relationship to Solid Waste Disposal Act.—Nothing in this section shall be construed as altering or otherwise affecting those provisions of the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.) that relate to generators of hazardous waste. For purposes of this section, any term used in this section for which a definition is provided by the Solid Waste Disposal Act (or regulations promulgated pursuant to such Act) has the meaning provided by that Act or regulations.
+Relationship to Solid Waste Disposal Act.—Nothing in this section shall be construed as altering or otherwise affecting those provisions of the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.) that relate to generators of hazardous waste. For purposes of this section, any term used in this section for which a definitionis provided by the Solid Waste Disposal Act (or regulations promulgated pursuant to such Act) has the meaning provided by that Act or regulations.
 
 (Added Pub. L. 99–661, div. A, title XII, §1202(a), Nov. 14, 1986, 100 Stat. 3967; amended Pub. L. 101–189, div. A, title XVI, §1611(a), Nov. 29, 1989, 103 Stat. 1599.)
 
@@ -52,7 +52,7 @@ The Solid Waste Disposal Act, referred to in subsecs. (a)(4)(B) and (d), is titl
 
 #### Amendments
 
-1989—Pub. L. 101–189 amended section generally, substituting subsecs. (a) to (d) for former subsecs. (a) relating to contractual provisions, and (b) relating to renegotiation of contract.
+<b>1989</b>—Pub. L. 101–189 amended section generally, substituting subsecs. (a) to (d) for former subsecs. (a) relating to contractual provisions, and (b) relating to renegotiation of contract.
 
 #### Effective Date of 1989 Amendment
 

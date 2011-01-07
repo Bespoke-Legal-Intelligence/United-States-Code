@@ -2,7 +2,7 @@
 
 #### (a) Waiver provisions
 
-Any condition, stipulation, or provision binding any person to waive compliance with any provision of this chapter or of any rule or regulation thereunder, or of any rule of an exchange required thereby shall be void.
+Any condition, stipulation, or provision binding any person to waive compliance with any provision of this chapter or of any rule or regulation thereunder, or of any rule of a self-regulatory organization, shall be void.
 
 #### (b) Contract provisions in violation of chapter
 
@@ -10,9 +10,9 @@ Every contract made in violation of any provision of this chapter or of any rule
 
 #### (c) Validity of loans, extensions of credit, and creation of liens; actual knowledge of violation
 
-Nothing in this chapter shall be construed (1) to affect the validity of any loan or extension of credit (or any extension or renewal thereof) made or of any lien created prior or subsequent to the enactment of this chapter, unless at the time of the making of such loan or extension of credit (or extension or renewal thereof) or the creating of such lien, the person making such loan or extension of credit (or extension or renewal thereof) or acquiring such lien shall have actual knowledge of facts by reason of which the making of such loan or extension of credit (or extension or renewal thereof) or the acquisition of such lien is a violation of the provisions of this chapter or any rule or regulation thereunder, or (2) to afford a defense to the collection of any debt or obligation or the enforcement of any lien by any person who shall have acquired such debt, obligation, or lien in good faith for value and without actual knowledge of the violation of any provision of this chapter or any rule or regulation thereunder affecting the legality of such debt, obligation, or lien.
+Nothing in this chapter shall be construed (1) to affect the validity of any loan or extension of credit (or any extension or renewal thereof) made or of any lien created prior or subsequent to the enactment of this chapter, unless at the time of the making of such loan or extension of credit (or extension or renewal thereof) or the creating of such lien, the person making such loan or extension of credit (or extension or renewal thereof) or acquiring such lien shall have actual knowledge of facts by reason of which the making of such loan or extension of credit (or extension or renewal thereof) or the acquisitionof such lien is a violation of the provisions of this chapter or any rule or regulation thereunder, or (2) to afford a defense to the collection of any debt or obligation or the enforcement of any lien by any person who shall have acquired such debt, obligation, or lien in good faith for value and without actual knowledge of the violation of any provision of this chapter or any rule or regulation thereunder affecting the legality of such debt, obligation, or lien.
 
-(June 6, 1934, ch. 404, title I, §29, 48 Stat. 903; June 25, 1938, ch. 677, §3, 52 Stat. 1076; Pub. L. 101–429, title V, §507, Oct. 15, 1990, 104 Stat. 956.)
+(June 6, 1934, ch. 404, title I, §29, 48 Stat. 903; June 25, 1938, ch. 677, §3, 52 Stat. 1076; Pub. L. 101–429, title V, §507, Oct. 15, 1990, 104 Stat. 956; Pub. L. 111–203, title IX, §§927, 929T, July 21, 2010, 124 Stat. 1852, 1867.)
 
 #### References in Text
 
@@ -20,9 +20,15 @@ This chapter, referred to in subsecs. (a), (b), and (c), was in the original “
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–429 substituted in cl. (A) “paragraph (3)” for “paragraph (2) or (3)” and in cl. (B) “paragraph (1) or (2)” for “paragraph (1)”, and inserted at end “The Commission may, in a rule or regulation prescribed pursuant to such paragraph (2) of such section 78<i>o</i>(c) of this title, designate such rule or regulation, or portion thereof, as a rule or regulation, or portion thereof, a contract in violation of which shall not be void by reason of this subsection.”
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §§927, 929T, amended subsec. (a) identically, substituting “a self-regulatory organization,” for “an exchange required thereby”.
 
-1938—Subsec. (b). Act June 25, 1938, inserted proviso.
+<b>1990</b>—Subsec. (b). Pub. L. 101–429 substituted in cl. (A) “paragraph (3)” for “paragraph (2) or (3)” and in cl. (B) “paragraph (1) or (2)” for “paragraph (1)”, and inserted at end “The Commission may, in a rule or regulation prescribed pursuant to such paragraph (2) of such section 78<i>o</i>(c) of this title, designate such rule or regulation, or portion thereof, as a rule or regulation, or portion thereof, a contract in violation of which shall not be void by reason of this subsection.”
+
+<b>1938</b>—Subsec. (b). Act June 25, 1938, inserted proviso.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Effective Date of 1990 Amendment
 

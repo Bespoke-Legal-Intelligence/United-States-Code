@@ -10,7 +10,7 @@ Section was enacted as part of the AIDS Amendments of 1988 and as part of the He
 
 #### Amendments
 
-1992—Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
 #### Requirement of Study With Respect to Minority Health and Acquired Immune Deficiency Syndrome
 

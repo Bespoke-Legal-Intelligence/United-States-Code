@@ -20,9 +20,9 @@ R.S. §2866, provided for the entry and conveyance in transit, without payment o
 
 #### Amendments
 
-1990—Pub. L. 101–382 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1990</b>—Pub. L. 101–382 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1938—Act June 25, 1938, inserted sentence providing for transportation otherwise than by bonded carrier where no bonded common-carrier facilities are reasonably available.
+<b>1938</b>—Act June 25, 1938, inserted sentence providing for transportation otherwise than by bonded carrier where no bonded common-carrier facilities are reasonably available.
 
 #### Effective Date of 1990 Amendment
 

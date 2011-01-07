@@ -6,5 +6,5 @@ All judgments and moneys recovered or received for taxes, costs, forfeitures, an
 
 #### Amendments
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 

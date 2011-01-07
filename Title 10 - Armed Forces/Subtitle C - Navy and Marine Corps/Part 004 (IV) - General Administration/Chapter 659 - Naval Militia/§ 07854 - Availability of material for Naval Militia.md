@@ -28,5 +28,5 @@ In clause (1) the word “members” is substituted for the word “personnel”
 
 #### Amendments
 
-2006—Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve” and “any State, the District of Columbia, Guam, or the Virgin Islands” for “any State, any Territory, or the District of Columbia” in introductory provisions and substituted “Navy Reserve” for “Naval Reserve” in par. (1).
+<b>2006</b>—Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve” and “any State, the District of Columbia, Guam, or the Virgin Islands” for “any State, any Territory, or the District of Columbia” in introductory provisions and substituted “Navy Reserve” for “Naval Reserve” in par. (1).
 

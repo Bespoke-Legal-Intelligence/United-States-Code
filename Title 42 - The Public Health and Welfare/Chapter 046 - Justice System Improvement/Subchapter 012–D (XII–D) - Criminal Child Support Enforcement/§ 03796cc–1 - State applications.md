@@ -4,7 +4,7 @@
 
 (1) To request a grant under this subchapter, the chief executive of a State shall submit an application to the Director in such form and containing such information as the Director may reasonably require.
 
-(2) An application under paragraph (1) shall include assurances that Federal funds received under this subchapter shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for activities funded under this subchapter.
+(2) An application under paragraph (1) shall include assurances that Federal funds receivedunder this subchapter shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for activities funded under this subchapter.
 
 #### (b) State office
 
@@ -18,7 +18,7 @@ The office responsible for the trust fund required by section 3757 of this title
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–162 substituted “The office responsible for the trust fund required by section 3757 of this title” for “The office designated under section 3757 of this title”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–162 substituted “The office responsible for the trust fund required by section 3757 of this title” for “The office designated under section 3757 of this title”.
 
 #### Effective Date of 2006 Amendment
 

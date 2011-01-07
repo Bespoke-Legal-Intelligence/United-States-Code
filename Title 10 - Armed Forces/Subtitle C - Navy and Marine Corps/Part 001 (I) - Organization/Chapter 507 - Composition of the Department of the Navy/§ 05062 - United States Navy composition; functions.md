@@ -30,13 +30,13 @@ A prior section 5062, act Aug. 10, 1956, ch. 1041, 70A Stat. 281, prescribed the
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–364 substituted “11” for “12”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–364 substituted “11” for “12”.
 
 Pub. L. 109–163, §126(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
 Subsecs. (c), (d). Pub. L. 109–163, §126(a)(1), redesignated subsecs. (b) and (c) as (c) and (d), respectively.
 
-1986—Pub. L. 99–433, §511(b)(3), renumbered section 5012 of this title as this section.
+<b>1986</b>—Pub. L. 99–433, §511(b)(3), renumbered section 5012 of this title as this section.
 
 Subsec. (a). Pub. L. 99–433, §511(b)(4)(A), substituted “assigned and, in accordance with integrated joint mobilization plans, for the expansion of the peacetime components of the Navy to meet the needs of war” for “assigned and is generally responsible for naval reconnaissance, antisubmarine warfare, and protection of shipping”.
 

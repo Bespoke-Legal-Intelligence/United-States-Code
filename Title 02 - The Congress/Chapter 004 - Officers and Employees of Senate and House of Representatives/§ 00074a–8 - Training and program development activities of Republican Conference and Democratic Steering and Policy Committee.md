@@ -6,7 +6,7 @@ There is hereby established an account in the House of Representatives for purpo
 
 #### (b) Amounts, times, terms, and conditions of payment
 
-Subject to the allocation described in subsection (c) of this section, funds in the account established under subsection (a) of this section shall be paid—
+Subject to the allocation described in subsection (c) of this section, funds in the accountestablished under subsection (a) of this section shall be paid—
 
 &emsp;(1) for activities of the Republican Conference in such amounts, at such times, and under such terms and conditions as the Speaker of the House of Representatives may direct; and
 

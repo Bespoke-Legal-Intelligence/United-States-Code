@@ -52,7 +52,7 @@ Section 109, act Feb. 23, 1927, ch. 169, §29, 44 Stat. 1172, related to censors
 
 Section 110, act Feb. 23, 1927, ch. 169, §30, 44 Stat. 1173, related to use of United States owned radio stations and apparatus by Secretary of Navy for transmission of press messages, etc. See section 327 of this title.
 
-Section 111, act Feb. 23, 1927, ch. 169, §31, 44 Stat. 1173, defined radio communication. See section 153(33) of this title.
+Section 111, act Feb. 23, 1927, ch. 169, §31, 44 Stat. 1173, defined radio communication. See section 153 of this title.
 
 Section 112, act Feb. 23, 1927, ch. 169, §32, 44 Stat. 1173, related to penalties for violation of rules of licensing authority, etc. See section 502 of this title.
 

@@ -2,7 +2,7 @@
 
 (a) The President shall prepare budgets of the United States Government under section 1105 of this title and proposed deficiency and supplemental appropriations under section 1107 of this title. To the extent practicable, the President shall use uniform terms in stating the purposes and conditions of appropriations.
 
-(b) Except as provided in this chapter, the President shall prescribe the contents and order of statements in the budget on expenditures and estimated expenditures and statements on proposed appropriations and information submitted with the budget and proposed appropriations. The President shall include with the budget and proposed appropriations information on personnel and other objects of expenditure in the way that information was included in the budget for fiscal year 1950. However, the requirement that information be included in the budget in that way may be waived or changed by joint action of the Committees on Appropriations of both Houses of Congress. This subsection does not limit the authority of a committee of Congress to request information in a form it prescribes.
+(b) Except as provided in this chapter, the President shall prescribe the contents and order of statements in the budget on expenditures and estimated expenditures and statements on proposed appropriations and information submitted with the budget and proposed appropriations. The President shall include with the budget andproposed appropriations information on personnel and other objects of expenditure in the way that information was included in the budget for fiscal year 1950. However, the requirement that information be included in the budget in that way may be waived or changed by joint action of the Committees on Appropriations of both Houses of Congress. This subsection does not limit the authority of a committee of Congress to request information in a form it prescribes.
 
 (c) When the President makes a basic change in the form of the budget, the President shall submit with the budget information showing where items in the budget for the prior fiscal year are contained in the present budget. However, the President may change the functional categories in the budget only in consultation with the Committees on Appropriations and on the Budget of both Houses of Congress. Committees of the House of Representatives and Senate shall receive prompt notification of all such changes.
 
@@ -82,7 +82,7 @@ In subsection (e), the word “provide” is substituted for “furnish” for c
 
 #### Amendments
 
-1985—Subsec. (c). Pub. L. 99–177 inserted provisions relating to notice to committees of House of Representatives and Senate.
+<b>1985</b>—Subsec. (c). Pub. L. 99–177 inserted provisions relating to notice to committees of House of Representatives and Senate.
 
 #### Effective Date of 1985 Amendment
 
@@ -112,7 +112,7 @@ Sec. 3. The following shall be included among the objectives sought in carrying 
 
 Sec. 4. Regulations and orders issued pursuant to Section 1 hereof shall be signed by the Director. When so signed, such regulations and orders shall require no further approval and shall be adhered to by all agencies in the executive branch. Any such regulation or order may pertain to a single agency, a group of agencies, or all agencies in the executive branch.
 
-Sec. 5. In the development of programs and the preparation of regulations and orders for issuance pursuant to Section 1 hereof, the Director shall consult Federal agencies whose activities will be substantially affected,and may consult non-Federal groups to the extent he finds it necessary to carry out the purposes of this order.
+Sec. 5. In the development of programs and the preparation of regulations and orders for issuance pursuant to Section 1 hereof, the Director shall consult Federal agencies whose activities will be substantially affected, and may consult non-Federal groups to the extent he finds it necessary to carry out the purposes of this order.
 
 Sec. 6. The authority outlined in this order is in addition to and not in substitution for the existing authority of the Director, or of the Office of Management and Budget, with respect to statistical and reporting activities. To the extent, however, that this order conflicts with any previous Executive order affecting statistical or reporting activities, the provisions of this order shall control.
 

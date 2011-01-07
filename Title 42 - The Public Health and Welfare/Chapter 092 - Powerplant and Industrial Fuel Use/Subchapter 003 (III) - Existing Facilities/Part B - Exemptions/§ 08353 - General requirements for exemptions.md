@@ -18,7 +18,7 @@ Except in the case of an exemption under section 8352(b), (f), or (i) of this ti
 
 #### Amendments
 
-1987—Subsec. (a). Pub. L. 100–42, §1(c)(13), struck out “or installation” after “powerplant” in introductory provisions.
+<b>1987</b>—Subsec. (a). Pub. L. 100–42, §1(c)(13), struck out “or installation” after “powerplant” in introductory provisions.
 
 Pub. L. 100–42, §1(c)(10), which directed the substitution of “or (i)” for “(i), or (j)” was executed by making the substitution for “(i) or (j)” to reflect the probable intent of Congress.
 

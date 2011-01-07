@@ -6,7 +6,7 @@ The Secretary of the Interior may, on behalf of the United States and for use by
 
 #### Amendments
 
-1960—Pub. L. 86–406 authorized Secretary of the Interior to acquire lands and interests in lands for observation well sites to gage underground water resources.
+<b>1960</b>—Pub. L. 86–406 authorized Secretary of the Interior to acquire lands and interests in lands for observation well sites to gage underground water resources.
 
 #### Change of Name
 

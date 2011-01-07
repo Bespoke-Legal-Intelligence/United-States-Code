@@ -16,11 +16,11 @@ The Secretary is authorized, when he finds it appropriate, to provide for the pr
 
 #### Amendments
 
-1990—Pub. L. 101–246 designated existing provisions as subsec. (a), substituted “Subject to subsection (b) of this section, any such information” for “Any such information” in second sentence, and added subsec. (b).
+<b>1990</b>—Pub. L. 101–246 designated existing provisions as subsec. (a), substituted “Subject to subsection (b) of this section, any such information” for “Any such information” in second sentence, and added subsec. (b).
 
-1979—Pub. L. 96–60 substituted “ ‘Problems of Communism’ and the ‘English Teaching Forum’ which may be sold” for “ ‘Problems of Communism’ which may continue to be sold” in parenthetical clause.
+<b>1979</b>—Pub. L. 96–60 substituted “ ‘Problems of Communism’ and the ‘English Teaching Forum’ which may be sold” for “ ‘Problems of Communism’ which may continue to be sold” in parenthetical clause.
 
-1972—Pub. L. 92–352 substituted provisions relating to the prohibition, except as otherwise provided, on the dissemination of information within the United States, its territories, or possessions, other than “Problems of Communism” which could continue to be sold at the Government Printing Office, for provisions relating to the availability of press release or radio scripts for examination by representatives of United States press associations, newspapers, magazines, radio systems, and stations, and, on request, Members of Congress.
+<b>1972</b>—Pub. L. 92–352 substituted provisions relating to the prohibition, except as otherwise provided, on the dissemination of information within the United States, its territories, or possessions, other than “Problems of Communism” which could continue to be sold at the Government Printing Office, for provisions relating to the availability of press release or radio scripts for examination by representatives of United States press associations, newspapers, magazines, radio systems, and stations, and, on request, Members of Congress.
 
 #### Transfer of Functions
 

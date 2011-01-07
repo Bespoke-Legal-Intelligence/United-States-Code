@@ -26,7 +26,7 @@ Officers Not Allowed Service Credit for Time Lost.—In the case of an officer o
 
 &emsp;(4) is unable for more than one day, as determined by competent authority, to perform his duties because of intemperate use of drugs or alcoholic liquor, or because of disease or injury resulting from his misconduct;
 
-> the period of such desertion, absence, confinement, or inability to perform duties may not becounted in computing, for any purpose other than basic pay under section 205 of title 37, the officer's length of service.
+> the period of such desertion, absence, confinement, or inability to perform duties may not be counted in computing, for any purpose other than basic pay under section 205 of title 37, the officer's length of service.
 
 (c)
 
@@ -64,11 +64,11 @@ July 24, 1956, ch. 692, §1, 70 Stat. 631.
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–375 added subsec. (c).
+<b>2004</b>—Subsec. (c). Pub. L. 108–375 added subsec. (c).
 
-1997—Subsec. (b). Pub. L. 105–85 substituted “February 10, 1996” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996” in introductory provisions.
+<b>1997</b>—Subsec. (b). Pub. L. 105–85 substituted “February 10, 1996” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996” in introductory provisions.
 
-1996—Pub. L. 104–106, §561(c)(1), substituted “Members: effect of time lost” for “Enlisted members: required to make up time lost” as section catchline.
+<b>1996</b>—Pub. L. 104–106, §561(c)(1), substituted “Members: effect of time lost” for “Enlisted members: required to make up time lost” as section catchline.
 
 Pub. L. 104–106, §561(a), designated existing provisions as subsec. (a), inserted heading, added par. (3), redesignated par. (5) as (4), struck out former pars. (3) and (4), and added subsec. (b). Prior to amendment, subsec. (a)(3) and (4) read as follows:
 

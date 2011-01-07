@@ -76,7 +76,7 @@ Sec. 4. The Administrator of General Services is further authorized to accept ca
 
 “
 
-Sec. 5. There is authorized to be appropriated to the General Services Administration, the sum of $750,000 for planning, design, construction, and costs incidental thereto, including the cost of initial furnishings.
+Sec. 5. There is authorized to be appropriated to the General Services Administration, the sum of $750,000for planning, design, construction, and costs incidental thereto, including the cost of initial furnishings.
 
 “
 

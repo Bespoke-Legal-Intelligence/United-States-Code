@@ -70,13 +70,13 @@ In subsection (f), the words “have received compensation from the United State
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–163, §1057(b)(4), substituted “State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands” for “State or Territory and Puerto Rico”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163, §1057(b)(4), substituted “State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands” for “State or Territory and Puerto Rico”.
 
 Subsec. (c). Pub. L. 109–163, §1057(b)(2), substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands” for “State and Territory, Puerto Rico, and the District of Columbia”.
 
 Subsec. (d). Pub. L. 109–163, §1057(b)(3), substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, or the District of Columbia”.
 
-1988—Subsec. (a). Pub. L. 100–456, §1234(b)(2), substituted “Each State or Territory and Puerto Rico” for “Each State and Territory, Puerto Rico, and the Canal Zone”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–456, §1234(b)(2), substituted “Each State or Territory and Puerto Rico” for “Each State and Territory, Puerto Rico, and the Canal Zone”.
 
 Subsecs. (c), (d). Pub. L. 100–456, §1234(b)(1), struck out “the Canal Zone,” after “Puerto Rico,”.
 
@@ -107,4 +107,60 @@ Section 32 of act Aug. 10, 1956, provided that:
 “(a) Any corps of artillery, cavalry, or infantry existing in any of the States on the passage of the Act of May 8, 1792, which by the laws, customs, or usages of those States has been in continuous existence since the passage of that Act, shall be allowed to retain its ancient privileges, subject, nevertheless to all duties required by law of militia: <i>Provided</i>, That those organizations may be a part of the National Guard and entitled to all the privileges thereof, and shall conform in all respects to the organization, discipline, and training to the National Guard in time of war: <i>Provided further</i>, That for purposes of training and when on active duty in the service of the United States they may be assigned to higher units, as the President may direct, and shall be subject to the orders of officers under whom they shall be serving.
 
 “(b) The First Corps Cadets, antedating, and continuously existing in the State of Massachusetts since, the Act of May 8, 1792, now designated as the 126th Tank Battalion, 26th Infantry Division, hereby declared to be a corps as defined in subsection (a) of this Act for all purposes thereof and now incorporated in the Organized Militia and a part of the National Guard of Massachusetts, shall be allowed to retain its ancient privileges and organization. The First Corps Cadets is hereby declared to be entitled to a lieutenant colonel in command and a major second in command; and those officers, when federally recognized, are entitled to the pay provided by law for their respective grades: <i>Provided</i>, That nothing in this section or other provisions of law shall be considered to be in derogation of any other ancient privileges to which the First Corps Cadets is entitled under the laws, customs, or usages of the State of Massachusetts.”
+
+#### Ex. Ord. No. 13528. Establishment of the Council of Governors
+
+Ex. Ord. No. 13528, Jan. 11, 2010, 75 F.R. 2053, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 1822 of the National Defense Authorization Act of \[sic\] 2008 (Public Law 110–181), and in order to strengthen further the partnership between the Federal Government and State governments to protect our Nation and its people and property, it is hereby ordered as follows:
+
+Section 1. <i>Council of Governors.</i>
+
+(a) There is established a Council of Governors (Council). The Council shall consist of 10 State Governors appointed by the President (Members), of whom no more than five shall be of the same political party. The term of service for each Member appointed to serve on the Council shall be 2 years, but a Member may be reappointed for additional terms.
+
+(b) The President shall designate two Members, who shall not be members of the same political party, to serve as Co-Chairs of the Council.
+
+Sec. 2. <i>Functions</i>. The Council shall meet at the call of the Secretary of Defense or the Co-Chairs of the Council to exchange views, information, or advice with the Secretary of Defense; the Secretary of Homeland Security; the Assistant to the President for Homeland Security and Counterterrorism; the Assistant to the President for Intergovernmental Affairs and Public Engagement; the Assistant Secretary of Defense for Homeland Defense and Americas’ Security Affairs; the Commander, United States Northern Command; the Chief, National Guard Bureau; the Commandant of the Coast Guard; and other appropriate officials of the Department of Homeland Security and the Department of Defense, and appropriate officials of other executive departments or agencies as may be designated by the Secretary of Defense or the Secretary of Homeland Security. Such views, information, or advice shall concern:
+
+(a) matters involving the National Guard of the various States;
+
+(b) homeland defense;
+
+(c) civil support;
+
+(d) synchronization and integration of State and Federal military activities in the United States; and
+
+(e) other matters of mutual interest pertaining to National Guard, homeland defense, and civil support activities.
+
+Sec. 3. <i>Administration.</i>
+
+(a) The Secretary of Defense shall designate an Executive Director to coordinate the work of the Council.
+
+(b) Members shall serve without compensation for their work on the Council. However, Members shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law.
+
+(c) Upon the joint request of the Co-Chairs of the Council, the Secretary of Defense shall, to the extent permitted by law and subject to the availability of appropriations, provide the Council with administrative support, assignment or detail of personnel, and information as may be necessary for the performance of the Council's functions.
+
+(d) The Council may establish subcommittees of the Council. These subcommittees shall consist exclusively of Members of the Council and any designated employees of a Member with authority to act on the Member's behalf, as appropriate to aid the Council in carrying out its functions under this order.
+
+(e) The Council may establish a charter that is consistent with the terms of this order to refine further its purpose, scope, and objectives and to allocate duties, as appropriate, among members.
+
+Sec. 4. <i>Definitions</i>. As used in this order:
+
+(a) the term “State” has the meaning provided in paragraph (15) of section 2 of the Homeland Security Act of 2002 (6 U.S.C. 101(15)); and
+
+(b) the term “Governor” has the meaning provided in paragraph (5) of section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122(5)).
+
+Sec. 5. <i>General Provisions.</i>
+
+(a) Nothing in this order shall be construed to impair or otherwise affect:
+
+&emsp;(1) the authority granted by law to a department, agency, or the head thereof; or
+
+&emsp;(2) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -14,5 +14,5 @@ As used in this subchapter:
 
 #### Amendments
 
-2000—Par. (2). Pub. L. 106–501 substituted “part A of this subchapter” for “subpart II, III, IV, or V of this subchapter”.
+<b>2000</b>—Par. (2). Pub. L. 106–501 substituted “part A of this subchapter” for “subpart II, III, IV, or V of this subchapter”.
 

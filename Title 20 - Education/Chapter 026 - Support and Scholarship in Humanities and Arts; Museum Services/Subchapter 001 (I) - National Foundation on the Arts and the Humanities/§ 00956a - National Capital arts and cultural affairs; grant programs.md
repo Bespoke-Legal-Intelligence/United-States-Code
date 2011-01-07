@@ -20,17 +20,17 @@ Section was not enacted as part of the National Foundation on the Arts and the H
 
 #### Amendments
 
-2009—Pub. L. 111–88 substituted “$10,000,000” for “$7,500,000” in first par. and “$650,000” for “$500,000” in fourth par.
+<b>2009</b>—Pub. L. 111–88 substituted “$10,000,000” for “$7,500,000” in first par. and “$650,000” for “$500,000” in fourth par.
 
-2003—Pub. L. 108–81 substituted “National Children's Museum” for “National Capital Children's Museum” in second par.
+<b>2003</b>—Pub. L. 108–81 substituted “National Children's Museum” for “National Capital Children's Museum” in second par.
 
-2000—Pub. L. 106–219 substituted “National Opera” for “Washington Opera Society” in second par.
+<b>2000</b>—Pub. L. 106–219 substituted “National Opera” for “Washington Opera Society” in second par.
 
-1989—Pub. L. 101–121 substituted “$7,500,000” for “$5,000,000” in first par.
+<b>1989</b>—Pub. L. 101–121 substituted “$7,500,000” for “$5,000,000” in first par.
 
-1987—Pub. L. 100–202 substituted “direction of the Commission of Fine Arts” for “direction of the National Endowment for the Humanities” in first par. and amended third par. generally. Prior to amendment, third par. read as follows: “The Chairman of the National Endowment for the Humanities shall establish an application process and shall, along with the Chairman of the National Endowment for the Arts and the Chairman of the Commission on Fine Arts determine the eligibility of applicant organizations in addition to those herein named.”
+<b>1987</b>—Pub. L. 100–202 substituted “direction of the Commission of Fine Arts” for “direction of the National Endowment for the Humanities” in first par. and amended third par. generally. Prior to amendment, third par. read as follows: “The Chairman of the National Endowment for the Humanities shall establish an application process and shall, along with the Chairman of the National Endowment for the Arts and the Chairman of the Commission on Fine Arts determine the eligibility of applicant organizations in addition to those herein named.”
 
-1986—Pub. L. 99–500 and Pub. L. 99–591 substituted “whose primary purpose is” for “which are engaged primarily in” in first par. and “annual income, exclusive of Federal Funds,” for “an annual operating budget”, “operating budget”, and “operating budgets” in third and fourth pars.
+<b>1986</b>—Pub. L. 99–500 and Pub. L. 99–591 substituted “whose primary purpose is” for “which are engaged primarily in” in first par. and “annual income, exclusive of Federal Funds,” for “an annual operating budget”, “operating budget”, and “operating budgets” in third and fourth pars.
 
 #### Redesignation of Capital Children's Museum as National Children's Museum
 

@@ -74,7 +74,7 @@ Consistent with the use of military installations to ensure the preparedness of 
 
 After an integrated natural resources management plan is agreed to under subsection (a) of this section—
 
-&emsp;(1) no sale of land, or forest products from land, that is within a military installation covered by that plan may be made under section 2665(a) or (b) of title 10; and
+&emsp;(1) no sale of land, or forest products from land, that is within a military installationcovered by that plan may be made under section 2665(a) or (b) of title 10; and
 
 &emsp;(2) no leasing of land that is within the installation may be made under section 2667 of such title 10;
 
@@ -120,7 +120,7 @@ Integrated natural resources management plans agreed to under the authority of t
 
 #### (1) Inclusion of invasive species management
 
-&emsp;During fiscal years 2009 through 2014, the Secretary of Defense shall, to the extent practicable and conducive to military readiness, incorporate in integrated natural resources management plans for military installationsin Guam the management, control, and eradication of invasive species—
+&emsp;During fiscal years 2009 through 2014, the Secretary of Defense shall, to the extent practicable and conducive to military readiness, incorporate in integrated natural resources management plans for military installations in Guam the management, control, and eradication of invasive species—
 
 &emsp;&emsp;(A) that are not native to the ecosystem of the military installation; and
 
@@ -134,13 +134,13 @@ Integrated natural resources management plans agreed to under the authority of t
 
 #### Amendments
 
-2009—Subsec. (g)(1). Pub. L. 111–84 substituted “fiscal years 2009 through 2014” for “fiscal years 2004 through 2008” in introductory provisions.
+<b>2009</b>—Subsec. (g)(1). Pub. L. 111–84 substituted “fiscal years 2009 through 2014” for “fiscal years 2004 through 2008” in introductory provisions.
 
-2003—Subsec. (g). Pub. L. 108–136 added subsec. (g).
+<b>2003</b>—Subsec. (g). Pub. L. 108–136 added subsec. (g).
 
-1999—Subsec. (f)(3)(A). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
+<b>1999</b>—Subsec. (f)(3)(A). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
-1997—Subsec. (a). Pub. L. 105–85, §2904(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary of Defense is authorized to carry out a program of planning for, and the development, maintenance, and coordination of, wildlife, fish, and game conservation and rehabilitation in each military reservation in accordance with a cooperative plan mutually agreed upon by the Secretary of Defense, the Secretary of the Interior, and the appropriate State agency designated by the State in which the reservation is located.”
+<b>1997</b>—Subsec. (a). Pub. L. 105–85, §2904(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary of Defense is authorized to carry out a program of planning for, and the development, maintenance, and coordination of, wildlife, fish, and game conservation and rehabilitation in each military reservation in accordance with a cooperative plan mutually agreed upon by the Secretary of Defense, the Secretary of the Interior, and the appropriate State agency designated by the State in which the reservation is located.”
 
 Subsec. (b). Pub. L. 105–85, §2904(c)(1), inserted heading and substituted, in introductory provisions, “Consistent with the use of military installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan prepared under subsection (a) of this section—” for “Each cooperative plan entered into under subsection (a) of this section—”.
 
@@ -184,13 +184,13 @@ Pub. L. 105–85, §2904(b)(4), substituted “Integrated natural resources mana
 
 Subsec. (f). Pub. L. 105–85, §2907, added subsec. (f).
 
-1986—Pub. L. 99–561 amended section generally. Prior to amendment, section read as follows: “The Secretary of Defense is hereby authorized to carry out a program of planning, development, maintenance and coordination of wildlife, fish and game conservation and rehabilitation in military reservations in accordance with a cooperative plan mutually agreed upon by the Secretary of Defense, the Secretary of Interior and the appropriate State agency designated by the State in which the reservation is located. Such cooperative plan shall provide for (1) fish and wildlife habitat improvements or modifications, (2) range rehabilitation where necessary for support of wildlife, (3) control of off-road vehicle traffic, and (4) specific habitat improvement projects and related activities and adequate protection for species of fish, wildlife, and plants considered threatened or endangered. Such cooperative plan may stipulate the issuance of special State hunting and fishing permits to individuals and require this payment of a nominal fee therefor, which fees shall be utilized for the protection, conservation and management of fish and wildlife, including habitat improvement and related activities in accordance with the cooperative plan: <i>Provided</i>, That the Commanding Officer of the reservation or persons designated by him are authorized to enforce such special hunting and fishing permits and to collect the fees therefor, acting as agent or agents for the State if the cooperative plan so provides. Cooperative plans agreed to under the authority of this section and section 670b of this title shall not be deemed to be, nor treated as, cooperative agreements to which chapter 63 of title 31 applies.”
+<b>1986</b>—Pub. L. 99–561 amended section generally. Prior to amendment, section read as follows: “The Secretary of Defense is hereby authorized to carry out a program of planning, development, maintenance and coordination of wildlife, fish and game conservation and rehabilitation in military reservations in accordance with a cooperative plan mutually agreed upon by the Secretary of Defense, the Secretary of Interior and the appropriate State agency designated by the State in which the reservation is located. Such cooperative plan shall provide for (1) fish and wildlife habitat improvements or modifications, (2) range rehabilitation where necessary for support of wildlife, (3) control of off-road vehicle traffic, and (4) specific habitat improvement projects and related activities and adequate protection for species of fish, wildlife, and plants considered threatened or endangered. Such cooperative plan may stipulate the issuance of special State hunting and fishing permits to individuals and require this payment of a nominal fee therefor, which fees shall be utilized for the protection, conservation and management of fish and wildlife, including habitat improvement and related activities in accordance with the cooperative plan: <i>Provided</i>, That the Commanding Officer of the reservation or persons designated by him are authorized to enforce such special hunting and fishing permits and to collect the fees therefor, acting as agent or agents for the State if the cooperative plan so provides. Cooperative plans agreed to under the authority of this section and section 670b of this title shall not be deemed to be, nor treated as, cooperative agreements to which chapter 63 of title 31 applies.”
 
-1982—Pub. L. 97–396, §1(1), added cl. (4).
+<b>1982</b>—Pub. L. 97–396, §1(1), added cl. (4).
 
 Pub. L. 97–396, §1(2), inserted provision that cooperative plans agreed to under the authority of this section and section 670b of this title shall not be deemed to be, nor treated as, cooperative agreements to which chapter 63 of title 31 applies.
 
-1974—Pub. L. 93–452, §§1(1), 3(2), inserted provisions requiring the cooperative plan to provide for fish and wildlife habitat improvements, range rehabilitation, and off-road vehicle traffic control.
+<b>1974</b>—Pub. L. 93–452, §§1(1), 3(2), inserted provisions requiring the cooperative plan to provide for fish and wildlife habitat improvements, range rehabilitation, and off-road vehicle traffic control.
 
 #### Change of Name
 

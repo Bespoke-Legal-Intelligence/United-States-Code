@@ -72,7 +72,7 @@ The grant shall be a three-year grant. Successful applicants may reapply for onl
 
 #### (2) Evaluations
 
-&emsp;Not later than 12 months at <sup>5</sup> the end of the 3 year funding cycle under this section, the Attorney General shall submit a report to the appropriate committees of jurisdiction thatsummarizes the results of the evaluations conducted by recipients and recommendations for further legislative action.
+&emsp;Not later than 12 months at <sup>5</sup> the end of the 3 year funding cycle under this section, the Attorney General shall submit a report to the appropriate committees of jurisdiction that summarizes the results of the evaluations conducted by recipients and recommendations for further legislative action.
 
 #### (f) Authorization of appropriations
 
@@ -86,7 +86,7 @@ Section was enacted as part of the Combat Methamphetamine Epidemic Act of 2005, 
 
 #### Amendments
 
-2007—Subsec. (a)(2). Pub. L. 110–161, §220(c)(1), inserted “, territorial, or Tribal” after “State”.
+<b>2007</b>—Subsec. (a)(2). Pub. L. 110–161, §220(c)(1), inserted “, territorial, or Tribal” after “State”.
 
 Subsec. (b)(1). Pub. L. 110–161, §220(c)(2)(A), inserted “, territorial, or Tribal” after “State” and substituted “or” for “and/or”.
 
@@ -103,4 +103,14 @@ Subsec. (c)(4)(A). Pub. L. 110–161, §220(c)(3)(B)(ii), struck out “State”
 Subsec. (c)(4)(C). Pub. L. 110–161, §220(c)(3)(B)(iii), inserted “, Indian tribes,” after “involved counties”.
 
 Subsec. (c)(4)(D). Pub. L. 110–161, §220(c)(3)(B)(iv), inserted “, Tribal” after “Federal, State”.
+
+<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be par. “(3)”.</i>
+
+<i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
+
+<i><sup>4</sup></i><i> So in original. The word “needs” probably should not appear.</i>
+
+<i><sup>5</sup></i><i> So in original. Probably should be “after”.</i>
 

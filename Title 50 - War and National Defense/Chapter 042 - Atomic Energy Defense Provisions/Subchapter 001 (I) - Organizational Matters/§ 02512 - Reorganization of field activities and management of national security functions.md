@@ -62,7 +62,7 @@ Section was formerly set out as a note under section 7252 of Title 42, The Publi
 
 #### Amendments
 
-2003—Subsec. (d)(2). Pub. L. 108–136, §3141(d)(3)(D), substituted “January 21, 1997,” for “120 days after the date of the enactment of this Act,”.
+<b>2003</b>—Subsec. (d)(2). Pub. L. 108–136, §3141(d)(3)(D), substituted “January 21, 1997,” for “120 days after the date of the enactment of this Act,”.
 
 #### Transfer of Functions
 

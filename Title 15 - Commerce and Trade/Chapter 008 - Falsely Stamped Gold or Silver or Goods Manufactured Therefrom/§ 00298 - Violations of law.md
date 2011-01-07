@@ -6,7 +6,7 @@ Each and every person, firm, corporation, or association, being a manufacturer o
 
 #### (b) Suits by competitors, customers, or subsequent purchasers for injunctive relief; damages and costs
 
-Any competitor, customer, or competitor of a customer of any person in violation of section 294, 295, 296, or 297 of this title, or any subsequent purchaser of an article of merchandise which has been the subject of a violation of section 294, 295, 296, or 297 of this title, shall be entitled to injunctive relief restraining further violation of sections 294 to 300 of this title and may sue therefor in any district court of the United States in the district in which the defendant resides or has an agent, without respect to the amount in controversy, and shall recover damages and the cost of suit, including a reasonable attorney's fee.
+Any competitor, customer, or competitor of a customer of any person in violation of section294, 295, 296, or 297 of this title, or any subsequent purchaser of an article of merchandise which has been the subject of a violation of section 294, 295, 296, or 297 of this title, shall be entitled to injunctive relief restraining further violation of sections 294 to 300 of this title and may sue therefor in any district court of the United States in the district in which the defendant resides or has an agent, without respect to the amount in controversy, and shall recover damages and the cost of suit, including a reasonable attorney's fee.
 
 #### (c) Suits by jewelry trade associations for injunctive relief; damages and costs
 
@@ -24,7 +24,7 @@ The district courts shall have exclusive original jurisdiction of any civil acti
 
 #### Amendments
 
-1970—Pub. L. 91–366 designated existing provisions as subsec. (a) and added subsecs. (b) to (e).
+<b>1970</b>—Pub. L. 91–366 designated existing provisions as subsec. (a) and added subsecs. (b) to (e).
 
 #### Effective Date of 1970 Amendment
 

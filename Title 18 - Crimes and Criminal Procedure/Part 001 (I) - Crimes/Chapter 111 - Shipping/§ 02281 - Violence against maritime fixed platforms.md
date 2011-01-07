@@ -64,7 +64,7 @@ Definitions.—In this section—
 
 #### Amendments
 
-1996—Subsec. (a)(1)(F). Pub. L. 104–132 inserted “or conspires” after “attempts”.
+<b>1996</b>—Subsec. (a)(1)(F). Pub. L. 104–132 inserted “or conspires” after “attempts”.
 
 Subsec. (c). Pub. L. 104–294 inserted before period at end “, and the term ‘State’ means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States”.
 

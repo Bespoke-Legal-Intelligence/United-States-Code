@@ -106,7 +106,7 @@ The objectives of the Program are to—
 
 &emsp;&emsp;&emsp;(II) a procedure for more detailed and frequent safety inspections;
 
-&emsp;&emsp;&emsp;(vi) a requirement that all inspections be performed under the supervision of a State-registered professional engineer with related experience in dam design and construction;
+&emsp;&emsp;&emsp;(vi) a requirement that all inspections be performed under the supervision of aState-registered professional engineer with related experience in dam design and construction;
 
 &emsp;&emsp;&emsp;(vii) the authority to issue notices, when appropriate, to require owners of dams to perform necessary maintenance or remedial work, install and monitor instrumentation, improve security, revise operating procedures, or take other actions, including breaching dams when necessary;
 
@@ -156,7 +156,7 @@ The objectives of the Program are to—
 
 #### (6) Review of State dam safety programs
 
-&emsp;Using the expertise of the Board, the Director shall periodically review State dam safety programs. If the Board finds that a State damsafety program has proven inadequate to reasonably protect human life and property and the Director concurs, the Director shall revoke approval of the State dam safety program, and withhold assistance under this subsection, until the State dam safety program again meets the requirements for approval.
+&emsp;Using the expertise of the Board, the Director shall periodically review State dam safety programs. If the Board finds that a State dam safety program has proven inadequate to reasonably protect human life and property and the Director concurs, the Director shall revoke approval of the State dam safety program, and withhold assistance under this subsection, until the State dam safety program again meets the requirements for approval.
 
 #### (f) Board
 
@@ -242,7 +242,7 @@ A prior section 8 of Pub. L. 92–367 was classified to section 467g of this tit
 
 #### Amendments
 
-2006—Subsec. (b)(1). Pub. L. 109–460, §1(c)(1), substituted “performance measures, and target dates toward effectively administering this subchapter in order to” for “and target dates to”.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–460, §1(c)(1), substituted “performance measures, and target dates toward effectively administering this subchapter in order to” for “and target dates to”.
 
 Subsec. (e)(2)(A). Pub. L. 109–460, §1(c)(2)(A), struck out “substantially” after “to include” in introductory provisions.
 
@@ -252,7 +252,7 @@ Subsec. (e)(2)(A)(vii). Pub. L. 109–460, §1(c)(2)(B), (D), redesignated cl. (
 
 Subsec. (e)(2)(A)(viii) to (xi). Pub. L. 109–460, §1(c)(2)(B), redesignated cls. (vii) to (x) as (viii) to (xi), respectively.
 
-2002—Subsec. (a)(3)(B). Pub. L. 107–310, §3(a)(1), substituted “strategic plan described in subsection (b)” for “implementation plan described in subsection (e)”.
+<b>2002</b>—Subsec. (a)(3)(B). Pub. L. 107–310, §3(a)(1), substituted “strategic plan described in subsection (b)” for “implementation plan described in subsection (e)”.
 
 Subsec. (a)(3)(C). Pub. L. 107–310, §3(a)(2), substituted “subsection (e)” for “subsection (f)”.
 

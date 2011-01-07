@@ -42,7 +42,7 @@ A prior section 3121, Pub. L. 89–136, §2, Aug. 26, 1965, 79 Stat. 552; Pub. L
 
 #### Amendments
 
-2004—Pub. L. 108–373 reenacted section catchline without change and amended text generally, substituting pars. (1) to (6) for former pars. (1) to (8) in subsec. (a) and pars. (1) to (4) for former pars. (1) to (3) in subsec. (b).
+<b>2004</b>—Pub. L. 108–373 reenacted section catchline without change and amended text generally, substituting pars. (1) to (6) for former pars. (1) to (8) in subsec. (a) and pars. (1) to (4) for former pars. (1) to (3) in subsec. (b).
 
 #### Effective Date
 

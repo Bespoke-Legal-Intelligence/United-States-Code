@@ -24,7 +24,7 @@ The term of office of any judge of the Tax Court shall expire 15 years after he 
 
 #### (f) Removal from office
 
-Judges of the Tax Court may be removed by the President, after notice and opportunity for public hearing, for inefficiency, neglect of duty, or malfeasance in office, but for no other cause.
+Judges of the Tax Court may be removed by the President, after notice and opportunity forpublic hearing, for inefficiency, neglect of duty, or malfeasance in office, but for no other cause.
 
 #### (g) Disbarment of removed judges
 
@@ -34,21 +34,21 @@ A judge of the Tax Court removed from office in accordance with subsection (f) s
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–439, §1(a), increased number of judges from 16 to 19.
+<b>1980</b>—Subsec. (a). Pub. L. 96–439, §1(a), increased number of judges from 16 to 19.
 
 Subsec. (b). Pub. L. 96–439, §1(b), struck out age limitation that no one could be appointed a member of the Tax Court unless appointed before attaining age 65.
 
 Subsec. (d). Pub. L. 96–417 substituted “Court of International Trade” for “Customs Court”.
 
-1969—Subsec. (b). Pub. L. 91–172, §952(a), provided that an individual may not be appointed a judge of the Tax Court after reaching age 65.
+<b>1969</b>—Subsec. (b). Pub. L. 91–172, §952(a), provided that an individual may not be appointed a judge of the Tax Court after reaching age 65.
 
 Subsec. (c). Pub. L. 91–172, §953, substituted provisions fixing salary of Tax Court judges at the same rate and same installments as District Court judges, for provisions that each judge of the Tax Court receive a salary of $30,000 per annum, to be paid in monthly installments.
 
 Subsec. (e). Pub. L. 91–172, §952(b), substituted provisions that a term in office of any Tax Court judge would expire 15 years after he takes office, for provisions that a term in office of any Tax Court judge would expire 12 years after the expiration of the term for which his predecessor was appointed, and any judge appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed would be appointed only for the unexpired term of his predecessor.
 
-1964—Subsec. (c). Pub. L. 88–426 increased salary of judges from $22,500 to $30,000.
+<b>1964</b>—Subsec. (c). Pub. L. 88–426 increased salary of judges from $22,500 to $30,000.
 
-1955—Subsec. (c). Act Mar. 2, 1955, increased salary of judges from $15,000 to $22,500.
+<b>1955</b>—Subsec. (c). Act Mar. 2, 1955, increased salary of judges from $15,000 to $22,500.
 
 #### Effective Date of 1980 Amendments
 
@@ -80,11 +80,11 @@ Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar.
 
 #### Salary Increases
 
-1987—Salaries of judges increased to $89,500 per annum, on recommendation of the President of theUnited States, see note set out under section 358 of Title 2, The Congress.
+<b>1987</b>—Salaries of judges increased to $89,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
 
-1977—Salaries of judges increased to $54,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2.
+<b>1977</b>—Salaries of judges increased to $54,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2.
 
-1969—Salaries of judges increased to $40,000 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2.
+<b>1969</b>—Salaries of judges increased to $40,000 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2.
 
 #### Certification by Judge of Travel Expenses
 

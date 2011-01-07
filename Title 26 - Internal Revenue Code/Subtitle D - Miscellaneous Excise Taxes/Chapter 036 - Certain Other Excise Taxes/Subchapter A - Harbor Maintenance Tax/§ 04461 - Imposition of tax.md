@@ -30,7 +30,7 @@ For prior section 4461, see Prior Provisions note set out preceding section 4471
 
 #### Amendments
 
-2005—Subsec. (c)(1). Pub. L. 109–59, §11116(b)(1), inserted “or” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “in the case of cargo to be exported from the United States, the exporter, or”.
+<b>2005</b>—Subsec. (c)(1). Pub. L. 109–59, §11116(b)(1), inserted “or” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “in the case of cargo to be exported from the United States, the exporter, or”.
 
 Subsec. (c)(2). Pub. L. 109–59, §11116(b)(2), substituted “imposed” for “imposed—
 
@@ -38,7 +38,7 @@ Subsec. (c)(2). Pub. L. 109–59, §11116(b)(2), substituted “imposed” for �
 
 &emsp;“(B) in any other case,”.
 
-1990—Subsec. (b). Pub. L. 101–508 substituted “0.125 percent” for “0.04 percent”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–508 substituted “0.125 percent” for “0.04 percent”.
 
 #### Effective Date of 2005 Amendment
 
@@ -62,7 +62,7 @@ Section 1407 of Pub. L. 99–662, as amended by Pub. L. 100–647, title II, §2
 
 “(a)
 
-Initial Study.—The Secretary of the Treasury, in consultation with United States ports, the Secretaryof the Army, the Secretary of Transportation, the United States Trade Representative and other appropriate Federal agencies, shall conduct a study to determine the impact of the port use tax imposed under section 4461(a) of the Internal Revenue Code of 1954 \[now 1986\] on potential diversions of cargo from particular United States ports to any port in a country contiguous to the United States. The report of the study shall be submitted to the Ways and Means Committee of the House of Representatives and the Committee on Finance of the United States Senate not later than December 1, 1988.
+Initial Study.—The Secretary of the Treasury, in consultation with United States ports, the Secretary of the Army, the Secretary of Transportation, the United States Trade Representative and other appropriate Federal agencies, shall conduct a study to determine the impact of the port use tax imposed under section 4461(a) of the Internal Revenue Code of 1954 \[now 1986\] on potential diversions of cargo from particular United States ports to any port in a country contiguous to the United States. The report of the study shall be submitted to the Ways and Means Committee of the House of Representatives and the Committee on Finance of the United States Senate not later than December 1, 1988.
 
 “(b)
 

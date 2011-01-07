@@ -10,7 +10,7 @@ The Congress finds that—
 
 #### Amendments
 
-2006—Pars. (1), (2). Pub. L. 109–162 added pars. (1) and (2) and struck out former pars. (1) and (2), which read as follows:
+<b>2006</b>—Pars. (1), (2). Pub. L. 109–162 added pars. (1) and (2) and struck out former pars. (1) and (2), which read as follows:
 
 “(1) the National Court-Appointed Special Advocate provides training and technical assistance to a network of 13,000 volunteers in 377 programs operating in 47 States; and
 

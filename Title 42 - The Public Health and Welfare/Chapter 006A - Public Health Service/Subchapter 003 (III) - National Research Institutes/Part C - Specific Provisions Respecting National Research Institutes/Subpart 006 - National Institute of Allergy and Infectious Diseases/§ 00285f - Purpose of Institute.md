@@ -6,5 +6,5 @@ The general purpose of the National Institute of Allergy and Infectious Diseases
 
 #### Amendments
 
-1993—Pub. L. 103–43 inserted before period at end “, including tropical diseases”.
+<b>1993</b>—Pub. L. 103–43 inserted before period at end “, including tropical diseases”.
 

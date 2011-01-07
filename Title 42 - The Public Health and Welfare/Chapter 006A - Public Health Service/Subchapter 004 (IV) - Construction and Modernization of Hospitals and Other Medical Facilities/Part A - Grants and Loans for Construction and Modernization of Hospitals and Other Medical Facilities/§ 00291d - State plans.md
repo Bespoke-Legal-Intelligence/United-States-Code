@@ -16,7 +16,7 @@ Any State desiring to participate in this part may submit a State plan. Such pla
 
 &emsp;&emsp;(B) the public health centers needed to provide adequate public health services for people residing in the State, and a plan for the distribution of such centers throughout the State;
 
-&emsp;&emsp;(C) the outpatient facilities needed to provide adequate diagnostic or treatment services to ambulatory patients residing in the State, and a plan for distribution of such facilities throughout the State;
+&emsp;&emsp;(C) the outpatient facilities needed to provide adequate diagnostic or treatment services to ambulatory patients residing in theState, and a plan for distribution of such facilities throughout the State;
 
 &emsp;&emsp;(D) the rehabilitation facilities needed to assure adequate rehabilitation services for disabled persons residing in the State, and a plan for distribution of such facilities throughout the State; and
 
@@ -54,7 +54,7 @@ Provisions similar to those comprising this section were contained in a prior se
 
 #### Amendments
 
-1970—Subsec. (a)(3). Pub. L. 91–296, §115, inserted requirement that State advisory councils include representatives particularly concerned with education or training of health professions personnel.
+<b>1970</b>—Subsec. (a)(3). Pub. L. 91–296, §115, inserted requirement that State advisory councils include representatives particularly concerned with education or training of health professions personnel.
 
 Subsec. (a)(4)(C). Pub. L. 91–296, §116(b), substituted “outpatient facilities” for “diagnostic or treatment centers” and “such facilities” for “such centers”.
 

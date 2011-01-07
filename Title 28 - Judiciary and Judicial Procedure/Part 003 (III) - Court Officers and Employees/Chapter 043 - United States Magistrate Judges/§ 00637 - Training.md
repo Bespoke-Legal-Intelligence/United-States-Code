@@ -6,7 +6,7 @@ The Federal Judicial Center shall conduct periodic training programs and seminar
 
 #### Amendments
 
-1968—Pub. L. 90–578 substituted provisions for periodic training programs and seminars for United States magistrates for prior authorization of United States commissioners to administer oaths and take bail, acknowledgements, affidavits, and depositions, now incorporated in section 636(a)(2) of this title.
+<b>1968</b>—Pub. L. 90–578 substituted provisions for periodic training programs and seminars for United States magistrates for prior authorization of United States commissioners to administer oaths and take bail, acknowledgements, affidavits, and depositions, now incorporated in section 636(a)(2) of this title.
 
 #### Change of Name
 

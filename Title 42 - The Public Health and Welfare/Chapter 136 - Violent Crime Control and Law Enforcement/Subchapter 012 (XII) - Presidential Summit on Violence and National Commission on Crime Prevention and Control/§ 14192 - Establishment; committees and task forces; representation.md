@@ -2,7 +2,7 @@
 
 #### (a) Establishment and appointment of members
 
-There is established a commission to be known as the “National Commission on CrimeControl and Prevention”. The Commission shall be composed of 28 members appointed as follows:
+There is established a commission to be known as the “National Commission on Crime Control and Prevention”. The Commission shall be composed of 28 members appointed as follows:
 
 &emsp;(1) 10 persons by the President, not more than 6 of whom shall be of the same major political party.
 
@@ -16,7 +16,7 @@ The Commission shall establish committees or task forces from among its members 
 
 #### (c) Representation
 
-(1) At least 1 member of the Commission appointed by the President, at least 2 members of the Commission appointed by the President pro tempore of the Senate, and at least 2 members of the Commission appointed by the Speaker of the House of Representatives shall be persons well-qualified to participate in the Commission's examination of the subject area of crime and violence generally, with education, training, expertise, or experience in such areas as law enforcement, law, sociology, psychology, social work, and ethnography and urban poverty (including health care, housing, education, and employment).
+(1) At least 1 member of the Commission appointed by the President, at least 2 members ofthe Commission appointed by the President pro tempore of the Senate, and at least 2 members of the Commission appointed by the Speaker of the House of Representatives shall be persons well-qualified to participate in the Commission's examination of the subject area of crime and violence generally, with education, training, expertise, or experience in such areas as law enforcement, law, sociology, psychology, social work, and ethnography and urban poverty (including health care, housing, education, and employment).
 
 (2) At least 1 member of the Commission appointed by the President, at least 2 members of the Commission appointed by the President pro tempore of the Senate, and at least 2 members of the Commission appointed by the Speaker of the House of Representatives shall be persons well-qualified to participate in the Commission's examination of the subject area of the causes of the demand for drugs, with education, training, expertise, or experience in such areas as addiction, biomedicine, sociology, psychology, law, and ethnography and urban poverty (including health care, housing, education, and employment).
 

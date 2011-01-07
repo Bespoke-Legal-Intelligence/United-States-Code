@@ -24,7 +24,7 @@ The President shall report to the Congress, not later than 1 year after December
 
 #### Amendments
 
-1996—Subsecs. (a), (b)(1). Pub. L. 104–188 substituted “2467(4)” for “2462(a)(4)”.
+<b>1996</b>—Subsecs. (a), (b)(1). Pub. L. 104–188 substituted “2467(4)” for “2462(a)(4)”.
 
 #### Effective Date of 1996 Amendment
 

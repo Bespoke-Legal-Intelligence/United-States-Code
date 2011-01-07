@@ -2,7 +2,7 @@
 
 #### (a) Immigration and refugee information
 
-Not later than 1 year after October 18, 2004, and every 12 months thereafter through 2012, the Secretary of State and the Secretary of Homeland Security shall submit a joint report to theappropriate congressional committees and the Committees on the Judiciary of the House of Representatives and the Senate on the operation of this subchapter during the previous year, which shall include the following:
+Not later than 1 year after October 18, 2004, and every 12 months thereafter through 2012, the Secretary of State and the Secretary of Homeland Security shall submit a joint report to the appropriate congressional committees and the Committees on the Judiciary of the House of Representatives and the Senate on the operation of this subchapter during the previous year, which shall include the following:
 
 &emsp;(1) The number of aliens who are nationals or citizens of North Korea who applied for political asylum and the number who were granted political asylum.
 
@@ -24,7 +24,7 @@ The President shall include in each annual report on proposed refugee admission 
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–346, §11(1), (2), inserted “and refugee” before “information” in heading, and, in introductory provisions, substituted “through 2012” for “for each of the following 5 years” and “which shall include the following:” for “which shall include—”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–346, §11(1), (2), inserted “and refugee” before “information” in heading, and, in introductory provisions, substituted “through 2012” for “for each of the following 5 years” and “which shall include the following:” for “which shall include—”.
 
 Pub. L. 110–346, §11(3)–(5), substituted “The number of aliens” for “the number of aliens” in pars. (1) and (2) and a period for “; and” in par. (1) and added par. (3).
 

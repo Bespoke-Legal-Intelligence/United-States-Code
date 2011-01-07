@@ -42,15 +42,15 @@ June 25, 1956, ch. 439, §4, 70 Stat. 333.
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–163 substituted “
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted “
 
 Navy Reserve” for “
 
 Naval Reserve” in heading and “Navy Reserve” for “Naval Reserve” in text.
 
-1997—Subsec. (b)(4). Pub. L. 105–85 substituted “Commissioned Corps” for “commissioned corps”.
+<b>1997</b>—Subsec. (b)(4). Pub. L. 105–85 substituted “Commissioned Corps” for “commissioned corps”.
 
-1996—Pub. L. 104–201, §581(c)(3), struck out “enlisted” after “count” in section catchline.
+<b>1996</b>—Pub. L. 104–201, §581(c)(3), struck out “enlisted” after “count” in section catchline.
 
 Subsec. (a). Pub. L. 104–201, §581(a), (c)(2), inserted heading, substituted “while also performing service as a cadet or midshipman or serving as a midshipman” for “while also serving as a cadet at the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy, or as a midshipman at the United States Naval Academy or”, and inserted before period at end “or an officer in the Commissioned Corps of the Public Health Service”.
 
@@ -64,15 +64,15 @@ Subsec. (b). Pub. L. 104–201, §581(b), amended subsec. (b) generally. Prior t
 
 Subsec. (c). Pub. L. 104–201, §581(c)(1), added subsec. (c).
 
-1989—Subsec. (a). Pub. L. 101–189, §652(a)(1)(A), struck out “, under an appointment accepted after June 25, 1956,” after “Naval Reserve”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–189, §652(a)(1)(A), struck out “, under an appointment accepted after June 25, 1956,” after “Naval Reserve”.
 
 Subsec. (b)(1). Pub. L. 101–189, §652(a)(2)(A), struck out “, if he was appointed as a midshipman or cadet after March 4, 1913” after “United States Coast Guard Academy”.
 
 Subsec. (b)(2). Pub. L. 101–189, §652(a)(2)(B), struck out “, if he was appointed as a midshipman or cadet after August 24, 1912” after “United States Coast Guard Academy”.
 
-1984—Subsec. (b)(3). Pub. L. 98–557 added par. (3).
+<b>1984</b>—Subsec. (b)(3). Pub. L. 98–557 added par. (3).
 
-1968—Pub. L. 90–235 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1968</b>—Pub. L. 90–235 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Transfer of Functions
 

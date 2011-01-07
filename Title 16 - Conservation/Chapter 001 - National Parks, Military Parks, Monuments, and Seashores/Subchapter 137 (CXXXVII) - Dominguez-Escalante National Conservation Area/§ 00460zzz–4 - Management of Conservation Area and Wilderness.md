@@ -144,7 +144,7 @@ In accordance with any applicable laws and subject to such terms and conditions 
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of law and subject to subparagraph (B), beginning on March 30, 2009, neither the President nor any other officer, employee, or agent of the United States shall fund, assist, authorize, or issue a license or permit for the development of any new irrigation and pumping facility, reservoir, water conservation work,aqueduct, canal, ditch, pipeline, well, hydropower project, transmission, other ancillary facility, or other water, diversion, storage, or carriage structure in the Wilderness.
+&emsp;&emsp;Notwithstanding any other provision of law and subject to subparagraph (B), beginning on March 30, 2009, neither the President nor any other officer, employee, or agent of the United States shall fund, assist, authorize, or issue a license or permit for the development of any new irrigation and pumping facility, reservoir, water conservation work, aqueduct, canal, ditch, pipeline, well, hydropower project, transmission, other ancillary facility, or other water, diversion, storage, or carriage structure in the Wilderness.
 
 #### (B) Exception
 

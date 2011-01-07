@@ -10,7 +10,7 @@ Under article I, section 8, of the Constitution, it is specifically provided tha
 
 #### (c) Presidential executive power as Commander-in-Chief; limitation
 
-The constitutional powers of the President as Commander-in-Chief to introduce United States Armed Forces into hostilities, or into situations where imminent involvement in hostilities is clearly indicated by the circumstances, are exercised only pursuant to (1) a declaration of war, (2) specific statutory authorization, or (3) a national emergency created by attack upon the United States, its territories or possessions, or its armed forces.
+The constitutional powers of the President as Commander-in-Chief to introduce United StatesArmed Forces into hostilities, or into situations where imminent involvement in hostilities is clearly indicated by the circumstances, are exercised only pursuant to (1) a declaration of war, (2) specific statutory authorization, or (3) a national emergency created by attack upon the United States, its territories or possessions, or its armed forces.
 
 (Pub. L. 93–148, §2, Nov. 7, 1973, 87 Stat. 555.)
 
@@ -24,11 +24,11 @@ Section 1 of Pub. L. 93–148 provided that: “This joint resolution \[enacting
 
 #### Report on Responsible Redeployment of United States Armed Forces From Iraq
 
-Pub. L. 111–84, div. A, title XII, §1227, Oct. 28, 2009, 123 Stat. 2525, provided that:
+Pub. L. 111–84, div. A, title XII, §1227, Oct. 28, 2009, 123 Stat. 2525, as amended by Pub. L. 111–383, div. A, title XII, §1233(a)–(e), Jan. 7, 2011, 124 Stat. 4396, 4397, provided that:
 
 “(a)
 
-Report Required.—Not later than 90 days after the date of the enactment of this Act \[Oct. 28, 2009\], or December 31, 2009, whichever occurs later, and every 90 days thereafter, the Secretary of Defense shall submit to the appropriate congressional committees a report concerning the responsible redeployment of United States Armed Forces from Iraq in accordance with the policy announced by the President on February 27, 2009, and the Agreement Between the United States of America and the Republic of Iraq On the Withdrawal of United States Forces From Iraq and the Organization of Their Activities During Their Temporary Presence in Iraq.
+Report Required.—Not later than 90 days after the date of the enactment of this Act \[Oct. 28, 2009\], or December 31, 2010, whichever occurs later, and every 180 days thereafter, the Secretary of Defense shall submit to the appropriate congressional committees a report concerning the responsible redeployment of United States Armed Forces from Iraq in accordance with the policy announced by the President on February 27, 2009, and the Agreement Between the United States of America and the Republic of Iraq On the Withdrawal of United States Forces From Iraq and the Organization of Their Activities During Their Temporary Presence in Iraq.
 
 “(b)
 
@@ -40,17 +40,31 @@ Elements.—The report required under subsection (a) shall include the following
 
 &emsp;“(3) An estimate of the number of military vehicles, containers of equipment, tons of ammunition, or other significant items belonging to the Department of Defense removed from Iraq during the preceding 90-day period, an estimate of the remaining amount of such items belonging to the Department of Defense, and an assessment of the likelihood of successfully removing, demilitarizing, or otherwise transferring all items belonging to the Department of Defense from Iraq on or before December 31, 2011.
 
-&emsp;“(4) An assessment of United States detainee operations and releases. Such assessment should include the total number of detainees held by the United States in Iraq, the number of detainees in each threat level category, the number of detainees who are not nationals of Iraq, the number of detainees transferredto Iraqi authorities, the number of detainees who were released from United States custody and the reasons for their release, and the number of detainees who having been released in the past were recaptured or had their remains identified planning or after carrying out attacks on United States or Coalition forces.
+&emsp;“(4) An assessment of United States detainee operations and releases. Such assessment should include the total number of detainees held by the United States in Iraq, the number of detainees in each threat level category, the number of detainees who are not nationals of Iraq, the number of detainees transferred to Iraqi authorities, the number of detainees who were released from United States custody and the reasons for their release, and the number of detainees who having been released in the past were recaptured or had their remains identified planning or after carrying out attacks on United States or Coalition forces.
 
-&emsp;“(5) A listing of the objective and subjective factors utilized by the commander of Multi-National Force–Iraq, including any changes to that list in the case of an update to the report, to determine risk levels associated with the drawdown of United States Armed Forces, and the process and timing that will be utilized by the commander of Multi-National Force–Iraq and the Secretary of Defense to assess risk and make recommendations to the President about either continuing the redeployment of United States Armed Forces from Iraq in accordance with the schedule announced by the President or modifying the pace or timing of that redeployment.
+&emsp;“(5) A listing of the objective and subjective factors utilized by the commander of United States Forces–Iraq, including any changes to that list in the case of an update to the report, to determine risk levels associated with the drawdown of United States Armed Forces, and the process and timing that will be utilized by the commander of United States Forces–Iraq and the Secretary of Defense to assess risk and make recommendations to the President about either continuing the redeployment of United States Armed Forces from Iraq in accordance with the schedule announced by the President or modifying the pace or timing of that redeployment.
+
+&emsp;“(6) An assessment of progress to transfer responsibility of programs, projects, and activities carried out in Iraq by the Department of Defense to other United States Government departments and agencies, international or nongovernmental entities, or the Government of Iraq. The assessment should include a description of the numbers and categories of programs, projects, and activities for which such other entities have taken responsibility or which have been discontinued by the Department of Defense. The assessment should also include a discussion of any difficulties or barriers in transitioning such programs, projects, and activities and what, if any, solutions have been developed to address such difficulties or barriers.
+
+&emsp;“(7) An assessment of progress toward the goal of building the minimum essential capabilities of the Ministry of Defense and the Ministry of the Interior of Iraq, including a description of—
+
+&emsp;&emsp;“(A) such capabilities both extant and remaining to be developed;
+
+&emsp;&emsp;“(B) major equipment necessary to achieve such capabilities;
+
+&emsp;&emsp;“(C) the level and type of support provided by the United States to address shortfalls in such capabilities; and
+
+&emsp;&emsp;“(D) the level of commitment, both financial and political, made by the Government of Iraq to develop such capabilities, including a discussion of resources used by the Government of Iraq to develop capabilities that the Secretary determines are not minimum essential capabilities for purposes of this paragraph.
+
+&emsp;“(8) A listing and assessment of the anticipated level and type of support to be provided by United States special operations forces to the Government of Iraq and Iraqi special operations forces during the redeployment of United States conventional forces from Iraq. The assessment should include a listing of anticipated critical support from general purpose forces required by United States special operations forces and Iraqi special operations forces. The assessment should also include combat support, including rotary aircraft and intelligence, surveillance, and reconnaissance assets, combat service support, and contractor support needed through December 31, 2011.
 
 “(c)
 
-Inclusion in Other Reports.—The report required under subsection (a) and any updates to the report may be included in any other required report on Iraq submitted to Congress by the Secretary of Defense.
+Secretary of State Comments.—Prior to submitting the report required under subsection (a), the Secretary of Defense shall provide a copy of the report to the Secretary of State for review. At the request of the Secretary of State, the Secretary of Defense shall include an appendix to the report which contains any comments or additional information that the Secretary of State requests.
 
 “(d)
 
-Form.—The report required under subsection (a), whether or not included in another report on Iraq submitted to Congress by the Secretary of Defense, may include a classified annex.
+Form.—The report required under subsection (a) may include a classified annex.
 
 “(e)
 
@@ -58,99 +72,15 @@ Appropriate Congressional Committees.—In this section, the term ‘appropriate
 
 &emsp;“(1) the Committee on Armed Services, the Committee on Foreign Relations, the Select Committee on Intelligence, and the Committee on Appropriations of the Senate; and
 
-&emsp;“(2) the Committee on Armed Services, the Committee on Foreign Affairs, the Permanent Select Committee on Intelligence, and the Committee on Appropriations of the House of Representatives.”
+&emsp;“(2) the Committee on Armed Services, the Committee on Foreign Affairs, the Permanent Select Committee on Intelligence, and the Committee on Appropriations of the House of Representatives.
+
+“(f)
+
+Termination.—The requirement to submit the report required under subsection (a) shall terminate on September 30, 2012.”
 
 #### United States Policy on Iraq
 
-Pub. L. 109–163, div. A, title XII, §1227, Jan. 6, 2006, 119 Stat. 3465, as amended by Pub. L. 110–181, div. A, title XII, §1223(a)(1), (b), Jan. 28, 2008, 122 Stat. 373, 374, provided that:
-
-“(a)
-
-Short Title.—This section may be cited as the ‘United States Policy in Iraq Act’.
-
-“(b)
-
-Sense of Congress.—It is the sense of the Congress that, in order to succeed in Iraq—
-
-&emsp;“(1) members of the United States Armed Forces who are serving or have served in Iraq and their families deserve the utmost respect and the heartfelt gratitude of the American people for their unwavering devotion to duty, service to the Nation, and selfless sacrifice under the most difficult circumstances; the United States Congress supports our troops and supports a successful conclusion to their mission;
-
-&emsp;“(2) it is important to recognize that the Iraqi people have made enormous sacrifices and that the overwhelming majority of Iraqis want to live in peace and security; and that the Iraqi security forces in a growing number of incidences are fighting side-by-side with coalition forces, are increasing in numbers and improving in military capability;
-
-&emsp;“(3) the terrorists seeking to prevent the emergence of a secure, stable, peaceful, and democratic Iraq are led by individuals seeking to restore dictatorship in Iraq or who want to advance al Qaeda's broad vision of violently extreme Islam in the Middle East;
-
-&emsp;“(4) calendar year 2006 should be a period of significant transition to full Iraqi sovereignty, with Iraqi security forces taking the lead for the security of a free and sovereign Iraq, thereby creating the conditions for the phased redeployment of United States forces from Iraq;
-
-&emsp;“(5) United States military forces should not stay in Iraq any longer than required and the professional military judgment of our senior military should be a key factor in future decisions;
-
-&emsp;“(6) the Administration should tell the leaders of all groups and political parties in Iraq that they need to make the compromises necessary to achieve the broad-based and sustainable political settlement that is essential for defeating the insurgency in Iraq, within the schedule they set for themselves; and
-
-&emsp;“(7) the President has committed to continue to explain to Congress and the American people progress toward a successful completion of the mission in Iraq.
-
-“(c)
-
-Reports to Congress on United States Policy and Military Operations in Iraq.—Not later than 90 days after the date of the enactment of this Act \[Jan. 6, 2006\], and every three months thereafter until all United States combat brigades have redeployed from Iraq, the President shall submit to Congress a report on United States policy and military operations in Iraq. To the maximum extent practicable, the report required in (c) shall be unclassified, with a classified annex if necessary. Each report shall include to the extent practical, the following information:
-
-&emsp;“(1) The current military mission and the diplomatic, political, economic, and military measures that are being or have been undertaken to successfully complete or support that mission, including:
-
-&emsp;&emsp;“(A) Efforts to convince Iraq's main communities to make the compromises necessary for a broad-based and sustainable political settlement.
-
-&emsp;&emsp;“(B) Engaging the international community and the region in efforts to stabilize Iraq and to forge a broad-based and sustainable political settlement.
-
-&emsp;&emsp;“(C) Strengthening the capacity of Iraq's government ministries.
-
-&emsp;&emsp;“(D) Accelerating the delivery of basic services.
-
-&emsp;&emsp;“(E) Securing the delivery of pledged economic assistance from the international community and additional pledges of assistance.
-
-&emsp;&emsp;“(F) Training Iraqi security forces and transferring additional security responsibilities to those forces and the government of Iraq.
-
-&emsp;“(2) Whether the Iraqis have made the compromises necessary to achieve the broad-based and sustainable political settlement that is essential for defeating the insurgency in Iraq, including—
-
-&emsp;&emsp;“(A) enacting a broadly-accepted hydrocarbon law that equitably shares revenue among all Iraqis;
-
-&emsp;&emsp;“(B) adopting laws necessary for the conduct of provincial and local elections, taking steps to implement such laws, and setting a schedule to conduct provincial and local elections;
-
-&emsp;&emsp;“(C) reforming current laws governing the de-Baathification process in a manner that encourages national reconciliation;
-
-&emsp;&emsp;“(D) amending the Constitution of Iraq in a manner that encourages national reconciliation;
-
-&emsp;&emsp;“(E) allocating and beginning expenditure of $10 billion in Iraqi revenues for reconstruction projects, including delivery of essential services, and implementing such reconstruction projects on an equitable basis; and
-
-&emsp;&emsp;“(F) making significant efforts to plan and implement disarmament, demobilization, and reintegration programs relating to Iraqi militias.
-
-&emsp;“(3) A detailed description of the Joint Campaign Plan, or any subsequent revisions, updates, or documents that replace or supersede the Joint Campaign Plan, including goals, phases, or other milestones contained in the Joint Campaign Plan. Specifically, the description shall include the following:
-
-&emsp;&emsp;“(A) An explanation of conditions required to move through phases of the Joint Campaign Plan, in particular those conditions that must be met in order to provide for the transition of additional security responsibility to the Iraqi Security Forces, and the measurements used to determine progress.
-
-&emsp;&emsp;“(B) An assessment of which conditions in the Joint Campaign Plan have been achieved and which conditions have not been achieved. The assessment of those conditions that have not been achieved shall include a discussion of the factors that have precluded progress.
-
-&emsp;&emsp;“(C) A description of any companion or equivalent plan of the Government of Iraq used to measure progress for Iraqi Security Forces undertaking joint operations with Coalition Forces.
-
-&emsp;“(4) To the extent that these conditions are not covered under paragraph (3), the following should also be addressed:
-
-&emsp;&emsp;“(A) The number of battalions of the Iraqi Armed Forces that must be able to operate independently or to take the lead in counterinsurgency operations and the defense of Iraq's territory.
-
-&emsp;&emsp;“(B) The number of Iraqi special police units that must be able to operate independently or to take the lead in maintaining law and order and fighting the insurgency.
-
-&emsp;&emsp;“(C) The number of regular police that must be trained and equipped to maintain law and order.
-
-&emsp;&emsp;“(D) The ability of Iraq's Federal ministries and provincial and local governments to independently sustain, direct, and coordinate Iraq's security forces.
-
-&emsp;“(5) The criteria to be used to evaluate progress toward meeting such conditions.
-
-&emsp;“(6) A plan for meeting such conditions, an assessment of the extent to which such conditions have been met, information regarding variables that could alter that plan, and the reasons for any subsequent changes to that plan.
-
-&emsp;“(7) An assessment of the levels of United States Armed Forces required in Iraq for the six-month period following the date of the report, the missions to be undertaken by the Armed Forces in Iraq for such period, and the incremental costs or savings of any proposed changes to such levels or missions.
-
-&emsp;“(8) A description of the range of conditions that could prompt changes to the levels of United States Armed Forces required in Iraq for the six-month period following the date of the report or the missions to be undertaken by the Armed Forces in Iraq for such period, including the status of planning for such changes to the levels or missions of the Armed Forces in Iraq.
-
-“(d)
-
-Congressional Briefings Required.—Not later than 30 days after the submission of the first report under subsection (c) on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008 \[Jan. 28, 2008\], the Secretary of Defense and the Chairman of the Joint Chiefs of Staff shall meet with the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] to brief such committees on the matters described in paragraphs (7) and (8) of subsection (c) contained in the report. Not later than 30 days after the submission of each subsequent report under subsection (c), appropriate senior officials of the Department of Defense shall meet with the congressional defense committees to brief such committees on the matters described in paragraphs (7) and (8) of subsection (c) contained in the report.”
-
-\[Pub. L. 110–181, div. A, title XII, §1223(a)(2), Jan. 28, 2008, 122 Stat. 374, provided that: “The amendments made by paragraph (1) \[amending section 1227 of Pub. L. 109–163, set out above\] shall apply with respect to each report required to be submitted to Congress under section 1227(c) of the National Defense Authorization Act for Fiscal Year 2006 \[Pub. L. 109–163\] on or after the date of the enactment of this Act \[Jan. 28, 2008\].”\]
-
-\[Memorandum of President of the United States, Apr. 6, 2006, 71 F.R. 19427, assigned to the Secretary of State the functions of the President under section 1227(c) of Pub. L. 109–163, set out above.\]
+Pub. L. 109–163, div. A, title XII, §1227, Jan. 6, 2006, 119 Stat. 3465, as amended by Pub. L. 110–181, div. A, title XII, §1223(a)(1), (b), Jan. 28, 2008, 122 Stat. 373, 374, known as the “United States Policy in Iraq Act”, which required the President to submit reports to Congress on United States policy and military operations in Iraq not later than 90 days after Jan. 6, 2006, and every three months thereafter, until all United States combat brigades had been redeployed from Iraq, and required congressional briefings by senior officials of the Department of Defense subsequent to the submission of each such report, was repealed by Pub. L. 111–383, div. A, title XII, §1233(f)(1), Jan. 7, 2011, 124 Stat. 4397.
 
 #### Authorization for Use of Military Force Against Iraq Resolution of 2002
 
@@ -180,7 +110,7 @@ Pub. L. 107–243, Oct. 16, 2002, 116 Stat. 1498, provided that:
 
 “Whereas the attacks on the United States of September 11, 2001, underscored the gravity of the threat posed by the acquisition of weapons of mass destruction by international terrorist organizations;
 
-“Whereas Iraq's demonstrated capability and willingness to use weapons of mass destruction, the risk that the current Iraqi regime will either employ those weapons to launch a surprise attack against the United States or its Armed Forces or provide them to international terrorists who would do so, and the extreme magnitude of harm that would result tothe United States and its citizens from such an attack, combine to justify action by the United States to defend itself;
+“Whereas Iraq's demonstrated capability and willingness to use weapons of mass destruction, the risk that the current Iraqi regime will either employ those weapons to launch a surprise attack against the United States or its Armed Forces or provide them to international terrorists who would do so, and the extreme magnitude of harm that would result to the United States and its citizens from such an attack, combine to justify action by the United States to defend itself;
 
 “Whereas United Nations Security Council Resolution 678 (1990) authorizes the use of all necessary means to enforce United Nations Security Council Resolution 660 (1990) and subsequent relevant resolutions and to compel Iraq to cease certain activities that threaten international peace and security, including the development of weapons of mass destruction and refusal or obstruction of United Nations weapons inspections in violation of United Nations Security Council Resolution 687 (1991), repression of its civilian population in violation of United Nations Security Council Resolution 688 (1991), and threatening its neighbors or United Nations operations in Iraq in violation of United Nations Security Council Resolution 949 (1994);
 
@@ -192,7 +122,7 @@ Pub. L. 107–243, Oct. 16, 2002, 116 Stat. 1498, provided that:
 
 “Whereas on September 12, 2002, President Bush committed the United States to ‘work with the United Nations Security Council to meet our common challenge’ posed by Iraq and to ‘work for the necessary resolutions,’ while also making clear that ‘the Security Council resolutions will be enforced, and the just demands of peace and security will be met, or action will be unavoidable’;
 
-“Whereas the United States is determined to prosecute the war on terrorism and Iraq's ongoing support for international terrorist groups combined with its development of weapons of mass destruction in direct violation of its obligations under the 1991 cease-fire and other United Nations Security Council resolutions make clear that it is in the national security interests of the United States and in furtherance of the war on terrorism that all relevant United Nations Security Council resolutions be enforced, including through the use of force if necessary;
+“Whereas the United States is determined to prosecute the war on terrorism and Iraq's ongoing support for international terrorist groups combined with its development of weapons of mass destruction in directviolation of its obligations under the 1991 cease-fire and other United Nations Security Council resolutions make clear that it is in the national security interests of the United States and in furtherance of the war on terrorism that all relevant United Nations Security Council resolutions be enforced, including through the use of force if necessary;
 
 “Whereas Congress has taken steps to pursue vigorously the war on terrorism through the provision of authorities and funding requested by the President to take the necessary actions against international terrorists and terrorist organizations, including those nations, organizations, or persons who planned, authorized, committed, or aided the terrorist attacks that occurred on September 11, 2001, or harbored such persons or organizations;
 
@@ -284,7 +214,7 @@ Pub. L. 107–40, Sept. 18, 2001, 115 Stat. 224, provided that:
 
 “(a)
 
-In General.—That the President is authorized to use all necessary and appropriate force against those nations, organizations, or persons he determines planned, authorized, committed, or aided the terrorist attacks that occurred on September 11, 2001, or harbored such organizations or persons, in order to prevent any future acts of international terrorism against the United States by such nations, organizations or persons.
+In General.—That the President is authorized to use all necessary and appropriate force against those nations, organizations, or persons he determines planned, authorized, committed, or aided the terrorist attacks that occurred on September 11, 2001, or harbored such organizations or persons, in order to prevent any future acts of international terrorism against theUnited States by such nations, organizations or persons.
 
 “(b)
 
@@ -382,7 +312,7 @@ Pub. L. 103–423, Oct. 25, 1994, 108 Stat. 4358, provided that:
 
 #### “SEC. 5. REPORT ON UNITED STATES AGREEMENTS.
 
-“Not later than November 15, 1994, the Secretary of State shall provide a comprehensive report to Congress on all agreements the United States has entered into with other nations, including any assistance pledged or provided, in connection with United States efforts in Haiti. Such report shall also include information on any agreements or commitments relating to United Nations Security Council actions concerning Haiti since 1992.
+“Not later than November 15, 1994, the Secretary of State shall provide a comprehensive report to Congresson all agreements the United States has entered into with other nations, including any assistance pledged or provided, in connection with United States efforts in Haiti. Such report shall also include information on any agreements or commitments relating to United Nations Security Council actions concerning Haiti since 1992.
 
 #### “SEC. 6. TRANSITION TO UNITED NATIONS MISSION IN HAITI.
 
@@ -612,7 +542,7 @@ Sec. 5. (a) The Congress declares that the participation of the armed forces of 
 
 “
 
-Sec. 6. The participation of United States Armed Forces in the Multinational Force in Lebanon shall be authorized for purposes of the War Powers Resolution \[50 U.S.C. 1541 et seq.\] until the end of the eighteen-month period beginning on the date of enactment ofthis resolution \[Oct. 12, 1983\] unless the Congress extends such authorization, except that such authorization shall terminate sooner upon the occurrence of any one of the following:
+Sec. 6. The participation of United States Armed Forces in the Multinational Force in Lebanon shall be authorized for purposes of the War Powers Resolution \[50 U.S.C. 1541 et seq.\] until the end of the eighteen-month period beginning on the date of enactment of this resolution \[Oct. 12, 1983\] unless the Congress extends such authorization, except that such authorization shall terminate sooner upon the occurrence of any one of the following:
 
 &emsp;“(1) the withdrawal of all foreign forces from Lebanon, unless the President determines and certifies to the Congress that continued United States Armed Forces participation in the Multinational Force in Lebanon is required after such withdrawal in order to accomplish the purposes specified in the September 25, 1982, exchange of letters providing for the establishment of the Multinational Force in Lebanon; or
 

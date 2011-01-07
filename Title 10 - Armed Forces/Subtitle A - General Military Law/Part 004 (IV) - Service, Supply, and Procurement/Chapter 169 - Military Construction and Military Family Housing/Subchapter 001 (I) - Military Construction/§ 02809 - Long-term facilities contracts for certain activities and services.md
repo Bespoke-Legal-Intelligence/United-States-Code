@@ -58,25 +58,25 @@ Notice and Wait Requirements.—A contract may not be entered into under this se
 
 #### Amendments
 
-2003—Subsec. (f)(2). Pub. L. 108–136 struck out “calendar” after “21” and inserted before period at end “or, if over sooner, a period of 14 days has expired following the date on which a copy of the justification and economic analysis are provided in an electronic medium pursuant to section 480 of this title”.
+<b>2003</b>—Subsec. (f)(2). Pub. L. 108–136 struck out “calendar” after “21” and inserted before period at end “or, if over sooner, a period of 14 days has expired following the date on which a copy of the justification and economic analysis are provided in an electronic medium pursuant to section 480 of this title”.
 
-1991—Pub. L. 102–190 substituted section catchline for one which read “Test of long-term facilities contracts” and amended text generally, substituting present provisions for provisions authorizing contracts for construction, management, and operation of facilities on or near military installations for the provision of certain enumerated activities or services, setting out procedures, terms, and other limits for such contracts, providing that no more than 5 contracts may be entered into under this section other than contracts for child care centers, and providing that authority to enter into such contracts was to expire on Sept. 30, 1991.
+<b>1991</b>—Pub. L. 102–190 substituted section catchline for one which read “Test of long-term facilities contracts”and amended text generally, substituting present provisions for provisions authorizing contracts for construction, management, and operation of facilities on or near military installations for the provision of certain enumerated activities or services, setting out procedures, terms, and other limits for such contracts, providing that no more than 5 contracts may be entered into under this section other than contracts for child care centers, and providing that authority to enter into such contracts was to expire on Sept. 30, 1991.
 
-1989—Subsec. (a)(1)(B)(ii). Pub. L. 101–189, §2803(1), substituted “Utilities, including potable” for “Potable”.
+<b>1989</b>—Subsec. (a)(1)(B)(ii). Pub. L. 101–189, §2803(1), substituted “Utilities, including potable” for “Potable”.
 
 Subsec. (b). Pub. L. 101–189, §2803(2), substituted “activities and services described in clause (i) or (ii) of subsection (a)(1)(B)” for “child care centers”.
 
 Subsec. (c). Pub. L. 101–189, §2803(3), substituted “1991” for “1989”.
 
-1988—Subsec. (a)(3). Pub. L. 100–456 substituted “32” for “20”.
+<b>1988</b>—Subsec. (a)(3). Pub. L. 100–456 substituted “32” for “20”.
 
-1987—Subsec. (a)(1)(B)(vi), (vii). Pub. L. 100–180, §2302(a), added cl. (vi) and redesignated former cl. (vi) as (vii).
+<b>1987</b>—Subsec. (a)(1)(B)(vi), (vii). Pub. L. 100–180, §2302(a), added cl. (vi) and redesignated former cl. (vi) as (vii).
 
 Subsec. (c). Pub. L. 100–180, §2302(b), substituted “1989” for “1987”.
 
-1986—Subsec. (a)(1). Pub. L. 99–661, §2711, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary concerned may enter into a contract for the construction, management, and operation of a facility on or near a military installation in the United States for the provision of child care services, waste water treatment, or depot supply activities in a case in which the Secretary concerned determines that the facility can be more efficiently and more economically provided under a long-term contract than by other appropriate means.”
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–661, §2711, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary concerned may enter into a contract for the construction, management, and operation of a facility on or near a military installation in the United States for the provision of child care services, waste water treatment, or depot supply activities in a case in which the Secretary concerned determines that the facility can be more efficiently and more economically provided under a long-term contract than by other appropriate means.”
 
-Pub. L. 99–661, §1343(a)(20)(A), substituted “a contract” for “contracts”, “a facility” for “facilities”, “a military installation” for “military installations”, “acase” for “cases”, “facility” for “facilities”, and “a long-term contract” for “long-term contracts” and inserted a comma after “waste water treatment”.
+Pub. L. 99–661, §1343(a)(20)(A), substituted “a contract” for “contracts”, “a facility” for “facilities”, “a military installation” for “military installations”, “a case” for “cases”, “facility” for “facilities”, and “a long-term contract” for “long-term contracts” and inserted a comma after “waste water treatment”.
 
 Subsec. (a)(2). Pub. L. 99–661, §1343(a)(20)(B), substituted “this section” for “subsection (a)”.
 

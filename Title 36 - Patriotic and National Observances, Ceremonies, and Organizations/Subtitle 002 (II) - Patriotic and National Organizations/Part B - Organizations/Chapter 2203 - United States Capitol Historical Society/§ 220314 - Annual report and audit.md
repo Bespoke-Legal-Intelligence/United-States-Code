@@ -36,7 +36,7 @@ In subsection (b), the words “In addition to complying with the audit requirem
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–217 substituted “section 5108 of title 40” for “section 451 of the Legislative Reorganization Act of 1970 (40 U.S.C. 193m–1)”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–217 substituted “section 5108 of title 40” for “section 451 of the Legislative Reorganization Act of 1970 (40 U.S.C. 193m–1)”.
 
 #### Termination of Reporting Requirements
 

@@ -6,7 +6,7 @@ For the purposes of section 1131 of this title, every person employed in the act
 
 #### Amendments
 
-1991—Pub. L. 102–83, §5(a), renumbered section 332 of this title as this section.
+<b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 332 of this title as this section.
 
 Pub. L. 102–83, §5(c)(1), substituted “1131” for “331”.
 

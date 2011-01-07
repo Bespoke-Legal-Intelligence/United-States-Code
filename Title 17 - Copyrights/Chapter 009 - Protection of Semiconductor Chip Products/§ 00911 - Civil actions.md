@@ -22,7 +22,7 @@
 
 #### Amendments
 
-1990—Subsec. (g). Pub. L. 101–553 added subsec. (g).
+<b>1990</b>—Subsec. (g). Pub. L. 101–553 added subsec. (g).
 
 #### Effective Date of 1990 Amendment
 

@@ -1,7 +1,5 @@
 ### SUBCHAPTER II—REVENUES FOR REFUGE OPERATIONS AND THE MIGRATORY BIRD CONSERVATION FUND
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

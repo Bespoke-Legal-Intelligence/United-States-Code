@@ -20,7 +20,7 @@ This Act, referred to in text, is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936
 
 #### Amendments
 
-2007—Pub. L. 110–5 added Pub. L. 109–289, §20610. See 2006 Amendment note below.
+<b>2007</b>—Pub. L. 110–5 added Pub. L. 109–289, §20610. See 2006 Amendment note below.
 
-2006—Pub. L. 109–289, §20610, as added by Pub. L. 110–5, amended section catchline and text generally. Prior to amendment, text related to use of State real property for a one-stop service delivery system.
+<b>2006</b>—Pub. L. 109–289, §20610, as added by Pub. L. 110–5, amended section catchline and text generally. Prior to amendment, text related to use of State real property for a one-stop service delivery system.
 

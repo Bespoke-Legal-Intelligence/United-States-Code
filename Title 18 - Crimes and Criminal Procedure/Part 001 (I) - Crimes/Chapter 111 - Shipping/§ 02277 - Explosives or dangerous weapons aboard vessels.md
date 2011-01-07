@@ -24,7 +24,7 @@ Act June 6, 1941, ch. 174, 55 Stat. 242, as amended, referred to in subsec. (a),
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–304 substituted “documented” for “registered, enrolled, or licensed”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–304 substituted “documented” for “registered, enrolled, or licensed”.
 
-1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in second par.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in second par.
 

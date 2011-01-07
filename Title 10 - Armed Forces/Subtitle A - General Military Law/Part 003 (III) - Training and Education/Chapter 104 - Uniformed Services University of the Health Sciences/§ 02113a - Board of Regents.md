@@ -40,5 +40,5 @@ Meetings.—The Board shall meet at least once a quarter.
 
 #### Amendments
 
-2009—Subsec. (b)(1). Pub. L. 111–84 substituted “health care, higher education administration, or public policy” for “health and health education”.
+<b>2009</b>—Subsec. (b)(1). Pub. L. 111–84 substituted “health care, higher education administration, or public policy” for “health and health education”.
 

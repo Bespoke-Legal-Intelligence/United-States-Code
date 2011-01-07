@@ -6,7 +6,7 @@ Section 2602, acts June 25, 1948, ch. 646, 62 Stat. 980; Oct. 14, 1966, Pub. L. 
 
 Section 2603, added Pub. L. 96–417, title IV, §404(a), Oct. 10, 1980, 94 Stat. 1741, provided that, except as provided in section 2639 or 2641(b) of this title or in the rules prescribed by the court, the Federal Rules of Evidence would apply in the Court of Customs and Patent Appeals in any appeal from the Court of International Trade.
 
-Section 2604, added Pub. L. 96–417, title IV, §405(a), Oct. 10, 1980, 94 Stat. 1741, authorized the chief judge of the Court of Customs and Patent Appeals to summon annually the judges of the court to a judicial conference for the purpose of considering the business of the court and improvements in the administration of justice of the court.
+Section 2604, added Pub. L. 96–417, title IV, §405(a), Oct. 10, 1980, 94 Stat. 1741, authorized the chief judge ofthe Court of Customs and Patent Appeals to summon annually the judges of the court to a judicial conference for the purpose of considering the business of the court and improvements in the administration of justice of the court.
 
 #### Effective Date of Repeal
 

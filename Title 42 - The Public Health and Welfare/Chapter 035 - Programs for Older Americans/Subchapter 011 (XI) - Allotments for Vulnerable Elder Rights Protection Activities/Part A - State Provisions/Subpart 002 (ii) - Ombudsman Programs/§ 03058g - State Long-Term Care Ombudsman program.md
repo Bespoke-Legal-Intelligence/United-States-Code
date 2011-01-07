@@ -322,7 +322,7 @@ The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred t
 
 #### Amendments
 
-2000—Subsec. (a)(1). Pub. L. 106–501, §801(e)(2), substituted “section 3058a of this title and made available to carry out this subpart” for “section 3058a(a) of this title” in introductory provisions.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–501, §801(e)(2), substituted “section 3058a of this title and made available to carry out this subpart” for “section 3058a(a) of this title” in introductory provisions.
 
 Subsec. (a)(5)(C)(ii). Pub. L. 106–501, §704(1), inserted “and not stand to gain financially through an action or potential action brought on behalf of individuals the Ombudsman serves” after “interest”.
 
@@ -332,7 +332,7 @@ Subsec. (h)(6)(A). Pub. L. 106–402 substituted “subtitle C of the Developmen
 
 Subsec. (h)(8), (9). Pub. L. 106–501, §704(2)(B)–(D), added par. (8) and redesignated former par. (8) as (9).
 
-1993—Subsecs. (a)(3)(I), (c)(2)(C), (h)(3)(B). Pub. L. 103–171, §3(a)(9)(B), substituted “Assistant Secretary” for “Commissioner”.
+<b>1993</b>—Subsecs. (a)(3)(I), (c)(2)(C), (h)(3)(B). Pub. L. 103–171, §3(a)(9)(B), substituted “Assistant Secretary” for “Commissioner”.
 
 Subsec. (h)(4)(A). Pub. L. 103–171, §3(a)(9)(A), substituted “Director of the Office of Long-Term Care Ombudsman Programs” for “Associate Commissioner for Ombudsman Programs”.
 

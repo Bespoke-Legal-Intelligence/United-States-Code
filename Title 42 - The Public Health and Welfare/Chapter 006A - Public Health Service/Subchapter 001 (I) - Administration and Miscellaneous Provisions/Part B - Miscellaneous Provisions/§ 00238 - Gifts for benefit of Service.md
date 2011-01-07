@@ -24,15 +24,15 @@ Section was formerly classified to section 300aaa of this title prior to renumbe
 
 #### Amendments
 
-1968—Subsec. (e). Pub. L. 90–574 struck out subsec. (e) which provided for acknowledgment of donations of $50,000 or more in aid of research by the establishment of suitable memorials within the National Institutes of Health and the National Institute of Mental Health.
+<b>1968</b>—Subsec. (e). Pub. L. 90–574 struck out subsec. (e) which provided for acknowledgment of donations of $50,000 or more in aid of research by the establishment of suitable memorials within the National Institutes of Health and the National Institute of Mental Health.
 
-1948—Subsec. (e). Act June 16, 1948, substituted “National Institutes of Health” for “National Institute of Health”.
+<b>1948</b>—Subsec. (e). Act June 16, 1948, substituted “National Institutes of Health” for “National Institute of Health”.
 
-1946—Subsec. (e). Act July 3, 1946, inserted reference to National Institute of Mental Health.
+<b>1946</b>—Subsec. (e). Act July 3, 1946, inserted reference to National Institute of Mental Health.
 
 #### Transfer of Functions
 
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a noteunder section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
 

@@ -24,13 +24,15 @@
 
 The Atomic Energy Act of 1954, as amended, referred to in subsec. (a)(5), (6), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. Chapter 12 of the 1954 Act is classified generally to subchapter XI (§2161 et seq.) of division A of chapter 23 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
-The Energy Reorganization Act of 1974, referred to in subsec. (b), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which is classified principally to chapter 73 (§5801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of Title 42 and Tables.
+The Energy Reorganization Act of 1974, referred to in subsec. (b), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233,as amended, which is classified principally to chapter 73 (§5801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of Title 42 and Tables.
 
 #### Amendments
 
-1998—Pub. L. 105–277 redesignated pars. (3) to (8) as (2) to (7), respectively, and struck out former par. (2) which read as follows: “ ‘Director’ means the Director of the Arms Control and Disarmament Agency;”.
+<b>1998</b>—Pub. L. 105–277 redesignated pars. (3) to (8) as (2) to (7), respectively, and struck out former par. (2) which read as follows: “ ‘Director’ means the Director of the Arms Control and Disarmament Agency;”.
 
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
+
+<i><sup>1</sup></i><i> So in the original. Probably should be “section 109(b)”.</i>
 

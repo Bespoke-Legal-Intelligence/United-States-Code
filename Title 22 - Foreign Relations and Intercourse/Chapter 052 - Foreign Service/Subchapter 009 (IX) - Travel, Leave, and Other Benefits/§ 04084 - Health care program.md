@@ -6,7 +6,7 @@ The Secretary of State shall establish a health care program to promote and main
 
 #### (b) Services provided
 
-Any such health care program may include (1) medical examinations for applicants for employment, (2) medical examinations and inoculations or vaccinations, and other preventive and remedial care and services as necessary, for members of the Service and employees of the Department who are citizens of the United States and for members of their families, (3) health education and disease prevention programs for all employees, and (4) examinations necessary in order to establish disability or incapacity of participantsin the Foreign Service Retirement and Disability System or Foreign Service Pension System or to provide survivor benefits under subchapter VIII of this chapter.
+Any such health care program may include (1) medical examinations for applicants for employment, (2) medical examinations and inoculations or vaccinations, and other preventive and remedial care and services as necessary, for members of the Service and employees of the Department who are citizens of the United States and for members of their families, (3) health education and disease prevention programs for all employees, and (4) examinations necessary in order to establish disability or incapacity of participants in the Foreign Service Retirement and Disability System or Foreign Service Pension System or to provide survivor benefits under subchapter VIII of this chapter.
 
 #### (c) Facilities; employment of personnel
 
@@ -32,13 +32,13 @@ Reimbursements paid to the Department of State for funding the costs of medical 
 
 #### Amendments
 
-2005—Subsec. (g). Pub. L. 109–140 added subsec. (g).
+<b>2005</b>—Subsec. (g). Pub. L. 109–140 added subsec. (g).
 
-2002—Subsec. (b). Pub. L. 107–228 substituted “families, (3) health education and disease prevention programs for all employees, and (4)” for “families, and (3)”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–228 substituted “families, (3) health education and disease prevention programs for all employees, and (4)” for “families, and (3)”.
 
-1988—Subsec. (b). Pub. L. 100–238 inserted “or Foreign Service Pension System” after “System”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–238 inserted “or Foreign Service Pension System” after “System”.
 
-1985—Subsec. (a). Pub. L. 99–93, §122(1), substituted “shall” for “may”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–93, §122(1), substituted “shall” for “may”.
 
 Subsec. (b). Pub. L. 99–93, §122(2), inserted “, and other preventive and remedial care and services as necessary,”.
 

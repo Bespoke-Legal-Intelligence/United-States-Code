@@ -26,7 +26,7 @@
 
 #### (1) Claims under section 7433
 
-&emsp;Whenever it appears to the court that the taxpayer's position in the proceedings before the court instituted or maintained by such taxpayer under section 7433 is frivolous or groundless, the court may require the taxpayer to pay to the United States a penalty not in excess of $10,000.
+&emsp;Whenever it appears to the court that the taxpayer's position in the proceedings beforethe court instituted or maintained by such taxpayer under section 7433 is frivolous or groundless, the court may require the taxpayer to pay to the United States a penalty not in excess of $10,000.
 
 #### (2) Collection of sanctions and costs
 
@@ -40,17 +40,17 @@
 
 #### Amendments
 
-1989—Pub. L. 101–239 substituted “Sanctions and costs awarded by courts” for “Damages assessable for instituting proceedings before the Court primarily for delay, etc.” in section catchline and amended text generally, making changes in substance and structure of subsecs. (a) and (b).
+<b>1989</b>—Pub. L. 101–239 substituted “Sanctions and costs awarded by courts” for “Damages assessable for instituting proceedings before the Court primarily for delay, etc.” in section catchline and amended text generally, making changes in substance and structure of subsecs. (a) and (b).
 
-1988—Pub. L. 100–647 struck out “Tax” after “before the” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
+<b>1988</b>—Pub. L. 100–647 struck out “Tax” after “before the” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
 
-1986—Pub. L. 99–514 substituted “, that the taxpayer's position in such proceeding is frivolous or groundless, or that the taxpayer unreasonably failed to pursue available administrative remedies” for “or that the taxpayer's position in such proceedings is frivolous or groundless”.
+<b>1986</b>—Pub. L. 99–514 substituted “, that the taxpayer's position in such proceeding is frivolous or groundless, or that the taxpayer unreasonably failed to pursue available administrative remedies” for “or that the taxpayer's position in such proceedings is frivolous or groundless”.
 
-1982—Pub. L. 97–248, §292(d)(2)(A), substituted “primarily for delay, etc.” for “merely for delay” after “Tax Court” in section catchline.
+<b>1982</b>—Pub. L. 97–248, §292(d)(2)(A), substituted “primarily for delay, etc.” for “merely for delay” after “Tax Court” in section catchline.
 
 Subsec. (a). Pub. L. 97–248, §292(b), substituted “or maintained by the taxpayer primarily for delay or that the taxpayer's position in such proceedings is frivolous or groundless, damages in an amount not in excess of $5,000” for “by the taxpayer merely for delay, damages in an amount not in excess of $500” in first sentence.
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 #### Effective Date of 1989 Amendment
 

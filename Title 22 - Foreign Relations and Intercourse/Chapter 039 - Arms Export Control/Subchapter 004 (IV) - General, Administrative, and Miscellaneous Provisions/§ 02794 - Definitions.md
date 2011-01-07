@@ -46,29 +46,33 @@ For purposes of this chapter, the term—
 
 #### References in Text
 
-The Atomic Energy Act of 1954, as amended, referred to in par. (3), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+This chapter, referred to in introductory provisions, was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+
+The Atomic Energy Act of 1954, as amended, referred to in par. (3), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. Forcomplete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 #### Amendments
 
-2002—Par. (10). Pub. L. 107–228, §1202(b), added par. (10).
+<b>2002</b>—Par. (10). Pub. L. 107–228, §1202(b), added par. (10).
 
 Par. (11). Pub. L. 107–228, §1405(a)(4), added par. (11).
 
-1996—Par. (9). Pub. L. 104–164 added par. (9).
+<b>1996</b>—Par. (9). Pub. L. 104–164 added par. (9).
 
-1985—Par. (2). Pub. L. 99–83, §107(b), inserted “, except as otherwise provided in section 2761(a) of this title,”.
+<b>1985</b>—Par. (2). Pub. L. 99–83, §107(b), inserted “, except as otherwise provided in section 2761(a) of this title,”.
 
 Par. (6). Pub. L. 99–83, §1211(b)(3), substituted “military” for “combat”.
 
-1980—Par. (4). Pub. L. 96–533, §105(f)(1), excluded from term “defense service” design and construction services under section 2769 of this title.
+<b>1980</b>—Par. (4). Pub. L. 96–533, §105(f)(1), excluded from term “defense service” design and construction services under section 2769 of this title.
 
 Par. (8). Pub. L. 96–533, §105(f)(2)–(4), added par. (8).
 
-1979—Par. (3). Pub. L. 96–92 defined “defense article” to include uranium depleted in the isotope 235 which is incorporated in defense articles solely to take advantage of high density or pyrophoric characteristics unrelated to radioactivity.
+<b>1979</b>—Par. (3). Pub. L. 96–92 defined “defense article” to include uranium depleted in the isotope 235 which is incorporated in defense articles solely to take advantage of high density or pyrophoric characteristics unrelated to radioactivity.
 
-1976—Pars. (3) to (7). Pub. L. 94–329 added pars. (3) to (7).
+<b>1976</b>—Pars. (3) to (7). Pub. L. 94–329 added pars. (3) to (7).
 
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

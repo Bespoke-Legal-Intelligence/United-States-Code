@@ -80,15 +80,15 @@ The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–
 
 #### Amendments
 
-2007—Subsec. (c)(3)(A). Pub. L. 109–482 substituted “section 282(b)(16)” for “section 282(b)(6)”.
+<b>2007</b>—Subsec. (c)(3)(A). Pub. L. 109–482 substituted “section 282(b)(16)” for “section 282(b)(6)”.
 
-1993—Subsec. (b)(2)(C). Pub. L. 103–43, §301(a)(1), added subpar. (C).
+<b>1993</b>—Subsec. (b)(2)(C). Pub. L. 103–43, §301(a)(1), added subpar. (C).
 
 Subsec. (c). Pub. L. 103–43, §301(b)(2), inserted concluding provisions relating to Federal Advisory Committee Act.
 
 Subsec. (c)(3). Pub. L. 103–43, §301(b)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “may, in consultation with the advisory council for the Institute and the approval of the Director of NIH, establish and appoint technical and scientific peer review groups in addition to those established and appointed under section 282(b)(6) of this title; and”.
 
-1988—Subsec. (b)(1). Pub. L. 100–607, §116(1), struck out “the” after “with respect to” in introductory provisions.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–607, §116(1), struck out “the” after “with respect to” in introductory provisions.
 
 Subsec. (c)(3). Pub. L. 100–690 substituted “establish and appoint” and “established and appointed” for “establish” and “established”, respectively.
 

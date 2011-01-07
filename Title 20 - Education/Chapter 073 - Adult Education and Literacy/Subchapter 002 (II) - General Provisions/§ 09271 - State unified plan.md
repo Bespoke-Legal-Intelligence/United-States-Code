@@ -8,7 +8,7 @@ In this section, the term “appropriate Secretary” means the head of the Fede
 
 #### (1) In general
 
-&emsp;A State may develop and submit to the appropriate Secretaries a State unified plan for 2 or more of the activities or programs set forth in paragraph (2), except that the Statemay include in the plan the activities described in paragraph (2)(A) only with the prior approval of the legislature of the State. The State unified plan shall cover one or more of the activities set forth in subparagraphs (A) through (D) of paragraph (2) and may cover one or more of the activities set forth in subparagraphs (E) through (O) of paragraph (2). For purposes of this paragraph, the activities and programs described in subparagraphs (A) and (B) of paragraph (2) shall not be considered to be 2 or more activities or programs for purposes of the unified plan. Such activities or programs shall be considered to be 1 activity or program.
+&emsp;A State may develop and submit to the appropriate Secretaries a State unified plan for 2 or more of the activities or programs set forth in paragraph (2), except that the State may include in the plan the activities described in paragraph (2)(A) only with the prior approval of the legislature of the State. The State unified plan shall cover one or more of the activities set forth in subparagraphs (A) through (D) of paragraph (2) and may cover one or more of the activities set forth in subparagraphs (E) through (O) of paragraph (2). For purposes of this paragraph, the activities and programs described in subparagraphs (A) and (B) of paragraph (2) shall not be considered to be 2 or more activities or programs for purposes of the unified plan. Such activities or programs shall be considered to be 1 activity or program.
 
 #### (2) Activities
 
@@ -78,13 +78,13 @@ In this section, the term “appropriate Secretary” means the head of the Fede
 
 &emsp;&emsp;In subparagraph (A), the term “criteria for approval of a State plan”, relating to activities carried out under title I \[29 U.S.C. 2801 et seq.\] or II \[20 U.S.C. 9201 et seq.\] or under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), includes a requirement for agreement between the State and the appropriate Secretary regarding State performance measures, including levels of performance.
 
-(Pub. L. 105–220, title V, §501, Aug. 7, 1998, 112 Stat. 1242; Pub. L. 105–277, div. A, §101(f) \[titleVIII, §401(17)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 109–270, §2(h)(7)–(9), Aug. 12, 2006, 120 Stat. 748; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(R), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(R), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+(Pub. L. 105–220, title V, §501, Aug. 7, 1998, 112 Stat. 1242; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(17)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 109–270, §2(h)(7)–(9), Aug. 12, 2006, 120 Stat. 748; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(R), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(R), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
 #### References in Text
 
 The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsecs. (b)(2)(A), (B) and (d)(2)(B), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
-Title I, referred to in subsec. (b)(2)(C), is title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of title I to the Code, see Tables.
+Title I, referred to in subsec. (b)(2)(C), is title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which is classified principally to chapter 30 (§2801 et seq.) of Title 29,Labor. For complete classification of title I to the Code, see Tables.
 
 Title II, referred to in subsec. (b)(2)(D), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, known as the Adult Education and Family Literacy Act, which is classified principally to subchapter I (§9201 et seq.) of this chapter. For complete classification of title II to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
@@ -106,9 +106,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (b)(2). Pub. L. 110–246, §4002(b)(1)(B), (2)(R), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” in subpars. (E) and (F).
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–246, §4002(b)(1)(B), (2)(R), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” in subpars. (E) and (F).
 
-2006—Subsec. (b)(2)(A). Pub. L. 109–270, §2(h)(7)(B), substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Applied Technology Education Act”.
+<b>2006</b>—Subsec. (b)(2)(A). Pub. L. 109–270, §2(h)(7)(B), substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Applied Technology Education Act”.
 
 Pub. L. 109–270, §2(h)(7)(A), which directed the substitution of “career and technical education programs at the secondary level” for “secondary vocational education programs”, was executed by making the substitution for “Secondary vocational education programs” to reflect the probable intent of Congress.
 
@@ -118,7 +118,7 @@ Pub. L. 109–270, §2(h)(8)(A), which directed the substitution of “career an
 
 Subsec. (d)(2)(B). Pub. L. 109–270, §2(h)(9), substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Applied Technology Education Act”.
 
-1998—Subsec. (b)(1). Pub. L. 105–277 inserted at end “For purposes of this paragraph, the activities and programs described in subparagraphs (A) and (B) of paragraph (2) shall not be considered to be 2 or more activities or programs for purposes of the unified plan. Such activities or programs shall be considered to be 1 activity or program.”
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–277 inserted at end “For purposes of this paragraph, the activities and programs described in subparagraphs (A) and (B) of paragraph (2) shall not be considered to be 2 or more activities or programs for purposes of the unified plan. Such activities or programs shall be considered to be 1 activity or program.”
 
 #### Effective Date of 2008 Amendment
 

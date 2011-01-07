@@ -38,7 +38,7 @@ Statement of Goals and Recommendations.—
 
 &emsp;(1)
 
-Statement of goals.—The Commission shall develop a statement of goals concerningthe future of Northeast Corridor rail infrastructure and operations based on achieving expanded and improved intercity, commuter, and freight rail services operating with greater safety and reliability, reduced travel times, increased frequencies and enhanced intermodal connections designed to address airport and highway congestion, reduce transportation energy consumption, improve air quality, and increase economic development of the Northeast Corridor region.
+Statement of goals.—The Commission shall develop a statement of goals concerning the future of Northeast Corridor rail infrastructure and operations based on achieving expanded and improved intercity, commuter, and freight rail services operating with greater safety and reliability, reduced travel times, increased frequencies and enhanced intermodal connections designed to address airport and highway congestion, reduce transportation energy consumption, improve air quality, and increase economic development of the Northeast Corridor region.
 
 &emsp;(2)
 
@@ -130,7 +130,7 @@ In general.—The Secretary shall establish a Northeast Corridor Safety Committe
 
 &emsp;(2)
 
-Function; meetings.—The Secretary shall consult with the Committee about safetyand security improvements on the Northeast Corridor main line. The Committee shall meet at least two times per year to consider safety and security matters on the main line.
+Function; meetings.—The Secretary shall consult with the Committee about safety and security improvements on the Northeast Corridor main line. The Committee shall meet at least two times per year to consider safety and security matters on the main line.
 
 &emsp;(3)
 
@@ -186,5 +186,5 @@ Sections 203 and 211 of the Passenger Rail Investment and Improvement Act of 200
 
 #### Amendments
 
-2008—Pub. L. 110–432 amended section generally. Prior to amendment, section related to Northeast Corridor Coordination Board and Northeast Corridor Safety Committee.
+<b>2008</b>—Pub. L. 110–432 amended section generally. Prior to amendment, section related to Northeast Corridor Coordination Board and Northeast Corridor Safety Committee.
 
